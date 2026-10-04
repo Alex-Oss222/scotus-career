@@ -1,0 +1,120 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 154,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:&quot;94-9247&quot; OR text:&quot;94-9247&quot; OR text__reviews:&quot;94-9247&quot;) OR title:Carlisle)",
+      "qin": "collection:us-supreme-court AND (&quot;94-9247&quot; OR title:Carlisle)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 100,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 25,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40385015_0177",
+        "title": "Arthur Andersen LLP v. Carlisle, 556 U.S. 624 (2009) (No. 08-146)"
+      },
+      {
+        "identifier": "micro_IA40386008_1120",
+        "title": "Carlisle v. Carnival Corp (No. 06-1704)"
+      },
+      {
+        "identifier": "micro_IA40386002_1058",
+        "title": "Jones v. Carlisle, 510 U.S. 1177 (1994) (No. 93-1107)"
+      },
+      {
+        "identifier": "micro_IA40385015_0388",
+        "title": "Carlisle v. Ohio (No. 08-619)"
+      },
+      {
+        "identifier": "micro_IA40385603_0405",
+        "title": "Carlisle v. Eisen, 386 U.S. 1035 (1967) (No. 1195)"
+      },
+      {
+        "identifier": "micro_IA40386418_0741",
+        "title": "Carlisle v. United States, 352 U.S. 841 (1956) (No. 271)"
+      },
+      {
+        "identifier": "per_scotus_1849_165",
+        "title": "Alexander M. Sharp, Samuel D. Henderson, et al., Stockholders, &c., Appellants. vs. George A. Lyons, Robert Irvine, et al., Diretors of the Carlisle Bank. 1849: Vol 165"
+      },
+      {
+        "identifier": "micro_IA40385017_1141",
+        "title": "Carlisle v. United States, 510 U.S. 1068 (1994) (No. 92-1139)"
+      },
+      {
+        "identifier": "per_scotus_1873_74",
+        "title": "Samuel Hepburn, Plaintiff in Error, vs. The School Directors of the Borough of Carlisle, in Pennsylvania. 1873: Vol 74"
+      },
+      {
+        "identifier": "per_scotus_1853_195",
+        "title": "Edward Minturn, Comp't and App't, vs. James B. Larue, Carlisle P. Patterson, and John R. Fouratt. 1853: Vol 195"
+      },
+      {
+        "identifier": "micro_IA40386414_0297",
+        "title": "Eisen v. Carlisle & Jacquelin, 417 U.S. 156 (1974) (No. 73-203)"
+      },
+      {
+        "identifier": "micro_IA40386010_0879",
+        "title": "Barrett v. Borough of Carlisle, 532 U.S. 973 (2001) (No. 00-1369)"
+      },
+      {
+        "identifier": "micro_IA40386013_0913",
+        "title": "Carlisle v. Robinett, 522 U.S. 820 (1997) (No. 96-1993)"
+      },
+      {
+        "identifier": "per_scotus_1879_166",
+        "title": "The First National Bank of Carlisle, Pennsylvania, Wilbur F. Sadler, Receiver, Plaintiff in Error, vs. Fannie L. Graham. 1879: Vol 166"
+      },
+      {
+        "identifier": "micro_IA40386011_0175",
+        "title": "Carlisle v. Bradshaw, 503 U.S. 960 (1992) (No. 91-1291)"
+      },
+      {
+        "identifier": "micro_IA40385019_1921",
+        "title": "Carlisle v. County of San Mateo, 488 U.S. 827 (1988) (No. 87-2089)"
+      },
+      {
+        "identifier": "micro_IA40386012_1187",
+        "title": "Carlisle ex rel. Carlisle v. Munna, 514 U.S. 1017 (1995) (No. 94-1271)"
+      },
+      {
+        "identifier": "micro_IA40386006_1830",
+        "title": "Scott P. ex rel. Bess P. v. Carlisle Area School District, 517 U.S. 1135 (1996) (No. 95-1270)"
+      },
+      {
+        "identifier": "micro_IA40386014_1510",
+        "title": "Barrett v. Borough of Carlisle, 531 U.S. 1148 (2001) (No. 00-977)"
+      },
+      {
+        "identifier": "micro_IA40386001_0547",
+        "title": "Deming v. Carlisle Packing Co., 226 U.S. 102 (1912) (No. 511)"
+      },
+      {
+        "identifier": "micro_IA40386013_1158",
+        "title": "Carlisle v. Texas, 522 U.S. 867 (1997) (No. 97-194)"
+      },
+      {
+        "identifier": "micro_IA43085015_0462",
+        "title": "Jerman v. Carlisle, McNellie, Rini, Kramer & Ulrich LPA, 559 U.S. 573 (2010) (No. 08-1200)"
+      },
+      {
+        "identifier": "micro_IA40386010_0806",
+        "title": "Barrett v. Borough of Carlisle, 532 U.S. 943 (2001) (No. 00-1292)"
+      },
+      {
+        "identifier": "micro_IA40386005_0069",
+        "title": "Carlisle Packing Co. v. Sandanger, 259 U.S. 255 (1922) (No. 195)"
+      },
+      {
+        "identifier": "micro_IA40385013_0626",
+        "title": "Carlisle v. United States, 517 U.S. 416, (1996) (No. 94-9247)"
+      }
+    ]
+  }
+}

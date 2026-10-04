@@ -1,0 +1,1884 @@
+F * 
+
+
+No. 95-157 
+
+
+— „ 
+* * * — 
+* 1 Pen by 4 
+
+
+FILED 
+brs 14 1995 
+
+
+= 
+
+
+tes 
+
+
+3 — 
+In the Supreme Court of the United Sta 
+
+
+OCTOBER TERM, 1995 
+
+
+UNITED STATES OF AMERICA, PETITIONER 
+2 
+
+
+CHRISTOPHER LEE ARMSTRONG, ETAL. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+DREW S. Days, III 
+Solicitor General 
+JOHN C. KEENEY 
+Acting Assistant Attorney 
+General 
+MICHAEL R. DREEBEN 
+Deputy Solicitor General 
+IRVING L. GORNSTEIN 
+Assistant to the Solicitor 
+General 
+KATHLEEN A. FELTON 
+Attorney 
+Department of Justice 
+Washington, D.C. 20520 
+
+
+(202) 514-2217 
+
+
+QUESTION PRESENTED 
+
+
+Whether the court of appeals erred in holding that 
+evidence that members of a particular race have been 
+prosecuted for a particular offense is sufficient to 
+justify an order requiring discovery from the govern- 
+ment on a claim of selective prosecution, absent 
+evidence that similarly situated persons of a different 
+race have not been prosecuted for that offense. 
+
+
+(I) 
+
+
+Page 
+r | 
+D 1 
+. 2 
+r 11 
+Argument: 
+Discovery on a claim of selective prosecution on the 
+basis of race may not be ordered absent evidence 
+that similarly situated persons of a different race 
+have not been prosecute 15 
+A. A defendant seeking discovery on a claim of 
+selective prosecution must make a substantial 
+V 16 
+B. The showing to obtain discovery must include 
+some evidence that similarly situated persons 
+have not been prosecuteſdſd̃ddl 21 
+C. The court of appeals’ reasons for eliminating 
+the similarly situated offender requirement 
+S ettecieitncinaridendeunacesnanssnessecccsnccesesececcoes 2s 
+D rceteenenencennnnenennsescnecoceseeseceeeee 38 
+
+
+Cases: 
+
+
+Ah Sin v. Wittman, 198 U.S. 500 (1905) ... 
+
+
+TABLE OF CONTENTS 
+
+
+TABLE OF AUTHORITIES 
+
+
+Albemarle Paper Co. v. Moody, 422 U.S. 405 
+
+
+(1975) 
+
+
+(DORR R ERE E LEER EERE EE EET EEE EEE „„ „„ 
+
+
+Attorney General v. Irish People, Inc., 684 F 2d 928 
+(D.C, Cir. 1982), cert. demed. 459 U.S. 1172 
+
+
+(1983) 
+
+
+Basic Inc. v. Levinson, 485 U.S. 224 (1988) ............ 
+Bordenkircher v. Hayes, 434 U.S. 357 (1978) .......... 
+Brady v. Maryland, 373 U.S. 83 (1963) .................. 
+C.E. Carlson, Inc. v. SEC, 859 F.2d 1429 (10th 
+rr 
+Cobbledick v. United States, 309 U.S. 323 (1940) .... 
+Cooter & Gell v. Hartmarr Corp., 496 U.S. 384 
+
+
+(1990) 
+
+
+3*„«%“ä˙᷑ „%%% ——————ꝓ ͤ03ͥ PP: ũ ̃ꝗᷓ %% 
+
+
+(IID) 
+
+
+14, 32, 33, 34 
+
+
+36 
+
+
+Sa 8B 
+
+
+Cases—Continued: Page 
+Bella v. United States, 369 U.S. 121 (1962 17 
+Hazelwood School District v. United States, 
+
+f he 32 
+Heckler v. Chaney, 470 U.S. 821 (1986) 16 
+Imbler v. Pachtman, 424 U.S. 409 (1976) ............... 19 
+Marshall v. Jerrico, Inc., 446 U.S. 238 (190 16 
+McCleskey v. Kemp, 481 U.S. 279 (1987) ... 18, 29, 31, 32 
+Oyler v. Boles, 368 U.S. 448 (196 2· 70 17 
+Personnel Administrator of Massachusetts v. 
+
+Feeney, 442 U.S. 256 (197% „ 18 
+Ponzi v. Fessenden, 258 U.S. 254 (1922727 16 
+Town of Newton v. Rumery, 480 U.S. 386 
+
+——ꝛ—ů—ͤ b » iain 16. 17. 29 
+Turner v. United States, 396 U.S. 398 (19700 30 
+United States v. Adams, 870 F.2d 1140 (6th Cir. 
+
+. ¹ův s ˙ F tie isi 26 
+United States v. Armstrong, 48 F.3d 1508 (9th 
+
+... —— —— tidal aaa 34 
+United States v. Bassford, 812 F.2d 16 (Ist Cir.), 
+
+cert. denied, 481 U.S. 1022 (1987) ........ccccccccececeecees 18 
+
+
+United States v. Batchelder, 442 U.S. 114 (1979) . 16, 17 
+United States v. Bourgeois, 964 F.2d 935 (9th Cir.), 
+
+
+cert. denied, 113 S. Ct. 290 (1992 8, 25, 26 
+United States v. Burr, 25 F. Cas. 30 (C.C. Va. 
+
+I Es, Se 36 
+United States v. Chemical Foundation, Inc., 
+
+- 1 EL 18, 29 
+United States v. Cooks, 52 F.3d 101 (5th Cir. 
+
+—— tee 23, 34 
+United States v. Diggs, 613 F 2d 988 (D.C. Cir. 
+
+1979), cert. denied, 446 U.S. 982 (19860) 27 
+United States v. Falk, 479 F.2d 616 (7th Cir. 
+
+— —— T—— ö ad ce 19 
+United States v. Fares, 978 F.2d 52 (2d Cir. 1992) . 23 
+United States v. Goodwin, 457 U.S. 368 (1982 16 
+
+
+Cases—Continued: Page 
+
+
+United States v. Gordon, 817 F.2d 1538 (1987), 
+vacated in part on rehearing, 836 F.2d 1312 (11th 
+Cir.), cert. dismissed, 487 U.S. 1265 a 
+
+United States v. Greenwood, 796 F 2d 49 (4th Cir. 
+
+
+United States v. Huff, 959 F. 2d 731 (eth Cir. 1992), 
+
+
+cert. denied, 113 S. Ct. 162 (1990 34-35 
+United States v. Lovasco, 431 US. 783 (1977) ........ 17 
+United States v. Mezzanatto, 115 S. Ct. 797 
+
+— ͤ ͤ —— ee et 18, 29 
+United States v. Mitchell, 778 F 2d 1271 (7th Cir. 
+
+... —————————— — 24 
+United States v. Moon, 718 F 2d 1210 (2d Cir. 
+
+1983), cert. denied, 466 U.S. 971 — — 19 
+United States v. Murdock, 548 F. 2d 599 (5th Cir. 
+
+—̃ ͤ—„— —d—— 20 
+United States v. Nixon, 418 US. 683 (1974) 16 
+United States v. Parham, 16 F.3d 844 (8th Cir. 
+
+——ñ̃ñ̃ — — 18, 24 
+United States v. Peete, 919 F 2d 1168 (6th Cir. 
+
+—ͤͤͤ ͤ — —— ů ů 24 
+United States v. Penagaricano-Soler, 911 F 2d 833 
+
+1 —— on. 18 
+United States v. Schmucker, 815 F.2d 413 (6th Cir. 
+
+— — —zẽ—— —¾½.Z 24 
+
+
+United States v. Steele, 461 F 2d 1148 (9th Cir. 
+6 —— — — 27 
+
+
+VI 
+Cases—Continued: Page 
+United States Dep't of Labor v. Triplett, 494 U.S. 
+ ] | . ——— 35 
+
+
+Village of Arlington Heights v. Metropolitan 
+Housing Development Corp., 429 U.S. 252 
+
+
+a 18, 31, 32 
+Wade v. United States, 504 U.S. 181 (1992) ............ 21 
+Washington v. Davis, 426 U.S. 229 (1976) ............... 18 
+Wayte v. United States, 470 U.S. 598 (1985) ........ 12, 16, 
+
+17, 18 
+
+Weatherford v. Bursey, 429 U.S. 545 (1977) ............ 20 
+Yick Wo v. Hopkins, 118 U.S. 356 (1886) ............. 12, 17, 
+18, 31, 32, 33 
+
+
+Constitution, statutes and rules: 
+
+
+Oe 11 
+| — 16 
+T 19 
+Amend. XIV (Equal Protection Clause) 32, 34 
+Speedy Trial Act of 1974, 18 U.S.C. 3161 et seq. ........ 19 
+11—— ͤ . 2 
+Tg ü ñu1. T 3. 6 
+111 7?—— ⁵ 2 
+1 „„. ̃w:.. T 2, 3, 6 
+LL 19-20 
+Fed. R. Crim. P.: 
+8 ———ů—— 19 
+1111. .... 20 
+BRD ED ——— —— —— — 19 
+Miscellaneous: 
+United States Sentencing Comm'n, Annual Report 
+— Oe 30 
+
+
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+No. 95-157 
+
+
+UNITED STATES OF AMERICA, PETITIONER 
+Vv. 
+CHRISTOPHER LEE ARMSTRONG, ET AL. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the en banc court of appeals (Pet. 
+App. la-67a) is reported at 48 F.3d 1508. The panel 
+opinion of the court of appeals (Pet. App. 68a-104a) is 
+reported at 21 F.3d 1431. 
+
+
+JURISDICTION 
+
+
+The judgment of the en bane court of appeals was 
+entered on March 2, 1995. By order dated June 21, 
+1995, Justice O’Connor extended the time within 
+which to file a petition for a writ of certiorari to and 
+including July 28, 1995. The petition for a writ of 
+certiorari was filed on July 28, 1995, and was granted 
+on October 30, 1995 (J.A. 237). The jurisdiction of this 
+Court rests on 28 U.S.C. 1254(1). 
+
+
+(1) 
+
+
+STATEMENT 
+
+
+On April 21, 1992, respondents Christopher Lee 
+Armstrong, Robert Rozelle, Aaron Hampton, Freddie 
+Mack, and Shelton Auntwan Martin were indicted in 
+the United States District Court for the Central 
+District of California on charges of conspiring to 
+possess with intent to distribute, and conspiring to 
+distribute, more than 50 grams of cocaine base 
+(crack), in violation of 21 U.S.C. 846. Respondents 
+were also variously charged in four counts with 
+distributing crack, in violation of 21 U.S.C. 841(a)(1), 
+in one count with possessing crack with intent to 
+distribute it, in violation of 21 U.S.C. 841(a)(1), and in 
+three counts with using or carrying a firearm dur- 
+ing and in relation to a drug trafficking crime, in 
+violation of 18 U.S.C. 924(c). J. A. 60-67. 
+
+Respondents, each of whom is black, alleged that 
+the United States Attorney’s Office had determined 
+to prosecute them because of their race. They sought 
+discovery from the government to obtain information 
+that they asserted would support that claim. J.A. 68. 
+The district court granted the motion for discovery. 
+J.A. 150-151. It also adhered to that ruling in denying 
+the government’s motion for reconsideration. J.A. 
+216, 217. When the government indicated that it 
+would not comply with the discovery order, the 
+district court dismissed the indictment. J.A. 224-226. 
+A divided panel of the court of appeals reversed, 
+concluding that the district court had abused its 
+discretion in ordering discovery. Pet. App. 68a-104a. 
+On rehearing en banc, the court of appeals, by a 7-4 
+vote, held that the district court had permissibly 
+ordered discovery. It therefore affirmed the district 
+court’s dismissal of the indictment. Id. at la-67a. 
+
+
+3 
+
+
+1. From February to April 1992, a task force 
+composed of detectives from the Inglewood, Cali- 
+fornia, police department’s Narcotics Division and 
+agents of the federal Bureau of Alcohol, Tobacco, and 
+Firearms (ATF) conducted an investigation into a 
+crack distribution ring. From February 13, 1992, to 
+April 6, 1992, confidential informants made seven 
+different purchases of crack from respondents, total- 
+ling approximately 124.3 grams. The informants also 
+reported the use of firearms by respondents during 
+the sales. Pet. App. 69a-70a. 
+
+On April 8, 1992, task force agents executed war- 
+rants to search the hotel room where the drug sales 
+took place, as well as the residences of some of 
+the respondents. The officers arrested respondents 
+Armstrong and Hampton in the hotel room; they also 
+discovered 9.29 additional grams of crack and a loaded 
+gun. Respondents Mack, Martin, and Rozelle were 
+later arrested pursuant to bench warrants. Pet. App. 
+70a; J. A. 64. 
+
+2. Respondents filed a motion for discovery or 
+dismissal of the indictment, alleging that the gov- 
+ernment had selected them for prosecution because of 
+their race. In support of their motion for discovery, 
+respondents offered only one item of evidence to 
+substantiate their claim of selective prosecution: an 
+affidavit from a paralegal employed by the Federal 
+Public Defender for the Central District of Cali- 
+fornia. J.A. 68-70. The affidavit stated that, based on 
+a review of all cases closed by the Federal Public 
+Defender’s Office during 1991 that involved substan- 
+tive drug offenses or drug conspiracy offenses in 
+violation of 21 U.S.C. 841 and 846, all of the 24 
+defendants charged with a crack trafficking offense 
+were black. The government opposed respondents’ 
+
+
+1 
+
+
+motion for discovery, arguing that respondents had 
+failed to establish the threshold showing of selective 
+prosecution required to justify an order compelling 
+discovery. J.A. 149-150. 
+
+The district court found that respondents’ showing 
+was sufficient to justify discovery. The court stated 
+that the number of cases and the time period covered 
+by the affidavit; the comparable charges involved in 
+each case; and the fact that all the defendants were of 
+the same race required the government to provide an 
+explanation. The court ordered the government: (1) to 
+list all cases from the prior three years in which the 
+government charged both crack and firearms offen- 
+ses; (2) to identify the race of the defendant in each 
+case; (3) to state whether each case was investigated 
+by federal or state law enforcement authorities or by 
+a joint federal and state effort; and (4) to explain the 
+criteria used by the United States Attorney’s Office 
+in deciding whether to bring crack charges in federal 
+court. J.A. 161-162. 
+
+The government moved for reconsideration of the 
+court’s discovery order. In support of its motion, the 
+government submitted affidavits from the two offi- 
+cers who had investigated this case. Those affidavits 
+stated that race had played no role in the investiga- 
+tion and that the case had been referred for federal 
+prosecution because it involved provable crack and 
+firearms offenses that met the U.S. Attorney’s guide- 
+lines for federal prosecution. J.A. 75-79. The govern- 
+ment also submitted the affidavit of the then-Chief of 
+the Criminal Complaints Section of the United States 
+Attorney’s Office, who explained that Jalll charging 
+decisions are made on the basis of whether a federal 
+offense that meets this Office’s guidelines has oc- 
+curred, the overall strength of the evidence, the de- 
+
+
+5 
+
+
+terrence value and federal interest associated with 
+the particular case, the criminal history of the 
+suspects, and other race-neutral criteria.” J.A. 80. 
+He further stated that this case met the general 
+criteria because: it involved more than 100 grams 
+of crack, which was in excess of twice the amount 
+necessary for a ten-year mandatory minimum sen- 
+tence; the case involved multiple sales and multi- 
+ple defendants, indicating a fairly substantial crack 
+cocaine ring; the case was jointly investiga: by 
+federal and state agencies; firearms were used in 
+connection with the drug trafficking; the evidence 
+against respondents, including audio and video tapes 
+of respondents’ illegal activities, was strong; respon- 
+dent Armstrong had made threats against the arrest- 
+ing officers; and several of the respondents had 
+committed prior narcotics and firearms violations. 
+J. A. 81. 
+
+In addition, the government submitted an affi- 
+davit from the Publie Information Officer for the 
+Los Angeles Division of the Drug Enforcement 
+Administration (DEA) and a DEA report on crack. 
+The affidavit stated that, for cultural and historical 
+reasons, particular racial and ethnic groups tend to 
+dominate the distribution of particular drugs. In the 
+officer’s experience, black street gangs dominate the 
+distribution of crack in the Los Angeles area. J.A. 73, 
+74. The DEA report, “Crack Cocaine Overview 1989,” 
+detailed the sociological patterns of crack use and 
+distribution in this country. J.A. 84-117. It concluded 
+that Jamaicans, Haitians, and black street gangs 
+dominate the large-scale manufacture and distribu- 
+tion of crack nationwide. J.A. 103. 
+
+The government also provided evidence, based on 
+an informal survey of Assistant United States Attor- 
+
+
+6 
+
+
+neys in the Central District of California, that at_ 
+least 11 non-black defendants had been indicted on 
+crack charges during the period covered by respon- 
+dents’ affidavit. J.A. 82, 169. Five of those 11 were 
+represented by the Federal Public Defender. J.A. 82, 
+169. Finally, the government also submitted com- 
+puterized records showing that from 1989 to 1992 
+approximately 2,400 defendants had been charged with 
+drug offenses under 21 U.S.C. 841 and approximately 
+1,700 defendants had been charged with drug con- 
+spiracy offenses under 21 U.S.C. 846. J.A. 82. 
+
+In response, respondents offered an affidavit from 
+one of respondents’ defense attorneys stating that 
+she had spoken to an intake coordinator at a drug 
+treatment center in Pasadena, California, who told 
+her that, based on his experience, there are “an equal 
+number of caucasian users and dealers to minority 
+users and dealers.” J.A. 138. A second defense at- 
+torney asserted in a declaration that, based on his 
+discussions with judges, prosecutors, and defense 
+attorneys, many non-blacks are prosecuted in state 
+court for crack offenses. J.A. 141. Finally, respon- 
+dents offered a newspaper article that stated that the 
+federal penalty for crack offenses is higher than the 
+penalty for powder cocaine offenses and that most 
+federal defendants in crack cases nationwide are 
+black. Pet. App. 6a-7a, 33a; J.A. 208-210. 
+
+The district court denied the government’s motion 
+for reconsideration, stating: 
+
+
+The statistical data provided by [respondents] 
+raises a question about the motivation of the 
+Government which could be satisfied by the 
+Government disclosing its criteria, if there is any 
+
+
+7 
+
+
+criteria, for bringing this case and others like 
+it in Federal court. 
+
+
+Without the criteria, the statistical data is 
+evidence and does suggest that the decision to 
+prosecute in Federal court could be motivated by 
+race. 
+
+
+J. A. 217. After the government indicated that it would 
+not comply with the court’s discovery order, the 
+district court dismissed the indictment. J.A. 224-226. 
+
+3. A divided panel of the court of appeals reversed. 
+Pet. App. 68a-104a. The panel held that, to justify 
+discovery on a claim of selective prosecution, a 
+criminal defendant must demonstrate a “colorable 
+basis for believing that ‘others similarly situated 
+have not been prosecuted.’” Jd. at 80a. The panel 
+determined that respondents’ 24-case study failed to 
+satisfy that test because it showed only that “others 
+have been prosecuted, not that others similarly 
+situated have not.“ Ibid. Without a colorable basis 
+for believing that others similarly situated have not 
+been prosecuted, the panel stated, “the most rea- 
+sonable conclusion is that the defendant was selected 
+for prosecution because the government believed 
+the defendant committed the offense; the fact that 
+the defendant is a member of a protected class is 
+coincidental.” Ibid. 
+
+Judge Reinhardt dissented. Pet. App. 85a-104a. In 
+his view, a court “must assume that people 
+of all races commit all types of crimes.” Id. at 96a. 
+For that reason, Judge Reinhardt concluded that, 
+where a defendant shows a reasonable statistical 
+basis for the inference that all defendants charged 
+with a particular federal crime over a significant 
+period of time were members of a single race, such a 
+
+
+8 
+
+
+showing creates, ipso facto, a colorable basis for 
+believing that similarly situated members of other 
+races were not prosecuted.” Id. at 96a-97a. 
+
+4. The court of appeals granted rehearing en banc 
+to resolve a conflict in its cases over the standards 
+governing discovery when a defendant claims selec- 
+tive prosecution. By a 7-4 vote, the court held that 
+the district court had not abused its discretion in 
+ordering discovery in this case. Pet. App. la-67a. 
+
+The majority first held that a district court has 
+discretion to order discovery on a claim of selective 
+prosecution when “the evidence provides a colorable 
+basis for believing that discriminatory prosecutorial 
+selections have occurred.” Pet. App. 8a. Rejecting 
+the view expressed in United States v. Bourgeois, 964 
+F.2d 935, 940 (9th Cir.), cert. denied, 113 S. Ct. 290 
+(1992), that discovery should be ordered only in the 
+rare case, the en banc court held that the applicable 
+standard does not set a “high threshold” to obtain 
+discovery. Pet. App. 9a. Instead, it requires defen- 
+dants to produce “some evidence tending to show the 
+essential elements of the claim,” a standard that is 
+met when the evidence is “more than frivolous and 
+based on more than conclusory allegations,” and when 
+defendants “make good faith efforts to obtain what- 
+ever evidence is readily available, as well as to provide 
+whatever evidence is already in their possession.” Id. 
+at 8a, 12a. Because the court believed that proving a 
+case of selective prosecution is difficult and that the 
+information necessary to support such a claim may be 
+in the government’s exclusive possession, the court 
+concluded that a more substantial threshold showing 
+should not be required. Id. at 1la-12a. The court also 
+held that, by itself, statistical information concerning 
+whom the government has prosecuted can establish a 
+
+
+9 
+
+
+prima facie case of race-based selective prosecution. 
+Id. at 10a & n. 1. Concluding that the standard for 
+obtaining discovery should be lower than that re- 
+quired for a prima facie case, the court held that 
+“inadequately explained evidence of a significant 
+statistical disparity in the race of those prosecuted 
+suffices to show the colorable basis of discriminatory 
+intent and effect that warrants discovery on a selec- 
+tive prosecution claim.” Jd. at lla. 
+
+Applying those standards, the court held that 
+respondents’ identification of 24 black crack defen- 
+dants was sufficient to establish a “disparity,” and 
+therefore to warrant discovery. The court stated 
+that, although “such a small number of cases does not 
+conclusively establish either of the elements of 
+selective prosecution * * *, the fact that every single 
+crack defendant represented by the Federal Public 
+Defender in all cases that terminated during 1991 was 
+black provides a colorable basis for believing that 
+the challenged prosecutorial policies are driven by 
+discriminatory motives and yield discriminatory 
+effects.” Pet. App. 16a. The government argued that 
+respondents’ affidavit failed to establish a disparity 
+and thus was inadequate to justify discovery because 
+it “shows only that blacks have been prosecuted, not 
+that others of different races and similarly situated 
+have not.” Jd. at 18a. The court concluded, however, 
+that it was proper to infer a disparity, despite the 
+absence of a comparison pool, because of a “presump- 
+tion that people of all races commit all types of 
+crimes.” Id. at 19a. Otherwise, the court said, “we 
+would be accepting unwarranted racial stereotypes.” 
+Id. at 19a n.6. The court therefore inferred a showing 
+of racial disparity sufficient to warrant discovery. 
+The court also rejected the government’s contention 
+
+
+10 
+
+
+that no evidence of discriminatory purpose had been 
+presented. Rather, it expressed the view that an un- 
+explained race-based “disparity” is sufficient evidence 
+of discriminatory intent to justify discovery. Id. at 
+25a. 
+
+Chief Judge Wallace concurred in the judgment. 
+Pet. App. 28a-3la. He rejected the majority’s holding 
+that the discovery threshold in a selective prosecu- 
+tion case should not be “high.” In his view, “a high 
+threshold ‘is appropriate because courts are ill 
+equipped to assess a prosecutor’s charging decisions, 
+and oversight of prosecutorial decisions could un- 
+dermine effective law enforcement.’” Id. at 29a. 
+Nevertheless, he concurred in the result in this case 
+because of his view that an appellate court should not 
+overturn a district court’s discovery order absent a 
+clear error in judgment. Id. at 29a, 31a. 
+
+Judge Rymer, joined by Judges Leavy, T.G. Nelson, 
+and Kleinfeld, dissented. Pet. App. 32a-67a. Judge 
+Rymer summarized her disagreement with the major- 
+ity as follows: 
+
+
+For the first time in this circuit or any other, the 
+en bane court has held that a raw number of 
+prosecutions, without reference to a comparison 
+group and without evidence that others, similarly 
+situated except for their race, have not been pros- 
+ecuted, provides a colorable basis for the exis- 
+tence of both discriminatory effect and discrimi- 
+natory intent sufficient to order discovery from 
+the government in connection with a criminal 
+defendant’s selective prosecution defense. Also, 
+though both the Supreme Court and this circuit 
+have made clear that discriminatory effect and 
+discriminatory intent are two different elements, 
+
+
+11 
+
+
+each of which must exist, the majority's opinion 
+effectively collapses intent into effect by holding 
+that both may be shown by the same, insubstantial 
+statistic. Additionally the opinion has formally 
+removed the “high threshold” that, until now, we 
+explicitly (and other circuits implicitly) have 
+required to be met before discovery relating to 
+a selective prosecution claim can be ordered. In 
+so doing, the majority opinion radically, and 
+unnecessarily, rewrites the law of selective 
+prosecution. 
+
+
+Id. at 32a. Judge Rymer concluded that, in view of the 
+majority’s relaxed standard for ordering discovery, 
+government resources that would better be spent on 
+prosecuting crime will instead be devoted to “chasing 
+statistics.” Id. at 67a. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The court of appeals erred in holding that discovery 
+on a claim of selective prosecution may be ordered 
+based solely on evidence that members of a particular 
+race have been prosecuted, without any evidence that 
+similarly situated persons of a different race have not 
+been prosecuted. 
+
+A. The government has broad prosecutorial 
+discretion, and courts are properly reluctant to 
+subject particular exercises of that discretion to 
+scrutiny. The reasons are that prosecutorial dis- 
+cretion is a core element of the Executive’s power 
+under Article II; courts are ill-equipped to evaluate 
+the many factors that affect the decision to prosecute; 
+judicial inquiry into a prosecutor’s decisions can chill 
+law enforcement; and judicial scrutiny of charging 
+decisions diverts a criminal proceeding from its cen- 
+tral purpose: determining whether the defendant is 
+
+
+12 
+
+
+guilty of the charges against him. Wayte v. United 
+States, 470 U.S. 598, 607 (1985). 
+
+Prosecutorial discretion is nonetheless subject to 
+equal protection limits. The Constitution is violat- 
+ed when a defendant establishes that (1) similarly 
+situated persons of a different race have not been 
+prosecuted and (2) the difference in treatment is 
+motivated by race. Yick Wo v. Hopkins, 118 U.S. 356, 
+373-374 (1886). Because of the unique considerations 
+implicated by judicial inquiry into an exercise of 
+prosecutorial discretion, however, a defendant must 
+show both elements of a selective prosecution claim 
+through exceptionally clear proof. 
+
+The special considerations involved when courts 
+review a substantive claim of selective prosecution 
+also bear on the standard for obtaining discovery from 
+the government on a claim of selective prosecution. 
+In order to avoid encroachment into an area that the 
+Constitution reserves to the Executive Branch, and 
+unwarranted litigation on an issue that is collateral 
+to the defendant’s guilt, judicial inquiry should not 
+even begin until there is a substantial and concrete 
+basis for suspecting unconstitutional conduct. Ac- 
+cordingly, discovery on a claim of race-based selective 
+prosecution may not be ordered unless a criminal 
+defendant makes a “substantial threshold showing” 
+both that similarly situated persons of a different 
+race have not been prosecuted and that the difference 
+in treatment is motivated by a racially discriminatory 
+intent. 
+
+B. Because proof of improper selection is an indis- 
+pensable element of a selective prosecution claim, a 
+criminal defendant must introduce solid and cred- 
+ible evidence on it at the discovery stage. Accord- 
+ingly, the courts of appeals have uniformly held that 
+
+
+13 
+
+
+discovery on a claim of selective prosecution is un- 
+warranted unless a defendant makes a threshold 
+showing of “selection,” i.e., that similarly situated 
+persons were not prosecuted. 
+
+The requirement that a defendant make a showing 
+that similarly situated persons have not been prose- 
+cuted is easily administered by courts. It is therefore 
+a particularly practical way to identify those few 
+cases worthy of further judicial inquiry. At the same 
+time, because evidence concerning similarly situated 
+offenders is not in the government’s exclusive pos- 
+session, requiring criminal defendants to introduce 
+such evidence will not cut off meritorious claims pre- 
+maturely. 
+
+Under the correct legal standard, respondents’ 
+evidence that all of the 24 crack prosecutions closed 
+by the Federal Public Defender in 1991 involved black 
+defendants was insufficient to justify a discovery 
+order. It demonstrates only that blacks have been 
+prosecuted, not that others similarly situated have 
+not. The district court therefore acted on the basis of 
+an incorrect understanding of law and consequently 
+abused its discretion in ordering discovery. 
+
+C. In upholding the discovery order in this case, 
+the Ninth Circuit dispensed with any requirement 
+to show that similarly situated of nders were not 
+prosecuted. Its reasons for diluting the required 
+showing, however, are unsound. 
+
+The court of appeals concluded that race-based se- 
+lective prosecution claims differ from other selective 
+prosecution claims: according to the court, defendants 
+alleging selection based on race may rely on a legal 
+presumption that people of all races commit all types 
+of crimes. But a showing that similarly situated of- 
+fenders have not been prosecuted is an indispensable 
+
+
+14 
+
+
+element of a selective prosecution claim, and that is 
+no less true when the ground of selection is alleged to 
+be race. The court of appeals’ presumption also runs 
+counter to the settled rule that the government is 
+presumed to act in good faith; that presumption can 
+only be overcome by proof of specific facts. And the 
+requirement that a defendant show that similarly 
+situated persons have not been prosecuted does not 
+accept racial stereotypes. Requiring such proof 
+instead recognizes the possibility that, for socio- 
+economic and historical reasons, members of particu- 
+lar groups may predominate in the commission of 
+certain crimes. 
+
+The court of appeals also erred in relying on cases 
+holding that statistical disparities can establish a 
+prima facie case of discriminatory effect and intent. 
+Under those cases, a disparity does not exist simply 
+because those prosecuted are predominantly of one 
+race. Rather, a disparity exists only when there is a 
+significant difference between the composition of the 
+group prosecuted and the composition of the group 
+eligible for prosecution, a showing that necessarily 
+requires proof that others who are similarly situated 
+have not been prosecuted. The Court’s decisions in 
+Yick Wo and Ah Sin v. Wittman, 198 U.S. 500 (1905), 
+confirm the importance of evidence that similarly 
+situated persons of a different race have not been 
+prosecuted in cases that rely on statistics. In Yick 
+Wo, evidence concerning similarly situated offenders 
+was presented, and a violation was found. In Ah Sin, 
+no allegation concerning similarly situated offenders 
+was made, and the Court found the claim insufficient 
+as a matter of law. 
+
+The court of appeals’ concern that defendants who 
+have potentially meritorious claims may be unable 
+
+
+15 
+
+
+to prove them without discovery is insufficient to 
+change the discovery standard. If there were any 
+substance to respondents’ assertion of selective pros- 
+ecution, they should have had no difficulty producing 
+concrete evidence that similarly situated non-blacks 
+were being prosecuted in the state criminal justice 
+system. 
+
+Finally, the principle that a district court’s dis- 
+covery orders are reviewed under an abuse of discre- 
+tion standard does not affect the analysis in this case. 
+A district court must exercise its discretion in ac- 
+cordance with a correct understanding of the law. 
+Because the district court ordered discovery under an 
+incorrect legal approach, its decision constituted an 
+abuse of discretion. 
+
+
+ARGUMENT 
+
+
+DISCOVERY ON A CLAIM OF SELECTIVE PROS- 
+ECUTION ON THE BASIS OF RACE MAY NOT 
+BE ORDERED ABSENT EVIDENCE THAT SIMI- 
+LARLY SITUATED PERSONS OF A DIFFERENT 
+RACE HAVE NOT BEEN PROSECUTED 
+
+
+The court of appeals held that trial courts may 
+order discovery on a claim of selective prosecution 
+based solely on evidence that persons of a particular 
+race have been prosecuted for a particular offense, 
+without any evidence that similarly situated persons 
+of a different race have not been prosecuted. For 
+reasons that follow, that holding is incorrect. Except 
+in cases involving direct admissions by officials of 
+discriminatory purpose, a defendant seeking dis- 
+covery on a claim of selective prosecution based on 
+race must present evidence establishing that simi- 
+larly situated persons of a different race have not 
+been prosecuted. Because no such showing was made 
+
+
+16 
+
+
+in this case, the district court’s exercise of its discre- 
+tion in ordering discovery rested on an erroneous 
+understanding of the law. 
+
+
+A. A Defendant Seeking Discovery On A Claim Of 
+Selective Prosecution Must Make A Substantial 
+Threshold Showing 
+
+
+1. A prosecutor has broad discretion in the 
+enforcement of the criminal laws. [Slo long as the 
+prosecutor has probable cause to believe that the 
+accused committed an offense defined by statute, the 
+decision whether or not to prosecute, and what charge 
+to file or bring before a grand jury, generally rests 
+entirely in his discretion.” Bordenkircher v. Hayes, 
+434 U.S. 357, 364 (1978); Wayte v. United States, 470 
+U.S. 598, 607 (1985) (quoting Bordenkircher); see also 
+Town of Newton v. Rumery, 480 U.S. 386, 396 (1987) 
+(opinion of Powell, J.); United States v. Goodwin, 457 
+U.S. 368, 380 n.11 (1982); Marshall v. Jerrico, Inc., 446 
+U.S. 238, 248 (1980); United States v. Batchelder, 442 
+U.S. 114, 124 (1979). That principle is founded on 
+several important considerations. First, prosecuto- 
+rial discretion is a core element of the Executive’s 
+power to “take Care that the Laws be faithfully 
+executed.” U.S. Const. Art. II, § 3. See Heckler v. 
+Chaney, 470 U.S. 821, 832 (1985); United States v. 
+Nixon, 418 U.S. 683, 694 (1974); Ponzi v. Fessenden, 
+258 U.S. 254, 262 (1922). Separation-of-powers princi- 
+ples therefore constrain judicial review of prosecuto- 
+rial decisions. Second, “the decision to prosecute is 
+particularly ill-suited to judicial review.” Wayte, 470 
+U.S. at 607. The factors that the government must 
+consider in deciding to prosecute, such as the 
+strength of the case, the general deterrence value, 
+and the government’s enforcement priorities, “are not 
+
+
+a — 
+
+
+17 
+
+
+readily susceptible to the kind of analysis the courts 
+are competent to undertake.” Jbid. Third, judicial 
+review of prosecutorial decisionmaking “threatens to 
+chill law enforcement by subjecting the prosecutor’s 
+motives and decisionmaking to outside inquiry, and 
+may undermine prosecutorial effectiveness by re- 
+vealing the Government’s enforcement policy.” Ibid. 
+See also Town of Newton, 480 U.S. at 396 (opinion of 
+Powell, J); United States v. Lovasco, 431 U.S. 783, 793- 
+794 (1977). Finally, judicial scrutiny of a prosecutor’s 
+charging decisions imposes high costs on the crimi- 
+nal justice system. The purpose of a criminal pro- 
+ceeding is to determine a defendant’s guilt or inno- 
+cence, and examination of the prosecutor’s reasons 
+for bringing a prosecution diverts the proceeding 
+from that central issue, resulting in delay that can be 
+“fatal to the vindication of the criminal law.” Cobble- 
+dick v. United States, 309 U.S. 323, 325 (1940). See 
+also DiBella v. United States, 369 U.S. 121, 126 (1962). 
+Those factors “make the courts properly hesitant to 
+examine the decision whether to prosecute.” Wayte, 
+470 U.S. at 608. 
+
+Although prosecutorial discretion is broad, it is 
+subject to constitutional constraints. In particular, 
+the decision to prosecute may not be based on “an 
+unjustifiable standard such as race, religion, or other 
+arbitrary classification.” Oyler v. Boles, 368 U.S. 448, 
+456 (1962); accord Wayte, 470 U.S. at 608; Batchelder, 
+442 U.S. at 125. “Though the law itself be fair on its 
+face and impartial in appearance, yet, if it is applied 
+and administered by public authority with an evil eye 
+and an unequal hand, * * * the denial of equal justice 
+is still within the prohibition of the Constitution.” 
+Yick Wo v. Hopkins, 118 U.S. 356, 373-374 (1886). 
+
+
+18 
+
+
+Claims of selective prosecution are governed by 
+“ordinary equal protection standards.” Wayte, 470 
+U.S. at 608. Absent proof of an explicit discrimi- 
+natory classification, a criminal defendant alleging 
+selective prosecution based on race must therefore 
+show that (1) persons of a difference race in “similar 
+circumstances” have not been prosecuted and (2) the 
+difference in treatment is motivated by an intent to 
+discriminate against members of the defendant’s race. 
+Yick Wo, 118 U.S. at 374. As the Court stated in 
+Wayte, 470 U.S. at 608, a criminal defendant must 
+demonstrate both a “discriminatory effect” and a “dis- 
+criminatory purpose.” See Personnel Administrator 
+of Massachusetts v. Feeney, 442 U.S. 256, 272 (1979); 
+Village of Arlington Heights v. Metropolitan 
+Housing Development Corp., 429 U.S. 252, 264-265 
+(1977); Washington v. Davis, 426 U.S. 229, 239-241 
+(1976). Because of the special considerations im- 
+plicated by judicial inquiry into an exercise of 
+prosecutorial discretion, those two elements of the 
+claim must be satisfied by “exceptionally clear proof.” 
+McCleskey v. Kemp, 481 U.S. 279, 297 (1987). In the 
+absence of such proof, courts must presume that a 
+prosecution for violation of a criminal law has been 
+undertaken in good faith for the purpose of bringing 
+offenders to justice. United States v. Mezzanatto, 115 
+S. Ct. 797, 806 (1995); United States v. Chemical 
+Foundation, Inc., 272 U.S. 1, 14-15 (1926); United 
+States v. Parham, 16 F.3d 844, 846 (8th Cir. 1994); 
+United States v. Penagaricano-Soler, 911 F.2d 833, 
+837 (1st Cir. 1990); United States v. Bassford, 812 F.2d 
+16, 19 (Ist Cir.), cert. denied, 481 U.S. 1022 (1987); 
+Attorney General v. Irish People, Inc., 684 F.2d 928, 
+947 (D.C. Cir. 1982), cert. denied, 459 U.S. 1172 (1983); 
+
+
+19 
+
+
+United States v. Falk, 479 F. 2d 616, 620 (7th Cir. 1973) 
+(en banc). 
+
+2. The same considerations that make courts re- 
+luctant to examine exercises of prosecutorial discre- 
+tion and that require exceptionally clear proof to 
+establish a claim of unconstitutional selective prose- 
+cution also determine the standard that should govern 
+discovery on such a claim. In order to avoid judicial 
+encroachment into an area that the Constitution re- 
+serves to the Executive Branch, judicial inquiry into 
+a prosecutor’s reasons for bringing a prosecution 
+should not even begin unless there is a substantial 
+and concrete basis for suspecting unconstitutional 
+action. That prerequisite to judicial inquiry is espe- 
+cially important because criminal defendants often 
+“transform [their] resentment at being prosecuted 
+into the ascription of improper and malicious actions 
+to the [government’s] advocate.” Imbler v. Pachtman, 
+424 U.S. 409, 425 (1976). Absent threshold screening 
+to prevent abuses, defendants would be able to em- 
+ploy claims of selective prosecution and associated 
+discovery demands as powerful tools to divert a 
+prosecutor’s “energy and attention * * * from 
+the pressing duty of enforcing the criminal law,” 
+ibid., and to delay the resolution of criminal charges 
+against them. See United States v. Moon, 718 F.2d 
+1210, 1230 (2d Cir. 1983) (“Unwarranted judicial in- 
+quiries” into prosecutorial motive “undermine the 
+strong public policy that resolution of criminal cases 
+not be unduly delayed by litigation over collateral 
+matters.”), cert. denied, 466 U.S. 971 (1984).' 
+
+
+The Sixth Amendment guarantee of a speedy trial, the 
+federal Speedy Trial Act of 1974, 18 U.S.C. 3161 et seq., Rules 2 
+and 50 of the Federal Rules of Criminal Procedure, and Rule 
+
+
+20 
+
+
+Accordingly, before obtaining discovery on a claim 
+of selective prosecution, a criminal defendant is re- 
+quired to make a substantial threshold showing on 
+each element of the claim. By requiring a significant 
+threshold showing, courts may avoid unwarranted and 
+highly intrusive inquiries into a »rosecutor’s judg- 
+ment about why it was important to bring a case. At 
+the same time, that standard will serve to prevent the 
+needless diversion of government and judicial re- 
+sources from the adjudication of a criminal case to the 
+disposition of a selective prosecution motion. 
+
+
+45(b) of the Federal Rules of Appellate Procedure all provide 
+for the prompt disposition of criminal cases. Because of the 
+important public policy of expediting the resolution of criminal 
+charges, the right to discovery in criminal cases is sharply 
+limited. “There is no general constitutional right to discovery 
+in a criminal case.” Weatherford v. Bursey, 429 U.S. 545, 559 
+(1977). Due process requires the government to disclose ex- 
+culpatory evidence that is material to guilt or punishment 
+(Brady v. Maryland, 373 U.S. 83 (1963)), but the Federal Rules 
+of Criminal Procedure, primarily Rule 16, otherwise govern 
+the extent of discovery in criminal cases. Rule 16 contains 
+specified categories of information subject to disclosure by the 
+prosecution and defense, requiring in general that those items 
+subject to discovery must be relevant and material to the 
+defense of the criminal charges. Permitting discovery on 
+claims of selective prosecution where there has not been a 
+substantial threshold showing would undermine that policy and 
+allow criminal defendants to circumvent the limitations on 
+discovery built into the Federal Rules. See United States v. 
+Murdock, 548 F.2d 599, 600 (5th Cir. 1977) (a threshold 
+showing of selective prosecution is required because it jo hold 
+otherwise would encourage the assertion of such defense, no 
+matter how spurious, as a means of burdening criminal trials 
+with massive discovery of material completely irrelevant and 
+immaterial to the defendant’s case”). 
+
+
+21 
+
+
+The Court’s decision in Wade v. United States, 504 
+U.S. 181 (1992), supports that approach. In Wade, the 
+Court considered whether a court may review a claim 
+that the government unconstitutionally refused to 
+file a motion for a departure from a mandatory mini- 
+mum sentence based on the defendant’s substantial 
+assistance to the prosecution, and, if so, what showing 
+a criminal defendant must make to obtain discovery 
+on that claim. The Court held that such a discre- 
+tionary decision should be treated no differently from 
+a prosecutor’s other decisions and that district courts 
+therefore have authority “to review a prosecutor's 
+refusal to file a substantial-assistance motion and to 
+grant a remedy if they find that the refusal was based 
+on an unconstitutional motive.” Jd. at 185-186. The 
+Court then noted the defendant’s concession that, in 
+order to obtain discovery on such a claim, the defen- 
+dant was required to make a “substantial threshold 
+showing” of an unconstitutional motive. Id. at 186. 
+Because the defendant had failed to make such a 
+showing, the Court held that discovery was properly 
+denied. Id. at 186-187. In Wade, as here, the require- 
+ment of a substantial threshold showing properly 
+balances the interest of courts in protecting the equal 
+protection rights of individuals with the necessary 
+judicial hesitance to explore the motives of prosecu- 
+tors in bringing a criminal case. 
+
+
+B. The Showing To Obtain Discovery Must Include 
+Some Evidence That Similarly Situated Per- 
+sons Have Not Been Prosecuted 
+
+
+A key threshold requirement that a defendant must 
+meet in the selective prosecution context is the 
+presentation of concrete evidence on both elements of 
+a selective prosecution claim, including a threshold 
+
+
+22 
+
+
+showing of “selection,” i.e., that others who are 
+similarly situated have not been prosecuted. That 
+principle has been uniformly recognized and applied in 
+the courts of appeals. 
+
+In Attorney General v. Irish People, Inc., 684 F.2d 
+928, 932 (1982), cert. denied, 459 U.S. 1172 (1983), the 
+D.C. Circuit articulated the governing principles 
+with particular clarity. There, the court held that, in 
+order to obtain discovery from the government on a 
+claim of selective prosecution, a defendant must not 
+only introduce evidence of improper motive, but must 
+also “make a colorable showing that he has been 
+especially singled out, that there exist persons simi- 
+larly situated who have not been prosecuted.” 684 
+F.2d at 946. The court reasoned that “a demonstra- 
+tion of selection is indispensable for the defense and 
+* * * the burden of so demonstrating lies squarely 
+on the defendant.” Ibid. It explained that “[i]f, as the 
+district court found, there was no one to whom 
+defendant could be compared in order to resolve the 
+question of selection, then it follows that defendant 
+has failed to make out one of the elements of its case. 
+Discrimination cannot exist in a vacuum; it can be 
+found only in the unequal treatment of people in 
+similar circumstances.” Ibid. The court made clear 
+that evidence that there are similarly situated offend- 
+ers is essential not only to prove a claim of selective 
+prosecution, but also to obtain discovery on such a 
+claim (id. at 947-948 (footnote omitted)): 
+
+
+[Wie can see no reason for throwing out half the 
+standard on the discovery issue. If either part of 
+the test is failed, the defense fails; thus it makes 
+sense to require a colorable claim of both before 
+subjecting the Government to discovery. Since it 
+
+
+23 
+
+
+is well established that, even in the context of a 
+criminal prosecution, the Government enjoys a 
+presumption of having “undertaken [the action] in 
+good faith and in nondiscriminatory fashion,” it 
+also makes sense that the burden be generally on 
+the defendant to show the necessary elements at 
+each procedural stage. 
+
+
+The court’s analysis in United States v. Cooks, 52 
+F.3d 101, 105 (5th Cir. 1995), a case similar to the 
+present one, also illustrates the correct approach. 
+There, a defendant prosecuted for conspiring to dis- 
+tribute more than 50 grams of crack sought discovery 
+on a claim that blacks were selectively prosecuted in 
+federal rather than state court. In support of that 
+request, the defendant introduced statistical evidence 
+that the overwhelming majority of those arrested for 
+possession of crack are black and that such arrests 
+have increased tenfold in recent years. Ibid. The 
+Fifth Circuit held that discovery was properly denied 
+because the statistical evidence “fail{ed] to satisfy the 
+first prong of the selective prosecution inquiry; it 
+dlid] not establish that white defendants committing 
+this offense were prosecuted in state rather than 
+federal court.” Ibid. 
+
+The Second, Fourth, Sixth, Seventh, Eighth, and 
+Tenth Circuits have all similarly held that discovery 
+may not be ordered against the government on a claim 
+of selective prosecution absent a threshold showing 
+on both elements of the claim. Those circuits have 
+therefore affirmed district court decisions denying 
+discovery where the defendant failed to make a 
+threshold showing that similarly situated persons 
+were not prosecuted. See United States v. Fares, 978 
+F. 2d 52, 59-60 (2d Cir. 1992) (no abuse of discretion in 
+
+
+24 
+
+
+refusing to order discovery where defendant did not 
+offer “evidence as to large numbers of similarly situ- 
+ated persons known to the government who had not 
+been prosecuted”); United States v. Greenwood, 796 
+F.2d 49, 52-53 (4th Cir. 1986) (discovery properly 
+denied because defendant failed to make nonfrivolous 
+showing that he had been singled out while others 
+who were similarly situated had not been prosecuted); 
+United States v. Peete, 919 F.2d 1168, 1176 (6th Cir. 
+1990) (discovery properly denied because defendant, 
+“aside from his own self-serving affidavit and an affi- 
+davit from his counsel, did not point to any evidence 
+that others similarly situated were not prosecuted”); 
+United States v. Schmucker, 815 F.2d 413, 418-419 
+(6th Cir. 1987) (without any evidence of others 
+similarly situated who were not prosecuted, defendant 
+not entitled to discovery); United States v. Mitcheil, 
+778 F.2d 1271, 1277 (7th Cir. 1985) (to compel dis- 
+covery, defendant must show colorable basis for selec- 
+tive prosecution claim, which must include some evi- 
+dence that defendant was singled out for prosecution 
+while others were not); Parham, 16 F.3d at 846- 
+847 (8th Cir.) (discovery properly denied because, 
+“(where a defendant cannot show anyone in a similar 
+situation who was not prosecuted, he has not met the 
+threshold point of showing that there has been 
+selectivity in prosecution”); C. E. Carlson, Inc. v. 
+SEC, 859 F.2d 1429, 1437-1438 (10th Cir. 1988) (dis- 
+covery properly denied because securities dealers 
+sanctioned by SEC “were unable to show that others 
+similarly situated were not subjected to enforcement 
+proceedings”). Even the Ninth Circuit had, before the 
+decision in this case, correctly required defendants 
+seeking discovery from the government to introduce 
+“solid, credible” evidence that other similarly situ- 
+
+
+25 
+
+
+ated offenders had not been prosecuted in order to 
+obtain discovery on a claim of selective prosecution. 
+United States v. Bourgeois, 964 F.2d 935, 939 (9th 
+Cir.), cert. denied, 113 S. Ct. 290 (1992). 
+
+The substantial threshold showing necessary to 
+permit a court to order discovery on a selective 
+prosecution claim does not require proof of a prima 
+facie case of selective prosecution. The evidence need 
+not be so forceful or comprehensive as would be 
+required to establish a prima facie case. But a mere 
+nonfrivolous assertion of selective prosecution is not 
+enough to justify an order requiring discovery. If 
+defendants were not required to come forward with 
+more than a nonfrivolous assertion, they could too 
+easily provoke unwarranted inquiries and needless 
+delay. A substantial threshold showing lies between 
+those two poles. It requires concrete evidence on 
+both elements of a selective prosecution claim suffi- 
+cient to show a reasonable likelihood that unconsti- 
+tutional selective prosection has taken place. The 
+standard will “discourage fishing expeditions, protect 
+legitimate prosecutorial discretion, [and] safeguard 
+government investigative records. Bourgeois, 964 
+F. Ad at 940. 
+
+Requiring defendants to make a significant thresh- 
+old showing that others who are similarly situated 
+have not been prosecuted is a particularly practical! 
+device for courts to use in determining whether 
+or not further judicial inquiry may be warranted. 
+The question whether similarly situated offend- 
+ers have been prosecuted is readily susceptible 
+to objective proof. At the same time, the require- 
+ment that a defendant make a significant thresh- 
+old showing that others who are similarly situated 
+have not been prosecuted “still allowis] meritorious 
+
+
+26 
+
+
+claims to proceed.” Bourgeois, 964 F.2d at 940. In 
+those rare instances in which there are reasonable 
+grounds to credit and explore a claim of selective 
+prosecution, it should not be difficult for a criminal 
+defendant to make an objective showing of disparity of 
+treatment. 
+
+Experience in the courts of appeals demonstrates 
+that evidence concerning similarly situated offenders 
+is not in the government’s exclusive possession. See 
+United States v. Adams, 870 F.2d 1140, 1145-1146 (6th 
+Cir. 1989) (discovery ordered where record suggested 
+that taxpayers who underreported income and volun- 
+tarily amended returns and paid deficiencies, as defen- 
+dants did, were not prosecuted); United States v. 
+Gordon, 817 F.2d 1538, 1540 (1987) (discovery affirmed; 
+colorable entitlement shown where defendants pre- 
+sented some evidence of similar violations by other 
+persons who were not prosecuted, as well as evidence 
+of invidious intent), vacated in part on rehearing on 
+other grounds, 836 F.2d 1312 (11th Cir.), cert. dis- 
+missed, 487 U.S. 1265 (1988); United States v. Holmes, 
+794 F.2d 345, 348 & n.3 (8th Cir. 1986) (defendant 
+submitted names of 30 white farmers not prosecuted 
+for same conduct; court’s review of prosecution rec- 
+ords in camera showed adequate explanation for 
+defendant’s allegations); United States v. Hoover, 727 
+F.2d 387, 389 (5th Cir. 1984) (defendant met first part 
+of test for selective prosecution by showing that only 
+three of the 300 striking air traffic controllers in the 
+Houston area were prosecuted); United States v. 
+Hazel, 696 F.2d 473, 475 (6th Cir. 1983) (showing that 
+34 other members of Michigan tax revolt group com- 
+mitted same offense but were not prosecuted probably 
+enough to demand evidentiary hearing on first prong 
+of selective prosecution test, but defendants failed to 
+
+
+27 
+
+
+show evidence of intent to discriminate); United 
+States v. Diggs, 613 F.2d 988, 1003-1004 (D.C. Cir. 
+1979) (congressman offered evidence that two other 
+congressmen who had engaged in similar conduct 
+were not prosecuted; court assumed that first prong 
+of discovery standard was met, but denied discovery 
+on the ground that there was no evidence of discrimi- 
+natory intent), cert. denied, 446 U.S. 982 (1980); 
+United States v. Steele, 461 F.2d 1148, 1151 (9th Cir. 
+1972) (conviction reversed based on defendant’s 
+showing that six others who had also refused to com- 
+plete census form were not prosecuted). A require- 
+ment that a defendant produce some evidence of 
+similarly situated offenders to obtain discovery is 
+therefore a fair burden to place on a defendant who 
+seeks to inquire into the prosecutor’s motives for 
+bringing a criminal case. 
+
+Respondents did not meet that burden. In support 
+of their claim of selective prosecution, respondents 
+produced evidence that all of the 24 crack prosecu- 
+tions closed by the Federal Public Defender in 1991 
+involved black defendants. Under the correct legal 
+standard, that evidence was legally insufficient to 
+justify a discovery order. As the original panel in 
+this case explained, that evidence “demonstrates only 
+that others have been prosecuted, not that others 
+similarly situated have not.” Pet. App. 80a. The 
+showing therefore contains “a total lack of evidence” 
+(ibid.) on an essential element of a selective prosecu- 
+tion claim: the disparate treatment of offenders who 
+are similarly situated but for their race. Thus, as the 
+
+
+28 
+
+
+original panel concluded, the district court’s discov- 
+ery order was unwarranted.” 
+
+
+C. The Court Of Appeals’ Reasons For Eliminating 
+The Similarly Situated Offender Requirement 
+Are Unsound 
+
+
+The court of appeals recognized that there was no 
+factual showing in this case that the government had 
+failed to prosecute similarly situated persons of a 
+different race. The court held, however, that such 
+evidence was unnecessary. The court of appeals gave 
+several reasons for dispensing with the similarly 
+situated offender requirement universally recognized 
+by other circuits. Those reasons are unsound. 
+
+1. The court first held that evidence of similarly 
+situated offenders is unnecessary because of a legal 
+presumption “that people of all races commit all types 
+of crimes.” Pet. App. 19a & n.6. According to the 
+court, a criminal defendant can rely on that pre- 
+sumption, unless the government introduces “com- 
+pelling contrary evidence.” Id. at 19a. The court 
+stated that At he fact that evidence of similarly 
+situated persons who were not prosecuted was 
+submitted in other kinds of selective prosecution 
+claims is of no significance in the context of a selec- 
+tive prosecution case based on race” because, in the 
+court’s view, imposing such a requirement in relation 
+to race-based claims “would be accepting unwarranted 
+racial stereotypes.” Id. at 19a n.6. 
+
+
+2 The district court did not rely on respondents’ affida- 
+vits in exercising its discretion to order discovery in this case. 
+J.A. 217. They are therefore irrelevant here. In any event, 
+those affidavits are also legally insufficient to support a dis- 
+
+
+covery order. See note 4, infra. 
+
+
+29 
+
+
+The need to identify similarly situated persons who 
+have not been prosecuted, however, does not diminish 
+simply because the claim is one of race-based selec- 
+tive prosecution. As the panel in this case explained, 
+“‘[slelective prosecution’ implies that a selection has 
+taken place,” Pet. App. 80a, and that principle is 
+applicable to claims of selective prosecution based on 
+race. Evidence that members of a particular racial 
+group have been prosecuted fails to provide any basis 
+for believing that a selection has taken place, unless 
+there is evidence that similarly situated persons of a 
+different race have not been prosecuted. Ibid. Absent 
+concrete evidence to that effect, “the most reason- 
+able conclusion is that the defendant was selected for 
+prosecution because the government believed the de- 
+fendant committed the offense; the fact that the defen- 
+dant is a member of a protected class is coincidental.” 
+Ibid. 
+
+In addition, as noted above, “in the context of a 
+criminal prosecution, the Government enjoys a 
+presumption of having ‘undertaken [the action] in 
+good faith and in nondiscriminatory fashion.’” Jrish 
+People, Inc., 684 F.2d at 947. This Court has made 
+clear that “tradition and experience justify our belief 
+that the great majority of prosecutors will be faithful 
+to their duty.” Mezzanatto, 115 S. Ct. at 806, quoting 
+Town of Newton, 480 U.S. at 397. Accordingly, “in 
+the absence of clear evidence to the contrary, courts 
+presume that [prosecutors] have properly discharged 
+their official duties.” Chemical Foundation, Inc., 272 
+U.S. at 14-15; see McCleskey, 481 U.S. at 297. Reli- 
+ance on a presumption, rather than actual proof, to 
+permit the defendant to make a threshold showing of 
+a discriminatory effect runs counter to that settled 
+rule. To overcome that presumption of prosecutorial 
+
+
+30 
+
+
+good faith, the defendant must adduce facts, not 
+assumptions. 
+
+Nor does insisting on evidence that other similarly 
+situated offenders of another racial group have not 
+been prosecuted accept racial stereotypes. Rather, it 
+recognizes the empirical possibility that, for socio- 
+economic and historical reasons, members of particu- 
+lar racial and ethnic groups may predominate in the 
+commission of certain crimes. The government in 
+fact presented affirmative evidence in this case 
+supporting the conclusion that black individuals 
+dominate large-scale dealing in crack, while members 
+of other racial groups dominate the sales of other 
+drugs. See Pet. App. 22a; see id. at 72a-73a (panel 
+opinion). Information from the Sentencing Commis- 
+sion confirms that particular crimes can be asso- 
+ciated with particular racial groups. According to 
+the Commission’s most recent nationwide statistics, 
+more than 90% of those persons sentenced for traf- 
+ficking in crack cocaine were black. United States 
+Sentencing Comm’n, Annual Report 1994, at 107 
+(Table 45). In contrast, 93.4% of those sentenced for 
+trafficking in LSD, 100% of those sentenced for 
+antitrust violations, and 91.4% of those sentenced for 
+pornography and prostitution offenses were white. 
+Id. at 41, 107 (Tables 13, 45). In addition, of those sen- 
+tenced for trafficking in methamphetamine, 72.9% 
+were white, while only 1.6% were black. /d. at 107 
+(Table 45). The court of appeals, in the interest of 
+avoiding what it characterized as racial stereotypes, 
+was not free to adopt an evidentiary presumption that 
+has neither a rational nor a factual foundation. Cf. 
+Basic Inc. v. Levinson, 485 U.S. 224, 245-246 (1988); 
+Turner v. United States, 396 U.S. 398, 404-405 (1970). 
+
+
+31 
+
+
+2. In dispensing with the similarly situated of- 
+fender requirement, the court of appeals also relied on 
+cases indicating that statistical disparities alone can 
+constitute sufficient evidence of discriminatory effect 
+and intent to establish a prime facie case of selective 
+prosecution. The court stated that the standard for 
+obtaining discovery is lower than that for establish- 
+ing a prima facie case. It then reasoned that because 
+a showing of a statistical disparity in the race of 
+those persons prosecuted would establish a prima 
+facie case, it is also sufficient to warrant discovery. 
+Pet. App. 10a-lla. But the court’s application of its 
+analysis reveals its misunderstanding of the concept 
+of a “disparity.” The court held that respondents’ 
+evidence that all 24 crack prosecutions closed by the 
+Federal Public Defender in 1991 involved black defen- 
+dants established a statistical disparity, and that 
+respondents were therefore relieved of the necessity 
+of showing that others who are similarly situated 
+have not been prosecuted. Id. at 15a-16a; see id. at 10a 
+n. (evidence of similarly situated offenders is not 
+required when there is statistical evidence of a dis- 
+parity in the race of those prosecuted). 
+
+The court’s chain of reasoning is seriously flawed. 
+This Court has held that, in some circumstances, 
+statistical disparities can establish a prima facie case 
+of discriminatory effect and intent. McCleskey, 481 
+U.S. at 293-294 & nn.12, 13 (discussing cases); Village 
+of Arlington Heights, 429 U.S. at 266; Yick Wo, 118 
+U.S. at 373-374. Under this Court’s decisions, how- 
+ever, a disparity does not exist just because the 
+persons prosecuted are predominantly of one race. 
+Rather, a disparity exists when there is a substantial 
+difference between the racial composition of the group 
+prosecuted and the racial composition of the group 
+
+
+32 
+
+
+eligible for prosecution. See Hazelwood School Dis- 
+trict v. United States, 433 U.S. 299, 307-308 & n.13 
+(1977); Yick Wo, 118 U.S. at 373-374. Demonstrating 
+such a disparity necessarily entails proof that others 
+who are similarly situated have not been prosecuted. 
+Absent such a showing, the evidence fails to cast any 
+doubt on the most obvious race-neutral explanation 
+for the prosecutions brought: that the pool of persons 
+prosecuted mirrors the pool of persons eligible for 
+prosecution.“ 
+
+Yick Wo and the Court's subsequent decision in Ah 
+Sin v. Wittman, 198 U.S. 500 (1905), demonstrate that 
+statistical evidence is capable of showing discrimina- 
+tory effect and intent only when it involves proof that 
+similarly situated persons have not been prosecuted. 
+In Yick Wo, an ordinance prohibited the operation of 
+laundries constructed of wood except by persons who 
+obtained permission from the Board of Supervisors. 
+The evidence showed that 200 laundry owners of 
+Chinese ancestry petitioned the Board for permission 
+to continue their businesses in wooden buildings, and 
+every one of those petitions was denied. 118 U.S. at 
+359 (Statement of Facts). In contrast, of the petitions 
+
+
+In addition, where, as here, “the discretion that is 
+fundamental to our criminal process is involved,” McCleskey, 
+481 U.S. at 313, statistical evidence would be capable of proving 
+a violation of the Equal Protection Clause only if the disparity 
+between the racial composition of those selected and the racial 
+composition of those eligible for selection is so “stark” as to be 
+“unexplainable” on any ground other than race. Id. at 293-294 
+& n.12; Village of Arlington Heights, 429 U.S. at 266; Yick Wo, 
+118 U.S. at 373. Because there was no showing of any disparity 
+in this case, the question of how extreme such a disparity must 
+be to prove unconstitutional selective prosecution is not at issue 
+here. 
+
+
+33 
+
+
+filed by the 80 laundry owners of non-Chinese an- 
+cestry, all but one was granted. Ibid. As a result, 
+150 laundry owners of Chinese ancestry were ar- 
+rested for violating the ordinance, while no laundry 
+owners of non-Chinese ancestry were arrested. Ibid. 
+The Court held that those facts established a viola- 
+tion of the Equal Protection Clause. Jd. at 373-374. 
+The Court explained that the Board had engaged in 
+disparate treatment of persons of Chinese ancestry 
+and non-Chinese ancestry who were in “similar 
+circumstances” and that no reason for the disparate 
+treatment was possible except for “hostility” to 
+persons of Chinese ancestry. Id. at 374. The finding 
+of a violation in Yick Wo therefore depended on 
+evidence that similarly situated persons had not been 
+prosecuted. 
+
+In Ah Sin, an ordinance prohibited the display of 
+gambling implements in a barred or barricaded room. 
+The defendant alleged that the ordinance was en- 
+forced only against persons of Chinese ancestry. Be- 
+cause the defendant failed to allege that there were 
+persons of non-Chinese ancestry who had violated the 
+ordinance, however, the Court held that the defendant 
+had failed to allege the facts necessary to establish a 
+violation of the equal protection principle established 
+in Yick Wo. The Court reasoned that 
+
+
+lim the Fick Wo case there was not a mere allega- 
+tion that the ordinance attacked was enforced 
+against the Chinese only, but it was shown that 
+not only the petitioner in that case, but two 
+hundred of his countrymen, applied for licenses, 
+and were refused, and that all the petitions of 
+those not Chinese, with one exception, were 
+granted. The averment in the case at bar is that 
+
+
+34 
+
+
+the ordinance is enforced “solely and exclusively 
+against persons of the Chinese race and not 
+otherwise.” There is no averment that the con- 
+ditions and practices to which the ordinance was 
+directed did not exist exclusively among the 
+Chinese, or that there were other offenders 
+against the ordinance than the Chinese as to 
+whom it was not enforced. 
+
+
+198 U.S. at 507-508. 
+
+Respondents’ statistical evidence contains the 
+same flaw identified in Ah Sin:-the absence of any 
+evidence that similarly situated persons of a different 
+race were not prosecuted. The court of appeals’ view 
+that statistical evidence need not include such in- 
+formation in order to prove a violation of the Equal 
+Protection Clause is incorrect. See United States v. 
+Cooks, 52 F.3d at 105 (statistics reflecting that the 
+overwhelming majority of those arrested for pos- 
+session of crack are African-American failed to 
+satisfy first prong of selective prosecution inquiry 
+because it did not establish that white defendants 
+committing this offense were prosecuted in state 
+rather than federal court); United States v. Gutier- 
+rez, 990 F.2d 472, 476 (1993) (statistics showing a high 
+percentage of certain groups being prosecuted in- 
+sufficient to establish that similarly situated per- 
+sons are not being prosecuted), overruled by United 
+States v. Armstrong, 48 F.3d 1508, 1513 n.1 (9th Cir. 
+1995) (en banc); United States v. Huff, 959 F.2d 731, 
+735 (8th Cir.) (evidence from newspaper article stat- 
+ing that 87% of arrests in reverse sting cases in 
+Minneapolis were African-Americans insufficient to 
+establish prima facie case of selective prosecution 
+because there was no evidence that similarly situated 
+
+
+35 
+
+
+non-African-Americans were not being prosecuted for 
+similar conduct), cert. denied, 113 S. Ct. 162 (1992). 
+
+3. The court of appeals’ elimination of the simi- 
+larly situated offender requirement also appears to 
+have been animated by its concern that defendants 
+who have potentially meritorious claims may be 
+unable to prove their cases without obtaining dis- 
+covery from the government. Pet. App. IIa-12a. 
+Courts have long required defendants to offer at least 
+some evidence on both prongs of the selective pros- 
+ecution defense before ordering discovery, however, 
+and there is no basis for assuming that defendants 
+with valid claims cannot meet those standards. As 
+previously discussed, evidence concerning similarly 
+situated offenders is not in the government’s exclu- 
+sive possession. See pages 26-27, supra. 
+
+The present case is illustrative. If there were any 
+substance to respondents’ claim that the United 
+States Attorney improperly selects only blacks in 
+prosecutions for dealing in crack, respondents should 
+have had no difficulty producing concrete evidence 
+that similarly situated persons of other races were 
+being prosecuted by the State of California. Although 
+information concerning persons prosecuted by the 
+State is readily accessible to the public, respondents 
+failed to produce such evidence.* 
+
+
+The affidavits submitted by respondents concerning non- 
+black crack dealers contain only vague, conclusory, and impres- 
+sionistic hearsay. They do not provide the kind of solid and 
+credible evidence necessary to support a discovery order. Cf. 
+United States Dep't of Labor v. Triplett, 494 U.S. 715, 724-725 
+(1990). Those affidavits also fail to include any information 
+that would suggest that crack dealers prosecuted in the state 
+courts were similarly situated to respondents. Respondents 
+were indicted for conspiring to distribute more than 50 grams 
+
+
+36 
+
+
+4. Finally, the court of appeals relied on the 
+principle that a district court’s discovery orders must 
+be reviewed under an abuse of discretion standard. 
+Pet. App. 7a; id. at 29a-3la (Wallace, J., concurring). 
+A district court must exercise its discretion, how- 
+ever, on the basis of correct legal principles. As this 
+Court has stated, “discretionary choices are not left 
+to a court’s ‘inclination, but to its judgment; and its 
+judgment is to be guided by sound legal principles.’” 
+Albemarle Paper Co. v. Moody, 422 U.S. 405, 416 
+(1975), quoting United States v. Burr, 25 F. Cas. 30, 
+35 (C. C. Va. 1807) (No. 14,692d) (Marshall, C. J.). When 
+a district court exercises its discretion on the basis 
+of an erroneous view of the law, it necessarily abuses 
+its discretion. Cooter & Gell v. Hurtmaræ Corp., 496 
+U.S. 384, 402, 405 (1990). That is the situation here. 
+As we have discussed, the district court’s order is 
+premised on the incorrect understanding that dis- 
+covery may be ordered based solely on evidence that 
+persons of a particular race have been prosecuted for 
+a particular offense, without evidence that similarly 
+situated persons of a different race have not been 
+prosecuted for that offense. In view of that legal 
+
+
+of cocaine and that conspiracy involved the use of firearms. 
+The affidavits do not assert that there are any non-black crack 
+dealers prosecuted in state court who have trafficked in 
+comparable quantities of crack and who have used firearms in 
+connection with that trafficking. For those reasons, the panel 
+correctly concluded that the affidavits did not assist respon- 
+dents in making the threshold showing necessary to obtain 
+discovery. Pet. App. 82a-83a (describing the affidavits as 
+containing unsubstantiated hearsay, noting that they do not 
+include any information on the quantity of drugs involved or 
+the presence of firearms, and concluding that they constitute 
+“flimsy” and “ineffective” evidence). 
+
+
+37 
+
+
+error, the district court abused its discretion in 
+ordering discovery in this case. 
+
+The court’s error is particularly evident on the 
+facts of this case. Respondents introduced evidence 
+concerning an extremely small, unrepresentative 
+sample of defendants who were prosecuted. That 
+evidence proves little, if anything, about the actual 
+pool of persons prosecuted, and nothing about the pool 
+of persons eligible for prosecution. In contrast, the 
+government offered specific information on the rea- 
+sons it brought the charges in this case: the decision 
+to prosecute was based on the large quantity of drugs 
+involved, the number of sales and defendants, the 
+presence of firearms violations intertwined with the 
+drug offenses, the involvement of a federal agency in 
+the investigation, the criminal histories of the 
+defendants, and the strength of the evidence. J.A. 81. 
+As the pane! concluded, if discovery can be ordered on 
+that kind of record, “district courts too often and un- 
+necessarily could become immersed in the workings 
+of a coordinate branch of government, to the benefit of 
+neither.” Pet. App. 84a. Under the controlling legal 
+standards, the order of discovery in this case was an 
+abuse of discretion. 
+
+
+38 
+
+
+CONCLUSION 
+
+
+The judgment of the court of appeals should be 
+reversed. 
+
+
+Respectfully submitted. 
+
+
+DREW S. Days, III 
+Solicitor General 
+JOHN C. KEENEY 
+Acting Assistant Attorney 
+General 
+MICHAEL R. DREEBEN 
+Deputy Solicitor General 
+IRVING L. GORNSTEIN 
+Assistant to the Solicitor 
+General 
+
+
+KATHLEEN A. FELTON 
+Attorney 
+
+
+DECEMBER 1995 
+
+

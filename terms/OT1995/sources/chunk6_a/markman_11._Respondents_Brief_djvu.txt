@@ -1,0 +1,2771 @@
+QUESTION PRESENTED 
+
+
+In a patent infringement case tried to a jury, does the 
+court have the power and obligation to construe as a matter of 
+law the meaning of language used in the patent claim when 
+either (a) that meaning is discernable from the patent docu- 
+
+
+ments or (b) extrinsic evidence is necessary as an aid to con- 
+struction? 
+
+
+LIST OF PARTIES PURSUANT TO 
+RULES 24.1(b) AND 29.1 
+
+
+The names of all parties in the court whose judgment is 
+sought to be reviewed appear in the caption of this Brief of 
+Respondents. 
+
+Neither Respondent Westview Instruments, Inc. nor 
+Respondent Althon Enterprises, Inc. has any parent compa- 
+nies or subsidiaries. 
+
+
+CONSTITUTIONAL AND STATUTORY PROVI- 
+EEL AE ER aaa ate 
+
+
+A. The Trial Judge Properly Construed The Petition- 
+ers’ Patent Claims As A Matter Of Law.....___. 
+
+
+B. The Seventh Amendment Does Not Prohibit A 
+Judge From Interpreting Patent Claims As A Mat- 
+SE entbicdertdihetense is tee a 
+
+
+1. Cases Dealing With The Distinction Between 
+Law And Fquity Are Not Helpful In Distinguish- 
+ing Between Issues Of Law And Issues Of Fact 
+
+
+2. The Case Law Concerning The Roles Of Judge 
+And Jury In A Jury Trial Teaches That The 
+Seventh Amendment Preserves The Essence 
+Of The Jury Right, Not Matters Of Form And 
+Procedure 
+
+
+PPSCOCSSOSSSSCOSESC CO SESCEOEC OSCE OEEOSECES 
+
+
+Cc. The Consideration Of Extrinsic Evidence Does Not 
+Change An Issue Of Law To An Issue Of Fact... . 
+
+
+31 
+
+
+TABLE OF CONTENTS—(Continued) 
+Page 
+
+
+2. The Use Of Extrinsic Evidence In The Interpre- 
+tation Of Documents Other Than Patents Does 
+Not Transform The Issue From One Of Law To 
+
+
+SG clddcaccsdcdcaveddstahetevabeved: 41 
+D. The Federal Circuit's Decision Advances Patent 
+RR ae er rae eres ee 43 
+
+
+1. The Construction Of Patent Claims As A Matter 
+Of Law Promotes Specific And Clear Claims And 
+Consistent Interpretation ............. 66600005 43 
+
+
+2. Adoption Of Petitioners’ Argument Would 
+Result In Serious Limitations On Procedures And 
+
+
+The Evolution Of Law ........ 26... 66 eee eeees 46 
+el bh Pr rrrrrrrrrrrTrTTrrrrrrrir re 48 
+APPENDIX 
+
+TO UDG. 6 GBB c ccc ccccccedcvccccccccccdboceeeese la 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases: Page 
+Advanced Cardiovascular Sys. v. Scimed Sys., 887 F.2d 
+I Ci ind can nuee dudtiacad babiide 22 
+American Permahedge, Inc. v. Barcana, Inc., 1995 US. 
+Dist. LEXIS 15838 (S.D.N.Y. 1995)............... 44 
+Arkwright v. Nightingale, Davies Pat. Cas. 38 (Common 
+il ésliodesnseue ites > ean deuak bocecsede. 35 
+Atlas Powder Co. v. E. I. DuPont de Nemours & Co., 750 
+i , % 4 AER Ree ae 43 
+
+
+Automatic Pencil Sharpener Co. v. Boston Pencil Pointer 
+Co., 279 F. 40 (ist Cir. 1992), cert. denied, 260 U.S. 
+
+
+RT tonal a ane ea Paliniapalinaidd 20 
+Baltimore & Carolina Line v. Redman, 295 U.S. 654 
+MEU a SMC Pde RD 27, 30 
+
+
+Bausch & Lomb, Inc. v. Barnes-Hind/Hydrochrome, 79% 
+
+
+DG bdnbd dadddsededduchedectsccschcccccdec 20 
+Bischoff v. Wethered, 76 U.S. 812 (1870)............... 40) 
+Bose Corp. v. Consumers Union of United States, Inc., 466 
+
+is nn cede oct did eneeaséncanenc 46 
+Bovill v. Moore, Davies Pat. Cas. 320 (Common Pleas 
+
+ai hia hil ain din wind nian eoand sobbed 35 
+Brooks v. Steele, 14 R.P-C. 73 (1896) .................. 36 
+Brothers v. Lidgewood Mfg. Co., 223 F. 359 (2d Cir. 
+
+St ebihie ds shdtintitbnind adtabincadbstececce ot 20 
+Capital Traction Co. v. Hof, 174 U.S. 1 (1899).......... 31 
+Century Wrecker Corp. v. E.R. Buske Mfg. Co., Inc., 898 
+
+F. Supp. 1334 (N.D. lowa 1995) .................. 44 
+Choctaw Nation of Indians v. United States, 318 U.S. 423 
+
+nih didobbhsenedbncdtcnmasedds caeadee 41 
+
+v 
+
+
+TABLE OF AUTHORITIES—(Continued) 
+Cases: Page 
+
+
+Cold Metal Process Co. v. E.W. Bliss Co., 285 F.2d 231 
+(6th Cir. 1960), cert. denied, 366 U.S. 911 (1961) .... 20 
+
+
+Colgrove v. Battin, 413 U.S. 149 (1973).........22.-005: 24 
+Collins v. Sawrey, 4 Bro. PC. 692 (H.L. 1772).......... 35 
+Coupe v. Royer, 155 U.S. 565 (1895) .........20.++: 20, 37 
+Dagnello v. Long Island R.R. Co., 289 F.2d 797 (2d Cir. 
+Re aR RR PIE PS SS 29 
+
+
+Dakota Nat'l. Bank & Trust Co. v. First Nat'l Bank Trust 
+Co., 554 F.2d 345 (8th Cir. 1977), cert. denied, 434 
+
+
+UB. G77 CAST). nc cccccccccccccccsccccccccccces 42 
+Damsky v. Zavatt, 289 F.2d 46 (2d Cir. 1961)........--- 27 
+Daubert v. Merrill Dow/Pharmaceuticals, 113 S. Ct. 2786 
+
+CIGDED. . oc cccccccccccccccccccccccsccccscsoscces 46 
+Del Francia v. St-Anthony Corp., 278 F.2d 745 (9th Cir. 
+
+GOED . ncccccccccccccccccccsccccccvccsccceseces 20 
+Devex Corp. v. General Motors Corp., 667 F.2d 347 (3d 
+
+Cir. 1981), aff’d, 461 U.S. 648 (1983)...........-- 20 
+Dimick v. Schiedt, 293 U.S. 474 (1935) .......-..055: 26, 27 
+Driggins v. Okla. City, 954 F.2d 1511 (10th Cir. 1991), cert. 
+
+denied, 113 S. Ct. 129 (1992)... . 22. ec eee eee wees 36 
+Earle v. Sawyer, 4 Mason 1 (C.C.D. Mass. 1825)...... 20, 39 
+Edward Lowe Indus., Inc. v. Oil-DRI Corp. of Am., 1995 
+
+US. Dist. LEXIS 15790 (N.D. Ill. 1995).........-- 44 
+Ex parte Fressola, 1993 Pat. App. LEXIS 3 (Bd. Pat. 
+
+App. & Interferences) ...........0ceeeeeeeeeeees 32 
+Exhibit Supply Co. v. Ace Patents Corp., 315 U.S. 126 
+
+CIDE oc ccccccccccecsccsscccccctecsccccséssoess 20 
+Fleitman v. Welsbach St. Lighting Co. of Am., 240 U.S. 27 
+
+CIPO... cocccccccccccccccccesconscccesectostess 26 
+
+vi 
+
+
+TABLE OF AUTHORITIES—(Continued) 
+
+
+Cases: Page 
+Galloway v. United States, 319 U.S. 372 (1943).......... 28 
+General Elec. Co. v. Wabash Appliance Corp., 304 U.S. 
+
+PP ES oh ncnbnd eb bde oi cececctdbbece cscs 45 
+Graham v. John Deere Co., 383 U.S. 1 (1966) .......... 43 
+
+
+Granfinanciera, S.A. v. Nordberg, 492 U.S. 33 (1989).... 26 
+Harrison v. Anderson Foundry Co., 1 App. Cas. 581 
+
+
+DE Meadcddassadbwunbetescdeccessctsccececcs 36 
+Heald v. Rice, 104 U.S. 737 (1882) ............... 20, 38, 40 
+Herron v. Southern Pacific Co., 283 U.S. 91 (1931)...... 31 
+Hilton Davis Chem. Co. v. Warner-Jenkinson Co., 62 F.3d 
+
+ILA bivcdebhedEscecceccececes 43 
+Hogg v. Emerson, 47 U.S. (6 How.) 437 (1848) ....... 20, 39 
+Hornblower v. Boulton, 8 T. R. 95 (K. B. 1799)......... 35 
+Huddart v. Grinshaw, Davies Pat. Cas. 200 (K.B. 1803).. 35 
+In re Peterson, 253 U.S. 300 (1920) .............. 27, 28, 30 
+Intellicall, Inc. v. Phonometrics, Inc., 952 F.2d 1384 (Fed. 
+
+ith ola dams vadhounceéheseneessese 21 
+Jacob v. City of New York, 315 U.S. 752 (1942)......... 27 
+Keystone Bridge Co. v. Phoenix Iron Co., 95 U.S. 274 
+
+Dh dint heh inasdenakaaten tues sete s 20, 38 
+Kohn v. Eimer, 265 F. 900 (2d Cir. 1920) ............... 21 
+Liardet v. Johnson, (K.B. 1778).............6000000 34, 35 
+Liverpool & G.W. Steam Co. v. Phoenix Ins. Co., 129 U.S. 
+
+Sr hae bd lh acenedemicdcaceveceeshascouecs 46 
+Looms v. Higgins, 105 U.S. 580 (1882) ........... 20, 38, 39 
+Lucas Aerospace, Ltd. v. Unison Indus., L.P, 890 F. 
+
+ST EE eSeechasdvesétoewsudiocus 44 
+
+
+TABLE OF AUTHORITIES—(Continued) 
+
+
+Cases: Page 
+Macbeath v. Haldimand, 1 T.R. 172, 99 Eng. Rep. 1036 
+(TLD. 17BB) ow. cccccccsccccccccccccvcccveveess 34 
+Market St. Cable Ry. Co. v. Rowley, 155 U.S. 621 
+CIGEDD. ... cocccvcceccssoccecsesscccccccesss 20, 38, 40 
+Markman v. Westview, 52 F.3d 967 (Fed. Cir. 1995)...... 13 
+Mayor of Kingston Upon Hull v. Horner, 1 Cowp. 102 
+CED. BTPE). ccc cccvccccvcccccccccesecesessecess 35 
+Mellon Bank, N.A. v. Aetna Business Credit, 619 F.2d 
+1001 (36 Cie. 1980)... ccccccccccccccsvcveces . 43 
+Merrill v. Yeomans, 94 U.S. 568 (1877) ...... 6... e ee ees 43 
+Miller v. Fenton, 474 U.S. 104 (1985)... 2... 6. cece eee 46 
+
+
+Neilson v. Harford, 8 M. & W. 806 (Exch. Pleas 1841)... 35 
+Nichols v. Universal Pictures Corp., 45 F.2d 119 (2d Cir. 
+
+
+1930), cert. denied, 282 U.S. 902 (1931) ............ 21 
+Nutrition 21 v. United States, 930 F.2d 867 (Fed. Cir. 
+TA... ccunusatinns cdivkaeMtanatabenstvbsens 21, 22 
+
+
+Order of Ry. Conductors v. Swan, 329 U.S. 520 (1947). 41, 42 
+Overseas Dev. Disc Corp. v. Sangamo Constr. Co., 840 
+
+
+F.2d 1319 (7th Cir. 1988)..........2000ceeeeeees 41, 46 
+Pernell v. Southall Realty, 416 U.S. 363 (1974).......... 26 
+Pullman-Standard v. Swint, 456 U.S. 273 (1982)......... 46 
+Read Corp. v. Portec, 970 F.2d 816 (Fed. Cir. 1992)...... 20 
+Rolite, Inc. v. Wheelabrator Technologies, Inc., 1995 U.S. 
+
+Dist. LEXIS 16453 (E.D. Pa. 1995)............65. 44 
+Ross v. Bernhard, 396 U.S. 531 (1970)...........-+0+:. 26 
+Silsby v. Foote, 55 U.S. (14 How.) 218 (1853)......... 20, 37 
+
+
+Singer Mfg. Co. v. Cramer, 192 U.S. 265 (1904).... 20, 38, 40 
+
+
+TABLE OF AUTHORITIES—(Continued) 
+Cases: Page 
+
+
+Smith v. Snow, 294 U.S. 1 (1935) .. 2.2.66... ccc cee eee 20 
+Solomon v. Renstrom, 150 F2d 805 (8th Cir. 
+
+GT Vee duct bess bide bbndcd 6460 eccbdes cesses 20 
+SSIH Equip., S.A. v. United States Int’l Trade Comm'n, 
+
+718 F.2d 365 (Fed. Cir. 1983)..............0.0005. 20 
+Tucker v. Spalding, 80 U.S. 453 (1871) ............0000. 40 
+Turner v. Winter, 1 T.R. 602 (K.B. 1787) ............. 34, 35 
+Turrill v. Michigan So. & Northern Indiana R.R. Co., 68 
+
+cedure testes nkthavedeett'e dees 20 
+Tull v. United States, 481 U.S. 412 (1987) .............. 26 
+Twining v. New Jersey, 211 U.S. 78 (1908) ............. 28 
+
+
+United States v. Peterson, 812 F.2d 486 (9th Cir. 1987)... 46 
+
+
+United States v. Reader's Digest Ass'n, 662 F.2d 955 (3d ~ 
+Cir. 1891), cert. denied, 455 U.S. 908 (1982)........ 41 
+
+
+United States v. Weitzenhoff, 1 F.3d 1523 (9th Cir. 1993). 41 
+United States v. Wonson, 28 F. Cas. 745 (C.C.D. Mass. 
+
+
+(A RRIRE a acto aiiagieeeatiea 25, 26 
+U.S. Envtl. Prods., Inc. v. Westall, 911 F.2d 713 (Fed. Cir. 
+A AE i ea i pa ii ea 43 
+
+
+Walker v. New Mexico R.R. Co., 165 U.S. 593 (1897) .... 27 
+Winans v. Denmead, 56 U.S. (15 How.) 330 (1854). 20, 37, 39 
+Winans v. New York and Erie R.R. Co., 62 U.S. (21 How.) 
+
+
+DP veveéebbdhbcsebaddesdddssecte 20, 21, 39, 40 
+Statutes: 
+SP Ma cetncksdhsasktasavessecdes ens passim, la 
+Act of 1870, ch. 230, Sec. 26, 16 Stat. 198 (July 8, 1870). 32 
+Pe ee Se robe cbe eUN Seb bd oe cdiacduevec cess 46 
+
+
+TABLE OF AUTHORITIES—(Continued) 
+
+
+Statutes: Page 
+Bat, BGs BE Bins nig nwo dedewsdde debs dsveivcedis 10, 48 
+US, Gomet. Amami, Vib... cc csccccvvcsvedeccscces passim 
+Legislative History: 
+H.R. No. 97-312, 97th Cong., Ist Sess..............555. 43 
+Publications: 
+Thomas Brett, Commentaries on the Present Laws of 
+Brngfamed CIGBE) ooo ccccccccccsccccvccvctoccvceces 36 
+F. Buller, An Introduction to the Law Relative to Trials at 
+Piled Polen COG HG. TIE) onc ccccvcceseccccsctcess 34 
+A. Deller, Patent Claims (2d ed. 1971) .........0500055 32 
+
+
+Patrick Devlin, Jury Trial of Complex Cases: English 
+Practice at the Time of the Seventh Amendment, 80 
+
+
+Colum. L. Rev. 43 (1980)...........0.eeeees 29, 30, 33 
+J. Dienner, Claims of Patents, 18 J. Pat. Off. Soc. 389 
+
+Gas cdobdcdccndetsenceassousasenessepvaoes 32, 33 
+R. Ellis, Patent Claims (1949) . 0.0... 06 6c cece eeeeeees 32 
+
+
+Edith G. Henderson, The Background of the Seventh 
+Amendment, 80 Harv. L. Rev. 289 (1966) ..... 24, 25, 30 
+
+
+W. S. Holdsworth, History of English Law (1938)....... 32 
+Fleming James, Jr., Right to a Jury Trial in Civil Actions, 
+TE Wad Cd. GES GP sv ccc cbccccccccccccceses 26, 29 
+
+
+Kenneth S. Klein, The Myth of How to Interpret the Sev- 
+enth Amendment Right to a Civil Jury Trial, 53 Ohio 
+Db. Ct, GED Cea ncccvcsccccccccccves 24, 25, 26, 29 
+
+
+J. Oldham, The Mansfield Manuscripts and the Growth of 
+English Law in the Eighteenth Century (1992)...... 34 
+
+
+Martin H. Redish, Seventh Amentment Right to Jury 
+Trial: A Study in the Irrationality of Rational Deci- 
+sion Making, 70 N.W.L. Rev. 486 (1975). ........... 27 
+
+
+; TABLE OF AUTHORITIES—(Continued) 
+Publications: Page 
+Austin W. Scott, Trial by Jury and the Reform of Civil 
+
+Procedure, 21 Harv. L. Rev. 669 (1918) ............ 28 
+
+
+Arthur H. Seidel, et al., What the General Practitioner 
+Should Know About Patent Law and Practice (Sth 
+
+
+Sh NR Gnadd sneddbedueedetedacksceckstesoe 45 
+Henry Slocum, New Trials and the Seventh Amendment, 
+
+oo 8 FR 8 | Sse ae 25 
+James B. Thayer, “Law and Fact” in Jury Trials, 4 Harv. 
+
+as ia ie 29, 30 
+Albert Walker, Textbook of the Patent Law of the United 
+
+States of America (3d ed. 1895). .............0005. 40 
+Stephen Weiner, The Civil Jury Trial and the Law-Fact 
+
+Distinction, 54 Calif. L. Rev. 1867 (1966) .......... 33 
+
+
+Charles W. Wolfram, The Constitutional History of the 
+Seventh Amendment, 57 Minn. L. Rev. 639 
+
+
+No. 95-26 
+
+
+IN THE 
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+HERBERT MARKMAN AND POSITEK, INC., 
+Petitioners, 
+
+
+WESTVIEW INSTRUMENTS, INC. AND 
+ALTHON ENTERPRISES, INC., 
+Respondents. 
+
+
+On Petition for a Writ of Certiorari 
+to the United States Court of Appeals 
+for the Federal Circuit 
+
+
+BRIEF OF RESPONDENTS 
+
+
+Constitutional and Statutory 
+Provisions Involved 
+
+
+U.S. CONST. AMEND. VII provides: 
+
+
+In Suits at common law, where the value in controversy 
+shall exceed twenty dollars, the right of trial by jury shall 
+be preserved, and no fact tried by a jury, shall otherwise 
+be re-examined in any Court of the United States, than 
+according to the rules of the common law. 
+
+
+35 U.S.C, §112. 
+The full text of 35 U.S.C. §112 is reprinted in full in an 
+
+
+appendix to the Brief of Respondent. 
+
+
+2 
+
+
+STATEMENT OF THE CASE 
+
+
+Nature of the Case 
+
+
+This is a patent infringement case that raised no issues of 
+fact for the jury. The Petitioner's patent, described more fully 
+below, claims a system that utilizes bar codes to track clothes 
+or other articles in a dry cleaning establishment to allow the 
+detection of lost, stolen or added articles. The Respondent's 
+system prints bar-coded invoices, thereby allowing the detec- 
+tion of missing or extra invoices. At trial, the facts concerning 
+the capabilities of the accused system were undisputed. The 
+only question was whether the language of the claims could be 
+read to cover the accused system. That language was not com- 
+plex, scientific or technical. A typical issue was whether the 
+word “inventory” meant “articles of clothing,” or “cash,” or 
+“invoices.” The only witness who attempted to interpret the 
+claim language was Petitioners’ expert — a patent lawyer with 
+no skill in the dry cleaning art — whose legal conclusions were 
+rejected by the court. 
+
+The trial court determined the meaning of the patent 
+claims as a matter of law from the patent documents. Since no 
+factual dispute remained, the trial court granted Respondents’ 
+Motion for Directed Verdict. The trial court's ruling was unre- 
+markable and consistent with both standard federal practice 
+and the requirements of the Seventh Amendment. The United 
+States Court of Appeals for the Federal Circuit affirmed the 
+trial court’s judgment and reaffirmed the longstanding propo- 
+sition that construction of patent claims is an issue of law for 
+the court. 
+
+
+The heart of Petitioners’ attack on the Federal Circuit's 
+decision is their argument that the Seventh Amendment man- 
+dates that any resort to extrinsic evidence, such as expert tes- 
+timony, turns claim interpretation from an issue of law to an 
+issue of fact. The Federal Circuit ruled that neither logic nor 
+precedent supported Petitioners’ argument that the Seventh 
+Amendment prohibits claim interpretation as a matter of law. 
+
+
+1. The Patent-in-Suit. The patent at issue is United States 
+Reissue Patent No. 33, 054, which claims an inventory control 
+
+
+— 
+
+
+3 
+
+
+and reporting system, primarily for use in dry cleaning stores. 
+The system enables the dry cleaner to identify, calculate and 
+process costs of laundry articles to be cleaned, to print bar- 
+coded records and tags for attachment to the laundry articles, 
+to scan bar-coded tags on articles so as to monitor their loca- 
+tion, and to generate reports based upon the information con- 
+tained in the records and obtained by the scanner or scanners. 
+J.A. 293-301. As summarized in the patent's specification, the 
+dry cleaning process involves intermingling large numbers of 
+clothes from different customers in one dry cleaning machine. 
+J.A. 296, col. 1, In. 42-45. Each article of clothing is labelled 
+with an article tag bearing a unique, sequential number. J.A. 
+296, col. 2, In. 5-9. The tags are used so that the customer's 
+clothes can be reassembled in one batch after dry cleaning. 
+J.A. 300, col. 9, In. 41-46. The article tag numbers are also 
+printed on the customer's invoice. J.A. 294, Fig. 2. Once the 
+clothes are cleaned, individual articles are regrouped into the 
+customer's original batch by matching the numbers on the 
+article tags with the numbers on the invoice. 
+
+
+2. Prosecution History. The initial patent application was 
+rejected for obviousness. J.A. 308-309. The original patent was 
+issued only after amended claims were submitted to distin- 
+guish its claims over the prior art. J.A. 310-318. The amend- 
+ments contain limiting language that defines the boundaries of 
+the invention and distinguishes the patent from Respondent 
+Westview's system. Amended claim 1 is reproduced below. 
+Language deleted from the original claim 1 is in brackets and 
+language added to the original claim 1 is italicized. 
+1. An inventory control and reporting system, comprising: 
+a data input device for manual operation by an attendant, 
+the input device having switch means operable to encode 
+information relating to sequential transactions, each of the 
+transactions having articles associated therewith, said infor- 
+mation including transaction identity and descriptions of 
+each of said [a plurality of] articles associated with the 
+transactions {a transaction]; 
+a data processor including memory operable to record 
+said information and means to maintain an inventory total, 
+
+
+4 
+
+
+said data processor having means to associate sequential 
+transactions with unique sequential indicia and to gener- 
+ate at least one report of said total and said transactions, 
+the unique sequential indicia and the descriptions of 
+articles in the sequential transactions being reconcilable 
+against one another; [and,} 
+
+
+a dot matrix printer operable under control of the data 
+processor to generate a written record of the indicia asso- 
+ciated with sequential transactions, the written record 
+including [comprising a plurality of] optically-detectable 
+bar codes having a series of contrasting spaced bands, the 
+bar codes being printed only in coincidence with each said 
+transaction and at least part of the written record bearing 
+a portion to be attached to [directly associated with} said 
+articles; and, 
+
+
+at least one optical scanner connected to the data processor 
+and operable to detect said bar codes on all articles pass- 
+ing a predetermined station, 
+
+
+whereby said system can detect and localize spurious addi- 
+tions to inventory as well as spurious deletions therefrom. 
+
+
+J.A. 308-309. 
+
+
+After issuance of the original patent, Petitioner Markman 
+applied for a reissue patent in which he sought to broaden the 
+patent by adding two new claims. In the reissue application, 
+Markman stated that the original patent was invalid because 
+he had claimed less than he had a right to claim. J.A. 319-320. 
+The patent examiner at first rejected the reissue application. 
+J.A. 2292-93. Upon reconsideration, the patent examiner 
+issued United States Reissue Patent No. 33,054, which 
+retained all of the original claims and added two new claims, 
+14 and 15. J.A. 293-301. The two new claims broadened the 
+original patent. For example, Claim 14 of the reissue patent 
+did not require a dot matrix printer, did not require descrip- 
+tions of each article to be encoded and did not require the 
+data processor to be connected to the optical scanner.’ 
+
+
+1. As explained in Respondents’ Brief in Opposition to the Petition for 
+
+
+5 
+
+
+3. The Purpose of the Invention Defined by the Patent. 
+The patent defines an invention intended to prevent the loss 
+or theft of clothes or the processing of undocumented clothes. 
+Markman's remarks to the patent examiner describe the prob- 
+lem that his patent was meant to solve: 
+
+
+As described in the specification, some basic difficulties 
+with retail dry cleaning establishments relate to the fact 
+that attendants sometimes process undocumented articles 
+through the system and pocket the proceeds. Another dif- 
+ficulty is that the loss, misplacement or separation in pro- 
+cess of even a single article of even relatively minor value 
+will have a major impact on the customer's estimation of 
+the quality of the establishment. 
+
+
+J.A. 314-315. 
+
+To curtail the processing of undocumented articles and 
+the loss or theft of even a single item of clothing, Markman's 
+system, as defined by the patent, tracks articles of clothing 
+through the dry cleaning process. The tracking of articles is 
+accomplished by printing bar-coded article tags, attaching the 
+tags to articles of clothing and scanning them at predeter- 
+mined stations. 
+
+The function and purpose of the patent is apparent on its 
+face. The patent specification describes Markman's invention 
+as relating to “inventory control devices capable of monitoring 
+and reporting upon the status, location and throughput of 
+inventory in the establishment.” J.A. 296, col. 1, In. 12-15. The 
+last paragraph of claim 1 explains that “said system can detect 
+and localize spurious additions to inventory as well as spurious 
+deletions therefrom.” J.A. 301, col. 11, In. 9-11. The additions 
+or deletions are discovered by the scanning of “bar codes on 
+all articles passing a predetermined station.” J.A. 301, col. 11, 
+In. 7-8. The specification summarizes the function of the inven- 
+tion, stating that “the progress of articles through the laundry 
+Certiorari, the Patent and Trademark Office issued a final rejection of the 
+patent in this case on July 26, 1994, after the in banc hearing before the 
+Federal Circuit. The rejection was the result of numerous challenges on the 
+
+
+basis of prior art. A decision is pending from the Board of Patent Appeals 
+anc Interferences on the appeal of the final rejection. 
+
+
+6 
+
+
+and dry cleaning system can be completely monitored.” J.A. 
+296, col. 2, In. 55-56. The claims and specification make it clear 
+that the patent claims a system which has the ability to track 
+individual articles of clothing through the dry cleaning pro- 
+cess, to detect and localize missing and additional articles of 
+clothing and to generate reports about the status and location 
+of the individual articles of clothing.” 
+
+4. The Accused System. The accused system was invented 
+and manufactured by Respondent Westview Instruments, Inc. 
+for use in the dry cleaning business.* The facts about the 
+accused system are not in dispute. The accused system consists 
+of two units, the DATAMARK and the DATASCAN. J.A. 
+307. The DATAMARK prints bar coded invoices that contain 
+information about the customer, the clothes to be cleaned and 
+charges for cleaning. J.A. 307. The DATAMARK stores in 
+memory only the invoice number and the invoice cash total. 
+J.A. 303. The DATASCAN is a portable bar code reader con- 
+taining a microprocessor used to read bar codes on invoices 
+wherever they are located. J.A. 204. After the invoice list is 
+transferred from the DATAMARK to the DATASCAN, the 
+
+
+2. The inventor's application for the reissue patent further emphasized 
+that the claimed patent tracks articles: 
+
+The limitations which render the claims unnecessarily narrow over all 
+
+known prior art, are: 
+
+1. Tracking of individual articles. 
+
+It may be argued that the claims are limited to a system that tracks 
+
+individual articles such as individual pieces of clothing brought by a 
+
+single customer to a drycleaning establishment or the like . . . The 
+
+claim language recites entry of “descriptions of each of said articles 
+associated with the trans-actions.” This passage is more limited than | 
+had a right to claim because, although individual articles, e.g. a pair of 
+pants, could be accounted for by marking, scanning and reconciliation 
+in reports, the grouping of such articles into sets for tracking is reason- 
+ably disclosed as forming part of the invention and is allowable over the 
+prior art. 
+
+J.A. 320-21. 
+
+While claim 14 was expanded to include the tracking of groups of 
+articles rather than individual articles, the focus of the invention remained 
+on the tracking of articles, not invoices. 
+
+3. Respondent Althon Enterprises is a drycleaner that purchased the 
+accused system. 
+
+
+DATASCAN will then report any discrepancy between the list 
+of invoice numbers it has received from the DATAMARK 
+
+
+occurred because DATASCAN is portable and does not oper- 
+ate at a fixed, predetermined station. J.A. 204. While the 
+accused system can compute the cash total, it has no ability to 
+generate a report in which the article descriptions and the 
+invoice numbers are reconcilable against one another. J.A. 
+303. The invoice itself is the only document the Westview sys- 
+tem prints that contains article descriptions. J.A. 912. 
+
+The accused system does not track articles of clothing 
+individually or in batches. To track such articles, the DATA- 
+MARK would also have to print bar-coded tags for attach- 
+ment to them. It does not. J.A. 219. The only bar-coded docu- 
+ment that the DATAMARK prints is the invoice. Similarly, 
+the DATAMARK stores the invoice numbers in memory but 
+does not retain descriptions of individual articles of clothing. 
+J.A. 208-209. Since the DATAMARK does not tag individual 
+articles or retain information about them, it cannot detect or 
+locate deletions or additions of articles as 
+the dry cleaning process. J.A. 204. a 
+
+
+5. Procedural History. Before trial, Respondents moved 
+for summary judgment on the question of infringement on the 
+grounds there was no genuine factual dispute about the 
+accused device and Responden... were entitled to judgment in 
+their favor upon the proper legal interpretation of the claims. 
+The trial court denied the motion. After Respondents moved 
+for reconsideration, the court issued an order stating, “There 
+is a genuine issue of material fact as to whether defendant's 
+product stores in memory individual articles. Compare Jenkins 
+Dep. p. 108 (Exh. B Motion) with operator's manual P6 
+attached . . . .” J.A. 292. The judge did not identify any trial 
+issue, legal or factual, with respect to the meaning of the 
+
+
+the accused system's ability to store article descriptions in 
+memory. Petitioners, to create an apparent fact dispute, had 
+pointed to a statement in the DATAMARK operator's manual 
+that data, including article descriptions, was “saved in DATA- 
+MARK memory and printed on the laundry/dry cleaning 
+ticket.” While that statement was literally true, the article 
+descriptions are erased from the limited DATAMARK 
+memory once the ticket is printed. Article descriptions are 
+“saved” only for the moment between when they are entered 
+and when the ticket is printed. 
+
+Evidence at trial about the capabilities of the accused 
+presentation of all of the evidence took less than two trial 
+days. 
+
+Petitioners’ first witness was Mr. Mikula, an expert on bar 
+codes who had studied and operated the accused system. He 
+admitted that once the invoice was printed, Westview's system 
+did not store individual article descriptions in memory, and did 
+not track articles of clothing. J.A. 36-38. Thus, there was no 
+dispute about the capabilities of the accused device.‘ 
+
+The rest of the trial consisted of Petitioners’ efforts to 
+interpret the language of the patent so that the claims would 
+encompass the accused system. Since Westview's system does 
+not identify extra or missing clothing, does not generate any 
+reports about articles and does not maintain an inventory 
+total, Petitioners argued that inventory did not mean clothes. 
+Their expert witness on claim interpretation, Mr. Chovanes, 
+was a patent lawyer who had no skill in the dry cleaning art. 
+Nevertheless, in Petitioners’ words, he “interpreted the claims 
+of the patent and testified on how the claims of the patent 
+read on the accused system.”> Pet. Br. 5. The lawyer's testi- 
+
+
+4. After this admission, and in the middle of Respondents’ cross- 
+the planning to the question of infringement issues 
+white camnh, LA, bah, Gaantew bad Gneed tale Od Oe eat 0 
+bifurcation and its motion had been denied. 
+
+5. Mr. Chovanes’ testimony consisted of legal conclusion supported by 
+a fair amount of doubletalk. For example: 
+
+
+9 
+
+
+mony was that spurious additions or deletions to “inventory” 
+are spurious deletions and additions to invoices. J.A. 73-74. 
+He redefined the “report” that reconciles article 
+against invoice numbers as an invoice. J.A. 71. He argued that 
+the “tag” attached to the articles is an invoice. J.A. 128-193. 
+Mr. Chovanes’ claim interpretation was contradicted by 
+the documentary record, which established that inventory 
+meant articles of clothing.© The patent documents also dem 
+onstrated that the invoice, tags and the report are each sepa- 
+rate documents.’ 
+
+
+Q: Is it your testimony here today that this patent does not require the 
+system to be able to keep track of individual articles of clothing? 
+A: Well, again, that question has to be answered this way. It does keep 
+on the tickets which are then attached — which are to be attached and 
+are attached to the batches, to the articles as called for in the claims, it 
+does keep track. You can reconcile all the items on that and through the 
+total, and through the invoice rumber the total and invoice number are 
+back in the “Datamar‘,” you can reconcile the whole works where, as 
+they say themselves, whereby missing and extra you can find out where 
+they are so you are in that sense if a person comes in and you do all 
+those things and so forth, you are keeping — you are reconciling with 
+the invoice number the articles and with the actual inventory of articles 
+out on line so the claim, what the claim calls for is what I have gone 
+over there in great detail and that's all present, that’s the test of 
+infringement. Are the elements of the claim or their equivalent present 
+in the accused structure and we've shown how they are or | have tried 
+to show how they are. 
+J.A. 97-98. 
+6. The patent specification makes it certain that “inventory” means 
+articles of clothing, as the following examples reveal: 
+“[A] basic function of inventory control is the counting of incoming and 
+outgoing materials” J.A. 296, col. 1, in. 19-20. 
+“The identity of specific articles must be monitored, making inventory con- 
+trol somewhat more complicated” J.A. 296, col. 1, In. 21-23. 
+“[A] problem which appears to occur randomly in the inventory (e.g., dam- 
+age to garments)“ J.A. 298, col. 5, In. 59. 
+“[T}ncoming articles to be placed in inventory are accumulated over a 
+counter. . .” J.A. 298, col. 6, In. 8. 
+article tags may be attached to items in inventory” J.A. 299, 
+col. 8, In. 9-10. 
+Additional examples are found in the Federal Circuit's opinion at 37a-38a. 
+See also Petitioner Markman's remarks in support of the amended patent at 
+J.A. 314. 
+7. For example, the specification distinguishes between tags and 
+reports, stating: “the bar code tags are attached to articles of clothing and 
+
+
+10 
+
+
+The patentee, Mr. Markman, testified at trial. Petitioners 
+objected to Respondents’ cross-examination of Mr. Markman 
+about the meaning of his claim on the basis that Markman was 
+not a “patent expert.” J.A. 169. Mr. Markman protested 
+repeatedly that he could not interpret the language because he 
+was not a patent attorney; he knew only how the patent was 
+“implemented at his company” and stated that “I get as 
+messed up in this language as anybody.” J.A. 174. 
+
+Respondents moved for a directed verdict at the close of 
+Petitioners’ case because the question of claim interpretation 
+was determinable as a matter of law, and because there was 
+not even an arguable factual dispute over the accused system. 
+The trial judge deferred ruling on the motion in accordance 
+with Rule 50 of the Federal Rules of Civil Procedure.* 
+
+Respondents did not call any witnesses to testify about 
+the meaning of the claims because their meaning was readily 
+discernable from the patent specification and prosecution his- 
+tory. Their only witness was Mr. James Jenkins, Westview’s 
+president, who explained and then demonstrated how the 
+accused system worked. 
+
+On cross-examination, Petitioners elicited testimony 
+about the meaning of “inventory” when used by Mr. Jenkins 
+to describe the capabilities of the accused system. Mr. Jenkins 
+
+
+NOTES (Continued) 
+
+
+are used with the scanning apparatus to facilitate generation of reports 
+according to various management needs.” J.A. 293. The patent-in-suit also 
+refers to “bar code records and tags,” thereby differentiating tags from 
+invoices. J.A. 293. Additionally, Figure 2 of the specification, J.A. 294, 
+clearly shows a multiple part record that includes an invoice (numbered 46 
+and referred to in the specification as “an establishment ticket copy” at J.A. 
+299, col. 7, In. 44-45) and detachable tags (numbered 48 and referred to in 
+the specification as “article tags” at J.A. 299, col. 7, In. 46). Finally, the 
+ion states that the optical scanning station is used to reconcile 
+inventory articles. J.A. 300, col. 9, in. 57-59. Inventory articles can be recon- 
+ciled at an optical scanning station by reading tags attached to the articles. 
+However, reading just invoices with an optical scanner does not reconcile 
+articles because it does not divulge any article-specific information. 
+8. The practice of deferring a ruling on a Rule 50 motion is encouraged 
+in the Advisory Committee Notes to that rule. Fed. R. Civ. P. 50 advisory 
+committee note, 1991 Amendment subdivision (b). 
+
+
+11 
+
+
+testified that a dry cleaner was concerned about two kinds of 
+inventory, both “cash” and “articles of clothing.” He explained 
+that the Westview system was designed to look after cash. J.A. 
+212. Mr. Jenkins was not asked to testify about what the claim 
+language meant to him as one skilled in the art. Rather, Peti- 
+tioners’ counsel obtained the admission from Mr. Jenkins that 
+he had “a very difficult time with language in patents.” J.A. 
+205. After Mr. Jenkins testified, Respondents offered into evi- 
+dence the prosecution history of the original and reissue pat- 
+ents, rested on infringement, and renewed their Rule 50 
+motion. 
+
+_ In his summation, counsel for Petitioners reminded the 
+jury that Respondents had presented no expert on claim lan- 
+guage and that Respondents’ president — one skilled in the 
+art — had not interpreted the claim language because “he has 
+trouble knowing what that means” and the interpretation of 
+claim language is “an area of expertise.” J.A. 231. He argued 
+that the jurors should accept the testimony of the patent law- 
+yer, “who has taught law,” that the accused system infringes 
+the patent. J.A. 231. 
+
+Respondents requested jury instructions construing the 
+claim language for the jury as well as the use of special inter- 
+rogatories to require the jury to apply the claim interpretation 
+as given by the trial judge. Petitioners objected, claiming that 
+interpretation of the claims was for the jury to decide. J.A. 
+241. The trial judge's instruction included a mere reading of 
+the claim language to the jury. The trial judge told the jury 
+that “you must determine the meaning of the claims taking the 
+interpretation as I’ve explained it to you using the relevant 
+patent documents including the specifications, the drawings 
+and the file histories . . . .” J.A. 253. Respondents objected to 
+the court's failure to interpret the claim for the jury and the 
+instruction that the jury must determine the claims. J.A. 264. 
+; After deliberation, the jury returned contradictory find- 
+ings that Respondents had infringed Claim 1 and Claim 10 but 
+not the broader Claim 14. The trial judge then heard argument 
+on and granted Respondents’ motion for a directed verdict. 
+
+6. The Trial Court's Opinion. In its Opinion and Order 
+granting Respondents’ motion for a directed verdict, the trial 
+
+
+12 
+
+
+court held that claim construction is a matter of law for the 
+court. The district court cited case law holding that “a mere 
+dispute concerning the meaning of a term does not itself cre- 
+ate a genuine issue of material fact.” 17la. The court con- 
+cluded that the plaintiffs’ expert tried to redefine common 
+words in unusual and novel ways in order to sustain infringe- 
+ment. The judge observed that the expert's “artificial” reading 
+of the claim is that “report” means “invoice”; “attached to 
+said articles” means “attached to a plastic bag that covers a 
+batch of the articles”; and “inventory” means “cash” or 
+“invoices” but net “articles of clothing.” 173a. The court 
+determined that these definitions were contrary to the ordi- 
+nary and customary meaning of the terms and the obvious 
+meaning intended by the patentee as used in the specifica- 
+tions, the drawings and file wrapper. 173a. 
+
+
+The court regarded the patent lawyer's testimony as 
+“unhelpful” because claim meaning is a matter of law for the 
+court. 173a. Interpreting words in the patent as the Petitioners 
+urged would require “semantic antics” because it would 
+require a system that detects and localizes spurious additions 
+and deletions of dollars to inventory and would require defin- 
+ing “inventory” in a dry cleaning system to mean only “cash” 
+and not “articles of clothing.” 175a. Since the claim meaning 
+was clear on the face of the patent, and there was no dispute 
+over the capabilities of the accused device, the court directed 
+the verdict in favor of Respondents. 
+
+
+7. Proceedings in the Federal Circuit. Petitioners 
+appealed and the case was fully briefed and argued before a 
+panel of the Federal Circuit. Eighteen months later, the Fed- 
+eral Circuit sua sponte issued an order for rehearing of the 
+case in banc. In a subsequent order, the Court requested the 
+parties to brief four questions.® 
+
+
+After briefing and oral argument, the Federal Circuit 
+issued the opinion that is before the Court today. The court's 
+
+
+9. The Federal Circuit's orders and the text of the four questions are 
+reproduced in the Appendix to the Petitioners’ Petition for Writ of Certio- 
+rari at 162a-167a. 
+
+
+13 
+
+
+nearly unanimous judgment was that the district court was 
+correct to grant Respondents’ motion for directed verdict.'° 
+
+
+The majority opinion, joined by eight judges, character- 
+ized Petitioners’ argument as follows: 
+
+Markman contends that the jury was properly given the 
+question of claim construction and that the jury's claim 
+construction and verdict thereon is supported by substan- 
+tial evidence. The evidence Markman points to in support 
+of the jury verdict is not the language of the patent speci- 
+fication or prosecution history, but rather Markman’s own 
+testimony as inventor and the testimony of his patent 
+expert. He also relies on the use of the word “inventory” 
+in Westview’s product literature and on the testimony of 
+its president. Markman's position essentially is that all the 
+evidence of the meaning of the word “inventory,” from 
+the patent, prosecution history, experts, and documents, 
+was properly lumped together and submitted to the jury 
+for it to resolve what in fact is the meaning of “inven- 
+tory,” and that the result of this process in entitled to 
+highly deferential review both by the trial court on 
+motion for JMOL and by this court on appeal from the 
+grant or denial of JMOL. 
+
+
+léa. 
+
+The Federal Circuit, rejecting Petitioners’ assertions, held 
+that the district judge was correct to construe the patent as a 
+mater of law and that the construction was subject to de novo 
+review on appeal. The Federal Circuit agreed with the district 
+court that the testimony of Mr. Chovanes, Petitioners’ legal 
+expert, amounted to no more than legal opinion that the trial 
+court was free to accept or reject as it saw fit, stating: 
+
+
+When legal “experts” offer their conflicting views of how 
+the patent should be construed, or where the legal 
+expert's view of how the patent should be construed con- 
+flicts with the patent document itself, such conflict does 
+
+
+10. Markman v. Westview, 52 F.3d 967 (Fed Cir. 1995) (Archer, CJ., 
+joined by seven other judges); id. at 989 (concurrence by Mayer, J.); id. at 
+998; (concurrence by Rader, J.) id. at 999; (dissent by Newman, J.). 
+
+
+14 
+
+
+not create a question of fact nor can the expert opinion 
+
+bind the court or relieve the court of its obligation to 
+
+construe the claims according to the tenor of the patent. 
+42a. 
+
+The Federal Circuit ruled that extrinsic evidence cannot 
+be used to change the meaning of the claims. The Court 
+agreed that the trial court properly used the patent documents 
+to interpret the claims and, upon review of the claim language, 
+specification and prosecution history, concluded that the dis- 
+trict court's claim construction was correct. 36a-43a. 
+
+The Federal Circuit also agreed with the trial court that 
+the Petitioners’ proffered claim interpretation was illogical. 
+Thus, the phrase “detect and localize spurious additions to 
+inventory as well as spurious deletions therefrom,” logically 
+must refer to clothing and not “dollars” or “invoices.” Dollars 
+do not travel through the plant and the location of invoices 
+within the plant is unimportant. Only clothes need to be local- 
+ized, because they can be lost or stolen at different points as 
+they travel through the plant. Also, “spurious additions” and 
+“spurious deletions” to inventory logically relate to clothing 
+because dollars and invoices would not be spuriously added to 
+a dry cleaning inventory. 37a. 
+
+In its general holding, the majority resolved a split in 
+Federal Circuit authority as to whether there could ever be 
+jury triable fact issues subsidiary to claim construction. The 
+Federal Circuit stated: 
+
+
+We therefore settle inconsistencies in our precedent and 
+hold that in a case tried to a jury, the court has the power 
+and obligation to construe as a matter of law the meaning 
+of language used in the patent claim. 
+
+
+30a. 
+
+Judge Mayer, who is quoted heavily by Petitioners, filed a 
+separate opinion in which he opposed the majority's broad 
+conclusions about the role of juries in infringement cases in 
+which claim construction requires extrinsic evidence. Despite 
+his disagreement with the majority on these matters, he con- 
+curred in the judgment on the ground that the trial court's 
+
+
+15 
+
+
+claim construction was proper because the meaning of the 
+patent did not require inquiry beyond the patent documents. 
+57a, 61a n.2. Judge Rader filed a separate concurring opinion 
+on the basis that the Federal Circuit should not have decided 
+whether subsidiary fact issues relating to claim interpretation 
+should be determined by the judge or the jury, because there 
+were no such fact issues present in this case. He specifically 
+concluded that there was no substautial evidence to support 
+the jury's findings. 81a-83a. 
+
+The sole dissenter, Judge Newman, would have remanded 
+the case to allow the trial judge to apply the “substantial evi- 
+dence” standard to the jury verdict. 159a. Thus, the concurring 
+judges agreed with the trial court's claim construction, and the 
+single dissent did not argue that this construction was incor- 
+rect. The center of the disagreement within the in banc panel 
+was the effect of the majority's opinion on future patent cases, 
+not its judgment as to this case. 
+
+The Federal Circuit opinion relied on the traditional stan- 
+dard for review of a grant of JMOL: substantial deference is 
+given to factual findings of the jury, but the legal standards 
+applied by the jury in reaching the verdict are considered de 
+novo to determine their correctness as a matter of law. 19a. 
+Applying that standard to this case, the Federal Circuit found 
+that the trial court properly construed the claims as a matter 
+of law, stating: 
+
+Correctly reasoning that claim construction is a matter of 
+
+law for the court, the district court properly rejected the 
+
+jury’s verdict and granted JMOL. Upon our de novo 
+review of the court's construction of the claim 
+
+we agree that “inventory” in claim 1 includes within its 
+
+meaning “articles of clothing.” It is undisputed that West- 
+
+view's device does not and cannot track articles of cloth- 
+ing. Accordingly, there is no substantial evidence to sup- 
+
+port the jury’s finding of infringement of claims 1 and 10 
+
+of United States Reissue Patent No. 33, 054 when those 
+
+claims are correctly construed. The district court's grant 
+of judgment of non-infringement as a matter of law is 
+
+AFFIRMED. 
+
+
+16 
+
+
+SUMMARY OF ARGUMENT 
+
+
+Petitioners assert that the decision of the Federal Circuit 
+in this case violates the Seventh Amendment's guarantee of a 
+right to a jury trial. This argument depends on several assump- 
+tions. Petitioners must posit that there was a real factual dis- 
+pute in the case, that the trial court improperly usurped the 
+jury’s role by directing a verdict in favor of the Respondents, 
+and that the judgment of the Federal Circuit affirming the trial 
+court, thus, is flawed. But none of the necessary predicates to 
+Petitioners’ arguments is present in this case. 
+
+Petitioners’ brief is fixed on fact disputes over scientific 
+evidence, but there was no scientific or technical evidence 
+given at trial. Petitioners refer to expert disputes, but there 
+were no such disputes because Respondents had no expert at 
+trial and because Petitioners’ supposed expert was simply a 
+patent lawyer who had no training in the relevant art and put 
+forth no “evidence.” This was not a case where the trial judge 
+determined credibility of disputing witnesses over issues of 
+what someone skilled in the dry cleaning art would understand 
+the patent claims to mean. Testimony like that presented at 
+trial, giving only distorted legal conclusions in contradiction of 
+the written record, is not competent evidence at all. It was the 
+trial judge’s obligation to decide matters of law in the case, as 
+in all cases, and that obligation extended to construction of the 
+plain meaning of the patent claims at issue. 
+
+In this case the Federal Circuit overwhelmingly agreed 
+that the documentary record revealed the one susceptible 
+meaning of the claim, and that extrinsic evidence was not a 
+necessary part of proper claim construction. Claim construc- 
+tion clearly was a matter exclusively for the judge, and his 
+judgment as a matter of law was appropriate." 
+
+
+11. The judgment in Respondents’ favor is correct whether claim inter- 
+pretation is always purely a matter of law or whether it may sometimes 
+involve fact-findings on genuinely disputed terms. Since there was no real 
+dispute in this case, the distinction here is immaterial. Alternatively, assum- 
+ing arguendo that there were genuine issues in dispute, which Respondents 
+deny, the judgment was still appropriate because the trial record easily 
+reveals that there was no substantial evidence to support the jury verdict. 
+The judgment can be affirmed under either of these analyses. 
+
+
+17 
+
+
+The Seventh Amendment question addressed by Petition- 
+ers relates to the Federal Circuit majority opinion’s statements 
+concerning the respective roles of judge and jury in interpret- 
+ing claim language when testimony of those skilled in the art 
+might be necessary to reveal the technical meaning of the 
+claim to the trial court. While these statements may extend 
+beyond this case, the Federal Circuit’s view that claim con- 
+struction in those circumstances is a question of law for the 
+court is consistent with the precedent of this Court. 
+
+
+The properly framed constitutional question here is how 
+the Seventh Amendment affects the determination of whether 
+a particular issue in a jury trial, in this case, claim construction, 
+is a matter of law for the judge or a matter of fact for the jury. 
+This Court repeatedly has held that it is the essence of the 
+common law jury’s fact-finding role that is preserved, not the 
+incidents and details. The allocation of roles between judge 
+and jury is necessarily flexible because of the indistinct and 
+sometimes shifting line between law and fact. Judge and jury 
+roles also have changed as federal procedures and modern 
+substantive laws have evolved. 
+
+
+The determination of how the task of claim construction 
+should be allocated between judge and jury at trial today 
+therefore must take into account both the roles of judge and 
+jury in pre-1791 infringement cases and the evolution of those 
+roles through history as trial practices and the patent system 
+have developed. The Seventh Amendment framework sup- 
+ports the majority’s conclusion that judges, not juries, construe 
+patent claim language as a matter of law. Under this analysis, 
+the essence of the jury’s historical role in infringement trials is 
+undisturbed, just as the sound policies toward providing uni- 
+formity and consistency in patent law are advanced. 
+
+The Federal Circuit properly rejected Petitioners’ conten- 
+tion that claim interpretation becomes an issue of fact when- 
+ever extrinsic evidence is used as an aid to determine the 
+meaning of patent claims. While a judge who is not skilled in 
+the art may need testimony from an expert to explain the 
+meaning of technical terms, this does not change the legal 
+nature of claim construction. This process parallels other areas 
+
+
+18 
+
+
+of the law, where judges often consider extrinsic evidence to 
+interpret written documents and determine foreign law. 
+
+
+The patent system's policies are advanced by the Federal 
+Circuit's broader holding in this case. Patents are private 
+monopolies of public rights. Patent claims are statutorily 
+required to define the invention clearly and specifically so that 
+the public can know the boundaries of the patent while it is in 
+effect and benefit from its teaching after the patent expires. 
+Their meaning cannot properly turn on determinations of wit- 
+ness credibility or demeanor. 
+
+Consequently, genuine fact disputes concerning the mean- 
+ing of claim language to those skilled in the art cannot arise 
+because the patent statute does not permit ambiguity. If the 
+patent is truly ambiguous, it is simply invalid. Construction of 
+claims as a matter of law both guards against unlawful ambi- 
+guity and promotes needed certainty in the patent system. 
+
+
+ARGUMENT 
+
+
+A. The Trial Judge Properly Construed The Petitioners’ 
+Patent Claims As A Matter Of Law. 
+
+
+Petitioners try to raise a Seventh Amendment claim by 
+contending that there were fact issues underlying the construc- 
+tion of the claim language involved. They ignore the trial 
+record and the claim construction actually undertaken by the 
+
+
+trial judge and do not discuss the opinion of the Federal Cir-- 
+
+
+cuit as it relates to the record below. When Petitioners’ Sev- 
+enth Amendment arguments are viewed in the context of the 
+trial record, one sees immediately how extreme and inherently 
+flawed these arguments are. 
+
+At trial, Petitioners’ own witness testimony revealed that 
+there was no dispute about the capabilities of the accused 
+device. To avoid an inevitable legal conclusiou: to the case 
+based on the meaning of the patent claims, Petitioners focused 
+their efforts on attempting to redefine dispositive claim terms 
+in contradiction to the written record. The key words were 
+“inventory,” “attached to,” “report” and “invoice” — terms 
+
+
+19 
+
+
+easily understood by lay people and artisans alike. Rather 
+than putting forth the testimony of someone skilled in the art, 
+Petitioners relied ov a patent lawyer who testified over 
+Respondents’ objection about the legal meaning of the patent 
+claims.'? This individual had no skill or expertise in the sub- 
+jects taught in the patent. Expert instead in the lawyerly craft 
+of linguistic legerdemain, he twisted the words of the claim so 
+that they meant what Petitioners wanted them to mean. 
+
+As parsed against this record, Petitioners’ legal arguments 
+run as follows: the Seventh Amendment preserves the right to 
+jury trial; juries find facts; the interpretation of claim language 
+is completely factual whenever the parties’ lawyers argue over 
+the meaning of any claim word, no matter how simple the 
+term, and no matter how artificial the argument; the judge can 
+make no rulings of law on the meaning of claim terms once 
+such a dispute is concocted and at trial must allow all testi- 
+mony on the meaning of claim terms, even if the testimony 
+contradicts the written record, and no matter how unfamiliar 
+the witness is with the art in question; the judge must let the 
+jury consider this testimony, whatever its content, and must 
+cation and the d-awings at the jury and instruct them to “fig- 
+ure it out”; and the jury is free to disregard the written record 
+in favor of the aforementioned testimony. Obviously, the Sev- 
+enth Amendment right to a jury trial cannot support all of 
+Petitioners’ far-flung assertions. 
+
+A quick examination of the well-settled principles of 
+claim interpretation reveals the flaws in Petitioners’ argu- 
+ments. In an infringement case, the determining issue is 
+whether the patent claims, properly construed, read on the 
+
+
+12. Petitioners have done an interesting about-face in strategy. At trial, 
+their strategy was to impugn the claim interpretation abilities of the two 
+witnesses who knew anything about the pertinent art, presumably to bolster 
+the testimony submitted by their patent lawyer. Petitioners thus objected to 
+cross-examination of the inventor (who testified that he did not understand 
+the claim) about the claim language, and even attacked Respondents’ presi- 
+trumpet the testimony of these witnesses on the general meaning of the term 
+“inventory,” even though the testimony was not elicited in context of the 
+term as used in the patent documents. 
+
+
+20 
+
+
+accused device. Coupe v. Royer, 155 U.S. 565, 579 (1895). 
+While the capabilities of the accused device and the ultimate 
+issue of infringement are jury issues, claim language is a mat- 
+ter of law for the judge. /d. 
+
+The judicial process *>~ interpreting claims is well-known. 
+The first step is to look t the claim itself. Read Corp. v. 
+Portec, 970 F.2d 816, 821 (Fed. Cir. 1992). If necessary, the 
+court also should consider the full documentary record, which 
+includes the specification and prosecution history. Bausch & 
+Lomb, Inc. v. Barnes-Hind/Hydrochrome, 796 F.2d 443, 480 
+(Fed. Cir. 1986), cert. denied, 404 U.S. 823 (1987). Where the 
+documentary record is clear, the determination of terms in the 
+claim is for the court. This conclusion is compelled by a legion 
+of cases. See, e.g., Exhibit Supply Co. v. Ace Patents Corp., 315 
+U.S. 126, 134 (1942); Smith v. Snow, 294 U.S. 1, 14 (1935); 
+Singer Mfg. Co. v. Cramer, 192 U.S. 265, 275 (1904); Market St. 
+Cable Ry. Co. v. Rowley, 155 U.S. 621, 625 (1895); Coupe v. 
+Royer, 155 U.S. 565, 579 (1895); Looms v. Higgins, 105 U.S. 
+580, 596-99 (1882); Heald v. Rice, 104 U.S. 737, 749 (1882); 
+Keystone Bridge Co. v. Phoenix Iron Co., 95 U.S. 274, 276 
+(1877); Turrill v. Michigan So. & Northern Indiana R.R. Co., 
+68 U.S. 491, 509-11 (1864); Winans v. New York and Erie R.R. 
+Co., 62 U.S. (21 How.) 88, 100 (1859); Winans v. Denmead, 56 
+U.S (15 How.) 330, 339 (1854); Silsby v. Foote, 5S U.S. (14 
+How.) 218, 225-26 (1853); Hogg v. Emerson, 47 U.S. (6 How.) 
+437, 484 (1848), citing Earle v. Sawyer, 4 Mason 1 (C.C.D. 
+Mass. 1825). 
+
+Although in some circumstances expert testimony may be 
+necessary to explain terms of art to the judge, such testimony 
+cannot contradict the clear meaning of the documentary 
+
+
+13. This view is shared by the Federal Circuit and other federal courts 
+of appeal. See, ¢.g., SSIH Equip., S.A. v. United States Int'l Trade Comm'n, 
+718 F.2d 365, 376 (Fed. Cir. 1983); Devex Corp. v. General Motors Corp., 667 
+F.2d 347, 357 (3d Cir. 1981), aff'd, 461 U.S. 648 (1983); Del Francia v. 
+St-Anthony Corp., 278 F.2d 745, 747 (9h Cir. 1960); Solomon v. Renstrom, 
+150 F.2d 805, 807- 08 (8th Cir. 1945); Cold Metal Process Co. v. E.W. Bliss 
+Co., 285 F.2d 231, 239 (6th Cir. 1960), cert denied, 366 U.S. 911 (1961); 
+Automatic Pencil Sharpener Co. v. Boston Pencil Pointer Co., 279 F. 40, 
+41-44 (ist Cir. 1922), cert. denied, 260 U.S. 728 (1922); Brothers v. Lidge- 
+wood Mfg. Co., 223 F. 359, 364 (2d Cir. 1915). 
+
+
+21 
+
+
+record. Jntellicall, Inc. v. Phonometrics, Inc., 952 F.2d 1384, 
+1388 (Fed. Cir. 1992); Kohn v. Eimer, 265 F. 900, 902 (2d Cir. 
+1920) (Hand, J.). Moreover, no expert can presume to answer 
+the legal question for the judge of what the ultimate meaning 
+of the claim language is. See Nutrition 2] v. United States, 930 
+F.2d 867, 871 n.2 (Fed. Cir. 1991). The recognition that such 
+testimony is not competent evidence is long-standing. This 
+Court has noted that a judge cannot be compelled to receive 
+expert testimony on terms in a specification because “[e]xpe- 
+rience has shown that opposite opinions of persons professing 
+to be experts may be obtained to any amount... .” Winans v. 
+New York and Erie R.R. Co., 62 US. at 100-101. Similarly, 
+Judge Learned Hand observed that such testimony in contra- 
+diction to the written record “is inevitably a burdensome 
+impertinence.” Kohn, 265 F. at 902. 
+
+By these standards, the testimony of Petitioners’ patent 
+“expert” was not evidence at all but the assertion of legal con- 
+clusions. In short, he was trying to supplant the trial judge. 
+Since his legal conclusion contradicted the documentary 
+record, the trial court was obligated to disregard it, and did so. 
+173a. Moreover, the testimony by the inventor and Respon- 
+dents’ president added nothing because it was not even 
+couched in the context of the terms as used in the claims. 
+Petitioners’ witness “evidence” was the equivalent of testi- 
+mony that a color is green when the documents say the color 
+is purple. 
+
+The fact that the trial court allowed the expert legal tes- 
+timony to go to the jury did not transform claim construction 
+from a judge issue to a jury issue. The jury's contradictory 
+answers on infringement made the judge's duty to construe the 
+claims al] the more apparent. When the trial judge then per- 
+formed the requisite claim construction, he ruled that the 
+meanings of the key terms in the claim were clear from the 
+documentary record. The trial court rejected Petitioners’ 
+urged interpretation of these terms as “artificial” and “con- 
+
+14. Judge Hand observed in another case that “[a}rgument is argument 
+whether in the box or at the bar, and its proper place is the last.” Nichols v. 
+
+
+Universal Pictures Corp., 45 F.2d 119, 123 (2d Cir. 1930), cert. denied, 282 
+U.S. 902 (1931). 
+
+
+22 
+
+
+trary to their ordinary and customary meaning, as well as the 
+obvious meaning intended by the patentee.” 176a. Since no 
+the trial court granted Respondent's motion for directed ver- 
+dict. 
+
+The trial court's ruling in this case was upheld by ten of 
+
+
+eleven judges on the Federal Circuit on the basis that no fact | 
+
+
+disputes were presented at trial. The Federal Circuit's rejec- 
+tion of Petitioners’ attempt to manufacture a factual dispute is 
+unremarkable and follows the well-established precedent of 
+this Court. 
+
+
+B. The Seventh Amendment Does Not Prohibit A Judge 
+From Interpreting Patent Claims As A Matter Of Law. 
+
+
+Petitioners argue that the Seventh Amendment right to 
+jury trial is implicated in this case because neither the Federal 
+Circuit nor the trial judge applied the substantial evidence 
+standard to the jury's “construction” of the claim language. 
+This argument is premised on the mistaken assertion that 
+juries interpreted claims at common law, and that all matters 
+of fact for common law juries must be determined by juries 
+today. 
+
+Petitioners’ arguments run counter to the weight of 
+authority. The Seventh Amendment preserves the role of both 
+judge and jury at common law. It does so in jury trials by pre- 
+serving the essential nature of those roles, not their incidents 
+and procedural details. In the context of jury triable issues, the 
+
+
+15. Petitioners curiously quote from Judge Mayer's concurrence. He 
+found that this case involved only issues of interpretation of the written 
+record — the claim, the specifications and prosection history — and there- 
+fore that the trial court correctly resolved the meaning of the claim language 
+as a matter of law. 61a n.2 (no excursion needed beyond the patent docu- 
+ments). See also Judge Rader’s concurrence at 81a (“The testimony of Mark- 
+man's patent law expert is not evidence at all”) (citing Nutrition 2] v. United 
+States, 930 F.2d 867, 871 n.2 (Fed. Cir. 1991). Even Judge Newman, the lone 
+dissenter, has stated this principle in another case, see Advanced Cardiovas- 
+cular Sys. v. Scimed Sys., 887 F.2d 1070, 1076 (Fed. Cir. 1989) (Newman, J., 
+dissenting) (expert testimony cannot change the meaning of ordinary terms, 
+as understood in light of the specification, prosecution history, and prior art). 
+
+
+— ee 
+
+
+23 
+
+
+division between judge and jury has never been fixed to a rigid 
+historical analysis, other than through the general notion that 
+the Seventh Amendment preserves the roie of judge as law- 
+determiner and jury as fact-finder. The historical inquiry is so 
+limited because the line between judge and jury in jury trials 
+at common law fluctuated and was indistinct. Moreover, in this 
+country both the roles of judge and jury and the procedures 
+governing them at trial have evolved over time making any 
+policies. 
+
+Historical analysis, thus, provides limited guidance in 
+examining the particular question of whether the judge or the 
+jury interprets patent claims. Indeed, the present patent claim 
+system was not mandated until 1870. The jury's role in English 
+common law patent cases was markedly different from the 
+jury’s role in American patent cases today. Nevertheless, a 
+close reading of patent cases both at English common law and 
+in this country confirms that the court, not the jury, inter- 
+preted claim and specification language. Despite the limita- 
+tions of the historical record, it supports the Federal Circuit's 
+analysis in this case — the construction of patent claims is 
+properly given to the court. 
+
+
+1. Cases Dealing With The Distinction Between Law And 
+Equity Are Not Helpful In Distinguishing Between Issues 
+Of Law And Issues Of Fact. 
+
+The Seventh Amendment reads simply that “In suits at 
+common law, where the value in controversy shall exceed 
+twenty dollars, the right of trial by jury shall be preserved, and 
+no fact tried by a jury, shall otherwise be reexamined in any 
+Court of the United States, than according to the rules of 
+common law.” The history of the passage of the Amendment 
+indicates that it was not intended to freeze the roles of juries 
+in jury-triable cases, but rather to prevent the wholesale abo- 
+lition of juries in the new country. 
+
+The right to jury trial was well-known in English common 
+law and was practiced in all of the states at the time of the 
+Constitutional Convention. See Charles W. Wolfram, The Con- 
+stitutional History of the Seventh Amendment, 57 Minn. L. 
+
+
+24 
+
+
+Rev. 639, 653-54 (1973); Kenneth S. Klein, The Myth of How 
+to Interpret the Seventh Amendment Right to a Civil Jury Trial, 
+53 Ohio St. L. J. 1005, 1008, 1010 (1992). The Framers, as well 
+as the individual states, were intent on preserving some right 
+to civil jury trials in this country’s government. Klein, supra, at 
+1008-10; Edith G. Henderson, The Background of the Seventh 
+Amendment, 80 Harv. L. Rev. 289, 299 (1966). The commit- 
+
+
+ment grew out of the fear of the capricious power of the judge 
+of chancery that was part of the English system, as well as out 
+of anti-federalist sentiments. Wolfram, supra, at 742-43. As 
+this Court explained in Colgrove v. Battin, 413 U.S. 149, 152 
+(1973), the controversy generating the Amendment was not 
+animated by “concern for preservation of jury characteristics 
+at common law, but by fear that the civil jury itself would be 
+abolished unless protected in express words.” 
+
+There was very little attention given to discussion of this 
+proposition at the Constitutional Convention. As many com- 
+mentators have pointed out, there is scant written record indi- 
+cating any significant debate or even discussion of the right to 
+jury trial. Henderson, supra, at 291; Klein, supra, at 1008; Wol- 
+fram, supra, at 657. It is likely that the Framers felt that any 
+significant pronouncement on civil juries in the Constitution 
+would become mired in protracted disputes because the prac- 
+tice of jury trials among the states was so diverse. Klein, supra, 
+at 1014; Wolfram, supra, at 665-66."* 
+in preserving some form of right to jury trial in civil cases. The 
+First Congress responded by proposing a constitutional 
+amendment on the subject. But because of the lack of unifor- 
+mity on the nature of jury rights among the states, the job of 
+crafting meaningful amendment language was undoubtedly 
+perplexing. James Madison, the chief author of the final prod- 
+uct, apparently cobbled together an amalgam of language pro- 
+posed by various states during the ratification process. Klein, 
+
+16. One framer noted that any such general clause would have been 
+“pregnant with embarrassments.” Klein, supra, at 1014. General Washington 
+
+
+later noted that civil rights were omitted from the Constitution for fear of 
+intruding on established state practices. Jd at 1014-15 (citation omitted). 
+
+
+25 
+
+
+supra, at 1018. Again, there was astonishingly little debate in 
+the First Congress over the drafting of the amendment. /d. 
+The final result was a guarantee framed in general terms that 
+protected the jury trial right without trampling the states’ 
+practices. Jd. at 1016-20. Yet by avoiding particulars, the lan- 
+guage does little to explicate the precise scope of the right. 
+
+Aside from expressing a general desire to preserve the 
+institution of the jury, the Framers gave no particularized con- 
+sideration to the roles of judge and jury in a case where the 
+right is preserved. The Reexamination Clause reflects the 
+Framers’ general belief that appellate courts should be pre- 
+vented from abrogating the civil jury’s fact-finding role by 
+finding new facts on appeal, but the Framers also knew that 
+jury facts could be reviewed in some manner at common law. 
+See Henry Slocum, New Trials and the Seventh Amendment, 8 
+U. Ill. L. Rev. 292, 300-01 (1913). Again, however, specifics 
+were not addressed. As Edith Henderson pointed out in her 
+exhaustive review of the drafting and ratification of the Sev- 
+enth Amendment: 
+
+
+Nowhere in the history of the Philadelphia convention, 
+the ratifying conventions of the several states, or the spe- 
+cific ‘legislative history’ of the Bill of Rights can any evi- 
+dence be found that the relation of judge to jury was con- 
+sidered as affected in any but the most general possible 
+way by the seventh amendment, or even that it was con- 
+sidered at all. 
+
+
+Henderson, supra, at 290. 
+
+This historical background is important because it illumi- 
+nates the two quite distinct inquiries that can arise under the 
+Seventh Amendment. The difference between the two is of 
+particular relevance here because Petitioners have confused 
+the more common inquiry, whether the jury trial right attaches 
+to a particular cause of action, with the less common inquiry 
+involved here of whether a particular issue in a jury trial is for 
+the court or for the jury. 
+
+Twenty years after the Seventh Amendment's passage, 
+Justice Story gave the interpretation of the Seventh Amend- 
+ment that set the standard for future jurisprudence on the 
+issue. In United States v. Wonson, 28 F. Cas. 745 (C.C.D. Mass. 
+
+
+26 
+
+
+1812), the Justice found that the common law alluded to in the 
+Seventh Amendment “is not the common law of any indi- 
+vidual state (for it probably differs in all), but it is the common 
+law of England, the great reservoir of all our jurisprudence.” 
+Id. at 750. Labelling this conclusion “obvious,” Justice Story 
+gave no citations for his assertion, but the federal courts have 
+adopted his comments as the benchmark of Seventh Amend- 
+ment analysis. Wolfram, supra, at 641. As the courts have 
+interpreted Justice Story’s statement, there is an implicit 
+requirement that Seventh Amendment analysis start from the 
+vantage point of jury trial practice at common law at the date 
+of adoption of the Amendment in 1791. See, e.g., Ross v. Bern- 
+hard, 396 U.S. 531, 534 (1970); Dimick v. Schiedt, 293 U.S. 474, 
+476 (1935).?” 
+
+This framework supports two different inquiries, depend- 
+ing on the type of jucy issue involved. The most common 
+question is whether the Constitution provides a right to jury 
+trial in a particular action. This issue arises as Congress creates 
+new statutory rights and remedies that must be analyzed to 
+see whether they are analogous to remedies tried to juries at 
+the common law. Fleming James, Jr., Right To A Jury Trial in 
+Civil Actions, 72 Yale L. J. 655, 656 (1963). This inquiry usu- 
+ally turns on whether the matter in question is more analogous 
+to matters heard in law courts or to matters heard in equity 
+courts. Much of the jurisprudence from this Court on the Sev- 
+enth Amendment has focused on this inquiry. See, e.g., Gran- 
+financiera, S.A. v. Nordberg, 492 U.S. 33, 41-42 (1989); Tull v. 
+United States, 481 U.S. 412, 426 (1987); Pernell v. Southall 
+Realty, 416 U.S. 363, 370-71 (1974); Fleitman v. Welsbach St. 
+Lighting Co. of Am., 240 U.S. 27, 29 (1916). 
+
+Petitioners apply this “law/equity” distinction to this case, 
+even though the question of whether a jury trial can be 
+demanded in a particular action has no relevance here. 
+Respondents do not dispute that a jury right under the Sev- 
+enth Amendment attaches to patent infringement actions for 
+
+
+17. This conclusion has not escaped criticism. In a recent article, for 
+example, commentator Klein argues that this historical mode of analysis 
+may be less faithful to the purposes behind the Seventh Amendment than a 
+functional analysis. Klein, supra, at 1034-36. 
+
+
+27 
+
+
+damages, since there is no doubt that in 1791 litigants brought 
+these cases at common law. Here, the question before the 
+Court turns on how the Seventh Amendment affects the roles 
+of judge and jury in cases where a jury right exists. This is a 
+separate inquiry. See In re Peterson, 253 U.S. 300, 310 (1920) 
+(“No one is entitled in a civil case to trial by jury, unless and 
+except so far as there are issues of fact to be determined”). 
+
+
+2. The Case Law Concerning The Roles Of Judge And Jury 
+In A Jury Trial Teaches That The Seventh Amendment 
+Preserves The Essence Of The Jury Right, Not Matters 
+Of Form And Procedure. 
+
+The courts have less quently addressed the question of 
+how the Seventh Amendment affects the roles of judge and 
+jury in the course of a jury trial than they have the more fun- 
+damental question of whether there is any right to a jury trial. 
+In contrast to the rather fixed historical analysis of the 
+law/equity inquiry,'* the focus of this second inquiry is less 
+easily defined. Without question, the “right of jury trial in civil 
+cases at common law is .. . basic and fundamental,” Jacob v. 
+City of New York, 315 U.S. 752, 752 (1942), so that any seem- 
+ing curtailment of this right “should be scrutinized with the 
+utmost care.” Dimick v. Schiedt, 293 U.S. 474, 486 (1935). Fur- 
+thermore, the Amendment gives constitutional dimensions to 
+the well-known English common law maxim that “issues of 
+law are to be founded by the court and issues of fact are to be 
+determined by the jury under appropriate instructions by the 
+court.” Baltimore & Carolina Line v. Redman, 295 US. 654, 
+657 (1935), citing Walker v. New Mexico R.R. Co., 165 U.S. 
+593, 596 (1897). 
+
+However, it is equally clear that the Seventh Amendment 
+preserves only the basic institution of the jury trial, and not its 
+details. Time and again this Court has stated that the sub- 
+stance of the right is preserved, not matters of particular form 
+
+
+18. On which many courts have commented may “reek unduly of the 
+study,” if not, by Justice Clark's view, of the museum. See Martin H. Redish, 
+Seventh Amendment Right to Jury Trial: A Study in the Irrationality of Ratio- 
+nal Decision Making, 70 Nw. U. L. Rev. 486, 487 (1975), citing Damsky v. 
+Zavatt, 289 F.2d 46, 48, 59 (2d Cir. 1961). 
+
+
+28 
+
+
+and procedure. See, e.g., In re Peterson, 253 U.S. 300, 309 
+(1920); Walker, 165 U.S. at 596; Galloway v. United States, 319 
+U.S. 372, 392 (1943). “The procedure of the first half of the 
+seventeenth century or of the second half of the eighteenth 
+century surely was not ‘fastened upon the American jurispru- 
+dence like a strait-jacket, only to be unlocked by Constitu- 
+tional amendment.’” Austin W. Scott, Trial by Jury and the 
+Reform of Civil Procedure, 21 Harv. L. Rev. 669, 670 (1918), 
+quoting Twining v. New Jersey, 211 U.S. 78, 101 (1908) (dis- 
+cussing due process of law). 
+
+
+Thus, numerous attacks have been made against the 
+power of judges *o take cases from juries, on the basis that the 
+Seventh Amendment permits only procedures known at the 
+common law. This approach has been consistently rejected 
+since the mid-nineteenth century. See Galloway, 319 U.S. at 
+389 n.19 (1943) (collecting cases). This rejection is based on 
+two factors: in the common law system itself, the jury’s role 
+was constantly in flux; and courts routinely exercised author- 
+ity that effectively took away from the power of juries to 
+decide facts. Both points were explicated succinctly in Gallo- 
+way: 
+
+
+[T]he argument from history is not convincing. It is not 
+that ‘the rules of the common law’ in 1791 deprived trial 
+courts of power to withdraw cases from the jury, because 
+not made out, or appellate courts of power to review such 
+determinations. The jury was not absolute master of fact 
+in 1791. Then as now courts excluded evidence for irrel- 
+evancy and relevant proof for other reasons. . . . The 
+Amendment did not bind the federal courts to the exact 
+procedural incidents or details of jury trial according to 
+the common law in 1791, any more than it tied them to 
+the common-law system of pleading or the specific rules 
+of evidence then prevailing. Nor were ‘the rules of the 
+common law’ then prevalent, including those relating to 
+the procedure by which the judge regulated the jury's role 
+on questions of fact, crystallized in a fixed and immutable 
+
+
+29 
+
+
+system. On the contrary, they were constantly changing 
+and developing during the late eighteenth and early nine- 
+teenth centuries. 
+
+
+Id. at 389-391 (citations omitted). 
+
+As the Second Circuit put it in Dagnello v. Long Island 
+R.R. Co., 289 F.2d 797, 804 (2d Cir. 1961), the single purpose 
+of the Amendment is to preserve the essentials of jury trial 
+and to safeguard the jury’s function from encroachment that 
+the common law did not permit. This does not, and cannot, 
+mean that the roles of judge and jury at common law, if they 
+even can be clearly deciphered, are to be adhered to in every 
+detail for all times. There are obvious limitations to the strict 
+comparison of jury practices in pre-1791 English common law 
+with jury practice today, since “asking how 1791 England 
+would deal with a 1991 multi-district patent infringement case 
+is a little like asking how the War of the Roses would have 
+turned out if both sides had airplanes.” Klein, supra, at 1028. 
+
+For example, early in the law juries were required to have 
+personal knowledge of the incidents at issue, and parties were 
+disqualified from testifying because of self-interest. Patrick 
+Devlin, Jury Trial of Complex Cases: English Practice at the 
+Time of the Seventh Amendment, 80 Colum. L. Rev. 43, 80 
+(1980); James B. Thayer, “Law and Fact” in Jury Trials, 4 
+Harv. L. Rev. 170-74 (1890); James, supra, at 662. As that 
+practice eroded, a system of superjurors arose, in which the 
+same men in a particular parish, educated and qualified free- 
+holders all, sat on civil cases involving their particular trade or 
+profession. Devlin, supra, at 80-83. Inevitably, judge and jury 
+knew each other well, and rendering a verdict in a case was at 
+times a sort of informal group reasoning session. Jd. Legal his- 
+torians have noted that Lord Mansfield developed the law of 
+modern commercial litigation by using a group of sea mer- 
+chant jurors who informed him on how legal standards should 
+
+
+30 
+
+
+be set according to the practices of the trade. Jd. at 81-82.'° 
+The lines between law and fact, and judge and jury, were slip- 
+pery indeed. They varied from time to time, issue to issue, and 
+court to court. 
+
+At common law, English judges could take a case away 
+from a jury and decide it as a matter of law. By 1791, an 
+English judge could take cases from a jury on matters of law 
+by, variously, granting a new trial, a nonsuit or a demurrer to 
+the evidence. Henderson, supra, at 299-302. In addition, the 
+phrase “to direct a verdict” was known and often used. Jd. at 
+302. These procedures had the effect of reserving for later 
+judicial decision questions of law arising during trials, and of 
+taking verdicts subject to the ultimate resolution of the legal 
+issue. Baltimore & Carolina Line, 295 U.S. at 659; Galloway, 
+319 U.S. at 390-391. 
+
+These procedures followed by 18th century common law 
+courts are the precursors to the modern federal procedures of 
+summary judgment and judgments taken as a matter of law. 
+There has been no constitutional impediment to adoption in 
+the Federal Rules of Civil Procedure of devices that limit the 
+role of the jury in hearing evidence. The Seventis Amendment 
+
+
+does not prohibit the introduction of new methods for 
+
+determining what facts are actually in issue, nor does it 
+
+prohibit the introduction of new rules of evidence .... 
+
+New devices may be used to adapt the ancient institution 
+
+to present needs and to make of it an efficient instrument 
+
+in the administration of justice. 
+In re Peterson, 253 U.S. at 309-10; see also Baltimore & Caro- 
+lina Line, 295 U.S. at 657. 
+
+Here, the trial judge's use of the directed verdict device in 
+determining the meaning of the claims as a matter of law was 
+directly in line with the power of judges under the common 
+law. The directed verdict device is a common feature of 
+
+
+19. “In 1761, for example, [Lord Mansfield] let a jury decide what 
+would now be regarded as a pure question of law, namely, whether a ship- 
+per, whose cargo of sugar had been damaged on the voyage, could recover 
+under his insurance policy . . . the profit he would have made on an immi- 
+nent rise in the market.” Devlin, supra, at 83. See also James B. Thayer, 
+“Law and Fact” in Jury Trials, 4 Harv. L. Rev. 171, 173 €1890). 
+
+
+31 
+
+
+American jurisprudence and has been used countless times to 
+resolve cases without violating either clause of the Seventh 
+Amendment. This Court made this clear in Capital Traction 
+Co. v. Hof, 174 U.S. 1, 13-14 (1899): 
+
+
+[A]t the common law and in the American constitutions, 
+[trial by jury] . . . is a trial by a jury of 12 men in the pres- 
+ence and under the superintendence of a judge empow- 
+ered to instruct them on the law and to advise them on 
+the facts, and (except on acquittal of a criminal charge) to 
+set aside their verdict, if, in his opinion, it is against the 
+law or the evidence. 
+
+
+The Seventh Amendment preserves not only the jury’s 
+role, but also the judge’s role as the governor of the trial. Her- 
+ron v. Southern Pacific Co., 283 U.S. 91, 95 (1931) (discharge 
+of the judicial function as at common law is an essential factor 
+in the due process which the Federal Constitution provides). 
+When in the performance of that role the judge ascertains that 
+an issue cannot be subject to any material dispute, it is the 
+judge’s obligation to decide the issue as a matter of law. 
+
+
+3. To The Extent That The Historical Record Is Pertinent, It 
+Supports The Proposition That Judges, Not Juries, Con- 
+strue Claim Language. 
+
+
+Even though an inquiry into the historic practices of the 
+common law is of limited value, it nonetheless demonstrates 
+that the construction of patent claims is an issue for the judge, 
+not jury. To examine the effect of the Seventh Amendment on 
+patent infringement trials, one first must compare the system 
+of patent claiming and patent trials at the English common 
+law to the modern claiming system and modern infringement 
+trials. No historian can make a comparison of an institution 
+through time without understanding its function in the context 
+of the system in which it works, and how that system — and 
+by necessity the jury role in it — has changed. The patent 
+definition system currently practiced in the United States dif- 
+fers significantly from the systems practiced in 1791 England 
+or in the early years of this country. There is no precise corre- 
+
+
+32 
+
+
+late in the historic record to modern patent afringement 
+actions because the system of patent claiming has changed in 
+style and content. 
+
+The theoretical price extracted from the inventor for the 
+grant of the patent monopoly was (and is) that the patentee 
+teach the public the invention for use after the life of the 
+monopoly. This concept was a fundamental part of patent tri- 
+als at the early English common law. See, ¢.g., XI W. S. Hold- 
+sworth, History of English Law 427 (1938). It was paramount 
+that the inventor give the “recipe” for the patent in the speci- 
+fications. Likewise, the requirement of a claim did not appear 
+in this country until the Act of 1836, and a typical claim at that 
+time was only a catalog of certain elements without explana- 
+tion of what they meant and how they were to operate. The 
+claim often simply referred to the specifications and was sub- 
+ordinate to the fuller description in those documents. R. Ellis, 
+Patent Claims §6 (1949). The court in an infringement trial was 
+left with the task of sorting out what was a material element 
+of an invention, which not surprisingly required resort to the 
+patented device. Jd. Distinct claims were not required until 
+1870, when Congress provided by statute that the applicant 
+“shall particularly point out and distinctly claim the part, 
+improvement, or combination, which he claims as his own 
+invention.” Act of 1870, ch. 230, Sec. 26, 16 Stat. 198 (July 8, 
+1870). 
+
+Given the historic predominance of the specification, 
+patent claiming first operated on the central claiming theory, 
+in which claims were not required to be rigorously defined and 
+so named the features of the invention by reference to its 
+specification. Ex parte Fressola, 1993 Pat. App. LEXIS 3, *4 
+(Bd. Pat. App. & Interferences 1993). Under this system “the 
+merely an adjunct.” A. Deller, Patent Claims § 4 (2d ed. 1971), 
+cited in Ex parte Fressola, 1993 Pat. App. LEXIS at *4. In this 
+century, however, the patent process has evolved into a 
+peripheral claiming system, where the claim is statutorily 
+required to be set out strictly and in practice sets forth the 
+boundary of the area marked by the claim. /d.; see also John 
+A. Dienner, Claims of Patents, 18 J. Pat. Off. Soc. 389, 391-93 
+
+
+33 
+(1936) (explaining the peripheral claiming system's growth out 
+
+
+of the American culture of individualism). The modern 
+peripheral claim system is thus quite different from its prede- 
+cessor in its focus on the specificity of the claim language, 
+which must describe the “metes and bounds” of the patent 
+monopoly. 35 U.S.C. §112 now requires that the specification 
+be written in “full, clear, concise, and exact terms” and that it 
+include claims “particularly pointing out and distinctly claim- 
+ing the subject matter which the applicant regards as his 
+invention.” 
+
+Thus, cases involving claim construction under the old 
+central definition system focused on whether the patented 
+invention was the technical equivalent of the accused device. 
+As the peripheral claim system developed, the focus changed, 
+and the law of infringement came to center on whether the 
+claims, which now predominated, read on the accused device. 
+The effect of this change was to give the claims of the patent 
+a new prominence, but at the same time to give the claims a 
+more specific, abstract quality as the legal boundaries of the 
+invention, rather than a specific “recipe” for making it. 
+
+The historical record must be considered in this context. 
+Judges at English common law, just as judges today, were 
+charged with the general duty of interpreting written docu- 
+ments as a matter of law. Patrick Devlin, Jury Trial of Com- 
+plex Cases: English Practice at the Time of the Seventh Amend- 
+ment, 80 Colum. L. Rev. 43, 75-76 (1980). This is not 
+surprising. At the time of the passage of the Seventh Amend- 
+ment, English juries were often illiterate. Jd. at 75; see also 
+Stephen Weiner, The Civil Jury Trial and the Law-Fact Dis- 
+tinction, 54 Cal. L. Rev. 1867, 1932 (1966). 
+
+The Petitioners’ conclusions about English common law 
+cases are uniformly misleading. The historical record does not 
+show that juries interpreted patents in England in 1791. A 
+close reading of each of the cases cited by Petitioners demon- 
+strates that juries were performing two basic tasks: they deter- 
+mined whether specifications adequately “taught” a person 
+skilled in the art how to reconstruct the invention, and they 
+determined whether the devices at issue were the same inven- 
+
+
+{4 
+
+
+tion. The first task, the modern equivalent of an enablement 
+defense, was particularly important because of the significance 
+of the specification in the patent system. Juries determined 
+whether the patented inventions at issue could be copied by 
+skilled craftsmen, and often heard testimony from craftsmen 
+who tried to make the device from the specifications. I J. Old- 
+ham, The Mansfield Manuscripts and the Growth of English 
+Law in the Eighteenth Century 732 (1992). 
+
+Thus, in Liardet v. Johnson, (K.B. 1778), a defendant 
+asserted that a patent was invalid because its specification had 
+not adequately described how to make the invention. Lord 
+Mansfield asked the jury to determine the enablement func- 
+tion of the specifications, not the meaning of the words them- 
+selves.”° Accordingly, Petitioners’ reliance on this case for the 
+proposition that claim interpretation was a matter for the jury 
+reflects a basic misunderstanding of the case. 
+
+Similarly, at issue in Turner v. Winter, 1 T.R. 602 (K.B. 
+1787) was whether the specification was adequate to teach the 
+public how to make the invention. Jd. at 605. The jury in that 
+“recipe” of the instructions in the specification to see whether 
+the substances produced were what were detailed in the speci- 
+fication. Jd. “Therefore, if the process, as directed by the 
+
+
+20. Petitioners’ citation to the “influential 1791 authority,” Francis 
+Buller, erroneously implies that Buller stated that juries must determine the 
+meanings of specifications. Pet. Br. 25. The authority cited, Trials Nisi Prius, 
+says nothing about juries. Buller summarized the Liardet case by stating, 
+“The general questions on patents are, ist, whether the invention were 
+known and in use before the patent. 2d, whether the specification is suffi- 
+cient to enable others to make it up. The meaning of the specification is, that 
+others may be taught to do the thing for which the patent is granted... .” 
+F. Buller, An Introduction to the Law Relative to Trials at Nisi Prius ch. VT 
+(6th ed. 1791). It is furthermore clear that Lord Mansfield believed that 
+judges, and not juries, determine the meaning of written documents. In 
+Macbeath v. Haldimand, | T.R. 172, 99 Eng. Rep. 1036 (K.B. 1786) he and 
+Justice Buller agreed with a lower court's order that directed a verdict for 
+the defendant, because “there was no evidence which was proper for [the 
+jury's] consideration for the evidence consisting altogether of written docu- 
+ments and letters which were not denied, the import of them was matter of 
+law and not of fact.” 1 T. R. at 180, 99 Eng. Rep. at 1040. 
+
+
+35 
+
+
+to do, the patent itself is void.” Jd. The jury was not given the 
+words of the specification and told to decipher their meaning. 
+
+Petitioners’ reliance on Neilson v. Harford, 8 M. & W. 806 
+(Exch. Pleas 1841) is curious, since it directly supports the 
+Federal Circuit's opinion. The judge in Neilson made it clear 
+that he construed the specification language at trial, since 
+specifications, like all written documents, are to be construed 
+as a matter of law. Jd. at 822. As in Liardet and Turner, the 
+jury's role was limited to ascertaining whether the instructions 
+in the specification could produce the claimed invention and 
+arose from a defendant's claim that the patent specification 
+was insufficiently specific. Jd. The jury's duty at trial was to 
+ascertain whether a competent workman could follow the 
+instructions in the patent. Jd. at 824. Likewise, two other cases 
+cited by Petitioners, Arkwright v. Nightingale, Davies Pat. Cas. 
+38 (Common Pleas 1785) and Hornblower v. Boulton, 8 T. R. 
+95 (K. B. 1799), are also enablement cases. Arkwright, Davies 
+Pat. Cas. at 50-53 (five witnesses testified that they could make 
+the machine from specifications); Hornblower, 8 T.R. at 99 
+(whether patentee gave adequate directions in specification 
+was question for the jury). 
+
+At other times, the jury was called upon to compare the 
+patented device with the accused device, to see if the patented 
+device were “new.” This is the inquiry undertaken by the 
+juries in Bovill v. Moore, Davies Pat. Cas. 320 (Common Pleas 
+1816) and Huddart v. Grinshaw, Davies Pat. Cas. 200 (K.B. 
+1803). The juries did not “interpret” the involved specifica- 
+tions but rather looked at the inventions to determine if they 
+had b. n disclosed by prior art. 
+
+
+21. Petitioners’ summary of Collins v. Sawrey, 4 Bro. PC. 692 (HLL. 
+1772) is also misstated. In Collins the question was whether the claims at 
+issue sought equitable rights and remedies or legal ones. It was held that the 
+case involved legal issues and so should not be heard by the Court of Exche- 
+quer, but rather at law — ie., by a “single judge, by a jury at an assize....” 
+Id. at 699. Petitioners’ omission of the phrase “before a single judge” and 
+connection of the phrase “written evidence” to “by a jury” make it seem as 
+if the question of whether the jury, as opposed to the judge, should construe 
+written evidence. This was not at issue in the case. Likewise, in Mayor of 
+Kingston Upon Hull v. Horner, 1 Cowp. 102 (K.B. 1774), the holding was 
+not, as Petitioners tell it, that the interpretation of a charter is a question of 
+
+
+36 
+
+
+Later sources confirm that English — oo 
+construed patent language as a question of law, even 
+extrinsic evidence was required to understand the claim. As 1 
+Thomas Brett, Commentaries on the Present Laws of England, 
+(1890) puts it, “The construction of a specification is the prov- 
+ince of the Court, but evidence will be heard in explanation of 
+technical terms used in the arts, or phrases used in particular 
+trades. The rules of construction applicable to specifications 
+are those applied to the interpretation of written instruments.” 
+Id. at 289. See also Brooks v. Steele, 14 R.P.C. 73 (1896) where 
+the Court said, 
+
+
+The judge may, and indeed generally must, be assisted by 
+et r described "ach cnt 
+working of machinery or drawn, 
+to point out what is old and what is new in the specifica- 
+tion . . . . But after all, the nature of the invention for 
+which a patent is granted must be ascertained from the 
+specification, and has to be determined by the judge and 
+not by a jury, nor by any expert or other witness. This is 
+familiar law, although apparently often disregarded when 
+witnesses are being examined. 
+
+
+Id.; see also Harrison v. Anderson Foundry Co., 1 App. Cas. 
+581 (1874) (interpretation of specifications is for the court). 
+
+
+C. The Consideration Of Extrinsic Evidence Does Not 
+Change An Issue Of Law To An Issue Of Fact. 
+
+
+1. This Court Has Consistently Held That Claim Con- 
+struction Is A Matter Of Law Even Where Extrinsic 
+Evidence Is Used As An Aid To Construction. 
+
+
+NOTES (Continued) 
+
+
+fact for the jury. The holding was that the jury properly determined upon 
+strongest possible evidence that a port was an ancient port because it had 
+been enjoyed for 350 years. The meaning of a term in the charter was not at 
+issue; the length of use of the port was. Jd. at 108. In any event, even if the 
+Petitioners’ interpretation of these cases were correct, they would prove too 
+much: construction of deeds and charters is now a clear matter of law for the 
+court. See, ¢.g., Driggins v. Okla. City, 954 F.2d 1511, 1513 (10th Cir. 1991), 
+cert. denied, 113 S. Ct. 129 (1992). 
+
+
+37 
+
+
+This Court has held repeatedly that claim construction is 
+a matter of law. In infringement cases, this means that the 
+judge defines the patent and the jury decides whether the 
+accused device is covered by the patent claim. In one early 
+decision, Winans v. Denmead, 56 U.S (15 How.) 330 (1854), 
+the Court explained it this way: 
+On . . . trial for [infringement] two questions arise. The 
+first is, what is the thing patented; the second, has the 
+thing been constructed, used, or sold by the defendants. 
+The first is a question of law, to be determined by the 
+court, construing the letters-patent, and the description of 
+the invention and specification of claim annexed to them. 
+The second is a question of fact, to be submitted to the 
+jury. 
+Id. at 338. Likewise, in Coupe v. Royer, 155 U.S. 565 (1895), 
+this Court said: 
+The doctrine of the cases is aptly expressed by Robinson 
+in his work on Patents, vol. 3, page 378, as follows: 
+“Where the defence denies that the invention used by the 
+defendant is identical with that included in the plaintiff's 
+patent, the court defines the patented invention as indi- 
+cated by the language of the claims; the jury judge 
+whether the invention so defined covers the art or article 
+employed by the defendant.” 
+
+
+Id. at 579. In practice, then, the judge construes the words of 
+the patent claim, while the jury makes fact-findings about the 
+capabilities of the accused device. Thus, the Winans court con- 
+strued the letters patent by determining structure, mode of 
+operation, and the result obtained from a patent. Winans, 56 
+U.S. at 338. In Silsby v. Foote, 55 U.S. (14 How.) 218 (1853), 
+construction of the combination patent claim was reserved to 
+the court, while the jury was assigned the role of determining 
+what parts of the machine were necessary to effect a particu- 
+lar result. Jd. at 225-26. In Coupe v. Royer, 155 U.S. 565 
+(1895), the court's job was to give proper instructions to the 
+jury on the scope of the patent, and the jury had to decide the 
+question of infringement. /d. at 579. 
+
+
+38 
+
+
+This Court has repeatedly noted that it is the judge's duty 
+to examine the written record in determining claim construc- 
+tion as a legal matter. The trial court’s and the Federal Cir- 
+cuit’s decisions in this case, that the claim language, specifica- 
+tion and prosecution history show clearly that “inventory” 
+includes “articles of clothing,” stand squarely in line with this 
+Court's precedent. Every case cited by Petitioners as contra- 
+dictory to the Federal Circuit's decision is actually firmly in 
+support of this basic principle. See Singer Mfg. Co. v. Cramer, 
+192 U.S. 265, 275 (1904) (face of the instruments allows the 
+judge, by comparing their terms, to determine the inventions 
+described in the patents); Market St. Cable Ry. Co. v. Rowley, 
+155 U.S. 621, 625 (1895) (in an anticipation case, issue of 
+whether prior patents were for the same invention as the 
+patent at issue was matter of law; court could decide the issue 
+by comparing the patents); Heald v. Rice, 104 U.S. 737, 749 
+(1882) (Court interpreted the issue of whether a reissue patent 
+was for the same invention as the original patent and found it 
+a matter of law for the court where no extrinsic evidence was 
+necessary); Keystone Bridge Co. v. Phoenix Iron Co, 95 US. 
+274, 276 (1877) (Court held that the claim language clearly did 
+not cover the defendant's invention, so no verdict of infringe- 
+ment). 
+
+Not surprisingly, Petitioners fail to recognize the consis- 
+tency of the Federal Circuit's holding with precedent and cen- 
+ter their contentions on the question of extrinsic evidence. In 
+doing so, they move well beyond the record in this case. Here 
+again, however, Petitioners’ citation to Supreme Court case 
+law is misleading. Although this Court has never directly con- 
+sidered the question, there is ample support in the precedent 
+for the conclusion that the use of extrinsic evidence does not 
+change the character of claim construction as one of a pure 
+legal issue for the judge. 
+
+Rather than supporting a Seventh Amendment right to 
+jury trial when extrinsic evidence is necessary to explain terms 
+of art in a patent, this Court's decisions have indicated that it 
+is the role of the court to avail itself of such information if 
+necessary as an aid to performing its legal duty of construing 
+the claim. In Looms v. Higgins, 105 U.S. 580 (1882), the Court 
+
+
+39 
+
+
+availed itself on appeal of the testimony supplied by weaving 
+industry experts in construing the meaning of a looming 
+patent in an infringement case. Jd. at 586. Similarly, the Court 
+relied on the testimony of experts at trial in Winans v. Den- 
+mead, 56 U.S. (15 How.) 330 (1854) to understand the mode 
+of operation of the patent in suit. Id. at 341. And in Hogg v. 
+Emerson, 47 U.S. (6 How.) 437 (1848) the Court found the 
+specification to be clear by its terms, citing Earle v. Sawyer, 4 
+Mason 1 (C.C.D. Mass. 1825), where the Court ruled on the 
+clearness of the description of the specification, with such 
+explanatory testimony as the experts and machinists furnished. 
+Id. at 484-85. 
+Winans v. New York and Erie R.R. Co., 62 U.S. (21 How.) 
+88 (1859) is particularly instructive. There, the patent at issue 
+was for an improvement in the construction of railroad cars. 
+The patentee sued for infringement, and the defendant raised 
+an invalidity defense based on numerous claims of prior art. 
+This Court held, 
+There was in fact but one question to be decided by the 
+court, viz: the construction of the patent; the question of 
+novelty being the fact to be passed on by the jury. The 
+testimony of experts which was rejected had no relevancy 
+to the facts on which the jury were to pass, but seemed 
+rather to be intended to instruct the court on some 
+mechanical facts or principles on which the court needed 
+no instruction, or to teach them what was the true con- 
+struction of the patent. Experts may be examined to 
+explain terms of art, and the state of the art, at any given 
+time. They may expiain to the court and jury the 
+machines, models, or drawings, exhibited . . . . [P]rofes- 
+sors or mechanics cannot be received to prove to the 
+court or jury what is the proper or legal construction of 
+any instrument of writing. A judge may obtain informa- 
+tion from them, if he desire it, on matters which he does 
+not clearly comprehend, but cannot be compelled to 
+receive their opinions as matter of evidence... . If the 
+construction given by the court to the specification be 
+correct, and in fact the only construction of which it is 
+capable, as we think it is, it would be wholly superfluous 
+
+
+40 
+
+
+to examine experts to teach the court, what they could 
+clearly perceive without such information ... . 
+Id. at 100-01. 
+
+Petitioners try in vain to find cases that conflict with this 
+Court's precedent that claim construction is a matter of law. 
+First, the cases cited by Petitioners refer to the use of extrin- 
+sic evidence in dictum only. In every case on which Petitioners 
+rely, the Court determined the patent meaning on the record 
+before it. See Singer Mfg. Co., 192 U.S. at 275; Market St. 
+Cable Ry. Co., 155 U.S. at 625; Heald, 104 U.S. at 737. More- 
+over, the allusion to the use of extrinsic evidence in these cases 
+is not germane to the current system of claiming. Rather, the 
+consideration of “extrinsic evidence” involved a determination 
+of what the invention did — much as the jury today in an 
+infringement case determines the capabilities of the accused 
+device. In Singer, for example, the Court made a determina- 
+tion of whether a claim defined solely by its specification was 
+the technical equivalent of the accused device. 192 U.S. at 275. 
+In Market St. Cable Ry. Co. and Bischoff, the question was 
+whether the prior patent disclosed the same invention as the 
+current patent. 155 U.S. at 625; 76 U.S. at 816. In Heald, the 
+question was whether the reissue patent was for the same 
+invention as the previous patent. 104 U.S. at 737. And in 
+Tucker v. Spalding, 80 U.S. 453 (1871), the question was 
+whether an identity existed between the accused device and 
+the patented device. Jd. at 454. 
+
+
+The argument that the decision below is in conflict with 
+this Court’s precedent is thus misconceived. Supreme Court 
+authority holds that claim construction is a matter of law for 
+the court, regardless of whether extrinsic evidence is necessary 
+to inform the court of the meaning of the claim language. 
+
+
+22. See also Albert Walker, Textbook of the Patent Law of the United 
+States of America (3d ed. 1895), where the influential American patent 
+expert states that judges are free to avail themselves or reject expert testi- 
+mony on the meaning of particular phrases on the way to construing patents 
+as matters of law. Jd. at 173-74. 
+
+
+41 
+
+
+2. The Use Of Extrinsic Evidence In The Interpretation Of 
+Documents Other Than Patents Does Not Transform 
+The Issue From One Of Law To One Of Fact. 
+
+
+In other areas, the consideration of extrinsic evidence 
+does not change an issue of law into an issue of fact for the 
+jury. United States v. Weitzenhoff, 1 F.3d 1523, 1531-32 (9th Cir. 
+1993) (fact that judge allowed jury to hear expert testimony 
+about meaning of EPA permit did not change construction of 
+permit from question of law to question of fact). Courts rou- 
+tinely consider extrinsic evidence, including testimony, as an 
+aid in other cases where they are called upon to interpret the 
+meaning of documents as a matter of law. In this fashion, 
+courts construe statutes, foreign laws, consent orders and trea- 
+ties. See Order of Ry. Conductors v. Swan, 329 U.S. 520, 525 
+(1947) (documentary evidence and testimony considered as an 
+aid to construing a statute); Overseas Dev. Disc Corp. v. San- 
+gamo Constr. Co., 840 F.2d 1319, 1324-26 (7th Cir. 1988) 
+(expert testimony considered in determining foreign law); cf. 
+United States v. Reader’s Digest Ass’n, 662 F.2d 955, 961 (3d 
+Cir. 1981), cert. denied, 455 U.S. 908 (1982) (underlying admin- 
+istration complaint examined as an aid in construction of con- 
+sent order); Choctaw Nation of Indians v. United States, 318 
+U.S. 423, 431-432 (1943) (when construing a treaty, courts may 
+consider extrinsic evidence concerning the history of the 
+treaty, the negotiations, and the practical construction adopted 
+by the parties). 
+
+Judges also routinely make rulings on “facts” in ways that 
+prevent matters from going to a jury, without running afoul of 
+the constraints of the Seventh Amendment. Judges make evi- 
+dentiary rulings in determining relevance, competence of wit- 
+nesses, probity, and prejudice, and they even review trial pro- 
+ceedings in ruling on questions of issue preclusion. These are 
+ali matters of law for the judge, although they may have fac- 
+tual underpinnings, and though the judge’s ruling may pro- 
+foundly affect the scope of the jury’s factfinding authority. 
+
+There has been much discussion about the best analogy to 
+patent interpretation. This decision is not critical to the issue 
+berore the Court. Ultimately, the quest for a analogy cannot 
+provide an answer to the question before the Court, and there 
+
+
+42 
+
+
+is no precise analog to claim interpretation. But a closer look 
+at how trial judges deal with other written instruments is help- 
+ful to understanding the judge’s role in construing claim lan- 
+guage. 
+
+The interpretation of a statute is similar to the interpreta- 
+tion of a patent claim. A patent and a statute both are delin- 
+eations of public rights and/or obligations. They are each 
+applicable to all persons similarly situated. The construction of 
+a patent or statute establishes a standard that will then impact 
+on people who were not involved in the drafting of the docu- 
+ment. Although the construction of a statute begins with its 
+words, where necessary, the court can consider extrinsic evi- 
+dence or testimony, like legislative history or committee 
+reports. See Order of Ry. Conductors v. Swan, 329 U.S. 520, 
+525 (1947). The consideration of such evidence does not 
+change statutory construction from a legal question to a fac- 
+tual question. See, e.g., Dakota Nat’l Bank & Trust Co. v. First 
+Nat’l Bank Trust Co., 554 F.2d 345 (8th Cir. 1977), cert. denied, 
+434 U.S. 877 (1977). This is equally true of claim construction. 
+
+Petitioners argue that claim construction is analogous to 
+contract interpretation, presumably because juries are some- 
+times called upon to consider parol evidence where it is nec- 
+essary to determine the meaning of ambiguous words in the 
+contract. This argument is of limited aid because there are sig- 
+nificant differences between patents and contracts. Unlike 
+statutes and patents, contracts normally have little or no 
+impact on the public. There is no statutory requirement that a 
+contract be clear and unambiguous and contracting parties are 
+free to write contracts in a language that only they can under- 
+stand. Since subjective intent is important in a contract inter- 
+pretation, in an appropriate case, both sides to the contract 
+can testify about the meaning of a contract as a factual matter. 
+In a patent case, there is no subjective intent to determine. 
+
+However, in many cases, the meaning of contract lan- 
+guage is interpreted as a matter of law without the need for 
+extrinsic evidence. Moreover, even where contract language is 
+disputed, a court can and should accept expert testimony to 
+help it to determine whether or not a particular term is 
+
+
+43 
+
+
+ambiguous. See, e.g., Mellon Bank, N.A. v. Aetna Business 
+Credit, 619 F.2d 1001, 1011 (3d Cir. 1980). This does not 
+
+
+change the character of the determination of whether ambigu- 
+ity exists from law to fact. 
+
+
+D. The Federal Circuit's Decision Advances Patent Law 
+Policies. 
+
+
+1. The Construction Of Patent Claims As A Matter Of 
+Law Promotes Specific And Clear Claims And Con- 
+sistent Interpretation. 
+Contrary to Petitioners’ suggestions, the jury retains its 
+key role in patent cases. While patent validity is ultimately a 
+matter of law, juries decide underlying fact issues involving 
+obviousness, anticipation, and prior use or sale. Graham v. 
+John Deere Co., 383 U.S. 1, 17 (1966); Atlas Powder Co. v. E. 
+I. DuPont de Nemours & Co., 750 F.2d 1569, 1573 (Fed. Cir. 
+1984); U.S. Envtl. Prods., Inc. v. Westall, 911 F.2d 713, 715 
+(Fed. Cir. 1990). In infringement trials, juries decide as fact 
+issues the capabilities of the accused device, file wrapper 
+estoppel, the doctrine of equivalents claim and, of course, the 
+issue of damages. See, e.g., Hilton Davis Chem. Co. v. Warner- 
+Jenkinson Co., 62 F.3d 1512, 1524 (Fed. Cir. 1995). In fulfilling 
+these tasks, the jury is called upon to perform its traditional 
+function of finding facts. 
+
+At the same time, the Federal Circuit's reaffirmation that 
+claim construction is a matter of law serves important policy 
+goals. Congress created the Federal Circuit for the express 
+purpose of promoting uniformity, predictability, and fairness in 
+patent law. H.R. No. 97-312, 97th Cong., 1st Sess. at 9 (1981). 
+The aims are achieved in the policies underlying the Federal 
+Circuit’s decision in this case. The Federal Circuit has reached 
+a compelling conclusion: patents are fully integrated written 
+instruments that should be interpreted uniformly as a matter 
+of law. As the Federal Circuit noted, the exclusive grant of 
+right to the patentee makes it only fair that competitors “be 
+able to ascertain to a reasonable degree the scope of the pat- 
+entee’s right to exclude.” 28a, citing Merrill v. Yeomans, 94 
+U.S. 568, 573-74 (1877). The only way a patent claim can 
+
+
+45 
+
+
+receive universal treatment is for it to be construed as a mat- 
+ter of law. If not, the same patent language could be subject to 
+different interpretations by different juries in different 
+infringement actions. There would be no uniformity, and defi- 
+nitely no certainty.2? Most claims can be readily interpreted 
+upon a judge's review of the documentary record.™ After all, 
+the patentee is statutorily required to set forth both the claim 
+and specification with clarity and specificity. 35 U.S.C. §112. A 
+litigation-induced parade of experts cannot change the mean- 
+ing of the claim or the nature of the inquiry. Even a claim term 
+that raises some complexity for the judge, who is not skilled in 
+the art, does not change the issue from law to fact. The judge 
+may need assistance from experts skilled in the art to under- 
+stand what the term means, but if the patentee has complied 
+with Section 112, there should be no dispute in the relevant 
+community. 
+
+
+23. Petitioners argue that determination of patent claims as a matter of 
+law promotes uncertainty until the appellate process is complete. Yet the 
+supposed uncertainty created by the appellate process in this situation is no 
+different from that involved in the interpretation of the words of any statute 
+or regulation. The general uniformity fostered by interpreting these docu- 
+ments as matters of law is greater than any temporary uncertainty created 
+by the appellate process. The temporary uncertainty created by the appel- 
+late process is far less than the permanent uncertainty created by allowing 
+different juries to find different meaning in the same patent. 
+
+24. Petitioners cite to two district court opinions expressing concerns 
+over the timing of a judge's claim construction. In one of these cases, Lucas 
+Aerospace, Lid. v. Unison Indus., L.P., 890 F. Supp. 329, 332 n.3 (D. Del. 
+1995), the Federal Circuit opinion in this case was issued days after the court 
+had allowed claim construction to go to the jury in an eleven-day trial. 
+Despite the opinions of these two judges, an overwhelming majority of dis- 
+trict court judges have applied with no difficulties the directives of the Fed- 
+eral Circuit in this case, even upon consideration of extrinsic evidence. See, 
+e.g., Rolite, Inc. v. Wheelabrator Technologies, Inc., 1995 U.S. Dist. LEXIS 
+16453 at *4 (E.D. Pa. 1995) (construing claims on motion for partial sum- 
+mary judgment); Edward Lowe Indus., Inc. v. Oil-DRI Corp. of Am., 1995 
+U.S. Dist. LEXIS 15790 at *5 (N.D. Ill. 1995) (same); American Perma- 
+hedge, Inc. v. Barcana, Inc., 1995 U.S. Dist. LEXIS 15838 at *10-11 
+(S.D.N.Y. 1995) (same); Century Wrecker Corp. v. E.R. Buske Mfg. Co., Inc., 
+898 F. Supp. 1334, 1343-46 (N.D. Iowa 1995) (on motion in limine, ruling 
+that court must instruct jury on interpretation to be given claim language). 
+
+
+45 
+
+
+Nor does the truly ambiguous patent term present a fact 
+question. If two persons skilled in the art reasonably could 
+interpret the same claim language differently, there is no need 
+for further inquiry, because the patent has failed to satisfy its 
+statutory obligation. Under Section 112, the patentee is 
+required to distinctly and precisely state his or her claim, and 
+if the patentee fails, the patent is invalid. This Court has 
+emphasized the importance of and reasons for clarity and 
+specificity in claim language: 
+
+Patents . . . must comply accurately and precisely with the 
+
+statutory requirement as to claims of invention or discov- 
+
+ery. The limits of a patent must be known for the protec- 
+tion of the patentee, the encouragement of the inventive 
+genius of others, and the assurance that the subject of the 
+patent will be dedicated ultimately to the public. The stat- 
+ute seeks to guard against unreasonable advantages to the 
+patentee and disadvantages to others arising from uncer- 
+tainty as to their rights. | 
+
+General Elec. Co. v. Wabash Appliance Corp., 304 U.S. 364, 
+
+369 (1938) (citations omitted). 
+
+This then is not just a theoretical issue. Patents are nor- 
+mally drafted by lawyers, not artisans. Often the lawyer's goal 
+is to draft the patent claims with some ambiguity to allow the 
+patentee to expand or constrict the patent as subsequent 
+events dictate.2> This has led to the anomalous situation that 
+occurred in this case, where only the drafting lawyers, and not 
+those skilled in the art to whom the patents are directed, can 
+understand the claim language. Putting teeth into the require- 
+ments of Section 112 so that patents are drafted to teach 
+rather than to spawn litigation, will undoubtedly result in 
+
+
+more precise patent claiming, and fewer patent infringement 
+cases. 
+
+
+25. See, e.g., Arthur H. Seidel, et al, What the General Practitioner 
+
+Should Know About Patent Law and Practice 65 (Sth ed. 1993): 
+The greatest possible effort should be exerted to avoid adopting a posi- 
+tion in which the applicant may later be placed in a corner. It is much 
+better technique, when possible, not to pinpoint the essence of patent- 
+ability to a particular feature and, instead, to attempt to leave a certain 
+amount of ambiguity or room to maneuver should very pertinent prior 
+art be subsequently unearthed. 
+
+
+46 
+
+
+2. Adoption Of Petitioners’ Argument Would Result In Seri- 
+ous Limitations On Procedures And The Evolution Of 
+Law. 
+
+
+The line between “fact” and “law” is often nebulous, and 
+judges undoubtedly have different thresholds for determining 
+what is a genuine dispute of fact.% This Court has said that 
+
+“no rule or principle [exists] that will en om yore a 
+factual finding from a legal conclusion . 
+dard v. Swint, 456 U.S. 273, 288 (1982). aces ie ateoten 
+is difficult to make, it may turn on a policy analysis of who, in 
+the administration of justice, is in a better position to decide 
+the question. Miller v. Fenton, 474 U.S. 104, 113-14 (1985). 
+
+The Seventh Amendment does not require that the char- 
+acterization of what is law and what is fact remain forever fro- 
+zen, even if it were possible to distinguish law from fact in 
+every case. Such a rigid outlook would prevent numerous 
+developments in the law, such as this Court's refinement in 
+Daubert v. Merrill Dow/Pharmaceuticals, 113 §. Ct. 2786 
+(1993), of the judge’s role as the gatekeeper of expert testi- 
+mony. It would also unduly constrain efforts to modernize the 
+Federal Rules of Civil Procedure. For example, in 1966 Rule 
+44.1 of the Federal Rules of Civil Procedure was adopted. The 
+Rule requires that determinations of foreign law be made as 
+matters of law. A judge determining foreign law issues is free 
+to look at any relevant source, including expert testimony. 
+Overseas Dev. Disc Corp. v. Sangamo Constr. Co., 840 F.2d 
+1319, 1324 (7th Cir. 1988), citing United States v. Peterson, 812 
+F.2d 486, 490 (9th Cir. 1987). Although now clearly questions 
+of law, historically, issues of foreign law were at times viewed 
+as factual. See, e.g., Liverpool & G.W. Steam Co. v. Phoenix 
+Ins. Co., 129 U.S. 397, 442 (1889). The ruling Petitioners 
+request in this case would place the constitutionality of this 
+Rule in doubt. 
+
+
+26. For example, this Court has noted that Rule 52(a) provides no par- 
+ticular guidance on distinguishing law from fact, just as it has recognized the 
+sometimes critical importance of drawing the line between these two con- 
+cepts. Bose Corp. v. Consumers Union of United States, Inc., 466 U.S. 485, 
+501 (1984). 
+
+
+47 
+
+
+Any holding under the Seventh Amendment that patent 
+construction is for the jury may put potentially serious limits 
+on Congressional powers. Doubts would arise whether Con- 
+gress could adopt other procedural devices that designate mat- 
+ters for the court. Such a holding also could handicap Con- 
+gress'’s power to further reform patent law, for example by 
+further refining the 35 U.S.C. § 112 requirements for patent 
+drafting. Such a result would indeed “strait-jacket” the con- 
+stantly evolving nature of federal procedure and jurispru- 
+dence. 
+
+If the jury must interpret every patent claim regardless of 
+whether a dispute about claim language is reasonable, then a 
+true sea change will be effected in patent law. The number of 
+infringement cases decided by juries will surge, since it is 
+child's play to create a dispute about the meaning of words. 
+Cases in which imaginative but unreasonable interpretations 
+previously would have been rejected as a matter of law will 
+have to be decided by the jury. Trial judges will rarely be able 
+to grant summary judgment on infringement issues because 
+both prongs of the infringement analysis will turn on matters 
+of fact. The time-honored balance between law and fact in 
+patent infringement cases will be skewed. Trials will be 
+lengthier and more complicated because each side will have to 
+hire one or more experts to testify about the meaning of the 
+claims. Cases like this one, in which the presentation of all of 
+the evidence took less than two days, will disappear like the 
+dinosaur. 
+
+
+48 
+
+
+CONCLUSION 
+Despite the consideration by Petitioners given to the Sev- 
+enth Amendment, the Court need not reach the constitutional 
+
+
+For the foregoing reasons, Respondents respectfully 
+request that this Court affirm the judgment of the United 
+States Court of Appeals for the Federal Circuit affirming the 
+trial court's grant of Respondents’ motion for a directed ver- 
+
+
+B 
+
+
+Two Penn Center Plaza 
+
+
+APPENDIX 
+
+
+la 
+
+
+35 U.S.C. §112 
+
+
+The specification shall contain a written description of the 
+invention, and of the manner and process of making and using 
+it, in such full, clear, concise, and exact terms as to enable any 
+person skilled in the art to which it pertains, or with which it 
+is most nearly connected, to make and use the same, and shall 
+set forth the best mode contemplated by the inventor of car- 
+rying out his invention. 
+
+The specification shall conclude with one or more claims 
+particularly pointing out and distinctly claiming the subject 
+matter which the applicant regards as his invention. 
+
+A claim may be written in independent or, if the nature 
+of the case admits, in dependent or multiple dependent form. 
+
+Subject to the following paragraph, a claim in dependent 
+form shall contain a reference to a claim previously set forth 
+and then specify a further limitation of the subject matter 
+claimed. A claim in dependent form shall be construed to 
+incorporate by reference all the limitations of the claim to 
+which it refers. 
+
+A claim in multiple dependent form shall contain a refer- 
+ence, in the alternative only, to more than one claim previ- 
+ously set forth and then specify a further limitation of the sub- 
+ject matter claimed. A multiple dependent claim shall not 
+serve as a basis for any other multiple dependent claim. A 
+multiple dependent claim shall be construed to incorporate by 
+reference all the limitations of the particular claim in relation 
+to which it is being considered. 
+
+An element in a claim for a combination may be 
+expressed as a means or step for performing a specified func- 
+tion without the recital of structure, material, or acts in sup- 
+port thereof, and such claim shall be construed to cover the 
+corresponding structure, material, or acts described in the 
+specification and equivalents thereof. 
+
+

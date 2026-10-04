@@ -1,0 +1,24 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 1040,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:&quot;95-210&quot; OR text:&quot;95-210&quot; OR text__reviews:&quot;95-210&quot;) OR (text:&quot;Holly Farms&quot; OR text:&quot;Holly Farms&quot; OR text__reviews:&quot;Holly Farms&quot;))",
+      "qin": "collection:us-supreme-court AND (&quot;95-210&quot; OR &quot;Holly Farms&quot;)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 50,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 1,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40385013_0639",
+        "title": "Holly Farms Corp. v. NLRB, 517 U.S. 392 (1996) (No. 95-210)"
+      }
+    ]
+  }
+}

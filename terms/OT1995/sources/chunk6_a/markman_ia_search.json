@@ -1,0 +1,32 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 633,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:&quot;95-26&quot; OR text:&quot;95-26&quot; OR text__reviews:&quot;95-26&quot;) OR (text:Markman OR text:Markman OR text__reviews:Markman))",
+      "qin": "collection:us-supreme-court AND (&quot;95-26&quot; OR &quot;Markman&quot;)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 50,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 3,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40385017_1255",
+        "title": "United States Surgical Corp. v. Ethicon, Inc., 517 U.S. 1164 (1996) (No. 94-2081)"
+      },
+      {
+        "identifier": "micro_IA40385014_0159",
+        "title": "Monterey v. Del Monte Dunes at Monterey, Ltd., 526 U.S. 687 (1999) (No. 97-1235)"
+      },
+      {
+        "identifier": "micro_IA40385013_0631",
+        "title": "Herbert Markman and Positek, Inc. v. Westview Instruments, Inc. And Althon Enterprises, Inc, 517 U.S. 370 (1996) (No. 95-26)"
+      }
+    ]
+  }
+}

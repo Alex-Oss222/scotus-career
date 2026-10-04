@@ -1,0 +1,2210 @@
+HOLLY FARMS CORPORATION, ET AL., PETITIONERS 
+
+
+v. 
+
+
+NATIONAL LABOR RELATIONS BOARD, ET AL. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+BRIEF FOR THE 
+NATIONAL LABOR RELATIONS BOARD 
+
+
+Drew S. Days, IT 
+Solicitor General 
+
+
+LAWRENCE G. WALLACE 
+Deputy Solicitor General 
+
+
+RICHARD H. SEAMON 
+Assistant to the Solicitor 
+General 
+Department of Justice 
+Washington, D.C. 20530 
+(202) 514-2217 
+
+
+wT. 
+
+
+QUESTION PRESENTED 
+
+
+Petitioners’ “live haul’ crews—which consist of 
+chicken catchers, forklift operators, and live haul 
+drivers—collect broiler chickens that have been raised 
+by independent contract growers and transport them 
+
+
+sented is whether the National Labor Relations 
+Board reasonably concluded that those workers are 
+not “agricultural laborer[s]” excluded from the cov- 
+erage of the National Labor Relations Act. 
+
+
+(1) 
+
+
+The Board reasonably determined that petitioners’ 
+chicken catchers, forklift operators, and live haul 
+drivers are “employee[s),” rather than “agricultural 
+laborer[s),” under Section 2(3) of the National 
+Labor Relations Act ......0..........ccccccccces cccccceeseeeceeneeeee 
+
+
+Il. The Board reasonably concluded that petitioners’ 
+live haul crews do not engage in secondary 
+EEE eae 
+A. The Board’s conclusion is consistent with the 
+
+text of Section 3(f) of the FLSA, as con- 
+strued by this Court ...0...........ccccccecccceccceeeemeee 
+B. The Board’s conclusion is consistent with the 
+—- history of Section 3(f) of the 
+se 
+Department of Labor’s regulations interpret- 
+ing Section 3(f) of the FLSA .......................... 
+
+III. Petitioners’ “primary farming” argument should 
+
+not be considered because it was not raised 
+
+below; in any event, it conflicts with the text of 
+the statute and the Department of Labor’s inter- 
+pretive regulations | 
+
+IV. The Board’s determination that petitioners’ live 
+
+haul employees are not “agricultural laborer[s)” 
+
+is entitled to deferemee o.oo... ccccccccccccceeneeeeeeens 
+
+
+asd 
+
+
+$1 
+
+
+la 
+
+
+IV 
+
+
+TABLE OF AUTHORITIES 
+Cases: 
+
+
+Page 
+
+A.H. Phillipe, Inc. ¥. Walling, 324 US. 490 
+
+(1945) 36 
+36 
+33 
+
+
+Arnold Vv. Ben Kanowsky, Ine., 361 US. 888 
+RE Se EE 
+Astoria Fed. Savings & Loan Ass'n V. anes 
+501 U.S. 104 (1991) ............................. o- 
+Bayside Enterprises, Inc. v. NLRB: 
+429 U.S. 298 (1977) ................... passim 
+29 
+2h 
+34 
+
+
+216 N.L.R.B. 502 (1975) . 
+Camaco Produce Co., 297 N.L.R.B. 906 (1990)... 
+Domsea Farms, Inc., 211 N.L.R.B. 882 (1974)... 
+Draper Valley Farme, Inc., 307 N.L.R.B. 1440 
+
+
+EE SS 2 ad 19, 33 
+Farmers Reservoir & Irrigation Co. v. McComb, 
+
+337 U.S. 755 (1949) 2... ..13, 15, 23, 24, 35 
+Imco Poultry, 202 N.L.R.B. 259 (1978) ................. 5, 16 
+Imperial Garden Growers, 91 N.LR.B. 1034 
+
+Re ae 26 
+Johnston V. Cotton Producers Ass'n, 244 F.2d 5538 
+
+(Gth Cir. 1967) ............................... 30 
+Maneja V. Weialna Agricultural Co. 249 US. 254 
+
+(1955) ............ .. 18,19 
+Mitchell v. Budd, 350 U.S. 473 (1956) _. - 17 
+NLRB Vv. Curtin Matheson Scientific, Inc., 494 U.S. 
+
+775 (1990) 35 
+
+
+NLRB v. Gisrel Packing Co., 395 U.S. 575 (1969). 6-7 
+NLRB vy. Hendricks County Rural Electric Mem- 
+
+
+bership Corp., 454 U.S. 170 (1921) .... 35 
+NLRB v. Samuel B. Gass, 3T7 F.2d 438 (ist Cir. 
+
+ENT eee ee eee 29 
+NLRB V. Town & Country Electric, Inc., 116 S. Ct. 
+
+450 (1995) .... 12, 35 
+NLRB v. Transportation Management Corp., 462 
+
+U.S. 393 (1983) oouunene 35 
+
+
+Skidmore v. Swift & Co., 323 U.S. 134 (1944) _.. 25 
+Sure-Tan, Inc. v. NLRB, 467 U.S. 883 (1984) ....11, 82, 34 
+Taylor v. Freeland & Kronz, 503 U.S. 638 (1992). 32 
+Woelke &2 Romero Framing, Inc. v. NLRB, 456 
+
+U.S. 645 (1982) 11, 32 
+
+
+v 
+
+
+Statutes, regulations and rule: Page 
+Ach of Sept. 90, 1904, Pub. La He. 108-8338, Tit. IV, 
+108 Stat. 2670 ................ sti 
+
+Fair Labor Standards Act, 29 U.S.C. 201 aon: 
+§ 3(f), 29 U.S.C. 208(f) ..-......-..—.---------------= + passim 
+§ 18(a) (6), 29 U.S.C. 213 (a) (6) -.. —— 35 
+
+National Labor Relations Act, 29 U.S.C. ‘151 et 
+
+seq.: 
+
+§ 2(3), 29 U.S.C. 152(3) ................... 5, 8, 11, 12, 82, 34 
+§ 8(a) (1), 29 U.S.C. 158(a) (1) —..............-...-.-. 6 
+§ 8(a) (3), 29 U.S.C. 158 (a) (3) —..............-..... - 6 
+§ 10(e), 29 U.S.C. 160(e) -................-....---.- — = 
+
+29 C.F.R.: 
+| $5 
+Section TBO.VOD ........-....<---cccce-ceceeeececeennnnnnnnennnenennen 34 
+a 33 
+Section TBO.11B8 (a) ...........<-c-c-c--ec--c-eeceeeeenenennees 34 
+Section 780.118 (b) .........-.--.--------<---cceeeeeeceeeeeennee 34 
+Section 780.125 (1) _.......---.----.--n--neeeevenemnemeees 21,33 
+Section 780.126 ........................-.........19, 21, 25, 26, 30 
+Section 780.129 ..................--.<...-.-- 26 
+TTL NTT EE 27 
+Section 780.136 .............--.-.--c--eee0m- - 23 
+ee 27 
+oe 27 
+TTT ANAT 23 
+TTT TTT 29 
+| ae 29 
+
+NN $1 
+
+Miscellaneous: 
+81 Cong. Rec. 7653 (1937) ..................... 23, 24 
+
+
+Iu the Supreme Court of the Anited States 
+OCTOBER TERM, 1995 
+
+
+No. 95-210 
+HOLLY FARMS CORPORATION, ET AL., PETITIONERS 
+v. 
+NATIONAL LABOR RELATIONS BOARD, ET AL. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+BRIEF FOR THE 
+NATIONAL LABOR RELATIONS BOARD 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (Pet. App. Al- 
+A78) is reported at 48 F.3d 1360. The decision and 
+order of the National Labor Relations Board (Pet. 
+App. A79-A205) and the decision of the administra- 
+tive law judge (Pet. App. A206-A935) are reported 
+at 311 N.L.R.B. 273. The Board’s decisions in the 
+representation proceeding (J.A. 17a-23a, 33a-45a) 
+
+
+are unreported. 
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered 
+on March 10, 1995. A petition for rehearing was 
+denied on May 9, 1995. Pet. App. A936-A938. The 
+
+
+(1) 
+
+
+oe 
+petition for a writ of certiorari was filed on August 
+4, 1995, and was granted on November 6, 1995, lim- 
+ited to the fifth question presented by the petition. 
+
+
+Joint Appendix (J.A.) 46a. The jurisdiction of this 
+Court rests on 28 U.S.C. 1254(1). 
+
+
+STATEMENT 
+
+
+1. Prior to July 1989, petitioner Holly Farms 
+Corporation was engaged in the production, process- 
+ing, and transportation of poultry. Pet. App. A5. 
+On July 18, 1989, petitioner Tyson Foods, Inc. 
+(Tyson), acquired 100% of the stock of Holly Farms, 
+making it a wholly owned subsidiary of Tyson. /d. 
+at A4, All, A61, A715.' The issue before this Court 
+concerns employees at Holly Farms’ facility in 
+Wilkesboro, North Carolina, id. at A230-232, which 
+is a “vertically integrated poultry operation.” /d. at 
+A39. Operations at the Wilkesboro facility involve 
+two kinds of chickens: “pullets,” which are used for 
+breeding; and broiler chickens, which are destined 
+for human consumption. J.A. 5a, 7a, 12a, 15a. 
+Although the employees at issue here are involved 
+only with broiler chickens, some understanding of 
+the processes involving each type of chicken is 
+necessary. 
+
+Holly Farms purchases about 80% of its baby 
+pullets from breeder companies and hatches the other 
+
+
+1In a ruling that was upheld by the court of appeals and 
+is no longer at issue, the National Labor Relations Board 
+found that petitioner Tyson became a successor to petitioner 
+Holly Farms as of July 18, 1989. Pet. App. Al8-A27, A110- 
+A114. For convenience, hereafter we sometimes refer to 
+petitioners collectively as “Holly Farms,” even when discuss- 
+ing ongoing events that both precede and follow the date of 
+successorship. 
+
+
+When the pullets are 20 weeks old, they are taken 
+from the growers’ farms to “laying houses” also 
+owned by independent farmers. J.A. 9a. work- 
+
+
+At Holly Farms’ hatchery, the eggs are hatched 
+
+
+and the new chicks are vaccinated and have their 
+
+
+beaks trimmed. J.A. 1la-12a. 
+
+
+‘f 
+
+
+boys.” J.A. 12a-13a. The independent growers raise 
+the broiler chicks to 49 days of age. J.A. 13a.* It is 
+
+
+2 The contract between Holly Farms and the independent 
+growers provided in relevant part (App., infra, 2a-Sa): 
+B. THE GROWER AGREES: 
+
+
+the Producer to raise the birds to marketable weight. 
+2. To utilize his best skill, judgment, and knowledge in 
+caring for and rearing the birds. 
+
+
+4. To be present during the catching or removal of the 
+broilers and to raise and move, prior to the arrival of 
+
+
+4 
+
+
+at that point that the employees at issue here, the 
+“live haul” crew, enter the picture. J.A. 28a, 32a. 
+
+Holly Farms’ live haul crews are made up of about 
+150 workers. J.A. 32a. Each crew consists of one 
+live haul driver, one forklift operator, and several 
+chicken catchers. J.A. 4a-7a, 13a, 28a, 36a. The live 
+haul driver transports the crew on a flat-bed truck 
+to the independent growers’ farms. There, the 
+chicken catchers manually capture the broiler chicks 
+and place them in steel cages; the forklift operator 
+lifts the cages onto the truck; and the driver returns 
+with the loaded cages and the crew to the processing 
+plant. Pet. App. A41, A230 n.54, A831; J.A. 13a- 
+14a. At the processing plant, the driver drives the 
+truck onto scales and then proceeds to an unloading 
+dock, where other employees unload the cages. Pet. 
+App. A820 n.285, A831 & n.291. In the course of a 
+shift, each live haul crew typically makes several 
+trips between the processing facility and the inde- 
+pendent growers’ farms. See id. at A831-A832. 
+
+2. On February 16, 1989, Chauffeurs, Teamsters 
+and Helpers Local Union No. 391, a/w International 
+Brotherhood of Teamsters, AFL-CIO (the Union) 
+filed a representation petition with the National 
+Labor Relations Board (Board), seeking an election 
+in a unit consisting of Holly Farms’ hatchery em- 
+ployees; the Wilkesboro live haul employees; and the 
+service center mechanics, feed haul employees, and 
+feed mill employees at a Holly Farms facility in 
+
+
+live haul, the equipment to insure proper care of the 
+equipment and facilities. 
+Although this contract was not formally moved into evidence 
+in the Board proceeding, it was the subject of testimony before 
+the Board and was marked as an exhibit. 
+
+
+5 
+
+
+Roaring River, North Carolina. J.A. 19a, 22a-23a, 
+37a-38a; Pet. App. A211-A212, A233.* Holly Farms 
+urged the Board’s Regional Director to dismiss the 
+Union’s petition on the ground that all of the em- 
+ployees in the proposed unit were “agricultural 
+laborer[s]” excluded from the definition of “em- 
+ployee” under Section 2(3) of the National Labor 
+Relations Act (NLRA or Act), 29 U.S.C. 152(3). 
+J.A. 19a. 
+
+The Regional Director concluded that the Wilkes- 
+boro live haul employees are not “agricultural labor- 
+er[s].” J.A. 22a. He explained that “the Board has 
+consistently held that when an employer contracts 
+with farmers for the care and feeding of the em- 
+ployer’s chicks, the employer’s status as a farmer 
+engaged in the raising of poultry ends with respect 
+to those chicks.” Jbid. (citing Imco Poultry, 202 
+N.L.R.B. 259 (1973)). He dismissed the Union’s 
+petition, however, concluding for other reasons that 
+the Union had not proposed an appropriate bargain- 
+ing unit. J.A. 23a. 
+
+On review of the Regional Director’s decision, the 
+Board found that the Wilkesboro live haul employees 
+and the employees working at the Roaring River 
+facility constituted an appropriate bargaining unit, 
+and the Board directed an election in that unit. J.A. 
+44a; Pet. App. A211-A212, A233-A235.* 
+
+
+* The Roaring River facility included a feed mill operation, 
+at which feed mill employees produced feed that was delivered 
+by feed haul drivers to the farms of independent growers 
+where pullets, broilers, and hens weve raised. J.A. 4a, 6a-Ta. 
+
+
+* The Board also held that Holly Farms’ hatchery employees, 
+including the egg haulers and pullet haulers, are agricultural 
+laborers. J.A. 2la-22a, 48a. 
+
+
+6 
+
+
+3. On July 27, 1989, the Board conducted an elec- 
+tion in the unit that it had determined in the repre- 
+sentation proceeding was appropriate. The election 
+resulted in a 95 to 95 tie, with one determinative 
+challenged ballot. Pet. App. A235, A818-A819. The 
+Union filed election objections and unfair labor prac- 
+tice charges against petitioners. Jd. at A208-A209 
+n.48, A213-A215. The Board’s General Counsel is- 
+sued complaints against petitioners, which were later 
+consolidated with the Union’s election objections and 
+the ballot challenge. Jd. at A208 n.48. 
+
+After a hearing, an administrative law judge 
+(ALJ) sustained the challenge to the determinative 
+ballot cast in the July 27, 1989, election; the election 
+thus ended in a tie. Pet. App. A818-A819, A856- 
+A857. The ALJ found that petitioners had com- 
+mitted “many serious violations” of the NLRA that 
+precluded the holding of a fair rerun election. /d. 
+at A816.° In-addition, he found that the Union had 
+achieved majority status in the unit, which it had 
+demonstrated by signed authorization cards. See id. 
+at A789. Based on those findings, the ALJ ordered 
+petitioners to recognize and bargain with the Union 
+as the representative of the Wilkesboro live haul and 
+Roaring River employees, pursuant to NLRB vy. 
+
+
+5’ The ALJ found that petitioners’ officials at the Wilkesboro 
+facility had violated Section 8(a) (1) of the NLRA, 29 U.S.C. 
+158(a) (1), by, among other things, threatening employees 
+with arrest for distributing union literature on company prop- 
+erty in non-work areas during non-work time, repeatedly 
+interrogating employees regarding their union sympathies, 
+and threatening employees with retaliation for wearing union 
+insignia; and had violated Section 8(a) (3), 29 U.S.C. 
+158 (a) (3), by, among other things, discriminatorily granting 
+a pay increase before the election. Pet. App. A795-A796, 
+A876, A878, A880, A883. 
+
+
+7 
+
+
+Gissel Packing Co., 395 U.S. 575 (1969). Pet. App. 
+A794, A919. Relying on the Board’s determination 
+in the representation proceeding, the ALJ rejected 
+petitioners’ renewed contention that the Wilkesboro 
+live haul employees are “agricultural laborer[s]” ex- 
+oy from the NLRA’s coverage. Jd. at A786- 
+
+787. 
+
+The Board upheld the ALJ’s unfair labor practice 
+findings and his entry of a Gissel bargaining order. 
+Pet. App. A134-A163, A182-A183. In rejecting peti- 
+tioners’ challenge to the Gissel order, the Board (with 
+one member dissenting) relied on its prior determina- 
+tion in the representation proceeding that the Wilkes- 
+boro live haul employees are not “agricultural labor- 
+er[s].” Jd. at A83 n.8. 
+
+4. The court of appeals (with one judge dissent- 
+ing in part) enforced the Board’s order. Pet. App. 
+Al-A53. As relevant here, the court upheld the 
+Board’s determination that the Wilkesboro live haul 
+— are not “agricultural laborer[s].” Jd. at 
+
+Relying on Bayside Enterprises, Inc. v. NLRB, 
+429 U.S. 298 (1977), the court of appeals explained 
+that, under the NLRA, “agriculture is defined in 
+both a primary and a secondary sense”: “[t]he 
+primary meaning encompasses farming in all its 
+branches, including the raising of - poultry,” while 
+“the secondary meaning includes any practices, 
+whether or not themselves farming practices, which 
+are performed either by a farmer or on a farm, 
+incidental [ ] to or in conjunction with primary farm- 
+ing operations.” Pet. App. A44-A45 (internal quota- 
+tion marks omitted). The court remarked that peti- 
+tioners conceded that the Wilkesboro live haul em- 
+ployees do not engage in “primary” farming activi- 
+
+
+8 
+
+
+ties. Jd. at A46. The court sustained the Board’s 
+determination that they also do not engage in “sec- 
+ondary” farming activities. Jd. at A52. The court 
+reasoned that the live haul employees’ activities occur 
+after “the Company has turned the broiler chicks 
+over to independent contract growers and the Com- 
+pany’s status as a farmer engaged in raising poultry 
+(a primary agricultural activity) has ended.” /d. at 
+A48. The court held that those activities thus are 
+not incidental to any primary farming operations on 
+the part of petitioners. Jd. at A48-A49. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+I. The National Labor Relations Act (NLRA or 
+Act) defines the term “employee” to exclude “agri- 
+cultural laborer[s].” 29 U.S.C. 152(3). To be an 
+“agricultural laborer’ for purposes of the Act, a 
+worker must engage in “[a]griculture,” as that term 
+is defined in Section 3(f) of the Fair Labor Stan- 
+dards Act (FLSA), 29 U.S.C. 203(f). See, e.g., 
+Bayside Enterprises, Inc. v. NLRB, 429 U.S. 298, 
+300 n.6 (1977). As this Court has explained, Section 
+3(f) of the FLSA defines “[a]griculture” to mean 
+farming in a “primary” and a “secondary” sense. 
+See, e.g., Bayside, 429 U.S. at 300. 
+
+Petitioners did not argue before the National 
+Labor Relations Board (Board) or the court of ap- 
+peals that their “live haul” crews engage in primary 
+farming. See Pet. App. 46a. Thus, the only question 
+that this Court should address is whether the Board 
+reasonably concluded that the live haul crews also do 
+not engage in secondary farming. 
+
+II. The Board reasonably concluded that petition- 
+ers’ live haul crews do not engage in secondary 
+farming. 
+
+
+9 
+
+
+A. The text of Section 3(f) indicates that second- 
+ary farming must meet three requirements: (1) it 
+must be performed either “on a farm” or “by a 
+farmer”; (2) it must be performed “as an incident 
+to or in conjunction with” primary farming opera- 
+tions; and (3) those primary farming activities must 
+be ones that are performed either by the same farmer 
+who undertakes the putative secondary farming ac- 
+tivity or on the same farm where the putative second- 
+ary activities occur. 29 U.S.C. 203(f). 
+
+Petitioners’ live haul drivers do not meet the first 
+requirement. They do not work “on a farm”; they 
+merely drive to and from the farm. Moreover, nei- 
+ther their work nor that of the other members of the 
+live haul crews (the chicken catchers and forklift 
+operators) is performed “by a farmer.” Under the 
+Board’s Imce Poultry rule, which this Court upheld 
+in Bayside Enterprises, Inc. v. NLRB, 429 U.S. 298, 
+302 n.9 (1977), Holly Farms ceases to act as a 
+farmer when it turns the broiler chicks over to 
+the independent growers. It does not resume its fore- 
+gone “farmer” status when, 49 days later, it dis- 
+patches the live haul crews to the independent grow- 
+ers’ farms to collect the mature chickens. At that 
+point, Holly Farms is engaged in chicken-processing, 
+which is not primary farming. 
+
+Even if we assume arguendo that the live haul 
+crews meet the first requirement, they nonetheless 
+do not engage in secondary farming because they do 
+not meet the second and third requirements. If their 
+work is deemed to be performed “by a farmer” (i.c., 
+Holly Farms), their work must be incidental to some 
+primary farming activity by Holly Farms. That con- 
+dition is not satisfied. Moreover, if it is recognized 
+(as is the case) that the chicken catchers and fork- 
+
+
+10 
+
+
+lift operators work “on a farm,” their work may 
+qualify as secondary farming only if it is incidental 
+to the independent grower’s poultry-raising opera- 
+tions. The Board reasonably concluded that the work 
+of the chicken catchers and forklift operators is not 
+incidental to those operations, because the live haul 
+crews’ work begins only after the independent grow- 
+ers’ work ends. The live haul crews play no role in 
+the growers’ discharge of their contractual responsi- 
+bilities, and the growers take no part in the work 
+of the live haul crews. 
+
+Petitioners argue that the chicken catchers and 
+forklift operators engage in secondary farming be- 
+cause they are involved in the “preparation for mar- 
+ket” of the chickens; and that the live haul drivers 
+are involved in the “delivery to market” of the 
+chickens. Those arguments ignore that, under Sec- 
+tion 3(f), the practices of preparing a product and 
+transporting it to market constitute secondary farm- 
+ing only if they are performed “by a farmer or on 
+a farm as an incident to or in conjunction with” the 
+primary farming operations of that farmer or on 
+that farm. 29 U.S.C. 203(f). 
+
+B. Although petitioners rely on the legislative his- 
+tory of the phrase “or on a farm” in Section 3(f), 
+it sheds no light on the question presented here. 
+
+C. The Department of Labor’s regulations inter- 
+preting Section 3(f) of the FLSA support the Board’s 
+conclusion in this case. Those regulations make clear 
+that the proper analysis focuses on whether the work 
+of petitioners’ live haul crew is performed “as an 
+incident to or in conjunction with” the primary 
+farming operations of the independent growers. The 
+regulations also make clear that it is more accurate 
+to characterize the live haul crews’ work as incidental 
+
+
+11 
+
+
+to Holly Farms’ chicken-processing operation (which 
+is not primary farming) than to the growers’ farm- 
+ing operations. 
+
+III. Petitioners seek to argue for the first time in 
+their opening brief on the merits that the chicken 
+catchers and forklift operators are engaged in pri- 
+mary agriculture. Petitioners’ failure to advance 
+that argument before the Board precludes its con- 
+sideration in judicial proceedings to review the 
+Board’s decision. See 29 U.S.C. 160(e); Woelke & 
+Romero Framing, Inc. v. NLRB, 456 U.S. 645, 665- 
+666 (1982). In any event, petitioners’ primary farm- 
+ing argument is without merit. Petitioners argue 
+that the work of the chicken catchers and the fork- 
+lift operators is analogous to the “harvesting” (29 
+U.S.C. 203(f)) of a crop. The statutory definition 
+of “[{a]griculture,” by its terms, precludes the anal- 
+ogy. The statute sets forth “the raising of * * * 
+poultry” and other animals in a separate clause from 
+the one that includes the term “harvesting.” /bid. 
+That structure indicates that the term “harvesting’”’ 
+refers to the process of collecting crops of plants, not 
+animals. 
+
+IV. The Board’s conclusion that the workers on 
+petitioners’ live haul crews are “employee[s],” rather 
+than “agricultural laborer[s],” under Section 2(3) 
+of the NLRA is entitled to “considerable deference.” 
+Sure-Tan, Inc. v. NLRB, 467 U.S. 883, 891 (1984); 
+see Bayside, 429 U.S. at 302. 
+
+
+12 
+ARGUMENT 
+
+
+THE BOARD REASONABLY DETERMINED THAT 
+PETITIONERS’ CHICKEN CATCHERS, FORKLIFT 
+OPERATORS, AND LIVE HAUL DRIVERS ARE “EM- 
+PLOYEE([S),” RATHER THAN “AGRICULTURAL 
+LABORER[S],”" UNDER SECTION 2(3) OF THE 
+NATIONAL LABOR RELATIONS ACT 
+The rights afforded to workers by the National 
+Labor Relations Act (NLRA or Act) extend only to 
+a worker who falls within the Act’s definition of an 
+“employee.” See NLRB v. Town & Country Electric, 
+Ine., 116 S. Ct. 450, 453 (1995). Section 2(3) of the 
+Act provides that “[t]he term ‘employee’ * * * shall 
+not include any individual employed as an agricul- 
+tural laborer.” 29 U.S.C. 152(3). The question be- 
+fore this Court is whether the Board reasonably 
+concluded that the workers in petitioners’ “live haul” 
+crews are “employee[s],” rather than “agricultural 
+laborer[s],” under Section 2(3) of the Act and are 
+therefore within the Act’s coverage. 
+
+
+I. TO BE AN “AGRICULTURAL LABORER,” A 
+WORKER MUST ENGAGE IN EITHER “PRIMARY” 
+OR “SECONDARY” FARMING 
+The NLRA itself does not define the term “agri- 
+cultural laborer” for purposes of Section 2(3) of 
+the Act. As this Court has observed, however, “[a]n- 
+nually since 1946, Congress, in riders to the Appro- 
+priations Acts for the [National Labor Relations] 
+Board, has tied the definition of ‘agricultural laborer’ 
+in $2(3) of the NLRA to § 3(f) of the [Fair Labor 
+Standards Act (FLSA)].” Bayside Enterprises, Inc. 
+v. NLRB, 429 U.S. 298, 300 n.6 (1977); see Pub. L. 
+No. 103-333, Tit. ITV, 108 Stat. 2570 (1994) (un- 
+numbered section) (Board’s current appropriations 
+Act). 
+
+
+13 
+
+
+Section 3(f) of the FLSA ties the definition of 
+“agricultural laborer” to that of “[a]griculture,” 
+which is defined as follows (29 U.S.C. 203(f)): 
+
+
+“Agriculture” includes farming in all its 
+branches and among other things includes the 
+cultivation and tillage of the soil, dairying, the 
+production, cultivation, growing, and harvesting 
+of any agricultural or horticultural commodities 
+(including commodities defined as agricultural! 
+commodities in section 1141j(g) of title 12), the 
+raising of livestock, bees, fur-bearing animals, or 
+poultry, and any practices (including any for- 
+estry or lumbering operations) performed by a 
+farmer or on a farm as an incident to or in con- 
+junction with such farming operations, including 
+preparation ‘or market, delivery to storage or to 
+market or to carriers for transportation to 
+market. 
+
+
+As this Court has explained, the definition of “[a]g- 
+riculture” in Section 3(f) of the FLSA “includes 
+farming in both a primary and a secondary sense.” 
+Bayside, 429 U.S. at 300; accord Farmers Reservoir 
+& Irrigation Co. v. McComb, 337 U.S. 755, 762-763 
+(1949). Farming in its primary sense is defined in 
+the first part of Section 3(f), as including “the culti- 
+vation and tillage of the soil, dairying, the production, 
+cultivation, growing, and harvesting of any agricul- 
+tural or horticultural commodities * * * [and] 
+the raising of livestock, bees, fur-bearing animals, 
+or poultry.” 29 U.S.C. 203(f). “[S]econdary farm- 
+ing” (Bayside, 429 U.S. at 301) is defined in the 
+second part of Section 3(f), as including “any prac- 
+tices * * * performed by a farmer or on a farm 
+as an incident to or in conjunction with such farming 
+operations, including preparation for market, deliv- 
+
+
+14 
+
+
+ery to storage or to market or to carriers for trans- 
+portation to market.” Thus, “(t]he raising of poultry 
+is primary farming, but hauling products to or from 
+a farm is not primary farming. Such hauling may, 
+however, be secondary farming if it ‘s work per- 
+formed ‘by a farmer or on a farm as an incident 
+to or in conjunction with such farming opera- 
+tions.’ Bayside, 429 U.S. at 301. 
+
+Petitioners did not argue before the Board or 
+the court of appeals that the live haul crews engage 
+in primary farming. Pet. App. A46. The only ques- 
+tion properly before this Court therefore is whether 
+the Board reasonably concluded that the live haul 
+crews also do not engage in secondary farming. 
+We show in Point II, infra, that the Board’s conclu- 
+sion is reasonable. We show in Point III, infra, that 
+petitioners’ “primary farming” argument, if consid- 
+ered, should be rejected. 
+
+
+Il. THE BOARD REASONABLY CONCLUDED THAT 
+PETITIONERS’ LIVE HAUL CREWS DO NOT 
+ENGAGE IN SECONDARY FARMING 
+
+
+A. The Board’s Conclusion Is Consistent With the 
+Text of Section 3(f) of the FLSA, as Construed by 
+This Court 
+
+
+1. To constitute secondary farming under Section 
+3(f) of the FLSA, an activity must meet three con- 
+ditions. First, the activity must be performed either 
+“by a farmer” or “on a farm.” 29 U.S.C. 203(f). 
+Second, the activity must be performed “as an inci- 
+dent to or in conjunction with” primary farming 
+activities. /bid. Third, those primary farming activ- 
+ities must be ones that are performed either by the 
+same farmer who undertakes the putative secondary 
+
+
+15 
+
+
+farming activity or on the same farm where the 
+putative secondary activities occur. See ibid. 
+
+As this Court has explained, the third requirement 
+is imposed by the use of the word “such” in Section 
+3(f)’s definition of “[a]griculture.” Farmers Reser- 
+voir, 337 U.S. at 766 n.15. Secondary farming by a 
+farmer or on a farm must be incidental to “such” 
+primary farming activities as are undertaken by that 
+farmer or on that farm, respectively. See ibid. 
+For example, if a farmer processed not only com- 
+modities produced on his or her own farm but also 
+commodities produced by other farmers, the process- 
+ing of the other farmers’ commodities would not con- 
+stitute secondary farming. /bid. 
+
+2. Petitioners do not contend that the live haul 
+drivers work “on a farm,” nor could they do so; the 
+live haul drivers merely drive to and from the farms 
+of the independent growers.’ Petitioners do contend 
+(Pet. Br. 33; see also Amicus Br. of American Farm 
+Bureau et al. (AFB Br.) 11-12) that the live haul 
+drivers’ work, as well as that of the chicken catchers 
+and the forklift operators, is done “by a farmer.” In 
+
+
+support of that contention, petitioners argue that 
+
+
+Holly Farms acts as a farmer when it dispatches 
+the live haul crews to the farms of the independent 
+growers. Pet. Br. 31. That argument cannot be 
+squared with this Court’s decision in Bayside. 
+
+
+* In contrast to petitioners, amicus National Broiler Council! 
+(NBC) does assert (NBC Br. 9) that the live hau! drivers 
+“assist the chicken catchers” on the growers’ farms. The rec- 
+ord contains testimony by one live haul driver indicating that 
+he assisted in chicken catching on occasion, but not as part of 
+his regular job duties. That evidence does not support the 
+broad conclusion that the live haul drivers work “on a farm.” 
+Cf. Pet. App. A58 (Niemeyer, J., dissenting). 
+
+
+16 
+
+
+Bayside was an integrated poultry operation that 
+bred and hatched chicks on its own farms but con- 
+tracted with independent growers to raise the chicks 
+to maturity for slaughtering at Bayside’s processing 
+plant. Bayside, 429 U.S. at 299, 301-302. The ques- 
+tion befor: -he Court was whether the work of the 
+truck drivers employed by Bayside who hauled 
+poultry feed from Bayside’s feed mill to the farms 
+of the independent contract growers constituted work 
+done “by a farmer” for purposes of Section 3(f) of 
+the FLSA. Bayside, 429 U.S. at 301-304. 
+
+The Court upheld the Board’s determination that 
+the drivers’ work was not performed “by a farmer.” 
+Bayside, 429 U.S. at 302-304. The Court held that 
+the Board had reasonably “rejected the argument that 
+all of the activity on a contract farm should be re- 
+garded as agricultural activity of an integrated 
+farmer such as Bayside.” /d. at 302. In doing so, 
+the Court specifically sustained the Board’s /mco 
+Poultry rule, 202 N.L.R.B. 259, 260 (1973), which 
+provides that, “when an employer contracts with in- 
+dependent growers for the care and feeding of the 
+employer’s chicks, the employer’s status as a farmer 
+engaged in raising poultry ends with respect to those 
+chicks.” Bayside, 429 U.S. at 302 & n.9. 
+
+In a straightforward application of the /mco 
+Poultry rule here, the Board likewise concluded that 
+Holly Farms’ status as a farmer ends when its broiler 
+chicks are delivered to the farms of the independent 
+growers. The work of the live haul crew with respect 
+to those chicks does not begin unti' after the growers 
+have raised the chicks to maturity. At that point, 
+Holly Farms has ceased to act as a farmer. Thus, 
+none of the work of the live haul crews (including 
+
+
+= 
+
+
+17 
+
+
+that of the chicken catchers and forklift operators) 
+is done “by a farmer.” 
+
+Petitioners argue (Pet. Br. 32) that Bayside “does 
+not control” this case because petitioners’ live haul 
+crews “actually perform the agricultural tasks of 
+catching, caging, loading and delivering to market.” 
+That argument falls short of the mark, however. 
+Practices such as catching chickens and delivering 
+them to market may constitute secondary farming 
+if performed “by a farmer.” But if such work is not 
+performed “by a farmer” (or “on a farm”), it can- 
+not constitute secondary farming.” 
+
+3. Whether or not this Court accepts our sub- 
+mission that the work of the live haul crews is not 
+done “by a farmer,” their work does not meet the 
+second and third requirements for secondary farming. 
+
+a. If the Court agrees with our submission that 
+the work of the live haul crews is not done “by a 
+farmer,” it is unnecessary to analyze the work of 
+one component of the crew, the live haul drivers, 
+because it is undisputed by the parties (see p. 15 
+and note 6, supra) that the live haul drivers also do 
+1.0t work “on a farm.” The Board’s conclusion that 
+
+
+* Contrary to AFB’s contention (AFB Br. 10-11), Mitchell 
+Vv. Budd, 350 U.S. 473 (1956), does not require a contrary 
+conclusion. See also NBC Br. 10. The Court in Mitchell held 
+that, when a farmer grew tobacco on its own farm and 
+processed that tobacco (and only that tobacco) in its off-farm 
+bulking plant, “the agriculture operation * * * end[ed] * * * 
+with the delivery of the tobacco at the receiving platform 
+of the bulking plant.” 350 U.S. at 481. The present case 
+poses the analytically prior question of whether Holly Farms 
+is properly regarded as a farmer at all when the mature 
+chickens are collected, cooped, and delivered from growers’ 
+farms to petitioners’ processing plant. 
+
+
+18 
+
+
+those drivers are not agricultural laborers would 
+therefore have to be upheld. 
+
+We do not dispute that the chicken catchers and 
+forklift operators work “on a farm” (29 U.S.C. 
+203(f)): the farms of the independent growers. It 
+is also undisputed that the independent growers’ op- 
+erations constitute primary farming: “the raising of 
+* * * poultry” (29 U.S.C. 203(f)). However, for 
+the work of the chicken catchers and forklift oper- 
+ators to constitute secondary farming by virtue of 
+its performance on a farm, it must meet the second 
+and third requirements: namely, it must be per- 
+formed “as an incident to or in conjunction with” 
+the operations of the independent growers. 29 U.S.C. 
+203 (f) ; see pp. 14-15, supra. 
+
+The Board reasonably concluded that the work of 
+the live haul crew is not incidental to the independent 
+growers’ operations. The growers conduct their oper- 
+ations under contracts that require them to raise peti- 
+tioners’ chicks until they are 49 days old. At that 
+point, the chicks are mature and ready for process- 
+ing, and the growers’ operations end. It is only at 
+that point, however, that the live haul crew’s work 
+begins. The live haul crew thus plays no role in the 
+growers’ discharge of their contractual duties. Nor 
+do the independent growers exercise any control over 
+the live haul crew (who at all times remain peti- 
+tioners’ employees) or otherwise take any part in its 
+work.* 
+
+
+* Petitioners err in asserting (Pet. Br. 25-26) that the 
+Board’s construction of the phrase “incident to or in conjunc- 
+tion with such farming operations” focuses on the ultimate 
+motivation of Holly Farms to market processed chicken at a 
+profit and is therefore inconsistent with Maneja v. Waialua 
+Agricultural Co., 349 U.S. 254 (1955). Holly Farms’ profit 
+
+
+19 
+
+
+Thus, although the live haul crews’ work comes on 
+the heels of the independent growers’ operations, it 
+is more accurately characterized as the first step of 
+petitioners’ chicken-processing operation, rather than 
+as the last step of the independent growers’ primary 
+farming operations. See Draper Valley Farms, Inc., 
+307 N.L.R.B. 1440 (1992). Accordingly, the Board 
+reasonably concluded that the live haul crews’ work 
+is incidental to petitioners’ processing operation, 
+which, as explained below, is not primary farming. 
+See p. 21, infra; see also Bayside, 429 U.S. at 301; 
+29 C.F.R. 780.126.’ 
+
+
+motive is not germane to the Board’s construction of the 
+statutory phrase. Moreover, Maneja is distinguishable from 
+the present case. The Court in that case held that railroad 
+workers who hauled farm implements and field laborers 
+between their employer’s sugar cane fields and its mill were 
+agricultural laborers. Maneja, 349 U.S. at 260-263. The 
+hauling was plainly performed “on a farm as an incident to 
+or in conjunction with such farming operations” under Section 
+3(f), because the employer’s mill, railroad tracks, and fields 
+were all located on the employer’s sugar plantation, and only 
+cane grown in those fields was processed at the mill. 349 U.S. 
+at 256-257. 
+
+
+* Amicus NBC argues (Br. 13 n.5) that it was irrational 
+for the Board to classify pullet haulers, but not chicken 
+catchers, as agricultural laborers. The Board could reasonably 
+distinguish between those two categories of workers, however, 
+on the ground that the chicken catchers’ work was performed 
+in conjunction with Holly Farms’ processing operation, which 
+was not primary farming activity, see Bayside, 429 U.S. at 
+301, whereas the pullet haulers’ work was performed in con- 
+junction with Holly Farms’ poultry-raising operation, which 
+was primary farming activity, see 29 U.S.C. 203(f). See J.A. 
+22a (concluding that egg haulers and pullet haulers are agri- 
+cultural laboreys because, “[a]lthough hauling, generally, 
+
+
+20 
+
+
+b. If the Court rejects our submission that the 
+work of the live haul crew is not performed “by a 
+farmer,” that determination would reflect acceptance 
+of petitioners’ contention (Pet. Br. 31) that Holly 
+Farms acts as a farmer when it sends the live haul 
+crews to the independent growers’ farms. Even 
+under that theory, however, to meet the second and 
+third requirements for secondary farming, the crews’ 
+activities would have to be performed “as an incident 
+to or in conjunction with” some primary farming 
+operation conducted by Holly Farms. 
+
+The crews’ activities are not performed inciden- 
+tally to any primary farming operation by Holly 
+Farms. Although the independent growers’ poultry- 
+raising operations qualify as primary farming, under 
+this Court’s decision in Bayside the independent 
+growers’ operations cannot be attributed to Holly 
+Farms. See 429 U.S. at 300-302 (upholding Board’s 
+view that the primary farming activities of inde- 
+pendent growers are not attributable to integrated 
+poultry company ). 
+
+Moreover, the crews’ work could reasonably be 
+characterized as incidental to Holly Farms’ process- 
+ing operation. Indeed, Holly Farms’ “live produc- 
+tion” manager testified that the crews’ work is the 
+first step of the processing operation. J.A. 29a. The 
+Court in Bayside recognized, however, that poultry- 
+processing is not primary farming. See 429 U.S. at 
+
+
+would appear to be a non-farming activity, the employees 
+making pickups in the circumstances presented here, par- 
+ticularly considering the process and functional integration in 
+the hatchery, are similarly engaged in the exempt activity of 
+raising poultry”). 
+
+
+21 
+
+
+301. The Department of Labor has similarly recog- 
+nized that “[t]he activities of the * * * [poultry] 
+processor are not ‘raising of poultry.’” 29 C.F.R. 
+780.126; see also 29 C.F.R. 780.125(b) (“Slaughter- 
+ing, which is the antithesis of ‘raising,’ is not in- 
+cluded” in the “ ‘raising of poultry.’ ”’). 
+
+Holly Farms does engage in primary farming 
+operations when its employees hatch the eggs of the 
+broiler chicks that are delivered to the independent 
+growers’ farms. See J.A. 10a-12a, 2la. But those 
+operations end on the day that the chicks are hatched. 
+J.A. 12a. The live haul crews’ work does not begin 
+until 49 days later, after the chicks have been raised 
+to maturity by the independent growers. J.A. 13a. 
+The work of the crew is too remote from the hatchery 
+operations to be incidental to those primary farming 
+operations. 
+
+Hence, even if, contrary to our submission, the 
+Court determines that Holy Farms was acting as a 
+farmer when it sent the live haul crews to the inde- 
+pendent growers’ farms, the crews’ work is not sec- 
+ondary farming because it is not performed inciden- 
+tally to any primary farming operation by Holly 
+Farms. 
+
+4. Petitioners argue (Pet. Br. 19, 23) that the 
+chicken catchers and forklift operators engage in 
+secondary farming because they are involved in the 
+“preparation for market” of petitioners’ chickens; 
+and (id. at 30) that the live haul drivers engage in 
+secondary farming because they are involved in the 
+“delivery * * * to market” of the chickens. See also 
+NBC Br. 11-12; Amicus Br. of California Agricul- 
+tural Labor Relations Board (CALRB Br.) 18. 
+Those arguments ignore the text of Section 3(f) of 
+
+
+22 
+
+
+the FLSA. Section 3(f) lists “preparation for mar- 
+ket” and “delivery * * * to market” among the 
+specific “practices” that constitute “[a]griculture” 
+only if performed “by a farmer or on a farm as an 
+incident to or in conjunction with” the primary 
+farming operations conducted by the farmer or on 
+the farm. 29 U.S.C. 203(f). As explained above, 
+the live haul crew’s work falls outside Section 3(f) 
+because it is not performed incidentally either to any 
+primary farming operation by Holly Farms, or to 
+the independent growers’ operations.” 
+
+
+B. The Board’s Conclusion Is Consistent With the 
+Legislative History of Section 3(f) of the FLSA 
+
+
+Although petitioners rely heavily (Pet. Br. 15-19) 
+on the legislative history of Section 3(f) of the 
+FLSA, it does not support them. The legislative his- 
+tory cited by petitioners explains the origin of the 
+phrase “or on a farm” in Section 3(f). It does not 
+cast doubt on the Board’s conclusion, based on a dif- 
+ferent portion of Section 3(f), that petitioners’ live 
+haul crews do not engage in secondary farming be- 
+cause their work is not performed “as an incident to 
+
+
+** Amicus NBC argues (Br. 12) that “catching chickens on 
+a farm and delivering them for processing is unquestionably 
+‘incident to or in conjunction with’ the raising of poultry, 
+just as harvesting wheat * * * is incidental to the raising of 
+that commodity.” It is not enough, however, to be able to say 
+in the abstract that a practice is “incident to” a primary 
+farming activity. Rather, the practice must be “incident to” 
+the primary farming operation of the farm on which the 
+practice occurs, or, if performed by a farmer, “incident to” 
+that farmer’s primary farming operations. See pp. 14-15, 
+supra. Neither condition is met in this case. 
+
+
+23 
+
+
+or in conjunction with” the independent growers’ 
+operations. 
+
+In the bill originally introduced in the Senate, 
+“[a]griculture” was defined to include “any practices 
+ordinarily performed by a farmer as an incident to 
+such farming operations.” 81 Cong. Rec. 7653 
+(1937). As this Court explained in Farmers Reser- 
+voir, the phrase “or on a farm” was inserted after 
+the phrase “by a farmer” by an amendment on the 
+Senate floor (337 U.S. at 767 (footnotes omitted) ) : 
+
+
+As originally introduced, the exemption covered 
+such practices only if performed by a farmer. 
+On the floor of the Senate it was objected that 
+this would exclude the threshing of wheat or 
+other functions necessary to the farmer if those 
+functions were not performed by the farmer 
+and his hands, but by separate companies or- 
+ganized for and devoted solely to that particular 
+job. To take care of that situation the words 
+“or on a farm” were added to the definition. 
+Thus, the wheat threshing companies, even 
+though they were separate enterprises, were in- 
+cluded in the exemption because their work was 
+incidental to farming and was done on the farm. 
+
+
+The Court in Farmers Reservoir made particular 
+reference to the objection of Senator Tydings, who 
+stated: 
+
+
+In the case I visualize . . . the farmer is not 
+performing the service. The man to whom [| 
+refer makes a business of doing nothing but 
+threshing. He owns his own machine, and hauls 
+it from farm to farm, and enters into contracts 
+with farmers to thresh their crops; the point 
+being that while he is dealing with an agricul- 
+
+
+24 
+
+
+tural commodity, he is not necessarily a farmer, 
+and he is not doing work ordinarily done by a 
+farmer. 
+
+
+Id. at 767 n.16 (quoting 81 Cong. Rec. 7653 (1937) ). 
+
+As petitioners observe (Pet. Br. 14-15), the legis- 
+lative history clearly shows that “Congress intended 
+that the definition of an agricultural laborer would 
+include nonfarmers so long as their work involved 
+primary farming activities or occurred on a farm 
+and was incidental to the farming operations of the 
+farm.” While that history illuminates the purpose 
+of the “or on a farm” phrase, it does not directly ad- 
+dress the portion of Section 3(f) that is of central 
+concern here: the phrase “as an incident to or in 
+conjunction with such operations.” 29 U.S.C. 203(f). 
+
+The threshing-machine operation described in the 
+legislative history, which was considered by at least 
+some legislators to constitute secondary farming, dif- 
+fers significantly from the work of petitioners’ live 
+haul crews. First, the live haul crew is not par of 
+an enterprise that is in the “business of doing noth- 
+ing but” providing chicken catching and trsmsporta- 
+tion services. Rather, the activities of tke live haul 
+crew are merely the first part of petiticaers’ chicken- 
+processing operation, which itself * only part of 
+petitioners’ vertically integrated poultry operation. 
+Second, the chickens collected axd transported by the 
+live haul crew belong to petitioners, not the inde- 
+pendent growers. See J.A 5a, 6a, 29a; Pet. Br. 31. 
+While Congress may hve intended by adding the 
+phrase ‘or on a facm” to reach the employees 
+of an independent -ontractor hired by a farmer to 
+perform a service for the farmer, such as threshing 
+the farmer’s wheat, the legislative history does not 
+
+
+25 
+
+
+demonstrate that Congress intended to sweep within 
+the agricultural exemption workers who (as here) 
+enter onto a farm to perform a service, not for the 
+farmer upon the farmer’s commodities, but for an 
+industrial firm upon the industrial firm’s commodi- 
+ties. The Board could therefore reasonably conclude 
+that such workers’ activities are not performed “as 
+an incident to or in conjunction with” the primary 
+farming operations of those farms. 29 U.S.C. 203(f). 
+Instead, such workers are properly regarded as in- 
+dustrial workers entitled to the NLRA’s protection, 
+rather than agricultural! laborers. 
+
+
+C. The Board’s Conclusion Is Consistent With the 
+Department of Labor's Regulations Interpreting 
+Section 3(f) of the FLSA 
+
+
+The Board’s conclusion accords with the Depart- 
+ment of Labor’s interpretive regulations, which the 
+Board seeks to follow “whenever possible,” Camsco 
+Produce Co., 297 N.L.R.B. 905, 908 & n.14 (1990) 
+(quoting Jmperial Garden Growers, 91 N.L.R.B. 
+1034, 1037 (1950)), and which “constitute a body of 
+experience and informed judgment to which courts 
+and litigants may properly resort for guidance.” 
+Skidmore v. Swift & Co., 323 U.S. 134, 140 (1944). 
+
+The Department of Labor regulation addressing 
+the present situation, entitled “Contract arrange- 
+ments for raising poultry,” states as follows (29 
+C.F.R. 780.126) : 
+
+
+Feed dealers and processors sometimes enter 
+into contractual arrangements with farmers un- 
+der which the latter agree to raise to marketable 
+size baby chicks supplied by the former who also 
+undertake furnish all the required feed and 
+possibly additional items. Typically, the feed 
+
+
+26 
+
+
+dealer or processor retains title to the chickens 
+until they are sold. Under such an arrangement, 
+the activities of the farmers and their employees 
+in raising the poultry are clearly within section 
+3(f) [of the FLSA]. The activities of the feed 
+dealer or processor, on the other hand, are not 
+“raising of poultry” and employees engaged in 
+them cannot be considered agricult:: al employees 
+on that ground. Employees of the teed dealer or 
+processor who perform work on a farm as an 
+incident to or in conjunction with the raising of 
+poultry on the farm are employed in “secondary” 
+agriculture (see $§ 780.137 et seg. and Johnston 
+v. Cotton Producers Assn., 244 F. 2d 553). 
+
+
+Under this regulation, as under the Board’s decision, 
+the status of petitioners’ live haul crews depends 
+upon whether they engage in secondary farming, 
+which in turn depends upon whether they “perform 
+work on a farm as an incident to or in conjunction 
+with the raising of poultry on the farm.” 29 C.F.R. 
+780.126. Other Department of Labor regulations 
+confirm the Board’s conclusion that the live haul 
+crews do not engage in secondary farming because 
+their work is not performed “as an incident to or in 
+conjunction with” the independent growers’ poultry- 
+raising operations. 
+
+In keeping with the text of Section 3(f) (see pp. 
+14-15, supra), the regulations provide that second- 
+ary farming must meet three requirements (29 
+C.F.R. 780.129) (bracketed numerals added) : 
+
+
+To come within this secondary meam..g, [1] 
+a practice must be performed either by a farmer 
+or on a farm. [2] It must also be performed 
+either in connection with the farmer’s own farm- 
+ing operations or in connection with farming 
+
+
+27 
+
+
+operations conducted on the farm where the 
+practice is performed. [3] In addition, the prac- 
+tice must be performed “as an incident to or in 
+conjunction with” the farming operations. 
+The first and third requirements are readily evident 
+on the face of Section 3(f). As the regulations ex- 
+plain, the second (“in connection with”) requirement 
+is derived from Section 3(f)’s use of the word 
+“such.” See 29 C.F.R. 780.141; see also pp. 14-15, 
+supra. 
+
+As discussed above, petitioners’ live haul drivers 
+do not meet the first requirement; they do not work 
+“on a farm,” and their work is not done “by a 
+farmer.” See pp. 17-18, supra; see also 29 C.F.R. 
+780.134 (“Any practice which cannot be performed 
+on a farm, such as ‘delivery to market,’ is necessarily 
+excluded [from secondary agriculture] * * * when 
+performed by someone other than a farmer.” (cita- 
+tions omitted)). In any event, none of the workers 
+on the live haul crews meets the second (“in connec- 
+tion with”) and third (“incident to”) requirements 
+prescribed in the Department of Labor’s regulations. 
+
+With regard to the “in connection with” require- 
+ment, the regulations state (29 C.F.R. 780.143): 
+
+The fact that a practice performed on a farm 
+is not performed by or for the farmer is a 
+strong indication that it is not performed in 
+connection with the farming operations there 
+conducted. 
+
+
+The regulations add that, in determining whether a 
+practice is performed “for” a farmer, it is “highly 
+significant” whether the practice involves property to 
+which the farmer has title or for which the farmer 
+otherwise has responsibility. Jbid. As discussed 
+
+
+28 
+
+
+above, the live haul crews’ work involves property 
+that belongs to petitioners, not the independent grow- 
+ers."' Moreover, Holly Farms has not been retained 
+by the independent growers to render the independ- 
+ent growers any service; rather, the growers have 
+been hired by Holly Farms to perform a service for 
+Holly Farms: raising the chicks to maturity. The 
+live haul crews’ work begins only after the independ- 
+ent growers’ responsibilities have ended. See pp. 
+18-19, supra. That work is therefore not performed 
+“in connection with” the independent growers’ opera- 
+tions. 
+
+With regard to the “incident to” requirement, the 
+regulations state in relevant part (29 C.F.R. 
+780.144) : 
+
+
+The line between practices that are and those 
+that are not performed “as an incident to or in 
+conjunction with” such farming operations is not 
+susceptible of precise definition. Generally, a 
+practice performed in connection with farming 
+operations is within the statutory language only 
+if it constitutes an established part of agricul- 
+ture, is subordinate to the farming operations 
+
+
+" Tf, in contrast to the facts of this case, the chicken catchers 
+and forklift operators of an independent contractor were hired 
+by a grower to cage and load chickens both raised and owned 
+by the grower, the work of the chicken catchers and forklift 
+operators might be characterized as being performed “for” 
+the grower, and therefore to occur “in connection with” the 
+grower’s poultry-raising operations. Cf. 29 C.F.R. 780.126 
+(whether employees of independent contractors who work on 
+a farm are engaged in secondary agriculture “depends, of 
+course, on whether the practices are performed as an incident 
+to or in conjunction with the farming operations on the 
+particular farm”). 
+
+
+29 
+
+
+involved, and does not amount to an independent 
+business. 
+
+
+The work of the live haul crew is in no sense sub- 
+ordinate to the independent growers’ operations. As 
+explained above, the live haul crew plays no role in 
+the independent growers’ discharge of their con- 
+tractual responsibilities, nor is the live haul crew 
+under the direction of the independent growers.” 
+Accordingly, even if the live haul crew’s work were 
+deemed to occur “in connection with” the independent 
+growers’ operations, it would not constitute secondary 
+farming under the Department of Labor’s regulations 
+because it is not incidental to those operations. 
+Petitioners err in relying (Pet. Br. 23) upon a 
+regulation that defines “preparation for market” to 
+include “[cJulling, grading, cooping, and loading” of 
+poultry. 29 C.F.R. 780.151(k). Another regulation 
+“emphasize[s] that ‘preparation for market,’ like 
+other practices, must be performed ‘by a farmer or 
+on a farm as an incident to or in conjunction with 
+such farming operations’ in order to be within sec- 
+tion 3(f).” 29 C.F.R. 780.150. The latter regulation 
+makes clear that, to constitute secondary farming, it 
+Is not enough that an activity prepares a product for 
+market; the activity must, in addition, occur “as an 
+
+
+"Cf. Bayside Enterprises, Inc., 216 N.L.R.B. 502, 505 
+(1975) (work of truck drivers employed by integrated poultry 
+producer, who delivered and unloaded poultry feed on farms 
+of independent growers, was incidental to the operation of the 
+employer’s feed mill rather than the growers’ farms), aff'd, 
+429 U.S. 298 (1977); NLRB v. Samuel R. Gass, 377 F.2d 438, 
+443-444 (1st Cir. 1967) (same: court notes that “[i}t is sig- 
+nificant that these drivers are not employed or paid by the 
+farms nor are they under the control of the farmers”). 
+
+
+30 
+incident to” and “in connection with” primary farm- 
+ing operations. 
+
+Petitioners also err in relying (Pet. Br. 27-28) on 
+the decision cited in 29 C.F.R. 780.126, Johnston v. 
+Cotton Producers Ass’n, 244 F.2d 553 (5th Cir. 
+1957). See also NBC Br. 21; CALRB Br. 13. 
+Johnston was employed by a retail store that sold 
+baby chicks, feed, and other supplies to farmers. 
+Johnston, 244 F.2d at 554. The court held that he 
+was exempt from the FLSA as an agricultural 
+laborer because “[s]ubstantially all of [his] work 
+was done as a part of or in connection with the 
+preparation for market * * * of poultry raised on 
+farms.” Jd. at 555. Unlike Holly Farms’ live haul 
+crews, which play no role in the independent growers’ 
+poultry-raising operations, Johnston not only caught, 
+cooped, and loaded the chickens onto trucks but also 
+“supervise[d] the giuwing of the chicks by growers 
+on their farms.” Jd. at 554. Moreover, unlike Holly 
+Farms, the retail store that employed Johnston had 
+no use for the mature chicks; it retained title to the 
+chicks simply as security for the purchase price of 
+the chicks and other material sold to the farmers. 
+Ibid. The mature birds in Johnston, once cooped and 
+caught, were delivered to third-party processors, not 
+to the retail store. See ibid. Under those circum- 
+stances, it was reasonable to conclude that the em- 
+ployee’s activities were performed “as an incident to 
+or in conjunction with” the growers’ operations. 
+That conclusion does not conflict with the Board’s 
+contrary conclusion in the quite different circum- 
+stances of this case. 
+
+
+31 
+
+
+III. PETITIONERS’ “PRIMARY FARMING” ARGU- 
+MENT SHOULD NOT BE CONSIDERED BECAUSE 
+IT WAS NOT RAISED BELOW; IN ANY EV ENT, IT 
+CONFLICTS WITH THE TEXT OF THE STATUTE 
+
+
+AND THE DEPARTMENT OF LABOR’S INTER- 
+PRETIVE REGULATIONS 
+
+
+Petitioners and some of their amici argue that the 
+chicken catchers and forklift operators (but not the 
+live haul drivers) engage in primary farming by 
+‘harvesting” an “agricultural commodity.” Pet. Br. 
+29-30; AFB Br. 8-9; NBC Br. 9, 17. This Court 
+should decline to consider petitioners’ “primary 
+farming” argument. If the argument is considered, 
+it should be rejected. 
+
+A. Petitioners did not advance a primary farm- 
+ing argument before the Board or the court of ap- 
+peals, and neither the Board nor the court addressed 
+it.” Petitioners also did not raise the primary farm- 
+ing argument in their petition for a writ of cer- 
+tiorari; it appears for the first time in their opening 
+brief on the merits. Cf. Sup. Ct. R. 24(a) (brief on 
+the merits “may not raise additional questions or 
+change the substance of the questions already pre- 
+
+
+** Although petitioners did not expressly “concede” the pri- 
+mary farming issue, as the court of appeals believed (Pet. 
+App. A46), they did not raise that issue at all. Instead, they 
+made only a secondary farming argument. See Pet. C.A. 
+Opening Br. 12 (“[T)he activities of catching, caging, and 
+loading live chickens onto a truck for delivery are clearly 
+incidental to or in conjunction with the primary farming 
+practice of raising poultry on those farms.”); Pet. C.A. Reply 
+Br. 18 (“The thrust of Petitioners’ position with regard to 
+the chicken catchers and forklift operators is that they per- 
+form work on a farm that is incidental to the farming activi- 
+
+
+ties performed by the owner of the f - 
+pow Hy e farm.”) (emphasis 
+
+
+32 
+
+
+sented”). The question whether chicken catchers 
+and forklift operators engage in primary farming is 
+analytically distinct from the question whether they 
+engage in secondary farming. See pp. 12-14, supra. 
+Each of those questions, moreover, is one that the 
+Board should have an opportunity to consider in 
+the first instance. See, e.g., Sure-Tan, Inc. v. NLRB, 
+467 U.S. 883, 891 (1984) (“the task of defining the 
+term ‘employee’ is one that has been assigned pri- 
+marily to the agency created by Congress to admin- 
+ister the Act”) (internal quotation marks omitted). 
+Under those circumstances, this Court should decline 
+to consider petitioners’ primary farming argument. 
+See, e.g., Taylor v. Freeland & Kronz, 503 U.S. 638, 
+645-646 (1992). Indeed, petitioners’ failure to ad- 
+vance their primary farming argument before the 
+Board creates a statutory bar to its consideration in 
+judicial proceedings reviewing the Board’s order. See 
+29 U.S.C. 160(e) (“No objection that has not been 
+urged before the Board * * * shall be considered by 
+the [reviewing] court, unless the failure or neglect 
+to urge such objection shall be excused because of 
+extraordinary circumstances.”); Woelke & Romero 
+Framing, Inc. v. NLRB, 456 U.S. 645, 665-666 
+(1982) (holding that under 29 U.S.C. 160(e) the 
+court of appeals “was without jurisdiction to con- 
+sider” an issue “not raised during the proceedings 
+before the Board’). 
+
+
+4 Petitioners framed the question presented in a manner 
+that could be read to encompass a “primary farming” argu- 
+ment. See Pet. iv (“Are chicken catchers, forklift drivers, 
+and live-haul drivers of a vertically integrated poultry pro- 
+ducer considered agricultural employees under Section 2(3) 
+of the National Labor Relations Act (‘NLRA’ or ‘Act’), 29 
+U.S.C. § 152(3) (1978) ?”) (question 5). In the body of their 
+petition, however, petitioners asserted only a secondary farm- 
+ing argument. See Pet. 60-61. 
+
+
+33 
+
+
+B. In any event, petitioners’ contention that the 
+chicken catchers and forklift operators are engaged 
+in “harvesting” poultry conflicts with the text of 
+Section 3(f) of the FLSA and the Department of 
+Labor regulations interpreting the statute. 
+
+Section 3(f) differentiates “the production, culti- 
+vation, growing, and harvesting of any agricultural 
+or horticultural commodities” from “the raising of 
+livestock, bees, fur-bearing animals, or poultry.” 29 
+U.S.C. 203(f). If the practices of “cultivation, grow- 
+ing, and harvesting” applied to poultry, then the 
+statutory phrase “the raising of * * * poultry” would 
+be superfluous. That result should be avoided. See, 
+e.g., Astoria Fed. Savings & Loan Ass’n vy. Solimino, 
+501 U.S. 104, 112 (1991). To avoid it, Section 3(f) 
+must be construed to make only the “raising” (and 
+not the “harvesting’”’) of poultry a primary farming 
+activity. 
+
+The chicken catchers and forklift operators do not 
+“raise” the poultry that they catch and load onto 
+trucks. The poultry has already been “raised” by 
+the independent growers. Under the explicit wording 
+of the statute, therefore, the chicken catchers and 
+forklift operators are not engaged in primary agri- 
+culture. See Draper Valley Farms, Inc., 307 N.L.R.B. 
+1440 (1992); accord 29 C.F.R. 780.125(b) (‘The 
+‘raising’ of poultry includes the breeding, hatching, 
+propagating, feeding, and general care of poultry.”’). 
+
+Petitioners’ contrary argument (Pet. Br. 29-30) 
+rests on a misreading of the Department of Labor’s 
+interpretive regulations. The regulations define the 
+term “agricultural commodities” to include “domesti- 
+cated animals and some of their products.” 29 C.F.R. 
+780.112. The regulations also state that “ ‘[h]arvest- 
+ing’ does not extend to operations subsequent to and 
+unconnected with the actual process whereby agricul- 
+
+
+34 
+
+
+tural commodities * * * are severed from their 
+attachment to the soil or otherwise reduced to posses- 
+sion.” 29 C.F.R. 780.118(b). Reversing that nega- 
+tive formulation, petitioners argue that harvesting 
+must include all operations in which “agricultural 
+commodities,” including “domesticated animals” such 
+as poultry, are “reduced to possession.” Pet. Br. 29. 
+
+Although petitioners’ argument is plausible in 
+isolation, it fails to take into account the positive 
+definition of “harvesting” in the regulations (29 
+C.F.R. 780.118(a) ): 
+
+
+The term “Harvesting” as used in section 3(f) 
+[of the FLSA] includes all operations customar- 
+ily performed in connection with the removal of 
+the crops by the farmer from their growing 
+position. 
+The regulation goes on to confirm that “harvesting” 
+is an activity performed upon non-animal agricul- 
+tural commodities, such as “the cutting of grain, the 
+picking of fruit, the stripping of bluegrass seed, and 
+the digging up of shrubs and trees grown in a 
+nursery.” Ibid. While the “harvesting” of some non- 
+crop agricultural commodities, such as fish, may con- 
+stitute “farming” (see Domsea Farms, Inc., 211 
+N.L.R.B. 832 (1974); 29 C.F.R. 780.109)), “farm- 
+ing,” as applied to poultry, is limited by statute to 
+the “raising of * * * poultry.” 29 U.S.C. 203(f). 
+
+
+IV. THE BOARD'S DETERMINATION THAT PETI- 
+TIONERS’ LIVE HAUL EMPLOYEES ARE NOT 
+“AGRICULTURAL LABORER([S]” IS ENTITLED TO 
+DEFERENCE 
+
+
+This Court has repeatedly recognized that the 
+Board’s interpretation of the term “employee” in 
+Section 2(3) of the NLRA “‘is entitled to considerable 
+deference.” Sure-Tan, 467 U.S. at 891; see also, 
+
+
+35 
+
+
+e.g., Town & Country Electric, Inc., 116 S. Ct. at 453; 
+NLRB vy. Curtin Matheson Scientific, Inc., 494 U.S. 
+775, 786-787 (1990). In addition, the Court has 
+stated that the Board’s construction of the exemption 
+for agricultural laborers in Section 3(f) of the FLSA 
+“is one we must respect even if the issue might ‘with 
+nearly equal reason be resolved one way rather than 
+another.’” Bayside, 429 U.S. at 302 (quoting Farm- 
+ers Reservoir, 337 U.S. at 770 (Frankfurter, J., con- 
+curring) )."° Where, as in this case, the Board’s 
+conclusion that particular employees are not “agricul- 
+tural laborer[s]” reflects a reasonable interpretation 
+of the text of Section 3(f) and is consistent with the 
+legislative history of that provision, the Board’s prior 
+decisions, and the Department of Labor’s construction 
+of the statute, “the appropriate weight which must 
+be given to the judgment of the agency whose special 
+duty is to apply this broad statutory language to 
+varying fact patterns requires enforcement of the 
+Board’s order.” Bayside, 429 U.S. at 303-304; see also 
+NLRB vy. Transportation Management Corp., 462 
+U.S. 393, 401-402 (1983); NLRB v. Hendricks 
+County Rural Electric Membership Corp., 454 U.S. 
+170, 189-190 (1981). 
+
+Moreover, because Section 3(f) defines an area 
+partially exempted from the regulatory framework 
+established by the FLSA,”* it must be “narrowly con- 
+
+
+'* This Court’s decision in Bayside forecloses petitioners’ 
+argument (Pet. Br. 11-12) that the Board’s interpretation of 
+Section 3(f) is not entitled to deference. See also NBC Br. 
+20; AFB Br. 19. 
+
+
+16 See, e.g., FLSA Section 13(a) (6), 29 U.S.C. 213(a) (6) 
+(partial exemption from minimum wage and overtime pay 
+provisions for certain employees employed in “agriculture” 
+as defined by Section 3(f)); see generally 29 C.F.R. 780.100. 
+
+
+36 
+
+
+strued against the employers seeking to assert [it]” 
+and its application must be limited to those falling 
+“plainly and unmistakably within [its] terms and 
+spirit.” Arnold v. Ben Kanowsky, Inc., 361 U.S. 388, 
+392 (1960); accord A. H. Phillips, Inc. v. Walling, 
+324 U.S. 490, 493 (1945). It cannot be said that 
+Holly Farms’ chicken catchers, forklift operators, and 
+live haul drivers fall “plainly and unmistakably” 
+within the Section 3(f)’s agricultural exemption. The 
+Board’s determination that these employees are 
+NLRA “employees” is therefore entitled to affirmance. 
+
+
+CONCLUSION 
+
+
+The judgment of the court of appeals should be 
+affirmed. 
+
+
+Respectfully submitted. 
+Drew S. Days, IIT 
+FREDERICK L,. FEINSTEIN Solicitor General 
+General Counsel LAWRENCE G. WALLACE 
+LINDA SHER Deputy Solicitor General 
+Associate General Counsel RICHARD H. SEAMON 
+NORTON J. COME Assistant to the Solicitor 
+Deputy Associate General 
+General Counsel 
+JOHN EMAD ARBAB 
+Attorney 
+National Labor Relations 
+Board 
+
+
+JANUARY 1996 
+
+
+APPENDIX 
+
+
+WILKESBORO DIVISION 
+Effective 2/4/85 
+
+
+AGREEMENT 
+
+
+THIS AGREEMENT made this the —— day of 
+, 19—, by and between Holly Farms 
+Poultry Industries, Inc., a North Carolina corpora- 
+tion, hereinafter referred to as the “Producer,” and 
+, hereinafter 
+referred to as the “Grower.” 
+
+
+WITNESSETH: 
+
+
+THAT WHEREAS, Holly Farms Poultry Indus- 
+tries, Inc. is engaged in the production of poultry on 
+an integrated basis, being responsible for the rear- 
+ing of chickens from the breeder hens to the process- 
+ing of the poultry into dressed product; and 
+
+
+WHEREAS, the Grower has represented himself 
+as an experienced and knowledgeable person in the 
+field of rearing poultry, possessing skill and knowl- 
+edge to supervise and direct the efficient rearing of 
+broilers; and 
+
+
+WHEREAS, the Producer desires to utilize the pro- 
+fessed skill, judgment, discretion and knowledge of 
+the Grower on a contractual basis for the production 
+of broilers for use in its processing plants; and 
+
+
+WHEREAS, the compensation of the Grower is 
+predicated upon the skill, knowledge and discretion 
+which he agrees to utilize and purports to possess in 
+
+
+(la) 
+
+
+2a 
+
+
+the production of the chickens under his control and 
+supervision ; and 
+
+
+WHEREAS, the Grower warrants that he is the 
+owner of or in the possession of a farm together with 
+improvements located thereon, sufficient and adequate 
+for use in rearing chickens or broilers. 
+
+
+NOW, THEREFORE, in consideration of these 
+premises and the mutual agreements herein set out, 
+the parties do hereunto agree as follows: 
+
+
+A. THE PRODUCER AGREES: 
+
+
+1. To furnish and deliver baby chicks to the 
+Grower’s farm to be grown out as broilers subject to 
+the termination right of either party as set forth 
+hereinafter. 
+
+2. To furnish and deliver all feed and medication 
+which the Producer, with the advice of the Grower, 
+determines to be adequate and sufficient to rear the 
+broilers to marketable weight. 
+
+8. To pay Grower in accordance with the formula 
+or method hereinafter set out in this agreement on 
+the following time schedule: 
+
+
+a. The Grower will notify the Producer when 
+the unused feed may be picked up. 
+
+b. The Grower’s settlement will be made 
+within a period of fourteen (14) working days 
+from the day the unused feed is picked up. 
+
+
+B. THE GROWER AGREES: 
+
+
+1. To furnish the necessary housing, equipment, 
+fuel, water, shavings or litter, electricity, labor, and 
+other facilities or items that are necessary in the 
+
+
+3a 
+
+
+opinion of the Producer to raise the birds to market- 
+able weight. 
+
+2. To utilize his best skill, judgment, and knowl- 
+edge in caring for and rearing the birds. The Grower 
+further agrees that no feed, chicks, or medication 
+furnished by the Producer will be used for any pur- 
+pose other than the rearing of birds under this agree- 
+ment, and that in the event feed or other supplies 
+remain in the feeders after the rearing of ore flock, 
+this feed or supplies will be utilized in the rearing 
+of the next flock or returned to the Producer. 
+
+3. To permit at any time inspection of birds and 
+growing facilities by the Producer or its agents. 
+
+4. To be present during the catching or removal of 
+the broilers and to raise and move, prior to the arrival 
+of live haul, the equipment to insure proper care of 
+the equipment and facilities. 
+
+5. To exercise the necessary supervision and plan- 
+ning in order to provide properly maintained roads 
+
+
+or passageways to poultry houses and around poultry 
+houses. 
+
+
+6. To warrant that the Grower is the owner of the 
+land, buildings, and equipment utilized in the rearing 
+of the chickens or that the Grower is in the legal 
+possession of the property and has the right and 
+authority to utilize the same for this purpose. 
+
+
+C. THE PRODUCER AND THE GROWER 
+JOINTLY AGREE: 
+
+
+1. That the delivery date and the number of baby 
+chicks to be placed with the Grower will be deter- 
+mined by consultation and agreement between the 
+Grower and the Producer with the final decision 
+being made by the Producer. 
+
+
+4a 
+
+
+2. That after the removal of each flock, the Grower 
+will be paid in accordance with a method or formula 
+as follows: 
+
+
+a. A figure to be known as the individual 
+Grower’s Efficiency Point Factor will be ascer- 
+tained. The Grower’s efficiency point factor will 
+be calculated by determining the Grower’s total 
+number of net live weight pounds of poultry 
+grown and the total efficiency points assigned for 
+settlement purposes of the feed (580 points per 
+100 pounds), and chicks (20 points each) util- 
+ized in producing the broilers. After the Grow- 
+er’s efficiency points have been determined, the 
+total number of pounds of broilers will be divided 
+into the total efficiency points giving the efficiency 
+point factor. The efficiency point factor ascer- 
+tained by this division will constitute for settle- 
+ment purposes the individual Grower’s settlement 
+based on the average of all grower’s efficiency 
+points whose broilers were moved in the same 
+settlement period. (The average of all grower’s 
+efficiency points whose broilers were moved in 
+the same settlement period is known as the “‘float- 
+ing average.” ) 
+
+
+b. Basic Grower Payment 
+
+
+(1) The individual Grower’s efficiency point factor 
+per pound in relation to the floating average as as- 
+certained by the method set out above will be applied 
+to Exhibit A entitled “Basic Grower Payment Sched- 
+ule.” The applicable figures appearing in the column 
+will be ascertained and payment will be made by ap- 
+plying the figures to the applicable column on 
+
+
+Sa 
+
+
+Exhibit A. For example, the average of all growers’ 
+efficiency points (floating average) whose broilers 
+were moved in the same settlement period is 10.30 
+points, and the individual Grower’s efficiency point 
+factor is 10.00 points, then the individual Grower will 
+receive floating average pay plus a .30 point equiv- 
+alent lower than the floating average which scales out 
+on Exhibit A to be $149.00 per thousand broilers sold. 
+If the floating average is 16.30 points, then the indi- 
+vidual Grower’s efficiency point factor is 16.60 points, 
+and the individual Grower will receive floating aver- 
+age pay less a .30 point equivalent higher than the 
+floating average which scales out on Exhibit A to be 
+$131.00 per thousand broilers sold. 
+
+(2) The settlement period for obtaining the float- 
+ing average will be one week (Monday through 
+Saturday’s kill), but in no case will the settlement 
+period contain less than 10 flocks. For example, 
+when 8 flocks are moved in a particular week, two 
+flocks would be added to these 8 flocks making up the 
+10-flock settlement group. The efficiency point fac- 
+tors used for these two flocks would be the same as 
+the floating average efficiency point factor from the 
+previous week. 
+
+(3) For the purpose of determining the weekly 
+floating average, growers whose efficiency point fac- 
+tor is 1.50 points per pound more or less than the 
+average for the settlement period will not be used 
+for figuring grower pay other than his own. 
+
+(4) A copy of the composite Grower’s efficiency 
+points for determining the floating average will be 
+available at the office of the Producer. 
+
+
+(c) Market Advantage Bonus Payment. A 
+market advantage bonus payment will be paid 
+
+
+6a 
+
+
+to the Grower based upon the Market Advantage 
+Factor determined by reference to the chart at- 
+tached hereto as Exhibit B and its relationship 
+to the Monday Final Georgia Dock Market plus 
+one cent. The Monday Final Georgia Dock Mar- 
+ket plus one cent set forth on Exhibit C refers to 
+the simple average of three quoted markets 
+(Monday of the week of processing and the two 
+previous Mondays). The prices set forth on 
+Exhibit B refer to the quoted cash price per 
+bushel of Chicago, Illinois #2 yellow corn and 
+the quoted cash price per ton of Decatur, Illinois 
+49% soybean meal. These prices will be aver- 
+aged on Monday of the week of processing for 
+the previous three Mondays of trading and are 
+not necessarily indicative of the price which the 
+Producer pays for any and all of its corn and 
+soybean meal. The market advantage factor as 
+determined by Exhibit B is predicated upon the 
+average consumption of corn and soybean meal 
+per pound of dressed poultry, the average quoted 
+market price of corn and soybean meal for the 
+three Mondays immediately preceding the week 
+of processing, and the estimated freight on the 
+corn and soybean meal. The market advantage 
+factor is then related to the Monday Final Geor- 
+gia Dock Market plus one cent by use of the 
+Market Advantage Bonus Payment Chart (Ex- 
+hibit C) in order to determine the market 
+advantage bonus payment per thousand birds 
+processed. The Monday Final Georgia Dock 
+Market plus one cent is used for convenience and 
+is not necessarily indicative of the price at which 
+the Producer sells its poultry products and the 
+market advantage bonus payment chart includes 
+
+
+7a 
+
+
+an estimated constant factor to cover all addi- 
+tional 
+
+As an example in determining the market ad- 
+vantage bonus payment, assume corn price of 
+$2.70 per bushel and soybean meal of $160.00 
+per ton. Exhibit B shows a market advantage 
+factor of 15.38. Then assuming a Monday Final 
+Georgia Dock Market plus one cent of 49.00 
+cents per pound, the market advantage bonus 
+payment determined by use of Exhiibt C is $9.50 
+per thousand birds sold. 
+
+d. A settlement sheet prepared in accordance 
+with the procedures hereinabove set out and re- 
+flecting the amount paid the Grower, the effi- 
+ciency point factor per pound, the average of the 
+Monday Final Georgia Dock Market price plus 
+one cent of the Monday of the week of processing 
+and the two previous Mondays; the average of 
+the previous three Monday’s daily prices on #2 
+yellow corn and 49% soybean meal; and other 
+information will be furnished the Grower. 
+
+
+3. In the event of one hundred percent (100% ) 
+loss of al! birds placed in any one house as a result 
+of fire or disease not resulting from the negligence or 
+intentional acts of the Grower, the Producer will pay 
+the Grower $7.00 per thousand chickens placed for 
+each week including fractions thereof which the 
+Grower has had the chickens. For example, if fire 
+destroys a house of 10,500 birds at five weeks and 
+two days of age, the grower pay for this house is 
+$388.50. A loss of eighty percent (80%) or more of 
+the flock shall be interpreted for purposes of this 
+paragraph as one hundred percent (100%) loss. 
+
+4. That for the convenience of not having to 
+initiate a new agreement after each flock, this agree- 
+
+
+8a 
+
+
+ment shall remain in full force and effect with the 
+privilege on the part of either party to terminate the 
+same after the removal of any particular flock. In 
+the event of termination, the Producer shall have the 
+right and privilege to enter the premises and remove 
+any feed, medication, equipment, and other property 
+belonging to the Producer. 
+
+5. In the event the Producer in its sole judgment 
+shall determine that the flock or birds in possession 
+of the Grower is deteriorating or that the Grower is 
+failing to maintain the normal and ordinary growth, 
+or in the event the Grower shall wrongfully dispose 
+of feed, chicks, medication, or any other property of 
+the Producer, then the Producer may engage a court 
+of proper jurisdiction and obtain an injunctive or 
+mandatory order authorizing the Producer to go upon 
+the premises of the Grower and remove therefrom the 
+birds, feed, medication, supplies, or other property 
+belonging to the Producer. The Grower, under these 
+circumstances, does hereby forfeit any compensation 
+or payment he would otherwise receive with refer- 
+ence to this flock. 
+
+6. That title to feed, chicks, and medication fur- 
+nished by the Producer is and shall remain the sole 
+«ad exclusive property of the Producer. 
+
+7. The Producer and Grower are each independ- 
+ent contractors performing services using their sep- 
+arate discretion and judgment. The Producer and 
+the Grower shall, in their separate and independent 
+discretion, employ and supervise exclusively their 
+own servants, agents and employees. 
+
+8. That Producer shall under no circumstances be 
+held responsible for damages to Grower caused by 
+delay or failure to perform hereunder when such 
+delay or failure is due to fire, strikes, acts of God, 
+
+
+\ 
+
+
+9a 
+
+
+legal acts of public authorities or delays or defaults 
+due to labor, feed, chick, or medication shortages. 
+
+
+The provisions of the paragraph are subject to and 
+are not inconsistent with Part C, section 3, page 7, 
+
+
+of this agreement. The Producer agrees to comply 
+with the provisions of Part C, section 3, page 7 of 
+
+
+this agreement. 
+
+
+IN WITNESS WHEREOPF, the respective parties 
+
+
+have hereunto, either in person or by their authorized 
+agents, affixed their hands and seals hereto. 
+
+
+HOLLY FARMS POULTRY INDUSTRIES, INC. 
+
+
+By 
+Grower (Seal) 
+Spouse (Seal) 
+
+
+Business Name or Account Name of Grower 
+
+
+Address 
+
+
+( ) 
+
+
+Telephone Number Social Security or Identification 
+Number 
+
+
+[ Exhibits Omitted] 
+
+
+® 6. 6. (oveemment peuerime orice, 1006 405017 40052 
+
+

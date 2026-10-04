@@ -1,0 +1,735 @@
+i” ORIGINAL 
+
+
+No. 94-9247 
+
+
+Supreme Court, U.S, 
+FILED 
+
+
+AUG 7 1995 
+QFHCE OF THE CLERK 
+
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+
+OCTOBER TERM, 1995 
+
+
+CHARLES CARLISLE, PETITIONER 
+Vv. 
+
+
+UNITED STATES OF AMERICA 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE SIXTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES IN OPPOSITION 
+
+
+DREW S. DAYS, III 
+Solicitor General 
+
+
+JO ANN HARRIS 
+
+
+Assistant Attorney General 
+
+
+DAVID S. KRIS 
+
+
+QUESTION PRESENTED 
+Whether the district court lacked authority to grant a post- 
+verdict motion for judgment of acquittal filed outside the time 
+
+
+limits prescribed by Federal Rule of Criminal Procedure 29(c). 
+
+
+(I) 
+
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+
+OCTOBER TERM, 1995 
+
+
+No. 94-9247 
+CHARLES CARLISLE, PETITIONER 
+Vv. 
+
+
+UNITED STATES OF AMERICA 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE SIXTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES IN OPPOSITION 
+
+
+OPINION BELOW 
+The opinion of the court of appeals (Pet. App. B1-B4) is 
+reported at 48 F.3d 190. 
+JURISDICTION 
+The judgment of the court of appeals was entered on February 
+21, 1995. The petition for a writ of certiorari was filed on May 
+12, 1995. The jurisdiction of this ourt is invoked under 28 
+U.S.C. 1254(1). 
+STATEMENT 
+A grand jury sitting in the United States District Court for 
+the Western District of Michigan indicted petitioner for 
+
+
+conspiring to possess marijuana with intent to distribute it, in 
+
+
+2 
+
+violation of 21 U.S.C. 846. Following a jury trial, petitioner 
+was found guilty. He filed an untimely post-verdict motion for 
+judgment of acquittal under Federal Rule of Criminal Procedure 
+29(c), which the district court initially denied, and then sua 
+sponte reconsidered and granted. Pet. App. Al-A5. The court of 
+appeals reversed on the ground that the district court lacked 
+authority to consider the untimely motion. Pet. App. B1-B4. 
+
+1. Petitioner’s jury trial began on June 30, 1993. He did 
+not move for a judgment of acquittal under Fed. R. Crim. P. 29(a) 
+at any time during the trial. After the jury returned a verdict 
+of guilty, it was discharged on July 13, 1993. Petitioner filed 
+a post-verdict motion for judgment of acquittal on July 23, 1993, 
+one day after the seven-day period allowed for such motions under 
+Fed. R. Crim. P. 29(c).* He asserted that the evidence was 
+insufficient to demonstrate that he participated in the 
+conspiracy. In a written opinion dated August 24, 1993, the 
+district court did not address the lateness of the motion, but 
+denied it on the ground that the evidence was "sufficient for a 
+rational trier of fact to find that [petitioner] knowingly and 
+voluntarily joined the conspiracy." United States v. Carlisle, 
+No. 1:93:CR:66-02 (W.D. Mich. Aug. 24, 1993), slip c.. 7 
+
+
+(attached). 
+
+
+. Rule 29(c) provides that "a motion for judgment of 
+acquittal may be made or renewed within 7 days after the jury is 
+discharged or within such further time as the court may fix during 
+the 7-day period." Fed. R. Crim. P. 45(a) provides that 
+"Saturdays, Sundays and legal holidays shall be excluded" from the 
+seven-day period. Excluding the weekend of July 17-18, 1993, 
+petitioner’s motion was one day late. 
+
+
+3 
+
+When petitioner appeared for sentencing on October 14, 1993, 
+the district court on its own motion reversed its earlier 
+decision and granted a judgment of acquittal. Pet. App. Al-A5; 
+id. at B2. Noting that the motion was filed after the filing 
+deadline, the court nonetheless treated it as timely, stating: 
+
+I can conceive of no prejudice to the United States which 
+
+will result from consideration of a motion that is one day 
+
+late in this case. Because I believe that refusal to hear 
+
+this motion would result in grave injustice, and because the 
+
+Rule permits the Court to extend the deadline, I will 
+
+consider this motion as if it were filed in a timely manner. 
+Id. at Bln.1. Reviewing the same evidence that it had 
+considered in its initial opinion, the district court concluded 
+that the evidence was “insufficient to prove beyond a reasonable 
+doubt that [petitioner] knowingly and voluntarily joined the 
+conspiracy." Jd. at AS. 
+
+2. The court of appeals reversed. Pet. App. B1-B4. 
+Relying on its earlier decision in United States v. Davis, 992 
+F.2d 635 (6th Cir.), cert. denied, 114 S. Ct. 265 (1993), the 
+court held that the district court lacked jurisdiction to grant 
+an untimely motion for acquittal under Fed. R. Crim. P. 29(c), or 
+to enter a judgment of acquittal sua sponte after the case has 
+been submitted to the jury. Pet. App. B3-B4. Although both 
+parties briefed the question whether the evidence was sufficient, 
+Gov't C.A. Br. at 9-11; Pet. C.A. Br. at 9-15, the court of 
+appeals did not address whether the evidence was sufficient to 
+
+
+support the conviction. See Pet. App. B3-B4. 
+
+
+4 
+ARGUMENT 
+
+Petitioner contends (Pet. 3-6) that a district court has 
+authority to grant an untimely post-verdict motion for judgment 
+of acquittal, and that the contrary decision below conflicts with 
+the decisions of other courts of appeals. The decision of the 
+court of appeals is correct, there is no circuit conflict, and 
+the issue presented warrants no further review. 
+
+1. The decision of the court of appeals is in accord with 
+the text of Rule 29(c), which provides that a motion for judgment 
+of acquittal after verdict "may be made or renewed within 7 days 
+after the jury is discharged or within such further time as the 
+court may fix during the 7-day period." Rule 45(b) in turn 
+provides that the district court "may not extend the time for 
+taking any action under Rules 29, 33, 34 and 35, except to the 
+extent and under the conditions stated in them." These two 
+Rules, read together, show that the seven-day time limit in Rule 
+29(c) is mandatory, and that the court cannot retroactively 
+extend it. 
+
+Rule 29 also prohibits the district court of appeals from 
+achieving the same result by sua sponte granting an acquittal 
+afte. the seven-day time limit has elapsed. In United States v. 
+Smith, 331 U.S. 469 (1947), this Court held that a district court 
+may not grant a new trial on its own motion under Fed. R. Crim. 
+P. 33 beyond the Rule’s time limit for making new trial motions. 
+In language that parallels that of Rule 29(c), Rule 33 authorized 
+a motion for a new trial “within 5 days after verdict or finding 
+
+
+5 
+
+of guilty or within such further time as the court may fix during 
+the 5-day period."* Although Rule 33, like Rule 29(c), does not 
+expressly address sua sponte action by the court, this Court in 
+Smith concluded that the a the time within which 
+relief can openly be asked of the judge, terminates the time 
+within which it can properly be granted on the court’s own 
+initiative." 331 U.S. at 475. The Court explained that "(t]he 
+trial judge is given power by the Rules to entertain motions for 
+new trial within five days after verdict and may extend that time 
+for so long as he thinks necessary for proper consideration of 
+the course of the trial," but emphasized that “extension of that 
+time indefinitely is no insurance of justice." Jd. at 475-476. 
+Rather, "(i]t is in the interest of justice that a decision on 
+the propriety of a trial be reached as soon after it has ended as 
+is possible, and that decision be not deferred until the trial’s 
+story has taken on the uncertainty and dimness of things long 
+past.” Jd. at 476.’ The same reasoning applies to the time 
+limits established in Rule 29(c). 
+
+2. The decision of the court of appeals accords with the 
+
+
+holdings of other circuits that a district court lacks authority 
+
+
+° The 1966 amendments to Fed. R. Civ. P. 29(c) and 33 
+extended the time limits in both Rules from five days to seven. 
+
+
+. Contrary to petitioner’s contention (Pet. 4-5), Smith 
+does not contemplate a case-by-case evaluation of whether “a 
+considerable period of time" has passed creating a risk of 
+uncertainty regarding the strength of the evidence in the 
+individual case. Rather, Smith made clear that "(t]he time 
+limitations of Rule 33 are jurisdictional." 3 Charles Alan Wright, 
+
+§ 558, at 360 (2d ed. 
+1982); id. at 361 n.1 (collecting cases). 
+
+
+6 
+to grant an untimely motion under Rule 29(c). See, e.g., United 
+States v. Stevens, 978 F.2d 565, 569 (10th Cir. 1992); United 
+States v. Hocking, 841 F.2d 735, 736-737 (7th Cir. 1988); United 
+States v. Johnson, 487 F.2d 1318, 132i (Sth Cir.), cert. denied, 
+419 U.S. 825 (1974). See also United States v. Davis, 992 F.2d 
+635, 636-640 (6th Cir.), cert. denied, 114 S. Ct. 265 (1993). 
+
+Petitioner claims (Pet. 4) that several circuits have 
+adopted a contrary rule. While some decisions contain language 
+suggesting that a district court has inherent authority to enter 
+a judgment of acquittal even when the defendant fails to file a 
+motion within time limits imposed by Rule 29, no other decision 
+has reached a result that squarely conflicts with the decision 
+below. Rather, the allegedly conflicting decisions have all 
+involved action by the court or the defendant within the time 
+limits of Rule 29. 
+
+In Arizona v. Manypenny, 672 F.2d 761, 764-765 (9th Cir.) 
+(Kennedy, J.), cert. denied, 459 U.S. 850 (1982), the defendant 
+filed his Rule 29(c) motion within seven days of the jury’s 
+verdict. The district court initially denied the motion, but 
+then sua sponte granted it in connection with its consideration 
+of a motion for an arrest of judgmer under Fed. R. Crim. P. 34. 
+The court of appeals held only that the district court had 
+authority to revisit its earlier denial of the timely filed Rule 
+29 motion in those circumstances; it expressly declined to 
+“address the scope of inherent power in other contexts." 672 
+F.2d at 766. The Ninth Circuit has not applied the theory of 
+
+
+4 
+“inherent power" voiced in Manypenny outside of the circumstance 
+in which defendant the timely filed a motion. See United States 
+v. Godoy, 678 F.2d 84, 88 (9th Cir. 1982), cert. denied, 464 U.S. 
+959 (1983) (stating that sua sponte district court action under 
+Rule 29(c) more than seven days after the verdict would have been 
+untimely where "(n]othing had been done during [the time allowed 
+by Rule 29(c)) by either the parties or the court to preserve the 
+matter for such late action"). 
+
+In United States v. Coleman, 811 F.2d 804, 807 (3d Cir. 
+1987), the defendant sought an extension of time for filing a 
+motion for judgment of acquittal within the seven-day period. 
+The court, however, granted the requested extension after that 
+period had elapsed. The court of appeals concluded that the 
+failure of the defendant to file his Rule 29 motion in a timely 
+fashion did not prevent the district court from acting on it, 
+because the court believed that "a district court may enter a 
+judgment of acquittal ‘sua sponte under its inherent power,’ 
+without regard to the seven-day requirement of Rule 29." 811 
+
+
+F.2d at 807, citing United States v. Giampa, 758 F.2d 928, 936 
+n.1 (3d Cir. 1985).* In Coleman, unlike here, the defendant had 
+
+
+* Giampa is inapposite here. In that case, the district 
+court discharged the jury citing a violation of Brady v. Maryland, 
+373 U.S. 83 (1963), but eight days later entered a judgment of 
+acquittal based on insufficient evidence. The court of appeals 
+concluded that Rule 29 did not prohibit the court’s action eight 
+days after trial because of the court’s "inherent power." 758 F.2d 
+at 936 n.1. The court of appeals had previously determined, 
+however, that the district court’s statements during trial revealed 
+that the basis for his termination of the case and dismissal of the 
+jury was his belief that the government’s evidence was insuffi- 
+cient. Jd. at 934-935. 
+
+
+8 
+
+taken action to preserve his rights within the time limits 
+prescribed by Rule 29, and his later motion was untimely because 
+of error by the court. The Third Circuit has not had occasion to 
+revisit the issue in a concrete context since Coleman.’ 
+
+The other cases ciced by petitioner discuss the time limits 
+in Rule 29(c) only in dictum. United States v. DiBernardo, 880 
+F.2d 1216, 1225 n.4 (llth Cir. 1989), did not involve a Rule 
+29(c) motion, but referred to Coleman and Manypenny in ruling on 
+the timeliness of a motion for a new trial under Fed. R. Crim. P. 
+33. United States v. Mendoza, 565 F.2d 1285 (Sth Cir. 1978), 
+also did not involve Rule 29(c), but addressed the timeliness of 
+a Rule 35 motion for reduction of sentence; moreover, since 
+Mendoza, the Fifth Circuit has also noted "the conceded lack of 
+jurisdiction of a district court to consider an untimely motion 
+for judgment of acquittal." United States v. Brown, 587 F.2d 
+187, 190 n.6 (Sth Cir. 1979) (dictum). 
+
+3. In any event, the question presented here is of limited 
+practical importance. Rule 29(a) authorizes motions for judgment 
+of acquittal before a case is submitted to the jury but after the 
+
+
+evidence on either side is closed. Although petitioner failed to 
+
+
+* See United States v. Wright-Barker, 784 F.2d 161, 170 n.8 
+(34 Cir. 1986) (noting in dictum Giampa’s apparent tolerance of a 
+
+
+district court’s sua sponte grant of a judgment of acquittal in the 
+absence of a timely motion, but observing that the district court 
+in the case before it had not sought to exercise any such authori- 
+ty); United States v. Knox, 977 F.2d 815, 8619 (3d Cir. 1992) 
+(noting that district court had discretion under Coleman but that 
+it acted within its discretion in declining to reach merits of Rule 
+29 motion filed three months after verdict), vacated on other 
+grounds, 114 S. Ct. 375 (1993). 
+
+
+9 
+do so here, defendants typically file such motions and thereby 
+preserve their right to appellate review of evidentiary 
+sufficiency even in the absence of a Rule 29(c) post~-verdict 
+motion. See, e.g,., United States v. Sharif, 817 F.2d 1375, 1377 
+(9th Cir. 1987). The same standard governs an appeal from the 
+denial of the Rule 29(a) motion as applies to a Rule 29 motion 
+made at any stage in the district court -- j,e,, whether the 
+evidence, taken in the light most favorable to the government, is 
+sufficient for a reasonable jury to find the defendant guilty 
+beyond a reasonable doubt. See Jackson v. Virginia, 443 U.S. 
+307, 319 (1979); United States v. Qvermyer, 867 F.2d 937, 938 
+(6th Cir.), cert. denied, 493 U.S. 813 (1989). Thus, in the 
+typical case, failure to file a timely Rule 29(c) motion merely 
+changes the forum in which a defendant presents his post-verdict 
+sufficiency claim. And even a defendant who does not file any 
+timely motion under Rule 29 may seek appellate review of his 
+claim of evidentiary insufficiency under a plain error standard, 
+see Fed. R. Crim. P. 52. See, e,g., United States v. Fagan, 821 
+F.2d 1002, 1009 n.2 (Sth Cir. 1987). The holding of the court of 
+appeals thus does not completely foreclose judicial review of the 
+
+
+suf’. ciency of the evidence. 
+
+
+10 
+
+
+CONCLUSION 
+
+
+The petition for a writ of certiorari should be denied. 
+
+
+Respectfully submitted. 
+
+
+DREW S. DAYS, III 
+Solicitor Genera] 
+
+
+JO ANN HARRIS 
+Assistant Attorney General 
+
+
+DAVID S. KRIS 
+Attorney 
+
+
+AUGUST 1995 
+
+
+CMwey (it) 
+
+
+UNITED STATES DISTRICT COURT 53 KG 24 PM 4: 5} 
+
+
+FOR THE WESTERN DISTRICT OF MICHIGAN CLERK.U.S. DIST. COUR 
+YESTERN DIST UF MACH, 
+
+
+sy_ Aa 
+
+
+UNITED STATES OF AMERICA, 
+
+
+Plaintiff, 
+Vv 
+CHARLES CARLISLE, File No. 1:93:CR:66-02 
+Defendant. HON. RICHARD A. ENSLEN 
+/ 
+OPINION 
+
+
+The matter before the Court is defendant Carlisle’s motion for 
+a judgment of acquittal pursuant to Fed. R. Crim. P. 29(c). 
+Defendant was charged in a single count Indictment with conspiracy 
+to possess marijuana with intent to distribute. On July 13, 1993, 
+a jury found defendant guilty. Defendant’s motion does not claim 
+that there was not an agreement to possess and distribute marijua-~- 
+na. Instead, his motion argues that the evidence was insufficient 
+to prove that he joined the conspiracy. 
+
+The standard of review for claims of insufficient evidence is 
+“whether after viewing the evidence in the light most favorable to 
+the prosecution, any rational trier of fact could have found the 
+
+
+essential elements of the crime beyond a reasonable doubt." 
+
+
+Jackson vy. Virginia, 443 U.S. 307, 319 (1979) (emphasis in 
+
+
+original); United States v. Boling, 869 F.2d 965 (6th Cir. 1989). 
+Reviewing the evidence in the light most favorable to the govern- 
+
+
+ment means that I must make all credibility choices and inferences 
+
+
+i= 
+
+
+in a manner that supports the jury’s verdict. Further, circumstan- 
+tial evidence alone is sufficient to sustain a conviction and such 
+evidence need not remove every reasonable hypothesis except that of 
+guilt. United States v. Stone, 748 F.2d 361, 363 (6th Cir. 1984). 
+
+The evidence presented against Carlisle at trial was as 
+follows. On the evening of April 10, 1993, defendant Rupert 
+(Carlisle’s common-law wife), defendant Ramon (Ms. Rupert’s 
+mother), and Thomas Crawford arrived at the residence on Yale 
+Street that Carlisle and Rupert shared. Ramon travelled in a car 
+driven by Rupert, and they were followed by a truck full of 
+marijuana. That truck was driven by Crawford, the government’s 
+primary witness, who was wearing a tape-recording device at the 
+time. 
+
+In his opening statement, defendant’s counsel stated that 
+Rupert told Carlisle that the truck contained marijuana, and that 
+she was scared. The inference that Carlisle knew that the truck 
+contained marijuana could also be drawn from a hearsay statement by 
+Rupert I admitted. As soon as Ramon, Rupert and Crawford arrived 
+at the Yale Street residence, Crawford recorded the following 
+statement of Rupert: “Okay, just pull out and Chuck [Carlisle] says 
+to go down the street and just park for awhile because he said he’s 
+heard over the scanner, there’s some cops around hr~e." Exhibit 
+48-A, Transcript of Nagra Tape #2, Cassette #1A, p. 5. Crawford 
+parked the truck down the street. 
+
+When Crawford returned from parking the truck, he was 
+introduced to Carlisle. Crawford testified that Carlisle was quiet 
+
+
+BEST AVAILABLE COPY 
+
+
+and did not appear nervous. At this point, the parties appear to 
+be discussing where to park the truck for the evening, and the 
+following conversation ensued: 
+Ramon: We can park it behind the house. 
+Crawford: All right mighty good. 
+Carlisle: Figure right down the drive. 
+Ramon: Yeah, because my son called, my 
+grandson called and said there was 
+cops around here. 
+Rupert: around this area 
+
+
+Ramon: unintelligible 
+
+
+Rupert: and we don’t want to take a chance 
+right now 
+
+
+Carlisle: We don’t want to take no chances. 
+
+Crawford: No, un wh, that’s why I was going, 
+I, the speed limit was thirty and so 
+I stayed right on it. 
+
+Ramon: Yeah? Oh and before I forget, on 
+the key, the combination. I took 
+the thing off and I put it on there 
+so >. . >. 
+
+Carlisle: Okay .. . is that for the back? 
+
+*** (one page later) *** 
+
+Ramon: We’re going (unintelligible) 
+
+Crawford: Oh yeah it’s best not take any... 
+
+Carlisle: No I won’t take no chances... 
+
+Crawford: Okay. 
+
+Id. at 5-7. 
+At Rupert’s request, Carlisle then drove Amelia Ramon to her 
+
+
+home shortly after Rupert, Ramon and Crawford arrived at the Yale 
+
+
+Street residence. The truck full of marijuana, driven by Crawford, 
+followed. The truck was left at Ramon’s home, and Crawford joined 
+Carlisle and Ramon in the car. Carlisle then drove Crawford and 
+Ramon to the Stouffer Hotel. During this trip, tape recordings 
+indicated that there was nothing but casual banter about topics 
+
+
+*" such as cars and the city of Battle Creek. Carlisle dropped them 
+
+
+off and left. There was no evidence that Carlisle had any further 
+contact with any member of the conspiracy. 
+
+Upon review under the foregoing standards, I find that the 
+evidence in this case is sufficient to sustain defendant’s 
+conviction. Viewed in the light most favorable to the government, 
+I believe that a rational trier of fact could find beyond a 
+reasonable doubt that Carlisle knew about the conspiracy, and that 
+Carlisle knowingly and voluntarily joined the conspiracy. 
+
+Instruction 10C explained that in order to establish knowing 
+and voluntary joinder, 
+
+
+the government must prove that [the defendant) 
+knew the conspiracy’s main purpose, and that 
+he voluntarily joined it intending to help 
+advance or achieve his goals. . . . But proof 
+that a defendant simply knew about a conspira- 
+cy, or was present at the time, or associated 
+with members of the group, is not enough, even 
+if he approved of what was happening or did 
+not object to it. Similarly, just because a 
+defendant may have done something that hap- 
+pened to help a conspiracy does not necessari- 
+ly make him a conspirator. These are all 
+things that you may consider in deciding 
+whether the government has proved that a 
+defendant joined a conspiracy. But without 
+more they are not enough. 
+
+
+Sixth Circuit Pattern Criminal Instruction No. 3.03 (1991).' 
+Review of two cases in which the Sixth Circuit found that the 
+government did not carry the burden described above is instructive. 
+In the unpublished decision of United States y. Burgess, 1992 U.S. 
+App. LEXIS 34740 (6th Cir.), the court acknowledged that "[c)on- 
+spiracy cases often present difficult questions about the extent to 
+which seemingly passive participants are nonetheless culpable 
+members of the conspiracy." Jd. at *21. The appellate panel went 
+on to hold that there was insufficient evidence to support 
+defendant Burgess’ conviction for conspiracy to possess marijuana 
+with intent to distribute. In Burgess, a defendant named Muncy 
+planned to buy marijuana from a DEA agent and informant. Muncy 
+drove to the scheduled rendezvous point with Burgess and a third 
+defendant, Rose. When they arrived, Muncy walked to the agents’ 
+car and discussed the purchase. Muncy then went back to his own 
+car and brought Rose to the agents’ car with him. After the 
+transaction began, all three were arrested. A search of the car 
+revealed a loaded revolver and $15,000 in cash in the front seat, 
+and scales in the trunk. 
+
+Upon review of these facts, the Sixth Circuit concluded that 
+the jury could have inferred Burgess’ knowledge of the purpose of 
+
+
+the trip, White’s | »ssession of money to purchase marijuana, and 
+
+
+' The Committee Notes cite many cases in support of this 
+instruction. E.g., United States v. Richardson, 596 F.2d 157, 162 
+(6th Cir. 1979) (there must be proof of an intention an agreement 
+to cooperate in the crime); United States v. Bostic, 480 F.2d 965, 
+968 (6th Cir. 1973) (there must be intentional participation in the 
+transaction with a view to the furtherance of the common design and 
+
+
+purpose). 
+
+
+even the presence of a weapon in the car. However, because Burgess 
+did not participate in the discussions with the agents, he was not 
+mentioned in those conversations, he did not drive the car, and he 
+never left the middle of the front seat, the court held that a 
+rational trier of fact could not find that Burgess knowingly and 
+voluntarily joined the conspiracy. 
+
+United States v. Pearce, 912 F.2d 159 (6th Cir. 1990), cert, 
+
+
+denied sub nom Thorpe _v. United States, 111 S.Ct. 978 (1991), 
+provides another example of evidence which the Sixth Circuit found 
+
+
+to be insufficient to sustain a conspiracy conviction. Defendants 
+Thorpe and Pearce were convicted of conspiring to possess and 
+distribute crack in violation of 21 U.S.C. § 846 on the following 
+evidence. A SWAT team entered what they suspected was a crack 
+house after an informant purchased crack at the house with 
+registered bills. When they entered, Thorpe ran into the basement 
+yelling "it’s a bust." The SWAT team found Thorpe nearby two doses 
+of crack and a loaded revolver. Thorpe had a live round in his 
+pocket that matched those found in the gun. The police found 
+Pearce sitting on a couch in the living room. Next to him was a 
+bag of crack and the registered bills the informant used in his 
+purchase. 
+
+The Sixth Circuit reversed bot’ conspiracy convictions. It 
+found that the record was devoid of any evidence that Thorpe and 
+Pearce had entered into an agreement. Although the defendants’ 
+presence at the house was unexplained, the court concluded that no 
+rational trier of fact could have found that even tacit coordina- 
+
+
+coordination between Thorpe, Pearce, or any third party, to 
+maintain a crack house or to distribute crack. 
+
+The evidence against Mr. Carlisle surpasses that presented in 
+Burgess and Pearce. Unlike the Burgess defendant, he was more than 
+just present during the conspiracy. He took actions to help hide 
+the contraband from the police. He stated his intention to not 
+“take chances.“ He inquired whether a key unlocked the back of the 
+truck which contained the marijuana. And finally, in contrast to 
+the Pearce defendants, Mr. Carlisle’s use of the word “we" in a 
+statement made to other conspirators during a conversation about 
+where to put the truck full of marijuana to avoid the place, “we 
+don’t want to take no chances," could indicate joinder with the 
+conspiracy to a rational trier of fact. I find that Carlisle’s 
+hearsay statement concerning the scanners, his statements evincing 
+a desire to avoid the police, and the fact that he drove a 
+conspirator (his common law mother-in-law) to her home, and then 
+drove two conspirators to a hotel and dropped them off, is 
+sufficient for a rational trier of fact to find that he knowingly 
+and voluntarily joined the conspiracy. 
+
+Viewing the evidence in the light most favorable to the 
+government, I find that the government’s case against Charles 
+Carlisle is sufficient to prove beyond a reason-Sle doubt that 
+Carlisle knowingly and voluntarily joined the conspiracy. As a 
+result, defendant’s motion will be denied. 
+
+
+deals tease. Ardy § ule 
+
+
+United States District Judge 
+Chu 19,1753 
+
+
+FED Ky 
+UNITED STATES DISTRICT COURT $3 AUG 26 PM 4: 5) 
+
+
+FOR THE WESTERN DISTRICT OF MICHIGAN CLER U.S. DIS} ’ 
+WESTERN DIST OF sick 
+
+
+bY AG 
+
+
+UNITED STATES OF AMERICA, 
+
+
+Plaintiff, 
+Vv 
+CHARLES CARLISLE, File No. 1:93:CR:66-02 
+Defendant. HON. RICHARD A. ENSLEN 
+/ 
+ORDER 
+
+
+In accordance with the Opinion entered on this date; 
+IT I8 HEREBY ORDERED that defendant Carlisle’s motion for a 
+judgment of acquittal pursuant to Rule 29(c), filed July 23, 1993, 
+
+
+is DENIED. 
+Dated in Kalamazoo, MI: A. , A bch 
+Cn 17,1993 United States District Judge 
+
+
+l(V 
+
+

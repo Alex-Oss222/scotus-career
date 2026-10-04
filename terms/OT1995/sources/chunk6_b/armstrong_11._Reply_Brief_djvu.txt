@@ -1,0 +1,951 @@
+' Supreme Court, U.S. 
+
+
+-~ 
+
+
+( \ 4 
+a 
+
+
+No. 95-157 
+
+
+FIfeED 
+FEB 15 199% 
+
+
+RK 
+
+
+— 
+
+
+In the Supreme Court of the Gnited States 
+
+
+OCTOBER TERM, 1995 
+
+
+UNITED STATES OF AMERICA, PETITIONER 
+Vv. 
+
+
+CHRISTOPHER LEE ARMSTRONG, ET AL. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+REPLY BRIEF FOR THE UNITED STATES 
+
+
+DREW S. Days, III 
+Solicitor General 
+Department of Justice 
+Washington, D.C. 20530 
+
+202) 514-2217 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases: Page 
+Ah Sin v. Wittman, 198 U.S. 500 (1905) .............. 10, 11 
+Batson v. Kentucky, 476 U.S. 79 (1986) ................. 12 
+Bowman Dairy Co. v. United States, 341 U.S. 214 
+
+a ica ataaacas tailed latina ine seniaaipteaibibiahdninbintcntnesnenee 17 
+Copley Press, Inc. v. Superior Court, 7 Cal. 
+
+ER EE A ee eR 16 
+Franks v. Delaware, 438 U.S. 154 (1978) ................ 6 
+Hazelwood School Dist. v. United States, 433 
+
+ERIS an 14 
+McCleskey v. Kemp, 481 U.S. 279 (1987) ................. 7, 13 
+Roviaro v. United States, 353 U.S. 53 (1957) .......... 6 
+United States v. Berrios, 501 F.2d 1207 (2d Cir. 
+
+UII siiscceheiiidintinienitnniiinialiiniatsiechddtiinabennimiadamniabiedeecspnoconeres 3, 17 
+United States v. Johnson, 577 F.2d 1304 (5th Cir 
+
+IIIT ileal iti eaccshiaeahcntatibnadiianeibcdsbiatiinsenénaceoeebeanensnans 3 
+United States v. Mezzanatto, 1158S. Ct. 797 
+
+EE SESE ee 6 
+United States v. Murdock, 548 F.2d 599 (5th Cir. 
+
+IIIT dhishinddiedneincauneacciiinindinddhdndiageimmenednasbeenennensseoseses 3 
+United States v. Nixon, 418 U.S. 683 (1974) ........... 17 
+United States v. One 1985 Mercedes, 917 F.2d 415 
+
+ST TIE silos iansiaiecedeiicsh iauinaeenirtnaieabingeengdnensnsonsees 3-4 
+Wade v. United States, 504 U.S. 181 (1992) ............ 6, 10 
+Wards Cove Packing Co. v. Atonio, 490 U.S. 642 
+
+STITT scinsiiatlslceseiaahinsaiaetd dihdaidabiadbiadiadaisianadindinigndinienessonsinesses 14 
+Wayte v. United States, 470 U.S. 598 (1985) . 6, 7, 11, 12 
+Yick Wo v. Hopkins, 118 U.S. 356 (1886) ................ 10 
+
+
+Statutes and rules: 
+
+
+Civil Rights Act of 1964, Tit. VII, 42 U.S.C. 2000e .... 12 
+18 U.S.C. 924(c) (1988 & Supp. V 1993) .................. 19 
+
+
+(1) 
+
+
+Statutes and rules—Continued: 
+
+
+21 U.S.C. 841(b)(1) (1988 & Supp. V 1993) ................ 19 
+Fed. R. Civ. P.: 
+BeweBe 1 cccccocccccccccccsccnncnnsnnnnnnennennnnanann 
+
+
+i 
+
+
+BOUND ED cccestaticens soocescecescossosensenesesennanannnae 
+
+Fed. R. Crim. P.: 
+Rese 116@)(6)ccccccccccccscocscoccssesonensnnennnnnaannnn 
+er en 2, 3, 4, 5, 7, 8, 1 
+
+Advisory committee note (1974 Amendment) . 
+
+Rule 106a EMA) .cccccosccccccccscscersnsanennsnnnnnaae 
+Rule 10a LB)  ..ccccccccccsccssosscnssenseiunnnnnnan 
+Rule 10faE MC) .nccoccocccoccsessbensensnnna 1, 2, 4, 5, 
+Rule 164G)KE DD) ceccccccsscccesccecsecccnsnuasnnaeeeee 
+Rule 2GLa ETE) cococcocccccnscsscecsccncsnssesenennnaa 
+Rule 16CBIGTO) ..ccoccccccsocsoscsocnsconsssinmene 
+Beebe 27 ..covccccccscscsssoccnesennnnnnenennnennnnannnnnnnn 1 
+Reale 170E)  cococccccsccccccoscocncuscannsennasennnnaann 
+
+Fed. R. Evid.: 
+Bethke SBRGR) ..cccccccccseccssccsccccesssenseieanensennnnaannnn 16-17 
+Rule BB10D) ..ccccccccsscocsscesecsnscnuansnnnenaneenaannan 16-17 
+Reade 620 ...ccccccccccceccesossesenecsnsnsnnennnnannannnn 6 
+
+
+Miscellaneous: 
+
+
+2 Charles A. Wright, Federal Practice And Procedure 
+(Bd Odd. 19GB) ...0ccccscccoscscsvencenssssensensnennannnnnnnnl 3, 17 
+
+
+eCSnork ene ee or nnn em 
+
+
+In the Supreme Court of the United States 
+
+
+OcTOBER TERM, 1995 
+
+
+No. 95-157 
+UNITED STATES OF AMERICA, PETITIONER 
+v. 
+
+
+CHRISTOPHER LEE ARMSTRONG, ET AL. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+REPLY BRIEF FOR THE UNITED STATES 
+
+
+Our position is that, absent direct evidence of a 
+discriminatory purpose, a criminal defendant must 
+make a substantial threshold showing that similarly 
+situated person. of a different race have not been 
+prosecuted in order to obtain discovery from the 
+government on a selective prosecution claim. Re- 
+spondents offer no adequate reason for eliminating 
+the similarly situated offender requirement. 
+
+1. The Martin respondents contend, for the first 
+time in this litigation, that requiring a substantial 
+threshold showing of selective prosecution as a 
+condition to obtaining discovery conflicts with Fed. 
+R. Crim. P. 16(a)1(C). Martin Br. 26-38. According 
+
+
+(1) 
+
+
+2 
+
+
+to respondents, Rule 16 requires the government to 
+provide discovery to a defendant so long as “the 
+information already available to a defense attorney is 
+‘sufficient to lead a reasonable person to believe . . . 
+that further inquiry on the subject is warranted.’” 
+Martin Br. 22, quoting Pet. App. 97a (Reinhardt, J., 
+dissenting from the panel opinion in this case). As a 
+general matter, discovery is not available in a 
+criminal case on that slender basis, and respondents’ 
+suggestion is particularly unwarranted with respect 
+to discovery incursions into the exercise of pros- 
+ecutorial discretion. 
+
+a. On its face, Rule 16(a)(1)(C) does not give a 
+defendant unrestricted access to the government’s 
+files in order to search for a defense to the charges 
+against him. Rather, in authorizing limited discovery 
+in a criminal case, the portion of Rule 16 invoked by 
+respondents specifically requires a defendant to make 
+a threshold showing of materiality: 
+
+
+Upon request of the defendant the govern- 
+ment shall permit the defendant to inspect 
+and copy or photograph books, papers, docu- 
+ments, photographs, tangible objects, build- 
+ings or places, or copies or portions thereof, 
+which are within the possession, custody, or 
+control of the government, and which are 
+material to the preparation of the defen- 
+dant’s defense * * *. 
+
+
+Fed. R. Crim. P. 16(a)(1)(C) (emphasis added). 
+
+The Rule’s restriction on discovery of documents 
+and tangible items to those that are “material to the 
+preparation of the defendant’s defense” is a signifi- 
+cant limitation. As one commentator has stated, “[i)f 
+defendant requests discovery because he thinks the 
+
+
+3 
+
+
+documents sought are material to the preparation of 
+his defense, he must make a prima facie showing of 
+materiality.” Charles A. Wright, Federal Practice 
+And Procedure § 254, at 66-67 (2d ed. 1982) (footnote 
+omitted). That requirement means that, before 
+discovery may be ordered, the defendant must estab- 
+lish that he has a factual basis for asserting the 
+defense on which discovery is sought, and that the 
+requested documents or tangible items are relevant 
+and helpful to that defense. See United States v. 
+Murdock, 548 F.2d 599, 600 (5th Cir. 1977). The 
+factual showing of “materiality” is to be demon- 
+strated by the defendant “before discovery is 
+allowed.” Jbid. (emphasis added); cf. United States v. 
+Berrios, 501 F.2d 1207, 1211-1212 (2d Cir. 1974) 
+(requiring evidentiary showing of “the essential ele- 
+ments of the defense and that the documents in the 
+government’s possession would indeed be probative of 
+these elements” to obtain enforcement of a subpoena 
+under Fed. R. Crim. P. 17(c) issued in connection with 
+a hearing on a selective prosecution claim). 
+
+Because the test under Rule 16 is “materiality,” 
+the threshold showing that must be made depends on 
+the defense that is asserted. When information is 
+sought to support a defense of selective prosecution 
+based on race, the defendant must make a threshold 
+showing of race-based selection, i.e., that he was 
+selected for prosecution, while similarly situated 
+persons of a different race were not. Murdock, 548 
+F.2d at 600; United States v. Johnson, 577 F.2d 1304, 
+1309 (5th Cir. 1978) (where the defendant “did not 
+make a prima facie showing that he was singled out 
+for prosecution, he did not establish the materiality of 
+the evidence sought” and consequently was not 
+entitled to discovery under Rule 16); see also United 
+
+
+4 
+
+
+States v. One 1985 Mercedes, 917 F.2d 415, 421 (9th 
+Cir. 1990) (in order to obtain discovery on a claim of 
+vindictive prosecution, defendant must introduce 
+evidence tending to establish the essential elements 
+of the claim). It is not sufficient for defense counsel 
+to assert that the information at hand affords what he 
+claims is a reasonable basis for further inquiry. 
+
+The structure of Rule 16 confirms that the 
+“materiality” requirement was intended as a signifi- 
+cant limitation on a defendant’s right to discovery 
+under that portion of the Rule. Rule 16 specifically 
+permits the defendant to obtain discovery of several 
+other categories of information without requiring the 
+defendant to show that they are material to the 
+defense. The government must disclose the defen- 
+dant’s relevant oral or written statements, Rule 
+16(a)1A); the defendant’s criminal record, Rule 
+16(a)1)(B); the results of scientific tests that “are 
+intended for use by the government as evidence in 
+chief at the trial,” Rule 16(a)(1)D); summaries of 
+expert witness testimony that the government 
+intends to use “during its case in chief at trial,” Rule 
+16(a)(1)(E); and, most important, all documents and 
+physical objects that “are intended for use by the 
+government as evidence in chief at the trial” or that 
+“were obtained from or belong to the defendant,” Rule 
+16(aX1XC). To the extent, however, that a defendant 
+seeks other documents, tangible objects, or scientific 
+reports in the government’s possession, he must show 
+that the documents sought are “material to the 
+preparation of the defendant’s defense.” Rule 16(a)(1) 
+(C) and (D).' 
+
+
+' The history of Rule 16 also supports that analysis. As 
+adopted in 1966, Rule 16 did not specifically address whether a 
+
+
+5 
+
+
+The Martin respondents contend that, because Rule 
+16 specifically precludes discovery of three categories 
+of information (internal government documents, 
+witness statements, and grand jury proceedings), 
+interpreting the Rule to require a defendant to 
+establish a threshold showing to obtain information 
+outside those categories would violate the principle of 
+“expressio[{[] unius est exclusio alterius.” Martin 
+Br. 27-28. The requirement of a threshold showing, 
+however, does not create a fourth category of 
+information that is categorically shielded from dis- 
+closure. Rather it imposes a condition upon obtaining 
+information that may be subject to disclosure, and 
+that condition is drawn directly from the text of Rule 
+16. The principle of expressio unius est exclusio 
+alterius is therefore inapplicable here. 
+
+b. The relaxation of discovery standards proposed 
+by respondents is particularly inapt in the present 
+context. The Federal Rules of Criminal Procedure 
+were framed against the backdrop of well-established 
+principles that sharply limit judicial inquiries into 
+
+
+defendant could obtain evidence that the government would 
+introduce at trial or had obtained from the defendant. Instead, 
+those two categories of information were discoverable only 
+“upon a showing of materiality to the preparation of [the 
+defendant's} defense.” Fed. R. Crim. P. 16(b) (1970). In 1975, 
+however, Rule 16(a)(1)(C) was amended for the express 
+purpose of relieving a defendant of having to demonstrate 
+materiality in order to obtain those two categories of informa- 
+tion. The Advisory Committee reasoned that evidence in- 
+troduced by the government in its case in chief or obtained 
+from the defendant could be assumed to be “material” without 
+requiring the defendant affirmatively to establish that fact. 
+Fed. R. Crim. P. 16 advisory committee note (1974 Amend- 
+ment). For other documents, however, the materiality 
+requirement was left intact. 
+
+
+6 
+
+
+exercises of prosecutorial discretion, and the “ma- 
+teriality” requirement in Rule 16, as applied to such 
+inquiries, necessarily draws its meaning from those 
+principles. Cf. United States v. Mezzanatto, 115 S. 
+Ct. 797 (1995) (interpreting Fed. R. Evid. 410 and Fed. 
+R. Crim. P. 11(e)(6) against the background principle 
+that evidentiary privileges may be waived). Just as 
+those principles require a substantial threshold 
+showing of unconstitutional motive before a defendant 
+may obtain discovery on a claim that the government 
+has unconstitutionally withheld a substantial assis- 
+tance motion, Wade v. United States, 504 U.S. 181, 
+186-187 (1992), so they require a substantial threshold 
+showing of selective prosecution here. See also 
+Franks vy. Delaware, 438 U.S. 154, 155-156 (1978) 
+(requiring “substantial preliminary showing” as a 
+precondition to a hearing on a claim that a facially 
+valid warrant is invalid because the affiant lied to the 
+magistrate); Roviaro v. United States, 353 U.S. 53, 
+60-61 (1957) (requiring a substantial showing of 
+materiality as a precondition to obtaining discovery of 
+information that would disclose the identity of a 
+confidential informant). 
+
+The exercise of discretion in enforcing the criminal 
+law is a core element of the constitutional authority 
+of the Executive Branch, and judicial inquiry into 
+such prosecutorial decisionmaking “entails systemic 
+costs of particular concern.” Wayte v. United States, 
+470 U.S. 598, 607-608 (1985). While respondents’ 
+stated “central purpose” is “to obtain from the gov- 
+ernment an official articulation of its prosecution 
+criteria,” Martin Br. 59, this Court recognized the 
+general inappropriateness of forcing precisely that 
+form of disclosure in Wayte: 
+
+
+7 
+
+
+Examining the basis of a prosecution delays 
+the criminal proceeding, threatens to chill 
+law enforcement by subjecting the pros- 
+ecutor’s motives and decisionmaking to 
+outside inquiry, and may undermine prose- 
+cutorial effectiveness by revealing the 
+Government’s enforcement policy. 
+
+
+470 U.S. at 607. Those concerns “make the courts 
+properly hesitant to examine the decision whether to 
+prosecute.” Jd. at 608. See also McCleskey v. Kemp, 
+481 U.S. 279, 296-297 & n.18 (1987) (“the policy 
+considerations behind a prosecutor’s traditionally 
+‘wide discretion’” suggest the general “impropriety 
+of our requiring prosecutors to defend their deci- 
+sions”). 
+
+Nothing in Rule 16 suggests that the Rule was 
+intended to abrogate those well-established principles 
+and to make judicial inquiries into prosecutorial 
+decisionmaking a routine part of a criminal pro- 
+ceeding. Accordingly, when a defendant invokes Rule 
+16 to seek discovery to support a claim of selective 
+prosecution, he must make a substantial threshold 
+showing that unconstitutional selective prosecution 
+has occurred. 
+
+ec. The Martin respondents concede that some 
+threshold showing as to the merits of a proposed 
+defense must be made before discovery under Rule 
+16(a)(1)(C) may be ordered. They acknowledge that, in 
+the absence of an “objective standard” to determine 
+the “genuineness” of a defense, their construction of 
+Rule 16(a)(1)(C) would result in “the sort of fishing 
+expedition prohibited by criminal and civil discovery 
+principles alike.” Martin Br. 21-22. And respondents 
+do not suggest that the text of Rule 16 provides any 
+
+
+8 
+
+
+further guidance about the kind of threshold showing 
+required. Rather than interpreting the materiality 
+requirement in light of settled limitations on judicial 
+review of exercises of prosecutorial discretion, how- 
+ever, respondents contend that the test for whether 
+the documents relate to a “genuine defense” should be 
+“gauged by the standard of Rule 11” of the Federal 
+Rules of Civil Procedure. Martin Br. 14-15, 22-23. 
+Respondents would find that test to be satisfied when 
+“the information available to defense counsel is suffi- 
+cient to lead a reasonable attorney to conclude that 
+further inquiry on the subject is warranted.” /d. at 
+23. 
+
+For three reasons, Rule 11 provides no source of 
+guidance for the interpretation of Rule 16 of the 
+Federal Rules of Criminal Procedure. First, the set 
+of rules to which Rule 11 belongs is expressly limited 
+to “suits of a civil nature.” Fed. R. Civ. P. 1. There is 
+therefore no textual basis for applying Rule 11 in the 
+context of a criminal case. Second, Rule 11 applies to 
+pleadings or motions filed with the court, and is 
+expressly made “[liJnapplicab[le] to [d]iscovery,” see 
+Fed. R. Civ. P. 11(d). It thus provides a particularly 
+unsuitable frame of reference for measuring entitle- 
+ment to discovery in a criminal case. Third, it is 
+unlikely that any standard included in the Federal 
+Rules of Civil Precedure would be properly suited to 
+measure whether a criminal defendant may compel 
+discovery from the government on a claim of selective 
+prosecution. The Civil Rules establish a very 
+permissive discovery regime. See Fed. R. Civ. P. 26 
+(requiring voluntary disclosure of much information 
+regarding the case and permitting additional dis- 
+covery where reasonably calculated to lead to the dis- 
+covery of admissible evidence). In contrast, because 
+
+
+9 
+
+
+of the important public policy of expediting the reso- 
+lution of criminal cases, the Criminal Rules tightly 
+limit the scope of discovery. See U.S. Br. 19 n.1. 
+Given the very significant differences between the 
+purposes and scope of civil and criminal discovery 
+rules, it would be inappropriate to borrow any civil 
+discovery standard to give content to a criminal 
+discovery rule. 
+
+Even more significantly, the Martin respondents’ 
+proposed standard does not provide any meaningful 
+protection against intrusive and unnecessary in- 
+quiries into prosecutorial decisionmaking. The 
+inevitable consequence of adopting a standard that 
+depends on whether a “reasonable ttorney [would] 
+conclude that further inquiry on the subject is 
+warranted” would be to make judicial inquiries into 
+prosecutorial decisions routine in a wide range of 
+cases. As we point out in our petition (Pet. 22 & n.2, 
+24 & n.4), the standard adopted by the court of appeals 
+in this case has already led to repeated judicial 
+inquiries into claims of selective prosecution in crack 
+and illegal reentry cases. Adoption of respondents’ 
+standard, which appears to afford even less protection 
+for prosecutorial decisionmaking, could only acceler- 
+ate that trend. This Court’s cases do not counte- 
+nance that kind of routine encroachment on pros- 
+ecutorial authority.” 
+
+
+* Respondent Rozelle contends that, in order to obtain dis- 
+covery on a claim of selective prosecution, a criminal defendant 
+must establish a “colorable basis” for believing that selective 
+prosecution has occurred. Rozelle Br. 16-17. While courts have 
+often used the phrase “colorable basis” in describing the 
+standard for obtaining discovery on a selective prosecution 
+claim, they have also uniformly held that a defendant must 
+make a threshold showing that similarly situated offenders 
+
+
+10 
+
+
+2. Respondents next assert (Martin Br. 38-50) that 
+it is unnecessary to make a showing regarding 
+similarly situated offenders who were not prosecuted 
+as a prerequisite to discovery because, in re- 
+spondents’ view, such a showing is not an essential 
+element of a selective prosecution claim at all. 
+Respondents’ approach to proving selective pros- 
+ecution is incorrect. Absent direct evidence of dis- 
+criminatory motive, evidence that similarly situated 
+offenders have not been prosecuted is essential to 
+establish unconstitutional selective prosecution, see 
+U.S. Br. 21-25, 32-35, and evidence of the same 
+character is thus an essential element of a selective 
+prosecution discovery request. 
+
+a. The contrast between this Court’s decisions in 
+Yick Wo v. Hopkins, 118 U.S. 356 (1886), and Ah Sin 
+v. Wittman, 198 U.S. 500 (1905), reveals the impor- 
+tance to a selective prosecution claim of establishing 
+that similarly situated offenders have not been 
+prosecuted. In Yick Wo, the habeas petitioner’s 
+
+
+have not been prosecuted in order to establish a “colorable 
+basis.” See U.S. Br. 22-25. The court below is the first to find 
+a “colorable basis” for discovery without imposing a similarly 
+situated offender requirement. While the label for the test is of 
+limited importance, in our view a clearer description of the 
+proper standard would be to characterize it as a “substantial 
+threshold showing.” See Wade, 504 U.S. at 186 (noting 
+defendant’s concession that a “substantial threshold showing” is 
+required to obtain discovery on a claim that the government 
+has acted unconstitutionally in refusing to file a substantial 
+assistance motion). The critical point, however, is that there 
+must be an evidentiary showing to support the claim of 
+improper prosecutorial conduct, and, in this context, that 
+credible evidence must be produced that similarly situated 
+offenders have not been prosecuted before discovery may be 
+ordered. 
+
+
+% 
+
+
+11 
+
+
+showing that similarly situated offenders had not 
+been prosecuted led to a finding of an equal protection 
+violation, while in Ah Sin, the habeas petitioner’s 
+failure to allege that similarly situated persons had 
+not been prosecuted led to a dismissal of the 
+complaint. See U.S. Br. 32-34. Respondents contend 
+that Ah Sin merely reflects an application of “strin- 
+gent pleading requirement(s].” Martin Br. 43-44. 
+Under modern pleading requirements, the habeas 
+petitioner in Ah Sin might not have been required to 
+allege that similarly situated offenders had not been 
+prosecuted in order to survive a motion to dismiss. 
+But under the holding of that decision, he still would 
+have been required to prove that similarly situated 
+offenders had not been prosecuted in order to prevail 
+on the merits. Ah Sin, 198 U.S. at 506-508. 
+
+Nothing in Wayte rejects the view that a selective 
+prosecution claim depends on a showing that similar- 
+ly situated offenders were not prosecuted. Martin Br. 
+42-43. The defendant in Wayte was a vocal opponent of 
+the draft who reported his nonregistration to the 
+government. He alleged that the government had 
+impermissibly selected him for prosecution on the 
+basis of his vocal opposition to the draft. The evidence 
+established, however, that the government had a 
+neutral policy of prosecuting those who reported 
+their nonregistration to the government, including 
+those who were not vocal opponents of the draft. In 
+light of that evidence, the Court held that the 
+defendant had failed to establish that he had been 
+selected for prosecution based on his vocal opposition 
+to the draft because “[the] facts demonstrate that the 
+Government treated all reported nonregistrants 
+similarly. It did not subject vocal nonregistrants to 
+any special burden.” 470 U.S. at.610. 
+
+
+12 
+
+
+The Martin respondents’ contention (Br. 42-43) that 
+Wayte rejected a similarly situated offender require- 
+ment is therefore incorrect. The Court ruled against 
+the defendant in that case precisely because he was 
+unable to show that similarly situated offenders were 
+treated any differently from him.’ Wayte therefore 
+provides no support for dispensing at the discovery 
+stage with the threshold showing of discriminatory 
+selection. 
+
+b. In support of their contention that a selective 
+prosecution claim does not require proof that 
+similarly situated offenders have not been prosecuted, 
+the Martin respondents rely (Br. 41-42) on cases 
+arising under Title VII of the Civil Rights Act of 
+1964, 42 U.S.C. 2000e, and this Court’s decision in 
+Batson v. Kentucky, 476 U.S. 79 (1986). Selective 
+prosecution claims, however, raise unique concerns 
+that are not implicated by Title VII or Batson claims. 
+An employer may be required to defend a hiring or 
+promotion decision, or a litigant to defend a pre- 
+emptory challenge, without imposing any of the 
+“systemic costs” (Wayte, 470 U.S. at 607) associated 
+with requiring the government to justify to a federal 
+judge the charging decisions it has made in the case 
+at hand and potentially in many other cases. The 
+standards of proof applicable in those settings, there- 
+fore, cannot readily be applied to the selective 
+prosecution setting. 
+
+
+% The dissent in Wayte understood the majority to have 
+imposed a similarly situated offender requirement. The dis- 
+sent stated that “the Court errs in the manner in which it 
+analyzes the merits of the equal protection claim. It simply 
+focuses on the wrong problem when it states that the ‘Govern- 
+ment treated all reported nonregistrants similarly.” 470 U.S. 
+at 629-630 (Marshall, J., dissenting). 
+
+
+13 
+
+
+This Court’s decision in McCleskey v. Kemp, 481 
+U.S. 279 (1987), makes clear the special proof 
+requirements applicable here. In that case, the Court 
+held that claims that prosecutors have exercised 
+their discretion on the basis of race must be 
+supported by “exceptionally clear proof.” Jd. at 297. 
+For that reason, the Court held that the kind of 
+statistical evidence used to prove discrimination in 
+Title VII and jury venire cases could not be used as a 
+basis for shifting the burden of proof to a prosecutor 
+to justify his discretionary decisions. /d. at 293-297. 
+The Court explained that “the policy considerations 
+behind a prosecutor’s traditionally wide discretion 
+suggest the impropriety of our requiring prosecutors 
+to defend their decisions * * * often years after they 
+were made.” /d. at 296 (internal quotation marks 
+omitted). And it noted that “[rJequiring a prosecutor 
+to rebut a study that analyzes the past conduct of 
+scores of prosecutors is quite different from requir- 
+ing a prosecutor to rebut a contemporaneous chal- 
+lenge to his own acts.” Jd. at 296 n.17 (citing Batson). 
+In light of McCleskey, respondents’ reliance on the 
+procedural framework for proving Title VII and 
+Batson claims is misplaced.* 
+
+In any event, where, as here, a party seeks to raise 
+an inference of discrimination based on a statistic or a 
+pattern, Title VII and Batson both require a proper 
+
+
+* Respondents attempt to distinguish McCleskey on the 
+ground that it involved a challenge to decisions made by juries. 
+Martin Br. 52-53. The claim in McCleskey, however, was that 
+both juries and prosecutors had exercised their discretion on 
+the basis of race. And the Court’s holding that such a claim 
+must be supported by “exceptionally clear proof” (481 U.S. at 
+297) applied to both the discretionary decisions of juries and the 
+discretionary decisions of prosecutors. /d. at 294-297. 
+
+
+14 
+
+
+comparison pool. In the Title VII context, the Court 
+has made clear that a plaintiff cannot establish a 
+prima facie case of a discriminatory effect or a dis- 
+criminatory purpose merely by showing that there is 
+a low percentage of minority employees in a partic- 
+ular job. Rather, there must be a comparison “be- 
+tween the racial composition of the qualified persons 
+in the labor market and the persons holding at-issue 
+jobs.” Wards Cove Packing Co. v. Atonio, 490 U.S. 
+642, 650 (1989) (discriminatory effect); Hazelwood 
+School Dist. v. United States, 433 U.S. 299, 306-308 
+(1977) (discriminatory intent). Similarly, in the 
+Batson context, a prima facie case may not be estab- 
+lished based solely on evidence that a litigant exer- 
+cised preemptory challenges to exclude potential 
+jurors of a particular race. For example, a party who 
+strikes ten black jurors in a row has not committed a 
+prima facie Batson violation if all of the prospective 
+jurors on the venire are black. A pattern of striking 
+jurors of a particular race is significant only if the 
+litigant has declined to strike jurors of a different 
+race. 
+
+c. The Martin respondents argue that, in a variety 
+of settings, a prosecutor’s improper selection of a 
+person for prosecution based solely on his race would 
+be immunized from scrutiny by a requirement that a 
+defendant must identify similarly situated offenders 
+who were not prosecuted. Br. 39-40. They claim, for 
+example, that that result would follow when the 
+defendants are charged with an offense that is 
+committed exclusively by members of one race. [bid. 
+That claim is incorrect. If the defendant in such a 
+hypothetical could produce direct evidence of dis- 
+criminatory intent, or show that he is similarly 
+situated in all relevant respects to persons who 
+
+
+15 
+
+
+commit a different offense but are not prosecuted, an 
+Equal Protection violation could be sufficiently 
+indicated (at the discovery stage) or established (on 
+the merits). There is no reason to think that if such 
+unconstitutional action were taking place, defendants 
+would be unable to obtain some credible evidence of it 
+—and if no such evidence were available, it would 
+plainly be inappropriate to license a “fishing ex- 
+pedition” for it. Martin Br. 22. 
+
+In any event, respondents’ claim in this case is not 
+that prosecutors have chosen to prosecute crack 
+offenses because they are committed exclusively by 
+members of one race. Rather, their claim is that 
+federal prosecutors have selected black crack offend- 
+ers for federal prosecution, while leaving white crack 
+offenders to be prosecuted by the State of California. 
+Respondents virtually concede that proof of similarly 
+situated offenders who have not been prosecuted is 
+essential to that claim by stating that, “[t]o the 
+extent that a defendant argues that improper invid- 
+ious distinctions were made within a particular group 
+of offenders, such as crack dealers, the com-parative 
+treatment of other members of that group would of 
+course be important evidence.” Martin Br. 44-45. 
+
+3. The Martin respondents contend that requiring 
+a showing that similarly situated offenders have not 
+been prosecuted at the discovery stage would impose a 
+“crippling burden of proof” that will allow racial 
+discrimination to escape undetected. Martin Br. 45-50 
+& n.66. As we note in our opening brief, however, 
+defendants in other cases have satisfied the similarly 
+situated offender requirement at the discovery stage, 
+U.S. Br. 26-27, and if there were any merit to re- 
+spondents’ claim in this case, they should have been 
+able to satisfy that requirement as well. 
+
+
+16 
+
+
+One of respondents’ counsel submitted a conclusory 
+affidavit below asserting that, in his capacity as a 
+member of the Board of Directors of the Los Angeles 
+County Criminal Courts Bar Association Indigent 
+Defense Panel, he regularly conversed with “many 
+state court judges, prosecutors, and defense attor- 
+neys.” J.A. 141. There is no reason that respondents 
+could not have obtained concrete information from 
+those sources concerning whether persons who were 
+similarly situated to them were prosecuted by the 
+State of California. The Federal Public Defender’s 
+Office in this case searched its own records for 
+information concerning cases closed by its office; 
+there is no reason that it could not have conducted a 
+comparable study of cases closed by local public 
+defenders during the same period. Finally, California 
+law generally makes court records available to the 
+public. Copley Press, Inc. v. Superior Court, 7 Cal. 
+Rptr.2d 841, 843-844 (1992). Respondents were free to 
+review those files for evidence that similarly situated 
+persons were prosecuted in state court.’ Thus, while 
+the similarly situated offender requirement serves as 
+
+
+5 Respondents themselves indicate the feasibility of such an 
+inquiry, by referring to the “Berk study,” which was not 
+introduced in this case and is not a part of the record here. 
+That study purported to compare the rates at which blacks are 
+prosecuted for crack offenses in state and federal court. 
+Martin Br. 12-13. While Judge Reinhardt relied on that study 
+in his panel dissent, Pet. App. 101a-102a, in our en banc brief, 
+we objected to the propriety of taking judicial notice of such 
+matters, noting that the study had been extensively attacked 
+for its failure, inter alia, to compare similarly situated 
+defendants and could not be described as “not subject to 
+reasonable dispute.” U.S. En Banc Br. 8 & n.6 (quoting Fed. 
+R. Evid. 201(a) and (b)). The en bane majoriy opinion did not 
+refer to the Berk study. 
+
+
+17 
+
+
+an effective threshold screening device, it does not 
+block meritorious claims.° 
+
+The Martin respondents assert that it would have 
+been easier for the government to produce informa- 
+tion concerning similarly situated offenders than for 
+the respondents to obtain such information them- 
+selves. Martin Br. 46-47. The relative ease of 
+acquiring information bears on the propriety of 
+discovery, however, only after a defendant makes the 
+requisite threshold showing of the defense in 
+question. Because it is generally easier for the 
+government than for criminal defendants to obtain 
+information, any other view would lead to the 
+
+
+® It is not our view that “the district judge in this case 
+could properly have issued a subpoena to California officials 
+directing them to produce information about cocaine base 
+dealers prosecuted in state court.” Martin Br. 18. A subpoena 
+duces tecum under Fed. R. Crim. P. 17 is “not intended to 
+provide a means of discovery for criminal cases.” United 
+States v. Nixon, 418 U.S. 683, 698 (1974), citing Bowman Dairy 
+Co. v. United States, 341 U.S. 214, 220 (1951). And if respond- 
+ents were seeking evidence under Rule 17 for use at a hearing 
+relating to a selective prosecution defense, they would be 
+required to make the same threshold showing that similarly 
+situated offenders have not been prosecuted that is required by 
+Rule 16. United States v. Berrios, 501 F.2d 1207, 1211 (2d Cir. 
+1974); see also United S* tes v. Nixon, 418 U.S. at 698-670 (a 
+party seeking to enforce a Rule 17 subpoena must make a 
+preliminary showing that the materials sought are relevant and 
+admissible); 2 Charles A. Wright, Federal Practice and 
+Procedure § 275, at 160 n.8 (2d ed. 1982). The government's 
+statement below that respondents could have pursued sub- 
+poenas to obtain state law enforcement records (see Martin Br. 
+18 n.47) was intended to underscore that respondents had made 
+no independent efforts to obtain the information they sought— 
+not to suggest that such subpoenas could have been enforced 
+over the state’s objection. 
+
+
+18 
+
+
+unacceptable conclusion that a defendant need only 
+allege unconstitutional selective prosecution in order 
+to obtain discovery on that claim. 
+
+4. Finally, the Martin respondents argue that the 
+meaning of a similarly situated comparison pool is 
+elusive and that absent discovery, they had no basis 
+for determining the offenders who were “similarly 
+situated” to them. Martin Br. 59. That argument is 
+without merit. Respondents were required to show, 
+at a minimum, that there were offenders not pros- 
+ecuted who engaged in conduct comparable to the 
+conduct that they were charged with committing. 
+See U.S. Br. 35 n.4. A prosecutor is presumed to act 
+in good faith. See U.S. Br. 18-19, 29-30. Accordingly, 
+when persons not prosecuted have engaged in conduct 
+that is significantly different from those who were 
+prosecuted, the presumption is that the difference in 
+treatment is based on the difference in conduct and 
+not on impermissible considerations such as race. To 
+overcome that presumption, the defendant must make 
+a threshold showing that at least some persons known 
+to the prosecutor have not been prosecuted for 
+engaging in conduct that is sufficiently similar to the 
+conduct that the defendant is charged with com- 
+mitting. 
+
+Accordingly, the starting point for respondents was 
+the criminal conduct with which they were charged in 
+the indictment against them. In this case, the 
+indictment against respondents charged them with 
+conspiring to distribute more than 50 grams of 
+cocaine base, and with using guns in furtherance of 
+that conspiracy. J.A. 60-65. Under federal law, both 
+the quantity of drugs and the use of a gun signifi- 
+cantly affect the seriousness of a drug trafficking 
+offense. See 21 U.S.C. 841(b)(1) (1988 & Supp. V 1993) 
+
+
+19 
+
+
+(setting a ten-year minimum for sale of more than 50 
+grams of cocaine base, and a five-year minimum for 
+sale of more than five grams of cocaine base); 18 
+U.S.C. 924(c) (1988 & Supp. V 1993) (setting an 
+additional five-year penalty for use of a gun in 
+relation to a drug trafficking offense). To satisfy the 
+similarly situated offender requirement, respondents 
+were therefore required to show that others who 
+were not prosecuted conspired to distribute a 
+comparable amount of cocaine base and used guns in 
+furtherance of that conspiracy. As the panel below 
+correctly concluded (Pet. App 82a-83a), because 
+respondents failed to make that showing, the district 
+court abused its discretion in ordering discovery in 
+this case. 
+~ * * * * 
+
+
+For the foregoing reasons and those stated in our 
+opening brief, the judgment of the court of appeals 
+should be reversed. 
+
+
+Respectfully submitted. 
+
+
+Drew S. Days, Ill 
+Solicitor General 
+
+
+FEBRUARY 1996 
+
+

@@ -1,0 +1,642 @@
+¶1
+      
+Holly Farms Corporation and Tyson Foods, Inc.  ("Holly Farms" and "Tyson"--collectively, "the Company") have petitioned for review of a decision and order of the respondent, the National Labor Relations Board ("NLRB" or "the Board"), which found that the Company had committed unfair labor practices in violation of Secs. 8(a)(1), (3), and (5) of the National Labor Relations Act ("the Act"), 49 Stat. 449, as amended, 29 U.S.C. Secs. 158(a)(1), (3) and (5).  Holly Farms Corp., 311 N.L.R.B. 273 (1993).  The NLRB has cross-applied for enforcement of its order, and the Chauffeurs, Teamsters and Helpers Local Union Nos. 29, 71, 355, 391, 592, 657, and 988 (collectively, "the Union") have intervened as respondents.
+    
+    
+
+      ¶2
+      
+* Tyson is engaged in the production, processing, and transportation of poultry.  Tyson operates production facilities, as well as transportation terminals between Texas and North Carolina.  From those terminals, drivers in Tyson's transportation department transport its poultry products to customers throughout the United States.
+    
+    
+
+      ¶3
+      
+As of October 1988, Holly Farms was engaged in the production, processing, and transportation of poultry at its headquarters facility in Wilkesboro, North Carolina, and at other facilities in North Carolina, Virginia, and Texas.  At that time, Tyson submitted a bid to purchase Holly Farms' stock.
+    
+    
+
+      ¶4
+      
+On July 18, 1989, Tyson acquired a controlling interest in Holly Farms, but Holly Farms continued its existence as a corporate entity.  Holly Farms' business operations remained virtually unchanged for about two months.  Eventually, Holly Farms announced that Tyson had decided to integrate part, but not all, of Holly Farms' operations into its own.
+    
+    
+
+      ¶5
+      
+In December 1988, while Tyson's bid to purchase Holly Farms' stock was pending, the Union launched organizing campaigns in three separate units of Holly Farms employees.  One of those units consisted of production employees at the Wilkesboro facility and elsewhere.  The second unit ("the drivers-yardmen unit") consisted of drivers and yardmen at several facilities in Holly Farms' transportation department.  And the third unit ("the live-haul unit") consisted of the Wilkesboro facility's live-haul crews and various workers at Holly Farms' facility in Roaring River, North Carolina.
+    
+    
+
+      ¶6
+      
+The Board found that Holly Farms committed numerous unfair labor practices during those three organizing campaigns.  See Holly Farms Corp. v. NLRB, supra.   Many of the Board's findings are uncontested here.  For example, it is uncontested that, during the Union's organizing campaign in the drivers-yardmen unit, Holly Farms officials, including its President, repeatedly threatened that Holly Farms would eliminate the transportation department and terminate all of its employees if the Union won the election.  Even after the Union won the election and was certified to represent the unit, Holly Farms threatened employees with arrest for handing out union literature, and then it actually had three employees arrested when they distributed union literature in a company parking lot.  In addition, the Company unlawfully discharged four pro-union activists in the production employees unit who had asked their co-workers to sign union authorization cards or to support the Union.
+    
+    
+
+      ¶7
+      
+The Company does not dispute the above-described unfair labor practices, and the Board's order with respect to those uncontested violations can be summarily enforced.  See NLRB v. Frigid Storage, Inc., 934 F.2d 506, 509 (4th Cir.1991).  Of those findings that the Company does dispute, some are clearly supported by substantial evidence.  Only two of the issues presented in the Company's petition for review merit extended discussion:  (1) whether Tyson violated any duty that it may have had to bargain with the Union regarding the drivers-yardmen unit;  and (2) whether the workers in the live-haul unit were "employees" protected by the Act or "agricultural laborers" excluded from the Act's coverage.
+    
+    
+II
+    
+
+      ¶8
+      
+The Board's findings are conclusive "if supported by substantial evidence on the record considered as a whole."  29 U.S.C. Sec. 160(e).  A reviewing court "may [not] displace the Board's choice between two fairly conflicting views, even though the court would justifiably have made a different choice had the matter been before it de novo."  Universal Camera Corp. v. NLRB, 340 U.S. 474, 488, 71 S.Ct. 456, 465, 95 L.Ed. 456 (1951).
+    
+    
+III
+    
+
+      ¶9
+      
+The first question presented is whether Tyson violated any duty that it may have had to bargain with the Union regarding the wages, hours, and other terms and conditions of employment for members of the drivers-yardmen unit.  That question, in turn, can be divided into two sub-questions:  whether (and, if so, when) Tyson had a duty to bargain with the Union;  and whether Tyson violated that duty by unilaterally setting the terms and conditions of employment for Holly Farms employees who joined Tyson's newly-integrated transportation department.
+    
+    
+
+      ¶10
+      
+* On March 24, 1989, following a Board-conducted election, the Union was certified to represent Holly Farms employees in the drivers-yardmen unit.  Thereafter, the Union and Holly Farms bargained unsuccessfully for a contract.  On July 18, 1989, Tyson acquired a controlling interest in Holly Farms' stock.  For the next two monthsuntil Tyson converted some of the drivers and yardmen to its own payroll on September 22--Tyson did not make any significant changes in Holly Farms' business operations.
+    
+    
+
+      ¶11
+      
+By September 11, Tyson had decided to integrate the entire Holly Farms transportation department into its own transportation department.  The following day, Holly Farms announced that decision to the Union.  Holly Farms also announced to the employees--without bargaining with their duly elected Union representative--that they would be offered jobs as Tyson employees, under Tyson's pay plan and working conditions, which were substantially different from, and at least arguably inferior to, those of Holly Farms.  Holly Farms also stated that its transportation department would no longer exist after the integration and that, therefore, the Union no longer represented the employees.  Subsequently, Tyson sent the employees letters which offered them jobs as Tyson employees, on Tyson's terms, and which required them to respond by September 22.  Forty-seven of the unit employees refused the offer because of those terms and lost their jobs as of September 22.
+    
+    
+
+      ¶12
+      
+The Board found that Tyson came under a duty to bargain with the Union at the time of the stock purchase (on July 18, 1989) and that thereafter Tyson committed numerous violations of Sec. 8 of the Act.  We hold that the evidence supports those findings.
+    
+    
+B
+    
+
+      ¶13
+      
+Section 8(a)(5) of the Act, 29 U.S.C. Sec. 158(a)(5), in conjunction with Sec. 9(a) of the Act, id. Sec. 159(a), makes it an unfair labor practice for an employer to refuse to bargain with the union selected by the majority of its employees in an appropriate unit.  A union that is certified by the Board after winning a Board-conducted election is entitled to a "conclusive presumption" of majority support among the employees for one year after certification.  See Fall River Dyeing & Finishing Corp. v. NLRB, 482 U.S. 27, 37, 107 S.Ct. 2225, 2232-33, 96 L.Ed.2d 22 (1987).  Accordingly, absent unusual circumstances, an employer violates Sec. 8(a)(5) by withdrawing recognition from a union during its certification year.  See id. at 37-39, 107 S.Ct. at 2232-34;  Brooks v. NLRB, 348 U.S. 96, 98-99, 75 S.Ct. 176, 178-79, 99 L.Ed. 125 (1954).
+    
+    
+
+      ¶14
+      
+The Board and Petitioners agree that on March 24, 1989, the Union became certified to represent certain Holly Farms employees.  Thus Holly Farms had a duty to recognize and bargain with the Union until March of 1990.  Further, the most recent Supreme Court case involving these issues explains:
+    
+    
+
+      ¶15
+      
+"[A] mere change of employers or of ownership in the employing industry is not such an 'unusual circumstance' as to affect the force of the Board's certification within the normal operative period if a majority of employees after the change of ownership or management were employed by the preceding employer."
+    
+    
+
+      ¶16
+      
+Fall River, 482 U.S. at 37, 107 S.Ct. at 2233 (quoting NLRB v. Burns Int'l Security Servs., Inc., 406 U.S. 272, 279, 92 S.Ct. 1571, 1577, 32 L.Ed.2d 61 (1972) (emphasis added)).  Here, the new owner, Tyson, employed exclusively Holly Farms employees in unchanged Holly Farms units for two months.  Thus the force of the Union's certification remained in effect.
+    
+    
+
+      ¶17
+      
+When there is "substantial continuity" between a new business enterprise and a previous enterprise, a new employer may be obligated to recognize and bargain with a certified union which represented the employees while they worked for the predecessor employer.  See Fall River, 482 U.S. at 43, 107 S.Ct. at 2236;  Burns, 406 U.S. at 277-81, 92 S.Ct. at 1576-79;  Zady Natey, Inc. v. United Food and Commercial Workers Int'l Union, 995 F.2d 496, 498 (4th Cir.), cert. denied, 114 S.Ct. 470 (1993).  Such a new employer has been termed a "successor."   E.g., Fall River, 482 U.S. at 41, 107 S.Ct. at 2234-35;  Burns, 406 U.S. at 284, 92 S.Ct. at 1590.   If the new employer is not an entirely separate corporate entity, but rather has purchased the stock of the predecessor employer, the new employer may be further obligated to adhere to the terms of any existing collective bargaining agreement ("CBA") between the predecessor employer and the union.  See, e.g., Burns, 406 U.S. at 291, 92 S.Ct. at 1584 ("[I]n a variety of circumstances involving a merger, stock acquisition, reorganization, or assets purchase, the Board might properly find as a matter of fact that the successor had assumed the obligations under the old contract.")  (dicta);  Esmark, Inc. v. NLRB, 887 F.2d 739, 751 (7th Cir.1989);  see also Hendricks-Miller Typographic Co., 240 N.L.R.B. 1082, 1085 (1979) (holding that a new stockowner inherits the previous owner's obligations to employees, specifically obligations formed by corporation membership in a multiemployer unit).  Some have called such an employer a "successor," Burns, 406 U.S. at 291, 92 S.Ct. at 1584 (dicta);  others have rejected this terminology in light of the fact that an ordinary "successor" is not bound by any existing CBA, Esmark, 887 F.2d at 751;  Hendricks-Miller, 240 N.L.R.B. at 1085.  See also Golden State Bottling Co. v. NLRB, 414 U.S. 168, 180, 94 S.Ct. 414, 423, 38 L.Ed.2d 388 (1973) (referring to a purchaser of a business as a "successor," but calling the business itself a "continuing business enterprise").  When the predecessor employer continues as a corporate entity, that employer remains bound by its existing duties to the union, and has been called a "continuing employer."  EPE, Inc. v. NLRB, 845 F.2d 483, 487 (4th Cir.1988).  In such a situation, both the "continuing employer" and the new stockowner have joint simultaneous duties to the union.  See Miami Foundry Corp. v. NLRB, 682 F.2d 587, 589 (6th Cir.1982) (per curiam) (holding a new managing corporation and two stockholders, one owning 59 percent of the corporation and one owning the remainder, to be three joint employers, jointly under a duty to negotiate with the union which had been formed earlier, at a time when the employees were employed by only one of the stockholders).
+    
+    
+
+      ¶18
+      
+In the instant case, the Board found that Tyson became a "successor" to Holly Farms as of July 18, 1989, the date that Tyson purchased Holly Farms' stock.  In our review, we "must defer to the NLRB's application" of successorship principles "so long as it is rational and not inconsistent with the [Act]." EPE, 845 F.2d at 489-90 (quoting United Food and Commercial Workers Int'l Union v. NLRB, 768 F.2d 1463, 1470 (D.C.Cir.1985)).  Looking beyond the terminology to the principles at play here,
+    
+    
+
+      ¶19
+      
+"[t]he real question in each of these 'successorship' cases is, on the particular facts, what are the legal obligations of the new employer to the employees of the former owner or their representative.  The answer to this inquiry requires analysis of the new employer and of the policies of the labor laws....  There is, and can be, no single definition of 'successor' which is applicable in every context."
+    
+    
+
+      ¶20
+      
+NLRB v. General Wood Preserving Co., 905 F.2d 803, 819 (4th Cir.)  (quoting Howard Johnson Co. v. Hotel Employees, 417 U.S. 249, 262 n. 9, 94 S.Ct. 2236, 2243 n. 9, 41 L.Ed.2d 46 (1974)), cert. denied, 498 U.S. 1016, 111 S.Ct. 590, 112 L.Ed.2d 595 (1990).  Whatever terms we use--whether we call Tyson a "successor," or a "new stockowner," or a "joint employer"--substantial evidence and the policies of the labor laws support the Board's finding here that Tyson came under a duty to bargain with the Union when it purchased Holly Farms.  Although Tyson might also be obligated to adhere to the terms of any existing CBA, see, e.g. Esmark, 887 F.2d at 751, we need not decide that issue, as no CBA yet existed between the Union and Holly Farms.
+    
+    
+
+      ¶21
+      
+Although the Supreme Court has yet to decide the question, the policies behind the labor laws compel the finding that a new stockowner acquires the duty to bargain with an existing union at the time of a stock transfer.  The policy underlying the National Labor Relations Act is to promote industrial peace.  E.g. EPE, 845 F.2d at 489.   The successorship doctrine as expressed in Burns, supra, 406 U.S. 272, 92 S.Ct. 1571, 32 L.Ed.2d 61, seeks to promote this policy "by forestalling the employee frustration that could result if employees found themselves in substantially the same job, but deprived of the representation of their union."  EPE, 845 F.2d at 489, citing Fall River, 482 U.S. at 38, 107 S.Ct. at 2233.   From the perspective of the employees, a stock transfer is simply a shell game;  as we explained in EPE, supra:
+    
+    
+
+      ¶22
+      
+[I]ndustrial peace may suffer if workers find themselves working at the same job for the same corporation, but suddenly deprived of the benefits of a collective bargaining agreement as the result of a stock transaction that, from the workers' point of view, appears little more than an artifice.
+    
+    
+
+      ¶23
+      
+Every change in corporate ownership cannot raise the specter of disruption in the labor relations of the company being bought or sold.
+    
+    
+
+      ¶24
+      
+845 F.2d at 489.   The Supreme Court has expounded further, in holding that an arbitration clause of a collective bargaining agreement between a union and an employer binds a "successor employer" who merges the first employing corporation into its own:
+    
+    
+
+      ¶25
+      
+Employees, and the union which represents them, ordinarily do not take part in negotiations leading to a change in corporate ownership.  The negotiations will ordinarily not concern the well-being of the employees, whose advantage or disadvantage, potentially great, will inevitably be incidental to the main considerations.  The objectives of national labor policy, reflected in established principles of federal law, require that the rightful prerogative of owners independently to rearrange their businesses and even eliminate themselves as employers be balanced by some protection to the employees from a sudden change in the employment relationship....
+    
+    
+
+      ¶26
+      
+... While the principles of law governing ordinary contracts would not bind to a contract an unconsenting successor to a contracting party, a collective bargaining agreement is not an ordinary contract....
+    
+    
+
+      ¶27
+      
+John Wiley & Sons v. Livingston, 376 U.S. 543, 549-50, 84 S.Ct. 909, 914, 11 L.Ed.2d 898.   Moreover, "the usual corporate law rule is that the contracts of a corporation remain in effect despite a sale of the corporation's stock."  Esmark, 887 F.2d at 751;  see also John Wiley, 376 U.S. at 550 n. 3, 84 S.Ct. at 914 n. 3.
+    
+    
+
+      ¶28
+      
+In light of these labor policy concerns, the evidence amply supports the Board's finding that as of July 18, 1989, the date that Tyson purchased the Holly Farms' stock, Tyson came under a duty to bargain with the Union previously formed by Holly Farms employees.  For two months after the purchase, Tyson made no significant changes in Holly Farms' operations.  Holly Farms--under Tyson's ownership--continued to engage in the same business operations at the same locations, selling the same products to the same customers, and it retained all of its employees under the same supervision and the same wages, hours, and working conditions.  Those facts establish substantial continuity between Holly Farms and Tyson.  In view of that continuity, the employees would "understandably view their job situations as essentially unaltered," and could reasonably be expected to continue their support for the Union.  Fall River, 482 U.S. at 43, 107 S.Ct. at 2236;  accord General Wood Preserving Co., 905 F.2d at 819;  Nephi Rubber Prods.  Corp. v. NLRB, 976 F.2d 1361, 1364-66 (10th Cir.1992);  cf.  NLRB v. Dent, 534 F.2d 844, 846 n. 2 (9th Cir.1976) (because the successor had preserved the predecessor's wage rates for just two weeks following a takeover, the successor could not thereafter alter those rates unilaterally).
+    
+    
+
+      ¶29
+      
+Additionally, the employees at issue here were frustrated in their attempts to negotiate with their employer by the fact that Tyson did not negotiate with their Union.  Holly Farms suspended serious negotiations with the Union while Tyson was in the process of purchasing Holly Farms' stock.  The recently unionized employees remained in identical jobs, yet were left in limbo, no employer having offered to negotiate with their Union.  Therefore, the Board reasonably found that Tyson came under a duty to negotiate with the union as an employer ("successor" or otherwise) in July 1989.1
+    
+    
+C
+    
+
+      ¶30
+      
+Next we must determine whether Tyson violated its duty to bargain with the Union when it unilaterally set certain terms and conditions of employment for members of the drivers-yardmen unit.  We conclude that the Board's finding that Tyson violated Sec. 8 of the Act was supported by substantial evidence.
+    
+    
+
+      ¶31
+      
+An employer's duty to bargain with its union encompasses the obligation to bargain over the following mandatory subjects--"wages, hours, and other terms and conditions of employment."  29 U.S.C. Sec. 158(d);  see id. Sec. 158(a)(5).  That obligation includes a duty to bargain about the "effects" on employees of a management decision that is not itself subject to the bargaining obligation.  See First Nat'l Maintenance Corp. v. NLRB, 452 U.S. 666, 679-82, 101 S.Ct. 2573, 2581-83, 69 L.Ed.2d 318 (1981);  NLRB v. Litton Fin.  Printing Div., 893 F.2d 1128, 1133-34 (9th Cir.1990), rev'd in part on other grounds, 501 U.S. 190, 111 S.Ct. 2215, 115 L.Ed.2d 177 (1991).  Where changes in employee working conditions constitute such a bargainable effect, an employer violates Secs. 8(a)(5) and (1) of the Act by implementing those changes without bargaining with the union.  See Litton, 893 F.2d at 1133-34.   The employer also violates Secs. 8(a)(5) and (1) if it negotiates directly with its employees, rather than with their union representative, about such changes.  See EPE, 845 F.2d at 491.
+    
+    
+
+      ¶32
+      
+On September 12, 1989, the Company announced that the employees in the drivers-yardmen unit would be offered jobs as Tyson employees under Tyson's working conditions.  That announcement plainly changed a wide range of matters--including wages, hours, work rules, work schedules, and work locations--that go to the heart of the bargaining obligation under Sec. 8 of the Act.  The Company announced those changes in conjunction with its announcement of its integration decision, merging Holly Farms' and Tyson's transportation departments.  Thus, the Board concluded, the changes and the offer to employees to work under those changes were "effects" of the integration decision and were subject to the duty to bargain.
+    
+    
+
+      ¶33
+      
+Following the announcements of September 12, the Company sent letters to the employees offering them jobs as Tyson employees under Tyson's working conditions, and it met with groups of employees to discuss those working conditions.  The Company did not give the employees the option of remaining employed under their existing working conditions.  Forty-seven drivers who refused the offer because it included Tyson's working conditions lost their jobs.  Thus, the Company bypassed the Union and negotiated directly with the employees about their working conditions;  and, as a result, forty-seven members of the drivers-yardmen unit lost their jobs.
+    
+    
+
+      ¶34
+      
+The Company and the Board have agreed that the decision to integrate the two transportation departments was a management decision that was not itself subject to the bargaining obligation.  The Company has argued that the establishment of new working conditions for the Holly Farms employees was an integral part of that management decision.  The Board has countered that the working conditions were "effects" of that decision, rather than intrinsic parts of the decision itself, and therefore were subject to the duty to bargain.
+    
+    
+
+      ¶35
+      
+The Supreme Court in First National Maintenance, supra, enunciated a distinction between "economically-motivated" management decisions, 452 U.S. at 680, 101 S.Ct. at 2581-82, and the "effects" of those decisions.  Id. at 677 n. 15, 682, 101 S.Ct. at 2580 n. 15, 2582-83.   In Litton, supra, the Ninth Circuit expounded upon that distinction.  On the one hand, there is the management decision itself, including any subject that is " 'inexorably' " intertwined with, or the "inevitable consequence" of, that decision.  893 F.2d at 1133 n. 3, 1134 (quoting First Nat'l Maintenance, 452 U.S. at 677, 101 S.Ct. at 2580).   For example, when a company decides to shut down a plant entirely, the resulting layoff of the plant's workers may be an "inevitable consequence" of the decision itself.  On the other hand, there may be mere "effects," which are "not the inevitable consequence of the underlying management decision."  Id. at 1134 (emphasis added).  Where a company had feasible alternatives that it could have explored with the union, without reconsidering its underlying management decision, those alternatives are mandatory subjects of bargaining.  The mere fact that the alternatives may increase labor costs does not make them "infeasible."   See id.  (citing First Nat'l Maintenance, 452 U.S. at 680, 101 S.Ct. at 2581).
+    
+    
+
+      ¶36
+      
+Here, it was not inevitable for the Company to impose Tyson's pay plan and working conditions upon Holly Farms' drivers.  Generally, Tyson's pay plan provided the truck drivers with lower pay per mile but somewhat higher pay per delivery, or "drop," than Holly Farms' pay plan.  We are not convinced that the substitution of Tyson's pay structure for Holly Farms' was an "inevitable consequence" of the management decision to integrate the two transportation departments.  Furthermore, as Tyson concedes, it tried to accommodate the drivers' individual preferences as to the duration and mileage of their hauls, which tended to be much longer under Tyson's system than under Holly Farms'--a major point of contention between the Company and the drivers.  From those facts alone, it was reasonable for the Board to infer that there was room for bargaining over the drivers' working conditions, had Tyson been willing to bargain.  Therefore, the Board reasonably concluded that the changes unilaterally established by Tyson concerned mandatory subjects of bargaining--"effects" of the nonbargainable decision to integrate Tyson's and Holly Farms' transportation departments.  Accordingly, we enforce the Board's order to the extent that it found Tyson's refusal to bargain with the Union to be a violation of the Act.
+    
+    
+IV
+    
+
+      ¶37
+      
+The other significant question presented for review is whether any of the employees in the live-haul bargaining unit fell outside the coverage of the Act.  The Company has argued that the unit was inappropriate because it contained "agricultural laborers," who are not subject to the Act.  Therefore, the Company has contended, the Board committed an error of law when it approved the bargaining unit.2
+    
+    
+
+      ¶38
+      
+On review, our function is a " 'limited' " one.  Bayside Enters., Inc. v. NLRB, 429 U.S. 298, 304 n. 14, 97 S.Ct. 576, 581 n. 14, 50 L.Ed.2d 494 (1977) (quoting NLRB v. Hearst Publications, Inc., 322 U.S. 111, 131, 64 S.Ct. 851, 860, 88 L.Ed. 1170 (1944)).  The Board's determination that the employees in the live-haul bargaining unit were covered by the Act " 'is to be accepted if it has "warrant in the record" and a reasonable basis in law.' "  Bayside, 429 U.S. at 304 n. 14, 97 S.Ct. at 581 n. 14 (quoting Hearst Publications, 322 U.S. at 131, 64 S.Ct. at 861).   Regardless of how we, as a federal court, might have resolved the question as an initial matter, we must give appropriate weight to the judgment of the Board, whose special duty is to apply the Act's broad statutory language to an almost unlimited variety of fact patterns.  See Bayside, 429 U.S. at 304, 97 S.Ct. at 581;  cf.  NLRB v. United Ins. Co., 390 U.S. 254, 260, 88 S.Ct. 988, 991-92, 19 L.Ed.2d 1083 (1968);  NLRB v. Coca-Cola Bottling Co., 350 U.S. 264, 269, 76 S.Ct. 383, 386, 100 L.Ed. 285 (1956);  Universal Camera Corp., 340 U.S. at 488, 71 S.Ct. at 464-65;  NLRB v. Pilot Freight Carriers, Inc., 558 F.2d 205, 207-08 (4th Cir.1977), cert. denied, 434 U.S. 1011, 98 S.Ct. 723, 54 L.Ed.2d 754 (1978).
+    
+    
+
+      ¶39
+      
+* The live-haul unit, as approved by the Board, consisted of two groups of North Carolina employees:  the Wilkesboro facility's live-haul crews;  and the Roaring River facility's feed mill employees, feed-haul drivers, and mechanics.  The Company has conceded that the Roaring River workers were statutory "employees" protected by the Act.  The Company's sole claim of error is that the live-haul workers at the Wilkesboro facility--i.e., the live-haul truck drivers, forklift operators, and "chicken catchers"--were agricultural laborers, who fall outside the Act's coverage and therefore should not have been included in the bargaining unit.
+    
+    
+
+      ¶40
+      
+The Wilkesboro plant is a vertically integrated poultry operation.  In its hatchery operations, Holly Farms hatches pullets, or laying hens.  At twenty weeks of age, the pullets are transferred to "laying houses" operated by independent "contract growers."   The eggs produced by the pullets are transported back to the Holly Farms hatchery operations, where they are hatched.  The Company transports the resulting chicks to independent contract growers who are paid to raise the chicks into full-grown broiler chickens.  When the birds are seven weeks old, the live-haul crews catch, cage, and transport them to a storage and cooling area near the processing plant, where they will be slaughtered and prepared for market.
+    
+    
+
+      ¶41
+      
+The employees in the live-haul unit serve as the Wilkesboro facility's chicken-catching crews.  A crew consists of a live-haul truck driver, a forklift operator, and about nine "chicken catchers."3  The live-haul driver drives a flat-bed truck, which carries the entire crew to the farms of the independent contract growers who raise the broiler chickens.  Under cover of darkness, the chicken catchers manually catch and cage the chickens, the forklift operator places the steel cages on the flat-bed truck, and the truck delivers the chickens to a storage area near the Company's processing plant.
+    
+    
+B
+    
+
+      ¶42
+      
+The protections of the Act extend only to statutory "employees."   Section 9(a) of the Act provides that "[r]epresentatives designated or selected for the purposes of collective bargaining by the majority of the employees in a unit appropriate for such purposes, shall be the exclusive representatives of all the employees in such unit."  29 U.S.C. Sec. 159(a).  A unit cannot be deemed appropriate unless it is comprised of individuals who are "employees" within the meaning of the Act.
+    
+    
+
+      ¶43
+      
+Section 2(3) of the Act defines the term "employee" to exclude "any individual employed as an agricultural laborer."  29 U.S.C. Sec. 152(3).  Section 2(3)'s exemption for "agricultural laborer[s]" must be narrowly construed, to favor the workers for whose protection the Act was designed.  See NLRB v. Cal-Maine Farms, Inc., 998 F.2d 1336, 1339 (5th Cir.1993) (citing Wirtz v. Ti Ti Peat Humus Co., 373 F.2d 209, 212 (4th Cir.), cert. denied, 389 U.S. 834, 88 S.Ct. 37, 19 L.Ed.2d 94 (1967)).
+    
+    
+
+      ¶44
+      
+The term "agricultural laborer" has the meaning specified in Sec. 3(f) of the Fair Labor Standards Act (FLSA), 29 U.S.C. Sec. 203(f).  Bayside, 429 U.S. at 300 & n. 6, 97 S.Ct. at 578-79 & n. 6. That provision states that "agriculture" encompasses "farming in all its branches," including "the raising of ... poultry, and any practices ... performed by a farmer or on a farm as an incident to or in conjunction with such farming operations, including preparation for market, delivery to storage or to market or to carriers for transportation to market."  29 U.S.C. Sec. 203(f);  see Bayside, 429 U.S. at 300, 97 S.Ct. at 578-79.
+    
+    
+
+      ¶45
+      
+Under that provision, agriculture is defined "in both a primary and a secondary sense."  Bayside, 429 U.S. at 300, 97 S.Ct. at 579.   The primary meaning encompasses "farming in all its branches," including the raising of poultry.  Farmers Reservoir & Irrigation Co. v. McComb, 337 U.S. 755, 762, 69 S.Ct. 1274, 1278, 93 L.Ed. 1672 (1949);  accord Bayside, 429 U.S. at 300 n. 7, 97 S.Ct. at 579 n. 7. The secondary meaning encompasses a wider range of practices, so long as they are linked in specific ways to primary agriculture.  See Bayside, 429 U.S. at 300 n. 7, 301, 97 S.Ct. at 579 n. 7, 579;  Farmers Reservoir, 337 U.S. at 762-63, 69 S.Ct. at 1278-79.   Thus, the secondary meaning "includes any practices, whether or not themselves farming practices, which are performed either by a farmer or on a farm, incidentally to or in conjunction with" primary farming operations.  Farmers Reservoir, 337 U.S. at 763, 69 S.Ct. at 1278;  accord Bayside, 429 U.S. at 300 n. 7, 97 S.Ct. at 579 n. 7.
+    
+    
+
+      ¶46
+      
+Under the express language of the FLSA, an employer that raises poultry on its own farm is engaged in primary agriculture.  See 29 U.S.C. Sec. 203(f).  However, " 'when an employer contracts with independent growers for the care and feeding of the employer's chicks, the employer's status as a farmer engaged in raising poultry ends with respect to those chicks.' "  Bayside, 429 U.S. at 302 n. 9, 97 S.Ct. at 580 n. 9 (quoting Imco Poultry, 202 N.L.R.B. 259, 260 (1973)).
+    
+    
+C
+    
+
+      ¶47
+      
+The Company has conceded that the employees in the live-haul unit are not engaged in primary agriculture.  Rather, the Company has claimed that the employees' work amounts to secondary agriculture.  The Board rejected that claim.
+    
+    
+
+      ¶48
+      
+In reviewing the Board's decision, we must distinguish between chicken catchers and forklift operators, on the one hand, and live-haul drivers, on the other hand.  The Company's strongest argument concerns the former employees, who, the Board concedes, work "on a farm," within the meaning of the statute.  29 U.S.C. Sec. 203(f).  Therefore, with regard to the chicken catchers and forklift operators, we must determine whether the activities of catching, caging, and loading live chickens onto a truck for delivery are clearly performed as an incident to or in conjunction with the primary farming operation of raising poultry.
+    
+    
+
+      ¶49
+      
+The Company has argued that the chicken catchers and forklift operators' work is closely linked to the independent contract growers' primary agricultural activity of raising poultry.  By the Company's account, because the chicken catchers and forklift operators perform "on a farm," and because they perform work that is incidental to the independent grower's farming activities on that farm, they must be deemed "agricultural laborers."
+    
+    
+
+      ¶50
+      
+The NLRB has countered that the chicken catchers and forklift operators are not engaged in secondary agriculture because, by the time they perform their work on the broiler chickens, their employer--Holly Farms--is no longer engaged in primary agriculture with respect to those chickens.  Long before the chicken catchers catch and cage the birds, the Company has turned the broiler chicks over to independent contract growers and the Company's status as a farmer engaged in raising poultry (a primary agricultural activity) has ended with respect to those chicks.  See Bayside, 429 U.S. at 302 n. 9, 97 S.Ct. at 580 n. 9;  Imco Poultry, 202 N.L.R.B. at 260.  Thus, the Board has reasoned, the employees' activities are neither incidental to nor in conjunction with Holly Farms' primary agricultural practices and, therefore, the employees' work cannot amount to secondary agriculture.
+    
+    
+
+      ¶51
+      
+The case at bar is not one of first impression.  The Board's position here is perfectly consistent with those it has taken in similar cases.  See, e.g., Draper Valley Farms, Inc., 307 N.L.R.B. 1440 (1992) (rejecting a poultry company's contention that its "chicken catchers" were engaged in primary or secondary agricultural activity, and stating that, "[w]hen employers have claimed that employees are agricultural laborers because they are engaged in activity incidental to or in connection with farming operations (the secondary definition of agriculture), the courts have generally rejected the claimed agricultural status when the employees in question were handling or working on agricultural products raised on farms other than their own employer's");  see also Seaboard Farms of Kentucky, Inc., 311 N.L.R.B. No. 159 (1993) (requiring a poultry company to bargain with a unit that included the company's "chicken catchers, ..., live haul drivers, [and] forklift operators").
+    
+    
+
+      ¶52
+      
+Furthermore, other federal appellate decisions, squarely on point, have held that employees in chicken-catching crews were statutory "employees," not "agricultural laborers."   See NLRB v. Hudson Farms, Inc., 681 F.2d 1105, 1106 (8th Cir.1982) (per curiam), cert. denied, 459 U.S. 1069, 103 S.Ct. 488, 74 L.Ed.2d 631 (1982) (holding that "truck drivers and yard workers [who] transport [an integrated poultry producer's] poultry between independent contract growers, which raise the chickens to market weight, and the company's processing plant" were "employees," rather than "agricultural laborers," under the Act);  Valmac Indus. v. NLRB, 599 F.2d 246, 247, 249 (8th Cir.1979) (holding that, because a company's "live chicken haulers and chicken catchers" "transported products away from the farm, their work was neither 'primary' nor 'secondary' farming," and that they therefore were "employees" within the meaning of the Act (emphasis added)).4  We affirm the Board's conclusion that none of the employees in the live-haul bargaining unit were agricultural laborers, because that conclusion is based on a reasonable interpretation of the Act and is consistent both with the Board's prior decisions and with federal appellate case law.
+    
+    
+V
+    
+
+      ¶53
+      
+We have considered the remaining arguments in the Company's petition for review and find them meritless.  Accordingly, the Company's petition for review is denied, and the order of the Board is
+    
+    
+
+      ¶54
+      
+ENFORCED.
+    
+    
+
+      ¶55
+      
+NIEMEYER, Circuit Judge, concurring in part and dissenting in part:
+    
+    
+
+      ¶56
+      
+The National Labor Relations Board (the Board) found that Holly Farms Corporation violated sections 8(a)(1) and 8(a)(3) of the National Labor Relations Act (NLRA) in connection with a representation election in the spring and summer of 1989.  It also found that after Tyson Foods, Incorporated, acquired all the stock of Holly Farms, both Tyson Foods and Holly Farms violated sections 8(a)(1), 8(a)(3), and 8(a)(5) in connection with Tyson's disbanding Holly Farms' transportation operations and integrating Holly Farms' truck drivers into Tyson's existing transportation operations.  Generally, I agree with the majority's opinion that the findings of fact by the Administrative Law Judge (ALJ), as affirmed by the Board, are supported by substantial evidence and, therefore, I agree that these factual findings should be affirmed under the appropriate standard of review.  See 29 U.S.C. Sec. 160(e).
+    
+    
+
+      ¶57
+      
+While I do not take issue with the purely factual findings, I nevertheless believe that the Board erred in two significant respects in applying the law.  First, I believe that the Board erred as a matter of law when it concluded that chicken catchers, fork lift operators, and live-haul drivers were properly included in the bargaining unit.  Instead, I would find that these individuals were agricultural employees excluded from coverage by the NLRA.  Second, on an issue that has far greater ramifications for our labor law jurisprudence than this first narrow dispute over definitions, the majority opinion significantly misconstrues the law of successorship liability when it refuses to recognize the existence of two separate corporate entities for the two months after the stock purchase by Tyson.  I submit that Tyson was not liable as a successor employer when it purchased 100% of the stock of Holly Farms Corporation on July 18, 1989, because Holly Farms Corporation continued as a separate entity and remained as a continuing employer for two months, with no change in its relationship with its employees.  Tyson did succeed Holly Farms in September 1989 when it merged Holly Farms' operation into its own, and thus became a substitute employer of Holly Farms' former employees.  However, even then, Tyson did not incur successor liability under the NLRA, because the restructuring, undertaken for independent and valid economic reasons, was so substantial that an appropriate bargaining unit did not survive.  On these two matters, I would grant the employer's petition for review and deny enforcement of the order to the extent it depends on these erroneous conclusions by the Board.  In all other respects, I concur in the majority opinion.
+    
+    
+
+      ¶58
+      
+* Holly Farms Corporation was an integrated poultry business, engaged in raising, processing, and distributing poultry products.  As part of its operations, it hatched chickens and placed them with contract farmers to raise them until the chickens were "harvested" by Holly Farms employees.  Holly Farms employed 118 chicken catchers, 12 fork lift operators, and 27 live-haul drivers who, as a group, were responsible for driving to the farms, catching chickens, loading them, and transporting them back to the plants for processing.  As found by the ALJ, the chicken catchers went
+    
+    
+
+      ¶59
+      
+to the farms where the chickens were raised where, under cover of darkness, [they] would continuously catch chickens with their hands and cage them during shifts of indeterminate duration, which continued until the task was completed.
+    
+    
+
+      ¶60
+      
+The fork lift operators worked on the farms with the chicken catchers and were responsible for placing steel cages loaded with chickens onto live-haul trucks.  The live-haul drivers drove the crew from the plant to the farms and, after the chickens were caught and the cages were loaded, transported the chickens back to the plant for processing.  Occasionally, live-haul drivers assisted the chicken catchers in the "harvesting."   All of these employees, I submit, were agricultural employees, as defined by the NLRA, and therefore were excluded from the Act's coverage.
+    
+    
+
+      ¶61
+      
+The NLRA excludes from its definition of "employee" any individual employed as an "agricultural laborer."  29 U.S.C. Sec. 152(3).  Thus, agricultural laborers are not protected by section 8(a)(1), 8(a)(3), or 8(a)(5) of the NLRA.  The definition of an agricultural laborer is to be derived from Sec. 3(f) of the Fair Labor Standards Act.  See Bayside Enterprises, Inc. v. NLRB, 429 U.S. 298, 300 n. 6, 97 S.Ct. 576, 578 n. 6, 50 L.Ed.2d 494 (1977).  The Fair Labor Standards Act defines "agriculture," in pertinent part, to include:
+    
+    
+
+      ¶62
+      
+farming in all its branches and among other things ... the raising of livestock ... or poultry, and any practices ... performed ... on a farm as an incident to or in conjunction with such farming operations, including preparation for market, delivery to storage or to market or to carriers for transportation to market.
+    
+    
+
+      ¶63
+      
+29 U.S.C. Sec. 203(f).
+    
+    
+
+      ¶64
+      
+In this case, the work of chicken catchers and fork lift operators was performed "on a farm as incident to or in conjunction with such farming operations" and therefore clearly qualifies these individuals as "agricultural laborers."   Moreover, all these chicken catchers, fork lift operators, and live-haul drivers were involved in "preparation for market" and "delivery to storage or to market."   Because they were engaged as agricultural laborers, these employees are not covered by the National Labor Relations Act.  See Coleman v. Sanderson Farms, Inc., 629 F.2d 1077, 1081 (5th Cir.1980).  But see, at least as to live-haul drivers, NLRB v. Hudson Farms, Inc., 681 F.2d 1105 (8th Cir.), cert. denied, 459 U.S. 1069, 103 S.Ct. 488, 74 L.Ed.2d 631 (1982).
+    
+    
+II
+    
+
+      ¶65
+      
+With respect to the second error of law committed by the Board, the facts were stipulated by the parties.  Tyson acquired 100% of the stock of Holly Farms on July 18, 1989, but Holly Farms nevertheless continued in business for two months without change, under the same management and with the same employees.  The two corporations remained separate corporations, and the only change Holly Farms experienced was in stock ownership.  These facts were recognized by the Board.  It stated, "[F]or 2 months following the purchase nothing changed for the former Holly Farms employees, all of whom were retained on the payroll under their existing wages, hours, and terms and conditions of employment."  (Emphasis added.)   Thus, from the employees' point of view, they still worked for Holly Farms under the same conditions that existed before the stock purchase.
+    
+    
+
+      ¶66
+      
+Necessarily following from these acknowledged facts is the fact that Holly Farms alone retained the obligation to bargain with the union, and it did so.  Correspondingly, Tyson, as the sole stockholder of Holly Farms, which at the time had implemented no changes in Holly Farms' operations, had no obligation to bargain.  It was a separate corporation and therefore had not succeeded to any obligation of Holly Farms to bargain simply by buying Holly Farms' stock.  As was stated by the Seventh Circuit in Esmark, Inc. v. NLRB, 887 F.2d 739 (1989):
+    
+    
+
+      ¶67
+      
+The successorship doctrine is simply inapplicable to a stock sale transaction.  In the successor context, the question is whether two different corporate entities, one succeeding to the other's business, are bound in like measure by a contract executed by only one of them;  however "the stock transfer involves no break or hiatus between two legal entities, but is, rather, the continuing existence of a legal entity, albeit under new ownership."   The successorship doctrine is therefore of no relevance to the present case, which involves a transfer of stock ownership in the employing corporation from one party to another.
+    
+    
+
+      ¶68
+      
+Id. at 751 (footnote omitted).  This statement from Esmark is simply a restatement of the successorship doctrine established by the Supreme Court in NLRB v. Burns International Security Services, 406 U.S. 272, 92 S.Ct. 1571, 32 L.Ed.2d 61 (1972).  In Burns, the Court concluded that a corporation that succeeded another corporation as the employer of a specific work force may have the obligation to bargain with the union certified when the employees were employed by the previous corporation.  The obligation arises for the successor corporation "when it select[s] as its work force the employees of the previous employer to perform the same tasks at the same place they had worked in the past."  Id. at 278, 92 S.Ct. at 1577 (emphasis added).  There must be a change of employer so that one supplants the other.  Obviously, if the previous corporation continues in its existing form as the employer, no succession occurs.  Consequently, when Tyson became stockholder, but not employer, and Holly Farms continued as employer, Tyson would have no obligation to bargain because it had not yet succeeded Holly Farms.  The Board has in the past subscribed to these statements of the law.  For example, in Hendricks-Miller Typographic Co., 240 N.L.R.B. 1082, 1083 n. 4 (1979), the Board stated:
+    
+    
+
+      ¶69
+      
+The concept of "successorship" as considered by the United States Supreme Court in N.L.R.B. v. Burns International Security Services, Inc., et al., 406 U.S. 272, 92 S.Ct. 1571, 32 L.Ed.2d 61 (1972), and its progeny, contemplates the substitution of one employer for another, where the predecessor employer either terminates its existence or otherwise ceases to have any relationship to the ongoing operations of the successor employer.
+    
+    
+
+      ¶70
+      
+(Emphasis added).*
+    
+    
+
+      ¶71
+      
+Under the stipulated facts here, the truck drivers in Holly Farms' transportation operations remained employed with Holly Farms for two months after Tyson's stock purchase.  Their responsibilities and conditions of employment remained unchanged for those two months.  When two separate corporate entities continue in separate form, as they did here, we must conclude that there was no succession for purposes of the successorship doctrine.  See Esmark, 887 F.2d at 751.
+    
+    
+
+      ¶72
+      
+In EPE, Inc. v. NLRB, 845 F.2d 483 (4th Cir.1988), we examined a case strikingly similar to this in which one company, Echlin, purchased 100% of the stock of EPE, Inc. Other than the change of ownership from the stock sale, however, there were no changes in the organization or operations of EPE's Fredericksburg plant.  In that case, we declined to find successorship and held that EPE was a "continuing employer" still liable under its collective bargaining agreement.  We emphasized that:
+    
+    
+
+      ¶73
+      
+There was no termination of operations or employees at the Fredericksburg plant....  Simply put, the Fredericksburg workers both went to work on the morning of Tuesday, October 22, and returned home later that afternoon as EPE employees.  During that same time there occurred not a substitution of one employer for another, but a change in the ownership of a continuing employer.
+    
+    
+
+      ¶74
+      
+…   *
+    
+    
+
+      ¶75
+      
+EPE was a continuing employer.  Operations at the plant were essentially unaffected by the stock transfer.
+    
+    
+
+      ¶76
+      
+Id. at 488.   We held that EPE was a "continuing employer" after the stock sale and that there was no successor employer of the Fredericksburg workers after the sale.
+    
+    
+
+      ¶77
+      
+The situation at Holly Farms for the two months after the July 18 stock sale was no different from that at EPE after it sold its stock.  There was no succession of Tyson as a new employer;  rather, there was only "a change in the ownership of a continuing employer."  Id. While I acknowledge that our holding in EPE "is a narrow one," I fail to see any fact that distinguishes the employment relationships at Holly Farms for the two months after July 18 from the situation we examined in EPE.
+    
+    
+
+      ¶78
+      
+The majority opinion concludes, erroneously I believe, that when Tyson purchased the stock of Holly Farms on July 18, it became a successor to Holly Farms because Holly Farms continued as a corporate entity without any significant changes in its operations.  Indeed, the majority acknowledges:
+    
+    
+
+      ¶79
+      
+For two months after the purchase, Tyson made no significant changes in Holly Farms' operations.  Holly Farms--under Tyson's ownership--continued to engage in the same business operations at the same locations, selling the same products to the same customers, and it retained all of its employees under the same supervision and the same wages, hours, and working conditions.
+    
+    
+
+      ¶80
+      
+Those facts establish substantial continuity between Holly Farms and Tyson.
+    
+    
+
+      ¶81
+      
+Op. at 1367.  The problem with the majority's opinion is that it failed to recognize that the termination of the previous employment relationship must be established and that a determination of this requirement should "precede[ ] the inquiry into the 'substantial continuity' that must be shown for a new employer to be found a successor."  EPE, 845 F.2d at 489.   I agree with the factual observations made by the majority opinion, but its conclusion that these facts give rise to successor liability is simply a misinterpretation of the law.  For the two months during which Holly Farms' operations continued unchanged, but with a different stockholder, both Tyson Foods, Inc. and Holly Farms Corporation remained separate corporations, and Tyson's ownership was simply a stock ownership position.  By continuing in existence, Holly Farms retained its obligations to negotiate and bargain with exclusive representatives of the unit duly elected.  Holly Farms also retained its obligations to adhere to the specific terms of the collective bargaining agreement already in place with its employees.  In sum, the employees' relationship with Holly Farms remained the same, and in those circumstances it is well-established that the successor liability doctrine does not apply.  See Esmark, 887 F.2d at 751;  Hendricks-Miller, 240 N.L.R.B. at 1083 n. 4.
+    
+    
+
+      ¶82
+      
+Without any obligation to bargain during the two months following its acquisition of Holly Farms' stock, Tyson could not have violated the labor laws for refusing to bargain.  The Board's order imposing such a duty thus constitutes error.
+    
+    
+
+      ¶83
+      
+In mid-September 1989, Tyson determined, for sound business reasons, to end Holly Farms' transportation operations.  While the Board acknowledged that the decision was a legitimate business decision, I note further that Tyson's decision was economically compelling.  Before Tyson's acquisition of Holly Farms' stock, Holly Farms transported its poultry products to its customers through its own transportation operation.  It often dispatched drivers and trucks to customers with no load available for the return trip because the customer network was not so vast as to supply that need.  While Holly Farms made an express effort to lower its transportation costs by securing additional back-haul business, its efforts were largely unsuccessful.  Indeed, the evidence shows that 50% of Holly Farms return miles were "dead head," where the trucks returned empty, resulting in an estimated annual loss to Holly Farms of approximately $5 to $6 million.
+    
+    
+
+      ¶84
+      
+In contrast, Tyson's transportation operations were organized substantially differently, and they were profitable.  Tyson hauled only 35% of its products through its own transportation system, making only those deliveries where back-haul business would routinely be available.  Because it delivered only 35% of its products through its own operations, the remaining transportation needs were filled through common carriers.  Thus, in contrast to Holly Farms' 50% ratio, Tyson's dead-head ratio was in the range of 7-1/2% to 12%.
+    
+    
+
+      ¶85
+      
+In order to eliminate the large losses resulting from Holly Farms' transportation operations, Tyson decided to disband Holly Farms' operations and restructure its own to serve the combined customer base in the manner that Tyson had profitably established for its own customers.  Tyson implemented this decision on September 22, 1989, at which time Holly Farms' drivers were terminated, but with an offer to work in Tyson's operation, subject to Tyson's more efficient methods.
+    
+    
+
+      ¶86
+      
+When Tyson disbanded Holly Farms' transportation operations and merged those drivers into its own fleet, Tyson became a substitute employer.  At that time, the successorship principles of Burns might have required Tyson to bargain with the union if Tyson had continued with the same employees under a similar structure.  But Tyson would only have a duty to recognize a preexisting bargaining unit if Tyson's structure and practices mirrored those of Holly Farms.  See Burns, 406 U.S. at 280, 92 S.Ct. at 1578.   In such circumstances, Tyson would be required to bargain with the union, but Tyson would not be required to accept the terms and agreements of Holly Farms' collective bargaining agreement with the union because "a successor employer is ordinarily free to set initial terms on which it will hire the employees of a predecessor."  Burns, 406 U.S. at 294, 92 S.Ct. at 1585-86.
+    
+    
+
+      ¶87
+      
+In this case, when Tyson terminated the Holly Farms transportation operation and hired its truck drivers, the new operational structure and practices differed substantially from those of Holly Farms.  Thus, the inherited bargaining unit was no longer an appropriate one.  Moreover, the drivers assimilated from Holly Farms only constituted a portion of Tyson's long-haul trucker group.  In those circumstances, the Holly Farms bargaining unit did not remain intact and would not be the appropriate unit with which Tyson was required to bargain.
+    
+    
+
+      ¶88
+      
+Deriving unfair labor practices from these circumstances would imply that Tyson, as an acquiring and thereafter successor corporation, must carry the burden of an inefficient structure and inappropriate bargaining unit previously established by Holly Farms.  The jurisprudence of Burns, and the circuit court decisions interpreting it, do not require this result.  See, e.g., NLRB v. Security-Columbian Banknote Co., 541 F.2d 135, 139-40 (3d Cir.1976).  Therefore, I would deny enforcement of the Board's order as it relates to Tyson's conduct in acquiring and restructuring Holly Farms.
+    
+    
+
+      ¶89
+      
+For these reasons, I dissent.
+    
+    
+
+      
+
+        1
+        
+ Other federal appellate courts have come to similar conclusions in the stock purchase context.  See, e.g., United Food & Commercial Workers Int'l Union, 768 F.2d at 1474 (D.C.Cir.)  (reversing, for lack of substantial evidence, National Labor Relations Board decision that a new stockowner was not a "successor" employer, with duties to an existing union);  Miami Foundry Corp., 682 F.2d at 589 (6th Cir.)  (holding new stockowners and managers under a duty to bargain with pre-existing union)
+      
+      
+
+        2
+        
+ The Company also has contended that the Board compounded that error when it issued a bargaining order in the live-haul unit pursuant to NLRB v. Gissel Packing Co., 395 U.S. 575, 89 S.Ct. 1918, 23 L.Ed.2d 547 (1969), and when it recognized unfair labor practices aimed at employees in that unit
+      
+      
+
+        3
+        
+ The entire bargaining unit consists of 27 live-haul drivers, 12 forklift operators, and 118 chicken catchers
+      
+      
+
+        4
+        
+ We decline to follow the case cited by the dissent, Coleman v. Sanderson Farms, Inc., 629 F.2d 1077 (5th Cir.  Unit A 1980).  The Fifth Circuit's decision that "loader operators and live haul drivers" for a poultry company were "employees employed in agriculture," and thereby exempt from FLSA 's overtime provisions, id. at 1078, fails to give proper weight to the judgment of the Board, see Bayside, 429 U.S. at 304, 97 S.Ct. at 581
+      
+      
+
+        *
+        
+ The majority opinion has glossed over factual and legal distinctions between (1) the situation where a corporation continues in business, after its stock changes hands, without any change in its relationship with employees, and (2) the situation where a corporation moves through corporate and factual changes so that in effect a new employer substitutes for that of the former and exercises the "employer's authority" of the former.  In the first situation, the employing corporation continues to have an obligation to bargain with its employees, notwithstanding the change in stock ownership which is irrelevant, and the stockholder does not become a substitute employer.  In the second situation, successor liability imposes a duty to bargain on the successor employer.  The majority collapses this distinction into an inquiry into a nebulous subscription to labor policy, stating:
+        
+Whatever terms we use--whether we call Tyson a "successor," or a "new stockowner," or a "joint employer"--substantial evidence and the policies of the labor laws support the Board's finding here that Tyson came under a duty to bargain with the Union when it purchased Holly Farms.
+        
+Op. at 1366.  Such an approach is clearly foreclosed by Burns, Esmark, and Hendricks-Miller.
+      
+    
+    
+SharePrint
+ Download 
+.txtPDF
+ Copy 
+
+URLCitation LinkBluebook
+ Embed on your site 
+
+iframeMarkdownPreview cardButton
+Hover to preview · click to copy the codeCite on WikipediaSearch Wikipedia →
+
+Report a problem
+What went wrong?
+10 to 2,000 characters. 0 so far, 2,000 left. 
+Your email (optional)
+Website
+ We store your message, the page address, and your email only if you give it. We do not store your IP address. 
+Send Cancel 
+Panel
+
+Francis Dominic Murnaghan Jr.
+HA
+
+HARVEY
+
+Paul Victor Niemeyer
+ Parties party:Nos. 93-1710, 93-1882
+ In the law dictionary 
+
+Defined terms used in this caseThat unit/48/f3d/1360 · .json · Public domain 
+
+
+
+ The empirical record of United States law. State and Federal court opinions, the U.S. Code, a multi-source dictionary, judges and courts - sourced from the public domain, analyzed in the open. 
+ U.S. Government work · public domain · not legal advice 
+With special thanks to
+ Browse the record CasesCodeLaw DictionaryFederal JudgesCourtsLaw SchoolsNamed StatutesFounding DocumentsBooksCitation Checker
+ For developers + AI agents Developers & API/llms.txtJSON API♥ Support OpenJurist 
+© 2026 OpenJurist♿ Accessibility 
+
+
+ Accessibility  × 
+ These preferences are saved in your browser. 
+Text size
+ A− 100% A+ High contrastDarker text, underlined linksReadable fontA wider, more legible typefaceReduce motionMinimise animations and transitions
+ Reset to defaults  Accessibility statement  Contact  Returns & Refunds  Attributions  Terms of Use  Privacy Policy 
+Report a problem with this page
+What went wrong?
+10 to 2,000 characters. 0 so far, 2,000 left. 
+Your email (optional)
+Website
+ We store your message, the page address, and your email only if you give it. We do not store your IP address. 
+Send Cancel 
+

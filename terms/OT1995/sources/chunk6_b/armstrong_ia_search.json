@@ -1,0 +1,420 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 120,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:&quot;95-157&quot; OR text:&quot;95-157&quot; OR text__reviews:&quot;95-157&quot;) OR title:Armstrong)",
+      "qin": "collection:us-supreme-court AND (&quot;95-157&quot; OR title:Armstrong)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 100,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 106,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40386004_1091",
+        "title": "Armstrong v. California, 519 U.S. 862 (1996) (No. 96-22)"
+      },
+      {
+        "identifier": "micro_IA40386417_1177",
+        "title": "Cardox Corp. v. Armstrong Coalbreak Co., 343 U.S. 979 (1952) (No. 776)"
+      },
+      {
+        "identifier": "per_scotus_1867_261",
+        "title": "Asa Hunt, Franklin H. Eaton, Joseph P. Manning, and George Armstrong, Appellants, vs. Ephraim H. Bender, Charles A. Henry, Anan Henry 1867: Vol 261"
+      },
+      {
+        "identifier": "per_scotus_1884_173",
+        "title": "The Mutual Life Insurance Company of New York, Plaintiff in Error, vs. Julia Armstrong, Administratrix of John \u039c. Armstrong, Deceased. 1884: Vol 173"
+      },
+      {
+        "identifier": "micro_IA40385018_2134",
+        "title": "Armstrong Rubber Co. v. United States, 479 U.S. 829 (1986) (No. 85-2154)"
+      },
+      {
+        "identifier": "micro_IA40386016_1374",
+        "title": "Armstrong v. City of Conyers, Georgia (No. 06-276)"
+      },
+      {
+        "identifier": "micro_IA40386411_0136",
+        "title": "Armstrong v. Manzo, 380 U.S. 545 (1965) (No. 149)"
+      },
+      {
+        "identifier": "micro_IA40385005_0306",
+        "title": "Tennessee v. Armstrong, 435 U.S. 904 (1978) (No. 77-963)"
+      },
+      {
+        "identifier": "per_scotus_1889_53",
+        "title": "Levi Scott and the Farmers' and Merchants' State Bank, Plaintiffs in Error, vs. David Armstrong, Receiver of the Fidelity National Bank of Cincinnati, Ohio 1889: Vol 53"
+      },
+      {
+        "identifier": "micro_IA40385016_0330",
+        "title": "Armstrong v. Exceptional Child Ctr., Inc., 135 S. Ct. 44 (2014) (No. 14-15)"
+      },
+      {
+        "identifier": "micro_IA40386006_1125",
+        "title": "Flint v. Armstrong, 563 U.S. 1033 (2011) (No. 10-1278)"
+      },
+      {
+        "identifier": "micro_IA40385010_0163",
+        "title": "Armstrong v. United States, 459 U.S. 1207 (1983) (No. 82-1062)"
+      },
+      {
+        "identifier": "micro_IA40385005_1522",
+        "title": "Armstrong v. New Mexico, 439 U.S. 888 (1978) (No. 78-246)"
+      },
+      {
+        "identifier": "per_scotus_1889_1111",
+        "title": "David Armstrong, Receiver of the Fidelity National Bank, Appellant, Versus American Exchange National Bank of Chicago, Appellee. 1889: Vol 1111"
+      },
+      {
+        "identifier": "per_scotus_1891_14987",
+        "title": "The Farmers' and Merchants' State Bank and Levi Scott, Apepllants, vs. David Armstrong, Receiver of the Fidelity National Bank of Cincinnati, Ohio 1891: Vol 14987"
+      },
+      {
+        "identifier": "per_scotus_1889_40",
+        "title": "John Broom and E. A. Whitaker, Appellants, vs. James C. Armstrong. 1889: Vol 40"
+      },
+      {
+        "identifier": "per_scotus_1875_664",
+        "title": "James M. Townsend, Appellant, vs. Alfred Todd and Philando Armstrong, Assignees of George T. Newhall, A Bankrupt. 1875: Vol 664"
+      },
+      {
+        "identifier": "micro_IA40385003_2047",
+        "title": "Armstrong v. North Carolina, 428 U.S. 902 (1976) (No. 75-5076)"
+      },
+      {
+        "identifier": "micro_IA40386401_0072",
+        "title": "Armstrong Paint & Varnish Works v. Nu-Enamel Corp., 305 U.S. 315 (1938) (No. 51)"
+      },
+      {
+        "identifier": "micro_IA40386013_0087",
+        "title": "Mazurek v. Armstrong, 520 U.S. 968 (1997) (No. 96-1104)"
+      },
+      {
+        "identifier": "micro_IA40385002_1126",
+        "title": "Sparks v. Armstrong Rubber Co., 490 U.S. 1081 (1989) (No. 88-1593)"
+      },
+      {
+        "identifier": "micro_IA40385007_0448",
+        "title": "McAlpin v. Armstrong, 449 U.S. 1106 (1981) (No. 80-431)"
+      },
+      {
+        "identifier": "micro_IA40385009_0563",
+        "title": "Armstrong v. United States, 459 U.S. 1102 (1983) (No. 82-220)"
+      },
+      {
+        "identifier": "micro_IA40386014_0388",
+        "title": "County of Armstrong v. Clark, 528 U.S. 1118 (2000) (No. 99-821)"
+      },
+      {
+        "identifier": "micro_IA40386011_1372",
+        "title": "Ater v. Armstrong, 506 U.S. 985 (1992) (No. 92-549)"
+      },
+      {
+        "identifier": "micro_IA40386005_1137",
+        "title": "Armstrong v. Accrediting Council for Continuing Education & Training, Inc., 528 U.S. 1073 (2000) (No. 99-395)"
+      },
+      {
+        "identifier": "micro_IA40386013_0219",
+        "title": "Armstrong v. Executive Office of the President, 520 U.S. 1239 (1997) (No. 96-1242)"
+      },
+      {
+        "identifier": "micro_IA40386008_1430",
+        "title": "Armstrong v. School District of Philadelphia, 525 U.S. 879 (1998) (No. 98-277)"
+      },
+      {
+        "identifier": "micro_IA40386011_1091",
+        "title": "Armstrong v. Owens-Illinois, Inc., 506 U.S. 871 (1992) (No. 92-228)"
+      },
+      {
+        "identifier": "micro_IA40386020_0347",
+        "title": "Alberto Armstrong, as Liquidator of the Firm of Boysen & Company, Appt. v. Eduardo Fernandez, Juan Bautista Pacheco, and Genara Jusino, 208 U.S. 324 (1908) (No. 114)"
+      },
+      {
+        "identifier": "micro_IA40385020_3387",
+        "title": "Armstrong v. Marathon Oil Co., 498 U.S. 1121 (1991) (No. 90-1095)"
+      },
+      {
+        "identifier": "micro_IA04386419_0953",
+        "title": "Armstrong v. United States, 364 U.S. 40 (1960) (No. 270)"
+      },
+      {
+        "identifier": "micro_IA40385011_1639",
+        "title": "ARMSTRONG v. FLORIDA (No. 83-5145)"
+      },
+      {
+        "identifier": "micro_IA40385006_0959",
+        "title": "World Carpets, Inc. v. Armstrong Cork Co., 444 U.S. 932 (1979) (No. 79-473)"
+      },
+      {
+        "identifier": "micro_IA40386017_1512",
+        "title": "Armstrong v. Northern Mariana Islands, 561 U.S. 1025 (2010) (No. 09-870)"
+      },
+      {
+        "identifier": "micro_IA40386018_0015",
+        "title": "Ogden City v. Armstrong, 168 U.S. 224 (1897) (No. 127)"
+      },
+      {
+        "identifier": "micro_IA04386419_0954",
+        "title": "Armstrong v. United States, 361 U.S. 825 (1959) (No. 190)"
+      },
+      {
+        "identifier": "micro_IA40385019_1125",
+        "title": "Armstrong Rubber Co. v. Local 670, United Rubber, Cork, Linoleum & Plastic Workers, 484 U.S. 1019 (1988) (No. 87-765)"
+      },
+      {
+        "identifier": "micro_IA40386418_1125",
+        "title": "Armstrong v. United States (No. 754)"
+      },
+      {
+        "identifier": "micro_IA40386003_1071",
+        "title": "Armstrong v. North Carolina State Board of Dental Examiners, 525 U.S. 1103 (1999) (No. 98-677)"
+      },
+      {
+        "identifier": "micro_IA40385608_0687",
+        "title": "ARMSTRONG CORK CO. V. CONGOLEUM INDUSTRIES INC (No. 74-1248)"
+      },
+      {
+        "identifier": "micro_IA40386014_0557",
+        "title": "Armstrong v. United States, 529 U.S. 1033 (2000) (No. 99-1000)"
+      },
+      {
+        "identifier": "per_scotus_1894_268",
+        "title": "William W. Armstrong, Appellant. vs. The United States. 1894: Vol 268"
+      },
+      {
+        "identifier": "per_scotus_1895_300_0",
+        "title": "Certain Real Estate Known as the Church Farm, and Francis Armstrong and Jesse W. Fox, Junior, Trustees, Appellants, vs. The United States. 1895: Vol 300"
+      },
+      {
+        "identifier": "per_scotus_1867_74",
+        "title": "Armstrong's Foundry, John Armstrong, Claimant, Appellant, vs. The United States 1867: Vol 74"
+      },
+      {
+        "identifier": "micro_IA40386418_0483",
+        "title": "Armstrong v. United States, 351 U.S. 918 (1956) (No. 754)"
+      },
+      {
+        "identifier": "micro_IA40386020_0148",
+        "title": "Armstrong v. Ashley, 204 U.S. 272 (1907) (No. 122)"
+      },
+      {
+        "identifier": "micro_IA40385010_1234",
+        "title": "Armstrong v. Armstrong, 464 U.S. 933 (1983) (No. 82-2139)"
+      },
+      {
+        "identifier": "micro_IA40385603_0612",
+        "title": "Motorola, Inc. v. Armstrong, 389 U.S. 830 (1967) (No. 395)"
+      },
+      {
+        "identifier": "micro_IA40386408_0172",
+        "title": "Armstrong v. Armstrong, 350 U.S. 568 (1956) (No. 38)"
+      },
+      {
+        "identifier": "micro_IA40385605_0606",
+        "title": "Armstrong Equipment Co. v. Clark Equipment Co., 402 U.S. 909 (1971) (No. 1437)"
+      },
+      {
+        "identifier": "micro_IA40386006_0959",
+        "title": "In re Armstrong, 563 U.S. 973 (2011) (No. 10-1057)"
+      },
+      {
+        "identifier": "micro_IA40386003_1361",
+        "title": "Armstrong v. Boulden, 125 S. Ct. 431 (2004) (No. 04-411)"
+      },
+      {
+        "identifier": "micro_IA40385604_0566",
+        "title": "Armstrong v. United States, 395 U.S. 934 (1969) (No. 1278)"
+      },
+      {
+        "identifier": "micro_IA40385604_1554",
+        "title": "Armstrong, Jones & Co. v. Securities & Exchange Commission, 398 U.S. 958 (1970) (No. 1487)"
+      },
+      {
+        "identifier": "micro_IA40386409_0278",
+        "title": "Armstrong v. United States, 364 U.S. 40 (1960) (No. 270)"
+      },
+      {
+        "identifier": "micro_IA40386018_1380",
+        "title": "Armstrong v. Billingham, 526 U.S. 1112 (1999) (No. 98-1423)"
+      },
+      {
+        "identifier": "micro_IA40386014_0467",
+        "title": "Armstrong Surgical Center, Inc. v. Armstrong County Memorial Hospital, 530 U.S. 1261 (2000) (No. 99-905)"
+      },
+      {
+        "identifier": "per_scotus_1831_63_0",
+        "title": "Kosciusko Armstrong, Appellant, versus Benjamin L. Lear, Administrator of Thaddeus Kosciusko, et al. 1831: Vol 63"
+      },
+      {
+        "identifier": "per_scotus_1866_424",
+        "title": "Christopher Armstrong, Plaintiff in Error, vs. The Commonwealth of Massachusetts 1866: Vol 424"
+      },
+      {
+        "identifier": "micro_IA40386008_1683",
+        "title": "Armstrong v. Martin Marietta Corp., 525 U.S. 1019 (1998) (No. 98-552)"
+      },
+      {
+        "identifier": "micro_IA40386016_2345",
+        "title": "Armstrong v. Guccione (No. 06-1278)"
+      },
+      {
+        "identifier": "micro_IA40385606_0642",
+        "title": "Armstrong v. United States, 406 U.S. 924 (1972) (No. 71-6202)"
+      },
+      {
+        "identifier": "micro_IA40386003_1422",
+        "title": "Armstrong v. Segal, 125 S. Ct. 869 (2005) (No. 04-479)"
+      },
+      {
+        "identifier": "micro_IA40386016_2175",
+        "title": "Armstrong v. Colonial Bank, N.A. (No. 06-1130)"
+      },
+      {
+        "identifier": "micro_IA40386010_0910",
+        "title": "Harris v. Armstrong, 532 U.S. 958 (2001) (No. 00-1401)"
+      },
+      {
+        "identifier": "micro_IA40385019_2245",
+        "title": "Wilson v. Armstrong World Industries, 484 U.S. 828 (1987) (No. 86-2011)"
+      },
+      {
+        "identifier": "micro_IA40386004_1779",
+        "title": "Armstrong v. Commodity Futures Trading Commission, 517 U.S. 1245 (1996) (No. 95-1701)"
+      },
+      {
+        "identifier": "micro_IA40385018_0185",
+        "title": "Armstrong v. State Bank of Towner, 473 U.S. 906 (1985) (No. 84-1749)"
+      },
+      {
+        "identifier": "micro_IA40386016_1450",
+        "title": "Armstrong v. Indiana (No. 06-357)"
+      },
+      {
+        "identifier": "micro_IA40386016_0995",
+        "title": "Armstrong v. United States (No. 05-1548)"
+      },
+      {
+        "identifier": "micro_IA40386020_0363",
+        "title": "Ughbanks v. Armstrong, 208 U.S. 481 (1908) (No. 435)"
+      },
+      {
+        "identifier": "micro_IA40386015_1270",
+        "title": "Pirelli Armstrong Tire Corp. v. James, 538 U.S. 1033 (2003) (No. 02-1327)"
+      },
+      {
+        "identifier": "micro_IA40385019_0762",
+        "title": "Armstrong v. Corn Belt Bank, 108 S. Ct. 287 (1987) (No. 87-247)"
+      },
+      {
+        "identifier": "micro_IA40386019_1759",
+        "title": "Armstrong v. Department of Housing & Urban Development, 531 U.S. 880 (2000) (No. 00-237)"
+      },
+      {
+        "identifier": "micro_IA40386016_1079",
+        "title": "Armstrong v. Howell (No. 05-1636)"
+      },
+      {
+        "identifier": "micro_IA40385020_0439",
+        "title": "Wilson v. Armstrong World Industries, Inc., 493 U.S. 977 (1989) (No. 89-583)"
+      },
+      {
+        "identifier": "micro_IA40385004_1003",
+        "title": "Brennan v. Armstrong, 433 U.S. 672 (1977) (No. 76-809)"
+      },
+      {
+        "identifier": "micro_IA40386014_2503",
+        "title": "Armstrong v. La Quinta Inns, Inc., 534 U.S. 1055 (2001) (No. 01-491)"
+      },
+      {
+        "identifier": "micro_IA40386410_0145",
+        "title": "Armstrong v. Exceptional Child Ctr., Inc., 135 S. Ct. 44 (2014) (No. 14-15)"
+      },
+      {
+        "identifier": "per_scotus_1842_88",
+        "title": "Thomas Armstrong and al, Plaintiffs in Error, vs. The Treasurer of Athens County. 1842: Vol 88"
+      },
+      {
+        "identifier": "per_scotus_1871_492",
+        "title": "Hibernia Armstrong, Appellant, vs. The United States. 1871: Vol 492"
+      },
+      {
+        "identifier": "micro_IA40386011_2389",
+        "title": "Armstrong v. High Desert Hospital, 508 U.S. 973 (1993) (No. 92-1706)"
+      },
+      {
+        "identifier": "micro_IA40385007_0231",
+        "title": "Armstrong v. Maple Leaf Apartments, Ltd., 449 U.S. 901 (1980) (No. 80-210)"
+      },
+      {
+        "identifier": "micro_IA40386014_2186",
+        "title": "Armstrong v. Philadelphia Board of Education, 534 U.S. 893 (2001) (No. 01-154)"
+      },
+      {
+        "identifier": "micro_IA40385605_0144",
+        "title": "Armstrong v. Commerce Tankers Corp., 400 U.S. 833 (1970) (No. 549)"
+      },
+      {
+        "identifier": "micro_IA40385603_0257",
+        "title": "Limperis v. A. J. Armstrong Co., 386 U.S. 957 (1967) (No. 909)"
+      },
+      {
+        "identifier": "micro_IA40385607_0602",
+        "title": "Armstrong v. Iowa, 414 U.S. 857 (1973) (No. 73-114)"
+      },
+      {
+        "identifier": "micro_IA40386010_1701",
+        "title": "Davis v. Armstrong, 537 U.S. 812 (2002) (No. 01-1501)"
+      },
+      {
+        "identifier": "per_scotus_1891_76_0",
+        "title": "The Commercial National Bank of Pennsylvan\u03b9\u03b1, Appellant, vs. David Armstrong, Receiver of the Fidelity National Bank of Cincinnati. 1891: Vol 76"
+      },
+      {
+        "identifier": "per_scotus_1893_251",
+        "title": "The Western National Bank of New York, Appellant, vs. David Armstrong, Receiver of the Fidelity National Bank. 1893: Vol 251"
+      },
+      {
+        "identifier": "per_scotus_1889_1110",
+        "title": "David Armstrong, Receiver of the Fidelity National Bank of Cincinnati, Ohio, Appellant, vs. The American Exchange National Bank of Chicago, Illinois. 1889: Vol 1110"
+      },
+      {
+        "identifier": "per_scotus_1870_10",
+        "title": "James Armstrong, Jonathan Hyre, and Jesse Carney, Plaintiffs in Error, vs. Lot M. Morrill. 1870: Vol 10"
+      },
+      {
+        "identifier": "micro_IA40385017_2379",
+        "title": "Armstrong v. Lindberg, 105 S. Ct. 566 (1984) (No. 84-568)"
+      },
+      {
+        "identifier": "micro_IA40385018_1491",
+        "title": "Armstrong v. Thomas, 475 U.S. 1086 (1986) (No. 85-1390)"
+      },
+      {
+        "identifier": "micro_IA40386416_1493",
+        "title": "Armstrong v. Armstrong, 333 U.S. 842 (1948) (No. 525)"
+      },
+      {
+        "identifier": "micro_IA40386417_1163",
+        "title": "Armstrong v. War Contracts Price Adjustment Board, 343 U.S. 967 (1952) (No. 708)"
+      },
+      {
+        "identifier": "micro_IA40386016_1389",
+        "title": "Armstrong v. United States (No. 06-292)"
+      },
+      {
+        "identifier": "micro_IA40385019_0907",
+        "title": "Corn Belt Bank v. Armstrong, 108 S. Ct. 287 (1987) (No. 87-432)"
+      },
+      {
+        "identifier": "micro_IA40385004_0927",
+        "title": "Armstrong v. Aiken, 429 U.S. 1078 (1977) (No. 76-725)"
+      }
+    ]
+  }
+}

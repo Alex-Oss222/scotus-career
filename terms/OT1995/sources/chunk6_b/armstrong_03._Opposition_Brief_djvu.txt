@@ -1,0 +1,897 @@
+| x 
+
+
+QUESTIONS PRESENTED 
+
+
+No. 95-157 
+
+
+A. WHETHER THE COLORABLE BASIS STANDARD FOR INITIATION 
+
+
+IN THE SUPREME COURT OF THE UNITED STATES OF DISCOVERY ON A CLAIM OF DISCRIMINATORY PROSECUTION, AS 
+
+
+October Term, 1995 EXPLAINED AND REFINED BY THE NINTH CIRCUIT COURT OF APPEALS, IS 
+
+
+SUFFICIENTLY IN ACCORD WITH ESTABLISHED FEDERAL LAW. 
+
+
+UNITED STATES OF AMERICA, B. WHETHER A DISTRICT COURT ABUSED ITS DISCRETION IN 
+
+
+ISSUING A NARROW DISCOVERY ORDER AFTER BEING PRESENTED WITH 
+
+
+Petitioner, 
+EVIDENCE PROVIDING A COLORABLE BASIS TO BELIEVE SELECTIVE 
+
+
+Vv. 
+PROSECUTION MAY HAVE OCCURRED. 
+
+
+CHRISTOPHER LEE ARMSTRONG, ET. AL., 
+
+
+Respondent. 
+
+
+ON PETITION FOR WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+OPPOSITION TO PETITION FOR CERTIORARI 
+
+
+TIMOTHY C. LANNEN 
+Counsel of Record 
+880 W. First Street, Suite 516 
+Los Angeles, California 90012 
+(213) 680-3617 
+
+
+Attorney for Respondent 
+AARON HAMPTON 
+
+
+TABLE OF CONTENTS 
+TABLE OF AUTHORITIES 
+: Page Cases Page 
+OPINIONS DPA eCRhehebentens 660seseeede beecedhs ceracaccuaal 
+Pas CO SSSRERCOSEaeO COS SS ERED CcOe Cee ORD Ceooecceoeed Arlington Height v. Metropolitan Housing — j usin 
+Development Corp. 429 U.S. 252, 266 (1977) ....eeeeeeeeees 15 
+PARTIES TO THE Pes 6660666665) hobs bb Rbebsenectneetin : 7 
+Attorney General of United States v. Irish People, 
+Pe OSU5 6666656000556 466.00 066 uSDE Ob OEE SOOECecéoecuel Inc i. oe a. Oe Ce, Cal, SOON cecocccecveceees 11 
+REASONS FOR DENYING THE PETITION........ 6606565 Gd Us8 ee Siood 
+ahh Oe ek6ackbe cen ease ebbes bee bes neeseweeuce«xcculll _ — ” —* eee Pn: , SA eae = 
+In re Grand Jury 
+MOTION TO LEAVE TO PROCEED IN FORMA PAUPERIS.............18 Gid F, B46 2682, 2030 (30 Cir. 1980) ..cccccccsccccccvcsveces 11 
+i», -  , i @  ... seeeeseeeses eeek® 
+De ee te ieee CASE ECO OS CH SDE NES CORES 15 
+ska Easter Orthodox 
+Catholic Church v.United States 
+S40 PF. 26 1067, 1095 (20 Cir. 19BB) cece ccsccesesecsccees ll 
+United States v. Adams 
+S70 F. 24 1140, 1246 (6TH Cir.19B9) ... ccc ccc ccccvscccevses ll 
+t Vv mstron 
+48 FP. 34 1508, 1512 (9tH Cir. - 1998) .. cece vec veescnevevecs ll 
+i sv alough 
+820 F. 22 14865, 1491 (9th Cir.1987) .. ccc ccc cscvcnccvvvves 14 
+a 
+462 F. 22 171, 182 (3rd Cir. 1973) wc cece ccecsescseseevees 14 
+United States v. Berrios 
+$01 F. 24 1207, 1212 (2nd Cir. 1974) wc ccc vecvscvcevvecves 14 
+eois 
+9664 F 20 935, 940 (9tM Cir.1992) . cc ccc ecccvcccevecesvces 6,8 
+woo 
+796 F. 2€ 49, 52 (4th Cir. 1986)... ecw neneeeenveesces 11,14 
+United States v. Gomez-Lopez 
+Daily Journal D.A.R. 10560... . cece cece eee ee eee renee ees 12 
+
+
+ii iii 
+
+
+TABLE OF AUTHORITIES-Continued 
+Cases Page 
+
+
+United States v. Gordon 
+817 F. 2da 1538,1540 (11th Cir. 1988) Serre, eee ee 
+900 F. 2d 1155, 1159 (7th Cir. 1990)..........eeeeeeeekl, 14 
+
+
+United States v. Henry 
+CR 94628-CBM (c.D. Cal June 25, 1995S) .ccccccscvcccsseseseene 
+
+
+United States v. Hintzman 
+
+806 F. 2a 840, 846 (8th Cir. 1986) -.ccccccccccccsccccssesesene 
+United States v. Johnson 
+
+577 F. 2a 1304, 1308 (5th Cir. 1978). ne © fe © rrr ss 
+
+
+United States v. Parham 
+16 F. 30 044, O47 (8th Cig. 19006) .ccccccccseceseeenseeneel 
+
+
+United States v. P.H.E., Inc. 
+965 F. 2d 848,860 (10th cir. 1992) -ccccccccecccccsccseseesenn 
+
+
+United States v. Penagarican-Soler 
+
+911 F. 2d 833,838 (ist Cir. 1990)..... (dace peen sedeecaueel 
+
+United States vy. Redondo-Lemos 
+
+995 F 2d 1302 (9th Cir. 1992)............. 0466668 eee 
+
+United States v. Wayte 
+
+470 U.S. 598, (1985). ne wo eeeeeese © #*# © © © © © © © 60666865 Beene 
+
+Washington v. Davis 
+
+426 U.S. 330 363 CIOVG) «6ccccctdsseseee ionaide errr 
+j Wo v 
+
+138 GS 396, 36 (30068). ccccvsceucesseel eee << ae eee 15 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES-Continued 
+
+
+Page 
+Statutes 
+BO U.B.C. GB OBE (CS) ccccccccescccccscsccresscvesesecesssess 2 
+21 U.S.C. § B41 (A) (1) nce cece ccc r crn e renner nnaneneneee 2,3 
+21 U.S.C. § BEL (D) nce cee c cee c cere ee reer neneeeeeeeeeeees 2 
+21 U.S.C. § BEG. cece reser reece eeeereeeeeseeeeeeeeseeees 2,3 
+nn. ccc cece eesccesescccecccesccoses 2 
+Cal. Health & Safety Code § 11351.5....cc ccc ccnnncnnnrnnes 3 
+Miscellaneous 
+
+
+U.S. Sentencing Commissions: 
+
+
+Crack Cocaine Offenses, 57 Criminal Law Reporter 2127, 2131 
+
+
+31, 
+
+
+eeeeeeeeeeeeeeeeeseeeeeeeeeeveeeeeeaeseeeeeaeneaeneesee ee 728 
+
+
+Materials Concerning Sentencing for 
+
+
+(May 
+
+
+October Term, 1995 
+
+
+No. 95-157 
+UNITED STATES OF AMERICA, 
+Petitioner, 
+v. 
+CHRISTOPHER LEE ARMSTRONG, ET. AL., 
+
+
+Respondent. 
+
+
+ON PETITION FOR WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+
+
+FOR THE NINTH CIRCUIT 
+
+
+OPINIO..) BELOW 
+The opinion of the en banc court of appeals is reported 
+at 48 F.3d 1508. The panel opinion of the court of appeals is 
+reported at 21 F. 3d 1431. 
+JURISDICTION 
+The judgement of the en banc court of appeals was 
+entered on March 2, 1995. By order dated June 21, 1995, Justice 
+
+
+1 
+
+
+0' Connor extended the time within which to file a petition for 
+a writ of certiorari to and including July 28, 1995. The 
+
+
+jurisdiction of this Court is invoked under 28 U.S.C. § 1254 (1). 
+
+
+PARTIES TO THE PROCEEDING 
+The petitioner is the United States of America. The 
+
+
+respondents are Christopher Lee Armstrong, Robert Rozelle, Aaron 
+
+
+Hampton, Freddie Mack, and Shelton Auntwan Martin. 
+
+
+STATEMENT 
+
+In April of 1992, respondent Aaron Hampton, Christopher 
+Armstrong, Freddie Mack, Shelton Martin, and Robert Rozelle were 
+charged with federal offenses for their alleged involvement in 
+the distribution of cocaine base ("crack"). The charges stemmed 
+from an investigation conducted under the direction of a joint 
+state and federal task force comprised of detectives from the 
+Inglewood Narcotics Division and agents from the Bureau of 
+Alcohol, Tobacco, and Firearms. 
+
+Respondents, each of whom is a young African-American 
+male, were charged with conspiracy to distribute cocaine base 
+under 21 U.S.C. § 846. Some of the defendants were also charged 
+with selling cocaine base under 21 U.S.C. 841 (a)(1) and using 
+firearms in connection with drug trafficking in violation of 18 
+U.S.C. § 924 (Cc). The decision to charge the defendants with 
+federal rather than California State offenses was significant. 
+Federal law imposes a minimum sentence of 10 years and a maximum 
+of life for those convicted of selling more than 50 grams of 
+
+
+2 
+
+
+cocaine base. 21 U.S.C. § 841 (b). By contrast, under California 
+law, the minimum sentence for that offense is three years and the 
+maximum is five. Cal. Health & Safety Code § 11351.5 (Deering 
+1993). 
+
+Respondents filed a Motion for Discovery and/or 
+Dismissal of Indictment for Selective Prosecution, claiming that 
+the decision to prosecute on federal instead of state charges was 
+based on race. To support the motion for discovery, the 
+defendants offered into evidence a study of every case involving 
+a charge under 21 U.S.C. §§ 841 and 846 that the Federal Public 
+Defender's Office for the Central District of California had 
+closed in 1991. The study showed that in all 24 such cases the 
+defendants had been black. 
+
+The district court granted the motion for discovery. 
+Specifically, the district judge ordered the government to: (1) 
+provide a list of all cases from the prior three years in which 
+the government charged both cocaine base offenses and firearms 
+offenses; (2) identify the race of the defendants in those 
+cases;(3) identify whether state, federal, or joint law 
+enforcement authorities investigated each case; and (4) explain 
+the criteria used by the U.S. Attorney's Office for deciding 
+whether to bring cocaine base cases to the federal court. 
+
+The government chose not to comply with the discovery 
+order and instead filed a motion for reconsideration. In support 
+of its motion, the government provided a list of all defendants 
+charged with violations of 21 U.S.C. §§ 841 and 846 over a three 
+year period (without any racial breakdown) as well as 
+
+
+3 
+
+
+: — Se a 
+
+
+= eld. 
+
+
+declarations by three law enforcement officers and two Assistant 
+United States Attorneys. The declarations collectively asserted 
+that socioeconomic factors led certain ethnic and racial groups 
+to be particularly involved with the distribution of certain 
+drugs and that Blacks were particularly involved in the Los 
+Angeles-area crack trade. The declarations also contained a 
+description of some of the race neutral factors on which federal 
+prosecutors based their charging decisions for crack-related 
+offenses. The factors included were the strength of the 
+evidence, the deterrent value of bringing the charge, the federal 
+interest in the prosecution, and the suspect's criminal history. 
+
+In response, the defendants bolstered the statistical 
+study they had submitted at the initial hearing with additional 
+declarations. First, one of the defendant's counsel offered an 
+affidavit stating that she had spoken with a halfway house intake 
+coordinator who told her that in his experience treating cocaine 
+base addicts, whites and blacks dealt and used the drug in equal 
+numbers. Second, another defense attorney asserted in a 
+declaration that his experience and conversations with judges, 
+lawyers, and defendants led him to conclude that many non-blacks 
+were prosecuted for cocaine base offenses in state court. 
+Finally, the defendants submitted an article from the Los Angeles 
+Times discussing the disparate federal sentences imposed for 
+cocaine base and regular cocaine offenses. 
+
+The District Court denied the motion for 
+reconsideration. The court stated its reasons for the denial at 
+
+
+the hearing: "The statistical data provided by the Defendant 
+
+
+raises a question about the motivation of the Government which 
+could be satisfied by the government disclosing its criteria, if 
+there is any criteria, for bringing this case and others like it 
+in Federal Court. Without this criteria the statistical data is 
+evidence and does suggest that the decisions to prosecute in 
+Federal court could be motivated by race. Without expert 
+testimony, this Court cannot conclude that the defendants’ 
+evidence is explained by social phenomena." 
+
+The government again chose not to comply with the 
+discovery order. The district court judge dismissed the 
+indictments, but stayed the order pending appeal. The government 
+timely appealed. 
+
+2. A divided panel of the court of appeals reversed. 
+The majority constructed a three category test based on Redondo- 
+
+
+Lemos, supra, and Bourgeois, supra. The dissent argued that the 
+district court had not abused its discretion by ordering 
+
+
+discovery on the claim of selective prosecution, and that the 
+majority opinion created three highly artificial categories of 
+cases. 
+
+3. The court of appeals granted rehearing en banc to 
+resolve a conflict in its cases over the standards governing 
+discovery when a defendant claims selective prosecution. By a 
+7-4 vote, the court held that the district court had not abused 
+its discretion in ordering discovery in this case. The majority 
+first held that a district court had discretion to order 
+discovery on a claim of selective prosecution when the evidence 
+provides a colorable basis for believing that discriminatory 
+
+5 
+
+
+prosecutorial selections have occurred. The existence of a 
+colorable basis must be judged in light of all the evidence 
+presented to the district court and not simply that offered by 
+the defendant. "The United States Attorney must be given the 
+chance to make whatever showing [he] deems appropriate to dispel 
+the district judge's concerns." (app. at 8a)' However, where 
+the goverment fails to make a showing sufficient to dispel those 
+concerns, then a colorable basis remains even though the 
+government has provided some evidence in response. 
+
+Explaining and refining the standard articulated in 
+United States v. Bourgeois 964 F 2d 935, 940 (9th Cir.) cert. 
+denied, 113 S. Ct. 290 (1992) the court of appeals held that: 
+
+a. The showing needed for discovery is less than that 
+needed for a prima facie case. (app. at 9a) 
+
+b. Inadequately explained evidence of a significant 
+statistical disparity in the race of those prosecuted suffices 
+to show the colorable basis of discriminatory intent and effect 
+that warrants discovery on a selective prosecution claim. (Id 
+at lla) 
+
+c. Defendants attempting to show a colorable basis 
+that warrants discovery can only be expected to make good faith 
+efforts to obtain whatever evidence is available, as well as to 
+provide whatever evidence is in their possession. (Id at l2a) 
+
+The court noted that the colorable basis standard 
+
+
+enunciated in its opinion is more in line with other circuits 
+
+
+' app. shall refer to the appendix to the petition for a 
+writ of certiorari filed in this case. 
+
+
+6 
+
+
+and that it accommodates the twin but conflicting concerns that 
+discovery in selective prosecution claims implicates: "The 
+colorable basis standard ensures that the government will not be 
+called to answer for its charging decisions as a result of 
+frivolous and unwarranted allegations. At the same time, the 
+standard ensures that defendants will not face unjustified 
+hurdles at the discovery stage that will preclude them from 
+demonstrating the existence of actual discrimination in the 
+selection of defendants for criminal prosecution." (app. at l4a, 
+15a) 
+
+Chief Judge Wallace, concurring with the majority, 
+agreed that the abuse of discretion standard permits the district 
+court flexibility and voted to affirm. (Id at 30a) While noting 
+that usually evidence of “others similarly situated" is needed 
+to establish a prima face case, he nevertheless found that at the 
+discovery stage, where there is evidence of a large enough number 
+of prosecutions directed at a single race over a sufficiently 
+long period of time, eventually there becomes a point where that 
+evidence is sufficient to establish a colorable basis of 
+selective prosecution. (Id at 31a) 
+
+The dissent found that the majority opinion “crafts a 
+new standard" rather than clarifying the colorable basis standard 
+and that it allowed discovery on a showing that discrimination 
+“may” have occurred, rather than a definitive showing it had 
+occurred. (app. dissent at 44a.) The dissent would require a 
+
+
+specific showing of a similarly situated non-black offender who 
+
+
+. 
+
+
+was not prosecuted, rather than a colorable basis for the belief 
+such an individuai exists. (]d. at 46a.) 
+
+The dissent agreed that, in limited circumstances, a 
+pattern of prosecution of a single racial group could provide 
+circumstantial evidence of intent. (Id. at 58a) It disagreed 
+that the statistical evidence presented to the district court 
+
+
+here was sufficient to support the inference. 
+
+
+REASONS FOR DENYING THE PETITION 
+
+
+The Ninth Circuit Court of Appeals explained and 
+refined its rulings in two previous discovery cases United States 
+v. Bourgeois 964 F 2d 935 (9th Cir. 1992) United States Vv. 
+Redondo-Lemos 995 F 2d 1296, 1302 (9th Cir. 1992) and in so doing 
+made a ruling that is squarely in the mainstream of federal 
+discovery law on the issue of when discovery can be ordered on 
+a claim of selective prosecution in a criminal case. 
+
+By holding that defendants must present sufficient 
+evidence to provide a colorable basis for believing that the 
+government has engaged in discriminatory prosecution before a 
+court may order discovery, the appellate court “ensures that the 
+government will not be called to answer for its charging 
+decisions as a result of frivolous and unwarranted allegations. 
+At the same time the standard ensures that defendants will not 
+face unjustified hurdles at the discovery stage that will 
+
+
+preclude them from demonstrating the existence of actual 
+
+
+discrimination in the selection of defendants for criminal 
+prosecution. " (app. at 14a, 15a) 
+
+1. The court of appeals relied not only on the 
+statistical data presented by the Federal Public Defenders Office 
+that showed that the federal government prosecuted only African- 
+Americans for crack cocaine offenses, but also upon declarations 
+demonstrating that white defendants were routinely prosecuted in 
+state court for crack cocaine. The court found those 
+declarations were probative evidence that’ like-situated 
+defendants of a different race were not prosecuted in federal 
+court (app. at 23a ft. 8)? The sum of the evidence presented to 
+the district court places the holding of the court of appeals in 
+the mainstream of its fellow circuits; that “inadequately 
+explained evidence of a significant statistical disparity in the 
+race of those prosecuted suffices to show the colorable basis of 
+discriminatory intent and effect that warrants discovery on a 
+selective prosecution claim". 
+
+The court of appeals had already stated in Redondo- 
+Lemos supra 955 2d at 1301-02 that statistical disparities alone 
+may suffice to provide the evidence of discriminatory intent that 
+will establish a prima facie case of selective prosecution. 
+
+In Bourgeois,supra, the court held that to obtain discovery on 
+
+
+a selective prosecution claim, a defendant must present specific 
+
+
+2. The government petition ignores the finding of the court 
+of appeals that the affidavits were probative evidence, while 
+arguing at the same time that the affidavits had insufficient 
+evidentiary value to be considered. (petition at 17, Footnote 
+1) 
+
+
+facts which establish a colorable basis for the existence of both 
+discriminatory application of a law and discriminatory intent on 
+the part of the government. The court noted that it was a high 
+
+
+threshold. (Id. at 939) The Bourgeois court found that the 
+
+
+defendant had failed to establish a colorable basis for the first 
+
+
+element of the claim that “others similarly situated have not 
+
+
+been prosecuted" citing United States v. Wayte 470 U.S. 
+
+
+598, (1985)? The instant opinion of the court of appeals 
+acknowledges that the standard of evidence sufficient to trigger 
+discovery must necessarily amount to less than the evidence 
+needed to establish a prima facie case, and that defendants 
+attempting to show a colorable basis that warrants discovery can 
+only be expected to make good faith efforts to obtain whatever 
+evidence is available, as well as to provide what evidence is in 
+their possession. (app. at 12a) By holding that “inadequately 
+explained evidence of a significant statistical disparity in the 
+race of those prosecuted suffices to show the colorable basis of 
+discriminatory intent and effect that warrants discovery on a 
+selective prosecution claim," the court of appeals settles the 
+
+
+tension between Redondo-Lemos and Bourgeois while at the same 
+
+
+time upholding the colorable basis standard. 
+
+
+3 United States v. Wayte 470 U.S. 598 held that to succeed 
+on a selective prosecution claim, the defendant bears the burden 
+of showing “that others similarly situated have not been 
+prosecuted and that the prosecution is based on an impermissible 
+motive" and that selective prosecution claims are evaluated 
+“according to equal protection standards". supra at 608-09 
+However Wayte did not address the issue of discovery on a Claim 
+of selective prosecution (Id at 605 ft. 5) (emphasis added) 
+
+
+10 
+
+
+In so doing, the court notes that the evidence of 
+discriminatory prosecution presented to the district court in the 
+discovery motion was much stronger than the ninth circuit held 
+insufficient to initiate discovery in Bourgeois. (app at 16a) 
+The opinion hardly supports petitioner's subsequent allegation 
+that the court of appeals holding amounts to a “reformulation of 
+legal principles". 
+
+The colorable basis standard is embraced by the 
+third, sixth, seventh, tenth and D.C. circuits,‘ while two 
+circuits have a less-strict "non frivolous" standard’ and four 
+
+
+¢ The colorable basis 
+
+
+apply a stricter prima facie showing test. 
+test as clarified in the court's opinion takes the middle ground 
+that “accommodates the twin but conflicting concerns" that 
+
+
+discovery in selective prosecution claims implicate. 
+
+
++ 
+
+
+See In re Grand Jury, 619 f. 2d 1022, 1030 (3d Cir. 
+1980); United States v. Adams, 870 F. 2d 1140, 1146 (6th Cir. 
+1989); United States v. Heidecke, 900 F.2d 1155, 1159 (7th Cir. 
+1990); United States v. Armstrong, 48 F. 3d 1508, 1512 (9th Cir. 
+
+
+1995); United States v. P.H.E., Inc., 965 F. 2d 848, 860 (10th 
+Cir. 1992); Attorney General of United States v. Irish People, 
+
+
+Inc., 684 f. 2d 928, 948 (D.C. Cir. 1982). 
+
+
+5 
+See United States v. Greenwood, 796 F. 2d 49, 52 (4th Cir. 
+
+
+1986); United States v. Gordon, 817 F.2d 1538, 1540 (11th Cir. 
+1988). 
+
+
+6 
+See United States v. Penagarican-Soler, 911 F.2d 833, 838 
+(Ist Cir. 1990); St. Germain of Alaska Easter Orthodox Catholic 
+Church v. United States, 840 F. 2d 1087, 1095 (2d Cir. 1988): 
+United States v. Johnson, 577 F. 2d 1304, 1308 (Sth Cir. 1978); 
+United States v. Parham, 16 F. 3d 844, 847 (8th Cir. (1994). 
+
+
+11 
+
+
+2. Petitioner's claim that the Ninth Circuit holding 
+has a “substantial adverse impact on the prompt and effective 
+enforcement of the criminal law" and "places the entire crack 
+enforcement program for that District under a cloud" does not 
+withstand scrutiny. The same district court judge that granted 
+the discovery motion in the instant case denied a similar motion 
+when the government properly responded with information regarding 
+
+
+its policies. See United States v. Henry No. CR 94628-CBM 
+
+
+(C.D. Cal June 26, 1995). Had the government complied with the 
+concerns of the district court as expressed in its narrow 
+
+
+discovery order, it could have avoided this controversy. AS 
+
+
+noted by petitioner, the affidavits prepared in United States v. 
+Henry, supra, have satisfied discovery in other cases (petition 
+at 23 ft. 3) Respondent is aware of no case where discovery has 
+been ordered following that response by the government. In 
+essence the government has put the issue to rest by complying 
+with the district court's cautious and fact-appropriate original 
+order. 
+
+In predicting the ramifications of the holding in this 
+case to Giecovery as applied to other statutes, petitioner joins 
+the dissent in ignoring the limited question and complaint 
+presented to the district court judge: That African-American 
+males are more frequently prosecuted for federal crack offenses, 
+
+
+with the increased liability for punishment, than for state crack 
+
+
+12 
+
+
+offenses, where the punishment is remarkably less severe.’ That 
+issue does not translate to crimes such as violation of 
+immigration laws, where the only prosecutions occur under federal 
+law. Similarly, the perceived danger of future challenges to 
+white race and male gender prosecutions in LSD, pornography and 
+prostitution cases does not take into account the specific 
+phenomenon presented in this case to the district court judge and 
+the court of appeals. 
+
+The unique problems involving the disparity of 
+treatment of defendants for the use and sale of crack cocaine and 
+powder cocaine in federal court, as well as the disparity of 
+sentences for crack cocaine between federal and state courts, 
+have attracted national attention and led to consideration by 
+congress and the United States Sentencing Commission for reform 
+
+
+in these areas.® 
+
+
+The evidence presented to the district court 
+that federal authorities had targeted a racial minority made the 
+narrow discovery order of the district court judge appropriate. 
+District court judges routinely fashion discovery orders on a 
+case-by-case basis, based on their observations, experience and 
+
+
+the evidence presented to them. For that reason district court 
+
+
+discovery orders are not disturbed absent a clear abuse of 
+
+
+Respondent Aaron Hampton is facing mandatory life 
+
+
+imprisonment without possibility of parole in the instant federal 
+case. Had the case been filed “across the street" in the Los 
+Angeles County Court under the state statute, Mr. Hampton would 
+be facing a maximum of approximately six years in actual custody. 
+
+°- gee 6.6. Sentencing Commission: Materials Concerning 
+Sentencing for Crack Cocaine Offenses, 57 Criminal Law Reporter 
+2127, 2131 (May 31, 1995) 
+
+
+13 
+
+
+discretion. United States v. Balough 820 F. 2d 1485,1491 (9th 
+
+
+Cir. 1987).° 
+
+
+The court of appeals emphasized that its discovery 
+holding does not reach the ultimate issue of whether defendants 
+have in fact demonstrated the existence of selective prosecution. 
+(app. at 8a) It found that the evidence necessary to obtain a 
+discovery order must obviously be substantially less than that 
+needed to prove the charge itself. Nevertheless the appellate 
+court insists upon evidence that provides a colorable basis for 
+believing that discriminatory prosecutorial decisions have 
+occurred. The existence of a colorable basis must be judged in 
+light of all the evidence presented to the district court and not 
+
+
+simply that offered by the defendant. "The United States 
+
+
+Attorney must be given the chance to make whatever showing he 
+
+
+deems appropriate to dispel the district court's concerns." 
+
+
+(app. at 8a) 
+
+
+3. Finally, the court of appeals colorable basis 
+standard of review for discovery fits squarely within the 
+parameters of cases decided by this Court, particularly where 
+
+
+equal protection and racial classifications are involved. 
+
+
+° i i buse of discretion See 
+. Other circuits also review for a 
+e.g i 900 F 2d 1155, 1162 (7th 
+
+
+th 
+cir.1990); United States v. Hintzman, 806 F. 2d 840, 846 (8 
+
+
+. §2 (4th Cir. 
+. 1986); United States v. Greenwood, 796 F. 2d 49, 
+1988) United States v. Berrios, $01 F. 2d 1207, 1212 (2nd Cir. 
+
+
+1974); United States v. Berrigan, 482 F. 2d 171, i181 (3rd Cir. 
+1973) 
+
+
+14 
+
+
+Although the defendant bears the burden of proving 
+purposeful discrimination, [s]he may rely upon circumstantial 
+evidence of invidious intent based upon proof of a 
+disproportionate impact in the application of the law. Batson 
+vy. Kentucky 476 U.S. 79, (1986) Arlington Height v. Metropolitan 
+Housing Development Corp. 429 U.S. 252, 266 (1977) Washington 
+v. Davis 426 U.S. 229, 242 (1976). This court held in Arlington 
+
+
+Heights v. Metropolitan Housing Development Corp. supra, 429 US. 
+
+
+252, 266 that a direct showing of discriminatory intent is not 
+always necessary to make out an equal protection claim; under 
+ordinary equal protection standards, a claimant may prove 
+discriminatory purpose circumstantially. (Id at 266) “Sometimes 
+a clear pattern, unexplainable on grounds other than race, 
+emerges from the effect of the state action even when the 
+governing legislation appears neutral on its face". (Id at 266) 
+See also Yick Wo vy. Hopkins 118 U.S. 356, 30 (1886) Gomillion 
+v. Lightfoot 364 U.S. 339 (1960) Determining whether invidious 
+discriminatory purpose was a motivating factor demands a 
+sensitive inquiry into such circumstantial and direct evidence 
+of impact as may be available. Washington v. Davis, supra 426 
+U.S. 229, 242 (1976) 
+
+Petitioner unwisely attempts to join the standard 
+applicable to a motion to dismiss for selective prosecution with 
+the standard applicable to a motion for discovery. The district 
+court and the court of appeal ruled only on the latter. 
+
+By initiating limited discovery based upon the evidence 
+presented, the district court acted properly within its 
+
+
+15 
+
+
+discretion. The court of appeals correctly affirmed that ruling 
+
+
+using the colorable basis standard for discovery in a criminal 
+
+
+case. 
+CONCLUSION 
+
+
+The petition for writ of certiorari should be denied. 
+
+
+ectfully Submitted, 
+
+
+[aff 
+
+
+TIMOTHY A. LANNEN 
+Counsel’ of Record 
+Attorney for Respondent 
+Aaron Hampton 
+
+
+16 
+
+
+CERTIFICATE OF SERVICE 
+
+
+I, TIMOTHY C. LANNEN, a member of the Bar of this 
+Court, hereby certify that on August 24, 1995, Respondent's 
+OPPOSITION TO PETITION FOR CERTIORARI was served upon counsel 
+listed below by depositing copies of same in the United States 
+mail, with first class postage prepaid, addressed as follows: 
+
+
+DREW S. DAYS, III 
+
+SOLICITOR GENERAL 
+
+DEPARTMENT OF JUSTICE 
+
+10TH & PENNSYLVANIA AVE., N.W. 
+WASHINGTON, D.C. 20530 
+
+
+DAVID DUDLEY, ESQ. 
+1999 AVENUE OF THE STARS, SUITE 1200 
+LOS ANGELES, CA 90067 
+
+
+JOSEPH WALSH 
+316 W. SECOND STREET, SUITE 1200 
+LOS ANGELES, CALIFORNIA 90012 
+
+
+BARBARA O'CONNOR, ESQ. 
+
+DEPUTY FEDERAL PUBLIC DEFENDER 
+1503 UNITED STATES COURTHOUSE 
+
+312 NORTH SPRING STREET 
+
+LOS ANGELES, CALIFORNIA 90012 
+
+
+BERNARD ROSEN, ESQ. 
+1717 FOURTH STREET, THIRD FLOOR 
+LOS ANGELES, CALIFORNIA 90401 / 
+
+
+/ 
+
+
+TIMOTHY C. LANNEN 
+Attorney for Respondent 
+AARON HAMPTON 
+
+
+17 
+
+

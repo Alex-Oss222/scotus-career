@@ -1,0 +1,738 @@
+No. 95-5207 
+
+
+In The 
+
+
+Supreme Court of the United States 
+October Term, 1995 
+
+
+° 
+
+
+BYRON KEITH COOPER, 
+
+
+Petitioner, 
+vs. 
+
+
+THE STATE OF OKLAHOMA, 
+Respondent. 
+
+
+* 
+
+
+On Writ Of Certiorari To The Court Of 
+Criminal Appeals Of Oklahoma 
+
+
+0 
+
+
+REPLY BRIEF FOR THE PETITIONER 
+
+
+* 
+
+
+Rosert A. RAurrz“ 
+Juuia C. SUMMERS 
+Kim CHANDLER JOHNSON 
+
+
+Office of the Public Defender 
+of Oklahoma County 
+
+320 Robert S. Kerr, Rm. 611 
+Oklahoma City, OK 73102 
+Telephone: (405) 278-1550 
+
+
+Counsel for Petitioner 
+
+
+*Counsel of Record 
+
+
+DD ß e TTT? 22... 
+COCKLE LAW BRIEF PRINTING O, (800) 225-6964 
+OR CALL COLLECT (402) 342-2831 
+
+
+i 
+TABLE OF CONTENTS 
+
+
+FORD Ce FP COM sa csc cccccccccesccctucsce ii 
+ARGUMENT 
+
+
+NEITHER HISTORY, NOR PRECEDENT, NOR 
+SOUND CONSTITUTIONAL POLICY JUSTIFIES 
+OKLAHOMA'S CHOICE TO PLACE A BURDEN 
+UPON DEFENDANTS TO DEMONSTRATE THEIR 
+INCOMPETENCY TO STAND TRIAL BY CLEAR 
+AND CONVINCING EVIDENCE ................ 1 
+
+
+c ee ee ike 1 
+
+
+B. Kesiance On This Court’s Precedents Is Mis- 
+placed And Sound Policy Fails To Justify Sup- 
+port For Respondent's Position 2 
+
+
+C. A Uniform Standard Of Proof Has No Effect 
+On The Committability Of Incompetent Indi- 
+r ( Si ee wd y 
+
+
+D. Clear And Convincing Proof Of Inco 
+Does Not Facilitate Detection of Malingering... 11 
+
+
+SPEND cp cccdvecccdeacewespapedebetseh apne 13 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+
+Addington v. Texas, 441 U.S. 418 (1979) .......... 2,3,9 
+Bellotti v. Baird, 443 U.S. 622 (19790:;ũ: 6.6 cee eees 4 
+Boykin v. Alabama, 395 U.S. 238 (19690 ¶ .. 1 
+Drope v. Missouri, 420 U.S. 162 (1975) 2, 5, 7, 8 
+Dusky v. United States, 362 U.S. 402 (1960) ........... 9 
+Faretta v. California, 422 U.S. 806 (1975) 1 
+Gideon v. Wainwright, 372 U.S. 335 (1963) 8 
+
+Godinez v. Moran, U.S. __, 113 S,Ct. 2680 
+Dis id seach cvess hk ⁵—ͤü!ñy. „neee 1 
+Griffin v. California, 380 U.S. 609 (1965). 1 
+Hodgson v. Minnesota, 497 U.S. 417 (1990) ............ 4 
+Jackson d. Indiana, 406 U.S. 715 (19777777 10 
+
+Medina v. California, 505 U.S. 437, 112 S.Ct. 2572 
+a 5 65 SGn SAV RNSS RASEA DD OSERSD HOMO ev oe coe 4, 5, 14 
+O'Connor v. Donaldson, 442 U.S. 563 (1975) ........... 4 
+
+Ohio v. Akron Center for Reproductive Health, 497 
+D eee 3, 4 
+Pate v. Robinson, 383 U.S. 375 (19660) 5, 8, 14 
+Patterson v. New York, 432 U.S. 197 (1977) 14 
+Pointer v. Texas, 380 U.S. 400 (19650)) 1 
+Riggins v. Nevada, 504 U.S. 127 (1992).............. 1,7 
+Rock v. Arkansas, 483 U.S. 44 ( 1987%%/ . 1 
+
+
+Strickland v. Washington, 466 U.S. 668 (1984) 1 
+
+
+iii 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+STATUTES 
+Okla. Stat. tit. 22, §§ 1175.1-1175.8 (1991 & Supp. 
+
+r 7«èͥ— Z ⁰—³rU dad ce dceceececes 4 
+Okla. Stat. tit. 43A, § 1-103(14) (Supp. 1995).......... 4 
+Okla. Stat. tit. 43A, § 5-401 4 
+
+MISCELLANEOUS 
+Diagnostic and Statistical Manual of Mental Disor- 
+REG èÄ A IT a Oa 6 
+
+
+ARGUMENT 
+
+
+NEITHER HISTORY, NOR PRECEDENT, NOR SOUND 
+CONSTITUTIONAL POLICY JUSTIFIES OKLA- 
+HOMA’S CHOICE TO PLACE A BURDEN UPON 
+DEFENDANTS TO DEMONSTRATE THEIR INCOM- 
+PETENCY TO STAND TRIAL BY CLEAR AND CON- 
+VINCING EVIDENCE. 
+
+
+A. Introduction. 
+
+
+Respondent does not contest the most important 
+point in this case: the peculiarly high burden that Okla- 
+homa places on defendants to demonstrate their incom- 
+petence to stand trial is unprecedented at common law 
+and entirely foreign (until recently) to traditional Ameri- 
+can criminal practice. Neither federal law nor the law of 
+forty-six of the fifty states places so high a burden on 
+defendants. This burden violates the fundamental right 
+not to be tried while incompetent and corollary constitu- 
+tional rights implicit in this fundamental right.! 
+
+
+These corollary constitutional rights include: effective 
+assistance of counsel, Strickland v. Washington, 466 U.S. 668 
+(1984); waiving the privilege against compulsory self-incrimina- 
+tion by taking the witness stand, Boykin v. Alabama, 395 U.S. 238 
+(1969); the right to confront one’s accusers, Pointer v. Texas, 380 
+U.S. 400 (1965); the right to testify on one’s own behalf, Rock v. 
+Arkansas, 483 U.S. 44 (1987); acceptance of the guidance of coun- 
+sel, Godinez v. Moran, U.S. 113 S.Ct. 2680 (1993) (citing 
+Faretta v. California, 422 U.S. 806 (1975)); the right to remain 
+silent without penalty for doing so, Griffin v. California, 380 U.S. 
+609 (1965); and other rights and factors encompassed in these 
+corollary constitutional rights which are relevant to the truth- 
+seeking function. See Brief of Amicus National Association of 
+Criminal Defense Lawyers 9-17; Riggins v. Nevada, 504 U.S. 127, 
+139-45 (1992) (Kennedy, J, concurring in judgment). 
+
+
+2 
+
+
+B. Reliance On This Court’s Precedents Is Mis- 
+placed And Sound Policy Fails To Justify Sup- 
+port For Respondent's Position. 
+
+
+Respondent relies on Addington v. Texas, 441 U.S. 418 
+(1979), but that reliance is, to say the least, misplaced. 
+Addington held that, in order to adequately protect an 
+individual’s constitutional right to liberty, due process 
+required that the government bear the high burden of clear 
+and convincing evidence. 441 U.S. at 431-33. Addington in 
+no way offers support for the proposition that the individ- 
+ual should bear that high burden before his constitutional 
+right will be honored; if anything, Addington’s solicitude 
+for the constitutional rights of the individual argues pos- 
+itively against Respondent's position. 
+
+
+Accepting Respondent's position would mean that 
+we are no longer asking that an individual share equally 
+with the state the risk of error for an erroneous compe- 
+tence finding, but saying the state’s interest is signifi- 
+cantly more important than the defendant's fundamental 
+right not to be tried while incompetent. This standard 
+does exactly what Addington forbids: it strips away an 
+individual's liberty interest — in this case Petitioner’s 
+fundamental constitutional right not to be tried while 
+incompetent - without minimal constitutional protec- 
+tions. The Respondent asks this Court to condone a prac- 
+tice that allows it to try factually incompetent 
+individuals, contrary to the purpose of the Due Process 
+Clause to protect individual interests, and contrary to this 
+Court’s concern that we “jealously guard” the fundamen- 
+tal right not to be tried while incompetent. Drope v. Mis- 
+souri, 420 U.S. 162, 172, 173 (1975). 
+
+
+This Court has used the clear and convincing stan- 
+dard not as Respondent simplistically implies (i.e., when 
+the interests at stake are deemed to be more substantial 
+than the mere loss of money [Brief of Respondent 25), 
+but more precisely, when the risk of harm to individual 
+liberty is sufficiently important to require additional pro- 
+tection against an erroneous decision. For example, a 
+state could not satisfy the Addington standard by passing 
+a civil commitment law that required an individual to 
+prove he was not committable by clear and convincing 
+evidence. The harm created by the clear and convincing 
+standard is that a factually incompetent defendant will be 
+adjudged in a trial he does not understand and in which 
+he cannot even minimally participate. The Constitution 
+does not tolerate this severe impairment of the truthseek- 
+ing function of the criminal trial. 
+
+
+Raising the standard does not reduce the risk of error, 
+it merely reassigns it by requiring more incompetent 
+defendants to stand trial. That is, the rate of error is not 
+reduced; it is only the consequences of the errors that 
+change. Indeed, as a logical matter, it may increase the 
+number of mistaken competency findings by requiring 
+the trier of fact to reject its own beliefs about the truth of 
+the matter when those beliefs do not rise to the clear and 
+convincing standard. 
+
+
+Respondent’s reliance on Ohio v. Akron Center for 
+Reproductive Health, 497 U.S. 502 (1990), is similarly mis- 
+placed. There, this Court upheld the placement of a clear 
+and convincing evidence burden upon a minor seeking a 
+judicial bypass of a parental consent requirement. The 
+Court did so, however, because of a critical fact omitted 
+
+
+from Respondent's analysis: the judicial bypass pro- 
+cedure was an ex parte one in which no litigant was 
+present to advance state interests that might militate 
+against the minor’s claim.? Thus, Akron is readily distin- 
+guishable. 
+
+
+The state is a most active litigant in the competency 
+procedure. Adjudication of a defendant’s incompetence 
+does not occur until the state has had every opportunity 
+to develop the facts and make its position known. The 
+state, if it chooses, in preparation for a competency hear- 
+ing, may observe a defendant at a state hospital or jail 
+mental ward 24 hours a day, seven days a week. It can 
+subject the defendant to interviews with and evaluations 
+by mental health professionals. The state can run count- 
+less medical tests including testing blood levels after 
+medication treatment. It can administer any and all avail- 
+able psychological tests. The state has complete access to 
+observation and continued observation of the defendant. 
+No defense attorney or defense mental health expert will 
+have any greater opportunity to develop evidence of 
+incompetence. 
+
+
+Respondent argues a defendant may refuse psycho- 
+logical tests and refuse to cooperate with state mental 
+health professionals. Brief of Respondent 27. Medina v. 
+
+
+2 Additionally, the liberty interest of a minor to have an 
+abortion is subject to important limitations, “[a]s immature 
+minors often lack the ability to make fully informed choices that 
+take account of both immediate and long-range consequences.” 
+Hodgson v. Minnesota, 497 U.S. 417, 458 (1990) (O’Connor, J., 
+concurring in part and concurring in the judgment in part) 
+(citing Bellotti v. Baird, 443 U.S. 622, 640-41 (1979)). 
+
+
+California, 505 U.S. 437 (1992), permits the state to ade- 
+quately protect this interest, for if the defendant fails to 
+prove he is incompetent, he will be found competent. 
+Obviously, if the factfinder determines a defendant is not 
+cooperating with the state doctors willfully, this will be 
+taken into consideration in determining whether the bur- 
+den already placed on the defendant has been met. It is 
+quite clear that placement of the burden of proof on the 
+defendant by a preponderance of the evidence, as Medina 
+allows, adequately protects the state interest. It is a giant 
+leap from equipoise and the placement of the burden of 
+proof on the defendant to condone a practice that makes 
+it easier for the state to try incompetent individuals by 
+sacrificing the accuracy of the competency determination. 
+
+
+Respondent also argues that a preponderance stan- 
+dard is unnecessary because modern procedures — the 
+appointment of an attorney and a psychiatric expert 
+sufficiently protect the defendant's right not to be tried 
+while incompetent. See Brief of Respondent 22. 
+
+
+Petitioner was found competent despite having two 
+qualified criminal defense lawyers who, once convinced 
+of Petitioner’s incompetency, which this Court has recog- 
+nized might change at any time, Drope, 420 U.S. at 180-81; 
+Pate v. Robinson, 383 U.S. 375, 385-86 (1966), zealously 
+argued Petitioner was incompetent. They presented 
+uncontroverted psychological expert testimony that Peti- 
+tioner was suffering from mental illness and was incom- 
+petent. Dr. Murphy observed that Petitioner’s thought 
+patterns became confused during his examination on 
+May 4, thus impeding effective communication. App. 12, 
+
+
+21.3 Petitioner's inappropriate responses to questions 
+during his own testimony on May 4, and the incident in 
+which he ignored counsel - while testifying - to talk to 
+the deputy, likewise demonstrate that he was easily dis- 
+tracted. C.H.II 54-55. Moreover, Petitioner was exhibiting 
+this same symptom back in August, 1990, when Dr. King 
+examined him and determined him to be incompetent to 
+proceed to trial. C.H.I 6,13,20.4 
+
+
+Trial counsel presented evidence confirmed by psy- 
+chological experts that Cooper believed his attorney, the 
+prosecutor, and two other persons were conspiring to kill 
+him and had in fact entered his jail cell and tried to 
+strangle him. C.H.II 42-43, 46, 57-61, 71. This bizarre 
+
+
+3 Distractibility is a common symptom of many mood dis- 
+orders. See Diagnostic and Statistical Manual of Mental Disorders 
+322, 329, 335 (4th ed. 1994). 
+
+
+Dr. King is a licensed clinical psychologist for the Depart- 
+ment of Mental Health and was not employed by the defense, as 
+counsel for Respondent implies. See Brief for Respondent 3, 5; 
+Record 344-45. Dr. King gave the following descriptions of Peti- 
+tioner’s distractibility when she observed him in 1990: 
+He was not coherent. He was disoriented. He couldn’t 
+maintain concentration. He had some bizarre mate- 
+rial. He couldn’t focus on the questions. So, at that 
+time, he was not able to communicate sufficiently 
+well. 
+
+C. H. 6. 
+He wasn't testable. There would be no point in trying 
+to test somebody whose attention was wandering all 
+over the room and being wild in his answers. 
+
+C.H.1 13. 
+[H]e was incoherent. His answers were fragmented. 
+He could not pursue a thought to it’s [sic] conclu- 
+sion. 
+
+C. H. I 20. 
+
+
+— 
+
+
+delusion contributed to an irrational fear of his attorney 
+which was observed by the court at the competency 
+hearing on May 4, 1992, as Petitioner repeatedly backed 
+away from counsel, and during the trial as Petitioner sat 
+in a corner away from his attorneys. C.H.II 43-44, 46-48, 
+50, 54, 61-62, 69-71, 84, 261-63; App. 37-38. 
+
+
+Zealous advocacy, undisputed psychiatric diagnosis 
+and evaluation, and numerous manifestations of Peti- 
+tioner’s incompetency which the trial court itself 
+observed before and during the trial, however, were 
+insufficient to establish Petitioner’s incompetence under 
+Oklahoma's standard. C.H.II 272. This case thus demon- 
+strates the extreme difficulty of establishing incompe- 
+tence under a clear and convincing standard, even with 
+counsel and uncontroverted expert testimony, and the 
+factfinder’s difficulty in applying that standard even in 
+the face of strong evidence.“ 
+
+
+5 Amici argue that because counsel is now constitutionally 
+guaranteed, a defendant’s personal competency is now a some- 
+what less critical feature of a fair trial than it was at common 
+law. Brief of Amici for Respondent 20. As Justice Kennedy has 
+recently noted: 
+
+Competence to stand trial is rudimentary, for upon it 
+
+depends the main part of those rights deemed essen- 
+
+tial to a fair trial, including the right to effective assis- 
+
+tance of counsel, the rights to summon, to confront, 
+
+and to cross examine witnesses, and the right to tes- 
+
+tify on one’s own behalf or to remain silent without 
+
+penalty for doing so. Drope v. Missouri, 420 U.S. 162, 
+
+171-172, 95 S.Ct. 896, 903-904, 43 L.Ed.2d 103 (1975). 
+Riggins v. Nevada, 504 U.S. 127, 139-40 (1992) (Kennedy, J., con- 
+curring in the judgment). 
+
+Additionally, although the common law rule against trying 
+individuals who were incompetent “arose during an era when 
+
+
+Respondent and Amici for Respondent also argue 
+that inquiries as discussed in Drope and Pate and in the 
+Oklahoma statutes are sufficient to protect the fundamen- 
+tal right not to be tried while incompetent. Brief of 
+Respondent 14-18; Brief of Amici 17, 18. These inquiries 
+are meaningless if the standard for determining compe- 
+tency after this inquiry is so high that factually incompe- 
+tent individuals will be tried. After Petitioner asserted 
+incompetency on May 4, the inquiry was limited to the 
+hearing itself where Cooper had to prove his incompe- 
+tence by clear and convincing evidence. No searching 
+inquiry was made after trial counsel re-raised the compe- 
+tency question as Amici suggest, id. at 17, and no clinical 
+evaluation was undertaken despite the fact that Petitioner 
+had been committed to Eastern State Hospital twenty 
+months earlier upon a finding by the court Petitioner was 
+incompetent. The ability to re-raise competency under the 
+facts of Cooper’s case consisted solely of a hearing to 
+determine if Cooper could by “clear and convincing” 
+evidence now show his incompetency. 
+
+
+Where incompetency must be found by clear and 
+convincing evidence, the appointment of counsel, the 
+right to hire experts, and state inquiry procedures are 
+grossly inadequate to protect the fundamental right not 
+to be tried while incompetent. See Pate, 383 U.S. at 378. 
+The clear and convincing standard fails to safeguard the 
+
+
+there was no right to counsel in most criminal cases,” Brief of 
+Amici for Respondent 20, this Court’s insistence that the Due 
+Process Clause prohibited the practice came at a time when 
+counsel was already constitutionally mandated. Compare Drope 
+v. Missouri, 420 U.S. 162 (1975) and Gideon d Wainwright, 372 
+U.S. 335 (1963). 
+
+
+defendant's fundamental right not to be tried while 
+incompetent, a bedrock right necessary to the protection 
+of all constitutional rights implicit in the criminal trial 
+itself. 
+
+
+C. A Uniform Standard Of Proof Has No Effect On 
+The Committability Of Incompetent Individ- 
+uals. 
+
+
+Respondent implies that a criminal defendant who 
+cannot meet the Addington clear and convincing test for 
+civil commitment, but who establishes by a prepon- 
+derance of the evidence he is incompetent and thereby 
+suspends the criminal trial, may somehow be placed in a 
+legal “limbo.” Brief of Respondent 31; Brief of Amici 13. 
+
+
+The issues Respondent seeks to compare are not par- 
+allel, much less identical. They are two different substan- 
+tive standards that examine two different issues. The 
+purpose of a criminal competency evaluation is to deter- 
+mine whether an individual lacks the capacity to under- 
+stand the nature of the proceedings and the ability to 
+assist his counsel in preparing a defense. Dusky v. United 
+States, 362 U.S. 402 (1960); Okla. Stat. tit. 22, 
+§§ 1175.1-1175.8 (1991 & Supp. 1995). Civil commitment, 
+on the other hand, requires existence of a mental disabil- 
+ity which meets the code’s definition and potential dan- 
+gerousness to either himself or others. O'Connor v. 
+Donaldson, 442 U.S. 563, 575 (1975); Okla. Stat. tit. 43A, 
+§§ 1-103(14), 5-401 (Supp. 1995). Thus, the fact that a 
+preponderance standard exists on the issue of incompe- 
+tence has absolutely no bearing on the civil determina- 
+tion. Even when a defendant meets the Dusky standard by 
+
+
+10 
+
+
+clear and convincing evidence, beyond a reasonable 
+doubt, or beyond all doubt, it remains theoretically possi- 
+ble that the state would be unable to civilly commit him. 
+
+
+Respondent has not shown and cannot show that this 
+is a real-world problem. The state has made no showing 
+that people charged with serious crimes are in this legal 
+limbo. Respondent has provided no evidence of experi- 
+ence from the forty-six states or the Federal Government, 
+which have standards lower than clear and convincing 
+proof for incompetence, indicating practical problems 
+which would justify Respondent’s hypothetical concerns. 
+
+
+In sum, comparing criminal incompetence to civil 
+commitment is like comparing apples to oranges. Having 
+identical standards of proof for commitment and compe- 
+tence has no effect on the committability of incompetent 
+defendants. Moreover, having different standards will not 
+stand in the way of the commitment of any individual 
+who needs commitment while the state seeks to restore or 
+establish competence.“ Clearly, identical standards of 
+proof will not cure the state’s purported legal limbo.” 
+
+
+6 Pursuant to Jackson v. Indiana, 406 U.S. 715 (1972), a defen- 
+dant who has been found incompetent to stand trial may as a 
+consequence of that determination be committed for a reason- 
+able period of time in order to attain competency. That period of 
+commitment surely does not require a predicate finding of 
+incompetency by clear and convincing evidence; if it did, then 
+the practice followed by the overwhelming majority of Ameri- 
+can jurisdictions would be unconstitutional. 
+
+
+7 Again, it is important to realize that almost all incompe- 
+tency commitments are temporary. Brief for Petitioner 29 n.28. 
+Additionally, Dr. King noted during her testimony, “You hardly 
+ever find somebody that can’t respond to some treatment, some 
+medication. It does happen, but it's relatively rare.” C.H.I 28. 
+
+
+11 
+
+
+The non-real world problem conjectured by the state 
+must be stacked up against the very real, increased harm 
+in trying and convicting factually incompetent defen- 
+dants. The state’s asserted interest fails to constitute any 
+reason, much less a sufficiently compelling reason, to 
+justify the increased number of cases that will violate our 
+constitutional prohibition against the trial of an incompe- 
+tent. 
+
+
+D. Clear And Convincing Proof Of Incompetency 
+Does Not Facilitate Detection of Malingering. 
+
+
+Respondent contends without authority of any kind 
+that malingering is more difficult to differentiate under a 
+preponderance standard than under a clear and convinc- 
+ing standard. Brief of Respondent 28. Respondent sub- 
+mits no empirical data to demonstrate that malingering is 
+more difficult to differentiate with a preponderance stan- 
+dard. Moreover, there is no indication or support from 
+any source that a requirement of clear and convincing 
+evidence is effectively targeted to the alleged problem.“ 
+The only certain result is that fewer individuals will be 
+found incompetent as the standard of proof increases. 
+
+
+Respondent’s own expert testified that malingering is 
+not that difficult to detect. Dr. Russell, who testified for 
+the state at Cooper’s competency hearing on January 18, 
+1991, noted that it would be very difficult for someone to 
+
+
+The overwhelming majority of American jurisdictions, 
+including a majority of the states signing the Amicus Brief of the 
+state of Utah, have found themselves able to afford more protec- 
+tion for the constitutional rights of a defendant - even as they 
+face and share the same concerns as does Respondent. 
+
+
+12 
+
+
+attempt to answer questions in a manner that might give 
+the appearance of incompetence and keep that up 24 
+hours a day, seven days a week on a ward. C. HI 93.° 
+Even though the state argued to the trial judge and 
+invited the trial judge to conclude Cooper was malinger- 
+ing, the trial judge never determined at any time that 
+Petitioner was malingering, only concluding that Cooper 
+had not met the clear and convincing burden of proof. 
+
+
+Judges and prosecutors are not unfamiliar with the 
+concept of malingering. Examining psychiatrists and psy- 
+chologists are well versed in the features of malingering 
+
+
+She also indicated that a lay person not versed in clinical 
+literature would not be aware of symptoms necessary to present 
+himself as being mentally ill unless he had “read a lot of books” 
+and even then it is hard to keep up that presentation of incom- 
+petency 24 hours a day when being observed, concluding, “It's 
+very difficult.” C. H. I 93. 
+
+Dr. Edith King similarly noted malingering is usually fairly 
+easy to spot. C. H. I 14. 
+
+
+10 Dr. Murphy believed Petitioner was partially malinger- 
+ing, but nonetheless concluded he was truly incompetent. While 
+at the state hospital, numerous factors showed Cooper was not 
+feigning incompetency. Cooper told the staff on two occasions 
+what he was charged with. C.H.1 58,59. On October 10, a note in 
+Cooper’s file indicated he was willing to discuss his charges and 
+demonstrated an understanding of courtroom procedures, and 
+his desire to return to court. He gave rational answers to ques- 
+tions about the criminal justice system and courtroom pro- 
+cedure. C.H.I 83-87. He told Dr. Russell he wanted to go back to 
+court and go on with the defense of Not Guilty by Reason of 
+Insanity (a defense that was not presented during Cooper's 
+trial). C.H.1 97-98. 
+
+Dr. King was also adamant that when she observed Cooper 
+he was not malingering. “In my opinion he was not malinger- 
+ing. He did not look like a malingerer to me.” C.H.1 19. 
+
+
+13 
+
+
+and are taught not only to look for it in competency 
+evaluations, but even to suspect malingering. Brief of 
+Petitioner 29-32. 
+
+
+Concern for malingering certainly does not justify 
+increasing the standard of proof to a standard as high as 
+clear and convincing evidence when neither logic nor 
+empirical data supports an increased ability to differenti- 
+ate malingering. This is especially true in light of the 
+magnified risk of erroneous determinations of compe- 
+tency which violate the fundamental rigat not to be tried 
+while incompetent. 
+
+
+CONCLUSION 
+
+
+Respondent's placement of the clear and convincing 
+burden on defendant can find no support in history, 
+tradition, precedent or policy. In short, it finds no support 
+in any of the sources to which this Court turns in ascer- 
+taining the meaning of due process. It is no wonder, then, 
+that Respondent is left to claim that “the due process 
+provided to determine competence is left to the states.” 
+Brief of Respondent 13. Under Respondent's no-holds- 
+barred view of due process, it presumably would be 
+constitutional for a state to require defendants to demon- 
+strate their incompetency to stand trial by proof beyond a 
+reasonable doubt, or for that matter by proof beyond any 
+and all doubt. The due process clause is not, however, a 
+carte blanche to the states. While it is for each state to 
+prescribe, in the first instance, its rules of practice, it is 
+ultimately for this Court to determine whether those 
+
+
+14 
+
+
+practices accord with fundamental principles of due pro- 
+cess — or, conversely, whether they fail to “jealously 
+guard” the fundamental rights of the individual, Pate 383 
+U.S. at 385-86, and thus offend principles of justice that 
+are “so rooted in the traditions and conscience of our 
+people as to be ranked as fundamental.” Medina v. Califor- 
+nia, 505 U.S. 437, 112 S.Ct. 2572, 2577 (1992) (quoting 
+Patterson v. New York, 432 U.S. 197, 202 (1977)). 
+
+
+Under the appropriate test, as stated in Medina, the 
+practice that Oklahoma has adopted offends due process. 
+As no one disputes, Oklahoma’s practice will bring to 
+trial as competent defendants who would be deemed 
+incompetent in the overwhelming majority of American 
+jurisdictions. It is difficult in the extreme to see how such 
+a practice can be deemed “adequate” to protect an indi- 
+vidual’s fundamental constitutional right not to stand 
+trial while incompetent. It is a gross departure from the 
+accepted range of historical practice, and it finds no 
+support in precedent or sound reason. 
+
+
+Kim CHANDLER JOHNSON 
+
+320 Robert S. Kerr, Rm 611 
+Oklahoma City, OK 73102 
+(405) 278-1550 
+
+Counsel for Petitioner 
+
+
+Counsel of Record“ 
+
+

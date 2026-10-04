@@ -1,0 +1,2374 @@
+Supreme Court, U.S. 
+set # 
+
+
+DEC 7 1995 
+
+
+No. 94-9247 
+
+
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+CHARLES CARLISLE, PETITIONER 
+U. 
+
+
+UNITED STATES OF AMERICA 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE SIXTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+Drew S. Days, III 
+Solicitor General 
+
+
+JOHN C. KEENEY 
+Acting Assistant Attorney 
+General 
+
+
+MICHAEL R. DREEBEN 
+Deputy Solicitor General 
+
+
+PAUL A. ENGELMAYER 
+Assistant to the Solicitor 
+General 
+
+
+DAVID S. KRIS 
+Attorney 
+
+
+Department of Justice 
+Washington, D.C. 20530 
+(202) 514-2217 
+
+
+QUESTION PRESENTED 
+
+
+Whether a district court has authority to grant a 
+post-verdict motion for judgment of acquittal filed 
+outside the time limits prescribed by Federal Rule of 
+Criminal Procedure 29(c). 
+
+
+(I) 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+r ... 1 
+r 1 
+TW 2 
+ES LTA 3 
+ELE LEL ——— 10 
+Argument: 
+
+
+A district court lacks authority to grant a post- 
+verdict motion for a judgment of acquittal filed 
+outside the time limits prescribed by Federal Rule 
+of Criminal Procedure 29(€) ...........cccccesecccesereeeeeeees 12 
+A. Rule 2&c) and Rule 45(b) and this Court's 
+decisions establish that a district court lacks 
+the authority to grant an untimely motion 
+for judgment of acquittal 20... .....ccccccccceeeeees 14 
+B. There is no source of judicial authority 
+to override the time limit mandated by 
+r 24 
+C. Rule 2%c)’s time limit advances valid sys- 
+temic interests while preserving a defen- 
+
+
+the evidence on appeal 36 
+EE ! eee 0 43 
+eee ebe eee eessgsgunssagses la 
+
+TABLE OF AUTHORITIES 
+Cases: 
+Arizona v. Manypenny, 672 F.2d 761 (9th Cir.), 8 
+cert. denied, 459 U.S. 850 (1982) ...... . .. 13, 27 
+Bank of Nova Scotia v. United States, 487 U.S. 
+ESE ee 27, 32, 33, 36-37 
+Berman v. United States, 378 U.S. 530 (1964) .. 28, 27, 41 
+Brock v. Pierce County, 476 U.S. 253 (1986) ........... 34 
+Browder v. Director, Dep't of Corrections, 
+4 „„ 19 
+
+
+(III) 
+
+
+IV 
+
+
+Cases—Continued: 
+
+
+Brown v. Allen, 344 U.S. 443 (1953) 
+Chambers v. NASCO, Inc., 501 U.S. 32 (1991) ....... 
+Coleman v. Thompson, 501 U.S. 722 (1991) ............. 
+Fallen v. United States, 378 U.S. 139 (1964) ........ 
+Herrera v. Collins, 113 S. Ct. 853 (1998) ................. 
+Houston v. Lack, 487 U.S. 266 (1988) .................. 
+Jackson v. Virginia, 443 U.S. 307 (1979) 
+Libretti v. United States, 116 S8. Ct. 356 (1995) ....... 
+Miner v. Atlass, 363 U.S. 641 (1960) . 
+Moody v. United States, 874 F.2d 1575 (11th Cir. 
+
+1989), cert. denied, 493 U.S. 1081 (1990) ................ 
+Palermo v. United States, 360 U.S. 343 (1959) ....... 
+Palko v. Connecticut, 302 U.S. 319 (1987) ............... 
+Pennsylvania Bureau of Correction v. United 
+
+States Marshals Service, 474 U.S. 34 (1985) .......... 
+Santana v. United States, 385 U.S. 848 (1966) ....... 
+Sparf v. United States, 156 U.S. 51 (1895) ............. 
+State v. Meen, 171 Wis. 36 (1920) 
+Strickland v. Washington, 466 U.S. 668 (1984) ....... 
+Temple v. United States, 386 U.S. 961 (1967) .......... 
+Thomas v. Arn, 474 U.S. 140 (1985) 
+United States, Ex parte, 101 F.2d 870 (7th Cir.), 
+
+aff d by an equally divided Court sub nom. 
+
+United States v. Stone, 308 U.S. 519 (1939) ....... 
+United States v. Addonizio, 442 U.S. 178 (1979) ..... 
+United States v. Alvarez-Sanchez, 114 8. Ct. 1599 
+
+
+United States v. Cox, 957 F.2d 264 (6th Cir. 1992) . 
+United States v. Davis: 
+583 F.2d 190 (Sth Cir. 19783) 
+992 F. 2d 635 (6th Cir.), cert. denied, 114 S. Ct. 
+
+
+S8 8882 
+
+
+8 S888 AS SEES 
+
+
+1. K 8, 9, 15, 20 
+
+
+V 
+Cases—Continued: Page 
+United States v. DiBernardo, 880 F.2d 1216 (11th 
+
+114 talented iicieiaeaaes 13 
+United States v. Fagan, 821 F.2d 1002 (5th Cir. 
+
+1987), cert. denied, 484 U.S. 1005 (1988) .............. 13, 39 
+United States v. Frady, 456 U.S. 152 (1982) ........... 39 
+United States v. Fullerton, 25 Fed. Cas. 1225 
+
+(C.C.S.D.N.Y. 1870) (No. 15.178). 35 
+United States v. Giampa, 758 F.2d 928 (3d Cir. 
+
+% e 13 
+United States v. Godoy, 678 F.2d 84 (9th Cir. 1982), 
+
+cert. denied, 464 U.S. 959 (1983) 13 
+United States v. Hasting, 461 U.S. 499 (1983) ...... 33, 34 
+United States v. Hocking, 841 F.2d 735 (7th Cir. 
+
+144 ¹— w ˙ w 0 13 
+United States v. Johnson, 487 F.2d 1318 (5th Cir.), 
+
+cert. denied, 419 U.S. 825 (1974) 13 
+United States v. Keane, 852 F.2d 199 (7th Cir. 
+
+1988), cert. denied, 492 U.S. 928 (1989) ................... 22 
+United States v. Locke, 471 U.S. 84 (1985) ............. 40 
+United States v. Mayer, 235 U.S. 55 (1914) ... 22, 30, 31 
+United States v. Morgan, 346 U.S. 502 (1954) ..... 30, 31 
+United States v. Muniz, 60 F.3d 65 (2d Cir. 1995) 39 
+United States v. Nobles, 422 U.S. 225 (1975) .......... 34 
+United States v. Olano, 113 S. Ct. 1770 (1993) 38 
+United States v. Overmyer, 867 F.2d 937 (6th Cir.), 
+
+cert. denied, 493 U.S. 813 (1989) 38, 39 
+United States v. Payner, 447 U.S. 727 (1980) ......... 33 
+United States v. Quintero-Barraza, 57 F.3d 836 
+
+1... 39 
+United States v. Robinson, 361 U.S. 220 (1960) 10, 16, 
+
+18, 19, 20, 37, 39, 41 
+United States v. Santistevan, 39 F.3d 250 (10th 
+22 38 
+
+
+United States v. Smith, 331 U.S. 469 (1947) .. 10, 16, 17, 
+18, 22, 32, 39, 42 
+
+
+VI 
+Cases-Continued Page 
+
+United States v. South, 28 F.3d 619 (7th Cir. 
+
+1 ¹ 39 
+
+United States v. Stevens, 978 F.2d 565 (10th Cir. 
+
+KK . 13 
+
+United States v. Zolicoffer, 869 F.2d 771 (3d Cir.), 
+
+cert. denied, 490 U.S. 1113 (1989) . . 38-39 
+Constitution, statutes and rules: 
+
+U.S. Const.: 
+
+BGO, 11—ͤ«««c — 32 
+42.98 ——.——————————————— 34, 36 
+Due Process Ge . . 36, 37 
+
+All Writs Act, 28 U.S.C. 1651 3, 29, la 
+
+DIe 34 
+
+Rules Enabling Act, 28 U.S.C. 2071 et seq.: 
+90 29 
+ES v 29 
+
+IL 36363 40 
+
+LI | a 40 
+
+OB WAG. SREITIITD — 40 
+
+III KK a ee 9 
+
+ae 7,9 
+
+2) . 3 
+
+II 1K 7222 10, 31. 39 
+
+Fed. R. App. P.: 
+
+1—,, — —ę U; 19 
+
+advisory committee’s note 26 
+———— . — 19, 25 
+—kKͤK—— T ——— 26 
+
+Fed. R. Crim. P.: 
+
+. 3. 24, 25, 26, 41, la 
+K % oe 34 
+Rule 27 (preliminary draft, 1943). . 21 
+| aes 2, 11, 12, 13, 14, 20, 22, 24, 25, 41 
+
+advisory committee’s note 21, 23, 35 
+
+
+Vil 
+Rules—Continued Page 
+b 2. 12, 15, 35, 42 
+r passim 
+K 2 — 28 
+advisory committee’s note 28 
+Rule 31 (second preliminary draft, 1944) ........... 21 
+9 —ů——————— passim, la 
+advisory committee’s note 23 
+11K 19 
+„„ 19 
+Tc 19, 25, 36 
+I 1G 18 
+Ea en 3, 20, 22, 24, 25, 2a 
+advisory committee’s note 20, 22, 23 
+1 5, 2a 
+22 — passim, 3a 
+— . 34. 37 
+KK 2 33 
+a ee wo 3, 27, 28, 29, 4a 
+advisory committee’s note 28 
+Local Rules of Practice and Procedure, United States 
+District Court for the Western District of Michigan 
+1118 29 
+Miscellaneous: 
+Sara Sun Beale, Reconsidering Supervisory Power 
+in Criminal Cases: Constitutional and Statutory 
+Limits on the Authority of the Federal Courts, 
+84 Colum. L. Rev. 1433 (1984) .. . .. 32 
+2 Joel Prentiss Bishop, New Criminal Procedure 
+ir UN. oF Ea —•ĩ 35 
+CIS Records of the Judicial Conference of the United 
+States, Committee on Rules of Practice and 
+Procedure, 1935-1988—Committee on Criminal 
+2 . „TK k 23 
+William L. Clark, Jr., Handbook of Criminal 
+lL OY ͤ§— 35 
+
+
+VIII 
+
+
+Miscellaneous Continued: 
+
+
+Drafting History of the Federal Rules of Criminal 
+Procedure (Madeline J. Wilken and Nicholas Triffin 
+eds., 1991): 
+
+KK 7 
+—AK ꝛmüà . -! 
+
+Vale Kamisar, Wayne R. LaFave, & Jerold H. 
+
+Israel, Modern Criminal Procedure (1994) .............. 
+
+Note, Reservation of Motion for Directed Verdict in 
+Federal Criminal Trials, 49 Yale L.J. 733 (1940) .... 
+
+4 Mark S. Rhodes, Orfield's Criminal Procedure 
+under the Federal Rules (2d ed. 1987) .. ... 
+
+1 James Fitzjames Stephen, A History of the 
+Criminal Law of England (1883) . . . . .. 
+
+Charles Alan Wright, Federal Practice and Procedure 
+(Criminal) (2d ed. 1982): 
+
+1 0 
+ß ˙ 
+
+1 Elijah N. Zoline, Federal Criminal Law and 
+
+FUSSSETS CERES cerceremenereneenennntienien 
+
+
+Page 
+
+
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+No. 94-9247 
+CHARLES CARLISLE, PETITIONER 
+v. 
+
+
+UNITED STATES OF AMERICA 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE SIXTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (J.A. 46-49) is 
+reported at 48 F.3d 190. The opinions of the district 
+court first denying (J.A. 15-22) and later granting 
+(J.A. 37-44) petitioner’s motion for judgment of ac- 
+quittal are not reported. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on 
+February 21, 1995. The petition for a writ of certio- 
+rari was filed on May 12, 1995, and was granted on 
+September 27, 1995 (116 S. Ct. 40). The jurisdiction of 
+this Court rests on 28 U.S.C. 1254(1). 
+
+
+(1) 
+
+
+RULE INVOLVED 
+Federal Rule of Criminal Procedure 29 provides: 
+Motion for Judgment of Acquittal 
+
+
+(a) Motion Before Submission to Jury. 
+Motions for directed verdict are abolished and 
+motions for judgment of acquittal shall be used in 
+their place. The court on motion of a defendant or of 
+its own motion shall order the entry of judgment of 
+acquittal of one or more offenses charged in the 
+indictment or information after the evidence on either 
+side is closed if the evidence is insufficient to sustain 
+a conviction of such offense or offenses. If a 
+defendant’s motion for judgment of acquittal at the 
+close of the evidence offered by the government is not 
+granted, the defendant may offer evidence without 
+having reserved the right. 
+
+
+(b) Reservation of Decision on Motion. The 
+court may reserve decision on a motion for judgment 
+of acquittal, proceed with the trial (where the motion 
+is made before the close of all the evidence), submit 
+the case to the jury and decide the motion either 
+before the jury returns a verdict or after it returns 
+a verdict of guilty or is discharged without having 
+returned a verdict. If the court reserves decision, it 
+must decide the motion on the basis of the evidence at 
+the time the ruling was reserved. 
+
+
+(c) Motion After Discharge of Jury. If the jury 
+returns a verdict of guilty or is discharged without 
+having returned a verdict, a motion for judgment of 
+acquittal may be made or renewed within 7 days after 
+the jury is discharged or within such further time as 
+the court may fix during the 7-day period. If a verdict 
+of guilty is returned the court may on such motion 
+
+
+3 
+
+
+set aside the verdict and enter judgment of acquittal. 
+If no verdict is returned the court may enter judg- 
+ment of acquittal. It shall not be necessary to the 
+making of such a motion that a similar motion has 
+been made prior to the submission of the case to the 
+jury. 
+
+(d) Same: Conditional Ruling on Grant of 
+Motion. If a motion for judgment of acquittal after 
+verdict of guilty under this Rule is granted, the court 
+shall also determine whether any motion for a new 
+trial should be granted if the judgment of acquittal 
+is thereafter vacated or reversed, specifying the 
+grounds for such determination. If the motion for a 
+new trial is granted conditionally, the order thereon 
+does not affect the finality of the judgment. If the 
+motion for a new trial has been granted conditionally 
+and the judgment is reversed on appeal, the new trial 
+shall proceed unless the appellate court has otherwise 
+ordered. If such motion has been denied conditionally, 
+the appellee on appeal may assert error in that denial, 
+and if the judgment is reversed on appeal, subsequent 
+proceedings shall be in accordance with the order of 
+the appellate court. 
+
+
+The texts of Federal Rules of Criminal Procedure 
+2, 33, 45, and 57, and the text of the All Writs Act, 28 
+U.S.C. 1651, are reprinted at App., infra, la-5a. 
+
+
+STATEMENT 
+
+
+Following a jury trial, petitioner was convicted in 
+the United States District Court for the Western 
+District of Michigan of conspiring to possess mari- 
+juana with the intent to distribute it, in violation of 21 
+U.S.C. 846. He filed a post-verdict motion for judg- 
+ment of acquittal outside the time limit prescribed by 
+Federal Rule of Criminal Procedure 29(c), which the 
+
+
+4 
+
+
+district court denied, J.A. 23, but later reconsidered 
+and granted, J.A. 45. The court of appeals reversed 
+and remanded for reinstatement of the verdict and for 
+sentencing, on the grounds that the district court had 
+lacked authority to consider an untimely motion for a 
+judgment of acquittal. J.A. 46-49. 
+
+1. Petitioner’s jury trial began on June 30, 1993. 
+The evidence at trial, with respect to petitioner’s 
+participation in the conspiracy, showed that, on 
+April 10, 1993, petitioner, Dolores Rupert (peti- 
+tioner’s common-law wife), Amelia Ramon (Rupert’s 
+mother), and Thomas Crawford arrived at the home 
+that petitioner shared with Rupert. Ramon and 
+Rupert arrived by ear, and Crawford, who was work- 
+ing as a police informant and wearing a concealed tape 
+recorder, followed them there in a truck containing 
+approximately 270 pounds of marijuana. Petitioner 
+was present at the home. Rupert instructed Craw- 
+ford where to park the truck, stating: “Okay, just pull 
+out and [petitioner] says to go down the street and 
+just park for awhile because he said he’s heard over 
+the scanner, there’s some cops around here.” 
+Crawford complied with petitioner’s suggestion. J.A. 
+16-18; Gov't C.A. Br. 3-4. Crawford then returned to 
+the house and was introduced to petitioner. Crawford, 
+petitioner, Rupert, and Ramon discussed where to 
+park the truck for the evening in light of petitioner’s 
+expressed concern that police were in the area, and 
+how to secure the truck.’ Petitioner agreed that the 
+truck should be parked behind Ramon’s house, “right 
+down the drive.” He explained to the others that 
+
+
+Petitioner's counsel had conceded in his opening state- 
+ment that petitioner knew at the time of the offense that the 
+truck contained marijuana. J.A. 16. 
+
+
+5 
+
+
+wie don’t want to take no chances,” and that “I won't 
+take no chances.” Petitioner also inquired of the 
+others whether a key held by Ramon unlocked a 
+padlock on the back of the truck; and he was informed 
+that it did. Petitioner and Ramon then drove to 
+Ramon’s house, with Crawford following in the truck 
+bearing the marijuana. After Crawford parked the 
+truck behind Ramon’s house as suggested by peti- 
+tioner, petitioner drove Ramon and Crawford to a 
+hotel. J.A. 17-18. 
+
+Petitioner did not move during the trial for a 
+judgment of acquittal under Federal Rule of Criminal 
+Procedure 29(a). On July 13, 1993, the jury returned a 
+verdict of guilty, and the court discharged it that 
+same day. On July 23, 1993, petitioner filed a post- 
+verdict motion for judgment of acquittal. That motion 
+was untimely, because it was filed one day after the 
+expiration of the seven-day period following the 
+discharge of the jury that Rule 29(c) allows for such 
+motions.’ Petitioner’s motion contended that, al- 
+though the evidence had been sufficient to establish 
+the existence of a conspiracy to possess and distri- 
+bute marijuana, it had not been sufficient to establish 
+that he had knowingly participated in that conspiracy. 
+J.A. 15. The government responded that, because peti- 
+tioner’s motion had been filed outside the time limit 
+prescribed by Rule 29(c), the court lacked jurisdiction 
+
+
+2 Rule 29(c) provides that “a motion for judgment of 
+acquittal may be made or renewed within 7 days after the jury 
+is discharged or within such further time as the court may fix 
+during the 7-day period.” Federal Rule of Criminal Procedure 
+45(a) provides that “Saturdays, Sundays and legal holidays 
+shall be excluded” from the seven-day period. Excluding the 
+weekend of July 17-18, 1993, the seven-day period expired on 
+July 22, 1993. 
+
+
+6 
+
+
+to consider it, and, alternatively, that the evidence 
+had been sufficient. Gov’t C.A. Br. 1. 
+
+In an opinion issued on August 24, 1993, the district 
+court did not address the timeliness of petitioner’s 
+motion, but denied that motion on the ground that the 
+evidence had been sufficient for “a rational trier of 
+fact [to] find beyond a reasonable doubt that [peti- 
+tioner] knew about the conspiracy, and that [peti- 
+tioner] knowingly and voluntarily joined the con- 
+spiracy.” J.A. 18. The court explained that 
+
+
+[petitioner] was more than just present during the 
+conspiracy. He took actions to help hide the 
+contraband from the police. He stated his inten- 
+tion to not “take chances.” He inquired whether a 
+key unlocked the back of the truck which con- 
+tained the marijuana. And finally, * * * [peti- 
+tioner’s] use of the word “we” in a statement made 
+to other conspirators during a conversation about 
+where to put the truck full of marijuana to avoid 
+the place [sic], “we don’t want to take no chances,” 
+could indicate joinder with the conspiracy to a 
+rational trier of fact. I find that [petitioner’s] 
+hearsay statement concerning the scanners, his 
+statements evincing a desire to avoid the police, 
+and the fact that he drove a conspirator (his 
+common law mother-in-law) to her home, and then 
+drove two conspirators to a hotel and dropped them 
+off, is sufficient for a rational trier of fact to find 
+that he knowingly and voluntarily joined the 
+conspiracy. 
+
+J.A. 21. 7 
+2. On October 14, 1993, petitioner appeared for 
+
+sentencing. Before that time, the district court had 
+
+been provided with a presentence investigation report 
+
+
+7 
+
+
+(PSR). That report calculated petitioner’s sentenc- 
+ing range under the Sentencing Guidelines to be 63-78 
+months’ imprisonment and noted that, because of the 
+amount of marijuana involved in the offense, peti- 
+tioner faced a mandatory minimum sentence of five 
+years’ imprisonment under 21 U.S.C. 841(b)(1)(B). 
+The PSR also recounted petitioner’s military service 
+in Vietnam. J.A. 35. 
+
+At the sentencing hearing, the district court 
+announced that it was reversing its prior ruling on 
+the sufficiency of the evidence and that it was now 
+granting petitioner a judgment of acquittal on the 
+ground that the evidence was insufficient to establish 
+that petitioner had joined the conspiracy. J. A. 29-34.° 
+
+
+The court’s written opinion explaining that decision 
+summarized the evidence in the same manner as its earlier 
+written opinion, compare J.A. 16-18 with J.A. 38-40, and the 
+court reiterated its conclusion that the evidence had been 
+sufficient to establish petitioner’s knowledge of the marijuana- 
+distribution conspiracy. J.A. 41. But, the court now con- 
+cluded, the evidence had not established that petitioner had 
+joined that conspiracy (J.A. 43-44): 
+
+
+The government produced no evidence that [petitioner] 
+entered into an agreement with any member of the 
+conspiracy. * * * [HJe was clearly present during the 
+conspiracy, and the jury could have found that he knew 
+about it. However, in the course of hours of tape recorded 
+conversations, no conspirators suggest that [petitioner] is 
+involved in the conspiracy. There was no evidence that he 
+was involved in arranging the transport of the marijuana to 
+Michigan. In fact, Crawford testified that prior to coming 
+to Michigan, he had not heard of [petitioner]. [Petitioner] 
+never handled the drugs or the truck which contained 
+them, and there was no evidence that [petitioner] was 
+to benefit from the conspiracy. I find that [petitioner’s] 
+hearsay statement concerning the scanners, and the fact 
+that he drove a conspirator (his common law mother-in- 
+
+
+8 
+
+
+After discussing its new ruling, the court noted that 
+it had learned “for the first time when I read the pre- 
+sentence report that [petitioner] served his country 
+in Vietnam in 1967 or 1968, and that while he was 
+there he received the Bronze Star.” J.A. 35. The 
+court added that “(t]he Court doesn’t meet too many 
+Bronze Star recipients.” Ibid. Addressing peti- 
+tioner, the court conciuded the hearing by saying, “on 
+behalf of my country I thank you for your service in 
+Vietnam. This is the end of this proceeding.” J.A. 35- 
+36. 
+
+The court later filed an opinion and judgment in 
+support of its oral ruling. J.A. 37-45. The court 
+acknowledged that petitioner had filed his motion for 
+a judgment of acquittal outside of the seven-day filing 
+deadline prescribed by Rule 2%c). The court stated, 
+however, that | 
+
+
+I can conceive of no prejudice to the United States 
+which will result from consideration of a motion 
+that is one day late in this case. Because I believe 
+that refusal to hear this motion would result in 
+grave injustice, and because the Rule permits the 
+Court to extend the deadline, I will consider this 
+motion as if it were filed in a timely manner. 
+
+
+J. A. 37 n. I. 
+
+3. The court of appeals reversed. J. A. 46-49. The 
+court noted that, under its decision in United States 
+v. Davis, 992 F.2d 635 (6th Cir.), cert. denied, 114 S. 
+Ct. 265 (1993), a district court lacks jurisdiction to 
+grant a motion for judgment of acquittal filed outside 
+
+
+law) to her home, and then drove two conspirators to a 
+hotel and dropped them off, is insufficient to establish that 
+he knowingly and voluntarily joined the conspiracy. 
+
+
+9 
+
+
+the time limit set by Rule 29(c). J.A. 48. In Davis, 
+the court noted that Rule 29(c) requires a defendant 
+to make a post-verdict motion for judgment of ac- 
+quittal within seven days after the discharge of the 
+jury, and that Federal Rule of Criminal Procedure 
+45(b) prohibits the court from retroactively extending 
+that period. 992 F. 2d at 639-640; see Fed. R. Crim. P. 
+45(b) (district court “may not extend the time for 
+taking any action under Rules 29, 33, 34 and 35, except 
+to the extent and under the conditions stated in 
+them”). Davis also held that Rule 29%c) implicitly 
+forbids a district court from sua sponte entering a 
+judgment of acquittal after a verdict. It reasoned 
+that, while Rule 2%a) expressly authorizes a district 
+court to enter a judgment of acquittal on its own 
+motion before a case is submitted to the jury, “there 
+is no provision authorizing the court to act on its own 
+initiative after the case is submitted to the jury.” 992 
+F. 2d at 639; see also J. A. 48. 
+
+Although both the government and petitioner had 
+briefed the issue whether the evidence was sufficient, 
+Gov't C.A. Br. 9-11; Pet. C.A. Br. 9-15, the court of 
+appeals did not address that issue. Instead, it 
+remanded for reinstatement of the verdict and for 
+resentencing. J. A. 49.“ 
+
+
+On June 27, 1995, while the petition for certiorari was 
+pending, the district court convened a sentencing proceeding 
+and sentenced petitioner, inter alia, to six months’ imprison- 
+ment. J.A. 50-51. The court departed downward based on 
+petitioner’s military service in Vietnam and on the “aberrant” 
+nature of petitioner’s conduct in this case. 6/27/95 Sent. Tr. 
+14-19. The court also held that the requirements under 18 
+U.S.C. 3553(f) for imposing a sentence below the mandatory 
+minimum sentence of five years’ imprisonment, see 21 U.S.C. 
+841(b)(1)(B), had been met. At the time it imposed sentence, 
+
+
+10 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The question presented in this case is whether a 
+district court has authority to grant a defendant’s 
+post-verdict motion for judgment of acquittal filed 
+outside the seven-day time limit prescribed by 
+Federal Rule of Criminal Procedure 29(c). The text 
+of the Federal Rules of Criminal Procedure answers 
+that question. Rule 29(c) provides that “a motion for 
+judgment of acquittal may be made or renewed within 
+7 days after the jury is discharged or within such 
+further time as the court may fix during the 7-day 
+period.” Rule 45(b) makes the seven-day time limit in 
+Rule 29(c) mandatory. It states that a district court 
+“may not extend the time for taking any action under 
+Rulel] 29 * * *, except to the extent and under the 
+conditions stated in [that Rule].” Those Rules, read 
+in tandem, preclude a district court from entertaining 
+a motion for a judgment of acquittal more than seven 
+days after the discharge of the jury, absent prior, 
+timely invocation of its authority. 
+
+The mandatory character of the seven-day time 
+limit of Rule 2%c) is reinforced by this Court’s 
+decisions in United States v. Smith, 331 U.S. 469 
+(1947), and United States v. Robinson, 361 U.S. 220 
+(1960). In Smith, the Court construed parallel lan- 
+guage in Federal Rule of Criminal Procedure 33 
+imposing a five-day time limit upon motions for a new 
+trial. It held that Rule 33 prescribes “precise times” 
+(331 U.S. at 473 n.2) within which the judicial power 
+to order a new trial is confined, whether that action is 
+
+
+the district court also dismissed as premature a motion pur- 
+suant to 28 U.S.C. 2255 to vacate and set aside judgment that 
+petitioner had filed on June 2, 1995. United States v. Carlisle, 
+No. 1:93:CR:66-02 (W.D. Mich. June 27, 1995). 
+
+
+11 
+
+
+taken in response to a defendant’s motion or sua 
+sponte. In Robinson, the Court held that, because the 
+period for taking an appeal was identified in Rule 45(b) 
+as a period that a district court could not extend, the 
+ten-day time period for filing a notice of appeal set by 
+the Federal Rules was mandatory and jurisdictional. 
+Under Robinson, the seven-day time limit set by 
+Rule 2%c) is similarly binding, because Rule 29 is 
+listed in Rule 45(b) as a Rule whose time limit may 
+not be extended except as provided in Rule 29(c) itself. 
+
+No provision of the Federal Rules of Criminal Pro- 
+cedure overrides Rule 29%c)’s framework governing 
+motions for acquittal. Nor does the power to issue a 
+writ of coram nobis authorize action outside of the 
+time limits of Rule 29. Coram nobis is available when 
+facts that would render a trial court’s decision ir- 
+regular and invalid were not brought to the court’s 
+attention, and where no alternative remedies are 
+available. An untimely claim of evidentiary insuffi- 
+ciency, which could not be heard consistent with the 
+structure of the Rules, does not meet the require- 
+ments for that extraordinary writ. The district court 
+likewise may not use its “supervisory power” to 
+grant an untimely Rule 29%c) motion. “Supervisory 
+power” cannot be used when it would circumvent or 
+conflict with the precise requirements of the Federal 
+Rules of Criminal Procedure. 
+
+Petitioner’s reliance on policy concerns to avoid 
+enforcement of Rule 29%c)’s time limit is misplaced. If 
+the Rule as presently drafted is deemed to work 
+unfair or harsh results, the drafters remain free to 
+amend it. In any event, petitioner’s concerns are 
+misguided. The time limit serves valid interests in 
+the criminal justice system, including the prompt 
+resolution of proceedings in the trial courts and 
+
+
+12 
+
+
+sparing those courts the need to decide whether parti- 
+cular delinquent filings were or were not justified. 
+And the enforcement of the Rule’s time limit does not 
+foreclose review of claims of evidentiary insuffi- 
+ciency. It permits review of a defendant’s claim in the 
+court of appeals under a plain error standard, and 
+leaves open collateral review when a defendant can 
+meet the requirements for such relief. 
+
+
+ARGUMENT 
+
+
+A DISTRICT COURT LACKS AUTHORITY TO 
+GRANT A POST-VERDICT MOTION FOR A 
+JUDGMENT OF ACQUITTAL FILED OUTSIDE 
+THE TIME LIMITS PRESCRIBED BY FEDERAL 
+RULE OF CRIMINAL PROCEDURE 29(c) 
+
+
+Federal Rule of Criminal Procedure 29 compre- 
+hensively sets out the time limits for the making of 
+a motion for a judgment of acquittal. Subsection (a) 
+allows the court to enter a judgment of acquittal 
+during the trial, “on motion of a defendant or of its 
+own motion,” at the close of the evidence offered by 
+either side. After the jury has been discharged, the 
+court’s power to act on a motion for judgment of 
+acquittal is defined by subsections (b) and (c). Sub- 
+section (b) allows a court to act on a motion for 
+judgment of acquittal after the jury has been dis- 
+charged if the court has reserved decision on a prior 
+motion for judgment of acquittal. Subsection (c) per- 
+mits a court to entertain such a motion when it is 
+made or renewed within seven days after the 
+discharge of the jury, or where the court, during that 
+seven-day period, has extended the deadline for 
+making such a motion. 
+
+
+13 
+
+
+Once seven days have expired after the jury’s 
+discharge, the structure of Rule 29 forbids a district 
+court from entertaining a motion for judgment of 
+acquittal, unless the court has either reserved de- 
+cision on a prior, timely motion or has extended the 
+time for making such a motion within seven days 
+after the verdict. That Rule fosters certainty, 
+clarity, and efficiency in the resolution of criminal 
+proceedings in the trial court, while leaving a 
+defendant who has not made a timely post-verdict 
+motion for judgment of acquittal free to raise a claim 
+of evidentiary insufficiency on appeal or, in some 
+circumstances, on collateral review. Because peti- 
+tioner did not submit a timely motion for judgment of 
+acquittal in the district court in this case, the court 
+of appeals correctly determined that the district 
+court lacked jurisdiction to entertain it.“ 
+
+
+5 That holding is consistent with the approach taken in 
+United States v. Stevens, 978 F.2d 565, 569 (10th Cir. 1992); 
+United States v. Hocking, 841 F.2d 735, 736-737 (7th Cir. 1988); 
+United States v. Fagan, 821 F.2d 1002, 1011-1012 & n.7 (5th 
+Cir. 1987), cert. denied, 484 U.S. 1005 (1988); United States v. 
+Godoy, 678 F.2d 84, 88 (9th Cir. 1982), cert. denied, 464 U.S. 
+959 (1983); and United States v. Johnson, 487 F.2d 1318, 1321 
+(5th Cir.), cert. denied, 419 U.S. 825 (1974). But see United 
+States v. Coleman, 811 F.2d 804, 806-807 (3d Cir. 1987); United 
+States v. Giampa, 758 F. 2d 928, 934-935, 936 n.1 (3d Cir. 1985); 
+and Arizona v. Manypenny, 672 F.2d 761, 766 (9th Cir.), cert. 
+denied, 459 U.S. 850 (1982) (all suggesting, in factually dis- 
+tinguishable contexts, the existence of some inherent power 
+to consider an untimely motion); see also United States v. 
+DiBernardo, 880 F.2d 1216, 1225 n.4 (11th Cir. 1989) (dicta in 
+case involving Rule 33). 
+
+
+14 a 
+
+
+A. Rule 29(c) And Rule 45(b) And This Court’s 
+Decisions Establish That A District Court 
+Lacks The Authority To Grant An Untimely 
+Motion For Judgment Of Acquittal 
+
+
+1. When interpreting a statute or a Federal Rule, 
+this Court looks “first and foremost to its text.” 
+United States v. Alvarez-Sanchez, 114 S. Ct. 1599, 
+1603 (1994); see Libretti v. United States, 116 S. Ct. 
+356, 362 (1995). The texts of Rule 29 and Rule 45(b), 
+read together, make clear that a district court lacks 
+jurisdiction to consider a defendant’s motion for 
+judgment of acquittal made more than seven days 
+after the discharge of the jury, except where the 
+court has extended that deadline before the seven-day 
+period has expired. Rule 29(c) provides that a de- 
+fendant’s motion for judgment of acquittal “may be 
+made or renewed within 7 days after the jury is 
+discharged or within such further time as the court 
+may fix during the 7-day period.” Rule 45(b), which 
+governs the enlargement of time limits under the 
+Federal Rules of Criminal Procedure, provides that 
+the district court “may not extend the time for taking 
+any action under Rules 29, 33, 34 and 35, except to the 
+extent and under the conditions stated in them.” 
+Thus, a district court may not retroactively extend 
+the seven-day deadline prescribed by Rule 29(c) in 
+order to convert an out-of-time motion into a timely 
+one under the Rule. 
+
+Nor may the district court treat the defendant’s 
+untimely motion as one made by the court, and 
+address it on that basis. The text of Rule 29 leaves no 
+room for a district court to act on its own initiative to 
+enter a judgment of acquittal more than seven days 
+after the discharge of the jury, in the absence of the 
+
+
+15 
+
+
+prior reservation of such a motion or the extension of 
+the time for it to be made. Rule 29(a), which applies to 
+a motion made before submission of the case to the 
+jury, refers explicitly to the court’s power to act “of 
+its own motion” to enter a judgment of acquittal. 
+Rule 2%c), which governs the period after the dis- 
+charge of the jury, does not refer to action initiated 
+by the court. It does, however, describe procedures 
+that govern any “motion for a judgment of acquittal.” 
+The most reasonable construction of the Rule is thus 
+that it includes action by the court, as well as the 
+defendant, to make or renew a motion for a judgment 
+of acquittal after the return of the jury’s verdict. 
+Under that construction, the court’s power to act of 
+its own motion after the verdict is necessarily limited 
+to the seven-day period established by Rule 29%c). A 
+court may therefore enter a judgment of acquittal, or 
+extend the time for consideration of that action, 
+within seven days of the discharge of the jury. The 
+court retains no power to act for an indefinite time 
+thereafter.“ 
+
+
+® It is possible, in the alternative, to read the term 
+“motion” in Rule 29(c) to refer only to a motion by the de- 
+fendant. Under that reading, Rule 29(c)’s omission of any 
+reference to the court’s own motion, juxtaposed against Rule 
+2%a)’s express authorization of the court’s own motion, implies 
+that after the discharge of the jury the court lacks any power 
+to enter a judgment of acquittal on its own initiative (except 
+when, pursuant to Rule 29(b), the court had reserved ruling on 
+its own pre-verdict motion). See United States v. Davis, 992 
+F.2d 635, 639 (6th Cir.) (adopting that interpretation), cert. 
+denied, 114 S. Ct. 265 (1993). Under that reading of Rule 29(c), 
+absent a reserved motion at trial, a district court may never act 
+“of its own motion” to acquit a defendant after the discharge of 
+the jury. 
+
+
+16 
+
+
+2. This Court’s decisions in United States v. 
+Smith, 331 U.S. 469 (1947), and United States v. 
+Robinson, 361 U.S. 220 (1960), strongly support the 
+conclusion that a district court lacks jurisdiction to 
+grant a post-verdict motion for judgment of acquittal 
+filed outside the time limits prescribed by Rule 29(c). 
+In Smith, this Court held that a district court lacks 
+power to order a new trial outside the time limit set 
+by Federal Rule of Criminal Procedure 33. That Rule 
+provided—in language paralleling that of Rule 29(c) 
+—that a motion for a new trial based on grounds other 
+than newly discovered evidence “shall be made within 
+5 days after verdict or finding of guilty or within such 
+further time as the court may fix during the 5-day 
+period.” 331 U.S. at 472.7 The defendant in Smith had 
+moved for a new trial, but that motion had been denied, 
+and the conviction had been upheld on appeal. 
+Following affirmance of the defendant’s conviction on 
+appeal, however, the district court swa sponte issued 
+an order granting a new trial. The court of appeals 
+denied the government’s petition for writs of manda- 
+mus and prohibition to vacate the new trial order. Id. 
+at 470-471. 
+
+This Court reversed, rejecting the defendant’s 
+argument that, “because the literal language of the 
+Rule places the five-day limit only on the making of 
+the motion, it does not limit the power of the court 
+later to grant the motion.” 331 U.S. at 473. At 
+
+
+7 Rule 33 was amended in 1966 to increase to seven days 
+the time period within which a motion for a new trial based on 
+grounds other than newly discovered evidence shall be made. 
+See Fed. R. Crim. P. 33 (“A motion for a new trial based on 
+any other grounds shall be made within 7 days after verdict or 
+finding of guilty or within such further time as the court may 
+fix during the 7-day period.”). 
+
+
+17 
+
+
+common law, the Court noted, a court’s power over its 
+judgments expired with the “term of court.” While an 
+earlier rule of procedure had given a defendant three 
+days within which to move for a new trial, and while 
+the Federal Rules had extended that time to five days 
+(Rule 33) and concomitantly repealed the term-of- 
+court limitation (Rule 45(c)), the Federal Rules had 
+not expanded the power of the trial court “to grant 
+new trials on its own motion * * * indefinitely.” Id. 
+at 473-474. Rather, the Court held, the Federal Rules 
+prescribe “precise times” and “constant time periods” 
+within which the judicial power to order a new trial 
+must be “confine[d].” Id. at 473 n.2.° 
+
+The Court in Smith also observed that policy 
+considerations militate against holding “that the 
+court has a continuing power on [its] own initiative to 
+grant what the defendant has not the right to go into 
+open court and ask.” 331 U.S. at 475. First, a rule 
+“which deprived a judge of power to do what was asked 
+when request was made by the person most con- 
+cerned, and yet allowed him to act without petition,” 
+would raise serious constitutional issues, which 
+counseled against such an interpretation. Id. at 474. 
+Furthermore, the Court observed, 
+
+
+[tjo approve the practice followed in this case 
+would almost certainly subject trial judges to pri- 
+vate appeals or application by counsel or friends of 
+one convicted. We think that expiration of the 
+time within which relief can openly be asked of 
+
+
+See 3 Charles Alan Wright, Federal Practice and 
+Procedure (Criminal) § 558, at 360 (2d ed. 1982) (“The time 
+limitations of Rule 33 are jurisdictional.”); id. at 361 n.1 
+(collecting cases); cf. Herrera v. Collins, 113 S. Ct. 853, 865 
+(1998) (“We have strictly construed the Rule 33 time limits.”). 
+
+
+18 
+
+
+the judge, terminates the time within which it 
+can properly be granted on the court’s own 
+initiative. If the judge needs time for reflection 
+as to the propriety of a new trial, he is at liberty 
+to take it before denying a timely made motion 
+therefor. 
+
+
+Id. at 475 (emphasis added).” 
+
+In Robinson, the Court held that the time limit 
+within which a defendant may file a notice of appeal 
+may not be extended beyond the ten-day period 
+following entry of judgment set by Federal Rule of 
+Criminal Procedure 37(a)(2). The lower courts in 
+Robinson had held that, because the defendants’ 
+failure to file notices of appeal until 11 days after that 
+deadline resulted from “excusable neglect,” the 
+notices of appeal would be deemed valid. This Court 
+reversed, relying on Rule 45(b). Rule 45(b), the Court 
+
+
+The Court in Smith noted a third policy consideration 
+supporting its reading of Rule 33: the interest in ensuring that 
+appellate courts review only those district court decisions that 
+are final. If a district court were empowered, after an appeal, 
+to “set aside all that was the basis of appeal,” as had occurred in 
+Smith itself, the Court noted that finality would not be assured. 
+331 U.S. at 474; see ibid. (“It is not the function of appellate 
+courts to review tentative decisions of trial courts”). Noting 
+that third policy justification, petitioner argues (Br. 22) that 
+Smith bars only those new trial orders made “after the appeal 
+[has been] decided.” Smith, however, held more broadly that 
+a district court’s power to order a new trial in cases not 
+involving newly discovered evidence “terminates” not upon 
+the onset of appellate review, but upon the expiration of the 
+period within which a defendant could move for such relief 
+under Rule 33. See 331 U.S. at 475. See also Robinson, 361 
+U.S. at 225-226 (under Smith, “the power of the District Court 
+sua sponte to grant a new trial under Rule 33 is limited to the 
+time fixed in that Rule”). 
+
+
+19 
+
+
+noted, provided that certain actions could be done out 
+of time where the “failure to act was the result of 
+excusable neglect.” The Court emphasized, however, 
+that Rule 45(b) identified specific circumstances in 
+which district courts could not allow acts to be done 
+out of time: 
+
+
+[Thhe court may not enlarge the period for taking 
+any action under Rules 33, 34 and 35, except as 
+otherwise provided in those rules, or the period 
+for taking an appeal. 
+
+
+361 U.S. at 223 (quoting Fed. R. Crim. P. 45(b)) (em- 
+phasis added). Because recognizing a late notice of 
+appeal “‘enlarge[s]’ the period for taking an appeal,” 
+the Court held, it was forbidden by Rule 45(b). Id. at 
+224. Thus, “the 10-day period prescribed by Rule 
+37(a)(2) is mandatory and jurisdictional.” Ibid.“ 
+
+The Court in Robinson observed that to recognize 
+an untimely notice of appeal would be inconsistent 
+with Smith, because Smith also involved a Rule with 
+a time limit covered by Rule 45(b)’s express bar 
+against enlargement. 361 U.S. at 225-226. If an un- 
+timely notice of appeal were held to confer juris- 
+diction of the appeal based on “excusable neglect,” it 
+would follow that a finding of excusable neglect would 
+permit delayed action under the other Rules listed in 
+Rule 45(b)—Rules 33, 34, and 35. That result would 
+contravene Smith’s holding that Rule 33 “prescribed 
+
+
+Rule 37 was abrogated effective July 1, 1968, and the 
+ten-day deadline for filing a notice of appeal in criminal cases is 
+today mandated by Federal Rule of Appellate Procedure 4(b). 
+Relying on Robinson, this Court has held that the time limits 
+set by Rule 4 are “mandatory and jurisdictional.” Browder v. 
+Director, Dep't of Corrections, 434 U.S. 257, 264 (1978) (quoting 
+Robinson, 361 U.S. at 229). 
+
+
+20 
+
+
+precise times within which the power of the courts 
+must be confined,” whether that power is wielded sua 
+sponte or in response to a defense motion. Robinson, 
+361 U.S. at 225-226. 
+
+As the Sixth Circuit has noted, the “decisions in 
+Smith and Robinson leave little doubt concerning the 
+proper resolution of the question” of whether a 
+district court has authority to grant an untimely 
+motion for judgment of acquittal. United States v. 
+Davis, 992 F.2d 635, 639 (6th Cir.), cert. denied, 114 
+S. Ct. 265 (1993). When Smith and Robinson were 
+decided, Rule 29 was not listed in Rule 45(b). In 1966, 
+however, when Rule 29(c) was promulgated, Rule 
+45(b) was amended to add Rule 29 to the list of Rules 
+with regard to which courts could not extend the time 
+limit except as provided in those Rules. See Fed. R. 
+Crim. P. 45 advisory committee’s note (1966 amend- 
+ment). Under Robinson, Rule 45(b)’s inclusion of 
+Rule 29 means a district court cannot grant a de- 
+fendant’s untimely motion for judgment of acquittal, 
+because the seven-day time limit in Rule 29, like the 
+time limit at issue in Robinson, is “mandatory and 
+jurisdictional.” 361 U.S. at 224. Permitting delayed 
+action under Rule 29 would also conflict with Smith’s 
+holding that the parallel wording in Rule 33 “pre- 
+scribed precise times within which the power of the 
+courts must be confined.” Id. at 226. 
+
+3. The history of Rule 29 and Rule 45 confirms 
+that textual understanding. In 1940, Congress 
+authorized this Court to promulgate Rules of 
+Criminal Procedure that would become effective upon 
+“passive acceptance” by Congress; this Court did so 
+with the aid of an Advisory Committee. Robinson, 
+361 U.S. at 227. The Advisory Committee’s pre- 
+liminary draft of Rule 29, issued in May 1943, 
+
+
+21 
+
+
+contained two sections: Section (a) allowed motions 
+for acquittal to be granted “at any time after the 
+evidence on either side is closed”; Section (b) provided 
+that, if the court denied such a motion, the defendant 
+could renew] that motion “within 10 days after the 
+jury is discharged.“ Based on suggestions from the 
+bench and bar, later versions of the Rule (including 
+the final version) made the time limits under the Rule 
+more stringent. In Section (a), the words “at any 
+time” were deleted, making clear that the court was 
+required either to reserve the motion or to act on it 
+before submitting the case to the jury. In Section (b), 
+the ten-day time period was shortened to match the 
+five-day period then allowed for motions for new trial 
+under Rule 33.“ The Advisory Committee’s decision 
+to strike the language allowing a motion for judgment 
+of acquittal to be made “at any time” and to fix instead 
+a five-day time limit following discharge of the jury 
+is persuasive evidence that the Committee expected 
+the time limit it set for post-verdict motions to be 
+mandatory, not precatory. The 1966 amendment that 
+increased the time limits under Rule 29%c) and Rule 
+33 to the current limit of seven days, see Fed. R. 
+Crim. P. 29 advisory committee’s note (1966 amend- 
+ment), is also indicative of a studied selection of a 
+definite time period. That deliberate approach is 
+inconsistent with petitioner’s view that Rule 29(c)’s 
+time limit is meant to be “flexibly applied” (Br. 10). 
+
+
+See Preliminary Draft of Fed. R. Crim. P. 27 (May 
+1943), reprinted in 1 Drafting History of the Federal Rules of 
+Criminal Procedure 125 (Madeline J. Wilken and Nicholas 
+Triffin eds., 1991) (hereinafter Drafting History). Early drafts 
+of the Rule were numbered differently from the final Rule. 
+
+2 See Second Preliminary Draft of Fed. R. Crim. P. 31 
+(Feb. 1944), reprinted in 4 Drafting History 121. 
+
+
+22 
+
+
+The history of Rule 45 points to the same con- 
+clusion. At common law, a court’s authority over its 
+judgments expired with the term of court. See Smith, 
+331 U.S. at 473; United States v. Mayer, 235 U.S. 55, 
+67 (1914). Rule 45 reflected a decision to “abolish{] 
+the expiration of a term of court as a time limitation 
+for the taking of any step in a criminal proceeding” 
+and to substitute “specific time limitations” in its 
+place. See Fed. R. Crim. P. 45 advisory committee’s 
+note (1944 adoption). The purpose of establishing 
+fixed time limits was to avoid the uncertainty in- 
+herent in the term-of-court concept. See ibid.; 
+United States v. Keane, 852 F.2d 199, 202 (7th Cir. 
+1988) (because “term-of-court” often referred to the 
+“period that lasted until the judges moved on to some 
+other city,” the term limitation produced “erratic 
+results,” depending on how late in the term the 
+judgment had been rendered), cert. denied, 492 U.S. 
+928 (1989). As this Court has explained: 
+
+
+The Rules, in abolishing the term rule, did not 
+substitute indefiniteness. On the contrary, pre- 
+cise times, independent of the term, were pre- 
+scribed. The policy of the Rules was not to ex- 
+tend power indefinitely but to confine it within 
+constant time periods. See Notes to Rules of 
+Criminal Procedure, Rule 45. 
+
+
+Smith, 331 U.S. at 473 n.2 (emphasis added). 
+
+In 1966, Rule 29 was added to the Rules listed in 
+Rule 45(b), and the history of that amendment reflects 
+a recognition that Smith and Robinson would render 
+
+
+In Mayer, the Court recognized, as an exception to that 
+rule, that a court possessed power in a subsequent term “to 
+correct inaccuracies in mere matters of form, or clerical 
+errors.” 235 U.S. at 67. That exception is inapplicable here. 
+
+
+23 
+
+
+the seven-day time limit in Rule 29%c) mandatory. 
+The Advisory Committee’s Note to Rule 2%c) states 
+that the power to extend the seven-day time limit in 
+that Rule is patterned on Rule 33, the Rule at issue in 
+Smith. See Fed. R. Crim. P. 29 advisory committee’s 
+note (1966 amendment). The Advisory Committee's 
+Note regarding Rule 33 likewise refers back to Rule 
+2%c), and cites the decision in Smith. See Fed. R. 
+Crim. P. 33 advisory committee’s note (1966 amend- 
+ment). Finally, the Advisory Committee’s Note to 
+Rule 45 cites Robinson, and states that Rule 45(b) 
+“makes it clear that the only circumstances under 
+which extensions [of time] can be granted under 
+Rule{]} 29 are those stated in” that Rule 
+itself. Fed. R. Crim. P. 45 advisory committee’s note 
+(1966 amendment). The drafters of Rule 2%c) and 
+Rule 45(b) thus expressed their intention that the 
+seven-day time limit be binding and jurisdictional. 
+See 4 Mark S. Rhodes, Orfield’s Criminal Procedure 
+under the Federal Rules § 29:2, at 503-508 (2d ed. 
+1987) (reviewing drafting history of Rule 29(c)). 
+
+
+“ The Reporter's Comment on the January 1961 First 
+
+
+Tentative Draft of Rule 2%c) likewise noted that, li any 
+change is made in the 5-day period under Rule 33, this rule 
+should be changed to conform.” CIS Records of the Judicial 
+
+
+Conference of the United States, Committee on Rules of 
+Practice and Procedure, 1935-1988—Committee on Criminal 
+Procedure, CM 3710-70 (microfiche). 
+
+
+24 
+
+
+B. There Is No Source Of Judicial Authority To 
+Override The Time Limit Mandated By Rule 
+
+
+2900) 
+
+
+Petitioner does not argue that the text or history 
+of Rule 29 or Rule 45 support, or are even consistent 
+with, his claim (Br. 8) that a district court has the 
+“discretion” to enter a judgment of acquitis! when no 
+timely motion for such relief has been made within 
+seven days of the discharge of the jury. Instead, he 
+bases his claim for “flexible” application of Rule 
+29%c)’s time limits on other rules or statutes (Br. 10), 
+and on the district court’s “inherent supervisory 
+power” (Br. 30). None of those sources gives a court 
+power to disregard the time limits of Rule 290). 
+
+1. Federal Rule of Criminal Procedure 2: 
+Petitioner relies first (Br. 10-11) on Federal Rule of 
+Criminal Procedure 2, which provides that the Rules 
+of Criminal Procedure are “intended to provide for 
+the just determination of every criminal proceeding. 
+They shall be construed to secure simplicity in pro- 
+cedure, fairness in administration and the elimination 
+of unjustifiable expense and delay.” Nothing in the 
+very general language of Rule 2 suggests that that 
+Rule was intended to override the time limit pre- 
+scribed by Rule 29%(c) and reinforced by Rule 45(b). 
+Nor does the Court’s reliance on Rule 2 in Fallen v. 
+United States, 378 U.S. 139 (1964), suggest that that 
+Rule is assigned the office of permitting discre- 
+tionary deviation from time limits as a matter of 
+course. In Fallen, the Court determined, in the 
+highiy unusual circumstances of that case, that a 
+defendant’s untimely notice of appeal did not deprive 
+the court of appeals of jurisdiction over his case. The 
+Court noted that, while “the timely filing of a notice 
+
+
+25 
+
+
+of appeal is a jurisdictional prerequisite to the 
+hearing of the appeal,” under Rule 2, the Rules must 
+be “approached with sympathy for their purpose.” Id. 
+at 142. The Court explained that the extraordinary 
+nature of the case, and in particular that Fallen was 
+incarcerated, ill, deprived of visitors, and forced 
+against his will to proceed pro se, and that (before 
+expiration of the ten-day deadline) Fallen had sub- 
+mitted a notice of appeal to prison authorities for 
+mailing, required that his notice of appeal be accepted. 
+Id. at 142-143." Four Justices concurred, taking the 
+position that “a defendant incarcerated in a federal 
+prison and acting without the aid of counsel” in fact 
+has timely filed a notice of appeal when he delivers 
+it to prison authorities within the ten-day period 
+provided in Rule 37. Id. at 144 (Stewart, J., con- 
+curring). “In other words,” the concurring Justices 
+concluded, “in such a case the jailer is in effect the 
+clerk of the District Court within the meaning of 
+Rule 37.” Ibid.” 
+
+
+1 Fuallen's holding prompted an amendment to then-Rule 
+37 that allowed a district court to extend the time to file a 
+
+
+in Federal Rule of Appellate Procedure 4(b). No comparable 
+provision has ever been added to Rule 29; rather, the drafters 
+of the Rules placed in Federal Rule of Criminal Procedure 45 
+stringent limits against the extension of the time period 
+prescribed by Rule 2%c) except as that Rule itself provides. 
+
+In Houston v. Lack, 487 U.S. 266 (1988), the Court 
+concurrence and 
+
+
+i 
+; 
+: 
+7 
+; 
+
+
+The narrow holding in Fallen does not assist 
+petitioner. Unlike the defendant in that case, peti- 
+tioner was represented by counsel at all stages of the 
+case, and made no effort before the expiration of the 
+deadline in Rule 29(c) to file a motion for judgment of 
+acquittal in the district court. Fallen establishes no 
+general principle that, under Rule 2, deadlines fixed 
+by the Rules of Criminal Procedure should be applied 
+“flexibly” so as to excuse his delinquency (Br. 10). 
+That reading of Fallen cannot be squared with the 
+decision in Berman v. United States, 378 U.S. 530 
+(1964) (per curiam), which was decided the same day 
+as Fallen. In Berman, the defendant’s notice of 
+appeal had been due on a Saturday, and his attorney 
+timely prepared the notice and asked an associate 
+to file it on the preceding Friday. The associate, 
+however, “left the office with a fever and went home to 
+bed, where he stayed until late Sunday. Because of 
+the associate’s illness, the notice was not filed on 
+Saturday; instead, it was filed Monday morning.” /d. 
+at 531 (Black, J., dissenting). The court of appeals 
+dismissed the appeal as untimely, and this Court 
+summarily affirmed, citing Robinson. See id. at 530. 
+In his dissenting opinion, Justice Black noted that the 
+notice of appeal deadline was being enforced even 
+
+
+seeking to appeal without the aid of counsel is unique” (ibid.), 
+because such a pro se prisoner's “control over the processing of 
+his notice necessarily ceases as soon as he hands it over to the 
+only public officials to whom he has access.” Id. at 271-272. 
+The decision in Houston gave rise to Federal Rule of Appellate 
+Procedure 4(c), which provides that in cases involving “an 
+inmate confined in an institution,” the “notice of appeal is 
+timely filed if it is deposited in the institution's internal mail 
+system on or before the last day for filing.” See Fed. R. App. 
+P. 4 advisory committee’s note (1993 amendment). 
+
+
+27 
+
+
+though “the sole reason for cutting off the defendant's 
+right of appeal * * * is the fact that, after the 
+defendant has decided to appeal, the lawyer to whom 
+he entrusts the duty of physically transporting his 
+notice of appeal * * * fails to get it there because he 
+is taken ill.” Id. at 532; see also Santana v. United 
+States, 385 U.S. 848 (1966) (Black, J., dissenting from 
+denial of certiorari); Temple v. United States, 386 
+U.S. 961 (1967) (Black, J., dissenting from denial of 
+certiorari). The disposition of Berman establishes 
+that Fallen rests principally on the incarcerated 
+defendant’s involuntary pro se status. It has no ap- 
+plication to a case such as this, where a represented 
+defendant fails to meet a jurisdictional deadline as the 
+result of his counsel's lapse. 
+
+2. Federal Rule of Criminal Procedure 57: 
+Petitioner also relies (Br. 15, 17) on Arizona v. 
+Manypenny, 672 F.2d 761, 765-766 (9th Cir.) 
+(Kennedy, J.), cert. denied, 459 U.S. 850 (1982), which 
+invoked both Federal Rule of Criminal Procedure 57 
+and the “inherent power” of a district court in 
+support of its holding that, more than seven days after 
+the discharge of the jury, a court may revisit its 
+denial of a timely filed motion for judgment of 
+acquittal.” To the extent that petitioner relies on 
+Rule 57, that reliance is misplaced. Rule 57 provides 
+that, Jim all cases not provided for by rule, the 
+district judges and magistrate judges may regulate 
+their practice in any manner not inconsistent with 
+
+
+Manypenn was decided before Bank of Nova Scotia v. 
+United States, 487 U.S. 250 (1988), which, as we discuss at page 
+32, infra, holds that a district court may not exercise its 
+supervisory power where doing so would conflict with a 
+Federal Rule of Criminal Procedure. 
+
+
+28 
+
+
+” 
+
+
+these rules or those of the district in which they act. 
+Rule 57 does not authorize a court to grant an 
+untimely motion for judgment of acquittal because 
+the time limit for such motions is “provided for by 
+rule”—Rule 29(c)—and because granting an untimely 
+motion would be “inconsistent” with that Rule. 
+
+As the Advisory Committee’s Note to Rule 57 ex- 
+plains, while the Federal Rules of Criminal Pro- 
+cedure “are intended to constitute a comprehensive 
+procedural code for criminal cases in the Federal 
+courts,” Rule 57 allows individual judges or districts 
+to set their own practices on “matters of detail” not 
+addressed by those Rules, such as “the mode of im- 
+paneling a jury, the manner and order of interposing 
+challenges to jurors, the manner of selecting the 
+foreman of a trial jury, the matter of sealed verdicts, 
+the order of counsel’s arguments to the jury, and 
+other similar details.” Fed. R. Crim. P. 57 advisory 
+committee’s note (1944 adoption).” The time limit 
+prescribed by Rule 29(c) is part of that nationally 
+applicable procedural code, and hence is not a “matter 
+of detail” subject to the discretion of a district judge. 
+See Miner v. Atlass, 363 U.S. 641, 650 (1960) (purpose 
+of requiring particular statutory procedures to be 
+used to adopt Federal Rules was to ensure that “basic 
+procedural innovations shall be introduced only after 
+mature consideration of informed opinion from all 
+relevant quarters, with all the opportunities for 
+comprehensive and integrated treatment which such 
+
+
+The order of closing arguments is today prescribed by 
+Federal Rule of Criminal Procedure 29.1, which became ef- 
+fective in 1975. Rule 29.1 “reflects the Advisory Committee’s 
+view that it is desirable to have a uniform federal practice” in 
+this area. See Fed. R. Crim. P. 29.1 advisory committee’s note 
+(1974 addition). 
+
+
+29 
+
+
+consideration affords”). Indeed, if Rule 57 were 
+thought to leave a district judge discretion to enlarge 
+the time period within which a post-verdict motion for 
+judgment of acquittal could be filed, it would also 
+presumably allow a judge to contract that time period 
+—an action plainly inconsistent with Rule 29(c).” 
+
+3. The All Writs Act (28 U.S.C. 1651): Petitioner 
+also claims (Br. 23-25, 30) that a district court has 
+authority under the All Writs Act, 28 U.S.C. 1651, to 
+treat an untimely motion for judgment of acquittal as 
+a petition for a writ of coram nobis, and to issue such 
+a writ acquitting the defendant.” The traditional 
+
+
+Rule 57 also allows a district court, after engaging in 
+appropriate notice and comment procedures, to “make and 
+amend rules governing its practice not inconsistent with these 
+rules.” Similarly, under the Rules Enabling Act, 28 U.S.C. 
+2071(a), “all courts established by Act of Congress may from 
+time to time prescribe rules for the conduct of their business,” 
+so long as those rules are “consistent with Acts of Congress and 
+rules of practice and procedure prescribed under” 28 U.S.C. 
+2072, another section of the Rules Enabling Act. As we have 
+noted, any local rule altering the time limits governing motions 
+for judgments of acquittal would be inconsistent with Rule 
+29(c) and hence void. In any event, the district in which 
+petitioner was convicted has not adopted a rule authorizing a 
+court to grant a motion for judgment of acquittal filed more 
+than seven days after discharge of the jury. See Local Rules of 
+Practice and Procedure, United States District Court for the 
+Western District of Michigan (Aug. 1991). 
+
+The All Writs Act, 28 U.S.C. 1651, provides: 
+
+(a) The Supreme Court and all courts established by Act 
+of Congress may issue all writs necessary or appropriate in 
+aid of their respective jurisdictions and agreeable to the 
+usages and principles of law. 
+
+
+(b) An alternative writ or rule nisi may be issued by a 
+justice or judge of a court which has jurisdiction. 
+
+
+30 
+
+
+scope of the coram nobis remedy does not extend to 
+that situation. In any event, the coram nobis remedy 
+may not be employed in a manner that effectively 
+overrides a Federal Rule. 
+
+The writ of coram nobis was available at common 
+law solely to correct errors of fact “of the most 
+fundamental character” that had not been brought to 
+the attention of the trial court and that “rendered the 
+proceeding itself irregular and invalid.” United 
+States v. Addonizio, 442 U.S. 178, 186 (1979); see 
+United States v. Morgan, 346 U.S. 502, 507 & n.9, 512 
+(1954); Mayer, 235 U.S. at 68; Yale Kamisar, Wayne 
+R. LaFave, & Jerold H. Israel, Modern Criminal 
+Procedure 1624-1625 (1994). For example, the writ 
+could issue to bring before the court such heretofore 
+unknown errors as the fact that “the defendant, being 
+under age, appeared by attorney, or the plaintiff or 
+defendant * * * died before verdict.” Mayer, 235 
+U.S. at 68; see also Morgan, 346 U.S. at 508. In 
+Morgan, this Court held that, under the All Writs 
+Act, federal courts retain power to issue writs of 
+coram nobis. 346 U.S. at 508. But, the Court noted, 
+the writ is an “extraordinary remedy, available only 
+under circumstances compelling such action to 
+achieve justice,” id. at 511, and may issue only where 
+“no other remedy [is] available” and where there are 
+“sound reasons existing for failure to seek appro- 
+priate earlier relief,” id. at 512; see also id. at 511 
+(noting view at common law that “failure to use a 
+known remedy at the time of trial may be a bar to 
+subsequent reliance on the defaulted right”). 
+
+In light of those principles, the coram nobis remedy 
+is unavailable to petitioner, for several reasons. 
+First, petitioner does not claim that proof of an extra- 
+record fact would demonstrate the invalidity of his 
+
+
+31 
+
+
+conviction. Rather, petitioner claims that the evi- 
+dence at trial was insufficient, a claim that, unlike the 
+paradigmatic coram nobis claim, does not concern 
+“matters of fact which had not been put in issue or 
+passed upon.” Mayer, 235 U.S. at 68. Second, peti- 
+tioner does not attack “the validity and regularity” of 
+the judgment itself, Morgan, 346 U.S. at 507 (internal 
+quotation marks omitted), but, instead, the evi- 
+dentiary basis for that judgment. See Moody v. 
+United States, 874 F.2d 1575, 1576-1577 (11th Cir. 
+1989) (claim that newly discovered evidence demon- 
+strates defendant’s innocence “is not cognizable in a 
+coram nobis proceeding” because it does not involve 
+“a matter of fact of the most fundamental character 
+which has not been put in issue or passed upon and 
+which renders the proceeding itself irregular and 
+invalid”), cert. denied, 493 U.S. 1081 (1990). Third, 
+other remedies are available to petitioner, including 
+the right to challenge the sufficiency of the evidence 
+on direct appeal and to petition for collateral relief 
+under 28 U.S.C. 2255. See pages 37-39, infra. 
+
+Finally, a writ of coram nobis may not be utilized to 
+override a procedure mandated by statute or Federal 
+Rule, such as Rule 29(c)’s time limit. As this Court 
+has explained: 
+
+
+The All Writs Act is a residual source of 
+authority to issue writs that are not otherwise 
+covered by statute. Where a statute specifically 
+addresses the particular issue at hand, it is that 
+authority, and not the All Writs Act, that is 
+controlling. Although that Act empowers federal 
+courts to fashion extraordinary remedies when 
+the need arises, it does not authorize them to 
+issue ad hoc writs whenever compliance with 
+
+
+32 
+
+
+statutory procedures appears inconvenient or less 
+appropriate. 
+
+
+Pennsylvania Bureau of Correction v. United States 
+Marshals Service, 474 U.S. 34, 43 (1985); see Smith, 
+331 U.S. at 475 n.4 (in light of enactment of Fed- 
+eral Rules of Criminal Procedure, “it is difficult to 
+conceive of a situation in a federal criminal case today 
+where thle] remedy [of coram nobis] would be nec- 
+essary or appropriate”); id. at 471 (“The power of 
+the District Court to make such an order [granting a 
+new trial] turns entirely on the Rules of Criminal 
+Procedure.”). 
+
+4. “Inherent Supervisory Power”: Finally, peti- 
+tioner argues (Br. 9, 30) that a district court has 
+“inherent supervisory power” to relieve a defendant 
+“from the strict operation of the time limits” 
+prescribed by Rule 29(c)." That claim, however, 
+is foreclosed by this Court’s decision in Bank of 
+Nova Scotia v. United States, 487 U.S. 250 (1988), 
+which holds that a district court may not exer- 
+cise its supervisory power where doing so would 
+“circumvent” or “conflict with” a Federal Rule of 
+Criminal Procedure. Id. at 254. At issue in Bank of 
+Nova Scotia was whether a district court could use 
+its supervisory powers to dismiss an indictment for 
+misconduct before the grand jury that did not prej- 
+udice the defendant, notwithstanding the direction in 
+
+
+a While several courts have suggested that the “super- 
+visory powers” of the federal courts are conferred by the All 
+Writs Act, most have concluded that such powers derive from 
+Article III of the Constitution. Sara Sun Beale, Reconsidering 
+Supervisory Power in Criminal Cases: Constitutional and 
+Statutory Limits on the Authority of the Federal Courts, 84 
+Colum. L. Rev. 1433, 1464 (1984). 
+
+
+33 
+
+
+Federal Rule of Criminal Procedure 52(a) that a 
+district court must “disregard[]” any error that does 
+not “affect substantial rights.” The Court held it 
+could not, because of the established principle that 
+“{e]ven a sensible and efficient use of the supervisory 
+power. . is invalid if it conflicts with constitutional 
+or statutory provisions.” 487 U.S. at 254 (quoting 
+Thomas v. Arn, 474 U.S. 140, 148 (1985)). That 
+principle, the Court held, applies with equal force 
+where the exercise of supervisory power would 
+conflict with a Federal Rule of Criminal Procedure 
+(id. at 255 (quoting United States v. Payner, 447 U.S. 
+727, 736 (1980))): 
+
+
+Rule 52 is, in every pertinent respect, as binding 
+as any statute duly enacted by Congress, and 
+federal courts have no more discretion to dis- 
+regard the Rule’s mandate than they do to 
+disregard constitutional or statutory provisions. 
+The balance struck by the Rule between societal 
+costs and the rights of the accused may not casu- 
+ally be overlooked “because a court has elected 
+to analyze the question under the supervisory 
+power.” 
+
+
+See id. at 254 (“To allow otherwise ‘would confer on 
+the judiciary discretionary power to disregard the 
+considered limitations of the law it is charged with 
+enforcing.’”) (quoting Payner, 447 U.S. at 737); 
+Chambers v. NASCO, Inc., 501 U.S. 32, 51 (1991) (“a 
+district court [may] not rely on its supervisory pow- 
+er as a means of circumventing the clear mandate 
+of a procedural rule”); United States v. Hasting, 461 
+U.S. 499, 505 (1983) (supervisory power cannot justify 
+the reversal of a conviction based on nonprejudi- 
+cial prosecutorial misconduct, because to do would 
+
+
+34 
+
+
+conflict with the requirement to overlook harmless 
+error in Fed. R. Crim. P. 52); ef. Palermo v. United 
+States, 360 U.S. 343, 353 n.11 (1959). A district court 
+likewise may not use its supervisory power to 
+override Rule 29(c)’s mandatory time limit for filing a 
+post-verdict motion for judgment of acquittal.” 
+
+The exercise of supervisory authority to extend 
+Rule 29%c)’s time limit would be particularly 
+inappropriate in light of the scant precedent at 
+common law for such action. Courts at common law 
+did not enjoy the power to enter a judgment incon- 
+sistent with a jury’s verdict in a criminal case. In 
+England, after the jury found the defendant guilty, 
+courts could recommend a royal pardon if they 
+concluded that the evidence was insufficient, but 
+could not themselves enter a post-verdict judgment of 
+acquittal or dismissal. Ex parte United States, 101 
+F. 2d 870, 875-876 & n.15 (7th Cir.), aff’d by an equally 
+divided Court sub nom. United States v. Stone, 308 
+U.S. 519 (1939) (per curiam); 1 James Fitzjames 
+Stephen, A History of the Criminal Law of England 
+311-313 (1883). Early decisions in the United States 
+
+
+2 The decisions on which petitioner relies (Br. 9-14) ree- 
+ognize that supervisory power may be exercised only where 
+no statute or Federal Rule has supplied a contrary rule of 
+decision. In United States v. Nobles, 422 U.S. 225 (1975), the 
+Court recognized a court’s inherent authority to order the 
+disclosure of a defense witness’s written statements, but only 
+after concluding that the exercise of that authority would noi 
+conflict with the Fifth Amendment, the Jencks Act (18 U.S.C. 
+3500), Federal Rule of Criminal Procedure 16, or the work- 
+product doctrine. 422 U.S. at 233-240. See also United States 
+v. Hasting, supra (discussed in text). Petitioner’s reliance (Br. 
+14) on Brock v. Pierce County, 476 U.S. 253 (1986), is mis- 
+placed, because Brock involved the construction of a statutory 
+time limit, not the exercise of supervisory power. 
+
+
+35 
+
+
+recognized a court’s authority to direct a jury to 
+acquit the defendant, see Sparf v. United States, 156 
+U.S. 51, 99-100, 105 (1895); United States v. Fullerton, 
+25 Fed. Cas. 1225, 1226 (C.C.S.D.N.Y. 1870) (No. 
+15,176), but few if any reported decisions from this 
+period support entry of a judgment of acquittal 
+following a guilty verdict. See Note, Reservation of 
+Motion for Directed Verdict in Federal Criminal 
+Trials, 49 Yale L. J. 733, 735, 736 & n.27 ( 1940); but see 
+State v. Meen, 171 Wis. 36 (1920). Nor was the power 
+to do so recognized by the leading treatises on 
+criminal law and procedure of that era. See, e.g., 1 
+Elijah N. Zoline, Federal Criminal Law and Pro- 
+cedure §§ 457-466, at 383-389 (1921); William L. Clark, 
+Jr., Handbook of Criminal Procedure 88 181-187, at 
+562-584 (2d ed. 1918); 2 Joel Prentiss Bishop, New 
+Criminal Procedure §§ 1263-1288, at 1082-1126 (2d ed. 
+1913). 
+
+Not until 1939, seven years before the effective date 
+of the Federal Rules of Criminal Procedure, did a 
+federal court of appeals, in Ex parte United States, 
+supra, hold that a district court could reserve ruling 
+on a motion for directed verdict of acquittal, and later 
+grant that motion after the jury convicted the 
+defendant. In that case, the Seventh Circuit held 
+that, while no statute authorized a district court to 
+take such action, “the absence of express prohibitive 
+legislation” left room for federal courts to enlarge 
+“the procedures [governing directed verdicts] known 
+at common law.” 101 F.2d at 876. That decision was 
+affirmed by an equally divided Supreme Court, and 
+has been codified today in Rule 290b). See Fed. R. 
+Crim. P. 29 advisory committee’s note (1944 adoption). 
+We are aware, however, of no cases before the 
+adoption of the Federal Rules of Criminal Procedure 
+
+
+36 
+
+
+granting a motion for acquittal first made after the 
+verdict. Exercise of supervisory authority to grant 
+such relief based on a motion more than seven days 
+after discharge of the jury would therefore not only 
+be at odds with Rule 29c), but without precedent at 
+common law. 
+
+
+C. Rule 29(c)’s Time Limit Advances Valid 
+Systemic Interests While Preserving A 
+Defendant’s Right To Challenge The 
+Sufficiency Of The Evidence On Appeal 
+
+
+Petitioner, finally, argues that enforcing Rule 
+29(c)’s seven-day deadline is ill-advised policy. He 
+claims that a flexible treatment of that time limit (1) 
+is needed “to ensure that an innocent man is not found 
+guilty” and thereby to “preserve judicial integrity” 
+(Br. 9); and (2) would not prejudice the government 
+where the defendant has missed Rule 29(c)’s time 
+limit by only one day (Br. 19). 
+
+1. As an initial matter, petitioner’s policy argu- 
+ments in favor of a flexible deadline are better 
+addressed in a rule-making proceeding than in 
+litigation over the meaning of the Rule as written. 
+See note 15, supra (noting that amendment was made 
+to Federal Rule of Criminal Procedure 37 to in- 
+corporate the concept of “excusable neglect”). Rule 
+2%c) reflects a balance of competing policy con- 
+siderations, and it must be heeded unless its 
+enforcement would be unconstitutional.” Cf. Bank of 
+
+
+% While petitioner does suggest (Br. 28-29) that enforcing 
+Rule 29(c)’s time limits would violate his rights under the Due 
+Process Clause of the Fifth Amendment, that claim lacks any 
+merit. Far from denying petitioner due process of law, a rule 
+that sets a clear and attainable time limit fully comports with 
+the need for procedural regularity that is at the heart of the 
+
+
+37 
+
+
+Nova Scotia, 487 U.S. at 255 (Rule 52 represents a 
+“balance struck * * * between societal costs” and 
+principles of finality on the one hand, “and the rights 
+of the accused” on the other). As this Court explained 
+in Robinson when faced with the analogous claim that 
+enforcing the requirement that a notice of appeal be 
+filed within ten days would be unjust: 
+
+
+That powerful policy arguments may be made 
+both for and against greater flexibility with 
+respect to the time for the taking of an appeal is 
+indeed evident. But that policy question, involv- 
+ing, as it does, many weighty and conflicting 
+considerations, must be resolved through the 
+rule-making process and not by judicial decision. 
+* * * Whatever may be the proper resolution of 
+the policy question involved, it was beyond the 
+power of the Court of Appeals to resolve it. 
+
+
+361 U.S. at 229-230. The district court in this case 
+likewise had no basis for substituting its appraisal of 
+the merits of a binding seven-day time limit for the 
+determination reflected in Rule 29(c). 
+
+2. In any event, petitioner’s assertion that en- 
+forcing the time limit set by Rule 29(c) would prevent 
+the reversal of the conviction of an “actually inno- 
+cent” defendant (Br. 9-14) is unfounded. Rather than 
+
+
+Due Process Clause. A legal system that lacked defined pro- 
+cedural deadlines would be chaotic and unmanageable. As for 
+petitioner’s claim (Br. 28-29) that the right to have a court 
+grant a motion for judgment of acquittal made more than 
+seven days after the discharge of the jury is “implicit in the 
+concept of ordered liberty,” Palko v. Connecticut, 302 U.S. 
+319, 325-326 (1937), that claim is defeated by the absence at 
+common law of any tradition of granting post-verdict motions 
+
+
+for judgment of acquittal. See pages 34-36, supra. 
+
+
+38 
+
+
+foreclosing review, enforcing the time limit set by 
+Rule 29(c) simply shifts the forum in which a claim of 
+insufficient evidence is litigated after the verdict, 
+from the district court to the court of appeals. A 
+defendant who fails to make a post-verdict motion for 
+judgment of acquittal retains the right to claim on 
+appeal that the evidence was insufficient as a matter 
+of law. And, although petitioner failed to do so here, 
+defendants typically file motions for judgments of 
+acquittal under Rule 29(a) before a case is submitted 
+to the jury but after the evidence on either side is 
+closed, and, where such motions are denied, thus 
+preserve their right to appellate review of evidentiary 
+svfficiency even in the absence of a Rule 29(c) post- 
+verdict motion. See United States v. Overmyer, 867 
+F. 2d 937, 938 (6th Cir.) (same standard governs appeal 
+from denial of Rule 29(a) motion as appeal from denial 
+of Rule 29(c) motion), cert. denied, 493 U.S. 813 (1989). 
+In the rare case of a defendant such as petitioner who 
+has made no such motion, a claim of insufficient 
+evidence is still reviewable on appeal, under a plain 
+error standard of review. See generally United 
+States v. Olano, 113 S. Ct. 1770 (1993). Petitioner 
+thus will have the opportunity to establish on appeal 
+that it was plain error for the district court not to 
+dismiss the case on its own motion on the ground that 
+no “rational trier of fact could have found the essen- 
+tial elements of the crime beyond a reasonable doubt.” 
+Jackson v. Virginia, 443 U.S. 307, 319 (1979).“ 
+
+
+*The courts of appeals have consistently acknowledged 
+the right of the defendant to plain error review of a claim of 
+insufficient evidence where the defendant has failed to make a 
+timely motion for judgment of acquittal in the district court. 
+See United States v. Santistevan, 39 F 3d 250, 256-257 (10th 
+Cir. 1994) (finding plain error); United States v. Zolicoffer, 869 
+
+
+In addition, a defendant such as petitioner who 
+claims (Br. 12) that the failure to make a timely 
+motion under Rule 29%c) was the product of an 
+unprofessional error by defense counsel may also be 
+entitled to collateral relief under 28 U.S.C. 2255. If 
+the defendant can establish that counsel’s overall 
+representation “fell below an objective standard of 
+reasonableness,” Strickland v. Washington, 466 U.S. 
+668, 688 (1984), and that there is a reasonable prob- 
+ability that, absent defense counsel’s errors, the 
+result in the case would have been different, id. at 694, 
+the claim may be reviewed notwithstanding the 
+defendant’s procedural default. See United States v. 
+Frady, 456 U.S. 152 (1982); ef. Robinson, 361 U.S. at 
+230 n.14; Smith, 331 U.S. at 475-476. 
+
+Also unavailing is petitioner’s claim (Br. 12) that 
+enforcing Rule 29%c)’s time limit would result in the 
+
+
+F. 2d 771, 774 (3d Cir.) (plain error), cert. denied, 490 U.S. 1113 
+(1989); see also United States v. Muniz, 60 F.3d 65, 67 (2d Cir. 
+1995) (no plain error); United States v. Quintero-Barraza, 57 
+F.3d 836, 843-844 (9th Cir. 1995) (no plain error); United States 
+v. Cox, 957 F.2d 264, 265 (6th Cir. 1992) (no plain error); 
+Fagan, 821 F.2d at 1009 & n.2 (no “manifest miscarriage of 
+justice”); ef. United States v. South, 28 F.3d 619, 626 n.3 (7th 
+Cir. 1994). There is, in fact, some uncertainty about whether 
+the “plain error” standard for reviewing insufficiency claims 
+first made on appeal differs from the standard for reviewing 
+insufficiency claims properly preserved in the district court. 
+See 2 Charles Alan Wright, Federal Practice and Procedure 
+(Criminal) § 469, at 675 (2d ed. 1982); see also United States v. 
+Davis, 583 F.2d 190, 199 (5th Cir. 1978) (Clark, J., concurring 
+in part and dissenting in part). And contrary to petitioner's 
+suggestion (Br. 12) that the Jackson v. Virginia standard 
+governing claims of insufficient evidence applies only to claims 
+raised in the court of appeals, that standard applies as well to 
+post-verdict motions for judgment of acquittal made in the 
+district court. See, e., Overmyer, 867 F.2d at 938-939. 
+
+
+40 
+
+
+incarceration of a defendant whom the district court 
+regards as not guilty pending resolution of his appeal. 
+The provision that governs bail pending appeal, 18 
+U.S.C. 3143(b), authorizes a district court to release 
+on bail a defendant who establishes that the appeal 
+“raises a substantial question of law or fact likely to 
+result in * * * (i) reversal, (ii) an order for a new 
+trial, [or] (iii) a sentence that does not include a term 
+of imprisonment.” 18 U.S.C. 3143(b)(1)(B).™ When a 
+district judge believes that a post-verdict motion for 
+judgment of acquittal would have had merit but for 
+the untimeliness of that motion, it is likely that the 
+judge will find the bail standard to have been met. 
+Petitioner suggests (Br. 19) that to honor a motion 
+for judgment of acquittal filed only one day late would 
+not offend the policies supporting Rule 29(c)’s time 
+limit. But if jurisdictional time limits are to have any 
+meaning, they must be strictly enforced” Peti- 
+tioner’s “flexible” approach would defeat the systemic 
+interest in the predictability of time limits, require 
+
+
+o release a convicted defendant on bail pending appeal, 
+the district court must also find, by clear and convincing evi- 
+dence, “that the [defendant] is not likely to flee or pose a 
+danger to the safety of any other person or the community if 
+released.” 18 U.S.C. 3143(b)(1)(A). 
+
+As this Court has noted in another context, Ai 1-day 
+late filings are acceptable, 10-day late filings might be equally 
+acceptable, and so on in a cascade of exceptions that would 
+engulf the rule erected by the filing deadline; yet regardless of 
+where the cutoff line is set, some individuals will always fall 
+just on the other side of it. Filing deadlines, like statutes of 
+limitations, necessarily operate harshly and arbitrarily with 
+respect to individuals who fall just on the other side of them, 
+but if the concept of a filing deadline is to have any content, 
+the deadline must be enforced.” United States v. Locke, 471 
+U.S. 84, 101 (1985). 
+
+
+41 
+
+
+district and appellate courts to undertake inquiries 
+into whether particular delinquent filings were 
+justified, and frequently delay appellate review. See 
+Robinson, supra (affirming dismissal of appeal where 
+notice of appeal filed 11 days late); Berman, supra 
+(affirming dismissal of notice of appeal filed two days 
+late); see also Coleman v. Thompson, 501 U.S. 722, 
+740 (1991) (denying collateral relief to defendant in 
+capital case who filed notice of appeal three days 
+beyond State’s mandatory 30-day time limit); Brown 
+v. Allen, 344 U.S. 448, 484-487 (1953) (denying col- 
+lateral relief to defendant who filed notice of appeal 
+one day beyond State’s mandatory 60-day time limit); 
+see also Fed. R. Crim. P. 2 (purpose of Federal Rules 
+includes “the elimination of unjustifiable expense and 
+delay”). Rule 29(c)’s time limit also has the effect of 
+ensuring that motions for judgment of acquittal will 
+be resolved before sentencing in all but the extra- 
+ordinary case. That, in turn, reduces the possibility 
+that the resolution of the Rule 29(c) motion might be 
+colored by the district judge’s heightened under- 
+standing by the time of sentencing of the defendant's 
+background or likely sentencing range.” 
+
+
+“ Petitioner purports to cabin his proposed exception to 
+Rule 29’s time limit by proposing (Br. 22-23) that that limit be 
+disregarded only when “(1) the motion is made prior to 
+sentencing, (2) the motion was not timely filed because of an 
+attorney's mistake and (3) there is a claim that the defendant is 
+actually innocent.” Petitioner’s exception would swallow Rule 
+2%c), however, because his three conditions will almost always 
+apply: a motion for judgment of acquittal is by definition a 
+claim that the defendant is legally innocent; a motion will 
+almost always be filed before sentencing; and a represented 
+defendant who does not file a timely motion for acquittal can 
+always claim that his attorney was responsible for that decision. 
+
+
+42 43 
+
+Rule 2%c) accounts for the occasional need of a CONCLUSION 
+defendant for additional time to prepare a motion for 
+judgment of acquittal, or of a district court to con- 1 „ 
+sider the merits of granting such relief. See Smith, : 
+331 U.S. at 475. It does so by allowing a defendant to Respectfully submitted. 
+seek extension of the seven-day time limit before that 
+period has run, see Fed. R. Crim. P. 2%), and by 192 — 
+allowing a district court to reserve judgment on a } 1 K 
+pre · verdiet motion until after the verdict, see Fed. R. — — 
+Crim. P. 29 0b). An open-ended invitation to further General 
+extensions, however, “is no insurance of justice.” MICHAEL R. DREEBEN 
+Smith, 331 U.S. at 476. As the Court has observed Deputy Solicitor General 
+(ibid.): PAUL A. ENGELMAYER, 
+
+On the contrary, as time passes, the peculiar — te the Sentettor 
+
+ability which the trial judge has to pass on the ä 
+
+fairness of the trial is dissipated as the incidents Attorney 
+
+
+and nuances of the trial leave his mind to give way 
+to immediate business. It is in the interest of 
+justice that a decision on the propriety of a trial be 
+reached as soon after it has ended as is possible, 
+and that decision not be deferred until the trial’s 
+story has taken on the uncertainty and dimness of 
+
+
+things long past. 
+
+
+DECEMBER 1995 
+
+
+1. 
+
+
+APPENDIX 
+
+
+The All Writs Act, 28 U.S.C. 1651, provides: 
+
+
+§ 1651. Writs 
+
+
+(a) The Supreme Court and all courts 
+established by Act of Congress may issue all 
+writs necessary or appropriate in aid of their 
+respective jurisdictions and agreeable to the 
+usages and principles of law. 
+
+(b) An alternative writ or rule nisi may 
+be issued by a justice or judge of a court which 
+has jurisdiction. 
+
+
+Rule 2, Fed. R. Crim. P., provides: 
+
+
+Rule 2. Purpose and Construction 
+
+
+These rules are intended to provide for the 
+just determination of every criminal pro- 
+ceeding. They shall be construed to secure 
+simplicity in procedure, fairness in adminis- 
+tration and the elimination of unjustifiable 
+expense and delay. 
+
+
+Rule 33, Fed. R. Crim. P., provides: 
+
+
+Rule 33. New Trial 
+
+
+The court on motion of a defendant may 
+grant a new trial to that defendant if required 
+in the interest of justice. If trial was by the 
+court without a jury the court on motion of a 
+defendant for a new trial may vacate the 
+
+
+(la) 
+
+
+2a 
+
+
+judgment if entered, take additional testimony 
+and direct the entry of a new judgment. A 
+motion for a new trial based on the ground of 
+newly discovered evidence may be made only 
+before or within two years after final judg- 
+ment, but if an appeal is pending the court may 
+grant the motion only on remand of the case. 
+A motion for a new trial based on any other 
+grounds shall be made within 7 days after 
+verdict or finding of guilty or within such 
+further time as the court may fix during the 7- 
+day period. 
+
+
+Rule 45, Fed. R. Crim. P., provides: 
+
+
+Rule 45. Time 
+
+
+(a) Computation. In computing any 
+period of time the day of the act or event from 
+which the designated period of time begins to 
+run shall not be included. The last day of the 
+period so computed shall be included, unless it 
+is a Saturday, a Sunday, or a legal holiday, or, 
+when the act to be done is the filing of some 
+paper in court, a day on which weather or 
+other conditions have made the office of the 
+clerk of the district court inaccessible, in 
+which event the period runs until the end of 
+the next day which is not one of the 
+aforementioned days. When a period of time 
+prescribed or allowed is less than 11 days, 
+intermediate Saturdays, Sundays and legal 
+holidays shall be excluded in the computation. 
+As used in these rules, “legal holiday” 
+includes New Year’s Day, Birthday of Martin 
+
+
+3a 
+
+
+Luther King, Jr., Washington’s Birthday, 
+Memorial Day, Independence Day, Labor Day, 
+Columbus Day, Veterans Day, Thanksgiving 
+Day, Christmas Day, and any other day 
+appointed as a holiday by the President or the 
+Congress of the United States, or by the state 
+in which the district court is held. 
+
+
+(b) Enlargement. When an act is re- 
+quired or allowed to be done at or within a 
+specified time, the court for cause shown may 
+at any time in its discretion (1) with or with- 
+out motion or notice, order the period enlarged 
+if request therefor is made before the ex- 
+piration of the period originally prescribed or 
+as extended by a previous order or (2) upon 
+motion made after the expiration of the 
+specified period permit the act to be done if the 
+failure to act was the result of excusable 
+neglect; but the court may not extend the time 
+for taking any action under Rules 29, 33, 34 
+and 35, except to the extent and under the 
+conditions stated in them. 
+
+
+(e) Unaffected by Expiration of Term.] 
+(Reseinded Feb. 28, 1966, eff. July 1, 1966.) 
+
+
+(d) For Motions; Affidavits. A written 
+motion, other than one which may be heard ex 
+parte, and notice of the hearing thereof shall 
+be served not later than 5 days before the time 
+specified for the hearing unless a different 
+period is fixed by rule or order of the court. 
+For cause shown such an order may be made 
+
+
+da 
+
+
+on ex parte application. When a motion is 
+supported by affidavit, the affidavit shall be 
+served with the motion; and opposing affidavits 
+may be served not less than 1 day before the 
+hearing unless the court permits them to be 
+served at a later time. 
+
+
+(e) Additional Time After Service by 
+Mail. Whenever a party has the right or is 
+required to do an act within a prescribed 
+period after the service of a notice or other 
+paper is served by mail, 3 days shall be added to 
+the prescribed period. 
+
+
+Rule 57, Fed. R. Crim. P., provides: 
+
+
+Rule 57. Rules by District Courts 
+
+
+Each district court by action of a ma- 
+jority of the judges thereof may from time to 
+time, after giving appropriate public notice and 
+an opportunity to comment, make and amend 
+rules governing its practice not inconsistent 
+with these rules. A local rule so adopted shall 
+take effect upon the date specified by the 
+district court and shall remain in effect unless 
+amended by the district court or abrogated by 
+the judicial council of the circuit in which the 
+district is located. Copies of the rules and 
+amendments so made by any district court 
+shall upon their promulgation be furnished to 
+the judicial council and the Administrative 
+Office of the United States Courts and be 
+made available to the public. In all cases not 
+provided for by rule, the district judges and 
+
+
+Sa 
+
+
+magistrate judges may regulate their practice 
+in any manner not inconsistent with these 
+rules or those of the district in which they act. 
+
+
