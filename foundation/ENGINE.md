@@ -15,6 +15,7 @@ Each source controls its assigned subject:
 - Earlier validated Canonical Decision Records from the current term supplement or change the term-opening baseline from their effective dates.
 - Validated Admitted Source Records establish controlling noncase-law changes and verified objective filings, docket changes, or institutional events from their effective dates.
 - The current replaceable Term Continuity Note is a faithful continuation projection of those records. It does not displace a Canonical Decision Record or Admitted Source Record if they conflict.
+- Expressly authorized reconstruction premises under Section 14 control only their stated procedural or factual assumptions. They are not recovered historical facts, verified Admitted Source Records, or Court actions; they supply no vote or holding.
 - Official and reliable public sources control historical facts, records, lower-court proceedings, filings, dates, term-effective rules, and historical comparators. After the divergence point, distinguish background fact from Supreme Court action: a verified filing, party act, lower-court event, administrative docket fact, or other nonadjudicative predicate may enter when compatible with the simulated timeline; a historical Supreme Court order, judgment, vote, or disposition does not become an in-world Court action merely because history contains it. Every post-divergence Supreme Court action must be simulated, expressly user-pinned, or otherwise authorized under this Engine.
 - This Engine controls chronology, adjudication, participation, coalition formation, opinion authority, the Canonical Decision Record, and coordinated term close.
 - The Turn Output instructions control presentation only. They may omit material from public display, but may not change legal or institutional substance.
@@ -64,6 +65,8 @@ Before the first adjudication, establish:
 5. the initial Full-Term Event Manifest.
 
 Before the first adjudication, the operator must supply a lightweight term-wide inventory of all cases and other Court actions then known or planned, even when later case briefs are not ready. The Full-Term Event Manifest must cover that inventory and every event reasonably apparent from the term materials. It does not require invention or prediction of an unknown filing or action. For each item, state the case or docket, event type, known or lawfully estimated date, same-day grouping, current stage, and material dependencies. Natural case and docket references are sufficient. Do not create opaque identifiers.
+
+Keep Section 14 reconstruction premises in separate preparation artifacts with explicit provenance. Carry adopted premises into authorized neutral handoffs and eventual Records as needed, without certifying them as historical Admitted Source Records. Preparation alone changes no adjudicative state.
 
 The manifest is a planning control, not a prediction that events will occur unchanged. It also schedules known effective noncase-law and institutional changes even though they are not Court events. Replace it when new materials add, remove, reschedule, or reclassify an item. A missing exact date may be carried as a bounded scheduling premise if the result does not depend on selecting a more precise date.
 
@@ -180,7 +183,7 @@ Prepare one Neutral Modeling Packet for each event, with issue-specific division
 6. every lawful decisional path materially supported by entering law, the record, or briefing, stated without attribution to Stone;
 7. date-eligible Justice-specific opinions and joins needed to assess the participating Justices;
 8. the term-effective rules and institutional facts required for the event; and
-9. a source map, material uncertainties, and research cutoff.
+9. a source map, material uncertainties, and research cutoff, including every adopted reconstruction premise, its authority and scope, and its distinction from recovered historical facts under Section 14.
 
 The packet excludes Stone's supplement, Stone-specific advocacy language, and the same matter's entire post-divergence historical Supreme Court disposition, including its reasoning, language, holdings, remedies, result, lineup, and petition treatment. It also excludes any document whose purpose is to reveal those materials. Earlier simulated law is not excluded merely because Stone participated in creating it. Such law appears through Holdings, Standards and Tests, or the sanitized public and legal fields in the Current-Term Neutral Projection, never through a raw Decision Record or ledger.
 
@@ -510,7 +513,7 @@ Do not update one tracker in isolation when the same event affects another. Gene
 
 Prefer opinions, orders, dockets, briefs, transcripts, official reporters, term-effective Court Rules and calendars, statutes, regulations, and other government sources. Use reliable scholarly or professional sources for context. Aggregators may assist discovery but should not be the sole support for a holding, quotation, lineup, or procedural rule.
 
-Consult merits briefs, records, and transcripts when scope, preservation, ground, remedy, or a Justice-specific position depends on them. Do not invent quotations, concessions, questions at argument, private dialogue, motives, draft exchanges, public reaction, lower-court resistance, or downstream events.
+Consult merits briefs, records, and transcripts when scope, preservation, ground, remedy, or a Justice-specific position depends on them. Do not invent quotations, concessions, questions at argument, private dialogue, motives, draft exchanges, public reaction, lower-court resistance, or downstream events. The bounded reconstruction authority below permits only its expressly identified assumptions and analytical work; it does not permit fabricated historical evidence or conduct outside that authority.
 
 Research is sufficient when every live decisional path and Justice-specific fork has authoritative support and further retrieval is not reasonably likely to alter judgment, rationale, scope, remedy, or participation. Escalate unresolved research just in time for the affected path or Justice; do not enlarge every packet merely because more material exists.
 
@@ -534,6 +537,29 @@ Tools check consistency; they do not decide legal meaning, predict votes, form c
 
 Research external follow-on events only when they are directly connected, date-eligible, material to a later supplied event or term continuity, and supported by reliable sources. Stop a historical chain when simulated law removes a necessary predicate. Record the research cutoff and any simulated scheduling assumption.
 
+### Incomplete and counterfactual records
+
+This standing reconstruction rule was expressly adopted by the user for future preparation, including pending events in an open term. It preserves every completed adjudication and frozen handoff; correction of a completed event still requires separate authorization and dependency review. The operator prepares the reconstruction without requiring the user to write nonexistent filings. Routine reconstruction within this rule needs no repeated approval; a material premise outside it requires a specific, reviewable choice.
+
+1. **Classify the gap before researching.** Distinguish an unavailable historical document, a follow-up event created only by a simulated order, and a historical event whose necessary predicate has been displaced. Search for the first when material; reconstruct the second only within this authority; do not import the third as though history were unchanged. Preserve prior search results and do not repeat failed searches without a useful new lead.
+
+2. **Require support for propositions, not possession of every original.** An authenticated opinion, order, or quotation may adequately establish a material historical fact when the original filing is unavailable. Record what the source actually establishes, any conflicting account, and whether a statement is a finding, allegation, or judicial characterization. Do not treat a historical conclusion such as “no substantial grounds” as an independently established underlying fact. Do not claim to have read an unrecovered document. If using a historical Supreme Court opinion for objective record facts, control performs source extraction and a fresh neutral context validates the sanitized facts; its outcome, reasoning, votes, and Stone material remain outside independent modeling.
+
+3. **Reconstruct only the minimum routine procedure.** A neutral continuation packet may expressly posit ordinary circulation or notice and a return for consideration under an already entered simulated order. Use relative sequencing when a precise clock time is unnecessary. Record these as simulation premises, never as recovered history. Do not presume a materially contested service event, timeliness, satisfaction of a deadline, expiration of protection, waiver, jurisdiction, or compliance that determines relief. A material timing choice belongs under paragraph 5. Preparation alone does not activate a clock in a completed Record or establish that a return actually occurred.
+
+4. **Develop arguments from the supported record without fabricating filings.** Set out the strongest available legal arguments for each side under effective simulated law. Label newly developed arguments as analytical possibilities, not assertions that a party actually filed or preserved them. Do not invent quotations, evidence, concessions, new claims, lower-court findings or reasons, counsel's strategic choices, or a response supplying unknown facts. Producing a hypothetical response cannot cure an unsupported merits premise.
+
+5. **Resolve a material gap explicitly.** Identify the exact proposition that remains unknown and how it could affect judgment, rationale, review scope, or remedy. First consider whether supported facts already permit a lawful resolution, or whether an authorized narrower question avoids the gap. Otherwise present the minimum proposed factual or procedural premise for express selection, with its consequences and limits. Do not demand a whole archive as the default next step. Conditional branches may explain the alternatives but are not an entered disposition. No assumption may be chosen merely to obtain a preferred coalition. A changed Stone core or condition still requires the approval specified by the Engine.
+
+6. **Keep research limits separate from litigant conduct.** An unavailable research source does not prove that a paper is absent from the Court's file, that a party withheld it, or that the party failed its burden. Do not issue or repeat an in-world production order solely to solve an operator's research gap. Any actual Court request for papers must have an independently supported judicial purpose and pass ordinary modeling and assembly.
+
+7. **Preserve the ordinary adjudication stages.** Freeze the neutral facts, labeled premises, supported alternatives, source limits, and chronology before independent Justice modeling. Historical reconciliation and Stone assembly remain separate. A materially changed premise requires fresh affected stages. Every subsequent Court action has its own dated Decision Record; an interim pause never supplies a final vote. Do not silently continue a reservation past its return point, extend a stay, presume execution, or close a pending application.
+
+8. **Preserve provenance and current state.** Retain reconstruction premises in a distinct preparation artifact and link them in the internal Record of any eventual decision. Never certify reconstructed events as verified historical Admitted Source Records. Carry any operative procedural premise into the authorized neutral handoff without private Stone or comparator content. Public projections state the resulting Court action and legally material limits; operator-facing provenance identifies what was reconstructed. Preparation changes no holding, entered order, ledger completion, or public Render by itself.
+
+
+For each affected event, retain a compact preparation receipt identifying the existing Court action and next event; gap type and supported historical propositions with sources; exact premises and their authority, distinguishing proposed from adopted; material unresolved propositions and consequences; applicable law and chronology; and readiness for modeling or the specific remaining choice.
+
 ## 15. Validation, failure handling, and style
 
 Before committing a Decision Record, verify:
@@ -542,7 +568,7 @@ Before committing a Decision Record, verify:
 - for merits and controlled specialized matters, Stone's latest approval, completeness, revalidation, fixed core, and express discretion boundary; for a petition-stage action, either the approved certiorari position under Sections 4 and 10 or the separately frozen neutral certiorari position and its provenance;
 - support in Stone's approved supplement or an expressly authorized exercise of discretion for every material proposition attributed to him in the Decision Record or public render, each judgment and remedy component, and every complete or partial join; no join may adopt an excluded proposition, and any position selected for public summary must preserve its operative qualifications; this check does not require a separate public account of Stone's position beyond the statement or explanation Section 10 requires on a covered application; for the default certiorari exception, verify against his separately frozen petition-stage position;
 - lawful channel, question scope, reachability, posture, relief, roster, participation at both milestones, quorum, vote arithmetic, assignment, and joins, plus each statement, explanation, and certification Section 10 requires on a covered application;
-- date-eligible support for material facts, each provisional commitment, and every historical departure, with no future-law or modern-procedure leakage;
+- date-eligible support for material facts, each provisional commitment, and every historical departure, with no future-law or modern-procedure leakage; any reconstruction premise must separately satisfy Section 14, have the required authority, preserve its source status, and not silently resolve an unsupported material fact;
 - the alternative-path test when triggered and a lawful basis for every material commitment change;
 - consistency among the judgment below, Court action, proposition-level coalition, holding, remedy, remand, and next stage, including valid issue-specific Marks treatment;
 - precise precedent treatment, independent treatment of doctrinal components, and no operative rule inferred from fact, dictum, party position, or noncontrolling writing; and

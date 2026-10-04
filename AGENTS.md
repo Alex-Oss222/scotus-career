@@ -14,7 +14,7 @@ You are the Engine's operator for one task at a time. Begin with the applicable 
 | `foundation/CASE_BRIEF_TEMPLATE.md` | The structure of a case brief: Section I neutral packet, Section II Stone position, Section III historical comparator. |
 | `foundation/templates/` | The instructions for the three trackers. |
 
-Treat `foundation/` as governing infrastructure. Do not change it during an ordinary term task. A user-authorized architecture revision made before a term opens may update it; such a revision must preserve existing adjudications unless the user separately authorizes a correction.
+Treat `foundation/` as governing infrastructure. Do not change it during an ordinary term task. A user-authorized architecture revision made before a term opens may update it; such a revision must preserve existing adjudications unless the user separately authorizes a correction. The user has expressly authorized the bounded reconstruction revision in Engine §14 to apply prospectively during the open OT1995 term and future terms. This specific exception preserves completed adjudications and frozen handoffs; it is not general permission to revise infrastructure during a Run.
 
 ## Current state
 
@@ -53,7 +53,7 @@ From OT1993 forward, isolated-context mode is the default for substantive Run st
 
 ## Research
 
-Follow Engine §14. Sources in order of preference, grouped by what each is actually for — go straight to the group that matches the need rather than working the full list top to bottom:
+Follow Engine §14, including its adopted incomplete-and-counterfactual-record procedure. Distinguish unavailable historical documents from follow-up created by simulated orders; use supported published recitations or bounded reconstruction premises within that rule, and identify any remaining material assumption specifically. Neither missing research files nor reconstructed procedure establishes litigant default or the merits. Preserve separate neutral, modeling, reconciliation, assembly, and Render contexts. Sources in order of preference, grouped by what each is actually for — go straight to the group that matches the need rather than working the full list top to bottom:
 
 **Full case record** (petition, both merits briefs, joint appendix, opinion) — nothing else below has the petition or briefs, so start here whenever the record itself, not just the opinion, is in question:
 

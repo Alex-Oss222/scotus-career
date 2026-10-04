@@ -1,6 +1,6 @@
 # Proposed standing rule for incomplete and counterfactual records
 
-Status: reviewable proposal, not an operative Engine amendment or a Court action. Drafted in response to the user's request for a workable method of continuing an alternate timeline without requiring unavailable or nonexistent documents. Ayers' separately approved premises remain effective for preparation. This proposal adds no Bowersox premise, vote, filing, service event, or disposition.
+Status: adopted by the user in the instruction “ok can we adjucdicate them and render please,” following the explicit request to adopt this rule for pending cases and future terms. Engine §14 now contains the operative rule; this file preserves the reviewed proposal and case applications. Adoption itself adds no Bowersox premise, vote, filing, service event, or disposition and changes no completed adjudication.
 
 ## Proposed authority and scope
 
@@ -45,4 +45,4 @@ For each affected event, record:
 
 ## Integration on adoption
 
-Add the proposed rule to Engine §14, with cross-references from §§1, 2, 5 and 15. Make its limited authority an express exception to the general prohibition on invented downstream events, while retaining that prohibition for conduct outside the rule. Update AGENTS.md to permit this expressly adopted prospective revision during the open term, preserve completed decisions, and direct preparation to use the rule. Reconcile the research and provenance instructions without relaxing the separation of modeling stages or the Render boundary. Until adoption, governing files remain unchanged.
+Add the proposed rule to Engine §14, with cross-references from §§1, 2, 5 and 15. Make its limited authority an express exception to the general prohibition on invented downstream events, while retaining that prohibition for conduct outside the rule. Update AGENTS.md to permit this expressly adopted prospective revision during the open term, preserve completed decisions, and direct preparation to use the rule. Reconcile the research and provenance instructions without relaxing the separation of modeling stages or the Render boundary. Integration completed on adoption; Engine §14 governs subsequent preparation.
