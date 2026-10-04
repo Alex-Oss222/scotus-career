@@ -4,9 +4,9 @@
 
 ## 1. Scope and Chronology Cursor
 
-**Posture:** The cumulative state contains **73 completed Court events and eight admitted noncase-law sources (81 canonical Records)**. The April 9 Bowersox interim order is followed by a separate final action granting Missouri's application, 5–4, and vacating the March 8 appellate stay with immediate effect. The Supreme Court application is closed. The underlying appeal and any other lawful restraints are not adjudicated; no substitute stay, fixed grace period, execution order, writ disposition or appeal dismissal is entered. Actual transmission, service, responses and elapsed interim clocks are not presumed. Thirteen chunk 5 Court events and all twelve chunk 4 actions are recorded. Ayers's March 25 library-only writ was dismissed as improvidently granted, 8–1; this Court's review ends while the Fifth Circuit appeal and the district court's remedial jurisdiction remain available. The dismissal changes no substantive desegregation rule and leaves every decree provision undisturbed without merits affirmance. The completed March 27 and April 1 groups retain their respective common March 26 and March 27 entering-law baselines. Jones’s financial-leave motion and certiorari petition remain pending; Wood remains an open plenary grant. Maine No. 35 and Louisiana No. 121 retain implementation jurisdiction, alongside the five inherited open matters. These are the nine previously identified continuing matters. Ayers is no longer an open Supreme Court matter; its pending lower-court appeal is preserved. Shieh’s separate certiorari petitions, Nos. 95-7587, 95-7588 and 95-7589, are also pending after their three individual financial motions were granted; they are not three additional completed Court events. Bowersox, No. A-828, is closed by the final April 9 application order; its underlying appeal and any other lawful restraints are not adjudicated. Latest completed chunk 6 Court group and current-law cutoff: Romer and BMW, May 20, 1996. All twelve chunk 6 Court events are complete. The latest admitted source remains PLRA sections 802–804, April 26, 1996. Next eligible manifest item: Henderson and Casarotto in chunk 7 on May 20, using the preserved common May 13 entering-law baseline rather than either May 20 peer decision. The eight admitted sources are the October 1, 1995 paternity amendment; Rule 57 effective December 1, 1995, with its qualified pending-case transition; Public Law 104-91 enacted January 6, 1996, with its covered period deemed to begin December 16, 1995; Telecommunications Act §§302 and 551 enacted February 8, 1996, within their actual conditions and transitions; OCC §7.4001(a)–(d) effective April 1, 1996, within its credit-charge, home-state and corporate-usury conditions; AEDPA Title I enacted April 24, 1996; and PLRA sections 802–804 enacted April 26, 1996. AEDPA and PLRA retain their provision-specific conditions and temporal limits and change no pending case stage by admission alone. Opening adjudicative cutoff: June 29, 1995.
+**Posture:** The cumulative state contains **75 completed Court events and eight admitted noncase-law sources (83 canonical Records)**. The April 9 Bowersox interim order is followed by a separate final action granting Missouri's application, 5–4, and vacating the March 8 appellate stay with immediate effect. The Supreme Court application is closed. The underlying appeal and any other lawful restraints are not adjudicated; no substitute stay, fixed grace period, execution order, writ disposition or appeal dismissal is entered. Actual transmission, service, responses and elapsed interim clocks are not presumed. Thirteen chunk 5 Court events and all twelve chunk 4 actions are recorded. Ayers's March 25 library-only writ was dismissed as improvidently granted, 8–1; this Court's review ends while the Fifth Circuit appeal and the district court's remedial jurisdiction remain available. The dismissal changes no substantive desegregation rule and leaves every decree provision undisturbed without merits affirmance. The completed March 27 and April 1 groups retain their respective common March 26 and March 27 entering-law baselines. Jones’s financial-leave motion and certiorari petition remain pending; Wood remains an open plenary grant. Maine No. 35 and Louisiana No. 121 retain implementation jurisdiction, alongside the five inherited open matters. These are the nine previously identified continuing matters. Ayers is no longer an open Supreme Court matter; its pending lower-court appeal is preserved. Shieh’s separate certiorari petitions, Nos. 95-7587, 95-7588 and 95-7589, are also pending after their three individual financial motions were granted; they are not three additional completed Court events. Bowersox, No. A-828, is closed by the final April 9 application order; its underlying appeal and any other lawful restraints are not adjudicated. Latest completed Court group and current-law cutoff: Romer, BMW, Henderson and Casarotto, May 20, 1996. All twelve chunk 6 Court events are complete. The latest admitted source remains PLRA sections 802–804, April 26, 1996. Next eligible manifest item: Pinder in chunk 7 on May 21, using the complete May 20 public-law state; Ornelas follows on May 28. The eight admitted sources are the October 1, 1995 paternity amendment; Rule 57 effective December 1, 1995, with its qualified pending-case transition; Public Law 104-91 enacted January 6, 1996, with its covered period deemed to begin December 16, 1995; Telecommunications Act §§302 and 551 enacted February 8, 1996, within their actual conditions and transitions; OCC §7.4001(a)–(d) effective April 1, 1996, within its credit-charge, home-state and corporate-usury conditions; AEDPA Title I enacted April 24, 1996; and PLRA sections 802–804 enacted April 26, 1996. AEDPA and PLRA retain their provision-specific conditions and temporal limits and change no pending case stage by admission alone. Opening adjudicative cutoff: June 29, 1995.
 
-OCC §7.4001(a)–(d) is additionally admitted at its April 1, 1996 effective date after the bounded insertion review found no material effect on the 17 completed April 1–May 20 Court events. This eighth source changes no completed Court Record or pending stage. February 9 publication is distinct from April 1 effectiveness; no special retroactivity or earlier-case application is adjudicated. The current Court-event cursor remains the completed Romer/BMW May 20 group, and Henderson/Casarotto retain their common May 13 entering law without a same-day peer dependency. [Insertion review](../freeze/OT_1995CHUNK7_OCC_INSERTION_REVIEW.md).
+OCC §7.4001(a)–(d) is additionally admitted at its April 1, 1996 effective date after the bounded insertion review found no material effect on the 17 completed April 1–May 20 Court events. This eighth source changes no completed Court Record or pending stage. February 9 publication is distinct from April 1 effectiveness; no special retroactivity or earlier-case application is adjudicated. The current Court-event cursor is the complete Romer/BMW/Henderson/Casarotto May 20 group; all four retain their common May 13 entering law without a same-day peer dependency. [Insertion review](../freeze/OT_1995CHUNK7_OCC_INSERTION_REVIEW.md).
 
 The opening trackers are the synchronized **October 1, 2026 edition**: **Last completed October Term: 1994**; **Processed through: June 29, 1995, after all 99 OT1994 inventory Court events and the two admitted source events.** The divergence point is October 7, 1991.
 
@@ -219,6 +219,20 @@ The permanent injunction against enforcement of Amendment 2 remains effective in
 Alabama must provide a lawful punitive disposition consistent with the substantive constitutional ruling. It determines in the first instance whether a new punitive trial or an independent appellate redetermination is appropriate. The Court sets no replacement sum, mandatory remittitur figure or constitutional ratio. Merely adding explanation for the same $2 million on the same record would not cure the holding that this amount is grossly excessive.
 
 The $4,000 compensation, underlying suppression liability, entitlement to some lawful punitive award and BMW AG's separate dismissal remain undisturbed. The original $4 million is not restored. No nationwide recovery, adjudication of other purchasers' claims or ruling on multiple punitive awards for the same conduct is entered. Stone-Zsela's affirmative answer concerning Alabama's correction and his partial territorial join do not constitute a separate Court judgment affirming the punitive award.
+
+### May 20, 1996 — Henderson
+
+[Record](../records/Henderson_v_United_States_merits_1996-05-20.md). The Fifth Circuit's judgment affirming dismissal under §742's forthwith-service direction is reversed, and the case is remanded.
+
+The case returns through the Fifth Circuit for ordinary further proceedings consistent with Parts I–III. The displaced statutory timetable cannot again sustain dismissal. Any genuine Rule 4 question must meet its own authority, preservation and procedural conditions, with the 1993 transition applied if material. No new good-cause hearing, favorable extension decision or immediate merits trial is ordered. Supreme Court merits review is complete, subject to ordinary mandate procedures; no later Supreme Court event is prescribed.
+
+### May 20, 1996 — Casarotto
+
+[Record](../records/Doctors_Associates_Inc_v_Casarotto_merits_1996-05-20.md). The Montana Supreme Court's judgment sustaining the arbitration-specific notice bar is reversed, and the case is remanded.
+
+The case returns to the Montana courts for further proceedings consistent with Parts II–III. The notice condition cannot again sustain denial of the existing stay. Its restoration remains subject to genuinely available, preserved independent grounds and actual contractual rights; no new commerce inquiry, mandatory defense hearing, reopened waiver or arbitration of all claims and parties is ordered. Supreme Court merits review is complete, subject to ordinary mandate procedures; no later Supreme Court event is prescribed.
+
+The May 20 group is complete: Romer, BMW, Henderson and Casarotto. All four used the common May 13 entering-law baseline, with no same-day peer influence; the April 1 OCC source retains its independent effective date and qualifications. The first two chunk 7 Court events are complete. Pinder on May 21 is the next eligible matter, using the full effective May 20 public law; Ornelas follows on May 28 after any effective intervening Court action. No earlier open matter changes stage, no source is newly admitted by these decisions, and the eight admitted sources retain all existing conditions and temporal limits.
 
 ## 3. Current Law
 
@@ -2107,6 +2121,203 @@ The qualified territorial rule has six votes. It excludes punishment of conduct 
 
 Meaningful amount review remains required. The existence of process does not immunize every result, and this result does not establish absence of process. Compensation, punitive entitlement, BMW AG's dismissal, the validity of every form of judicial alteration and questions of repeated punishment for the same conduct remain within the limits stated above. No new general corporate-rights catalogue is adopted.
 
+### Henderson — May 20, 1996 current law
+
+Exact public text from [the bounded public source](../entering-law/PUBLIC_Henderson_v_United_States_merits_1996-05-20.md).
+
+**Event.**
+
+Henderson v. United States, 517 U.S. 654, No. 95-232. Argued March 19, 1996; decided May 20, 1996; October Term 1995. On certiorari under 28 U.S.C. §1254(1) to the Fifth Circuit, 51 F.3d 574, which affirmed dismissal without prejudice under the Suits in Admiralty Act's forthwith-service direction. The questions concern whether Rule 4 displaces that timetable and, alternatively, whether its statutory period may be extended.
+
+Henderson filed April 8, 1993, after administrative disallowance, alleging injury on or about August 27, 1991 aboard the United States-owned DELMONTE. His negligence, unseaworthiness, maintenance, cure and damages claims remain unadjudicated. The Attorney General received the mailed papers May 25, day 47. The original 120-day period expired August 6. The district court signed a fifteen-day service extension August 31, filed September 1, and the United States Attorney was served September 3, day 148. The order contains no express finding of good cause, diligence or clerk fault. Counsel's account of problems with forms, seals and mail and the Government's challenge to his diligence remain opposed submissions.
+
+The Government sought dismissal under §742, without a distinct Rule 4 dismissal ground, and described service as properly effected September 3. The district court ultimately dismissed under Rule 12(b)(1) in June 1994. The Fifth Circuit treated forthwith service as a jurisdictional consent condition applying to both recipients and held 148 days insufficient even assuming good cause and a reasonable-time construction. It did not decide whether day-47 receipt independently satisfied the statute. Dismissal without prejudice did not establish that a new suit would be timely.
+
+**Participation.**
+
+Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at argument and decision. No Justice is recused or otherwise nonparticipating.
+
+**Public Action.**
+
+The Fifth Circuit's judgment affirming dismissal under §742's forthwith-service direction is reversed, and the case is remanded.
+
+**Judgment & Remedy.**
+
+**Judgment:** Reversed and remanded, 7–2. **Supporting:** Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Ginsburg and Breyer. **Opposing:** O'Connor and Thomas would affirm dismissal under the surviving statutory service condition.
+
+The action was timely commenced by filing. Neither the day-148 service nor day-47 receipt can sustain dismissal under the displaced statutory timetable. Further proceedings must apply the Federal Rules to any genuinely available service issue and to the injury claims. The Court does not decide that the existing extension was valid, compel a new good-cause hearing, create a new service objection, or direct immediate trial or relief on the merits.
+
+**Opinion Topology.**
+
+Justice Scalia delivers the Opinion of the Court, Parts I–III, joined throughout by Chief Justice Stone-Zsela and Justices Stevens, Kennedy, Souter, Ginsburg and Breyer. Those seven directly adopt each controlling proposition and explanation below. Justice Thomas dissents, joined throughout by Justice O'Connor. There is no partial join, judgment-only concurrence or fractured controlling rationale.
+
+**Holdings.**
+
+### I. The forthwith-service direction implements the existing waiver
+
+**Controlling proposition:** Section 742's direction to serve the filed complaint forthwith regulates procedure in an already authorized Suits in Admiralty Act action; it does not independently condition this waiver or remove subject-matter jurisdiction. Congress can make a procedural requirement a jurisdictional condition of consent, but the placement, function and surrounding provisions establish that it did not do so with this timetable.
+
+**Authority:** Part I of Scalia's Opinion of the Court; the seven Justices identified in Opinion Topology join.
+
+**Controlling explanation:** Section 742 first authorizes the specified nonjury in-personam admiralty proceeding. Its later sentences direct delivery to the United States Attorney, registered mailing to the Attorney General and a sworn return. Those steps bring notice of the filed action to the designated recipients. Consent, venue, service and transfer have separate functions within the same section; proximity to the waiver does not make every direction jurisdictional.
+
+Section 743's instruction to follow principles and practice applicable between private parties reinforces this procedural reading. It does not erase that section's separate prescriptions concerning costs, interest, admiralty review, in-rem principles or government security. Nor does the procedural subject alone settle the question: Congress remains free to attach jurisdictional consequences to procedure. The Court interprets the particular scheme, rather than announces a categorical immunity exception.
+
+The Government's strongest argument is that §742 states the service command separately from §743's general practice provision and therefore specially conditions consent. That structure gives the service directions work without turning their timetable into a substantive waiver limit. Nordic Village requires clear consent to the particular monetary remedy and distinguishes consent from general jurisdiction; no new monetary remedy is supplied here. McNeil enforces an actual prefiling exhaustion sequence, and Keene a filing-time jurisdictional bar. Neither determines this postfiling direction's function. Carlisle likewise shows why a procedural restriction and subject-matter jurisdiction must be distinguished, without classifying every procedural provision alike.
+
+The two-year commencement limit and substantive boundaries of consent remain intact. Whether this service timetable survives as a nonjurisdictional command is a separate question answered in Part II.
+
+### II. The later Rule 4 scheme displaces the competing statutory timetable
+
+**Controlling proposition:** In this timely commenced domestic SAA action, the applicable Rule 4 timing scheme, including its authorized enlargement, governs service; §742 cannot independently require dismissal for failure to serve sooner. Congress's direct enactment of former Rule 4(j) displaces the incompatible procedural timetable without enlarging substantive consent or dispensing with the designated-recipient requirements.
+
+**Authority:** Part II of the same seven-Justice Opinion of the Court.
+
+**Controlling explanation:** Congress enacted former Rule 4(j) in Pub. L. 97-462. It required dismissal without prejudice when service was not made within 120 days and good cause was not shown, on motion or on the court's initiative after notice; foreign service under former subdivision (i) was excepted. This extendable timing scheme governs the same postfiling service event as §742.
+
+The Government argues that prompt service can satisfy both texts and that a general outer deadline does not repeal a special command. But physical compliance is not the whole inquiry. Retaining a separately fatal, shorter timetable would deny the very service allowance and authorized enlargement the later scheme supplies. Former Rule 4(a)'s prompt-service responsibility does not create that independent statutory dismissal condition; the holding nevertheless grants no permission deliberately to disregard service responsibilities.
+
+Section 2072 authorizes procedural regulation, protects substantive rights and expresses the treatment of conflicting procedural laws. That framework supports this construction, but its clause concerning rules prescribed under the Act does not directly nullify earlier law through a rule Congress itself enacted. The operative route here is the later congressional enactment, construed with the specific conflict established above. The Court does not adopt a second independently sufficient Court-promulgation ground. Rule 82 is respected because neither substantive consent nor jurisdiction is enlarged.
+
+Hanna and Mississippi Publishing Corp. v. Murphree support treating service mechanisms as procedure; they do not replace the conflict inquiry. Walker and Ragan preserve a state-created right's distinct state-law commencement condition: Rule 3's filing provision did not address that different limitations question. Here both rival provisions regulate the same service event. Section 743 reinforces the limited displacement without erasing other special SAA provisions.
+
+The holding concerns timing, not every service statute, all government/private procedural differences or an unpresented registered-versus-certified-mail dispute. The 1993 amendment's qualified pending-case application remains governed by Part III.
+
+### III. The remand removes the statutory dismissal without deciding a new service dispute
+
+**Controlling proposition:** The statutory dismissal must be reversed as to both designated recipients, and ordinary further proceedings must apply the governing Federal Rules to any properly presented issue. The decision neither validates the existing extension nor orders a new service hearing; any necessary application of amended Rule 4 must honor its express pending-case qualification.
+
+**Authority:** Part III of the same seven-Justice Opinion of the Court.
+
+**Controlling explanation:** September 3 was outside the original 120 days but within the district court's fifteen-day direction. No distinct Rule 4 defect supplied the dismissal under review. The absence of express good-cause findings does not itself invalidate the order or require renewed factfinding. Any genuinely available later objection remains subject to its own authority, preservation and procedural conditions. Neither recipient's timing can sustain the displaced §742 ground; the Court need not decide whether either service was forthwith.
+
+Former Rule 4(j) governed the April–September 1993 acts. The April 22, 1993 order made amended Rule 4 effective December 1 for new cases and, insofar as just and practicable, proceedings in then-pending cases. If a properly presented issue concerning the 1994 dismissal or further proceedings requires choosing the applicable Rule, that direction controls. The Court does not automatically relabel the 1993 order or hold that amended Rule 4(m) necessarily supplies relief.
+
+Under Rule 4(m), after notice, the court must dismiss without prejudice or direct service within a specified time when service exceeds 120 days; good cause requires an appropriate extension. Without good cause, enlargement is permitted, not compelled. Foreign service under subdivisions (f) and (j)(1) is excepted. A limitations bar may support discretion but does not require relief. Pioneer preserves flexibility actually authorized by a governing rule, not an SAA tolling power. Landgraf requires attention to express temporal direction and does not automatically reopen completed acts.
+
+The district-court Rule 12 waiver contention supplies no independently sufficient reversal ground: the transfer motion's legal effect and appellate preservation are not established. No new waiver ruling, negligence finding, maintenance or cure award, damages judgment, immediate trial entitlement or separate due-process decision follows. Section 745's two-year limit and its narrowly dated 1950 savings provision create no general new refiling opportunity.
+
+**Precedent Treatment.**
+
+- United States v. Nordic Village, Inc., 503 U.S. 30: preserves clear consent to the actual monetary remedy and the distinction between consent and jurisdiction; its original §106(c) construction does not classify this service timetable.
+- McNeil v. United States, 508 U.S. 106: distinguishes its prefiling administrative-exhaustion requirement; that statutory sequence and its express alternatives and exceptions remain unchanged.
+- Keene Corp. v. United States, 508 U.S. 200: distinguishes the particular filing-time bar; later service in this action presents a different operative event.
+- Carlisle v. United States, April 29, 1996: applies its distinction between procedural authority and subject-matter jurisdiction while preserving rule-consistent discretion, express transition limits and independently supported avenues of relief.
+- Hanna v. Plumer, 380 U.S. 460: applies its recognition of federal service procedure; actual conflict and lawful authority remain necessary.
+- Mississippi Publishing Corp. v. Murphree, 326 U.S. 438: applies the procedural character of service implementing an existing right without using procedure to enlarge substantive rights or jurisdiction.
+- Walker v. Armco Steel Corp., 446 U.S. 740: distinguishes the state limitations/commencement issue from two provisions governing the same federal postfiling service event.
+- Ragan v. Merchants Transfer & Warehouse Co., 337 U.S. 530: preserves the state-law commencement condition for the state-created right; Rule 3 is not a universal displacement of such conditions.
+- Pioneer Investment Services Co. v. Brunswick Associates Limited Partnership, 507 U.S. 380: preserves rule-specific enlargement authority and its limits; it supplies neither the former Rule 4 good-cause test nor a general extension of SAA conditions.
+- Landgraf v. USI Film Products, 511 U.S. 244: applies respect for express temporal direction; neither a pending case nor procedural characterization automatically reopens completed acts.
+
+No Supreme Court precedent is overruled. The Fifth Circuit's contrary premise that this forthwith-service timetable remains a jurisdictional condition enforceable independently of Rule 4 is rejected.
+
+**Law After Decision.**
+
+Effective May 20, 1996, §742's competing forthwith timetable cannot defeat service allowed by the governing Rule 4 scheme in a timely commenced domestic SAA action. This particular procedural direction does not define substantive consent. Congress retains power to impose jurisdictional procedural conditions, and only a lawful superseding source can displace an enacted command.
+
+The designated-recipient requirements, §745's two-year commencement period, substantive waiver limits and the need to comply with the applicable Rules remain. The Court does not decide the extension's validity, every possible service issue, the Clarification Act/PVA classification, maritime liability or relief. It does not extend a surviving statutory deadline or create a general refiling period. Further use of amended Rule 4 remains subject to the express just-and-practicable transition and the distinction between permitted and mandatory enlargement.
+
+### Casarotto — May 20, 1996 current law
+
+Exact public text from [the bounded public source](../entering-law/PUBLIC_Doctors_Associates_Inc_v_Casarotto_merits_1996-05-20.md).
+
+**Event.**
+
+Doctor's Associates, Inc. v. Casarotto, 517 U.S. 681, No. 95-559. Argued April 16, 1996; decided May 20, 1996; October Term 1995. On certiorari under 28 U.S.C. §1257(a) to the Montana Supreme Court, 274 Mont. 3, 901 P.2d 596, reviewing its August 31, 1995 judgment sustaining a statutory notice bar to arbitration. The question presented is whether FAA §2 preempts the arbitration-specific first-page notice condition.
+
+Paul Casarotto signed DAI's April 25, 1988 franchise agreement. Paragraph 10(c), on page nine, requires arbitration of controversies arising out of or relating to the contract or its breach under AAA Commercial Arbitration Rules in Bridgeport, Connecticut; commencement of arbitration is a condition precedent to legal action, and costs are shared equally. The agreement selects Connecticut law, provides severability and acknowledges reading, understanding and consent. Its integration clause preserves representations in the agreement, offering circular and franchisor advertising. The offering circular disclosed arbitration; the agreement has no first-page arbitration notice. Paul's affidavit describes a nonnegotiable contract, absent explanation and lack of understanding of the lost Montana forum. That affidavit and the signed acknowledgment are evidence, not findings of informed assent or ignorance.
+
+The district court found actual interstate commerce, clause coverage of claims against DAI and its alleged agent Lombardi, and an arbitration demand. It stayed those claims June 2, 1993, invoking FAA §3, and later certified its order under state Rule 54(b). The Montana majority rejected the stay because §27-5-114(4) requires notice that a contract is subject to arbitration pursuant to the chapter, typed in underlined capital letters on its first page, with nonenforcement absent that notice. It selected Montana law under conflicts principles and relied on Volt, reasoning that informed consent advances arbitration. It announced no independently sufficient general contract-defense ruling.
+
+The statutory dispute concerns subsection (4). Subsection (2) separately excludes personal-injury claims, contracts for an individual's acquisition of property, services, money or credit with total consideration of $5,000 or less, insurance or annuity agreements except contracts between insurance companies, and workers' compensation claims. Its express subsection (3) qualification concerns written agreements among trade or professional organization members to arbitrate future disputes among members. Those are not exceptions written into subsection (4), and their validity or application is not decided here.
+
+**Participation.**
+
+Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at argument and decision. No Justice is recused or otherwise nonparticipating.
+
+**Public Action.**
+
+The Montana Supreme Court's judgment sustaining the arbitration-specific notice bar is reversed, and the case is remanded.
+
+**Judgment & Remedy.**
+
+**Judgment:** Reversed and remanded, 8–1. **Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer. **Opposing:** Thomas would affirm because, in his view, the FAA does not command enforcement in state court.
+
+The state courts must resolve the stay request without the preempted notice condition. Existing commerce, clause-scope and demand determinations remain undisturbed. If no genuinely available, properly preserved independent ground defeats the stay, the rejected notice objection cannot prevent its restoration. The Court does not unconditionally reinstate the stay, direct arbitration of all persons and claims, revive waived defenses or order a new hearing.
+
+**Opinion Topology.**
+
+| Writing | Author | Joins | Scope |
+|---|---|---|---|
+| Opinion of the Court, Part I | Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | All nine adopt reviewability. |
+| Opinion of the Court, Parts II–III | Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg | Eight adopt notice preemption, its contractual limits and reversal/remand. |
+| Dissent from the merits judgment | Thomas | No other Justice | Joins Part I; rejects the state-court FAA premise and would affirm. |
+
+**Holdings.**
+
+### I. The finally decided federal notice bar is reviewable
+
+**Controlling proposition:** Section 1257(a) permits review of Montana's finally resolved federal notice-preemption question despite continuing merits proceedings, because Southland/Cox finality applies and no independently sufficient lower contract-defense ground is established. State Rule 54(b) certification alone does not establish federal finality, and this conclusion creates no universal right to review interlocutory arbitration orders.
+
+**Authority:** Part I of Breyer's Opinion of the Court; all nine participating Justices join.
+
+**Controlling explanation:** Southland applied Cox Broadcasting to a state judgment finally rejecting arbitration despite further litigation below. Delaying review risks both losing later review if the arbitration proponent prevails on nonfederal grounds and eroding the claimed federal forum right through the very litigation arbitration would avoid. Here the State conclusively sustained the notice bar; reversal removes that adjudicated obstacle to the existing stay request.
+
+Neither Rule 54(b) nor the existence of unadjudicated damages claims supplies the answer by itself. A genuinely sufficient independent ground defeating arbitration would require its own finality analysis, but no such lower ground is established. Possible defenses are not adjudicated defenses. Montana's conflicts ruling selects the notice rule whose federal validity is challenged; it does not independently sustain that rule against federal law. The Court therefore need not resolve a separate state-law conflicts challenge to reach preemption.
+
+Southland's earlier appeal route under former §1257(2) is not the present jurisdictional provision. Its finality reasoning applies to this §1257(a) certiorari review. Thomas's disagreement about §2's substantive reach does not remove jurisdiction to decide that federal question.
+
+### II. Section 2 forbids this arbitration-only notice condition
+
+**Controlling proposition:** For this agreement covered by FAA §2, Montana may not deny arbitration because notice was not typed in underlined capital letters on the contract's first page as §27-5-114(4) requires; generally applicable formation and revocation rules remain available. Volt protects actual contractual selection of state arbitration procedure, not this imposed condition invalidating the clause, and no selection of Montana's condition is established.
+
+**Authority:** Part II of Breyer's Opinion of the Court; the eight Justices identified for Parts II–III in Opinion Topology join.
+
+**Controlling explanation:** Section 2 makes covered written arbitration agreements valid, irrevocable and enforceable, subject to grounds at law or equity for revoking any contract. Allied-Bruce retained Southland's application in state courts and actual-commerce coverage. The district's commerce finding stands; no new coverage hearing or outer constitutional ruling is needed. Retained statutory precedent governs despite the dissent's original-construction objection.
+
+Perry preserves ordinary contract law while rejecting disabilities keyed specifically to arbitration. Montana's condition attaches its required typography, placement and nonenforcement consequence because the contract selects arbitration. Allowing enforcement after compliance does not make that additional condition a ground for revoking any contract.
+
+Respondents invoke informed consent, adhesion, reasonable expectations and Restatement §211. Those concerns can support genuinely applicable contract doctrines; they do not transform this categorical special condition into general law. Modest compliance cost, physical compatibility with federal law and a consent-protective purpose do not answer §2's saving-clause limit. No subjective hostility finding is required.
+
+Volt enforced an actual selection of state arbitration procedure. This agreement selects Connecticut law and AAA arbitration in Bridgeport, not Montana's first-page condition. Mastrobuono requires attention to the integrated agreement and genuine contractual restrictions. Neither decision shields an imposed invalidity rule or requires deciding every Connecticut-law or conflicts question. The lower dissent's construction of the statute's “pursuant to this chapter” language is not an independent ground adopted here.
+
+The Montana majority announced no independently sufficient reasonable-expectations, fraud or unconscionability holding. A properly available general defense survives; arbitration's uniqueness cannot itself become an unconscionability rule under another label. Respondents' asserted Chor actual-knowledge exception is not established: its majority addressed a common-law defense on its evidence, not an express exception to this statute. Paul's affidavit and acknowledgment supply no new finding of knowledge, ignorance or invalidity. No general conspicuousness requirement or broader disclosure rule is adjudicated. The conclusion follows the enacted equal-footing command, not a free-standing preference for arbitration.
+
+### III. Ordinary remand preserves actual contractual and party limits
+
+**Controlling proposition:** The stay request must be resolved without the notice bar, subject to genuinely available, properly preserved independent grounds and the actual parties' contractual rights. This reversal leaves existing commerce, clause-scope and demand determinations intact and requires neither unconditional compulsion nor a new evidentiary proceeding.
+
+**Authority:** Part III of the same eight-Justice Opinion of the Court.
+
+**Controlling explanation:** Petitioners request immediate reinstatement of the stay, but invalidating the notice condition does not decide every distinct enforcement predicate. Paul signed; the record does not resolve Pamela's entire position. Lombardi's alleged agency is not an actual agency finding, and his contested nonsignatory enforcement right is not independently decided. Existing scope findings are preserved without expansion into every enforcement theory. Claims against the Hudson defendants and D&D Subway remain outside this stay and appeal.
+
+First Options requires courts independently to determine whether a party agreed to arbitrate arbitrability. Only clear and unmistakable delegation established under ordinary contract law permits arbitrators to decide the underlying arbitrability question; one party's assent supplies no other person's assent to that delegation. The broad clause and AAA reference establish no adjudicated delegation here, and independent nonsignatory theories remain unresolved. Ordinary appellate review of legal questions and factual findings remains independent and for clear error, respectively. No new conditional award-review holding is made.
+
+The lower majority relied on the notice statute. The parties dispute whether an ordinary adhesion defense remains preserved; neither abandonment nor a successful defense is found. General formation, fraud, duress, unconscionability, lack of assent and other evenhanded defenses retain their own requirements. The remand creates no defense, revives none already waived and orders no hearing simply because a defense is conceivable.
+
+The district's invocation of §3 does not import §§3–4 wholesale into state courts. Section 3 addresses courts of the United States and requires a written agreement, a referable issue, the court's satisfaction, a party's application, arbitration according to the agreement and no applicant default in proceeding. Those conditions remain distinct if invoked; no default or mandatory default inquiry is established. The state courts must implement §2 through lawful procedure.
+
+The agreement's forum, cost, severability and integration terms are not rewritten or independently upheld against every defense. No liability, damages, actual arbitral expenses, award or constitutional jury-waiver rule is decided. Absent an available preserved independent ground, the notice objection cannot prevent restoration of the existing stay.
+
+**Precedent Treatment.**
+
+- Southland Corp. v. Keating, 465 U.S. 1: applies its finality reasoning at pages 6–8 and its retained substantive state-court §2 rule; its former appellate subsection is not the current review channel.
+- Cox Broadcasting Corp. v. Cohn, 420 U.S. 469: applies the finality doctrine for this conclusively resolved federal obstacle despite further merits proceedings; no general interlocutory-review rule follows.
+- Perry v. Thomas, 482 U.S. 483: applies equal enforcement while preserving grounds applicable to contracts generally; an arbitration-specific disability is not saved by a general consent label.
+- Allied-Bruce Terminix Cos. v. Dobson, January 18, 1995: applies retained state-court coverage and actual commerce, preserving ordinary defenses, assent, scope and the reservation of wholesale §§3–4 incorporation.
+- Volt Information Sciences, Inc. v. Board of Trustees, 489 U.S. 468: preserves actual contractual selection of state arbitration procedure; distinguishes invalidation by an unselected forum notice rule.
+- Mastrobuono v. Shearson Lehman Hutton, Inc., March 6, 1995: applies attention to the actual integrated agreement and genuine contractual restrictions, without resolving every conflicts question.
+- First Options of Chicago, Inc. v. Kaplan, May 22, 1995: preserves antecedent assent, actual clear-and-unmistakable delegation, ordinary legal/factual review and unresolved nonsignatory theories. Its conditional review rule remains governing in its own setting; no delegation or new award-review question is decided here.
+
+No precedent is overruled. Thomas's proposed rejection of Southland's state-court construction does not alter its controlling force.
+
+**Law After Decision.**
+
+Effective May 20, 1996, Montana's §27-5-114(4) cannot defeat an FAA-covered arbitration agreement for lack of the prescribed first-page notice. The decision applies §2's state-court command and adds its application to this special formality; it does not invalidate all of §27-5-114 or decide its separate exclusions.
+
+Facially neutral, generally applicable contract law remains effective; merely affecting arbitration does not displace it. Ordinary formation, scope, fraud, duress, unconscionability, lack of assent and other defenses retain their genuine evenhanded operation and preservation requirements. Arbitration's special character cannot itself supply a disguised invalidity rule. Existing actual-commerce coverage stands, while the outer Commerce Clause boundary and wholesale state incorporation of §§3–4 remain unaddressed. The decision creates no unconditional enforcement entitlement against every person or claim.
+
 ## 4. Material Published Noncontrolling Positions
 
 
@@ -2762,6 +2973,24 @@ His conclusion neither makes punitive damages unreviewable nor authorizes punish
 
 Authority: [public decision](../entering-law/PUBLIC_BMW_of_North_America_Inc_v_Gore_merits_1996-05-20.md).
 
+### Henderson — published noncontrolling positions, May 20
+
+[Public source](../entering-law/PUBLIC_Henderson_v_United_States_merits_1996-05-20.md).
+
+Justice Thomas, joined by Justice O'Connor, would affirm. Congress may make a procedural requirement a condition of sovereign consent, and the dissent reads §742's particular service command separately from §743's general private-party practice instruction as doing so here. Sherwood, Block and Nordic Village require respect for the actual scope of consent; this is not a contention that every sentence in a waiver statute is jurisdictional. Meyer's broad agency clause and Carlisle's criminal procedural mechanism do not determine the SAA's differently structured waiver.
+
+A judicial rule cannot enlarge that consent under §2072(b) and Rule 82. Congress itself enacted former Rule 4(j) and had power to change the waiver, but its general dismissal timetable does not sufficiently establish repeal of the retained special condition. Prompt service can satisfy both, and general authorized enlargement need not displace the special statute. The 1993 transition supplies no independent substantive enlargement.
+
+Service on the United States Attorney after 148 days fails the surviving requirement even under a reasonable-dispatch reading and assuming good cause. The Rule 4 extension does not extend that separate condition. No universal number of days, adverse diligence finding or conclusion about day-47 Attorney General receipt is required. Pioneer and the American Pipe/McCormick analogy do not establish general authority to extend this consent condition. The dissent neither creates a new Rule 4 defect nor decides injury merits, separate due process or a right to timely refiling. The unestablished Rule 12 waiver route does not supply an alternative reversal of the jurisdictional condition. These propositions are noncontrolling.
+
+### Casarotto — published noncontrolling positions, May 20
+
+[Public source](../entering-law/PUBLIC_Doctors_Associates_Inc_v_Casarotto_merits_1996-05-20.md).
+
+Justice Thomas joins Part I and dissents from the merits judgment. He reads the FAA's structure and its federal-court judicial directions as failing to create §2's substantive command to state tribunals. He would overrule Southland to that extent and affirm the Montana judgment on federal nonapplication, maintaining the ground stated in his Allied-Bruce dissent. Statutory stare decisis and reliance do not, in his view, cure that original construction error.
+
+His participation in federal arbitration cases concerning assent or other statutes does not adopt Southland's state-court rule. The dissent does not conditionally uphold the notice law under a state-applicable §2, find a successful general contract defense, decide commerce coverage, announce an independently sufficient §§3–4 specific-performance rule or restrict Congress's constitutional power to enact a different command. It supplies no liability, damages or party-wide arbitration judgment. These proposed changes are noncontrolling.
+
 ## 5. Current Procedure and Institution
 
 **Opinion-assignment continuity through April 9, 1996:** There are 50 named Chief assignments: O’Connor 15, Souter 10, Ginsburg 8, Thomas 5, Kennedy 5, Stone-Zsela 2, Stevens 4, Scalia 1, Breyer 0. The Chief assigns the common reservation and examination component to Kennedy; Stevens assigns the separable eight-Associate components to the same Justice. The coordinated opinion counts once as named Chief assignment 50, Kennedy’s fifth. Unattributed per curiam opinions are not allocated by inference. A coordinated opinion counts once when the Chief assigned any part; Love, Bishop/Stokes and corrected Hale retain that treatment, and the replaced Hale assignment adds no event. The final Bowersox Court opinion is O'Connor's required Circuit Justice explanation and adds no Chief assignment. The March 25 Ayers opinion was assigned by senior Associate Justice Stevens and adds no Chief assignment; the effective earlier entering count remains separate from this current total. The prior term’s 93 named Chief assignments had no recipient above half, so the consecutive-term concentration restriction remains inactive. The [opening assignment baseline](../freeze/OT_1995CHUNK4_ASSIGNMENT_BASELINE.md) and each current canonical assignment statement preserve the precise per-event authority; named assignment chronology does not alter same-day entering law.
@@ -2963,7 +3192,7 @@ The case returns for further proceedings on the WARN claim consistent with the s
 
 Brown Group is Chief assignment 57 to Souter, his twelfth; Noland is Chief assignment 58 to Thomas, his sixth; Armstrong is Chief assignment 59 to O’Connor, her seventeenth; 44 Liquormart is Chief assignment 60 to Kennedy, his seventh. Named Chief-assignment totals after the May 13 group were O’Connor 17, Souter 12, Ginsburg 9, Kennedy 7, Thomas 6, Stevens 5, Stone-Zsela 2, Scalia 2 and Breyer 0. The four canonical assignment statements supply authority. Earlier dated assignment history remains preserved; the prior-term concentration restriction remains inactive. All nine participate in each decision, with no roster or allotment change. No previously open Supreme Court matter changes stage.
 
-The first ten chunk 6 Court events are complete. All May 13 decisions used the common April 29 entering-law baseline without peer influence. Romer and BMW subsequently completed May 20 using the common May 13 entering-law baseline. Henderson and Casarotto remain the same-date chunk 7 matters; all four preserve that common baseline across the chunk boundary, without same-date peer influence.
+The first ten chunk 6 Court events are complete. All May 13 decisions used the common April 29 entering-law baseline without peer influence. Romer and BMW subsequently completed May 20 using the common May 13 entering-law baseline. Henderson and Casarotto are the same-date chunk 7 matters; all four preserve that common baseline across the chunk boundary, without same-date peer influence.
 
 ### Romer — procedure, May 20
 
@@ -2975,9 +3204,23 @@ The case returns to Alabama for a lawful punitive disposition, with the State in
 
 ### Completed chunk 6 assignment and same-date continuity
 
-Romer is Chief assignment 61 to Souter, his thirteenth. BMW’s Court opinion is assigned by senior Associate Justice Stevens; Stone-Zsela joins its territorial Part II but dissents from the formal judgment, so BMW adds no Chief assignment. Current named Chief-assignment totals remain 61: O’Connor 17, Souter 13, Ginsburg 9, Kennedy 7, Thomas 6, Stevens 5, Stone-Zsela 2, Scalia 2 and Breyer 0. The two canonical assignment statements supply authority. Earlier dated assignment history remains preserved; the prior-term concentration restriction remains inactive. All nine participate in both decisions, with no roster or allotment change. No previously open Supreme Court matter changes stage.
+Romer is Chief assignment 61 to Souter, his thirteenth. BMW’s Court opinion is assigned by senior Associate Justice Stevens; Stone-Zsela joins its territorial Part II but dissents from the formal judgment, so BMW adds no Chief assignment. At completion of chunk 6, named Chief-assignment totals were 61: O’Connor 17, Souter 13, Ginsburg 9, Kennedy 7, Thomas 6, Stevens 5, Stone-Zsela 2, Scalia 2 and Breyer 0. The two canonical assignment statements supply authority. Earlier dated assignment history remains preserved; the prior-term concentration restriction remains inactive. All nine participate in both decisions, with no roster or allotment change. No previously open Supreme Court matter changes stage.
 
-All twelve chunk 6 Court events are complete. Romer and BMW used the common May 13 entering-law baseline without peer influence. Henderson and Casarotto remain next, in chunk 7 on May 20, and must use the [preserved pre-May20 public projection](../entering-law/OT_1995CHUNK6_PRE_MAY20_NEUTRAL_PROJECTION.md), committed at `7655d8f`. Neither completed May 20 decision enters that baseline. The current May 20 law and the common May 13 entering law are distinct; no opinion or disposition for either remaining same-date matter is implied.
+All twelve chunk 6 Court events are complete. Romer and BMW used the common May 13 entering-law baseline without peer influence. Henderson and Casarotto subsequently completed the same May 20 group using the [preserved pre-May20 public projection](../entering-law/OT_1995CHUNK6_PRE_MAY20_NEUTRAL_PROJECTION.md), committed at `7655d8f`. Neither completed May 20 decision enters that baseline. The current May 20 law and the common May 13 entering law are distinct; their subsequently completed opinions and dispositions are stated separately below.
+
+### Henderson — procedure, May 20
+
+[Record](../records/Henderson_v_United_States_merits_1996-05-20.md). The case returns through the Fifth Circuit for ordinary further proceedings consistent with Parts I–III. The displaced statutory timetable cannot again sustain dismissal. Any genuine Rule 4 question must meet its own authority, preservation and procedural conditions, with the 1993 transition applied if material. No new good-cause hearing, favorable extension decision or immediate merits trial is ordered. Supreme Court merits review is complete, subject to ordinary mandate procedures; no later Supreme Court event is prescribed.
+
+### Casarotto — procedure, May 20
+
+[Record](../records/Doctors_Associates_Inc_v_Casarotto_merits_1996-05-20.md). The case returns to the Montana courts for further proceedings consistent with Parts II–III. The notice condition cannot again sustain denial of the existing stay. Its restoration remains subject to genuinely available, preserved independent grounds and actual contractual rights; no new commerce inquiry, mandatory defense hearing, reopened waiver or arbitration of all claims and parties is ordered. Supreme Court merits review is complete, subject to ordinary mandate procedures; no later Supreme Court event is prescribed.
+
+### Completed May 20 group — assignment and chronology
+
+Henderson is Chief assignment 62 to Scalia, his third; Casarotto is Chief assignment 63 to Breyer, his first. The [Henderson assignment statement](../records/Henderson_v_United_States_merits_1996-05-20.md#assignment-and-final-joins) and [Casarotto assignment statement](../records/Doctors_Associates_Inc_v_Casarotto_merits_1996-05-20.md#assignment-and-final-coalitions) supply authority. Current named Chief-assignment totals are 63: O’Connor 17, Souter 13, Ginsburg 9, Kennedy 7, Thomas 6, Stevens 5, Scalia 3, Stone-Zsela 2 and Breyer 1. Earlier dated assignment history is preserved, and the prior-term concentration restriction remains inactive. All nine participate in both decisions; neither changes roster, allotments or any earlier open Supreme Court matter.
+
+The May 20 group is complete: Romer, BMW, Henderson and Casarotto. All four used the common May 13 entering-law baseline, with no same-day peer influence; the April 1 OCC source retains its independent effective date and qualifications. The first two chunk 7 Court events are complete. Pinder on May 21 is the next eligible matter, using the full effective May 20 public law; Ornelas follows on May 28 after any effective intervening Court action. No earlier open matter changes stage, no source is newly admitted by these decisions, and the eight admitted sources retain all existing conditions and temporal limits.
 
 ## 6. Blockers and Revalidation Needs
 
@@ -3006,7 +3249,7 @@ All twelve chunk 3 Court events are completed. Bank One returns to the Seventh C
 
 ## 7. Source and Research Cutoff
 
-Latest completed chunk 6 Court-event group and current-law cutoff: **1996-05-20**. Latest admitted source: **1996-04-26**. The May 20 group continues across the chunk boundary; its common entering-law cutoff remains May 13. The April 9 Bowersox interim order is followed by a separate final action granting Missouri's application, 5–4, and vacating the March 8 appellate stay with immediate effect. The Supreme Court application is closed. The underlying appeal and any other lawful restraints are not adjudicated; no substitute stay, fixed grace period, execution order, writ disposition or appeal dismissal is entered. Actual transmission, service, responses and elapsed interim clocks are not presumed. Thirteen chunk 5 Court events and all twelve chunk 4 actions are recorded. Ayers's March 25 library-only writ was dismissed as improvidently granted, 8–1; this Court's review ends while the Fifth Circuit appeal and the district court's remedial jurisdiction remain available. The dismissal changes no substantive desegregation rule and leaves every decree provision undisturbed without merits affirmance. The completed March 27 and April 1 groups retain their respective common March 26 and March 27 entering-law baselines. Next eligible matters: Henderson and Casarotto, May 20, chunk 7, under the preserved common May 13 entering-law baseline; neither completed May 20 peer supplies intervening law. Each canonical Record supplies its own actual research cutoff and source limits; proposed future events supply no current law. Jones’s unresolved financial and petition stages remain as specified above. The [Ayers chronology review](../freeze/OT_1995CHUNK5_AYERS_COMPLETION_CHRONOLOGY.md) confirms that inserting the March 25 dismissal changes no premise of the eight completed later events; prior Records and frozen handoffs remain unchanged.
+Latest completed Court-event group and current-law cutoff: **1996-05-20**, including Romer, BMW, Henderson and Casarotto. Latest admitted source: **1996-04-26**. The May 20 group is complete across the chunk boundary; its common entering-law cutoff remains May 13. The April 9 Bowersox interim order is followed by a separate final action granting Missouri's application, 5–4, and vacating the March 8 appellate stay with immediate effect. The Supreme Court application is closed. The underlying appeal and any other lawful restraints are not adjudicated; no substitute stay, fixed grace period, execution order, writ disposition or appeal dismissal is entered. Actual transmission, service, responses and elapsed interim clocks are not presumed. Thirteen chunk 5 Court events and all twelve chunk 4 actions are recorded. Ayers's March 25 library-only writ was dismissed as improvidently granted, 8–1; this Court's review ends while the Fifth Circuit appeal and the district court's remedial jurisdiction remain available. The dismissal changes no substantive desegregation rule and leaves every decree provision undisturbed without merits affirmance. The completed March 27 and April 1 groups retain their respective common March 26 and March 27 entering-law baselines. Next eligible matter: Pinder, May 21, chunk 7, under the complete May 20 public-law state; Ornelas follows May 28 after any effective intervening action. Each canonical Record supplies its own actual research cutoff and source limits; proposed future events supply no current law. Jones’s unresolved financial and petition stages remain as specified above. The [Ayers chronology review](../freeze/OT_1995CHUNK5_AYERS_COMPLETION_CHRONOLOGY.md) confirms that inserting the March 25 dismissal changes no premise of the eight completed later events; prior Records and frozen handoffs remain unchanged.
 
 The substantive opening baseline ends **June 29, 1995**, including OT1994's two admitted source events and complete final group; the institutional allotment is effective August 3, 1994. The current tracker publication is October 1, 2026, and the opening validation was performed October 2, 2026. Those publication/validation dates are not in-world research cutoffs. Future dates above are bounded supplied planning and record premises, not events admitted at opening. The eight admitted sources and their exact enactment, operative-period, transition and implementation limits are stated in Current Law. The January 6 enactment and its December 16 deemed period are distinct dates; later publication does not create earlier judicial knowledge. The full February 16 and March 1 Ayers orders remain unavailable; the March 25 library-only dismissal construes neither amendment and adds no admitted source. No later source event is advanced from its planning date. Before each event, verify date-eligible sources and actual intervening public law, admit any material objective source at its proper effective time and refresh the entering-law slice. Trackers and effective Records remain authority over these projections.
 
@@ -3026,6 +3269,21 @@ Carlisle and Sheets have an April 29 public-law cutoff and preserve their common
 
 The four May 13 decisions establish the common pre-May20 public-law cutoff, each preserving its common April 29 entering law. Exact public sources retain component-specific coalitions, alternative holdings and remedies. The latest source enactment remains April 26, with all AEDPA and PLRA conditions and unresolved application questions preserved. The common pre-May 20 baseline is this May 13 state for Romer, BMW, Henderson and Casarotto; no same-day peer outcome or later event advances that baseline.
 
-Romer and BMW complete chunk 6 with a May 20 public-law cutoff. Their exact public sources preserve ordinary rational-basis limits in Romer and the five-Justice substantive punitive-damages rule, six-Justice territorial Part II and distinct noncontrolling grounds in BMW. No new source is admitted: the latest source enactment remains April 26, with prior AEDPA and PLRA conditions and unresolved application questions preserved. Henderson and Casarotto must use the [common May 13 snapshot](../entering-law/OT_1995CHUNK6_PRE_MAY20_NEUTRAL_PROJECTION.md), not the current projection’s May 20 additions.
+Romer and BMW complete chunk 6 with a May 20 public-law cutoff. Their exact public sources preserve ordinary rational-basis limits in Romer and the five-Justice substantive punitive-damages rule, six-Justice territorial Part II and distinct noncontrolling grounds in BMW. No new source is admitted: the latest source enactment remains April 26, with prior AEDPA and PLRA conditions and unresolved application questions preserved. Henderson and Casarotto used the [common May 13 snapshot](../entering-law/OT_1995CHUNK6_PRE_MAY20_NEUTRAL_PROJECTION.md), not the current projection’s May 20 additions.
 
 OCC source insertion: the [April 1 regulatory source](../records/OCC_national_bank_interest_rule_7_4001_regulatory_effectiveness_1996-04-01.md) is the eighth admitted noncase-law source. The [review](../freeze/OT_1995CHUNK7_OCC_INSERTION_REVIEW.md) confirms no material effect on completed April 1–May 20 Court events. The exact public qualifications are preserved in Current Law. Existing pre-May20 handoffs remain unchanged; continuing preparation must also account for this verified earlier-effective source without importing a May 20 peer decision. The latest source effective date remains April 26 and the latest completed Court group remains May 20.
+
+
+The completed May 20 group supplies current law for Pinder on May 21. Henderson’s exact public source preserves direct congressional Rule 4 enactment, the just-and-practicable 1993 transition and the bounded service remand. Casarotto’s exact public source preserves ordinary defenses, actual assent and party limits, distinct statutory exclusions and the state-court procedural reservations. The shared earlier May 13 baseline remains fixed for all May 20 peers. No new source is admitted; AEDPA, PLRA and OCC retain their complete existing qualifications.
+
+### Henderson — public source limits, May 20
+
+The [filed petition, joint appendix and merits submissions in No. 95-232](https://archive.org/details/micro_IA40385013_0641) supply the procedural record and competing arguments. Petition Appendix 1–9 reproduces the lower decisions; Joint Appendix page 15 supplies the fifteen-day order, without express good-cause findings. The complaint's injury date remains an allegation; inconsistent incidental recitations establish no different merits finding. The actual earlier venue-transfer motion and appellate preservation needed for a dispositive Rule 12 waiver ruling are not established here.
+
+The enacted Suits in Admiralty Act, 41 Stat. 525, its 1960 amendment, 74 Stat. 912, and Pub. L. 97-462 supply the statutory language and Congress's direct adoption of former Rule 4(j). The [April 22, 1993 order and Rule text, 507 U.S. 1091, 1103–1110](https://www.supremecourt.gov/opinions/boundvolumes/507bv.pdf), supply the effective date and qualified application to pending proceedings; the 1993 subdivision (m) note distinguishes discretionary relief from good-cause enlargement. Section 745's amendment history preserves its dated 1950 savings provision; it is not a general extension for present refiling.
+
+### Casarotto — public source limits, May 20
+
+The [filed papers in No. 95-559](https://archive.org/details/micro_IA40385013_0656) supply the petition, joint appendix and opposing merits submissions. Petition Appendix 1a–46a reproduces the state decisions; 49a–50a gives the June 2 stay; 51a reproduces the contemporaneous Montana statute. Joint Appendix 64–78 supplies the agreement and 86–87 Paul's affidavit. The complete amended complaint and appellate papers needed to settle every party-status and preservation question are not established here. The lower court accepted misconduct allegations for review of the stay, not as liability findings; general cost concerns establish no actual arbitration expenses.
+
+[FAA §2](https://www.govinfo.gov/content/pkg/USCODE-1994-title9/html/USCODE-1994-title9-chap1-sec2.htm) and [§3](https://www.govinfo.gov/content/pkg/USCODE-1994-title9/html/USCODE-1994-title9-chap1-sec3.htm) supply the complete operative federal terms. Southland, 465 U.S. 1, 6–8, supplies the finality analysis through Cox Broadcasting. Montana §27-5-114(4)'s quoted “pursuant to this chapter” language appears in the filed statutory appendix; its other subsections retain the distinct locations and qualifications described above.
