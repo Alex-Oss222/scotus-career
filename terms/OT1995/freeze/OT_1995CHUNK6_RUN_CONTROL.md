@@ -28,7 +28,11 @@ The root coordinates commits and shared workspace updates. Research agents own t
 
 ## Progress
 
-Initial preflight is in progress. No Chunk 6 Court disposition or statutory source admission has yet been entered.
+All twelve neutral packets are frozen. Miller's April 15 disposition is committed at `374513a` and integrated at `3bd6024`. The nonmaterial late Rule 57 source admission is committed at `6b8a096` and integrated at `63a3475`; its review leaves completed Court actions unchanged. Cooper's independent commitments are frozen at `bcac1f9`; historical reconciliation is in progress. Later-date modeling awaits the applicable completed earlier public law. Prepared AEDPA and PLRA admissions remain outside canonical Records until their dates are reached.
+
+## BMW user steering
+
+The uploaded replacement is preserved verbatim in `OT_1995CHUNK6_BMW_APPROVED_STONE_REPLACEMENT.md` at `ec3fb0d`, with control validation at `6b8a096`. Before BMW adjudication, the user further instructed: “srry do bmw last please one more changebut continue the rest.” BMW final assembly and disposition are therefore held for the additional change, and the other eleven matters continue. BMW will be processed after Romer while retaining the common pre-May-20 entering-law baseline. The replacement remains preserved; it is not silently treated as the user's final execution instruction while the announced revision is pending. No BMW Court disposition has been recorded.
 
 ## Source-intake boundary notices
 
