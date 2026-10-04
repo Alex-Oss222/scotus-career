@@ -1,0 +1,2224 @@
+Supreme Court, U.S. 
+FILED 
+
+
+JAN 16 1996 
+
+
+\%) 
+
+
+No. 95-232 
+
+
+In The 
+
+
+Supreme Court of the United States 
+October Term, 1995 
+¢ 
+
+
+LLOYD HENDERSON, 
+
+
+Petitioner, 
+Vv. 
+
+
+UNITED STATES OF AMERICA, 
+Respondent. 
+> 
+
+
+On Writ Of Certiorari “o The 
+United States Court Of Appeals 
+For The Fifth Circuit 
+
+
+e 
+
+
+BRIEF FOR PETITIONER 
+° 
+
+
+RicHarD A. SHEEHY* 
+
+KENNETH R. Brerrser. 
+
+Lauren L. Beck 
+
+McFa.i, SHERwoop & SHeeEny, P.C. 
+2500 Two Houston Center 
+
+909 Fannin Street 
+
+Houston, TX 77010-1003 
+
+(713) 951-1000 
+
+
+Counsel for Petitioner 
+
+
+* Counsel of Record 
+
+
+i 
+QUESTIONS PRESENTED FOR REVIEW 
+
+
+Whether the 120-day service requirement of Federal 
+Rule of Civil Procedure 4 supplants the forthwith 
+service requirement found in the Suits in Admiralty 
+Act (“SAA”). 
+
+
+If the 120-day service requirement of Rule 4 does 
+not supplant the forthwith service requirement 
+found in the SAA, whether district courts may 
+extend the time for service provided by the SAA 
+under appropriate circumstances. 
+
+
+ii 
+LIST OF PARTIES 
+Petitioner: 
+
+
+LLOYD HENDERSON 
+Richard A. Sheehy 
+
+
+McFall, Sherwood & Sheehy, P.C. 
+
+
+909 Fannin Street 
+2500 Two Houston Center 
+Houston, Texas 77010-1003 
+
+
+Respondent: 
+
+
+UNITED STATES OF AMERICA 
+C/O SOLICITOR GENERAL 
+Department of Justice 
+Washington, D.C. 20530 
+
+
+iil 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+QUESTIONS PRESENTED FOR REVIEW........... i 
+EE Se ii 
+es ons bc enccosicoccoces iii 
+TABLE OF AUTHORITIES ...............00c0ceee:- v 
+REFERENCE TO THE OPINIONS OF THE COURTS 
+EE AEE SEE OEE ED 1 
+STATEMENT OF JURISDICTION................... 1 
+STATUTORY PROVISIONS INVOLVED ............ 1 
+STATEMENT OF THE CASE...............0-000ce- 4 
+SUMMARY OF THE ARGUMENT ................. 7 
+ARGUMENT AND AUTHORITIES................. 10 
+
+
+i. The 120 Day Service Kequirement Of Rule 4 Su 
+a The Forthwith Service Requirement In 
+DUPSAPACR GAEDE DEdeebecedccccceoceetsses cess 10 
+
+
+A. The Fifth Circuit's Interpretation Of The 
+SAA’s Forthwith Service irement Con- 
+flicts With Third Circuit Precedent......... 10 
+
+
+B. The Fifth Circuit's Interpretation Of The 
+SAA’s Service Requirement As Substantive 
+Frustrates Congressional Intent ............ 16 
+
+
+1. The Provisions Of The SAA Negate An 
+Unnecessarily Strict Interpretation Of 
+The Forthwith Service Requirement .... 16 
+
+
+2. Because The Federal Rules Of Procedure 
+Were Not In Effect At The Time Of Enact- 
+ment Of The SAA, The Service Provi- 
+sions in Rule 4 Are Controlling ........ 22 
+
+
+iv 
+
+
+TABLE OF CONTENTS - Continued 
+
+
+Page 
+
+
+3. Similar Statutes Which Were Enacted In 
+
+
+4. Under The Rules Enabling Act, A Federal 
+Rule Preempts A Federal Statute Govern- 
+ing Procedure. ..........0.0-eeeeeeeeees 
+
+
+C. The Fifth Circuit’s Interpretation Of The 
+SAA’s Service Requirement Leads To Incon- 
+clotemt Results... .ssccccccccccssccscevcens 
+
+
+Il. The Fifth Circuit's Interpretation Of The SAA’s 
+Forthwith Service uirement Restricts The 
+District Courts’ Power To Extend The Time For 
+Service Under Any Circumstances ............. 
+
+
+COSCLTIIIIG 2 cc ccccccccccccwecccccccccscceccces 
+
+
+31 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+Amella v. United States, 732 F.2d 711 (9th Cir. 
+BO eeuddedehenneddhedskbs cosh teckscoicse 13, 32, 36 
+—s Pipe & Construction Co. v. Utah, 414 U.S. 
+Be NP siencennd ss chneecbidcedichececéccace 10, 39 
+Ashland v. Ling-Temco-Vought, Inc., 711 F.2d 1431 
+vcd decenvbncdhabietectctécctsvicece. 41 
+
+
+Barrie v. United States, 615 F.2d 829 (9th Cir. 1980) .... 13 
+
+
+Battaglia v. United States, 303 F.2d 683 (2d Cir.), 
+cert. dism'd, 371 U.S. 907 (1962)..... 12, 16, 21, 22, 23 
+
+
+Budinich v. Becton Dickenson & Co., 486 U.S. 196 
+
+
+PRR le Ra eS pal ay: ph DS alle aS ign I 35 
+= Y New York v. McAllister Brothers, Inc., 278 
+fF 4 2 g TR 11, 12, 18, 23 
+Cortes v. Baltimore Insular Line, 287 U.S. 367 (1932) .... 27 
+Dalehite v. United States, 346 U.S. 15 (1953).......... 26 
+Garrett v. Moore-McCormack Co., 317 U.S. 239 
+dh hdnd bathe dieeel eden eb deamebeunkoores 36 
+Grammenos v. C.M. Lemos, 457 F.2d 1067 (2d Cir. 
+Sie es tte A ities he i Del i as ee nee ne 34 
+Greene v. Lindsey, 456 U.S. 444 (1982)................ 18 
+
+
+Hall v. Maritime Administration, Civ. Action 
+92-3020, 1993 U.S. Dist. Lexis 5753 (E.D. La. 
+
+
+Dhaest ncsseeanesdod sé ebeabaeubabeecucecoboces 16 
+Hanna v. Plumer, 380 U.S. 460 (1965).......... 9, 29, 30 
+Henderson v. United States, 51 F.3d 574 (5th Cir. 
+
+Dib. dys eeiveedidetendns bbdclicsestedceh Gatutees 14 
+
+
+vi 
+TABLE OF AUTHORITIES - Continued 
+Page 
+Hunt v. Dep't of Air Force, 29 F.3d 583 (11th Cir. 
+BODE. oc cccccccducdccasectcccsecbdbséssbedecccccos 26 
+Indian Towing Co. v. United States, 350 US. 61 
+RAGED .. vc cove cdcccccecccescceccccteceséstecceédess 21 
+
+
+Jones & Laughlin Steel, Inc. v. Mon River Towing, 
+Inc., 772 F.2d 62 (3d Cir. 1985).. 11, 12, 14, 18, 23, 25 
+
+
+Keene Corp. v. U.S., 700 F.2d 836 (2d Cir. 1983), cert. 
+
+
+denied, 464 U.S. 864 (1984)... . 2.6.6.6. c cece eee 25 
+Kenyon v. United States, 676 F.2d 1229 (9th Cir. 
+
+econ censunessases cheessetncnseee 14, 18, 21, 24, 34 
+Kokoszka v. Belford, 417 U.S. 642 (1974) ...........05. 26 
+
+
+Lambert v. United States, 44 F.3d 296 (Sth Cir. 1995) 26, 35 
+
+
+Libby v. United States, 840 F.2d 818 (11th Cir. 
+. MEP PTTTTTTTTTiiTi rT Tt Tit tr et. 12, 14, 23 
+
+
+Libby v. United States, 657 F. Supp. 1251 (M.D. 
+Fla. 1987), aff'd, 840 F.2d 818 (11th Cir. 
+
+
+rr oe 11, 15, 34, 36, 37, 42 
+McCormick v. United State:, 680 F.2d 345 (Sth Cir. 
+
+Bs ccccvcedésccceccansénececteceecececescées 38, 39 
+McMahon v. United States, 342 U.S. 25 (1951) ........ 21 
+Miles v. Apex Marine Corp., 498 U.S. 19 (1990)....... 33 
+Mississippi Pub. Corp. v. Murphree, 326 U.S. 438 
+
+SUE od ede ccdecdbeccenvetocteeseddcesndedrocecsene 18 
+
+
+O'Halloran v. United States, 817 F. Supe: 829 (N.D. 
+Cal. 1993), aff'd, 45 F.3d 436 (9th Cir. 1994) ....15, 34 
+
+
+Owens v. United States, 541 F.2d 1386 (9th Cir. 
+1976), cert. denied, 430 U.S. 945 (1977).. 11, 13, 23, 34 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Pezzola v. United States, 618 F. Supp. 544 (D.C.N.Y. 
+enabeendsedinedoonsedacesseccgueys dscccece: 16 
+
+
+Phillips v. United States Army Corps of Engineers, 
+F. Supp. 967 (S.D. Miss. 1986) ............. 11, 15 
+
+
+Preiser v. Rodriguez, 411 U.S. 475 (1973) ............. 33 
+
+
+Sherwood v. United States, 112 F.2d 587 (2d Cir. 
+1940), rev'd on other grounds, 312 U.S. 584 (1941) .... 27 
+
+
+Schram v. Koppin, 35 F. Supp. 313 (E.D. Mich. 1940) ... . 27 
+
+
+Sibbach v. Wilson & Co., 312 U.S. 1 (1941) ........... 29 
+Stanga v. McCormick Shipping Corp., 268 F.2d 544 
+
+Gee Hn, end wacecehcbdescec cbbecodesccstecese 34 
+United States v. American Surety Co., 25 F. Supp. 
+
+Fe ee ie Us ede cv ncscdccedcevecbecebecccce 28 
+United States v. oe 19 F.3d 1062 (5th Cir. 
+
+1994), cert. denied, 115 S.Ct 482 
+
+Parecncecésocsaccepecensccces 6, 7, 12, 14, 23, 34 
+United States v. Isthmian S.S. Co., 359 U.S. 314 
+
+i Miseabidiaebtben side atasycudescesscescececes 18 
+United States v. Muniz, 374 U.S. 150 (1963).......... 26 
+Weiss v. United States, 168 F. Supp. 300 (D.N.J. 
+
+Pb 6000 CbGce CRbebEnsthesecececcenscccenedesces 21 
+
+
+STATUTES AND RULBs: 
+
+
+SS” SERRE SS a ae ee ee ee 27 
+28 U.S.C. §§ 1346(b), 2671-2680 ....... 22.0... c cca es 25 
+EET SET: ae, OTS ORE 27 
+DURE MOR iiiik nile ie eo: 27, 28 
+
+
+viii 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+2B UBC. 8 GABA) .nccceccvcccvccsececestsiovscsisens 1 
+ ) ef | eee 2, 8, 15, 29, 31 
+OD CABG. Gas a vo cpwidc tenes coves cutacenkccteucnss 36 
+46 U.S.C. §§ 741-752... 1.6 eee eens passim 
+C6 CLG. Be Felon cccncncccccccengnocdocevaney 4, 25 
+Gh UGE. BE GBs dvs conic esewcicctcacscscssttece 17 
+DOR, BR. GOR Th Qicccsweccecccccvccscvecsetéocss passim 
+Ch. 359, 24 Stat. 505 (1887) (now 28 U.S.C. 
+Dy Fete GED, wonanse ccccncens cnnccbe ste tardics 27 
+Act of March 3, 1925, ch. 428, 43 Stat. 1112 (now 46 
+U.S.C. §§ 781-790 (1982)) ....... cece ce eeeeeeeeeees 25 
+Act of June 19, 1934, ch. 651, 48 Stat. 1064 (cod- 
+ified at 46 U.S.C. § 2072 (1982)) ............... 22, 28 
+Act of Aug. 2, 1946, ch. 753, §§ 401-424, 60 Stat. 
+842 (now 28 U.S.C. §§ 1346(b), 2671-2680(d) 
+Bs cha cceddocéedss ob be cabbudedls nccedesestoss 25 
+Act of Sept. 13, 1960, Pub. L. No. 86-770, § 3, 74 
+Stat. 912 (codified at 46 U.S.C. § 742 (1982))...... 20 
+Act of August 2, 1982, Pub. L. No. 97-227, 96 Stat. 
+Deb cc ccocccabéécsvieses ee Giued¥cedeeeeseotabiwe 31 
+
+
+Shipping Act of 1916, ch. 451, 39 Stat. 728 (cod- 
+- ified as amended at 46 U.S.C. §§ 801-842 (1982)) .... 17 
+
+
+Suits In Admiralty Act, ch. 95, 41 Stat. 525 (1920) 
+(codified as amended at 46 U.S.C. §§ 741-752 
+
+
+DT hdnctas Chl cn cttccden condesdaalihetcesis 17 
+Federal Rules of Civil Procedure Amendments Act 
+of 1982, Pub. L. 97-462, 96 Stat. 2527 .............. 33 
+
+
+ix 
+
+
+TABLE OF AUTHORITIES - Continued 
+Page 
+CONSTITUTION: 
+ERTS CS Ses aa aS ar 35 
+
+
+Lecistative History: 
+
+
+58 Conc. Rec., 66th Cong., Ist Sess. 7317-7318, 
+PE MPs nik cnsencccodavctwedibecenceveses 18 
+
+
+59 Conc. Rec., 66th Cong., 2d Sess. 1692-1693, 
+1750-1759, 3350-3351, 3629-3631, 3690-3691 
+
+
+CR da hckts chat sen tiidedcbeb tubs dhmekcddecaes 18 
+78 Conc. Rec. 9362-63, 10,866 (1934) ............. ... 29 
+83 Conc. Rec., pt 1, p. 13 (1938)...... 26... c cee eee. 22 
+112 Conc. Rec. 4053 (1966)..........0.. ccc cece eee 15, 23 
+128 Conc. Rec. 30929-30937, 32476-32477, 
+
+32904-32905, 33132 (1982). ........0 ccc cee cee e ee 32, 33 
+128 Conc. Rec. 30930 (1982)...... 0.06. .0ccc cece eeees 31 
+H. Doc. 173, 97th Cong., 2d Sess. (1982) ............ 31 
+H. Doc. 391, 89th Cong., 2d Sess. (1966) ......... 15, 23 
+H. Doc. 460, 75th Cong., 3d Sess. (1938) ............ 22 
+
+
+H. Doc. 588, Notes To Tue Rutes or Crvn Pro- 
+cepure For THe District Courts or tHe Unirep 
+
+
+States, 75th Cong., 3d Sess. (1938) ............. 23, 27 
+H.R. 7154, 97th Cong., 2d Sess. (1982)............55. 32 
+H.R. 26,462, 62nd Cong., 3d Sess. (1912), reprinted 
+
+in 38 A.B.A. Rep. 542 (1913)... 0.0.2.6... cece eee ees 28 
+H.R. Rep. No. 662, 97th Cong., 2d Sess. (1982)....... 31 
+
+
+H.R. Rep. No. 462, 63d Cong., 2d Sess. (1914) ....... 29 
+
+
+x 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+H.R. Rep. No. 1829, 73d Cong., 2d Sess. (1934) ...... 29 
+H.R. Rep. No. 2743, 75th Cong., 3d Sess. (1938)...... 23 
+S. Rep. No. 1894, 86th Cong., 2d Sess. (1960) ........ 20 
+S. Rep. No. 1049, 73d Cong., 2d Sess. (1934)......... 29 
+HEARINGs ON ABA Bits Berore THE House Comm. ON 
+
+THE Jupiciary, 63d Cong., 2d Sess. 22 (1914) ....... 29 
+MISCELLANEOUS: 
+
+George Walker, The 1983 Amendments To Federal 
+
+Rule Of Civil Procedure 4 — Process, Jurisdiction, 
+
+and ERIE Principles Revisited, 19 Waxe Forest L. 
+
+Ban, GE CHRGD 0s onceccccccnpcercaweccensbdosegecss 32 
+Stephen Burbank, The Rules Enabling Act of 1934, 
+
+130 U. Pa. L. Rev. 1015 (1982) ........ 0-6. - eee eee 29 
+Gregory Reesa, Rule 4(j) of the Federal Rules of Civil 
+
+Procedure and The Forthwith Service Requirement 
+
+Of The Suits In Admiralty Act, 54 ForpxHam L. 
+
+Fare Be GHD 6 0:0 0.00nennssneetecncensthasess 19, 26 
+David Siegel, Practice Commentary On Amendment 
+
+Of Federal Rule 4 (Eff. Feb. 26, 1983) With Special 
+
+Statute Of Limitations Precautions, 96 F.R.D. 88 
+
+i OTE TTT TET Trt rere rer Le Te 32 
+1A J. SUTHERLAND, STATUTORY CONSTRUCTION (5th ed. 
+
+SPE Vc kvcenscecGpacnbivebundedewsussdbds ebeieues 33 
+Biack’s Law Dictionary (5th ed. 1979)............... 36 
+2 Hotpswortu, A History or ENGuisH Law (1909)..... 37 
+Gnmore & Biack, ADMIRALTY (1957).................. 22 
+
+
+Tae 
+
+
+- a ae oe 
+
+
+REFERENCE TO THE OPINIONS 
+OF THE COURTS BELOW 
+
+
+Court of Appeals Opinion: 51 F.3d 574 (5th Cir. 1995) 
+
+
+- Reproduced in Appendix to Petition for Writ of Cer- 
+tiorari 
+
+
+District Court Order: Reproduced in Appendix to 
+Petition for Writ of Certiorari 
+
+
+¢ 
+
+
+STATEMENT OF JURISDICTION 
+
+
+The Fifth Circuit rendered its opinion on May 10, 
+1995. Petitioner did not file a motion for rehearing. This 
+Court has jurisdiction under 28 U.S.C. § 1254(1). Peti- 
+tioner timely filed his petition for writ of certiorari on 
+August 8, 1995 which was granted by this Court on 
+November 22, 1995. 
+
+
+STATUTORY PROVISIONS INVOLVED 
+Suits in Admiralty Act, 46 U.S.C. § 742 
+Libel in personam. 
+
+
+In cases where if such vessel were privately owned or 
+operated, or if such cargo were privately owned or pos- 
+sessed, or if a private person or property were involved, a 
+proceeding in admiralty could be maintained, any appro- 
+priate non-jury proceeding in personam may be brought 
+against the United States or against any corporation men- 
+tioned in section 1 of this Act. Such suits shall be brought 
+in the district court of the United States for the district in 
+
+
+which the parties so suing, or any of them, reside or have 
+their principal place of business in the United States, or 
+in which the vessel or cargo charged with liability is 
+found. The libelant shall forthwith serve a copy of his 
+libel on the United States attorney for such district and 
+mail a copy thereof by registered mail to the Attorney 
+General of the United States, and shall file a sworn return 
+of such service and mailing. Such service and mailing 
+shall constitute valid service on the United States and 
+such corporation. In case the United States or such corpo- 
+ration shall file a libel in rem or in personam in any 
+district, a cross-libel in personam may be filed or a set-off 
+claimed against the United States or such corporation 
+with the same force and effect as if the libel had been 
+filed by a private party. Upon application of either party 
+the cause may, in the discretion of the court, be trans- 
+ferred to any other district court of the United States. 
+
+
+Rules Enabling Act, 28 U.S.C. § 2072 
+
+
+Rules of procedure and evidence; power to prescribe. 
+
+
+(a) The Supreme Court shall have the power to 
+prescribe general rules of practice and procedure and 
+rules of evidence for cases in the United States district 
+courts (including proceedings before magistrates thereof) 
+and courts of appeals. 
+
+
+(b) Such rules shall not abridge, enlarge or modify 
+any substantive right. All laws in conflict with such rules 
+shall be of no further force or effect after such rules have 
+taken effect. 
+
+
+(c) Such rules may define when a ruling of a district 
+
+
+court is final for the purposes of appeal under section 
+1291 of this title. 
+
+
+Fed. R. Civ. P. 4(d)(4) and (5)! 
+
+
+(4) Upon the United States, by delivering a copy of 
+the summons and of the complaint to the United States 
+attorney for the district in which the action is brought or 
+to an assistant United States attorney or clerical employee 
+designated by the United States attorney in a writing 
+filed with the clerk of the court and by sending a copy of 
+the summons and of the complaint by registered or certi- 
+fied mail to the Attorney General of the United States at 
+Washington, District of Columbia, and in any action 
+attacking the validity of an order of an officer or agency 
+of the United States not made a party, by also sending a 
+copy of the summons and of the complaint by registered 
+or certified mail to such officer or agency. 
+
+
+(S) Upon an officer or agency of the United States, 
+by serving the United States and by sending a copy of the 
+summons and of the complaint by registered or certified 
+mail to such officer or agency. If the agency is a corpora- 
+tion the copy shall be delivered as provided in paragraph 
+(3) of this subdivision of this rule. 
+
+
+1 These subsections were amended in 1993 and renumbered 
+as Rule 4(i). 
+
+
+Fed. R. Civ. P. 4(j)? 
+
+
+If a service of the summons and complaint is not 
+made upon a defendant within 120 days after the filing of 
+the complaint and the party on whose behalf such service 
+was required cannot show good cause why such service 
+was not made within that period, the action shall be 
+dismissed as to that defendant without prejudice upon 
+the court’s own initiative with notice to such party or 
+upon motion. 
+
+
+STATEMENT OF THE CASE 
+
+
+Petitioner Lloyd Henderson sustained injuries on 
+August 27, 1991, while employed by the United States as 
+a seaman aboard the M/V DELMONTE, a ship owned by 
+the United States (R. 3-4). After exhausting administra- 
+tive remedies, he filed suit against the United States on 
+April 8, 1993, in the United States District Court for the 
+Southern District of Texas, Galveston Division (R. 2, App. 
+5-12). The court had jurisdiction under the Suits in 
+Admiralty Act (“SAA”), 46 U.S.C. § 741-752 and the Pub- 
+lic Vessels Act, 46 U.S.C. §§ 781-790. 
+
+
+From the onset, Mr. Henderson experienced a series 
+of difficulties obtaining the proper summons for the 
+United States from the district clerk’s office (R. 163). At 
+the same time Mr. Henderson filed his complaint, he 
+
+
+2 The 1993 amendments reworded this subsection and 
+renumbered it as Rule 4(m). 
+
+
+3 On motion by the United States, the case was later trans- 
+ferred to the Eastern District of Texas, Beaumont Division (R. 1). 
+
+
+requested the appropriate summons forms and file 
+stamped copies of the complaint (App. 42, 51). However, 
+these summons forms were not sent to Mr. Henderson’s 
+counsel, as requested, with the file stamped copies of the 
+complaint (App. 42, 51). The forms were eventually 
+obtained on April 21, 1993, completed by Mr. Hender- 
+son’s counsel and immediately forwarded to the District 
+Clerk for the Southern District of Texas, Galveston Divi- 
+sion (App. 42, 51). Mr. Henderson’s counsel finally 
+received the completed summons from the district court 
+on May 4, 1993 (App. 42, 51-52, 54). He sent the summons 
+and complaint via certified mail to the United States 
+Attorney General on May 19, 1993 (R. 163, App. 42). The 
+Attorney General was served on May 25, 1993 (App. 42, 
+52). 
+
+
+On May 25, 1993, Mr. Henderson’s complaint was 
+forwarded to Constable Jack Abercia for service on the 
+U.S. Attorney for the Southern District of Texas (App. 52, 
+55-56). The summons intended for the United States 
+Attorney, however, was still not in proper form at that 
+point because the deputy district clerk had failed inad- 
+vertently to place the seal of the court on the summons. 
+On June 1, 1993, Constable Jack Abercia’s office wrote to 
+Mr. Henderson’s counsel and informed him that Abercia 
+required the Court's seal on each summons form prior to 
+service (App. 52, 57-58). The constable’s office also 
+advised Mr. Henderson’s counsel that it needed two addi- 
+tional summons forms (App. 57-58). 
+
+
+Mr. Henderson’s counsel again requested, via mail, 
+additional summons forms from the U.S. District Court 
+with the appropriate court seal (App. 52, 59-61). When 
+they were not received, Mr. Henderson’s counsel's office 
+
+
+called the Clerk, and informed the Clerk's office of the 
+situation (App. 52). 
+
+
+Mr. Henderson’s counsel again requested by mail the 
+summons forms from the District Clerk’s office on August 
+19, 1993 (App. 52, 62-64). The properly sealed summons were 
+not received until August 25, 1993 (App. 52), although they 
+were dated July 22, 1993 (App. 52, 65). The sealed summons 
+were then transmitted a second time to Constable Abercia’s 
+office on August 25, 1993 (App. 52, 66-67), two days before 
+the statute of limitations elapsed. (R. 164). 
+
+
+On August 30, 1993, Mr. Henderson filed a motion 
+seeking an extension of time in which to serve the United 
+States Attorney (R. 12-13, App. 13-14). The district court, 
+after presumably finding good cause as required by Rule 
+4, granted the extension and rendered an order allowing 
+service on or before September 15, 1993 (R. 16, App. 15). 
+The United States Attorney received personal service on 
+September 3, 1993 (App. 33-34). 
+
+
+On November 17, 1993, the United States moved to 
+dismiss the case for want of jurisdiction due to a lack of 
+“forthwith” service as required by the SAA (R. 34, App. 
+16-38). Mr. Henderson filed his response to the motion on 
+December 16, 1993 (App. 39-85). The district court origi- 
+nally denied the motion, presumably finding that Rule 4 
+governed the time for service in the case and that the 
+court had the power to grant an extension (R. 107). 
+
+
+Following the court’s ruling, however, the Fifth Cir- 
+cuit delivered its opinion in United States v. Holmberg, 
+holding that the SAA’s forthwith requirement rather than 
+Rule 4 governs the time for service on the United States. 
+
+
+19 F3d 1062 (Sth Cir. 1994), cert. denied, 115 S.Ct. 482 
+(1994). On May 13, 1994, the government filed a second 
+motion to dismiss based upon the Holmberg decision 
+(App. 86-91). The district court reconsidered its ruling in 
+light of Holmberg and granted the government's motion to 
+dismiss (R. 189, Pet. App. 8). Although the dismissal was 
+without prejudice, the statute of limitations had already 
+elapsed (R. 189). 
+
+
+Mr. Henderson appealed the district court’s decision 
+to the United States Court of Appeals for the Fifth Cir- 
+cuit. The Fifth Circuit affirmed the dismissal, merely reit- 
+erating its opinion in Holmberg that the SAA‘s forthwith 
+requirement rather than Rule 4 governs the time for ser- 
+vice on the United States (Pet. App. 1). On August 8, 
+1995, Mr. Henderson filed his Petition for Writ of Cer- 
+tiorari in this Court. This Court granted the Petition on 
+November 22, 1995. 
+
+
+SUMMARY OF THE ARGUMENT 
+
+
+The intent of Congress in enacting the SAA and Rule 
+4 of the Federal Rules of Civil Procedure compels the 
+conclusion that the 120 day service requirement in Rule 4 
+supplants the “forthwith” service requirement of the 
+SAA. The inherent conflict between the service provisions 
+in the SAA and Rule 4 has inevitably led to a divergence 
+of opinion among the circuit courts. The Third Circuit has 
+held that Rule 4’s 120 day service requirement supersedes 
+the SAA’s “forthwith” service provision because it is 
+simply procedural; on the other hand, other circuits have 
+
+
+held that the SAA‘s “forthwith” requirement represents a 
+waiver of the government's sovereign immunity and can- 
+not be modified by Rule 4 because it is substantive. 
+However, those circuits that have held this provision to 
+be substantive have erroneously based their holdings 
+upon Second Circuit authority decided before 1966 when 
+Congress specifically applied the federal rules of civil 
+procedure to admiralty suits. Additionally, these courts 
+have ignored the fact that at the time the SAA was 
+enacted in 1920, there were no uniform rules in effect 
+governing federal procedure. 
+
+
+Any decision that the forthwith service provision of 
+the SAA is substantive emasculates the intent of the 
+legislature in enacting the SAA. The SAA was enacted by 
+Congress in order to waive its immunity from suit by 
+allowing in personam actions against the United States. 
+The SAA specifically provides that suits brought under 
+the Act “shall proceed and shall be heard and determined 
+according to the principles of law and to the rules of 
+practice .. . in like cases between private parties.” 46 
+U.S.C. § 743. Congress even broadened its waiver of 
+sovereign immunity in 1960 by removing the restriction 
+as to merchant vessels. Furthermore, similar statutes in 
+which the government has waived immunity such as the 
+Federal Tort Claims Act and the Tucker Act are also 
+governed by Rule 4 service procedures. The view that the 
+SAA’s “forthwith” service requirement is substantive in 
+essence defeats Congress's intent to waive immunity. 
+
+
+The Rules Enabling Act through which the rules of 
+procedure are promulgated specifically states that all con- 
+flicting laws “shall be of no further force or effect.” 28 
+U.S.C. § 2072. Congress therefore intended a valid rule 
+
+
+9 
+
+
+such as Rule 4 to supersede an inconsistent federal stat- 
+ute. This Court has previously held in Hanna v. Plumer, 
+380 U.S. 460 (1965), that Rule 4 which allows service on 
+an executor supplanted a contrary state rule requiring in- 
+hand service because matters of service are governed by 
+the federal rules. Congressional intent to supercede the 
+“forthwith” requirement of the SAA is further evidenced 
+by the fact that present Rule 4 which includes the 120 day 
+service requirement and “good cause” exception was 
+drafted by Congress and not by this Court. Obviously, 
+Congress desired to bring uniformity to the timeliness of 
+service issue. 
+
+
+The inevitable result of the Fifth and other circuits’ 
+adoption of the “forthwith” service requirement rather 
+than the 120 days provided by Rule 4 is a drastic varia- 
+tion among the circuits as to what constitutes “forth- 
+with.” This Court’s determination that the Rule 4 service 
+provisions supplant the “forthwith” service requirement 
+of the SAA would resolve this inconsistency and give 
+effect to legislative intent. The lack of uniformity among 
+the courts concerning the amount of time which is “forth- 
+with” also raises due process concerns since many liti- 
+gants are denied the right to proceed to trial on the 
+merits. Furthermore, the “forthwith” requirement creates 
+equal protection problems since all other federal actions 
+involving the United States are subject to Rule . Cer- 
+tainly, Congress did not intend that only seamen should 
+be subjected to this draconian requirement while allow- 
+ing those injured upon the land to have the advantage of 
+the bright-line time limit in Rule 4. 
+
+The Fifth Circuit's interpretation of the SAA’s service 
+requirement also incorrectly restricts the district court's 
+
+
+10 
+
+
+power to extend the time for service under any circum- 
+stances. Even if the “forthwith” service requirement 
+applies to suits brought under the SAA rather than Rule 
+4, the district court should maintain the power to extend 
+the time for service in appropriate circumstances. In an 
+analogous context, this Court has permitted federal 
+courts to toll the limitations period in a federal statute 
+providing for substantive liability. American Pipe & Con- 
+struction Co. v. Utah, 414 U.S. 538, 556-559 (1974). The 
+facts of this particular case further illustrate the need for 
+a definitive rule which would allow the courts to extend 
+the time period for service under the SAA. Given the 
+problems Mr. Henderson confronted in attempting to 
+serve the United States, the district court’s extension of 
+time for serving the government was proper and should 
+be honored by this Court. 
+
+
+6 
+
+
+ARGUMENT AND AUTHORITIES 
+
+
+I. The 120 Day Service Requirement Of Rule 4 Sup- 
+plants The Forthwith Service Requirement In The 
+SAA. 
+
+
+A. The Fifth Circuit's Interpretation Of The SAA’s 
+Forthwith Service Requirement Conflicts With 
+Third Circuit Precedent. 
+
+
+The manner of service on the United States under the 
+SAA and Rule 4 is essentially the same. Both require that 
+the plaintiff personally serve the United States Attorney 
+
+
+Se 
+
+
+11 
+
+
+for the district in which the suit is filed* and, additionally, 
+serve the Attorney General by mail.5 Rule 4 and the SAA 
+collide, however, with respect to the time for service on 
+the United States. The SAA fails to provide any specific 
+time for such service, but simply provides that service be 
+“forthwith.” Rule 4, on the other hand, provides a speci- 
+fic time limit of 120 days in which to accomplish service 
+and permits the district court to extend the time upon a 
+showing of “good cause.” 
+
+
+The confusion regarding the time for service on the 
+United States in suits brought under the SAA has resulted 
+in a divergence in opinion among the circuit courts. The 
+Third Circuit has determined that Rule 4’s 120-day 
+requirement supersedes the SAA’s forthwith requirement. 
+Jones & Laughlin Steel, Inc. v. Mon River Towing, Inc., 772 
+F.2d 62, 66 (3d Cir. 1985). Several district courts have held 
+likewise. E.g., Libby v. United States, 657 F. Supp. 1251, 
+1252 (M.D. Fla. 1987); Phillips v. United States Army Corps 
+of Engineers, 629 F. Supp. 967, 971 (S.D. Miss. 1986). In 
+contrast, the Second, Fifth, Ninth, and Eleventh Circuits 
+have concluded that the SAA’s forthwith requirement 
+applies regardless of Rule 4’s 120-day requirement. E.g. 
+City of New York v. McAllister Brothers, Inc., 278 F.2d 708, 
+710 (2d Cir. 1960); Owens v. United States, 541 F.2d 1386, 
+1388 (9th Cir. 1976), cert. denied, 430 U.S. 945 (1977); 
+
+
+* After the filing of this suit, Congress amended Rule 4 to 
+permit the United States Attorney to designate agents to receive 
+process and to permit service on the United States Attorney by 
+mail 
+
+
+5 The SAA specifies registered mail; Rule 4 permits regis- 
+tered or certified mail. 
+
+
+12 
+
+
+Holmberg, 19 F.3d at 1065; Libby v. United States, 840 F.2d 
+818, 820 (11th Cir. 1988). 
+
+
+For the most part, the conflict arises from the deter- 
+mination of whether the SAA’s service requirement is 
+substantive or simply procedural. Those courts that con- 
+sider the forthwith requirement substantive hold that it 
+applies without regard to Rule 4 because the Federal 
+Rules of Civil Procedure do not modify substantive 
+rights. E.g., Battaglia, 303 F.2d at 686; 28 U.S.C. § 2072. 
+Those courts that consider the forthwith service require- 
+ment procedural hold that Rule 4’s 120-day requirement 
+supplants the SAA’s forthwith requirement because the 
+Federal Rules supplant all conflicting procedural require- 
+ments in federal courts. E.g., Jones & Laughlin Steel, 772 
+F.2d at 66. 
+
+
+The Second Circuit in City of New York v. McAllister 
+Brothers, supra, was the first court to consider the issue. In 
+that case, the plaintiff served process on the United States 
+Attorney more than two months after filing suit. 278 F.2d 
+at 708. The court held that the plaintiff’s failure to comply 
+with the SAA’s “forthwith” service requirement deprived 
+the district court of jurisdiction and compelled dismissal. 
+Id. at 710. The court reasoned that litigants must strictly 
+comply with technical requirements for service of process 
+upon the government when it has waived sovereign 
+immunity. 
+
+
+Two years later, in Battaglia v. United States, the Sec- 
+ond Circuit reached an equally harsh result. 303 F.2d 683, 
+686 (2d Cir. 1962), cert. dism'd, 371 U.S. 907 (1962). There, 
+the plaintiff served the United States Attorney on the 
+same day he filed the complaint. The plaintiff failed to 
+
+
+———<—_ — 
+
+
+13 
+
+
+serve the Attorney General by registered mail, however, 
+until approximately four months later. The court con- 
+strued the SAA to require both forthwith service on the 
+United States Attorney and forthwith service by regis- 
+tered mail on the Attorney General. Accordingly, the 
+court held that the lack of forthwith service warranted 
+dismissal. Id. at 686. The rationale for the decision was 
+that the forthwith service requirement constitutes a pre- 
+requisite to the United States’ waiver of sovereign immu- 
+nity. Id. at 685. 
+
+
+However, in a concurring opinion in Battaglia, Justice 
+Friendly strongly criticized the majority opinion. Id. at 
+686-87. Justice Friendly expressed his belief that Congress 
+did not intend this provision of the SAA to be considered 
+jurisdictional; he also believed that Congress intended for 
+the courts to treat the government as in cases involving 
+private party litigants, since the Act was a comprehensive 
+waiver by the United States of sovereign immunity. Id. at 
+686. Nonetheless, Justice Friendly felt compelled to con- 
+cur in the majority opinion because he “perceivied] no 
+indication of dissatisfaction with the course of decision 
+by [his] brothers sufficient to warrant requesting consid- 
+eration in banc.” Id. at 687. 
+
+
+The Ninth Circuit blindly followed the decisions of 
+the Second Circuit in Owens v. United States, 541 F.2d at 
+1388. Nevertheless, the court noted that “(t]he wisdom of 
+the Second Circuit rule might be doubted, particularly in 
+view of criticism within that court.” Id. at 1388. See also 
+Barrie v. United States, 615 F.2d 829, 830 (9th Cir. 1980) 
+(following Owens). Several years later, in Amella v. United 
+States, 732 F.2d 711, 714 (9th Cir. 1984), the court also felt 
+obligated to follow the earlier opinions on the issue, 
+
+
+14 
+
+
+noting that although it “may not like § 742”, it was 
+compelled to follow it. 
+
+
+Similarly, in Kenyon v. United States, 676 F.2d 1229, 
+1231 (9th Cir. 1981), the court followed Owens with little 
+substantive discussion. The Kenyon opinion also drew 
+criticism from Justice Boochever who wrote a concurring 
+opinion. Justice Boochever explained that it is the “first, 
+or at most the first two sentences of 46 U.S.C. § 742 
+[which] constitutes the waiver of sovereign immunity by 
+the United States” and that “[t]he subsequent sentences 
+concerning service of process constitute a procedural 
+requirement... . ” Id. at 1231. Justice Boochever also 
+suggested that were it not for the previous decisions on 
+the issue, he “would conclude that the service of process 
+provision in section 742 is procedural and has been sup- 
+plemented by the provisions of Rule 4 specifying the 
+method of service on the United States. ...” Id. at 1232. 
+
+
+More recently, the Eleventh and Fifth Circuits also 
+have adopted the view that forthwith service constitutes 
+a matter of substance unaffected by the Federal Rules. 
+Libby v. United States, 840 F.2d at 820; Holmberg, 19 F.3d at 
+1065; Henderson, 51 F.3d at 576. These courts have rigidly 
+followed the approval of the Second and Ninth Circuits 
+despite the harsh criticism and results this rule has gener- 
+ated over the years. 
+
+
+The Third Circuit, however, has used the correct and 
+more reasonable analysis. In Jones & Laughlin Steel, the 
+plaintiff filed suit on January 18, 1984, and sent notice to 
+the appropriate federal agency the next day but failed to 
+serve the Attorney General and United States Attorney 
+until late March, well within the 120 days required by 
+
+
+15 
+
+
+Rule 4 but not “forthwith” as required by the SAA. 772 
+F.2d at 66. The court logically concluded that the SAA’s 
+forthwith service requirement constituted a matter of pro- 
+cedure rather than substance. Id. at 66. In so concluding, 
+the court relied on the fact that Congress unified admi- 
+ralty procedure and the Federal Rules in 1966. 112 Conc. 
+Rec. 4053 (1966); H. Doc. 391, 89th Cong., 2d Sess. (1966). 
+Thus, the court reasoned that the provisions for service of 
+process found in Rule 4 should govern service on the 
+United States under the SAA. Specifically, the court held: 
+
+
+This congressional enactment of a uniform 120- 
+day period for accomplishing service of process 
+[under Rule 4] must be read in light of 28 U.S.C. 
+§ 2072, [the Rules Enabling Act] which states 
+that “[aJll laws in conflict with such rules shall 
+be of no further force or effect after such rules 
+have taken effect.” Rule 4(j) therefore super- 
+sedes the Suits in Admiralty Act’s requirement 
+of forthwith service. 
+
+
+772 F.2d at 66. 
+
+
+At least two district courts have adopted the Third 
+Circuit’s reasoning. Phillips, 629 F. Supp. at 971; Libby, 657 
+F. Supp. at 1252. Other district courts, though bound by 
+circuit precedents to the contrary, have expressed agree- 
+ment with the Third Circuit’s onstruction of the SAA. 
+For instance, in O'Halloran v. United States, the court 
+stated: “This Court finds the Third Circuit approach rea- 
+sonable, particularly in light of the inherently ambiguous 
+nature of the term forthwith. This Court also believes that 
+rejecting the argument that § 742 is jurisdictional leads 
+
+
+16 
+
+
+to a fairer result. However, the Ninth Circuit has consid- 
+ered and rejected this very argument.” 817 F. Supp. 829, 
+832 (N.D. Cal. 1993), aff'd, 45 F.3d 436 (9th Cir. 1994). See 
+also Hall v. Maritime Administration, Civ. Action 92-3030, 
+1993 U.S. Dist. Lexis 5753 (E.D. La. 1993) (following Fifth 
+Circuit precedent and concluding “with great reluctance” 
+that plaintiff's complaint must be dismissed); Pezzola v. 
+United States, 618 F. Supp. 544, 548 (D.C.N.Y. 1985) (dis- 
+missing the plaintiffs’ complaint because the court is 
+“confined to the Battaglia rule”). Only this Court can 
+resolve this conflict and mandate a uniform rule for the 
+timely service of process on the United States in suits 
+brought under the SAA. 
+
+
+B. The Fifth Circuit's Interpretation Of The SAA’s 
+Service Requirement As Substantive Frustrates 
+Congressional Intent. 
+
+
+1. The Provisions Of The SAA Negate An 
+Unnecessarily Strict Interpretation Of The 
+Forthwith Service Requirement. 
+
+
+The Fifth Circuit’s interpretation of the SAA’s forth- 
+with service requirement as substantive, like that of the 
+Second, Ninth, and Eleventh Circuits, fails to capture 
+Congressional intent. Prior to 1916, the government 
+enjoyed immunity from suits alleging damages inflicted 
+by government owned and operated vessels. Recognizing 
+the inequity of declining to compensate those damaged 
+by government vessels, Congress passed the Shipping 
+
+
+17 
+
+
+Act of 1916, which provided that U.S. vessels employed 
+as merchant vessels would be subject to all laws, regula- 
+tions and liabilities to which private merchant vessels 
+were subjected. Id. However, when later litigants began to 
+use in rem actions to seize government vessels, Congress 
+passed the SAA in 1920 in order to allow in personam 
+actions against the government.” In essence, Congress 
+broadened the waiver of immunity in suits involving 
+damages inflicted by public vessels by enacting the SAA. 
+
+
+From the outset, the plain language of the SAA 
+declared Congress’s intent that the government should be 
+treated in the same manner as private litigants. Section 
+743 of the SAA specifically provides that “[s]uch suits 
+shall proceed and shall be heard and determined accord- 
+ing to the principles of law and to the rules of practice 
+obtaining in like cases between private parties.” This 
+provision plainly reveals Congress’s intent to treat gov- 
+ernmental and private vessels the same. 
+
+
+Continuing to allow the government to enjoy the 
+forthwith service requirement, while private owners and 
+operators of vessels are subject to the service require- 
+ments set out in Rule 4, defeats Congressional intent in 
+enacting the SAA to place the government on equal terms 
+with private litigants. See 46 U.S.C. § 742. In fact, this 
+Court, in interpreting a different provision of the SAA, 
+noted: “Congress has expressly declared that when sued 
+under the Suits in Admiralty Act the United States is to have 
+
+
+© Ch. 451, 39 Stat. 728 (1916) (codified as amended at 46 
+U.S.C. §§ 801-842 (1982)). 
+
+7 Ch. 95, 41 Stat. 525 (1920) (codified as amended at 46 
+U.S.C. §§ 741-752 (1980)). 
+
+
+18 
+
+
+its procedural rights determined and governed in the same 
+manner as private parties.” United States v. Isthmian S.S. Co., 
+359 U.S. 314, 324 (1959) (emphasis added). The Third 
+Circuit, in deciding that Rule 4 rather than the SAA’s 
+forthwith requirement governs the time for service on the 
+United States, similarly relied on legislative intent in 
+enacting the SAA to treat the United States as a private 
+litigant. Jones & Laughlin Steel, 772 F.2d at 64. 
+
+
+Congress’s specific intent in including the “forth- 
+with” service requirement in the SAA is less clear. In fact, 
+the legislative history of the Act lacks any explanation for 
+the “forthwith” service requirement. 58 Conc. Rec., 66th 
+Cong., Ist Sess. 7317-7318, 7439-7440 (1919); 59 Conca. 
+Rec., 66th Cong., 2d Sess. 1692-1693, 1750-1759, 
+3350-3351, 3629-3631, 3690-3691 (1920). The courts hold- 
+ing that the provision is substantive cite no evidence nor 
+do they rely on legislative history. E.g., Kenyon, 676 F.2d 
+at 1231; McAllister Bros., 278 F.2d at 709-710. Their ratio- 
+nale is based exclusively on the archaic principle of a 
+limited waiver of sovereign immunity, which is only con- 
+tained in the first two sentences of § 742. Id. This unnec- 
+essarily strict interpretation of the statute frustrates 
+congressional intent that governmental liability equal 
+that of private parties. 46 U.S.C. § 743. 
+
+
+The fact that courts have read this provision as sub- 
+stantive is equally perplexing. Historically, this Court has 
+viewed service provisions which are calculated to give 
+notice as procedural in nature. Mississippi Pub. Corp. v. 
+Murphree, 326 U.S. 438, 445-446 (1946). Process has had no 
+direct effect on jurisdiction and is primarily a vehicle for 
+advising a party that he has been sued. Id.; Greene v. 
+
+
+— — + 
+
+
+19 
+
+
+Lindsey, 456 U.S. 444, 449 (1982) (“Personal service guar- 
+antees actual notice of the pendency of a legal action.”). 
+Consequently, any interpretation of the service provisions 
+of the SAA as substantive is contrary to clear precedent 
+on related matters. 
+
+
+Other provisions of the SAA also diffuse the view 
+that the forthwith service requirement is substantive and 
+not procedural. Section 745 of the SAA contains a two 
+year limitations bar which operates to defeat jurisdiction. 
+46 U.S.C. § 745. Service is not a jurisdictional prerequisite 
+for the timely “commencement” of a suit under the SAA. 
+Battaglia, 303 F.2d at 685. Therefore service should not be 
+considered as a substantive provision of the SAA. See, 
+Gregory Ressa, The Forthwith Service Requirement Of The 
+Suits In Admiralty Act, 54 ForpHam L. Rev. 1195, 1201 
+(1986). 
+
+
+Concluding that the forthwith service requirement is 
+anything other than procedural seems particularly illogi- 
+cal in light of the other service requirements found in the 
+SAA. Justice Boochever illustrates this point in his con- 
+currence in Kenyon: 
+
+
+Section 742 [of the SAA] specifies even the man- 
+ner of mailing “by registered mail to the Attor- 
+ney General of the United States.” Certainly that 
+provision is not to be considered as jurisdic- 
+tional and would be superseded by the Federal 
+Rule provision that states that a copy of the 
+
+
+20 
+
+
+summons and complaint may be sent by “regis- 
+tered or certified mail to the Attorney General of 
+the United States.” 
+
+
+676 F.2d at 1232. 
+
+
+Indeed, in 1960, Congress broadened the scope of the 
+waiver of sovereign immunity by removing the restric- 
+tion as to merchant vessels.* The amendments also autho- 
+rized the transfer of cases between the U.S. district courts 
+and the court of claims. S. Rep. No. 1894, 86th Cong., 2d 
+Sess. (1960). The purpose of the amendments was “to 
+make certain as possible that suits brought against the 
+United States . . . through breach of contract or tort can be 
+originally filed in the correct court so as to proceed to 
+trial promptly on the merits.” Id. at 2. Because counsel 
+often unavoidably chose an inappropriate form, the bill 
+was enacted to prevent dismissal of suits which would 
+otherwise become time barred. The Senate Committee on 
+the Judiciary, in recommending the passage of the 
+amendments also noted that “[t]he reform of existing 
+practice embodied in [the] bill is another expression of 
+the underlying philosophy of the federal rules of civil 
+procedure and of modern legal practice generally, that the 
+decisive question in a lawsuit should, as far as possible, 
+be its merits and not esoteric, technical problems of pro- 
+cedure.” Id. at 7. Through these amendments, Congress 
+again expressed its intent to reduce any chance of pro- 
+cedural traps which would prejudice private litigants. 
+
+
+8 Act of Sept. 13, 1960, Pub. L. No. 86-770, § 3, 74 Stat. 912 
+(codified at 46 U.S.C. § 742 (1982)). 
+
+
+21 
+
+
+As noted above, some courts have suggested that the 
+SAA’s forthwith service requirement constitutes an inte- 
+gral part of the government's waiver of sovereign immu- 
+nity, and that Congress intended that immunity be 
+maintained when service on the government is not forth- 
+with. E.g., Battaglia, 303 F.2d at 685; Kenyon, 676 F.2d at 
+1232. This view of the forthwith requirement stems from 
+the rule of statutory construction that “statutes which 
+waive immunity of the United States from suit are to be 
+construed strictly in favor of the sovereign.” McMahon v. 
+United States, 342 U.S. 25, 27 n.5 (1951). No rule of statu- 
+tory construction requires, however, that each term 
+within a statute waiving immunity be strictly construed. 
+In fact, this Court has noted that narrowly construing 
+specific terms of such a statute can defeat Congress's 
+general intent to waive immunity. In Indian Towing Co. v. 
+United States, this Court warned against “import[ing] 
+immunity back into a statute designed to limit it.” 350 
+U.S. 61, 69 (1955).° 
+
+
+Even Justice Friendly, who concurred in an opinion 
+holding that the forthwith requirement constitutes an 
+integral part » the government's waiver of immunity, 
+remarked: 
+
+I should have supposed that, once Congress 
+
+
+gave the basic consent to sue the United States, 
+as it did in the first sentence of § 2 of the Suits in 
+
+
+* Echoing this Court’s warning in Indian Towing, the court 
+in Weiss v. United States, 168 F. Supp. 300, 301 (D.N.J. 1958), 
+emphasized that a presumption in favor of immunity “does not 
+mean that there must be a niggling and obnubilative adherence 
+to the narrowest meaning of the words of the Act when the 
+patent intent of Congress [is to waive immunity. }” 
+
+
+22 
+
+
+Admiralty Act, it was content to have the courts 
+decide the effect of various procedural lapses in 
+the same manner as “if such vessel were pri- 
+vately owned or operated.” The Act was “a 
+comprehensive waiver by the + ited States” 
+whereby “the government, in entering the ship- 
+ping world as a participant, simply assumes a 
+normal role in the antecedent pattern.” 
+
+
+Battaglia, 303 F.2d at 686 (citation omitted) (quoting Gu- 
+mMoRE & Biackx, Apmiratty 773-774 (1957)). Consequently, 
+this Court should conclude that the procedures in Rule 4 
+govern actions brought under the SAA. 
+
+
+2. Because The Federal Rules Of Procedure 
+Were Not In Effect At The Time Of Enact- 
+ment Of The SAA, The Service Provisions 
+In Rule 4 Are Controlling. 
+
+
+Congress's more likely intent for including the forth- 
+with requirement in the SAA was simply to provide a 
+time frame for service because no external rule regarding 
+the timeliness of service existed when Congress enacted 
+the SAA in 1920. The Federal Rules of Procedure were not 
+enacted until 1938."° These rules were adopted to 
+“materially reduce the uncertainty, delay, expense and 
+
+
+© By the Act of June 19, 1934 (the Rules Enabling Act), Ch. 
+651, 48 Stat. 1064, the Supreme Court was authorized to pre- 
+scribe general rules of civil procedure for the district courts. The 
+original rules, pursuant to the 1934 Act, were adopted by order 
+of this Court on December 20, 1937, transmitted to Congress by 
+the Attorney General on January 3, 1938, and became effective 
+on September 16, 1938 (83 Conc. Rec., pt. 1, p. 13; H. Doc. 460, 
+75th Cong., 3d Sess. (1938)). 
+
+
+23 
+
+
+the likelihood that cases may be decided on technical 
+points of procedure which had no relation to the just 
+determination of the controversy on its merits.” H. R. Rer. 
+No. 2743, 75th Cong., 3d Sess. 3 (1938). The 1938 notes of 
+the Advisory Committee pertaining to Rule 4 state that 
+the Rule is intended to “provide a uniform and compre- 
+hensive method of service for all actions against the 
+United States or an officer or agency thereof.” H. Doc. 
+588, Nores To tHe Rutes or Crvi. Procepure Por THE District 
+Courts or tHe Unrrep States, 75th Cong., 3d Sess., at 5 
+(1938). 
+
+
+In 1966, the federal rules were amended and applied 
+to admiralty suits. 112 Conc. Rec. 4053 (1966); H. Doc. 
+391, 89th Cong., 2d Sess. (1966). The rules then “gov- 
+ern(ed] the procedure in the United States district courts 
+in all suits of a civil nature whether cognizable as cases at 
+law or in equity or in admiralty.” These amendments 
+were “designed to unify the civil and admiralty pro- 
+cedure,” and together with the Supplemental Rules for 
+Maritime and Admiralty claims completely superseded 
+the admiralty rules. H. Doc. 391, 89th Cong., 2d Sess., at 
+23 (1966). The Advisory Committee’s notes to the 
+amended rules stated that the change was intended to 
+“abolish the distinction between civil actions and suits in 
+admiralty.” Id. at 24. 
+
+The fact that the federal rules did not apply to admi- 
+ralty suits until 1966 was a crucial part of the analysis of 
+the court in Jones & Laughlin Steel. Indeed, it is significant 
+that the leading authority construing the SAA‘s forthwith 
+requirement was decided prior to the application of the 
+federal rules to admiralty suits. E.g. McAllister Bros., 278 
+F.2d at 708; Battaglia, 303 F.2d at 683. After Congress 
+
+
+24 
+
+
+combined civil and admiralty procedure, the Ninth, Fifth, 
+and Eleventh circuits nonetheless rigidly followed the 
+authority of the Second Circuit without an analysis of the 
+amendments to the federal rules. See, Owens, 541 F.2d at 
+1386; Holmberg, 19 F.3d at 1065; Libby, 840 F.2d at 818. 
+
+
+Justice Boochever, in his concurrence in Kenyon, also 
+touted the view that Rule 4 succeeds the forthwith service 
+requirement because of the absence of procedural rules at 
+the time of the enactment of the SAA. 676 F.2d at 1231. 
+Specifically, he states: 
+
+
+{I}f freed from the bounds of stare decisis, I 
+would hold that the service provision of Section 
+742 [the forthwith requirement] does not consti- 
+tute an integral part of the substantive waiver of 
+sovereign immunity, but is a mere procedural 
+provision necessary at the time of the statute’s 
+enactment, to effectuate that waiver. 
+
+
+Id. at 1232. For these reasons, the more likely intent of 
+Congress in including the forthwith service requirement 
+in the SAA in 1920 was to provide a procedural guideline 
+because there were no uniform federal rules of procedure. 
+Once the Federal Rules were enacted, and made applica- 
+ble to admiralty suits, they supplanted the SAA’s con- 
+trary forthwith requirement. 
+
+
+25 
+
+
+3. Similar Statutes Which Were Enacted In 
+Order To Effectuate A Waiver Of Immunity 
+Also Compel The Court’s Adopiion Of The 
+Jones & Laughlin Steel Analysis. 
+
+
+Reference to similar statutes which effectuate a 
+waiver of sovereign immunity also compels the conclu- 
+sion that Rule 4 take precedence over the provisions of 
+the SAA. In 1926, Congress enacted the Public Vessels Act 
+(PVA) which waived sovereign immunity with respect to 
+public as well as merchant vessels. Act of March 3, 1925, 
+ch. 428, 43 Stat. 1112.'' The PVA provided that suits 
+brought under the ~ct “shall be subject to and proceed in 
+accordance with the provisions of [the SAA].” Id. In 1946, 
+Congress then enacted the Federal Tort Claims Act 
+[FTCA] which governed maritime torts committed by the 
+government, except for those torts for which a remedy 
+was provided by the SAA or PVA. Act of Aug. 2, 1946, ch. 
+753, §§ 401-424, 60 Stat. 842.2 
+
+
+By enacting the FTCA, which waived sovereign 
+immunity for all other torts not covered by the SAA or 
+PVA, Congress created causes of action against the gov- 
+ernment that previously had not existed. All three of 
+these statutes, the FTCA, the SAA, and the PVA, cover the 
+gamut of tort claims against the government and are 
+mutually exclusive.'? Keene Corp. v. U.S., 700 F.2d 836, 843 
+(2d Cir. 1983), cert. denied, 464 U.S. 864 (1984). In constru- 
+ing the FTCA, this Court has warned against “read[ing] 
+
+
+1! Current version at 46 U.S.C. §§ 781-790 (1982). 
+12 Now 28 U.S.C. §§ 1346(b), 2671-2680 (1982). 
+
+
+3 The FTCA expressly provides in section 2680(d) that it 
+does not apply to suits in admiralty against the United States. 
+
+
+26 
+
+
+exemptions into the [FTCA] beyond those provided by 
+Congress,” United States v. Muniz, 374 U.S. 150, 166 
+(1963), and instructed that the FTCA is to be given a 
+construction which will accomplish the legislative aim of 
+relaxation of the rigor of sovereign immunity from suit. 
+Dalehite v. United States, 346 U.S. 15, 30-31 (1953). Accord- 
+ingly, this Court should adopt the same broad interpreta- 
+tion of the SAA as in the case of the FTCA. See, 54 
+ForDHAM L. Rev. at 1200. 
+
+
+Equally persuasive is the fact that the FTCA is gov- 
+erned by and even incorporates Rule 4 of the federal 
+rules. 28 U.S.C. § 2679; E.g., Lambert v. United States, 44 
+F.3d 296 (5th Cir. 1995); Hunt v. Dep't of Air Force, 29 F.3d 
+583 (11th Cir. 1994). If Congress therefore intended for 
+the federal rules to govern procedure under the FTCA, 
+there is no reason why the same procedure should not 
+govern suits under the SAA. This Court has held that 
+courts must interpret statutes on similar subjects with 
+reference to each other.'* Kokoszka v. Belford, 417 U.S. 642, 
+650 (1974). In other words, there is no reason why Con- 
+gress would treat those injured at sea differently than 
+those injured on land as far as service requirements are 
+
+
+14 One commentator has suggested that these statutes 
+should be construed in pari materia because they relate to tort 
+actions against the government. See 54 Forpriam L. Rev. at 1207. 
+“Construing the SAA and the FTCA in pari materia will lead 
+courts to recognize that since Congress has intended these 
+waivers to be interpreted liberally, courts should not regard the 
+forthwith provision of the SAA as a jurisdictional precedent but 
+rather a procedural device.” Id. at n.48. 
+
+
+27 
+
+
+concerned. Such a distinction is particularly troublesome 
+given that seamen are considered “wards of admiralty.” 
+Cortes v. Baltimore Insular Line, 287 U.S. 367, 377 (1932). 
+
+
+Similarly, reference to the Tucker Act,!5 a predecessor 
+of the FTCA, also supports the inescapable conclusion 
+that Rule 4 governs actions under the SAA. The Tucker 
+Act creates jurisdiction in the United States Court of 
+Federal claims and waives the government's sovereign 
+immunity as to money damages for constitutional viola- 
+tions. 28 U.S.C. § 1491. When the federal rules of pro- 
+cedure became effective in 1938, the Tucker Act contained 
+similar service provisions as those in the SAA. See 28 
+U.S.C. § 763 (1940 ed.). However, these service provisions 
+were preempted by the enactment of Rule 4. Indeed, the 
+Advisory Committee Notes to Rule 4 specifically listed 
+section 763 among other statutes providing for service 
+and stated that “[t}hese and similar statutes are modified 
+in so far as they prescribe a different method of service or 
+dispense with the service of a summons.” H. Doc. 588, 
+supra. 
+
+
+Similarly, courts considering conflicts between the 
+new rules of procedure and various provisions of the 
+Tucker Act concluded that the rules governed. See Schram 
+v. Koppin, 35 F. Supp. 313, 314 (E.D. Mich. 1940); Sherwood 
+v. United States, 112 F.2d 587, 590 (2d Cir. 1940), rev'd on 
+other grounds, 312 U.S. 584 (1941). In resolving a conflict 
+
+
+Ch. 359, 24 Stat. 505 (1887); see also, 28 U.S.C. § 1346(a) 
+(1982). 
+
+
+28 
+
+
+between service provisions in the Tucker Act!® and Rule 
+4, the Eastern District of New York determined that the 
+latter governed. United States v. American Surety Co., 25 F. 
+Supp. 700, 702 (E.D.N.Y. 1938). Specifically, the court 
+stated: “It is to be presumed that the Supreme Court 
+considered the problem of whether or not Sections 762 
+and 763 of 28 U.S.C.A. [the Tucker Act] were procedural 
+or substantive and concluded that the procedure outlined 
+therein could be altered by the new rules.” Id. By analogy, 
+this Court should also find that the service provisions in 
+the SAA are governed by Rule 4. 
+
+
+4. Under The Rules Enabling Act, A Federal 
+Rule Preempts A Federal Statute Governing 
+Procedure. 
+
+
+The provisions of the Rules Enabling Act also militate 
+in favor of a finding by this Court that Rule 4 supersedes 
+the service provisions of the SAA. Act of June 19, 1934, 
+ch. 651, § 1, 48 Stat. 1064. The Enabling Act was based on 
+the Clayton Bill, first introduced in the House of Repre- 
+sentatives in 1912.7 The Clayton Bill specifically autho- 
+rized the Supreme Court to prescribe “the mode and 
+manner... of giving notice and service of process of all 
+
+
+16 The Tucker Act provided that upon filing his petition the 
+“plaintiff shall cause a copy of his petition . . . to be served upon 
+the district attorney . . . and shall mail a copy of the same, by 
+registered letter, to the Attorney-General of the United States, 
+and shall thereupon cause to be filed with i> clerk of the court 
+... an affidavit of such service and the mailing of such letter.” 28 
+U.S.C. § 763 (1940 ed.). 
+
+
+17 H.R. 26,462, 62nd Cong., 3d Sess. (1912), reprinted in 38 
+A.B.A. Rep. 542 (1913). 
+
+
+29 
+
+
+kinds.” Id. In 1914, the House Committee recommended 
+the Clayton Bill’s passage with an additional provision. 
+The Committee recommended that language be included 
+to the effect that all conflicting laws would become of no 
+further force and effect. The Committee concluded that 
+an express statutory repeal of inconsistent existing stat- 
+utes was not only desirable, but “necessary.” '*® 
+
+
+The Clayton Bill eventually evolved into the Rules 
+Enabling Act of 1934.!9 The Act provides that the court 
+rule “shall neither abridge, enlarge, nor odify the sub- 
+stantive rights of any litigant.” 28 U.S.C. § 2072. The Act 
+also states that “ .. . all laws in conflict therewith shall be 
+of no further force or effect.” Id. Once enacted, the rules 
+of procedure acquired the force of federal statutes “con- 
+trolling all district courts.” Sibbach v. Wilson & Co., 312 
+U.S. 1, 13 (1941). It is thus clear that Congress intended a 
+valid federal rule to supersede an inconsistent federal 
+statute. 
+
+
+The details of service of process are precisely the type 
+of procedural requirements the Federal Rules of Civil 
+Procedure were designed to supplant. In fact, this Court 
+has previously considered a conflict between Rule 4 ser- 
+vice requirements and a contrary state statute in an anal- 
+ogous case. In Hanna v. Plumer, this Court decided that 
+
+
+18 See H.R. Rep. No. 462, 63d Cong., 2d Sess. 1, 16 (1914); 
+Hearincs On ABA Butts Berore THE House Como. ON THE JUDICIARY, 
+63d Cong., 2d Sess. 22 (1914). 
+
+
+9 See S. Rep. No. 1049, 73d Cong., 2d Sess. (1934); H.R. Rer. 
+No. 1829, 73d Cong., 2d Sess. (1934); 78 Conc. Rec. 9362-63, 
+10,866 (1934). Also see Stephen Burbank, The Rules Enabling Act 
+of 1934, 130 U. Pa. L. Rev. 1015, 1050-1098 (1982). 
+
+
+30 
+
+
+Rule 4, in allowing substituted service on an executor by 
+leaving the process at his usual place of abode, sup- 
+planted a contrary state rule requiring in-hand service 
+upon an executor. 380 U.S. 460 (1965). The rationale 
+behind the decision in Hanna was that such details consti- 
+tuted matters of procedure governed by the Federal 
+Rules. Id. at 473. 
+
+
+The analysis employed by the court in Hanna is also 
+relevant to the conflict between the provisions of the SAA 
+and Rule 4 in this case. In Hanna, this Court applied a two 
+step analysis in determining whether the federal rules 
+conflicted with prior law. First, this Court found that the 
+conflicting rules must be examined. Under the first prong 
+of the test, the “forthwith” requirement of the SAA and 
+Rule 4 service requirements are clearly repugnant since 
+courts have construed the term “forthwith” as considera- 
+bly shorter than the 120 days allowed by Rule 4. If the 
+rules have the same purpose, then one must be given 
+preference over the other. Id. at 462-463; also see 54 
+ForDHAM L. Rev. 1205-1206. 
+
+
+The second inquiry is whether the federal rule is 
+within the Supreme Court’s authority under the Rules 
+Enabling Act and is constitutional. Id. at 464, 472. If so, 
+then it is a valid rule superseding the conflicting rule. 
+Because Congress has the inherent power to make rules 
+governing practice and procedure in federal courts, id. at 
+472, this statutory scheme is constitutional. Rule 4(j) also 
+falls within the Supreme Court’s power under the 
+Enabling Act because it does not effect the substantive 
+rights of any litigant. Accordingly, Rule 4(j) is a valid 
+federal rule which supersedes the “forthwith” provision 
+of the SAA. 
+
+
+31 
+
+
+5. Alternatively, Rule 4 Was Enacted Pursuant 
+To The Federal Rules Of Civil Procedure 
+Amendments Act Of 1982 And Superseded 
+The Provisions Of The SAA. 
+
+
+The circumstances surrounding the enactment of 
+Rule 4 also compel a finding that Rule 4 supplants the 
+provisions of the SAA. The Federal Rules of Civil Pro- 
+cedure are usually not the product of direct congressional 
+legislation. As a general rule, the federal rules are pro- 
+mulgated by this Court pursuant to the Rules Enabling 
+Act, 28 U.S.C. § 2072. Historically, Congress has acceded 
+to the recommendations of the Supreme Court and 
+adopted the rules as drafted by this Court. However, in 
+adopting the 120-day requirement of Rule 4 in 1982, 
+Congress exercised its power to reject the changes pro- 
+posed by the Supreme Court and instead rewrote Rule 4 
+legislatively. 
+
+
+On April 28, 1982, this Court transmitted to Congress 
+several proposed amendments to the Federal Rules of 
+Procedure including the amendments to Rule 4 with the 
+120 day service requirement.2? These amendments were 
+to have taken effect on August 1, 1982. However, because 
+of numerous complaints concerning proposed Rule 4,7! 
+Congress then enacted Public Law 97-227, postponing the 
+effective date of the proposed amendments to Rule 4 until 
+October 1, 1983. All other amendments to the Rules of 
+Procedure took effect on August 1, 1982 as scheduled. 
+
+
+20 See 128 Conc. Rec. 30930 (1982); H. Doc. 173, 75th Cong., 
+3d Sess. (1982). 
+
+
+21 H.R. Rep. No. 662, 97th Cong., 2d Sess. (1982). 
+
+
+32 
+
+
+In response to the widespread criticism of Rule 4, 
+Congress then rejected the amendment outright and went 
+to work in drafting its own rule. See David Siegel, Practice 
+Commentary on Amendment of Federal Rule 4 (eff. Feb. 6, 
+1983) with Special Statute of Limitations Precautions, 96 
+F.R.D. 88, 92 (1983). Congressman Don Edwards of Cali- 
+fornia and Congressman McClory of Illinois introduced a 
+bill to address in part the fact that the rule proposed by 
+the Supreme Court did not address situations where ser- 
+vice was defective through no fault of the party request- 
+ing service. H.R. Rep. No. 662, at p. 4; 128 Conc. Rec. 
+30929-30934 (1982). Congress then passed the Federal 
+Rules of Civil Procedure Amendments Act of 1982 and 
+exercised its inherent power to reject the changes pro- 
+posed by the Supreme Court. See H.R. 7154, 97th Cong,., 
+2d Sess. (1982); 128 Conc. Rec. 30929-30937, 32476-32477, 
+32904-32905, 33132 (1982). The present rule 4, including 
+the 120 day service requirement and “good cause” excep- 
+tion, is the amendment drafted by Congress and not this 
+Court. Pub. L. 97-462, § 2, 96 Stat. 2527 (1983). 
+
+
+When the court in Amella, supra, questioned the 
+“dubious assumption” that the Federal Rules of Civil 
+Procedure could amend an act of Congress, 732 F.2d at 
+713, the court did not even consider the fact that Rule 4 
+was drafted by Congress. Implicit in the court’s reasoning 
+in Amella and other circuit decisions in which the courts 
+have found the “forthwith” requirement to be substan- 
+tive, is that such rights cannot be altered except by Con- 
+gress. However, this is precisely what Congress did in 
+1982 when it rewrote Rule 4 legislatively. Also see George 
+Walker, The 1983 Amendments to Federal Rule of Civil Pro- 
+cedure 4 — Process, Jurisdiction, and Erie Principles Revisited, 
+19 Wake Forest L. Rev. 957 (1983) (stating that “Rule 4(j) is 
+
+
+33 
+
+
+a statutory command under the Federal Rules of Civil 
+Procedure Amendments Act of 1982, which is of equal 
+dignity with the Enabling Act”). 
+
+
+General principles of statutory construction further 
+support the view that Rule 4(j) applies, and was intended 
+to apply, generally to all actions filed in federal courts. 
+When a general statute is enacted after a specific statute 
+and is incompatible with the earlier specific statute, it is 
+construed to supersede the specific statute. Preiser v. 
+Rodriguez, 411 U.S. 475, 489-90 (1973). Furthermore, prior 
+specific statutes are considered repealed by implication 
+“when a comprehensive revision of a particular subject is 
+promulgated. ...” 1A J. SUTHERLAND, StaTuTORY CONSTRUC- 
+TION, § 23.15, at 376 (Sth ed. 1992). 
+
+
+When Congress established a 120-day period within 
+which a complaint could be served, Congress intended to 
+bring uniformity to the timeliness of service issue. Congress 
+is presumed to be aware of existing statutes and judicial 
+decisions when it enacts new legislation, and is presumed to 
+intend to achieve a consistent body of law. See Miles v. Apex 
+Marine Corp., 498 U.S. 19, 32 (1990). Thus, when Rule 4 was 
+enacted, Congress is presumed to have been aware of the 
+“forthwith” service provision in the SAA and the decisions 
+construing that statute. If Congress intended there to be any 
+exception to the general rule it was prescribing, it certainly 
+could have created exceptions to Rule 4. However, no such 
+intention appears in the language of Rule 4 or in the legisla- 
+tive history of the Rule. E.g., 128 Conc. Rec. 30929-30937, 
+32476-32477, 32904-32905, 33132 (1982). Because Rule 4 was 
+legislatively written by Congress, this Court should conclude 
+that it replaces the “forthwith” service provision. 
+
+
+34 
+
+
+C. The Fifth Circuit’s Interpretation Of The SAA’s 
+Service Requirements Leads To Inconsistent 
+Results. 
+
+
+Application of the forthwith service requirement 
+rather than Rule 4’s 120-day requirement leads to incon- 
+sistent results because the term “forthwith,” in the words 
+of one court is “inherently ambiguous.” O'Halloran, 817 F. 
+Supp. at 831. Courts across the country vary widely in 
+their determinations of what is and what is not forthwith 
+service. E.g., Holmberg, 19 F.3d at 1065 (holding that ser- 
+vice on the United States 106 days following filing suit 
+was not forthwith); Kenyon, 676 F.zd at 1231 (holding that 
+service on the United States 60 days after filing suit was 
+not forthwith); Owens, 541 F.2d at 1388 (holding that 
+service on the United States 58 days after filing suit was 
+not forthwith); O'Halloran, 817 F. Supp. at 831 (holding 
+that service on the United States 77 days after filing suit 
+was not forthwith); Libby, 657 F. Supp. at 1253 (holding 
+that service on the United States 21 days after filing suit 
+was forthwith). This bewildering variation among the 
+courts in interpreting the term “forthwith” serves only to 
+confuse litigants. 
+
+
+Prior to the 1982 amendments to Rule 4, the timeli- 
+ness of service of process was judged by a “due dili- 
+gence” standard, except in cases under the SAA. Stanga v. 
+McCormick Shipping Corp., 268 F.2d 544, 550 (Sth Cir. 
+1959); Grammenos v. C.M. Lemos, 457 F.2d 1067, 1070 (2d 
+Cir. 1971). While “due diligence” and the “forthwith” 
+language of the Act were defined differently by the 
+courts, both shared a common infirmity: neither had a 
+
+
+35 
+
+
+clear definition of what was “due diligence” and “forth- 
+with.” This Court has often noted that courts and liti- 
+gants are best served by bright-line rules, especially in 
+cases involving harsh consequences such as the loss of a 
+right to proceed to trial on the merits. E.g., Houston v. 
+Lack, 487 U.S. 266, 267 (1988) (adopting bright-line rule 
+recognizing inmate's notice of appeal filed upon receipt 
+by prison authorities); Budinich v. Becton Dickenson & Co., 
+486 U.S. 196, 202 (1988) (“courts and litigants are best 
+served by the bright-line rule, . . . that a decision on the 
+merits is a ‘final decision’ for purposes of § 1291"). By 
+enacting the 120-day service requirement, Congress obv:- 
+ously intended to uniformly define the term for service in 
+all federal litigation. 
+
+
+The lack of uniformity among the courts concerning 
+the amount of time which is “forthwith” under the SAA 
+also raises due process and equal protection concerns. 
+U.S. Const. Amend. V. Nothing in the language of Rule 
+4(j) or in the rules’ legislative history suggests a legisla- 
+tive intent to exclude any class of federal actions from the 
+120-day service requirement, with the exception of ser- 
+vice in a foreign country. In fact, there does not appear to 
+be any other category of federal actions involving the 
+United States that is not subject to Rule 4(j). E.g., Lambert, 
+44 F.3d at 296 (applying Rule 4 in suit based on the 
+FTCA). Likewise, unwary litigants who fail to effect ser- 
+vice “forthwith” are precluded from receiving a trial on 
+the merits. 
+
+
+If Congress intended Section 742 to survive the enact- 
+ment of Rule 4, that intention would at least be discern- 
+able from the language of the Rule or its legislative 
+history. The “forthwith” requirement not only thwarts the 
+
+
+% 
+
+
+will of Congress, but produces a result contrary to the 
+well-settled legislative and judicial policy of treating sea- 
+men as “wards of admiralty,” whether they work on 
+public or private vessels. See ¢e.g., THe Jones Act, 46 U.S.C. 
+§ 688; Garrett v. Moore-McCormack Co., 317 U.S. 239, 246 
+(1942). Certainly, Congress did not intend that seamen 
+should find themselves subjected to a harsh and nebulous 
+time limit for instituting their federal court actions from 
+which their land-based brethren had been freed. 
+
+
+Arguably, when the SAA was enacted, Congress left 
+the term “forthwith” deliberately undefined in order to 
+allow the courts to determine “reasonableness” under the 
+particular circumstances.2 However, Rule 4 now pro- 
+vides a definite time limit which courts must implement 
+in defining reasonableness under the circumstances; ser- 
+vice of process occurring more than 120 days after the 
+filing of a complaint is not diligent unless “good cause” is 
+shown. At least one court has suggested that “even if 
+Rule 4(j) does not supersede 46 U.S.C. § 742, reading the 
+two in conjunction would seem to establish 120 days as 
+an outside limit against which to judge the timeliness of 
+service.” Libby, 657 F. Supp. at 1253. 
+
+Even those courts that have employed the forthwith 
+
+
+service requirement have expressed the opinion that the 
+requirement failed to promote justice. In Amella, 732 F.2d 
+
+
+22 Black's Law Dictionary defines “forthwith” as “within a 
+reasonable time under the circumstances of the case.” Brack’s 
+Law Dicrnonary, 588 (Sth ed. 1979). 
+
+
+37 
+
+
+at 712, the Ninth Circuit affirmed the dismissal of a case 
+that was not served “forthwith” with these remarks: 
+
+
+Lawyers unfamiliar with the ways of admiralty 
+or careless on their watch will encounter this 
+statute as a hidden reef that can be a jurisdic- 
+tional bar to an otherwise meritorious suit. . . . It 
+is a sad case. . . . One of the “problems which a 
+legal system must face is a combination of a due 
+regard for claims of substantial justice with a 
+system of procedure rigid enough to be work- 
+able,” but § 742 appears to strike the balance too 
+far in favor of formalism, to the detriment of 
+justice. . . . If Congress were to take the statute 
+off the books, we should feel no remorse; but 
+until Congress awakes to action, we are bound 
+by the statutory requirement. 
+
+
+Id. at 712, 714 (quoting 2 Howposwortn, A History oF 
+Encusw Law 196 (1909)). 
+
+
+Likewise, the court in Libby, supra, when adopting the 
+Third Circuit's holding that Rule 4 supplants the SAA’s 
+forthwith requirement stated: 
+
+
+Adoption of this holding avoids the unnecessary 
+delay and expense of |.cigation in cases of this 
+type over whether a certain number of days is 
+“forthwith” within the meaning of 46 U.S.C. 
+§ 742 [The SAA]. The policies of deciding cases 
+on their merits and fostering judicial economy 
+are better served by the definitive 120 day time 
+limit established by Rule 4(j). . . . [T]his Court 
+can see no reason to judicially maintain this trap 
+for the unwary. 
+
+
+657 F. Supp. at 1252-53. Only this Court's adoption of 
+Rule 4 in suits under the SAA can end the drastic varia- 
+tions among the lower courts in determining what consti- 
+tutes forthwith service. 
+
+
+Il. The Fifth Circuit's Interpretation Of The SAA’s Ser- 
+vice Requirements Restricts The District Courts’ 
+Power To Extend The Time For Service Under Any 
+Circumstances. 
+
+
+The Fifth Circuit held that the district court's exten- 
+sion of the time for service in this case had no effect 
+because the SAA’s forthwith service requirement is juris- 
+dictional in nature. 51 F.3d at 576. In other words, accord- 
+ing to the Fifth Circuit, district courts lack the power to 
+extend the forthwith service requirement under any cir- 
+cumstances. Thus, even the government's own failure to 
+provide the necessary summons will not serve as a basis 
+for enlarging the time to properly effect service. 
+
+
+Even if the forthwith service requirement applies to 
+suits brought under the SAA, rather than Rule 4, the 
+district courts should maintain the power to extend the 
+time for service in appropriate circumstances. The Fifth 
+Circuit previously addressed an analogous issue in 
+McCormick v. United States, 680 F.2d 345 (1982). That case 
+involved a suit under the SAA brought against the United 
+States after the statutory limitations period had elapsed. 
+The United States argued that because the SAA reflects a 
+waiver of sovereign immunity, the limitations period 1s 
+jurisdictional in nature and cannot be tolled under any 
+circumstances. Id. at 350. The Fifth Circuit rejected the 
+United States’ argument, relying heavily on this Court's 
+
+
+39 
+
+
+decision in American Pipe & Construction Co. v. Utah, 414 
+U.S. 538 (1974). 
+
+
+In addressing the issue of whether a limitations 
+period in a federal statute providing a new cause of 
+action could be tolled, this Court in American Pipe con- 
+cluded: 
+
+
+[T}he mere fact that a federal statute providing 
+for substantive liability also sets a time limita- 
+tion upon the institution of suit does not restrict 
+the power of the federal courts to hold that the 
+statute of limitations is tolled under certain cir- 
+cumstances not inconsistent with the legislative 
+purpose. 
+
+
+Id. at 559. Heeding American Pipe, the Fifth Circuit held in 
+its own decision on the issue: 
+
+
+We cannot accept the government's position, 
+and the district court's holding that the SAA 
+limitations provisions can never be tolled. We 
+hold that the two-year limitation on suits under 
+the SAA can be tolled under appropriate cir- 
+cumstances where to do so would not defeat the 
+purpose of the provision, which is to encourage 
+those with claims against the United States to 
+present their claims promptly and diligently, 
+and where injustice to the plaintiff would other- 
+wise result. 
+
+
+McCormick, 680 F.2d at 351. Likewise, federal courts 
+should possess the power to extend the forthwith service 
+requirement under the SAA in appropriate circumstances 
+despite the fact that the SAA’s forthwith service require- 
+ment may be jurisdictional in nature. 
+
+
+The facts of this case further illustrate the need for a 
+precise rule which would allow the courts to extend the 
+time period for service in suits under the SAA. Here, 
+Henderson immediately requested the appropriate sum- 
+mons forms from the district clerk's office at the time he 
+filed his complaint on April 3, 1993 (App. 42, 51). How- 
+ever, it was the district clerk’s own lack of diligence and 
+failure to include the proper seal on the summons which 
+resulted in the delay in service upon the government 
+(App. 42, 51-52, 57-64). In fact, Mr. Henderson's counsel 
+was not notified until June 1, 1993 about the defect in the 
+summons because of the absence of the court's seal (App. 
+52, 57-58). Although new summons forms were imme- 
+diately requested by Mr. Henderson's counsel upon 
+learning of the defect, the substitute summons forms 
+were not received until August 25, 1993, again because of 
+delay by the district clerk's office (App. 52, 59-64). It 
+would be ironic indeed to disallow a litigant to receive 
+additional time to effect service upon the government 
+when it is the government's own delay which resulted in 
+the need for that extension. 
+
+
+Furthermore, a refusal to allow courts to grant exten- 
+sions under appropriate circumstances undermines the 
+underlying purpose of serving a defendant with process: 
+that is, to provide litigants with notice of a pending 
+lawsuit. For example, in the present case, Mr. Henderson 
+sustained his injuries on August 27, 1991, and filed his 
+lawsuit on April 8, 1993, well within the limitations 
+period (App. 5-12). However, his case was dismissed 
+because he was not able to effect service until September 
+3, 1993, only a few days after limitations expired (Pet. 
+App. 8). On the other hand, a litigant who waits until the 
+
+
+41 
+
+
+- 
+
+
+day before the limitations period expires, and who then 
+takes an additional thirty days to effect service, would be 
+able to maintain his suit under existing law. In other 
+words, the government is first put on notice of the suit 
+and served under the second scenario at a later date than 
+what exists in this case, yet that suit is presumed valid 
+while Mr. Henderson's lawsuit is not.*° Simply stated, the 
+law lends itself to arbitrary and unjust results, and it fails 
+to promote the policy of preventing stale claims. 
+
+
+Equally frustrating is the fact that still other admi- 
+ralty litigants who inadvertently file their complaint 
+based upon the incorrect statute can avoid the “forth- 
+with” requirement. For example, in Ashland v. Ling-Temco- 
+Vought, Inc., 711 F.2d 1431, 1436 (9th Cir. 1983), the court 
+considered a situation where although the case was filed 
+five days before the statute of limitations expired, service 
+of process did not occur until over one hundred days 
+later. The plaintiff had also erroneously filed his claim 
+based upon the Federal Tort Claims Act instead of the 
+SAA. Id. at 1436. The trial court allowed the plaintiff to 
+amend his complaint to state a proper basis for jurisdic- 
+tion under the SAA, and the court of appeals affirmed 
+that decision. The court found that the plaintiff’s original 
+failure to comply with the forthwith service requirement 
+of the SAA was irrelevant because the plaintiff's subse- 
+quent filing and service were properly allowed under 
+existing law to relate back to the original filing under 
+
+
+* In fact, in this case, the government was first put on 
+notice of Mr. Henderson's lawsuit when the Attorney General 
+was served on May 25, 1993 (App. 42, 52), more than three 
+months before the two-year statute of limitations ran. 
+
+
+42 
+
+
+Rule 15(c). Id. Consequently, under the present state of 
+the law, “the poorer pleader” will be able to maintain his 
+suit, while another litigant who stated a proper basis for 
+jurisdiction would not. Libby, 657 F. Supp. at. 1253 n.4. 
+
+
+In this case, given the difficulties Mr. Henderson 
+faced in serving the United States, the district court con- 
+sidered an extension of time appropriate. The district 
+court’s evaluation of the circumstances should be 
+respected even if the forthwith requirement governs the 
+time for service under the SAA. Allowing an extension in 
+appropriate circumstances does not defeat the purpose of 
+prompt service on the United States and protects the 
+plaintiff against injustice when the failure to serve the 
+United States forthwith is inadvertent and dismissal 
+results, as it did here, in a lost cause of action. 
+
+
+° 
+
+
+43 
+
+
+CONCLUSION 
+
+
+Petitioner respectfully urges this Court to reverse this 
+case and decide that Rule 4’s 120-day service requirement 
+supplants the SAA’s forthwith service requirement. Alter- 
+natively, Petitioner respectfully urges this Court to decide 
+that district courts may extend the time for service pro- 
+vided by the SAA in appropriate circumstances. This case 
+should be reversed and remended for trial on the merits. 
+
+
+Respectfully submitted, 
+
+
+RicHarv A. SHEEHY* 
+
+KennetH R. Breirser 
+
+LAuREN L. Beck 
+
+McFa.t, SHerwoop & Sueeny, P.C. 
+2500 Two Houston Center 
+
+909 Fannin Street 
+
+Houston, TX 77010-1003 
+
+(713) 951-1000 
+
+
+Counsel for Petitioner 
+
+

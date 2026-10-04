@@ -1,0 +1,2081 @@
+Be 
+
+
+No. 95-244 SEP 13 1995 
+
+
+OCTOBER TERM, 1995 
+
+
+CHUCK QUACKENBUSH, INSURANCE COMMISSIONER 
+OF THE STATE OF CALIFORNIA, IN His CAPACITY AS 
+LIQUIDATOR AND TRUSTEE OF THE MISSION 
+INSURANCE COMPANY TRUST, MISSION NATIONAL 
+INSURANCE COMPANY TRUST, ENTERPRISE INSURANCE 
+COMPANY TRUST, HOLLAND-AMERICA INSURANCE 
+COMPANY TRUST AND MISSION REINSURANCE 
+CORPORATION TRUST, 
+
+Petitioner, 
+vs. 
+
+ALLSTATE INSURANCE COMPANY, 
+Respondent. 
+
+
+On Petition For Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Ninth Circuit 
+
+
+BRIEF IN OPPOSITION TO PETITION 
+FOR WRIT OF CERTIORARI 
+
+
+JosePH D. LEE* 
+
+MUNGER, TOLLES & OLSON 
+355 South Grand Avenue 
+Suite 3500 
+Los Angeles, California 90071 
+(213) 683-9100 
+
+
+Attorneys for Respondent 
+Allstate Insurance Company 
+
+
+*Counsel of Record 
+
+
+Bowne of Los Angeles, Inc., Law Printers (213) 627-2200 
+
+
+i 
+
+
+RESPONDENT'S STATEMENT OF 
+QUESTIONS PRESENTED 
+
+
+1. Whether an order remanding a removed action to 
+state court based on the Burford abstention doctrine is 
+reviewable by appeal, and not merely by mandamus, under 
+the collateral order doctrine established in Cohen v. Benefi- 
+cial Industrial Loan Corp., 337 U.S. 541 (1949). 
+
+
+2. Whether an action at law which seeks only money 
+damages, and no equitable relief, can present the excep- 
+tional circumstances necessary for a federal court to decline 
+to exercise its jurisdiction based on Burford abstention, or 
+instead whether Burford abstention is appropriate only in 
+equitable proceedings. 
+
+
+a 
+4 
+: 
+| 
+
+
+PARTIES TO THE PROCEEDINGS AND 
+RULE 29.1 STATEMENT 
+
+
+The Appellant in the Ninth Circuit and 
+here is Allstate Insurance Company. The anne 
+Ninth Circuit was John Garamendi, Insurance Commis- 
+sioner of the State of California, in his capacity as Liquida- 
+tor of Mission Insurance Company, Mission National 
+Insurance Company, Enterprise Insurance Company, Hol- 
+land-America Insurance Company, and Mission Reinsur- 
+ance Corporation. Chuck Quackenbush, the Petitioner here 
+is the statutory successor to Mr. Garamendi. , 
+
+
+TABLE OF CONTENTS 
+
+
+QUESTIONS PRESENTED .........----- 500005 
+
+
+PARTIES TO THE PROCEEDINGS AND 
+RULE 29.1 STATEMENT ...... 6... 0 esse eeees 
+
+
+OPINIONS BELOW ....... 1.666 c ccs 
+JURISDICTION ........6555: jeaeevouces cadens 
+STATUTES INVOLVED ..... .. 6... e cence eens 
+STATEMENT OF THE CASE......... 655-0055 
+SUMMARY OF ARGUMENT ...........5.6555: 
+
+
+ARGUMENT 20... cccccccccccccccecccsesvesees 
+
+
+THE DISTRICT COURT'S REMAND ORDER 
+WAS A COLLATERALLY FINAL ORDER 
+WHICH GAVE RISE TO A RIGHT OF APPEAL 
+
+
+THE NINTH CIRCUIT'S ABSTENTION ORDER 
+IS CONSISTENT WITH THIS COURT'S 
+PREVIOUS RULINGS AND WITH THE 
+CURRENT TREND IN THE CASELAW ...... 
+
+
+CONCLUSION 2... ccc ccc cece cece reeceeeceeees 
+
+
+1] 
+
+
+iv 
+TABLE OF AUTHORITIES 
+Cases 
+
+Page 
+
+Ainsworth v. Allstate Ins. Co., 634 F. Supp. 52 (W.D. 
+BED, GRD cncccccdccceceetesccecesteacdecess 5 
+
+Alabama Public Service Comm'n v. Southern Ry. 
+Se Ff & Fo | Rp rT 24 
+
+
+American Re-Insurance Co. v. Insurance Comm'r of 
+California, 527 F. Supp. 444 (C.D. Cal. 1981) .. 4 
+
+
+Burford v. Sun Oil Co., 319 U.S. 315 (1943) ..... passim 
+
+
+Cohen v. Beneficial Industrial Loan Corp., 337 US. 
+SEG CIGD ccccccccscccecccceecs 7, 8, 9, 12, 14, 16, 17 
+
+
+Colorado River Water Conservation Dist. v. United 
+States, 424 U.S. 800 (1976) ......... 12, 18, 19, 21, 26 
+
+
+Coopers & Lybrand v. Livesay, 437 U.S. 463 (1978) 13 
+Corcoran v. Ardra Ins. Co., 842 F.2d 31 (2d Cir. 
+
+
+PRs ccccccecteceseccneuececcensccosesess 9, 15, 16 
+Costle v. Fremont Indem. Co., 839 F. Supp. 265 (D. 
+
+Wes GE oon cuneewcdameanuséenceamannanssses 23 
+C-Y Dev. Co. v. City of Redlands, 703 F.2d 375 (9th 
+
+Gah GED Kccccsnecdsdéensccameseccensccons 18 
+
+
+In Re Delta American Re Insurance Co., 900 F.2d 
+890 (6th Cir.), cert. denied, 498 U.S. 890 (1990) 4,5 
+
+
+Doughty v. Underwriters at Lloyd's, London, 6 F.3d 
+
+
+Ge GUNG Se noccccccecscouccocescee: 9, 16,17 
+Duane v. Government Employees Inc. Co., 784 F. 
+Supp. 1209 (D. Md. 1992) ............cccneee 23 
+
+
+Excess & Casualty Reinsurance Ass'n v. Insurance 
+Comm 'r of California, 656 F.2d 491 (9th Cir. 
+
+
+PETE cccccccescccccescccccccccccescesccese 3 
+Foster v. Chesapeake Inc. Co., 933 F.2d 1207 (3d 
+Cir.), cert. denied, 502 U.S. 908 (1991) ........ 14 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases 
+Page 
+Fragoso v. Lopez, 991 F.2d 878 (ist Cir. 1993).... 23 
+Garamendi v. Allstate Ins. Co., 47 F.3d 350 (9th Cir. 
+Sie centenseekeeb onc eecetcesencedeseeses passim 
+Great Lakes Dredge & Dock Co. v. Huffman, 319 
+MP i ccecedsckdcevacodedbénences 24 
+Hager v. Davis Transport, Inc., 901 F.2d 1470 (8th 
+SL DEE bc dad dnbddecddacnsiadss c6ebuéecees 5 
+Idlewild Bon Voyage Liquor Corp. v. Epstein, 370 
+Pic ccccdnckdacdddéecdasedsonce 12 
+Karl Koch Erecting Co. v. New York Convention Ctr. 
+Dev. Corp., 838 F.2d 656 (2d Cir. 1988) ....... 15 
+McDermott Int'l v. Lloyds Underwriters of London, 
+944 F.2d 1199 (Sth Cir. 1991) ................ 14, 15 
+Melahn v. Pennock Ins., Inc., 965 F.2d 1497 (8th Cir. 
+Di eculdiieteesshdéanehstnnseanneuks 14, 15, 21 
+
+
+Minot v. Eckardt-Minot, \3 F.3d 590 (2d Cir. 1994) 15, 16 
+
+
+Mobil Oil Corp. v. City of Long Beach, 772 F.2d 534 
+Dt Mi cnccudndetechensasedhaceedeeke 18 
+
+
+Moses H. Cone Memorial Hosp. v. Mercury Constr. 
+Ss Ge ee © GE ebecceccocesoccecess passim 
+
+
+New Orleans Public Service, Inc. v. Council of City of 
+New Orleans, 491 U.S. 350 (1989)... ......... passim 
+
+
+Pas v. Travelers Ins. Co., 7 F.3d 349 (3d Cir. 1993) 14 
+Pelleport Investors, Inc. v. Budco Quality Theatres, 
+
+
+Inc., 741 F.2d 273 (9th Cir. 1984)............. 13,14 
+Regis Assocs. v. Rank Hotels (Management) Lid., 
+894 F.2d 193 (6th Cir. 1990) ..............05. 14 
+
+
+Ruhlin v. New York Life Ins. Co., 304 U.S. 202 
+GREED cc ccccecescccecooccescacscecounccens 20 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases 
+Page 
+Salve Regina College v. Russell, 499 U.S. 225 (1991) 20 
+Schlagenhauf v. Holder, 379 U.S. 104 (1964) ..... 17 
+Thermtron Products, Inc. v. Hermansdorfer, 423 U.S. 
+SBE CIDTED . ccccccccccccccceccccccecs 6, 8, 11, 12, 15 
+University of Md. v. Peat Marwick Main & Co., 923 
+P26 BBS (96 Gide. IBGE) .ncccccccccccccccsess 18, 23 
+West v. American Tel. & Tel. Co., 311 U.S. 223 
+CIDEB) .ncccccccccccesccccccccececes : re i 20 
+Wol v. Mutual Life Ins. Co., 51 F. 
+he Che 1995) —_ ” tite iseende 14, 21, 22, 27 
+Younger v. Harris, 401 U.S. 37 (1971) ........... 24, 25 
+Statutes 
+Federal Anbditration Act, 9 U.S.C. §§ 1-16........ 2, 5, 19 
+DEIDE. BOD cccccccccccssccccencvcedsecsces 16 
+McCarran-Ferguson Act, 15 U.S.C. §§ 1011-1015...... 2 
+I UE ccccccecncecncdctsscesessccesds 12, 13, 16 
+RE BONE cccccccccccecccccccccscpeseseeses 5 
+I cn ctvenidilidanansiecsdiacion 2,6, 11, 15 
+Rules 
+Supreme Court Rule of Procedure, Rule 14.1(f)....... 2 
+Other Authorities 
+
+
+E. Chemerinsky, FEDERAL JURISDICTION § 12.3 at 
+GED GEE ovcccccccecccccnccsocdscessences 13 
+
+
+Vii 
+
+
+TABLE OF AUTHORITIES 
+Other Authorities 
+
+
+Page 
+
+
+R. Jacks, Arbitration & Insurer Insolvencies: The 
+Triumph of Common Sense Over Abstract 
+Principle, in ABA NATIONAL INSTITUTE ON 
+INSURER INSOLVENCY, LAW & PRACTICE OF 
+INSURANCE COMPANY INSOLVENCY at 260, 261 
+SU obs badidbuiicbel Vdwdiiescméedeeddceese 19 
+
+
+H. Kramer, The Nature of Reinsurance, at 1-3, in R. 
+Strain (ed.), REINSURANCE (1980) ........... 3 
+Spector, When Your Reinsurance Partner Goes Bust, 
+
+
+in Best’s Review: Property-CASUALTY INs. 
+See ET dduntindedGaltubucdaetencdcccecse 19, 20 
+
+
+19 C. Wright, A. Miller, & E. Cooper, Feperat 
+PRACTICE & PROCEDURE: JURISDICTION § 4507 
+PEED APUGRECUKOd dabannibsabedeuecesehene 20 
+
+
+No. 95-244 
+In the 
+
+
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+CHUCK QUACKENBUSH, INSURANCE COMMISSIONER 
+OF THE STATE OF CALIFORNIA, IN His CAPACITY AS 
+LIQUIDATOR AND TRUSTEE OF THE MISSION 
+INSURANCE COMPANY TRUST, MISSION NATIONAL 
+INSURANCE COMPANY TRUST, ENTERPRISE INSURANCE 
+COMPANY TRUST, HOLLAND-AMERICA INSURANCE 
+COMPANY TRUST AND MISSION REINSURANCE 
+CORPORATION TRUST, 
+
+Petitioner, 
+vs. 
+
+ALLSTATE INSURANCE COMPANY, 
+
+
+Respondent. 
+
+
+On Petition For Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Ninth Circuit 
+BRIEF IN OPPOSITION TO PETITION 
+FOR WRIT OF CERTIORARI 
+
+
+Respondent Allstate Insurance Company (“Allstate”) 
+respectfully submits this brief in opposition to the Petition 
+for Writ of Certiorari filed by Petitioner Chuck Quacken- 
+bush, Insurance Commissioner of the State of California, as 
+the Liquidator of the Mission Group of Insurance Compa- 
+nies (“the Liquidator’). 
+
+
+2 
+
+
+OPINIONS BELOW 
+
+
+Allstate does not disagree with the citations to the 
+opinions below contained in the Petition. In addition, All- 
+
+
+state reproduces as Appendix | the order of the Ninth 
+Circuit issued on February 14, 1992 denying the Liquida- 
+tor’s motion to dismiss the appeal below. 
+
+
+JURISDICTION 
+
+
+Allstate agrees with the statement of jurisdiction con- 
+tained in the Petition. 
+
+
+STATUTES INVOLVED 
+
+
+In addition to those statutes cited in the Petition, 
+Allstate identifies 28 U.S.C. § 1447 and the Federal Arbitra- 
+tion Act, 9 U.S.C. §§ 1-16, as statutes involved in this case. 
+Those provisions are set forth in Appendix 2 hereto. 
+
+
+Allstate disagrees with the Liquidator’s assertion that 
+the McCarran-Ferguson Act, 15 U.S.C. §§ 1011-1015, and 
+the cited provisions of the California Insurance Code (Pet. 
+Cert., at 2) are involved in this case within the meaning of 
+
+
+this Court’s Rule 14.1(f). 
+
+
+STATEMENT OF THE CASE 
+
+
+This is a civil damages action filed by the California 
+Insurance Commissioner as liquidator of five members of 
+the Mission Group of Insurance Companies (“Mission ). 
+The lawsuit was filed in Los Angeles Superior Court in 
+June 1990 against Allstate and several other companies that 
+had reinsured Mission affiliates.’ The dispute vis-a-vis 
+
+
+'The term “reinsurance” refers to the practice by which one insurer 
+spreads its insurance risk by assigning (or “coding ) portions of its = 
+to other insurance companies acting as reinsurers. Typically, the 
+
+
+a tee 
+
+
+3 
+
+
+Missionand Allstate arises from Allstate’s having been both 
+reinsured by Mission and a reinsurer of Mission under more 
+than five thousand separate reinsurance agreements entered 
+into during the period of November 1976 to August 1984. 
+The Liquidator seeks to recover reinsurance balances of 
+approximately $7 million allegedly due from Allstate as a 
+reinsurer of Mission. Allstate disputes the balances claimed 
+from it, contending, among other defenses, that Allstate is 
+entitled to set off approximately $24 million in reinsurance 
+balances that are due Allstate from Mission as Allstate’s 
+reinsurer.’ 
+
+
+Though this action was filed by the California Insur- 
+ance Commissioner in his capacity as liquidator of Mission, 
+the lawsuit is a straightforward commercial reinsurance 
+dispute. The claims asserted by the Liquidator are entirely 
+derivative of those held by Mission before its insolvency. 
+The Liquidator contends, principally, that Allstate breached 
+its contractual obligations to Mission by failing to pay 
+reinsurance balances that are due. Based on this allegation, 
+the Commissioner’s complaint states claims for breach of 
+contract, tortious breach of the covenant of good faith and 
+fair dealing, tortious denial of the existence of contract, and 
+declaratory relief. 
+
+
+Just as important, the only remedy sought by the 
+Liquidator is an award of money damages for the reinsur- 
+
+
+reinsurers agree to assume a percentage of the risk under an insurance 
+policy or class of policies in return for a corresponding share of the 
+premiums. See generally H. Kramer, The Nature of Reinsurance, at 1-3, 
+in R. Strain (ed.), REINSURANCE (1980). 
+
+
+*The $7 and $24 million figures consist of three categories: paid 
+losses, reserves established for known claims, and reserves for “incurred 
+but not reported” claims (known in the industry as “IBNR"), that is, 
+claims for losses that have been incurred but have not been reported by 
+the insured. 
+
+
+4 
+
+
+ance balances allegedly due.’ Thus, this lawsuit presents no 
+risk of interference with any state administrative proceeding 
+or policy. Indeed, the only impact this case can have on the 
+liquidation of Mission is that, if the Liquidator prevails, 
+there will be marginally more money available to distribute 
+to Mission’s creditors than the $1.2 billion the Liquidator 
+has reportedly collected from other reinsurers. 
+
+
+In fact, the California Insurance Commissioner rou- 
+tinely files collection actions like this case in state and 
+federal courts throughout the country. For this reason, the 
+California Superior Court order appointing the Commis- 
+sioner as Mission’s liquidator expressly empowers him to 
+bring suits “in other state courts” to recover assets on 
+Mission’s behalf.* The federal courts, over a period of years, 
+have asserted jurisdiction repeatedly over precisely such civil 
+collection suits by liquidators of insolvent insurers — includ- 
+ing suits by the California Insurance Commissioner secking 
+to recover reinsurance balances due an insolvent insurer.” 
+
+
+*The Commissioner also prays for the functionally equivalent 
+remedy of a declaration as to the parties’ respective liability under the 
+reinsurance agreements at issuc. 
+
+“See “Order Appointing Liquidator and Restraining Order” in- 
+cluded in Appendix E to the Petition for Certiorari at page 119a. 
+Paragraph 13 of this Order provides: 
+
+[The] liquidator is hereby authorized to initiate such equitable or 
+
+legal actions or proceedings in this or other states as may appear to 
+
+him necessary to carry out his function as liquidator. 
+Appendix at 12la (emphasis supplied). 
+
+*See, e.g. American Re-Insurance Co. v. Insurance Comm'r of 
+California, 527 F. Supp. 444 (C.D. Cal. 1981) (diversity suit brought by 
+a reinsurer seeking declaratory relief against the California Insurance 
+Commissioner as receiver for an insolvent insurer); Excess & Casualty 
+Reinsurance Ass'n v. Insurance Comm'r of California, 656 F.2d 491 
+(9th Cir. 1981) (interpleader suit brought by a reinsurer secking a 
+determination of who should receive reinsurance proceeds upon the 
+insolvency of a reinsured company); Jn Re Delta America Re Insurance 
+
+
+5 
+
+
+Allstate removed this action on August 2, 1990 to the 
+United States District Court for the Central District of 
+California on the basis of diversity of citizenship.° Allstate 
+then moved under the Federal Arbitration Act, 9 U.S.C. 
+§§ 1-16, to compel arbitration of the Liquidator’s claims 
+against it based on arbitration agreements contained in 
+virtually all of the reinsurance agreements between Allstate 
+and Mission.’ The District Court ordered the motion off 
+calendar to consider first whether the action should proceed 
+in the federal court. 
+
+
+Co., 900 F.2d 890 (6th Cir.), cert. denied, 498 U.S. 890 (1990) (rever- 
+sing order remanding to state court suit brought by Kentucky Insurance 
+Commissioner to recover reinsurance proceeds due insolvent insurer); 
+Hager v. Davis Transport, Inc., 901 F.2d 1470 (8th Cir. 1990) (suit by 
+Iowa Insurance Commissioner seeking to recover unpaid premiums due 
+insolvent insurer, action removed to federal court by defendant insurer); 
+Ainsworth v. Allstate Ins. Co., 634 F. Supp. 52 (W.D. Mo. 1985) (suit 
+by Missouri receiver of two insolvent insurers to recover reinsurance 
+balances; defendants removed action to federal court, which ordered 
+arbitration). 
+
+*There were 19 reinsurers named as defendants in the Superior 
+Court lawsuit against Allstate. Of these defendants, ony two — Allstate 
+and the Insurance Company of North America (INA) — were ever 
+served. Allstate removed the Superior Court action to federal court on 
+the ground that there was diversity jurisdiction vis-a-vis Allstate and the 
+Commissioner and the claims asserted against Allstate were separate 
+and independent of the claims alleged against non-diverse defendants, 
+permitting removal under 28 U.S.C. § 1441(c). Subsequently, the 
+Commissioner filed a notice of dismissal of all non-diverse defendants. 
+This led Allstate and INA to file a supplemental petition to remove 
+based on complete diversity between the plaintiff and the remaining 
+defendants. . 
+
+"Arbitration agreements are contained in each of the large reinsur- 
+ance “treaties” entered into between Allstate and Mission. These 
+reinsurance treaties, some 67 in number, cover large classes of business, 
+and give rise to the vast majority of the reinsurance balances in dispute. 
+The other reinsurance agreements, covering a single, large risk, are 
+known as “facultative certificates”; virtually all of these agreements also 
+contained provisions for binding industry arbitration. 
+
+
+6 
+
+
+On July 3, 1991, the District Court entered an order 
+remanding the case to Los Angeles Superior Court. The 
+District Court’s remand order, while rejecting most of the 
+Liquidator’s arguments in support of his remand motion, 
+concluded that it was proper to abstain from exercising 
+jurisdiction over this case under Burford v. Sun Oil Co., 319 
+U.S. 315 (1943). The District Court emphasized that a 
+central issue in this case is Allstate’s defense of set-off, i.e., 
+that Allstate is entitled to set off balances due it from 
+Mission against the balances the Commissioner secks to 
+recover on Mission’s behalf. Noting that this issue was 
+controlled by state law and that the Los Angeles Superior 
+Court had developed an “intimate familiarity” with the law 
+in this area, the District Court concluded that Burford 
+abstention was warranted. 
+
+
+Allstate timely appealed from the remand order. All- 
+state’s notice of appeal prayed that, in the event the appeal 
+were found not to lie, it be treated as a petition for writ of 
+mandamus. After the parties’ opening briefs had been filed, 
+the Insurance Commissioner moved for an order dismissing 
+the appeal and peremptorily denying the petition for writ of 
+mandamus on the ground that no abuse of discretion could 
+be shown. The Ninth Circuit denied the motion to dismiss, 
+noting that “[b]ecause the remand order was not based on 
+jurisdictional grounds, the prohibition on appellate review 
+imposed by 28 U.S.C. § 1447(d) does not apply.” Febru- 
+ary 14, 1992 Order (attached as Appendix 1) at 1-2 (citing 
+Thermtron Products, Inc. v. Hermansdorfer, 423 U.S. 336, 
+345-52 (1976)). The Ninth Circuit’s order did not resolve 
+the question of whether review was available by appeal or 
+mandamus, referring this issue “to the merits panel for such 
+consideration as it deems appropriate.” Jd. at p.2. 
+
+
+Oral argument was held before the Ninth Circuit on 
+November 5, 1993. On February 2, 1995 the Ninth Circuit, 
+in a unanimous opinion, reversed the order of remand. The 
+
+
+7 
+
+
+Ninth Circuit first concluded that Allstate’s appeal from the 
+remand order was proper. The Ninth Circuit noted that, in 
+Moses H. Cone Memorial Hosp. v. Mercury Constr. Corp., 
+460 U.S. 1, 11-13 (1983), this Court had held that some 
+“orders declining to exercise jurisdiction may be appeal- 
+able” under the collateral order doctrine established in 
+Cohen v. Beneficial Industrial Loan Corp. Noting that 
+Moses H. Cone held that “an order staying a federal action 
+pursuant to abstention... qualifies as an appealable final 
+collateral order,” the Ninth Circuit concluded “that a re- 
+mand order based on abstention” likewise is “a final collat- 
+eral order that is reviewable on appeal.” Garamendi v. 
+Allstate Ins. Co., 47 F.3d 350, 353 (9th Cir. 1995). 
+
+
+Having found that the remand order was properly 
+appealable, the Ninth Circuit then concluded that absten- 
+tion was not appropriate in this case. Noting that the 
+Commissioner merely sought to recover money damages on 
+behalf of Mission and did not seek any equitable relief that 
+might interfere with the ongoing proceedings for the liquida- 
+tion of Mission, the Ninth Circuit concluded that abstention 
+under Burford was not justified. Relying on the carefully 
+chosen words of this Court’s opinions in a series of Burford 
+abstention cases, the court below concluded that Burford 
+abstention — long recognized as a power of federal courts 
+sitting in equity — should not be extended to simple actions 
+at law for the recovery of money damages. Any other result, 
+the Ninth Circuit concluded, would contravene the federal 
+courts’ “virtually unflagging” obligation to exercise the juris- 
+diction conferred upon them by the Constitution. 47 F.3d at 
+356 (quoting New Orleans Public Service, Inc. v. Council of 
+City of New Orleans, 491 U.S. 350, 361 (1989)). 
+
+
+On February 16, 1995, the Commissioner filed a peti- 
+tion for rehearing and suggestion for rehearing en banc, 
+arguing for the first time that the Commissioner in fact 
+secks equitable relief, namely a declaration of the parties’ 
+
+
+respective liability. On May 19, 1995, the Ninth Circuit 
+denied rehearing. The Court’s order noted that the Commis- 
+sioner had not previously argued that its declaratory relief 
+claim was equitable in nature and therefore could not be 
+heard to raise this argument for the first time in a petition 
+for rehearing. (See Pet. Cert., Appendix C.) 
+
+
+SUMMARY OF ARGUMENT 
+
+
+Neither of the issues on which the Liquidator urges this 
+Court to grant review, Allstate submits, justifies intervention 
+at this time by the nation’s highest court. On the first issue 
+identified by the Liquidator — the appealability of remand 
+orders — there is substantial unanimity in the Courts of 
+Appeals. In the wake of this Court’s ruling in Thermtron 
+Products, Inc. v. Hermansdorfer, 423 U.S. 336, 345-52 
+(1976), the lower courts have uniformly recognized that 
+many orders of remand — namely, those not based on 
+defects in removal procedure — are subject to appellate 
+review. The courts likewise are in agreement that at least 
+some remand orders are reviewable by appeal, and not 
+merely by mandamus. For instance, every Circuit Court to 
+consider the issue has held that remand orders based on a 
+forum selection clause contained in an agreement between 
+the litigants represents a final order on a collateral matter 
+permitting appeal under Cohen v. Beneficial Industrial Loan 
+Corp., 337 U.S. 541 (1949). 
+
+
+The Liquidator argues, however, that the Circuit 
+Courts are not fully in agreement on whether remand orders 
+based on abstention qualify for appeal under the collateral 
+order doctrine. The Ninth Circuit below held that they do, a 
+ruling that seems compelled by this Court's holding in 
+Moses H. Cone that an order staying a federal court suit 
+based on abstention is a final, appealable order. With con- 
+siderable reluctance, the Second Circuit seven years ago 
+reached a contrary conclusion, expressly noting that it felt 
+
+
+9 
+
+
+bound to follow earlier circuit precedent that seemed incon- 
+sistent with the holding in Moses H. Cone. Corcoran v. 
+Ardra Ins. Co., 842 F.2d 31 (2d Cir. 1988). More recently, 
+in Doughty v. Underwriters at Lloyd's, London, 6 F.3d 856 
+(Ist Cir. 1993), the First Circuit held that a particular 
+abstention-based remand order was not appealable, notwith- 
+standing the holding of Moses H. Cone. But the First Circuit 
+went out of its way to note that “there is no absolute rule 
+either prohibiting or permitting immediate appellate review 
+of remand-related orders under the Cohen rubric,” and that 
+“courts must apply the multi-pronged Cohen test to cach 
+remand order (or, at least, to each type of remand order) in 
+an individualized, case-specific manner.” 6 F.3d at 862 
+(emphasis in original). Thus, in future First Circuit deci- 
+sions, many and perhaps all abstention-based remand orders 
+may be found to be appealable on their particular facts. 
+
+
+The other issue the Liquidator urges as a basis for 
+granting review is whether the Ninth Circuit correctly held 
+that Burford abstention does not apply in garden-variety 
+civil damages actions like this one. For several reasons, this 
+issue does not afford a basis for intervention by this Court at 
+the present time. As a starting point, the Liquidator would 
+not have the Court even reach this issue, since the Liquida- 
+tor contends that Allstate should not have been permitted to 
+appeal from the remand order. To the extent, therefore, 
+there is any merit to the appealability issue, it casts doubt on 
+whether the Court would be called upon even to consider 
+the seemingly weightier issue of whether Burford abstention 
+should be extended to garden-variety civil damages actions. 
+
+
+In any event, as demonstrated below, the Ninth Cir- 
+cuit’s holding on the abstention issue is compelled by a 
+series of decisions by this Court, culminating in New 
+Orleans Public Service, Inc. v. Council of City of New 
+Orleans, 491 U.S. 350 (1989) (“NOPST"). The essence of 
+the Burford abstention doctrine is that in exceptional cases a 
+
+
+10 
+
+
+federal court may decline to exercise its jurisdiction to avoid 
+
+
+court level for the present time. Since this Court’s decision 
+in NOPSI, the Ninth Circuit has held that Burford absten- 
+
+
+equitable arena. But if developments turn out otherwise and 
+
+
+the circuits fail to reach accord on the scope of this 
+abstention doctrine, there will be ample opportunity at that 
+time for this Court to intervene. 
+
+
+ARGUMENT 
+L 
+
+
+THE DISTRICT COURT’S REMAND ORDER WAS A 
+COLLATERALLY FINAL ORDER WHICH GAVE 
+RISE TO A RIGHT OF APPEAL. 
+
+
+The first ground urged by the Liquidator in support of 
+the Petition for Certiorari arises from the Ninth Circuit's 
+holding that the District Court’s order of remand is appeal- 
+able under the collateral order doctrine. For several reasons, 
+Allstate submits, this holding does not present a basis for 
+
+On its face, 28 U.S.C. § 1447(d) seems to preclude 
+appellate review of remand orders. That section provides 
+that such orders are “not reviewable on appeal or other- 
+wise.” However, since this Court's decision in Thermtron 
+Products, Inc. v. Hermansdorfer, 423 U.S. 336, 345-52 
+(1976), it has been settled that “only remand orders issued 
+under [28 U.S.C.] § 1447(c) and invoking the grounds 
+specified therein — that removal was improvident and with- 
+out jurisdiction—are immune from review under 
+§ 1447(d).” Id. at 346. Allstate knows of no decision, and 
+the Liquidator cites none, even sugge*ting that a remand 
+order based on abstention is one issued under sec- 
+tion 1447(c) which is immune from all forms of appellate 
+review. 
+
+Thus, the only issue of potential controversy here is 
+whether remand orders based on abstention are reviewable 
+by appeal, and not merely by mandamus. As the Court of 
+Appeals noted below, in Thermtron this Court initially 
+suggested that mandamus was the appropriate means of 
+
+
+——— Se 
+
+
+12 
+
+
+appellate review in suci) circumstances. 47 F.3d at 353, 
+citing Thermtron, 423 U.S. at 352-53. As the Ninth Circuit 
+went on to note, however, this Court later recognized — in 
+Moses H. Cone Memorial Hosp. v. Mercury Constr. Corp., 
+460 U.S. | (1983) — that some orders of abstention may 
+properly be appealed as final orders under the collateral 
+order doctrine of Cohen v. Beneficial Industrial Loan Corp., 
+337 U.S. 541 (1949). 47 F.3d at 353. 
+
+
+In Moses H. Cone, this Court held that an order staying 
+a federal case on the basis of Colorado River’ abstention was 
+directly appealable. 460 U.S. at 9-13. The Court reasoned 
+that “a stay of the federal suit pending resolution of the state 
+suit meant that there would be no further litigation in the 
+federal forum,” and therefore the defendant was “ ‘effec- 
+tively out of [federal] court.’” 460 U.S. at 10-11 (quoting 
+Idlewild Bon Voyage Liquor Corp. v. Epstein, 370 U.S. 713, 
+715 n.2 (1962) ). As a result, the Court concluded, the order 
+of stay was a final order appealable under 28 U.S.C. § 1291. 
+460 US. at 13. 
+
+
+The stay order in Moses H. Cone also qualified for 
+appeal, the Court held, under the Cohen collateral order 
+doctrine. The Court noted that the factors “required to show 
+finality” under the Cohen rule are as follows: 
+
+
+To come within the ‘small class’ of decisions 
+excepted from the final judgment rule by Cohen, 
+the order must [1] conclusively determine the 
+disputed question, [2] resolve an important issue 
+completely separate from the merits of the action, 
+
+
+"Colorado River Water Conservation Dist. v. United States, 424 
+U.S. 800 (1976). 
+
+
+13 
+
+
+and [3] be effectively unreviewable on appeal 
+from a final judgment. 
+
+
+460 US. at 11-12 (quoting Coopers & Lybrand v. Livesay 
+437 U.S. 463, 468 (1978) (footnote omitted)). The stay 
+
+
+order, this Court concluded, met each of these three 
+requirements. 
+
+
+As the Ninth Circuit observed, an order of remand 
+even more clearly satisfies the three prongs of the Cohen 
+test. Indeed, if anything a remand order more clearly puts 
+the parties “effectively out of federal court” than does an 
+order merely staying the federal proceeding. Likewise, when 
+Burford abstention is invoked in a lawsuit commenced in a 
+federal court, it typically results in an order of dismissal,’ 
+which then is appealable as a final order under 28 U.S.C. 
+§ 1291. Thus, it would be anomalous at best if an order of 
+remand based on abstention were not reviewable by appeal, 
+when equivalent abstention rulings resulting in stay or dis- 
+
+It therefore comes as no surprise that the Ninth Cir- 
+cuit, relying principally on Moses H. Cone, concluded that 
+the District Court’s remand order here gave rise to a right of 
+appeal under the collateral order doctrine. The Ninth Cir- 
+cuit’s ruling finds considerable support in previous rulings, 
+both within the Ninth Circuit and by other circuits, dating 
+back more than a decade. In Pelleport Investors, Inc. v. 
+Budco Quality Theatres, Inc., 741 F.2d 273 (9th Cir. 1984), 
+the Court of Appeals held that a remand order based on a 
+“substantive decision on the merits apart from any jurisdic- 
+tional decision” — namely, the enforceability of a forum 
+selection clause contained in a contract between the par- 
+ties — is appealable under 28 U.S.C. § 1291 as a collaterally 
+
+
+* See generally E. Chemerinsky, FEDERAL JURISDICTION § 12.3 at 
+612 (1989) (Burford abstention “requires the federal court to dismiss 
+the case”). 
+
+
+14 
+
+
+final order. 741 F.2d at 276. Several other circuits have 
+endorsed this rule. See McDermott Int'l v. Lloyds Underwrit- 
+ers of London, 944 F.2d 1199, 1203 (Sth Cir. 1991) (“we 
+review the district court’s remand order, which the court 
+issued pursuant to [a forum selection clause in] the parties’ 
+contract, on appeal under Cohen's collateral order doc- 
+trine”); Foster v. Chesapeake Ins. Co., 933 F.2d 1207, 1211 
+(3d Cir.), cert. denied, 502 U.S. 908 (1991) (“an order 
+remanding a case pursuant to a forum selection clause is 
+‘final’ for purposes of... the collateral order doctrine”’); 
+Regis Assocs. v. Rank Hotels (Management) Lid., 894 F.2d 
+193, 194 (6th Cir. 1990) (appeal lies from order remanding 
+action based on forum selection clause, under rule that “a 
+remand order is reviewable on appeal when it is based on a 
+substantive decision on the merits of a collateral issue as 
+opposed to just matters of jurisdiction”). Most recently, the 
+Eighth Circuit — permitting a direct appeal from an order 
+declining to lift a previously-imposed stay on federal pro- 
+ceedings — broadly held that oo nee See ee 
+staining because of a parallel state proceeding. . 
+appealable under the collateral-order doctrine.” Wolfson v. v. 
+Mutual Benefit Life Ins. Co., 51 F.3d 141, 144 (8th Cir. 
+1995). This holding is not without a touch of irony here, 
+since Wolfson is the decision on which the Liquidator 
+principally relies in urging this Court’s review of the Ninth 
+Circuit’s ruling on the merits of whether abstention was 
+proper in this case. 
+
+
+The Liquidator contends that two decisions — one in 
+the First and the other in the Second Circuit — are not in 
+
+
+accord with the foregoing views, and that this divergence 
+supports the grant of certiorari.'° The Second Circuit deci- 
+
+
+The Liquidator does not rely on two other decisions which, 
+discussing the issue only briefly, conclude that remand orders based on 
+abstention are reviewable by mandamus rather than appeal. Pas v. 
+Travelers Ins. Co., 7 F.3d 349, 353 (3d Cir. 1993); Melahn v. Pennock 
+
+
+15 
+
+
+sion on which the Liquidator relies, Corcoran v. Ardra Ins. 
+Co., 842 F.2d 31 (2d Cir. 1988), did hold that a remand 
+order based on abstention should be reviewed by mandamus 
+rather than appeal. 842 F.2d at 34-35. It has been ques- 
+tioned whether this ruling was consistent with another 
+Second Circuit case, Karl Koch Erecting Co. v. New York 
+Convention Ctr. Dev. Corp., 838 F.2d 656, 658-59 (2d Cir. 
+1988), allowing a direct from a remand order based 
+on a forum selection clause.'’ And in Corcoran v. Ardra, the 
+Second Circuit regarded the kind of suit before it as present- 
+ing a powerful case for the review by appeal that it felt 
+reluctantly bound not to allow. As the Second Circuit 
+stated: “Under the surrender-of-federal-jurisdiction test 
+used in Moses Cone, we wonder whether it can logically or 
+prudently remain the rule that a reviewable remand order 
+(i.e., one whose review is not barred by § 1447(d)) is not 
+reviewable by direct appeal.” 842 F.2d at 34. 
+
+
+Moreover, the most recent Second Circuit decision on 
+point appears to limit Corcoran v. Ardra to its facts. In 
+Minot v. Eckardt-Minot, 13 F.3d 590 (2d Cir. 1994), the 
+Second Circuit permitted a direct appeal from an absten- 
+tion-based order of remand, issued because related child 
+custody issues were pending in state court. See 13 F.3d at 
+593. The Second Circuit found that Corcoran v. Ardra did 
+not compel a different result, since “Corcoran explained that 
+when a district court’s remand conclusively determines a 
+
+
+Ins., Inc., 965 F.2d 1497, 1500-01 (8th Cir. 1992). Both decisions base 
+their ruling on Thermiron, failing to address this Court's later holding in 
+Moses H. Cone that stay orders based on abstention are appealablie. 
+Thus, as the Liquidator appears to recognize, neither decision can be 
+said to present a meaningful conflict with the Ninth Circuit's decision 
+below. 
+
+
+'' See McDermott Int'l v. Lloyds Underwriters of London, 944 F.2d 
+at 1203 n.5 (“We think that Corcoran [v. Ardra] was wrongly 
+decided ...[T]}he Corcoran court did not adequately distinguish Kari 
+Koch Erecting Co... .”). 
+
+
+16 
+
+
+collateral question (such as where the merits of a litigation 
+will be resolved), that decision is appealable under the 
+collateral-order doctrine.” Jd. The court concluded that 
+“{s]ince the remand order in this case conclusively deter- 
+mined that a state court would decide the merits of the 
+underlying dispute, direct appeal of the remand decision is 
+appropriate.” /d. Based on this language, it seems clear that 
+the Second Circuit would have allowed an appeal in the 
+present case, just as the Ninth Circuit did.'? 
+
+
+The only other decision on which the Liquidator relies 
+is Doughty v. Underwriters at Lloyd's, London, 6 F.3d 856 
+(Ist Cir. 1993). As a practical matter, it is far from clear 
+that Doughty represents any actual coaflict with the Ninth 
+Circuit. Doughty first holds that a remand order is not a 
+“final order” under 28 U.S.C. § 1291, a question not 
+reached by the Ninth Circuit, which held only that an 
+abstention-based remand order is appealable as a collater- 
+ally final order under Cohen. Compare Doughty, 6 F.3d at 
+860-62 with Garamendi, 47 F.3d at 353. While Doughty 
+ruled that the remand order before the court did not qualify 
+for direct appeal under the collateral order doctrine, the 
+
+
+"The Second Circuit apparently found Corcoran v. Ardra distin- 
+guishable because the defendants there had removed the action on the 
+basis of 9 U.S.C. § 205, which permits removal of any state court action 
+relating to “an arbitration agreement or award falling under the [ Foreign 
+Arbitral Awards] Convention,” and the federal court had not ruled on 
+the question of whether the defendants were entitled to compel arbitra- 
+tion under the Convention. Thus, the remand order in Corcoran v. Ardra 
+“return[ed] to the state court the threshold question of where the 
+underlying dispute is to be decided.” Minot, 13 F.3d at 593 n.1. 
+Although Allstate also seeks to compel arbitration, Allstate removed the 
+present case on the basis of diversity jurisdiction, not 9 U.S.C. § 205. 
+Thus, there is an independent basis for federal jurisdiction here unre- 
+lated to Allstate’s motion to compel arbitration. On these facts, it seems 
+clear that the Second Circuit would recognize a right of appeal from an 
+abstention-based remand order. 
+
+
+17 
+
+
+First Circuit did not adopt a blanket rule that such orders 
+never are appealable. Instead, the First Circuit held that: 
+
+
+[T]here is no absolute rule either prohibiting or 
+permitting immediate appellate review of remand- 
+related orders under the Cohen rubric. . . . Rather, 
+courts must apply the multi-pronged Cohen test to 
+each remand order (or, at least, to each type of 
+remand order) in an individualized, case-specific 
+manner. 
+
+
+Id. at 862 (emphasis in original). 
+
+
+This holding leaves open the substantial possibility that, 
+in practice, the First Circuit may permit subsequent appeals 
+in remand orders based on abstention, as application of the 
+three-part Cohen test may dictate in a given case. As a 
+practical matter, therefore, the First Circuit’s decision may 
+represent no departure, or only a minimal departure, from 
+the views expressed by the Ninth Circuit panel. At a 
+minimum, it would be prudent to await further doctrinal 
+developments in the First Circuit, which will demonstrate 
+the degree, if any, to which the decisions of the First and 
+Ninth Circuits are in conflict. 
+
+Even if there were a conflict among the circuits regard- 
+ing the appealability of abstention-based remand orders, 
+that conflict would have little practical impact on the 
+resolution of like cases. Whether review is had by appeal or 
+by mandamus may not affect the ultimate outcome at the 
+appellate level. In the Ninth Circuit, for instance, decisions 
+to abstain— once the “requirements for the abstention 
+doctrine being invoked” are mei — are reviewed on appeal 
+for abuse of discretion. Garamendi, 47 F.3d at 354. An 
+abuse of discretion standard is also employed in mandamus 
+review. Schlagenhauf v. Holder, 379 U.S. 104, 110 (1964). 
+In either case, the courts have recognized that a substan- 
+tially heightened abuse of discretion standard should apply. 
+
+
+18 
+
+
+In light of the obligation of the federal courts to exercise the 
+jurisdiction conferred on them except in the most excep- 
+tional cases, “there is little or no discretion to abstain in a 
+case which does not meet traditional abstention require- 
+ments.” Mobil Oil Corp. v. City of Long Beach, 772 F.2d 
+534, 540 (9th Cir. 1985) (quoting C-Y Dev. Co. v. City of 
+Redlands, 703 F.2d 375, 377 (9th Cir. 1983)); accord 
+University of Md. v. Peat Marwick Main & Co., 923 F.2d 
+265, 269-70 (3d Cir. 1991) (“The determination of whether 
+this case falls in the area within which the district court may 
+exercise discretion [to abstain] is therefore a matter of law, 
+reviewable on a plenary basis.”) Thus, even if the Circuit 
+Courts eventually diverge on the question of whether re- 
+mand orders based on abstention are reviewable by appeal or 
+only by mandamus, this does not necessarily betoken any 
+material disparity in the resolution of the ultimate issue 
+presented — namely whether abstention was proper. 
+
+
+It is to that question that Allstate now turns. 
+
+
+Il. 
+
+
+THE NINTH CIRCUIT’S ABSTENTION ORDER IS 
+CONSISTENT WITH THIS COURT’S PREVIOUS 
+RULINGS AND WITH THE CURRENT TREND IN 
+THE CASELAW. 
+
+
+The starting point for any examination of whether a 
+District Court should abstain from hearing a dispute within 
+the jurisdiction conferred upon it is to recognize that absten- 
+tion is an extraordinary step that can be justified only in very 
+rare circumstances. This Court has emphasized the “virtu- 
+ally unflagging obligation of the federal courts to exercise 
+the jurisdiction given them.” Colorado River Water Conser- 
+
+
+19 
+
+
+vation Dist. v. United States, 424 U.S. 800, 817 (1976). This 
+Court likewise has held: 
+
+
+The doctrine of abstention ... is an extraordinary 
+and narrow exception to the duty of a District 
+Court to adjudicate a controversy properly before 
+it. Abdication of the obligation to decide cases can 
+be justified under this doctrine only in the excep- 
+tional circumstances where the order to the parties 
+to repair to the State court would clearly serve an 
+important countervailing interest. 
+
+
+Moses H. Cone, 460 U.S. at 14 (quoting Colorado River, 
+424 USS. at 813). 
+
+
+Moses H. Cone also established another controlling 
+principle: “[T]he presence of federal law issues must always 
+be a major consideration weighing against surrender” of 
+jurisdiction by the federal district court. 460 U.S. at 26. This 
+observation could hardly be of more obvious import here, 
+since the federal law issue present in Moses H. Cone is the 
+identical federal law issue presented here — whether 
+arbitration of the plaintiff's claims must be ordered under 
+the Federal Arbitration Act. 
+
+
+The fact that Allstate removed this case based on the 
+federal court’s diversity jurisdiction is also a relevant factor 
+in addressing the Burford abstention issue. First, this case is 
+a paradigmatic one for invocation of diversity jurisdiction: 
+Allstate is an out-of-state defendant which prefers to litigate 
+against a state official in federal rather than state court.'’ 
+
+
+'’ See R. Jacks, Arbitration & Insurer Insolvencies: The Triumph of 
+Common Sense Over Abstract Principle, in ABA NATIONAL INSTITUTE 
+ON INSURER INSOLVENCY, LAW & PRACTICE OF INSURANCE Com- 
+PANY INSOLVENCY at 260, 261 (1986) (“state rehabilitators and 
+liquidators prefer to resolve disputes between insurers and their reinsur- 
+ers in a friendly forum where they can expect to be treated with 
+something more than normal deference”); Spector, When Your Rein- 
+
+
+20 
+
+
+The grant of diversity jurisdiction gave Allstate the right to 
+choose between these forums. Second, the fact that the 
+Liquidator’s claims arise under state law does not distin- 
+guish this case from any other diversity action, and therefore 
+by itself affords no basis for abstention. Federal courts 
+decide state law issues, clear and unclear, in every diversity 
+case. As this Court recently reaffirmed, “ ‘[a]pplication of 
+the ‘State law’ to the present case ... does not present the 
+disputants with duties difficult or strange.’”” Salve Regina 
+College v. Russell, 499 U.S. 225, 227 (1991) (quoting 
+Ruhlin v. New York Life Ins. Co., 304 U.S. 202, 208-09 
+(1938)). In fact, a body of jurisprudence has developed 
+specifically to aid the federal courts in determining how, in 
+the absence of a controlling state court decision, the highest 
+court of the state would resolve a particular legal issue. See 
+generally 19 C. Wright, A. Miller, & E. Cooper, FEDERAL 
+PRACTICE & PROCEDURE: JURISDICTION § 4507 (1982).'* 
+
+
+While the foregoing principles formed the backdrop for 
+the Ninth Circuit’s opinion below, an equally fundamental 
+premise was the gist of its ruling. As the Ninth Circuit 
+observed, this Court’s decisions supporting abstention under 
+Burford have confined that abstention doctrine to equitable 
+proceedings rather than actions at law for the recovery of 
+money damages. In an opinion that even the Liquidator 
+acknowledges was “narrowly focused” (Pet. Cert. at 11), 
+
+
+surance Partner Goes Bust, in BEst’s REVIEW: PROPERTY-CASUALTY 
+Ins. Ep. (1986) (noting that in lawsuits to recover balances due 
+insolvent insurers, “liquidators enjoy an enormous home field advan- 
+tage” in their own state courts). 
+
+
+'*For instance, more than 50 years ago this Court instructed that: 
+
+
+Where an intermediate appellate state court rests its considered 
+judgment upon the rule of law which it announces, that is a datum 
+for ascertaining state law which is not to be disregarded by a federal 
+court unless it is convinced by other persuasive data that the highest 
+court of the state would decide otherwise. 
+
+
+West v. American Tel. & Tel. Co., 311 U.S. 223, 237 (1940). 
+
+
+21 
+
+
+the Ninth Circuit found that abstention was improper be- 
+cause “the power of federal courts to abstain from exercising 
+their jurisdiction, at least in Burford abstention cases, is 
+founded upon a discretion they possess only in equitable 
+cases.” 47 F.3d at 355-56. 
+
+
+The Liquidator urges this Court to review this holding 
+based on an inter-Circuit conflict allegedly created by a 
+single decision: Wolfson v. Mutual Benefit Life Ins. Co., 51 
+F.3d 141 (8th Cir. 1995). Wolfson involved an appeal from 
+a District Court order declining to lift a stay on an ERISA 
+action against an insolvent insurer. The plaintiff, Wolfson, 
+sought to recover benefits due under an employee welfare 
+benefits plan established by the defendant insurer. The 
+insurer was placed into rehabilitation proceedings, leading 
+the District Court to stay the ERISA action. The Eighth 
+Circuit affirmed the stay, finding both Burford and Colorado 
+River abstention principles to support such a ruling. See 51 
+F.3d at 145. 
+
+
+In so holding, the Eighth Circuit emphasized that the 
+action was one against the insolvent insurer which sought 
+“to establish a claim against the assets being administered 
+by the state court.” 51 F.3d at 146. The court distinguished 
+a separate category of cases — ones like the present action 
+against Allstate “in which the insolvent insurer or its re- 
+ceiver has asserted a claim in the federal action which, if 
+successful, will enhance the insolvent’s estate.” Jd. at 145. 
+The Eighth Circuit noted that it had recently “refused to 
+abstain” in such a case because, among other grounds, 
+“adjudication of that claim in federal court would neither 
+interfere with the receiver’s control of the insolvent nor 
+frustrate in any way the state’s interests in the insolvency 
+proceeding.” Jd. (citing Melahn v. Pennock Ins., Inc., 965 
+F.2d 1497, 1506-07 (8th Cir. 1992). 
+
+
+Thus, Wolfson unambiguously supports the result 
+reached by the Ninth Circuit below. Nor does Wolfson 
+
+
+_ _ 
+
+
+22 
+
+
+present a significant doctrinal conflict with the Ninth Cir- 
+cuit’s decision. Wolfson’s only discussion of whether Bur- 
+ford abstention should be extended to civil damages actions 
+came in a single paragraph at the end of the opinion, in 
+which the court observed: 
+
+
+We think it unwise to make rigid distinctions 
+between legal and equitable claims in the merged 
+federal system, particularly for claims such as 
+those under ERISA whose historical antecedents 
+are unclear. No doubt abstention is less apt to be 
+appropriate when the federal plaintiff seeks moncy 
+damages, but we do not read the Supreme Court's 
+abstention jurisprudence as completely foreclosing 
+abstention in money damage cases. 
+Id. at 147 (citation omitted). 
+
+
+These brief observations hardly afford a basis for this 
+Court’s intervention. To begin with, as already seen, 
+Wolfson affirms the Eighth Circuit's rejection of Burford 
+abstention in most civil damages actions by liquidators of 
+insolvent insurers, the kind of case presented here. Thus, 
+Wolfson and Garamendi v. Allstate do not present an 
+instance of like cases being decided differently, one hall- 
+mark of Supreme Court review. 
+
+
+Moreover, as the above-quoted language makes clear, 
+the Eighth Circuit’s holding emphasizes the fact that the 
+claim before it arose under ERISA, and that such statutory 
+claims cannot readily be classified as legal or equitable in 
+nature. To this extent, Wolfson does little more than suggest 
+a possible corollary to the Garamendi v. Allstate holding, 
+namely that Burford abstention might apply in cases that 
+defy ready definition as equitable or legal. It remains to be 
+seen whether the Ninth Circuit will embrace such a corol- 
+lary, or instead will strictly apply an “equity only” rule. The 
+
+
+23 
+
+
+Ninth Circuit had no occasion to consider that issue here, 
+since this case is clearly one at law. 
+
+Likewise, it largely remains to be seen how other 
+Courts of Appeals will rule with respect to the application of 
+Burford abstention in legal, equitable, and statutory pro- 
+ceedings. To the extent other circuits have addressed this 
+issue in the wake of NOPSI, they all seem to be in accord 
+with the Ninth Circuit's ruling in Garamendi, as the Ninth 
+Circuit noted below. See 47 F.3d at 356; see also See 
+Fragoso v. Lopez, 99\ F.2d 878, 882 (ist Cir. 1993) (in a 
+commercial tort action, “we think it is highly questionable 
+whether the court is one ‘sitting in equity’ to which Burford 
+abstention might be available”) (footnote omitted); Univer- 
+sity of Md. v. Peat Marwick Main & Co., 923 F.2d 265, 271 
+(3d Cir. 1991) (rejecting Burford abstention on the ground, 
+among others, that “[h]ere, unlike Burford and the other 
+Supreme Court cases involving the Burford doctrine, the 
+action was at law, not in equity, and sought money dam- 
+ages”); Costle v. Fremont Indem. Co., 839 F. Supp. 265, 270 
+(D. Vt. 1993) (holding that Burford abstention is inappro- 
+priate in action between reinsurer and state insurance com- 
+missioner, as liquidator of insolvent insurer, since “the 
+NOPS]1 distillation limits abstention under Burford to courts 
+sitting in equity”); Duane v. Government Employees Ins. 
+Co., 784 F. Supp. 1209, 1223 (D. Md. 1992) (same). 
+
+That the weight of authority so strongly inclines toward 
+limiting Burford abstention to equitable proceedings can be 
+readily explained: This Court's opinions, culminating in 
+NOPSI, dictate precisely such a conclusion. The Ninth 
+Circuit traced the evolution of this Court's decisions, see 47 
+F.3d at 354-56, and there is no need to repeat that discus- 
+sion in detail here. As the Ninth Circuit noted, see 47 F.3d 
+at 355, Burford itself made it clear that the abstention 
+
+
+24 
+
+
+doctrine it announced was to be applied in equitable 
+proceedings: 
+Although a federal equity court does have jurisdic- 
+tion of a particular proceeding, it may, in its sound 
+diserttion ... refuse to enforce or protect legal 
+rights, the exercise of which may be prejudicial to 
+the public interest. 
+319 U.S. at 317-18 (quotation marks and citations omitted; 
+emphasis supplied). See also Alabama Public Service 
+Comm'n v. Southern Ry. Co., 341 U.S. 341, 350-51 (1951) 
+(“a federal court of equity ... should stay its hand in the 
+public interest when it reasonably appears that private 
+interests will not suffer”) (emphasis supplied; quoting Great 
+Lakes Dredge & Dock Co. v. Huffman, 319 U.S. 293, 297-98 
+(1943)). 
+
+
+As the Ninth Circuit noted, this Court has expanded 
+some abstention doctrines to “special” classes of damages 
+cases. See Garamendi, 47 F.3d at 355 & n.11. But any 
+ambiguity regarding the application of Burford abstention to 
+run-of-the-mill damages actions such as the present case 
+was laid to rest in NOPSI. There, New Orleans Public 
+Service, Inc. was challenging a utility ratemaking order of 
+the New Orleans City Council. The Council's order partially 
+denied NOPSI’s request for a rate increase to reflect costs 
+incurred in construction of a nuclear reactor. NOPSI filed a 
+state court lawsuit for review of the ratemaking order. It also 
+filed a parallel federal court lawsuit, seeking declaratory and 
+injunctive relief on the ground that the order was preempted 
+by federal law providing for oversight by the Federal Energy 
+Regulatory Commission of the cost allocation. The District 
+Court abstained under Burford and Younger v. Harris," and 
+the Fifth Circuit affirmed. This Court reversed, holding that 
+— whatever the state’s interest in the outcome of the pro- 
+
+
+S401 U.S. 37 (1971). 
+
+
+25 
+
+
+ceeding — the federal court action simply did not present 
+the potential interference with state administrative proceed- 
+ings to justify federal court abstention. 491 U.S. at 372-73. 
+
+
+Most important for present purposes was NOPSI's 
+delineation of the parameters of Burford abstention. The 
+Court’s re-articulation of the Burford abstention doctrine 
+began with the observation that “a federal court sitting in 
+equity must decline to interfere with the proceedings or 
+orders of state administrative agencies” when the requisites 
+for Burford abstention are otherwise met. 491 U.S. at 361 
+
+
+(emphasis supplied). See also id, 491 U.S. at 360 (noting 
+that in Burford, this Court concluded that “the exercise of 
+
+
+ST ee ee ee ee 
+District Courts” should be declined) (emphasis 
+
+
+supplied). 
+
+
+More fundamentally, this Court in NOPS/] emphasized 
+that the Burford abstention doctrine — as a narrow excep- 
+tion to the “ ‘virtually unflagging’ ” obligation of the federal 
+courts “to adjudicate claims within their jurisdiction” — 
+merely confers 
+
+discretion in determining whether to grant certain 
+
+types of relief... Thus, there are some classes of 
+
+cases in which the withholding of authorized equi- 
+table relief because of undue interference with 
+
+State proceedings is the ‘normal thing to do.’ 
+
+Id., 491 U.S. at 359 (citations omitted; quoting Younger v. 
+Harris, 401 U.S. 37, 45 (1971)). Such discretion has no 
+application in a typical action at law, in which the only relief 
+sought is an award of money damages. 
+
+Instead, civil damages actions simply do not afford a 
+basis for a federal court to abstain from exercising its 
+jurisdiction under Burford. As this Court emphasized in 
+NOPSI, the fundamental principle underiying Burford ab- 
+stention is one of avoiding undue interference with state 
+
+
+oon EOE LL 
+
+
+26 
+
+
+administrative proceedings or orders. See 491 U.S. at 361- 
+62. For instance, in Burford, there was an impermissible 
+danger of federal interference because the federal court was 
+being asked to disapprove the Texas Railway Commission's 
+administrative approval of a permit to drill four oil wells, 
+when the state had developed “its own elaborate review 
+system for dealing with the geological complexities of oil 
+and gas fields.” Colorado River, 424 U.S. at 815 (discussing 
+Burford, 319 U.S. at 326). 
+
+Thus, in Burford, the federal court’s intervention 
+threatened to overturn the state Railway Commission's 
+attempt to maintain an intricate balance in the allocation of 
+drilling rights. That risk is simply absent in a typical lawsuit 
+for damages. No such improper interference would have 
+been presented, for instance, if the Texas Railway Commis- 
+sion had filed a civil damages action in federal court, as the 
+receiver of an insolvent drilling company, to recover pay- 
+ments due from third parties. This, of course, is just what 
+the Liquidator seeks to do here. 
+
+
+CONCLUSION 
+
+
+The Petition for Certiorari fails to show facts that 
+justify intervention by this Court. There is substantial una- 
+nimity among the circuits on the appealability of remand 
+orders in general, and it is uncertain to what extent there is 
+any conflict regarding the appealability of abstention-based 
+remand orders specifically. Indeed, pending further develop- 
+ments in the First Circuit, it may turn out that in practice 
+there is no divergence among the lower courts on this issuc. 
+
+If the Liquidator’s position on appealability of the 
+remand order were correct, this Court would never even 
+reach the other issue on which this Court’s review is urged 
+— the more substantive issue of whether Burford can justify 
+abstention in this straightforward commercial damages ac- 
+tion. For this reason alone, this case is not an appropriate 
+
+
+H 
+H 
+A 
+af 
+A 
+
+
+tial una- 
+nimity among the lower courts. Only the Eighth Circuit's 
+decision in Wolfson might be said to depart from the 
+prevailing view. But the Wolfson court was careful to limit 
+its holding to ERISA cases against the insolvent insurer, as 
+opposed to actions at law filed by the insolvent insurer's 
+liquidator to recover monies on the insolvent’s behalf. It is a 
+telling point that Wolfson — in acknowledging that Burford 
+affords no basis for abstaining from civil collection actions 
+filed on behalf of insolvent insurers — actually supports the 
+result reached by the Ninth Circuit below. 
+
+The Liquidator’s Petition for Certiorari should be 
+denied. 
+
+
+DATED: September 11, 1995 
+Respectfully submitted, 
+
+
+MUNGER TOLLES & OLSON 
+Joseru D. Lee 
+
+
+Attorneys for Respondent 
+Allstate Insurance Company 
+
+
+APPENDIX 1 
+MEMORANDUM TO CLERK 
+I certify that the judges concerned concur in this order 
+and authorize its filing. 
+WILLIAM A. NORRIS 
+United States Circuit Judge 
+
+
+No. 91-55855 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+JOHN GARAMENDI,* Insurance Comm. of 
+the State of California, in his capacity as liquidator of 
+MISSION INSURANCE COMPANY, ¢t al., 
+Plaintiff-Appellee, 
+vs. 
+A. STATE INSURANCE, 
+Defendant-Appellant, 
+and 
+INSURANCE COMPANY OF NORTH AMERICA, 
+
+
+Defendant. 
+Filed February 14, 1992 
+Cathy A. Catterson, Clerk, U.S. Court of Appeals 
+DC# CV-90-4713-WMB 
+Central California 
+ORDER 
+Before: NORRIS and LEAVY, Circuit Judges 
+
+
+*John Garamendi has been substituted for Roxani Gillespie pursuant 
+to Rule 43(c)(1) of the Federal Rules of Appellate Procedure. 
+
+
+2a 
+
+
+Appellant’s motion for an extension of time within 
+which to file opposition to appellee’s motion to dismiss the 
+appeal is granted. The opposition shall be filed as of Janu- 
+ary 22, 1992, the date it was received. 
+
+
+This appeal arises from an order remanding on absten- 
+tion grounds. Because the remand order was not based on 
+jurisdictional grounds, the prohibition on appellate review 
+imposed by 28 U.S.C. § 1447(d) does not apply. See 
+Thermtron Products, Inc. v. Hermansdorfer, 423 U.S. 336, 
+345-52. Accordingly, the motion to dismiss is denied. How- 
+ever, because it is not clear whether this appeal should be 
+more properly treated as a petition for writ of mandamus, we 
+refer the papers filed in connection with the motion to 
+dismiss for lack of jurisdiction to the merits panel for such 
+consideration as it deems appropriate. 
+
+Appellant’s opening brief and appellee’s answering brief 
+have been filed. The due date for the reply brief set out in 
+this court’s November 6, 1991 order is vacated. The reply 
+brief shall be due 14 days from the date of this order. This 
+
+
+appeal is ready for calendaring. 
+
+
+3a 
+
+
+APPENDIX 2 
+28 U.S.C. § 1447. Procedure after removal generally 
+
+
+(a) In any case removed from a State court, the 
+district court may issue all necessary orders and process to 
+bring before it all proper parties whether served by process 
+issued by the State court or otherwise. 
+
+
+(b) It may require the removing party to file with its 
+clerk copies of all records and proceedings in such State 
+court or may cause the same to be brought before it by writ 
+of certiorari issued to such State court. 
+
+
+(c) A motion to remand the case on the basis of any 
+defect in removal procedure must be made within 30 days 
+after the filing of the notice of removal under section 
+1446(a). If at any time before final judgment it appears that 
+the district court lacks subject matter jurisdiction, the case 
+shall be remanded. An order remanding the case may 
+require payment of just costs and any actual expenses, 
+including attorney fees, incurred as a result of the removal. 
+A certified copy of the order of remand shall be mailed by 
+the clerk to the clerk of the State court. The State court 
+may thereupon proceed with such case. 
+
+
+(d) An order remanding a case to the State court from 
+which it was removed is not reviewable on appeal or other- 
+wise, except that an order remanding a case to the State 
+court from which it was removed pursuant to section 1443 of 
+this title shall be reviewable by appeal or otherwise. 
+
+
+(¢) If after removal the plaintiff seeks to join addi- 
+tional defendants whose joinder would destroy subject mat- 
+ter jurisdiction, the court may deny joinder, or permit 
+joinder and remand the action to the State court. 
+
+
+4a 
+
+
+FEDERAL ARBITRATION ACT 
+9 U.S.C. §§ 1-16 
+
+
+§ 1. “Maritime transactions” and “commerce” defined; 
+exceptions to operation of title 
+
+
+“Maritime transactions”, as herein defined, means 
+charter parties, bills of lading of water carriers, agreements 
+relating to wharfage, supplies furnished vessels or repairs to 
+vessels, collisions, or any other matters in foreign commerce 
+which, if the subject of controversy, would be embraced 
+within admiralty jurisdiction; “commerce”, as herein de- 
+fined, means commerce among the several States or with 
+foreign nations, or in any Territory of the United States or in 
+the District of Columbia, or between any such Territory and 
+another, or between any such Territory and any State or 
+foreign nation, or between the District of Columbia and any 
+State or Territory or foreign nation, but nothing herein 
+contained shai! 2pply to contracts of employment of seamen, 
+railroad employees, or any other class of workers engaged in 
+foreign or interstate commerce. 
+
+
+§ 2. Validity, irrevocability, and enforcement of agree- 
+ments to arbitrate 
+
+
+A written provision in any maritime transaction or a 
+contract evidencing a transaction involving commerce to 
+settle by arbitration a controversy thereafter arising out of 
+such contract or transaction, or the refusal to perform the 
+whole or any part thereof, or an agreement in writing to 
+submit to arbitration an existing controversy arising out of 
+such a contract, transaction, or refusal, shall be valid, 
+irrevocable, and enforceable, save upon such grounds as 
+exist at law or in equity for the revocation of any contract. 
+
+
+Sa 
+
+
+§ 3. Stay of proceedings where issue therein referable to 
+arbitration 
+
+
+If any suit or proceeding be brought in any of the courts 
+of the United States upon any issue referable to arbitration 
+under an agreement in writing for such arbitration, the court 
+in which such suit is pending, upon being satisfied that the 
+issue involved in such suit or proceeding is referable to 
+arbitration under such an agreement, shall on application of 
+one of the parties stay the trial of the action until such 
+arbitration has been had in accordance with the terms of the 
+agreement, providing the applicant for the stay is not in 
+default in proceeding with such arbitration. 
+
+
+§ 4. Failure to arbitrate under agreement; petition to 
+United States court having jurisdiction for order to compel 
+arbitration; notice and service thereof; hearing and 
+determination 
+
+
+A party aggrieved by the alleged failure, neglect, or 
+refusal of another to arbitrate under a written agreement for 
+arbitration may petition any United States district court 
+which, save for such agreement, would have jurisdiction 
+under Title 28 in a civil action or in admiralty of the subject 
+matter of a suit arising out of the controversy between the 
+parties, for an order directing that such arbitration proceed 
+in the manner provided for in such agreement. Five days’ 
+notice in writing of such application shall be served upon the 
+party in default. Service thereof shall be made in the 
+manner provided by the Federal Rules of Civil Procedure 
+[USCS Rules of Civil Procedure]. The court shall hear the 
+parties, and upon being satisfied that the making of the 
+agreement for arbitration or the failure to comply therewith 
+is not in issue, the court shall make an order directing the 
+parties to proceed to arbitration in accordance with the 
+terms of the agreement. The hearing and proceedings, under 
+such agreement, shall be within the district in which the 
+petition for an order directing such arbitration is filed. If the 
+
+
+6a 
+
+
+making of the arbitration agreement or the failure, neglect, 
+or refusal to perform the same be i issue, the court shall 
+proceed summarily to the trial thereof. If no jury trial be 
+demanded by the party alleged to be in default, or if the 
+matter in dispute is within admiralty jurisdiction, the court 
+shall hear and determine such issue. Where such an issue is 
+raised, the party alleged to be in default may, except in cases 
+of admiralty, on or before the return day of the notice of 
+application, demand a jury trial of such issue, and upon such 
+demand the court shall make an order referring the issue or 
+issues to a jury in the manner provided by the Federal Rules 
+of Civil Procedure [USCS Rules of Civil Procedure], or 
+may specially call a jury for that purpose. If the jury find 
+that no agreement in writing for arbitration was made or that 
+there is no default in proceeding thereunder, the proceeding 
+shall be cismissed. If the jury find that an agreement for 
+arbitration was made in writing and that there is a default in 
+proceeding thereunder, the court shall make an order sum- 
+marily directing the parties to proceed with the arbitration in 
+accordance with the terms thereof. 
+
+
+§ 5. Appointment of arbitrators or umpire 
+
+
+If in the agreement provision be made for a method of 
+naming or appointing an arbitrator or arbitrators or an 
+umpire, such method shall be followed; but if no method be 
+provided therein, or if a method be provided and any party 
+thereto shall fail to avail himself of such method, or if for 
+any other reason there shall be a lapse in the naming of an 
+arbitrator or arbitrators or umpire, or in filling a vacancy, 
+then upon the application of either party to the controversy 
+the court shall designate and appoint an arbitrator or arbitra- 
+tors or umpire, as the case may require, who shall act under 
+the said agreement with the same force and effect as if he or 
+they had been specifically named therein; and unless other- 
+wise provided in the agreement the arbitration shall be by a 
+single arbitrator. 
+
+
+~ et ee - 
+
+
+7a 
+
+
+§ 6. Application heard as motion 
+
+
+Any application to the court hereunder shall be made 
+and heard in the manner provided by law for the making and 
+hearing of motions, except as otherwise herein expressly 
+provided. 
+
+
+§ 7. Witnesses before arbitrators; fees; compelling 
+attendance 
+
+
+The arbitrators selected either as prescribed in this title 
+or otherwise, or a majority of them, may summon in writing 
+any person to attend before them or any of them as a witness 
+and in a proper case to bring with him or them any book, 
+record, document, or paper which may be deemed material 
+as evidence in the case. The fees for such attendance shall 
+be the same as the fees of witnesses before masters of the 
+United States courts. Said summons shall issue in the name 
+of the arbitrator or arbitrators, or a majority of them, and 
+shall be signed by the arbitrators, or a majority of them, and 
+shall be directed to the said person and shall be served in the 
+same manner as subpoenas to appear and testify before the 
+court; if any person or persons so summoned to testify shall 
+refuse or neglect to obey said summons, upon petition the 
+United States district court for the district in which such 
+arbitrators, or a majority of them, are sitting may compel the 
+attendance of such person or persons before said arbitrator 
+or arbitrators, or punish said person or persons for contempt 
+in the same manner provided by law for securing the 
+attendance of witnesses or their punishment for neglect or 
+refusal to attend in the courts of the United States. 
+
+
+§ 8. Proceedings begun by libel in admiralty and seizure of 
+vessel or property 
+
+If the basis of jurisdiction be a cause of action other- 
+wise justiciable in admiralty, then, notwithstanding anything 
+herein to the contrary, the party claiming to be aggrieved 
+
+
+8a 
+
+
+may begin his proceeding hereunder by libel and seizure of 
+the vessel or other property of the other party according to 
+the usual course of admiralty proceedings, and the court 
+shall then have jurisdiction to direct the parties to proceed 
+with the arbitration and shall retain jurisdiction to enter its 
+decree upon the award. 
+
+
+§9. Award of arbitrators; confirmation; jurisdiction; 
+procedure 
+
+
+If the parties in their agreement have agreed that a 
+judgment of the court shall be entered upon the award made 
+pursuant to the arbitration, and shall specify the court, then 
+at any time within one year after the award is made any 
+party to the arbitration may apply to the court so specified 
+for an order confirming the award, and thereupon the court 
+must grant such an order unless the award is vacated, 
+modified, or corrected as prescribed in sections 10 and 11 of 
+this title. If no court is specified in the agreement of the 
+parties, then such application may be made to the United 
+States court in and for the district within which such award 
+was made. Notice of the application shall be served upon the 
+adverse party, and thereupon the court shall have jurisdic- 
+tion of such party as though he had appeared generally in 
+the proceeding. If the adverse party is a resident of the 
+district within which the award was made, such service shall 
+be made upon the adverse party or his attorney as prescribed 
+by law for service of notice of motion in an action in the 
+same court. If the adverse party shall be a nonresident, then 
+the notice of the application shall be served by the marshal 
+of any district within which the adverse party may be found 
+in like manner as other process of the court. 
+
+
+§ 10. Same; vacation; grounds; rehearing 
+
+
+(a) In any of the following cases the United States 
+court in and for the district wherein the award was made 
+
+
+9a 
+
+
+may make an order vacating the award upon the application 
+of any party to the arbitration — 
+
+
+(1) Where the award was procured by corruption, 
+fraud, or undue means. 
+
+
+(2) Where there was evident partiality or corruption in 
+the arbitrators, or cither of them. 
+
+
+(3) Where the arbitrators were guilty of misconduct in 
+refusing to postpone the hearing, upon sufficient cause 
+shown, or in refusing to hear evidence pertinent and material 
+to the controversy; or of any other misbehavior by which the 
+rights of any party have been prejudiced. 
+
+
+(4) Where the arbitrators exceeded their powers, or so 
+imperfectly executed them that a mutual, final, and definite 
+award upon the subject matter submitted was not made. 
+
+
+(5S) Where an award is vacated and the time within 
+which the agreement required the award to be made has not 
+expired the court may, in its discretion, direct a rehearing by 
+the arbitrators. 
+
+
+(b) The United States district court for the district 
+wherein an award was made that was issued pursuant to 
+section 580 of title 5 may make an order vacating the award 
+upon the application of a person, other than a party to the 
+arbitration, who is adversely affected or aggrieved by the 
+award, f the use of arbitration or the award is clearly 
+inconsistent with the factors set forth in section 572 of 
+title 5. 
+
+
+§ 11. Same; modification or correction; grounds; order 
+
+
+In either of the following cases the United States court 
+in and for the district wherein the award was made may 
+
+
+10a 
+
+
+make an order modifying or correcting the award upon the 
+application of any party to the arbitration — 
+
+
+(a) Where there was an evident material miscalcula- 
+tion of figures or an evident material mistake in the descrip- 
+tion of any person, thing, or property referred to in the 
+award. 
+
+
+(b) Where the arbitrators have awarded upon a matter 
+not submitted to them, unless it is a matter not affecting the 
+merits of the decision upon the matter submitted. 
+
+
+(c) Where the award is imperfect in matter of form 
+not affecting the merits of the controversy. 
+
+
+The order may modify and correct the award, so as to 
+effect the intent thereof and promote justice between the 
+
+
+parties. 
+
+
+§ 12. Notice of motions to vacate or modify; service; stay 
+of proceedings 
+
+
+Notice of a motion to vacate, modify, or correct an 
+award must be served upon the adverse party or his attorney 
+within three months after the award is filed or delivered. If 
+the adverse party is a resident of the district within which 
+the award was made, such service shall be made upon the 
+adverse party or his attorney as prescribed by law for service 
+of notice of motion in an action in the same court. If the 
+adverse party shall be a nonresident then the notice of the 
+application shall be served by the marshal of any district 
+within which the adverse party may be found in like manner 
+as other process of the court. For the purposes of the motion 
+any judge who might make an order to stay the proceedings 
+in an action brought in the same court may make an order, 
+to be served with the notice of motion, staying the proceed- 
+ings of the adverse party to enforce the award. 
+
+
+lla 
+
+
+§ 13. Papers filed with order on motions; judgment; dock- 
+eting; force and effect; enforcement 
+
+
+The party moving for an order confirming, modifying, 
+or correcting an award shall, at the time such order is filed 
+with the clerk for the entry of judgment thereon, also file the 
+following papers with the clerk: 
+
+
+(a) The agreement; the selection or appointment, if 
+any, of an additional arbitrator or umpire; and each written 
+extension of the time, if any, within which to make the 
+award. 
+
+
+(b) The award. 
+
+
+(c) Each notice, affidavit, or other paper used upon an 
+application to confirm, modify, or correct the award, and a 
+copy of each order of the court upon such an application. 
+
+
+The judgment shall be docketed as if it was rendered in 
+an action. 
+
+
+The judgment so entered shall have the same force and 
+effect, in all respects, as, and be subject to all the provisions 
+of law relating to, a judgment in an action; and it may be 
+enforced as if it had been rendered in an action in the court 
+in which it is entered. 
+
+
+§ 14. Contracts not affected 
+
+
+This title shall not apply to contracts made prior to 
+January 1, 1926. 
+
+
+§ 15. Inapplicability of the Act of State doctrine 
+
+
+Enforcement of arbitral agreements, confirmation of 
+arbitral awards, and execution upon judgments based on 
+orders confirming such awards shall not be refused on the 
+basis of the Act of State doctrine. 
+
+
+l2a 
+
+
+§ 16. Appeals 
+(a) An appeal may be taken from — 
+
+
+(1) an order — 
+
+
+(A) refusing a stay of any action under section 3 
+of this title, 
+
+(B) denying a petition under section 4 of this title 
+to order arbitration to proceed, 
+
+(C) denying an application under section 206 of 
+this title to compel arbitration, 
+
+(D) confirming or denying confirmation of an 
+award or partial award, or 
+
+(E) modifying, correcting, or vacating an award; 
+
+
+(2) an interlocutory order granting, continuing, or 
+modifying an injunction against an arbitration that is 
+subject to this title; or 
+
+
+(3) a final decision with respect to an arbitration 
+that is subject to this title. 
+
+
+(b) Except as otherwise provided in_ sec- 
+tion 1292(b) of title 28, an appeal may not be taken from 
+an interlocutory order — 
+
+
+(1) granting a stay of any action under section 3 of 
+this title; 
+
+
+(2) directing arbitration to proceed under section 4 
+of this title; 
+
+
+(3) compelling arbitration under section 206 of this 
+title; or 
+
+
+(4) refusing to enjoin an arbitration that is subject 
+to this title. 
+
+
+? a> >. ‘ 
+et See ae Le ae 
+
+

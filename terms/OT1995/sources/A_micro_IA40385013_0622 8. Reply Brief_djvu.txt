@@ -1,0 +1,922 @@
+(% Supreme Court, U.S 
+FJ LE b 
+
+
+UNITED STATES OF AMERICA, 
+Respondent. 
+
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES 
+COURT OF APPEALS FOR THE SEVENTH CIRCUIT 
+
+
+REPLY BRIEF FOR PETITIONER 
+
+Barry Levenstam 
+Counsel of Record 
+JENNER & BLOCK 
+One IBM Plaza 
+Chicago, IL 60611 
+(312) 222-9350 
+
+Of Counsel. 
+
+Jerold S. Solovy 
+
+Avidan J. Stern 
+
+Jacod |. Corré 
+
+JENNER & BLOCK 
+
+One IBM Plaza 
+
+Chicago, IL 60611 
+
+(312) 222-9350 
+
+
+TABLE OF CONTENTS 
+PAGE 
+pe ET PLS eee Tee ee i 
+TABLE OF AUTHORITIES ..............-002-. li 
+I ee ee 1 
+
+
+I. ENTRY OF SEPARATE JUDGMENTS OF CONVIC- 
+TION ON CCE AND CONSPIRACY VERDICTS BASED 
+ON THE SAME CONDUCT VIOLATES THE FIFTH 
+
+
+A. Under Ball, Judgments Of Conviction And Concurrent 
+Sentences Are Punishments For Purposes Of Applying 
+The Holding In Jeffers And Garrett That Congress Did 
+Not Intend Cumulative Punishment Under 21 U.S.C. 
+I ie Oe a peo as 5 6 542. 
+
+
+B. The Government's Reading Of Congressional Intent 
+Ignores This Court's Prior Determination In Jeffers 
+That Congress Did Not Intend To Allow Cumulative 
+Punishment Under 28 U.S.C. §§ 846 and 848. 
+
+
+C. The Structure And History Of The CCE And Conspir- 
+acy Statutes Cannot Distinguish Ball's Holding That 
+
+
+12 
+
+
+18 
+TABLE OF AUTHORITIES 
+PAGE 
+Cases 
+Albernaz v. United States, 450 U.S. 333 (1981) ........ 12 
+Ball v. United States, 470 U.S. 856 (1985) ........ passim 
+Beverly v. Jones, 854 F.2d 412 (11th Cir. 1988), 
+
+cert. denied, 490 U.S. 1082 (1989) ............. 17 
+Blockburger v. United States, 284 U.S. 299 (1932) ...... 10 
+Brown v. Ohio, 432 U.S. 161 (1977) .... 26... 255. 10 
+Burks v. United States, 437 U.S. 1 (1978) ............ 17 
+Department of Reverme of Montana v. Kurth Ranch, 
+
+114 8. Co. SBT CSS oa i. oN Pee Pe ve Chen 5 
+Garrett v. United States, 471 U.S. 773 (1985) ...... passim 
+larmelli v. United States, 420 U.S. 770 (1975) ......... 4 
+Jeffers v. United States, 423 U.S. 1066 (1976) ......... 9 
+Jeffers v. United States, 432 U.S. 137 (1977) ....... passim 
+Missouri v. Hunter, 459 U.S. 359 (1983) ........... 2, 6 
+Ray v. United States, 481 U.S. 736 (1986) (per curiam) ... 7 
+United States v. Aiello, 771 F.2d 621 (2d Cir. 1985) ..... 15 
+United States v. Ball, 163 U.S. 662 (1896) ........... 17 
+United States v. Batchelder, 442 U.S. 114 (1979) ....... 13 
+United States v. Delgado, 4 F.3d 780 (9th Cir. 1993)... .. 18 
+United States v. Halper, 490 U.S. 435 (1989) ......... 5 
+
+
+United States v. Jeffers, 532 F.2d 1101 (7th Cir 
+1976), aff'd in part and vacated in part and 
+remanded, 432 U.S. 137 (1977) | 9 
+
+
+iil 
+PAGE 
+
+
+United States v. Silvers, 888 F. Supp. 1289 (D. Md. 1995) . 18 
+
+
+United States v. Tateo, 377 U.S. 463 (1964) .......... 17 
+United States v. Ward, 37 F.3d 243 (6th Cir. 1994), 
+
+cert. denied, 115 S. Ct. 1388 (1995) ............ 18 
+United States v. Witek, 61 F.3d 819 (11th Cir. 1995) ..... 18 
+Whalen v. United States, 445 U.S. 684 (1980) ......... 10 
+
+Constitutional Provisions 
+U.S. Constitution Amend. V .............555. passim 
+Federal Statutes 
+
+ers. Ce seh ae ee ee sf ot ep coe 12-15 
+PUT TELE TLEEEEL Le 11 
+ET ee ee 12-15 
+ET Te eR 7, 16 
+IE a 4 
+coer. Ts oo 5 oo ee aces ccc 0c 2 
+
+
+Violent Crime Control Act of 1994, Pub. L. No. 
+103-322, Tithe VII, § 70002, 108 Stat. 1984 
+(1994) (amending 18 U.S.C. § 3582(c)) .......... 7 
+
+
+| New Shorter Oxford English Dictionary 467 (1990) .. . . . 10 
+| Webster's Third New International Dictionary 470 (1986) . 10 
+
+
+Black's Law Dictionary 289 (Gth ed. 1986) ........... 10 
+Fed. R. Crim. P. 320M 1).....-...... Verurecre 
+US. S. CLR. 14.f@) ... aie 0 ite: a 
+
+
+on — i ee ee 
+
+
+In its brief, the Government does not come to terms with the 
+interrelation between this Court's decisions in Jeffers v. United 
+States and Garrett v. United States on the one hand, and Bail v. 
+United States on the other. Instead, the Government focuses on the 
+
+
+unique procedural posture of Jeffers — the fact that the defendant 
+created his own double jeopardy problems by insisting upon multipie 
+prosecutions — while ignoring the fact that the Jeffers Court 
+recognized a multiple punishments issue that Jeffers and the 
+Government both had overlooked. The Court deemed this Fifth 
+Amendment issue important enough to address nevertheless, and 
+framed the “critical inquiry” as “whether Congress intended to 
+punish each statutory violation separately." Jeffers v. United States, 
+432 U.S. 137, 154-55 (1977). The Court's answer is negative: the 
+reduction of the criminal fine that this Court ordered in Jeffers 
+
+
+2 
+
+
+followed directly from its specific conclusion that "Congress did not 
+intend to impose cumulative penalties under §§ 846 and 848” in 
+cases where the same criminal agreement supported the separate 
+charges under those two statutes. Jd. at 157. 
+
+
+Bounded by the holding in Jeffers, which was noted with 
+approval in Garrett v. United States, 471 U.S. 773, 794 (1985), the 
+Government seeks to put a fine point on Congress's intent: 
+acknowledging that Congress did not authorize pyramiding punish- 
+ments under §§ 848 and 846, which Congress could have done 
+under Missouri v. Hunter, 459 U.S. 359 (1983), the Government 
+contends that Congress did intend to authorize multiple convictions 
+with concurrent sentences. The Government's reading of Con- 
+gressional intent is highly unlikely — if Congress really saw these 
+as separate and distinct offenses meriting separate and distinct 
+convictions and punishments it likely would have authorized 
+pyramiding their sentences — and the Government offers no clear 
+expression of this unlikely intent from Congress. 
+
+Moreover, Ball, which was decided earlier in the same term as 
+Garrett, bars the entry of multiple judgments of conviction, as well 
+as the imposition of concurrent sentences, in cases where Congress 
+did not intend the same conduct to be punished under two statutes: 
+“the second conviction, even if it results in no greater sentence, is 
+an impermissible punishment.” Ball v. United States, 470 U.S. 856, 
+865 (1985). Applying Ball's holding concerning judgments of 
+conviction to the findings of Jeffers and Garrett concerning 
+Congressional intent leads to the conclusion, adopted by a sig- 
+nificant majority of the courts of appeals (see Pet. Br. 17-18), that 
+the Double Jeopardy Clause forbids even the entry of separate judg- 
+ments under both §§ 846 and 848 when both charges are based on 
+the same scheme. 
+
+
+The Government seeks to circumvent this analysis by arguing 
+that the unique relationship between another pair of statutes at issue 
+in Ball generated the conclusion that Congress did not intend to 
+allow multiple judgments of conviction for the same conduct, and 
+
+
+3 
+
+
+that no such conclusion is warranted here with respect to 28 U.S.C. 
+§§ 846 and 848. (See U.S. Br. 17-24). However, as shown below, 
+there are no material differences between the two sets of statutes to 
+support the Government's speculative distinctions concerning 
+not intend cumulative punishment with respect to either the weapons 
+statutes in Ball or the statutes in the case at bar. In both situations 
+the mere entry of judgment of conviction operates as a punishment. 
+Nowhere in its argument does the Government offer a good reason 
+why this Court should ignore the impermissibly cumulative and 
+punitive effect of a second judgment of conviction in combined CCE 
+and conspiracy prosecutions.’ 
+
+
+I. ENTRY OF SEPARATE JUDGMENTS OF CONVICTION 
+ON CCE AND CONSPIRACY VERDICTS BASED ON 
+THE SAME CONDUCT VIOLATES THE FIFTH AMEND- 
+MENT. 
+
+
+A. Under Ball, Judgments Of Conviction And Concurrent 
+Sentences Are Punishments For Purposes Of Applying 
+The Holding In Jeffers And Garrett That Congress Did 
+Not Intend Cumulative Punishment Under 21 U.S.C. 
+§§ 846 and 848. 
+
+
+The Government does not dispute that, under Jeffers and 
+Garrett, Rutledge cannot receive greater punishment as a result of 
+
+
+¥ The Government's formulation of the “Question Presented” (U.S. Br. I) 
+suggests that the issue in this case is whether the Doubie Jeopardy Clause requires 
+that the conspiracy judgment specifically be vacated in light of the CCE judgment. 
+Rutledge respectfully suggests that the constitutional proscription of cumulative 
+punishment not intended by the legislature is remedied so long as either one of the 
+two judgments and the sentence thereunder is vacated. (See Pet. Br. i.) The 
+decision as to which of the cumulative judgments and sentences should be vacated 
+(or, im the ordinary course, not entered in the first place) belongs in the first 
+instance to the sentencing court. See Ball, 470 U.S. at 864 (remedy for 
+unconstitutionally cumulative judgments “is for the District Court, where the 
+semencing responsibility resides, to exercise its discretion to vacate one of the 
+
+
+4 
+
+
+the separate guilty verdicts for violating §§ 846 and 848 than he 
+could receive under one of those statutes, where the verdicts are 
+based on the same conduct. (See U.S. Br. 15, 17.) That point 
+conceded, the Government cannot limit the question of whether 
+Rutledge's two convictions and sentences on the CCE and con- 
+spiracy charges have resulted in a impermissible greater punishment 
+to an inquiry into whether his total prison term and fine exceed the 
+parameters established by one statute or the other. Since each 
+separate judgment of conviction and concurrent sentence amount to 
+punishment, as Ball held, the entry of multiple judgments of 
+conviction with concurrent sentences imposed on Rutledge resulted 
+in a punishment that could not have been imposed under only one 
+of the statutes. Because each judgment of conviction is in its own 
+right a separate punishment, even if the corresponding sentences are 
+concurrent, Rutledge has been subject to the very accumulation or 
+"pyramiding” of criminal sanctions that the Government concedes 
+the Fifth Amendment prohibits (see U.S. Br. 15), given the 
+undisputed conclusion that Congress did not intend the CCE and 
+conspiracy statutes to impose cumulative punishment for the same 
+conduct. Jeffers, 432 U.S. at 157; Garrett, 471 U.S. at 795.“ 
+In arguing that Rutledge's constitutional claims are governed 
+exclusively by the intent of the legislature, the Government misses 
+the point that the question of whether judgments of conviction and 
+
+
+* The Government is correct in noting that, contrary to the statement in 
+Rutiedge's opening brief, this Court was not unanimous in Jeffers in concluding 
+that Congress did not mitend to mmpose cumulative punishment under the two 
+statutes. (See Pet. Br. 10; U.S. Br. 13.0.7.) Justice White opined that the statutes 
+in Jeffers involved separate offenses for purposes of the Double Jeopardy Clause 
+under Jarmmelli v. United Sates, 420 US. 770 (1975), and that cumulative 
+pumishmemt consequently would be permussible under the conspiracy and CCE 
+statutes. Jeffers, 432 U.S. at 158 (White, J., concurring im part and dissenting in 
+part). Nevertheless, eight justices concluded in Jeffers that such cumulative 
+punishment was forbidden under the muituple pumsshments protecuon of the Doubie 
+Jeopardy Clause. and thus Court (mchuding Justice Whate) expressly approved that 
+conclusion exght years laser m Govvem 
+
+
+5 
+
+
+concurrent sentences are punishments is not itself a simple question 
+of legislative intent. In Ball, this Court emphasized that "'punish- 
+ment’ must be the equivalent of a criminal conviction and not simply 
+the imposition of sentence." Ball, 470 U.S. at 861. 
+
+
+Decisions of this Court subsequent to Bail highlight the 
+constitutional, rather than legislative, nature of what constitutes 
+punishment for purposes of the Double Jeopardy Clause. United 
+States v. Halper, 490 U.S. 435 (1989), heid that the legislatively- 
+drawn line between “civil” and “criminal” proceedings did not serve 
+as a boundary for the Double Jeopardy Clause. Jd at 446-49. 
+Instead, the question whether a sanction "constitutes punishment in 
+the relevant [i.e., Fifth Amendment] sense requires a particularized 
+assessment of the penalty imposed and the purposes that the penalty 
+may fairly be said to serve.” Id at 448. Hence, a sanction "that 
+cannot fairly be said solely to serve a remedial purpose, but rather 
+can only be explained as also serving either retributive or deterrent 
+purposes, is punishment, as we have come to understand the term." 
+Id See also Department of Revenue of Montana v. Kurth Ranch, 
+114 S. Ct. 1937, 1945 (1994) (legislative characterization is not 
+dispositive on question of whether sanction is “punitive in 
+character"); id at 1950 (Rehnquist, C.J., dissenting) ("The Court 
+asks the right question, . . ., but reaches the wrong conclusion”); 
+id at 1953 (O'Connor, J., dissenting) (". . . a tax imposed on the 
+possession of illegal drugs is subject to double jeopardy analysis"). 
+
+With the guidance of Halper, it cannot be gainsaid that the 
+separate and additional conviction and concurrent sentence constitute 
+separate and additional punishment. Visiting the second conviction 
+and sentence on Rutledge for the same conduct as the first plainly 
+is “retributive.” Halper, 490 U.S. at 448. Each additional 
+conviction, and each additional sentence, even without extending the 
+length of a semtence, exacts additional retribution. If this were not 
+so, the Government would not fight so hard to preserve them. The 
+ability to report to the press that a defendant is guilty of not one but 
+two serious drug offenses, that he has received not one but two life 
+
+
+6 
+
+
+sentences, is the ability to subject the defendant to additional public 
+scorn — the very same “societal stigma” that Ball mentioned. 
+470 U.S. at 865. 
+
+
+Therefore, while there may be no Fifth Amendment limits on 
+Congress's power to provide for cumulative punishment in a single 
+proceeding, Missouri v. Hurter, 459 U.S. 359, 365-68 (1983), the 
+question of how to implement Congress's intent, as discerned in 
+Jeffers, not to punish the same conduct under both the CCE and 
+conspiracy statutes requires a judicial answer. Ball supplies that 
+answer, by holding that the additional judgment of conviction and 
+its concurrent sentence are additional punishment. 470 U.S. at 865. 
+
+
+The categorical approach of Ball also saves sentencing courts 
+from having to determine whether the additional judgment and 
+sentence may have a significant collateral consequence at some 
+unknown point in the distant future — a task that is particularly 
+impossible where, as here, the projected sentence is life inprison- 
+ment. (See Pet. Br. 13-16.) Indeed, for all its attempts to intimate 
+that the additional judgment and sentence make no difference to 
+Rutledge, the Government does not and could not contend that they 
+will never matter.” The Government notes that under current law 
+the additional judgment will not affect a parole decision because 
+there is no federal parole at this time. (See U.S. Br. 22n.11.) But 
+no one can guarantee that parole will not be reintroduced during 
+Rutledge's lifetime, and in a fashion where the additional judgment 
+and sentence would defeat his eligibility. No one can guarantee that 
+the additional judgment and sentence will not play an adverse role 
+in determining whether Rutledge will be granted a compassionate 
+release later in life. See Pet. Br. 16 (discussing trend towards early 
+and compassionate release for older prisoners); Violent Crime 
+
+
+* For example, the Government argues that “the threat of adverse consequences 
+for the defendant is much less here than in Ball" (U.S. Br. 22), not that the threat 
+of adverse consequences does not exist. Similarly, the Government asserts that 
+is “doubtful” (U.S. Br. 24), not impossible, that a defendant convicted of CCE 
+will suffer an incremental stigma from the conspiracy conviction. 
+
+
+7 
+
+
+Control Act of 1994, Pub. L. No. 103-322, Title VII, § 70002, 108 
+Stat. 1984 (1994) (amending 18 U.S.C. § 3582(c)) (authorizing 
+release of a federal prisoner who is at least 70 years old and has 
+served at least 30 years of his sentence, if not inconsistent with 
+Sentencing Commission policy statements). And certainly no one 
+can guarantee that Rutledge will suffer no additional stigma from 
+an additional conviction and life sentence, since the general public 
+is likely to believe that an additional life sentence reflects a separate 
+heinous crime, rather than pure prosecutorial "piling-on."” The 
+considerations that led this Court in Bail to conclude that judgments 
+of conviction and concurrent sentences are "punishment" apply with 
+equal force here; and that conclusion requires that the district court 
+be directed to vacate one of Rutledge's CCE and conspiracy convic- 
+tions. 
+
+
+* Furthermore, as Rutledge specifically argued in his opening brief, the 
+cumulative judgments already have resulted in an impermissible cumulative penalty 
+under 18 U.S.C. § 3013, which requires separate $50 assessments for each charge 
+on which the sentencing court enters judgment. (See Pet. Br. 3, 16.) The 
+government is incorrect to suggest that the question presented in Rutledge's petition 
+and brief presupposes full concurrence of the sentence. (U.S. Br. 7 0.1.) An 
+additional judgment of conviction automatically \eads to an additional assessment 
+under 18 U.S.C. § 3013. Likewise, vacatur of one of the judgments will as a 
+matter of course result in a correspondingly reduced assessment. Consequently, 
+the question of the validity of the cumulative assessmemt is at issue here as “a 
+subsidiary question fairly included” in the question presented, which expressly 
+challenges the cumulative judgments of conviction on the separate CCE and 
+conspiracy counts. U.S. S. Ct. R. 14.1(a). There was no need for Rutledge to 
+focus extensively on the additional $50 assessment because the Government has 
+never contended in this case that appellate review is barred by the concurrent 
+sentences doctrine. See U.S. Br. 7 n.1, 27 n.13 ("the concurrent sentences 
+doctrine now has virtually no application in the federal system"), citing Ray v. 
+United States, 481 U.S. 736 (1986) (per curiam). 
+
+
+Punishment Under 28 U.S.C. §§ 846 and 848. 
+
+
+The parties agree that the question whether the entry of 
+judgment on convictions for both the CCE and conspiracy counts 
+of the indictment against Rutledge violated the Double Jeopardy 
+Clause involves an analysis of whether Congress intended to allow 
+punishments for both offenses. (See Pet. Br. 8; U.S. Br. 4.) In 
+Jeffers, this Court considered and decided this very question. 
+Declaring that the "critical inquiry" on the multiple punishments 
+issue was “whether Congress intended to allow cumulative 
+punishment for violations of §§ 846 and 848," this Court unam- 
+biguously stated, "We have concluded that it did not. . . ." Jeffers, 
+432 U.S. at 155. The Court based this conclusion on a thorough 
+analysis of the structure, policy, and legislative history of the 
+statutes. Jd. at 156-57. 
+
+
+Notwithstanding this Court's clear holding to the contrary, the 
+Government argues that Congress must have intended to allow dual 
+convictions and concurrent sentences for violations of both statutes 
+based on the same agreement. To avoid the Jeffers holding, the 
+Government argues that this Court's discussion of Congress's intent 
+not to allow “cumulative punishment” merely referred to extending 
+the length of incarceration or increasing the amount of the fine. 
+(U.S. Br. 15.) To support this overly narrow view of Jeffers, the 
+Government states that the end result in Jeffers was that the Court 
+left intact the defendant's multiple convictions and concurrent 
+sentences, and simply reduced the total fines so that they would not 
+exceed the maximum provided under both statutes. From this, the 
+Government argues that if this Court really meant that Congress had 
+not “intended to punish each statutory violation separately," 432 
+U.S. at 155, it would have vacated one of the convictions. 
+
+
+The Government's argument fails for two reasons. First, this 
+Court had not yet addressed the question whether two separate 
+
+
+9 
+
+
+convictions and concurrent sentences for the same conduct constitute 
+separate punishment for purposes of the Double Jeopardy Clause. 
+This Court did not address the issue until Ball, eight years after 
+Jeffers. It is the combination of this Court's finding in Jeffers that 
+Congress did not intend “cumulative punishment" and its holding 
+in Ball that an additional conviction and concurrent sentence 
+constitutes cumulative punishment which establishes that Rutledge's 
+
+Second, the procedural history and the arguments presented to 
+this Court in Jeffers, and not a narrow view of the double jeopardy 
+protection, led to the limited nature of the relief granted in that 
+case. Jeffers had insisted on being tried separately on the con- 
+spiracy and CCE counts; he demanded multiple prosecutions and 
+got them by objecting to the Government's request for a single trial. 
+As a consequence, his conspiracy conviction had been affirmed and 
+the certiorari petition therefrom denied, 423 U.S. 1066 (1976), even 
+before the court of appeals had ruled on the appeal from his CCE 
+conviction, 532 F.2d 1101 (7th Cir. 1976). With only the CCE life 
+sentence before it, there was little the Court could have done, even 
+if it had been properly alerted to the issue raised by the concurrent 
+sentences.” But in addition, Jeffers failed to alert the Court to the 
+constitutional issue raised by the concurrent sentences. To the 
+contrary, Jeffers informed the Court “that this is not a case of 
+multiple punishments but a case of multiple prosecutions." Brief 
+for Petitioner at 21, Jeffers v. United States, 432 U.S. 137 (1977) 
+(No. 75-1805). Because Jeffers never raised this issue, later to be 
+addressed in Ball, the Court simply dismissed the question of the 
+
+
+Y Because it had tried to avoid the problem by seeking a single trial for all 
+counts, vacating the CCE conviction with its lengthier sentence would not have 
+been fair to the Government. If the conspiracy conviction had been before the 
+Court at the same time, it could have vacated the 15-year prison sentence for that 
+conviction entirely and still left Jeffers with the life sentence on the CCE 
+conviction. With only the life term before it, thougli, the Court could not take the 
+same approach it had used with respect to the fines and reduce his life sentence 
+to “life mir fifteen years.” 
+
+
+10 
+
+
+concurrent prison terms without analysis in a footnote. 432 U.S. 
+at 155 n.24. 
+
+
+Given the Government's willingness to assume that §§ 848 and 
+846 here define the "same offense” for purposes of Blockburger v. 
+United States, 284 U.S. 299 (1932), an assumption that is well- 
+founded,® the Government's brief is remarkable for the absence of 
+any reference to a “clear indication" by Congress of an intent to 
+permit multiple convictions and sentencing for CCE and conspiracy 
+convictions. See Whalen v. United States 445 U.S. 684, 691-92 
+(1980). Instead of any clear statement of Congressional intent, the 
+Government offers supposition and conjecture regarding why it is 
+“appropriate to presume" (U.S. Br. 17) that Congress intended to 
+allow multiple punishments under §§ 848 and 846. But the fact that 
+
+
+® Were it necessary actually to resolve the “same offense” question, the result 
+would be the same because conspiracy is in fact a lesser included offense of CCE. 
+Conspiracy and CCE are the “same offense” under the Blockburger test because 
+there is no element in the conspiracy offense that is not also an element of the CCE 
+offense. “Every minute” that a defendant was committing a CCE violation, “he 
+was simultaneously committing both the lesser included [offense] and the greater 
+felony.” See Garrett, 471 U.S. at 789 (discussing Brown v. Ohio, 432 U.S. 161 
+(1977)). The Government's position to the contrary, to which it still adheres in 
+theory (see U.S. Br. 11-12 n.5), depends on the implausible contention that a 
+group of people act “in concert” even though one or more of those people is 
+unaware of the underlying scheme or purpose of the action. That interpretation 
+of the CCE statute defies the plain meaning of “concerted action.” See, e.g, 
+Black's Law Dictionary 289 (6th ed. 1986) (defining “concerted action” as "Action 
+that has been planned, arranged, adjusted, agreed on and settled between parties 
+acting together pursuant to some design or scheme"); 1 Webster's Third New 
+International Dictionary 470 (1986) (defining “concerted” as "mutually contrived 
+or planned: agreed on"); 1 New Shorter Oxford English Dictionary 467 (1990) 
+(defining “concert” as "Agreement in a plan or design; accordance, harmony”). 
+This Court has already noted that “[s}ince the word ‘concert’ commonly signifies 
+agreement of two or more persons in a common plan or enterprise, a clearly 
+articulated statement from Congress to the contrary would be necessary before that 
+meaning should be abandoned.” Jeffers, 432 U.S. at 149 n.14. As the 
+Government acknowledges, in recent years the courts of appeals have rejected 
+unanimously the argument that conspiracy is not a lesser included offense in single 
+agreement cases such as this one. (See U.S. Br. 12 n.5.) 
+
+
+1] 
+
+
+§ 848 adds to the “agreement” element it shares with § 846 an 
+element requiring proof of the commission of substantive drug 
+offenses is not a clear indication that Congress intended to authorize 
+concurrent (but only concurrent) sentences for CCE and conspiracy 
+(U.S. Br. 16). And while the Government is correct that the CCE 
+offense is more serious than a so-called "simple" drug conspiracy 
+(U.S. Br. 16-17), Congress provided for the added seriousness of 
+the CCE offense by including stiffer sentences in § 848. If 
+anything, the serious nature of CCE might have prompted Congress 
+to authorize the pyramiding of sentences — which it clearly knows 
+how to do. See, ¢.g., 18 U.S.C. § 924(c)\(1). But the Government 
+concedes that Congress did not take that approach, and is left with 
+the unlikely position that Congress intended on the one hand to 
+permit dual convictions for CCE and conspiracy but on the other 
+to prohibit courts from using those dual convictions as a basis for 
+imposing lengthier prison terms or greater fines. 
+
+In the end, the Government resorts to arcane speculation, 
+suggesting that Congress might have intended § 846 to operate as 
+a sort of backup conviction in the event that a § 848 conviction was 
+ever overturned for failure to prove beyond a reasonable doubt one 
+of the elements that distinguishes § 848 from § 846. (U.S. Br. 20- 
+21.) But the Government cannot establish that Congress ever gave 
+a thought to this issue when it enacted the CCE statute, or that it 
+has ever intentionally created any other similar "backup" offenses. 
+
+
+The fact remains that in Jeffers this Court asked "whether 
+Congress intended to punish each statutory violation separately” and, 
+after conducting an analysis that the Government does not challenge, 
+“concluded that it did not.” 432 U.S. at 155. This is definitive as 
+to Congressional intent. 
+
+
+12 
+
+
+C. The Structure And History Of The CCE And Conspir- 
+acy Statutes Cannot Distinguish Ball's Holding That 
+Judgments Of Conviction And Concurrent Sentences 
+Are Cumulative Punishment Forbidden By The Fifth 
+Amendment. 
+
+
+Jeffers and Ball mirror each other in their reasons for determin- 
+ing that Congress did not intend to punish the same conduct twice 
+under the respective pairs of statutes at issue in those cases. The 
+conclusion in Jeffers that Congress did not intend multiple punish- 
+ments under the CCE and conspiracy statutes followed from the fact 
+that both statutes were addressed to "the additional dangers posed 
+by concerted activity." Jeffers, 432 U.S. at 157 (Opinion of 
+Blackmun, J.); see also Garrett, 471 U.S. at 794 (approving Jeffers 
+because "the dangers posed by a conspiracy and a CCE were 
+similar"). Likewise, in Ball, the Court found that Congress did not 
+intend cumulative punishments under the gun receipt and possession 
+Statutes at issue there because "[t}he independent but overlapping 
+statutes simply are not ‘directed to separate evils'." Baill, 470 U.S. 
+at 864 (quoting Albernaz v. United States, 450 U.S. 333, 343 
+(1981)). The Government therefore faces a heavy burden in arguing 
+that Congress intended to allow multiple judgments and concurrent 
+sentences with respect to 21 U.S.C. §§ 846 and 848, even though 
+Congress did not intend to allow such a result with resnect to 18 
+U.S.C. §§ 922(h) and 1202(a). There is no direct evidence for this 
+contention in the statutory language, the legislative history, or 
+elsewhere. Moreover, none of the arguments that the Government 
+offers as to the respective sets of statutes justifies the Government's 
+attempt to impute diametrically opposed intentions to Congress with 
+respect to the two sets of statutes. 
+
+
+The Government argues that the relevant drug statutes are 
+different from the gun statutes on structural grounds (U.S. Br. 16- 
+17), and suggests that because "Congress intended to create a 
+distinct statutory offense when it created the CCE statute” it is 
+“appropriate to presume that Congress intended to permit dual 
+convictions with concurrent sentences for violation of the drug 
+
+
+13 
+
+
+conspiracy statute and the CCE offense.” (U.S. Br. 17.) That is 
+no distinction at all because 18 U.S.C. §§ 922(h) and 1202(a) are 
+equally distinct offenses. In fact, this Court in Bail held that 
+Congress did not intend to impose multiple judgments and concur- 
+rent sentences when possession of a gun was incidental to its receipt 
+even though this Court recognized that “each substantive statute, in 
+conjunction with its own sentencing provision, operates independent- 
+ly of the other." Ball, 470 U.S. at 860 (quoting United States v. 
+Batchelder, 442 U.S. 114, 118 (1979)). The independence of the 
+two statutes can justify the prosecution of b~th counts and the return 
+of multiple guilty verdicts, but not the -ntry of dual judgments of 
+conviction and the imposition of concurrent sentences. 
+
+
+Nor does the degree of overlap between 18 U.S.C. §§ 922(h) 
+and 1202(a) provide any meaningful distinction between Jeffers and 
+Ball. (See U.S. Br. 19-20). The overlap between those statutes is 
+not as complete as the Government suggests. At least one other 
+factual situation, which occurs far more often than a defendant 
+manufacturing a gun (see U.S. Br. 19), will expose the defendant 
+to conviction under § 1202(a) (possession) but not under § 922(h) 
+
+
+convicted of a felony. Moreover, as Chief Justice Burger observed 
+in Ball, $§ 922(h) and 1202(a) each apply to “substantial groups of 
+people not covered by the other.” 470 U.S. at 863, 0.13. By 
+comparison, the CCE-conspiracy overlap in this case is complete. 
+“Every moment of [Rutledge's] conduct was as relevant to the [con- 
+spiracy] charge as it was to the [CCE] charge.” Garrett, 471 U.S. 
+
+
+at 787,” 
+
+
+14 
+
+
+Furthermore, the "practical concerns” over direct or collateral 
+attack supposed by the Government do not justify treating judgments 
+of conviction and concurrent sentences as not intended in the Bal/ 
+situation but intended in the Jeffers situation. (See U.S. Br. 20-22.) 
+The Government fails to show that there is, in fact, a high rate of 
+success in direct or collateral attacks on CCE convictions. This is 
+hardly surprising, since showing a high reversal rate in CCE cases 
+would suggest that too often prosecutors are either charging too 
+aggressively or prosecuting these cases in an improper manner. In 
+fact, many challenges are not successful, and of those that are, only 
+successful challenges to the sufficiency of the evidence are likely 
+to lead to outright reversals of CCE convictions; others will lead to 
+retrials. See Section II, below. The Government's “practical 
+concerns,” therefore, are largely illusory; ultimately, judicious use 
+
+
+of the serious CCE charge by prosecutors is the best protection for 
+the problems of which the Government complains. 
+
+
+Moreover, since a CCE conviction requires proof of a substan- 
+tive drug offense in addition to the special CCE elements that 
+completely subsume a conspiracy offense, vacatur of the CCE 
+conviction will leave intact the conviction and sentence for the 
+substantive offense, to which the Government is entitled under 
+Garrett, 471 U.S. at 795, without violating the Double Jeopardy 
+Clause. There is, therefore, no threat of a felon going free in any 
+event. 
+
+
+Finally, the Government understates the degree to which it is 
+possible to prevail in a challenge of a receipt conviction under 
+§ 922(h) while failing to prevail on a similar challenge to a 
+
+
+possession conviction under § 1202(a), or vice versa. The success 
+
+
+Y (...continued) 
+
+statutes defined the same offense and were directed to the same problem. Baill, 
+470 U.S. at 860-62. Likewise, in Jeffers and Garrett, this Court concluded that 
+the CCE and conspiracy statutes both are directed to the additional dangers posed 
+by concerted activity. Jeffers, 432 U.S. at 157; Garrett, 471 U.S. at 759. 
+
+
+15 
+
+
+of the one challenge may well imply the success of the other in 
+cases where the alleged error is based on the evidence admitted at 
+trial. Even there, however, evidence of receipt while a felon could 
+be improperly admitted, thus requiring vacatur of a receipt 
+conviction, even though the evidence of possession while a felon 
+was perfectly sound. In addition, the viability of a purely legal 
+challenge to one of the two gun-related convictions — based, for 
+example, on jury instructions, irregularities in the indictment, or the 
+like — simply does not imply that there are viable grounds for 
+overturning the other gun-related conviction. The difference, if 
+there is any, in the prospects for successful direct or collateral 
+attack in the Baill context and the Jeffers context cannot justify the 
+differing readings of Congressional intent that the Government 
+proposes. 
+
+In sum, there is no basis for concluding that the scope of 
+impermissible cumulative punishment was intended to be any 
+different as to 21 U.S.C. §§ 846 and 848 than it was as to 18 
+U.S.C. §§ 922(h) and 1202(a). Ball held that the Double Jeopardy 
+Clause prohibits multiple convictions and concurrent sentences with 
+respect to the latter offenses. That conclusion equally is compelled 
+here given the determination in Jeffers that Congress did not intend 
+cumulative punishment for the same conduct under the conspiracy 
+and CCE statutes. Accordingly, this case should be remanded to 
+the district court with directions to vacate Rutledge's judgment of 
+conviction for either the conspiracy or the CCE offense and the 
+
+
+corresponding sentence. 
+
+
+Il. ACOMBINED CONVICTION AND SENTENCE ON THE 
+CCE AND CONSPIRACY COUNTS WOULD ALSO 
+VIOLATE THE FIFTH AMENDMENT. 
+
+
+The Government suggests in the alternative that this Court 
+follow the Second Circuit's approach of entering a combined 
+judgment on both the conspiracy and the CCE convictions with a 
+single sentence for both. See U.S. Br. 24-26, citing United States 
+v. Aiello, 771 F.2d 621, 632-35 (2d Cir. 1985). The Second 
+
+
+16 
+
+
+Circuit's technique impermissibly results in the entry of judgment 
+of conviction on both the CCE and the conspiracy counts, not- 
+withstanding that court's attempt to circumvent the problem by 
+labeling the district court's action as entering a “single” sentence on 
+judgments that have been "combined." The fictional combined 
+judgment does nothing to vitiate the Double Jeopardy Clause 
+violation inherent in the act of entering judgment on both of the 
+cumulative verdicts. If the judgment of conviction reflects 
+conviction for both the CCE and the conspiracy offenses, it does not 
+matter (except, perhaps, as to the number of assessments under 18 
+U.S.C. § 3013) whether those convictions are recorded on a single 
+line as part of one count, or on two lines as two separate counts. 
+There is in any event only a single document recording the judgment 
+in a criminal case, which reflects all the charges on which a 
+judgment of conviction has been entered. Fed. R. Crim. P. 
+32(b)(1). In violation of the Double Jeopardy Clause, the Second 
+Circuit permits the recording by criminal judgment of multiple 
+convictions on both the conspiracy and the CCE offense. 
+
+The Government's professed concern with the consequences of 
+appeal and collateral attack lack merit, first because the Government 
+assigns costs of, and responsibility for, error to the wrong party, 
+and second, because these consequences are not nearly as severe as 
+the Government urges. A successful appeal or collateral attack 
+usually means that the Government, through no fault of the 
+defendant, has erred in its prosecution, or that the trial court, 
+through no fault of the defendant, has erred in its conduct of the 
+trial, or both, and that the error is sufficiently severe and harmful 
+to upset the conviction. The defendant is not the source of those 
+errors, and should not be the one to be burdened by them. Surely 
+defendants cannot be made to purchase, with a portion of their Fifth 
+Amendment rights, insurance for the Government against its own 
+errors. 
+
+Contrary to the Government's contention, a successful appeal 
+or collateral challenge does not mean that the defendant will “escape 
+
+
+17 
+
+
+without conviction or punishment.” (U.S. Br. 30.) The law is 
+settled that, with very limited exceptions, the Government has the 
+power to retry the defendant after a successful appeal or collateral 
+attack. United States v. Ball, 163 U.S. 662, 671-72 (1896) (direct 
+appeal); United States v. Tateo, 377 U.S. 463, 466 (1964) (collateral 
+attack). The primary exception to this rule permitting retrial is a 
+ruling that the Government failed to establish guilt beyond a 
+reasonable doubt; it should surprise no one that retrial is not 
+permitted in that circumstance. Burks v. United States, 437 U.S. 
+1, 16-18 (1978).” The Government deserves no more protection 
+from its own errors than is provided by its right to seek a new 
+conviction after a meritorious appeal or collateral challenge. 
+
+Finally, the Government also suggests, albeit with little 
+enthusiasm, the possibility of staying the entry of judgment and 
+sentence on one of the cumulative counts, and allowing judgment 
+and sentence to be entered if the defendant ever prevails in a 
+challenge to the conviction and sentence actually entered. (See U.S. 
+Br. 26-29.) In its present posture, this case does not raise the 
+question of whether the cumulative judgment and sentence could be 
+stayed for entry later if a challenge to the judgment that was entered 
+proves successful. 
+
+
+Moreover, the Government has not demonstrated that there 
+
+
+exists in practice any real problem with respect to challenges to 
+CCE convictions. The Government has not cited a single case in 
+which a CCE conviction was overturned for insufficient evidence 
+
+
+© Even in the circumstance that a subsequent challenge to a CCE conviction has 
+established that the Government failed to prove beyond a reasonable doubt some 
+element that CCE does not share with conspiracy, so that an accompanying 
+conspiracy conviction would have survived, there is authority for the proposition 
+that the Government could retry its conspiracy charge if necessary. See Beverly v. 
+Jones, 854 F.2d 412 (11th Cir. 1988) (holding that Alabama could retry defendant 
+on lesser included charge of first degree murder where conviction on greater 
+charge of murder while committing robbery was reversed for failure to prove the 
+robbery element beyond a reasonable doubt), cert. denied, 490 U.S. 1082 (1989). 
+
+
+18 
+
+
+on an element unique to CCE. Our research has revealed very few, 
+and none in which serious problems arose. In United States v. 
+Ward, 37 F.3d 243, 251 (6th Cir. 1994), cert. denied, 115 S. Ct. 
+1388 (1995), upon reversal of the CCE conviction the defendant ac- 
+quiesced in the reinstatement of the guilty verdict on the conspiracy 
+charge, which had been vacated rather than entered by the district 
+court. United States v. Witek, 61 F.3d 819, 825 & n.8 (11th Cir. 
+1995), and United States v. Delgado, 4 F.3d 780, 782 (9th Cir. 
+1993), do not disclose the manner in which the district courts 
+addressed the dual guilty verdicts, but CCE reversals were 
+accompanied by affirmances of conspiracy convictions. See also 
+United States v. Silvers, 888 F . Supp. 1289, 1305-09 (D. Md. 1995) 
+(describing the "combined" conviction as a “legal legerdemain" but 
+holding that a vacated conspiracy sentence can be reinstated if the 
+CCE conviction is overturned). 
+
+
+Under Jeffers and Ball, the Double Jeopardy Clause bars any 
+approach that involves entering judgrments and sentences on §§ 848 
+and 846 guilty verdicts that rest on the same conduct, either outright 
+or in some "combined" or “alternative conditional” form. Beyond 
+those limitations, Rutledge suggests that this Court permit the lower 
+courts to address the propriety and effects of other alternatives as 
+have cases that put the matter at issue and the benefit of full briefing 
+and argument. With the benefit of experience, the lower courts may 
+come to agreement on a proper approach; if not, the additional 
+experience will assist this Court in resolving the split below. 
+
+
+19 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, and those set forth in his opening 
+brief, petitioner Tommy L. Rutledge respectfully requests that this 
+Court reverse the judgment of the United States Court of Appeals 
+for the Seventh Circuit and remand with an order that the district 
+court vacate his conviction and sentence under either Count | or 
+Count 2 of the indictment. 
+
+
+Respectfully submitted, 
+Barry Levenstam 
+Counsel of Record 
+JENNER & BLOCK 
+One IBM Plaza 
+Chicago, Illinois 60611 
+(312) 222-9350 
+
+Jerold S. Solovy 
+
+Avidan J. Stern 
+
+Jacob I. Corré 
+
+JENNER & BLOCK 
+
+One IBM Plaza 
+
+Chicago, Illinois 60611 
+
+(312) 222-9350 
+
+
+Dated: November 9, 1995 
+
+

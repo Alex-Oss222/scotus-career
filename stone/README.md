@@ -6,6 +6,7 @@ A case-specific Section II may cite one of these files to explain Stone's method
 
 | File | Status | Intended use |
 |---|---|---|
+| [MASTER_JURISPRUDENCE.md](MASTER_JURISPRUDENCE.md) | User-supplied current character jurisprudence | Stone-only reasoning context. Approved case-specific choices and actual Court law retain their distinct authority. |
 | [STONE_COMMERCE_CLAUSE_AND_FEDERALISM.md](STONE_COMMERCE_CLAUSE_AND_FEDERALISM.md) | Live multi-term roadmap | Stone-only Commerce Clause/federalism planning. Later roadmap entries are not earlier-term law. |
 | [STONE_FULL_BUILD_THROUGH_OT2001.md](STONE_FULL_BUILD_THROUGH_OT2001.md) | Live multi-term roadmap | Stone-only voting, equality, congressional-power, institutional-access, and related planning through OT2001. Causal docket deletions/reconstructions are planning instructions until implemented in a term inventory. |
 | [Second_Amendment.md](Second_Amendment.md) | Live multi-term roadmap | Stone-only Second Amendment planning. Future vehicles and status labels are proposals, not silently imported holdings. |

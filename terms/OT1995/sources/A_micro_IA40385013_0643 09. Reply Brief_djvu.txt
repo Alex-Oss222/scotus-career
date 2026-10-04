@@ -1,0 +1,1307 @@
+OCTOBER TERM, 1995 
+
+
+CHUCK QUACKENBUSH, INSURANCE COMMISSIONER OF 
+THE STATE OF CALIFORNIA, IN His CAPACITY AS 
+LIQUIDATOR AND TRUSTEE OF THE MISSION INSURANCE 
+COMPANY TRUST, MISSION NATIONAL INSURANCE 
+COMPANY TRUST, ENTERPRISE INSURANCE COMPANY 
+TRUST, HOLLAND-AMERICA INSURANCE COMPANY 
+TRUST AND MISSION REINSURANCE CORPORATION TRUST, 
+
+" Petitioner, 
+ALLSTATE INSURANCE COMPANY, 
+Respondent. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Ninth Circuit 
+
+
+REPLY BRIEF FOR THE PETITIONER 
+
+
+KARL L. RUBINSTEIN * 
+DANA CARLI BROOKS 
+MELISSA S. KOOISTRA 
+RUBINSTEIN & PERRY, 
+
+a Professional Corporation 
+355 South Grand, Suite 3150 
+Los Angeles, CA 90071 
+
+
+(213) 346-1000 
+
+DAVID L. SHAPIRO WILLIAM W. PALMER 
+
+Of Counsel General Counsel 
+
+1575 Massachusetts Avenue California Department 
+
+Cambridge, MA 02138 of Insurance 
+
+(617) 495-4618 45 Fremont Street, 23rd Floor 
+San Francisco, CA 94105 
+(415) 904-5855 
+Attorneys for Petitioner 
+* Counsel of Record 
+
+
+WILSON - Erzs Printing Co., Inc. - 789-0096 - WASHINGTON, D.C. 20001 
+
+
+KTR 
+
+
++ 
+
+
+i 
+
+
+TABLE OF CONTENTS 
+
+
+Be EID sacereiaatneenctntiincsntiitchcnitisbnntnntncnaiet 
+
+
+Il. RESPONSE TO ALLSTATE’S ARGUMENT 
+THAT THE REMAND ORDER WAS RE- 
+VIEWABLE BY APPEAL ....................-:-00-00+00-0000 
+
+
+III. RESPONSE TO ALLSTATE’S ARGUMENT 
+REGARDING THE PROPRIETY OF ABSTEN- 
+
+
+A. This Is Not an Ordinary In Personam Action 
+Against a Private Party ............................00.00- 
+
+
+B. The Administration of Abstention Doctrines 
+Depends on a Reasoned Analysis, Not a 
+Mechanical Checklist ........................:ccc0c02000000000- 
+
+
+C. The Abstention Doctrine Should Not Depend 
+on an Out-Dated Law/Equity Distinction...... 
+
+
+D. Allstate’s Assertion that the District Court 
+Had No Jurisdiction to Abstain Because All- 
+state Sought No Injunctive Relief ................. 
+
+
+E. The Need for a Consolidated Forum .............. 
+CERES Caan attest abe SEL 2 0 
+
+
+12 
+
+
+14 
+
+
+15 
+17 
+
+
+19 
+
+
+ii 
+
+
+TABLE OF AUTHORITIES 
+CASES 
+
+
+20th Century Ins. Co. v. Garamendi, 8 Cal. 4th 216, 
+878 P.2d 566, 32 Cal. Rptr. 2d 807 (1994), cert. 
+denied, 518 U.S. ——, 115 S. Ct. 1106 (1995)...... 
+
+Alpha Beta Food Mkts., Inc. v. Retail Clerks Union, 
+45 Cal. 2d 764, 291 P.2d 483 (1955) 0.000... 
+
+Burford v. Sun Oil Co., 319 U.S. 315 (1948)........ 
+
+California State Auto. Ass’n Inter-Ins. Bureau v. 
+Meloney, 341 U.S. 105 (1951) ............-.ccc.ececceceeeeeee 
+
+Carpenter v. Pacific Mut. Life Ins. Co., 10 Cal. 2d 
+307, 74 P.2d 761 (1987), aff'd sub nom. Neblett 
+v. Carpenter, 305 U.S. 297 (1988) ........................ 
+
+Checker Motors Corp. v. Superior Court, 18 Cal. 
+
+
+7,8 
+
+
+App. 4th 1007, 17 Cal. Rptr. 2d 618 (1993) ........ 9, 17, 18 
+
+
+Cohen v. Beneficial Industrial Loan Corp., 337 U.S. 
+B61 CRED  .ncececcccecececccsseccscnnpucesenunnnnnnnnnnnnennnnE 
+Coit Independence Joint Venture v. Federal Sav. & 
+Loan Ins. Corp., 489 U.S. 561 (1989) —................. 
+Commonwealth Trust Co. v. Bradford, 297 U.S. 618 
+(TBD) .~..ccvecececcesissscecensenncsnesensasaenennasannnannnnnnnnnnE 
+Corcoran v. Ardra Ins. Co., Ltd., 657 F. Supp. 1223 
+(8k & a | 
+Doughty v. Underwriters at Lloyds, London, 6 F.3d 
+ee! Ze | er 
+Fair Assessment in Real Estate Ass’n v. McNary, 
+4B4 UB. 260 (HGR)  nncccocccccseseccesssnsseunneanianene 
+Farmer’s Loan & Trust Co. v. Lake S.E.R. Co., 177 
+UB. Gi CIGGB)  ....cccconecceccesenncseuionsnunnennnnee 
+Garamendi v. Executive Life Ins. Co. (Morgan 
+Stanley Mortgage Capital, Inc.), 17 Cal. App. 
+4th 504, 21 Cal. Rptr. 2d 578 (1998) —.....0000000..... 
+German Alliance Ins. Co. v. Lewis, 233 U.S. 389 
+(1914) ..... seccocesconssconsessuneneeeneesneneiennnnininnnnnnnnnE 
+Gulfstream Aerospace Corp. v. Mayacamas Corp., 
+4BE UB. SU (RBGBD cencecesnceesssnvieee 
+Hal Roach Studios, Inc. v. Richard Feiner & Co., 
+896 F.2d 1542 (9th Cir. 1989) ............000002... ee 
+Kaiser Steel Corp. v. W.S. Ranch Co., 391 U.S. 593 
+C2DGB) ...cccccceceessssee conassocssiliincelnmnensnnnneneninnnnnnnnnE 
+
+
+9, 10 
+
+
+iii 
+TABLE OF AUTHORITIES—Continued 
+
+
+Lauro Lines 8.7.1. v. Chasser, 490 U.S. 495 (1989) 
+
+Law Enforcement Ins. Co. v. Corcoran, 807 F.2d 
+38 (2nd Cir. 1986), cert. denied, 481 U.S. 1017 
+CE 
+
+Louisiana Power & ‘Light Co. v. _ Thibodaus, 360 
+Se : 
+
+Markham v. Allen, 326 U.S. 490 (1946) 
+
+McNeese v. Board of Education, 373 U. s. 668 
+TS 
+
+In re Mission Inourence Company (Imperial Cas- 
+ualty), 48 Cal. Rptr. 2d 209 (1995) 
+
+Moore v. Sima, 442 U.S. 415 (1970) 
+
+Morgan Stanley Mortgage Capital v. Insurance 
+
+
+Comm'r, 18 F.3d 790 (9th Cir. 1994) 10, 12, 
+
+
+Morris v. Jones, 329 U.S. 545 (1947) 
+
+Moses H. Cone Memorial Hospital v. Mercury Con- 
+struction Corp., 460 U.S. 1 (1983) | 
+
+Nebbia v. New York, 291 U.S. 502 (1984) 
+
+Osborn v. Ozlin, 310 U.S. 58 (1940) . 
+
+Penn Gen. ame Co. v. Pennsylvania, 294 U.S. 
+189 (1985) . 
+
+Pennsylvania v. ‘Williams, 294 US. 176 (1935) 
+
+Prudential Reinsurance Co. v. Superior Court 
+(Garamendi), 3 Cal. 4th 1118, 842 P.2d 48, 14 
+Cal. Rptr. 2d 749 (1992) _. 
+
+Railroad Comm'n v. Pullman, 312 U.S. 496 (1941) 
+
+Ross v. Bernhard, 396 U.S. 531 (1970) 
+Thermtron Products, Inc. v. chusemmnnentieh 423 
+U.S. 386 (1976) a 
+Things Remembered, Inc. v. Petrarca, 516 US. 
+——~, 116 S. Ct. 494 (1995) = 
+
+Uaderuritere Nat'l Assurance Co. v. North Caro- 
+lina Life & Acc. & Health Ins. Guar. Asa’n, 455 
+U.S. 691 (1982)... 
+
+United States v. Bank of New York & Trust Co., 
+296 U.S. 463 (1986) . 
+
+Webster v. Superior Court, 46 Cal. 3d 338, 758 P.2d 
+596 (1988) 
+
+
+14,19 
+9 
+
+
+13 
+7 
+7 
+
+
+13 
+13, 14 
+
+
+4,5,7 
+
+
+19 
+9,18 
+
+
+18 
+
+
+iv 
+TABLE OF AUTHORITIES—Continued 
+Page 
+STATUTES 
+15 U.S.C. $§ 1011-1015 _............... iii aa 10 
+I ilicinccincnsicsteentititieiiiinaeitaieesianintalaiiaiiaes 4 
+ts initiaited 4,5 
+CT 7 
+ON SSS ee ee 18, 19 
+ee es 1 
+eee 18 
+ON Ee = rae 7 
+on niectnicsieanciemenineininiiiaa 12 
+RULES 
+NO ga 1 
+NK RS See es ae 7 
+OTHER AUTHORITIES 
+Michael E. Solimine, Removal, Remands and Re- 
+forming Federal Appellate Review, 58 Mo. L. 
+S&S a eee 5 
+Joan Steinman, Removal, Remand and Review in 
+Pendent Claim and Pendent Party Cases, 41 
+Vand. L. Rev. 923 (1988) .........ccccccccccccccccceceeeees 5 
+Failed Promises: Insurance Company Insolvencies, 
+Committee Print 101-P. 101st Cong., 2d Sess. 
+SS Ee x 
+
+
+ee — 
+
+
+REPLY BRIEF FOR THE PETITIONER 
+
+
+I. INTRODUCTION 
+
+The Commissioner's Opening Brief adequately addresses 
+most of the points discussed in the Briefs of Allstate and 
+the Amici Curiae. This Reply Brief For The Petitioner 
+primarily focuses on several new issues introduced by 
+Allstate and its Amici.’ 
+
+
+This Court granted Certiorari on two issues. In viola- 
+tion of this Court’s Rule 14.1(a), however, Allstate has 
+attempted to restate and change the substance of the 
+second issue before this Court. 
+
+The opinion of the Ninth Circuit was succinctly limited: 
+This case presents two questions: First, whether a 
+remand order based on abstention is reviewable, and, 
+if so, whether it can be reviewed on appeal, or only 
+by a petition for a writ of mandamus. Second, and 
+more importantly, we consider whether the Burford 
+abstention doctrine allows a federal court to surrender 
+jurisdiction to a state court in a case in which no 
+equitable relief is sought. 
+
+Pet. App. p. 2a. Further, the Ninth Circuit specifically 
+stated that it did not reach the question of whether this 
+case met the requirements for abstention under Burford 
+v. Sun Oil Co., 319 U.S. 315 (1943). Pet. App. p. 8a 
+n.8. 
+
+
+‘In his Opening Brief, p. 5 n.13, the Commissioner referred to 
+a then-pending appeal before the California Court of Appeal, 
+Imperial Casualty & Indemnity Co. v. Insurance Commissioner of 
+the State of California, case number B083725. In December 1995, 
+that case was decided in the Commissioner's favor. Jn re Mission 
+Insurance Company (Imperial Casualty), 48 Cal. Rptr. 2d 209 
+(1995). The primary basis of that opinion rested on the specific 
+provisions of a settlement agreement between the Commissioner and 
+Imperial. Thus, that particular open dispute is resolved. However, 
+other disputes concerning the proper application of Prudential 
+Reinsurance Co. v. Superior Court (Garamendi), 3 Cal. 4th 1118, 
+842 P.2d 48, 14 Cal. Rptr. 2d 749 (1992), and California Ins. Code 
+§ 1031 remain open. 
+
+
+2 
+
+
+The second issue upon which this Court granted Cer- 
+tiorari is: 
+
+
+Whether the court below erred in holding that the 
+abstention powers of federal courts are limited to 
+actions in equity, or alternatively, whether that court 
+erred in limiting the exercise of Burford abstention 
+solely to actions in equity. 
+
+
+Although under this Court’s rules, an issue fairly in- 
+cluded within the issues before the Court may be raised, 
+Allstate seeks to change the focus of the second issue by 
+suggesting this case is not “public” and is no more than 
+an ordinary damage suit against a private party. All- 
+state’s version of the second issue is: 
+
+
+Whether an action at law against a private party 
+seeking money damages can present the exceptional 
+circumstances necessary for a federal court to decline 
+to exercise its jurisdiction based on the Burford 
+doctrine. 
+
+
+Brief for Respondent, p. (i). 
+
+
+Thus, Allstate attempts to alter the question before the 
+Court from one involving the fundamental power and 
+discretion of the federal district court to abstain in any 
+case “at law” to a dispute over whether the Burford ab- 
+stention doctrine may apply to a damage case involving 
+private parties.* This effort to transform the issue is inap- 
+propriate and for the reasons discussed below, Allstate (with 
+the support of its Amici, see, e.g., Brief of Nat'l Ass'n of 
+Indep. Insurers, et al., at p. 14) cannot successfully char- 
+acterize either the Commissioner or Allstate as merely 
+private parties in the context of this case. 
+
+
+2 Even this different issue is not an open one because this 
+Court has already applied abstention doctrines to actions between 
+“private” parties. For example, Fair Assessment in Real Estate 
+Ass'n v. McNary, 454 U.S. 100 (1981), involved private plaintiffs 
+seeking actual and punitive damages against tax officials in their 
+“private” capacities. See also Kaiser Steel Corp. v. W. 8S. Ranch 
+Co., 391 U.S. 598 (1968). 
+
+
+3 
+
+
+Il. RESPONSE TO ALLSTATE’S ARGUMENT THAT 
+THE REMAND ORDER WAS REVIEWABLE BY 
+APPEAL 
+
+At page 10 of its Brief, Allstate enunciates the crux 
+
+of its argument on the first issue as follows: 
+
+
+A remand based on the Burford doctrine satisfies the 
+most basic principles of finality because it ends the 
+litigation in the district court and leaves that court 
+with nothing further to do. Because the remand order 
+here put Allstate “effectively out of federal court”— 
+indeed, put Allstate expressly and literally out of 
+— at was final and appealable under 
+. 1291. 
+
+
+Allstate’s assumption that it is “effectively out of 
+federal court” is not necessarily true. Moreover, this case 
+began in state court and, under the remand order, the 
+same case would proceed in the same state court. All- 
+state’s wish to be in an arbitration proceeding, rather than 
+federal or state court, may or may not be granted by the 
+state court. If the proceedings in the state court even- 
+tually deny some federal right to arbitrate, then Allstate 
+may seek to adjudicate in federal court such federal ques- 
+tions as may then exist. Indeed, since Allstate claims the 
+right to arbitrate under a contract provision, it is possible 
+Allstate may assert a federal law issue under the Fed- 
+eral Arbitration Act and/or the Contract Clause of the 
+Constitution. Those issues are not yet ripe, however, since 
+they depend on antecedent issues of uncertain state law, 
+and Allstate cannot show it is “effectively out of federal 
+court.” To be sure, Allstate’s desire to have a federal 
+court rule on the issue of arbitrability may be delayed, 
+but it may also become moot.’ Assuming arguendo, that it 
+
+
+* Allstate's alleged right to arbitrate is an open and complex 
+issue under both state and federal law. See, ¢.g., Corcoran v. Ardra 
+Ins. Co., Ltd., 657 F. Supp. 1223 (S.D.N.Y. 1987) ; Doughty v. Under- 
+writers at Lloyd's, London, 6 F.3d 856 (ist Cir. 1993). Indeed, the 
+antecedent state law issue and its uncertainty are effectively acknow!- 
+edged in the amicus brief of the Reinsurance Ass'n, et al. at p. 23 
+n.20. Allstate argues that it is irrelevant that the issue is undecided 
+under state law, but the fact that an alleged federal question, par- 
+
+
+4 
+
+
+does not become moot, but is merely delayed, that delay 
+is insufficient to render the remand order appealable. 
+See, e.g., Thermtron Products, Inc. v. Hermansdorfer, 
+423 U.S. 336 (1976); Lauro Lines s.rJ. v. Chasser, 490 
+U.S. 495 (1989); Commissioner's Opening Brief, pp. 
+26-27. 
+
+
+In Thermtron, this Court squarely held that “an order 
+remanding a removed action does not represent a final 
+judgment reviewable by appeal,” but only (in a proper 
+case) by mandamus. 423 U.S. at 352. In Things Remem- 
+bered, Inc. v. Petrarca, 516 U.S. ——, 116 S. Ct. 494, 
+496 (1995), this Court recently confirmed its position in 
+Thermtron that only those remand orders within 28 
+U.S.C. § 1447(c) are barred from — review under 
+28 U.S.C. § 1447(d). However, thé Court also noted that 
+“Congress has placed broad restrictions on the power of 
+federal appellate courts to review district court orders 
+remanding removed cases to state court.”* Further, the 
+Court did not hold that all remand orders not barred by 
+28 U.S.C. § 1447(d) are appealable; nor did it retract 
+Thermtron’s rule that a remand order is not a final ap- 
+pealable judgment and may be reviewed only by man- 
+damus. 
+
+
+ticularly a Constitutional law issue, might be mooted in the pending 
+state court litigation is certainly one of the factors, among others, 
+that a district court may consider in determining whether or not to 
+abstain. See, e.g., Railroad Comm'n v. Pullman, 312 U.S. 496 (1941). 
+Further, though not necessarily controlling, it is at least pertinent to 
+note that Allstate did not (and could not) remove on the basis of 
+a federal question, but rather on the basis of diversity of citizen- 
+ship... a basis that existed only because of the fortuity that the 
+Commissioner, instead of the state agency itself, is designated as 
+liquidator and trustee by state law. 
+
+
+4 See also Things Remembered, 116 S. Ct. at 500 (Ginsburg, J., 
+concurring: “In sum, a ‘strong congressional policy against review 
+of remand orders’ . . . underlies Sections 1447(d) and 1452(b)” 
+(citing, inter alia, Sykes v. Texas Air Corp., 834 F.2d 488 (5th 
+Cir. 1987) (“The [analysis suggested to that court) turns on a sort 
+of semantic crack in the statute rather than a sound appreciation of 
+the strong congressional policy against review of remand orders.”’).) 
+
+
+5 
+
+
+Unless the Court were now to hold that all remand 
+orders are final orders, remand orders should not nor- 
+mally be ieviewable by appeal. The exception, if any, 
+to this general rule would be the collateral order doctrine 
+established in Cohen v. Beneficial Industrial Loan Corp., 
+337 U.S. 541 (1949). If this remand order qualifies under 
+Cohen, then all remand orders not appeal-barred by Sec- 
+tion 1447(d) could be appealed. The result would be to 
+increase the number of appeals in the federal system, 
+perhaps by several thousand cases a year," and signifi- 
+cantly broaden the “narrow exception” the Court recog- 
+nized in Cohen. Whether or not any remand order could 
+ever qualify under the Cohen exception, this one does not. 
+
+
+Ill. RESPONSE TO ALLSTATE’S ARGUMENT RE- 
+GARDING THE PROPRIETY OF ABSTENTION 
+
+
+The effect of the Ninth Circuit decision is that a district 
+court may never abstain unless the underlying pleading 
+asserts a case “in equity” within the meaning of the 
+ancient distinction between law and equity. Although the 
+Ninth Circuit specifically referred to Burford abstention, 
+its rationale is far broader and rests on the concept that 
+a district court may not abstain except as a matter of the 
+
+
+®* The Commissioner believes it would be better to view all remand 
+orders as within the bar of Section 1447(d) and by no means con- 
+cedes the opposite. See Commissioner's Opening Brief, pp. 29-30, 
+and n.52. The Commissioner is aware that Thermtron holds other- 
+wise, in the context of its particular facts, but as stated in a 
+concurring opinion in Things Remembered, the applicability of the 
+Thermtron exception in other contexts (such as this), remains open. 
+See 116 S.Ct. at 498 (Kennedy, J., concurring). See also Joan 
+Steinman, Removal, Remand and Review in Pendent Claim and 
+Pendent Party Cases, 41 Vand. L. Rev. 923, 1004 (1988), distin- 
+guishing Thermtron from discretionary remand orders). To the 
+extent that holding is found to be in issue in thiz case, the Com- 
+missioner wishes to make his position clear. 
+
+
+* Michael E. Sviimine, Removal, Remands and Reforming Federal 
+Appellate Review, 58 Mo. L. Rev. 287, 289 (1993). 
+
+
+6 
+
+
+court’s “discretion to decline or grant equitable relief.” 
+Pet. App. p. 10a. 
+
+
+The utter inflexibility of the Ninth Circuit rule is com- 
+pletely at odds with the nature and purpose of the absten- 
+tion doctrine. The Commissioner agrees with the Ninth 
+Circuit that, in order to abstain, a district court must 
+exercise its “discretion to decline or grant equitable relief.” 
+Pre-merger, a district court arguably could grant equi- 
+table relief only when it sat in equity as a result of the 
+underlying suit being “in equity.” However, under the 
+merged federal system, a district court that has jurisdic- 
+tion always sits in both law and equity. 
+
+
+The granting of the Commissioner’s motion seeking re- 
+mand of this case was the exercise of the district court’s 
+discretion to grant equitable relief. Under modern proce- 
+dure, the propriety of a district court’s exercise of its 
+equity powers depends on the circumstances of the partic- 
+ular case before it. To etch upon abstention principles 
+an arbitrary and outdated rule that must be applied in all 
+cases for all time, regardless of individual circumstances, 
+would be an abdication of the important judicial duty to 
+protect “Our Federalism.” This duty deserves the same 
+degree of fealty as a court’s general obligation to exercise 
+its jurisdiction. 
+
+Allstate never even attempts to distinguish this Court's 
+statement in Louisiana Power & Light Co. v. Thibodaux, 
+360 U.S. 25, 28 (1959), that: 
+
+
+These prior cases have been cases in equity, but they 
+did not apply a technical rule of equity procedure. 
+They reflect a deeper policy derived from our feder- 
+alism. We have drawn upon the judicial discretion 
+of the chancellor to decline jurisdiction over a part 
+or all of a case brought before him. 
+
+
+Further, Allstate has not explained why the district 
+court in this case was not “sitting in equity” when it 
+remanded this case, given current federal rules of civil 
+
+
+7 
+
+
+procedure; particularly Federal Rule 2 and this Court’s 
+holding in Ross v. Bernhard, 396 U.S. 531 (1970).’ 
+
+
+Instead, Allstate apparently advances the novel concept 
+that the Commissioner is not really a public official in the 
+context of this case and that this is an in personam 
+suit to establish a debt between private parties. This 
+position avoids the fundamental question presented in 
+the Petition for Certiorari, and as shown in Part A below, 
+it is also wrong. 
+
+
+A. This Is Not an Ordinary In Personam Action 
+Against a Private Party 
+It is well-settled that insurance is a public asset and 
+a business which affects the vital public interest. Contracts 
+of insurance and reinsurance have greater public conse- 
+quence than contracts between individuals to do or not 
+to do a particular thing whose effect stops with the indi- 
+viduals. See, e.g., German Alliance Ins. Co. v. Lewis, 
+233 U.S. 389, 413 (1914); Nebbia v. New York, 291 U.S. 
+502, 523 (1934); Osborn v. Ozlin, 310 U.S. 53, 65 
+(1940); California State Auto. Ass'n Inter-Ins. Bureau 
+v. Maloney, 341 U.S. 105, 109 (1951). 
+
+
+The law is clear that the Commissioner acts in his 
+official capacity as an officer of the state in connection 
+with the underlying proceedings. Cal. Ins. Code §§ 1011, 
+1059; 20th Century Ins. Co. v. Garamendi, 8 Cal. 4th 
+216, 240, 878 P.2d 566, 580, 32 Cal. Rptr. 2d 807, 821 
+(1994), cert. denied, 513 US. , 115 S. Ct. 1106 
+(1995); Carpenter v. Pacific Mut. Life Ins. Co., 10 Cal. 
+2d 307, 329, 74 P.2d 761, 774-75 (1937), aff'd sub 
+nom. Neblett v. Carpenter, 305 U.S. 297 (1938). 
+
+
+In the present context, neither the Commissioner nor 
+Allstate may be viewed simply as a “private individual.” 
+It may be true that Allstate enters into a private contract 
+
+
+T See also Commissioner’s Opening Brief, pp. 19, 33-35, and see 
+Things Remembered, 116 S.Ct. at 498-99 (Ginsburg, J., concurring, 
+emphasing the significance of merger in the context of references 
+to “equitable” grounds. ). 
+
+
+8 
+
+
+when it purchases a company car, or contracts for its 
+paper and pencils, but Allstate enters into publicly regu- 
+lated and controlled contracts when it issues insurance 
+policies or assumes reinsurance obligations. Carpenter v. 
+Pacific Mut. Life Ins. Co., 10 Cal. 2d at 329, 74 P.2d 
+at 775 (“Insurance is a public asset, a basis of credit, and 
+a vital factor in business activity.”); Garamendi v. 
+Executive Life Ins. Co. (Morgan Stanley Mortgage Capi- 
+tai, Inc.), 17 Cal. App. 4th 504, 515, 21 Cal. Rptr. 2d 
+578, 585 (1993) (“The interest of a particular individual 
+policyholder aside, insurance is a public asset and 
+the public has an important stake in preserving the 
+business.” ). 
+
+
+Indeed, all relevant insurance law of California is 
+deemed to be a part of all of Allstate’s insurance and 
+reinsurance contracts, including its agreements with the 
+Mission Companies. See Alpha Beta Food Mkts., Inc. v. 
+Retail Clerk’s Union, 45 Cal. 2d 764, 771, 291 P.2d 433, 
+437 (1955); Hal Roach Studios, Inc. v. Richard Feiner 
+& Co., 896 F.2d 1542, 1548 (9th Cir. 1989). 
+
+
+The background of the underlying proceedings is de- 
+tailed in the Commissioner’s Opening Brief, pp. 2-16, a 
+discussion that Allstate does not materially dispute.” 
+
+
+* Allstate disputes that the downfall of the Mission Companies 
+was the fault of the reinsurers and in its Brief at p. 6 n.4 goes 
+outside the record to cite to a highly political and incorrect docu- 
+ment produced by the Subcommittee on Oversight and Investiga- 
+tions, House Committee on Energy and Commerce entitled Failed 
+Promises: Insurance Company Insolvencies, Committee Print 101-P. 
+101st Cong., 2d Sess. (1990). That document was produced after 
+the most cursory of investigations which never actually focused 
+upon the operations of the Mission Companies, but dealt with an affil- 
+iated general agency and the parent company, Mission Insurance 
+Group, Inc. In the amicus brief of the Reinsurance Ass'n, et al. 
+at p. 5 n.6, a similarly motivated reference is made to a tentative 
+ruling of a panel acting under the auspices of the Receivership 
+Court. But on December 28, 1995, the Receivership Court com- 
+pletely rejected this panel’s tentative decision and refused to give 
+it any effect, in the process referring to the decision as “comic.” 
+Apparently, Allstate and the Amici are attempting to suggest 
+that the four separate Insurance Commissioners who have been 
+
+
+9 
+
+
+Despite this, Allstate and its amici appear to argue that 
+a suit by a state insurance commissioner, acting to marshal 
+assets under a special proceeding in the exercise of Cali- 
+fornia’s police power is somehow converted to an in per- 
+sonam damage suit between private individuals. However, 
+this Court recognized the insupportability of this premise 
+in United States v. Bank of New York & Trust Co., 296 
+U.S. 463, 477 (1936). The underlying action is a suit to 
+marshal and liquidate assets and is intimately connected 
+with the liquidation proceedings. And in Bank of New 
+York, this Court squarely characterized state court receiv- 
+ership proceedings, including suits to marshal assets and 
+liquidate estates, as quasi in rem.° 
+
+
+in charge of these proceedings for almost 10 years have all acted 
+incorrectly and have had no valid grounds to require a turn- 
+over of the Reinsurance Recoverables. However, the fact that 
+several hundred very sophisticated reinsurers have paid over $1.2 
+Billion to the Commissioners speaks eloquently in support of the 
+rectitude of the Commissioners’ positions and against the sug- 
+gestions of Allstate and the Amici. 
+
+
+* See also Farmer's Loan & Trust Co. v. Lake S.E.R. Co., 177 
+U.S. 51, 61 (1900) to the same effect. The Commissioner widely 
+cited Bank of New York in his Opening Brief, and included an 
+extensive quotation at p. 7 n.18, but Allstate had no answer other 
+than to ignore it. See also Checker Motors Corp. v. Superior Court, 
+13 Cal. App. 4th 1007, 17 Cal. Rptr. 2d 618 (1993) where that 
+court noted state law recognizes “California’s strong interest in 
+preserving the assets of its policyholders and the insolvency court's 
+interest in maintaining control over all of the insolvent insurance 
+company’s assets... .” Jd. at 102. 
+
+
+At the same time, Allstate and its Amici cite several inapposite 
+cases to support their position. See, e.g., amicus Brief of the 
+Reinsurance Ass'n, et al., pp. 18-19. Morris v. Jones, 329 U.S. 545, 
+549 (1947) has a narrow holding on a completely different set of 
+facts and supports the Commissioner’s argument that the injunc- 
+tions issued by the state court in this case are entitled to full 
+faith and credit. Coit Independence Joint Venture v. Federal Sav. 
+& Loan Ins. Corp., 489 U.S. 561 (1989) is not on point. It merely 
+held that the FSLIC did not have the power to usurp the power of 
+the courts. Markham v. Allen, 326 U.S. 490 (1946) is not an 
+abstention case, it merely held that the district court did have 
+jurisdiction, a prerequisite to abstaining. Commonwealth Trust 
+Co. v. Bradford, 297 U.S. 613 (1936) strongly supports the Com- 
+
+
+10 
+
+
+In Morgan Stanley Mortgage Capital v. Insurance 
+Comm’r, 18 F.3d 790 (9th Cir. 1994), the Ninth Cir- 
+cuit made exactly such a ruling and, in the process, 
+refuted the position that this is merely a private suit. 
+That case involved the insolvency proceedings of Execu- 
+tive Life Insurance Company, the same California statu- 
+tory scheme as the instant case and virtually the same 
+state court orders and injunctions as those issued here 
+which assumed sole and exclusive jurisdiction over all the 
+insolvent insurer’s assets and all suits or claims against 
+those assets. 
+
+
+In Morgan Stanley, the Ninth Circuit held that the 
+reach of the state receivership court’s jurisdiction was 
+broad enough to encompass the insolvent insurer’s inter- 
+ests in certain underlying partnerships even though those 
+entities were not insurance companies. /d. at 794. That 
+court acknowledged the strong public policy involved in 
+insurance receivership proceedings and held that the state 
+receivership court must have jurisdiction equally as broad 
+as the jurisdiction of bankruptcy courts. /d. at 794. 
+Indeed, the Ninth Circuit relied, among other authorities, 
+on the clear Congressional intent expressed by the 
+McCarran-Ferguson Act, 15 U.S.C. §§ 1011-1015 to 
+defer to state insurance regulation. 
+
+
+Also, the Ninth Circuit cited, with approval, the re- 
+lated California Court of Appeal case of Garamendi 
+v. Executive Life Ins. Co. (Morgan Stanley Mortgage 
+Capital, Inc.), 17 Cal. App. 4th 504, 21 Cal. Rptr. 2d 
+578 (1993) where the court among other things, noted 
+that the proper jurisdiction of disputes over the insolvent 
+insurer’s assets was in the receivership court, that the re- 
+ceivership court has broad power to issue injunctions to 
+protect the insurer’s assets, and that the public has an 
+interest in the orderly liquidation of an insurer. Execu- 
+tive Life, 17 Cal. App. 4th at 515, 21 Cal. Rptr. 2d at 
+585. 
+
+
+missioner because it states that the court did have jurisdiction 
+which it should exercise unless “required by rules based on comity 
+to relegate the complainant to state court.” Jd. at 602. 
+
+
+11 
+
+
+Allstate does not dispute the discussion in the Commis- 
+sioner’s Opening Brief as to the key public nature of the 
+Reinsurance Recoverables (Commissioner’s Opening 
+Brief, pp. 8-17), which are carried on the books of 
+insurers as assets of the reinsured company and are, 
+thus, in essence, public assets. Allstate must be presumed 
+to have known and intended that its reinsurance obliga- 
+tions would be deemed assets of the Mission Companies 
+and would be relied upon by the public and the regulators 
+
+
+in permitting the Mission Companies to continue to do 
+business.”® 
+
+
+It is certainly a matter of public concern when AIll- 
+State attempts to avoid its contractual obligations after 
+permitting the public and the insurance regulators to rely 
+upon the Reinsurance Recoverables as assets and to be- 
+lieve they were “in good hands with Allstate.” ™ 
+
+
+Upon the insolvency of the Mission Companies, All- 
+state filed claims in the underlying state court insolvency 
+proceedings. It withheld from the Commissioner, acting 
+as a public official, the Reinsurance Recoverables which 
+are in custodia legis of the state court, title to which 
+
+
+” Allstate’s reinsurance contracts with the Mission Companies 
+include an “Insolvency Clause” which clearly contemplates that All- 
+state will be subject to the California insolvency statutes in the 
+event of the insolvency of any of the Mission Companies. This 
+clause, which is quoted in the Commissioner’s Opening Brief, p. 49 
+n.93 (see also, e.g., Jt. App. pp. 109-110), mandates, upon insolvency 
+of the reinsured company, the payment of the reinsurance recover- 
+ables without diminution to the liquidator. 
+
+
+1! The public and the State of California have a vital interest in 
+these contracts. Much of the insurance in question was for large 
+commercial risks and for workers compensation. There are hun- 
+dreds of thousands of innocent individuals who are reliant upon 
+the efficacy of the policies in question. These are not mere “private 
+contracts” but are public contracts where individuals with severe 
+workers compensation claims, with diseases from toxic shock, agent 
+orange, breast implants, asbestos, PCP and various toxic environ- 
+mental problems were made to rely upon the availability of the 
+Reinsurance Recoverables from Allstate and the other reinsurers. 
+Allstate and the Mission Companies operated under these contracts 
+for over 17 years prior to this receivership. 
+
+
+12 
+
+
+was transferred to the Commissioner by operation of law, 
+and sole and exclusive jurisdiction over which was as- 
+sumed by valid orders of the Receivership Court. 
+
+
+In a further effort to assert that only private matters 
+are at issue here, Allstate falsely claims that the funds 
+needed to pay the covered claims of policyholders under 
+the guaranty association statutes are private funds and 
+come from the insurance companies that are members 
+of the various guaranty associations. This is just not true. 
+As was pointed out in the Commissioner’s Opening Brief, 
+p. 13 n.32, the ultimate source of these funds is not the 
+insurance companies, but the public.” 
+
+
+In the face of the decision in Morgan Stanley, 18 F.3d 
+790, it is impossible to believe that the Ninth Circuit 
+would have accepted Allstate’s new argument that this 
+dispute does not affect California’s public interest had 
+Allstate made this argument there. To make this argu- 
+ment now is not only to inject an inappropriate issue, 
+but one that is wholly without merit. 
+
+
+B. The Administration of Abstention Doctrines De- 
+pends on a Reasoned Analysis, Not a Mechanical 
+Checklist 
+
+
+Allstate engages, at pages 26-38 of its brief, in a highly 
+technical and mechanical analysis of the Burford doctrine. 
+In this effort, Allstate continues to attempt to shift the 
+argument from the question at hand to an issue it would 
+prefer to argue. Rather than confronting head-on the 
+question of whether a district court ever has the power 
+to abstain in a case “at law,” Allstate expends a great 
+deal of its effort in arguing why the district court should 
+not have made the decision it made in this case. 
+
+
+Allstate’s efforts to pigeonhole the abstention doctrines 
+is not productive and only serves to confuse the issues. 
+The abstention doctrines are not to be applied via a me- 
+chanical checklist; rather the courts are to conduct a 
+careful balancing of the important factors as they apply 
+in a given case. These factors are to be applied prag- 
+
+
+12 See, e.g., Cal. Ins. Code 1063.14. 
+
+
+13 
+
+
+matically with a view to the realities of the case at hand. 
+See Moses H. Cone Memorial Hospital v. Mercury Con- 
+struction Corp., 460 U.S. 1, 16 (1983) and Law Enforce- 
+ment Ins. Co. v. Corcoran, 807 F.2d 38, 40 (2nd Cir. 
+1986), cert. denied, 481 U.S. 1017 (1987). The funda- 
+mental realities of the instant case are that the underlying 
+dispute is firmly “entangled in a skein of state law,” " 
+and is an important and integral part of the insurance 
+insolvency proceedings. These insolvency proceedings are 
+special proceedings which entail various judicial actions 
+and various administrative actions and determinations by 
+the Commissioner. 
+
+In attempting to narrowly define a Burford pigeon-hole 
+and write the Commissioner out of it, Allstate also side- 
+steps the fact that prior to this Court's decisions 
+which gave rise to the Pullman, Younger, Burford and 
+Colorado River abstention doctrines, it applied abstention- 
+oriented principles in Penn Gen. Casualty Co. v. Penn- 
+sylvania, 294 U.S. 189 (1935), and in Pennsylvania 
+v. Williams, 294 U.S. 176 (1935). The doctrine estab- 
+lished there is uncomplicated. This Court held that 
+a district court may properly relinquish its jurisdiction 
+in favor of a state insolvency official where: i) there is 
+a pending state court proceeding involving an insurance 
+company or a building and loan company; ii) the 
+end sought by that proceeding is the liquidation of a 
+
+ic insurance company or building and loan by a 
+state officer; and iii) there is no showing that the inter- 
+ests of creditors and shareholders would not be protected 
+by the state court. Allstate attempts to distinguish the 
+instant case from Penn General and Williams by asserting 
+that the underlying case is in personam. But as noted 
+above, the underlying state proceeding is not in personam, 
+it is in rem or quasi in rem. And even if it were con- 
+sidered in personam, that would make no difference. This 
+Court and other courts have recognized that the mar- 
+Shaling of assets is crucial to an effective liquidation 
+process. Thus, an interference with this vital process is 
+
+
+™ See McNeese v. Board of Education, 373 U.S. 668, 674 (1963). 
+
+
+14 
+
+
+an interference with the underlying state court proceedings 
+and with the associated administrative activities of the 
+Commissioner as receiver. 
+
+
+Allstate also fails to face this Court's decision in Moore 
+v. Sims, 442 U.S. 415, 428 (1970), where it was held: 
+
+
+Few public interests have a higher claim on the dis- 
+cretion of a federal chancellor than the avoidance of 
+needless friction with state policies, whether the policy 
+relates to the enforcement of the criminal law (cita- 
+tions omitted) or the administration of a specialized 
+scheme for liquidating embarrassed business enter- 
+prises. (emphasis added ) 
+
+
+Significantly, in Moore, this Court cited Pennsylvania v. 
+Williams in support of this proposition. 
+
+Fostering and protecting principles of federalism is 
+vital to our system of government. This Court has never 
+suggested that it would require district courts to imple- 
+ment federalism principles by rote deference to a sim- 
+plistic litmus test, with judges never lifting their eyes 
+to see and consider the particulars of the actual cases 
+before them. On the contrary, this Court has guided and 
+guarded the delicate balance of “Our Federalism” through 
+the application of reasoned discretion, not an insensible 
+application of an arbitrary and inflexible rule based upon 
+irrelevant historical distinctions. 
+
+
+C. The Abstention Doctrine Should Not Depend on an 
+Out-Dated Law/Equity Distinction 
+
+
+The core question presented as to the abstention issue, 
+which was decided by the Ninth Circuit and which is now 
+before this Court, is whether the district courts must wear 
+strait-jackets which preclude them from abstaining when 
+the underlying action is “at law.” The stark contrast be- 
+tween the Ninth Circuit's result in Morgan Stanley, 18 
+F.3d 790, and its result in the case below, with the latter 
+result reached solely on the basis of the equity law dichot- 
+omy, serves to highlight the unreasonable nature of such 
+a mechanical rule. 
+
+
+15 
+
+
+In fact, at pages 19 and 20 of its Brief, among other 
+places, Allstate makes clear its own objection to the use 
+of “antique decisions” and “historical distinctions” that 
+“produce arbitrary and anomalous results.” Yet Allstate 
+never refutes the fact that the mechanical imposition 
+of the equity/law dichotomy in this case has produced an 
+arbitrary and anomalous result. 
+
+
+Although Allstate now wishes to argue that the district 
+court should not have abstained, it never presents a 
+cogent argument to show why the rule should be that the 
+district court can never abstain if the underlying case is 
+“at law.” The Commissioner proved to the satisfaction of 
+the district court that it had sufficient grounds to warrant 
+abstention and that court was persuaded that unless it 
+abstained it would unduly interfere with the state court 
+insolvency proceedings and the related regulatory scheme. 
+
+The question of whether the district court properly ex- 
+ercised its discretion, assuming it had any discretion to 
+abstain in the instant case, is not before this Court. It 
+is relevant to the Commissioner's argument, however, to 
+show that, assuming arguendo that the underlying case is 
+properly characterized as being “at law,” there can be 
+circumstances in which the principles of judicial federalism 
+and comity serve to compel abstention and that the denial 
+of abstention solely on the basis of the equity law distinc- 
+tion creates an arbitrary and unreasonable result such as 
+that condemned by this Court in Gulfstream Aerospace 
+Corp. v. Mayacamas Corp., 485 U.S. 271 (1988). 
+
+
+D. Allstate’s Assertion that the District Court Had 
+No Jurisdiction to Abstain Because Allstate Sought 
+No Injunctive Relief 
+
+
+This new argument, made at pages 30-35 of Allstate's 
+Brief, misses the point. Allstate begins by saying that 
+it “did not bring this lawsuit: the Liquidator did.” 
+Allstate’s Brief, p. 30. This is correct, but only to a 
+certain extent. It is true that the Commissioner ultimately 
+sued to recover his assets and to obtain a 
+judgment as to the parties’ rights under California law as 
+
+
+16 
+
+
+applied to the reinsurance agreements and the insolvency 
+statutes. But it is also true that Allstate had previously 
+filed its offset claims in the receivership proceedings. 
+
+
+Not only did the Commissioner have the statutory duty 
+to recover the assets of the insurer, which became the 
+receiver's assets by operation of law and by court order, 
+it is only the Commissioner, in his official capacity as re- 
+ceiver, who can recover them."* Moreover, those assets 
+although in the hands of Allstate, were part of the res of 
+the receivership proceedings. If the Commissioner took 
+no action, Allstate would end up in permanent possession 
+of receivership assets in derogation of California's insol- 
+vency scheme, to the detriment of the policyholders and 
+in violation of California's strong public policy. 
+
+Allstate asserts that the maintenance of this one action 
+in federal court will not cause any harm because, among 
+other things, Allstate will only “pursue such defenses as 
+are just and well-founded.” While the Commissioner is 
+certainly gratified to have Allstate’s assurance that it will 
+only pursue winning defenses, the issue before this Court 
+transcends any such assurances. 
+
+
+If the Ninth Circuit rule stands, it stands for all cases 
+and all insurance insolvency proceedings. The effect of 
+the Ninth Circuit rule is to permit insurers to file claims 
+with receivership courts pursuant to state statutes, but 
+then frustrate the state statutory scheme by removing 
+what constitutes essentially the same claims to a federal 
+court. Whether or not Allstate seeks injunctive relief, the 
+result is a severe and impermissible interference with the 
+state insurance insolvency process—an interference that 
+principles of comity and judicial federalism forbid and that 
+abstention doctrines were created to avoid. Also, Allstate 
+clearly concedes the equitable powers of the federal court 
+in the underlying action when it refers to the relief it is 
+seeking as “either a stay of this litigation . . . or failing 
+that setoff.” Allstate's Brief, p. 30. A stay is equitable 
+relief. So is a setoff. Allstate thus admits it is seeking 
+
+
+'* See Commissioner's Opening Brief, pp. 10-11, {{ 10-11 nn.26-28. 
+
+
+17 
+
+
+equitable relief in a case it says is “at law.” Yet Allstate 
+then asserts that the relief it requests will not restrain an 
+administrative agency on a matter of peculiarly local con- 
+cern and therefore the district court had no equitable dis- 
+cretion to exercise. Under the authorities discussed above, 
+this position is both inconsistent and untenable.” 
+
+California’s interest in having an efficient and man- 
+ageable insolvency process is solidly within its just and 
+vital concern. When Allstate admits it seeks a stay of 
+this process, it admits that it is seeking to interfere with 
+it. The broad prohibition enunciated by the Ninth Cir- 
+cuit would not only permit the kinds of interference the 
+Commissioner faces in the instant case, but would also 
+seem to sanction damage or declaratory judgment actions 
+filed directly in federal court which could not be subject 
+to abstention no matter how much a district court were 
+convinced such a suit interfered with the state court pro- 
+ceedings and the state’s insolvency scheme. 
+
+
+E. The Need for a Consolidated Forum 
+
+
+As discussed above, Allstate's assertions that there is no 
+need to have a single insolvency proceeding and to con- 
+solidate all actions there is untenable.” In addition to 
+
+
+15 “Moreover, assigning this dispute to the California insurance 
+insolvency court also furthers ‘the interstate judicial system's inter- 
+est in obtaining the most efficient resolution of controversies.’ ” 
+Checker Motors Corp. v. Superior Court, 13 Cal. App. 4th 1007, 
+1026, 17 Cal. Rptr. 2d 618, 626 (1993) (citing this Court's opinion 
+in World-Wide Volkswagen Corp. v. Woodson, 444 U.S. 286, 292 
+(1980)). The Checker court added, “The entire ‘Interstate ju- 
+dicial system’ benefits when insurance company involvencies and 
+all the disputes they generate can be managed by a single court 
+in a single jurisdiction. .. .” 13 Cal. App. 4th at 1019, 17 Cal. Rptr. 
+2d at 627. 
+
+
+% Allstate attempts to make such of the fact that various or- 
+ders of the Receivership Court also permit the receiver to pursue 
+actions in other courts. These provisions were included to make 
+it clear that the Commissioner could, in an appropriate case, choose 
+to proceed in another court. For example, as Allstate points out, 
+there are provisions for ancillary receiverships in other states which 
+deal with assets in those states. Usually these are limited to certain 
+
+
+18 
+
+
+being stymied by United States v. Bank of New York & 
+Trust Co., 296 U.S. 463, and the other authorities dis- 
+cussed above, Allstate’s argument is also refuted by Cal. 
+Ins. Code § 1058 which provides: 
+
+
+In any proceeding pending under the provisions of 
+this article, the court in which such proceeding is 
+pending shall have jurisdiction to hear and determine, 
+in such proceeding, all actions or proceedings then 
+pending or thereafter instituted by or against the 
+{insolvent insurer]."" 
+
+
+special and statutory deposits required by local law. These are not 
+permitted to interfere with the proceedings in California. See, e.g., 
+Checker, 13 Cal. App. 4th 1007, 17 Cal. Rptr. 2d 618, where an 
+effort to use an ancillary proceeding to interfere with the juris- 
+diction of the California court was flatly rejected. Also, some of the 
+Mission Companies’ reinsurers are in in rem insolvency proceedings 
+in other states. In appropriate circumstances, it is necessary for 
+the Commissioner to become involved in those proceedings. Further, 
+it might be necessary for the Commissioner to proceed with re- 
+spect to real estate located in another state. In other instances, 
+the Commissioner has found it necessary to enforce California 
+judgments in foreign countries. There are many reasons why the 
+Commissioner, in the exercise of his discretion might choose to go 
+to another court in a limited circumstance. However, as to the 
+core process of marshaling assets and adjudicating claims, the 
+Commissioner needs a single consolidated court. 
+
+
+17 Allstate cites Webster v. Superior Court, 46 Cal. 3d 338, 343- 
+53, 758 P.2d 596, 598-606 (1988) in support of its position that 
+there is no authority for a stay of actions affecting the res. 
+However, Allstate misstates the rule in that case. Webster was a per- 
+sonal injury case where the injured party sought to recover, not 
+from the insolvent insured, but from its insurer (a third party). 
+Rather than deciding the case as Allstate suggests, the California 
+Supreme Court held that a stay is not mandated by the governing 
+statutes when the claimant makes a binding election not to recover 
+from the insolvent’s assets. However, that Court held that if the 
+claimant does seek to recover from the insolvent’s assets, the action 
+may be stayed. Here, Allstate has elected to file its claims seeking 
+to impose a claim on the assets belonging to the Commissioner. 
+Accordingly, Webster supports the Commissioner, not Allstate. 
+Further, the California Supreme Court stated that Cal. Ins. Code 
+§ 1020 “reflects a legislative intent to preserve an insolvent insurer's 
+assets for orderly disposition by the commissioner.” 46 Cal. 3d at 
+244, 758 P.2d at 599. 
+
+
+19 
+
+
+Although the sense of the California insolvency statutes 
+is that there will be a single consolidated proceeding in 
+one court, this statute does not expressly provide that the 
+Receivership Court shall have sole and exclusive jurisdic- 
+tion over all actions and proceedings. However, Califor- 
+nia Ins. Code § 1020 does explicitly permit the Receiver- 
+ship Court to issue various injunctions and other 
+court orders in order to protect its jurisdiction and the 
+efficacy of the insolvency proceedings. Pursuant to this 
+authority, the Receivership Court in this case, beginning 
+almost 10 years ago, has issued a series of orders which 
+assume sole and exclusive jurisdiction over the assets of 
+the Mission Companies and the exclusive right to hear and 
+determine in the insolvency proceedings all related actions. 
+See Commissioner’s Opening Brief, pp. 8-9 nn. 19, 20.” 
+Under Underwriters Nat'l Assurance Co. v. North Caro- 
+lina Life & Acc. & Health Ins. Guar. Ass'n, 455 U.S. 
+691, 703-10 (1982), those orders are entitled to respect. 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons and those stated in the Com- 
+missioner’s Opening Brief, the decision below should be 
+reversed. 
+
+
+18 See Morgan Stanley, 18 F.3d at 791 where the Ninth Circuit 
+makes the same point. 
+
+
+DAVID L. SHAPIRO 
+
+Of Counsel 
+1575 Massachusetts Avenue 
+Cambridge, MA 02138 
+(617) 495-4618 
+
+
+Dated: January 31, 1996 
+
+
+20 
+Respectfully submitted, 
+
+
+KARL L. RUBINSTEIN * 
+DANA CARLI BROOKS 
+MELISSA S. KOOISTRA 
+RUBINSTEIN & PERRY, 
+
+a Professional Corporation 
+355 South Grand, Suite 3150 
+Los Angeles, CA 90071 
+(213) 346-1000 
+
+
+WILLIAM W. PALMER 
+
+General Counsel 
+California Department 
+
+of Insurance 
+45 Fremont Street, 23rd Floor 
+San Francisco, CA 94105 
+(415) 904-5855 
+Attorneys for Petitioner 
+
+
+* Counsel of Record 
+
+

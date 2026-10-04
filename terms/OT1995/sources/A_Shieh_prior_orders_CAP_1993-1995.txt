@@ -1,0 +1,14 @@
+Source: Caselaw Access Project static export (https://static.case.law/us/<vol>/html/<file>.html), retrieved 2026-10-03.
+Earlier orders in this Court in matters captioned Shieh or Say & Say (the former name the petitions give for the co-petitioner corporation) reported before the April 1, 1996 event, found by searching the CAP case-name index for U.S. Reports volumes 510-516 (not necessarily exhaustive). Each is a separate matter; all are post-divergence historical dispositions, not admitted simulated orders.
+Every order listed is a plain certiorari denial. The only reported fee (Rule 39.8) denial found before the event is No. 95-7514, Shieh v. State Bar of California, 516 U.S. 1170 (March 18, 1996), staged separately as A_Shieh_v_State_Bar_516US1170_order_1996-03-18.txt.
+
+510 U.S. 870 (https://static.case.law/us/510/html/0870-04.html): No. 93-269. Shieh v. Newman et al. Ct. App. Cal., 2d App. Dist. Certiorari denied.
+510 U.S. 931 (https://static.case.law/us/510/html/0931-08.html): No. 93-295. Say & Say et al. v. Los Angeles County Superior Court et al. Ct. App. Cal., 2d App. Dist. Certiorari denied.
+510 U.S. 948 (https://static.case.law/us/510/html/0948-03.html): No. 93-458. Shieh et al. v. Christopher et al. Ct. App. Cal., 2d App. Dist. Certiorari denied.
+510 U.S. 976 (https://static.case.law/us/510/html/0976-11.html): No. 93-459. Shieh et al. v. Ebershoff et al. Ct. App. Cal., 2d App. Dist. Certiorari denied.
+510 U.S. 978 (https://static.case.law/us/510/html/0978-06.html): No. 93-556. Say & Say et al. v. Superior Court of California, County of Los Angeles (Castellano et al., Real Parties in Interest). Ct. App. Cal., 2d App. Dist. Certiorari denied.
+510 U.S. 1116 (https://static.case.law/us/510/html/1116-08.html): No. 93-1008. Say & Say et al. v. Castellano et al.; and Shieh et al. v. Christopher et al. Ct. App. Cal., 2d App. Dist. Certiorari denied.
+510 U.S. 1116 (https://static.case.law/us/510/html/1116-09.html): No. 93-1009. Say & Say et al. v. Superior Court of California, Orange County (Lindquist et al., Real Parties in Interest); and Say & Say et al. v. Superior Court of California, Orange County (Miller et al., Real Parties in Interest). Ct. App. Cal., 4th App. Dist. Certiorari denied.
+511 U.S. 1052 (https://static.case.law/us/511/html/1052-05.html): No. 93-1367. In re Shieh. Ct. App. Cal., 2d App. Dist. Certiorari denied.
+516 U.S. 842 (https://static.case.law/us/516/html/0842-12.html): No. 94-9568. Shieh v. United States Bankruptcy Court for the Central District of California. C. A. 9th Cir. Certiorari denied.
+516 U.S. 933 (https://static.case.law/us/516/html/0933-12.html): No. 95-5625. Shieh v. Ebershoff et al. Ct. App. Cal., 2d App. Dist. Certiorari denied.

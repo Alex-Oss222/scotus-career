@@ -1,0 +1,3245 @@
+Supseme Court, U. $. 
+
+
+iG) FILED 
+"hy MAR 1 1996 
+No. 95-860 CLERK 
+——————— SSser —_ 
+
+
+In The 
+
+
+Supreme Court of the United States 
+
+
+October Term, 1995 
+° 
+
+
+BARBARA SMILEY, 
+
+
+Petitioner, 
+
+
+CITIBANK (SOUTH DAKOTA), N.A., 
+Respondent. 
+
+
+S 
+
+
+On Writ Of Certiorari 
+‘To The California Supreme Court 
+> 
+
+
+BRIEF FOR PETITIONER 
+¢ 
+
+
+Patrick J. GRANNAN Micuaet D. DoNovAN 
+Rosin B. Howatp (Counsel of Record) 
+CHIMICLES, J ACOBSEN Pame.a P. Bonp 
+
+& TIKeLus CHIMICLES, JACOBSEN 
+633 West Fifth Street & TIKELLIs 
+Los Angeles, CA 90071 361 W. Lancaster Avenue 
+(213) 623-8100 Haverford, PA 19041 
+
+
+Micuaet P. MALAKOorFF (610) 642-8 
+
+
+Ma takorr, DoyLe 
+
+& Finserc, P.C. 
+The Frick Building, 
+Suite 200 
+Pittsburgh, PA 15219 
+(412) 281-8400 
+
+
+Counsel for Petitioner 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Did Congress intend South Dakota’s legislative defi- 
+nition of “interest” to define the federal term “interest” in 
+Section 30 of the National Bank Act, 12 U.S.C. § 85 (“§ 85”), 
+and thereby displace other states’ contract laws limiting the 
+form or the amount of liquidated damages for late payments 
+on revolving credit accounts? 
+
+
+2. May Congress constitutionally delegate to South 
+Dakota the power to define the federal lending term “interest” 
+for all fifty states so as to preempt other states’ contract laws? 
+
+
+3. As a matter of federal law, does the term “interest at 
+the rate” in § 85 include contingent, sum-certain penalty 
+charges (late fees), so as to preempt state limitations on the 
+form or the amount of contractual liquidated damages on 
+revolving credit accounts? 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+QUESTIONS PRESENTED............. 66666000 e eeu i 
+TABLE OF AUTHORITIES ............6.06606 00005 iv 
+EE coe c sive boserteacrceocecesvocees ! 
+rc cts cheb ruse be peenerecdereccocncee | 
+CONSTITUTIONAL AND STATUTORY PROVISIONS 
+ttt. ocekdaveneg eh Auhebenense b4ecenes ! 
+At Pe eal is be sch ode bs cncecceccesenene 2 
+i Lc ccc cessycevesyscepesese 2 
+ne hoses adda vee eveecevccoes 7 
+C. FRBOIGE TOCRMIOURE .. wwe ccc cece cccvesccces % 
+i EE og ca cobdcertsécvcscecees 9 
+SUMMARY OF ARGUMENT ................eeeeee- 9 
+at eee en shou egeecereneesvescess 12 
+I. FEDERALISM COUNTS IN SECTION 85 OF THE 
+PRRs MIOUNUED PUD cove scccccccvcecccvecces 12 
+
+
+Il. THE MEANING OF “INTEREST” IN § 85 
+SHOULD NOT BE DEFINED BY THE LAW OF 
+
+
+THE BANK’S HOME STATE.................. 18 
+A. The Most Favored Lender Principle Does Not 
+Apply To The Package Of Loan Terms...... 18 
+
+
+B. A Limitless Home State Or Administrative 
+Definition Would Render § 85 Unconstitu- 
+ET Ah ee ee no wees 22 
+
+
+III. AS A MATTER OF FEDERAL LAW, “INTEREST 
+AT THE RATE” MUST RELATE TO THE TIME- 
+RE ET EUs hc cusses bcecdccpsvocese cece 30 
+
+
+TABLE OF CONTENTS - Continued 
+Page 
+
+
+A. The Plain Meaning of “Interest” Excludes Pen- 
+DT dakttshd ota Senebe dbendeeeted es 31 
+
+
+B. The Common Law Definition of “Interest” 
+Excludes Penalty Charges .................. 35 
+
+
+C. The NBA's Legislative History Also Demon- 
+strates That “Interest” Does Not Include Con- 
+EE I ie Se oS a 40 
+
+
+D. Congress and Federal Regulators Have Repeat- 
+edly Defined “Interest” to Exclude Contract 
+A A SR a ey 42 
+
+
+E. Single-Sum Late Fees Do Not Embody the 
+Essential Characteristics of Interest.......... 45 
+
+
+F. “Interest” In § 85 Must Be Interpreted Nar- 
+BOR 8 eile ds 6 ddWi nn cube dad c ddbebe ons dcdedes: 47 
+
+
+G. As A Matter Of Public Policy, “Interest” In 
+§ 85 Does Not Preempt State Laws Limiting 
+ch + op bb cutee ou oe cbdbs ode. 47 
+
+
+PS du cubetedGeceeescuescetsods deccece . 49 
+
+
+BRIEF APPENDIX 
+
+
+CONSTITUTIONAL AND Statutory Provisions Invotvep...... la 
+
+
+OCC Iwrereretrive Lerrer, James J. Saxon, June 25, 
+EE se a. ee Sa 
+
+
+OCC Iwrerererive Lerrer, Joun E. Suocxey, Jury |}, 
+EN ER TE EG Ee Ay en A ae ee a 7a 
+
+
+iv 
+TABLE OF AUTHORITIES 
+Page 
+
+
+Cases 
+Adams Fruit Co. v. Barrett, 494 U.S. 638 (1990)....27, 28 
+
+
+Aldens, Inc. v. Packel, 524 F.2d 38 (3d Cir. 1975), 
+
+
+cert. denied, 425 U.S. 943 (1976) .................. 14 
+American Timber and Trading Co. v. First National 
+
+Bank, 690 F.2d 781 (9th Cir. 1982)................. 46 
+Anderson Nat'l Bank v. Luckett, 321 U.S. 233 (1944) 
+
+oeetcdses dudes Eck bent eens 16, 18, 20 
+Arkansas Elec. Coop. Corp. v. Arkansas Public Serv. 
+
+ly SO OR DS Pere crore 20 
+In re Asbestos Litigation, 829 F.2d 1233 (3d Cir. 
+
+1987), cert. denied, 485 U.S. 1029 (1988)........... 44 
+
+
+Beasley v. Welis Fargo Bank, N.A., 235 Cal. App. 3d 
+1383, 1 Cal. Rptr. 2d 446 (1991), review denied, 
+
+
+1992 Cal. LEXIS 1220 (Cal. Mar. 12, 1992)....... oe 
+Bethlehem Steel Co. v. New York State Labor Rela- 
+
+— BF Se 2 FR fF a ee nn ee 15 
+Bowsher v. Synar, 478 U.S. 714 (1986)................ 27 
+
+
+Brown v. Hiatts, 82 U.S. (15 Wall.) 177 (1873)..... 45, 46 
+California v. ARC America Corp., 490 U.S. 93 (1989) .... 13 
+
+
+Cipollone v. Liggett Group, Inc., 505 U.S. 504 (1992) 
+o00060ndenens bheesaeadsduasteaeheeee 14, 15, 16, 43, 44 
+
+
+Citizens’ Nat'l Bank v. Donnell, 195 U.S. 369 (1904) .... 23 
+City of New York v. Feiring, 313 U.S. 283 (1941)...... 22 
+
+
+Copeland v. MBNA America, N.A., 820 F. Supp. 537 
+Gm GE SE bbe snd odhcoadéiecdenseenunds casas 31 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+
+Cronkleton v. Hall, 66 F.2d 384 (8th Cir.), cert. 
+TI a as i Oa 46 
+Dages v. Phoenix Nat'l Bank, 177 U.S. 549 (1900)..... 23 
+Daly v. Maitland, 88 Pa. 384 (1879) .................. 33 
+
+
+Davis v. Elmira Savings Bank, 161 U.S. 275 (1896).... 20 
+
+
+Davis v. Rider, 53 Ill. (53 Freeman) 416 (1870)........ 39 
+Department of Revenue v. ACF Industrial, Inc., 114 S. 
+
+ie in 8 is ceeccuneeasinmnah the cobb decals 13 
+Deputy v. DuPont, 308 U.S. 488 (1940) ............... 32 
+
+
+Edward J. DeBartolo Corp. v. Florida Gulf Coast 
+Bldg. and Constr. Trades Council, 485 U.S. 568 
+SEES Lhaciuebantie deeed t¥ ore ebb osecceeebeedec: 24 
+
+
+English v. General Electric Co., 496 U.S. 72 (1990).... 15 
+Evans v. National Bank, 251 U.S. 108 (1919)...19, 23, 24 
+
+
+Farmers’ & Mechanics’ Nat'l Bank v. Dearing, 91 
+ee TCE UT Saeed ctaneess baverbbnresescecocss 4 
+
+
+First Nat'l Bank v. Dickinson, 396 U.S. 122 (1969). .... 23, 24 
+First Nat'l Bank v. Kentucky, 76 U.S. (9 Wall.) 353 
+
+
+GR IER A Se eer wr ee 5, 16, 17, 20 
+First Nat'l Bank v. Missouri, 263 U.S. 640 (1924)..... 17 
+First Nat'l Bank v. Morgan, 132 U.S. 141 (1889)...... 34 
+First Nat'l Bank v. National Exch. Bank, 92 U.S. 122 
+
+EE ee Sy a A eee Pe eee 20 
+First Nat'l Bank v. Nowlin, 509 F.2d 872 (8th Cir. 
+
+EE Ey Reiter ree ee ey. Rare tee BE 9 pe 24 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Fisher v. First Nat'l Bank, 548 F.2d 255 (8th Cir. 
+
+
+Florida Lime & Avocado Growers, Inc. v. Paul, 373 
+eee Bee Ges 6 ch audneckcess dn coneussieniet 
+
+
+Freightliner Corp. v. Myrick, 115 S. Ct. 1483 (1995).... 
+
+
+Garcia v. San Antonio Metro. Transit Auth., 469 U.S. 
+Sees Civics dc nu d¥sbs €iccdsvesdetvcobbeusert 
+
+
+Gaar v. Louisville Banking Co., 74 Ken. (11 Bush) 
+SE, CE. Cite ccccecccccccccnccecetebiedsuss 
+
+
+Garrett v. Coast and Southern Federal Savings & 
+Loan Ass'n, 9 Cal. 3d 731, 511 P.2d 1197 (1973) 
+
+
+Greenwood Trust Co. v. Massachusetts, 971 F.2d 818 
+(ist Cir. 1992), cert. denied, 506 U.S. 1052 (1993) 
+POO i ae ee PRS oe 45, 
+
+
+Gregory v. Ashcroft, 501 U.S. 452 (1991)... 13, 16, 
+Griffith v. Connecticut, 218 U.S. 563 (1910)....... 
+Gustafson v. Alloyd Co., 115 S. Ct. 1061 (1995)... 
+
+
+Harper v. Virginia Dep't of Taxation, 113 S. Ct. 2510 
+pec cecccedes hauaenueebuerceas caneeneeesaee 
+
+
+Haseltine v. Central Bank, 183 U.S. 132 (1901).... 
+
+
+Hayes v. First Nat'l Bank, 256 Ark. 328, 507 S.W.2d 
+Fae Gs o bi Sncwdnd ev ead cdbiots Ge lie wendsc 
+
+
+Healy v. Beer Institute, 491 U.S. 324 (1989)....... 
+Hines v. Davidowitz, 312 U.S. 52 (1941) .......... 
+INS v. Cardoza-Fonseca, 480 U.S. 421 (1987) ..... 
+
+
+Industrial Union Dep't v. American Petroleum Inst., 
+Gee We Oe a coccechssdescdcubeaiennal 
+
+
+vii 
+TABLE OF AUTHORITIES - Continued 
+Page 
+Jarecki v. G.D. Searle & Co., 367 U.S. 303 (1961) .... 42 
+
+
+Jerome v. United States, 318 U.S. 101 (1943).......... 22 
+Kelsey v. Murphy, 30 Pa. (6 Casey) 340 (1858)........ 39 
+Keppel v. Tiffen Sav. Bank, 197 U.S. 356 (1905)....... 47 
+
+
+Kothe v. R.C. Taylor Trust, 280 U.S. 224 (1930)... .30, 38 
+Library of Congress v. Shaw, 478 U.S. 310 (1986) ..... 38 
+Lloyd v. Scott, 29 U.S. 205, 4 Pet. 173 (1830)...... 33, 41 
+Lorillard v. Pons, 434 U.S. 575 (1978)................ 34 
+Loudon v. Taxing Dist., 104 U.S. (14 Otto) 771 (1881). . 38, 39 
+MCI Telecommunications Corp. v. AT&T, 114 S. Ct. 
+
+
+Se a dk ehbs 6 ier neneic Cednnes + thides vhs cai 29 
+Marquette Nat'l Bank v. First of Omaha Serv. Corp., 
+
+er Ca MUTED, & dalvncacbepacd canteen cic ce passim 
+Maryland v. Louisiana, 451 U.S. 725 (1981)........... 45 
+
+
+Mazaika v. Bank One, Columbus, N.A., 439 Pa. Super. 
+95, 653 A.2d 640 (1994) (en banc), alloc. granted, 
+
+
+or ng 6 ee 31 
+McClellan v. Chipman, 164 U.S. 347 (1896)......... 5, 20 
+Meilink v. Unemployment Reserves Comm'n, 314 US. 
+
+2 i tiatnnentdddtuneds 4 deeb chhenensoct ee enes 30 
+Merchants’ Nat'l Bank v. Sevier, 14 F. 662 (C.C.E.D. 
+
+i RAs ohn as cls adh vcs geen embasentecad 36, 37 
+Mississippi Band of Choctaw Indians v. Holyfield, 490 
+
+4 SS rrr ae eee 24 
+
+
+viii 
+TABLE OF AUTHORITIES —- Continued 
+_Page 
+
+
+National Bank v. Johnson, 104 U.S. 271 (1881) 
+p eddicehisnd Vébwrenebdeckeakenwanautedal 4, 19, 23, 24, 36 
+
+
+New Orieans Ins. Co. v. Piaggio, 83 U.S. (16 Wall.) 
+oF SAT tt ei rie 38, 39 
+
+
+New York State Conf. of Blue Cross & Blue Shield 
+Plans v. Travelers Ins. Co., 115 S. Ct. 1671 (1995) 
+16 CORO debbeabd 6 bbc be 6Ceceee€ heck lsenmnait 15, 17, 22 
+
+
+Panama Refining Co. v. Ryan, 293 U.S. 388 (1935). .... 26, 27 
+Park 'N Fly, Inc. v. Dollar Park & Fly, Inc., 469 U.S. 
+
+
+SD Ges 6:6 60 ob chads taba doowean 6duk elie Cos ks 31 
+Penn Dairies, Inc. v. Milk Control Comm'n, 318 U.S. 
+Be COOEEs id cvewds cyee¥ outs seeds eaeeseetek bees. 15 
+
+
+Perdue v. Crocker Nat'l Bank, 38 Cal. 3d 913, 702 
+P.2d 503 (1985), appeal dismissed, 475 U.S. 1001 
+RR Og BI PS 8 FE, Pep 20 
+
+
+Redfield v. Ystalyfera Iron Co., 110 U.S. 174 (1884).... 40 
+Rice v. Norman Williams Co., 458 U.S. 654 (1982)..... 16 
+
+
+Seattle Trust & Sav. Bank v. Bank of California, N.A., 
+492 F.2d 48 (9th Cir.), cert. denied, 419 U.S. 844 
+GRO OEE vc ob nce eded US sdb wowed veedu Neer seuss deste dc 23 
+
+
+Sherman v. Citibank (Sowth Dakota), N.A., 143 N.J. 
+35, 668 A.2d 1036 (1995), petition for cert. pend- 
+ing (U.S. filed Dec. 21, 1995)............... 28, 29, 46 
+
+
+Shoemaker v. United States, 147 U.S. 282 (1893) ...45, 46 
+Silkwood v. Kerr-McGee Corp., 464 U.S. 238 (1984)....15, 17 
+
+
+Smith v. Fidelity Consumer Discount Co., 898 F.2d 
+oe LK Re een eee ye 43 
+
+
+ix 
+
+
+TABLE OF AUTHORITIES —- Continued 
+
+
+Page 
+Spain v. Hamilton's Adm'r, 68 U.S. (1 Wall.) 604 
+SE Ga Ui cate sda btbiddecacccebons obbebbecccece cs 33 
+Sun Printing & Publishing Ass'n v. Moore, 183 U.S. 
+See CU bab bwsebesedvrdshiocideccddde sce coWer 34, 37 
+Swift v. Tyson, 41 U.S. (16 Pet.) 1, 18 (1841) ......... 44 
+
+
+Tayloe v. Sandiford, 20 U.S. 13, 7 Wheat. 7 (1822).....30, 33 
+
+
+Thomas v. Washington Gas Light Co., 448 U.S. 261 
+
+
+IRE SE A IE ee oe ne 25 
+Thurston Motor Lines, Inc. v. Jordon K. Rand, Lid., 
+
+ee ice disp weebeobeeeen 20, 24 
+Tiffany v. National Bank of Missouri, 85 U.S. (18 
+
+Sh MED <p. ctdlipeys ae Ubete deeestoGeocees passim 
+Union Nat'l Bank v. Louisville N.A. & C. Ry. Co., 163 
+
+a I CS ee 24 
+United States v. Childs, 266 U.S. 304 (1924) ....... 30, 37 
+United States v. Ron Pair Enter., Inc., 489 U.S. 235 
+
+he ce ach eek she obds bhESEEEHHEDD OE RO 006 31 
+United States v. Shabini, 115 S. Ct. 382 (1994)........ 35 
+United States v. Sharpnack, 355 U.S. 286 (1958)....... 25 
+
+
+United States v. Texas, 507 U.S. 529 (1993) 
+a ed i aaa clea beg 35, 37, 38, 39, 41, 46 
+
+
+Wilson v. Dealy, 222 Tenn. 196, 434 S.W.2d 835 
+Pn denne masedes hbSehs COCbDDSCAEA SE DEORE OD ES C6 41 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+CONSTITUTIONAL PROVISIONS 
+Full Faith and Credit Clause (Art. IV, § 1)............. l 
+Supremacy Clause (Art. VI, cl.2) 00.0... cc eces scenes | 
+Be Gee. Gee: 6 GS ccctaiones 0és ethan cediede 1, 24 
+Feperat STATUTES 
+National Bank Act of 1864 
+Ch. 106, § 30, 13 Stat. 99, 108 (1864)...... 1, 3, 4, 40 
+OR De DH We dato ccteccnccccdslasbececssvosers 20, 35 
+SS Fs Oe ink ovinvkeb oud séibunadsanenAbieabnall 29 
+OS BBE. BG CO GD cc deviciectdanisctiviae passim 
+12 U.S.C. § 86 (“§ 86”) ....... 1, 3, 17, 28, 34, 40, 47 
+National Currency Act of 1863 
+Fe BS eNO rey ee 2 
+Se GR anc nbs cdeds Kinds ends ovcewmnesel 3, 40 
+Federal Reserve Act 
+SS GE. OF SSPE CHS bv ecole ci MOWER 44 
+oer ie Fo. EF OB eer rere. eet 44 
+BD GE B TPS 8405 0 dei obi cadkni«deedeanseaee l 
+Act of Dec. 28, 1979, Pub. L. No. 96-161, 93 Stat. 
+SEOs aun hu noobs ke Cae db nde endewedsamenhbeestnhat 43 
+
+
+Act of Oct. 29, 1974, Pub. L. No. 93-501, §§ 201-206, 
+Se BU, Fees MI 8 ce cccacidvsweceseeueereceess 4) 
+
+
+xi 
+
+
+TABLE OF AUTHORITIES -— Continued 
+
+
+Page 
+Depository Institutions Deregulation and Monetary 
+Control Act of 1980 (“DIDA”), Pub. L. No. 96-221, 
+94 Stat. 132-193 (1980), (codified in scattered sec- 
+Ee I EE Phe Se ee 42, 45 
+Se EE, Cah keh che dbedas ceancedeacie 43 
+
+
+Reigle-Neal Interstate Banking and Branching Effi- 
+
+
+ciency Act of 1994, Pub. L. No. 103-328, § 114, 
+108 Stat. 2238 (codified at 12 U.S.C. § 43 (1994)) .... 29 
+
+
+Truth-in-Lending Act, 15 U.S.C. § 1601 (1994)........ 46 
+ee I, na a ube chebechicedee 36 
+
+
+State STATUTES 
+See es GD PE CUUUEE BUD cc ccccvicesccescss 1, 7 
+
+
+Cal. Fin. Code § 4001 (West Supp. 1996) .............. 9 
+S.D. Codified Laws Ann. § 54-3-1 (1990).... 1, 2, 21, 39 
+
+
+S.D. Codified Laws Ann. § 54-3-1.1 (1990)............. | 
+REGULATIONS 
+Ey EES Se Oe Ay Pee Pee eee Trees 44 
+i ae od) dumene ad 45, 46 
+ee pe ree 45, 46 
+60 Fed. Reg. 11924, 11929 (1995) (to be codified at 
+
+12 C.F.R. § 7.4001) (proposed Mar. 3, 1995)........ 29 
+61 Fed. Reg. 4849-4870 (1996). ... 2... 6... cece cues 29 
+
+
+xil 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+LeGistatTive MATERIALS 
+Conc. Grose, 38th Cona., Ist Sess. 1889-1900, 
+1952-57, 2122-27 and 2142 (1864)........ 3, 21, 40, 41 
+H.R. Cone. Rep. No. 651, 103d Cona., 2d Sess. 53 
+(1994), reprinted in 1994 U.S.C.C.A.N. 2039, 
+EL 6 6. 6b 4 dd ee doen duntiten dk eee adele 29 
+H.R. Cone. Rep. No. 842, 96th Cona., 2d Sess. 69, 78 
+(1980), reprinted in 1980 U.S.C.C.A.N. 298, 308 .... 43 
+S. Rep. No. 1120, 93d Cona., 2d Sess. 18 (1974), 
+reprinted in 1974 U.S.C.C.A.N. 6249, 6261.......... 41 
+S. Rep. No. 368, 96th Cona., Ist Sess. 19 (1979), 
+reprinted in 1980 U.S.C.C.A.N. 236, 255............ 43 
+ADMINISTRATIVE MATERIALS 
+OCC Letter, James Saxon, Comptroller of the Cur- 
+SE Be  wicbbs on + kaon Cickeeduceka vet es 28 
+OCC Letter No. 452, R. Serino, Deputy Chief Coun- 
+sel, reprinted in [1988-1989 Transfer Binder] Feo. _ 
+Banxinc L. Rep. (CCH) 4 85,676 (Aug. 11, 1988) .... 28 
+OCC Letter No. 676, J. Williams, Chief Counsel, 
+reprinted in [1994-1995 Transfer Binder] Fen. 
+BankinG L. Rep. (CCH) 7 83,618 (Feb. 17, 1995) .... 29 
+came. TRE. Varwemy Peuane Cy GA SB. n.c cccccccccccces 44 
+Texts 
+Biack’s Law Dictionary 730 (5th ed. 1979)............ 31 
+| Joun Bouvier, A Law Dictionary 652 (7th ed. 1857)... . 32 
+
+
+xiil 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+2 ALEXANDER M. Burritt, A New Law Dicrionary AND 
+I a 32 
+Rosert B. Comyn, Treatise ON THE Law or Usury, 
+73-74 & n.(a) (R. Pheney, London 1817)............ 34 
+S Arruur L. Corsin, Contracts § 1058 (1964)......... 37 
+Georce W. Fiecp, THe Law or Damaces §§ 22, 134-56 
+ESE SS cle ey Ste a ree a ee eo 37 
+Jacos’s Law Dictionary (10th ed. 1797)............... 32 
+1 Josep A. Joyce, Treatise on Damaces §§ 1, 2, 33 
+re Ge ee ee eon Be 37 
+Joun J. Knox, A History or BANKING In THE UNITED 
+States 97-99, 227, 233, 238-266 (1908) .............. 3 
+THe Feperauist, No. 46 (James Madison) (Clinton 
+i Ms ae ee kee eel) Tees seeds 13 
+THe Feperaust, No. 62 (James Madison) (Clinton 
+i Mn. CONES es oho. du cbées ts eeeveesi 13 
+Cuarces T. McCormick, HANpBook On THE LAw oF 
+or re On... vdv5é dapweeeides ewer 37 
+Mark Orv, Law or Usury 29 (3d ed. 1809)............ 32 
+Periey, Principces or THE Law or InTrerest | (1893)..... 32 
+1 TuHeopore Sepacwick, Measure or DAMAGES 
+rr i nn. vegan wags cosestusaveees 37 
+Georce SHARSwoop, PorpuLar Lecrurrs ON COMMERCIAL 
+aS ea. Li aia eis ees 33 
+
+
+XIV 
+TABLE OF AUTHORITIES — Continued 
+
+
+KennetH Starr, Parrick E. HiGGiInpoTHAM, ET AL. THE 
+Law or Preemption, A Report oF THE APPELLATE 
+Jupces Conrerence 40 (American Bar Ass'n pam- 
+mies BDPE) . ow cccccccccccccccscossnscesscece 2, 
+
+
+2 Srory, COMMENTARIES ON Eguity JURISPRUDENCE 
+GS PO ncouebcccWocdc dst Coneeeeet suueeeeeeesey 
+
+
+Weesster’s Ninth New Correciatre Dictionary 630 
+SORE < wsvivccwed ade ccbve dee biceusatele ds ease 
+
+
+Wuarton’s Law Lexicon 391 (2d ed. 1860)........ 
+Il Samuet Wituiston, Contracts §§ 769-792 (1920). 
+
+
+5 Samuet Witutston, Contracts § 780 (3d ed. 1961).... 
+
+
+MISCELLANEOUS 
+
+
+Annot. Provision for Interest After Maturity at a Rate 
+in Excess of Legal Rate as Usurious, 82 A.L.R. 
+ye 8 re ee et eee 
+
+
+Bray Hammond, The North's Empty Purse, 
+1861-1862, 67 Am. Hist. Rev. 1, 8-10 (1961).... 
+
+
+Feperat Reserve BANK or Cuicaco, Small States Teach 
+a Big Banking Lesson, Cuicaco Fen. Letrer, No. 10 
+
+
+CD Te 0 6:n.002.062 case eb ckde ste etsekickues 
+
+
+RESTATEMENT OF Contracts § 339 (1932)........... 
+
+
+Page 
+
+
+I 
+OPINIONS BELOW 
+
+
+The majority and dissenting opinions of the California 
+Supreme Court (Pet. App. 1-72) are published at 11 Cal. 4th 
+138, 44 Cal. Rptr. 2d 441, 900 P.2d 690 (1995). The majority 
+and dissenting opinions of the California Court of Appeal 
+(Pet. App. 74-98) are published at 26 Cal. App. 4th 1767, 32 
+Cal. Rptr. 2d 562 (1994). The opinion of the California 
+Superior Court (Pet. App. 99-105) is unreported. 
+
+
+JURISDICTION 
+
+
+The California Supreme Court entered judgment on Sep- 
+tember 1, 1995. On November 30, 1995, petitioner invoked 
+this Court’s jurisdiction under 28 U.S.C. § 1257(a) by filing a 
+Petition for a Writ of Certiorari to the California Supreme 
+Court. This Court granted review on January 19, 1996. 116 S. 
+Ct. 806 (1996). 
+
+
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED 
+
+
+The constitutional and statutory provisions involved in 
+this case are Article I, Section | of the United States Consti- 
+tution (art. I, § 1); the Supremacy Clause (art. VI, cl.2); the 
+Full Faith and Credit Clause (art. IV, § 1); Section 30 of the 
+National Bank Act of 1864 (“§ 30”), Act of June 3, 1864, ch. 
+106, § 30, 13 Stat. 99, 108 (1864) (codified as amended at 12 
+U.S.C. §§ 85 & 86 (1994)); S.D. Codified Laws Ann. 
+§§ 54-3-1.1 and 54-3-1 (1990); and Cal. Civ. Code § 1671 
+(West 1995). The relevant portions of these provisions are 
+reproduced at Appendix A to this brief, Pet. Br. App. A. 
+
+
+2 
+STATEMENT 
+
+
+This case involves the question of whether “federalism 
+counts”! for national banks under section 85 (§ 85) of the 
+National Bank Act (“the NBA”). A divided California 
+Supreme Court held that § 85 employs a federal “choice of 
+law provision” that entrusts the lawfulness of a national 
+bank’s loan-related charges to the bank’s “home state and to 
+its home state alone.” (Pet. App. 30). Acvording to the court's 
+reasoning, the law of a bank’s home state, in this case South 
+Dakota, in effect defines the words “interest” and “rate” in 
+the federal statute and determines the scope of federal pre- 
+emption under § 85. Because relatively recent South Dakota 
+legislation has defined late fees and other charges as “inter- 
+est,” see S.D. Codified Laws Ann. § 54-3-1 (1990), that 
+legislation, as incorporated into § 85 by the lower court's 
+construction, preempts even nondiscriminatory contract laws 
+of a borrower's state that limit default penalties such as credit 
+card late fees, over credit limit fees, return check fees and 
+attorneys’ fees. Petitioner challenges this overbroad inter- 
+pretation of § 85 because Congress did not intend to preempt 
+the contract laws of a borrower’s state limiting single-sum 
+penalties. 
+
+
+A. Statutory Context 
+
+
+Congress passed the NBA in 1864 against the backdrop 
+of the Civil War. A year earlier, Congress had enacted the 
+NBA’s predecessor, the National Currency Act of 1863,? 
+which provided the model for the 1864 statute. As with most 
+legislation, the two acts were products of legislative compro- 
+mise, although both were intended to provide for a uniform 
+
+
+' See Kennetu Starr, Patrick E. HiccinsoTuas, et al., THe Law or 
+Preemption, A Report of THE AppPpeLLATeE JupGes Conremence 40 
+(American Bar Ass’n pamphlet 1991) (“THe Law or Preempriow”™). 
+
+
+2 National Currency Act, ch. 58, 12 Stat. 665 (1863). 
+
+
+3 
+
+
+national currency that would facilitate financing for the war.’ 
+While some of the NBA's sponsors wanted to abolish all state 
+banks and establish a national ceiling on interest rates, Con- 
+gress opted instead to promote and protect privately owned 
+national banks in a way that respected fundamental principles 
+of federalism.* 
+
+
+Sensitive to broad intrusions on traditional areas of state 
+control, Congress designed the NBA to prevent discrimination 
+without displacing all state tort and contract laws as applied 
+to the federally chartered banks. In fact, the earlier Currency 
+Act respected local control by authorizing national banks to 
+charge “such rate of interest... as is .. . the established rate 
+of interest for delay in the payment of money .. . by the laws 
+of the several States in which the associations are respectively 
+located, and no more... . ” 12 Stat. 678-79. One year late: , 
+despite vigorous attempts to establish a national interest raic 
+ceiling,* Congress continued to respect state interests by 
+enacting § 30 of the NBA, now codified as § 85 and 12 U.S.C. 
+§ 86 (“§ 86”). As originally enacted, § 30 authorized the 
+national banks to choose from three rates of interest: the 
+general statutory rate allowed by the state where the bank was 
+
+
+3 See, e.g., Joun J. Knox, A History or Bankine ww rue Unrrep 
+Srares 97-99, 227, 233, 238-266 (1908); Bray Hammond, The North's 
+Empty Purse, 186/-/862,67 Am. Hist. Rev. 1, 8-10 (1961) (noting that the 
+NBA “was of far less help to the war than the war was of help to it.”). 
+
+
+* See, e.g., Conc. Grose, 38th Cona., Ist Sess. 1889-1900, 1952-57 
+and 2142 (1864) (reprinting the debate over whether states would be 
+allowed under NBA section 41, 13 Stat. 111-112, to impose 
+nondiscriminatory taxes on the shares of national banks as personal 
+property of each of a bank's shareholders, and rejecting amendments that 
+would have limited such state taxation despite pleas for nationalism and 
+attacks on so-called “states rights” positions). 
+
+5 See, e.g., Knox, supra note 3, at 233 (noting that the Comptroller of 
+the Currency recommended in his 1864 report that “the penalty for usury 
+should be forfeiture of the interest instead of a forfeiture of the debt, and 
+this uniform rate of interest should be seven percent.”); Conc. Grose, 38th 
+Cona., Ist Sess. 2123-2127 (debating and rejecting uniform rate ceiling). 
+
+
+4 
+
+
+located, a higher statutory rate if such a higher rate was 
+allowed for state banks, or, if the state did not have a statu- 
+tory interest rate ceiling, then a federal interest rate of “seven 
+per centum,” 13 Stat. 108. As with the Currency Act, the goal 
+was to respect local control of interest rate ceilings while 
+preventing state discrimination against national banks in 
+favor of state lenders with respect to the allowed rates. 
+
+
+To protect the national banks from potentially hostile 
+state usury statutes and penalties, Congress also provided 
+uniform federal usury remedies. If an excessive rate of inter- 
+est was charged but not paid by the borrower, the bank would 
+be liable for forfeiture of the interest only, not the interest and 
+the debt, which was the penalty in some states. See Farmers’ 
+& Mechanics’ Nat'l Bank v. Dearing, 91 U.S. 29, 32-33, 
+36-37 (1875). If the excessive rate of interest was already 
+paid, the bank would be subject to the federal penalty of 
+double the amount of interest it had collected. See id. at 32. 
+So, for interest rates, Congress gave notice to the states that 
+while they could still control rates evenhandedly for all banks 
+located within their borders, the statutory penalties for usury 
+would be preempted as applied to national banks. This politi- 
+cal compromise did not, of course, provide any notice to the 
+states that their state contract or tort laws affecting bank loans 
+would be preempted. 
+
+Congress enacted these intricate provisions intending the 
+term “interest” to have a federal definition that would not 
+depend on unique state definitions. See Tiffany v. National 
+Bank of Missouri, 85 U.S. (18 Wall.) 409, 410 (1874) (holding 
+that “interest” in § 85 must “receive a strict, that is literal 
+construction” to avoid subjecting the banks to the penalty of 
+double the interest collected). Although the numerical rate of 
+interest could vary from state to state, the meaning and 
+substantive components of “interest” for national banks would 
+be the same throughout the country. In other words, § 85 
+incorporates only the rate ceilings of a bank’s home state, not 
+the states’ varying definitions of “interest” or the divergent 
+statutory elements and penalties for “usury.” See National 
+
+
+5 
+
+
+Bank v. Johnson, 104 U.S. 271, 277 (1881) (explaining 
+Tiffany and holding that only the “rate” of interest is feder- 
+alized by § 85, not the character of the contracts banks are 
+authorized to make). 
+
+
+Shortly after the NBA was passed, this Court recognized 
+the Act's intricate design and addressed its preemptive scope. 
+Although the newly chartered banks were federal instru- 
+mentalities, the Court emphasized that they were still subject 
+to all state laws that did not directly conflict with federal law 
+or “incapacitate[] the banks from discharging their duties to 
+the government.” First Nat'l Bank v. Kentucky, 76 U.S. (9 
+Wall.) 353, 362 (1870). In so holding, the Court observed that 
+the banks “are governed in their daily course of business far 
+more by the laws of the State than of the nation.” /d. In 
+addition, “their contracts are governed and construed by State 
+laws. Their acquisition and transfer of property, their right to 
+collect their debts, and their liability to be sued for debts are 
+all based on [and governed by] State law.” /d. As a rule, the 
+dealings and contracts of national banks are subject to general 
+State laws except where there is an “express conflict” with 
+federal laws, or the state laws frustrate the functions of the 
+banks or impair “their efficiency to discharge the duties 
+imposed upon them by the laws of the United States.” 
+McClellan v. Chipman, 164 U.S. 347, 357 (1896). 
+
+
+Congress's respect for federalist principles and local 
+interests was tempered by its desire to ensure the success of 
+the national banks. In Tiffany, this Court observed that § 85 
+bestows a most favored lender status on national banks. See 
+85 U.S. at 411-13. That status allows a national bank to 
+charge the highest “rate” of “interest” allowed to any person 
+(not just to state banks) by its home state. /d. at 413. In this 
+way, national banks are “national favorites” because they 
+enjoy greater interest rate authority than state banks in those 
+states that limit the interest rates charged by state institutions. 
+That most favored lender status is, of course, a product of 
+§ 85's language and design. 
+
+
+6 
+
+
+Years later, in Marquette Nat'l Bank v. First of Omaha 
+Serv. Corp., 439 U.S. 299 (1978), the Court considered the 
+meaning of the word “located” in § 85 and the preemptive 
+scope of the section. Announcing what has Secome known as 
+the “exportation” doctrine, the Court held that “located” has a 
+firm, federal definition so that a national bank may “export” 
+its home state’s interest rate into other states. See id. at 
+310-14, 318. The Court ruled that a national bank located in 
+Nebraska (the state identified in its federal charter) could 
+charge the interest rate allowed by that state on loans to 
+customers living in Minnesota, even though the Nebraska rate 
+exceeded the statutory rate in Minnesota. See id. The Court 
+did not, however, define the terms “interest” or “rate.” Nor 
+did it hold that the laws of a national bank's home state 
+govern all the contractual terms or charges (other than “inter- 
+est” as defined by Congress) imposed on consumers in other 
+states. 
+
+
+Since Marquette, several small states (the “bank friendly 
+states”) and numerous banks have attempted to expand the 
+“exportation” doctrine beyond the parameters established by 
+this Court and Congress. During the 1980s, some of those 
+states, most notably South Dakota, the current home of Cit- 
+ibank (South Dakota), N.A. (“Citibank” or “the bank”), and 
+Delaware, sought to attract large credit card operations by 
+deregulating banking and repealing consumer protection laws. 
+See Feperar Reserve Bank or Cuicaco, Small States Teach a 
+Big Banking Lesson, Cuicaco Fev. Lerrer, No. 10 (June 
+1986). Recognizing that penalty fees represent a significant 
+revenue opportunity that far exceeds any increased costs to 
+issuers caused by late payments, the two states passed unique 
+legislation that, contrary to the common law, redefined “inter- 
+est” to include late fees, attorneys’ fees and other contract 
+terms and penalties. The idea was to allow national and other 
+banks relocating to those states to “export” the terms and 
+penalties into other states under the guise of “interest,” a 
+prospect that goes well beyond the holding in Marquette and 
+the plain meaning of “interest at the rate” contained in § 85. 
+
+
+B. California Law 
+
+
+The California law involved in this case, Cal. Civ. Code 
+§ 1671, limits the charges all businesses, including banks, 
+may impose on consumers for a breach of contract, such as a 
+late payment. In contrast with the relatively recent legislation 
+passed by bank friendly states like South Dakota and Dela- 
+ware, California has followed the common law rule that 
+compensatory “interest” is distinct from punitive contract 
+penalties or forfeitures. For example, in Beasley v. Wells 
+Fargo Bank, N.A., 235 Cal. App. 3d 1383, 1 Cal. Rptr. 2d 446 
+(1991), review denied, 1992 Cal. LEXIS 1220 (Cal. Mar. 12, 
+1992), a case involving credit card late fees and overlimit 
+fees, the California Court of Appeal recognized the ancient 
+roots of this common law distinction. In describing the long- 
+standing jurisdiction of equity courts over actions for relief 
+from excessive liquiclated damages, the court observed that 
+“before 1697, the English courts of equity had exclusive 
+jurisdiction to relieve a party from a penalty for breach of 
+contract.” /d. at 1391, 1 Cal. Rptr. 2d at 449, citing 2 Srory, 
+ComMENTARIES ON Egurry Jurisprupence § 1301, at 536 (1836). 
+The court further noted that under the Statute of William, 
+passed by Parliament in 1697, a plaintiff in an action at law 
+was limited to recovery of the actual damages for a breach of 
+contract and could not recover any additional penalty pro- 
+vided for by the contract. /d. at 1392, | Cal. Rptr. 2d at 449. 
+
+
+This common law, the Beasley court found, was effec- 
+tively codified in the 1872 predecessor to Cal. Civ. Code 
+§ 1671. Practically reflecting the current common and statu- 
+tory law of liquidated damages, the 1872 legislation provided 
+that a contractual predetermination of damages for breach of 
+contract was void unless “ ‘it would be impracticable or 
+extremely difficult to fix the actual damage.’ ” 235 Cal. App. 
+3d at 1398-99, 1 Cal. Rptr. 2d at 454 (quoting former § 1671). 
+Thus, as the Beasley court held, current section 1671 “retains 
+the former codified common law rule [of liquidated damages] 
+for consumer actions.” /d. at 1399, | Cal. Rptr. 2d at 454; see 
+Garrett v. Coast and Southern Fed. Sav. & Loan Ass'n, 9 Cal. 
+
+
+3d 731, 739, 511 P.2d 1197, 1202 (1973) (“The fundamental 
+difference between interest and penalty charges is that interest 
+is a measure of compensation . . . while a penalty is punitive 
+in character.”). Important to the present case is the fact that 
+this common law is separate and distinct from a statutory 
+action for usury. 
+
+
+C. Factual Background 
+
+
+This case challenges the exportation of contract penalties 
+as “interest” into states like California that limit or prohibit 
+the contractual penalty provisions. From South Dakota, Cit- 
+ibank issues Visa cards and Mastercards to customers nation- 
+wide. (Pet. App. 110). Citibank charges these customers not 
+only a hefty annual percentage rate but also a separate and 
+additional $15 late charge if a specified minimum payment is 
+not received within a number of days after the payment due 
+date. In addition to Citibank’s daily percentage rate finance 
+charge, the bank charges the separate $15 late fee regardless 
+of the outstanding balance, the amount of the payment owed, 
+the actual number of days the payment is late, or the adminis- 
+trative costs associated with processing the late payments. 
+(Pet. App. 114). Citibank’s cardmember agreement treats the 
+late payment as a technical breach of the contract and does 
+not waive or forbear the default, even if the late fee is paid. 
+(Pet. App. 117 & 122; see Jt. App. 49-82). Bearing no 
+relationship to the amount owed, the passage of time or the 
+bank's actual processing costs, and imposed in addition to 
+continuing interest rate charges for delay, the late fee is a 
+classic contract penalty. (Pet. App. 114-115). 
+
+
+Citibank charges its late fees in every state, including 
+California, which indisputably regulates such charges as con- 
+tractual liquidated damages or penalties, not as usurious inter- 
+est. Here, Citibank exported its late fees into California and 
+imposed them on Petitioner Barbara Smiley (“petitioner” or 
+“cardholder”) and other California residents. In response, 
+petitioner filed this consumer class action on July 7, 1992, 
+alleging that the late fees are excessive contract penalties 
+
+
+9 
+
+
+imposed in violation of California law. (Pet. App. 106-128). 
+Since this litigation began, California has amended its laws to 
+allow for the imposition of credit card late fees, but only in 
+certain limited amounts. See Cal. Fin. Code § 4001 (West 
+Supp. 1996). Under the lower court's holding, however, even 
+those limitations also do not apply to out-of-state national 
+banks because those banks are governed solely by the laws of 
+their home states. 
+
+
+D. The Decision Below 
+
+
+Despite California’s longstanding treatment of credit card 
+late fees as common law contractual penalties, a 5-2 majority 
+of the California Supreme Court upheld the dismissal of 
+petitioner's complaint. According to the court, Congress has, 
+in § 85, preempted all contract laws of a borrower's state that 
+limit the loan-related fees of an out-of-state bank if the bank's 
+home state has authorized the fees to be charged as “interest.” 
+(See Pet. App. 21-30). Since Citibank’s late fees are consid- 
+ered “interest” under South Dakota's relatively recent legisla- 
+tion, the majority below concluded that California's 
+liquidated damages law is preempted. (/d. at 39). In contrast, 
+two dissenting justices reasoned that “interest” in the federal 
+statute does not include the sum-certain contract penalties 
+Citibank has exported into California. (See id. at 42 and 72). 
+They would have ruled, as petitioner demonstrates below, that 
+
+
+California’s liquidated damages law is not preempted. (See 
+id.). 
+
+
+SUMMARY OF ARGUMENT 
+
+
+This case will decide whether a bank's home state has 
+boundless national lawmaking authority to preempt other 
+states’ contract, tort and consumer protection laws affecting 
+credit cards held by consumers living in those other states. At 
+stake is not only whether an out-of-state national bank can 
+charge sum-certain late fees beyond the amounts allowed by 
+the consumer's state, but also whether a consumer's state can 
+
+
+10 
+
+
+enforce other general contract, tort or consumer protection 
+laws affecting bank loans issued by out-of-state banks. 
+Eschewing a federal definition of “interest at the rate,” the 
+lower court construed the most favored lender principle of 
+§ 85 to encompass practically any loan-related term or charge. 
+According to that court's reasoning, all laws of a borrower's 
+state that have an indirect economic impact on the pricing of 
+loans by national banks impermissibly intrude on the interest 
+rates allowed by the bank’s home state and must be pre- 
+empted. Despite professing allegiance to this Court's prece- 
+dents, both the lower court and respondent have disregarded 
+the presumption against preemption and the “clear statement” 
+rule. There is nothing in the text or the purposes of § 85 to 
+support a finding that Congress enacted a boundless federal 
+choice of law provision that empowers the home states of 
+banks to establish lending laws for the entire nation. 
+
+
+The very context in which the NBA was passed estab- 
+lishes that Congress did not intend to enact a “federal choice 
+of law” provision in § 85. Although the lower court empha- 
+sized the exigencies of the Civil War as proof of broad 
+preemptive intent (see Pet. App. 24), the nature and causes of 
+that vicious conflict actually prove the opposite. The Civil 
+War Congress was acutely sensitive to broad intrusions on 
+traditional state powers precisely because of that conflict. 
+Given that sensitivity, Congress thoroughly debated and care- 
+fully crafted a banking act that generally respected state 
+interests and displaced only those specific state laws that 
+posed an actual threat to the success of the national banks. In 
+other words, “federalism counts” in the NBA, as in all other 
+statutes alleged to preempt state law. 
+
+
+To ensure that the political process has indeed considered 
+the federal-state balance in making public policy decisions, 
+this Court has employed a strong presumption against pre- 
+emption. That presumption requires a “clear statement” of 
+specific congressional intent before traditional state contract 
+or tort laws are displaced. Neither indirect economic effects 
+on, nor hypothetical interference with, the general subject 
+
+
+matter of a federal statute will suffice to preempt state law. If 
+there is any doubt, state law must remain, for Congress 
+retains the ultimate authority to broaden federal law and to 
+make its intentions manifest. 
+
+
+The federal statute currently provides, in pertinent part: 
+
+
+Any [national bank] may take, receive, reserve, and 
+charge on any loan or discount made .. . , interest at 
+the rate allowed by the laws of the State, . . . where 
+the bank is located, or at a rate of | per centum in 
+excess of the discount rate on ninety-day commer- 
+cial paper .. . , whichever may be greater, and no 
+more. . 
+
+
+12 U.S.C. § 85. Section 85 thus regulates the “rate” of 
+“interest” that can be charged by national banks. Like the 
+word “located” construed in Marquette, the phrase “interest at 
+the rate” in § 85 must have a federal definition. If not, the 
+statute would unconstitutionally delegate unlimited federal 
+lawmaking authority to the home states of banks. 
+
+
+Here, the lower court reversed the presumption against 
+preemption. The court stated: “Had Congress intended to limit 
+preemption, it would have doubtless made itself plain. It did 
+not. Its silence is especially deafening.” (Pet. App. 24). This 
+notion — that when Congress intends not to preempt, it must 
+specifically state that intention — is contrary both to this 
+Court’s precedents and to the federalist design of the NBA 
+itself. 
+
+
+Section 85 does not use the words “relating to,” “loan 
+related” or “all credit terms.” While the availability of certain 
+contract terms or default penalties may have an indirect 
+economic impact on the market rate of interest a bank might 
+charge on a loan, the terms or penalties are not themselves 
+interest rates within the meaning of § 85. The plain meaning 
+of “interest at the rate” has always denoted a compensatory 
+charge measurable by time and based on the unpaid balance. 
+The late fees challenged here are not compensatory charges 
+because they are sum-certain penalties imposed in addition to 
+continuing interest rate finance charges. The late fees are 
+
+
+12 
+
+
+designed to punish and deter a technical breach of the loan 
+contract, not to compensate the lender for delay. 
+
+The common law also has consistently distinguished 
+between compensatory interest in the nature of damages for 
+delay and contractual penalties for unliquidated costs, such as 
+dunning letters or collection activities. Although contractual 
+penalties were not limited under the statutory rules of usury, 
+they were regulated under the contractual doctrine of liqui- 
+dated damages. In finding the late fees here to be “interest,” 
+the lower court confounded these two distinct concepts. 
+Again, there is no evidence Congress intended or even con- 
+sidered § 85 to obliterate the common law of liquidated 
+damages. 
+
+Contrary to the lower court's assumption, this case is not 
+about the wisdom of late fees or any other service charge on 
+bank loans. The case is about the authority of a borrower's 
+state to enforce evenhanded contract and tort laws of general 
+application against out-of-state national banks soliciting busi- 
+ness from consumers in the state. Different states may make 
+different policy choices. But those choices should be 
+respected absent a clear federal policy to the contrary. Apart 
+from interest rate ceilings (usury laws), Congress has not 
+addressed the public policy choices imbedded in state limita- 
+tions on late fees, attorneys’ fees or other default charges. 
+When a court or even a bank’s home state makes that policy 
+choice by redrafting the text of a federal statute, Congress's 
+national lawmaking authority has been subverted and the 
+presumption against preemption nullified. For these reasons, 
+“interest at the rate” in § 85 cannot be construed broadly to 
+invalidate California's longstanding contract, tort and con- 
+sumer protection laws limiting late fees. 
+
+
+ARGUMENT 
+
+
+I. FEDERALISM COUNTS IN SECTION 85 OF THE 
+NATIONAL BANK ACT 
+
+
+The presumption against preemption is not a mere doctri- 
+nal curiosity. It has a constitutional foundation and rests on 
+
+
+13 
+
+
+fundamental “[p)rinciples of federalism.” Department of Rev- 
+enue v. ACF Indus., Inc., 114 S. Ct. 843, 850-51 (1994). The 
+Court has recognized that “the principal means chosen by the 
+Framers to ensure the role of the States in the federal system 
+lies in the structure of the Federal Government itself.” Garcia 
+v. San Antonio Metro. Transit Auth., 469 U.S. 528, 550 
+(1985). The states gua states, and through their representa- 
+tives in the central government, play a critical, if indirect, 
+role in the crafting of federal legislation. James Madison 
+explained that the federal government “will partake suffi- 
+ciently of the spirit [of the States], to be disinclined to invade 
+the rights of the individual States, or the prerogatives of their 
+governments.” THe Feperauist, No. 46 at 297 (James Mad- 
+ison) (Clinton Rossiter ed., 1961). Madison placed particular 
+reliance on the equal representation of the states in the Sen- 
+ate, which he described as “at once a constitutional recogni- 
+tion of the portion of sovereignty renvaining in the individual 
+States, and an instrument for preserving that residuary sover- 
+eignty.” THe Feperauist, No. 62 at 378 (James Madison) 
+(Clinton Rossiter ed., 1961). 
+
+
+One of the vital “procedural safeguards inherent in the 
+structure of the federal system,” Garcia, 469 U.S. at 552, is 
+the requirement of a crystal-clear statement of congressional 
+intent before the states are stripped of the right to govern 
+themselves and to protect their citizens against unfair, decep- 
+tive or unconscionable practices. See California v. ARC Amer- 
+ica Corp., 490 U.S. 93, 101 (1989). Only a plain statement in 
+the congressional legislation at the time the enactment is 
+being debated can put the states on notice of the impending 
+preemption of state law and enable the political safeguards of 
+federalism to function. As the Court explained in Gregory v. 
+Ashcroft, 501 U.S. 452 (1991), “inasmuch as this Court in 
+Garcia has left primarily to the political process the protec- 
+tion of the States against intrusive exercises of Congress’ 
+Commerce Clause powers, we must be absolutely certain that 
+Congress intended such an exercise. ‘[T]o give the state- 
+
+
+14 
+
+
+displacing weight of federal law to mere congressional ambi- 
+guity would evade the very procedure for lawmaking on 
+which Garcia relied to protect states’ interests.’ ” Id. at 464 
+(quoting Laurence H. Tripe, American ConstrruTionaL Law 
+§ 6-25 at 480 (2d ed. 1988)); see THe Law or PREEMPTION 
+supra p. 2, note 1, at 47 (“When courts consider whether 
+Congress intended to preempt state laws, . . . the nations’ 
+commitment to federalism would seem to argue for an espe- 
+cially clear statement of congressional intent to oust states 
+from their traditional legislative functions.” (Emphasis 
+added)). 
+
+
+Here, the lower court disregarded these principles and 
+developed its own reverse federal preemption doctrine. 
+Instead of interpreting § 85 narrowly in light of the NBA's 
+context, it construed the statute broadly to implement the 
+court’s own conception of the most favored lender principle. 
+The court failed to recognize, however, that that principle is 
+itself confined by the federal meaning of “interest at the rate” 
+in § 85. 
+
+This Court has emphasized that “ ‘the historic police 
+powers of the States [are] not to be superseded by . . . [a] 
+Federal Act unless that [is] the clear and manifest purpose of 
+Congress.’ "© Cipollone v. Liggett Group, Inc., 505 U.S. 504, 
+516 (1992) (plurality opinion) (emphasis added) (quoting Rice 
+v. Santa Fe Elevator Corp., 331 U.S. 218, 230 (1947)). Asa 
+result, a “narrow reading” of the federa! statute alleged to 
+preempt state law is required. See Cipollone, 505 U.S. at 518. 
+
+
+Contrary to the constitutional underpinnings of the pre- 
+sumption against preemption, the lower court treated these 
+standards as if they applied only to the “existence” of preemp- 
+tion under § 85, not to the scope of that preemption. (See Pet. 
+App. 12 & 14). This Court has made clear, however, that the 
+
+
+© Consumer protection is an historic and important component of 
+state police powers. See Griffith v. Connecticut, 218 U.S. 563, 568-69 
+(1910); see also Aldens, Inc. v. Packel, 524 F.2d 38, 43, 48-49 (3d Cir. 
+1975), cert. denied, 425 U.S. 943 (1976). 
+
+
+15 
+
+
+presumption applies equally to the scope and to the existence 
+of preemption. See New York State Conf. of Blue Cross & 
+Blue Shield Plans v. Travelers Ins. Co., 115 S. Ct. 1671, 
+1676-77 (1995); Cipollone, 505 U.S. at 518. Indeed, “[a]ny 
+indulgence in construction should be in favor of the States, 
+because Congress can speak with drastic clarity whenever it 
+chooses to assure full federal authority, completely displacing 
+the States.” Bethlehem Steel Co. v. New York State Labor 
+Relations Bd., 330 U.S. 767, 780 (1947) (Frankfurter, J., 
+dissenting); see Penn Dairies, Inc. v. Milk Control Comm'n, 
+318 U.S. 261, 275 (1943) (Congress is always free to make its 
+intention clear and to expand federal law). 
+
+
+Applying these principles, the Court has required the 
+party asserting preemption, in this case Citibank, to establish 
+to a “certainty” that federal legislation specifically preempts 
+state law. See Silkwood v. Kerr-McGee Corp., 464 U.S. 238, 
+255 (1984). To meet that heavy burden, Citibank was required 
+to prove either express or implied preemption. Express pre- 
+emption occurs when Congress specifically states that it 
+intends to preempt state law. Implied preemption arises: 1) 
+where Congress has so comprehensively ruled that supple- 
+mentary state legislation is inappropriate; or 2) where state 
+law directly conflicts with federal law or “stands as an obsta- 
+cle to the accomplishment and execution of the full purposes 
+and objectives of Congress.” See English v. General Elec. 
+Co., 496 U.S. 72, 78-79 (1990); Hines v. Davidowitz, 312 U.S. 
+52, 67 (1941). Here, § 85 does not preempt state regulation of 
+sum-certain contract penalties either expressly or by implica- 
+tion. 
+
+
+Relying on the “existence” of preemption identified in 
+Marquette, the lower court in effect construed § 85 as 
+expressly preempting state laws relating to loan charges. (See 
+Pet. App. 36). Apart from its dubious interpretation of Mar- 
+quette, the lower court failed to realize that § 85 does not use 
+the words “relating to” or “loan-related charges.” It uses, 
+instead, the simple phrase “interest at the rate.” That precise 
+
+
+16 
+
+
+phrase — unadorned with any broader descriptions — demon- 
+strates that the statute does not, expressly or by implication, 
+preempt anything other than a compensatory charge calcul- 
+able as a “rate” based on time and the balance owed. Ass this 
+Court has noted, the enactment of a provision defining the 
+preemptive reach of a statute provides a reasonable inference 
+that matters beyond that reach are not preempted. See 
+Freightliner Corp. v. Myrick, 115 S. Ct. 1483, 1488 (1995); 
+Cipollone, 505 U.S. at 517. 
+
+
+Far from establishing broad preemptive intent, the 
+absence of the terms “relating to,” “loan-related charges,” or 
+“all credit terms” actually establishes that § 85 does not reach 
+the late fees involved in this case. As this Court has recog- 
+nized, Congress, not the judiciary, is charged with amemding 
+federal statutes to clearly state a broad preemptive intent. See 
+Gregory, 501 U.S. at 462-64. The decision below has usurped 
+that power from Congress and turned the presumption against 
+preemption on its head. 
+
+Reading the decision below as implicating implied pre- 
+emption does not correct these defects. Congress has not 
+sought to preempt all state regulation of banking. To the 
+contrary, this Court’s precedents firmly establish the absence 
+of a comprehensive federal scheme. See First Nat'l Bank vy. 
+Kentucky, 76 U.S. at 362; McClellan v. Chipman, 164 U.S. at 
+347, 356-57; Anderson Nat'l Bank v. Luckett, 321 U.S. 233, 
+248 (1944). Nor is there any direct comflict between the term 
+“interest” in § 85 and California’s. law limiting sum-certain 
+contractual penalties.’ 
+
+
+California’s regulation of penalty charges in no way 
+prevents out-of-state banks from charging the unlimited inter- 
+est rates that may be authorized by their home states, such as 
+South Dakota. While the California liquidated damages law, 
+
+
+? To prove ‘this type of implied conflict preemption, the bank must 
+establish as a matter of fact an actual, not just a hypothetical, conflict 
+between state and federal law. See Rice v. Norman Williams Co., 458 U.S. 
+654, 65% (1982). 
+
+
+17 
+
+
+like its workers’ compensation laws or even its zoning laws, 
+may have an indirect economic bearing on the loan packages 
+banks will offer in the state, it does not stand as an obstacle to 
+the banks’ doing business in the state or to the purposes of the 
+NBA. Cf. First Nat'l Bank v. Missouri, 263 U.S. 640, 659 
+(1924) (state statute prohibiting branch banking does not 
+frustrate or interfere with the purposes or the efficiency of 
+national banks). In fact, banks located in California, though 
+subject to the liquidated damages law, have not been impeded 
+in performing their banking functions. See, e.g., Beasley, 235 
+Cal. App. 3d 1383, | Cal. Rptr. 2d 446. 
+
+
+Contrary to the presumption against preemption, and 
+despite the absence of clear and manifest Congressional 
+intent, the lower court, in effect, judicially redrafted § 85 to 
+preempt more than its text directs. To be sure, § 85 is 
+designed to prevent home-state discrimination against 
+national banks with respect to interest rates. But that purpose 
+does not convert the federal statute into a blanket override of 
+sister state laws that might have an indirect economic impact 
+on bank loan pricing or terms in those states. Indeed, in 
+Travelers, 115 S. Ct. at 1671, this Court rejected such an 
+indirect economic approach to preemption. Moreover, the 
+NBA provides a substitute federal cause of action only for 
+usurious rates of interest charged as consideration for a loan. 
+See 12 U.S.C. § 86. It does not provide a claim for recovery 
+of excessive contract penalties or a private right of action for 
+challenges to unfair or deceptive banking practices. Cf. Silk- 
+wood, 464 U.S. at 255 (rejecting preemption of state law tort 
+claims). Because the federal statute makes no mention of 
+contract penalties, and because Congress has not even 
+addressed the subject, § 85 does not preempt petitioner's 
+California claims. 
+
+
+With the exception of state statutory or constitutional rate 
+ceilings on “interest,” as that term is defined by federal law, 
+state law governs the contracts of national banks. See First 
+Nat'l Bank v. Kentucky, 76 U.S. at 362. As long as the state 
+law does not discriminate against the banks, i will apply. See 
+
+
+Anderson Nat'l Bank, 321 U.S. at 247-48 (NBA is intended to 
+prevent discrimination against national banks, not to prohibit 
+application of evenhanded state laws). In this case, Califor- 
+nia's law regulating both the forms and the amounts of con- 
+tract penalties does not discriminate against national Banks. It 
+applies to all businesses equally. 
+
+Given the absence of a plain statement by Congress, 
+Citibank cannot prove to a certainty, as it must, that the states 
+and members of Congress were on notice that state contract 
+laws limiting penalty charges or loan terms would be dis- 
+placed by § 85 as laws either regulating interest or impacting 
+economically upon interest rates. See Gregory, 501 U.S. at 
+464. Without a clear and definite statement of such broad 
+preemptive purposes, the lower cour: could not have properly 
+found preemption. As we detail below, there are no “clear 
+statements” of such broad preempiive intent. 
+
+
+Il. THE MEANING OF “INTEREST” IN § 85 SHOULD 
+NOT BE DEFINED BY THE LAW OF THE BANK’S 
+HOME STATE 
+
+
+A. The Most Favored Lender Principle Does Not 
+Apply to the Package of Loan Terms 
+
+
+As a substitute for a clear statement, the lower court 
+looked to the “most favored lender” principle. But that princi- 
+ple does not alter the plain meaning of “interest at the rate.” 
+Rather, the principle is itself confined by the plain meaning of 
+§ 85. 
+
+As noted, the legislative compromise that became § 85 
+respected federalist values while preventing discrimination 
+against national banks. Congress's primary concern regarding 
+interest rates was that a state might differentiate between 
+lenders and set such a low rate that national banks could not 
+profitably exist in that state. See Tiffany, 85 U.S. at 412-13. 
+With the rejection of a uniform national rate, Congress 
+decided to prevent discrimination by ensuring that national 
+banks could charge the highest “rate” allowed in each home 
+state. The “most favored lender” principle, announced in 
+
+
+19 
+
+
+Tiffany and discussed in Marquette, emanates from this 
+design. 
+
+By focusing on the “rate of interest,” not on the home- 
+state’s definition of the federal term “interest,” the most 
+favored lender principle allows a national bank to use its 
+home state's rate to the extent that the rate conforms to the 
+federal definition of “interest” in § 85. See Evans v. National 
+Bank, 251 U.S. 108, 111 (1919) (NBA “adopts usury laws of 
+the States only in so far as they severally fix the rate of 
+interest”). Having its roots in the language of § 85 itself, the 
+principle necessarily is limited by the federal meaning of the 
+section. As explained in National Bank v. Johnson, the princi- 
+ple applies to the “rate of interest” alone and does not extend 
+to all credit terms or credit charges: 
+
+
+All that was said in that case [Tiffany] related to 
+loans and to the rate of interest that was allowed 
+thereon; and it was held that where by the laws of a 
+State in which a national bank was located one rate 
+of interest was lawful for natural persons and a 
+different one to State banks, the national bank was 
+authorized to charge on its loans the higher of the 
+two. The sole particular in which national banks are 
+placed on an equality with natural persons is as to 
+the rate of interest, and not as to the character of 
+contracts they are authorized to make; and that rate 
+thus ascertained is made applicable both to loans 
+and discounts, if there be any difference between 
+them. 
+
+
+104 U.S. at 277 (emphasis in original). Accordingly, the most 
+favored lender principle does not transform contingent 
+charges for processing costs or deterrent penalties into “inter- 
+est.” 
+
+
+Contrary to these precedents, the lower court effectively 
+construed the principle to embrace all! loan-related fees. As 
+recognized by the dissent below, however, a national bank's 
+authority to impose single-sum penalty charges is not based 
+
+
+20 
+
+
+on § 85. (See Pet. App. 60-61 and 70-71).* Rather, section 24 
+of the NBA (formerly section 8, 13 Stat. 101) empowers 
+banks “to make contracts” and exercise incidental banking 
+powers. 12 U.S.C. § 24. Those incidental and contractual 
+powers are governed by the basic tort, contract and other laws 
+that are applicable to all lenders (indeed all businesses) con- 
+ducting business within a state. Pursuant to these state laws, 
+national banks can impose contractual terms to the same 
+extent as other lenders (including natural persons) conducting 
+business in the state. See First Nat'l Bank v. National Exch. 
+Bank, 92 U.S. 122, 127 (1875) (“Banks may do, in this behalf, 
+whatever natural persons could do under like circum- 
+stances.”); see also Perdue v. Crocker Nat'l Bank, 38 Cal.3d 
+913, 938, 702 P.2d 503, 521 (1985) (12 U.S.C. § 24 does not 
+preempt state law), appeal dismissed, 475 U.S. 1001 (1986). 
+Of course, like other lenders, national banks are also bound 
+by accepted conflicts of law principles and by the non-interest 
+contract laws and public policies of other states. Cf First 
+Nat'l Bank v. Kentucky, 76 U.S. at 362 (banks are governed 
+by general state law); Arkansas Elec. Coop. Corp. v. Arkansas 
+Public Serv. Comm'n, 461 U.S. 375, 393-95 (1983) (each 
+state may regulate areas of “legitimate local public interests” 
+so long as burden on interstate commerce is evenhanded and 
+not clearly excessive). Since these laws apply equally to all 
+lenders, the NBA does not displace them or prevent their 
+application to national banks. See Davis v. Elmira Sav. Bank, 
+161 U.S. 275, 290 (1896); Anderson Nat'l Bank, 321 U.S. at 
+247. In other words, only rates within the federal definition of 
+
+
+® See also Anderson Nat'l Bank, 321 U.S. at 248; McClellan, 164 
+U.S. at 357. The majority below ignored Anderson and declined to follow 
+McClellan because “a century of law, however, has intervened.” (Pet. App. 
+12, n.4). But McClellan and Anderson remain good law and were binding 
+on the lower court irrespective of perceived changed circumstances or the 
+passage of time. See Thurston Motor Lines, Inc. v. Jordon K. Rand, Lid . 
+460 U.S. 533, 535 (1983) (holding that lower court cannot disregard “old” 
+Supreme Court precedent). 
+
+
+21 
+
+
+“interest” can be exported. For all other contractual terms, the 
+States retain the power to enforce evenhanded restrictions that 
+apply to both in-state and out-of-state lenders, including 
+national banks. 
+
+
+The issue here is not whether Citibank can export “inter- 
+est rates.” Rather, the issue is whether it can also export 
+contract penalties under the guise of “interest.” The mere fact 
+that a bank can impose certain contract terms and charges in 
+its home state does not mean that all of those terms and 
+charges are federal “interest.” A contrary approach would 
+have no logical stopping point, for South Dakota could 
+define, as it has (see S.D. Codified Laws Ann. § 54-3-1, 
+Stating “including without limitation”), any loan-related term 
+as “interest,” and thereby preempt countless contract, tort and 
+consumer credit laws of the other 49 states. Cf. Healy v. Beer 
+Institute, 491 U.S. 324, 335-36 (1989) (extraterritorial appli- 
+cation of state law causes “special concern . . . [as to] the 
+autonomy of the individual States within their respective 
+spheres.”). 
+
+Relying on an expansive reading of the most  vored 
+lender principle, the court below concluded that “interest” 
+must be interpreted broadly to achieve “uniformity and effi- 
+ciency.” (Pet. App. 29). But Congress rejected these goals 
+when it refused to enact the national interest rate ceiling that 
+the NBA’s principal sponsors had advocated. See Cong. 
+Globe, 38th Cong., Ist Sess. 1952-57, 2122-27. The lower 
+court thus confused Congress's concern for discriminatory 
+interest rate ceilings with a broader, unstated and unenacted 
+intention to establish a federal choice of law provision. Noth- 
+ing in the text or legislative history of the NBA either states 
+or implies that Congress intended that broad preemptive pur- 
+pose. Both the context in which the NBA was enacted and the 
+status of national banks as federal instrumentalities indicate 
+that if Congress had intended that purpose it would have said 
+so specifically. Thus, the most favored lender principle is 
+limited to the literal, federal meaning of “interest” and “rate.” 
+
+
+‘22 
+
+
+That limitation makes sense here because Cal. Civ. Code 
+§ 1671 places absolutely no ceiling on the interest rates 
+Citibank may charge pursuant to South Dakota law. The 
+California law regulates only the form and procedure for 
+setting contractual liquidated damages. Even if California law 
+specified a maximum amount for sum-certain late fees, Cit- 
+ibank would still be allowed to charge the unlimited interest 
+rate finance charges authorized by the South Dakota statute. 
+As this Court recently noted in an analogous context, state 
+law is not preempted merely because it might have an indirect 
+economic impact on how a business may package its contrac- 
+tual charges or terms. See Travelers, 115 S. Ct. at 1677 (“If 
+
+
+‘relate to” were taken to the furthest stretch of its indeter-_ 
+
+
+minacy, then for all practical purposes preemption would 
+never run its course, for ‘[rjeally, universally, relations stop 
+nowhere.’ But that, of course, would be to read Congress's 
+words of limitation as a mere sham, and to read the presump- 
+tion against preemption out of the law whenever Congress 
+speaks to the matter with generality.” (Citation omitted)). 
+Because California law does not regulate “interest,” it does 
+not conflict with § 85 or stand as an obstacle to the NBA. 
+
+
+B. A Limitless Home State or Administrative Defini- 
+tion Would Render § 85 Unconstitutional 
+
+
+When Congress enacts a statute, it ordinarily does not 
+make application of the federal act dependent on state law. 
+Jerome v. United States, 318 U.S. 101, 104 (1943). Moreover, 
+when a federal statute is “[i]ntended to be nationwide in its 
+application,” its words should be given a federal meaning. 
+City of New York v. Feiring, 313 U.S. 283, 285 (1941). These 
+rules apply here and demonstrate that the term “interest at the 
+rate” in § 85, like the word “located” construed in Marquette, 
+has a federal meaning independent of unique state definitions. 
+
+In the § 85 case of Haseltine v. Central Bank, 183 U.S. 
+132 (1901), the Court concluded that “the definition of usury 
+and the penalties affixed thereto must be determined by the 
+National Banking Act, and not by the law of the State.” /d. at 
+
+
+23 
+
+
+134. Similarly, in Evans v. National Bank, 251 U.S. 108, the 
+Court recognized that both “interest” and “usury” were deter- 
+mined by reference to federal law, stating: 
+
+
+fhe maximum interest rate allowed by the Georgia 
+statute is eight per centum. That marks the limit 
+which a national bank there located may charge 
+upon discounts; but its right to retain so much arises 
+from federal law. The latter also completely defines 
+what constitutes the taking of usury by a national 
+bank, referring to the state law only to determine 
+the maximum permitted rate. 
+
+
+Id. at 114 (emphasis added). Similarly, in explaining Tiffany, 
+the Court in National Bank v. Johnson, said that the most 
+favored lender principle applies only “to the rate of interest, 
+and not as to the character of [the bank's] contracts” 104 U.S. 
+at 277 (emphasis in Johnson). So, contrary to the lower 
+court's analysis, the definitions of a bank's home state are 
+completely irrelevant to the meaning and the scope of the 
+term “interest at the rate” in § 85. : 
+
+
+If the rule were otherwise, “interest” and “rate” could 
+have fifty different meanings provided by the fifty states. 
+Each state could define “interest” however it wanted and 
+could include attorneys’ fees for collection, court costs, and 
+countless other fees. This Court recognized the same danger 
+in First Nat'l Bank v. Dickinson, 396 U.S. 122 (1969), where 
+it considered whether federal or state law defined the term 
+“branch” in the NBA. Permitting state legislatures to define 
+the federal term “branch,” the Court stressed, would “make 
+them the sole judges of their own powers,” and that “Con- 
+gress did not intend such an improbable result.” /d. at 133-34; 
+cf. Seattle Trust & Sav. Bank v. Bank of California, N.A., 492 
+F.2d 48, 50-52 (9th Cir.) (noting that Congress could not have 
+intended only a bank’s home state to regulate all the bank's 
+contracts), cert. denied, 419 U.S. 844 (1974).% Here, too, 
+
+
+* Courts, including the lower court, have misread other precedents 
+such as Citizens’ Nat'l Bank v. Donnell, 195 U.S. 369 (1904); Daggs v. 
+
+
+24 
+
+
+Congress did not intend for South Dakota to preempt the 
+consumer protection laws and common law of California 
+simply by revising the federal definition of “interest” to 
+include penalty charges. Cf. Mississippi Band of Choctaw 
+Indians v. Holyfield, 490 U.S. 30, 44 (1989) (there is no 
+reason to believe that Congress intended to rely on state law 
+for the definition of a critical term in the Statute). 
+
+
+Despite these precedents, the lower court found that 
+Congress “has . . . entrusted the question of the lawfulness of 
+a national bank’s late payment fees to its home state and to its 
+home state alone.” (Pet. App. 30). According to that court, 
+Congress also has entrusted all “usury” issues and “credit 
+terms” to the lender’s home state. (See id.). Petitioner submits 
+that “entrusting” one state to determine the scope of federal 
+preemption amounts to an unconstitutional delegation of leg- 
+islative authority to that state. 
+
+
+It is a familiar principle that statutes are interpreted to 
+avoid constitutional difficulties. Edward J. DeBartolo Corp. 
+v. Florida Gulf Coast Bldg. and Constr. Trades Council, 485 
+U.S. 568, 575 (1988). The lower court’s construction of § 85, 
+however, creates such difficulties because it caus’s the statute 
+to be in violation of Article I, section 1 of the Constitution. 
+That section provides that “[a]ll legislative Powers .. . shall 
+be vested in a Congress of the United States.” U.S. Const. Art 
+I, § | (emphasis added). The lower court's interpretation of 
+“interest” is actually a nondefinition that improperly vests 
+
+
+Phoenix Nat'l Bank, 177 U.S. 549 (1900); Union Nat'l Bank v. Louisville 
+N.A. & C. Ry. Co., 163 U.S. 325 (1896); and First Nat'l Bank: v. Nowlin, 
+509 F.2d 872 (8th Cir. 1975), as authority for § 85 incorporating all state 
+law defining interest and usury. Properly understood, those cases do not 
+conflict with Haseltine, Evans, Johnson and Dickinson. Instead, they 
+merely adopt a state “rate” (or numerical ceiling) of interest, not the state's 
+definition of the components of interest. Also, unlike here, none of the 
+charges involved in those cases was a sum-certain penalty charge for a 
+contractual breach. Finally, the Nowlin court improperly disregarded this 
+Court's controlling decision in Evans. See Thurston Motor Lines, 460 U.S. 
+at 535 (lower court may not disregard controlling precedent). 
+
+
+25 
+
+
+unlimited legislative power in a bank's home state, not in 
+Congress. 
+
+
+Contrary to the lower court's “entrustment” analysis, 
+Congress has never incorporated state law without limit into a 
+federal statute so as to boundlessly preempt other states’ 
+laws. Instead, Congress has limited incorporation to precise 
+areas in which the state standard would operate principally 
+within the boundaries of the state itself, not in other states. 
+See, e.g., United States v. Sharpnack, 355 U.S. 286 (1958) 
+(addressing Assimilative Crimes Act of 1948, which adopted 
+state law as the federal criminal law for military bases and 
+federal enclaves located in each particular state).!° 
+
+
+Obviously, the case at bar is not one in which the incor- 
+poration of South Dakota law affects only South Dakota. 
+Allowing state law to define and redefine “interest” in § 85 
+leads to the absurd and unconstitutional result that Congress 
+has authorized South Dakota to legislate federal lending terms 
+for the whole country. “To vest the power of determining the 
+extraterritorial effect of a State’s own laws and judgments in 
+the State itself risks the very kind of parochial entrenchment 
+on the interests of other States that it was the purpose of the 
+Full Faith and Credit Clause and other provisions of Art. IV 
+of the Constitution to prevent.” Thomas vy. Washington Gas 
+Light Co., 448 U.S. 261, 272 (1980). 
+
+
+In striking down a federal statute that effectively dele- 
+gated interstate commerce powers to the individual states 
+(and to the President), this Court has emphasized the neces- 
+sity of federal guidelines limiting the delegated authority: 
+
+
+'© The lower court, relying on Sharpnack, stated that Congress “has 
+not made a delegation.” (Pet. App. 30). If the § 85 term “interest at the rate” 
+were narrowly and correctly defined by federal law, petitioner would agree. 
+But the court made its definition dependent on state, not federal, law. The 
+court thus apparently saw a distinction between “entrusting the question of 
+the lawfulness of a lending charge” to a state and “delegating” the question 
+of the lawfulness to a state. There is no such distinction in logic or in 
+language, nor can there be. 
+
+
+26 
+
+
+[The statute] does not seek to lay down rules for the 
+guidance of state Legislatures or state officers. It 
+leaves to the states and to their constituted authori- 
+
+ties the determination of what production shall be 
+
+permitted. It does not qualify the President's author- 
+
+ity. . . . It establishes no criterion to govern the 
+
+President's course. It does not require any finding 
+
+by the President as a condition of his action. 
+
+Panama Refining Co. v. Ryan, 293 U.S 388, 415 (1935). 
+Expanding on these principles, the Court has since identified 
+three important functions of the nondelegation doctrine. One, 
+the doctrine ensures that important choices of social policy 
+are made by Congress, not by unrepreseptative entities that 
+are unresponsive to the popular will of the nation. See Indus- 
+trial Union Dep't v. American Petroleum Inst., 448 U.S. 607, 
+685 (1980) (Rehnquist, J., concurring); see also Florida Lime 
+& Avocado Growers, Inc. v. Paul, 373 U.S. 132, 151-52 
+(1963) (construing a federal statute so as not to preempt a 
+California law and thereby avoiding a difficult issue of 
+whether Congress improperly delegated its authority). Two, it 
+provides Congress's delegatee with an “intelligible principle” 
+to guide the exercise of the delegated discretion. Industrial 
+Union, 448 U.S. at 685-86. And, three, it “ensures that courts 
+charged with reviewing the exercise of delegated legislative 
+discretion will be able to test that exercise against ascertain- 
+able standards.” /d. at 686. 
+
+Here, delegation to South Dakota of the legislative power 
+to define, either directly or indirectly, the federal term “inter- 
+est” fails on all three counts. The decision whether “interest” 
+includes liquidated damages, attorneys’ fees, court costs or 
+other contractual penalties is “quintessentially one of legisla- 
+tive policy” that should be made by Congress, not by an 
+individual state legislature that is unaccountable to the will of 
+the nation. See id. Furthermore, neither the word “interest” 
+nor the legislative history of the NBA provides any guidance 
+as to the scope of the word or the limits of the delegated 
+discretion. Indeed, as construed by the lower court, the most 
+favored lender principle means that a bank's home state can 
+
+
+27 
+
+
+define anything to be “interest.” Because, under the lower 
+court's interpretation, Congress has provided no definition, 
+established no standard, laid down no rule and declared no 
+policy separate from that of the individual states, the delega- 
+tion or “entrustment” inferred by the lower court is uncon- 
+stitutional. See Panama Refining, 293 U.S. at 421, 430 (“The 
+Congress manifestly is not permitted to abdicate, or to trans- 
+fer t» others, the essential legislative functions with which it 
+is thus vested”); /ndustrial Union, 448 U.S. at 646 (plurality 
+opinion) (construing statute so as to avoid open-ended delega- 
+tion of legislative power).!! 
+
+
+The Office of the Comptroller of the Currency’s (“OCC”) 
+administrative definition of “interest,” issued on the eve of 
+argument in this case without an express Congressional dele- 
+gation of preemptive authority, does not fare any better. In 
+§ 86, Congress expressly established the Judiciary, not the 
+OCC, as the adjudicator of private rights of action arising 
+under §§ 85 and 86. As the Court has held in similar circum- 
+stances, “a precondition to deference . . . is a congressional 
+delegation of administrative authority.” Adams Fruit Co. v. 
+
+
+'! Although Marquette has, in effect, permitted a bank's home state 
+to establish “interest rates” that are controlling in other states, that result is 
+not a forbidden abdication of Congress's lawmaking authority. Adoption of 
+a state's time-based rate or required charge for a loan is in fact bounded and 
+checked by a federal definition of “interest at the rate” that is limited to 
+compensation for a loan of money for a stipulated time. Cf. Bowsher vy. 
+Synar, 478 U.S. 714, 732 (1986) (indicating that delegation of “essentially 
+ministerial and mechanical” power is constitutional). That definition 
+provides definite federal standards to determine whether a home state’s 
+“rate” comports with the will of Congress or exceeds Congress's intent. !/, 
+in contrast, South Dakota has been “entrusted” to expand the meaning of 
+“interest” and “rate” so as to determine what credit terms are lawful, as the 
+lower court held, then Congress has delegated to that state national 
+lawmaking authority and Supremacy Clause powers. Allowing South 
+Dakota to set not just a time-based rate required for a loan but also to define 
+the actual rights and liabilities of credit cardholders (e.g., what “late” 
+means? whether attorneys’ fees are collectible?), subverts the entire 
+structure of federalism. 
+
+
+28 
+
+
+Barrett, 494 U.S. 638, 649 (1990). Here, as in Adams Fruit, 
+Congress has not delegated to the bank’s regulator any 
+authority to expand, contract or define the scope of §§ 85 and 
+86. Because the statute provides both a uniform remedy and a 
+private right of action, only the courts have that interpretive 
+authority. 
+
+
+Moreover, even if the OCC was entitled to some defer- 
+ence because of its administration of the NBA, as this Court 
+has instructed, far less deference is appropriate when the 
+agency's interpretations have been inconsistent. INS v. Car- 
+doza-Fonseca, 480 U.S. 421, 446 n.30 (1987). Accord Sher- 
+man v. Citibank (South Dakota), N.A., 143 N.J. 35, 668 A.2d 
+1036, 1047 (1995), petition for cert. pending, No. 95-991 
+(U.S. filed Dec. 21, 1995). Here, the OCC has issued contra- 
+dictory, unauthorized and eleventh hour definitions of “inter- 
+est” that lack both a reasoned analysis and a rational 
+explanation for its complete reversal in policy. Although the 
+lower court presumably declined to defer to the OCC’s inter- 
+pretations because of the inconsistencies, it nonetheless noted 
+its agreement with the agency’s current policy. That agree- 
+ment was equally incorrect. 
+
+
+In 1964, the Comptroller of the Currency issued an advi- 
+sory bank letter that addressed the meaning of “interest” in 
+§ 85 and opined that “/cJharges for late payments . . . are 
+illustrations of charges which are made by some banks which 
+would not properly be characterized as interest.” OCC Letter, 
+James Saxon, Comptroller of the Currency (June 25, 1964) 
+(emphasis added). (Pet. Br. App. B, reprinting OCC letter). 
+For the next twenty-four (24) years, the Comptroller’s 1964 
+interpretation remained the view of the OCC regarding late 
+fees. However, in 1988, the OCC staff took a different 
+approach. In an informal opinion letter, the OCC’s Deputy 
+Chief Counsel concluded that “interest” in § 85 is defined by 
+the law of a bank’s home state, and if the state definition 
+includes late fees or even attorneys’ fees, then “interest” in 
+§ 85 will include late fees and attorneys’ fees. See OCC 
+Letter No. 452, R. Serino, Deputy Chief Counsel, reprinted in 
+[1988-1989 Transfer Binder] Feo. Banxinc L. Rep. (CCH) 
+{ 85,676 at 78,064 (Aug. 11, 1988). Taking yet another 
+
+
+29 
+
+
+approach in 1995, the OCC Chief Counsel wrote that federal 
+law, not state law, provides the definition of “interest” in 
+§ 85, and that under federal law, “interest” includes all 
+expenses and charges related to a loan. See OCC Letter No. 
+676, J. Williams, Chief Counsel, reprinted in [1994-1995 
+Transfer Binder] Fev. Banxina L. Rep. (CCH) 4 83,618 (Feb. 
+17, 1995).'? These conflicting analyses, among others,'!? dem- 
+onstrate that the OCC’s views have vacillated so dramatically 
+and capriciously that they do not warrant any deference. See 
+Sherman, 143 N.J. at ___, 668 A.2d at 1047. Thus, “interest at 
+the rate” in § 85 must have a federal definition determined not 
+
+
+'2 This letter violated the Reigle-Neal Interstate Banking and 
+Branching Efficiency Act of 1994, Pub. L. No. 103-328, § 114, 108 Stat. 
+2238, 2366 (codified at 12 U.S.C. § 43 (1994)). That statute, entitled 
+“Notice Requirements For Banking Agency Decisions Preempting State 
+Law,” makes it clear that the OCC cannot issue an opinion concluding that 
+state law is preempted unless it first follows certain stringent publication 
+procedures. See 12 U.S.C. § 43. The OCC did not follow those procedures 
+in issuing the Williams letter. See H.R. Conf. Rep. No. 651, 103d Cong., 2d 
+Sess. 53 (1994), reprinted in 1994 U.S.C.C.A.N. 2039, 2068-74 (criticizing 
+bank regulators for issuing overly aggressive interpretations preempting 
+state law). 
+
+
+'S In direct response to this and related litigation, the OCC, on March 
+3, 1995, issued a notice of a proposed interpretive rulemaking. See 60 Fed. 
+Reg. 11924, 11929 (1995) (to be codified at 12 C.ER. § 7.4001) (proposed 
+Mar. 3, 1995). The notice proposed to interpret “interest” in § 85 over 100 
+years after the fact to include late fees and thereby preempt state laws 
+limiting such penalties. On February 9, 1996, the OCC issued a “final” 
+version of the proposed interpretation with an “effective date” of April 1, 
+1996. See 61 Fed. Reg. 4849-4870 (1996) (noting that the interpretation 
+constitutes a “significant change” in OCC policy). Both the notice and the 
+final version lack any reasoned explanation for the OCC’s inconsistent and 
+contradictory positions. The curious timing of the OCC’s proposals, 
+combined with the agency's inconsistent analyses, raises the specter of 
+manipulation of pending litigation that this Court has decried as an 
+“administrative shell game.” MCI Telecommunications Corp. v. AT&T, 114 
+S. Ct. 2223, 2227 (1994). : 
+
+
+30 
+
+
+by administrative fiat but by judicial canons of Statutory 
+construction. 
+
+
+Ill. AS A MATTER OF FEDERAL LAW, “INTEREST 
+AT THE RATE” MUST RELATE TO THE TIME- 
+VALUE OF MONEY 
+
+
+The lower court misapplied settled rules of statutory 
+construction and confused two distinct concepts when it 
+treated the late fees in this case as “interest.” Interest may 
+include three types of charges: (i) periodic percentage rates; 
+(ii) definite up-front charges that can be amortized over a loan 
+term for a per year rate (such as discounts or mortgage 
+points); and (iii) interest in the nature of delay damages that 
+are based on an unpaid balance and measured by time. The 
+lower court equated the late fees here with interest in the 
+nature of delay damages. But Citibank’s late fees are not 
+compensatory or based on time and the balance owed. The 
+late fees are an entirely different type of charge. 
+
+
+The contingent sum-certain late fees are contract penal- 
+ties, not interest in the nature of damages. As this Court has 
+recognized in related contexts, the distinction between a 
+“penalty as a fixed ad valorem amount taking no account of 
+time, and interest which does depend on time, is persuasive.” 
+Meilink v. Unemployment Reserves Comm'n, 314 U.S. 564, 
+570 (1942). The difference is that “[a] penalty is a means of 
+punishment; interest a means of compensation.” United States 
+v. Childs, 266 U.S. 304, 309 (1924). Longstanding common 
+law has even treated excessive contract penalties as being 
+against public policy and unenforceable. See Tayloe v. Sand- 
+iford, 20 U.S. 13, 18, 7 Wheat. 7, 9 (1822) (refusing to 
+enforce contract penalties); Kothe v. R.C. Taylor Trust, 280 
+U.S. 224, 226 (1930) (“But agreements to pay fixed sums 
+plainly without reasonable relation to any probable damage 
+which may follow a breach will not be enforced”). So the 
+question in this case is whether § 85 has so clearly obliterated 
+the common law distinction between interest in the nature of 
+
+
+31 
+
+
+damages and sum-certain penalties that California's contract 
+laws are preempted. The answer to that question is no. 
+
+
+A. The Plain Meaning of “Interest” Excludes Penalty 
+Charges. 
+
+
+As the lower court recognized, § 85's impact on the 
+common law of contract penalties depends on the breadth of 
+the words “interest” and “rate” in the statute. But the statute 
+does not define either “interest” or “rate.” The starting point, 
+then, is the plain meaning of the words. See Park 'N Fly, Inc. 
+v. Dollar Park & Fly, Inc., 46° U.S. 189, 194 (1985). This 
+Court has stressed that the p!ain meaning of legislation should 
+be conclusive, except in “rare cases [in which] the literal 
+application of a statute will produce a result demonstrably at 
+odds with the intention of its drafters.” United States v. Ron 
+Pair Enter., Inc., 489 U.S. 235, 241 (1989) (observing that 
+“interest” is distinct from “fees, costs, or charges”). Here, the 
+literal definitions of “interest” and “rate” are consistent with 
+Congress's intention in the NBA. 
+
+First, modern authorities define “interest” and “rate” as 
+having compensatory characteristics related to the time-value 
+of money. See, ¢.g., Wesster’'s Niwty New Coureciate Dic- 
+Tionary 630 (1989) (“interest” is “a charge for borrowed 
+money(,] generally'* a percentage of the amount borrowed”): 
+Biack’s Law Dictionary 730 (Sth ed. 1979) (“{t}he percentage 
+of an amount of money which is paid for its use for a 
+
+
+'* While “generally” does not mean always, it does reflect the 
+commonly understood or “plain meaning.” See Mazaika v. Bank One. 
+Columbus, N.A., 439 Pa. Super. 95, 106-07, 653 A.2d 640, 646 (1994) (en 
+banc), alloc. granted, 659 A.2d 557 (Pa. 1995); Copeland v. MBNA 
+America, N.A., 820 F. Supp. 537, 540 (D. Colo. 1993). Still, petitioner does 
+not contend that interest must always be stated as a percentage amount. Nor 
+does petitioner insist that penalties can never be a percentage amount. 
+Rather, whether a charge constitutes a penalty or interest depends on 
+whether it bears some relationship to the contractual time-value of money 
+and the amount of the debt. If the charge, as here, bears no such 
+
+
+relationship, it is a penalty, not interest. 
+
+
+32 
+
+
+specified time”). In Deputy v. DuPont, 308 U.S. 488 (1940), 
+this Court defined “interest” as “compensation for the use or 
+forbearance of money,” and stated that “[iJn the absence of 
+clear evidence to the contrary, we assume that Congress has 
+used these words in that sense.” /d. at 498 (footnote omitted, 
+emphasis added). Here, there is no evidence Congress 
+intended “interest” to mean extra processing charges or penal- 
+ties imposed in addition to daily finance charges accruing on 
+the entire balance, particularly when there is no forbearance 
+by the lender. 
+
+
+Second, this plain definition of a time-based compensa- 
+tory charge prevailed when the NBA was enacted. According 
+to the dictionaries of that day, “interest” was a “sum of money 
+paid or allowed for the loan or use of some sum, lent for a 
+certain time, according to a fixed rate.” Wwarron’s Law 
+Lexicon 391 (2d ed. 1860). See also 2 Avexanver M. Burris, 
+A New Law Dictionary ano Grossary 629 (1851) (same); 
+Jacos’s Law Dictionary (10th ed. 1797) (“The legal profit or 
+recompense allowed, on loans of money, to be taken from the 
+borrower by the lender”). “Interest” was also defined as 
+“compensation which is paid by the borrower to the lender or 
+by the debtor to the creditor for its use.” 1 Joun Bouvier, A 
+Law Dictionary 652 (7th ed. 1857). See also Marx Orp, Law 
+or Usury 29 (3d ed. 1809) (“Interest may be defined to be a 
+certain profit, which the lender is to have for the use of the 
+loan”); Pertey, Privciptes or THe Law or Inrerest 1 (1893) 
+(“The word interest is derived from the latin words, inter. 
+between, and esse, to be; and has reference to the time 
+between the receiving and the paying back the money for 
+which period only interest is allowed”). 
+
+
+Thus, current and historical definitions of “interest” all 
+denote an element of time-based compensation. Sum-certain 
+contingent penalties simply do not satisfy these plain meaning 
+characteristics. As sum-certain charges, late fees are not 
+“compensation” for the time-value of money because they do 
+not vary based on the payment owed or the time period of 
+
+
+33 
+
+
+delay. They also are not risk-based. Moreover, the fees are 
+imposed in addition to daily accruing percentage interest 
+charges. Although they might reflect a minor element of cost 
+recovery for dunning letters or administrative processing, the 
+late fees are primarily deterrent or punitive charges for a 
+contractual breach. (See Pet. App. 114-115). They are, in fact, 
+contract penalties. 
+
+On at least three occasions before passage of the NBA, 
+this Court had identified the common law differences between 
+contract penalties, like late fees, and damages in the nature of 
+interest. In Tayloe v. Sandiford, the Court stated that “[i}n 
+general, a sum of money, in gross, to be paid for the nonper- 
+formance of an agreement is considered as a penalty.” 20 U.S. 
+at 17, 7 Wheat. at 8. Later, in Lloyd v. Scott, 29 U.S. 205, 4 
+Pet. 173 (1830), the Court held: 
+
+If a party agree [sic] to pay a specific sum exceed- 
+
+ing the lawful interest, provided he do [sic] not pay 
+
+the principal by a day certain, it is not usury. By a 
+
+punctual payment of the principal, he may avoid the 
+
+payment of the sum stated, which is considered as a 
+
+penalty. 
+
+Id. at 226, 4 Pet. at 190 (emphasis added). Likewise, just one 
+year before enactment of the NBA, the Court stated with 
+respect to any contingent charge: 
+
+The payment of anything additional depends also 
+
+upon a contingency, and not upon any happening of 
+
+a certain event, which of itself would be deemed 
+
+insufficient to make a loan usurious. 
+
+Spain v. Hamilton's Adm’r, 68 US. (1 Wall.) 604, 626 
+(1863).'5 
+
+
+Commercia, Law 30-31 (1856) (agreement to pay costs and expenses 
+incident to default would not be regarded as “interest” or “usury”); Daly v. 
+
+
+34 
+
+
+By commercial and common law standards, therefore, it 
+was clear in 1864 that contingent sum-certain penalties were 
+different from post-default damages measured by an interest 
+rate related to time and the balance owed. “(Where words are 
+employed in a statute which had at the time a well-known 
+meaning at common law or in the law of this country, they are 
+presumed to have been used in that sense unless the context 
+compels to the contrary.” Lorillard v. Pons, 434 US. 575, 583 
+(1978) (emphasis added, citation omitted). Here, even the 
+context of the language demonstrates that Congress under- 
+stood “interest” to mean compensation related to the time- 
+value of money. 
+
+The term “rate” appears in § 85 at least ten times, and it 
+always refers to a charge that is related to the passage of time. 
+By contrast, § 86 of the NBA provides that, where an exces- 
+sive rate has been charged, the borrower may recover a 
+penalty equal to twice the interest paid. Unlike the compensa- 
+tory “rate” language in § 85, the language in § 86 refers to a 
+sum-certain penalty that is totally unrelated to the passage of 
+time. See First Nat'l Bank vy. Morgan, 132 U.S. 141, 144 
+(1889) (§ 86 case recognizing a material difference between 
+compensatory “interest” and deterrent or punitive “penal- 
+ties”). Congress thus knew the difference between compensa- 
+tory interest “rate” charges based on the passage of time and 
+punitive sum-certain penalties that are unrelated to the time- 
+value of money. Without doubt, the context of § 85 also 
+permits a national bank to charge interest at the highest “rate” 
+allowed to any lender in its home state. See Tiffany, 85 U.S. at 
+411-13. But that context does not limit or even address the 
+
+
+Maitland, 88 Pa. 384, 386 (1879) (Sharswood, C.J.) (contractual agreement 
+to pay commission for collection distinguishable from that of a penalty, 
+which was distinguished yet again from interest); Rosert B. Comyn. 
+TREATISE ON THE Law or Usury 73-74 & n.(a) (R. Pheney, London 1817) 
+(charges for costs are considered “nomine poenae” that are “relievable 
+against in equity”). See also Sun Printing & Publishing Ass'n v. Moore, 
+183 U.S. 642, 660-670 (1902) (describing general common law of 
+liquidated damages). 
+
+
+35 
+
+
+incidental or contractual power of a bank under 12 U.S.C. 
+§ 24 to impose late fees or other types of contract terms 
+separate from a compensatory “rate.” In short, the plain 
+meaning of “interest at the rate” in § 85 does not reach or 
+preempt the state law penalty claims asserted in this case. 
+
+
+B. The Common Law Definition of “Interest” 
+Excludes Penalty Charges. 
+
+
+Under federal law, it is also a “settled principle of statu- 
+tory construction that, absent contrary indications, Congress 
+intends to adopt the common law definitions of statutory 
+terms.” United States v. Shabini, 115 S. Ct. 382, 384 (1994). 
+In fact, there is a strong presumption favoring a common taw 
+meaning for words used in a federal statute. This Court 
+recently described that presumption in United States v. Texas, 
+507 U.S. 529 (1993), a case that also dealt with the meaning 
+of “interest” in a federal statute. There, the Court instructed: 
+
+[s]tatutes which invade the common law... are to 
+
+be read with a presumption favoring the retention of 
+
+long-established and familiar principles. .. . In such 
+
+cases, Congress does not write upon a clean slate 
+
+. . + « In order to abrogate a common law principle, 
+
+the statute must “speak directly” to the question 
+
+addressed by the common law. 
+
+Id. at 534 (citations and internal quotation marks omitted). '© 
+The Court also distinguished between interest and late fees 
+and found that late fees are “more onerous than the common 
+law” of prejudgment interest. See id at 536 (“Unlike the 
+
+
+Texas. Instead of looking to the common law, it construed “interest” based 
+
+
+36 
+
+
+common law, § 3717 also imposes processing fees [for late 
+payments} and penalty charges”). Since late fees are “more 
+onerous than the common law” of interest, they cannot be one 
+and the same as interest. 
+
+
+Cases contrasting usury, the charging of excessive inter- 
+est, with contingent collection fees further demonstrate this 
+point. See Merchants’ Nat'l Bank v. Sevier, 14 F. 662, 663, 
+667 (C.C.E.D. Ark. 1882) (surveying the common law of 
+penalties and the statutory principles of usury). In Sevier, an 
+NBA case decided just eighteen years after passage of the 
+Act, a federal circuit court held that a provision in a note 
+imposing collection costs after a loan default was “a stipula- 
+tion for a penalty or forfeiture {under the common 
+law) . . . and void.” /d. at 663. The Sevier court directly 
+considered the power of national banks to impose post-default 
+collection costs, like attorneys’ fees and late fees. Relying on 
+this Court's § 85 decision in National Bank v. Johnson, 104 
+U.S. at 277, the court rejected the argument that a national 
+bank could charge collection costs as “interest.” 14 F. at 
+665.'7 The very fact that courts reviewing bank penalties 
+
+
+'? The collection fees in Sevier, like the late fees here, were post- 
+default costs assessed in amounts unrelated to time or the amount of the 
+unpaid loan. Also, Sevier did not depend on a state law definition of 
+“interest,” because it was decided under the regime of Swift v. Tyson, 41 
+U.S. (16 Pet.) 1, 18-19 (1841), which established the rule that federal law 
+provides the content of terms implicating general commercial matters. See 
+14 F. at 665-75. Sevier further holds that while unfair collection costs could 
+not be charged as “iuterest” by a bank, reasonable costs could be imposed 
+within a bank's home state as a matter of contract law. See id. at 667 
+(Circuit Judge concurring). Since such costs are not interest, each state can 
+limit those costs and thus prohibit both in-state and out-of-state banks from 
+charging excessive contingent fees for a contractual breach. Moreover, 
+while the court below purported to distinguish Sevier on the facile ground 
+that the collection costs were labeled attorneys’ fees, even attorneys’ fees 
+would be “interest” under that court's broad definition of the term. 
+Contrary to the lower court's analysis, the substance of the charge, not the 
+form should control. Whether labeled a collection fee, a late fee or any 
+attorneys’ fee, the issue is whether the charge is measurable by time and 
+
+
+37 
+
+
+shortly after the NBA recognized the difference between sum- 
+certain default charges and interest, as did the Sevier court, 
+demonstrates that § 85 does not abrogate the common law of 
+contract penalties. 
+
+
+Here, as in Sevier, the late fees are penalties that may or 
+may not be incurred depending solely on the borrower's 
+conduct. From the start, a late fee is not required for a loan, 
+so a lender has no way of knowing whether or not a late fee 
+will ever be charged. In contrast, a lender committing usury 
+seeks to evade statutory limits on the permissible interest rate 
+by controlling, from the outset, the classification of interest 
+and other charges that will in fact be imposed. Although 
+contingent collection fees imposed because of a contractual 
+breach were not regulated as usurious interest, they were 
+limited under the common law of liquidated damages and 
+penalties. See United States v. Childs, 266 U.S. at 307: Sun 
+Printing & Publishing Ass'n v. Moore, 183 U.S. 642, 660-669 
+(1902).'® There is no indication that Congress intended by 
+ambiguity or silence to depart from this longstanding common 
+law when it used the words “interest” and “rate” in § 85. 
+
+
+based on the unpaid balance, so that it is a compensatory rate rather than a 
+punitive forfeiture. 
+
+'8 See also Georce W. Fiecp, Tue Law or Damaces §§ 22, 134-56 
+(1876); Cares T. McCormick, HANDBOOK on THE Law or Damaces 
+§§ 146-157 (1935); Il Samuer Wiuiston, Contracts $§ 769-792 (1920); 
+5 Samuet Wituiston, Contracts § 780 (3d ed. 1961); 5 Arruur L. 
+Corin, Contracts § 1058 (1964); 1 THeopore Sepowick, Measure oF 
+Damaces §§ 389-427 (9th ed. 1912); | Josepu A. Joyce, Treanse on 
+Damaces §§ 1, 2, 33 (1903); 2 id. §§ 1333-34; Restarement oF 
+Contracts § 339 (1932); U.C.C. § 2-718 (1957). Although certain 
+annotations have attempted to rationalize various state usury laws, they are 
+off-point because they concentrate on post-default “rate” increases, not on 
+sum-certain penalties. See, e.g., Annot. Provision for Interest After 
+Maturity at a Rate in Excess of Legal Rate as Usurious, 82 A.L.R. 1213, 
+1214-23 (1933). Besides, they entirely ignore the distinct common law of 
+penalties. See United States v. Texas, 507 U.S. at 534. 
+
+
+38 
+
+
+Other critical differences between interest and late fees 
+become obvious in the context of delay damages, or prejudg- 
+ment interest. Delay damages accrue at a particular rate of 
+interest over time and are based on the amount of the debt 
+outstanding. See United States v. Texas, 507 U.S. at 536 
+(describing the common law); Library of Congress v. Shaw, 
+478 U.S. 310, 322 n.7 (1986) (adjustments for the time of 
+payment are made with interest or a delay factor, but not 
+both). The sum-certain late fees here, however, do not depend 
+on an interest rate, the passage of time, or the amount out- 
+standing. 
+
+In contrast with “interest,” the late fees here are special 
+charges that more than compensate the lender for delay. See 
+Kothe, 280 U.S. at 226. In the past, this Court has observed 
+that special charges beyond those for delay were not allowed. 
+In Loudon v. Taxing Dist., 104 U.S. (14 Otto) 771 (1881), for 
+example, the borrower defau‘ted, requiring the lender to sell 
+his own assets at a substantial discount. After the lender sued 
+for the “costs” of the default, the issue was whether the 
+borrower was liable for more than the time-value of the 
+lender's money. This Court held that interest measured by 
+time was the only delay damage allowed: 
+
+all damages for delay in the payment of money 
+
+owing upon contract are provided for in the 
+
+allowance of interest, which is in the nature of 
+damages for withholding money that is due. The 
+
+law assumes that interest is the measure of all such 
+
+damages. 
+
+Id. at 774 (emphasis added). See also New Orleans Ins. Co. v. 
+Piaggio, 83 U.S. (16 Wall.) 378, 386 (1872) (a party “cannot 
+recover special damages for the detention of money due to 
+him beyond what the law allows: as interest”). The ruling 
+below has turned the reasoning of Loudon and Piaggio upside 
+down and allowed duplicative recovery for a contractual 
+breach. Instead of “interest” based on the unpaid balance and 
+measured by time being “the measure of all such damages,” 
+the lower court incorrectly concluded that special, sum-cer- 
+tain penalties also are a measure of delay damages. 
+
+
+39 
+
+
+The bank's late fees here, like the special charges in 
+Loudon and Piaggio, do not merely compensate the bank for 
+the contractual time-value of money since they are imposed — 
+in addition to continuing interest charges — primarily to 
+enhance revenues and deter or punish a technical breach. The 
+bank does not condition its loans on the payment of such 
+penalties, nor does it forebear on the contractual defaults that 
+precipitate the charges. Instead of being time-based compen- 
+sation for the use or forbearance of money, the fees are 
+additional contingent charges that do not fluctuate based on 
+any increased risk. Indeed, the basic fees remain static regard- 
+less of whether a late payment is $20 or $200 or one day or 
+thirty days late. Thus, the lower court confused the common 
+law distinctions between damages in the nature of interest and 
+special contractual penalties for unliquidated and purported 
+additional processing costs. These common law differences 
+are highlighted by the fact that South Dakota itself deemed it 
+necessary to statutorily redefine “interest” to include such 
+penalty charges in § 54-3-1. Obviously, there would be no 
+need for such a statute if the plain, common law meaning of 
+“interest” had always encompassed these charges.'? 
+
+
+'9 Around the time the NBA was passed, most state common law aiso 
+defined “interest” as the compensation paid by the borrower for the use of 
+the lender’s money measured over time. See Davis v. Rider, 53 Ill. (53 
+Freeman) 416, 417 (1870). See also Kelsey v. Murphy, 30 Pa. (6 Casey) 
+340, 341 (1858) (“Interest has been defined to be a compensation allowed 
+to the creditor for delay of payment by the debtor.”); Gaar v. Louisville 
+Banking Co., 74 Ken. (11 Bush) 180, 189 (1874) (“Interest is the premium 
+allowed by law for the use of money.”). Thus, the componeats of an 
+interest rate were the amount charged, the amount loaned, and the time 
+involved. Although a few states, such as South Dakota, have recently, by 
+statute, expanded the definition of interest, the basic common law 
+definition has not changed. See United States v. Texas, 507 U.S. at 536. 
+
+
+40 
+
+
+C. The NBA’s Legislative History Also Demonstrates 
+That “Interest” Does Not Include Contract Penal- 
+ties. 
+
+
+As noted, Congress first enacted §§ 85 and 86 in § 30 of 
+the NBA. The predecessor to § 30, section 46 of the National 
+Currency Act, also focused on a time-based rate by referring 
+to “interest for delay in the payment of money.” 12 Stat. 
+678-79. Although this phrase was omitted from § 30 a year 
+later, there is no dispute that Congress intended “interest at 
+the rate” to mean compensation “for the delay in the payment 
+of money.” In fact, shortly after passage of § 30, this Court 
+held that “[i)nterest is given on money demands as damages 
+for delay in payment, being just compensation to the plaintiff 
+for a default on the part of his debtor.” Redfield v. Ystalyfera 
+Iron Co., 110 U.S. 174, 176 (1884) (emphasis added). Thus, 
+the time period of delay was always an important feature of 
+“damages in the nature of interest” in the 1800s. 
+
+
+The debates of the 38th Congress likewise confirm that 
+“interest at the rate” in § 85 includes only detention damages 
+that are based on an unpaid balance and measured by time. In 
+deciding whether to set a national ceiling on interest rates, 
+various members of Congress observed that interest rate ceil- 
+ings varied from state to state. In each and every debate, the 
+members referred to “interest” as a charge measured over 
+time for the use of money. See, e.g., Conc. Grose, 38th Cona., 
+Ist Sess. 1353 (1864) (Rep. Cole of California: “In California, 
+the interest is by law, where no rate is expressed in the 
+contract, ten percent per annum”); Conc. Grose, 38th Cona., 
+Ist Sess. 1374 (Rep. Kasson of lowa: “In my own State, sir, 
+we allow a rate of interest of ten percent per annum.”); Conc. 
+Grose, 38th Cona., Ist Sess. 2122-24 (where several Con- 
+gressmen recognize the differences in state statutory interest 
+“rate” ceilings). Congress thus considered interest “rate” ceil- 
+ings (usury laws) to be affirmative legislative actions taken to 
+regulate time-based charges for a loan. 
+
+
+In the legislative compromise that became § 85, Congress 
+undoubtedly considered these interest “rate” ceilings to be 
+
+
+41 
+
+
+matters of state legislative policy. But Congress did not intend 
+for the states to change the existing common law definitions 
+or principles in order to broaden the preemptive scope of the 
+NBA. See Conc. Grose., 38th Cona., Ist Sess. 1952-57, 
+2122-24 (debate over the role of the states). On the contrary, 
+Congress rejected a uniform national interest rate ceiling in 
+order to respect state control and the interests of federalism. 
+See id. Besides, the common law of contract penalties, unlike 
+state statutes, applied equally to all businesses and did not 
+discriminate against banks by setting an interest rate ceiling. 
+See Lloys v. Scott, 29 U.S. at 226, 4 Pet. at 190; United States 
+v. Texas, 507 U.S. at 536. Because there was no need to alter 
+or even address the common law, Congress borrowed and 
+preempted only the statutory “interest rate” ceilings of the 
+states. Hence, § 85, as enacted in 1864, or as subsequently 
+amended,”?° does not plainly state a broader intention to 
+
+
+20 In 1974, Congress temporarily amended § 85 and the Federal 
+Deposit Insurance Act to allow national banks and other lenders to charge 
+interest on certain business and agricultural loans at a rate of 5% above the 
+federal discount rate where the bank was located. Act of Oct. 29, 1974, 
+Pub. L. No. 93-501, §§ 201-206, 88 Stat. 1557, 1558-60. In that law, 
+Congress first used the preamble language: “In order to prevent 
+discrimination against . . . banks with respect to interest rates.” Jd. Because 
+the amendment was a temporary law directed at the unique statutory or 
+constitutional usury limits in just three states (Arkansas, Montana and 
+Tennessee), Congress emphasized that it was not “overriding [all] state law 
+in this area, especially with respect to consumer and home mortgage 
+loans.” S. Rep. No. 1120, 93d Cona., 2d Sess. 18 (1974), reprinted in 1974 
+U.S.C.C.A.N. 6249, 6261 (emphasis added). As with other common law 
+states, the usury laws of Arkansas, Montana and Tennessee did not apply to 
+contingent charges (late fees) within a borrower's control. See, e.g., Hayes 
+v. First Nat'l Bank, 256 Ark. 328, 507 S.W.2d 701, 703 (1974); Wilson v. 
+Dealy, 222 Tenn. 196, 201, 434 S.W. 2d 835, 837 (1968). Therefore, the 
+1974 Congress never intended to and did not preempt the late fee 
+limitations in those states. Nor did Congress intend the preamble language 
+concerning “discrimination . . . against banks” to apply to or preempt 
+evenhanded contract or consumer laws limiting contract penalties, like late 
+fees. 
+
+
+42 
+
+
+federalize and preempt the distinct common law limiting 
+penalties or forfeitures for a breach of contract. 
+
+
+D. Congress and Federal Regulators Have Repeat- 
+edly Defined “Interest” to Exclude Contract Pen- 
+alties. 
+
+
+In 1933, Congress amended § 85 to permit national banks 
+to charge an alternative federal interest rate of one (1) percent 
+over the discount rate on ninety day commercial paper. See 12 
+U.S.C. § 85. Discount interest (which is collected or charged 
+at the outset of a loan) has never included contingent default 
+charges, like late fees, which may never even arise. (See Pet. 
+Br. App. C, reprinting OCC letter describing “discount rate”). 
+In the amendment, the term “discount rate” was added to the 
+same sentence as the phrase “interest at the rate,” indicating 
+that the latter should be construed no more broadly than the 
+former. Indeed, this Court has emphasized that important 
+statutory terms should be construed consistently with other 
+terms with which they are associated. See Gustafson v. Alloyd 
+Co., 115 S. Ct. 1061, 1069-70 (1995); Jarecki v. G.D. Searle 
+& Co., 367 U.S. 303, 307 (1961). This rule is particularly apt 
+here, because Congress could not have intended the two 
+alternative rates made available by § 85 to be measured 
+differently so that they could not be compared to one another. 
+After all, if banks were to make an intelligent choice between 
+the discount rate alternative and their home state rate, the two 
+rates would have to include or exclude the same things. 
+Otherwise, the banks could not possibly know which rate was 
+higher. Because discount interest does not include contingent 
+penalties like late fees, loan “interest” must also exclude such 
+charges. ) 
+
+
+Congress's use of the term “interest” in other laws regu- 
+lating banks is also instructive. In the Depository Institutions 
+Deregulation and Monetary Control Act of 1980 (“DIDA”), 
+Pub. L. No. 96-221, 94 Stat. 132-193 (1980) (codified in 
+scattered sections of 12 U.S.C.), Congress preempted state 
+laws limiting “interest rates” and “other charges for a loan” 
+
+
+43 
+
+
+but not state laws limiting contract penalties like late fees. In 
+the legislative history accompanying DIDA, Congress 
+explained that “The Committee does not intend to exempt 
+limitations on prepayment charges, attorney fees, late charges 
+or similar limitations designed to protect borrowers.” S. Rep. 
+No. 368, 96th Cona., Ist Sess. 19 (1979), reprinted in 1980 
+U.S.C.C.A.N. 236, 255 (emphasis added).?' Congress there- 
+fore again recognized the longstanding differences between 
+penalties and “interest rates” and intended to displace only 
+state interest “rate” ceilings. 
+
+
+DIDA also shows that Congress, as in 1864, was primar- 
+ily concerned with only the affirmative legislative usury ceil- 
+ings of the states, not with the common law of contract 
+penalties. For example, DIDA § 521 preempts “State constitu- 
+tion[s] or statute[s],” but makes no mention of the common 
+law. 12 U.S.C. § 1831d. This Court, in Cipollone, explained 
+that a federal statute which expressly preempts “any state 
+statute or regulation” may only preempt state legislation and 
+will not generally preempt state common law. 505 U.S. at 
+
+
+2! Congress intended this legislative history to apply to every section 
+of DIDA, not just to mortgage loans. When Congress first considered 
+DIDA in 1979, it initially focused only on business and mortgage loans and 
+temporarily enacted as a stop-gap just two sections (sections 501 and 511) 
+of the law. See Act of Dec. 28, 1979, Pub. L. No. 96-161, 93 Stat. 1233-35; 
+H.R. Conr. Rep. No. 842, 96th Conc., 2d Sess. 69, 78 (1980), reprinted in 
+1980 U.S.C.C.A.N. 298, 308. Afterwards, in early 1980, Congress revisited 
+those two sections as well as additional sections covering other types of 
+loans. See 1980 U.S.C.C.A.N. at 308. At the time, Congress had before it 
+the two Senate Reports, Nos. 96-368 (Oct. 15, 1979) and 96-73 (Apr. 24, 
+1979) which described the precise preemptive scope of DIDA. Congress 
+therefore had the interpretation of the Senate Reports at its disposal when it 
+reenacted the two temporary sections together with the added sections in 
+1980 and “did nothing to disapprove of [the] plain meaning reading” of 
+interest as it applied to all sections of DIDA. Smith v. Fidelity Consumer 
+Discount Co., 898 F.2d 907, 913 (3d Cir. 1990). 
+
+
+44 
+
+
+522-23.22 The same is true for § 85 because that statute is the 
+model on which § 521 was based. The fact that Congress, in 
+enacting § 521, used language expressly limiting preemption 
+to state statutes or constitutions evidences Congress's belief 
+that § 85 likewise has the same limited preemptive effect. Cf. 
+In re Asbestos Litigation, 829 F.2d 1233, 1238 (3d Cir. 1987) 
+(observing that under regime of Swift v. Tyson, 41 U.S. (16 
+Pet.) 1, 18 (1841), the phrase “laws of the several states” was 
+interpreted narrowly to include only statutory enactments), 
+cert. denied, 485 U.S. 1029 (1988). Like § 521, § 85 preempts 
+only state legislative ceilings on interest rates. It does not 
+preempt traditional common law and public policy limits on 
+penalties for unliquidated processing costs or to punish a 
+contractual breach.? 
+
+
+22 The Court in Cipollone considered the preemptive effect of a 
+federal statute that expressly preempted the “requirements or 
+prohibitions . . . imposed under [s}tate law.” The Court compared this 
+statute with an earlier proposed version that had preempted “any state 
+statute or regulation.” Finding that the earlier version had preempted only 
+positive enactments of state law, the Court found that the final version 
+preempting “[s}tate law” was not so narrow. 505 U.S. at 523. Thus, the 
+Court implicitly recognized that federal statutes expressly preempting state 
+statutes may not reach state common law. 
+
+
+23 Unless “interest” is defined as meaning only time-based 
+compensation for a loan of money (and not a sum-certain penalty for a 
+borrower-induced default), other sections of the federal banking laws 
+cannot make sense. For example, under 12 U.S.C. § 347b(a) (1994), 
+“interest” is “a rate equal to the lowest discount rate in effect at such 
+Federal Reserve Bank on the date of such notice.” Since a discount rate by 
+definition cannot include a default charge (which may never even arise), 
+interest must also exclude such default charges. Also, pursuant to 12 U.S.C. 
+§§ 371a and 371b, “interest” is the amount that a bank pays on demand 
+deposits and savings deposits. Obviously, a bank cannot pay late fees on 
+savings or demand deposits. See also Rev. Rul. 72-315, 1972-1 C.B. 49, 50 
+(“a ‘service charge’ is a fixed charge having no relationship to the amount 
+borrowed or the time given to pay whereas interest is based on the amount 
+deferred and the time of deferral”); 12 C.F.R. § 217.2(d) (1995) (Federal 
+Reserve Board defines interest to include “any payment to or for the 
+
+
+45 
+
+
+E. Single-Sum Late Fees Do Not Embody the Essen- 
+tial Characteristics of Interest. 
+
+
+Despite the overwhelming body of law establishing that 
+single-sum late fees and other contract penalties are not 
+interest, some courts construing § 85, including the court 
+below, have erroneously held otherwise. These courts, gloss- 
+ing over the bulk of the controlling precedent, have jumped 
+on the bandwagon propelled by the wrongly decided case of 
+Greenwood Trust Co. v. Massachusetts, 97\ F.2d 818 (1st Cir. 
+1992), cert. denied, 506 U.S. 1052 (1993). The Greenwood 
+court concluded that DIDA § 521 preempts a Massachusetts 
+consumer protection law prohibiting credit card late fees.74 In 
+so holding, the court misread a number of the authorities on 
+which it relied and failed to recognize the undeniable differ- 
+ences between contingent penalties for a contractual breach 
+and interest as damages for delay. 
+
+
+For example, as support for the conclusion that single- 
+sum late fees may be interest, both the court below and the 
+Greenwood court cited the non-§ 85 and non-NBA cases of 
+Shoemaker v. United States, 147 U.S. 282 (1893), and Brown 
+v. Hiatts, 82 U.S. (15 Wall.) 177 (1873). Both of those cases 
+are off-point, however, because they involve delay damages 
+
+
+account of any depositor as compensation for the use of funds” but not 
+expenses incident to a bank's normal function or service charges); |2 
+CFR. §§ 226.4(b)(1) and (c)(2) (Federal Reserve Board defines “late 
+charge” as entirely different from the broad term “finance charge,” which 
+includes interest, in the Truth-in-Lending Act); 1980 U.S.C.C._A.N. at 255 
+(equating loan interest in DIDA with deposit interest). 
+
+%4 The court in Greenwood completely disregarded the strong 
+presumption against preemption recognized in Maryland v. Louisiana, 45| 
+U.S. 725, 746 (1981), and many other cases. The Greenwood court 
+recognized that the term “interest” was “susceptible to interpretation — not 
+thai the Commonwealth's interpretation... [was] necessarily wrong or that 
+the appellant's interpretation [was] necessarily correct.” 971 F.2d at 828. 
+The court also found that DIDA’s text and legislative history were 
+“inconclusive.” /d. Yet, despite the ambiguity, the Greenwood court found 
+preemption. 
+
+
+46 
+
+
+(i.e., prejudgment interest charges measured by time and the 
+balance owed to compensate for delay), not penalties for a 
+contractual default. In Shoemaker, this Court recognized that 
+interest “accrues.” 147 U.S. at 321. Similarly, in Brown, the 
+Court held that time-based damages did not accumulate 
+(“run”) during the Civil War when the obligation to repay the 
+principal of a loan was suspended. 82 U.S. at 185-86. 
+
+
+The single-sum late fees here, in contrast, cannot “run” 
+or “accrue” and are not measured by time. In fact, this 
+Court's more recent decision in United States v. Texas, 
+507 U.S. at 536, explains the relevant principles of delay 
+damages (prejudgment interest) that were only touched upon 
+briefly in Shoemaker and Brown. Given that United States v. 
+Texas holds that late fees are not part of the common law 
+of prejudgment interest, Shoemaker and Brown cannot stand 
+for the erroneous proposition that penalty charges are 
+interest. 
+
+
+Both the Greenwood court and the lower court further 
+assumed that any lender imposed fee could constitute interest. 
+But the cases cited by the court do not stand for that bound- 
+less principle. As the New Jersey Supreme Court observed in 
+Sherman, 143 NJ. at ___, 668 A.2d at 1044-46, the authori- 
+ties relied upon by Greenwood simply do not indicate that 
+single-sum late fees are interest.?5 
+
+
+25 Under the Federal Reserve Board's definitions for the Truth-in- 
+Lending Act, 15 U.S.C. § 1601 (1994), it is readily apparent that the cases 
+cited in Greenwood are entirely different from the present case. The charge 
+in American Timber and Trading Co. v. First Nat'l Bank, 690 F.2d 781, 
+787-88 (9th Cir. 1982), involving compensating balance requirements, 
+would constitute a “finance charge” under 12 C.F.R. § 226.4(b)(5) (1995). 
+The cash advance fee in Fisher v. First Nat'l Bank, 548 F.2d 255, 258-61 
+(8th Cir. 1977), would constitute a transaction “finance charge” under | 2 
+C.FR. § 226.4(b\(2). The bonus or commission in Cronkleton v. Hall, 66 
+F.2d 384, 387 (8th Cir.), cert. denied, 290 U.S. 685 (1933), would be a 
+finder’s fee “finance charge” within the meaning of 12 C.F.R. 
+§ 226.4(b\(3). As noted, a late fee is not a “finance charge,” because it is 
+not “interest” compensation for the use of money. See 12 C_F.R. § 226.4(c). 
+
+
+47 
+
+
+Until Greenwood and its progeny, the plain meaning of 
+“interest” was a compensatory rate based on the amount of the 
+unpaid loan, measurable over time or required up-front as 
+consideration for the loan. Despite the more than 150 years of 
+case law recognizing these characteristics, Greenwood and 
+the decision below do not even mention them. Nor do they 
+address the substantial body of liquidated damages law that 
+would not exist but for the differences between single-sum 
+late fees and interest. 
+
+
+F. “Interest” In § 85 Must Be Interpreted Narrowly. 
+
+
+This Court has long held that because a violation of § 85 
+subjects a national bank to the § 86 penalty of forfeiture of 
+double the interest collected, the statute must “receive a 
+strict, that is literal construction.” Tiffany, 85 U.S. at 410. 
+Indeed, a national bank “is not to be subjected to a penalty 
+unless the words of the statute plainly impose it.” /d.; see 
+Keppel v. Tiffen Sav. Bank, 197 U.S. 356, 362 (1905). Thus, to 
+avoid subjecting the fledgling national banks to the severe 
+penalty for usury, Congress must have intended “interest at 
+the rate” to be construed narrowly. Otherwise, the banks 
+would be exposed to usury claims any time a separate fee 
+caused the interest rate to exceed the statutory ceiling. Con- 
+gress did not intend that result. Congress instead intended a 
+plain federal meaning for “interest at the rate” that does not 
+include the sum-certain late fees exported by Citibank into 
+California in this case. 
+
+
+G. As A Matter Of Public Policy, “Interest” In § 85 
+Does Not Preempt State Laws Limiting Contract 
+Penalties 
+
+
+At the petition stage, Citibank professed reliance on 
+informal federal regulatory opinions and projected imminent 
+doom should this Court uphold the presumption against pre- 
+emption in this case. Those proclamations, however, have 
+been directed to the wrong forum and are beyond the record 
+in this case. It is Congress's role, not the Court's or the 
+
+
+48 
+
+
+regulators’, to rewrite legislation to address the bank's policy 
+concerns. See Gregory, 501 U.S. at 460. As this Court has 
+stated, “any plea to alter § 85 . . . is better addressed to the 
+wisdom of Congress.” Marquette, 439 U.S. at 319. Moreover, 
+the bank's reliance arguments are misplaced. The federal law 
+applicable to a particular case does not turr on whether 
+litigants actually relied on an administrative rule. Harper v. 
+Virginia Dep't of Taxation, 113 S. Ct. 2510, 2516 n.9 (1993). 
+
+
+Citibank further insisted below that prohibiting single- 
+sum late fees will require credit card issuers to raise periodic 
+percentage interest rates, which will purportedly restrict the 
+availability of credit to high risk borrowers. Those unsup- 
+ported contentions miss the point, however. The importance 
+of our federalist system lies in the ability of each state to 
+make its own policy decisions for its own citizens in the 
+absence of clear Congressional intent to the contrary. Here, 
+California has balanced consumer rights and business inter- 
+ests differently than has South Dakota. Congress has not itself 
+directly addressed the subject. Besides, since this case was 
+dismissed at the pleadings stage, there is absolutely no cred- 
+ible economic evidence in the record to support the assertion 
+that permitting late fees increases the number of consumers 
+who can qualify for a credit card. If, however, the Court looks 
+beyond the record, it should focus on the fact that Citibank 
+has obtained an unfair economic advantage over the many 
+other out-of-state card issuers who have complied with the 
+California law limiting late fees and other penalties. 
+
+
+In sum, the in terrorem pleas and economic reliance 
+arguments of the bank disregard the legitimate legislative 
+choices made by California. That state limits contractual 
+penalties as a matter of public policy to prevent further 
+oppression of a party with unequal bargaining power who may 
+already be at an economic disadvantage and may lack any 
+alternative but to pay the penalty. California's public policy 
+decision is the prerogative of the California legislature. While 
+Citibank may disagree with that public policy decision, it 
+cannot point to any contrary decision by Congress. Citibank’s 
+
+
+49 
+
+
+plea that this Court judicially amend § 85 to create an ad hoc 
+federal policy is misdirected. “For if in close or uncertain 
+cases a court proceeds to preempt state laws where that result 
+was not clearly the product of Congress’ considered judg- 
+ment, the court has eroded the dual system of government that 
+ensures our liberties, representation, diversity, and effective 
+governance.” THe Law or Preemrrion, supra p. 2, note |, at 
+47. 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, the judgment of the California 
+Supreme Court should be reversed. 
+
+
+Dated: March |, 1996 Respectfully submitted, 
+Parrick J. GrRaNNAN Micnaet D. Donovan 
+Rosw B. Howap (Counsel of Record) 
+Cumicies, J acossen Pameca P. Bonn 
+
+& Tikes Cumicies, Jacossen & 
+633 West Fifth Avenue Tews 
+Los Angeles, CA 90071 361 W. Lancaster Avenue 
+(213) 623-8100 Haverford, PA 19041 
+
+(610) 642-8500 
+
+
+Micwaer P. MaLaKkorr 
+Ma axorr, Dovie & 
+Finsera, P.C. 
+The Frick Building, Suite 200 
+Pittsburgh, PA 15219 
+(412) 281-8400 
+
+
+Counsel for Petitioner 
+
+
+la 
+
+
+APPENDIX A 
+
+
+CONSTITUTIONAL AND 
+STATUTORY PROVISIONS INVOLVED 
+
+
+Article I, section 1 of the United States Constitution 
+directs, in pertinent part, that “[ajll legislative Powers 
+herein granted shall be vested in a Congress of the United 
+States.” U.S. Const. art. I, § 1. 
+
+
+The Supremacy Clause provides: 
+
+
+This Constitution, and the laws of the United 
+States which shall be made in Pursuance 
+thereof; and all Treaties made, or which shall be 
+made, under the Authority of the United States, 
+shall be the supreme Law of the Land; and the 
+Judges in every State shall be bound thereby, 
+any Thing in the Constitution or Laws of any 
+State to the Contrary notwithstanding. 
+
+
+U.S. Const. art. VI, cl. 2. 
+
+
+The Full Faith and Credit Clause requires, in perti- 
+nent part, that “Full Faith and Credit shall be given in 
+each State to the public Acts, Reccids, and Judicial Pro- 
+ceedings of every other State.” U.S. Const. art. IV, § 1. 
+
+
+Section 30 of the National Bank Act, as codified at 12 
+U.S.C. § 85, provides, in pertinent part: 
+
+
+Any [national bank] may take, receive, reserve, 
+and charge on any loan or discount made, or 
+upon any notes, bills of exchange, or other evi- 
+dence of debt, interest at the rate allowed by the 
+laws of the State . . . where the bank is located, 
+or at a rate of 1 per centum in excess of the 
+discount rate on ninety-day commercial paper 
+in effect at the Federal reserve bank in the Fed- 
+eral reserve district where the bank is located, 
+
+
+2a 
+
+
+whichever may be the greater, and no more, 
+except that where by the laws of any State a 
+different rate is limited for banks organized 
+under state laws, the rate so limited shall be 
+allowed for associations organized or existing in 
+any such State under this chapter. . . . 
+
+
+12 U.S.C. § 85 (1994). 
+
+
+3a 
+
+
+(c) The validity of a liquidated damages 
+provision shall be determined under subdivi- 
+sion (d) and not under subdivision (b) where the 
+liquidated damages are sought to be recovered 
+from either: 
+
+
+(1) A party to a contract for the retail 
+purchase, or rental, by such party of personal 
+property or services, primarily for the party’s 
+personal, family, or household purposes; or 
+
+
+Prior to codification, Section 30 of the National Bank 
+Act also provided what is now codified, in pertinent part, (2) A party to a lease of real property 
+, for use as a dwelling by the party or those 
+in 12 U.S.C. § 86: 
+dependent upon the party for support. 
+
+
+The taking, receiving, reserving, or charging a 
+rate of interest greater than is allowed by sec- 
+tion 85 of the title, when knowingly done, shall 
+be deemed a forfeiture of the entire interest 
+which the note, bill or other evidence of debt 
+carries with it, or which has been agreed to be 
+paid thereon. In case the greater rate of interest 
+has been paid, the person by whom it has been 
+
+
+(d) In the cases described in subdivision 
+(c), a provision in a contract liquidating dam- 
+ages for the breach of the contract is void except 
+that the parties to such a contract may agree 
+therein upon an amount which shall be pre- 
+sumed to be the amount of damage sustained by 
+a breach thereof, when, from the nature of the 
+case, it would be impracticable or extremely 
+
+
+paid . . . may recover back, in an action in the difficult to fix the actual damage. 
+nature of an action on debt, twice the amount of 
+the interest thus paid... . Cal. Civ. Code § 1671 (West 1985) 
+
+
+Section 54-3-1 of the South Dakota Codified Laws 
+
+
+12 U.S.C. § 86 (1994). states as follows: 
+
+
+The California Civil Code section 1671 states, in per- Interest is the compensation allowed by law for 
+tinent part: the use, or forbearance, or detention of money 
+or its equivalent, including without limitation, 
+points, loan origination fees, credit service or 
+carrying charges, charges for unanticipated late 
+payments, and any other charges, direct or indi- 
+rect, as an incident to or as a condition of the 
+extension of credit. These charges do not 
+include charges made by a third party. 
+
+
+(b) Except as provided in subdivision (c), a 
+provision in a contract liquidating the damages 
+for the breach of the contract is valid unless the 
+party seeking to invalidate the provision estab- 
+lishes that the provision was unreasonable 
+under the circumstances existing at the time the 
+
+
+contract was made. S.D. Codified Laws Ann. § 54-3-1 (1990). 
+
+
+4a 
+
+
+Section 54-3-1.1 of the South Dakota Codified Laws 
+states, in relevant part, that: 
+
+
+Unless a maximum interest rate or charge is 
+specifically established elsewhere in the code, 
+there is no maximum interest rate or charge, or 
+usury rate restriction between or among per- 
+sons, corporations, estates, fiduciaries, associa- 
+tions, or any other entities if they establish the 
+interest rate or charge by written agreement 
+
+
+S.D. Codified Laws Ann. § 54-3-1.1 (1990). 
+
+
+5a 
+
+
+85 
+APPENDIX B 
+
+
+JUN 25 1964 
+
+
+In your letter of May 22, 1964, you made three 
+inquiries. 
+
+
+First, you ask the maximum interest rate that a 
+National Bank may charge in certain specified states. 
+Subject to certain exceptions it may generally be stated 
+that National Banks in California, Illinois, Wisconsin and 
+Kansas may charge interest at a rate up to ten per centum 
+per annum, while in Illinois the normal maximum rate is 
+seven per centum per annum. 
+
+
+Secondly, you inquired as to what charges paid by 
+consumers for consumer credit obtained from a National 
+Bank with respect to auto financing are not considered to 
+be interest. Charges for late payments, credit life insur- 
+ance, recording fees, documentary stamp are illustrations 
+of charges which are made by some banks which would 
+not properly be characterized as interest. 
+
+
+Thirdly, you requested information as to the formula 
+used by bank examiner to convert charges to rate equiva- 
+lent for purpose of determining whether the charges are 
+at an excessive rate. Because of the inter-relation of state 
+laws with Federal laws there is no set formula. The exam- 
+iner must look at each question transaction with the view 
+of uncovering any unlawful practice on the part of the 
+lending institution. In questionable cases the problem is 
+referred to the Law Department of the Office of the 
+Comptroller of the Currency for review. 
+
+
+6a 
+
+
+If you should desire any additional information this 
+Office would be please [sic] to furnish such information 
+upon request. 
+
+
+Sincerely, 
+
+
+(Signed) James J. Saxon 
+James J. Saxon 
+Comptroller of the Currency 
+
+
+7a 
+
+
+APPENDIX C 
+
+
+Comptroller of the Currency 
+Administrator of National Banks 
+
+
+Washington, D.C. 20219 
+Jul 01, 1980 
+
+
+Dear Mr. 
+
+
+This is in response to your letter of April 14, 1980, in 
+which you ask for an interpretation of 12 U.S.C. § 85, in 
+light of the 3% surcharge which the Federal Reserve 
+Banks have recently imposed on loans to certain institu- 
+tions. 
+
+
+Section 85 allows national banks to charge interest on 
+loans “at a rate of 1 per centum in excess of the discount 
+rate on ninety-day commercial paper in effect at the 
+Federal reserve bank in the Federal reserve district where 
+the bank is located. .. . ” Unlike § 511(a) of the Deposi- 
+tory Institutions Deregulation and Monetary Control Act 
+of 1980 (“DIDA”), Pub. L. No. 96-221, which allows 
+national banks to charge on certain loans “5 per centum 
+in excess of the discount rate, including any surcharge 
+thereon” (emphasis added), § 85 makes no mention of the 
+surcharge. Instead, it looks only to the discount rate 
+itself. Furthermore, §§ 521, 522, 523, and 524 of DIDA, | 
+which extend the Federal Reserve discount rate option to 
+other financial institutions, similarly make no mention of 
+the surcharge. Thus, interpreting 12 U.S.C. § 85’s discount 
+rate as including the surcharge would make the above- 
+quoted language in § 511(a) of DIDA unnecessary. 
+
+
+8a 
+
+
+It is therefore my opinion that “discount rate,” as 
+2mployed in 12 U.S.C. § 85, refers only to the base dis- 
+count rate, and not to any surcharge imposed by the 
+Federal Reserve Banks, whether or not a particular bank 
+is paying that surcharge. It should, however, be noted 
+that this conclusion is also based upon the nature of the 
+recently imposed surcharge, i.e., the fact that it was not 
+imposed upon all member banks. My conclusion may 
+differ if, at some future time, the Federal Reserve Banks 
+impose a “surcharge” on loans to all member banks. 
+
+
+I trust that this has been responsive to your inquiry. 
+Very truly yours, 
+
+
+John E. Shockey 
+Chief Counsel 
+
+

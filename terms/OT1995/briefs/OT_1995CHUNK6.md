@@ -29,7 +29,7 @@ The restored assignment is simulated merits review under §1254(1), with the Apr
 
 #### Entering simulated law and application boundaries
 
-The coordinated Holdings, Standards and Tests, and Standing State close OT1994 through June 29, 1995, at commit 87e62b7612c15409039d524fd66f743d0ad75e2a. They carry forward completed OT1991–OT1993 law. No completed OT1995 decision is supplied at this opening. Only an actual validated decision effective before this event may supplement that baseline. Preparation, historical outcomes and file order create no law.
+The coordinated Holdings, Standards and Tests, and Standing State close OT1994 through June 29, 1995, at commit 87e62b7612c15409039d524fd66f743d0ad75e2a. They carry forward completed OT1991–OT1993 law. Completed OT1995 decisions through March 18, 1996 supplement that opening state; consult the [current neutral projection](../workspace/neutral-projection.md) and its linked public decision records. Apply each proposition only within its actual controlling scope. Only an actual validated decision effective before this event may supplement that baseline. Preparation, historical outcomes and file order create no law.
 
 Apply the complete simulated Casey six-step framework: protected previability choice and health baseline; actual duty/function/purpose; causal interference against the system without the challenged duty and a stable affected population; independently invalid baseline violations, obstructive purpose or substantial obstacles, then compelling/narrowly tailored justification for remaining severe interference and substantiated fit for remaining meaningful interference; clinical/communication safeguards; and relief fitted to the proved violation. Historical large-fraction undue burden is not a substitute for that framework, and strict Salerno no-valid-applications review does not displace it. Simulated Fargo applies Casey to its actual access questions; its distinct emergency-definition ruling is not approval of every health exception. Casey's sustained one-parent consent mechanism included a usable independent bypass. That does not automatically decide all notice laws, but it is material to the actual absence of such a route here.
 
@@ -42,7 +42,7 @@ Apply the complete simulated Casey six-step framework: protected previability ch
 5. **Protect clinical judgment and truthful communication.** Evaluate medical justifications against competent evidence, accepted professional standards, the patient's circumstances and substantial contrary evidence. Substantial professional agreement receives serious evidentiary weight, without a professional association's veto or conclusive weight for a clinician's bare assertion or an official's unsupported preference. Necessary care must remain timely; unnecessary committee vetoes and documentation functioning as prior permission may not displace appropriate clinical judgment. Duties must be sufficiently definite and applicable fault requirements respected. Later reasonable medical disagreement alone does not establish every element of a punishable offense; lawful enforcement against fraud, malpractice and professional misconduct remains. Required medical information must be accurate, nonmisleading and material to informed consent. Concise factual assistance notices may inform choice without ideological assent; clinicians may explain limitations and correct misinformation. Accuracy does not alone validate burdensome timing, delivery or certification. Distinguish useful confidential oversight records from public disclosure and records enforcing invalid obligations.
 6. **Identify the violation and tailor relief.** Specify the duty or application that fails, why, and the corresponding relief. Preserve independently lawful requirements under applicable severability law and expressly address dependent certifications, report fields and sanctions. An individual claim does not fail because others comply; broader relief requires a corresponding showing. An indivisible mandatory condition may be invalidated when its ordinary operation imposes demonstrated meaningful interference and the State fails to justify it. Voluntary compliance in some circumstances does not alone validate compulsory compliance. Otherwise confine relief to the established applications or groups. This qualification of a strict no-valid-applications approach does not remove proof of causation, scope or inadequate justification. For cumulative burdens, remedy the challenged obligation's or package's contribution without automatically invalidating all regulation. Replacing the trimester timetable does not dissolve injunctions or authorize enforcement of every challenged provision; the mandate must specify the resulting duties.
 
-The [matter-specific public-law extracts](inherited/readings/OT1995-108.md) preserve the complete cited holding components, qualifications and source links. Pre-divergence authority remains available where not displaced; post-divergence historical Supreme Court opinions do not become governing law by citation in a lower opinion.
+The [current neutral projection](../workspace/neutral-projection.md) links the effective current-term decisions. The matter-specific inherited holdings reproduced here retain their qualifications and source links; fresh entering-law slices must be generated before modeling. Pre-divergence authority remains available where not displaced; post-divergence historical Supreme Court opinions do not become governing law by citation in a lower opinion.
 
 #### Effective-date and record checks
 
@@ -52,7 +52,13 @@ The new merits assignment is express; a separate simulated Supreme Court docket 
 
 #### Sources
 
-Record and review posture: [63 F.3d 1452 (8th Cir. 1995)](https://law.justia.com/cases/federal/appellate-courts/F3/63/1452/613941/). Governing simulated law: [coordinated Holdings](assessment/sources/HOLDINGS.md), [Standards and Tests](assessment/sources/STANDARDS_AND_TESTS.md), and [Standing State](assessment/repository/state/STANDING_STATE.md). The lower court’s ultimate outcome and same-matter historical reasoning belong in Section III.
+Record and review posture: [63 F.3d 1452 (8th Cir. 1995)](https://law.justia.com/cases/federal/appellate-courts/F3/63/1452/613941/). Governing simulated law: [coordinated Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), and [Standing State](../../../state/STANDING_STATE.md). The lower court’s ultimate outcome and same-matter historical reasoning belong in Section III.
+
+#### Current-term remedial boundary
+
+The completed March 18 Dalton decision preserves effective relief against an established conflict and excludes severable lawful applications from a decree. Its Medicaid holding does not decide parental notice, bypass adequacy or this law’s constitutionality. Apply the complete controlling simulated Casey framework to the actual notice and bypass provisions. [Dalton](../records/Dalton_v_Little_Rock_Family_Planning_Services_summary_review_1996-03-18.md#public-projection).
+
+
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -113,11 +119,11 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 #### Law entering this event
 
-**Effective baseline:** The coordinated October 1, 2026 Holdings, Standards and Tests, and Standing State close OT1994 through June 29, 1995, after all 99 inventory Court events and two admitted source events, at repository commit 87e62b7612c15409039d524fd66f743d0ad75e2a. They carry forward the completed OT1991–OT1993 law. No completed OT1995 decision is supplied at this opening. Only an actual validated decision effective before this event may supplement that baseline; prepared positions and file order create no law.
+**Effective baseline:** The coordinated October 1, 2026 Holdings, Standards and Tests, and Standing State close OT1994 through June 29, 1995, after all 99 inventory Court events and two admitted source events, at repository commit 87e62b7612c15409039d524fd66f743d0ad75e2a. They carry forward the completed OT1991–OT1993 law. Completed OT1995 decisions through March 18, 1996 supplement that opening state; consult the [current neutral projection](../workspace/neutral-projection.md) and its linked public decision records. Apply each proposition only within its actual controlling scope. Only an actual validated decision effective before this event may supplement that baseline; prepared positions and file order create no law.
 
 **Authority and scope:** Apply actual simulated rules within their stated support and limits. Pre-divergence law remains available where not displaced. Stone's separate positions and post-divergence historical decisions do not become Court law by preparation.
 
-**Source reading:** [Current matter-specific public Holdings and Standards](inherited/readings/OT1995-054.md).
+**Source reading:** [Current matter-specific public Holdings and Standards](../workspace/neutral-projection.md).
 
 **Same-term continuity:** Carry actual earlier effective OT1995 law across chunk boundaries. Same-day file order and proposed dispositions create no dependency.
 
@@ -142,10 +148,10 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 #### Governing source key
 
-* **S1:** [Coordinated Holdings](assessment/sources/HOLDINGS.md), pinned source described in the [load manifest](OT_1995_LOAD_MANIFEST.md).
-* **S2:** [Coordinated Standards and Tests](assessment/sources/STANDARDS_AND_TESTS.md), closing OT1994 through June 29, 1995, with the matter-specific current public-law reading.
-* **S3:** [Standing State](assessment/repository/state/STANDING_STATE.md) and [Composition](inherited/COURT_COMPOSITION.md), including the August 3, 1994 circuit allotment and full-Court application practice.
-* **U1:** The reconciled [100-event calendar](OT_1995_CASE_INDEX.md); provenance and controlling source selections are retained in the [audit manifest](OT_1995_AUDIT_MANIFEST.md).
+* **S1:** [Coordinated Holdings](../../../state/HOLDINGS.md), pinned source described in the [load manifest](../workspace/manifest.md).
+* **S2:** [Coordinated Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), closing OT1994 through June 29, 1995, with the matter-specific current public-law reading.
+* **S3:** [Standing State](../../../state/STANDING_STATE.md) and [Composition](../../../foundation/COURT_COMPOSITION.md), including the August 3, 1994 circuit allotment and full-Court application practice.
+* **U1:** The reconciled [term-wide inventory](../case-list.md); provenance and controlling source selections are retained in the [audit manifest](../workspace/CHUNKS5_10_PREPARATION_REVIEW.md).
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -155,9 +161,9 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 - **Stone’s Controlled Judgment:** Reverse and remand.
 - **Stone’s Remedy / Remand Position:** Require application of a constitutionally permissible burden in a reliable competency proceeding. A retrospective determination may be used only if the passage of time and available record permit a meaningful inquiry; otherwise provide the ordinary relief competency law requires before any retrial.
-- **Stone’s Threshold Position:** Apply *Medina*’s native historical-practice and risk-of-error due-process inquiry, informed by the categorical prohibition on trying an incompetent defendant; do not translate the issue into tiered scrutiny.
+- **Stone’s Threshold Position:** Apply the actual common holding of simulated Medina allowing the preponderance allocation in its setting. Assess the higher burden through the relevant history and risk of trying an incompetent defendant; Medina’s fractured rationale does not categorically exclude Mathews or settle this higher-burden question.
 - **Supporting Authorities:** U.S. Const. amend. XIV; *Pate v. Robinson*, 383 U.S. 375; *Drope v. Missouri*, 420 U.S. 162; *Medina v. California*, 505 U.S. 437.
-- **Stone’s Proposed Holding for This Case:** A State may place on the defendant a preponderance burden to establish incompetence, but due process forbids a clear-and-convincing burden that permits trial while substantial doubt remains about the defendant’s present ability to understand the proceedings and assist counsel.
+- **Stone’s Proposed Holding for This Case:** A State may place on the defendant a preponderance burden to establish incompetence, but due process forbids a clear-and-convincing burden that permits trial even when the evidence establishes that the defendant is more likely than not unable to understand the proceedings or assist counsel. Sufficient doubt triggering a competency hearing is distinct from the ultimate determination of incompetence.
 - **Stone’s Reasoning:** History permits some state allocation of the competency burden, but the Constitution does not permit trial of a person unable to participate in the defense. The clear-and-convincing requirement places the decisive risk of error on the person least able to correct it and permits adjudication despite serious unresolved doubt. The State’s administrative interest cannot justify that asymmetrical risk.
 - **Stone’s Operative Limit:** The holding prescribes neither one hearing format nor a permanent incompetency finding and leaves lawful treatment, restoration, periodic reassessment, and retrial after competence to ordinary procedures.
 
@@ -170,7 +176,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 - **Historical Holding / Rule:** The clear-and-convincing burden created an unacceptable risk of trying an incompetent defendant; a State may place a preponderance burden on the defendant but not the higher burden.
 - **Historical Marks Status:** Only the actual historical component and joining pattern in the official report define its historical precedential scope; no historical component is entering simulated law.
 
-**Official source:** [517 U.S. 348](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-348.pdf); [local source PDF](audit/official_sources/USREPORTS-517-348.pdf). Historical same-matter reasoning remains in this section only.
+**Official source:** [517 U.S. 348](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-348.pdf); [local source PDF](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-348.pdf). Historical same-matter reasoning remains in this section only.
 
 ## OT1995-055 — Markman v. Westview Instruments, Inc.
 
@@ -209,11 +215,11 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 #### Law entering this event
 
-**Effective baseline:** The coordinated October 1, 2026 Holdings, Standards and Tests, and Standing State close OT1994 through June 29, 1995, after all 99 inventory Court events and two admitted source events, at repository commit 87e62b7612c15409039d524fd66f743d0ad75e2a. They carry forward the completed OT1991–OT1993 law. No completed OT1995 decision is supplied at this opening. Only an actual validated decision effective before this event may supplement that baseline; prepared positions and file order create no law.
+**Effective baseline:** The coordinated October 1, 2026 Holdings, Standards and Tests, and Standing State close OT1994 through June 29, 1995, after all 99 inventory Court events and two admitted source events, at repository commit 87e62b7612c15409039d524fd66f743d0ad75e2a. They carry forward the completed OT1991–OT1993 law. Completed OT1995 decisions through March 18, 1996 supplement that opening state; consult the [current neutral projection](../workspace/neutral-projection.md) and its linked public decision records. Apply each proposition only within its actual controlling scope. Only an actual validated decision effective before this event may supplement that baseline; prepared positions and file order create no law.
 
 **Authority and scope:** Apply actual simulated rules within their stated support and limits. Pre-divergence law remains available where not displaced. Stone's separate positions and post-divergence historical decisions do not become Court law by preparation.
 
-**Source reading:** [Current matter-specific public Holdings and Standards](inherited/readings/OT1995-055.md).
+**Source reading:** [Current matter-specific public Holdings and Standards](../workspace/neutral-projection.md).
 
 **Same-term continuity:** Carry actual earlier effective OT1995 law across chunk boundaries. Same-day file order and proposed dispositions create no dependency.
 
@@ -221,10 +227,10 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 #### Governing source key
 
-* **S1:** [Coordinated Holdings](assessment/sources/HOLDINGS.md), pinned source described in the [load manifest](OT_1995_LOAD_MANIFEST.md).
-* **S2:** [Coordinated Standards and Tests](assessment/sources/STANDARDS_AND_TESTS.md), closing OT1994 through June 29, 1995, with the matter-specific current public-law reading.
-* **S3:** [Standing State](assessment/repository/state/STANDING_STATE.md) and [Composition](inherited/COURT_COMPOSITION.md), including the August 3, 1994 circuit allotment and full-Court application practice.
-* **U1:** The reconciled [100-event calendar](OT_1995_CASE_INDEX.md); provenance and controlling source selections are retained in the [audit manifest](OT_1995_AUDIT_MANIFEST.md).
+* **S1:** [Coordinated Holdings](../../../state/HOLDINGS.md), pinned source described in the [load manifest](../workspace/manifest.md).
+* **S2:** [Coordinated Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), closing OT1994 through June 29, 1995, with the matter-specific current public-law reading.
+* **S3:** [Standing State](../../../state/STANDING_STATE.md) and [Composition](../../../foundation/COURT_COMPOSITION.md), including the August 3, 1994 circuit allotment and full-Court application practice.
+* **U1:** The reconciled [term-wide inventory](../case-list.md); provenance and controlling source selections are retained in the [audit manifest](../workspace/CHUNKS5_10_PREPARATION_REVIEW.md).
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -247,7 +253,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 - **Historical Holding / Rule:** Judges construe patent claims; juries decide infringement and disputed historical facts within the construed claims.
 - **Historical Marks Status:** Only the actual historical component and joining pattern in the official report define its historical precedential scope; no historical component is entering simulated law.
 
-**Official source:** [517 U.S. 370](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-370.pdf); [local source PDF](audit/official_sources/USREPORTS-517-370.pdf). Historical same-matter reasoning remains in this section only.
+**Official source:** [517 U.S. 370](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-370.pdf); [local source PDF](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-370.pdf). Historical same-matter reasoning remains in this section only.
 
 ## OT1995-056 — Holly Farms Corp. v. NLRB
 
@@ -286,11 +292,11 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 #### Law entering this event
 
-**Effective baseline:** The coordinated October 1, 2026 Holdings, Standards and Tests, and Standing State close OT1994 through June 29, 1995, after all 99 inventory Court events and two admitted source events, at repository commit 87e62b7612c15409039d524fd66f743d0ad75e2a. They carry forward the completed OT1991–OT1993 law. No completed OT1995 decision is supplied at this opening. Only an actual validated decision effective before this event may supplement that baseline; prepared positions and file order create no law.
+**Effective baseline:** The coordinated October 1, 2026 Holdings, Standards and Tests, and Standing State close OT1994 through June 29, 1995, after all 99 inventory Court events and two admitted source events, at repository commit 87e62b7612c15409039d524fd66f743d0ad75e2a. They carry forward the completed OT1991–OT1993 law. Completed OT1995 decisions through March 18, 1996 supplement that opening state; consult the [current neutral projection](../workspace/neutral-projection.md) and its linked public decision records. Apply each proposition only within its actual controlling scope. Only an actual validated decision effective before this event may supplement that baseline; prepared positions and file order create no law.
 
 **Authority and scope:** Apply actual simulated rules within their stated support and limits. Pre-divergence law remains available where not displaced. Stone's separate positions and post-divergence historical decisions do not become Court law by preparation.
 
-**Source reading:** [Current matter-specific public Holdings and Standards](inherited/readings/OT1995-056.md).
+**Source reading:** [Current matter-specific public Holdings and Standards](../workspace/neutral-projection.md).
 
 **Same-term continuity:** Carry actual earlier effective OT1995 law across chunk boundaries. Same-day file order and proposed dispositions create no dependency.
 
@@ -314,10 +320,10 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 #### Governing source key
 
-* **S1:** [Coordinated Holdings](assessment/sources/HOLDINGS.md), pinned source described in the [load manifest](OT_1995_LOAD_MANIFEST.md).
-* **S2:** [Coordinated Standards and Tests](assessment/sources/STANDARDS_AND_TESTS.md), closing OT1994 through June 29, 1995, with the matter-specific current public-law reading.
-* **S3:** [Standing State](assessment/repository/state/STANDING_STATE.md) and [Composition](inherited/COURT_COMPOSITION.md), including the August 3, 1994 circuit allotment and full-Court application practice.
-* **U1:** The reconciled [100-event calendar](OT_1995_CASE_INDEX.md); provenance and controlling source selections are retained in the [audit manifest](OT_1995_AUDIT_MANIFEST.md).
+* **S1:** [Coordinated Holdings](../../../state/HOLDINGS.md), pinned source described in the [load manifest](../workspace/manifest.md).
+* **S2:** [Coordinated Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), closing OT1994 through June 29, 1995, with the matter-specific current public-law reading.
+* **S3:** [Standing State](../../../state/STANDING_STATE.md) and [Composition](../../../foundation/COURT_COMPOSITION.md), including the August 3, 1994 circuit allotment and full-Court application practice.
+* **U1:** The reconciled [term-wide inventory](../case-list.md); provenance and controlling source selections are retained in the [audit manifest](../workspace/CHUNKS5_10_PREPARATION_REVIEW.md).
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -340,7 +346,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 - **Historical Holding / Rule:** The workers were not exempt agricultural laborers because their work was performed for the processor and was incident to processing, not farming.
 - **Historical Marks Status:** Only the actual historical component and joining pattern in the official report define its historical precedential scope; no historical component is entering simulated law.
 
-**Official source:** [517 U.S. 392](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-392.pdf); [local source PDF](audit/official_sources/USREPORTS-517-392.pdf). Historical same-matter reasoning remains in this section only.
+**Official source:** [517 U.S. 392](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-392.pdf); [local source PDF](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-392.pdf). Historical same-matter reasoning remains in this section only.
 
 ## OT1995-057 — Carlisle v. United States
 
@@ -396,7 +402,7 @@ Federal Rules of Criminal Procedure 29(a)–(c), 45(b), 2, and 57 in the applica
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
 * **Lawful Paths and Consequences:** A timely motion or authorized reservation could support acquittal. Absent both, and over the preserved timeliness objection, the Court must decide whether another Rule-based route, inherent power, coram nobis or due process nonetheless supports the acquittal or the verdict is reinstated; alternative channels retain their own prerequisites.
-* **Material Uncertainty:** Questions are source-grounded paraphrases rather than represented as verbatim petition text. Facts not established by the cited record remain unproved. No completed earlier OT1995 Court decision beyond the uploaded baseline has been supplied for incorporation; revalidation is required before adjudication.
+* **Material Uncertainty:** Questions are source-grounded paraphrases rather than represented as verbatim petition text. Facts not established by the cited record remain unproved. Completed earlier OT1995 decisions are available in the current neutral projection and linked records; refresh any additional effective decisions before adjudication.
 
 #### E. SOURCES
 
@@ -404,11 +410,11 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 #### Law entering this event
 
-**Effective baseline:** The coordinated October 1, 2026 Holdings, Standards and Tests, and Standing State close OT1994 through June 29, 1995, after all 99 inventory Court events and two admitted source events, at repository commit 87e62b7612c15409039d524fd66f743d0ad75e2a. They carry forward the completed OT1991–OT1993 law. No completed OT1995 decision is supplied at this opening. Only an actual validated decision effective before this event may supplement that baseline; prepared positions and file order create no law.
+**Effective baseline:** The coordinated October 1, 2026 Holdings, Standards and Tests, and Standing State close OT1994 through June 29, 1995, after all 99 inventory Court events and two admitted source events, at repository commit 87e62b7612c15409039d524fd66f743d0ad75e2a. They carry forward the completed OT1991–OT1993 law. Completed OT1995 decisions through March 18, 1996 supplement that opening state; consult the [current neutral projection](../workspace/neutral-projection.md) and its linked public decision records. Apply each proposition only within its actual controlling scope. Only an actual validated decision effective before this event may supplement that baseline; prepared positions and file order create no law.
 
 **Authority and scope:** Apply actual simulated rules within their stated support and limits. Pre-divergence law remains available where not displaced. Stone's separate positions and post-divergence historical decisions do not become Court law by preparation.
 
-**Source reading:** [Current matter-specific public Holdings and Standards](inherited/readings/OT1995-057.md).
+**Source reading:** [Current matter-specific public Holdings and Standards](../workspace/neutral-projection.md).
 
 **Same-term continuity:** Carry actual earlier effective OT1995 law across chunk boundaries. Same-day file order and proposed dispositions create no dependency.
 
@@ -423,10 +429,10 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 #### Governing source key
 
-* **S1:** [Coordinated Holdings](assessment/sources/HOLDINGS.md), pinned source described in the [load manifest](OT_1995_LOAD_MANIFEST.md).
-* **S2:** [Coordinated Standards and Tests](assessment/sources/STANDARDS_AND_TESTS.md), closing OT1994 through June 29, 1995, with the matter-specific current public-law reading.
-* **S3:** [Standing State](assessment/repository/state/STANDING_STATE.md) and [Composition](inherited/COURT_COMPOSITION.md), including the August 3, 1994 circuit allotment and full-Court application practice.
-* **U1:** The reconciled [100-event calendar](OT_1995_CASE_INDEX.md); provenance and controlling source selections are retained in the [audit manifest](OT_1995_AUDIT_MANIFEST.md).
+* **S1:** [Coordinated Holdings](../../../state/HOLDINGS.md), pinned source described in the [load manifest](../workspace/manifest.md).
+* **S2:** [Coordinated Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), closing OT1994 through June 29, 1995, with the matter-specific current public-law reading.
+* **S3:** [Standing State](../../../state/STANDING_STATE.md) and [Composition](../../../foundation/COURT_COMPOSITION.md), including the August 3, 1994 circuit allotment and full-Court application practice.
+* **U1:** The reconciled [term-wide inventory](../case-list.md); provenance and controlling source selections are retained in the [audit manifest](../workspace/CHUNKS5_10_PREPARATION_REVIEW.md).
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -460,14 +466,14 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 #### SOURCE KEY FOR THIS SUPPLEMENT
 
-* **P1:** [Published Supreme Court opinion, 517 U.S. 416; actual filing dates, objection, Rules, and alternative authority](https://supreme.justia.com/cases/federal/us/517/416/).
+* **P1:** The lower-court record and party materials identified in Section I. This reference supplies only their supported facts, posture and arguments; any remaining source gap stays explicit. The same-matter historical Supreme Court opinion is not a Section II authority.
 
 **Current-law and approval boundary:** Section I and its source reading govern statements of existing law. The legal answers and remedies stated here remain individual positions at their recorded approval status. The documented standing fallback addresses only a genuinely unaddressed component within its authorized scope; it neither approves an unapproved proposal nor overrides an expressed position or cures an unresolved review channel.
 
-* **S1:** [Coordinated Holdings](assessment/sources/HOLDINGS.md), pinned source described in the [load manifest](OT_1995_LOAD_MANIFEST.md).
-* **S2:** [Coordinated Standards and Tests](assessment/sources/STANDARDS_AND_TESTS.md), closing OT1994 through June 29, 1995, with the matter-specific current public-law reading.
-* **S3:** [Standing State](assessment/repository/state/STANDING_STATE.md) and [Composition](inherited/COURT_COMPOSITION.md), including the August 3, 1994 circuit allotment and full-Court application practice.
-* **U1:** The reconciled [100-event calendar](OT_1995_CASE_INDEX.md); provenance and controlling source selections are retained in the [audit manifest](OT_1995_AUDIT_MANIFEST.md).
+* **S1:** [Coordinated Holdings](../../../state/HOLDINGS.md), pinned source described in the [load manifest](../workspace/manifest.md).
+* **S2:** [Coordinated Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), closing OT1994 through June 29, 1995, with the matter-specific current public-law reading.
+* **S3:** [Standing State](../../../state/STANDING_STATE.md) and [Composition](../../../foundation/COURT_COMPOSITION.md), including the August 3, 1994 circuit allotment and full-Court application practice.
+* **U1:** The reconciled [term-wide inventory](../case-list.md); provenance and controlling source selections are retained in the [audit manifest](../workspace/CHUNKS5_10_PREPARATION_REVIEW.md).
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -482,12 +488,12 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 * **P1:** [Published Supreme Court opinion, 517 U.S. 416; actual filing dates, objection, Rules, and alternative authority](https://supreme.justia.com/cases/federal/us/517/416/).
 
-**Official source:** [517 U.S. 416](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-416.pdf); [local source PDF](audit/official_sources/USREPORTS-517-416.pdf). Historical same-matter reasoning remains in this section only.
+**Official source:** [517 U.S. 416](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-416.pdf); [local source PDF](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-416.pdf). Historical same-matter reasoning remains in this section only.
 
-* **S1:** [Coordinated Holdings](inherited/HOLDINGS.md), pinned source described in the [load manifest](OT_1995_LOAD_MANIFEST.md).
-* **S2:** [Coordinated Standards and Tests](inherited/STANDARDS_AND_TESTS.md), together with the completed OT1994 record supplements identified in this matter’s inherited-law reading.
-* **S3:** [Standing State](inherited/STANDING_STATE.md) and [Composition](inherited/COURT_COMPOSITION.md), including the August 3, 1994 circuit allotment and full-Court application practice.
-* **U1:** The reconciled [100-event calendar](OT_1995_CASE_INDEX.md); provenance and controlling source selections are retained in the [audit manifest](OT_1995_AUDIT_MANIFEST.md).
+* **S1:** [Coordinated Holdings](../../../state/HOLDINGS.md), pinned source described in the [load manifest](../workspace/manifest.md).
+* **S2:** [Coordinated Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), together with the completed OT1994 record supplements identified in this matter’s inherited-law reading.
+* **S3:** [Standing State](../../../state/STANDING_STATE.md) and [Composition](../../../foundation/COURT_COMPOSITION.md), including the August 3, 1994 circuit allotment and full-Court application practice.
+* **U1:** The reconciled [term-wide inventory](../case-list.md); provenance and controlling source selections are retained in the [audit manifest](../workspace/CHUNKS5_10_PREPARATION_REVIEW.md).
 
 ## OT1995-109 — Sheets v. Salt Lake County
 
@@ -516,13 +522,13 @@ Assigned §1254(1) review in a §1983 damages action after trial. The controlled
 
 #### Entering simulated law and application boundaries
 
-The coordinated Holdings, Standards and Tests, and Standing State close OT1994 through June 29, 1995, at commit 87e62b7612c15409039d524fd66f743d0ad75e2a. They carry forward completed OT1991–OT1993 law. No completed OT1995 decision is supplied at this opening. Only an actual validated decision effective before this event may supplement that baseline. Preparation, historical outcomes and file order create no law.
+The coordinated Holdings, Standards and Tests, and Standing State close OT1994 through June 29, 1995, at commit 87e62b7612c15409039d524fd66f743d0ad75e2a. They carry forward completed OT1991–OT1993 law. Completed OT1995 decisions through March 18, 1996 supplement that opening state; consult the [current neutral projection](../workspace/neutral-projection.md) and its linked public decision records. Apply each proposition only within its actual controlling scope. Only an actual validated decision effective before this event may supplement that baseline. Preparation, historical outcomes and file order create no law.
 
 Whalen and Nixon recognize the relevant confidentiality interest while permitting legitimate governmental recordkeeping under appropriate protections; they do not already establish every rule of disclosure liability. Paul v. Davis's rejection of a reputation-only claim does not automatically answer exposure of intimate information. Simulated Albright has no majority rationale imposing a universal specific-source displacement or tangible-loss requirement. Simulated Elder governs any properly preserved immunity question without using later recognition to manufacture earlier notice. Simulated Oberg's punitive-damages rule is not a rule for this compensatory award.
 
 **Relevant precedent in appellate qualified-immunity review.** Whether a federal right was clearly established when officials acted is reviewed independently using all relevant precedent, including cases neither cited to nor discovered by the district court. This does not admit a new claim or factual record, make each considered precedent controlling or permit later decisions to supply notice retrospectively. The notice inquiry stays fixed to the conduct date. Ordinary claim and evidence preservation, particularized objective immunity and proper summary-judgment treatment remain distinct; no mandatory merits-first sequence follows.
 
-The [matter-specific public-law extracts](inherited/readings/OT1995-109.md) preserve the complete cited holding components, qualifications and source links. Pre-divergence authority remains available where not displaced; post-divergence historical Supreme Court opinions do not become governing law by citation in a lower opinion.
+The [current neutral projection](../workspace/neutral-projection.md) links the effective current-term decisions. The matter-specific inherited holdings reproduced here retain their qualifications and source links; fresh entering-law slices must be generated before modeling. Pre-divergence authority remains available where not displaced; post-divergence historical Supreme Court opinions do not become governing law by citation in a lower opinion.
 
 #### Effective-date and record checks
 
@@ -532,7 +538,7 @@ The assigned question and existing record support merits preparation. Ordinary p
 
 #### Sources
 
-Record and review posture: [45 F.3d 1383 (10th Cir. 1995)](https://law.resource.org/pub/us/case/reporter/F3/045/45.F3d.1383.93-4134.93-4128.html). Governing simulated law: [coordinated Holdings](assessment/sources/HOLDINGS.md), [Standards and Tests](assessment/sources/STANDARDS_AND_TESTS.md), and [Standing State](assessment/repository/state/STANDING_STATE.md). The lower court’s ultimate outcome and same-matter historical reasoning belong in Section III.
+Record and review posture: [45 F.3d 1383 (10th Cir. 1995)](https://law.resource.org/pub/us/case/reporter/F3/045/45.F3d.1383.93-4134.93-4128.html). Governing simulated law: [coordinated Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), and [Standing State](../../../state/STANDING_STATE.md). The lower court’s ultimate outcome and same-matter historical reasoning belong in Section III.
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -593,11 +599,11 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 #### Law entering this event
 
-**Effective baseline:** The coordinated October 1, 2026 Holdings, Standards and Tests, and Standing State close OT1994 through June 29, 1995, after all 99 inventory Court events and two admitted source events, at repository commit 87e62b7612c15409039d524fd66f743d0ad75e2a. They carry forward the completed OT1991–OT1993 law. No completed OT1995 decision is supplied at this opening. Only an actual validated decision effective before this event may supplement that baseline; prepared positions and file order create no law.
+**Effective baseline:** The coordinated October 1, 2026 Holdings, Standards and Tests, and Standing State close OT1994 through June 29, 1995, after all 99 inventory Court events and two admitted source events, at repository commit 87e62b7612c15409039d524fd66f743d0ad75e2a. They carry forward the completed OT1991–OT1993 law. Completed OT1995 decisions through March 18, 1996 supplement that opening state; consult the [current neutral projection](../workspace/neutral-projection.md) and its linked public decision records. Apply each proposition only within its actual controlling scope. Only an actual validated decision effective before this event may supplement that baseline; prepared positions and file order create no law.
 
 **Authority and scope:** Apply actual simulated rules within their stated support and limits. Pre-divergence law remains available where not displaced. Stone's separate positions and post-divergence historical decisions do not become Court law by preparation.
 
-**Source reading:** [Current matter-specific public Holdings and Standards](inherited/readings/OT1995-058.md).
+**Source reading:** [Current matter-specific public Holdings and Standards](../workspace/neutral-projection.md).
 
 **Same-term continuity:** Carry actual earlier effective OT1995 law across chunk boundaries. Same-day file order and proposed dispositions create no dependency.
 
@@ -631,10 +637,10 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 #### Governing source key
 
-* **S1:** [Coordinated Holdings](assessment/sources/HOLDINGS.md), pinned source described in the [load manifest](OT_1995_LOAD_MANIFEST.md).
-* **S2:** [Coordinated Standards and Tests](assessment/sources/STANDARDS_AND_TESTS.md), closing OT1994 through June 29, 1995, with the matter-specific current public-law reading.
-* **S3:** [Standing State](assessment/repository/state/STANDING_STATE.md) and [Composition](inherited/COURT_COMPOSITION.md), including the August 3, 1994 circuit allotment and full-Court application practice.
-* **U1:** The reconciled [100-event calendar](OT_1995_CASE_INDEX.md); provenance and controlling source selections are retained in the [audit manifest](OT_1995_AUDIT_MANIFEST.md).
+* **S1:** [Coordinated Holdings](../../../state/HOLDINGS.md), pinned source described in the [load manifest](../workspace/manifest.md).
+* **S2:** [Coordinated Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), closing OT1994 through June 29, 1995, with the matter-specific current public-law reading.
+* **S3:** [Standing State](../../../state/STANDING_STATE.md) and [Composition](../../../foundation/COURT_COMPOSITION.md), including the August 3, 1994 circuit allotment and full-Court application practice.
+* **U1:** The reconciled [term-wide inventory](../case-list.md); provenance and controlling source selections are retained in the [audit manifest](../workspace/CHUNKS5_10_PREPARATION_REVIEW.md).
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -644,11 +650,11 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 **Stone’s reasoning and application:** Simulated Kimberlin rejects a categorical demand for direct evidence of unconstitutional motive, but it does not erase discriminatory effect, similarly situated comparison or the protection of prosecutorial decisionmaking. Twenty-four Black defendants in a defender sample describe those prosecuted, not comparable non-Black offenders eligible for prosecution who were treated differently. Stone seeks a practicable route to evidence rather than an impossible demand for information held exclusively by the Government. Reliable jurisdiction-specific data, concrete indications of comparably eligible offenders and a reason the missing information lies with the prosecutor can justify narrowly staged production. Race alone in a selected sample cannot supply the denominator or prove discriminatory purpose.
 
-**Mechanism and remedy:** On remand, require the defendants to identify the relevant offenses, eligibility factors, geography, time period, comparison basis and circumstantial purpose evidence. Address any specifically justified alternative proof where names cannot reasonably be obtained. If that threshold is met, begin with limited comparable data or interrogatories, with appropriate redaction, privilege review and protective orders; expand only if the response justifies it. Restore ordinary prosecution unless lawful new proceedings justify another remedy. Do not affirm a punitive dismissal for refusal to obey a discovery order that never met the proper threshold.
+**Mechanism and remedy:** On remand, assess the proposed comparison in its actual offense, eligibility, place and time context, together with the available evidence of discriminatory purpose. These are considerations bearing on reliability, not a mandatory checklist or a demand for every listed form of proof. Accept a specifically justified alternative evidentiary basis where comparator names cannot reasonably be obtained. If that threshold is met, begin with limited comparable data or interrogatories, with appropriate redaction, privilege review and protective orders; expand only if the response justifies it. Restore ordinary prosecution unless lawful new proceedings justify another remedy. Do not affirm a punitive dismissal for refusal to obey a discovery order that never met the proper threshold.
 
 **Limits:** The stated discovery threshold is Stone’s proposed development, not an already compelled Kimberlin result. It establishes neither discriminatory prosecution, automatic discovery nor entitlement to acquittal.
 
-**Sources and temporal limits:** Use this matter's Section I record and [current public-law reading](inherited/readings/OT1995-058.md), with the [updated Master Jurisprudence](assessment/sources/MASTER_JURISPRUDENCE.md) and applicable character roadmap as proposed reasoning only. [Public judicial record](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-456.pdf) supplies facts, posture and argument; the same-matter historical outcome remains in Section III. These are individual legal positions. Only an effective validated simulated decision supplies governing law.
+**Sources and temporal limits:** Use this matter's Section I record and [current public-law reading](../workspace/neutral-projection.md), with the [updated Master Jurisprudence](../../../stone/MASTER_JURISPRUDENCE.md) and applicable character roadmap as proposed reasoning only. The lower-court opinions and party materials identified in Section I supply the record, posture and arguments; the same-matter historical Supreme Court decision remains in Section III. These are individual legal positions. Only an effective validated simulated decision supplies governing law.
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -657,7 +663,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 - **Historical Holding / Rule:** Historical doctrine required some evidence of discriminatory effect and intent, ordinarily including similarly situated persons of another race who were not federally prosecuted.
 - **Historical Marks Status:** Only the actual historical component and joining pattern in the official report define its historical precedential scope; no historical component is entering simulated law.
 
-**Official source:** [517 U.S. 456](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-456.pdf); [local source PDF](audit/official_sources/USREPORTS-517-456.pdf). Historical same-matter reasoning remains in this section only.
+**Official source:** [517 U.S. 456](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-456.pdf); [local source PDF](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-456.pdf). Historical same-matter reasoning remains in this section only.
 
 ## OT1995-059 — 44 Liquormart, Inc. v. Rhode Island
 
@@ -696,11 +702,11 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 #### Law entering this event
 
-**Effective baseline:** The coordinated October 1, 2026 Holdings, Standards and Tests, and Standing State close OT1994 through June 29, 1995, after all 99 inventory Court events and two admitted source events, at repository commit 87e62b7612c15409039d524fd66f743d0ad75e2a. They carry forward the completed OT1991–OT1993 law. No completed OT1995 decision is supplied at this opening. Only an actual validated decision effective before this event may supplement that baseline; prepared positions and file order create no law.
+**Effective baseline:** The coordinated October 1, 2026 Holdings, Standards and Tests, and Standing State close OT1994 through June 29, 1995, after all 99 inventory Court events and two admitted source events, at repository commit 87e62b7612c15409039d524fd66f743d0ad75e2a. They carry forward the completed OT1991–OT1993 law. Completed OT1995 decisions through March 18, 1996 supplement that opening state; consult the [current neutral projection](../workspace/neutral-projection.md) and its linked public decision records. Apply each proposition only within its actual controlling scope. Only an actual validated decision effective before this event may supplement that baseline; prepared positions and file order create no law.
 
 **Authority and scope:** Apply actual simulated rules within their stated support and limits. Pre-divergence law remains available where not displaced. Stone's separate positions and post-divergence historical decisions do not become Court law by preparation.
 
-**Source reading:** [Current matter-specific public Holdings and Standards](inherited/readings/OT1995-059.md).
+**Source reading:** [Current matter-specific public Holdings and Standards](../workspace/neutral-projection.md).
 
 **Same-term continuity:** Carry actual earlier effective OT1995 law across chunk boundaries. Same-day file order and proposed dispositions create no dependency.
 
@@ -748,10 +754,10 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 #### Governing source key
 
-* **S1:** [Coordinated Holdings](assessment/sources/HOLDINGS.md), pinned source described in the [load manifest](OT_1995_LOAD_MANIFEST.md).
-* **S2:** [Coordinated Standards and Tests](assessment/sources/STANDARDS_AND_TESTS.md), closing OT1994 through June 29, 1995, with the matter-specific current public-law reading.
-* **S3:** [Standing State](assessment/repository/state/STANDING_STATE.md) and [Composition](inherited/COURT_COMPOSITION.md), including the August 3, 1994 circuit allotment and full-Court application practice.
-* **U1:** The reconciled [100-event calendar](OT_1995_CASE_INDEX.md); provenance and controlling source selections are retained in the [audit manifest](OT_1995_AUDIT_MANIFEST.md).
+* **S1:** [Coordinated Holdings](../../../state/HOLDINGS.md), pinned source described in the [load manifest](../workspace/manifest.md).
+* **S2:** [Coordinated Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), closing OT1994 through June 29, 1995, with the matter-specific current public-law reading.
+* **S3:** [Standing State](../../../state/STANDING_STATE.md) and [Composition](../../../foundation/COURT_COMPOSITION.md), including the August 3, 1994 circuit allotment and full-Court application practice.
+* **U1:** The reconciled [term-wide inventory](../case-list.md); provenance and controlling source selections are retained in the [audit manifest](../workspace/CHUNKS5_10_PREPARATION_REVIEW.md).
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -774,7 +780,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 - **Historical Holding / Rule:** The ban failed commercial-speech review because the State did not show that suppressing truthful price information materially advanced temperance through an appropriately fitted means.
 - **Historical Marks Status:** Only the actual historical component and joining pattern in the official report define its historical precedential scope; no historical component is entering simulated law.
 
-**Official source:** [517 U.S. 484](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-484.pdf); [local source PDF](audit/official_sources/USREPORTS-517-484.pdf). Historical same-matter reasoning remains in this section only.
+**Official source:** [517 U.S. 484](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-484.pdf); [local source PDF](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-484.pdf). Historical same-matter reasoning remains in this section only.
 
 ## OT1995-060 — United States v. Noland
 
@@ -813,11 +819,11 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 #### Law entering this event
 
-**Effective baseline:** The coordinated October 1, 2026 Holdings, Standards and Tests, and Standing State close OT1994 through June 29, 1995, after all 99 inventory Court events and two admitted source events, at repository commit 87e62b7612c15409039d524fd66f743d0ad75e2a. They carry forward the completed OT1991–OT1993 law. No completed OT1995 decision is supplied at this opening. Only an actual validated decision effective before this event may supplement that baseline; prepared positions and file order create no law.
+**Effective baseline:** The coordinated October 1, 2026 Holdings, Standards and Tests, and Standing State close OT1994 through June 29, 1995, after all 99 inventory Court events and two admitted source events, at repository commit 87e62b7612c15409039d524fd66f743d0ad75e2a. They carry forward the completed OT1991–OT1993 law. Completed OT1995 decisions through March 18, 1996 supplement that opening state; consult the [current neutral projection](../workspace/neutral-projection.md) and its linked public decision records. Apply each proposition only within its actual controlling scope. Only an actual validated decision effective before this event may supplement that baseline; prepared positions and file order create no law.
 
 **Authority and scope:** Apply actual simulated rules within their stated support and limits. Pre-divergence law remains available where not displaced. Stone's separate positions and post-divergence historical decisions do not become Court law by preparation.
 
-**Source reading:** [Current matter-specific public Holdings and Standards](inherited/readings/OT1995-060.md).
+**Source reading:** [Current matter-specific public Holdings and Standards](../workspace/neutral-projection.md).
 
 **Same-term continuity:** Carry actual earlier effective OT1995 law across chunk boundaries. Same-day file order and proposed dispositions create no dependency.
 
@@ -833,10 +839,10 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 #### Governing source key
 
-* **S1:** [Coordinated Holdings](assessment/sources/HOLDINGS.md), pinned source described in the [load manifest](OT_1995_LOAD_MANIFEST.md).
-* **S2:** [Coordinated Standards and Tests](assessment/sources/STANDARDS_AND_TESTS.md), closing OT1994 through June 29, 1995, with the matter-specific current public-law reading.
-* **S3:** [Standing State](assessment/repository/state/STANDING_STATE.md) and [Composition](inherited/COURT_COMPOSITION.md), including the August 3, 1994 circuit allotment and full-Court application practice.
-* **U1:** The reconciled [100-event calendar](OT_1995_CASE_INDEX.md); provenance and controlling source selections are retained in the [audit manifest](OT_1995_AUDIT_MANIFEST.md).
+* **S1:** [Coordinated Holdings](../../../state/HOLDINGS.md), pinned source described in the [load manifest](../workspace/manifest.md).
+* **S2:** [Coordinated Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), closing OT1994 through June 29, 1995, with the matter-specific current public-law reading.
+* **S3:** [Standing State](../../../state/STANDING_STATE.md) and [Composition](../../../foundation/COURT_COMPOSITION.md), including the August 3, 1994 circuit allotment and full-Court application practice.
+* **U1:** The reconciled [term-wide inventory](../case-list.md); provenance and controlling source selections are retained in the [audit manifest](../workspace/CHUNKS5_10_PREPARATION_REVIEW.md).
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -859,7 +865,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 - **Historical Holding / Rule:** A bankruptcy court may not use equitable subordination to create a categorical priority rule that Congress declined to enact.
 - **Historical Marks Status:** Only the actual historical component and joining pattern in the official report define its historical precedential scope; no historical component is entering simulated law.
 
-**Official source:** [517 U.S. 535](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-535.pdf); [local source PDF](audit/official_sources/USREPORTS-517-535.pdf). Historical same-matter reasoning remains in this section only.
+**Official source:** [517 U.S. 535](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-535.pdf); [local source PDF](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-535.pdf). Historical same-matter reasoning remains in this section only.
 
 ## OT1995-061 — United Food & Commercial Workers Union Local 751 v. Brown Group, Inc.
 
@@ -898,11 +904,11 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 #### Law entering this event
 
-**Effective baseline:** The coordinated October 1, 2026 Holdings, Standards and Tests, and Standing State close OT1994 through June 29, 1995, after all 99 inventory Court events and two admitted source events, at repository commit 87e62b7612c15409039d524fd66f743d0ad75e2a. They carry forward the completed OT1991–OT1993 law. No completed OT1995 decision is supplied at this opening. Only an actual validated decision effective before this event may supplement that baseline; prepared positions and file order create no law.
+**Effective baseline:** The coordinated October 1, 2026 Holdings, Standards and Tests, and Standing State close OT1994 through June 29, 1995, after all 99 inventory Court events and two admitted source events, at repository commit 87e62b7612c15409039d524fd66f743d0ad75e2a. They carry forward the completed OT1991–OT1993 law. Completed OT1995 decisions through March 18, 1996 supplement that opening state; consult the [current neutral projection](../workspace/neutral-projection.md) and its linked public decision records. Apply each proposition only within its actual controlling scope. Only an actual validated decision effective before this event may supplement that baseline; prepared positions and file order create no law.
 
 **Authority and scope:** Apply actual simulated rules within their stated support and limits. Pre-divergence law remains available where not displaced. Stone's separate positions and post-divergence historical decisions do not become Court law by preparation.
 
-**Source reading:** [Current matter-specific public Holdings and Standards](inherited/readings/OT1995-061.md).
+**Source reading:** [Current matter-specific public Holdings and Standards](../workspace/neutral-projection.md).
 
 **Same-term continuity:** Carry actual earlier effective OT1995 law across chunk boundaries. Same-day file order and proposed dispositions create no dependency.
 
@@ -964,10 +970,10 @@ Distinct section 11 civil and criminal channels retain their own conditions, inc
 
 #### Governing source key
 
-* **S1:** [Coordinated Holdings](assessment/sources/HOLDINGS.md), pinned source described in the [load manifest](OT_1995_LOAD_MANIFEST.md).
-* **S2:** [Coordinated Standards and Tests](assessment/sources/STANDARDS_AND_TESTS.md), closing OT1994 through June 29, 1995, with the matter-specific current public-law reading.
-* **S3:** [Standing State](assessment/repository/state/STANDING_STATE.md) and [Composition](inherited/COURT_COMPOSITION.md), including the August 3, 1994 circuit allotment and full-Court application practice.
-* **U1:** The reconciled [100-event calendar](OT_1995_CASE_INDEX.md); provenance and controlling source selections are retained in the [audit manifest](OT_1995_AUDIT_MANIFEST.md).
+* **S1:** [Coordinated Holdings](../../../state/HOLDINGS.md), pinned source described in the [load manifest](../workspace/manifest.md).
+* **S2:** [Coordinated Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), closing OT1994 through June 29, 1995, with the matter-specific current public-law reading.
+* **S3:** [Standing State](../../../state/STANDING_STATE.md) and [Composition](../../../foundation/COURT_COMPOSITION.md), including the August 3, 1994 circuit allotment and full-Court application practice.
+* **U1:** The reconciled [term-wide inventory](../case-list.md); provenance and controlling source selections are retained in the [audit manifest](../workspace/CHUNKS5_10_PREPARATION_REVIEW.md).
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -990,7 +996,7 @@ Distinct section 11 civil and criminal channels retain their own conditions, inc
 - **Historical Holding / Rule:** Hunt’s individual-participation prong is prudential, not Article III, and Congress may authorize the union to sue for member damages.
 - **Historical Marks Status:** Only the actual historical component and joining pattern in the official report define its historical precedential scope; no historical component is entering simulated law.
 
-**Official source:** [517 U.S. 544](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-544.pdf); [local source PDF](audit/official_sources/USREPORTS-517-544.pdf). Historical same-matter reasoning remains in this section only.
+**Official source:** [517 U.S. 544](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-544.pdf); [local source PDF](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-544.pdf). Historical same-matter reasoning remains in this section only.
 
 ## OT1995-062 — BMW of North America, Inc. v. Gore
 
@@ -1029,11 +1035,11 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 #### Law entering this event
 
-**Effective baseline:** The coordinated October 1, 2026 Holdings, Standards and Tests, and Standing State close OT1994 through June 29, 1995, after all 99 inventory Court events and two admitted source events, at repository commit 87e62b7612c15409039d524fd66f743d0ad75e2a. They carry forward the completed OT1991–OT1993 law. No completed OT1995 decision is supplied at this opening. Only an actual validated decision effective before this event may supplement that baseline; prepared positions and file order create no law.
+**Effective baseline:** The coordinated October 1, 2026 Holdings, Standards and Tests, and Standing State close OT1994 through June 29, 1995, after all 99 inventory Court events and two admitted source events, at repository commit 87e62b7612c15409039d524fd66f743d0ad75e2a. They carry forward the completed OT1991–OT1993 law. Completed OT1995 decisions through March 18, 1996 supplement that opening state; consult the [current neutral projection](../workspace/neutral-projection.md) and its linked public decision records. Apply each proposition only within its actual controlling scope. Only an actual validated decision effective before this event may supplement that baseline; prepared positions and file order create no law.
 
 **Authority and scope:** Apply actual simulated rules within their stated support and limits. Pre-divergence law remains available where not displaced. Stone's separate positions and post-divergence historical decisions do not become Court law by preparation.
 
-**Source reading:** [Current matter-specific public Holdings and Standards](inherited/readings/OT1995-062.md).
+**Source reading:** [Current matter-specific public Holdings and Standards](../workspace/neutral-projection.md).
 
 **Same-term continuity:** Carry actual earlier effective OT1995 law across chunk boundaries. Same-day file order and proposed dispositions create no dependency.
 
@@ -1061,10 +1067,10 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 #### Governing source key
 
-* **S1:** [Coordinated Holdings](assessment/sources/HOLDINGS.md), pinned source described in the [load manifest](OT_1995_LOAD_MANIFEST.md).
-* **S2:** [Coordinated Standards and Tests](assessment/sources/STANDARDS_AND_TESTS.md), closing OT1994 through June 29, 1995, with the matter-specific current public-law reading.
-* **S3:** [Standing State](assessment/repository/state/STANDING_STATE.md) and [Composition](inherited/COURT_COMPOSITION.md), including the August 3, 1994 circuit allotment and full-Court application practice.
-* **U1:** The reconciled [100-event calendar](OT_1995_CASE_INDEX.md); provenance and controlling source selections are retained in the [audit manifest](OT_1995_AUDIT_MANIFEST.md).
+* **S1:** [Coordinated Holdings](../../../state/HOLDINGS.md), pinned source described in the [load manifest](../workspace/manifest.md).
+* **S2:** [Coordinated Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), closing OT1994 through June 29, 1995, with the matter-specific current public-law reading.
+* **S3:** [Standing State](../../../state/STANDING_STATE.md) and [Composition](../../../foundation/COURT_COMPOSITION.md), including the August 3, 1994 circuit allotment and full-Court application practice.
+* **U1:** The reconciled [term-wide inventory](../case-list.md); provenance and controlling source selections are retained in the [audit manifest](../workspace/CHUNKS5_10_PREPARATION_REVIEW.md).
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -1087,7 +1093,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 - **Historical Holding / Rule:** The award was grossly excessive in light of reprehensibility, the ratio to actual harm, comparable sanctions, and the impermissible use of lawful out-of-state conduct.
 - **Historical Marks Status:** Only the actual historical component and joining pattern in the official report define its historical precedential scope; no historical component is entering simulated law.
 
-**Official source:** [517 U.S. 559](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-559.pdf); [local source PDF](audit/official_sources/USREPORTS-517-559.pdf). Historical same-matter reasoning remains in this section only.
+**Official source:** [517 U.S. 559](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-559.pdf); [local source PDF](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-559.pdf). Historical same-matter reasoning remains in this section only.
 
 ## OT1995-063 — Romer v. Evans
 
@@ -1126,11 +1132,11 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 #### Law entering this event
 
-**Effective baseline:** The coordinated October 1, 2026 Holdings, Standards and Tests, and Standing State close OT1994 through June 29, 1995, after all 99 inventory Court events and two admitted source events, at repository commit 87e62b7612c15409039d524fd66f743d0ad75e2a. They carry forward the completed OT1991–OT1993 law. No completed OT1995 decision is supplied at this opening. Only an actual validated decision effective before this event may supplement that baseline; prepared positions and file order create no law.
+**Effective baseline:** The coordinated October 1, 2026 Holdings, Standards and Tests, and Standing State close OT1994 through June 29, 1995, after all 99 inventory Court events and two admitted source events, at repository commit 87e62b7612c15409039d524fd66f743d0ad75e2a. They carry forward the completed OT1991–OT1993 law. Completed OT1995 decisions through March 18, 1996 supplement that opening state; consult the [current neutral projection](../workspace/neutral-projection.md) and its linked public decision records. Apply each proposition only within its actual controlling scope. Only an actual validated decision effective before this event may supplement that baseline; prepared positions and file order create no law.
 
 **Authority and scope:** Apply actual simulated rules within their stated support and limits. Pre-divergence law remains available where not displaced. Stone's separate positions and post-divergence historical decisions do not become Court law by preparation.
 
-**Source reading:** [Current matter-specific public Holdings and Standards](inherited/readings/OT1995-063.md).
+**Source reading:** [Current matter-specific public Holdings and Standards](../workspace/neutral-projection.md).
 
 **Same-term continuity:** Carry actual earlier effective OT1995 law across chunk boundaries. Same-day file order and proposed dispositions create no dependency.
 
@@ -1179,10 +1185,10 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 #### Governing source key
 
-* **S1:** [Coordinated Holdings](assessment/sources/HOLDINGS.md), pinned source described in the [load manifest](OT_1995_LOAD_MANIFEST.md).
-* **S2:** [Coordinated Standards and Tests](assessment/sources/STANDARDS_AND_TESTS.md), closing OT1994 through June 29, 1995, with the matter-specific current public-law reading.
-* **S3:** [Standing State](assessment/repository/state/STANDING_STATE.md) and [Composition](inherited/COURT_COMPOSITION.md), including the August 3, 1994 circuit allotment and full-Court application practice.
-* **U1:** The reconciled [100-event calendar](OT_1995_CASE_INDEX.md); provenance and controlling source selections are retained in the [audit manifest](OT_1995_AUDIT_MANIFEST.md).
+* **S1:** [Coordinated Holdings](../../../state/HOLDINGS.md), pinned source described in the [load manifest](../workspace/manifest.md).
+* **S2:** [Coordinated Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), closing OT1994 through June 29, 1995, with the matter-specific current public-law reading.
+* **S3:** [Standing State](../../../state/STANDING_STATE.md) and [Composition](../../../foundation/COURT_COMPOSITION.md), including the August 3, 1994 circuit allotment and full-Court application practice.
+* **U1:** The reconciled [term-wide inventory](../case-list.md); provenance and controlling source selections are retained in the [audit manifest](../workspace/CHUNKS5_10_PREPARATION_REVIEW.md).
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -1196,7 +1202,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 **Limit:** The selective disability itself supplies the injury. Apply existing equal-protection scrutiny without an additional procedural sequence or evidentiary checklist.
 
-**Sources and temporal limits:** Use this matter's Section I record and [current public-law reading](inherited/readings/OT1995-063.md), with the [updated Master Jurisprudence](assessment/sources/MASTER_JURISPRUDENCE.md) and applicable character roadmap as proposed reasoning only. [Public judicial record](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-620.pdf) supplies facts, posture and argument; the same-matter historical outcome remains in Section III. These are individual legal positions. Only an effective validated simulated decision supplies governing law.
+**Sources and temporal limits:** Use this matter's Section I record and [current public-law reading](../workspace/neutral-projection.md), with the [updated Master Jurisprudence](../../../stone/MASTER_JURISPRUDENCE.md) and applicable character roadmap as proposed reasoning only. The lower-court opinions and party materials identified in Section I supply the record, posture and arguments; the same-matter historical Supreme Court decision remains in Section III. These are individual legal positions. Only an effective validated simulated decision supplies governing law.
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -1205,4 +1211,4 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 - **Historical Holding / Rule:** The amendment imposed a broad, unprecedented disability on one group and lacked a rational relationship to a legitimate purpose independent of animus.
 - **Historical Marks Status:** Only the actual historical component and joining pattern in the official report define its historical precedential scope; no historical component is entering simulated law.
 
-**Official source:** [517 U.S. 620](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-620.pdf); [local source PDF](audit/official_sources/USREPORTS-517-620.pdf). Historical same-matter reasoning remains in this section only.
+**Official source:** [517 U.S. 620](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-620.pdf); [local source PDF](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-620.pdf). Historical same-matter reasoning remains in this section only.

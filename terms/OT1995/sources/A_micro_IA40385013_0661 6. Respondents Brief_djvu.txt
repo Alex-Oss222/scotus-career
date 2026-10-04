@@ -1,0 +1,2196 @@
+No. 95-668 
+
+
+In the Supreme Court of the K if 
+
+
+OcTOBER TERM, 1995 ~~ 
+
+
+AUCIELLO IRON WoRES, INC., PETITIONER 
+v. 
+
+
+NATIONAL LABOR RELATIONS BOARD 
+
+
+ON WRIT OF CERTIORARI TO THE 
+UNITED STATES COURT OF APPEALS 
+FOR THE FIRST CIRCUIT 
+
+
+BRIEF FOR THE 
+NATIONAL LABOR RELATIONS BOARD 
+
+
+Drew S. Days, III 
+Solicitor General 
+
+
+LAWRENCE G. WALLACE 
+Deputy Solicitor General 
+
+RICHARD H. SEAMON 
+Assistant to the Solicitor 
+
+General 
+Department of Justice 
+Washington, D.C. 20530 
+(202) 514-2217 
+FREDERICK L. FEINSTEIN 
+General Counsel 
+
+
+LINDA SHER 
+Associate General Counsel 
+
+
+NORTON J. COME 
+Deputy Associate General Counsel 
+
+
+JOHN EMAD ARBAB 
+Attorney 
+National Labor Relations Board 
+Washington, D.C. 20570 
+
+
+QUESTION PRESENTED 
+
+
+Whether the National Labor Relations Board 
+reasonably concluded that, after a previously certified 
+union has accepted an employer’s offer for a collective 
+bargaining agreement, the employer cannot refuse to 
+bargain with the union and withdraw recognition 
+from it based on a good-faith doubt about the union’s 
+majority status at the time of acceptance, when the 
+asserted doubt is premised on events that occurred 
+and were known to the employer before acceptance. 
+
+
+(1) 
+
+
+TABLE OF CONTENTS 
+
+
+SESE „„ „„ „ „ „„ „„ „ „„ „„ „„ „„ „„ „„ 
+
+
+I. The Board acted within its discretion in adop- 
+ting a rule providing that, after a previously 
+certified union has accepted an employer's 
+offer for a collective bargaining agreement, 
+the employer may not refuse to bargain with 
+the union and withdraw recognition from 
+it based on a good-faith doubt about the union's 
+majority status at the time of the acceptance, 
+when the doubt is premised on events that 
+occurred and were known to the employer 
+„ — 
+A. Under well-established principles of defer- 
+
+ence, the Board's rule must be upheld if 
+
+it is rational and consistent with the Act ..... 
+B. The Board’s rule is properly viewed in the 
+
+context of other Board rules and decisions of 
+
+this Court that involve accommodation of the 
+
+
+Act's policies of encouraging the forma- 
+tion of collective bargaining agree- 
+
+
+(IID) 
+
+
+Argument—Continued: 
+
+
+D. The Board's rule is not inconsistent with 
+
+
+construing that provision 34 
+E. The Board rationally adopted a bright-line 
+
+rule that precludes all 
+
+employer assertions of good-faith doubt about 
+
+a union’s majority statuns . 39 
+
+
+II. In any event, in the circumstances of this case 
+the Board reasonably refused to consider peti- 
+tioner’s assertion of a good-faith doubt about 
+
+
+the Union’s majority statuins 42 
+5 c 45 
+TABLE OF AUTHORITIES 
+
+Cases: . 
+ABF Freight System, Inc. v. NLRB, 1148. Ct. 835 
+999—— . —aL 16 
+American Broadcasting Cos. v. Writers Guild of 
+America, West, Inc., 437 U.S. 411 (1978) ............... 15 
+Belcon, Inc., 257 N.L.R.B. 1341 (1981)............ 5, 8, 14, 28 
+Bennett Packaging Co., 285 N.R.L.B. 602 (1987) ...... 26 
+Beth Israel Hosp. v. NLRB, 437 U.S. 483 
+. 15, 16, 22 
+Bolton-Emerson, Inc., 293 N.L.R.B. 1124 (1989), 
+enforced, 899 F.2d 104 (Ist Cir. 1990) ...................... 27 
+Brooks v. NLRB, 348 U.S. 96 (1954).................... 7, 18 
+19, 20, 26, 31, 34 
+Celanese Corp., 95 N. L. R. B. 664 (1951) 19, 35 
+
+
+Chevron U.S.A. Inc. v. Natural Resources Defense 
+Council, Inc., 467 U.S. 837 (1984) . 16 
+
+
+Cases—Continued: Page 
+
+
+Chicago Tribune Co., 303 N.L.R.B. 682 (1991), 
+enforcement denied, 965 F.2d 244 (7th Cir. 1992) ... x 
+Chicago Tribune Co. v. NLRB, 965 F.2d 244 
+
+
+II. 36, 37, 38 
+Crompton Co., 260 N. L. R. B. 417 (1982) 33 
+Deluxe Metal Furniture Co., 121 N.L.R.B. 995 
+
+8 ————————————————jꝙðẽ 33 
+Fall River Dyeing & Finishing Corp. v. NLRB, 
+
+1 eee passim 
+First National Maintenance Corp. v. NLRB, 452 
+
+ee 8 
+Franks Bros. Co. v. NLRB, 321 U.S. 702 (1944) .... 22 
+General Cable Corp., 139 N.L.R.B. 1123 (1962) .......... 18 
+H.J. Heinz Co. v. NLRB, 311 U.S. 514 (1941) 40 
+
+
+Hickinbotham Bros. Ltd., 254 N.L.R.B. 96 (1981) .... 32 
+International Ladies’ Garment Workers’ Union v. 
+
+NLRB, 366 U.S. 731 (1961) 9, 34, 36, 37 
+J. Hofert Co., 269 N.L.R.B. 520 (1984) 31-32 
+King Radio Corp., 208 N.L.R.B. 578 (1974), enforced, 
+
+510 F.2d 1154 (10th Cir.), cert. denied, 423 U.S. 839 
+
+
+— ͤ— 27 
+Local Lodge No. 1424, Int'l Ass'n of Machinists v. 
+
+NLRB, 362 US. 411 (4 ———————————. 21 
+Moisi & Sons Trucking, Inc., 197 N.L.R.B. 198 
+
+ee 38 
+NLRB v. Bickerstaff Clay Products Co., 871 F.2d 
+
+980 (11th Cir.), cert. denied, 493 U.S. 924 (1989) 23 
+NLRB v. Big Three Industries, Inc., 497 F.2d 43 
+
+Ge GE 1—— T— 31 
+NLRB v. Burkart Foam, Inc., 848 F.2d 825 (7th 
+
+0... —— — — 27, 3132 
+NLRB v. Burns Int'l Security Servs., Inc., 406 
+
+11—— — —— 18, 20-21 
+NLRB v. Curtin Matheson Scientific, Inc., 494 
+
+I 15, 16, 18, 19, 21, 23, 35 
+
+
+Cases—Continued: Page 
+NLRB v. Erie Resistor Corp., 373 U.S. 221 (1963) .. 15 
+NLRB v. Financial Institution Employees of 
+
+
+America, 475 U.S. 192 (1988) . . 31 
+NLRB v. Fleetwood Trailer Co., 389 U.S. 375 
+
+CEBU) cccecececnsancssnsenitpensingeccidatanisicatnliesistearmasscionere 29 
+NLRB v. J. Weingarten, Inc., 420 U.S. 251 
+
+| ee — 16 
+NLRB v. Local Union No. 108, Int'l Ass'n of Bridge 
+
+Workers, 434 U.S. 335 (1978) 15, 16, 18 
+NLRB v. Meria Textile Mills, Inc., 339 U.S. 563 
+
+. . 31 
+NLRB v. Pennco, Inc., 684 F.2d 340 (6th Cir.), 
+
+cert. denied, 459 U.S. 994 (1982) 35 
+NLRB v. Town & Country Electric, Inc., 116 S. Ct. 
+
+ee 16 
+NLRB v. Truck Drivers, 353 U.S. 87 (1957) ......... 15, 16 
+NLRB v. Windham Comm. Memorial Hospital, 
+
+Lr 35 
+North Bros. Ford, Inc., 220 N.L.R.B. 1021 
+
+8 ——— 5, 8, 14 
+Pepsi-Cola Bottling Co. v. NLRB, 659 F. 2d 87 
+
+. (Ä anͤ—— 27, 31 
+
+
+Plymouth Stamping Div., Eltec Corp., 286 N. L. R. B. 
+890 (1987), enforced, 870 F. 2d 1112 (6th Cir.), cert. 
+
+
+denied, 493 U.S. 891 (198999 ———————— 32 
+Retired Persons Pharmacy v. NLRB, 519 F.2d 486 
+
+0 ˙ 1 —.————— 35 
+Royal Coach Lines, Inc. v. NLRB, 838 F.2d 47 
+
+ü ͤ (Ä 38 
+Station KKHI, 284 N. L. R. B. 1339 (1987), enforced, 
+
+891 F.2d 230 (9th Cir. 1989) . 18, 35 
+United States Gypsum Co.: 
+
+Enn 31 
+
+
+Eee 31 
+
+
+VII 
+
+
+Cases—Continued: 
+
+
+Page 
+Universal Camera Corp. v. NLRB, 340 US. 474 
+-A W 41 
+Viking Lithographers, Inc., 184 N. L. R. B. 139 
+1 —————————— 39 
+Whisper Soft Mills, Inc. v. NLRB, 754 F.2d 1381 
+11 ——— 35 
+Woelke & Romero Framing, Inc. v. NLRB, 456 
+11K 2 35 
+Statutes and regulations: 
+National Labor Relations Act, 29 U.S.C. 151 et seq.: 
+1411 le TIE teciiccscbasenecnceccscceeccnapseesceneninces 17, 27 
+1 ðͤ—— 2, 13, 32 
+ES ht 1„ĩłç„—«¾Cü—᷑„%„. 2 
+§ 8(a)(1), 29 U.S.C. 1580 1) . . 5, 11, 13, 14 
+§ S(a) 2), 29 U.S.C. 158c0a (2) . 12, 34 
+§ 8(a)(5), 29 U.S.C. 158(a)(5) ......... 5, 8, 11, 13, 14, 32 
+Na), 29 U.S.C. 154) . 13 
+§ 9c)(1)A)Gi), 29 U.S.C. 159(c)(1 (Ail) .......... 33 
+§ 9(c)(1)(B), 29 U.S.C. 159(C IMB) ........cccceeeeeeee 31 
+§ 10(e), 29 U.S.C. 16O(e) ) 35 
+29 C. F. R.: 
+r ———— 33 
+11 —— 31 
+Miscellaneous: 
+NLRB Casehandling Manual (Part Two) (Sept. 
+— — ü 31 
+
+
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+No. 95-668 
+AUCIELLO IRON WORKS, INC., PETITIONER 
+Vv. 
+
+
+NATIONAL LABOR RELATIONS BOARD 
+
+
+ON WRIT OF CERTIORARI TO THE 
+UNITED STATES COURT OF APPEALS 
+FOR THE FIRST CIRCUIT 
+
+
+BRIEF FOR THE 
+NATIONAL LABOR RELATIONS BOARD 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals after remand 
+(Pet. App. la-8a) is reported at 60 F.3d 24. The supple- 
+mental decision and order of the National Labor Rela- 
+tions Board (Board) on remand (Pet. App. 9a-58a) is 
+reported at 317 N.L.R.B. 364. 
+
+The earlier decision of the court of appeals, remand- 
+ing the case to the Board (Pet. App. 59a-83a), is re- 
+ported at 980 F. 2d 804. The initial decision and order 
+of the Board (Pet. App. 84a-89a) and the decision of the 
+administrative law judge (Pet. App. 90a-120a) are 
+reported at 303 N.L.R.B. 562. 
+
+
+(1) 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on 
+July 21, 1995. The petition for a writ of certiorari was 
+filed on October 15, 1995, and was granted on January 
+19, 1996. The jurisdiction of this Court rests on 28 
+U.S.C. 1254(1). 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+Section 7 of the National Labor Relations Act 
+(Act), 29 U.S.C. 157, provides: 
+
+
+Employees shall have the right to self-organi- 
+zation, to form, join, or assist labor organizations, 
+to bargain collectively through representatives of 
+their own choosing, and to engage in other con- 
+certed activities for the purpose of collective 
+bargaining or other mutual aid or protection, and 
+shall also have the right to refrain from any or all 
+such activities except to the extent that such 
+right may be affected by an agreement requiring 
+membership in a labor organization as a condition 
+of employment as authorized in section 158(a)(3) of 
+this title. 
+
+
+Section 8(a) of the Act, 29 U.S.C. 158(a), provides 
+in pertinent part: 
+It shall be an unfair labor practice for an 
+employer— 
+
+
+(1) to interfere with, restrain, or coerce 
+employees in the exercise of the rights guaran- 
+teed in section 157 of this title; 
+
+
+(2) to dominate or interfere with the 
+formation or administration of any labor 
+organization or contribute financial or other 
+support to it * * *; 
+
+
+R X * * * 
+
+
+(5) to refuse to bargain collectively with 
+the representatives of his employees, subject to 
+the provisions of section 159(a) of this title. 
+
+
+STATEMENT 
+
+
+1. At relevant times, petitioner operated an iron 
+fabrication shop in Hudson, Massachusetts, with ap- 
+proximately 23 production and maintenance employ- 
+ees. In 1977, the National Labor Relations Board 
+(Board), after an election, certified Shopmen’s Local 
+No. 501, a/w International Association of Bridge, 
+Structural, and Ornamental Iron Workers, AFL-CIO 
+(the Union), as the collective bargaining represen- 
+tative of a bargaining unit comprising those employ- 
+ees. Thereafter, the parties negotiated and executed 
+successive collective bargaining agreements covering 
+the bargaining unit. Pet. App. 10a-lla, 60a-6la, 95a; 
+J.A. 69a-70a. 
+
+On September 21, 1988, petitioner and the Union 
+began negotiations for an agreement to replace the 
+one then in effect, which was to expire on September 
+25, 1988. Additional bargaining sessions took place on 
+September 30, October 4, and October 13, 1988. On 
+October 14, 1988, after the initial bargaining failed to 
+produce an agreement, the employees in the unit went 
+out on strike. Negotiations continued during the 
+strike at bargaining sessions held on October 18, 
+October 26, and November 17, 1988. Pet. App. 11a, 61a- 
+62a, 97a-98a, 109a. 
+
+At the bargaining session on November 17, 1988, 
+petitioner presented a complete contract proposal to 
+the Union. Pet. App. 107a. Petitioner asserts (Pet. 
+
+
+4 
+
+
+Br. 3) that the proposal was less generous than prior 
+proposals because of petitioner’s belief that the Union 
+was losing support among the employees. The Union 
+neither accepted nor rejected the proposal on Novem- 
+ber 17, and petitioner took no action to withdraw the 
+proposal, either on that date or thereafter. Pet. App. 
+lla, 61a-62a, 95a-98a, 109a. 
+
+On November 18, 1988, the picket line maintained at 
+petitioner’s plant by the striking employees was 
+taken down. Pet. App. lla, 36a n.47. On November 27, 
+1988, the Union sent petitioner a telegram stating 
+that the Union accepted petitioner’s November 17 
+offer. Id. at 63a; J.A. 65a. The telegram also stated 
+that the strike was over and that the employees would 
+return to work immediately. Jbid. However, the 
+following day, November 28, 1988, petitioner sent the 
+Union a telegram stating (J.A. 66a): “Employer now 
+has reason to believe that [the Union] no longer 
+represents a majority of the employees in the appro- 
+priate unit and therefore disavows any obligation to 
+carry on further negotiations.” 
+
+Petitioner based its alleged belief that the Union 
+had lost majority status on events that occurred, and 
+of which petitioner was aware, prior to the Union’s 
+November 27 acceptance of petitioner’s contract offer. 
+See Pet. App. 72a; see also id. at 1la-12a; Pet. Br. 5-6. 
+Specifically, petitioner asserted that nine of the 23 
+unit employees had crossed the picket line (Pet. App. 
+72a); as noted above, the picket line came down on 
+November 18 (id. at lla, 36a n.47). Petitioner also 
+asserted that 13 unit employees had resigned from the 
+Union by signing a form prepared by petitioner (id. at 
+72a; see J.A. 43a-44a); 12 of those forms were dated on 
+or before November 21, 1988, and the remaining form 
+was dated November 23, 1988 (J.A. 76a; see also J. A. 
+
+
+5 
+
+
+7la-77a). In addition, petitioner claimed that 16 unit 
+employees had expressed dissatisfaction with the 
+Union. Pet. App. 72a. Petitioner’s vice-president 
+testified that many of those expressions of dissatis- 
+faction occurred on or before November 18. J.A. 42a; 
+see also J.A. 17a-40a. 
+
+2. a. In January 1989, the Board’s General Counsel 
+issued an administrative complaint alleging that peti- 
+tioner had violated Section 8(a)(1) and (5) of the 
+National Labor Relations Act (Act), 29 U.S.C. 158 
+(a)(1) and (5), by refusing to execute a written con- 
+tract with the Union and by withdrawing recognition 
+from it on November 28, 1988. Pet. App. 64a-65a, 91a- 
+92a. 
+
+After a hearing, the Board, in agreement with the 
+administrative law judge (ALJ), sustained the allega- 
+tions of the complaint. Pet. App. 84a-120a. The Board 
+(like the ALJ) refused to consider petitioner’s con- 
+tention that it had a good-faith doubt that the Union 
+had majority support when it accepted petitioner’s 
+outstanding contract proposal. Relying on Belcon, 
+Inc., 257 N.L.R.B. 1341, 1346 (1981), and North Bros. 
+Ford, Inc., 220 N.L.R.B. 1021, 1022 (1975), the Board 
+explained that, “under established Board precedent, 
+once the Board finds that the parties have reached a 
+binding collective-bargaining agreement, it is un- 
+necessary to consider the issue of a{n] [employer's] 
+alleged good-faith doubt of the union’s majority 
+status.” Pet. App. 85a n.85. The Board ordered peti- 
+tioner, among other things, to enter into a written 
+contract with the Union based on the contract 
+proposal that the Union accepted on November 27, 
+1988. Id. at 86a, 115a, 1 16a. 
+
+b. The Board filed an application for enforcement of 
+its order in the court of appeals. Pet. App. 60a. The 
+
+
+6 
+
+
+court held that “(t]he Board acted well within its 
+authority in finding that [petitioner’s] offer of 
+November 17, 1988, was still on the table when the 
+Union’s negotiating committee purported to accept it 
+by telegram on November 27, 1988.” Id. at 70a. The 
+court also upheld the Board’s determination that the 
+Union’s negotiating committee was not required to 
+obtain membership ratification in order to enter into 
+a binding collective bargaining agreement. Id. at 70a- 
+71a. The court declined to enforce the Board’s order 
+“at thlat] time” (id. at 60a, 83a), however, because the 
+court believed that the Board had not sufficiently 
+explained its refusal to consider petitioner’s asser- 
+tion of a good-faith doubt about the Union’s majority 
+status (see id. at 72a-82a). 
+
+3. On remand, the Board issued a lengthy supple- 
+mental decision and order. Pet. App. 9a-58a. In that 
+decision, the Board adhered to its prior rule that, 
+“where objective evidence to support a good-faith 
+doubt of a union’s majority status is known to the 
+employer before a union’s acceptance of the employ- 
+er’s contract offer but the employer does not act on 
+that evidence prior to acceptance, the union’s accep- 
+tance creates a valid collective-bargaining agree- 
+ment.” Id. at 28a. The Board recognized that, in 
+“extraordinary circumstances,” an employer’s good- 
+faith doubt about the union’s majority status may 
+“develop[] contemporaneously with a union’s pur- 
+ported acceptance of its offer.” Jd. at 54a. The Board 
+stated that it would evaluate “such infrequent instan- 
+ces” on a case-by-case basis. /bid. 
+
+The Board began its analysis by discussing the 
+presumptions that it had developed regarding a 
+union’s majority status. Pet. App. 2la-25a. The 
+Board explained that where, as here, a union has been 
+
+
+7 
+
+
+certified by the Board as the exclusive bargaining 
+representative for a unit of employees, the union ordi- 
+narily enjoys an irrebuttable presumption of majority 
+support for the first year following its certification 
+and during the term (for up to three years) of any 
+collective-bargaining agreement. Id. at 22a-23a & 
+n.26. The Board continued: “After the certification 
+year (and in the absence of a collective bargaining 
+agreement), the presumption of majority status 
+remains, but becomes rebuttable”; an employer may 
+rebut the presumption “by establishing either (1) that 
+at the time of the refusal to bargain a majority of 
+employees did not in fact support the union, or (2) that 
+the refusal was predicated on a good-faith and reason- 
+ably grounded doubt, supported by objective consider- 
+ations, of the union’s majority status.” Id. at 22a-23a. 
+The Board observed that this Court has recognized 
+that these presumptions “promote industrial peace,” 
+which the Court has described as the “overriding 
+policy of the Act.” Id. at 22a, 24a (quoting Fall River 
+Dyeing & Finishing Corp. v. NLRB, 482 U.S. 27, 37- 
+38 (1987), and Brooks v. NLRB, 348 U.S. 96, 103 
+(1954)). 
+
+The Board next described the circumstances under 
+which an employer may refuse to bargain with a union 
+based on a good faith doubt about its majority status. 
+Pet. App. 25a-28a. The Board observed that an em- 
+ployer may assert such a doubt “[w]ithin a reasonable 
+time before a collective bargaining agreement ex- 
+pires.” Id. at 25a. The employer may also do so “after 
+the contract has expired at any time prior to a 
+union’s acceptance of [the employer's] contract pro- 
+posals.” Id. at 25a-26a. The Board reaffirmed its rule 
+that, after such acceptance, the employer may not 
+assert a good-faith doubt “based on events occurring 
+
+
+8 
+
+
+after acceptance.” Id. at 27a (citing North Bros. 
+Ford). The Board also reaffirmed the rule applicable 
+here: i. e., that an employer may not assert a post- 
+acceptance doubt about a union’s majority status 
+when that doubt is based on events occurring and 
+known to the employer prior to acceptance. Pet. App. 
+28a (citing Belcon and Chicago Tribune Co., 308 
+N.L.R.B. 682 (1991), enforcement denied, 965 F.2d 244 
+(7th Cir. 1992)). 
+
+The Board explained that its rule precluding con- 
+sideration of post-acceptance employer assertions of 
+doubt based on pre-acceptance events is consistent 
+with Section 8(a)(5) of the Act, 29 U.S.C. 158(a)(5). 
+Pet. App. 28a-3la. That provision, the Board observed, 
+reflects that collective bargaining is “{cjentral” to 
+achievement of the Act’s “fundamental aim” of main- 
+taining “industrial peace.” Id. at 29a & n.35 (quoting 
+First National Maintenance Corp. v. NLRB, 452 
+U.S. 666, 674 (1981)). The Board determined (Pet. 
+App. 29a): 
+
+
+[I]t is inconsistent with the concept of good-faith 
+bargaining for the Board to adopt a rule that an 
+employer may continue to bargain—and thus to 
+treat the union as the representative of a 
+majority of its employees—by leaving its con- 
+tract offer on the table to await the outcome of 
+negotiations before deciding whether to raise a 
+doubt of the union’s majority support based on 
+grounds that it knew existed prior to the for- 
+mation of the contract. 
+
+
+The Board noted that in similar contexts it had 
+refused to allow employers to avoid their bargaining 
+obligations by manipulating the timing of their 
+assertion of doubt about the union’s majority status. 
+
+
+9 
+
+
+Id. at 30a-3la & nn.39-40 (citing cases). The Board 
+reasoned that the present context provided a similar 
+risk of manipulation: An employer that became aware 
+of grounds for doubting the union’s majority status 
+while the employer’s contract offer was outstanding 
+could “sit” on that doubt and raise it after a contract 
+had been formed if, in hindsight, the contract turned 
+out to be not to the employer’s liking. Id. at 36a; see 
+also id. at 32a-37a. 
+
+The Board also explained that its rule is not 
+inconsistent with Section 8(a)(2) of the Act, 29 U.S.C. 
+158(a)\(2), or with this Court’s holding that Section 
+Nah) prohibits an employer from recognizing a 
+minority union even if the employer believed in good 
+faith that the union represented a majority of the 
+employees at the time of recognition. See /nterna- 
+tional Ladies’ Garment Workers’ Union v. NLRB, 
+366 U.S. 731 (1961). The Board observed (Pet. App. 
+39a) (emphasis omitted): 
+
+
+[Garment Workers) involved an employer's 
+recognition of a nonincumbent, initially organ- 
+izing actual-minority [uJnion. This case, on the 
+other hand, involves [petitioner’s] withdrawal of 
+recognition of the incumbent, presumptively 
+majority Union. In [Garment Workers], the em- 
+ployer’s asserted good-faith belief that the union 
+had achieved majority status at the time of recog- 
+nition was no defense to its unlawful recognition; 
+in this case, the issue is whether [petitioner's] 
+asserted good-faith belief that the Union had lost 
+its presumptive majority status is a validly raised 
+defense to its withdrawal of recognition. 
+
+
+The Board also observed that the issue in Garment 
+Workers was whether the employer’s conduct violated 
+
+
+10 
+
+
+Section 8(a)(2) of the Act, whereas the issue in this 
+case is whether the employer’s conduct violated 
+Section 8(a)(5). Pet. App. 38a-39a. The Board con- 
+cluded that these factual and legal differences justi- 
+fied “different accommodations between the dual in- 
+terests of furthering labor relations stability and 
+ensuring employee freedom of choice.” Id. at 39a. 
+
+The Board emphasized that it was making a “policy 
+choice” in “establish{ing] a date certain—a union’s 
+acceptance of an employer’s contract offer—after 
+which an employer cannot challenge the majority 
+status of a certified union based on an alleged good- 
+faith doubt.” Pet. App. 53a (emphasis omitted). That 
+policy choice was based on the Board’s determination 
+that “the stability resulting from” its rule “out- 
+weighs [the rule's] potential adverse impact on 
+employee freedom of choice.” Ibid. 
+
+Finally, the Board determined that its rule applied 
+here. The Board found it “clear” from testimony at 
+the hearing that petitioner “harbored its doubt [about 
+the Union’s majority status] while its contract offer 
+was outstanding.” Pet. App. 36a. Accordingly, the 
+Board concluded that petitioner “could not raise its 
+alleged good-faith doubt as a defense to its withdrawal 
+of recognition and refusal to execute the contract.” 
+Id. at 34a. The Board therefore found it “unnecessary 
+to pass on whether [petitioner] presented sufficient 
+objective evidence to support a reasonable, good-faith 
+doubt of the Union’s majority status.” Jbid. 
+
+4. After remand, the court of appeals enforced the 
+Board’s order. Pet. App. 8a. The court held that “the 
+Board’s policy choice is reasonable and, as now 
+articulated, quite persuasive.” Jd. at 6a. The court 
+rejected petitioner’s contention that this case comes 
+“within the exception set forth in the Board’s opinion 
+
+
+11 
+
+
+for cases in which a company's good faith doubt arises 
+simultaneously with the union's acceptance of the 
+offer.“ Id. at 6a n.2. The court agreeld] with the 
+Board’s implicit conclusion that this case does not fall 
+within the exception, as [petitioner] had all of the 
+relevant information to support its claim prior to [the 
+Union's] acceptance of the offer.” Ibid. 
+SUMMARY OF ARGUMENT 
+
+I. In holding that petitioner violated Section 
+8(a)(1) and (5) of the Act, the Board reaffirmed its rule 
+that, after a previously certified union has accepted 
+an employer's offer for a collective bargaining agree- 
+ment, the employer may not refuse to bargain with 
+the union and withdraw recognition from it based on a 
+good-faith doubt about the union’s majority status at 
+the time of acceptance, when the doubt is premised on 
+events that occurred and were known to the employer 
+before acceptance. Under well-established principles, 
+the Board’s rule must be upheld if it is rational and 
+consistent with the Act. The Board’s rule satisfies 
+that standard, especially when it is viewed in the 
+context of other decisions of the Board and this Court 
+that address the striking of a balance between the 
+Act’s dual objectives of promoting stability in bar- 
+gaining relationships while preserving the freedom of 
+employees to select, or to refrain from selecting, a 
+bargaining representative. 
+
+The Board’s rule promotes stability in bargaining 
+relationships primarily by preventing an employer 
+from “sitting” on its doubt about a union’s majority 
+status during bargaining for an agreement, only to 
+raise it if and when the agreement turns out, in 
+hindsight, to be not to the employer’s advantage. The 
+rule thereby discourages conduct that is inconsistent 
+
+
+12 
+
+
+with good-faith bargaining, encourages the formation 
+of collective bargaining agreements, and helps ensure 
+that, after an agreement has been formed, the union 
+can concentrate on translating that agreement into a 
+written contract and on administering the contract. 
+At the same time, the Board’s rule leaves ample 
+opportunity for the employer to raise a good-faith 
+doubt about a union’s majority status by other 
+established means. Moreover, the rule leaves undis- 
+turbed the existing means by which employees may 
+raise such doubts. 
+
+The Board’s rule is consistent with the case law 
+that construes Section 8(a)(2) of the Act to prohibit an 
+employer from entering into a bargaining agreement 
+with a union that lacks majority status at the time of 
+the formation of the agreement. That case law in- 
+volves unions that are shown to have actually lacked 
+majority support when the agreement was formed. It 
+is inapposite here, because petitioner has never 
+alleged, and neither the Board nor the court of appeals 
+ever determined, that the Union actually lacked 
+majority status when it accepted petitioner’s contract 
+offer. Rather, petitioner has asserted only a good- 
+faith doubt about the union’s majority status. Noth- 
+ing in the Act or the case law upon which petitioner 
+relies makes an otherwise lawful collective bargain- 
+ing agreement between an employer and a previously 
+certified union illegal merely because, when the union 
+accepted the agreement, the employer harbored a 
+good-faith, but unarticulated, doubt about the union’s 
+continued majority status. 
+
+The Board’s rule rationally precludes all post- 
+acceptance assertions of good-faith doubt by an 
+employer that are based on pre-acceptance events 
+known to the employer. Contrary to petitioner’s 
+
+
+13 
+
+
+contention, the Board is not required to deter- 
+mine the timeliness of an employer’s post-acceptance 
+assertion of doubt by considering in each case 
+whether the employer had a reasonable opportunity to 
+investigate the evidence on which the doubt is 
+premised and to communicate that doubt to the union. 
+
+II. In any event, petitioner had a reasonable oppor- 
+tunity both to investigate the evidence on which it 
+premised its asserted good-faith doubt about the 
+Union’s majority status and to communicate that 
+doubt to the Union. The record establishes that 
+petitioner had received most or all of that evidence by 
+Monday, November 21, 1988. The Union did not accept 
+petitioner’s outstanding contract offer until Sunday, 
+November 27, 1988. Thus, petitioner was afforded 
+more than the “few days” it insists (Pet. Br. 31) was 
+required to evaluate the evidence and convey its 
+doubt. 
+
+
+ARGUMENT 
+
+
+Section 8(a)(5) of the National Labor Relations Act 
+(Act) makes it an unfair labor practice er an 
+employer to “refuse to bargain collectively with 
+the representativel] of his employees.” 29 U.S.C. 
+158(a)(5); see also 29 U.S.C. 158(a)(1) (making it an 
+unfair labor practice for an employer to interfere with 
+employees’ exercise of rights under 29 U.S.C. 157, 
+which includes right to bargain collectively). It is 
+undisputed that the Union in this case was certified 
+by the Board as the exclusive bargaining represen- 
+tative of a unit comprising petitioner’s production and 
+maintenance employees. See 28 U.S.C. 15%a). Peti- 
+tioner nonetheless refused to bargain with the Union 
+and withdrew recognition from the Union after it had 
+accepted petitioner’s outstanding offer for a collective 
+
+
+14 
+
+
+bargaining agreement, based on petitioner’s pur- 
+ported doubt that the Union enjoyed the support of 
+the majority of the unit employees at the time of 
+ac: eptance. 
+
+The Board held that petitioner’s refusal to bargain 
+with, and withdrawal of recognition from, the Union 
+violated Section 8(a)(1) and (5). In so holding, the 
+Board reaffirmed its prior rule that, after a previous- 
+ly certified union has accepted an employer’s offer for 
+a collective bargaining agreement, the employer 
+cannot vitiate the agreement on the basis of a good- 
+faith doubt about the union’s majority status pre- 
+mised on events that occurred and were known to the 
+employer prior to acceptance. Pet. App. 53a; see id. at 
+27a (citing North Bros. Ford, Inc., 220 N.L.R.B. 1021 
+(1975)), 37a (citing Belcon, Inc., 257 N.L.R.B. 1341 
+(1981)), 85a n.85 (citing Belcon and North Bros. Ford). 
+We show in Point I below that the Board’s rule should 
+be sustained. We show in Point II below that, even if 
+the rule is not sustained, the Board reasonably 
+refused in the circumstances of this case to consider 
+petitioner’s asserted doubt about the Union’s major- 
+ity status. 
+
+
+15 
+
+
+L THE BOARD ACTED WITHIN ITS DISCRETION 
+IN ADOPTING A RULE PROVIDING THAT, 
+AFTER A PREVIOUSLY CERTIFIED UNION 
+HAS ACCEPTED AN EMPLOYER’S OFFER FOR 
+A COLLECTIVE BARGAINING AGREEMENT, 
+THE EMPLOYER MAY NOT REFUSE TO 
+BARGAIN WITH THE UNION AND WITHDRAW 
+RECOGNITION FROM IT BASED ON A GOOD- 
+FAITH DOUBT ABOUT THE  UNION’S 
+MAJORITY STATUS AT THE TIME OF THE 
+ACCEPTANCE, WHEN THE DOUBT IS 
+PREMISED ON EVENTS THAT OCCURRED 
+AND WERE KNOWN TO THE EMPLOYER 
+BEFORE ACCEPTANCE 
+
+
+A. Under Well-Established Principles Of Def- 
+erence, The Board’s Rule Must Be Upheld If 
+It Is Rational and Consistent With The Act 
+
+
+As this Court has repeatedly stated, “[tJhe function 
+of striking [the] balance to effectuate national labor 
+policy is often a difficult and delicate responsibility, 
+which the Congress committed primarily to the 
+National Labor Relations Board, subject to limited 
+judicial review.” NLRB v. Truck Drivers, 353 U.S. 
+87, 96 (1957); accord NLRB v. Curtin Matheson 
+Scientific, Inc., 494 U.S. 775, 786 (1990) (Board has 
+“primary responsibility for developing and applying 
+national labor policy”); Beth Israel Hosp. v. NLRB, 
+437 U.S. 483, 500-501 (1978); American Broadcasting 
+Cos. v. Writers Guild of America, West, Inc., 437 U.S. 
+411, 431 (1978); NLRB v. Local Union No. 103, Int'l 
+Ass’n of Bridge Workers, 434 U.S. 335, 350 (1978); 
+NLRB v. Erie Resistor Corp., 373 U.S. 221, 236 (1963). 
+Accordingly, the Court gives “considerable defer- 
+ence” to the Board’s interpretation of the Act, and 
+
+
+16 
+
+
+will uphold that interpretation if it is “rational and 
+consistent with the Act,” even if the Members of this 
+Court “would have formulated a different rule had 
+[they] sat on the Board.” Curtin Matheson, 494 U.S. 
+at 787; Fall River Dyeing & Finishing Corp. v. 
+NLRB, 482 U.S. 27, 42 (1987); Local Union No. 103, 
+Int! Ass’n of Bridge Workers, 434 U.S. at 350; see 
+also Chevron U.S.A. Inc. v. Natural Resources 
+Defense Council, Inc., 467 U.S. 837, 842-843 (1984). 
+
+Deference is particularly appropriate when the 
+Board’s interpretation is informed by considerations 
+of labor policy. “It is the Board on which Congress 
+conferred the authority to develop and apply funda- 
+mental national labor policy,” and if the Board is to 
+accomplish that task it “necessarily must have 
+authority to formulate rules to fill the interstices of 
+the broad statutory provisions.” Beth Israel Hosp., 
+437 U.S. at 500-501. Thus, when a Board rule is the 
+result of the Board’s exercising the “ ‘difficult and 
+delicate responsibility’ of reconciling conflicting 
+interests of labor and management,” the rule “is 
+‘subject to limited judicial review.?“ NLRB v. J. 
+Weingarten, Inc., 420 U.S. 251, 267 (1975) (quoting 
+Truck Drivers, 353 U.S. at 96. See also NLRB v. 
+Town & Country Electric, Inc., 116 S. Ct. 450, 453 
+(1995); ABF Freight System, Inc. v. NLRB, 114 S. Ct. 
+835, 839 (1994). 
+
+These principles of deference apply to the Board 
+rule at issue here. The Board decided “as a policy 
+matter” that “the stability resulting from” that rule 
+“outweighs the potential adverse impact on employee 
+freedom of choice.” Pet. App. 53a. That policy 
+judgment, moreover, was based in significant part on 
+the Board’s assessment of the realities of labor- 
+management relations. In particular, the Board de- 
+
+
+17 
+
+
+termined that, in the absence of its rule, an employer 
+who develops doubts about a union’s majority status 
+while the employer’s contract offer is outstanding 
+could keep those doubts to itself until after its offer is 
+accepted and a contract had been formed, and raise 
+them if and when the employer determines, in hind- 
+sight, that the contract was not to its benefit. Be- 
+cause the Board’s decision was based on policy con- 
+siderations and factual assessments that Congress 
+entrusted primarily to the Board, its decision is 
+entitled to considerable deference. 
+
+
+B. The Board’s Rule Is Properly Viewed In The 
+Context Of Other Board Rules And Decisions 
+Of This Court That Involve Accommodation 
+of the Act’s Policies of Promoting Stability In 
+Bargaining Relationships While Preserving 
+Employee Freedom To Select, Or Refrain 
+From Selecting, Bargaining Representatives 
+
+
+The rule applied by the Board in this case can 
+properly be reviewed only in the context of the legal 
+framework within which it developed. That frame- 
+work includes the Board’s presumptions regarding a 
+union’s majority status. It also includes other Board 
+rules, as well as decisions of this Court, that, like the 
+rule applied here, recognize the “dual objectives” of 
+the Act “to further industrial peace and labor rela- 
+tions stability by encouraging the practice and 
+procedure of collective bargaining while preserving 
+for employees the right to choose, or to refrain from 
+choosing, a bargaining representative.” Pet. App. 2la 
+& n.20 (citing 29 U.S.C. 151), 22a. 
+
+The presumptions regarding majority status have 
+been described in prior decisions of this Court. 
+“First, after a union has been certified by the Board 
+
+
+18 
+
+
+as a bargaining-unit representative, it usually is 
+entitled to a conclusive presumption of majority 
+status for one year following the certification.” Fall 
+River, 482 U.S. at 37; see also Curtin Matheson, 494 
+U.S. at 777-778; NLRB v. Burns Intl Security Servs., 
+Inc., 406 U.S. 272, 279 & n.3 (1972); Brooks v. NLRB, 
+348 U.S. 96, 98-99 (1954). A union is entitled to the 
+same conclusive presumption of majority status 
+during the term (for up to three years) of any 
+collective-bargaining agreement. See Local Union 
+No. 103, Int! Ass’n of Bridge Workers, 434 U.S. at 343 
+n.8 ; Burns, 406 U.S. at 290 n.12; see also General 
+Cable Corp., 139 N.L.R.B. 1123 (1962).' After the 
+certification year or the collective-bargaining agree- 
+ment expires, the presumption of majority status con- 
+tinues, but becomes rebuttable. See Curtin Mathe- 
+son, 494 U.S. at 778; Fall River, 482 U.S. at 38; 
+Burns, 406 U.S. at 279 n.3, 290 n.12 (1972); Brooks, 348 
+U.S. at 99; see also Pet. App. 22a-23a. “Under the 
+Board’s longstanding approach, an employer may 
+rebut that presumption,” and thereby justify a refusal 
+to bargain with the union, “by showing that, at the 
+time of the refusal to bargain, either (1) the union did 
+not in fact enjoy majority support, or (2) the employer 
+had a ‘good-faith’ doubt, founded on a sufficient 
+objective basis, of the union’s majority support.” 
+Curtin Matheson, 494 U.S. at 778; see also Station 
+KKHI, 284 N.L.R.B. 1339, 1340 (1987), enforced, 891 
+
+
+A union’s “conclusive” presumption of majority status 
+may be overcome only in “unusual circumstances,” such as 
+where the certified union dissolves or becomes defunct, or 
+where substantially all the members and officers of the 
+certified union transfer their affiliation to a new local or inter- 
+national as the result of a schism. See Brooks v. NLRB, 348 
+U.S. 96, 98-99 (1954). None of those circumstances is present. 
+
+
+19 
+
+
+F.2d 230 (9th Cir. 1989); Celanese Corp., 95 N. L. R. B. 
+664, 672 (1951). 
+
+As this Court has explained, these presumptions 
+“are based not so much on an absolute certainty that 
+the union’s majority status will not erode following 
+certification, as on a particular policy decision.” Fall 
+River, 482 U.S. at 38. Specifically, the presumptions 
+further the Act’s “overriding policy” of “industrial 
+peace” by “promot[ing] stability in collective-bargain- 
+ing relationships, without impairing the free choice of 
+employees.” Ibid. (internal quotation marks and cita- 
+tions omitted). They promote stability in two ways. 
+First, “they enable a union to concentrate on obtain- 
+ing and fairly administering a collective-bargaining 
+agreement without worrying that, unless it produces 
+immediate results, it will lose majority support and 
+will be decertified.” Ibid.’ Second, they “remove any 
+temptation on the part of the employer to avoid good- 
+faith bargaining in the hope that, by delaying, it will 
+undermine the union’s support among the employees.” 
+Ibid.“ “The upshot of the presumptions is to permit 
+
+
+2 To demonstrate an actual lack of majority support, the 
+employer must make a “numerical showing” that the unit 
+employees do not wish to be represented by the union; by 
+contrast, to demonstrate a good-faith doubt about the union’s 
+majority status, the employer may rely on circumstantial 
+evidence. Curtin Matheson, 494 U.S. at 788 n.8. 
+
+3 See also Brooks, 348 U.S. at 100 (Board’s presumptions 
+reflect judgment that Ja] union should be given ample time for 
+carrying out its mandate on behalf of its members, and should 
+not be under exigent pressure to produce hothouse results or be 
+turned out”). 
+
+4 See also Brooks, 348 U.S. at 100 (“It is scarcely conducive 
+to bargaining in good faith for an employer to know that, if he 
+dillydallies * * *, union strength may erode and thereby 
+relieve him of his statutory duties at any time, while if he 
+
+
+20 
+
+
+unions to develop stable bargaining relationships with 
+employers, which will enable the unions to pursue the 
+goals of their members, and this pursuit, in turn, will 
+further industrial peace.” Id. at 38-39. 
+
+This Court has rejected the notion that, by limiting 
+the ability of employers to challenge a union’s 
+majority status, the presumptions impermissibly 
+limit the right of employees to select, or refrain from 
+selecting, a bargaining representative. See Fall 
+River, 482 U.S. at 38 (presumptions operate “without 
+impairing the free choice of employees”). For exam- 
+ple, in Brooks v. NLRB, an employer received a 
+petition signed by nine of the 13 employees in the 
+bargaining unit stating that they did not wish to be 
+represented by the union that had been selected by a 
+majority of the employees in that same unit in a 
+Board-supervised election held one week earlier. 348 
+U.S. at 97. This Court sustained the Board’s deter- 
+mination that the employer had violated Section 
+8(a)(5) by subsequently refusing to bargain with the 
+union. 348 U.S. at 103-104. The Court rejected the 
+employer’s contention that, “whenever an employer is 
+presented with evidence that his employees have 
+deserted their certified union, he may forthwith 
+refuse to bargain.” Jd. at 103. The Court concluded 
+that “[t]o allow employers to rely on employees’ 
+rights in refusing to bargain with the formally 
+designated union is not conducive to [industrial 
+peace], it is inimical to it.” Ibid.° 
+
+
+works conscientiously toward agreement, the rank and file 
+may, at the last moment, repudiate their agent.”). 
+
+5 Decisions of this Court after Brooks also recognize the 
+validity of the Board’s presumptions regarding a union’s major- 
+ity status. In Burns, the Court held that a successor employer 
+
+
+21 
+
+
+In other contexts, the Court has similarly recog- 
+nized that the Act’s policy of promoting stability in 
+bargaining relationships may justify limits on chal- 
+lenges to a union’s majority status. In Local Lodge 
+No. 1424, Int'l Ass’n of Machinists v. NLRB, 362 U.S. 
+411 (1960), the Court held that the Act’s six-month 
+statute of limitations barred an unfair labor practice 
+charge based on an employer’s execution of a collec- 
+tive bargaining agreement with a union that actually 
+lacked majority support at the time of execution. Id. 
+at 412, 416-429. The Court rejected the continuing- 
+violation theory on which the Board rested its claim 
+of timeliness. The lower court had accepted that 
+theory on the ground that the Board reasonably could 
+have concluded that “the interests of [employee] self 
+determination outweighed otherwise important com- 
+peting considerations of burying stale disputes.” Id. 
+at 428. In reversing the lower court, this Court 
+determined that “the accommodation between these 
+
+
+had to bargain with the union certified to represent the 
+employees of its predecessor. 406 U.S. at 277-281. In so 
+holding, the Court determined that the successorship was “not 
+such an ‘unusual circumstance’ as to affect the force of the 
+Board’s certification within the normal operative period.” Id. 
+at 279; see also id. at 279 n.3, 290 & n.12. Similarly, the Court 
+in Fall River “comment(ed] approvingly” on the presumptions, 
+as the Board observed in the present case (Pet. App. 24a), in 
+upholding a decision by the Board concerning the bargaining 
+obligations of a successor employer. In Curtin Matheson, the 
+Court held that, in determining whether an employer had 
+demonstrated a good-faith doubt about a union’s majority 
+status, the Board reasonably refused to presume that striker 
+replacements opposed the union. 494 U.S. at 786-796. See also 
+Iron Workers, 434 U.S. at 343 n.8 (citing with apparent ap- 
+proval conclusive presumption of majority status that obtains 
+during term of collective bargaining agreement). 
+
+
+22 
+
+
+competing factors has already been made by Con- 
+gress.” Ibid. (brackets supplied by Court). The 
+Court explained (ibid. (internal quotation marks 
+omitted)): 
+
+
+It may be asserted, without fear of con- 
+tradiction, that the interest in employee freedom 
+of choice is one of those given large recognition 
+by the Act as amended. But neither can one 
+disregard the interest in industrial peace which 
+it is the overall purpose of the Act to secure. 
+
+
+The Court has also recognized that, when Congress 
+has not specifically struck the balance between 
+promoting stability in bargaining relationships and 
+employee self-determination, the Board has broad 
+discretion to do so. Cf. Beth Israel, 437 U.S. at 504 
+(“it is the Board upon whom the duty falls in the first 
+instance to determine the relative weight of the 
+conflicting interests and to balance their weight”). In 
+Franks Bros. Co. v. NLRB, 321 U.S. 702 (1944), the 
+Court held that the Board may order an employer that 
+has committed an unfair labor practice to bargain 
+with a union that had lost its majority status as a 
+result of the unfair labor practice. The Court 
+rejected the employer’s contention that the order 
+produced “injustice to employees who may wish to 
+substitute for the particular union some other bar- 
+gaining agent or arrangement.” Id. at 705. The 
+Court pointed out that the order was “not intended to 
+fix a permanent bargaining relationship”; rather, it 
+was intended to reflect that “a bargaining relation- 
+ship once rightfully established must be permitted to 
+exist and function for a reasonable period in which it 
+can be given a fair chance to succeed.” Ibid. 
+
+
+The Board carefully examined the foregoing prece- 
+dent in the present case. See Pet. App. 2la-25a, 30a- 
+31a, 46a-53a. As the Board recognized (see id. at 20a- 
+21a), this case involves the operation of the Board’s 
+presumptions in a particular setting: The question is 
+whether, at a time when a previously certified union 
+ordinarily would enjoy a conclusive presumption of 
+majority status because of its prior acceptance of the 
+employer’s contract offer, an mployer may assert a 
+good-faith doubt about the union's majority status, 
+when that doubt is based on events that occurred, and 
+were known to the empioyer, at a time when the union 
+enjoyed only a rebuttable presumption of majority 
+status (i. e., prior to acceptance). To resolve the 
+applicability of the presumptions in that setting, the 
+Board properly considered the manner in which the 
+presumptions “promotie] stability in collective-bar- 
+gaining relationships without impairing the free 
+choice of employees.” Jd. at 22a. The Board also 
+properly took into account precedent that, though not 
+directly involving the presumptions, did involve 
+“accommodations of the dual interests in employee 
+free choice and stable bargaining relations.” Id. at 
+46a. 
+
+
+® Contrary to petitioner’s assertion (Pet. Br. 15-17, 19-21), 
+neither this Court’s decision in Curtin Matheson, nor that of 
+the Eleventh Circuit in NLRB v. Bickerstaff Clay Products 
+Co., 871 F.2d 980 (1989), foreclosed the rule adopted by the 
+Board in this case. Although the employer in each of those 
+cases raised its assertion of a good-faith doubt after the union's 
+acceptance of the employer’s contract offer, in neither case did 
+the parties litigate the timeliness of the employer’s assertion of 
+a good-faith doubt. Instead, the parties framed the issue as 
+whether the employer had demonstrated a good-faith doubt, 
+and, in particular, whether the employer could rely on a 
+
+
+24 
+
+
+C. The Board’s Rule Is Rational And Consistent 
+With The Act 
+
+1. The Board’s rule discourages employer con- 
+duct that is inconsistent with good-faith bar- 
+gaining, and it effectuates the Act’s policies of 
+encouraging the formation of collective bar- 
+gaining agreements and providing stability 
+in established bargaining relationships. 
+
+a. The Board’s rule reasonably requires an em- 
+ployer who develops a good-faith doubt about the 
+union’s majority status in the course of negotiations 
+to voice his doubt at that point, while the union’s 
+presumption of majority support is rebuttable. When 
+the employer does so, the employer may continue to 
+bargain and file a representation petition with the 
+board to determine the union’s majority status. Al- 
+ternatively, the employer may break off negotiations; 
+if it does so, the employer’s demonstration of a good- 
+faith doubt about the union’s majority status provides 
+a defense to the charge that the employer’s refusal to 
+bargain with the union constituted an unfair labor 
+practice. 
+
+The conclusion of an agreement between the union 
+and the employer is properly regarded as an event 
+that significantly alters the relationship between the 
+parties. It is reasonable to require the employer, 
+after that point, to hold its peace with regard to 
+doubts it may have entertained prior to the agree- 
+ment’s formation. Once an agreement is concluded, 
+the time for bargaining and for the often disruptive 
+tactics that attend it is over. Each side must accept 
+the result of the bargaining process and get on with 
+
+
+presumption that striker replacements did not support the 
+union. See Pet. App. 55a-56a. 
+
+
+The extent to which the Board’s rule fosters 
+stability in bargaining relationships is especially 
+clear when it is recognized that proof of a good-faith 
+doubt about a union’s majority status differs signifi- 
+cantly from proof of an actual loss of majority status. 
+Here, for example, petitioner sought to rely on evi- 
+dence that a number of employees crossed the picket 
+line. Pet. App. 72a. Even if we assume that such 
+evidence is relevant to the existence of a good-faith 
+doubt, it has little if any probative value in estab- 
+an actual loss of majority status. An 
+employee’s decision to cross the picket line is ambig- 
+uous, standing alone. It may indicate the employee’s 
+financial situation rather than a desire not to be 
+represented by the union. Moreover, the significance 
+of the employee’s decision can become more difficult 
+to assess with the passage of time. For example, 
+when a company relies on an employee’s decision to 
+cross the picket line months after that conduct 
+occurred, the employee may have left the company’s 
+employment or may view differently in retrospect the 
+
+
+171 
+
+
+motive for that decision. The Board’s rule properly 
+prevents an employer from relying on such conduct to 
+vitiate an agreement that is already in place.’ 
+
+b. Thus, the Board’s rule promotes stability in 
+bargaining relationships in several ways. 
+
+I. The Board’s rule, like the presumptions under- 
+lying it, discourages employer conduct that is 
+inconsistent with good-faith bargaining. See Fall 
+River, 482 U.S. at 38; Brooks, 348 U.S. at 100. As the 
+Board explained, if an employer were permitted to 
+“sit” on its doubt about the union’s majority status 
+until after the union had accepted the employer’s 
+contract offer, it could “unilaterally” vitiate, at any 
+time during its term (within the statutory limitation 
+period), an agreement that in hindsight proved to be 
+not to the employer’s liking. Pet. App. 36a. Such 
+conduct is at odds with the statutory obligation to 
+bargain in good faith. See id. at 29a. It is rational for 
+the Board to adopt a rule that removes any incentive 
+the employer may otherwise have to engage in such 
+improper bargaining tactics. That rule, moreover, is 
+firmly grounded on the Board’s experience that some 
+employers actually do engage in such taeties.“ 
+
+
+7 The Board has not taken and does not take a position on 
+whether it would entertain an employer's claim, after a union’s 
+acceptance of a bargaining agreement, that the union actually 
+lacked majority support when the agreement was formed, 
+where the employer based that claim on events that occurred 
+and were known to the employer prior to the formation of the 
+agreement. As explained in the text, the substantiation 
+required to support such a claim would ordinarily differ from 
+that required to support a claim of good-faith doubt by the 
+employer. 
+
+See Pet. App. 3la nn.39-40 (citing Bennett Packaging Co., 
+285 N.L.R.B. 602, 608 (1987) (employer’s alleged doubt about 
+
+
+27 
+
+
+The Board’s rule also effectuates the Act’s policy of 
+encouraging the formation of collective bargaining 
+agreements. See 29 U.S.C. 151. Under the Act, “an 
+offer, once made, will remain on the table unless 
+explicitly withdrawn by the offeror or unless circum- 
+stances arise which would lead the parties to reason- 
+ably believe that the offer had been withdrawn.” 
+Pepsi-Cola Bottling Co. v. NLRB, 659 F. 2d 87, 90 (8th 
+Cir. 1981); accord NLRB v. Burkart Foam, Inc., 848 
+F.2d 825, 830 (7th Cir. 1988). Thus, a strike, a 
+counter-proposal, or a rejection of the employer’s 
+outstanding offer does not terminate the offer, for 
+such limitations would “run{] counter to federal labor 
+policy which encourages the formation of collective 
+
+
+bargaining agreements.” Pepsi-Cola Bottling, 659 
+F. ad at 89. The Board’s rule prevents nullification of 
+
+
+union’s majority status was not held in “good faith” when it 
+“was not raised until * * * full agreement on the collective- 
+bargaining agreement had been reached, though the claim was 
+based on information known to [the employer] all through the 
+bargaining process”); King Radio Corp., 208 N.L.R.B. 578, 584 
+(1974) (employer’s assertion of good-faith doubt about union’s 
+majority status was “obvious{ly]” made merely as “an after- 
+thought” in response to union’s filing of unfair labor practice 
+charges, in light of, inter alia, the fact that during extended 
+period of close negotiations, employer “had never made a claim 
+to the Union that it doubted its majority status even though the 
+factors upon which it relied to establish the alleged doubt 
+* * * were well known to the [employer] during all critical 
+times”), enforced, 510 F.2d 1154 (10th Cir.), cert. denied, 423 
+U.S. 839 (1975); Bolton-Emerson, Inc., 293 N.L.R.B. 1124, 1129 
+
+
+(1989) (finding unlawful the “bargaining ploy” of “(njegotiating 
+
+
+and then breaking them off when they fail to do so” on the 
+an alleged good-faith doubt harbored by employer 
+during the negotiations), enforced, 899 F.2d 104 (Ist Cir. 
+
+
+that policy by insuring that, when a contract offer has 
+been accepted, the resulting contract cannot be 
+abrogated in the absence of a showing of a true change 
+in circumstances, and not merely on the basis of a 
+good-faith doubt about the union’s majority status 
+that antedated acceptance of the contract offer. See 
+Pet. App. 33a (“if an employer fails to raise a doubt 
+based on known preacceptance factors until after 
+acceptance, the Board will not view those factors as 
+‘changed circumstances’ vitiating the employer’s 
+offer or the contract’s validity”); see also note 1, 
+supra (describing changes in circumstances suffi- 
+cient to overcome otherwise conclusive presumption 
+of majority status). 
+
+ii. Also like the presumptions underlying it, the 
+Board’s rule promotes stability in established bar- 
+gaining relationships. By precluding an employer’s 
+post-acceptance assertion of a good-faith doubt about 
+the union’s majority status at the time of acceptance, 
+the rule allows the union during the post-acceptance 
+period to focus on obtaining and administering a 
+collective bargaining agreement and on developing a 
+bargaining relationship with the employer. See Fall 
+River, 482 U.S. at 38. 
+
+The Court in Fall River recognized that the union 
+in that case needed the period of repose afforded by 
+the presumption during the “unsettling transition 
+period” between a predecessor employer and its suc- 
+cessor “to safeguard its members’ rights and to de- 
+velop a relationship with the successor.” 482 U.S. at 
+39. Similar policy considerations apply where, as 
+here, the union may have abandoned an unsuccessful 
+strike in the belief that it could still obtain a contract, 
+albeit on the employer’s terms. See Pet. App. 62a-63a; 
+ef. Belcon, Inc., 257 N.L.R.B. 1341, 1344 & n.8 (1981). 
+
+
+No less than in a successorship situation, the union 
+in the aftermath of an unsuccessful strike faces an 
+“unsettling transition period,” since its capitulation 
+to the employer’s superior economic strength may 
+have weakened its relationship with the employees. 
+In that situation, it is reasonable to afford the union a 
+period of repose, during which it may demonstrate to 
+the employees that, while the contract may not be as 
+favorable as they might have wished, the union will 
+diligently administer its terms on behalf of the em- 
+ployees, starting with issues that are likely to arise 
+respecting the reinstatement of striking employees. 
+See NLRB v. Fleetwood Trailer Co., 389 U.S. 375, 381 
+(1967) (economic strikers who unconditionally offer to 
+return to work must be reinstated “[i]f and when a job 
+for which the striker is qualified becomes available”).’ 
+
+iii. Finally, the Board’s rule is informed by its 
+experience that, as a practical matter, the employer’s 
+objective actions during negotiations are a more 
+reliable indicator of whether reasons existed for 
+doubting the union’s majority status at the time of 
+contract acceptance than are the employer’s post- 
+acceptance assertions of such doubt. As the Board 
+
+
+® Petitioner contends that the Board’s rule is inconsistent 
+with the presumptions because the presumptions are designed 
+to promote only “lawfully established” bargaining relationships. 
+Pet. Br. 21. Petitioner then argues that a bargaining rela- 
+tionship is not “lawfully established” if it is based on an agree- 
+ment between an employer and a union that actually lacked 
+majority status at the time the agreement was formed. /d. at 
+24-26. Whatever the merits of that argument, it is inapplicable 
+here. As discussed infra (pp. 34-36), petitioner has never 
+asserted that the Union actually lacked majority support at the 
+time of its acceptance of petitioner’s contract offer, but has 
+instead asserted only a good-faith doubt about its majority 
+status. 
+
+
+30 
+
+
+observed, an employer that “continue[s] to bargain 
+* * * by leaving its contract offer on the table” has, 
+by its own conduct, signalled a determination “to 
+treat the union as the representative of a majority of 
+its employees.” Pet. App. 29a. Moreover, the Board 
+reasonably determined that the demonstration of a 
+good-faith doubt after acceptance “becomes amenable 
+to post-hoc reasoning and self-serving interpre- 
+tations.” Jd. at 36a-37a. The Board’s rule obviates 
+such problems of proof and the disruptive post-accep- 
+tance litigation in which they arise. 
+
+
+2. The Board’s rule reasonably accommodates 
+the legitimate interests of employers and em- 
+ployees. 
+
+
+a. The Board’s rule preserves the employer’s 
+prerogative under the Act to withdraw recognition 
+from a union based on a good-faith doubt about its 
+majority status. As the Board explained, an employer 
+has control over “whether or when its debt will be 
+asserted.” Pet. App. 32a. The Board’s rule merely 
+requires that, as was true of petitioner, “if an 
+employer is aware of objective evidence to support a 
+good-faith doubt before the union accepts its offer, it 
+must, for the defense to be timely raised, act on this 
+doubt before the union accepts its offer.” Id. at 33a. 
+When the employer does so, its assertion of a good- 
+faith doubt is a “changed circumstance” that vitiates 
+the outstanding offer. Jbid. Given the employer’s 
+ability to void an outstanding contract offer in this 
+fashion, there is no justification for permitting it to 
+wait until acceptance of its offer before raising a pre- 
+existing doubt as to the union’s majority status. 
+
+Moreover, the Board’s rule does not curtail other 
+rights possessed by the employer under the Act. For 
+
+
+31 
+
+
+example, an employer that develops a good-faith doubt 
+about the incumbent union’s majority status after the 
+expiration of an existing agreement may petition the 
+Board for an election. See Full River, 482 U.S. at 41 
+n.8; NLRB v. Financial Institution Employees of 
+America, 475 U.S. 192, 198 (1986); NLRB v. Mexia 
+Textile Mills, Inc., 339 U.S. 563, 568 (1950); 29 U.S.C. 
+%(c)(1)(B); 29 C. F. R. 102.60(a); see also Brooks, 348 
+U.S. at 104 n.18. Upon the filing of such a petition, the 
+Board will hold an election, if the employer “demon- 
+strate[s] by objective considerations that it has some 
+reasonable ground for believing that the union has 
+lost its majority status.” United States Gypsum Co., 
+157 N.L.R.B. 652, 656 (1966); United States Gypsum 
+Co., 161 N.L.R.B. 601 (1966).“ 
+
+The employer may protect its legitimate interests 
+even if it is uncertain whether it has enough objective 
+evidence to support a good-faith doubt about the 
+union’s majority status during negotiations. In lieu 
+of petitioning for an election, the employer may 
+withdraw an outstanding offer at any time before the 
+union’s acceptance for any lawful reason. Burkart 
+Foam, supra; Pepsi-Cola Bottling, supra; see, e.g., J. 
+
+
+0 Under the Board’s “blocking charge” rule, the filing of an 
+unfair labor practice charge alleging an unlawful withdrawal of 
+recognition will ordinarily halt the processing of an election 
+petition. NLRB Casehandling Manual (Part Two) § 11730.3 
+(Sept. 1989); NLRB v. Big Three Industries, Inc., 497 F.2d 43, 
+51-52 (5th Cir. 1974). As a general matter, however, the em- 
+ployer may avoid the operation of the blocking charge rule by 
+not withdrawing recognition from the union (or committing 
+other unfair labor practices that would preclude a fair election, 
+were one held). In this case, the Board’s blocking charge rule 
+would not have applied, because no unfair labor practice charge 
+was filed before the Union accepted petitioner’s contract offer 
+and petitioner withdrew recognition from the Union. 
+
+
+32 
+
+
+Hofert Co., 269 N.L.R.B. 520, 520-521 (1984) (Board 
+found offer withdrawn when not accepted by date 
+specified in offer). Indeed, where, as here, the employ- 
+er has gained the upper hand in an economic strike, it 
+may, consistent with its bargaining obligations under 
+Section 8(a)(5), withdraw its outstanding contract 
+proposal and make a less generous offer, for “[iJt is 
+not illegal for an employer who has weathered a 
+strike to capitalize upon its new found strength to 
+secure contract terms it desires.” Hickinbotham 
+Bros. Ltd., 254 N.L.R.B. 96, 102 (1981); see also, e. g., 
+Plymouth Stamping Div., Eltec Corp., 286 N.L.R.B. 
+890, 896 (1987), enforced, 870 F.2d 1112 (6th Cir.), cert. 
+denied, 493 U.S. 891 (1989). Petitioner apparently (see 
+Pet. Br. 3) availed itself of that opportunity by making 
+a less generous contract offer on November 17, 1988, 
+but then, notwithstanding an alleged further erosion 
+in the Union’s employee support, it elected to leave 
+that offer on the bargaining table so that it could be 
+accepted by the Union on November 27. 
+
+b. The Board’s rule respects the right of employees 
+“to bargain collectively through representatives of 
+their own choosing” and to refrain from doing so. 29 
+U.S.C. 157. It gives employees a period of stability 
+during which a union presumptively supported by the 
+majority of the employees has an opportunity to 
+obtain and administer a collective bargaining agree- 
+ment on their behalf. 
+
+Moreover, as the Board emphasized, its rule limits 
+the ability only of employers to assert a doubt about 
+the union’s majority status. Pet. App. 53a. The 
+Board’s rule leaves employees entirely free to pursue 
+their right under the Act to remove or replace their 
+bargaining representative. Under the Act, employees 
+“are not powerless to reject a union that they believe 
+
+
+33 
+
+
+no longer commands their support.” Fall River, 482 
+U.S. at 50 n.16. They may file a decertification 
+petition with the Board during the “window period” 60 
+to 90 days prior to the expiration of an existing 
+agreement of three years’ duration or less. Pet. App. 
+23a n.26; Crompton Co., 260 N.L.R.B. 417, 418 (1982). 
+In addition, they may file a decertification petition at 
+any time after the existing contract has expired and 
+before the union accepts an outstanding offer by the 
+employer for a new contract. If the decertification 
+petition is supported by a 30% showing of interest 
+among the unit employees, it will ordinarily trigger a 
+Board election. See 29 U.S.C. 159(c)(1)(A)(ii); 29 
+C.F.R. 101.18(a); Deluxe Metal Furniture Co., 121 
+N. L. R. B. 995 (1958). 
+
+In this case, the then-current labor agreement 
+between petitioner and the Union expired on Septem- 
+ber 25, 1988 (Pet. App. 95a); thus, the employees were 
+free to file a decertification petition, pre-expiration, 
+during the period 60 to 90 days prior to September 25, 
+1988, and, again, during the roughly two-month period 
+from the expiration of the contract (September 25, 
+1988) until the Union accepted petitioner’s contract 
+offer (November 27, 1988). The employees did not do 
+so, however, even though they were aware of their 
+decertification rights." Particularly in those cir- 
+
+
+u The record indicates that, in late August or early 
+September 1988, employees Dick Boudreau and John Duck- 
+worth asked Gerald Sauer, petitioner’s controller, “what they 
+needed to do to get rid of the union.” J.A. 60a. Sauer referred 
+the employees to the Board. Ibid. Boudreau later told Sauer 
+that he had “called up the NLRB and got the paperwork on 
+it.“ J.A. 6la. However, no decertification petition was filed; 
+and Boudreau himself joined the strike and the picketing. J.A. 
+5la-538a. Had the employees filed a decertification petition, the 
+
+
+34 
+
+
+cumstances, At jo allow [petitioner] to rely on [its] 
+employees’ rights in refusing to bargain with the 
+[Union] is not conducive to [industrial peace], it is 
+inimical to it.“ Brooks, 348 U.S. at 103. 
+
+
+D. The Board’s Rule Is Not Inconsistent With 
+Section 8(a)(2) of the Act Or Case Law 
+Construing That Provision 
+
+
+Petitioner’s principal contention is that the 
+Board’s rule violates Section 8(a)(2) of the Act, as 
+construed in International Ladies’ Garment Work- 
+ers’ Union v. NLRB, 366 U.S. 731 (1961), and in 
+certain lower-court decisions. See Pet. Br. 21-26, 28- 
+29, 35-36. Section 8(a)(2) makes it an unfair labor 
+practice for an employer “to dominate or interfere 
+with the formation or administration of any labor 
+organization or contribute financial or other support 
+to it.“ In Garment Workers, this Court held that an 
+employer had violated Section 8(a)(2) by entering into 
+a recognition agreement with an initially-organizing 
+union that actually lacked majority support at the 
+time of the agreement. 366 U.S. at 733-734, 737-738. 
+Petitioner’s reliance on Section 8(a)(2) and case law 
+construing it is unpersuasive. 
+
+1. Unlike Garment Workers, this case involves a 
+claim of a good-faith doubt about a union’s majority 
+status, rather than a claim that the union actually 
+lost majority status. The Board repeatedly “empha- 
+sized that the case before us does not involve 
+allegations of an actual loss of majority status.” Pet. 
+App. 54a n.76; see id. at 17a n.16, 20a n.19; see also id. 
+
+
+Board’s “blocking charge” rule would not have barred Board 
+consideration of that petition, just as the rule would not have 
+barred Board consideration of any petition for an election filed 
+by petitioner. See note 10, supra. 
+
+
+35 
+
+
+at 39a. The Board also emphasized that its decision 
+“does not affect the principle that a union and an 
+employer are not permitted to continue bargaining if 
+the union has actually lost its majority sſtlatus and 
+the employer and the union are aware of this actual 
+loss.” Id. at 54a; see also id. at 38a-39a.” 
+
+The Board and the courts have recognized the 
+distinction between claims of good-faith doubt and 
+claims of actual loss of majority support.” The ques- 
+tion presented here is limited to whether the former 
+claim may be asserted by an employer, after the 
+union’s acceptance of the employer’s contract offer, 
+based on events occurring and known to the employer 
+prior to acceptance. 
+
+
+2 Although petitioner repeatedly asserts or implies in this 
+Court that the Union had actually lost majority support at the 
+
+
+time that it accepted petitioner’s contract offer (see Pet. Br. 
+
+
+13, 18, 21, 23-24, 26-27, 35, 36), it never advanced that claim 
+before the Board. Its failure to do so precludes consideration of 
+that claim by this Court. Section 10(e) of the Act, 29 U.S.C. 
+160(e), provides in pertinent part that “[nJo objection that has 
+not been urged before the Board * * * shall be considered by 
+the [reviewing] court, unless the failure or neglect to urge such 
+objection shall be excused because of extraordinary circum- 
+stances.” See Woelke & Romero Framing, Inc. v. NLRB, 456 
+U.S. 645, 665-666 (1982) (holding that under 29 U.S.C. 160(e) 
+the court of appeals “was without jurisdiction to consider” an 
+issue “not raised during the proceedings before the Board”). 
+Petitioner does not contend that such circumstances exist here. 
+
+
+See, e.g., Curtin Matheson, 494 U.S. at 778, 788 n.8; 
+Whisper Soft Mills, Inc. v. NLRB, 754 F.2d 1381, 1387 (9th 
+Cir. 1984); NLRB v. Pennco, Inc., 684 F.2d 340, 342 (6th Cir.), 
+cert. denied, 459 U.S. 994 (1982); NLRB v. Windham Comm. 
+Memorial Hospital, 577 F.2d 805, 811 (2d Cir. 1978); Retired 
+Persons Pharmacy v. NLRB, 519 F.2d 486, 489 (2d Cir. 1975); 
+Station KKHI, 284 N.L.R.B. 1339, 1340 (1987), enforced, 891 
+F. 2d 230 (9th Cir. 1989); Celanese Corp. 95 N.L.R.B. at 672. 
+
+
+36 
+
+
+In any event, there is no inconsistency between the 
+Board’s rule in this case and the Court’s decision in 
+Garment Workers. As the Board explained, “the vio- 
+lation found [in Garment Workers] was the employ- 
+er’s initial grant of exclusive representation status to 
+a union that had not been chosen by a majority of its 
+employees.” Pet. App. 40a. Here, by contrast, the 
+Union “was the certified representative of [petition- 
+er's] unit employees”; it “was operating under a 
+rebuttable presumption of continued majority sup- 
+port” that “was unchallenged at the time of accep- 
+tance” of petitioner’s contract offer; and, at that time, 
+“there was no legally cognizable evidence that con- 
+tinued bargaining would involve dealing with a 
+minority union.” Id. at 40a-4la. Nothing in the Act 
+makes an otherwise lawful labor contract illegal 
+simply because the employer may have harbored a 
+good-faith doubt (that remained unarticulated during 
+the negotiations) about the majority status of the 
+union with which it negotiated that agreement. 
+
+2. Similarly misplaced is petitioner’s reliance on 
+the Seventh Circuit’s decision in Chicago Tribune 
+Co. v. NLRB, 965 F.2d 244 (1992). Pet. Br. 17-19, 37. 
+There, the court held that, after a union had accepted 
+the employer’s contract offer, the employer could 
+assert that the union lacked majority support at the 
+time of acceptance. 965 F.2d at 250. In so holding, the 
+court relied on Garment Workers and Fall River, 482 
+U.S. at 51 n.18, for the proposition that “the law 
+forbids a company to sign a collective bargaining 
+contract with a union that it knows does not have the 
+support of a majority of the workers in the bargaining 
+unit.” Chicago Tribune, 965 F.2d at 249-250 (citation 
+omitted). 
+
+
+37 
+
+
+Neither that proposition nor the holding in Chicago 
+Tribune is applicable here: Petitioner did not know 
+that the Union had lost majority support when it 
+refused to acknowledge the Union’s acceptance of its 
+offer; rather, petitioner had, at most, a good-faith 
+doubt about the Union’s majority status. Indeed, be- 
+fore the Board and the court of appeals, petitioner 
+never asserted—and neither the Board nor the court 
+found—that the Union in fact lacked majority support 
+at the time of acceptance. See note 12, supra. In 
+contrast, the Seventh Circuit in Chicago Tribune 
+understood the employer to have based its refusal to 
+sign an agreement with the union on its knowledge 
+that the union had in fact lost majority support at the 
+time of acceptance (965 F.2d at 248); moreover, the 
+court determined that such a loss of majority support 
+had in fact occurred (id. at 250). Thus, the Seventh 
+Circuit held that the Board’s rule—“that a union’s 
+unconditional acceptance of an offer for a collective 
+bargaining contract is valid and binds the company 
+unless circumstances have changed since the 
+company’s offer was made or renewed”—does not 
+“apply to a case such as this where between the 
+original offer and its renewal the union lost the 
+support of the workers.” Ibid. That holding does not 
+govern the resolution of the present case, in which 
+there was neither an assertion by the employer nor a 
+finding by the Board or the court of appeals that the 
+union had actually lost the support of a majority of 
+the workers at the time it accepted the employer’s 
+contract offer. 
+
+For precisely the same reason, Garment Workers, 
+one of the decisions on which Chicago Tribune relied, 
+is inapposite here—since Garment Workers also 
+involved a union that actually lacked majority support 
+
+
+38 
+
+
+at the time the contract was formed. In Fall River 
+(on which Chicago Tribune also relied), the Court 
+suggested that a successor employer might violate 
+Section 8(a)(2) if it recognized the incumbent union 
+before a “substantial and representative complement” 
+of employees had been hired. 482 U.S. at 51 n. 18. The 
+basic teaching of Fall River, however, is that, once 
+the successor has hired a representative complement 
+of employees, and a majority of that complement 
+consists of employees who worked for the prede- 
+cessor, the union’s rebuttable presumption of majori- 
+ty status continues into the new relationship. /d. at 
+46-52. A fortiori, where no successorship was in- 
+volved, the Union enjoyed a rebuttable presumption of 
+majority support at the time the Union accepted peti- 
+tioner’s contract offer. 
+
+3. Petitioner’s reliance (Pet. Br. 24-26) on Royal 
+Coach Lines, Inc. v. NLRB, 838 F.2d 47 (2d Cir. 1988), 
+and Moisi & Sons Trucking, Inc., 197 N.L.R.B. 198 
+(1972), is also unavailing. Those cases hold that an 
+employer that has voluntarily extended initial 
+recognition to the union may subsequently withdraw 
+recognition from the union if the employer “intro- 
+duces affirmative evidence proving a lack of majority 
+status at the time of the recognition agreement.” 
+Moisi & Sons Trucking, 197 N.L.R.B. at 198 n.2 
+(rejecting the defense; emphasis added); Royal Coach 
+Lines, 838 F. 2d at 55 (finding that union did not in fact 
+have majority status when it obtained voluntary 
+recognition). Neither decision addresses the very 
+different situation presented here, where, after accep- 
+tance of a contract by a previously certified, incum- 
+bent union which enjoyed a rebuttable presumption of 
+majority status at the time of acceptance, the em- 
+ployer withdraws recognition from the union, based 
+
+
+only upon a pre-existing good-faith doubt as to the 
+union’s majority status at the time of acceptance.“ 
+E. The Board Rationally Adopted a Bright-Line 
+Rule That Precludes All Post-Acceptance 
+Employer Assertions of Good-Faith Doubt 
+About a Union's Majority Status 
+
+
+The Board acted reasonably in establishling]! a 
+date certain—a union’s acceptance of an employer’s 
+contract offer—after which an employer cannot 
+challenge the majority status of a certified union 
+based on an alſlleged good-faith doubt.” Pet. App. 53a 
+(emphasis omitted). Petitioner contends, however, 
+that an employer should have a “reasonable opportu- 
+nity * to investigate and verify the information, 
+which, if confirmed, would serve as the basis for the 
+Employer’s good faith doubt,” as well as “a reasonable 
+period of time to communicate its good faith doubt to 
+the Union.” Pet. Br. 27. Contrary to petitioner’s 
+contention, the Board was not obligated to adopt a 
+rule requiring a case-by-case determination of 
+whether an employer had such opportunities. 
+
+
+“ Petitioner incorrectly suggests (Br. 14 n.4) that the 
+Board’s rule is inconsistent with its decision in Viking Lithogra- 
+phers, Inc., 184 N.L.R.B. 139 (1970). There, the Board found 
+that the employer acted lawfully in withdrawing recognition 
+from the union based on a good-faith doubt about the union's 
+majority status. Id. at 140. As the Board noted (Pet. App. 26a 
+n.31), however, the parties in Viking Lithographers, unlike 
+those here, had not reached a binding agreement when the 
+employer withdrew recognition. See 184 N.L.R.B. at 139-140. 
+Because the claim of a good-faith doubt in Viking Lithogra- 
+phers was not made after the formation of an agreement, it was 
+not made at a time when the presumption of majority status 
+was conclusive. 
+
+
+40 
+
+
+The Board’s bright-line rule, based on the date of 
+acceptance, exemplifies the way in which previously 
+recognized presumptions regarding a union’s major- 
+ity status operate. They attach upon the occurrence 
+of objective, readily ascertainable events. Thus, in 
+Brooks, the presumption barred an employer from 
+relying on clear-cut proof of a union’s actual loss of 
+majority status that arose only one week after an 
+election. See 348 U.S. at 97. In this case, the 
+applicable presumption arose upon the Union’s accep- 
+tance of petitioner’s contract offer. At that point, an 
+agreement was formed that the Union had a right to 
+have embodied in a written collective bargaining 
+agreement. See H. J. Heinz Co. v. NLRB, 311 U.S. 
+514, 523-526 (1941). It is entirely logical that the 
+Board’s rule applies at the same point. 
+
+More fundamentally, the Board’s selection of the 
+acceptance date accords with the purposes of the 
+presumptions. Immediately after acceptance, the 
+union needs the benefit of the presumption in order to 
+focus upon obtaining a written contract incorporating 
+the terms of the agreement. At the same time, the 
+risk arises that the employer may assert a good-faith 
+doubt in order to avoid having to sign such a contract. 
+Of course, the contract proposal that the union has 
+accepted must have been sufficiently complete so that 
+its acceptance creates an enforceable contract. See 
+Pet. App. 107a (“There is no dispute that [petitioner's 
+extensive oral and written proposals of November 17 
+effectively comprised a complete contract.”). But 
+even a proposal that sets forth all of the essential 
+elements of an agreement usually leaves many details 
+to be worked out. In the process of resolving those 
+details, an employer may well develop misgivings 
+about the agreement. Thus, the Board’s rule is 
+
+
+41 
+
+
+rationally triggered as soon as the need for the 
+presumption of majority status arises. 
+
+The Board “recognize{d] that extraordinary cir- 
+cumstances may arise in which a union’s acceptance 
+of an employer’s final contract offer and the 
+employer’s assertion of a good-faith doubt are simul- 
+taneous.” Pet. App. 54a. The Board indicated that it 
+would address any cases presenting such circum- 
+stances on a case-by-case basis. Jbid. As the court 
+of appeals observed, however, the Board implicitly 
+determined that this is not such a case. Id. at 6a n.2. 
+The court of appeals specifically (ibid.) sustained that 
+determination, as well as the Board’s related (explic- 
+it) finding that the evidence in support of petitioner’s 
+alleged good-faith doubt “[was] in existence and 
+known to the employer before acceptance” (id. at 20a). 
+Petitioner does not, and cannot, challenge that find- 
+ing here, see Universal Camera Corp. v. NLRB, 340 
+U.S. 474, 490-491 (1951). In those circumstances, 
+petitioner provides no basis for setting aside the 
+Board’s rule when it suggests (Pet. Br. 27; see also 
+id. at 28) that the Board’s rule could preclude an 
+employer from asserting a good-faith doubt about a 
+union’s majority status if the Union accepts the 
+employer’s contract offer “within minutes or hours” 
+of the employer’s receipt of the information that gives 
+rise to the doubt. 
+
+
+42 
+
+
+Il. IN ANY EVENT, IN THE CIRCUMSTANCES 
+OF THIS CASE THE BOARD REASONABLY 
+REFUSED TO CONSIDER PETITIONER'S 
+ASSERTION OF A GOOD-FAITH DOUBT 
+ABOUT THE UNION’S MAJORITY STATUS 
+
+
+If petitioner’s primary challenge to the Board’s 
+rule were sustained, an employer presumably could 
+vitiate a collective-bargaining agreement at any time 
+during the term of the agreement (within the statu- 
+tory limitation period) on the basis of a good-faith 
+doubt about the majority status of a union at the time 
+that the agreement was formed. Petitioner’s fallback 
+position is that, even if the Board may impose some 
+limit on the time when a good-faith doubt may be 
+raised, the limit should be flexible enough to afford an 
+employer a “reasonable period of time” in which to 
+both assess the evidence of a union’s loss of support 
+and communicate its doubt to the Union. Pet. Br. 27. 
+As explained above, in the absence of extraordinary 
+circumstances, the Board’s rule rationally bars all 
+post-acceptance assertions of good-faith doubt by an 
+employer based on pre-acceptance evidence known to 
+the employer. See pp. 39-41, supra. We now show that, 
+in any event, petitioner had a reasonable period of 
+time within which to assess the evidence and com- 
+municate its asserted doubt to the Union.” 
+
+
+Neither the Board nor the court of appeals determined 
+whether the evidence was sufficient to support a good-faith 
+doubt about the Union’s majority status at the time that it 
+accepted petitioner’s outstanding contract offer. Pet. App. 
+34a, 72a-73a, 80a n.81, 85a n.85. We do not concede its suffi- 
+ciency here. Rather, our point is that petitioner became aware 
+of that evidence, such as it was, enough in advance of the 
+
+
+43 
+
+
+The record demonstrates that petitioner had re- 
+ceived most, if not all, of the evidence upon which it 
+based its asserted doubt by Monday, November 21, 
+1988, six days before the Union telegraphed its accep- 
+tance on Sunday, November 27, 1988. As the court of 
+appeals observed, petitioner based its asserted doubt 
+primarily on evidence that, of the 23 unit employees, 
+(1) nine employees crossed the picket line; (2) 13 
+employees submitted written forms purporting to 
+resign from the Union; and (3) 16 employees ex- 
+pressed dissatisfaction with the Union. Pet. App. 72a; 
+accord Pet. Br. 5-6.“ The first category of evidence 
+relates to events on or before Friday, November 18, 
+1988, because that is the date on which the picket line 
+was taken down. Pet. App. lla, 36a n.47; see also Pet. 
+Br. 30. As to the second category of evidence, 12 of 
+the 13 written resignation forms were dated on or 
+before Monday, November 21. J.A. 7la-77a. Finally, 
+Ralph Auciello, petitioner’s vice-president, testified 
+that many of the employees who expressed dissatis- 
+faction with the Union did so on or before Friday, 
+November 18, the day on which the picket line came 
+down and many employees came back to work. See 
+J. A. 42a; see also J.A. 17a-40a, 57a, 60a.“ 
+
+
+Union’s acceptance to have a reasonable opportunity to assess 
+its significance and to communicate its asserted doubt. 
+
+6 See also Respondent's [i. e., petitioner's] C. A. Memorandum 
+{regarding Board’s supplemental decision and order] 3. 
+
+N Petitioner also relies (Pet. Br. 6) on evidence that, prior to 
+the Union’s acceptance of petitioner’s contract offer, an un- 
+specified number of employees who supported the Union told 
+petitioner that they intended to accept permanent jobs else- 
+where. Petitioner’s witnesses testified that four employees had 
+conveyed that information to petitioner by Friday, November 
+18, 1988. J. A. 25a-28a, 30a, 47a, 57a. 
+
+
+44 
+
+
+Petitioner does not dispute that it had received 
+most or all of the evidence supporting its asserted 
+doubt by Monday, November 21, 1988. Although peti- 
+tioner protests that an employer cannot evaluate such 
+information and communicate its doubt “within 
+minutes or hours,” it does not assert that it was re- 
+quired to act that quickly. Pet. Br. 27. Petitioner 
+merely asserts that it had “far less than an adequate 
+basis” for a good-faith doubt “as of [Thursday,] 
+November 17, 1988, when it made its last offer to the 
+Union.” Pet. Br. 29. Petitioner elsewhere acknowl- 
+edges, however, that even as of that date it believed 
+that support for the Union “was on the downslide.” 
+Id. at 5. Otherwise, petitioner asserts only that it 
+received much of the information regarding the 
+Union’s purported loss of support beginning on 
+Friday, November 18, 1988, and over the ensuing 
+three- or four-day period. Jd. at 30. | 
+
+The period between Monday, November 21, and 
+Sunday, November 27, 1988, gave petitioner a reason- 
+able opportunity to both evaluate the evidence and 
+communicate its doubt concerning the Union’s major- 
+ity status before the Union accepted petitioner’s 
+contract offer on November 27. Indeed, petitioner 
+accomplished both of those activities, by its account, 
+within 24 hours after the Union’s acceptance. See 
+Pet. Br. 7; Pet. App. lla, 35a; J.A. 42a, 66a." Thus, 
+even if, contrary to our submission in Point I, this 
+
+
+Moreover, petitioner’s vice-president, Ralph Auciello, 
+testified that, toward the end of the strike (which the Union 
+called off on November 27, 1988), and before the Union had 
+accepted the contract offer, petitioner convened a meeting in 
+order to prepare a list of employees who, petitioner believed, 
+did not wish to be represented by the Union. Pet. App. 36a; see 
+J. A. 48a-49a, 53a-54a, 55a-56a, 68a. 
+
+
+45 
+
+
+Court were to accept petitioner’s contention (Pet. Br. 
+31) that an employer should have “a few days” to 
+evaluate the evidence of a loss of majority support for 
+the Union and to communicate its doubt about the 
+Union’s majority status, the Board’s decision should 
+be upheld. 
+
+CONCLUSION 
+
+
+The judgment of the court of appeals should be 
+affirmed. 
+
+
+Respectfully submitted. 
+
+
+Drew S. Days, III 
+Solicitor General 
+LAWRENCE G. WALLACE 
+Deputy Solicitor General 
+RICHARD H. SEAMON 
+Assistant to the Solicitor 
+General 
+FREDERICK L. FEINSTEIN 
+General Counsel 
+LINDA SHER 
+Associate General Counsel 
+NORTON J. COME 
+Deputy Associate General Counsel 
+JOHN EMAD ARBAB 
+
+
+Attorney 
+National Labor Relations Board 
+
+
+MARCH 1996 
+
+

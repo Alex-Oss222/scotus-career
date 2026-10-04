@@ -1,0 +1,29 @@
+Bowersox v. Williams, application No. A-828 (event 1996-04-09): record search log (neutral version)
+
+Searched 2026-10-03 for the stay record that the OT1995 workspace manifest and continuity note
+("Bowersox - stay record") direct to be obtained: the third petition, the magistrate judge's
+report, the January 11, 1996 district-court order, the proposed amendment, the Eighth Circuit's
+certificate of probable cause and March 8, 1996 stay order, and the application papers.
+
+1. Internet Archive, collection us-supreme-court (advancedsearch, title field):
+   "Bowersox" -> items for other matters only; no A-828 item.
+   "Williams AND Bowersox", "Doyle Williams", "Williams AND Delo", "Williams AND Armontrout",
+   "Delo AND Williams", "A-828" -> no item for this matter.
+2. Caselaw Access Project (static.case.law), case-name scan:
+   F.Supp. vols. 880-950 (vol. 896 unavailable), names containing Williams with Delo or
+   Bowersox -> none. No reported district-court order or magistrate judge's report found.
+   F.3d vols. 60-105 -> no Eighth Circuit opinion on the third petition, the certificate or
+   the March 8, 1996 stay issued before this event.
+3. CourtListener opinion search ("Doyle J. Williams"; Williams with Delo or Bowersox) -> no
+   district-court order or magistrate judge's report; RECAP has no docket for this matter.
+
+Result: none of the listed record items was recovered from the public sources searched.
+
+Items located in these searches that post-date this event were not admitted and are not
+described in this neutral log.
+
+Date-eligible related history located but not admitted (its link to the third petition is not
+established from pre-event sources): Williams v. Delo, 928 F.2d 284 (8th Cir. Mar. 19, 1991)
+(No. 91-1523; motion of the superintendent to vacate a stay of execution denied, on appeal from
+the Western District of Missouri; rehearing en banc denied); Williams v. Armontrout, 912 F.2d
+924 (8th Cir. 1990) (en banc) (No. 88-1342; denial of a federal habeas petition affirmed).

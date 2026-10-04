@@ -1,0 +1,2221 @@
+/ \ Supreme Court, U.S. 
+(1) FILED 
+
+
+94 2083 AUG -1 1994 
+No. QFiCE OF THE CLERK 
+
+
+fT TTT TTC 
+IN THE 
+Supreme Court of the United States 
+OCTOBER TERM, 1994 
+
+
+FORTIS MORSE, KENNETH CURTIS BARTHOLOMEW, 
+AND KIMBERLY J. ENDERSON, 
+
+
+Appellants, 
+
+
+V. 
+
+
+OLIVER NORTH FOR U.S. SENATE COMMITTEE, INC. 
+REPUBLICAN PARTY OF VIRGINIA AND 
+ALBEMARLE COUNTY REPUBLICAN COMMITTEE, 
+Appellees. 
+
+
+On Appeal from the United States District 
+Court for the Western District of Virginia 
+
+
+JURISDICTIONAL STATEMENT 
+
+
+PAMELA S. KARLAN GEORGE A. RUTHERGLEN 
+Counsel of Record 580 Massie Road 
+580 Massie Road Charlottesville, VA 22903 
+
+
+Charlottesville, VA 22903 (804) 924-7015/7536 (Fax) 
+(804) 924-7810/7536 (Fax) 
+DANIEL R. ORTIZ 
+
+
+EBEN MOGLEN University of Southern 
+Columbia Law School California Law Center 
+435 West 116th Street University Park 
+
+New York, NY 10027 Los Angeles, CA 90089 
+
+
+(212) 854-8382/7946 (Fax) (213) 740-7331/5502 (Fax) 
+
+
+Attorneys for Appellants 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Does section 5 of the Voting Rights Act of 
+1965 require preciearance of a political party’s decision to 
+hold a convention and to impose a non-waivable $45 fee on 
+all voters who wish to participate in the process of 
+nominating that party’s candidate for United States Senator? 
+
+
+2. Does section 5 of the Voting Rights Act of 
+1965 require preclearance of a political party’s decision to 
+hold a convention and to impose a non-waivable $45 filing 
+fee on all candidates for the position of delegate to a state 
+convention called to nominate that party’s candidate for 
+United States Senator? 
+
+
+3. Can individual voters who have been forced to 
+pay an illegal poll tax or who claim to have been deterred 
+from participating in an election by the existence of such a 
+tax bring suit under section 10 of the Voting Rights Act, 
+which explicitly outlaws poll taxes? 
+
+
+ii 
+PARTIES 
+
+The following were parties in the courts below: 
+Fortis Morse; 
+Kenneth Curtis Bartholomew; and 
+Kimberly J. Enderson 
+
+Plaintiffs; 
+The Oliver North for U.S. Senate Committee, Inc.; 
+The Republican Party of Virginia; and 
+
+
+The Albemarle County (Virginia) Republican 
+Committee 
+
+
+Defendants. 
+
+
+TABLE OF CONTENTS 
+
+
+ETS OT a 
+
+
+EEE EE 
+EO ee 
+EE 
+ESS 
+The Questions Presented Are Substantial 
+I. The decision of the court below 
+represents so extreme a departure from 
+well-settled principles about the scope of 
+section 5 that it must be reversed ...... 
+
+
+A. Section 5 clearly covers the activities 
+ree 
+
+
+B. The district court completely misread 
+the administrative regulation on which 
+Ee 
+
+
+Page 
+
+
+10 
+
+
+iv 
+
+
+C. The district court’s reliance on 
+Williams v. Democratic Party was 
+entirely misplaced ............ 
+
+
+D. The district court’s categorical exemption 
+of party rules dealing with conventions 
+conflicts with this Court’s decision 
+in Allen v. State Board of Elections 
+that the decision to abandon election 
+in favor of another method of filling 
+an office requires preclearance 
+
+
+Il. Section 5 requires preclearance of the RPV’s 
+decision to impose a $45 fee either because 
+the fee involves a candidate qualification 
+for the position of delegate or because the 
+fee represents a prerequisite to voting 
+Ot GR GU dno 6 0 ct cc 0 Hawes 
+
+
+Ill. The district court’s decision that individuals 
+subjected to an illegal poll tax have no cause 
+of action under section 10 of the Voting 
+Rights Act conflicts with congressional 
+intent, this Court’s decision in Allen, 
+and the structure of the Voting Rights 
+Sere se Sia ee 
+
+
+a a ie a ie ee eee 
+
+
+PE nk cece eeu sc tee Onwlan 
+
+
+12 
+
+
+14 
+
+
+16 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES 
+
+
+Pages 
+
+Cases 
+Allen v. State Board of Elections, 
+
+oe Ws eee ee ek 8,14-15,19-21 
+Anderson v. Celebrezze, 460 U.S. 780 
+
+a ad ere | tg SU eee hoo 13 
+Bullock v. Carter, 405 U.S. 134 (1972) ..... 16-17 
+Chisom v. Roemer, 111 S.Ct. 2354 (1991) .. 9,19 
+Clark v. Roemer, 111 S.Ct. 2096 (1991) ... 7 
+Dougherty County Board of Education 
+
+v. White, 499 U.S. 32 (1978) ......... 8,9,16 
+Fortune v. Kings County Democratic County 
+
+Committee, 598 F. Supp. 761 (E.D.N.Y. 
+
+1984) (three-judge court) ............ 13 
+Harman v. Forssenius, 380 U.S. 528 
+
+EE TONE ee heen S's as ob 00 2 16,21 
+Harper v. Virginia Board of Elections, 
+
+se KN a eee 16,21 
+Hawthorne v. Baker, 750 F. Supp. 1090 (M.D. 
+
+Ala. 1990) (three-judge court) ......... 13 
+
+
+Holder v. Hall, 62 U.S.L.W. 4728 (1994) ... 9 
+
+
+vi 
+
+
+MacGuire v. Amos, 343 F. Supp. 119 (M.D. 
+
+
+(Ala. 1972) (three-judge court) 
+
+
+Mandel v. Bradley, 432 U.S. 175 (1977) 
+(per curiam) 
+
+
+NAACP v. Hampton County Election 
+Commission,470 U.S. 166 (1985) 
+
+
+Presley v. Etowah County Commission, 
+112 S.Ct. 820 (1992) 
+
+
+Smith v. Allwright, 321 U.S. 649 (1944) 
+
+
+South Carolina v. Katzenbach, 383 U.S. 
+
+
+wee GUE 4.6, ois OMS Ww heh ope es 
+
+
+Terry v. Adams, 345 U.S. 461 (1953) ..... 
+
+
+United States v. Board of Commissioners, 
+
+
+Ge Wey SOP s0 we ortiedg 40:00 6 
+
+
+Valteau v. Edwards, No. 84-1293 (E.D. La. 
+Mar. 21, 1984) (three-judge court), 
+
+
+stay denied, 466 U.S. 909 (1984) ....... 
+
+
+Williams v. Democratic Party of Georgia, 
+No. 16286 (N.D. Ga. Apr. 6, 1972) 
+(three-judge court), aff'd, 409 U.S. 
+
+809 (1972) 
+
+
+Wilson v. North Carolina State Board of 
+Elections, 317 F. Supp. 1299 (M.D.N.C. 
+
+
+1970) (three-judge court) ............ 
+
+
+- oo oy ee Ae See eee ee’ ee ee eee a oe 6 eee 
+
+
+i Doreen -. © & & & Se & 
+
+
+13 
+
+
+15 
+
+
+Vii 
+
+
+Constitutional and Statutory Provisions 
+
+
+U.S. Const., amend. XIV 
+
+
+oe er re tk te ee ees 
+
+
+28 U.S.C. § 1253 (1988) 
+28 U.S.C. § 1331 (1988) 
+28 U.S.C. § 1343 (1988) 
+
+
+Voting Rights Act of 1965 
+
+
+ae See a 
+
+
+Voting Rights Act of 1965 
+
+
+Boye ht. Pe are 
+
+
+Voting Rights Act of 1965 
+
+
+Bice Vi Ea ae 
+
+
+Voting Rights Act of 1965 
+§ 19731 (1988) 
+
+
+Voting Rights Act of 1965 
+
+
+Fo Se yee 
+
+
+Voting Rights Act of 1965 
+§ 19731 (c)(1) (1988) 
+
+
+Va. Cude § 24.2-509(A) ( 
+
+
+Michie 1993) 
+
+
+Va. Code § 24.2-510(1) (Michie 1993) 
+
+
+Va. Code § 24.2-511 (Michie 1993) 
+
+
+gs eS a wy 
+
+
+2, passim 
+
+
+2,5,19-21 
+
+
+5,20 
+
+
+viii 
+
+
+Va. Code § 24.2-526 (Michie 1993) ...... 14 
+Va. Code § 24.2-530 (Michie 1993) ...... 14 
+Regulations 
+
+p Pad AO Pee Ea 9,10,11,13 
+er eee LP OEE 6s eS e es oa es 15 
+Other Materials 
+
+
+Frank B. Atkinson, The Dynamic Dominion: 
+Realignment and the Rise of Virginia's 
+Republican Party Since 1945 (George 
+Mason Univ. Press 1992) ............ 3-4,18 
+
+
+Extension of the Voting Rights Act: Hearings 
+
+Before the Subcomm. on Civil and Consti- 
+
+tutional Rights of the House Judiciary Comm.., 
+
+97th Cong., Ist Sess. (1981) .......... 10,16 
+oR ee) ee ere er re eee 5 
+H.R. Rep. No. 439, 89th Cong., Ist Sess. 
+(1965), reprinted in 1965 U.S. Code Cong. 
+ee ee ee ee er ee 9,12 
+H.R. Rep. No. 97-227 (1981) .......... 9,16 
+
+
+S. Rep. No. 97-417 (1982) ............ 20 
+
+
+No. 94- 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+OCTOBER TERM, 1994 
+
+
+FORTIS MORSE, KENNETH CURTIS BARTHOLOMEW, 
+AND KIMBERLY J. ENDERSON, ; 
+Appellants, 
+
+
+v. 
+OLIVER NORTH FOR U.S. SENATE COMMITTEE, INC. 
+REPUBLICAN PARTY OF VIRGINIA AND 
+
+
+ALBEMARLE COUNTY REPUBLICAN COMMITTEE, 
+Appellees. 
+
+
+On Appeal from the United States District 
+Court for the Western District of Virginia 
+
+
+JURISDICTIONAL STATEMENT 
+
+
+OPINIONS BELOW 
+
+
+The opinion and order of the three-judge district court 
+are contained in the Appendix to this Jurisdictional Statement 
+{hereafter "J.S. App."], at pages A-2 to A-13; the district 
+court’s opinion is reported only on Lexis, 1994 U.S. Dist. 
+LEXIS 7112. 
+
+
+2 
+JURISDICTION 
+
+
+The district court entered judgment against appellants on 
+May 18, 1994. J.S. App. at A-13. The Notice of Appeal 
+was filed on June 8, 1994. J.S. App. at A-19. This Court 
+has jurisdiction under 28 U.S.C. § 1253. 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+This case involves section 5 of the Voting Rights Act of 
+1965 as amended, 42 U.S.C. § 1973c, which is reprinted in 
+the Appendix at pages A-15 to A-17, and section 10 of the 
+Voting Rights Act of 1965, 42 U.S.C. § 1973h, which is 
+reprinted in the Appendix at pages A-17 to A-18. 
+
+
+STATEMENT OF THE CASE 
+
+
+Since 1964, the Republican Party of Virginia ("RPV" or 
+"the Party") has used a variety of methods for nominating its 
+candidates for U.S. Senator.’ In 1964 and 1978, for 
+example, the Party’s State Central Committee chose the 
+nominee, while in several other years, the nominee was 
+chosen by a statewide convention. In 1990, the RPV decided 
+to choose its nominee by primary, but the primary was 
+canceled when no challenger opposed the renomination of the 
+Republican incumbent. 
+
+
+: This case is before the Court following the district court’s 
+dismissal for failure to state a claim. Accordingly, the facts are taken from 
+appellants’ complaint and various affidavits and statements made by 
+
+
+appellees. 
+
+
+3 
+
+
+In December 1993, the Central Committee decided to 
+switch back to selecting the party’s nominee through a 
+convention. Accordingly, it issued a call for a convention to 
+occur in June 1994, pursuant to state law governing the 
+timing of political party nominating conventions. See Va. 
+Code § 24.2-510(1). All registered voters who were in 
+accord with the Party’s principles and who were willing if 
+requested to declare their intent to support the Party’s 
+eventual nominee were entitled to participate in local mass 
+meetings.’ But any voter who wished to participate at the 
+state level, where the actual nominating decision was made, 
+was required to file as a "delegate" and pay a non-waivable 
+$35 or $45 registration fee. 
+
+
+Under the RPV’s own rules, delegates were to be 
+“elected” at the mass meetings to attend the convention. In 
+fact, however, as a matter of longstanding party practice,’ 
+any voter who pledged to support the Party’s nominee and 
+paid the fee was certified as a delegate and, when he or she 
+reached the convention, was free to vote for the candidate of 
+his or her choice. Over 14,600 voters were certified as 
+“delegates” eligible to attend the convention and vote their 
+preferences. In effect, the state convention operated, as it 
+had in the past, as a “great indoor primary,” Frank B. 
+
+
+2 wit 3 
+Virginia does not have party registration. 
+
+
+3 ; 
+See Transcript of Oral Argument at 30 (May 18, 1994) 
+
+
+(noting that while the party’s rules provide for the selection of delegate slates 
+and for the “instruct{ion of] delegations” on how to vote, "the campaigns, as 
+a matter of tactics to maintain Party unity, haven’t been doing it"). 
+
+“ The weight attached to an individual’s vote is governed by 
+a formula that takes into account the level of support for Repudlican 
+presidential and gubernatorial candidates in the voter’s city or county. 
+Appellants have not challenged any of the Party’s internal rules regarding 
+how voting at conventions is to be conducted. 
+
+
+4 
+
+
+Atkinson, The Dynamic Dominion: Realignment and the Rise 
+of Virginia’s Republican Party Since 1945, at 343 (George 
+Mason Univ. Press 1992). 
+
+
+Appellants Fortis Morse, Kenneth Curtis Bartholomew, 
+and Kimberly Enderson are registered voters in Virginia. 
+Morse and Enderson have long been active in Republican 
+politics; Bartholomew is an independent. All three wanted 
+to participate in selecting the Party’s 1994 senatorial 
+nominee. 
+
+
+Both Bartholomew and Enderson, however, were 
+deterred from attending the convention by the $45 fee. Thus, 
+they were completely excluded from participating in the 
+Party’s actual nominating process. 
+
+
+On February 28, 1994, Morse sought, from the 
+Albemarle County Republican Committee (which under party 
+rules was responsible for collecting the fee and certifying 
+"delegates”), a waiver of the fee on the grounds of economic 
+hardship. A Committee official told Morse that the fee was 
+mandatory but informed him that one of the candidates was 
+paying the fees of voters who supported him. Ultimately, the 
+Albemarle County Coordinator of the Oliver North for U.S. 
+Senate Committee gave Morse $45 to reimburse him for the 
+fee, indicating that if Morse did not attend the convention 
+"we'll hunt you down.” Morse subsequently repaid the $45 
+to the North Committee and attended the convention, where 
+he supported North’s rival, James Miller. 
+
+
+Following investigation of the pervasiveness of the 
+reimbursement scheme, and a month before the convention, 
+appellants filed this lawsuit in the United States District 
+
+
+5 
+
+
+Court for the Western District of Virginia.* They alleged 
+that the filing fee constituted a “standard, practice, or 
+procedure with respect to voting" within the meaning of 
+section 5 of the Voting Rights Act; because the Party had 
+never received preclearance for the fee, or its decision to 
+raise the fee over time, its imposition violated section 5. 
+They also alleged that the Party’s imposition of a filing fee 
+violated section 10 of the Voting Rights Act, which prohibits 
+the use of poll taxes. In addition to these statutory claims 
+against the Party, appellants raised constitutional challenges 
+to the fee under the Equal Protection Clause of the 
+Fourteenth Amendment and the Twenty-Fourth Amendment. 
+Finally, they alleged that the North campaign’s practice of 
+paying or offering to pay the fee for voters who indicated a 
+commitment to support Oliver North violated section 11 of 
+the Voting Rights Act of 1965 as amended. They invoked 
+the district court’s jurisdiction under 28 U.S.C. §§ 1331 and 
+1343 and under 42 U.S.C. §§ 1973h(c) and 1973}(f). 
+
+
+Appellants did not seek to halt, delay, or disrupt the 
+convention. Rather they sought only an injunction permitting 
+all individuals who were otherwise qualified -- because they 
+were registered voters prepared to pledge their support to the 
+ultimate Republican nominee -- to attend the convention. In 
+addition, they sought declaratory relief and a permanent 
+injunction against requiring a registration fee unless federal 
+preclearance was first obtained. 
+
+
+A three-judge district court was convened to hear 
+
+
+5 i 
+The district court stated that the appellants delayed over five 
+
+
+months in filing this action. J.S. App. at A-5. This statement presupposes 
+that appellants should have filed suit as soon as the call for the convention 
+was issued in December 1993. This would have required them to act without 
+first attempting to register or to seek a waiver, as appellant Morse did, and 
+without any investigation of the factual or legal bases of their claims. See 
+Fed. R. Civ. P. 11. 
+
+
+6 
+
+
+appellants’ section 5 and section 10 claims. After an 
+expedited briefing process, that court held oral argument on 
+May 18, and on the same day, issued its opinion. It 
+remanded appellants’ constitutional and section 11 claims to 
+the single-judge district court’ and dismissed appellants’ 
+claims under sections 5 and 10. 
+
+
+With regard to appellants’ section 5 claim, the district 
+court recognized that section 5 extends to political parties. 
+But it thought that section 5’s reach was limited to a party’s 
+conduct of a primary election. Neither a party’s practices 
+relating to a nominating convention nor the process of 
+selecting delegates to such a convention through mass 
+meetings or party canvasses was subject to section 5 review. 
+See J.S. App. at A-8 to A-11. According to the district 
+court, this result was compelled by this Court’s summary 
+affirmance in Williams v. Democratic Party of Georgia, 409 
+U.S. 809 (1972). 
+
+
+With regard to appellants’ section 10 claim, the district 
+court held that the Act did not authorize suits by private 
+citizens.’ It concluded that only the Attorney General is 
+authorized to bring suit against illegal poll taxes. J.S. App. 
+at A-11 to A-12. Individual voters who have been forced to 
+
+
+® __ Appellants do not challenge the three-judge court’s decision 
+to remand the constitutional and section 11 claims. Simultaneously with their 
+filing of the Notice of Appeal in this proceeding, appellants voluntarily 
+dismissed their section 11 claim against the Oliver North for U.S. Senate 
+Committee, since the convention had already occurred and they had sought 
+only declaratory and injunctive relief against this defendant. Appellants also 
+moved to postpone consideration of their constitutional claims against the 
+RPV and the Albemarle County Republican Committee pending this Court’s 
+resolution of the statutory issues presented by this appeal. 
+
+
+. This was not an argument raised by defendants and the 
+district court never asked appellants to address this question. 
+
+
+7 
+
+
+pay such a tax, or who have been deterred from voting 
+because of it, the district court declared, have no cause of 
+action under section 10. 
+
+
+THE QUESTIONS PRESENTED ARE SUBSTANTIAL. 
+
+
+This case raises important questions about the scope of 
+section 5’s preclearance requirement. With one exception, 
+whose scope was misinterpreted by the court below, every 
+other court to have reached the question has required political 
+parties to preclear changes in rules relating to their 
+nomination of candidates for public office. The decision of 
+the court below completely ignored contrary authority and 
+misinterpreted the regulations promulgated by the Attorney 
+General, who has consistently required preclearance and has 
+interposed objections preventing party rules from taking 
+effect. The decision in this case undermines section 5’s 
+“self-monitoring” regime, which requires covered entities to 
+identify and submit changes in their election law. Clark v. 
+Roemer, 111 S.Ct. 2096, 2104 (1991). And it leaves 
+political parties, individual citizens, and lower courts 
+uncertain as to when political parties must seek preclearance. 
+Accordingly this Court should either summarily reverse the 
+judgment of the court below or should note probable 
+jurisdiction. To let stand the lower court’s judgment in this 
+case would only magnify these uncertainties many times over 
+and prompt further litigation. , 
+
+
+This case also raises important questions about judicial 
+enforcement of the Voting Rights Act, which has relied 
+largely on lawsuits brought by private individuals. This 
+Court, the lower courts, and Congress have repeatedly 
+reaffirmed private rights of action under the Act, despite the 
+absence of explicit authorization. This lawsuit marks the 
+
+
+8 
+
+
+first time that any federal court has held that a citizen whose 
+right to vote was denied or abridged cannot bring suit. 
+
+
+I. THE DECISION OF THE COURT BELOW REPRESENTS SO 
+EXTREME A DEPARTURE FROM  WELL-SETTLED 
+PRINCIPLES ABOUT THE SCOPE OF SECTION 5 THAT IT 
+MUST BE REVERSED 
+
+
+A. Section 5 clearly covers the activities of political 
+parties. 
+
+
+Section 5 of the Voting Rights Act requires that, before 
+"the election law of a covered State [is altered] in even a 
+minor way,” the State or the entity responsible for the change 
+must obtain preclearance from the United States Attorney 
+General or the United States District Court for the District of 
+Columbia. Dougherty County Board of Education v. White, 
+439 U.S. 32, 37 (1978). This Court has repeatedly held that 
+section 5 of the Voting Rights Act should be given the 
+"broadest possible scope.” Jd. at 38; Allen v. State Board of 
+Elections, 393 U.S. 544, 567 (1969). 
+
+
+That section 5 reaches the activities of political parties 
+within covered jurisdictions has been well-established law for 
+over twenty years. See, e.g., MacGuire v. Amos, 343 F. 
+Supp. 119 (M.D. Ala. 1972) (three-judge court); Wilson v. 
+North Carolina State Board of Elections, 317 F. Supp. 1299 
+(M.D.N.C. 1970) (three-judge court). The express language 
+of the Voting Rights Act supports this universal 
+interpretation. Section 2, for example, provides that the Act 
+is violated when “the political processes leading to 
+nomination or election” are not equally open to all voters. 
+
+
+9 
+
+
+42 U.S.C. § 1973(b).* Similarly, section 14(c)(1) defines 
+voting to include “all action necessary to make a vote 
+effective in any primary, special, or general election ... with 
+respect to candidates for public or party office.” 42 U.S.C. 
+§ 19731 (c)(1). Congress clearly intended that the Voting 
+Rights Act would reach state party conventions as the 
+legislative history of section 14(c)(1) expressly states: "an 
+election of delegates to a State party convention would be 
+covered by the act." H.R. Rep. No. 439, 89th Cong., Ist 
+
+
+Sess., reprinted in 1965 U.S. Cong. Code & Ad. News 
+2437, 2464. 
+
+
+The Attorney General, whose long-standing 
+administrative interpretation of section 5 is entitled to 
+"considerable deference,” see, e.g., NAACP v. Hampton 
+County Election Commission, 470 U.S. 166, 178-79 (1985): 
+Dougherty County, 439 U.S. at 39; United States v. Sheffield 
+County Board of Commissioners, 435 U.S. 110, 131 (1978), 
+has consistently construed section 5 to reach political party 
+rules relating to the candidate nomination process. 28 
+C.F.R. § 51.7. Accordingly, he has repeatedly interposed 
+objections to party rules when he has been unable to conclude 
+
+
+8 , 
+Sections 2 and 5 are to be construed in tandem, and this 
+
+
+Court has consistently construed section 5 to be at least as broad as section 
+2. See Chisom v. Roemer, 111 S.Ct. 2354, 2367 (1991); H.R. Rep. No. 
+97-.27, p. 28 (1982). The recent decision in Holder v. Hall, 62 U.S.L.W. 
+4728 (1994), is not to the contrary. First, there was no opinion for the 
+Court, Second, the clear import of Justice Kennedy’s and Justice 
+O’Connor’s opinions is that section 5 is, if anything, broader in its scope 
+than section 2. See Holder, 62 U.S.L.W. at 4731 (Kennedy, J.) (suggesting 
+that the requirement of preclearance under section 5 does not necessarily 
+mean a practice is also vulnerable to attack under section 2); id. at 4732 
+(O’Connor, J., concurring in part and concurring in the judgment) (stating 
+peor now: grholae- owt ipsgreineggerne-sdheaesan qa oagn denn emman 
+questions” whether a practice marks a change with respect to voti 
+under section 5); of. id. at 4750 (Blackmun, J., dissenting) (stating that the 
+scope of section 2 and section 5 are idertical). 
+
+
+10 
+
+
+that the rules had neither a discriminatory purpose nor a 
+discriminatory effect. See Extension of the Voting Rights 
+Act: Hearings Before the Subcomm. on Civil and 
+Constitutional Rights of the House Judiciary Comm., 97th 
+Cong., Ist Sess. 2264, 2271 (1981) (appendix to letter from 
+James P. Turner, Acting Assistant Attorney General in 
+charge of the Civil Rights Division, reporting on section 5 
+objections interposed ts changes with regard to primary 
+elections and conventivns) [hereafter "Turner Appendix"]. 
+
+
+B. The district court completely misread the 
+administrative regulation on which it claimed to 
+
+
+rely. 
+
+
+The district court thought that section 51.7 applied solely 
+to the conduct of formal primary elections. J.S. App. at A- 
+10. But the regulation imposes no such limit. “Changes 
+with respect to the conduct of primary elections" are only 
+one example of the sort of change which requires 
+preclearance. The regulation clearly defines the covered 
+changes as those that (a) "relate to a public electoral function 
+of the party ... (b) if the party is acting under authority 
+explicitly or implicitly granted by a covered jurisdiction or 
+political subunit subject to the preclearance requirement of 
+section 5." 28 C.F.R. § 51.7. Had the Attorney General 
+intended to limit preclearance to primaries, he would have 
+said so, rather than using them as an example of a covered 
+change. . 
+
+
+In this case, both of the conditions set out in the 
+regulation are clearly satisfied. First, the RPV was patently 
+performing a public electoral function. It was engaged in the 
+process of nominating a candidate for the United States 
+Senate, and, as a political party within the definition of 
+Virginia law, thereby automatically providing to that 
+candidate a place on the general election ballot. See Va. 
+
+
+11 
+
+
+Code § 24.2-511 (providing for the certification, and 
+placement on the general election ballot, of party nominees). 
+Second, that activity was explicitly authorized by the 
+Commonwealth of Virginia, a covered jurisdiction. See Va. 
+Code § 24.2-S09(A) (authorizing parties to choose their 
+method for nominating Senatorial candidates); § 24.2-510(1) 
+(setting the schedule for nominations made by methods other 
+than primaries). 
+
+
+The regulation’s examples of changes that lie outside 
+section 5’s scope further illustrate the flaw in the district 
+court’s reasoning. Each of them -- "the recruitment of party 
+members, the conduct of political campaigns, and the drafting 
+of party platforms" 28 C.F.R. § 51.7 -- involves a party’s 
+constitutionally protected decisions about its substantive 
+message. By contrast, the practice challenged in this case -- 
+the imposition of a fee on otherwise qualified members of the 
+Republican Party -- has no ideological content whatsoever.° 
+In short, to the extent that the district court’s holding relied 
+
+
+on the Attorney General’s regulation, the court was entirely 
+mistaken. 
+
+
+9 , 
+The Call for the Convention expressly provides that “[alll 
+
+
+legal and qualified voters under the laws of the Commonwealth of Virginia, 
+regardless of race, religion, national origin,or sex, who are in accord with 
+the principles of the Republican Party of Virginia and who, if requested, 
+express in open meeting, either orally or in writing as may be required, their 
+intent to support all of its nominees for public office in the ensuing election, 
+may participate as members of the Republican Party of Virginia in its Mass 
+Meetings, Party Canvasses, Conventions or Primaries encompassing their 
+respective Election Districts.” 
+
+
+12 
+
+
+od The district court’s reliance on Williams v. 
+Democratic Party was entirely misplaced 
+
+
+The district court’s reliance on Williams v. Democratic 
+Party of Georgia, No. 16286 (N.D. Ga. April 6, 1972), 
+summarily aff'd, 409 U.S. 809 (1972), was equally 
+flawed."° Williams concerned the rules for electing 
+delegates to the Democratic National Convention. The party 
+rule at issue provided that delegates would be elected at open 
+conventions in each of Georgia congressional districts at 
+which "any resident ... who subscribed to the principles of 
+the Democratic Party” could participate. Slip op. at 2. 
+
+
+The district court in Williams was “convinced that voting 
+rights connected with the delegate election process are the 
+type of rights Congress intended to safeguard." Slip op. at 
+4. It quoted Congress’ statement, in the legislative history of 
+the 1965 Act that "an election of delegates to a State party 
+convention would be covered by the Act.” Slip op. at 4 
+(emphasis in original) (quoting H.R. Rep. No. 439, 89th 
+Cong.. Ist Sess. (1965), reprinted in 1965 U.S. Cong. Code 
+& Ad. News 2437, 2464). But the Williams court reluctantly 
+concluded, in "the absence of any procedure for submitting 
+changes in party rules under Section 5," that section 5 
+preciearance could not be required since "[t]he State Party 
+cannot force the State to seek approval for the party’s rules 
+and regulations.” Slip op. at 5. It was “under these 
+circumstances” that Williams concluded that section 5 did not 
+
+
+= The district court’s decision in Williams is unpublished. 
+Because this Court granted the appellants’ motion to dispense with printing 
+the jurisdictional statement, see 409 U.S. 809 (1972), the decision is 
+unavailable in the Briefs and Records Room of the Court’s Library or from 
+the Library of Congress. Accordingly, appellants have lodged a copy of the 
+decision with the Clerk’s office. 
+
+
+13 
+apply. Slip op. at 6 (emphasis added). 
+
+
+Thus, Williams provides no warrant for the decision of 
+the court below that conventions are exempted from section 
+5. The court in Williams recognized that Congress intended 
+to reach state party conventions but thought that the absence 
+of a mechanism for state parties to seek preclearance 
+frustrated Congress’ intent. Since Williams was decided, 
+however, the Attorney General has promulgated regulations 
+under 28 C.F.R. § 51.7 that provide a "way for the State 
+Party to gain the required federal approval." Williams, slip 
+op. at5. Thus, the sole rationale for Williams’s holding no 
+longer exists. In light of these changed circumstances and 
+the fact that Williams did not involve the election of delegates 
+to a State convention within a covered jurisdiction, this 
+Court’s summary affirmance of Williams does not support the 
+decision of the court below in this case. The limited and 
+uncertain scope of this Court’s unexplained order has no 
+precedential effect in to the present case. See Anderson v. 
+Celebrezze, 460 U.S. 780, 785 n. 5 (1983): Mandel v. 
+Bradley, 432 U.S. 173, 176 (1977) (per curiam). 
+
+
+That Williams simply does not support the district 
+court’s analysis in this case is further confirmed by the fact 
+that other three-judge courts have consistently held that 
+section 5 covers political parties and extends beyond primary 
+elections. Fortune v. Kings County Democratic County 
+Committee, 598 F. Supp. 761 (E.D.N.Y. 1984) (three-judge 
+court), for example, required preclearance of a county 
+executive committee rule permitting committee members who 
+had been appointed to participate in decisions to fill 
+vacancies in nominations for public office (when, for 
+example, a candidate died after being nominated) and in 
+decisions to permit nonparty members to run as Democrats. 
+The Fortune court found preclearance required because the 
+change affected a “public electoral function,” id. at 765, 
+
+
+14 
+
+
+namely, who would appear on the general election ballot. 
+Similarly, Hawthorne v. Baker, 750 F. Supp. 1090 (M.D. 
+Ala. 1990) (three-judge court), required preclearance of 
+internal Democratic Party rules eliminating the right of 
+certain organizations to appoint members of state and county 
+party committees and limiting the members who could be 
+selected by other committee members. Finally, Wilson v. 
+North Carolina State Board of Elections, 317 F. Supp. 1299 
+(M.D.N.C. 1970) (three-judge court), required preclearance 
+of a party’s decision, authorized by state law, to rotate 
+nomination for state legislative seats among the various 
+counties making up the legislative districts. 
+
+
+In short, neither the case law nor the administrative 
+regulations support the district court’s cramped interpretation 
+of section 5. 
+
+
+D. The district court’s categorical exemption of 
+party rules dealing with conventions conflicts 
+with this Court’s decision in Allen v. State 
+Board of Elections that the decision to abandon 
+election in favor of another method of filling an 
+office requires preclearance. 
+
+
+The district court held that "a change in political party 
+rules dealing not with primary elections, but instead with a 
+party convention, canvass, or mass meeting” is exempt from 
+section 5. J.S. App. at A-8. The implications of that 
+holding demonstrate why it simply cannot be the law. 
+
+
+In 1990, the Party decided to conduct a primary to 
+determine its nominee for United States Senator. Under 
+Virginia law, that primary would have been open to all 
+voters. See Va. Code § 24.2-530. No voter would have 
+
+
+15 
+
+
+been required to pay a fee to participate. Nor would a voter 
+have had to travel to, or incur the expenses of, a weekend- 
+long convention in order to have his or her say in the choice 
+of nominee.'' In 1994, by contrast, the Party abolished the 
+ability of individuals to vote in a primary election to fill the 
+position of Republican nominee for United States Senator. 
+Both Allen v. State Board of Elections and Presley v. Etowah 
+County Commission clearly hold that a decision to abandon 
+elections and to fill a position by other means is covered by 
+section 5. See Allen, 393 U.S. at 569-70; Presley, 112 S.Ct. 
+820, 828-29 (1992); see also 28 C.F.R. § 51.13(i). The 
+district court’s decision here conflicts directly with that of the 
+three-judge court in Valteau v. Edwards, No. 84-1293 (E.D. 
+La. Mar. 21, 1984) (three-judge court), stay denied, 466 
+U.S. 909 (1984), which held that Louisiana could not switch 
+from a primary to a caucus system for selecting its delegates 
+to national political conventions in light of an objection by 
+the Attorney General. Indeed, the district court’s decision 
+provides a powerful incentive for parties to abandon 
+primaries, since it offers the hope that they can avoid section 
+5 by doing so. 
+
+
+Particularly under the circumstances of this case, where 
+the party not only abandoned the primary, thereby 
+eliminating the right to vote in the primary, but replaced it 
+with a process that imposed an explicit financial burden on 
+voters who wish to participate in the nomination process, the 
+potential. for discrimination is clear. Indeed, the district 
+court’s decision in this case would permit even more blatant 
+discrimination. Under its rationale, a party could require 
+delegates to its convention to have college degrees even if 
+that would effectively bar members of minority groups from 
+
+
+“ Ultimately, no primary was held because no challenger filed 
+
+
+to oppose incumbent Republican Senator John Warner. See Va. Code § 
+24.2-526. 
+
+
+16 
+
+
+attending. Similarly, a party could restrict attendance at 
+mass meetings to individuals who own their own homes, 
+even though this might discriminate against minority group 
+members in areas where they are more likely to live in 
+apartments. Even facially discriminatory measures -- like 
+requiring Hispanics to pay higher filing fees than whites, or 
+barring blacks from party canvasses altogether -- would be 
+exempt from the preclearance process. Such a result would 
+flout Congress’ justifiable determination, in jurisdictions such 
+as Virginia, "to shift the advantage of time and inertia from 
+the perpetrators of the evil to its victims.” South Carolina v. 
+Katzenbach, 383 U.S. 301, 328 (1966). This shift in 
+advantage is all the more appropriate in cases such as this 
+because Virginia has a history of restrictive voting practices 
+involving economic restrictions on the franchise. See, e.g., 
+Harper v. Virginia Board of Elections, 383 U.S. 663 (1966); 
+Harman v. Forssenius, 380 U.S. 528 (1965). Requiring the 
+victims to bring suit to stop such clearly discriminatory 
+practices would undermine the central purpose of section 5. 
+The district court’s decision aggravates precisely the 
+problems Congress tried to solve. 
+
+
+Il. SECTION 5 REQUIRES PRECLEARANCE OF THE RPV’S 
+DECISION TO IMPOSE A $45 FEE EITHER BECAUSE THE 
+FEE INVOLVES A CANDIDATE QUALIFICATION FOR THE 
+POSITION OF DELEGATE OR BECAUSE THE FEE 
+REPRESENTS A PREREQUISITE TO VOTING AT THE 
+CONVENTION. 
+
+
+In Dougherty County Board of Education v. White, 439 
+U.S. 32, 41-43 (1978), this Court squarely held that section 
+5 covers changes in the qualifications required for candidates 
+for public office. See also Presley v. Etowah County 
+Commission, 112 S.Ct. at 827. In particular, a decision to 
+
+
+17 
+
+
+impose, or raise, filing fees is a change requiring 
+preclearance. See Dougherty County, 439 U.S. at 40-41; see 
+also H.R. Rep. No. 97-227, 97th Cong., Ist Sess. 18 (1981) 
+(identifying filing fees as a part of the electoral process 
+covered by § 5); Turner Appendix at 2252, 2253, 2256 
+(reporting Department of Justice objections under § 5 to 
+filing fees). Cf. Bullock v. Carter, 405 U.S. 134, 144 (1972) 
+(filing fees can restrict the field of candidates and thus 
+"ten{d] to deny some voters the opportunity to vote for a 
+candidate of their choosing"). 
+
+
+The district court thought that the filing fees imposed by 
+the RPV did not require preclearance because local party 
+members ‘“selec[t] delegates to the state nominating 
+convention, not through an election, but through local 
+conventions, mass, meetings, and party canvasses.” J.S. 
+App. at A-8 to A-9. As a factual matter, the district court 
+was simply wrong. First, the Party’s Plan of Organization 
+-- its governing document” -- defines a "party canvass” as 
+a "method of electing ... delegates to conventions,” RPV 
+Party Plan, Art. II, ¢ 22 (emphasis added); see also Art. 
+Vill, § H,4 4 (authorizing “the Mass Meeting, Party 
+Canvass, or [local] Convention electing the delegates" to a 
+State convention to instruct its delegation on specific issues) 
+(emphasis added). As the party’s executive director 
+explained, “[p]articipants at mass meeting elect ... delegates 
+
+
+- See Affidavit of David S. Johnson (Executive Director of the 
+RPV), { 1 and Appendix A. Because this case was litigated on an expedited 
+basis and disposed of on a motion to dismiss, the record is rather sparse. 
+Moreover, although the district court acknowledged that it was required to 
+take the facts in the light most favorable to the appellants, see J.S. App. at 
+A-3, it nonetheless made several unfavorable factual findings about the 
+nature of the RPV’s nominating process. For example, appellants alleged in 
+their complaint that delegates are “elected” in county meeting, see Complaint 
+{ 13, but the district court nonetheless concluded they were not. See J.S. 
+App. at A-10 to A-11. 
+
+
+18 
+
+
+to state ... conventions,” canvasses or local conventions 
+being simply alternatives to perform the “same” function. 
+Affidavit of David S. Johnson (Executive Director of the 
+RPV), 45. If delegates to a state convention are chosen by 
+a process in which individual voters meet together to decide 
+who should attend, that process involves voting within the 
+meaning of the Voting Rights Act. This Court long ago 
+warned against permitting "a variation in the result from so 
+slight a change in form” in cases involving the right of 
+qualified voters to participate in the nomination process. 
+Smith v. Allwright, 321 U.S. 649, 661 (1944). 
+
+
+But there is a more fundamental reason why 
+preclearance was required. Whatever the formal nature of 
+the RPV’s nominating process, the Party was in fact 
+conducting the functional equivalent of a primary, as 
+appellants alleged in their complaint, {{ 13-15. See also 
+Atkinson, supra at 343 (describing the RPV’s 1978 senatorial 
+nominating convention as a "great indoor primary"). The 
+RPV’s decision to call its selection mechanism a 
+"convention" rather than a “primary” is no different from the 
+decision of the Texas Jaybirds’ -- an informal political 
+association -- to call their nomination process a "straw poll" 
+rather than a “primary.” This Court invalidated the Jaybirds’ 
+straw poll in Terry v. Adams, 345 U.S. 461 (1953). In 
+Terry, this Court held that a racially exclusive private 
+organization’s restriction of its election prior to the primary 
+violated the Fifteenth Amendment because it formed an 
+integral part of the electoral process that ultimately resulted 
+in the election of public officials. As this Court’s decision 
+in Terry shows, the constitutional guarantee of equality in 
+voting cannot be evaded by verbal quibbling over what a 
+party calls its nominating event. The Voting Rights Act was 
+passed in part precisely to enforce the Fifteenth Amendment. 
+See South Carolina v. Katzenbach, 383 U.S. at 326-27. 
+
+
+19 
+
+
+As the RPV’s process actually operated, every voter 
+who was willing to pledge his or her support to the Party’s 
+nominee and to pay the filing fee was entitled to be certified 
+as a “delegate.” Every voter who showed up at the 
+convention was entitled to vote for the candidate of his or her 
+choice. The "filing fee” was simply the cost of voting. It 
+was the functional equivalent of a poll tax. Under these 
+circumstances, the imposition of the $45 fee as a precondition 
+to casting a vote for a nominee for public office constitutes 
+a "voting qualification or prerequisite to voting, or standard, 
+practice, or procedure with respect to voting.” Voting at the 
+Republican state convention was not like voting in a private 
+club or voting for members of the All-Star team, see Chisom 
+v. Roemer, 111 S.Ct. at 2372 (Scalia, J., dissenting). 
+Instead, it was in every respect part of the electoral process 
+regulated by the Voting Rights Act. Just as clearly, the 
+Party’s repeated increases of the fee since November 1, 
+1964, the triggering date for section 5 coverage, see J.S. 
+App. at A-4, represent changes in voting qualifications or 
+prerequisites within the meaning of section 5. 
+
+
+Ill. THE DISTRICT COURT’S DECISION THAT INDIVIDUALS 
+SUBJECTED TO AN ILLEGAL POLL TAX HAVE NO CAUSE 
+OF ACTION UNDER SECTION 10 OF THE VOTING RIGHTS 
+ACT CONFLICTS WITH CONGRESSIONAL INTENT, THIS 
+COURT’S DECISION IN ALLEN, AND THE STRUCTURE OF 
+THE: VOTING RIGHTS ACT GENERALLY. 
+
+
+The district court held that private individuals who have 
+been forced to pay an illegal poll tax, or who have been 
+deterred by such a tax from voting at all, have no cause of 
+action under section 10 of the Voting Rights Act, 42 U.S.C. 
+§ 1973h, the section of the Act that explicitly outlaws poll 
+taxes. See J.S. App. at A-11 to A-12. Its conclusion rests 
+
+
+20 
+
+
+on two factors: the absence of any express authorization of 
+private lawsuits and the express authorization of suits by the 
+Attorney General. 
+
+
+The first prong of the district court’s analysis is 
+completely refuted by this Court’s recognition of private 
+rights of action under both sections 2 and 5 of the Act, 
+neither of which contains an express private right of action. 
+Nonetheless, Congress clearly intended to permit private 
+enforcement. See, e.g., S. Rep. No. 97-417, p. 30 (1982) 
+("reiterat{ing]" the existence of a private right of action under 
+Section 2, as has been clearly intended by Congress since 
+1965"). 
+
+
+This Court’s analysis of private rights of action in 
+section 5 cases shows the flaws in the district court’s 
+reasoning. The district court’s reliance on Allen was clearly 
+misplaced. 
+
+
+First, Allen noted the language in section 5 providing 
+that "no person” should be denied the right to vote by an 
+unprecleared provision. /d. at 555. "Analysis of this 
+language in light of the major purposes of the Act indicates 
+that appellants may seek a declaratory judgment” that section 
+5 preclearance is required. /d. Similarly, section 10 of the 
+Act contains congressional findings regarding “the 
+constitutional right of citizens" to vote and highlights the 
+exclusion. of “persons of limited means" and the economic 
+hardship imposed on such "persons." 
+
+
+Second, Allen noted that section 12(f) of the Act -- its 
+general jurisdictional provision -- grants jurisdiction over 
+suits under the Act to district courts “without regard to 
+whether a person asserting rights under the provisions of this 
+Act" has exhausted administrative remedies. Allen, 393 U.S. 
+at 555 n.18 (emphasis in Allen). Read in tandem with the 
+
+
+21 
+
+
+general voting rights jurisdictional provision, 28 U.S.C. § 
+1343, the Court suggested that section 12(f) "might be 
+viewed as authorizing private actions." Allen, 393 U.S. at 
+555 n. 18. Since Allen, literally thousands of private 
+plaintiffs have relied on section 12(f) to provide a basis for 
+district court jurisdiction over private lawsuits under a variety 
+of sections of the Act. Appellants’ complaint in this case 
+specifically invoked both section 12(f) of the Voting Rights 
+Act and section 1343 as bases for the district court’s 
+jurisdiction. 
+
+
+Third, Allen explained that the Voting Rights Act’s 
+specific authorization of suits by the Attorney General was 
+included "to give the Attorney General power to bring suit to 
+enforce what might otherwise be viewed as ‘private’ rights." 
+Allen, 393 U.S. at 555 n. 18. That is clearly true of section 
+10(b). Nothing in section 10(b) even remotely suggests that 
+Congress intended to make the Attorney General the sole 
+enforcer of a prohibition on poll taxes. Indeed, the right not 
+to be subject to a poll tax is clearly a private right, as well 
+as a matter of public concern. 
+
+
+Finally, Allen declared that "[t]he achievement of the 
+Act’s laudable goal could be severely hampered ... if each 
+citizen were required to depend solely on litigation instituted 
+at the discretion of the Attorney General." Allen, 393 U.S. 
+at 556. That is as true of actions under section 10 of the Act 
+as it is of those under section 5. Especially given the fact 
+that poll taxes violate both the Equal Protection Clause of the 
+Fourteenth Amendment, see Harper v. Virginia Board of 
+Elections, 383 U.S. 663 (1966), and the Twenty-Fourth 
+Amendment, it is hardly credible to believe that Congress 
+intended to deny the right to sue to individuals who have 
+been forced to pay an illegal exaction in order to participate, 
+cf. Harman v. Forssenius, 380 U.S. at 533 n. 6 (finding 
+individual standing under the Constitution), or to provide no 
+
+
+22 
+
+
+relief under the Act to individuals who have actually been 
+excluded from the political process. It would be irrational 
+for Congress to exclude from the statutory scheme an action 
+which is available under the constitutional provisions. 
+
+
+CONCLUSION 
+
+
+This case represents a dramatic departure from well- 
+settled law about the scope of section 5 and the right of 
+private parties to enforce the Voting Rights Act . 
+Accordingly, this Court should either summarily reverse the 
+judgment of the court below or should note probable 
+jurisdiction of this appeal. 
+
+
+Respectfully submitted, 
+PAMELA S. KARLAN GEORGE A. RUTHERGLEN 
+Counsel of Record 580 Massie Road 
+580 Massie Road Charlottesville, VA 22903 
+
+
+Charlottesville, VA 22903 (804) 924-7015/7536 (Fax) 
+(804) 924-7810/7536 (Fax) 
+DANIEL R. ORTIZ 
+
+
+EBEN MOGLEN University of Southern 
+Columbia Law School California Law Center 
+435 West 116th Street University Park 
+
+New York, NY 10027 Los Angeles, CA 90089 
+
+
+(212) 854-8382/7946 (Fax) (213) 740-7331/5502(Fax) 
+
+
+Attorneys for Appellants 
+
+
+Appendix 
+
+
+CONTENTS OF APPENDIX 
+
+
+to Ne 
+
+
+- 
+
+
+ey 
+
+
+42) 
+
+
+Oe 
+
+
+ey 
+> ata 
+ay he 
+
+
+a 
+
+
+ss 
+
+
+28 
+
+
+the District Court 
+
+
+f 
+
+
+inion o 
+
+
+Op 
+
+
+Order of the District Court 
+
+
+Statutory Provisions Involved 
+
+
+Act of 1965, 42 U.S.C. § 1973c 
+Section 10 of the Voting Rights 
+Act of 1965, 42 U.S.C. § 1973h 
+
+
+Section 5 of the Voting Rights 
+
+
+i 4% Ms § ol 
+
+rae SS. Ks 
+al dks Seve yee 
+
+rae Pies 
+
+
+pees fp eee 
+
+
+a, 2 Ee Wee 
+
+
+“Fy 
+
+
+A-2 
+
+
+OPINION OF May 18, 1994 
+
+
+In the United States District Court 
+for the Western District of Virginia 
+
+
+at Charlottesville 
+Fortis Morse, Kenneth Curtis ] 
+Bartholomew, and Kimberly J. ] 
+Enderson, ] 
+Plaintiffs, ] 
+] Civil Action No 
+Vv ] 94-0025-C 
+] 
+] Memorandum 
+Oliver North for U.S. Senate ] Opinion 
+Committee, Inc., Republican ] 
+Party of Virginia, and Albemarle ] 
+County Republican Committee, ] 
+] 
+Defendants. ] 
+PER CURIAM: 
+
+
+Fortis Morse, Kenneth Curtis Bartholomew, and 
+Kimberley J. Enderson, plaintiffs, brought this action against 
+the Oliver North for U.S. Senate Committee, Inc. (North 
+Committee), the Republican Party of Virginia (the Party), 
+and the Albemarle County Republican Committee (County 
+Committee), defendants, seeking declaratory, injunctive, and 
+monetary relief and costs for alleged violations of three 
+sections of the Voting Rights Act of 1965, 42 U.S.C. § 1971 
+et seq., and the Fourteenth and Twenty-Fourth Amendments 
+
+
+A-3 
+
+
+to the United States Constitution. This dispute challenges a 
+Party requirement that all persons who wish to become a 
+delegate to the statewide convention to nominate the Party’s 
+candidate for United States Senator must pay a nonrefundable 
+registration fee, which is $ 45.00.’ Jurisdiction of a 
+three-judge district court is claimed on Counts 3 and 4 of the 
+complaint under 42 U.S.C. §§ 1973c & 1973h and 28 
+U.S.C. § 2284(a). 
+
+
+This case was heard on May 18, 1994, pursuant to 
+order of this court. Now pending before the court are the 
+North Committee’s motion to dismiss, the Party and County 
+Committee’s joint motion to dismiss, the plaintiffs’ motion 
+for a preliminary injunction and plaintiffs’ motion for 
+expedited discovery. We grant, as to Counts 3 and 4, the 
+Party and County Committee’s joint motion to dismiss. We 
+deny, as to Counts 3 and 4, the plaintiffs’ motions for a 
+preliminary injunction and expedited discovery. We find we 
+have no jurisdiction to consider Counts One, Two, and Five 
+of the complaint, and we therefore do not address them. We 
+also do not address the North Committee’s motion to dismiss 
+because the action against the North Committee is based 
+solely on Count 5, over which we have no jurisdiction. 
+
+
+Taking the facts in the light most favorable to the 
+plaintiffs, we find that on December 16, 1993 the Party 
+issued a call for a state convention, to be held on June 3, 
+1994, to nominate the Party’s candidate for United States 
+Senator. Pursuant to the call, permitted by the Party plan, in 
+order to become a delegate to the convention, the prospective 
+
+
+' The registration fee may also be described as $35.00. 
+
+
+delegate must pay a registration fee of $ 45.00, and be 
+selected as a delegate. Delegates are selected in county or 
+city Mass meetings, conventions, or party canvasses. As a 
+practical matter, anyone who follows the registration 
+procedure may become a delegate to the state convention. 
+The requirement that a prospective delegate pay a registration 
+fee in order to participate in the Party’s nominating process 
+was not in effect on November 1, 1964, but has been 
+authorized by the Party’s plan at least since 1987. 
+
+
+The plaintiffs are all registered voters who wish to 
+become delegates to the Party’s June convention. Plaintiff 
+Bartholomew was deterred from filing as a delegate by the $ 
+45.00 fee collected by the County Committee. Plaintiff 
+Enderson was deterred from filing as a delegate in Hampton, 
+Virginia by the $ 45.00 fee collected in Hampton.*? When 
+plaintiff Morse attempted to register for selection as a 
+delegate at the County Committee’s headquarters, he learned 
+of the $ 45.00 fee, which was a larger sum than he currently 
+had in his checking account. Upon inquiring whether he 
+could file without paying the fee, he was informed by a 
+worker at the County Committee’s headquarters that some 
+candidates would sponsor voters who supported them. Morse 
+then left the County Committee’s headquarters and borrowed 
+the money to pay the fee. Upon his return, his filing form 
+and payment were accepted. By inquiring further, he learned 
+that if he supported Oliver North, he could be reimbursed his 
+registration fee by the North Committee. He then accepted $ 
+45.00 from the county coordinator for the North Committee 
+and was told that he was expected to be at the June 
+convention. He later repaid the $ 45.00 to the North 
+Committee. 
+
+
+. The local party committee for Hampton is not a party to the suit. 
+
+
+A-5 
+
+
+Having delayed five months, and almost on the eve of 
+the state convention, plaintiffs filed this suit in which they 
+plead five causes of action: The Party’s imposition of a 
+registration fee violates the Twenty-Fourth Amendment’s 
+prohibition of poll taxes (Count 1); the Party’s imposition of 
+a registration fee violates the Fourteenth Amendment’s Equal 
+Protection Clause (Count 2); the Party did not receive 
+preclearance before implementing the registration fee 
+requirement, and the fee is therefore in violation of Section 
+5 of the Voting Rights Act, 42 U.S.C. § 1973c (Count 3); 
+the imposition of the registration fee prohibits people of 
+limited means from participating in voting in violation of 
+Section 10 of the Voting Rights Act, 42 U.S.C. § 1973h(a) 
+(Count 4); and the North Committee’s practice of paying 
+registration fees for prospective delegates who indicate their 
+support for North violates Section 11 of the Voting Rights 
+Act, 42 U.S.C. § 1973i(c) (Count 5). 
+
+
+I] 
+
+
+We first turn to the question of jurisdiction of a 
+three-judge court. Plaintiffs’ claims under Sections 5 and 10 
+of the Voting Rights Act, which are Counts 3 and 4 of the 
+complaint, are actions which "shall be heard and determined 
+by a (district) court of three judges.” 42 U.S.C. §§ 1973c & 
+1973h(c); accord 28 U.S.C. § 2284(a); Charles A. Wright, 
+The Law of Federal Courts § 50, at 297 n.14 (4th ed. 1983). 
+A three-judge district court must be convened when so 
+required by an act of Congress. 28 U.S.C. § 2284(a). 
+However, Counts 1, 2, and 5 of plaintiffs’ complaint, which 
+allege two constitutional violations and a violation of Section 
+11 of the Voting Rights Act, 42 U.S.C. § 1973i(c), which 
+addresses itself solely to criminal conduct, are not claims for 
+which Congress has required the convening of a three-judge 
+
+
+A-6 
+
+
+court. We are aware that some three-judge district courts 
+have taken the view that when a three-judge court has been 
+properly convened for some claims in which such a court is 
+required it may, in its discretion, exercise jurisdiction over 
+other claims for which a three-judge court is not required. 
+See, e.g., Armour v. Ohio, 775 F. Supp. 1044, 1048 (N.D. 
+Ohio 1991); Tucker v. Montgomery Bd. of Comm’rs, 410 F. 
+Supp. 494, 500 (N.D. Ala. 1976). However, the only district 
+court decision in this circuit to address the question holds to 
+the contrary and is the more persuasive, we think. We thus 
+follow the three-judge panel of the United States District 
+Court for the District of South Carolina which held, "Any 
+rights asserted by the plaintiffs under other federal statutes or 
+Constitutional provisions can be asserted only before the 
+(single-judge) District Court.” Gordon v. Executive Comm. 
+of the Democratic Party of Charleston, 335 F. Supp. 166, 
+170 (D.S.C. 1971) (per curiam). We think the view of that 
+court is consistent with the intent of Congress to limit the 
+jurisdiction of three-judge courts, which resulted in the 1976 
+legislation repealing 28 U.S.C. §§ 2281 & 2282 and 
+amending 28 U.S.C. § 2284.° See Act of August 12, 1976, 
+Pub. L. No.94-381, 90 Stat. 1119 (1976); Wright, supra, at 
+296-97; see also Perez v. Ledesma, 401 U.S. 82, 87, 27 L. 
+Ed. 2d 701, 91 S. Ct. 674 (1971) ("Even where a three-judge 
+court is properly convened to consider one controversy 
+between two parties, the parties are not necessarily entitled 
+to a three-judge court and a direct appeal on other 
+controversies that may exist between them.” (footnote 
+
+
+> Inshort, unless Congress has provided that a three-judge court must 
+or may be convened to consider a particular claim, the claim may be 
+considered only by a single judge of the district court. For a listing of some 
+mandatory and permissive three-judge court claims, see Wright, supra, at 
+297 n.14. 
+
+
+A-7 
+
+
+omitted)). Accordingly, we do not consider Counts 1, 2, and 
+5 of the complaint. 
+
+
+Il 
+
+
+Count 3 of the complaint alleges that the Party 
+violated Section Five of the Voting Rights Act, 42 U.S.C. § 
+1973c, by implementing the registration fee requirement, 
+which the Party admits was not in effect on November 1, 
+1964 ,* without first obtaining preclearance from the Attorney 
+General of the United States. Section Five provides in 
+relevant part: 
+
+
+Whenever a_ State or political 
+subdivision . . . shall enact or seek to 
+administer any voting qualification or 
+prerequisite to voting, or standard, practice, 
+or procedure with respect to voting different 
+from that in force or effect on November 1, 
+1964 . . . such State or subdivision may 
+institute an action in the United States District 
+Court for the District of Columbia for a 
+declaratory judgment that such qualification, 
+prerequisite, standard, practice or procedure 
+does not have the purpose and will not have 
+the effect of denying or abridging the right to 
+vote on account of race or color [or minority 
+language group] . . . and unless and until the 
+
+
+* The Attorney General has determined that November 1, 1964 is the 
+appropriate date to use in determining whether Virginia has enacted or 
+sought to administer a different or new voting qualification, procedure, 
+practice, or the like. 28 C.F.R. Part 51 Appendix; see 42 U.S.C. §§ 
+1973b(b) & 1973c. 
+
+
+A-8 
+
+
+court enters such judgment no person shall be 
+denied the right to vote for failure to comply 
+with such qualification, prerequisite, standard, 
+practice, or procedure: Provided, That such 
+qualification, prerequisite, standard, practice, 
+or procedure may be enforced without such 
+proceeding if the qualification, prerequisite, 
+standard, practice, or procedure has been 
+submitted by the chief legal officer or other 
+appropriate official of such State or 
+subdivision to the Attorney General and the 
+Attorney General has not interposed an 
+objection within sixty days after such 
+submission, or upon good cause shown, to 
+facilitate an expedited approval within sixty 
+days after such submission, the Attorney 
+General has affirmatively indicated that such 
+objection will not be made. 
+
+
+42 U.S.C. § 1973c. Our task in this case is to determine 
+whether a change in political party rules dealing not with 
+primary elections, but instead with a party convention, 
+Canvass, Or mass meeting, is subject to Section Five of the 
+Voting Rights Act, 42 U.S.C. § 1973c. 
+
+
+As a general rule, political parties, to the extent they 
+are empowered by the State to conduct primary elections for 
+purposes of selecting national convention delegates, are 
+subject to Section Five. See, e.g., MacGuire v. Amos, 343 
+F. Supp. 119 (M.D. Ala. 1972) (per curiam). Here, 
+however, the Party is not conducting primary elections. 
+Instead, local party members are selecting delegates to the 
+state nominating convention, not through an election, but 
+through local conventions, mass meetings, and party 
+
+
+A-9 
+
+
+canvasses. This distinction is meaningful, and because of it, 
+we hold that the imposition of the registration fee challenged 
+here is not subject to Section Five of the Voting Rights Act. 
+
+
+In support of our holding, we first rely on the 
+regulations of the Attorney General. The regulation 
+promulgated pursuant to Section Five makes the same 
+distinction between voting in primary elections and other 
+public electoral functions and other party activities. The 
+regulation states: 
+
+
+Certain activities of political parties are 
+subject to the preclearance requirement of 
+section 5. A change affecting voting effected 
+by a political party is subject to the 
+preclearance requirement: (a) If the change 
+relates to a public electoral function of the 
+party and (b) if the party is acting under 
+authority explicitly or implicitly granted by a 
+covered jurisdiction or political subunit subject 
+to the preclearance requirement of section 5. 
+For example, changes with respect to the 
+recruitment of party members, the conduct of 
+political campaigns, and the drafting of party 
+platforms are not subject to the preclearance 
+requirement. Changes with respect to the 
+conduct of primary elections at which party 
+nominees, delegates to party conventions, or 
+party officials are chosen are subject to the 
+preclearance requirement of section 5. Where 
+appropriate the term “jurisdiction” (but not 
+"covered jurisdiction") includes political 
+parties. 
+
+
+A- 10 
+
+
+28 C.F.R. § 51.7 (July 1, 1993). Here, there is no doubt that 
+the Party is not conducting a primary election, and there is 
+no voting as defined.’ Therefore, under the terms of the 
+regulation, the acts of the Party in this case are not subject 
+to the preclearance requirement. 
+
+
+We also rely on another decision of a three-judge 
+court. In Williams v. Democratic Party of Georgia, No. 
+16286 (N.D. Ga. April 6, 1972), aff'd, 409 U.S. 809 (1972), 
+the court held that a Party’s change in the method of 
+selection of delegates to a national convention from a system 
+in which the delegates were appointed by the party’s last 
+candidate for governor to a system in which delegates were 
+chosen in open convention was not subject to the provisions 
+of the Voting Rights Act. Williams, slip op. at 2, 6. 
+Williams was cited and construed in MacGuire, 393 F. Supp. 
+at 121 n.3, that the "Act does not protect one’s right to 
+participate in local conventions.” Williams was summarily 
+affirmed by the Supreme Court. 409 U.S. at 809. Summary 
+affirmances, while not as conclusive as a formal written 
+opinion, are judgments on the merits and entitled to some 
+precedential weight. We are not free to disregard them. 
+Southern Rwy. Co. v. Seaboard Allied Milling Corp., 442 
+U.S. 444, 462, 60 L. Ed. 2d 1017, 99 S. Ct. 2388 (1979); 
+see also Hicks v. Miranda, 422 U.S. 332, 343-44, 45 L. Ed. 
+2d 223, 95 S. Ct. 2281 (1975). 
+
+
+In accordance with the Attorney General’s regulation 
+and the decision discussed above, we hold that the imposition 
+of a registration fee on candidates for delegate to a state 
+party convention who are not chosen in an election and are 
+
+
+. “Voting” is defined as “all action necessary to make a vote effective 
+
+
+in any primary, special, or general election.” 28 C.F.R. § 51.2. 
+
+
+A- ll 
+
+
+chosen by local convention, mass meeting, or party canvass 
+is not subject to the Section Five preclearance requirement. 
+
+
+IV 
+
+
+Plaintiffs also allege that the imposition of the 
+registration fee is in effect the requirement of the payment of 
+a poll tax as a precondition for voting in violation of Section 
+Ten of the Act, 42 U.S.C. § 1973h(a). Section Ten provides 
+in relevant part: 
+
+
+Authority of Attorney General to 
+institute actions for relief against enforcement 
+of poll tax requirement 
+
+
+(b) In the exercise of the powers of 
+Congress under section 5 of the fourteenth 
+amendment, section 2 of the fifteenth 
+amendment and section 2 of the twenty-fourth 
+amendment, the Attorney General is 
+authorized and directed to institute forthwith 
+in the name of the United States such actions, 
+including actions against States or political 
+subdivisions, for declaratory judgment or 
+injunctive relief against the enforcement of 
+any requirement of the payment of a poll tax 
+aS a precondition to voting, or substitute 
+therefor enacted after November 1, 1964, as 
+will be necessary to implement the declaration 
+of subsection (a) of this section and the 
+purposes of this section. 
+
+
+42 U.S.C. § 1973h(b). As is immediately apparent, the 
+Statute does not, on its face, authorize private actions for 
+
+
+A-12 
+
+
+violations of Section 10. See Allen v. State Bd. of Elections, 
+393 U.S. 544, 563, 22 L. Ed. 2d 1, 89 S. Ct. 817 (1969) 
+(noting that Section 10 authorizes three-judge courts when the 
+Attorney General brings an action under that section). 
+
+
+In Allen the Court held that private litigants had 
+standing to sue under Section Five of the Voting Rights Act. 
+393 U.S. at 557. Section Ten, however, does not contain 
+similar language, but expressly authorizes the Attorney 
+General to bring actions to enforce the section. See United 
+States v. Solomon, 563 F.2d 1121, 1125 n.4 (4th Cir. 1977) 
+(noting, in dictum, that Section Ten authorizes the Attorney 
+General to sue for injunctive relief to prevent enforcement of 
+a poll tax). Thus, we find no basis permitting the plaintiffs 
+to sue under Section Ten. The statute specifically refers to 
+"such actions,” which are those instituted by the Attorney 
+General. 
+
+
+V 
+
+
+As to Counts 3 and 4 of the complaint, we grant the 
+Party and County Committee’s joint motion to dismiss, but 
+for the reasons expressed in this opinion. To the extent they 
+relate to Counts 3 and 4, we deny the plaintiffs’ motions for 
+a preliminary injunction and expedited discovery. The 
+plaintiffs may pursue Counts 1, 2, and 5 in the district court 
+before a single judge should they be so advised. 
+
+
+An appropriate order will be this day entered. 
+
+
+A- 13 
+
+
+ORDER OF May 18, 1994 
+
+
+In the United States District Court 
+for the Western District of Virginia 
+at Charlottesville 
+
+
+Fortis Morse, Kenneth Curtis 
+Bartholomew, and Kimberly J. 
+
+
+Enderson, 
+Plaintiffs, 
+Civil Action No. 
+v. 94-0025-C 
+Order 
+
+
+Oliver North for U.S. Senate 
+Committee, Inc., Republican 
+Party of Virginia, and Albemarle 
+County Republican Committee, 
+
+
+eee ee aa eee eee ee ee 
+
+
+Defendants. 
+
+
+ORDER 
+
+
+In accordance with the opinion filed on this date, it is 
+ADJUDGED and ORDERED that Counts 3 and 4 of the 
+complaint shall be, and they hereby are, dismissed with 
+prejudice. 
+
+
+It is further ADJUDGED and ORDERED that the 
+plaintiffs’ motions for expedited discovery and a preliminary 
+injunction shall be, and they hereby are, denied so far as they 
+rely upon allegations which may support Counts 3 and 4 of 
+
+
+A- 14 
+
+
+the complaint. 
+
+
+It is further ADJUDGED and ORDERED that the 
+court declines to act upon Counts 1, 2 and 5 of the 
+complaint, they being without the jurisdiction of the 
+three-judge court. 
+
+
+It is further ADJUDGED and ORDERED that the 
+motion for a preliminary injunction is denied so far as it 
+depends on facts which may support Count 5 of the 
+complaint, the three-judge court being without jurisdiction to 
+decide the same. : 
+
+
+The three-judge court has declined to grant any relief 
+in this case. Should the plaintiffs be so advised to seek any 
+other relief, they should address a request for the same to the 
+district court ut a single judge, and we express no opinion 
+either as to the merits or any procedural aspect thereof. 
+
+
+Enter this 18th day of May, 1994. 
+
+
+/s/ H. Emory Widener 
+United States Circuit Judge 
+ls/ J, H. Michael, Jr. 
+United States District Judge 
+Western District of Virginia 
+
+
+/s/ James R. Spencer 
+
+
+United States District Judge 
+Eastern District of Virginia 
+
+
+A - 15 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+SECTION 5 OF THE VOTING RIGHTS ACT OF 1965, 42 U.S.C. 
+§ 1973c (1988): 
+
+
+§ 1973c. Alteration of voting qualifications and 
+procedures; action by State or political subdivision for 
+declaratory judgment of no denial or abridgment of voting 
+rights; three-judge district court; appeal to Supreme 
+Court 
+
+
+Whenever a State or political subdivision with respect 
+to which the prohibitions set forth in section 1973b(a) of this 
+title based upon determinations made under the first sentence 
+of section 1973b(b) of this title are in effect shall enact or 
+seek to administer any voting qualification or prerequisite to 
+voting, or standard, practice, or procedure with respect to 
+voting different from that in force or effect on November 1, 
+1964, or whenever a State or political subdivision with 
+respect to which the prohibitions set forth in section 1973b(a) 
+of this title based upon determinations made under the second 
+sentence of section 1973b(b) of this title are in effect shall 
+enact or seek to administer any voting qualification or 
+prerequisite to voting, or standard, practice, or procedure 
+with respect to voting different from that in force or effect on 
+November 1, 1968, or whenever a State or political 
+subdivision with respect to which the prohibitions set forth in 
+section 1973b(a) of this title based upon determinations made 
+under the third sentence of section 1973b(b) of this title are 
+in effect shall enact or seek to administer any voting 
+qualification or prerequisite to voting, or standard, practice, 
+or procedure with respect to voting different from that in 
+force or effect on November 1; 1972, such State or 
+
+
+A - 16 
+
+
+subdivision may institute an action in the United States 
+District Court for the District of Columbia for a declaratory 
+judgment that such qualification, prerequisite, standard, 
+practice, or procedure does not have the purpose and will not 
+have the effect of denying or abridging the right to vote on 
+account of race or color, or in contravention of the 
+guarantees set forth in section 1973b(f)(2) of this title, and 
+unless and until the court enters such judgment no person 
+shall be denied the right to vote for failure to comply with 
+such qualification, prerequisite, standard, practice, or 
+procedure: Provided, That such qualification, prerequisite, 
+standard, practice, or procedure may be enforced without 
+such proceeding if the qualification, prerequisite, standard, 
+practice, or procedure has been submitted by the chief legal 
+officer or other appropriate official of such State or 
+subdivision to the Attorney General and the Attorney General 
+has not interposed an objection within sixty days after such 
+submission, or upon good cause shown, to facilitate an 
+expedited approval within sixty days after such submission, 
+the Attorney General has affirmatively indicated that such 
+objection will not be made. Neither an affirmative indication 
+by the Attorney General that no objection will be made, nor 
+the Attorney General’s failure to object, nor a declaratory 
+judgment entered under this section shall bar a subsequent 
+action to enjoin enforcement of such qualification, 
+prerequisite, standard, practice, or procedure. In the event 
+the Attorney General affirmatively indicates that no objection 
+will be made within the sixty-day period following receipt of 
+a submission, the Attorney General may reserve the right to 
+reexamine the submission if additional information comes to 
+his attention during the remainder of the sixty-day period 
+which would otherwise require objection in accordance with 
+this section. Any action under this section shall be heard and 
+determined by a court of three judges in accordance with the 
+
+
+A-17 
+
+
+provisions of section 2284 of title 28 and any appeal shall lie 
+to the Supreme Court. 
+
+
+SECTION 10 OF THE VOTING RIGHTS ACT OF 1965, 42 
+U.S.C. § 1973H 
+
+
+§ 1973h Poll taxes 
+
+
+(a) Congressional finding and declaration of policy 
+against enforced payment of poll taxes as a device to 
+impair voting rights 
+
+
+The Congress finds that the requirement of the 
+payment of a poll tax as a precondition to voting (i) precludes 
+persons of limited means from voting or imposes 
+unreasonable financial hardship upon such persons as a 
+precondition to their exercise of the franchise, (ii) does not 
+bear a reasonable relationship to any legitimate State interest 
+in the conduct of elections, and (iii) in some areas has the 
+purpose or effect of denying persons the right to vote because 
+of race or color. Upon the basis of these findings, Congress 
+declares that the constitutional right of citizens to vote is 
+denied or abridged in some areas by the requirement of the 
+payment of a poll tax as a precondition to voting. 
+
+
+(b) Authority of Attorney General to institute actions 
+for relief against enforcement of poll tax requirement 
+
+
+In the exercise of the powers of Congress under 
+section 5 of the fourteenth amendment, section 2 of the 
+fifteenth amendment and section 2 of the twenty-fourth 
+amendment, the Attorney General is authorized and directed 
+to institute forthwith in the name of the United States such 
+actions, including actions against States or political 
+
+
+subdivisions, for declaratory judgment or injunctive relief 
+against the enforcement of any requirement of the payment 
+of a poll tax as a precondition to voting, or substitute 
+therefor enacted after November 1, 1964, as will be 
+necessary to implement the declaration of subsection (a) and 
+the purposes of this section. 
+
+
+(c) Jurisdiction of three judge district courts; appeal to 
+Supreme Court 
+
+
+The district courts of the United States shall have 
+jurisdiction of such actions which shall be heard and 
+determined by a court of three judges in accordance with the 
+provisions of section 2284 of title 28 of the United States 
+Code and any appeal shall lie to the Supreme Court. It shall 
+be the duty of the judges designated to hear the case to assign 
+the case for hearing at the earliest practicable date, to 
+participate in the hearing and determination thereof, and to 
+cause the case to be in every way expedited. 
+
+
+A- 19 
+
+
+NOTICE OF APPEAL, JUNE 8, 1994 
+
+
+Fortis Morse, Kenneth Curtis 
+Bartholomew, and Kimberly J. 
+Enderson, 
+
+Plaintiffs, 
+No. 94-0025-C 
+
+
+Oliver North for U.S. Senate 
+Committee, Inc., Republican 
+Party of Virginia, and Albemarle 
+County Republican Committee, 
+
+
+eee eee ae ae eee eee 
+
+
+Defendants. 
+
+
+NOTICE OF APPEAL 
+
+
+Notice is hereby given that Fortis Morse, Kenneth 
+Curtis Bartholomew, and Kimberly J. Enderson, plaintiffs in 
+the above named case, hereby appeal to the Supreme Court 
+of the United States of America from the order of the three- 
+judge district court dismissing Counts 3 and 4 of the 
+Complaint with prejudice and denying plaintiffs’ Motion for 
+Preliminary Injunction so far as it relies upon Counts 3 and 
+4 of the Complaint, entered in this action on May 18, 1994. 
+
+
+This appeal is taken under 28 U.S.C. § 1253 and 42 
+U.S.C. §§ 1973c, 1973h(c). 
+
+
+Pamela S. Karlan 
+
+580 Massie Road 
+Charlottesville, VA 22903 
+(904) 924-7810 
+
+
+Daniel R. Ortiz 
+580 Massie Road 
+Charlottesville, VA 22903 
+
+
+(804) 924-3127 
+
+
+Eben Moglen 
+
+435 West 116th Street 
+New York, NY 10027 
+(212) 854-8382 
+
+
+Attorneys for Plaintiffs 
+
+
+Date: June 8, 1994 
+
+
+A - 20 
+
+
+George A. Rutherglen 
+Counsel of Record 
+
+Virginia State Bar No. 
+
+18938 
+
+580 Massie Road 
+
+Charlottesville, VA 22903 
+
+(804) 924-1789 
+
+

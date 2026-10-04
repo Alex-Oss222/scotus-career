@@ -1,0 +1,208 @@
+Source: Minutes of the Meeting of the Board of Trustees of State Institutions of Higher Learning (Mississippi), October 19, 1995, 28 pages, Mississippi Department of Archives and History, IHL Board minutes series s0266, file 170.pdf:
+https://da.mdah.ms.gov/series-files/ihl/s0266/pdf/170.pdf (retrieved 2026-10-03).
+SHA-256 of the source PDF: 2f34ebe5ca9cf3471edf69c4dd790becc89e46e0a50ff0bd339a5dc54ed9c01d
+Date eligibility: meeting of October 19, 1995; these minutes were approved at the Board's November 16, 1995 meeting. Both dates precede the March 25, 1996 event.
+
+Bounded extract: PDF pages 1-2 (meeting header and Administration/Policy resolution 3, the amendment of the Board Policy of March 16, 1995 adding admission-standards Section 601.02B (4)) and page 24 (Presidents' Council report of its October 12, 1995 meeting). Text extracted with PyMuPDF from the PDF's text layer; blank-line runs collapsed and leading spaces trimmed, wording otherwise unaltered. The minutes do not mention any court filing; any connection to the State's February 12, 1996 motion (district docket entry 556) and the February 16, 1996 order (entry 557) is an inference, not a statement of this source.
+
+----- PDF page 1 -----
+MINUTES OF THE MEETING OF THE BOARD OF TRUSTEES OF
+
+STATE INSTITUTIONS OF HIGHER LEARNING
+
+October 19, 1995
+
+1
+BE IT REMEMBERED, That the Board of Trustees of State Institutions of Higher Learning of the
+State of Mississippi met in regular session in the Natural Products Building at The University of
+Mississippi, Oxford, Mississippi, on October 19, 1995, at 8:30 a.m., and pursuant to notice in writing
+mailed by certified letter with return receipt requested on October 6, 1995, to each and every member
+of said Board, said date being at least five days prior to this October 19, 1995, meeting.  At the above
+named place there were present the following members: Ms. Nan McGahey Baker, Mr. William
+Sterling Crawford, Mr. Frank Crosthwait, Ms. Ricki R. Garrett, Mr. Will A. Hickman, Mr. J. Marlin
+Ivey, Mr. James Luvene, Ms. Diane Martin Miller, Mr. J. P. "Jake" Mills, Dr. Cass Pennington, Mr.
+Sidney L. Rushing and Mr. Carl Nicholson, Jr.  The meeting was called to order by Ms. Nan
+McGahey Baker, President, and opened with prayer by Board member, Ms. Diane Martin Miller.
+The Board was welcomed to the University of Mississippi by Ms. Nicole Stofer, President of the
+Student Government Association.
+
+APPROVAL OF THE MINUTES
+
+On motion by Mr. Rushing, seconded by Mr. Ivey, and unanimously passed by Board members
+present, it was
+
+RESOLVED, That the Minutes of the meeting held on September 21, 1995, stand approved.
+
+UNANIMOUS CONSENT (UC)
+
+On motion by  Mr. Hickman, seconded by Ms. Miller, and unanimously passed by Board members
+present, it was
+
+RESOLVED, That consent to be considered is granted to all items not previously placed on
+the agenda and hereinafter reported.
+
+ADMINISTRATION/POLICY
+
+Presented by Dr. Thomas Layzell
+
+Commissioner of Higher Education
+
+System Administration
+
+On motion by Ms. Miller, seconded by Mr. Mills, and unanimously passed by Board members
+present, it was
+
+1.
+RESOLVED, That the Board hereby approves a resolution commending Dr. Rudolph
+Waters, Interim President, Alcorn State University, for his contributions and service to Alcorn
+State University.  A copy of the resolution is attached as EXHIBIT 1.
+
+Dr. Waters responded with a statement of appreciation to the Board, the presidents, and the staff of
+IHL.
+
+On motion by Mr. Mills, seconded by Mr. Ivey, and unanimously passed by Board members present,
+it was
+
+2.
+RESOLVED, That the Board hereby approves a resolution commending The University of
+Mississippi on its 150-year Sesquicentennial Celebration.  A copy of the resolution is attached
+
+----- PDF page 2 -----
+MINUTES OF THE MEETING OF THE BOARD OF TRUSTEES OF
+
+STATE INSTITUTIONS OF HIGHER LEARNING
+
+October 19, 1995
+
+2
+as EXHIBIT 2.
+
+Ms. Baker thanked Dr. Robert Khayat, Chancellor, for allowing the Board to participate in its
+celebration of the Sesquicentennial at The University of Mississippi.
+
+On motion by Mr. Crawford, seconded by Dr. Pennington, and unanimously passed by Board
+members present, it was
+
+3.
+RESOLVED, That the Board hereby approves an amendment to the Board Policy of March
+16, 1995, as follows:
+
+FROM:
+
+RESOLVED, that as recommended by the Presidents' Council and endorsed by the
+Commissioner, the NCAA standards for student-athletes who are "full qualifiers" be
+accepted as equivalent to the admission standards established by the Board of
+Trustees.  These standards are clearly equivalent to and may in the future be higher
+than the new admission standards.
+
+TO:
+
+RESOLVED, that as recommended by the Presidents' Council and endorsed by the
+Commissioner, the NCAA standards for student-athletes who are "full qualifiers"
+under Division I guidelines, which guidelines are presently scheduled to be effective
+August 1, 1996, be accepted as equivalent to the admission standards established by
+the Board of Trustees for academic year 1996-97.  The NCAA standards together with
+the other admission standards are applicable to all applicants for the 1996-97 academic
+year and subsequent years regardless of participation or nonparticipation in athletics.
+Accordingly, the action taken March 16, 1995 with respect to incorporation of NCAA
+standards for student-athletes who are "full qualifiers" is amended with the following
+to be submitted therefor:
+
+The following provision shall be incorporated as Section 601.02B (4) within the admission standards
+applicable to all applicants for the 1996 academic year and thereafter:
+
+All students satisfying the NCAA standards for student-athletes who are
+"full qualifiers" under Division I guidelines.  (UNANIMOUS
+CONSENT)
+
+INSTRUCTION/STUDENTS
+
+Presented by Dr. Charles Pickett
+
+Acting Associate Commissioner
+
+On motion by Dr. Pennington, seconded by Mr. Nicholson, and unanimously passed by Board
+members present, it was
+
+RESOLVED, That the Board hereby approves the report on Instruction/Students as
+follows (with the exception of Item #12 which was approved by separate motion as
+recorded):
+
+Alcorn State University
+
+----- PDF page 24 -----
+MINUTES OF THE MEETING OF THE BOARD OF TRUSTEES OF
+
+STATE INSTITUTIONS OF HIGHER LEARNING
+
+October 19, 1995
+
+24
+
+On October 12, 1995, The Presidents' Council met in the Trustees' Conference Room at
+the Board office in Jackson, Mississippi, and conducted the following business:
+
+1.
+Discussed the new admission standards and expressed support of the
+amended policy incorporating the NCAA Division I standards as a fourth option.
+
+2.
+Discussed ways to fund the Summer Developmental Program.
+
+3.
+Discussed funding priorities for the next year.
+
+4.
+Discussed plans to fund an opinion poll of perceptions of public higher
+education.
+
+5.
+Agreed to continue participation in the Mississippi Alliance for Minority
+Participation.
+
+6.
+Discussed ways to fund the master's in systems management program offered
+by the collaborating institutions, Jackson State University, Mississippi State
+University, University of Mississippi, and the University of Southern Mississippi.
+
+COMMITTEE REPORTS
+
+Budget & Financial Affairs Committee - Mr. Carl Nicholson, Jr., Chair
+
+The Budget & Financial Affairs Committee met at 3:00 p.m., on Wednesday, October 18,
+1995, in Board Room 1018 of the Natural Products Laboratory, University of Mississippi,
+and conducted the following business:
+-
+As part of the Board's  responsibility  to  monitor  the  activities  of  foundations,
+Mr. Don Fruge', Vice Chancellor for University Affairs, University of Mississippi,
+updated the Board as to IRS regulations on the reporting of salaries, teacher
+awards, travel and similar expenses of foundation employees.  The issue to be
+resolved is whether the university or foundation is responsible for filing the W2
+form.
+
+-
+Mr. Al Lind, Assistant Commissioner for Technology, and Ms. Marie Antoon,
+Director of Academic Technologies, IHL, led discussions on needs of the
+systemwide technology infrastructure presented a proposed resolution for the
+Board's later approval endorsing a statewide network for technology whereby
+IHL agrees to continue to work with the following agency/partners on
+technology issues:  Department of Education (K-12); State Board for
+Community and Junior Colleges; Mississippi Authority for Educational
+Television;
+ITS;
+and
+the
+Library
+Commission.
+
+Copies
+of
+the
+Telecommunications Committee Report adopted by the Council for Education
+Technology at its September, 1995 meeting were distributed to the Board.
+
+Copies of the documents related to technology which were distributed at the
+committee meeting are included in the Board meeting working file for October.
+
+-
+Discussed IHL's tort liability program.
