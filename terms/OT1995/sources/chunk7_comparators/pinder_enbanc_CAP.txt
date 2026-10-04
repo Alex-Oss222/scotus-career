@@ -1,0 +1,705 @@
+Carol L. PINDER, Individually and in her capacity as surviving Mother of her minor children, deceased; and as Personal Representative of the Estates of Kim Pinder, LaToya and Troy Brummel, Plaintiff-Appellee, v. Donald JOHNSON, PFC, Individually and in his official capacity, Defendant-Appellant, and Commissioner of Cambridge, in the City of Cambridge, Defendant.
+No. 93-2125.
+United States Court of Appeals, Fourth Circuit.
+Argued March 7, 1995.
+Decided May 30, 1995.
+*1171
+ARGUED: Paul T. Cuzmanes, Wilson, El-ser, Moskowitz, Edelman & Dicker, Baltimore, MD, for appellant. Barbara Gold, Baltimore, MD, for appellee. ON BRIEF: Samuel L. Israel, Weinberg & Green, Columbia, MD, for appellant. Philip H. Gold, Baltimore, MD, for appellee.
+Before ERVIN, Chief Judge, RUSSELL, WIDENER, HALL, MURNAGHAN, WILKINSON, WILKINS, NIEMEYER, HAMILTON, LUTTIG, WILLIAMS, MICHAEL, and MOTZ, Circuit Judges, sitting in banc.
+Reversed by published opinion. Judge WILKINSON wrote an opinion, in which Judge HALL, Judge WILKINS, Judge NIEMEYER, and Judge WILLIAMS concurred, and in which Judge WIDENER concurred in part, and in which Judge MOTZ concurred in Parts I-IV. Judge WIDENER wrote an opinion concurring in part. Judge MOTZ wrote an opinion concurring in Parts I-IV and concurring in the judgment. Judge HAMILTON wrote an opinion concurring in the judgment, in which Judge LUTTIG joined. Judge RUSSELL wrote a dissenting opinion, in which Chief Judge ERVIN, Judge MURNAGHAN, and Judge MICHAEL joined.
+OPINION
+WILKINSON, Circuit Judge:
+We granted en banc review in this case to define the contours of qualified immunity under
+42 U.S.C. § 1983
+when a plaintiff alleges an affirmative duty on the part of a police officer to protect citizens from the actions of a third party. The plaintiff in this action, Carol Pinder, seeks to impose civil
+*1172
+liability against Officer Donald Johnson of the Cambridge, Maryland, Police Department for his failure to safeguard her children from the criminal depredations of plaintiff’s ex-boyfriend. Pinder alleges that defendant’s express promises to her created a “special relationship,” which in turn gave rise to an affirmative duty to protect her under the Due Process Clause of the Fourteenth Amendment. We hold that no such due process right to protection was clearly established,
+DeShaney v. Winnebago County Dep’t of Social Servs.,
+489 U.S. 189
+,
+109 S.Ct. 998
+,
+103 L.Ed.2d 249
+(1989), and that Officer Johnson is thus entitled to qualified immunity.
+I.
+The facts of this case are genuinely tragic. On the evening of March 10, 1989, Officer Johnson responded to a call reporting a domestic disturbance at the home of Carol Pin-der. When he arrived at the scene, Johnson discovered that Pinder’s former boyfriend, Don Pittman, had broken into her home. Pinder told Officer Johnson that when Pittman broke in, he was abusive and violent. He pushed her, punched her, and threw various objects at her. Pittman was also screaming and threatening both Pinder and her children, saying he would murder them all. A neighbor, Darnell Taylor, managed to subdue Pittman and restrain him until the police arrived.
+Officer Johnson questioned Pittman, who was hostile and unresponsive. Johnson then placed Pittman under arrest. After confining Pittman in the squad car, Johnson returned to the house to speak with Pinder again. Pinder explained to Officer Johnson that Pittman had threatened her in the past, and that he had just been released from prison after being convicted of attempted arson at Pinder’s residence some ten months earlier. She was naturally afraid for herself and her children, and wanted to know whether it would be safe for her to return to work that evening. Officer Johnson assured her that Pittman would be locked up overnight. He further indicated that Pinder had to wait until the next day to swear out a warrant against Pittman because a county commissioner would not be available to hear the charges before morning. Based on these assurances, Pinder returned to work.
+That same evening, Johnson brought Pittman before Dorchester County Commissioner George Ames, Jr. for an initial appearance. Johnson only charged Pittman with trespassing and malicious destruction of property having a value of less than three hundred dollars, both of which are misdemeanor offenses. Consequently, Ames simply released Pittman on his own recognizance and warned him to stay away from Pinder’s home.
+Pittman did not heed this warning. Upon his release, he returned to Pinder’s house and set fire to it. Pinder was still at work, but her three children were home asleep and died of smoke inhalation. Pittman was later arrested and charged with first degree murder. He was convicted and is currently serving three life sentences without possibility of parole.
+Pinder brought this action for herself and for the estates of her three children, seeking damages under
+42 U.S.C. § 1983
+and
+42 U.S.C. § 1985
+, as well as state law theories, against the Commissioners of Cambridge and Officer Johnson. She alleged,
+inter alia,
+that defendants had violated their affirmative duty to protect her and her children, thereby depriving them of their constitutional right to due process under the Fourteenth Amendment. Defendant Johnson moved for summary judgment, arguing that he had no constitutionally-imposed affirmative duty to protect the Pinders and that he was shielded from liability by the doctrine of qualified immunity. The district court, however, refused to dismiss plaintiff’s due process claim, finding that Officer Johnson was not entitled to qualified immunity. Defendant brought an interlocutory appeal under
+Mitchell v. Forsyth,
+472 U.S. 511
+,
+105 S.Ct. 2806
+,
+86 L.Ed.2d 411
+(1985). A divided panel of this court affirmed, finding that Pinder had stated a cognizable substantive due process claim and that Johnson did not have a valid immunity defense.
+Pinder v. Johnson,
+33 F.3d 368
+(4th Cir.1994). We granted rehearing en bane, and now reverse the judgment of the district court.
+*1173
+II.
+The basic principles of qualified immunity are well settled. The purpose of a qualified immunity defense under § 1983 is to limit the deleterious effects that the risks of civil liability would otherwise have on the operations of government.
+See Anderson v. Creighton,
+483 U.S. 635
+, 638,
+107 S.Ct. 3034
+, 3038,
+97 L.Ed.2d 523
+(1987);
+Swanson v. Powers,
+937 F.2d 965
+, 967 (4th Cir.1991),
+cert. denied,
+502 U.S. 1031
+,
+112 S.Ct. 871
+,
+116 L.Ed.2d 777
+(1992). Discretionary decisions by government actors inevitably impact the lives of private individuals, sometimes with harmful effects. Moreover, such decisions are inescapably imperfect. Especially in the context of police work, decisions must be made in an atmosphere of great uncertainty. Holding police officers liable in hindsight for every injurious consequence of their actions would paralyze the functions of law enforcement.
+Torchinsky v. Siwinski,
+942 F.2d 257
+, 260 (4th Cir.1991). Qualified immunity thus allows officials the freedom to exercise fair judgment, protecting “all but the plainly incompetent or those who knowingly violate the law.”
+Malley v. Briggs,
+475 U.S. 335
+, 341,
+106 S.Ct. 1092
+, 1096,
+89 L.Ed.2d 271
+(1986).
+Qualified immunity under § 1983 shields officials from civil liability unless their actions violated “clearly established statutory or constitutional rights of which a reasonable person would have known.”
+Harlow v. Fitzgerald,
+457 U.S. 800
+, 818,
+102 S.Ct. 2727
+, 2738,
+73 L.Ed.2d 396
+(1982). The linchpin of qualified immunity is objective reasonableness.
+Anderson,
+483 U.S. at 639
+,
+107 S.Ct. at 3038-39
+;
+Rowland v. Perry,
+41 F.3d 167
+, 172-73 (4th Cir.1994);
+Mitchell v. Rice,
+954 F.2d 187
+, 190 (4th Cir.),
+cert. denied,
+— U.S. —,
+113 S.Ct. 299
+,
+121 L.Ed.2d 222
+(1992). So long as the officer’s actions, viewed from the perspective of the officer at the time, can be seen within the range of reasonableness, then no liability will attach.
+Slattery v. Rizzo,
+939 F.2d 213
+, 216 (4th Cir.1991).
+Important to this reasonableness inquiry is whether the rights alleged to have been violated were clearly established at the time of the challenged actions.
+Harlow,
+457 U.S. at 818
+,
+102 S.Ct. at 2738
+. If the law supporting the allegedly violated rights was not clearly established, then immunity must lie.
+Anderson,
+483 U.S. at 640
+,
+107 S.Ct. at 3039
+;
+Tarantino v. Baker,
+825 F.2d 772
+, 774 (4th Cir.1987). Where the law is clearly established, and where no reasonable officer could believe he was acting in accordance with it, qualified immunity will not attach. The purpose of this doctrine is to ensure that police officers and other government actors have notice of the extent of constitutional restrictions on their behavior.
+Davis v. Scherer,
+468 U.S. 183
+, 195,
+104 S.Ct. 3012
+, 3019-20,
+82 L.Ed.2d 139
+(1984). Thus, qualified immunity prevents officials from being blindsided by liability derived from newly invented rights or new, unforeseen applications of pre-existing rights. In short, officials cannot be held to have violated rights of which they could not have known.
+Gooden v. Howard County,
+954 F.2d 960
+, 968 (4th Cir.1992) (en banc).
+Here, the question is simply whether the due process right Pinder claims was clearly established at the time of her dealings with Johnson. This inquiry depends upon an assessment of the settled law at the time, not the law as it currently exists.
+DiMeglio v. Haines,
+45 F.3d 790
+, 794 (4th Cir.1995);
+Akers v. Caperton,
+998 F.2d 220
+, 227 (4th Cir.1993). Also, the rights Pinder asserts must have been clearly established in a particularized and relevant sense, not merely as an overarching entitlement to due process.
+Anderson,
+483 U.S. at 640
+,
+107 S.Ct. at 3039
+;
+Beardsley v. Webb,
+30 F.3d 524
+, 530 (4th Cir.1994). It is important not to be over-specific — there need not be a prior case directly on all fours with the facts presented to the official — but “in light of the pre-existing law the unlawfulness” of Johnson’s conduct must have been “apparent.”
+Anderson,
+483 U.S. at 640
+,
+107 S.Ct. at 3039
+.
+III.
+Pinder can point to no clearly established law supporting her claim at the time of the alleged violation. Pinder’s claim is that Officer Johnson deprived her and her children of their due process rights by failing to
+*1174
+protect them from the violent actions of Pittman. Eighteen days before the events giving rise to this action, the Supreme Court handed down its decision in
+DeShaney v. Winnebago County Department of Social Services,
+489 U.S. 189
+,
+109 S.Ct. 998
+,
+103 L.Ed.2d 249
+(1989), which squarely rejected liability under
+42 U.S.C. § 1983
+based on an affirmative duty theory.
+A.
+The facts in
+DeShaney
+were as poignant as those in this case. There, the Winnebago County Department of Social Services (DSS) received a number of reports that a young boy, Joshua DeShaney, was being abused by his father.
+DeShaney,
+489 U.S. at 192-93
+,
+109 S.Ct. at 1001-02
+. As this abuse went on, several DSS workers personally observed the injuries that had been inflicted on Joshua. They knew firsthand of the threat to the boy’s safety, yet they failed to remove him from his father’s custody or otherwise protect him from abuse. Ultimately, Joshua’s father beat him so violently that the boy suffered serious brain damage.
+Id.
+at 193
+,
+109 S.Ct. at 1001-02
+. Joshua’s mother brought a § 1983 action on his behalf, arguing that the County and its employees had deprived Joshua of his liberty interests without due process by failing to provide adequate protection against his father’s violent acts.
+Id.
+at 195
+.
+Despite natural sympathy for the plaintiff, the Court held that there was no § 1983 liability under these circumstances. It noted that the Due Process Clause of the Fourteenth Amendment does not require governmental actors to affirmatively protect life, liberty, or property against intrusion by private third parties.
+Id.; see also Lindsey v. Normet,
+405 U.S. 56
+, 74,
+92 S.Ct. 862
+, 874,
+31 L.Ed.2d 36
+(1972). Instead, the Due Process Clause works only as a negative prohibition on state action. “Its purpose was to protect the people from the State, not to ensure that the State protected them from each other.”
+DeShaney,
+489 U.S. at 196
+,
+109 S.Ct. at 1003
+. This view is consistent with our general conception of the Constitution as a document of negative restraints, not positive entitlements.
+See Jackson v. City of Joliet,
+715 F.2d 1200
+, 1203 (7th Cir.1983),
+cert. denied,
+465 U.S. 1049
+,
+104 S.Ct. 1325
+,
+79 L.Ed.2d 720
+(1984). The
+DeShaney
+Court concluded that:
+[i]f the Due Process Clause does not require the State to provide its citizens with particular protective services, it follows that the State cannot be held liable under the Clause for injuries that could have been averted had it chosen to provide them. As a general matter, then, we conclude that a State’s failure to protect an individual against private violence simply does not constitute a violation of the Due Process Clause.
+489 U.S. at 196-97
+,
+109 S.Ct. at 1003-04
+(footnotes omitted).
+The affirmative duty of protection that the Supreme Court rejected in
+DeShaney
+is precisely the duty Pinder relies on in this ease. Joshua’s mother wanted the state to be held liable for its lack of action, for merely standing by when it could have acted to prevent a tragedy. Likewise, Pinder argues Johnson could have, and thus should have, acted to prevent Pittman’s crimes.
+DeShaney
+makes clear, however, that no affirmative duty was clearly established in these circumstances.
+B.
+The
+DeShaney
+Court did indicate that an affirmative duty to protect may arise when the state restrains persons from acting on their own behalf.
+Id.
+at 199-200
+;
+see also Revere v. Massachusetts General Hospital,
+463 U.S. 239
+, 244,
+103 S.Ct. 2979
+, 2983,
+77 L.Ed.2d 605
+(1983);
+Youngberg v. Romeo,
+457 U.S. 307
+, 317,
+102 S.Ct. 2452
+, 2458-59,
+73 L.Ed.2d 28
+(1982). The Court explained that “when the State by the affirmative exercise of its power so restrains an individual’s liberty that it renders him unable to care for himself, and at the same time fails to provide for his basic human needs ... it transgresses the substantive limits on state action set by the Eighth Amendment and the Due Process Clause.”
+DeShaney,
+489 U.S. at 200
+,
+109 S.Ct. at 1005
+.
+The specific source of an affirmative duty to protect, the Court emphasized, is the custodial nature of a “special relationship.”
+De-
+*1175
+Shaney
+reasoned that “[t]he affirmative duty to protect arises not from the State’s knowledge of the individual’s predicament or from its expressions of intent to help him, but from the limitation which it has imposed on his freedom to act on his own behalf.”
+Id.
+Some sort of confinement of the injured party-incarceration, institutionalization, or the like — is needed to trigger the affirmative duty.
+Id.
+This Court has consistently read
+DeShaney
+to require a custodial context before any affirmative duty can arise under the Due Process Clause.
+See, e.g., Rowland,
+41 F.3d at 174-75
+(noting that when the state has not restricted one’s ability to care for oneself, the rationale for an affirmative duty falls away);
+Piechowicz v. United States,
+885 F.2d 1207
+, 1215 (4th Cir.1989) (holding that “substantive due process protects the liberty interests
+only
+of persons affirmatively restrained by the United States from acting on their own behalf’) (emphasis added).
+There was no custodial relationship with the plaintiffs in this case. Neither Johnson nor any other state official had restrained Pinder’s freedom to act on her own behalf. Pinder was never incarcerated, arrested, or otherwise restricted in any way. Without any such limitation imposed on her liberty,
+DeShaney
+indicates Pinder was due no affirmative constitutional duty of protection from the state, and Johnson would not be charged with liability for the criminal acts of a third party.
+C.
+Pinder argues, however, that Johnson’s explicit promises that Pittman would be incarcerated overnight created the requisite “special relationship.” We do not agree. By requiring a custodial context as the condition for an affirmative duty,
+DeShaney
+rejected the idea that such a duty can arise solely from an official’s awareness of a specific risk or from promises of aid.
+DeShaney,
+489 U.S. at 200
+,
+109 S.Ct. at 1005-06
+. There, as here, plaintiff alleged that the state knew of the special risk of harm at the hands of a third party.
+Id.
+at 197
+,
+109 S.Ct. at 1004
+. There, as here, plaintiff alleged that the state had “specifically proclaimed, by word and by deed, its intention to protect” the victim.
+Id.
+Neither allegation was sufficient to support the existence of an affirmative duty in
+De-Shaney,
+and the same holds true in this case.
+Promises do not create a special relationship-custody does. Unlike custody, a promise of aid does not actually place a person in a dangerous position and then cut off all outside sources of assistance. Promises from state officials can be ignored if the situation seems dire enough, whereas custody cannot be ignored or changed by the persons it affects. It is for this reason that the Supreme Court made custody the crux of the special relationship rule. Lacking the slightest hint of a true “special relationship,” Pin-der’s claim in this case boils down to an insufficient allegation of a failure to act.
+We also cannot accept Pinder’s attempt to escape the import of
+DeShaney
+by characterizing her claim as one of
+affirmative
+misconduct by the state in “creating or enhancing” the danger, instead of an omission. She emphasizes the “actions” that Johnson took in making assurances, and in deciding not to charge Pittman with any serious offense. By this measure, every representation by the police and every failure to incarcerate would constitute “affirmative actions,” giving rise to civil liability. At some point on the spectrum between action and inaction, the state’s conduct may implicate it in the harm caused, but no such point is reached here. It cannot be that the state “commits an affirmative act” or “creates a danger” every time it does anything that makes injury at the hands of a third party more likely. If so, the state would be liable for every crime committed by the prisoners it released.
+See Martinez v. California,
+444 U.S. 277
+, 284-85,
+100 S.Ct. 553
+, 558-59,
+62 L.Ed.2d 481
+(1980) (no state action when released prisoner causes injury). No amount of semantics can disguise the fact that the real “affirmative act” here was committed by Pittman, not by Officer Johnson. As was true in
+DeShaney,
+the state did not “create” the danger, it simply failed to provide adequate protection from it. In both cases, “[t]he most that can be. said of the state functionaries ... is that they stood by and did nothing when suspicious circumstances dictated a more active role for them.”
+Id.
+at
+*1176
+203,
+109 S.Ct. at 1007
+. Thus, like
+DeShaney,
+Pinder’s case is purely an omission claim.
+*
+Given the principles laid down by
+DeSha-ney,
+it can hardly be said that Johnson was faced with a clearly established duty to protect Pinder or her children in March of 1989. Indeed, it can be argued that
+DeShaney
+established exactly the opposite,
+i.e.,
+that no such affirmative duty existed because neither Pinder nor her children were confined by the state. At a minimum, Officer Johnson was not on notice that any conduct of his was unconstitutional.
+IV.
+The lack of any clearly established duty to protect individuals outside of the custodial context is also reflected in the law in the lower federal courts at the time of the events in question. No court had actually found a due process right to protection from third parties based on mere assurances by state officials, while a number of decisions directly or indirectly rejected just such a proposition. Thus, again, the weight of authority confirms the opposite of the conclusion plaintiff seeks to prove, and certainly cannot be said to clearly establish a due process right like the one Pinder asserts here.
+The salient issue in the lower courts both before and since
+DeShaney
+has been whether the notion of the special relationship is limited to the penal/institutional context or whether it can be extended to other areas of state conduct. A number of
+pre-DeShaney
+cases were strict in their definition of the special relationship giving rise to a state’s affirmative duty to protect, expressly linking the duty to the fact of custody.
+E.g. Wideman v. Shallowford Community Hospital Inc.,
+826 F.2d 1030
+, 1035-36 (11th Cir.1987) (“key concept is the exercise of coercion, dominion, or restraint by the state”);
+Washington v. District of Columbia,
+802 F.2d 1478
+, 1481 (D.C.Cir.1986) (duty depends on custody);
+Walker v. Rowe,
+791 F.2d 507
+, 511 (7th Cir.) (duty depends on “constraints the state imposes on private action”),
+cert. denied,
+479 U.S. 994
+,
+107 S.Ct. 597
+,
+93 L.Ed.2d 597
+(1986). Several courts in fact concluded that the duty was absolutely limited to those few contexts wherein a person’s freedom to act is severely constrained by the state— prisons, mental institutions, and the like.
+See, e.g., Harpole v. Arkansas Dep’t. of Human Servs.,
+820 F.2d 923
+, 927 (8th Cir.1987) (only prisons);
+Estate of Gilmore v. Buckley,
+787 F.2d 714
+, 722 (1st Cir.) (only those in actual custody or control),
+cert. denied,
+479 U.S. 882
+,
+107 S.Ct. 270
+,
+93 L.Ed.2d 247
+(1986).
+See also McLenagan v. Karnes,
+27 F.3d 1002
+, 1008 n. 9 (4th Cir.1994),
+cert. denied,
+— U.S. —,
+115 S.Ct. 581
+,
+130 L.Ed.2d 496
+(1994);
+Walton v. City of Southfield,
+995 F.2d 1331
+, 1337 (6th Cir.1993);
+Hilliard v. City and County of Denver,
+930 F.2d 1516
+, 1520 (10th Cir.1991),
+cert. denied,
+502 U.S. 1013
+,
+112 S.Ct. 656
+,
+116 L.Ed.2d 748
+(1991);
+Fialkowski v. Greenwich Home for Children, Inc.,
+921 F.2d 459
+, 465 (3d Cir.1990);
+Weller v. Dep’t. of Social Servs. for Baltimore,
+901 F.2d 387
+, 392 (4th Cir.1990);
+Milburn v. Anne Arundel County Dep’t of Social Servs.,
+871 F.2d 474
+, 476 (4th Cir.),
+cert. denied,
+493 U.S. 850
+,
+110 S.Ct. 148
+,
+107 L.Ed.2d 106
+(1989).
+It is true, as the district court noted, that some eases found an “affirmative duty” arising outside the traditional custodial context.
+See Pinder v. Commissioners of Cambridge,
+821 F.Supp. 376
+, 388-89 (D.Md.1993) (collecting cases). None of these cases, however, clearly establish the existence of the right Pinder alleges was violated. First, none of these cases found a particularized due process right to affirmative protection based solely on an official’s assurances that’ the danger posed by a third party will be eliminated. All involved some circumstance wherein the state took a much larger and more direct role in “creating” the danger
+*1177
+itself. These cases involve a wholly different paradigm than that presented here. When the state itself creates the dangerous situation that resulted in a victim’s injury, the absence of a custodial relationship may not be dispositive. In such instances, the state is not merely accused of a failure to act; it becomes much more akin to an actor itself directly causing harm to the injured party.
+See, e.g., Cornelius v. Town of Highland Lake,
+880 F.2d 348
+, 356 (11th Cir.1989) (duty when state brought inmates into victim’s workplace);
+Wells v. Walker,
+852 F.2d 368
+, 371 (8th Cir.1988) (duty when state brought dangerous prisoners to victim’s store),
+cert. denied,
+489 U.S. 1012
+,
+109 S.Ct. 1121
+,
+103 L.Ed.2d 184
+(1989);
+Nishiyama v. Dickson County,
+814 F.2d 277
+, 281 (6th Cir.1987) (duty when state provided unsupervised parolee with squad car).
+See also Archie v. City of Racine,
+847 F.2d 1211
+, 1223 (7th Cir.1988) (en bane) (court’s broad definition of when duty arises does not mention promises by official as a potential factor),
+cert. denied,
+489 U.S. 1065
+,
+109 S.Ct. 1338
+,
+103 L.Ed.2d 809
+(1989). At most, these eases stand for the proposition that state actors may not disclaim liability when they themselves throw others to the Hons.
+See K.H. ex rel. Murphy v. Morgan,
+914 F.2d 846
+, 849 (7th Cir.1990). They do not, by contrast, entitle persons who rely on promises of aid to some greater degree of protection from lions at large.
+Second, several of the cases on which Pin-der relies were singled out by the Supreme Court in
+DeShaney
+for their overbroad view of special relationships. 489 U.S. at 197-98 n. 4, 109 S.Ct. at 1004 n. 4. In particular, plaintiff relies heavily on the opinion in
+Jensen v. Conrad,
+747 F.2d 185
+(4th Cir.1984), which held that a special relationship can result from 1) legal custody; 2) express promises of protection; or 3) state knowledge of the victim’s plight.
+747 F.2d at
+194—95 n. 11. The
+Jensen
+court believed that affirmative duties arose not because the state limited freedom of personal action but because the state “selected an individual from the public at large and placed him in a position of danger.”
+Id.
+at 194
+. The
+DeSha-ney
+opinion cited this case, and several others like it, as support for the plaintiffs argument that the state had an affirmative duty because it had “actually undertaken” to protect Joshua. 489 U.S. at 197-98 n. 4, 109 S.Ct. at 1004 n. 4. The Supreme Court then said in no uncertain terms, “[w]e reject this argument.”
+Id.
+at 198. There can be no doubt, therefore, that
+Jensen
+and its companion cases arguing for a broad conception of the special relationship afford no basis for vitiating Johnson’s immunity defense.
+Finally, a number of the cases plaintiff relies upon were decided months or years after Johnson’s dealings with Pinder and so are not relevant to our assessment of the clearly established law
+at the time. See Gregory v. City of Rogers,
+974 F.2d 1006
+(8th Cir.1992),
+cert. denied,
+— U.S. —,
+113 S.Ct. 1265
+,
+122 L.Ed.2d 661
+(1993);
+Freeman v. Ferguson,
+911 F.2d 52
+(8th Cir.1990);
+Wood v. Ostrander,
+879 F.2d 583
+(9th Cir.1989), ce
+rt. denied,
+498 U.S. 938
+,
+111 S.Ct. 341
+,
+112 L.Ed.2d 305
+(1990). We do not agree with Pinder that these cases premise civil liability on official promises — even if they did, however, there is.no way Officer Johnson could have been aware of them.
+See DiMeglio,
+45 F.3d at 806
+. Indeed, this case is a quintessential example of the kind of circumstance where qualified immunity forecloses the need for officials to guess about such future developments in constitutional law.
+See Swanson v. Powers,
+937 F.2d at
+968 (citing
+Lum v. Jensen,
+876 F.2d 1385
+, 1389 (9th Cir.1989)). The courts have been careful not to add legal prognostication to the already lengthy list of police officer responsibilities. “To expect Defendants to resolve what reasonable jurists have long debated ... is to impose burdens and expectations well beyond their reasonable capacities.”
+Hodge v. Jones,
+31 F.3d 157
+, 167 (4th Cir.1994), ce
+rt. denied,
+— U.S. —,
+115 S.Ct. 581
+,
+130 L.Ed.2d 496
+(1994).
+The extensive debate provoked by this case should be proof enough that the law in this area was anything but clearly established at the time Officer Johnson gave assurances to Pinder.
+See Stoneking v. Bradford Area School Dist.,
+882 F.2d 720
+, 724 (3d Cir.1989)
+(Stoneking II)
+(declining to rest decision on an affirmative duty because of “the uncertainty of the law in this respect”),
+*1178
+cert. denied,
+493 U.S. 1044
+,
+110 S.Ct. 840
+,
+107 L.Ed.2d 835
+(1990). To impose liability in the absence of a clearly established constitutional duty is to invite litigation over a limitless array of official acts.
+V.
+The recitation of the case law that defeats Pinder’s claim cannot be divorced from the rationale underlying it. There are good reasons why the constitutional right to protection sought by Pinder was not clearly established by the courts. As the First Circuit noted in a similar case, “[e]normous economic consequences could follow from the reading of the Fourteenth Amendment that plaintiff here urges.”
+Estate of Gilmore,
+787 F.2d at 722
+. The consequences, however, are not just economic, and their gravity indicates why the right Pinder asserts was never clearly established.
+The recognition of a broad constitutional right to affirmative protection from the state would be the first step down the slippery slope of liability. Such a right potentially would be implicated in nearly every instance where a private actor inflicts injuries that the state could have prevented.
+See
+id.
+at 723
+. Every time a police officer incorrectly decided it was not necessary to intervene in a domestic dispute, the victims of the ensuing violence could bring a § 1983 action. Every time a parolee committed a criminal act, the victims could argue the state had an affirmative duty to keep the prisoner incarcerated. Indeed, victims of virtually every crime could plausibly argue that if the authorities had done their job, they would not have suffered their loss. Broad affirmative duties thus provide a fertile bed for § 1983 litigation, and the resultant governmental liability would wholly defeat the purposes of qualified immunity.
+If the right Pinder asserts were ever clearly established, it would entail other significant consequences. A general obligation of the state to protect private citizens, whether broadly or narrowly conceived, effectively makes law enforcement officials constitutional guarantors of the conduct of others. Such a system would engender a variety of perverse incentives. Local officials faced with ambiguous circumstances would be forced to inject themselves into private affairs to foreclose the complaint that they should have done more. Rather than let a suspect go free, the temptation would be to make a premature arrest to forestall civil liability. In the same way, if promises could override a qualified immunity defense, police would quickly learn never to reassure, even in situations where such assurances might be the best course of action.
+It is no solution to say that such a right to affirmative protection has its inherent limitations. It is no answer to contend that the duty here was created only by Johnson’s promise and Pinder’s reliance on that promise, and is limited by Johnson’s awareness of the risk. Such “limitations” are no barrier to increased lawsuits. There are endless opportunities for disagreements over the exact nature of an official’s promise, the intent behind it, the degree of the reliance, the causal link between the promise and the injury, and so on. Similarly, the extent of the state’s affirmative duty to protect and the degree of the state’s awareness of the risk are also subjects that would tie up state and local officials in endless federal litigation.
+The Supreme Court has reacted to the specter of such extensive local liability by removing categories of claims from the scope of due process recovery. Liability for simple negligence is one such category.
+Daniels v. Williams,
+474 U.S. 327
+,
+106 S.Ct. 662
+,
+88 L.Ed.2d 662
+(1986). Claims based on only reputational harm are a second example.
+Paul v. Davis,
+424 U.S. 693
+, 702,
+96 S.Ct. 1155
+, 1161,
+47 L.Ed.2d 405
+(1976). Claims involving omissions, or the failure to protect, are a third area held to be non-actionable.
+DeShaney,
+489 U.S. at 202
+, 109 S.Ct. at 1006-07. Pinder’s claims notwithstanding, it makes sense to see
+DeShaney
+as a bright-line decision, in which the Court saw in the admittedly sympathetic case the first step on a long, litigious journey.
+In cases like this, it is always easy to second-guess. Tragic circumstances only sharpen our hindsight, and it is tempting to express our sense of outrage at the failure of Officer Johnson to protect Pinder’s children
+*1179
+from Pittman’s villainy. The Supreme Court in
+DeShaney
+specifically rejected the “shocks the conscience” test of
+Rochin v. California,
+342 U.S. 165
+, 172,
+72 S.Ct. 205
+, 209,
+96 L.Ed. 183
+(1952) as a basis for imposing § 1983 liability in the affirmative duty context, however.
+DeShaney,
+489 U.S. at 197-98
+, 109 S.Ct. at 1004-05. We cannot simply ignore the lack of any clearly established constitutional duty to protect and the concomitant immunity from civil liability. Hard cases can make bad law, and it is to protect against that possibility that police officers possess the defense of qualified immunity.
+VI.
+For the foregoing reasons, the judgment of the district court denying qualified immunity to Officer Johnson is
+REVERSED.
+*
+Moreover, it is not strictly accurate to suggest, as Pinder does, that "creation of risk” is a second exception to the rule of
+DeShaney.
+Rather, “creation” of a danger implicates the alternate framework of § 1983 liability wherein a plaintiff alleges that some conduct by an officer
+directly
+caused harm to the plaintiff. While it is true that inaction can often be artfully recharacterized as "action," courts should resist the temptation to inject this alternate framework into omission cases by stretching the concept of "affirmative acts” beyond the context of immediate interactions between the officer and the plaintiff.
+WIDENER, Circuit Judge,
+concurring in part:
+I concur in the result and in all of the opinion except those three sentences commencing with the word “These,” and ending with the word “party,” on page 1177, with which statement I do not agree.
+MOTZ, Circuit Judge,
+concurring in parts I-IV of the majority opinion and in the judgment:
+I concur in the result reached in the majority opinion and admire its felicity of expression. I write separately to make it clear that its
+sole
+holding is that Officer Johnson was entitled to summary judgment on his qualified immunity defense. This is so because when this tragedy occurred in 1989, in view of
+DeShaney v. Winnebago Dept. of Social Servs.,
+489 U.S. 189
+,
+109 S.Ct. 998
+,
+103 L.Ed.2d 249
+(1989), a reasonable police officer could not have known that Officer Johnson’s promise to Ms. Pinder created a special relationship making him liable to her. Thus, any suggestion in part V of the majority opinion that, even today, there is not and, as a matter of policy, should not be any “broad constitutional right to affirmative protection from the state” is dicta and, in my view, erroneous dicta.
+HAMILTON, Circuit Judge,
+concurring in the judgment:
+This appeal involves a straightforward question of qualified immunity: whether, at the time of Officer Johnson’s conduct, his actions violated “clearly established statutory or constitutional rights of which a reasonable person would have known.”
+Harlow v. Fitzgerald,
+457 U.S. 800
+, 818,
+102 S.Ct. 2727
+, 2738,
+73 L.Ed.2d 396
+(1982). In light of the Supreme Court’s decision in
+DeShaney v. Winnebago County Dep’t of Social Servs.,
+489 U.S. 189
+,
+109 S.Ct. 998
+,
+103 L.Ed.2d 249
+(1989) and cases which held that a state’s affirmative duty to protect could arise only in a custodial situation,
+see; e.g., Harpole v. Arkansas Dep’t of Human Servs.,
+820 F.2d 923
+, 927 (8th Cir.1987);
+Estate of Gilmore v. Buckley,
+787 F.2d 714
+, 722 (1st Cir.),
+cert. denied,
+479 U.S. 882
+,
+107 S.Ct. 270
+,
+93 L.Ed.2d 247
+(1986), a reasonable officer would not have known that Johnson’s personal assurances to Pinder and subsequent actions with respect to Pittman would violate Pinder’s due process rights. For this reason, the judgment of the district court should be reversed.
+LUTTIG, J., joins this separate opinion concurring in the judgment.
+DONALD RUSSELL, Circuit Judge,
+dissenting:
+“No amount of semantics,” the Court concludes today, “can disguise the fact that the •real ‘affirmative act’ here was committed by Pittman, not by Officer Johnson. As was true in
+DeShaney,
+the state did not ‘create’ the danger, it simply failed to provide adequate protection from it.” Because I believe the Court casually disregards the very real ways in which Officer Johnson’s conduct placed Pinder and her children in a position of danger, I respectfully dissent.
+In March 1989, the time of the fire, the law “clearly established” that the state has a duty to protect an individual where the state, by its affirmative action, creates a dangerous situation or renders an individual more vul
+*1180
+nerable to danger. As the Seventh Circuit stated in
+Bowers v. DeVito,
+686 F.2d 616
+(7th Cir.1982):
+If the state puts a man in a position of danger from private persons and then fails to protect him, it will not be heard to say that its role was merely passive; it is as much an active tortfeasor as if it had thrown him into a snake pit.
+Id.
+at 618
+.
+Since
+Bowers,
+the Seventh Circuit and other circuits, including our own, have reaffirmed this duty.
+See Archie v. City of Racine,
+847 F.2d 1211
+, 1223 (7th Cir.1988) (“When the state puts a person in danger, the Due Process Clause requires the state to protect him to the extent of ameliorating the incremental risk.”);
+Wells v. Walker,
+852 F.2d 368
+, 370-71 (8th Cir.1988) (holding that the state has a duty to protect where “the state affirmatively places a particular individual in a position of danger the individual would not otherwise have been in”),
+cert. denied,
+489 U.S. 1012
+,
+109 S.Ct. 1121
+,
+103 L.Ed.2d 184
+(1989);
+Ketchum v. Alameda County,
+811 F.2d 1243
+, 1247 (9th Cir.1987) (holding that in defining the “special relationship” that gives rise to the state’s duty to protect an individual from attack by private third parties, “courts have considered ... whether the state has affirmatively placed the plaintiff in a position of danger”);
+Escamilla v. City of Santa Ana,
+796 F.2d 266
+, 269 (9th Cir.1986) (“An obligation to protect may arise when the state itself has put a person in danger.”);
+Jensen v. Conrad,
+747 F.2d 185
+, 194 (4th Cir.1984) (“[W]here the state had selected an individual from the public at large and placed' him in a position of danger, the state was enough of an ‘active tortfeasor’ to make it only ‘just’ that the state be charged with an affirmative duty of protection.”),
+cert. denied,
+470 U.S. 1052
+,
+105 S.Ct. 1754
+,
+84 L.Ed.2d 818
+(1985).
+*
+The Supreme Court’s decision in
+DeShaney v. Winnebago County Department of Social Services,
+489 U.S. 189
+,
+109 S.Ct. 998
+,
+103 L.Ed.2d 249
+(1989), did not reject the state’s clearly established duty to protect an individual where the state, through its affirmative action, has created a dangerous situation or rendered the individual more vulnerable to danger. In
+DeShaney,
+the Supreme Court held only that the state has no duty to protect an individual from the actions of third parties where the state was aware of the dangers but played no part in their creation.
+Id.
+at 201
+, 109 S.Ct. at 1006. The fact that the state did not create the danger was central to the Court’s holding.
+In this case, Officer Johnson was not merely aware of the danger; he placed Pin-der and her children in a position of danger. Officer Johnson knew that Pittman had broken into Pinder’s home and had been abusive and violent. Pittman had punched Pinder and thrown objects at her. When the officers arrived at the scene, Pittman was screaming and threatening that he “wasn’t going to jail for nothing this time; this time it would be for murder.” After the officers restrained Pittman, Pinder explained to Officer Johnson that Pittman had threatened Pinder before, that he had attempted to set fire to her house ten months earlier, and that he had just finished serving his sentence for the attempted arson. Given Pittman’s threats and violent behavior, Pinder was understandably concerned about the safety of herself and her children. She explained to Officer Johnson that she needed to return to work and specifically asked him whether it was safe to do so. Officer Johnson assured Pinder several times that Pittman would remain in police custody until morning. Officer
+*1181
+Johnson indicated to Pinder that Pittman could not be released that night because a county commissioner would not be available until the morning. Instead of remaining home with her children or making other arrangements for their safety, Pinder, relying on Officer Johnson’s assurances, returned to work, leaving her children alone at home. At the police station, Officer Johnson charged Pittman only with two minor offenses, trespassing and malicious destruction of property having a value of less than three hundred dollars. Despite his previous representation to Pinder that no county commissioner would be available before the morning, Officer Johnson brought Pittman before a county commissioner that evening. Because Officer Johnson charged Pittman only with two misdemeanors, the county commissioner released Pittman on his own recognizance. Upon his release, Pittman went directly to Pinder’s house and burned it down, killing the three children in the conflagration.
+- I cannot understand how the majority can recount these same events in its own opinion and not conclude that Officer Johnson placed Pinder and her children in a position of danger. Officer Johnson made assurances to Pinder that Pittman would remain in police custody overnight and falsely represented that no county commissioner would be available until morning. He induced Pinder to return to work and leave her children vulnerable to Pittman’s violence. After witnessing Pittman’s violent behavior and murderous threats, he charged Pittman with only minor offenses, assuring his release. Officer Johnson had a duty to protect Pinder and her children from Pittman, at least to an extent necessary to dispel the false sense of security that his actions created.
+Unlike the majority, I believe that the law at the time of the incident clearly established that Officer Johnson had a duty to protect Pinder and her children upon Pittman’s release. The Court finds it significant that no case before March 1989 contained the precise holding that due process creates a duty of affirmative protection based on an official’s assurances that the danger posed by a third party will be eliminated. Such a particular holding, however, is not required in order to conclude that a right was clearly established.
+In
+Anderson v. Creighton,
+483 U.S. 635
+,
+107 S.Ct. 3034
+,
+97 L.Ed.2d 523
+(1987), the Supreme Court recognized that the operation of the qualified immunity standard depended upon the level of generality at which the law is clearly established. At the most general level, we could conclude that Officer Johnson violated Pinder’s clearly established right to due process. The Supreme Court recognized, however, that a state official could never assert the defense of qualified immunity if the test of “clearly established law” were applied at that level of generality.
+Id.
+at 639
+, 107 S.Ct. at 3038-39. The Supreme Court explained that “[t]he contours of the right must be sufficiently clear that a reasonable official would understand that what he is doing violated that right.”
+Id.
+at 640, 107 S.Ct. at 3039.
+On the other hand, the Court also rejected the view that “an official action is protected by qualified immunity unless the very action in question has previously been held unlaw-ful_”
+Id.
+Requiring such a level of specificity would transform the defense of qualified immunity into a defense of absolute immunity. Instead, the Court held that the preexisting law had to be only specific enough that the unlawfulness of the official’s conduct would be apparent to a reasonable person.
+See id.; see also Pritchett v. Alford,
+973 F.2d 307
+, 314 (4th Cir.1992) (“The fact that an exact right allegedly violated has not earlier been specifically recognized by any court does not prevent a determination that it was nevertheless ‘clearly established’ for qualified immunity purposes.”).
+I believe that a reasonable officer in Officer Johnson’s position would have recognized that, given his assurances- to Pinder that Pittman would remain in police custody until morning and his failure to charge Pittman with an offense serious enough to ensure that he remained in custody overnight, he placed Pinder and her children in a dangerous position. He induced Pinder to let her guard down, dissuading her from taking actions to protect herself and her children from Pittman. Certainly, a reasonable officer would have recognized that he had a duty at least
+*1182
+to phone Pinder and warn her that Pittman had been released from police custody.
+Pinder’s children were left alone at home, vulnerable to the rampage of a violent, intemperate man, and deprived of their mother’s protection because of the hollow word of an irresponsible, thoughtless police officer. Today the Court holds that this police officer, who took no action to correct a dangerous situation of his own creation, did not violate Pinder’s due process rights and is otherwise immune from prosecution because he did not violate a clearly established right. I disagree.
+ERVIN, C.J., and MURNAGHAN and MICHAEL, JJ., have asked to be shown as joining in this dissenting opinion.
+*
+The majority opinion argues that
+Jensen
+is no longer good law in light of
+DeShaney v. Winnebago County Department of Social Services,
+489 U.S. 189
+,
+109 S.Ct. 998
+,
+103 L.Ed.2d 249
+(1989). The
+Jensen
+Court indicated in a footnote that a "special relationship” may exist where the state has expressly promised to provide affirmative protection or where the state has knowledge of the victim's plight.
+747 F.2d at 194-95, n. 11
+. As the majority opinion notes, the Supreme Court in
+DeShaney
+rejected the position that a special relationship arises, giving rise to an affirmative duty to provide protection, where “the State learns that a third party poses a special danger to an identified victim, and indicates its willingness to protect the victim against that danger.” 489 U.S. at 198 & n. 4, 109 S.Ct. at 1004-05 & n. 4 . Nonetheless, I cite
+Jensen
+for the proposition that the state has an affirmative duty to provide protection where the state has placed an individual in a position of danger.
+Jensen
+is still good law on this point.

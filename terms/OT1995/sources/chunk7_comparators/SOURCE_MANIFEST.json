@@ -1,0 +1,127 @@
+{
+  "research_date": "2026-10-04",
+  "source_status": "Historical comparator only; no simulated law or reconciliation",
+  "artifacts": [
+    {
+      "pdf": "USREPORTS-517-654.pdf",
+      "pdf_bytes": 257822,
+      "pdf_sha256": "dc5ff43027a64d448254a84d99640df52f6fa97df5540cabe84e8b6e3442673a",
+      "pdf_pages": 27,
+      "text": "USREPORTS-517-654.txt",
+      "text_bytes": 63616,
+      "text_lines": 1277,
+      "text_sha256": "123c193bbd5e62d47c2756b9168cf8f7258f209e18f5af23eb0f4d47bda0f119",
+      "source_url": "https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-654.pdf"
+    },
+    {
+      "pdf": "USREPORTS-517-681.pdf",
+      "pdf_bytes": 212282,
+      "pdf_sha256": "d41a77c30e24e7ab540edbddde77bf652dde3838bdd23368c34efc4ed89bef6e",
+      "pdf_pages": 9,
+      "text": "USREPORTS-517-681.txt",
+      "text_bytes": 20182,
+      "text_lines": 401,
+      "text_sha256": "bacfeac3a13c17c2cfcee76ef41e52ed69616a1f8b2251e045204d2d8e042195",
+      "source_url": "https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-681.pdf"
+    },
+    {
+      "pdf": "USREPORTS-517-690.pdf",
+      "pdf_bytes": 227732,
+      "pdf_sha256": "391d98d91456409343f1107fa51cec2db59221277a132d31383a64e0cdcdfbf8",
+      "pdf_pages": 16,
+      "text": "USREPORTS-517-690.txt",
+      "text_bytes": 36494,
+      "text_lines": 740,
+      "text_sha256": "c3b8c0b694d9b64a22fc7acdc8cde4ad60e5bdd400084434bb6607cf7c6eaca2",
+      "source_url": "https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-690.pdf"
+    },
+    {
+      "pdf": "USREPORTS-517-706.pdf",
+      "pdf_bytes": 261530,
+      "pdf_sha256": "3b2f68b779cc713f96ebf5cceb567289635deb4a1ee7a22c18fa7ca780e3cddd",
+      "pdf_pages": 29,
+      "text": "USREPORTS-517-706.txt",
+      "text_bytes": 66506,
+      "text_lines": 1329,
+      "text_sha256": "417d91ad22361a25ad524018c077c78881707038fced92d9f5df808edae0b7e4",
+      "source_url": "https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-706.pdf"
+    },
+    {
+      "pdf": "USREPORTS-517-735.pdf",
+      "pdf_bytes": 223482,
+      "pdf_sha256": "2f39bf5035e0440e2b3f28ae72b304ccbfe1b56a329121c596ab2a6d712f4a4d",
+      "pdf_pages": 13,
+      "text": "USREPORTS-517-735.txt",
+      "text_bytes": 30129,
+      "text_lines": 603,
+      "text_sha256": "3b904298cf189f2bb0768497b5839fff8cbbf96a9080203b27fa79beeaf8081f",
+      "source_url": "https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-735.pdf"
+    },
+    {
+      "pdf": "USREPORTS-517-748.pdf",
+      "pdf_bytes": 265989,
+      "pdf_sha256": "42dcc4b2a3779dcaa82001c4b8b5a39d3b7583ddd811943d8eec75bd73ec48fb",
+      "pdf_pages": 33,
+      "text": "USREPORTS-517-748.txt",
+      "text_bytes": 73295,
+      "text_lines": 1507,
+      "text_sha256": "12f27bc5625bed5bf6532f8f00cde3511caa2bdb56dd019c7b1e7071d73e29ce",
+      "source_url": "https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-748.pdf"
+    },
+    {
+      "pdf": "USREPORTS-517-781.pdf",
+      "pdf_bytes": 214781,
+      "pdf_sha256": "d4cc32015d3cf1126605943ed5986c20d84866a6b9786721129448b56b109d9d",
+      "pdf_pages": 12,
+      "text": "USREPORTS-517-781.txt",
+      "text_bytes": 26900,
+      "text_lines": 537,
+      "text_sha256": "564e37df1d1fffbc9e141d3335ae17070f60cec102ea2739a92ff8f6bbae36e4",
+      "source_url": "https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-781.pdf"
+    },
+    {
+      "pdf": "USREPORTS-517-793.pdf",
+      "pdf_bytes": 220004,
+      "pdf_sha256": "a02c1ac7a0637927feb9e9e9d19934f66dd5e45350e3fa9d9924a01f5b56ffe7",
+      "pdf_pages": 13,
+      "text": "USREPORTS-517-793.txt",
+      "text_bytes": 29138,
+      "text_lines": 598,
+      "text_sha256": "5dfe80e399925a80a4f7fb9003226c5e1c804a89e7216c5f82fd8a4640dae459",
+      "source_url": "https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-793.pdf"
+    },
+    {
+      "pdf": "USREPORTS-517-806.pdf",
+      "pdf_bytes": 221110,
+      "pdf_sha256": "9cfbc4781c45228e076af3857def1f6b79b1f319d892f201625c3291e4071101",
+      "pdf_pages": 14,
+      "text": "USREPORTS-517-806.txt",
+      "text_bytes": 31250,
+      "text_lines": 634,
+      "text_sha256": "c967b33ba62772790bb1d07563280e52fff51b88b456b841601ad9dd1d546d37",
+      "source_url": "https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-806.pdf"
+    },
+    {
+      "pdf": "USREPORTS-517-820.pdf",
+      "pdf_bytes": 211261,
+      "pdf_sha256": "03ccd1e2e3aa51f683a8e841f79364928c271e8e12aa31d44e1912eb7a81c1bf",
+      "pdf_pages": 10,
+      "text": "USREPORTS-517-820.txt",
+      "text_bytes": 21104,
+      "text_lines": 437,
+      "text_sha256": "eabf9e25bc9fde2901fb6f5072ca654d5b3937e5fef8ec0d1029efa98bdf4054",
+      "source_url": "https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-820.pdf"
+    },
+    {
+      "pdf": "USREPORTS-517-830.pdf",
+      "pdf_bytes": 217676,
+      "pdf_sha256": "08e53fb705b3c56ca10234595c499b8add0412dcb652cba0c2b1a0861d45a707",
+      "pdf_pages": 13,
+      "text": "USREPORTS-517-830.txt",
+      "text_bytes": 29390,
+      "text_lines": 592,
+      "text_sha256": "275286b06287ba9a756f301828bca8867630f635a865a0b4b71fc9c4da508166",
+      "source_url": "https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-830.pdf"
+    }
+  ]
+}
