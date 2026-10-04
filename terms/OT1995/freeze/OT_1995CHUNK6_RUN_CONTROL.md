@@ -29,3 +29,9 @@ The root coordinates commits and shared workspace updates. Research agents own t
 ## Progress
 
 Initial preflight is in progress. No Chunk 6 Court disposition or statutory source admission has yet been entered.
+
+## Source-intake boundary notices
+
+The first Romer reader encountered historical Supreme Court petition treatment in a citation within a lower-court dissent. The Carlisle and Armstrong source reader encountered historical grant dates in archive headers. The delegated Liquormart reader encountered historical petition treatment on an appendix cover. No affected independent commitments had been produced. Each exposed reader stopped neutral framing for the affected matter and retained only verified date-eligible source extraction. Clean neutral validation must receive sanitized sources without the excluded passages or a description of their substance, followed by a separate independent modeling context. A source's statement of a historical grant date is not supplied authority merely because the runtime packet establishes a granted-review posture.
+
+These disclosures do not establish a merits outcome, historical vote, or current Court action. Detailed exposure receipts remain restricted research/control artifacts, outside neutral modeling and public rendering.
