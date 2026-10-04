@@ -1,0 +1,23 @@
+United States v. Noland, 517 U.S. 535 (1996) LII Supreme Court United States v. Noland (95-323), 517 U.S. 535 (1996) Syllabus Opinion [ Souter ]HTML version
+WordPerfect versionHTML version WordPerfect version NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this
+case, at the time the opinion is issued. The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the
+convenience of the reader. See United States v. Detroit Lumber Co., 200 U.S. 321, 337. SUPREME COURT OF THE UNITED STATES Syllabus UNITED STATES v. NOLAND,
+TRUSTEE FOR DEBTOR FIRST TRUCK LINES, INC. certiorari to the united states court of appeals for the sixth circuit No. 95-323. Argued March 25, 1996 -- Decided
+May 13, 1996 The Internal Revenue Service filed claims in the Bankruptcy Court for taxes, interest, and penalties that accrued after debtor First Truck Lines,
+Inc., sought relief under Chapter 11 of the Bankruptcy Code but before the case was converted to a Chapter 7 bankruptcy. The court found that all of the IRS's
+claims were entitled to first priority as administrative expenses under 11 U.S.C. §§ 503(b)(1)(C) and 507(a)(1), but held that the penalty claim was subject to
+"equitable subordination" under §510(c), which the court interpreted as giving it authority not only to deal with inequitable Government conduct, but also to
+adjust a statutory priority of a category of claims. The court's decision to subordinate the penalty claim to the claims of the general unsecured creditors was
+affirmed by the District Court and the Sixth Circuit, which concluded that postpetition, nonpecuniary loss tax penalty claims are susceptible to subordination
+by their very nature. Held: A bankruptcy court may not equitably subordinate claims on a categorical basis in derogation of Congress's priorities scheme. The
+language of §510(c), principles of statutory construction, and legislative history clearly indicate Congress's intent in its 1978 revision of the Code to use
+the existing judge made doctrine of equitable subordination as the starting point for deciding when subordination is appropriate. By adopting "principles of
+equitable subordination," §510(c) allows a bankruptcy court to reorder a tax penalty when justified by particular facts. It is also clear that Congress meant to
+give courts some leeway to develop the doctrine. However, a reading of the statute that would give courts leeway broad enough to allow subordination at odds
+with the congressional ordering of priorities by category is improbable in the extreme. The statute would then empower a court to modify the priority
+provision's operation at the same level at which Congress operated when it made its characteristically general judgment to establish the hierarchy of claims in
+the first place, thus delegating legislative revision, not authorizing equitable exception. Nonetheless, just such a legislative type of decision underlies the
+reordering of priorities here. The Sixth Circuit's decision runs directly counter to Congress's policy judgment that a postpetition tax penalty should receive
+the priority of an administrative expense. Since the Sixth Circuit's rationale was inappropriately categorical in nature, this Court need not decide whether a
+bankruptcy court must always find creditor misconduct before a claim may be equitably subordinated. Pp. 3-9. 48 F. 3d 210, reversed and remanded. Souter, J.,
+delivered the opinion for a unanimous Court.

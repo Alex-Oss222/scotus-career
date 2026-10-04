@@ -1,0 +1,48 @@
+BMW of North America, Inc. v. Gore, 517 U.S. 559 (1996). LII Supreme Court BMW of North America, Inc. v. Gore (94-896), 517 U.S. 559 (1996). Dissent [ Scalia
+]Dissent [ Ginsburg ]Opinion [ Stevens ]Concurrence [ Breyer ]Syllabus HTML version WordPerfect versionHTML version WordPerfect versionHTML version WordPerfect
+versionHTML version WordPerfect versionHTML version WordPerfect version NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is issued. The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter
+of Decisions for the convenience of the reader. See United States v. Detroit Lumber Co., 200 U.S. 321, 337. SUPREME COURT OF THE UNITED STATES Syllabus BMW OF
+NORTH AMERICA, INC. v. GORE certiorari to the supreme court of alabama No. 94-896. Argued October 11, 1995 -- Decided May 20, 1996 After respondent Gore
+purchased a new BMW automobile from an authorized Alabama dealer, he discovered that the car had been repainted. He brought this suit for compensatory and
+punitive damages against petitioner, the American distributor of BMW's, alleging, inter alia, that the failure to disclose the repainting constituted fraud
+under Alabama law. At trial, BMW acknowledged that it followed a nationwide policy of not advising its dealers, and hence their customers, of predelivery damage
+to new cars when the cost of repair did not exceed 3 percent of the car's suggested retail price. Gore's vehicle fell into that category. The jury returned a
+verdict finding BMW liable for compensatory damages of $4,000, and assessing $4 million in punitive damages. The trial judge denied BMW's post-trial motion to
+set aside the punitive damages award, holding, among other things, that the award was not "grossly excessive" and thus did not violate the Due Process Clause of
+the Fourteenth Amendment. See, e.g., TXO Production Corp. v. Alliance Resources Corp., 509 U.S. 443, 454. The Alabama Supreme Court agreed, but reduced the
+award to $2 million on the ground that, in computing the amount, the jury had improperly multiplied Gore's compensatory damages by the number of similar sales
+in all States, not just those in Alabama. Held: The $2 million punitive damages award is grossly excessive and therefore exceeds the constitutional limit. Pp.
+7-26. (a) Because such an award violates due process only when it can fairly be categorized as "grossly excessive" in relation to the State's legitimate
+interests in punishing unlawful conduct and deterring its repetition, cf. TXO, 509 U. S., at 456, the federal excessiveness inquiry appropriately begins with an
+identification of the state interests that such an award is designed to serve. Principles of state sovereignty and comity forbid a State to enact policies for
+the entire Nation, or to impose its own policy choice on neighboring States. See e.g., Healy v. Beer Institute, 491 U.S. 324, 335-336. Accordingly, the economic
+penalties that a State inflicts on those who transgress its laws, whether the penalties are legislatively authorized fines or judicially imposed punitive
+damages, must be supported by the State's interest in protecting its own consumers and economy, rather than those of other States or the entire Nation. Gore's
+award must therefore be analyzed in the light of conduct that occurred solely within Alabama, with consideration being given only to the interests of Alabama
+consumers. Pp. 7-13. (b) Elementary notions of fairness enshrined in this Court's constitutional jurisprudence dictate that a person receive fair notice not
+only of the conduct that will subject him to punishment but also of the severity of the penalty that a State may impose. Three guideposts, each of which
+indicates that BMW did not receive adequate notice of the magnitude of the sanction that Alabama might impose, lead to the conclusion that the $2 million award
+is grossly excessive. Pp. 13-14. (c) None of the aggravating factors associated with the first (and perhaps most important) indicium of a punitive damages
+award's excessiveness--the degree of reprehensibility of the defendant's conduct, see e.g., Day v. Woodworth, 13 How. 363, 371--is present here. The harm BMW
+inflicted on Gore was purely economic; the presale repainting had no effect on the car's performance, safety features, or appearance; and BMW's conduct evinced
+no indifference to or reckless disregard for the health and safety of others. Gore's contention that BMW's nondisclosure was particularly reprehensible because
+it formed part of a nationwide pattern of tortious conduct is rejected, because a corporate executive could reasonably have interpreted the relevant state
+statutes as establishing safe harbors for nondisclosure of presumptively minor repairs, and because there is no evidence either that BMW acted in bad faith when
+it sought to establish the appropriate line between minor damage and damage requiring disclosure to purchasers, or that it persisted in its course of conduct
+after it had been adjudged unlawful. Finally, there is no evidence that BMW engaged in deliberate false statements, acts of affirmative misconduct, or
+concealment of evidence of improper motive. Pp. 14-20. (d) The second (and perhaps most commonly cited) indicium of excessiveness--the ratio between the
+plaintiff's compensatory damages and the amount of the punitive damages, see e.g., TXO, 509 U. S., at 459--also weighs against Gore, because his $2 million
+award is 500 times the amount of his actual harm as determined by the jury, and there is no suggestion that he or any other BMW purchaser was threatened with
+any additional potential harm by BMW's nondisclosure policy. Although it is not possible to draw a mathematical bright line between the constitutionally
+acceptable and the constitutionally unacceptable that would fit every case, see, e.g., id., at 458, the ratio here is clearly outside the acceptable range. Pp.
+20-23. (e) Gore's punitive damages award is not saved by the third relevant indicium of excessiveness--the difference between it and the civil or criminal
+sanctions that could be imposed for comparable misconduct, see, e.g., Pacific Mut. Life Ins. Co. v. Haslip, 499 U.S. 1, 23--because $2 million is substantially
+greater than Alabama's applicable $2,000 fine and the penalties imposed in other States for similar malfeasance, and because none of the pertinent statutes or
+interpretive decisions would have put an out of state distributor on notice that it might be subject to a multimillion dollar sanction. Moreover, in the absence
+of a BMW history of noncompliance with known statutory requirements, there is no basis for assuming that a more modest sanction would not have been sufficient.
+Pp. 23-25. (f) Thus, BMW's conduct was not sufficiently egregious to justify the severe punitive sanction imposed against it. Whether the appropriate remedy
+requires a new trial or merely an independent determination by the Alabama Supreme Court of the award necessary to vindicate Alabama consumers' economic
+interests is a matter for that court to address in the first instance. Pp. 25-26. 646 So. 2d 619, reversed and remanded. Stevens, J., delivered the opinion of
+the Court, in which O'Connor, Kennedy, Souter, and Breyer, JJ., joined. Breyer, J., filed a concurring opinion, in which O'Connor and Souter, JJ., joined.
+Scalia, J., filed a dissenting opinion, in which Thomas, J., joined. Ginsburg, J., filed a dissenting opinion, in which Rehnquist, C. J., joined.

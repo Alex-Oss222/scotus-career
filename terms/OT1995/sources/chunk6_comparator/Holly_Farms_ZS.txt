@@ -1,0 +1,39 @@
+Holly Farms Corp. et al. v. National Labor Relations Bd. et al., 517 U.S. 392 (1996) LII Supreme Court Holly Farms Corp. et al. v. National Labor Relations Bd.
+et al. (95-210), 517 U.S. 392 (1996) Opinion [ Ginsburg ]Other [ O'Connor ]Syllabus HTML version WordPerfect versionHTML version WordPerfect versionHTML version
+WordPerfect version NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion
+is issued. The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Lumber Co., 200 U.S. 321, 337. SUPREME COURT OF THE UNITED STATES Syllabus HOLLY FARMS CORP. et al. v. NATIONAL LABOR RELATIONS
+BOARD et al. certiorari to the united states court of appeals for the fourth circuit No. 95-210. Argued February 21, 1996 -- Decided April 23, 1996 Respondent
+National Labor Relations Board (Board) approved a bargaining unit at the Wilkesboro, North Carolina, processing plant of petitioner Holly Farms Corporation, a
+vertically integrated poultry producer. The approved unit included workers described as "live haul" crews--teams of chicken catchers, forklift operators, and
+truckdrivers, who collect for slaughter chickens raised as broilers by independent contract growers, and transport the birds to the processing plant. On Holly
+Farms' petition for review, the Fourth Circuit enforced the Board's order. The court held that the Board's classification of the live haul workers as
+"employee[s]" protected by the National Labor Relations Act (NLRA or Act), rather than "agricultural laborer[s]" excluded from the Act's coverage by §2(3) of
+the NLRA, rested on a reasonable interpretation of the Act and was consistent with the Board's prior decisions and with the Eighth Circuit's case law. Held: The
+Board reasonably aligned the live haul crews with Holly Farms' processing operations, typing them covered "employee[s]," not exempt "agricultural laborer[s]";
+therefore, the Fourth Circuit properly deferred to the Board's determination. Pp. 4-17. (a) The term "agricultural laborer," as used in §2(3) of the NLRA,
+derives its meaning from the definition of "agriculture" supplied by §3(f) of the Fair Labor Standards Act of 1938 (FLSA). This definition includes farming in
+both a primary sense, which includes "the raising . . . of poultry," and a secondary sense, which encompasses practices "performed by a farmer or on a farm as
+an incident to or in conjunction with such farming operations." When a statutory prescription is not free from ambiguity, the Board must choose between
+conflicting reasonable interpretations. Courts, in turn, must respect the judgment of the agency empowered to apply the law to varying fact patterns. Bayside
+Enterprises, Inc. v. NLRB, 429 U.S. 298, 304. Pp. 4-7. (b) The Court confronts no contention that the live haul crews are engaged in primary agriculture. Thus,
+the sole question the Court addresses and decides is whether the chicken catchers, forklift operators, and truck drivers are engaged in secondary agriculture.
+The live haul activities are not "performed by a farmer." When an integrated poultry producer contracts with independent growers for the care and feeding of
+chicks hatched in the producer's hatcheries, the producer's status as a farmer ends with respect to those chicks. Bayside, 429 U. S., at 302, n. 9. The producer
+does not resume farmer status when its live haul employees arrive on the independent farms to collect broilers for carriage to slaughter and processing. This
+conclusion entirely disposes of the contention that the truckdrivers are employed in secondary agriculture, for Holly Farms acknowledges that these crew members
+do not work "on a farm." Pp. 7-8. (c) The more substantial question is whether the catching and loading of broilers qualifies as work performed "on a farm as an
+incident to or in conjunction with" the independent growers' farming operations. Holly Farms' position that this work is incident to the raising of poultry is a
+plausible, but not an inevitable, construction of FLSA §3(f). Hence, a reviewing court must examine the Board's position only for its reasonableness as an
+interpretation of the governing legislation. P. 8. (d) The Board concluded that the collection of broilers for slaughter, although performed "on a farm," is not
+incidental to farming operations. Rather, the Board determined, the live haul crews' work is tied to Holly Farms' processing operations. This is a reasonable
+interpretation of the statute. Once the broilers have grown on the farm for seven weeks, the growers' contractual obligation to raise the birds ends, and the
+work of the live haul crew begins. The growers do not assist the crews in catching or loading the chickens, and the crews play no role in the growers'
+performance of their contractual undertakings. Furthermore, the live haul employees all work out of the Wilkesboro processing plant, begin and end each shift by
+punching a time clock at the plant, and are functionally integrated with other processing plant employees. It was also sensible for the Board to home in on the
+status of the crews' employer. Pp. 9-12. (e) The Board's decision adheres to longstanding NLRB precedent, see, e.g., Imco Poultry, Div. of Int'l Multifoods
+Corp., 202 N. L. R. B.259, 260, and is supported by the construction of FLSA §3(f) by the Department of Labor, the agency responsible for administering the
+FLSA. The Department's interpretative regulations accord with the Board's conclusion that the live haul crews do not engage in secondary farming and further
+demonstrate that FLSA §3(f)'s meaning is not so plain as to bear only one permissible construction in the context at hand. Pp. 12-16. 48 F. 3d 1360, affirmed.
+Ginsburg, J., delivered the opinion of the Court, in which Stevens, Kennedy, Souter, and Breyer, JJ., joined. O'Connor, J., filed an opinion concurring in the
+judgment in part and dissenting in part, in which Rehnquist, C. J., and Scalia and Thomas, JJ., joined.

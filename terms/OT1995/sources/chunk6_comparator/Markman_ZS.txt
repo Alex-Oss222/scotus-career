@@ -1,0 +1,33 @@
+Markman et al. v. Westview Instruments, Inc., et al., 517 U.S. 370 (1996). LII Supreme Court Markman et al. v. Westview Instruments, Inc., et al. (95-26), 517
+U.S. 370 (1996). Syllabus Opinion [ Souter ]HTML version WordPerfect versionHTML version WordPerfect version NOTE: Where it is feasible, a syllabus (headnote)
+will be released, as is being done in connection with this case, at the time the opinion is issued. The syllabus constitutes no part of the opinion of the Court
+but has been prepared by the Reporter of Decisions for the convenience of the reader. See United States v. Detroit Lumber Co., 200 U.S. 321, 337. SUPREME COURT
+OF THE UNITED STATES Syllabus MARKMAN et al. v. WESTVIEW INSTRUMENTS, INC., et al. certiorari to the united states court of appeals for the federal circuit No.
+95-26. Argued January 8, 1996 -- Decided April 23, 1996 Petitioner Markman owns the patent to a system that tracks clothing through the dry cleaning process
+using a keyboard and data processor to generate transaction records, including a bar code readable by optical detectors. According to the patent's claim, the
+portion of the patent document that defines the patentee's rights, Markman's product can "maintain an inventory total" and "detect and localize spurious
+additions to inventory." The product of respondent Westview Instruments, Inc., also uses a keyboard and processor and lists dry cleaning charges on bar coded
+tickets that can be read by optical detectors. In this infringement suit, after hearing an expert witness testify about the meaning of the claim's language, the
+jury found that Westview's product had infringed Markman's patent. The District Court nevertheless directed a verdict for Westview on the ground that its device
+is unable to track "inventory" as that term is used in the claim. The Court of Appeals affirmed, holding the interpretation of claim terms to be the exclusive
+province of the court and the Seventh Amendment to be consistent with that conclusion. Held: The construction of a patent, including terms of art within its
+claim, is exclusively within the province of the court. Pp. 5-21. (a) The Seventh Amendment right of trial by jury is the right which existed under the English
+common law when the Amendment was adopted. Baltimore & Carolina Line, Inc. v. Redman, 295 U.S. 654, 657. Thus, the Court asks, first, whether infringement cases
+either were tried at law at the time of the Founding or are at least analogous to a cause of action that was. There is no dispute that infringement cases today
+must be tried before a jury, as their predecessors were more than two centuries ago. This conclusion raises a second question: whether the particular trial
+issue (here a patent claim's construction) is necessarily a jury issue. This question is answered by comparing the modern practice to historical sources. Where
+there is no exact antecedent in the common law, the modern practice should be compared to earlier practices whose allocation to court or jury is known, and the
+best analogy that can be drawn between an old and the new must be sought. Pp. 5-7. (b) There is no direct antecedent of modern claim construction in the
+historical sources. The closest 18th century analogue to modern claim construction seems to have been the construction of patent specifications describing the
+invention. Early patent cases from England and this Court show that judges, not juries, construed specification terms. No authority from this period supports
+Markman's contention that even if judges were charged with construing most patent terms, the art of defining terms of art in a specification fell within the
+jury's province. Pp. 7-13. (c) Since evidence of common law practice at the time of the Framing does not entail application of the Seventh Amendment's jury
+guarantee to the construction of the claim document, this Court must look elsewhere to characterize this determination of meaning in order to allocate it as
+between judge or jury. Existing precedent, the relative interpretive skills of judges and juries, and statutory policy considerations all favor allocating
+construction issues to the court. As the former patent practitioner, Justice Curtis, explained, the first issue in a patent case, construing the patent, is a
+question of law, to be determined by the court. The second issue, whether infringement occurred, is a question of fact for a jury. Winans v. Denmead, 15 How.
+330, 338. Contrary to Markman's contention, Bischoff v. Wethered, 9 Wall. 812, and Tucker v. Spalding, 13 Wall. 453, neither indicate that 19th century juries
+resolved the meaning of patent terms of art nor undercut Justice Curtis's authority. Functional considerations also favor having judges define patent terms of
+art. A judge, from his training and discipline, is more likely to give proper interpretation to highly technical patents than a jury and is in a better position
+to ascertain whether an expert's proposed definition fully comports with the instrument as a whole. Finally, the need for uniformity in the treatment of a given
+patent favors allocation of construction issues to the court. Pp. 13-21. 52 F. 3d 967, affirmed. Souter, J., delivered the opinion for a unanimous Court.

@@ -1,0 +1,154 @@
+BMW of North America, Inc. v. Gore, 517 U.S. 559 (1996). LII Supreme Court BMW of North America, Inc. v. Gore (94-896), 517 U.S. 559 (1996). Dissent [ Scalia
+]Dissent [ Ginsburg ]Opinion [ Stevens ]Concurrence [ Breyer ]Syllabus HTML version WordPerfect versionHTML version WordPerfect versionHTML version WordPerfect
+versionHTML version WordPerfect versionHTML version WordPerfect version No. 94-896 BMW OF NORTH AMERICA, INC., PETITIONER v. IRA GORE, Jr. on writ of certiorari
+to the supreme court of alabama [May 20, 1996] Justice Ginsburg , with whom The Chief Justice joins, dissenting. The respect due the Alabama Supreme Court
+requires that we strip from this case a false issue: no impermissible "extraterritoriality" infects the judgment before us; the excessiveness of the award is
+the sole issue genuinely presented. The Court ultimately so recognizes, see ante, at 12-13, but further clarification is in order. Dr. Gore's experience was not
+unprecedented among customers who bought BMW vehicles sold as flawless and brand new. In addition to his own encounter, Gore showed, through paint repair orders
+introduced at trial, that on 983 other occasions since 1983, BMW had shipped new vehicles to dealers without disclosing paint repairs costing at least $300, Tr.
+585-586; at least 14 of the repainted vehicles, the evidence also showed, were sold as new and undamaged to consumers in Alabama. 646 So. 2d 619, 623 (Ala.
+1994). Sales nationwide, Alabama's Supreme Court said, were admissible "as to the issue of a `pattern and practice' of such acts." Id., at 627. There was "no
+error," the court reiterated, "in the admission of the evidence that showed how pervasive the nondisclosure policy was and the intent behind BMW NA's adoption
+of it." Id., at 628. That determination comports with this Court's expositions. See TXO Production Corp. v. Alliance Resources Corp., 509 U.S. 443, 462, and n.
+28 (1993) (characterizing as "well settled" the admissibility of "evidence of [defendant's] alleged wrongdoing in other parts of the country" and of defendant's
+"wealth"); see also Brief for Petitioner 22 (recognizing that similar acts, out of state, traditionally have been considered relevant "for the limited purpose
+of determining that the conduct before the [c]ourt was reprehensible because it was part of a pattern rather than an isolated incident"). Alabama's highest
+court next declared that the "jury could not use the number of similar acts that a defendant has committed in other jurisdictions as a multiplier when
+determining the dollar amount of a punitive damages award. Such evidence may not be considered in setting the size of the civil penalty, because neither the
+jury nor the trial court had evidence before it showing in which states the conduct was wrongful." 646 So. 2d, at 627 (emphasis in original) (footnote omitted).
+Because the Alabama Supreme Court provided this clear statement of the State's law, the multiplier problem encountered in Gore's case is not likely to occur
+again. Now, as a matter of Alabama law, it is plainly impermissible to assess punitive damages by multiplication based on out of state events not shown to be
+unlawful. See, e.g., Independent Life and Accident Ins. Co. v. Harrington, 658 So. 2d 892, 902-903 (Ala. 1994) (under BMW v. Gore, trial court erred in relying
+on defendant insurance company's out of state insurance policies in determining harm caused by defendant's unlawful actions). No Alabama authority, it bears
+emphasis- no statute, judicial decision, or trial judge instruction--ever countenanced the jury's multiplication of the $4,000 diminution in value estimated for
+each refinished car by the number of such cars (approximately 1,000) shown to have been sold nationwide. The sole prompt to the jury to use nationwide sales as
+a multiplier came from Gore's lawyer during summation. App. 31, Tr. 812-813. Notably, counsel for BMW failed to object to Gore's multiplication suggestion, even
+though BMW's counsel interrupted to make unrelated objections four other times during Gore's closing statement. Tr. 810-811, 854-855, 858, 870-871. Nor did
+BMW's counsel request a charge instructing the jury not to consider out of state sales in calculating the punitive damages award. See Record 513-529 (listing
+all charges requested by counsel). Following the verdict, BMW's counsel challenged the admission of the paint repair orders, but not, alternately, the jury's
+apparent use of the orders in a multiplication exercise. Curiously, during postverdict argument, BMW's counsel urged that if the repair orders were indeed
+admissible, then Gore would have a "full right" to suggest a multiplier based disgorgement. Tr. 932. In brief, Gore's case is idiosyncratic. The jury's improper
+multiplication, tardily featured by petitioner, is unlikely to recur in Alabama and does not call for error correction by this Court. Because the jury
+apparently (and erroneously) had used acts in other states as a multiplier to arrive at a $4 million sum for punitive damages, the Alabama Supreme Court itself
+determined "'the maximum amount that a properly functioning jury could have awarded.'" 646 So. 2d, at 630 (Houston, J., concurring specially) (quoting Big B,
+Inc. v. Cottingham, 634 So. 2d 999, 1006 (Ala. 1993)). The per curiam opinion emphasized that in arriving at $2 million as "the amount of punitive damages to be
+awarded in this case, [the court did] not consider those acts that occurred in other jurisdictions." 646 So. 2d, at 628 (emphasis in original). As this Court
+recognizes, the Alabama high court "properly eschewed reliance on BMW's out of state conduct and based its remitted award solely on conduct that occurred within
+Alabama." Ante, at 13 (citation omitted). In sum, the Alabama Supreme Court left standing the jury's decision that the facts warranted an award of punitive
+damages-- a determination not contested in this Court--and the state court concluded that, considering only acts in Alabama, $2 million was "a constitutionally
+reasonable punitive damages award." 646 So. 2d, at 629. Alabama's Supreme Court reports that it "thoroughly and painstakingly" reviewed the jury's award, ibid.,
+according to principles set out in its own pathmarking decisions and in this Court's opinions in TXO and Pacific Mut. Life Ins. Co. v. Haslip, 499 U.S. 1, 21
+(1991). 646 So. 2d, at 621. The Alabama court said it gave weight to several factors, including BMW's deliberate ("reprehensible") presentation of refinished
+cars as new and undamaged, without disclosing that the value of those cars had been reduced by an estimated 10%, [n.1] the financial position of the defendant,
+and the costs of litigation. Id., at 625-626. These standards, we previously held, "impos[e] a sufficiently definite and meaningful constraint on the discretion
+of Alabama factfinders in awarding punitive damages." Haslip, 499 U. S., at 22; see also TXO, 509 U. S., at 462, n. 28. Alabama's highest court could have
+displayed its labor pains more visibly, [n.2] but its judgment is nonetheless entitled to a presumption of legitimacy. See Rowan v. Runnels, 5 How. 134, 139
+(1847) ("[T]his court will always feel itself bound to respect the decisions of the State courts, and from the time they are made will regard them as conclusive
+in all cases upon the construction of their own constitution and laws."). We accept, of course, that Alabama's Supreme Court applied the State's own law
+correctly. Under that law, the State's objectives--"punishment and deterrence"--guide punitive damages awards. See Birmingham v. Benson, 631 So. 2d 902, 904
+(Ala. 1994). Nor should we be quick to find a constitutional infirmity when the highest state court endeavored a corrective for one counsel's slip and the
+other's oversight--counsel for plaintiff's excess in summation, unobjected to by counsel for defendant, see supra, at 3--and when the state court did so
+intending to follow the process approved in our Haslip and TXO decisions. The Court finds Alabama's $2 million award not simply excessive, but grossly so, and
+therefore unconstitutional. The decision leads us further into territory traditionally within the States' domain, [n.3] and commits the Court, now and again, to
+correct "misapplication of a properly stated rule of law." But cf. S. Ct. Rule 10 ("A petition for a writ of certiorari is rarely granted when the asserted
+error consists of erroneous factual findings or the misapplication of a properly stated rule of law."). [n.4] The Court is not well equipped for this mission.
+Tellingly, the Court repeats that it brings to the task no "mathematical formula," ante, at 22, no "categorical approach," ante, at 23, no "bright line," ante,
+at 26. It has only a vague concept of substantive due process, a "raised eyebrow" test, see ante, at 23, as its ultimate guide. [n.5] In contrast to habeas
+corpus review under 28 U.S.C. § 2254 the Court will work at this business alone. It will not be aided by the federal district courts and courts of appeals. It
+will be the only federal court policing the area. The Court's readiness to superintend state court punitive damages awards is all the more puzzling in view of
+the Court's longstanding reluctance to countenance review, even by courts of appeals, of the size of verdicts returned by juries in federal district court
+proceedings. See generally 11 C. Wright, A. Miller, & M. Kane, Federal Practice and Procedure §2820 (2d ed. 1995). And the reexamination prominent in state
+courts [n.6] and in legislative arenas, see Appendix, infra, at 9, serves to underscore why the Court's enterprise is undue. For the reasons stated, I dissent
+from this Court's disturbance of the judgment the Alabama Supreme Court has made. APPENDIX TO DISSENTING OPINION OF GINSBURG, J. State Legislative Activity
+Regarding Punitive Damages State legislatures have in the hopper or have enacted a variety of measures to curtail awards of punitive damages. At least one state
+legislature has prohibited punitive damages altogether, unless explicitly provided by statute. See N. H. Rev. Stat. Ann. §507:16 (1994). We set out in this
+appendix some of the several controls enacted or under consideration in the States. The measures surveyed are: (1) caps on awards; (2) provisions for payment of
+sums to state agencies rather than to plaintiffs; and (3) mandatory bifurcated trials with separate proceedings for punitive damages determinations. I. Caps on
+Punitive Damages Awards " Colorado--Colo. Rev. Stat. §§13-21-102(1)(a) and (3) (1987) (as a main rule, caps punitive damages at amount of actual damages). "
+Connecticut--Conn. Gen. Stat. §52-240b (1995) (caps punitive damages at twice compensatory damages in products liability cases). " Delaware--H. R. 237, 138th
+Gen. Ass. (introduced May 17, 1995) (would cap punitive damages at greater of three times compensatory damages, or $250,000). " Florida--Fla. Stat.
+§§768.73(1)(a) and (b) (Supp. 1992) (in general, caps punitive damages at three times compensatory damages). " Georgia--Ga. Code Ann. §51-12-5.1 (Supp. 1995)
+(caps punitive damages at $250,000 in some tort actions; prohibits multiple awards stemming from the same predicate conduct in products liability actions). "
+Illinois--H. 20, 89th Gen. Ass. 1995-1996 Reg. Sess. (enacted Mar. 9, 1995) (caps punitive damages at three times economic damages). " Indiana--H. 1741, 109th
+Reg. Sess. (enacted Apr. 26, 1995) (caps punitive damages at greater of three times compensatory damages, or $50,000). " Kansas--Kan. Stat. Ann. §§60-3701(e)
+and (f) (1994) (in general, caps punitive damages at lesser of defendant's annual gross income, or $5 million). " Maryland--S. 187, 1995 Leg. Sess. (introduced
+Jan. 27, 1995) (in general, would cap punitive damages at four times compensatory damages). " Minnesota--S. 489, 79th Leg. Sess., 1995 Reg. Sess. (introduced
+Feb. 16, 1995) (would require reasonable relationship between compensatory and punitive damages). " Nevada--Nev. Rev. Stat. §42.005(1) (1993) (caps punitive
+damages at three times compensatory damages if compensatory damages equal $100,000 or more, and at $300,000 if the compensatory damages are less than $100,000).
+" New Jersey--S. 1496, 206th Leg., 2d Ann. Sess. (1995) (caps punitive damages at greater of five times compensatory damages, or $350,000, in certain tort
+cases). " North Dakota--N. D. Cent. Code §32-03.2-11(4) (Supp. 1995) (caps punitive damages at greater of two times compensatory damages, or $250,000). "
+Oklahoma--Okla Stat., Tit. 23, §§9.1(B)-(D) (Supp. 1996) (caps punitive damages at greater of $100,000, or actual damages, if jury finds defendant guilty of
+reckless disregard; and at greatest of $500,000, twice actual damages, or the benefit accruing to defendant from the injury causing conduct, if jury finds that
+defendant has acted intentionally and maliciously). " Texas--S. 25, 74th Reg. Sess. (enacted Apr. 20, 1995) (caps punitive damages at twice economic damages,
+plus up to $750,000 additional noneconomic damages). " Virginia--Va. Code Ann. §8.01-38.1 (1992) (caps punitive damages at $350,000). II. Allocation of Punitive
+Damages to State Agencies " Arizona--H. R. 2279, 42d Leg., 1st Reg. Sess. (introduced Jan. 12, 1995) (would allocate punitive damages to a victims' assistance
+fund, in specified circumstances). " Florida--Fla. Stat. §§768.73(2)(a)-(b) (Supp. 1992) (allocates 35% of punitive damages to General Revenue Fund or Public
+Medical Assistance Trust Fund); see Gordon v. State, 585 So. 2d 1033, 1035-1038 (Fla. App. 1991), aff'd, 608 So. 2d 800 (Fla. 1992) (upholding provision against
+due process challenge). " Georgia--Ga. Code Ann. §51-12-5.1(e)(2) (Supp. 1995) (allocates 75% of punitive damages, less a proportionate part of litigation
+costs, including counsel fees, to state treasury); see Mack Trucks, Inc. v. Conkle, 263 Ga. 539, 540-543, 436 S. E. 2d 635, 637-639 (Ga. 1993) (upholding
+provision against constitutional challenge). " Illinois--Ill. Comp. Stat. ch. 735, §5/2-1207 (1994) (permits court to apportion punitive damages among
+plaintiff, plaintiff's attorney, and Illinois Department of Rehabilitation Services). " Indiana--H. 1741, 109th Reg. Sess. (enacted Apr. 26, 1995) (subject to
+statutory exceptions, allocates 75% of punitive damages to a compensation fund for violent crime victims). " Iowa--Iowa Code §668A.1(2)(b) (1987) (in described
+circumstances, allocates 75% of punitive damages, after payment of costs and counsel fees, to a civil reparations trust fund); see Shepherd Components, Inc. v.
+Brice Petrides Donohue & Assoc., Inc., 473 N. W. 2d 612, 619 (Iowa 1991) (upholding provision against constitutional challenge). " Kansas--Kan. Stat. Ann.
+§60-3402(e) (1994) (allocates 50% of punitive damages in medical malpractice cases to state treasury). " Missouri--Mo. Rev. Stat. §537.675 (1994) (allocates 50%
+of punitive damages, after payment of expenses and counsel fees, to Tort Victims' Compensation Fund). " Montana--H. 71, 54th Leg. Sess. (introduced Jan. 2,
+1995) (would allocate 48% of punitive damages to state university system and 12% to school for the deaf and blind). " New Jersey--S. 291, 206th Leg., 1994-1995
+1st Reg. Sess. (introduced Jan. 18, 1994); A. 148, 206th Leg., 1994-1995 1st Reg. Sess. (introduced Jan. 11, 1994) (would allocate 75% of punitive damages to
+New Jersey Health Care Trust Fund). " New Mexico--H. 1017, 42d Leg., 1st Sess. (introduced Feb. 16, 1995) (would allocate punitive damages to Low Income
+Attorney Services Fund). " Oregon--S. 482, 68th Leg. Ass. (enacted July 19, 1995) (amending Ore. Rev. Stat. §§18.540 and 30.925, and repealing Ore. Rev. Stat.
+§41.315) (allocates 60% of punitive damages to Criminal Injuries Compensation Account). " Utah--Utah Code Ann. §78-18-1(3) (1992) (allocates 50% of punitive
+damages in excess of $20,000 to state treasury). III. Mandatory Bifurcation of Liability and Punitive Damages Determinations " California--Cal. Civ. Code Ann.
+§3295(d) (West Supp. 1995) (requires bifurcation, on application of defendant, of liability and damages phases of trials in which punitive damages are
+requested). " Delaware--H. R. 237, 138th Gen. Ass. (introduced May 17, 1995) (would require, at request of any party, a separate proceeding for determination of
+punitive damages). " Georgia--Ga. Code Ann. §51-12-5.1(d) (Supp. 1995) (in all cases in which punitive damages are claimed, liability for punitive damages is
+tried first, then amount of punitive damages). " Illinois--H. 20, 89th Gen. Assembly, 1995-1996 Reg. Sess. (enacted Mar. 9, 1995) (mandates, upon defendant's
+request, separate proceeding for determination of punitive damages). " Kansas--Kan. Stat. Ann. §60-3701(a)-b) (1994) (trier of fact determines defendant's
+liability for punitive damages, then court determines amount of such damages). " Missouri--Mo. Rev. Stat. §§510.263(1) and (3) (1994) (mandates bifurcated
+proceedings, on request of any party, for jury to determine first whether defendant is liable for punitive damages, then amount of punitive damages). " Montana
+--Mont. Code Ann. §27-1-221(7) (1995) (upon finding defendant liable for punitive damages, jury determines the amount in separate proceeding). " Nevada--Nev.
+Rev. Stat. §42.005(3) (1993) (if jury determines that punitive damages will be awarded, jury then determines amount in separate proceeding). " New Jersey--N. J.
+Stat. Ann. §§2A:58C-5(b) and (d) (West 1987) (mandates separate proceedings for determination of compensatory and punitive damages). " North Dakota--N. D. Cent.
+Code §32.03.2-11(2) (Supp. 1995) (upon request of either party, trier of fact determines whether compensatory damages will be awarded before determining
+punitive damages liability and amount). " Ohio--Ohio Rev. Code Ann. §2315.21(C)(2) (1995) (if trier of fact determines that defendant is liable for punitive
+damages, court determines the amount of those damages). " Oklahoma--Okla. Stat., Tit. 23, §§9.1(B)-(D) (Supp. 1995-1996) (requires separate jury proceedings for
+punitive damages); S. 443, 45th Leg., 1st Reg. Sess. (introduced Jan. 31, 1995) (would require courts to strike requests for punitive damages before trial,
+unless plaintiff presents prima facie evidence at least 30 days before trial to sustain such damages; provide for bifurcated jury trial on request of defendant;
+and permit punitive damages only if compensatory damages are awarded). " Virginia--H. 1070, 1994-1995 Reg. Sess. (introduced Jan. 25, 1994) (would require
+separate proceedings in which court determines that punitive damages are appropriate and trier of fact determines amount of punitive damages). Notes 1 According
+to trial testimony, in late May 1992, BMW began redirecting refinished cars out of Alabama and two other States. Tr. 964. The jury returned its verdict in favor
+of Gore on June 12, 1992. Five days later, BMW changed its national policy to one of full disclosure. Id., at 1026. 2 See, e.g., Brief for Law and Economics
+Scholars, et al. as Amici Curiae 6-28 (economic analysis demonstrates that Alabama Supreme Court's judgment was not unreasonable); W. Landes & R. Posner,
+Economic Structure of Tort Law 160-163 (1987) (economic model for assessing propriety of punitive damages in certain tort cases). 3 See ante, at 7 ("In our
+federal system, States necessarily have considerable flexibility in determining the level of punitive damages that they will allow in different classes of cases
+and in any particular case."); Browning Ferris Industries of Vt., Inc. v. Kelco Disposal, Inc., 492 U.S. 257, 278 (1989) (In any "lawsuit where state law
+provides the basis of decision, the propriety of an award of punitive damages for the conduct in question, and the factors the jury may consider in determining
+their amount, are questions of state law."); Silkwood v. Kerr-McGee Corp., 464 U.S. 238, 255 (1984) ("Punitive damages have long been a part of traditional
+state tort law."). 4 Petitioner invites the Court to address the question of multiple punitive damages awards stemming from the same alleged misconduct. The
+Court does not take up the invitation, and rightly so, in my judgment, for this case does not present the issue. For three reasons, the question of multiple
+awards is hypothetical, not real, in Gore's case. First, the punitive damages award in favor of Gore is the only such award yet entered against BMW on account
+of its nondisclosure policy. Second, BMW did not raise the issue of multiple punitives below. Indeed, in its reply brief before the Alabama Supreme Court, BMW
+stated: "Gore confuses our point about fairness among plaintiffs. He treats this point as a premature `multiple punitive damages' argument. But, contrary to
+Gore's assertion, we are not asking this Court to hold, as a matter of law, that a `constitutional violation occurs when a defendant is subjected to punitive
+damages in two separate cases.' " Reply Brief for Appellant in Nos. 1920324, 1920325 (Ala. Sup. Ct.), p. 48 (internal citations omitted). Third, if BMW had
+already suffered a punitive damages judgment in connection with its nondisclosure policy, Alabama's highest court presumably would have taken that fact into
+consideration. In reviewing punitive damages awards attacked as excessive, the Alabama Supreme Court considers whether "there have been other civil actions
+against the same defendant, based on the same conduct." 646 So. 2d 619, 624 (1994) (quoting Green Oil Co. v. Hornsby, 539 So. 2d 218, 224 (Ala. 1989)). If so,
+"this should be taken into account in mitigation of the punitive damages award." Ibid. The Alabama court accordingly observed that Gore's counsel had filed 24
+other actions against BMW in Alabama and Georgia, but that no other punitive damages award had so far resulted. Id., at 626. 5 Justice Breyer's concurring
+opinion offers nothing more solid. Under Haslip, he acknowledges, Alabama's standards for punitive damages, standing alone, do not violate due process. Ante, at
+3. But they "invit[e] the kind of scrutiny the Court has given the particular verdict before us." Ibid. Pursuing that invitation, Justice Breyer concludes that,
+matching the particular facts of this case to Alabama's "legitimate punitive damages objectives," ante, at 12, the award was "grossly excessive." Ibid. The
+exercise is engaging, but ultimately tells us only this: too big will be judged unfair. What is the Court's measure of too big? Not a cap of the kind a
+legislature could order, or a mathematical test this Court can divine and impose. Too big is, in the end, the amount at which five Members of the Court bridle.
+6 See, e.g., Distinctive Printing and Packaging Co. v. Cox, 232 Neb. 846, 857, 443 N. W. 2d 566, 574 (1989) (per curiam) ("[P]unitive, vindictive, or exemplary
+damages contravene Neb. Const. art. VII, §5, and thus are not allowed in this jurisdiction."); Santana v. Registrars of Voters of Worcester, 398 Mass. 862, 502
+N. E. 2d 132 (1986) (punitive damages are not permitted, unless expressly authorized by statute); Fisher Properties, Inc. v. Arden Mayfair, Inc., 106 Wash. 2d
+826, 852, 726 P. 2d 8, 23 (1986) (en banc) ( same). In Life Ins. Co. of Georgia v. Johnson, No. 1940357 (Nov. 17, 1995), the Alabama Supreme Court revised the
+State's regime for assessments of punitive damages. Henceforth, trials will be bifurcated. Initially, juries will be instructed to determine liability and the
+amount of compensatory damages, if any; also, the jury is to return a special verdict on the question whether a punitive damages award is warranted. If the jury
+answers yes to the punitive damages question, the trial will be resumed for the presentation of evidence and instructions relevant to the amount appropriate to
+award as punitive damages. After postverdict trial court review and subsequent appellate review, the amount of the final punitive damages judgment will be paid
+into the trial court. The trial court will then order payment of litigation expenses, including the plaintiff's attorney fees, and instruct the clerk to divide
+the remainder equally between the plaintiff and the State General Fund. The provision for payment to the State General Fund is applicable to all judgments not
+yet satisfied, and therefore would apply to the judgment in Gore's case.

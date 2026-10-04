@@ -1,0 +1,80 @@
+44 Liquormart, Inc., et al. v. Rhode Island et al., 517 U.S. 484 (1996). LII Supreme Court 44 Liquormart, Inc., et al. v. Rhode Island et al. (94-1140), 517
+U.S. 484 (1996). Concurrence [ O'Connor ]Opinion [ Stevens ]Concurrence [ Scalia ]Syllabus Concurrence [ Thomas ]HTML version WordPerfect versionHTML version
+WordPerfect versionHTML version WordPerfect versionHTML version WordPerfect versionHTML version WordPerfect version NOTE: Where it is feasible, a syllabus
+(headnote) will be released, as is being done in connection with this case, at the time the opinion is issued. The syllabus constitutes no part of the opinion
+of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader. See United States v. Detroit Lumber Co., 200 U.S. 321, 337.
+SUPREME COURT OF THE UNITED STATES Syllabus 44 LIQUORMART, INC., et al. v. RHODE ISLAND et al. certiorari to the united states court of appeals for the first
+circuit No. 94-1140. Argued November 1, 1995 -- Decided May 13, 1996 Petitioners, a licensed Rhode Island liquor retailer and a licensed Massachusetts liquor
+retailer patronized by Rhode Island residents, filed this action seeking a declaratory judgment that Rhode Island laws banning the advertisement of retail
+liquor prices except at the place of sale violate the First Amendment. In concluding that the ban was unconstitutional because it did not directly advance the
+State's asserted interest in the promotion of temperance and was more extensive than necessary to serve that interest, the District Court reasoned that the
+party seeking to uphold a restriction on commercial speech carries the burden of justifying it and that the Twenty first Amendment did not shift or diminish
+that burden. In reversing, the Court of Appeals, inter alia, found "inherent merit" in the State's submission that competitive price advertising would
+ultimately increase sales, and agreed with it that the Twenty first Amendment gave its advertising ban an added presumption of validity. Held: The judgment is
+reversed. 39 F. 3d 5, reversed. Justice Stevens delivered the opinion of the Court with respect to Parts I, II, VII, and VIII, concluding: 1. The Twenty first
+Amendment cannot save Rhode Island's price advertising ban because that Amendment does not qualify the First Amendment's prohibition against laws abridging the
+freedom of speech. Although the Twenty first Amendment--which repealed Prohibition and gave the States the power to prohibit commerce in, or the use of,
+alcoholic beverages--limits the dormant Commerce Clause's effect on a State's regulatory power over the delivery or use of liquor within its borders, the
+Amendment does not license the States to ignore their obligations under other constitutional provisions. See, e.g., Capital Cities Cable, Inc. v. Crisp, 467
+U.S. 691, 712. California v. LaRue, 409 U.S. 109, 118-119, disavowed. Because the First Amendment must be included among those other provisions, the Twenty
+first Amendment does not shield the advertising ban from constitutional scrutiny. Pp. 28-30. 2. Because Rhode Island has failed to carry its heavy burden of
+justifying its complete ban on price advertising, that ban is invalid. P. 31. Justice Stevens delivered the principal opinion with respect to Parts III-VI,
+concluding that Rhode Island's ban on advertisements that provide the public with accurate information about retail liquor prices is an unconstitutional
+abridgment of the freedom of speech. Pp. 8-28. (a) Justice Stevens, joined by Justice Kennedy, Justice Souter, and Justice Ginsburg, concluded in Part III that
+although the First Amendment protects the dissemination of truthful and nonmisleading commercial messages about lawful products and services in order to ensure
+that consumers receive accurate information, see, e.g., Virginia Bd. of Pharmacy v. Virginia Citizens Consumer Council, Inc., 425 U.S. 748, 765, the special
+nature of commercial speech, including its "greater objectivity" and "greater hardiness," authorizes the State to regulate potentially deceptive or overreaching
+advertising more freely than other forms of protected speech, see, e.g., id., at 771-772, n. 24, and requires less than strict review of such regulations,
+Central Hudson Gas & Elec. Corp. v. Public Serv. Comm'n of N. Y., 447 U.S. 557, 566, n. 9. However, regulations that entirely suppress commercial speech in
+order to pursue a policy not related to consumer protection must be reviewed with "special care," and such blanket bans should not be approved unless the speech
+itself was flawed in some way, either because it was deceptive or related to unlawful activity. See ibid. Pp. 8-13. (b) Justice Stevens, joined by Justice
+Kennedy and Justice Ginsburg, concluded in Part IV that a review of the case law reveals that commercial speech regulations are not all subject to a similar
+form of constitutional review simply because they target a similar category of expression. When a State regulates commercial messages to protect consumers from
+misleading, deceptive, or aggressive sales practices, or requires the disclosure of beneficial consumer information, the regulation's purpose is consistent with
+the reasons for according constitutional protection to commercial speech and therefore justifies less than strict review. However, where a State entirely
+prohibits the dissemination of truthful, nonmisleading commercial messages for reasons unrelated to the preservation of a fair bargaining process, there is far
+less reason to depart from the rigorous review that the First Amendment generally demands. The special dangers that attend such complete bans--including, most
+obviously, the fact that they all but foreclose alternative channels of communication--present sound reasons that justify more careful review. Pp. 14-17. (c)
+Justice Stevens, joined by Justice Kennedy, Justice Souter, and Justice Ginsburg, concluded in Part V that because Rhode Island's advertising ban constitutes a
+blanket prohibition against truthful, nonmisleading speech about a lawful product, and serves an end unrelated to consumer protection, it must be reviewed with
+"special care" under Central Hudson, 447 U. S., at 566, n. 9. It cannot survive that review because it does not satisfy even the less than strict standard that
+generally applies in commercial speech cases under Central Hudson, id., at 566. First, the advertising ban does not directly advance the State's substantial
+interest in promoting temperance. See ibid. Because a commercial speech regulation may not be sustained if it provides only ineffective or remote support for
+the government's purpose, id., at 564, the State bears the burden of showing not merely that its regulation will advance its interest, but also that it will do
+so "to a material degree," see, e.g., Edenfield v. Fane, 507 U.S. 761, 767. In this case, therefore, the State must show that the ban will significantly reduce
+alcohol consumption, but has presented no evidence to suggest a significant reduction. Second, the ban is more extensive than necessary to serve its stated
+interest, see 447 U. S., at 566, since alternative forms of regulation that would not involve any speech restrictions--e.g., the maintenance of higher prices
+either by direct regulation or by increased taxation, the rationing of per capita purchases, or the use of educational campaigns focused on drinking problems--
+would be more likely to achieve the goal of promoting temperance. Thus, the State has failed to establish the requisite "reasonable fit" between its regulation
+and its goal. See, e.g., Board of Trustees, State Univ. of N.Y. v. Fox, 492 U.S. 469, 480. Pp. 17-21. (d) Justice Stevens, joined by Justice Kennedy, Justice
+Thomas, and Justice Ginsburg, concluded in Part VI that the State's arguments in support of its claim that it merely exercised appropriate "legislative
+judgment" in determining that a price advertising ban would best promote temperance--i.e., (1) that because expert opinions as to the effectiveness of the ban
+"go both ways," the Court of Appeals correctly concluded that the ban constituted a "reasonable choice" by the legislature; (2) that precedent requires that
+particular deference be accorded that legislative choice because the State could, if it chose, ban the sale of alcoholic beverages outright; and (3) that
+deference is appropriate because alcoholic beverages are so called "vice" products--must be rejected. See Rubin, 514 U. S., at ___, n. 2. United States v. Edge
+Broadcasting, 509 U.S. 418, distinguished; Posadas de Puerto Rico Associates v. Tourism Co. of P. R., 478 U.S. 328, distinguished and disavowed in part. Pp.
+22-28. Justice Scalia concluded that guidance as to what the First Amendment forbids, where the core offense of suppressing particular political ideas is not at
+issue, must be taken from the long accepted practices of the American people. See McIntyre v. Ohio Elections Commission, 514 U. S. ___, ___ (Scalia, J.,
+dissenting). Since, however, the Court has before it no evidence as to state legislative practices regarding regulation of commercial speech when the First and
+Fourteenth Amendments were adopted, or even as to any national consensus on the subject later developed, he would simply adhere to the Court's existing
+jurisprudence, which renders the Rhode Island regulation invalid. Pp. 1-2. Justice Thomas concluded that in cases such as this, in which the government's
+asserted interest is to keep legal users of a product or service ignorant in order to manipulate their choices in the marketplace, the Central Hudson balancing
+test should not be applied. Rather, such an "interest" is per se illegitimate, cf., e.g., Virginia Bd. of Pharmacy v. Virginia Citizens Consumer Council, Inc.,
+425 U.S. 748, 768-770, and can no more justify regulation of "commercial" speech than it can justify regulation of "noncommercial" speech. Pp. 1-12. Justice
+O'Connor, joined by The Chief Justice, Justice Souter, and Justice Breyer, agreed with the principal opinion that Rhode Island's prohibition on alcohol price
+advertising is invalid and cannot be saved by the Twenty first Amendment, but concluded that the First Amendment question must be resolved more narrowly by
+applying the test established in Central Hudson Gas & Elec. Corp. v. Public Serv. Comm'n of N. Y., 447 U.S. 557, 566. Assuming that the prohibition satisfies
+the test's first three prongs--i.e., that (1) the speech at issue concerns lawful activity and is not misleading, (2) the asserted governmental interest is
+substantial, and (3) the regulation directly advances the governmental interest--Rhode Island's regulation fails the final fourth prong because its ban is more
+extensive than necessary to serve its stated interest. Rhode Island justifies its ban on price advertising on the grounds that the ban is intended to keep
+alcohol prices high as a way to keep consumption low. In order for a speech restriction to pass muster under the fourth prong, there must be a reasonable fit
+between the legislature's goal and method. Board of Trustees of State Univ. of N. Y. v. Fox, 492 U.S. 469, 480. The fit here is not reasonable, since the State
+has other methods at its disposal--e.g., establishing minimum prices and/or increasing sales taxes on alcoholic beverages--that would more directly accomplish
+its stated goal without intruding on sellers' ability to provide truthful, nonmisleading information to customers. Posadas de Puerto Rico Associates v. Tourism
+Co. of P. R., 478 U.S. 328, 341-344, distinguished. The principal opinion errs in adopting a new analysis for the evaluation of commercial speech regulation.
+Pp. 1-7. Stevens, J., announced the judgment of the Court, and delivered the opinion of the Court with respects to Parts I, II, and VII, in which Scalia,
+Kennedy, Souter, Thomas, and Ginsburg, JJ., joined, the opinion of the Court with respect to Part VIII, in which Scalia, Kennedy, Souter, and Ginsburg, JJ.,
+joined, an opinion with respect to Parts III and V, in which Kennedy, Souter, and Ginsburg, JJ., joined, an opinion with respect to Part VI, in which Kennedy,
+Thomas, and Ginsburg, JJ., joined, and an opinion with respect to Part IV, in which Kennedy and Ginsburg, JJ., joined. Scalia, J., and Thomas, J., filed
+opinions concurring in part and concurring in the judgment. O'Connor, J., filed an opinion concurring in the judgment, in which Rehnquist, C. J., and Souter and
+Breyer, JJ., joined.

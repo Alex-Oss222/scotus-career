@@ -1,0 +1,34 @@
+United States v. Armstrong et al., 517 U.S. 456 687 (1996). LII Supreme Court (95-157), Concurrence [ Breyer ]Opinion [ Rehnquist ]Concurrence [ Souter
+]Syllabus Dissent [ Stevens ]Concurrence [ Ginsburg ]HTML version WordPerfect versionHTML version WordPerfect versionHTML version WordPerfect versionHTML
+version WordPerfect versionHTML version WordPerfect versionHTML version WordPerfect version NOTE: Where it is feasible, a syllabus (headnote) will be released,
+as is being done in connection with this case, at the time the opinion is issued. The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader. See United States v. Detroit Lumber Co., 200 U.S. 321, 337. SUPREME COURT OF THE UNITED
+STATES Syllabus UNITED STATES v. ARMSTRONG et al. certiorari to the united states court of appeals for the ninth circuit No. 95-157. Argued February 26, 1996 --
+Decided May 13, 1996 In response to their indictment on "crack" cocaine and other federal charges, respondents filed a motion for discovery or for dismissal,
+alleging that they were selected for prosecution because they are black. The District Court granted the motion over the Government's argument, among others,
+that there was no evidence or allegation that it had failed to prosecute nonblack defendants. When the Government indicated it would not comply with the
+discovery order, the court dismissed the case. The en banc Ninth Circuit affirmed, holding that the proof requirements for a selective prosecution claim do not
+compel a defendant to demonstrate that the Government has failed to prosecute others who are similarly situated. Held: For a defendant to be entitled to
+discovery on a claim that he was singled out for prosecution on the basis of his race, he must make a threshold showing that the Government declined to
+prosecute similarly situated suspects of other races. Pp. 4-14. (a) Contrary to respondents' contention, Federal Rule of Criminal Procedure 16, which governs
+discovery in criminal cases, does not support the result reached by the Ninth Circuit in this case. Rule 16(a)(1)(C)--which, inter alia, requires the Government
+to permit discovery of documents that are "material to the preparation of the . . . defense" or "intended for use by the government as evidence in chief"--
+applies only to the preparation of the "defense" against the Government's case in chief, not to the preparation of selective prosecution claims. This reading
+creates a perceptible symmetry between the types of documents referred to in the Rule. Moreover, its correctness is established beyond peradventure by Rule
+16(a)(2), which, as relevant here, exempts from discovery the work product of government attorneys and agents made in connection with the case's investigation.
+Respondents' construction of "defense" as including selective prosecution claims is implausible: It creates the anomaly of a defendant's being able to examine
+all government work product under Rule 16(a)(1)(C), except that which is most pertinent, the work product in connection with his own case, under Rule 16(a)(2).
+Pp. 4-6. (b) Under the equal protection component of the Fifth Amendment's Due Process Clause, the decision whether to prosecute may not be based on an
+arbitrary classification such as race or religion. Oyler v. Boles, 368 U.S. 448, 456. In order to prove a selective prosecution claim, the claimant must
+demonstrate that the prosecutorial policy had a discriminatory effect and was motivated by a discriminatory purpose. Ibid. To establish a discriminatory effect
+in a race case, the claimant must show that similarly situated individuals of a different race were not prosecuted. Ah Sin v. Wittman, 198 U.S. 500. Batson v.
+Kentucky, 476 U.S. 79, and Hunter v. Underwood, 471 U.S. 222, distinguished. Although Ah Sin involved federal review of a state conviction, a similar rule
+applies where the power of a federal court is invoked to challenge an exercise of one of the core powers of the Executive Branch of the Federal Government, the
+power to prosecute. Discovery imposes many of the costs present when the Government must respond to a prima facie case of selective prosecution. Assuming that
+discovery is available on an appropriate showing in aid of a selective prosecution claim, see Wade v. United States, 504 U.S. 181, the justifications for a
+rigorous standard of proof for the elements of such a case thus require a correspondingly rigorous standard for discovery in aid of it. Thus, in order to
+establish entitlement to such discovery, a defendant must produce credible evidence that similarly situated defendants of other races could have been
+prosecuted, but were not. In this case, respondents have not met this required threshold. Pp. 6-14. 48 F. 3d 1508, reversed and remanded. Rehnquist, C. J.,
+delivered the opinion of the Court, in which O'Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg, JJ., joined, and in which Breyer, J., joined in part.
+Souter, J., and Ginsburg, J., filed concurring opinions. Breyer, J., filed an opinion concurring in part and concurring in the judgment. Stevens, J., filed a
+dissenting opinion.
