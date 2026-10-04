@@ -1,0 +1,46 @@
+[
+  {
+    "case": "richards",
+    "output": "terms/OT1995/sources/chunk7_c/richards_neutral_source_copy.md",
+    "source_section_sha256": "91293916089e94b474474a19dadb4100f18d81192c2e687dd114921038117f57",
+    "output_sha256": "895ed3b5e847d99fc35df1a4caa11a4a8bcf7723bed033fc8d34cc8d89c77559",
+    "operations": [
+      "replace historical procedural-stage wording with inventory stage/supplied scope",
+      "Richards: retain submitted due-process question only; delete dated procedural recital",
+      "relocate relative Markdown links by one directory"
+    ]
+  },
+  {
+    "case": "whren",
+    "output": "terms/OT1995/sources/chunk7_c/whren_neutral_source_copy.md",
+    "source_section_sha256": "3590c4cfe70e642748d304e7e408332019da5817ed8dd6b7fcb3be74546315ee",
+    "output_sha256": "b61b47fb116318f442b1dd1ca2e92c631e0730bda5057d86bfd1a6ed6496d9de",
+    "operations": [
+      "replace historical procedural-stage wording with inventory stage/supplied scope",
+      "delete generic grant inference wording",
+      "relocate relative Markdown links by one directory"
+    ]
+  },
+  {
+    "case": "degen",
+    "output": "terms/OT1995/sources/chunk7_c/degen_neutral_source_copy.md",
+    "source_section_sha256": "ef1c58a2856126c7ee03fc5103c0ef184d1b7cef15aadb592e70efaae5c7e057",
+    "output_sha256": "dbe87d2150792d993d09cd53bcb6bee432fb501375b4536dd6038cbdbbbbb84b",
+    "operations": [
+      "replace historical procedural-stage wording with inventory stage/supplied scope",
+      "delete generic grant inference wording",
+      "relocate relative Markdown links by one directory"
+    ]
+  },
+  {
+    "case": "exxon",
+    "output": "terms/OT1995/sources/chunk7_c/exxon_neutral_source_copy.md",
+    "source_section_sha256": "68e749049971775fd346bbf285768d3d5478356790488bbd6c0a14347636545d",
+    "output_sha256": "730791bd848902f782c1a653a10993041a5691f6c19c33f1c527ed33e15c4d79",
+    "operations": [
+      "replace historical procedural-stage wording with inventory stage/supplied scope",
+      "delete generic grant inference wording",
+      "relocate relative Markdown links by one directory"
+    ]
+  }
+]
