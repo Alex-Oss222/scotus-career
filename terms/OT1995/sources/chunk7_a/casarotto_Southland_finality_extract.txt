@@ -1,0 +1,76 @@
+Source: official 465 U.S.1,6–8, Southland Part II-A. https://www.govinfo.gov/content/pkg/USREPORTS-465/pdf/USREPORTS-465-1.pdf
+Scope: finality under then-1257(2) only; no current-case material. Modern retrieval October4,2026. The original whole PDF was downloaded; this bounded subsection was read fully.
+
+   Jurisdiction of this Court is asserted under 28 U. S. C.
+§ 1257(2), which provides for an appeal from a final judgment
+of the highest court of a state when the validity of a chal-
+lenged state statute is sustained as not in conflict with federal
+law. Here Southland challenged the California Franchise
+Investment Law as it was applied to invalidate a contract for
+arbitration made pursuant to the Federal Arbitration Act.
+Appellees argue that the action of the California Supreme
+Court with respect to this claim is not a “final judgment or
+decree” within the meaning of § 1257(2).
+   Under Cox Broadcasting Corp. v. Cohn, 420 U. S. 469,
+482-483 (1975), judgments of state courts that finally decide
+a federal issue are immediately appealable when “the party
+seeking review here might prevail [in the state court] on the
+merits on nonfederal grounds, thus rendering unnecessary
+review of the federal issue by this Court, and where reversal
+of the state court on the federal issue would be preclusive of
+any further litigation on the relevant cause of action . . . .”
+In these circumstances, we have resolved the federal issue
+“if a refusal immediately to review the state-court decision
+might seriously erode federal policy.” Id., at 483.
+   The judgment of the California Supreme Court with re-
+spect to this claim is reviewable under Cox Broadcasting,
+supra. Without immediate review of the California holding
+by this Court there may be no opportunity to pass on the fed-
+eral issue and as a result “there would remain in effect the
+unreviewed decision of the State Supreme Court” holding
+that the California statute does not conflict with the Federal
+Arbitration Act. Id., at 485. On the other hand, reversal
+               SOUTHLAND CORP. v. KEATING                     7
+
+1                     Opinion of the Court
+
+of a state-court judgment in this setting will terminate liti-
+gation of the merits of this dispute.
+   Finally, the failure to accord immediate review of the deci-
+sion of the California Supreme Court might “seriously erode
+federal policy.” Plainly the effect of the judgment of the
+California court is to nullify a valid contract made by private
+parties under which they agreed to submit all contract dis-
+putes to final, binding arbitration. The federal Act permits
+“parties to an arbitrable dispute [to move] out of court and
+into arbitration as quickly and easily as possible.” Moses
+H. Cone Memorial Hospital n . Mercury Construction Corp.,
+460 U. S. 1, 22 (1983).
+   Contracts to arbitrate are not to be avoided by allowing
+one party to ignore the contract and resort to the courts.
+Such a course could lead to prolonged litigation, one of the
+very risks the parties, by contracting for arbitration, sought
+to eliminate. In The Bremen v. Zapata Off-Shore Co., 407
+U. S. 1, 12 (1972), we noted that the contract fixing a particu-
+lar forum for resolution of all disputes
+    “was made in an arm’s-length negotiation by experienced
+    and sophisticated businessmen, and absent some compel-
+    ling and countervailing reason it should be honored by
+    the parties and enforced by the courts.”
+The Zapata Court also noted that
+    “the forum clause was a vital part of the agreement, and
+    it would be unrealistic to think that the parties did not
+    conduct their negotiations, including fixing the monetary
+    terms, with the consequences of the forum clause figur-
+    ing prominently in their calculations.” Id., at 14 (foot-
+    note omitted).
+   For us to delay review of a state judicial decision denying
+enforcement of the contract to arbitrate until the state-court
+litigation has run its course would defeat the core purpose of
+8                       OCTOBER TERM, 1983
+
+                          Opinion of the Court                465 U. S.
+
+a contract to arbitrate. We hold that the Court has jurisdic-
+tion to decide whether the Federal Arbitration Act pre-
+empts §31512 of the California Franchise Investment Law.

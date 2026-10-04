@@ -1,0 +1,60 @@
+[
+  {
+    "query": "collection:us-supreme-court AND (\"95-5257\")",
+    "result": {
+      "responseHeader": {
+        "status": 0,
+        "QTime": 82,
+        "params": {
+          "query": "collection:us-supreme-court AND (text:&quot;95-5257&quot; OR text:&quot;95-5257&quot; OR text__reviews:&quot;95-5257&quot;)",
+          "qin": "collection:us-supreme-court AND (&quot;95-5257&quot;)",
+          "fields": "identifier,title",
+          "wt": "json",
+          "rows": 50,
+          "start": 0
+        }
+      },
+      "response": {
+        "numFound": 1,
+        "start": 0,
+        "docs": [
+          {
+            "identifier": "micro_IA40385013_0780",
+            "title": "Ornelas v. United States, 517 U.S. 690 (1996) (No. 95-5257)"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "query": "collection:us-supreme-court AND (title:Ornelas)",
+    "result": {
+      "responseHeader": {
+        "status": 0,
+        "QTime": 241,
+        "params": {
+          "query": "collection:us-supreme-court AND title:Ornelas",
+          "qin": "collection:us-supreme-court AND (title:Ornelas)",
+          "fields": "identifier,title",
+          "wt": "json",
+          "rows": 50,
+          "start": 0
+        }
+      },
+      "response": {
+        "numFound": 2,
+        "start": 0,
+        "docs": [
+          {
+            "identifier": "micro_IA40385013_0780",
+            "title": "Ornelas v. United States, 517 U.S. 690 (1996) (No. 95-5257)"
+          },
+          {
+            "identifier": "per_scotus_1895_622",
+            "title": "Plutarco Ornelas, Consul of the Republic of Mexico, Appellant, vs. Inez Ruiz, Jesus Guerra, and Juan Duque. 1895: Vol 622"
+          }
+        ]
+      }
+    }
+  }
+]

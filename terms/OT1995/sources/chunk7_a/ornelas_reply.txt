@@ -1,0 +1,891 @@
+No. 95-5257 
+
+
+In The © 
+
+
+Supreme Court of the United States — 
+October Term, 1995 
+
+
++ 
+SAUL ORNELAS and ISMAEL ORNELAS-LEDESMA, 
+Petitioners, 
+v. 
+UNITED STATES, 
+Respondent. 
+
+
++ 
+
+
+On Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Seventh Circuit 
+. 
+
+
+REPLY BRIEF FOR PETITIONERS 
+° 
+
+
+Rosert G. LeBewt* 
+Stryter, Kosticu, LeBett, 
+Dosroski & McGuire 
+100 East Wisconsin 
+Suite 1700 
+Milwaukee, WI 53202-4114 
+(414) 276-1233 
+Counsel for Petitioner 
+Saul Ornelas 
+
+
+Brian W. GLEASON 
+
+230 W. Wells Street 
+
+Suite 702 
+
+Milwaukee, WI 53203 
+
+(414) 277-5076 
+
+Counsel for Petitioner 
+Ismael Ornelas-Ledesma 
+
+
+*Counsel of Record 
+—— a ———————————————E— 
+
+
+COCKLE LAW BRIEF PRINTING CO. (800) 225-6964 
+OR CALL COLLECT (402) 342-2831 
+
+
+ss 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+Se ee SPE od be cheb ecccccccccecnsess ii 
+EE Aah nd Ve ewbdins ceded abides seccucceses 1 
+
+
+THE COURT OF APPEALS WAS INCORRECT IN 
+APPLYING THE CLEARLY ERRONEOUS STAN- 
+DARD OF REVIEW TO THE DISTRICT COURT'S 
+RULING REGARDING REASONABLE SUSPI- 
+CION AND PROBABLE CAUSE................. 1 
+
+
+A. No matter how fact-intensive, all warrantless 
+Fourth Amendment cases should be reviewed 
+
+
+B. All Fourth Amendment cases have preceden- 
+ee WI ad iSsecvccesscccccoccesscoccesesess 7 
+
+
+C. De novo review furthers the appellate objective 
+Oe GT Go obese es cesccctccsveczcce: 12 
+
+
+D. De novo review of warrantless Fourth Amend- 
+ment cases is required to avoid inconsistent 
+RO GD GE civ eccccsnccsccsctvasscciess 13 
+
+
+SE cprebcckeesdepeccsccsecccenrecsceces 18 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+Anderson v. Bessemer City, 470 U.S. 564 (1985) ..... 5, 12 
+Bose Corp. v. Consumers Union of U.S., Inc., 466 U.S. 
+
+GBB (E9BE ..0. cv ocoscscuscccvetecsncnveqeestaneennat 13 
+Brewer v. Williams, 430 U.S. 387 (1977) ........6.0005: 4 
+Commissioner v. Duberstein, 363 U.S. 278 (1960) ..... 4,5 
+Cooter & Gell v. Hartmarx Corp., 496 U.S. 384 (1990) ..... 8 
+Davis v. North Carolina, 384 U.S. 737 (1966)........ 4, 13 
+Dow Chemical Corporation v. United States, 476 U.S. 
+
+TAF CIOGED . wv cccccccvesncacevunssaneluaunne eens 6 
+Florida v. Riley, 488 U.S. 445 (1989)...........- eee. 6 
+Harte-Hanks Communications v. Connaughton, 491 
+
+US. GF (ISGP) . ooo ccocesdvedsceesssceuunuueuens 2, 13 
+Illinois v. Gates, 462 U.S. 213 (1983) ....... 9, 10, 14, 15 
+Jackson v. Virginia, 443 U.S. 307 (1979)............ 14, 15 
+Maryland v. Garrison, 480 U.S. 79 (1987)............. 14 
+Miller v. Fenton, 474 U.S. 104 (1985). ....... 0.0000 eee 1 
+Pierce v. Underwood, 487 U.S. 552 (1988)............. 10 
+Pullman-Standard v. Swint, 456 U.S. 273 (1982)........ 2 
+Salve Regina College v. Russell, 499 U.S. 225 (1991) ..... 2 
+Silberman v. United States, 365 U.S. 505 (1961)........ 6 
+Spinelli v. United States, 393 U.S. 410 (1969) ......... 10 
+
+
+Stone v. Powell, 428 U.S. 465 (1976)............... 16, 17 
+
+
+me 
+
+
+iii 
+TABLE OF AUTHORITIES - Continued 
+
+
+Sumner v. Mata, 455 U.S. 591 (1982).................. 4 
+Thompson v. Keohane, 116 S.Ct. 457 (1995)....7, 8, 9, 10, 13 
+
+
+United States v. Gypsum Company, 333 U.S. 364 
+EEE ELLIE EEE EE PE 12 
+
+
+United States v. Leon, 468 U. S. 897 (1984)........... 14 
+
+
+CONSTITUTION, STATUTES AND RULES 
+
+
+U.S. Const.: 
+EEG Cr iccdeecdsesecceccceccceces 13 
+DE Es we ccccccccccsccccceccccecs passim 
+EEE ELE ED 13 
+ELE ES PEE 13 
+IEEE SESE 7 
+
+
+Equal Access to Justice Act, 28 U.S.C. § 2412(d)..... 10 
+
+
+MISCELLANEOUS 
+
+
+Wayne R. LaFave, Search and Seizure, A Treatise 
+on the Fourth Amendment, Third Ed., (1966) ........ 11 
+
+
+ARGUMENT 
+
+
+THE COURT OF APPEALS WAS INCORRECT IN 
+APPLYING THE CLEARLY ERRONEOUS STANDARD 
+OF REVIEW TO THE DISTRicT COURT’S RULING 
+REGARDING REASONABLE SUSPICION AND PROB- 
+ABLE CAUSE. 
+
+
+A. No matter how fact-intensive, all warrantless 
+Fourth Amendment cases should be reviewed de 
+novo. 
+
+
+Amicus counsel’ correctly notes that under either 
+standard, the expenditure of effort by the reviewing tri- 
+bunal, in considering warrantless Fourth Amendment 
+claims, will remain essentially the same. Amicus brief, at 
+11. The sole difference resulting from a de novo review, as 
+opposed to one conducted under the clearly erroneous 
+standard, is the degree of deference which is accorded the 
+lower court. Accordingly, the conservation of judicial 
+resources cannot be deemed an adequate justification for 
+requiring one standard, over and above the other. 
+
+
+Amicus argues that because historical facts and ques- 
+tions of law are somewhat difficult to clearly distinguish, 
+they should be reviewed with deference to the judicial 
+officer who is “ . . . better positioned than another to 
+decide the issue in question.” Miller v. Fenton, 474 US. 
+104 at 114 (1985). Since the trial court is, according to the 
+claim of amicus counsel, closest to the facts themselves, 
+the reviewing court should defer to the judgment below. 
+
+
+1 All references to “amicus” refer to the independent 
+amicus, Peter D. Isakoff. 
+
+
+The fundamental error in counsel's argument is the prem- 
+ise that the trial court is somehow better positioned to 
+apply the law to the facts. 
+
+
+Petitioners maintain that reviewing tribunals have 
+two main objectives in performing their duties; to correct 
+errors and to develop the law. It is well recognized that 
+federal appeals courts are, by their very nature, better 
+positioned to consider, analyze, and apply developing 
+legal principles. Trial courts are hampered with their 
+crowded calendars which often preclude protracted and 
+exhaustive research of legal issues. Such courts are not 
+permitted, by virtue of the practical limitations of their 
+ever increasing caseloads, to explore at length the com- 
+plexities presented in Fourth Amendment issues. Courts 
+of appeal routinely engage in a more protracted and 
+reflective analysis of the legal underpinnings of Fourth 
+Amendment issues. Additionally, as was stated earlier, an 
+appellate tribunal is ever mindful of its obligation to 
+develop the law. It is the trial court's responsibility to 
+conduct a fair airing of the facts in order that it may 
+determine whether an established right has been abro- 
+gated. It cannot therefor be said that a trial court is better 
+positioned to decide mixed questions of fact and law. 
+
+
+Amicus, at 14, cites this Court’s decisions as founda- 
+tion for the proposition that, “Where no statute or rule 
+expressly governs the matter,” the determining factor 
+should be to examine the characteristics of the question 
+under review and the institutional advantage of a federal 
+trial and appellate court in deciding it. Salve Regina Col- 
+lege v. Russell, 499 U.S. 225, at 231-239 (1991); Harte-Hanks 
+Communications v. Connaughton, 491 U.S. 657, 686-87 
+(1989); Pullman-Standard v. Swint, 456 U.S. 273, 287-288 
+
+
+(1982). In short, it is premised that where the issue is fact 
+dependent or fact laden, the mixed question of fact and 
+law which results should be reviewed with the deference 
+permitted under the clearly erroneous standard. 
+
+
+The petitioners maintain that mixed questions of fact 
+and law have three component parts; historical findings 
+of fact, the principle of law to be applied to the factual 
+underpinnings, and the placement or structuring of the 
+facts within the legal framework. Unquestionably, find- 
+ings of historical facts are reviewed under the clearly 
+erroneous standard.? Whether the correct legal principle 
+was utilized is reviewed de novo. Petitioners argue that 
+with regard to issues concerning reasonable suspicion to 
+stop and probable cause to search, the actual utilization 
+of the legal principle within the context of the historical 
+facts must be reviewed de novo. 
+
+
+By their very nature, in every suppression issue, 
+whether a challenge to the admissibility of a statement, to 
+physical evidence, or to an identification, the circum- 
+stances giving rise to the challenged evidence are of 
+crucial import. Each of the suppression issues described 
+herein are fact intensive because they arise from circum- 
+stances in which a <itizcn has been searched, has been 
+interrogated, has been placed in custody, or has been 
+identified as the perpetrator of a criminal offense. It 
+cannot be said therefore, that the application of the 
+
+
+2 Petitioners have always conceded that the judicial officer 
+below is in a better position to decide historical facts. As such, 
+findings of fact and only findings of fact should be reviewed 
+through utilization of the clearly erroneous standard. 
+
+
+appropriate reviewing standard turns on the quantum or 
+intensity of historical facts. 
+
+
+This Court has continuously reviewed de novo sup- 
+pression issues based in different constitutional contexts 
+other than that at bar. Davis v. North Carolina, 384 U.S. 737 
+(1966) (voluntariness of confession); Sumner v. Mata, 455 
+U.S. 591 (1982) (pretrial identification); Brewer v. Williams, 
+430 U.S. 387 (1977) (waiver of Sixth Amendment right to 
+counsel). This Court has never opined that the applica- 
+tion of the de novo standard is determined by the quan- 
+tum of facts at issue. Accordingly, there can be no 
+justification for this Court to deviate in warrantless 
+Fourth Amendment cases from the recognized de novo 
+review standard which has been heretofore applied to 
+non-Fourth Amendment suppression issues. 
+
+
+Amicus counsel posits that a warrantless Fourth 
+Amendment determination is non-technical and therefore 
+better suited to an “application of the fact-finding tribu- 
+nal’s experience with the mainsprings of human conduct 
+to the totality of the facts of each case,” citing Commis- 
+sioner v. Duberstein, 363 U.S. 278, 289 (1960). Amicus Brief 
+at 15. In Duberstein, a civil and non-constitutional 
+framed action, the Court determined that because the 
+statutory standard which is to be applied to the factual 
+scenario was “non-technical in nature”, the results 
+are reviewed under the clearly erroneous standard. The 
+Fourth Amendment enshrines a multitude of principles 
+which are subject to constant metamorphosis and analysis 
+of competing values and policies. The application of 
+these sophisticated developing principles to a given 
+fact situation is not the simple task described in 
+
+
+Duberstein. Similarly, this process requires a careful and 
+in-depth examination of the fundamental concepts, 
+together with the subtle nuances which have been created 
+by the precedents announced in this Court. A trial court 
+does not engage in an exercise which results in the appli- 
+cation of an unerringly static principle to case specific 
+facts. Rather, the application of Fourth Amendment law 
+to a fact situation requires consideration of how the prin- 
+ciple developed, in what direction the principle is head- 
+ing, and by what means it is likely to evolve. The trial 
+
+
+court does not merely slap a legal label on the factual 
+model. 
+
+
+It is premised by opposition counsel that de novo 
+review should be employed for those questions which 
+will “produce a decision of precedential significance.” 
+Amicus brief at 16. Warrantless Fourth Amendment cases, 
+it is urged, are focused on the specific facts and circum- 
+stances which surround the search and seizure. Those 
+issues, amicus suggests at 16, “utterly resist generaliza- 
+tion.” Therefore, it is argued, that questions arising from 
+such case specific facts should be left to the determina- 
+tion of the district court with deferential review on 
+appeal. Warrantless Fourth Amendment cases, according 
+to amicus counsel, will not serve to establish clear guide- 
+lines for lower courts, nor will they clarify underlying 
+principles of law. Such determinations, “would very 
+likely contribute only negligibly to the accuracy ... at a 
+huge cost in diversion of judicial resources”. Amicus brief 
+at 17, citing Anderson v. Bessemer City, 470 U.S. 564 at 575 
+(1985). Amicus counsel suggests that “de novo review by 
+the Court of Appeals in this case could produce little of 
+real precedential value, at least now that decades of 
+
+
+intense Fourth Amendment litigation have settled the 
+basic principles of probable cause determination.” 
+Amicus brief at 22. It is with these propositions that 
+petitioners wholly disagree. 
+
+
+Fourth Amendment law has, to the contrary, been 
+evolving through the decisions announced in this Court, 
+the rulings of lower appellate tribunals, and through the 
+analysis of recognized legal scholars. The Fourth Amend- 
+ment provides only the framework within which many 
+principles of application have developed. Some of the 
+concepts which have emanated from the Fourth Amend- 
+ment have gradually eroded with the passage of time. 
+Some have slowly evolved and some wax and wane as 
+societal interests and values change. 
+
+
+The evolution of Fourth Amendment jurisprudence is 
+often in response to technological changes in law enforce- 
+ment. Thirty five years ago the Court considered whether 
+Fourth Amendment rights were violated when evidence 
+was obtained through sophisticated electronic eavesdrop- 
+ping. Silberman v. United States, 365 U.S. 505 (1961). Ten 
+years ago this Court addressed whether the EPA could 
+use aerial photography to enforce environmental laws. 
+Dow Chemical Corporation v. United States, 476 U.S. 227 
+(1986). More recently, this Court faced the issue whether a 
+helicopter hovering 400 feet over a residence in an 
+attempt to spot marijuana growing in the greenhouse was 
+a search within the meaning of the Fourth Amendment. 
+Florida v. Riley, 488 U.S. 445 (1989). It should be assumed 
+that appellate courts will soon be asked to consider 
+Fourth Amendment claims arising in the context of the 
+Internet, DNA and gene harvesting seizures. While one 
+specific Fourth Amendment case is clearly of most import 
+
+
+to the individual litigants, the evolution of Fourth 
+Amendment law takes place incrementally with varying 
+facts in common situations which present on a daily 
+basis. 
+
+
+The Fourth Amendment must remain flexible. So too, 
+must appellate courts have the independence to exercise 
+de novo review concerning decisions of lower courts 
+which arise within the context of technological changes. 
+
+
+B. All Fourth Amendment cases have precedential 
+value. 
+
+
+The amicus suggests that because Fourth Amend- 
+ment principles derive from fact dependent determina- 
+tions, precedential significance is diminished and 
+appellate courts should not devote their resources which 
+de novo review would require. Amicus brief at 17-21. A 
+similar argument was recently rejected in Thompson v. 
+Keohane, 116 S.Ct. 457 (1995) in the Fifth Amendment 
+context. There, this Court recently rejected the argument 
+that the “in-custody” determination should be accorded a 
+presumption of correctness under 28 U.S.C. § 2254(d). In 
+so doing, the majority could not agree with the dissent’s 
+argument that the trial court was in a better position to 
+“decide the relatively straightforward and fact-laden 
+question of Miranda custody.” Justice Thomas and Chief 
+Justice Rehnquist dissent at 468. The dissent argued that 
+such custody inquiries often require the trial court to 
+make any number of “fact-intensive, close calls” which 
+often involve assessments of credibility and demeanor. 
+Further, the trial court “must consider a complex of div- 
+erse and case-specific factors” to understand the position 
+
+
+of the defendant at the time of interrogation. Dissent at 
+468. 
+
+
+The Keohane court stated that there were two lines of 
+cases. In the first line it agreed that there are instances 
+where the trial court is called upon to make determina- 
+tions concerning primary or historic facts which 
+“depends heavily on the trial court’s appraisal of witness 
+credibility and demeanor.” Keohane, at 465. The majority 
+reasoned that even in those instances where an objective 
+legal standard was employed, as in determining juror 
+bias, the “predominate function . . . involves credibility 
+findings whose basis cannot be easily discerned from an 
+appellate record.” In such cases the trial court is better 
+positioned to make the legal conclusion, and the judg- 
+ment of the “jurist-observer” is accorded presumptive 
+weight. Id. at 465. The resolution of the issue in the first 
+line of cases often has little precedential value. Whether a 
+particular juror is biased, or a particular defendant is 
+competent does not easily lend itself to general rule mak- 
+
+
+ing. 
+
+
+The second line of cases, as typified in Keohane, 
+involves often fact-intensive scenarios, which may or may 
+not involve credibility issues. The trial court, however, is 
+not called upon to make credibility determinations con- 
+cerning events which occurred in the courtroom, nor is 
+the trial court in a uniquely superior position concerning 
+knowledge of local practices, as in Cooter & Gell v. Hart- 
+marx Corp., 496 U.S. 384 (1990). 
+
+
+In this second line of cases the trial court makes the 
+determinations of historical fact, resolves credibility 
+issues if they arise, and then applies an objective test to 
+
+
+resolve the ultimate inquiry. “This ultimate determina- 
+tion, we hold, presents a mixed question of law and fact 
+qualifying for independent review.” Keohane, at 465. In 
+resolution of the issue in Keohane, the court noted 
+“[jJudges alone make the ‘in custody’ assessments for 
+Miranda purposes, and they do so with a view to identify- 
+ing recurrent patterns, and advancing uniform outcomes. 
+If they cannot supply a definite rule, they nonetheless can 
+reduce the area of uncertainty.” Keohane, n. 13. 
+
+
+In this second line of cases the resolution of the issue 
+has precedential value. The resolution of fact-intensive 
+issues concerning reasonable suspicion to stop and prob- 
+able cause to search, just as the “in custody” issue in 
+Keohane, are not dependent upon a jurist-observer’s supe- 
+rior position to make credibility determinations concern- 
+ing events which occur in the courtroom. The events of 
+the stop and search, like the retelling of the events of the 
+custodial interrogation, often occurred weeks or months 
+prior to the evidentiary hearing. Although there may be 
+credibility questions to resolve, once the trial court makes 
+those determinations, it applies an objective legal stan- 
+dard, considering the totality of the circumstances, and 
+arrives at a “uniquely legal” determination. Keohane at 
+465. 
+
+
+As will be discussed below, the development of 
+Fourth Amendment jurisprudence arises from the appli- 
+cation of varying fact situations to an objective legal test 
+and to precedentially developed principles. 
+
+
+Amicus counsel suggests that Illinois v. Gates, 462 
+U.S. 213 (1983) represents a withdrawal from concrete 
+
+
+10 
+
+
+and specific guidelines in favor of a “totality of the cir- 
+cumstances” approach. Such standard, it is maintained, is 
+consistent with the more deferential clearly erroneous 
+test. Brief at 20-21. But, as this Court noted in Thompson v. 
+Keohane, n. 11, the “totality of the circumstances cast of 
+the ‘in custody’ determination, contrary to respondent's 
+suggestions, does not mean deferential review is in 
+order.” 
+
+
+Amicus counsel at 20, notes dicta from Gates at n. 11 
+that there are “so many variables in the probable cause 
+equation that one determination will seldom be useful 
+‘precedent’ for another”. The context of this dicta was 
+whether or not the allegations submitted to the Magis- 
+trate in Spinelli v. United States, 393 U.S. 410 (1969), under 
+the totality of the circumstances test, would support a 
+present finding of probable cause. The court declined to 
+speculate, deeming the result to be of little precedential 
+value. 
+
+
+The amicus brief, at 20-21, states that “most probable 
+cause and reasonable suspicion decisions involve ‘multi- 
+farious, fleeting, special, narrow facts that utterly resist 
+generalization.” Pierce v. Underwood, 487 U.S. 552 at 562 
+(1988). Pierce was not a Fourth Amendment case but was 
+concerned with whether the Secretary was substantially 
+justified within the meaning of the Equal Access to Jus- 
+tice Act, 28 U.S.C. § 2412 (d). 
+
+
+The Pierce Court stated that where the question of the 
+appropriate standard of appellate review is not answered 
+by statutory command, “the answer is provided by a long 
+history of appellate practice.” As petitioners have noted 
+above, the long history of appellate practice mandates 
+
+
+11 
+
+
+continued use of the de novo standard in warrantless 
+Fourth Amendment issues. 
+
+
+Contrary to the argument of amicus counsel, trial 
+courts do indeed preside over warrantless Fourth 
+Amendment suppression matters which contribute to the 
+development of the law. These decisions result in a com- 
+pendium of fact situations which, over the passage of 
+time, will reflect changes, evolution and retrenchment 
+from previous applications. Deference to the trial court, 
+as a legal construct, would inhibit both the development 
+of the law and the error correcting function of the inter- 
+mediary appellate courts. 
+
+
+Amicus argues that because the factual variables are 
+infinite, “Attempts to draw bright lines would be futile.” 
+Brief at 22. If this were true, various Attorneys General 
+and local District Attorneys would not write detailed 
+newsletters to law enforcement agencies involving Fourth 
+Amendment issues. If search and seizure law was with- 
+out precedential value, Wayne LaFave and others would 
+not write volumes on this aspect of Fourth Amendment 
+jurisprudence. Wayne R. LaFave, Search and Seizure, A 
+Treatise on the Fourth Amendment, Third Ed., (1966). Fur- 
+ther, this Court and lower courts would not have pub- 
+lished thousands of decisions concerning search and 
+seizure issues. As this Court recognizes, the brighter the 
+line, the easier it will be for law enforcement agencies to 
+anticipate Fourth Amendment problems and respond 
+appropriately. It is the development of this body of 
+Fourth Amendment law which prevents arbitrary and ad 
+hoc enforcement. 
+
+
+12 
+
+
+C. De novo review furthers the appellate objective of 
+error correcting. 
+
+
+The clearly erroneous/de novo review dichotomy, in its 
+practical application, creates an anomaly which is in conflict 
+with the overall appellate objective of correcting errors. If an 
+appellate court were to conduct a review and disagree with 
+the conclusions of law of the trial court, it would be free to 
+reverse under the de novo standard. If the same appellate 
+tribunal were to review the same conclusions, by the clearly 
+erroneous standard, it would affirm unless the decision was 
+“clearly erroneous”. “When the clearly erroneous standard 
+applies, the reviewing court may not reverse the trial court 
+‘simply because it is convinced that it would have decided 
+the case differently.’ ” United States v. Gypsum Company, 333 
+U.S. 364 (1948). Thus, a reviewing court which disagrees 
+with the trial court’s legal conclusion will find its hands tied 
+and will be required to affirm the finding below. Very little 
+guidance has been given by this Court, other than in Ander- 
+son v. Bessemer City, in defining what errors are clear enough 
+to justify reversal.? Anderson v. Bessemer City, 470 U.S. 564 
+(1985). 
+
+
+It is certainly reasonable to anticipate that appeilate 
+courts will differ in their assessment of when the clearly 
+erroneous standard has been satisfied. Two appellate courts, 
+in construing similar fact-law determinations could come to 
+diametrically opposed results; one requiring reversal and the 
+
+
+3” ‘A finding is “clearly erroneous” when although there is 
+evidence to support it, the reviewing court on the entire 
+evidence is left with the definite and firm conviction that a 
+mistake has been committed.’ ” Anderson v. Bessemer City, 470 
+U.S. 564, 573 (1985). , 
+
+
+13 
+
+
+other supporting affirmance. Clearly such inconsistency can 
+hardly be said to further the policy of advancing uniform 
+outcomes and promoting the error correcting function of a 
+reviewing court. Additionally, such an anomaly is an impedi- 
+ment to the second overall objective of appellate tribunals; to 
+develop the law. Courts of appeal must maintain autonomy 
+in application of their legal principles in order to further 
+
+
+Amicus counsel, in urging this Court to adopt a clearly 
+erroneous standard for review of warrantless Fourth 
+Amendment issues, inferentially suggests that the Fourth 
+Amendment should not be accorded the same status as other 
+constitutionally enshrouded issues. In First Amendment 
+cases the Court has historically conducted fully independent 
+review, Harte-Hanks and Bose Corp. v. Consumers Union of 
+U.S., Inc., 466 U.S. 485 (1984). Except in cases involving 
+issues of limited precedential value, such as individual juror 
+bias, the Court has consistently accorded de novo review to 
+issues which arise as a result of either Fifth or Sixth Amend- 
+ment challenges. See, Thompson v. Keohane, Davis v. North 
+Carolina, 384 U.S. 737 (1966). Amicus counsel states no recog- 
+nized proposition for differentiating Fourth Amendment 
+based issues from those whose origins are founded in other 
+constitutional rights. 
+
+
+D. De novo review of warrantless Fourth Amendment 
+cases is required to avoid inconsistent results on 
+
+
+appeal. 
+
+
+Amicus counsel's insistence that the clearly erro- 
+neous standard for appellate review of probable cause 
+decisions would not denigrate the warrant requirement is 
+
+
+14 
+
+
+insupportable. Petitioners maintain that the clearly erro- 
+neous standard ignores the fundamental precept of Gates, 
+to encourage reliance by police officers on use of a war- 
+rant. The Court announced in Gates that its new substan- 
+tial basis test, to be utilized in assessing the magistrate’s 
+determination of probable cause, was prewns:d upon a 
+practical objective. The Court anticipated that if defer- 
+ence was accorded the magistrate’s probable cause find- 
+ing, police officers would thereby rely upon the implicit 
+security from such deference, and obtain warrants. To 
+accord similar appellate deference in warrantless reviews 
+would announce to law enforcement officials that there is 
+no added benefit in obtaining a warrant. They can, there- 
+fore, pursue warrantless searches with the same level of 
+comfort as for those seizures conducted with a warrant. 
+
+
+It is interesting to note that while the Gates Court 
+announced the substantial basis standard of review, for 
+the issuance of a warrant, other sub-issues which ema- 
+nate from the warrant’s execution have been reviewed de 
+novo; i.e. whether exclusion is mandated where an officer 
+exercises good faith in reliance upon the warrant, United 
+States v. Leon, 468 U. S. 897 (1984); and whether the police 
+exercised good faith in their investigation concerning the 
+warrant application, their duty to fully disclose to the 
+magistrate what information they possessed, and the rea- 
+sonableness of the manner of its execution, Maryland v. 
+Garrison, 480 U.S. 79 (1987). 
+
+
+It is argued that to require de novo review for proba- 
+ble cause and reasonable suspicion determinations would 
+create incongruous results. Counsel claims that Jackson v. 
+
+
+15 
+
+
+Virginia, 443 U.S. 307 (1979) is supportive of the proposi- 
+tion that appellate review of the sufficiency of the evi- 
+dence for criminal convictions is clearly erroneous. 
+Amicus brief, at 32. Therefore, to require the stricter de 
+novo standard for Fourth Amendment issues is illogical. 
+Counsel's analysis of Jackson is incorrect. Reviews of suf- 
+ficiency of the evidence require a consideration of the 
+facts below and whether any rational trier of fact could 
+find guilt beyond a reasonable doubt. Such a review does 
+not address or take into account pretrial determinations 
+of admissibility of evidence for which there has been a 
+claimed constitutional violation. Once a criminal action 
+has been submitted to the trier of fact, pretrial determina- 
+tions have been made outside of the presence of the jury. 
+
+
+Of further import to petitioners’ challenge to coun- 
+sel’s analysis of Jackson, is the fact that the standard of 
+review for a judgement of conviction is wholly different 
+and completely distinguishable from the clearly erro- 
+neous standard. The Jackson court announced that the 
+appropriate standard for sufficiency of evidence is 
+whether upon the record evidence adduced at the trial no 
+rational trier of fact could have found proof of guilt 
+beyond a reasonable doubt. The clearly erroneous stan- 
+dard is not whether there is no trier of fact who could 
+have made the same legal conclusion as the tribunal 
+below. A comparison of the standard for appellate review 
+of federal criminal convictions to the clearly erroneous 
+standard is simply mixing apples and oranges. 
+
+
+Amicus counsel further argues that an inconsistency 
+results from the juxtaposition of the Gates substantial 
+basis test for warrant reviews and the de novo standard 
+for warrantless issues. In theory, the review of a warrant 
+
+
+16 
+
+
+probable cause determination made by a magistrate, 
+without a full adversary hearing, would require more 
+deference than that accorded legal conclusions drawn by 
+the trier of fact after a full-blown testimonial hearing. 
+Counsel correctly surmises that such variance, while 
+seemingly incongruous, is in fact, “an unavoidable by 
+product of a desire to encourage warrants.” Amicus brief, 
+at 31. 
+
+
+The last claimed inconsistency which would emanate 
+from application of de novo review to warrantless Fourth 
+Amendment issues arises from consideration of Stone v. 
+Powell, 428 U.S. 465 (1976). The Powell court determined 
+that in those matters where there has been a full and fair 
+opportunity to litigate suppression issues in the state 
+court, the remedy of federal habeas would be foreclosed. 
+The habeas limitation announced in Stone v. Powell was 
+founded exclusively in a policy decision emanating from 
+a consideration of the exclusionary rule. The Powell deci- 
+sion holds only that the limited contribution to the exclu- 
+sionary rule permitting collateral review of Fourth 
+Amendment claims is outweighed by the substantial soci- 
+etal costs. Powell, at 494-495. 
+
+
+Counsel suggests that this Court should not distin- 
+guish between habeas review of state suppression issues 
+and those considered through direct federal appeal. The 
+proscription announced in Stone v. Powell is conditioned 
+upon a full and fair consideration of a defendant's Fourth 
+Amendment claims at the state level. Petitioners maintain 
+that such full and fair litigation includes complete appel- 
+late review. This Court agreed with such proposition in 
+its decision in Powell; “the force of this justification [pre- 
+serving the integrity of the judicial process] becomes 
+
+
+17 
+
+
+minimal where federal habeas corpus relief is sought by a 
+prisoner who previously has been afforded the oppor- 
+tunity for full and fair consideration of his search-and- 
+seizure claim at trial and on direct review.” Stone v. 
+Powell, at 486. 
+
+
+A federal litigant, in order to be accorded full and 
+fair litigation must, similarly, be permitted access to 
+meaningful, fair and complete appellate review. Oppo- 
+sing counsel erroneously equates the Powell Fourth 
+Amendment habeas prohibition with the deference 
+required by the clearly erroneous standard. If this Court 
+is to be consistent in its application of appellate and 
+Fourth Amendment rights, and mindful of the policy 
+limitations which it has carved out to the exclusionary 
+rule, federal appeal litigants must have their Fourth 
+Amendment claims reviewed de novo. 
+
+
+e 
+
+
+18 
+
+
+CONCLUSION 
+
+
+Petitioners maintain that de novo review should be 
+granted in all warrantless Fourth Amendment cases. To 
+do so will maintain continuity in the development of the 
+law, will further the appellate objective of error correct- 
+ing, and will prevent inconsistent results on appeal. The 
+judgment of conviction should be reversed and the mat- 
+ter remanded. 
+
+
+Respectfully submitted, 
+
+
+Rosert G. LeBewt* 
+
+Sryter, Kosticn, LeBet, 
+Dosrosx!: & McGuire 
+
+100 East Wisconsin 
+
+Suite 1700 
+
+Milwaukee, WI 53202-4114 
+(414) 276-1233 
+
+
+Counsel for Petitioner 
+Saul Ornelas 
+
+
+Brian W. GLEASON 
+230 W. Wells Street 
+Suite 702 
+
+Milwaukee, WI 53203 
+(414) 277-5076 
+
+
+Counsel for Petitioner 
+Ismael Ornelas-Ledesma 
+
+
+*Counsel of Record 
+March 19, 1996 
+
+
+a 
+
+
+we ee ee 
+
+

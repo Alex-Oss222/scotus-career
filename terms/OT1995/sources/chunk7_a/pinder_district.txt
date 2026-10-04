@@ -1,0 +1,1793 @@
+Source: https://static.case.law/f-supp/821/html/0376-01.html
+
+Carol PINDER, Individually, and in her capacity as surviving Mother of her minor children, deceased; and, as Personal Representative of the Estates of Kim Pinder, LaToya and Troy Brummel, Plaintiff, v. The COMMISSIONERS OF CAMBRIDGE IN the CITY OF CAMBRIDGE; Donald Johnson, PFC, Individually, and in his official capacity, Defendants.
+Civ. No. N-92-675.
+United States District Court, D. Maryland.
+May 10, 1993.
+*380
+Barbara A. Gold, Baltimore, MD, for plaintiff.
+Paul T. Cuzmanes and Samuel L. Israel of Weinberg and Green, Columbia, MD, for defendants.
+MEMORANDUM
+NORTHROP, Senior District Judge.
+Pending before the Court is Defendants’ Motion to Dismiss (Paper No. 5). This motion is opposed (Paper No. 6). After a review of all briefs filed and in consideration of the arguments presented by counsel at hearing, the Court will grant in part and deny in part Defendants’ Motion to Dismiss.
+More specifically, the Court will deny Defendants’ motion to dismiss the Constitutional violations alleged in Counts I and II under the equal protection and substantive due process clauses of the Fourteenth Amendment. The Court also will deny Defendants’ motion to dismiss the state tort claims alleged in counts III and IV against Officer Johnson. The Court, however, will grant Defendants’ motion to dismiss Counts III and IV with respect to the City of Cambridge.
+I.
+Introduction
+Plaintiff Carol Pinder brings suit individually, and in her capacity as Personal Representative of the Estates of her three minor children. The Defendants in this case are Police Officer PFC Donald Johnson (“Johnson”) and the Commissioners of Cambridge (“Cambridge”). Defendant Cambridge is responsible for the establishment and mainte
+*381
+nance of the Police Department and the Po: lice Department’s policies, procedures and practices.
+Plaintiff brings a four count Complaint. The first two counts allege constitutional violations of equal protection and due process as guaranteed by the Fifth and Fourteenth Amendments of the United States Constitution. Plaintiff brings both of these counts, I and II, under
+42 U.S.C. § 1983
+and § 1985. In addition to the two civil rights counts, Plaintiff brings two state law claims seeking damages pursuant to Maryland law for wrongful death and a survival action for the conscious pain and suffering of the Plaintiffs children.
+The underlying facts in this ease are tragic. On March 10, 1989, Plaintiff left work and went home in response to a telephone call informing her that Don Pittman (“Pittman”), a former boyfriend, had broken into Plaintiffs house and was threatening violence.
+See
+Complaint, ¶¶ 7 and 9. When Carol Pinder arrived at home, Pittman physically attacked her and threatened to kill both her and her children.
+The Cambridge Police Department had already been summoned. Officer Johnson, employed by the Cambridge Police Department responded to the call, and arrived at Plaintiffs’ home shortly after the Plaintiff. By the time Johnson arrived, Pittman was already restrained by a neighbor, Darnell Taylor. Carol Pinder told Johnson what happened, including how Pittman had broken into her home and that he threatened, attacked, and assaulted Plaintiff. In addition, Pittman had destroyed certain property, in particular, a microwave oven. Pittman had apparently thrown the microwave at the Plaintiff. Officer Johnson saw the broken window panes in the back door which Pittman had broken in order to gain access to Pinder’s home. Johnson arrested and handcuffed Pittman. While Pittman was being arrested, he continued to make threats of violence against Plaintiff.
+Carol Pinder expressed to Officer Johnson her fear and concern for the safety of her children. She reminded Officer Johnson that Pittman was on probation for a previous arson conviction, in which he had broken into Plaintiffs home and attempted to burn it down. Pittman had been convicted of arson for this prior incident and was sentenced to eighteen months in prison, with twelve months’ suspended sentence, followed by three years of supervision.
+Carol Pinder alleges that she specifically asked Johnson whether she should return to work. In response, Plaintiff alleges that Johnson assured her that it was safe for her to return to work because Pittman would be kept in custody. Ms. Pinder returned to work after Johnson left with the perpetrator, Pittman.
+Johnson brought Pittman before Commissioner George Ames, Jr. (“Ames”) and charged him with trespassing and destruction of property having a value of less than three hundred dollars.
+See
+Complaint ¶¶ 17 and 19. In his incident report, Johnson noted that he responded to a “domestic.”
+See
+Complaint ¶ 9.
+After spending little more than one hour in custody, Pittman was released on his own recognizance. Carol Pinder was at work when Pittman was released. Plaintiff contends that no attempt was made to warn Carol Pinder, nor did Defendants attempt to monitor Pittman after his release in spite of their knowledge of the danger the Pinders faced from Pittman’s threats.
+Upon his release, Pittman took the ten minute walk from the police station to the Pinder home, broke in and set fire to the house. When firemen were able to enter the house, they found the three children in the upstairs rear recreation room. Efforts to resuscitate the children proved futile. All three children died of smoke inhalation from the fire.
+Pittman was arrested later that night, charged with arson and murder, and held without bond. Subsequently, Pittman pled guilty to three counts of first degree murder and was sentenced to life in prison without parole.
+II.
+Legal Analysis
+A.
+Standard for Motion to Dismiss
+The purpose of a motion to dismiss is to test the formal sufficiency of the statement of
+*382
+a claim for relief.
+See
+Fed.R.Civ.P. 12(b)(6). It is not a procedure for resolving a contest about the facts or merits of the case. The Court must consider as true all of the properly pleaded allegations contained in the complaint.
+Augenstein v. McCormick & Co.,
+581 F.Supp. 452
+, 456 (D.Md.1984); see
+also Jenkins v. McKeithen,
+395 U.S. 411
+, 421,
+89 S.Ct. 1843
+, 1848-49,
+23 L.Ed.2d 404
+(1969).
+A 12(b)(6) motion should be read in conjunction with the rules governing claims for relief. Fed.R.Civ.P. 8(a)(2). The test most often applied to determine the sufficiency of a complaint is set out by the Supreme Court in
+Conley v. Gibson,
+355 U.S. 41
+,
+78 S.Ct. 99
+,
+2 L.Ed.2d 80
+(1957).
+In appraising the sufficiency of the Complaint, we follow, of course, the accepted rule that a Complaint should not be dismissed for failure to state a claim, unless it appears beyond doubt that the Plaintiff can prove no set of facts in support of his claim which would entitle him to relief.
+Id.; see also, Rogers v. Jefferson-Pilot Life Ins. Co.,
+883 F.2d 324
+(4th Cir.1989);
+Thompson v. Brotherhood of Sleeping Car Porters,
+316 F.2d 191
+, 199 (4th Cir.1963).
+Complaints should not be dismissed merely because Plaintiffs allegations do not support a legal theory on which the Plaintiff intends to proceed. A Court has an obligation to examine the Complaint and determine if the allegations provide for relief under any possible theory.
+See McLain v. Real Estate Bd. of New Orleans,
+444 U.S. 232
+, 246,
+100 S.Ct. 502
+, 511,
+62 L.Ed.2d 441
+(1980);
+Bowers v. Hardwick,
+478 U.S. 186
+, 201-02,
+106 S.Ct. 2841
+, 2849-50,
+92 L.Ed.2d 140
+(1986) (Blaekmun dissenting) (citations omitted).
+B.
+Count I: Deprivation of Plaintiff’s Right to Equal Protection
+In Count I, Carol Pinder contends that Defendants violated her right to equal protection under the law. Plaintiff avers that Defendants maintained a custom or policy of “taking domestic violence against women less seriously than other assault cases and treating male offenders in incidents of domestic violence more leniently than offenders in other assault cases ...” Complaint at ¶ 29. Plaintiff contends that this policy or custom “effectively constitutes a gender based administrative classification used to implement the law in a discriminatory fashion.”
+Id.
+Plaintiff also appears to allege another equal protection argument in Count I. She maintains that Defendants violated her family’s rights to equal protection by selectively denying protective services to Carol Pinder and her children. Complaint at ¶30.
+Defendants contend that Plaintiff fails to state a claim upon which relief may be granted because she fails to allege that Defendants’ conduct was intentional. Moreover, Defendants aver that Plaintiff fails to allege sufficient specific facts to support her claim that Cambridge had a policy or custom of providing less protection to female victims of domestic violence than to victims of other violent crimes. Defendants maintain that instead, Plaintiffs contentions constitute no more than bald conclusory allegations.
+It is axiomatic that in any § 1983 action, a court’s initial inquiry must focus on (1) whether the conduct complained of was committed by a person acting under the color of state law; and (2) whether this conduct deprived the plaintiff of rights, privileges or immunities secured by the Constitution.
+Temkin v. Frederick County Com’rs,
+945 F.2d 716
+, 719 (4th Cir.1991)
+cert.
+denied, - U.S. -,
+112 S.Ct. 1172
+,
+117 L.Ed.2d 417
+(1992) (citing
+Parratt v. Taylor,
+451 U.S. 527
+, 535,
+101 S.Ct. 1908
+, 1912-13,
+68 L.Ed.2d 420
+(1981)).
+Defendants do not contest the existence of first element, that they acted under color of state law. Similarly, Defendants do not contest the presence of the second element of the § 1983 analysis to the extent that Plaintiff identifies á violation of a constitutional right. They do not challenge Plaintiffs claim that a custom or policy of affording less protection to women who are victims of domestic violence as opposed to victims of other violent crimes is policy subject to the restrictions of the equal protection clause. Instead, Defendants’ quarrel with Plaintiffs complaint is that she has not alleged intent, nor has she provided facts to support an inference of a policy of discrimination based on gender.
+The equal protection clause of the Fourteenth Amendment guarantees that “[n]o
+*383
+state shall ... deny to any person within its jurisdiction the equal protection of the laws.” U.S. Const, amend. 14. The focus of an equal protection inquiry begins with an examination of the legislative or administrative classification that treats similarly situated groups differently. The “courts must reach and determine the question whether the classifications drawn in a statute are reasonable in light of its purpose.”
+McLaughlin v. Florida,
+379 U.S. 184
+, 191,
+85 S.Ct. 283
+, 288,
+13 L.Ed.2d 222
+(1964).
+In this case, Plaintiff contends that Defendants’ failure to treat female victims of domestic crime the same as victims of other crimes is a gender classification. Classifications made on the basis of gender are not valid under the equal protection clause unless they are substantially related to an important governmental objective.
+Craig v. Boren,
+429 U.S. 190
+,
+97 S.Ct. 451
+,
+50 L.Ed.2d 397
+(1976),
+reh’g denied,
+429 U.S. 1124
+,
+97 S.Ct. 1161
+,
+51 L.Ed.2d 574
+(1977).
+Because they contend that Plaintiff fails to sufficiently allege facts to support a gender classification, Defendants do not attempt to articulate how such a gender classification, if it exists, is substantially related to an important governmental objective. Indeed, it is doubtful that such a justification for providing less protection to female victims of domestic violence than to victims of other violent crimes could be made.
+See Thurman v. City of Torrington,
+595 F.Supp. 1521
+, 1527-29 (D.Ct.1984) (gender based discriminatory treatment of victims of domestic violence are premised upon “archaic and overbroad” notions, citing
+Craig,
+429 U.S. at 198-99
+, 97 S.Ct. at 457-58);
+see also Reed v. Reed,
+404 U.S. 71
+, 77,
+92 S.Ct. 251
+, 254,
+30 L.Ed.2d 225
+(1971) (differential treatment of domestic violence in order to promote domestic harmony “may not lawfully be mandated solely on the basis of sex.”).
+It is well recognized that discrimination against women victims of domestic violence as opposed to other crimes of gender is a valid cause of action under the equal protection clause.
+Brown v. Grabowski,
+922 F.2d 1097
+, 1117 (3d Cir.1990)
+cert. denied,
+— U.S. -,
+111 S.Ct. 2827
+,
+115 L.Ed.2d 997
+(1991);
+Hynson v. City of Chester Legal Dept.,
+864 F.2d 1026
+, 1031 (3d Cir.1988);
+Watson v. Kansas City,
+857 F.2d 690
+, 694 (10th Cir.1988);
+Balistreri v. Pacifica Police Dept.,
+855 F.2d 1421
+(9th Cir.1988);
+rev’d in part on other grounds, Balistreri v. Pacifica Police Dept.,
+901 F.2d 696
+(9th Cir.1990);
+Thurman,
+595 F.Supp. at 1521
+.
+Moreover, Defendants do not question that, in the abstract, it is a constitutional violation to allocate police protection based upon the gender of the domestic violence victim, Defendants, however, assert that Plaintiff in this ease has failed to adequately allege such a violation both in terms of essential elements and supporting' factual allegations. The Court first considers Defendants’ claim that Plaintiff has failed to allege that Defendants intentionally or purposefully discriminated against women.
+A plaintiff in an equal protection action has the burden of demonstrating that defendants acted with discriminatory intent.
+Village of Arlington Heights v. Metropolitan Housing Dev. Corp.,
+429 U.S. 252
+, 265,
+97 S.Ct. 555
+, 563, 50 L.Ed.2d.450 (1977). It is not necessary to demonstrate that the action challenged was taken solely for discriminatory purposes; it is necessary only to demonstrate that a discriminatory purpose was a motivating factor.
+Id.
+at 265
+,
+97 S.Ct. at 563
+.
+In the instant case, Carol Pinder alleges intentional discrimination against women by maintaining that Defendants’ policy provides less protection to female victims of domestic violence than victims of other violent crimes.
+See
+Complaint ¶¶ at 21, 23, and 29. Plaintiff alleges that Johnson acted intentionally when he chose to charge Pittman with minor offenses and did not make any attempt to warn Carol Pinder of Pittman’s release. Complaint at ¶ 23. Plaintiff also alleges that these acts are part of a custom or policy of the Cambridge Police Department. Complaint at ¶¶ 21 and 29. Taken together, these allegations more than satisfy Plaintiffs burden of alleging intentional discrimination.
+See Sherrell By and Through Wooden v. City of Longview,
+683 F.Supp. 1108
+, 1116 (E.D.Tex.1987).
+Defendants’ second ground for dismissal of Count I goes to the sufficiency of what Plain
+*384
+tiff must factually allege in the complaint. They contend that in order to defeat a motion to dismiss, “[p]laintiff must set forth sufficient facts to allow a reasonable jury to infer” that it is the policy or custom of the Cambridge police to discriminate on the basis of gender. Defendants’ Memorandum in Support of Motion to Dismiss at page 6. Defendants rely upon
+Hynson
+to support this proposition.
+864 F.2d at 1026
+.
+The standard of review used in
+Hynson,
+however, is not helpful to Defendants’ argument. The Third Circuit’s
+Hynson
+standard is for summary judgment, and not as we have here, a motion to dismiss.
+1
+Id.
+What a plaintiff must allege in order to prevent dismissal differs from the plaintiffs burden for defeating summary judgment.
+Compare McLain,
+444 U.S. at 246
+,
+100 S.Ct. at 511
+(articulating the standard for dismissal motion); wi
+th Anderson v. Liberty Lobby, Inc.,
+477 U.S. 242
+, 248,
+106 S.Ct. 2505
+, 2510,
+91 L.Ed.2d 202
+(1986) (defining the standard for a summary judgment motion).
+In acting under 42 U.S.C. 8 1983, as generally, a motion to dismiss pursuant to Rule 12(b)(6) should not be granted unless it appears beyond doubt that the plaintiff can prove no set of facts to support her allegations.
+Revene v. Charles County Commissioners,
+882 F.2d 870
+, 872 (4th Cir.1989).
+In this case, Plaintiff makes a short and plain statement of the facts alleging a violation of constitutional rights by the Defendants, who are state actors.
+Cf.
+Fed.R.Civ.P. 8(a)(2);
+Parratt,
+451 U.S. at 535
+,
+101 S.Ct. at 1912-13
+(stating requirements for alleging a 8 1983 violation). These facts need describe no more than an incident that places Defendants on notice of a claim entitling Ms. Pinder to relief.
+Id.
+As such, when reviewing the sufficiency of a complaint under a dismissal motion, the issue is not, as Defendants suggest, an evaluation of the merits. “Indeed, it may appear on the face of the pleadings that a recovery is very remote and unlikely but that is not the test.”
+Scheuer v. Rhodes,
+416 U.S. 232
+, 236,
+94 S.Ct. 1683
+, 1686,
+40 L.Ed.2d 90
+(1974).
+Nevertheless, the factual allegations in the Complaint may be insufficient to support Plaintiffs allegations that Defendants’ conduct discriminates on the basis of gender. As alleged, Plaintiffs factual claims do not demonstrate how Plaintiffs present injuries arose from a policy of gender discrimination.
+Cf. Revene,
+882 F.2d at 875
+(legal conclusions without supporting factual allegations insufficient to demonstrate municipal liability for an unconstitutional policy). First, it is not clear whether Plaintiff has sufficiently alleged an unconstitutional policy. Second, even assuming such a policy exists, it is not clear that it results in a gender-based classification. Each of these deficiencies will be addressed seriatim.
+The Complaint alleges that Johnson characterized Pittman’s actions as being a “domestic” incident in his police report. Complaint at ¶ 19. Second, the Complaint alleges that Johnson’s superiors approved of and did not question his handling of this incident. Complaint at ¶ 20. Finally, the Complaint suggests that Commissioner Ames, had full awareness of Pittman’s past record of violence and the current threats of violence against Plaintiff and her children, “conspired to be lenient with Pittman.”
+2
+Complaint at ¶¶ 17-19.
+Under 8 1983, municipalities may be held liable for a plaintiffs injuries if she can establish that the injuries were the result of an unconstitutional municipal policy or custom.
+See City of Canton v. Harris,
+489 U.S. 378
+,
+109 S.Ct. 1197
+,
+103 L.Ed.2d 412
+(1989);
+*385
+City of Oklahoma v. Tuttle,
+471 U.S. 808
+,
+105 S.Ct. 2427
+,
+85 L.Ed.2d 791
+(1985);
+Revene,
+882 F.2d at 874-75
+;
+Watson,
+857 F.2d at 695
+. The custom or policy need not be formal or written.
+Monell v. Department of Social Servs.,
+436 U.S. 658
+, 691,
+98 S.Ct. 2018
+, 2036,
+56 L.Ed.2d 611
+(1978).
+Often, a plaintiff supports allegations of an unconstitutional municipal custom or policy by pointing to statistical or other related facts outside of the plaintiffs own case.
+See Thurman,
+595 F.Supp. at 1530
+;
+see e.g., Watson,
+857 F.2d at 695-6
+(plaintiff supported equal protection claim against summary judgment motion by presenting statistical evidence that showed the arrest rate was higher in cases of nondomestic than domestic violence and allegations of police training that encouraged using arrest as a last resort in domestic violence situations). In
+Thurman,
+for example, the plaintiff was able to allege a municipal custom or policy of discrimination against victims of domestic violence by pointing to repeated incidents of police misconduct within her own case.
+Thurman,
+595 F.Supp. at 1530-31
+.
+Carol Pinder, however, does not make factual allegations of repeated or widespread discriminatory acts occurring outside of her own case. Similarly, Plaintiff cites no statistics from which an inference of discriminatory treatment, and when coupled with Plaintiffs other evidence, might be made. Plaintiff does not allege repeated actions of discriminatory conduct within her own case, as in
+Thurman.
+At the hearing, her counsel suggested only that Plaintiffs complaint may be amended to allege the Cambridge police department’s failure to charge Pittman with the prior act of arson. Perhaps further discovery may reveal a pattern, but for now Pinder’s equal protection claim must rest upon other grounds.
+Those other grounds are found in Plaintiff’s claim that Johnson’s superiors approved his course of conduct. “A single incident may serve as the basis of liability when a particular course of action is made by a municipality’s authorized decision makers.”
+Pembaur v. City of Cincinnati,
+475 U.S. 469
+,
+106 S.Ct. 1292
+,
+89 L.Ed.2d 452
+(1986). This allegation coupled with Johnson’s listing of the incident as a domestic is enough at this juncture to allege a policy or custom.
+Owens v. Haas,
+601 F.2d 1242
+, 1246 (2d Cir.)
+cert. denied,
+444 U.S. 980
+,
+100 S.Ct. 483
+,
+62 L.Ed.2d 407
+(1979) (single brutal incident may be sufficient to suggest a link between a violation of constitutional rights and a pattern of police misconduct);
+Thurman,
+595 F.Supp. at 1530
+.
+The Court now considers whether Plaintiff can support a claim of gender based discrimination. In examining Plaintiffs allegations in their most favorable light, they appear to support only the inference that there was a Cambridge policy or custom of providing victims of domestic violence with less police protection than victims of other violent crimes. This allegation may not be sufficient enough to support a claim that the policy
+intentionally
+discriminate also on the basis of gender.
+But see Thurman,
+595 F.Supp. at
+1528 n. 1 (noting one study of interspousal abuse where 29 out of every 30 cases the abused victim is female).
+A policy that discriminates against victims of domestic violence is gender-neutral on its face. Policies that are facially neutral may trigger intermediate scrutiny when the policy has a disproportionate impact on women that results from purposeful or intentional discrimination.
+See Personnel Administrator of Mass. v. Feeney,
+442 U.S. 256
+,
+99 S.Ct. 2282
+,
+60 L.Ed.2d 870
+(1979);
+Watson,
+857 F.2d at 696-97
+.
+Here, Plaintiff has failed to present any allegations, beyond mere legal conclusions, that the Defendants’ policy has any adverse impact on women at all, much less whether this impact results from discriminatory intent.
+3
+Cf. Watson,
+857 F.2d at 696
+.
+*386
+Plaintiffs allegations of gender based discrimination are, therefore, probably not sufficient to withstand a motion to dismiss.
+Revene,
+882 F.2d at 874-75
+.
+4
+These deficiencies in Plaintiffs factual allegations are not fatal to Carol Pinder’s Count I claim under the equal protection clause. Plaintiffs factual allegations are sufficient to make out a claim that Defendants maintain a policy that discriminated against victims of domestic violence. Complaint at ¶ 30.
+Although domestic violence victims are not a suspect class requiring a strict or intermediate scrutiny, Defendants must still articulate a rational reason related to a legitimate government purpose to justify this policy.
+City of Cleburne v. Cleburne Living Center,
+473 U.S. 432
+, 446,
+105 S.Ct. 3249
+, 3257-58,
+87 L.Ed.2d 313
+(1985) (invalidating zoning ordinance that required special use permit for a group home for mentally challenged because the ordinance was not rationally related to a legitimate governmental purpose);
+Plyler v. Doe,
+457 U.S. 202
+, 220,
+102 S.Ct. 2382
+, 2396,
+72 L.Ed.2d 786
+(1982) (invalidating state law that denied free public education to children of undocumented aliens, even though the Court acknowledged that these children were not a suspect class).
+The failure to provide police protection is, within the confines of § 1983, subject to rational scrutiny under the equal protection clause.
+Wright v. City of Ozark,
+715 F.2d 1513
+, 1516 (11th Cir.1983);
+Smith v. Ross,
+482 F.2d 33
+, 36-37 (6th Cir.1973) (law enforcement officer can be liable under § 1983 when he fails to perform a statutorily imposed duty to enforce the laws equally and fairly, and thereby denies equal protection);
+Byrd v. Brishke,
+466 F.2d 6
+, 11 (7th Cir. 1972);
+Fisher v. City of Cincinnati,
+753 F.Supp. 681
+, 687 (S.D.Ohio 1990);
+Sherrell By and Through Wooden v. City of Longview,
+683 F.Supp. 1108
+, 1114-15 (E.D.Tex. 1987);
+Bartalone v. County of Berrien,
+643 F.Supp. 574
+, 576-77 (W.D.Mich.1986);
+Thurman,
+595 F.Supp. at 1527-30
+.
+These decisions recognize that even under the more lenient examination of rational review, police protection cannot be governed by a policy or custom that arbitrarily discriminates against a particular’ classification of citizens: .
+The Constitution, because it is “a charter of negative liberties,” ... does not generally mandate that police protect a citizen from attack by a private individual.... Once a government has undertaken to provide the public with protection and law enforcement, however, it cannot do so in a manner which violates the Constitution, such as by discriminating against certain persons on an irrational basis.
+Shemll By and Through Wooden,
+683 F.Supp. at 1112
+(citations omitted).
+In the instant case, Defendants provide no rational reason for the alleged discrimination against victims of domestic violence. Nor do Defendants offer any legitimate governmental purpose that might be served by such a policy. The Court notes in passing that other courts have held that a police policy that discriminates against victims of domestic violence is actionable under the equal protection clause.
+See Watson,
+857 F.2d at 694-97
+;
+Thurman,
+595 F.Supp. at 1527-30
+.
+Therefore, this Court denies Defendants’ motion to dismiss Count I. Plaintiff has sufficiently alleged facts that support a cause of action under the equal protection clause at this juncture.
+*387
+C.
+Count II: Deprivation of Plaintiffs’ Right to Due Process
+Count II alleges that Defendants deprived Plaintiff of her substantive due process rights. Plaintiff contends that Johnson’s statements and actions placed Pinder and her children in a position of peril, in violation of Defendants’ duty not to render them more vulnerable to danger. Moreover, Plaintiff claims that her right to due process was transgressed by Defendants “conspiring and failing to charge Pittman with appropriate serious offenses and, thereby, assuring his release from custody ...”
+As noted earlier, the initial inquiry in a § 1983 action focuses upon two issues: (1) whether the conduct complained of was committed by a person acting under the color of state law; and (2) whether this conduct deprived the plaintiff of rights, privileges or immunities secured by the Constitution.
+Temkin v. Frederick County Com’rs,
+945 F.2d at 719
+. Moreover, this Court is cognizant that the substantive component of the due process clause “bar[s] certain government actions regardless of the fairness of the procedures used to implement them.”
+Weller v. Dept. of Soc. Serv. of Baltimore,
+901 F.2d. 387
+, 391 (4th Cir.1990) (citations omitted).
+Defendants again do
+not
+contest that they were acting under the color of state law. They assert, however, that they did not violate Plaintiffs substantive due process rights because they had no duty to protect Pinder and her children from their attacker, Pittman. Put more generally, Defendants contend that neither Johnson’s action or statements, nor the actions or statements of any other Defendant, transgressed Plaintiffs constitutional rights.
+Defendants’ argument hinges upon their reading of
+DeShaney v. Winnebago County Dept. of Social Services,
+489 U.S. 189
+,
+109 S.Ct. 998
+,
+103 L.Ed.2d 249
+(1989). In
+De-Shaney,
+Joshua DeShaney, a four year old boy, was severely beaten and permanently brain damaged by his father, with whom he lived. A county agency had been aware that Joshua was being physically abused by his father for over two years and had briefly taken Joshua into its protective custody. Despite being aware that Joshua had been abused by his father on a consistent basis, the State nonetheless failed to remove Joshua from his father’s custody. In considering the duty of the state, the
+DeShaney
+Court stated:
+While the state may have been aware of the dangers that Joshua faced in the free world, it played no part in their creation, nor did it do anything to render him any more vulnerable to them. That the State once took temporary custody of Joshua does not alter the analysis, for when it returned him to his father’s custody, it placed him in no worse position than that which he would have been had it not acted at all;
+Id.
+at 201
+, 109 S.Ct. at 1006.
+According to Defendants,
+DeShaney
+imposes an affirmative duty to act, or to protect, in only very limited circumstances. Defendants maintain that outside of a custodial context, such as for prisoners, the state has no obligation to protect an individual from acts of private violence.
+Id.
+at 198-200, 109 S.Ct. at 1005-06.
+Defendants focus on certain limited factual similarities between
+DeShaney
+and the instant case to support their argument that the
+DeShaney
+legal analysis is controlling herein. Because neither Carol Pinder, nor her children, were in custody, Defendants assert that they did not have any duty to protect Plaintiffs from their attacker. According to Defendants, the arson committed by Pittman, and the resulting murder of the three Pinder children was a private act of violence for which the state is not constitutionally culpable.
+In addition, Defendants assert that neither their awareness of the dangers that Pinder and her children faced, nor the act of taking Pittman into custody, played any part in creating the dangers confronted by or the violence inflicted upon Plaintiffs. Defendants also deny that Officer Johnson’s assurances of Pittman’s continued custody do not trigger a heighten duty from the state to act notwithstanding the obvious reliance by Plaintiff upon these assurances.
+DeShaney,
+489 U.S. at 197
+, 109 S.Ct. at 1004. Instead,
+*388
+Defendants maintain that “the affirmative duty to protect arises not from the State’s knowledge of the individual’s predicament or from its expressions of intent to help him, but from the limitation which it has imposed on his freedom to act on his own behalf.”
+Id.
+at 200, 109 S.Ct. at 1006.
+Defendants contend that the purpose of the due process clause, that
+DeShaney
+articulates, supports confining the state’s duty to act only in situations within the custodial context. According to the
+DeShaney
+Court, the due process clause protects people from the state, but does not ensure that the state protect its citizens from each other.
+Id.
+at 195-96, 109 S.Ct. at 1003-04. As such, the due process clause does not require the state to provide its citizens with protective services to secure'their right to life, liberty or property:
+The clause is phrased as a limitation on the state’s power to act, not as a guarantee of certain minimal levels of safety and security. It forbids the state itself to deprive individuals of life, liberty, or property, without due process of law, but its language cannot fairly be extended to impose an affirmative obligation on the state to insure that those interests do not come to harm through other means.
+Id.
+at 195, 109 S.Ct. at 1003.
+The Court notes that it is true that under
+DeShaney,
+“[t]he Constitution is a charter of negative liberties drafted, primarily, to tell the State to leave people alone.”
+Swader v. Com. of Va.,
+743 F.Supp. 434
+, 436-37 (E.D.Va.1990) (citing
+DeShaney
+for this proposition). The
+DeShaney
+Court, however, left two issues unresolved. First, whether, after
+DeShaney,
+there are any noncustodial circumstances in which the state’s enhancement of the risk of injury to a plaintiff violates the due process clause. Second, assuming that such circumstances exist, how large a role the state must play in the creation or enhancement of the danger before it assumes a corresponding constitutional duty to protect.
+See Freeman v. Ferguson,
+911 F.2d 52
+, 55 (8th Cir.1990). These questions must be answered, or at least considered answered, in the case
+sub judice.
+In doing so, the Court starts with
+DeShaney
+and then moves to a review of pertinent case law in this area.
+The
+DeShaney
+analysis itself provides some support for the proposition that those operating under color of state law may, at times, retain an affirmative duty to protect individuals from private acts of violence in a noncustodial context.
+See DeShaney,
+489 U.S. at 201
+, 109 S.Ct. at 1006. The Court’s conclusion that Joshua’s rights had not been violated rested on its determination that the County played no part in creating the dangers or increasing the boy’s vulnerability to those dangers.
+Id.
+The County’s limited intervention had not rendei'ed the boy, in the Court’s eyes, “more vulnerable” to the beatings of his father.
+Id.
+This analysis establishes the possibility that a constitutional duty to protect an individual against private violence may exist in a noncustodial setting.
+5
+Id.; see Freeman,
+911 F.2d at 55
+.
+Similarly,
+post-DeShaney
+courts in confronting substantive due process claims, have not confined this light to a purely custodial context.
+See, e.g., K.H. Through Murphy v. Morgan,
+914 F.2d 846
+, 848-49 (7th Cir.1990) (in placing a plaintiff not in custody in a
+*389
+position of danger, “the state would be a doer of harm rather than merely an inept rescuer, just as the Roman state was a doer of harm when it threw Christians to lions”);
+Freeman,
+911 F.2d at 52
+(police chief may be liable for damages inflicted by a third party where the refusal to enforce a restraining order against the attacker was due to the police chiefs personal friendship with the attacker);
+Gibson v. City of Chicago,
+910 F.2d 1510
+(7th Cir.1990) (duty to protect citizen from former policeman who was permitted to retain his gun despite his being placed on the medical roll as mentally unfit for duty); Ross
+v. United States,
+910 F.2d 1422
+(7th Cir.1990) (police officer prevented private rescue of a boy who had fallen into a lake);
+Cornelius v. Town of Highland Lake,
+880 F.2d 348
+(11th Cir.1989) (duty to protect town clerk from inmates assigned to work outside of prison)
+cet. denied
+494 U.S. 1066
+,
+110 S.Ct. 1784
+,
+108 L.Ed.2d 785
+(1990);
+Wood v. Ostrander,
+879 F.2d 583
+, 589-90 (9th Cir.1989),
+cert. denied,
+498 U.S. 938
+,
+111 S.Ct. 341
+,
+112 L.Ed.2d 305
+(1990) (duty to protect a passenger left stranded by police in high crime area);
+Swader v. Virginia,
+743 F.Supp. 434
+, 440-42 (E.D.Va.1990) (duty to protect plaintiff not in custody from prisoner inmates);
+G-69 v. Degnan,
+745 F.Supp. 254
+(D.N.J.1990) (duty to protect undercover informant enrolled in government program). These decisions condition liability upon state actions that in themselves create or increase the underlying risk, not upon a plaintiffs custodial circumstances.
+Id.
+Other courts in
+post-DeShaney
+decisions have reasoned that a state incurs an affirmative duty to act in a noncustodial setting where state officials created or enhanced the peril that a plaintiff was already facing.
+See, e.g., Salas v. Carpenter,
+980 F.2d 299
+, 309 (5th Cir.1992) (“[wle are not persuaded, however, that [the state official] increased [the victim’s] vulnerability to danger in the sense envisioned by the Court in
+DeShaney"); Gregory v. City of Rogers, Ark.,
+974 F.2d 1006
+, 1116 (8th Cir.1992) (where a defendant police officer had no duty to act because he did not affirmatively place plaintiffs in a position of danger summary judgment granted)
+cert. denied,
+— U.S. -,
+113 S.Ct. 1265
+,
+122 L.Ed.2d 661
+(1993);
+D.R. By L.R. v. Middle Bucks Area Vo. Tech. School,
+972 F.2d 1364
+, 1373-76 (3d Cir.1992) (“Plaintiffs’ harm came about solely through the acts of private persons without the level of intermingling of state conduct with private violence that supported liability in
+Wood, Swader, Cornelius
+”);
+Losinski v. County of Trempealeau,
+946 F.2d 544
+, 550 (7th Cir.1991) (state officials not liable when there was no evidence that the state enhanced or created the risk plaintiff faced);
+Brown v. Grabowski,
+922 F.2d 1097
+(3d Cir.1990) (summary judgment on substantive due process claim granted where a plaintiff not in custody supplied no evidence that state actors exacerbated the danger)
+6
+;
+Bryson v. City of Edmond,
+905 F.2d 1386
+, 1392 (10th Cir.1990) (declining to impose liability upon state for deaths to post office employees shot by fellow worker where responding police did not create the dangerous situation nor act to worsen decedents’ plights);
+Balistreri v. Pacifica Police Dept.,
+901 F.2d 696
+(9th Cir.1990) (failure of plaintiff to allege a special relationship required the dismissal of the due process claim).
+Again, in each of these eases, it was the state official’s lack of involvement in plaintiffs peril, and not plaintiffs custodial circumstances, that relieved the state of liability.
+Id.; cf. Temkin v. Frederick County Commissioners,
+945 F.2d 716
+, 720-23 (4th Cir.1991) (substantive due process rights of a plaintiff may be violated in the noncustodial context of a police vehicle chase where the government official’s act “shocks the conscience” of the court);
+see also Williamson v. City of Virginia Beach,
+786 F.Supp. 1238
+(E.D.Va.1992) (“... the
+DeShaney
+opinion ... does not foreclose the possibility that an affirmative duty under the Due Process Clause might arise in a situation where the state played a role in creating the danger faced by-a citizen.”).
+The Court notes that prior to
+DeShaney,
+the Fourth Circuit established a conceptual
+*390
+framework for examining whether a state had an affirmative duty under the due process clause to protect an individual from harm in
+Jensen v. Conrad,
+747 F.2d 185
+, 190-94 (4th Cir.1984)
+cert. denied,
+470 U.S. 1052
+,
+105 S.Ct. 1754
+,
+84 L.Ed.2d 818
+(1985) (Fourth Circuit made explicit that “a right to affirmative protection need not be limited by a determination that there was a ‘custodial relationship’ ”). The
+Jensen
+Court identified some of the factors that could give rise to a “special relationship” between a state and a private citizen that triggers the affirmative duty to act.
+Id.
+at 194, n. 11. The application of these factors did not depend upon plaintiffs being in custody.
+Id.
+For example, the first factor examined whether the victim/plaintiff or
+the perpetrator
+is, or was, recently in custody.
+The
+DeShaney
+decision notwithstanding, the district courts of this circuit have continued to use the
+Jensen
+“special relationship” factors for determining whether liability arises under the due process clause for a state’s failure to act.
+See Williamson,
+786 F.Supp. at 1238
+(applying the
+Jensen
+factors to hold that no special relationship existed between city official defendants and the victim, even though the victim had been in custody before his suicide);
+Swader,
+743 F.Supp. at 434
+(applying the
+Jensen
+factors to hold state officials liable for their failure to protect a plaintiff who was not in custody, but where the state had created the danger plaintiff faced).
+7
+None of these courts, in this or other circuits, foist such a broad reading of
+DeShaney
+upon the law as do the Defendants. Likewise, this Court finds that while the custodial circumstances of a plaintiff are important, they are not dispositive. Indeed, the Supreme Court recognizes that in addition to being a charter of negative liberties, “the Due Process Clause, like its forbear in the Magna Carta, was intended to secure the individual from the arbitrary exercise of the powers of government.”
+Daniels v. Williams,
+474 U.S. 327
+, 331,
+106 S.Ct. 662
+, 665,
+88 L.Ed.2d 662
+(1986) (citations omitted).
+A custodial setting may provide a clearer case for attaching constitutional liability to the inaction of government officials. The arbitrary exercise of governmental power is magnified in the custodial setting. In the custodial context, liberty is restricted, and individuals are unwillingly placed in situations in which they may be unable to respond and the state has assumed increased control and authority over them.
+See Youngberg v. Romeo,
+457 U.S. 307
+,
+102 S.Ct. 2452
+,
+73 L.Ed.2d 28
+(1982) (involuntarily committed mental patients have a Fourteenth Amendment due process right to their “reasonable safety” from themselves and others);
+Buffington v. Baltimore County,
+913 F.2d 113
+, 119 (4th Cir.1990)
+cert. denied,
+— U.S. -,
+111 S.Ct. 1106
+,
+113 L.Ed.2d 216
+(1991) (county officials could be liable when they knew
+*391
+the individual in their custody was suicidal and in need of emergency intervention, but acted with deliberate indifference in failing to prevent individual’s suicide).
+While the custodial context magnifies the government’s responsibility to act, as a matter of logic, it does not present an exclusive set of circumstances under which a government may act arbitrarily. Nor, therefore, should the right to due process be arbitrarily limited to protecting only those in custody.
+The public should have the same right as state prisoners and those in the custody of other public institutions .to be free from the arbitrary exercise of governmental authority:
+If the state puts a man in a position of danger from private persons and then fails to protect him, it will not be heard to say that its role was merely passive; it is as much an active tortfeasor as it had thrown him into a snake pit.
+Jensen v. Conrad,
+747 F.2d 185
+, 192 (4th Cir.1984) quoting
+Bowers v. DeVito,
+686 F.2d 616
+, 618 (7th Cir.1982).
+Arbitrarily confining liability stemming
+from
+a government’s inaction in custodial circumstances alone would so restrict the reach of the Fourteenth Amendment as to make it a safe haven for official misconduct. The Constitution is not an absolute shield for the failure to do one’s duty.
+See Harlow v. Fitzgerald,
+457 U.S. 800
+, 819,
+102 S.Ct. 2727
+, 2738-39,
+73 L.Ed.2d 396
+(1982). Indeed,
+DeShaney
+did not foreclose the possibility that an affirmative duty might arise in a situation in which the government created or increased the danger a plaintiff faced. 489 U.S. at 201, 109 S.Ct. at 1006;
+see Williamson,
+786 F.Supp. at 1252
+.
+Clearly, a mechanical application of substantive due process to custodial settings only would be easier to apply and would limit state liability. Such an interpretation, however, would carry the irony of requiring courts to arbitrarily limit a right in which its very purpose is to protect citizens from arbitrary state action. This mechanical application of the right would necessarily undermine the ethical legitimacy of court decisions. The mechanical application of this right is not necessary to limit unwarranted liability. Clear and reasonable standards exist that do not sacrifice individual rights, nor depend on arbitrary limitations.
+First, the recognition of a substantive due process right outside the custodial context need not interfere with the discretionary allocation of public resources. The due process clause imposes no obligation for a government to provide citizens with a particular level of services.
+See Harris v. McRae,
+448 U.S. 297
+, 317-18,
+100 S.Ct. 2671
+, 2688-89,
+65 L.Ed.2d 784
+(1980) (no obligation to fund abortions or other medical services).
+DeShaney
+also prevents a finding that substantive due process rights have been violated when the withdrawal or reduction of a particular level or type of public protective service leads to injury.
+Philadelphia Police & Fire Association v. City of Philadelphia,
+874 F.2d 156
+(3d Cir.1989) (“Just as in
+De-Shaney,
+the retraction of state intervention permits the harm, but the harm in each case actively is caused by a source other than the state.”) These decisions restrict liability for situations better addressed through the political process.
+Second,' applying substantive due process to non-custodial contexts need not leave individual state officials open to unwarranted liability. Clearly, courts should not use the clarity of hindsight to second guess the difficult decisions that state officials confront. As with other § 1983 actions, more than mere negligence of state officials is required to trigger liability.
+Daniels,
+474 U.S. at 328
+, 106 S.Ct. at 663.
+8
+*392
+Moreover, as with all other § 1983 actions, plaintiff must demonstrate that the government action proximately caused his or her injury.
+Martinez v. California,
+444 U.S. 277
+,
+100 S.Ct. 553
+,
+62 L.Ed.2d 481
+,
+reh’g denied,
+445 U.S. 920
+,
+100 S.Ct. 1285
+,
+63 L.Ed.2d 606
+(1980) (no liability where plaintiffs injury was. too remote a consequence of defendants’ action to hold them responsible under § 1983). Without causation, demonstrating how the government’s conduct caused the injury, liability cannot attach. “There is no constitutional right to be protected by the state against being murdered by criminals or madmen.”
+Bowers v. DeVito,
+686 F.2d 616
+, 618 (7th Cir.1982).
+Third, even if a plaintiff meets the requirements necessary to establish a substantive due process violation, a defendant may still raise a defense of qualified immunity. Unless a plaintiff can demonstrate the violation of a clearly established right, no liability will attach for government inaction. It is with these safeguards in mind that the Court finds that such a substantive due process right exists for a government’s failure to 'act outside of the strictly custodial context.
+Next, the Court considers whether Plaintiffs allegations of Defendants’ role in increasing the danger to Carol Pinder and her children created a corresponding constitutional duty to provide some protection from Pittman’s violent act. Stated another way, were the actions taken by Defendants sufficient to warrant the protections of the due process clause, because Defendants’ conduct made the Pinders more vulnerable to Pittman’s arson? The
+DeShaney
+Court left this issue unresolved.
+See Freeman,
+911 F.2d at 55
+.
+The Fourth Circuit has recognized that the state may incur an affirmative duty to act when “custodial or other relationships exist.”
+Fox v. Curtis,
+712 F.2d 84
+, 88 (4th Cir.1984). As already noted, the Fourth Circuit has held that the government also has a duty to act when a special relationship exists.
+Jensen,
+747 F.2d at
+194 n. 11. The
+Jensen
+Court identified factors to be included in a special relationship analysis:
+1) Whether the victim or perpetrator was in legal custody at the time of the incident, or had been in legal custody prior to the incident....
+2) Whether the, state has expressly stated its desire to provide affirmative protection to a particular class or specific individuals....
+3) Whether the state knew of claimants’ plight.
+Id.
+at 194 n. 11.
+The
+Jensen
+Court indicated that the first factor relates to the government’s awareness of whether a plaintiff, as opposed to the general public, faces a special danger.
+Id.; see also Martinez v. California,
+444 U.S. 277
+, 285,
+100 S.Ct. 553
+, 559,
+62 L.Ed.2d 481
+reh’g denied,
+445 U.S. 920
+,
+100 S.Ct. 1285
+,
+63 L.Ed.2d 606
+(1980) (Supreme Court declined to impose liability for a state’s failure to act in part because the government “was not aware that [the decedent], as distinguished from the public at large, faced any danger”). The second and third factors relate to the government’s intent to “single out” a plaintiff for special care. Jensen,
+747 F.2d at 194
+.
+Plaintiffs circumstances meet the factors identified by
+Jensen.
+First, Johnson was summoned to the Pinder home prior to the arson, where he found Pittman being restrained by a neighbor and threatening to do Plaintiff further harm. Johnson arrested Pittman and assured Plaintiff that it was safe for her to return to work. Johnson brought Pittman before Commissioner Ames where Pittman was charged with trespassing and minor destruction of property. Pittman was in physical custody just prior to murdering the three Pinder children by arson. Pittman was then released on his own recognizance, immediately walked the short distance from the police station to Plaintiffs’ home, and
+*393
+turned his previous violent threats into a violent act.
+9
+Second, Defendants expressed their intentions to provide affirmative protection to Plaintiff. According to Plaintiff, Johnson gave Carol Pinder assurances when Pittman was arrested that Pittman would remain in custody.
+Third, Defendants were aware of the plight that Plaintiff faced. Plaintiff contends that Commissioner Ames and Officer Johnson were aware of Pittman’s past and his previous attempt to burn Plaintiff’s home down for which Pittman was convicted of arson. According to Plaintiff, Johnson knew Pittman from their high school days together. Indeed, Plaintiffs allege that “Johnson knew Pittman had a dangerous nature and propensity to act aggressively ...” Complaint at paragraph 11.
+Beyond this general knowledge of Pittman, Carol Pinder reminded Johnson at the time of the arrest of Pittman’s previous acts of violence against the Pinders. Ms. Pinder showed Johnson where Pittman had broken into the Plaintiffs’ home by breaking the back door window panes. Carol Pinder told Johnson of how Pittman had attacked and threatened her before he was restrained by a neighbor. Finally, Johnson saw how Pittman resisted arrest and continued to make threats against the Pinders stating, “that if he was going to jail, it was going to be for murder.” Complaint at ¶ 12.
+If these allegations are true, Defendants knew that Plaintiff, as opposed to the general public, faced a special danger. Moreover, the facts are sufficient for purposes of Rule 12(b)(6) to find that Plaintiff was singled out for protection by Johnson’s words and actions.
+Jensen,
+747 F.2d at
+194 n. 11;
+Swader,
+743 F.Supp. at 440-43
+;
+but see Williamson,
+786 F.Supp at 1283
+.
+10
+Though
+Jensen
+provides a good analytic starting point for determining whether a special relationship exists, merely establishing the three factors may not be enough to meet the burden imposed by
+DeShaney.
+11
+The
+Jensen
+factors only establish the government’s awareness of the victim’s predicament and the expression of its intent to help.
+747 F.2d at 194, n. 11
+. Outside of a custodial setting, neither a police officer’s awareness of
+*394
+a victim’s plight, nor mere expressions of intent to help a victim are enough to trigger an affirmative government duty to act.
+See DeShaney,
+489 U.S. at 200
+, 109 S.Ct. at 1005-06. “To serve and protect” may be the motto for law enforcement, but it is not the constitutional standard under which police actions are judged.
+Subsequent to
+DeShaney,
+circuit court opinions expanded upon this analysis.
+See, e.g., Horton v. Flenory,
+889 F.2d 454
+, 457 (3d Cir.1989) (even though state officials know that a person is in imminent danger of harm from a tim'd party, the Fourteenth Amendment imposes no obligation on the state to prevent that harm);
+Balistrere v. Pacifica Police Department,
+901 F.2d 696
+, 701 (9th Cir.1990) (the due process clause did not impose on the government an affirmative duty to protect even though the government was aware of plaintiffs plight and took some steps to protect plaintiff).
+DeShaney
+requires an analysis of whether a state acted to create the duty such that the corresponding failure to act is arbitrary. The analytical focus herein must be upon what the state did to create or enhance the risk plaintiff faced. The
+Swader
+court acknowledged this requirement when it held that plaintiffs had adequately alleged the existence of a special relationship giving rise to an affirmative duty.
+743 F.Supp. at 435
+. In
+Swader,
+plaintiffs not only sufficiently alleged a special relationship under
+Jensen,
+but plaintiffs also sufficiently alleged state involvement in creating and enhancing the risk that the decedent plaintiff faced.
+Id.
+at 441-42
+(state created dangers plaintiffs faced because it required plaintiffs live on prison property, ingress and egress to the prison was over roads owned and maintained by the state, and the state was supposed to, but did not, provide proper supervision of all inmates).
+Similarly, in the instant case, the analytical focus must not stop with
+Jensen,
+but begin there. Establishing the presence of the
+Jensen
+factors creates a nexus between plaintiffs and the government that may cause a failure to act to become an arbitrary exercise of government authority. This can be established only when it is shown that the government has acted to increase or create the danger that a plaintiff faces.
+An exact test under
+DeShaney
+for what level of government involvement triggers this due process right, however, is not available. The Court, however, may by analogy, cast the
+DeShaney
+requirements against the backdrop of common law torts.
+12
+In doing so, the common law distinction between “misfeasance” and “nonfeasance” captures, to some degree, the
+DeShaney
+proposition that liability attaches for only injury created by one’s acts.
+Governmental inaction, or individual nonfeasance, is not actionable when the failure to take steps does not make another worse off.
+See
+Prosser and Keeton,
+Torts
+at 373 (5th Edition 1984). Neither knowledge of a victim’s predicament nor the ability to rescue the victim from danger creates an affirmative obligation to act under common law.
+See, e.g., Osterlind v. Hill,
+263 Mass. 73
+(1928) (no duty of one with a rope and a boat to rescue another who is drowning before one’s eyes);
+Sidwell v. McVay,
+282 P.2d 756
+(Okl.1955) (no duty to prevent neighbor’s child from hammering on an explosive charge).
+In these situations as in
+DeShaney,
+the common law recognizes no liability for the nonfeasance.
+South v. Maryland,
+59 U.S.
+*395
+(18 How.) 396,
+15 L.Ed. 433
+(1855). As in
+DeShaney,
+the common law does not impose liability even where one has the ability to prevent harm and the knowledge of the victim’s predicament. 489 U.S. at 200, 109 S.Ct. at 1005-06;
+see also, Jackson v. City of Joliet,
+715 F.2d 1200
+, 1202-03 (7th Cir.1983).
+While common law tort law recognized no duty to go to the assistance of an individual in peril, there does exist a duty to avoid affirmative acts that cause an individual’s situation to worsen.
+See e.g., Huey v. Barloga,
+277 F.Supp. 864
+, 872 (N.D.I11.1967);
+Fagg’s Adm'r v. Louisville & N.R. Co.,
+23 Ky.L.Rptr 383
+,
+111 Ky. 30
+,
+63 S.W. 580
+(1901); Restatement (Second) of Torts § 323 (1965). The voluntary assumption by affirmative conduct to come to the aid of another may create a duty. For example, a duty to act may exist where a victim detrimentally relies upon an individual’s promise to aid.
+DeLong v. County of Erie,
+89 A.D.2d 376
+,
+455 N.Y.S.2d 887
+(1982);
+but see, Thome v. Deas,
+4 Johns. 84
+(N.Y.1809) (no liability for mere gratuitous promise to give aid, even though there is detrimental reliance upon the promised assistance).
+Here again, the common law duties mirror
+DeShaney’s
+focus upon governmental actions that create or enhance the danger a victim faces. 489 U.S. at 201, 109 S.Ct. at 1006. Once performance begins, a duty to act is created when that action increases the danger such that the victim is mislead to believe that the danger is removed, or by depriving a potential victim of help from other sources.
+See, e.g., United States v. Lawter,
+219 F.2d 559
+(5th Cir.1955) (liability imposed where rescue effort negligently done);
+Remeikis v. Boss & Phelps, Inc.,
+419 A.2d 986
+(D.C.App. 1980) (liability where plaintiff relied upon broker’s assurance that sales contract protected against termite damage).
+While these common law tort principles do not provide direct authority, they do provide an analogy that may be applied to
+DeShaney
+to clarify the amount of governmental intervention necessary to create an affirmative duty for governmental action. The distinctions between “misfeasance” and “nonfeasance,” and the liability that may attach, preserves DeShaney’s view of the Constitution as a charter of negative liberties. 489 U.S. at 195, 109 S.Ct. at 1003. Liability is not imposed, under the Constitution, to insure that life, liberty or property is preserved. However, when those interests are jeopardized by actions that increase the danger, or make the victim more vulnerable, an affirmative duty arises.
+In the instant case, Plaintiff contends the risk they faced from Pittman was increased by Defendants in three ways. First, Plaintiff contends that in spite of Johnson’s knowledge of the seriousness of Pittman’s alleged acts, he was charged with very minor offenses that ensured Pittman’s immediate release. Second, Plaintiff contends that the statements Johnson made assuring Carol Pinder that Pittman would remain in custody increased the danger that Plaintiff faced. Third, Plaintiff implies that Johnson’s prior relationship with Pittman may have interfered with his decision to charge Pittman with only minor offenses.
+Turning to the first claim, it is unclear that Officer Johnson’s charging Pittman with relatively minor offenses would be sufficient to require an affirmative act from the Defendants to protect the Pinders. As previously discussed, neither knowledge nor Johnson’s ability to charge Pittman with a different crime by themselves are sufficient to trigger the duty to act.
+See Horton,
+889 F.2d at 454
+;
+in McKee v. City of Rockwall, Texas,
+877 F.2d 409
+(5th Cir.1989), the failure to charge Pittman with more serious offenses may make Defendants’ inaction ultimately more arbitrary, but the decisions in
+McKee
+and
+Horton
+make clear that undercharging does not meet the heavy burden
+DeShaney
+imposes.
+13
+As to Plaintiffs second claim, Carol Pinder alleges she asked Officer Johnson whether it was safe for her to return to work in view of
+*396
+Pittman’s prior violence and his current threats against Plaintiffs. Plaintiff alleges that Johnson told Pinder that she could return to work because Pittman would remain in custody.
+Using the common law analogy, and looking at these allegations in a light most favorable to Plaintiff, Defendants’ assurances appear to have turned their nonliable nonfeasance into liable misfeasance. Defendants increased the risk to Plaintiff by providing assurances that the danger faced had been removed. Ms. Pinder, in reliance upon Johnson’s assurances, changed her course of conduct and returned to work. As such, the world that Defendants released Pittman into after his physical custody was materially changed. Ms. Pinder had returned to work. The neighbor who had restrained Pinder’s attacker was gone and the Pinder children were helplessly stranded at home vulnerable to Pittman’s final act.
+Defendants’ liability is sufficiently alleged when one considers other court decisions in which a substantive due process violation was premised upon the government’s failure to act. First, this case meets the
+Swader
+standard. As already noted,
+Swader
+applied the factors identified by the
+Jensen
+Court, and then the Court also examined how the state’s conduct created or increased the danger plaintiff faced.
+See Swader,
+743 F.Supp. at 439-43
+. This Court has already determined that the Pinders’ factual circumstances are comparable to the
+Jensen
+special relationship factors. In addition to meeting the
+Jensen
+factors, the Court finds that Defendants here, also increased the risk that Plaintiff confronted; their conduct made the Pinders more vulnerable to Pittman’s violence.
+See Swader,
+743 F.Supp. at 442
+. For purposes of the instant motion, and as in
+Swader
+this Court need not hold that Defendants did not as a matter of law, owe any affirmative duty to Plaintiffs.
+Id.
+at 444
+. Plaintiffs allegations establishing both
+Jensen
+factors and the government’s enhancement of risk to plaintiffs make out a possible claim that a special relationship existed that may require an affirmative duty.
+Id.
+Second, Plaintiffs claims establish a necessary level of government involvement to sufficiently allege a substantive due process violation as measured, by the decisions in other circuits. As in the instant case, these courts focus upon actions taken by government entities that increased or made the plaintiffs more vulnerable to danger. In each of these cases, the government’s duty to take action to prevent the harm arose because plaintiffs situation was worsened by a prior government act.
+The Ninth Circuit in
+Wood
+held that due process claims could be alleged when a police officer increased a plaintiffs risk of harm by knowingly leaving a female passenger stranded in a high crime area, after arresting the driver and impounding the vehicle.
+Wood,
+879 F.2d at 583
+. The stranded plaintiff later accepted a ride from an unknown man who raped her. The Ninth Circuit’s analysis was done within the context of ruling upon the defendant’s alleged qualified immunity. The
+Wood
+Court held that a reasonable police officer would have understood that his conduct violated the plaintiffs due process right to be free from unjustified intrusion into her personal security.
+Id.
+at 596
+.
+The Eleventh Circuit, in
+Cornelius,
+reversed summary judgment for defendant officials whose conduct in bringing dangerous prisoners to town under the auspices of a community work program affirmatively created danger that resulted in injury to a plaintiff from the prisoners.
+Cornelius,
+880 F.2d at 348
+. Plaintiff, a city hall employee who worked around these prison inmates had alleged that she was abducted and terrorized by them.
+Id.
+The Seventh Circuit, in
+White,
+held that police officers who arrested and removed the uncle of three young children, leaving them stranded on a Chicago expressway could allege a sufficient due process claim.
+White,
+592 F.2d 381
+. Another Seventh Circuit opinion issued subsequent to
+DeShaney,
+affirmed this reasoning when a deputy sheriff acting pursuant to county policy prevented private rescue efforts of a twelve year old boy who fell off a breakwater into Lake Michigan; twenty minutes later the officially authorized divers were allowed to recover the drowned boy’s body.
+Ross,
+910 F.2d at 1422
+.
+*397
+The District Court of New Jersey held that a state’s affirmative duty to act could exist where the state induced a plaintiff to work as an undercover informant in exchange for protection and the promise of a new identity if discovered.
+Degnan,
+745
+F.Supp. at 264-65
+. Based upon this agreement, the
+Degnan
+court found that a special relationship giving rise to the affirmative duty was created.
+Id.
+These decisions, like the instant case, recognize that a state may have a “constitutional duty to protect an individual against private violence ... in a non-custodial setting if the state has taken affirmative action which increases the individual’s danger of, or vulnerability to, such violence beyond the level it would have been absent state action.”
+Freeman,
+911 F.2d at 55
+.
+Even a more specific examination of the type of risk Defendants allegedly imposed upon the Pinders has been found sufficient to allege a substantive due process violation. For example, state imposed limitations on a plaintiffs self help has been held to have violated a plaintiffs substantive due process right.
+Ross v. United States,
+910 F.2d at 1422
+. Here as in
+Ross,
+the alleged government assurances deprived Carol Pinder and particularly her children of self help remedies.
+When Officer Johnson arrived at the scene, Carol Pinder’s attacker was being restrained by a neighbor. Johnson’s statements assuring Carol Pinder that Pittman would remain in custody deprived Pinder of the chance to secure additional help from her neighbor. Further, the Pinder children were deprived of them opportunity to have Carol Pinder to either stay at home or remove them from the house.
+Cf.
+Id.
+In the instant case, as in
+White,
+the Pinder children were deprived of their protector.
+White,
+592 F.2d at 381
+. In
+White,
+the police arrested the driver who was the children’s uncle, leaving the children stranded beside a busy highway. Defendant Johnson’s alleged assurances that Carol Pinder could go back to work because Pittman would remain in custody changed her course of conduct and removed her children’s protector.
+Id.
+Although
+White
+presents a more clean-cut case of state action because the uncle was physically removed by police, the Pinder case is no less actionable. As the
+Degnan
+Court found, a plaintiffs detrimental reliance upon a government’s assurances of action may serve as a basis for asserting a claim under the due process clause.
+Degnan,
+745
+F.Supp. at 265
+;
+compare with Balistreri,
+901 F.2d at 699-700
+(no duty for affirmative action found when plaintiff did not allege that the Restraining Order induced her to forego other measures to protect herself).
+14
+Plaintiffs’ final claim is that the personal relationship between Officer Johnson and Pittman may have interfered with or influenced Johnson’s charging decision. Such circumstances have been found to deprive a plaintiff of substantive due process right.
+See, e.g., Freeman,
+911 F.2d at 52
+. The suit in
+Freeman
+arose out of the murder of a plaintiff and her daughter by the plaintiffs estranged husband. At the time of the murder, an outstanding Order of Protection was issued against the husband. The
+Freeman
+plaintiffs alleged that the Chief of Police had such a close personal relationship with the husband that he had previously prevented other police officers from stopping the conduct of the husband.
+Id.
+at 55
+. In the instant case, if Officer Johnson’s decision to charge Pittman with relatively minor offenses was influenced by a personal relationship, this claim may be actionable as well.
+Therefore, this Court holds that Plaintiffs have sufficiently alleged a claim for a violation of their substantive due process rights. Defendants may have owed a duty to the Pinders because Defendants may have in
+*398
+creased Plaintiffs vulnerability to Pittman’s acts. Defendants’ motion to dismiss Count II will be denied.
+D.
+Qualified Immunity
+Defendants move to dismiss Counts I and II on the basis of Johnson’s qualified immunity. The test of qualified immunity for police officers sued under
+42 U.S.C. § 1983
+is whether in performing discretionary functions, they have engaged in conduct that violates “clearly established constitutional rights of which a reasonable person would have known.”
+Harlow v. Fitzgerald,,
+457 U.S. 800
+, 818,
+102 S.Ct. 2727
+, 2738,
+73 L.Ed.2d 396
+(1982);
+see also Pritchett v. Alford,
+973 F.2d 307
+, 312 (4th Cir.1992). Immunity exists when the right allegedly violated was not at the time of the incident clearly established, or even if it was clearly established, one that a reasonable person in the officer’s position could have failed to appreciate.
+Pritchett,
+973 F.2d at 312
+.
+Examining a defendant official’s qualified immunity requires a review of (1) the identification of the specific right allegedly violated; (2) determining whether or not at the time of the alleged violation, the right was “clearly established;” (3) whether a reasonable person in the officer’s position would have known that doing what he did would violate that right.
+While the third issue may require factual determinations in resolving disputed aspects of a defendant’s conduct, the first two issues are pure questions of law.
+Anderson v. Creighton,
+483 U.S. 635
+, 646, n. 6,
+107 S.Ct. 3034
+, 3042 n. 6,
+97 L.Ed.2d 523
+(1987);
+Harlow,
+457 U.S. at 818
+, 102 S.Ct. at 2738;
+Pritchett,
+973 F.2d at 312
+. Therefore, the Court examines whether Plaintiff properly alleges the violation of constitutional rights that were at the time clearly established on March 10, 1989, the date of the incident.
+Turning first to Count II, Plaintiff alleges a violation of a right to substantive due process under the Fourteenth Amendment. At its most abstract level, the due process right is intended to protect the individual from the arbitrary exercise of governmental power.
+Daniels,
+474 U.S. at 331
+, 106 S.Ct. at 664-65. This right has been read to protect individual liberty in a broad range of circumstances.
+Meyer v. Nebraska,
+262 U.S. 390
+, 399,
+43 S.Ct. 625
+, 626-27,
+67 L.Ed. 1042
+(1923). “Among the historic liberties so protected was a right to be free from, and to obtain judicial relief for unjustified intrusions on personal security.”
+Ingraham v. Wright,
+430 U.S. 651
+, 673,
+97 S.Ct. 1401
+, 1413,
+51 L.Ed.2d 711
+(1976);
+see also Wood,
+879 F.2d at
+583 (citing the proposition in
+Ingraham
+as a justification for the application of the substantive due process clause applied in a noncustodial context).
+The proper focus for determining whether a right is “clearly established” is not upon the right’s most general or abstract level, but upon its application to the specific conduct being alleged.
+Anderson,
+483 U.S. at 639-40
+,
+107 S.Ct. at 3038-39
+;
+Pritchett,
+973 F.2d at 312
+. The determination of whether a reasonable person in the officer’s position would have known that his conduct violated the right must be made on the basis of the information that the officer actually either possessed at the critical time, or that was reasonably available to him.
+Anderson,
+483 U.S. at 641
+,
+107 S.Ct. at 3039-40
+;
+Harlow,
+457 U.S. at 815
+, 102 S.Ct. at 2736-37. Any exigencies of time and circumstance that may reasonably have affected the officer’s perceptions must also be considered by the court.
+Pritchett,
+973 F.2d at 307
+.
+Under Count II, Defendants argue that Johnson’s acts receive qualified immunity under Count II because the right allegedly violated therein does not exist. Defendants contend that in a noncustodial context, even where defendant officials create or enhance the dangers that a plaintiff faces, there is no corresponding duty to act under the due process clause. Defendants’ argument relies primarily upon their understanding of
+De-Shaney.
+489 U.S. at 189, 109 S.Ct. at 998.
+This Court rejects Defendants’ argument based upon its own analysis of
+DeShaney
+and holdings in other circuits which determined that
+DeShaney
+did not jeopardize the continued viability of the substantive due process
+*399
+right in a noncustodial setting.
+15
+Id. See
+Discussion
+supra.
+Section II C. Rejecting Defendants’ argument does not however, establish whether the contours of the right are clearly defined. First, such an argument only establishes the right’s continued potential existence after
+DeShaney.
+Second, a qualified immunity analysis requires a more detailed inquiry.
+See Collinson v. Gott,
+895 F.2d 994
+, 999-1000 (4th Cir.1990) (although the general contours of the First Amendment were well established, for qualified immunity purposes the inquiry must focus upon the right’s particular application to the
+ad hoc
+parliamentary rulings of an official presiding at a public meeting). Just as the First Amendment right in
+Collinson
+must be analyzed under the particular circumstances confronted by the official, the breadth of application of the substantive due process right in a noncustodial context requires a more particularized inquiry in order to insulate officials from liability for reasonable mistakes of judgment.
+The protean nature of this right, even when confined to a noncustodial context, is still at a level that is too abstract or general to examine whether an official has violated a “clearly established” right.
+Compare, Wood,
+879 F.2d at 583
+(substantive due process right examined in circumstances where police officer arrested the driver but left the ear’s passenger stranded in high crime area);
+with Jensen,
+747 F.2d at 185
+(substantive due process examined in situation where state officials allegedly failed to act on behalf of children who died after brutal beatings by their guardians).
+At the time of the incident
+sub jtidice,
+controlling authority in this Circuit “clearly established” the existence of a substantive due process right to affirmative government action in a noncustodial context.
+Jensen,
+747 F.2d at
+190-94 n. 11;
+Fox,
+712 F.2d at 87-88
+.
+16
+Less certain, however, are the precise set of factors that give rise to a , special relationship triggering the government’s duty to act.
+See Jensen,
+747 F.2d at
+194 n. 11 (Fourth Circuit identified some of the factors that comprise a special relationship);
+see also Freeman,
+911 F.2d at 55
+(Law is not clearly established as to the extent to which the government must increase the danger of private violence before it assumes a corresponding duty).
+The lack of precise factors does not establish Defendants’ qualified immunity.
+The fact that an exact right allegedly violated has not earlier been specifically recognized by any court does not prevent a determination that it' was nevertheless “clearly established” for qualified immunity proposes.... “Clearly established” in this context includes not only already specifically adjudicated rights, but those manifestly included within more general applications of the core constitutional principle invoked.
+Pritchett,
+973 F.2d at 314
+(citations omitted);
+see also Collinson,
+895 F.2d at 999
+(The fact that there were no federal court decisions at the time of the incident on the right’s application to the particular circumstances defendant confronted did not establish qualified immunity);
+McConnell v. Adams,
+829 F.2d 1319
+, 1325 (1987) (“Public officials must consider the possible relevance of legal principles established in analogous factual contexts”). There is no reason in 'considering
+*400
+whether the right in this case was clearly established, to toss out all applications of this right merely because of its uncertainty in some areas of its application. In examining this right, courts at the time of the incident recognized the “core constitutional principle” arose either upon a state’s awareness of the particularized threat of violence, or when the state official increased or enhanced the peril a plaintiff faced. In this case, Plaintiff alleges facts sufficient to trigger the right under either approach.
+The circumstances that Johnson confronted are analogous to those cases where courts conditioned a special relationship upon a showing that the plaintiff, as distinguished from the public at large, faced a particular threat of danger.
+See Martinez,
+444 U.S. at 285
+, 100 S.Ct. at 559. (Supreme Court rejected plaintiff decedent’s claim, in part, because there was no showing that decedent faced any special danger from the assailant, who was paroled five months before the decedent was attacked).
+The
+Martinez
+holding was followed in subsequent court decisions that addressed facts, where state officials were not liable for injuries caused by parolees or inmates on release programs. In each case, the due process clause did not serve as basis for liability because the victim had no special relationship with the government. State officials had no knowledge that the victim was singled out and faced a particularized threat of danger.
+See Jones v. Phyfer,
+761 F.2d 642
+, 644-46 (8th Cir.1985);
+Wright v. City of Ozark,
+715 F.2d 1513
+, 1515 (11th Cir.1983);
+Humann v. Wilson,
+696 F.2d 783
+, 784 (10th Cir.1983);
+Fox,
+712 F.2d at 88
+;
+Holmes v. Wampler,
+546 F.Supp. 500
+, 505-06 (E.D.Va.1982).
+The Fourth Circuit brought the contours of the special relationship principle into clearer focus.
+Jensen,
+747 F.2d at 190-94
+. The
+Jensen
+Court added that the government must express its intent to single out a plaintiff for care, to the requirement that the government be aware of plaintiffs danger.
+Id.
+at 194 n. 11.
+The Court’s application of this special relationship requirement to the circumstances confronted by Officer Johnson reveals that the right was “clearly established” at the time of the incident. As already noted, Plaintiffs situation clearly falls within the
+Jensen
+factors.
+See
+Discussion
+supra
+Section II C. Plaintiff alleges that Johnson had knowledge of the particular peril that the Pinders faced from Pittman’s past acts and current threats of violence. Plaintiff further alleges that Johnson gave assurances of his intent to help by telling Plaintiff that she could return to work as Pittman would remain in custody. These allegations may be construed in Plaintiffs favor to support a claim that Johnson should have been aware that his conduct created a special relationship requiring some act, either warning or protecting Carol Pinder and her children from Pittman.
+In addition to finding liability based upon the
+Jensen
+factors, the due process right also arises when the government creates or enhances the danger the plaintiff faces.
+See e.g., White,
+592 F.2d at 384-85
+;
+DeShaney v. Winnebago Cty. Dept. of Soc. Services,
+812 F.2d 298
+(7th Cir.1987)
+aff'd,
+489 U.S. 189
+(1989);
+Estate of Gilmore v. Buckley,
+787 F.2d 714
+(1st Cir.1986)
+cert. denied,
+479 U.S. 882
+,
+107 S.Ct. 270
+,
+93 L.Ed.2d 247
+(1986);
+Bowers,
+686 F.2d at 616
+;
+Thompson v. Lancaster,
+652 F.Supp. 703
+(M.D.Ga.1987);
+Williams v. City of Boston,
+599 F.Supp. 363
+(D.Mass.1984).
+17
+Beyond the law in other circuits, at the time of the incident, it was clearly established in this circuit that a duty to act could arise where state official enhanced or created a plaintiffs danger.
+Jensen,
+747 F.2d at 190-94
+. The Fourth Circuit’s
+Jensen
+analysis is consistent with, and predicated upon, those decisions where an affirmative duty to act is triggered because the state increased a plaintiffs peril.
+*401
+Recognizing that the fourteenth amendment could not be read to establish a general affirmative duty to the public at large, we chose to limit that duty [to situations] where the state had selected an individual from the public at large and place him in a position of danger, the state was enough of an “active tortfeasor” to make it only “just” that the state be charged with an affirmative duty of protection.
+Jensen,
+747 F.2d at 194
+(citations omitted). The Court notes that predicating the “special relationship” factors upon authority that looks instead to whether the state action created the risk is not unusual. Most courts viewed liability under the creation of the risk standard as one species of a “special relationship.”
+See Estate of Gilmore,
+787 F.2d at 722
+;
+Ketcham v. Alameda County,
+811 F.2d 1243
+, 1247 (9th Cir.1987);
+Dorothy J. v. Little Rock School Dist.,
+794 F.Supp. 1405
+, 1419 n. 9 (E.D.Ark.1992).
+Applying this risk enhancement standard to the circumstances Officer Johnson confronted requires no anticipation of legal principles or clarification of constitutional rights. If it did Johnson would enjoy qualified immunity.
+McConnell,
+829 F.2d at 1325
+. A sufficiently close factual nexus exists between this precedent and Johnson’s acts so as to prevent dismissal based upon qualified immunity.
+Id.
+Police conduct done during the course of their job responsibilities that increases or creates a plaintiffs peril has been analyzed under this substantive due process standard.
+See e.g., Jackson v. City of Joliet,
+715 F.2d 1200
+, 1202-06 (7th Cir.1983);
+White,
+592 F.2d at 384-85
+;
+Thompson,
+652 F.Supp. at 703
+;
+Piechowicz,
+685 F.Supp. at 490-92.
+In
+White,
+for example, police conduct increased the peril to an involuntary victim and the resulting injury by private violence was foreseeable.
+Id.
+When the police officers failed to act, in the face of danger that they either should have known or knowingly helped create, then that failure became a basis for liability under the due process clause.
+Id.
+As stated by the Ninth Circuit in a decision rendered shortly after this incident:
+A reasonable police officer who acted as [plaintiff] alleges [defendant police officer] acted should have understood that what he was doing violated [plaintiffs] constitutional right to be free from an unjustified intrusion into her personal security in violation of her liberty interest under the fourteenth amendment.
+Wood,
+879 F.2d at 596
+(citations omitted).
+Just as in
+White,
+it should have clear to Johnson that his statements and acts increased Plaintiffs vulnerability to Pittman’s violence.
+White,
+592 F.2d at 384-85
+. It is alleged that Johnson assured Plaintiff that Pittman would remain in custody, he did so in spite of his knowledge of: (i) Pittman’s violent threats; and (ii) Plaintiffs reliance upon his words, i.e., that fact that she would then return to work, leaving the children exposed. To paraphrase
+Bowers,
+Johnson should have been aware that he triggered his duty to act, by removing the snake from the pit, and then tossing it back in once his assurances left the children helpless.
+686 F.2d at 618
+. The facts alleged suggest that Johnson knowingly exposed the Pinders to greater peril and those acts imposed a corresponding duty upon Defendants. As such, the allegations are sufficient to support a claim that the failure of Defendants to act violated the Pinders’ constitutional rights.
+Id.
+What the instant case does not share with
+White
+is that it also meets the factors identified in
+Jensen.
+In
+White,
+police officers did not signal any intent to provide assistance. In
+White,
+neither plaintiffs nor the perpetrator’s custody was a factor in finding that a duty was created.
+In this case, Pinder makes allegations sufficient to meet the standard articulated in both
+Jensen
+and
+White
+by alleging facts that support the conclusion that he increased Pinders’ vulnerability to Pittman’s acts. This standard, was “clearly established” at the time of this incident.
+Jensen,
+747 F.2d at 190-94
+;
+White,
+592 F.2d at 384-85
+.
+Moreover, as the
+White
+standard contains the same focus on conduct that foreseeably increases plaintiffs peril and is thus the same as that contained in
+DeShaney,
+Plaintiff alleges a claim that survives current due
+*402
+process standards. Plaintiffs satisfaction of factors identified by
+Jensen
+as well as
+Deshaney
+strengthens Plaintiffs claim for there is a clearer connection showing how Johnson’s risk creating conduct triggered his duty to act under the due process clause.
+Defendants offered one final argument to support their claim of qualified immunity. At the hearing, Defendants’ counsel stated that
+DeShaney’s
+limitation of the substantive due process right cripples any attempt at labeling this right as clearly established.
+18
+This Court rejects this argument as it would effectively transform qualified into absolute immunity. If an official subject to qualified immunity could claim that a right is not “clearly established” because the right contains limitations or has some uncertain areas of application, then an official would always be immune from suit. No right is clear in all applications that is why qualified immunity will be granted if a reasonable official would be uncertain as to whether the right
+applies to the facts confronting him. Pritchett,
+973 F.2d at 312
+.
+The tolerance accorded under qualified immunity protects officials from mistakes of judgment “traceable to unsettled law, or faulty information, or contextual exigencies ...”
+Pritchett,
+973 F.2d at 313
+. Qualified immunity, however, is not intended to be a license for lawless conduct.
+Malley v. Briggs,
+475 U.S. 335
+, 341,
+106 S.Ct. 1092
+, 1096,
+89 L.Ed.2d 271
+(1986);
+Harlow,
+457 U.S. at 819
+, 102 S.Ct. at 2739.
+Where an official could be expected to know that certain conduct would violate statutory or constitutional rights, he should be made to hesitate; and a person who suffers injury caused by such conduct may have a cause of action.
+Harloiu,
+457 U.S. at 819, 102 S.Ct. at 2739. Moreover, qualified immunity is not intended to protect to the plainly incompetent or those who knowingly violate the law.
+Id.
+DeShaney
+limited the substantive due process right in a noncustodial setting; those situations where the state knows of the peril a victims faces are no longer sufficient to trigger a duty to act. 489 U.S. at 201, 109 S.Ct. at 1006. However, situations where the state plays an active part in creating or enhancing a plaintiffs danger were actionable before
+DeShaney
+and are still actionable today. Whether immunity should be accorded depends upon the actual circumstances that the official confronts. As a matter of law and under the facts alleged, this Court determined that qualified immunity does not, at this time, prevent a jury from finding that Defendants violated Pinders’ constitutional due process right.
+Therefore, Plaintiff sufficiently alleges that Defendants violated her “clearly established” due process rights under Count II.
+Anderson,
+483 U.S. at 639-40
+, 107 S.Ct. at 3038-39;
+Pritchett,
+973 F.2d at 312
+.
+Turning to Count I, Plaintiff alleges a violation of the equal protection clause of the Fourteenth Amendment.
+19
+As with the due process right, the proper focus for determining whether a right is “clearly established” is not at that right’s most general or abstract level, but at the level of its application to the specific conduct being alleged.
+Anderson,
+483 U.S. at 639-40
+, 107 S.Ct. at 3038-39;
+Pritchett,
+973 F.2d at 312
+. Again, determining whether a reasonable person in the officer’s position would have known that
+*403
+his conduct violated the right must be made on the basis of the information that the officer actually either possessed at the critical time, or that was reasonably available to him.
+Anderson,
+483 U.S. at 641
+, 107 S.Ct. at 3039-40; H
+arlow,
+457 U.S. at 815
+, 102 S.Ct. at 2736-37.
+In this case, Plaintiff alleges that Johnson discriminated against .her because she was a victim of domestic violence. It has long been established that police cannot discriminate against a group of persons , on an irrational basis.
+Wright,
+715 F.2d at 1516
+;
+Smith,
+482 F.2d at 36-37
+;
+Byrd,
+466 F.2d at 11
+;
+Fisher,
+753 F.Supp. at 687
+;
+Sherrell,
+683 F.Supp. at 1114-15
+;
+Bartalone,
+643 F.Supp. at 576-77
+;
+Thurman,
+595 F.Supp. at 1527-30
+. This principle has been specifically applied to discriminatory treatment of domestic violence victims, holding that such a policy is unconstitutional.
+See Watson,
+857 F.2d at 694-97
+;
+Thurman,
+595 F.Supp. at 1527-30
+.
+Assuming Plaintiffs allegations are true, Johnson violated a “clearly established” right by discriminating in the type of police protection he rendered because Carol Pinder was a victim of domestic violence. At the time of the arrest, Plaintiff expressed her concerns about Pittman’s past acts and current threats of violence. Johnson was aware of Pinders’ danger and his alleged conduct would violate Plaintiffs constitutional rights under these circumstances.
+Anderson,
+483 U.S. at 639—40
+, 107 S.Ct. at 3038-39;
+Pritchett,
+973 F.2d at 312
+.
+Therefore, Plaintiff sufficiently alleges that Defendants violated her “clearly established” due process rights under Count I.
+Anderson,
+483 U.S. at 639-40
+, 107 S.Ct. at 3038-39;
+Pritchett,
+973 F.2d at 312
+.
+E.
+Defendants Maintain that Plaintiffs State Tort Claims are Barred by Defendants’ Immunity Under Maryland Law
+Counts III and IV of Plaintiffs Complaint allege tort claims against Defendants pursuant to Maryland law. Count III alleges a claim for wrongful death of the three Pinder children. Count IV alleges a survival action on behalf of the estates of each of child.
+(1) Defendants Maintain that Cambridge is Immune from Liability for Both of Plaintiffs Claims
+Defendants maintain that a municipality is immune from actions pursuant to its governmental functions.
+Katz v. Washington Suburban Sanitary Commission,
+284 Md. 503
+, 508,
+397 A.2d 1027
+(1979);
+see also Khawaja v. City of Rockville,
+89 Md.App. 314
+,
+598 A.2d 489
+(1992) (Local Government Tort Claims Act does not create liability on part of local government as party to suit). The guidelines for determining when the actions of a municipality are governmental in nature are set forth in
+Mayor and City Council of Baltimore v. State ex Rel. Buleford,
+173 Md. 267
+, 276,
+195 A. 571
+(1937). Defendants maintain that the operation of the police force is a governmental function, and as such, Cambridge is immune from suit.
+Quecedo v. Montgomery County,
+264 Md. 590
+,
+287 A.2d 257
+(1972);
+Cord Claiborne v. Cahalen,
+636 F.Supp. 1271
+, 1279-80 (D.Md. 1986).
+Plaintiff does not contest this argument as to Cambridge’s liability. Plaintiff makes some conclusory statements but provides no law that Defendants were acting in a ministerial or discretionary capacity and not as part of its governmental function.
+Defendants are correct. The Court grants Defendants’ motion dismissing Defendant City of Cambridge as to Counts III and IV on this basis.
+(2) Defendants Claim that Counts III and IV Should Be Dismissed As To Johnson
+Defendants maintain that Plaintiff fails to state a claim against Johnson as an official of the City of Cambridge. Defendants maintain that Johnson is immune from liability for his actions alleged in Counts III and IV of the Complaint.
+See Md.Code Ann.
+Art. 23A, § IB; Md.Cts.
+&
+Jud.Proc.Code Ann. § 5-321. An official in a municipal corporation is immune-from liability for tortious actions if that individual can show: (1) that he is an official of the municipal corporation; (2) that he acted in a discretionary capacity; (3) that he acted within the scope
+*404
+of his authority; and (4) that the actions were not malicious.
+Elliott v. Kupferman,
+58 Md.App. 510
+, 526,
+473 A.2d 960
+(1984). The only issue, according to Defendants, is whether or not Johnson’s actions were malicious.
+Malice ... consists of the intentionally doing of a wrongful act without legal justification or excuse.
+Elliott,
+58 Md.App. at 526
+,
+473 A.2d 960
+. Defendants maintain that as a matter of law, Johnson did not act with malice.
+Defendants’ conclusion that Johnson did not act with malice rests on an evaluation of the merits and a weighing of the facts which is not proper at this juncture.
+Augenstein v. McCormick & Co.,
+581 F.Supp. 452
+, 456 (D.Md.1984);
+see also Jenkins v. McKeithen,
+395 U.S. 411
+, 421,
+89 S.Ct. 1843
+, 1848-49,
+23 L.Ed.2d 404
+(1969). Therefore, the Court denies the motion to dismiss Counts III and IV with respect to Johnson.
+III.
+Conclusion
+The Court denies Defendants’ motion to dismiss as to Counts I and II. The Court denies Defendants’ motion to dismiss at to the state tort claims alleged in counts III and IV against Officer Johnson. Finally, the Court grants Defendants’ motion to dismiss with respect to the City of Cambridge in Counts III and IV.
+A separate Order shall issue.
+1
+. Defendants are correct, however, in their reliance on
+Hynson‘s
+articulation of what a plaintiff must ultimately prove in order to show that a facially neutral policy is in reality an improper gender classification.
+864 F.2d at 1031
+. The
+Hynson
+court identified three factors: (1) that it is the policy or custom of the police to provide less protection to victims of domestic violence than to other victims of violence; (2) that discrimination against women was a motivating factor behind the administration of the policy; and (3) that the plaintiff was injured by the policy or custom.
+Id.
+2
+.
+It is unclear from the Complaint whether in her allegations that Johnson's superiors approved of his acts, Plaintiff refers to Commissioner Ames, or to others with policy-making authority within the police department.
+3
+. Adverse impact alone may not demonstrate intentional discrimination.
+Compare Yick Wo
+v.
+Hopkins,
+118 U.S. 356
+, 373-74,
+6 S.Ct. 1064
+, 1073,
+30 L.Ed. 220
+(1886) (Court invalidated law "applied and administered by public authority with an evil eye and an unequal hand ..." where all Chinese applicants for licenses were denied, while all but one of the non-Chinese petitioners were granted licenses)
+with Feeney,
+442 U.S. at 270-79
+,
+99 S.Ct. at 2291-96
+(in spite of the adverse impact on women of a government hiring preference for veterans, the Court rejected
+*386
+plaintiffs gender based claim because she could not demonstrate that the facially neutral law was adopted to purposely discriminate against women).
+The
+Feeney
+Court did note that a classification presented in neutral terms may be gender based where the "impact of [the classification] could not be plausibly explained on a gender-neutral ground.”
+442 U.S. at 275
+,
+99 S.Ct. at 2294
+. In
+Feeney,
+although the veterans' preference operated to the overwhelming benefit of men, the disadvantaged class of nonveterans was not substantially female.
+Id.
+at 281
+,
+99 S.Ct. at 2297
+;
+but see McCleskey v. Kemp,
+481 U.S. 279
+,
+107 S.Ct. 1756
+,
+95 L.Ed.2d 262
+(1987) (statistical evidence alone may not be enough to demonstrate discriminatory intent);
+see also Watson,
+857 F.2d at 695-96
+.
+4
+. Additional discovery may reveal disparate treatment that when examined with other evidence may reveal a policy that discriminates on the basis of gender.
+5
+. A close reading of
+DeShaney
+reveals an ambivalence over whether a substantive due process right based upon a failure to act can exist outside of a strictly custodial context. The ambivalence is revealed in the divergent approaches taken by the Supreme Court takes. At one point the Supreme Court seems to make "involuntary confinement” or at least a situation "analogous to incarceration or institutionalization” a requirement for finding a substantive due process right to protection.
+DeShaney,
+489 U.S. at 197-200, 109 S.Ct. at 1004-06. The
+DeShaney
+Court, however, also centers its analysis upon whether the victim was placed in a "worse position than that in which he would have been had [the government official] not acted at all.”
+Id.
+at 201, 109 S.Ct. at 1006.
+As is explained below, this Court's holding that a right to substantive due process can exist outside of a custodial context is based upon both law and logic. First, other circuits reading
+De-Shaney
+have not restricted the right to only custodial situations. Second, district courts in this circuit, when interpreting Fourth Circuit precedent after
+DeShaney,
+have not confined the substantive due process right to purely custodial settings. Third, as a matter of logic, nothing suggests that the right to be free from the arbitrary exercise of governmental authority should be restricted to custodial settings.
+6
+. In
+Brown
+the Third Circuit stated that if the plaintiff’s attacker had been in custody prior to the attack, as Finder’s attacker was in the instant case, it might have triggered the government’s constitutional duty to assist plaintiff in this noncustodial setting.
+Id.
+at 1116.
+7
+. The Fourth Circuit has not, it appears, explicitly limited the viability of the
+Jensen
+factors in a
+post-DeShaney
+decision. Some tentative conclusions, however, may be reached from related cases such as
+Bernier.
+In
+Temkin,
+the Fourth Circuit cited with approval the Bernier's court's use of a "shock the conscience” standard of care in police car chase situations. In adopting this standard, the Fourth Circuit quoted
+Bernier
+which stated that a failure to act in a noncustodial situation could be actionable if the conduct was "disproportionate to the need presented and so deliberate and unjustified a use of [authority] as to transcend the bounds of ordinary tort law and establish a deprivation of constitutional rights."
+945 F.2d at 721
+(quoting
+Bernier,
+citations omitted).
+In
+Piechowicz
+the Fourth Circuit left unresolved the question of the continuing viability of the
+Jensen
+factors that establish a special relationship.
+Piechowicz
+v.
+United States,
+885 F.2d 1207
+, 1214-15, n. 12 (4th Cir.1989);
+see also Swader,
+743 F.Supp. at 442-43
+(In discussing
+Piechowicz
+the Virginia District Court concluded, ”[i]t is the opinion of this Court that the Fourth Circuit's decisions subsequent to the
+DeShaney
+opinion signal no retreat from the 'special relationship' analysis developed in
+Fox
+and
+Jensen
+”);
+but see also Williamson,
+786 F.Supp. at 1255
+. The
+Piechowicz
+Court did, in fact, seem to uphold the special relationship analysis stating, "[t]he second rubric inquires whether ... there was any special relationship between the United States and the murder victims that could have [given] rise to a right, vindicable under § 1983, to affirmative protection by the [United States].' ”
+Id.
+at 1214 (citations omitted). The Court concluded that no special relationship existed between the plaintiffs and government defendants.
+Id.
+at 1214. Moreover, because of the inapplicability of the special relationship doctrine, the court did not appear to use it at all.
+Id.
+at 1215 n. 12.
+8
+. The parlies do not raise, and the Court does not address at this time, what the appropriate standard of care must be mel in order to establish a substantive due process violation. It is noted that in
+Temkin,
+the Fourth Circuit adopted a "shocks the conscience” standard for police misconduct in vehicle chases.
+Temkin,
+945 F.2d at 723
+. The
+Temkin
+Court, however, seemed to confine the "shock the conscience” standard to the particular facts that Court confronted.
+Id.
+Nonetheless, some authority exists that suggests that this might be the appropriate standard of care even outside "police chase” situations.
+See e.g. Weller v. Department of Social Servs.,
+901 F.2d 387
+(4th Cir. 1990);
+Smith
+v.
+Bernier,
+701 F.Supp. 1171
+(D.Md.1988). The fact that a "special relationship” may have existed between Plaintiff and Defendants, however, may alter this
+*392
+standard of care.
+See Wood v. Ostrander,
+879 F.2d at 583
+;
+see also Temkin,
+945 F.2d at 722-23
+(Court lists standards of care adopted by other circuits and in other situations). Moreover, in the context of the instant motion to dismiss, and drawing all inferences in Plaintiffs' favor, Plaintiffs may well be able to demonstrate that Defendants conduct "shocked the conscience" of the Court or indeed was intentional.
+9
+.It may be significant that during the time of this attack, Pittman quite possibly remained in custody for technical purposes.
+See Jones v. Cunningham,
+371 U.S. 236
+, 240,
+83 S.Ct. 373
+, 375-76,
+9 L.Ed.2d 285
+(1963) (for purposes of applying
+habeas corpus
+custody construed as “restraints on a man's liberty, restraints not shared by the public generally’'). Pittman was at least on probation when he attacked Carol Pinder and later murdered the children.
+See Tinder v. Paula,
+725 F.2d 801
+(1st Cir.1984).
+Plaintiff does not argue that in her opposition that Pittman was still in custody. An examination of the Complaint, however, reveals that less than ten months before the incident in this case Pittman had set fire to the Pinder home and was convicted of arson. Complaint at ¶ 8. Pittman was sentenced to eighteen months in prison, with twelve months suspended, to be followed by supervised probation for three years.
+Id.
+As such, Pittman may have been in custody at the exact time of his murder of the children.
+It should be noted that custody of the attacker is but one of the
+Jensen
+factors. It is doubtful that custody
+alone
+could ever trigger a special relationship, since under
+Jensen
+there must also be some indication that the state knew that a particular individual was in danger and had given assurances to that individual. Moreover, under
+DeShaney,
+there must be some showing that state acts increased or enhanced the danger. 489 U.S. at 200-01, 109 S.Ct. at 1005-06. The fact that Pittman was in custody at the time of the incident simply draws a closer nexus between the Defendants and their ability to influence the events through their control of Pittman.
+10
+. The
+Williamson
+Court found
+Swader
+and
+Jensen
+’s analysis completely distinguishable from the situation it confronted.
+Id.
+at 1254. The
+Williamson
+plaintiff had not succumbed to the recognized risk to informants, had volunteered for the danger facing an informant, and although in custody just prior to taking his life, was not cut off from all means of help.
+Id.
+at 1253. In the instant case, the Pinders did not volunteer for the risks they faced nor did they volunteer for the Defendants’ enhancement of the risk to them. Moreover, especially with respect to the Pinder children, there is no showing that they had access to any means of help.
+Cf. Id.
+at 1253.
+11
+. Indeed, the
+Jensen
+Court noted that the factors it identified did not comprise a comprehensive definition of a special relationship.
+747 F.2d at 194, n. 11
+. Instead, the three factors constituted "some of the factors that should be included in a 'special relationship.’ ”
+Id.
+If a plaintiff were in custody, these
+Jensen
+factors might very well be all that is necessary to establish a special relationship, and therefore, an affirmative duty to act.
+12
+. The Court’s examination of § 1983 liability in the context of general tort liability is not an anomaly.
+See Monroe v. Pape,
+365 U.S. 167
+, 187,
+81 S.Ct. 473
+, 473, 484,
+5 L.Ed.2d 492
+(1961) (§ 1983 “liability should be read against the background of tort liability that makes a man responsible for the natural consequences of his actions”). Even the term "special relationship” has its origin in tort law.
+In stating this, the Court emphasizes that this reference to tort liability is only for purposes of analogy. Subsequent decisions have cautioned against making § 1983 liability under the Fourteenth Amendment “a font of tort law to be superimposed upon whatever systems may already be administered by the State.”
+Paul v. Davis,
+424 U.S. 693
+, 701,
+96 S.Ct. 1155
+, 1160,
+47 L.Ed.2d 405
+(1976);
+see also Daniels v. Williams,
+474 U.S. 327
+, 332,
+106 S.Ct. 662
+, 665,
+88 L.Ed.2d 662
+(1986) (the Constitution "does not purport to supplant traditional tort law in laying down rules of conduct to regulate liability for injuries that attend living together in society.”).
+13
+. While not raised by Defendants, Plaintiff has not sufficiently shown the presence of a causal link between the alleged undercharging and the injury; Plaintiff has not established how charging Pittman with more serious offenses would have prevented his release.
+See Martinez,
+444 U.S. at 277
+, 100 S.Ct. at 553 (no liability where causation between the alleged constitutional violation and the injury not established).
+14
+. In
+Cornelius,
+the Ninth Circuit held that a plaintiff’s substantive due process rights were violated in a noncustodial setting, in large part because defendants had custody over her attackers.
+Cornelius,
+880 F.2d at 348
+;
+see also Brown,
+922
+F.2d at 1116
+(Third Circuit held that if victim’s attacker had been in custody that might have triggered the state defendant's constitutional duty to act). In the instant case, Pittman, although not in physical custody when he when he attacked Carol Pinder and later murdered the children, was at least on probation.
+See Jones,
+371 U.S. at 240
+,
+83 S.Ct. at 375-76
+;
+Tinder,
+725 F.2d at 801
+(probation satisfies "custody” for purposes of
+habeas corpus
+).
+15
+.
+See Freeman
+v.
+Ferguson,
+911 F.2d at 52
+(8th Cir.1990);
+Gibson v. City of Chicago,
+910 F.2d 1510
+(7th Cir.1990);
+Ross v. United States,
+910 F.2d 1422
+(7th Cir.1990);
+Cornelius v. Town of Highland Lake,
+880 F.2d 348
+(11th Cir.1989)
+Wood
+v.
+Ostrander,
+879 F.2d 583
+, 589-90 (9th Cir.1989)
+cert. denied,
+498 U.S. 938
+,
+111 S.Ct. 341
+,
+112 L.Ed.2d 305
+(1990);
+Gregory v. City of Rogers, Ark.,
+921 F.2d 750
+(8th Cir.1990);
+Swader v. Va.,
+743 F.Supp. 434
+, 440-42 (E.D.Va.1990);
+G-69 v. Degnan,
+745 F.Supp. 254
+(D.N.J. 1990). This Court notes that even where
+post-DeShaney
+courts found no duty to act, the custodial circumstances of the plaintiff were not dispositive.
+See e.g., Brown v. Grabowski,
+922 F.2d 1097
+(3rd Cir.1990);
+Salas v. Carpenter,
+980 F.2d 299
+(5th Cir.1992). As such, courts in a majority of circuits have not read
+DeShaney
+as foreclosing the right's existence in a noncustodial setting.
+16
+. Subsequent court opinions have amplified the contours of this right.
+See e.g., Piechowicz v. U.S.,
+685 F.Supp. 486
+(D.Md.1988)
+aff'd on other grounds
+885 F.2d 1207
+(4th Cir.1989);
+Turner v. City of North Carolina,
+675 F.Supp. 314
+, 319 (D.S.C.1987). Even though these decisions denied relief, based in part on defendants’ qualified immunity, the decisions identified the right and applied
+Jensen.
+Id.
+17
+. Examining the law in other circuits to determine whether a constitutional right as applied to the circumstances an officer confront is "clearly established” is not unusual.
+See e.g., Slattery v. Rizzo,
+939 F.2d 213
+, 215 (4th Cir.1991) (court looks to other circuits to determine whether ex-ccssivc use of forces claims are entitled to a qualified immunity defense);
+McConnell v. Adams,
+829 F.2d 1319
+, 1325 (4th Cir.1987) (Fourth Circuit examines the law in other circuits to find that qualified immunity applied in a defendant's circumstances).
+18
+. Defendants' counsel argued that since
+DeShaney
+was decided three weeks before the incident occurred, the Defendants were uncertain about the state of the law. Despite counsel's argument, it is doubtful that the Supreme Court decision had any actual affect on Defendants’ conduct.
+See Turner v. City of North Carolina,
+675 F.Supp. 314
+, 319 (D.S.C.1987) (the court found that defendants had insufficient notice of the substantive due process right’s existence, as only thirty-four days elapsed between the incident and the
+Jensen
+decision establishing special relationship factors for determining when the government may incur a duty to act).
+19
+. Defendants' qualified immunity argument on Count I only appears to apply to Officer Johnson. Qualified immunity does not extend to municipalities.
+See Owen v. City of Independence,
+445 U.S. 622
+, 657,
+100 S.Ct. 1398
+, 1418,
+63 L.Ed.2d 673
+(1980) ("municipalities have no immunity from damages liability flowing from their constitutional violations.") As such, under the facts alleged the City of Cambridge may be liable for its policy or custom of discriminating against victims of domestic violence.

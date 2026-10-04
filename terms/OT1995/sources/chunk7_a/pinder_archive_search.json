@@ -1,0 +1,51 @@
+[
+  {
+    "query": "collection:us-supreme-court AND (title:Pinder)",
+    "result": {
+      "responseHeader": {
+        "status": 0,
+        "QTime": 16,
+        "params": {
+          "query": "collection:us-supreme-court AND title:Pinder",
+          "qin": "collection:us-supreme-court AND (title:Pinder)",
+          "fields": "identifier,title",
+          "wt": "json",
+          "rows": 50,
+          "start": 0
+        }
+      },
+      "response": {
+        "numFound": 1,
+        "start": 0,
+        "docs": [
+          {
+            "identifier": "micro_IA40386019_1070",
+            "title": "Pinder v. United States, 510 U.S. 828 (1993) (No. 92-2053)"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "query": "collection:us-supreme-court AND (\"93-2125\")",
+    "result": {
+      "responseHeader": {
+        "status": 0,
+        "QTime": 50,
+        "params": {
+          "query": "collection:us-supreme-court AND (text:&quot;93-2125&quot; OR text:&quot;93-2125&quot; OR text__reviews:&quot;93-2125&quot;)",
+          "qin": "collection:us-supreme-court AND (&quot;93-2125&quot;)",
+          "fields": "identifier,title",
+          "wt": "json",
+          "rows": 50,
+          "start": 0
+        }
+      },
+      "response": {
+        "numFound": 0,
+        "start": 0,
+        "docs": []
+      }
+    }
+  }
+]
