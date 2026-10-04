@@ -1,0 +1,24 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 203,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:&quot;Planned Parenthood&quot; OR text:&quot;Planned Parenthood&quot; OR text__reviews:&quot;Planned Parenthood&quot;) AND (text:Miller OR text:Miller OR text__reviews:Miller))",
+      "qin": "collection:us-supreme-court AND (&quot;Planned Parenthood&quot; AND &quot;Miller&quot;)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 50,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 1,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40386004_0802",
+        "title": "Miller v. Planned Parenthood of Greater Iowa, Inc., 530 U.S. 1274 (2000) (No. 99-1112)"
+      }
+    ]
+  }
+}
