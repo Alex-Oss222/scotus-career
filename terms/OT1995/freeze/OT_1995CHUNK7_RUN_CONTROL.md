@@ -24,7 +24,7 @@ Source preparation is evidence support, not a Court action. Source-context expos
 
 ## Stage receipts
 
-No Chunk 7 Court disposition has yet been entered. Completed handoffs:
+Henderson is the first completed Chunk 7 Court event, committed at b34c162; its public render is in preparation. Casarotto has completed independent modeling and reconciliation and is in assembly. The remaining ten events have source preparation in progress or complete and await their actual chronological law refresh. Completed handoffs:
 
 | Stage | Commit |
 |---|---|
@@ -38,6 +38,15 @@ No Chunk 7 Court disposition has yet been entered. Completed handoffs:
 | Exact earlier Allied-Bruce Public Projection for Casarotto's own-Justice source fork | 8c54d51 |
 | June3/June10 source preparation | 3b00e30 |
 | Clean validation of additional published Allied-Bruce positions | e0ddd3b |
+| OCC integration into the four current-term workspace files | 1767220 |
+| Henderson reconciliation | db06985 |
+| Sanitized June3 source handoffs | cf21261 |
+| Independent Casarotto commitments | b2a23b6 |
+| Sanitized June10 source handoffs | b3959ea |
+| Henderson completed Record and exact public reading copy | b34c162 |
+| Bounded operative Loving provisions, JA132–151 | 0fd6c5e |
+| Casarotto reconciliation | 5143693 |
+| Additional bounded June10 source extracts | 994a3b0 |
 
 The OCC rule is effective April 1, 1996; all seventeen completed Court events on/after that date through May20 were reviewed for material effects and none was found. This admission increases sources to eight, total Records to81, while Court events remain73. It does not alter the preserved same-day baseline's substantive civil-service or arbitration rules; future relevant slices must include its exact terms. No completed adjudication or immutable earlier handoff is rewritten.
 
@@ -49,3 +58,7 @@ Each source context supplies mechanical neutral copies and sanitized objective s
 
 The fresh Henderson model accidentally received the sanitized Casarotto fact portion of an explicitly linked first-pair source aggregate before Casarotto's separate validation handoff, due an unmatched extraction delimiter. It received no excluded outcome, comparator, Stone or private material and did not model Casarotto then. This limited receipt is disclosed in its frozen commitment. Casarotto modeling starts only after a148407; its additional actual earlier published-law source was separately validated before commitment. No false claim of receiving only one matter is made.
 
+
+## Completed-event control
+
+Henderson is a seven-to-two reversal and remand, with Scalia writing for seven and Thomas dissenting with O'Connor. Chief assignment62 is Scalia's third. The Record preserves the particular procedural supersession ground, direct congressional Rule4 enactment, qualified transition and ordinary remand. Mechanical kernel/public-identity/links/length checks pass. The initial public render fragment has been reviewed against its generated input; canonical chunk rendering awaits the remaining events. No earlier completed event is changed.
