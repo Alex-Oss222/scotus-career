@@ -1,0 +1,73 @@
+[
+  {
+    "url": "https://www.courtlistener.com/?q=%22Doyle%22+%22Williams%22&type=o&filed_before=1996-04-10&order_by=dateFiled+desc",
+    "purpose": "Bounded locator search for lower federal Williams proceeding; cutoff 1996-04-09.",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://openjurist.org/",
+    "purpose": "Read search form for a bounded lower-opinion locator request.",
+    "status": 200,
+    "bytes": 314955,
+    "final_url": "https://openjurist.org/"
+  },
+  {
+    "url": "https://www.courtlistener.com/api/rest/v3/search/?q=%22Doyle%22%20%22Williams%22&type=o&filed_before=1996-04-10&order_by=dateFiled%20desc",
+    "purpose": "Alternate public search interface following web-interface HTTP 403.",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://openjurist.org/search?q=Williams%20Delo",
+    "purpose": "Single name/caption locator query using the search form actually advertised by OpenJurist; any retrieved opinion will be limited to <=1996-04-09.",
+    "status": 200,
+    "bytes": 347392,
+    "final_url": "https://openjurist.org/search/williams-delo"
+  },
+  {
+    "url": "https://openjurist.org/49/f3d/442/williams-v-delo",
+    "purpose": "Inspect specific lower-opinion locator surfaced by bounded search; identify caption and date first.",
+    "status": 200,
+    "bytes": 399989,
+    "final_url": "https://openjurist.org/49/f3d/442/williams-v-delo"
+  },
+  {
+    "url": "https://openjurist.org/82/f3d/781/williams-v-k-delo",
+    "purpose": "Inspect specific lower-opinion locator surfaced by bounded search; identify caption and date first.",
+    "status": 200,
+    "bytes": 364673,
+    "final_url": "https://openjurist.org/82/f3d/781/williams-v-k-delo"
+  },
+  {
+    "url": "https://openjurist.org/928/f2d/284/williams-v-k-delo",
+    "purpose": "Inspect specific lower-opinion locator surfaced by bounded search; identify caption and date first.",
+    "status": 200,
+    "bytes": 346610,
+    "final_url": "https://openjurist.org/928/f2d/284/williams-v-k-delo"
+  },
+  {
+    "url": "https://static.case.law/f3d/82/CasesMetadata.json",
+    "purpose": "Cross-check specifically surfaced 82 F.3d 781 and discover original reporter scan locator.",
+    "status": 200,
+    "bytes": 2691630,
+    "final_url": "https://static.case.law/f3d/82/CasesMetadata.json"
+  },
+  {
+    "url": "https://static.case.law/f3d/82/html/0781-01.html",
+    "purpose": "Cross-check original reported text of specific surfaced follow-on opinion; retrospective facts only.",
+    "status": 200,
+    "bytes": 12466,
+    "final_url": "https://static.case.law/f3d/82/html/0781-01.html"
+  },
+  {
+    "url": "https://static.case.law/f3d/82/pdfs/0781-01.pdf",
+    "purpose": "Original reporter page images for same specific opinion.",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://static.case.law/f2d/912/html/0924-01.html",
+    "purpose": "Specific pre-event second-petition opinion cited in 82 F.3d 781 to corroborate earlier record contents.",
+    "status": 200,
+    "bytes": 133432,
+    "final_url": "https://static.case.law/f2d/912/html/0924-01.html"
+  }
+]
