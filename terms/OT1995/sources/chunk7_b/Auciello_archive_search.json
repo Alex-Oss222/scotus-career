@@ -1,0 +1,24 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 260,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:&quot;95-668&quot; OR text:&quot;95-668&quot; OR text__reviews:&quot;95-668&quot;) OR title:Auciello)",
+      "qin": "collection:us-supreme-court AND (&quot;95-668&quot; OR title:Auciello)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 30,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 1,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40385013_0661",
+        "title": "Auciello Iron Works, Inc. v. NLRB, 517 U.S. 781 (1996) (No. 95-668)"
+      }
+    ]
+  }
+}

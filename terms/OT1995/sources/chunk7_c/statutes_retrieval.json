@@ -1,0 +1,12 @@
+[
+  [
+    "21usc881_1994",
+    "Command '['pdftotext', '-layout', 'terms/OT1995/sources/chunk7_c/21usc881_1994.pdf', 'terms/OT1995/sources/chunk7_c/21usc881_1994.txt']' returned non-zero exit status 1.",
+    "https://www.govinfo.gov/content/pkg/USCODE-1994-title21/pdf/USCODE-1994-title21-chap13-subchapI-partE-sec881.pdf"
+  ],
+  [
+    "19usc1615_1994",
+    "Command '['pdftotext', '-layout', 'terms/OT1995/sources/chunk7_c/19usc1615_1994.pdf', 'terms/OT1995/sources/chunk7_c/19usc1615_1994.txt']' returned non-zero exit status 1.",
+    "https://www.govinfo.gov/content/pkg/USCODE-1994-title19/pdf/USCODE-1994-title19-chap4-subtitleIII-partV-sec1615.pdf"
+  ]
+]

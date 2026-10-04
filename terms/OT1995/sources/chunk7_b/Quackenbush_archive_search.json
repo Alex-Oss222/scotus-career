@@ -1,0 +1,48 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 105,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:&quot;95-244&quot; OR text:&quot;95-244&quot; OR text__reviews:&quot;95-244&quot;) OR title:Quackenbush)",
+      "qin": "collection:us-supreme-court AND (&quot;95-244&quot; OR title:Quackenbush)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 30,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 7,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40386006_1739",
+        "title": "Congress of California Seniors v. Quackenbush, 525 U.S. 826 (1998) (No. 97-2058)"
+      },
+      {
+        "identifier": "micro_IA40386018_0438",
+        "title": "Quackenbush v. United States, 177 U.S. 20 (1900) (No. 145)"
+      },
+      {
+        "identifier": "per_scotus_1885_145",
+        "title": "The Town of Mahomet, Plaintiff in Error. vs. John M. Quackenbush. 1885: Vol 145"
+      },
+      {
+        "identifier": "micro_IA40385011_0625",
+        "title": "Johnson City Central School District v. Quackenbush, 465 U.S. 1071 (1984) (No. 83-835)"
+      },
+      {
+        "identifier": "micro_IA40386012_1045",
+        "title": "Century-National National Insurance Insurance Co Co. v. Quackenbush (No. 94-1120)"
+      },
+      {
+        "identifier": "micro_IA40386009_0787",
+        "title": "Martin v. Quackenbush, 534 U.S. 1115 (2002) (No. 01-761)"
+      },
+      {
+        "identifier": "micro_IA40385013_0643",
+        "title": "Quackenbush v. Allstate Ins. Co., 517 U.S. 706 (1996) (No. 95-244)"
+      }
+    ]
+  }
+}

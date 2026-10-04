@@ -1,0 +1,1800 @@
+Petitioner, 
+
+
+Crrrmpanx (SourH DAKoTA), N.A., 
+Respondent. 
+
+
+On Writ of Certiorari to the 
+California Supreme Court 
+
+
+BRIEF OF THE STATES OF 
+COLORADO, DELAWARE, GEORGIA, 
+ILLINOIS, MONTANA, NEBRASKA, 
+
+NEVADA, NEW YORK, OHIO, SOUTH DAKOTA, AND 
+UTAH, THE COMMONWEALTHS OF PENNSYLVANIA 
+AND VIRGINIA, THE ARIZONA STATE BANKING 
+canines AND THE LOUISIANA OFFICE OF 
+FINANCIAL INSTITUTIONS, AS AMICI CURIAE 
+IN SUPPORT OF RESPONDENT 
+
+
+Betty D. MONTGOMERY 
+
+Ohio Attorney General 
+Jerrrey S. SUTTON * 
+
+State Solicitor 
+DIANE R. RICHARDS 
+
+Chief, Chief Counsel Section 
+State Office Tower 
+30 East Broad Street 
+Columbus, OH 43215-8428 
+(614) 466-8980 
+
+
+BEST AVAILABLE COPY 
+
+
+TABLE OF CONTENTS 
+
+
+STATEMENT OF INTEREST OF AMICI CURIAE 
+
+
+SUMMARY OF ARGUMENT 
+
+
+ARGUMENT 
+
+
+SECTION 85 RECOGNIZES THE CENTRAL- 
+ITY OF STATE LAW IN BANKING REGULA- 
+TION .. 
+
+
+I. 
+
+
+Il. 
+
+
+ITl. 
+
+
+A. 
+
+
+B. 
+
+
+Section 85 Provides A Uniform National 
+Choice Of Law Rule For Interstate Loans 
+
+
+Petitioner’s Construction Of The Scope Of 
+The Choice Of Law Rule In Section 85 Would 
+Lead To Uncertainty And Confusion In The 
+Interstate Loan Market ... 
+
+
+UNDER SETTLED RULES OF STATUTORY 
+CONSTRUCTION, THE JUDGMENT OF THE 
+CALIFORNIA SUPREME COURT SHOULD 
+BE AFFIRMED 
+
+
+A. 
+
+
+Deference To The OCC’s Interpretation Of 
+Section 85 Is Appropriate And Essential To 
+Ensuring The Safety And Soundness Of 
+Banks Within Our Borders . 
+
+
+The State Court’s Construction Of Section 85 
+Furthers Congress’ Purposes In adil The 
+National Bank Act ......... ee 
+
+
+’. The California Supreme Court’s Construction 
+
+
+Of Section 85 Is Consistent With The Eco- 
+nomics Of Credit Pricing And Thus Consti- 
+tutes A Common Sense Approach To Apply- 
+ing The Statute ............. = 
+
+
+SECTION 85 PROMOTES BOTH THE INTER- 
+ESTS OF CONSUMERS AND THE ABILITY 
+OF EACH STATE TO PROTECT ITS RESI- 
+DENTS AS IT SEES FIT 
+
+
+CONCLUSION 
+
+
+l 
+
+
+on 
+
+
+ul 
+
+
+10 
+
+
+14 
+
+
+20 
+
+
+23 
+
+
+29 
+
+
+ii 
+TABLE OF AUTHORITIES 
+
+
+Cases Page 
+
+
+American Timber & Trading Co. v. First Nat'l 
+Bank, 690 F.2d 781 (9th Cir. 1982) ...................... 17 
+
+Babcock Vv. Jackaom, \91 N.E.2d 279 (N.Y. 1963) .... 12 
+
+Cades Vv. H & R Stlovk, Inc., 48 F.3d 869 (4th Cir. 
+
+
+1994), cert. denied, 115 S. Ct. 2247 (1995) —....... 17 
+Chevron U.S.A. Ine. Vv. Natural Resources Defense 
+
+Council, Inc., 467 U.S. 887 (1984) 16 
+Choate, Hall & Stewart v. SCA Servs., Inc., 392 
+
+N.E.2d 1045 (Mass. 1979) ........................--...-..-. 12 
+Cippollone v. Liggett Group, Inc., 505 U.S. 504 
+
+Se as 10 
+Collins Radio Co. v. Bell, 623 P.2d 1089 (Okla. Ct. 
+
+Bat TER cccnntimmantimintnigtiie 13 
+Commercial Credit Equip. Corp. v. West, 677 
+
+S.W.2d 669 (Tex. Ct. App. 1984) .................... 13 
+Commercial Credit Plan, Inc. Vv. Parker, 263 S.E.2d 
+
+QU, IEEE SE 18, 27 
+Connecticut Nat'l Bank v. Kommit, 577 N.E.2d 639 
+
+FD yyy 13 
+D.P. Technology Corp. Vv. Sherwood Tool, Inc., 751 
+
+F. Supp. 1088 (D. Conn. 1990) ......................... 13 
+Dassault Falcon Jet Corp. Vv. Oberflez, Inc., 909 
+
+F. Supp. 345 (M.D.N.C. 1996)................................ 18 
+Duncan Vv. Cesena Aircraft Co., 665 S.W.2d 414 
+
+. oo a 12 
+Erie R.R. v. Tompkins, 304 U.S. 64 (1988) ............ 14 
+Finance Am. Corp. Vv. Moyler, 494 A.2d 926 (D.C. 
+
+ee ee ee 13 
+First Nat'l Bank Vv. Nowlin, 509 F.2d 872 (8th Cir. 
+
+ee a ee 22 
+Fisher Vv. First Nat'l Bank, 548 F.2d 255 (8th Cir 
+
+| 17 
+
+
+Gibbons Vv. Ogden, 22 U.S. (9 Wheat.) 1 (1824)... 9 
+Greenwood Trust Co. V. Massachusetts, 971 F.2d 
+818 (ist Cir. 1992), cert. denied, 506 U.S. 1052 
+
+
+> _ se eee poe 17 
+Gregory V. Ashcroft, 501 U.S. 452 (1991) 10 
+Lilienthal Vv. Kaufman, 395 P.2d 543 (Or. 1964) ...... 12 
+
+
+iii 
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+Marquette Nat'l Bank v. First of Omaha Serv. 
+Corp., 489 U.S. 299 (1978) ccc. passim 
+Maryland Vv. Louisiana, 451 U.S. 725 (1981)... 9 
+McBride Vv. Minstar, Inc., 662 A.2d 592 (N.J. 
+Super. Ct.), aff'd sub nom. McBride v. Raichle 
+Molitor, USA, 662 A.2d 567 (N.J. Super. Ct. 
+
+
+SO Pe 13, 27 
+Nationsbank of North Carolina, N.A. Vv. Variable 
+
+Annuity Life Ins. Co., 115 8. Ct. 810 (1995) 16 
+Northway Lanes Vv. Hackley Union Nat'l Bank & 
+
+Trust Co., 464 F.2d 855 (6th Cir. 1972)... 17 
+OFS Equities, Inc. v. Conde, 421 So. 2d 651 (Fila. 
+
+§ eS Fee a a 13 
+Reich v. Purcell, 482 P.2d 727 (Cal. 1967)... 12 
+TVA V. Hill, 487 U.S. 158 (1978) ... 29 
+Train V. Natural Resources Defense Council, Ine., 
+
+— 8 8 Se es ee 19 
+Walker Vv. Associates Fin. Serve. Corp., 588 S.W.2d 
+
+EE ee 13, 27 
+Zenith Radio Corp. Vv. United States, 487 U.S. 443 
+
+(1978) .......... SE Se ae ee 19 
+
+Constitutional and Statutory Provisions 
+U.S. Const. art. IV, § 1... ical head ecem 7 13 
+REE a 16 
+eee ee 16 
+REE eee eae eae 16 
+ee 8,9 
+EE See ee eee ee 9 
+ee passim 
+EE ee 8 
+EE one ~ 
+§ 481... - - = 16 
+OC a 5 
+Ee 5 
+
+
+Depository Institutions Deveguiaticn and Mone- 
+tary Control Act of 1980 (“DIDA”), 12 U.S.C. 
+§ 1831d asthacietianinemtiiiees: 5 
+
+
+iv 
+TABLE OF AUTHORITIES—Continued 
+
+
+The Federal Truth In Lending Act, 15 U.S.C. 
+
+I A OO. sacnstitiniincnashinatemtinttnaldtnelaitidiining 
+Cal. Fin. Code § 4001 (a) (1) (C) 0... 
+Colo. Rev. Stat. § G-B-B0G .n..............--nceeeccevesceesceeceeess 
+ei cirentatitiitenectininnentiitigiies 
+Kan. Stat. Ann. § 16a-2-502(2) ......... oe 
+Me. Rev. Stat. tit. 9-A, § 2-501(1) (G) —.............. 
+Mass. Gen. L. ch. 140, § 114B ..0 
+EE EE 
+N.J. Stat. Ann. § 17:16C-42(a) ._... pnpepletngiatamaiiiretiinis 
+N.Y. Banking Law § 108(5) (e) —........ sedinnaitintartiiitad ies 
+N.Y. Pers. Prop. Law § 413(5) (b) ............................. 
+Ohio Rev. Code § 1107.262(A) en 
+Okla. Stat. tit. 14A, § 3-208 (5) 
+Pa. Stat. Ann. tit. 7, § 8322(d) (v) ........................... 
+A ID dilittnrecrittinitenennitien 
+RE en 
+Utah Code § TO0C-2-102 (1) 2... -ccnncnencecceeeceneeeeeee 
+Va. Code Ann. § 6.1-830.78.A.1 —...........-.---------------- 
+Wis. Stat. § 422.202(2m) (a) ................ eciteninnatiiiei 
+
+
+Regulatory Authorities 
+
+61 Fed. Reg. 4849 (Feb. 9, 1996) (to be codified 
+A EE 17 
+
+Letter of Harry Quillian, Acting General Counsel, 
+FHLBB (June 27, 1986), attached to Letter of 
+Karen Solomon, Deputy Chief Counsel, Office of 
+Thrift Supervision (Sept. 29, 1994) in Current 
+Developments, Fed. Banking L. Rep. (CCH) 
+.  f  ¢ | Fees cece 17 
+
+Advisory Op. No. FDIC-92-47, [1992-98 Transfer 
+Binder] Fed. Banking L. Rep. (CCH) % 81,534 
+gg SD: ES a 17 
+
+Letter of William P. Bowden, Jr., OCC Chief Coun- 
+sel, 1992 WL 136390 (OCC) (Feb. 4, 1992) ....... 17 
+
+OCC Interpretive Ltr. No. 452, [1988-89 Transfer 
+Binder] Fed. Banking L. Rep. (CCH) cna 
+A S( yy 17 
+
+
+TTTITTICTTITT TTT Trt . 
+
+
+v 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+Letter from Richard V. Fitzgerald, Director, OCC 
+Legal Advisory Services Division (Nov. 24, 
+RS dn ee Re a a Sa 17 
+
+
+Other Authorities 
+
+
+William F. Baxter, Section 85 of the National 
+Bank Act and Consumer Welfare, 1995 Utah L. 
+EE a Se passim 
+
+Christopher C. DeMuth, The Case Against Credit 
+Card Interest Regulation, 3 Yale J. on Reg. 201 
+
+
+CE Se passim 
+William C. Dunkeleberg, Litigation Concerning 
+
+Late Charges is Major Threat to Credit Card 
+
+Business, Banking Pol’y Rep. (Prentice Hall), 
+
+RE ES LE 20, 25 
+David S. Evans & Richard L. Schmalensee, The 
+
+Economics of the Payment Card Industry 
+
+
+i Re a A I 23, 25, 29 
+John Jay Knox, A History of Banking in the United 
+
+States (1908, 1969 reprint) — 7 
+Restatement (Second) of Conflict of Laws §§ 188, 
+
+RE ER aS ERE aS 6 
+Emmanuel N. Roussakis, Commercial Banking in 
+
+an Era of Deregulation (2d ed. 1989) . 5 
+Eugene F. Scoles & Peter Hay, Conflict of Laws 
+
+Ee 12 
+Kenneth E. Scott, The Dual Banking System, 30 
+
+Stan. L. Rev. 1 (1977) .. 5 
+2B Norman J. Singer, Sutherland on Statutes and 
+
+Statutory Construction § 49.07 (5th ed. 1992). 19 
+Cass R. Sunstein, Law and Administration After 
+
+Chevron, 90 Colum. L. Rev. 2071 (1990) ........... 16 
+
+
+STATEMENT OF INTEREST OF AMICI CURIAE 
+
+
+Amici curiae, the States of Colorado, Delaware, Georgia, 
+Illinois, Montana, Nebraska, Nevada, New York, Ohio, 
+South Dakota, and Utah, and the Commonwealths of 
+Pennsylvania and Virginia, through their respective At- 
+torneys General, the Arizona State Banking Department, 
+through its Superintendent, and the State of Louisiana 
+Office of Financial Institutions, through its Commis- 
+sioner (the “States”), support the position of respond- 
+ent Citibank (South Dakota), N.A. (“Citibank”) in urg- 
+ing aflirmance of the judgment of the California Supreme 
+Court.’ The States believe that the California Supreme 
+Court correctly held that the term “interest” in section 85 
+of the National Bank Act, 12 U.S.C. § 85, includes late 
+payment fees charged by national banks on credit card 
+balances and other loans. The decision in this case will 
+necessarily address at least two interests of great impor- 
+tance to the States and our residents: consumer welfare 
+and the safety and soundness of banks. 
+
+
+The States have an important interest in promoting 
+consumer welfare. Our consumers depend on credit 
+cards every day, and they benefit from policies that pro- 
+mote broad access to credit, low credit card costs, and 
+the ability to choose freely from the broadest possible 
+range of different packages of rates and charges that are 
+offered by credit card issuers. 
+
+
+The States also have an important interest in promot- 
+ing the safety and soundness of banks located within our 
+borders, and in ensuring predictability in the banking 
+industry. Events of recent years have demonstrated that 
+when banks sustain large and unexpected losses (such as 
+those that they potentially face in this lawsuit and similar 
+suits across the country), the well-being of the general 
+
+
+! Pursuant to Court Rule 37.3, this brief is filed with the consent 
+of the parties. Letters of consent have been filed with the Clerk's 
+Office. 
+
+
+2 
+
+
+economy may suffer, to the detriment of all of our 
+residents. 
+
+
+Affirmance of the judgment of the California Supreme 
+Court would further the interests of our consumers and 
+would also protect the safety and soundness of banks 
+in our States. Reversal, however, would have precisely 
+the opposite, profound effects. Consumers in our States 
+and elsewhere would be significantly injured by decreased 
+access to credit, higher costs of credit, and fewer options 
+in the credit card market. In addition, banks in our 
+States and throughout the country would be exposed to 
+the potential of staggering damage awards that could 
+threaten the safety and soundness of the banking system 
+and, with it, the health of the entire economy. Reversal 
+would also upset the settled expectations that support 
+the smooth functioning of the national banking system 
+that has served the country well for decades. 
+
+
+The States endorse the arguments made by respondent 
+Citibank. Those arguments will not be repeated here. 
+Rather, this brief focuses. on the practical significance of 
+this case to the States, to our consumers, and to the banks 
+iocated within our borders. The States believe that our 
+distinct perspective on the issues presented will materially 
+assist the Court in resolving this case properly. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+This is not, as petitioner and her amici suggest, a con- 
+ventional preemption case. Section 85 effectively oper- 
+ates in the context of this case as a choice of law rule. 
+In interstate credit card transactions, there is always an 
+inherent conflict of laws problem. The home state of the 
+bank, the state of the borrower’s residence, and even the 
+state in which the purchase or cash advance is made, each 
+has a connection with, and potentially an interest in, the 
+proper lega! standards that govern the transaction. Sec- 
+tion 85 resolves one source of conflict by providing, as 
+a matter of federal law, a clear and uniform rule that the 
+
+
+3 
+
+
+propriety of the “interest” charged by a bank is deter- 
+mined by the substantive law of the bank’s home state. 
+
+
+Consequently, although this case has enormous prac- 
+tical significance to all segments of the economy of our 
+States, at bottom it presents nothing more than a straight- 
+forward quesion of statutory interpretation of the meaning 
+of the term “interest” in section 85 of the National Bank 
+Act. Based upon the widespread use of that term in 
+nineteenth century judicial opinions and today, it is clear 
+that “interest,” as used by Congress in 1864, includes 
+late charges. However, even assuming for the sake of 
+argument that the term, at least viewed in isolation, were 
+potentially ambiguous, the construction of section 85 
+reached by the California Supreme Court (and the vast 
+majority of other courts) should nonetheless be affirmed. 
+Under settled rules of statutory construction, this Court 
+should look to whether the Office of the Comptroller of 
+the Currency (“OCC”)—the federal agency charged with 
+administering the National Bank Act—has issued an 
+authoritative interpretation of the meaning of this lan- 
+guage. For years, the OCC has in letter rulings expressed 
+the view that the term “interest” in section 85 includes 
+late fees. More recently, the OCC promulgated a final 
+rule, following a notice and comment period, formalizing 
+its interpretation of section 85. The Court should defer 
+to this reasonable and long-standing construction of the 
+relevant language in section 85. 
+
+
+There are particularly strong reasons for according def- 
+erence to the OCC’s interpretation of the term “interest” 
+in section 85. Bank regulators in our States rely upon 
+and obtain substantial guidance from the interpretations of 
+the National Bank Act and other federal banking laws 
+issued by the OCC, the FDIC, and other federal regula- 
+tory agencies. Moreover, in reliance upon the OCC’s 
+publicly stated position, banks in our States have loaned 
+literally hundreds of billions of dollars to consumers across 
+the country. In interpreting a potentially ambiguous stat- 
+
+
+4 
+
+
+ute, great weight should be accorded to those reliance 
+interests. Given the amounts at stake in this case, accept- 
+ing petitioner's argument would have a potentially de- 
+vastating effect on banks in our States. That harm to the 
+banking industry could, in turn, have a profoundly harm- 
+ful effect on the entire economy of each of our States, 
+on our businesses, aud on our consumers. 
+
+
+In addition, construing “interest” in section 85 to in- 
+clude late fees promotes consumer welfare. Consumers 
+benefit from broad access to credit, lower credit costs, and 
+above all the ability to choose from the broadest possible 
+range of competing credit cards in the marketplace. The 
+conclusion reached by the California Supreme Court fur- 
+thers those interests. Affirmance would enable consumers 
+in our States to continue to choose from a broad array 
+of credit cards, some of which will be offered by banks 
+in states with little regulation and others of which will 
+be offered by banks in states with greater regulation. 
+The Federal Truth In Lending Act, 15 U.S.C. § 1601 
+et seq., aS well as state disclosure laws and antifraud 
+protections, ensure that consumers throughout the country 
+will have access to the competitive information necessary 
+for them to make informed choices as to what type of 
+credit arrangement best suits their needs. 
+
+
+Finally, affirmance of the judgment of the California 
+Supreme Court would protect the traditional prerogative 
+of the States to set the terms upon which banks located 
+within our borders may lend money. In stark contrast, 
+our States have comparatively little interest in regulating 
+the terms of a transaction in which our residents vol- 
+untarily have made the choice to borrow money from 
+a national bank in another state, leaving behind the rate 
+limitations of our States. Because section 85 as inter- 
+preted by the OCC and the California Supreme Court 
+implements this basic balancing of the relevant interests 
+of the States, the judgment of the California Supreme 
+Court should be affirmed. 
+
+
+5 
+
+
+ARGUMENT 
+
+
+I. SECTION 85 RECOGNIZES THE CENTRALITY OF 
+STATE LAW IN BANKING REGULATION. 
+
+
+In our country’s dual system of banking, banks have 
+historically been regulated by their chartering authority— 
+national banks by the federal government, and state banks 
+by the state governments that charter them. See Em- 
+manuel N. Roussakis, Commercial Banking in an Era 
+of Deregulation 60 (2d ed. 1989); Kenneth E. Scott, 
+The Dual Banking System, 30 Stan. L. Rev. 1, 5 (1977). 
+This structure of regulation and oversight has applied 
+generally to banks regardless of whether the banks are 
+engaged in intrastate or interstate transactions. 
+
+
+Section 85 of the National Bank Act, 12 U.S.C. § 85, 
+provides that national banks may charge “interest at the 
+rate allowed by the laws of the State . . . where the bank 
+is located” (emphasis added). Thus, when a national 
+bank makes a loan (intrastate or interstate), the interest 
+charges that it may assess are determined by the law of 
+the bank’s home state. The location of the borrower’s 
+residence—whether next-door to the bank, in the same 
+state as the bank, in a different state, or even in a differ- 
+ent country—is irrelevant. All customers who borrow 
+from a particular national bank, therefore, are treated 
+the same, regardless of their state of residence.’ 
+
+
+2 Section 85 of the National Bank Act applies to national banks, 
+such as respondent Citibank. In addition, virtually all state- 
+chartered banks are federally insured, and federally insured state 
+banks are subject to section 521 of the Depository Institutions 
+Deregulation and Monetary Control Act of 1980 (“DIDA”), 12 
+U.S.C. 8 1831d, which was modeled on 12 U.S.C. $85. See 12 
+U.S.C. §183ld(a) (stating, in pertinent part, that a federally 
+insured state bank may charge interest “at the rate allowed by the 
+laws of the State, territory, or district where the bank is located”’). 
+Similar statutory provisions apply to all federally chartered and 
+federally insured state-chartered saving associations, 12 U.S.C. 
+§ 1463(g)(1), and all federally chartered and federally insured 
+state-chartered credit unions, 12 U.S.C. § 1785(g) (1). As a result, 
+
+
+6 
+
+
+A. Section 85 Provides A Uniform National Choice Of 
+Law Rule For Interstate Loans. 
+
+
+This is not, as petitioner and her amici contend, a 
+conventional preemption case. The effect of section 85 
+in this case is not to displace substantive state law with 
+substantive federal law. Rather, section 85 operates in 
+this context as a choice of law statute. Section 85, in 
+effect, provides a uniform national choice of law rule 
+for interstate loans. Thus, rather than arrogating power 
+to the federal government to impose special federal rules, 
+section 85 takes a different approach that acknowledges 
+the centrality of state concerns and state law, and resolves 
+what might otherwise be complex questions as to which 
+State’s law is applicable to a particular interstate loan. 
+
+
+In interstate bank loans (including credit card loans), 
+there are always at least two states potentially interested 
+in the transaction, namely the bank’s home state and the 
+borrower’s home state.* In the absence of section 85, the 
+roles of the law of the bank’s home state and the bor- 
+rower’s home state would have to be resolved according 
+to general choice of law principles. See, e.g., Restatement 
+(Second) of Conflict of Laws §§ 188, 195 (1971). 
+Because the application of conflict of laws principles all 
+too often varies with the eye of the beholder, reliance 
+upon those principles would ensure disuniformity in the 
+
+
+the Court’s construction of section 85 in this case will directly 
+affect almost all financia) institutions in the country. 
+
+
+* A third state, the state in which the credit card purchase or 
+cash advance is made, may also have an interest in the transaction. 
+See William F. Baxter, Section 85 of the National Bank Act and 
+Consumer Welfare, 1995 Utah L. Rev. 1009, 1024 & n.50 (1995). 
+As a result, even a relatively simple series of transactions—in 
+which, for example, a California resident makes two telephone 
+calls from home and, with a credit card issued by a bank in Ohio, 
+purchases an airline ticket (on a carrier with its main office in 
+Texas) and makes a reservation in a hotel (in a chain with its 
+main office in Illinois) for a ski holiday in Utah—has the potential 
+for raising difficult and complex conflict of laws issues. 
+
+
+7 
+
+
+law. In such a situation, the courts would routinely be 
+called upon to resolve those conflicts. 
+
+
+Section 85 resolves that problem for loans made by 
+national banks. Section 85 states, in plain terms, that a 
+national bank may charge on its loans “interest at the 
+rate allowed by the laws of the State . . . where the bank 
+is located” (emphasis added). Thus, section 85 effectively 
+provides a uniform national choice of law rule. As a 
+matter of federal law, the law of the bank’s home state 
+determines the interest charges that a national bank may 
+assess on all of its loans, both intrastate and interstate.* 
+
+
+In enacting section 85, Congress sought to preserve the 
+already established prerogatives of the states to determine 
+the interest that banks located within their borders could 
+charge. Section 85 recognizes the historic importance of 
+substantive state law in determining permissible interest 
+charges. Ascertaining which lending charges constitute 
+“interest” under section 85 is a matter of federal law. 
+Once that determination is made, however, the substan- 
+tive law of the bank’s home state determines whether the 
+bank’s “interest” charges are permissible. 
+
+Of course, Congress was not required to preserve the 
+historic prerogatives of the states. In the exercise of its 
+plenary authority over interstate commerce, Congress 
+could have enacted a standard preemption statute that 
+imposed a single, uniform limit on lending rates for na- 
+tional banks across the country and displaced all state 
+law. Indeed, the House of Representatives originally ap- 
+proved such a preemption provision, imposing a uniform 
+maximum interest rate of seven percent for all loans 
+(intrastate or interstate) made by national banks. See 
+
+
+*The States recognize that section 85 has a number of other 
+purposes, provisions, and effects that have different federalism 
+implications. Those other aspects of section 85 are not implicated 
+in this case, and are therefore not addressed in this brief. Rather, 
+the States address in this brief only the provision of section 85 
+that is pertinent to the facts of this case. 
+
+
+Marquette Nat'l Bank vy. First of Omaha Serv. Corp., 439 
+U.S. 299, 318 n.31 (1978) (citing Cong. Globe, 38th 
+Cong., Ist Sess. 1866 (1864) ). 
+
+
+In the Senate, however, the bill was amended, and the 
+current language of section 85 was added. See John Jay 
+Knox, A History of Banking in the United States 255- 
+56 (1903, 1969 reprint); Citibank Br. at 33-35. That 
+decision was critically important. Mindful of basic 
+principles of federalism, Congress rejected a rigid pre- 
+emption approach to the regulation of national banks 
+that would have trampled upon the traditional preroga- 
+tives of all of the states. Instead, Congress reserved to 
+each state the power to make its own policy judgment on 
+the interest limitations that would best serve the objec- 
+tives of that state. Congress decided that, as a matter 
+of federal law, the law of the bank’s home state would 
+determine the interest that a national bank may charge, 
+even when the borrower resides in a different state.’ 
+
+
+Thus, in the context of this case, section 85 does not 
+operate at all like a conventional preemption statute. In a 
+conventional preemption case, there is a conflict between 
+
+
+* Congress has also recognized the importance of state banking 
+law in provisions subsequently added to the National Bank Act. 
+See, e.g., 12 U.S.C. §36(c) (providing that a national bank may 
+“within the approval of the Comptroller of the Currency, establish 
+and operate new branches” within geographical limits “if such 
+establishment and operation are at the time expressly authorized 
+to State banks by the law of the State in question”); 12 U.S.C. 
+§ 90 (upon deposit of funds by a state or state government agency, 
+a national bank may “give security for the safekeeping and prompt 
+payment of the funds so deposited to the same extent and of the 
+same kind as is authorized by the law of the State in which [the 
+national bank] is located in the case of other banking institutions 
+in the State”) ; 12 U.S.C. § 92a (Comptroller of the Currency may 
+grant a national! bank the power “to act as trustee, executor, admin- 
+istrator, .. . or in any other fiduciary capacity in which State 
+banks, trust companies, or other corporations which come into com- 
+petition with national banks are permitted to act under the laws 
+of the State in which the national bank is located’’). 
+
+
+9 
+
+
+substantive federal and substantive state law. Under the 
+Supremacy Clause, U.S. Const. art. VI, cl. 2, the federal 
+law displaces the state law, and the state law is rendered 
+entirely void and “without effect.” Maryland v. Louisiana, 
+451 U.S. 725, 746 (1981); Gibbons v. Ogden, 22 USS. 
+(9 Wheat.) 1, 211 (1824). 
+
+
+In this case, however, the effect of section 85 is not 
+to displace substantive state law with substantive federal 
+law. Rather, as described above, section 85 serves to de- 
+termine which state’s law determines the permissible inter- 
+est on an interstate loan transaction. 
+
+
+Moreover, Section 85 does not render the substantive 
+law of California or any other state null and void. To the 
+contrary, section 85 effectively preserves state law. Under 
+section 85, the law of California determines the interest 
+charges that a national bank located in that state may 
+assess——whether its loans are made to residents of Cali- 
+fornia or elsewhere.* 
+
+
+To be sure, section 85 does cause some displacement of 
+state law: in an interstate loan, the law of the borrower's 
+home state is displaced by the law of the bank’s home 
+state. But that displacement, alone, does not transform 
+section 85 from a choice of law statute into a preemption 
+statute. Rather, the displacement of the law of one state 
+by the law of another is inherent in any conflict of laws 
+determination. In any conflict of laws case, the law of one 
+state “wins” and the law of another state “loses.” That 
+
+®* This Court recognized in Marquette National Bank that a con- 
+sumer who borrows money from an out-of-state bank is deemed 
+to have travelled to the bank to obtain the loan. 439 U.S. at 311. 
+That is consistent with the structure of the National Bank Act, 
+which prohibits a national bank from making loans at any location 
+other than its home office or its branches. 12 U.S.C. §§ 36(j), 81 
+It is therefore unremarkable that Congress would determine in 
+section 85 that the loan transaction should be governed by the 
+law of the state in which the lender resides and in which the 
+transaction occurs. 
+
+
+10 
+
+
+occurs without impairing state sovereignty or implicating 
+conventional preemption concerns.” 
+
+Accordingly, conventional preemption concerns are sim- 
+ply not present in this case. This is not a case in which 
+“the historic police powers of the States [are being] super- 
+seded by [a] Federal Act.” Cippollone v. Liggett Group, 
+Inc., 505 U.S. 504, 516 (1992) (quoting Rice v. Santa 
+Fe Elevator Corp., 331 U.S. 218, 230 (1947)). Nor is 
+this a case in which the historic prerogatives of the states 
+are in need of “protection . . . against intrusive exercises 
+of Congress’ Commerce Clause powers.” Gregory v. Ash- 
+croft, 501 U.S. 452, 464 (1991). If it were, our States 
+would not be before this Court urging affirmance of the 
+decision of the California Supreme Court. 
+
+
+In adopting section 85, Congress chose to preserve the 
+historic prerogatives of the states in determining the in- 
+terest charges that banks located within their borders could 
+assess. Congress did not enact a uniform set of national 
+standards for the lending practices of national banks de- 
+signed to preempt all contrary state law. Rather, Congress 
+decided (as a matter of federal law) to incorporate the 
+law of the bank’s home state on this subject, thereby pre- 
+serving to a great extent the traditional role of the states 
+in bank regulation. 
+
+
+B. Petitioner's Construction Of The Scope Of The 
+Choice Of Law Rule In Section 85 Would Lead To 
+Uncertainty And Confusion In The Interstate Loan 
+Market. 
+
+
+This Court has previously had an opportunity to review 
+the meaning and scope of section 85. In the landmark de- 
+cision in Marquette National Bank, supra, the respondent, 
+
+
+7 For this reason, petitioner's argument that section 85 is an 
+unconstitutional delegation of legislative power is incorrect. Any 
+time a resident of California enters into a transaction with the 
+resident of another state, there is the possibility—under standard 
+conflict of laws rules—that the law of California may be displaced 
+by the law of another state. 
+
+
+law, but violated Minnesota law. 439 U.S. at 302. In a 
+unanimous opinion, the Court upheld the bank’s loan 
+charges. The Court cited the plein language of section 85 
+and held that the statute permits a national bank to charge 
+all of its borrowers the APR permitted by the law of the 
+bank’s home state, even if that APR violates the law of 
+the borrower’s home state. /d. at 313. 
+
+
+made in the home state of the 
+
+
+Mi 
+
+
+country. As the Court obecrved, “cities of one State” 
+
+
+ceive credit at foreign interest rates.” Jd. at 318.* 
+
+
+In Marquette National Bank, the loan charge at issue 
+was the APR. Here, the question is whether section 85 
+also applies to late fees. 
+
+
+The California Supreme Court held that the term “in- 
+terest” in section 85 includes late fees, and therefore that 
+the rule in section 85 applies to those late fees. The state 
+court’s holding regarding the scope of section 85 is cor- 
+rect and benefits both borrowers and banks by providing 
+certainty and predictability to interstate loan transactions. 
+
+
+* The holding of Marquette National Bank is sometimes described 
+as the “exportation” of the law of the bank’s home state to the 
+borrower's home state. That is not, however, quite accurate. Be- 
+cause the loan is actually made at the bank, the application of the 
+law of the bank’s home state does not require the “exportation” of 
+any law. To the contrary, exportation would have occurred in fact 
+only if Marquette National Bank had held that the law of the 
+borrower's state governed a transaction in the bank’s home state. 
+
+
+States are always involved in interstate loans, a difficult 
+choice of law issue would arise that would need to be re- 
+solved through litigation in each of the 50 states, with 
+each state applying its own conflict of laws rules. Until 
+that issue were conclusively resolved in each of the 50 
+states, a virtual impossibility,’ banks and card holders 
+would not know whether the law of the bank’s home state 
+or the state of the card holder’s residence—or potentially 
+even the law of the state in which the purchase or cash 
+advance was made—would apply. 
+
+
+Almost certainly, in the absence of the uniform choice 
+of law rule provided by section 85, the states would reach 
+
+
+* The conflict of laws issue will never be truly “conclusively 
+resolved,” as states’ approaches to conflicts of law questions may 
+change over time. See, e.g., Eugene F. Scoles & Peter Hay, Conflict 
+of Laws 11-44 (2d ed. 1992) (describing evolution of general 
+choice of law standards in the United States); Duncan v. Cessna 
+Aircraft Co., 665 S.W.2d 414, 421 (Tex. 1984) (rejecting tradi- 
+tional contract law rule of le# loci contractus, which applied the 
+law of the state in which the contract was made, in favor of a rule 
+applying the law of the state with the “most significant relation- 
+ship” to the transaction); Choate, Hall & Stewart v. SCA Servs., 
+Inc., 392 N.E.2d 1045, 1048-49 (Mass. 1979) (also rejecting lez 
+loci contractus rule); Lilienthal v. Kaufman, 395 P.2d 543, 545-47 
+(Or. 1964) (same); Babcock v. Jackson, 191 N.E.2d 279, 283-84 
+(N.Y. 1968) (rejecting traditional tort law rule of lez loci delicti 
+commissi, which applied the law of the state in which the tort was 
+committed, in favor of an approach comparing the interests of the 
+competing states); Reich v. Purcell, 4832 P.2d 727, 729-31 (Cal. 
+1967) (also rejecting lex loci delicti commissi rule). 
+
+
+13 
+
+
+different results through their choice of laws analysis. Some 
+States, depending on their views of interests of the 
+competing states in governing the transaction and the 
+lending charge at issue, would likely apply the law of the 
+state of the borrower’s residence to late charges."” Others 
+
+
+1° See, e.g., Commercial Credit Equip. Corp. v. West, 677 S.W.2d 
+669, 674 (Tex. Ct. App. 1984) (applying law of consumer's state 
+in case involving purchase financing) ; Dassault Falcon Jet Corp. V. 
+Oberflez, Inc., 909 F. Supp. 345, 353 (M.D.N.C, 1995) (applying 
+law of consumer’s state in case involving sale of goods); D.P. 
+Technology Corp. Vv. Sherwood Tool, Inc., 751 F. Supp. 1088, 1040 
+(D. Conn. 1990) (applying law of commercial purchaser’s state) ; 
+Collins Radio Co. Vv. Bell, 623 P.2d 1039, 1045-48 (Okla. Ct. App. 
+1980) (same). 
+
+
+1! See, e.g., Connecticut Nat’l Bank vy. Kommit, 577 N.E.2d 639, 
+640-41 (Mass. App. Ct. 1991) (enforcing choice of law clause in 
+credit card agreement providing that law of bank’s home state 
+governs transaction); Finance Am. Corp. v. Moyler, 494 A.2d 
+926, 928-30 (D.C. 1985) (applying law of finance company’s home 
+state in consumer loan case); OFS Equities, Inc. v. Conde, 421 
+So, 2d 651, 653 (Fla. Dist. Ct. App. 1982) (applying law of lender's 
+home state under “validation principle”) ; Commercial Credit Plan, 
+Inc. V. Parker, 263 S.E.2d 220, 222 (Ga. Ct. App. 1979) (applying 
+law of finance company’s home state in consumer loan case) ; Walker 
+v. Associates Fin. Servs. Corp., 588 $.W.2d 416, 417-18 (Tex. Ct. 
+App. 1979) (same); cf. McBride v. Minstar, Inc., 662 A.2d 592, 
+598-99 (N.J. Super. Ct.) (holding that Massachusetts law governs 
+both contract and tort claims of New Jersey resident who pur- 
+chased ski equipment from retailer in Massachusetts), aff'd sub 
+nom. McBride Vv. Raichle Molitor, USA, 662 A.2d 567 (N.J. Super. 
+Ct. App. Div. 1995). 
+
+
+‘2 1f, for example, a court of Illinois determined, applying its 
+conflict of laws rules, that Illinois law applies when a resident of 
+Illinois borrows money from a bank in Ohio, courts in Ohio would 
+of course be required to give full faith and credit to the final judg- 
+ment of the Illinois court. U.S. Const. art. IV, §1. In a case in- 
+volving the same issues but different parties, however, the courts 
+of Ohio would be free to reach a different result. 
+
+
+14 
+
+
+The inevitable result would be forum shopping with its 
+devastatingly harmful effects on the administration of 
+justice. See, e.g., Erie R.R. v. Tompkins, 304 US. 64, 
+74-77 (1938) (condemning forum shopping). This struc- 
+tural (and perpetual) uncertainty would impose unneces- 
+sary costs on both banks and card holders and would 
+further no one’s legitimate interests. 
+
+Regardless of how the individual states were to resolve 
+these difficult choice of law issues, the result of petitioner's 
+construction of section 85 would be to balkanize the regu- 
+lation of banks. The States would lose our historic pre- 
+rogative to set the terms upon which the banks located 
+within our borders may lend money. Instead, the interest 
+charges on loans made by banks located within our bor- 
+ders would be regulated in part by our States and in part 
+by the law of each state in which the credit card holder 
+resides or the credit card purchase is made. This is an 
+intolerable situation that could only be justified by the 
+clearest evidence of congressional intent. 
+
+
+Il. UNDER SETTLED RULES OF STATUTORY CON- 
+STRUCTION, THE JUDGMENT OF THE CALIFOR- 
+NIA SUPREME COURT SHOULD BE AFFIRMED. 
+
+
+This case presents a straightforward question of statu- 
+tory construction. As explained above, section 85 oper- 
+ates here in effect as a choice of law rule, not as a 
+statute preempting substantive state law, and does not 
+raise the states’ rights or federalism concerns normally 
+associated with conventional preemption statutes. Ac- 
+cordingly, this case should not be governed by the prin- 
+ciples of statutory interpretation that apply in the context 
+of preemption. See, e.g., Pet. Br. at 12-18. Rather, the 
+standard and settled rules of statutory construction should 
+apply. The judgment of the California Supreme Court 
+should be affirmed because its interpretation of section 85 
+is consistent with (1) the language of the statute as inter- 
+
+
+15 
+
+
+preted in the formally adopted rule of the OCC, the 
+federal agency charged with administering the National 
+Bank Act, (2) the policies and purposes of Congress in 
+enacting the National Bank Act, and (3) economic reality 
+and this Court’s prior rulings. 
+
+A. Deference To The OCC’s Interpretation Of Section 
+
+
+85 Is Appropriate And Essential To Ensuring The 
+Safety And Soundness Of Banks Within Our 
+Borders. 
+
+
+Numerous nineteenth century statutes and cases define 
+or use the word “interest” in a broad sense, to include all 
+payments for the use of funds, including damages for 
+the detention of funds past the maturity date of the loan. 
+See Citibank Br. at 16-21, 25-30. Thus, the plain meaning 
+of the statute in 1864 and today is a sufficient basis in 
+itself to affirm the decision below. 
+
+
+In arguing for a different interpretation of section 85, 
+petitioner is unable to demonstrate that the language of 
+the statute compels the conclusion that late charges must 
+be excluded from its sweep. In her opening brief, peti- 
+tioner concedes as much, acknowledging that “interest” 
+in section 85 is not limited to the APR, but may also in- 
+clude other fees in certain circumstances. See, e.g., Pet. 
+Br. at 30-31 & n.14. At bottom, all that petitioner at- 
+tempts to show is that the term “interest” in section 85, 
+read in isolation, is potentially ambiguous. 
+
+
+The proper resolution of this case, however, is the 
+same whether the statutory language is deemed to be plain 
+or ambiguous. That is because when a statute is ambig- 
+uous, the first rule of federal statutory interpretation di- 
+rects courts to determine whether the federal agency 
+charged with administering the statute has issued an 
+authoritative interpretation of the relevant language. As 
+the Court has explained: 
+
+
+When a court reviews an agency's construction of the 
+Statute which it administers, it is confronted with 
+
+
+16 
+
+
+two questions. First, alway, is the question whether 
+Congress has directly spoken to the precise question 
+at issue. If the intent of Congress is clear, that is 
+the end of the matter... . If, however, .. . the 
+
+
+statute is silent or ambiguous with respect to the 
+specific issue, the question for the court is whether 
+
+
+the agency’s answer is based on a permissible con- 
+
+struction of the statute. 
+Chevron U.S.A. Inc. v. Natural Resources Defense Coun- 
+cil, Inc., 467 U.S. 837, 842-43 (1984); see also, e.g., Na- 
+tionsbank of North Carolina, N.A. Vv. Variable Annuity 
+Life Ins. Co., 115 S. Ct. 810, 813 (1995) (“It is well 
+settled that courts should give great weight to any reason- 
+able construction of a regulatory statute adopted by the 
+agency charged with the enforcement of that statute.”). 
+
+
+The OCC is charged with administering the National 
+Bank Act. 12 U.S.C. §§ 1, 26-27, 481; Nationsbank, 115 
+S. Ct. at 813. The OCC’s interpretation of any ambiguity 
+in the National Bank Act is therefore entitled to deference 
+by the courts, and any reasonable interpretation of the 
+Act by the OCC is conclusive of the issue. /d. This def- 
+erence is based, in part, on the fact that Congress has 
+delegated this policy-laden task to an administrative 
+agency and, in part, on the recognition that administrative 
+agencies develop a high level of expertise in their com- 
+plex regulatory fields. See, e.g., Chevron, 467 U.S. at 
+864-66; Cass R. Sunstein, Law and Administration After 
+Chevron, 90 Colum. L. Rev. 2071, 2086-90 (1990). It 
+is neither institutionally appropriate nor wise policy for 
+federal courts to interfere with the judgments made by 
+the OCC, 
+
+
+The OCC recently promulgated a final rule expressly 
+interpreting the word “interest” in section 85. The OCC’s 
+
+
+rule states: 
+
+
+The term “interest” as used in 12 U.S.C. § 85 in- 
+
+
+cludes any payment compensating a creditor or pros- 
+pective creditor for an extension of credit, making 
+
+
+17 
+
+
+available of a line of credit, or any default or breach 
+by a borrower of a condition upon which credit was 
+extended. /t includes, among other things, . . . late 
+a 
+
+
+61 Fed. Reg. 4849, 4869 (Feb. 9, 1996) (emphasis 
+added) (to be codified at 12 C.F.R. § 7.4001(a)). This 
+rule is consistent with opinion letters issued by the OCC 
+in 1980, 1988 and 1992," with statements issued by 
+other federal banking agencies,"* and with the overwhelm- 
+ing majority of lower court cases holding that the term 
+“interest” in section 85 and in section 521 of the DIDA 
+includes late fees and other charges incident to the exten- 
+sion of credit.” 
+
+
+As respondent ably demonstrates, the conditions for 
+deference to the OCC are met in this case. Citibank Br. 
+
+
+18 Letter of William P. Bowden, Jr., OCC Chief Counsel, 1992 
+WL 136390 (OCC) (Feb. 4, 1992) ; OCC Interpretive Ltr. No. 452, 
+[1988-89 Transfer Binder] Fed. Banking L. Rep. (CCH) { 85,676 
+(Aug. 11, 1988); Letter from Richard V. Fitzgerald, Director, 
+OCC Legal Advisory Services Division (Nov. 24, 1980). 
+
+
+™ Letter of Harry Quillian, Acting General Counsel, FHLBB 
+(June 27, 1986), attached to Letter of Karen Solomon, Deputy Chief 
+Counsel, Office of Thrift Supervision (Sept. 29, 1994), in Current 
+Developments, Fed. Banking L. Rep. (CCH) {82,852 (Dec. 16, 
+1994); Advisory Op. No. FDIC-92-47, [1992-93 Transfer Binder) 
+Fed. Banking L. Rep. (CCH) { 81,534 (July 8, 1992). 
+
+
+ B.g., Cades vV. H & kh Block, Inc., 43 F.3d 869 (4th Cir. 1994) 
+(flat $29 charge for tax refund anticipation loans), cert. denied, 
+115 S. Ct. 2247 (1995); Greenwood Trust Co. v. Massachusetts, 
+971 F.2d 818, 829 (1st Cir. 1992) (noting that courts construing 
+section 85 “have had little trouble in construing the term ‘interest’ 
+to encompass a variety of lender-imposed fees and financial require- 
+ments which are independent of a numerical percentage rate’), 
+cert. denied, 506 U.S. 1052 (1993); American Timber & Trading 
+Co. Vv. First Nat'l Bank, 690 F.2d 781 (9th Cir. 1982) (charges in- 
+curred under compensating balance requirements) ; Fisher v. First 
+Nat'l Bank, 548 F.2d 255 (8th Cir. 1977) (credit card cash fees) ; 
+Northway Lanes v. Hackley Union Nat'l Bank & Trust Co., 464 
+F.2d 855 (6th Cir. 1972) (closing costs). 
+
+
+18 
+
+
+at 35-41. Accordingly, under the principles of Chev- 
+ron and its progeny, the Court should defer to the author- 
+itative interpretation of the National Bank Act promul- 
+gated by the OCC. 
+
+
+In addition, there are particularly compelling reasons 
+here for according deference to the OCC’s interpretation of 
+the National Bank Act. First, banking officials in our 
+States are involved on a daily basis in the supervision, ex- 
+amination, and regulation of state-chartered banks. State 
+banking officials rely as a matter of course upon the of- 
+ficial pronouncements of the OCC, the FDIC, and other 
+federal bank regulatory agencies in interpreting the myriad 
+federal statutes that apply to state banks. That ‘Teliance 
+promotes certainty and efficiency in bank regulation, and 
+accords proper respect to the role assigned by Congress to 
+the expertise developed by the federal agencies in this 
+field. 
+
+
+Specifically in this case, bank regulators in our States 
+relied upon the OCC’s interpretation of the National Bank 
+Act to ensure that banks subject to our regulatory jurisdic- 
+tion were in full compliance with applicable laws. If the 
+OCC or FDIC had taken a different position regarding the 
+meaning of section 85, our bank regulators would have 
+reexamined the issue to ensure that the state-chartered 
+banks located in our States were complying with the law. 
+
+
+Reversing the OCC’s interpretation of the National 
+Bank Act, however, would upset the settled and reason- 
+able expectations regarding the meaning of section 85 in 
+the industry and would undermine the certainty and ef- 
+ficiency interests set forth above. If the OCC’s interpre- 
+tation of section 85 were discarded, then the ability of 
+state regulators to assume the validity of stated interpre- 
+tations of federal banking statutes issued by federal bank- 
+ing agencies would be severely diminished, if not elimi- 
+nated altogether. 
+
+
+Second, the banks within our borders also rely upon the 
+statements of federal banking agencies in ensuring that 
+
+
+- 19 
+
+
+their practices are in accordance with the law. In re- 
+liance upon the OCC’s interpretation of the National Bank 
+Act, banks in our States have loaned literally hundreds 
+of billions of dollars to consumers across the country. 
+Given the amount of money at stake in “his case, accepting 
+petitioner’s interpretation of the National Bank Act would 
+have a seriously harmful effect on banks in our States. 
+Individual banks would suddenly and unexpectedly be 
+exposed to significant damage claims. Collectively these 
+claims could readily exceed billions of dollars. 
+
+
+Moreover, the harm would not be limited to the bank- 
+ing industry. Rather, the potentially massive liability of 
+banks could have an adverse effect on the entire economy 
+of most, if not all, of the States. The ultimate impact 
+could be loss of jobs, loss of tax revenues, and an overall 
+tightening of credit. As a result, businesses, consumers, 
+and all residents in this nation would suffer. 
+
+
+In interpreting section 85, great weight should be ac- 
+corded to justifiable reliance interests. The substantial 
+history of reliance, and the potential widespread harm 
+that would result from undermining the reliance interests, 
+counsel strongly against the adoption of a new, unsup- 
+ported interpretation of the National Bank Act. See, e.g., 
+Zenith Radio Corp. v. United States, 437 U.S. 443, 457- 
+58 (1978) (“In light of these substantial reliance in- 
+terests, the longstanding administrative construction of 
+the statute should ‘not be disturbed except for cogent 
+reasons.’”); Train v. Natural Resources Defense Council, 
+Inc., 421 U.S. 60, 87 (1975) (deferring to EPA’s interpre- 
+tation of Clean Air Act in part because “there has undoubt- 
+edly been reliance upon [the EPA’s] interpretation by 
+the States and other parties affected by the Act”); 2B 
+Norman J. Singer, Sutherland on Statutes and Statutory 
+Construction § 49.07, at 62 (Sth ed. 1992) (one reason 
+for sustaining a long-standing statutory interpretation “is 
+the fact that the public has relied on the interpretation”). 
+
+
+20 
+
+
+B. The State Court’s Construction Of Section 85 Fur- 
+thers Congress’ Purposes In Enacting The National 
+Bank Aet. 
+
+
+Interstate lending was a well-established practice in this 
+country long before the National Bank Act was adopted. 
+Marquette Nat'l Bank, 439 U.S. at 317. Through the 
+National Bank Act, “Congress intended to facilitate ...a 
+‘national banking system,’” id. at 314-15, to create “a 
+banking system of great regional interdependence,” id. 
+at 316, and to promote interstate lending generally, id. 
+at 314-18. The California Supreme Court's construction 
+of the National Bank Act furthers the Act’s manifest 
+
+
+purposes. 
+
+
+First, the state court’s ruling provides certainty and 
+predictability to interstate lending. Banks may lend money 
+to borrowers in other states knowing with certainty that 
+only the law of the bank’s home state, not the law of any 
+other state, will govern the transaction. 
+
+
+Acceptin titioner’s interpretation of the National 
+Re om A nearer would, as already demonstrated 
+(supra, pp. 12-14), have precisely the opposite effect, caus- 
+ing substantial uncertainty. In the face of that uncer- 
+tainty, banks would be likely to adopt conservative lend- 
+ing practices that would increase the cost of credit and 
+would restrict access to credit. Moreover, banks that con- 
+tinued to make interstate loans and to issue credit cards 
+to out-of-state customers would risk incurring enormous 
+liability in class actions, such as this one, if they were to 
+predict wrongly which state’s law applied to certain loan 
+charges. See William C. Dunkelberg, Litigation Concern- 
+ing Late Charges is Major Threat to Credit Card Busi- 
+ness, Banking Pol’y Rep. (Prentice Hall), Apr. 6, 1992, 
+at 1, 15-16. No prudent lender will take that risk. 
+
+
+Second, the California Supreme Court’s construction of 
+the National Bank Act promotes efficiency and reduces 
+costs in interstate lending. Under the state court’s ruling, 
+banks need to monitor statutory, regulatory, and judicial 
+
+
+21 
+
+
+developments in banking law in only one state—the 
+bank’s home state. The cost of administering interstate 
+loans and credit card accounts remains low, because all 
+loans and accounts are governed by one set of laws. 
+
+
+Petitioner’s interpretation of the statute, however, would 
+impose substantial administrative burdens on banks. To 
+engage in interstate lending, banks would be required to 
+design and maintain a system that would incorporete all 
+Statutory, regulatory, and judicial law relating to loan 
+charges in all 50 states—and to monitor the statutory, 
+regulatory, and judicial changes in the law in each state 
+—in order to ensure that each borrower was being as- 
+sessed the correct charges for each loan. See William F. 
+Baxter, Section 85 of the National Bank Act and Con- 
+sumer Welfare, 1995 Utah L. Rev. 1009, 1024 
+(1995). Requiring banks to comply with myriad, conflict- 
+ing laws in each jurisdiction where their credit card hold- 
+ers and other borrowers reside would undermine certainty 
+and predictability in interstate lending, and could, as this 
+Court has stated, “throw into confusion the complex sys- 
+tem of modern interstate banking.” Marquette Nat'l Bank, 
+439 U.S. at 312. At the very least, accepting petitioner’s 
+argument would cause an increase in the cost of inter- 
+state lending and a reduction in the amount of interstate 
+
+
+lending—precisely the opposite of what Congress intended 
+when it adopted the Act. 
+
+
+C. The California Supreme Court’s Construction Of 
+Section 85 Is Consistent With The Economics Of 
+Credit Pricing And Thus Constitutes A Common 
+Sense Approach To Applying The Statute. 
+
+
+Banks typically charge a number of closely related fees 
+for credit cards. The most prominent of these fees is the 
+APR. Other fees include the late charges at issue in this 
+case, as well as annual fees, over-the-limit fees, and fees 
+for returned checks used to pay off a credit card balance. 
+All of these fees, in the aggregate, constitute the “price” 
+of the credit card to the consumer. 
+
+
+22 
+
+
+The application of section 85 to one of these fees—the 
+APR—was settled by this Court in Marquette National 
+Bank. As noted above, the Court held that section 85 
+allows a national bank to charge the APR permitted by 
+the law of its home state, even if that APR violates the 
+law of the borrower’s home state. 439 U.S. at 313. 
+
+
+The instant case involves late fees, and not the APR. 
+But late fees and APR are simply two components of 
+the price of credit to the card holder. There is no basis 
+in logic or economics to treat the loan differently, or to 
+apply a different choice of law rule, simply because a late 
+fee, rather than the APR, is at issue. Indeed, one court 
+has aptly stated that the definition of “interest” in section 
+85 should be governed by “{w]hat affects the borrower's 
+pocketbook . . . , not semantics.” First Nat'l Bank v. 
+Nowlin, 509 F.2d 872, 878 (8th Cir. 1975). 
+
+
+Moreover, as noted above, Congress’ intent in enacting 
+the National Bank Act was to promote interstate banking 
+while at the same time preserving the states’ historic pre- 
+rogatives with regard to bank regulation. The intent that 
+petitioner imputes to Congress, however, is wholly im- 
+plausible. According to petitioner, Congress actually in- 
+tended in 1864 to preserve the states’ traditional role in 
+controlling certain loan charges, but at the same time in- 
+tended to deprive the states of that role with regard to 
+other, closely related loan charges.”* There is no evidence 
+and no reason to assume that Congress intended to create 
+such an illogical and unworkable regulatory scheme. 
+
+
+16 As respondent shows, in the context of intrastate loans by a 
+national bank, the term “interest” must include late charges. 
+Because there is no reason to believe that the term should have a 
+different meaning for interstate loans, “interest’”’ must also include 
+late charges on interstate loans. Citibank Br. at 35. 
+
+
+23 
+
+
+III. SECTION 8 PROMOTES BOTH THE INTERESTS 
+OF CONSUMERS AND THE ABILITY OF EACH 
+STATE TO PROTECT ITS RESIDENTS AS IT SEES 
+FIT. 
+
+
+Consumers in our States and across the country benefit 
+from broad access to credit, low credit card costs, and 
+the ability to choose from the broadest possible range of 
+competing credit cards, offering the broadest possible 
+range of packages of rates and charges, in the market- 
+place. The Truth In Lending Act, 15 U.S.C. § 1601 
+et seq., state disclosure laws, and state anti-fraud protec- 
+tions ensure that credit card issuers must disclose all ma- 
+terial terms so that consumers are able to make informed 
+choices among competing credit card products. Any state 
+that is dissatisfied with existing protections can enhance 
+its own disclosure and anti-fraud laws. It is no solution 
+to make a substantive shambles of the interstate banking 
+system, which has served the nation well for decades. 
+
+
+With the broadest possible range of choices in the mar- 
+ket and the extensive disclosures required by the Truth 
+In Lending Act, consumers are able to obtain credit cards 
+that fit their individual usage and payment preferences. 
+For example, consumers who pay the outstanding balance 
+in full each month are likely to choose a credit card that 
+does not charge an annual fee and that offers perquisites 
+such as airline frequent flier miles or no-cost insurance 
+on rental cars, even if the card also charges a relatively 
+high APR and imposes late fees. In contrast, consumers 
+who plan to use a card for easy access to unsecured credit 
+are likely to choose a card that offers a low APR and no 
+late charges, even if the card also charges an annual fee 
+and offers no “perks.” See David S. Evans & Richard 
+L. Schmalensee, The Economics of the Payment Card 
+Industry 51, 58-60 (1993); Christopher C. DeMuth, The 
+Case Against Credit Card Interest Regulation, 3 Yale 
+J. on Reg. 201, 236, 238-39 (1986). 
+
+
+The California Supreme Court’s construction of section 
+85 promotes broad competition in the interstate credit 
+
+
+. a to 
+sumers across the country with the certainty that the 
+
+
+but also late charges. As a result, consumers in 
+will be able to choose from a broad array of competing 
+credit cards, some of which will be offered by banks 
+states which restrict some loan charges and others of 
+which will be offered by banks in states with no such 
+restrictions. 
+
+
+For example, Minnesota law severely limits the ability 
+of banks to charge late fees, Minn. Stat. § 48.185(4), but 
+banks in Ohio are permitted to offer cards that do charge 
+late fees, Ohio Rev. Code § 1107.262(A). When com- 
+peting for customers against Minnesota card issuers— 
+whether in Ohio, Minnesota, or somewhere else—the 
+Ohio banks must offer other, more favorable terms (for 
+example, a low APR or no annual fee) in order to com- 
+pete with cards from the Minnesota banks that do not 
+charge late fees. Thus, consumers in every state will be 
+able to choose between (1) cards from banks in Minne- 
+sota, which do not assess late charges and (2) cards 
+from banks in Ohio, which do assess late charges but in 
+return offer a low APR or no annual fee. Under petition- 
+er’s construction of section 85, in contrast, consumers 
+would have fewer choices and would therefore be worse 
+off. See Baxter, at 1020-21; DeMuth, at 231, 239." 
+
+
+By permitting each state to set its own policy concern- 
+ing credit card fees and charges that governs its home 
+
+
+17 Contrary to the suggestion of one of petitioner’s amici, nothing 
+in the California Supreme Court's interpretation of section 85 
+would give out-of-state national banks a competitive advantage 
+over local banks, even if by law they are permitted to charge more 
+than local banks. In the example above, if the Ohio bank charges 
+late fees without offering a low APR or no annual fee to its Min- 
+nesota customers, it will be at a competitive disadvantage compared 
+to Minnesota banks. Consumers in Minnesota will choose to obtain 
+credit cards from Minnesota banks, which will be offering a lower 
+overall price for credit cards. 
+
+
+25 
+
+
+banks’ practices, the California Supreme Court's interpre- 
+tation of section 85 benefits consumers in our States and 
+throughout the country. It permits banks to offer con- 
+sumers a wide variety of credit card products in an in- 
+dustry that is characterized by intense competition. Evans 
+& Schmalensee, at 68-71; Baxter, at 1013-19; DeMuth, 
+at 222-26. Armed with a variety of choices offered by 
+banks and other credit card issuers, and with full disclo- 
+sure of credit terms, including late fees, mandated by 
+federal law, consumers will continue to have the credit 
+card product that best suits their particular needs. 
+
+
+In an attempt to argue that the California Supreme 
+Court’s interpretation of section 85 will harm consumers, 
+petitioner and her amici make the broad argument that 
+late charges are inherently unjust or unfair. But this 
+argument cannot dictate the proper construction of sec- 
+tion 85."° Whether banks should be allowed to impose 
+late charges is a question of policy, better suited for Con- 
+gress and the state legislatures than for this Court. Some 
+States choose to prohibit late fees. Other states choose 
+to permit them. Either choice is rational and within the 
+traditional prerogative of the states to regulate the lending 
+practices of banks located within their borders.” 
+
+
+"8 Moreover, petitioner and her amici are simply wrong that late 
+fees are flatly unjust. States that permit late fees have recognized 
+that there is no social utility in late payments, that late payments 
+impose substantial costs on lenders, and that it is therefore “just” 
+to permit card issuers to require the defaulting cardholders to pay 
+for the consequences of their actions. If credit card issuers were 
+not permitted to charge late fees, then those costs would have to be 
+borne by all card holders—in the form of higher APR’s, higher 
+annual fees, or fewer perks. See Dunkelberg, at 16. Prohibiting 
+late fees thus has the unfortunate effect of requiring the vast 
+majority of cardholders who make their monthly payments on time 
+each month to subsidize the few who pay late. Jd.; Raxter, at 1025. 
+Permitting banks to charge late fees, in contrast, compensates the 
+banks for the costs of late payments (including increased credit 
+risk) and deters borrowers from making late payments. 
+
+
+Since 1990, the Legislatures of at least 16 states (including 
+several states that have joined the amicus brief in support of peti- 
+
+
+26 
+
+Petitioner’s amici also claim that, under the California 
+Supreme Court's construction of section 85, “consumers 
+subjected to unfair or illegal credit and collection prac- 
+tices by an out-of-state national bank will have no re- 
+course to their state consumer protection authorities.” 
+Amici Brief of Mass., et al., at 9. But that is not what 
+section 85, or this case, is about. Consumer protection 
+laws (such as the Truth In Lending Act) protect con- 
+sumers from fraud and deception. Nothing in section 85 
+interferes in any way with the ability of the Attorneys 
+General and the various consumer protection agencies of 
+our States from taking strong and immediate action 
+against any card issuer that engages in fraudulent or de- 
+ceptive credit or collection practices. 
+
+Moreover, under the California Supreme Court’s con- 
+struction of section 85, residents of a state are guaranteed 
+
+
+titioner) have recognized that late charges are not inimical to 
+consumer interests, and have passed new laws either authorizing 
+credit card late charges or increasing the amount of the late fees 
+that may be assessed. See Ariz. Rev. Stat. § 44-1205.C.4 (allowing 
+late charge in any amount agreed to with borrower) ; Cal. Fin. Code 
+§ 4001(a)(1)(C) (allowing late charge up to $15) ; Colo. Rev. Stat. 
+§ 5-8-2038 (allowing late charge up to $15); Ind. Code § 24-4.5-3- 
+203.5(4), as amended by rule, 3 Consumer Cred. Guide (CCH) Ind. 
+6531 (allowing late charge up to $14.50) ; Iowa Code § 537.2502.8 
+(allowing late charge of $10); Kan. Stat. Ann. § 16a-2-502(2) (al- 
+lowing late charge up to $10) ; Me. Rev. Stat. tit. 9-A, § 2-501(1) (G) 
+(allowing late charge of lesser of $10 or 5 percent of unpaid 
+balance); Mass. Gen. L. ch. 140, §114B (allowing late charge of 
+lesser of $10 or 10 percent of unpaid balance); N.J. Stat. Ann. 
+§ 17:16C-42(a) (allowing late charge up to $10); N.Y. Banking 
+Law § 108(5)(e); N.Y. Pers. Prop. Law §413(5)(b) (allowing 
+late charge in any amount agreed to with borrower); Okla. Stat. 
+tit. 14A, § 3-203(5), as modified by rule, 4 Consumer Cred, Guide 
+(CCH) Okla. 16901 (allowing late charge up to $15); Pa. Stat. 
+Ann. tit. 7, §322(d) (v) (allowing late charge of greater of $20 or 
+10 percent of unpaid balance); S.C. Code §§ 37-3-203, 37-1-109 
+(allowing late charge of lesser of $12 or 5 percent of unpaid bal- 
+ance) ; Utah Code § 70C-2-102(1) (allowing late charge of greater of 
+$20 or 5 percent of unpaid balance) ; Va. Code Ann. § 6.1-330,78.A.1 
+(allowing late charge in any amount agreed to with borrower) ; 
+Wis. Stat. § 422.202(2m) (a) (allowing late charge up to $10). 
+
+
+F 
+é 
+| 
+: 
+j 
+
+
+dent’s home state. See, e.g., McBride v. Minstar, Inc., 
+662 A.2d 592, 598-99 (N.J. Super. Ct.) (holding under 
+New Jersey’s choice of law rules that the claims of a 
+New Jersey resident who purchased allegedly defective ski 
+equipment from a retailer in Massachusetts are governed 
+by Massachusetts law) aff'd sub nom. McBride v. Raichle 
+Molitor, USA, 662 A.2d 567 (N.J. Super. Ct. App. 
+Div. 1995). Likewise, a state has little interest in reg- 
+ulating the terms of a transaction when its resident has 
+made the choice to travel to another state to obtain a 
+loan from a bank there, leaving behind the interest rate 
+ceilings of the resident’s home state. See, e.g., Commer- 
+cial Credit Plan, Inc., v. Parker, 263 S.E.2d 220, 222 
+(Ga. Ct. App. 1979) (applying South Carolina law to 
+loan from South Carolina finance company to Georgia 
+borrower, under terms that were prohibited by Georgia 
+law, because borrower had travelled to South Carolina to 
+obtain the loan and “the public policy of [Georgia] . . . 
+does not extend to the enforcement of valid contracts 
+made in other states”); Walker v. Associates Fin. Servs. 
+Corp., 588 S.W.2d 416, 417-18 (Tex. Ct. App. 1979) 
+(applying Indiana law to loan obtained by Texas resi- 
+dent by mail from Indiana finance company).” 
+
+
+In addition, as this Court recognized in Marquette National 
+Bank some “impairment” of the ability of the states to enforce laws 
+limiting loan charges “has always been implicit in the structure of 
+the National Bank Act, since citizens of one State were free to visit 
+
+
+28 
+
+
+Another amicus contends that consumers, when choos- 
+ing from among various credit card options, do not con- 
+sider components of the price other than APR. This con- 
+tention defies both common sense and elementary eco- 
+nomic theory. Moreover, it is contrary to the actual ex- 
+perience of the credit card industry. In the years after 
+the Court’s decision in Marquette National Bank, credit 
+cards issued by banks in heavily regulated states have 
+been in direct competition with credit cards issued by 
+banks in less regulated or deregulated states. DeMuth, 
+at 231. Although banks in regulated states generally offer 
+a lower APR than banks in deregulated states, the num- 
+ber of credit cards and amount of credit extended by 
+banks in deregulated states has grown at a much faster 
+rate than that of banks in regulated states. /d. at 232- 
+36. The explanation is not that consumers prefer to pay 
+a higher APR; rather, the experience of the credit card 
+industry demonstrates that consumers are willing to pay 
+a higher APR in order to obtain credit cards that are of 
+greater value to the consumers because the cards offer 
+better service, additional features or “perks,” and broader 
+access to credit. Id. at 236-37. 
+
+
+At bottom, then, petitioner and her amici are not seek- 
+ing to give effect to the intent of Congress, or to protect 
+the historic prerogatives of the states, or even to promote 
+consumer welfare. Rather, petitioner and her amici seek 
+the assistance of this Court in supporting a category of 
+products—credit cards offered by banks in highly regu- 
+lated states—that is losing the battle of competition in 
+the credit card market. That case should be presented 
+to Congress, not this Court. 
+
+
+The ultimate effect of accepting petitioner’s interpreta- 
+tion of section 85 is clear. The cost of credit for con- 
+
+
+a neighboring State to receive credit.” 439 U.S. at 318. As was 
+true in Marquette National Bank, the plea of petitioner here to 
+“alter” section 85 in order to enable the states to apply their lending 
+regulations to interstate Joans is “an issue of legislative policy” 
+that “is better addressed to the wisdom of Congress than to the 
+judgment of this Court.” Jd. at 319. 
+
+
+wt 239-41 & n.102. To be sure, Congress would have the 
+power to adopt such a “silly” law, but it did not do so 
+in section 85. Cf. TVA vy. Hill, 437 U.S. 153, 194- 
+95 (1978). 
+
+
+At the end of the day, section 85 (and its analog, 
+section 521 of the DIDA), as interpreted by the California 
+Supreme Court, ensures that states retain the ability to 
+set the terms upon which banks located within our borders 
+may lend money. In contrast, petitioner’s interpretation of 
+section 85 interferes with this historic right and would 
+permit other states to govern the lending activities of banks 
+within our borders. Our States urge this Court to reject 
+this intrusion into our legitimate prerogatives. 
+
+
+30 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, the Court should affirm the 
+judgment of the California Supreme Court. 
+
+
+CARTER G. PHILLIPS 
+SIDLEY & AUSTIN 
+
+1722 Eye Street, N.W. 
+Washington, D.C. 20006 
+(202) 736-8000 
+
+
+JAMES M. HARRIS 
+STEVEN A. ELLIS 
+
+SIDLEY & AUSTIN 
+
+555 West Fifth Street 
+Los Angeles, CA 90013 
+(213) 896-6000 
+
+Counsel for Amici Curiae 
+
+
+March 29, 1996 
+
+
+Respectfully submitted, 
+
+
+Betty D. MONTGOMERY 
+
+Ohio Attorney General 
+JEFFREY S. SUTTON * 
+
+State Solicitor 
+DIANE R. RICHARDS 
+
+Chief, Chief Counsel Section 
+State Office Tower 
+30 East Broad Street 
+Columbus, OH 43215-3428 
+(614) 466-8980 
+
+
+* Counsel of Record 
+
+

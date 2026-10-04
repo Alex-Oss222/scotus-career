@@ -1,0 +1,534 @@
+SUPREME COURT OF THE UNITED 
+OCTOBER TERM, 1995 
+
+
+BARBARA SMILEY, 
+
+
+Petitioner, 
+
+
+Vv. 
+
+
+CITIBANK (SOUTH DAKOTA), N.A., 
+Respondent. 
+
+
+ON PETITION FOR WRIT OF CERTIORARI 
+TO THE CALIFORNIA SUPREME COURT 
+
+
+AMICI CURIAE BRIEF OF THE AMERICAN 
+BANKERS ASSOCIATION, MASTERCARD 
+INTERNATIONAL INCORPORATED AND 
+
+VISA U.S.A. INC. IN SUPPORT OF 
+- PETITION FOR WRIT OF CERTIORARI 
+
+
+SHIRLEY M. HUFSTEDLER 
+Counsel of Record 
+
+L. RICHARD FISCHER 
+
+JAMES A. HUIZINGA 
+
+MORRISON & FOERSTER 
+
+2000 Pennsylvania Avenue, NW 
+
+Washington, DC 20006 
+
+(202) 887-1500 
+
+
+December 20, 1995 Attorneys for Amici Curiae 
+
+
+Se 
+
+
+TABLE OF CONTENTS 
+
+
+TABLE OF AUTHORITIES. .........cccccosccsscrssssessessessessoese 
+PE UF FI ccccnccscascteyutonpenscesenganeesenapapeneenstens 
+
+
+SUMMARY OF ARGUMENT ..........:ccccccsscssseeseeseesenees 
+
+
+I. CERTIORARI SHOULD BE GRANTED 
+TO RESOLVE A CONFLICT BETWEEN 
+THE CALIFORNIA AND COLORADO 
+SUPREME COURTS AND THE FIRST 
+CIRCUIT, AND THE NEW JERSEY 
+UP RE CUTIE cccccsccccvesesersoseoscossccecesnesers icecannees 
+
+
+Il. THE ISSUE OF WHETHER LATE FEES 
+ARE COVERED BY SECTION 85 IS OF 
+FUNDAMENTAL IMPORTANCE............00c00c00000 
+
+
+COCO EIT cxccccesensendaninviisdtbbingepattunccnensteaneectnsecenstnees 
+
+
+TABLE OF AUTHORITIES 
+
+
+CASES 
+
+
+Cades v. H & R Block, Inc., 43 F.3d 869 
+(4th Cir. 1994), cert. denied, 
+
+
+115 S. Ct. 2247 (1995) ....ceccsrcssssesseereesserseeseeseeseremenenees 
+
+
+Copeland v. MBNA America Bank, N.A., 
+No. 94SC409, 1995 Colo. LEXIS 743 
+
+
+(Colo. Sup. Ct. Nov. 20, 1995) .....-csserseseseeerereremennnnnn 
+
+
+Gavey Properties/762 v. First 
+Fin. Sav. & Loan Ass'n, 
+
+
+845 F.2d 519 (Sth Cir. 1988).........:ccceccceeereeeeeeesennnenens 
+
+
+Greenwood Trust Co. v. Massachusetts, 
+971 F.2d 818 (1st Cir. 1992), 
+
+
+cert. denied, 113 S. Ct. 974 (1993) ......ceceeeeersemenrennnes 
+
+
+Hunter v. Greenwood Trust Co., 
+No. A-103-94, 1995 N.J. LEXIS 1354 
+
+
+(N.J. Sup. Ct. Nov. 28, 1995)..ccsssssssssssssssssseeee a a 
+
+
+Marquette National Bank v. First of Omaha Serv. 
+Corp., 439 U.S. 299 (1978).....ccecseseesesesnsnssnsnrsemennenenne 
+
+
+NationsBank of North Carolina, N.A. v. 
+Variable Annuity Life Ins. Co., 
+
+
+— 
+
+
+Sherman v. Citibank (South Dakota), N.A., 
+No. A-102-94, 1995 N.J. LEXIS 1355 
+
+
+(N.J. Sup. Ct. Nov. 28, 1995).......ccssesesererenenseemennnnnnnnes 
+
+
+Smiley v. Citibank (South Dakota), 
+N.A., 11 Cal. 4th 138, 44 Cal. Rptr. 2d 441 
+900 P.2d 690 (1995) 
+
+
+STATUTES 
+
+
+a 
+
+
+Sections 521 through 523 of the Depository 
+Institutions Deregulation and Monetary 
+Control Act of 1980, Pub. L. No. 96-221, 
+94 Stat. 132 (1980) 
+
+
+RULES 
+S. Ct. Rule 10(b) 
+
+
+OTHER AUTHORITIES 
+
+
+Letter from Julie Williams, OCC Chief Counsel 
+(Feb. 17, 1995), reprinted in [Current] Fed. 
+
+
+Banking L. Rep. (CCH) $ 90,467... 
+
+
+Proposed 12 C.F.R. § 7.4001, 
+
+
+42 Fed. Reg. 11,924 (Mar. 3, 1995)... occ. 
+
+
+Card Industry Directory (Faulkner & Grey 1996) 
+
+
+The Nilson Report, \ssue No. 591 (Mar. 1995).......... 
+
+
+The Nilson Report, Issue No. 603 (Sept. 1995).......... 
+
+
+eeeeee 
+ih hhh heheh PEELE LLL eee 
+
+
+No. 95-860 
+
+
+IN THE 
+SUPREME COURT OF THE UNITED STATES 
+OCTOBER TERM, 1995 
+
+
+BARBARA SMILEY, 
+Petitioner, 
+
+
+Vv. 
+
+
+CITIBANK (SOUTH DAKOTA), N.A.., 
+Respondent. 
+
+
+ON PETITION FOR WRIT OF CERTIORARI 
+TO THE CALIFORNIA SUPREME COURT 
+
+
+AMICI CURIAE BRIEF OF THE AMERICAN 
+BANKERS ASSOCIATION, MASTERCARD 
+INTERNATIONAL INCORPORATED AND 
+VISA U.S.A. INC. IN SUPPORT OF 
+PETITION FOR WRIT OF CERTIORARI 
+
+
+This amici curiae brief is filed in support of Citibank 
+(South Dakota), N.A. by the American Bankers Association 
+(the “ABA”), MasterCard International Incorporated 
+(“MasterCard”) and VISA U.S.A. Inc. (“VISA”). The ABA, 
+
+
+MasterCard and VISA (collectively, the “Amici”) agree with 
+both Petitioner and Respondent that a writ of certiorari should 
+be granted in Smiley v. Citibank (South Dakota), N.A., \1 
+Cal. 4th 138, 44 Cal. Rptr. 2d 441, 900 P.2d 690 (1995) 
+(“Smiley”). Petitioner and Respondent each provided written 
+consent to filing this amici curiae brief. 
+
+
+INTEREST OF AMICI 
+
+
+The ABA is the largest national trade association of 
+the commercial banking industry in the United States, 
+representing banks in all fifty states and the District of 
+Columbia that hold approximately ninety percent of the 
+domestic assets of all American commercial banks. VISA 
+and MasterCard are associations of financial institutions that 
+license service marks for use in connection with credit cards, 
+debit cards, automated teller machines and related financial 
+services. As of year-end 1994, VISA and MasterCard had 
+approximately 17,000 and 13,600 depository institution 
+members, respectively, that collectively have issued a credit 
+card to most adults in the United States. The Nilson Report, 
+Issue No. 591 (Mar. 1995) at 8. 
+
+
+Amici’s members that are national banks are vitally 
+interested in the proper interpretation of 12 U.S.C. § 85 
+(“Section 85”), which governs the interest that may be 
+charged on loans made by national banks. Amici’s members 
+that are state-chartered banks, federally- or state-chartered 
+savings associations, or federally- or state-chartered credit 
+unions, also are particularly interested in the interpretation of 
+Section 85 because most of these federally-insured 
+depository institutions have authority under Sections 521 
+through 523 of the Depository Institutions Deregulation and 
+Monetary Control Act of 1980 (“DIDA”), Pub. L. No. 96- 
+221, 94 Stat. 132 (1980), to charge the same interest that 
+national banks are authorized to charge under Section 85. 
+
+
+See, ¢.g., Greenwood Trust Co. v. Massachusetts, 971 F.2d 
+818, 830 (Ist Cir. 1992), cert. denied, 113 S. Ct. 974 (1993) 
+(Section 521) (“Greenwood Trust”); Gavey Properties/762 v. 
+First Fin. Sav. & Loan Ass'n, 845 F.2d 519, 521 (Sth Cir. 
+1988) (Section 522). 
+
+
+The discussion below focuses on the importance of 
+deals with credit card loans. However, Section 85 and 
+Sections 521 through 523 of DIDA are not limited to credit 
+card programs; they apply to all types of retail and 
+commercial loans. See, e.g, Cadesv. H & R Block, Inc., 
+43 F.3d 869 (4th Cir. 1994), cert. denied, 115 S. Ct. 2247 
+(1995) (tax refund anticipation loans). Thus, the principles at 
+issue in this case are critically important for virtually every 
+lending function of the banking industry. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+; Certiorari should be granted to resolve an 
+
+‘labl flict | the California and Colorad 
+Supreme Courts and the United States Court of Appeals for 
+the First Circuit on the one hand, and the New Jersey 
+Supreme Court on the other hand, on the important federal 
+question of whether late fees are interest for purposes of 
+Section 85. Immediate resolution of this issue is urgently 
+needed to reestablish the uniform national rule that the 
+system, but that was not followed by the New Jersey 
+Supreme Court. 
+
+
+Prompt review by this Court is imperative because 
+
+i ling the issibility of late cl 
+assessed with respect to billions of dollars of credit will 
+adversely affect both the ability of borrowers to obtain credit 
+and the national economy. Resolution of this issue also 
+
+
+significantly affects the extraordinary potential liability of 
+Amici’s members that have collected late fees permitted by 
+federal law, but not state law; liability that could affect the 
+continued existence of many of Amici’s members. 
+
+
+ARGUMENT 
+
+
+I. CERTIORARI SHOULD BE GRANTED TO 
+RESOLVE A CONFLICT BETWEEN THE 
+CALIFORNIA AND COLORADO SUPPEME 
+COURTS AND THE FIRST CIRCUIT, AND THE 
+NEW JERSEY SUPREME COURT. 
+
+
+Review on a writ of certiorari is proper in this case 
+because a state court of last resort has decided a federal 
+question in a way that directly conflicts with the decisions of 
+two other state courts of last resort and a federal Court of 
+Appeals. See Sup. Ct. R. 10(b). The California Supreme 
+Court in Smiley, and the Colorado Supreme Court in 
+Copeland v. MBNA America Bank, N.A., No. 94SC409, 1995 
+Colo. LEXIS 743 (Colo. Sup. Ct. Nov. 20, 1995) 
+(“Copeland”), each held that late fees charged by a national 
+bank on its credit card loans are interest for purposes of 
+Section 85. Smiley and Copeland both follow the decision of 
+the United States Court of Appeals for the First Circuit in 
+Greenwood Trust. Although Greenwood Trust involved 
+Section 521 of DIDA, the First Circuit held that late fees are 
+interest charges under that statute because late fees are 
+interest under Section 85. 971 F.2d at 825. 
+
+
+The Smiley, Copeland and Greenwood Trust 
+decisions persuasively and correctly explain why Section 85 
+applies to late fees. Nonetheless, the New Jersey Supreme 
+Court held in Sherman v. Citibank (South Dakota), N.A., 
+No. A-102-94, 1995 N.J. LEXIS 1355 (N.J. Sup. Ct. Nov. 28, 
+1995) (“Sherman”), that late fees on credit card loans are not 
+covered by Section 85 because that statute applies only to 
+
+
+periodic percentage rate charges assessed on outstanding loan 
+balances. 
+
+
+The conflict between the decisions of the California 
+and Colorado Supreme Courts and the First Circuit on the 
+one hand, and the New Jersey Supreme Court on the other, 
+customers throughout the United States. Without resolution 
+of the conflict by this Court, credit card late fees charged by a 
+national bank to borrowers residing in California or Colorado 
+(as well as states included in the First Circuit) will be covered 
+by Section 85, while the same fees charged by the same 
+national bank to borrowers residing in New Jersey will not. 
+Thus, the scope of federal interest authority under Section 85 
+will vary depending on the state in which a national bank’s 
+borrowers reside. Such a result is directly contrary to this 
+Court’s ruling in Marquette National Bank v. First of Omaha 
+Service Corp., 439 U.S. 299 (1978), that Section 85 applies 
+on the basis of the national bank’s location and not the 
+borrower’s residence. 
+
+
+Not only does the New Jersey Supreme Court’s 
+interpretation of Section 85 conflict with decisions from the 
+California and Colorado Supreme Courts and the First 
+Circuit, it also conflicts with the interpretation of the federal 
+agency charged with interpreting and enforcing the National 
+Bank Act. The Office of the Comptroller of the Currency 
+(the “OCC”) has stated repeatedly that credit card late fees 
+are covered by Section 85. See, e.g, Letter from Julie 
+Williams, OCC Chief Counsel (Feb. 17, 1995), reprinted in 
+[Current] Fed. Banking L. Rep. (CCH) 4 90,467 (reaffirming 
+and restating the OCC’s long-time position). As part of the 
+OCC’s general revisions to its interpretive rules, the OCC has 
+
+
+' The New Jersey Supreme Court also held that late fees are not 
+interest under Section $21 of DIDA in Hunter v. Greenwood Trust Co., 
+No. A-103-94, 1995 N.J. LEXIS 1354 (N.J. Sup. Ct. Nov. 28, 1995). 
+
+
+proposed to codify its position that late fees are “interest.” 
+See proposed 12C.F.R. § 7.4001, 42 Fed. Reg. 11,924, 
+11,940 (Mar. 3, 1995). The OCC made its position clear to 
+the California, Colorado, and New Jersey Supreme Courts in 
+amicus briefs filed in the Smiley, Copeland, and Sherman 
+cases. Yet the New Jersey Supreme Court specifically 
+refused to grant the OCC’s interpretation the deference called 
+for by this Court in NationsBank of North Carolina, N.A. v. 
+Variable Annuity Life Insurance Co., 115 S. Ct. 810 (1995). 
+
+
+The resolution by this Court of the central and 
+fundamental federal question of whether Section 85 applies 
+to late fees is urgently needed now. There is no dispute that 
+the late fees assessed by national banks in numerous pending 
+lawsuits are permissible if Section 85 applies. A conclusive 
+answer from this Court that late fees are interest thus will 
+resolve those lawsuits, and avoid unnecessary, repetitive, 
+costly, and disruptive additional litigation. Immediate 
+resolution of the conflict on this issue also is essential to 
+enable national banks to know what law applies to the late 
+fees they charge on the billions of dollars of credit now being 
+extended to borrowers, and to ensure that the national 
+banking system functions effectively and efficiently. 
+
+
+ll. THE ISSUE OF WHETHER LATE FEES 
+ARE COVERED BY SECTION 85 IS OF 
+FUNDAMENTAL IMPORTANCE. 
+
+
+Financial institutions in the United States regularly. 
+extend enormous amounts of credit on credit card accounts. 
+The outstanding balances on VISA and MasterCard credit 
+cards issued in the United States alone exceeded $275 billion 
+at mid-year 1995. The Nilson Report, Issue No. 603 (Sept. 
+1995) at 7. Amici’s members which extend the hundreds of 
+billions of dollars of credit must be able to determine whether 
+late fees are included in the federal interest authority 
+
+
+provided by Section 85, since late fees constitute a significant 
+component of credit card pricing. Absent such guidance, 
+banks cannot know whether their lending charges comply 
+with applicable fee limitations. If they guess wrongly, they 
+are exposed to tens, if not hundreds, of millions of dollars of 
+liability for imposing excess fees. 
+
+
+The late fee itself is a very important price component 
+of credit card loans. That fee facilitates the fair and efficient 
+administration of credit card programs; it allows card issuers 
+“to impose default costs on late payers, who are responsible 
+for them, and to avoid shifting [such costs] to timely payers, 
+who are not.” Smiley, 11 Cal. 4th at 161. In addition, late 
+fees constituted a majority of the estimated $2.1 billion in 
+miscellaneous fees (namely, fees other than periodic finance 
+charges, annual fees and cash advance fees) that were 
+collected by bank card issuers in 1994. See Card Industry 
+Directory (Faulkner & Grey 1996) at 18. 
+
+
+This issue already has generated a significant amount 
+of complicated, time-consuming, and expensive litigation. 
+Over forty-five class action lawsuits and state enforcement 
+actions have been filed across the country since November 
+1991 challenging whether Section 85 (or Sections 521 
+through 523 of DIDA) applies to late fees on credit card 
+loans. To date, such cases have been filed in Alabama, 
+California, Colorado, Maine, Massachusetts, Minnesota, New 
+Jersey, Pennsylvania, South Carolina, and Wisconsin. In 
+many instances, the plaintiffs’ theories of state law violations 
+could result in recoveries of a multiple of the allegedly 
+excessive late fees, or even forfeiture of all charges 
+(including periodic finance charges). Prompt resolution of 
+the scope of Section 85 is thus needed to protect national 
+banks (federal instrumentalities) from potentially ruinous 
+damages under state law. 
+
+
+The current uncertainty also presents a clear risk of 
+substantial disruption to the nation’s credit card payment 
+systems, which are critical to the functioning of the nation’s 
+economy. At mid-year 1995, there were approximately 343.1 
+million VISA and MasterCard credit cards issued 
+domestically, which accessed about 252.9 million accounts. 
+The Nilson Report, Issue No. 603 (Sept. 1995) at 7. 
+Annualizing data for the first six months of 1995, there will 
+be approximately 5.5 billion transactions on VISA and 
+MasterCard credit cards issued in the United States alone, for 
+an aggregate volume of $490.5 billion. Jd. 
+
+
+In reliance on existing case law and the OCC’s 
+interpretations, Amici’s members have established pricing for 
+their credit card accounts based upon the understanding that 
+federal law controls the permissibility of late fees. If the 
+courts do not follow the OCC’s guidance on this point, the 
+pricing structures of Amici’s members will be at risk, leaving 
+those institutions in a potentially precarious state which could 
+threaten their existence. In addition, new interpretations of 
+the applicable law that governs late fees will force Amici’s 
+members to engage in costly and time-consuming changes to 
+existing account pricing strategies and systems for servicing 
+their credit card accounts. The uncertainty and resulting 
+dislocation are likely to impact significantly the availability 
+of credit on bank cards nationwide. 
+
+
+CONCLUSION 
+
+
+For the reasons set forth above, Amici strongly urge 
+the Court to grant the petition for certiorari in this case. 
+
+
+Respectfully submitted, 
+
+
+SHIRLEY M. HUFSTEDLER 
+Counsel of Record 
+
+L. RICHARD FISCHER 
+
+JAMES A. HUIZINGA 
+
+MORRISON & FOERSTER 
+
+2000 Pennsylvania Avenue, N.W. 
+
+Washington, DC 20006 
+
+(202) 887-1500 
+
+
+Attorneys for Amici Curiae 
+The American Bankers 
+Association, 
+
+MasterCard International 
+Incorporated 
+
+and VISA U.S.A. Inc. 
+
+

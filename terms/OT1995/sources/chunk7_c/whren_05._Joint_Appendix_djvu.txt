@@ -1,0 +1,950 @@
+S 
+
+
+No. 95-5841 B 9 
+
+
+In The 
+
+
+Supreme Court of the United States 
+October Term, 1995 
+
+
+> 
+MICHAEL A. WHREN and JAMES L. BROWN, 
+Petitioners, 
+v. 
+UNITED STATES, 
+Respondent. 
+
+
+S 
+
+
+On Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The District Of Columbia Circuit 
+
+
++ 
+JOINT APPENDIX 
+> 
+
+A.J. KRAMER Drew S. Days, III* 
+Federal Public Defender Solicitor General 
+Lisa BurcetT WRIGHT* Department of Justice 
+Asst. Federal Public Defender Washington, D.C. 20530 
+625 Indiana Ave., N.W., (202) 514-2217 
+Suite 550 Counsel for Respondent 
+
+
+Washington, D.C. 20004 
+(202) 208-7500 
+Counsel for Petitioner Whren 
+
+
+G. ALLEN DALE 
+
+307 G Street, N.W. 
+Washington, D.C. 20001 
+(202) 638-2900 
+
+Counsel for Petitioner Brown 
+
+
+*Counsel of Record 
+
+
+Petition For Certiorari Filed August 31, 1995 
+Certiorari Granted January 5, 1996 
+
+
+——— eee 
+
+
+COCKLE LAW BRIEF PRINTING CO., (800) 225-6964 
+OR CALL COLLECT (402) 342-2831 
+
+
+i 
+
+
+TABLE OF CONTENTS 
+
+
+Relevant Docket Entries 
+
+
+Transcript of District Court’s Oral Ruling Denying 
+— Motions To Suppress (October 20, 
+1 
+
+
+Opinion of the United States Court of A for the 
+District of Columbia Circuit in No. 94-3012, United 
+States v. Whren, and consolidated case No. 94-3017, 
+United States v. Brown (May 12, 1995) 
+
+
+~~ Se 
+
+
+1 
+
+
+Grey Sat Ah iy 
+
+
+Order of the United States Supreme Court Granting 
+Petition for a Writ of Certiorari and Motion for 
+Leave to Proceed In Forma Pauperis (January 5, 
+
+
+7 7 
+Ta 
+
+
+1 
+
+
+Relevant Docket Entries 
+District Court No. 93-CR-274 (D.D.C.) 
+
+
+Date Proceedings 
+
+
+6/10/93 Defendants Michael Whren, James L. Brown 
+arrested. 
+
+
+6/14/93 Arraignment on magistrate complaint. 
+6/16/93 Preliminary hearing. 
+
+7/8/93 Indictment filed. 
+7/14/93 Arraignment. 
+
+
+8/25/93 Motion filed by James L. Brown to suppress 
+tangible evidence. 
+
+
+9/3/93 Response by USA in opposition to motion to 
+suppress tangible evidence by James L. 
+Brown. 
+
+
+9/7/93 Motion filed by Michael A. Whren for leave to 
+file accompanying motion to suppress evi- 
+dence. Exhibit: Motion to suppress evidence. 
+
+
+9/13/93 Response by USA in opposition to motion to 
+suppress evidence by Michael A. Whren and 
+motion to suppress tangible evidence by 
+James L. Brown. 
+
+
+10/20/93 Motion filed by Michael A. Whren to suppress 
+evidence. 
+
+
+10/20/93 Motion hearing before Judge Norma H. John- 
+son as to Michael A. Whren, James L. Brown: 
+Heard and denied motion to suppress evi- 
+dence as to Michael A. Whren; heard and 
+denied motion to suppress tangible evidence 
+as to James L. Brown. 
+
+
+EE! 
+
+
+10/21/93 
+10/22/93 
+10/25/93 
+10/26/93 
+10/27/93 
+10/28/93 
+
+
+1/26/94 
+1/27/94 
+
+
+2/9/94 
+2/9/94 
+2/10/94 
+
+
+2/17/94 
+12/7/95 
+12/11/95 
+
+
+Jury trial begun. 
+
+Jury trial. 
+
+Jury trial. 
+
+Jury trial. 
+
+Jury trial concluded. Deliberations begun. 
+
+
+Verdict of guilty rendered as to Michael A. 
+Whren (Counts 1, 2, 3, 4) and James L. Brown 
+(Counts 1, 2, 3, 4). 
+
+
+Sentencing for Michael A. Whren. 
+
+
+Judgment and Commitment, with Statement 
+of Reasons, issued by Judge Norma H. John- 
+son as to Michael A. Whren [Entry date 
+2/18/94). 
+
+
+Sentencing for James L. Brown. 
+Notice of appeal filed by James L. Brown. 
+
+
+Judgment and Commitment, with Statement 
+of Reasons, issued by Judge Norma H. John- 
+son as to James L. Brown [Entry date 
+2/22/94). 
+
+
+Notice of appeal filed by Michael A. Whren. 
+Resentencing for Michael A. Whren. 
+
+
+Resentencing for James L. Brown. 
+
+
+Court of Appeals Nos. 94-3012 (Whren) and 
+
+
+5/12/95 
+
+
+94-3017 (Brown) 
+
+
+Judgment for the reasons in the accompany- 
+ing opinion affirming convictions and 
+remanding case to the USDC for resentencing. 
+Before Judges Buckley, Williams. Sentelle. 
+
+
+6/26/95 
+
+
+7/13/95 
+
+
+7/13/95 
+
+
+Petition for rehearing and suggestion for 
+rehearing in banc filed by Appellant Michael 
+A. Whren and Appellant James L. Brown. 
+Per curiam order filed denying petition for 
+rehearing. 
+
+Per curiam order, In Banc, filed denying sug- 
+gestion for rehearing in banc. 
+
+
+4 
+
+
+UNITED STATES DISTRICT COURT 
+FOR THE DISTRICT OF COLUMBIA 
+
+
+UNITED STATES OF * CRIMINAL NO. 93-0274 
+AMERICA, * WASHINGTON, D.C. 
+v. * COURTROOM NO. 4 
+MICHAEL A. WHREN, * WEDNESDAY, 
+JAMES L. BROWN, * OCTOBER 20, 1993 
+* 10:05 A.M. 
+
+
+DEFENDANTS. 
+
+
+TRANSCRIPT OF ».JTIONS AND TRIAL BEFORE THE 
+HONORABLE NORMA HOLLOWAY JOHNSON 
+UNITED STATES DISTRICT JUDGE 
+
+
+[137] THE COURT: * * * Well, Mr. Whren and Mr. Brown, | 
+have had an opportunity to hear evidence on the motions 
+that you filed to suppress certain evidence, certain tang- 
+ible evidence recovered on the date of your arrest. I have 
+heard testimony presented by Officers Soto and Little- 
+john. I have heard the evidence that [138] the United 
+States wished to present in support of its position that the 
+evidence should not be suppressed, and I have heard 
+evidence as presented by Mr. Whren through Mr. Cam- 
+enisch from Officer Littlejohn. 
+
+
+Now, it is absolutely true, anyone who has heard the 
+testimony here today knows that not every item of evi- 
+dence was indeed consistent. There were differences indi- 
+cated and there were efforts made to demonstrate that the 
+evidence might not be truthful. But when I review all of 
+the evidence as a whole, it is clear to me that notwith- 
+standing certain differences between Officer Littlejohn 
+and Officer Soto, for the most part, all of the evidence is 
+
+
+consistent, and the one thing that was not controverted, 
+and that to me was important, is the facts surrounding 
+the stop. There may be different ways in which one can 
+interpret it but, truly, the facts of the stop were not 
+controverted. There was nothing to really demonstrate 
+that the actions of the officers were contrary to a normal 
+traffic stop. It may not be what some of us believe should 
+be done, or when it should be done, or how it should be 
+done, but the facts stand uncontroverted, and the court is 
+going to accept the testimony of Officer Soto. 
+
+
+I was indeed concerned primarily with the manner in 
+which he responded to a question more more so than his 
+response to that question. But I do believe that the gov- 
+ernment has demonstrated through the evidence pre- 
+sented that the police [139] conduct was appropriate and, 
+therefore, there is no basis to suppress the evidence. And 
+it is so ordered. The motions to suppress will be denied. 
+
+
+6 
+
+
+UNITED STATES COURT OF APPEALS 
+
+
+FOR THE DISTRICT OF COLUMBIA CIRCUIT 
+
+
+Argued February 13, 1995 Decided May 12, 1995 
+No. 94-3012 
+
+
+Unrrep States OF AMERICA, 
+APPELLEE 
+
+
+Vv. 
+
+
+Micuaet A. WHREN, 
+APPELLANT 
+
+
+and consolidated case No. 94-3017 
+
+
+Appeals from the United States District Court 
+for the District of Columbia 
+93-cr00274 
+93-cr00274-02 
+
+
+Before Bucktey, WitiaMs, and Sente te, Circuit Judges: 
+Opinion for the Court filed by Circuit Judge Senrette. 
+
+
+Sentette, Circuit Judge: Appellants Michael Whren 
+and James Lester Brown challenge their convictions for 
+federal drug offenses, asserting, among other things, that 
+the District Court erred in denying their motions to sup- 
+press physical evidence. Appellants contend that police 
+officers obtained evidence as a result of an illegal search 
+and seizure in violation of appellants’ Fourth Amend- 
+ment rights. Appellants also challenge their convictions 
+and sentences for possession with intent to distribute 
+cocaine base under 21 U.S.C. § 841 (1988), arguing that 
+
+
+section 841 is a lesser-included offense of their separate 
+convictions for possession with intent to distribute 
+cocaine base within 1000 feet of a school under 21 U.S.C. 
+§ 860(a) (1988). While we reject appellants’ Fourth 
+Amendment challenges and otherwise affirm appellants’ 
+convictions, we remand for resentencing pursuant to the 
+parties’ agreement that section 841 is a lesser-included 
+offense of a section 860(a) offense. 
+
+
+I. BACKGROUND 
+
+
+On July 8, 1993, a federal grand jury returned a four- 
+count indictment against appellants Michael Whren and 
+James Lester Brown, charging appellants with (1) posses- 
+sion with intent to distribute 50 grams or more of cocaine 
+base, or crack, in violation of 21 U.S.C. §§ 841(a)(1) and 
+841(b)(1)(A)(iii) (Count One); (2) possession with intent 
+to distribute cocaine base within 1000 feet of a school in 
+violation of 21 U.S.C. § 860(a) (Count Two); (3) possession 
+of a controlled substance (marijuana) in violation of 21 
+U.S.C. § 844(a) (Count Three); and (4) possession of a 
+controlled substance (phencyclidine (“PCP”)) in violation 
+of 21 U.S.C. § 844(a) (Count Four). Following a pre-trial 
+suppression hearing to consider appellants’ claim that 
+evidence was seized as a result of a police stop and 
+seizure which violated appellants’ Fourth Amendment 
+rights, the District Court denied appellants’ motions to 
+suppress physical evidence. After a subsequent jury trial, 
+the jury found appellants guilty on all four counts. 
+
+
+A. The Suppression Hearing 
+
+
+The District Court heard extensive evidence in con- 
+sidering appellants’ Fourth Amendment claim. The gov- 
+ernment presented as witnesses the arresting officers, 
+who testified about the events surrounding appellants’ 
+arrest. On the evening of June 10, 1993, District of Colum- 
+bia police officers Efrain Soto, Jr., Homer Littlejohn and 
+several other plainclothes vice officers were patrolling for 
+drug activity in the area of Minnesota Avenue and Ely 
+Place, in Southeast Washington, in two unmarked cars. 
+Officers Soto and Littlejohn were in a car driven by 
+another officer, Investigator Tony Howard. 
+
+
+Soto testified that as the officers turned left off of 
+37th Place onte “ly Place heading north, he noticed a 
+dark colored Nissan Pathfinder with temporary tags at 
+the stop sign on 37th Place. Soto observed the driver, later 
+identified as Brown, looking down into the lap of the 
+passenger, Whren. Soto testified that at least one car was 
+stopped behind the Pathfinder. As the officers proceeded 
+slowly onto 37th Place, Soto continued to watch the Path- 
+finder, which Soto testified remained stopped at the inter- 
+section for more than twenty seconds obstructing traffic 
+behind it. Investigator Howard had already begun to 
+make a U-turn to tail the Pathfinder when Soto instructed 
+him to follow it. As the officers turned to tail the vehicle, 
+appellants turned west onto Ely Place without signalling 
+and, as Soto testified, “sped off quickly.” Soto further 
+testified that the Pathfinder proceeded at an “unreason- 
+
+
+able speed.” 
+
+
+The officers followed the Pathfinder onto Ely Place, 
+until it stopped at the intersection of Ely Place and Min- 
+nesota Avenue, surrounded by several cars in front of it, 
+two behind it, and several to its right. The officers pulled 
+into the eastbound !ane of traffic parallel to the Path- 
+finder on the driver's side. Officer Soto then immediately 
+exited his vehicle and approached the driver’s side of the 
+Pathfinder, identifying himself as a police officer. Officer 
+Littlejohn followed a few steps behind and to the right of 
+Soto. 
+
+
+After noticing that appellants could not pull over 
+because of parked cars to their right, Soto told appellant 
+Brown to put the Pathfinder in park. As he was speaking, 
+Soto noticed that appellant Whren was holding a large 
+clear plastic bag of what the officer suspected to be 
+cocaine base in each hand. Soto yelled “C.S.A.” to notify 
+the other officers that he had observed a Controlled Sub- 
+stances Act violation. He testified that, as he reached for 
+the driver’s side door, he heard Whren yell “pull off, pull 
+off,” and observed Whren pull the cover off of a power 
+window control panel in the passenger door and put one 
+of the large bags into the hidden compartment therein. 
+Soto opened the door, dove across Brown and grabbed 
+the other bag from Whren’s left hand. Officer Littlejohn 
+pinned Brown to the back of the driver’s seat so that he 
+could not move. 
+
+
+Multiple officers then placed appellants under arrest 
+and searched the Pathfinder at the scene. The officers 
+recovered two tinfoils containing marijuana laced with 
+PCP, a bag of chunky white rocks and a large white rock 
+of crack cocaine from the hidden compartment on the 
+
+
+10 
+
+
+passenger side door, numerous unused ziplock bags, a 
+portable phone and personal papers. 
+
+
+Defense attorneys pressed the arresting officers on 
+their reasons for making the stop. Soto stated that the 
+driver of the vehicle was “not paying full time and atten- 
+tion to his driving.” Soto testified that he did not intend 
+to issue a ticket to the driver for stopping too long at the 
+stop sign, but he wished to stop the Pathfinder to inquire 
+why it was obstructing traffic and why it sped off without 
+signalling in a school area. He testified that the decision 
+to stop the Pathfinder was not based upon the “racial 
+profile” of the appellants, but rather on the actions of the 
+driver. Officer Littlejohn’s testimony differed only 
+slightly from Soto’s with respect to the hand from which 
+Soto seized the drugs, but otherwise confirmed Soto's 
+account. 
+
+
+B. The District Court's Suppression Ruling 
+
+
+After hearing the evidence and appellants’ argument 
+that the traffic stop was pretextual and thus violated the 
+Fourth Amendment, the District Court denied appellants’ 
+motions to suppress the physical evidence. Although the 
+court noted some minor discrepancies between testimony 
+by Littlejohn and Soto, it noted that 
+
+
+the one thing that was not controverted .. . is 
+the facts surrounding the stop. There may be 
+different ways in which one can interpret it but, 
+truly, the facts of the stop were not contro- 
+verted. There was nothing to really demonstrate 
+that the actions of the officers were contrary to a 
+normal traffic stop. It may not be what some of 
+us believe should be done, or when it should be 
+
+
+—_— 
+
+
+11 
+
+
+done, or how it should be done, but the facts 
+stand uncontroverted, and the court is going to 
+accept the testimony of Officer Soto. 
+
+
+The court thus concluded that “the government has dem- 
+onstrated through the evidence presented that the police 
+conduct was appropriate and, therefore, there is no basis 
+to suppress the evidence.” 
+
+
+C. The Convictions and the Appeal 
+
+
+Following the court’s pre-trial suppression ruling, 
+trial proceeded, and appellants were convicted on all four 
+counts. On January 26, 1994, appellant Whren was sen- 
+tenced to 168 months incarceration and five years super- 
+vised release on count one, 168 months incarceration and 
+ten years supervised release on count two, one year 
+imprisonment and one year supervised release on each of 
+counts three and four. All terms were to be served con- 
+currently. Whren was also assessed a fine of $8,800 on 
+each count, all fines to be concurrent with count two, and 
+a special assessment of $150. On February 9, 1994, appel- 
+lant Brown was sentenced to 168 months incarceration 
+and ten years supervised release on count one, 168 
+months incarceration and five years supervised release on 
+count two, one year imprisonment and one year super- 
+vised release on each of counts three and four, all terms 
+to be served concurrently, and a $150 special assessment. 
+
+
+Whren and Brown appeal their convictions and sen- 
+tences, raising several challenges. Although we have 
+accorded each alleged error full consideration, we believe 
+
+
+12 
+
+
+several do not merit separate discussion. For those chal- 
+lenges to appellants’ convictions not discussed speci- 
+fically herein, we reject appellants’ arguments. We thus 
+turn our attention to the two arguments we believe merit 
+separate discussion: (1) that the District Court erred in 
+denying their motions for suppression of physical evi- 
+dence under the Fourth Amendment; and (2) that count 
+one of appellants’ indictment is a lesser-included offense 
+of count two. 
+
+
+Il. DISCUSSION 
+
+
+Appellants contend that the District Court erred in 
+denying their motions to suppress physical evidence 
+seized as a result of the traffic stop on June 10, 1993. They 
+argue that the police officers used the alleged traffic 
+violations as a pretext for what in actuality was a search 
+for drugs without probable cause; thus, the search was 
+objectively unreasonable under the Fourth Amendment. 
+Although appellants recognize that this circuit has faced 
+similar circumstances in United States v. Mitchell, 951 F.2d 
+1291 (D.C. Cir. 1991), cert. denied, 112 S. Ct. 1976 (1992), 
+they contend that Mitchell did not adopt a standard with 
+sufficient specificity to govern this case. Appellants assert 
+that Mitchell merely requires a court to “look to objective 
+circumstances . . . rather than an officer’s state of mind,” 
+in determining the legitimacy of police conduct. Mitchell, 
+951 F.2d at 1295. Here, they contend that the objective 
+circumstances did not justify the stop. 
+
+
+13 
+
+
+Appellants argue that this court should borrow from 
+the law of other circuits in determining whether “objec- 
+tive circumstances” warrant a search. While several cir- 
+cuits hold that an alleged pretextual stop is valid as long 
+as an officer legally “could have” stopped the car in 
+question because of a suspected traffic violation, see, e.g., 
+United States v. Scopo, 19 F.3d 777, 782-84 (2d Cir.), cert. 
+denied, 115 S. Ct. 207 (1994); United States v. Hassan El, 5 
+F.3d 726, 730 (4th Cir. 1993), cert. denied, 114 S. Ct. 1374 
+(1994), appellants urge the court to adopt the test laid out 
+by the Tenth and Eleventh Circuits, which have held that 
+a stop is valid only if “under the same circumstances a 
+reasonable officer would have made the stop in the 
+absence of the invalid purpose.” United States v. Smith, 
+799 F.2d 704, 709 (11th Cir. 1986) (emphasis added); see 
+United States v. Guzman, 864 F.2d 1512, 1517 (10th Cir. 
+1988). Appellants contend that the “would have” test is 
+superior to the “could have” test because the latter fails 
+to place any reasonable limitations on discretionary 
+police conduct, thus “cut[ting] at the heart of the Fourth 
+Amendment.” Brief of Appellant Whren at 22. 
+
+
+Finally, appellants assert that the District Court erred 
+in convicting them for violation of 21 U.S.C. § 841 as well 
+as 21 U.S.C. § 860(a), because the former is a lesser- 
+included offense of the latter. 
+
+
+A. The Traffic Stop and Search. 
+
+
+The Fourth Amendment to the U.S. Constitution pro- 
+vides that “[t]he right of the people to be secure in their 
+persons, houses, papers, and effects, against unreason- 
+able searches and seizures, shall not be violated... . ” 
+
+
+14 
+
+
+U.S. Const. amend. IV. The Amendment imposes “a stan- 
+dard of ‘reasonableness’ upon the exercise of discretion 
+by government officials.” Delaware v. Prouse, 440 U.S. 648, 
+653-54 (1979). Because an ordinary traffic stop constitutes 
+a limited seizure within the meaning of the Fourth 
+Amendment, Prouse, 440 U.S. at 653, such action must be 
+justified by probable cause or, at least, reasonable suspi- 
+cion of unlawful conduct, based upon specific and articu- 
+lable facts. See Terry v. Ohio, 392 U.S. 1, 21 (1968). In the 
+context of automobile stops and searches, a court “must 
+look to objective circumstances in determining the legit- 
+imacy of police conduct under the Fourth Amendment.” 
+Mitchell, 951 F.2d at 1295. 
+
+
+In claiming that this court should adopt the “would 
+have” test for determining whether objective circum- 
+stances exist to warrant an automobile stop and subse- 
+quent search, appellants argue that pretextual stops are 
+objectively unreasonable because, under the same cir- 
+cumstances, an officer without ulterior purposes would 
+not have stopped the offenders. However, “[e]ven if we 
+agreed that the stop was a mere pretext for a search, that 
+does not mean that a violation of the Fourth Amendment 
+has occurred.” Mitchell, 951 F.2d at 1295. 
+
+
+Mitchell provides strikingly similar facts to this case. 
+In Mitchell, a D.C. police officer, Stone, observed the two 
+defendants, Mitchell and Zollicoffer, drive at a “high rate 
+of speed,” stop suddenly, and turn sharply without sig- 
+nalling. Id. at 1293. Stone gave chase and pulled their car 
+over after brief pursuit. When Stone went to the window 
+of the car, he had not yet decided whether to issue a 
+citation. As he returned to his car to run a check on the 
+
+
+15 
+
+
+driver, an assisting officer noticed Zollicoffer leaning for- 
+ward in the passenger seat with his hands inside his coat, 
+as if holding a weapon. The officer ordered the defen- 
+dants out of the car, searched them, and found weapons 
+on each. Id. at 1293-94. Mitchell and Zollicoffer moved to 
+suppress tangible evidence recovered during the stop, 
+but the trial court denied their motions to suppress. Id. at 
+1294. 
+
+
+Against appellants’ arguments that the stop was an 
+unlawful pretext to search, this court affirmed. Id. at 1299. 
+We reasoned that “[t]he Fourth Amendment does not bar 
+the police from stopping and questioning motorists when 
+they witness or suspect a violation of traffic laws, even if 
+the offense is a minor one.” Id. at 1295. Officer Stone had 
+observed two of the violations observed by Officer Soto 
+in this case: speeding and turning without a signal. /d. 
+Like Officer Soto, Officer Stone had not yet decided 
+whether to issue a citation, but we held that his indeci- 
+sion “does not vitiate the justification for the initial stop.” 
+Id. In applying the “objective circumstances” test, we 
+noted that “[e]ven a relatively minor offense that would 
+not of itself lead to an arrest can provide a basis for a stop 
+for questioning and inspection of the driver’s permit and 
+registration.” Id. (quoting United States v. Montgomery, 561 
+F.2d 875, 880 (D.C. Cir. 1977)). Presented with the fact that 
+the officer had observed the traffic violations, the court 
+concluded that “objective circumstances clearly justified 
+stopping the car.” Jd. 
+
+
+In holding that a traffic stop is reasonable as long as 
+the officer has observed traffic violations by the defen- 
+dant, Mitchell implicitly adopts the standard embraced by 
+
+
+16 
+
+
+the majority of courts which have considered the “pre- 
+text” issue. That is, regardless of whether a police officer 
+subjectively believes that the occupants of an automobile 
+may be engaging in some other illegal behavior, a traffic 
+stop is permissible as long as a reasonable officer in the 
+same circumstances could have stopped the car for the 
+suspected traffic violation. See United States v. Scopo, 19 
+F.3d at 784 (“[W]here the arresting officer had probable 
+cause to believe that a traffic violation occurred or was 
+occurring in the officer's presence, and was authorized 
+by state or municipal law to effect a custodial arrest for 
+the particular offense, the resulting arrest will not violate 
+the fourth amendment.”); United States v. Hassan El, 5 F.3d 
+at 730 (“[W]Jhen an officer observes a traffic offense or 
+other unlawful conduct, he or she is justified in stopping 
+the vehicle under the Fourth Amendment.”); United States 
+v. Ferguson, 8 F.3d 385, 392 (6th Cir. 1993) (in banc) 
+(“[T]raffic stops based on probable cause, even if other 
+motivations existed, are not illegal.”), cert. denied, 115 S. 
+Ct. 97 (1994). 
+
+
+We thus reject appellants’ suggestion that we adopt 
+the more open-ended “would have” standard of the Tenth 
+and Eleventh Circuits. See United States v. Smith, 799 F.2d 
+at 709 (11th Cir. 1986); see also United States v. Guzman, 864 
+F.2d at 1517 (10th Cir. 1988). The objective “could have” 
+standard provides a more principled method of determin- 
+ing reasonableness for two primary reasons. First, it elim- 
+inates the necessity for the court’s inquiring into an 
+officer's subjective state of mind, in keeping with the 
+Supreme Court’s admonitions that Fourth Amendment 
+
+
+17 
+
+
+inquiries depend “on an objective assessment of the offi- 
+cers’ actions in light of the facts and circumstances con- 
+fronting him at the time . . . and not on the officer's actual 
+state of mind at the time the challenged action was 
+taken.” Maryland v. Macon, 472 U.S. 463, 470-71 (1985). At 
+the same time, in response to appellants’ legitimate con- 
+cerns regarding police conduct, the “could have” test 
+provides a principled limitation on abuse of power. Offi- 
+cers cannot make a traffic stop unless they have probable 
+cause to believe a traffic violation has occurred or a 
+reasonable suspicion of unlawful conduct based upon 
+articulable facts - requirements which restrain police 
+behavior. Cf. Delaware v. Prouse, 440 U.S. at 661. 
+
+
+Applied to the facts of this case, the objective test 
+adopted in Mitchell suggests that Officers Soto and Little- 
+john had sufficient grounds to stop appellants. The Dis- 
+trict Court credited the testimony of Soto, who observed 
+three traffic violations when appellant failed to give “full 
+time and attention” to his driving, see Title 18 D.C.M.R. 
+Vehicle and Traffic Regulations § 2213.4, turned without 
+signalling, see id. at § 2204.3, and drove away at an 
+unreasonable speed. That factual finding is not clearly 
+erroneous. See United States v. Taylor, 997 F.2d 1551, 1553 
+(D.C. Cir. 1993) (district court's findings of fact reviewed 
+for clear error). Having seen those violations, Soto had 
+the articulable and specific facts necessary to establish 
+probable cause to stop appellants. See Mitchell, 951 F.2d at 
+1295; Hassan El, 5 F.3d at 729-30; Scopo, 19 F.3d at 781. Our 
+inquiry goes no further. 
+
+
+We wish to make one point clear in applying the 
+Mitchell standard. The Mitchell test ensures that the val- 
+idity of the traffic stop “is not subject to the vagaries of 
+
+
+18 
+
+
+police departments’ policies and procedures.” Ferguson, 8 
+F.3d at 392. That is, whether a stop can be made depends 
+on whether the officers had an objective legal basis for it, 
+not on whether the police department assigned the officer 
+in question the duty of making the stop. See Hassan El, 5 
+F.3d at 730 (rejecting defendant's argument that stop was 
+unreasonable because particular arresting officers were 
+plainclothes officers assigned to narcotics duty, not traffic 
+duty). In this instance, it is of no moment that Soto and 
+Littlejohn were vice officers patrolling for drug violations 
+rather than traffic police. When they observed a traffic 
+violation, they, as officers of the law, were constitu- 
+tionally justified in stopping appellants. 
+
+
+Accordingly, we reject appellants’ Fourth Amend- 
+ment arguments. Because appellants challenge only the 
+stop and not the subsequent search of the Pathfinder, we 
+need inquire no further. We conclude that the District 
+Court properly denied appellants’ motions to suppress. 
+
+
+B. The Lesser-Included Offense. 
+
+
+Appellants contend that their convictions for viola- 
+tion of 21 U.S.C. § 841(a)(1), which proscribes possession 
+with intent to distribute controlled substances, including 
+cocaine base, should be vacated because that section 
+describes a lesser-included offense of 21 U.S.C. § 860(a), 
+which proscribes possession with intent to distribute a 
+controlled substance within one thousand feet of a 
+school. Appellants rely on United States v. Williams, 782 F. 
+Supp. 7, 8-9 (D.D.C. 1992), aff'd without opinion, 6 F.3d 829 
+(D.C. Cir. 1993), in which the District Court concluded 
+that section 841 offenses were, in fact, lesser included 
+
+
+19 
+
+
+offenses of section 860(a) offenses. The government 
+agrees with appellants’ argument. Consequently, pur- 
+suant to the agreement of the parties, we will remand to 
+the District Court for entry of an amended judgment and 
+resentencing on Counts One and Two. 
+
+
+Ill. CONCLUSION 
+
+
+United States v. Mitchell dictates that police conduct in 
+this case was reasonable. When a police officer observes a 
+traffic violation, his subsequent stop of the vehicle is 
+reasonable because it is supported by probable cause. We 
+thus reject appellants’ Fourth Amendment arguments, as 
+well as all claims not discussed specifically herein. We 
+remand, however, for entry of an amendment judgment 
+and resentencing only with respect to Part II.B. above. 
+
+
+20 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE DISTRICT OF COLUMBIA CIRCUIT 
+
+
+United States of America September Term, 1994 
+
+
+7 USDC Crim. No. 
+' , 93-0274 
+Michael A. Whren, [stamped filed 
+Appellant July 13, 1995] 
+
+
+and Consolidated Case No. 94-3017 
+
+
+BEFORE: Buckley, Williams, and Sentelle, Circuit 
+Judges 
+
+
+- 
+
+
+ORDER 
+
+
+Upon consideration of Appellants’ Joint Petition for 
+Rehearing, filed June 26, 1995, it is 
+
+
+ORDERED, by the Court, that the petition is denied. 
+
+
+Per Curiam 
+
+
+FOR THE COURT: 
+Mark J. Langer, Clerk 
+
+
+BY: /s/ Robert A. Bonner 
+Robert A. Bonner 
+Deputy Clerk 
+
+
+21 
+
+
+SUPREME COURT OF THE UNITED STATES 
+No. 95-5841 
+Michael A. Whren and James L. Brown, 
+Petitioners 
+v. 
+United States 
+
+
+ON PETITION FOR WRIT OF CERTIORARI to the 
+United States Court of Appeals for the District of Colum- 
+bia Circuit. 
+
+ON CONSIDERATION of the motion for leave to 
+proceed herein in forma pauperis and of the petition for 
+writ of certiorari, it is ordered by this Court that the 
+motion to proceed in forma pauperis be, and the same is 
+hereby, granted; and that the petition for writ of certiorari 
+be, and the same is hereby, granted. The brief of peti- 
+tioners is to be filed with the Clerk and served upon 
+opposing counsel on or before 3 p.m., Friday, February 
+16, 1996. The brief of respondent is to be filed with the 
+Clerk and served upon opposing counsel on or before 3 
+p-m., Friday, March 15, 1996. A reply brief, if any, is to be 
+filed pursuant to Rule 25.3. Rule 29.2 does not apply. 
+
+
+January 5, 1996 
+
+

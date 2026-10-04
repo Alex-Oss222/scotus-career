@@ -1,0 +1,24 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 78,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:&quot;95-5841&quot; OR text:&quot;95-5841&quot; OR text__reviews:&quot;95-5841&quot;) OR title:Whren)",
+      "qin": "collection:us-supreme-court AND (&quot;95-5841&quot; OR title:Whren)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 100,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 1,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40385013_0782",
+        "title": "Whren v. United States, 517 U.S. 806 (1996) (No. 95-5841)"
+      }
+    ]
+  }
+}

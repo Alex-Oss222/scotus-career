@@ -1,0 +1,24 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 183,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:&quot;95-129&quot; OR text:&quot;95-129&quot; OR text__reviews:&quot;95-129&quot;) OR title:Sofec)",
+      "qin": "collection:us-supreme-court AND (&quot;95-129&quot; OR title:Sofec)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 100,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 1,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40385013_0635",
+        "title": "Exxon Co. v. Sofec, Inc., 517 U.S. 830 (1996) (No. 95-129)"
+      }
+    ]
+  }
+}

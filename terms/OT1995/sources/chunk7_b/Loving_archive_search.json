@@ -1,0 +1,60 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 226,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:&quot;94-1966&quot; OR text:&quot;94-1966&quot; OR text__reviews:&quot;94-1966&quot;) OR title:Loving)",
+      "qin": "collection:us-supreme-court AND (&quot;94-1966&quot; OR title:Loving)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 30,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 10,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40386412_0091",
+        "title": "Loving v. Virginia, 388 U.S. 1 (1967) (No. 395)"
+      },
+      {
+        "identifier": "micro_IA40386016_0562",
+        "title": "Everything For Love, Inc. v. Tender Loving Things, Inc., 546 U.S. 1172 (2006) (No. 05-727)"
+      },
+      {
+        "identifier": "micro_IA40386017_0582",
+        "title": "Loving v. Department of Defense (No. 08-1476)"
+      },
+      {
+        "identifier": "micro_IA40385013_0608",
+        "title": "Loving v. United States, 517 U.S. 748 (1996) (No. 94-1966)"
+      },
+      {
+        "identifier": "micro_IA40386014_2010",
+        "title": "Loving v. United States, 534 U.S. 949 (2001) (No. 00-1928)"
+      },
+      {
+        "identifier": "micro_IA40386008_1405",
+        "title": "Loving v. Hart, 525 U.S. 1040 (1998) (No. 98-251)"
+      },
+      {
+        "identifier": "micro_IA40386017_1623",
+        "title": "Loving v. United States, 562 U.S. 827 (2010) (No. 09-989)"
+      },
+      {
+        "identifier": "micro_IA40386013_0482",
+        "title": "Loving v. Pirelli Cable Corp., 520 U.S. 1241 (1997) (No. 96-1528)"
+      },
+      {
+        "identifier": "micro_IA40386418_0197",
+        "title": "T. A. Loving & Co. v. United States, 350 U.S. 884 (1955) (No. 365)"
+      },
+      {
+        "identifier": "micro_IA40385001_0838",
+        "title": "United States v. Saskatchewan Minerals, 385 U.S. 94 (1966) (No. 525)"
+      }
+    ]
+  }
+}

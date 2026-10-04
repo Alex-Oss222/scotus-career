@@ -1,0 +1,1219 @@
+In The 
+
+
+Supreme Court of the United States 
+October Term, 1995 
+
+
+¢ 
+
+
+BARBARA SMILEY, 
+
+
+Petitioner, 
+
+
+CITIBANK (SOUTH DAKOTA), N.A., 
+Respondent. 
+
+
+¢ 
+
+
+On Writ Of Certiorari To The 
+California Supreme Court 
+¢ 
+BRIEF OF GREENWOOD TRUST COMPANY AND 
+
+
+THE CHASE MANHATTAN BANK (USA) AS 
+AMICI CURIAE IN SUPPORT OF RESPONDENT 
+
+
+¢ 
+
+
+ALAN S. KAPLINSKY ArTHuR R. MILLER 
+Burt M. Rustin (Counsel of Record) 
+BALLARD SPAHR ANDrREws & 1545 Massachusetts Avenue 
+INGERSOLL Cambridge, MA 02138 
+1735 Market Street, (617) 495-4111 
+51st Floor 
+Philadelphia, PA 19103-7599 
+(215) 665-8500 
+
+
+Counsel for Amici Curiae 
+Greenwood Trust Company and 
+The Chase Manhattan Bank (USA) 
+
+
+Ak 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+INTEREST OF AMICI CURIAE .................... 1 
+SUMMARY OF ARGUMENT....................... 3 
+FEE bonne cebabeasndrcccdecreascctsesaseres 4 
+
+
+I. Courts and Federal Banking Agencies Have 
+Held that Late Charges Are “Interest” Under 
+Sections 521-523 of DIDA, Which Were Mod- 
+
+
+SD Ge NG i kb bc cic cedeccecccacctcecs 4 
+Il. Post-DIDA Legislation Supports the Conclu- 
+sion That Late Charges Are “Interest”....... 10 
+Pe. Fe EE GE WOR cscs cccccccccces 10 
+. OUI Se GE TR ow ccc ccc ccc cccesenns 11 
+Ge | FI s whine Oudevncncaccccescesnecess 12 
+III. The Legislative History of Section 501 of 
+SR OO CUMIIT, occ rncccccccccsessacesose 13 
+IV. Section 85 of the National Bank Act and Section 
+521 of DIDA Preempt The Common Law...... 17 
+V. The Construction of “Interest” In Sections 85 
+and 521 Has Far-Reaching Consequences .... 20 
+
+
+CEIPG ENS 6h c odd encdedegscnscencnrdsecdecdsonce 23 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page(s) 
+Cases 
+
+Board of Governors of Federal Reserve System v. First 
+Lincolnwood Corp., 439 U.S. 234 (1978).........+++. 11 
+Brown v. Hiatts, 82 U.S. (15 Wall.) 177 (1872)........ .7 
+Carter v. Carusi, 112 U.S. 478 (1884)............-+5.- 17 
+
+Central Bank of Denver v. First Interstate Bank, 114 
+S. Ct. 1499 (1994)... cncvccccccccscscsccscusoscce 14 
+
+Clarkson Construction Co. v. OSHA, 531 F.2d 451 
+(10th Cis. 1976).....cesccccccccevssseesnepeeneeenen 9 
+
+Evans v. National Bank of Savannah, 251 U.S. 108 
+(1919)... cccccccccccscessnese sense eiennnn nn - 19 
+
+Farmers’ & Mechanics’ Nat'l Bank v. Dearing, 91 U.S. 
+29 (1875)... cccccscvcevsevcsscesseeseeeeneeennnns . 20 
+
+
+Gavey Properties/762 v. First Financial Savings and 
+Loan Association, 845 F.2d 519 (5th Cir. 1988)....... 6 
+
+
+Greenwood Trust Co. v. Hunter, 143 N.J. 97, 668 
+A.2d 1067 (1995), petition for cert. pending, No. 
+95-963 (filed Dec. 18, 1996) . ooccccccoccsctcdscessce 2 
+
+
+Greenwood Trust Co. v. Massachusetts, 776 F.Supp. 
+21 (D. Mass. 1991), rev'd, 971 F.2d 818 (1st Cir. 
+1992), cert. denied, 113 S. Ct. 974 (1993) ....... pasisim 
+
+
+Harris v. Chase Manhattan Bank, N.A., 30 Cal. 
+App.4th 130, 35 Cal. Rptr.2d 733, review granted, 
+38 Cal. Rptr.2d 346, 889 P.2d 540, review dis- 
+missed, 46 Cal. Rptr.2d 748, 905 P.2d 417 (Cal. 
+1995), petition for cert. pending, No. 95-951 (filed 
+Dec. 18, 1996)... cccccsecenccveneus 2, 6, 7, 14, 19, 20 
+
+
+BODE). wo cccascoscccscucccesesnsscdabenseennaeen 14, 15 
+
+
+iii 
+TABLE OF AUTHORITIES - Continued 
+
+
+Page(s) 
+
+
+Hunter v. Greenwood Trust Co., 143 NJ. 97, 668 
+A.2d 1067 (1995), petition for cert. pending, No. 
+
+
+95-963 (filed Dec. 18, 1995)........................ 7 
+Marquette National Bank v. First of Omaha Service 
+
+Ss GY ES ME IR, oc occ ccccccccccccccccces 18 
+McCollum v. Hamilton National Bank, 303 U.S. 245 
+
+EES 19 
+M. Nahas & Co. v. First National Bank, 930 F.2d 608 
+
+EEE EE Ee — 
+Red Lion Broadcasting Co. v. FCC, 395 U.S. 367 
+
+Nee neccccceececce 11 
+
+
+Sherman v. Citibank (South Dakota), N.A., 143 N.]. 
+35, 668 A.2d 1036 (1995), petition for cert. pend- 
+ing, No. 95-991 (filed Dec. 21, 1995) .............. 22 
+
+
+Smiley v. Citibank (South Dakota), N.A., 11 Cal. 4th 
+138, 44 Cal. Rptr.2d 441, 900 P.2d 690 (1995), 
+cert. granted, 64 U.S.L.W. 3500 (Jan. 19, 1996).....3, 5 
+
+
+Stoorman v. Greenwood Trust Co., 908 P.2d 133 
+(Colo. 1995), petition for cert. pending, No. 
+
+
+5-1500 (filed March 18, 1996) ................ 2, 6, 7 
+"iy v. National Bank of Missouri, 85 U.S. (18 
+i in Cire eke ehesceseesrcccccccces cn 22 
+Va t v. First State Bank of Benson, 425 
+N.W.2d 803 (Minn.), cert. denied, 488 U.S. 943 
+EPO TT TUTTE TTT TTT Ee paeescens 6 
+West Virginia Univ. Hospitals, Inc. v. Casey, 499 U.S. 
+PERCE Chegubcbendsccecctccccsccceces poses OO 
+Zenith Radio Corp. v. United States, 437 US. 443 
+Ears GGnenecebboteccececcesccecececcecs: “ 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page(s) 
+S \sTuTes 
+92 UGC. © GB... ccccccccccccccccccccccccccee passim 
+12 UGC. § OB... .. 2. ccccccccccccccccecccccccccces 4,17 
+12 U.S.C. § 86a.......... ocencacosdssneeneecosecedns 10 
+Section 522 of DIDA, 12 U.S.C. § 1463(g) 
+
+pecan éepedudenéeéedaggedsabasnenewnees 3, 4, 5, 6, 8, 11 
+Section 501 of DIDA, 12 U.S.C. 
+
+G 17356-Falal)........eccccccccccseees 13, 14, 15, 16 
+Section 523 of DIDA, 12 U.S.C. 
+
+Bi eee 4, 5, 6, 8, 9, 11, 15 
+Section 521 of DIDA, 12 U.S.C. § 183l1d......... passim 
+BS UBC. © WR... ccccccccccccccccccscccccccoes 20 
+8S USC. © GORE) .. nnn cccccccccccccccccceccceccces 20 
+BF UGC. 6 SORRD 2... ccccccccccccccccccsccsessess 20 
+29 UGC. 6 GRBIMG.. ... 2. cccccccccccccccccccscceses 20 
+49 U.S.C. app. § 1506. ........ 66. eee c eee eee eeees 20 
+Pub.L. No. 93-501, §§ 201, 206, 88 Stat. 1557, 
+
+SEDO CRIP « « cccccccccccccccceccsccsceseecesess 10 
+
+
+Pub.L. No. 96-221, § 511, 94 Stat. 132, 164 (1980) .... 10 
+Pub.L. No. 96-221, § 528, 94 Stat. 132, 168 (1980) .... 16 
+Pub.L. No. 96-399, § 324(b)(2), 94 Stat. 1614, 1648 
+
+
+IED... -.< cnsa na sniatniawanaieiadetainananndies 10 
+Pub.L. No. 100-86, § 101(g)(2), 101 Stat. 552, 563 
+SUID ck anccnnccvaccdsadtniabinddamalaeiicas 11 
+
+
+Pub.L. No. 101-73, § 201(a)(1), 103 Stat. 183, 187 
+SDI... -onacenavacenavads deatadienaeeiae 11 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page(s) 
+Pub.L. No. 101-73, § 301, 103 Stat. 183, 282 (1989) .... 11 
+Pub.L. No. 103-328, 108 Stat. 2338 (1994)............ 12 
+REGULATIONS 
+fs © ft FSS a eee eee ae s 
+Lecistative MATERIALS 
+126 Cong. Rec. $16,112 (1980)....................... 10 
+H.R. - No. 54 at 343, 101st Cong., 1st Sess., pt. 
+1Q Dcetddedduahbakiebadnuhenbademnb cal wen ox 11 
+H.R. Conf. Rep. No. 651 at 63, 103d Cong., 2nd 
+RE EN PIE PE eS 12 
+BANKING AGENCY Opinion Letters 
+FDIC Op. No. 81-3, [1988-89 Transfer Binder] Fed. 
+Banking L. Rep. (CCH) 981,006 (Feb. 2, 1981)...... 6 
+FDIC Op. No. 81-7, [1988-89 Transfer Binder] Fed. 
+Banking L. Rep. (CCH) 981,008 (March 17, 1981) ..... 6 
+
+
+FDIC Op. No. 92-47, [1992-1993 Transfer Binder] 
+
+
+L. Rep. (CCH) $81,534 (July 8, 
+EA ET RS SER IES 3, 6, 8, 14, 17 
+
+
+iguns dknthedunedtasskeeduadaeennintben 6, 18, 20 
+Letter of W. Quillian, FHLBB Acting Gen- 
+eral [1994-1995 Transfer Binder] Fed. 
+L. Rep. (CCH) $82,852 at p. 62,403 
+RRR a A. Sy s 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page(s) 
+
+
+Letter of Richard S. Schulman, Acting Assoc. Gen. 
+Counsel, NCUA, 62 Banking Rep. (BNA) 766 
+
+
+Sigs, BE, THD «ccvcccccsccsccsccasetsceseescend 9, 18 
+
+
+Letter of Karen Solomon, OTS uty Chief 
+Counsel, [1994-1995 Transfer Binder] Fed. Bank- 
+
+
+ing L. Rep. (CCH) $82,852 (Sept. 29, Sere 
+
+
+MISCELLANEOUS 
+46 Fed. Reg. 24,153 (1981) .......--- 50 ep cece ee eeees 
+
+
+Credit Card Management, Card Industry Directory: 
+The Blue Book of the Credit and Debit Card Indus- 
+try in the United States, 1996 ed. at p. 18.......... 
+
+
+INTEREST OF AMICI CURIAE 
+
+
+Greenwood Trust Company (“Greenwood”) and The 
+Chase Manhattan Bank (USA) (“Chase”) submit this brief 
+as amici curiae in support of the position of Respondent 
+Citibank (South Dakota), N.A. (“Citibank”) that the judg- 
+ment of the California Supreme Court should be 
+affirmed.' 
+
+
+Greenwood and Chase are federally-insured state 
+banks that each issue tens of millions of credit cards to 
+customers in all fifty states. As federally-insured state 
+banks, Greenwood and Chase derive their federal lending 
+authority from Section 521 of the Depository Institutions 
+Deregulation and Monetary Control Act of 1980 
+(“DIDA”), 12 U.S.C. § 1831d, which has been codified as 
+Section 27 of the Federal Deposit Insurance Act. Congress 
+incorporated into Section 521 of DIDA the same language 
+long used in Section 85 of the National Bank Act for the 
+specific purpose of conferring upon federally-insured 
+state banks the same lending authority enjoyed by 
+national banks under Section 85. See Greenwood Trust Co. 
+v. Massachusetts, 971 F.2d 818, 826-827 (1st Cir. 1992), cert. 
+denied, 113 S.Ct. 974 (1993). Since Section 521 of DIDA has 
+uniformly been construed in pari materia with Section 85 
+of the National Bank Act, this Court's construction of 
+Section 85 in this case is vitally important to Greenwood 
+and Chase, as well as all other federally-insured state 
+banks. 
+
+
+' Pursuant to Court Rule 37.3, this brief is filed with the 
+consent of the parties. Letters of consent have been filed with 
+the Clerk's Office. 
+
+
+Moreover, both Greenwood and Chase are involved 
+in a number of class action lawsuits around the country 
+that challenge their assessment of credit card late charges, 
+including several cases now pending in this Court. Green- 
+wood Trust Co. v. Hunter, No. 95-963 (petition for certiorari 
+filed Dec. 18, 1995); Stoorman v. Greenwood Trust Co., No. 
+95-1500 (petition for certiorari filed March 18, 1996); 
+Harris v. Chase Manhattan Bank, No. 95-951 (petition for 
+certiorari filed Dec. 18, 1995). Also, the Court's construc- 
+tion of Section 85 will have a direct effect upon Chase, 
+since it was a national bank prior to June, 1990 and the 
+aforementioned cases brought against it seek relief for 
+conduct that occurred during the time period when it was 
+a national bank. 
+
+
+As pointed out in Citibank’s brief, national banks 
+have long exported credit card late charges permitted by 
+the laws of their home States in reliance upon the consis- 
+tent position of the Comptroller of the Currency (“OCC”) 
+that late charges are “interest” for purposes of Section 85. 
+Likewise, Greenwood, Chase, and other federally-insured 
+state banks have exported late charges permitted by the 
+laws of their home States in reliance upon the view of the 
+Federal Deposit Insurance Corporation (“FDIC”) that late 
+charges are “interest” under Section 521 of DIDA. FDIC 
+Op. No. 92-47, [1992-1993 Transfer Binder] Fed. Banking 
+L. Rep. (CCH) 981,534 (July 8, 1992). Therefore, adoption 
+of petitioner’s argument that late charges should not be 
+considered “interest” would wreak havoc not only on 
+national banks, but on state banks as well and would 
+expose the entire banking industry to potentially enor- 
+mous damage claims. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+As demonstrated in Citibank’s brief, the California 
+Supreme Court's decision holding that late charges are 
+“interest” under Section 85 comports with the language 
+and purposes of the statute, the established meaning of 
+“interest” at the time the National Bank Act was enacted, 
+as well as numerous judicial precedents and OCC opin- 
+ions construing Section 85. The arguments made by Cit- 
+ibank on these issues are supported by Greenwood and 
+Chase and will not be reiterated herein. 
+
+
+Greenwood and Chase are federally-insured state 
+banks governed by Section 521 of DIDA, which was 
+expressly modeled on Section 85. Courts and the FDIC 
+have held that Section 521 should be construed in the 
+same manner as Section 85, and just as late charges are 
+“interest” under Section 85, so too are they “interest” 
+under Section 521. Moreover, as shown below, the amend- 
+ments to Section 511 and Section 522 of DIDA demon- 
+strate that Congress understood the term “interest” to 
+encompass all loan related charges. Petitioner and her 
+amici have relied on the legislative history of Section 501 
+of DIDA, but the California Supreme Court, First Circuit 
+Court of Appeals and FDIC have all properly concluded 
+that this legislative history has absolutely no relevance to 
+the meaning of “interest” in either Section 85 or Section 
+521. Smiley v. Citibank, 11 Cal. 4th at 159 and n. 14; 
+Greenwood Trust Co. v. Massachusetts, 971 F.2d at 830 n. 10; 
+FDIC Op. No. 92-47, [1992-1993 Transfer Binder] Fed. 
+Banking L. Rep. (CCH) 981,534 (July 8, 1992). 
+
+
+The California Supreme Court correctly interpreted 
+the meaning of “interest” in Section 85, and therefore its 
+judgment should be affirmed. 
+
+
+¢ 
+
+
+ARGUMENT 
+
+
+I. Courts and Federal Banking Agencies Have Held 
+that Late Charges Are “Interest” Under Sections 
+521-523 of DIDA, Which Were Modeled on Section 
+85 
+
+
+As acknowledged in petitioner’s brief (p. 44), Section 
+85 served as the model for Section 521 of DIDA when the 
+latter statute was enacted in 1980. Section 521, like its 
+progenitor, provides that federally-insured state banks 
+may “take, receive, reserve, and charge on any loan or 
+discount made, or upon any note, bill of exchange, or 
+other evidence of debt, interest at a rate of not more than 
+1 per centum in excess of the discount rate on ninety-day 
+commercial paper in effect at the Federal Reserve bank in 
+the Federal Reserve district where such State bank . . . is 
+located or at the rate allowed by the laws of the State, 
+territory, or district where the bank is located, whichever may 
+be greater.” 12 U.S.C. § 1831d(a) (emphasis added). More- 
+over, the remedy provisions in Section 521(b) of DIDA are 
+virtually identical to those contained in 12 US.C. § 86. 
+
+
+Also, at the same time that Congress enacted Section 
+521 of DIDA, it enacted identical provisions governing 
+federally insured savings and loan institutions (Section 
+522 of DIDA, 94 Stat. 165, 12 U.S.C. § 1463(g)) and feder- 
+ally insured credit unions (Section 523 of DIDA, 94 Stat. 
+166, 12 U.S.C. § 1785(g)). Like Section 521, these provisions 
+
+
+incorporated the same language previously used in Sec- 
+tion 85.2 
+
+
+The purpose of Sections 521-523 of DIDA was to 
+place federally-insured state banks, savings and loans, 
+and credit unions in a position of competitive equality 
+with national banks, which historically had been stat- 
+utorily favored with respect to usury authority. Indeed, 
+the preamble of Section 521 expressly states that it was 
+enacted “[iJn order to prevent discrimination against 
+State-chartered insured depository institutions ...” 12 
+U.S.C. § 1831d(a). After setting forth a comprehensive 
+review of the legislative history of Section 521, the First 
+Circuit properly concluded in Greenwood Trust Co. v. Mas- 
+sachusetts that “Congress tried to level the playing field 
+between federally chartered and state-chartered banks 
+when it enacted DIDA,” and “the language borrowed 
+from Bank Act § 85 and incorporated into DIDA § 521 
+achieves parity between national banks and their state- 
+chartered counterparts ... ” 971 F.2d at 826, 827. 
+
+
+Given the incorporation of the Section 85 language 
+into Sections 521-523 of DIDA and the clearly expressed 
+intent of Congress to bestow upon all federally-insured 
+lepository institutions the same federal usury authority 
+
+
+2 As correctly stated by the California Supreme Court in the 
+decision below, the borrowed language from Section 85 acts “as 
+a choice-of-law provision, fixing the law of the national bank’s 
+home state relative to interest rates as the rule governing all 
+loans, even interstate loans, notwithstanding the law of any 
+other state. Section 85 thereby entrusts the question of the 
+lawfulness of a national bank’s interest rates to its home state 
+and to its home state alone.” 11 Cal. 4th at 149. 
+
+
+previously enjoyed solely by national banks, courts uni- 
+formly have held that Sections 521-523 should be con- 
+strued in pari materia with Section 85. See, e.g., Greenwood 
+Trust Co. v. Massachi setts, 971 F.2d at 826-828; Gavey Prop- 
+erties/762 v. First Financial Savings and Loan Ass‘n, 845 F.2d 
+519, 521 (5th Cir. 1988); Vanderweyst v. First State Bank of 
+Benson, 425 N.W.2d 803, 805-807 (Minn.), cert. denied, 488 
+U.S. 943 (1988); Stoorman v. Greenwood Trust Co., 908 P.2d 
+133, 135 (Colo. 1995), petition for cert. pending, No. 95-1500 
+(filed March 18, 1996); Harris v. Chase Manhattan Bank, 
+N.A., 30 Cal. App.4th 130, 35 Cal. Rptr.2d 733, review 
+granted, 38 Cal. Rptr.2d 346, 889 P.2d 540, review dismissed, 
+46 Cal. Rptr.2d 748, 905 P.2d 417 (Cal. 1995), petition for 
+cert. pending, No. 95-951 (filed Dec. 18, 1995). 
+
+
+Likewise, the FDIC has concluded ever since the 
+enactment of Section 521 that it should be interpreted in 
+exactly the same manner as Section 85. FDIC Op. No. 
+81-3, [1988-89 Transfer Binder] Fed. Banking L. Rep. 
+(CCH) 481,006 (Feb. 2, 1981); FDIC Op. No. 81-7, [1988-89 
+Transfer Binder] Fed. Banking L. Rep. (CCH) 481,008 
+(March 17, 1981); FDIC Op. No. 92-47, [1992-1993 Transfer 
+Binder] Fed. Banking L. Rep. (CCH) 81,534 (July 8, 
+1992); FDIC Op. No. 93-27, [1993-1994 Transfer Binder] 
+Fed. Banking L. Rep. (CCH) 781,635 (July 12, 1993). 
+
+
+In Greenwood Trust Co. v. Massachusetts, the First Cir- 
+cuit stated that federal appellate courts applying Section 
+85 “have had little trouble in construing the term ‘inter- 
+est’ to encompass a variety of lender-imposed fees and 
+financial requirements which are independent of a 
+numerical percentage rate .. . ” 971 F.2d at 829. Since 
+Section 521 is the “lineal descendent” of Section 85, id. at 
+830 n. 10, the court concluded that the preemptive scope 
+
+
+of Section 521, like that of Section 85, extends “well 
+beyond periodic percentage rates.” Id. at 830. 
+
+
+The First Circuit correctly recognized in Greenwood 
+Trust that a late charge fits comfortably within the defini- 
+tion of “interest” set forth by this Court in Brown v. Hiatts, 
+82 U.S. (15 Wall.) 177, 185 (1872): “Interest is the compen- 
+sation allowed by law, or fixed by the parties, for the use 
+or forbearance of money, or as damages for its detention.” 
+The First Circuit explained that “[s]uggesting that an 
+additional fee attached to a delinquent, defaulted account 
+is related to the creditor’s cost of lending that money 
+does no violence to language, to precedent, or, indeed, to 
+logic.” 971 F.2d at 825.5 The Colorado Supreme Court also 
+has held that late charges are “interest” under Section 521 
+of DIDA, as has the California Court of Appeal. Stoorman 
+v. Greenwood Trust, supra, 908 P.2d 133; Harris v. Chase 
+Manhattan Bank, supra, 30 Cal.App.4th 130. Cf. Hunter v. 
+Greenwood Trust Co., 143 N.J. 97, 668 A.2d 1067 (1995), 
+petition for cert. pending, No. 95-963 (filed Dec. 18, 1995) 
+(holding that Section 521 does not encompass late 
+charges). 
+
+
+3 The First Circuit unanimously reversed a trial court 
+decision from the Fall of 1991 which had held that only periodic 
+interest rates are “interest” under Section 521. Greenwood Trust 
+Co. v. Massachusetts, 776 F.Supp. 21 (D. Mass. 1991). However, 
+during the 10 months that elapsed between that unprecedented 
+district court decision and the subsequent reversal by the First 
+Circuit, the law firms for petitioner in this case filed scores of 
+class actions against state and national banks around the 
+country challenging their credit card late charges under various 
+states’ laws. 
+
+
+Citibank’s brief shows that the OCC repeatedly has 
+opined that late charges are “interest” for purposes of 
+Section 85, and the OCC’s views are entitled to deference. 
+NationsBank of North Carolina, N.A. v. Variable Annuity Life 
+Ins. Co., 115 S.Ct. 810, 813-814 (1995). The same conclu- 
+sion has been reached by all of the other federal banking 
+agencies with respect to the meaning of “interest” in 
+Sections 521-523 of DIDA. 
+
+
+The FDIC, which regulates federally-insured state 
+banks and has interpretive authority under the Federal 
+Deposit Insurance Act (Section 27 of the Act codifies 
+Section 521 of DIDA), has specifically concluded that 
+credit card late charges are “interest” under Section 521. 
+FDIC Op. No. 92-47, [1992-1993 Transfer Binder] Fed. 
+Banking L. Rep. (CCH) 481,534 (July 8, 1992). Also, it 
+filed briefs as amicus curiae in the First Circuit and 
+Supreme Courts of Colorado, New Jersey, and Pennsyl- 
+vania asserting that late charges are embraced within the 
+ambit of Section 521. 
+
+
+The Office of Thrift Supervision (“OTS”), which regu- 
+lates federally-insured savings institutions, has opined 
+that credit card late charges are “interest” under Section 
+522 of DIDA, 12 U.S.C. § 1463(g). Letter of Karen 
+Solomon, OTS Deputy Chief Counsel, [1994-1995 Transfer 
+Binder] Fed. Banking L. Rep. (CCH) 82,852 (Sept. 29, 
+1994). The predecessor of the OTS, the Federal Home 
+Loan Bank Board, reached the same conclusion in 1986. 
+Letter of Harry W. Quillian, FHLBB Acting General Coun- 
+sel, [1994-1995 Transfer Binder] Fed. Banking L. Rep. 
+(CCH) 482,852 at p. 62,403 (June 27, 1986). See also 12 
+C.F.R. § 571.22 (1995) (under Section 522 of DIDA, savings 
+associations enjoy “competitive equality with national 
+
+
+banks,” including most favored lender status). The 
+National Credit Union Administration, which regulates 
+credit unions, opined that credit card late charges are 
+“interest” under Section 523 of DIDA, 12 U.S.C. § 1785(g). 
+Letter of Richard S. Schulman, Acting Assoc. Gen. Coun- 
+sel, NCUA, 62 Banking Rep. (BNA) 766 (April 11, 1994). 
+See also 46 Fed. Reg. 24,153 (1981) (under Section 523 of 
+DIDA, credit unions enjoy most favored lender status). 
+
+
+Federally-insured depository institutions justifiably 
+look to the opinions and interpretations of the federal 
+banking statutes by the federal banking agencies that 
+govern them. Billions of dollars in loan transactions have 
+been conducted annually in reliance upon those banking 
+agency interpretations, and therefore it is especially 
+important that deference be accorded to them. See, e.g., 
+Zenith Radio Corp. v. United States, 437 U.S. 443, 457-458 
+(1978) (“In light of these substantial reliance interests, the 
+longstanding administrative construction of the statute 
+should ‘not be disturbed except for cogent reasons.’ ”). 
+Substantial deference is particularly appropriate since the 
+same statutory interpretation has been reached by five 
+different agencies. See Clarkson Constr. Co. v. OSHA, 531 
+F.2d 451, 457 (10th Cir. 1976) (when “two [or more] 
+administrative bodies having expertise arrive at similar 
+interpretations, a court should be slow to impose its own 
+interpretation”). 
+
+
+10 
+
+
+Il. Post-DIDA Legislation Supports the Conclusion 
+That Late Charges Are “Interest” 
+
+
+A. Section 511 of DIDA 
+
+
+Petitioner's brief (p. 41 n.20) points to a temporary 
+amendment of Section 85 and the Federal Deposit Insur- 
+ance Act in 1974 that allowed national banks and other 
+lenders to charge interest on certain business and agri- 
+cultural loans at a rate of 5% above the federal discount 
+rate where the bank was located. Pub.L. No. 93-501, 
+§§ 201-206, 88 Stat. 1557, 1558-60 (1974). This statutory 
+provision served as the antecedent for Section 511 of 
+DIDA, a now-sunsetted provision that related to business 
+or agricultural loans of $25,000 or more and was codified 
+as 12 U.S.C. § 86a. Pub.L. No. 96-221, § 511, 94 Stat. 132, 
+164 (1980). 
+
+
+Petitioner’s brief neglects to mention that only six 
+months after DIDA’s enactment, Congress amended Sec- 
+tion 511 by adding a provision stating that “the term 
+‘interest’ includes any compensation, however denominated, 
+for a loan.” Pub.L. No. 96-399, § 324(b)(2), 94 Stat. 1614, 
+1648 (1980) (emphasis added). Senator Proxmire, the 
+sponsor of the legislation and Chairman of the Senate 
+Banking Committee, emphasized that it was simply “a 
+technical clarifying amendment making no substantive 
+changes in the usury preemption provisions.” 126 Cong. 
+Rec. $16,112 (1980). This expansive definition of “inter- 
+est” in Section 86a clearly encompasses late charges. 
+
+
+al = - 
+
+
+11 
+
+
+B. Section 522 of DIDA 
+
+
+As discussed above, Congress incorporated the lan- 
+guage of Section 85 into Sections 521-523 of DIDA in 
+1980. Congress re-codified Section 522 in 1989 as part of 
+the Financial Institutions Reform, Recovery and Enforce- 
+ment Act (“FIRREA”). Pub.L. No. 101-73, § 301, 103 Stat. 
+183, 282 (1989). The House Report on FIRREA made it 
+plain that the preemptive scope of Sections 521-523 of 
+DIDA is not confined to percentage-based interest rates, 
+but includes other fees and charges as well: 
+
+
+[The rate authorized by Section 522 of DIDA] 
+may be employed notwithstanding any State 
+constitution or statute concerning loan related 
+charges, which is thus preempted. The effect of 
+this section is to preserve the current preemption of 
+state usury laws. (emphasis added) 
+
+
+H.R. Rep. No. 54 at 343, 10lst Cong., Ist Sess., pt. 1 
+(1989). Since Section 522 was modeled on Section 85, it is 
+clear that Congress reads the term “interest” in both 
+statutes broadly to encompass all “loan related charges.” 
+
+
+Moreover, it bears emphasis that Congress has 
+amended Section 521 twice in the past nine years. Pub.L. 
+No. 100-86, § 101(g)(2), 101 Stat. 552, 563 (1987); Pub.L. 
+No. 101-73, § 201(a)(1), 103 Stat. 183, 187 (1989). During 
+this time, Congress undoubtedly was well aware of the 
+widespread practice of exporting late charges and the 
+many judicial and administrative agency opinions hold- 
+ing that the term “interest” in Sections 521-523 of DIDA 
+and Section 85 of the National Bank Act embraces flat late 
+charges and other charges. See Red Lion Broadcasting Co. v. 
+FCC, 395 U.S. 367, 381 (1969); Board of Governors of Federal 
+Reserve System v. First Lincolnwood Corp., 439 U.S. 234, 248 
+
+
+12 
+
+
+(1978). Had Congress intended a more restrictive con- 
+struction of the term “interest” in those statutes than the 
+courts and agencies had adopted, it could have amended 
+them to narrow their preemptive scope, but it has not 
+done so. 
+
+
+C. Riegle-Neal 
+
+
+Section 85 of the National Bank Act and Section 521 
+of DIDA were both addressed in the recently-enacted 
+Riegle-Neal Interstate Banking and Branching Efficiency 
+Act of 1994. Pub.L. No. 103-328, 108 Stat. 2338 (1994). In 
+the Riegle-Neal Act, Congress included a “savings” pro- 
+vision that expressly preserves the pre-existing authority 
+of banks to collect all lending charges in accordance with 
+home state law. Section 111(3) of the Act provides that 
+“[njo provisions of this title and no amendment made by 
+this title to any other provision of law shall be construed 
+as affecting in any way .. . the applicability of section 
+5197 of the Revised Statutes [Section 85 of the National 
+Bank Act] or section 27 of the Federal Deposit Insurance 
+Act [Section 521 of DIDA].” 108 Stat. at 2365. The Confer- 
+ence Report accompanying H.R. 3841 (the Bill enacted 
+into law), explained that, “(t]he amendments made by the 
+[Act] that authorize insured depository institutions to 
+branch interstate do not affect existing authorities with 
+respect to any charges under [Section 85 or Section 521] 
+imposed by national or state banks for loans or other 
+extensions of credit made to borrowers outside the state 
+where the bank or branch making the loan or other 
+extension of credit is located.” H.R. Conf. Rep. No. 651 at 
+63, 103d Cong., 2d Sess. (1994) (emphasis supplied). As 
+
+
+NN —— 2 
+
+
+13 
+
+
+demonstrated in Citibank’s brief, the “existing authori- 
+ties” that preceded this Conference Report had long held 
+that the preemptive scope of Sections 85 and 521 is not 
+confined to percentage-based interest rates.‘ Thus, the 
+Conference Report confirms Congress’ agreement with 
+the long line of judicial and ad:ainistrative authorities 
+holding that late charges are “interest” under Sections 85 
+and 521. 
+
+
+Ill. The Legislative History of Section 501 of DIDA is 
+Irrelevant 
+
+
+The briefs filed by petitioner (pp. 42-43) and her 
+amici rely on the legislative history of Section 501 of 
+DIDA, which amended the National Housing Act and is 
+codified as 12 U.S.C. § 1735f-7a(a)(1). In particular, peti- 
+tioner points to a passage in a Senate Banking Committee 
+Report suggesting that late charges are outside the pre- 
+emptive scope of Section 501 of DIDA. However, the 
+language of that statute expressly provides for preemp- 
+tion of state laws “limiting the rate or amount of interest, 
+discount points, finance charges, or other charges which 
+may be charged, taken, received, or reserved” in connec- 
+tion with first-lien mortgage loans. Thus, the statute by 
+its terms provides for preemption of “other charges,” 
+which is sufficiently broad to embrace late charges. This 
+
+
+* Indeed, the First Circuit decision in Greenwood Trust v. 
+Massachusetts holding that credit card late charges are “interest” 
+under Section 521 preceded this Conference Report, as did a 
+number of other judicial and administrative agency opinions 
+reaching the same conclusion. 
+
+
+14 
+
+
+plain statutory language is controlling over the Commit- 
+tee Report cited by petitioner. See, e.g., West Virginia Univ. 
+Hospitals, Inc. v. Casey, 499 U.S. 83, 98-99 (1991) (“The best 
+evidence of [Congressional] purpose is the statutory text 
+adopted by both Houses of Congress and submitted to 
+the President. Where that contains a phrase that is unam- 
+biguous . . . we do not permit it to be expanded or 
+contracted by the statements of individual legislators or 
+committees during the course of the enactment process.) 
+
+
+As noted in Citibank’s brief, Section 501 of DIDA was 
+enacted 116 years after enactment of Section 85, and thus 
+its legislative history cannot possibly shed any light on 
+the intended meaning of “interest” in Section 85. See, ¢.g., 
+Central Bank of Denver v. First Interstate Bank, 114 S.Ct. 
+1439, 1452 (1994) (rejecting parties’ reliance on legislative 
+developments in the 1980’s to ascertain Congressional 
+intent when it enacted Securities Exchange Act of 1934). 
+Thus, the California Supreme Court correctly held that 
+the legislative history of Section 501 was irrelevant to the 
+construction of Section 85. 11 Cal.4th at 159-160 and n. 14. 
+
+
+Not only is the legislative history of Section 501 
+irrelevant to the meaning of “interest” in Section 85, it 
+has also repeatedly been found irrelevant to the meaning 
+of “interest” in Section 521. Greenwood Trust v. Massa- 
+chusetts, 971 F.2d at 830 n. 10; Hill v. Chemical Bank, 799 
+F.Supp. 948, 954 (D. Minn. 1992); Harris v. Chase Manhat- 
+tan Bank, 34 Cal. App.4th at 1573-1574; FDIC Opinion No. 
+92-47, [1992-1993 Transfer Binder] Fed. Banking L. Rep. 
+(CCH) 981,534 (July 8, 1992). 
+
+
+15 
+
+
+The legislative history of Section 501 has no bearing 
+on the construction of Section 521 for a number of rea- 
+sons: (a) Section 501 applies only to first-lien residential 
+mortgage loans, while Section 521 applies to any type of 
+loan; (b) Section 501 governs a variety of lenders, includ- 
+ing non-depository institutions, while Section 521 applies 
+only to federally-insured state banks; (c) Sections 501 and 
+521 originated in different bills at different times® and 
+had vastly different purposes; (d) Sections 501 and 521 
+have materially different preemption provisions; (e) Sec- 
+tion 501 amended the National Housing Act, while Sec- 
+tion 521 amended the Federal Deposit Insurance Act; (f) 
+DIDA was a hodgepodge of diverse and unrelated provi- 
+sions affecting a wide variety of financial institutions; 
+and (g) there is no evidence that Congress intended 
+“interest” to have a single meaning throughout all of Title 
+V of DIDA (Sections 501-529).° 
+
+
+5 The Senate Banking Committee Report concerning 
+Section 501 of DIDA quoted by petitioner was issued on October 
+15, 1979, several weeks before the introduction of the bill (S. 
+1988) that became Section 521 and two months before the Senate 
+Banking Committee hearings on that bill. Moreover, the 
+statement in the Committee Report that late charges are outside 
+the preemptive scope of Section 501 of DIDA, coupled with 
+“[t}]he absence of a comparable comment limiting the 
+preemptive scope of § 521 arguably indicates that Congress 
+intended that, absent limiting language, the term ‘interest’ be 
+interpreted to include more than the numerical periodic interest 
+rate, as is the case under § 85 of the National Bank Act.” Hill v. 
+Chemical Bank, 799 F.Supp. 948, 954 (D. Minn. 1992). 
+
+
+® There is nothing in the legislative history of Sections 
+521-523 which shows that Congress intended to exclude late 
+charges from the preemption afforded thereunder. Moreover, 
+neither Section 501 nor the excerpt from the Banking Committee 
+
+
+16 
+
+
+Also, Section 528 of DIDA explicitly provides that in 
+instances in which Section 501 of DIDA and either Section 
+85 of the National Bank Act or Section 521 apply with 
+respect to the same mortgage loan, the bank may charge 
+whatever is allowed by either applicable statute. Pub.L. 
+No. 96-221, § 528, 94 Stat. 132, 168 (1980). 
+
+
+In light of the foregoing, the First Circuit correctly 
+held that the legislative history of Section 501 of DIDA 
+has no bearing whatsoever on the meaning of “interest” 
+in Section 521: 
+
+
+The mere fact that both of these sections fell 
+under the broad umbrella of DIDA does not 
+make them fair congeners. Since DIDA contains 
+an amalgam of different provisions, the legisla- 
+tive history and purpose of one section of DIDA 
+does not necessarily inform the interpretation of 
+all other parts of that law. . . . In light of the 
+irrefutable evidence that section 521 was con- 
+ceived as an offspring of section 85 of the Bank 
+Act, we believe that the district court’s reliance 
+upon a comparison between it and DIDA § 501 
+
+
+Report relating thereto even purports to define the term 
+“interest” for purposes of Section 501, much less for all of the 
+myriad other provisions of DIDA. 
+
+
+Section 501(e) defines various terms (other than “interest”), 
+but explicitly states that those definitions apply only “|flor the 
+purpose of this section.” 94 Stat. 163 (emphasis added). The only 
+term which Congress defined for purposes of all of the 
+provisions in Title V of DIDA (Sections 501-529) was “State,” 
+which was defined in Section 527 “[flor purposes of this title.” 
+94 Stat. 168 (emphasis added). Section 527 clearly shows that 
+when Congress intended a term to have a single meaning 
+throughout Sections 501-529, it certainly knew how to express 
+that intent. 
+
+
+17 
+
+
+was misplaced. The proper analogy in this case 
+is to compare lineal descendants who share 
+common language and purpose, not distant 
+cousins who share little more than a name. 
+
+
+971 F.2d at 830 n. 10. Accord FDIC Opinion No. 92-47, 
+{1992-1993 Transfer Binder] Fed. Banking L. Rep. (CCH) 
+181,534 (July 8, 1992). It therefore follows that since Sec- 
+tion 501 is irrelevant to the construction of Section 521, it 
+is irrelevant to the interpretation of Section 85, which was 
+enacted more than a century earlier. 
+
+
+IV. Section 85 of the National Bank Act and Section 
+521 of DIDA Preempt The Common Law 
+
+
+Petitioner's argument that neither Section 85 nor Sec- 
+tion 521 preempt the common law (Pet. Br. at pp. 43-44) is 
+wholly without merit. Al! forms of state law limitations in 
+the borrower's State on the interest charged by out-of- 
+state federally-insured depository institutions, whether 
+statutory in nature or based on the common law, are 
+preempted by Section 85 and Section 521. 
+
+
+It has been well-settled law for more than a centt'ry, 
+since this Court's decision in Carter v. Carusi, 112 U.S. 478 
+(1884), that Section 85 preempts common law. In Carter, 
+the Court held that Section 86 is “the exclusive remedy” 
+for the imposition of excessive interest by a national 
+bank, and it rejected plaintiff's argument that he had a 
+“common-law right to reclaim or set off usurious interest 
+paid... .” Id. at 483. Neither petitioner nor her amici 
+have been able to cite any case rendered in the 132 years 
+that have elapsed since the enactment of Section 85 in 
+1864 that holds it does not preempt common law. Indeed, 
+
+
+18 
+
+
+common law challenges to credit card late charges 
+imposed by national banks have been repeatedly rejected 
+
+
+by the courts. As stated in a recent opinion letter issued 
+by the FDIC: 
+
+
+It is clear that Section 85 preempts all contrary state 
+law (including, without limitation, state common 
+law). That proposition has not, to our know- 
+ledge, been seriously questioned. The substan- 
+tive language of Section 85, the exclusive 
+remedy for challenging interest charged by a 
+national bank in 12 U.S.C. § 86, and the ease 
+with which Section 85 could be circumvented if 
+it did not preempt state common law all compel 
+the conclusion that Section 85 displaces all con- 
+trary state law. (emphasis added). 
+
+
+FDIC Opinion No. 93-27, [1993-1994 Transfer Binder] Fed. 
+
+
+Banking L. Rep. (CCH) $81,635 at 55,840 n. 4 (July 12, 
+1993).7 
+
+
+Adoption of petitioner's argument that Section 85 
+and Section 521 do not preempt common law would 
+totally eviscerate the statutory authorization to charge 
+interest at the rate allowed by the laws of the State where 
+the bank is located. For example, even though petitioner 
+and her amici concede that, under Marquette National 
+
+
+? A similar conclusion was reached by the National Credit 
+Union Administration: “It is our understanding that Section 85 
+already preempts all state law limitations, including common 
+law limits, in the borrower's state of residence on the interest 
+which may be charged by out-of-state national banks. . . . We are 
+unaware of any case or other authority which holds that common law 
+is not preempted by Section 85.” Letter from Richard S. Schulman, 
+Acting Associate General Counse!, NCUA, Vol. 62 No. 17 BNA 
+Banking Report (Apr. 11, 1994), at 767 (emphasis added). 
+
+
+19 
+
+
+Bank v. First of Omaha Service Corp., 439 U.S. 299 (1978), 
+state statutes purporting to limit percentage-based peri- 
+odic interest rates (the “finance charge”) are preempted, 
+their theory would allow cardmembers to challenge 
+finance charges under the varying common laws of all 50 
+states (such as by asserting that finance charges are 
+unconscionable, or constitute an illegal “penalty” or 
+unjust enrichment). Indeed, under petitioner’s theory, the 
+Commonwealth of Massachusetts, having failed in its 
+efforts to apply a statute prohibiting late charges against 
+Greenwood, could accomplish the same objective simply 
+by commencing a new suit against Greenwood based on 
+Massachusetts common law. 
+
+
+As the National Credit Union Administration has 
+reasoned, “Congress did not intend the peculiar and 
+illogical result that states would be precluded from 
+directly restricting, by state constitution or statute, the 
+interest charged by out-of-state federally insured deposi- 
+tory institutions, but nonetheless would be free to impose 
+such restrictions indirectly through the common law. As a 
+practical matter, such a result would vitiate the preemp- 
+tion of state law intended by Congress... . ” NCUA 
+Opinion Letter, supra. Accord Harris v. Chase Manhattan 
+Bank, 34 Cal. App.4th at 1574 (“an enormous loophole in 
+the statute” would be created if states were allowed to 
+limit the interest charged by out-of-state lenders 
+“through the back door of the common law”). 
+
+
+Section 86 of the National Bank Act and Section 
+521(b) of DIDA create an exclusive federal remedy for 
+interest overcharges by national banks and state banks, 
+respectively. McCollum v. Hamilton Nat’l Bank, 303 U.S. 
+245, 248 (1938); Evans v. National Bank of Savannah, 251 
+
+
+20 
+
+
+U.S. 108, 109, 114 (1919); Farmers’ & Mechanics’ Nat'l Bank 
+v. Dearing, 91 U.S. 29, 34-35 (1875); M. Nahas & Co. v. First 
+Nat'l Bank, 930 F.2d 608, 610 (8th Cir. 1991). As the FDIC 
+has reasoned, the presence of these exclusive federal 
+remedial provisions is wholly inconsistent with the 
+notion that borrowers can seek relief under state common 
+law theories. FDIC Op. No. 93-27, [1993-1994 Transfer 
+Binder] Fed. Banking L. Rep. (CCH) 981,635 at 55,841 
+(July 12, 1993).§ 
+
+
+V. The Construction of “Interest” In Sections 85 and 
+521 Has Far-Reaching Consequences 
+
+
+The potential economic consequences of adopting 
+petitioner’s constricted interpretation of “interest” are 
+
+
+8 Also, the California Court of Appeal and FDIC have 
+emphasized that, unlike numerous federal statutes that c..:tain 
+“savings” clauses explicitly preserving state common law from 
+preemption, the federal banking statutes contain no such clause. 
+Harris v. Chase Manhattan Bank, 34 Cal.App.4th at 1574; FDIC 
+Opinion No. 93-27, supra. When Congress intends to “save” 
+common law claims from preemption, it knows how to do so. 
+See, e.g., 15 U.S.C. § 1397(k) (1988) (“Compliance with any 
+Federal motor vehicle safety standard issued under this 
+subchapter does not exempt any person from any liability under 
+common law.”); 15 U.S.C. § 4406(c) (1988) (“Nothing in this 
+chapter shall relieve any person from liability at common 
+law ...”); 17 U.S.C. § 301(b) (1988 & Supp. V 1993) (“Nothing in 
+this title annuls or limits any rights or remedies under the 
+common law ... ”); 29 U.S.C. § 653(b)(4) (1988) (“Nothing in this 
+chapter shall be construed to . . . diminish or affect in any other 
+manner the common law .. . ”); 49 U.S.C. app. § 1506 (1988) 
+(“Nothing contained in this chapter shall in any way abridge or 
+alter the remedies now existing at common law ... ”). 
+
+
+21 
+
+
+staggering. According to the most recently available sta- 
+tistics, in 1994 alone the credit card industry received 
+approximately $2 billion in revenues from late fees and 
+other similar fees. Credit Card Management, Card Indus- 
+try Directory: The Blue Book of the Credit and Debit Card 
+Industry in the United States, 1996 ed. at p. 18. The 
+numerous class actions currently pending throughout the 
+country against federally-insured depository institutions 
+that were precipitated by the later-reversed District Court 
+opinion in Greenwood Trust v. Massachusetts seek treble 
+damages under various state consumer protection laws, 
+which typically have statutes of limitation that permit 
+suit for several years of transactions. These lawsuits, 
+along with the plethora of new class actions that certainly 
+will be filed if the California Supreme Court decision 
+below is reversed, may pose a threat to the safety and 
+soundness of many of the country’s financial institutions. 
+Indeed, in an amicus curiae brief the FDIC filed in the First 
+Circuit in the Greenwood Trust v. Massachusetts case, the 
+agency cautioned that the credit card late charge class 
+actions could “jeopardize the financial integrity of all 
+FDIC-insured institutions.” 
+
+
+In addition, it bears emphasis that this Court’s con- 
+struction of “interest” in the federal banking statutes 
+affects not only credit card lending, but all types of 
+lending. For example, under the petitioner’s reasoning, a 
+flat origination fee for a loan might no longer be consid- 
+ered “interest” as a matter of federal law. Also, many 
+states allow flat minimum finance charges on open-end 
+credit, and even though such finance charges clearly con- 
+stitute “interest,” they may not qualify as “interest” 
+under federal banking law if the petitioner’s definition of 
+
+
+22 
+
+
+“interest” is adopted. Similarly, late charges imposed in 
+connection with home equity, automobile, and commer- 
+cial loans would not be “interest” either. 
+
+
+An unduly narrow definition of “interest” would 
+have a dramatic effect not only on interstate lending, but 
+intrastate lending as well. Federally-insured depository 
+institutions have long relied on the most favored lender 
+doctrine in order to “borrow” the more favorable lending 
+authority often bestowed upon other lenders (e.g., credit 
+unions, consumer finance companies, and second mort- 
+gage loan companies) located in the same State. Restrict- 
+ing the definition of “interest” to percentage-based 
+periodic interest rates will prevent federally-insured 
+depository institutions from “borrowing” any of the flat 
+fees allowed to competing lenders in the same State, 
+placing them at a great competitive disadvantage.? More- 
+over, such a holding would expose federally-insured 
+depository institutions to substantial liability for count- 
+less intrastate transactions made over the years in 
+reliance on the most favored lender doctrine. 
+
+
++ 
+
+
+% Indeed, the New Jersey Supreme Court's recent erroneous 
+decision holding that late charges are not “interest” under 
+Section 85 expressly countenances a statutory scheme whereby 
+credit unions may assess late charges, but state and national 
+banks may not. Sherman v. Citibank (South Dakota), N.A., 143 N.J. 
+35, 67-70, 668 A.2d 1036, 1051-1053 (1995), petition for cert. 
+pending, No. 95-991 (filed Dec. 21, 1995). This is precisely the 
+type of discrimination that this Court intended to prevent when 
+it enunciated the most favored lender doctrine more than a 
+century ago in Tiffany v. National Bank of Missouri, 85 U.S. (18 
+Wall.) 409 (1874). 
+
+
+23 
+
+
+CONCLUSION 
+
+
+For the reasons set forth above and in the briefs filed 
+by Citibank and its other amici, the judgment of the 
+California Supreme Court should be affirmed. 
+
+
+Respectfully submitted, 
+
+
+ALAN S. KapLinsky ARTHUR R. MILLER 
+Burt M. Rustin (Counsel of Record) 
+BALLARD SpAHR ANDREws & 1545 Massachusetts Avenue 
+INGERSOLL Cambridge, MA 02138 
+1735 Market Street, (617) 495-4111 
+51st Floor 
+
+
+Philadelphia, PA 19103-7599 
+(215) 665-8500 
+
+
+Counsel for Amici Curiae 
+Greenwood Trust Company and 
+The Chase Manhattan Bank (USA) 
+
+

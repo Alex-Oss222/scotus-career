@@ -1,0 +1,2846 @@
+BEST AVAILABLE COPY 
+
+
+i 
+RESTATEMENT OF QUESTIONS PRESENTED 
+
+
+I. Whether federal admiralty law should apply the same 
+principles of proximate causation for maritime torts that have 
+been developed by the courts in the common law of torts, 
+including principles of comparative fault and superseding 
+cause? 
+
+
+Il. Whether federal admiralty law should apply the same 
+principles of causation in cases involving maritime contract 
+claims, framed in terms of “foreseeability,” as the courts apply 
+in the common law of contracts? 
+
+
+ii 
+LIST OF PARTIES 
+
+
+The petitioners are Exxon Company, U.S.A. and Exxon 
+Shipping Company. The respondents are Sofec, Inc.; Pacific 
+Resources, Inc.; Hawaiian Independent Refinery, Inc.; PRI 
+Marine, Inc.; and PRI International, Inc. The third-party 
+respondents are Bridon Fibres and Plastics, Ltd.; and Griffin 
+Woodhouse, Ltd. 
+
+The following statement is made pursuant to Supreme 
+Court Rule 29.6 for each of the parties represented on the brief: 
+
+(1) Sofec, Inc. has no nonwholly owned subsidiaries. The 
+
+parent company of Sofec, Inc. is FMC Corporation. 
+
+(2) Bridon Fibres and Plastics, Ltd., which has since been 
+
+renamed Bridon Fibres Ltd., has no nonwholly.owned 
+subsidiaries. The parent company is Bridon Plc. 
+
+(3) Griffin Woodhouse, Ltd. has no parent companies and 
+
+no nonwholly owned subsidiaries. 
+
+
+TABLE OF CONTENTS 
+
+
+PAGE 
+RESTATEMENT OF QUESTIONS PRESENTED ....... i 
+CEE il 
+TABLE OF AUTHORITIES ...................0.... v 
+STATEMENT OF THE CASE ...................... | 
+SUMMARY OF ARGUMENT ..................... 13 
+ES 15 
+I. ADMIRALTY COURTS SHOULD APPLY THE 
+SAME PRINCIPLES OF PROXIMATE CAUSE 
+FOR MARITIME TORTS AS THE COURTS 
+APPLY IN THE COMMON LAW OF TORTS ..... 15 
+A. The Doctrine of Proximate Cause in Tort Law 
+Includes the Principle of Superseding Cause .... 16 
+B. The Doctrine of Proximate Cause Is Consistent 
+with Principles of Comparative Fault ......... 18 
+
+
+C. The Doctrine of Proximate Cause Is Consistent 
+with the Court’s Decision in Reliable Transfer . . 20 
+
+
+D. The Doctrine of Proximate Cause Is Consistent 
+with Principles of Admiralty Law Applied by 
+the World’s Leading Maritime Nations ........ 25 
+
+
+E. The Doctrine of Proximate Cause Is Consistent 
+with Traditional Concerns of Admiralty Law ... 30 
+
+
+iv 
+
+
+TABLE OF CONTENTS 
+(continued) 
+
+
+PAGE 
+
+
+Il. THE COURTS BELOW PROPERLY APPLIED 
+THE PRINCIPLES OF PROXIMATE CAUSE 
+ON THE FACTS OF THIS CASE .............-. 34 
+
+
+I. ADMIRALTY COURTS SHOULD APPLY 
+PRINCIPLES OF CAUSATION FROM THE 
+COMMON LAW OF CONTRACTS, FRAMED IN 
+TERMS OF “FORESEEABILITY,” IN CASES 
+INVOLVING MARITIME CONTRACTS ......... 40 
+
+
+A. Foreseeability Principles from Contract Law 
+Afford No Grounds for Granting Relief to 
+PRED oc co ccccencedscceecoseceoes 4) 
+
+
+B. These Common-Law Principles Should Be 
+Applied in Cases of Maritime Contracts ....... 43 
+
+
+IV. TRIAL COURTS ENJOY THE SAME BROAD 
+DISCRETION TO ESTABLISH ORDERLY AND 
+EFFICIENT PROCEDURES FOR DETERMINING 
+THE FACTUAL AND LEGAL ISSUES IN 
+ADMIRALTY CASES AS IN ALL OTHER 
+
+
+GHD ccccccdscuncecesaceceecanséeewons ces 46 
+
+
+\ 
+TABLE OF AUTHORITIES 
+PAGE 
+
+Cases 
+Anderson v. City of Bessemer City, 
+
+ee i cedaaceoeees 36 
+Bernardo v. Bethlehem Steel Co., 
+
+200 F. Supp. 534 (S.D.N.Y. 1961), 
+
+aff d, 314 F.2d 604 (2d Cir. 1963) ............... 47 
+Buckley v. Bell, 
+
+703 P.2d 1089 (Wyo. 1985) .................... 20 
+Carlotta v. Warner, 
+
+601 F. Supp. 749 (E.D. Ky. 1985) ................ 20 
+City of Milwaukee v. Cement Div., Nat'l Gypsum Co., 
+
+i de cn cena 21 
+Connors v. Gasbarro, 
+
+CE 20 
+Desmond v. Holland Am. Cruises, 
+
+1981 A.M.C. 211 (S.D.N Y. 1981) ............... 23 
+East River Steamship Corp. v. Transamerica 
+
+Delavall, Inc., 
+
+EE eke sc ccewahbauades 40, 42, 44 
+Ellertson v. Dansie, 
+
+os on cnc ncereeceececs 20 
+
+
+Executive Jet Aviation, Inc. v. City of Cleveland, 
+in lt A = 33 
+
+
+vi 
+TABLE OF AUTHORITIES 
+(continued) 
+PAGE 
+
+Foremost Ins. Co. v. Richardson, 
+
+Br ED 6 6.oo deeddstccedddeddkewens 33 
+Gasoline Prods. Co. v. Champlin Refining Co.., 
+
+Pe EE nicde bandubedntéeenandedas 46-47 
+Goodman v. Lukens Steel Co., 
+
+ES Go cesececccccddccteovdnnse 36 
+Graver Tank & Mfg. Co. v. Linde Air Prods. Co., 
+
+& 7. rr 36, 40, 43 
+Hellenic Lines, Lid. v. Prudential Lines, Inc., 
+
+ED BN ci cccnasedeoseness 24 
+Hercules, Inc. v. Stevens Shipping Co., 
+
+765 F.2d 1069 (11th Cir. 1985) .................. 12 
+Hunley v. Ace Maritime Corp., 
+
+ee IE GED Ss ccdiccscccevenccooes 17 
+In re Bendectin Litig., 
+
+857 F.2d 290 (6th Cir. 1988), 
+
+cert. denied, 488 U.S. 1006 (1989) ............ 47, 48 
+In re Beverly Hills Fire Litig., 
+
+ey EEE, CE coc dcccaseccscedsene 48 
+In re Related Asbestos Cases, 
+
+543 F. Supp. 1142 (N.D. Cal. 1982) .............. 20 
+
+
+vil 
+
+
+TABLE OF AUTHORITIES 
+(continued) 
+PAGE 
+Italia Societa per Azioni di Navigazione v. Oregon 
+Co., 
+
+ie dct pane ateggdeaaduadbedcesas 44 
+Kermarec v. Compagnie Generale Transatlantique, 
+
+EE cack bu cedacdadennens <x 30-31 
+Knickerbocker Ice Co. v. Stewart, 
+
+ee an i oe ado 4 26 
+Kossick v. United Fruit Co., 
+
+EE, Bees cGieu he 6ddd aah velenie’s 45 
+Kroon v. Beech Aircraft Corp., 
+
+ere 20 
+Lisa v. Fournier Marine Corp., 
+
+866 F.2d 530 (1st Cir.), 
+
+cert. denied, 493 U.S. 819 (1989) ................ 47 
+Lone Star Indus., Inc. v. Mays Towing Co., 
+
+927 F.2d 1453 (8th Cir. 1991) ................... 17 
+McDermott, Inc. v. AmClyde, 
+
+og ds Si ccawudetecacias 21 
+McGraw v. J. Ray McDermott & Co., 
+
+SP PL BED Sacccecccccdccceses 47 
+Peckham v. Continental Casualty Ins. Co., 
+
+oe ee 17 
+
+
+viii 
+
+
+TABLE OF AUTHORITIES 
+(continued) 
+PAGE 
+
+Petitions of The Kinsman Transit Co., 
+
+338 F.2d 708 (2d Cir. 1964), 
+
+cert. denied, 380 U.S. 944 (1965) ..........60055: 42 
+R.H. Macy & Co. v. Otis Elevator Co., 
+
+SP ee CUE SEE 6 cecccccccecesvinse 20 
+S.S. SINGLETON ABBEY v. S.S. PALUDINA, 
+
+SRE GE, OD vcccccccsccvseses 14, 28-30, 36 
+Sisson v. Ruby, 
+
+Se SEE -scuduceuceseesedavseuusees 33 
+THE CITY OF LINCOLN, 
+
+Py MR, PE ud ecuedesed os neaeees 27,29 
+THE LOUISIANA, 
+
+A 9,37 
+THE MAX Morris v. Curry, 
+
+og BL eer ere ee 22 
+THE PENNSYLVANIA, 
+
+86 U.S. (19 Wall.) 125 (1873)... ........... 9, 37, 38 
+Union Oil Co. of Cal. v. THE SAN JACINTO, 
+
+Se PEED SC Gaca ied be ci cdtdg sees passim 
+Union Oil Co. of Cal. v. THE TUGBOAT SAN JACINTO, 
+
+304 F. Supp. 519 (D. Ore. 1969) ............0005. 23 
+
+
+ix 
+TABLE OF AUTHORITIES 
+(continued) 
+PAGE 
+
+United States v. Reliable Transfer Co., 
+
+FR ae passim 
+Waggoner v. Town & Country Mobile Homes, Inc., 
+
+Pe BOUED cc csvtaciccveccoceces 42 
+Waring v. Clarke, 
+
+46 U.S. (5S How.) 441 (1847) ..... 00.2.0... cee ee 47 
+Watters v. TSR, Inc., 
+
+of FG rere ree 17 
+Yee v. City of Escondido, 
+
+EE ae 46 
+Constitutional and Statutory Provisions 
+SP es SR ETEED 6 bck Gb cede cee desedes 10, 37 
+ee eG Tere eee 10, 37 
+ee Cn ca5 bce nb wed ches baddest ccekes 47 
+Se ede eee lice kwebdedua 46, 47 
+Maritime Conventions Act, 
+
+OP a, 8 8 ft rrr rrr rr ere 28 
+i eee ee ee ad dee eaten Vile dupes 46 
+ED so. ce ci cideespasbdeeseshenes 42 
+
+
+x 
+
+
+TABLE OF AUTHORITIES 
+(continued) 
+PAGE 
+
+Other Authorities 
+Benedict on Admiralty 
+
+(F. Wiswall, ed.) (7th rev. ed. 1995) ........... 25, 26 
+CE Ebbs 00S cedccenrsevsendies 42 
+Grant Gilmore & Charles Black, 
+
+The Law of Admiralty (2d ed. 1975) ........... 32, 38 
+Alfred Huger, The Proportional Damage Rule 
+
+in Collisions at Sea, 
+
+pn OED osc oc aekdeacbabiacnes 25 
+
+
+W. Page Keeton, Prosser and Keeton on the Law of Torts 
+SS GED Sed cedesdadccesessccsseness passim 
+
+
+Herman W.H. Lee, Abandon Ship? The Need 
+to Maintain a Consistency Between Causation 
+
+
+in Admiralty and Causation in Tort, 
+
+25 Creighton L. Rev. 1007 (1992) ............... 32 
+William L. Prosser, Law of Torts 
+
+ket oudhwsbhe se Seeeceueséaees 34, 35 
+Restatement (Second) of Contracts ............ 41, 42,45 
+Restatement (Second) of Torts ...... 0.666.000 00s passim 
+
+
+Thomas J. Schoenbaum, 
+Admiralty and Maritime Law (1994) ......... passim 
+
+
+Williston on Contracts (W. Jaeger ed.) (3d ed. 1968) .... 41 
+
+
+xi 
+
+
+TABLE OF AUTHORITIES 
+
+
+(continued) 
+
+
+Charles A. Wright & Arthur R. Miller, 
+Federal Practice & Procedure (1995) 
+
+
+No. 95-129 
+—_-  mrRrwrwooonene 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+OCTOBER TERM, 1995 
+
+
+EXXON COMPANY, U:S.A.; 
+EXXON SHIPPING COMPANY, 
+Petitioners, 
+Vv. 
+
+
+SOFEC, INC.; PACIFIC RESOURCES, INC.; 
+HAWAIIAN INDEPENDENT REFINERY, INC.; 
+PRI MARINE, INC.; PRI INTERNATIONAL, INC., 
+Respondents, 
+Vv. 
+
+
+GRIFFIN WOODHOUSE, LTD.; 
+BRIDON FIBRES AND PLASTICS, LTD., 
+Third-Party Respondents. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals for the Ninth Circuit 
+
+
+BRIEF FOR THIRD-PARTY RESPONDENTS AND 
+FOR RESPONDENT SOFEC, INC. 
+
+
+STATEMENT OF THE CASE 
+
+
+Introduction 
+
+The central factual issue in this case concerns proximate 
+causation. In particular, the trial here properly focused on 
+determining the proximate cause (or causes) of the stranding of 
+the EXXON HOUSTON, an oil tanker owned and operated by 
+petitioners. Petitioners’ statement of the case portrays the 
+events of March 2, 1989 as a continuous jumble of occurrences 
+unbroken at any point and unaffected by any superseding causal 
+
+
+2 
+
+
+forces such as the subsequent extraordinary negligence of 
+Captain Coyne and the crew. Viewing the case from this 
+perspective, petitioners suggest that the trial court’s 
+concentration on the dispositive issue of proximate cause was 
+ill conceived. Petitioners’ strategic portrayal is not uncommon 
+in tort cases involving multiple parties, but it badly 
+misconceives the important role of the doctrine of proximate 
+cause in clarifying the complex factual skeins that often must 
+be sorted out in adjudicating such cases. 
+
+The late Judge Fong conducted a three-week bench trial in 
+this case, and for purposes of the Court’s review, the record 
+here is fully set forth in the factual findings made by the 
+District Court and upheld on review by the Court of Appeals. ' 
+Judge Fong also made a crucial ruling prior to trial, on 
+respondents’ motion to bifurcate the proceedings. Essentially, 
+he determined that two significant sets of events occurred in 
+this case, which took place not contemporaneously but 
+successively: first, there were various factors that led to the 
+initial breakout of the vessel from its mooring; second, there 
+were a number of other events that might also be found to have 
+led to her ultimate stranding. 
+
+Judge Fong determined that judicial efficiency and the 
+resources of all the parties would be most usefully 
+concentrated, as an initial matter, upon the potentially 
+dispositive issue of proximate cause. He therefore granted 
+
+’ motion for bifurcation. J.A. 58-75. In Phase One 
+of the trial, he directed the parties to focus their attention on 
+determining whether the breakout and/or other events were the 
+proximate cause (or causes) of the vessel’s stranding. J.A. 71- 
+74, 103-04. Phase Two of the trial, if necessary, would be 
+devoted to allocating responsibility for the events that caused 
+
+
+' In a footnote to their brief, petitioners appear to disparage the 
+late Judge Fong as unfamiliar with admiralty law and thus seeking 
+help from his law clerk. See Petitioners’ Brief on the Merits (“Pet. 
+Br.”) 4.4. Judge Fong, however, was a respected jurist who served 
+for seven years as the Chief Judge of the District Court for the 
+District of Hawaii, and during his thirteen years of service on the 
+bench he presided in many admiralty cases. Any aspersions upon his 
+capabilities are inappropriate and wholly unwarranted. 
+
+
+3 
+
+
+the breakout and to assessing damages. J.A. 73-74. Detailed 
+factual discovery and trial preparation on these latter points 
+might be averted, in the court’s view, if it first were to 
+determine the proximate cause (or causes) of her stranding. J.A. 
+71-72. Much of petitioners’ ire is aimed at the bifurcation 
+order, which they believe led the court “to try the case upside- 
+down and backwards.” Pet. Br. 4. 
+
+In the end, Judge Fong found as a factual matter that after 
+the vessel broke loose from its mooring, it reached a position of 
+safety more than 90 minutes before it was stranded. He also 
+found that the acts and omissions of Captain Coyne and the 
+crew, which occurred after the vessel had reached a position of 
+safety, constituted extraordinary negligence. That conduct, 
+rather than the original breakout of the vessel, was determined 
+to have proximately caused its stranding. The legal issues must 
+be examined against this factual backdrop. 
+
+This is a traditional tort case, based upon relationships that 
+were defined in part by the terms of a contract. Petitioners 
+entered into a contract to deliver crude oil “by vessel into 
+Hawaiian Independent Refinery, Ewa Beach, Hawaii, via 
+offshore single point system.” J.A. 143. Among the terms of 
+various related agreements between the parties was a warranty 
+of “safe berth,” which required the terminal to “provide a safe 
+berth to which vessels may proceed to or depart from, and 
+where the vessel can always lie safely afloat.” J.A. 142-43. On 
+March 1, 1989, pursuant to the terms of this contract, the 
+EXXON HOUSTON arrived at the single point mooring at Barbers 
+Point, Oahu, was moored there, and proceeded to discharge oil 
+into a submerged pipeline. J.A. 144-46. 
+
+A mooring assembly, which included a chafe chain and 
+mooring hawser, attached the bow of the ExxON HOUSTON to 
+the mooring. Oil was discharged from the vessel to the 
+submerged pipeline through two floating hoses, which were 
+secured to the vessel by twelve bolts and several restraining 
+lines. The mooring assembly held the vessel in place and 
+
+allowed the hoses to float freely without any tension. J.A. 146. 
+Captain Coyne, the master of the EXxON HOUSTON, was 
+acting within the course and scope of his employment at all 
+times leading up to the stranding. Through past experience, 
+
+
+4 
+
+
+Captain Coyne was familiar with the mooring at Barbers Point 
+and with maritime conditions in the vicinity. J.A. 144. 
+
+On March 2, 1989, at 1715,’ stormy conditions at the 
+mooring caused a link in the chafe chain to part. The vessel 
+began to drift away from the mooring, which put the hoses 
+under tension. By 1728, both hoses had parted, causing some 
+oil to discharge into the water. One of the two lengths of hose 
+remained connected to the vessel, raising concern that it could 
+foul the propeller if the ship were to move forward. J.A. 146- 
+47. The trial court specifically designated 1728 as the point of 
+the “breakout” of the vessel from its mooring. At trial, the 
+court focused the parties’ efforts on determining whether the 
+breakout or events subsequent to the breakout constituted the 
+proximate cause (or causes) of the eventual stranding. 
+
+At 1730, the U.S. evenghe ony ob hang evga ey 
+radio call to Captain Coyne, i ir offer o . 
+for he believed the situation would be resolved before 
+assistance vessels could arrive. J.A. 148.° At 1740, Captain 
+Coyne tried to anchor the vessel, but the effort foundered when 
+he failed to follow standard practice by releasing enough of the 
+See ees eee Oy 2 ae ey ere 
+
+, though ample length of chain was available to do so. J.A. 
+a. At 1747, the anchor was raised. Captain Coyne never 
+again sought to drop anchor, despite the fact that over the 
+course of more than two hours between this time and the 
+eventual stranding he had many opportunities to anchor the 
+vessel safely. J.A. 150. ; 
+
+An assist tug was available at the mooring site to provide 
+assistance after the breakout occurred. Although this boat, the 
+NENE, was not able to tow the EXXON HOUSTON to safety, by 
+1803 it had attached a line that gave it control of the end of the 
+remaining hose and enabled it to secure the hose away from the 
+EXXON HOUSTON’s propeller. Thereafter, Captain Coyne 
+
+
+2 All of the times stated here are Honolulu local time, given in 
+nautical format. Thus, for example, 1715 is 5:15 p.m. Honolulu time. 
+
+
+> The trial court found that individual vessels had broken loose 
+from the same mooring on two prior occasions, each of which 
+concluded without incident. J.A. 148. 
+
+
+5 
+
+
+ordered the movements of the NENE as needed to coordinate 
+with the movements of the ExxON HousTON. J.A. 147, 150. 
+The EXXON HOUSTON backed out to sea between 1803 and 
+1830, on a slow course that took it away from shallow water. 
+Its position was regularly and accurately plotted on the vessel’s 
+navigational chart from 1740 to 1830. J.A. 150-51. Between 
+1830 and 1947, the remaining hose was disconnected from the 
+EXXON HOUSTON, and was pulled clear at 1947. J.A. 156. 
+
+At 1831, Captain Coyne changed course, a decision that 
+“was not caused by any necessity or emergency and there was 
+no reason why the vessel could not have continued to back out 
+to sea after 1830.” J.A. 151. At this point, the ship was slightly 
+more than a mile from the shore, and about one-half mile from 
+the grounding line in shallow water near the shore. From 1830 
+to 1956, the EXXON HOUSTON remained approximately the 
+same distance from the shore, though at any time Captain 
+Coyne could have backed the vessel “to any distance offshore 
+he wanted” without significant risk, a course that would have 
+been much safer than remaining near the shore while the winds 
+tended to push the ship ashore. J.A. 151. 
+
+Between 1830 and 2004, the position of the Exxon 
+HOUSTON was not plotted on any chart, which violated federal 
+law, though proper charts for this purpose were easily 
+accessible on the bridge of the vessel. J.A. 152, 168-69. “A 
+prudent mariner would have fixed and plotted his vessel's 
+position at least every 15 to 20 minutes” in this situation, 
+especially in view of the ship’s proximity to the shore and the 
+difficulty of estimating its position in the dark. J.A. 152. 
+Captain Coyne had personnel available to plot the ship’s 
+position, but failed to make use of them. Instead, from 1830 to 
+1956 he elected to navigate by the method of “parallel 
+indexing,” which is designed simply to keep the ship a constant 
+distance from the shore. J.A. 153. “Parallel indexing is not a 
+substitute for fixing the position of the vessel. Navigation by 
+parallel indexing without plotted fixes is inherently dangerous 
+and a violation of industry standards.” J.A. 153. “Without a 
+fix, Captain Coyne was not able to check the chart for hazards.” 
+J.A. 155. Captain Coyne testified inconsistently on these 
+matters between his deposition and the trial, and his testimony 
+that he knew the position of the vessel at all times was 
+
+
+6 
+
+
+contradicted by one of the ship’s officers. J.A. 154-55. In sum, 
+at this juncture “Captain Coyne inexplicably chose to loiter in 
+a dangerous area without fixing his position.” J.A. 175-76. 
+
+A member of the crew appeared to have been injured at 
+approximately 1944, though the injury was not a serious one. 
+J.A. 156, 233. Captain Coyne sent an officer to evaluate the 
+crew member’s condition, but did not order any of the other 
+available officers to replace him, which left Captain Coyne as 
+the only officer on the bridge from 1948 to 2000, with no other 
+officer present to fix the vessel’s position. J.A. 156. This 
+situation also violated federal law. J.A. 156-57, 168-69. “If the 
+bridge had been properly manned, the danger of stranding 
+would have been avoided.” J.A. 157. 
+
+At 1956, Captain Coyne commenced the final turn that 
+culminated in the stranding of the vessel, which the court found 
+was “not a foreseeable consequence of the breakout.” J.A. 175. 
+He “did not look at the navigational chart before commencing 
+the final turn,” even though at the time he “did not know the 
+ship’s position.” J.A. 157. Given “the prevailing directions of 
+the wind and sea” and the other conditions, “a prudent mariner 
+would not have attempted” this turn, which “was grossly 
+negligent, of whether or not it could have been made 
+successfully.” J.A. 157-58. An officer of the ship happened to 
+arrive on the bridge at 2000. Captain Coyne was in doubt as to 
+the ship’s position at that time and ordered the officer to plot a 
+fix of its position, which was done at 2004. J.A. 158. 
+
+When Captain Coyne saw the 2004 fix on the navigational 
+chart, he exclaimed, “Oh shit!” J.A. 158. He immediately 
+ordered the vessel’s speed to be increased, but moments later 
+the EXXON HOUSTON stranded on a reef that was clearly 
+charted on the ship’s navigational chart. J.A. 158-59. “Over 
+two and one-half hours elapsed between the breakout and the 
+ample time to consider the situation calmly and deliberately.” 
+J.A. 159.“ “In short, Captain Coyne recklessly ignored all 
+
+
+* At trial, petitioners contended that the final turn failed “only 
+because of a large current that pushed the ship onto the reef” and that 
+Captain Coyne should have been warned about this supposed current. 
+J.A. 159. The court rejected this explanation because petitioners 
+
+
+; 
+
+
+pertinent information that was available to him.” J.A. 160. 
+
+
+The Bifurcation Order 
+Petitioners brought suit against respondents, alleging 
+claims for breach of contract warranties, negligence, and 
+products liability. Respondent Sofec, Inc. manufactured the 
+single point mooring system, which was owned and operated by 
+
+
+The principal ak of the damages claimed by 
+petitioners stemmed from the grounding of the ExxONn 
+HOUSTON herself, as the damages incurred from the oil cleanup 
+were relatively minor. JA. 71. The central difficulty in 
+
+
+the issue of causation among the multiple parties with respect 
+to the harm that the vessel suffered when it was stranded. 
+Respondents and the third-party respondents vigorously 
+disputed among themselves the cause of the initial breakout of 
+the vessel from its mooring. J.A. 63. Petitioners and all of the 
+various respondents also disputed the actual and proximate 
+cause of the vessel’s stranding. J.A. 62-69. Observing that 
+petitioners bore “the burden of proving that the breakout of the 
+vessel from her mooring was the proximate cause of the 
+grounding,” J.A. 66, the trial court found itself unable to 
+resolve these issues on summary judgment because the critical 
+factual issues were legitimately in dispute, J.A. 69, 71. 
+
+More than two years after the complaint was filed, the trial 
+court sought to simplify the imminent trial proceedings by 
+granting respondents’ motion to bifurcate the issue of causation 
+
+
+failed to show that their post-hoc studies of the currents in the area 
+could have been reduced to a usable format and, more important, 
+because petitioners failed to show that Captain Coyne would have 
+referred to such data had it been available. Instead, the court found 
+that Captain Coyne’s decision to turn “was made in haste without due 
+consideration of several other pieces of information which should 
+have caused him to reject the turn,” such as the navigational chars, 
+fixed plots that should have been taken of the vessel’s position, or 
+consultations with his other officers. J.A. 160. 
+
+
+as between the breakout and the stranding of the vessel. J.A. 
+71-74. The trial court noted its authority to exercise “broad 
+discretion to order separate trials pursuant to Rule 42(b) of the 
+Federal Rules of Civil Procedure when a separate trial will 
+further convenience, avoid prejudice or be conducive to 
+expedition and economy.” J.A. 72 (quotation omitted). 
+
+The court considered those factors and determined that 
+they supported bifurcation on the causation issue. It 
+
+
+could obviate the need for extensive discovery, trial 
+preparation, and weeks of trial if the court first determines the 
+cause or comparative causes of the grounding, excluding the 
+cause of the breakout,” which would involve complicated 
+matters of proof. J.A. 71. The court also noted that Phase One 
+of the trial would address 80% of petitioners’ damage claims, 
+which supported respondents’ view that “a separate trial offers 
+the probability of settlement after the conclusion of the first 
+phase.” J.A. 72. Moreover, the court concluded that if it were 
+to determine “that the navigation of the EXXON HOUSTON was 
+the proximate cause of its grounding, then it would be 
+unnecessary for the court to resolve the issue of ‘comparative 
+fault” or assess damages. J.A. 72 (citation omitted). 
+
+The court explained, however, that the ascertainment of 
+comparative fault would be very much at issue in Phase One of 
+the trial if the facts supported this resolution: “On the other 
+hand, if the court does not find that the navigation of the vessel 
+was the superseding cause of the grounding, the court can still 
+determine in the first phase of a bifurcated trial the comparative 
+fault (cause) of the grounding as between the breakout and the 
+subsequent navigation of the vessel.” J.A. 73. Finally, the 
+court weighed and resolved the competing considerations that 
+were raised by the motion to bifurcate: 
+
+The court is well aware of the possibility that the 
+issue of causation with respect to the breakout may 
+still require a second phase of trial, perhaps before a 
+jury. The court, however, is in the best position to 
+determine whether bifurcation in this case promotes 
+judicial economy. The court finds that it does. 
+
+
+9 
+
+
+J.A. 74 (emphasis in original).* Judge Fong thus ordered the 
+parties initially to try “the issue of causation with respect to the 
+EXXON HOUSTON’s grounding, but not including the issue of 
+causation with respect to the breakout itself.” J.A. 74. 
+
+
+The Trial Court Judgment 
+
+The purposes that the trial court believed would be served 
+by the bifurcation order were vindicated by the trial 
+proceedings themselves. The causation issues addressed in 
+Phase One of the trial alone required three weeks of courtroom 
+time. After a bench trial of those issues, the court entered 
+judgment for respondents, concluding that they “are not legally 
+responsible for the stranding of the EXXON HOUSTON.” J.A. 
+175. The court based this conclusion on the findings of fact as 
+related above, and on the following determinations. 
+
+First, the court noted the Court’s venerable holding in THE 
+LOUISIANA, 70 U.S. (3 Wall.) 164 (1865), that when a moving 
+vessel strikes a charted reef, it is presumed that the vessel is at 
+fault. Jd This presumption of fault suffices to make out a 
+
+prima facie case of negligence against the moving vessel. The 
+presumption is “universally described as strong, and as one that 
+places a heavy burden on the moving ship to overcome.” J.A. 
+167 (quotations omitted). It can be overcome only by proving, 
+for instance, that the vessel acted with reasonable care or that 
+the stranding was inevitable. Yet the trial court found that 
+petitioners simply failed to carry their burden of proof on either 
+point. It thus concluded that petitioners were negligent and that 
+Se ee SENG SNEED SHE FES NENG JA. 
+
+Second, the court recognized that “admiralty law further 
+presumes that when a vessel violates a statutory rule meant to 
+prevent stranding, the violation was a proximate cause of the 
+stranding.” J.A. 168; see THE PENNSYLVANIA, 86 U.S. (19 
+Wall.) 125 (1873). Captain Coyne was found to have violated 
+mandatory federal directives both by failing to have the vessel’s 
+
+
+* At that juncture, a jury trial might have been necessary on 
+various contract claims that Sofec had asserted against HIRI, which 
+did not fall within federal admiralty jurisdiction. Sofec has since 
+dismissed those claims, leaving no matters that would require 
+resolution by a jury. 
+
+
+10 
+
+
+position plotted on a navigational chart between 1830 and 2004 
+and by manning the bridge alone between 1948 and 2000. See 
+33 C.F.R. § 164.11(a) & (c) (1995). Because petitioners again 
+failed to rebut the presumption of negligence imposed by this 
+rule, the court found that petitioners’ violations were a 
+proximate cause of the stranding of the vessel. J.A. 169. 
+
+Third, the court went on to consider in more detail whether 
+Captain Coyne’s conduct was negligent without regard to the 
+application of the foregoing rules. It found that he acted 
+“negligently, unreasonably and in violation of the maritime 
+industry standards” in numerous ways: (1) by not deploying 
+sufficient chain to anchor the ship at 1747; (2) by not 
+requesting assistance from the Coast Guard or others; (3) by not 
+attempting to anchor the ship again after 1747; (4) by not 
+continuing to back the ship after 1830 until it reached a safe 
+distance from the shore; (5) by choosing to linger in the vicinity 
+of the shore, only about one-half mile from the actual 
+grounding line. J.A. 170-71. In addition, Captain Coyne’s 
+failure to plot fixes of the vessel’s position between 1830 and 
+2004, which would have avoided any danger of stranding, “was 
+grossly and extraordinarily negligent and in violation of the 
+maritime industry standards.” J.A. 171. . 
+
+Captain Coyne’s final turn, which led immediately to the 
+grounding of the vessel, was found to be “grossly and 
+extraordinarily negligent and in violation of the maritime 
+industry standards because he commenced it without knowing 
+the vessel’s position.” J.A. 171. The decision to turn the ship 
+toward the coast was found to have been made “independently 
+of the breakout,” and this decision and the attempt to make the 
+turn were each found to be “not a foreseeable consequence of 
+the breakout.” J.A. 175. Once again, the trial court found that 
+Captain Coyne could have avoided any danger of stranding by 
+simply backing out to sea or turning the other way. J.A. 171. 
+
+Fourth, and of extreme significance here, the court made 
+an independently dispositive determination that the causal chain 
+between the initial breakout and the ultimate stranding was 
+broken during the intervening period. In particular, the court 
+found that by 1830, the EXXON HOUSTON had reached a 
+position of safety, which vitiated the causal forces that had 
+previously operated on the vessel after it came loose from its 
+
+
+mooring.® “The EXXON HOUSTON had reached a safe position 
+and only the gross negligence of its master put it into further 
+danger.” J.A. 174. The court later reiterated the same point: 
+“By 1830, the Exxon Houston was heading out to sea and in no 
+further danger of stranciag. Only the grossly negligent actions 
+of its master endangered the vessel further.” J.A. 175.’ 
+
+For all of these reasons, the court concluded that 
+petitioners did not carry their burden of proving that the initial 
+breakout proximately caused the stranding of the vessel. J.A. 
+162, 172-76. It based this conclusion on careful consideration 
+of the factors laid out in section 442 of the Restatement 
+(Second) of Torts, which define when “an intervening force is 
+a superseding cause of harm to another.” J.A. 172-73. The 
+court found, in particular, that many features of Captain 
+Coyne’s conduct were “highly extraordinary” and “grossly 
+negligent,” though they resulted from “voluntary, unforced” 
+decisions, J.A. 174-75, made not in any extreme crisis, but 
+“calmly, deliberately and without the pressure of an imminent 
+peril,” J.A. 170. In the end, his actions were judged to be “the 
+sole proximate cause of the stranding of the EXXON HOUSTON.” 
+J.A. 173. 
+
+Judge Fong summed up his determinations as follows: 
+“Captain Coyne inexplicably chose to loiter in a dangerous area 
+without fixing his position. Then, while overly concerned by 
+an injury to a crew member, he drove the ship onto a charted 
+reef. Jt would be manifestly unjust to hold anyone legally 
+responsible for the consequences of these acts other than 
+Captain Coyne and his employer, Exxon.” J.A. 175-76 
+(emphasis added). 
+
+
+° The court had confronted the same potentially dispositive issue 
+on motion for summary judgment, but was unable to resolve it in that 
+posture, for whether the vessel had reached a position of safety, and 
+whether Captain Coyne had been negligent, were both disputed facts 
+that could only be resolved after trial. J.A. 68-71. 
+
+
+’ The court also found that petitioners had failed to establish any 
+post-breakout breaches of the “safe berth” clause or warranty 
+contained in their contract with respondents HIRI, who owned and 
+operated the single point mooring system. J.A. 162-66. 
+
+
+12 
+
+
+The Court of Appeals Decision 
+
+The Court of Appeals unanimously affirmed. It began its 
+analysis by focusing on the issue of proximate cause, including 
+the subsidiary principle of superseding cause, and discerned 
+some confusion among the courts of appeals on the continued 
+applicability of these concepts under the comparative fault rule 
+adopted in United States v. Reliable Transfer Co., 421 U.S. 397 
+(1975).* After considering the case law, the court reaffirmed its 
+previous ruling that “ ing cause may act to cut off 
+liability for antecedent acts of negligence in admiralty cases 
+where the superseding cause is the result of extraordinary 
+negligence. We therefore hold that the district court did not 
+‘disobey’ Reliable Transfer in employing the doctrine of 
+superseding cause in this case.” J.A. 223. 
+
+The Court of Appeals then easily dispatched petitioners’ 
+claim that the District Court had improperly bifurcated the 
+proceedings, noting that trial courts enjoy broad discretion 
+under Rule 42(b), and concluding that Judge Fong did not 
+abuse his discretion. Legally, the bifurcation was 
+unexceptionable, for the District Court had correctly 
+determined that if it found “the injured party to be the 
+superseding or sole proximate cause of the damage complained 
+of, it cannot recover from a party whose actions or omissions 
+are deemed to be causes in fact, but not legal causes of the 
+damage, regardless of whether that party’s liability is premised 
+on negligence or strict liability.” J.A. 225-26 (emphasis in 
+original). Moreover, the court soundly exercised its discretion, 
+for bifurcation of the trial was “expeditious and appropriate” 
+and did not prejudice Exxon. J.A. 226. 
+
+Finally, the Court of Appeals turned to the trial court’s 
+findings that Captain Coyne had acted “with extraordinary 
+
+
+* In particular, the Ninth Circuit found inconsistency between 
+the Eleventh Circuit’s decision in Hercules, Inc. v. Stevens Shipping 
+Co., 765 F.2d 1069 (11th Cir. 1985), which apparently is the only 
+decision to reject the doctrine of superseding cavse, and later 
+decisions by the Fifth, Eighth, and Ninth Circuits, which hold that the 
+doctrine of proximate cause, including the subsidiary principle of 
+superseding cause, retains its full vitality in maritime tort cases. See 
+J.A. 219-23. 
+
+
+13 
+
+
+negligence” and that those actions “constituted a superseding 
+cause of the ship’s loss.” J.A. 227-28. On each point, the 
+Court of Appeals approved the trial court’s determinations, 
+relying heavily on its factual findings, which were found to be 
+“well supported by the record” and thus were upheld in their 
+entirety. J.A. 233; see generally J.A. 226-33. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+Admiralty courts should apply the same principles of 
+proximate causation for maritime torts that courts apply in the 
+common law of torts. The doctrine of proximate cause has 
+been elaborately developed and refined over centuries of 
+adjudication. These foundational principles for ascertaining 
+legal responsibility for wrongs done to another are embodied in 
+ie settled case law as well as in the leading authorities on tort 
+law. No sound reasons have been advanced for departing from 
+these well-settled principles in cases involving maritime torts. 
+
+The established doctrine of proximate cause in the law of 
+torts includes the principle of superseding cause. Indeed, this 
+principle is a bedrock tenet of causation analysis in 
+circumstances where different causal forces operate 
+successively rather than concomitantly. In particular, where a 
+court determines that a subsequent causal force is an 
+extraordinary intervening event that is not a normal 
+consequence of previous causal forces, the accepted principle 
+of superseding cause holds that the subsequent causal force 
+constitutes the proximate cause of any harm that may have 
+occurred. Any other approach would represent a significant 
+departure from the established doctrine of “proximate” cause. 
+
+. These tort-law concepts are wholly consistent with 
+principles of comparative fault. Most modern regimes of tort 
+law have adopted comparative negligence as the basic rule for 
+allocating liability, and yet they continue faithfully to apply the 
+principle of superseding cause in their analysis of proximate 
+cause both in negligence cases and in products liability cases. 
+For these reasons, the principle of superseding cause is 
+consistent with this Court’s decision in United States v. 
+Reliable Transfer Co., 421 U.S. 397 (1975), which adopted the 
+rule of comparative fault in maritime tort cases. The plain 
+consistency of traditional causation principles with the 
+
+
+14 
+
+
+comparative fault rule is shown by the Court’s decision in 
+Union Oil Co. of Cal. v. THE SAN JACINTO, 409 U.S. 140 (1972), 
+which must be overruled for petitioners to prevail. 
+
+The accepted doctrine of proximate causation reflects the 
+straightforward and practical approach favored in federal 
+admiralty law. This is primarily so because this doctrine can 
+aid in streamlining comple:. causal chains of events that would 
+multiply the practical difficulties of trying maritime tort cases 
+involving multiple claims and multiple parties. Consistency 
+between the common law of torts and federal admiralty law 
+governing maritime torts is also important to discourage forum 
+shopping in those cases where federal admiralty jurisdiction 
+may be uncertain or disputed. 
+
+In addition, the Court has stressed the need to maintain 
+consistency between American admiralty law and the legal 
+principles applied by other leading maritime nations. This is 
+important to discourage transoceanic forum shopping, which is 
+detrimental to maritime commerce and to the just and orderly 
+resolution of civil disputes that arise with regularity in 
+international waters. Consistent treatment of maritime tort 
+claims between these bodies of law is best facilitated by 
+adhering to settled principles of proximate causation, as 
+exemplified by a strikingly similar British decision, S.S. 
+SINGLETON ABBEY v. S.S. PALUDINA [1927] App. Cas. 16. 
+
+The lower courts correctly applied the doctrine of 
+proximate causation here. The trial court made two pivotal 
+factual findings that are dispositive of petitioners’ claims. First, 
+the trial court found that after the vessel broke loose from its 
+mooring, it ultimately reached a position of safety, at which 
+point the causal forces stemming from the breakout were no 
+longer any substantial factor in its subsequent movements. The 
+circumstances obtaining at that juncture allowed calm 
+deliberation and decisionmaking as to where to guide the vessel 
+thenceforth. Second, the trial court found that Captain Coyne 
+committed “extraordinary” negligence in his subsequent 
+handling of the vessel, and that this extraordinary negligence 
+was the sole proximate cause of her stranding. These factual 
+findings are critical to proper disposition of the claims 
+advanced in this case, and stand in sharp contrast io the skewed 
+account of events conjured up in petitioners’ brief. 
+
+
+15 
+
+
+Petitioners have also recast their tort claims, based on the 
+same underlying events, as contract claims premised on express 
+and implied warranties contained in their contract to deliver 
+crude oil. For many of the reasons already stated, this Court 
+should hold that the same causation principles apply to 
+maritime contract claims, framed in terms of “foreseeability,” 
+as the courts apply in the common law of contracts. The 
+foreseeability doctrine tends to reflect tort-like principles of 
+proximate cause, but is more limited in scope. Application of 
+this doctrine in this case affords no relief to petitioners, but is 
+fully consistent with traditional concerns of admiralty law. 
+
+Finally, the real object of petitioners’ recriminations is the 
+District Court’s ruling that bifurcated the trial in order to focus 
+judicial resources on the dispositive issue of proximate 
+causation. Petitioners y assert that the trial court’s 
+bifurcation order deprived them of due process of law. Yet 
+they did not frame this issue as one of their questions presented, 
+and therefore they cannot seek reversal on this ground. 
+
+Moreover, any such claim is frivolous. It is standard 
+procedure in tort cases involving multiple parties to conserve 
+the resources of the court and litigants alike by trying one or 
+more potentially dispositive issues in the first instance, and 
+postponing resolution of other issues, if necessary at all, until 
+a later stage. In admiralty cases, as in other cases, trial courts 
+should enjoy broad discretion to devise what they judge to be 
+orderly and efficient processes for determining the factual and 
+legal issues. The results of this trial fully vindicate the 
+purposes that the late Judge Fong concluded would be served 
+by bifurcation here. 
+
+
+ARGUMENT 
+
+
+I. ADMIRALTY COURTS SHOULD APPLY THE 
+SAME PRINCIPLES OF PROXIMATE CAUSE FOR 
+MARITIME TORTS AS THE COURTS APPLY IN 
+THE COMMON LAW OF TORTS. 
+
+
+The essence of the decisions below, and of our position 
+before this Court, is that maritime torts are no different from 
+land-based torts in terms of the legal principles that should 
+govern such basic issues as breach of duty, causation, and 
+
+
+16 
+
+
+damages. In particular, the doctrine of proximate cause, which 
+courts have refined over many decades of jurisprudential 
+development, should apply to maritime torts for the same 
+reasons of fairness and efficiency that have been found to 
+justify its application in all other kinds of tort cases. This 
+general principle of consistency between federal admiralty lav. 
+and the common law also discourages forum shopping in cases 
+where federal admiralty jurisdiction is uncertain or disputed. 
+
+
+A. The Doctrine of Proximate Cause in Tort Law 
+Includes the Principle of Superseding Cause 
+
+The doctrine of proximate cause is firmly established in the 
+common law of torts. It is a critical tool for avoiding endless 
+squabbles about how far along the truly infinite chain of causal 
+forces courts should extend their inquiries in order to fix legal 
+responsibility for harm suffered by complaining parties. See, 
+e.g., W. Page Keeton, Prosser and Keeton on the Law of Torts 
+§ 44, at 302 (Sth ed. 1984) (“In the effort to hold the 
+defendant's liability within some reasonable bounds, the courts 
+have been compelled, out of sheer necessity and in default of 
+anything better, to fall back upon” the doctrine of proximate 
+cause, including “intervening cause.”). 
+
+The principal features of proximate causation are set forth 
+in the Restatement (Second) of Torts, and were correctly relied 
+upon by the courts below. See J.A. 172-76, 221 n.4, 230-33. 
+For a party’s conduct to constitute the legal cause of any harm, 
+that conduct must be “a substantial factor in bringing about the 
+harm” and must not be subject to any rule of law that relieves 
+that party “from liability because of the manner in which his 
+negligence has resulted in the harm.” Restatement (Second) of 
+Torts § 431 (1965). One of the rules that relieves a party from 
+liability for its negligence is the doctrine of superseding cause. 
+A “superseding cause” is defined as any “intervening force” 
+that “actively operates in producing harm” to the complaining 
+party “after the actor’s negligent act or omission has been 
+committed,” at least where certain other considerations are 
+present. Jd §§ 440 & 441. 
+
+The considerations that suffice to transform an intervening 
+force into a superseding cause, which relieves the defendant of 
+liability, are set out in the Restatement, as follows: 
+
+
+17 
+
+
+(a) the fact that its intervention brings about harm 
+different in kind from that which would otherwise 
+have resulted from the actor’s negligence; 
+
+(b) the fact that its operation or the consequences 
+thereof appear after the event to be extraordinary 
+rather than normal in view of the circumstances 
+existing at the time of its operation; 
+
+(c) the fact that the intervening force is operating 
+independently of any situation created by the actor’s 
+negligence, or, on the other hand, is or is not a normal 
+result of such a situation; 
+
+(d) the fact that the operation of the intervening 
+force is due to a third person’s act or his failure to act; 
+
+(e) the fact that the intervening force is due to an 
+act of a third person which is wrongful toward the 
+other and as such subjects the third person to liability 
+to him; 
+
+(f) the degree of culpability of a wrongful act of 
+a third person which sets the intervening force in 
+motion. 
+
+Id. at § 442. Consistent with this itemization of pertinent 
+considerations, courts continue to apply the principle of 
+superseding cause in making determinations of liability for all 
+manner of tort claims." 
+
+Dissenting from the widespread acceptance of these 
+principles, petitioners’ amicus quotes a passage from Dean 
+Prosser that, taken out of context, seems critical of this 
+doctrine: “It must be conceded that ‘intervening cause’ is a 
+highly unsatisfactory term, since we are dealing with problems 
+of responsibility, and not physics.” See Maritime Law 
+
+
+* As will be discussed in more detail, see Section II, infra, the 
+trial court painstakingly applied the factors set forth in section 442 of 
+the Restatement in order to reach a correct determination of liability 
+in this case. See J.A. 172-76. 
+
+
+” See, e.g., Peckham . Continental Casualty Ins. Co., 895 F.2d 
+830, 838 (1st Cir. 1990); Watters v. TSR, Inc., 904 F.2d 378, 383 (6th 
+Cir. 1990); Lone Star Indus., Inc. v. Mays Towing Co., 927 F.2d 
+1453, 1459-60 (8th Cir. 1991) (maritime tort); Hunley v. Ace 
+Maritime Corp., 927 F.2d 493, 497 (9th Cir. 1991) (maritime tort). 
+
+
+Association of the United States as Amicus Curiae in Support 
+of Petitioners (“MLA Br.”) 12 n.7. The complete passage, 
+however, shows that this supposed criticism is merely 
+linguistic, not conceptual, for it continues: 
+[The term “intervening cause”’] is used in default of a 
+better, because it is useful in dealing with the type of 
+case where a new and independent cause acts upon a 
+situation once created by the defendant. In the most 
+common usage it is meant to be understood in a very 
+from concurring causes of either natural or human 
+origin, which come into active operation at a later 
+time to change a situation resulting from the 
+defendant’s conduct. 
+Prosser and Keaton, supra, § 44, at 302. The broader context 
+of Dean Prosser’s discussion demonstrates even more fully his 
+t with the definitive position of the Restatement that 
+the principles of superseding or intervening cause represent an 
+established doctrine of tort law that is useful in settling legal 
+responsibility for the harms that occur in certain kinds of 
+factual situations. See id. at 301-19. 
+
+
+B. The Doctrine of Proximate Cause Is Consistent 
+with Principles of Comparative Fault 
+
+The gist of petitioners’ dissatisfaction with the law as 
+framed by the lower courts in this case is their contention that 
+the legal principle of superseding cause is wholly inconsistent 
+with comparative fault. See Pet. Br. 23-29. Yet because this 
+principle is an accepted feature in legal analysis of proximate 
+causation, and since that analysis occurs routinely in tort cases 
+governed by modern principles of comparative negligence, 
+petitioners’ contention is plainly wrong. 
+
+
+"In the court below, petitioners sought to analogize the doctrine 
+of superseding cause to the now-discredited doctrine of “last clear 
+chance,” but this distortion was recognized plainly as such and 
+roundly rejected. See note 12, infra. In this Court, they have shifted 
+ground and now seek to analogize superseding cause to the doctrine 
+of contributory negligence, see Pet. Br. 21 & 32, which again 
+misconceives basic principles of tort law. Compare, eg. 
+
+
+19 
+
+
+The principle of imposing liability in proportion to the 
+amount of harm caused by each party’s conduct was not 
+favored in an earlier age where the trial of cases was marked by 
+simpler legal standards and methods of proof were perhaps 
+more primitive and less exacting. In recent decades, however, 
+the common law has generally embraced comparative fault as 
+the accepted rule in ioning liability for tortious conduct. 
+See Prosser and Keeton, supra, § 67, at 479 (“comparative fault 
+apportionment of damages is veritably sweeping the land”). 
+With the adoption of comparative fault, many of the doctrines 
+that had grown up under the prior tort-law regime have been 
+rendered obsolete. The harsh corrective rule of contributory 
+negligence as a complete bar to recovery, for example, along 
+with such counter-correctives as “last clear chance,” have not 
+been sustained in the new regime of modern tort law based on 
+principles of comparative fault. See id at 477-78." 
+
+At the same time these developments have occurred, 
+however, courts have not diminished their allegiance to the 
+traditional principles of causation analysis, including proximate 
+cause. The doctrine of proximate cause remains critical in 
+fixing legal responsibility for harm even under a tort-law 
+regime that has embraced the apportionment of damages among 
+
+
+Restatement (Second) of Torts, supra, ch. 16 (discussing causation, 
+including superseding cause) with id ch. |7 (discussing contributory 
+
+
+negligence). 
+
+
+"In the decision below, the Ninth Circuit correctly 
+distinguished the doctrine of superseding cause, which remains useful 
+and valid in determining proximate cause, from “last clear chance,” 
+which has been discarded under a tort regime of comparative 
+to last clear chance, that argument fails .... HIRI was not absolved 
+of fault because Exxon had the ‘last clear chance’ to avoid danger, 
+but because the district court found that Exxon’s independent and 
+extraordinarily negligent actions were the sole legal cause of the 
+stranding.” J.A. 232 n.7. Compare | Thomas J. Schoenbaum, 
+Admiralty and Maritime Law § 5-3 (1994) (approving causation 
+doctrines, including superseding cause) with id § 5-12 (disapproving 
+last clear chance) and id § 5-13 (disapproving contributory 
+negligence); see also note | 1, supra. 
+
+
+20 
+
+
+multiple See, e.g., Connors v. Gasbarro, 448 A.2d 756, 
+761 (RL Sam Galan cattanee of enn water ab eats 
+proximate cause of collision, comparative negligence does not 
+apply); Kroon v. Beech Aircraft Corp., 628 F.2d 891, 893 (Sth 
+Cir. 1980) (same; applying Florida law). And it continues to be 
+ecuabtiches law Gist Gos Coctine of presientie eaasp Saas 
+the subsidiary principle of superseding cause Restatement 
+(Second) of Torts, supra, § 442; Prosser and Keeton, supra, 
+§ 44; see also, e.g., Carlotta v. Warner, 601 F. Supp. 749, 751 
+(E.D. Ky. 1985) (superseding cause obviates comparison of 
+parties’ ; applying Kentucky law); Ellertson v. 
+Dansie, 576 P.2d 867, 869 (Utah 1978) (where plaintiff's 
+conduct was superseding cause, comparative negligence does 
+not apply). 
+
+The same approach also governs tort claims brought under 
+the modern doctrine of strict products liability. Here too, the 
+So poo nblity Lor cagly mlloves So complaining pary 
+for products liability law simply relieves the 
+of the onus of proving negligence, but leaves in place all other 
+elements of proof. See, e.g., Prosser and Keeton, supra, § 98. 
+Thus, the plaintiff in a products liability case must still prove 
+that the improper design or manufacture of a product was the 
+proximate cause of any alleged harm. See id § 102 at 710. 
+
+In such cases, moreover, the principle of superseding cause 
+
+remains fully As Dean Prosser has summarized: 
+“virtually all courts have seemingly agreed that the conduct or 
+misconduct of another, including an intermediate seller, the 
+claimant, or anyone else, may be of such a nature or kind as to 
+constitute a superseding cause.” Prosser and Keeton, supra, 
+§ 102, at 710; see, e.g, RH. Macy & Co. v. Otis Elevator Co., 
+554 N.E.2d 1313, 1317 (Oh. 1990) (superseding cause applies 
+
+
+to strict products liability claims); Buckley v. Bell, 703 P.2d 
+1089, 1091-95 (Wyo. 1985) (same); Jn re Related Asbestos 
+
+
+Cases, 543 F. Supp. 1142, 1150 (N.D. Cal. 1982) (same). 
+
+
+C. The Doctrine of Proximate Cause Is Consistent 
+with the Court’s Decision in Reliable Transfer _ 
+Petitioners contend that the doctrine of proximate cause is 
+inconsistent with the Court’s holding in Reliable Transfer that 
+“when two or more parties have contributed by their fault to 
+
+
+21 
+
+
+cause property damage in a maritime collision or stranding, 
+lability for such damages is to be allocated among the partie 
+
+to the comparative degree of their fault.” 
+United States v. Reliable Transfer Co., 421 U.S. 397, 411 
+(1975). Because this contention depends upon the premise that 
+the principles of proximate cause, including superseding cause, 
+are not consistent with comparative fault, it is squarely refuted 
+by the preceding section. But a fuller understanding of Reliable 
+Transfer confirms the same point." 
+
+In Reliable Transfer, the Court did not have occasion to 
+consider any issue of ing cause. In that case, a vessel 
+ran aground on a sand bar outside New York Harbor. The 
+vessel's owner brought suit against the United States, alleging 
+that the Coast Guard had failed to maintain the light that 
+marked a breakwater near the spot where the vessel was 
+25% by the Coast Guard's failure to maintain the breakwater 
+light and 75% by the fault of the vessel’s captain, who was 
+negligent in setting his course based on little more than 
+guesswork. 421 U.S. at 399. The case was thus legitimately 
+one of multiple causation, where the alleged fault of each party 
+was found as a factual matter to have operated concomitantly 
+
+
+. to cause the stranding."* 
+
+
+The principal issue confronted by the Court was whether 
+liability should be allocated evenly between the two parties, 
+without regard to the trial court’s finding that they had been 
+responsible in different proportions for causing the resulting 
+harm. More than a century before, the Court had adopted the 
+“divided damages” rule, which “was an ancient form of rough 
+justice, a means of apportioning damages where it was difficult 
+to measure which party was more at fault.” 421 U.S. at 402, 
+403. Yet the Court recognized that with the passage of time the 
+
+
+" Petitioners cite City of Milwaukee v. Cement Div. Nat'l 
+Gypsum Co., 115 S. Ct. 2091, 2097 (1995), and McDermott, Inc. v. 
+AmClyde, 114 S. Ct. 1461, 1465 (1994), as recent reaffirmations of 
+Reliable Transfer. Pet. Br. 24-25. Neither decision, however, sheds 
+any light on the issues raised in this case. 
+
+Petitioners’ amicus concedes that Reliable Transfer did not 
+address any issues of superseding cause. MLA Br. 15 n.10. 
+
+
+22 
+
+
+United States had come to be “virtually alone among the 
+world’s major maritime nations” in not ing the more 
+modern rule of proportional fault, id at 403, and that the older 
+rule “produces palpably unfair results” in many cases, id. at 
+405. Therefore, the Court overruled its prior decisions 
+endorsing the “divided damages” rule and adopted the rule of 
+comparative fault to govern maritime tort claims. /d at 411. 
+
+It is apparent that the Court adopted the comparative fault 
+rule under federal admiralty law for essentially the same 
+reasons that the common law of torts was embracing the 
+doctrine of comparative negligence during the same period. 
+The old regime had “continued to prevail in this country by 
+sheer inertia rather than by reason of any intrinsic merit. The 
+reasons that originally led to the Court’s adoption of the rul: 
+have long since disappeared. The rule has been repeatedly 
+criticized” for its inequity. /d at 410-11. Similar concerns 
+prompted general adoption of comparative negligence. 
+
+The consequences of Reliable Transfer have also been the 
+same as those that flowed from the adoption of comparative 
+negligence in tort law. Several odd doctrines peculiar to 
+admiralty law, which had grown up in reaction to the problems 
+of the “divided damages” rule, became immediately obsolete. 
+“Reliable Transfer and the doctrine of comparative negligence 
+also have simplified the law of collision, sounding the death 
+knell for a number of doctrines that are no longer needed,” such 
+as the “Major-Minor Fault Rule” and the doctrine of inscrutable 
+fault. 2 Thomas J. Schoenbaum, Admiralty and Maritime Law 
+§ 14-4, at 271 (1994). By the same token, some of the same 
+doctrines that had been discarded in the common law of torts 
+were similarly irrelevant to a maritime tort regime based on 
+comparative fault, such as “last clear chance” and contributory 
+negligence. See, 1 Schoenbaum, supra, §§ 5-12 & 5-13." 
+
+By contrast, as the one leading authority on admiralty law 
+to address the issue has concluded, “the superseding cause 
+doctrine can be reconciled with comparative negligence. 
+
+
+'* The defense of contributory negligence had been rejected in 
+admiralty law much earlier, see THE MAX MorRIS v. Curry, 137 U.S. 
+1 (1890), but the doctrine of “last clear chance” had continued to be 
+applied up until the Court’s decision in Reliable Transfer. 
+
+
+: 
+: 
+; 
+: 
+
+
+23 
+
+
+Superseding cause operates to cut off the liability of an 
+admittedly negligent defendant, and there is properly no 
+apportionment of comparative fault where there is an absence 
+of proximate causation.” /d. at § 5-3, at 166. Or, as Professor 
+Schoenbaum restates the same point: “If the court can apply 
+the doctrine of superseding cause to apportion injuries to 
+separate causes based on the evidence, there is no need for the 
+doctrine of comparative negligence” to come into play. /d at 
+165 n.16 (citing Desmond v. Holland Am. Cruises, 1981 
+A.M.C. 211 (S.D.N.Y. 1981), as a case in which the trial court 
+properly applied proximate cause analysis to find that a 
+superseding cause precluded defendant's liability). 
+
+Indeed, the clear consistency between causation doctrines 
+and the comparative fault rule is demonstrated by the Court’s 
+decision in Union Oil Co. of Cal. v. THE SAN JACINTO, 409 U.S. 
+140 (1972) (Rehnquist, J.). The Court granted certiorari in 
+Union Oil to reconsider the same “divided damages” rule that 
+it eventually overruled three years later in Reliable Transfer. 
+409 U.S. at 141. Before addressing that important issue, 
+however, the Court held that it was first to deal with 
+a potentially dispositive threshold issue. That threshold issue, 
+which ultimately did prove to be dispositive, was the issue of 
+proximate cause. 
+
+In Union Oil, a barge under tow collided with a tanker. In 
+the ensuing lawsuit, the trial court determined that though both 
+parties may have been negligent, the tug and barge had been the 
+sole proximate cause of the collision. See Union Oil Co. of 
+Cal. v. THE TUGBOAT SAN JACINTO, 304 F. Supp. 519 (D. Ore. 
+1969). As in the case presently before the Court, the trial court 
+determined as a factual matter that any negligence by the tanker 
+was “not a contributing cause of the collision,” and that the in 
+extremis rule did not apply. /d at 522. The Ninth Circuit 
+reversed, holding that because the tanker was also at fault, the 
+two parties must each be held liable for half the total damages 
+under the “divided damages” rule, without regard to any 
+finding as to proximate causation. See 409 U.S. at 143-44. 
+
+In this posture, the Supreme Court granted review. After 
+recounting the background facts of the collision and the 
+statutory rules of fault that governed the parties’ conduct, the 
+Court found itself in agreement with the trial court’s 
+
+
+24 
+
+
+determination that any fault ascribed to the tanker “did not 
+proximately contribute to the collision.” /d. at 146 (quotations 
+omitted). It then held that the causation issue is logically 
+antecedent to the apportionment of damages, and thus was 
+dispositive of the case. Jd. The Court therefore reversed and 
+reinstated the trial judgment, without proceeding on to consider 
+whether it should apply the comparative fault rule.'® 
+
+The Court’s holding in Union Oil, though predating the 
+Reliable Transfer decision, is controlling here and completely 
+defeats petitioners’ contentions. Here, as in Union Oil, the trial 
+court found as a factual matter that though both parties may 
+have been negligent or somehow at fault, only one party was 
+the proximate cause of the harm at issue. Petitioners here claim 
+that the trial court erred by making this threshold determination 
+and by not continuing on to apply the comparative fault rule 
+adopted in Reliable Transfer. Yet in Union Oil the Court 
+granted review explicitly to consider whether to adopt this same 
+rule, and ended up holding that proximate cause was properly 
+a threshold issue that must be determined before going on to 
+apportion damages under the comparative fault rule. If that was 
+so in Union Oil, it must be so in this case also, unless the 
+Court’s decision in Union Oil is now to be overruled. 
+Petitioners have made no persuasive case to justify this step, 
+however, and in fact sound principles of tort law support the 
+logic of the Court’s holding there.’ 
+
+
+'© Lower courts have likewise held that to include in a 
+comparative fault determination an element of negligence found not 
+to constitute a contributing cause of the harm is a mistake of law. 
+See, e.g, Hellenic Lines, Lid. v. Prudential Lines, Inc., 813 F.2d 634, 
+638 (4th Cir. 1987). 
+
+'’ Petitioners’ amicus disagrees with petitioners about the 
+continuing validity of the doctrine of superseding cause. See MLA 
+Br. 9, 15-16. Yet amicus’ view of the proper approach to resolving 
+such cases, see id. at 15-16, is simply inconsistent with the Court’s 
+disposition in Union Oil. In addition, the clear consistency of 
+causation doctrine and the comparative fault rule adopted in Reliable 
+Transfer is also reflected in the Draft Maritime Comparative 
+Responsibility Act with Comments, which has been proposed in 
+Congress and was approved by petitioners’ amicus. See 2 Benedict 
+
+
+25 
+
+
+D. The Doctrine of Proximate Cause Is Consistent 
+with Principles of Admiralty Law Applied by the 
+World’s Maritime Nations 
+
+In Reliable Transfer, the Court decided to jettison the 
+
+“divided damages” rule in part because continued adherence to 
+that rule had put the United States out of step with Great Britain 
+that Great Britairrand many other countries follow the Brussels 
+Collision Liability Convention of 1910, which provides for 
+apportionment of on the basis of the degree of fault 
+caused by the various parties. 421 U.S. at 403-04 & n.7. The 
+relative isolation of the United States in adhering to the 
+outmoded “divided damages” rule was deemed to be of great 
+concern because the Court recognized that this not only cast 
+doubt upon the wisdom of its prior position but also 
+“encourages transoceanic forum shopping.” /d at 404. Such 
+incentives to forum shopping are undesirable because they are 
+detrimental to the just and orderly resolution of civil disputes 
+that arise with recurring frequency in international waters.'* 
+These same problems would arise here, however, if the Court 
+were to abrogate or limit its consideration of the issue of 
+
+
+on Admiralty § 7, at 1-28.1 n.5 (F. Wiswall, ed.) (7th rev. ed. 1995). 
+The initial section of this draft legislation, which would codify the 
+comparative fault rule, states that “[Ijegal requirements of causal 
+relation apply both to fault as the basis for liability and to 
+contributory fault.” Jd The comments are more elaborate: “For the 
+conduct stigmatized as fault to have any effect under the provisions 
+of this Act it must have had an adequate causal relation to the 
+claimant’s damage. This includes the rules of both cause in fact and 
+proximate cause.” Id. at |\-33 (emphasis added). 
+
+
+" For example, one account of the problems that were alleviated 
+by the Brussels Convention describes a maritime collision in which 
+the parties brought suit in England, Belgium, and Holland to take 
+advantage of the distinct rules of recovery that had prevailed in those 
+jurisdictions. See Alfred Huger, The Proportional Damage Rule in 
+Collisions at Sea, 13 Cornell L.Q. 531, 531 (1928). 
+
+
+26 
+
+
+proximate cause in maritime tort cases.'° 
+
+The Brussels Convention itself is wholly consistent with 
+traditional causation doctrine in fixing responsibility for harms 
+that occur on the high seas. Article 3 of the Convention states 
+that if a collision “is caused by the fault of one of the vessels, 
+liability to make good the damages shall attach to the one 
+which has committed the fault.” See 6 Benedict on Admiralty, 
+Doc. 3-2, at 3-11 (F. Wiswall, ed.) (7th rev. ed. 1995) 
+(emphasis added). From the perspective of this understanding 
+of “fault” as grounded in causation, Article 4 then states the 
+fault” rule adopted in Reliable Transfer. Finally, 
+Article 13, which applies the same provisions to noncollision 
+cases (such as this one), reflects the same causation approach: 
+
+This Convention shall extend to the making good 
+
+of damages which a vessel has caused to another 
+
+vessel or to persons or things on board either vessel, 
+
+either by the execution or nonexecution of a 
+
+manoeuvre or by the nonobservance of ihe 
+
+regulations, even if no collision has actually taken 
+
+
+place. 
+
+Id. at 3-14 (emphasis added). 
+
+It is not surprising that the Brussels Convention, which is 
+followed by “the world’s major maritime nations,” Reliable 
+Transfer, 421 U.S. at 403, incorporates the same causation 
+principles developed over many years by courts in determining 
+
+responsibility for torts that occur in other contexts. To suggest, 
+as petitioners do, that mere involvement in the events that 
+culminate in allegations of harm suffices to require a party to 
+bear partial legal responsibility for any such harm -- regardless 
+of whether that party’s actions can be found as a legal matter to 
+have actually caused that harm -- is simply too facile. 
+
+Moreover, the British courts apply the same causation 
+principles to maritime torts that are applicable to terrestrial 
+torts. Significantly, this means that British maritime decisions 
+
+
+'® Petitioners’ amicus touches on the importance of “harmony 
+and uniformity” in the international relations of American maritime 
+‘law, MLA Br. 14-15 (citing Knickerbocker Ice Co. v. Stewart, 253 
+U.S. 149, 150 (1920)), but never suggests or shows that its position 
+is more consistent with such uniformity than is respondents’ position. 
+
+
+27 
+
+
+have long embraced the doctrine of proximate cause, including 
+the established subsidiary causation principle of “novus actus 
+interveniens.” Two i t cases illustrate this approach. 
+
+In THE CiTy OF LINCOLN, 15 P.D. 15 (C.A. 1889), a case 
+decided by the Court of Appeal prior to Great Britain’s 
+adoption of the Brussels Convention, a steamer by that name 
+collided with another ship. In the collision, a large portion of 
+the other ship was cut off, which caused its steering compass, 
+log glass, and various charts to be lost. The master of the 
+truncated ship sought to navigate her to port, but was unable to 
+calculate the distances properly in the absence of the ship’s log 
+and ultimately stranded the vessel. The owners of the stranded 
+vessel brought suit against the owners of the steamer, which 
+was acknowledged to have been at fault for the collision, for 
+the damages sustained by the stranded vessel. 
+
+A unanimous court held that the defendants were liable for 
+the stranding because it resulted directly from the consequences 
+of the collision. Lord Esher recognized that “there may be 
+intermediate circumstances in a case which prevent the ultimate 
+damage from being the direct result of the defendants’ act,” but 
+concluded that on these facts “the ultimate loss of the ship was 
+caused by the captain being deprived of the means of finding 
+out where his ship was, which deprivation was the direct result 
+of the wrongful act of the defendants.” 15 P.D. at 17. Judge 
+Lindley agreed, concluding that because the captain’s 
+subsequent conduct was reasonable and not negligent, this 
+“reasonable human conduct” is “such a consequence as in the 
+ordinary course of things would flow from the act.” /d at 18. 
+Judge Lopes also concurred on the basis that no “intervening, 
+independent moving cause” led the damaged ship to run 
+aground, and thus the defendants were responsible “for all the 
+natural consequences occasioned by their original misconduct.” 
+Id. at 19. On the other hand, he stated, “if the consequence had 
+been caused by anything which those on board the [other ship], 
+by the exercise of proper skill and care, could have prevented 
+clearly that liability would not attach.” Jd The various 
+opinions thus recognized the principle of superseding cause, but 
+held that it did not apply on the facts of that case. 
+
+By contrast, the House of Lords approved and carefully 
+applied the doctrine of superseding cause in a later admiralty 
+
+
+28 
+
+
+case. S.S. SINGLETON ABBEY v. S.S. PALUDINA, [1927] App. Cas. 
+16. That decision came down well after Great Britain had 
+adopted the principles of proportional fault embodied in the 
+Brussels Convention, see Maritime Conventions Act, 1911, 
+1 & 1 Geo. 5, ch. 57, § 1, and in it the majority expressly 
+distinguished THE CiTY OF LINCOLN on its facts. 
+
+The case involved three ships moored to a quay in Valetta 
+Harbor, Malta. A strong wind came up, which caused the 
+PALUDINA to drag her anchors and make contact with the 
+SINGLETON ABBEY. Both ships broke away from their 
+moorings, and the SINGLETON ABBEY thereafter struck a third 
+ship, the SARA, and cast her adrift also. The latter two ships 
+then manouvered in the harbor under their own steam to keep 
+away from the shore and were brought up heading to the wind. 
+The PALUDINA was clear of both of the other ships at this time. 
+Twenty minutes later, the SARA collided with the SINGLETON 
+ABBEY, which caused the SARA to sink. [1927] App. Cas. at 
+16. The owners of the SINGLETON ABBEY sued the owners of 
+the PALUDINA, which was found liable for the initial collisions. 
+On appeal to the House of Lords, the PALUDINA was conceded 
+to have been at fault in causing the initial collisions; the issue 
+instead was whether it was liable for the final collision between 
+the SINGLETON ABBEY and the SARA, or whether that collision 
+was due to a novus actus interveniens. Id. at 22. 
+
+Lord Sumner, for the majority, concisely stated the 
+controlling principles of law: “the plaintiffs must prove that the 
+PALUDINA’s negligence was the cause of [the final collision]. 
+The injury must have been caused directly, though not 
+necessarily solely, by that negligence. If the PALUDINA merely 
+fai'!.” Jd at 26. On the facts as previously stated, he concluded 
+that the PALUDINA’s negligence was not the proximate cause of 
+the final collision, for the captain of the SINGLETON ABBEY had 
+reached a position in which he acted as a “free agent,” at which 
+point he “could do as he chose and he did so, none the less that 
+he had to decide and act quickly.” Jd “My lords, the 
+PALUDINA is not liable for mere negligence, but only for 
+negligence causing damage. The SINGLETON ABBEY herself is 
+the cause of the damage she has suffered, not merely if her 
+captain’s action brought it about negligentiy. She will be the 
+
+
+29 
+
+
+cause of that damage, if her captain, freely and as the direct 
+consequence of his own decision, brought it about at all.” /d 
+at 26-27.” He thus distinguished THE Crry oF LINCOLN, where 
+the captain steered his vessel wrongly and stranded it “because 
+his means of observation, the log, etc., had been carried away 
+in the collision.” Jd. at 27.7! 
+
+These decisions thus establish that British admiralty law 
+adheres both to the rule of proportional fault in maritime tort 
+cases and to the doctrine of proximate causation, including the 
+subsidiary principle of ing cause or novus actus 
+interveniens. As will be shown in Section I, infra, the 
+application of the causation rules adopted in the S.S. PALUDINA 
+decision to the facts of this case reinforce respondents’ position 
+that the trial court’s judgment is correct and should be affirmed. 
+In Lord Sumner’s words, subsequent to the breakout Captain 
+Coyne had reached a position in which he acted as a “free 
+agent,” at which point he “could do as he chose and he did so, 
+none the less that he had to decide and act quickly” (though 
+Captain Coyne had considerably more time in which to set his 
+course). /d at 26. Respondents may have “created the 
+occasion” for Captain Coyne’s actions that caused the stranding 
+of the EXXON HOUSTON, but in fact the stranding of the vessel 
+
+
+*° Lord Sumner als= stated his conclusion in terms of novus 
+actus interveniens: “[The captain’s] action was his own. No part of 
+it was a ‘natural’ consequence of the PALUDINA’s action, except in a 
+sense that would make negligence on his part also a ‘natural’ 
+consequence. His action was wilful, and, though rapid, was 
+deliberate. The PALUDINA’s negligence did not make him take it. 
+Cause and consequence in such a matter do not depend on the 
+question, whether the first action, which intervenes, is excusable or 
+not, but on the question whether it is new and independent or not.” 
+Id. at 28. : 
+
+
+*' Lord Blanesburgh, concurring with Lord Sumner, added that 
+the handling of the SARA was also a novus actus interveniens 
+between the PALUDINA’s negligence and the sinking of the SARA, 
+which broke the chain of causation. Id. at 36. The two dissenting 
+Lords did not contest the validity of the doctrine of novus actus 
+interveniens, but thought that it did not apply on the facts. See id at 
+24 (Viscount Dunedin); id. at 32 (Lord Phillimore). 
+
+
+30 
+
+
+was due to petitioners’ own “wilful” and “deliberate” actions, 
+which constituted extraordinary negligence. /d at 28. 
+Respondents are “not liable for mere negligence, but only for 
+negligence causing damage. The [EXXON Houston] herself is 
+the cause of the damage she has suffered,” for the extraordinary 
+negligence of “her captain, freely and as the direct consequence 
+of his own decision, brought it about” that she was stranded. 
+Id. at 26-27. 
+
+To maintain consistency with international maritime law, 
+the Court should expressly state that the doctrine of proximate 
+causation, including the subsidiary principle of superseding 
+cause, is consistent with the rule of comparative fault.” The 
+endorsement of any other approach to proximate causation in 
+maritime tort cases would encourage the very “transoceanic 
+forum shopping” that the Court deplored and sought to avoid in 
+Reliable Transfer. 421 U.S. at 404. 
+
+
+E. The Doctrine of Proximate Cause Is Consistent 
+
+with Traditional Concerns of Admiralty Law 
+
+Seeking to undermine the doctrine of proximate cause in 
+maritime tort cases, petitioners quote the Court’s admonition 
+that “conceptual distinctions” accepted at common law may be 
+“foreign to [the] traditions of simplicity and practicality” 
+embedded in admiralty law. Kermarec v. Compagnie Generale 
+Transatlantique, 358 U.S. 625, 631 (1959). 
+
+In Kermarec, the Court declined to incorporate into federal 
+admiralty law the “distinctions which the common law draws 
+between licensee and invitee.” Jd at 630. The Court reached 
+this conclusion, however, because it determined that these 
+distinctions were uniquely “inherited from a culture deeply 
+rooted to the land,” and had “originated under a legal system in 
+
+
+2 Of course, there is nothing improper about this Court seeking 
+to maintain consistency between federal admiralty law and the 
+maritime law of other nations. In brushing aside this cavil in Reliable 
+Transfer, the Court observed that “the Judiciary has traditionally 
+taken the lead in formulating flexible and fair remedies in the law 
+maritime, and Congress had largely left to this Court the 
+responsibility for fashioning the controlling rules of admiralty law.” 
+421 U.S. at 409 (quotations omitted). 
+
+
+31 
+
+
+which status depended almost entirely upon the nature of the 
+individual’s estate with respect to real property, a legal system 
+in that respect entirely alien to the law of the sea.” /d. at 630, 
+631-32. The Court also observed that these feudalistic 
+distinctions posed such a “semantic morass” that the common 
+law was moving “towards imposing on owners and occupiers 
+a single duty of reasonable care in all the circumstances.” /d. 
+at 631 (quotations omitted). The Court thus declined to 
+— such “inappropriate common-law concepts.” /d. at 
+
+The issue of whether American admiralty courts should 
+continue to adhere to principles of proximate causation, 
+however, is entirely different from the situation before the 
+Court in Kermarec. The doctrine of proximate cause is not 
+rooted in peculiar considerations that grew out of a “heritage of 
+feudalism,” and is not at all tied to a legal system built upon the 
+primacy of real property. To the contrary, it is an established 
+pillar of tort law, fully applicable to tort claims that have little 
+or no connection with the ownership of property, such as 
+negligence and products liability claims. 
+
+The consistency between the doctrine of superseding cause 
+and the admiralty rule of comparative negligence has been fully 
+and clearly discussed in a leading treatise on admiralty law. As 
+Professor Schoenbaum has cogently explained: 
+
+Another aspect of proximate causation is whether 
+
+an intervening or superseding cause relieves the 
+
+defendant of liability. In some cases the defendant 
+
+may be at fault, but the plaintiff or a third party may 
+
+have committed an act which supersedes, in terms of 
+
+cause, the fault of the defendant. The doctrine of 
+
+superseding cause is thus properly applied to preclude 
+
+direct causation; otherwise, the court will apportion 
+
+liability and damages according to comparative fault. 
+> * * 
+
+
+The doctrine of superseding cause is thus applied 
+where the defendant’s negligence in fact substantially 
+contributed to the plaintiff's injury, but the injury was 
+actually brought about by a later cause of independent 
+origin that was not foreseeable. It is properly applied 
+in admiralty cases. 
+
+
+32 
+
+
+1 Schoenbaum, supra, § 5-3, at 165-66.” 
+
+In a footnote to this passage, Professor Schoenbaum also 
+cites with approval the “thorough discussion” of this issue in a 
+recent law review commentary. See Herman W.H. Lee, 
+Abandon Ship? The Need to Maintain a Consistency Between 
+Causation in Admiralty and Causation in Tort, 25 Creighton L. 
+Rev. 1007 (1992). Petitioners’ amicus cites the same 
+commentary (though petitioners do not), see MLA Br. 16 n.11, 
+though it squarely supports respondents’ position for many of 
+the reasons already explained above. The article concludes: 
+
+The doctrine of superseding cause should not be 
+abrogated because it serves to assist Courts in keeping 
+
+a defendant’s liability within reasonable bounds 
+
+against the innumerable possible causes which may 
+
+intervene subsequent to the defendant's negligent act. 
+
+Courts should adhere to [this approach} in future 
+
+admiralty tort cases by maintaining the consistency 
+
+between causation in admiralty and common law tort. 
+
+A court holding otherwise would subject a defendant 
+
+to greatly increased liability and also encourage 
+
+overzealous plaintiffs to submerge the court with a 
+
+tide of lawsuits. 
+
+Abandon Ship, supra, at 1041. These authorities thus 
+persuasively conclude that proximate cause, including the 
+subsidiary principle of superseding cause, is fully consistent 
+with principles of federal admiralty law. See also Union Oil, 
+409 U.S. at 143-46. 
+
+Perhaps even more to the point, application of the settled 
+doctrine of proximate causation simply cannot be avoided in 
+
+
+> Petitioners quote a passage from Professors Gilmore and 
+Black in an attempt to show that “the maritime court has been less 
+ready than the shore courts to find that a subsequent wrongful act by 
+one party breaks the chain of causation.” Pet. Br. 23 n.19 (quoting 
+Grant Gilmore & Charles Black, The Law of Admiralty § 7-5, at 494 
+(2d ed. 1975)). Petitioners neglect to mention, however, that this 
+statement was made before the Court’s decision in Reliable Transfer, 
+which did away with outmoded doctrines of allocating damages that 
+had influenced the maritime courts to strain in applying traditional 
+causation principles. 
+
+
+33 
+
+
+any legal system that seeks to impose liability rationally and 
+consistently on the basis of fault. As discussed in Section |B, 
+supra, the doctrine of proximate cause thus continues to be 
+applied throughout the common law of torts -- both in 
+
+cases and in strict products liability cases -- to fix 
+legal responsibility for harms. Any other approach would be 
+incompatible with the foundations of Anglo-American law, 
+whether maritime or otherwise. Indeed, to hold a defendant 
+liable for harm actually caused by another's subsequent, 
+
+
+petitioners here also would undermine the objective of 
+maintaining consistency between the common law and federal 
+admiralty law governing maritime torts, which is to be desired 
+in the absence of strong reasons to the contrary. This 
+consistency is important to discourage forum shopping in tort 
+cases where federal admiralty jurisdiction may be uncertain or 
+disputed, which are not infrequent even in this Court. See, e.g. 
+Sisson v. Ruby, 497 U.S. 358 (1990); Foremost Ins. Co. v 
+Richardson, 457 U.S. 668 (1982); Executive Jet Aviation, Inc 
+v. City of Cleveland, 409 U.S. 249 (1972). 
+
+Moreover, this case illustrates how a trial court’s attention 
+to proximate cause may allow it in some cases to take a simpler 
+and more practical approach in adjudicating all the liability and 
+damage issues raised among multiple parties. By bifurcating 
+the trial here into two distinct phases, Judge Fong was able to 
+defer intricate discovery and trial preparation on the issue of 
+liability for the breakout, as well as on the damage issues, until 
+the question of proximate cause was first resolved. The parties 
+estimated that bifurcation could save them at least fifty days of 
+depositions, amounting to more than $750,000 in expenses, on 
+these issues, as well as reducing the amount of trial time by 
+approximately 80%. J.A. 49. Even without bifurcation, 
+
+
+_ ™ In this case, for example, Judge Fong powerfully captured this 
+
+point by concluding that because petitioners’ extraordinary 
+
+see ee oo Be Re alll ommend ~ wren 
+
+stranding, it would be “manifestly unjust to hold anyone legally 
+
+responsible for the consequences of these acts other than 
+[petitioners}.” 3.A. 176 (emphasis added). 
+
+
+34 
+
+
+attention to this threshold issue may succeed in simplifying the 
+disposition of many cases. See, e.g., Union Oil, 409 U.S. at 146 
+(holding that where one party is the sole proximate cause of any 
+harm, the case is correctly resolved without determining issues 
+of comparative fault). 
+
+In this case, the trial of the issues addressed in Phase One 
+alone consumed three weeks of courtroom time. Had the court 
+been obliged to conduct a single trial that addressed each of the 
+various liability and damage issues involving all of the various 
+parties -- which petitioners erroneously suggest it should have 
+been required to do as a constitutional matter -- it would have 
+been unable to effect any simple, practical resolution of the 
+dispositive issues presented. The resulting judicial melee 
+would have amply justified Dean Prosser’s concern that in 
+comparative negligence cases involving multiple parties, such 
+
+a “[t}heoretically perfect” procedure would lead to “almost 
+incredible complexity in the resulting issues,” thereby 
+multiplying the burdens and expense that would have to be 
+borne by both the litigants and the court. William L. Prosser, 
+Law of Torts § 67, at 438 (4th ed. 1971).” 
+
+
+Il. THE COURTS BELOW PROPERLY APPLIED 
+
+THE PRINCIPLES OF PROXIMATE CAUSE 
+
+ON THE FACTS OF THIS CASE. 
+
+After a lengthy bench tal, Judge Fong determined that 
+Captain Coyne’s extraordinary negligence in navigating the 
+vessel after it had reached a position of safety at 1830 was the 
+sole proximate cause of its stranding. J.A. 173. Under standard 
+legal principles of respondeat superior, whose application is 
+not contested here, Captain Coyne’s conduct was attributable 
+to petitioners, since he was acting within the scope of his 
+employment at the time. The trial court thus determined that 
+
+
+* This sort of judicial melee, however, is precisely what 
+petitioners and their amicus believe is required by the comparative 
+fault rule. See Pet. Br. 21 (“Reliable Transfer requires that ail the 
+faults of ail the parties must be compared regardless of the particular 
+order in which the faults occurred.”); id at 27 (same), MLA Br. 15- 
+16 (same). Yet this position is totally at odds with the Court's 
+holding in Union Oil. 
+
+
+35 
+
+
+respondents were not liable to petitioners for any damages that 
+may have resulted from the stranding of the vessel. The Court 
+of Appeals unanimously affirmed this judgment, upholding all 
+of the trial court’s factual findings. On the facts of this case, 
+this outcome is plainly correct and amply justified. 
+
+Initially, it is crucial to ize that the trial court found, 
+as a matter of fact, that at 1830 the EXXON HOUSTON had 
+reached a position of safety, at which juncture the causal forces 
+set in motion by the initial breakout of the vessel had run their 
+course. See J.A. 175 (“By 1830, the Exxon HOUSTON was 
+
+
+heading out to sea and in no further danger of stranding. Only 
+the grossly negligent actions of its master endangered the vessel 
+further.”). The trial court thus determined, in essence, that a 
+complete break in the chain of causation had occurred at this 
+juncture. One way of analyzing the facts of this case, therefore, 
+is that the original breakout simply did not cause the vessel's 
+issue of whether it could be held to have proximately caused 
+that result. As the court restated its conclusion: “The EXxONn 
+HOUSTON had reached a safe position and only the gross 
+negligence of its master put it into further danger.” /d at 174. 
+
+In making this determination, the court acted as the 
+ultimate factfinder, and its determination on this point was 
+upheld on review by the Court of Appeals. Deference to this 
+finding is in accord with the Restatement, which describes the 
+function of the jury (or, as in this case, the court as factfinder) 
+as including the determination of “whether the defendant's 
+conduct has been a substantial factor in causing the harm to the 
+plaintiff.” Restatement (Second) of Torts, supra, § 434. The 
+trial court’s findings and conclusions on this particular point 
+must therefore be affirmed by this Court unless petitioners can 
+
+
+establish that they are clearly erroneous, which they manifestly 
+
+
+** Dean Prosser likewise notes that it is property the function of 
+the trial court to determine “any limitation of liability as to 
+consequences directly caused, or any case in which the defendant's 
+responsibility is superseded by abnormal intervening forces,” with 
+any legitimately disputed factual questions to be resolved by the 
+primary factfinder. William L. Prosser, Law of Torts § 45, at 290 
+(4th ed. 1971). 
+
+
+36 
+
+
+are not. See, e.g, Anderson v. City of Bessemer City, 470 U.S. 
+564 (1985). Indeed, these factual findings are especially solid 
+under the “two court rule” that this Court applies in cases where 
+findings of fact were concurred in by two courts below.” 
+
+The import of this factual finding -- that the EXXON 
+HOUSTON reached a position of safety at 1830 -- is to compel 
+the conclusion that the chain of causal forces from the breakout 
+of the vessel to its stranding was effectively severed at 1830. 
+Understood in terms of the Restatement, this finding precludes 
+any conclusion that the breakout of the vessel was “a 
+substantial factor in causing the harm [i.e., the stranding).” 
+Restatement (Second) of Torts § 434. This factual finding is 
+dispositive. Petitioners seek to recast the trial court’s factual 
+findings to conform to the Restatement by repeatedly referring 
+to the breakout as “a substantial factor in the tanker’s loss,” 
+Pet. Br. 20 (emphasis added); see also id. at 17, 23, 29, but this 
+is merely to take a different view of the underlying facts, which 
+is not permissible on review here. The more accurate account 
+is that stated by Lord Sumner in S.S. PALUDINA: respondents 
+a oe but only for negligence 
+
+using damage”, where the breakout “merely created the 
+connie for the ultimate stranding of the vessel, but Captain 
+Coyne reached a position of safety in which he acted as a “free 
+agent” who “could do as he chose,” then the ExxON HOUSTON 
+“herself is the cause of the damage she has suffered,” 
+particularly where it came about by the extraordinary 
+negligence of her captain. [1927] App. Cas. at 26-27. 
+
+In addition, the trial court determined that Captain Coyne’s 
+subsequent conduct was quite unusual -- enough so as to 
+constitute “extraordinary negligence.” From this standpoint as 
+well, the court found that petitioners’ actions were properly 
+
+
+” See, e.g, Graver Tank & Mfg. Co. v. Linde Air Prods. Co., 
+336 U.S. 271, 275 (1949) (“A court of law, such as this Court is, 
+rather than a court for correction of errors in fact finding, cannot 
+undertake to review concurrent findings of fact by two courts below 
+in the absence of a very obvious and exceptional show of error.”); 
+Goodman v. Lukens Steel Co., 482 U.S. 656, 665 (1987) (quoting 
+Graver, 336 U.S. at 275). The “two court rule” was cited with 
+approval in Reliable Transfer, 421 U.S. at 401 n.2. 
+
+
+37 
+
+
+viewed as the sole proximate cause of the vessel’s 
+JA. 166-74. The trial court explicitly found that Captain 
+Coyne did not merely make a few mistakes in his handling of 
+the vessel, but was “grossly negligent” in a number of different 
+ways, which led him to navi the vessel squarely into a 
+charted reef. See J.A. 171, 174, 175. The trial court rested this 
+further determination on several alternative 
+
+First, the court recognized the settled admiralty rule that 
+“[w)hen a moving vessel strikes a charted reef, it is presumed 
+that the vessel is at fault.” J.A. 166. This rule was first 
+established in THE LOUISIANA, 70 U.S. (3 Wall.) 164 (1865), 
+and it remains just as valid today. Professor Schoenbaum 
+endorses its utility as embodying “both the burden of producing 
+rebuttal evidence and the burden of persuasion,” thus operating 
+as a sensible version of res ipsa loquitur in cases that involve 
+a collision between vessels or the collision of a vessel into a 
+fixed structure. 2 Schoenbaum, supra, § 14-3, at 268-69. The 
+trial court recognized that the ing party may seek to rebut 
+the presumption, but concluded that petitioners failed to meet 
+their burden “of proving by a preponderance of the evidence 
+that the EXXON HOUSTON acted with reasonable care, or that 
+the stranding was unavoidable.” J.A. 167. 
+comply with standard navigation practice as stated in 
+ere enn nee 
+
+with navigation safety directives. See J.A. 168-69 (quoting 33 
+C.F.R. § 164.11). The court found that between 1830 and 
+2004, Captain Coyne “failed to have the position of the vessel 
+fixed and plotted on a navigational chart, in violation of 33 
+C.F.R. § 164.1 1(c).” J.A. 169. In addition, between 1948 and 
+2000, Captain Coyne was alone on the bridge, and “was not 
+capable of both directing and controlling the movements of the 
+vessel and fixing the vessel's position, in violation of 33 C.F.R. 
+§ 164.11(a).” J.A. 169. Failure to comply with these directives 
+again raises a presumption of fault, which is rebuttable, but 
+which was not rebutted by petitioners here. /d at 168 (citing 
+THE PENNSYLVANIA, 86 U.S. (19 Wall.) 125 (1873)).” 
+
+
+* Petitioners have not challenged the validity of either the 
+LOUISIANA tule or the PENNSYLVANIA rule in the proceedings before 
+
+
+38 
+
+
+The gravity and importance of strict compliance with these 
+requirements should not be underestimated. As one leading 
+authority has cautioned: 
+
+The general lawyer, used to the rather fast-and-loose 
+
+way of a court with a statute, must accustom himself 
+
+to a far different atmosphere in dealing with these 
+
+Rules, for they are strictly and literally construed, and 
+
+compliance is insisted upon. This is as it should be, 
+
+for, though they have the force of statute, they are not 
+couched in legal terms of art, and are not lawyers’ 
+law, but are plain and simple directions addressed to 
+ship’s officers, the more competent among whom 
+have most of them substantially committed to 
+memory. 
+Grant Gilmore & Charles Black, supra, § 7-3, at 489; see also 
+2 Schoenbaum, supra, § 14-2, at 256 (these directives “are not 
+mere prudential regulations or guidelines; they are binding 
+enactments that must be adhered to closely”). 
+
+In yet another attempt to recharacterize the facts here, 
+petitioners and their amicus try to squeeze this case into the 
+regulatory exception for actions taken in extremis. See Pet. Br. 
+26-27; MLA Br. 14 n.9. Yet the trial court found that “Captain 
+Coyne and his crew had ample time to consider the situation 
+calmly and deliberately,” J.A. 159, and expressly concluded 
+that as his decisions “were made calmly, deliberately and 
+without the pressure of an imminent peril, the in extremis rule 
+cannot be applied in this case,” J.A. 170. 
+
+Third, in an extremely thorough review of the facts proved 
+at trial, Judge Fong went on to determine that Captain Coyne 
+committed “extraordinary” negligence in his handling of the 
+vessel quite independent of any legal presumptions drawn from 
+the foregoing points. In this respect, the court determined that 
+petitioners acted “negligently, unreasonably and in violation of 
+the maritime industry standards” in numerous ways: (1) by not 
+deploying sufficient chain to anchor the ship at 1747; (2) by not 
+
+
+this Court; and neither rule could properly be placed in issue here in 
+any event, for the trial court specifically went on to determine that 
+petitioners committed extraordinary negligence even apart from any 
+such presumptions, as is further explained immediately below. 
+
+
+39 
+
+
+requesting assistance from the Coast Guard or others; (3) by not 
+attempting to anchor the ship again after 1747; (4) by not 
+continuing to back the ship after 1830 until it reached a safe 
+distance from the shore; (5) by choosing to linger in the vicinity 
+of the shore, only about one-half mile from the actual 
+grounding line. J.A. 170-71. In addition, Captain Coyne’s 
+failure to plot fixes of the vessel’s position between 1830 and 
+2004, which would have avoided any danger of stranding, “was 
+grossly and extraordinarily negligent and in violation of the 
+maritime industry standards.” J.A. 171. His final turn, which 
+led immediately to the grounding of the vessel, was “grossly 
+and extraordinarily negligent and in violation of the maritime 
+industry standards because he commenced it without knowing 
+the vessel’s position.” J.A. 171. Once again, the court found 
+that he could have avoided any danger of stranding if he had 
+simply backed out to sea or turned in the other direction. J.A. 
+171. 
+
+The court thus presented ample justification for its 
+determination that Captain Coyne’s handling of the vessel was 
+grossly and extraordinarily negligent. Under the causation 
+principles set out in the Restatement, however, this fact 
+operates as a superseding cause of the vessel’s stranding. The 
+court established this point by applying the list of 
+considerations presented in section 442 of the Restatement, 
+which are described as being “of importance in determining 
+whether an intervening force is a superseding cause of harm to 
+another.” Restatement (Second) of Torts § 442. The trial court 
+carefully applied those factors in concluding that Captain 
+Coyne’s extraordinary negligence both in “failing to fix and 
+plot his vessel’s position” and in “ordering the final starboard 
+turn” constituted superseding causes of the stranding of the 
+EXXON HousTON. J.A. 173-75.” The court could also have 
+
+
+** Petitioners seek vindication in section 442B of the 
+Restatement, Pet. Br. 29-30, which states that where the defendant's 
+negligence “creates or increases the risks of a particular harm and is 
+a substantial factor in causing that harm,” then the intervening act of 
+a third party will not relieve the defendant of liability unless it is “not 
+within the scope of the risk created by the actor’s conduct.” 
+Restatement (Second) of Torts § 442B. Yet the factual findings of the 
+
+
+40 
+
+
+relied upon section 447 of the Restatement, which indicates that 
+where the intervening conduct of another party is so 
+“extraordinarily negligent” as to be not within reasonable 
+expectations, it stands as a superseding cause of any subsequent 
+harm. Restatement (Second) of Torts § 447. 
+
+Once again, it does not matter for purposes of this Court’s 
+review whether petitioners agree or disagree with the trial 
+court’s version of the facts. In this bench trial, Judge Fong was 
+the proper factfinder. His findings and determinations cannot 
+be overturned “in the absence of a very obvious and 
+exceptional showing of error.” Graver Tank & Mfg. Co., 336 
+U.S. at 275; see supra note 27. No such showing has been 
+made here. 
+
+
+Il. ADMIRALTY COURTS SHOULD APPLY 
+PRINCIPLES OF CAUSATION FROM THE 
+COMMON LAW OF CONTRACTS, FRAMED IN 
+TERMS OF “FORESEEABILITY,” IN CASES 
+INVOLVING MARITIME CONTRACTS. 
+
+Petitioners have also framed their claims against 
+respondents, based on the same underlying facts, in terms of 
+contract law by pleading them in the alternative as warranty 
+claims.” They thus seek to blur the important lines that the 
+Court has sought to draw between tort law and warranty law 
+concerning product liability claims. See East River Steamship 
+Corp. v. Transamerica Delaval, Inc., 476 U.S. 858 (1986). 
+Even if petitioners’ tort claims are treated under the asserted 
+heading of warranty law, however, the same principles of 
+causation should govern such maritime contract claims as are 
+applied in the common law of contracts. As will be seen, these 
+
+
+trial court here foreclose any determination that the breakout was “a 
+substantial factor” in causing the stranding of the EXXON HOUSTON, 
+and the independent and extraordinary negligence of Captain Coyne 
+cannot be included within the scope of the risk created here, as this 
+point is elaborated more fully in section 447 of the Restatement. 
+
+
+* In petitioners’ complaint, the first two causes of action include 
+warranty claims based on breach of warranty of safe berth and breach 
+of warranty of workmanlike performance, as well as other related but 
+more limited contract claims. See J.A. 33-38. 
+
+
+4] 
+principles provide no support for petitioners in this case. 
+
+
+A. Foreseeability Principles from Contract Law 
+Afford No Grounds for Granting Relief to 
+Petitioners Here 
+
+The common law of contracts applies the same general 
+
+principles of causation as does the common law of torts, with 
+one important caveat: recovery of damages for breach of 
+contract is more limited than recovery for breach of duty in tort 
+law. Thus, if petitioners should not recover on their tort claims 
+here, then likewise they should not recover on their warranty 
+claims, which are premised on the same underlying facts. 
+
+Section 351 of the Restatement (Second) of Contracts 
+
+specifies that the foreseeability principle is the accepted limit 
+of recovery on contract claims at common law: 
+
+(1) Damages are not recoverable for loss that the 
+
+party in breach did not have reason to foresee as a 
+
+probable result of the breach when the contract was 
+
+made. 
+
+(2) Loss may be foreseeable as a probable result of a 
+
+breach because it follows from the breach 
+(a) in the ordinary course of events, or 
+(b) as a result of special circumstances, beyond 
+
+the ordinary course of events, that the party in breach 
+
+had reason to know. 
+
+Restatement (Second) of Contracts, § 351 (1981). As 
+Comment a to this section explains further: “[T]he requirement 
+of foreseeability is a more severe limitation of liability than is 
+the requirement of substantial or ‘proximate’ cause in the case 
+of an action in tort or for breach of warranty.” /d. at cmt. a. 
+The same point is made by the leading commentators. 
+Professor Williston observes: “The law of torts and the law of 
+contracts differ in this respect. For a tort, the defendant 
+becomes liable for all proximate consequences, while for 
+breach of contract he is liable only for consequences which 
+were reasonably foreseeable at the time when it was entered 
+into, as probable if the contract were broken.” 11 Williston on 
+Contracts § 1344, at 227 (W. Jaeger ed.) (3d ed. 1968). 
+Similarly, Professor Corbin notes that numerous courts have 
+barred recovery “because the injury was said not to be the 
+
+
+42 
+
+
+‘proximate’ result of the breach,” but where they have ventured 
+to define this principle, “it will practically always be found that 
+it is expressed in terms of the possibility of foresight.” 
+5 Corbin on Contracts § 1000, at 26 (1964); see also id. at 
+§ 997; see also East River Steamship Corp., 476 U.S. at 874-75 
+(noting and explaining this same distinction in the context of 
+general maritime law); Petitions of The Kinsman Transit Co., 
+338 F.2d 708, 721-26 (2d Cir. 1964) (same), cert. denied, 380 
+U.S. 944 (1965). 
+
+It has been widely recognized that the same underlying 
+facts could give rise to either a tort claim or a breach of 
+warranty claim, depending on a claimant’s mere choice of 
+pleading, particularly with the modern evolution in tort law 
+from negligence claims through warranty claims to strict 
+products liability claims. In this situation, the distinction 
+between tort law and contract law has been minimized by 
+expressly basing a party’s recovery for a breach of warranty 
+that causes injury to person or property on tort principles of 
+proximate cause. See, e.g., Restatement (Second) of Contracts 
+§ 351 cmt. a (noting that the requirement of proximate cause 
+applies “in the case of an action in tort or for breach of 
+warranty”). The Uniform Commercial Code, in particular, 
+accomplishes this result by specifying that in warranty cases 
+involving “injury to person or property,” recovery may be had 
+only for consequential damages “proximately resulting” from 
+the breach of warranty. U.C.C. § 2-715(2)(b); see, e.g., 
+Waggoner v. Town & Country Mobile Homes, Inc., 808 P.2d 
+649, 652 (Okla. 1990) (“manufacturers’ products liability and 
+the UCC warranty provisions provide parallel remedies” for 
+injury to other property). 
+
+All of these same principles should be applied in cases 
+involving maritime contract claims. Although _ the 
+foreseeability test is highly fact-specific, it is a familiar 
+standard that the courts apply in many areas of law. It remains 
+serviceable in resolving maritime contract claims for the same 
+reasons that it has been maintained in the common law of 
+contracts. Indeed, the Court has approved the foreseeability 
+principle as a means of resolving true maritime warranty 
+claims. See East River Steamship Corp., 476 U.S. at 874. At 
+the same time, principles of proximate causation are most 
+
+
+43 
+
+
+appropriate to govern breach of warranty claims involving 
+consequent injury to person or property -- which are 
+indistinguishable from tort claims -- and should be applied in 
+such cases consistent with the Uniform Commercial Code. 
+Applying these principles to petitioners’ claims affords 
+them no grounds for relief here. As explained at length in 
+Section II, supra, the trial court determined that the breakout 
+was not a proximate cause of the stranding of the EXXON 
+HOUSTON, and that Captain Coyne’s conduct, which was 
+extraordinarily negligent in a number of respects, was in fact 
+the sole proximate cause of the stranding. Compare Union Oil, 
+409 U.S. at 146. These findings preclude recovery on 
+petitioners’ tort claims, and thus a fortiori preclude recovery on 
+their contract claims. The trial court also expressly found that 
+neither the decision to turn the ship toward the coast nor the 
+actual attempt to make the turn, which was “extraordinarily 
+negligent,” was “a foreseeable consequence of the breakout.” 
+J.A. 175. These further findings, which petitioners have not 
+chall on review, also preclude relief on their warranty 
+claims.*' Even if these findings had been challenged, they 
+could not be overturned by this Court “in the absence of a very 
+obvious and exceptional showing of error.” Graver Tank & 
+Mfg. Co., 336 U.S. at 275; see also supra note 27. No such 
+showing has been made or could be made in this case. 
+
+
+B. These Common-Law Principles Should Be Applied 
+
+in Cases of Maritime Contracts 
+
+The principles described in the preceding section, which 
+govern contract claims at common law, should be applied in 
+federal admiralty law for at least three reasons. 
+
+First, petitioners have presented no sound reason why 
+admiralty law should differ from the common law with respect 
+to these points. Instead, they simply quote, out of context, a 
+passage from one case involving a warranty claim, which does 
+not advance their position. Pet. Br. 35. The quoted passage is: 
+
+
+>! At one point, petitioners do contradict the trial court’s finding 
+that Captain Coyne’s conduct was not foreseeable, see Pet. Br. 29, 
+but this is just an improper recasting of the facts, which disregards 
+the express finding that the conduct was extraordinarily negligent. 
+
+
+44 
+
+
+.. . liability should fall upon the party best situated to 
+adopt preventive measures and thereby to reduce the 
+likelihood of injury. Where, as here, injury-producing 
+
+and defective equipment is under the supervision and 
+
+control of the stevedore, the shipowner is powerless to 
+
+minimize the risk; the stevedore is not. 
+Italia Societa per Azioni di Navigazione v. Oregon Stevedoring 
+Co., 376 U.S. 315, 324 (1964). Even taken out of context, this 
+passage is fully consistent with the purposes served by 
+application of the doctrine of proximate cause. 
+
+A fuller examination of the case, however, shows that this 
+passage (and the case as a whole) did not discuss whether to 
+apply the doctrine of proximate causation to warranty claims; 
+instead, it concerned whether a stevedore’s liability under its 
+warranty of workmanlike service should be premised on 
+negligence or strict liability. In holding that strict liability 
+should be applied, the Court explained its reasons in the 
+passage quoted above. See id. at 323-24; see also East River 
+Steamship Corp., 476 U.S. at 865-66 (characterizing /talia 
+Societa in these terms). Yet this discussion does not illuminate 
+the issues raised here concerning maritime warranty claims. 
+Strict liability already applies to these claims, which are 
+essentially a repackaging of petitioners’ tort claims. The 
+principal issue before this Court, instead, is the permissible 
+grounds for recovery on these claims under the foreseeability 
+principle. None of petitioners’ citations challenges the 
+established doctrine of foreseeability in contract law.” 
+
+Second, the Court recently evinced its concern to maintain 
+a sensible relationship between tort law and warranty law in 
+maritime cases that involve claims of consequent injury to 
+
+
+* Although the infirmities of Jtalia Societa itself are perhaps not 
+especially germane to the resolution of this case, it should be pointed 
+out that Professor Schoenbaum fully canvasses the “spurious origin” 
+of the warranty of workmanlike performance — one of the claims 
+pleaded by petitioners in this case, see J.A. 36-37 - which he 
+describes as “one of the most ambiguous and controversial concepts 
+in all of admiralty law,” whose application has “had very harsh and 
+strange results,” and which has been only partially overruled by 
+subsequent statutes. See | Schoenbaum, supra, § 5-8, at 190-99. 
+
+
+45 
+
+
+person or property. In the East River Steamship case, the Court 
+held that strict products liability law is part of the general 
+
+maritime law. See 476 U.S. at 864-66. Yet where a claim is 
+based on damage only to the product itself, with no consequent 
+injury to the person or to any other property, the Court held that 
+such claims can be based only on warranty law, not on tort law, 
+for otherwise “contract law would drown in a sea of tort.” Jd 
+
+at 866. By the same token, where, as in this case, a tort claim 
+involving injury to other property is repackaged as a warranty 
+claim, recovery should not be expanded beyond the principles 
+of proximate cause that apply in tort law, so as to prevent tort 
+law from drowning in a sea of warranty. For this reason also, 
+the most sensible approach here is to follow section 2-715(2)(b) 
+of the Uniform Commercial Code and hold that tort principles 
+of proximate cause govern recovery on such warranty claims, 
+
+as explicitly sanctioned by the Restatement (Second) of 
+Contracts. See id. § 351 cmt. a. 
+
+Third, the concern that federal admiralty law should not 
+stimulate forum shopping by departing from settled common- 
+law principles is also apt in contract cases, where disputes over 
+the proper extent of admiralty jurisdiction frequently recur. As 
+Justice Harlan observed, “The boundaries of admiralty 
+jurisdiction over contracts . . . being conceptual rather than 
+spatial, have always been difficult to draw.” Kossick v. United 
+Fruit Co., 365 U.S. 731, 735 (1961). It thus is especially 
+important to maintain harmony between these two founts of law 
+whenever possible. This objective can be readily achieved by 
+applying accepted principles of contract and warranty law to 
+the same kinds of claims when raised in a maritime setting. 
+See, e.g., 1 Schoenbaum, supra, § 5-7, at 186 (advocating 
+reliance by admiralty courts on UCC concepts in addressing 
+claims based on express and implied warranties, which will 
+lead to “very little, if any, difference in the cases between the 
+general admiralty law, the UCC, and the common law”). 
+
+
+46 
+
+
+IV. TRIAL COURTS ENJOY THE SAME BROAD 
+DISCRETION TO ESTABLISH ORDERLY AND 
+EFFICIENT PROCEDURES FOR DETERMINING 
+THE FACTUAL AND LEGAL ISSUES _ IN 
+ADMIRALTY CASES AS IN ALL OTHER CASES. 
+Petitioners’ brief reveals that the real object of their 
+
+recriminations is the bifurcation order issued by Judge Fong 
+
+prior to trial. See Pet. Br. 3-8, 17, 21-22, 33. Yet because 
+petitioners did not seek certiorari on the question of whether the 
+trial court erred in granting bifurcation, they cannot now seek 
+
+reversal on this ground. See S. Ct. R. 14.1(a); see also, e.g., 
+
+Yee v. City of Escondido, 503 U.S. 519, 535-38 (1992) 
+
+(explaining importance of strict compliance with the rule). 
+
+In any event, petitioners’ complaints on this score should 
+have no bearing on the Court’s resolution of the questions 
+actually presented in this case. For it is well settled that trial 
+courts enjoy broad discretion to issue such orders in order to 
+structure trial proceedings in the manner that they determine 
+would be most conducive to expedition and economy for both 
+litigants and the court. Indeed, Rule 42(b) of the Federal Rules 
+of Civil Procedure -- which is fully applicable in admiralty 
+cases -- specifically vests such authority in the District Court: 
+
+(b) Separate Trials. The court, in furtherance of 
+convenience or to avoid prejudice, or when separate 
+trials will be most conducive to expedition and 
+economy, may order a separate trial of any claim, 
+cross-claim, counterclaim, or third-party claim, or of 
+any separate issue or of any number of claims, cross- 
+claims, counterclaims, or third-party claims, or 
+issues, always preserving inviolate the right of trial by 
+
+
+jury.... 
+Fed. R. Civ. P. 42(b) (emphasis added); see also 9 Charles A. 
+Wright & Arthur R. Miller, Federal Practice & Procedure 
+§ 2388, at 475 (1995) (Rule 42(b) applies in admiralty cases). 
+Petitioners baldly contend that the trial court’s decision to 
+bifurcate the causation issues among the multiple parties in this 
+case deprived them of due process of law. See Pet. Br. 33 
+(citing Gasoline Prods. Co. v. Champlin Refining Co., 283 U.S. 
+
+
+47 
+
+
+494 (1931)).” Yet petitioners are in no different position from 
+any other litigant who feels aggrieved that the trial court 
+exercised its discretion to set the schedule of proceedings in a 
+manner that it did not desire. In courts across the country every 
+day, parties lose cases in part because the trial court has 
+isolated a potentially dispositive issue and given it priority over 
+other issues that might have redounded more advantageously 
+for them had the issues been considered in a different order. 
+This is likewise true in many admiralty cases. See, e.g., Lisa v. 
+Fournier Marine Corp., 866 F.zd 530 (ist Cir.) (bifurcating 
+liability issues for trial in admiralty case), cert. denied, 493 
+U.S. 819 (1989); McGra» v. J. Ray McDermott & Co., 81 
+F.R_D. 23 (E.D. La. 1978) (same); Bernardo v. Bethlehem Steel 
+Co., 200 F. Supp. 534 (S.D.N.Y. 1961) (same), aff'd, 314 F.2d 
+604 (2d Cir. 1963). Such trial court rulings do not call for 
+constitutional relief. 
+
+The Court of Appeals considered and rejected petitioners’ 
+claim that the bifurcation order in this case represented an 
+abuse of discretion and a deprivation of their constitutional 
+nghts. The court recognized that this claim ultimately reduced 
+to nothing more than petitioners’ argument that the doctrine of 
+superseding cause is not viable in maritime tort cases, with 
+which the court disagreed. As the court concluded: 
+
+Given the validity of the superseding cause 
+doctrine in cases such as this one, the district court’s 
+
+
+* The Gasoline Products case is truly inapposite here, for it 
+addressed Seventh Amendment concerns in a case where the Court 
+was troubled about the prospect of retrying part of a case before a 
+jury in a posture that seemed likely to generate “confusion and 
+uncertainty” for the jury. See 283 U.S. at 500-01. There is no right 
+to a jury trial in admiralty cases, see, e.g, Waring v. Clarke, 46 U.S. 
+(5 How.) 441, 460 (1847), Fed. R. Civ. P. 38(e), and no prospect 
+remains in this case of a jury trial on any nonmaritime issue, see 
+supra note 5. 
+
+™ Indeed, it has been held that Rule 42(b), which was adopted 
+after the Court’s decision in the Gasoline Products case, has 
+incorporaied compliance with that standard into its provisions. See, 
+e.g., In re Bendectin Litig., 857 F.2d 290, 308-09 (6th Cir. 1988), 
+cert. denied, 488 U.S. 1006 (1989). 
+
+
+48 
+
+
+decision to bifurcate the trial cannot be said to have 
+
+‘severed the unseverable’ or to have prejudiced 
+
+Exxon. Because bifurcation of the trial was 
+
+expeditious and appropriate in light of the 
+
+circumstances of this case and did not result in 
+
+prejudice to Exxon, we hold that the district court did 
+
+not abuse its discretion in choosing to take this 
+
+approach. 
+J.A. 226 (emphasis added). 
+
+This conclusion is plainly correct. In granting bifurcation, 
+Judge Fong realized that “bifurcation could obviate the need for 
+extensive discovery, trial preparation, and weeks of trial if the 
+court first determines the cause or comparative causes of the 
+grounding, excluding the cause of the breakout,” which would 
+require much more complicated matters of proof. J.A.71. The 
+court also noted that Phase One of the trial would address 80% 
+of petitioners’ damage claims, which suggested that “a separate 
+trial offers the probability of settlement after the conclusion of 
+the first phase.” J.A. 72. Moreover, the court concluded that 
+if it were to determine “that the navigation of the EXXON 
+HOUSTON was the proximate cause of its grounding, then it 
+would be unnecessary for the court to resolve the issue of 
+‘comparative fault’” or to calculate the damages related to the 
+stranding of the vessel. J.A. 72. Compare Union Oil, 409 US. 
+at 146 (same). For these reasons, the trial court acted well 
+within its discretion in ordering bifurcation to focus initially on 
+the issue of proximate cause. Indeed, such orders are 
+Se 
+
+parties. See, e.g, In re Beverly Hills Fire Litig., 
+93 £24 907 toh Ci 1982) (granting bifurcation in tort case 
+on issue of causation), cert. denied, 461 U.S. 929 (1983); In re 
+Bendectin Litig., 857 F.2d at 308-14 (granting bifurcation in 
+tort case on issue of proximate cause). 
+
+Moreover, there is no reason why this Court should hamper 
+federal admiralty courts in exercising their discretion to 
+structure trial proceedings “conducive to expedition and 
+economy” in the same manner as the federal courts do in other 
+civil cases under Rule 42(b). Maritime torts involving multiple 
+parties can be just as complex, and perhaps even more so, than 
+such cases which arise on land. The need for orderly and 
+
+
+49 
+
+
+efficient trial proceedings, which in the long run serve the 
+interests of courts and litigants alike, is as great in admiralty 
+cases as in all others. 
+
+Indeed, a leading authority on trial procedure in the federal 
+courts expressly states that the application of this rule may be 
+even more common and beneficial in admiralty cases than in 
+other civil cases: 
+
+In certain suits in admiralty, separation for trial of the 
+
+issues of liability and damages, or of the extent of 
+
+and beneficial, particularly in view of the statutory 
+
+right to interlocutory appeal in admiralty cases... . 
+
+Thus, the amendment of Rule 42(b) in 1966 was 
+intended to reassure the admiralty bar that there would 
+
+be no change in this practice. 
+
+9 Charles A. Wright & arthur R. Miller, supra, § 2388, at 475. 
+The Court should thus reject petitioners’ invitation to 
+constitutionalize their quarrel with the manner of proceedings 
+followed here. 
+
+
+50 
+
+
+CONCLUSION 
+The judgment of the Court of Appeals should be affirmed. 
+Respectfully submitted, 
+
+DAVID W. PROUDFOOT KENNETH W. STARR 
+BELLES GRAHAM Counsel of Record 
+
+PROUDFOOT & WILSON EDWARD W. WARREN 
+Watumull Plaza RICHARD A. CORDRAY 
+4334 Rice Street KIRKLAND & ELLIS 
+Suite 202 655 Fifteenth Street, N.W. 
+Lihue, Kauai, Hawaii 96766 Washington, D.C. 20005 
+(808) 245-4705 (202) 879-5000 
+JOHN R. LACY RANDALL K. SCHMITT 
+GOODSILL ANDERSON McCORRISTON MIHO 
+
+QUINN & STIFEL MILLER & MUKAI 
+1800 Alii Place 5 Waterfront Plaza, 4th Floor 
+1099 Alakea Street 500 Ala Moana Boulevard 
+Honolulu, Hawaii 96813 Honolulu, Hawaii 96813 
+(808) 547-5700 (808) 529-7300 
+
+Attorneys for Respondent Sofec, 
+
+
+Inc. and Third-Party Respondents 
+February 7, 1996 
+
+

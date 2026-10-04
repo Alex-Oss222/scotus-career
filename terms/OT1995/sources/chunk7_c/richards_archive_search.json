@@ -1,0 +1,324 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 476,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:&quot;95-386&quot; OR text:&quot;95-386&quot; OR text__reviews:&quot;95-386&quot;) OR title:Richards)",
+      "qin": "collection:us-supreme-court AND (&quot;95-386&quot; OR title:Richards)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 100,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 76,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40385002_1249",
+        "title": "Attorneys' Title Guaranty Fund, Inc. v. Richards, 491 U.S. 906 (1989) (No. 88-1730)"
+      },
+      {
+        "identifier": "per_scotus_1884_49",
+        "title": "The Davis Sewing Machine Company of Watertown, N. Y. Plaintiff in Error, vs. Andrew Rothwell and Almarin C. Richards. 1884: Vol 49"
+      },
+      {
+        "identifier": "per_scotus_1892_1202",
+        "title": "W. F. Prosser, Eugene Semple, H. F. Garretson, Frank Richards, and D. C. Guernsey, As Members of the Board of Harbor Line Commissioners, and Allen Wier, Secretary of State, and Samuel J. Smyth, Clerk of the City of Tacoma, Appellants, vs. The Norther"
+      },
+      {
+        "identifier": "micro_IA40385007_2511",
+        "title": "Richards v. United States, 454 U.S. 1097 (1981) (No. 81-69)"
+      },
+      {
+        "identifier": "micro_IA40385011_0902",
+        "title": "Richards v. Howard University, 464 U.S. 1043 (1984) (No. 83-746)"
+      },
+      {
+        "identifier": "micro_IA40386015_2285",
+        "title": "Consolidated Rail Corp. v. Richards, 540 U.S. 1096 (2003) (No. 03-574)"
+      },
+      {
+        "identifier": "micro_IA40385008_1528",
+        "title": "Hughes Tool Co. v. Richards, 456 U.S. 991 (1982) (No. 81-1838)"
+      },
+      {
+        "identifier": "per_scotus_1869_176_0",
+        "title": "Edward C. Litchfield, Complainant, vs. Charles B. Richards, Register, & Charles Pomeroy, Receiver of the United States Land Office at Fort Dodge, Iowa. 1869: Vol 176"
+      },
+      {
+        "identifier": "per_scotus_1891_39",
+        "title": "Victor Meyer and Adolph Meyer, Plaintiffs in Error, vs. Walter T. Richards. 1891: Vol 39"
+      },
+      {
+        "identifier": "per_scotus_william-k-smith-appellant-versus-guy-richards_1830_77",
+        "title": "William K. Smith, Appellant, versus Guy Richards. 1830: Vol 77"
+      },
+      {
+        "identifier": "micro_IA40386012_0847",
+        "title": "Richards v. Michelin Tire Corp., 513 U.S. 1111 (1995) (No. 94-906)"
+      },
+      {
+        "identifier": "micro_IA40385020_3231",
+        "title": "Richards v. Suburban Trust Co., 498 U.S. 1086 (1991) (No. 90-915)"
+      },
+      {
+        "identifier": "per_scotus_1887_106",
+        "title": "Alfred Richards, Appellant, vs. Brooke Mackall, Jr. 1887: Vol 106"
+      },
+      {
+        "identifier": "per_scotus_1890_78",
+        "title": "John Dower, Harriet Dower, John Doe, Richard Roe, John Denn, and Richard Fenn, Plaintiffs in Error, vs. William G. Richards, Francis S. Richards, and James Bennallack, Executors of Philip Richards, Deceased. 1890: Vol 78"
+      },
+      {
+        "identifier": "micro_IA40386011_2332",
+        "title": "Richards v. Alberti, 509 U.S. 905 (1993) (No. 92-1648)"
+      },
+      {
+        "identifier": "micro_IA40385019_0333",
+        "title": "Sanger-Harris v. Richards, 484 U.S. 824 (1987) (No. 86-1937)"
+      },
+      {
+        "identifier": "per_scotus_1870_448",
+        "title": "A. B. Wood, Plaintiff in Error, vs. De Forrest Richards. 1870: Vol 448"
+      },
+      {
+        "identifier": "micro_IA40385020_2691",
+        "title": "Bateman Eichler, Hill Richards, Inc. v. Ruocco, 498 U.S. 899 (1990) (No. 90-311)"
+      },
+      {
+        "identifier": "micro_IA40385003_0479",
+        "title": "Richards v. Richards, 423 U.S. 803 (1975) (No. 74-1501)"
+      },
+      {
+        "identifier": "per_scotus_1871_214",
+        "title": "The United States, Appellants, vs. John G. Richards. 1871: Vol 214"
+      },
+      {
+        "identifier": "micro_IA40385607_1104",
+        "title": "Richards v. Crown Point Community School Corp., 414 U.S. 1093 (1973) (No. 73-580)"
+      },
+      {
+        "identifier": "micro_IA40386003_1376",
+        "title": "Richards v. Texas A&M University System, 543 U.S. 1002 (2004) (No. 04-427)"
+      },
+      {
+        "identifier": "micro_IA40385007_2106",
+        "title": "Richards v. Florida, 454 U.S. 879 (1981) (No. 80-1916)"
+      },
+      {
+        "identifier": "micro_IA40386002_0278",
+        "title": "Richards v. Washington Terminal Co., 233 U.S. 546 (1914) (No. 52)"
+      },
+      {
+        "identifier": "micro_IA40385011_0901",
+        "title": "Richards v. Howard University, 464 U.S. 1043 (1984) (No. 83-745)"
+      },
+      {
+        "identifier": "micro_IA40385014_0083",
+        "title": "Richards v. Wisconsin, 520 U.S. 385 (1997) (No. 96-5955)"
+      },
+      {
+        "identifier": "micro_IA40385013_0182",
+        "title": "Ankenbrandt v. Richards, 504 U.S. 689 (1992) (No. 91-367)"
+      },
+      {
+        "identifier": "micro_IA40385018_2385",
+        "title": "Richards v. Department of Transportation, 479 U.S. 961 (1986) (No. 86-311)"
+      },
+      {
+        "identifier": "micro_IA40385017_1068",
+        "title": "Richards v. Terrazas, 502 U.S. 1084 (1992) (No. 91-1270)"
+      },
+      {
+        "identifier": "micro_IA40386014_2391",
+        "title": "Richards v. Jefferson County, 534 U.S. 1019 (2001) (No. 01-370)"
+      },
+      {
+        "identifier": "micro_IA40386020_1038",
+        "title": "Richards, In re (No. 07-1587)"
+      },
+      {
+        "identifier": "micro_IA40385005_2753",
+        "title": "Richards v. County of Los Angeles, 442 U.S. 910 (1979) (No. 78-1515)"
+      },
+      {
+        "identifier": "micro_IA40385008_1823",
+        "title": "Richards v. City of Los Angeles, 455 U.S. 1009 (1982) (No. 81-6097)"
+      },
+      {
+        "identifier": "per_scotus_1894_14766",
+        "title": "Victor Meyer and Adolph Meyer, Plaintiffs in Error, vs. Walter T. Richards. 1894: Vol 14766"
+      },
+      {
+        "identifier": "micro_IA40385003_2014",
+        "title": "Richards v. Howard University, 426 U.S. 949 (1976) (No. 75-1573)"
+      },
+      {
+        "identifier": "micro_IA40385017_2183",
+        "title": "Richards v. United States, 469 U.S. 1106 (1985) (No. 84-333)"
+      },
+      {
+        "identifier": "micro_IA40386417_0678",
+        "title": "Park-In Theatres, Inc. v. Paramount-Richards Theatres, Inc., 341 U.S. 950 (1951) (No. 696)"
+      },
+      {
+        "identifier": "micro_IA40386417_1227",
+        "title": "Hotel & Restaurant Employees' Bartenders' International Union v. Richards-Greenfield, Inc., 344 U.S. 824 (1952) (No. 127)"
+      },
+      {
+        "identifier": "micro_IA40385004_1753",
+        "title": "County Board of Arlington County v. Richards, 434 U.S. 5 (1977) (No. 76-1418)"
+      },
+      {
+        "identifier": "per_scotus_1884_264",
+        "title": "John S. Mayfield, Plaintiff in Error, vs. Mary E. Richards, A. Keene Richards, John S. Tarver, Louisa A. James, et al. 1884: Vol 264"
+      },
+      {
+        "identifier": "micro_IA40386017_2561",
+        "title": "Richards v. Hewlett-Packard Corp., 562 U.S. 1102 (2010) (No. 10-449)"
+      },
+      {
+        "identifier": "micro_IA40385019_1669",
+        "title": "Richards v. Nicholson, 487 U.S. 1206 (1988) (No. 87-1771)"
+      },
+      {
+        "identifier": "micro_IA40386014_0301",
+        "title": "Richards v. United States, 528 U.S. 1136 (2000) (No. 99-731)"
+      },
+      {
+        "identifier": "micro_IA40386014_2561",
+        "title": "Richards v. United States, 534 U.S. 998 (2001) (No. 01-553)"
+      },
+      {
+        "identifier": "micro_IA40386011_1732",
+        "title": "Catlett v. Richards, 507 U.S. 912 (1993) (No. 92-944)"
+      },
+      {
+        "identifier": "micro_IA40386417_1019",
+        "title": "Richards v. United States, 342 U.S. 946 (1952) (No. 544)"
+      },
+      {
+        "identifier": "micro_IA40386016_1176",
+        "title": "Richards-Diaz v. Gonzales (No. 06-66)"
+      },
+      {
+        "identifier": "micro_IA40386009_0467",
+        "title": "Weichert v. Richards, 510 U.S. 991 (1993) (No. 93-482)"
+      },
+      {
+        "identifier": "micro_IA40386015_1075",
+        "title": "Sandstad v. CB Richards Ellis, Inc., 539 U.S. 926 (2003) (No. 02-1121)"
+      },
+      {
+        "identifier": "micro_IA40385017_1511",
+        "title": "Fasano v. Richards-Diaz, 533 U.S. 945 (2001) (No. 00-1327)"
+      },
+      {
+        "identifier": "micro_IA40386416_2034",
+        "title": "Leishman v. Richards & Conover Co., 336 U.S. 952 (1949) (No. 612)"
+      },
+      {
+        "identifier": "per_scotus_1888_274",
+        "title": "William H. Post and Edgar S. Yergason, Appellants, vs. The T. C. Richards Hardware Company 1888: Vol 274"
+      },
+      {
+        "identifier": "micro_IA40385017_0876",
+        "title": "Richards v. Texas, 489 U.S. 1002 (1989) (No. 88-1097)"
+      },
+      {
+        "identifier": "micro_IA40386016_0981",
+        "title": "Adell v. John Richards Richards Homes Homes Building Building Co., LLC (No. 05-1532)"
+      },
+      {
+        "identifier": "per_scotus_1844_79_0",
+        "title": "Elizabeth K. Cartwright, Plaintiff in Error, vs. Alexander T. Howe, George T. Richards, and WM. Richards. 1844: Vol 79"
+      },
+      {
+        "identifier": "micro_IA40385002_0023",
+        "title": "Territorial Court v. Richards, 488 U.S. 955 (1988) (No. 88-328)"
+      },
+      {
+        "identifier": "per_scotus_1853_119",
+        "title": "William Robertson, Trustee, &c., Plaintiff in Error, vs. Henry R. Coulter and James Richards, Ex'ors of John Collins, Deceased 1853: Vol 119"
+      },
+      {
+        "identifier": "micro_IA40386011_0093",
+        "title": "Richards v. Lindsay, 504 U.S. 930 (1992) (No. 91-1202)"
+      },
+      {
+        "identifier": "per_scotus_1876_4",
+        "title": "Richard C. Kimball, George S. Shorb, and W'M C. Kimball, Plaintiffs in Error, vs. William F. Evans, Elijah P. Grant, Joseph C. Richards, Jacob Miller, et al. 1876: Vol 4"
+      },
+      {
+        "identifier": "per_scotus_1881_295",
+        "title": "Venable & Son, Plaintiffs in Error, vs. George S. Richards, Collector of Internal Revenue. 1881: Vol 295"
+      },
+      {
+        "identifier": "per_scotus_1894_310",
+        "title": "Edward S. Richards, Appellant, vs. The Chase Elevator Company and Henry J. Chase, President. 1894: Vol 310"
+      },
+      {
+        "identifier": "per_scotus_1883_72",
+        "title": "Brooke Mackall., Jr., Appellant, vs. Alfred Richards et al. 1883: Vol 72"
+      },
+      {
+        "identifier": "micro_IA40385009_2480",
+        "title": "Richards v. New Hampshire, 502 U.S. 899 (1991) (No. 91-200)"
+      },
+      {
+        "identifier": "micro_IA40386019_1500",
+        "title": "Hainze v. Richards, 531 U.S. 959 (2000) (No. 00-335)"
+      },
+      {
+        "identifier": "micro_IA40386012_1433",
+        "title": "Richards v. Commissioner, 516 U.S. 1092 (1996) (No. 94-1537)"
+      },
+      {
+        "identifier": "micro_IA40386011_0121",
+        "title": "Richards v. Liberty Mutual Fire Insurance, 503 U.S. 1004 (1992) (No. 91-1234)"
+      },
+      {
+        "identifier": "micro_IA40386410_0060",
+        "title": "Richards v. United States, 369 U.S. 1 (1962) (No. 59)"
+      },
+      {
+        "identifier": "micro_IA40386017_0667",
+        "title": "Turay v. Richards (No. 08-1568)"
+      },
+      {
+        "identifier": "micro_IA40385609_0220",
+        "title": "Richards v. Howard University, 426 U.S. 949 (1976) (No. 75-1573)"
+      },
+      {
+        "identifier": "micro_IA40386006_1480",
+        "title": "Richards v. Lloyd's of London, 525 U.S. 943 (1998) (No. 97-1779)"
+      },
+      {
+        "identifier": "micro_IA40386009_0969",
+        "title": "Friends of Richards-Gebaur Airport v. Federal Aviation Administration, 535 U.S. 927 (2002) (No. 01-949)"
+      },
+      {
+        "identifier": "micro_IA40385607_2226",
+        "title": "Richards v. North Carolina, 420 U.S. 946 (1975) (No. 74-561)"
+      },
+      {
+        "identifier": "micro_IA40386008_1547",
+        "title": "Mitchell v. Richards, 525 U.S. 965 (1998) (No. 98-401)"
+      },
+      {
+        "identifier": "micro_IA40386010_0706",
+        "title": "Richards v. Duke University (No. 07-1148)"
+      },
+      {
+        "identifier": "micro_IA40385012_0348",
+        "title": "Bateman Eichler, Hill Richards, Inc. v. Berner, 472 U.S. 299 (1985) (No. 84-679)"
+      },
+      {
+        "identifier": "micro_IA40385013_0653",
+        "title": "Richards v. Jefferson County, 517 U.S. 793 (1996) (No. 95-386)"
+      }
+    ]
+  }
+}

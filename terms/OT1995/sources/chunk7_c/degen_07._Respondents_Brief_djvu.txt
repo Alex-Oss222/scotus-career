@@ -1,0 +1,2705 @@
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+BRIAN J. DEGEN, PETITIONER 
+Vv. 
+
+
+UNITED STATES OF AMERICA 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+Drew S. Days, II 
+Solicitor General 
+
+
+JOHN C. KEENEY 
+
+Acting Assistant Attorney General 
+MICHAEL R. DREEBEN 
+
+Deputy Solicitor General 
+MIGUEL A. ESTRADA 
+
+Assistant to the Solicitor General 
+JOHN P. ELwoop 
+
+Attorney 
+
+Department of Justice 
+
+Washington, D.C. 20530 
+
+(202) 514-2217 
+
+
+QUESTION PRESENTED 
+
+
+Whether the district court properly invoked the fugitive 
+disentitlement doctrine to bar petitioner from contesting 
+a civil forfeiture action. 
+
+
+(1) 
+
+
+TABLE OF CONTENTS 
+
+
+I TE TS Lae I tA a a TT 
+pS ES Ee Se Oe 
+Constitutional provision involved ......................-.--.-..... 
+ERE SEE SEES EE ES eC nS eT 
+ELEN: SE TC a 
+Argument: 
+
+I. A district court, in a civil forfeiture proceeding, 
+
+
+II. 
+
+
+ITl. 
+
+
+may validly strike the claim of a fugitive from a 
+EE EE ee 
+
+
+A. The recognized goals of the fugitive disen- 
+titlement rule support its application in the 
+Bt EE 
+
+
+B. Striking the claim of a fugitive claimant does 
+not offend the Due Process Clause of the 
+ae 
+
+The district court properly concluded that peti- 
+
+tioner was a fugitive from criminal justice... 
+
+Petitioner’s claims that he has ceased being a 
+
+fugitive and that the government’s “unclean 
+
+hands” preclude disentitlement do not warrant 
+
+WALD ta a SE RE PE eto ng 
+
+
+TABLE OF AUTHORITIES 
+
+
+Ali v. Sims, 788 F.2d 954 (3d Cir. 1986) —............ 
+Allen V. Georgia, 166 U.S. 138 (1897) ......10, 14, 15, 16, 18 
+Alpert’s Newspaper Delivery, Inc. v. New York 
+
+
+Times Co., 876 F.2d 266 (2d Cir. 1989) ............. 
+
+
+Anderson V. Liberty Lobby, Inc., 477 U.S. 242 
+
+
+RR ae Oe ee ee ee 
+
+
+Appleyard V. Massachusetts, 208 U.S. 222 (1906). 
+
+
+(111) 
+
+
+cnr eK 
+
+
+12 
+
+
+15 
+
+
+34 
+
+
+IV 
+
+
+Cases—Continued: Page 
+Arizona V. California, 460 U.S. 605 (1983) —........... 44 
+Armstrong V. Manzo, 380 U.S. 545 (1965)... 28 
+Assarsson, in re, 687 F.2d 1157 (8th Cir. 1982) .... 40 
+Bank of Nova Scotia v. United States, 487 U.S. 250 
+
+0 EEE 138, 46, 47 
+Barker v. Wingo, 407 U.S. 514 (1972) -................ 19 
+Baxter Vv. Palmigiano, 425 U.S. 308 (1976) ........... 33 
+Bell v. Wolfish, 441 U.S. 520 (1979) ....................... 21 
+Biddinger v. Commissioner of Police, 245 U.S. 128 
+
+0 —————— 38 
+Blackmer v. United States, 284 U.S. 421 (1932)... 17 
+Boddie v. Connecticut, 401 U.S. 371 (1971) ~......... 27, 28 
+Bonahan V. Nebraska, 125 U.S. 692 (1887) _.......... 15 
+Branning V. United States, 784 F.2d 361 — Cir. 
+
+SAS 44 
+Brookhart Vv. Janis, 384 U.S. 1 (1966) —.................... 30 
+Brouse Vv. United States, 68 F.2d 294 (1st Cir. 
+
+ee 41 
+Campbell vy. Eastland, 307 F.2d 478 (5th Cir. 
+
+1962), cert. denied, 371 U.S. 955 (1963) —.......... 23 
+Chambers v. NASCO, Inc., 501 U.S. 32 (1991)........ 12,13 
+Christianson V. Colt Industries Operating Corp., 
+
+Gi EEyEEE————— 44 
+Cobbledick v. United States, 309 U.S. 323 (1940).. 20 
+Coffin v. United States, 156 U.S. 432 (1895) ........... 21 
+Commonwealth Vv. Andrews, 97 Mass. 543 (1867) .... 16 
+
+
+Conforte v. Commissioner, 692 F.2d 587 (9th Cir. 
+1982), stay denied, 459 U.S. 1309 (1983) ......... 30 
+Conte v. Justice, 996 F.2d 1398 (2d Cir. 1993)... 35 
+Costello v. nited States, 350 U.S. 359 (1956)... 30 
+Cotton Vv. Federal Land Bank of Columbia, 676 
+F.2d 1368 (11th Cir.), cert. denied, 459 U.S. 1041 
+
+
+EEE ee 35 
+Crosby v. United States, 506 U.S. 255 (1993)... wianidnte 19 
+Dean V. Nelson, 77 U.S. (10 Wall.) 158 (1870) ...... 31 
+Diaz v. United States, 223 U.S. 442 (1912) .......... 19 
+Donnell v. United States, 229 F.2d 560 (5th Cir. 
+
+SII eccocccsscecsessinnesentssininmcgncaetiguannadieimacmnenaianeenaenanen 41 
+
+
+Vv 
+
+
+Cases—Continued: Page 
+Eisler v. United States, 338 U.S. 189 (1949) —....... 15 
+Estelle v. Dorrough, 420 U.S. 584 (1975) —......... 14, 15 
+Evitts v. Lucey, 469 U.S. 387 (1985) —................ 29 
+
+
+Flanagan Vv. United States, 465 U.S. 259 (1984)... 19, 24 
+1488, Inc. V. Philsec Inv. Corp., 989 F.2d 1281 (5th 
+
+
+EE ee ee ee 35 
+G-K Properties v. ‘Redevelopment Agency of City 
+
+of San Jose, 577 F.2d 645 (9th Cir. 1978) —...... 32 
+Goeke V. Branch, 115 S. Ct. 1275 (1995) —.............. 15 
+Green V. United States, 188 F.2d 48 (D.C. Cir.), 
+
+cert. denied, 341 U.S. 955 (1951) —...0 0... 40 
+Griffin Vv. Illinois, 351 U.S. 12 (1956) . 29 
+HMG Property Investors, Inc. V. Parque Industrial 
+
+Rio Canas, Inc., 847 F.2d 908 (1st Cir. 1988)... 32 
+Hammond Packing Co. Vv. Arkansas, 212 U.S. 322 
+
+EE ee ee 28, 32, 33, 34 
+Harris Vv. Nelson, 394 U.S. 286 (1969) 0. 24 
+Hicks V. Feiock, 485 U.S. 624 (1988) $1 
+Hogan V. O'Neill, 255 U.S. 52 (1921) 0. 38 
+Hovey V. Elliott, 167 U.S. 409 (1897) ...... seas 30, 32 
+Illinois v. Allen, 397 U.S. 387 (1970) 2.00. 24 
+Insurance Corp. of Ireland, Ltd. v. Compagnie des 
+
+Bauzites de Guinee, 456 U.S. 694 (1982)... 33 
+International Union Vv. Bagwell, 114 S. Ct. 2552 
+
+Ee eee ee 13 
+Jeffries Vv. Wood, 75 F.3d 491 (9th Cir. 1996)... 44 
+Jhirad Vv. Ferrandina, 536 F.2d 478 (2d Cir.), 
+
+cert. denied, 429 U.S. 8383 (1976) 0. 37, 41 
+Johnson V. Yellow Cab Transit Co., 321 U.S. 383 
+
+EE a ee ee a ee 47 
+Johnson V. Zerbst, 304 U.S. 458 (1938) . 29 
+Lasere V. Rochereau, 84 U.S. (17 Wall.) “437 
+
+EE CTS Sy ees ee en ae 31 
+Last Chance Mining Co. v. Tyler Mining Co., 157 
+
+U.S. 683 (1895) .......... ey ee ee een eee 34 
+
+
+Link Vv. Wabash R.R., 370 U.S. 626 (1962). ....12, 18, 14 
+
+Logan V. Zimmerman Brush Co., 455 US. 422 
+EE ee ee ee 27, 28 
+
+Mathews V. Eldridge, 424 U.S. 319 (1976) .......... 27 
+
+
+VI 
+
+
+Cases—Continued: Page 
+McDonald, In re, 489 U.S. 180 (1989) -.................... 19 
+McVeigh V. United States, 78 U.S. (11 Wall.) 259 
+
+os | a a Ne eS: ee ey Oe 80, 31 
+
+
+Merritt v. Mackey, 982 F.2d 1317 (9th Cir. 1991).. 44 
+Molinaro Vv. New Jersey, 396 U.S. 365 (1970) ....14, 15, 26 
+Montana V. United States, 440 U.S. 147 (1979)...... 34 
+Morris Vv. Jones, 329 U.S. 545 (1947) —.................. 34 
+Mullane Vv. Central Hanover Bank & Trust Co., 339 
+
+Ff tee poe as Re ae 28 
+National Hockey League Vv. Metropolitan Hockey 
+
+Club, Inc., 427 U.S. 689 (1976) .......................... 33 
+National Union of Marine Cooks & Stewards Vv. 
+
+Arnold, 348 U.S. 87 (1964) ............-.-...2----c-ce00000s- 138, 28 
+Norman Vv. Young, 422 F.2d 470 (10th Cir. 1970).. 32 
+Ortega-Rodriguez Vv. United States, 113 S. Ct. 1199 
+
+
+RE 14, 15, 16, 18, 19, 20, 25, 45 
+Peterson, Ex parte, 253 U.S. 300 (1920) -................ 12 
+Precision Instrument Mfg. Co. v. Automotive Main- 
+
+tenance Machinery Co., 324 U.S. 806 (1945)... 42 
+Prevot, In re, 59 F.3d 556 (6th Cir. 1995), cert. 
+
+denied, No. 95-7343 (Mar. 4, 1996) ............... 47 
+Puerto Rico v. Branstad, 483 U.S. 219 (1987) ........ 37 
+
+
+Ramu Corp., In re, 903 F.2d 312 (5th Cir. 1990)... 23 
+Republic Molding Corp. v. B.W. Photo Utilities, 319 
+
+
+ef § eee Cae 47 
+Riehle v. Margolies, 279 U.S. 218 (1929) —.............. 34 
+Roadway Express, Inc. Vv. Piper, 447 U.S. 752 
+
+(1980)... we FF 
+Roberts v. Reilly, 116 US. 80. (1885) . TD Rh 4: 38 
+Schlagenhauf Vv. Holder, 379 U.S. 104 (1964) _........ 43 
+Schuster v. United States, 765 F.2d 1047 (11th Cir. 
+
+A RR AS TE STE 6 EEG OR 20, 41 
+Seattle Times Co. Vv. Rhinehart, 467 U.S. 20 
+
+SE SE ss OF ee 22, 27 
+Shillitani v. United States, 384 U.S. 364 (1966)...... 13 
+Shore v. Warden, 942 F.2d 1117 (7th Cir. 1991), 
+
+cert. denied, 504 U.S. 922 (1992) .. 44 
+
+
+SMA Life Assurance Co. V. Sanchez-Pica, 960 F. 24 
+274 (1st Cir.), cert. denied, 506 U.S. 872 (1992)... 34 
+
+
+United States V. $40,877.59, 32 F.3d 1151 (7th Cir. 
+1994) 
+
+
+OPP eee CPP eee Cee eee eee eee eee Pe eee ee ee eee eee ee 
+
+
+Vil 
+Cases—Continued: Page 
+Smith v. United States, 254 F.2d 865 (6th Cir. 
+
+EEE a Ee eae eee CO ee eee 35 
+Smith v. United States, 94 U.S. 97 (1876) ..........14, 15, 16 
+Societe Internationale v. Rogers, 357 U.S. 197 
+
+ee ee oe eer 18, 31, 32 
+Société Nationale Industrielle Aérospatiale Vv. 
+
+United States District Court, 482 U.S. 522 
+
+EEE a Co a 17 
+Sondel v. Northwest Airlines, Inc., 56 F.3d 934 
+
+| Fe ee eRe eer 35 
+South Carolina v. Bailey, 289 U.S. 412 (1988)... 37-38 
+Sparks Nugget, Inc. v. Commissioner, 458 F.2d 631 
+
+(9th Cir. 1972), cert. denied, 410 U.S. 928 
+
+a Oe ee en Se ee 35 
+Strassheim Vv. Daily, 221 U.S. 280 (1911) . ‘ 38 
+Streep v. United States, 160 U.S. 128 (1895) . es 39 
+Sullivan Vv. Louisiana, 113 8. Ct. 2078 (1993) ....... 30 
+Taylor Vv. Illinois, 484 U.S. 400 (1988) 2.000000... 25, 33 
+Taylor v. United States, 414 U.S. 17 (1973) ........... 29 
+Thomas V. Arn, 474 U.S. 140 (1985) 2.0... 13 
+United States Vv. A Parcel Realty Commonly 
+
+Known as 4808 S. Winchester, No. 88 C 1812, 
+
+1988 WL 107346 (N.D. Ill. Oct. 7, 1988) —.......... 23 
+United States Vv. Ballesteros-Cordova, 586 F.2d 1321 
+
+i i 5 
+United States v. Catino, 735 F.2d 718 (2d Cir.), 
+
+cert. denied, 469 U.S. 855 (1984) 0... 40 
+United States v. Certain Real Property, 986 F.2d 
+
+A, 16 
+United States v. Contents of Accounts Nos. 
+
+30384504504 and 144-07148, 971 F.2d 974 (3d 
+
+Cir. 1992), cert. denied, 507 U.S. 985 (1993)...... 14 
+United States v. Durcan, 589 F.2d 29 (9th Cir. 
+
+ED ccitineinetine ee ra ee eee 42 
+United States v. $8,850, 461 U.S. 555 (1988)... nS 24 
+United States Vv. $83,320, 682 F.2d 573 (6th Cir. 
+
+a eee ee : 15 
+United States v. Eng, 951 F.2d 461 (2d Cir. 1991). 14 
+
+
+VIII 
+Cases—Continued: 
+
+
+United States v. $45,940, 739 F.2d 792 (2d Cir. 
+BODE D .ccecececocseicbsshtnccodcenssensscscossccssvstascasicisecinessesdtenetees 
+United States v. Fowlie, 24 F.3d 1070 (9th Cir. 
+1994), cert. denied, 115 S. Ct. 742 (1995) .......... ; 
+United States v. Gagnon, 470 U.S. 522 (1985) ........ 
+United States v. Gonsalves, 675 F.2d 1050 (9th 
+Cir.), cert. denied, 459 U.S. 887 (1982) ............ 
+United States v. Hasting, 461 U.S. 499 (1983) ........ 
+United States v. Hudson, 11 U.S. (7 Cranch) 32 
+CTD cncccescersvcsccsecsencsnsvegnectnitiitzanbepeenieeseninstendataisocediies 
+United States v. Kras, 409 U.S. 434 (1978) ............ 
+United States v. Leasehold Interests in 118 Ave. D, 
+754 F. Supp. 282 (E.D.N.Y. 1990) ...................... 
+United States v. MacDonald, 435 U.S. 850 (1978).. 
+United States v. Marshall, 856 F.2d 896 (7th Cir. 
+ _e Re 
+United States v. Mellon Bank, N.A., 545 F.2d 869 
+RRR Rr ale ET Bb 
+United States v. Michelle’s Lounge, No. 91 C 5783, 
+1992 WL 194652 (N.D. Ill. Aug. 6, 1992), appeal 
+dismissed in part, vacated and remanded in part, 
+
+
+89 F.3d 684 (7th Cir. 1994) ............................... 
+United States v. Morgan, 922 F.2d 1495 (10th 
+Cir.), cert. denied, 501 U.S. 1207 (1991) .......... a 
+United States v. Morrison, 449 U.S. 361 (1981)...... 
+United States v. $151,888, 751 F. Supp. 547 
+JO (= =_ea a See 
+United States v. $129,374, 769 F.2d 583 (9th Cir. 
+1985), cert. denied, 474 U.S. 1086 (1986) ............. 
+United States v. One Parcel of Real Estate, 868 
+A) 'R DS yaa 
+
+
+United States v. One Single Family Residence 
+Located at 2820 Taft St., 710 F. Supp. 1351 
+ESS a ee 
+
+United States v. Payner, 447 US. 727 (1980)... wad 
+
+United States v. Pole No. 3172, 852 F.2d 636 (1st 
+>» 2 _—e an 
+
+United States v. Premises & Real Property at 297 
+Hawley St., 727 F. Supp. 90 (W.D.N.Y. 1990) .... 
+
+
+Page 
+
+
+14 
+
+
+40 
+29 
+
+
+4-5 
+47 
+
+
+12 
+
+
+Ix 
+
+
+Cases—Continued: Page 
+United States v. Premises Known as 717 S. Wood- 
+
+ward St., 2 F.8d 529 (8d Cir. 1998) 000. 16 
+United States v. Premises Known as 318 S. Third 
+
+St., 988 F.2d (8th Cir. 1998) 0000 .. 35 
+United States v. Ramos, 27 F.3d 65 (3d Cir. 
+
+A a NE eth 8 SE ILE ATES 21 
+United States vy. Route 2, Box 472, 60 F.3d 1528 
+
+I 16 
+
+
+United States v. Rylander, 460 U.S. 752 (1983)... 31 
+United States v. Sanchez, 35 F.3d 673 (2d Cir. 
+
+
+1994), cert. denied, 115 S. Ct. 1404 (1995)... 44 
+United States v. Sells Engineering, Inc., 463 U.S. 
+inn IE scott Thain daetieaaiiasianeseneenentnmeiincied sciinetninans 20 
+
+
+United States v. Sharpe, 470 U.S. 675 (1985) ....25, 26, 29 
+United States v. Singleton, 702 F.2d 1159 (D.C. 
+
+
+ERS RM SEE iE emilee ee CORED 40 
+United States v. Spillane, 913 F.2d 1079 (4th Cir. 
+
+I a 37, 42 
+United States v. Timbers Preserve, 999 F.2d 452 
+
+RR IN aa een SA te ca ia 14 
+United States v. Wazney, 529 F.2d 1287 (9th Cir. 
+
+REC et SRE A a la eet 5, 40 
+Vasquez V. Hillery, 474 U.S. 254 (1986) .... 24 
+Willy v. Coastal Corp., 508 U.S. 131 (1992) . 29 
+Windsor Vv. McVeigh, 93 U.S. 274 (1876) 28, 30, 31 
+Wyoming V. Oklahoma, 502 U.S. 487 (1992)... 44 
+Zafiro Vv. United States, 113 S. Ct. 988 (1998)... 20 
+Zebrowski v. Hanna, 973 F.2d 1001 (ist Cir. 
+
+EE ESE Se a RET Ol ; 13 
+
+Constitution, statutes and rules: 
+U.S. Const.: 
+
+Art. I, § 9, Cl. 3 (Ex Post Facto Clause) ............ 35 
+le TN a iN TC de 38 
+i TI SRE SE A 37, 38 
+gs a ie ll ae ETE RTI alee ~ aM] 26 
+ag ND LT TS eee eooole 84, OF 
+
+Due Process Clause .. an FR 
+
+
+Double Jeopardy Clause . incdetiiatinieicaiestiaddlialiatiada s 
+
+
+x 
+
+
+Constitution, statutes and rules—Continued: Page 
+ee es CS se edn 30 
+PE ER CARS SE" SE See Ale 17 
+Gun Control Act of 1968, 18 U.S.C. 921 (a) (15)... 42 
+Jencks Act, 18 U.S.C. 3500(a) .................. Pret Tan 21, 22 
+IE 2 csemenenerenebenennnenniniaeaias 37 
+th ad ta a I ees bet 22 
+causes cid att ba Soin 41 
+18 U.S.C. 1078 ............. ikinbelantieiaheniemmmamnaseiaatiadamaiaddin 41 
+te ET i ht RR ee 38 
+a ee Di i AIT TIE th me 37 
+hi ll I Tacs lhe a5 = 39, 40, 41 
+ny 1  cuasseeeineanenniniananale 22 
+a le I a ea ea i Ta Bre tell EIU ox 35 
+0 lilt Re Ty kc PEE eR ah 2, 35 
+ne. a apeieenianieeseuennnnandl a 2, 35 
+|G Mr eee WAY, 
+21 U.S.C. 885 (a) (1) —........... Ab odie SO i +0 wit 16 
+I eae Rr a i ast 0d 18 
+i Oe ll te te A SE 8 18 
+Rev. Stat. § 5278 (1878) .................. Ri be OT See Sie 37, 38 
+Code pénale suisse art. 271 _............ hineianmmmeteniedinae 6 
+Fed. R. Civ. P.: 
+
+Rules 26-37 _...... Fe Ki a etal ie! eC Le Sit 27 
+
+AT A cE IE TEL AE EPS ITS 22 
+
+Supp. Rule C(3) advisory committee’s note ld 23 
+Fed. R. Crim. P.: 
+
+TT EE A ee ee ne ee eee ne 21 
+
+NN Ree ee OE 21 
+
+Miscellaneous: 
+
+2 M. Cherif Bassiouni, /nternational Extradition: 
+United States Law & Practice (2d ed. 1987)... 38 
+RBiack’s Law Dictionary (6th ed. 1990) —............... 42 
+Ron Champoux, Real Property Forfeiture Under 
+Federal Drug Laws: Does the Punishment Out- 
+weigh the Crime?, 20 Hastings Const. L.Q. 247 
+0 NE AS SE ee ae an oe ene 35 
+Developments in the Law—Discovery, 74 Harv. L. 
+eh, ee a ad 21 
+
+
+XI 
+
+
+Miscellaneous—Continued: Page 
+
+
+1 Samuel Johnson, A Dictionary of the English 
+EE OE De 36 
+Daniel J. Meador, Inherent Judicial Authority in 
+the Conduct of Civil Litigation, 73 Tex. L. Rev. 
+
+
+SIRE 2c a So IR a 13 
+4A James Wm. Moore, Moore’s Federal Practice 
+
+IRENE SR FES a A 33 
+S. Rep. No. 225, 98th Cong., Ist Sess. (1983)... 22, 23 
+1 David B. Smith, Prosecution and Defense of 
+
+Forfeiture Cases (1995) .......000000 35 
+André M. Surena, International Drug Traffic, 84 
+
+Am. Gee'y Tall La 1 (IGE) eee nncce ccc eeee-e 17 
+U.S. Attorney’s Manual (Oct. 1988)... 17 
+Webster's Third New International Dictionary 
+
+RL REI aris ae 36 
+
+
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+No. 95-173 
+BRIAN J. DEGEN, PETITIONER 
+Vv. 
+UNITED STATES OF AMERICA 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (Pet. App. la-16a) 
+is reported at 47 F.3d 1511. The opinion of the district 
+court (Pet. App. 17a-26a) is reported at 755 F. Supp. 
+308. 
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on 
+February 10, 1995. A petition for rehearing was denied 
+on May 5, 1995. Pet. App. 38a-39a. The petition for a 
+writ of certiorari was filed on July 28, 1995, and was 
+granted by the Court on January 12, 1996 (J.A. 183). 
+The jurisdiction of this Court rests on 28 U.S.C. 
+1254(1). 
+
+
+CONSTITUTIONAL PROVISION INVOLVED 
+
+
+The Fifth Amendment to the Constitution provides, in 
+relevant part: “No person shall be * * * deprived of life, 
+liberty, or property, without due process of law * * *.” 
+
+
+(1) 
+
+
+2 
+
+
+STATEMENT 
+
+
+In October 1989, the United States District Court for 
+the District of Nevada unsealed an indictment charging 
+petitioner with the leadership, over many years, of a 
+major marijuana trafficking operation. On the same day, 
+that court unsealed a complaint filed by the government 
+in a civil forfeiture action against various properties al- 
+legedly used to facilitate, or traceable to the proceeds 
+of, the drug offenses charged in the criminal indictment. 
+Petitioner and his wife answered the civil complaint and 
+claimed a substantial amount of the property. Petitioner 
+failed, however, to appear to answer the criminal charges 
+against him. Because petitioner was a fugitive from crim- 
+inal justice, the district court dismissed his claims in the 
+forfeiture action. The court later granted summary judg- 
+ment against petitioner’s wife, and entered an order of 
+forfeiture. The court of appeals affirmed. Pet. App. la- 
+16a. 
+
+1. Petitioner was born in California in 1947, and he 
+lived there and in Nevada and Hawaii until sometime in 
+1988. See, e.g., J.A. 115, 160-161; Pet. C.A. App. 297. 
+On October 25, 1989, the United States District Court 
+for the District of Nevada unsealed an indictment charg- 
+ing that petitioner had been one of the leaders of a major 
+marijuana trafficking organization founded when peti- 
+tioner was in college and that operated for more than 20 
+years until approximately 1986. On the same day, that 
+court unsealed the government's complaint in this in rem 
+action, which sought forfeiture under 21 U.S.C. 881(a)(6) 
+and (7) of real and personal property in Nevada, Calli- 
+fornia, and Hawaii. 
+
+The complaint was supported by the affidavit of Dennis 
+A. Cameron, a Special Agent with the Drug Enforcement 
+Administration, who attested that the property had been 
+used to facilitate. or was traceable to the proceeds of, the 
+drug offenses charged in the indictment. J.A. 10-28. 
+Cameron's affidavit recounted that petitioner and his co- 
+
+
+3 
+
+
+conspirators had smuggled tens of thousands of pounds 
+of marijuana from Mexico and Thailand and distributed 
+it in Northern California and Nevada between 1969 and 
+1986. See, e.g., J.A. 12-17, 23-24. Cameron’s affidavit 
+also noted that an informant had seen petitioner meet 
+with Jurgen Karl Peter Ahrens, a marijuana smuggler, at 
+petitioner’s Lake Tahoe home, and had seen Ahrens take 
+delivery of a suitcase full of U.S. currency that had been 
+stored in the wine cellar there. J.A. 17. The affidavit 
+further stated that petitioner had bought real estate in 
+Hawaii in the name of K.E.S., a Cayman Islands corpora- 
+tion he owned, and had sold property to a Cayman Is- 
+lands corporation owned by another drug smuggler, Mar- 
+cus Zybach, in a transaction brokered by the sister of 
+a third smuggler (and petitioner’s business partner), Ciro 
+Mancuso. J.A. 18. Cameron’s affidavit alleged that, al- 
+though petitioner’s accounting records indicated a net 
+worth of more than $2.1 million, petitioner’s total ad- 
+justed gross income for the period 1979 to 1986 was less 
+than $250,000. J.A. 20-21, 23.’ 
+
+Petitioner’s father was born in Switzerland (Pet. C.A. 
+App. 401), and petitioner is therefore recognized as a 
+Swiss citizen as well as a citizen of the United States. 
+See Pet. App. 2a; J.A. 54-55, 59. After authorities had 
+arrested one of petitioner’s co-conspirators and started 
+investigating petitioner’s own activities (see J.A. 160), 
+but before the grand jury returned its indictment, peti- 
+
+
+1 The original forfeiture complaint was filed under seal on July 13, 
+1989, the same day the original indictment was returned (under 
+seal). An amended complaint was filed on October 24, 1989 (J.A. 1), 
+the same day the grand jury returned the superseding indictment 
+against petitioner. J.A. 54. The complaints sought forfeiture of a 
+wide array of property associated with, or derived from, the activi- 
+ties of the criminal enterprise, not all of which was claimed by 
+petitioner and his wife. The properties claimed by petitioner and 
+his wife were severed and made the subject of the present sepa- 
+rate proceeding. Pet. App. 2a; J.A. 45. 
+
+
+4 
+
+
+tioner left the United States and settled in Switzerland. 
+Pet. App. 2a; J.A. 161. The extradition treaty between 
+Switzerland and the United States does not require either 
+party to surrender its own nationals, In the five years 
+since his indictment, petitioner has neither returned vol- 
+untarily to this country to face the criminal charges 
+against him, nor made any good-faith effort to submit to 
+the criminal jurisdiction of the district court. Pet. App. 
+2a-3a. 
+
+In April 1990, however, counsel representing petitioner 
+and his wife did file answers and claims on their behalf 
+in the civil forfeiture action. Pet. App. 27a; J.A. 29-34. 
+The government moved to strike their claims and for sum- 
+mary judgment, arguing that petitioner should not be 
+heard in the civil forfeiture action while he remained a 
+fugitive from the related criminal case, and that his wife's 
+claims were entirely derivative of his own. Pet. App. 3a, 
+27a; J.A. 42-52. Petitioner filed a response (J.A. 57-87), 
+in which his attorneys described some of petitioner's real 
+estate transactions over the years (J.A. 65-76), and 
+
+
+argued that petitioner was not a fugitive because he had . 
+
+
+not “left the country because of knowledge of a pending 
+prosecution” (J.A. 61 (emphasis added)). After hearing 
+argument (Pet. C.A. App. 262), on December 31, 1990, 
+the court granted the government’s motion with respect 
+to petitioner (but not with respect to his wife). Pet. App. 
+17a-26a.* 
+
+In granting the motion, the court noted that “an intent 
+to avoid prosecution (conferring the ‘fugitive’ status) 
+could be inferred” from a person’s failure to submit to 
+arrest when he knows he is wanted by police. Pet. App. 
+18a (citing United States vy. Gonsalves, 675 F.2d 1050, 
+
+
+2In denying the government’s motion as to petitioner's wife, 
+the court noted that at least two parcels of real estate at issue 
+were community property, and it identified factual issues con- 
+cerning the community status of the other property sought by the 
+government and the source and nature of the funds used to acquire 
+it. Pet. App. 28a. 
+
+
+5 
+
+
+1052 (9th Cir.), cert. denied, 459 U.S. 837 (1982); 
+United States v. Ballesteros-Cordova, 586 F.2d 1321, 
+1323 (9th Cir. 1978); United States v. Wazney, 529 F.2d 
+1287, 1289 (9th Cir. 1976)). The court accordingly 
+determined that petitioner's refusal to return to face 
+known charges against him was sufficient to render him a 
+fugitive. Pet. App. 18a. 
+
+The court noted that in United States v. $129,374, 769 
+F.2d 583 (9th Cir. 1985), cert. denied, 474 U.S. 1086 
+(1986), the Ninth Circuit had applied the fugitive disen- 
+titlement doctrine in a civil forfeiture case, but had re- 
+served the question whether that doctrine should be ap- 
+plied to a fugitive claimant who had not yet been con- 
+victed in the related criminal case. Pet. App. 19a. After 
+considering the policies and precedents supporting the 
+disentitlement doctrine, id. at 20a-26a, the district court 
+answered that question in the affirmative. The court ob- 
+served that petitioner “want[ed] th[e] court to listen to 
+his claims in the forfeiture proceeding without subjecting 
+himself to th[e] court’s jurisdiction in the criminal mat- 
+ter,” and was therefore attempting to “flout[{] th{e] court's 
+power to prosecute him” (id. at 21a); that the criminal! 
+and civil proceedings in this case were closely related (id. 
+at 22a-23a); and that petitioner was “responsible for his 
+own plight,” because he could avoid disentitlement at any 
+time by returning and “submit[{ting] * * * to the jurisdic- 
+tion of th{e] court” (id. at 23a; see also id. at 24a, 26a). 
+Accordingly, the court concluded that, “in this case, the 
+disentitlement doctrine bar[{red] [petitioner] from defend- 
+ing the civil forfeiture action in absentia.” Id. at 25a-26a. 
+
+2. The district court, after ordering petitioner's claim 
+stricken, retained jurisdiction pending resolution of the 
+claim filed by petitioner’s wife. The government noticed 
+a deposition in Nevada of Karyn Degen, but she success- 
+fully moved for a protective order, which required that 
+she be deposed in Switzerland. See Pet. C.A. App. 540. 
+On April 30, 1991, petitioner and his wife noticed their 
+own depositions in Geneva, Switzerland, for May 22 and 
+
+
+6 
+
+
+23, 1991. Jd. at 207-210. In a proposed stipulation that 
+was rejected by the government, petitioner and his wife 
+sought to “limit{] [the] scope” (id. at 200) of the Swiss 
+depositions to certain subjects of their choosing, to pre- 
+clude inquiry into petitioner’s income before his marriage, 
+and to limit questioning to legitimate sources of income." 
+See id. at 200-201. The government immediately moved 
+for a protective order to vacate that notice of deposi- 
+tion, noting that permission from Swiss authorities to 
+take the depositions—necessary to avoid criminal liability 
+under Swiss law—could not be obtained on such short 
+notice. /d. at 185-190. See generally Code pénale suisse 
+art. 271. The government’s motion was granted. Pet. 
+C.A. App. 541. The depositions were cancelled and not 
+rescheduled. See ibid. 
+
+In December 1992, after more than two years of pre- 
+trial proceedings (see Pet. App. 2a), the government 
+again moved for summary judgment against Karyn 
+Degen. /d. at 3a. The motion was supported by affidavits 
+of three of petitioner's former associates, including two 
+major participants in his marijuana smuggling operations. 
+Ibid.; J.A. 135-161. Those affidavits detailed petitioner’s 
+involvement in the smuggling and distribution of consid- 
+erable quantities of marijuana since 1969, revealed the 
+substantial amounts of money that petitioner had derived 
+fror. those activities over the years, and noted that peti- 
+
+
+sources during the long period covered by the criminal 
+indictment. Pet. App. 3a; J.A. 135-161. Karyn Degen 
+obtained numerous extensions of time to respond to the 
+
+
+* The topics enumerated by the proposed stipulation included only 
+the acts and intent of the parties relevant to the transmutation of 
+petitioner’s separate property into community property; the sepa- 
+onto pnpttly Sa & See Sine see ae Sa 
+property; income during their marriage from ee oe 
+tion business; rental properties and the sale of properties; and 
+loans and gifts from third parties used to purchase or improve 
+
+
+7 
+
+
+$ new motion for summary judgment, and in 
+February 1993 she obtained an order from the district 
+court reopening discovery for an additional 60 days. Pet. 
+App. 3a; Pet. C.A. App. 40-41, 543-544. The district 
+court sua sponte granted two additional extensions of 
+time, which were accompanied by warnings that failure 
+to respond would result in the entry of a default judg- 
+ment. Pet. C.A. App. 17-18, 39; Gov't C.A. Br. 6-7. 
+Karyn Degen never filed a response. Accordingly, on 
+June 23, 1993, the court granted the government's motion 
+for summary judgment. Pet. App. 30a. 
+
+On August 17, 1993, the court entered a final order of 
+forfeiture vesting in the United States title to the proper- 
+ties claimed by petitioner and his wife. Pet. App. 
+32a-37a. 
+
+3. The court of appeals affirmed. Pet. App. la-16a. 
+The court first noted that it and other courts have applied 
+the disentitlement doctrine in civil cases, including forfei- 
+ture proceedings, that are related to the criminal case 
+from which the disentitled party is a fugitive. Jd. at 4a. 
+The court concluded that, as had been true in $/29,374, 
+supra, the criminal and civil proceedings against peti- 
+tioner and his property related “directly” to “the same 
+unlawful drug dealing scheme,” Pet. App. 4a, and would 
+therefore “satisfy any relatedness test,” id. at Sa. The 
+court observed that it had not previously applied the fugi- 
+tive disentitlement doctrine in a case in which the disen- 
+titled party had not yet been convicted of a crime. The 
+court held that distinction immaterial, however, finding 
+that the district court had “correctly concluded * * * in 
+December 1990” that petitioner's choice not to return to 
+face the charges against him, “presumably to avoid arrest 
+on the criminal charges,” had rendered him a fugitive 
+and demonstrated the sort of disrespect for that court's 
+criminal jurisdiction that the disentitlement doctrine is 
+intended to address. /bid. 
+
+The court rejected (Pet. App. 6a-7a) petitioner's argu- 
+ment that the disentitlement doctrine should not apply 
+
+
+because in November 1992, nearly two years after the 
+district court ordered his claim struck, he was arrested by 
+Swiss authorities, “at the behest of the United States gov- 
+ernment, which wished to ‘transfer’ its prosecution to 
+Switzerland because extradition was impossible.” /d. at 
+6a. The court observed that the only evidence of such an 
+arrest contained in the record was an affidavit of counsel 
+for petitioner and his wife, which contained “virtually no 
+factual statements based on personal knowledge.” Ibid. 
+The court also noted that petitioner had moved to supple- 
+ment the record on appeal with two letters that, he rep- 
+resented, had been sent to Swiss authorities by the Depart- 
+ment of Justice’s Office of International Affairs, and that 
+were attached to pctitioner’s reply brief. The court re- 
+jected the motion to supplement the appellate record, 
+explaining that the letters “were never submitted to the 
+district court,” and were “unauthenticated and, so far as 
+[the court could] discern, * * * hearsay not subject to 
+any exception.” /d. at 6a & n.1; see also id. at 7a (noting 
+absence of “credible evidence properly in the record * * * 
+to support [petitioner's] allegations of government involve- 
+ment in his arrest and prosecution in Switzerland”). The 
+court also noted that, “[e]ven putting th[o]se problems 
+aside,” petitioner “ha{d] never proffered any supporting 
+evidence or argument explaining the import of the let- 
+ters.” Jd. at 6a.* 
+
+
+*The court of appeals found one error in the district court’s 
+opinion disposing of petitioner’s claim (Pet. App. 7a-8a): that 
+court had erred in holding (id. at 26a) that it had no discretion 
+about whether to disentitle a claimant in a particular case. Rather, 
+the court noted, “the doctrine is discretionary, not mandatory.” 
+Id. at 8a. Because petitioner did not argue that issue on appeal, 
+however, the court found that any claim based on that error was 
+waived. /bid. The court also rejected as “utterly without merit” a 
+motion, filed by petitioner and his wife shortly before oral argu- 
+ment, that claimed that the civil forfeiture constituted a second 
+punishment purportedly barred by the Double Jeopardy Clause. 
+The court noted that because neither petitioner nor his wife had 
+
+
+amounts of money from illegal narcotics trafficking and 
+had virtually no legitimate income,” and that that show- 
+ing was sufficient to establish probable cause for the 
+forfeiture. Jd. at 12a. Because “the government's papers 
+were sufficient and on their face revealed no factual 
+issue” (id. at 13a), and because Karyn Degen, despite 
+fully adequate opportunities to develop and present op- 
+posing evidence, had failed to respond, the district court 
+did not abuse its discretion in granting summary judg- 
+ment against her. /d. at 13a-14a. Petitioner’s wife did 
+not seek further review in this Court, and the judgment 
+accordingly became final as to her claims. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The federal courts possess inherent authority to regu- 
+late their dockets through the enforcement of reasonable 
+rules. A core element of that authority is the power to 
+impose sanctions designed to remedy litigation abuses and 
+to ensure compliance with the orderly process of litiga- 
+tion. A settled expression of that inherent authority is 
+the power of the court to apply the fugitive disentitlement 
+doctrine. That doctrine originated in the practice of an 
+appellate court to dismiss the appeal of a criminal de- 
+fendant who became a fugitive during the pendency of 
+the appeal. The purposes and logic of that doctrine also 
+justify the remedy imposed here: the disentitlement of 
+
+
+been subject to criminal prosecution, the forfeiture action did not 
+implicate double jeopardy issues. /d. at 15a-16a. 
+
+
+10 
+
+
+petitioner, a fugitive from criminal justice, from present- 
+ing claims in a related civil forfeiture action pending 
+before the same district court. 
+
+A fugitive’s absence threatens the orderly and fair liti- 
+gation of the forfeiture action, and it represents an on- 
+going affront to the dignity of the court. A fugitive who 
+remains outside the reach of the court’s processes cannot 
+reliably be made to respond to the court’s supervision of 
+discovery or other steps in the litigation; rather, the fugi- 
+tive asserts the authority to dictate to the court the terms 
+on which he will participate in the action. Indeed, peti- 
+tioner’s refusal to stand trial on the criminal charges 
+pending against him unmistakably conveys his intention 
+to use his foreign residence as a shield against the au- 
+thority of the district court, and to comply with the 
+court’s process only insofar as it benefits him. “[N]o 
+court is bound to submit” to such “contempt of its au- 
+thority” (Allen v. Georgia, 166 U.S. 138, 141 (1897)). 
+It is particularly unseemly for petitioner, a citizen of 
+the United States (as well as Switzerland), to insist on 
+eluding the grasp of the criminal justice system, while 
+demanding the right to call upon the court’s resources in 
+a closely related civil case. 
+
+That petitioner has not yet been tried and convicted 
+on the related criminal charges strengthens the court’s 
+interest in applying the disentitlement doctrine. Pretrial 
+fugitivity imposes significant burdens on the administration 
+of justice; it impedes speedy trials and wastes judicial 
+resources by preventing the joint trial of co-defendants. 
+Pretrial fugitivity also threatens the integrity of the crimi- 
+nal justice system if a claimant is allowed to participate 
+in a related civil case; it would permit the claimant to 
+use broad civil discovery rules to circumvent established 
+restrictions on criminal discovery, and thereby to probe 
+the extent to which the government’s case may be vulner- 
+able to contrived or perjured testimony or a tailored de- 
+fense. No court need countenance the risk that a fugitive, 
+
+
+11 
+
+
+in the guise of defending the civil action, may strive to 
+defeat his criminal prosecution. 
+
+The Due Process Clause does not bar disentitlement 
+in this setting. Petitioner has had what that Clause guar- 
+antees him: a reasonable opportunity for a hearing. It 
+is well established that courts may impose reasonable 
+procedural restrictions on the availability of a hearing and 
+may, without violating due process, dismiss a case or 
+enter default judgment for noncompliance with those 
+rules. Requiring that a litigant submit to the court’s crimi- 
+nal jurisdiction before he may have a hearing on the 
+merits of a related civil case is a straightforward applica- 
+tion of that principle, and rationally advances the court’s 
+interest in orderly procedure by imposing a requirement 
+with which a litigant can readily comply. Indeed, if a 
+criminal defendant may forfeit his right to protect his 
+interest in liberty by assuming fugitive status, he surely 
+may forfeit the lesser interest in defending his property 
+rights. 
+
+Petitioner advances three alternative arguments for 
+avoiding disentitlement, none of which has merit. First, 
+he argues that as a matter of common parlance and legal 
+usage his refusal to come to this country to meet the 
+criminal charges does not qualify him as a fugitive. That 
+claim is incorrect not only on its own terms, but also as 
+a guide for applying the disentitlement doctrine. A per- 
+son who purposefully remains outside the reach of this 
+country’s legal system to avoid a trial on criminal charges 
+is a fugitive in every sense that is relevant to the dis- 
+entitlement doctrine. 
+
+Second, petitioner argues that he ceased to be a fugi- 
+tive when he was arrested by Swiss authorities, in Switzer- 
+land, at the urging of the United States and based on the 
+charges that underlie the federal criminal indictment. The 
+short answer to that contention is that petitioner never 
+presented any support for it in the district court. The 
+court of appeals properly found it waived. And in any 
+event petitioner has never even claimed that he would 
+
+
+12 
+
+
+have returned to this country but for the actions of the 
+Swiss government, or that he has made a good-faith at- 
+tempt to do so. 
+
+Finally, petitioner argues that our litigation of the 
+Swiss prosecution issue in the lower courts was mislead- 
+ing and left the government with unclean hands that dis- 
+qualify it from invoking the equitable doctrine of dis- 
+entitlement. Our misstatements below, however, did not 
+produce the holding of the court of appeals that petitioner 
+waived his claim that the Swiss prosecution ended his 
+fugitive status; that default is solely attributable to peti- 
+tioner. In any event, the unclean hands doctrine should 
+not be applied so as to defeat the public interests pro- 
+moted by disentitlement. Those interests are compelling 
+where, as here, disentitlement prevents a fugitive from 
+exploiting the civil process of a court whose criminal 
+authority he has flouted. Accordingly, the judgment 
+should be affirmed. 
+
+
+ARGUMENT 
+
+
+I. A DISTRICT COURT, IN A CIVIL FORFEITURE 
+PROCEEDING, MAY VALIDLY STRIKE THE 
+CLAIM OF A FUGITIVE FROM A RELATED CRIM- 
+INAL CASE 
+
+
+It is well established that the federal courts possess 
+those inherent powers “which ‘are necessary to the exer- 
+cise of all others.’” Roadway Express, Inc. v. Piper, 447 
+U.S. 752, 764 (1980) (quoting United States v. Hudson. 
+11 U.S. (7 Cranch) 32, 34 (1812)). “These powers are 
+‘governed not by rule or statute but by the control neces- 
+sarily vested in courts to manage their own affairs so as 
+to achieve the orderly and expeditious disposition of 
+cases.’ Chambers v. NASCO, Inc., 501 U.S. 32, 43 
+(1991) (quoting Link v. Wabash R.R., 370 US. 626. 
+630-631 (1962)); Ex parte Peterson, 253 U.S. 300, 312 
+(1920). While the exercise of inherent powers is bounded 
+by rights guaranteed by the Constitution, by statutes or 
+
+
+i 
+
+
+13 
+
+
+written rules of the court, and by principles of reasonable- 
+ness, see Bank of Nova Scotia v. United States, 487 US. 
+250, 254-255 (1988); Thomas v. Arn, 474 US. 140. 
+146-148 (1985), those powers constitute “a sizeable 
+reservoir of authority available * * * to manage [courts’] 
+civil dockets aggressively in order to achieve fair results 
+efficiently.” Daniel J. Meador, Inherent Judicial Author- 
+ity in the Conduct of Civil Litigation, 73 Tex. L. Rev. 
+1805, 1819 (1995). 
+
+The inherent powers include the authority “to compel 
+the appearance and testimony of witnesses,” Shillitani v. 
+United States, 384 U.S. 364, 370 (1966), to ensure 
+“compliance] with document discovery,” International 
+Union v. Bagwell, 114 S. Ct. 2552, 2560 (1994), and 
+to “use [the court’s] processes to induce compliance with 
+{] supplemental order{s] reasonably issued in aid of execu- 
+tion” of the judgment, National Union of Marine Cooks 
+& Stewards v. Arnold, 348 U.S. 37, 44 (1954). Because 
+litigants’ acts that “impede the court’s ability to adjudicate 
+the proceedings before it * * * touch upon the core 
+justification for” exercise of the courts’ inherent powers, 
+Bagwell, 114 S. Ct. at 2560, “the inherent power extends 
+to a full range of litigation abuses,” Chambers. 501 US. 
+at 46. While “{t]he most prominent of these [inherent 
+powers] is the contempt sanction,” Roadway Express, 447 
+U.S. at 764, “{clourts traditionally have broad authority 
+through means other than contempt—such as by striking 
+pleadings, assessing costs, excluding evidence, and enter- 
+ing default judgment—to penalize a party’s failure to 
+comply with the rules of conduct governing the litigation 
+process,” Bagwell, 114 S. Ct. at 2560. Similarly, a court 
+can validly dismiss a suit for failure to prosecute if the 
+plaintiff has been dilatory in pursuing his claim, Link, 
+370 U.S. at 630, or as a “sanction for conduct which 
+abuses the judicial process,” Chambers, 501 US. at 44- 
+45; Zebrowski v. Hanna, 973 F.2d 1001. 1006-1007 (Ist 
+Cir. 1992) (Breyer, C.J.) (collecting cases). 
+
+
+14 
+
+
+The district court’s decision to strike petitioner’s claim 
+in the civil forfeiture proceeding, because he was a fugi- 
+tive from a closely related criminal case, was a valid exer- 
+cise of that court’s inherent authority to manage its af- 
+fairs “so as to achieve the orderly and éxpeditious disposi- 
+tion of cases.” Link, 370 U.S. at 630-631. A long line 
+of this Court’s decisions holds that appellate courts have 
+inherent authority, “[iJn the absence of specific provision 
+to the contrary in the statute under which [the defendant] 
+appeals,” Molinaro v. New Jersey, 396 U.S. 365, 366 
+(1970) (per curiam); see also Ortega-Rodriguez v. 
+United States, 113 §. Ct. 1199, 1203-1204 (1993); Smith 
+v. United States, 94 U.S. 97 (1876), to dismiss the 
+claims of a criminal fugitive, and that the exercise of that 
+“disentitlement” authority is constitutional. See Estelle 
+v. Dorrough, 420 U.S. 534, 537 (1975) (per curiam); 
+Allen v. Georgia, 166 U.S. 138, 140-142 (1897). That 
+is the power at issue here. Because striking the claim of 
+a fugitive claimant in a civil forfeiture proceeding pro- 
+motes the recognized goals of the disentitlement doctrine. 
+and because dismissal of such a claim is consistent with 
+the Due Process Clause of the Fifth Amendment, the 
+court of appeals, in agreement with the majority of courts 
+of appeals to have considered the question, correctly held 
+that the doctrine is applicable in this setting.° 
+
+
+5 The Second, Ninth, Tenth, and Eleventh Circuits have applied 
+the fugitive disentitlement doctrine in the context of in rem 
+forfeiture proceedings. United States v. Timbers Preserve, 999 
+F.2d 452 (10th Cir. 1998); United States v. Eng, 951 F.2d 461 
+(2d Cir. 1991); United States v. One Parcel of Real Estate, 868 
+F.2d 1214 (11th Cir. 1989) ; United States v. $129,374, 769 F.2d 583 
+(9th Cir. 1985), cert. denied, 474 U.S. 1086 (1986); United States 
+v. $45,940, 739 F.2d 792 (2d Cir. 1984). The Third Circuit, has 
+noted its approval of that application of the rule. United States 
+v. Contents of Accounts Nos. 3034504504 and 144-07148, 971 F.2d 
+974, 986 n.9 (1992) (dictum), cert. denied, 507 U.S. 985 (1993). 
+The First Circuit, while acknowledging that the doctrine applies 
+in civil cases, refused to apply the doctrine in a case in which not 
+only was it unclear that the civil forfeiture was related to the 
+
+
+15 
+
+
+A. The Recognized Goals Of The Fugitive Disentitle- 
+
+
+ment Rule Support Its Application In The Civil 
+Forfeiture Setting 
+
+
+This Court has articulated a number of related ration- 
+ales that support the “longstanding and established prin- 
+ciple of American law” (Dorrough, 420 U.S. at 537) that 
+a criminal defendant's fugitivity “disentitles [him] to call 
+upon the resources of the Court for the determination of 
+his claims.” Molinaro, 396 U.S. at 366; see also Bonahan 
+Vv. Nebraska, 125 U.S. 692 (1887). First, refusing to 
+hear a fugitive’s claims “advances [the courts’] interest in 
+efficient * * * practice” (Ortega-Rodriguez, 113 S. Ct. 
+at 1204-1205; see also Goeke v. Branch, 115 S. Ct. 1275, 
+1277 (1995) (per curiam)) by permitting orderly and 
+timely appeals, and it ensures that scarce judicial re- 
+sources are not devoted to someone who is not “where 
+he can be made to respond to any judgment [the Court] 
+may render,” Smith, 94 U.S. at 97; Bonahan, 125 US. 
+at 692; Allen, 166 U.S. at 140; Eisler v. United States, 
+338 U.S. 189, 190 (1949) (per curiam). Second, the 
+rule reflects the equitable principle that a litigant should 
+not be permitted to invoke the legal process while simul- 
+taneously flouting the court’s dignity and authority. See, 
+e.g., Ortega-Rodriguez, 113 S. Ct. at 1206. Third, the 
+rule serves an incentive function by “discourag{ing] the 
+felony of escape and encourag{ing] voluntary surren- 
+ders.” Ortega-Rodriguez, 113 S. Ct. at 1204 (quoting 
+Dorrough, 420 U.S. at 537). Finally, the rule rests “in 
+part on a ‘disentitlement’ theory” that construes flight as 
+a waiver of a defendant’s right to a procedural mechanism 
+(an appeal) that, though furnished for the vindication of 
+
+
+criminal case but it also appeared that the claimant had no notice 
+of the forfeiture proceeding. United States v. Pole No. 3172, 852 
+F.2d 636, 643-644 (1988). Only the Sixth and Seventh Circuits 
+have concluded that the doctrine does not apply in civil forfeiture 
+proceedings. United States v. $83,320, 682 F.2d 573, 576 (6th Cir. 
+1982) ; United States v. $40,877.59, 32 F.3d 1151 (7th Cir. 1994). 
+
+
+— ik i i 
+
+
+16 
+
+
+important constitutional and other rights, is not itself re- 
+quired by the Constitution. Ortega-Rodriguez, 113 S. Ct. 
+at 1204; Allen, 166 U.S. at 141; see also Commonwealth 
+v. Andrews, 97 Mass. 543, 544 (1867). Those interests 
+are significantly advanced by applying the doctrine to 
+strike a claim filed in a civil forfeiture action by a fugi- 
+tive from a related criminal case. 
+
+|. A fugitive’s absence impairs the orderly and expe- 
+ditious litigation of the civil forfeiture action, and con- 
+stitutes a continuing offense to the dignity of the court. 
+Claimants in civil forfeiture actions often will control the 
+testimonial and documentary evidence most relevant to 
+their contention that, despite the government's showing 
+of probable cause, particular property should not be for- 
+feited.” Yet, when the claimant is a fugitive from justice, 
+“he can[not} be made to respond” to orders that the 
+court may enter to test the basis for his contentions, 
+Smith, 94 U.S. at 97, or indeed to control any other as- 
+pect of the litigation. The fugitive, therefore, may com- 
+ply “or not, as he may consider most for his interest.” 
+Ibid. 
+
+These concerns are exacerbated by the severe demands 
+placed on district courts, even under the best of circum- 
+Stances, when cases require the collection of evidence 
+abroad "—burdens that become intolerable when, as a 
+
+
+* In a civil forfeiture proceeding, once the government establishes 
+probable cause to believe that property is forfeitable the burden of 
+proof shifts to the claimants to demonstrate that the property is not 
+forfeitable. E.g., United States v. Route 2, Box 472, 60 F.3d 1523, 
+1526 (11th Cir. 1995); United States v. Premises Known as 717 
+S. Woodward St., 2 F.3d 529, 581 (3d Cir. 1998); United States 
+v. Certain Real Property, 986 F.2d 990, 995 (6th Cir. 1998). See 
+generally 21 U.S.C. 885(a) (1). 
+
+
+7 See, e.y., Société Nationale Industrielle Aérospatiale vy. United 
+States District Court, 482 U.S. 522, 546 (1987). Collection of 
+evidence overseas is almost always unlawful in the absence of prior 
+approval by the foreign government and, when available by permis- 
+sion or pursuant to treaty obligations, it is far more difficult than 
+
+
+17 
+
+
+result of a party’s fugitivity, a court can have no reason- 
+able expectation of its ability to control the litigation. 
+The claimant’s physical absence while seeking to prevent 
+the forfeiture immunizes him from the enforcement of 
+discovery obligations and keeps him beyond the reach of 
+the court’s usual processes for supervising discovery and 
+compelling attendance at hearings. For that reason, “the 
+enforceability concern” of the disentitlement doctrine 
+(Pet. Br. 14) supports its invocation in a civil forfeiture 
+action; although the court has control over the res and 
+therefore may enforce any eventual judgment, the court 
+
+
+lacks power to ensure proper development of the record, 
+and thus to protect the integrity of that judgment. 
+Petitioner emphasizes that he is a citizen of Switzerland 
+and asserts that he merely declined to travel to the United 
+States (Br. i, 17, 35). He therefore contends that apnly- 
+ing the doctrine against him is inappropriate, because his 
+refusal to meet the criminal charges is not “wrongful” 
+(Br. 17) and, indeed, his presence in this country could 
+not be “compelled in a civil action even if he were not a 
+fugitive” (Br. 15). Petitioner, however, is also a citizen 
+of the United States. See U.S. Const. Amend. XIV, § |. 
+“[T he United States possesses the power inherent in sov- 
+ereignty to require the return to this country of a citizen, 
+resident elsewhere, whenever the public interest requires 
+it, and to penalize him in case of refusal.” Blackmer v. 
+United States, 284 U.S. 421, 437 (1932). It is beyond 
+doubt that “one of the duties which the citizen owes to 
+his government is to support the administration of justice 
+by attending its courts * * * whenever he is properly 
+summoned.” /d. at 438. By virtue of that obligation, the 
+district court could have summoned petitioner to the 
+United States to testify as a witness even in a civil action 
+
+
+domestic evidence gathering (U.S. Attorney’s Manual § 9-13.510 
+(Oct. 1988)) and “invariably takes longer” s‘nce “(rjoutine tasks 
+* * * requir{e] months to complete.” /d. 8 9-13.514; see also 
+André M. Surena, International Drug Traffic, 84 Am. Soc’y Int’! 
+L. 1, 2 (1991). 
+
+
+18 
+
+
+in which he had no interest whatsoever. See 28 U.S.C. 
+1783(a); see also 28 U.S.C. 1784(d) (failure to appear 
+punishable by contempt fine of up to $100,000 which 
+may be satisfied from any property the witness owns in 
+this country). 
+
+Even if it were true that petitioner owed his allegiance 
+solely to a foreign state, he is not a hypothetical litigant 
+who appears before the district court in “good faith,” 
+Societe Internationale v. Rogers, 357 U.S. 197, 209 
+(1958), and who seeks no “privileges because of [his] 
+foreign citizenship which are not accorded domestic liti- 
+gants in United States courts,” id. at 211-212. Petitioner 
+is a fugitive. See pp. 36-43, infra. His refusal to submit 
+to the authority of the district court to try him for his 
+crimes unmistakably conveyed to that court that he would 
+comply with its process only as he saw fit, and that he 
+would use his foreign residence as a shield against any 
+coercive sanctions for noncompliance. Indeed, that mes- 
+Sage was confirmed when petitioner consented to being 
+deposed in connection with his wife’s claims, but only on 
+condition that his testimony be taken in Switzerland, and 
+be limited to certain topics of his choosing (which did not 
+include his income from drug smuggling and distribu- 
+tion). See Pet. C.A. App. 200-201, 207-210. Petition- 
+er’s view that he is entitled to appear before the district 
+court on terms dictated by him constitutes a direct “affront 
+to the dignity of the court's proceedings.” Ortega- 
+Rodriguez, 113 S. Ct. at 1207. As this Court observed 
+long ago, “[iJt is much more becoming to its dignity that 
+the court should prescribe the conditions” under which a 
+litigant will be permitted to appear before it, Allen, 166 
+U.S. at 141, and a fugitive’s attempt to have that principle 
+Operate in reverse is “a contempt of [the court's} author- 
+ity, to which no court is bound to submit,” ibid. 
+
+2. Petitioner’s status as a fugitive from criminal 
+charges that have not been tried, but that are “directly 
+related" (Pet. App. 4a-Sa) to the civil forfeiture action, 
+
+
+ises of 
+inherent authority, protects the orderly functioning of the 
+
+
+completely prevented his prosecution from going forward, 
+
+
+terest that “exists separate from, and at times in opposi- 
+tion to, the interests of the accused.” Barker v. Wingo, 
+407 U.S. 514, 519 (1972); Flanagan v. United States, 
+465 U.S. 259, 264-265 (1984); see also United States v. 
+MacDonald, 435 U.S. 850, 862 (1978); United States 
+Vv. Morrison, 449 U.S. 361, 364 (1981) (noting the 
+“necessity for preserving society's interest in the adminis- 
+tration of criminal justice” ). 
+
+
+20 
+
+
+Petitioner's fugitivity also amounts to a self-help sever- 
+ance from his numerous co-defendants. Should he ever 
+
+
+States, 113 S. Ct. 933, 937 (1993)) and will needlessly 
+waste the scarce judicial resources of the very court whose 
+assistance he seeks in the forfeiture action. Under estab- 
+lished principles of the fugitive disentitlement doctrine, 
+the court “ha[d] the authority to defend its own dignity, 
+by sanctioning an act of defiance that occurred solely 
+
+
+the court system merely because petitioner, by making 
+himself unavailable, has so far prevented the government 
+from convicting him of any crime. 
+
+Nor is there reason to credit his expressed doubts about 
+the strength of the government's criminal case, based on 
+the acquittal of a co-defendant. Br. 32 n.17; id. at 33 
+
+
+States, 765 F.2d 1047, 1050-1051 (11th Cir. 1985). In 
+any event, petitioner has been indicted by a grand jury 
+whose basic function is to “protect[] citizens against un- 
+founded criminal prosecutions” (United States v. Sells 
+Engineering, Inc., 463 U.S. 418, 423 (1983)), and that 
+indictment, if valid on its face, “is enough to call for trial 
+of the charge on the merits.” Costello v. United States, 
+350 U.S. 359, 363-364 (1956). Petitioner’s claim of 
+innocence cannot be evaluated until and unless he submits 
+to a trial, and “[bJearing the discomfiture and cost of a 
+Prosecution for crime even by an innocent person is one 
+of the painful obligations of citizenship.” Cobbledick v. 
+United States, 309 U.S. 323, 325 (1940). Our legal sys- 
+tem provides petitioner with ample means for challenging 
+
+
+2 
+States L -3d 65, 67-68 (3d Cir. 1994). That 
+policy minimizes the danger of witness intimidation, ob- 
+struction of justice, and perjury that can easily result when 
+
+
+criminal juries are instructed to ensure that their verdicts are 
+based on proof beyond a reasonable doubt. See, ¢.g., Bell v. Wolfish, 
+441 U.S. 520, 582-583 (1979) : see also Coffin v. United States, 156 
+
+
+acquitted, unless he is proven to be guilty”) The fugitive disen- 
+titlement doctrine is not premised on any conclusion about guilt, 
+but on the impact on the judicial system of a defendant’s refusal tc 
+
+
+18 U.S.C. § 3500,” more commonly known as the Jencks Act. Fed. 
+R. Crim. P. 16(a) (2). The Jencks Act provides that in criminal 
+
+
+22 
+
+
+In civil cases, by contrast, pretrial discovery is broadly 
+available. Discovery “is not limited to matters that will 
+be admissible at trial so long as tlic information sought 
+‘appears reasonably calculated to lead to the discovery 
+of admissible evidence.’” Seattle Times Co. vy. Rhinehart, 
+467 U.S. 20, 29-30 (1984) (quoting state counterpart to 
+Federal Rule of Civil Procedure 26(b)(1)). Indeed, civil 
+prepa bade ty poem ohio mathe men 
+
+that surfaces * * * may be unrelated, or only tangentially 
+related, to the underlying cause of action.” 467 U.S. at 
+33; see id. at 35 (noting “opportunity” of litigants to 
+obtain “incidentally or purposefully” information that can 
+be abused ). 
+
+Congress has recognized the dangers that the availa- 
+bility of civil process entails for related criminal pro- 
+ceedings. It has provided that the government may secure 
+a stay of civil forfeiture proceedings that are related to 
+a criminal prosecution that is pending in federal or state 
+court. See 21 U.S.C. 881(i) (“The filing of an indict- 
+ment or information alleging a violation of [federal nar- 
+cotics laws], or a violation of State or local law that could 
+have been charged under [federal law], which is also 
+related to a civil forfeiture proceeding under [21 U.S.C. 
+881] shall, upon motion of the United States and for 
+good cause shown, stay the civil forfeiture proceeding”); 
+see also 18 U.S.C. 981(g); 19 U.S.C. 1305(d). As 
+Congress recognized in codifying that rule, courts routinely 
+granted such stays even before Section 881(i) was enacted 
+to prevent a claimant from circumventing the limitations 
+on criminal discovery. See S. Rep. No. 225, 98th Cong., 
+Ist Sess. 215-216 (1983) (footnote omitted) (“Gener- 
+ally, the courts have been willing to grant such stays 
+of civil forfeiture proceedings,” since, “[aJbsent such a 
+stay, the government may be compelled in the context of 
+
+
+testified on direct examination in the trial of the case.” 18 U.S.C. 
+3500 (a). 
+
+
+23 
+
+
+civil forfeiture action to disclose prematurely aspects 
+its criminal case”); see also id. at 215 n.57 (noting 
+that “the government is, as a general rule, entitled to a 
+stay of discovery in the civil action until disposition of 
+the criminal matter”)."° When the claimant is a pre- 
+trial fugitive, however, a stay of the civil proceedings 
+pending resolution of the criminal case is not a practical 
+
+
+™ See also United States v. Mellon Bank, N.A., 545 F.2d 869, 
+873 (3d Cir. 1976); Campbell v. Eastland, 307 F.2d 478, 487 (5th 
+Cir. 1962), cert. denied, 371 U.S. 955 (1963); Fed. Supp. R. Civ. P. 
+C(8) advisory committee’s note (1985 Amendment) (“{T}he for- 
+feiture hearing could be misused by the defendants [in parallel 
+criminal prosecution] to obtain by way of civil discovery informa- 
+tion to which they would not otherwise be entitled”). In keeping 
+
+
+881(i), district courts routinely stay civil forfeiture proceedings 
+on the basis of the government’s representation that the related 
+criminal case must be protected from potentially broad civil dis- 
+covery. E.g., United States v. Michelle's Lounge, No. 91 C 5783, 
+1992 WL 194652, at *5 (N.D. Ill. Aug. 6, 1992) (“Conducting 
+civil discovery while the related criminal investigation is continu- 
+ing would compromise that investigation”), appeal dismissed in 
+part, vacated and remanded in part on other grounds, 39 F.3d 684 
+(7th Cir. 1994); United States v. Premises & Real Property at 297 
+Hawley St., 727 F. Supp. 90, 91 (W.D.N.Y. 1990) (good cause 
+shown where stay necessary to protect criminal case from “poten- 
+tially” broad discovery demands of claimant/defendant); United 
+States v. One Single Family Residence Located at 2820 Taft St., 
+710 F. Supp. 1351, 1352 (S.D. Fla. 1989) (stay granted where 
+“scope of civil discovery could interfere with the criminal prosecu- 
+tion”); United States v. A Parcel of Realty Commonly Known as 
+4808 S. Winchester, No. 88 C 1312, 1988 WL 107346, at *2 (N.D. 
+Ill. Oct. 7, 1988) (Rovner, J.) (stay justified because “the possi- 
+bility exists that any civil discovery provided * * * could be used 
+by [the defendant/claimant] in the criminal case”); but see /n 
+re Ramu Corp., 903 F.2d 312, 320 (5th Cir. 1990) (more specific 
+“showing of the harm” that the government may suffer is required, 
+and “there must be some weighing of the equities involved’) ; 
+United States v. Leasehold Interests in 118 Ave. D, 754 F. Supp. 
+282, 287 (E.D.N.Y. 1990) (same); United States v. $151,388, 751 
+F. Supp. 547, 560-551 (E.D.N.C. 1990) (invoking four-part stand- 
+ard used for preliminary injunctions). 
+
+
+24 
+
+
+way of protecting the interests of the criminal process. 
+Indeed, a stay of the civil proceedings until such time 
+as the criminal trial can be held would effectively terminate 
+the civil action in favor of the fugitive claimant—allowing 
+him, by his misconduct, to defeat the government’s show- 
+ing of probable cause for forfeiture and thus effectively to 
+thwart two Acts of Congress instead of only one. 
+
+Thus, if the civil action must proceed and be fully 
+litigated, as proposed by petitioner, a fugitive claimant 
+will be able, even while flouting the judiciary’s authority 
+to try him for his crimes, to use the coercive power of the 
+court to conduct the type of “broad-ranging preliminary 
+inquiry” (Harris v. Nelson, 394 US. 286, 297 (1969) ) 
+that “could substantially hamper the criminal proceeding 
+* * * and may provide improper opportunities for [him] 
+to discover the details of * * * [the] pending criminal 
+prosecution” (United States vy. $8,850, 461 US. 555, 
+567 (1983)). The fugitive-claimant can then “profit from 
+his own wrong” (Illinois v. Allen, 397 US. 337, 345 
+(1970)) in two ways. First, he postpones his criminal 
+trial, and thus gains the tactical advantages that flow 
+from the possibility that evidence will be lost or that the 
+passage of time will render the prosecution’s witnesses 
+“more easily impeachable.” Flanagan v. United States, 
+465 U.S. at 264; see also Vasquez v. Hillery, 474 US. 
+254, 280 (1986) (Powell, J., dissenting). Second, he 
+enlists the court’s help in the interim to probe the extent 
+to which the prosecution’s case may be undermined by 
+contrived or perjured testimony—enabling him, should 
+he find it advantageous to permit the trial to proceed, 
+“to frustrate the truth-seeking function of [that] trial by 
+presenting [a] tailored defense[] insulated from effective 
+challenge.” Doyle v. Ohio, 426 U.S. 610, 617 n.7 (1976). 
+
+That is plainly a danger that no court is bound to 
+tolerate. “After all, the court * * * has a vital interest 
+in protecting the trial process from the pollution of per- 
+
+
+25 
+
+
+jured testimony.” Taylor v. Illinois, 484 U.S. 400, 417 
+(1988). Thus, application of the disentitlement doctrine 
+to a civil forfeiture claimant who successfully avoids a 
+related criminal prosecution not only “encourages [his] 
+voluntary surrender{],” Ortega-Rodriguez, 113 S. Ct. at 
+1204, but also ensures that he will not use the court 
+as an instrument of further wrong. It hardly needs stating 
+that that interest is quite a bit weightier than the concern 
+with “discourag[ing] the felony of escape,” ibid., that 
+appellate courts have long invoked to support the dis- 
+entitlement doctrine. The felony of escape gravely affronts 
+the court’s dignity, but it does not make the court an 
+unwilling participant in the wrongdoing. That danger of 
+frustrating a closely related criminal case, which cannot 
+proceed to trial and judgment precisely because of the 
+fugitive’s absence, justifies the adoption of a “generally 
+applicable rule{] [of disentitlement] to cover [this] spe- 
+cific, recurring situation{].” Ortega-Rodriguez, 113 S. Ct. 
+at 1209 n.23.™ 
+
+3. Relying on United States vy. Sharpe, 470 U.S. 675 
+(1985), petitioner also contends that the fugitive dis- 
+entitlement doctrine may not be invoked when the fugitive 
+appears before the court in “a purely defensive” position. 
+Br. 17-19. That contention is doubly flawed, because (i) 
+Sharpe stands for no such proposition, and (ii) the 
+“purely defensive” label does not accurately describe the 
+role petitioner seeks to play in the district court. 
+
+The respondents in Sharpe became fugitives after the 
+Court had granted the government's petition for certiorari 
+
+"The Court need not consider in this case whether circum- 
+stances exist that would justify a court in exercising discretion 
+not to disentitle a pretrial fugitive claimant in a civil forfeiture 
+action, notwithstanding the potential for prejudicing a related 
+criminal case. The court of appeals recognized that the disentitle- 
+ment doctrine permits the exercise of discretion in individual cases, 
+Pet. App. 8a, but held that petitioner waived any such claim by 
+failing to argue that issue on appeal. /bid. 
+
+
+26 
+
+
+to review a judgment reversing their criminal convictions 
+on Fourth Amendment grounds. In ruling for the govern- 
+ment on the Fourth Amendment issue, the Court rejected 
+(470 U.S. at 681 n.2) the suggestion of two Justices that 
+the government should prevail instead on the basis of the 
+respondents’ fugitivity, i.e., that the judgment should be 
+vacated and the cause remanded for dismissal of the 
+respondents’ appeals. See id. at 688 (Blackmun, J., con- 
+curring); id. at 721-728 (Stevens, J., dissenting). Sharpe 
+makes clear that a criminal defendant cannot, by abscond- 
+ing, foreclose this Court's review of an important legal 
+issue that the Court agreed to hear on a petition filed by 
+the government. The brief discussion in Sharpe declining 
+to apply the disentitlement doctrine has little or no rele- 
+vance to the very different situation presented in this case: 
+whether a district court may rely on that doctrine to 
+prevent a defendant who has become a fugitive from call- 
+ing upon its resources in a related civil action.” 
+
+In any event, petitioner’s description of his posture as 
+“purely defensive” does not comport with the facts. Peti- 
+tioner seeks more than the opportunity to show—ie., 
+merely point out—to the district court any respect in 
+which the government has failed to meet its threshold 
+burden of establishing probable cause for the forfeiture. 
+There is no question that the government met that burden. 
+See Pet. App. 13a. He seeks instead to raise affirmative 
+claims to dispute the government’s right to the properties 
+despite its showing. In aid of that effort, he would “call 
+upon the resources of the [c]ourt” (Molinaro, 396 U.S. 
+at 366) to compel the production of documents, answers 
+
+
+? Nor does Sharpe suggest that the disentitlement doctrine will 
+not be applied “when the fugitive is responding to government 
+action.” Pet. Br. 18 (quoting United States v. $40,877.59, 32 F.8d 
+1151, 1154 (7th Cir. 1994)). The fugitives in Sharpe did not “re- 
+spond” at all in this Court; rather, the Court directed their coun- 
+sel to file an amicus curiae brief in support of the judgment. 470 
+U.S. at 681 n.2. 
+
+
+27 
+
+
+to interrogatories, or the deposition testimony of wit- 
+nesses (whether or not they were associated with the 
+government), see Fed. R. Civ. P. 26-37, all of which are 
+purely “a matter of legislative grace” (Seattle Times, 467 
+U.S. at 32) rather than constitutional right.” In our 
+view, that extensive use of the district court’s resources 
+may not fairly be labeled “purely” defensive. 
+
+
+B. Striking The Claim Of A Fugitive Claimant Does 
+Not Offend The Due Process Clause Of The Fifth 
+Amendment 
+
+
+Petitioner also contends (Br. 19-27) that the disentitle- 
+ment rule developed by appellate courts may not be 
+applied to claimants in civil forfeiture proceedings, be- 
+cause, unlike criminal defendants who have no constitu- 
+tional right to an appeal, those claimants have a due 
+Process right to be heard in their defense. That claim 
+fails because petitioner was not deprived of the con- 
+stitutional right he asserts. 
+
+1. The Due Process Clause of the Fifth Amendment 
+requires that a litigant be afforded notice and the oppor- 
+tunity for a hearing before being deprived of a property 
+interest. E.g., Mathews v. Eldridge, 424 U.S. 319, 333 
+(1976). That, “of course,” does not mean that “the 
+defendant in every civil case [must] actually have a hear- 
+ing on the merits.” Boddie v. Connecticut, 401 US. 371, 
+378 (1971) (emphasis added); accord Logan v. Zimmer- 
+
+
+S The course of litigation taken by Karyn Degen in this case 
+after petitioner’s claim was ordered struck is a fair indication of 
+the steps petitioner would likely have taken—and the resources of 
+the court he would have employed—had he not been disentitled. 
+Karyn Degen called on the court to seek a protective order to pre- 
+vent her from having to come to Nevada for her deposition (see 
+Pet. C.A. App. 540); to compel answers to extensive interroga- 
+tories (id. at 211-212, 223-231, 544): to seek (and, if necessary, 
+compe!) the depositions of nearly 20 people (id. at 541-542, 544); 
+and to move to stay civil proceedings until disposition of related 
+criminal charges (id. at 544). 
+
+
+28 
+
+
+man Brush Co., 455 U.S. 422, 437 (1992) (“Obviously, 
+nothing we have said entitles every civil litigant to a 
+hearing on the merits in every case”). Rather, all that 
+“the Constitution does require is ‘an opportunity’” for a 
+hearing. Boddie, 401 U.S. at 378 (quoting Armstrong v. 
+Manzo, 380 U.S. 545, 552 (1965)); Logan, 455 U.S. at 
+437; see also Mullane v. Central Hanover Bank & Trust 
+Co., 339 U.S. 306, 314 (1950). Thus, the government 
+“may erect reasonable procedural requirements” (Logan, 
+455 U.S. at 437) for triggering the right to be heard or 
+defend, requiring, for example, that a claim be brought, 
+or an appearance made, within a prescribed time period, 
+e.g. Boddie, 401 U.S. at 378; Windsor v. McVeigh, 93 
+U.S. 274, 278 (1876), or that reasonable filing fees be 
+paid, Logan, 455 U.S. at 437; United States v. Kras, 409 
+U.S. 434, 446-449 (1973), or that a litigant comply 
+with orders for the production of evidence, Boddie, 401 
+U.S. at 378; Hammond Packing Co. v. Arkansas, 212 
+U.S. 322, 351 (1909). 
+
+Without violating due process, a court may dismiss a 
+case, or enter default judgment, for noncompliance with 
+such rules. Logan, 455 U.S. at 437; Hammond Packing, 
+212 U.S. at 352-354; Windsor, 93 U.S. at 278. As this 
+Court has noted, “{t]he deprivation of a litigant’s right 
+to present a defense has been upheld * * * as a result 
+of the litigant’s failure to produce evidence, his violation 
+of a rule of procedure, or other action justifying a judg- 
+ment of default against him.” National Union of Marine 
+Cooks & Stewards v. Arnold, 348 U.S. at 42 n.5. A 
+requirement that a litigant submit to our country’s crimi- 
+nal jurisdiction before he may have a hearing on the 
+merits of a related civil case is not meaningfully different 
+from those procedural requirements; like those rules, it 
+rationally advances the court’s interest in orderly proce- 
+dure by imposing a requirement with which a litigant can 
+readily comply. Striking the fugitive’s claim for noncom- 
+pliance accordingly does not offend any principle of due 
+process. 
+
+
+29 
+
+
+Moreover, even if the due process issue is character- 
+ized as one of “waiver,” petitioner is wrong to contend 
+that any waiver of his rights is invalid unless it meets the 
+stringent standard of a voluntary, knowing act done with 
+sufficient awareness of the consequences. Br. 27-28 (cit- 
+ing, inter alia, Johnson v. Zerbst, 304 US. 458, 464 
+(1938)). That heightened standard of waiver need not 
+be met even for a court to conduct a valid criminal trial 
+when a defendant voluntarily absents himself after the 
+trial has begun. Taylor v. United States, 414 U.S. 17, 
+19-20 (1973) (per curiam); see United States v. Gagnon, 
+470 U.S. 522, 528-529 (1985) (per curiam). It surely 
+has no relevance to consequences visited on a claimant 
+to property in a civil case, imposed upon him by virtue 
+of his status as a fugitive who has flouted the court’s 
+authority. And this Court has never insisted, before ap- 
+plying the doctrine, on a showing that a fugitive from 
+Criminal justice had actual knowledge of the prospect of 
+disentitlement. 
+
+Petitioner also claims that the doctrine should be con- 
+fined to appeals from criminal convictions, because in 
+those cases the defendant already has had “a fair hear- 
+ing.” Br. 23-24. Appeals, however, are fundamentally 
+based on the notion that “{clourts do make mistakes.” 
+Willy v. Coastal Corp., 503 U.S. 131, 139 (1992). In 
+criminal cases, the point of an appeal is to claim that the 
+defendant stands improperly convicted; i.e., that he did 
+not have a “fair hearing.” See Evitts v. Lucey, 469 U.S. 
+387, 402 (1985); Griffin v. Illinois, 351 US. 12, 18-19 
+(1956). In upholding disentitlement in that context, the 
+Court necessarily assumes that the claims are at least 
+substantial; there would be no point to the doctrine if it 
+reached only appeals that the defendant would lose on the 
+merits. See Sharpe, 470 U.S. at 724 ( Stevens, J., dissent- 
+ing) (“Every application of the * * * rule necessarily 
+assumes that an appeal may be meritorious”). Indeed, 
+that fact highlights the implausibility of petitioner's at- 
+tempt to accord to property interests more elaborate 
+
+
+30 
+
+
+protections than the disentitlement doctrine accords to 
+liberty."* See Conforte v. Commissioner, 692 F.2d 587, 
+589-590 (9th Cir. 1982) (collecting authorities) (“the 
+rule should apply with greater force in civil cases where 
+an individual's liberty is not at stake”), stay denied, 459 
+U.S. 1309 (1983). 
+
+2. Petitioner relies (Br. 24-27) on a trio of 19th- 
+century decisions—McVeigh v. United States, 78 U.S. 
+(11 Wall.) 259 (1871), Windsor v. McVeigh, supra, 
+and Hovey v. Elliott, 167 U.S. 409 (1897)—that he be- 
+lieves establish his absolute right to a hearing at which 
+he may press the merits of his claims. Those cases do 
+not help him. 
+
+The two McVeigh cases arose from a Civil War era 
+law authorizing forfeiture of land owned by persons in 
+active rebellion who refused to cease participation in the 
+rebellion within 60 days of a presidential proclamation. 
+After the government commenced forfeiture proceedings, 
+McVeigh appeared through counsel and filed a claim and 
+answer. 78 U.S. at 261. The government moved to strike 
+his pleadings, because it appeared from McVeigh’s an- 
+swer that he was “a resident of the city of Richmond, 
+within the Confederate lines, and a rebel.” Jbid. The 
+court granted the motion, and, in the absence of any 
+claim and answer, the government won a default judg- 
+ment. This Court reversed, holding that, while an alien 
+enemy might be barred from bringing suit in the courts 
+of a hostile country, he nonetheless had a right to pre- 
+
+
+‘The different nature of the rights implicated by civil and 
+criminal trials also disposes of petitioner’s claim that “the govern- 
+ment would never pretend that * * * it could ‘disentitle’” him by 
+seeking a default judgment in the criminal case. Br. 23. The Sixth 
+Amendment, which applies in criminal cases only, requires a jury 
+trial absent a valid personal waiver. See, ¢.g., Sullivan v. Louisiana, 
+113 S. Ct. 2078, 2080 (1993); Brookhart v. Janis, 384 U.S. 1, 7-8 
+(1966). The Due Process Clause, by contrast, guarantees only an 
+“opportunity” for a hearing; as we have noted, petitioner was 
+afforded that opportunity. 
+
+
+31 
+
+
+sent a defense when sued in federal court. Jd. at 267. 
+Five years later in Windsor v. McVeigh, supra, the Court 
+reaffirmed that the original forfeiture of property in 
+McVeigh v. United States was void because the court had 
+not permitted the claimant any opportunity to be heard. 
+
+Neither of the McVeigh cases establishes an absolute 
+“right to defend” irrespective of a party’s compliance with 
+reasonable rules of court. There was no allegation in 
+those cases that the claimant had indicated his intention 
+to appear on his own terms, or that the court’s ability to 
+function fairly and efficiently had been impaired in any 
+respect by acts or omissions over which he could fairly 
+be deemed to have control.” Indeed, the Court explicitly 
+recognized that due process entitled the claimant only to 
+“an opportunity to be heard,” Windsor, 93 U.S. at 280 
+(emphasis added), that the right to defend could be sub- 
+ject to reasonable procedural restrictions, id. at 278, and 
+that, upon failure to comply with those procedures, “the 
+default of * * * possible claimants of the property, may, 
+of course, be entered, and the allegations of the libel be 
+taken as true,” ibid. 
+
+Hovey v. Elliott involved a collateral attack in the 
+New York state courts on a default judgment that had 
+been entered in the District of Columbia courts. In the 
+
+
+™ There was no indication that the court had any objection to 
+McVeigh’s appearance through counsel. If the court had insisted 
+on MeVeigh’s personal appearance, and struck his claims upon his 
+failure to do so, that action would have provoked “substantial con- 
+stitutional questions” (Societe Internationale, 357 U.S. at 210), 
+but only because it would have been effectively impossible for 
+him to comply. Cf. Hicks v. Feiock, 485 U.S. 624, 638 n.9 (1988) ; 
+United States v. Rylander, 460 U.S. 752, 757 (1988). As this Court 
+has recognized, both belligerents in that conflict forbade their 
+citizens to travel to (or have any contact with) the other belliger- 
+ent. Lasere Vv. Rochereau, 84 U.S. (17 Wall.) 487, 439 (1878): 
+Dean Vv. Nelson, 77 U.S. (10 Wall.) 158, 172 (1870) (“The de- 
+fendants in the proceedings * * * were within the Confederate 
+lines at the time, and it was unlawful for them to cross those 
+lines’). 
+
+
+32 
+
+
+earlier case, the defendants had failed to comply with a 
+court order that they pay certain funds into the registry 
+of the court. 167 U.S. at 411. The court issued an 
+order to show cause why they should not be “punished 
+as for a contempt of court” (ibid.) for their failure to 
+comply. When the defendants again failed to pay over 
+the funds to the court, the court struck their answer from 
+the record and entered a default judgment against them. 
+
+
+years after Hovey, the Court “substantially modified” 
+(Societe Internationale, 357 U.S. at 209) its holding in 
+Hammond Packing Co. v. Arkansas, supra.” In an action 
+under state antitrust law, the defendant in Hammond 
+Packing refused to produce documents and witnesses be- 
+fore a commissioner as ordered by a state court. The 
+court then struck the defendant’s answer for noncompli- 
+ance with its order, as authorized by state law, and 
+entered a default judgment against it. 212 US. at 339- 
+340 & n.1. Speaking again through Justice White, this 
+Court concluded that Hovey was not controlling and af- 
+firmed the judgment. The Court noted that “{t)he ruling 
+in Hovey v. Elliott was that to punish for contempt by 
+striking an answer from the files and condemning, as 
+
+
+See also HMG Property Investors, Inc. v. Parque Industrial 
+Rio Canas, Inc., 847 F.2d 908, 918 n.14 (1st Cir. 1988) (“Hovey 
+was expressly limited by the decision in [Hammond Packing) and 
+impliedly limited by * * * the Court's more modern pronounce- 
+ments”); G-K Properties v. Redevelopment Agency of City of San 
+Jose, 577 F.2d 645, 648 (9th Cir. 1978) (Kennedy, J.) (same) : 
+Norman v. Young, 422 F.2d 470, 473 (10th Cir. 1970) (same). 
+
+
+33 
+
+
+S. at 414-417 ( ble 
+
+alibi witness in criminal case, when it is “reasonable to 
+presume” that defeidant’s failure to comply with notice- 
+of-alibi rule “conceal{s] a plan to present fabricated testi- 
+mony”); Baxter v. Palmigiano, 425 U.S. 308. 317-319 
+
+
+This Court’s cases since Hammond Packing \eave no 
+doubt that it is perfectly consistent with due process to 
+impose “litigation ending” sanctions when, as petitione 
+did through his fugitivity, a party has manifested his 
+
+
+("When ‘there is a refusal to supply information on any 
+topic * * ” it is reasonable to apply the presumption to 
+
+
+U.S. at 351; see also Ali v. Sims, 788 F.2d 954, 959 
+(3d Cir. 1986) (noting that cases upholding default judg- 
+ments as a discovery sanction “generally entail conduct 
+
+
+defenses, and an “innocent 
+owner” claim in addition. Compare J.A. 31-32 and Pet. 
+C.A. App. 136-140 (petitioner’s amended answer) with 
+Pet. C.A. App. 404-410 (Karyn Degen’s answer) and 
+id. at 130-134 (amended answer). Although she was 
+given a “full and fair opportunity to litigate” (Montana 
+v. United States, 440 US. 147, 153 (1979)) those 
+claims, was afforded numerous extensions of time to do 
+so (Pet. App. 13a-14a), and was warned of the conse- 
+quences of default (id. at 9a-10a), she failed to support 
+them. That failure not only raises considerable doubt 
+about the merits of those arguments, but also resulted 
+in the entry of a judgment against her that was affirmed 
+by the court of appeals, and that became final when she 
+failed to seek further review in this Court. Under ordi- 
+nary principles of claim preclusion, that final judgment 
+binds her and her privies, see, ¢.g., Morris v. Jones, 329 
+U.S. 545, 550-551 (1947); Riehle v. Margolies, 279 
+U.S. 218, 225 (1929); Last Chance Mining Co. v. Tyler 
+Mining Co., 157 U.S. 683, 691 (1895): SMA Life Assur- 
+ance Co. Vv. Sanchez-Pica, 960 F.2d 274, 275 (1st Cir.), 
+cert. denied, 506 U.S. 872 (1992), of which petitioner 
+
+
+'? Petitioner has lodged a copy of that transcript with the Clerk 
+of the Court. 
+
+
+i 
+: 
+: 
+
+
+Northwest Airlines, Inc., 56 F.3d 984, 940 (8th Cir. 1995) ; Conte 
+Vv. Justice, 996 F.2d 1398, 1402 (2d Cir. 1998) (New York law) ; 
+1488, Inc, V. Philsee Inv. Corp., 989 F.2d 1281, 1290 (5th Cir. 
+1991); Alpert’s Newspaper Delivery, Inc. v. New York Times Co., 
+876 F.2d 266, 270 (2d Cir. 1989); see also Smith, 254 F.2d at 869 
+(collateral estoppel ) . 
+
+
+“In any event, petitioner's stated defenses rest on erroneous 
+legal premises. His claim that the forfeitures are barred by the 
+statute of limitations is based on the view that the date when the 
+property was acquired controls (Br. 31); the limitations period 
+runs instead from the discovery of the offense that gives rise to 
+the forfeiture. See 19 U.S.C. 1621; United States v. Premises 
+Known as 318 S. Third St., 988 F.2d 822, 825-826 (8th Cir. 1998). 
+His argument that “the government's complaint is premised on a 
+retroactive application of” the forfeiture laws (Br. 32) also is 
+based on the assumption that the date when the property was ac- 
+quired, rather than the date when its illegal use occurred, is con- 
+trolling. The evidence relied on by the government shows that 
+petitioner’s participation in the smuggling enterprise continued 
+well past the effective dates of both 21 U.S.C. 881(a) (6) (Novem- 
+ber 10, 1978) and 881(a)(7) (October 12, 1984). See J.A. 108- 
+114, 138, 160-161. Moreover, the retroactive application of those 
+provisions would not violate the Ex Post Facto Clause. See 1 David 
+B. Smith, Prosecution and Defense of Forfeiture Cases © 4.08/ 4) 
+(f|, at 4-120.14 (1995); see also Ron Champoux, Real Property 
+Forfeiture Under Federal Drug Laws: Does the Punishment Out- 
+weigh the Crime?, 20 Hastings Const. L.Q. 247, 251 n.38 (1992). 
+
+
+‘\ 
+
+
+™ 
+
+
+36 
+
+
+Il. THE DISTRICT COURT PROPERLY CONCLUDED 
+THAT PETITIONER WAS A FUGITIVE FROM 
+CRIMINAL JUSTICE 
+
+
+Petiti argues (Br. 34-41) in the alternative tha 
+the district court erred in concluding that he was a “fugi- 
+tive.” Petitioner argues that his refusal to return to this 
+
+
+him a fugitive either under “the ordinary meaning of 
+* * * the word ‘fugitive’” or “the conventional legal 
+concept of ‘fugitive from justice’ as developed in several 
+
+
+or, at least, when his refusal to appear for his criminal 
+trial amounts to a separate criminal offense. Those con- 
+tentions are incorrect. 
+
+1. The dictionary definition of fugitive does not, con- 
+trary to petitioner’s claim (Br. 9, 37), require a showing 
+that a person left the United States with the specific in- 
+tent of avoiding prosecution. While that sort of conduct 
+doubtless is included within the ordinary understanding 
+of fugitivity, that common understanding also encom- 
+passes anyone who is absent from the jurisdiction in 
+which he is wanted, especially if he has knowledge that 
+criminal charges have been lodged against him. See, e.g., 
+Webster's Third New International Dictionary 918 (1986) 
+(def. Ib: “fugitive” is “one who tries to elude justice”); 
+ibid. (“fugitive from justice: one who having committed 
+or being accused of a crime in one jurisdiction is absent 
+for any reason from that jurisdiction; specif: one who 
+flees to avoid punishment”); 1 Samuel Johnson, A Dic- 
+tionary of the English Language (1755) (“fugitive” in- 
+cludes “{o}ne who takes shelter under another power from 
+punishment” ). 
+
+Nor is petitioner’s view required as a matter of “logic{]” 
+(Br. 37), since it is hardly obvious that there is a “logical 
+distinction between the person who leaves to avoid prose- 
+
+
+37 
+
+
+cution and the person who, once gone, refuses to return 
+for the same reason, to avoid prosecution.” United States 
+Vv. Spillane, 913 F.2d 1079, 1081 (4th Cir. 1990 );~see 
+also Jhirad v. Ferrandina, 536 F.2d 478, 483 (2d Cir.) 
+(same), cert. denied, 429 U.S. 833 (1976). Indeed, peti- 
+tioner himself conceded before the Ninth Circuit panel 
+that the district court “properly” found him to be a fugi- 
+tive—a concession that strongly undermines his current 
+one (Br. 37) as a matter of language and logic.” 
+Petitioner's position also lacks support in other 
+
+
+ad 
+e 
+! 
+a 
+é 
+
+
+i 
+FE 
+: 
+
+
+il. 
+Soo 
+7 
+: 
+i 
+
+
+i 
+
+iF 
+i 
+fy 
+
+
+“fugitive[s] justice” for prosecu- 
+U.S.C. 3182 (formerly codified at 18 U.S.C. 
+and Rev. Stat. § 5278 (1878)); see gen- 
+Puerto Rico v. Branstad, 483 U.S. 219, 223 n.2 
+); South Carolina v. Bailey, 289 U.S. 412, 419 
+
+
+28 
+: 
+
+
+l 
+
+
+‘oO 
+
+
+87 
+
+
+-“-o-~ 
+
+
+» Petitioner’s appeal to the Ninth Circuit was predicated solely 
+on the basis that, as a result of his arrest by Swiss authorities 
+years after the district court’s order, he was effectively “imprisoned 
+in the related criminal case and [therefore] [wa]s no longer a 
+fugitive for purposes of disentitlement.” Brief of the Appellants 
+at 30, United States v. Real Property Located at Incline Village, 
+No. 98-16996 (9th Cir.) (emphasis added). At oral argument be- 
+fore the court of appeals, petitioner’s counsel stated : 
+
+
+Brian Degen is a resident of Switzerland. When the criminal 
+complaint was filed he decided not to return [to the United 
+States}. After the complaint was filed and the answer, the 
+government moved for summary judgment on the fugitive 
+disentitlement doctrine. And the [district] court found—and 
+I think properly so—that because [Degen] had failed to re- 
+turn, he was a fugitive. 
+
+
+(Emphasis added). We have lodged a copy of a tape of the oral 
+argument with the Clerk of the Court. 
+
+
+38 
+
+
+(1933). In construing those provisions, this Court has 
+time and again embraced a concept of fugitivity at odds 
+with that advocated by petitioner: 
+
+
+To be regarded as a fugitive from justice it is not 
+necessary that one shall have left the State in which 
+the crime is alleged to have been committed for the 
+very purpose of avoiding prosecution, but simply that, 
+having committed there * * * a crime, he afterwards 
+has departed from its jurisdiction and when sought 
+to be prosecuted is found within the territory of 
+another State. 
+
+
+Hogan v. O'Neill, 255 U.S. 52, 56 (1921) ‘construing 
+Rev. Stat. § 5278); accord Biddinger v. Commissioner 
+of Police, 245 U.S. 128, 133 (1917) (“ori who leaves 
+the demanding State before prosecution is anticipated or 
+begun, or without knowledge on his part that he has 
+violated any law, * * * is nevertheless decided to be a 
+fugitive from justice within” the meaning of Art. IV, § 2, 
+Cl. 2, and former Revised Statutes § 5278); Strassheim 
+v. Daily, 221 U.S. 280, 285 (1911) (“all that is neces- 
+Sary to convert a criminal * * * into a fugitive from 
+justice is that he should have left the State after having 
+incurred guilt there”); Appleyard v. Massachusetts, 203 
+U.S. 222 (1906) (collecting authorities); Roberts v. 
+Reilly, 116 U.S. 80, 97 (1885).™ 
+
+
+2! Relatedly, the President has exercised his treaty power (see 
+U.S. Const. Art. II, §2, Cl. 2) to enter into extradition treaties 
+with foreign nations. See, ¢.g., 18 U.S.C. 3181 note (listing of 
+bilateral extradition treaties entered into by the United States). 
+Our extradition treaties generally do not distinguish between per- 
+sons who left the United States with the intent to avoid prosecution, 
+and those who left for legitimate reasons but refuse to returr. to 
+face criminal charges. The coverage of both classes implicitly recog- 
+nizes that an absent defendant’s intent in leaving the country is not 
+relevant to the societal interest that he return and face justice for 
+crimes committed here. See 2 M. Cherif Bassiouni, /nternational 
+Extradition: United States Law & Practice 520 (2d ed. 1987) 
+(“The term ‘fugitive’ as used in extradition treaties refers to any 
+
+
+39 
+
+
+b. Similarly, the weight of authority under 18 U.S.C. 
+3290, the statute that tolls the limitations period as to 
+“any person fleeing from justice,” does not, as petitioner 
+believes, support the narrow definition of fugitivity that 
+he proposes. See Br. 38-39 (arguing that petitioner’s con- 
+duct was “sufficiently innocent” that it would not trigger 
+Section 3290's tolling provision). Petitioner asserts that 
+in Streep v. United States, 160 U.S. 128, 133 (1895), 
+this Court “suggested” that a predecessor statute “required 
+a showing of ‘flight with the intention of avoiding being 
+prosecuted.’” Br. 38 (emphasis added). The Court ac- 
+tually stated in Streep, however, that while it was “unnec- 
+essary * * * to undertake to give an exhaustive defini- 
+tion” to the phrase “fleeing from justice,” it was “sufficient 
+that there [be] a flight with the intention of avoiding 
+being prosecuted, whether a prosecution has or has not 
+been actually begun.” 160 U.S. at 133 (emphasis added). 
+
+The Court in Streep went on to note that 
+
+
+there can be no doubt that, in this respect, section 
+1045 of the Revised Statutes [the tolling statute] must 
+receive the same construction that has been given to 
+section 5278 [the interstate extradition statute] by 
+this court, saying: “To be a fugitive from justice, 
+* * * it is not necessary that the party charged should 
+have left the State * * * after an indictment found, 
+or for the purpose of avoiding a prosecution antici- 
+pated or begun, but simply that having within a State 
+committed that which by its laws constitutes a crime, 
+when he is sought * * * to answer for his offense, he 
+has left its jurisdiction and is found within the terri- 
+fa = ~ roped Roberts v. Reilly, 116 U.S. 80, 97 
+
+
+160 U.S. at 134 (emphasis added). The courts of ap- 
+peals have differed on the issue whether Streep means 
+that the statute of limitations may be tolled without any 
+
+
+person who has left the state in which the alleged crime was 
+committed for whatever reason’). 
+
+
+40 
+
+
+showing that the defendant ever entertained an intent to 
+avoid prosecution (i.e., under a “mere absence” test), 
+and most courts of appeals have required that the gov- 
+ernment establish that the defendant intended to avoid 
+prosecution. Petitioner errs, however, when he suggests 
+that “[a] majority of the circuits” (Br. 38-39, citing cases 
+from the First, Fifth, and Seventh Circuits) has endorsed 
+his restrictive view that the requisite intent must be shown 
+to have existed as a motivating force at the time he 
+departed, rather than at any time during which he was 
+absent from, the jurisdiction. So far as we can determine, 
+every court of appeals would reject petitioner’s claim that, 
+as a matter of law, he could not be found to be “fleeing 
+from justice” under Section 3290 on proof of his absence 
+from the jurisdiction coupled with his refusal to surrender 
+to face criminal charges.” 
+
+
+Two circuits (the Eighth and District of Columbia Circuits) 
+merely require a showing that the fugitive resides in another 
+jurisdiction than that in which the crime took place. See /n re 
+Assarsson, 687 F.2d 1157, 1162 (8th Cir. 1982); Green v. United 
+States, 188 F.2d 48 (D.C. Cir.), cert. denied, 341 U.S. 955 (1951) ; 
+see also United States v. Singleton, 702 F.2d 1159, 1169 n.82 (D.C. 
+Cir. 1983) (noting circuit precedent and reserving question whether 
+“mere absence” rule retains vitality). Two others (the Second and 
+Ninth Circuits) apply the tolling provision to persons who, like 
+petitioner, purportedly leave the United States for some legitimate 
+purpose, but who remain abroad in an effort to thwart prosecution. 
+See United States v. Fowlie, 24 F.8d 1070, 1072 (9th Cir. 1994) 
+(defendant lived openly and notoriously in Mexico), cert. denied, 
+115 S. Ct. 742 (1995) ; id. at 1073 (Farris, J., concurring) (defend- 
+ant “knew he was wanted by the authorities and intentionally 
+thwarted arrest by remaining abroad”); United States v. Catino, 
+735 F.2d 718, 722-723 (2d Cir.) (defendant contested extradition 
+instead of consenting to return to the United States), cert. denied, 
+469 U.S. 855 (1984). The Tenth and Eleventh Circuits have indi- 
+cated their agreement with that position. See United States v. 
+Morgan, 922 F.2d 1495, 1499 n.8 (10th Cir.) (dictum) (noting that 
+defendant’s knowledge that he is wanted, coupled with failure to 
+submit to arrest, “is enough”) (citing United States v. Wazney, 
+529 F.2d 1287, 1289 (9th Cir. 1976)), cert. denied, 501 U.S. 1207 
+
+
+41 
+
+
+c. Finally, petitioner relies (Br. 38) on 18 U.S.C. 
+1073, which makes it a crime to travel in interstate 
+commerce intending “to avoid prosecution, or custody 
+or confinement after conviction.” Petitioner, however, 
+offers no reason that would justify transposing the specific 
+elements of that crime to the present context. Section 
+1073 is part of chapter 49 of Title 18, which is entitled 
+“Fugitives From Justice.” The first section of that chapter 
+makes it a crime knowingly to “harbor{] or conceal[] any 
+person for whose arrest a warrant or process has been 
+issued under the provisions of any law of the United 
+States, so as to prevent his discovery and arrest.” 18 
+U.S.C. 1071. Thus, while the provision on which peti- 
+tioner relies deals with one facet of the fugitivity problem, 
+the legislative framework to which that provision belongs 
+also manifests the understanding that one harbors a “Fugi- 
+tive[] From Justice” by giving refuge to a person for 
+whom criminal process has been issued and who has not 
+
+
+(1991) ; Schuster v. United States, 765 F.2d 1047, 1050 (11th Cir. 
+1985) (citing Second Circuit’s rule under Section 3290 in affirming 
+application of disentitlement rule in civil tax case; “whatever 
+[petitioner’s] intent may have been when she left the United States, 
+she has certainly since established her status as a fugitive from 
+this nation’s criminal process, particularly as of the moment she 
+chose to resist extradition”). 
+
+Moreover, the First and Fifth Circuit cases that petitioner cites 
+at best are ambiguous on the point. See Brouse v. United States, 
+68 F.2d 294, 296 (1st Cir. 1933); Donnell v. United States, 229 
+F.2d 560, 565 (5th Cir. 1956) (relying on Brouse to conclude that 
+“the purpose and intent of [the defendant’s] absence is * * * to be 
+inquired into by the jury”) (emphasis added); see also Jhirad, 
+536 F.2d at 483 (relying on Donnell’s emphasis on the reasons for 
+the defendant’s “absence” to hold that no “meaningful distinction 
+exists between those who leave their native country and those who, 
+already outside, decline to return”). In any event, the Seventh 
+Circuit, which according to petitioner (Br. 38) follows the same 
+rule as those two circuits, would infer the requisite intent “where 
+the defendant fails to surrender to authorities after learning of 
+the charges against him.” United States v. Marshall, 856 F.2d 
+896, 900 (1988) (collecting authorities). 
+
+
+42 
+
+
+surrendered; a person, in short, who occupies the same 
+position as petitioner. See also Black’s Law Dictionary 
+671 (6th ed. 1990).™ 
+
+3. Not only do the sources cited by petitioner fail 
+to support his narrow concept of fugitivity, but his argu- 
+ment also misses the central issue: whether application of 
+the fugitive disentitlement doctrine in a civil forfeiture 
+action to one in petitioner’s position furthers the equitable 
+goals of that doctrine. The answer to that question does 
+not turn on whether petitioner is guilty of “[bJail-jumping, 
+escape from custody,” or other actions that are inde- 
+pendently proscribed by the penal laws (Br. 39), since 
+“one’s misconduct need not necessarily have been of such 
+a nature as to be punishable as a crime” before it may 
+be noticed by a court of equity. Precision Instrument 
+Mfg. Co. Vv. Automotive Maintenance Machinery Co., 
+324 U.S. 806, 815 (1945). Nor is it dispositive that 
+“this Court has approved disentitlement only against per- 
+sons who have already been convicted of crimes.” Br. 
+35. Because the doctrine initially developed as a rule of 
+criminal appellate practice, which necessarily presupposes 
+
+
+23 Petitioner also argues (Br. 37) that, for purposes of the Gun 
+Control Act of 1968, Congress specifically defined the phrase “fugi- 
+tive from justice” narrowly. See 18 U.S.C. 921(a) (15). That defi- 
+nition of fugitivity, however, could reasonably be taken to reflect 
+Congress’s intent to depart from the meaning that courts would 
+otherwise give to the concept as a matter of plain language and 
+ordinary legal usage. In any event, the Gun Control] Act’s provi- 
+sions do not throw much light on the precise scope of the fugitivity 
+concept, because there is a division of authority on the meaning of 
+the Act’s provisions with respect to the very point urged by peti- 
+tioner. Compare United States v. Durcan, 539 F.2d 29, 32 (9th 
+Cir. 1976) (relied on by petitioner, Br. 37) with Spillane, 913 
+F.2d at 1081 (expressly disagreeing with Durcan; the defendant 
+“purposefully stayed away from [the jurisdiction] to avoid fac- 
+ing the charges pending against him * * * [and] this alone is 
+enough to support the assertion by the government that [he] [i]s 
+a ‘fugitive from justice’ as defined by the statute’). 
+
+
+43 
+
+
+an underlying criminal conviction, petitioner’s observa- 
+tion amounts more to a description of the facts of this 
+Court’s cases than a reasoned argument for limiting the 
+doctrine to that context. 
+
+The definition of fugitive status for the disentitlement 
+doctrine must instead be informed by the purposes of that 
+doctrine. Here, as the district court found, petitioner 
+“knows that he is wanted by the police, but refuses to 
+submit to arrest, even though he professes his innocence.” 
+Pet. App. 18a. He nonetheless seeks to litigate in ab- 
+stentia his claims in the related civil forfeiture action, a 
+course of action that will predictably interfere with the 
+orderly conduct of the civil litigation, while bidding fair 
+to frustrate the government’s interests in prosecuting him. 
+Accordingly, as we have explained, the goals of the fugi- 
+tive disentitlement doctrine are compellingly served by 
+applying it in this case.* 
+
+
+Ill. PETITIONER’S CLAIMS THAT HE HAS CEASED 
+BEING A FUGITIVE AND THAT THE GOVERN- 
+MENT’S “UNCLEAN HANDS” PRECLUDE DISEN- 
+TITLEMENT DO NOT WARRANT RELIEF 
+
+
+Petitioner raises two additional claims that he contends 
+warrant vacatur of the court of appeals’ judgment. First, 
+he contends (Br. 42-43) that by the time the district 
+court entered its judgment, he was no longer a fugitive 
+because he had by then been arrested by Swiss authorities 
+in connection with a prosecution that the United States 
+encouraged and that rests mainly on the allegations made 
+
+
+* Petitioner argues (Br. 40-41) that, if the Court accepts his 
+claim that he must be shown to have intended to avoid prosecution 
+at the time he left for Switzerland, the government should not be 
+allowed an opportunity to meet that standard on remand. The 
+Court’s practice when legal error has been committed, however, is 
+to remand for application of the correct standard, see Anderson 
+v. Liberty Lobby, Inc., 477 U.S. 242, 257 (1986) ; see also Schlagen- 
+hauf v. Holder, 379 U.S. 104, 111-112 (1964). 
+
+
+44 
+
+
+in the federal criminal indictment. Second, he argues 
+(Br. 46-49) that the government misrepresented to the 
+district court and the court of appeals the true nature 
+of the Swiss proceedings, and that the government’s “un- 
+clean hands” preclude application of the disentitlement 
+doctrine to him. As we read his reply brief at the petition 
+stage, petitioner expressly disclaimed even “mak[ing]” the 
+former argument in his petition (Reply Br. 8); the latter 
+claim appeared for the first time in his opening brief on 
+the merits. Those arguments therefore are not properly 
+before the Court. In any event, they lack merit. 
+
+1. The district court initially ruled that petitioner was 
+a fugitive for purposes of the disentitlement doctrine in 
+December 1990. Pet. App. 17a. That ruling constituted 
+law of the case in the absence of “changed circumstances 
+or unforeseen issues not previously litigated,” Wyoming 
+v. Oklahoma, 502 U.S. 437, 446 (1992) (quoting Ari- 
+zona V. California, 460 U.S. 605, 619 (1983)), or until 
+revised upon a showing that it “was ‘clearly erroneous and 
+would work a manifest injustice,” Christianson vy. Colt 
+Industries Operating Corp., 486 U.S. 800, 817 (1988) 
+(quoting Arizona, 460 U.S. at 618 n.8). Having ruled on 
+the issue, the district court was entitled to consider the 
+matter settled unless and until petitioner sought relief 
+from that ruling and established “one of the * * * rec- 
+ognized exceptions to the law of the case doctrine.” Shore 
+Vv. Warden, 942 F.2d 1117, 1123 (7th Cir. 1991), cert. 
+denied, 504 U.S. 922 (1992); accord Merritt v. Mackey, 
+932 F.2d 1317, 1322 (9th Cir. 1991); Branning v. United 
+States, 784 F.2d 361, 363 (Fed. Cir. 1986); see also 
+Jeffries v. Wood, 75 F.3d 491, 493 (9th Cir. 1996) 
+(collecting authorities); United States v. Sanchez, 35 F.3d 
+673, 677 (2d Cir. 1994), cert. denied, 115 S. Ct. 1404 
+(1995). 
+
+Petitioner did not attempt to do so. Although he was 
+arrested by the Swiss some seven months before the entry 
+of judgment in the district court, see Pet. App. 30a, 
+
+
+45 
+
+
+32a-37a, and his counsel had attended proceedings con- 
+ducted by a Swiss magistrate in Reno, see transcript of 
+hearing held 9/13/93, attached to Pet. C.A. Mot. to 
+Supplement Rec. (filed Dec. 9, 1994), petitioner never 
+sought to have the district court reconsider its disentitle- 
+ment ruling. Petitioner does not allege that the govern- 
+ment or the court did anything that affirmatively pre- 
+vented him from making that request. Indeed, his counsel 
+raised claims concerning the impact of the Swiss arrest on 
+discovery issues relating to Karyn Degen. See 2/1/93 Tr. 
+7-9, 39-44. And petitioner has never suggested, even to 
+this day, that were he released from Swiss custody, he 
+would give up his fugitive status and travel to this country 
+to meet the criminal charges against him, or that he has 
+made a good-faith effort to do so. On that record, the 
+court of appeals correctly concluded (Pet. App. 6a-7a) 
+that petitioner forfeited any claim he might have had to 
+show that his fugitive status ceased upon his arrest in 
+Switzerland.” 
+
+2. We have acknowledged that, before the lower 
+courts, the government’s briefs did not appropriately set 
+
+
+* Petitioner argues that this Court should entertain his claim 
+that he is, in effect, a recaptured fugitive, because the government 
+has informed this Court that petitioner “was taken into the custody 
+of Swiss authorities who were acting at the behest of U.S. prosecu- 
+tors.” Pet. Br. 42-43 & n.24; see also U.S. Br. in Opp. 15 n.9 
+(acknowledging the authenticity of two Department of Justice let- 
+ters now attached to petitioner’s brief at App. la-4a). The fact 
+remains, however, that petitioner never gave the district court any 
+opportunity to assess the legal significance of his Swiss arrest. See 
+Pet. App. 6a (noting that, even on appeal, petitioner “never prof- 
+fered any * * * argument explaining the import” of the letters he 
+cited). And because recapture does not invariably preclude disen- 
+titlement, see Ortega-Rodriguez, 113 S. Ct. at 1204, the significance 
+of recapture would present in the first instance a question of policy 
+for the court whose processes petitioner flouted. This Court would 
+then review that determination only for “reasonableness.” Jd. at 
+1205-1206 & n.15. Petitioner's default in the lower courts is 
+therefore fatal to his claim to former fugitive status. 
+
+
+46 
+
+
+forth the full factual background of the government's role 
+in urging Swiss authorities to prosecute petitioner.” For 
+two reasons, we disagree with petitioner’s contention that 
+our acknowledgement warrants vacatur of the judgment 
+under the “unclean hands” doctrine. First, we do not 
+believe that the government's misstatements below re- 
+sulted in the judgments entered in the lower courts, Peti- 
+tioner’s own failure to raise the issue in the district court, 
+which did not flow from any conduct by the government, 
+was the direct cause of the court of appeals’ refusal to 
+consider it. Compare Bank of Nova Scotia, 487 U.S. at 
+254-256; United States v. Payner, 447 U.S. 727, 736 
+(1980). 
+
+Second, and more important, the “unclean hands” doc- 
+trine “does not mean that courts must always permit a 
+defendant wrongdoer to retain the profits of his wrong- 
+doing merely because the plaintiff himself is possibly 
+
+
+26 In our brief in opposition to the petition for a writ of certiorari 
+(at 17 n.11), we noted that “[s]ome statements in the government's 
+brief [in the court of appeals] incorrectly suggested that the 
+Department of Justice played no part at all in instigating the Swiss 
+prosecution, when in fact the Department did request that Swiss 
+authorities prosecute petitioner in Switzerland for the same conduct 
+that underlay his indictment in the United States.” We indicated 
+that “the Swiss government has, in fact, undertaken a prosecution 
+of petitioner, at the request of the United States and based princi- 
+pally on the conduct that formed the basis for the U.S. indictment.” 
+Id. at 16-17. We also stated, however, that the government's counsel! 
+at oral argument had apprised the court of appeals that the United 
+States “encouraged” the Swiss prosecution and had sent Swiss 
+authorities a copy of the U.S. indictment (id. at 17 n.11), and 
+that that court had “properly resolved the Swiss prosecution issue 
+against petitioner on the basis of his failure to develop an adequate 
+record for examination of the issue.” Jbid. In our view, the oral 
+argument apprised the panel that the United States had asked the 
+Swiss government to prosecute Degen, and that, in the government's 
+view, the Swiss prosecution constituted an action within the discre- 
+tion of a foreign sovereign, rather than (as petitioner alleged) a 
+prosecution effectively conducted by the United States itself “under 
+Swiss procedure” (Brief of the Appellants at 32). 
+
+
+47 
+
+
+guilty” of some transgression relating to “the transactions 
+involved.” Johnson v. Yellow Cab Transit Co., 321 US. 
+383, 387 (1944). In particular, a court “should not 
+
+
+leaving two wrongs unremedied and increasing the injury 
+to the public.” Republic Molding Corp. v. B.W. Photo 
+Utilities, 319 F.2d 347, 350 (9th Cir. 1963). That prin- 
+ciple applies with great force here, because the disentitle- 
+
+
+re Prevot, 59 F.3d 556, 566 (6th Cir. 1995), cert. de- 
+nied, No. 95-7343 (Mar. 4, 1996). Indeed, as we have 
+argued, when applied to fugitives who have successfully 
+avoided trial, it is a doctrine that safeguards the court's 
+interest in ensuring that the discovery processes available 
+
+
+which can effectively be addressed in other ways when 
+it occurs, see United States v. Hasting, 461 U.S. 499, 506 
+n.5 (1983); Bank of Nova Scotia, 487 U.S. at 263, pro- 
+vides no persuasive basis for disregarding the strong pub- 
+lic interests in the application of the disentitlement 
+
+
+its 
+
+
+2? The cases on which petitioner relies (Br. 44-45) principally 
+involved courts’ refusal to entertain patent infringement suits when 
+the plaintiffs obtained the patents (or expanded their scope) through 
+fraud. In none of those cases was a malefactor permitted to benefit 
+from his inequitable actions merely to offset another litigant’s 
+wrongful conduct, and none refused to apply a doctrine developed 
+for the court’s benefit merely because it would benefit a litigant 
+with purportedly unclean hands. Indeed, the courts’ invocation of 
+the “unclean hands” doctrine served the public interest by prevent- 
+ing a party who had obtained a patent through fraud from employ- 
+ing the monopoly power it conferred to the public’s detriment. 
+
+
+MARCH 1996 
+
+
+@ 6. 6. COVEREEENT PereTine orrice, te0e 408017 40082 
+
+

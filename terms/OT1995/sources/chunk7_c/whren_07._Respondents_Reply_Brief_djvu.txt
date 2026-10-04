@@ -1,0 +1,2047 @@
+Supreme Court, U.S. 
+FiLts&D 
+
+
+| 
+
+
+waR 15 196 
+
+
+No. 95-5841 
+
+
+Jn the Supreme Court of the Gnited States 
+
+
+OCTOBER TERM, 1995 
+
+
+MICHAEL A. WHREN, ANDJAMES L. BROWN, 
+PETITIONERS 
+
+
+v. 
+UNITED STATES OF AMERICA 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE DISTRICT OF COLUMRIA CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+DrReEw S. Days, III 
+Solicitor General 
+JOHN C. KEENEY 
+Acting Assistant Attorney 
+General 
+MICHAEL R. DREEBEN 
+Deputy Solicitor General 
+PAUL A. ENGELMAYER 
+Assistant to the Solicitor 
+General 
+THOMAS M. GANNON 
+Attorney 
+Department of Justice 
+Washington, D.C. 20530 
+
+
+(202) 514-2217 
+
+
+QUESTION PRESENTED 
+
+
+Whet her the stop of petitioners’ vehicls 
+
+
+officers observed the driver commit traffic 
+
+
+violated the Fourth Amendment 
+
+
+TABLE OF CONTENTS 
+
+
+The Fourth Amendment permits a police officer 
+who witnesses a traffic violation to stop the 
+rT 10 
+
+
+A. The validity of a Fourth Amendment Intrusion 
+is properly judged against an objective stan- 
+dard of reasonablenesss, and where a search 
+or seizure is supported by probable cause or 
+reasonable suspicion, there is no basis for in- 
+quiring whether the decision to undertake 
+the search conformed to internal police 
+
+
+B. A traffic stop based on an observed violation 
+need not conform to standard police practice 
+to satisfy the Fourth Amendment .................... 21 
+
+
+C. There is no need for a heightened Fourth 
+Amendment standard of justification in cases 
+involving traffic Stops ...............0.ccccccccceeeeeeeeeees 25 
+
+
+D. A standard that turns on whether a reasonable 
+officer “would have” made the traffic stop 
+nett seteinctesstnncscsccenees 29 
+E. The stop of petitioners’ automobile was law- 
+ful, and the search was reasonably limited 
+
+
+Te 39 
+ee nnneneusccnscoscone 42 
+TABLE OF AUTHORITIES 
+
+Cases: 
+Abel v. United States, 362 U.S. 217 (1960) ........... 19, 20 
+Berkemer v. McCarty, 468 U.S. 420 (1984) ............. 27 
+
+
+(III) 
+
+
+IV 
+
+
+Cases—Continued: Page 
+Bordenkircher v. Hayes, 434 U.S. 357 (1978) .......... 24 
+Brown v. Texas, 443 U.S. 47 (1979) ..... aenaente 11, 17, 24 
+California v. Carney, 471 U.S. 386 (1985) ... ... ..... 26 
+Colorado v. Bertine, 479 U.S. 367 (1987) ......... eat 17 
+Coolidge v. New Hampshire, 403 U.S. 443 (1971). —15, 21 
+Delaware v. Prouse, 440 U.S. 648 (1979) ..........000 11, 17, 
+
+24, 26, 27, 40 
+Florida v. Jimeno, 500 U.S. 248 (1991) ...........ccc 14 
+Florida v. Royer, 460 U.S. 491 (1983) ...........cce 11 
+Florida v. Wells, 495 U.S. 1 (1990) ............cccccceeeeees 16 
+Graham v. Connor, 490 U.S. 386 (1989) ......... 14, 16, 38 
+Gustafson v. Florida, 414 U.S. 260 (1973) ........... 19, 29 
+Horton v. California, 496 U.S. 128 (1990) :........ 14, 15, 21 
+Jones v. United States, 357 U.S. 493 (1958) ............ 21 
+Maryland v. Garrison, 480 U.S. 79 (1987) .............. ll 
+Maryland v. Macon, 472 U.S. 463 (1985) ............... 8, 14 
+Michigan v. Long, 463 U.S. 1032 (1983) .............000 27 
+Michigan Dep't of State Police v. Sitz, 496 US. 
+
+BOE (BBBDD .ccccccccccvenccccsescrcccsccsssesesecssnsssssssessessosccccooes ll 
+New York v. Belton, 453 U.S. 454 (1981) ............... 27 
+New York v. Burger, 482 U.S. 691 (1987) ................ 16 
+New York vy. Class, 475 U.S. 106 (1986) ............ 12, 26, 27 
+New York v. Quarles, 467 U.S. 649 (1984) ............... 33 
+Ohio v. Robinette, cert. granted No. 95-891 (Mar. 4, 
+
+BGBE) .ncccccccccccescccccccceccecccccccscscosossossesocsosensosocssosssssses 27 
+Payton v. New York, 445 U.S. 573 (1980) ............... 40 
+Pennsylvania v. Mimms, 434 U.S. 106 (1977) ...... 12, 26 
+Reid v. Georgia, 448 U.S. 438 (1980) ............ccccceee 11 
+Scott v. United States, 436 U.S. 128 (1978) ...... 14, 15, 
+
+19, 20, 38 
+South Dakota v. Opperman, 428 U.S. 364 (1976). = 12, 26 
+State v. Lopez, 873 P.2d 1127 (Utah 1994) .............. 13 
+Steagald v. United States, 451 U.S. 204 (1981) ....... 21 
+Tennessee v. Garner, 471 U.S. 1 (1985) ................06 11 
+Terry v. Ohio, 392 U.S. 1 (1968) .............+ 11, 24, 28, 41 
+Texas v. Brown, 460 U.S. 730 (1983) ................0000 20 
+
+
+Cases—Continued: Page 
+
+
+United States v. Botero-Ospina, 71 F.3d 783 (10th 
+Cir. 1995), petition for cert. pending No. 95-8121 .... 13, 
+
+
+23, 35 
+United States v. Brignoni-Ponce, 422 U.S. 873 
+
+GENE cevncncusesactsibcinenaniecnaingntniidiidranniiamatencsitin 11, 24, 27, 40 
+United States v. Caceres, 440 U.S. 741 (1979) ...... 32, 33 
+United States v. Cannon, 29 F.3d 472 (9th Cir. 
+
+Oe eae 13, 34 
+United States v. Causey, 834 F.2d 1179 (5th Cir. 
+
+SITET cictataaetnaninemraniepeidiaiaricientaidiipeateitaenaiesiasaiiadeiaiiiliiatineaneaniaes 13 
+United States v. Choate, 619 F.2d 21 (9th Cir. 
+
+ee Ce ee 24 
+United States v. Cortez, 449 U.S. 411 (1980)........ 11, 41 
+United States v. Cummins, 920 F.2d 498 (8th Cir. 
+
+1990), cert. denied, 502 U.S. 962 (1991) ................... 25 
+United States v. Ferguson, 8 F.3d 385 (6th Cir. 
+
+1993), cert. denied, 115 S. Ct. 97 (1994) ....... 13, 22, 29, 36 
+United States v. Fernandez, 18 F.3d 874 (10th Cir. 
+
+STEED censenecsinsinseniniiminndinintatesatemreciatipatiabitgssiiastitiaiininintaieansiaaading 35 
+United States v. Guzman, 864 F.2d 1512 (10th Cir. 
+
+TINUED énpnisnenncncnnisndinsneailnmnnnadininahnnisindasssiigtibpainiinpatabaaiiaiiaintaiiin 35 
+United States v. Harris, 995 F.2d 1004 (10th Cir. 
+
+Re Te 35 
+United States v. Hassan, El, 5 F.3d 726 (4th Cir. 
+
+ITI ssieodensensecreniecisiedamaninnbenbabatanaaehdaeiiineaeinieabtaaaidititeetaimeninenentiies 41 
+United States v. Hensley, 469 U.S. 221 (1985) ......... 11 
+United States v. Jeffus, 22 F.3d 554 (4th Cir. 
+
+UTED seasieitensnisnnecsnsinsinnnincipaamnasiibialtiaitaiaaianiaae incitement 13 
+United States v. Johnson, 63 F.3d 242 (3d Cir. 
+
+1995) petition for cert. pending No. 95-6724 ...... 13, 22, 37 
+United States v. Martinez-Fuerte, 428 U.S. 543 
+
+ee ee He 11 
+United States v. Meyers, 990 F.2d 1083 (8th Cir. 
+
+re ee ee Se 13 
+
+
+United States v. Mitchell, 951 F.2d 1291 (D.C. Cir. 
+1991), cert. denied, 504 U.S. 924 (1992).............00000+ 12 
+
+
+VI VII 
+
+
+Cases—Continued: Page Miscellaneous: 
+United States v. Robinson, 414 U.S. 218 District of Columbia Metropolitan Police Department 
+CRIPGEED cnseescesssmcssensssnsentenisanneenensmenmaieinmidessinens 18, 19, 29 General Order: 
+United States v. Ross, 456 U.S. 798 (1982) ............. 27 No. 303.1(1MA)2)(a) (1986) .......ccccccccceceeeeeeeeeeeeees 6, 36 
+United States v. Scopo, 19 F.3d 777 (2d Cir.), cert. No. 303.1(1I(A)2)a) (1)(3) (1992) ooo... ecccccceeeeeeee 36 
+denied, 115 S. Ct. 207 (1994) ...........cccceeseeeees 13, 22, 28, 37 No. 303.111 A)2) a1) (1992) oo. ccceecceeeceeeeeeeees 38 
+United States v. Smith, 799 F.2d 704 (11th Cir. No. 303.1(1IMA)M2) a4) (1992) ooo. cccccccccceeeeeeeeeeees 6, 36 
+UTED encacctnnsudicitnideiniiiiaiatiapeatiiahialiaaseiteatiiaitecaaitidia 13, 34 No, 303.1(TT1(B)(1) (1992) .......cccccceceeereeeeeeeecnnees 37 
+United States v. Sokolow, 490 U.S. 1 (1989) ........ 11, 25 Revere: brary yy om (3d “7 hang roses 17, 28, 31 
+: e s Thi ew Int'l Dictionary D eavessensecss 16 
+"ieee ee 7 C. Whitebread & C: Slobogin, Criminal Procedure 
+United States v. Trigg, 925 F.2d 1064 (7th Cir.), Fe ee ene 29 
+cert. denied, 502 U.S. 962 (1991) .........ccccccceeeeeeeees 13, 24 
+United States v. Valdez, 931 F.2d 1448 (11th Cir. 
+| 13, 34 
+United States v. Villamonte-Marquez, 462 U.S. 579 
+CEEREED asssssssgnnssssrensecsepnemmenensinstenannninanerapmensemneceen 14 
+Wayte v. United States, 470 U.S. 598 (1985) ........... 24 
+Welsh v. Wisconsin, 466 U.S. 740 (1984) .............. 18, 20 
+Wilson v. Arkansas, 115 S. Ct. 1914 (1995) .......... 18) 40 
+Winston v. Lee, 470 U.S. 753 (1985) ..................00000. 18 
+Yick Wo v. Hopkins, 118 U.S. 356 (1886) ................ 28 
+Constitution and statutes: 
+FL] La passim 
+Equal Protection Clause .......ccccccccssessovccsssccesesesess 9, 28 
+Search and Seizure Clause .................ccccceeeeeeeeeees 10 
+CEE CED cetcsntinsewenicuneetescentiienitemmnninninmen 21 
+BS ee ED ciccetenpecectenietamienteinceinin 2, 6,7 
+Be es Ee siccencrcsemenrsnitinersscinennitntenmsinittonionmenen 2 
+BB Wile Ge eticenedncscesmmenctnsiee 2, 6,7 
+D.C. Code § 23-581(a)(1)(B) (1981 & Supp. 1989) ........ 37 
+D.C. Mun. Regs. tit. 18 (1970): 
+Ee 6 
+CE ee 6 
+DEES consmsesesemennensniemnivnentte 5 
+
+
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+No. 94-5841 
+MICHAEL A. WHREN, ANDJAMES L. BROWN, 
+PETITIONERS 
+v~. 
+UNITED STATES OF AMERICA 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE DISTRICT OF COLUMBIA CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+OPINION BELOW 
+
+
+The opinion of the court of appeals (J.A. 6-19) is 
+reported at 53 F.3d 371. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on 
+May 12, 1995. A petition for rehearing was denied on 
+July 13, 1995. J.A. 20. The petition for a writ of 
+certiorari was filed on August 31, 1995. The petition 
+for a writ of certiorari was granted on January 5, 
+1996. The jurisdiction of this Court rests on 28 
+U.S.C. 1254(1). 
+
+
+(1) 
+
+
+CONSTITUTIONAL PROVISION INVOLVED 
+The Fourth Amendment provides: 
+
+
+The right of the people to be secure in their per- 
+sons, houses, papers, and effects, against unrea- 
+sonable searches and seizures, shall not be 
+violated, and no Warrants shall issue, but upon 
+probable cause, supported by Oath or affirmation, 
+and particularly describing the place to be 
+searched, and the persons or things to be seized. 
+
+
+STATEMENT 
+
+
+Following a jury trial in the United States District 
+Court for the District of Columbia, petitioners were 
+convicted of possessing crack cocaine with the intent 
+to distribute it, in violation of 21 U.S.C. 841(a)(1); 
+possessing crack cocaine with the intent to distribute 
+it within 1,000 feet of a school, in violation of 21 
+U.S.C. 860(a); possessing marijuana, in violation of 21 
+U.S.C. 844(a); and possessing phencyclidine (PCP), in 
+violation of 21 U.S.C. 844(a). The district court 
+sentenced each petitioner to a total of 168 months’ 
+imprisonment, to be followed by a ten-year period of 
+supervised release. Petitioner Whren was also fined 
+$8,800. The court of appeals affirmed petitioners’ 
+convictions, but remanded for resentencing. J.A. 6-19. 
+
+1. On the evening of June 10, 1993, several District 
+of Columbia plainclothes police officers were patrol- 
+ling in unmarked cars for drug activity in southeast 
+Washington. J.A. 8. As the officers made a left turn, 
+Officer Soto noticed a Nissan Pathfinder with tempo- 
+rary tags stopped at the intersection. He saw the 
+driver, later identified as petitioner Brown, looking 
+down into the lap of the passenger, petitioner Whren. 
+
+
+Soto observed that the Pathfinder remained stopped. 
+
+
+3 
+
+
+at the intersection for more than 20 seconds, ob- 
+structing at least one car that was stopped behind it. 
+The officers made a U-turn to follow the Pathfinder. 
+As they did so, petitioners turned without signalling 
+and “sped off quickly” at an “unreasonable speed.” 
+Ibid. 
+
+The officers followed the Pathfinder until it stopped 
+at another intersection, where it was largely boxed in 
+by other cars in front of and behind it and to its right. 
+J.A. 9. The officers pulled up next to the Pathfinder 
+on the driver’s side. Officer Soto then approached the 
+driver’s side of the Pathfinder, identified himself as a 
+police officer, and told petitioner Brown to put the 
+Pathfinder in park. As Soto was speaking, he saw 
+that Whren was holding two large clear plastic bags 
+of what appeared to be crack cocaine. Soto yelled 
+“C.S.A.” to alert the other officers that he had 
+observed a Controlled Substances Act violation. As 
+Soto reached for the driver’s side door, petitioner 
+Whren yelled, “pull off, pull off.” Whren also pulled 
+the cover from a power window control panel in the 
+passenger door and put one of the large bags into a 
+hidden compartment there. Soto opened the Path- 
+finder’s door, dove across Brown, and grabbed the 
+other bag from Whren’s hand. Another officer pinned 
+Brown to the back of the driver’s seat. After arrest- 
+ing petitioners, the officers searched the Pathfinder 
+and recovered two tinfoils containing marijuana laced 
+with PCP, a bag of chunky white rocks, and a large 
+white rock of crack cocaine from the hidden com- 
+partment in the car door, as well as numerous unused 
+ziplock bags, a portable phone, and personal papers. 
+Id. at 9-10. 
+
+2. Petitioners moved to suppress the evidence ob- 
+tained from their car. J.A. 10. At the suppression 
+
+
+4 
+
+
+hearing, Officer Soto testified that he had stopped the 
+Pathfinder because the driver was “not paying full 
+time and attention to his driving.” Soto testified that 
+he had not intended to give the driver a ticket, but 
+that he had wished to ask why the driver was 
+obstructing traffic and why he had sped off, without 
+signalling, in a school area. Soto testified that the 
+decision to stop the Pathfinder was not based on 
+petitioners’ “racial profile,” but on the driver’s ac- 
+tions. The second officer’s testimony essentially con- 
+firmed Soto’s account. Petitioners argued that the 
+officers’ stated reasons for the stop were pretextual, 
+and that the stop thus violated the Fourth Amend- 
+ment because it was made without legally sufficient 
+cause. Jd. at 10-11. 
+
+The district court denied petitioners’ motions to 
+suppress. See J.A. 4-5. Although the court noted 
+some minor discrepancies between the testimony of 
+the two arresting officers, it explained that “the facts 
+of the stop were not controverted,” and that “[t]here 
+was nothing to really demonstrate that the actions of 
+the officers were contrary to a normal traffic stop.” 
+
+
+Accepting Soto’s testimony, the court concluded that - 
+
+
+“the government has demonstrated through the evi- 
+dence presented that the police conduct was appro- 
+priate and, therefore, there is no basis to suppress the 
+evidence.” Jd. at 4-5, 10-11. 
+
+3. The court of appeals affirmed. J.A. 6-19. Under 
+the Fourth Amendment, the court noted, a traffic stop 
+is a “limited seizure” that must be justified by a 
+showing of probable cause “or, at least, reasonable 
+suspicion based on specific and articulable facts.” Jd. 
+at 14. The court rejected petitioners’ argument that, 
+where such a showing has been made, a stop to 
+investigate routine traffic violations is constitution- 
+
+
+5 
+
+
+ally permissible only if a reasonable police officer 
+would have made the same stop in the absence of any 
+other, constitutionally invalid purpose. Jd. at 14-16. 
+Instead, the court explicitly adopted the rule followed 
+by a majority of other courts of appeals and held that 
+“regardless of whether a police officer subjectively 
+believes that the occupants of an automobile may be 
+engaging in some other illegal behavior, a traffic stop 
+is permissible as long as a reasonable officer in the 
+same circumstances could have stopped the car for 
+the suspected traffic violation.” Jd. at 16. The court 
+reasoned that inquiring into whether an officer 
+lawfully “could have” made the traffic stop provides “a 
+more principled method of determining reason- 
+ableness” than the “would have” test, because it 
+eliminates any need for a court to inquire into an 
+officer’s subjective state of mind, ibid., while at the 
+same time it “provides a principled limitation on 
+abuse of power” by requiring that a stop be supported 
+by “probable cause to believe a traffic violation has 
+occurred or a reasonable suspicion of unlawful con- 
+duct based upon articulable facts” (id. at 16-17). 
+Applying that standard to the facts of this case, the 
+court of appeals concluded (J.A. 17-18) that Brown’s 
+failure to give “full time and attention” to his driving, 
+his turning without signalling, and his driving away 
+at an unreasonable speed provided the police with “the 
+articulable and specific facts necessary to establish 
+probable cause to stop” petitioners.' The court held 
+
+
+' Petitioners’ driving violated three District of Columbia 
+municipal traffic regulations. First, D.C. Mun. Regs. tit. 18, § 
+2213.4 (1970), provides: 
+
+
+An operator shall, when operating a vehicle, give full time 
+and attention to the operation of the vehicle. 
+
+
+6 
+
+
+that it was irrelevant that the officers involved were 
+vice officers who were patrolling for drug offenses, 
+rather than traffic police.2 The court explained that 
+“whether a stop can be made depends on whether the 
+officers had an objective legal basis for it, not on 
+whether the police department assigned the officer in 
+question the duty of making the stop.” Jd. at 18.* 
+
+
+Second, D.C. Mun. Regs. tit. 18, § 2204.3 (1970), provides: 
+
+
+No person shall turn any vehicle to enter a private road or 
+driveway; or otherwise turn a vehicle from a direct course 
+or move right or left upon a roadway without giving an 
+appropriate signal in the manner provided in this chapter 
+if any other traffic may be affected by the movement. 
+
+
+Finally, D.C. Mun. Regs. tit. 18, § 2200.3 provides: 
+
+
+No person shall drive a vehicle on a street or highway at a 
+speed greater than is reasonable and prudent under the 
+conditions and having regard to the actual and potential 
+hazards then existing. 
+
+
+2 On appeal, petitioners relied in part on a local police 
+regulation that provided in pertinent part that non-uniformed 
+officers and officers in unmarked cars should not take traffic 
+enforcement action “except in the case of a violation that is so 
+grave as to pose an immediate threat to the safety of others.” 
+See District of Columbia Metropolitan Police Department 
+General Order 303.1(1)(A)(2)(a) (1986). While that general 
+order had been superseded by the time the instant stop oc- 
+curred, the successor general order is not materially different. 
+See General Order 303.1(1)(A)(2)(a)(4) (1992) (officers not in 
+uniform or in unmarked vehicles “may take [traffic] enforce- 
+ment action only in the case of a violation that is so grave as to 
+pose an immediate threat to the safety of others”). Pet. Br. 
+App. 4a. Petitioners did not rely on the regulation at the 
+suppression hearing, but did question officers about the 
+regulation at trial. See Gov’t C.A. Br. 22-23 n.12. 
+
+
+3 The parties agreed below that 21 U.S.C. 841(a)(1), which 
+proscribes possession of controlled substances with the intent to 
+distribute, describes a lesser offense included within 21 U.S.C. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The essential command of the Fourth Amendment 
+is that searches and seizures be reasonable. The 
+reasonableness requirement ordinarily mandates that 
+a search or seizure be based on either probable cause 
+or, in the case of a “investigative stop” that is more 
+limited in scope and duration, reasonable suspicion 
+that an offense has occurred or is occurring. When a 
+police officer has observed a motorist commit a traffic 
+offense, the officer has probable cause to justify a 
+stop. Thus, it is reasonable under the Fourth Amend- 
+ment for an officer who has observed a traffic offense 
+to stop the automobile, to question the motorist, and 
+to take other action where justified. 
+
+Petitioners argue that a traffic stop, even when 
+supported by an observed violation, should neverthe- 
+less be held to violate the Fourth Amendment if the 
+officer made the stop as a pretext to investigate 
+the motorist for an offense unrelated to the traffic 
+offense. As the courts of appeals have overwhelm- 
+ingly recognized, any argument that would evaluate 
+police action based on an officer’s subjective motive 
+conflicts with this Court’s teaching that the validity 
+of a search or a seizure under the Fourth Amendment 
+“turns on an objective assessment of the officer’s 
+
+
+860(a), which prohibits the same act within 1,000 feet of a 
+school. The court accordingly remanded the case for entry of 
+an amended judgment vacating petitioners’ convictions under 
+Section 841(a)(1), and for resentencing on the remaining 
+counts. J.A. 18-19. On remand, the district court vacated the 
+convictions under Section 841(a)(1), and generally reimposed 
+the original sentences on the remaining counts of conviction. 
+The court, however, did not reimpose the $8,800 fine on 
+petitioner Whren. Petitioners’ appeals of their sentences on 
+remand have been stayed pending the decision in this case. 
+
+
+8 
+
+
+actions in light of the facts and circumstances 
+confronting him at the time,” not on the officer’s 
+state of mind at the time the challenged action was 
+taken. Maryland v. Macon, 472 U.S. 463, 470-471 
+(1985). In light of that principle, this Court has held 
+that an officer’s motives or intent are irrelevant in a 
+variety of Fourth Amendment contexts. And, while 
+the Court has in some settings required police 
+conduct to conform to internal standards or routines 
+to satisfy the Fourth Amendment, the need to observe 
+such internal standards has been required as an 
+alternative to a showing of individualized suspicion; 
+it has never been applied as an additional 
+requirement when the police have met the standard of 
+probable cause or reasonable suspicion. 
+
+Petitioners accordingly disavow the suggestion 
+that “pretext” stops should be evaluated by probing an 
+officer’s subjective intent. But the theoretically 
+objective test of “pretext” they propose is equally 
+flawed. Petitioners’ test would invalidate a stop if a 
+reasonable police officer “would not” have made it as a 
+matter of departmental policy or practice. Such a 
+supposed policy or practice, however, would often 
+consist of nothing more than the amalgam of sub- 
+jective views expressed by different police officers 
+about what each regards as standard practice. And, 
+since a “usual police practice” of not enforcing a 
+particular violation does not alter the fact that the 
+violation is illegal under the jurisdiction’s traffic 
+laws, it is difficult to see why an officer’s departure 
+from “usual practice” would be relevant to the legal- 
+ity of a stop at all except as a means for ferreting out 
+an improper pretextual motive. In any event, peti- 
+tioners’ test would not produce consistent results. 
+Identical stops would still yield different results 
+
+
+9 
+
+
+under the Fourth Amendment if they were made by 
+officers whose police departments had different en- 
+forcement priorities. 
+
+There is no sound reason for requiring more than 
+the usual Fourth Amendment showing of reasonable 
+suspicion or probable cause in the context of traffic 
+stops. A motorist who commits a traffic offense can- 
+not ordinarily expect that law enforcement officers 
+will overlook the violation, and the prospect of a 
+traffic stop poses only a modest intrusion on the 
+motorist’s privacy interests. The Fourth Amend- 
+ment requirement of reasonableness further limits 
+the scope of permissible activity once the officer has 
+made the stop. And it is unnecessary to alter estab- 
+lished Fourth Amendment principles to prevent 
+officers from selectively targeting motorists on 
+account of their race, ethnicity, or exercise of pro- 
+tected rights, for such conduct is already unlawful 
+under the Equal Protection Clause. As for peti- 
+tioners’ claim that the abundance of “technical” 
+traffic regulations (Br. 13) affords too many oppor- 
+tunities for officers to enforce the law, that claim is 
+properly addressed to the political branches that have 
+designated such conduct as a traffic infraction. 
+
+Finally, petitioners’ test of “pretext” is unwork- 
+able. While police departments may for their own 
+purposes establish general policies and enforcement 
+priorities, they rarely would issue a clear mandate 
+never to enforce a particular violation. Courts would 
+thus be obliged to evaluate what “usual practices” 
+were, an inquiry that would often entail taking 
+testimony from multiple officers in the department 
+and then extrapolating from their experience to 
+derive a general policy. And officers in the field, who 
+must often make split-second judgments as to what 
+
+
+10 
+
+
+action to take, would be left to conjecture, after 
+observing a traffic offense or offenses, whether 
+stopping the motorist would later be held by a court to 
+have conformed to internal regulations setting en- 
+forcement priorities or to “usual police practices.” In 
+light of those and other problems, the two circuit 
+courts to apply petitioners’ proposed test have, in 
+practice, based their decisions on the state of mind of 
+the individual officer who made the stop. Yet such an 
+inquiry into an officer’s state of mind is precisely 
+what petitioners’ “objective” test purports to avoid. 
+Petitioners’ reliance on an internal police regula- 
+tion as a gauge of “usual police practices” is particu- 
+larly inappropriate in this case, because the regula- 
+tion they cite merely allocates enforcement duties 
+among members of the department. The department 
+has made clear that it enforces the three traffic 
+offenses that petitioners committed; the officers who 
+made the stop were statutorily authorized to do so; 
+and the identity of the particular officer who made the 
+stop has no relation to the issue of whether the stop 
+was justified. The proper inquiry is therefore simply 
+whether the officer who made the stop knew of 
+articulable facts that justified a belief that an offense 
+had been committed. That test was met in this case. 
+
+
+ARGUMENT 
+
+
+THE FOURTH AMENDMENT PERMITS A POLICE 
+OFFICER WHO WITNESSES A TRAFFIC VIOLA- 
+TION TO STOP THE MOTORIST’S VEHICLE 
+
+
+The essential requirement of the Fourth Amend- 
+ment is that searches and seizures be reasonable. 
+The reasonableness requirement ordinarily demands 
+that a search or seizure be justified at its inception by 
+a showing of probable cause, or, in the case of a more 
+
+
+11 
+
+
+limited “investigative stop,” by reasonable suspicion, 
+based on specific and articulable facts, that unlawful 
+conduct has occurred or is occurring. United States 
+v. Sokolow, 490 U.S. 1, 7 (1989); Reid v. Georgia, 448 
+U.S. 438, 440 (1980) (per curiam); Terry v. Ohio, 392 
+U.S. 1 (1968). The scope of a search or seizure and the 
+manner in which it is conducted must also be rea- 
+sonable. Terry, 392 U.S. at 19-20; Maryland v. Garri- 
+son, 480 U.S. 79, 84 (1987); Tennessee v. Garner, 471 
+U.S. 1, 7-8 (1985); Florida v. Royer, 460 U.S. 491, 500 
+(1983). 
+
+As this Court has long held, those standards apply 
+to a seizure that takes the form of a traffic stop of an 
+automobile and the temporary detention of its occu- 
+pants. Such a seizure may take the form of an 
+investigative stop and thus may be initiated upon a 
+showing of reasonable suspicion to believe that an 
+offense has been committed. See, e.g., United States 
+v. Hensley, 469 U.S. 221, 226 (1985); United States v. 
+Cortez, 449 U.S. 411, 417-418 (1980); Delaware v. 
+Prouse, 440 U.S. 648, 653-654, 663 (1979); United 
+States v. Brignoni-Ponce, 422 U.S. 873, 880-884 
+(1975).4 Where an officer has observed a traffic viola- 
+
+
+* An automobile may also be stopped absent a showing of 
+reasonable suspicion pursuant to a reasonable regulatory 
+program under which the decision to make a stop is dictated by 
+neutral criteria. Brown v. Texas, 443 U.S. 47, 51 (1979). See 
+Michigan Dep't of State Police v. Sitz, 496 U.S. 444, 454-455 
+(1990) (upholding use of sobriety checkpoints); United States v. 
+Martinez-Fuerte, 428 U.S. 543, 556-558 (1976) (upholding check- 
+point stops by Border Patrol to check for illegal aliens on roads 
+leading from Mexican border); see also Prouse, 440 U.S. at 663 
+(invalidating discretionary stops of vehicles not based upon 
+reasonable suspicion); Brignoni-Ponce, 422 U.S. at 882-884 
+(invalidating random stops near Mexican border not based on 
+reasonable suspicion). 
+
+
+12 
+
+
+tion, the standard of probable cause is met. See, e.g., 
+New York v. Class, 475 U.S. 106, 117-118 (1986) (stop 
+of car for speeding and cracked windshield); id. at 125 
+(opinion of Brennan, J.); Pennsylvania v. Mimms, 434 
+U.S. 106, 109 (1977) (per curiam) (stop of car bearing 
+expired license tags); see also Prowse, 440 U.S. at 659; 
+South Dakota v. Opperman, 428 U.S. 364, 368 (1976). 
+
+Petitioners ask this Court to adopt an additional 
+standard of justification that, apparently, would be 
+unique to traffic-stop cases. They propose that a 
+traffic stop based upon an observed traffic violation, 
+even if reasonably limited in scope and manner, should 
+nonetheless be held unreasonable where the stop was 
+“pretextual” (Br. 15)—that is, motivated not by a 
+desire to enforce the traffic laws, but by a desire to 
+investigate the motorist for some other offense. They 
+assert that pretext should be measured in light of 
+whether a reasonable officer would have made the 
+traffic stop in question, in the absence of suspicions of 
+other wrongdoing. The Fourth Amendment, however, 
+does not require a showing above and beyond probable 
+cause or reasonable suspicion to justify a stop of a 
+motorist for a traffic offense. Accordingly, and as a 
+substantial majority of the courts of appeals have 
+concluded, petitioners’ proposed “pretext” rule should 
+be rejected.® 
+
+
+5 Nine circuits have held that where an officer reasonably 
+suspects or has probable cause to believe that a traffic offense 
+has occurred or is occurring, the Fourth Amendment permits 
+a traffic stop. See, e.g., United States v. Mitchell, 951 F.2d 
+1291, 1295 (D.C. Cir. 1991), cert. denied, 504 U.S. 924 (1992); 
+United States v. Scopo, 19 F.3d 777, 782-784 (2d Cir.), cert. 
+denied, 115 S. Ct. 207 (1994); United States v. Johnson, 63 F.3d 
+242, 245-247 (3d Cir. 1995), petition for cert. pending, No. 95- 
+6724 (filed Nov. 13, 1995); United States v. Jeffus, 22 F.3d 554, 
+
+
+13 
+
+
+A. The Validity Of A Fourth Amendment Intrusion 
+Is Properly Judged Against An Objective 
+Standard Of Reasonableness, And Where A 
+Search Or Seizure Is Supported By Probable 
+Cause Or Reasonable Suspicion, There is No 
+Basis For Inquiring Whether The Decision To 
+Undertake The Search Conformed To Internal 
+Police Practices 
+
+
+1. As this Court has consistently held, the validity 
+of a search or a seizure under the Fourth Amendment 
+“turns on an objective assessment of the officer’s 
+actions in light of the facts and circumstances 
+confronting him at the time,” not on the officer’s 
+state of mind at the time the challenged action was 
+taken. Maryland v. Macon, 472 U.S. 463, 470-471 
+(1985) (quoting Scott v. United States, 436 U.S. 128, 
+136 (1978)). Based on that principle, the Court has 
+held that an officer’s motivation, intent, or under- 
+
+
+556-557 (4th Cir. 1994); United States v. Causey, 834 F.2d 1179, 
+1185 (5th Cir. 1987) (en banc); United States v. Ferguson, 8 
+F.3d 385, 391 (6th Cir. 1993) (en banc), cert. denied, 115 S. Ct. 
+97 (1994); United States v. Trigg, 925 F.2d 1064, 1065 (7th Cir.), 
+cert. denied, 502 U.S. 962 (1991); United States v. Meyers, 990 
+F.2d 1083, 1085 (8th Cir. 1993); United States v. Botero-Ospina, 
+71 F.3d 783, 787 (10th Cir. 1995) (en banc) (overruling United 
+States v. Guzman, 864 F.2d 1512, 1517 (10th Cir. 1988)), peti- 
+tion for cert. pending, No. 95-8121 (filed Mar. 1, 1996). The 
+same approach has been taken by a number of state courts of 
+last resort. See, e.g. State v. Lopez, 873 P.2d 1127, 1137 (Utah 
+1994) (collecting cases). The Ninth and Eleventh Circuits, 
+however, have held that a stop is reasonable only where “under 
+the same circumstances a reasonable officer would have made 
+the stop in the absence of the invalid purpose.’” United States 
+v. Valdez, 931 F.2d 1448, 1450 (11th Cir. 1991) (quoting United 
+States v. Smith, 799 F.2d 704, 709 (11th Cir. 1986)); United 
+States v. Cannon, 29 F.3d 472, 474-476 (9th Cir. 1994). 
+
+
+14 
+
+
+standing of the law is irrelevant in a variety of 
+Fourth Amendment contexts. Those include the 
+scope of a defendant’s consent to a search, Florida v. 
+Jimeno, 500 U.S. 248, 250-252 (1991); the scope of the 
+“plain view” doctrine, Horton v. California, 496 U.S. 
+128, 138 (1990); the amount of force that may rea- 
+sonably be used in making an arrest, Graham v. 
+Connor, 490 U.S. 386, 397-399 (1989); the existence of 
+a Fourth Amendment “seizure,” Macon, 472 U.S. at 
+470-471; and the reasonableness of an officer’s deci- 
+sion to board a vessel for document inspection, United 
+States v. Villamonte-Marquez, 462 U.S. 579, 584 n.3 
+(1983). See Terry, 392 U.S. at 21 (in analyzing the 
+reasonableness of a search or seizure, “it is impera- 
+tive that the facts be judged against an objective 
+standard”). 
+
+Application of objective standards of conduct pro- 
+motes the important interest in “evenhanded law en- 
+forcement.” Horton, 496 U.S. at 138. The rights of 
+persons subjected to identical official conduct should 
+not turn on the happenstance of the state of mind of 
+the officer. Because the ultimate Fourth Amendment 
+question is whether the law enforcement interests at 
+stake justify the particular intrusion on privacy 
+interests, the subjective good faith or bad faith of the 
+particular searching officer is not the proper test. 
+Accordingly, “the fact that the officer does not have 
+the state of mind which is hypothecated by the 
+reasons which provide the legal justification for the 
+officer’s action does not invalidate the action so long 
+as the circumstances, viewed objectively, justify that 
+action.” Scott, 436 U.S. at 138. 
+
+Measuring the validity of a search or seizure by an 
+officer’s subjective intent would lead to incongruous 
+results. The traffic stop setting illustrates that 
+
+
+15 
+
+
+point. If two motorists are stopped in identical fash- 
+ion for committing the same traffic offense, it would 
+make little sense to judge the constitutionality of the 
+stops differently because one officer’s motives were 
+proper and the other’s were not. The objective 
+approach that this Court has applied avoids such 
+inconsistencies.® 
+
+2. There is no exception to the Fourth Amend- 
+ment’s focus exclusively on objective circumstances 
+simply because a search or seizure is challenged as a 
+“pretextual use of governmental authority.” Pet. Br. 
+30. An inquiry into whether an officer’s action was 
+“pretextual” is inherently an inquiry into his sub- 
+jective intent. See Webster’s Third New Int'l Dic- 
+
+
+® The Court explained that point in Horton v. California, 
+supra, in rejecting the argument that the “plain view” doc- 
+trine should apply only to items that the officer did not expect 
+to discover at the time he applied for a search warrant: 
+
+
+“Let us suppose officers secure a warrant to search a house 
+for a rifle. While staying well within the range of a rifle 
+search, they discover two photographs of the murder 
+victim, both in plain sight in the bedroom. Assume also 
+that the discovery of the one photograph was inadvertent 
+but finding the other was anticipated. The [inadvertence 
+inquiry] would permit the seizure of only one of the 
+photographs. But in terms of the ‘minor’ peril to Fourth 
+Amendment values there is surely no difference between 
+these two photographs: the interference with possession is 
+the same in each case and the officers’ appraisal of the 
+photograph they expected to see is no less reliable than 
+their judgment about the other. And in both situations the 
+actual inconvenience and danger to evidence remain 
+identical if the officers must depart and secure a warrant.” 
+
+
+496 U.S. at 139 (quoting Coolidge v. New Hampshire, 403 U.S. 
+443, 516 (1971) (White, J., concurring in part and dissenting in 
+part)). 
+
+
+16 
+
+
+tionary (1971) (defining “pretext” as “a purpose or 
+motive alleged or an appearance assumed in order to 
+cloak the real intention or state of affairs”). Basing 
+Fourth Amendment analysis on the presence or ab- 
+sence of an official motivation would interfere with 
+the goal of evenhanded law enforcement, and it cannot 
+be reconciled with this Court’s cases. See Graham, 
+490 U.S. at 397 (“An officer’s evil intentions will not 
+make a Fourth Amendment violation out of an ob- 
+jectively reasonable [action]; nor will an officer’s good 
+intentions make an objectively unreasonable [action] 
+constitutional.”). 
+
+3. There is also no requirement that an officer’s 
+actions must conform to internal police practices or 
+protocols where the action is otherwise justified 
+under normal Fourth Amendment principles. Peti- 
+tioners assert (Br. 36) that “this Court’s Fourth 
+Amendment decisions have repeatedly turned on 
+whether standard police procedures were followed.” 
+The decisions on which petitioners rely (Br. 30-36), 
+however, principally involve administrative or regula- 
+tory searches. Such searches, unlike traffic stops 
+based on observed violations of law, are not justified 
+by articulable facts pertaining to the individual who is 
+subjected to the search. The Court has accordingly 
+held that the initiation and the conduct of such 
+administrative searches must be governed by an 
+external source of standards. See Florida v. Wells, 
+495 U.S. 1, 4 (1990) (property inventory procedures); 
+New York v. Burger, 482 U.S. 691 (1987) (admini- 
+strative searches of automobile junkyards); Colorado 
+v. Bertine, 479 U.S. 367, 372 (1987) (property inven- 
+tory procedures); see also automobile-stop cases cited 
+at note 4, supra. 
+
+
+17 
+
+
+The application of standard procedures in the 
+administrative-search setting avoids the risk of 
+arbitrary police action, which is prevented in other 
+Fourth Amendment contexts by the requirement of 
+individualized suspicion before a search or seizure 
+may be conducted. As the Court has observed, “[i]n 
+those situations in which the balance of interests 
+precludes insistence upon some quantum of individu- 
+alized suspicion, other safeguards are generally 
+relied upon to assure that the individual’s reasonable 
+expectation of privacy is not subject to the discretion 
+of the official in the field.” Delaware v. Prouse, 440 
+U.S. 648, 654-655 (1979) (per curiam) (internal quota- 
+tion marks and footnote omitted). The Court has not, 
+however, extended the requirement of internal 
+standards to Fourth Amendment settings in which 
+the decision whether to proceed with a search is 
+supported by probable cause or reasonable suspicion. 
+Rather, “the Fourth Amendment requires that a sei- 
+zure must be based on specific objective facts 
+indicating that society’s legitimate interests require 
+the seizure of a particular individual, or that the 
+seizure must be carried out pursuant to a plan em- 
+bodying explicit, neutral limitations upon the conduct 
+of individual officers.” Brown v. Texas, 443 U.S. 47, 
+51 (1979) (emphasis added). See 1 W. LaFave, Search 
+and Seizure § 1.4(e), at 123 (3d ed. 1996) (noting that, 
+in administrative search cases, the Court’s inquiry 
+into the use of standardized criteria was based upon 
+“the fact that the enforcement activity in question 
+was being permitted without probable cause focusing 
+upon a particular individual or place,” whereas in the 
+
+
+18 
+
+
+traffic stop situation, “the arrest or search is on pro- 
+bable cause”).? 
+
+Petitioners also rely (Br. 33-34) on United States v. 
+Robinson, 414 U.S. 218 (1973), but Robinson does not 
+support a requirement that police must conform to 
+standard internal practices as well as to Fourth 
+Amendment norms. In Robinson, the police stopped 
+an automobile whose driver lacked a permit, placed 
+the driver under custodial arrest, and searched the 
+driver’s person incident to his arrest. The Court 
+upheld all three actions. While the Court made clear 
+that it had no occasion in Robinson to address the 
+situation in which the decision to place a suspect in 
+post-arrest custody “depart[ed] from established 
+police department practice” and was instead “a mere 
+pretext” to permit a search for narcotics incident to 
+arrest, id. at 221 n.1, the Court did categorically hold 
+that “[a] custodial arrest of a suspect based on 
+probable cause is a reasonable intrusion under the 
+Fourth Amendment.” Jd. at 235. Significantly, the 
+Court also held that a full search incident to a valid 
+arrest is lawful per se, regardless of the subjective 
+intent of the search officer. See id. at 236 (“it is of no 
+moment that [the officer] did not indicate any sub- 
+
+
+’ In urging that “this Court has often looked beyond the 
+mere existence of probable cause in evaluating the reason- 
+ableness of searches and seizures” (Br. 16), petitioners rely on 
+Wilson v. Arkansas, 115 S. Ct. 1914 (1995), Tennessee v. 
+Garner, 471 U.S. 1 (1985), Winston v. Lee, 470 U.S. 753 (1985), 
+and Welsh v. Wisconsin, 466 U.S. 740, 754 (1984). Those cases, 
+however, examined the reasonableness of the manner in which 
+a properly justified search or seizure was executed. They have 
+no bearing on the distinct question, presented here, of whether 
+a justification beyond individualized suspicion is required to 
+initiate the search or seizure in the first place. 
+
+
+19 
+
+
+jective fear of the respondent or that he did not 
+himself suspect that respondent was armed”).* 
+
+Gustafson v. Florida, 414 U.S. 260 (1973), the 
+companion case to Robinson, further undermines the 
+view that an officer’s departure from departmental 
+practice is relevant under the Fourth Amendment 
+when a search is otherwise justified. The Court held 
+that a search incident to a lawful arrest is valid even 
+when the police department had “no police regulations 
+which required the officer to take [the defendant] into 
+custody [nor any] police department policies requir- 
+ing full-scale body searches upon arrest in the field.” 
+Id. at 263. The existence of departmental policies and 
+regulations, the Court stated, is not “determinative of 
+the constitutional issue,” because, under Robinson, 
+“the arguable absence of ‘evidentiary’ purpose for a 
+search incident to a lawful arrest is not controlling.” 
+Id. at 265.9 
+
+Finally, Abel v. United States, 362 U.S. 217 (1960), 
+does not establish a general Fourth Amendment 
+principle to require standard police practices. See 
+Pet. Br. 33. In Abel, the Court held that evidence in- 
+
+
+8 That portion of Robinson was cited by this Court in Scott 
+v. United States, as demonstrating that searches are to be 
+examined “under a standard of objective reasonableness with- 
+out regard to the underlying intent or motivation of the 
+officers involved.” Scott, 436 U.S. at 138. 
+
+
+% Justice Powell’s concurrence in Robinson and Gustafson 
+noted that “Gustafson would have presented a different 
+question if the petitioner could have proved that he was taken 
+into custody only to afford a pretext for a search undertaken 
+for collateral objectives,” Robinson, 414 U.S. at 438 n.2 (Powell, 
+J.). No other Justice joined Justice Powell's opinion, however, 
+and Gustafson’s unqualified holding makes clear that standard 
+police practices are not required to justify a custodial arrest. 
+
+
+20 
+
+
+troduced at Abel’s espionage trial had been lawfully 
+obtained during a search incident to his admini- 
+strative arrest. The arrest had been effected by the 
+Immigration and Naturalization Service (INS) pur- 
+suant to an “administrative warrant” grounded on 
+Able’s status as a deportable alien. The Court noted 
+that the Federal Bureau of Investigation (FBI) had 
+alerted the INS to Abel’s deportable status after it 
+failed to verify its suspicions that Abel was engaged 
+in espionage. 362 U.S. at 220-225. In upholding the 
+arrest over Abel’s claim that the arrest had been a 
+“subterfuge” to assist the FBI in its investigation, 
+the Court did emphasize that it was usual practice for 
+the INS both to receive referrals from the FBI and to 
+issue administrative warrants to deportable aliens, 
+and that the INS had therefore acted in good faith, not 
+for an “illegitimate purpose.” Jd. at 226-227. The 
+Court’s focus in Abel on the regularity of procedures 
+attencing the use of the administrative arrest 
+warrant, however, is consistent with this Court’s 
+later decisions similarly requiring regularity of pro- 
+cedures to justify other administrative intrusions, 
+see pp. 16-18, supra. And to the extent to that Abel 
+suggested that subjective “bad faith” or “motive” 
+alone could result in an infringement of Fourth 
+Amendment rights, 362 U.S. at 226, that suggestion 
+has not survived Scott and later decisions.” 
+
+
+0 The cases cited by amicus American Civil Liberties Union 
+relies (Br. 7-8) are also inapposite. Texas v. Brown, 460 U.S. 
+730 (1983), upheld roadblock stops of cars not based on 
+reasonable suspicion, despite the “generalized expectation” of 
+officers that some cars would be found to contain narcotics and 
+paraphernalia. /d. at 743 (plurality opinion). The plurality’s 
+statement about the absence of pretext (id. at 742) merely 
+applied the then-extant “inadvertence” requirement of the 
+
+
+21 
+
+
+B. A Traffic Stop Based On An Observed Violation 
+Need Not Conform To Standard Police Practice 
+To Satisfy The Fourth Amendment 
+
+
+Petitioners recognize (Br. 30) that an officer’s 
+subjective motivation cannot invalidate an otherwise 
+objectively justified Fourth Amendment intrusion. 
+As they concede, “[o]bjectively justified seizures are 
+permissible under the Fourth Amendment without 
+regard to the subjective motivations of the police.” 
+Ibid. In order to avoid directly asking courts to 
+
+
+plain view doctrine, see Coolidge v. New Hampshire, 403 U.S. 
+443 (1971), which was overruled by this Court in Horton, 
+supra. See note 6, supra; Brown, 460 U.S. at 744 (opinion of 
+White, J.). Steagald v. United States, 451 U.S. 204 (1981), held 
+that officers may not use an arrest warrant to search the home 
+of a third party without a search warrant for that home. While 
+that rule was adopted in part to eliminate the possibility of 
+pretextual use of an arrest warrant to enter homes that the 
+officers lacked probable cause to search, Steagald did not 
+countenance case-specific inquiries into police motivation nor 
+require compliance with standard police procedures—other 
+than the textual requirement of the Warrant Clause. See 451 
+U.S. at 215. Jones v. United States, 357 U.S. 493 (1958), held 
+that a warrantless entry into a home to conduct a search is 
+unlawful absent a recognized exception to the warrant re- 
+quirement. The Court declined to consider the government’s 
+alternative theory on appeal, i.e., that the search was a lawful 
+incident to the defendant’s lawful warrantless arrest, ex- 
+plaining that that theory was not supported by the testimony of 
+the officers as to their purpose for entering the home. 7d. at 
+499-500. The Court’s statement is less an articulation of Fourth 
+Amendment law than an explanation of why the Court declined 
+to entertain the government’s belated claim in Jones. Finally, 
+none of these cases supports the ACLU’s suggestion (Br. 18) 
+that this Court should expressly permit an “inquiry into 
+motive” in order to determine the “real reason officers act” in 
+the course of a pretext inquiry. 
+
+
+22 
+
+
+inquire into subjective motive, petitioners endorse a 
+pretext test that asks whether an officer’s decision to 
+make a stop deviated from the action that a “rea- 
+sonable” officer, committed solely to enforcing the 
+traffic laws, “would have” taken. Br. 32. They argue 
+that stops are unreasonable “if they deviate so far 
+from standard police practice that a reasonable officer 
+in the same circumstances would not have made the 
+intrusion on the basis asserted.” Jbid. 
+
+Although that inquiry is nominally stated in 
+objective terms, in practice it often would duplicate an 
+inquiry into subjective intent. The “usual practices” 
+of the “reasonable officer” would generally be “simply 
+* * * an aggregation of the subjective intentions of 
+officers in the regions.” United States v. Ferguson, 8 
+F.3d 385, 391 (6th Cir. 1993), cert. denied, 115 S. Ct. 97 
+(1994). And pretextual motive would simply be in- 
+ferred circumstantially from the fact that the officer 
+departed from usual practices of other officers. See 
+United States v. Johnson, 68 F.3d 242, 247 (8d Cir. 
+1995); United States v. Scopo, 19 F.3d 777, 782 (2d 
+Cir.), cert. denied, 115 S. Ct. 207 (1994). Indeed, it is 
+not clear what relevance a departure from standard 
+practices would have except to establish circum- 
+stantially the motives of the officer who initiated the 
+search. An internal police policy to enforce a law only 
+under certain circumstances does not modify a 
+jurisdiction’s traffic laws. Accordingly, an individual 
+stopped for an infraction in derogation of “standard 
+police practice” has still violated the law. The only 
+conceivable purpose of considering a departure from 
+standard police practice would be to ferret out 
+circumstantially an improper pretextual motive. 
+
+In any event, to the extent that recourse to “usual 
+practices” is designed to check arbitrary police ac- 
+
+
+23 
+
+
+tion, see, e.g., LaFave, swpra, § 1.4(e), at 124-125, the 
+proposal is unsound. Inferring pretext from an 
+officer’s deviation from the traffic-enforcement pro- 
+tocol of his particular department would not eliminate 
+arbitrary disparities. Even setting aside the practi- 
+cal obstacles that would generally attend an effort to 
+establish “usual police practice,” those practices 
+would frequently differ precinct to precinct, depart- 
+ment to department. Under a “usual practices” ap- 
+proach, a stop for a particular violation would be 
+constitutional when carried out by an officer in a 
+police department whose regular procedure was to 
+enforce all observed traffic violations, but unconstitu- 
+tional if carried out in identical fashion by an officer 
+in an adjoining jurisdiction whose police department 
+had more specific enforcement priorities. The ex- 
+posure of a driver to a permissible stop for the identi- 
+cal infraction could change within seconds or minutes 
+as the driver passed through different police jurisdic- 
+tions. The constitutionality of a traffic stop, however, 
+should not be “‘subject to the vagaries of police 
+departments’ policies and procedures concerning the 
+kinds of traffic offenses of which they ordinarily do or 
+do not take note.’” United States v. Botero-Ospina, 
+71 F.3d 783, 788 (10th Cir. 1995) (en banc) (quoting 
+Ferguson, 8 F.3d at 392), petition for cert. pending, 
+No. 95-8121 (filed Mar. 1, 1996); Scopo, 19 F.3d at 784. 
+More fundamentally, it is not necessarily improper 
+for officers, in deciding which traffic offenders to 
+stop, to take into account “collateral” (Br. 38) law en- 
+forcement objectives beyond the fact that an offense 
+has been committed. This Court has never held that 
+—within the universe of searches, seizures, and 
+arrests for which probable cause or reasonable suspi- 
+cion exists—the Fourth Amendment restricts the 
+
+
+24 
+
+
+allocation of law enforcement resources. On the 
+contrary, in deciding which valid searches, seizures, 
+or arrests to undertake and which to forgo, officers 
+routinely consider such legitimate “collateral” fac- 
+tors as: Is a suspect regarded as a danger to society? 
+Is there a reason to suspect him of engaging in other 
+crimes? Would a search or arrest have special 
+deterrent value? The discretion accorded law en- 
+forcement officers among courses of action for which 
+individualized justification exists reflects the fact 
+that the Fourth Amendment’s goal of protecting 
+against arbitrary invasions of privacy is vindicated by 
+the finding of probable cause or reasonable suspicion 
+itself. See Brown, 443 U.S. at 51; Prouse, 440 U.S. at 
+661; Brignoni-Ponce, 422 U.S. at 883; Terry, 392 U.S. 
+at 21; United States v. Trigg, 925 F.2d 1064, 1065 (7th 
+Cir.), cert. denied, 502 U.S. 962 (1991)." 
+
+
+!! In the analogous setting of examining prosecutorial action, 
+the Court has emphasized that law enforcement officials have 
+“broad discretion,” Wayte v. United States, 470 U.S. 598, 607 
+(1985), provided that charges are not brought on the basis of 
+constitutionally impermissible factors such as race, religion, or 
+the exercise of a legally protected right. Jd. at 608. As the 
+Court has noted, “(sjo long as the prosecutor has probable cause 
+to believe that the accused committed an offense defined by 
+statute, the decision whether or not to prosecute, and what 
+charge to file or bring before a grand jury, generally rests 
+entirely in his discretion.” Jd. at 607 (quoting Bordenkircher 
+v. Hayes, 434 U.S. 357, 364 (1978)); see 470 U.S. at 607 
+(prosecutorial charging decisions may be based, inter alia, on 
+“the Government’s enforcement priorities and the case’s 
+relationship to the Government’s overall enforcement plan”); 
+ef. United States v. Choate, 619 F.2d 21, 23 (9th Cir. 1980) (“It 
+is not irrational in a world where resources do not permit 
+prosecution of every suspected criminal that the government 
+would give high priority to prosecuting those who, in addition 
+
+
+25 
+
+
+In this case, for example, petitioners surmise that 
+the police officers who observed their three offenses 
+were motivated by the belief that a glimpse into their 
+car in the course of a stop might disclose proof of 
+narcotics trafficking, as it in fact did. See Br. 4 
+(noting officer’s testimony that officers were patrol- 
+ling “a high drug area” with the objective of “find[ing] 
+narcotics activity going on”). But, once reasonable 
+suspicion of an offense existed, it would not have been 
+unreasonable to act on that belief. On the contrary, it 
+would be unreasonable to forbid a police department 
+from focusing its finite resources disproportionately 
+on those observed traffic offenders whom officers in 
+the field suspect may also be engaged in more serious 
+offenses. See United States v. Cummins, 920 F.2d 
+498, 501 (8th Cir. 1990), cert. denied, 502 U.S. 962 
+(1991). Indeed, it may well be that, like a pedestrian 
+drug courier, a motorist engaged in narcotics dealing 
+is more prone than an innocent traveler to engage in 
+“evasive and erratic” behavior that manifests itself in 
+traffic infractions. See Sokolow, 490 U.S. at 8. 
+
+
+C. There Is No Need For A Heightened Fourth 
+Amendment Standard Of Justification In Cases 
+Involving Traffic Stops 
+
+Petitioners argue that a heightened Fourth 
+
+Amendment standard is needed in the traffic-stop con- 
+text because, they assert, without such a standard, 
+police officers would be free, “despotically and capri- 
+ciously” (Br. 17), to violate motorists’ privacy. Peti- 
+tioners’ proposed departure from usual Fourth 
+Amendment standards is not justified in this setting. 
+
+
+to being suspected of tax evasion, were also suspected of other 
+serious offenses.”). 
+
+
+26 
+
+
+1. As this Court has repeatedly recognized in 
+finding the reasonable suspicion standard applicable 
+to traffic stops, a properly conducted traffic stop 
+represents a relatively limited intrusion into privacy. 
+“(Tjhe physical characteristics of an automobile and 
+its use result in a lessened expectation of privacy 
+therein.” New York v. Class, 475 U.S. at 112. More- 
+over, because “automobiles are justifiably the subject 
+of pervasive regulation by the State[,] [e]very opera- 
+tor of a motor vehicle must expect that the State, in 
+enforcing its regulations, will intrude to some extent 
+upon that operator’s privacy.” /d. at 113; see 
+California v. Carney, 471 U.S. 386, 392 (1985) (“the 
+public is fully aware that it is accorded less privacy in 
+its automobiles because of this compelling govern- 
+mental need for regulation”). 
+
+A motorist who commits a traffic infraction has 
+even less of an expectation of privacy. See Class, 475 
+U.S. at 113. Motorists are aware that, “[aJs an every- 
+day occurrence, police stop and examine vehicles 
+when license plates or inspection stickers have 
+expired, or if other violations, such as exhaust fumes 
+or excessive noise, are noted, or if headlights or other 
+safety equipment are not in proper working order.” 
+Opperman, 428 U.S. at 368. “The foremost method of 
+enforcing traffic and vehicle safety regulations * * * 
+is acting upon observed violations. Vehicle stops for 
+traffic violations occur countless times each day.” 
+Prouse, 440 U.S. at 659; id. at 658 (noting that States 
+have a “vital interest” in enforcement of motor 
+vehicle laws). 
+
+In addition, the Fourth Amendment’s reasonable- 
+ness requirement limits the actions an officer may 
+take upon making a traffic stop. The officer is per- 
+mitted to direct the motorist to exit the car, Mimms, 
+
+
+27 
+
+
+434 U.S. at 111 & n.6, to inspect the car’s vehicle 
+identification number, Class, 475 U.S. at 113-114, 
+to inspect the motorist’s license and registra- 
+tion, Prowse, 440 U.S. at 659, and to question the mo- 
+torist in moderation about his identity, his license 
+and registration, and the violation. Berkemer v. 
+McCarty, 468 U.S. 420, 437, 489 & n.29 (1984). The 
+officer may also observe items in plain view, as oc- 
+curred in this case. But “‘the stop and inquiry must 
+be reasonably related in scope to the justification for 
+their initiation,” id. at 439 (quoting Brignoni-Ponce, 
+422 U.S. at 881), and further significant intrusions 
+require additional justification. See, eg., United 
+States v. Ross, 456 U.S. 798, 808-809 (1982) (search of 
+automobile and containers within it requires a 
+showing of probable cause to believe that contraband 
+may be found); Michigan v. Long, 463 U.S. 1032, 1049 
+(1983) (protective search of automobile for weapons 
+requires a showing of reasonable suspicion); cf. New 
+York v. Belton, 453 U.S. 454, 460-461 (1981) (search of 
+passenger compartment for weapons may be made 
+upon a probable-cause arrest of the occupants).” 
+
+2. Petitioners and their amici also assert (Br. 22- 
+27; ACLU Br. 3-4, 8-9) that allowing traffic stops to 
+proceed upon a showing of reasonable suspicion or 
+probable cause alone would give officers “carte 
+
+
+This Court will examine one aspect of the Fourth Amend- 
+ment’s requirements in a traffic stop case next Term in Ohio v. 
+Robinette, cert. granted, No. 95-891, (Mar. 4, 1996). The peti- 
+tion in that case presents the question whether the Fourth 
+Amendment requires an officer who has validly stopped a 
+motorist for a traffic stop to inform the motorist that he is free 
+to leave before questioning by the officer, unrelated to the 
+original traffic stop, may be found to be consensual. 95-891 Pet. 
+at i. 
+
+
+28 
+
+
+blanche” (Br. 22) to detain and harass motorists on 
+account of their race, ethnicity, or protected rights. 
+Any decision to single out a suspect or suspects on 
+the basis of such factors, however, would be unlawful 
+under the Equal Protection Clause. See Yick Wo v. 
+Hopkins, 118 U.S. 356, 373-374 (1886); United States v. 
+Travis, 62 F.3d 170, 173 (6th Cir. 1995). As Chief 
+Judge Newman of the Second Circuit has explained in 
+holding that traffic stops based upon reasonable 
+suspicion comport with the Fourth Amendment, “the 
+Equal Protection Clause has sufficient vitality to 
+curb most of the abuses that the [defendant] appre- 
+hends. Police officers who misuse the authority we 
+approve today may expect to be defendants in civil 
+suits seeking substantial damages for discriminatory 
+enforcement of the law.” Scopo, 19 F.3d at 786. 
+
+Indeed, this Court rejected a similar argument to 
+petitioners’ in Terry v. Ohio, supra. Terry recog- 
+nized that minority groups had often claimed that 
+some elements of the police harassed them during 
+street stops. The Court held, however, that the 
+existence of such abuses did not justify “a rigid and 
+unthinking application of the exclusionary rule” to 
+evidence obtained from such stops, for such a result 
+“may exact a high toll in human injury and frustra- 
+tion of attempts to prevent crime.” 392 U.S. at 15. 
+Instead, the legality of a stop under the Fourth 
+Amendment turned upon “objective evidentiary justi- 
+fication” for the particular stops. Jbid. The Court 
+emphasized that its “approval of legitimate and 
+restrained investigative conduct undertaken on the 
+basis of ample factual justification should in no way 
+discourage the employment of other remedies than 
+the exclusionary rule to curtail abuses for which that 
+sanction may prove inadequate.” [bid. 
+
+
+29 
+
+
+3. Finally, petitioners assert that an inquiry into 
+pretext is needed to deny officers the discretion to 
+stop motorists for “technical” (Br. 13) or “nitpicking” 
+(Br. 20) traffic offenses. See Br. 13 (“a tire touching 
+the shoulder stripe, a lane change signal a moment 
+too brief”). That argument, at bottom, contests the 
+decision by States and localities to designate such 
+conduct as an enforceable infraction. The same 
+argument could be made by defendants stopped or 
+arrested for non-traffic offenses that they regard as 
+trifling, such as various misdemeanors. If petitioners 
+believe that the traffic laws in a jurisdiction punish 
+inconsequential lapses, or that such misconduct 
+should be enforced in a manner other than through 
+traffic stops, their recourse is through the political 
+process. See Ferguson, 8 F.3d at 391." 
+
+
+D. A Standard That Turns On Whether A Rea- 
+sonable Officer “Would Have” Made The Traffic 
+Stop Is Not Workable 
+
+
+A final flaw in petitioners’ proposed test of pretext 
+is that it is unworkable. Petitioners would inquire 
+whether a reasonable officer motivated solely by a 
+desire to enforce the traffic laws “would have” made 
+the stop—in other words, whether it was “usual 
+practice” to make such a traffic stop. Br. 32. “Usual 
+practice” would be determined with reference to 
+internal police regulations governing the traffic 
+
+
+% Compare C. Whitebread & C. Slobogin, Criminal Pro- 
+cedure § 6.02, at 168 & nn.8-9 (3d ed. 1993) (noting that, 
+following the decisions in Robinson, supra, and Gustafson, 
+supra, several state legislatures reduced certain violations of 
+their traffic codes to infraction status, thus preventing opera- 
+tion of the search incident to arrest doctrine, which requires a 
+custodial arrest). 
+
+
+30 
+
+
+offense, or, where no regulation existed, by determin- 
+ing what action a reasonable police officer would have 
+taken under the circumstances. Br. 32-33, 41-42; 
+ACLU Br. 15. As the courts of appeals have over- 
+whelmingly concluded, see note 5, supra, that test is 
+difficult to apply, produces inconsistent results, and 
+provides uncertain guidance to officers in the field. 
+
+1. Petitioners’ test of pretext would require, as a 
+threshold inquiry, a determination of what “usual 
+practices” were with regard to the traffic offense that 
+supported the particular stop. That determination 
+would presumably be made at the level of the police 
+department (see Br. 41-42), because inquiring 
+whether the officer had deviated from his own “usual 
+practices” would entail exploring the officer’s own 
+subjective intent in making and forgoing stops for the 
+same offense in the past, and because inquiring into 
+police practices on a larger scale would both be im- 
+practical and at odds with the fact that traffic enforce- 
+ment policies are generally set at the departmental 
+level. 
+
+There is, however, no reason to assume that police 
+departments commonly maintain regulations that 
+direct that particular traffic laws either not be 
+enforced or be enforced only under certain circum- 
+stances." It is also unrealistic to assume, as peti- 
+tioners appear to concede (Br. 24), that departments 
+maintain records of how often the observation of a 
+particular traffic offense results in a stop. Even if 
+such records existed, it would be impossible to know 
+what share of those stops had been influenced by 
+
+
+4 Nor does petitioners’ reliance on an internal police re- 
+gulation in this case provide a workable solution to that pro- 
+blem. See pp. 36-38, infra. 
+
+
+31 
+
+
+“pretextual” motivations. Thus, except where an 
+internal regulation clearly directed that an infraction 
+not be enforced, a court seeking to determine a 
+department’s “usual practices” with regard to that 
+infraction would either have to rely on the court’s 
+own notions of whether enforcement of a particular 
+infraction would be’ reasonable, or receive testimony 
+from other officers as to their usual practices with 
+regard to the offense.” 
+
+Such an inquiry would not only be cumbersome, 
+but, as an aggregation of the subjective intentions of 
+multiple officers, it would be no more reliable than 
+inquiring into the state of mind of a single officer. 
+Moreover, for such an exercise to have value, the 
+court’s inquiry would have to consider the circum- 
+stances under which the traffic offense occurred: Did 
+weather, lighting, traffic, or road conditions render 
+the offense more worthy of enforcement than in the 
+typical case? It is unrealistic to expect such an 
+analysis to be developed at a suppression hearing. 
+Even if it were feasible to ascertain how often a 
+department had enforced a particular traffic offense 
+
+
+Even where a department had clearly directed officers 
+not to enforce an offense, revelation of that enforcement policy 
+could undermine police effectiveness in ensuring traffic safety. 
+For example, disclosure of a policy of only stopping motorists 
+who drive 10 miles per hour or more above the speed limit 
+could undermine the speed limit’s deterrent effect on motorists 
+who exceed the speed limit by less than 10 miles per hour. 
+
+
+© As petitioners acknowledge (Br. 31), “‘{sJending state and 
+federal courts on an expedition into the minds of police officers 
+would produce a grave and fruitless misallocation of re- 
+sources’” (citation omitted). See LaFave, supra, §1.4(e), at 
+124 (“there is no reason to believe that courts can with any 
+degree of success determine in which instances the police had 
+an ulterior motive”). 
+
+
+32 
+
+
+under similar circumstances, there is no ready guide 
+to determine at what point the enforcement of that 
+offense departed from “usual police practice.” Sup- 
+pose, for example, that a department stops motorists 
+for a particular violation less than 50% of the time. 
+Presumably, under petitioners’ test, any stop for that 
+offense is a deviation from the norm, and thus uncon- 
+stitutional. The same result would follow even if the 
+Fourth Amendment standard for a “usual” police 
+practice were drawn at, for example, a 10% enforce- 
+ment rate: any stop made by a police department that 
+enforced a particular violation more rarely would be 
+unlawful. Petitioners confine their discussion to the 
+hypothetical situation in which an internal regulation 
+categorically forbids enforcement (Br. 32, 41-42), and 
+do not say, outside of that situation, what level of 
+enforcement would make an otherwise lawful traffic 
+stop “unusual.” 
+
+Adoption of petitioners’ test would therefore result 
+in arbitrary disparities among subjects of searches 
+and seizures. A traffic stop that was unconstitutional 
+if made by one police department would be lawful if 
+conducted by another, depending on internal regula- 
+tions or the relative incidence of stops for that offense 
+by the two departments. And a department that 
+wished to minimize the possibility of having its traffic 
+stops invalidated would be well-advised to dispense 
+with internal prohibitions on enforcement altogether. 
+See United States v. Caceres, 440 U.S. 741, 755-756 
+(1979) (declining to apply exclusionary rule to “every 
+regulatory violation” because of the possibility that 
+that sanction would have “a serious deterrent impact 
+on the formulation of additional standards to govern 
+prosecutorial and police procedures”). 
+
+
+33 
+
+
+2. For officers in the field, who must often make 
+split-second decisions as to what course of action to 
+undertake, such a regime would be both unpredictable 
+and confusing. Except where departmental regula- 
+tions unambiguously mandated or forbade stops for a 
+given traffic offense, officers would not know, when 
+they see a violation, whether a court would later hold 
+that stopping the motorist conformed to internal 
+regulations or “usual police practices.” To make the 
+constitutionality of a stop turn on whether an officer 
+has correctly analyzed how a potentially vague or 
+general internal regulation applies to the situation at 
+hand would “complicatfe] the thought processes and 
+the on-the-scene judgments of police officers,” who 
+instead should be “free to follow their legitimate 
+instincts when confronting situations presenting a 
+danger to the public safety.” New York v. Quarles, 
+467 U.S. 649, 659 (1984). 
+
+When an officer is free to initiate a traffic stop upon 
+a showing of reasonable suspicion or probable cause, 
+the officer is guided by a familiar standard that is 
+ultimately subject to testing in court under a well- 
+developed body of law. The officer knows that he must 
+articulate specific facts to justify the intrusion in 
+question. While it may be desirable for police depart- 
+ments to adopt additional regulations, either to pro- 
+mote regularity of action or to establish law enforce- 
+ment priorities, such regulations, by themselves, 
+normally afford no basis for the remedy of suppres- 
+sion of evidence in a criminal case. See United States 
+v. Caceres, supra (refusing to suppress evidence 
+obtained from consensual electronic surveillance, 
+despite acknowledged violation of administrative 
+regulations that mandated prior authorization by 
+senior officials). When an officer has a basis to be- 
+
+
+34 
+
+
+lieve that a motorist has violated the traffic laws, the 
+officer’s misapplication of an internal regulation 
+provides no justification for immunizing the motorist 
+from criminal liability. 
+
+3. The unworkability of petitioners’ “would have” 
+test is illustrated by the experiences of the Ninth and 
+Eleventh Circuits, the two circuits that presently 
+apply that test. In practice, both circuits have based 
+their decisions not on departmental regulations or 
+enforcement patterns, but on the state of mind of the 
+officer who made the stop. See, e.g., United States v. 
+Cannon, 29 F.3d 472, 476 (9th Cir. 1994) (upholding 
+stop based on the fact that officer had been told by 
+colleagues that defendant did not have a driver’s 
+license; no inquiry made into whether officers gener- 
+ally made stops for that offense); United States v. 
+Valdez, 931 F.2d 1448, 1451 (11th Cir. 1991) (holding 
+that stop was unreasonably pretextual based on testi- 
+mony of patrol officer that he pulled over defendant 
+for weaving into the emergency lane after being 
+advised that narcotics unit wanted car stopped); 
+United States v. Smith, 799 F.2d 704, 710 (11th Cir. 
+1986) (holding that stop was unreasonably pretextual 
+based on evidence of officer’s lack of interest in 
+investigating drunk-driving charges). See Ferguson, 
+8 F.3d at 391. Yet consideration of a particular 
+officer’s subjective motivations is precisely what peti- 
+tioners purport to avoid (Br. 32) by using an “objec- 
+tive” measure of pretext. If the departments whose 
+otficers made the stops at issue in Valdez and Smith 
+“usually” enforced the laws against interlane weav- 
+ing and drunk-driving, respectively, then under peti- 
+tioner’s “would have” test, those stops should have 
+been upheld. 
+
+
+> 
+
+
+35 
+
+
+Based largely on such practical considerations, the 
+en bane Tenth Circuit recently reconsidered the 
+“would have” standard, which it had sought to apply in 
+traffic stop cases between 1988 and 1995, and aban- 
+doned that standard. See Botero-Ospina, 71 F.3d at 
+787 (overruling United States v. Guzman, 864 F.2d 
+1512, 1517 (10th Cir. 1988)). The court noted that its 
+application of the “would have” test had been “incon- 
+sistent and sporadic” and that that test had proven 
+unworkable. 71 F.3d at 786. At times, the court 
+observed, it had measured the stop against the prac- 
+tices of an entire State’s police force, see Guzman, 
+864 F.2d at 1518) (New Mexico); at other times, 
+against the practices of a particular unit within a 
+state highway patrol, see United States v. Fer- 
+nandez, 18 F.3d 874, 877 (10th Cir. 1994) (part of Utah 
+Highway Patrol); and at still others, against the 
+practices of the individual officer, see, e.g., United 
+States v. Harris, 995 F.2d 1004, 1006 (10th Cir. 1993). 
+Botero-Ospina, 71 F.3d at 786. Moreover, the court 
+found, the “would have” test had not invalidated any 
+traffic stop that would have been sustained under the 
+traditional inquiry into whether the stop was 
+supported by reasonable suspicion. Jbid. The court 
+accordingly held that a traffic stop may be initiated 
+whenever an officer has reasonable suspicion to 
+believe that a traffic or equipment violation has 
+occurred or is occurring, and that it is irrelevant 
+what the motives of the officer making the stop were 
+or whether the stop departed from the department’s 
+“general practice” or the officer’s routine. Jd. at 787. 
+The court emphasized that it was not “abandoning the 
+traveling public to ‘the arbitrary exercise of discre- 
+tionary police power,” because the officer’s actions 
+after making the stop must be “related in scope to the 
+
+
+36 
+
+
+circumstances that justified the interference in the 
+first place.” Jd. at 786, 788 (citations omitted)."” 
+
+4. Petitioners (Br. 41-42) and their amici (ACLU 
+Br. 13-14) claim that “usual practices” would be deter- 
+mined in this case by applying an internal police 
+department regulation, Metropolitan Police Depart- 
+ment (MPD) General Order 303.1(D(A)(2)(a)(4) (1992) 
+(reprinted at Pet. Br. Add. 4). The regulation 
+provides that, while “traffic enforcement action” may 
+be taken by other police officers under any 
+circumstances, id. at 303.1(1)(A)(2)(a)(1)-(3), such 
+action should be taken by plainclothes officers in 
+unmarked cars “only in the case of a violation that is 
+so grave as to pose an immediate threat to the safety 
+of others.” Jd. at 303.1(1)(A)(2)(a)(4). 
+
+As an initial matter, a general Fourth Amendment 
+rule in this area should not turn on whether a 
+particular police department has established written 
+procedures to govern particular stops. But as this 
+case illustrates, even such written procedures do not 
+eliminate the malleability of the “usual practices” 
+inquiry. Petitioners offer no reason why “usual 
+police practice” should be determined with reference 
+only to “officers out of uniform in unmarked cars” 
+(Br. 41), rather than the entire police force. The de- 
+partment’s regulation does not suggest, and peti- 
+tioners do not assert, that the policy of the District of 
+Columbia police department is not to enforce the 
+
+
+17 The en banc Sixth Circuit had earlier adopted the same 
+standard. United States v. Ferguson, supra. In doing so, the 
+court noted that, although its prior decisions had purported to 
+apply the “would have” test endorsed by petitioner, in reality 
+those decisions had inquired only into whether the stop was 
+supported by probable cause or reasonable suspicion. 8 F.3d at 
+390-391. 
+
+
+37 
+
+
+violations that petitioners committed. The regula- 
+tions provide, in fact, to the contrary. See MPD 
+General Order 303.1(III(B)(1) (“District Comman- 
+ders shall * * * enforce all traffic regulations.”). 
+Nor do petitioners dispute that the officers had 
+statutory authority to make the stop. See D.C. Code 
+Ann. § 23-581(a)(1)(B) (1981 & Supp. 1989) (“A law 
+enforcement officer may arrest, without a warrant 
+having previously been issued therefore[,] * * * a 
+person who he has probable cause to believe has 
+committed or is committing an offense in his 
+presence.”). 
+
+The regulation on which petitioners rely merely 
+allocates enforcement duties among different officers. 
+It sensibly directs plainclothes officers like Officer 
+Soto not to divert from their important investigative 
+duties except to enforce sufficiently serious traffic 
+offenses. There is no reason why the stop of peti- 
+tioners’ vehicle should be deemed unlawful (and its 
+fruits suppressed) because the officer who was 
+present to observe the offenses was assigned to other 
+enforcement duties. Indeed, under petitioners’ analy- 
+sis, identical stops of motorists for identical offenses 
+would yield different results under the Fourth 
+Amendment if made by officers in the same depart- 
+ment, simply as a result of the officers’ internally 
+assigned responsibilities. See Johnson, 63 F.3d at 247 
+(“It is not apparent why police officers should be 
+precluded from making an otherwise valid traffic stop 
+merely because by doing so they would be departing 
+from some routine”); Scopo, 19 F.3d at 783." 
+
+
+* Moreover, although petitioners’ “would have” test pur- 
+ports to be an objective gauge of “pretext,” it would uphold a 
+search by a District of Columbia traffic officer who freely 
+
+
+38 
+
+
+Furthermore, even if the regulation on which 
+petitioners rely were dispositive of whether the stop 
+conformed to “usual practices,” use of that test would 
+have forced Officer Soto to decide, on-the-spot, 
+whether the violations that he had observed would 
+later be held to have posed “an immediate threat 
+to the safety of others,” MPD General Order 
+303.1(1)(A)(2)(a)(4), knowing that a mistaken judgment 
+on that issue would have led to the exclusion of 
+evidence. We believe that an officer reasonably could 
+have concluded that turning without signalling and 
+driving at an unreasonable speed in a residential 
+neighborheod at night, singly or together, constituted 
+such a threat to safety. But whatever the proper 
+application of that internal rule to the facts at hand, 
+the risk of overdeterring officers from responding to 
+observed offenses, and the cost of excluding probative 
+evidence, far outweigh any benefit gained by using the 
+Fourth Amendment to insist upon compliance with 
+internal police protocol. 
+
+
+admitted that he stopped a car out of a desire to search for 
+narcotics, but it would invalidate an identical search by a 
+undercover vice officer who was purely motivated by a desire 
+to enforce the traffic laws. Compare Graham, 490 U.S. at 397; 
+Scott, 436 U.S. at 138. Furthermore, it is clear that a District 
+of Columbia narcotics officer could have stopped petitioners’ 
+car consistent with the internal regulations, provided that he 
+was in uniform and in a marked police car. See MPD General 
+Order 303.1(1(A)(2Ma)(1) (1992) (Pet. Br. Add. 4). Thus, 
+petitioners’ approach of focusing their “usual practices” 
+analysis on internal assignments within the department would 
+fail to prevent “pretext” stops by some of the very officers 
+whom petitioners would presumably surmise are most likely to 
+be “pretextually” motivated. 
+
+
+39 
+
+
+E. The Stop Of Petitioners’ Automobile Was Law- 
+ful, And The Search Was Reasonably Limited In 
+Scope And Manner 
+
+
+In light of the foregoing, the initiation of the traffic 
+stop in this case was reasonable within the meaning 
+of the Fourth Amendment, because the officers had 
+probable cause, based on their own observations, to 
+believe that the driver of the Pathfinder had com- 
+mitted several traffic offenses. Petitioners appear to 
+claim (Br. 44-46), however, that even if the stop itself 
+was justified, it was carried out in an unreasonable 
+manner because it was not conducted by traffic 
+officers, but by plainclothes officers in an unmarked 
+car. That claim lacks merit.” 
+
+We know of no case to hold unreasonable a stop of a 
+motorist (or a pedestrian) based on reasonable suspi- 
+cion or probable cause because the officers did not 
+wear clothing or drive in a vehicle that identified 
+them as police. On the contrary, common sense dic- 
+tates that officers whose identity is not immediately 
+apparent will be more efficacious in observing un- 
+lawful conduct in many situations, whether in patrol- 
+
+
+It also appears that petitioner’s challenge to “how [the] sei- 
+zure was made” (Br. 44) is not properly encompassed within 
+the question presented by the petition for a writ of certiorari. 
+That question is (Pet. i): “Whether a pretextual traffic stop 
+undertaken by officers who were prohibited by police depart- 
+ment regulations from making traffic stops was objectively 
+unreasonable under the Fourth Amendment where no rea- 
+sonable officer in those circumstances would have made such a 
+stop (the test used by the Ninth, Tenth, and Eleventh Circuits) 
+or whether such a stop was permissible as long as it could have 
+been made because of a traffic violation (the test used by the 
+D.C. Circuit in this case, and the Second, Third, Fourth, Fifth, 
+Sixth, Seventh and Eighth Circuits).” 
+
+
+40 
+
+
+ling roadways or walking the streets. See, e.g., 
+Terry, 392 U.S. at 5-7 (recounting how plainclothes 
+officer observed suspects “case” store). Prouse, 
+supra, and Brignoni-Ponce, supra, on which peti- 
+tioners rely (Br. 44) are inapposite. Those cases 
+invalidated random traffic stops that were not based 
+on reasonable suspicion. While the Court noted that 
+surprise traffic stops represent an intrusion on 
+motorists’ Fourth Amendment interests, see Prouse, 
+440 U.S. at 657, the Court emphasized that such 
+traffic stops would have been lawful if made upon a 
+showing of reason to believe “that a motorist is 
+unlicensed * * * or that either the vehicle or an 
+occupant is otherwise subject to seizure for violation 
+of law.” Prouse, 440 U.S. at 663; Brignoni-Ponce, 422 
+U.S. at 882-884; see also note 4, supra. That showing 
+was made in this case. 
+
+Also misplaced is petitioners’ reliance (Br. 46) on 
+Wilson v. Arkansas, 115 8S. Ct. 1914 (1995). In Wilson, 
+this Court held that a police entry into a home to 
+execute a search warrant may be unreasonable if not 
+preceded by an announcement of police entry, based on 
+the long common-law history of requiring police to 
+“knock and announce” before entering a home. /d. at 
+1916. There is no common-law history requiring any 
+form of pre-stop identification by police who stop 
+automobiles, and as the Court has noted, the “physical 
+entry of the home is the chief evil against which the 
+wording of the Fourth Amendment was directed.” 
+Payton v. New York, 445 U.S. 573, 585 (1980) (war- 
+rantless entries into the home are prohibited by the 
+
+
+41 
+
+
+Fourth Amendment absent probable cause and exi- 
+gent circumstances).” 
+
+Even if there were some requirement of pre-stop 
+notification of the officers’ status, it was established 
+at the suppression hearing that Officer Soto was 
+wearing an orange police armband and a badge, and 
+that he identified himself as a police officer as he 
+approached petitioners’ car. Tr. 13-14. The intrusion 
+on petitioners’ privacy that followed “was limited and 
+was ‘reasonably related in scope to the justification 
+for [its] inception.’” Cortez, 449 U.S. at 421 (quoting 
+Terry, 392 U.S. at 29)). Officer Soto remained outside 
+the car until he observed cocaine in the front seat, 
+compare Cortez, 449 U.S. at 421, and that observation 
+fully justified his entry into the vehicle to retrieve 
+the cocaine and to apprehend petitioners. Compare 
+United States v. Hassan El, 5 F.3d 726, 731 (4th Cir. 
+1993). 
+
+
+»® For similar reasons, Welsh v. Wisconsin, 466 U.S. 740 
+(1984), on which petitioners also rely (Br. 16, 40), is inapposite. 
+Welsh held that officers may not rely on the doctrine of 
+exigent circumstances to enter a home at night without a war- 
+rant to make an arrest for a minor traffic offense. As the 
+Court emphasized in Welsh, its decision turned on the “special 
+protection afforded the individual in his home under the 
+Fourth Amendment,” 466 U.S. at 754, a factor absent here. 
+
+
+42 
+
+
+CONCLUSION 
+
+
+The judgment of the court of appeals should be 
+affirmed. 
+Respectfully submitted. 
+
+
+Drew S. Days, III 
+Solicitor General 
+
+
+JOHN C. KEENEY 
+Acting Assistant Attorney 
+General 
+
+
+MICHAEL R. DREEBEN 
+Deputy Solicitor General 
+
+
+PAUL A. ENGELMAYER 
+Assistant to the Solicitor 
+General 
+
+
+THOMAS M. GANNON 
+Attorney 
+
+
+MARCH 1996 
+
+

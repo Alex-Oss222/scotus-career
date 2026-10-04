@@ -1,0 +1,48 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 221,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:&quot;95-860&quot; OR text:&quot;95-860&quot; OR text__reviews:&quot;95-860&quot;) OR title:Smiley)",
+      "qin": "collection:us-supreme-court AND (&quot;95-860&quot; OR title:Smiley)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 30,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 7,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "per_scotus_1893_78",
+        "title": "William J. Connell, Frederick H. Lay, and Herbert M. Tenny, Appellants, vs. John A. Smiley. 1893: Vol 78"
+      },
+      {
+        "identifier": "micro_IA40385001_1098",
+        "title": "Hosack v. Smiley, 390 U.S. 744 (1968) (No. 1196)"
+      },
+      {
+        "identifier": "micro_IA40386013_1339",
+        "title": "Smiley v. Kentucky, 522 U.S. 950 (1997) (No. 97-389)"
+      },
+      {
+        "identifier": "micro_IA40386417_0218",
+        "title": "Smiley v. United States, 340 U.S. 817 (1950) (No. 124)"
+      },
+      {
+        "identifier": "micro_IA40386417_0219",
+        "title": "Smiley v. United States, 340 U.S. 817 (1950) (No. 124)"
+      },
+      {
+        "identifier": "micro_IA40385013_0672",
+        "title": "Smiley v. Citibank (South Dakota), NA, 517 U.S. 735 (1996) (No. 95-860)"
+      },
+      {
+        "identifier": "micro_IA40386008_0156",
+        "title": "Smiley v. Holm, 285 U.S. 355 (1932) (No. 617)"
+      }
+    ]
+  }
+}

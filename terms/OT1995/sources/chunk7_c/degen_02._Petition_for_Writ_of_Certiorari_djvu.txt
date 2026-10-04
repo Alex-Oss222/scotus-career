@@ -1,0 +1,3774 @@
+Supreme Court, U.S. 
+) FILED 
+
+
+No. 95° 173 Jui 28 1995 
+
+
+SESE OE fiie Conk 
+Jn the Supreme Court of the Gnited States 
+OCTOBER TERM, 1995 
+
+
+BRIAN J. DEGEN, PETITIONER 
+V. 
+
+
+UNITED STATES OF AMERICA, RESPONDENT 
+
+
+Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the Ninth Circuit 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+DANIEL W. STEWART LAWRENCE S. ROBBINS 
+Daniel W. Stewart, Ltd. Counsel of Record 
+Post Office Box 3021 ALAN E. UNTEREINER 
+Reno, Nevada 89505-3021 Mayer, Brown & Platt 
+(702) 323-3030 2000 Pennsylvania Ave., N. W. 
+Washington, D.C. 20006 
+(202) 463-2000 
+
+
+QUESTION PRESENTED 
+
+
+Whether a federal district court may, in the exercise of its 
+“inherent” or “supervisory” powers, invoke the “fugitive dis- 
+entitlement” doctrine to bar a citizen and resident of a foreign 
+country from offering amy defense against the government’s 
+confiscation of millions of dollars worth of his property, merely 
+because the property owner has not traveled to the United States 
+to confront a criminal indictment in a wholly separate case. 
+
+
+(i) 
+
+
+RULE 14.1 STATEMENT 
+
+
+Pursuant to Rule 14.1(b) of the Rules of this Court, petitioner 
+hereby provides the following names of parties to this proceeding 
+whose names do not appear in the caption: 
+
+
+Karyn Degen, claimant 
+
+
+Real Property Located at Incline Village, et al., defendants 
+
+
+(for a complete list of the defendant properties, see A 
+eedee properties, pp., infra, 
+
+
+(ii) 
+
+
+*** 
+
+
+TABLE OF CONTENTS 
+
+Page 
+QUESTION PRESENTED ..............cccceees 
+ee se wee eiess beenen i 
+TABLE OF AUTHORITIES .................... iv 
+ae ae ee _ 
+ed eu bees 
+
+CONSTITUTIONAL AND STATUTORY PROVISIONS 
+AND RULE INVOLVED ................... 2 
+ent ne eceseuces 2 
+REASONS FOR GRANTING THE PETITION ......... 8 
+
+
+A. As The Solicitor General Has Previously Acknowledged, 
+The Circuits Are Deeply Divided Over Whether The 
+“Fugitive Disentitlement Doctrine” May Be Invoked In 
+A Civil Forfeiture Proceeding To Bar A Property Owner 
+From Defending Against The Government's Confiscation 
+
+
+PE occ eck ecccctencteseseseeseces 9 
+B. The Ninth Circuit's Decision Is Manifestly Incorrect And 
+
+At Odds With Many Of This Court's Decisions ..... 16 
+C. The Issues Presented Are Important And Recurring ... 26 
+nn . Tes sh etek ee eek ehewen eee’ 29 
+
+
+iv 
+TABLE OF AUTHORITIES 
+Cases: Page 
+Aamco Transmissions, Inc. v. Martin, 647 F.2d 164 
+
+
+PP ee re Perr 28 
+Ali v. Sims, 788 F.2d 954 (3d Cir. 1986) ............ 28 
+Alvarez v. United States, 115 S$. Ct. 1092 
+
+GE brad akcatetke os eee eee ee A ae 16 
+Andra v. Erickson, 1995 U.S. Dist. LEXIS 
+
+8555 (D. Mont. May 31, 1995) ............... 28 
+Arana v. United States Immigration & Naturalization 
+
+Serv., 673 F.2d 75 (3d Cir. 1982).............. 28 
+Austin v. United States, 113 S. Ct. 2801 (1993) ........ 24 
+Bank of Nova Scotia v. United States, 487 U.S. 
+
+I, dri Acuhiiia Gta ee are aa Sneak 21 
+Bar-Levy v. United States Dep't of Justice, 
+
+I.N.S., 990 F.2d 33 (2d Cir. 1993) ............., 28 
+
+
+BCCI Holdings (Luxembourg), Society Anonyme v. 
+Pharaon, 1995 WL 231330 (S.D.N.Y. 1995) .... 24, 29 
+
+
+Berkery v. C.1.R., 90 T.C. 259 (T.C. 1988) .......... 28 
+Bonahan v. Nebraska, 125 U.S. 692 (1887)........... 17 
+Brady v. United States, 397 U.S. 742 (1970) .......... 21 
+
+
+Broadway v. City of Montgomery, 530 F.2d 657 
+
+
+I SE aaa aaa arn 28 
+Conforte v. Commissioner, 692 F.2d 587 (9th 
+
+is ME cle a ts ee rere 4, 9, 22, 28 
+Coninck v. C.1.R., 100 T.C. 495 (T.C. 1993) ......... 28 
+Daccarett-Ghia v. C.1.R., 1994 WL 675537 
+
+Oe at A ee, St 28 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+Doe v. Superior Court (Polanski), 222 Cal. 
+
+App. 3d 1406, 272 Cal Rptr. 474 (2d Dist. 
+
+ME TEED 6 cc cccuncocsccccossdeccs: 13, 14 
+Doyle v. United States Dep’t of Justice, 668 F.2d 
+
+1365 (D.C. Cir. 1981), cert. denied, 455 U.S. 
+
+ERNE cccccsesesenssevesenes 14, 25, 28 
+Edelman v. C.1.R., 103 T.C. 705 (T.C. 1994) ......... 28 
+Eisler v. United States, 338 U.S. 189 (1949) .......... 17 
+Estelle v. Dorrough, 420 U.S. 534 (1975)... . «6 6 ees 22 
+Friko Corp. v. Commissioner of Internal Revenue, 
+
+26 F.3d 1139 (D.C. Cir. 1994) .......... 14, 18, 28 
+Fuentes v. Shevin, 407 U.S. 67 (1972)... 2 6 6 ee ee 21 
+Garcia v. Metro-Dade Police Dep't, 
+
+576 So.2d 751 (Fla. App. 1991) ...... 2. eeu eee 29 
+Goeke v. Branch, 115 §. Ct. 1275 (1995) 
+
+(per curiam) 2... cece eee ee enee 17, 21, 22 
+Griffin v. City of New York Correctional 
+
+Com’r, 882 F. Supp. 295 (E.D.N.Y. 1995) ........ 28 
+Gruevski v. C.1.R., 59 T.C.M. (CCH) 842 
+
+SE Cs ced eeebdbeeesdersecoccccece 28 
+Hovey v. Elliott, 167 U.S. 409 (1897) ... 2... eee eee 20 
+In re Assets of Martin, | F.3d 1351 (3d Cir. 1993) ...... 28 
+In re Prevot, 1995 U.S. App. LEXIS 17014 
+
+(6th Cir. July 14, 1995) .......--. 000s 14, 28, 29 
+Korkala v. United States Customs Ser .ce, 1989 
+
+U.S. Dist. LEXIS 7902 (D.N.J. 1989) ........... 15 
+
+
+Mathews v. Eldridge, 424 U.S. 319 (1976) .........+.- 20 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+Mayberry v. Robinson, 427 F. Supp. 297 (M.D. 
+
+er rrr er ert Troe eee Peer er 28 
+McVeigh v. United States, 78 U.S. (11 Wall.) 
+
+ee oa ee a 20, 21 
+Molinaro v. New Jersey, 396 U.S. 365 (1970) ..... 6, 16, 17 
+Ohio Bell Tel. Co. v. Public Util. Comm'n, 301 
+
+ee a) 21 
+Ortega-Rodriguez v. United States, 113 S$. Ct. 
+
+PE ch ka tan ed bGbde eee entaneuK passim 
+Pecoraro v. C.1.R., 1995 WL 311334 (T.C. 1995) ...... 28 
+Perko v. Bowers, 945 F.2d 1038 (8th Cir. 1991), 
+
+cert. denied, 503 U.S. 939 (1992)........... 28, 29 
+Schuster v. United States, 765 F.2d 1047 
+
+EE oe oes bebe ave odeccdcecous 28 
+Siebert v. Johnston, 381 F. Supp. 277 
+
+a eee 28 
+Singh v. Reno, 1994 WL 721469 (N.D. Cal. 1994) ...... 28 
+Singh v. Schiltgen, 1995 WL 311966 (N.D. Cal. 1995) ... 28 
+Smith v. C.1.R., 57 T.C.M. (CCH) 864 (T.C. 1989) ..... 28 
+Smith v. United States, 94 U.S. 97 (1876) ......... 16, 17 
+Societe Internationale v. Rogers, 357 U.S. 197 
+
+PE a nbwet 66 de bea wd eek c nek ene 18, 21 
+State of Maryland Deposit Insurance Fund Corp. v. 
+
+Billman, 321 Md. 3, 580 A.2d 10441990) ........ 29 
+Thomas v. Arn, 474 U.S. 140 (1985) ............... 21 
+
+
+United Elec., Radio and Mach. Workers of America v. 
+163 Pleasant Street Corp., 960 F.2d 1080 
+Seems SEG 3.6 whEMé ee Udk cee bWiewcece: 28 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+
+United States v. $32,420 in United States Currency, 
+
+1994 U.S. App. LEXIS 31628 (7th Cir. Nov. 7 
+
+ED coves eb bbe Seer were cesennesecs 13 
+United States v. $40,877.59 in U.S. Currency, 
+
+32 F.3d 1151 (7th Cir. 1994)... . 2... ee ee passim 
+United States v. $45,940 in United States Currency, 
+
+739 F.2d 792 (2d Cir. 1984) ..........4... 9, 10, 26 
+United States v. $83,320 in United States Currency, 
+
+682 F.2d 573 (6th Cir. 1982) .......... 4, 11, 12, 26 
+United States v. $129,374 in United States Currency, 
+
+769 F.2d 583 (9th Cir. 1985), cert. denied, 
+
+Sk ol er 4,9 
+United States v. $182,980.00 U.S. Currency, 727 
+
+F. Supp. 1387 (D. Colo. 1990) ..........-.. 15, 27 
+United States v. $470,371.76 U.S. Currency, 
+
+More or Less, 1993 WL 88226 (S.D.N.Y. 1993) .... 26 
+United States v. All Funds on Deposit in Any 
+
+Accounts Maintained at Merrill Lynch, 
+
+Pierce, Fenner & Smith, 801 F. Supp. 984 
+
+0. , | er ee 26 
+
+
+United States v. All Monies in Account No. 400 
+6050975 00, 1992 U.S. Dist. LEXIS 16930 
+GD. Pa. Mov. 4, 1992)... ccc ccc ccccees 11, 26 
+
+
+United States vy. Certain Funds In The United 
+Kingdom, Nos. 92-2294, -2295, -2920, 93-2424 
+(1ith Cir. Apr. 13, 1994) 2. ee 27 
+
+
+United States v. Certain Real Property Located 
+at 760 S.W. Ist Street, Miami, Florida, 702 
+
+
+F. Supp. 575 (W.D.N.C. 1989)... 2... eee ee ees 27 
+
+
+viii 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+United States v. Certain Real Property and 
+Premises Known as 218 Panther Street, 
+Newfoundland, Pa., 745 F. Supp. 118 
+(E.D.N.Y. 1990), aff'd, 851 F.2d 461 
+EN a eas ene ed 2 a sb 14, 15 
+
+
+United States v. Collins, 651 F. Supp. 1177 
+Sh Oe Sb 60 eWeek ees cece ee we 15, 27 
+
+
+United States v. Contents of Accounts Nos. 
+3034504504 and 144-07143 At Merrill, Lynch, 
+Pierce, Fenner and Smith, Inc. , 971 
+Fue POW GPG SUED cocci encececvoves 11, 26 
+
+
+United States v. Eagleson, 874 F. Supp. 27 
+SR ED 5h e656 40 60k 60803:06.0'0 vnnes 28 
+
+
+United States v. Eng, 951 F.2d 461 (2d Cir. 1991) . 10, 18, 26 
+United States v. James Daniel Good Real Property, 
+
+
+—) 5 8 | PPrrercerrrrce 7, 16, 20, 26 
+United States v. Michelle's Lounge, 39 F.3d 684 
+Es bo 6b oun de 69 Ob ebb 08 ks 13, 26 
+
+
+United States v. One Lot of U.S. Currency 
+Totalling $506,537.00, 628 F. Supp. 1473 
+8 RR Be 27 
+
+
+United States v. One Parcel of Real Estate 
+at 7707 S.W. 74th Lane, Miami, Dade County, 
+Florida, 868 F.2d 1214 (11th Cir. 1989)....... 10, 26 
+
+
+United States v. One Parcel of Real Property 
+Described as Lot 156 and the South Three 
+Feet of Lot 157, Valley View Estates, 
+1992 U.S. App. LEXIS 29278 (8th Cir. 1992) 
+PD 6464 -ce ceed baeeeerebeenvaen és 11 
+
+
+ix 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+United States v. One Parcel of Real Property 
+Described as Lot 156 and the South Three 
+Feet of Lot 157, Valley View Estates, 
+776 F. Supp. 482 (W.D. Mo. 1991), aff d, 
+1992 U.S. App. LEXIS 29278 (8th Cir. 
+i) fr 27 
+
+
+United States v. One Residential Property 
+Located At 450 Ocean Drive, PH-3, Juno 
+Beach, Fla., 1989 WL 140904 (9th Cir. 
+
+
+DET ECC eee RORE SHEN EOEEEOS OR Reo reese 26 
+United States v. Pole No. 3172, Hopkinton, 852 
+- | J + 3 reer eee passim 
+
+
+United States v. Real Property at 11205 McPherson 
+Lane, Ojai, California, 1994 U.S. App. LEXIS 
+20658 (9th Cir.), cert. dismissed, 115 
+
+
+5 hi = rrr rere rrr reer eee 27 
+United States v. Sanders, 1995 U.S. App. LEXIS 3999 
+(10th Cir. Feb. 28, 1995) .. 0... cc ee es 27 
+
+
+United States v. Sharpe, 470 U.S. 675 (1985) . 14, 17, 18, 19 
+United States v. Timbers Preserve, Routt County, 
+
+
+Colorado, 999 F.2d 452 (10th Cir. 1993) ...... 10, 26 
+United States v. Twenty Cashier’s Checks, 897 
+Pues Ge CU: GED ccc esc cecccecccgens 26 
+
+
+United States v. United States Currency in 
+Amount of $294,600, 1992 WL 170924 
+8 a EE ere 26, 27 
+
+
+Windsor v. McVeigh, 93 U.S. 274 (1876) ............ 20 
+
+
+Statutes, Rules, And Constitutional Provisions: 
+i en ol ee eee ee se kd 6 24 
+
+
+x 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+Sp es ED: one wae eee hee eee ee 28 
+4 OS Re rer 25 
+SP EE Gane ad edeveees sacs eenbees 23 
+PR ee eee eT ere ere ee 2 
+
+
+ae Ce ED 5 ou 0 oe net bce es beevenuns 3, 22 
+Se a EE ca veckbawe meee ee eae on 3, 22, 24 
+Pe EE wa aca tuuecaes obeabee ne oes l 
+ST Shka ewes hoe eee tanh aweaes 28 
+re ee 11 
+es ah bas whee ee 13 
+Rule C(6) of the Supplemental Rules for 
+
+Certain Admiralty and Maritime Claims ....... 21, 22 
+FR BO rere eae eee 2, 19 
+Miscellaneous: 
+| David B. Smith, Prosecution and Defense of 
+
+Forfeiture Cases (Matthew Bender 1991 
+
+iy ss Is ok 0 0.0 6 0 06 060 0-6 b he 15 
+> Gee ee Ge BO GE, Dy WUD a vec ct ec esnnses 23 
+Howard Mintz, Fort Reno’s Obsession, The American 
+
+ies ein ce aw on nee 6 88 23 
+John G. Kester, Some Myths of United States 
+
+Extradition Law, 76 Geo. L.J. 1441 (1988) ........ 15 
+Jury Acquits Hallinan of All Charges, S.F. 
+
+ns Ne ata wine as 23 
+S.F. Lawye, is Acquitted in Drug Ring Case, 
+
+Los Angeles Times, Mar. 8, 1995 .............. 23 
+
+
+tr i eee 
+
+
+xi 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+U.S. Br. in Opp., Alvarez v. United States, Nos. 
+94-636 and -943 (Jan. 11, 1995) ......... 8, 9, 15, 16 
+Webster’s New World Dictionary of American English 
+(36 Callens 06. IDGR) 0 wc ccm cee essens 24 
+
+
+In the Supreme Court of the Gnited States 
+
+
+OCTOBER TERM, 1995 
+
+
+No. 
+
+
+BRIAN J. DEGEN, PETITIONER 
+V. 
+
+
+UNITED STATES OF AMERICA, RESPONDENT 
+
+
+Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the Ninth Circuit 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the United States Court of Appeals for the 
+Ninth Circuit (App., infra, la-16a) is reported at 47 F.3d 1511. 
+The opinion of the United States District Court for the District of 
+Nevada (App., infra, 17a-26a) is reported at 755 F. Supp. 308. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on February 
+10, 1995. A petition for rehearing was denied on May 5, 1995 
+(App., infra, 38a-39a), and a petition for a writ of certiorari is 
+accordingly due on August 3, 1995. The jurisdiction of this Court 
+is invoked under 28 U.S.C. § 1254(1). 
+
+
+2 
+
+
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS AND RULE INVOLVED 
+
+
+The Due Process Clause of the Fifth Amendment to the 
+United States Constitution provides, in pertinent part, that “[nJo 
+person shall be * * * deprived of life, liberty, or property, without 
+due process of law.” Pertinent provisions of 21 U.S.C. § 881(a) 
+and of the Supplemental Rules for Certain Admiralty and Maritime 
+Claims are set forth in the appendix. App., infra, 40a. 
+
+
+STATEMENT 
+
+
+In this civil forfeiture action, the United States government 
+confiscated millions of dollars worth of petitioner’s real and 
+personal property without allowing him amy opportunity to be 
+heard in defense. The deprivation of petitioner’s property was 
+based on nothing more than an unreviewed finding of probable 
+cause made by a federal magistrate in an ex parte proceeding. The 
+Ninth Circuit approved this breathtaking assertion of prosecutorial 
+authority by applying the “fugitive disentitlement” doctrine, 
+according to which — in the Ninth Circuit and elsewhere — a 
+federal court may invoke its “inherent” or “supervisory” powers 
+to “disentitle” alleged fugitives from justice from seeking judicial 
+relief of any kind. Without requiring any showing that Brian 
+Degen had fled from the United States or departed with an intent 
+to avoid prosecution, the Ninth Circuit reasoned that merely 
+because petitioner, a Swiss national, currently resides in Switzer- 
+land and has failed to return to the United States to face criminal 
+charges in a separate case, he is a fugitive from justice. On that 
+basis, the court of appeals sustained the district court’s decision 
+Striking petitioner’s claim and ordering that his property be 
+summarily forfeited to the government — without regard to 
+petitioner's numerous (and quite substantial) defenses on the 
+merits. 
+
+
+1. The government commenced this civil forfeiture action 
+on October 24, 1989, against certain real and personal property 
+owned by petitioner Brian J. Degen and his wife, Karyn Degen. 
+According to the government’s skeletal complaint, the Degens’ 
+property — which includes real property in California, Nevada, 
+and Hawaii estimated by the government to be worth more than 
+
+
+3 
+
+
+$5.5 million — is forfeitable under 21 U.S.C. § 881(a)(6) because 
+it was “purchased or acquired” by petitioner between 1973 and 
+1989 “in part or in total” with funds that were “the proceeds of 
+exchanges of controlled substances or funds traceable to” such 
+exchanges. Court of Appeals Excerpt of Record (“ER”) 423, 472- 
+94. The government further asserted that the Degens’ real 
+property was “used or intended to be used to commit or to 
+facilitate the commission of a controlled substances violation” and 
+was therefore “subject to forfeiture pursuant to 21 U.S.C. 
+§ 881(a)(7).” ER 424. In support of its complaint, the govern- 
+ment filed an affidavit of a Drug Enforcement Agency (DEA) 
+agent, alleging that Ciro Mancuso and petitioner were part of a 
+marijuana smuggling operation and recounting various alleged 
+instances of smuggling by Mancuso, petitioner, or both. ER 474- 
+94. The affidavit relied heavily on information obtained from 
+confidential informants. 
+
+
+On the strength of the complaint and DEA affidavit, the 
+government, in an ex parte proceeding before a federal magistrate 
+on October 24, 1989, obtained a warrant authorizing the seizure of 
+the Degens’ property. On the same day that the government 
+commenced this forfeiture action and obtained authorization to 
+seize the Degens’ property, a federal grand jury in Nevada 
+returned an indictment charging petitioner, Mancuso, and others 
+with distribution of marijuana, money laundering, and other 
+violations of law. 
+
+
+Petitioner and his wife timely filed separate verified claims to 
+their property and verified answers to the government’s complaint. 
+ER 404, 412; Court of Appeals Supplemental Excerpt of Record 
+(“SER”) 2, 9. In his sworn answer, petitioner “denie[d] that he 
+purchased or acquired the properties referenced in the Complaint 
+* * * from 1973 through 1989 by paying for them in part or in 
+total with the proceeds of exchanges of controlled substances or 
+funds traceable to exchanges of controlled substances.” ER 414. 
+He also denied the government’s claim that the property had been 
+used to commit or to facilitate the commission of a controlled 
+substances violation (and thus were forfeitable under 21 U.S.C. § 
+881(a)(7)). ER 414, 423-24. Petitioner raised eight affirmative 
+defenses, including that the government’s claims, which rested on 
+allegations dating back to the late 1960s, were barred by the appli- 
+
+
+4 
+
+
+cable five-year statute of limitations. See ER 415-16. He also 
+challenged the legality of the ex parte seizure of his property, 
+arguing that the complaint and affidavit failed to establish probable 
+cause. ER 416. 
+
+
+On May 2, 1990, the government filed a motion to strike the 
+claims and answers of both Brian and Karyn Degen, and in the 
+alternative for summary judgment. ER 380-90. The government 
+maintained that Brian Degen (a Swiss citizen) was “a federal 
+fugitive” because he was “living in Switzerland and has no 
+intention of returning to the United States” to face the pending 
+criminal charges. ER 380, 383. Invoking the Ninth Circuit's 
+decisions in United States v. $129,374 in United States Currency, 
+769 F.2d 583 (1985), cert. denied, 474 U.S. 1086 (1986), and 
+Conforte v. Commissioner, 692 F.2d 587 (1982), the government 
+argued that as a fugitive, petitioner was precluded under the 
+“fugitive disentitlement” doctrine from offering any defense to the 
+government’s efforts to take his property. 
+
+
+Brian and Karyn Degen filed a joint opposition to the 
+government’s motion. ER 291-379. In it, they explained in 
+considerable detail (see ER 301-16) that the properties had been 
+purchased not with the proceeds of illegal drug trafficking but 
+rather with profits from some twenty years of their work in a 
+variety of real estate and construction ventures, with rental income 
+from real estate and business properties, with profits from the 
+Degens’ storage business in Hawaii, with money inherited by 
+Karyn Degen, and with capital contributions and investments from 
+Brian Degen’s affluent parents (who “own a building construction 
+business in Sacramento and have been involved in real estate 
+investment and building construction for many years” (ER 302- 
+03)). The Degens provided extensive documentary support for 
+these claims, including copies of deeds, escrow statements, 
+cancelled checks, and bank account records. See ER 331-79. 
+
+
+In opposing the government’s motions, petitioner also 
+observed that there is “a substantial split among the lower courts” 
+concerning whether “the * * * disentitlement doctrine can be 
+extended to a civil forfeiture action.” ER 294 (citing United States 
+v. $83,320 in United States Currency, 682 F.2d 573 (6th Cir. 
+1982), and United States v. Pole No. 3172, Hop*inton, 852 F.2d 
+636 (ist Cir. 1988), as cases holding the doctrine inapplicable). 
+
+
+5 
+
+
+In addition, petitioner argued that he was not a fugitive because he 
+“did not leave the U.S. with knowledge of [a] pending criminal 
+* * * action” (ER 295); that none of the purposes underlying the 
+disentitlement doctrine would be served by applying it to him (ER 
+295, 298-99, 326); that it would violate due process to apply the 
+fugitive disentitlement doctrine to deprive him of property without 
+any opportunity to be heard (ER 298, 316-26); and that disentitle- 
+ment would be grossly inequitable in this case because the 
+government was “recklessly claim[ing] property that is patently not 
+subject to forfeiture” (ER 300; see also ER 299). 
+
+
+2. On December 31, 1990, the district court granted the 
+government's motion in relevant part and ordered petitioner's 
+claim stricken. App., infra, 17a-26a. See also id. at 27a-29a. At 
+the outset, it rejected petitioner's argument that he is not a 
+fugitive.’ “[W]hether Brian left before or after the indictment,” 
+the court explained, “is irrelevant”: “to be a fugitive, a person 
+need not flee the state or country with the intent of avoiding a 
+prosecution of an anticipated prosecution.” /d. at 18a. Rather, it 
+was enough that petitioner is in a foreign country and has failed to 
+return to face charges of which he is aware. /bid. See also id. at 
+23a (“In defining a fugitive, culpability lies in knowing that a 
+prosecution is pending and refusing to return to the jurisdiction. ”). 
+
+
+The court also rejected petitioner's claim that the disentitle- 
+ment doctrine is inapplicable to this civil forfeiture proceeding. 
+App., infra, 18a-20a. The court recognized that the doctrine 
+Originated in the context of appeals from criminal convictions but 
+pointed out that the Ninth Circuit had since extended the doctrine 
+to the civil context. /d. at 18a-19a. The district court concluded 
+that petitioner was disentitled from defending against the forfeiture, 
+and sccordingly it refused to consider petitioner's “many pages” 
+of detailed and well-documented “assertions that he acquired the 
+property in question with legitimate funds,” explaining that those 
+
+
+The record establishes that petitioner moved to Switzerland well before 
+the October 1989 indictment. ER 290, 394; App., infra, 2a, Sa, 18a, 
+20a. 
+
+
+6 
+
+
+claims “may well be true” but could not be considered because 
+Degen was disentitled from offering any defense. /bid.’ 
+
+
+3. The court of appeals affirmed, holding that the disentitle- 
+ment doctrine bars petitioner from offering any defense to the 
+government's confiscation of his property. App., infra, la-16a. 
+The court acknowledged that the fugitive disentitlement doctrine 
+was developed by this Court in the context of direct criminal 
+appeals, where “a criminal defendant fled after being convicted, 
+and the Court held that his escape ‘disentitle{d him] to call upon 
+the resources of the owt for [the] determination of his’ direct 
+appeal.” Jd. at 3a (quoung Molinaro v. New Jersey, 396 U.S. 
+365, 366 (1970)). Despite these limited origins, the court 
+explained, the doctrine “applies in more contexts that just direct 
+criminal appeals” and has been “extended” by the circuit courts 
+“to disentitle fugitives from participating in civil proceedings 
+related to the criminal cases they have fled.” App., infra, 4a 
+(emphasis added). “More specifically,” the panel continued, the 
+courts of appeals have applied the doctrine “on a regular basis * 
+* * in the context of civil forfeiture claims.” Jbid. (citing cases). 
+To be sure, the court acknowledged, this case requires a further 
+extension of the disentitlement doctrine because in previous Ninth 
+Circuit cases, “the claimants hafd] fled after being convicted in a 
+related criminal proceeding” whereas petitioner had not been con- 
+victed of the crimes charged in the indictment. /d. at Sa. The 
+court concluded, however, that distinction “does not * * * compel 
+a finding that the fugitive disentitlement doctrine does not apply” 
+because: 
+
+
+* On December 2, 1992, almost two years after the district court ordered 
+petitioner's claim stricken, the government filed a second motion for 
+summary judgment against Karyn Degen. App., infra, 3a, 8a, 27a-29a; 
+ER 89. In support of that motion, the government filed three new 
+App.. infra, 3a; see ER 67-88. When Karyn failed to file a responsive 
+memorandum as required by Nevada Local Rule 140-6, the district court 
+on June 23, 1993, entered summary judgment in the government's favor. 
+App., infra, 3a, 9a-10a, 30a. The district court entered an amended final 
+judgment on August 17, 1993. Jd. at 32a-37a; ER 3-5, 15. 
+
+
+7 
+
+
+The doctrine rests on the premise that “the fugitive from 
+justice has demonstrated such disrespect for the legal process- 
+es that he has no right to call upon the court to adjudicate his 
+claim.” Ortega-Rodriguez{ v. United States}, 113 S. Ct. 
+[1199,] 1206 [(1993)] (internal quotations and citation omit- 
+ted). Although Brian has not been arrested or tried, he has 
+certainly “demonstrated disrespect” for the district court by 
+refusing to submit to its jurisdiction in the criminal action. 
+
+
+Ibid. (emphasis added). 
+
+
+Having concluded that the disentitlement doctrine is fully 
+applicable to this case, the panel went on to uphold the district 
+court’s conclusion that Brian Degen is a fugitive within the 
+meaning of the doctrine. App., infra, Sa. In the panel's view, the 
+fact that Degen knew “in December 1990” (when the district court 
+ordered his claim stricken) that “he had been indicted in Nevada 
+but refused to return” was sufficient to qualify him as a fugitive 
+from justice. Ibid.’ 
+
+4. On May 5, 1995, the court of appeals denied Degen’s 
+infra, 38a-39a. The panel did, however, add a footnote to its 
+opinion making clear that the disentitlement doctrine was being 
+applied to petitioner in derogation of his constitutional rights. /d. 
+at 8a n.2, 39a. The court of appeals explained that “[wJhile this 
+appeal was pending,” this Court issued its decision in United States 
+v. James Daniel Good Real Property, 114 S. Ct. 492 (1993), and 
+that “[i}f not for Brian's fugitive status, the rule of Good would 
+apply to this case.” App., infra, 8a n.2, 39a. The panel held, 
+however, that “the fugitive disentitlement doctrine precludes Brian 
+from contesting the government's seizure of his property” under 
+Good. Ibid. 
+
+
+* The court of appeals also rejected the argument that petitioner lost any 
+fugitive status he might have had when he was taken into the custody of 
+Swiss authorities who were acting at the behest of U.S. prosecutors. 
+App.. infra, Sa-7a. In rejecting that argument, the court observed that, 
+even if Degen were currently “incarcerated in a foreign jurisdiction,” that 
+would “not preclude application of the fugitive disentitlement doctrine.” 
+Id. at 7a. 
+
+
+8 
+REASONS FOR GRANTING THE PETITION 
+
+
+This case involves an assertion of prosecutorial authority that 
+strikes at the very heart of the constitutional guarantee of due 
+process of law. In this civil forfeiture proceeding, the United 
+States government succeeded in depriving petitioner and his wife 
+of real and personal property worth — by the government's own 
+estimation — more than $5 million, without allowing petitioner arty 
+opportunity whatsoever to be heard in defense. The Ninth Circuit 
+approved this result by relying on an old doctrine of criminal 
+appellate procedure known as “fugitive disentitlement,” according 
+to which a federal court may, in the exercise of its “inherent” or 
+“supervisory” powers, dismiss the direct appeal from a criminal 
+conviction if the appellant escapes from prison, jumps bond, or 
+otherwise flees from the court’s jurisdiction. Following (indeed, 
+extending) established circuit precedent, the court of appeals 
+invoked this doctrine in the very different context of a civil 
+forfeiture proceeding, and did so notwithstanding the fact that the 
+government had made no showing that petitioner departed the 
+United States with the intent to avoid prosecution. On the 
+contrary, the Ninth Circuit held that petitioner is a fugitive from 
+justice and thus deserving of the sanction of disentitlement merely 
+because he resides in a foreign country and has failed to travel to 
+this country to face charges. 
+
+
+The petition should be granted to resolve what the Solicitor 
+General recently described as a “longstanding conflict in the 
+circuits” that “may call for review by this Court in an appropriate 
+case.” U.S. Br. in Opp. 16, Alvarez v. United States, Nos. 94- 
+636 and -943 (Jan. 11, 1995). As explained below, the courts of 
+appeals have provided sharply conflicting answers to the question 
+whether the fugitive disentitlement doctrine may ever be invoked 
+in a civil forfeiture action to prevent a property owner from 
+offering a defense of his property. This case provides an appropri- 
+ate vehicle to clarify this important and recurring issue of federal 
+law. Further review is also warranted because the Ninth Circuit's 
+decision is fundamentally wrong. 
+
+
+9 
+
+
+A. As The Solicitor General Has Previously Acknowledged, 
+The Circuits Are Deeply Divided Over Whether The 
+“Fugitive Disentitlement Doctrine” May Be Invoked In A 
+Civil Forfeiture Proceeding To Bar A Property Owner 
+From Defending Against The Government’s Confiscation 
+Of Property. 
+
+
+Only seven months ago, in Alvarez v. United States, Nos. 94- 
+636 and 94-943, the Solicitor General acknowledged the “long- 
+standing conflict in the circuits” on the question whether the 
+disentitlement doctrine may be invoked to prevent a claimant from 
+defending against the forfeiture of his property. U.S. Br. in Opp. 
+16. That concession — which the government added “may call for 
+review by the Court in an appropriate case” (ibid.) — was entirely 
+correct: While the Second, Third, Eighth, Ninth, Tenth and 
+Eleventh Circuits have upheld the disentitlement doctrine in 
+forfeiture actions, the First, Sixth, and Seventh Circuits have flatly 
+rejected it. This case is an appropriate vehicle for resolving that 
+conflict. 
+
+| The decision below reflects the Ninth Circuit's typically 
+broad application of the disentitlement doctrine. See App., infra, 
+4a. Almost thirteen years ago, in Conforte v. Commissioner, 092 
+F.2d 587, 589 (1982), the Ninth Circuit rejected the argument that 
+the doctrine applies “only to appeals of criminal convictions” and 
+disentitled a taxpayer from appealing a tax court’s judgment of 
+deficiency. The disentitlement doctrine, the court explained, 
+“should apply with greater force in civil cases where an 
+individual's liberty is not at stake.” Jbid. Three years later, the 
+Ninth Circuit applied the doctrine in a civil forfeiture action to bar 
+intervention by a fugitive property owner’s successor-in-interest. 
+See United States v. $129,374 in United States Currency, 769 F .2d 
+583, 587-90 (1985), cert. denied, 474 U.S. 1086 (1986). In so 
+ruling, the Ninth Circuit acknowledged that the Sixth Circuit had 
+reached a conflicting decision on the question, and expressly 
+“decline[d] to adopt the Sixth Circuit's reasoning.” Jd. at 589; see 
+also id. at 587. 
+
+The Second Circuit has also held that the fugitive disentitle- 
+ment doctrine may be applied in a civil forfeiture proceeding. In 
+United States v. $45,940 in United States Currency, 739 F.2d 792 
+
+
+10 
+
+
+(2d Cir. 1984), the court of appeals acknowledged that this Court 
+had “never extended” the fugitive disentitlement doctrine “to civil 
+matters relating to the criminal fugitive.” /d. at 797. Nonethe- 
+less, the Second Circuit upheld the district court’s disentitlement 
+of a property owner from seeking to recover property forfeited to 
+the government. In the Second Circuit’s view, the property 
+claimant “waived his right to due process in the civil forfeiture 
+proceeding by remaining a fugitive.” Jd. at 798. See also United 
+States v. Eng, 951 F.2d 461, 464-67 (1991) (disentitling a claimant 
+who was incarcerated in a foreign country); id. at 465, 466-67 
+(attempting to distinguish contrary First and Sixth Circuit authori- 
+ty). 
+
+The Tenth Circuit recently sided with the Second and Ninth 
+Circuits. In United States v. Timbers Preserve, Routt County, 
+Colorado, 999 F.2d 452 (1993), the court upheld the denial of a 
+fugitive property owner’s motion to set aside a default judgment 
+forfeiting real property to the government. The court acknow!l- 
+edged that previous Tenth Circuit decisions had applied the fugitive 
+disentitlement doctrine “only in the criminal context” and that 
+“[tJhe Supreme Court has not applied the disentitlement doctrine 
+in the civil context.” /d. at 453. Nevertheless, relying on Second 
+and Ninth Circuit decisions approving such an extension, the Tenth 
+Circuit held that the doctrine could be applied in a civil forfeiture 
+action. Id. at 453-54, 456. 
+
+
+The Eleventh Circuit has taken the same view, applying the 
+doctrine to bar an owner of real property from defending the 
+government's forfeiture of the property. United States v. One 
+Parcel of Real Estate at 7707 S.W. 74th Lane, Miami, Dade 
+County, Florida, 868 F.2d 1214, 1215-17 (1989). The Eleventh 
+Circuit held that the trial court had no duty to “take testimony and 
+make a finding of probable cause that the allegations in the 
+forfeiture complaint were true,” because, in the court’s view, the 
+claimant had “waived his right to due process in the civil forfeiture 
+proceeding” and could “remedy any hardship by simply submitting 
+himself to the authority of the courts.” /d. at 1217 (internal 
+quotations omitted). In reaching this conclusion, the Eleventh 
+Circuit pointedly refused to follow the Sixth Circuit's “contrary 
+conclusion” (id. at 1216 n.4). 
+
+
+ll 
+
+
+The Third and Eighth Circuits have also endorsed the view 
+that disentitlement may be employed in civil forfeiture cases. In 
+United States v. Contents of Accounts Nos. 3034504504 and 144- 
+07143 At Merrill, Lynch, Pierce, Fenner and Smith, Inc. , 97\ F.2d 
+974 (1992), the Third Circuit, citing Eng, observed in dictum: 
+“[W]e believe the holding of the United States Court of Appeals 
+for the Second Circuit that fugitive disentitlement does apply in 
+forfeiture proceedings is persuasive.” /d. at 986 n.9. District 
+courts in the Third Circuit have used the disentitlement doctrine 
+against property owners in several forfeiture cases. See id. at 976, 
+986 & n.9 (explaining that district court relied on this ground); 
+United States v. All Monies in Account No. 400 6050975 00, 1992 
+U.S. Dist. LEXIS 16930 (E.D. Pa. Nov. 4, 1992). In an 
+unpublished decision, the Eighth Circuit affirmed a district court’s 
+use of the disentitlement doctrine to dismiss a fugitive’s claim to 
+property in a civil forfeiture proceeding. United States v. One 
+Parcel of Real Property Described as Lot 156 and the South Three 
+Feet of 57, Valley View Estates, 1992 U.S. App. LEXIS 
+29278."at *$-*4 (8th Cir. 1992) (per curiam) (acknowledging 
+intercircuit conflict), aff'g in pertinent part 776 F. Supp. 482, 484 
+(W.D. Mo. 1991) (“The doctrine applies equally as well in civil 
+forfeiture cases as it does in criminal cases.”). But see 8th Cir. 
+Rule 28A(k) (limiting citation of unpublished decisions). 
+
+
+2. By contrast, the Sixth, First, and Seventh Circuits have 
+refused to apply the fugitive disentitlement doctrine in civil 
+forfeiture proceedings. In United States v. $83,320 in United 
+States Currency, 682 F.2d 573 (1982), the Sixth Circuit declined 
+to “extend the reasoning” of the disentitlement cases involving 
+criminal appeals, a context the court regarded as “distinguishable,” 
+“to an appeal from a forfeiture judgment brought when a claimant 
+to the defendant property is a fugitive from justice in a related 
+criminal proceeding.” Jd. at 576. The court explained: 
+
+
+In a [civil] forfeiture proceeding * * * the individual accused 
+of the related criminal violation is not necessarily the only 
+individual with a direct, litigable interest in the outcome of 
+the forfeiture action. * * * The escape of the criminal 
+defendant should not be raised as a bar to those who may 
+have a legitimate, innocent interest in exonerating the defen- 
+dant property from its wrongdoing. If the currency in the 
+
+
+12 
+
+
+present case, for example, derived from a legitimate business, 
+
+as is alleged by the claimant, then creditors and employees of 
+
+that business might well have an interest in the funds irrespec- 
+tive of the criminal conduct of the claimant or his escape from 
+custody. 
+
+Ibid. 
+
+In United States v. Pole No. 3172, Hopkinton, 852 F.2d 636 
+(1988), the First Circuit likewise refused to permit the use of the 
+disentitlement doctrine in a civil forfeiture case. The court of 
+appeals gave three reasons for its holding. First, it explained that 
+“[oJne of the main considerations” animating the disentitlement 
+doctrine — the lack of mutuality that arises whenever a fugitive 
+seeks relief but is unwilling to be bound by an adverse decision — 
+“does not arise” in a civil forfeiture action because the claimant 
+cannot “avoid the rigors of an adverse determination by failing to 
+appear.” Jd. at 643 (internal citations omitted). Second, the court 
+explained that the government had failed to demonstrate, as it 
+must, that the civil forfeiture action was “closely related to the 
+criminal matter from which the applicant is a fugitive.” Jd. at 
+643-44. Third, “there is no evidence that [the claimant] had notice 
+of this [i.e., the forfeiture] proceeding, and elected not to defend 
+it.” Id. at 644. This was important, the court explained, 
+because without such evidence there is no basis for concluding that 
+the claimant was “acting willfully and hiding from the [forfeiture] 
+court while asking it to resolve his claims.” Jbid. Unless the 
+fugitive is “purposely avoiding” the court entertaining the forfei- 
+ture action or “flauting [sic] its processes,” the claimant “should 
+be treated * ** like any other absent civil litigant.” Jbid. 
+Although based in part on the circumstances of the case, much of 
+the First Circuit’s reasoning applies with equal force to most if not 
+all civil forfeiture actions. 
+
+
+Most recently, the Seventh Circuit flatly held that the 
+disentitlement doctrine is “inappropriate when applied by a district 
+court to civil forfeitures.” United States v. $40,877.59 in U.S. 
+
+
+* This was true because the fugitive’s claim in the district court, and 
+appeal to the First Circuit, had been advanced by a person to whom he 
+had previously granted a power of attorney. See 852 F.2d at 638. 
+
+
+13 
+
+
+Currency, 32 F.3d 1151, 1156 (1994).° The Seventh Circuit 
+noted that the disentitlement doctrine was developed by this Court 
+“as an equitable doctrine of criminal appellate procedure,” and has 
+never been applied by this Court in “any case in which the 
+doctrine was used by a district court in a civil forfeiture proceed- 
+ing to bar a fugitive from asserting a claim to the property.” Jd. 
+at 1152-53. Nevertheless, the court observed, “[s]ome circuits 
+have expanded the doctrine, using it in civil suits against a fugitive 
+from a separate criminal case who seeks affirmative relief from the 
+court,” and “f[flour circuits” — the Second, Ninth, Tenth, and 
+Eleventh — “have expanded the doctrine further, upholding its use 
+by district courts in civil forfeiture proceedings to bar fugitives 
+from defending against the confiscation of their property by the 
+United States government.” Jd. at 1153 (emphasis added). In 
+contrast, the Seventh Circuit observed, the Sixth Circuit “has 
+disallowed the use of the ¢»ctrine in civil forfeitures” and the First 
+Circuit has “rejected the u.- of the doctrine in [a] particular case.” 
+Id. at 1153. In siding with the First and Sixth Circuits,° the 
+Seventh Circuit concluded that application of the disentitlement 
+doctrine in a forfeiture case would violate the Due Process Clause 
+of the Fifth Amendment,’ conflict with numerous decisions of this 
+
+
+* In the past year, the Seventh Circuit has twice reaffirmed this holding. 
+See United States v. $32,420 in United States Currency, 1994 U.S. App. 
+LEXIS 31628, *2-*5 & n.1 (7th Cir. Nov. 7, 1994) (unreported) 
+(explaining that Seventh Circuit’s position “may represent the minority 
+opinion in the circuits” and that the Sixth Circuit also “disallow(s] the use 
+of the fugitive disentitlement doctrine in civil forfeiture cases generally” ); 
+United States v. Michelle's Lounge, 39 F.3d 684, 690 (7th Cir. 1994) 
+(explaining that “the disentitlement doctrine is inapplicable in civil 
+forfeiture proceedings” ). 
+
+
+* Recognizing “the possibility that [its] opinion creates tension between 
+the circuits,” the panel decided sua sponte to circulate its decision 
+“among all judges in active service pursuant to Seventh Circuit Rule 
+40(f).” 32 F.3d at 1153 n.1. “No judge” of that circuit, however, 
+“favored a rehearing en banc.” Ibid. 
+
+
+” A California appellate court has adopted a similar analysis in a 
+different civil context. See Doe v. Superior Court (Polanski), 222 Cal. 
+
+
+14 
+
+
+Court (including the disentitlement cases of United States v. 
+Sharpe, 470 U.S. 675 (1985), and Ortega-Rodriguez v. United 
+States, 113 S. Ct. 1199 (1993)), and effectively nullify statutory 
+rights and remedies prescribed in the forfeiture laws by Con- 
+gress.* 
+
+
+3. Not surprisingly, this fundamental conflict in the circuits 
+has not gone unnoticed. As explained above, the conflict has been 
+expressly acknowledged by the Second, Seventh, Eighth, Ninth, 
+and Eleventh Circuits. Recently it was duly noted by the Sixth 
+Circuit as well. In re Prevot, 1995 U.S. App. LEXIS 17014, at 
+*17-26 & n.10 (July 14, 1995). The district courts have likewise 
+
+
+noted the conflict, see, e.g., United States v. Certain Real . 
+
+
+App. 3d 1406, 1408-11, 272 Cal Rptr. 474, 474-77 (2d Dist. App. 1992) 
+(Due Process Clause of fourteenth amendment forbids application of 
+fugitive disentitlement doctrine to strike answer of defendant in civil 
+
+
+action for damages). 
+
+
+* The remaining circuits — D.C., Fourth and Fifth — have not directly 
+ruled on the doctrine’s applicability to civil forfeiture actions. Notably, 
+however, the D.C. Circuit, which traditionally has given an expansive 
+reading to the doctrine, see Doyle v. United States Dep't of Justice, 668 
+F.2d 1365 (D.C. Cir. 1981), cert. denied, 455 U.S. 1002 (1982), 
+recently suggested that it would apply the doctrine much more narrowly 
+in the future. In Friko Corp. v. Commissioner of Internal Revenue, 26 
+F.3d 1139 (1994), the D.C. Circuit vacated and remanded for reconsid- 
+eration in light of Ortega-Rodriguez a Tax Court order disentitling an 
+alleged fugitive from petitioning for reconsideration of a tax deficiency. 
+Id. at 1142-43. Pointing to this Court’s statement in Ortega-Rodriguez 
+that there must be “‘some connection’ * * * between the fugitive status 
+of the litigant and the court invoking the doctrine,” Judge Randolph 
+queried what that connection might be since the indictment from which 
+the taxpayer allegedly was a fugitive was pending not in the District of 
+Columbia, but in federal court in New Jersey. Jd. at 1143 (quoting 113 
+S. Ct. at 1205-06 & n.15). Quoting the First Circuit’s decision in Pole 
+No. 3172, the D.C. Circuit observed that the taxpayer's appeal “raises 
+serious questions regarding * * * whether the [disentitlement] doctrine 
+applies when the fugitive is in effect defending against governmental 
+action rather than using the courts affirmatively in an attempt ‘to reap the 
+benefit of the judicial process without subjecting himself to an adverse 
+determination.’” Jd. at 1142-43 (quoting 852 F.2d at 643-45). 
+
+
+—_ 
+
+
+15 
+
+
+Property and Premises Known as 218 Panther Street, Newfound- 
+land, Pa., 745 F. Supp. 118 (E.D.N.Y. 1990), aff'd, 951 F.2d 
+461 (2d Cir. 1991); United States v. $182,980.00 U.S. Currency, 
+727 F. Supp. 1387, 1388 (D. Colo. 1990); Korkala v. United 
+States Customs Service, 1989 U.S. Dist. LEXIS 7902, at *13 
+(D.N.J. 1989); United States v. Collins, 651 F. Supp. 1177, 1179 
+(S.D. Fla. 1987), as have academic commentators, see, e.g., John 
+G. Kester, Some Myths of United States Extradition Law, 76 Geo. 
+L.J. 1441, 1458-59 & n.101 (1988) (the “courts of appeal are in 
+conflict” on issue); 1 David B. Smith, Prosecution and Defense of 
+Forfeiture Cases 4 9.04[5], at 9-68.19 to 9-70 (Matthew Bender 
+1991 & Cum. Supp. June 1995) (noting and describing conflict). 
+
+
+The deep conflict in the circuits shows no sign whatsoever of 
+abating. On the contrary, as explained above, the Seventh Circuit 
+panel that decided $40,877.59 decided sua sponte to circulate that 
+decision to the entire court; not a single judge voted to rehear the 
+case en banc. See note 6, supra. Conversely, the Ninth Circuit 
+in this case refused petitioner’s request that it rehear the panel’s 
+decision en banc to reconsider, in light of $40,877.59 and other 
+authorities, that circuit’s longstanding rule permitting use of the 
+disentitlement doctrine in this context. Not a single judge on the 
+Ninth Circuit asked for a vote on this issue. App., infra, 39a. 
+Further review by this Court is accordingly warranted. 
+
+
+4. The government would be hard-pressed to deny either the 
+existence of the conflict or its significance. In opposing Brian 
+Degen’s rehearing petition in the Ninth Circuit, the government 
+“readily acknowledge[d]” that the panel’s decision conflicts with 
+the Seventh Circuit’s decision in $40,877.59. U.S. Resp. 2-3. 
+The Solicitor General, moreover, recently told this Court that 
+$40,877.59 only “deepens a longstanding conflict in the circuits 
+over the government’s ability to invoke the doctrine at all in such 
+a case.” U.S. Br. in Opp. 16, Alvarez v. United States, Nos. 94- 
+636 and -943 (filed Jan. 11, 1995). The Solicitor General also 
+frankly conceded that this “longstanding conflict in the circuits” 
+“may call for review by this Court in an appropriate case.” Jbid. 
+
+
+16 
+
+
+This is such a case.” It squarely presents the issue for this 
+Court’s decision. In addition, the Ninth Circuit, in denying 
+rehearing, candidly acknowledged that application of the 
+disentitlement doctrine to petitioner had the effect of nullifying his 
+due process rights, under United States v. James Daniel Good Real 
+Property, 114 S. Ct. 492 (1993), to a hearing to contest the initial 
+seizure of his property. App., infra, 8a n.2, 39a. The case 
+accordingly also presents the issue whether a federal district court 
+may rely on its “inherent” or “supervisory” powers to vitiate 
+rights conferred by the United States Constitution. 
+
+
+B. The Ninth Circuit’s Decision Is Manifestly Incorrect And 
+At Odds With Many Of This Court’s Decisions. 
+
+
+Further review is also warranted to correct the Ninth Circuit’s 
+analysis, which is flawed in numerous respects. The Ninth 
+Circuit’s use of the disentitlement doctrine stretches that doctrine 
+well beyond the limits recognized by this Court or sanctioned by 
+the doctrine’s purposes. The decision below is also irreconcilable 
+with a substantial number of this Court’s decisions. 
+
+
+1. The disentitlement doctrine is an equitable doctrine of 
+appellate procedure articulated originally by this Court. It holds, 
+quite simply, that “an appellate court may dismiss the appeal of a 
+[criminal] defendant who is a fugitive from justice during the 
+pendency of his appeal.” Ortega-Rodriguez, 113 S. Ct. at 1203. 
+The Court has identified various rationales for the doctrine: (1) an 
+appellate court cannot enforce an unfavorable judgment against a 
+fugitive (Smith v. United States, 94 U.S. 97 (1876)); (2) a 
+
+
+* None of the factors that formed the basis of the government's 
+successful opposition to certiorari in Alvarez (see 115 S. Ct. 1092 (Feb. 
+21, 1995)) is present here. In Alvarez, the petitioners had never chal- 
+lenged, in the lower courts, the applicability vel non of the fugitive 
+disentitlement doctrine to civil forfeiture actions; had focused instead on 
+various “fact-bound contentions” that “do not merit further review”; had 
+failed to contest the district court’s conclusion that they were “fugitives” ; 
+and had failed to cite “any of the prior conflicting authority” on this 
+question and, at least in the Alvarez petition (No. 94-636), to “note[] the 
+existence of the Seventh Circuit's decision” in $40,877.59. U.S. Br. in 
+Opp. 9-11, 15-17. 
+
+
+tt ee te ee Ae “ 
+
+
+oe 
+
+
+17 
+
+
+fugitive’s “escape * * * disentitles [him] to call upon the resources 
+of the Court for determination of his claims” (Molinaro v. New 
+Jersey, 396 U.S. 365, 366 (1970) (per curiam)); and (3) cisentitle- 
+ment serves a “deterrent function and advances an interest in 
+efficient, dignified appellate practice” (Ortega-Rodriguez, 113 S. 
+Ct. at 1204-05). 
+
+
+Despite the very limited context in which this Court has 
+applied the disentitlement doctrine,” several courts of appeals 
+have greatly expanded the doctrine, holding that a defendant who 
+is a fugitive from justice in a criminal case may be disentitled from 
+seeking affirmative relief in a separate civil action. What is more, 
+some courts of appeals have extended the doctrine even further, 
+holding that a fugitive from a criminal conviction may be disenti- 
+tled even from defending against the confiscation of his property 
+in a separate forfeiture proceeding initiated by the government. 
+And even though the cases in which this Court has applied the 
+disentitlement doctrine all have involved persons already convicted 
+of crimes, the courts of appeals (including the Ninth Circuit in this 
+case) have wielded the sanction of disentitlement against persons 
+who have never been arrested, tried or convicted, and whose 
+innocence accordingly must be presumed. 
+
+
+The Ninth Circuit’s use of the disentitlement doctrine in this 
+case runs afoul of the limits articulated in two of this Court’s 
+disentitlement decisions: United States v. Sharpe, 470 U.S. 675 
+(1985), and Ortega-Rodriguez. In Sharpe, the Court granted the 
+government’s certiorari petition to review a judgment reversing the 
+respondents’ criminal conviction. After certiorari had been 
+granted, the respondents became fugitives. The Court refused to 
+
+
+'°© This Court's disentitlement cases share three important features: the 
+doctrine was applied in the very proceeding from which the appellant had 
+become a fugitive; the fugitive was seeking affirmative relief from the 
+Court (reversal of a conviction); and the person was a “fugitive” in the 
+core sense of the word (someone who had either escaped from custody 
+or jumped bail, not someone who merely had failed to travel to the 
+United States from his country of residence). See Ortega-Rodriguez, 113 
+S. Ct. 1199; Molinaro, 396 U.S. 365; Eisler v. United States, 338 U.S. 
+189 (1949); Bonahan v. Nebraska, 125 U.S. 692 (1887); Smith, 94 U.S. 
+97. See also Goeke v. Branch, 115 S. Ct. 1275 (1995) (per curiam). 
+
+
+18 
+
+
+vacate the judgment and remand with instructions to dismiss the 
+appeals on disentitlement grounds, however, because such action 
+“is not supported by our precedents.” /d. at 681 n.2. The 
+disentitlement doctrine, the Court explained, 
+
+
+concerns Ux situation in which a fugiti * defendant is the 
+party seeking review here. In those very different cases, 
+dismissal of the petition or appeal is based on the equitable 
+principle that a fugitive from justice is “disentitled” to call 
+upon this Court for a review of his conviction. This equitable 
+principle is wholly irrelevant when the defendant has had his 
+conviction nullified and the government seeks review here. 
+
+
+Id. at 681-82 n.2 (emphases added) (citations omitted). Thus, in 
+the only one of this Court’s disentitlement cases in which the 
+fugitive was not making an affirmative demand upon the judicial 
+system, the Court refused to apply the doctrine. 
+
+
+Under Sharpe, the disentitlement doctrine applies only where 
+the fugitive is the one affirmatively seeking judicial action. Thus, 
+assuming, arguendo, that the doctrine can be extended to civil 
+cases at all, it surely does not apply where, as here, the alleged 
+fugitive is not making a demand for judicial action but merely 
+defending against a suit by the government to take his property. 
+See $40,877.59, 32 F.3d at 1154; Pole No. 3172, 852 F.2d at 
+643; Societe Internationale v. Rogers, 357 U.S. 197, 210-11 
+(1958); Friko, 26 F.3d at 1142; see also App., infra, 24a (petition- 
+er “clearly has the status of a defendant”). But see Eng, 951 F.2d 
+at 466 (“Who initiates the proceedings * * * is not a relevant 
+consideration for purposes of the disentitlement doctrine”). 
+
+The Ninth Circuit’s decision is also inconsistent with this 
+Court’s reasoning in Ortega-Rodriguez. In that case, the Court 
+held that an appellate court may not dismiss the appeal of a 
+defendant who becomes a fugitive after his conviction but who is 
+recaptured before the filing of his appeal, because the defendant's 
+fugitivity lacks sufficient connection to the appellate process. 113 
+S. Ct. at 1205-10. To reach that result, the Ortega-Rodriguez 
+Court looked to the purposes animating the doctrine and considered 
+whether those purposes would be served by application to this new 
+situation. The “enforceability” concern underlying the disentitle- 
+ment doctrine, the Court reasoned, is not present when a defendant 
+
+
+19 
+
+
+is recaptured before invoking the appellate process: Whatever the 
+appellate court decides, its judgment will be fully enforceable. /d. 
+at 1206. Likewise, in the present case, the enforceability concern 
+is completely absent: Any judgment in this forfeiture action, 
+whether for or against petitioner, would be “fully enforceable since 
+the property is in the court’s control.” See $40,877.59, 32 F.3d 
+at 1156; Pole No. 3172, 852 F.2d at 643. 
+
+
+The Court in Ortega-Rodriguez also reasoned that the interest 
+in the “efficient operation” of the appellate process “will not be 
+advanced by dismissal of appeals filed after former fugitives are 
+recaptured.” 113 S. Ct. at 1206. Any delay occasioned by the 
+fugitive’s escape, the Court explained, would affect proceedings 
+only in the district court. This insistence that disentitlement be 
+used to safeguard the integrity only of the sanctioning court's own 
+processes demonstrates why the doctrine has no place in civil 
+forfeiture actions.’ Petitioner’s alleged fugitivity in the criminal 
+case “does not threaten the integrity of the forfeiture proceeding,” 
+and his presence is not “needed to conduct an adversarial hearing 
+{nor could it be] compelled in a civil action even if he were not a 
+fugitive.” $40,877.59, 32 F.3d at 1156; accord Pole No. 3172, 
+852 F.2d at 644. 
+
+
+2. Not only is the Ninth Circuit's holding inconsistent with 
+Sharpe and Ortega-Rodriguez, but it runs afoul of the Due Process 
+Clause of the Fifth Amendment, as well as various of this Court's 
+due process cases. See U.S. Const. amend. V (“No person 
+shall * * * be deprived of life, liberty, or property, without due 
+process of law.”). This Court has consistently held that due 
+
+
+‘' Relatedly, Ortega held that the interest in protecting the “dignity” of 
+the appellate court did not justify dismissal of the recaptured fugitive's 
+appeal, because at most it was “the authority of the District Court, not 
+the Court of Appeals,” that the fugitive defendant might have “flouted.” 
+113 S. Ct. at 1207 (emphasis added); see also ibid. (an appellate court 
+may not “sanction by dismissal any conduct that exhibited disrespect for 
+any aspect of the judicial system, even where such conduct has no 
+connection to the course of appellate proceedings”). That consideration 
+also weighs against use of disentitlement in civil forfeiture actions. See 
+$40,877.59, 32 F.3d at 1156 (“the fugitive’s disrespectful conduct is to 
+another court in another action”); Pole No. 3172, 852 F.2d at 644. 
+
+
+20 
+
+
+process requires “some form of hearing * * * before an individual 
+is finally deprived of a property interest” and that “[t}he funda- 
+mental requirement of due process is the opportunity to be heard 
+at a meaningful time and in a meaningful manner.” Mathews v. 
+Eldridge, 424 U.S. 319, 333 (1976) (citation and internal quotation 
+omitted). By operation of the fugitive disentitlement doctrine, 
+however, petitioner has been deprived of all right to be heard in 
+defense of his property. 
+
+The Ninth Circuit’s holding is also at odds with this Court's 
+recent decision in United States v. James Daniel Good Real 
+Property, 114 S. Ct. 492, 498-505 (1993). In that case, the Court 
+held that the Fifth Amendment’s Due Process Clause confers on an 
+owner of real property the right to a hearing before the property 
+may be seized — even temporarily. The disentitlement doctrine 
+works, if anything, a more severe due process violation than the 
+violation identified in Good. As the Seventh Circuit has explained, 
+in rejecting disentitlement in the forfeiture context, “[i]f a probable 
+cause warrant, issued ex parte, is not sufficient to temporarily 
+deprive an owner of the use of his property until a full hearing is 
+held, then clearly it is an insufficient basis on which to justify a 
+permanent loss by forfeiture.” $40,877.59, 32 F.3d at 1155.” 
+
+The Ninth Circuit’s decision also cannot be reconciled with a 
+line of this Court’s cases recognizing a fundamental right to defend 
+rooted in the Due Process Clause. McVeigh v. United States, 78 
+U.S. (11 Wall.) 259 (1870); Windsor v. McVeigh, 93 U.S. 274 
+(1876); Hovey v. Elliott, 167 U.S. 409 (1897). As the Seventh 
+Circuit correctly observed, these cases stand for the principle that 
+“notwithstanding an individual’s status, where he is vulnerable to 
+being sued, he has the right to defend himself in the action brought 
+against him; * * * the constitutional right to defend is inseparable 
+
+
+‘? In denying rehearing, the panel in this case made clear that “[i}f not 
+for Brian's fugitive status, the rule of Good would apply to this case.” 
+App., infra, 39a. It held, however, that “the fugitive disentitlement 
+doctrine precludes Brian” from asserting his rights under Good — 
+effectively stripping him of his due process rights. Jbid. 
+
+
+eed 
+
+
+ee 
+
+
+21 
+
+
+from the liability to suit.” $40,877.59, 32 F.3d at 1153 (emphasis 
+added)."” 
+
+
+Nor can petitioner be said to have “waived” his due process 
+rights. Courts “do not presume acquiescence in the loss of 
+fundamental rights.” Ohio Bell Tel. Co. v. Public Util. Comm'n, 
+301 U.S. 292, 307 (1937). Exactly the opposite is true: “in the 
+civil no less than the criminal area, courts indulge every reasonable 
+presumption against waiver.” Fuentes v. Shevin, 407 U.S. 67, 94 
+n.31 (1972) (internal quotation omitted) (emphasis added). 
+Moreover, “[w]aivers of constitutional rights not only must be 
+voluntary but must be knowing, intelligent acts done with sufficient 
+awareness of the relevant circumstances and likely consequences.” 
+Brady v. United States, 397 U.S. 742, 748 (1970). Petitioner's 
+actions (or, more accurately, his inaction) with regard to the 
+criminal case simply cannot be construed as an intentional 
+relinquishment of his due process rights in this case. 
+
+3. The Ninth Circuit’s holding also violates the principle, 
+established in a line of this Court’s cases, that the federal courts’ 
+“inherent” or “supervisory” powers may not be employed in 
+derogation of statutory or constitutional rights. E.g., Bank of 
+Nova Scotia v. United States, 487 U.S. 250, 254 (1988); Thom- 
+as v. Arn, 474 U.S. 140, 148 (1985); Societe Internationale v. 
+Rogers, 357 U.S. 197, 209 (1958). Applied in the context of a 
+civil forfeiture action, the fugitive disentitlement doctrine — an 
+equitable doctrine of appellate procedure developed by federal 
+appellate courts in their supervisory capacity (Goeke v. Branch, 
+115 S$. Ct. 1275 (1995) (per curiam); Ortega-Rodriguez, 113 S. 
+Ct. at 1205)) — has precisely this forbidden effect. Rule C(6) of 
+
+
+°° Thus, in McVeigh v. United States, the Court held that it was error, 
+in a proceeding brought by the government to forfeit the property of a 
+Confederate rebel actively engaged in the Civil War, to strike the rebel 
+soldier's cium. Because the government was seeking to take the 
+claimant's property, the Court explained, the claimant's “legal status” 
+was irrelevant: “Whatever may be the extent of the disability of an alien 
+enemy fo sue in the courts of the hostile country, it is clear that he is 
+liable to be sued, and this carries with it the right to use all the means 
+and appliances of defence.” 78 U.S. at 267 (emphases added; citation 
+omitted). 
+
+
+22 
+
+
+the Supplemental Rules for Certain Admiralty and Maritime 
+Claims confers on any “claimant of property that is the subject of 
+an action in rem” the right to file a “claim” and “answer” to the 
+government’s forfeiture complaint. See App., infra, 40a. Similar- 
+ly, the applicable forfeiture statute “does not authorize the 
+forfeiture of property simply because the owner is a fugitive” 
+($40,877.59, 32 F.3d at 1155-56) but rather only upon enumerated 
+grounds that have not been proven here. See 21 U.S.C. §§ 
+881(a)(6) & (7) (see App., infra, 40a). And, of course, the Fifth 
+Amendment stands as a barrier to all governmental deprivations of 
+property without due process of law. The “inherent” or “supervi- 
+sory” power of the federal courts is not a license to nullify rights 
+afforded by Congress or by the Constitution." 
+
+
+4. This case provides a compelling illustration of the 
+dangers of permitting the government to invoke disentitlement in 
+the civil forfeiture context. First, petitioner's property was seized 
+on the basis of only “minimal evidence that it was illegally used or 
+obtained.” $40,877.59, 32 F.3d at 1157. The government's 
+conclusory complaint (ER 420-26) was supported by a single 
+affidavit of a DEA agent (ER 472-94), which in turn consisted of 
+hearsay and multiple hearsay from unnamed, confidential infor- 
+mants. See ER 472-94." Second, the government’s own submis- 
+
+
+‘* In previous cases, the Ninth Circuit opined that the fugitive 
+disentitlement doctrine “should apply with greater force in civil cases 
+where an individual's liberty is not at stake.” Conforte, 692 F.2d at 589; 
+$129,374, 769 F.2d at 588. This analysis overlooks two contrary 
+principles: (1) the Due Process Clause protects against deprivations of 
+property, not just of liberty; and (2) an appellate court’s exercise of its 
+supervisory power to dismiss a fugitive defendant's criminal appeal does 
+not violate due process because “a convicted criminal has no constitution- 
+al right to an appeal.” Goeke, 115 S. Ct. at 1277 (internal quotations 
+omitted); Estelle v. Dorrough, 420 U.S. 534, 536-37 (1975). By 
+contrast, taking a person’s property without affording him any hearing 
+clearly does implicate due process. 
+
+
+‘* More than a year after the trial court ordered petitioner's claims 
+stricken, the government submitted three affidavits in support of its 
+second motion for summary judgment against Karyn Degen. See ER 67- 
+78 (Declarations of Michael McCreary, Catherine Bryant, and Ciro 
+
+
+el ly 
+
+
+23 
+
+
+sions in the court below strongly suggest, if not conclusively 
+establish, that this forfeiture action is barred by the applicable five- 
+year statute of limitations (19 U.S.C. § 1621). This action was 
+commenced in October of 1989. Yet the government conceded 
+below that all but one of the Degens’ parcels of real property 
+named in the complaint (and alleged to be forfeitable because pur- 
+chased with drug proceeds) were acquired by petitioner before 
+1981. U.S. Br. Appellee 23. In view of this dispositive defense 
+and the extensive documentation submitted to the trial court by 
+petitioner demonstrating his legitimate ownership of the subject 
+property, the government would not prevail on the merits of this 
+forfeiture action.”* 
+
+Third, as was true of the disentitled property owner in the 
+Seventh Circuit’s decision in $40,877.59, petitioner’s “fugitive 
+status is questionable.” 32 F.3d at 1156-57. Petitioner “has been 
+indicted but not tried or convicted of any criminal charges.” 
+App., infra, Sa. It is undisputed that he departed the United States 
+well before he was indicted, and the government has not shown (or 
+been required to show) that he left with any intent to avoid 
+prosecution. The Ninth Circuit concluded that petitioner is a 
+
+
+Mancuso); note 2, supra. Because those affidavits were not before the 
+district court when it ruled on the government’s motion to strike Brian 
+Degen’s claims, they obviously cannot be considered for the purpose of 
+assessing the government's case against Brian. In any event, the 
+affidavits are of exceedingly dubious value. See note 16, infra. 
+
+
+'© As for the government's ability to prevail on the criminal charges 
+against petitioner, suffice it to say that in the only case brought to trial 
+against petitioner's numerous co-indictees, the government recently 
+suffered a “stunning defeat” at the hands of a Nevada jury. 5 The DOJ 
+Alert 14 (Apr. 3, 1995); see generally Howard Mintz, Fort Reno's 
+Obsession, The American Lawyer 54-61 (May 1995). In acquitting 
+Patrick Hallinan on all charges after only six hours of deliberations, see 
+S.F. Lawyer is Acquitted in Drug Ring Case, Los Angeles Times, Mar. 
+8, 1995, at A3, the jury evidently rejected as incredible the central 
+testimony of the government's star witness, Ciro Mancuso. See Jury 
+Acquits Hallinan of All Charges, S.F. Chronicle, Mar. 8, 1995, at Al 
+(“Jury foreman John Tonner commented after the verdict that Mancuso 
+‘would make a good used-car salesman. He lies a lot.’”). 
+
+
+24 
+
+
+fugitive because he resides in a foreign country and has failed to 
+return to the United States to face criminal charges that he learned 
+of while living abroad. App., infra, Sa. 
+
+
+The Ninth Circuit’s sweeping definition of fugitivity cannot be 
+reconciled with the ordinary meaning of the word “fugitive” 
+(which is derived from the verb “to flee”)'’ or with the fact that 
+disentitlement is a sanction imposed for some sort of wrongful 
+conduct."* The Ninth Circuit’s expansive definition, moreover, 
+is symptomatic of the distortions that can arise when (as in the 
+civil cases applying the disentitlement doctrine) the federal courts 
+go about crafting a whole body of law pursuant to their “inherent” 
+or “supervisory” powers. The Ninth Circuit’s opinion is not an 
+isolated example of this phenomenon; indeed, the disentitlement 
+doctrine has spawned a vast array of case law, as courts struggle 
+to mold and shape (out of whole cloth) the new federal common 
+law of disentitlement. See, e.g., BCC] Holdings (Luxembourg), 
+Society Anonyme v. Pharaon, 1995 WL 231330, at *4 (S.D.N.Y. 
+1995) (in civil RICO action between private parties, disentitling 
+fugitive defendant who “flouted the authority of other courts” from 
+obtaining discovery but not from defending the lawsuit). 
+
+
+' See Webster's New World Dictionary of American English 544 (3d 
+College ed. 1989) (defining “fugitive” as “a person who flees or has fled 
+from danger, justice, etc.”); see also 18 U.S.C. § 921(a)(15) (defining 
+term “fugitive from justice” for purposes of various federal firearms 
+provisions as “any person who has fled from any State to avoid prosecu- 
+tion for a crime or to avoid giving testimony in any criminal proceeding” ) 
+(emphasis added). Compare $40,877.59, 32 F.3d at 1156 (“[T]o be a 
+fugitive, [a] defendant must flee the state with the intent to avoid prosecu- 
+tion.”). 
+
+
+'* In Ortega-Rodriguez, the Court made clear that disentitlement is a 
+“sanction [in the form of] dismissal.” 113 S. Ct. at 1207 (emphasis 
+added). When applied in a civil forfeiture proceeding, that sanction is 
+especially punitive in nature. See Austin v. United States, 113 S. Ct. 
+2801, 2810-12 (1993) (forfeiture pursuant to 21 U.S.C. § 881(a)(7) 
+constitutes punishment sufficient to trigger Excessive Fines Clause). 
+Thus, petitioner has not simply been deprived of property: He has been 
+assessed a multimillion-dollar punishment. 
+
+
+ae —_ MG» ‘eon * 
+
+
+Ee ce tle er lee tm the 
+
+
+25 
+
+
+The necessary consequence of the Ninth Circuit's holding is 
+to free the governmem from virtually every restraint — whether 
+based in the Constitution, the forfeiture statutes, or the procedural 
+rules governing forfeiture actions — with respect to property 
+owned by a claimant who is a “fugitive” (a term that itself knows 
+almost no boundaries in the disentitlement context). The govern- 
+ment may prevail on the basis of a facially defective complaint (see 
+Pole No. 3172, 852 F.2d at 638-43) or on claims that are plainly 
+time-barred (as here); may obtain the forfeiture of property that is 
+beyond the district court’s in rem jurisdiction (as was alleged in 
+Alvarez); and may even succeed in confiscating property that it 
+asserts (but could not prove) is related to the criminal proceeding 
+from which the fugitive has absconded ($40,877.59, 32 F.3d at 
+1155)."° 
+
+
+The government “already enjoys a tremendous procedural 
+advantage under the forfeiture laws.” $40,877.59, 32 F.3d at 
+1156. It need only show probable cause to believe that property 
+was used to promote illegal activity; the claimant then bears the 
+burden of proving that the property was not involved in any illegal 
+activity. 19 U.S.C. § 1615. Not content with its existing 
+advantage, however, the government now seeks to remove the only 
+obstacle remaining in the path of its forfeiture juggernaut: the right 
+of a property owner to his day in court to defend against an 
+unlawful forfeiture. The Court should not permit this unwarranted 
+expansion of the government’s forfeiture power, particularly in 
+
+
+'° See $40,877.59, 32 F.3d at 1155-56 (“The forfeiture act * * * does 
+not authorize the forfeiture of property simply because the owner is a 
+fugitive, but by using a combination of the forfeiture laws and the fugitive 
+disentitlement doctrine, the government is allowed to do just that.”); Pole 
+No. 3172, 852 F.2d at 643 (“We refuse to condone a rule that essentially 
+allows the government to go through the missing persons list and seize all 
+the property of everyone who fails to respond to a forfeiture complaint, 
+without even showing the court that it reasonably believes the property is 
+forfeitable as Congress intended it to do.”); but cf. Doyle v. United States 
+Dep't of Justice, 668 F.2d 1365, 1365 (D.C. Cir. 1981) (per curiam) (in 
+upholding dismissal of fugitive’s complaint under Freedom of Information 
+Act, rejecting argument that “[o}nly Congress, not the judiciary, may 
+establish exceptions to the Act's disclosure commands”), cert. denied, 
+455 U.S. 1002 (1982). 
+
+
+26 
+
+
+view of the government’s “direct pecuniary interest in the out- 
+come” of forfeiture proceedings. Good, 114 S. Ct. at 502 & n.2; 
+see also id. at 515 (Thomas, J., concurring in part and dissenting 
+in part) (expressing “distrust of the Government’s aggressive use 
+of broad civil forfeiture statutes”). 
+
+
+C. The Issues Presented Are Important And Recurring. 
+
+
+This case raises vitally important issues of federal law. The 
+disentitlement doctrine, as applied by the court below, poses 
+fundamental constitutional questions regarding the government's 
+authority to confiscate property without permitting the owner arty 
+opportunity to be heard. Equally significant is the related and 
+squarely presented question whether the federal courts, pursuant to 
+their “inherent” or “supervisory” authority, may nullify rights 
+conferred by Congress and by the Constitution. And, of course, 
+the case offers this Court an opportunity to provide much-needed 
+guidance concerning the proper use, if any, of the disentitlement 
+doctrine in civil actions. 
+
+These issues arise with considerable frequency. The fugitive 
+disentitlement doctrine is routinely invoked in civil forfeiture ac- 
+tions, and the government has become increasingly emboldened by 
+its successes to push the doctrine to new and more expansive 
+limits.” There is, moreover, good reason to believe that the 
+
+
+® See, e.g., United States v. Michelle's Lounge, 39 F.3d 684 (7th Cir. 
+1994); $40,877.59, 32 F.3d 1151; Timbers Preserve, 999 F.2d 452; 
+United States v. Contents of Accounts Nos. 3034508504 and 144-07143 
+At Merrill Lynch, Pierce, Fenner and Smith, Inc. , ‘971 F.2d 974 (3d Cir. 
+1992); Eng, 951 F.2d 461, aff'g, 745 F. Supp. 118 (E.D.N.Y. 1990); 
+United States v. Twenty Cashier's Checks, 897 F.2d 1567 (11th Cir. 
+1990); 7707 S.W. 74th Lane, 868 F.2d 1214; United States v. One 
+Residential Property Located At 450 Ocean Drive, PH-3, Juno Beach, 
+Fla., 1989 WL 140904 (9th Cir. 1989); Pole No. 3172, 852 F.2d 636; 
+$45,940, 739 F.2d 792; $83,320, 682 F.2d 573; United States v. 
+$470,371.76 U.S. Currency, More or Less, 1993 WL 88226 (S.D.N.Y. 
+1993); United States v. All Monies in Account No. 400 6050975 00, 1992 
+U.S. Dist. LEXIS 16930 (E.D. Pa. Nov. 4, 1992); United States v. All 
+Funds on Deposit in Any Accounts Maintained at Merrill Lynch, Pierce, 
+Fenner & Smith, 801 F. Supp. 984 (E.D.N.Y. 1992); United States v. 
+
+
+~~ 
+
+
+tn 8 ee a cr a 
+
+
+27 
+
+
+doctrine is applied with far greater frequency than even the many 
+reported forfeiture decisions would suggest, especially in those 
+circuits (such as the Second, Ninth, and Eleventh) where this 
+practice has long been approved. For example, in the decision that 
+gave rise to the Alvarez petition, the Eleventh Circuit summarily 
+affirmed a district court judgment striking the claims of various 
+property owners on the strength of the fugitive disentitlement 
+doctrine. United States v. Certain Funds In The United Kingdom, 
+Nos. 92-2294, -2295, -2920, 93-2424 (11th Cir. Apr. 13, 1994) 
+(per curiam), reprinted in Appendix to Pet. for Certiorari, Alvarez 
+v. United States, No. 94-636. In another unreported decision, the 
+Ninth Circuit similarly upheld a judgment of forfeiture of a home 
+on the basis of the disentitlement doctrine. See United States v. 
+Real Property at 11205 McPherson Lane, Ojai, California, 1994 
+U.S. App. LEXIS 20658 (9th Cir.), cert. dismissed, 115 S. Ct. 
+536 (1994) (Rule 46 dismissal). In addition, both the Seventh and 
+the Tenth Circuits recently have issued unpublished decisions that 
+turned on this issue. See note 5, supra; United States v. Sanders, 
+1995 U.S. App. LEXIS 3999, *4-*5 (8th Cir. Feb. 28, 1995). In 
+short, the reported cases — which by themselves are quite 
+substantial — understate the true incidence of this questionable use 
+of disentitlement. 
+
+
+The Court’s resolution of the issues presented in this case will 
+also shed light on the propriety of using the disentitlement doctrine 
+in other civil contexts. The disentitlement doctrine has been 
+invoked in a wide array of civil contexts, including in other 
+
+
+United States Currency in Amount of $294,600, 1992 WL 170924 
+(E.D.N.Y. 1992); United Statesv. One Parcel of Real Property 
+Described as Lot 156 and the South Three Feet of Lot 157, Valley View 
+Estates, 776 F. Supp. 432 (W.D Mo. 1991), aff'd in unpublished 
+opinion, 1992 U.S. App. LEXIS 29278 (8th Cir. 1992) (per curiam); 
+United States v. $182,980.00 U.S. Currency, 727 F. Supp. 1387 (D. 
+Colo. 1990); United States v. Certain Real Property Located at 760 S. W. 
+Ist Street, Miami, Florida, 702 F. Supp. 575 (W.D.N.C. 1989); United 
+States v. Collins, 651 F. Supp. 1177 (S.D. Fla. 1987); United States v. 
+One Lot of U.S. Currency Totalling $506,537.00, 628 F. Supp. 1473 
+(S.D. Fla. 1986). 
+
+
+28 
+
+
+settings where property is temporarily restrained,” in civil rights 
+actions under 42 U.S.C. § 1983,” in deficiency and other actions 
+under the tax laws,” in immigration cases,” and in a variety of 
+other cases.~ See generally In re Prevot, 1995 U.S. A vp 
+
+
+| See, e.g., In re Assets of Martin, 1 F.3d 1351 (3d Cir. 1993) 
+(dismissing fugitive’s appeal from restraining order to preserve availabili- 
+ty of assets granted pursuant to RICO, 18 U.S.C. § 1963(d)(1)); United 
+States v. Eagleson, 874 F. Supp. 27 (D. Mass. 1994) (applying disentitle- 
+ment doctrine to prevent hearing on the merits of RICO restraining 
+order). 
+
+
+= See, e.g., Perko v. Bowers, 945 F.2d 1038 (8th Cir.), cert. denied, 
+503 U.S. 939 ( 992); Ali v. Sims, 788 F.2d 954 (3d Cir. 1986); 
+Broadway v. City of Montgomery, 530 F.2d 657 (Sth Cir. 1976); Andra 
+v. Erickson, 1995 U.S. Dist. LEXIS 8555 (D. Mont. May 31, 1995); 
+Griffin v. City of New York Correctional Com’r, 882 F. Supp. 295 (E.D.- 
+N.Y. 1995); Mayberry v. Robinson, 427 F. Supp. 297 (M.D. Pa. 1977); 
+Siebert v. Johnston, 381 F. Supp. 277 (E.D. Okl. 1974). 
+
+
+= See, e.g., Friko Corp. v. Commissioner of Internal Revenue, 26 F.3d 
+1139 (D.C. Cir. 1994); Schuster v. United States, 765 F.2d 1047 (11th 
+Cir. 1985); Conforte v. Commissioner, 692 F.2d 587 (9th Cir. 1982); 
+Pecoraro v. C.1.R., 1995 WL 311334 (T.C. 1995); Daccarett-Ghia v. 
+C.1.R., 1994 WL 675537 (T.C. 1994); Edelman v. C.1.R., 103 T.C. 705 
+(T.C. 1994); Coninck v. C.1.R., 100 T.C. 495 (T.C. 1993); Gruevski v. 
+C.1.R., 59 T.C.M. (CCH) 842 (T.C. 1990); Smith v. C.1.R., 57 T.C.M. 
+(CCH) 864 (T.C. 1989); Berkery v. C.1.R., 90 T.C. 259 (T.C. 1988). 
+
+
+* See, e.g., Bar-Levy v. United States Dep't of Justice, 1.N.S., 990 
+F.2d 33 (2d Cir. 1993); Arana v. United States Immigration & Natural- 
+ization Serv., 673 F.2d 75 (3d Cir. 1982) (per curiam); Singh v. 
+Schiltgen, 1995 WL 311966 (N.D. Cal. 1995); Singh v. Reno, 1994 WL 
+721469 (N.D. Cal. 1994). 
+
+
+> See, e.g., Aamco Transmissions, Inc. v. Martin, 647 F.2d 164, 164 
+(6th Cir. 1981) (dismissing fugitive’s appeal from judgment in civil action 
+ordering specific performance of settlement agreement); United Elec. , 
+Radio and Mach. Workers of America v. 163 Pleasant Street Corp. , 960 
+F.2d 1080, 1097 (ist Cir. 1992) (appeal from grant of preliminary 
+injunction under ERISA); Doyle v. United States Dep't of Justice, 668 
+
+
+29 
+
+
+LEXIS 17014, at *17-26 (6th Cir. July 14, 1995) (collecting 
+cases). With increasing frequency, private litigants are attempting 
+to follow the government’s example by using the disentitlement 
+doctrine against their absent opponents. See, e.g., Pharaon, 1995 
+WL 231330 (disentitling fugitive from defending against civil 
+RICO claim). 
+
+
+The issue is ripe for this Court’s review. Indeed, the courts 
+of appeals have suggested, more than once, the need for guidance 
+from this Court. See, Perko 945 F.2d at 1039 (“Supreme Court 
+has yet to define the reach of the [fugitive disentitlement] rule 
+outside” of criminal appeals); $40,877.59, 32 F.3d at 1153 
+(“Supreme Court has not reviewed any case in which the doctrine 
+was used by a district court in a civil forfeiture proceeding”). 
+Further review is warranted.” 
+
+
+CONCLUSION 
+
+
+The petition for a writ of certiorari should be granted. 
+Respectfully submitted. 
+
+
+DANIEL W. STEWART LAWRENCE S. ROBBINS 
+Daniel W. Stewart, Lid. Counsel of Record 
+Post Office Box 3021 ALAN E. UNTEREINER 
+Reno, Nevada 89505-3021 Mayer, Brown & Platt 
+(702) 323-3030 2000 Pennsylvania Ave., N. W. 
+Washington, D.C. 20006 
+AuGusT 1995 (202) 465-2000 
+
+
+F.2d 1365, 1365 (D.C. Cir. 1981) (per curiam) (action under Freedom 
+of Information Act), cert. denied, 455 U.S. 1002 (1982). 
+
+
+*® The importance of this Court’s guidance in this area, moreover, 
+extends to state cases as well. See, e.g., State of Maryland Deposit 
+Insurance Fund Corp. v. Billman, 321 Md. 3, 580 A.2d 1044, 1046-49 
+(1990) (discussing federal disentitlement cases and collecting state cases 
+applying doctrine); Garcia v. Metro-Dade Police Dep't, 576 So.2d 751, 
+752 (Fla. App. 1991) (citing federal authority in holding that claimant to 
+property in civil forfeiture proceeding may be disentitled). See also note 
+7, supra. 
+
+
+APPENDICES 
+
+
+APPENDIX A 
+
+
+IN THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+UNITED STATES OF AMERICA, 
+
+
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+-) 
+
+
+Appeal from the United States District Court 
+for the District of Nevada 
+Edward C. Reed, Jr., District Judge. 
+
+
+Argued and Submitted 
+December 16, 1994 — San Francisco, California 
+
+
+February 10, 1995, Filed 
+Amended May 5, 1995 
+
+
+Before: Joseph T. Sneed, William A. Norris, 
+and Cynthia Holcomb Hall, Circuit Judges. 
+
+
+HALL, Circuit Judge: 
+
+
+Brian and Karyn Degen appeal from judgments entered against 
+them in the district court on their claims to the defendant properties 
+in this civil forfeiture action. The district court held in a published 
+opinion that Brian Degen (hereinafter referred to as “Brian”) was 
+
+“disentitled” from pursuing his claim to the defendant properties 
+
+
+2a 
+
+
+under the fugitive disentitlement doctrine. See, e.g., United States 
+v. $129,374 in United States Currency, 769 F.2d 452 (9th Cir. 
+1985), cert. denied, 474 U.S. 1086 (1986). Two and one-half 
+years later, the district court entered judgment against Karyn Degen 
+(“Karyn”) pursuant to Local Rule 140-6 of the District of Nevada, 
+which provides in part that the failure of a party to file an opposi- 
+tion to a motion “shall constitute a consent to the granting of the 
+motion.” The district court entered judgment under this rule when 
+Karyn failed to file a response to the government’s summary 
+judgment motion against her, despite receiving several extensions 
+of time and being warned that the court intended to invoke Local 
+Rule 140-6. 
+
+
+We have jurisdiction under 28 U.S.C. § 1291 and now affirm 
+as to both appellants. 
+
+
+FACTS AND PROCEDURAL HISTORY 
+
+
+This civil forfeiture action under 21 U.S.C. §§ 881(a)(6) & (7) 
+involves several million dollars worth of real and personal proper- 
+ty, bank accounts, property income, and business interests located 
+in California, Nevada, and Hawaii. The government initiated 
+forfeiture proceedings against a wide array of property in 1989; 
+after the Degens filed claims to a substantial portion of the 
+property, the government severed those properties and made them 
+the subject a second complaint. The complaint alleges that all the 
+defendant properties were the fruits of and/or used to facilitate a 
+massive marijuana trafficking operation Brian had participated in 
+for over twenty years, beginning in the late 1960s. In a separate 
+proceeding, a grand jury in the District of Nevada indicted Brian 
+on a wide array of criminal charges relating to the alleged marijua- 
+na smuggling and related money laundering activities. 
+
+Brian is a Swiss citizen. Shortly before being indicted, he left 
+the United States and resettled with his family in Switzerland. 
+Under the exuadition treaty between Switzerland and the United 
+States, neither country is obligated to extradite its own nationals, 
+so the United States government has been unable to secure his 
+return to this country to face the criminal charges in Nevada. 
+Brian refused to return voluntarily to the United States when he 
+learned of the criminal charges against him. He was apparently 
+arrested in Switzerland in late 1992, although the nature and 
+
+
+MI NE A ee ae — io, 
+
+
+3a 
+
+
+during the five years since his indictment made a good faith attempt 
+to submit to the criminal jurisdiction of the Nevada district court. 
+
+
+The government first moved for summary judgment in May 
+1990. The district court granted the motion with respect to Brian, 
+holding that he was a fugitive from justice in the related criminal 
+case and therefore was not entitled to contest the civil forfeiture 
+that she had raised triable issues of fact with respect to her innocent 
+owner defense. 
+
+
+The government moved again for summary judgment in 
+December 1992, against Karyn only. The second motion was 
+supported by affidavits of three of Brian’s alleged partners in his 
+drug smuggling business, detailing their illegal activities and the 
+sizeable amounts of money Brian earned therefrom over the years. 
+The affiants also alleged that Brian had no significant income from 
+legitimate sources during the long period covered by the criminal 
+indictment. The motion was further supported by documentary 
+evidence and an accompanying authenticating affidavit by the 
+Assistant United States Attorney handling the case. 
+
+Under Local Rule 140-4, Karyn initially had fifteen days in 
+which to respond to the summary judgment motion. She obtained 
+numerous extensions of this deadline, claiming that sealing orders 
+obtained by the government made it impossible to gather evidence 
+in support of her claims. After a hearing in February 1993, the 
+district court made all relevant documents available to Karyn to use 
+in preparing her response to the motion, and reopened discovery 
+for sixty days. When Karyn failed to file a response to the 
+summary judgment motion before a final deadline imposed by the 
+district court had passed, the court entered judgment against her 
+pursuant to Local Rule 140-6. 
+
+
+The disentitlement doctrine provides that a fugitive from 
+justice under certain circumstances loses the right to call upon the 
+resources of the courts. In a leading Supreme Court case on the 
+subject, for example, a criminal defendant fled after being convict- 
+ed and the Court held that his escape “disentitle[{d him] to call upon 
+the resources of the Court for determination of his” direct appeal. 
+Molinaro v. New Jersey, 396 U.S. 365, 366, 24 L. Ed. 2d 586, 90 
+
+
+4a 
+
+
+S. Ct. 498 (1970); compare Ortega-Rodriguez v. United States, 122 
+L. Ed. 2d 581, 113 S. Ct. 1199, 1209 (1993) (“[W)hen a defen- 
+dant’s flight and recapture occur before appeal, the defendant's 
+former fugitive status may well lack the kind of connection to the 
+appellate process that would justify an appellate sanction of 
+dismissal.”). 
+
+The disentitlement doctrine applies in more contexts than just 
+direct criminal appeals. The circuit courts have extended the 
+doctrine to disentitle fugitives from participating in civil proceed- 
+ings related to the criminal cases they have fled. See, e.g., 
+Conforte v. Commissioner of Internal Revenue, 692 F.2d 587 (9th 
+Cir. 1982) (taxpayer who fled after conviction on criminal tax 
+evasion charges not entitled to prosecute appeal of tax court 
+determination of tax deficiencies and penalties), stay denied, 459 
+U.S. 1309, 103 S. Ct. 663, 74 L. Ed. 2d 588 (1983) (Rehnquist, 
+J., in chambers); Doyle v. United States Dep’t of Justice, 668 F.2d 
+1365 (D.C. Cir. 1981) (fugitive not entitled to seek judicial relief 
+under Freedom of Information Act), cert. denied, 455 U.S. 1002, 
+71 L. Ed. 2d 870, 102 S. Ct. 1636 (1982); Broadway v. City of 
+Montgomery, 530 F.2d 657 (Sth Cir. 1976) (court of appeals 
+refused to decide appeal of fugitive seeking damages and injunctive 
+relief for illegal wiretap). More specifically, the disentitlement 
+doctrine has been applied on a regular basis by this court and other 
+circuits in the context of civil forfeiture claims. See, ¢.g., 
+$129,374, 769 F.2d at 587; United States v. Timbers Preserve, 
+Routt County, Colorado, 999 F.2d 452 (10th Cir. 1993); United 
+States v. Eng, 951 F.2d 461 (2nd Cir. 1991); United States v. One 
+Parcel of Real Estate at 7707 S.W. 74th Lane, Miami, Dade 
+County, Florida, 868 F.2d 1214 (11th Cir. 1989); United States v. 
+Pole No. 3172, Hopkinton, 852 F.2d 636 (ist Cir. 1988). 
+
+
+This court left open in $129,374 the question whether the 
+forfeiture action must be “directly related” to the criminal proceed- 
+ing from which the claimant has fled, finding it unnecessary to re- 
+solve the issue because the “criminal conviction and the property 
+involved in this civil forfeiture proceeding are integrally related 
+parts of the same unlawful drug dealing scheme.” 769 F.2d at 
+588. We need not decide that question either, for the same reason. 
+The government submitted evidence in the present case to establish 
+that all of the properties it seeks to seize were used in connection 
+
+
+ee ee 
+
+
+eee 
+
+
+Sa 
+
+
+with or purchased with the proceeds of the various illegal drug 
+transactions which form the basis of Brian’s criminal indictment. 
+In addition, the government’s “star witness” in the forfeiture case, 
+Ciro Mancuso, and possibly other witnesses, are co-defendants in 
+the criminal case. Under these circumstances, the criminal and 
+forfeiture actions are closely enough connected to satisfy any 
+relatedness test. 
+
+
+The present case differs from prior Ninth Circuit applications of 
+the disentitlement doctrine in one respect. In prior cases, the 
+claimants have fled after being convicted in a related criminal 
+proceeding. See, e.g., $129,374, 769 F.2d at 584; Conforte, 692 
+F.2d at 589. Here, by contrast, Brian has been indicted but not 
+tried or convicted of any criminal charges. This distinction does 
+not, however, compel a finding that the fugitive disentitlement 
+doctrine does not apply. The doctrine rests on the premise that 
+“‘the fugitive from justice has demonstrated such disrespect for the 
+legal processes that he has no right to call upon the court to 
+adjudicate his claim."” Ortega-Rodriguez, 113 S. Ct. at 1206 
+(quoting Ali v. Sims, 788 F.2d 954, 959 (3d Cir. 1986)). Although 
+Brian has not been arrested or tried, he has certainly “demonstrated 
+disrespect” for the district court by refusing to submit to its 
+jurisdiction in the criminal action. 
+
+The district court correctly concluded in its opinion dismissing 
+Brian’s claims in December 1990 that he was at that time a fugitive 
+from justice because he knew he had been indicted in Nevada but 
+refused to return. 755 F. Supp. at 309-10 (citing United States v. 
+Ballesteros-Cordova, 586 F.2d 1321, 1323 (9th Cir. 1978) and 
+United States v. Gonsalves, 675 F.2d 1050, 1052 (9th Cir.), cert. 
+denied, 459 U.S. 837, 74 L. Ed. 2d 78, 103 S. Ct. 83 (1982)). At 
+that time he was apparently free to return to the United States to 
+contest the forfeiture action, but chose not to do so, presumably to 
+avoid arrest on the criminal charges. Under these circumstances, 
+Brian was a fugitive. See $]29,374, 769 F.2d at 587-88 (“It is im- 
+portant to recognize that Lewis has complete control over the 
+protection of his property interests in this forfeiture proceeding; if 
+he finds his interests are sufficiently worth defending, he can ter- 
+minate his fugitive status and present his own defense.”); Gon- 
+Salves, 675 F.2d at 1055 (fugitive status continues until accused 
+makes a “good faith effort to surrender”). 
+
+
+6a 
+
+
+Brian was apparently arrested by Swiss authorities on Novem- 
+ber 19, 1992. His counsel strenuously argued in the district court 
+and again in this court that the Swiss arrested Brian at the behest 
+of the United States government, which wished to “transfer” its 
+prosecution to Switzerland because extradition was impossible. 
+While counsel argues this point, however, the record contains no 
+admissible evidence to support these claims. 
+
+
+The only document submitted to the district court that even 
+arguably tended to prove that Brian was arrested in Switzerland was 
+an affidavit of the Degens’ counsel, submitted by Karyn Degen in 
+support of a request for an extension of time to respond to the 
+second summary judgment motion. The affidavit, however, 
+consists of hearsay, multiple hearsay, and virtually no factual 
+statements based on personal knowledge. 
+
+
+The only other purported evidence of United States involve- 
+ment in Brian’s arrest in Switzerland are two letters from the 
+Department of Justice Office of International Affairs to Swiss 
+authorities, supposedly proving that the United States government 
+was “transferring” its prosecution of Brian to Switzerland. There 
+are numerous obstacles to Brian’s attempt to use these letters as 
+evidence of improper activity by the government. To begin with, 
+the letters are unauthenticated and, so far as we can discern, are 
+hearsay not subject to any exception. Furthermore, the letters were 
+never submitted to the district court and constitute an inappropriate 
+attempt to supplement the factual record on appeal.’ 
+
+
+Even putting these problems aside, Brian has never proffered 
+any supporting evidence or argument explaining the import of the 
+letters. For example, despite being in contact with Brian’s Swiss 
+local counsel and possibly with Brian himself, Brian’s counsel in 
+this case has apparently failed to obtain a copy of the Swiss charges 
+against Brian in the two years since the arrest in Switzerland. 
+Without even that basic piece of information, any conclusion as to 
+whether the Swiss prosecution was a “transfer” of the Nevada 
+charges would be sheer speculation. Brian has also submitted no 
+
+
+' Just prior to oral argument, the Degens made a formal motion to 
+supplement the record on appeal with these letters. We denied the 
+motion. The present discussion is intended in part to explain that ruling. 
+
+
+= +t we 
+
+
+7a 
+
+
+legal authority explaining how the purported “transfer” of prosecu- 
+tions from the United States to Switzerland was effected. Our 
+research reveals no treaty between the United States and Switzer- 
+land which authorizes such transfers of prosecution; other bilateral 
+treaties to which the United States is a party, however, do explicitly 
+provide such a mechanism. See, e.g., Treaty on Extradition, 
+U.S.-Denmark, June 22, 1972, art. 5, 25 U.S.T. 1293 (if the 
+requested state declines to extradite its own national, “the requested 
+State shall submit the case to its competent authorities for the 
+purpose of prosecution”); Extradition Treaty, U.S.-Finland, June 
+11, 1976, art. 4(2), 31 U.S.T. 944 (same); Treaty of Extradition, 
+U.S.-Netherlands, June 24, 1980, art. 4(3), T.1.A.S. 10733 (“If ex- 
+tradition is not granted solely on the basis of the nationality of the 
+person sought, the Requested State shall, at the request of the 
+Requesting State, submit the case to its competent authorities for 
+the purpose of prosecution, provided that the offense constitutes a 
+criminal offense under the law of that State and that State has 
+jurisdiction over the offense.”). 
+
+
+All in all, we find that there is no credible evidence properly 
+in the record before us to support Brian’s allegations of government 
+involvement in his arrest and prosecution in Switzerland. Further- 
+more, there is language in several cases suggesting that the fact that 
+a fugitive is incarcerated in a foreign jurisdiction does not preclude 
+application of the fugitive disentitlement doctrine. See, e.g., 
+Timbers Preserve, 999 F.2d at 456 (“Regardless of the reasons for 
+Pietri’s incarceration in Laos, he was a fugitive from this country 
+when he left and remained a fugitive until he was returned, even 
+though he may have lost control of his own freedom in Laos.”); 
+Eng, 951 F.2d at 464 (“One may flee though confined in prison in 
+another jurisdiction.” ); United States v. Catino, 735 F.2d 718, 722 
+(2nd Cir.) (noting that “a fugitive who is imprisoned in a foreign 
+jurisdiction and then resists his return to the United States may 
+remain a ‘person fleeing from justice’”) (citation omitted), cert. 
+denied, 469 U.S. 855, 83 L. Ed. 2d 114, 105 S. Ct. 180 (1984). 
+Even assuming the situation would be different if Brian could prove 
+that the United States government was somehow involved in his 
+arrest in Switzerland, we find that he has not so proven. 
+
+
+The district court erred in one respect in its 1990 opinion. 
+The district court found that upon finding that Brian was a fugitive 
+
+
+from justice, this court’s decision in $129,374 allowed for no dis- 
+cretion in the application of the disentitiement doctrine. As a 
+result, the court did not consider whether the doctrine should, in 
+the exercise of its discretion, be applied. Subsequent decisions, 
+however, have made clear that the doctrine is discretionary, not 
+mandatory. See, e.g., Ortega-Rodriguez, 113 §. Ct. at 1209 n.23 
+(“dismissal of fugitive appeals is always discretionary, in the sense 
+that fugitivity does not ‘strip the case of its character as an 
+adjudicable case or controversy’”) (quoting Molinaro, 396 U.S. at 
+366); United States v. Van Cauwenberghe, 934 F.2d 1048, 1055 
+(9th Cir. 1991) (“while we clearly have the discretionary authority 
+to dismiss this appeal, there is ‘no per se requirement of dismissal 
+in [these] . . . case[s]’” (quoting Hussein v. INS, 817 F.2d 63, 63 
+(9th Cir. 1986) (Norris, J., concurring))). 
+
+
+Brian does not, however, argue this issue on appeal. We 
+therefore deem it to be waived. We thus hold that the district court 
+properly dismissed Brian’s claims to the defendant properties under 
+the fugitive disentitlement doctrine.’ 
+
+
+Karyn argues that the district court erred in entering summary 
+judgment against her under Local Rule 140-6. She contends that 
+genuine issues of material fact exist as to her innocent owner de- 
+fense to the forfeiture action, and that she was unable to prepare a 
+response to the government’s second summary judgment motion 
+due to the sealing of various documents and the inability of certain 
+witnesses to testify in depositions about matters also under seal. 
+We find, however, that the district court properly exercised its 
+
+
+* While this appeal was pending, the Supreme Court decided United 
+States v. James Daniel Good Real Property, 126 L. Ed. 2d 490, 114 S. 
+Ct. 492 (1993), which held that seizure of real property for forfeiture 
+without prior notice and a hearing violates the owner’s due process rights 
+under the Fifth Amendment. If not for Brian's fugitive status, the rule of 
+Good would apply to this case. See United States v. Real Property 
+Located at 20832 Big Rock Drive, No. 93-55281, slip op. 3843, 1995 WL 
+150859 (9th Cir. Apr. 7, 1995). However, the fugitive disentitlement 
+doctrine precludes Brian from contesting the government's seizure of his 
+properties. 
+
+
+hts Dice ee et 6 A eee ~ 
+
+
+9a 
+
+
+discretion in granting the government’s second summary judgment 
+motion. 
+
+
+A. Procedural Background 
+
+
+The government filed its second summary judgment motion on 
+December 2, 1992. District court Local Rule 140-6 provides that 
+“[t}he failure of an opposing party to file a memorandum of points 
+and authorities in opposition to any motion shall constitute a 
+consent to the granting of the motion.” Under Local Rule 140-4, 
+a party normally has fifteen days in which to respond to any 
+motion. The government initially agreed to a fifteen-day extension 
+of that deadline. Karyn did not, however, adhere to that timetable. 
+
+
+On January 5, 1993, several days after the first extended 
+deadline passed, Karyn moved for an extension of time to reply. 
+Karyn argued that the sealing of several documents, including 
+affidavits supporting the government’s summary judgment motion, 
+made it impossible to defend the motion. She also complained that 
+she was unable to respond to the motion because the assistance of 
+Brian Degen was essential and he had been arrested by Swiss 
+authorities, allegedly at the behest of the United States government, 
+and was being held “incommunicado.” 
+
+
+In response to this motion, the district court held a hearing. 
+At the close of the hearing, the court found that two of the govern- 
+ment’s affidavits supporting its motion should not have been sealed 
+and ordered them made available to Karyn. A third affidavit, that 
+of Ciro Mancuso, was ordered sealed but made available to Karyn 
+and her counsel to prepare their response to the motion. The court 
+also reopened discovery for sixty days and allowed Karyn until 
+twenty days after the new close of discovery to respond to the 
+summary judgment motion. 
+
+When Karyn failed to respond to the motion by the new 
+deadline, the district court, on May 3, sua sponte granted an 
+additional two week extension. The court warned, however, that 
+if Karyn failed to respond by May 17, “said motion will be 
+forthwith granted.” Rather than comply, however, Karyn on May 
+5 filed a Motion for Order Staying Further Proceedings in This 
+Case Pending Resolution of Related Criminal Actions. On May 19, 
+the government filed an opposition to Karyn’s request for a stay, 
+
+
+10a 
+
+
+and a request for judgment in accordance with the May 3 Minute 
+Order. 
+
+
+On June 2, the district court denied Karyn’s motion for a stay 
+and granted an additional twenty days in which to respond to the 
+summary judgment motion. The court again explicitly warned 
+Karyn that it would enter summary judgment against her if she 
+failed to respond: 
+
+
+[Karyn] has failed to respond [to the summary judgment 
+motion] within the time period required by the rules. Howev- 
+er, rather than to default [her] at this time, the Court will 
+grant an additional period of twenty (20) days to respond to 
+the motion for summary judgment. If [Karyn] fails to respond 
+to said motion within 20 days summary judgment will be 
+entered. [Karyn] has been allowed ample time to file a 
+response to this motion. 
+
+
+When Karyn failed to file any response or other motion, the 
+district court entered summary judgment against Karyn in an order 
+dated June 23, 1993. 
+
+
+B. Discussion 
+
+
+Federal Rule of Civil Procedure 83 permits the district courts 
+to promulgate local rules governing practice and procedure, so long 
+as the rules do not conflict with the Federal Rules. In appeals from 
+grants of default summary judgment, this court has upheld two Ari- 
+zona district local rules which are substantially identical to Nevada 
+Local Rule 140-6. Henry v. Gill Indus., Inc., 983 F.2d 943, 
+949-50 (9th Cir. 1993) (upholding Local Rule 11(i) of the District 
+of Arizona, providing that failure to serve and file answering 
+memoranda “may be deemed a consent to the denial or granting of 
+the motion summarily”); United States v. Warren, 601 F.2d 471, 
+473 n.1 (9th Cir. 1979) (upholding Arizona Local Rule 11(g), 
+providing that “[a] failure to file a brief or memorandum of points 
+and authorities in support of or in opposition to any motion shall 
+constitute a consent of the party failing to file such a brief or 
+memorandum to the denial or granting of the motion.”). 
+
+
+In Henry, we noted that the “interrelationship between Rule 56 
+and Rule 83” requires that the local rule leave a measure of 
+discretion in the hands of the district court. 983 F.2d at 949-50. 
+Because summary judgment is only proper under Rule 56 if there 
+
+
+lla 
+
+
+is no genuine issue of material fact and the moving party is entitled 
+to judgment as a matter of law, a local rule cannot mandate 
+automatic entry of judgment for the moving party without consid- 
+eration of whether the motion and supporting papers satisfy the 
+requirements of Rule 56. Jd. at 950. Henry and Warren, 601 F.2d 
+at 473, both held that the Arizona rules phrased similarly to Nevada 
+Local Rule 140-6 permitted sufficient discretion. 
+
+
+Local Rule 140-6 provides that failure to file an opposition to 
+a motion “shall constitute a consent to the granting of the motion.” 
+While the rule allows no discretion in finding that consent has been 
+given, it does not remove the district court’s discretion as to 
+whether to grant the motion. As this court observed in Warren, 
+“*[cJonsent’ when imposed by rules such as 11(g) can be ‘with- 
+drawn’ by ‘permission’ of the court given in its ‘discretion.’ That 
+is, fictional ‘consent’ under Rule 11(g) is never a burden from 
+which the transgressor can not be relieved.” 601 F.2d at 473. 
+
+
+Local Rule 140-6 allows the same discretion approved in 
+Warren, so that the district court retains the power nof to grant 
+judgment despite a violation of the rule, if the underlying motion 
+is deficient. We therefore hold that the rule is facially valid. 
+
+
+The district court’s grant of summary judgment against Karyn 
+would consequently be permissible so long as the government’s 
+motion satisfied Rule 56, and we find that it did. Civil forfeiture 
+actions under 21 U.S.C. §§ 881(a)(6) & (7) are in rem proceedings 
+in which the property seized is the defendant. United States v. One 
+1985 Mercedes, 917 F.2d 415, 419 (9th Cir. 1990). The govern- 
+ment bears the initial burden of showing probable cause that the 
+property seized is the proceeds of a federal narcotics violation or 
+was used to commit or facilitate such a violation. Jd. Although the 
+government must show “more than mere suspicion,” establishing 
+probable cause is not a heavy burden, requiring only that the 
+government “demonstrate by some credible evidence the probability 
+that the [property] was in fact” drug-related. United States v. 
+Dickerson, 873 F.2d 1181, 1184 (9th Cir. 1988) (emphasis in 
+original); see also United States v. $5,644,540.00 in U.S. Curren- 
+cy, 799 F.2d 1357, 1362 (9th Cir. 1986) (government must support 
+seizure with “less than prima facie proof but more than mere suspi- 
+cion”); United States v. One 56-Foot Motor Yacht Named the 
+Tahuna, 702 F.2d 1276, 1281 (9th Cir. 1983) (standard of probable 
+
+
+12a 
+
+
+cause is “similar to that required to obtain a search warrant”). 
+Once the government succeeds in establishing probable cause, the 
+burden of proof shifts to the claimant to show by a preponderance 
+of the evidence that the property is not forfeitable. United States 
+v. $215,300 U.S. Currency, 882 F.2d 417, 419 (9th Cir. 1989), 
+cert. denied, 497 U.S. 1005 (1990). 
+
+
+The government submitted all new evidence in support of its 
+second summary judgment motion. The affidavits supporting the 
+second motion consist of statements by Brian Degen’s “smuggling 
+partners” which, if believed, establish that Brian earned enormous 
+amounts of money from illegal narcotics trafficking and had 
+virtually no legitimate income.’ This evidence suffices to establish 
+probable cause that all of the properties seized were purchased with 
+the proceeds of, or used to facilitate, illegal transactions. 
+
+
+In response to the first summary judgment motion, the Degens 
+submitted evidence intended to establish that some of the defendant 
+properties were not forfeitable in their entirety because they had 
+been purchased in part with Karyn’s separate property. Without 
+expressing any opinion as to whether the district court properly 
+ruled that this evidence raised a genuine issue of fact with respect 
+to Karyn’s claims at the time of the first motion, we find the 
+evidence irrelevant to our review of the district court’s Local Rule 
+140-6 decision of the second motion. 
+
+
+Under Henry, default summary judgment is proper unless “the 
+movant’s papers are themselves insufficient to support a motion for 
+summary judgment or on their face reveal a genuine issue of 
+material fact.” 983 F.2d at 949 (emphasis added). We recently 
+reaffirmed that the facial sufficiency of the moving party’s papers 
+is a paramount consideration whenever a district court contemplates 
+
+
+> The Degens claim that the government’s affidavits in support of the 
+motion were defective. This contention is meritless. The declarations all 
+appear to be based on personal knowledge, relating events which the 
+declarants witnessed or were told by Brian in the course of their smug- 
+gling and financial dealings. Certainly, the Degens might have been able 
+to attack the declarants’ credibility had the case gone to trial, but such im- 
+peachment would affect the weight of the evidence, not its admissibility, 
+
+
+and is immaterial for summary judgment purposes. 
+
+
+13a 
+
+
+entering a default summary judgment. Marshall v. Gates, 44 F.3d 
+722 (9th Cir. 1995). In Marshall, we held that the district court 
+improperly granted summary judgment in favor of the defendants 
+when the plaintiffs filed and served their response to the motion 
+after the deadline imposed by a local rule of court. Jd. at 725. We 
+held that the district court could not enter judgment without consid- 
+ering the sufficiency of the moving party’s papers and, in fact, that 
+the defendant’s papers were in that case insufficient on their face 
+to sustain the summary judgment. /d. 
+
+
+Here, unlike in Marshall, the government’s papers were 
+sufficient and on their face revealed no factual issue. Karyn might 
+possibly have averted summary judgment simply by resubmitting 
+the same evidence she offered in response to the first motion. She 
+did not do so, however, and therefore cannot complain that the 
+evidence was not considered when she defaulted. While Karyn was 
+under no obligation to submit evidence in opposition to the motion, 
+the government was entitled to summary judgment on the basis of 
+its undisputed evidence. 
+
+
+We review the district court’s decision to grant judgment for 
+violation of Local Rule 140-6 for abuse of discretion. See Warren, 
+601 F.2d at 474 (“Only in rare cases will we question the exercise 
+of discretion in connection with the application of local rules.”); 
+Carey v. King, 856 F.2d 1439, 1440 (9th Cir. 1988) (reviewing 
+local rule allowing dismissal for failure to prosecute); Miranda v. 
+Southern Pacific Transp. Co., 710 F.2d 516, 521 (9th Cir. 1983) 
+(“District courts have broad discretion in interpreting and applying 
+their local rules.”). The district court did not abuse its discretion 
+in this case. Karyn was allowed a total of over six months to 
+respond to the government’s summary judgment motion. Even 
+assuming that the early delays were necessary because various 
+documents were sealed due to the related criminal prosecution, that 
+was no longer the case after the district court’s February order 
+reopening discovery and making all documents available to Karyn. 
+
+
+Karyn had the opportunity to depose all witnesses whose 
+affidavits the government submitted in support of its motion.‘ We 
+
+
+* Karyn argues that she was unable fully to depose certain witnesses 
+because they refused to answer questions regarding their sealed plea 
+
+
+l4a 
+
+
+also find little merit in her contention that she was prejudiced by 
+the district court’s conditioning her right to submit a declaration by 
+Brian Degen on a showing that he was unavailable for a deposition. 
+Karyn did not and still does not explain how it would have been 
+possible to obtain a sworn affidavit from Brian, who was allegedly 
+being held “incommunicado” in a Swiss prison at that time, 
+whereas a deposition would have been impossible. Furthermore, 
+she made absolutely no attempt to present any such declaration to 
+the district court or to show that Brian was in fact unavailable for 
+a deposition. 
+
+
+The district court specifically warned Karyn at least twice that 
+it would enter judgment under Local Rule 140-6 if she failed to 
+respond. The court sua sponte granted an additional extension. 
+Under these circumstances, granting the government's motion was 
+not an abuse of discretion.* See, e.g., Henderson, 779 F.2d at 
+
+
+agreements in related criminal cases. Therefore, she claims, she was 
+unable to elicit testimony showing the witnesses’ bias. This claim, how- 
+ever, is irrelevant: on a motion for summary judgment, the district court 
+would not have considered the credibility of the declarants supporting and 
+opposing the motion. See, e.g., National Union Fire Ins. Co. of 
+Pittsburgh v. Argonaut Ins. Co., 701 F.2d 95, 97 (9th Cir. 1983) 
+(“neither a desire to cross-examine an affiant nor an unspecified hope of 
+undermining his or her credibility suffices to avert summary judgment”) 
+(citations omitted). Thus, Karyn’s inability to examine the declarants for 
+bias was in no way prejudicial. 
+
+
+’ Karyn further contends that the district court erred by not granting her 
+motion for a stay pending completion of the related criminal proceedings, 
+when no further sealing orders would be necessary. The decision to grant 
+a continuance is committed to the discretion of the trial judge. See Ungar 
+v. Sarafite, 376 U.S. 575, 589, 11 L. Ed. 2d 921, 84 S. Ct. 841 (1964); 
+Mesa Verde Const. Co. v. Northern Cal. Dist. Council of Laborers, 820 
+F.2d 1006, 1011 (9th Cir. 1987) (no abuse of discretion in denying motion 
+for further discovery when party had access to relevant documents during 
+four week discovery extension and failed to make formal motion for 
+further extension under Fed. R. Civ. Pro. 56(f)), vacated on other 
+grounds, 861 F.2d 1124 (9th Cir. 1988) (en banc); United States v. 2.6] 
+Acres of Land, More or Less, 791 F.2d 666, 670 (9th Cir. 1986) (denial 
+of continuance will not be overturned unless arbitrary or unreasonable). 
+
+
+15a 
+
+
+1423-25 (no abuse of discretion in dismissing complaint where dis- 
+trict court had granted four continuances and warned plaintiff three 
+times of possibility of dismissal as sanction for failure to file 
+proposed pretrial order). 
+
+
+Shortly before oral argument in this case, the Degens filed a 
+document entitled “Motion to Remand with Instructions to Dismiss 
+with Prejudice.” The gist of the motion, which in reality raised a 
+new issue on appeal which had not previously been briefed by the 
+parties, is that this civil forfeiture case must be dismissed on double 
+jeopardy grounds. We find this argument to be utterly without 
+merit. 
+
+The Degens rely on the recent decision by a panel of this court 
+in United States v. $405,089.23 U.S. Currency, 33 F.3d 1210 (9th 
+Cir. 1994), which holds that civil forfeiture constitutes punishment 
+for double jeopardy purposes and, therefore, the Fifth Amend- 
+ment’s Double Jeopardy Clause precludes the government from 
+bringing a civil forfeiture action based on conduct for which the 
+claimant has already been criminally prosecuted. Although 
+$405,089.23 may turn out te have far-reaching implications for 
+civil forfeiture actions, it has no effect in the present case. 
+
+
+The motion purports to be on behalf of both appellants. So far 
+as Karyn Degen is concerned, the suggestion that she has been 
+placed in double jeopardy comes dangerously close to being frivo- 
+lous. It requires no probing analysis to conclude that one’s right 
+to be free from double jeopardy cannot be violated by being placed 
+only once in jeopardy. Unlike her husband, Karyn has not been in- 
+dicted, much less tried or convicted, of any criminal charges related 
+
+
+When the district court denied the stay, this case had been pending for 
+five years and Karyn had over six months to respond to the second 
+summary judgment motion, including a sixty-day reopened discovery 
+period. Furthermore, the request for an indefinite stay pending comple- 
+tion of the criminal proceedings seems somewhat disingenuous, since there 
+is nO prospect that the criminal proceedings will be concluded so long as 
+Karyn’s husband remains a fugitive. Under these circumstances, denial 
+of the request for a stay was not an abuse of discretion. 
+
+
+16a 
+
+
+to this forfeiture action. Karyn therefore has no plausible argument 
+that she is entitled to relief under the Double Jeopardy Clause. 
+
+Brian’s double jeopardy claim is almost as weak. He has been 
+indicted in the District of Nevada on drug trafficking and money 
+laundering charges related to the present forfeiture action. He has 
+not, however, been arrested or tried. It is well-settled that jeopardy 
+does not attach until the beginning of a criminal trial. See, e.g., 
+Crist v. Bretz, 437 U.S. 28, 37-38 n.15, 57 L. Ed. 2d 24, 98 S. 
+Ct. 2156-38 (1978) (jeopardy attaches when jury is empaneled and 
+sworn or, in a bench trial, when the first witness is sworn). Thus, 
+there is no jeopardy in the criminal action and this forfeiture case 
+represents at best the “first” jeopardy. We reject as well any 
+suggestion that the Swiss prosecution of Brian enters into the 
+double jeopardy calculus, since Switzerland is without a doubt a 
+separate sovereign for double jeopardy purposes. 
+
+IV. 
+
+
+The judgments of the district court against both Brian and Karyn 
+Degen are 
+AFFIRMED. 
+
+
+| 
+: 
+
+
+17a 
+APPENDIX B 
+
+
+UNITED STATES of America, Plaintiff, 
+v. 
+
+
+REAL PROPERTY LOCATED AT INCLINE 
+VILLAGE, et al., Defendants. 
+
+
+No. CV-N-90-130-ECR 
+
+
+UNITED STATES DISTRICT COURT 
+FOR THE DISTRICT OF NEVADA 
+
+
+December 31, 1996, Decided 
+January 4, 1991, Entered 
+
+
+EDWARD C. REED, JR., Chief Judge 
+
+
+On October 24, 1989, a federal grand jury in Nevada returned 
+an indictment against Brian J. Degen, charging him in various 
+counts of United States v. Ciro Wayne Mancuso, et al., 
+CR-N-89-24-ECR. A warrant was issued for Degen’s arrest. On 
+the same day, plaintiff instituted a civil forfeiture action against 
+certain real property in Incline Village owned by Degen, and 
+possibly, by Degen’s wife Karyn Degen, as well. Plaintiff asserts 
+that Brian purchased such property with illegal drug money he 
+obtained in the criminal enterprise alleged in the indictment. 
+
+Brian currently resides in Switzerland and is aware of both the 
+indictment and the civil forfeiture action. On April 6, 1990, 
+Donald H. Heller, attorney for Brian and Karyn, filed separate 
+claims for each of them to the property that is the subject of the 
+forfeiture action. Heller also filed answers to the Amended 
+Complaint for Forfeiture on behalf of Brian and Karyn. 
+
+Plaintiff filed a motion seeking to strike the claims and 
+answers of both Brian and Karyn, and seeking summary judgment 
+in its favor (document #8). Plaintiff claims that as a fugitive from 
+justice, Brian is disentitled from appearing in the forfeiture action. 
+The Degens, through Heller, filed an opposition (document #14). 
+
+
+18a 
+
+
+Plaintiff filed a reply (document #20). Heller, on behalf of the 
+Degens, filed a Request for Oral Argument on the Motion to Strike 
+Claims and Answers and Motion for Summary Judgment (document 
+#21). On December 27, 1990, this court heard oral argument from 
+both sides on the motion for summary judgment and motion to 
+strike, as against Brian only. 
+
+In this Order, we address only the Motion to Strike and 
+Motion for Summary Judgment against Brian Degen. In tackling 
+plaintiff's motions against Brian, we must first determine whether 
+Brian is a fugitive from justice. Brian argues that he left Nevada 
+and the United States for Switzerland before he knew of the indict- 
+ment against him and before he knew of the civil forfeiture action. 
+That is, he did not flee the country as a result of a criminal case 
+against him. 
+
+However, case law indicates that to be a fugitive, a person 
+need not flee the state or country with the intent of avoiding a 
+prosecution or an anticipated prosecution. In King v. United States, 
+144 F.2d 729, 731 (8th Cir. 1944), the court held: 
+
+
+To be a fugitive, . . . it is not necessary that the party should 
+have left the state . . . where the crime is alleged to have been 
+committed .. . for the purpose of avoiding an anticipated 
+prosecution, but that, having committed a crime within a state 
+.. ., he has left and is found in another jurisdiction. 
+
+
+In this case, whether Brian left before or after the indictment is 
+irrelevant. Having allegedly committed a crime, Brian left the 
+United States and is in Switzerland. 
+
+
+The Ninth Circuit has adopted the reasoning of the Eighth. In 
+United States v. Wazney, 529 F.2d 1287, 1289 (9th Cir. 1976), the 
+court held that an intent to avoid prosecution (conferring the “fugi- 
+tive” status) could be inferred where the defendant knows that he 
+is wanted by the police and fails to submit to arrest. The Ninth 
+Circuit reaffirmed this decision in United States vv. 
+Ballesteros-Cordova, 586 F.2d 1321, 1323 (9th Cir. 1978) and 
+United States v. Gonsalves, 675 F.2d 1050, 1052 (9th Cir. 1982). 
+In this case, Brian knows that he is wanted by the police, but 
+refuses to submit to arrest, even though he professes his innocence. 
+Thus, we conclude that Brian Degen is a fugitive. 
+
+
+19a 
+
+
+Having concluded that Brian is a fugitive, we now address 
+whether the disentitlement doctrine precludes him from contesting 
+the civil forfeiture action against him. In Molinaro v. New Jersey, 
+396 U.S. 365, 24 L. Ed. 2d 586, 90 S. Ct. 498 (1970), the 
+Supreme Court refused to adjudicate the merits of an appeal from 
+a criminal conviction because defendant was a fugitive. Jd. at 366. 
+The Court held that defendant’s status as a fugitive “disentitle[d] 
+{him] to call upon the resources of the Court for determination of 
+his claims.” Jd. Thus, the disentitlement doctrine emerged for 
+criminal proceedings. 
+
+In Conforte v. Commissioner, 692 F.2d 587 (9th Cir. 1982), 
+the Ninth Circuit extended the disentitlement doctrine to a civil 
+proceeding based on a prior criminal conviction. While this 
+extension went beyond a criminal appeal, it did not address whether 
+the disentitlement doctrine applies to a civil forfeiture proceeding. 
+However, the Ninth Circuit addressed that issue in United States v. 
+$129,374 in U.S. Currency, 769 F.2d 583 (9th Cir. 1985). The 
+court noted: 
+
+
+The issue before us in this case is one of first impression: 
+whether the Molinaro/Conforte disentitlement doctrine should 
+bar intervention in a civil forfeiture proceeding by a fugitive’s 
+successor in interest. We conclude that the limited extension 
+of that doctrine to this situation is compelled as a matter of 
+sound policy. 
+Id. at 587. If the disentitiement doctrine bars a fugitive’s successor 
+from defending a civil forfeiture proceeding, it surely also bars the 
+fugitive. In fact, the $129,374 court noted “If the fugitive is 
+deprived of presenting any claim or defense in this action as the 
+result of his fugitive status, the conservator of his estate must suffer 
+the same consequences.” Jd. at 587. Thus, the disentitlement 
+doctrine may apply to Brian Degen. 
+
+In opposing plaintiff's motions, Brian asserts that his case 
+differs from $/29,374. First, he presents many pages of assertions 
+that he acquired the property in question with legitimate funds. 
+This may well be true. However, Brian may not present this 
+argument if the disentitlement doctrine bars him from defending the 
+civil forfeiture proceeding. Whether the disentitlement doctrine 
+applies is a standing issue. Determining the source of funds Brian 
+
+
+20a 
+
+
+used to purchase the property goes to the merits of the forfeiture 
+action. Thus, we need not determine the source of funds unless the 
+disentitlement doctrine does not apply to Brian. 
+
+
+Brian also argues that his situation differs from the situation of 
+the fugitive in $129,374. In that case, the fugitive was arrested, 
+convicted and released on bond pending sentencing. Before sen- 
+tencing, the fugitive fled the jurisdiction, with knowledge of the 
+civil forfeiture proceeding. The court held that the fugitive and his 
+successor in interest were disentitled from challenging the civil 
+forfeiture because “the [disentitlement doctrine] should apply with 
+greater force in civil cases where an individual’s liberty is not at 
+stake.” Jd. at 588. 
+
+
+However, in this case, plaintiff has not obtained a criminal 
+conviction against the civil claimant. Brian argues that this factual 
+variation should render the disentitlement doctrine inapplicable. In 
+$129,374, the government had already obtained a criminal convic- 
+tion against the civil claimant related to the property in question in 
+the forfeiture action. Brian argues that the disentitlement doctrine 
+should not apply when the civil claimant has not been convicted, 
+but only faces an ongoing prosecution, as is the case with him. 
+Brian notes that he was already in Switzerland when he was 
+indicted and when plaintiff instituted the forfeiture action. 
+
+
+In $129,374, the Ninth Circuit stated explicitly that it need not 
+decide whether the disentitlement doctrine applies when the fugitive 
+seeks relief from forfeiture in the absence of a prior criminal 
+conviction directly related to the property in question. Further, 
+since $129,374, the Ninth Circuit has not addressed the issue. 
+Thus, we must now decide for the first time whether the 
+disentitlement doctrine should apply in the absence of a criminal 
+conviction. 
+
+
+Other circuits have addressed this specific issue, and more 
+generally, in what circumstances the disentitlement doctrine should 
+apply to civil forfeiture proceedings. In reaching their conclusions, 
+other courts have focused on five factors: (1) the policy behind the 
+disentitlement doctrine; (2) the relatedness of the property in the 
+forfeiture action to the crime; (3) the claimant’s control over his 
+fugitive status and his ability to assert his rights to the property in 
+question; (4) whether the claimant is a “plaintiff” or a “defendant” ; 
+
+
+2la 
+
+
+and (5) whether the government obtained a prior criminal convic- 
+tion against the claimant. 
+
+
+(1) The policy behind the disentitlement doctrine - Various 
+courts have offered interpretations of the policy behind the 
+disentitlement doctrine. In Molinaro, supra, the Supreme Court 
+announced that an individual should not be able to call upon the 
+resources of a court to determine his claims when he flouts that 
+court’s power to prosecute him. In a general sense, Brian is 
+attempting to do just that. He wants this court to listen to his 
+claims in the forfeiture proceeding without subjecting himself to 
+this court’s jurisdiction in the criminal matter. On the other hand, 
+Brian has not called upon the resources of the court to determine 
+his claims. The United States has called upon the resources of the 
+court. We will explore this situation in more detail in (4) below. 
+
+
+In Katz v. United States of America, 920 F.2d 610 (9th Cir. 
+1990), the court noted that the disentitlement doctrine prevents an 
+individual from attempting to bargain with or obtain a tactical 
+advantage over the court by awaiting a judicial result and returning 
+to the jurisdiction if the result is favorable and remaining a fugitive 
+if the result is unfavorable. That is, a person should not be able to 
+invoke the power of judicial review and obey the order only if the 
+person likes it. 
+
+In this case, applying the doctrine to Brian would not further 
+this policy. If we allow him to defend against the forfeiture action, 
+he will not return to this court’s jurisdiction after this court reaches 
+a decision, no matter the outcome. He will remain in Switzerland 
+whether or not he forfeits his property. However, this policy 
+would not be furthered even if Brian had already been convicted. 
+In $129,374, the convicted claimant would not have returned to the 
+jurisdiction had he been allowed to defend his interests, no matter 
+the outcome. Thus, the Ninth Circuit has already rejected this 
+policy argument. 
+
+In United Siates of America v. $45,940 in United States 
+Currency, 739 F.2d 792, 797 (2nd Cir. 1984), the court noted that 
+the disentitlemeat doctrine seeks to prevent a claimant evading fed- 
+eral authority from demanding that a federal court service a 
+complaint the claimant initiated. In this case, Brian did not initiate 
+action in this court. The government initiated the action and 
+
+
+22a 
+
+
+claimant seeks only to defend against the action. However, once 
+again, the Ninth Circuit has implicitly rejected this policy argument 
+in $129,374. In that case, the claimant attempted to defend a for- 
+feiture action the government instituted. The court refused to allow 
+claimant to defend the action. Thus, whether the claimant has been 
+previously convicted is irrelevant to the fact that he is evading 
+federal authority. 
+
+
+(2) The relatedness of the property in the forfeiture action to 
+the crime - In $129,374, the Ninth Circuit noted that a person 
+flouting the legal process cannot engage the court’s resources to 
+adjudicate his claims in an action related to a prior conviction 
+(emphasis added). /d. at 587. In that case, the property in 
+question clearly related to the crime. As a result, the court 
+explicitly refused to decide whether the claim must relate to the 
+crime. /d. at 588. Thus, we must address this issue. 
+
+
+In $45,940, supra, the court applied the disentitlement doctrine 
+to the claimant. In that case, the property in question clearly related 
+to the crime. Similarly, in United States of America v. One Parcel 
+of Real Estate, 868 F.2d 1214 (11th Cir. 1989), the court applied 
+the doctrine only because the property in question related to the 
+crime charged. However, the court implied that since the fugitive 
+disentitlement doctrine is so broad, the government need only show 
+facially, i.e., without any fact finding, that the property is related 
+to the crime charged. /d. at 1216-17. 
+
+
+In United States of America v. Pole No. 3172, 852 F.2d 636, 
+644 (Ist Cir. 1988), the First Circuit held that the criminal and 
+civil proceedings must relate to each other for the disentitlement 
+doctrine to apply. In refusing to apply the disentitlement doctrine, 
+the court noted: “The two proceedings here - the civil forfeiture 
+and the Florida criminal indictment - may very well be related. At 
+this point, however, we can only speculate as to the contents of that 
+indictment.” Thus, the court implicitly agreed with the Eleventh 
+Circuit. The Pole court did not apply the doctrine because it could 
+not tell if the proceedings were related. However, it appears that 
+if the Pole court had known the contents of the indictment, it would 
+have determined facially whether the criminal and civil proceedings 
+were related. 
+
+
+23a 
+
+
+In this case, upon examining the indictment against Brian and 
+in reading plaintiff's motion, the government alleges that Brian 
+purchased the property it seeks to acquire in the forfeiture pro- 
+ceeding with proceeds of the criminal enterprise charged in the 
+criminal proceeding. Thus, under the standards of the First and 
+Eleventh Circuits, the criminal and civil proceedings are related. 
+
+
+(3) The claimant’s control over his fugitive status and his 
+ability to assert his rights to the property in question - In defining 
+a fugitive, culpability lies in knowing that a prosecution is pending 
+and refusing to return to the jurisdiction. The Ninth Circuit in 
+$129,374 noted and relied on the fact that: 
+
+
+[The claimant] ha[d] complete control over the protection of 
+his property interests in this forfeiture proceeding; if he 
+f[ound] his interests [were] sufficiently worth defending, he 
+[could] terminate his fugitive status and present his own 
+defense. . . . Here, [the fugitive] is solely responsible for his 
+plight. 
+Id. at 587-88. Similarly, Brian Degen is responsible for his own 
+plight, with or without the previous conviction. If he considered 
+his interests important enough, Brian could come back to Nevada, 
+submit himself to the jurisdiction of this court, and defend his 
+action. 
+
+
+In $45,940, supra, the government deported claimant from the 
+United States before it began prosecuting him. In claiming that he 
+could not come back to the United States, claimant argued he had 
+no control over his fugitive status. The court rejected this argu- 
+ment, noting that the INS indicated it would not prosecute claimant 
+for violating the immigration laws if he entered the United States 
+to defend himself in the criminal prosecution. Further, claimant 
+could have applied to reenter the country, yet chose not to do so. 
+Thus, the court concluded, since claimant controlled his own status, 
+and chose to evade United States authority, he was subject to the 
+disentitlement doctrine. 
+
+
+Similarly, in One Parcel, supra, the court noted that claimant 
+resided in Colombia, and knew of the proceedings in the United 
+States. The court stated that claimant could defend the civil 
+proceeding if he submitted himself to the jurisdiction of the 
+American court. 
+
+
+24a 
+
+
+In this case, Brian clearly has control over his fugitive status. 
+If he wishes to return to Nevada to defend his forfeiture action and 
+submit himself to this court’s jurisdiction, nothing is stopping him. 
+
+In Pole, supra, contrary to the Second and Eleventh Circuits, 
+the First Circuit noted that claimant never controls his fugitive 
+status because he faces the dilemma of not “appearing” and losing 
+because he cannot rebut the government’s case. To defend his 
+interests, the First Circuit noted, claimant would have to submit to 
+the court’s jurisdiction. Thus, the court refused to apply the 
+disentitlement doctrine against claimant. 
+
+However, the court overlooked that claimant might “appear 
+in the civil proceeding without physically submitting himself to the 
+court’s jurisdiction. For example, claimant could file an affidavit 
+or give his deposition out of the jurisdiction of the court in which 
+the criminal proceeding is pending. Further, the First Circuit 
+relied on the lack of evidence that claimant had notice of the civil 
+proceeding and chose not to defend it, to avoid prosecution. In our 
+case, Brian has notice of both the criminal and civil proceedings, 
+and nonetheless chooses not to appear. 
+
+
+(4) Whether the claimant is a “plaintiff” or a “defendant” - In 
+$129,374, the court did not decide whether the disentitlement 
+doctrine applies only to those claimants who initiate the civil action 
+(plaintiffs) because the claimant in that case had notice of the 
+already filed forfeiture proceedings, yet voluntarily elected to flee 
+the jurisdiction of the courts. In this case, it appears that Brian left 
+the United States before the government initiated the forfeiture 
+action. Thus, we address the merits of the issue. 
+
+
+In this case, Brian clearly has the status of a defendant. The 
+government initiated the forfeiture proceeding. In making his 
+claim, Brian technically is defending against the civil action. Thus, 
+he is in effect involuntarily involved in the civil forfeiture action. 
+
+
+In Pole, supra, the First Circuit likened claimant to a defen- 
+dant. Like Brian’s case, in Pole, the government initiated a 
+forfeiture action and claimant intervened to defend against the ac- 
+tion. In refusing to apply the disentitlement doctrine to claimant, 
+the court noted that claimant was not in the customary role of a 
+party invoking the aid of a court to vindicate rights asserted against 
+
+
+” 
+
+
+25a 
+
+
+another. /d. at 643. Thus, claimant had not invoked the processes 
+of the court. 
+
+
+However, in $/29,374, claimant also defended against a 
+forfeiture action. Nonetheless, the court applied the disentitlement 
+doctrine to bar claimant from defending the action. That case in- 
+volved a prior criminal conviction and Brian’s case does not. 
+However, this factual difference does not affect the analysis of 
+whether claimant initiated or is defending against the civil action. 
+Further, in both $45,940 and One Parcel, the courts applied the 
+disentitlement doctrine to bar a claimant who was a “defendant.” 
+
+
+(5) Whether the government obtained a prior criminal convic- 
+tion against claimant - In $129,374, the Ninth Circuit explicitly 
+refused to decide whether claimant must have suffered a prior 
+conviction to have the disentitlement doctrine applied against him. 
+As previously stated, no court in the Ninth Circuit has since consid- 
+ered the issue. 
+
+
+In Pole, supra, the court did not apply the disentitlement 
+doctrine against claimant. In that case, the criminal proceeding 
+against plaintiff was pending at the time of the civil forfeiture pro- 
+ceeding. However, the court did not rely on this circumstance as 
+a basis not to apply the doctrine. Rather, as stated above, the court 
+was more concerned with the relatedness between the property in 
+question and the crime charged. 
+
+
+In both $45,940 and One Parcel, supra, the courts applied the 
+disentitlement doctrine against claimant. In both those cases the 
+criminal prosecution and civil forfeiture proceedings were pending 
+at the same time. Thus, in spite of the fact that no prior conviction 
+existed, the courts applied the doctrine. Significantly, in both cases 
+the property in question was related to the crime charged. 
+
+
+Taking these factors into consideration, we conclude that the 
+disentitlement doctrine should be extended beyond $/29,374 to 
+apply to Brian’s case. Of the five factors, the Ninth Circuit in 
+$129,374 did not decide only the second and fifth. In light of our 
+analyses under those two factors, it appears that the real property 
+in question at least facially relates to the crimes charged. That is, 
+the indictment indicates that Brian purchased the property with 
+proceeds from a criminal enterprise. Thus, we conclude that in this 
+case, the disentitlement doctrine bars Brian Degen from defending 
+
+
+26a 
+
+
+the civil forfeiture action in absentia. He may attempt to show he 
+acquired the property with legitimate funds if he loses his fugitive 
+Status. 
+
+
+Finally, Brian argues that this court has discretion whether to 
+apply the disentitlement doctrine to him. He states that $129,374 
+and United States v. Veliotis, 586 F. Supp. 1512, 1515 (S.D.N.Y. 
+1984) stand for this proposition. However, Veliotis is a district 
+court case from New York. Nothing in $/29,374 indicates that a 
+court has discretion to decide whether to apply the disentitlement 
+doctrine in a civil forfeiture proceeding. We are bound by Ninth 
+Circuit authority. In the absence of Ninth Circuit authority to 
+support Brian’s argument, we reject such argument. Thus, absent 
+Brian’s return to Nevada, he may not defend against plaintiff's civil 
+forfeiture action. 
+
+
+IT IS, THEREFORE, HEREBY ORDERED that plaintiff's 
+
+
+Motion to Strike Claims and Answers and Motion for Summary 
+Judgment are GRANTED against Brian Degen only. 
+
+
+27a 
+APPENDIX C 
+
+
+UNITED STATES OF AMERICA, Plaintiff, 
+v. 
+
+
+REAL PROPERTY LOCATED AT INCLINE 
+VILLAGE, et al., Defendants. 
+
+
+No. CV-N-90-130-ECR 
+
+
+UNITED STATES DISTRICT COURT 
+FOR THE DISTRICT OF NEVADA 
+
+
+[ENTERED December 12, 1990] 
+ORDER 
+
+
+On October 24, 1989, a federal grand jury in Nevada returned 
+an indictment against Brian J. Degen, charging him in various 
+counts of United States v. Ciro Wayne Mancuso, et al., CR-N-89- 
+24-ECR. A warrant was issued for Degen’s arrest. On the same 
+day, plaintiff instituted a civil forfeiture action against certain real 
+property in Incline Village owned by Degen, and possibly, by 
+Degen’s wife Karyn Degen as well. Plaintiff asserts that such 
+property was purchased with illegal drug money obtained by 
+Degen. 
+
+
+Degen is currently living in Switzerland and is aware of both 
+the indictment and the civil forfeiture action. On April 6, 1990, 
+Donald H. Heller, attorney for Brian and Karyn, filed separate 
+claims for each of them to the property that is the subject of the 
+forfeiture action. Heller also filed answers to the Amended 
+Complaint for Forfeiture on behalf of Brian and Karyn. 
+
+
+Plaintiff filed a motion seeking to strike the claims and 
+answers of both Brian and Karyn, and seeking summary judgment 
+in its favor (document #8). Plaintiff claims that as a fugitive from 
+justice, Brian is disentitled from appearing in the forfeiture action. 
+Plaintiff asserts that Karyn cannot appear as to property acquired 
+before Brian and Karyn’s marriage because such property is the 
+separate property of Brian, and as such, Karyn would merely stand 
+in Brian’s shoes. The Degens, through Heller, filed an opposition 
+(document #14). Plaintiff filed a reply (document #20). Heller, on 
+
+
+28a 
+
+
+behalf of the Degens, filed a Request for Oral Argument on the 
+Motion to Strike Claims and Answers and Motion for Summary 
+Judgment (document #21). 
+
+In this Order, we address only the Motion to Strike and 
+Motion for Summary Judgment against Karyn Degen. Plaintiff 
+argues that to the extent the property in question is the separate 
+property of Brian, Karyn has no interest in the property other than 
+as the representative of Brian. That is, plaintiff posits that Karyn’s 
+claim is solely derivative of Brian’s. Therefore, plaintiff asserts, 
+under United States v. $129,374 in U.S. Currency, 769 F.2d 583 
+(9th Cir. 1985), Karyn may not defend the civil forfeiture action. 
+Plaintiff concedes, however, that to the extent Karyn has an 
+ownership interest herself in the property, the claims and answer 
+should not be stricken (document #8, page 9, lines 9-13), and 
+plaintiff may voice her claims (document #20, page 3, lines 12-20). 
+Plaintiff further asserts that on the property in which Karyn has an 
+ownership interest, the claims and amswer should nonetheless be 
+stricken because the property was acquired with illegal proceeds. 
+
+
+On a summary judgment motion, plaintiff's arguments must 
+fail. First, whether any of the property in question was acquired 
+by illegal proceeds is a factual dispute. In their response, the 
+Degens go to extensive pains to demonstrate that they acquired the 
+property with legitimate funds. Certainly, a factual issue exists as 
+to what funds the Degens, or Brian Degen alone, used to purchase 
+the property in question. 
+
+
+Second, no evidence exists to indicate that Brian Degen did not 
+transmute the property he brought into the marriage into communi- 
+ty property. Under Nevada community property law, some or all 
+of the separate property that Brian Degen brought into the marriage 
+may have become cornmunity property. Plaintiff concedes that two 
+parcels of property are community. To this extent, Karyn may 
+defend the civil forfeiture action. At this early state, we are not 
+able to conclude that the rest of the property is the separate 
+property of Brian. Thus, plaintiff's Motion to Strike Claims and 
+Answers and Motion for Summary Judgment against Karyn Degen 
+will be denied. 
+
+
+29a 
+
+
+IT IS, THEREFORE, HEREBY ORDERED that plaintiff's 
+Motion to Strike Claims and Answers and Motion for Summary 
+Judgment are DENIED. 
+
+IT IS FURTHER ORDERED that Karyn Degen’s Request for 
+Oral Argument as to plaintiff's Motion for Summary Judgment 
+against Karyn Degen is DENIED as moot. 
+
+DATED: December 1 Ith, 1990. 
+
+
+s/_ __ Edward C. Reed 
+UNITED STATES DISTRICT JUDGE 
+
+
+30a 
+APPENDIX D 
+
+
+UNITED STATES of America, Plaintiff, 
+
+
+v. 
+
+
+REAL PROPERTY LOCATED AT INCLINE 
+VILLAGE, et al., Defendants. 
+
+
+No. CV-N-90-130-ECR 
+
+
+UNITED STATES DISTRICT COURT 
+FOR THE DISTRICT OF NEVADA 
+
+
+[FILED June 24, 1993} 
+
+
+MINUTES OF THE COURT 
+
+
+June 23, 1993 
+
+
+PRESENT: EDWARD C. REED, JR. U.S. District 
+Judge 
+
+
+Deputy Clerk: _R. MILLER __ Reporter:_NONE APPEARING 
+Counsel for Plaintiff(s) NONE APPEARING 
+Counsel for Defendant(s) ___ NONE APPEARING 
+
+
+MINUTE ORDER IN CHAMBERS 
+
+
+IT IS HEREBY ORDERED that the United States’ motion 
+for summary judgment (document #83) is GRANTED. 
+
+
+Claimant has failed to file any memorandum in opposition to 
+the United States’ motion for summary judgment and the time 
+must be granted pursuant to Local Rule 140-6 and this Court's 
+Order of June 2, 1993 (document #101). 
+
+
+3la 
+
+
+This Court previously entered an order (document #27) 
+granting summary judgment against Brian Degen based on the 
+Fugitive Disentitlement Doctrine. There are no other claimants in 
+this matter and the Clerk shall enter judgment for the plaintiff and 
+against the defendants. 
+
+
+CAROL C. FITGERALD, CLERK 
+
+
+s/___R. Miller __ 
+Deputy Clerk 
+
+
+32a 
+APPENDIX E 
+
+
+UNITED STATES of America, Plaintiff, 
+v. 
+
+
+REAL PROPERTY LOCATED AT INCLINE 
+VILLAGE, et al., Defendants. 
+
+
+No. CV-N-90-130-ECR 
+
+
+UNITED STATES DISTRICT COURT 
+FOR THE DISTRICT OF NEVADA 
+
+
+[FILED August 12, 1993] 
+[ENTERED August 17, 1993] 
+
+
+This action came to be considered before the Court. The 
+issues have been considered and a decision has been rendered. 
+
+
+IT IS HEREBY ORDERED AND ADJUDGED as follows: 
+
+
+1. All persons with cognizable or potential claims to the 
+below-described properties have been served with process in 
+accordance with the Supplemental Rules for Certain Admiralty and 
+Maritime Claims. Notice of the Complaint, as contemplated by 
+said Supplemental Rules, was duly published. 
+
+
+2. Two persons, Brian J. Degen and Karyn Degen (husband 
+and wife), filed claims to the defendant properties. No other claims 
+
+
+were filed by any persons. 
+
+
+3. The United States’ Motion for Summary Judgment is 
+GRANTED, thereby disposing of all outstanding claims to the 
+defendant properties below-described and forfeiting the below- 
+described properties to the United States: 
+
+
+33a 
+
+
+a) Real property commonly known as 1059 Tomahawk 
+Trail, Washoe County, Incline Village, Nevada, more 
+particularly described as: 
+
+
+Lot 21 in Block A of WHISPERING PINES, 
+Washoe County, Nevada, according to the map thereof, 
+filed in the Office of the County Recorder of Washoe 
+County, State of Nevada, on February 5, 1968, as Tract 
+Map No. 1953. 
+
+
+b) Real property commonly known as 4905 West Lake 
+Boulevard, Placer County, Homewood, California, more 
+particularly described as: 
+
+
+Lot numbered 136, as said lot is shown on that 
+certain Map entitled "LAKESIDE SUBDIVISION", filed 
+in the Office of the Recorder of Placer County, Novem- 
+ber 5, 1928 in Book A of Maps, at page 13. 
+
+
+c) Real property commonly known as 4915 San Souci 
+Terrace, Placer County, Homewood, California, more 
+particularly described as: 
+
+
+Lots numbered 233 and 234, as said Lots are 
+shown on that certain Map entitled "San Souci Heights" 
+filed in the office of the Recorder of Placer County, 
+California in Book C of Maps, at page 16. 
+
+
+d) Real property commonly known as 6660 West Lake 
+Boulevard, Placer County, Tahoma, California, more 
+particularly described in Exhibit "A" attached hereto and 
+incorporated herein. 
+
+
+e) Real property commonly known as 6664 West Lake 
+Boulevard, Placer County, Tahoma, California, more 
+particularly described in Exhibit "B" attached hereto and 
+incorporated herein. 
+
+
+f) Real property commonly known as 6668 West Lake 
+Boulevard, Placer County, Tahoma, California, more 
+
+
+34a 
+
+
+particularly described in Exhibit "C" attached hereto and 
+incorporated herein. 
+
+
+g) Real property commonly known as 3060 North 
+Lake Boulevard and 3080 North Lake Boulevard, Placer 
+County, Lake Forest, California, more particularly 
+described in Exhibit "D" attached hereto and incorporated 
+herein. 
+
+
+h) Real property commonly known as 3457 Waikomo 
+Road, Koloa, Kauai, Hawaii, more particularly described 
+in Exhibit "E" attached hereto and incorporated herein. 
+
+
+i) Real property commonly known as 5132 Hoona 
+Road, Kauai, Hawaii, more particularly described in 
+Exhibit "F" attached hereto and incorporated herein. 
+
+
+j) The business enterprise known as Koloa Self Stor- 
+age, which enterprise is operating on the premises 
+described in item (h) above, and any property interests, 
+real or personal, owned by said business enterprise. 
+
+
+k) The business enterprise known as KES, a Cayman 
+Islands corporation, which enterprise may be owner of 
+record of the real property described in item (i) above, 
+and any property interests, real or personal, owned by 
+said business enterprise. 
+
+
+1) The business enterprise known as Pacific Builders 
+and any property interests, real or personal, owned by 
+said business enterprise. 
+
+m) The business enterprise known as Pacific Design 
+and Construction Co. and any property interests, real or 
+personal, owned by said business enterprise. 
+
+
+n) Proceeds, wherever they may be found, from the 
+sale of the following described real property: 
+
+
+i) 623 Alma Way, Zephyr Cove, Nevada. 
+
+
+0) 
+
+
+35a 
+
+
+ii) 4515 Interlaken Road, Tahoe City, California. 
+iii) 4520 Interlaken Road, Tahoe City, California. 
+iv) 1180 Big Pine Drive, Tahoe City, California. 
+v) 389 Alder Court, Incline Village, Nevada. 
+vi) 5166 Lawaii Road, Kauai, Hawaii. 
+
+
+The following described bank accounts and funds 
+
+
+on deposit therein: 
+
+
+P) 
+
+
+i) First Hawaiian Bank (Koloa Branch) Account 
+Number 23-022923. 
+
+ii) First Hawaiian Bank (Koloa Branch) Account 
+Number 23-2488 16. 
+
+iii) Bank of America (Fruitridge Manor, Sacra- 
+mento) Account Number 05710-07304. 
+
+iv) Bank of America (Tahoe City, California) Ac- 
+count Number 06099-01369. 
+
+
+The following described items of personal property 
+
+
+(with corresponding DEA seizure number): 
+
+
+i) 1983 Correct Craft/Ski Nautique (DEA # 
+84026). 
+
+ii) 1984 Ford Truck 4x4, Nevada license number 
+871 AMB (DEA # 69775). 
+
+iii) 1982 Volvo Station Wagon, California license 
+number 1EKX 571 (DEA # 69776). 
+
+iv) Wood Desk with Folding Front (DEA # 713- 
+84). 
+
+v) Two Bookshelves (DEA # 71385). 
+
+vi) China Cabinet with Glass Doors and multiple 
+drawers (DEA # 71386). 
+
+vii) Iranian Persian Rug, Multi-colored (DEA # 
+71387). 
+
+viii) Minolta Copy Machine with white metal 
+stand, serial number 1657250 (DEA # 713- 
+88). 
+
+xi) Two "Woodmark Originals" Chairs (DEA # 
+71389). 
+
+
+36a 
+
+
+x) “Old Dominion" Kittinger Dining Room Set - 
+One table and eight chairs (DEA # 71390). 
+
+xi) Gym Equipment (DEA # 71391). 
+
+xii) 1,198 bottles of wine (DEA # 71392). 
+
+xiii) 1980 Case Tractor, Model 1845, Serial Num- 
+ber 9851211, and accessories thereon (DEA 
+# 71393). 
+
+xiv) One wood-frame dining table (DEA # 71647). 
+
+xv) Chinese wool rug with central circular dragon 
+design (DEA # 71648). 
+
+xvi) 13 piece upholstered rattan living room set 
+(DEA # 71649). 
+
+xvii) Chinese wool rug with central circular crane 
+design (DEA # 71650). 
+
+xviii) J.1. Case Beckhoe Tractor, Model 580B, 
+
+Serial number 5336127 (DEA # 71651). 
+
+xix) 1980 Ford pickup truck, Hawaii License 
+number 839 KAA (DEA # 71267). 
+
+xx) IBM personal system 2 computer (serial 
+number 72-8020935), keyboard (serial num- 
+ber 2156983), color monitor (serial number 
+0022318), proprinter II XL24 (serial number 
+2912075) (all designated under DEA # 734- 
+25). 
+
+xxi) 1987 Jeep Wrangler, Hawaii license number 
+KEC 435 (DEA # 71269). 
+
+xxii) 1982 Maroon Oldsmobile Cutlass station 
+wagon, Hawaii license number BGE 157 
+(DEA # 71273). 
+
+
+The United States Marshals Service shall dispose of the 
+above-described properties according to law. 
+
+
+37a 
+Judgment is hereby entered in favor of the United States and 
+against each of the above-described defendant properties. 
+
+
+DATED: August 12, 1993. 
+
+
+s/____Edward C. Reed 
+EDWARD C. REED, JR. 
+United States District Judge 
+
+
+38a 
+APPENDIX F 
+
+
+IN THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+UNITED STATES OF AMERICA, 
+
+
+) 
+) 
+Plaintiff-Appellee , ) 
+) 
+Vv. ) 
+) No. 93-16996 
+REAL PROPERTY LOCATED AT ) 
+INCLINE VILLAGE, et al., ) D.C. No. 
+Defendants, ) CV-90-00130-ECR 
+) 
+BRIAN J. DEGEN and ) 
+KARYN DEGEN, ) 
+Claimants-Appellants. ) 
+= 
+Appeal from the United States District Court 
+for the District of Nevada 
+
+
+Edward C. Reed, Jr., District Judge. 
+
+
+Argued and Submitted 
+December 16, 1994 — San Francisco, California 
+
+
+Before: Joseph T. Sneed, William A. Norris, 
+and Cynthia Holcomb Hall, Circuit Judges. 
+
+
+ORDER 
+May 5, 1995 
+Appellant Brian Degen’s Motion for Leave to File Reply in 
+
+
+Support of Petition for Rehearing and Suggestion for Rehearing En 
+Banc is DENIED. 
+
+
+39a 
+
+
+The opinion filed February 10, 1995, is amended to include the 
+following new footnote number 2, inserted after the last word on 
+page 1518: 
+
+
+While this appeal was pending, the Supreme Court decided 
+United States v. James Daniel Good Real Property, 126 L. 
+Ed. 2d 490, 114 S. Ct. 492 (1993), which held that seizure of 
+real property for forfeiture without prior notice and a hearing 
+violates the owner’s due process rights under the Fifth 
+Amendment. If not for Brian’s fugitive status, the rule of 
+Good would apply to this case. See United States v. Real 
+Property Located at 20832 Big Rock Drive, No. 93-55281, slip 
+op. 3843, 1995 WL 150859 (9th Cir. Apr. 7, 1995). How- 
+ever, the fugitive disentitlement doctrine preciudes Brian from 
+contesting the government’s seizure of his properties. 
+
+
+The subsequent footnotes in the opinion shall be renumbered 
+accordingly. 
+
+
+With these amendments, the panel has voted unanimously to 
+deny the petition for rehearing. Judge Hall votes to reject the 
+suggestion for rehearing en banc and Judges Sneed and Norris so 
+recor” 2nd. The full court has been advised of the suggestion for 
+rehearing en banc and no active judge has requested a vote on 
+whether to rehear the matter en banc. Fed. R. App. P. 35. 
+
+
+The petition for rehearing is DENIED and the suggestion for 
+rehearing en banc is REJECTED. 
+
+
+40a 
+APPENDIX G 
+
+
+21 U.S.C. § 881(a): 
+
+
+The following shall be subject to forfeiture to the United States 
+and no property right shall exist in them: * * * 
+
+
+(6) All moneys, negotiable instruments, securities, or other things 
+of value furnished or intended to be furnished by any person in 
+exchange for a controlled substance in violation of this subchapter, 
+all proceeds traceable to such an exchange * * * except that no 
+property shall be forfeited under this paragraph, to the extent of the 
+interest of an owner, by reason of any act or omission established 
+by that owner to have been committed or omitted without the 
+knowledge or consent of that owner. 
+
+
+(7) All real property, including any right, title and interest 
+(including any leashold interest) in the whole of any lot or tract of 
+land and any appurtenances or improvements, which is used, or 
+intended to be used, in any manner or part, to commit, or to 
+facilitate the commission of, a violation of this subchapter punish- 
+able by more than one year’s imprisonment, except that no property 
+shall be forfeited under this paragraph, to the extent of an interest 
+of an owner, by reason of any act or omission established by that 
+owner to have been committed or omitted without the knowledge 
+or -onsent of that owner. * * * 
+
+
+Rule C(6), Supplemental Rules 
+for Certain Admiralty and Maritime Claims: 
+
+Claim and Answer; Interrogatories. The claimant of property 
+that is the subject of an action in rem shall file a claim within 10 
+days after process has been executed, or within such additional time 
+as may be allowed by the court, and shall file an answer within 20 
+days after the filing of the claim. The claim shall be verified on 
+oath or solemn affirmation and shall state the interest in the 
+property by virtue of which the claimant demands its restitution and 
+the right to defend the action. * * * 
+
+

@@ -1,0 +1,407 @@
+{
+  "scope": "Chunk7 C source preparation only",
+  "files": [
+    {
+      "path": "terms/OT1995/sources/chunk7_c/19usc1615_1994.error.html",
+      "bytes": 44172,
+      "sha256": "ab214ce9f7a706cc4ee93703502f950222090c2547e47fafd75a299545919743",
+      "kind": "failed-download-html"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/19usc1615_1994.txt",
+      "bytes": 3681,
+      "sha256": "b459d202407916ceb9fb8a374a7da1901a459aef4f23b3747d52a6aad56034e9",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/21usc881_1994.error.html",
+      "bytes": 44172,
+      "sha256": "ab214ce9f7a706cc4ee93703502f950222090c2547e47fafd75a299545919743",
+      "kind": "failed-download-html"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/21usc881_1994.txt",
+      "bytes": 24998,
+      "sha256": "4352347bfd5b344cf3d3ff0ed35b561353b524d54f7d764c2395c1627eb80c84",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/USCODE1994_title19.pdf",
+      "bytes": 3559523,
+      "sha256": "18a0b340cbd9c6856a1e9769ddf89b0d4f753b41a42846b750c5b46a6860e4b5",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/USCODE1994_title19.txt",
+      "bytes": 5694197,
+      "sha256": "34e348c2d73447d2b1bfb3da3c27195fe1f5d43e88419d1eaa240dccf108aec7",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/USCODE1994_title21.pdf",
+      "bytes": 2055402,
+      "sha256": "a7ee0b69dc914e1dfc9342d409e8b0d952f170262f856d5e4d04433b19fb14ec",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/USCODE1994_title21.txt",
+      "bytes": 3168912,
+      "sha256": "19421cae2bb07c45c951053c2696357ba94855d2be15dc4b6e9d1a9008265538",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/bertine_usreports.pdf",
+      "bytes": 627952,
+      "sha256": "7683e4ca63259b939c3e08121b38676431e8be2f2ae53b1b6e70bab6aff04b5f",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/bertine_usreports.txt",
+      "bytes": 46997,
+      "sha256": "e69675c89eb0e1b2d8e8d6291e152d5fbf4e2b0a80a84fb0d1a5e64344c9608d",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/chambers_usreports.pdf",
+      "bytes": 1328614,
+      "sha256": "f7b8aec3ef74b737d10cee7167634dff91b996ce2f39ce6fde849e0211e314c9",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/chambers_usreports.txt",
+      "bytes": 101726,
+      "sha256": "9da61ed921f729898055c1a4c012475507fb6c546a3d562a820a5c05aeedb86b",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/degen_02._Petition_for_Writ_of_Certiorari_djvu.txt",
+      "bytes": 154724,
+      "sha256": "593f1776a6067eaadb861c0b6e184a5811ff4d20153b3dd6d6665976f94224f6",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/degen_05._Joint_Appendix_djvu.txt",
+      "bytes": 265451,
+      "sha256": "ca7bc059d3254b95bb051a286bf08002d29ae8c8665732a95f635bb88acf6e2f",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/degen_06._Petitioners_Brief_djvu.txt",
+      "bytes": 126759,
+      "sha256": "266686fc393646e8cebb1cb9c673a5d3d31fc8b45f3faa16de7aa7bdbdcb5afe",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/degen_07._Respondents_Brief_djvu.txt",
+      "bytes": 109097,
+      "sha256": "7386b61527e35041126a94d0a58ae72062ebe38b4a90cb4cd76a6a6ffd626512",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/degen_08._Reply_Brief_djvu.txt",
+      "bytes": 53856,
+      "sha256": "81180006008d82fe79cb5cb966bb2497f26c1f5c67f1005161a95f7565616fd1",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/degen_archive_metadata.json",
+      "bytes": 116094,
+      "sha256": "fe8ca865040628906a2c4433ac495927dd7709d8ac9e2172473df3a17ddbae85",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/degen_archive_search.json",
+      "bytes": 785,
+      "sha256": "d69cb93cb96dcf83f64f0e4e30470d8e59c2e9ca72c3485ffa24be40bb991632",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/degen_record_excerpts.md",
+      "bytes": 56178,
+      "sha256": "abf762d38c91a53cb7f89e03a2b98afd8ef7a4fa3bdd1fb01680033323040cd4",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/exxon_02._Petition_for_Writ_of_Certiorari_djvu.txt",
+      "bytes": 183376,
+      "sha256": "5021f20f2bedd7c472fda30212c625344c356c46375482639d766cd64184b3a2",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/exxon_05._Petitioners_Brief_djvu.txt",
+      "bytes": 70144,
+      "sha256": "7acb5650196f1e66de1a19d206662c395c6d264dfa760d19899a3cd7102611aa",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/exxon_06._Joint_Appendix_djvu.txt",
+      "bytes": 301046,
+      "sha256": "68a38ca5407618eb5cc81197b872c3d5a9cb71324a047198d62dca5a05b4959a",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/exxon_07._Respondents_Brief_djvu.txt",
+      "bytes": 120118,
+      "sha256": "c100c4c0fa30fc5fe31f968c7f55b0ada59205cc4129991a9e7c4287da450bad",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/exxon_08._Respondents_Brief_djvu.txt",
+      "bytes": 100480,
+      "sha256": "eeb4474e71ace334a8deb221c4e13cbb4f9e266cd6976f1f4874ba1b7aabc968",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/exxon_09._Reply_Brief_djvu.txt",
+      "bytes": 42302,
+      "sha256": "4d2c86035e41c7437cde885da8960ecb2f44265e0c531c197f670c2bc65db115",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/exxon_archive_metadata.json",
+      "bytes": 117859,
+      "sha256": "2f53be48be468d0e13a08e9b68ec881570665623da4fb7c6450852482cbfba9a",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/exxon_archive_search.json",
+      "bytes": 635,
+      "sha256": "0e6528a53192759778857caf42818030dfee9c71b5f99e1968b058630b924623",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/exxon_pre_june_docket.txt",
+      "bytes": 1811,
+      "sha256": "5ee7501be36cf72cbb3fdd38a11f3fb31cce19970b4a9b7da69e1caa6c5211b2",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/exxon_record_excerpts.md",
+      "bytes": 52245,
+      "sha256": "1c47ca850ef9731d88632134c9cbcee43fd04f560123d076623cbd61c3c890bf",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/hammond_usreports.pdf",
+      "bytes": 1164650,
+      "sha256": "30636cfd55a4d26a185f49ced89e72c093e7fb04b5e314cbc9649bbb5d4b36f5",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/hammond_usreports.txt",
+      "bytes": 77772,
+      "sha256": "2bccf10c1316446405669d539aaa198b843759e5cab09672fda3e37e57b24f26",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/hovey_usreports.pdf",
+      "bytes": 1421173,
+      "sha256": "63479d2a7dc7a2c9f41e0a3e9a3a1445a62a8b46f032e07c3d4385d3b2eb6d2a",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/hovey_usreports.txt",
+      "bytes": 89753,
+      "sha256": "9ed637f9b423d5279bcc81683a8b7a2d26b14d6c933f8f368325e27915670dee",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/italia_usreports.pdf",
+      "bytes": 370514,
+      "sha256": "9a1d5a79ce52eee5e50dd4f6501617b6c4e19a17cc6b7f10cd349373eb66850a",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/italia_usreports.txt",
+      "bytes": 25906,
+      "sha256": "cdb089a1bba796b3855c461bf3a4a1c1167039970984a945f9139f1709312d26",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/martin_wilks_usreports.pdf",
+      "bytes": 1244261,
+      "sha256": "da6e149be9f3abaf7d06b4661298511f70e41750ff955e33fd3aef8bf9f65fae",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/martin_wilks_usreports.txt",
+      "bytes": 95543,
+      "sha256": "9bd2ae975b4c08d49be7c59c41a9586d1cbd94ae9ecfa4ab75a99aa35e1bc81f",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/prior_authorities_retrieval.json",
+      "bytes": 1488,
+      "sha256": "434a3e0344524b1213c6312065d9796d67f6dd996938f468ff63309efc439cb2",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/prouse_usreports.pdf",
+      "bytes": 626327,
+      "sha256": "acb5d1bb55feee1ac4b6570a7d932f5c5b5721a79074f2a889a8a3009fb75156",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/prouse_usreports.txt",
+      "bytes": 44923,
+      "sha256": "53d9acea29df16898ca1de21900f443891be96e1168923f96d3a1b4316006f3a",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/reliable_transfer_usreports.pdf",
+      "bytes": 462561,
+      "sha256": "3c35fea41443b35b15bf8d425509de0d6d1e0d616141a1411f32bdc742c265a4",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/reliable_transfer_usreports.txt",
+      "bytes": 30928,
+      "sha256": "1bdfefd746460ff68c29542b622c13291d193d31a03bf1ad08f025f65a030928",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/richards_02._Petition_for_Writ_of_Certiorari_djvu.txt",
+      "bytes": 131517,
+      "sha256": "28ca8a52ffc9d8f5ea9fe4edbe39f98683222792f49f981d1ff682913fded561",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/richards_06._Joint_Appendix_djvu.txt",
+      "bytes": 218350,
+      "sha256": "58e31df979b6209e44847f88236de4fece71f647220ebdff10d0cf5b2f72204b",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/richards_07._Appellants_Brief_djvu.txt",
+      "bytes": 45014,
+      "sha256": "1288d720005b5b333c647a5c7d73fa04c93194dc835eeb1f6a36aefdcf37bfd7",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/richards_08._Respondents_Brief_djvu.txt",
+      "bytes": 111348,
+      "sha256": "a3da03d140983f7afbe421263c62d6e50bc9aecf73ef3cc7ebeaeea2857c8489",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/richards_09._Appendix_djvu.txt",
+      "bytes": 475177,
+      "sha256": "5f563f65f9203f38a1e11d4cdfeb6d9523018a842a39a05a3cc51ce69ee320f6",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/richards_10._Reply_Brief_djvu.txt",
+      "bytes": 45298,
+      "sha256": "bfec7d96bba351926c3876ae0cc79fa0e4499506a28e5da25501dcf13298edc1",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/richards_archive_metadata.json",
+      "bytes": 143095,
+      "sha256": "ae3ad05ae8c0bf8c734858970c85b587b6888366b9a313d1bb94cb26122a8995",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/richards_archive_search.json",
+      "bytes": 12734,
+      "sha256": "e5ea24ce6f1b98cd1e7b1df2b5e44733079784233ae08cf362190a2f3a1e756c",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/richards_record_excerpts.md",
+      "bytes": 27535,
+      "sha256": "7662fe1d24170efe9dc5e844cb667dfca3a2871275d96fbf8826094a61e53c92",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/scott_usreports.pdf",
+      "bytes": 672815,
+      "sha256": "8245f9f38fa44947f656ae323abdf3459fe9da46e9d08789e11e8c04ab4d110c",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/scott_usreports.txt",
+      "bytes": 47141,
+      "sha256": "a98019f5065663809130a4f3689144a2b4c8d3abae997c273e6709ee6210a344",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/societe_usreports.pdf",
+      "bytes": 503240,
+      "sha256": "15bebd29e422a3aeaf6e12c095a7992f1076d21348ea1e99f887773b89ee07c7",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/societe_usreports.txt",
+      "bytes": 34457,
+      "sha256": "0e7e118bf57231e6bf0d5b3b751bf232eb5078d220605df71c2134611834f086",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/statutes_retrieval.json",
+      "bytes": 660,
+      "sha256": "50134f8f9c57866103363d6da2bce5e075fc06f1f7f4dc01d7c68c5196eb6363",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/wells_usreports.pdf",
+      "bytes": 370846,
+      "sha256": "d3c133ca0aa2f65b073ac4644ce2970195d7ee91c9e98571b9eb32284e2bd0d1",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/wells_usreports.txt",
+      "bytes": 27116,
+      "sha256": "ad80063c18b8537a32f0a07a27503c4755586346976bee1af1dbf9891619a8d3",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/whren_02._Petition_for_Writ_of_Certiorari_djvu.txt",
+      "bytes": 44741,
+      "sha256": "7b3e76d33bad0bb27a4c6a66c819b3967911684f8a7ab81538007b48960ee783",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/whren_05._Joint_Appendix_djvu.txt",
+      "bytes": 29819,
+      "sha256": "073a6a948c95cbc13dc49b4d7ad10ccd788d065bcceb3af8e162690d55ed58c6",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/whren_06._Petitioners_Brief_djvu.txt",
+      "bytes": 138261,
+      "sha256": "93dd142b00bce401cf167a9d5f18405c9bc9d006faf497f3dbab71499a974443",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/whren_07._Respondents_Reply_Brief_djvu.txt",
+      "bytes": 84604,
+      "sha256": "5ef5a28156fd6d0f325185a22248f672f91197f554ff8852923748a31260d96f",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/whren_08._Reply_Brief_djvu.txt",
+      "bytes": 42133,
+      "sha256": "d58dd1a97a5e8674ad138bf7847d0654492ce217007b2014088ccc83343e17a5",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/whren_archive_metadata.json",
+      "bytes": 118322,
+      "sha256": "657951e1657644a336ebb657cbaf862ddc30391074163e66869e53b58b6ea87f",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/whren_archive_search.json",
+      "bytes": 637,
+      "sha256": "bf7093ea6bb4692e777a02323797d9f8d6028ca5f2ba9f924c5c89eee5a38aad",
+      "kind": "source-or-reading-aid"
+    },
+    {
+      "path": "terms/OT1995/sources/chunk7_c/whren_record_excerpts.md",
+      "bytes": 31444,
+      "sha256": "ca9141cf0391437bee33f990acef2146e2d732f29dd9872d54aee57b0dabfd55",
+      "kind": "source-or-reading-aid"
+    }
+  ]
+}

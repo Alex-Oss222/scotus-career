@@ -1,0 +1,28 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 438,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:&quot;95-173&quot; OR text:&quot;95-173&quot; OR text__reviews:&quot;95-173&quot;) OR title:Degen)",
+      "qin": "collection:us-supreme-court AND (&quot;95-173&quot; OR title:Degen)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 100,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 2,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40385013_0637",
+        "title": "Degen v. United States, 517 U.S. 820 (1996) (No. 95-173)"
+      },
+      {
+        "identifier": "per_scotus_1888_83",
+        "title": "Herman Royer, Appellant, vs. Solomon Roth and L. P. Degen. 1888: Vol 83"
+      }
+    ]
+  }
+}

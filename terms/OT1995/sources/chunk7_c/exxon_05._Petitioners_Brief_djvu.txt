@@ -1,0 +1,1878 @@
+Supreme Court, U.S. 
+{7 Sa a 
+( + ) 
+Jan $3 1996 
+No. 95-129 
+: CLERK 
+In The 
+
+
+Supreme Court of the United States 
+
+
+October Term, 1995 
++ 
+EXXON COMPANY, U.S.A.; 
+EXXON SHIPPING COMPANY, 
+
+
+Petitioners, 
+
+
+SOFEC, INC.; PACIFIC RESOURCES, INC.; 
+HAWAIIAN INDEPENDENT REFINERY, INC.; 
+PRI MARINE, INC.; PRI INTERNATIONAL, INC., 
+
+
+Respondents, 
+v. 
+
+
+GRIFFIN WOODHOUSE, LTD.; 
+BRIDON FIBRES AND PLASTICS, LTD., 
+
+
+Third-Party Respondents. 
+¢ 
+
+
+On Writ Of Certiorari To The United States 
+Court Of Appeals For The Ninth Circuit 
+e 
+
+
+PETITIONERS’ BRIEF ON THE MERITS 
+o 
+
+
+SHirLey M. Hurstep_er 
+
+Counsel of Record 
+
+Morrison & FOeRSTER 
+
+555 West Fifth Street 
+
+Suite 3500 
+
+Los Angeles, California 90013-1024 
+(213) 892-5200 
+
+
+Attorneys for Petitioners 
+
+
+COCKLE LAW BRIEF PRINTING CO., (800) 225-6964 
+OR CALL COLLECT (402) 342-2831 
+
+
+Au | 
+
+
+QUESTIONS PRESENTED 
+
+
+1. After this Court decided United States v. Reliable 
+Transfer Co., Inc., 421 U.S. 397 (1975), may an admiralty 
+court exonerate defendants from all liability to a ship- 
+owner for the loss of its tanker when defendants con- 
+ceded that their breaches of maritime duties imposing 
+strict liability in tort and negligence were causes-in-fact 
+of the vessel’s stranding because the court found that the 
+tanker’s captain was grossly negligent in navigating the 
+imperiled vessel? 
+
+
+2. After this Court decided Italia Societa per Azioni di 
+Navigazione v. Oregon Stevedoring Co., 376 U.S. 315 (1964) 
+may an admiralty court exonerate defendants from lia- 
+bility to a shipowner for the loss of its tanker after 
+defendants conceded that their breaches of express and 
+implied warranties were causes-in-fact of the vessel's 
+stranding because the tanker captain was grossly negli- 
+gent in navigating the imperiled vessel? 
+
+
+ii 
+PARTIES 
+
+
+The parties are Petitioners/Plaintiffs Exxon Shipping 
+Company and Exxon Company, U.S.A., a division of 
+Exxon Corporation, Respondents/Defendants Pacific 
+Resources, Inc., Hawaiian Independent Refinery, Inc., PRI 
+Marine, Inc., PRI International, Inc. and Sofec, Inc., and 
+Respondents/Third-Party Respondents Bridon Fibres 
+And Plastics, Ltd. and Griffin Woodhouse, Ltd. Werth 
+Engineering & Marine, Inc., initially a third-party respon- 
+dent, was dismissed before trial by stipulation of the 
+parties.! 
+
+
+1 Pursuant to Rule 29.1, Petitioners state that the non- 
+wholly owned subsidiaries and affiliates that have issued pub- 
+lic shares in Petitioners are as follows: Sea River Maritime, Inc., 
+successor in interest to Exxon Shipping Company, Compania 
+Minera Disputada de las Condes S.A.; Esso Malaysia Berhad; 
+Esso Societe Anonyme Francaise; General Sekiyu, K.K.; Impe- 
+rial Oil Limited; Les Docks des Petroles d’Ambes; Societe 
+Francaise Exxon Chemical; Tonen Kabushiki Kaisha. 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+QUESTIONS PRESENTED .............:ccccccceees i 
+tsar etensebbderscbdbsesdccccececcce. ii 
+CPP Ch UGS Guesbecbicbesccconeccoceccece 1 
+EC ee Jeeveves 1 
+CONSTITUTIONAL AND STATUTORY PROVI- 
+shih a neon eeesebebecaceccsecee ches ot l 
+STATEMENT OF THE CASE................00000e- 2 
+A. Procedural History of the Litigation in the Dis- 
+CCRC ied cu Woo ededicticcceccces 2 
+B. Summary of the Evidence.................... 9 
+SUMMARY OF THE ARGUMENT ................. 19 
+EEE SESE LESTE O ETT STEELE TET TTY 23 
+
+
+I. THE APPLICATION OF COMMON-LAW 
+SUPERSEDING CAUSE TO RELIEVE RESPON- 
+DENTS FROM 4LL LIABILITY IN TORT FOR 
+THEIR WRONGDOING IS IRRECONCILABLE 
+WITH RELIABLE TRANSFER.................. 23 
+
+
+A. The Decision Below Violated the Admiralty 
+Policies Established by Reliable Transfer.... 26 
+
+
+B. The Decision Below Violated Reliable Trans- 
+fer’s uirement that all of Defendants’ 
+Faults Must Be Compared with the Plain- 
+tiffs’ Faults in Assigning Responsibility for a 
+Marine Casualty .......... 6.6.66. cee cceeee 27 
+
+C. Respondents could not Escape Liability even 
+
+
+if Superseding Cause had been Incorporated 
+into General Admiralty Law .............. 29 
+
+
+iv 
+TABLE OF CONTENTS - Continued 
+Page 
+
+
+D. The District Court's Foreclosing fxxon from 
+Ever Proving its Case-in-Chiet Deprived it 
+
+
+of Due Process of Law................+55: 33 
+
+
+ll. THE NINTH CIRCUIT'S EXONERATION OF 
+RESPONDENTS FROM ALL LIABILITY FOR 
+BREACHES OF EXPRESS AND IMPLIED ADMI- 
+RALTY WARRANTIES IS CONTRARY TO 
+ADMIRALTY POLICY ESTABLISHED BY ITALIA 
+
+
+GEE x wc cc tccccccececvccesesccosesceseceese 34 
+
+A. The Ninth Circuit Opinion is Irreconcilable 
+wil Bali Gaskebe. ...cccvccccccescvcecccess 34 
+
+B. The Ninth Circuit's Opinion is Contrary to 
+Gee CREED oc ccccccccccccctccovccccsscss 36 
+CETEAIIIS oo cccccccccccccscsccoscoccccessceses 38 
+
+
+v 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+City of Milwaukee v. Cement Div. Nat'l Gypsum Co., 
+15 U.S. __, 115 S. Ct. 2091, 132 L.Ed.2d 148 
+EP er veccveseroedectsctcosentoccececaees 19, 24, 25 
+Donaghey v. Ocean Drilling & Exploration Co., 974 
+ee GD Bcd ccccabececcsecocconspecce 18 
+
+
+Eastern Massachusetts Street Ry. Co. v. Transmarine 
+Corp., 42 F.2d 58 (1st Cir.), cert. denied, 282 U.S. 
+PP ERs hnctdebdintvetse cebsasedbeecorécoce 36 
+
+
+Employers Ins. of Wausau v. Suwanne River Spa 
+Lines, Inc., 866 F.2d 752, (5th Cir.), cert. denied 
+
+
+sub. nom. E Ins. of Wausau v. Avondale 
+
+Shipyards, it Gy UE cednconbeanvasscevee- 32 
+Exxon reid dat Co. v. Sofec, Inc., 54 F.3d 570 (9th 
+
+SED DE CSc eakihees codecnncetdwensbasbsbesoeeceees 1 
+Gasoline Products Co., Inc. v. Champlin Refining Co., 
+
+283 U.S. 494, 51 S. Ct. 513, 75 L.Ed. 1188 (1931) 
+
+neddvebadeeksssooesdapendeanncoee ore sccancuns 19, 21, 33 
+Hahn v. United States, 535 F. Supp. 132 (D.S.D. 
+
+eae beled cbvc db cecewebeccccestedessedisccedsss 5 
+Hercules, Inc. v. Stevens Shipping Co., 765 F.2d 1069 
+
+See Gee Owe cnc cccvtcsovesscdece 17, 18, 28, 29 
+Hunley v. ACE Maritime Corp., 927 F.2d 493 (9th 
+
+GEE BE catbdudebhdeddedusadede ci vdscsdbiocucsec. 18 
+International Ore & Fertilizer Corp. v. S.G.S. Control 
+
+Servs. Inc., 38 F.3d 1279 (2d Cir. 1994) ............ 36 
+
+
+Italia Societa per Azioni di Navigazione v. 
+Stevedorin 38 Company, 376 U.S. 315, 84 S. Ct. 748, 
+het bf Tee passim 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+Kermarec v. Compagnie Generale Transatlantique, 358 
+U.S. 625, 79 S. Ct. 406, 3 L.Ed.2d 550 (1959) ...... 23 
+Lone Star Indus., Inc. v. Mays Towing Co., Inc., 927 
+F.2d 1453 (8th Cir. 1991)... 2.0.0.6 e cece eee ees 18 
+McDermott, Inc. v. AmClyde, 511 U.S. __, __, 114 
+S. Ct. 1461, 128 L.Ed.2d 148 (1994)................ 24 
+
+
+Paragon Oil Co. v. Republic Tankers, S.A., 310 F.2d 169 
+(2d Cir. 1962), cert. denied sub. nom. Yacimientos 
+| Fiscales v. Paragon Oil Co., 372 U.S. 967, 
+
+
+83 S. Ct. 1092, 10 L.Ed.2d 130 (1963) ............ 22, 3% 
+Petition of Kinsman Transit Co., 338 F.2d 708 (2d Cir. 
+
+1964), cert. denied sub. nom. Continental Grain Co. 
+
+v. City of Buffalo, 380 U.S. 944 (1965)....... 20, 30, 31 
+Smith v. Sperling, 354 U.S. 91, 77 S. Ct. 1112, 1 
+
+LY Ci Pn << cnbaddecenhdadasnooseawestes 33 
+The Gulfstar, 136 F.2d 461 (3d Cir. 1943)............. 32 
+The Imoan, 67 F.2d 603 (2d Cir. 1933)................ 32 
+The Louisiana, 70 U.S. (3 Wall.) 164, 18 L.Ed. 85 
+
+Ds cchanedesetvcceeetatecdasscettasetduabsnsée 16 
+The Max Morris, 137 US. 1, 11 S. Ct. 29, 34 L.Ed. 
+
+Ble El adciuncentosesocnestdeesetosbesedocts 21, 32 
+The Pennsylvania, 86 U.S. (19 Wall.) 125, 22 L.Ed. 
+
+Bie GP, ccodtoccedededdsednameskadiatadanadeeee 16 
+United States v. Reliable Co., Inc., 421 US. 
+
+397, 95 S. Ct. 1708, 44 L.Ed.2d 251 (1975)..... passim 
+Watz v. Zapata Off-Shore Co., 431 F.2d 100 (5th Cir. 
+
+Pees cb0cdcnn ccceseeboccccnssdbteeanabbdnebecte 31 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+
+CONSTITUTIONS 
+ee EE Habu wh icedesisvicdiecveiiceede 1 
+STATUTES 
+Fee eee, 1 
+ER Ee a LL aN ne ED | 
+I i a 5 
+I i 16 
+Orver AUTHORITIES 
+Federal Rules of Civil Procedure, Rule 54(b)......... 2 
+G. Gilmore, C. Black, The Law of Admiralty (2d ed. 
+
+Pad bseddasiwedeedettereveticcuveiécoces 23 
+Restatement (Second) of Contracts (1981) § 350..... 22, 36 
+Restatement (Second) of Torts (1965) § 442B....20, 29, 30 
+
+
+OPINION 
+
+
+The opinion of the United States Court of Appeals for 
+the Ninth Circuit is reported in Exxon Shipping Co. v. 
+Sofec, Inc., 54 F.3d 570 (9th Cir. 1995). A copy of the Slip 
+Opinion is annexed to the certiorari petition as Appendix 
+A (“CP App. A”), and it is reprinted in the Joint Appen- 
+dix (“JA”) at 209, et seq. 
+
+
+4 
+
+
+JURISDICTION 
+
+
+The opinion of the court of appeals was filed on April 
+26, 1995. A timely petition for rehearing was denied by 
+order filed May 24, 1995; a copy of the order is annexed 
+to the certiorari petition as Appendix B (“CP App. B”). 
+The district court’s jurisdiction was in admiralty, pur- 
+suant to 28 U.S.C. § 1333. Jurisdiction of this Court was 
+invoked under 28 U.S.C. § 1254(1). Petitioners’ Petition 
+for Writ of Certiorari was filed in the Supreme Court on 
+July 24, 1995 (Supreme Court Case No. 95-129). This 
+Court’s order granting certiorari was issued on Novem- 
+ber 22, 1995. 
+
+
+e 
+
+
+CONSTITUTIONAL AND STATUTORY PROVISIONS 
+The Fifth Amendment to the United States Constitu- 
+tion provides, in pertinent part: “No person shall . . . be 
+deprived of . . . property, without due process of law... .” 
+Section 1333 of 28 U.S.C. provides, in pertinent part: 
+
+
+“The district courts shall have original jurisdiction, exclu- 
+sive of the courts of the States, of: (1) Any civil case of 
+
+
+1 
+
+
+admiralty or maritime jurisdiction, saving to suitors in all 
+cases all other remedies to which they are otherwise 
+entitled.” 
+
+
+Petitioners (plaintiffs/appellants below) Exxon Ship- 
+ping Company (“ESC”) and Exxon Company, U.S.A. (col- 
+lectively, “Exxon”) filed their certiorari petition on July 
+24, 1995 seeking review of the judgment entered on 
+March 31, 1994 of the Ninth Circuit affirming a final 
+judgment of the United States District Court for the Dis- 
+trict of Hawaii, pursuant to Federal Rules of Civil Pro- 
+cedure, Rule 54(b) upon less than all claims and as to less 
+than all parties, against Exxon and in favor of Respon- 
+dents (respondents/defendants and third-party defen- 
+dants below): Pacific Resources, Inc., Hawaiian 
+Independent Refinery, Inc., PRI Marine, Inc., PRI Interna- 
+tional, Inc. (related corporations, collectively “HIRI” or 
+“HIRI respondents”), and Sofec, Inc. (“Sofec”), Bridon 
+Fibres and Plastics, Ltd. (“Bridon”), Griffin Woodhouse, 
+Inc. (“Griffin”) in Exxon’s action in admiralty seeking 
+damages for the loss of ESC’s tanker, the EXXON 
+HOUSTON. 
+
+
+STATEMENT OF THE CASE 
+
+
+A. Procedural History of the Litigation in the Dis- 
+trict Court 
+
+
+Exxon filed its complaint in admiralty in April, 1990 
+alleging that the HIRI respondents breached their express 
+and implied warranties of safe berth, their implied war- 
+ranty of workmanlike performance with respect to steve- 
+dore and terminal operations, and their admiralty duties 
+
+
+imposing liability for negligence and strict product lia- 
+bility causing ESC’s constructive total loss of the EXXON 
+HOUSTON (“HOUSTON”) and other damages, including 
+the cost of cleaning up oil spills and loss of cargo. (JA 
+29-41.) Against Sofec, Exxon alleged negligence in the 
+manufacture and sale of the Single Point Mooring System 
+(“SPM”), strict product liability, and breach of the 
+implied warranty of merchantability and f'*yess for pur- 
+pose. (JA 41-45.) HIRI and Sofec denied iiability and 
+asserted affirmative defenses. (CR 8, 11.)? 
+
+
+HIRI filed a third-party complaint against Bridon, 
+Griffin, and Werth Engineering & Marine, Inc., invoking 
+diversity jurisdiction and seeking contribution and 
+indemnity with respect to Exxon’s claims on the theory 
+that the third-party defendants had manufactured and 
+supplied the chafe chain that had parted. (CR 13.)° Bridon 
+and Griffin filed answers to the third-party complaint 
+and to Exxon’s complaint denying liability and asserting 
+affirmative defenses. (CR 30, 33, 55, 138.) 
+
+
+Pretrial Orders. On June 3, 1992, Griffin filed a motion 
+to bifurcate the liability issues or to continue the trial 
+date to permit further discovery. (JA 48.) The other 
+respondents joined in Griffin’s bifurcation motion. (CR 
+
+
+2 Throughout this brief “CR” refers to the Clerk’s Record; 
+“ER” refers to the Excerpts of Record filed in the Ninth Circuit; 
+“JA” refers to the Joint Appendix filed herewith; and “CP App.” 
+refers to the Appendix annexed to the certiorari petition here- 
+tofore filed. 
+
+
+3 Werth was dismissed without prejudice by stipulation of 
+the parties. (CR 165.) 
+
+
+370, 373, 375.) Respondents persuaded the court that the 
+case could be tried as if it were a simple negligence case; 
+they argued that the court would save its own time and 
+themselves money if the court first tried the conduct of 
+the HOUSTON ’s Captain after HIRI’s mooring equipment 
+had failed and the tanker was cast adrift burdened by the 
+broken 840-foot cargo hose bolted to her manifold (the 
+“breakout”). They contended that if the court found that 
+the Captain was negligent in navigating the tanker, it 
+could also find that his negligence was a superseding 
+cause of the loss of the tanker, and the whole case could 
+go away. (7/27/92 RT 6.)* To convince the court to try the 
+case upside-down and backwards, respondents conceded 
+that their collective conduct was a cause-in-fact of the 
+stranding (“but for the breakout there wouldn’t have 
+been the grounding in this case . . . “). (7/27/92 RT 31.) 
+
+
+Exxon vigorously opposed the motion, arguing that 
+trying the Captain’s conduct before Exxon was permitted 
+to put on its case-in-chief would distort causation and 
+disable the court from making the determination of com- 
+parative fault required by Reliable Transfer, Inc. (JA 51-57, 
+7/27/92 RT 24.) The district court granted respondents’ 
+bifurcation motion on July 31, 1992. (JA 58-75.) Its order 
+stated that “the first phase of the trial will be limited to 
+the issue of causation with respect to .. . [the] 
+HOUSTON’s grounding, but not including the issue of 
+
+
+* The district judge announced at the threshold of the case 
+that he was unfamiliar with the aspects of admiralty law of this 
+case and that his law clerk would help him because his clerk had 
+served in the United States Navy. (2/11/93 RT 213-14; 3/3/93 
+RT 127-28.) 
+
+
+causation with respect to the breakout itself.” (JA 74; ER 
+46.)° Before testimony was taken, the district court 
+explained that Phase I was designed to permit the court 
+to decide whether the Captain’s conduct was so negligent 
+as to become “an overriding” cause of the stranding. The 
+court added: “[Y]ou are going to really confine it to those 
+few minutes — as he gets out toward the last few minutes 
+before the grounding.” (2/9/93 RT 50.)® 
+
+
+After some further procedural skirmishing, Exxon 
+filed a motion for partial summary judgment against the 
+HIRI respondents in August, 1992 because they breached 
+their express and implied warranties of safe berth when 
+the chafe chain failed. (CR 433, ER 49-50.) The court 
+denied the motion holding that chain failure was a Phase 
+II issue. (CR 538; JA 109.) After the final pre-trial confer- 
+ence on October 9, 1992, the court ruled that PRI Interna- 
+tional was bound by its express warranty of safe berth, 
+but it declined then to decide whether the other HIRI 
+respondents were also bound by the same warranty. It 
+also expressly declined to decide “whether HIRI is bound 
+
+
+5 Exxon moved the court to clarify the bifurcation order. 
+(CR 462, ER 73; CR 463, ER 95; CR 473, ER 97-98; CR 482, ER 
+100-102; CR 485, ER 104.) The court denied the motion. (CR 502, 
+ER 106.) 
+
+
+6 The court adhered to its interpretation of legal cause 
+throughout the trial: “As stated in the court's July 31, 1992 
+bifurcation order, in order to prove that the breakout was a 
+proximate cause, ‘Exxon would have to show that the forces set 
+in motion by the breakout of the EXXON HOUSTON continued 
+until the moment of grounding.’ Hahn v. United States, 535 F. 
+Supp. 132 (D.S.D. 1982).” Conclusions of Law 8, JA 162. [Hahn 
+was a wrongful death action invoking the Federal Tort Claims 
+Act, 28 U.S.C. § 1346(b).] 
+
+
+by the warranty of safe berth, whether the parting of the 
+chafe chain constituted a breach of warranty of safe 
+berth, the scope of the warrantor[s’] or charterer’s legal 
+obligations pursuant to the warranty of safe berth” 
+because “[t]hese issues . . . need not be resolved in order 
+for the litigants to prepare for the first phase of the 
+bifurcated trial... .” [Emphasis added.]” (CR 538; ER 132; 
+JA 112-113, n.4.) 
+
+
+The court’s October 9, 1992 order prompted Exxon to 
+seek a Rule 16 conference to clarify the evidentiary con- 
+straints. Exxon sought to ascertain whether it could intro- 
+duce its evidence that the HIRI respondents’ own expert 
+had warned them that a breakout was inevitable and that 
+Gall Thompson breakaway couplings (quick release 
+safety devices) on the cargo hoses were essential. Exxon 
+pointed out that the removal of the safety devices with 
+which the cargo hoses had been initially equipped and 
+the failure of the HIRI respondents to replace them with 
+Gall Thompson couplings caused the cargo hose to impair 
+severely the navigability of the tanker and was a critical 
+factor in Captain Coyne’s decision to order a final turn. 
+The court ruled that the proffered evidence was not 
+admissible in Phase I. (12/8/92 RT 36, ER 159; CR 548.)® 
+
+
+7 Although the Findings of Fact and Conclusions of Law 
+refer to HIRI as a “charterer,” HIRI did not charter the 
+HOUSTON. 
+
+
+8 The district court later ruled at trial that the HOUSTON’s 
+Captain could not testify about the effect on the navigability of 
+the tanker after the breakout caused by the lack of breakaway 
+couplings on the cargo hoses. (2/11/93 RT 195.) 
+
+
+ee a ee ee ee 
+
+
+Exxon's Offer of Proof. When all efforts to change the 
+court’s mind about bifurcation failed, Exxon offered to 
+prove that the HIRI respondents knew that the berth was 
+unsafe before the HOUSTON sailed to Hawaii. Before the 
+HOUSTON incident, two different tankers had broken 
+away from the SPM. The HIRI respondents had been 
+repeatedly advised by their own experts that breakaways 
+were inevitable; they nevertheless had removed the quick 
+release couplings with which the cargo hoses had been 
+initially equipped, and they failed to replace them after 
+their own experts advised them the hoses were danger- 
+ously unsafe without such releasing devices; HIRI had 
+also been advised that the mooring was unsafe unless 
+particular additional safety measures were taken. The 
+HIRI respondents ignored all the warnings, installed 
+none of the safety devices and took none of the other 
+recommended safety measures. (2/9/93 RT 61-64, CR 544 
+at 4-5; ER 143-44; 12/8/92 RT 8, 22-23, 34-35, ER 157-58.)° 
+
+
+Exxon also offered to prove that Sofec had failed to 
+order the proper chafe chain, failed to test it, and failed to 
+provide adequate instructions regarding operating 
+parameters. As against Bridon and Griffin, Exxon offered 
+to prove that those respondents had either manufactured 
+or supplied the defective chafe chain which had been 
+poorly designed and inadequately tested. (2/9/93 RT 
+61-64.) 
+
+
+Trial. Adhering to its prior bifurcation order, the dis- 
+trict court foreclosed Exxon from introducing any of its 
+
+
+% After the HOUSTON stranded, the Coast Guard com- 
+pelled HIRI to take almost all of the safety measures they had 
+previously ignored. (Findings 90-91, JA 160-161.) 
+
+
+abundant evidence of the respondents’ pre-breakout 
+breaches of warranty and torts that created the stranding 
+hazard to which the HOUSTON ultimately succumbed. 
+The court excluded as irrelevant the decision of the 
+Administrative Law Judge to the Department of Trans- 
+portation that had exonerated Captain Coyne from 
+charges of negligence in the HOUSTON’s stranding. 
+(2/9/93 RT at 40-42.)?° 
+
+
+When Phase I concluded, the court issued its Find- 
+ings of Fact and Conclusions of Law holding that Captain 
+Coyne’s navigation of the stricken HOUSTON was 
+extraordinarily negligent and that his negligence after the 
+breakaway was the “sole” and superseding cause of the 
+tanker’s loss. (Conclusions of Law (“Conclusions”) 44-45, 
+JA 173-175.) The district court thereafter entered partial 
+judgment for respondents based entirely upon these 
+Findings of Fact and Conclusions. (JA 200-203, 205.) 
+Phase II was never tried. 
+
+
+Post-Trial Proceedings. Exxon’s first notice of appeal 
+was dismissed for lack of a final appealable judgment or 
+order. (CR 661.) Upon remand, Bridon, joined by the 
+other respondents, moved to enter a final judgment upon 
+all of Exxon’s claims for damages caused by the ground- 
+ing of the HOUSTON. (CR 662, 663-65.) Exxon then 
+moved for entry of a final judgment limited to the claim 
+for relief based on negligence to ripen its appeal to the 
+Ninth Circuit. (CR 667.) In response to Bridon’s motion 
+
+
+10 The Administrative Law Judge’s opinion is reproduced 
+in full at ER 293 et seq. The opinion was not offered for issue 
+preclusion because respondents were not parties to the Coast 
+Guard proceedings. (2/19/93 RT 27.) 
+
+
+that judgment should be entered in favor of respondents 
+on all of Exxon’s claims for loss of the vessel (3/14/94 RT 
+17), Exxon objected because it had been precluded from 
+introducing any of its evidence with respect to breaches 
+of express and implied warranties. Exxon pointed out 
+that respondents’ defense to claims founded on tort did 
+not apply to contractual claims. (3/14/94 RT 12-13.) The 
+court granted Bridon’s motion stating that it was thereby 
+sending to the Ninth Circuit the question whether its 
+judgment at the end of Phase I completely decided all of 
+Exxon’s theories for recovering for the loss of the tanker. 
+(3/14/94 RT 19-20; CR 674.) 
+
+
+Judgment was entered on April 20, 1994 (CR 676), 
+and Exxon’s appeal to the Ninth Circuit was filed on 
+April 25, 1994. (CR 677.) 
+
+
+B. Summary of the Evidence 
+
+
+The HOUSTON was owned and operated by Exxon 
+Shipping Company, the vessels of which carried crude oil 
+for Exxon Company, U.S.A. All of the HIRI respondents 
+are affiliated corporations operating the SPM and the 
+refinery at Barbers Point, Oahu. Sofec manufactured the 
+SPM; Griffin manufactured the chafe chain that parted; 
+and Bridon distributed the chain. (Findings 1-5, JA 
+141-142.) 
+
+
+This maritime drama began benignly in 1988 when 
+Exxon and HIRI entered negotiations whereby HIRI 
+would buy crude oil from Exxon for HIRI's refinery in 
+Oahu. The negotiations resulted in a written contract to 
+deliver the crude to HIRI at one or more moorings to be 
+designated by it. For the cargo to be delivered the HIRI 
+
+
+10 
+
+
+named its SPM as the delivery point. The SPM was one 
+and a half miles from HIRI’s refinery which is located on 
+Oahu’s coastline. (Findings 7-11, JA 143.) Title to the 
+crude oil was to pass to HIRI when the crude flowed into 
+HIRI’s cargo hoses. (CR 624.) The contract of sale 
+included a specifically negotiated safe berth warranty in 
+Exxon’s favor.'! 
+
+
+The HOUSTON was a single screw, steam-propelled 
+oil tanker, weighing 72,056 dead weight tons. She was 
+766.9 feet long with horsepower of 19,000 ahead and 
+approximately 6,000 astern. (Findings 12, JA at 143.) Cap- 
+tain Kevin Coyne was Master of the tanker.’? There were 
+four other deck officers (Findings 18, JA 144-145); the 
+remaining deck complement consisted of six able-bodied 
+seamen. (Ex. 29, offered and received 2/9/93 RT 34-35; 
+2/9/93 RT 9; 2/10/93 RT 45; 2/17/93 RT 214; 2/18/93 RT 
+103.) 
+
+
+1! “The terminal shall provide a safe berth to which vessels 
+may proceed to or depart from, and where the vessel can always 
+lie safely afloat. However, notwithstanding anything contained 
+in this clause, the terminal shall not be deemed to warrant the 
+safety of public channels, fairways, approaches thereto, anchor- 
+ages, or other publicly-maintained areas either inside or outside 
+the port area where the vessel may be directed.” (Findings 8; JA 
+142-143.) 
+
+2 At the request of his children, Captain Kevin Dick 
+changed his surname to Coyne shortly before this action was 
+tried. (Findings 14, JA 144; 2/9/93 RT 131.) 
+
+The HOUSTON also had aboard a full complement of 
+engineers and stewards; their activities are not implicated in the 
+litigation. 
+
+
+a — 
+
+
+11 
+
+
+Captain Steven Marvin was employed by HIRI as 
+mooring master. He boarded the tanker on March 2, 1989 
+and remained aboard her at all relevant times thereafter. 
+(Findings 21, JA 145.)'* On March 2, 1989, while the 
+tanker was discharging oil into HIRI’s cargo hoses, a 
+heavy storm arrived and with it high waves and severe 
+ocean currents moving toward shore. (Findings 25, JA 
+146.) After the HOUSTON had discharged all but 90,000 
+barrels of crude oil, the chafe chain that had secured the 
+tanker to SPM’s buoy broke causing the tanker to be set 
+adrift while she was still tethered to the two cargo hoses 
+bolted to her manifold. (Findings 23-25, JA 146; 2/10/93 
+RT 24; 2/17/93 RT 205.) The HOUSTON ’s crew promptly 
+stopped the further flow of crude oil into the cargo hoses, 
+thereby limiting the spill to the crude in the cargo hoses 
+themselves. 
+
+
+Although the cargo hoses had originally been 
+equipped with “camlocks,” quick-disconnect devices to 
+clear the hoses from tankers when the SPM failed (Ex. 322 
+at ER 11628 [offered], 2/25/93 RT 170 [received], ER 285; 
+2/9/93 RT 29; 2/11/93 RT 66; 2/11/93 RT 176), the HIRI 
+respondents had removed the camlocks and replaced 
+them with 12 heavy bolts on each hose to connect the 
+hoses to ships’ manifolds. (Findings 23, JA 146.) The 
+Captain was unable to keep the tanker close to the SPM, 
+and the drifting tanker put tension on the cargo hoses. 
+(Findings 25-26, JA 146-147.) At 1725, the first cargo hose 
+parted a few feet below the water line; at 1728, the second 
+
+
+'* Captain Marvin had no experience aboard commercial 
+tankers as a master or a first mate. (Findings 22, JA 145.) 
+
+
+12 
+
+
+cargo hose broke away from the buoy bringing with it the 
+heavy metal spool piece that had secured the hose to the 
+SPM (the “breakout”). (Findings 25-28, JA 146-147.) The 
+HIRI respondents had been warned by their experts of 
+that danger. (ER 123, 124; 12/8/92 RT 22.) 
+
+
+“Obviously, the breakout was a cause in fact of the 
+stranding, i.e., had the mooring chain not parted, 
+the .. . HOUSTON would not have stranded.” (Conclu- 
+sions 7, JA 162.) From the time of the breakout until 
+minutes before the tanker stranded, the vessel was crip- 
+pled by 840 feet of the trailing cargo hose that, together 
+with the spool piece, weighed 1700 pounds. (Findings 28, 
+JA 147; 2/12/93 RT 13.) The hoses had been designed to 
+float, but the spool piece caused a hundred feet of the 
+hose to sink while the remainder was partially floating 
+and partially submerged. (Findings 27-28, JA 147.) The 
+hose repeatedly began moving under the tanker threaten- 
+ing to entangle her propeller or rudder; if either event 
+had happened, the vessel would have been helpless. 
+(2/10/93 at 87; 2/10/93 RT 33.) Because that danger 
+would have increased if the tanker had been navigated 
+ahead (2/10/93 RT 49, 63), Captain Coyne ordered the 
+tanker to back; she was not designed to transit by backing 
+and that maneuver was ponderously slow and difficult. 
+(2/10/93 RT 89; 2/10/93 RT 38; 2/11/93 RT 114; 2/11/93 
+RT 165; 2/25/93 RT 117.) 
+
+
+The HIRI respondents knew that they had no tugs 
+powerful enough to help tankers when the SPM failed 
+and that it would take four to six hours to get such 
+assistance from others. (2/12/93 RT 229; 2/9/93 RT 61-62, 
+CR 532, ER 123-25.) HIRI had only one small tug avail- 
+able, the NENE, which did not have enough power to 
+
+
+13 
+
+
+push or pull a tanker set adrift. (2/11/93 RT 135, 226.) 
+The NENE’s crew was able to secure a line to the second 
+cargo hose to try to keep it from drifting under the 
+tanker. (Findings 43, JA 150.) Until that trailing hose 
+could be successfully unbolted from the tanker and 
+towed far enough away from the tanker to avoid restrict- 
+ing her navigability, it posed a continuing danger to the 
+HOUSTON, the NENE, and the crews of both vessels. 
+(2/10/93 RT 38, 49, 63; 2/11/93 RT 137.) 
+
+
+Captain Coyne tried unsuccessfully to anchor the 
+vessel. (Findings 35, 38, JA 148-149.) He thereafter contin- 
+ued to back the tanker away from the shoreline and then 
+caused her to make a lee to minimize the movements of 
+the hose while the bolts on the cargo hose were being 
+detached from the manifold. (2/10/93 RT 48-49, 51, 55, 
+58, 63-64, 67, 72-73.) Removal of the bolts consumed more 
+than an hour. (Findings 64, JA 156.) 
+
+
+At 1927, while the cargo hose was suspended from 
+the ship's starboard crane to hold it away from the ship 
+and before the crane could lower the hose into the sea, 
+efforts to synchronize the movements of the NENE with 
+the tanker failed in the storm and darkness. (2/10/93 RT 
+111.) Captain Coyne blew the tanker’s whistle to get the 
+NENE’s attention because he was unable to reach her by 
+radio. (2/10/93 RT 112.) The HOUSTON ’s chief mate 
+heard the signal and saw that the hose was dangerously 
+close to the tanker’s propeller and rudder (2/10/93 RT 
+202); he saw the NENE begin to pull the hose away, and 
+he saw that the movement of the hose was putting ten- 
+sion on the tanker’s crane. (2/18/93 RT 8-9.) The mooring 
+master yelled at the NENE through his radio to stop 
+before it pulled the ship’s crane down. (2/17/93 RT 37.) 
+
+
+14 
+
+
+Efforts to reduce the strain on the crane failed. (2/12/93 
+RT 42, 113; ER 326-27.) The stress caused the crane’s 
+collapse and threw the crane operator to the cage railing 
+of the operator’s platform. (Findings 64-66, JA 156.) The 
+boom of the collapsed crane began sweeping the tanker’s 
+deck, threatening the lives of the deck crew and creating 
+the danger of its striking the ship’s manifold which could 
+cause a disastrous explosion. (2/18/93 RT 25-26.) The 
+deck crew worked feverishly to restrain the swinging 
+boom, but before it could be fully secured, the tanker 
+stranded at 2009. (Findings 83, JA 159; 2/18/83 RT 99.) 
+
+
+When the crane collapsed, Captain Coyne ordered his 
+second mate, the first responder for medical casualties, to 
+leave the bridge to evaluate the crane operator's condition. 
+(2/10/93 RT 116.) The second mate reported that the crane 
+operator appeared to be going into deep shock from 
+serious injuries. (Findings 72, JA 157; 2/10/93 RT 119, 122, 
+124.) Because the Captain had more medical training than 
+his second mate, he decided that he should try to navigate 
+the tanker as quickly as practicable to the safety of the 
+deep seas where he could leave the bridge to examine the 
+crane operator himself.'5 (Findings 73, JA 157.) 
+
+
+‘S The court of appeals’ opinion states that “[b]y 1803, the 
+small assist vessel NENE was able . . . to get control of the end of 
+the second hose so that it was no longer a threat to the larger 
+ship.” (JA 216.) As Exxon pointed out in its petition for rehear- 
+ing, the statement was contradicted by the record. The opinion 
+itself later recognized that the cargo hose had caused the port 
+crane to collapse at approximately 1947. (JA 217.) 
+
+The opinion also stated that the crane operator “was in fact 
+not seriously injured” (JA 233), despite the court’s recognition 
+that the crane operator was reported to be in shock (Id. at 217). 
+Although it later turned out that the operator was not as 
+
+
+15 
+
+
+By 1956, the NENE had begun to tow the hose away 
+from the HOUSTON, but the location of the hose could 
+not be ascertained from the tanker either by radar or by 
+sight. (2/10/93 RT 124; 2/11/93 RT 44; 2/25/93 RT 129.) 
+The Captain knew that the NENE was hauling the hose 
+from the HOUSTON ’s port side, and he decided to turn 
+to port. (2/10/93 RT 124.) The Captain ordered the tanker 
+to make a forward starboard turn at 1956 when she was 
+one mile from the shoreline. (Findings 47, JA 153, 157; 
+2/11/93 RT 41.) If he had ordered her again to back, it 
+would have taken an hour to move her another mile from 
+the shore. (2/10/93 RT 90; 2/10/93 RT 142.) The location 
+of the tanker at that time had been determined by parallel 
+radar indexing, rather than by plotting fixes on the very 
+small scale chart of the area aboard the HOUSTON. 
+(Findings 55, JA 153.) The Captain had no reason to 
+anticipate that the tanker would be anywhere near the 
+stranding area until the whole chain of incidents occurred 
+after the chain parted. While the HOUSTON was making 
+her slow turn, she struck an undersea coral pinnacle on 
+which she stranded at 2009, resulting in her constructive 
+total loss. (Findings 83, JA 159.) 
+
+
+The District Court's Findings, Conclusions and Judg- 
+ment. The district court resolved all the conflicts in the 
+evidence in respondents’ favor, including the sharp con- 
+flicts in the testimony of Exxon’s and respondents’ expert 
+witnesses with respect to the quality of Captain Coyne’s 
+
+
+seriously injured as he had initially appeared to be, Captain 
+Coyne had to make his navigation choices based on the informa- 
+tion he then had when the operator's condition was deemed life 
+threatening. 
+
+
+16 
+
+
+navigation of the stricken tanker. (Findings 61; Conclu- 
+sions 36-39, JA 155, 170-171.) It adhered to its prior rul- 
+ings which excluded Exxon’s evidence on its case-in- 
+chief, and it concluded that Captain Coyne was extraordi- 
+narily negligent in ordering the final turn when he had 
+not ordered fixes to be plotted and was unaware of the 
+undersea coral pinnacle on which the vessel stranded. In 
+reaching those conclusions, the district court relied on 
+two admiralty presumptions drawn respectively from The 
+Pennsylvania, 86 U.S. (19 Wall.) 125, 22 L.Ed. 148 (1874), 
+and The Louisiana, 70 U.S. (3 Wall.) 164, 18 L.Ed. 85 (1866). 
+(Conclusions 22-32, 44-45, JA 173-175.) 
+
+
+The court denied all of Exxon’s post-trial motions 
+and entered partial final judgment against it for the loss 
+of the tanker. (CR 667, 674; JA 200-204.) 
+
+
+16 The Pennsylvania rule is that when a master of a vessel 
+violates a regulatory duty, he is presumptively at fault. Plotting 
+fixes on a navigation chart is a regulatory duty (33 C.FR. 
+§ 164.11(c)), but that navigation rule is not imposed when the 
+master of a vessel is in perilous circumstances, as the regula- 
+tions themselves recognize. Both vessels in The Pennsylvania 
+were at fault, and the court divided damages equally although 
+the fault of one was presumed and the fault of the other was 
+proved. The Pennsylvania, 86 U.S. at 138. 
+
+In The Louisiana, the Court decided that a moving vessel is 
+deemed to be at fault when she strikes a stationary vessel or a 
+fixed structure. 
+
+Nothing in either case suggests that the presumed fault is 
+more than ordinary negligence. Here defense experts opined 
+that the Captain made navigational mistakes; apparently the 
+court concluded that several misjudgments and presumptive 
+fault added up to extraordinary negligence. 
+
+
+17 
+
+
+Appeal. Exxon argued that the bifurcation order, the trial 
+orders pursuant thereto, and the ultimate judgment deprived 
+it of procedural due process of law because admiralty law 
+does not permit either liability for breach of warranty or for 
+tort to be determined by confining the trial solely to the 
+conduct of the plaintiff when the defendants’ misconduct is a 
+substantial factor in causing injury. Exxon also contended 
+that negligence of a plaintiff is not a defense to liability for 
+breach of express or implied admiralty warranties; it is 
+relevant only to the assessment of damages — an issue the 
+court refused to try. E.g., Italia Societa per Azioni di Navi- 
+gazione v. Oregon Stevedoring Company, 376 U.S. 315, 321, 84 S. 
+Ct. 748, 11 L.Ed.2d 732 (1964). 
+
+
+Exxon also contended that this Court has not speci- 
+fically written superseding cause into general maritime 
+law and that the doctrine, as applied below, was in con- 
+flict with the comparative fault requirement of United 
+States v. Reliable Transfer Co., Inc., 421 U.S. 397, 95 S. Ct. 
+1708, 44 L.Ed.2d 251 (1975), in conflict with the Eleventh 
+Circuit’s decision in Hercules, Inc. v. Stevens Shipping Co., 
+765 F.2d 1069 (11th Cir. 1985) (neither common law super- 
+seding cause nor last clear chance survived comparative 
+fault established by Reliable Transfer), and irreconcilable 
+with liability based on breaches of admiralty warranties, 
+which sound in contract, not tort. 
+
+
+The Ninth Circuit's Opinion. The lower court affirmed, 
+rejecting all of Exxon’s contentions. (JA 209-233.) The 
+court held that the doctrine of superseding cause applies 
+to exonerate admiralty defendants from all liability for 
+breach of warranty, strict liability in tort and negligence 
+even when defendants have conceded that their acts and 
+omissions were substantial factors in causing the marine 
+
+
+18 
+
+
+casualties. The court held that the district court correctly 
+concluded that the Captain’s negligence was the sole 
+legal cause of the stranding and that its interpretation of 
+superseding case was not in conflict with Reliable Transfer. 
+The court disregarded Exxon’s contention that negligence 
+of a plaintiff in a breach of warranty case is relevant only 
+to apportionment of damages. (JA 223.) 
+
+
+The opinion recognized the conflict among the cir- 
+cuits on the question whether the superseding cause doc- 
+trine survived Reliable Transfer in maritime tort actions.!7 
+(JA 219-223.) The court held that there was no need to 
+compare fault because the doctrine, as interpreted and 
+applied by it, is a complete defense to all of Exxon’s 
+claims for relief. It rejected Exxon’s due process attack on 
+the ground that excluding Exxon’s evidence on its case- 
+in-chief was within the district court’s discretion. (JA 
+223-226.) 
+
+
+Petition for Rehearing. Exxon called the court's 
+attention to factual errors and to misstatements of 
+Exxon’s arguments in the opinion.'* The Petition for 
+
+
+17 Compare Hercules, Inc., 765 F.2d 1069, 1075 (intervening 
+negligence did not survive Reliable Transfer) with Donaghey v. 
+Ocean Drilling & Exploration Co., 974 F.2d 646, 652-53 (Sth Cir. 
+1992) and Lone Star Indus. Inc. v. Mays Towing Co., Inc., 927 F.2d 
+1453, 1459 (8th Cir. 1991) (disagreeing with the Eleventh Circuit 
+on that point). Hunley v. ACE Maritime Corp., 927 F.2d 493, 497, 
+498 (9th Cir. 1991) (applying superseding cause doctrine in a 
+maritime tort case). 
+
+18 E.g., the opinion states: “Because it maintains the issues 
+of causation, from breakout to grounding, are inseverable, Exxon 
+avers that it was unfairly prejudiced by bifurcation. We do not 
+agree.” [Emphasis added.] (JA 224.) Instead, Exxon had argued 
+
+
+Se 
+
+
+19 
+
+
+Rehearing was denied without correcting the errors. (CP 
+App. B.) 
+
+
+SUMMARY OF THE ARGUMENT 
+
+
+1. The judgment which exonerated respondents 
+from all liability in tort for their misconduct because 
+Captain Coyne was found negligent violates Reliable 
+Transfer's comparative fault rule. That rule was adopted 
+to promote fairness and to deter wrongful behavior that 
+is most likely to harm others. When admiralty defen- 
+dants’ faults are causes-in-fact of a marine casualty and a 
+shipowner is also negligent, damages for the loss are 
+divided among the parties on the basis of the proportio- 
+nate fault of each. City of Milwaukee v. Cement Div. Nat'l 
+Gypsum Co., 515 U.S. __, 115 S. Ct. 2091, 132 L.Ed.2d 148 
+(1995); Reliable Transfer, 421 U.S. at 410. 
+
+
+that legal cause of the stranding depended on the nature and 
+extent of respondents’ contractual duties and duties of care 
+imposed upon them by admiralty law, all of which were 
+breached before the breakout and that the hazards created by 
+those breaches could not be severed from the events thereafter 
+without denying Exxon the fair trial that the Due Process Clause 
+guarantees. Gasoline Products Co., Inc. v. Champlin Refining Co., 
+283 U.S. 494, 500, 51 S. Ct. 513, 75 L.Ed. 1188 (1931) and its 
+spawn. 
+
+The opinion also states: “Exxon does not dispute the district 
+court’s finding that the defendants met the duty of due dili- 
+gence in all respects.” JA 225, n.6. The statement is contradicted 
+by the record and even by respondents’ concession of fault. 
+Exxon did not challenge on appeal the district court’s findings 
+on conflicting evidence that respondents were not negligent 
+after the breakout because it would have been futile. 
+
+
+20 
+
+
+To encourage the district court to bifurcate liability, 
+respondents admitted that the SPM’s failure was a sub- 
+stantial factor in the tanker’s loss, but none admitted any 
+individual responsibility for that failure. Respondents 
+persuaded the lower courts that liability could be deter- 
+mined without ever permitting Exxon to introduce its 
+evidence of each of the respondents’ serious breaches of 
+admiralty duties before the breakout. If it had not been 
+foreclosed, Exxon’s evidence would have vividly demon- 
+strated that loss of the tanker was one of the foreseeable 
+hazards of respondents’ wrongdoings and that Captain 
+Coyne’s fault, when compared with respondents’ 
+egregious wrongdoings, was minimal. The foreclosure 
+orders and judgment disabled the court from apportion- 
+ing fault as required by Reliable Transfer and violated this 
+Court’s admiralty policies by eliminating the deterrent 
+effect of the comparative fault rule and inequitably 
+imposing the whole loss on Exxon. 
+
+
+Even if this Court had explicitly incorporated com- 
+mon-law superseding cause into general maritime tort 
+law (and it has not) and if the sole claim of respondents’ 
+wrongdoing had been negligence (and it was not), the 
+respondents could not properly have been relieved from 
+liability. Because respondents’ misconduct foreseeably 
+increased the risk of stranding and was a substantial 
+factor in causing the loss, Captain Coyne’s negligence 
+could not have been a superseding cause of the casualty, 
+as the Second Circuit has correctly held. Petition of Kins- 
+man Transit Co., 338 F.2d 708, 723-26 (2d Cir. 1964), cert. 
+denied sub nom. Continental Grain Co. v. City of Buffalo, 380 
+U.S. 944 (1965). Accord, Restatement (Second) of Torts, 
+§ 442B (1965). Under Reliable Transfer, the only effect of 
+
+
+21 
+
+
+the Captain’s negligence was to reduce proportionately 
+the amount of damages to which Exxon was entitled. 
+Although the Ninth Circuit has called its rationale 
+“superseding cause”, it has resuscitated contributory neg- 
+ligence as a complete defense to an admiralty tort. This 
+Court abrogated that defense more than a hundred years 
+ago. The Max Morris, 137 U.S. 1, 14-15, 11 S. Ct. 29, 34 
+L.Ed. 586 (1890). 
+
+
+Respondents forged the links in the liability chain 
+before the HOUSTON left the mainland because the 
+defects in the SPM and its allied equipment and the 
+dangerous condition of the cargo hoses existed at that 
+time. This case was tried and decided as if respondents’ 
+multiple breaches of admiralty duty before the breakout 
+were irrelevant to liability. Reliable Transfer requires that 
+all the faults of all the parties must be compared regard- 
+less of the particular order in which the faults occurred. 
+
+
+The district court’s orders and ultimate judgment 
+preventing Exxon from ever proving its liability case-in- 
+chief not only violated this Court’s admiralty policies, it 
+also deprived Exxon of procedural due process of law. 
+
+
+Gasoline Products Co., Inc. v. Champlin Refining Co., 283 
+U.S. 494, 500, 51 S. Ct. 513, 75 L.Ed. 1188 (1931) states the 
+basic principle for deciding whether a claim or an issue 
+can be separately tried without infringing procedural due 
+process. The issue must be so distinct and separable that 
+trial of it alone may be had without injustice. Captain 
+Coyne’s conduct after the breakout could not be severed 
+from the respondents’ breaches of warranty and breaches 
+of admiralty duty before the breakout because these 
+events were a continuum that was unbroken by any 
+
+
+22 
+
+
+unforeseeable force. By splitting causation in two and 
+foreclosing Exxon from ever proving respondents’ mis- 
+conduct before the breakout, the district court severed the 
+unseverable and deprived Exxon of procedural due pro- 
+cess of law. 
+
+
+2. Exonerating respondents from liability for breach 
+of express and implied warranties because Exxon’s Cap- 
+tain was negligent violates admiralty policy established 
+by this Court in Italia Societa. That policy imposes liability 
+on the party best situated to adopt preventive measures 
+to reduce the likelihood of injury. Respondents, not 
+Exxon and its tanker Captain, had control over all of the 
+equipment furnished to Exxon. Respondents were the 
+only persons who were situated to take preventive mea- 
+sures to reduce the likelihood of grounding caused by the 
+dangerous mooring and the ultrahazardous equipment 
+furnished to Exxon. The decision below destroys the 
+deterrent effect of this Court’s admiralty policies. 
+
+
+Breach of warranty sounds in contract, not tort. Neg- 
+ligence of a shipowner in whose favor warranties run 
+may reduce damages for which warrantor is liable, but it 
+does not defeat liability. Paragon Oil Co. v. Republic 
+Tankers, S.A., 310 F.2d 169, 173-74 (2d Cir. 1962), cert. 
+denied sub. nom. Yacimientos Petroliferos Fiscales v. Paragon 
+Oil Co., 372 U.S. 967, 83 S. Ct. 1092, 10 L.Ed.2d 130 (1963). 
+Cf. Restatement (Second) of Contracts § 350 (1981). 
+
+
+® 
+
+
+23 
+
+
+ARGUMENT 
+
+
+I. THE APPLICATION OF COMMON-LAW SUPER- 
+SEDING CAUSE TO RELIEVE RESPONDENTS 
+FROM ALL LIABILITY IN TORT FOR THEIR 
+WRONGDOING IS IRRECONCILABLE WITH 
+RELIABLE TRANSFER 
+
+
+This Court has applied common-law principles in 
+admiralty cases when they are well suited to the maritime 
+context without the “conceptual distinctions” which are 
+“foreign to [admiralty] traditions of simplicity and prac- 
+ticality.” Kermarec v. Compagnie Generale Transatlantique, 
+358 U.S. 625, 631, 79 S. Ct. 406, 3 L.Ed.2d 550 (1959). Any 
+doubts that may have existed about the impact of a 
+shipowner’s intervening negligence on defendants’ admi- 
+ralty liability in tort for their breaches of duty that were 
+substantial factors in a casualty should have been put to 
+rest by Reliable Transfer.'° In Reliable Transfer itself, the 
+captain of the plaintiff's tanker was 75 percent at fault for 
+the tanker’s grounding, but his gross negligence did not 
+defeat liability of the Coast Guard for negligently failing 
+to maintain a light. Instead, the Court required the loss to 
+be borne proportionately to the fault of each. Reliable 
+Transfer, 421 U.S. at 410. 
+
+
+As G. Gilmore observed before Reliable Transfer, “the 
+maritime court has been less ready than the shore courts to find 
+that a subsequent wrongful act by one party breaks the chain of 
+causation connecting the accident with the prior negligence of 
+the other party.” G. Gilmore, C. Black, The Law of Admiralty § 7-5, 
+at 494 (2d ed. 1975). 
+
+
+24 
+
+
+The adoption of comparative fault was based not 
+only on the Court's concern for fairness,2° but also on 
+imposing “the strongest deterrent upon the wrongful 
+behavior that is most likely to harm others.” 421 U.S. at 
+405, n.11.7! 
+
+
+The Court reaffirmed the same principle in City of 
+Milwaukee v. Cement Div. Nat'l Gypsum Co., 515 U.S. ___ 
+115 S. Ct. 2091, 2097, 132 L.Ed.2d 148 (1995) (Reliable 
+Transfer required “ ‘that damages be assessed on the basis 
+of proportionate fault when such an allocation can rea- 
+sonably be made’ ” (quoting McDermott, Inc. v. AmClyde, 
+511 U.S. __. __, 114 S. Ct. 1461, 1462, 128 L.Ed.2d 148 
+(1994))). 
+
+
+20 As the Court's discussion of Reliable Transfer was 
+explained in McDermott, Inc. v. AmClyde, 511 U.S. __, __, 1145. 
+Ct. 1461 [128 L.Ed. at 156] (1994), the old damages rule was 
+“ ‘inequitable.’ ” “Thus the interest in certainty and simplicity 
+served by the old [divided damages] rule was outweighed by 
+the interest in fairness promoted by the proportionate fault 
+rule.” Ibid. 
+
+“That a vessel is primarily negligent does not justify its 
+shouldering all responsibility, nor excuse the slightly negligent 
+vessel from bearing any liability at all.” Reliable Transfer, 421 
+U.S. at 406. 
+
+
+21 Respondents acknowledged the correct admiralty princi- 
+ple in their responding brief for the Ninth Circuit: “[H]aving 
+established, as a matter of fact, that the injury would not have 
+occurred but for the defendants’ conduct, plaintiff must per- 
+suade the court, that, as a matter of policy, defendant should be 
+held legally responsible for his injury.” Respondents’ / vy 
+lees’ Joint Brief at 29-30. Respondents failed to 
+this Court’s admiralty policy imposes responsibility for the — 
+of the HOUSTON squarely upon them because they, not Exxon 
+or the tanker’s captain, were best situated to take the necessary 
+safety measures to prevent breakaways and strandings. 
+
+
+25 
+
+
+Thus, in City of Milwaukee, supra, 515 U.S. ___ 115 S. 
+Ct. 2091, 2097, 132 L.Ed.2d 148 (1995) the shipowner 
+brought its admiralty action against the City for the loss 
+of its vessel which had broken away from the City’s 
+mooring in a storm and sank. The shipowner alleged that 
+the City had breached its duty as a wharfinger by assign- 
+ing the vessel to a berthing known to be unsafe in heavy 
+winds and in failing adequately to warn of hidden dan- 
+gers in the slip. The City contended that the shipowner 
+was negligent because its master left the ship virtually 
+unmanned in the winter without personnel aboard who 
+could monitor the weather conditions or who could sum- 
+mon help. The district court held that the shipowner was 
+96 percent at fault for the loss, and it denied prejudgment 
+interest. The appellate court modified the judgment by 
+reducing the shipowner’s fault to 75 percent, and it 
+awarded prejudgment interest to the shipowner. This 
+Court affirmed. After Reliable Transfer, marine losses are 
+shared on the basis of proportionate fault. The ship- 
+owner’s recovery had been reduced by two-thirds by 
+reason of its own negligence, but the City was still 
+required to pay its fair share of the loss. 
+
+
+The City’s responsibility for the remaining one- 
+third is no different than if it had performed the 
+same negligent acts and the owner, instead of 
+also being negligent, had engaged in heroic 
+maneuvers that avoided two-thirds of the dam- 
+ages. The City is merely required to compensate 
+the owner for the loss for which the City is 
+responsible. 
+
+
+515 U.S. at __, [115 S. Ct. at 2097]. 
+
+
+26 
+
+
+In our case, Captain Coyne and the crew of the 
+HOUSTON performed heroically in trying to rescue the 
+vessel and her seamen from the constant perils in which 
+respondents’ misconduct placed them. In the last few 
+minutes, they were unable to save the ship or to prevent 
+injury to the crane operator, but the Captain's misjudg- 
+ments did not relieve respondents from having to com- 
+pensate Exxon for their proportionate share of the loss. 
+
+
+A. The Decision Below Violated the Admiralty 
+Policies Established by Reliable Transfer 
+
+
+Neither Exxon nor Captain Coyne had any control 
+over the SPM and its allied equipment that threatened 
+grounding and oil spills for every tanker moored at the 
+facility. The HIRI respondents had actual knowledge that 
+SPM failures were inevitable and that they had taken 
+none of the safety precautions that their own experts had 
+advised them to adopt. If Exxon had been permitted to 
+try its case-in-chief, it could have presented evidence that 
+the other respondents were chargeable with knowledge 
+of the dangerous condition of the equipment. The respon- 
+dents were unquestionably best situated to undertake 
+safety measures to prevent breakaways and groundings. 
+By exonerating all of the respondents from liability for 
+the tanker’s loss, the Ninth Circuit removed the deterrent 
+effect that this Court intended to impose by adopting 
+comparative fault. 
+
+
+Blaming Captain Coyne for loss of the tanker is mani- 
+festly unjust. He and the crew of the HOUSTON were 
+valiantly dealing with a whole succession of emergencies, 
+all of which were created by respondents’ breaches of 
+
+
+27 
+
+
+duties, plus adverse winds, ocean currents, and darkness. 
+The HOUSTON would have been nowhere near the 
+stranding point but for the parting of the defective chafe 
+chain, the lack of safety devices on the HIRI’s cargo 
+hoses, the absence of adequate tug assistance, and the 
+inadequate training of HIRI’s mooring masters. Relieving 
+respondents from all liability for the casualty is as unfair 
+as it would be to exonerate a defendant who had negli- 
+gently set a moored tanker afire because the crew were 
+not as adept in controlling the blaze as the defendant's 
+expert witnesses testified they should have been. 
+
+
+B. The Decision Below Violated Reliable Trans- 
+fer’s Requirement that all of Defendants’ Faults 
+Must Be Compared with the Plaintiffs’ Faults in 
+Assigning Responsibility for a Marine Casualty 
+
+
+The Ninth Circuit decided this case as if the only 
+relevant evidence of liability were the occurrences after 
+the breakout although grounding was one of the hazards 
+that their pre-breakout conduct created. Because the dis- 
+trict court had foreclosed all of Exxon’s evidence that 
+would have established respondents’ tortious pre-break- 
+out acts and omissions, it could not compare degrees of 
+fault as Reliable Transfer requires. All the faults of each of 
+the respondents had to be compared with all the faults 
+attributed to Captain Coyne irrespective of the order in 
+which the faults occurred. That comparison would have 
+shown that the degree of Captain Coyne’s fault was slight 
+as compared with the degrees of respondents’ faults. 
+
+
+That defect could not be cured by respondents’ 
+admission that the SPM’s failure was a cause-in-fact of 
+
+
+28 
+
+
+the grounding. None of the respondents admitted any 
+individual responsibility for the failure, and the fore- 
+closure of Exxon’s evidence prevented the district. court 
+from comparing the relative degrees of faults among the 
+respondents and likewise prevented a comparison of 
+respondents’ faults with those attributed to Captain 
+Coyne. For example, temperatures of a group of human 
+beings cannot be adequately compared with one another 
+when the temperature of one party is precisely recorded 
+on a thermometer as 102 degrees, but the temperature of 
+all the others is recorded collectively on a device that is 
+capable only of registering “hot” or “cold.” 
+
+
+The Eleventh Circuit in Hercules, Inc. v. Stevens Ship- 
+ping Co., 765 F.2d 1069 (11th Cir. 1985), correctly applied 
+the comparative fault rule and rejected the superseding 
+cause doctrine in a case in which a stevedoring company 
+tried to escape liability for negligently loading the plain- 
+tiff’s barge. The barge had capsized, losing most of the 
+cargo and damaging the barge. The stevedoring company 
+argued that it should be relieved of liability because the 
+barge was unseaworthy and because the barge owner and 
+the company towing the vessel were negligent. Following 
+Reliable Transfer, the court apportioned responsibility for 
+the casualties. 765 F.2d at 1075. After pointing out that the 
+common law doctrines of last clear chance and interven- 
+ing negligence did not hold sway even under the old 
+divided damages rule, the court held that the stevedore 
+could not use either of those concepts to circumvent 
+Reliable Transfer: 
+
+
+“Unless it can truly be said that one party’s 
+negligence did not in any way contribute to the 
+
+
+29 
+
+
+loss, complete apportionment between the neg- 
+ligent parties, based on their respective degrees 
+of fault, is the proper method for calculating 
+and awarding damages in maritime cases.” 
+
+
+765 F.2d at 1075. 
+
+
+C. Respondents could not Escape Liability even if 
+Superseding Cause had been Incorporated into 
+General Admiralty Law 
+
+
+After respondents conceded that their collective con- 
+duct was a cause-in-fact of injury, causation was no 
+longer in issue. The remaining liability question was 
+whether the risk of stranding was a hazard that was or 
+should have been foreseen by respondents. “Superseding 
+cause” is an expression of common law policy to limit a 
+defendant's liability when a natural or human force has 
+intervened under circumstances that are so extraordinary 
+and remote from the risks that the defendant’s earlier 
+negligence has created that the law deems it unjust to 
+hold him responsible for the ensuing harm. The hazards 
+of grounding and navigational misjudgments were fore- 
+seeable risks created by the respondents’ many breaches 
+of admiralty duties owed to Exxon, and, therefore the 
+superseding cause doctrine was inapplicable. 
+
+
+Restatement (Second) of Torts Section 442B (1965) states 
+the applicable blackletter principle: 
+
+
+Where the negligent conduct of the actor 
+[respondents] creates or increases the risks of a 
+particular harm [stranding] and is a substantial 
+factor in causing that harm, the fact that the 
+harm is brought about through the intervention 
+of another force does not relieve the actor of 
+
+
+30 
+
+
+liability, except where the harm is intentionally 
+caused by a third person and is not within the 
+scope of the risk created by the actor’s conduct. 
+
+
+Comment b to Section 442B explains: 
+
+
+[A]ny harm which is itself foreseeable [as 
+stranding was in this case], as to which the actor 
+has created or increased the recognizable risk, is 
+always “proximate,” no matter how it is brought 
+about, except where there is such intentionally 
+tortious or criminal intervention, and it is not 
+within the scope of the risk created by the origi- 
+nal negligent conduct. 
+
+
+The Second and Fifth Circuits have correctly con- 
+cluded that a plaintiff's negligence does not become a 
+superseding cause of a marine injury when the harm that 
+occurred was within the hazards created by the defen- 
+dant’s breaches of duty and were or should have been 
+foreseen by them. 
+
+
+In Kinsman Transit Co., 338 F.2d at 711-13, a wharf- 
+inger’s defective mooring device failed during a heavy 
+storm causing a vessel to break away from the mooring. 
+The shipowner’s negligence in leaving the vessel 
+unmanned during the storm did not relieve the wharf- 
+inger from liability for the ensuing chain of events that 
+damaged the breakaway vessel, other vessels, and con- 
+tributed to the collapse of a city bridge. Kinsman Transit 
+Co., 338 F.2d at 723-26. As Judge Friendly held in Kinsman 
+Transit Co.: 
+
+
+It was indeed foreseeable that improper con- 
+struction . . . of the “deadman” [the mooring 
+devicc} might cause a ship to break loose and 
+damage persons and property on or near the 
+
+
+31 
+
+
+river... . [A] prudent man . . . would have 
+realized that the danger of this would be the 
+greatest under such water conditions as devel- 
+oped during the night [of the casualties]. 
+
+
+338 F.2d at 723. 
+
+
+The fact that the wharfinger in Kinsman Transit Co. 
+did not actually foresee that the captain of the first vessel 
+set adrift would be negligent or that the calamitous chain 
+of events would thereafter occur did not relieve the 
+wharfinger of liability: 
+
+[Vv . 1d find it difficult to understand why 
+
+sailed to use the care required to pro- 
+ers » “we tht of expectable forces 
+re € -o% when the very risks that 
+'  » «-etuet eegligent produced other 
+asequences to such persons 
+
+
+\ afty icreseeable when he fell short 
+Ot wie: ve law demanded. 
+
+
+338 F.2d at 723-24.?2 
+
+
+Among the risks that respondents were required to 
+foresee was that Captain Coyne might not navigate the 
+imperiled tanker as carefully as respondents’ armchair 
+experts testified he should when they were navigating in 
+a quiet courtroom. The Second and Fifth Circuits have 
+consistently recognized that when the master of a vessel 
+is put in the center of destructive forces, as was Captain 
+
+
+22 Accord, Watz v. Zapata Off-Shore Co., 431 F.2d 100 (5th Cir. 
+1970) (defendant was not relieved of liability to a shipyard 
+worker injured by a hoist failure where defendant did not actu- 
+ally foresee the harm nor the manner in which injury occurred 
+because the injury was within the risks created by a defective 
+weld in the hoist furnished by defendant). 
+
+
+32 
+
+
+Coyne, and he must make hard choices among competing 
+courses of action, admiralty law requires that there must 
+be something more than mistakes of judgment by the 
+master to find that he was negligent, let alone extraordi- 
+narily negligent, when it turns out that his choices were 
+wrong. E.g., Employers Ins. of Wausau v. Suwanne River Spa 
+Lines, Inc., 866 F.2d 752, 772-73 (5th Cir.), cert. denied sub 
+nom. Employers Ins. of Wausau v. Avondale Shipyards, 493 
+U.S. 820 (1989); The Gulfstar, 136 F.2d 461, 465 (3d Cir. 
+1943); The Imoan, 67 F.2d 603, 605 (2d Cir. 1933). Ordinary 
+negligence does not become extraordinary, unforeseeable 
+negligence because a plaintiff makes several mistakes 
+instead of only one. 
+
+
+The Ninth Circuit’s conclusion that the Captain’s 
+negligence was the “sole” cause of the stranding is incon- 
+sistent with the respondents’ admission that their own 
+conduct was a cause-in-fact of the casualty. Exoneration 
+of all the respondents from any liability cannot be recon- 
+ciled with the common-law principle upon which it pur- 
+ports to rely, with the comparative fault rule of Reliable 
+Transfer, and with the admiralty policies that caused the 
+court to adopt that rule. 
+
+
+What the Ninth Circuit has actually done is to resur- 
+rect contributory negligence as a complete defense to 
+liability for maritime negligence and strict products lia- 
+bility by dubbing the defense “superseding cause.” This 
+Court buried that defense over a hundred years ago in 
+The Max Morris, 137 U.S. 1. It is of great importance to 
+domestic and international commercial shipping that this 
+Court clearly stated that the Second and Fifth Circuits 
+have correctly applied general admiralty law. 
+
+
+33 
+
+
+D. The District Court’s Foreclosing Exxon from 
+Ever Proving its Case-in-Chief Deprived it of 
+Due Process of Law 
+
+
+Gasoline Products, Inc., 283 U.S. at 500 stated the basic 
+principle for deciding whether any issue can be sep- 
+arately tried without infringing procedural due process: 
+the issue must be so “distinct and separable from the 
+others that a trial of it alone may be had without injus- 
+tice.”2> Captain Coyne’s conduct after the breakout could 
+not be separated from respondents’ breaches of warranty 
+and breaches of admiralty duties before the breakout that 
+continued to endanger the tanker, the NENE, and the 
+crews of both. Respondents’ prior acts and omissions and 
+the Captain’s responses to the hazards thereby created 
+formed a continuous chain of events, unbroken by any 
+unforeseeable force. By foreclosing Exxon from proving 
+its case-in-chief, the district court did sever the unsever- 
+able and, with the Ninth Circuit’s approval of that sur- 
+gery, Exxon was deprived of procedural due process of 
+law guaranteed it by the Fifth Amendment. 
+
+
+23 Even when the issue is subject matter federal jurisdic- 
+tion, that issue cannot be tried alone when it is factually inter- 
+woven with the merits of the case. E.g., Smith v. Sperling, 354 
+U.S. 91, 95, 77 S. Ct. 1112, 1 L.Ed.2d 1205 (1957). 
+
+
+34 
+
+
+Il. THE NINTH CIRCUIT’S EXONERATION OF 
+RESPONDENTS FROM ALL LIABILITY FOR 
+BREACHES OF EXPRESS AND IMPLIED ADMI- 
+RALTY WARRANTIES IS CONTRARY TO ADMI- 
+RALTY POLICY ESTABLISHED BY ITALIA 
+SOCIETA 
+
+
+A. The Ninth Circuit Opinion is Irreconcilable 
+with Italia Societa 
+
+
+The HIRI respondents expressly warranted the safety 
+of the berth and impliedly warranted the safety of their 
+allied equipment, including their cargo hoses; the remain- 
+ing respondents, respectively, impliedly warranted the 
+safety of the SPM’s design and the safety of the chafe 
+chain that failed. 
+
+
+Before the HOUSTON left the mainland, the HIRI 
+respondents had breached the safe berth warranty 
+because, as Exxon offered to prove, the HIRI respondents 
+had actual knowledge (and Exxon did not) that their 
+experts had warned them that SPM failures were inevita- 
+ble, that their cargo hoses (without quick-release devices) 
+were dangerous and created the hazards of grounding 
+and oil spills for every tanker that moored at the SPM 
+unless the recommended safety measures were under- 
+taken. The HIRI respondents also had actual knowledge 
+(and Exxon did not) that two tankers had earlier broken 
+away from the SPM, that they had no tugs sufficiently 
+powerful to aid a tanker that had broken away, that Coast 
+Guard assistance was more than two hours away, and 
+that their mooring masters had received no training to 
+help a tanker that was cast adrift. By its bifurcation 
+orders, its later exclusionary rulings and its judgment, the 
+
+
+35 
+
+
+district court foreclosed Exxon from ever introducing its 
+abundant evidence on those points. 
+
+
+In actions for breach of maritime warranties, Italia 
+Societa establishes the policy of placing the risks of loss 
+on the persons who are best situated to prevent injuries. 
+In that case the shipowner’s negligence did not defeat 
+liability for breach of an implied admiralty warranty 
+when a seaman was injured by a latent defect in equip- 
+ment furnished by the stevedore because the stevedore 
+was in a better position than the shipowner to undertake 
+safety measures to reduce the likelihood of such injuries: 
+
+
+[Liability should fall upon the party best situ- 
+ated to adopt preventive measures and thereby 
+to reduce the likelihood of injury. Where, as 
+here, injury-producing and defective equipment 
+is under the supervision and control of the ste- 
+vedore, the shipowner is powerless to minimize 
+the risk; the stevedore is not. 
+
+
+376 U.S. at 324. 
+
+
+Neither Exxon nor Captain Coyne had any control 
+over the respondents’ dangerous equipment or the HIRI 
+respondents’ failure to take any of the recommended 
+safety measures. To exonerate respondents from all lia- 
+bility for breach of warranty because the district court 
+found that Captain Coyne was thereafter negligent is 
+directly contrary to the policy adopted in Italia Societa. 
+Negligence of a shipowner, in whose favor the warranty 
+runs, may reduce the damages for which the warrantor is 
+liable to the extent that such negligence constitutes a 
+failure to mitigate damages; it does not defeat liability for 
+breach of contract. 
+
+
+36 
+
+
+B. The Ninth Circuit’s Opinion is Contrary to 
+Other Circuits 
+
+
+Other circuits have correctly held that warrantors of 
+safe berth are required to anticipate all reasonably fore- 
+seeable dangers created by the combination of the force 
+of tides, winds and seas, as well as negligent seamanship. 
+E.g., Eastern Massachusetts Street Ry. Co. v. Transmarine 
+Corp., 42 F.2d 58, 62 (1st Cir.), cert. denied, 282 U.S. 883 
+(1930). 
+
+
+As Judge Friendly explained in Paragon Oil Co. v. 
+Republic Tankers, S.A., 310 F.2d 169, 173-74 (2d Cir. 1962), 
+cert. denied sub nom. Yacimientos Petroliferos v. Paragon Oil 
+Co., 372 U.S. 967, 83 S. Ct. 1092, 10 L.Ed.2d 130 (1963): A 
+warrantor of safe berth may “lessen the amount of dam- 
+ages for which he is responsible by showing negligence, 
+or even lack of diligence, on the part of the person 
+wronged, in failing to take steps to lessen certain or even 
+probable damage. . . . [T]his is an issue on which defen- 
+dant has the burden.” A plaintiff's contributory negli- 
+gence is irrelevant to liability based on breach of an 
+admiralty contract. International Ore & Fertilizer Corp. v. 
+S.G.S. Control Servs. Inc., 38 F.3d 1279, 1286 (2d Cir. 1994). 
+
+
+When a safe berth warranty has been breached, as it 
+was here, the shipowner can recover damages for his loss, 
+excluding only those damages that he could have avoided 
+by taking reasonable steps to mitigate his loss. Cf. Restate- 
+ment (Second) of Contracts § 350, pp. 126, et seq. (1981). 
+When a plaintiff has tried to mitigate his damages and 
+has been unsuccessful, he may nevertheless recover the 
+full amount of his loss from the defendant. Ibid. 
+
+
+37 
+
+
+Merchant shippers and their crews must rely on 
+wharfingers, stevedores, and others to supply them with 
+reasonably safe moorings and facilities over which the 
+shipowners and their captains have no control. Admiralty 
+warranties are taken very seriously in commercial ship- 
+ping because shipowners (and charterers) need the assur- 
+ance of indemnification that admiralty warranties have 
+been previously well understood to provide. If these war- 
+ranties are uniformly enforced to require indemnification 
+of shipowners and charterers when the moorings are 
+unsafe, they provide a strong impetus to make berths 
+safe. Those are the very concerns that were expressed by 
+this Court in Italia Societa and Reliable Transfer which were 
+disregarded by the Ninth Circuit. 
+
+
+Shipowners and seafarers must also be able to rely on 
+uniform enforcement of warranties whether their vessels 
+moor in Hawaii, Louisiana or New York. With the deci- 
+sion of the Ninth Circuit in this case, that uniformity is 
+absent. 
+
+
+38 
+
+
+CONCLUSION 
+
+
+For the reasons hereinabove stated, Exxon prays that 
+the judgment be reversed and that it be awarded its costs. 
+
+
+Dated: January 3, 1996. 
+Respectfully submitted, 
+
+
+Suirtey M. Huprstepver 
+
+Counsel of Record 
+
+Morrison & Foerster 
+
+555 West Fifth Street 
+
+Suite 3500 
+
+Los Angeles, California 90013-1024 
+Telephone: (213) 892-5200 
+
+
+Attorneys for Petitioners 
+
+
+Admitted to the Bar 
+of the Supreme Court 
+on January 8, 1962 
+
+

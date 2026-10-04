@@ -1,0 +1,1582 @@
+4\ ® Supreme Court, t 
+1) S FILED 
+WY \; 
+
+No. 95-860 » MAR 4g 1996 
+
+
+- 
+
+
+In The 
+
+
+rie 
+
+
+Supreme Court of the United States 
+October Term, 1995 
+
+
+¢ 
+
+
+BARBARA SMILEY, 
+
+
+Petitioner, 
+
+
+CITIBANK (SOUTH DAKOTA), N.A., 
+Respondent. 
+
+
+¢ 
+
+
+On Writ Of Certiorari To The 
+California Supreme Court 
+
+
+¢ 
+
+
+AMICUS CURIAE BRIEF OF CONSUMER ACTION 
+IN SUPPORT OF PETITIONER SMILEY 
+
+
+e 
+
+
+James C. STURDEVANT* 
+Kim E. Carp 
+The Sturdevant Law Firm 
+785 Market Street, Suite 500 
+San Francisco, California 94103 
+(415) 495-4140 
+
+
+Counsel for Amicus Curiae Consumer Action 
+
+
+"Counsel of Record 
+
+
+COCKLE LAW BRIEF PRINTING CO., (800) 225-6964 
+OR CALL COLLECT (402) 342-2831 
+
+
+QUESTIONS PRESENTED 
+
+
+1. When Congress enacted Section 30 of the 
+National Bank Act of 1864, 12 U.S.C. § 85, (“section 85”) 
+which allows national banks to charge “interest at the 
+rate” allowed by the state in which they are located and 
+thereby preempts other states’ limitations on the interest 
+rates that national banks may charge, did Congress 
+intend that section 85 would also preempt state statutes 
+enacted for the protection of consumers that restrict or 
+regulate non-interest charges, including contingent pen- 
+alty fees such as the credit card late payment fees at issue 
+in this action? 
+
+
+2. If Congress did not intend section 85 to preempt 
+state consumer protection statutes that regulate contin- 
+
+
+gent penalty charges and other non-interest terms, did 
+Congress intend to delegate to the various states the right 
+to expand the preemptive scope of section 85 by creating 
+broad, all-inclusive definitions of the term “interest”? 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+QUESTIONS PRESENTED ..........cccscccccescees i 
+URS SIS SD oc cs vscickanbecsebactinh eat 1 
+i a ee aR eT emt se 2 
+SUMMARY OF ARGUMENT ....................-. 3 
+PEUGUOMVE sc viictsssriveneeadveststeineaa 5 
+
+
+I. THE NATURE OF THE CREDIT CARD INDUSTRY 
+DEMONSTRATES THE IMPORTANCE OF STATE 
+CONSUMER PROTECTION LEGISLATION REGU- 
+LATING PENALTY CHARGES ................. 5 
+
+
+A. The Credit Card Industry Has Grown Expo- 
+nentially in the Past Fifteen Years and Has 
+Become an Increasingly Dominant Force in 
+the Lives of American Consumers ......... 6 
+
+
+B. The Credit Card Industry Is Dominated by 
+Major Issuers Located in Small Deregulated 
+SUMED... sccccccdathekeasteceecaneh ubaeees 12 
+
+
+C. The Credit Card Industry Is Extraordinarily 
+PUNT R a0 0 6.655 5 060 00045 0es bee 13 
+
+
+D. The Credit Card Industry is Extremely Re- 
+sistant to Competition on Fundamental Pric- 
+NG COUN oo os eevnucadeingastbaaveenteunie 15 
+
+
+E. Lack of Regulation or Pricing Competition 
+Has Led to Substantial Increases in Penalty 
+Fees and Other Punitive Practices in Recent 
+WORED . oc cecccncsudecen bane see beeeeee 18 
+
+
+TABLE OF CONTENTS 
+Page 
+
+
+Il. THE COURT’S RESOLUTION OF THE IMPOR- 
+TANT PREEMPTION ISSUE IN THIS CASE 
+COULD HAVE SIGNIFICANT IMPACT ON 
+STATE CONSUMER PROTECTION EFFORTS.. 22 
+
+
+A. Federal Preemption of State Consumer Pro- 
+tection Statutes Should Be Narrowly Con- 
+Ck et OFS ha ae eee 22 
+
+
+B. A Finding of Broad Preemption in this Case 
+Could tinder Consumer Protection Efforts 
+in Other Important Areas.................. 25 
+
+
+C. A Finding of Broad Preemption in this Case 
+Will Create Pressure on Other States to 
+RCS aie leis on cas nc cece oncecs.. 28 
+
+
+SE lc a 30 
+
+
+iv 
+TABLE OF AUTHORITIES 
+Page 
+
+
+Cases 
+Anderson Nat'l Bank v. Luckett, 321 U.S. 233 (1944) .... 23 
+
+
+Beasley v. Wells Fargo Bank, N.A., 235 Cal.App.3d 
+
+
+1383, 1 Cal.Rptr.2d 446, rev. denied (1991) ......... 22 
+California v. ARC America Corp., 490 US. 93, 101 
+GUUEED . 0 v0cececevetstncadessudeuummiiomumeaiess 22 
+
+
+Cippollone v. Liggett Group, Inc., 505 U.S. 504 (1992) .... 23 
+
+
+Hitz v. First Interstate Bank of California, 38 
+Cal.App.4th 274, 44 Cal.Rptr.2d 890, rev. denied 
+
+
+(OTTER w 0 osc ctvevccscccsvceddustcedéttondalbeasecss 22 
+Lewis v. BT Investment Managers, Inc., 447 U.S. 27, 
+TD GIG oc cvcnsacccveccuscucncscsecesbedvewcsotes 23 
+
+
+Perdue v. Crocker National Bank, 38 Cal.3d 913, 216 
+Cal.Rptr. 345, 702 P.2d 503 (Cal. 1985), appeal 
+
+
+dismissed, 475 U.S. 1001 (1986) ...............5005. 23 
+Smiley v. Citibank, 11 Cal.4th 138, 44 Cal.Rptr.2d 
+G65, SED FBG GOO (USTED oc vc cccccccccccscecs 3, 21, 24 
+
+
+Statutes, Rutes AND REGULATIONS 
+
+
+SD Bs Be nc cccsccccdsctdccssndessnsenceess passim 
+
+SepeaD Geese TD SPD ck cdsevcccvscdbcsvcceucdencs 1 
+
+OTHER 
+
+Lawrence Ausubel, The Credit Card Market 
+Revisited, November, 1994 (unpublished) ....... 14, 17 
+
+
+Lawrence Ausubel, The Failure of Competition in the 
+Credit Card Market, The American Economic 
+Review, March 1991 ................ 10, 14, 16, 17, 18 
+
+
+v 
+
+
+TABLE OF AUTHORITIES - Continued 
+Page 
+
+
+Paul S. Calem, The Strange Behavior of the Credit 
+Card Market, Federal hom of Phila- 
+— Business Review, January /Februa 
+SUED vuvbeddetdsdesrags st ediokGcecds..c al: , 16, 17 
+
+
+Credit Card Management, Card Industry Directory: 
+The Blue Book of the Credit and Debit Card arts 
+try in the United States (1992 a 7, 12 
+
+
+Saul Hansell, A Shaky House of Plastic With No 
+Quick Fix in Sight, New York Times, December 
+
+
+i Mibateshesnstscvarecine 7, 8, 9, 10, 11 
+Higgins, You Win Some, You Win Some More, Credit 
+ard Management, February 1994.............._.. 29 
+
+
+Kelley Holland & Richard Melcher, Plastic: Are 
+Banks Over Their Limit? Business Week, March 6, 
+SEP nvivedestevkaddisteaecniinc thn... 7, 11, 17 
+
+
+Nancy Ann Jeffrey, Fees on Variable-Rate Credit 
+Cards Rise, Wall Street Journal, January 5, 1995 15, 16 
+
+
+Penny Lunt, Lean and Mean Is the Name of the Game, 
+ABA Banking Journal, March 1995..10, 13, 14, 16, 17 
+
+
+Margaret Mannix, When Credit Turns Painful, U.S. 
+News & World Report, November 27, 1995 ....10, 19 
+
+
+Peter Passell, A = Bankers Love: How Do 
+Credit Cards Stay So Profitable? The New York 
+Times, August 17, 1995.................... 10, 13, 14 
+
+
+Linda Sherry, High Rates Obscured by “Teaser” 
+Come-ons, Consumer Action News, March/ 
+
+
+Me tedédanunnd deeseudeusattcee.... 17 
+Linda Stern, Credit Card Crunch, Newsweek, Feb- 
+ME ES 6 Ske cndcace i euiuds cdeckWkedeeres, 7,8 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES - Continued . 
+age 
+
+
+John Stewart, How Penalty Fees Are Rewarding 
+Banks, Credit Card Management, November 
+BES cccccdcccccccccccecccccecsccesséosensecacets 18, 20 
+
+
+United States General Accounting Office, Report 
+to Congressional Requesters, U.S. Credit Card 
+Industry: Competitive Developments Need to be 
+Closely Monitored, April 1994............6000: passim 
+
+
+A Credit Card Conundrum, Business Week, January 
+BE, FOOD. ccicccccdesccdtdbescounes Ueendeectess< 10, 18 
+
+
+The Big Squeeze, The Economist, November 2, 1991 .. .8, 9 
+
+
+The Card Industry Rides a Wave of Profitability, 
+Credit Card News, April 1, 1994............... 13, 14 
+
+
+The Global Growth of Credit Cards, The Futurist, 
+Bamt Pipes, BOGD oo osiicdccvavecccccsascasvcesss 7, 8, 11 
+
+
+Group Advocates State Regulation of Credit Cards, 
+American Banker, p. 3 (July 29, 1987)............. 28 
+
+
+Legal Issues: It's Win One, Lose One for Card Lobby- 
+ists in 1994, Credit Card News (February 1, 
+
+
+BODE, ci cvsccccescécenctencncwstbangeceapevce svete 28 
+Mad As Hell About Late Fees, Business Week (Feb- 
+
+FURTY DO, TOUR 6 oc cdsccdcdscccedesccccescecccecess 28 
+Small States Teach a Big Banking Lesson, Chicago 
+
+el. A, DE, Dn cccavcccktesbsctounenecéss 12, 28 
+The Nilson Report, November 14, 1991.............. 13 
+
+
+INTEREST OF AMICUS! 
+
+
+Consumer Action is a non-profit, membership con- 
+sumer education and advocacy organization, based in San 
+Francisco, California. The organization was established 
+23 years ago and currently has more than 1400 members. 
+As a service to consumers and community organizations 
+in California and elsewhere, Consumer Action publishes 
+and distributes approximately 1 million pieces of litera- 
+ture per year, free of charge, in eight different languages, 
+on banking, credit and utility issues, including an annual 
+survey of bank credit card interest rates and fees. In 
+addition, the organization is a member of the Consumer 
+Federation of America, and is actively involved in policy 
+development, research, and legislative advocacy on credit 
+and banking issues on behalf of consumers at both the 
+state and national levels. 
+
+
+Consumer Action has a long-standing interest in this 
+litigation because the issue presented has profound sig- 
+nificance for consumers in California and throughout the 
+country. Consumer Action monitors the credit card indus- 
+try on behalf of its members and other consumers, and 
+advocates against excessive penalty fees imposed by 
+credit card issuers, and other unfair, deceptive or puni- 
+tive practices of card issuers that affect consumers. This 
+Court's reaffirmance that states have the right to legislate 
+consumer protections in the area of credit penalty fees is 
+vital to Consumer Action’s efforts to advocate on behalf 
+
+
+' Pursuant to Supreme Court Rule 37.2, copies of letters 
+expressing the written consent of the parties to the filing of this 
+brief on behalf of amicus curiae Consumer Action are filed 
+separately herewith. 
+
+
+of consumers at both the state and federal level. Accord- 
+ingly, Consumer Action submits this brief in support of 
+Appellant Smiley, and urges the Court to reverse the 
+decision below of the California Supreme Court. 
+
+
+o 
+
+
+INTRODUCTION 
+
+
+The issue presented for review in this Court is 
+whether Section 30 of the National Bank Act, 12 U.S.C. 
+§ 85, (hereinafter “section 85”) which allows national 
+banks to charge “interest at the rate allowed” “emphasis 
+added) by the state in which they are located, includes 
+within the term “interest . . . rate” credit card penalty 
+charges, in this case late fees, that are imposed for minor 
+breach of contract separate from and in addition to inter- 
+est, such that California’s regulation of such charges is 
+preempted for out-of-state national banks, including 
+Respondent Citibank, chartered in South Dakota. In par- 
+ticular, the issue is whether section 85 permits national 
+banks that choose to locate in “deregulated” states, such 
+as South Dakota, Ohio, and Delaware, states which have 
+revoked consumer protection statutes and created an 
+environment favorable to banking interests, to “export” 
+contingent penalty charges allowed in their home states 
+to consumer credit card customers solicited in other 
+states in which such charges are prohibited, or otherwise 
+limited or regulated, by common law or consumer protec- 
+tion statutes. 
+
+
+As will be addressed at length by petitioner Smiley, 
+penalty fees, including late payment fees and over-credit- 
+limit fees, are not “interest” under any mode of inter- 
+pretation, whether it be the plain and ordinary meaning 
+
+
+CUMMINS 
+
+
+3 
+
+
+of the term, or its historical or common law interpreta- 
+tion. Penalty fees are imposed upon a breach of the credit 
+card contracts for a deterrent or punitive purpose, and are 
+imposed entirely separate from and in addition to the already 
+substantial, and continually accruing, interest rate 
+charges. Nevertheless, in a sharply divided opinion 
+below, the majority of the California Supreme Court held 
+that the term “interest” could be construed broadly to 
+include late fees, and therefore section 85 preempts lim- 
+itations on credit card penalty fees applicable under Cali- 
+fornia law. Smiley v. Citibank, 11 Cal.4th 138, 44 
+Cal.Rptr.2d 441, 900 P.2d 690 (1995). Consumer Action 
+submits that the decision below is wrong, and should be 
+reversed by this Court. 
+
+
+« 
+
+
+SUMMARY OF ARGUMENT 
+
+
+As the Court reviews the legal issue presented in this 
+case, amicus Consumer Action respectfully suggests that 
+the Court should also consider the important economic 
+context in which the issue arises, and the serious negative 
+ramifications for consumers that are likely to result from 
+a ruling upholding the broad preemption analysis of the 
+California Supreme Court. In the lower courts in this 
+action, and in other actions around the country in which 
+the same preemption issue has been litigated, some banks 
+and their amici have implied that the underlying dispute 
+in the action is relatively unimportant because credit card 
+late payment fees are essentially de minimis charges that 
+have little or no real impact on “good” consumers. The 
+banks have also suggested that their profitability depends 
+on the imposition of late payment and other non-interest 
+fees, and therefore a decision in favor of the banks is 
+
+
+necessary to protect them from economic harm. As will 
+be discussed in this brief, both of these notions are belied 
+by the economics of the credit card industry, including its 
+increasing dominance in the consumer economy and its 
+extraordinary profitability, and the true cost to consumers 
+of increasingly excessive penalty fees. 
+
+
+Moreover, the issue presented in this case is not 
+simply about credit card late fees; rather it is fundamen- 
+tally about the right of the states to legislate on behalf of 
+consumers on banking issues, a power traditionally 
+reserved to the states, and to enforce such duly-enacted 
+consumer protection statutes against all banks, whether 
+national or state-chartered, that choose to solicit and to 
+profit from the state’s consumers. This Court's resolution 
+of the preemption issue will not only impact on the 
+ability of the states to protect consumers from excessive 
+and unfair credit card penalty fees, but will also have an 
+impact on many other consumer credit card and banking 
+practices in which the states have, or may in the future, 
+legislate protections on behalf of consumers. Accordingly, 
+for the reasons set forth below, Consumer Action respect- 
+fully urges the Court to reverse the decision of the Cali- 
+fornia Supreme Court, and to reaffirm that states have the 
+power to enforce their duly-enacted consumer protection 
+statutes regulating credit card penalty charges. 
+
+
+SI 
+
+
+ARGUMENT 
+
+
+I. THE NATURE OF THE CREDIT CARD INDUSTRY 
+DEMONSTRATES THE IMPORTANCE OF STATE 
+CONSUMER PROTECTION LEGISLATION REGU- 
+LATING PENALTY CHARGES. 
+
+
+As is addressed below, there are at least five salient 
+facts about the credit card industry in the United States 
+that are relevant to the issue presented in this case, and 
+that should provide a important factual context for the 
+Court’s consideration of the legal issue presented. 
+
+
+1. The credit card industry has grown exponentially in 
+the past 15 years in every measurable aspect, including the 
+number of consumers holding credit cards; the number of 
+credit cards held by the average consumer; the number of 
+credit card transactions made each year; and the total 
+amount of credit card debt carried by American con- 
+sumers. 
+
+
+2. Although there are thousands of credit card 
+issuers, the industry is dominated by a relatively small 
+number of mega-issuers located ir small, deregulated states, 
+such as South Dakota, Delaware, and Ohio. 
+
+
+3. The credit card industry is phenomenally profitable, 
+far more so than any other aspect of the banking industry, 
+and has been consistently for at least the past ten years. 
+
+
+4. Although the credit card industry often is charac- 
+terized as “highly competitive,” competition among issuers 
+generally has focused on non-pricing terms. With the excep- 
+tion of recent “teaser rate” offers, which revert to the 
+traditional high rates after a specified period, credit card 
+
+
+interest rates have been extremely resistant to competi- 
+tion. There is no evidence of competitive forces at work in 
+the area of penalty charges. 
+
+
+5. Led by the major banks located in deregulated 
+states, credit card issuers have substantially increased their 
+penalty fees in recent years, including late and over-credit- 
+limit charges, bringing the fees to average levels of $18 to 
+$20 or more, and resulting in a total annual cost to 
+consumers of approximately $2 billion. 
+
+
+It is within this economic context that a conflict has 
+arisen between states’ attempts to enact protections for 
+consumer credit card users, and the mega-issuers 
+attempts to invoke the cloak of federal preemption. 
+
+
+A. The Credit Card Industry Has Grown Exponen- 
+tially in the Past Fifteen Years and Has Become 
+an Increasingly Dominant Force in the Lives of 
+American Consumers. 
+
+
+Statistics from a variety of sources demonstrate the 
+increasing dominance of credit cards in the United States 
+consumer economy. In general, the industry’s startling 
+growth curve over the past fifteen years is evidenced by: 
+(1) a five-fold increase in the volume of charges during 
+the 1980's, (2) a doubling in the number of major credit 
+cards in circulation, and (3) a tripling of the average debt 
+owed by consumers per card. 
+
+
+According to a comprehensive statistical summary 
+published annually by Credit Card Management, out- 
+standing balances on bank credit cards increased by more 
+than 560 percent from 1981 to 1990, growing from $31.8 
+billion in 1981 to $180.5 billion in 1990. See Credit Card 
+
+
+Management, Card Industry Directory: The Blue Book of the 
+Credit and Debit Card Industry in the United States (1992 
+Edition), at 26. During that same time, the charge volume 
+(total dollar amount charged per year) increased on Visa 
+cards from $33 billion to $158.1 billion, and on Master- 
+cards from $26.1 billion to $93.1 billion. Id. at 24. These 
+increases represented an average annual growth in Visa 
+and Mastercard outstanding balances of 23 and 21 per- 
+cent, respectively. See Paul S. Calem, The Strange Behavior 
+of the Credit Card Market, Federal Reserve Bank of Phila- 
+delphia Business Review, January/February 1992, at 6. By 
+1994, the outstanding balances on Visa and Mastercards 
+had reached a record $256 billion,. tepreseni.ng yet 
+another increase of at least 24 percent over the previous 
+year. See Kelley Holland & Richard Melcher, Plastic: Are 
+Banks Over Their Limit?, Business Week, March 6, 1995, at 
+92. By the end of 1995, outstanding credit card balances 
+had increased again by 19 percent, reaching a total of 
+more than $305 billion. Saul Hansell, A Shaky House of 
+Plastic With No Quick Fix in Sight, New York Times, 
+December 28, 1995, at C1. 
+
+
+In 1984, there were approximately 157 million major 
+
+
+credit cards in use in the United States. By 1993, that 
+
+
+number had risen to an estimated 331 million. The Global 
+Growth of Credit Cards, The Futurist, Sept/Oct, 1995, at 
+53-54. Recent statistics indicate the average cardholder 
+has been adding about one credit card per year, and in 
+1994, used about 10 different bank, gas and store cards. 
+See Linda Stern, Credit Card Crunch, Newsweek, February 
+13, 1995, at 54. Another publication has reported that the 
+average cardholder now carries nine different cards, con- 
+tributing to the more than one billion credit cards of all 
+types currently in circulation in the United States. The 
+
+
+Global Growth of Credit Cards, supra, The Futurist, supra, at 
+54. 
+
+
+The amount of credit card debt carried by consumers 
+also has increased sharply in recent years. Between 1982 
+and 1989, the average balance carried by consumers in 
+active credit card accounts increased annually at an aver- 
+age rate of 10 percent, climbing to about $1300 at the end 
+of 1989. Calem, supra, at 6. In only ten years, the average 
+outstanding balance owed to Visa and Mastercard 
+increased from less than $400 per card in the early 1980s, 
+to almost $1,100 per card in 1993. Global Growth of Credit 
+Cards, supra, at 54. Other statistics suggest that the aver- 
+age balance now owed on credit cards has risen to more 
+than $1,700. Stern, supra, Credit Card Crunch, at 54. 
+
+
+These statistics demonstrate three important trends 
+in consumer use of credit cards in the past fifteen years. 
+See The Big Squeeze, The Economist, November 2, 1991, at 
+13. First, more people than ever before have become 
+credit cardholders, including millions of consumers in 
+lower income brackets, and other categories formerly 
+considered too risky by card issuers. See Hansell, A Shaky 
+House of Plastic, supra, at C1 (card issuers are aggressively 
+seeking customers who would have been seen as too 
+risky before); Global Growth of Credit Cards, supra, 
+(approximately 82 percent of full-time college students 
+have credit cards as a result of aggressive marketing).? 
+
+
+2 See also United States General Accounting Office, Report 
+to Congressional Requesters, U.S. Credit Card Industry: 
+Competitive Developments Need to be Closely Monitored, April 
+1994, at 13, (hereinafter “1994 GAO Report”), which reported 
+that “(higher credit card interest rates enabled issuers to offer 
+cards to riskier customers who previously may not have 
+
+
+Second, consumers now use credit cards much more often 
+than in the past (this is represented by the increase in 
+charge volume). The average household charged $885 per 
+year at the beginning of the 1980s, by 1990, the average 
+household was charging approximately $3,753 per year. 
+The Big Squeeze, supra, at 13. Credit cards are now a 
+necessity for many transactions, including car rentals, 
+ticket purchases, and hotel reservations, and can be used 
+in virtually all stores and restaurants, as well as most 
+supermarkets, movie theaters, gas stations, and fast food 
+chains.3 
+
+
+The third trend is the increasing debt carried by 
+consumers on their credit cards. In 1980, a typical card- 
+holder owed approximately $350 total debt on all of his 
+or her credit cards; by 1990, that figure had increased to 
+an average of $2,350. The Big Squeeze, supra, at 13. Ibid. By 
+the end of 1995, it was estimated that the average total 
+credit card debt per household exceeded $3,000. Hansell, 
+supra, A Shaky House of Plastic, December 28, 1995, at C1. 
+
+
+This ballooning increase in the number of credit 
+cards and the amount of credit card debt carried by 
+consumers is not simply the product of unrestrained 
+
+
+qualified . . . Data also indicate that the percentage of 
+households with at least one credit card account increased in all 
+income groups.” The Report showed significant increases in the 
+lower income brackets, including households with less than 
+$10,000 in annual income, and those with $10,000 to $19,999 in 
+annual income. 
+
+
+* In light of the fact that credit cards are now required for 
+many transactions, consumers are far more likely to choose a 
+card based on its degree of acceptance and level of service, 
+rather than, as is discussed in Section D below, the penalty fees 
+that might be imposed in the event of breach. 
+
+
+10 
+
+
+spending by consumers. Rather, the increase is largely the 
+result of a deliberate strategy and massive effort on the 
+part of credit card issuers to solicit more customers, and 
+to encourage higher borrowing by raising credit limits. 
+As will be discussed below, credit card operations are 
+extremely profitable, more so than almost any other sec- 
+tor of the financial industry, leading many issuers to 
+pursue aggressive expansion programs.‘ The New York 
+Times reported in December, 1995, that credit card com- 
+panies sent out nearly 2.7 billion solicitations in 1995, 
+with most households receiving three or four each month. 
+See Hansell, supra, at C1. It is important to note in this 
+respect that because the primary source of profit in the 
+industry is annual percentage rate (APR) revenue, the 
+most profitable, and therefore most desirable, customers 
+are the higher risk “borrowers,” i.e., those who carry a 
+high balance, and not the “convenience users,” i.e., those 
+who pay off their balance every month. See e.g. Lawrence 
+Ausubel, The Failure of Competition in the Credit Card Mar- 
+ket, The American Economic Review, March 1991, at 
+70-71; A Credit Card Conundrum, Business Week, January 
+16, 1995, at 24. Indeed, the safe, low-risk convenience 
+users are considered “dead weight” in the industry. Mar- 
+garet Mannix, When Credit Turns Painful, U.S. News 
+& World Report, November 27, 1995, at 88.5 
+
+
+* See discussion infra. See also e.g. Penny Lunt, Lean and 
+Mean is the Name of the Game, ABA Banking Journal, March 1995, 
+at 43; Peter Passell, A Mystery Bankers Love: How Do Credit Cards 
+Stay So Profitable? The New York Times, August 17, 1995, at D2. 
+
+
+5 Mannix reports that it is a growing practice in the 
+industry for card issuers to dump cardholders who pay off their 
+balance in full each month or who do not use their card enough. 
+Some issuers have also eliminated the “grace period” for 
+convenience users. Mannix, supra, November 27, 1995, at 88-89. 
+
+
+11 
+
+
+Because of this peculiar characteristic of the industry, 
+card issuers aggressively encourage increased borrowing 
+by cardholders, assuming the risks in pursuit of the 
+profits. 
+
+
+One final trend that has resulted from the phenome- 
+nal growth in the use and prevalence of consumer credit 
+cards, and the aggressive marketing by issuers, is that 
+more consumers than ever before are encountering diffi- 
+culty in meeting their minimum repayment obligations. 
+The delinquency rate in 1990 was 27 percent higher than 
+in 1985, a factor that cannot be attributed solely to reces- 
+sionary forces. See Global Growth of Credit Cards, supra, at 
+54. Some experts have predicted that delinquencies will 
+rise significantly in the next several years as consumers 
+become unable to repay balances on the numerous cards 
+pushed on them since in the early 1990's. See Holland & 
+Melcher, supra, at 92. The New York Times reported in 
+December, 1995, that the number of consumers seeking 
+help from credit counselors in repaying credit card bills 
+has reached record levels. Hansell, supra, The New York 
+Times, December 28, 1995, at C1. 
+
+
+This increasing dominance of credit cards in the con- 
+sumer economy, and its significant effect on consumers 
+carrying ever higher levels of debt, demonstrates the 
+importance of the states’ ability to legislate against 
+abuses and overreaching by the industry in the area of 
+non-interest penalty fees. 
+
+
+12 
+
+
+B. The Credit Card Industry Is Dominated by 
+Major Issuers Located in Small Deregulated 
+States. 
+
+
+The enforcement of state consumer protection stat- 
+utes is particularly important in light of the increasing 
+concentration of major credit card issuers in a few small, 
+deregulated states. Although there are more than 6000 
+issuers of credit cards in the United States industry, (see 
+1994 GAO Report, supra, at 2), the market is dominated 
+by a relatively small number of mega-issuers. In fact, the 
+ten largest issuers (measured by total outstandings) con- 
+trol more than 55 percent of the total market, and the top 
+25 issuers control more than 75 percent of the market. See 
+Card Industry Directory, supra, 1993 ed., at 33, 66. Respon- 
+dent Citibank, the single largest issuer in the country, is 
+located in South Dakota. Six of the remaining top ten 
+issuers, are located in Delaware. 
+
+
+South Dakota and Delaware, and a handful of other 
+“deregulated” states, have undertaken a deliberate strat- 
+egy to attract large credit card operations by creating an 
+extremely favorable regulatory environment. See Small 
+States Teach a Big Banking Lesson, Chicago Fed. Letter, 
+June, 1986. In the early 1980's, these two states repealed 
+consumer protection statutes that regulated consumer 
+lending, passed laws favorable to banking interests, and 
+undertook an aggressive campaign to entice credit card 
+issuers to relocate from other states. Id. The strategy has 
+been highly successful. Id. Unfortunately, the actions of 
+the deregulated states have also had a significant detri- 
+mental impact on consumers residing in other states 
+throughout the country. While the issue of exportation of 
+penalty fees that is currently pending before this Court 
+has remained unresolved, the major issuers located in 
+
+
+13 
+
+
+deregulated states have routinely exported excessive pen- 
+alty charges and other fees unregulated by their home 
+state to consumers residing in other states. In 1993, late 
+payment and overlimit penalty fees cost consumers 
+throughout the country more than $1.9 billion. See The 
+Card Industry Rides a Wave of Profitability, Credit Card 
+News, April 1, 1994, at 2. 
+
+
+C. The Credit Card Industry Is Extraordinarily 
+Profitable. 
+
+
+A 1995 publication characterized the credit card busi- 
+ness as “about the most profitable in the financial indus- 
+try,” and reported that in 1994, the average credit card 
+portfolio generated a 4 percent return on assets, a 60 basis 
+point improvement since 1992. “A look at the most prof- 
+itable bank credit card subsidiaries in 1994 shows ROAs 
+[return on assets] as high as 11%, 7.7% and 6%.” Lunt, 
+supra, Lean and Mean is the Name of the Game, ABA Bank- 
+ing Journal, March 1995, at 43. (emphasis in original) In 
+August, 1995, The New York Times reported that in 1994, 
+eight of the top nine commercial banks, ranked by return 
+on assets, specialized in credit card loans. Passell, supra, 
+A Mystery Bankers Love, at D2. In 1993, the credit card 
+industry earned more than $4.4 billion in after-tax profits, 
+continuing a string of several years of annual profits in 
+the $3.5-$4.5 billion range. See The Card Industry Rides a 
+Wave of Profitability, supra, Credit Card News, April 1, 
+1994, at 1; The Nilson Report, November 14, 1991, at 1. 
+
+
+Credit card profits are extraordinary even in the 
+banking industry. In a much-cited 1991 study and article, 
+Lawrence M. Ausubel, then Professor of Economics 
+at Northwestern University (currently Professor of 
+
+
+14 
+
+
+Economics at the University of Maryland), demonstrated 
+that banks consistently earn profits on their credit card 
+operations three to five times greater than the ordinary 
+rate of return for the banking industry as a whole. See 
+Ausubel, supra, The Failure of Competition in the Credit Card 
+Market, at 50 (hereinafter “Ausubel, 1991”).° 
+
+
+The 1994 GAO Report on the credit card industry not 
+only confirms Ausubel’s findings on the extraordinary 
+profitability of the industry through the 1980's, but also 
+documents that, after a very slight dip in 1991 at the 
+height of the recession, the industry continued to earn 
+very high profits through 1993. The Report notes that, 
+between 1983 and 1990, Visa and Mastercard issuers’ 
+earnings averaged 4.68 percent of outstanding balances, a 
+reliable measure of return on assets for credit card opera- 
+tions, while the overall earnings of banks in general 
+averaged just .57 percent of assets. 1994 GAO Report, 
+supra, at 19. 
+
+
+Although some aspects of Ausubel’s analysis have 
+been controversial, particularly his conclusions regarding 
+the failure of the competitive model in the industry 
+(addressed in the following section), the consistently 
+supernormal profitability of the credit card industry has 
+been confirmed in numerous publications over the past 
+several years, and cannot be disputed. See e.g. Passell, 
+supra, A Mystery Bankers Love, The New York Times, 
+August 17, 1995, at D2; Lunt, supra, at 43; Credit Card 
+Rides a Wave of Profitability, supra, at 1. 
+
+
+© Ausubel recently reaffirmed these findings in The Credit 
+Card Market Revisited, November, 1994 (unpublished paper), 
+which was presented to the National Bureau of Economic 
+Research in July, 1995 (hereinafter referred to as “Ausubel, 1994 
+
+
+Paper”). 
+
+
+15 
+
+
+D. The Credit Card Industry is Extremely Re- 
+sistant to Competition on Fundamental Pricing 
+Terms. 
+
+
+A number of explanations have been offered for the 
+high rate of profitability in the industry. It is clear, how- 
+ever, that one of the primary reasons is that, for the most 
+part, the credit card industry has been extremely resistant 
+to competition on long-term annual interest rates and 
+other non-interest fees, including penalty charges. As a 
+result, interest rates and other fees charged to consumer 
+cardholders have remained very high even as the cost of 
+funds for issuing banks has fluctuated over the years, and 
+card issuers have amassed huge profits. In its 1994 Report 
+on the industry, the GAO released statistics showing that, 
+except for a slight dip in 1992 and 1993, average credit 
+card interest rates have remained virtually constant at 
+approximately eighteen percent for the past twenty years, 
+with even higher rates charged by some major issuers.” 
+During this same time, the interest rates at which issuing 
+banks could borrow funds (a measure of lending costs) 
+fluctuated regularly, plunging to between five and six 
+
+
+7 More recent data indicate that the slight drop in average 
+interest rates in 1992 and 1993 was temporary, and that rates 
+increased again in 1994. The Wall Street Journal reported in 
+January, 1995 that “[i]nterest rates on credit card purchases now 
+average about 17.7%, up from 16.65% last spring. With some 
+economists expecting the Fed to raise rates again this year, ‘(t]he 
+scenario is set for rates to actually exceed what they were in the 
+1980's.” Nancy Ann Jeffrey, Fees on Variable-Rate Credit Cards 
+Rise, Wall Street Journal, January 5, 1995, at C1, quoting Robert 
+McKinley, President of RAM Research Corp., a Frederick, 
+Maryland firm that tracks the bank card industry. 
+
+
+16 
+
+
+percent in the early 1990's. 1994 GAO Report, supra, 
+Figure 1.2, at 16. 
+
+
+It has been documented that interest rates on credit 
+cards have remained artificially elevated because issuing 
+banks strenuously resist market competition on the basis 
+of long-term interest rates or other significant pricing 
+terms. Thus, although the industry likes to characterize 
+itself as fiercely competitive, that competition focuses 
+primarily on non-price terms, such as service, advertis- 
+ing, affinity programs, benefits, rebates, and other perks, 
+and rarely reaches to the key pricing terms such as 
+annual interest rates. See Ausubel, 1991, supra, at 53; 
+Calem, supra, at 9. 
+
+
+Two recent industry trends appear, at least super- 
+ficially, to indicate a slight break in this historical resis- 
+tance to price competition. The first is the increase in the 
+number of cards with variable rates; and the second is the 
+recent “teaser rate” war among issuers. As late as 1991, 
+only one-third of credit cards had a variable interest rate; 
+today more than 70 percent of credit cards have variable 
+rates. See e.g. Jeffrey, supra, at C1; Lunt, supra, at 43. When 
+the variable rate cards were first issued, (largely in 
+response to Congressional threats to impose caps on 
+excessive credit card interest rates), they resulted in a 
+decline in the “average most common interest rate” from 
+18.23% in 1991, to 17.76% in 1992, to 16.83% in 1993. See 
+1994 GAO Report, supra, at 15-18. In 1994 and 1995, 
+however, these variable rates climbed again as the prime 
+rate increased, bringing many consumers’ rates back to 
+the 18 to 20 percent range. 
+
+
+Similarly, in the past year, many card issuers have 
+attempted to lure customers by offering an initial low 
+
+
+17 
+
+
+“teaser rate” that reverts to a much higher rate within a 
+specified period, typically from three to six months. See 
+Lunt, supra, at 45; Holland & Melcher, supra, at 92. Amicus 
+Consumer Action regularly monitors developments in the 
+credit card industry and publishes an annual survey of 
+credit card terms. In its 1995 survey, the organization 
+concluded that the prevalence of low teaser rates offered 
+as bait to consumers is actually obscuring the consider- 
+able jump in average rates that occurred between 1994 
+and 1995. Linda Sherry, High Rates Obscured by “Teaser” ~ 
+Come-ons, Consumer Action News, March/April 1995, at 
+1. The survey also found that many of the teaser rates 
+revert to “shockingly high” rates after the initial grace 
+period. Thus, the variable-rate and teaser-rate trends in 
+the industry represent nothing more than superficial 
+competition and marketing strategies that have no signif- 
+icant impact on the long-term interest rates that con- 
+sumers pay. 
+
+
+The significance of the industry’s resistance to com- 
+petition on interest rates is three-fold. First, it under- 
+scores the long-term profitability of the industry which is 
+linked to the high interest rates issuers are able to main- 
+tain in the marketplace. Second, it highlights the fact that, 
+for a variety of reasons unique to the industry, the exer- 
+cise of consumer choice apparently has little effect on 
+interest rates or other fees.* And third, the lack of compe- 
+tition on pricing terms is particularly applicable to non- 
+interest penalty fees. Because most cardholders do not 
+
+
+® For discussions of these barriers to competition in the 
+marketplace, see e.g. Ausubel 1991, supra, 68-72; Ausubel 1994, 
+supra, at 22-27; Calem, supra, 11-3; 1994 GAO Report, supra, 
+37-39. 
+
+
+18 
+
+
+intend, at the time they accept a card, to make late 
+payments or to exceed their credit limit - minor breaches 
+which, in most cases, result from either simple inattention 
+or circumstances beyond the cardholder’s control — con- 
+sumers do not choose a card based on the amount of penalty 
+fees charged by the issuer. As a result, there is no competi- 
+tive incentive for issuers to charge lower penalty fees. 
+Indeed, to do so would attract precisely the kind of 
+cardholder they wish to avoid — the user who anticipates 
+paying such fees at some point in the future.’ As is 
+discussed in the following, section, this lack of market 
+control has caused penalty fees to rise sharply in recent 
+years, and further highlights the need for state regula- 
+tion. 
+
+
+E. Lack of Regulation or Pricing Competition Has 
+Led to Substantial Increases in Penalty Fees 
+and Other Punitive Practices in Recent Years. 
+
+
+In the absence of regulatory and competitive 
+restraints, and led by the banks located in deregulated 
+states, card issuers have steadily increased their penalty 
+fees in recent years. According to Consumer Action’s 
+1995 Credit Card Survey, late fees are now almost univer- 
+sal among card issuers, whereas ten years ago, only about 
+half of the card issuers charged a late or overlimit fee. See 
+Stewart, How Penalty Fees Are Rewarding Banks, Credit 
+
+
+® See e.g., Credit Card Conundrum, supra, at 24 (“It may well 
+be that the economics of price-cutting backfire in the credit card 
+business. Companies choosing new customers with low rates 
+simply lose profits . . . [because] the customers most likely to 
+switch because of a rate cut are the riskier ones”). See also 
+Ausubel, 1991, at 70; 1994 GAO Report, at 34. 
+
+
+— ——— 
+
+
+19 
+
+
+Card Management, November 1991, at 39-40. Signifi- 
+cantly, the size of the charges also has increased sharply 
+in recent years. The average late fee for a regular Visa 
+card shot up 22 percent, from $6.56 in 1987 to $8.03 in 
+1989, while the average overlimit charge at the end of 
+1989 was $11. Id. By 1995, the average late fee was up to 
+$15, and most major banks were charging $18 or $20. 
+Mannix, supra, When Credit Turns Painful, at 88. 
+
+
+Equally important, card issuers have begun imposing 
+the fees more aggressively and in situations that appear 
+patently unreasonable or unfair. According to a recent 
+report: 
+
+
+[Card issuers] used to give cardholders 10 days 
+to get a payment in before slapping on a late fee. 
+Now issuers will impose the fee any time the 
+payment hasn’t arrived by the due date -evenif , 
+it’s just one day late. . . . Issuers are also becom- 
+ing less tolerant of trivial violations of the credit 
+ceiling. If a cardholder went 10 or 20 percent 
+over the credit line, the issuer used to look the 
+other way. Now some issuers wallop card- 
+holders who exceed the limit by a mere dollar. 
+
+
+Mannix, supra, at 88. The same article reported that card 
+issuers are also beginning to engage in other punitive 
+practices as a way of boosting profits. For example, many 
+issuers now sharply increase a cardholder’s interest rate 
+if he or she makes only a single late payment, or other- 
+wise “fails to meet the [undefined] requirements” of the 
+card agreement. Other issuers have begun reviewing 
+their cardholder's credit reports every six months. If an 
+increase in “risk” is detected, which may be construed as 
+nothing more than the act of applying for a car loan, the 
+cardholder's interest rate is jacked up significantly, even 
+
+
+20 
+
+
+if the cardholder has an impeccable record with the 
+issuer. Id. at 87-88. 
+
+
+Although issuers claim penalty fees are necessary to 
+recover costs caused by delinquent borrowers, penalty 
+fees are, in reality, a significant profit source. According 
+to an industry publication, penalty fees “represent a sig- 
+nificant revenue opportunity” that far exceeds any 
+increased costs to issuers caused by late payments or 
+overlimit charges. 
+
+
+Some issuers argue they make the charges to 
+cover extra costs incurred. But Auriemma Con- 
+sulting Group Inc. looked at a broad range of 
+nuisance fees — tariffs for card replacement and 
+extra copies of statements as well as late pay- 
+ment, bounced checks and exceeding credit 
+limits — and concluded they account for at least 
+60 basis points of the average bank card return 
+on assets, up from around 30 points a few years 
+ago. 
+
+
+See Stewart, supra, at 39-43. 
+
+
+It is well-known in the industry that the vast majority 
+(75 percent or more) of consumers who miss a payment 
+due date, make the payment before the next billing cycle. 
+Thus, most consumers who are charged a late fee do not 
+“default” in the sense that they fail to repay their debt. 
+Rather, for any variety of reasons (e.g., extended vaca- 
+tion, sudden absence from home for family, work or 
+medical reasons, temporary financial misfortune, etc.), 
+these consumers simply fail to mail in a minimum pay- 
+ment by the due date. As such, for most of these con- 
+sumers, the card issuer incurs little or no increased cost. 
+
+
+—— 
+
+
+21 
+
+
+These consumers do not cause, and should not be sad- 
+dled with, the card issuer’s entire cost of defaulting card- 
+holders, i.e. those cardholders who never repay their 
+debt.'° On the contrary, the risks and costs of default that 
+are inherent in the credit card industry are reflected in 
+the higher interest rates charged for unsecured borrow- 
+ing; late payment and other penalty fees are essentially 
+double-billing for the same risk. 
+
+
+While card issuers might reasonably impose a small 
+late charge on cardholders for whom there is actually 
+some form of increased collection activity as a result of a 
+seriously delinquent payment or substantial over-credit- 
+limit borrowing, the $18-$20 late fees and $20-$25 over- 
+limit fees currently imposed by most major issuers bear 
+no relationship whatsoever to actual costs associated with 
+simple overdue payments or overlimit charges. The fees 
+are fixed at an amount intended to deter and to punish 
+minor breaches, while at the same time generating the 
+greatest possible profit without triggering consumer 
+
+
+10 The importance of this distinction is demonstrated by 
+Justice Mosk’s erroneous contention in the decision below that, 
+as a matter of public policy, “late payment fees may be 
+employed to impose default costs on late payers, who are 
+responsible for them, . ..” Smiley, supra, 11 Cal.4th at 161. While 
+some late payers obviously do, in fact, default in repaying their 
+debt, most commit only the minor offense of missing a single 
+due date. If late payment fees are-sanctioned as a legitimate 
+attempt by issuers to recover the costs of defaulting 
+cardholders, then cardholders who do nothing more than pay 
+their bill a few days late are being unfairly allocated the costs of 
+cardholders who never repay. Ultimately, however, the issue of 
+whether credit card late fees are good or bad as a matter of 
+public policy is an issue for state legislators; it is not an issue to 
+be resolved by judicial expansion of section 85. 
+
+
+22 
+
+
+backlash. Such fees are entirely unrelated to the amount 
+of the overdue payment or overlimit charge, the degree of 
+delinquency, if any, or the cardholder’s payment his- 
+tory."' Unless states are allowed to enforce consumer 
+protections in this area, card issuers located in deregu- 
+lated states will continue to export excessive, unnecess- 
+ary, and even abusive penalty fees to consumers 
+throughout the country. 
+
+
+Il. THE COURT’S RESOLUTION OF THE IMPOR- 
+TANT PREEMPTION ISSUE IN THIS CASE 
+COULD HAVE SIGNIFICANT IMPACT ON STATE 
+CONSUMER PROTECTION EFFORTS. 
+
+
+A. Federal Preemption of State Consumer Protec- 
+tion Statutes Should Be Narrowly Construed. 
+
+
+It is well-established that consumer protection is one 
+of the “historic police powers of the States.” See e.g. 
+California v. ARC America Corp., 490 U.S. 93, 101 (1989); 
+
+
+'t Consumer litigation filed against banks in California has 
+confirmed that the penalty fees imposed by card issuers are 
+generally far in excess of any increased costs incurred as the 
+result of late payments or other cardholder breaches. In Beasley 
+v. Wells Fargo Bank, N.A., 235 Cal.App.3d 1383, 1 Cal.Rptr.2d 446, 
+rev. denied (1991), a jury awarded, and the Court of Appeal 
+affirmed, $5.2 million in refunds for late and overlimit fees the 
+bank had collected in excess of its actual damages resulting 
+from breach. In a separate action against First Interstate Bank of 
+California, tried in 1992, the class recovered approximately $5 
+million in excess fees. See Hitz v. First Interstate Bank of 
+California, 38 Cal.App.4th 274, 44 Cal.Rptr.2d 890, rev. denied 
+(1995). Moreover, the $3 to $5 late fees and $10 overlimit fees 
+proven excessive in these actions were significantly lower than 
+the $18-$20 late and overlimit fees currentiy charged by most 
+major issuers. 
+
+
+ee 
+
+
+23 
+
+
+Lewis v. BT Investment Managers, Inc., 447 U.S. 27, 38 
+(1980); Perdue v. Crocker National Bank, 38 Cal.3d 913, 216 
+Cal.Rptr. 345, 702 P.2d 503, 520 (Cal. 1985), appeal dis- 
+missed, 475 U.S. 1001 (1986). It also has long been recog- 
+nized, and reaffirmed by this Court on numerous 
+occasions, that states have the power to regulate banking 
+practices, including the practices of nationally-chartered 
+and interstate banks, for the protection of consumers or 
+other purposes. See Lewis v. BT Investment Managers, 
+supra, 447 U.S. at 38 (“both as a matter of history and as a 
+matter of present reality, banking and related financial 
+activities are of profound local concern”); Anderson Nat'l 
+Bank v. Luckett, 321 U.S. 233, 248 (1944) (“[n]ational banks 
+are subject to state laws, unless those laws infringe the 
+national banking laws or impose an undue burden on the 
+performance of the banks’ functions.”). See also Perdue v. 
+Crocker National Bank, supra, 702 P.2d at 520-21 (national 
+banks are subject to both federal and state regulation, and 
+are generally governed more by state law than by federal 
+law in their day to day operations, except when there is 
+an express conflict). 
+
+
+Thus, it is clear that states have the power to regulate 
+the activities of national banks for the protection of con- 
+sumers. As such, this Court has repeatedly emphasized 
+that “ ‘the historic police powers of the States [are] not to be 
+superseded by . . . Federal Act unless that [is] the clear and 
+manifest purpose of Congress.’” See Cippollone v. Liggett 
+Group, Inc., 505 U.S. 504, 516 (1992), (emphasis added) 
+and cases cited therein. Accordingly, preemption provi- 
+sions must be construed narrowly “in light of the pre- 
+sumption against the preemption of state police power 
+regulations. This presumption reinforces the appropriate- 
+ness of a narrow reading of [the express preemption 
+provision].” Id. at 518. 
+
+
+24 
+
+
+In this action, the court below essentially disregarded 
+this fundamental principle of limited federal preemption, 
+paying lip service to the applicable authorities, but then 
+engaging in precisely the kind of broad construction and 
+implied preemption analysis that is specifically prohib- 
+ited. This fatal flaw in the majority’s decision was empha- 
+sized by Justice Arabian in his dissent, in which he 
+observed that the majority adopted an “expansive defini- 
+tion” of interest, “not because of any evidence that Con- 
+gress actually had such an idea in mind when it enacted 
+the National Bank Act, but because of the majority’s own 
+theory about the state of American banking at the time.” 
+Smiley v. Citibank, supra, 11 Cal.4th at 166 (Arabian Dis- 
+sent) (emphasis in original). Justice Arabian went on to 
+demonstrate not only that the majority’s expansive inter- 
+pretation of the term “interest” was insupportable as both 
+a matter of law and history, but also that the majority's 
+entire theory about the purpose of the National Bank Act 
+was incorrect and based on historical inaccuracies. Id., 11 
+Cal.4th at 167-172. Chastising the majority for abandon- 
+ing the concept of limited federal preemption, Justice 
+Arabian quoted from another court that rejected preemp- 
+tion under the same circumstances: “ ‘a proposition that 
+is not obvious from the plain meaning of a statute's 
+language, nor from its legislative history, simply cannot 
+be regarded as a clear manifestation of congressional 
+intent.” Id. at 4, quoting Copeland v. MBNA America, N.A., 
+supra, 820 F.Supp. at 541.!2 
+
+
+'2 Under the applicable authorities of this Court, as 
+acknowledged by Justice Arabian in his dissent, if statutory 
+language is unclear, the interpretation must be narrow and the 
+construction limited, such that any aspect of preemption not 
+specifically included must be rejected. The majority below did 
+
+
+25 
+
+
+B. A Finding of Broad Preemption in this Case 
+Could Hinder Consumer Protection Efforts in 
+Other Important Areas. 
+
+
+If this Court affirms the broad preemption analysis of 
+the majority below, the ruling could have a significant 
+negative impact on state consumer protection legislation 
+in the consumer banking area. The preemption issue in 
+this case is not simply about the amount of late payment 
+and overlimit fees that may be exported by national 
+credit card banks located in deregulated states; it is also 
+about the manner and circumstances under which the fees 
+may be imposed, and whether other non-interest rate fees 
+and practices may be regulated by the states. In the 
+absence of regulation in their home states, many issuers 
+now impose a substantial late fee even if a cardholder's 
+payment is only one day late, through no fault of the 
+consumer. Others repeatedly increase the cardholders’ 
+credit limits, approve overlimit charges at the point of sale, 
+and then hit consumers with a $20 overlimit fee even if 
+they exceed their limit by only a few dollars. California 
+and a number of other states have found these practices, 
+as well as the amount of the penalty fees, to be unfair to 
+consumers, and have chosen to enact protections. These 
+state consumer protection efforts should not be blocked 
+by other states’ cynical re-definitions of the term “inter- 
+est.” Moreover, if this Court interprets section 85 broadly, 
+declaring late payment fees to be “interest,” credit card 
+
+
+exactly the opposite. It conceded that the statute was unclear, 
+but then interpreted it expansively, finding that the statute 
+preempted late charges not because they were specifically 
+included in section 85, but because they were not specifically 
+excluded. 
+
+
+26 
+
+
+issuers located in deregulated states are likely to assert 
+that any number of other fees and charges, including 
+annual fees, returned check fees, collection costs, and 
+attorneys’ fees, are also “interest” exempt from any state 
+consumer protection regu! ation. 
+
+
+This Court's decision is also likely to have a signifi- 
+cant impact in other areas in which states’ attempts to 
+regulate consumer banking practices may encounter 
+claims of federal preemption. For example, there is likely 
+to be spillover effect in the area of state “lifeline” banking 
+laws. Increasing bank fees for checking accounts have 
+priced many lower income consumers out of the feder- 
+ally-insured banking system. In the absence of national 
+legislation requiring banks to offer low-cost checking 
+accounts to consumers, several states have considered 
+state “lifeline” laws. New Jersey passed such a law in 
+1991; New York followed in 1994. Maryland currently has 
+such legislation under consideration. Amicus Consumer 
+
+ction endorses these state legislative efforts on behalf of 
+low-income consumers. 
+
+
+In 1992, however, the Office of the Comptroller of the 
+Currency (OCC) issued a determination asserting that 
+New Jersey's Consumer Checking Account Act was pre- 
+empted by federal banking statutes, specifically the 1991 
+Bank Enterprise Act, which had established a system for 
+supporting voluntary “lifeline” accounts, but did not 
+require national banks to provide such accounts. There 
+was considerable opposition to the OCC’s determination. 
+As a result, the OCC recently issued a new Federal Regis- 
+ter Notice, 61 Fed.Reg. 4515 (February 6, 1996), seeking 
+comment on the request of the New Jersey Department of 
+
+
+27 
+
+
+Banking that the preemption determination be re-consid- 
+ered. The OCC’s tentative decision is to reverse its earlier 
+preemption determination. 
+
+
+Although there are differences between the credit 
+card late fee issue in this case and the “lifeline” checking 
+account issue, both raise the same important concern - 
+whether federal banking statutes that evidence no intent 
+by Congress to occupy the field of consumer banking 
+nevertheless may be interpreted broadly to preempt state 
+consumer protection statutes as applied to national 
+banks. 
+
+
+Another area in which this Court's determination on 
+the preemptive scope of section 85 is likely to have an 
+effect is in state regulation of a whole new panoply of 
+fees that banks are beginning to charge for services that 
+were traditionally provided without charge, or that are 
+attached to new technological services, including com- 
+puter on-line banking fees, ATM surcharges, interlink 
+fees, “human teller” fees, research and copying fees, 
+bounced check fees, and fees for any number of non- 
+banking services and products. A finding of broad pre- 
+emption under section 85 might also lead national banks 
+to assert preemption when states attempt to regulate non- 
+fee practices, including advertising, lending practices, 
+and debt collection practices. Consumer Action is con- 
+cerned that its efforts to advocate against excessive fees, 
+and other unfair practices in the area of credit cards and 
+consumer banking not be stymied by specious claims of 
+federal preemption, particularly when the practice at 
+issue is not subject to any federal control or regulation. 
+
+
+28 
+
+
+C. A Finding of Broad Preemption in this Case 
+
+
+Will Create Pressure on Other States to Deregu- 
+late. 
+
+
+Finally, it is important to note that a ruling from this 
+Court that credit card late fees may be “exported” pur- 
+suant to section 85 from deregulated states will create 
+substantial pressure on other states throughout the coun- 
+try to deregulate as well. If the dominant banks located in 
+deregulated states are exempt from other states’ con- 
+sumer protection statutes, even when soliciting and prof- 
+iting from consumers in those states, and are allowed to 
+export not only interest rates, but also substantial penalty 
+fees and any number of other non-interest rate charges 
+and terms, local banks in states with consumer protec- 
+tions may be placed at a competitive disadvantage." 
+Claiming such a disadvantage, card issuers around the 
+country have threatened to leave states that limit or pro- 
+hibit penalty charges and move to nearby deregulated 
+states. In order to retain these local banks, and the associ- 
+ated jobs and revenues, many state legislatures have been 
+forced to consider the repeal of consumer protection stat- 
+utes limiting late charges and other non-interest fees.'4 
+
+
+'S Note that enforcement of state statutes against out-of- 
+state national banks does not result in discrimination against 
+national banks, but merely makes them subject to the same 
+restrictions that are applicable to all banks that solicit 
+consumers in the state. 
+
+
+4 See Small States Teach a Big Banking Lesson, Chicago Fed. 
+Letter, supra; Group Advocates State Regulation of Credit Cards, 
+American Banker, p. 3 (July 29, 1987); Mad As Hell About Late 
+Fees, Business Week, (February 24, 1992), at 32; Legal Issues: It's 
+Win One, Lose One for Card Lobbyists in 1994, Credit Card News, 
+(February 1, 1994); You Win Some, You Win Some More, Credit 
+Card Management, (February 1994), at 60-62. 
+
+
+29 
+
+
+An industry publication noted in February, 1994, that 
+“(t]he industry has done well in winning relaxed limits 
+on, and out-right deregulation of, credit card fees, partic- 
+ularly late fees. Virginia and New York lifted restrictions 
+in 1992, and several states followed suit last year, includ- 
+ing Idaho, Illinois, Massachusetts, West Virginia and 
+Michigan.” See Higgins, You Win Some, You Win Some 
+More, Credit Card Management, February 1994, at 60. The 
+pattern was repeated last year in California when a jobs- 
+versus-consumers debate ultimately resulted in the enact- 
+ment of a new statute allowing higher late charges and 
+overlimit fees in credit card contracts under certain speci- 
+fied conditions. 
+
+In contrast, if this Court finds that section 85 is 
+limited to its express intent to limit interest rates, state 
+consumer protection statutes regulating penalty charges 
+will apply equally to both local and out-of-state banks, 
+whether national or state-chartered, such that no bank is 
+placed at a competitive disadvantage. 
+
+
+It may well be that it is in the interest of consumers 
+throughout the country to have a nationwide standard of 
+allowable non-interest rate terms for consumer credit 
+card customers, including late payment fees. If that is to 
+be the case, however, it is an issue to be addressed by 
+Congress, after the serious research and debate the issue 
+warrants, and with due consideration for the interests of 
+consumers. In the absence of such action by Congress, 
+deregulated states such as South Dakota and Delaware 
+which have chosen to subordinate consumer interests to 
+banking revenues, should not be allowed to make this 
+same choice for other states, and, in effect, to deregulate 
+the consumer credit card industry for consumers nation- 
+wide. 
+
+
+30 
+
+
+CONCLUSION 
+
+
+Accordingly, for the foregoing reasons, amicus Con- 
+sumer Action urges this Court to reverse the decision of 
+the court below. 
+
+
+Dated: March 1, 1996 
+Respectfully Submitted, 
+
+
+James C. StuRDEVANT* 
+
+Kim E. Carp 
+
+THe SturDEvANT Law Firm 
+A Professional Corporation 
+
+
+By: James C. SturRDEVANT 
+
+
+Attorneys for Amicus Curiae 
+Consumer Action 
+
+
+*Counsel of Record 
+
+

@@ -1,0 +1,1429 @@
+i Suoreme Gourk AR] 
+{ @\ FILED 
+V9 MAR 29 1996 
+No. 95-860 ) 
+IN THE ae 
+Supreme Court of the United States 
+OCTOBER TERM, 1995 
+BARBARA SMILEY, 
+Petitioner, 
+Vv. 
+CITIBANK (SOUTH DAKOTA), N.A., 
+Respondent. 
+
+
+ON WRIT OF CERTIORARI TO THE 
+CALIFORNIA SUPREME COURT 
+
+
+BRIEF OF THE NEW YORK CLEARING 
+HOUSE ASSOCIATION AS AMICUS CURIAE 
+IN SUPPORT OF RESPONDENT 
+
+
+JOHN L. WARDEN 
+H. RODGIN COHEN Counsel for The New York 
+
+
+RICHARD J. UROWSKY Clearing House Association, 
+Lori S. SHERMAN Amicus Curiae 
+MARC De LEEUW 125 Broad Street 
+
+
+SULLIVAN & CROMWELL New York, New York 10004 
+Of Counsel (212) 558-4000 
+
+
+March 29, 1996 
+
+
+| 
+
+
+TABLE OF CONTENTS 
+
+
+I. The National Bank Act Was Enacted by 
+Congress To Provide for a Uniform 
+Currency and an Interstate Lending System 
+Administered Through a Strong National 
+
+
+A. The Civil War Provided Both the 
+Need and Political Opportunity 
+for a National Banking System ........ 6 
+
+
+B. In Enacting the National Bank Act, 
+Congress Recognized and Sought To 
+Neutralize State Hostility to 
+EE a ee 10 
+
+
+Il. By Providing That a National Bank 
+Could Charge “Interest” at the Highest Rate 
+Allowed in Its Home State, Congress 
+Advanced Its Goal of Creating a Strong 
+
+
+National Banking System .............. 
+
+
+A. The Plain Meaning of Interest in 
+
+
+1864 Included All Lending Charges ..... 
+
+
+B. The Narrower Definition of Some Usury 
+Statutes Is Irrelevant in Interpreting 
+
+
+Ok Perr ee 
+
+
+C. Nineteenth Century Banking Practices 
+Confirm That “Interest” Included All 
+
+
+Lending Charges ................ 
+
+
+D. The Broad, Historical Definition of Interest 
+
+
+Enacting the National Bank Act ....... 
+
+
+pation’ Bask Ags... occ vt euveee ee 
+
+
+Conclusion 
+
+
+eeeeeeee?ee¢ese@eesg8t8##s2 8 = = =e 
+
+
+PAGE 
+
+
+TABLE OF AUTHORITIES 
+
+
+American Timber & Trading Co. v. First National 
+Bank, 690 F.2d 781 (9th Cir. 1982) ....... 
+
+
+Baker v. Lynchburg National Bank, 
+TT 2h 26 6 n6 cece ccc 
+
+
+Bang v. Windmill Co., 96 Tenn. 361 (1896)... . 
+Barnard v. Wyilis, 39 Mass. 291 (1839) ...... 
+
+
+Brown v. Hiatts, 
+82 U.S. (15 Wall.) 177 (1872)........... 
+
+
+Citizens’ National Bank v. Donnell, 
+Te tt ok 
+
+
+Copeland vy. MBNA America Bank, N.A., 
+4 © 
+
+
+Craig v. Pleiss, 26 Pa. 271 (1856).......... 
+
+
+Cronkleton v. Hall, 66 F.2d 384 (8th Cir.), 
+cert. denied, 290 U.S. 685 (1933) ........ 
+
+
+Daggett v. Pratt, 1S Mass. 177 (1818) ....... 
+
+
+Daggs v. Phoenix National Bank, 
+EE 
+
+
+PAGE 
+
+
+17 
+
+
+ll 
+
+
+iv 
+PAGE 
+Farmers’ & Mechanics’ National Bank v. 
+
+Dearing, 91 U.S. 29 (1875) ......... 4, 11, 23-24 
+First National Bank v. Dickinson, 
+
+fj te ( = FP rs 11 
+Fisher v. First National Bank, 
+
+548 F.2d 255 (8th Cir. 1977) ........... 24 
+Fry v. Coleman, 1 Grant's Cases 445 (Pa. 1857) . 19 
+Gadon v. Chase Manhattan Bank, (USA), 
+
+653 A.2d 697 (Pa. Super. Ct.), appeal 
+
+granted, 659 A.2d 557 (Pa. 1995) ........ 5 
+Greenwood Trust Co. v. Massachusetts, 971 
+
+F.2d 818 (1st Cir. 1992), cert. denied, 
+
+Sap Gs ED ocecnots ede veces 5,17 
+In re Gerber’s Estate, 9 A.2d 438 (Pa. 1939) ... 24 
+Griffin v. His Creditors, 
+
+6 Rob. (Vir.) 216 (1843) ............4.. 16, 19 
+Hubbard v. Callahan, 42 Conn. 524 (1875) .... 16 
+Library of Congress v. Shaw, 
+
+Gee Ge SED o cb dceotsvesscons 15 
+
+
+PAGE 
+
+Lloyd v. Scott, 29 U.S. 205 (1830) ......... 18 
+Marquette National Bank v. 
+
+First of Omaha Service Corp., 
+
+ED 04's. Wb we 0 o 60'S © 0 3 11, 13, 23, 25 
+Mazaika vy. Bank One, Columbus, N.A., 
+
+653 A.2d 640 (Pa. Super. Ct. 1994), 
+
+appeal granted, 659 A.2d 557 (Pa. 1995) .... 5 
+McAdoo v. Union National Bank, 
+
+535 F.2d 1050 (8th Cir. 1976)........... 24 
+M’Culloch v. 4 
+
+17 U.S. (4 Wheat.) 316 (1819) .......... ~ 
+Mercantile National Bank v. New York, 
+
+ns. «Mieke oe becce cee 4 
+Osborn v. Bank of United States, 
+
+22 U.S. (9 Wheat.) 738 (1824) .......... x 
+Panos v. Smith, 
+
+116 F.2d 445 (6th Cir. 1940) ........... 24 
+Redfield v. Ystalyfera Iron Co. , 
+
+rece. cee b eee eoeecs 16 
+
+
+Schumacher v. Lawrence, 
+108 F.2d 576 (6th Cir. 1940) ........... 24 
+
+
+vi 
+PAGE 
+Sherman v. Citibank (South Dakota), N.A., 
+
+Fe | 5 ' & Farr a 5 
+Shoemaker v. United States, 
+
+4 -«§ 6 eS cre v 16 
+Sodi, Inc. v. Salitan, 
+
+ f FF 6 & eer se 18 
+Sorensen v. Central Lumber Co. 
+
+) FF | FF rrrrvrreererrer 16 
+State v. Lott, 69 Ala. 147 (1883)........... 16 
+Tiffany v. National Bank, 
+
+85 U.S. (18 Wall.) 409 (1874) .......... 10-13, 23 
+United States v. North Carolina, 
+
+a. nn eee een be 6 ee 16 
+Veazie Bank v. Fenno, 
+
+, 2 ' & | 8) fll x 
+Wernwag v. Mothershead, 
+
+0 ee ee 17 
+Wilkinson (Wilkerson) v. Daniels, 
+
+1 Greene 179 (lowa 1848) ............. 17 
+
+Statutes 
+Act of April 10, 1816, ch. 44, 3 Stat. 266 ..... 7 
+
+
+Internal Revenue Act of 1865, ch. 78, 
+Ee er rm ee eee 
+
+
+PAGE 
+Ch. 58, 12 Stat. 665 (1863) .............. 2 
+Ch. 106, 13 Stat. 99 (1864) .............. 2 
+jf iS ew ) OF fF PPT 2, 25 
+DOS EEE Sb ccwescocdecoesees ede 11 
+_, | BPTrrrs LUTE Eee passim 
+4 |) Kk | Ero rere eee rer 4, 11, 23, 24 
+| |). PPT TERT TTL ee 11 
+BD Wie OEE Sew U She rec cccccces 2 
+Legislative Materials 
+CONG. GLOBE, 37th Cong., 3d Sess. (1863) .... 9, 22 
+CONG. GLOBE, 38th Cong., Ist Sess. (1864)... . passim 
+CONG. GLOBE, 38th Cong., 2d Sess. (1865)... . 13 
+Davis R. Dewey, State Banking Before the 
+Civil War, reprinted in NATIONAL 
+MONETARY COMMISSION REPORT, S. Doc. 
+No. 581, 61st Cong., 2d Sess. (1910) ...... 20, 22 
+Administrative Materials 
+61 Fed. Reg. 4849 (1996) ............4.. 3, 25 
+
+
+Letter from William P. Bowden, Jr. 
+OCC Chief Counsel, 1992 WL 136390 (OCC) 
+ES ree, a 
+
+
+Letter from Robert B. Serino, OCC Deputy 
+Chief Counsel (Policy) (Aug. 11, 1988), 
+reprinted in [1988-1989 Transfer Binder] 
+Fed. Banking L. Rep. (CCH) { 85,676 
+(OCC Interpretive Letter No. 452) ........ 
+
+
+Other Authorities 
+
+
+Annotation, Provision for Interest After 
+Maturity at a Rate in Excess of Legal 
+Rate as Usurious, 82 A.L.R. 1213 (1933) .... 
+
+
+Annotation, Usury: Expenses or Charges 
+in Forms of Commissions to Agents, 
+Brokers, or Like Intermediaries Incident 
+to Loan of Money, 52 A.L.R. 2d 703 (1957) . . 
+
+
+1 JOHN BOUVIER, A LAW DICTIONARY 
+(Philadelphia, J.B Lippincott & Co., 
+
+
+2 JOHN BOUVIER, A LAW DICTIONARY 
+
+
+(Philadelphia, T. & J.W. Johnson, 
+By CUED 6 bob hb oben d eK eb i cee 
+
+
+PAGE 
+
+
+25 
+
+
+25 
+
+
+25 
+
+
+19 
+
+
+21 
+
+
+15 
+
+
+17 
+
+
+EDWARD CARROLL, JR., PRINCIPLES AND 
+PRACTICE OF FINANCE (New York, G.P. 
+DEM .'<.kdenboeeedcece 
+
+
+RALPH C.H. CATTERALL, THE SECOND BANK 
+OF THE UNITED STATES (1903) .......... 
+
+
+ROBERT B. COMYN, A TREATISE ON THE LAW 
+OF Usury (1834), reprinted in 5 THE LAw 
+LIBRARY (Philadelphia, J.S. Littell, J. Purdon 
+ey ee Gs Po eae Se ees eee be tte 
+
+
+2 T. CUNNINGHAM, A NEW AND COMPLETE 
+LAW DICTIONARY (London 1765) ......... 
+
+
+1 DOCUMENTARY HISTORY OF BANKING AND 
+CURRENCY IN THE UNITED STATES (Herman 
+a ann + 66s 6 cede bese écoes 
+
+
+A.T. FoLsom, A SUMMARY OF UsurRY LAWS AND 
+ee le la eb 
+
+
+David M. Gische, The New York City 
+Banks and the Development of the 
+National Banking System, 1860-1870, 
+23 AM. J. LEGAL Hist. 21 (1979) ........ 
+
+
+J.S. GIBBONS, THE BANKS OF NEW YORK, 
+THEIR DEALERS, THE CLEARING HOUSE, 
+AND THE PANIC OF 1857 (1859) .......... 
+
+
+Roy G. GLASHAN, AMERICAN GOVERNORS 
+AND GUBERNATORIAL ELECTIONS, 1775-1978 
+ts. 6 6-10 86 bs ae be, teeebove. 
+
+
+PAGE 
+
+
+18 
+
+
+15 
+
+
+6, 7 
+
+
+17 
+
+
+6,9 
+
+
+21 
+
+
+12 
+
+
+ALBERT O. GREEF, THE COMMERCIAL PAPER 
+HOUSE IN THE UNITED STATES (1938) ...... 20, 21 
+
+
+BRAY HAMMOND, BANKS AND POLITICS IN 
+AMERICA FROM THE REVOLUTION TO THE 
+Ga Ws GUN 5 ve 0s Oe WES ENS. 20 
+
+
+BRAY HAMMOND, SOVEREIGNTY AND AN 
+See SED oi wld be awk Ook hae 6,9, 14 
+
+
+1 A HISTORY OF BANKING IN ALL THE LEADING 
+NATIONS (William G. Sumner ed. 1971) 
+eee és whew Es SE HG a Oates 3 10 
+
+
+SIDNEY HOMER & RICHARD SYLLA, A HISTORY 
+OF INTEREST RATES (3d ed. 1991) ........ 15, 18 
+
+
+MORTON J. HORWITZ, THE TRANSFORMATION OF 
+AMERICAN Law: 1780-1860 (1977)........ 18 
+
+
+JOHN A. JAMES, MONEY AND CAPITAL 
+MARKETS IN POSTBELLUM AMERICA 
+PETE T IETS ok Le Pee ee 19-21 
+
+
+LEGISLATIVE AND DOCUMENTARY HISTORY 
+OF THE BANK OF THE UNITED STATES 
+(M. St. Clair Clarke & D.A. Hall 
+OE eee eee 7 
+
+
+SISTER M. GRACE MADELEINE, MONETARY 
+AND BANKING THEORIES OF JACKSONIAN 
+ee 7,8 
+
+
+JAMES M. MCPHERSON, BATTLE CRY OF 
+ES oo gra acid oe é-awe 6, 12 
+
+
+PAGE 
+
+7 OXFORD ENGLISH DICTIONARY 
+
+RR Se a 15, 18 
+SIDNEY PERLEY, PRINCIPLES OF THE LAW OF 
+
+INTEREST (Boston, George B. Reed 1893)... . 15 
+FRANCIS PLOWDEN, TREATISE UPON THE LAW OF 
+
+USURY AND ANNUITIES (London 1797) ..... 18 
+CONDY RAGUET, A TREATISE ON CURRENCY 
+
+AND BANKING (1840) ................ 21 
+LARRY SCHWEIKART, BANKING IN THE AMERICAN 
+
+SOUTH FROM THE AGE OF JACKSON TO 
+
+RECONSTRUCTION (1987) .............. 8,9 
+JAMES A. WEBB, A TREATISE ON THE LAW OF 
+
+Usury (St. Louis, The F.H. Thomas Law 
+
+i a as i A 17, 18, 19 
+
+
+IN THE 
+Supreme Court of the United States 
+
+
+October Term, 1995 
+No. 95-860 
+BARBARA SMILEY, 
+
+
+Petitioner, 
+v. 
+
+
+CITIBANK (SOUTH DAKOTA), N.A.., 
+Respondent. 
+
+
+ON WRIT OF CERTIORARI TO THE 
+CALIFORNIA SUPREME COURT 
+
+
+BRIEF OF THE NEW YORK CLEARING HOUSE 
+ASSOCIATION AS AMICUS CURIAE 
+IN SUPPORT OF RESPONDENT 
+
+
+Pursuant to Rule 37.3 of this Court, The New York 
+Clearing House Association (the “Clearing House”) respect- 
+fully submits this brief as amicus curiae in support of 
+Respondent Citibank (South Dakota), N.A. (“Citibank”) with 
+the consent of all parties. 
+
+
+Interest of Amicus Curiae 
+The Clearing House is an association of eleven leading 
+commercial banks in the City of New York, including an 
+affiliate of Citibank.’ The Clearing House regularly appears 
+as amicus curiae in cases raising important issues relating to 
+banking, and its members have a common and vital interest 
+
+
+' The members of the Clearing House are The Bank of New York, 
+The Chase Manhattan Bank, N.A., Citibank, N.A., Chemical Bank, 
+Morgan Guaranty Trust Company of New York, Bankers Trust Company, 
+Marine Midland Bank, United States Trust Company of New York, 
+NatWest Bank National Association, European American Bank and 
+Republic National Bank of New York. 
+
+
+in the consistent and uniform application of the banking laws 
+of this country. 
+
+The issue raised in this appeal concerns state efforts to 
+regulate credit card late charges assessed by national banks. 
+Four members of the Clearing House are national banks 
+governed by the National Bank Act (the “Act”) and 
+supervised by the Office of the Comptroller of the Currency 
+(“OCC”), a bureau within the Department of the Treasury. 
+12 U.S.C. §§ 21 et seg.2 Under Section 30 of the Act, 
+codified as 12 U.S.C. § 85 (“Section 85”), a national bank 
+is permitted to charge “interest” to its customers — wherever 
+located — at the highest rates authorized by the bank’s home 
+state. The other seven members of the Clearing House are 
+state-chartered banks governed by a statutory provision 
+modeled after Section 85 — Section 521 of the Depository 
+Institutions Deregulation and Monetary Control Act of 1980, 
+12 U.S.C. § 1831d (1994) — that grants state banks the same 
+authority as Section 85 grants national banks. 
+
+
+The sole issue in this case is whether Section 85 should 
+be interpreted — contrary to the consistent position of the 
+OCC — to exclude from the definition of “interest” the late 
+payment charges for loans that are typically included in credit 
+card agreements. The Clearing House’s member banks have 
+relied on the OCC’s interpretations in structuring their credit 
+relationships with customers for years, and would face a 
+substantial burden if forced to vary the financial terms of 
+their credit card programs to comply with the different late 
+charge regulations imposed, from time to time, by the 50 
+states. In addition, the banks could no longer offer credit 
+card programs on a uniform national basis. 
+
+
+2 The OCC was created in 1863 by the National Currency Act, 
+ch. 58, § 1, 12 Stat. 665-66 (1863), and given the power to regulate 
+national banks in both that statute and the National Bank Act, ch. 106, 
+§ 1, 13 Stat. 99-100 (1864). 
+
+
+Summary of Argument 
+The decision below affirmed the consistent interpretation 
+of Section 85 adopted for many years by the OCC — the 
+regulatory agency charged with supervision of national banks 
+— and the courts that “interest” includes late charges. (See 
+A 26-28.) This interpretation is consistent with Congress's 
+ompective if adopting the Act as a whole and Section 85 in 
+
+
+Congress adopted the Act to establish a strong national 
+banking system which could provide credit across state lines 
+free of state-law impediments. This objective was a product 
+of the Civil War: both because (1) the war created a critical 
+need for a stable and strong national banking system capable 
+of financing the war effort and (2) many fewer opponents of 
+federal fiscal power were in Congress after the Southern 
+states seceded from the Union. Knowing the potential for 
+hostile and inconsistent state regulation, Congress adopted a 
+
+
+oe regulatory scheme governed exclusively by federal 
+
+
+. Citations to the decision below, in the form “A ,” are to the 
+appendix to the petition for certiorari. af: 
+
+
+4 
+Subsequent to the decision below, the OCC, in accordance with the 
+procedures of the Administrative Procedure Act, adopted a regulation 
+pone b dalle onermaphe epee See 61 Fed. Reg. 
+, 4869 to be effective on il 1, 1996 and codi 
+C.F.R. § 7.4001). seta — 
+
+
+. Although Section 85 adopts the most favorable rate allowed to any 
+lender by « national bank's home state as the highest rate the bank may 
+charge, a national bank's lending charges are governed solely by federal 
+law, i.e., Section 85 does not permit any concurrent state regulation of 
+national banks’ lending charges nor does it involve a delegation of federal 
+pre ce a eee sheng Thus, a national bank's home 
+
+may not, statute or otherwise, impose a lending rate on national 
+banks that is lower than the rate prescribed by Section 85 nor provide any 
+remedies for breaching either Section 85 or a state-imposed lending limit 
+(continued...) 
+
+
+The OCC’s definition of interest under Section 85 as 
+including late charges is consistent with the historic use of 
+
+
+charges. This is apparent in academic materials, dictionaries 
+and judicial opinions from the mid-nineteenth century and 
+before, as well as the established banking practices of the 
+includes late charges is consistent not only with the 
+
+understanding of the word interest at the time of the Act's 
+
+
+enactment, but with Congress’s intent to ide a stron 
+banking system of national scope. vem : 
+
+
+ARGUMENT 
+
+
+card balance to the extent permitted by the national bank’s 
+
+
+*(...continued) 
+— the exclusive remedies for i 
+provided by 12 U.S.C. § % (“Section 86"). Farmers’ & Mechanics ' 
+Nat'l Bank y. Dearing, 9% U.S. 29 (1875). A fortiori, Section 85 does 
+
+
+a concurrent regulation by the home state of « national bank's 
+
+
+minations have also held that Section 85 applies to credit card 
+late fees.* 
+
+The historical analysis which is the focus of this brief 
+demonstrates that these decisions are fully consistent both 
+
+
+with Congress's goals in passing the Act and with the use of 
+the term “interest” at the time of the Act's adoption. 
+
+
+from 
+
+State level 
+
+banks and the 
+
+federally chartered banks. The Act was designed, in part, to 
+prevent this frustration of Congressional purpose by the 
+states. Section 85 was specifically aimed at (1) protecting 
+national banks from discrimination in favor of state-chartered 
+banks and (2) state interference with national banks’ 
+
+
+i 
+i 
+| 
+: 
+| 
+i 
+| 
+
+
+* See, ¢.g., Greenwood Trust Co. v. Massachusetts, 971 F.2d 818 
+(Ist Cir. 1992), cert. denied, 506 U.S. 1052 (1993); Copeland v. MBNA 
+-A., 907 P.2d 87 (Colo. 1995). The only appellate 
+reached the opposite conclusion are the New Jersey 
+Supreme Court (by a 4-3 division), and the Pennsylvania Superior Court 
+(by a 6-3 vote). See Sherman v. Citibank (South Dakota), N.A., 668 
+A.2d 1036 (N.J. 1995); Mazaika v. Bank One, Columbus, N.A., 653 
+A.2d 640 (Pa. Super. Ct. 1994), appeal granted, 659 A.2d 557 (Pa. 
+1995); see also Gadon v. Chase Manhattan Bank, (USA), 653 A.2d 697 
+(Pa. Super. Ct.) (following Mazaika), appeal granted, 659 A.2d 557 (Pa. 
+1995). 
+
+
+A. The Civil War Provided Both the Need and 
+
+
+Congress had earlier established the First and Second 
+Banks of the United States to address these problems. 
+
+
+” JAMES M. MCPHERSON, BATTLE Cry oF FREEDOM 594 (1988). 
+
+
+* See David M. Gische, The New York City Banks and the 
+
+
+Development of the National Banking System, 1860-1870, 23 Am. J. 
+LEGAL HIsT. 21, 24-25 (1979). 
+
+
+* See id. Representative Samuel Hooper, chief sponsor of the Act in 
+the House of Representatives, decried that a nation “which leaves the 
+
+
+"© See Treasury Report on a National Bank (Dec. 13. 1790), in 1 
+DOCUMENTARY HISTORY OF BANKING AND CURRENCY IN THE UNITED 
+STATES 230, 233-34 (Herman E. Kross ed. 1969) [hereinafter Kross): 
+Opinion of Alexander Hamilton, On the Constitutionality of a National 
+
+(continued...) 
+
+
+"*(.. .continued) 
+Bank (Feb. 23, 1791), in LEGISLATIVE AND DOCUMENTARY HISTORY OF 
+THE BANK OF THE UNITED STATES 95, 108 (M. St. Clair Clarke & D.A. 
+
+
+prohibitive taxes. Jd. at 21-22. A land statute j 
+
+a heavy stamp tax on all notes issued at entree ~ 
+outside the state led to this Court’s decision in M’Culloch v. 
+Maryland, 17 U.S. (4 Wheat.) 316 (1819), declaring such 
+State taxes unconstitutional. '! 
+
+
+debate over who would control 
+those in favor of “states’ rights” and, once again, a federal 
+banking system was destroyed. son 
+
+
+tic program perceived more astutely than in the South, which 
+always vigilant with respect to states’ rights.” Lanny ScHWERART, 
+BANKING IN THE AMERICAN SOUTH FROM THE AGE ACKSON 
+RECONSTRUCTION 16 (1987). aie woe 
+
+
+" See Veazie Bank v. Fenno, 75 U.S. (8 Wall.) 533 536-39 (1 
+see also Cona. GLoBE, 38th Cong., Ist Sess. 2132 (1864) (“We “. 
+the very straining point. If we pass this point, we go through. If we fail 
+
+now, we fail altogether.”) (remarks of Sen. ° , 
+GLOBE, 38th Cong., ist Sess. 1257 (1864) (“The loan bill, including the 
+issue of legal-tender notes, the national bank act, and the tax law were 
+
+
+\© 
+
+
+absent from Congress as a result of the secession of the 
+
+
+"(.. continued) 
+war.”) (remarks of Rep. Hooper); id. at 1256 (“I frankly confess that | 
+look upon the system of State banks as having outlived its usefulness, as 
+being unequal to the exigencies of the present time, with the demands 
+which this war is making on the resources of the country and on its 
+financial and monetary systems.”) (remarks of Rep. Hooper). 
+
+
+‘* See CONG. GLOBE, 37th Cong., 3d Sess. 841 (1863) (speaking in 
+favor of the National Currency Act, the precursor to the Act, Senator 
+Sherman asserted: “We know very well that after this war is over _. .; 
+that when the rebellion is subdued, the condition of sociery in Southern 
+states will be disturbed . . . .”); SCHWEIKART, supra, at 309-11. After 
+the war, circulation of bank notes was disproportionately high in the 
+North and disproportionately low in the South. Gische, supra, at 62. 
+
+
+HAMMOND, SOVEREIGNTY, supra, at 290. In 1887, this Court 
+explained that “[tJhe object of the [Act] was to establish a system of 
+national banking institutions, in order to provide a uniform and secure 
+currency for the people, and to facilitate the operations of the treasury of 
+the United States.” Mercantile Nat'l Bank v. New York, 121 U.S. 138, 
+154 (1887). 
+
+
+10 
+
+
+Southern states, a national 
+
+
+ing system 
+control was now politically Ameen | ystem under federal 
+
+
+system and to attempt to impose restrictions on out-of-state 
+banks. As Representative Davis stated: 
+
+
+” Cone. GLOBE, 38th Cong., ist Sess. 1400 1864 
+Davis). See also id. at 1994 ("Of course the new system mune bese, 
+Peay with the State banks, which in many cases will be hostile.” 
+(remarks of Sen. Sumner); id. at 1393 (“to carry out that object [to make 
+as & great national system) it will not do to place it in the power of the 
+states, otherwise you place it in the power of any State which may be 
+
+
+11 
+
+
+National Bank, 85 U.S. (18 Wall.) 409, 412-13 (1874) (“it 
+was intended to give [national banks] at least equal 
+advantages in” competition with state banks); Dearing, 91 
+U.S. at 33-35; Marquette Nat’! Bank v. First of Omaha Serv. 
+Corp., 439 U.S. 299, 313-18 (1978). 
+
+
+To protect the newly formed national banks from 
+potentially destructive state legislation, the Act provided that 
+the regulation of national banks was to be a matter of federal 
+law and enacted a comprehensive — and exclusive — 
+regulatory scheme. One aspect of this scheme was 
+Section 85, in which Congress specified that a national bank 
+was authorized under federal law to charge borrowers — 
+wherever located — the highest rate allowed by the national 
+bank’s home state, even if that rate was higher than the rate 
+which could be charged by state banks."* Moreover, 
+Congress provided that any challenge to a national bank’s 
+lending charges could be brought only under federal law. 12 
+U.S.C. § 86; Dearing, 91 U.S. at 32-36. 
+
+
+Initially, Congress considered establishing a uniform 
+usury rate for national banks (and it did so where a state or 
+territory provided no rate). See Daggs v. Phoenix Nat'l 
+Bank, 177 U.S. 549 (1900). But Congress ultimately rejected 
+that idea, and instead decided to place national banks “on 
+precisely the same footing [as lenders] doing business in the 
+[bank’s home] State by its laws.”"’ Thus, lending rates 
+
+
+* Tiffany, 85 U.S. (18 Wall.) at 411-13. In this respect, Section 85 
+is consistent with other provisions of the Act which apply federal 
+definitions to the terms used in the Act even in provisions incorporating 
+state law. See 12 U.S.C. §§ 36 (branching), 922 (trust powers); First 
+Nat'l Bank v. Dickinson, 396 U.S. 122, 131-34 (1969) (term “branch” in 
+12 U.S.C. § 36 is defined by federal law). 
+
+
+* Cona. GLosE, 38th Cong., Ist Sess. 2126 (1864) (remarks of Sen. 
+Sherman). Congress rejected an amendment that would have allowed state 
+legislatures discretion to reduce the amount of “interest” « national bank 
+could charge below that which a state bank could charge. As 
+
+(continued...) 
+
+
+12 
+
+
+were immune, as a practical matter, from state discrimination 
+because a state could limit a national bank's lending rates 
+only by imposing identical restrictions on all local lenders. 
+Section 85 was structured to advance Congress’s goal of 
+protecting national banks from “the hazard of unfriendly 
+legislation by the States.” Tiffany, 85 U.S. (18 Wall.) at 
+413. 
+
+
+Congress’s concern that national banks be protected from 
+“unfriendly legislation” was no doubt increased by the 
+possibility that the Southern states might soon be readmitted 
+to the Union, either by peaceful or military means. At their 
+national convention in August 1864, the Democrats 
+nominated General McClellan for President on a “peace” 
+platform, which demanded restoration of the “Federal Union” 
+by calling for “an ultimate convention of the states” without 
+mention of the divisive issue of slavery. See MCPHERSON, 
+supra, at 771-72." At the same time, Congress expected 
+that even if “peace” were not achieved in such fashion, the 
+North would eventually prevail in the war and readmit the 
+Southern states to the Union on its terms.”! 
+
+
+Given that Congress anticipated that the Southern states 
+— long home to the most zealous advocates of “states’ 
+rights” and foes of federally chartered banks — would be 
+
+
+'(.. continued) 
+
+
+Representative Pike stated: “[WJould it not enable the Legislature of a 
+State to kill off the national banks of that State?” Jd. at 1375 (remarks of 
+Rep. Pike). 
+
+
+= There was considerable speculation at the time that McClellan might 
+actually defeat Lincoln in the fall elections. Indeed, for a period of time 
+Lincoln himself expected McClellan to win. See id. at 771. 
+
+
+* As of June 1864, military or provisional civil governments were in 
+place in occupied Arkansas, occupied Louisiana, occupied North Carolina 
+(coastal region), occupied Tennessee, and occupied Texas (coastal region). 
+See Roy G. GLASHAN, AMERICAN GOVERNORS AND GUBERNATORIAL 
+ELECTIONS, 1775-1978, at 17, 113, 230, 291, 298 (1979). 
+
+
+13 
+
+
+extremely hostile to the new federal banking associations, 
+protection from hostile state legislation was vital to enabling 
+national banks to engage in business in the South. 
+
+A reason for protecting national banks from hostile 
+ate logidation was to create s strong satioaal bankiog 
+system that could operate effectively in interstate commerce. 
+See Marquette, 439 U.S. at 314-15 (“Congress intended to 
+facilitate what Representative Hooper termed a ‘national 
+banking system.’”) (quoting CONG. GLOBE, 38th Cong.., Ist 
+Sess. 1451 (1864) (remarks of cos pore gre ocd 
+
+shane out Secheiation, 0 
+ee cet seas oo aoe 
+nature of American banking.” Jd. at 315-17 (noting the 
+“developed interstate loan market” in 1864).” 
+
+In fact, the Civil War Congress envisioned that national 
+banks would ultimately replace state banks, and in March 
+1865 (less than one year after the Act was passed) it 
+attempted to tax state banks “out of existence” with a ten 
+percent confiscatory tax on state bank notes. Tiffany, 85 
+U.S. (18 Wall.) at 413; see Internal Revenue Act of 1865, 
+ch. 78, § 6, 13 Stat. 469, 484.” Although this attempt 
+
+
+2 See also CONG. GLOBE, 38th Cong., Ist Sess. 2021 (1864) 
+(“[National] banks will, of course, have very extensive loan transactions 
+all over the country. They are organized for that purpose.”) (remarks of 
+Sen. Johnson). 
+
+
+2 Congressional debates show that Congress's purpose in enacting the 
+ten percent tax was to destroy the state banks. See CONG. GLOBE, 38th 
+Cong., 2d Sess. 1139 (1865) (“The national banks were intended to 
+supersede the State banks. Both cannot exist together . . . .”) (remarks 
+of Sen. Sherman); id. at 1195 (“Many members who were in favor of 
+taxing State banks out of existence could not agree upon the terms. 
+Finally, however, they did agree upon this fifth section. That will, | 
+think, effectually do the work . . . .”) (remarks of Sen. Sherman). 
+
+
+14 
+
+
+ultimately failed,“ the unmistakably clear intent of the Civil 
+War Congress which enacted the Act was to centralize power 
+over the national economy by means of a strong national 
+banking system and to immunize that banking system from 
+state control. The Act was framed to achieve those ends. 
+
+
+Il. By Providing That a National Bank Could Charge 
+“Interest” at the Highest Rate Allowed in Its Home 
+State, Congress Advanced Its Goal of Creating a 
+
+
+Strong National Banking System. 
+
+
+Section 85 is a provision specifically designed to carry 
+out Congress’s goal of creating a strong national banking 
+system.” By its terms, a national bank could charge the 
+highest “interest” allowed any lender by the laws of the state 
+in which the bank was located. By using the broad term 
+“interest” — which applied to a variety of lendi — 
+Congress substantiall , alemaa te al fae 
+strong national banking system subject to uniform, non- 
+discriminatory lending restrictions and able to compete 
+effectively in interstate commerce. 
+
+A. The Plain Meaning of Interest in 1864 Included 
+
+All Lending Charges. 
+
+
+| To understand the commonly accepted definition of 
+interest in 1864, it is nevessary to appreciate the development 
+of that term’s usage over time. The concept of interest grew 
+in juxtaposition to the concept of usury, and in both 1864 and 
+today, the two words have significantly different meanings. 
+
+
+aes Despite the confiscatory tax on their notes, state banks continued to 
+— as banks of deposit. See HAMMOND, SOVEREIGNTY, supra, 
+at 347. 
+
+
+* See CONG. GLOBE, 38th Cong., Ist Sess. 2126 (1864) (remarks of 
+Sen. Sherman); see supra note 19. 
+
+
+15 
+
+
+Under canon law, the practice of usury, defined as the 
+price paid for the use of money, was forbidden. SIDNEY 
+HOMER & RICHARD SYLLA, A HISTORY OF INTEREST RATES 
+73 (3d ed. 1991); (A 18-19 n.7 (quoting 7 OXFORD ENGLISH 
+DICTIONARY 1099-1100 (2d ed. 1989))). Understandably, 
+exceptions arose to this absolute prohibition. Those 
+exceptions became known as “interesse” in Roman Law, 
+which was derived from the “Latin verb intereo meaning to 
+be lost.” HOMER & SYLLA, supra, at 73. 
+
+The “interesse” exceptions to usury were justified as 
+“compensation due to a creditor because of a loss which he 
+had incurred through lending,” id., i.e., a charge not for the 
+use of money but for the loss of use of money. Such losses 
+occurred if either the money could have been used profitably 
+had it not been loaned or the debtor did not repay the loan at 
+the agreed date, in which case a “penalty for delay might be 
+charged.” Id. at 73-74; accord Library of Congress v. Shaw, 
+478 U.S. 310, 315 n.2 (1986) (The “institution of interest 
+originated under Roman law as a penalty due from a debtor 
+who delayed or defaulted in repayment of a loan.”) (emphasis 
+supplied); (A 18-19 n.7). 
+
+By the time the Act was passed, “interest was divided 
+into two great and well defined classes, the first being that of 
+contractual interest, and the second interest allowed as 
+damages” for the detention of a debt. SIDNEY PERLEY, 
+PRINCIPLES OF THE LAW OF INTEREST 5 (Boston, George B. 
+Reed 1893); accord EDWARD CARROLL, JR., PRINCIPLES AND 
+PRACTICE OF FINANCE 35 (New York, G.P. Putnam’s Sons 
+1895) (“[iJnterest is charged not only on loans but on debts 
+overdue”). Dictionaries of the era confirm this ordinary 
+usage. See, ¢.g., 2 T. CUNNINGHAM, A NEW AND 
+COMPLETE LAW DICTIONARY (London 1765) (defining 
+“interest of money” and noting that “[iJnterest is recovered 
+by way of damages, where damages are recovered ratione 
+detentionis debiti”); 1 JOHN BOUVIER, A LAW DICTIONARY 
+733 (Philadelphia, J.B Lippincott & Co., 14th rev. ed. 1877) 
+(defining “interest” as “compensation which is paid by the 
+
+
+16 
+
+
+borrower of money to the lender for its use, and, generally, 
+by a debtor to his creditor in recompense for his detention of 
+the debt”); (A 18-19 & n.7 (citing three other similar 
+dictionary definitions)). 
+
+Similarly, nineteenth century judicial opinions routinely 
+held that “interest” includes “compensation... for the 
+use . . . Of money, or as damages for its detention.” Brown 
+v. Hiatts, 82 U.S. (15 Wall.) 177, 185 (1872). Indeed, this 
+Court noted in Shoemaker v. United States, 147 U.S. 282, 
+321 (1893), “Interest” includes “damages, by reason of the 
+failure of the debtor io pay the principal when due.” Accord 
+United States v. North Carolina, 136 U.S. 211, 216 (1890) 
+(“Interest . . . is allowed by the courts as damages for the 
+detention of money . . ., or of compensation, to which the 
+[lender] is entitled.”); Redfield v. Ystalyfera Iron Co., 110 
+U.S. 174, 176 (1884) (“Interest is given on money demands 
+as damages for delay in payment, being just compensation to 
+the plaintiff for a default on the part of his debtor.”).” 
+Thus, delinquency charges — i.e., additional charges imposed 
+because of late payment — fall squarely within the classic 
+
+
+* Many state-court decisions also employed this classic definition in 
+their analyses. See, ¢.g., Barnard v. Wyilis, 39 Mass. 291, 294 (1839) 
+(interest “may be given as damages for the detention of a debt after the 
+time when due by the terms of the agreement”); Griffin v. His Creditors, 
+6 Rob. (Vir.) 216, 220 (1843) (Virginia statute “declares, that ‘the 
+damages due for delay in the performance of an obligation to pay money, 
+are called interest’”); Hubbard v. Callahan, 42 Conn. 524, 528-30 (1875) 
+(“interest was allowed, in the nature of damages, for the detention of 
+money”); State v. Lott, 69 Ala. 147, 154-55 (1883) (“Interest, in this 
+State, has long been regarded not as a mere incident of debt . . . for the 
+payment of money, but as compensation for the use, or for the detention 
+of money.”); Sorensen v. Central Lumber Co., 98 lll. App. 581, 582 
+(1901) (“Interest is defined to be, ‘(t]he compensation which is paid by 
+the borrower of the money to the lender, for its use, and generally, by a 
+debtor to his creditor, in recompense for his detention of the debt.’”). 
+
+
+17 
+
+
+definition of interest, and many nineteenth contury cases 
+apply the laws regulating “interest” to such charges. 
+
+
+B. The Narrower Definition of Some Usury 
+Statutes Is Irrelevant in Interpreting 
+Section 85. 
+
+
+In contrast to the traditional definition of interest, the 
+term “usury” referred to “the taking, under contract,” of 
+compensation in excess of statutory limits. JAMES A. WEBB, 
+A TREATISE ON THE LAW OF Usury § 1, at 1-2 (St. Louis, 
+The F.H. Thomas Law Book Co. 1899); see also 2 JOHN 
+Bouvier, A LAW DICTIONARY 616 (Philadelphia, T. & J.W. 
+Johnson, 3d ed. 1848) (distinguishing between the terms 
+“usury” and “interest”); A.T. FOLSOM, A SUMMARY OF 
+UsurY LAWS AND DECISIONS | (1927). There is an obvious 
+relationship between the concepts of usury and interest; if the 
+interest charges are within statutory limits, they are not 
+usurious. ee ee on 
+conceptual origins of the two terms, the decisions by some 
+legislative bodies and courts to exclude late charges from the 
+concept of usury does not suggest that late charges are not 
+interest. 
+
+
+2” See Greenwood Trust Co., 971 F.2d at 825 (“[Flederal case law has 
+long suggested that, in ordinary usage, interest may encompass late fees 
+and kindred charges.”). State courts were in accord. See, e.g., Wernwag 
+v. Mothershead, 3 Blackf. 401, 402 (Ind. oo seer | ore 
+late was permissible “interest at the rate specified in 
+par at aH Wilkinson (Wilkerson) v. Daniels, | 
+Greene 179, 188 (lowa 1848) (contract providing for three percent late 
+payment charge — raising the loans interest rate from twelve to fifteen 
+percent — “is a contract to pay fifteen per cent. interest per annum on a 
+contingency”) (emphasis supplied); Daggett v. Pratt, 1S Mass. 177, 177 
+(1818) (promissory notes specified “interest at three per cent. per annum, 
+if paid at their maturity; if not, six per cent. interest to be paid”; court 
+held that the six percent charge, which included a three percent late 
+charge, was a proper “interest” charge); Craig v. Pleiss, 26 Pa. 271, 273 
+(1856) (flat $25 charge for late payment was “interest” subject to statute 
+limiting permissible rates). 
+
+
+18 
+
+
+At the outset, the distinction between “usury” and 
+“interest” can be observed from the roots of those terms. 
+The Latin root of usury — usura — “means the ‘use’ of 
+anything, in this case the use of borrowed capital; hence 
+usury was the price paid for the use of money.” HOMER & 
+SYLLA, supra, at 73. In contrast, as discussed above, “[t}he 
+Latin verb intereo means ‘to be lost’; [thus] [i]nterest was not 
+profit but loss.” Jd.; (see A 18-19 n.7 (discussing similar 
+linguistic analysis in 7 OXFORD ENGLISH DICTIONARY 1099- 
+1100 (2d ed. 1989))). 
+
+
+In Anglo-American jurisprudence, usury has been 
+entirely a matter of statutory law. At common law, there 
+were no limits on charges for the use of money agreed to by 
+the parties. See, e.g., Sodi, Inc. v. Salitan, 68 So. 2d 882, 
+885 (Fla. 1953); WEBB, supra, §5, at 3. Many usury 
+statutes, reflecting the origin of the concept of usury, 
+restricted only charges imposed for the use of money and did 
+not limit damages for its detention. See ROBERT B. COMYN, 
+A TREATISE ON THE LAW OF UsuRY 72 (1834), reprinted in 
+5 THE LAW LIBRARY (Philadelphia, J.S. Littell, J. Purdon 
+ed. 1834); FRANCIS PLOWDEN, TREATISE UPON THE LAW OF 
+USURY AND ANNUITIES 181 (London 1797). 
+
+
+Moreover, in many cases the decision to exclude late 
+charges from the definition of usury reflected the disfavored 
+status of usury statutes. By the mid-nineteenth century, the 
+moral and religious conceptions underlying usury laws had 
+been largely discredited: many believed that usury statutes 
+were unjust and hindered economic development. See Lloyd 
+v. Scott, 29 U.S. 205, 224 (1830) (“[t}he act of usury has 
+long since lost that deep moral stain, which was formerly 
+attached to it”); MORTON J. HORWITZ, THE TRANSFOR- 
+MATION OF AMERICAN LAW: 1780-1860, at 237-45 (1977). 
+State courts reflected this mood by limiting the scope of these 
+
+
+19 
+
+
+statutes.“ As a part of this effort, charges or fees which 
+
+
+running afoul of the usury laws”); JoHN A. JAMES, MONEY AND CAPITAL 
+MARKETS IN POSTBELLUM AMERICA 82-88 (1978) (“Usury laws were a 
+government-imposed constraint . . ., but we have seen that it was not 
+
+
+states included post-maturity charges in determining whether a loan was 
+usurious. See, ¢.g., Bang v. Windmill Co., 9% Tenn. 361, 365 (1896) 
+(note providing for post-maturity charges greater than usury limit held 
+usurious); Griffin, 6 Rob. (Vir.) at 220-21 (a provision calling for 
+payment “for the inexecution of an obligation to pay moncy” is 
+unenforceable because “[a)ny contract or agreement, into whatever shape 
+it may be thrown, which stipulates for more than ten per cent damages, 
+or interest, for the delay to pay money, is illegal”); Fry v. Coleman, | 
+Grant's Cases 445, 447 (Pa. 1857) (agreement to pay flat $100 fee if two 
+notes were not paid within 10 days after maturity is usurious); see 
+generally Annotation, Provision for Interest After Maturity ai a Rate in 
+Excess of Legal Rate as Usurious, $2 A.L.R. 1213, 1218-23 (1933) 
+(hereinafter Interest After Maturity) (collecting cases). Some states 
+adopted the test of whether such a charge “was intended as an evasion of 
+the [usury] statute” or “was in fact a device to procure more than lawful 
+interest,” while others simply prohibited the charge of greater than the 
+legal maximum after maturity. Wess, supra, § 119, at 135-36, § 121, 
+at 137; see Interest After Maturity, supra, at 1218-23. 
+
+
+that 
+broad. At that time, banks provided credit on a variety of 
+terms and were often compensated in ways other than 
+
+
+to a third person.” Jd. at $1. The “exchanged” money was often lent by 
+a bank at either a discount or in exchange for periodic loan payments. 
+Bray HAMMOND, BANKS AND Pourrics IN AMERICA FROM THE 
+REVOLUTION TO THE Civ. War 700 (1957). If the exchange involved 
+two locations where the value of the money was different (if, for example, 
+there was a surplus or shortage of dollars in one of the locations) the 
+bank would charge an “exchange fee” for at least the amount of thai 
+difference. See id.; JAMES, supra, at 53; infra pp. 21-22. 
+
+
+* Banks often found ways to receive commissions on their loans in 
+addition to a percentage charge. For instance, banks were able to charge 
+commussicns for appraising the value of collateral, see Davis R. Dewey, 
+State Banking Before the Civil War, reprinted in NATIONAL MONETARY 
+COMMISSION REPORT 162-63, S. Doc. No. 581, 6st Cong., 2d Sess. 
+(1910), and for buying notes from brokers, ALBERT O. Greer, THE 
+
+(continued...) 
+
+
+™ continued) 
+COMMERCIAL Paper House iv THE UNITED States 14-15 (1938). A 
+considerable body of law developed as to whether broker fees and other 
+similar commissions could be considered usurious. See Annotation, 
+Usury: Expenses or Charges in Forms of Commissions to Agents, 
+Brokers, or Like Intermediaries Incident to Loan of Money, 52 A.L.R. 24 
+703 (1957) (collecting cases from 19th and 20th centuries). 
+
+
+® Banks often required borrowers to keep a portion of funds lent — 
+called a “compensating balance” — in the bank, thus allowing the bank 
+to receive a higher effective rate of interest on the money that actually left 
+the bank. James, supra, at 84; GREEF, supra, at 15 0.35 (quoting 
+ConDY RAGUET, A TREATISE ON CURRENCY AND BANKING 105 (1840)). 
+
+
+™ See JAMES, supra, at 55-56; J.S. Gmpons, THE Banks OF NEW 
+York, THem Deaters, THE CLEARING HOUSE, AND THE PANIC OF 
+1857, at 236-37 (1859) (1857 bank statement shows “bills discounted” as 
+almost 60% of assets and over 18 times the amount of “loans”). 
+
+
+% ©[E}very association may take, receive, reserve, and charge on any 
+loan or discount made, or upon any note, bill of exchange, or other 
+evidences of debt, interest at the rate allowed by the laws of the state. . . 
+where the bank is located... .” (Emphasis added.) 
+
+
+22 
+
+
+exchange fees that were greater than the difference in 
+currency value between the two locations involved in the 
+transaction.” The practice had received the attention of 
+
+
+generally accepted meaning in 1864 and to apply it to a wide 
+variety of lending charges other than periodic time-based 
+percentage payments. There is no principled reason for 
+
+
+* For example, if the current rate of exchange between Connecticut 
+and New York was 4%, a bank might charge the customer as high as 
+3%. See Dewey, supra, at 167-68. 
+
+
+” In debating the National Currency Act, which contained a similar 
+provision, Senator Sherman contended that “bankers can make « 
+reasonable profit under this bill | have no doubt” because, in part, “[tJhey 
+have the benefit of exchange; not the rates of exchange formerly paid, but 
+that incidental exchange which every bank draws in charges in drawing 
+a draft, probably a quarter or a half of one percent.” Conc. GLOBE, 37th 
+Cong., 34 Sess. 875 (1863) (remarks of Sen. Sherman). This clear 
+statement of Congressional intent was later embodied in Section 85. 
+although the small exchange fees reflecting the bank's cost of exchanging 
+currency would be exempted from Section 85, larger fees imposed in 
+connection with bills of exchange would be included in the definition of 
+“interest - 
+
+
+subsequently adopted by the OCC. See Marquette Nat’! Bank 
+v. First of Omaha Serv. Corp., 439 U.S. 299, 314 1.26 
+(1978). 
+
+The following year, this Court again confirmed that 
+Sections 85 and 86 should “be liberally construed to effect 
+the object which Congress had in view in enacting [them].” 
+Farmers’ & Mechanics’ Nat’! Bank v. Dearing, 91 U.S. 29, 
+35 (1875). The Court concluded that these sections “cover 
+the entire subject” of national bank lending and that “the 
+
+
+24 
+
+
+warren magne Ps A tr gee one Ee 
+neither expressly nor by implication.” Jd. at 32, 35. In 
+words of equal force here, the Court in Dearing also 
+reaffirmed the goal of uniformity under the Act by rejecting 
+the defendant’s proposed interpretation of Sections 85 and 86, 
+
+
+which would have led to divergent penalties for violating 
+interest rate ceilings in different states: 
+
+
+A purpose to produce or permit such a state of things 
+Ought not to be imputed to Congress, unless the 
+circumstances are so cogent as to render that result 
+inevitable. 
+
+
+Id. at 33. 
+
+This approach to construing Section 85 continued in 
+subsequent decisions. In Citizens National Bank v. Donnell, 
+195 U.S. 369 (1904), this Court applied Section 85 to cover 
+late charges (specifically, monthly charges on an overdrawn 
+account), thus recognizing the broad definition of “interest” 
+intended by Congress. Other federal and state court decisions 
+— often without even considering the possibility that interest 
+could be more narrowly defined — have consistently so 
+applied Section 85 for over a hundred years. Most relevant 
+here, they have consistently held that Section 85 covers all 
+lending charges received by a national bank whether or not 
+there was a time element.™* 
+
+
+™ These charges have included bonuses and commissions, 
+Cronkleton v. Hall, 66 F.2d 384 (8th Cir.), cert. denied, 290 U.S. 685 
+(1933), Baker v. Lynchburg Nat'l Bank, 91 S.E. 157 (Va. 1917); credit 
+card cash advance charges, Fisher v. First Nat'l Bank, $48 F.2d 255 (8th 
+Cir. 1977); charges for mortgage taxes and recording fees, Panos v. 
+Smith, 116 F.2d 445 (6th Cir. 1940); Schumacher v. Lawrence, 108 F.2d 
+576 (6th Cir. 1940); compensating balance requirements, American 
+Timber & Trading Co. v. First Nat'l Bank, 690 F.2d 781 (9th Cir. 1982); 
+McAdoo v. Union Nat'l Bank, 535 F.24 1050 (8th Cir. 1976); and 
+brokerage fees, In re Gerber's Estate, 9 A.2d 438 (Pa. 1939). 
+
+
+These [national] banks will, of course, have very 
+extensive loan transactions all over the country. They 
+are organized for that purpose, and they will be sure 
+to carry it out to the whole extent of the power, if 
+they can do it with anything like safety to 
+
+
+12 U.S.C. §§ 21 et seg. For years, the OCC has interpreted 
+Section 85 broadly to include all charges, sae 
+
+
+*” Conc. GLOBE, 38th Cong., ist Sess. 2021 (1864) (remarks of Sen. 
+Johnson). 
+
+
+© See, ¢.g., 61 Fed. Reg. 4849, 4869 (1996) (to be effective on 
+April 1, 1996 and codified at 12 C.F.R. § 7.4001); Letter from Robert B. 
+Serino, OCC Deputy Chief Counsel (Policy) 2 (Aug. 11, 1988), reprinted 
+in [1988-1989 Transfer Binder] Fed. Banking L. Rep. (CCH) { 85,676, 
+a TA80 GIDE Retameetve Later Ha. GS) Lets tam Wiliam P. 
+Bowden, Jr., OCC Chief Counsel, 1992 WL 136390 (OCC) (Feb 
+
+1992); Letter from Richard V. Fitzgerald, Director, OCC land Abdeom 
+Servs. Div. 3-4 (Nov. 24, 1980). 
+
+
+26 
+
+
+Conclusion 
+
+
+For the reasons stated, the judgment of the Supreme 
+Court of California should be affirmed. 
+
+
+Respectfully submitted, 
+
+
+JOHN L. WARDEN 
+
+Counsel of Record for The New 
+York Clearing House Association 
+Amicus Curiae 
+
+
+125 Broad Street, 
+New York, New York 10004. 
+(212) 558-4000 
+H. Rodgin Cohen 
+Richard J. Urowsky 
+Lori S. Sherman 
+Marc De Leeuw 
+SULLIVAN & CROMWELL 
+Of Counsel 
+
+
+March 29, 1996 
+
+

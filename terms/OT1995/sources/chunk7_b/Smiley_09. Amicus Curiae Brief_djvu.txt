@@ -1,0 +1,1689 @@
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+BARBARA SMILEY, PETITIONER 
+v. 
+
+
+CITIBANK (SOUTH DAKOTA), N.A. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE SUPREME COURT OF CALIFORNIA 
+
+
+BRIEF FOR THE UNITED STATES AND THE 
+COMPTROLLER OF THE CURRENCY 
+AS AMICI CURIAE SUPPORTING RESPONDENT 
+
+
+Drew S. Days, III 
+Solicitor General 
+
+FRANK W. HUNGER 
+Assistant Attorney General 
+
+
+PAUL BENDER 
+Deputy Solicitor General 
+
+
+IRVING L. GORNSTEIN 
+
+
+JULIE L. WILLIAMS Assistant to the Solicitor 
+
+
+Chief Counsel — 
+L. ROBERT GRIFFIN BARBARA C. BIDDLE 
+JOAN M. BERNOTT JACOB M. LEWIS 
+HORACE G. SNEED Attorneys 
+Attorneys 
+Office of the Comptroller Department of Justice 
+of the Currency Washington, D.C. 20530 
+Washington, D.C. 20219 (202) 514-2217 
+
+
+QUESTION PRESENTED 
+
+
+Whether credit card late fees are “interest” within 
+the meaning of 12 U.S.C. 85, which permits a national 
+bank to charge “interest” on its loans “at the rate 
+allowed” by the State in which the bank is located. 
+
+
+(I) 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+Interest of the United States and the Comptroller of 
+1113111 1 
+ee 2 
+— 5 
+Argument: 
+
+
+The Comptroller of the Currency has reasonably 
+concluded that credit card late fees are interest 
+within the meaning of 12 U.S. C. 8 : 
+A. The Comptroller's conclusion that late fees 
+
+are interest is consistent with the meaning 
+
+of interest at the time Congress enacted 
+
+
+333 — — —-—-— 12 
+B. The Comptroller's interpretation furthers 
+
+the purposes of Section 8 18 
+
+The Comptroller’s interpretation is entitled 
+
+eT 20 
+
+
+D. State laws that purport to limit the late fees 
+that a national bank located elsewhere may 
+
+
+collect are preempted .................cccccccceeseeeeeees 
+
+
+TABLE OF AUTHORITIES 
+Cases: 
+
+
+Adama Fruit Co. v. Barrett, 494 U.S. 638 (19900 21 
+Anderson Nat'l Bank v. Luckett, 321 U.S. 233 
+
+
+1 9 
+Barnett Bank of Marion County, V. A. v. Nelson, 
+
+No. 94-1837 (Mar. 26, 19986) 23, 24, 25 
+Brown v. Hiatts, 82 U.S. (15 Wall.) 177 (1873) ....... 12 
+
+
+Chevron U.S.A. Inc. v. Natural Resources Defense 
+Council, Inc., 467 U.S. 887 (19860) 11, 12 
+
+
+IV 
+Cases—Continued: Page 
+
+Cipollone v. Liggett Group, Inc., 505 U.S. 504 
+
+. é 25 
+Citizens’ Nat'l Bank v. Donnell, 195 U.S. 369 
+
+. —— 15, 16 
+Craig v. Pleiss, 26 Pa. 271 (1856) 13, 14 
+Daggett v. Pratt, 15 Mass. 177 (181 13 
+Daggs v. Phoenix Nat'l Bank, 177 U.S. 549 (1900) . 14 
+Deputy v. du Pont, 308 U.S. 488 (1940) 17 
+Fidelity Fed. Sav. & Loan Ass'n v. de la Cuesta, 
+
+IL ee 26 
+Hines v. Davidowitz, 312 U.S. 52 (1941) 24 
+Investment Co. Inst. v. Camp, 401 U.S. 617 
+
+——— — . 21 
+Library of Congress v. Shaw, 478 U.S. 310 
+
+Ee ee 15 
+Lloyd v. Scott, 29 U.S. (4 Pet.) 205 (1830) .............. 17 
+Marquette Nat'l Bank v. First of Omaha Serv. 
+
+Corp., 439 U.S. 299 (1978) 8, 9, 19, 20, 24, 25 
+McCulloch v. Maryland, 17 U.S. (4 Wheat.) 316 
+
+—— y 
+Meilink v. Unemployment Reserves Comm'n, 
+
+» . eT 16. 17 
+
+
+Nations gan of North Carolina, N.A. v. Variable 
+Annuity Life Ins. Co., 115 S. Ct. 810 (1995). 1, 4, 11, 12, 
+
+
+17, 19, 21, 22, 26 
+Redfield v. Ystalyfera Iron Co., 110 U.S. 174 
+
+
+— — —ů ö—ꝓ 12 
+Rice v. Santa Fe Elevator Corp., 331 U.S. 218 
+SRY RE SE YE 23, 25 
+
+
+Sherman v. Citibank (South Dakota), V. A., 668 
+A.2d 1036 (NJ. 1995), petition for cert. pending, 
+26 ————— Maite 2 
+Shoemaker v. United States, 147 U.S. 282 (1893) 12 
+Spain v. Hamiltons Adm'r, 68 U.S. (1 Wall.) 604 
+ee 17 
+
+
+Cases—Continued: Page 
+Tiffany v. National Bank of Missouri, 85 U.S. 
+en 8, 18, 25, 26 
+United States v. North Carolina, 136 U.S. 211 
+a ĩ2 » 12 
+United States v. Texas, 507 U.S. 529 (19983) 17 
+Wernwag v. Mothershead, 3 Blackf. 401 (Ind. 
+— . — — 13. 14 
+Wilkinson v. Daniel, 1 Greene 179 (Iowa 1848) ....... 13 
+Statutes and regulation: 
+National Bank Act, ch. 106, § 30, 13 Stat. 108 (1864) .. x 
+National Bank Act, 12 U.S.C. 21 ef %% l 
+ER 0 r 26 
+ee passim, la 
+[ 21 
+cg —— 20 
+— ͥ . —— 21 
+D · K 21 
+NJ. Stat. Ann. § 17:13-104(b) (West Supp. 1995) ....... 18 
+S. D. Codified Laws Ann. 
+r 3 
+ä —— 3 
+. K„— — 1, 11, 23, 3a 
+Miscellaneous: 
+61 Fed. Reg. (daily ed. Feb. 9, 1996): 
+GO 23 
+n 1, 11, 23 
+Letter from William P. Bowden, Jr., Chief Counsel, 
+to Robert G. Ballen, Esq. (Feb. 4, 1992) .................. 10 
+Letter from L.A. Jennings, Deputy Comptroller 
+of the Currency (Feb. 24, 19550) 10 
+
+
+Letter from Robert B. Serino, Deputy Chief Counse! 
+(Policy) (Aug. 11, 1988), [1988-1989 Transfer Binder 
+Fed. Banking L. Rep. (CCH) 4 85,676 (OCC Inter- 
+pretive Letter No. 662 10-11, 23 
+
+
+Miscellaneous—Continued: Page 
+
+
+Letter from Julie L. Williams, Chief Counsel, to John 
+L. Douglas, Esq. (Feb. 17, 1995), [1994-1995 Trans- 
+fer Binder) Fed. Banking L. Rep. (CCH) 
+
+
+| ——— 10, 16, 23 
+2 Noah Webster, American Dictionary of the English 
+?- . —-— 13-14 
+
+
+In the Supreme Court of the United States 
+
+
+OcTOBER TERM, 1995 
+
+
+No. 95-860 
+BARBARA SMILEY, PETITIONER 
+. 
+
+
+CITIBANK (SouTH DAKOTA), N. A. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE SUPREME COURT OF CALIFORNIA 
+
+
+BRIEF FOR THE UNITED STATES AND THE 
+COMPTROLLER OF THE CURRENCY 
+AS AMICI CURIAE SUPPORTING RESPONDENT 
+
+
+INTEREST OF THE UNITED STATES AND THE 
+COMPTROLLER OF THE CURRENCY 
+
+
+The Comptroller of the Currency is the primary 
+regulator of national banks chartered under the 
+National Bank Act, 12 U.S.C. 21 et seg. See Nations- 
+Bank of North Carolina, N.A. v. Variable Annuity 
+Life Ins. Co., 115 S. Ct. 810, 813 (1995). The resolution 
+of the question presented in this case will affect that 
+responsibility. The Comptroller has issued a regula- 
+tion that interprets the term “interest” in 12 U.S.C. 
+85 to include late fees. 61 Fed. Reg. 4869 (daily ed. 
+Feb. 9, 1996) (to be codified at 12 C.F.R. 7.4001(a)). 
+The Comptroller participated as an amicus curiae 
+
+
+(1) 
+
+
+2 
+
+
+before the California Supreme Court in this case, and 
+before the New Jersey Supreme Court in Sherman v. 
+Citibank (South Dakota), N.A., 668 A.2d 1036 (1995), 
+petition for cert. pending, No. 95-991, which raised the 
+same issue. 
+
+
+STATEMENT 
+
+
+1. Respondent Citibank (South Dakota), N.A. 
+(Citibank) is a national bank located in Sioux Falls, 
+South Dakota. Pet. App. 2. Citibank issues credit 
+cards under the “Visa” and “Mastercard” service 
+marks. Ibid. Petitioner Barbara Smiley, who lives in 
+Los Angeles County, California, holds two Citibank 
+credit cards. Ibid. The agreements for the use of 
+those cards both provide for finance charges on the 
+unpaid balance and late fees for failure to make the 
+minimum required payment on time. 
+
+The agreement for one of petitioner’s cards (the 
+Classic Card) provides that, if petitioner does not pay 
+the outstanding balance in full before its due date, 
+Citibank will impose a finance charge of 1.65% on the 
+average daily balance for that monthly billing period. 
+J.A. 51-52. A minimum monthly payment is required 
+for outstanding balances. J. A. 55. For each monthly 
+billing period in which petitioner fails to make her 
+minimum monthly payment within 25 days of its due 
+date, Citibank imposes a late fee of $15 in addition to 
+the monthly finance charge. J.A. 56. The agreement 
+for petitioner’s other card (the Preferred Card) pro- 
+vides that, if petitioner does not pay the outstanding 
+balance in full before its due date, Citibank will 
+impose a monthly finance charge of 1.4% on the 
+average daily balance. J. A. 67-68. If petitioner does 
+not make the minimum monthly payment within 15 
+days of its due date, Citibank will impose a late fee of 
+
+
+3 
+
+
+$6 in addition to the monthly finance charge. J. A. 74. 
+If that minimum payment is not received by the next 
+minimum monthly payment due date, Citibank im- 
+poses an additional late fee of $15 or 65% of the 
+outstanding balance, whichever is greater. Ibid. The 
+finance charges and late fees imposed by Citibank are 
+permitted by South Dakota law. S. D. Codified Laws 
+Ann. $§ 54-3-1, 54-3-1.1 (1990 & Supp. 1995). 
+
+2. In 1992, petitioner filed a class action complaint 
+against Citibank in California superior court on be- 
+half of herself and other California holders of 
+Citibank credit cards. Pet. App. 2. She alleged that 
+Citibank had violated California consumer protection 
+laws by charging its California credit card customers 
+a late fee of up to $15. Ibid. Citibank moved for 
+judgment on the pleadings, arguing that petitioner’s 
+claims are preempted by 12 U.S.C. 85, which permits a 
+national bank to charge “interest at the rate allowed 
+by the laws of the State * * * where the bank is 
+located.” Pet. App. 3-4. 
+
+The superior court initially denied Citibank’s 
+motion. Pet. App. 4. After the California court of 
+appeal issued a writ of mandate directing the superior 
+court to either grant Citibank’s motion or show cause 
+why it should not be required to do so, however, the 
+superior court granted Citibank’s motion. Id. at 5. 
+The court of appeal affirmed. [bid. 
+
+3. After granting review, the Supreme Court of 
+California affirmed. Pet. App. 1-72. The court held 
+that “interest” under Section 85 includes “a late 
+payment fee, payable contingently in the event of 
+default after maturity.” /d. at 19. The court reasoned 
+that, at the time of the enactment of Section 5, the 
+term “interest” included any charge for the use or 
+
+
+4 
+
+
+detention of money, id. at 18, and that definition 
+“easily encompasses late payment fees,” id. at 21. 
+
+The court also concluded that excluding late fees 
+from the definition of “interest” would undermine 
+Congress’s decision to grant national banks “most 
+favored lender” status in the States in which they are 
+located so as to protect them from unfriendly state 
+legislation. Pet. App. 21-22. For example, “a state 
+could allow periodic percentage charges payable 
+absolutely by maturity for all lenders, including 
+national banks, but fix them at a rate so low that 
+they could lend only at a loss. It might then allow late 
+payment fees to some lenders, not including national 
+banks, at a level high enough that they could lend at a 
+profit.” Jd. at 22. 
+
+The court further concluded that excluding late 
+fees from Section 85 would adverse affect the 
+national banking system. Subjecting national banks 
+to the varying laws of the States on late fees could 
+“throw into confusion the complex system of modern 
+interstate banking” and “undermine the conditions 
+for uniformity and efficiency that would otherwise 
+obtain.” Pet. App. 29. Precluding a national bank 
+from charging the credit terms allowed by the State 
+in which it is located would also have “a corres- 
+ponding adverse effect on the national bank’s poten- 
+tial customer, whose freedom to borrow on conditions 
+he deems reasonable would also be restricted.” Ibid. 
+(emphasis omitted). The court noted that its inter- 
+pretation was “in line with interpretations of the 
+Comptroller of the Currency, who ‘is charged with 
+the enforcement of the [federal] banking laws.“ Id. at 
+27 (quoting NationsBank of North Carolina, N.A. v. 
+Variable Annuity Life Ins. Co., 115 S. Ct. 810, 813 
+(1995)). 
+
+
+5 
+
+
+Judge Arabian and Judge George dissented. Pet. 
+App. 42-62, 63-72. Judge Arabian concluded that, by 
+linking the terms “interest” and “rate,” Section 85 
+limits “interest” to a sum calculated as a percentage 
+of the loan over time. Id. at 45-46. Judge George 
+concluded that fees that depend on the borrower’s own 
+conduct during the term of the loan, such as late 
+payment fees, are not “interest” within the meaning 
+of Section 85. Id. at 65-66. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The question presented in this case is whether 
+credit card late fees are “interest” within the 
+meaning of 12 U.S.C. 85, which permits a national 
+bank to charge interest on its loans at the rate 
+allowed by the State in which the bank is located. The 
+Comptroller of the Currency has reasonably con- 
+cluded that late fees are interest. The Court should 
+defer to that conclusion. 
+
+A. The Comptroller’s view that late fees are in- 
+terest is consistent with the meaning of that term at 
+the time Congress enacted Section 85 in 1864. At that 
+time, interest was defined broadly as any charge for 
+the use or detention of money. Consistent with that 
+understanding, state courts of that era characterized 
+charges for late payment as interest. That was true 
+regardless of whether the late charges were in the 
+form of flat fees or an increase in the percentage 
+interest rate for the loan. 
+
+The use of the term “rate” in Section 85 does not 
+limit the late payment fees covered by that provision 
+to those expressed as a percentage of the outstanding 
+balance. When Congress enacted Section 85, the rate 
+of interest meant the amount of interest, and there- 
+fore encompassed flat late fees as well as percentage 
+
+
+6 
+
+
+charges. Flat fees can also readily be converted to 
+percentage charges to determine whether they ex- 
+ceed any applicable percentage limits. They are no 
+less interest when a State puts no percentage lim- 
+itation on late fees. 
+
+The resolution of the question in this case does not 
+depend on whether Citibank’s late fee is viewed as a 
+penalty. When a charge is for the use or detention of 
+money, it ie interest, regardless of whether it is also 
+aptly characterized as a penalty. Petitioner’s con- 
+tention based on its characterization of Citibank’s 
+late fee as a penalty is a claim that the amount of the 
+fee is excessive when compared to the increased risks 
+and costs associated with late payment. Congress has 
+committed that question to the State in which a 
+national bank is located. 
+
+B. The Comptroller’s conclusion that late fees are 
+interest is also consistent with the purposes of 
+Section 85. Congress enacted Section 85 in order to 
+give national banks most-favored-lender status so 
+that they could establish a firm footing in potentially 
+hostile States. If late fees were not treated as in- 
+terest, States could give certain preferred state 
+lenders the exclusive right to charge late fees, 
+depriving national banks of their most-favored-lender 
+status and putting them at a significant competitive 
+disadvantage in the marketing of credit cards. Con- 
+gress also enacted Section 85 with the goal of estab- 
+lishing a national banking system. If national banks 
+were required to shape their late fee charges to meet 
+the varying and changing requirements in the 50 
+States, it would introduce additional burdens and 
+unnecessary confusion into the already complex 
+system of modern interstate banking. 
+
+
+7 
+
+
+C. The Comptroller’s interpretation is entitled to 
+deference. Congress has delegated to the Comptrol- 
+ler the authority to enforce the National Bank Act 
+and to issue regulations to carry out that respon- 
+sibility. This Court has therefore held that the 
+Comptroller is entitled to deference when he inter- 
+prets the requirements of that Act. Petitioner’s 
+contention that deference is not warranted because 
+the Comptroller has interpreted Section 85 incon- 
+sistently is incorrect. The prior interpretive letters 
+identified by petitioner do not detract from the 
+significance of the Comptroller’s current position. 
+
+D. Because late fees are interest within the 
+meaning of Section 85, state laws that purport to 
+preclude a national bank from imposing late fees that 
+are allowed by the State in which the bank is located 
+are preempted. Petitioner’s view that such state laws 
+are not preempted because it cannot be proved to a 
+certainty that late fees are interest is incorrect. The 
+question whether Section 85 interest includes late 
+fees is governed by ordinary principles of statutory 
+construction and administrative deference. Those 
+principles lead to the conclusion that late fees are 
+interest. 
+
+
+ARGUMENT 
+
+
+THE COMPTROLLER OF THE CURRENCY HAS REASON- 
+ABLY CONCLUDED THAT CREDIT CARD LATE FEES 
+ARE INTEREST WITHIN THE MEANING OF 12 U.S.C. 85 
+
+
+Section 85, originally enacted as Section 30 of the 
+National Bank Act, ch. 106, 13 Stat. 108 (1864), 
+provides that national banks may “take, receive, 
+reserve, and charge on any loan or discount made 
+interest at the rate allowed by the laws of the 
+State * * * where the bank is located.” 12 U.S.C. 85. 
+In Tiffany v. National Bank of Missouri, 85 U.S. (18 
+Wall.) 409, 413 (1873), the Court held that Section 85 
+permits national banks to charge the highest interest 
+rate allowed to lenders in the States in which they 
+are located, even if that rate is not available to state 
+banks. The Court concluded that Congress gave 
+national banks that special protection because there 
+was a very real danger that States would seek to 
+undermine the national banks through “unfriendly 
+legislation.” Ibid. The Court added that, because 
+national banks were established for the purpose of 
+providing a currency for the whole country and to 
+create a market for the loans of the federal govern- 
+ment, Congress had always treated national banks 
+as “National favorites.” Ibid. The Court has since 
+characterized the protection for national banks rec- 
+ognized in Tiffany as “ ‘most favored lender’ status.” 
+Marquette Nat! Bank v. First of Omaha Serv. Corp., 
+439 U.S. 299, 314 n.26 (1978).' 
+
+
+Even absent Section 85, state laws that discriminate 
+against national banks or impose an undue burden on their 
+functions would be preempted. Anderson Nat'l Bank v. 
+
+
+9 
+
+
+In Marquette, the Court held that Section 85 per- 
+mits a national bank to charge its out-of-state 
+customers the rate of interest allowed by the State in 
+which the national bank is located. 439 U.S. at 314- 
+319. The Court therefore concluded that a national 
+bank located in Nebraska could charge its Minnesota 
+customers the annual interest rate on their unpaid 
+credit card balances permitted by Nebraska law, even 
+though Minnesota imposed a lower limit. Jd. at 302. 
+The Court stated that the Congress that enacted 
+Section 85 “fully recognized the interstate nature of 
+American banking” and intended to facilitate a 
+“national banking system” by permitting national 
+banks to offer the interest rate permitted by the State 
+in which it was located to all of its customers. Id. at 
+314-318. The Court rejected the contention that Con- 
+gress could not have intended to impair a State’s 
+traditional power to enact effective usury laws for the 
+protection of its citizens, reasoning that such impair- 
+ment “has always been implicit in the structure of the 
+National Bank Act, since citizens of one State were 
+free to visit a neighboring State to receive credit at 
+foreign interest rates.” Id. at 318. Although the ease 
+with which credit cards may be obtained through the 
+mail “accentuated” the impairment of state usury 
+laws, that difference did not call for a different result. 
+Id. at 318-319. 
+
+The question in this case is whether credit card 
+late fees, like the percentage charges on unpaid 
+outstanding balances at issue in Marquette, are 
+“interest” within the meaning of Section 85. If late 
+fees are interest under Section 85, a national bank 
+
+
+Luckett, 321 U.S. 233, 248 (1944); McCulloch v. Maryland, 17 
+U.S. (4 Wheat.) 316, 436-437 (1819). 
+
+
+10 
+
+
+may charge its out-of-state cardholders such fees at 
+the rate permitted by the law of the State in which 
+the bank is located, without regard to any limitations 
+imposed by other States. If late fees are not interest 
+under Section 85, limitations on late fees imposed by 
+the States in which credit card customers reside 
+would not be preempted by Section 85. 
+
+Resolution of the question presented in this case 
+should begin with the recognition that the Comp- 
+troller of the Currency has concluded that late fees 
+are interest within the meaning of Section 85. The 
+Comptroller reached that conclusion at least as early 
+as 1955. At that time, Pennsylvania law permitted 
+lenders to collect a delinquency charge on an in- 
+stallment loan of 6% of the overdue installment or 
+$15, whichever was smaller. In response to an in- 
+quiry concerning whether national banks located in 
+Pennsylvania could impose delinquency charges on 
+installment loans, the Deputy Comptroller replied 
+that Section 85 gave national banks the right to 
+impose the delinquency charges authorized by 
+Pennsylvania law. Letter from L.A. Jennings, 
+Deputy Comptroller of the Currency (Feb. 24, 1955) 
+(reprinted at App., infra, Ta-8a). Since 1955, the 
+Comptroller has issued interpretive letters re- 
+affirming the position that Section 85 permits 
+national banks to charge late fees to the extent that 
+such fees are allowed by the State in which the bank 
+is located. Letter from Julie L. Williams, Chief 
+Counsel, to John L. Douglas, Esq. (Feb. 17, 1995), 
+[1994-1995 Transfer Binder] Fed. Banking L. Rep. 
+(CCH) 1 90,467, at 86,696-86,697; Letter from William 
+P. Bowden, Jr., Chief Counsel, to Robert G. Ballen, 
+Esq. 6 (Feb. 4, 1992); Letter from Robert B. Serino, 
+Deputy Chief Counsel (Policy) (Aug. 11, 1988), [1988- 
+
+
+11 
+
+
+1989 Transfer Hinder] Fed. Banking L. Rep. (CCH) 
+185,676, at 78,066 & n. (OCC Interpretive Letter No. 
+452). 
+
+On February 9, 1996, the Comptroller published an 
+interpretive regulation incorporating the view that 
+late fees are interest. That regulation states that the 
+term “interest” under Section 85 “includes any pay- 
+ment compensating a creditor or prospective creditor 
+for an extension of credit, making available of a line of 
+credit, or any default or breach by a borrower of a 
+condition upon which credit was extended.” 61 Fed. 
+Reg. 4869 (daily ed. Feb, 3, 1996) (to be codified at 12 
+C.F.R. 7.4001(a)). Included in that definition are 
+“numerical periodic rates, late fees, not sufficient 
+funds (NSF) fees, overlimit fees, annual fees, cash 
+advance fees, and membership fees.” hid.“ 
+
+In NationsBank of North Carolina, N.A. . 
+Variable Annuity Life Ina. Co, 115 8. Ct. 810, 813 
+(1995), the Court held that the Comptroller's inter- 
+pretations of the National Bank Act are entitled to 
+Chevron deference. See Chevron U.S.A. Ine. v. 
+Natural Resources Defense Council, Inc., 467 U.S 
+837, 842 (1984). Accordingly, when a provision of the 
+National Bank Act “is silent or ambiguous” on an 
+issue, the Court defers to the Comptroller's inter- 
+pretation, so long as it reflects “a permissible con- 
+struction.” NationsBank, 115 8. Ct. at 813 (quoting 
+Chevron, 467 U.S. at 843). Stated differently, when 
+
+
+* The regulation also states that interest under Section 85 
+“does not ordinarily include appraisal fees, premiums and com- 
+missions attributable to insurance guaranteeing repayment of 
+any extension of credit, finders’ fees, fees for document prep- 
+aration or notarization, or fees incurred to obtain credit 
+reports.” 61 Fed. Reg. 4869 (daily ed. Feb. 9, 1996). 
+
+
+12 
+
+
+the Comptroller’s interpretation of the National Bank 
+Act “fills a gap or defines a term in a way that is 
+reasonable in light of the legislature’s revealed 
+design,” the Court gives the Comptroller's judgment 
+“controlling weight.” 115 8. Ct. at 813-814 (quoting 
+Chevron, 467 U.S. at 844). For reasons that follow, 
+the Comptroller has reasonably concluded that late 
+fees are interest within the meaning of Section 85. 
+The Court should therefore give the Comptroller's 
+
+
+interpretation controlling weight. 
+
+
+A. The Comptroller's Conclusion That Late Fees Are 
+
+
+1. At the time Section 85 was enacted in 1864, the 
+term “interest” meant any charge by a lender for the 
+use or detention of money. Thus, in a case 
+shortly after the enactment of Section 85, the Court 
+defined interest as “the compensation allowed by law, 
+or fixed by the parties, for the use or forbearance of 
+money, or as damages for its detention.” Brown v. 
+Hiatts, 82 U.S. (15 Wall.) 177, 185 (1873). Subsequent 
+cases adopted a similarly broad definition of interest. 
+See Redfield v. Ystalyfera Iron Co,, 110 U.S, 174, 176 
+(1884) (“Interest is given on money demands as dam- 
+ages for delay in payment, being just compensation to 
+the plaintiff for a default on the part of his debtor.”); 
+United States v. North Carolina, 186 U.S. 211, 216 
+(1890) (“Interest * * * is allowed by the courts as 
+damages for the detention of money * * * or of 
+compensation|] to which the [lender] is entitled.”); 
+Shoemaker v. United States, 147 U.S, 282, 321 (1893) 
+(“Interest * * * (includes) damages, by reason of the 
+failure of the debtor to pay the principal when due.“). 
+
+
+13 
+
+
+Consistent with that understanding of the meaning 
+of interest, nineteenth century case law character- 
+ized charges for late payment as interest. That view 
+
+: of whether the late fees were in 
+the form of flat fees or an increased percentage rate 
+after default. See, ¢.g., Daggett v. Pratt, 15 Mass. 177 
+(1818) (notes providing for 3% interest if paid at 
+maturity, “if not, six per cent. interest to be paid”); 
+Wernwag v. Mothershead, 3 Blackf. 401, 402 (Ind. 
+1834) (promissory note providing that, if it was not 
+paid when due, the borrower would pay “five dollars 
+interest per week” until the note was paid off); 
+Wilkinson v. Daniels, 1 Greene 179, 188 (lowa 1848) 
+(note providing for 12% interest if paid at maturity, 
+“and if not paid to the day, fifteen per cent”); Craig v. 
+Pleiss, 26 Pa. 271, 273 (1856) (conelud 
+late fee was a “rate of compensation” within a state 
+usury statute), The Comptroller's conclusion that 
+the term “interest” includes late fees is therefore 
+consistent with the meaning that term had at the 
+time Congress enacted Section 85. 
+
+2. Petitioner contends (Br. 11, 15-16) that the 
+coupling of the term “rate” with the term “interest” 
+in Section 85 narrows the late fees covered by that 
+provision to those that are charged as a percentage of 
+the outstanding balance. See 12 U.S.C. 85 (permitting 
+a national bank to collect interest “at the rate” 
+allowed by the State in which it is located), Under 
+that interpretation, Citibank’s late charge of .65% of 
+the outstanding balance on its Preferred Card would 
+be interest, J.A. 74, while the flat charge of $15 on its 
+Classic Card would not be, J. A. 56. At the time of the 
+enactment of Section 85, however, the “rate” of 
+interest meant the amount of interest; it was not 
+limited in meaning to a percentage charge. See 2 
+
+
+14 
+
+
+Noah Webster, American Dictionary of the English 
+Language (1828) (def. 2; rate“ means: “Price or 
+amount stated or fixed on any thing. * * * The rate 
+of interest is prescribed by law.“); Craig, 26 Pa. at 273 
+(describing $25 flat late fee as a “rate of compen- 
+sation”); Wernwag, 3 Blackf. at 402 (describing a flat 
+late fee of $5 per week as “interest at the rate 
+specified in the note”). The phrase interest “at the 
+rate allowed” by the State therefore encompasses late 
+fees that are expressed in both flat and percentage 
+terms. 
+
+The incorrectness of petitioner’s view that a flat 
+late fee is not interest under Section 85 becomes clear 
+when a bank charges a flat fee in a State that places a 
+percentage limit on late fees. For example, suppose a 
+State set a limit on late fees of 10% of the outstanding 
+balance. A national bank that charged a $15 flat late 
+fee on outstanding balances of $50 clearly could not 
+
+
+rate of interest permitted by Section 85 by claiming 
+that it was charging something other than interest. 
+In that situation, a court would be required to convert 
+the flat fee to a percentage of each customer’s balance 
+in order to determine whether the Bank had charged a 
+permissible rate of interest. The Court would con- 
+clude that the $15 fee could be charged to persons 
+with balances of $150 or more, but not to persons with 
+balances of less than $150 (10% of $150 = $15). If flat 
+late fees are interest within the meaning of Section 
+85 when a State sets a percentage limit on such fees, 
+they are equally interest under Section 85 when a 
+State like South Dakota sets no limit (percentage or 
+otherwise) on late fees. See Daggs v. Phoenix Nat'l 
+Bank, 177 U.S. 549, 554-555 (1900) (Section 85 adopts 
+state law rate of interest even when the applicable 
+
+
+15 
+
+
+state law permits the parties to agree by contract to 
+any rate of interest). 
+
+8. Petitioner also contends (Br. 32) that Citibank’s 
+based. In fact, however, Citibank's late fees are time- 
+based. Under Citibank's Classic Card t, for 
+example, Citibank charges a $15 late foe for every 
+month in which the mun t is not made on 
+time. J. A. 56. If a cardholder continually fails to 
+make the minimum payment, late fees will accrue at 
+the rate of $15 per month. 
+
+4. Petitioner argues (Br. 35-40) that there is a 
+sharp distinction between interest and a penalty, and 
+that Citibank’s flat late fee is a penalty rather than 
+interest. When a charge is made for the use or 
+detention of money, however, it does not lose its 
+character as interest within the meaning of Section 
+85 simply because the charge may also aptly be 
+characterized as a penalty. Indeed, At ſhe institution 
+of interest originated under Roman law as a penalty 
+due from a debtor who delayed or defaulted in repay- 
+ment of a loan.” See Library of Congress v. Shaw, 478 
+U.S. 310, 315 n.2 (1986). 
+
+This Court’s decision in Citizens’ Nat'l Bank v. 
+Donnell, 195 U.S. 369 (1904), illustrates that the 
+description of a lending charge as a “penalty” does not 
+remove it from the category of interest covered by 
+Section 85. In that case, a national bank had assessed 
+
+
+Ik the rate allowed by the State needed to be expressed in 
+ntage terms before a flat late fee would be treated as 
+interest, it would mean that South Dakota would have the 
+power to change the outcome in this case by setting an 
+extremely high percentage limit on late fees, such as 500% of 
+the outstanding balance. The scope of Section 85 does not 
+
+
+depend on such meaningless distinctions. 
+
+
+16 
+
+
+an overdraft charge of 12%, which exceeded the 
+
+
+bank was located. The bank argued that the overdraft 
+charge did not violate Section 85 because it was a 
+penalty for late payment. Id. at 373-874. The Court 
+rejected that argument and held that the overdraft 
+
+Petitioner’s characterization of Citibank’s late fee 
+as a penalty is also incomplete. The Comptroller has 
+concluded that e lredit risks associated with delin- 
+quent borrowers are typically higher than for 
+comparable borrowers who have not been delinquent, 
+and a bank’s costs for monitoring and collecting an 
+account rise if the account is late.” Williams Letter, 
+supra, [1994-1995 Transfer Binder] Fed. Banking L. 
+Rep. (CCH) 1 90,467, at 86,696. The Comptroller has 
+further concluded that Aelredit card late fees are 
+increased charges to borrowers who engage in de- 
+linquent payment behavior in order to compensate the 
+bank for these increased lending costs and risks, just 
+as banks customarily charge higher rates in other 
+contexts to borrowers who have had payment pro- 
+blems or otherwise appear to pose higher risks.” 
+Ibid.; see also Meilink v. Unemployment Reserves 
+Comm u, 314 U.S. 564, 567 (1942) (approving the 
+recovery of interest under the Bankruptcy Act ex- 
+ceeding the normal rate to compensate for increased 
+risk and administrative costs associated with delin- 
+quent taxpayers). 
+
+Petitioner does not deny that late payers impose 
+such increased risks and costs. Nor does petitioner 
+claim that a bank is precluded from seeking to cover 
+those increased risks and costs by imposing higher 
+interest charges on late payers. Instead, petitioner 
+contends (Br, 33, 39) that Citibank’s late fee greatly 
+
+
+17 
+
+
+exceeds any additional risk or cost to the bank that 
+flows from a cardholder’s failure to make the mini- 
+mum payment on time. But that argument is simply a 
+claim that Citibank’s late fees are excessive. Con- 
+gress has committed the question whether an in- 
+terest charge is excessive to the State in which the 
+national bank is located. Just as Section 85 permits 
+the State in which a bank is located to decide how 
+much a bank should be permitted to profit from its 
+percentage rate finance charges on unpaid balances, 
+80 Section 85 permits the State in which a national 
+bank is located to decide whether and how much the 
+bank should be permitted to profit from its late fee 
+charges.‘ 
+
+
+‘ Petitioner contends (Br. 30, 33, 35) that several decisions 
+of this Court establish that Section 85 draws a distinction 
+between interest and penalties, The cases on which petitioner 
+relies do not support that conclusion, In Lloyd v. Scott, 29 U.S, 
+(4 Pet.) 205, 226 (18380), the Court stated that contingent late 
+fees that exceed the lawful usury limit are not regarded as 
+usurious because the borrower may avoid the charge by paying 
+on time. In Spain v. Hamilton's Adm'r, 68 U.S, (1 Wall.) 604, 
+626 (1864), the Court held that certain contingent charges 
+would not be counted against a usury limit because they were 
+not designed to evade that limit. Lloyd and Spain therefore 
+addressed whether contingent charges were subject to the state 
+usury laws, not whether those charges were interest. In 
+Meilink, 314 U.S, at 570, the Court drew a distinction between 
+interest and penalties for purposes of deciding what charges 
+could be recovered under the Bankruptcy Act. But that is 
+because the text of the Bankruptcy Act drew that distinction. 
+Id. at 566. And in United States v. Texas, 507 U.S. 529, 536 
+(1993), the Court noted only that the common law right to 
+prejudgment interest did not include the right to collect 
+penalties. See also Deputy v. du Pont, 308 U.S. 488, 498 n.11 
+(1940) (noting that interest means different things in different 
+contexts); ef. NationsBank, 115 8. Ct. at 814 (holding that the 
+
+
+18 
+
+
+B. The Comptroller's Interpretation Furthers The 
+Purposes of Section 85 
+
+
+1. The Comptroller’s view that late fees are 
+interest also advances the purposes of Section 85. As 
+previously discussed, in enacting Section 85, Con- 
+gress intended to protect national banks against 
+“unfriendly State legislation” by according them 
+most-favored-lender status in the State in which they 
+are located. Tiffany, 85 U.S. (18 Wall.) at 412. Con- 
+gress wanted to ensure that national banks would 
+have a “firm footing” in the States in which they were 
+located so that they could compete effectively with 
+other lenders in the State. Jbid. If late fees are not 
+interest, a State could give a preferred category of 
+state lenders the exclusive right to charge late fees, 
+effectively divesting national banks of their most- 
+favored-lender status and putting them at a signifi- 
+cant competitive disadvantage. Permitting a State to 
+institute that sort of preference would create the 
+vary harms that Congress sought to avoid when it 
+enacted Section 85. 
+
+The dangers that Congress anticipated in 1864 have 
+not disappeared. For example, for a time, New Jersey 
+permitted only credit unions to charge credit card 
+late fees, giving credit unions a distinct advantage 
+over national banks in marketing such cards. Seé 
+N.J. Stat. Ann. § 17:13-104(b) (West Supp. 1995). The 
+Comptroller’s interpretation of Section 85 does not 
+countenance such “unfriendly” state legislation. 
+
+
+characterization of annuities in other settings as insurance did 
+not preclude the Comptroller from concluding that annuities 
+are not insurance for the purposes of the National Bank Act). 
+
+
+19 
+
+
+2. The Comptroller’s interpretation also accords 
+with the reality that a bank’s periodic finance charge 
+and its late fees are part of a package of lending 
+charges. The periodic percentage rate compensates 
+the bank for the time value of money, and the late fee 
+compensates the bank for the increased risks and 
+costs associated with late payment. The two are 
+functionally interrelated. If state law prevents a 
+national bank from imposing a late fee, or limits the 
+amount of such a fee, the bank might then increase 
+the percentage charge on the overall balance due to 
+compensate for the added costs associated with late 
+payers. Different views may be taken on which is a 
+fairer way for banks to recover the additional costs. 
+But the Comptroller could reasonably decide that a 
+bank’s recovery of such eosts is interest, regardless 
+of which approach a bank takes. Cf. NationsBank, 115 
+S. Ct. at 814-815, 817 (concluding that the functional 
+similarity between annuities and investments that 
+banks typically sell supported the Comptroller’s con- 
+clusion that the brokerage of annuities is incidental 
+to the business of banking). 
+
+3. The Comptroller’s conclusion that late fees are 
+interest is also consistent with the Court’s recogni- 
+tion in Marquette that the National Bank Act was 
+intended to establish and promote a “national bank- 
+ing system,” Marquette, 439 U.S. at 315 (emphasis 
+added). As the Court noted in Marquette, that 
+purpose is facilitated when national banks can offer 
+the lending charges permitted by the State in which 
+they are located to all of their customers. Id. at 314- 
+318. If national banks must shape their late fee 
+charges to meet the varying and changing require- 
+ments of the 50 States in which they market their 
+cards, it would introduce additional burdens and 
+
+
+20 
+
+
+unnecessary confusion into the already “complex 
+system of modern interstate banking.” Id. at 312. 
+
+4. Treating late fees as interest that may be 
+charged at the rate allowed by the State in which the 
+bank is located also has advantages for consumers. In 
+particular, it increases the ability of consumers to 
+choose the credit card with the finance terms that 
+best suits their needs. States may take varying 
+approaches to the kind of charges they will permit 
+lenders within their jurisdiction to impose, and banks 
+may take varying approaches to the kinds of credit 
+arrangements they wish to offer within the limits set 
+by the States in which they are located. Some States 
+may permit high percentage finance charges but no 
+late fees; others may set a low percentage limit on 
+finance charges, but permit late fees; and still others 
+may not set any limits on either the percentage 
+finance charge or late fees. Under the interpretation 
+adopted by the Comptroller, consumers in every State 
+will have the ability to select from among a poten- 
+tially wide variety of options, rather than being 
+restricted to the combination of charges permitted in 
+the consumer’s own State. 
+
+C. The Comptroller’s Interpretation Is Entitled To 
+
+Deference 
+
+
+1. Petitioner contends (Br. 27-28) that the Comp- 
+troller’s interpretation is not entitled to deference 
+because Congress has not delegated authority to the 
+Comptroller to enforce or interpret Section 85. But 
+Congress has given the Comptroller broad power to 
+enforce the requirements of the National Bank Act 
+through administrative proceedings, and that in- 
+cludes the authority to enforce Section 85. 12 U.S.C. 
+93 (power to impose civil penalties on national banks 
+
+
+21 
+
+
+for violations of the National Bank Act); 12 U.S.C. 
+1818(b) (power to issue cease-and-desist orders 
+against national banks to prevent violations of any 
+law, rule, or regulation). Congress has also given the 
+Comptroller authority “to prescribe rules and regula- 
+tions to carry out the responsibilities of the office.” 
+12 U.S.C. 93a. Petitioner’s contention that Congress 
+has not given the Comptroller the authority to en- 
+force or interpret Section 85 is therefore incorrect. 
+See also NationsBank, 115 S. Ct. at 813 (“As the 
+administrator charged with supervision of the Na- 
+tional Bank Act, the Comptroller bears primary 
+responsibility for surveillance of ‘the business of 
+banking’ ”) (citations omitted); Investment Co. Inst. v. 
+Camp, 401 U.S. 617, 626-627 (1971) (“The Comp- 
+troller of the Currency is charged with the enforce- 
+ment of the banking laws”). 
+
+As petitioner notes, 12 U.S.C. 86 authorizes a pri- 
+vate right of action to recover penalties for violations 
+of Section 85. Adams Fruit Co. v. Barrett, 494 U.S. 
+638, 649-650 (1990), holds that an administrative 
+agency does not ordinarily have the authority to 
+interpret enforcement provisions that are reserved 
+for private parties. But this case involves an inter- 
+pretation of the meaning of Section 85, which may be 
+enforced administratively as well as judicially. It 
+does not involve the interpretation of the scope of the 
+penalties available under Section 86. Petitioner's 
+reliance on Adams Fruit is therefore misplaced. 
+
+2. Petitioner also contends (Br. 28-29) that the 
+Comptroller’s current interpretation of Section 85 is 
+not entitled to deference because it is inconsistent 
+with previous interpretations offered by the Comp- 
+troller. An inconsistency in an agency’s position, 
+however, does not eliminate the deference that is 
+
+
+22 
+
+
+owed to the agency’s current position. NationsBank, 
+115 S. Ct. at 817. The ultimate inquiry is whether the 
+agency’s current position is reasonable. Id. at 813. If 
+it is, any inconsistency with prior positions is beside 
+the point. 
+
+The interpretive letters relied on by petitioner as 
+evidence of inconsistency do not detract from the 
+force of the Comptroller’s current position. In 
+arguing that the Comptroller has previously stated 
+that late fees are not interest under Section 85, 
+petitioner relies on a brief letter issued by then- 
+Comptroller Saxon in 1964. The portion of the letter 
+relied on by petitioner states that e lharges for late 
+payments, credit life insurance, recording fees, [and] 
+documentary stampls] are illustrations of charges 
+which are made by some banks which would not 
+properly be characterized as interest.” App., infra, 
+9a-10a. That letter, however, does not mention 
+Section 85. And from the context of the letter, it 
+appears that then-Comptroller Saxon was not ad- 
+dressing the meaning of interest under Section 85, 
+but was instead addressing what charges would be 
+counted as interest in determining whether a bank 
+had exceeded a State’s periodic percentage limit. See 
+ibid. (responding to additional questions concerning 
+the periodic percentage rate of certain States and the 
+formula that is used to convert charges to a rate 
+equivalent). 
+
+Petitioner argues further (Br. 28-29) that the 
+rationale for the Comptroller’s interpretation has 
+changed over time. As petitioner notes, an inter- 
+pretive letter issued by then-Deputy Chief Counsel 
+Serino in 1988 suggested that a national bank could 
+collect late fees under Section 85, because the State 
+in which the bank was located had defined interest to 
+
+
+23 
+
+
+include late fees. Serino Letter, supra, [1988-1989 
+Transfer Binder] Fed. Banking L. Rep. (CCH) 
+1 85,676, at 78,066 & n.3. The Comptroller has since 
+clarified his view that the meaning of the term 
+“interest” under Section 85 is a question of federal 
+law, and that the way a State defines interest for its 
+own purposes is not controlling. Williams Letter, 
+supra, [1994-1995 Transfer Binder] Fed. Banking L. 
+Rep. (CCH) 1 90,467, at 86,693-86,694 & n.3. That 
+approach is also embodied in the Comptroller's cur- 
+rent regulation. See 61 Fed. Reg. 4858, 4869 (daily ed. 
+Feb. 9, 1996) (to be codified at 12 C. F. R. 7.4001 (a) 
+(promulgating federal definition of interest under 
+Section 85)). Petitioner agrees with the Comp- 
+troller’s current view that what constitutes interest 
+is a question of federal law. The inconsistency in 
+approach identified by petitioner therefore does not 
+have any bearing on the reasonableness of the 
+Comptroller’s current position.’ 
+
+
+D. State Laws That Purport To Limit The Late Fees 
+That A National Bank Located Elsewhere May 
+Collect Are Preempted 
+
+
+1. A state law is preempted by federal law not only 
+when the state law and the federal law are in 
+“irreconcilable conflict,” Barnett Bank of Marion 
+County, N.A. v. Nelson, No. 94-1837 (Mar. 26, 1996), 
+slip op. 5 (quoting Rice v. Santa Fe Elevator Corp., 
+331 U.S. 218, 230 (1947)), but also when the state law 
+“stands as an obstacle to the accomplishment and 
+
+
+Because the Comptroller’s conclusion that late fees are 
+interest is based on a federal definition of interest, and the 
+California Supreme Court’s decision is premised on that same 
+view, the first two questions raised in the petition are not 
+presented in this case. 
+
+
+24 
+
+
+execution of the full purposes and objectives of Con- 
+gress,” Barnett Bank, slip op. 5 (quoting Hines v. 
+Davidowitz, 312 U.S. 52, 67 (1941)). In this case, 
+Section 85 authorizes a national bank to charge in- 
+terest at the rate allowed by the State in which the 
+bank is located. Any state law that attempts to limit 
+the interest that Section 85 authorizes national banks 
+to charge “stands as an obstacle” to the achievement 
+of Congress’s purposes and is therefore preempted, 
+The Court reached precisely that conclusion in 
+Marquette, when it noted that state efforts to limit 
+the amount of interest that Section 85 authorizes a 
+national bank to charge “must, of course, give way to 
+the federal statute.” 439 U.S. at 318 n.31; see also 
+Barnett Bank, slip op. 5 (when the National Bank Act 
+authorizes a national bank to engage in a particular 
+activity, a State’s prohibition of that activity stands 
+as an obstacle to the accomplishment of Congress's 
+purposes and is therefore preempted). 
+
+The preemption question presented in this case is 
+no different from the one presented in Marquette. 
+Because late fees fall within the category of interest 
+covered by Section 85, state laws that purport to 
+preclude a national bank from imposing late fees that 
+are authorized by the State in which a national bank 
+is located are preempted. 
+
+2. Petitioner nonetheless contends (Br. 18) that 
+state laws governing credit card late fees that pur- 
+port to apply to national banks located elsewhere are 
+not preempted because it cannot be shown “to a 
+certainty” that credit card late fees constitute 
+“interest” within the meaning of Section 85. The 
+question of preemption, however, “is basically one of 
+congressional intent. Did Congress, in enacting the 
+Federal Statute, intend to exercise its constitution- 
+
+
+ally delegated authority to set aside the laws of a 
+State?” Barnett Bank, slip op. 4. It is not governed 
+by the kind of rigid rule proposed by petitioner. 
+
+The test for preemption proposed by petitioner is 
+particularly unsuited to the resolution of the ques- 
+tion presented in this case. This Court’s search 
+for legislative intent has been informed by the well- 
+founded assumption that Congress does not ordinarily 
+seek to broadly displace historic state functions. 
+When that is the consequence of preemption, the 
+Court has sometimes looked for a “clear and manifest 
+purpose” to preempt. Cipollone v. Liggett Group, 
+Ine, 505 U.S. 504, 516 (1992); Rice, 331 U.S. at 230. 
+
+Section 85, however, does not affect a State's 
+general power to regulate commercial lending prac- 
+tices. Instead, it governs only the activities of 
+national banks. A national bank is an “instru- 
+mentalitly] of the Federal government, created for 
+a public purpose, and as such necessarily subject 
+to the paramount authority of the United States.” 
+Marquette, 439 U.S. at 308. Because of the impor- 
+tant public function they perform, Congress has 
+long treated national banks as “National favorites.” 
+Tiffany, 85 U.S. (18 Wall.) at 413. It would be in- 
+consistent with that tradition to require proof to 
+a certainty that Congress intended to preempt a 
+
+state law insofar as it affected national 
+banks. It is therefore not surprising that this Court 
+has decided preemption questions under the National 
+Bank Act without invoking the interpretive principle 
+relied on by petitioner. See Barnett Bank, slip op. 4- 
+11; Marquette, 439 U.S. at 313-319. Petitioner's state- 
+protective interpretive rule is especially out of place 
+in interpreting Section 85, since Congress enacted 
+that provision with the specific purpose of protecting 
+
+
+national banks from “unfriendly State legislation.” 
+Tiffany, 85 U.S. (18 Wall.) at 412. 
+
+Petitioner’s proposed preemption test suffers from 
+an additional defect. Under NationsBank, the Comp- 
+troller has authority to decide whether a particular 
+charge is interest when Congress’s intent is not 
+clear. 115 8. Ct. at 818. Under petitioner's pro- 
+posed test, however, that very lack of clarity would 
+automatically mean that the particular charge was 
+not interest. Petitioner’s approach therefore would 
+deprive the Comptroller of the authority granted by 
+Congress to fill in the gaps in the National Bank Act 
+through regulation and interpretation, a role that 
+does not disappear simply because the Comptroller's 
+interpretation might have the effect of preempting 
+state law. See Fidelity Fed. Sav. & Loan Ass n v. de 
+la Cuesta, 458 U.S. 141, 170 (1982) (holding that a 
+regulation of the Federal Home Loan Bank Board pre- 
+empted contrary state law, even though the governing 
+federal statute did not speak directly to the issue 
+resolved by the regulation); see also 12 U.S.C. 43 
+(requiring the Comptroller to give notice and seek 
+public comment before issuing an opinion letter or 
+interpretive rule that has the effect of preempting 
+state consumer protection law). 
+
+The question whether late fees are interest within 
+the meaning of Section 85 is therefore governed by 
+ordinary principles of statutory construction and 
+administrative deference. As we have shown, that 
+conventional approach leads to the conclusion that 
+late fees are interest under Section 85. 
+
+
+27 
+
+
+The judgment of the Supreme Court of California 
+should be affirmed. 
+
+
+Respectfully submitted. 
+
+
+Dasw 8. Days, III 
+
+
+PRANK W. HUNGER 
+Assistant Attorney General 
+Jute L. WILLIAMS PAUL BENDER 
+Chief Counsel Deputy Solicitor General 
+L. ROBERT GRIFFIN IRVING L. GORNSTEIN 
+JOAN M. BERNOTT Assistant to the Solicitor 
+Horace G. SNEED General 
+222 | BARBARA C. BIDDLE 
+Office of the Comptroller Jacos M. Lewis 
+of the Currency Attorneys 
+
+
+MARCH 1996 
+
+
+APPENDIX A 
+
+
+12 U.S.C, 85 provides: 
+
+
+§ 85. Rate of interest on loans, discounts and 
+
+
+Any association may take, receive, reserve, and 
+charge on any loan or discount made, or upon any 
+notes, bills of exchange, or other evidences of debt, 
+interest at the rate allowed by the laws of the State, 
+Territory, or District where the bank is located, or at 
+a rate of 1 per centum in excess of the discount rate 
+on ninety-day cémmercial paper in effect at the Fed- 
+
+
+lowed for associations organized or existing in any 
+such State under title 62 of the Revised Statutes. 
+When no rate is fixed by the laws of the State, or Ter- 
+ritory, or District, the bank may take, receive, re- 
+serve, or charge a rate not exceeding 7 per centum, or 
+per centum in excess of the discount rate on ninety 
+day commercial paper in effect at the Federal reserve 
+bank in the Federal reserve district where the bank is 
+located, whichever may be the greater, and such in- 
+terest may be taken in advance, reckoning the days 
+for which the note, bill, or other evidence of debt has 
+to run. The maximum amount of interest or discount 
+to be charged at a branch of an association located 
+outside of the States of the United States and the 
+District of Columbia shall be at the rate allowed by 
+the laws of the country, territory, dependency, prov- 
+
+
+(la) 
+
+
++ 
+
+
+2a 
+
+
+ince, dominion, insular possession, or other political 
+subdivision where the branch is located. And the pur- 
+chase, discount, or sale of a bona fide bill of exchange, 
+payable at another place than the place of such pur- 
+chase, discount, or sale, at not more than the current 
+rate of exchange for sight drafts in addition to the in- 
+terest, shall not be considered as taking or receiving 
+a greater rate of interest. 
+
+
+3a 
+
+
+12 C. F. R. 7.4001 [61 Fed. Reg. 4869 (Feb. 9, 1996)] 
+provides: 
+
+
+(a) Definition. The term “interest” as used in 12 
+U.S.C. 85 includes any payment compensating a 
+creditor or prospective creditor for an extension of 
+credit, making available of a line of credit, or any 
+default or breach by a borrower of a condition upon 
+which credit was extended. It includes, among other 
+things, the following fees connected with credit 
+extension or availability: numerical periodic rates, 
+late fees, not sufficient funds (NSF) fees, overlimit 
+fees, annual fees, cash advance fees, and membership 
+fees. It does not ordinarily include appraisal fees, 
+premiums and commissions attributable to insurance 
+guaranteeing repayment of any extension of credit, 
+finders’ fees, fees for document preparation or 
+notarization, or fees incurred to obtain credit reports. 
+
+
+may charge interest at the maximum rate permitted 
+to any state-chartered or licensed lending institution 
+by the law of that state. If state law permits different 
+
+
+national bank making is subject only to the 
+provisions of state law relating to that class of loans 
+
+
+mitted interest. For example, a national bank may 
+lawfully charge the highest rate permitted to be 
+
+
+4a 
+
+
+charged by a state-licensed small loan company, 
+without being so licensed, but subject to state law 
+limitations on the size of loans made by small loan 
+companies. 
+
+
+(e) Effect on state definitions of interest. The 
+Federal definition of the term “interest” in paragraph 
+(a) of this section does not change how interest is 
+defined by the individual states (nor how the state 
+definition of interest is used) solely for purposes of 
+state law. For example, if late fees are not “interest” 
+under state law where a national bank is located but 
+state law permits its most favored lender to charge 
+late fees, then a national bank located in that state 
+may charge late fees to its intrastate customers. The 
+national bank may also charge late fees to its 
+interstate customers because the fees are interest 
+under the Federal definition of interest and an 
+allowable charge under state law where the national 
+bank is located. However, the late fees would not be 
+treated as interest for purposes of evaluating com- 
+pliance with state usury limitations because state law 
+excludes late fees when calculating the maximum 
+interest that lending institutions may charge under 
+those limitations. 
+
+
+(d) Usury. A national bank located in a state the 
+law of which denies the defense of usury to a cor- 
+porate borrower may charge a corporate borrower 
+any rate of interest agreed upon by a corporate bor- 
+rower. 
+
+
+5a 
+
+
+12 C.F.R. 7.4002 [61 Fed. Reg. 4869-4870 (Feb. 9, 
+1996)] provides: 
+
+
+§ 7.4002 National bank charges. 
+
+
+(a) Customer charges and fees. A national bank 
+may charge its customers non-interest charges and 
+fees, including deposit account service charges. For 
+example, a national bank may impose deposit account 
+service charges that its board of directors determines 
+to be reasonable on dormant accounts. A national 
+bank may also charge a borrower reasonable fees for 
+credit reports or investigations with respect to a 
+borrower’s credit. All charges and fees should be 
+arrived at by each bank on a competitive basis and not 
+on the basis of any agreement, arrangement, under- 
+taking, understanding, or discussion with other banks 
+or their officers. 
+
+
+(b) Considerations. The establishment of non- 
+interest charges and fees, and the amounts thereof, is 
+a business decision to be made by each bank, in its 
+discretion, according to sound banking judgment and 
+safe and sound banking principles. A bank reasonably 
+establishes non-interest charges and fees if the bank 
+considers the following factors, among others: 
+
+
+(1) The cost incurred by the bank, plus a profit 
+margin, in providing the service; 
+
+(2) The deterrence of misuse by customers of bank- 
+ing services; 
+
+
+(3) The enhancement of the competitive position of 
+the bank in accordance with the bank’s marketing 
+strategy; and 
+
+
+6a 
+
+
+(4) The maintenance of the safety and soundness of 
+the institution. 
+
+
+(c) Interest. Charges and fees that are “interest” 
+within the meaning of 12 U.S.C. 85 are governed by 
+§ 7.4001 and not by this section. 
+
+
+(d) State law. The OCC evaluates on a case-by-case 
+basis whether a national bank may establish non- 
+interest charges or fees pursuant to paragraphs (a) 
+and (b) of this section notwithstanding a contrary 
+state law that purports to limit or prohibit such 
+charges or fees. In issuing an opinion on whether 
+such state laws are preempted, the OCC applies 
+preemption principles derived from the Supremacy 
+Clause of the United States Constitution and ap- 
+plicable judicial precedent. 
+
+
+(e) National bank as fiduciary. This section does 
+not apply to charges imposed by a national bank in its 
+capacity as a fiduciary, which are governed by 12 
+CFR part 9. 
+
+
+7a 
+
+
+APPENDIX C 
+
+
+Feb 24, 1955 
+
+
+Reference is made to the question submitted at the 
+recent examiners’ meeting by National Bank Exam- 
+iner L. Dale Shaffer, relating to charges made by 
+some banks in Pennsylvania when the payments on 
+installment loans are extended. 
+
+
+The Pennsylvania Small Loan Act, known as Act 
+No. 70, as amended, may be found in Purden’s Penn- 
+sylvania Statutes Annotated, Title 7, section 819- 
+1001, subparagraph A(4). The Act specifies that the 
+permissible charge on an installment loan is a 
+principal amount not exceeding $3,500, covering a 
+period not exceeding three years, shall be at a rate 
+not exceeding $6 per $100 per annum upon the original 
+face amount of the loan for the entire period of the 
+loan, which may be collected in advance. The Act also 
+provides: 
+
+
+“. . . No additional amount shall be charged or 
+contracted for, directly or indirectly, on or in 
+connection with any such installment loan, except 
+the following: (a) Delinquency charges not to 
+exceed five cents for each dollar of each install- 
+ment more than fifteen days in arrears: Provided, 
+That the total of delinquency charges on any such 
+installment loan shall not exceed fifteen dollars, 
+and only one delinquency charge shall be made on 
+any one installment; .. .” 
+
+
+8a 
+
+
+Under the above quoted exception in the law, state 
+banks in Pennsylvania, and therefore national banks 
+under the authority contained in Section 5197 of the 
+Revised Statutes (12 U.S.C. 85) may make a delin- 
+quency charge within the permissible limits when 
+monthly installment loan payments are extended. 
+
+
+Very truly yours, 
+
+
+/s/ Ly A. JENNINGS 
+L.A. Jennings 
+Deputy Comptroller of 
+the Currency. 
+
+
+9a 
+
+
+APPENDIX D 
+
+
+Jun 25 1964 
+
+
+Mr. David Swankin 
+
+Executive Office of The President 
+
+President’s Committee on Consumer 
+Interests 
+
+Room 183 
+
+Washington, D. C. 
+
+
+Dear Mr. Swankin: 
+
+
+In your letter of May 22, 1964, you made three 
+inquiries. 
+
+
+First, you ask the maximum interest rate that a 
+National Bank may charge in certain specified states. 
+Subject to certain exceptions it may generally be 
+stated that National Banks in California, Illinois, 
+Wisconsin and Kansas may charge interest at a rate 
+up to ten per centum per annum, while in Illinois the 
+normal maximum rate is seven per centum per 
+annum. 
+
+
+Secondly, you inquired as to what charges paid by 
+consumers for consumer credit obtained from a 
+National Bank with respect to auto financing are not 
+considered to be interest. Charges for late payments, 
+eredit life insurance, recording fees, documentary 
+stamp are illustrations of charges which are made by 
+
+
+10a 
+
+
+some banks which would not properly be character- 
+ized as interest. 
+
+
+Thirdly, you requested information as to the 
+formula used by bank examiner to convert charges to 
+rate equivalent for purpose of determining whether 
+the charges are at an excessive rate. Because of the 
+inter-relation of state laws with Federal laws there is 
+no set formula. The examiner must look at each 
+questioned transaction with the view of uncovering 
+any unlawful practice on the part of the lending 
+institution. In questionable cases the problem is 
+referred to the Law Department of the Office of the 
+Comptroller of the Currency for review. 
+
+
+If you should desire any additional information this 
+Office would be please to furnish such information 
+upon request. 
+
+
+Sincerely, 
+
+
+/s/ JAMES J. SAXON 
+James J. Saxon 
+Comptroller of the 
+
+Currency 
+
+
+WOM:dm 5/26/64 
+
+
