@@ -2,9 +2,9 @@
 
 ## Scope, law and chronology
 
-Current Court actions comprise 81 completed events and eight admitted noncase-law sources (89 canonical Records). The April 9 Bowersox interim order is followed by a separate final action granting Missouri's application, 5–4, and vacating the March 8 appellate stay with immediate effect. The Supreme Court application is closed. The underlying appeal and any other lawful restraints are not adjudicated; no substitute stay, fixed grace period, execution order, writ disposition or appeal dismissal is entered. Actual transmission, service, responses and elapsed interim clocks are not presumed. Thirteen chunk 5 Court events and all twelve chunk 4 actions are recorded. Ayers's March 25 library-only writ was dismissed as improvidently granted, 8–1; this Court's review ends while the Fifth Circuit appeal and the district court's remedial jurisdiction remain available. The dismissal changes no substantive desegregation rule and leaves every decree provision undisturbed without merits affirmance. The completed March 27 and April 1 groups retain their respective common March 26 and March 27 entering-law baselines. Jones’s financial-leave motion and certiorari petition remain pending; Wood remains an open plenary grant. Maine No. 35 and Louisiana No. 121 retain implementation jurisdiction, alongside the five inherited open matters. These are the nine previously identified continuing matters. Ayers is no longer an open Supreme Court matter; its pending lower-court appeal is preserved. Shieh’s separate certiorari petitions, Nos. 95-7587, 95-7588 and 95-7589, are also pending after their three individual financial motions were granted; they are not three additional completed Court events. Bowersox, No. A-828, is closed by the final April 9 application order; its underlying appeal and any other lawful restraints are not adjudicated. Latest completed Court group and current-law cutoff: Quackenbush, Smiley, Loving and Auciello, June 3, 1996; all four used the common complete May 28 entering-law state. All twelve chunk 6 Court events are complete. The latest admitted source remains PLRA sections 802–804, April 26, 1996. Next eligible inventory group: Richards, Whren, Degen and Exxon on June 10, using the common complete June 3 public-law state also preserved for the same-date IBM and Lockheed matters in chunk 8. The eight admitted sources are the October 1, 1995 paternity amendment; Rule 57 effective December 1, 1995, with its qualified pending-case transition; Public Law 104-91 enacted January 6, 1996, with its covered period deemed to begin December 16, 1995; Telecommunications Act §§302 and 551 enacted February 8, 1996, within their actual conditions and transitions; OCC §7.4001(a)–(d) effective April 1, 1996, within its credit-charge, home-state and corporate-usury conditions; AEDPA Title I enacted April 24, 1996; and PLRA sections 802–804 enacted April 26, 1996. AEDPA and PLRA retain their provision-specific conditions and temporal limits and change no pending case stage by admission alone.
+Current Court actions comprise 85 completed events and eight admitted noncase-law sources (93 canonical Records). The April 9 Bowersox interim order is followed by a separate final action granting Missouri's application, 5–4, and vacating the March 8 appellate stay with immediate effect. The Supreme Court application is closed. The underlying appeal and any other lawful restraints are not adjudicated; no substitute stay, fixed grace period, execution order, writ disposition or appeal dismissal is entered. Actual transmission, service, responses and elapsed interim clocks are not presumed. Thirteen chunk 5 Court events and all twelve chunk 4 actions are recorded. Ayers's March 25 library-only writ was dismissed as improvidently granted, 8–1; this Court's review ends while the Fifth Circuit appeal and the district court's remedial jurisdiction remain available. The dismissal changes no substantive desegregation rule and leaves every decree provision undisturbed without merits affirmance. The completed March 27 and April 1 groups retain their respective common March 26 and March 27 entering-law baselines. Jones’s financial-leave motion and certiorari petition remain pending; Wood remains an open plenary grant. Maine No. 35 and Louisiana No. 121 retain implementation jurisdiction, alongside the five inherited open matters. These are the nine previously identified continuing matters. Ayers is no longer an open Supreme Court matter; its pending lower-court appeal is preserved. Shieh’s separate certiorari petitions, Nos. 95-7587, 95-7588 and 95-7589, are also pending after their three individual financial motions were granted; they are not three additional completed Court events. Bowersox, No. A-828, is closed by the final April 9 application order; its underlying appeal and any other lawful restraints are not adjudicated. Latest completed chunk 7 Court actions and current-law cutoff: Richards, Whren, Degen and Exxon, June 10, 1996; all four used the common complete June 3 entering-law state. All twelve chunk 6 Court events are complete. The latest admitted source remains PLRA sections 802–804, April 26, 1996. Next eligible inventory matters: United States v. International Business Machines Corp., No. 95-591, and Lockheed Corp. v. Spink, No. 95-809, in chunk 8 on June 10; both must use the preserved pre-June10 projection of complete June 3 law with its chronology clarification, without law from any June 10 peer. The eight admitted sources are the October 1, 1995 paternity amendment; Rule 57 effective December 1, 1995, with its qualified pending-case transition; Public Law 104-91 enacted January 6, 1996, with its covered period deemed to begin December 16, 1995; Telecommunications Act §§302 and 551 enacted February 8, 1996, within their actual conditions and transitions; OCC §7.4001(a)–(d) effective April 1, 1996, within its credit-charge, home-state and corporate-usury conditions; AEDPA Title I enacted April 24, 1996; and PLRA sections 802–804 enacted April 26, 1996. AEDPA and PLRA retain their provision-specific conditions and temporal limits and change no pending case stage by admission alone.
 
-OCC §7.4001(a)–(d) is additionally admitted at its April 1, 1996 effective date after the bounded insertion review found no material effect on the 17 completed April 1–May 20 Court events. This eighth source changes no completed Court Record or pending stage. February 9 publication is distinct from April 1 effectiveness; source admission itself adjudicated no special retroactivity or earlier-case application. Smiley subsequently supplies its own qualified judicial use of the interpretation for antecedent transactions without backdating the rule. The current Court-event cursor is the complete Quackenbush/Smiley/Loving/Auciello June 3 group; the earlier Romer/BMW/Henderson/Casarotto May 20 group retains its common May 13 entering law without a same-day peer dependency. [Public source](../entering-law/PUBLIC_OCC_national_bank_interest_rule_7_4001_regulatory_effectiveness_1996-04-01.md).
+OCC §7.4001(a)–(d) is additionally admitted at its April 1, 1996 effective date after the bounded insertion review found no material effect on the 17 completed April 1–May 20 Court events. This eighth source changes no completed Court Record or pending stage. February 9 publication is distinct from April 1 effectiveness; source admission itself adjudicated no special retroactivity or earlier-case application. Smiley subsequently supplies its own qualified judicial use of the interpretation for antecedent transactions without backdating the rule. The current Court-event cursor is the completed Richards/Whren/Degen/Exxon chunk 7 group on June 10; the earlier Romer/BMW/Henderson/Casarotto May 20 group retains its common May 13 entering law without a same-day peer dependency. [Public source](../entering-law/PUBLIC_OCC_national_bank_interest_rule_7_4001_regulatory_effectiveness_1996-04-01.md).
 
 The opening law is the [Holdings doctrinal volumes](../../../state/holdings/INDEX.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md) and [Standing State](../../../state/STANDING_STATE.md), through the complete June 29, 1995 group. The [Composition register](../../../foundation/COURT_COMPOSITION.md) supplies membership, seniority and the August 3, 1994 circuit allotments. Current decisions and statutes below apply from their own effective dates and within their stated limits.
 
@@ -1850,7 +1850,7 @@ Authority and exact joins: [Public decision](../entering-law/PUBLIC_Bowersox_v_W
 
 ## Source cutoff
 
-Latest completed Court group and current-law cutoff: Quackenbush, Smiley, Loving and Auciello, June 3, 1996; all four used the common complete May 28 entering-law state. All twelve chunk 6 Court events are complete. Latest admitted source: April 26, 1996. All four May 20 decisions used the [preserved common May 13 public-law projection](../entering-law/OT_1995CHUNK6_PRE_MAY20_NEUTRAL_PROJECTION.md), with no same-day peer influence. Pinder completed May 21 using the complete May 20 state; Ornelas completed May 28 using the complete May 21 state.
+Latest completed chunk 7 Court actions and current-law cutoff: Richards, Whren, Degen and Exxon, June 10, 1996; all four used the common complete June 3 entering-law state. All twelve chunk 6 Court events are complete. Latest admitted source: April 26, 1996. All four May 20 decisions used the [preserved common May 13 public-law projection](../entering-law/OT_1995CHUNK6_PRE_MAY20_NEUTRAL_PROJECTION.md), with no same-day peer influence. Pinder completed May 21 using the complete May 20 state; Ornelas completed May 28 using the complete May 21 state.
 
 The April 9 Bowersox interim order is followed by a separate final action granting Missouri's application, 5–4, and vacating the March 8 appellate stay with immediate effect. The Supreme Court application is closed. The underlying appeal and any other lawful restraints are not adjudicated; no substitute stay, fixed grace period, execution order, writ disposition or appeal dismissal is entered. Actual transmission, service, responses and elapsed interim clocks are not presumed. Thirteen chunk 5 Court events and all twelve chunk 4 actions are recorded. Ayers's March 25 library-only writ was dismissed as improvidently granted, 8–1; this Court's review ends while the Fifth Circuit appeal and the district court's remedial jurisdiction remain available. The dismissal changes no substantive desegregation rule and leaves every decree provision undisturbed without merits affirmance. The completed March 27 and April 1 groups retain their respective common March 26 and March 27 entering-law baselines. Each public decision retains its own event-specific source cutoff and limits. Uncoordinated same-day actions use their common pre-group baseline; future scheduled proceedings supply no intervening holding. Opening law runs through the complete June 29, 1995 group, and circuit allotments remain effective August 3, 1994. The six admitted statutory sources, the December 1 Rule 57 amendment and the April 1 OCC §7.4001 regulation apply within their actual enactment, covered-period and transition terms. AEDPA Title I and PLRA sections 802–804 retain their provision-specific conditions and unresolved application questions; neither changes a pending case stage by admission alone. January 6 enactment remains distinct from the December 16 deemed Medicaid period; section 551 establishes no presently operational national blocking system. The Ayers operative amendments remain unestablished from their planning dates alone. Jones remains pending as specified in its February 26 order.
 
@@ -4463,6 +4463,495 @@ The [filed papers in No. 95-668](https://archive.org/details/micro_IA40385013_06
 
 The complete presumption passages in the Board's brief and supplemental decision identify the illustrative dissolution/defunct-union and schism examples, ordinary contract petition window and healthcare/seasonal qualification. They establish no new employee count or finding that every possible unusual circumstance was absent. Board merits pages 26 note 7, 35 note 12 and 42 note 15 preserve its actual-minority reservation, §10(e) objection and refusal to concede sufficient doubt. Auciello's merits pages 27–32 and note 8 supply its assessment-period argument; page 37 requests the sufficiency remand. No amount of make-whole relief is established by this decision.
 
-Quackenbush, Smiley, Loving and Auciello complete the June 3 Court actions. All 4 decisions used the common May 28 entering-law baseline; no decision supplies intervening law for a same-date peer. Next eligible: Richards, Whren, Degen and Exxon on June 10, sharing the same baseline with the June 10 IBM and Lockheed matters in chunk 8, using the complete effective public law through June 3. All eight admitted sources retain their actual effective dates, conditions and unresolved temporal applications, including AEDPA, PLRA and OCC §7.4001. No unrecorded Court or lower-court action is inferred.
+Quackenbush, Smiley, Loving and Auciello complete the June 3 Court actions. All 4 decisions used the common May 28 entering-law baseline; no decision supplies intervening law for a same-date peer. Richards, Whren, Degen and Exxon subsequently completed June 10 using that common complete June 3 public-law state; same-date IBM and Lockheed in chunk 8 retain the identical preserved baseline. All eight admitted sources retain their actual effective dates, conditions and unresolved temporal applications, including AEDPA, PLRA and OCC §7.4001. No unrecorded Court or lower-court action is inferred.
 
 The common entering-law baseline for all six June 10 inventory matters is the complete June 3 public-law state, preserved in the [pre-June10 neutral projection](../entering-law/OT_1995CHUNK7_PRE_JUNE10_NEUTRAL_PROJECTION.md). Richards, Whren, Degen and Exxon in chunk 7 and United States v. International Business Machines Corp., No. 95-591, and Lockheed Corp. v. Spink, No. 95-809, in chunk 8 all use that same baseline. No uncoordinated June 10 decision supplies intervening law for another matter in this group. This preserved projection includes the exact existing source qualifications, published noncontrolling positions and public procedural state; its preservation does not decide a June 10 matter.
+
+
+## June 10, 1996 completed public authority — Richards
+
+Exact public text from the [bounded public source](../entering-law/PUBLIC_Richards_v_Jefferson_County_merits_1996-06-10.md). All 4 decisions used the common June 3 entering-law baseline; no decision supplies intervening law for a same-date peer.
+
+## Event
+
+Richards v. Jefferson County, 517 U.S. 793, No. 95-386. Argued March 26, 1996; decided June 10, 1996; October Term 1995. On certiorari under 28 U.S.C. §1257(a) to the Alabama Supreme Court, 662 So. 2d 1127, which held that an earlier taxpayer judgment precluded Richards and Hill's federal claims. The question is whether that application of nonparty preclusion satisfies due process. The March 15, 1996 order removed the separate question concerning the occupational tax's substantive equal-protection validity; the Court does not restore it or review the separate federal employees' Buck Act claims.
+
+The earlier Bedingfield litigation, 527 So. 2d 1270, combined challenges by the City of Birmingham and its finance director with those of individual employees. Its complaints included federal and state theories, while the appellate opinion discussed state authorization, population classification and collection authority. Richards and Hill were not parties, and Bedingfield was not a class action. Their present complaint challenges their own tax obligations and seeks relief including amounts already paid.
+
+The Alabama majority found adequate representation from essentially identical interests and relied on revenue finality and tax-supported bond financing. Respondents also emphasize the City's resources and adversarial incentive. Petitioners assert that they received no notice that their own claims could be impaired. That assertion is not adopted as an appellate finding, and no finding of their participation or control supplies the representative basis used below. The Court addresses the legal sufficiency of that identified basis without finding every possible connection absent.
+
+## Participation
+
+Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at argument and decision. No Justice is recused or otherwise nonparticipating.
+
+## Public Action
+
+The Alabama Supreme Court's dispositive preclusion judgment is reversed as applied to Richards and Hill's reviewed federal claims, and the case is remanded to that court for further proceedings.
+
+## Judgment & Remedy
+
+**Judgment:** Reversed and remanded, 9–0. **Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+The identified representative basis cannot bar these nonparties' reviewed claims. Further proceedings remain subject to ordinary legally available defenses, remedy conditions and any preclusion supported by a constitutionally valid binding relationship. The Court guarantees neither discovery nor an opportunity to construct a new preclusion theory, and orders no representative-adequacy hearing, tax invalidation, refund, damages or injunction.
+
+## Opinion Topology
+
+Chief Justice Stone-Zsela delivers the Opinion of the Court, Parts I–IV, joined throughout by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. All nine directly adopt each controlling proposition, explanation, qualification and the bounded reversal/remand. No partial join, judgment-only agreement or separate writing is present.
+
+## Holdings
+
+### I. The dispositive nonparty bar is final for this limited federal review
+
+**Controlling proposition:** Section 1257(a) permits review under Cox Broadcasting's first finality category because the preclusion ruling conclusively bars Richards and Hill's remaining federal claims and leaves its implementation preordained, despite the state interlocutory label. Review concerns only nonparty due process; separate Buck Act proceedings and the removed tax-merits question do not enlarge it.
+
+**Authority:** Part I of Stone-Zsela's unanimous Opinion of the Court; all nine Justices identified in Opinion Topology join.
+
+**Controlling explanation:** Cox permits review when the federal issue is finally determined and further proceedings are preordained, leaving the matter practically concluded. State Counts 3 and 4 had already been rejected. The Alabama Supreme Court's preclusion judgment disposes of these petitioners' remaining federal claims; implementing it is not an open merits trial that might eliminate their objection to being bound. The remaining Buck Act claim belongs to a separate federal-employee group outside this review.
+
+The state court's permissive interlocutory procedure therefore does not defeat federal finality, but neither does a state certification alone establish it. The actual effect of the supplied orders controls. No later judgment is presumed.
+
+Southland and Casarotto concern Cox's different fourth category, in which federal reversal of an arbitration bar removes a dispute from court. Reversal here permits litigation to continue, so that rationale does not supply jurisdiction. Quackenbush's federal appellate §1291 routes likewise do not govern a state judgment under §1257. The Court accepts this first-category channel without deciding tax constitutionality, Buck Act liability or an entitlement to a particular tax remedy.
+
+### II. Shared interests alone do not establish authority to bind absent claimants
+
+**Controlling proposition:** A State's ordinary preclusion rules remain subject to due process: essentially identical interests, vigorous advocacy, resources and public importance alone do not authorize adjudication of absent persons' own legal rights. Binding may rest on constitutionally sufficient consent, control, genuine privity, adequate class or representative litigation, or another recognized relationship or special remedial arrangement consistent with due process; finality policy and a virtual-representation label cannot replace that prerequisite.
+
+**Authority:** Part II of the same unanimous Opinion of the Court.
+
+**Controlling explanation:** Hansberry protects an opportunity to be heard while permitting genuine representative adjudication. Martin preserves adequate representation, control-based binding and special arrangements, including bankruptcy or probate, that may lawfully foreclose successive litigation. Guardian/ward and trustee/beneficiary relationships illustrate genuine privity. The Constitution does not require every person to appear individually, but common objectives cannot alone create the representative's authority.
+
+Matsushita distinguishes ordinary state recognition from constitutional power to bind an absent member. Inadequate representation is not independently cured by notice, objections or opt-out opportunities. Section 1738 does not supply a separate command that Alabama bind these strangers to its own earlier judgment; the constitutional minimum remains operative.
+
+The Court assumes without deciding that adequate representation might cure absence of notice in some class or representative suits. Even on that assumption, the representative basis offered here is insufficient. The assumption neither makes representation an automatic cure nor requires individual notice in every representative proceeding. Conversely, mere notice of another person's suit does not itself establish authority or impose a general duty on strangers to intervene.
+
+States retain ordinary preclusion autonomy and the interest in genuine finality. This decision corrects an extreme application that extinguishes personal claims without a sufficient binding basis; it authorizes no general retrial of ordinary state-law errors. It does not decide the full collateral-review scope reserved in Matsushita or disturb Bedingfield between persons properly bound by it. The absence of a Rule 23 class is relevant here but does not itself invalidate every source-authorized representative judgment.
+
+### III. These direct personal tax claims cannot be extinguished on the stated public-interest rationale
+
+**Controlling proposition:** The representative rationale used below does not constitutionally bind Richards and Hill to Bedingfield's disposition of their own tax liability and claims for paid sums. Shared taxpayer objectives and fiscal reliance do not establish the required relationship; genuine representative public-right litigation and ordinary reliance on precedent remain distinct and preserved.
+
+**Authority:** Part III of the same unanimous Opinion of the Court.
+
+**Controlling explanation:** The County stresses that the prior litigants sought the same constitutional result, had substantial resources and pursued the case vigorously. It also relies on public revenue and bond financing. Those considerations support the importance of valid finality, but do not show why the earlier litigants could conclusively adjudicate these absent taxpayers' personal rights. The Court need not find deficient advocacy or resolve every possible connection to reject the rationale actually used.
+
+A taxpayer's challenge to misuse of public funds or government action affecting that taxpayer only indirectly differs from a challenge to a direct levy of the taxpayer's own funds. The Court assumes wide state latitude over standing and repeated proceedings in the former setting. This case concerns the latter. Genuine public-right representative judgments remain possible; neither refund relief nor lack of formal class treatment independently supplies a universal invalidating test, and federal class-action requirements are not wholesale constitutional commands to the States.
+
+The finance director's participation establishes no rule that public officials always adequately represent constituents' personal rights. That broader question remains open. Supposed representation of city taxpayers cannot, without more, become established representation of these county taxpayers.
+
+Brinkerhoff-Faris protects the opportunity to challenge a direct levy. Logan recognizes the protected status of an otherwise available individual claim, or chose in action; extinguishing that personal claim reinforces the same hearing concern. The identified Alabama rationale establishes no exclusive public-action remedial scheme. Common interests and revenue reliance cannot be converted into such a scheme by assertion. This reasoning creates no cause of action or tax-merits holding. A court may rely on precedent in deciding a later claim without conclusively binding its owner to another person's judgment; those are different operations.
+
+### IV. Issue preclusion does not cure the binding defect, and relief remains limited
+
+**Controlling proposition:** Respondents' narrower issue-preclusion theory cannot sustain this judgment because it also requires a constitutionally sufficient basis to bind these nonparties. The dispositive bar on the reviewed Richards-Hill federal claims is reversed and the case remanded, without deciding whether the exemption issue was actually and necessarily determined or awarding relief on the tax.
+
+**Authority:** Part IV of the same unanimous Opinion of the Court.
+
+**Controlling explanation:** Claim preclusion and issue preclusion have different requirements, but both encounter the antecedent question of who was lawfully bound. Narrowing the proposed bar to an exemption issue supplies no missing representative relationship.
+
+The earlier complaints pleaded federal theories. The Alabama majority reasoned that those theories could have been, and arguably were, adjudicated; Justice Maddox disputed the identity of the cause and actual federal adjudication. Pleading an issue, having an opportunity to litigate it and actually deciding it as necessary to judgment are distinct predicates. Because the asserted basis to bind these petitioners fails first, the Court need not resolve that dispute or find that no relevant issue was ever determined.
+
+Nor does uncertainty about every possible notice, authorization or control fact require an exploratory remand. The Court corrects the identified legal ground without making adverse factual findings or directing discovery to construct a different bar. A genuinely available defense or constitutionally valid relationship remains subject to its own proof, preservation and procedural conditions; the mandate supplies neither a guaranteed new theory nor a finding that one exists.
+
+Ordinary proceedings on these reviewed claims may resume. No state-count ruling, earlier Tax Injunction Act dismissal, properly binding judgment or separate Buck Act claim is reopened. The decision orders no immediate trial, refund, damages, injunction, tax invalidation or representative-adequacy hearing and guarantees no eventual recovery. No special deadline or new Supreme Court event is prescribed.
+
+## Precedent Treatment
+
+- Cox Broadcasting Corp. v. Cohn, 420 U.S. 469: applies its first finality category to the practically concluded claims and preordained implementation, despite the state procedural label.
+- Southland Corp. v. Keating, 465 U.S. 1: distinguishes its fourth-category arbitration finality route from the present disposition.
+- Doctor's Associates, Inc. v. Casarotto, May 20, 1996: preserves review based on actual proceedings rather than certification alone; its arbitration rationale and substantive FAA holding do not decide this case.
+- Hansberry v. Lee, 311 U.S. 32: applies the constitutional prerequisite of genuine adequate representation while preserving lawful representative adjudication.
+- Martin v. Wilks, 490 U.S. 755: applies nonparty hearing rights and preserves adequate representation, litigation control and due-process-consistent special remedial schemes; notice alone creates no general intervention duty.
+- Matsushita Electric Industrial Co. v. Epstein, February 27, 1996: applies the distinction between ordinary recognition and constitutional authority to bind, including representation independent of notice and opt-out protections; its complete collateral-review reservation remains unresolved here.
+- Brinkerhoff-Faris Trust & Savings Co. v. Hill, 281 U.S. 673: supplies support for the opportunity to contest a direct tax levy without deciding this tax's substantive validity.
+- Logan v. Zimmerman Brush Co., 455 U.S. 422: supplies the protected personal-claim principle where an individual claim is otherwise available; no new cause of action or universal state-remedy scheme is created.
+- Quackenbush v. Allstate Insurance Co., June 3, 1996: preserves its distinct §1291 and abstention holdings and the separate state-tax comity setting; it supplies no nonparty relationship or reopening of the earlier federal tax dismissal.
+
+No precedent is overruled. Bedingfield retains its proper force among persons lawfully bound and as precedent; the Court rejects only its constitutionally unsupported preclusive use against these petitioners.
+
+## Law After Decision
+
+Effective June 10, 1996, the identified Alabama virtual-representation rationale cannot extinguish these nonparties' personal tax claims merely because earlier litigants shared their objectives and the County relied on fiscal finality. The decision applies the constitutional hearing and representative-authority prerequisite to this bar, without deciding tax validity or a right to recovery.
+
+Ordinary state preclusion, genuine privity, actual litigation control, valid class and representative judgments, and historically established exceptions consistent with due process remain. The notice-cure possibility is assumed only; adequate representation is still necessary, and mere notice supplies neither representation nor a general duty to intervene. Genuine indirect public-right suits retain the assumed wide state latitude described above. No universal rule concerning public officials, every taxpayer action, individual notice or collateral review is adopted.
+
+## Separate Writings
+
+All nine Justices join the Court's opinion. No separate writing is filed.
+
+## Procedure After Action
+
+The case returns to the Alabama Supreme Court for proceedings consistent with rejection of the identified nonparty bar on Richards and Hill's reviewed federal claims. Ordinary legally available defenses, valid preclusion and remedy conditions retain their scope, but no new adequacy hearing, automatic discovery or opportunity to develop another preclusion theory is mandated. The separate state-count rulings, federal tax dismissal, Buck Act proceedings and judgments binding other litigants remain untouched. Supreme Court merits review is complete, subject to ordinary mandate procedures; no special deadline or additional Supreme Court event is ordered.
+
+## Source Notes
+
+The Alabama opinions at 662 So. 2d 1127 and 527 So. 2d 1270 supply the present preclusion rationale and Bedingfield background. Joint Appendix 106–109 supplies the Rule 5 certification order and 116 the dispositive ruling. The filed merits submissions in No. 95-386, including petitioners' pages 1–3 and 16–20 and respondents' pages 29–36, state the notice, representation, public-right and narrower-preclusion arguments.
+
+The no-notice contention remains an asserted position, not a new appellate factual finding. No supplied finding of participation, control or authorization supports the representative rationale used below. The Court does not resolve those matters by inference, decide that each earlier federal issue was adjudicated, or treat the prior pleadings' federal theories as necessary determinations. Cox's finality analysis rests on the actual orders and separate claim groups, not an invented later judgment.
+
+
+## June 10, 1996 completed public authority — Whren
+
+Exact public text from the [bounded public source](../entering-law/PUBLIC_Whren_v_United_States_merits_1996-06-10.md). All 4 decisions used the common June 3 entering-law baseline; no decision supplies intervening law for a same-date peer.
+
+## Event
+
+**Whren v. United States, 517 U.S. 806, No. 95-5841 — merits decision, June 10, 1996.** Argued April 17, 1996, on writ of certiorari to the D.C. Circuit. Petitioners challenge the initial traffic restraint by plainclothes officers investigating drugs, contending that reasonable officers would not ordinarily have stopped them for the traffic purpose alone. The later search is not independently presented.
+
+The district judge acknowledged discrepancies but credited Officer Soto's account. The vehicle waited unusually long at a stop sign, turned without signaling and traveled at unreasonable speed. Officers approached after it was already stopped at another intersection, directed it to park and then saw drugs in plain view. The Court of Appeals sustained traffic probable cause under the full-attention, signaling and speed provisions, 18 D.C.M.R. §§2213.4, 2204.3 and 2200.3.
+
+The Court of Appeals rejected suppression on this ground but remanded by agreement to correct lesser-included §841 convictions and resentence under §860. That correction has occurred: the lesser convictions were vacated, the original prison terms were generally reimposed, Whren's fine was not, and the new sentencing appeals were held pending this review.
+
+Petitioners' updated conflict discussion recognizes that Botero-Ospina, 71 F.3d 783, moved the Tenth Circuit to the objective-probable-cause approach; the cited Ninth and Eleventh Circuit decisions represented the remaining contrary line.
+
+## Participation
+
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at argument and decision.
+
+## Public Action
+
+The judgment is affirmed on the initial-stop Fourth Amendment issue. The rejection of suppression on that ground remains intact; the completed correction of the lesser convictions and sentences is undisturbed.
+
+## Judgment & Remedy
+
+**Affirmed on the initial-stop issue, 9–0.**
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer.
+
+The Court neither repeats the completed §841 correction and §860 resentencing nor decides the later sentencing appeals. No new trial, acquittal, release, evidentiary hearing or sentencing remand is ordered. The holding supplies no independent determination of the later search or every ground of evidence admissibility.
+
+## Opinion Topology
+
+Justice Thomas delivers the opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer. No separate opinion is filed.
+
+## Holdings
+
+**Authority:** Thomas's opinion, joined by all eight other Justices identified in Opinion Topology, supplies nine direct votes for the rule, application and qualifications below.
+
+### Objective traffic probable cause supports this ordinary initial stop
+
+**Operative rule:** An ordinary initial traffic stop supported by objective probable cause that a traffic law was violated does not become unreasonable under the Fourth Amendment because officers also seek to investigate an unrelated offense. Its validity does not additionally depend on whether reasonable officers ordinarily would have enforced that violation absent the other investigative aim; independent limits on manner, scope and duration remain.
+
+**Controlling explanation:** Scott requires objective assessment of the action actually justified. Robinson supports that distinction within its lawful-arrest and search setting. Prouse restricts suspicionless discretionary vehicle stops; the known violations here supply the individualized basis missing there. An additional drug-investigation aim does not remove that basis.
+
+Petitioners propose an objective would-have test, not merely an inquiry into personal intent. They argue that pervasive minor violations otherwise permit arbitrary selection. But customary enforcement propensity is not another element of an ordinary probable-cause stop. Different local priorities, uniforms, assignments and vehicle markings cannot change constitutional authority for the same known violation. A test based on those practices would require selecting the relevant custom and resolving its variable exceptions without explaining why that custom controls the constitutional boundary. Police manuals may supply relevant evidence where the law makes it material; their ordinary assignments do not establish the proposed additional condition here.
+
+Bertine and Wells preserve standardized criteria or established routine and genuine inventory purposes where that exception supplies authority. Inventory searches cannot serve as a ruse for general investigatory rummaging. Burger's administrative-inspection justification likewise retains its own qualifying purpose and limits. Those source-specific conditions do not establish an enforcement-propensity requirement for this individualized traffic stop. Neither Bannister's no-pretext observation nor Abel's recital of regular procedure holds that deviation from practice invalidates an otherwise justified seizure; Robinson's reservation of different facts does not decide them.
+
+The further proposed balance of traffic-safety gains against anxiety or confusion from plainclothes intervention adds no condition for this ordinary stop. Prouse, Martinez-Fuerte and Brignoni-Ponce addressed intrusions lacking probable cause and retain their distinct requirements. The breadth of traffic regulation supplies no judicial ranking of which observed violations deserve enforcement. This conclusion preserves scrutiny of actual execution and does not authorize every intrusive seizure whenever probable cause exists.
+
+### The credited record permits decision without a new factual inquiry
+
+**Operative application:** The accepted traffic observations supply the probable-cause predicate for the initial restraint. Ornelas preserves clear-error review of historical facts, credibility and genuinely factual subsidiary findings or inferences, and genuine due weight to grounded contextual inferences; the governing legal standard and any ultimate constitutional sufficiency properly at issue receive independent judgment.
+
+**Controlling explanation:** The district judge's acceptance of Soto's account remains protected under the factual standard. Genuine due weight means substantive consideration of supported trial and local-officer context, not a numerical weight, an officer-credibility presumption or an intermediate standard insulating an ultimate constitutional conclusion. Neither a habeas presumption nor a clear-and-convincing burden governs this direct review.
+
+The present question selects the legal rule for an accepted traffic basis. Independent judgment does not manufacture another violation or authorize substitution of supposed antecedent drug probable cause. Officer experience does not establish the General Order's safety exception. Ornelas supplies no new factual conflict, necessary hearing or automatic remand. Applying the objective stop rule leaves the suppression rejection intact within the issue before the Court.
+
+### Policy, execution and discrimination limits
+
+General Order 303.1 is qualified. Its April 30, 1992 text permits traffic enforcement by on-duty uniformed officers in marked vehicles; off-duty uniformed officers in marked vehicles participating in the take-home cruiser program; and on-duty uniformed Public Vehicle Enforcement Unit officers in unmarked vehicles. Other plainclothes or unmarked-vehicle enforcement requires a violation so grave as to pose an immediate threat to others' safety. A traffic stop ordinarily requires a Notice of Infraction or a Warning Notice of Infraction. An oral warning may be given in extreme circumstances, such as an immediate-response radio assignment or emergency transport of a sick or injured passenger to a hospital.
+
+The Court finds neither compliance nor violation of those provisions and does not equate unreasonable speed with satisfaction of the immediate-threat exception. Because policy compliance is not the selected constitutional prerequisite, its unresolved application requires no hearing or remand.
+
+The rule permits no detention or search materially exceeding what the traffic violation reasonably justifies without independent grounds. Actual manner, scope and duration remain subject to constitutional review. Wilson makes announcement part of reasonable home entry while retaining supported danger, futility, escape and evidence-destruction qualifications; the exact suspicion quantum and automatic-suppression question remain open. Garner, Welsh and Winston likewise preserve their distinct constraints on deadly force, home entry and bodily intrusion. Plainclothes status alone establishes no unusual execution, and missing duration or force details establish no affirmative finding. No distinct supported, preserved execution ground changes the initial-stop judgment; the subsequent search remains outside the independently presented issue.
+
+Purposeful racial selection remains independently forbidden by Equal Protection. Rejecting the proposed Fourth Amendment test neither approves discrimination nor establishes its absence. Soto's denial and the district judge's credit retain their procedural status; the Court enters no new discrimination finding. Kimberlin preserves competent circumstantial proof when motive is an underlying element. Armstrong's federal charging/discovery rules are not transferred to police-stop claims. No discovery entitlement, immunity, suppression consequence or damages remedy for discriminatory selection is decided, and the supposed adequacy of another remedy is not a ground for this judgment.
+
+## Precedent Treatment
+
+- **Scott v. United States, 436 U.S. 128:** Applies objective assessment of the justified action without declaring motives irrelevant to every constitutional claim.
+- **United States v. Robinson, 414 U.S. 218, and Gustafson v. Florida, 414 U.S. 260:** Preserve their lawful-arrest/search settings; an additional investigative purpose does not itself remove objective authority, and no new arrest or search power is created here.
+- **United States v. Villamonte-Marquez, 462 U.S. 579:** Its objectively authorized customs-inspection setting supports the same distinction without dispensing with that authority's statutory and constitutional predicates.
+- **Delaware v. Prouse, 440 U.S. 648:** Distinguishes suspicionless discretionary selection from a stop founded on observed traffic violations; its constraints remain in force.
+- **Colorado v. Bertine, 479 U.S. 367, and Florida v. Wells, 495 U.S. 1:** Preserve standardized or routine inventory constraints, purpose-related discretion and the prohibition on using inventory as an investigatory ruse.
+- **New York v. Burger, 482 U.S. 691:** Preserves administrative-inspection requirements; no general motive-irrelevance rule displaces a purpose-limited justification.
+- **United States v. Martinez-Fuerte, 428 U.S. 543, and United States v. Brignoni-Ponce, 422 U.S. 873:** Their distinct analyses of intrusions without probable cause do not require an additional ad hoc balance for this ordinary probable-cause stop.
+- **Wilson v. Arkansas, May 22, 1995:** Applies the separation between authority and reasonable execution while preserving its actual home-entry qualifications and unresolved remedy.
+- **Tennessee v. Garner, 471 U.S. 1; Welsh v. Wisconsin, 466 U.S. 740; and Winston v. Lee, 470 U.S. 753:** Preserve their distinct limits on unusually harmful execution and do not make plainclothes traffic intervention categorically immune from manner review.
+- **Ornelas v. United States, May 28, 1996:** Applies independent constitutional judgment with protected historical findings and genuine contextual due weight; it creates no new factual dispute here.
+- **Kimberlin v. Quinlan, June 12, 1995:** Preserves circumstantial proof where motive is an element without adding such an element to this stop rule.
+- **United States v. Armstrong, May 13, 1996:** Remains confined to its federal charging/discovery setting and unresolved discrimination remedy; no police-stop discovery rule is adopted from it.
+- **Abel v. United States, 362 U.S. 217, and Colorado v. Bannister, 449 U.S. 1:** Their regular-procedure or no-pretext observations do not establish the proposed would-have rule. No precedent is overruled.
+
+## Law After Decision
+
+Effective June 10, 1996, ordinary initial traffic-stop validity on known probable cause does not additionally turn on an unrelated investigative motive or customary willingness to enforce the observed violation. The rule answers the actual objective would-have proposal while retaining the individualized justification that distinguishes this stop from suspicionless selection.
+
+Inventory and administrative justifications retain their own purpose and procedural limits. Execution, duration, scope and purposeful discriminatory selection retain their independent constitutional treatment. No universal authorization for searches or seizures on probable cause, blanket exclusion of motive evidence, transfer of Armstrong's discovery rule, or new suppression rule follows. Ornelas's allocation remains unchanged.
+
+## Separate Writings
+
+No separate opinion is filed.
+
+## Procedure After Action
+
+The rejection of suppression on the initial-stop ground is affirmed. The completed vacatur of the lesser-included §841 convictions and resentencing concerning §860 remain undisturbed, including nonreimposition of Whren's fine. The later sentencing appeals remain subject to their own lawful disposition; no outcome or special timing is prescribed. The Court orders no new trial, release, evidentiary hearing or sentencing proceeding and decides no independent challenge to the subsequent search. Supreme Court merits review is complete, subject to ordinary mandate procedures.
+
+## Source Notes
+
+Joint Appendix 4–5 supplies the district judge's credibility ruling; 8–10 describes the initial encounter; 17–19 supplies the traffic provisions, limited suppression challenge and appellate disposition. Joint Appendix 2 and 18–19, petitioners' brief 11 note 14 and the Government's brief 7 note 1 supply the completed conviction and sentencing correction and the later appeals' posture.
+
+Petitioners' merits brief 5–7 and the reproduced General Order supply the qualified enforcement assignments and warning provisions. Its regulation discussion identifies the April 30, 1992 version and the predecessor invoked below; pages 10–11 supply the updated conflict discussion. The Court determines no disputed policy application or additional force, duration or discriminatory-selection fact.
+
+
+## June 10, 1996 completed public authority — Degen
+
+Exact public text from the [bounded public source](../entering-law/PUBLIC_Degen_v_United_States_merits_1996-06-10.md). All 4 decisions used the common June 3 entering-law baseline; no decision supplies intervening law for a same-date peer.
+
+## Event
+
+*Degen v. United States*, 517 U.S. 820, No. 95-173. October Term 1995; argued April 22, 1996; decided June 10, 1996. On certiorari under 28 U.S.C. §1254(1) to review the Ninth Circuit's judgment, 47 F.3d 1511, sustaining the District of Nevada's exclusion of Brian Degen's claims and defenses in civil forfeiture. The district ruling is reported at 755 F. Supp. 308. The question is the existence and permissible scope of the court's asserted inherent or supervisory authority to impose that bar because Brian has not returned for a related criminal prosecution.
+
+Brian is a dual United States and Swiss citizen who left before indictment. He disputes an intent to evade prosecution at departure; the Government and lower court rely on his later knowing refusal to return. The extradition treaty does not require a party to surrender its own nationals. The Government seeks forfeiture of real and personal property in California, Nevada and Hawaii as alleged drug proceeds or facilitating property. The court controls that property and can enforce its eventual judgment. Brian timely filed verified claims and answers through counsel, denying substantive forfeiture allegations and raising defenses including limitations, retroactivity and probable cause. Neither indictment nor absence establishes guilt or the merits of the property dispute.
+
+The District Court struck Brian's claim in December 1990. The Ninth Circuit approved the bar, identifying but treating as waived his objection to the District Court's mistaken view that disentitlement was mandatory rather than discretionary. That subsidiary preservation ruling is distinct from the preserved challenge to the asserted power. Karyn Degen's claims initially survived; her later failure to oppose a supported renewed summary-judgment motion, after extensions and reopened discovery, produced a separate judgment and affirmance. She did not seek this review.
+
+Swiss authorities arrested Brian in November 1992. The Ninth Circuit refused supplementation with Justice Department correspondence and rejected the inadequately developed contention that Swiss custody ended fugitivity. Here the Government acknowledges the correspondence's authenticity and its request for Swiss prosecution principally concerning the same conduct, correcting its misleading descriptions below. The parties dispute preservation, the consequences of custody, unclean hands and responsibility for the deficient record. These admitted developments establish neither present freedom nor impossibility of return.
+
+The governing forfeiture provisions retain separate coverage and conditions:
+
+- Section 881(a)(6) covers money, negotiable instruments, securities or other things of value furnished or intended for a prohibited controlled-substance exchange, traceable proceeds, and money, negotiable instruments and securities used or intended to facilitate a covered violation. Its facilitating-property clause is not extended to all property.
+- Section 881(a)(7) covers real-property interests, including leaseholds, in the whole lot or tract and its appurtenances or improvements, used or intended, in any manner or part, to commit or facilitate a covered offense punishable by more than one year's imprisonment.
+- Each paragraph protects the extent of an owner's interest for an act or omission that the owner establishes occurred without that owner's knowledge or consent. The Court determines no claimant's satisfaction of those qualifications.
+- Section 881(d) incorporates customs forfeiture procedures insofar as applicable and consistent. Under the incorporated §1615 burden rule, the Government must first show probable cause for instituting the action, to be judged by the court, before the claimant bears the statutory burden. No new probable-cause or property-liability finding follows from this decision.
+
+## Participation
+
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at argument and decision. No case-specific nonparticipation is established.
+
+## Public Action
+
+The Court reverses the Ninth Circuit's judgment insofar as it sustains Brian's categorical civil-defense bar and remands for further proceedings consistent with the Court's opinion.
+
+## Judgment & Remedy
+
+**Judgment:** Reversed and remanded, 9–0, on the reviewed defense-bar issue.
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+Brian must receive a lawful opportunity to contest forfeiture without the rejected categorical exclusion. The dependent forfeiture result cannot rest on that exclusion. The Court decides no merits defense or separate sufficient ground outside this review and leaves Karyn's judgment and the criminal and Swiss proceedings undisturbed. No immediate property return, payment, damages, compensation, release, criminal dismissal or stay is ordered.
+
+## Opinion Topology
+
+Justice Scalia delivers the Opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer. All nine join its inherent-power ground, conditional-management limits and reversal/remand. No separate opinion is filed.
+
+## Holdings
+
+**Common authority:** Scalia's unanimous Opinion of the Court supplies nine direct joins for Holdings I–III, their explanations and qualifications. No constitutional alternative holding, partial join or combination of separate rationales is involved.
+
+### I. The asserted inherent power does not support this complete defense bar
+
+**Operative rule:** When the court controls the forfeiture property and can enforce its eventual judgment, a claimant's failure to return for a related criminal prosecution alone does not justify striking his timely civil-forfeiture claims and defenses. Inherent authority must respond reasonably to the actual need provoking its exercise; this complete exclusion lacks the necessary connection and justification in the forfeiture proceeding.
+
+**Controlling explanation:** The existence of inherent authority does not establish the permissible extent of a particular sanction. *Chambers v. NASCO* recognizes power to protect judicial proceedings while requiring restraint. *Ortega-Rodriguez v. United States* requires a sufficient connection to appellate proceedings in its preappeal-flight setting. That connection principle informs this case without transferring its particular appellate rule wholesale to civil forfeiture.
+
+The court controls the property and can enforce its judgment. Brian filed timely verified claims and answers through counsel. His physical absence does not create the enforcement difficulty that can support disentitlement in a criminal appeal. Denying affirmative appellate assistance also differs from foreclosing a defense to the Government's requested property deprivation.
+
+The Government identifies genuine concerns: civil discovery could circumvent criminal restrictions, absence could impede litigation, and selective submission to judicial authority can undermine deterrence and judicial dignity. But anticipated misuse is not an established discovery violation or inevitable inability to adjudicate. Those interests do not justify this excessively blunt and arbitrary exclusion. Refusal to return supplies neither drug guilt nor forfeiture liability. Courts retain the conditional tools discussed below to address supported litigation problems.
+
+*McVeigh*, *Hovey*, *Hammond Packing* and *Societe Internationale* distinguish an opportunity to defend from punitive exclusion and properly grounded litigation sanctions or evidentiary consequences. *United States v. James Daniel Good Real Property* separately protects process in its real-property seizure setting. These considerations reinforce restraint, but the sufficient ground here is the scope of the inherent power asserted. The Court does not decide Congress's constitutional ability to authorize a different disentitlement rule or whether enforcing a rule supplied under proper authority would violate due process. No present statute authorizes this categorical sanction. Conversely, the decision does not require a fresh express enactment for every inherited judicial power or abolish criminal-appellate disentitlement within its actual scope.
+
+**Precedent treatment:** *Chambers*' restrained sanction authority survives; *Ortega-Rodriguez* supplies the proceeding-connection analogy. The hearing and sanction precedents retain their distinctions without a new independent constitutional holding.
+
+### II. Lawful management and properly supported sanctions remain available
+
+**Operative rule:** The District Court may address a supported litigation problem through applicable statutes, Rules and bounded inherent authority, subject to each source's predicates, process and justified scope. This decision neither establishes those predicates nor orders a stay, protective order, proof restriction or sanction, and it imposes no universal exhaustion, mandatory sequencing or least-restrictive-means requirement.
+
+**Controlling explanation:** Under 21 U.S.C. §881(i), filing an indictment or information alleging a violation of the federal drug provisions in subchapter I or II—or a state or local violation chargeable under those provisions—shall stay a related §881 civil-forfeiture proceeding upon a United States motion and good cause shown. The qualifying charge, relationship, Government motion and good cause are separate conditions. None is found satisfied here; an indefinite stay pending a prosecution that cannot begin is not presumed adequate.
+
+Rule 26(c) permits supported discovery protection. Courts may also control the form of proof and, in an extreme justified case, permissible theories to prevent improper exploitation of the civil/criminal asymmetry. Those possibilities do not authorize eliminating an identified defense now. If absence produces noncompliance with a legitimate pleading, discovery or evidence order, ordinary sanctions remain possible, including dismissal when appropriate under Rules 37 or 41(b), or properly bounded inherent authority. The actual source, predicate, notice and process, and scope must support the response. Perjury, discovery refusal, contempt, fraudulent transfer or other established misconduct gains no immunity from a lawfully tailored sanction.
+
+*Carlisle v. United States* preserves inherent power while rejecting its use to supply relief that specific Rules foreclose. *Kokkonen v. Guardian Life* likewise connects authority to its function; this court, unlike the postdismissal court there, already has jurisdiction. *Quackenbush v. Allstate* requires authority for the remedy actually used without treating the availability of a different conditional remedy as sufficient. These decisions do not create a default or compel one management sequence here. The available tools explain why categorical exclusion is unjustified without guaranteeing that every future difficulty has an easy solution or requiring courts to await completed abuse before taking justified preventive action.
+
+**Precedent treatment:** *Carlisle*, *Kokkonen* and *Quackenbush* retain their distinct source-and-function limits; none is converted into either a general denial of inherent power or an automatic forfeiture sanction.
+
+### III. Reversal restores an opportunity to defend, not entitlement to the property
+
+**Operative rule:** The Ninth Circuit's judgment is reversed insofar as it sustains striking Brian's claims and defenses on the asserted disentitlement ground, and the case is remanded for lawful further proceedings. The dependent forfeiture result cannot stand on that bar; no merits defense, independent sufficient ground outside this review, ownership right or entitlement to return is adjudicated.
+
+**Controlling explanation:** The legal defect is the categorical exclusion from defending this civil action. Reversal removes that exclusion rather than deciding whether Brian succeeds on limitations, retroactivity, innocent ownership, probable cause or another defense. Section 881's separate forfeiture categories and owner protections remain operative. Through §881(d)'s qualified incorporation, §1615 requires the Government's antecedent probable-cause showing before placing the statutory burden on the claimant. The Court neither newly finds probable cause nor declares an otherwise established showing absent.
+
+The preserved power question can be resolved even assuming the Government's fugitive characterization for this inquiry. The Court need not determine Brian's status in every disputed sense, his present ability to return from Switzerland, unclean hands or responsibility for the disputed record deficiencies. Nor does the Court overturn the Ninth Circuit's adverse preservation treatment of the separate objection to calling disentitlement mandatory.
+
+Karyn's separate judgment is outside this review. Her failure to oppose the renewed summary-judgment motion directed to her claims is not Brian's misconduct. The criminal prosecution and Swiss proceedings remain undisturbed. *Republic National Bank v. United States* preserves lawful effectual relief and a conditional return/payment route upon a sufficient judgment; procedural success here supplies no immediate property return or payment. No damages, compensation, criminal dismissal, release, stay, new evidentiary hearing or full retrial is ordered. The District Court must proceed under existing lawful forfeiture procedure, without the rejected bar and without any promise that Brian will prevail.
+
+**Precedent treatment:** *Republic National Bank* retains its conditional jurisdiction and return/payment rules; *Good* supplies no automatic dismissal, title transfer or compensation remedy.
+
+## Precedent Treatment
+
+- *Chambers v. NASCO, Inc.*, 501 U.S. 32, retains genuine, restrained litigation-sanction authority. Recognition of that power does not establish the scope or necessity of this bar.
+- *Ortega-Rodriguez v. United States*, 507 U.S. 234, supplies by analogy the required connection between a sanction and the proceeding it protects. Its preappeal-flight rule, actual-disruption qualifications and absence of a least-restrictive-sanction requirement remain intact. Criminal-appellate disentitlement is not abolished.
+- *McVeigh v. United States*, *Hovey v. Elliott*, *Hammond Packing Co. v. Arkansas* and *Societe Internationale v. Rogers* retain their distinctions between opportunity to defend, punitive exclusion and justified litigation sanctions or evidentiary consequences. They inform the limit on inherent power without supplying an independent constitutional disposition here.
+- *United States v. James Daniel Good Real Property*, 510 U.S. 43, retains its meaningful prior-process rule for civil seizure of real property, its justified-exigency qualification and its separate refusal to infer an unstated dismissal sanction from administrative timing duties. Its exigency inquiry does not become a universal sanction test.
+- *Kokkonen v. Guardian Life Insurance Co. of America*, 511 U.S. 375, retains the need for an actual jurisdictional basis to enforce a separate settlement after dismissal. This pending forfeiture already lies within the court's jurisdiction; the analogy concerns function and extent, not absence of jurisdiction.
+- *Carlisle v. United States*, April 29, 1996, preserves inherent powers while barring circumvention of the specific Rules controlling the same relief. No identical Rule 29 conflict is found here, and its dissent's distinct retained pre-sentence duty supplies no civil-defense sanction.
+- *Quackenbush v. Allstate Insurance Co.*, June 3, 1996, preserves its source-specific abstention/remedy boundary. An otherwise available conditional remedy neither validates the act actually ordered nor proves the alternative's predicates.
+- *Republic National Bank of Miami v. United States*, 506 U.S. 80, preserves jurisdiction when lawful effectual relief remains possible and its conditional statutory return/payment route; it supplies no immediate return or money judgment upon this procedural reversal.
+
+## Law After Decision
+
+Effective June 10, 1996, the court's asserted inherent power does not authorize this complete forfeiture-defense bar solely because Brian has not returned for the related criminal prosecution, where property control and judgment enforcement are secure. The holding adds that civil-forfeiture limit without changing the statutory forfeiture categories, owner protections, burdens or properly supported litigation sanctions.
+
+Statutes and Rules may constrain or override inherent powers; the Court does not require fresh express legislation for every inherited power. It reserves both Congress's constitutional ability to authorize a different disentitlement rule and the due-process validity of enforcing a rule supplied under proper authority. No later statute supplies present authority. The judgment establishes no universal constitutional invalidity of disentitlement, new fugitive definition, general appellate-review standard, or mandatory sequence of lesser measures.
+
+The Swiss status and preservation disputes, merits of the property defenses, and the separate mandatory-versus-discretionary preservation ruling are not resolved anew. The Court's rejection of this categorical bar does not immunize actual misconduct or withdraw otherwise lawful preventive management supported by a real litigation problem.
+
+## Separate Writings
+
+No separate writing is filed.
+
+## Procedure After Action
+
+The case returns through the Ninth Circuit for lawful further forfeiture proceedings concerning Brian without the rejected defense bar. Properly available requests for discovery protection, a statutory stay or a supported sanction remain subject to their own legal conditions; no request is presumed made or meritorious and no new default is found. The Court prescribes no evidentiary hearing, full retrial or particular resolution of a defense.
+
+Karyn's separate judgment and Brian's criminal and Swiss proceedings remain undisturbed. Eventual return of property or proceeds requires a legally sufficient entitlement and applicable return or payment authority; this reversal supplies neither. Supreme Court merits review of the power issue is complete, subject to ordinary mandate procedures.
+
+## Source Notes
+
+The [filed record and briefs in No. 95-173](https://archive.org/details/micro_IA40385013_0637) supply petition appendix 1a–14a, Joint Appendix 29–41 and 53–87, petitioner's merits brief 2–5 and 40–43, and the Government's brief 2–9 and note 4 for the proceedings, allegations and separate judgments. Government brief 43–47 and notes 25–27, together with reply 16–20, supply the qualified Swiss admissions and competing preservation arguments. Those submissions do not establish the merits of unclean hands or a present unrestricted ability to return.
+
+The governing 1994 texts of [21 U.S.C. §881](https://www.govinfo.gov/content/pkg/USCODE-1994-title21/pdf/USCODE-1994-title21.pdf) and [19 U.S.C. §1615](https://www.govinfo.gov/content/pkg/USCODE-1994-title19/pdf/USCODE-1994-title19.pdf) supply the separate forfeiture coverage, innocent-owner qualifications, consistent customs incorporation, conditioned stay and probable-cause/burden provisions. No subsequent forfeiture-disentitlement enactment is applied. The decision relies on secure control of the property and the limits of the power asserted, not a new finding of drug guilt, forfeiture probable cause or civil discovery misconduct.
+
+
+## June 10, 1996 completed public authority — Exxon
+
+Exact public text from the [bounded public source](../entering-law/PUBLIC_Exxon_Co_USA_v_Sofec_Inc_merits_1996-06-10.md). All 4 decisions used the common June 3 entering-law baseline; no decision supplies intervening law for a same-date peer.
+
+## Event
+
+*Exxon Co., U.S.A. v. Sofec, Inc.*, No. 95-129, 517 U.S. 830. Argued March 19, 1996; decided June 10, 1996. On writ of certiorari to the United States Court of Appeals for the Ninth Circuit, 54 F.3d 570, which affirmed a Rule 54(b) judgment against Exxon for stranding-related damages after the first phase of a maritime bench trial.
+
+The submitted questions concern whether comparative maritime fault abolished superseding cause and whether Exxon may recover the stranding loss under the asserted contractual warranties. A separate challenge to this particular bifurcation as an abuse of discretion or denial of due process is outside the questions presented. Claims concerning oil spilled when the vessel broke from its mooring remain pending.
+
+The tanker broke free during severe conditions. A connected hose continued to cause concern, but the district court found that by 6:30 p.m. the vessel had reached a safe position from which it could continue backing out. The master failed for an extended period to plot position fixes, failed to use available personnel, and began the final shoreward turn without knowing the vessel's position. Both lower courts characterized that navigation as extraordinary, independent and unforeseeable, and as the superseding and sole proximate cause of the stranding. Exxon contests the legal consequences and argues that grounding remained within the original risk.
+
+For phase one, Exxon was relieved of proving defendants' fault or strict liability for the breakout, which was assumed to contribute in fact to the sequence. That collective premise did not establish each respondent's negligence, breach, corporate obligation or share of responsibility.
+
+The safe-berth undertaking promised a berth to which vessels could proceed or depart and where they could always lie safely afloat; an amendment included single point mooring. Its express exclusion denied any warranty of the safety of public channels, fairways, their approaches, anchorages and other publicly maintained areas inside or outside the port. No finding places the grounding within that exclusion. The lower court quoted the agreement in relevant part, without establishing every term of the complete executed agreement.
+
+Joint Trial Exhibit 92 is a separate General Instructions, Discharging/Loading Orders and Indemnification instrument. Its service-personnel provisions treat the supplied mooring master, tug and launch operators and crews, and vessels as servants of the vessel and owners while rendering services, and provide indemnity for resulting liabilities, losses, claims or damages whether or not arising from the stated personnel's or indemnitees' fault. The master's legal responsibilities and final decisions remain expressly his. The lower court qualified imputation where the same conduct breached the safe-berth undertaking; the complete interaction of the two instruments is not decided here.
+
+## Participation
+
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
+
+## Public Action
+
+The judgment of the Court of Appeals is affirmed.
+
+## Judgment & Remedy
+
+| Judgment component | Disposition and vote | Supporting Justices | Remedy |
+|---|---|---|---|
+| Tort and comparative-fault claim for stranding damages | Affirmed, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Judgment against Exxon remains in force; no apportionment or remand. |
+| Submitted safe-berth and workmanlike-service warranty claim for the same loss | Affirmed, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Judgment against Exxon remains in force on the distinct contractual causation ground; no contract-construction proceeding is ordered. |
+
+No damages award, contribution order, allocation percentage, new hearing or individual corporate-liability determination is entered. The untried breakout oil-spill claims are not disposed of.
+
+## Opinion Topology
+
+Justice Stevens delivers the opinion of the unanimous Court. Chief Justice Stone-Zsela and Justices O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer join Parts I–V in full. The same coalition supplies authority for every holding below. No separate opinion is filed.
+
+## Holdings
+
+### I. Review of the legal rule and the concurrent causation findings
+
+**Holding and operative rule.** The Court independently reviews the governing legal rule while protecting historical findings under Rule 52. Application of proximate and superseding cause to the found circumstances ordinarily rests with the factfinder subject to limited review; under *Graver Tank*, concurrent lower-court findings are not disturbed without a very obvious and exceptional showing of error, which Exxon has not made here.
+
+**Authority.** Part I of Justice Stevens's opinion, joined by the full Court.
+
+**Controlling explanation.** *Graver Tank & Manufacturing Co. v. Linde Air Products Co.* supplies the restrained treatment of concurrent findings. It does not immunize a mistaken legal definition, require acceptance of unsupported new facts, or establish a universal standard for every mixed question of law and fact. *Ornelas v. United States* assigns independent ultimate review in its particular Fourth Amendment setting and expressly supplies no contrary universal rule.
+
+The distinction matters here. Exxon identifies tension between the continuing hose concern and the finding that safety had been restored. The Court acknowledges that tension and its relevance to the claimed continuation of the original peril. The safe-position finding, available time and personnel, missing fixes and final turn remain findings made below. The lower courts nevertheless agreed that the navigation was independent and unforeseeable. The required exceptional showing for disturbing their causal conclusion has not been made. Leaving that conclusion undisturbed does not necessarily ratify their particular application of the doctrine.
+
+The Court does not independently recalculate the navigational sequence or add an alternative holding that fresh appellate review would produce the same causal result. Nor does it adopt HIRI's asserted abandonment of a factual challenge as a separate waiver ground.
+
+### II. Comparative fault does not abolish legal causation
+
+**Holding and operative rule.** Comparative maritime fault apportions a loss among actors who legally caused it; a later independent and unforeseeable cause may supersede an earlier factual contribution. A plaintiff whose conduct is the superseding and sole proximate cause cannot recover part of that loss merely because others' blameworthy conduct helped produce the sequence in fact.
+
+**Authority.** Part II, joined by the full Court.
+
+**Controlling explanation.** *United States v. Reliable Transfer Co.* replaced automatic equal division of maritime collision or stranding damages with proportional allocation when multiple parties' fault contributes legally to the loss. Equal division remains when fault is equal or cannot fairly be measured. The decision changed allocation; it did not eliminate the antecedent requirement of legal causation.
+
+Its rejection of the major-minor doctrine remains important. A court cannot excuse one legally contributing actor merely because another was much more negligent. Severity of fault alone therefore does not establish supersession. The later conduct must have the independence and unforeseeability necessary to break the legal causal connection. Ordinary foreseeable efforts to escape the first actor's danger do not automatically have that effect, and the Court does not hold that grounding can never be a foreseeable consequence of a mooring failure.
+
+*McDermott, Inc. v. AmClyde* and *Boca Grande Club, Inc. v. Florida Power & Light Co.* require reliable allocation for their settlement-credit and contribution rules after legal responsibility is established. They do not make every factual contributor liable. *City of Milwaukee v. Cement Division, National Gypsum Co.* concerns prejudgment interest on a compensable loss and likewise presupposes liability.
+
+The Court retains the term comparative fault without deciding whether allocation should reflect comparative culpability alone or also relative causal contribution, assuming a meaningful distinction exists. No settlement-credit, contribution-protection or prejudgment-interest rule changes.
+
+### III. Consequence of the undisturbed tort-causation determination
+
+**Holding and operative rule.** The undisturbed finding that Exxon's navigation was the superseding and sole proximate cause defeats tort recovery for the stranding loss. No comparative allocation is required because the accepted determination leaves no other legally operative cause of that injury.
+
+**Authority.** Part III, joined by the full Court.
+
+**Controlling explanation.** The mooring failure explains the initial emergency and remains an assumed factual contributor. The lower courts relied on the later safe position, available opportunity to depart and assistance, and the master's final navigation as separating the stranding from that original peril. Their analysis thus purported to identify an independent causal intervention rather than merely compare degrees of negligence or count elapsed time.
+
+Exxon's strongest contrary argument, supported by its invocation of Restatement §442B and *Kinsman*, is that the later navigation and grounding remained within the risk created by the breakout. That objection prevents a categorical rule treating every negligent emergency response as superseding. The continuing hose concern makes the application contestable; the Court does not declare that concern nonexistent or independently find complete freedom from danger. Under Part I's limited review, however, the lower courts' concurrent ultimate conclusion remains undisturbed.
+
+The legally permissible distinction between factual contribution and legal responsibility therefore sustains this tort judgment. Phase one's assumed fault or strict liability does not become a finding that respondents were blameless, that every respondent breached a duty, or that an already established comparative share has been extinguished. No present percentage or fresh finding about each respondent is needed.
+
+### IV. Contractual warranties require their own causal connection to recoverable loss
+
+**Holding and operative rule.** Contractual duties may exceed negligence duties, but recovery under the submitted safe-berth and workmanlike-service warranties still requires legal causation of the claimed loss. Assuming the stricter undertaking and relevant breach, the undisturbed determination that Exxon's navigation alone proximately caused the stranding defeats recovery of that loss without deciding strict warranty versus due diligence.
+
+**Authority.** Part IV, joined by the full Court.
+
+**Controlling explanation.** *Italia Societa per Azioni di Navigazione v. Oregon Stevedoring Co.* recognizes breach of workmanlike service through nonnegligently supplied defective equipment. It does not remove the causal limitation on warranty damages. *East River Steamship Corp. v. Transamerica Delaval Inc.* and contract foreseeability principles distinguish promised performance from the losses recoverable for its breach. Contractual causation can be more restrictive in some circumstances; the Court does not hold that it is always stricter than, or categorically identical to, tort causation.
+
+The asserted strict promise is assumed, not replaced with a duty of reasonable care. The district court chose due diligence before finding no post-breakout breach. Exxon's concession that diligence was satisfied does not concede performance of a stricter promise; the Court of Appeals expressly reserved that choice. The safe-departure and available-assistance findings retain causal significance independently of the disputed duty standard. Under the undisturbed sole-proximate-cause determination, an assumed breach contributing only in fact does not establish the causal connection required for these warranty damages.
+
+The duty continued after breakout: an earlier superseding force cannot by itself excuse a later breach. That later-breach theory is subject to the contractual causal requirement rather than erased through the diligence concession. Neither the clause's public-area exclusion nor blanket imputation or indemnity under Exhibit 92 supplies an alternative holding. Their complete interaction and individual corporate responsibility remain reserved. No unquoted promise insuring every later navigational loss is inferred, nor is an unquoted exclusion invented.
+
+HIRI's avoidable-consequences contention need not be decided as an independently sufficient ground that every stranding-loss item was wholly avoidable. The holding creates neither automatic forfeiture for ordinary promisee negligence nor a rule that mitigation must always be proportional. A materially different express allocation of later losses would require consideration of its own supported terms and preserved theory.
+
+### V. The limited bifurcation issue and the stranding-only judgment
+
+**Holding and operative rule.** Comparative fault does not invariably require assessment of every party's relative fault before a court can determine a genuinely superseding cause. The phase-one assumptions permit that antecedent inquiry here; the separate claim that this particular bifurcation was an abuse of discretion or denied due process is not decided.
+
+**Authority.** Part V, joined by the full Court.
+
+**Controlling explanation.** Legal responsibility precedes apportionment. Because phase one assumed factual contribution and relieved Exxon of proving defendants' fault or strict liability for the breakout, the submitted legal-causation questions could be decided on that basis. This rejects a categorical legal bar to separate consideration, not every objection to the management of this trial.
+
+Supreme Court Rules 14.1(a) and 24.1(a) preserve the question limits. *Yamaha Motor Corp., U.S.A. v. Calhoun* addresses issues within a certified interlocutory order, and *Quackenbush v. Allstate Insurance Co.* addresses appealability and abstention; neither enlarges the questions submitted here. The exclusion of a free-standing bifurcation challenge does not erase Exxon's argument that the available evidence was insufficient to resolve the submitted issues. That argument has been considered within their actual scope.
+
+The affirmed Rule 54(b) judgment concerns stranding damages alone. No further contract-construction proceeding, allocation, hearing or damages determination is required by this decision. The breakout oil-spill proceedings retain their existing posture and undecided liability and damages issues.
+
+## Precedent Treatment
+
+- *Reliable Transfer* is applied as a comparative-allocation rule that preserves legal causation, its equal-fault and unmeasurable-fault exception, and its rejection of the major-minor shortcut.
+- *Graver Tank* supplies limited review of concurrent lower-court findings; the Court does not convert that practice into immunity from review for legal error.
+- *Italia Societa* retains warranty responsibility beyond negligence but does not eliminate legal causation of contract damages.
+- *East River* supports the distinct treatment of contractual responsibility and recoverable loss; no universal equivalence between contractual and tort causation is adopted.
+- *McDermott* and *Boca Grande* retain their settlement-credit and contribution-protection rules, including the need for reliable allocation where those rules operate.
+- *City of Milwaukee* retains its rule governing compensatory prejudgment interest on otherwise recoverable loss; no compensable principal is created here.
+- *Ornelas* remains confined to its stated review setting, without establishing universal independent review of mixed questions.
+- *Yamaha* retains its certified-order review rule and reservations concerning causation and liability standards; it supplies no broader certiorari scope.
+- *Quackenbush* retains its appealability and abstention holdings; the obligation to adjudicate a contract claim does not guarantee recovery or expand these questions.
+
+## Law After Decision
+
+Comparative maritime fault and superseding cause remain complementary. Courts identify legal responsibility before allocating loss, and relative severity of negligence alone cannot remove an otherwise operative legal cause. The accepted sole-proximate-cause determination therefore leaves no stranding loss to apportion among these defendants.
+
+The submitted warranty claims fail on their separately examined contractual causation requirement, even assuming the stricter duty and breach. The decision does not adopt due diligence as the meaning of the safe-berth promise, adjudicate wholesale avoidability, comprehensively construe Exhibit 92, excuse later breaches through an earlier superseding event, or determine any related corporation's individual obligation. The particular causal application remains undisturbed under limited review without necessarily being ratified in every respect.
+
+## Separate Writings
+
+No separate opinion is filed.
+
+## Procedure After Action
+
+The Ninth Circuit's judgment sustaining the stranding-related Rule 54(b) judgment is affirmed. Ordinary mandate procedures apply; no special mandate date, remand, new hearing, apportionment or further Supreme Court event is ordered. The pending breakout oil-spill claims and their unadjudicated liability and damages issues remain for the proceedings below.
+
+## Source Notes
+
+The lower-court findings and review appear in the joint appendix at 143–160, 167–176 and 217–233. The phase-one premise appears at 162, with trial-phase context at 72–75. These passages establish the lower findings and assumptions, not new appellate findings of individual fault.
+
+The safe-berth quotation appears in district-court finding 8, petition appendix 32–33, and Exxon's merits brief 10 n.11, citing joint appendix 142–143. Finding 9 supplies the single-point-mooring amendment. The quoted portion is not a complete account of every executed contractual term. Joint appendix 110–118 and 166 supplies the continuing-duty and imputation qualifications and identifies the separate Exhibit 92 instrument; 162–166 supplies the district court's selected due-diligence standard and findings. The appellate reservation and Exxon's limited diligence concession appear in petition appendix 17 and its footnote. Neither an incomplete footnote nor an ambiguous transcription supplies an additional contractual promise or concession.
+
+The judgment relies on the supported submitted undertakings, assumed stricter duty and preserved causal findings; it does not decide a theory requiring an additional unprovided risk-allocation term.
+
+Richards, Whren, Degen and Exxon complete the chunk 7 Court actions scheduled for June 10. All 4 decisions used the common June 3 entering-law baseline; no decision supplies intervening law for a same-date peer. Next eligible: International Business Machines No. 95-591 and Lockheed No. 95-809 in chunk 8 on the same June 10 date, using the complete effective public law through June 3, as preserved in the pre-June10 projection and its public chronology clarification. All eight admitted sources retain their actual effective dates, conditions and unresolved temporal applications, including AEDPA, PLRA and OCC §7.4001. No unrecorded Court or lower-court action is inferred.
+
+All twelve chunk 7 Court events are complete. International Business Machines, No. 95-591, and Lockheed, No. 95-809, remain the next inventory matters in chunk 8 on June 10. Their common entering law is the complete June 3 state preserved in the [pre-June10 neutral projection](../entering-law/OT_1995CHUNK7_PRE_JUNE10_NEUTRAL_PROJECTION.md), read with its [public chronology clarification](../entering-law/OT_1995CHUNK7_PRE_JUNE10_CHRONOLOGY_NOTE.md). That earlier baseline remains fixed even though the current projection now contains the four completed June 10 chunk 7 decisions. Neither Richards, Whren, Degen nor Exxon supplies intervening law for either remaining same-date matter. The clarification preserves Smiley’s qualified antecedent-transaction holding without changing the OCC rule’s April 1 effectiveness; all exact source qualifications and public procedural limits remain in force.
