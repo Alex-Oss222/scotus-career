@@ -24,7 +24,7 @@ Source preparation is evidence support, not a Court action. Source-context expos
 
 ## Stage receipts
 
-Henderson, Casarotto, Pinder, Ornelas, Quackenbush, Loving and Auciello are completed Court events. All seven public render entries have been reviewed against mechanically generated inputs. Smiley has completed fresh independent modeling and is in historical reconciliation. The final four June10 cases have completed source preparation and neutral drafts awaiting the actual completed June3 public-law refresh. Completed handoffs:
+The first eight Chunk7 Court events through June3 are complete. All eight public render entries have been reviewed against mechanically generated inputs. The four June10 final neutral packets are frozen under the complete actual June3 law, and their independent models are active in four distinct contexts. Completed handoffs:
 
 | Stage | Commit |
 |---|---|
@@ -74,6 +74,11 @@ Henderson, Casarotto, Pinder, Ornelas, Quackenbush, Loving and Auciello are comp
 | Auciello completed Record and exact public reading copy | 8e058fc |
 | Complete older banking opinions for the statutory source fork | 0d78f64 |
 | Clean replacement Smiley independent commitments | 3acae76 |
+| Smiley reconciliation | b0006fa |
+| Smiley completed Record and exact public reading copy | 459b6b0 |
+| Complete June3 integration and PRE_JUNE10 snapshot | e1bc5d6 |
+| Public clarification of OCC admission versus Smiley chronology | 8fb1ac9 |
+| Four final June10 neutral packets | 9f2189b |
 
 The OCC rule is effective April 1, 1996; all seventeen completed Court events on/after that date through May20 were reviewed for material effects and none was found. At admission, this increased sources to eight and total Records to81, while Court events then remained73. It does not alter the preserved same-day baseline's substantive civil-service or arbitration rules; future relevant slices must include its exact terms. No completed adjudication or immutable earlier handoff is rewritten.
 
@@ -113,3 +118,11 @@ Before writing any commitments, the first scoped Smiley modeling child searched 
 Quackenbush903499b unanimously affirms the judgment vacating the abstention remand. O’Connor receives Chief assignment66, her twentieth; Kennedy and Scalia retain distinct full-join concurrences. Loving0b208d6 unanimously affirms on the presented military authority challenges. Kennedy receives assignment67, his eighth; eight join the Court’s rationale and Thomas joins judgment only, with all three separate-writing functions preserved. Auciello8e058fc unanimously affirms full existing enforcement on the qualified Board policy; Ginsburg receives assignment68, her tenth. Root full-record and render reviews passed for all three, as did exact public identity, structural, link and explanation-ceiling checks. Current confirmed Chief totals are68: O’Connor20, Souter13, Ginsburg10, Kennedy8, Thomas6, Stevens5, Scalia3, Stone2 and Breyer1.
 
 The three completed June3 events await Smiley before integration as one common-date group and before the exact PRE_JUNE10 snapshot. Their bookkeeping sequence adds no same-day law. June10’s four clean neutral drafts have refreshed these three public decisions and await actual Smiley and the snapshot.
+
+## June3 completion and June10 gate
+
+Smiley459b6b0 affirms9–0. Souter receives Chief assignment69, his fourteenth. All eight Associates join PartsI–VI; Stone joinsI,II,IV,VI and the judgment, without an invented opposing view onIII orV. Reconciliation b0006fa corrects the independent-only statutory ground to bounded agency deference and preserves both policy-change answers and qualified antecedent-transaction use. Public-only post-reconciliation compatibility, root full-record review, exact public identity, links, topology arithmetic and seven explanation ceilings passed. Root reviewed the final render, including the conditional thirty-day fee and discretionary §43(c)(3) exception. All eight reviewed entry digests are retained in release staging.
+
+Integration e1bc5d6 contains81 Court events plus8 sources,89 Records, and Chief69. The complete PRE_JUNE10 snapshot remains byte-identical to its prepared state, SHA256 `0f48b37716f9c1aa116cf34fe4734a8fc6641cabc90ff0316d3d0714bff707ac`, with all four full June3 public opinions. Its introductory OCC sentence describes what source admission itself adjudicated; public note8fb1ac9 clarifies that the later actual Smiley PartV supplies the separate qualified judicial-use rule. Current workspace introductions carry that clarification; no snapshot or decision was rewritten. The snapshot preserves a preexisting trailing space in copied participation text; its exact-copy boundary takes priority over whitespace normalization.
+
+Final neutral packets9f2189b include actual Smiley and that chronology note. Richards, Whren, Degen and Exxon now model independently under this complete June3 state. The same baseline is preserved for Chunk8 IBM95-591 and Lockheed95-809; later completion of June10 peers cannot supply their entering law. No substantive source gate remains open.
