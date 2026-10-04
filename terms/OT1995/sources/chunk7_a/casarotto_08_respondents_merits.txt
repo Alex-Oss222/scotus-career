@@ -1,0 +1,1647 @@
+IN THE 
+
+
+Supreme Court of the Ginited States 
+
+
+OCTOBER TERM, 1995 
+
+
+DocTor’s ASSOCIATES, INC. AND NICK LOMBARDI, 
+Petitioners, 
+
+
+v. 
+
+
+PAUL CASAROTTO AND PAMELA CASAROTTO, 
+
+
+Respondents. 
+On Writ of Certiorari to the 
+Supreme Court of Montana 
+BRIEF FOR RESPONDENTS 
+WILLIAM C. WATT LUCINDA A. SIKES 
+SARA J. JOHNSON (Counsel of Record) 
+MULLENDORE, TAWNEY & Davip C.’ VLADECK 
+WarftrT, P.C. PAUL ALAN LEVY 
+310 West Spruce Street COLETTE G. MATZZIE 
+Missoula, MT 59802 PUBLIC CITIZEN LITIGATION 
+(406) 542-5000 Group 
+1600 20th Street, N.W. 
+. Washington, D.C. 20009 
+i (202) 588-1000 
+Attorneys for Respondents 
+March 15, 1996 
+
+
+ BESTAVAILABLE COPY ae 
+
+
+pot ul | le 
+ete, 
+
+
+i 
+QUESTION PRESENTED 
+
+
+Does Section 2 of the Federal Arbitration Act — which 
+provides for the enforcement of voluntary arbitration 
+agreements — preempt a state law aimed at assuring that 
+such agreements are, in fact, knowingly entered? 
+
+
+in 
+TaeRs Seow ll. MONTANA'S EFFORT TO ENSURE THAT 
+ARBITRATION AGREEMENTS ARE 
+QUESTION PRESENTED .........0eeeeneeell ENTERED VOLUNTARILY IS NOT 
+PREEMPTED BECAUSE ITS NOTICE 
+TABLE OF AUTHORITIES ..........ese00:. iv REQUIREMENT DOES NOT CONFLICT 
+WITH THE OPERATION OF THE FEDERAL 
+STATEMENT OF THE CASE ..........+s000:. l ARBITRATION ACT.................. 
+A. The Montana Arbitration Statute. ........ 2 
+B. The Casarottos’ Dispute with DAI. .... ... 5 | SEES cee cbeccccces entweenws ; 
+SUMMARY OF ARGUMENT ............... T | 
+TR 1S | 
+I. THE MONTANA NOTICE REQUIREMENT IS 
+NOT PREEMPTED BECAUSE THE STATE 
+STATUTE REPRESENTS A CODIFICATION 
+OF GENERAL CONTRACT LAW 
+PUR hb O reat baeoeeeccerece 1S 
+A. General Contract Principles Invalidate 
+Terms in Standardized Contracts That 
+Are Beyond The _ Reasonable 
+Expectations of a Party. ............ 17 
+
+
+B. Inconspicuous Arbitration Provisions 
+in Standardized Agreements May Be 
+Invalidated Under General Contract 
+
+
+TABLE OF AUTHORITIES 
+CASES 
+Pages 
+Allied-Bruce Terminix Cos., Inc. v. Dobson, 
+7 § Sarre Ts Passim 
+Berkemer v. McCarty, 
+Span nT c.ceceee Seesesbeut 11 
+Bray v. Alexandria Women’s Heaith Clinic, 
+Seah Ge MEE geegcedeenessceoes il 
+Broemmer v. Abortion Servs. of Phoenix Lid. , 
+840 P.2d 1013 (Ariz. 1992) ........ 12, 19, 20 
+Burgess Constr. Co. v. State, 
+614 P.2d 1380 (Alaska 1980).......... 18, 19 
+C & J Fertilizer, inc. v. Allied Mut. Ins. Co., 
+227 N.W.2d 169 (lowa 1975) ............ 18 
+Cate v. Dover Corp. 
+790 S.W.2d S59 (Tex. 1990) .......... 18, 21 
+Chor v. Piper, Jaffray & Hopwood, inc., 
+862 P.2d 26 (Mont. 1993) ....... 5, 20, 21, 29 
+Cipollone v. Liggett Group, iInc.., 
+Se GT soe 66506 s eee ene 26 
+Dean Witter Reynolds Inc. v. Byrd, 
+Sn <ceekhéawecdeuas 12, 25 
+
+
+v 
+
+
+Dunfee v. Baskin Robbins, Inc., 
+
+
+720 P.2d 1148 (Mont. 1986) ...........-- 23 
+v. General Elec. Co., 
+r | C® | ee 26 
+First Options of Chicago, Inc. v. Kaplan, 
+|. 9-3. |... Ge 16, 17 
+
+
+Graham v. Scissor-Tail, inc., 
+
+
+623 P.2d 165 (Cal. 1981) ........----+-- 19 
+Hines v. Davidowitz, 312 U.S. 52 (1941). ........ 26 
+Jones v. Rath Packing Co., 
+
+GI, SOO co cccccccccecececes 26 
+Larsen v. Opie, 
+
+771 P.2d 977 (Mont. 1989) ............- 5, 29 
+Mastrobuono v. Shearson Lehman Hutton, Inc. , 
+
+|.) @.@..- 7 16, 17 
+Miller v. Fallon County, 
+
+721 P.2d 342 (Mont. 1986) ..............23 
+Mills v. Agrichemical Aviation, Inc., 
+
+250 N.W.2d 663 (N.D. 1977) ..........-- 18 
+Mitsubishi Motors Corp. v. Soler 
+
+Chrysier-Plymouth Inc., 
+
+| te 0 re 17, 24 
+
+
+859 P.2d 444 (Mont. 1993) ........... 29, 3 
+Palmer Steel Structures v. Westech, Inc., 
+
+584 P.2d 152 (Mont. 1978) ............5-- 2 
+Passage v. Prudential-Bache Secs.. Inc., 
+
+727 P.2d 1298 (Mont. 1986) ...... 5, 20, 21, 29 
+Perry v. Thomas, 
+
+GB GD, GED Gee oc ccccccocess 15, 17, 25 
+
+
+Phillips Petroleum Co. v. Shutts, 
+Ge Ss, Ce GD co oecocnceceoeseese 11 
+
+
+Rice v. Santa Fe Elevator Corp., 
+Se We ED wcecdescvceseeséés 26 
+
+
+Rodriguez De Quijas v. Shearson/ 
+American Express, Inc. , 
+
+
+Gs SEED nn oo cécasececeneses 24 
+Shearson/American Express Inc. v. McMahon, 
+
+GS Gah SEED bc cc bebesovecesess 25 
+Sierra Diesel Injection Serv., Inc. v. 
+
+Burroughs Corp. , 
+
+890 F.2d 108 (9th Cir. 1989) ...... errr T 18 
+Southland Corp. v. Keating, 
+
+a aes OD oc cco cnceee 0'e00. ee 
+
+
+Steven v. Fidelity and Casualty Co. of New York, 
+p> > | - | eee 19 
+
+
+vii 
+
+
+Transamerica Ins. Co. v. Royle, 
+656 P.2d 820 (Mont. 1983) .............. 19 
+
+
+Volt Info. Sciences, Inc. v. Board of Trustees 
+of Leland Stanford Junior Univ., 
+
+
+Vukasin v. D.A. Davidson & Co., 
+78S P.2d 713 (Mont. 1990)............ 5,29 
+
+
+Wheeler v. St. Joseph Hosp., 
+63 Cal. App. 3d 345 (1976) ........ 13, 20, 23 
+
+
+William Gibson, Jr., Inc. v. James Graff 
+
+
+780 P.2d 1131 (Mont. 1989) ........... 5, 29 
+Wortman v. Montana Cent. Ry. Co., 
+
+DPT pa cecbccbeonesceseéc 2 
+STATUTES 
+
+
+IS ros. ere ee 
+Cal. Ins. Code § 332 (1995) ...........000.. 33 
+Cal. Ins. Code § 778.4 (1995) ............ — 
+Cal. Corp. Code §§ 25000—25804 (1995) ........ 32 
+Cal. Corp. Code, §§ 31000—31516 
+
+(West Supp. 1996) ................... 31 
+
+
+viii 
+
+
+815 ILCS §§ 705/1, et seq. (1996). .........--. 
+
+
+Ind. Code Ann. §§ 23-2-2.5-47, et seq. (Burns 1995) . 3 
+
+
+Md. Bus. Reg. Code Ann. §§ 14-102—14-233 (1995) . 3 
+
+
+Mich. Comp. Laws § 550.1410a (1994) ......... 33 
+Mich. Stat. Ann. §§ 19.854(1)—(46) (1994) ....... 31 
+Minn. Stat. § 60A.207 (1995) .........255006- 33 
+Minn. Stat. § 80C.01—80C.14 (1995) .......... 31 
+Mont. Code Ann. tit. 27,ch.5 ..........6545. 2,3 
+Mont. Code Ann. § 27-5-114(4) (1995) ....... passim 
+Mont. Code Ann. § 28-2-708 (1984) ......... 2 
+Mont. Code Ann. §§ 31-1-231(2) & (3) .......... 5 
+N.D. Cent. Code Ann. 
+
+§§ 51-19-O1—S1-19-17 (1995) ............ 31 
+N.Y. Gen. Bus. Law 
+
+$§ 352-359-h (Consol. 1995) ............. 32 
+N.Y. Gen. Bus. Law. 
+
+§§ 680—684 (Consol. 1995) .............31 
+N.Y. Ins. Law § 3404 (Consol. 1995) .......... 33 
+R.1. Gen. Laws, §§ 19-28.1-1—19-28.1-34 (1995) ... 31 
+S.D. Codified Laws Ann. 
+
+§§ 37-SA-1—37-SA-87 (1995) ............H9 
+
+
+ix 
+Tex. Rev. Civ. Stat. Ann. 
+art. 5069-16.01 (West 1996) ............. 31 
+Va. Code Ann. §§ 13.1-SS7—13.1-574 (1995) ..... 31 
+Wash. Rev. Code 
+$§ 19.100.010, er seg. (1995) ............ 31 
+Wisc. Stat. §§ 553.01—553.78 (1994) .......... 31 
+
+
+Federal Legislative History 
+H.R. Rep. 96, 68th Cong., Ist Sess. (1924) ...... 16 
+S. Rep. No. 536, 68th Cong., Ist Sess. (1924) ..... 16 
+66 Cong. Rec. 984 (1924) ..............-.-. 15 
+
+
+raring on S. 4213 and S. 4214 before 
+
+
+Joint Hearings on S. 1005 and H.R. 646 
+before the Subcommittees of the 
+Committees on the Judiciary, 
+Git Cong... int Sess. (1926) ............. 27 
+
+
+Montana Legislative History 
+Hearings on Adopting the Uniform Arbitration Act, 
+
+
+S.B. 110, before the House Judiciary Commitee, 
+49th Leg. (March 13, 1985) .............. 3 
+
+
+Hearings on Adopting the Uniform Arbitration Act, 
+S.B. 110, before the Senate Judiciary Committee, 
+49th Leg. (January 21, 1985) ........... 3,4 
+
+
+Hearings on Adopting the Uniform Arbitration Act, 
+S.B. 110, before the Senate Judiciary Committee, 
+49th Leg. (February 6, 1985) ............. 4 
+
+
+MISCELLANEOUS 
+
+
+Scott Burnham, Bad Faith: Courts Find Breaches of 
+Fair Dealing Applicable to Commercial Contracts 
+Too, Mont. Law. 6 (Nov. 1986) ....... 22, 23 
+
+
+John L. Di Fiore, Problems in Alternative Dispute 
+Resolution: Arbitration Agreements as Contracts 
+of Adhesion in Consumer Securities Disputes, 93 
+
+
+Ce PE Ga sho hak aed boo sc 20 
+Thomas Lee Hazen, The Law of Securities Regulation 
+
+Pee SA co-haweh aden e's bets cs 32 
+Robert E. Keeton & Alan I. Widiss, 
+
+Insurance Law (1988) .............. 32, 33 
+Practicing Law Institute, Franchising (1992) ....... 31 
+
+
+Todd D. Rakoff, Contracts of Adhesion: 
+An Essay in Reconstruction, 
+
+
+96 Harv. L. Rev. 1174 (1983) ............ 18 
+Restatement (Second) of Contracts § 211 ..... 12, 18 
+Staff of House Comm. on Small Business, 
+
+101st Cong., 2d Sess., Franchising 
+
+in the U.S. Economy: Prospects and 
+
+Problems (Comm. Print 101-4, 1990) ....... 22 
+
+
+IN THE 
+
+
+Supreme Court of the Gnited States 
+OCTOBER TERM, 1995 
+
+
+No. 95-559 
+
+
+DOCTOR'S ASSOCIATES, INC. AND NICK LOMBARDI, 
+Petitioners, 
+
+
+Vv. 
+
+
+PAUL CASAROTTO AND PAMELA CASAROTTO, 
+Respondents. 
+
+
+On Writ of Certiorari to the 
+Supreme Court of Montana 
+
+
+BRIEF FOR RESPONDENTS 
+
+
+STATEMENT OF THE CASE 
+
+
+In April 1988, respondent Paul Casarotto signed an | 1- 
+page standard form franchise agreement with petitioner 
+Doctor’s Associates, Inc. (DAI) to open a Subway sandwich 
+shop in Great Falls, Montana. J.A. 86-87. Unbeknownst to 
+Mr. Casarotto, on page nine of the agreement was a 
+provision mandating arbitration of all disputes between the 
+parties in Bridgeport, Connecticut. J.A. 86-87. The 
+franchise agreement did not provide notice on the front page 
+in underlined capital letters that the contract was subject to 
+arbitration, as required by Montana statute. Mont. Code 
+Ann. § 27-5-114(4) (1995). The question presented is 
+whether the Montana statute, which is aimed at assuring that 
+parties know that they are signing an agreement containing an 
+arbitration clause, is preempted by the Federal Arbitration 
+
+
+2 
+
+
+Act, 9 U.S.C. § 2 (“FAA”). To answer that question, we 
+begin with the history of the Montana arbitration statute and 
+then turn to the facts of this case and the rulings below. 
+
+A. The Montana Arbitration Statute. 
+
+
+In 1985, the Montana legislature adopted the Uniform 
+Arbitration Act. Mont. Code Ann. tit. 27, ch. 5. Prior to 
+the adoption of the Act, the Montana courts refused to 
+enforce arbitration agreements based upon an 1895 statute 
+that voided contractual provisions in which a party “is 
+restricted from enforcing his rights under the contract by the 
+usual proceedings in the ordinary tribunals or which limits 
+the time within which he may thus enforce his rights.” 
+Mont. Code Ann. § 28-2-708 (1984). See, e.g., Palmer 
+Steel Structures v. Westech, Inc. , 584 P.2d 152 (Mont. 1978) 
+(contract provisions which require parties to submit future 
+disputes to arbitration are void as applied to questions of 
+law). This provision codified a common law prohibition on 
+contractual restraints upon legal proceedings that existed in 
+Montana prior to the adoption of the Montana Code in 1895. 
+Wortman v. Montana Cent. Ry. Co., 56 P. 316, 321 (Mont. 
+1899). 
+
+
+In 1984, this Court announced its decision in Southland 
+Corp. v. Keating, 465 U.S. 1 (1984), regarding the 
+preemptive scope of section 2 of the FAA, 9 U.S.C. § 2. 
+That provision makes an arbitration agreement “valid, 
+irrevocable, and enforceable, save upon such grounds as 
+exist at law or in equity for the revocation of any contract.” 
+Id. In Southland, this Court concluded that section 2 
+“appl[ies] in state as well as federal courts,” 465 U.S. at 12, 
+and “withdr[aws] the power of the states to require a judicial 
+forum for the resolution of claims which the contracting 
+parties agreed to resolve by arbitration.” Jd. at 10. In the 
+
+
+3 
+
+
+wake of this Court’s Southland decision, the Montana 
+legislature adopted the Uniform Arbitration Act to validate 
+arbitration agreements and to amend section 28-2-708 to 
+exclude arbitration agreements. See Mont. Code Ann. tit. 
+27, ch. 5; Mont. Code Ann. § 28-2-708 (1995). 
+
+The principal purpose of the legislation was to allow 
+parties to enforce pre-dispute arbitration agreements. As the 
+bill’s sponsor, State Senator Joe Mazurek, explained: 
+
+Even though Montana has arbitration statutes on 
+
+the books, there is existing case law and statutes 
+
+in Montana which prohibit parties from agreeing 
+
+in advance of a dispute to submitting it to 
+
+arbitration. What this bill would do is allow 
+
+parties in advance of any dispute arising [to] 
+agree{] to submit a dispute to arbitration and 
+adopts the Uniform Arbitration Act which 
+establishes the procedures under which an 
+arbitration would occur and provides the means 
+
+for enforcement of awards. . . . [The] principal 
+
+concern is making the commercial setting where 
+
+the parties are already arbitrating enforceable. 
+Hearings on Adopting the Uniform Arbitration Act, S.B. 110, 
+before the Senate Judiciary Committee, 49th Leg. (January 
+21, 1985) (minutes of the Senate Judiciary Committee, at 6); 
+see also Hearings on Adopting the Uniform Arbitration Act, 
+S.B. 110, before the House Judiciary Committee, 49th Leg. 
+(March 13, 1985) (minutes of the House Judiciary 
+Committee, at 2) (“[TJhe bill makes a very significant 
+change in Montana law. It allows parties to enter into an 
+
+
+4 
+
+
+agreement today to arbitrate a dispute which arises in the 
+future. That is currently prohibited by Montana law.”).' 
+During the consideration of Montana’s Uniform 
+Arbitration Act, the testimony and legislative statements 
+focused on the positive aspects of arbitration. See, e.g., 
+Hearings on Adopting the Uniform Arbitration Act, S.B. 110, 
+before the Senate Judiciary Committee, 49th Leg. (January 
+21, 1985) (minutes of the Senate Judiciary Committee, at 6) 
+(arbitration is less expensive, less cumbersome means of 
+settling disputes; bill will alleviate current clogging of the 
+courts). Concerns were raised, however, about adhesion 
+contracts. Jd. at 7 (testimony of Montana Trial Lawyers 
+Association). For example, Senator Tom Towe told the 
+Committee about Nannabelle Nickleberry, an elderly woman 
+who signed a home improvement contract which required 
+that disputes be arbitrated in New York. /d. at 8. In 
+response to such concerns, the legislation was amended to 
+include the provision at issue in this case: 
+Notice that a contract is subject to arbitration 
+pursuant to this chapter shall be typed in 
+underlined capital letters on the first page of the 
+contract; and unless such notice is displayed 
+thereon, the contract may not be subject to 
+arbitration. 
+Mont. Code Ann. § 27-5-114(4); see also Hearings on 
+Adopting the Uniform Arbitration Act, S.B. 110, before the 
+Senate Judiciary Committee, 49th Leg. (February 6, 1985) 
+(minutes of the Senate Judiciary Committee, at 8). This is 
+not the only provision that the Montana legislature has 
+
+
+'A copy of the state legislative history is being lodged with the 
+Clerk and served on counsel for petitioners. 
+
+
+5 
+
+
+enacted to require conspicuous notice of particular terms in 
+standardized form contracts. For example, the Montana 
+Code requires that retail installment contracts provide notice 
+of particular rights in large bold type and that installment 
+contracts for motor vehicles include a specific statement that 
+liability insurance coverage is not included if that is the case. 
+Mont. Code Ann. §§ 31-1-231(2) & (3). 
+
+Following the adoption of the Uniform Arbitration Act 
+in 1985, the Montana Supreme Court has repeatedly enforced 
+arbitration agreements. See Chor v. Piper, Jaffray & 
+Hopwood, Inc., 862 P.2d 26 (Mont. 1993); Downey v. 
+Christensen, 825 P.2d 557 (Mont. 1992); Vukasin v. D.A. 
+Davidson & Co., 785 P.2d 713 (Mont. 1990); William 
+Gibson, Jr., Inc. v. James Graff Communications, Inc. , 780 
+P.2d 1131 (Mont. 1989); Larsen v. Opie, 771 P.2d 977 
+(Mont. 1989); Passage v. Prudential-Bache Secs., Inc., 727 
+P.2d 1298 (Mont. 1986). Thus, as long as parties comply 
+with Mont. Code Ann. § 27-5-114, they can rely on the 
+Montana courts to enforce their agreements to arbitrate. 
+
+
+B. The Casarottos’ Dispute with DAI. 
+
+
+In April 1988, Paul Casarotto signed a franchise 
+agreement with DAI to open a Subway sandwich shop in 
+Great Falls, Montana. J.A. 86-87. It was the first and only 
+franchise agreement that Mr. Casarotto had ever signed. 
+J.A. 87. He was told during his phone conversations with 
+DAI representatives that it was a standard agreement and that 
+he could make no changes or modifications to it. J.A. 86- 
+87. There was no indication on the first page of the contract 
+that it was subject to arbitration. J.A. 65. However, on 
+page 9, at paragraph 10(c), the contract included a provision 
+that would require Mr. Casarotto to travel more than two 
+
+
+6 
+thousand miles to Bridgeport, Connecticut, to arbitrate any 
+disputes arising out of the contract: 
+Any controversy or claim arising out off or 
+
+relating to this contract or the breach thereof sthal! 
+
+be settled by Arbitration in accordance with the 
+
+Commercial Arbitration Rules of the American 
+
+Arbitration Association at a hearing to be held} in 
+
+Bridgeport, Connecticut and judgment upon an 
+
+award rendered by the Arbitrator(s) may be 
+
+entered in any court having jurisdiction thereof. 
+
+The commencement of arbitration proceedings, by 
+
+an aggrieved party to settle disputes arising out of 
+
+or relating to this contract is a condition precedient 
+
+to the commencement of legal action by eitther 
+
+party. The cost of such a proceeding will be 
+
+borne equally by the parties. 
+J.A. 75. The contract also included a provision stating that 
+Connecticut law would govern the contract. JA 77. 
+Although Mr. Casarotto admits that he read the ajgreement 
+before signing it, no one ever told or explained to him that 
+the agreement contained an arbitration clause now did he 
+understand that he was surrendering his right to sue DAI in 
+Montana. J.A. 87. 
+
+The franchise agreement provided that the lowation of 
+the Subway shop had to be approved by DAI. JA. 68. 
+After the franchise agreement was signed, DAI assigned 
+Nick Lombardi, an independent contractor, to serve as its 
+Montana Development Agent.’ Amended Complaint, ¢ 9, 
+
+
+Mr. Lombardi did not sign the franchise agreewnent but 
+appears to claim that he is also entitled to arbitration of the 
+(cOMminued..) 
+
+
+7 
+
+
+R. 6. Lombardi informed Mr. Casarotto that the location he 
+preferred in Great Falls was not yet available. J.A. 14. 
+Based on Lombardi's promise reserving for him the exclusive 
+mght to open a Subway shop in the preferred location when 
+it became available, Mr. Casarotto agreed to open a shop at 
+a less desirable location. J.A. 14. Contrary to their 
+promise, however, Lombardi and DAI subsequently awarded 
+the preferred location to another franchisee. J.A. 14. Asa 
+securing their loan. J.A. 14. 
+
+
+C. Proceedings Below. 
+
+In 1992, respondents Paul and Pamela Casarotto filed 
+breached their agreement with the Casarottos. defrauded 
+them, breached the covenant of good faith and fair dealing. 
+and engaged in other tortious conduct, all of which directly 
+
+
+*(.. continued) 
+
+Casarottos’ claims against him, based on a franchise agreement to 
+which he is not a party. Although DAI refers to Lombardi as its 
+agency status in the proceedings helow Pet. Brief at 3; Appellees” 
+Response Brief in Casaromo v. Lombardi, 886 P.2d 931 (Mont. 
+1994) at 7-8, 21-22. 26. Without conceding the point. even if one 
+were inclined toward the view that the FAA preempts the Montana 
+notice statute, the question remains whether Nick Lombardi can 
+benefit from the arbitration clause since he was not a signatory to 
+the franchise agreement, was not an employee of the signatory 
+(DAD), and was not clearly acting in the capacity as an agent of the 
+signatory At a minimum. the record has not been sufficiently 
+developed t encompass Lombardi within this arbitration 
+agreement. Because the Montana Supreme Court did not reach the 
+issue of whether the arbitration clause in DAI's franchise 
+agreement would extend tw the Casarottos’ claims agains! 
+Lombardi. that issue is not presented here 
+
+
+caused the Casarottos’ loss of business and the resulting 
+damage.’ J.A. 14. 
+
+Petitoners moved in the state district court to dismiss 
+Or stay the judicial proceedings pending arbitration, citing the 
+arbitration provisions in the franchise agreement. The 
+distnict court stayed the lawsuit against DAI and Lombardi 
+pending arbitration pursuant to section 3 of the Federal 
+Arbitration Act. J.A. 10-11. The Casarottos appealed to the 
+Montana Supreme Court. 
+
+The Montana Supreme Court reversed, holding that the 
+Casarottos’ claims could be litigated. The court reached that 
+result in two steps. First, applying conflict of law principles 
+established in Montana case law, the court held that Montana 
+law governed the franchise agreement between Casarotto and 
+DAI. J.A. 16-21. The Montana court determined that 
+Montana had a materially greater interest than Connecticut in 
+
+
+agreement to waive their night of access under the Montana 
+constitution to Montana's courts. J.A. 20-21. 
+
+Second, having determined that the franchise agreement 
+is governed by Montana law, the Montana court then 
+considered whether the notice requirement in Mont. Code 
+Ann. § 27-5-114(4) is preempted by the Federal Arbitration 
+Act. Relying on this Court's analysis in Volt Info. Sciences, 
+Inc. v. Board of Trustees of Leland Stanford Junior Univ.. 
+489 U.S. 468 (1989), the Montana court found that 
+Montana's notice statute is consistent with the goals and 
+policies of the FAA: 
+
+Our conclusion that Montana's notice 
+requirement does not undermine the policies of 
+the FAA is based on the Supreme Court's 
+conclusion that it was never Congress's intent 
+when it enacted the FAA to preempt the entire 
+field of arbitration. and its further conclusion that 
+the FAA does not require parties to arbitrate 
+when they have not agreed to do so. That Court 
+held that the purpose of the FAA is simply to 
+had entered, and acknowledged that the 
+interpretation of contracts is ordinarily a question 
+of state law. Volt, 489 U.S. at 474. 
+
+Presumably, therefore, the Supreme Court 
+would not find it a threat to the policies of the 
+Federal Arbitration Act for a state to require that 
+they be entered knowingly. 
+
+J.A. 27. As the Montana court further noted, “Montana's 
+entering into arbitration agreements, nor do our courts 
+
+
+10 
+
+decline to enforce arbitration agreements which are entered 
+into knowingly.” J.A. 28. Therefore, the court found that 
+Montana's notice statute is not preempted, and reversed the 
+district court's order staying the litigation. J.A. 28. 
+summarily vacated the Montana court's decision and 
+remanded for further consideration in light of an intervening 
+decision, Allied-Bruce Terminix Cos., Inc. v. Dobson, 115 S. 
+Ct. 834 (1995). 115 S. Ct. 2552 (1995). In Terminix, this 
+Court held that section 2 of the Federal Arbitration Act, 
+which makes enforceable a written arbitration provision in “a 
+contract evidencing a transaction involving commerce,” 
+reaches broadly to the limits of Congress’ Commerce Clause 
+power. 115 S. Ct. at 839-40. Accordingly, this Court 
+reversed an Alabama Supreme Court decision applying a 
+unenforceable based on the Alabama court's finding that the 
+FAA did not apply to the termite contract at issue there. id. 
+at 837. 
+
+On remand, the Montana Supreme Court concluded that 
+its prior decision was consistent with Terminix. J.A. 54. 
+The central issue in Terminix was whether the contract at 
+issue evidenced “a transaction involving commerce.” J.A. 
+53. The Montana court presumed that the Casarottos’ case 
+frustrated the purposes of the FAA would be preempted. 
+J.A. 53. The court noted that the challenged Montana statute 
+unenforceable; it simply requires notice of an arbitration 
+clause in a contract. J.A. 53. See also J.A. SS (Leaphart, 
+concurring) (the notice statute “furthers the policy of 
+meaningful and consensual arbitration by helping ensure that 
+
+
+the consumer who signs what is most often a nonnegotiated , 
+form contract, knowingly agrees to arbitration in the event of 
+a dispute.”). Finally, the Montana court noted that Terminix 
+in no way modified the principles from Vols on which the 
+Montana court had relied. J.A. 54. Accordingly, the 
+Montana Supreme Court reaffirmed and reinstated its prior 
+decision. J.A. 54. This Court granted certiorari on January 
+5, 1996.* 
+
+
+Unlike the state requirements that this Court has 
+toward the enforcement of arbitration agreements that are 
+knowingly entered. To the contrary, this statutory provision 
+was enacted in the course of modernizing Montana law to 
+bring it into compliance with the FAA by requiring that 
+arbitration agreements are enforceable. Its function is not > 
+prevent arbitration but to help ensure that arbitration is 
+indeed consensual. 
+
+Under the Federal Arbitration Act, arbitration is a 
+matter of consent. Volt, 489 U.S. at 479. This Court in 
+
+
+“The propriety of the Montana Supreme Court's choice-of-law 
+to it. Pet. Brief a 17 n. 10. The only basis on which that ruling 
+could be overturned by this Court is that Montana's choice of law 
+decision violates due process. Phillips Petrolewm Co. v. Shutts. 
+472 U.S. 797 (1985). Because petitioners did not seek review of 
+this conclusion, but only of the meaning of section 2 of the FAA. 
+the Court should not consider it. See Bray v. Alexandria Women's 
+Health Clinic, 113 S. Ct. 753, 764-65 (1993); Berkemer v. 
+McCarty, 468 U.S. 420, 443 0.38 (1984). 
+
+
+12 
+
+
+Dean Witter Reynolds Inc. v. Byrd, 470 U.S. 213 (1985), 
+explained that the Act arose not from a desire to force 
+disputes to arbitration, Gut Gam Go cand & cxmemian 
+cute anes dep Mati een ae id. at 219-20. 
+“The Act, after all, does not mandate the arbitration of all 
+claims, but merely the enforcement — upon the motion of 
+eo eee = of privately negotiated arbitration 
+reements.” jd. at 219. 
+
+Recognizir om, in any instances, it 
+sandastlans foun coutmets Gut om ofitend on 0 tho 
+cave-it ass, like the franchise agreement at issue here, the 
+a contract contains an arbitration clause. Mont. Code Ann. 
+§ 27-5-114(4). This notice requirement is not preempted by 
+
+First, the statute simply codifies general common law 
+
+principle: Se ee Se © 
+Genat of Comnats § 781 Standardizec squneume (), 
+cmt. f. An arbitration provision like the one in the franchise 
+agreement between Mr. Casarotto and DAI is surely 
+vulnerable under a common law contract theory because the 
+expectations of the agreeing party. See Broemmer v. 
+Abortion Servs. of Phoenix Lid., 840 P.24 1013 (Ariz. 1992) 
+(standardized form contract which required patient to 
+arbitrate medical malpractice disputes was unenforceable as 
+falling outside patient's reasonable expectations where there 
+
+
+13 
+
+
+was no conspicuous waiver); Wheeler v. St. Joseph Hosp., 
+63 Cal. App.3d 345, 361 (1976) (applying adhesion contract 
+principles to an arbitration clause, court found no agreement 
+to arbitrate where clause not specifically called to the 
+patient's attention). 
+
+<guendats @ ib Go tarts tee eames, The issue 
+of whether a party has knowingly consented to arbitration is 
+a matter of state law, and the FAA expressly provides that 
+States may invalidate arbitration clauses that fail under 
+general principles of contract law. 9 U.S.C. § 2: see also 
+Terminix, 115 S. Ct. at 843 (“States may regulate contracts, 
+including arbitration clauses, under general contract law 
+principles and they may invalidate an arbitration clause ‘upon 
+such grounds as exist at law or in equity for the revocation 
+of any contract."”) (emphasis added). Thus, a state court 
+decision declining to enforce an arbitration clause in a form 
+contract, on the ground that it is not conspicuous, is not 
+preempted by the FAA because section 2 allows states to 
+invalidate arbitration clauses on generally applicable 
+principles of law and equity. 
+
+For the same reason, Montana's notice statute is not 
+law by requiring arbitration agreements — which are 
+certainly “unexpected” since they had been barred in 
+Montana for over a century — to be conspicuously displavec 
+in order for the court to conclude that the party who did not 
+Graft the agreement knowingly agreed to arbitration. 
+Because invalidation of arbitration clauses under the general 
+principle that unexpected terms be conspicuous is permitted 
+by the FAA, the FAA does not preempt a state statute that. 
+as here, codifies the requirement that arbitration clauses be 
+
+
+14 
+
+
+conspicuous. Indeed, the codification of the conspicuousness 
+requirement benefits those drafting arbitration agreements by 
+relieving them of the uncertainties of case-by-case 
+adjudication of whether a clause is sufficiently conspicuous. 
+
+Second, the Montana notice statute is not preempted by 
+the FAA because it does not prevent parties from entering 
+enforceable arbitration agreements, nor does it allow courts 
+to refuse to enforce agreements that are knowingly entered. 
+Thus, the statute does not conflict with the FAA’s basic 
+purpose, “to overcome courts’ refusals to enforce agreements 
+to arbitrate.” Terminix, 115 S. Ct. at 838. Indeed, by 
+ensuring that arbitration agreements are entered knowingly, 
+and by establishing a bright-line rule for when appropriate 
+notice and consent have been given, the Montana statute 
+furthers the pro-arbitration policy of the FAA. If notice of 
+the arbitration clause is provided as required by the Montana 
+Statute, a party to the contract will be unable to claim that an 
+arbitration agreement was not within her reasonable 
+expectations. 
+
+Finally, petitioners’ claim that the Montana notice 
+Statute is “disruptive and unworkable for anyone transacting 
+business in interstate commerce” is vastly overblown. Pet. 
+Brief at 26. Sophisticated market participants transacting 
+business in multiple states already are obliged to adapt their 
+form contracts, franchise agreements, leases, insurance 
+policies, or securities registrations to the specific 
+requirements of diverse jurisdictions. Companies that are 
+already highly regulated by the states will have no significant 
+difficulty complying with a simple state arbitration notice 
+requirement, and will surely not suffer enough of a burden 
+to frustrate the purposes of the FAA. Indeed, by codifying 
+this common law requirement of conspicuous notice, 
+
+
+15 
+
+
+Montana has made it easier for foreign corporations to 
+ascertain and comply with Montana law. 
+
+
+ARGUMENT 
+
+
+I. THE MONTANA NOTICE REQUIREMENT IS 
+NOT PREEMPTED BECAUSE THE STATE 
+STATUTE REPRESENTS A CODIFICATION OF 
+GENERAL CONTRACT LAW PRINCIPLES. 
+
+
+The Federal Arbitration Act was enacted in 1925 to 
+ensure that courts enforced agreements to arbitrate. 
+Terminix, 115 S. Ct. at 838; see also 66 Cong. Rec. 984 
+(1924) (statement of Senator Walsh) (“[T]he bill provides for 
+the abolition of the rule that agreements for arbitration will 
+not be specifically enforced.”). The “FAA contains no 
+express pre-emptive provision, nor does it reflect a 
+congressional intent to occupy the entire field of arbitration.” 
+Volt, 489 U.S. at 477. Indeed, Congress expressly limited 
+the preemptive reach of the FAA by allowing states to 
+invalidate arbitration provisions “on such grounds as exist at 
+law or equity for the revocation of any contract.” 9 U.S.C. 
+§ 2. 
+
+
+“Congress’ principal purpose” in enacting the FAA was 
+to ensure that “private arbitration agreements are enforced 
+according to their terms.” Volt, 489 U.S. at 478. Thus, this 
+Court has held that state laws which “require a judicial 
+forum for the resolution of claims which the contracting 
+parties agreed to resolve by arbitration” are preempted. 
+Southland, 465 U.S. at 10 (state law that made agreements 
+to arbitrate certain franchise claims unenforceable held 
+preempted because it “directly conflicts” with section 2 of 
+the Act); Perry v. Thomas, 482 U.S. 483, 491 (1987) 
+
+
+i i 
+
+
+16 
+
+
+(similar state law barring enforcement of agreement to 
+arbitrate wage-collection claims held preempted because it 
+was in “unmistakable conflict” with federal policy). 
+
+However, this Court has “recognized that the FAA does 
+not require parties to arbitrate when they have not agreed to 
+do so.” Volt, 498 U.S. at 478. The federal policy favoring 
+arbitration is not designed to promote the broader use of 
+arbitration, but rather to “give effect to the contractual rights 
+and expectations of the parties... .” Jd. at 479; see also 
+H.R. Rep. 96, 68th Cong., Ist Sess. 1 (1924) (“[E}ffect of 
+the bill is simply to make the contracting party live up to his 
+agreement.”). Thus, the Act only requires arbitration where 
+the parties have contractually bound themselves to arbitrate 
+their disputes. See Volt, 489 U.S. at 479 (“Arbitration under 
+the Act is a matter of consent, not coercion.”); S. Rep. No. 
+536, 68th Cong., Ist Sess. 1, 3 (1924) (“The record... . 
+shows not only the great value of voluntary arbitrations but 
+the practical justice in the enforced arbitration of disputes 
+where written agreements for that purpose have been 
+voluntarily and solemnly entered into.”) (emphasis added); 
+see also Prima Paint Corp. v. Flood & Conklin Mfg. Co.., 
+388 U.S. 395, 414 (1967) (legislative history demonstrates 
+that Act was not intended to cover arbitration clauses offered 
+to captive customers or employees on a take-it-or-leave-it 
+basis) (Black, J. dissenting), (citing Hearing on S. 4213 and 
+S. 4214 before the Subcommittee of the Senate Committee ‘on 
+the Judiciary, 67th Cong., 4th Sess. 9-11 (1923)). 
+
+This Court has held repeatedly that “the arbitrability of 
+the merits of a dispute depends upon whether the parties 
+agreed to arbitrate that dispute.” First Options of Chicago, 
+Inc. v. Kaplan, 115 S. Ct. 1920, 1923 (1995), (citing 
+Mastrobuono v. Shearson Lehman Hutton, Inc., 115 S. Ct. 
+
+
+17 
+
+
+1212, 1216 (1995); Mitsubishi Motors Corp. v. Soler 
+
+Chrysler-Plymouth Inc., 473 U.S. 614, 626 (1985)). As this 
+
+Court noted in its most recent decision on arbitration: 
+[T]he basic objective in this area is not to resolve 
+disputes in the quickest manner possible, no 
+matter what the parties’ wishes, but to ensure that 
+commercial arbitration agreements, like other 
+contracts, ‘are enforced according to their terms,’ 
+and according to the intentions of the parties. 
+
+First Options, 115 S. Ct. at 1925 (citations omitted). 
+
+
+Id. at 1924, (citing Mastrobuono, 115 S. Ct. at 1219 & n.9; 
+Volt, 489 U.S. at 475-76; Perry, 482 U.S. at 492-93 n.9). 
+In this case, the Montana court looked to compliance with 
+the Montana notice statute and invalidated the arbitration 
+Provision on that ground. J.A. 28. However, as 
+demonstrated below, this statute is little more than a 
+particular application and codification of general State law 
+contract principles that govern standardized form contracts 
+and that could also have been applied to invalidate the 
+arbitration clause at issue here. 
+
+
+The law treats contracts of adhesion or standard form 
+contracts, such as the franchise agreement signed by Mr. 
+Casarotto, differently from “ordinary” contracts. See 
+
+
+generally Todd D. Rakoff, Contracts of Adhesion: An Essay 
+in Reconstruction, 96 Harv. L. Rev. 1174 (1983). While 
+standardized agreements serve a useful purpose, courts 
+recognize that the adhering party is unlikely to have read, let 
+alone understood, many of the standard terms before signing 
+the document. Restatement (Second) Contracts § 211, cmts. 
+a & b; see also Rakoff, supra, at 1179 and citations in nn. 
+21 & 22. Thus, parties “are not bound to unknown terms 
+which are beyond the range of reasonable expectation.” 
+Restatement (Second) Contracts § 211, cmt. f; see, fs C 
+& J Fertilizer, Inc. v. Allied Mut. Ins. Co., 227 N.W.2d 
+169, 176-77 (lowa 1975) (doctrine of reasonable expectations 
+invalidates insurance policy provision); Mills v. Agrichemical 
+Aviation, Inc., 250 N.W.2d 663, 671-73 (N.D. 1977) 
+(same). 
+
+To determine whether an unexpected term in a standard 
+form contract should be rendered unenforceable, courts look, 
+in part, to the conspicuousness of the term. Restatement 
+(Second) Contracts § 211, cmt. f. For example, in Sierra 
+Diesel Injection Serv., Inc. v. Burroughs Corp., 890 F.2d 
+108 (9th Cir. 1989), the court excluded warranty disclaimer 
+Clauses from a standard form contract because they were not 
+within the reasonable expectations of the signing party and 
+were not conspicuous. /d. at 113-14. Similarly, in Cate vy. 
+Dover Corp., 790 S.W.2d 559 (Tex. 1990), the court held 
+that “to be enforceable, a written disclaimer of the implied 
+warranty of merchantability : . . must be conspicuous to a 
+reasonable ¢es,<n.” Id. at 562. According to the Cate 
+court, the purpose of the conspicuousness requirement is “to 
+protect the buyer from surprise and an unknowing waiver of 
+his or her rights.” Jd. at 561. Echoing the holding of the 
+Cate court, the court in Burgess Constr. Co. v. State, 614 
+
+
+19 
+
+
+P.2d 1380 (Alaska 1980) explained a common judicial 
+response to contracts of adhesion: “An unusual or unexpected 
+term in an adhesion contract which falls outside the weaker 
+party’s ‘reasonable expectations’ will be denied effect against 
+
+
+Thus, courts have repeatedly refused to enforce 
+limitations on liability in standardized form contracts in the 
+absence of plain, clear, and explicit notice. See, e.g., Steven 
+v. Fidelity and Casualty Co. of New York, 377 P.2d 284, 
+288-94 (Cal. 1963) (insurance policy provisions contrary to 
+the reasonable expectations of the adhering party denied 
+enforcement in the absence of “plain and clear notification” 
+and “an understanding consent”); Transamerica Ins. Co. y. 
+Royle, 656 P.2d 820, 824 (Mont. 1983) (“[H]ousehold 
+exclusion clause [in insurance policy] is invalid due to its 
+failure to ‘honor the reasonable expectations’ of the 
+purchaser of the policy.”). 
+
+
+B. Inconspicuous Arbitration Provisions in 
+
+
+applied to invalidate arbitration clauses. See Broemmer v. 
+
+
+20 
+
+
+Abortion Servs. of Phoenix, Lid., 840 P.2d 1013 (Ariz. 
+1992) (adhesion contract which required patient to arbitrate 
+medical malpractice disputes was unenforceable as falling 
+outside patient’s reasonable expectations where there was no 
+conspicuous waiver); Wheeler v. St. Joseph Hosp., 63 
+Cal.App.3d 345, 361 (1976) (applying adhesion contract 
+principles to an arbitration clause, court found no agreement 
+to arbitrate where clause not called to the patient’s attention). 
+The reasonable expectations doctrine is not, of course, 
+applied indiscriminately to invalidate all arbitration clauses 
+in standardized form contracts. Instead, the ultimate question 
+is whether the clause was outside the reasonable expectations 
+of the party signing the contract. See John L. Di Fiore, 
+Problems in Alternative Dispute Resolution: Arbitration 
+Agreements as Contracts of Adhesion in Consumer Securities 
+Disputes, 93 Com. L.J. 259, 276-77 (1988) (arbitration not 
+reasonably anticipated by the ordinary individual in certain 
+factual circumstances). 
+
+Thus, while Montana law recognizes the general 
+principle that unexpected provisions in standardized contracts 
+are invalid if not conspicuous, in two cases where the claim 
+was raised, the Montana Supreme Court has rejected the 
+argument that arbitration clauses in adhesion contracts are 
+void when the record does not support the claim that the 
+clause was outside the reasonable expectations of the 
+adhering party. See Chor v. Piper, Jaffray & Hopwood, 
+Inc., 862 P.2d 26, 30 (Mont. 1993); Passage v. Prudential- 
+Bache Securities, Inc., 727 P.2d 1298, 1301-02 (Mont. 
+1986). Both cases involved brokerage agreements. In 
+Passage, the Montana court found that “[tJhere is nothing in 
+the record to indicate that the arbitration clause in the [one- 
+page] client agreement form was not within the parties’ 
+
+
+21 
+
+
+reasonable expectations.” 727 P.2d at 1302. In Chor, the 
+court relied on the plaintiff's own testimony that she read the 
+arbitration agreements before signing them and understood 
+that “if I were to have any problems, that we would agree 
+
+
+requirement had not been met. Id. at 34. 
+
+
+Thus, any argument that the Montana notice statute is 
+overbroad because it applies to situations beyond what the 
+common law would allow must be rejected. The Montana 
+Supreme Court will not invalidate an arbitration provision 
+based solely on noncompliance with the statutory notice 
+requirement, if the signing party knew and understood that 
+he or she was signing a contract that included an arbitration 
+Provision. Id.; see also Cate, 790 §.W.2d at 562 
+(inconspicuous disciaimer of implied warranty of 
+merchantability is unenforceable “unless the buyer has actual 
+knowledge of the disclaimer”). On the other hand, while the 
+Montana court rejected arguments based on adhesion contract 
+Principles in Passage and Chor, the Court affirmed the 
+Vitality of the doctrine and plainly left the door open to the 
+possibility that, in a more compelling case, it would void the 
+
+
+22 
+
+
+over the terms of the agreement; Mr. Casarotto could only 
+take it or leave it.’ And, although Mr. Casarotto read the 
+agreement before signing it, he did not realize that he was 
+giving up his right to sue DAI in Montana. J.A. 87. Based 
+on these facts, even absent the Montana notice statute, the 
+Montana court could well have found that the franchise 
+agreement was a standardized form contract and that, 
+was not within the reasonable expectations of Mr. Casarotto, 
+it was invalid.® 
+
+
+‘Mr. Casarotto’s experience in this regard is not uncommon. 
+According to a 1990 report by the House of Representatives 
+Committee on Small Business, a “serious imbalance of power 
+exists” between franchisors and franchisees: “Advantages of 
+financial strength, access to information and to legal advice create 
+a gross disparity of bargaining power in favor of the franchisor 
+that results in one-sided franchise agreements that are offered, and 
+generally accepted, on a take-it-or-leave-it basis.” Staff of House 
+Comm. on Small Business, 101st Cong., 2d Sess., Franchising in 
+the U.S. Economy: Prospects and Problems 49 (Comm. Print 101- 
+4, 1990). 
+
+
+“Indeed, the Montana court has recognized that, in franchise 
+agreements, the franchisor often has a superior bargaining position. 
+See Dunfee v. Baskin Robbins, Inc., 720 P.2d 1148, 1150 (Mont. 
+1986). In a case involving a remarkably similar dispute to the 
+merits of this case, the Montana court upheld a jury's verdict that 
+a franchisor had breached the duty of good faith by refusing the 
+franchisee’s request to relocate and by misrepresenting the lease 
+arrangement during the discussions. /d. at 1154. In so holding, 
+the Montana court recognized that the dispute did not arise from 
+a negotiated contract but from a form contract and looked to the 
+“reasonable expectations” of the weaker party, the franchisee. /d. 
+at 1153; see also Scott Burnham, Bad Faith: Courts Find Breaches 
+of Fair Dealing Applicable to Commercial Contracts Too, Mont. 
+
+(continued...) 
+
+
+23 
+
+
+The fact that a state court might invalidate an 
+not reflect any hostility towards arbitration agreements. For 
+example, in finding an arbitration clause invalid, a California 
+appellate court emphasized that “there is no rule or public 
+Policy against an agreement between a patient and a hospital 
+to arbitrate any medical malpractice claim arising out of the 
+hospitalization.” Wheeler vy. St. Joseph Hosp., 63 
+Cal.App.3d at 354. Rather, the issue before the court was 
+whether the plaintiffs had indeed agreed to arbitrate the 
+controversy. id. Recognizing that “[i}t has been 
+public policy of this sate to favor arbitration oves lniguion 
+as a means of settling disputes because it is expeditious, 
+avoids the delays of litigation, and relieves court 
+congestion,” id. at 355, the court nonetheless held that the 
+policy favoring arbitration “cannot displace the necessity for 
+a voluntary agreement to arbitrate.” Jd. at 356. The 
+Wheeler court then applied adhesion contract principles to 
+invalidate the arbitration provision.’ /d. at 369. 
+
+A court decision invalidating idati a particular arbitration 
+clause based on generally applicable standardized contract 
+Principles is not preempted by the FAA. As this Court 
+Stated last term, “States may regulate contracts, including 
+
+
+*(...continued) 
+
+
+Law. 6, 9 (Nov. 1986) (Dunfee , ; 
+of franchise agreement). court recognized one-sided nature 
+
+
+"The legal analysis of the California courts 
+
+
+24 
+
+
+arbitration clauses, under general contract law principles and 
+they may invalidate an arbitration clause ‘upon such grounds 
+as exist at law or in equity for the revocation of any 
+contract."” Terminix, 115 S. Ct. at 843 (citing 9 U.S.C. § 
+2); see also Rodriguez De Quijas v. Sesreeniimartcen 
+Express, Inc., 490 U.S. 477, 483-84 (1989) (relief “upon 
+grounds ‘for the revocation of any contract" protects 
+“buyers of securities by removing “the disadvantages under 
+which buyers labor’ in their dealings with sellers”). 
+
+The Montana notice statute is a codification of and 
+particularized ication of general common law contract 
+principles eke. aie have allowed the Montana court to 
+invalidate the arbitration provision in this case and in others 
+as well. Indeed, when the statute was enacted, Montana was 
+
+ing a century-old law that arbitration agreements were 
+Re therefore, it was surely reasonable for 
+the Montana legislature to consider an arbitration clause to be 
+an unexpected term that requires conspicuous notice. 
+
+Rather than require the courts to litigate claims that an 
+inconspicuous arbitration provision was beyond a party’s 
+reasonable expectations on a case-by-case basis, the Montana 
+legislature has established a bri -line rule that is easily 
+followed by contracting parties. Since the FAA allows states 
+to protect parties from being bound by unknown contract 
+terms under traditional contract law doctrines enforced by the 
+courts, the state legislatures and governors must also have 
+authority to ensure that arbitration agreements are entered 
+into knowingly and voluntarily through statutory enactments 
+based on those same contract doctrines. After all, by serving 
+as a prophylactic against “claims that the agreement to 
+power,” Mitsubishi Motors, 473 U.S. at 627, state laws like 
+
+
+25 
+
+
+Montana's advance the primary purpose of the Act by 
+making it more likely that arbitration agreements will be 
+enforced. 
+
+
+Il. MONTANA’S EFFORT TO ENSURE THAT 
+ARBITRATION AGREEMENTS ARE ENTERED 
+VOLUNTARILY IS NOT PREEMPTED BECAUSE 
+
+
+ITS NOTICE REQUIREMENT DOES NOT 
+CONFLICT WITH THE OPERATION OF THE 
+FEDERAL ARBITRATION ACT. 
+
+
+The “basic purpose of the Federal Arbitration Act is to 
+overcome courts’ refusals to enforce agreements to 
+arbitrate.” Terminix, 115 S. Ct. at 838; see also 
+Shearson/American Express Inc. v. McMahon, 482 U.S. 220, 
+225 (1987). When Congress passed the Arbitration Act in 
+1925, “it was ‘motivated, first and foremost, by a. . . 
+desire’ to change the antiarbitration rule.” Terminix, 115 S. 
+Ct. at 838 (quoting Dean Witter Reynolds, 470 U.S. at 220). 
+Based on this policy, this Court has found that state efforts 
+to deny enforcement of certain arbitration agreements are 
+preempted by the FAA. See Terminix, 115 S. Ct. 834 (state 
+Statute making written, pre-dispute arbitration agreements 
+invalid and unenforceable); Southland, 465 U.S. 1 (state 
+Statute making agreements to arbitrate certain franchise 
+claims unenforceable); Perry, 482 U.S. 483 (state statute 
+making unenforceable private agreements to arbitrate certain 
+wage collection claims). 
+
+What neither Congress nor this Court has done, but 
+what petitioners now ask, is to extend FAA preemption to 
+even those minimal state attempts to ensure that parties know 
+that the contract they are signing includes an arbitration 
+provision. Thus, petitioners seek preemption even though 
+
+
+26 
+
+
+Montana's notice requirement does not “stand[{] as an 
+obstacle to the accomplishment and execution of the full 
+purposes and objectives of Congress.” Volt, 489 U.S. at 477 
+(quoting Hines v. Davidowitz, 312 U.S. 52, 67 (1941)). The 
+Montana statute does not prohibit arbitration; instead, it sets 
+out a minimal notice requirement that is easily satisfied. In 
+so doing, it provides a significant benefit to both parties 
+
+
+entering an arbitration agreement: it ensures notice to 
+adhering parties and establishes a bright line rule for those 
+designing standardized contracts. 
+
+
+There is nothing in the legislative history of the Federal 
+Arbitration Act that indicates Congress intended to go so far 
+as to prevent states from even enacting requirements to 
+ensure that arbitration agreements are entered knowingly. As 
+this Court has repeatedly held, the pre-emptive effect of a 
+federal statute is fundamentally a question of congressional - 
+intent. See, e.g. Cipollone v. Liggett Group, Inc., 50S U.S. 
+504, 516 (1992); English v. General Elec. Co. , 496 U.S. 72, 
+78-79 (1990); Rice v. Santa Fe Elevator Corp., 331 U.S. 
+218, 230 (1947). Indeed, where, as here, the field which 
+Congress is said to have preempted includes areas like 
+consumer protection and contract law that have “been 
+traditionally occupied by the States,” congressional intent to 
+supersede state laws must be “clear and manifest.” Jones v. 
+Rath Packing Co., 430 U.S. 519, 525 (1977). There is no 
+such “clear and manifest” congressional intent to prevent 
+States from enacting even minimal measures, like the 
+Montana notice statute at issue here, that relate to the 
+formation of the arbitration contract itself. 
+
+Indeed, the legislative history of the FAA reveals that 
+some members of Congress were concerned about the very 
+problem that the Montana statute seeks to address — 
+
+
+27 
+
+arbitration clauses contained in adhesion contracts. During 
+the hearings on the legislation, members expressed concerns 
+with a law which would enforce an arbitration provision 
+contained in a contract between parties of unequal bargaining 
+power. Senator Walsh cited insurance, employment, 
+construction, and shipping contracts as routinely containing 
+arbitration clauses and being offered on a take-it-or-leave-it 
+basis to captive customers or employees. Hearing on S. 
+4213 and S. 4214 before the Subcommittee of the Senate 
+Committee on the Judiciary, 67th Cong., 4th Sess. 9-11 
+(1923). He noted that such contracts “are really not 
+voluntarily [sic) things at all” because “there is nothing for 
+the man to do except to sign it; and then he surrenders his 
+right to have his case tried by the court... .” dd. at 9. 
+Similarly, Senator Sterling expressed concerns about 
+contracts between the railroads and shippers “in which there 
+is an agreement to arbitrate, and the representation is made 
+to the shipper, "You can take it or leave it, just as you 
+Please; but unless you sign you can not ship.’” Joint 
+Hearings on S. 1005 and H.R. 646 before the Subcommittees 
+of the Committees on the Judiciary, (“Joint Hearings”), 68th 
+Cong., Ist Sess. 15 (1924). Both were assured by the 
+supporters of the bill that it was not their intention to cover 
+such cases. Jd.; see also Prima Paint Corp., 388 U.S. at 
+414 (1967) (summarizing this legislative history) (Black, J. 
+dissenting). 
+
+Indeed, the supporters of the bill downplayed 
+congressional concerns about adhesion contracts by focusing 
+on existing legal protections. For example they pointed out 
+that “[y]ou can not get a provision into an insurance contract 
+to-day unless it is approved by the insurance department.” 
+Joint Hearings at 15. Clearly, there was no contemplation 
+
+
+28 
+
+
+that enactment of the FAA would preempt states’ ability to 
+regulate arbitration provisions in adhesion contracts, like 
+insurance contracts, in the same manner that other provisions 
+are regulated. 
+
+
+Nonetheless, petitioners argue that the Montana statute 
+is preempted because “it singles out and subjects arbitration 
+agreements to an ‘additional limitation under state law’ that 
+is not applicable to other contractual provisions.” Pet. Brief 
+at 17 (quoting Southland, 465 U.S. at 11). Thus, according 
+to petitioners, a state may only require specific disclosure of 
+arbitration provisions if the state requires some additional 
+disclosure for all contract provisions — clearly an 
+unworkable scheme. This application of the Act’s “equal 
+footing” objective is irrational and is hostile to the objectives 
+of the FAA. Montana does not require particular disclosure 
+of all provisions because to do so would not only be 
+impossible, but would defeat the purpose of the special 
+disclosure requirement. Montana requires notice when a 
+party would not otherwise expect a particular provision to be 
+included in a contract; there is no need to provide front-page 
+notice for expected terms like price, service, or credit. 
+Exempting arbitration provisions from minimal notice 
+requirements places arbitration agreements on a footing well 
+above other contract terms, contrary to the intent of 
+Congress. See Volt, 489 U.S. at 478, (quoting Prima Paint, 
+388 U.S. at 404 n.12 (1967)) (Act was designed “to make 
+arbitration agreements as enforceable as other contracts, but 
+not more so”). 
+
+In an attempt to demonstrate that Montana’s notice 
+statute is contrary to the purposes of the FAA, petitioners 
+manufacture an argument that Montana is hostile to 
+arbitration. Pet. Brief at 17-18. Yet, Montana is not a state 
+
+
+29 
+
+
+that refuses to enforce arbitration agreements that are 
+knowingly entered. Quite the contrary, in its 1985 reform 
+legislation, the Montana legislature moved state law in a 
+modern pro-arbitration direction, providing for the full 
+enforcement of arbitration agreements that are knowingly 
+entered. And the Montana Supreme Court has followed the 
+legislature’s directives in this regard, repeatedly rejecting 
+attempts to invalidate arbitration agreements in the years 
+since this Court’s decision in Southland, 465 U.S. 1, and 
+Montana’s Uniform Arbitration Act was enacted. See Chor 
+v. Piper, Jaffray & Hopwood, Inc., 862 P.2d 26 (Mont. 
+1993); Downey v. Christensen, 825 P.2d 557 (Mont. 1992); 
+Vukasin v. D.A. Davidson & Co., 785 P.2d 713 (Mont. 
+1990); William Gibson Jr., Inc. v. Graff Communications, 
+780 P.2d 1131 (Mont. 1989); Larsen v. Opie, 771 P.2d 977 
+(Mont. 1989); Passage v. Prudential-Bache Secs., Inc. , 727 
+P.2d 1298 (Mont. 1986). 
+
+
+Only twice in the last decade has the Montana Supreme 
+Court invalidated an arbitration provision in a contract.® 
+First, in Mueske v. Piper, Jaffray & Hopwood, Inc., 859 
+P.2d 444 (Mont. 1993), the court invalidated an arbitration 
+provision because the clause incorporated the rules of NYSE 
+and NASD as controlling law, yet failed to follow the 
+disclosure requirements of those rules. id. at 450. 
+Consistent with this Court’s directive in Volt, 489 U.S. 468, 
+the Mueske court applied “the general rules of contract 
+interpretation” and held that “the validity of the arbitration 
+
+
+"In one other case, the Montana court refused to compel 
+arbitration because the arbitration clause applied prospectively 
+while the dispute at issue occurred before the arbitration agreement 
+was signed. See Frates v. Edward D. Jones & Co., 760 P.2d 748 
+(Mont. 1988). 
+
+
+30 
+
+
+clause be determined according to the incorporated 
+controlling law — the NYSE and NASD rules — unless such 
+rules contravene the substantive law of the FAA.” 859 P.2d 
+at 450. The Mueske decision was clearly dictated by Volt, in 
+which this Court upheld the application of a state arbitration 
+rule, which had been incorporated into an arbitration 
+agreement via a choice-of-law provision, “even if the result 
+is that arbitration is stayed where the Act would otherwise 
+permit it to go forward.” Volt, 489 U.S. at 479. The only 
+other time the Montana court has invalidated an arbitration 
+agreement is in the instant case, where DAI failed to follow 
+the statutory notice requirement. These two instances are 
+hardly evidence of a judicial hostility to arbitration 
+agreements that the FAA was designed to eliminate. 
+
+Petitioners also argue that permitting states to require 
+specific notice of arbitration agreements will significantly 
+disrupt the transaction of interstate commerce and impose 
+additional business costs. Pet. Brief at 23-29. Contrary to 
+petitioners’ argument, however, the FAA does not mandate 
+and was not designed to promote uniformity that would allow 
+those involved in negotiating interstate agreements to ignore 
+the requirements of local law. 
+
+Moreover, because the industries affected by such 
+mandatory notice provisions are often highly regulated by the 
+states, the claim that the Montana notice requirement 
+establishes more than a trivial burden is implausible. 
+Sophisticated market participants transacting business in 
+multiple states already are obliged to adapt their form 
+contracts, franchise agreements, leases, insurance policies, or 
+securities registrations to the specific requirements of diverse 
+jurisdictions. For example, beginning with the enactment of 
+the California Franchise Investment Law in 1971, fourteen 
+
+
+31 
+
+
+states have adopted statutes requiring franchise registration 
+and prospectus-type disclosure. These provisions are similar, 
+but not identical, to that of California.’ Thus, in drafting 
+franchise agreements, franchisors must already take into 
+account differing requirements based on the laws of each 
+state in which they are transacting business. See Practicing 
+Law Institute, Franchising 50 (1992). As a practical matter 
+counsel for franchisors must pay “careful attention .. . = 
+strict compliance with state franchise registration and 
+disclosure Statutes.” Jd. Moreover, “careful attention must 
+be paid to the jurisdictional scope of franchise laws and the 
+transactions they cover.” Jd. 
+The securities industry faces dual regulation by both the 
+federal government and the states. Every state has enacted 
+a securities act, often referred to as “blue sky” laws, 
+
+
+* See California Franchise Investment Law. Cal. Co 
+7 31000—31516 (West Supp. 1996); see also Hawaii — 
+lnvestment Law; Haw. Rev. Stat, §§ 428-E1—428E-12 (1995); 
+inois Franchise Disclosure Act, 815 ILCS §§ 705/1. ef seq 
+(1996); Ind. Code Ann. §§ 23-2-2.5-47, et seq. (Burns 1995): Md. 
+Bus. Reg. Code Ann. §§ 14-102—14-233 (1995); Michigan 
+ise Investment Law, Mich. Stat. Ann. §§ 19.854(1)—(46) 
+a Minn. Stat. §§ 80C.01—80C.14 (1995); New York Gen. 
+so Law, phe yy (Consol. 1995); North Dakota Franchise 
+nvestment Law, N.D. Cent. Code Ann, $§ 51-19-01—51-19-17 
+( ); Rhode Island Franchise Investment Act, R.I1. Gen. Laws 
+§§ 19-28. 1-1—19-28.1-34 (1995); South Dakota Franchises fo, 
+Brand-Name Goods and Services Law, $.D. Codified Laws Ann 
+is 37-5A-1—37-5A-87 (1995); Texas Business Opportunity Law. 
+Tex. Rev. Civ. Stat. Ann. art. 5069-16.01 (West 1996); Virginia 
+ranchising Act, Va. Code Ann. §§ 13.1-557—13.1-574 
+(1995); Washington Franchise Protection Act, Wash. Rev. Code 
+§§ 19. 100.010, et seg. (1995); Wisconsin Franchise Investment 
+Law, Wisc. Stat. §§ 553.01—553.78 (1994). 
+
+
+32 
+
+
+regulating securities distribution and ' oker-dealer activities. 
+Thomas Lee Hazen, The Law of Securities Regulation 328 
+(2d ed. 1990). Many states also regulate tender offers and 
+activities of investment advisers. Jd. “The various state 
+laws differ significantly from one another.” Jd. While 
+thirty-nine jurisdictions have adopted the 1956 Uniform 
+Securities Act, there is still considerable variation 
+particularly concerning registration requirements. See, €.8., 
+Cal. Corp. Code §§ 25000-25804; N.Y. Gen. Bus. Law §§ 
+352-359-h. 
+
+
+Similarly, any contention that the insurance industry 
+requires national uniform standards to operate effectively in 
+interstate commerce is not credible. “Administrative 
+regulation of insurance has been and continues to be 
+primarily the responsibility of state authorities rather than the 
+federal government.” Robert E. Keeton & Alan I. Widiss, 
+Insurance Law § 8.1(a), at 930 (1988). In fact, insurance 
+industry lobbyists played a key role in the enactment of state 
+statutes to avoid the regulatory authority otherwise available 
+under the McCarran-Ferguson Act, 15 U.S.C. § 1012. dd. 
+at 931-32. Every state has adopted legislation regulating 
+insurance transactions and companies and has designated a 
+state administrative officer (usually characterized as a 
+commissioner of insurance) to supervise the forms of 
+insurance organizations, their financial stability, the terms of 
+policy forms, licensing provisions, and mechanisms for 
+ensuring insurer liquidity or rehabilitation in case of 
+insolvency. /d., § 8.2(b), at 940. There is enormous 
+variation among states in their regulation of insurance 
+transactions including extensive, mandatory proscriptions of 
+
+
+33 
+notice and disclosure provisions in state-approved policies.'° 
+Even within a given state, insurers must conform policies 
+according to the class of insurance."' Moreover, though 
+insurance companies may typically use standard forms 
+offering a limited number of options, the standardization of 
+forms through State-mandated language and disclosures has 
+been a deliberate state legislative and administrative response 
+to deal with the concern that insurance contracts present the 
+
+
+problems of the “prototypical” adhesion contract. See 
+Keeton & Widiss, supra, § 2.8(a), at 120 n.2 
+
+
+Against this backdrop of differing state requirements, 
+any claim that the simple arbitration notice required by 
+Montana would seriously disrupt business is Clearly 
+exaggerated. Indeed, it is easier for nationwide businesses 
+
+
+to comply with a statutory requirement than to guess what 
+the common law would require. 
+
+
+See, e.g., Cal. Ins. Code § 332 (1995) (general disclosures): 
+New York Ins. Law § 3404 (1995) (fire insurance policy); oo 
+Stat. § 60A.207 (1995) (notice of surplus lines insurance act); 
+Mich. Comp. Laws § 550.1410a (1994) (provisions for group 
+certificates under Nonprofit Health Care Corporation Reform Act). 
+
+
+"' See, e.g., Cal Ins. Code § 778.4 (disclosures re fire 
+. and 
+— broker-agents); Id., 779.14 (rights to rescind credit life 
+isability insurance), Id., § 10086 (earthquake insurance); Id 
+§ 10127.11 (life insurance policies for senior citizens), Id.. § 
+10127.8 (advertisements for term life insurance directed to 
+individuals ago fifty-five and older); Id., § 10194.7 (supplemental 
+
+
+Medi - f . 
+— Id., § 11580.1 (disclosure for motor vehicle 
+
+
+34 
+CONCLUSION 
+
+
+For the foregoing reasons, the judgment of the Supreme 
+Court of Montana should be affirmed. 
+
+
+Respectfully submitted, 
+
+
+WILLIAM C. WATT LUCINDA A. SIKES 
+
+SARA J. JOHNSON (Counsel of Record) 
+MULLENDORE, TAWNEY & DAVID C. VLADECK 
+WATT, P.C. PAUL ALAN LEVY 
+
+310 West Spruce Street COLETTE G. MATZZIE 
+Missoula, MT 59802 PUBLIC CITIZEN LITIGATION 
+(406) 542-5000 GROUP 
+
+
+1600 20th Street, N.W. 
+Washington, D.C. 20009 
+(202) 588-1000 
+
+
+Attorneys for Respondents 
+
+
+March 15, 1996 
+
+

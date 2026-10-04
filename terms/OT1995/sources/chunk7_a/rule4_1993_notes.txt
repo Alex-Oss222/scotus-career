@@ -1,0 +1,326 @@
+Notes of Advisory Committee on Rules—1993 Amendment
+
+
+Purposes of Revision. The general purpose of this revision is to facilitate the service of the summons and complaint. The revised rule explicitly authorizes a means for service of the summons and complaint on any defendant. While the methods of service so authorized always provide appropriate notice to persons against whom claims are made, effective service under this rule does not assure that personal jurisdiction has been established over the defendant served.
+
+
+First, the revised rule authorizes the use of any means of service provided by the law not only of the forum state, but also of the state in which a defendant is served, unless the defendant is a minor or incompetent.
+
+
+Second, the revised rule clarifies and enhances the cost-saving practice of securing the assent of the defendant to dispense with actual service of the summons and complaint. This practice was introduced to the rule in 1983 by an act of Congress authorizing “service-by-mail,” a procedure that effects economic service with cooperation of the defendant. Defendants that magnify costs of service by requiring expensive service not necessary to achieve full notice of an action brought against them are required to bear the wasteful costs. This provision is made available in actions against defendants who cannot be served in the districts in which the actions are brought.
+
+
+Third, the revision reduces the hazard of commencing an action against the United States or its officers, agencies, and corporations. A party failing to effect service on all the offices of the United States as required by the rule is assured adequate time to cure defects in service.
+
+
+Fourth, the revision calls attention to the important effect of the Hague Convention and other treaties bearing on service of documents in foreign countries and favors the use of internationally agreed means of service. In some respects, these treaties have facilitated service in foreign countries but are not fully known to the bar.
+
+
+Finally, the revised rule extends the reach of federal courts to impose jurisdiction over the person of all defendants against whom federal law claims are made and who can be constitutionally subjected to the jurisdiction of the courts of the United States. The present territorial limits on the effectiveness of service to subject a defendant to the jurisdiction of the court over the defendant's person are retained for all actions in which there is a state in which personal jurisdiction can be asserted consistently with state law and the Fourteenth Amendment. A new provision enables district courts to exercise jurisdiction, if permissible under the Constitution and not precluded by statute, when a federal claim is made against a defendant not subject to the jurisdiction of any single state.
+
+
+The revised rule is reorganized to make its provisions more accessible to those not familiar with all of them. Additional subdivisions in this rule allow for more captions; several overlaps among subdivisions are eliminated; and several disconnected provisions are removed, to be relocated in a new 
+Rule 4.1
+.
+
+
+The Caption of the Rule
+. Prior to this revision, 
+Rule 4
+ was entitled “Process” and applied to the service of not only the summons but also other process as well, although these are not covered by the revised rule. Service of process in eminent domain proceedings is governed by Rule 71A. Service of a subpoena is governed by 
+Rule 45
+, and service of papers such as orders, motions, notices, pleadings, and other documents is governed by 
+Rule 5
+.
+
+
+The revised rule is entitled “Summons” and applies only to that form of legal process. Unless service of the summons is waived, a summons must be served whenever a person is joined as a party against whom a claim is made. Those few provisions of the former rule which relate specifically to service of process other than a summons are relocated in 
+Rule 4.1
+ in order to simplify the text of this rule.
+
+
+Subdivision (a)
+. Revised subdivision (a) contains most of the language of the former subdivision (b). The second sentence of the former subdivision (b) has been stricken, so that the federal court summons will be the same in all cases. Few states now employ distinctive requirements of form for a summons and the applicability of such a requirement in federal court can only serve as a trap for an unwary party or attorney. A sentence is added to this subdivision authorizing an amendment of a summons. This sentence replaces the rarely used former subdivision 4(h). 
+See
+ 4A Wright & Miller, 
+Federal Practice and Procedure
+ §1131 (2d ed. 1987).
+
+
+Subdivision (b)
+. Revised subdivision (b) replaces the former subdivision (a). The revised text makes clear that the responsibility for filling in the summons falls on the plaintiff, not the clerk of the court. If there are multiple defendants, the plaintiff may secure issuance of a summons for each defendant, or may serve copies of a single original bearing the names of multiple defendants if the addressee of the summons is effectively identified.
+
+
+Subdivision (c)
+. Paragraph (1) of revised subdivision (c) retains language from the former subdivision (d)(1). Paragraph (2) retains language from the former subdivision (a), and adds an appropriate caution regarding the time limit for service set forth in subdivision (m).
+
+
+The 1983 revision of 
+Rule 4
+ relieved the marshals’ offices of much of the burden of serving the summons. Subdivision (c) eliminates the requirement for service by the marshal's office in actions in which the party seeking service is the United States. The United States, like other civil litigants, is now permitted to designate any person who is 18 years of age and not a party to serve its summons.
+
+
+The court remains obligated to appoint a marshal, a deputy, or some other person to effect service of a summons in two classes of cases specified by statute: actions brought 
+in forma pauperis
+ or by a seaman. 28 U.S.C. §§1915, 1916. The court also retains discretion to appoint a process server on motion of a party. If a law enforcement presence appears to be necessary or advisable to keep the peace, the court should appoint a marshal or deputy or other official person to make the service. The Department of Justice may also call upon the Marshals Service to perform services in actions brought by the United States. 28 U.S.C. §651.
+
+
+Subdivision (d)
+. This text is new, but is substantially derived from the former subdivisions (c)(2)(C) and (D), added to the rule by Congress in 1983. The aims of the provision are to eliminate the costs of service of a summons on many parties and to foster cooperation among adversaries and counsel. The rule operates to impose upon the defendant those costs that could have been avoided if the defendant had cooperated reasonably in the manner prescribed. This device is useful in dealing with defendants who are furtive, who reside in places not easily reached by process servers, or who are outside the United States and can be served only at substantial and unnecessary expense. Illustratively, there is no useful purpose achieved by requiring a plaintiff to comply with all the formalities of service in a foreign country, including costs of translation, when suing a defendant manufacturer, fluent in English, whose products are widely distributed in the United States. 
+See Bankston v. Toyota Motor Corp
+., 889 F.2d 172 (8th Cir. 1989).
+
+
+The former text described this process as service-by-mail. This language misled some plaintiffs into thinking that service could be effected by mail without the affirmative cooperation of the defendant. 
+E.g., Gulley v. Mayo Foundation
+, 886 F.2d 161 (8th Cir. 1989). It is more accurate to describe the communication sent to the defendant as a request for a waiver of formal service.
+
+
+The request for waiver of service may be sent only to defendants subject to service under subdivision (e), (f), or (h). The United States is not expected to waive service for the reason that its mail receiving facilities are inadequate to assure that the notice is actually received by the correct person in the Department of Justice. The same principle is applied to agencies, corporations, and officers of the United States and to other governments and entities subject to service under subdivision (j). Moreover, there are policy reasons why governmental entities should not be confronted with the potential for bearing costs of service in cases in which they ultimately prevail. Infants or incompetent persons likewise are not called upon to waive service because, due to their presumed inability to understand the request and its consequences, they must generally be served through fiduciaries.
+
+
+It was unclear whether the former rule authorized mailing of a request for “acknowledgement of service” to defendants outside the forum state. 
+See
+ 1 R. Casad, 
+Jurisdiction in Civil Actions
+ (2d Ed.) 5–29, 30 (1991) and cases cited. But, as Professor Casad observed, there was no reason not to employ this device in an effort to obtain service outside the state, and there are many instances in which it was in fact so used, with respect both to defendants within the United States and to defendants in other countries.
+
+
+The opportunity for waiver has distinct advantages to a foreign defendant. By waiving service, the defendant can reduce the costs that may ultimately be taxed against it if unsuccessful in the lawsuit, including the sometimes substantial expense of translation that may be wholly unnecessary for defendants fluent in English. Moreover, a foreign defendant that waives service is afforded substantially more time to defend against the action than if it had been formally served: under 
+Rule 12
+, a defendant ordinarily has only 20 days after service in which to file its answer or raise objections by motion, but by signing a waiver it is allowed 90 days after the date the request for waiver was mailed in which to submit its defenses. Because of the additional time needed for mailing and the unreliability of some foreign mail services, a period of 60 days (rather than the 30 days required for domestic transmissions) is provided for a return of a waiver sent to a foreign country.
+
+
+It is hoped that, since transmission of the notice and waiver forms is a private nonjudicial act, does not purport to effect service, and is not accompanied by any summons or directive from a court, use of the procedure will not offend foreign sovereignties, even those that have withheld their assent to formal service by mail or have objected to the “service-by-mail” provisions of the former rule. Unless the addressee consents, receipt of the request under the revised rule does not give rise to any obligation to answer the lawsuit, does not provide a basis for default judgment, and does not suspend the statute of limitations in those states where the period continues to run until service. Nor are there any adverse consequences to a foreign defendant, since the provisions for shifting the expense of service to a defendant that declines to waive service apply only if the plaintiff and defendant are both located in the United States.
+
+
+With respect to a defendant located in a foreign country like the United Kingdom, which accepts documents in English, whose Central Authority acts promptly in effecting service, and whose policies discourage its residents from waiving formal service, there will be little reason for a plaintiff to send the notice and request under subdivision (d) rather than use convention methods. On the other hand, the procedure offers significant potential benefits to a plaintiff when suing a defendant that, though fluent in English, is located in a country where, as a condition to formal service under a convention, documents must be translated into another language or where formal service will be otherwise costly or time-consuming.
+
+
+Paragraph (1) is explicit that a timely waiver of service of a summons does not prejudice the right of a defendant to object by means of a motion authorized by Rule 12(b)(2) to the absence of jurisdiction over the defendant's person, or to assert other defenses that may be available. The only issues eliminated are those involving the sufficiency of the summons or the sufficiency of the method by which it is served.
+
+
+Paragraph (2) states what the present rule implies: the defendant has a duty to avoid costs associated with the service of a summons not needed to inform the defendant regarding the commencement of an action. The text of the rule also sets forth the requirements for a Notice and Request for Waiver sufficient to put the cost-shifting provision in place. These requirements are illustrated in Forms 1A and 1B, which replace the former Form 18–A.
+
+
+Paragraph (2)(A) is explicit that a request for waiver of service by a corporate defendant must be addressed to a person qualified to receive service. The general mail rooms of large organizations cannot be required to identify the appropriate individual recipient for an institutional summons.
+
+
+Paragraph (2)(B) permits the use of alternatives to the United States mails in sending the Notice and Request. While private messenger services or electronic communications may be more expensive than the mail, they may be equally reliable and on occasion more convenient to the parties. Especially with respect to transmissions to foreign countries, alternative means may be desirable, for in some countries facsimile transmission is the most efficient and economical means of communication. If electronic means such as facsimile transmission are employed, the sender should maintain a record of the transmission to assure proof of transmission if receipt is denied, but a party receiving such a transmission has a duty to cooperate and cannot avoid liability for the resulting cost of formal service if the transmission is prevented at the point of receipt.
+
+
+A defendant failing to comply with a request for waiver shall be given an opportunity to show good cause for the failure, but sufficient cause should be rare. It is not a good cause for failure to waive service that the claim is unjust or that the court lacks jurisdiction. Sufficient cause not to shift the cost of service would exist, however, if the defendant did not receive the request or was insufficiently literate in English to understand it. It should be noted that the provisions for shifting the cost of service apply only if the plaintiff and the defendant are both located in the United States, and accordingly a foreign defendant need not show “good cause” for its failure to waive service.
+
+
+Paragraph (3) extends the time for answer if, before being served with process, the defendant waives formal service. The extension is intended to serve as an inducement to waive service and to assure that a defendant will not gain any delay by declining to waive service and thereby causing the additional time needed to effect service. By waiving service, a defendant is not called upon to respond to the complaint until 60 days from the date the notice was sent to it—90 days if the notice was sent to a foreign country—rather than within the 20 day period from date of service specified in 
+Rule 12
+.
+
+
+Paragraph (4) clarifies the effective date of service when service is waived; the provision is needed to resolve an issue arising when applicable law requires service of process to toll the statute of limitations. 
+E.g., Morse v. Elmira Country Club
+, 752 F.2d 35 (2d Cir. 1984). 
+Cf. Walker v. Armco Steel Corp
+., 446 U.S. 740 (1980).
+
+
+The provisions in former subdivision (c)(2)(C)(ii) of this rule may have been misleading to some parties. Some plaintiffs, not reading the rule carefully, supposed that receipt by the defendant of the mailed complaint had the effect both of establishing the jurisdiction of the court over the defendant's person and of tolling the statute of limitations in actions in which service of the summons is required to toll the limitations period. The revised rule is clear that, if the waiver is not returned and filed, the limitations period under such a law is not tolled and the action will not otherwise proceed until formal service of process is effected.
+
+
+Some state limitations laws may toll an otherwise applicable statute at the time when the defendant receives notice of the action. Nevertheless, the device of requested waiver of service is not suitable if a limitations period which is about to expire is not tolled by filing the action. Unless there is ample time, the plaintiff should proceed directly to the formal methods for service identified in subdivisions (e), (f), or (h).
+
+
+The procedure of requesting waiver of service should also not be used if the time for service under subdivision (m) will expire before the date on which the waiver must be returned. While a plaintiff has been allowed additional time for service in that situation, 
+e.g., Prather v. Raymond Constr. Co
+., 570 F. Supp. 278 (N.D. Ga. 1983), the court could refuse a request for additional time unless the defendant appears to have evaded service pursuant to subdivision (e) or (h). It may be noted that the presumptive time limit for service under subdivision (m) does not apply to service in a foreign country.
+
+
+Paragraph (5) is a cost-shifting provision retained from the former rule. The costs that may be imposed on the defendant could include, for example, the cost of the time of a process server required to make contact with a defendant residing in a guarded apartment house or residential development. The paragraph is explicit that the costs of enforcing the cost-shifting provision are themselves recoverable from a defendant who fails to return the waiver. In the absence of such a provision, the purpose of the rule would be frustrated by the cost of its enforcement, which is likely to be high in relation to the small benefit secured by the plaintiff.
+
+
+Some plaintiffs may send a notice and request for waiver and, without waiting for return of the waiver, also proceed with efforts to effect formal service on the defendant. To discourage this practice, the cost-shifting provisions in paragraphs (2) and (5) are limited to costs of effecting service incurred after the time expires for the defendant to return the waiver. Moreover, by returning the waiver within the time allowed and before being served with process, a defendant receives the benefit of the longer period for responding to the complaint afforded for waivers under paragraph (3).
+
+
+Subdivision (e)
+. This subdivision replaces former subdivisions (c)(2)(C)(i) and (d)(1). It provides a means for service of summons on individuals within a judicial district of the United States. Together with subdivision (f), it provides for service on persons anywhere, subject to constitutional and statutory constraints.
+
+
+Service of the summons under this subdivision does not conclusively establish the jurisdiction of the court over the person of the defendant. A defendant may assert the territorial limits of the court's reach set forth in subdivision (k), including the constitutional limitations that may be imposed by the Due Process Clause of the Fifth Amendment.
+
+
+Paragraph (1) authorizes service in any judicial district in conformity with state law. This paragraph sets forth the language of former subdivision (c)(2)(C)(i), which authorized the use of the law of the state in which the district court sits, but adds as an alternative the use of the law of the state in which the service is effected.
+
+
+Paragraph (2) retains the text of the former subdivision (d)(1) and authorizes the use of the familiar methods of personal or abode service or service on an authorized agent in any judicial district.
+
+
+To conform to these provisions, the former subdivision (e) bearing on proceedings against parties not found within the state is stricken. Likewise stricken is the first sentence of the former subdivision (f), which had restricted the authority of the federal process server to the state in which the district court sits.
+
+
+Subdivision (f)
+. This subdivision provides for service on individuals who are in a foreign country, replacing the former subdivision (i) that was added to 
+Rule 4
+ in 1963. Reflecting the pattern of 
+Rule 4
+ in incorporating state law limitations on the exercise of jurisdiction over persons, the former subdivision (i) limited service outside the United States to cases in which extraterritorial service was authorized by state or federal law. The new rule eliminates the requirement of explicit authorization. On occasion, service in a foreign country was held to be improper for lack of statutory authority. 
+E.g., Martens v. Winder
+, 341 F.2d 197 (9th Cir.), 
+cert. denied
+, 382 U.S. 937 (1965). This authority, however, was found to exist by implication. 
+E.g., SEC v. VTR, Inc
+., 39 F.R.D. 19 (S.D.N.Y. 1966). Given the substantial increase in the number of international transactions and events that are the subject of litigation in federal courts, it is appropriate to infer a general legislative authority to effect service on defendants in a foreign country.
+
+
+A secondary effect of this provision for foreign service of a federal summons is to facilitate the use of federal long-arm law in actions brought to enforce the federal law against defendants who cannot be served under any state law but who can be constitutionally subjected to the jurisdiction of the federal court. Such a provision is set forth in paragraph (2) of subdivision (k) of this rule, applicable only to persons not subject to the territorial jurisdiction of any particular state.
+
+
+Paragraph (1) gives effect to the Hague Convention on the Service Abroad of Judicial and Extrajudicial Documents, which entered into force for the United States on February 10, 1969. See 28 U.S.C.A., Fed.R.Civ.P. 4 (Supp. 1986). This Convention is an important means of dealing with problems of service in a foreign country. 
+See generally
+ 1 B. Ristau, 
+International Judicial Assistance
+ §§4–1–1 to 4–5–2 (1990). Use of the Convention procedures, when available, is mandatory if documents must be transmitted abroad to effect service. 
+See Volkswagenwerk Aktiengesellschaft v. Schlunk
+, 486 U.S. 694 (1988) (noting that voluntary use of these procedures may be desirable even when service could constitutionally be effected in another manner); J. Weis, 
+The Federal Rules and the Hague Conventions: Concerns of Conformity and Comity
+, 50 
+U. Pitt. L. Rev
+. 903 (1989). Therefore, this paragraph provides that, when service is to be effected outside a judicial district of the United States, the methods of service appropriate under an applicable treaty shall be employed if available and if the treaty so requires.
+
+
+The Hague Convention furnishes safeguards against the abridgment of rights of parties through inadequate notice. Article 15 provides for verification of actual notice or a demonstration that process was served by a method prescribed by the internal laws of the foreign state before a default judgment may be entered. Article 16 of the Convention also enables the judge to extend the time for appeal after judgment if the defendant shows a lack of adequate notice either to defend or to appeal the judgment, or has disclosed a prima facie case on the merits.
+
+
+The Hague Convention does not specify a time within which a foreign country's Central Authority must effect service, but Article 15 does provide that alternate methods may be used if a Central Authority does not respond within six months. Generally, a Central Authority can be expected to respond much more quickly than that limit might permit, but there have been occasions when the signatory state was dilatory or refused to cooperate for substantive reasons. In such cases, resort may be had to the provision set forth in subdivision (f)(3).
+
+
+Two minor changes in the text reflect the Hague Convention. First, the term “letter of request” has been added. Although these words are synonymous with “letter rogatory,” “letter of request” is preferred in modern usage. The provision should not be interpreted to authorize use of a letter of request when there is in fact no treaty obligation on the receiving country to honor such a request from this country or when the United States does not extend diplomatic recognition to the foreign nation. Second, the passage formerly found in subdivision (i)(1)(B), “when service in either case is reasonably calculated to give actual notice,” has been relocated.
+
+
+Paragraph (2) provides alternative methods for use when internationally agreed methods are not intended to be exclusive, or where there is no international agreement applicable. It contains most of the language formerly set forth in subdivision (i) of the rule. Service by methods that would violate foreign law is not generally authorized. Subparagraphs (A) and (B) prescribe the more appropriate methods for conforming to local practice or using a local authority. Subparagraph (C) prescribes other methods authorized by the former rule.
+
+
+Paragraph (3) authorizes the court to approve other methods of service not prohibited by international agreements. The Hague Convention, for example, authorizes special forms of service in cases of urgency if convention methods will not permit service within the time required by the circumstances. Other circumstances that might justify the use of additional methods include the failure of the foreign country's Central Authority to effect service within the six-month period provided by the Convention, or the refusal of the Central Authority to serve a complaint seeking punitive damages or to enforce the antitrust laws of the United States. In such cases, the court may direct a special method of service not explicitly authorized by international agreement if not prohibited by the agreement. Inasmuch as our Constitution requires that reasonable notice be given, an earnest effort should be made to devise a method of communication that is consistent with due process and minimizes offense to foreign law. A court may in some instances specially authorize use of ordinary mail. 
+Cf. Levin v. Ruby Trading Corp
+., 248 F. Supp. 537 (S.D.N.Y. 1965).
+
+
+Subdivision (g)
+. This subdivision retains the text of former subdivision (d)(2). Provision is made for service upon an infant or incompetent person in a foreign country.
+
+
+Subdivision (h)
+. This subdivision retains the text of former subdivision (d)(3), with changes reflecting those made in subdivision (e). It also contains the provisions for service on a corporation or association in a foreign country, as formerly found in subdivision (i).
+
+
+Frequent use should be made of the Notice and Request procedure set forth in subdivision (d) in actions against corporations. Care must be taken, however, to address the request to an individual officer or authorized agent of the corporation. It is not effective use of the Notice and Request procedure if the mail is sent undirected to the mail room of the organization.
+
+
+Subdivision (i)
+. This subdivision retains much of the text of former subdivisions (d)(4) and (d)(5). Paragraph (1) provides for service of a summons on the United States; it amends former subdivision (d)(4) to permit the United States attorney to be served by registered or certified mail. The rule does not authorize the use of the Notice and Request procedure of revised subdivision (d) when the United States is the defendant. To assure proper handling of mail in the United States attorney's office, the authorized mail service must be specifically addressed to the civil process clerk of the office of the United States attorney.
+
+
+Paragraph (2) replaces former subdivision (d)(5). Paragraph (3) saves the plaintiff from the hazard of losing a substantive right because of failure to comply with the complex requirements of multiple service under this subdivision. That risk has proved to be more than nominal. 
+E.g., Whale v. United States
+, 792 F.2d 951 (9th Cir. 1986). This provision should be read in connection with the provisions of subdivision (c) of 
+Rule 15
+ to preclude the loss of substantive rights against the United States or its agencies, corporations, or officers resulting from a plaintiff's failure to correctly identify and serve all the persons who should be named or served.
+
+
+Subdivision (j)
+. This subdivision retains the text of former subdivision (d)(6) without material change. The waiver-of-service provision is also inapplicable to actions against governments subject to service pursuant to this subdivision.
+
+
+The revision adds a new paragraph (1) referring to the statute governing service of a summons on a foreign state and its political subdivisions, agencies, and instrumentalities, the Foreign Sovereign Immunities Act of 1976, 28 U.S.C. §1608. The caption of the subdivision reflects that change.
+
+
+Subdivision (k)
+. This subdivision replaces the former subdivision (f), with no change in the title. Paragraph (1) retains the substance of the former rule in explicitly authorizing the exercise of personal jurisdiction over persons who can be reached under state long-arm law, the “100-mile bulge” provision added in 1963, or the federal interpleader act. Paragraph (1)(D) is new, but merely calls attention to federal legislation that may provide for nationwide or even world-wide service of process in cases arising under particular federal laws. Congress has provided for nationwide service of process and full exercise of territorial jurisdiction by all district courts with respect to specified federal actions. 
+See
+ 1 R. Casad, 
+Jurisdiction in Civil Actions
+ (2d Ed.) chap. 5 (1991).
+
+
+Paragraph (2) is new. It authorizes the exercise of territorial jurisdiction over the person of any defendant against whom is made a claim arising under any federal law if that person is subject to personal jurisdiction in no state. This addition is a companion to the amendments made in revised subdivisions (e) and (f).
+
+
+This paragraph corrects a gap in the enforcement of federal law. Under the former rule, a problem was presented when the defendant was a non-resident of the United States having contacts with the United States sufficient to justify the application of United States law and to satisfy federal standards of forum selection, but having insufficient contact with any single state to support jurisdiction under state long-arm legislation or meet the requirements of the Fourteenth Amendment limitation on state court territorial jurisdiction. In such cases, the defendant was shielded from the enforcement of federal law by the fortuity of a favorable limitation on the power of state courts, which was incorporated into the federal practice by the former rule. In this respect, the revision responds to the suggestion of the Supreme Court made in 
+Omni Capital Int'l v. Rudolf Wolff & Co., Ltd
+., 484 U.S. 97, 111 (1987).
+
+
+There remain constitutional limitations on the exercise of territorial jurisdiction by federal courts over persons outside the United States. These restrictions arise from the Fifth Amendment rather than from the Fourteenth Amendment, which limits state-court reach and which was incorporated into federal practice by the reference to state law in the text of the former subdivision (e) that is deleted by this revision. The Fifth Amendment requires that any defendant have affiliating contacts with the United States sufficient to justify the exercise of personal jurisdiction over that party. 
+Cf. Wells Fargo & Co. v. Wells Fargo Express Co
+., 556 F.2d 406, 418 (9th Cir. 1977). There also may be a further Fifth Amendment constraint in that a plaintiff's forum selection might be so inconvenient to a defendant that it would be a denial of “fair play and substantial justice” required by the due process clause, even though the defendant had significant affiliating contacts with the United States. 
+See DeJames v. Magnificent Carriers
+, 654 F.2d 280, 286 n.3 (3rd Cir.), 
+cert. denied
+, 454 U.S. 1085 (1981). 
+Compare World-Wide Volkswagen Corp. v. Woodson
+, 444 U.S. 286, 293 –294 (1980); 
+Insurance Corp. of Ireland v. Compagnie des Bauxites de Guinee
+, 456 U.S. 694, 702 –03 (1982); 
+Burger King Corp. v. Rudzewicz
+, 471 U.S. 462, 476 –78 (1985); 
+Asahi Metal Indus. v. Superior Court of Cal., Solano County
+, 480 U.S. 102, 108 –13 (1987). 
+See generally
+ R. Lusardi, 
+Nationwide Service of Process: Due Process Limitations on the Power of the Sovereign
+, 33 
+Vill. L. Rev
+. 1 (1988).
+
+
+This provision does not affect the operation of federal venue legislation. 
+See generally
+ 28 U.S.C. §1391. Nor does it affect the operation of federal law providing for the change of venue. 28 U.S.C. §§1404, 1406. The availability of transfer for fairness and convenience under §1404 should preclude most conflicts between the full exercise of territorial jurisdiction permitted by this rule and the Fifth Amendment requirement of “fair play and substantial justice.”
+
+
+The district court should be especially scrupulous to protect aliens who reside in a foreign country from forum selections so onerous that injustice could result. “[G]reat care and reserve should be exercised when extending our notions of personal jurisdiction into the international field.” 
+Asahi Metal Indus. v. Superior Court of Cal., Solano County
+, 480 U.S. 102, 115 (1987), quoting 
+United States v. First Nat'l City Bank
+, 379 U.S. 378, 404 (1965) (Harlan, J., dissenting).
+
+
+This narrow extension of the federal reach applies only if a claim is made against the defendant under federal law. It does not establish personal jurisdiction if the only claims are those arising under state law or the law of another country, even though there might be diversity or alienage subject matter jurisdiction as to such claims. If, however, personal jurisdiction is established under this paragraph with respect to a federal claim, then 28 U.S.C. §1367(a) provides supplemental jurisdiction over related claims against that defendant, subject to the court's discretion to decline exercise of that jurisdiction under 28 U.S.C. §1367(c).
+
+
+Subdivision (l)
+. This subdivision assembles in one place all the provisions of the present rule bearing on proof of service. No material change in the rule is effected. The provision that proof of service can be amended by leave of court is retained from the former subdivision (h). 
+See generally
+ 4A Wright & Miller, 
+Federal Practice and Procedure
+ §1132 (2d ed. 1987).
+
+
+Subdivision (m)
+. This subdivision retains much of the language of the present subdivision (j).
+
+
+The new subdivision explicitly provides that the court shall allow additional time if there is good cause for the plaintiff's failure to effect service in the prescribed 120 days, and authorizes the court to relieve a plaintiff of the consequences of an application of this subdivision even if there is no good cause shown. Such relief formerly was afforded in some cases, partly in reliance on Rule 6(b). Relief may be justified, for example, if the applicable statute of limitations would bar the refiled action, or if the defendant is evading service or conceals a defect in attempted service. 
+E.g., Ditkof v. Owens-Illinois, Inc
+., 114 F.R.D. 104 (E.D. Mich. 1987). A specific instance of good cause is set forth in paragraph (3) of this rule, which provides for extensions if necessary to correct oversights in compliance with the requirements of multiple service in actions against the United States or its officers, agencies, and corporations. The district court should also take care to protect 
+pro se
+ plaintiffs from consequences of confusion or delay attending the resolution of an 
+in forma pauperis
+ petition. 
+Robinson v. America's Best Contacts & Eyeglasses
+, 876 F.2d 596 (7th Cir. 1989).
+
+
+The 1983 revision of this subdivision referred to the “party on whose behalf such service was required,” rather than to the “plaintiff,” a term used generically elsewhere in this rule to refer to any party initiating a claim against a person who is not a party to the action. To simplify the text, the revision returns to the usual practice in the rule of referring simply to the plaintiff even though its principles apply with equal force to defendants who may assert claims against non-parties under Rules 13(h), 14, 19, 20, or 21.
+
+
+Subdivision (n)
+. This subdivision provides for in rem and quasi-in-rem jurisdiction. Paragraph (1) incorporates any requirements of 28 U.S.C. §1655 or similar provisions bearing on seizures or liens.
+
+
+Paragraph (2) provides for other uses of quasi-in-rem jurisdiction but limits its use to exigent circumstances. Provisional remedies may be employed as a means to secure jurisdiction over the property of a defendant whose person is not within reach of the court, but occasions for the use of this provision should be rare, as where the defendant is a fugitive or assets are in imminent danger of disappearing. Until 1963, it was not possible under 
+Rule 4
+ to assert jurisdiction in a federal court over the property of a defendant not personally served. The 1963 amendment to subdivision (e) authorized the use of state law procedures authorizing seizures of assets as a basis for jurisdiction. Given the liberal availability of long-arm jurisdiction, the exercise of power quasi-in-rem has become almost an anachronism. Circumstances too spare to affiliate the defendant to the forum state sufficiently to support long-arm jurisdiction over the defendant's person are also inadequate to support seizure of the defendant's assets fortuitously found within the state. 
+Shaffer v. Heitner
+, 433 U.S. 186 (1977).
+
+

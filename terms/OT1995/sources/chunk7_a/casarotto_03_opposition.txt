@@ -1,0 +1,791 @@
+vf er 
+Pi 
+
+
+- 
+
+
+ve 
+au 
+
+
+BEST AVAILABLE COPY 
+
+
+QUESTION PRESENTED 
+
+
+Whether a state court, applying traditional conflict- 
+of-law principles, may enforce a state law requiring dis- 
+closure of an arbitration clause in a contract, when the 
+contract specifies that state law shall govern the contract 
+and when the application of the state law would not 
+undermine the goals and policies of the Federal Arbitra- 
+tion Act, 9 U.S.C. § 1, et seq. 
+
+
+ii 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+
+TABLE OF AUTHORITIES ...........--eeeeeeeeees iii 
+STATEMENT OF THE CASE...........--00eeeeeees 1 
+A. Factual Background ...............-eeeeeeees 1 
+B. Initial Decision Below .............+.eesee08: 3 
+C. Decision on Remand .............0eeeeeeeees 5 
+REASONS FOR DENYING THE WRIT............. 6 
+
+
+I. THE MONTANA SUPREME COURT PROPERLY 
+APPLIED STATE RULES OF ARBITRATION, 
+WHICH DO NOT UNDERMINE THE GOALS 
+AND POLICIES OF THE FAA, TO A CON- 
+TRACT SELECTING STATE LAW ............. 7 
+
+
+II. THE DECISION OF THE MONTANA SUPREME 
+
+
+III. THE MONTANA SUPREME COURT DECISION 
+IS NOT A GOOD VEHICLE FOR ADDRESSING 
+THE CONCERNS RAISED BY PETITIONERS.. 13 
+
+
+CONCLUSION 2... ccccccnccdovctecveteuseeeuSenunes 16 
+
+
+iii 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases: 
+Allied-Bruce Terminix Companies, Inc. v. Dobson, 115 
+nab pes eeeegesccaceccceccccccce passim 
+American Airlines, Inc. v. Wolens, 115 S.Ct. 817 
+DURE RCR ARSE easadeneccceccccccccccccccecces 12 
+—— Corp. v. Perryville Feed & Produce, Inc., 685 
+Rs os nceseccccccsesscoceccceces 10 
+Chor v. Piper, Jaffray & Hopwood, Inc., 862 P.2d 26 
+Ee ee ee 14 
+David L. Threlkeld & Co. v. Metallgesellschaft Ltd. 
+(London), 923 F.2d 245 (2d Cir.), cert. dismissed, 
+i an < noc upanessesacssbsceccces se 11 
+Downey v. Christensen, 825 P.2d 557 (Mont. 1992) .... 14 
+Edenfield v. Fane, 113 S.Ct. 1792 (1993) .............. 13 
+Gibson v. James Graff Communications, Inc., 780 P.2d 
+TIE Soedveccccecccccccccesdueccocces 14 
+Home Bu Warranty Corp. II v. Lopez, 115 S.Ct. 
+PURER SAU abwes seberdobecdsocctcccvcccece: 14 
+Larsen v. Opie, 771 P.2d 977 (Mont. 1989)............ 14 
+Mastrobuono v. Shearson Lehman Hutton, Inc., 115 
+SE SD once enhés cnndaes egesescccceccoc: 6, 9 
+Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, 
+Inc., 473 U.S. 614 (1985) ... 6... ccc cece eens 11, 15 
+Moses H. Cone Memorial Hosp. v. Mercury Constr. 
+i LL rrr rr rrr rrr rr 15 
+
+
+Passage v. Prudential-Bache Securities, 727 P.2d 1298 
+(Mont. 1986), cert. denied, 480 U.S. 905 (1987) ..... 14 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES - Continued . 
+age 
+
+
+Prima Paint Corp. v. Flood & Conklin Mfg. Co., 388 
+U.S. 395 (1967)... .ccccccccecccsccccccvcccccsceces 15 
+
+
+Securities Industry Ass’n v. Connolly, 883 F.2d 1114 
+(1st Cir. 1989), cert. denied, 495 U.S. 956 (1990).... 11 
+
+
+Snap-On Tools Corp. v. Vetter, 838 F. Supp. 468 (D. 
+Pham. BOOED oo ccc ccccccccccvccscccccccosecsesee 11, 12 
+
+
+So. Health Corp. of Hamilton, Inc. v. Lorance, 115 
+S.C. GEO (IDS). . wc ccccccccccccsccccceccsccccseves 14 
+
+
+Terminix Int'l, Ltd. P’ship v. Jackson, 115 S.Ct. 930 
+CIODED « occccccccccccccedccecceccccsccccoscedese ses 14 
+
+
+Volt Information Sciences, Inc. v. Board of Trustees of 
+Leland Stanford Junior University, 489 U.S. 468 
+
+
+(IGE) . cccccccccvsesecccsccncesecccvceccesecss passim 
+Vukasin v. D.A. Davidson & Co., 785 P.2d 713 
+Bhand, BEGG. « cvcccvcccveccecetdddebdvessddctecicc 14 
+
+
+Webb v. R. Rowland & Co., 800 F.2d 803 (8th Cir. 
+
+
+STATUTES AND RULEs: 
+
+
+D UB. 6 0, B@ GD c ccccccccccccccescvccccoscese passim 
+©: BBL. BBB ce ccccccccccccecdvddbesdconsccogtescecs 11 
+Mont. Code Ann. § 27-5-114 (1987). ..... 6.66... c nun 3 
+Rule 28(j), Fed. R. App. P...... 2... .06ccccceeeceeeees 5 
+
+
+Respondents Paul and Pamela Casarotto respectfully 
+request that this Court should deny the Petition for Writ 
+of Certiorari seeking review of the Montana Supreme 
+Court’s judgment in this case. That opinion is now 
+reported at 901 P.2d 596 (1995). 
+
+
+¢ 
+
+
+STATEMENT OF THE CASE 
+
+
+A. Factual Background 
+
+
+Respondent Paul Casarotto entered into a Franchise 
+Agreement with Petitioner Doctor's Associates, Inc. 
+(“DAI”) allowing him to open a Subway Sandwich Shop 
+in Great Falls, Montana. Pet. App. 12a-13a. DAI, then a 
+Connecticut corporation, franchises Subway Sandwich 
+Shops. Pet. App. 12a. Petitioner Nick Lombardi (“Lom- 
+bardi”) is an independent contractor who serves as DAI’s 
+Montana Development Agent. Pet. App. 12a.! 
+
+
+Page nine of DAI’s standard Franchise Agreement, 
+which was entered by Paul Casarotto and DAI, contains 
+an arbitration clause which calls for arbitration of claims 
+
+
+1 Even though Mr. Lombardi was not a signatory to the 
+franchise agreement, he appears to claim that he is also entitled 
+to arbitration of the Casarottos’ claims against him, based on a 
+franchise agreement to which he is not a party. Although DAI 
+refers to Lombardi as its development agent, DAI has been 
+equivocal regarding Lombardi’s agency status in the proceed- 
+ings below. Pet. 4; Appellees’ Response Brief at 7-8, 21-22, 26, 
+Casarotto v. Lombardi, 886 P.2d 931 (Mont. 1994). The Montana 
+court did not reach the issue as to whether the arbitration clause 
+in DAI’s franchise agreement would extend to Casarottos’ 
+claims against Lombardi. 
+
+
+in Bridgeport, Connecticut. Pet. App. 2a. The full text of 
+the arbitration clause is set forth at Pet. App. 13a-14a. The 
+Franchise Agreement calls for the application of siate law, 
+and designated Connecticut law. Pet. App. 15a. 
+
+
+A dispute arose when Lombardi and DAI awarded 
+Casarottos’ preferred location in Great Falls to another 
+franchisee, after agreeing to reserve that site for 
+Casarottos, according to the Complaint. Pet. App. 13a. 
+The Complaint alleges the following: Lombardi informed 
+Casarottos that their preferred location in Great Falls was 
+not yet available. Pet. App. 13a. Casarottos agreed to 
+open a shop at a less desirable location based upon a 
+verbal agreement with Lombardi reserving for Casarottos 
+the exclusive right to open a Subway shop in the pre- 
+ferred location when it became available. Pet. App. 13a. 
+Contrary to that agreement, Lombardi and DAI subse- 
+quently awarded the preferred location to another fran- 
+chisee. Pet. App. 13a. As a result, Casarottos’ shop 
+suffered irreparably and they lost their business and the 
+collateral securing their SBA loan. Pet. App. 13a. 
+
+
+Casarottos brought an action in Montana district 
+court in Great Falls to recover damages for tort and 
+contract claims against DAI, Lombardi, and the other 
+franchisee. Pet. App. 12a. The franchise agreement did 
+not comply with the notice provisions of Montana’s Uni- 
+form Arbitration Act.? Pet. App. 2a. The district court 
+
+
+2? Pertinent sections of that statute provide: 
+
+(2) A-written agreement to submit to arbitration any 
+controversy arising between the parties after the 
+agreement is made is valid and enforceable except 
+
+
+3 
+
+
+held that the franchise agreement involved interstate 
+commerce and stayed the lawsuit against DAI and Lom- 
+bardi pending arbitration, pursuant to section 3 of the 
+Federal Arbitration Act (“FAA”) (9 U.S.C. § 3). Pet. App. 
+49a. Relying on this Court's analysis in Volt Information 
+Scien.es v. Board of Trustees of Leland Stanford Junior Uni- 
+versity, 489 U.S. 468 (1989), the Montana Supreme Court 
+reversed. Pet. App. 2a. This Court granted certiorari, 
+vacated the Montana Supreme Court’s decision, and 
+remanded for further consideration in light of its inter- 
+vening decision, Allied-Bruce Terminix Cos. v. Dobson, 115 
+S.Ct. 834 (1995). Doctor’s Associates, Inc. v. Casarotto, 115 
+S.Ct. 2552 (1995). After careful review of this case in light 
+of Terminix, the Montana Supreme Court reaffirmed and 
+reinstated its prior decision. Pet. App. 6a-7a. DAI and 
+Lombardi have again petitioned for a writ of certiorari. 
+
+
+B. Initial Decision Below 
+Applying traditional conflict-of-law principles, the 
+Montana Supreme Court held that Montana law gov- 
+
+
+erned the franchise agreement entered into between 
+Casarotto and DAI. Pet. App. 15a-20a. The Montana court 
+
+
+upon such grounds as exist at law or in equity for the 
+revocation of a contract... . 
+
+(4) Notice that a contract is subject to arbitration 
+pursuant to this chapter shall be typed in underlined 
+capital letters on the first page of the contract; and 
+unless such notice is displayed thereon, the contract 
+may not be subject to arbitration. Mont. Code Ann. 
+§ 27-5-114 (1987). 
+
+
+determined that Montana had a materially greater inter- 
+est than Connecticut in a contract negotiated in Montana, 
+to be performed in Montana, regarding a sandwich shop 
+in Montana, and entered into between a Montana resident 
+and a Connecticut corporation (which has since merged 
+with a Florida corporation, Pet. 4 n.1). Pet. App. 18a. The 
+Montana court then found the contractual provision 
+selecting Connecticut law was not effective because it 
+violated Montana’s fundamental public policy requiring 
+disclosure of arbitration clauses, and Montana had a 
+materially greater interest. Pet. App. 18a-20a. 
+
+
+Relying on this Court’s analysis in Volt and standard 
+implied preemption analysis, the Montana court found 
+that Montana’s notice provision is consistent with the 
+goals and policies of the FAA and is therefore not pre- 
+empted. Pet. App. 26a-27a. The FAA does not contain a 
+preemptive provision ‘or reflect congressional intent to 
+occupy the entire field of arbitration. Pet. App. 24a. 
+Therefore, state laws, like Montana’s notice provision, 
+which do not undermine the goals and policies of the 
+FAA, are not preempted. Pet. App. 24a-25a. Because 
+DAI’s franchise agreement did not comply with Mon- 
+tana’s statutory notice requirements, the agreement is not 
+subject to arbitration according to Montana law. Pet. App. 
+27a. 
+
+
+DAI and Lombardi petitioned this Court for a writ of 
+certiorari. Pet. App. 2a. This Court summarily vacated the 
+Montana court’s decision and remanded for further con- 
+sideration in light of an intervening United States 
+Supreme Court opinion, Allied-Bruce Terminix Cos. v. Dob- 
+son. Doctor’s Associates, Inc. v. Casarotto, 115 S.Ct. 2552 
+(1995). 
+
+
+C. Decision on Remand. 
+
+
+After careful review, the Montana Supreme Court 
+concluded its earlier decision was consistent with Termi- 
+nix. Pet. App. 7a. The central disputed issue in Terminix 
+was whether the contract at issue involved interstate 
+commerce. Pet. App. 6a. The Montana court presumed 
+this case involved interstate commerce, and any state law 
+which frustrated the purposes of the FAA would be pre- 
+empted. Pet. App. at 6a. In Terminix this Court held the 
+FAA preempted an anti-arbitration state law which flatly 
+invalidated predispute arbitration clauses. Pet. App. 6a. 
+The Montana court noted the challenged statute in this 
+case does not make arbitration agreements unenforceable; 
+it simply requires adequate notice of an arbitration clause 
+in a contract. Pet. App. 6a. Finally, the Montana court 
+noted that Terminix in no way modified Volt, the decision 
+upon which the Montana court relied. Pet. App. 6a. 
+Accordingly, the Montana court reaffirmed and reinstated 
+its prior decision. Pet. App. 7a. 
+
+
+e 
+
+
+3 Petitioners complain that they were not given the oppor- 
+tunity to brief and argue the interpretation of this single case in 
+front of the Montana court. Pet. App. 9. However, the Montana 
+court allowed extensive briefing (one additional brief per side 
+for a total of five briefs) when initially hearing this case. Neither 
+the Federal Rules of Appellate Procedure nor the Montana Rules 
+of Appellate Procedure make any provision for briefing or argu- 
+ment in cases remanded from this Court for further considera- 
+tion. We note, however, that federal appellate courts routinely 
+consider new authorities without briefing or argument. Indeed, 
+Rule 28(j), Fed. R. App. P., requires that recently decided cases 
+be presented to the court without argument. 
+
+
+REASONS FOR DENYING THE WRIT 
+
+
+The Petition should be denied because it does not 
+raise issues that warrant review by this Court. The Mon- 
+tana Supreme Court's decision on remand is consistent 
+with the principles enunciated in Allied-Bruce Terminix 
+Cos. v. Dobson, 115 S.Ct. 834 (1995). The reaffirmed Mon- 
+tana Supreme Court decision was based on a permissible 
+state court application of state rules of arbitration to a 
+contract in which the parties agreed to abide by state law. 
+This Court does not sit to review a state court's interpreta- 
+tion of state rules defining the parameters of arbitration 
+when parties agree to apply state law in an arbitration 
+agreement. Volt Information Sciences, Inc. v. Board of 
+Trustees of Leland Stanford Junior University, 489 U.S. 468, 
+474 and 479 (1989); accord, Mastrobuono v. Shearson Lehman 
+Hutton, Inc., 115 S.Ct. 1212, 1217 n.4 (1995) (distinguish- 
+ing that a federal court’s interpretation of contract is not 
+entitled to such deference). 
+
+
+Contrary to Petitioners’ protestations, the decisions 
+below are consistent with this Court’s holdings in both 
+Terminix, 115 S.Ct. 834, and Volt, 489 U.S. 468. Further, the 
+decisions below do not conflict with caselaw from the 
+Circuits or that of other states. Since the Supreme Court's 
+ruling in Volt, no Federal Circuit court or state court of 
+last resort (except Montana) has addressed the appli- 
+cability of the FAA to state law notice requirements when 
+the parties agreed to apply state law. This question has 
+not received the degree of judicial scrutiny which would 
+warrant issuance of a writ of certiorari. 
+
+
+I. THE MONTANA SUPREME COURT PROPERLY 
+APPLIED STATE RULES OF ARBITRATION, 
+WHICH DO NOT UNDERMINE THE GOALS AND 
+POLICIES OF THE FAA, TO A CONTRACT 
+SELECTING STATE LAW. 
+
+
+The Montana court’s decisions below are narrowly 
+drawn to apply state law in a contract selecting state law, 
+and are consistent with both Terminix and Volt. The par- 
+ties to the arbitration agreement expressly agreed to 
+apply state law. Pet. App. 15a. The Montana Supreme 
+Court undertook a thorough conflict-of-law analysis, 
+applying standard conflict-of-law principles in reaching 
+its decision to apply Montana law.* Pet. App. 15a-20a. 
+Petitioners do not present the Montana Supreme Court’s 
+application of Montana law and conflict-of-law analysis 
+for review. They request review solely on the question of 
+whether Section 2 of the FAA preempts Montana’s notice 
+requirement. Pet. (i). 
+
+
+The Montana Supreme Court relied on this Court’s 
+decision in Volt to find that the FAA did not preempt 
+Montana’s notice requirement. The Montana Supreme 
+Court stated: 
+
+
+Our conclusion that Montana’s notice require- 
+ment does not undermine the policies of the 
+
+
+* Similarly, in Volt, the California courts determined that 
+the parties’ choice of law provision incorporated California 
+rules of arbitration. 489 U.S. at 472. The contracting parties in 
+Volt specified, “[t}he contract shall be governed by the law of 
+the place where the project is located.” Id. at 470. As the contract 
+was performed on the Stanford University campus, over appel- 
+lants arguments, the California courts determined California 
+law, including its rules of arbitration, applied. Id. at 470, 474. 
+
+
+FAA is based on the Supreme Court's conclusion 
+that its was never Congress’s intent when it 
+enacted the FAA to preempt the entire field of 
+arbitration, and its further conclusion that the 
+FAA does not require parties to arbitrate when 
+they have not agreed to do so. The Court held 
+that the purpose of the FAA is simply to enforce 
+arbitration agreements into which parties had 
+entered, and acknowledge that the interpreta- 
+tion of contracts is ordinarily a question of state 
+law. 
+
+
+Pet. App. 16a, citing Volt, 489 U.S. at 474. Nothing in 
+Terminix upset these cited principles. Pet. App. 6a. 
+
+
+Petitioners concede the primary issue in Terminix, 
+construing the interstate commerce language of Section 2 
+of the FAA, is not at issue in this case. Pet. 13. In fact, the 
+Montana court acknowledged this case involved inter- 
+state commerce and that any state law which frustrated 
+the purposes of the FAA would be preempted. Pet. App. 
+6a. 
+
+
+Nor do,the Montana decisions infringe upon the pro- 
+arbitration policy enunciated in Terminix and Volt. While 
+the preempted statute in Terminix invalidated all predis- 
+pute arbitration clauses, the Montana statute specifically 
+recognizes the enforceability of such arbitration agree- 
+ments; it merely requires notice of an arbitration clause in 
+a contract, to allow parties to be adequately informed. 
+Pet. App. 6a. The Montana court presumed that this state 
+requirement would not be a threat to the policies of the 
+FAA. Pet. App. 4a. To hold otherwise would run contrary 
+to the conclusion that contracting parties are free to 
+determine how their disputes will be resolved. Pet. App. 
+4a. Further, such a holding would suggest that arbitration 
+
+
+was so onerous that it could only be thrust upon the 
+uninformed. Pet. App. 4a. 
+
+
+The Montana Supreme Court decisions were based 
+on a permissible state court application of standard con- 
+flict-of-law principles and carefully calibrated state rules 
+of arbitration to a contract in which the parties agreed to 
+abide by state law. This Court has indicated that it will 
+not set aside a state court’s interpretation of the laws of 
+the state where the contract is to be performed. Volt, 489 
+U.S. at 474; accord, Mastrobuono, 115 S.Ct. at 1217 n.4. 
+Thus, this Court should not sit to review the matters of 
+state law addressed by the Montana Supreme Court in 
+this case. 
+
+
+Il. THE DECISION OF THE MONTANA SUPREME 
+COURT IS IN CONCERT WITH EXISTING CASE- 
+LAW. 
+
+
+In attempting to demonstrate a conflict requiring res- 
+olution by this Court, Petitioners mischaracterize the 
+holdings of the Montana Supreme Court and other cited 
+decisions. In fact, the authorities which Petitioners rely 
+on are readily distinguished from the instant proceedings 
+because they i) do not include the preemption analysis in 
+Volt Information Sciences, Inc. v. Board of Trustees of Leland 
+Stanford Junior University, 489 U.S. 468 (1989), or ii) do not 
+involve contractual provisions which select state law. The 
+Montana court correctly recognized these cases are not 
+persuasive. Pet. App. 26a. The authority relied on by DAI 
+is inapposite. 
+
+DAI's attempt to portray a conflict based on pre-Volt 
+cases, which have lost their authority in light of Volt, 
+
+
+10 
+
+
+should fail. Two cited cases which purportedly conflict 
+with the decisions below were decided before Volt: Webb 
+v. R. Rowland & Co., 800 F.2d 803 (8th Cir. 1986) and Bunge 
+Corp. v. Perryville Feed & Produce, Inc., 685 S.W.2d 837 (Mo. 
+1985). In Webb the Eighth Circuit applied a pre-Volt anal- 
+ysis to a contract which invoked Missouri law. 800 F.2d at 
+806. Volt clarifies that when the parties have agreed to be 
+bound by state rules of arbitration, enforcing those rules 
+according to the terms of the agreement is fully consistent 
+with the goals of the FAA. Pet. App. 14a. Applying this 
+Court’s preemption analysis as articulated in Volt, the 
+Eighth Circuit should reach a different decision regarding 
+the Missouri statute. 
+
+
+Similarly, in Bunge Corp., a decision four years before 
+Volt, the Missouri Supreme Court found a contractual 
+dispute subject to the rules and regulations of the 
+National Grain and Feed Association was subject to arbi- 
+tration. 685 S.W.2d at 838. Like the Montana court, the 
+Missouri court acknowledged that Missouri's statutory 
+notice requirements could not be applied to undermine 
+the FAA. Id. at 839. However, the Missouri court refrained 
+from invalidating Missouri's statute, stating, “[wJe do not 
+have to decide, and we do not decide, whether an arbitra- 
+tion agreement governed by Missouri law is unenforceable 
+in all events... . ” Id. at 839 (emphasis supplied). Thus 
+the Missouri court sidestepped the decision addressed 
+squarely by the Montana Supreme Court in this case. 
+Despite Petitioners’ arguments, there is no conflict in 
+these decisions. 
+
+
+Furthermore, the decisions of the Montana Supreme 
+Court addressed a distinct issue from Petitioners’ 
+post-Volt authority in which the parties did not invoke 
+
+
+— — 
+
+
+11 
+
+
+state law. In David L. Threlkeld & Co. v. Metallgesellschaft 
+Ltd. (London), 923 F.2d 245, 247 and 250 (2d Cir.), cert. 
+dismissed, 501 U.S. 1267 (1991), the parties agreed to arbi- 
+tration in accordance with the rules and regulations of the 
+London Metals Exchange. Accordingly, the Second Cir- 
+cuit applied the international convention (9 U.S.C. § 202), 
+a discrete section of the FAA.5 Similarly, where parties 
+agreed to be bound by the rules of Federal Arbitration 
+Act, rather than the law of any state, the federal district 
+court in Montana appropriately applied those rules. Snap- 
+On Tools Corp. v. Vetter, 838 F. Supp. 468 (D. Mont. 1993). 
+These decisions, enforcing contracts according to those 
+rules by which the parties agreed to be bound, are in 
+accord with the Montana Supreme Court decisions in the 
+instant case. 
+
+
+Another cited case, Securities Industry Ass’n v. Con- 
+nolly, 883 F.2d 1114 (1st Cir. 1989), cert. denied, 495 U.S. 
+956 (1990), simply did not address the parties’ ability to 
+invoke state law. In that case, the First Circuit held that 
+the FAA preempted Massachusetts regulations concern- 
+ing predispute arbitration agreements for securities bro- 
+kers. Unlike the present case, no consideration was given 
+to the ability of the parties to invoke state law through a 
+
+
+5 Unlike the current case, the decision in Threlkeld involved 
+international commerce, an area in which the policy favoring 
+arbitration is “even stronger” and “applies with special force.” 
+Threlkeld, 923 F.2d 248, citing Mitsubishi Motors Corp. v. Soler 
+Chrysler-Plymouth, Inc., 473 U.S. 614 (1985). Additionally, Threl- 
+keld applied Section 202 of the FAA, 9 U.S.C. § 202, rather than 
+Section 2, at issue in this case. 
+
+
+12 
+
+
+choice-of-law provision. Thus Connolly addresses a dis- 
+tinct issue from that presented in this case where fran- 
+chisor invoked state law by the terms of its own franchise 
+
+
+agreement. 
+
+
+The Montana decisions are squarely consistent with 
+Volt, and the principles enunciated in Terminix. The deci- 
+sions below are distinguishable from the cases cited by 
+Petitioners. They do not directly conflict with any deci- 
+sion of this Court, nor of any federal court of appeals. 
+There is no split in the circuits nor an intolerable conflict 
+between the decisions of the highest state courts. 
+
+
+Moreover, and without conceding the point, even if 
+one were inclined towards the view that the Montana 
+Supreme Court's decision conflicts with rulings by other 
+courts, the “conflict” Petitioners allege is plainly tolerable 
+at this time. Try as Petitioners might, they could only 
+identify three post-Volt cases, in addition to this case, 
+from state supreme courts or federal appellate courts in 
+which the validity of state notice requirements has been 
+litigated. This proceeding is the only one in which the 
+parties selected state law. Significantly, there is no conflict 
+between the decision below and any ruling of the Ninth 
+Circuit, such that a different result would be mandated 
+depending upon whether a case is filed in state court or 
+federal court. Compare American Airlines, Inc. v. Wolens, 
+
+
+6 In a footnote, petitioners cite Snap-On Tools Corp. v. Vetter, 
+838 F. Supp. 468 (D. Mont. 1993), as a case where the Montana 
+notice statute was preempted by the FAA, but that case is distin- 
+guishable, as the parties there agreed to be governed by federal 
+law, such that the Montana notice law could not take prece- 
+dence. Id. at 472. 
+
+
+13 
+
+
+115 S.Ct. 817 (1995), and Edenfield v. Fane, 113 S.Ct. 1792 
+(1993) (granting review in cases where state and federal 
+appellate courts reached opposite conclusions). 
+
+
+If anything, the weakness in Petitioners’ line of attack 
+is illustrated by their reliance, at least in part, on dire 
+predictions about what state legislatures and other courts 
+might do if this lone decision from the Montana Supreme 
+Court is allowed to stand (Pet. App. 22-25), a tacit conces- 
+sion that the legal issue they raise has not yet matured to 
+the point that review by this Court is appropriate at this 
+time. Thus, when all is said and done, Petitioners’ real 
+quarrel with the decision below is the fact that they lost. 
+That is not sufficient reason for this Court to grant 
+review. 
+
+
+Ill. THE MONTANA SUPREME COURT DECISION 
+IS NOT A GOOD VEHICLE FOR ADDRESSING 
+THE CONCERNS RAISED BY PETITIONERS. 
+
+
+The Petitioners attempt to portray the Montana deci- 
+sion as one of national importance. Pet. 22-25. However, 
+Montana is the only state to hold that the state notice 
+provision is applicable when parties select state law in 
+their contract, and no federal circuit court has ruled on 
+this particular issue after Volt Information Sciences, Inc. v. 
+Board of Trustees of Leland Stanford Junior University, 489 
+U.S. 468 (1989). Should the states rise and follow Mon- 
+tana’s lead regarding the preemptive scope of the FAA, as 
+Petitioners predict (Pet. at 25), actual conflicts may 
+appear and the issue will then be more appropriate for 
+this Court’s review. One of those future cases may pro- 
+vide a more straightforward vehicle, without the need for 
+
+
+14 
+
+
+this Court to engage in a conflict-of-law analysis or to 
+decide whether the acts of the franchisor’s development 
+agent are subject to arbitration under the franchise agree- 
+ment. 
+
+
+Nor, unlike the situation this Court confronted in 
+Terminix, is this case part of a larger pattern of hostility 
+toward arbitration on the part of a state legislature and 
+supreme court.” To the contrary, the statute at issue in 
+this case has served as the basis for vigorous enforcement 
+of arbitration agreements in Montana.* As Petitioners 
+readily conceded below, the Montana Supreme Court, 
+
+
+? After Allied-Bruce Terminix Companies, Inc. v. Dobson, 115 
+S.Ct. 834 (1995), this Court also vacated three other Alabama 
+Supreme Court decisions that refused to give effect to arbitra- 
+tion provisions: Home Buyers Warranty Corp. II v. Lopez, 115 S.Ct. 
+930 (1995); Terminix Int'l, Ltd. P’ship v. Jackson, 115 S.Ct. 930 
+(1995); and So. Health Corp. of Hamilton, Inc. v. Lorance, 115 S.Ct. 
+930 (1995). 
+
+
+8 See, e.g., Chor v. Piper, Jaffray & Hopwood, Inc., 862 P.2d 26 
+(Mont. 1993) (finding contracts requiring arbitration are as 
+enforceable in Montana as any other contracts); Downey v. Chris- 
+tensen, 825 P.2d 557 (Mont. 1992) (holding franchisor’s partici- 
+pation in discovery did not waive right to compel arbitration); 
+Vukasin v. D.A. Davidson & Co., 785 P.2d 713 (Mont. 1990) (find- 
+ing arbitration clause in annual review document an enforce- 
+able part of employment agreement); Gibson v. James Graff 
+Communications, Inc., 780 P.2d 1131 (Mont. 1989) (finding con- 
+tract involving interstate commerce subject to the FAA); Larsen 
+v. Opie, 771 P.2d 977 (Mont. 1989) (holding claim of fraud in the 
+inducement of the execution of a contract containing an arbitra- 
+tion clause is to be decided by arbitration); Passage v. Prudential- 
+Bache Securities, 727 P.2d 1298 (Mont. 1986), cert. denied, 480 U.S. 
+905 (1987) (holding parties subject to arbitration even if cus- 
+tomer agreement at issue was found to be a contract of adhe- 
+sion). 
+
+
+15 
+
+
+“has consistently upheld the federal policy in favor of 
+arbitration and applied the FAA to arbitration clauses in 
+contracts involving interstate commerce.” Brief for the 
+Appellees Nick Lombardi and Doctor’s Associates, Inc., 
+at 9, Casarotto v. Lombardi, 886 P.2d 931 (Mont. 1994). In 
+light of their own concessions below, Petitioners’ asser- 
+tions of Montana’s hostility toward arbitration (Pet. 
+14-15) ring hollow. 
+
+
+This Court has consistently held that the FAA only 
+places arbitration agreements on the same footing as 
+other contracts, but does not make super contracts out of 
+such agreements.® Petitioner DAI routinely drafts the 
+contracts in question. It certainly remains within its 
+power to control the forum for resolving disputes by 
+deciding whether to include a choice-of-law provision 
+selecting or barring the application of state law and its 
+concomitant rules of arbitration. 
+
+
+° 
+
+
+% Allied-Bruce Terminix Companies, Inc., 115 S.Ct. at 840; Volt, 
+489 U.S. at 474-75 (stating the FAA does not give parties powers 
+in excess of any other contract clause); Mitsubishi Motors Corp. v. 
+Soler Chrysler-Plymouth, Inc., 473 U.S. 614 (1985) (recognizing a 
+party may exclude certain claims from the scope of their arbitra- 
+tion agreement); Moses H. Cone Memorial Hosp. v. Mercury Constr. 
+Co., 460 U.S. 1 (1983) (finding the FAA puts arbitration clauses 
+on the same footing as other contracts and reflecting a general 
+federal policy favoring arbitration); Prima Paint Corp. v. Flood & 
+Conklin Mfg. Co., 388 U.S. 395 (1967) (holding the Federal Arbi- 
+tration Act makes arbitration agreements “as enforceable as 
+other contracts, but not more so”). 
+
+
+16 
+
+
+CONCLUSION 
+
+
+For the reasons set forth above, the Petition for a Writ 
+of Certiorari should be denied. 
+
+
+Respectfully submitted, 
+
+WruaM C. Warr 
+
+Counsel of Record 
+
+Sara J. JOHNSON 
+
+MuLtLeNpore, Tawney & Wart, P.C. 
+
+
+310 West Spruce 
+
+Missoula, Montana 59802 
+
+(406) 542-5000 
+
+Counsel for Respondents 
+Dated November 22, 1995. 
+
+

@@ -1,0 +1,431 @@
+Supreme Court, US. | 
+FILED 
+(4) DEC 1 1995 
+
+No. 95-559 : 
+
+
+| 
+IN THE 
+
+
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+DOCTOR’S ASSOCIATES, INC. and NICK LOMBARDI, 
+Petitioners, 
+vs. 
+PAUL CASAROTTO and PAMELA CASAROTTO, 
+Respondents. 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI TO THE 
+SUPREME COURT OF MONTANA 
+
+
+REPLY BRIEF FOR PETITIONERS 
+
+
+MARK R. KRAVITZ* 
+
+JEFFREY R. BABBIN 
+
+WIGGIN & DANA 
+
+One Century Tower 
+
+P.O. Box 1832 
+
+New Haven, Connecticut 06508-1832 
+(203) 498-4400 
+
+
+H. BARTOW FARR, III 
+FARR & TARANTO 
+
+2445 M Street, N.W. 
+Washington, D.C. 20037 
+(202) 775-0184 
+
+
+* Counsel of Record 
+
+
+TABLE OF CONTENTS 
+
+
+TABLE OF AUTHORITIES 
+
+
+I. THE MONTANA NOTICE STATUTE IS 
+PREEMPTED BY THE FEDERAL 
+ARBITRATION ACT 
+
+
+Il. 
+
+
+TABLE OF AUTHORITIES 
+Cases Page 
+Allied-Bruce Terminix Companies v. Dobson, 115 S. Ct. 
+NEESER ENE: 2S ee ae 
+
+
+David L. Threlkeld & Co. v. Metallgesellschaft Lid. 
+(London), 923 F.2d 245 (2d Cir.), cert. dismissed, 
+
+
+ETE ae 6 
+Mastrobuono v. Shearson Lehman Hutton, Inc., 115 S. 
+
+EE oe 2,3,4 
+Moses H. Cone Memorial Hosp. v. Mercury Constr. Co., 
+
+TE ee 5 
+Perry v. Thomas, 482 U.S. 483 (1987) ......ccccccccccceeeeeeeeeeees 5 
+Securities Industry Ass'n v. Connolly, 883 F.2d 1114 (ist 
+
+Cir. 1989), cert. denied, 495 U.S. 956 (1990).............. 6 
+Southland Corp. v. Keating, 465 U.S. 1 (1984)... 5 
+
+
+Volt Information Sciences, Inc. v. Board of Trustees of 
+Leland Stanford Junior University, 489 U.S. 468 
+
+
+a a el 2, 3,5 
+STATUTES 
+EC er 
+
+
+Conn. Gen. Stat. § 52-408 (1995) .....ccccccccsssssssssssssssssseseeee 2,3 
+
+
+No. 95-559 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+DOCTOR’S ASSOCIATES, INC. and NICK LOMBARDI, 
+Petitioners, 
+vs. 
+PAUL CASAROTTO and PAMELA CASAROTTO, 
+
+
+Respondents. 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI TO THE 
+SUPREME COURT OF MONTANA 
+
+
+REPLY BRIEF FOR PETITIONERS 
+
+
+I. THE MONTANA NOTICE STATUTE IS PRE- 
+EMPTED BY THE FEDERAL ARBITRATION ACT. 
+
+
+Respondents do not dispute either of the two points that are 
+essential to answering the straightforward question presented 
+by the petition. One, the parties entered into a written agree- 
+ment to arbitrate involving interstate commerce that met all of 
+the requirements of Section 2 of the Federal Arbitration Act 
+(“FAA”), which makes written agreements to arbitrate “valid, 
+irrevocable, and enforceable, save upon such grounds as exist 
+at law or in equity for the revocation of any contract.” 9 
+U.S.C. § 2. Two, the Montana Supreme Court refused to en- 
+force the agreement to arbitrate on the ground that it did not 
+comply with a notice requirement under Montana law that is 
+applicable only to arbitration agreements and not to other 
+types of agreements. Under the plain and unequivocal 
+
+
+language of Section 2 and the decisions of this Court, those 
+two points alone are sufficient to find preemption of the 
+Montana notice statute. See Pet. 11-17. 
+
+
+Rather than address those two central points, respondents 
+instead attempt to justify the Montana Supreme Court’s deci- 
+sion on the basis of a rationale not even relied upon by that 
+court. According to respondents, the Montana court applied 
+the Montana arbitration notice requirements because the par- 
+ties had “expressly agreed to apply state law” to their fran- 
+chise agreement. Br. in Opp. 7. Therefore, according to 
+respondents, the Montana Supreme Court’s decision not to 
+enforce the agreement to arbitrate on the basis of Montana 
+law was appropriate under Volt Information Sciences, Inc. v. 
+Board of Trustees of Leland Stanford Junior University, 489 
+U.S. 468 (1989), because the decision below purportedly was 
+based on “a state court’s application of standard conflict-of- 
+law principles and carefully calibrated state rules of arbitra- 
+tion to a contract in which the parties agreed to abide by state 
+law.” Br. in Opp. 9 (emphasis added). 
+
+
+There are, however, several obvious problems with respon- 
+dents’ argument. First, the parties did not agree to apply just 
+any “state law” to their agreement; the choice-of-law clause in 
+the franchise agreement expressly provided that the agreement 
+“shall be governed by and construed in accordance with the 
+laws of the State of Connecticut.” Pet. App. 15a. Respondents 
+do not dispute that Connecticut law has no notice requirement 
+comparable to Montana’s. Thus, it is undisputed that the par- 
+ties’ agreement to arbitrate is enforceable under the state law 
+chosen by the parties. See Conn. Gen. Stat. § 52-408 (1995).' 
+
+
+' As is common practice, the parties’ agreement to arbitrate also provided 
+that any arbitration proceedings would be “in accordance with the Com- 
+mercial Arbitration Rules of the American Arbitration Association.” Pet. 
+App. 13a. This Court has looked to the arbitration rules incorporated by 
+reference in an arbitration agreement when determining the scope of the 
+t. See Mastrobuono v. Shearson Lehman Hutton, Inc., \15 
+
+S. Ct. 1212, 1218 (1995). Respondents do not even address the parties’ 
+(Footnote continued) 
+
+
+Third, therefore, ’ reliance on Volt simply does 
+not hold up. Unlike the situation in Volt where the state court 
+applied the law chosen by the parties in their contract, the 
+court in this case did just the opposite: it refused to enforce 
+the state law that the parties had selected in their contract. In- 
+from Volt by stating as follows: “While the Court in Volt 
+applied state laws that had been chosen by the parties in their 
+
+
+hardly be said that applying Montana law to invalidate the 
+parties’ agreement to arbitrate enforces the intent of the par- 
+ties, which was the rationale for the decision in Volt. See Volt, 
+489 U.S. at 478; Mastrobuono v. Shearson Lehman Hutton, 
+
+
+agreement to abide by the rules of the American Arbitration Association, 
+which--like Connecticut law--do not impose any arbitration notice re- 
+quirement. 
+
+* Respondents’ comment that it is within the power of Doctor’s Associ- 
+ates, Inc. (“DAI”) to include in its franchise agreements a provision to 
+
+
+Inc., 115 S. Ct. 1212, 1216 (1995). And, because respondents’ 
+argument begins and ends with the decidedly false assump- 
+tion that the parties here intended the Montana notice statute 
+to govern their relationship--an assumption not even indulged 
+in by the Montana Supreme Court--they are left with no de- 
+fense of the decision below. 
+
+
+What the Montana Supreme Court did decide is that Mon- 
+tana law, even when not chosen by the parties (and, more 
+particularly, even when the parties had chosen a different 
+state’s law), could invalidate an agreement to arbitrate despite 
+the fact that the Montana law was arbitration-specific and did 
+not govern contracts generally. The sole basis of that decision 
+was a misreading of Volt that the preemptive scope of Section 
+2 is limited to laws that “undermine the goals and policies of 
+the FAA” and that the notice statute does not fall within that 
+category. Pet. App. 25a. That misreading of Volt has already 
+been thoroughly addressed in the petition,” and respondents 
+
+
+* Under the recent decision in Mastrobuono, Montana's notice statute 
+would be preempted even if, hypothetically, the parties had agreed to let 
+Montana law govern their franchise agreement. In Mastrobuono, the 
+Court characterized a choice-of-law provision similar to the one here as 
+merely serving as “a substitute for the conflict-of-laws analysis that oth- 
+erwise would determine what law to apply to disputes arising out of the 
+contractual relationship.” 115 S.Ct. at 1217. The Court found 
+“untenable” an interpretation of the choice-of-law clause that would put 
+the clause in conflict with the contract’s arbitration clause. /d. at 1219. It 
+would be even more absurd, and in conflict with the federal policy favor- 
+ing arbitration and construing ambiguities in favor of arbitration (see id at 
+1218 & n.8), to rule on the basis of a choice-of-law clause that the parties 
+agreed to an arbitration clause in their franchise agreement at the same 
+time as they intended to incorporate Montana law invalidating that arbi- 
+tration clause for failure to include the prescribed notice on the first page 
+of the agreement. Certainly, Volt does not dictate such a bizarre result, 
+and the Montana Supreme Court did not reach that result, as it applied 
+Montana law contrary to the parties’ intent. 
+
+
+* Briefly, Volt did not address whether an arbitration agreement should be 
+enforced; it dealt only with whether a state law governing the timing of 
+arbitration could be enforced by a state court when the parties had chosen 
+that law to govern their agreement, and where the state law fostered the 
+
+(Footnote continued) 
+
+
+have said nothing to question petitioners’ analysis that state 
+laws conditioning enforcement of arbitration agreements on 
+compliance with particular state requirements are preempted 
+unless they apply to contract provisions generaliy, and not 
+just to arbitration provisions. 
+
+
+While respondents baldly state that the Montana court’s 
+decision is in harmony with Terminix, Br. in Opp. 7, 8, they 
+do not and cannot reconcile the decision below with Ter- 
+minix’s reaffirmation of the preemptive scope of Section 2 as 
+recognized in this Court’s earlier decisions. See Terminix, 115 
+S. Ct. at 838-39; Perry v. Thomas, 482 U.S. 483, 489-91 & 
+492 n.9 (1987); Southland Corp. v. Keating, 465 U.S. 1, 10- 
+16 (1984); Moses H. Cone Memorial Hosp. v. Mercury 
+Constr. Co., 460 U.S. 1, 24 (1983). Respondents do not even 
+acknowledge the language in Terminix, quoted on page 13 of 
+the petition, that “States may not . . . decide that a contract is 
+fair enough to enforce all its basic terms (price, service, 
+credit), but not fair enough to enforce its arbitration clause. 
+The Act makes any such state policy unlawful . . . .” Terminix, 
+115 S. Ct. at 843 (emphasis added). Instead, like the Montana 
+court, respondents ignore the quoted passage and extol the 
+virtues of a notice statute that sleninedly anol applies only to arbi- 
+tration agreements and not to other contract terms. See Br. in 
+Opp. 8-9. Respondents, therefore, cannot avoid the inescap- 
+a conclusion that the notice statute is preempted by Section 
+
+
+federal policy favoring arbitration by addressing a practical problem that 
+the FAA failed to address. See 489 U.S. at 476 n.5, 478. It is still the case 
+that Section 2 preempts state laws that place arbitration agreements on an 
+unequal footing with other contracts, as such laws are “directly contrary to 
+the Act’s language and Congress’s intent.” Allied-Bruce Terminix Com- 
+panies v. Dobson, 115 S. Ct. 834, 843 (1995) (emphasis added). Respon- 
+dents do not take issue with petitioners’ analysis of the Montana notice 
+Statute as placing arbitration agreements on a different footing from other 
+contracts. Nevertheless, even if respondents (and the Montana Supreme 
+Court) were correct in their interpretation of Volt, the resulting tension 
+between Volt and Terminix would itself warrant this Court's review. 
+
+
+Il. THIS CASE IS APPROPRIATE FOR REVIEW. 
+
+
+Respondents attempt to minimize the conflict between the 
+decision below and the decisions of the U.S. Courts of Ap- 
+peals for the First, Second and Eighth Circuits and the Mis- 
+souri Supreme Court. See Br. in Opp. 9-13. They do so 
+principally on the ground that the parties here “selected state 
+law” but that the parties in the cases cited by petitioners did 
+not so agree. See Br. in Opp. 12. Because, as we have dis- 
+cussed, the parties did not agree to be bound by the Montana 
+notice statute relied on by the court below, respondents’ effort 
+to distinguish the contrary authority falls of its own weight. 
+Moreover, as explained in the petition, both the Second and 
+First Circuits found preemption of notice provisions after 
+Volt, with the latter expressly distinguishing Volt in finding 
+preemption under Section 2. See David L. Threlkeld & Co. v. 
+Metallgesellschaft Ltd. (London), 923 F.2d 245, 249-50 (2d 
+Cir.), cert. dismissed, 501 U.S. 1267 (1991); Securities Indus. 
+Ass'n v. Connolly, 883 F.2d 1114, 1119 n.3 (ist Cir. 1989), 
+cert. denied, 495 U.S. 956 (1990). 
+
+
+Thus, the conflict between the courts below is real and 
+substantial. Moreover, the issue is of considerable importance. 
+If the decision of the Montana Supreme Court is allowed to 
+stand, other jurisdictions hostile to arbitration may feel free to 
+follow Montana’s erroneous interpretation and application of 
+Volt and refuse to enforce arbitration agreements on the basis 
+of state-law requirements that are not applicable to contracts 
+generally. Indeed, having previously vacated the judgment 
+below and remanded the case for reconsideration in light of 
+Terminix, a decision now by this Court not to review the de- 
+cision reinstated below could mistakenly be seen as a signal 
+to other courts that the Montana court was correct in its inter- 
+pretation of the preemptive scope of Section 2. Such a result 
+would inevitably disrupt the national uniformity that Con- 
+gress sought to achieve in enacting the FAA. 
+
+
+Respondents argue that the Court should deny review and 
+wait for a future case that “may provide a more straightfor- 
+ward vehicle, without the need for this Court to engage in a 
+
+
+conflict-of-law analysis.” Br. in Opp. 13-14. But this Court 
+need not engage in any conflict-of-law analysis to resolve the 
+straightforward question presented by the petition. While, as 
+stated in the petition, petitioners believe that the Montana 
+court erred in its conflicts analysis, it is unnecessary for this 
+Court to reach out and decide that issue because the Montana 
+notice statute, which concededly applies only to agreements 
+to arbitrate and not to contracts generally, is in any event pre- 
+empted by Section 2. See Pet. 14 n.10.° 
+
+
+Respondents finally contend that review by this Court is 
+unnecessary because the Montana legislature and high court 
+have not demonstrated “hostility” toward arbitration. Br. in 
+Opp. 14-15. But the court below itself acknowledged that the 
+notice statute embodies Montana public policy that is suspi- 
+cious of arbitration as inconvenient, expensive and devoid of 
+the procedural safeguards of a judicial proceeding. Pet. App. 
+19a-20a. That attitude seems “hostile” in any normal sense of 
+that term. In any event, the fact remains that the notice statute 
+places agreements to arbitrate on a different footing from 
+other agreements, and for that reason may not be applied to 
+agreements to arbitrate that, like the one here, meet all of the 
+requirements for enforceability under the FAA. See Terminix, 
+115 S. Ct. at 838. 
+
+
+* Respondents also argue that this case is an inappropriate vehicle for 
+reaching the issue presented in the petition because the Court will be re- 
+quired to decide whether petitioner Nick Lombardi, who was not a signa- 
+tory to the agreement to arbitrate, may enforce the agreement as DAI’s 
+agent. Br. in Opp. 14; see also id. at 1 n.1. The Montana trial court, how- 
+ever, ruled that the claims against Lombardi were encompassed by the 
+arbitration agreement and that the claims against Lombardi shou!d be 
+stayed pending arbitration. Pet. App. 50a. The Montana Supreme Court 
+did not reach that specific issue. See Pet. App. 15a. This Court can there- 
+fore decide the issue presented in the petition without concerning itself 
+with whether the Montana trial court erred by staying the claims against 
+Lombardi. That issue can be raised by respondents on remand if still ap- 
+propriate. In any event, respondents’ arguments regarding Lombardi have 
+no bearing on the petition of DAI. 
+
+
+CONCLUSION 
+The petition for a writ of certiorari should be granted. 
+Respectfully submitted, 
+
+
+MARK R. KRAVITZ" 
+JEFFREY R. BABBIN 
+WIGGIN & DANA 
+One Century Tower 
+P.O. Box 1832 
+New Haven, CT 06508-1832 
+(203) 498-4400 
+
+
+H. BARTOW FARR, III 
+FARR & TARANTO 
+2445 M Street, N.W. 
+Washington, D.C. 20037 
+(202) 775-0184 
+
+
+* Counsel of Record 
+
+
+Dated: December 1, 1995 
+
+
+ee 
+
+

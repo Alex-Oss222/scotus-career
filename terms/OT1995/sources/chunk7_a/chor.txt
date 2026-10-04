@@ -1,0 +1,655 @@
+
+  
+
+    
+MARLENE CHOR and MARTIN ANDRE, Plaintiffs and Respondents, v. PIPER, JAFFRAY & HOPWOOD, INCORPORATED, and JOHN LAWRENCE SCHULTZ, Defendants and Appellants.
+
+    
+No. 92-540.
+
+    
+Submitted on July 15, 1993.
+
+    
+Decided October 18, 1993.
+
+    
+50 St.Rep. 1234
+.
+
+    
+261 Mont. 143.
+
+    
+862 P.2d 26.
+
+    
+
+      
+*145
+For Defendants and Appellants: John G. Crist and James L. Jones, Dorsey & Whitney, Billings.
+
+    
+For Plaintiffs and Respondents: Gregory O. Morgan and Charles F. Proctor, Bozeman.
+
+  
+
+  
+
+    
+CHIEF JUSTICE TURNAGE
+
+    
+delivered the Opinion of the Court.
+
+    
+The District Court for the Second Judicial District, Silver Bow County, refused to enforce three arbitration agreements entered between Marlene Chor and Piper, Jaffray & Hopwood, Inc. (Piper). Piper appeals. We reverse and remand.
+
+    
+The issues are:
+
+    
+1. Did the court err by refusing to enforce the agreements because Piper did not fully comply with Rule 21 of the National Association of Securities Dealers?
+
+    
+2. Did the District Court err by relying on Chor’s intent not to be bound by the legal consequences of the arbitration clauses in the agreements she signed?
+
+    
+
+      
+*146
+3. Did the court err by concluding the arbitration agreements are void because they are unconscionable or contracts of adhesion?
+
+    
+4. Did the court err by concluding that the agreements are void because Piper committed actual and constructive fraud by not explaining the legal implications of the arbitration clauses to Chor when she signed the agreements?
+
+    
+Marlene Chor was forty-seven years old when this matter was heard in the District Court. Although she was not a sophisticated investor in securities, she has a college degree and was president, part-owner, and operator of a million-dollar-a-year gambling machine business. She and her brother, Martin Andre, became owners of the business after their father’s death in 1985.
+
+    
+In 1988, Chor became acquainted with defendant John Schultz. Schultz was a broker for Piper and was registered as a securities salesman. Relying on Schultz’s advice, Chor invested in stock and bought an annuity through Piper. Chor testified that she signed many papers with Piper and that Schultz pointed out the important items in the documents and explained their impact to her.
+
+    
+In August of 1989, based upon Schultz’s advice and direction, Chor wrote a check for $25,000 to “The Terran Corporation” for purchase of one of the Terran investments. The following month, she wrote a check to “Terran Financial Group” in the amount of $25,000 and delivered it to Schultz for a second Terran investment. Chor received certificates of a limited partnership interest in “Terran Partners I Limited Partnership.”
+
+    
+In August of 1990, the Montana State Auditor’s Office issued a cease and desist order in connection with the sale of the Terran Partnership I Limited Partnership. Chor and Andre (who had also invested in Terran) filed this suit against Piper and Schultz. Because Andre did not sign any agreements containing arbitration clauses, Piper has not challenged the District Court’s jurisdiction to decide his claim.
+
+    
+Piper contends it had no role in marketing the Terran investments and that Schultz was acting independently in selling them to Chor. The validity of that defense has not yet been decided. Here, Piper argues that if it is held responsible in this action, Chor’s claims are subject to arbitration, pursuant to three agreements she signed.
+
+    
+The first agreement, denominated a “Co-owner Account Agreement,” was executed on June 17, 1988. Chor testified that she was led to believe the only purpose for the agreement was so that she and 
+*147
+her husband could hold an account jointly. The third page of the agreement includes a paragraph entitled “Arbitration:”
+
+    
+We agree to arbitrate any disputes between PJH and us. We specifically agree and recognize that all controversies which may arise between PJH, its agents, representatives or employees and us, concerning any transaction, account or the construction, performance or breach of this or any other agreement between us, whether entered into prior, on, or subsequent to the date hereof, shall be determined by arbitration to the full extent provided by law. Such arbitration shall be in accordance with the rules then in effect of the Arbitration Committee of the New York Stock Exchange or the National Association of Securities Dealers, Inc., as we may elect. We authorize PJH, if we do not make such election by registered mail addressed to PJH at its main office within fifteen (15) days after receipt of notification from PJH requesting such election, to make such election on our behalf.
+
+    
+On September 30, 1988, Chor signed another Co-owner Account Agreement, for an account she held with her son. That agreement contained the same arbitration provision set forth above.
+
+    
+The third arbitration agreement was contained on page 4 of a Margin Agreement Chor signed in Februaiy 1991. Chor testified she believed the purpose of the Margin Agreement was to clear up a debit balance on her account. She further testified that she believed the arbitration provision in the Margin Agreement would apply to future disputes only.
+
+    
+The District Court denied Piper’s motion to compel arbitration, stating that it first needed to rule on the validity of the arbitration agreements. It held a joint hearing on that question for purposes of this case and another case which was also appealed to this Court, 
+Mueske v. Piper, Jaffray & Hopwood 
+(1993), [
+260 Mont. 207
+], 
+859 P.2d 444
+, 
+50 St. Rep. 1009
+.
+
+    
+After the hearing, the District Court ruled that the arbitration agreements are invalid. The court concluded that: Piper failed to correct its procedures and amend its account forms to reflect new disclosure requirements under the Rules of the National Association of Securities Dealers; Chor did not intend that the arbitration clause would be utilized in the event that she was defrauded by Piper or one of its agents; the Co-owner Account Agreements are adhesion contracts which do not state their effect of waiving the right to trial by jury, and enforcement of the arbitration clauses would therefore be unconscionable; and Chor’s consent to the Co-owner Account Agree
+*148
+ments was obtained through actual and constructive fraud. Piper appeals.
+
+    
+Before we discuss the issues raised in this case, we point out that contracts requiring arbitration of disputes are as enforceable in Montana as are any other contracts. Section 27-5-114, MCA. Further, this Court has acknowledged the federal policy favoring arbitration. E.g., 
+Vukasin v. D.A. Davidson & Co. 
+(1990), 
+241 Mont. 126
+, 133, 
+785 
+P.2d 713
+, 718; Passage v. Prudential-Bache Securities, Inc. 
+(1986), 
+223 Mont. 60
+, 64, 
+727 P.2d 1298
+, 1300, cert. denied 
+480 U.S. 905
+, 
+107 S.Ct. 1347
+, 
+94 L.Ed.2d 518
+.
+
+    
+I
+
+    
+Did the court err in refusing to enforce the agreements because Piper did not fully comply with Rule 21 of the National Association of Securities Dealers?
+
+    
+The arbitration agreements between Piper and Chor are governed, through operation of their terms, by the rules of the National Association of Securities Dealers (NASD). Effective September 7, 1989, NASD Rule 21(f)(3) required that:
+
+    
+A copy of the agreement containing any such [arbitration] clause shall be given to the customer who shall acknowledge receipt thereof on the agreement or on a separate document.
+
+    
+Piper did not obtain Chor’s signature acknowledging receipt of a copy of any of the three arbitration agreements she signed.
+
+    
+However, by its own terms, NASD Rule 21 does not apply retroactively. The rule provides at subsection (f)(5) that: “The requirements of this subsection (f) shall apply only to new agreements signed ... after September 7,1989.” Therefore, the first two arbitration agreements, which Chor signed in 1988, are not subject to the requirements of Rule 21.
+
+    
+The Margin Agreement, on the other hand, is subject to Rule 21. We held in 
+Mueske 
+that failure to comply with controlling law incorporated into an arbitration agreement, such as an NASD rule, renders a pre-dispute arbitration clause invalid. 
+Mueske, 
+[
+260 Mont. 207
+], 
+859 P.2d at 447
+, 
+50 St.Rep. at 1013
+. Based on our holding in 
+Mueske, 
+we hold that the arbitration provision in the Margin Agreement between Chor and Piper is invalid for violation of NASD Rule 21(f)(3).
+
+    
+Without citing authority, the District Court concluded that the Margin Agreement superseded the two previous agreements. Chor does not defend that conclusion. Because there is nothing in the 
+*149
+Margin Agreement to indicate it supersedes or nullifies the first two agreements, and in the absence of any citation to legal authority supporting the District Court’s conclusion, we conclude that the court was in error. We will therefore proceed to analyze the remaining issues as to the first two arbitration agreements.
+
+    
+II
+
+    
+Did the District Court err by relying on Chor’s intent not to be bound by the legal consequences of the arbitration clauses in the agreements she signed?
+
+    
+As Piper has pointed out, Chor does not address this issue in her brief to this Court, effectively conceding it. When a contract is reduced to writing, the intention of the parties is to be ascertained from the writing alone, if possible. Section 28-3-303, MCA. We hold that the District Court erred in relying upon Chor’s subjective intent not to be bound by the legal consequences of the arbitration clauses in the agreements she signed.
+
+    
+Ill
+
+    
+Did the court err by concluding the arbitration agreements are void because they are unconscionable or contracts of adhesion?
+
+    
+In 
+Passage, 
+this Court held that an arbitration clause may be enforced even if the agreement in which the clause appears is an adhesion contract, absent evidence that the arbitration clause was not within the parties’ reasonable expectations or that the clause is oppressive or unconscionable. 
+Passage, 
+727 P.2d at 1302
+. Chor maintains that this case presents an exception to the general rule stated in 
+Passage 
+because, here, the District Court specifically concluded that the arbitration clauses were not within the parties’ reasonable expectations. This conclusion was erroneous, based on Chor’s own deposition testimony.
+
+    
+Chor testified that she read the arbitration agreements before signing them and that her understanding of the first agreement was “if I were to have any problems, that we would agree to arbitrate the problem.” As to her claim that she did not fully understand the legal impact of the arbitration clauses, a party cannot avoid the legal consequences of an agreement simply by later claiming that she did not understand the impact of the plain language of the contract on her legal rights. See 
+Wright v. Elevens 
+(1985), 
+217 Mont. 439
+, 444, 
+705 P.2d 113
+, 117. More specifically, “Agreements to arbitrate disputes in accordance with SEC-approved procedures are not unconscionable 
+*150
+as a matter of law.” 
+Cohen v. Wedbush, Noble, Cooke, Inc. 
+(9th Cir. 1988), 
+841 F.2d 282
+, 286.
+
+    
+Chor also claims that her agreements with Piper are contracts of adhesion.
+
+    
+Contracts of adhesion arise when a standardized form of agreement, usually drafted by the party having superior bargaining power, is presented to a party, whose choice is either to accept or reject the contract without the opportunity to negotiate its terms.
+
+    
+
+      
+Finkle and Ross v. A.G. Becker Paribas, Inc. 
+(D.C.N.Y. 1985), 
+622 F.Supp. 1505
+, 1511, as cited in 
+Passage, 
+727 P.2d at 1301
+. This claim is not convincing in light of Chor’s deposition testimony. Chor testified that since 1983 she had investment accounts with five other brokerage houses besides Piper, none of which required her to consent to arbitrate future disputes. She clearly had the ability to go elsewhere if the terms of the agreement with Piper did not suit her. Indeed, she did so in the spring of 1990, when Schultz left Piper. At that time, Chor terminated her accounts with Piper and transferred them to another brokerage firm for a few months, before returning to Piper.
+
+    
+The arbitration clauses here discussed, by their plain meaning, concern stock transactions. By no stretch of judicial fiction or fantasy does this opinion suggest that the clauses would bind Chor to arbitrate a claim based on an automobile accident with a Piper secretary, or other torts not related to stock transactions, as postulated in the concurring and dissenting opinion.
+
+    
+We hold that the District Court erred in concluding the arbitration agreements are void due to unconscionability or because they are contracts of adhesion.
+
+    
+IV
+
+    
+Did the court err by concluding that the agreements are void because Piper committed actual and constructive fraud by not explaining the legal implications of the arbitration clauses to Chor when she signed the agreements?
+
+    
+A prima facie case of actual fraud or constructive fraud would require, among other elements of proof, evidence that Piper misrepresented or omitted some material fact. 
+Van Ettinger v. Papin 
+(1978), 
+180 Mont. 1
+, 10, 
+588 P.2d 988
+, 994 (actual fraud); 
+Hartfield v. City of Billings 
+(1990), 
+246 Mont. 259
+, 263, 
+805 P.2d 1293
+, 1296 (constructive fraud). The District Court concluded that Piper made a materially false representation to Chor by failing to inform her that she waived 
+*151
+her right to a jury trial by signing the first two arbitration agreements.
+
+    
+In order for an omission, rather than an affirmative misrepresentation, to constitute fraud, the plaintiff must first demonstrate that the defendant had a duty to disclose the fact at issue. 
+Chiarella v. United States 
+(1980), 
+445 U.S. 222
+, 228, 
+100 S.Ct. 1108
+, 1114, 
+63 L.Ed.2d 348
+, 356. According to Chor, a duty arose from the commercial nature of the relationship between herself and Piper, the admissions of Piper, and § 30-10-301(1), MCA, concerning prohibited practices in securities transactions.
+
+    
+Chor cites 
+McJunkin v. Kaufman & Broad Home Systems 
+(1988), 
+229 Mont. 432
+, 
+748 P.2d 910
+, as authority establishing a duty on the part of Piper to disclose the legal effect of the arbitration clause to her, as a result of the commercial relationship between them. In 
+McJunkin, 
+the buyer of a mobile home alleged that the seller failed to inform him of structural defects therein. This Court stated:
+
+    
+We have recognized that a sufficient duty can arise in a commercial transaction such as the one at hand. [Citation omitted.] We find the defendants had a duty to refrain from intentionally or negligently creating a false impression by words or conduct. [Citations omitted.]
+
+    
+
+      
+McJunkin, 
+748 P.2d at 915
+.
+
+    
+The admissions of Piper upon which Chor relies are contained in the deposition of her Piper stockbroker. He “admitted” that he owed her a duty to assess her needs and to recommend to her appropriate investments to fit those needs. He also “admitted” that it is reasonable for a customer to rely upon her broker’s information and that the broker owes a duty to use reasonable care in giving information to customers.
+
+    
+Section 30-10-301(1), MCA, provides:
+
+    
+It is unlawful for any person, in connection with the offer, sale, or purchase of any security, directly or indirectly, in, into, or from this state, to:
+
+    
+(a) employ any device, scheme, or artifice to defraud;
+
+    
+(b) make any untrue statement of a material fact or omit to state a material fact necessary in order to make the statements made, in the light of the circumstances under which they are made, not misleading; or
+
+    
+(c) engage in any act, practice, or course of business which operates or would operate as a fraud or deceit upon any person.
+
+    
+
+      
+*152
+This Court has stated that § 30-10-301(1), MCA, creates an implied code of conduct for brokers, violation of which may constitute a breach of the duty that a broker owes to his customer. 
+Brown v. Merrill Lynch, Pierce, Fenner, Etc. 
+(1982), 
+197 Mont. 1
+, 9-10, 
+640 P.2d 453
+, 457. 
+Brown 
+involved a broker’s alleged failure to warn a customer of the amount of risk involved in a “tax straddle” investment.
+
+    
+We are unwilling to construe this Court’s rulings in 
+McJunkin 
+and 
+Brown 
+so broadly as to state that a stockbroker has a duty to disclose to his customers every possible misunderstanding which might be reached upon signing a contract. Nor do the “admissions” of Chor’s Piper stockbroker establish a duty to inform a customer of the specific legal ramifications of an agreement to arbitrate. His “admissions” only emphasize that the central focus of a relationship between a stockbroker and an investor is the wise investment of funds according to the goals of the investor.
+
+    
+In 
+Cohen, 
+the Ninth Circuit Court of Appeals considered investors’ claims of fraud against their stockbroker for persuading them to sign an agreement to arbitrate future disputes with the broker. The investors alleged that the broker had told them the agreement to arbitrate would “not compromise any of [their] rights.” 
+Cohen, 
+841 F.2d at 286
+. The Ninth Circuit stated:
+
+    
+We know of no case holding that parties dealing at arm’s length have a duty to explain to each other the terms of a written contract. We decline to impose such an obligation where the language of the contract clearly and explicitly provides for arbitration of disputes arising out of the contractual relationship.
+
+    
+
+      
+Cohen, 
+841 F.2d at 287
+. We agree with the Ninth Circuit Court of Appeals.
+
+    
+The plaintiffs’ case in 
+Cohen 
+was stronger than that of Chor, because Chor has only alleged an omission, rather than a positive misrepresentation. Further, there is no evidence that Piper or its agents concealed information from Chor. She testified that she had ample opportunity to ask questions of Schultz and that he responded to all questions she asked.
+
+    
+Chor argues that Schultz’s role as her investment advisor supports a finding that a fiduciary relationship existed between them and that his breach of his duty as a fiduciary to explain to her the effect of the arbitration clause justifies her claim of constructive fraud. Absent special circumstances, a fiduciary duty is required to prove constructive fraud. 
+Bottrell v. American Bank 
+(1989), 
+237 Mont. 1
+, 20-21, 
+773 P.2d 694
+, 706. However, “a fiduciary relationship is not 
+*153
+automatically established in a stockbroker-client relationship.” 
+United Methodist Church v. D.A. Davidson 
+(1987), 
+228 Mont. 288
+, 296, 
+741 P.2d 794
+, 799 (Sheehy, J., dissenting). In the absence of discretionaiy authority by a stockbroker to buy and sell in a customer’s account, no fiduciary relationship is created in a broker-customer relationship. 
+Caravan Mobile Home Sales v. Lehman Bros. Kuhn Loeb 
+(9th Cir. 1985), 
+769 F.2d 561
+, 567.
+
+    
+Chor has not alleged that Piper stockbrokers had discretionary authority over her accounts. She stated that Schultz “acted as if he did,” but that she made it clear to him that he did not have the authority to buy and sell stocks in her account without her permission. The District Court’s finding that Piper had de facto control over Chor’s accounts is therefore clearly erroneous.
+
+    
+Chor has provided no legal or factual reason for this Court to ignore 
+Cohen 
+and the general nde binding a person to the written agreements she enters. We conclude that no duty has been established on the part of Piper to explain to Chor, at the time the first two arbitration agreements were entered, that by signing the agreements to arbitrate future disputes, she waived her right to a jury trial. We therefore hold that the District Court erred in concluding that the arbitration agreements are void based upon actual or constructive fraud.
+
+    
+Finally, Chor maintains in her brief to this Court that the language of the arbitration agreements is too narrow to include matters outside the contracts themselves. This claim was not raised in the court below. It therefore will not be considered.
+
+    
+We hold that the arbitration agreements entered between Chor and Piper on June 17,1988, and on September 30,1988, are binding and enforceable. Reversed and remanded for further proceedings consistent with this Opinion.
+
+    
+JUSTICES HARRISON and WEBER concur.
+
+  
+
+  
+
+    
+JUSTICE NELSON
+
+    
+specially concurs and dissents.
+
+    
+I concur with the Court’s discussion and holding on issues 2., 3. and 4.1 respectfully dissent from the Court’s discussion and holding on issue 1. on the basis of my dissent in 
+Mueske v. Piper, 
+Jaffray & Hopwood, (1993) [
+260 Mont. 207
+], 
+850 P.2d 444
+.
+
+    
+Specifically, in 
+Mueske, 
+we held that a failure to comply with controlling law incorporated into an arbitration agreement, such as an NASD rule, renders a pre-dispute arbitration clause invalid. However, if the NASD rule is “controlling law”, as held by the Court 
+*154
+here and in 
+Mueske, 
+then all of the NASD rules should control. The NASD rules provide that a violation of Rule 21 can result in sanctions being issued against the violating dealer. There is no provision for invalidating the arbitration agreement in its entirety.
+
+    
+If there is some legal basis for the Court to determine that a violation of a choice of law provision
+1
+ can result in a remedy not provided for by that law, this legal basis should be clearly articulated. If there is no legal basis for allowing this remedy, one should not be artificially created.
+
+    
+For the foregoing reasons, I respectfully dissent from the Court’s decision on Issue 1.
+
+    
+JUSTICE GRAY concurs in the foregoing special concurrence and dissent.
+
+    
+
+      
+1
+
+      
+ I do not believe that the reference by the District Court or by this Court to the provision at issue as being one of “choice of law” is accurate in the context in which that concept is usually understood.
+
+    
+
+  
+
+  
+
+    
+JUSTICE TRIEWEILER
+
+    
+concurring in part and dissenting in part.
+
+    
+I concur with the majority’s conclusions under Issues I and II.
+
+    
+I dissent from the majority’s conclusions under Issues III and IV.
+
+    
+However, it is not necessary to conclude that the arbitration clauses at issue are contracts of adhesion, nor that they were induced by fraud. Neither federal nor state law permits enforcement of any provision so broad as the arbitration agreements relied on in this case. In fact, I conclude that the arbitration clauses in plaintiffs’ contracts with Piper, Jaffray 
+& 
+Hopwood, Inc., are void by reason of the fact that they violate public policy in the State of Montana. To explain why that conclusion is necessary, further factual background is helpful.
+
+    
+The arbitration clauses relied on by PJH and enforced by the majority’s decision were included in two co-owner account agreements signed by plaintiff Marlene Chor. The first agreement was entered into among PJH, Marlene Chor, and her husband, John Michael Chor, on June 17, 1988. It related only to PJH account number 730-194699-500. Its purpose was to authorize either of the co-owners of that account to deal with PJH individually and provided that each co-owner would be bound by the actions and decisions of the other with regard to that account.
+
+    
+
+      
+*155
+The second co-owner account agreement was entered into among PJH, Marlene Chor, and her son, John Martin Chor. It related to PJH account number 730-194696-500. Its purpose was the same as the previous co-owner account agreement, but related to a different account owned by different parties.
+
+    
+The fact that the two agreements were separate agreements relating to different subject matters and involving different parties is evident from the fact that two separate agreements were required by PJH.
+
+    
+Referring to the two co-owner account agreements and the margin agreement in its appellate brief, PJH’s attorneys correctly pointed out that “[e]ach agreement is a separate document, executed at a different time. The three agreements created three separate and distinct accounts with different account numbers. Even the parties are different.”
+
+    
+The cause of action which is the subject of this appeal is based on plaintiffs’ allegation that John Schultz, while employed by PJH, sold Marlene Chor and her brother, Martin Andre, unregistered Terran Partnership investments in violation of the Montana Securities Act. This transaction was unrelated to any of the three accounts for which Marlene Chor had signed co-owner account agreements or a margin agreement. In fact, it is PJH’s position that it neither underwrote nor marketed the Terran Partnership securities and that Schultz was unauthorized by PJH to sell them.
+
+    
+The point of all this background is that PJH is relying on an arbitration provision in three account agreements to compel arbitration of a dispute arising out of a transaction which is unrelated to any of those accounts, and therefore, unrelated to those specific agreements.
+
+    
+According to PJH, because the arbitration provision in its co-owner account agreements is so broad, once Marlene Chor signed them, she became bound to arbitrate every future dispute with PJH, regardless of the basis for that dispute. In other words, based on the arbitration agreement in the co-owner account agreements, if one of PJH’s secretaries ran over Marlene Chor while she was a pedestrian crossing a Butte city street with a green light and a dispute arose over liability for that collision, Marlene Chor would be bound to arbitrate that dispute and would be denied her right of access to Montana’s courts and her right to a jury trial.
+
+    
+To approve enforcement of an arbitration provision so broad, under the circumstances in this case, is unconscionable and shows a blatant 
+*156
+disregard for the importance of access to our courts and the jury system.
+
+    
+The public policy in Montana is clearly set forth at § 28-2-708, MCA, where it provides that:
+
+    
+Every stipulation or condition in a contract by which any party thereto is restricted from enforcing his rights under the contract by the usual proceedings in the ordinary tribunals or which limits the time within which he may thus enforce his rights is void. This section does not affect the validity of an agreement enforceable under Title 27, chapter 5.
+
+    
+Title 27, chapter 5, is known as Montana’s Uniform Arbitration Act. Section 27-5-114, MCA, of the Act provides that with some exceptions, an agreement to submit a controversy to arbitration is a valid and enforceable agreement. However, an important qualification is found in subsection (4) which provides:
+
+    
+Notice that a contract is subject to arbitration pursuant to this chapter shall be typed in underlined capital letters on the first page of the contract; and unless such notice is displayed thereon, the contract may not be subject to arbitration.
+
+    
+Neither of the two co-owner account agreements complied with this requirement. However, more importantly, a contract to purchase an interest in the Terran Partnership was a separate agreement for which no notice whatsoever was given that plaintiff would be required to arbitrate disputes arising from that transaction.
+
+    
+It is correct that, to the extent Montana’s public policy requiring a judicial forum for the resolution of claims is inconsistent with federal policy, Montana’s policy is preempted. 
+Southland Corp. v. Keating 
+(1984), 
+465 U.S. 1
+, 
+104 S. Ct. 852
+, 
+79 L. Ed. 2d 1
+. However, the Federal Arbitration Act is not inconsistent in this respect.
+
+    
+Piper, Jaffray & Hopwood concedes that the Federal Act’s starting point for determining whether this claim must be arbitrated is found at 
+9 U.S.C. § 2
+ (1925). That section provides, in relevant part, as follows:
+
+    
+A written provision in any ... contract evidencing a transaction involving commerce to settle by arbitration a controversy thereafter 
+arising out of such contract or transaction, 
+or the refusal to perform the whole or any part thereof, or an agreement in writing to submit to arbitration an existing controversy 
+arising out of such a contract, 
+transaction, or refusal, shall be valid, irrevocable, and enforceable, save upon such grounds as exist at law or in equity for the revocation of any contract. [Emphasis added].
+
+    
+
+      
+*157
+All that is authorized by § 2 of the Federal Arbitration Act is a contract provision requiring arbitration of disputes which arise from the contract which includes the arbitration provision. There is nothing in the Federal Arbitration Act which allows a party to a contract to include in that contract the requirement that the other party to the contract submit every future dispute between the parties to arbitration regardless of whether the future dispute relates to the contract in question. To include such a sweeping provision in a contract of adhesion, like the one in question, is simply unconscionable.
+
+    
+While on the subjects of adhesion and unconscionability, it is important to take a look at this Court’s previous analysis of brokerage agreements in the context of the District Court’s findings in this case.
+
+    
+In 
+Passage v. Prudential-Bache Securities, Inc. 
+(1986), 
+223 Mont. 60
+, 
+727 P.2d 1298
+, we cited with approval the following rule from 
+Finkle and Ross v. A.G. Becker Paribas, Inc. 
+(D.C.N.Y. 1985), 
+622 F. Supp. 1505
+, 1511-12:
+
+    
+Contracts of adhesion arise when a standardized form of agreement, usually drafted by the party having superior bargaining power, is presented to a party, whose choice is either to accept or reject the contract without the opportunity to negotiate its terms, (citation omitted.) Here, the investor is faced with an industrywide practice of including Arbitration Clauses in standardized brokerage contracts. As the investor faces the possibility of being excluded from the securities market unless he accepts a contract with such an agreement to arbitrate, such clauses come within the adhesion doctrine.
+
+    
+
+      
+Passage, 
+727 P.2d at 1301
+.
+
+    
+The District Court made the following findings of fact which satisfy the above legal criteria of an adhesion contract:
+
+    
+19. ... The co-owner account agreement was drafted by PJH, printed on PJH form, and filled out by Schultz....
+
+    
+20. Schultz presented the co-owner account agreement to her representing that it was necessary to sign it in order to open the account. Chor was given no alternative to signing.
+
+    
+21. O’Neil further testified that the customer had no choice in agreeing to arbitration. If a customer refused to so agree, O’Neil said he would refuse to accept the account. He stated the customer would 
+“go 
+down the road” and do business elsewhere.
+
+    
+The above findings are supported by substantial evidence. They clearly satisfy the requirements for an adhesion contract, as set forth 
+*158
+above. By finding that this contract was not a contract of adhesion, the majority simply retried that issue of fact.
+
+    
+Establishment of an adhesion contract is, however, not the end of our inquiry. The rule cited in 
+Passage 
+goes on to provide:
+
+    
+However, mere inequality in bargaining power does not render a contract unenforcible [sic], (citation omitted) nor are all standardized contracts unenforcible [sic], (citations omitted.) As a consequence of current commercial realities, form forum clauses will control, absent a strong showing it should be set aside, (citation omitted.) For such a contract or clause to be void, it must fall within judicially imposed limits of enforcement. It will not be enforced against the weaker party when it is: (1) not within the reasonable expectations of said party or (2) within the reasonable expectations of the party, but, when considered in its context, is unduly oppressive, unconscionable or against public policy.
+
+    
+
+      
+Passage, 
+727 P.2d at 1301-02
+. While the arbitration agreements in 
+Passage andFinkle 
+were found to be within the investor’s expectation and consistent with public policy, the arbitration provisions in this case were neither. In this regard, the District Court made the following findings, which were supported by substantial evidence:
+
+    
+21. Marlene Chor testified that she understood the purpose of this co-owner account agreement (Chor’s Exhibit No. 4) was to create a joint account.
+
+    
+27. The document, on its face, is called a co-owner 
+account 
+agreement. The 
+“important notice: please read carefully” 
+notice on the front page deals entirely with the type of account. The identification of the name of the account on the front page was printed by someone else.
+
+    
+28. On the third page of the agreement (Chor’s Exhibit No. 4), there appears a paragraph entitled “arbitration:” in the following language:
+
+    
+[Agreement deleted].
+
+    
+29. The insertion of the arbitration provision in the co-owner account agreement alters the stated purpose of the document from a joint account agreement to one establishing a joint account and requiring arbitration of “all controversies which may arise ....”
+
+    
+30. Schultz did not point out or explain what the arbitration clause meant. There is nothing on the front page of the co-owner account agreement which indicates that the document contains an 
+*159
+arbitration clause. Nor is there anything on the signature page of the document which indicates that the document contains an arbitration clause.
+
+    
+31. Marlene Chor testified that she thought the effect of the arbitration clause was that if there were a dispute that they would first negotiate it. As a lay person, Marlene Chor interpreted the provision as merely one step in the process prior to court action. She did not understand that it meant she was waiving her right to the courts and a jury trial.
+
+    
+32. Furthermore, the co-owner account agreement does not state anywhere that she waived her right to a jury trial.
+
+    
+33. Holland admitted in testimony that it would take someone with legal training or actual experience with arbitration to discern from the agreement that its effect is to waive due process through the Montana court, including the right to a jury trial. Yet, PJH apparently still expected the customer to sign an agreement containing an arbitration clause.
+
+    
+34. Both PJH’s branch manager, Tom O’Neil, and Chor’s current personal account representative, Mike Holland, testified that they were not attorneys and therefore could not explain how the arbitration clause required waiving the right to a jury trial but that they were aware that through their own experience that is the effect.
+
+    
+35. PJH has stipulated in the record that Chor had no input in drafting the co-owner account agreements she signed. PJH took advantage of their superior bargaining position with regard to Chor in that, as the drafter of the document, PJH knew that the effect of the document was to accomplish more than to set up a joint account. Yet, PJH failed to inform Chor of that effect of the document and now seeks to take advantage to the detriment of Chor of their superior bargaining power and knowledge which was not revealed by either their agent or the document itself. Now, PJH wishes to deny Chor the right to seek relief in the Montana courts.
+
+    
+The District Court clearly found that the result of the arbitration provision, which the maj ority enforced, was not within the reasonable expectations of Marlene Chor. Those findings were supported by substantial evidence. Therefore, according to this Court’s prior authority, the arbitration clause is not enforceable. Even if the clause had been found to be within Marlene Chor’s reasonable expectations, it would not be enforceable under the authority of 
+Finkle 
+and 
+Passage 
+
+      
+*160
+because it was unconscionable and against public policy for the reasons set forth previously.
+
+    
+As a result of the majority’s decision in this case, an unsophisticated member of the consuming public can sign a form agreement prepared by a large corporation with superior bargaining power, assuming that it relates to a limited transaction, and later find that they have lost all future rights of access to Montana’s courts in any future disputes with that corporation, no matter how totally unrelated to the subject of the original contract.
+
+    
+With court dockets being as overcrowded as they are, the rush of the federal judiciary and this Court to embrace arbitration is understandable. However, the majority’s willingness to, in the process, ignore fundamental constitutional rights such as access to our courts and the right to jury trial, is not so understandable. For these reasons I dissent from the majority opinion.
+
+    
+I also conclude that the District Court correctly found that Marlene Chor was induced by constructive fraud to enter into these arbitration agreements, because PJH breached its duty to properly inform her of the consequences of the agreement. However, because I conclude that the arbitration provisions are unenforceable based on the above discussion, I feel it is unnecessary to discuss further that part of the majority opinion.
+
+    
+JUSTICE HUNT joins in the foregoing concurrence and dissent.
+
+  
+

@@ -1,0 +1,957 @@
+Y 
+
+
+(R 
+
+
+iv 
+if 
+” 
+
+
+No. 95-559 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+DOCTOR’S ASSOCIATES, INC. 
+and NICK LOMBARDI, 
+
+
+Petitioners, 
+Vv. 
+
+
+PAUL CASAROTTO and PAMELA CASAROTTO, 
+Respondents. 
+
+
+On Writ of Certiorari to 
+the Supreme Court of Montana 
+
+
+BRIEF FOR THE INTERNATIONAL 
+FRANCHISE ASSOCIATION AND THE SECURITIES 
+INDUSTRY ASSOCIATION, AS AMICI CURIAE 
+SUPPORTING PETITIONERS 
+
+
+JOHN F. VERHEY MATTHEW R. SHAY 
+Counsel of Record THE INTERNATIONAL 
+Lewis G. RUDNICK FRANCHISE ASSOCIATION 
+RUDNICK & WOLFE 1350 New York Avenue, N.W. 
+203 North LaSalle Street Suite 900 
+Suite 1800 Washi n, D.C. 20005 
+Chicago, Illinois 60601 (202) 5000 
+(312) 368-4000 WILLIAM J. FITZPATRICK 
+Counsel for Amici Curiae SECURITIES INDUSTRY 
+ASSOCIATION 
+120 Broadwa 
+New York, 10271 
+(212) 608-1500 
+
+
+Midwest Law Printing Co., Chicago 60610, (312) 321-0220 
+
+
+TABLE OF CONTENTS 
+
+
+I 
+
+
+MONTANA’S STATUTORY NOTICE PROVI- 
+SION FOR ARBITRATION IS PREEMPTED 
+BY THE FEDERAL ARBITRATION ACT .... 
+
+
+A. The Montana Supreme Court’s Decision 
+Prior Decisions Of This Court 
+And Other Lower Federal Courts .... 
+
+
+B. The Montana Supreme Court’s Decision 
+Distorts This Court’s Reasoning In Volt . 
+
+
+Il. 
+
+
+THE MONTANA SUPREME COURT’S DE- 
+CISION REPRESENTS UNSOUND PUBLIC 
+PUEME cccccccccccconcccsccccccccovecees 
+
+
+15 
+
+
+ii 
+TABLE OF AUTHORITIES 
+
+
+CASES 
+
+
+Albright v. Edward D. Jones & Co., 571 N.E.2d 
+1329 (Ind. Ct. App. 1991), cert. denied, 113 S. 
+Ce. GR CRORE .. cccccctcvecccossénenunnnee 
+
+
+Allied-Bruce Terminix Companies, Inc. v. Dobson, 
+
+
+115 S. Ct. 834 (1995) .............. 4, 10, 11, 
+
+
+American Physicians Service Group, Inc. v. Port 
+Lavaca Clinic Assoc., 843 S.W.2d 675 (Tex. Ct. 
+App. 1992) (en banc), writ of error denied (Tex. 
+Ape. Bl, TGR) <ccccccccpccccocuveuseapmecs 
+
+
+Carnival Cruise Lines, Inc. v. Shute, 111 S. Ct. 
+MEER CBD E). x0 000 cankécnteanssh eee 
+
+
+Collins Radio Co. v. Ex-Cell-O Corp., 467 F.2d 995 
+th Cir. ITD) .. cocccccccccccvcnaseesepess 
+
+
+David L. Threlkeld & Co., Inc. v. M 
+schaft, Ltd. (London), 923 F.2d 245 (2d Cir,), 
+cert. dismissed, 501 U.S. 1267 (1991)....... 
+
+
+Gilmer v. Interstate/Johnson Lane Corp., 111 S. Ct. 
+IOGT CIBDE) 2.0 occccccecenseceseunaneenee 
+
+
+Mastrobuono v. Shearson Lehman Hutton, Inc., 
+115 &. O%. BBRB GED occ ccccsssacesensuees 
+
+
+Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, 
+Inc., 473 U.S. 614 (1985) .........cceeeeees 
+
+
+Perry v. Thomas, 482 U.S. 483 (1987) ... 6, 9, 10, 
+
+
+Securities Indus. Ass’n v. Connolly, 883 F.2d 1114 
+(1st Cir. 1989), cert. denied, 495 U.S. 956 (19990) . 
+
+
+Shearson/American Express, Inc. v. McMahon, 482 
+US. SD (ORF) oc ccccscevcsssscueunaneeueee 
+
+
+PAGE 
+
+
+15, 16 
+
+
+16 
+12, 14 
+
+
+11 
+
+
+16 
+
+
+Southland Corp. v. Keating, 465 U.S. 1 (1984) ... 
+SORSSCSOseeecerecoccccccocccoeccees 6, 9, 10, 12, 14 
+
+
+Volt Information Sciences, Inc. v. Board of Trustees 
+of Leland Stanford Junior University, 489 U.S. 
+
+
+tT Siete eecedeceeedocee 6, 7, 8, 9, 10, 12, 13 
+Webd v. R. Rowland & Co., 800 F.2d 808 (8th Cir. 
+
+EE EEE LE LESS ll 
+STATUTES 
+LEE 6, 9, 10 
+
+
+No. 95-559 
+
+
+In THE 
+
+
+Supreme Court of the United States 
+
+
+OcToBerR Term, 1995 
+
+
+DOCTOR’S ASSOCIATES, INC. 
+and NICK LOMBARDI, 
+
+
+Petitioners, 
+
+
+v. 
+
+
+PAUL CASAROTTO and PAMELA CASAROTTO, 
+Respondents. 
+
+
+On Writ of Certiorari to 
+the Supreme Court of Montana 
+
+
+BRIEF FOR THE INTERNATIONAL 
+FRANCHISE ASSOCIATION AND THE SECURITIES 
+INDUSTRY ASSOCIATION, AS AMICI CURIAE 
+SUPPORTING PETITIONERS 
+
+
+INTEREST OF THE AMICI CURIAE 
+
+
+The International Franchise Association (“IF A”), founded 
+in 1960, is the oldest and largest trade association in the 
+world representing the interests of franchising. IFA has 
+more than 750 franchisor members and, since first inviting 
+franchisees to join in 1993, has already attracted more 
+than 27,000 franchisee members. IFA serves as a resource 
+center for current and prospective franchisors and fran- 
+
+
+—2— 
+
+
+chisees, state and federal government agencies, and the 
+public. IFA also represents the interests of franchising 
+before legislatures, the courts, and the public. The Asso- 
+ciation has been instrumental in promoting balanced leg- 
+islation to regulate franchising practices in the United 
+States. 
+
+
+A franchise is a contractual relationship in which the 
+franchisor, the owner of a business concept and associated 
+trademarks or service marks, authorizes a franchisee to 
+conduct a business that is identified by the franchisor’s 
+marks and uses the franchisor’s format and operating sys- 
+tem. The contractual relationship is defined by a franchise 
+or license agreement, which sets forth the respective 
+obligations of the franchisor and franchisee. To promote 
+uniformity in their franchise networks, franchisors utilize 
+standardized agreements. However, such “form” agree- 
+ments are frequently subject to negotiation. An increas- 
+ing number of franchising companies, in an effort to 
+resolve disputes with their franchisees in the least costly, 
+least disruptive and most expeditious manner possible, in- 
+clude in their franchise agreements an undertaking to re- 
+solve disputes by arbitration, binding on both the fran- 
+chisor and the franchisee. Such agreements obligate the 
+parties to arbitrate disputes, usually under the auspices 
+of the American Arbitration Association or similar organ- 
+ization, and often in the home state of the franchisor. In 
+the past year alone, almost 400 arbitrations involving fran- 
+chise relationships were initiated with the American Ar- 
+bitration Association. 
+
+
+The Securities Industry Association (“SIA”) is a not-for- 
+profit corporation formed under the laws of Delaware. 
+SIA is the securities industry trade association represent- 
+ing the interests of more than 700 securities firms in 
+
+
+== 
+
+
+North America, which collectively account for 90% of se- 
+curities firms’ revenue in the United States. 
+
+
+The relationship between SIA members and their cus- 
+tomers, particularly those who borrow money from mem- 
+ber , or who trade in options, is sometimes governed by 
+a written agreement which contains a clause requiring the 
+arbitration of disputes. Most of these agreements also con- 
+tain a choice-of-law provision. SIA has a deep concern that 
+these agreements be enforced in accordance with the terms 
+of the Federal Arbitration Act (“FAA”). SIA has been 
+a successful plaintiff against the Commonwealth of Massa- 
+chusetts and the State of Florida in cases to enforce arbi- 
+tration clauses despite restrictive state laws or regula- 
+tions. Consistent enforcement of arbitration agreements 
+is important to both SIA members and their customers 
+since inconsistent enforcement of the FAA will lead to 
+uncertainty and confusion for both parties to the contract. 
+
+
+Historically, many state courts and state legislatures 
+have looked with disfavor on arbitration, especially when 
+it occurred as the result of a pre-dispute agreement to 
+arbitrate. Whether this reluctance to honor agreements 
+to arbitrate stemmed from the belief that arbitration did 
+not afford the same procedural or substantive safeguards 
+as litigation, or whether it grew out of the states’ desire 
+to preserve in-state forums for their citizens, the end 
+result was that arbitration agreements were routinely dis- 
+regarded. With the passage of the FAA and rigorous en- 
+forcement of arbitration agreements under the FAA, espe- 
+cially by federal courts, most state courts and legislatures 
+grudgingly accepted arbitration as a legitimate means of 
+resolving disputes. In the past several years, however, 
+a backlash has occurred. A number of states, including 
+Montana and most recently California, have enacted stat- 
+utes that, under the guise of ensuring that arbitration 
+
+
+Supreme Court is but the latest example, have held other- 
+
+
+ments for unfavorable treatment. 
+
+
+Amici are vitally concerned about this case because per- 
+mitting the most recent decision of the Montana Supreme 
+Court to stand, particularly after this Court’s summary 
+vacatur and remand of the case for consideration in light 
+of Allied-Bruce Terminix Companies, Inc. v. Dobson, 115 
+S. Ct. 834 (1995), will encourage other state courts and 
+legislatures to undertake similar steps to undercut the en- 
+
+
+= 
+
+
+the strong federal policy favoring arbitration. Legislatures 
+will continue to enact statutes that impose burdensome 
+conditions on the formation or performance of arbitration 
+agreements. And courts will continue to invoke these stat- 
+utes to overturn arbitration agreements either by disre- 
+garding parties’ choice-of-law clauses or, what is worse, 
+by applying these clauses ostensibly to honor the parties’ 
+“intention” to forgo arbitration in the face of an unam- 
+biguous agreement to arbitrate. As a result, franchisors 
+and securities firms that include arbitration provisions in 
+their form agreements will either be forced to tailor their 
+agreements to the laws of 50 different states or forgo the 
+many advantages inherent in the arbitration process. Even 
+now, the inconsistent treatment of arbitration agreements 
+caused by state notice provisions introduces great uncer- 
+tainty into the enforcement of those agreements and 
+spawns satellite litigation over the enforceability of the 
+notice provisions thai threatens to erase the benefits of 
+economy and efficiency that arbitration was originally in- 
+tended to produce. 
+
+
+Pursuant to Rule 37.3 of the Rules of this Court, IFA 
+and SIA, respectfully submit this brief as amici curiae 
+in support of petitioners. Because many IFA members, 
+both franchisors and franchisees, and many securities 
+firms, utilize arbitration as a means of resolving disputes, 
+IFA and SIA have a substantial interest in the outcome 
+of this case and are able to provide an additional and 
+broader prospective on the issues presented. IFA and SIA 
+believe this brief will assist the Court in analyzing and 
+resolving these issues. The parties have consented to the 
+filing of this brief, and their written consents have been 
+filed with the Clerk of Court. 
+
+
+_* 
+
+
+SUMMARY OF ARGUMENT 
+
+
+In the decision below, the Montana Supreme Court per- 
+sists in underestimating the preemptive reach of Section 
+2 of the FAA by holding that Montana’s notice require- 
+ment for arbitration agreements does not violate the Su- 
+premacy Clause. In doing so, the Montana Supreme Court 
+continues to disregard two controlling decisions of this 
+Court, Southland Corp. v. Keating, 465 U.S. 1 (1984), and 
+Perry v. Thomas, 482 U.S. 483 (1987), both of which held 
+that states may not restrict the enforceability of agree- 
+ments to arbitrate except on “grounds as exist at law or 
+in equity for the revocation of any contract.” 9 U.S.C. § 2. 
+Since Montana’s notice requirement is directed exclusively 
+at arbitration provisions and not at any other contractual 
+terms, it is preempted by the FAA. In addition to conflict- 
+ing with Southland and Perry, the Montana Supreme 
+Court’s decision also runs directly contrary to the deci- 
+sions of the three federal courts of appeals that have ad- 
+dressed the issue, all of which held that state arbitration 
+notice requirements are preempted by the FAA. Instead 
+of following these decisions, the court below in its initial 
+opinion relied on two intermediate state courts in Indiana 
+and Texas that upheld similar notice provisions. Reversal 
+of the decision below is necessary to signal to state courts 
+and legislatures that, for purposes of preemption under 
+the FAA, burdening the enforceability of arbitration agree- 
+ments with a notice provision is no different than declaring 
+those agreements unenforceable per se. 
+
+
+By maintaining that Montana’s notice provision does not 
+undermine the goals and policies of the FAA because it 
+ensures consensual arbitration, the Montana Supreme 
+Court also continues to distort this Court’s holding in Volt 
+Information Sciences, Inc. v. Board of Trustees of Leland 
+Stanford Junior University, 489 U.S. 468 (1989). The deci- 
+
+
+= ™ 
+
+
+sion in Volt was premised on the notion that the primary 
+purpose of the FAA is to enforce privately negotiated 
+agreements to arbitrate, even where those agreements 
+allow for arbitration to be stayed pending the resolution 
+of related litigation. Because the parties here chose the 
+AAA’s Commercial Arbitration Rules and Connecticut 
+law, not Montana law, to govern their arbitration agree- 
+ment, Volt requires that their choice be upheld and not, 
+as the Montana Supreme Court reasoned, that another 
+state’s law be substituted that would invalidate the parties’ 
+agreement to arbitrate. In addition, although in Volt this 
+Court observed that the FAA does not entirely preempt 
+state arbitration laws, and in particular state laws govern- 
+ing the procedures under which arbitration is conducted, 
+the Montana Supreme Court perverted this holding into 
+a license to enforce a state arbitration law that went to 
+the very substance of the right to arbitrate, prohibiting 
+arbitration from occurring altogether. The Montana Su- 
+preme Court’s conclusion that the FAA mandates the en- 
+forcement only of those arbitration agreements that are 
+entered into “knowingly,” which Montana’s notice provi- 
+sion is purportedly designed to promote, flies in the face 
+of the FAA’s insistence that arbitration agreements be 
+placed on the same footing as other agreements. Because 
+of the purported solicitude for arbitration of the major- 
+ity of the Montana Supreme Court, when in fact its deci- 
+sion and the statute it enforced are based on hostility to 
+arbitration agreements, it is crucial that this Court re- 
+verse the Montana Supreme Court’s most recent decision 
+in this case to discourage similar attempts by state courts 
+and legislatures to undermine the FAA on the pretext 
+of furthering its goals and policies. 
+
+The Montana Supreme Court’s decisions below are also 
+premised on judicial and legislative hostility to arbitra- 
+
+
+$= 
+
+
+tion, which has long been discredited by this Court in 
+view of the many advantages that arbitration affords over 
+traditional litigation. These advantages include speed, 
+economy, adjudicative expertise and the capacity to pre- 
+serve long-term relationships once the dispute is resolved. 
+To enforce statutes like Montana’s either would deprive 
+the parties to a franchise relationship of these advantages 
+altogether, or would seriously impede the use of arbitra- 
+tion in the franchise relationship by forcing franchisors 
+to tailor their contract documents to meet the arbitration 
+requirements of 50 different states. Moreover, the Montana 
+Supreme Court’s reasoning is based on unsupported and 
+unfounded assumptions regarding the negotiability of arbi- 
+tration agreements and the role of forum-selection clauses 
+in those agreements. 
+
+
+ARGUMENT 
+
+
+MONTANA’S STATUTORY NOTICE PROVISION FOR 
+ARBITRATION IS PREEMPTED BY THE FEDERAL 
+ARBITRATION ACT 
+
+
+In maintaining that the FAA does not preempt Montana’s 
+statute requiring that a contract containing an arbitration 
+agreement include a conspicuous notice to that effect on 
+the face of the contract, the Montana Supreme Court con- 
+tinues to disregard two of this Court’s controlling prece- 
+dents and a substantial number of lower federal court de- 
+cisions that flatly refute the Montana Supreme Court’s 
+holding. In so doing, the Montana Supreme Court has 
+severely restricted the preemptive reach of the FAA. 
+Moreover, to justify its hostility to arbitration, the Montana 
+Supreme Court persists in distorting this Court’s holding 
+in Volt Information Sciences, Inc. v. Board of Trustees 
+
+
+_- 
+
+
+7 
+
+
+of Leland Stanford Junior University, 489 U.S. 468 (1989), 
+into a license to disregard arbitration agreements on the 
+pretext of honoring the parties’ intentions. 
+
+
+A. The Montana Supreme Court’s Decision Disregards Prior 
+Decisions Of This Court And Other Lower Federal Courts 
+
+
+In the decision below, the Montana Supreme Court “re- 
+affirm[ed] and reinstate{d]” its prior holding that the 
+Montana notice provision is not preempted by Section 2 
+of the FAA because the notice requirement does not un- 
+dermine the goals and policies of the FAA. App. A at 
+7a. In so doing, however, the Montana Supreme Court 
+continues to disregard this Court’s controlling decisions 
+in Southland Corp. v. Keating, 465 U.S. 1 (1984), and 
+Perry v. Thomas, 482 U.S. 483 (1987). In holding that a 
+provision of the California Franchise Investment Law re- 
+quiring judicial consideration of claims brought under the 
+statute was preempted by the FAA, this Court in South- 
+land declared that state law may limit the enforceability 
+of agreements to arbitrate only upon “ ‘grounds as exist 
+at law or in equity for the revocation of any contract.’ ” 
+465 U.S. at 11 (quoting 9 U.S.C. § 2) (emphasis added). 
+Likewise, in Perry, this Court struck down a provision 
+of the California Labor Code, which precluded arbitration 
+of wage collection claims, on the ground that the Califor- 
+nia law did not “{arise] to govern issues concerning the 
+validity, revocability, and enforceability of contracts gen- 
+erally,” but rather “(took] its meaning precisely from the 
+fact that a contract to arbitrate is at issue.” 482 U.S. at 
+492 n. 9. 
+
+
+The Montana statute at issue here is preempted by the 
+FAA because it clearly “takes its meaning precisely from 
+the fact that a contract to arbitrate is at issue.”” Montana 
+does not require that any other contractual provision be 
+
+
+—10— 
+
+
+flagged with a conspicuous notice provision on the first 
+page of the contract. Arbitration agreements alone are 
+burdened with this requirement in Montana—burdened, 
+in that the absence of such a notice renders the agree- 
+ment to arbitrate unenforceable. Under this Court’s deci- 
+sions in Southland and Perry, therefore, the Montana 
+statute is preempted by the FAA. -— 
+
+
+Indeed, in a recent pronouncement on the FAA, this 
+Court reaffirmed that, under its holdings in Southland and 
+Perry, the FAA preempts state laws that seek to invali- 
+date arbitration agreements. See Allied-Bruce Terminix 
+Companies, Inc. v. Dobson, 115 S. Ct. 834 (1995); accord 
+Mastrobuono v. Shearson Lehman Hutton, Inc., 115 S. 
+Ct. 1212, 1215-16 (1995). In Terminix, this Court decisively 
+rejected a request to overrule Southland and permit state 
+courts to apply their own anti-arbitration laws regardless 
+of whether interstate commerce was involved, holding that 
+Southland was well-established law and that, consequent- 
+ly, Alabama could not apply its statute barring pre-dispute 
+arbitration agreements to invalidate an arbitration pro- 
+vision. Terminix, 115 S. Ct. at 838-39. After observing 
+that the “basic purpose of the Federal Arbitration Act 
+is to overcome courts’ refusal to enforce agreements to 
+arbitrate” and to place those agreements “ ‘upon the same 
+footing as other contracts,’ ” id. at 838 (quoting Volt, 489 
+U.S. at 474), Justice Breyer, writing for this Court, con- 
+cluded that while “States may regulate contracts, includ- 
+ing arbitration clauses, under general contract law prin- 
+ciples and they may invalidate an arbitration clause ‘upon 
+such grounds as exist at law or in equity for the revoca- 
+tion of any contract’[,] . . . [wJhat States may not do is 
+decide that a contract is fair enough to enforce all its basic 
+terms (price, service, credit), but not fair enough to en- 
+force its arbitration clause,” Terminix, 115 S. Ct. at 843 
+(quoting 9 U.S.C. § 2) (emphasis in original). 
+
+
+= = 
+
+
+Montana has done precisely what this Court and numer- 
+ous other federal and state courts over the past decade 
+have held that it cannot do: It has decided that contracts 
+are fair enough to enforce all their basic terms, even ab- 
+sent a special notice designed to bring the existence of 
+those terms to the parties’ attention, but that arbitration 
+agreements are not fair enough to enforce without such 
+a notice. Since this Court in Terminix made clear that 
+state laws that place arbitration agreements “on an un- 
+equal footing” by definition undermine the goals and poli- 
+cies of the FAA, Terminiz, 115 S. Ct. at 843, the Montana 
+Supreme Court’s refusal on remand to the principles 
+reaffirmed in Terminix requires out r 
+
+
+The Montana Supreme Court’s holding also disregards 
+the contrary decisions from the three federal courts of 
+appeals that have addressed the issue, all of which have 
+invalidated arbitration notice provisions similar to the 
+Montana statute. See, e.g., David L. Threlkeld & Co., Inc. 
+v. Metallgesellschaft, Ltd. (London), 923 F.2d 245, 249-50 
+(2d Cir.), cert. dismissed, 501 U.S. 1267 (1991) (invalidating 
+a Vermont statute that required agreements to arbitrate 
+to be “prominently displayed” in contracts and signed by 
+the parties); Securities Indus. Ass’n v. Connolly, 883 F.2d 
+1114, 1120 (1st Cir. 1989), cert. denied, 495 U.S. 956 (1990) 
+(invalidating a state regulation requiring full written dis- 
+closure of “the legal effect of the pre-dispute arbitration 
+contract or clause’’); Webb v. R. Rowland & Co., 800 F.2d 
+803, 806-07 (8th Cir. 1986) (invalidating a requirement that 
+contracts highlight the existence of arbitration clauses in 
+10-point capital letters); Collins Radio Co. v. Ex-Cell-O 
+Corp., 467 F.2d 995, 997-99 (8th Cir. 1972) (invalidating 
+a requirement that arbitration agreements bear an attor- 
+ney’s acknowledgement that all parties have been advised 
+of the agreement’s effects). Instead, the Montana Supreme 
+
+
+atin 
+
+
+Court has joined a growing number of state courts that 
+have reinvigorated the former hostility to arbitration by 
+concluding that arbitration notice provisions do not run 
+afoul of the FAA. See, e.g., American Physicians Service 
+Group, Inc. v. Port Lavaca Clinic Assoc., 843 S.W.2d 675, 
+678 (Tex. Ct. App. 1992) (en banc), writ of error denied 
+(Tex. Apr. 21, 1998); Albright v. Edward D. Jones & Co., 
+571 N.E.2d 1329, 1332-38 (Ind. Ct. App. 1991), cert. denied, 
+113 S. Ct. 61 (1992). In addition, a number of states have 
+similar laws that single out arbitration agreements for un- 
+favorable treatment by regulating the placement and ac- 
+knowledgment of arbitration agreements in certain types 
+of contracts.2 Courts in those states could well be en- 
+couraged by the Montana Supreme Court’s decision below 
+to uphold similar anti-arbitration statutes against pre- 
+emption attacks. Thus, there is a compelling need for this 
+Court to reverse the decision of the Montana Supreme 
+Court in order to signal to state courts and legislatures 
+that, for purposes of preemption under the FAA, statu- 
+tory notice provisions for arbitration are no less hostile 
+to arbitration than were the statutes at issue in Southland 
+
+
+and Perry. 
+
+
+B. The Montana Supreme Court’s Decision Distorts This 
+Court’s Reasoning In Volt 
+
+
+In sustaining the Montana statute against a preemption 
+attack, the Montana Supreme Court persists in its dis- 
+tortion of this Court’s reasoning in Volt in several re- 
+spects. First, the decision below completely disregards 
+the parties’ arbitration agreement. As this Court observed 
+in Volt, the primary purpose of the FAA is to enforce 
+
+
+2 See Petition for a Writ of Certiorari, at 23 nn. 20 & 21 (citing 
+statutes). 
+
+
+=}— 
+
+
+“privately negotiated arbitration agreements”; thus, par- 
+ties to an arbitration agreement should be “‘at liberty to 
+choose the terms under which they will arbitrate.” 489 
+U.S. at 472. Here, the parties chose the AAA’s Commer- 
+ee ant camedian tow, ast Montene 
+
+, to govern arbitration agreement. Since neither 
+Connecticut law nor the AAA’s rules nor the FAA condi- 
+
+
+the existence of a notice provision, Volt cannot support 
+ae ree nee ty Oe Caren Syyseme- Cont. On 
+
+
+Second, the Montana Supreme Court’s unduly narrow 
+interpretation of the scope of federal preemption of state 
+
+
+FAA” because Congress never intended to preempt the 
+entire field of aryitration and because the FAA does not 
+require parties to arbitrate when they have not agreed 
+to do so. App. B at 26a. The Montana Supreme Court re- 
+affirmed that holding in its most recent opinion, finding 
+
+
+in its earlier opinion. However, this Court’s statement in 
+Volt that the FAA does not entirely preempt state arbi- 
+tration law was made in reference to a California pro- 
+cedural statute that merely had the effect of delaying an 
+arbitration until after litigation of related claims had 
+
+
+—— 
+
+
+occurred—and under circumstances where the parties had 
+chosen that law to govern their arbitration. Thus, the 
+California law affected only the timing of arbitration, and 
+did not purport to prohibit arbitratx n altogether. Here, 
+however, the Montana Supreme Court has 
+Volt to permit a state to ban arbitration in its entirety, 
+the existence of an arbitration agreement 
+enforceable under the laws of the parties’ own choosing. 
+Even if the parties had chosen Montana law to govern 
+their franchise agreement, the Montana Supreme Court’s 
+holding would still be indefensible, because choice-of-law 
+clauses, like arbitration agreements generally, must be 
+construed in light of the federal presumption that resolves 
+all doubts in favor of arbitrability. See Mastrobuono, 115 
+S. Ct. at 1218 & n. 8. 
+
+
+Nor does the justification offered by the Montana Su- 
+preme Court for its holding—that the FAA mandates the 
+enforcement only of those arbitration agreements that are 
+“knowingly” entered into—survive scrutiny. Since the 
+“knowing” requirement applies only to arbitration agree- 
+ments and not to contracts generally in Montana, it is pre- 
+empted under Southland and Perry. Although Montana 
+could ban all standard form contracts in an effort to en- 
+sure that parties with inferior bargaining power “know” 
+what they are agreeing to, it cannot impose this require- 
+ment only on arbitration agreements. Behind Montana’s 
+preoccupation with ensuring that arbitration agreements 
+are “knowingly” entered into lies considerable legislative 
+and judicial hostility toward arbitration. Because the Mon- 
+
+
+tana Supreme Court’s purported solicitude for arbitration — 
+
+
+may encourage other state courts or legislatures to em- 
+ploy similar artifices to turn the FAA on its head, it is 
+critical that this Court reverse decision below. 
+
+
+in non-negotiated form contracts between parties of un- 
+equal bargaining power. These anti-arbitration sentiments, 
+barely concealed in the initial majority opinion of the Mon- 
+tana Supreme Court, came to the surface in the special 
+concurring opinion of Justice Trieweiler filed with the in- 
+itial majority opinion. App. B at 28a-32a. Although the 
+Montana Supreme Court has since attempted to distance 
+itself from those sentiments as the basis for its holding, 
+especially in light of the language in Terminiz “extolling 
+the virtues of arbitration,” App. A at 7a (citing Terminiz, 
+115 3. Ct. at 843), its continuing animosity to arbitration 
+is apparent when it attributes this Court’s recognition of 
+the benefits of arbitration to partisan “input” from the 
+AAA. App. A at 7a. There is little question that the Mon- 
+tana Supreme Court’s holding continues to be motivated 
+by a distrust of arbitration and the benefits it affords. 
+
+
+i Hy He Hat SH tiee 
+ia a 
+TAR Hy 
+7 ayetgiye ih ut Rit 
+nu THEE bt ay 
+
+Ih deed is EL 
+aS THT He 
+LUAU INE ER 
+Hae Ht ae 
+! Fertil a Hal 
+ig a 
+aibeelai AU alaiel 
+HEREU Le i eae 
+
+
+=ii— 
+
+
+For largely similar reasons, the informality and often 
+less adversarial nature of arbitration are important be- 
+cause they enhance the prospect that a franchisor and its 
+franchisee will be able to honor their contractual obliga- 
+tions while the arbitration is pending and put aside their 
+differences once the arbitration has concluded, keeping 
+their relationship intact. Franchise relationships are unique 
+in today’s business world because they typically run for 
+a period of ten to twenty years. Since disputes are more 
+likely to arise in a relationship of that length, arbitration 
+offers a method for resolving those disputes while preserv- 
+ing the long-term nature of the relationship. Moreover, 
+because arbitration is more flexible with regard to sched- 
+uling times and places of hearings, it tends to be less 
+disruptive of the day-to-day operations of franchisors and 
+franchisees alike, an important consideration in light of 
+the fact that many franchisors and franchisees are small 
+businesses with limited personnel. Finally, arbitration also 
+offers the parties to a franchise relationship the option 
+of having an individual experienced in franchising adjudi- 
+cate their dispute. Because franchising is a unique form 
+of business organization and is subject to a wide array 
+of registration, disclosure and relationship laws, franchis- 
+ing expertise is often a sought-after qualification of ar- 
+bitrators chosen to decide franchise disputes. 
+
+
+Moreover, there is nothing inherent in the arbitration 
+process itself that favors franchisors over franchisees. Con- 
+trary to the anti-arbitration sentiments expressed in the 
+initial special concurring opinion of Justice Trieweiler, 
+App. B at 28a-32a, franchisees are often sophisticated, 
+multi-unit operators who, on their own behalf or through 
+counsel, negotiate the terms of their franchise agreements, 
+including whether and under what circumstances arbitra- 
+tion of disputes will occur. Although arbitration agree- 
+
+
+forum where it can resolve them as cost-effectively as pos- 
+sible. It is certainly no more burdensome for an individual 
+franchisee to arbitrate once in the franchisor’s home state 
+
+
+dispute subject to arbitration is instead resolved in a 
+judicial forum but also when parties, encouraged by anti- 
+arbitration decisions like those of the Montana Supreme 
+Court in this case, initiate satellite litigation such as this 
+to challenge the enforceability of agreements to arbitrate. 
+Even if the franchisor ultimately succeeds on appeal in 
+enforcing the agreement to arbitrate, significant judicial 
+resources will often have been spent on both the trial and 
+
+
+appellate level in reaching that result. 
+
+
+However, these benefits of arbitration will be realized 
+by franchisors (and franchisees), as well as the judicial 
+system as a whole, only if state courts and state legisla- 
+tures are reminded that attempts to undermine the en- 
+
+
+—20— 
+
+
+forceability of agreements to arbitrate, like Montana’s, will 
+not go unnoticed by this Court. Otherwise, state legisla- 
+tures will be unleashed to formulate all manner of require- 
+ments for, and obstacles to, arbitration agreements, and 
+the sound public policy that underlies the FAA will be 
+subverted. Although it may seem theoretically possible 
+for a national franchisor to track such rules and adjust 
+the arbitration provisions of its contracts to meet their 
+requirements, in practice this would prove extremely bur- 
+densome and probably impossible. 
+
+
+Even if national franchisors undertook the burdensome 
+task of tailoring their contract documents to meet the 
+varying and often conflicting arbitration laws of 50 differ- 
+ent states, they would not be assured of having their ar- 
+bitration agreements enforced, as this case itself demon- 
+strates. A court—like the Montana Supreme Court in this 
+case—may simpiy choose to disregard the parties’ choice- 
+of-law clause out of hostility toward arbitration and apply 
+a state notice requirement or other state anti-arbitration 
+law that the parties never expected, much less intended, 
+would be applied to their relationship. Since a nationwide 
+franchisor cannot anticipate in what state it might be sued 
+or what state’s arbitration statute might apply, it has no 
+effective means of assuring that it can partake of the 
+benefits of arbitration that Congress sought to promote 
+by enacting the FAA. 
+
+
+What has been written above concerning franchisors is 
+equally true for securities firms. Most of SIA’s members 
+do business in multiple states, some in all states. Firms 
+use a universal agreement for all customers and expect 
+them to be enforced equally in all jurisdictions. Montana, 
+by singling out arbitration clauses for special notices not re- 
+quired for any other type of contract or clause, has created 
+
+
+wali 
+
+
+costly obstacles to the ability to use universal agreements 
+in the securities industry while also violating the purpose 
+and intent of Section 2 of the FAA. 
+
+Furthermore, once a franchise agreement or securities 
+customer agreement containing an arbitration clause is 
+signed, it cannot be amended to comply with a subse- 
+quently enacted precondition to the validity and enforce- 
+ability of the arbitration clause. It is far from clear under 
+current law that such a legislative enactment would not 
+be applied to a preexisting contract on the basis that it 
+changed substantive rights, since a court could construe 
+a dispute resolution provision as purely procedural in 
+nature. Thus, the validity of tens of thousands of arbitra- 
+tion agreements may be made uncertain retroactively by 
+the enactment of such legislation, resulting in extensive 
+litigation to determine whether particular state-imposed 
+requirements for arbitration agreements are preempted 
+by the FAA. It is far sounder public policy to reiterate 
+the long-standing and well understood rule that the FAA 
+preempts any state requirement that segregates arbitra- 
+tion agreements from other contracts and imposes precon- 
+ditions to their validity and enforceability that are not 
+applicable to contracts generally. This Court should defini- 
+tively and finally close the door to such state efforts to 
+undermine arbitration agreements governed by the FAA. 
+
+
+—22— 
+
+
+CONCLUSION 
+
+
+IFA and SIA respectfully request that this Court 
+reverse the decision of the Montana Supreme Court and 
+remand the case to that court with instructions to enforce 
+the arbitration clause at issue. 
+
+
+Respectfully submitted, 
+
+
+JOHN F. VERHEY MATTHEW R. SHAY 
+Counsel of Record THE INTERNATIONAL 
+Lewis G. RUDNICK FRANCHISE ASSOCIATION 
+RUDNICK & WOLFE 1350 New York Avenue, N.W. 
+203 North LaSalle Street Suite 900 
+Suite 1800 Washi n, D.C. 20005 
+Chicago, Illinois 60601 (202) 
+(312) 368-4000 WILLIAM J. FITZPATRICK 
+Counsel for Amici Curiae SECURITIES INDUSTRY 
+ASSOCIATION 
+120 Broadwa 
+New York, 10271 
+(212) 608-1500 
+
+
+Dated: February 16, 1996 
+
+

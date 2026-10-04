@@ -1,0 +1,1637 @@
+In THE 
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+Docror’s ASSOCIATES, INC. and Nick LOMBARDI, 
+Petitioners, 
+Vv. 
+
+
+PAuL CASAROTTO, ET UX., 
+Respondents. 
+
+
+On Writ of Certiorari to the 
+Supreme Court of Montana 
+
+
+BRIEF FOR PETITIONERS 
+
+
+Marx R. Kravitz * 
+
+JEFFREY R. BABBIN 
+WIGGIN & DANA 
+One Century Tower 
+P.O. Box 1832 
+New Haven, CT 06508-1882 
+(208) 498-4400 
+
+H. BARTOW FARR, IIT 
+FARR & TARANTO 
+2445 M Street, N.W. 
+Washington, D.C. 20087 
+(202) 775-0184 
+
+* Counsel of Record 
+
+
+- Witson - Evrae Proerrine Co., lec. - 789-0096 - WasHINGeTON, D.C. 80001 
+
+
+- 
+: Pot ee Pe) > 
+
+
+QUESTION PRESENTED 
+
+
+Whether Section 2 of the Federal Arbitration Act (9 
+U.S.C. § 2)—which makes written agreements to arbi- 
+trate “valid, irrevocable, and enforceable, save upon such 
+grounds as exist at law or in equity for the revocation 
+of any contract”—preempts a state law that makes agree- 
+ments to arbitrate, but not other agreements, unenforce- 
+able unless a specific notice of the arbitration agreement 
+is placed on the first page of the contract. 
+
+
+ii 
+
+
+STATEMENT PURSUANT TO RULE 24.1(b) 
+
+
+Daniel L. Hudson, Deb Hudson, and D&D Subway 
+Corporation are parties to the proceedings in the Mon- 
+tana Eighth Judicial District Court. They were not par- 
+ties to the appeal in the Supreme Court of Montana and 
+are omitted from the caption in this Court. 
+
+
+The list required by Rule 29.6 can be found on page ii 
+of the Petition for a Writ of Certiorari. 
+
+
+Page 
+QUESTION PRESENTED  ..n.........:ccccccessceeesecceseveneeseees i 
+STATEMENT PURSUANT TO RULE 24.1(b) .......... ii 
+TABLE OF AUTHORITIES 2..0..........0.c.cccccccsecceeseceseeeees iv 
+cr 1 
+Ee 1 
+STATUTORY PROVISIONS INVOLVED ..................... 2 
+EEE 2 
+SUMMARY OF ARGUMENT .0.0.0000......cccccccccscceceeeeeeeees 9 
+ARGUMENT .. — - 12 
+
+
+I. THE FEDERAL ARBITRATION ACT PRE- 
+EMPTS MONTANA'S STATUTORY RESTRIC- 
+TION ON ENFORCEMENT OF ARBITRA- 
+TION AGREEMENTS . sopennenpeeane 12 
+
+
+A. Montana’s Arbitration Notice Requirement 
+Places Montana Law in Direct Conflict with 
+
+
+B. Volt Does Not Support the Montana Supreme 
+Court’s Erroneous eee of the 
+Scope of Section 2 . , 19 
+
+
+Il. THE MONTANA SUPREME COURT'S DE- 
+CISION THREATENS TO DISRUPT THE 
+NATIONAL POLICY OF ENFORCING ARBI- 
+TRATION AGREEMENTS .............. ae 23 
+
+
+3 
+
+
+iv 
+TABLE OF AUTHORITIES 
+
+
+CASES Page 
+“< Beals Co. v. Rhode Island Hospital, 292 A.2d 
+FS SO ee 28 
+Allied-Bruce Terminiz Companies v. Dobson, 115 
+QO GQ OES passim 
+Bunge Corp. v. Perryville Feed & Produce, Inc., 
+685 S.W.2d 887 (Mo. 1965) ................................. 16, 23 
+Carnival Cruise Lines, Inc. v. Shute, 499 U.S. 585 
+SER Es a aes n anne 25 
+Collins Radio Co. v. Ex-Cell-O Corp., 467 F.2d 995 
+RE eS 16, 23 
+
+
+David L. Threlkeld & Co. v. Metaligesellachaft Ltd., 
+923 F.2d 245 (2d Cir.), cert. dismissed, 501 U.S. 
+
+
+fi 16, 22, 23 
+Dean Witter Reynolds, Inc. v. Byrd, 470 U.S. 218 
+
+EC 12 
+Doctor's Associates, Inc. v. Casarotto, 115 S. Ct. 
+
+A EES 5 «LE 1,8 
+Dowd v. First Omaha Securities Corp., 495 N.W.2d 
+
+ar ES EO EN 22 
+Gilmer v. Interstate/Johnson Lane Corp., 500 U.S. 
+
+FRE cert ee 12, 18, 25 
+Godwin v. Stanley Smith & Sons, 386 S.E.2d 464 
+
+YS ee 28 
+Hefele v. Catanzaro, T27 S.W.2d 475 (Mo. Ct. App. 
+
+ee ee ee 28 
+Joder Building Corp. v. Lewis, 569 A.2d 471 (Vt. 
+
+AA ELEC OTL 1 TLE T TE ALN: | E 28 
+King v. Postal Annex, Inc., No. CV-94-011-GF 
+
+ )  §  & ee 16, 23 
+Mastrobuono v. Shearson Lehman Hutton, Inc., 
+
+116 8. Ce. 1818 (1906) ........................... 10, 17, 20, 21, 27 
+McCarney v. Nearing, Staats, Prelogar & Jones, 
+
+866 S.W.2d 881 (Mo, Ct. App. 1998) .............. 28 
+Mitsubishi Motors Corp. v. Soler Chrysler- 
+
+Plymouth, Inc., 4738 U.S. 614 (1985) ........ 12, 24, 25, 29 
+Moses H. Cone Memorial Hospital v. Mercury Con- 
+
+struction Co., 460 U.S. 1 (19838) .......... 10, 12, 13, 18, 24 
+Perry v. Thomas, 482 U.S. 483 (1987) ........ 10, 15, 18, 19, 
+
+
+v 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+Rodriguez de Quijas v. Shearson/American Exr- 
+press, Inc., 490 U.S. 477 (1989) WW .. 18 
+Saturn Distribution Corp. v. Williams, 905 F.2d 
+719 (4th Cir.), cert. denied, 498 U.S. 983 
+0 FRE RS SS ee ee eee 22 
+Scherk wv. Alberto-Culver Co., 417 U.S. 506 
+EES se ee ee ae ee 12, 25 
+Securities Industry Association v. Connolly, 883 
+F.2d 1114 (1st Cir. 1989), cert. denied, 495 U.S. 
+956 (1990) ............ ae 16, 22, 23 
+Shearson/American Express, Inc. v. McMahon, 
+ -. 2,  — , es 12, 18, 15, 19, 24, 25 
+Snap-On Tools Corp. v. Vetter, 888 F. Pe 
+REE ES A en . 16, 28 
+
+
+Southland Corp. v. Keating, 465 US. 1 (1984). passim 
+Stewart Organization Inc. v. Ricoh Corp., 487 
+
+
+REESE ESS RE TE NS Ss 25 
+The Bremen v. Zapata Off-Shore Co., 407 US. 1 
+EE Me Boe 25 
+
+
+Volt Information Sciences, Inc. v. Board of Trus- 
+tees of Leland Stanford Junior University, 489 
+
+
+U.S. 468 (1989) ..passim 
+Webb v. R. Rowland & Co., 800 F.2d 808 (8th Cir. 
+pe aia EE en et 16, 23 
+
+
+Woermann Construction Co. v. Southwestern Bell 
+a. Co., 846 S.W.2d 790 (Mo. Ct. dined 
+
+
+1993) . eal 28 
+STATUTES 
+0 4 eae sainicettetiiilh scsinandeitmnsbdedl passim 
+EES oe Se 21 
+EEE aaa ine 21 
+CE EE 1 
+Cal. Bus. & Prof. Code § 7191 (West 1995) ......... 
+
+
+26 
+Cal. Health & Safety Code § 1363.1 (West Supp. 
+
+RRP AEE 8 eee) a SE 26 
+Cal. Ins. Code § 10123.19 (West Supp. 1996) et Se 26 
+Cal. Ins. Code § 11512.38 (West Supp. 1996) . 26 
+
+
+vi 
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+Conn. Gen. Stat. § 52-408 (1995) 0... 7 
+Ga. Code Ann. § 9-9-2(c) (8), (9) (Michie Supp. 
+
+EE er re ee 26, 27 
+lowa Code Ann. § 679A.1(2)(c) (West 1987) ...... 26 
+Mo. Ann. Stat. § 485.460 (Vernon 1992) ................. 26, 28 
+Mont. Code Ann. § 27-5-114(2) (1995) ................. 27 
+Mont. Code Ann. § 27-5-114(4) (1995) .2, 3, 6, 12, 17, 28 
+R.I. Gen. Laws § 10-3-2 (Supp. 1995) .................... 26 
+S.C. Code Ann. § 15-48-10(a) (Law. Co-op. Supp. 
+
+RE ee ey rere 26 
+Tenn. Code Ann. § 29-5-302(a) (Supp. 1995) ....... 26 
+Tex. Civ. Prac. & Rem. Code Ann. § 171.001(b), 
+
+Ff Fr 27 
+Tex. Rev. Civ. Stat. Ann. art. 224(b), (c) ............ 27 
+Vt. Stat. Ann. tit. 12, §5652(b) (Supp. 1995)... 26 
+
+MISCELLANEOUS 
+Uniform Arbitration Act (1955), 7 U.LA. 1 
+
+(West 1985 & Supp. 1995) .................................. 17 
+Martin Domke, 2 Domke on Commercial Arbitra- 
+
+tion App. VII(A) (rev. ed. 1995) —.................... 25 
+Henry C. Strickland, The Federal Arbitration 
+
+Act’s Interstate Commerce Requirement: What's 
+
+Left for State Arbitration Law?, 21 Hofstra L. 
+
+SS Fo SER ae 23, 27 
+
+
+In THE 
+Supreme Court of the United States 
+
+
+OcTosper Term, 1995 
+
+
+No. 95-559 
+
+
+Doctor's ASSOCIATES, INC. and Nick LOMBARDI, 
+
+
+7 Petitioners, 
+
+
+PAUL CASAROTTO, ET UX., 
+Respondents. 
+
+
+On Writ of Certiorari to the 
+Supreme Court of Montana 
+
+
+BRIEF FOR PETITIONERS 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the Supreme Court of Montana is re- 
+ported at 901 P.2d 596. The prior opinion of the Mon- 
+tana Court in this case is reported at 268 Mont. 
+369, 886 P.2d 931. Both opinions are reprinted in full 
+in the Joint Appendix at 48-59 and 12-47, respectively. 
+The oe ae eee ee 
+reported at 115 S. Ct. 2552. The order of the Montana 
+Eighth Todicial District Court is not reported but is re 
+n full in the Joint Appendix at 10-11. 
+
+
+JURISDICTION 
+
+
+The Supreme Court of Montana entered judgment on 
+August 31, 1995. The petition for a writ of certiorari 
+was filed on October 2, 1995, and was granted on Janu- 
+ary 5, 1996. The jurisdiction of this Court is invoked 
+pursuant to 28 U.S.C. § 1257(a). 
+
+
+printed in 
+
+
+2 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+Section 2 of the Fed*ral Arbitration Act, 9 U.S.C. 
+§ 2, provides: 
+
+
+Validity, irrevocability, and enforcement of agree- 
+ments to arbitrate 
+
+
+A written provision in any maritime transaction or 
+a contract evidencing a transaction involving com- 
+merce to settle by arbitration a controversy thereafter 
+arising out of such contract or transaction, or the 
+refusa! to perform the whole or any part thereof, or 
+an agreement in writing to submit to arbitration an 
+existing controversy arising out of such a contract, 
+transaction, or refusal, shall be valid, irrevocable, 
+and enforceable, save upon such grounds as exist at 
+law or in equity for the revocation of any contract. 
+
+
+Section 27-5-114(4), Montana Code Annotated, pro- 
+vides: 
+Notice that a contract is subject to arbitration pur- 
+suant to this chapter shall be typed in underlined 
+capital letters on the first page of the contract; and 
+
+
+unless such notice is displayed thereon, the contract 
+may not be subject to arbitration. 
+
+
+The full text of Section 27-5-114, which governs the 
+validity of arbitration agreements under Montana law, is 
+set out in an appendix to this brief. 
+
+
+STATEMENT 
+
+
+This case arises from the refusal of the Montana Su- 
+preme Court to enforce an agreement by the parties to 
+arbitrate their disputes. The court did not reach that 
+result because the parties had failed to comply with the 
+requirements under federal law for enforcing an agree- 
+ment to arbitrate. Quite the opposite. It is undisputed 
+that the parties’ agreement to arbitrate met every require- 
+ment of Section 2 of the Federal Arbitration Act 
+(“FAA”), 9 U.S.C. § 2, which makes written arbitration 
+
+
+3 
+
+
+agreements involving interstate commerce “valid, irrevo- 
+cable, and enforceable, save upon such grounds as exist 
+at law or in equity for the revocation of any contract.” 
+Nevertheless, the Montana Supreme Court held that the 
+agreement was unenforceable because it did not comply 
+with a state law—applicable only to arbitration agree- 
+ments—that invalidates agreements to arbitrate unless 
+notice that a contract is subject to arbitration is typed 
+in underlined capital letters on the first page of the con- 
+tract. See Mont. Code Ann. § 27-5-114(4) (1995). In 
+so doing, the court rejected Petitioners’ argument that the 
+notice requirement is preempted by Section 2 of the FAA. 
+App. 21-28. 
+
+
+Petitioner Doctor's Associates, Inc. (“DAI”) is the na- 
+tional and international franchisor of “Subway” sandwich 
+shops. App. 83; see App. 10. At the time of this dispute, 
+DAI had sold a total of over 8,500 Subway franchises 
+throughout the United States. App. 84. Today, Subway 
+has sold more than 10,000 franchises nationwide. Peti- 
+tioner Nick Lombardi is DAI’s Development Agent in 
+Montana. See App. 13. During the events in question, 
+DAI was a Connecticut corporation with its principal 
+place of business in Milford, Connecticut. App. 84. 
+
+
+In April 1988, DAI entered into a franchise agree- 
+ment with Paul Casarotto, which permitted Casarotto to 
+open a Subway sandwich shop in Montana. App. 64-78.’ 
+The franchise agreement was a standard contract that 
+DAI used with all its franchisees throughout the United 
+States. The agreement authorized Casarotto to operate 
+a Subway sandwich shop and granted him a license to 
+use DAI’s federally-registered “SUBWAY” trademarks 
+and service marks. App. 65. It also contained an express 
+arbitration clause providing that “[a]ny controversy or 
+claim arising out of or relating to this contract or the 
+breach thereof shall be settled by Arbitration in accord- 
+
+
+— ——EE 
+
+
+' Two months later, he traveled to DAI’s headquarters in Connec- 
+ticut to attend training sessions for new franchisees. App. 87. 
+
+
+4 
+
+
+ance with the Commercial Arbitration Rules of the Amer- 
+ican Arbitration Association.” App. 75.* Another section 
+of the franchise agreement stated that “[t]his Agreement 
+shall be governed by and construed in accordance with 
+the laws of the State of Connecticut.” App. 77. Just 
+above the signature block, the agreement provided: 
+“Each of the parties hereto acknowledges that he has 
+read and understands this Agreement and consents to be 
+bound by all of its terms and conditions.” App. 78.° 
+
+
+When a dispute later arose, Casarotto ignored the 
+agreement to arbitrate and filed an action against DAI, 
+
+
+2 The full text of the arbitration clause (App. 75) provides as 
+follows: 
+
+
+Any controversy or claim arising out of or relating to this 
+contract or the breach thereof shall be settled by Arbitration in 
+accordance with the Commercial Arbitration Rules of the 
+American Arbitration Association at a hearing to be held in 
+Bridgeport, Connecticut and judgment upon an award rendered 
+by the Arbitrator(s) may be entered in any court having juris- 
+diction thereof. The commencement of arbitration proceedings 
+by an aggrieved party to settle disputes arising out of or relat- 
+ing to this contract is a condition precedent to the commence- 
+ment of legal] action by either party. The cost of such a pro- 
+ceeding will be borne equally by the parties. 
+
+
+® Paul Casarotto filed an affidavit in the Montana state district 
+court, averring that “I read the agreement over before I signed it,” 
+although he goes on to state that “no one ever told or explained to 
+me that the agreement contained an arbitration clause or that the 
+agreement was to be interpreted according to the laws of the State 
+of Connecticut.” App. 87. DAI also provided Casarotto a detailed 
+franchise offering circular that contained the following statement 
+on the first page: “READ ALL OF YOUR CONTRACT CARE- 
+FULLY. BUYING FRANCHISE [sic] IS A COMPLICATED 
+INVESTMENT. TAKE YOUR TIME TO DECIDE. IF POSSI- 
+BLE, SHOW YOUR CONTRACT AND THIS INFORMATION TO 
+AN ADVISOR, SUCH AS A LAWYER OR AN ACCOUNTANT.” 
+App. 62. The offering circular stated that the franchise agreement 
+provided for binding arbitration of any claim of breach of the 
+agreement in accordance with the Commercial Rules of the American 
+Arbitration Association at a hearing to be held in Bridgeport, 
+Connecticut, with costs to be borne equally by the parties. App. 63. 
+
+
+3 
+
+
+Lombardi and others in the Montana Eighth Judicial Dis- 
+trict Court, Cascade County.* The suit alleged that 
+Casarotto had entered into the franchise agreement and 
+had opened a Subway store on the west side of Great 
+Falls in reliance on representations of DAI and Lombardi 
+that he would have an exclusive right to open another 
+store in a different part of town when that location be- 
+came available. Casarotto claimed that, contrary to his 
+understanding with DAI and Lombardi, they had awarded 
+the other location to another franchisee and that they 
+had interfered with efforts to sell his store. The com- 
+plaint asserted state-law contract, tort and statutory 
+claims against DAI and Lombardi. Amended Verified 
+Complaint, filed Nov. 4, 1992; see App. 13-14. 
+
+Citing the arbitration provisions in the franchise agree- 
+ment, DAI and Lombardi moved in the state district 
+court to dismiss or stay the lawsuit pending arbitration. 
+They argued that Section 2 of the FAA required arbitra- 
+tion of the claims; that the FAA preempted state laws 
+that impede enforcement of any agreement to arbitrate; 
+and that, to the extent state law was even relevant, Mon- 
+tana law was inapplicable because the contract specified 
+the parties’ choice of Connecticut law, under which the 
+agreement to arbitrate was enforceable. See App. 15. 
+DAI also filed with the American Arbitration Association 
+a Demand for Arbitration of Casarotto’s claims. App. 
+79-82; see App. 11. 
+
+
+* The suit named Pau! Casarotto and his wife, Pamela Casarotto, 
+as plaintiffs. Paul and Pamela Casarotto asserted claims against 
+defendants other than DAI and Lombardi with whom they did not 
+have an arbitration agreement. Those claims were not the subject 
+of the opinions and orders below. With respect to the claims as- 
+serted against DAI and against Lombardi as DAI’s Development 
+Agent, only Paul Casarotto had entered into the franchise agree- 
+ment, and it is clear from the complaint that only he, and not his 
+wife, is asserting claims against DAI and Lombardi. See Amended 
+Verified Complaint, filed Nov. 4, 1992, Counts 9, 11 and 13. How- 
+ever, the opinions below referred to the plaintiffs in the plural and 
+treated both plaintiffs alike. 
+
+
+6 
+
+
+The Montana district court granted Petitioners’ motion 
+to stay the lawsuit as against them pending arbitration. 
+The court found that the parties’ franchise agreement 
+involved interstate commerce within the meaning of Sec- 
+tion 2, that the agreement’s arbitration clause encom- 
+passed the claims against DAI and Lombardi, and that 
+DAI had properly demanded arbitration of those claims. 
+Accordingly, the court stayed the litigation against DAI 
+and Lombardi “until the arbitration has been had in 
+accordance with the terms of the arbitration agreement.” 
+App. 10-11. 
+
+
+The Montana Supreme Court reversed. The court did 
+not question that the arbitration agreement met all the 
+requirements of federal law. The court also left undis- 
+turbed the district court’s rulings that the agreement 
+involved interstate commerce and covered the claims 
+against DAI and Lombardi, and that DAI’s arbitration 
+demand complied with the agreement. The Montana Su- 
+preme Court nonetheless refused to enforce the arbitra- 
+tion agreement because it did not comply with a provision 
+of Montana’s arbitration act, see Mont. Code Ann. 
+§ 27-5-114(4) (1995), which makes an arbitration agree- 
+ment unenforceable unless the contract containing that 
+agreement also contains a notice, in underlined capital 
+letters on its first page, that it is subject to arbitration. 
+The Montana statute, by its terms and as interpreted by 
+the Montana Supreme Court (App. 20-21), affects the 
+enforceability of arbitration agreements but not other 
+types of contracts. 
+
+
+The decision of the Montana Supreme Court not to 
+enforce the agreement to arbitrate proceeded in several 
+steps. First, before reaching the question whether the 
+FAA preempts state arbitration law, the court determined 
+that it would apply Montana law to the franchise agree- 
+ment. Although the parties had explicitly provided in 
+their contract that it would be construed in accordance 
+with Connecticut law, the Montana Supreme Court re- 
+jected that selection and ruled that Montana law governed, 
+
+
+7 
+
+
+reasoning that the state’s arbitration notice statute (which 
+has no counterpart in Connecticut law) embodied a fun- 
+damental public policy that could not be thwarted by the 
+parties’ choice of a different state’s law. According to 
+the court, the public policy of requiring notice of a con- 
+tractual arbitration clause reflected state legislative con- 
+cerns that Montanans receive sufficient notice before 
+agreeing to a dispute resolution method that was poten- 
+tially inconvenient, expensive and devoid of the proce- 
+dural safeguards of a judicial proceeding. App. 20-21. 
+
+
+Having decided that the parties’ contract was governed 
+by Montana law, and because the contract did not contain 
+the notice required by Montana law, the Montana Su- 
+preme Court next considered whether the FAA preempted 
+Montana’s arbitration notice statute. The court acknowl- 
+edged decisions of this Court holding that Section 2 of 
+the FAA created federal substantive law binding on the 
+states on the issue of the enforceability of arbitration agree- 
+ments, App. 21-23, but interpreted Volt Information Sci- 
+ences, Inc. v. Board of Trustees of Leland Stanford Junior 
+University, 489 U.S. 468 (1989), as retreating from ear- 
+lier authority by allowing courts to deny enforcement of 
+arbitration agreements based on state arbitration laws 
+so long as those laws do not “undermine the goals and 
+policies of the FAA.” App. 24-26. The court declined 
+to follow decisions by several federal courts of appeals 
+and one state supreme court that had held similar state 
+notice requirements preempted by the FAA, because those 
+decisions either preceded Volt or, according to the Mon- 
+y court, contained little or no reference to Volt. App. 
+
+
+The Montana court thus concluded that “we must rely 
+on our own analysis of whether Montana’s notice require- 
+
+
+5 Connecticut law is virtually identical to the FAA in the condi- 
+
+
+tions it imposes for enforcing agreements to arbitrate. See Conn. 
+Gen. Stat. § 52-408 (1995). 
+
+
+8 
+
+
+ment undermines the goals and policies of the FAA.” 
+App. 27. The court observed that a notice statute ensuring 
+that parties had “knowingly” entered into an arbitration 
+agreement was consistent with the policies underlying the 
+FAA, and therefore was not preempted, because “the 
+FAA does not require parties to arbitrate when they have 
+not agreed to do so.” App. 27. The court thus held that 
+the agreement to arbitrate, but no other term of the fran- 
+chise agreement, was unenforceable.° 
+
+
+Last Term, this Court vacated the judgment of the 
+Montana Supreme Court and remanded the case for fur- 
+ther consideration in light of Allied-Bruce Terminix Com- 
+panies v. Dobson, 115 S. Ct. 834 (1995), which had 
+been decided after the Montana court rendered its deci- 
+sion. Doctor's Associates, Inc. v. Casarotto, 115 S. Ct. 
+2552 (1995). The Montana Supreme Court ignored Pe- 
+titioners’ request to brief and argue the issues on remand, 
+App. 57 (Gray, J., dissenting), and, on August 31, 1995, 
+it “reaffirm[ed] and reinstate[d]” the December 1994 opin- 
+ion that this Court had vacated. App. 54. 
+
+
+In its decision on remand, the Montana Supreme Court 
+first summarized its prior opinion, emphasizing again that 
+its decision was based on an analysis of Volt that pre- 
+emption is determined by whether the notice statute under- 
+mines the goals and policies of the FAA. App. 57. The 
+court then observed that, because this case did not involve 
+a “state law which made arbitration agreements invalid 
+and unenforceable,” and because the parties’ agreement 
+indisputably involved interstate commerce, “we can find 
+nothing in the [Terminix] decision which relates to the 
+issues presented to this Court in this case.” App. 53. In 
+
+
+*The author of the court’s opinion also wrote separately to 
+express his “personal observation” that federal appellate judges 
+had unnecessarily and inappropriately deprived individuals of access 
+to a system of justice available only in the courts. App. 29-33. 
+Three of the seven Justices on the Montana Supreme Court dis- 
+sented from the court’s opinion. App. 34-47. 
+
+
+9 
+
+
+particular, the court saw nothing in Terminix that re- 
+quired it to modify its analysis of Volt “that state law 
+is only preempted to the extent that it ‘stands as an ob- 
+stacle to the accomplishment and execution of the full 
+purposes and objectives of Congress.” App. 54 (quot- 
+ing Volt, 489 U.S. at 477). 
+
+
+Chastising the majority for what they believed was an 
+“arrogant and cavalier approach to this important case 
+on remand from the United States Supreme Court,” three 
+of the court’s seven Justices dissented on the basis that 
+the majority had misread Volt and that Terminix had 
+reaffirmed the supremacy of the FAA on the issue of 
+enforceability of agreements to arbitrate. App. 57-58. 
+The dissent took sharp exception to the majority’s rush to 
+decision without even the benefit of briefs or argument, 
+and it concluded that “one must assume that the Court is 
+simply unwilling to consider any analysis that would 
+
+
+require a change in the result it remains determined to 
+reach.” App. 57. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+Section 2 of the Federal Arbitration Act provides that 
+written arbitration agreements are “valid, irrevocable, and 
+enforceable, save upon such grounds as exist at law or in 
+equity for the revocation of any contract.” 9 U.S.C. § 2 
+(emphasis added). There is no question here that the 
+parties agreed to arbitrate any disputes between them and 
+no question that the agreement, which involved interstate 
+commerce, is within the bounds of Section 2. Neverthe- 
+less, the Montana Supreme Court refused to enforce the 
+parties’ arbitration agreement for one, and only one, 
+reason: failure to comply with a state statute requiring 
+that notice of an agreement to arbitrate (but no other 
+contractual term) be typed in underlined capital letters 
+on the first page of a contract. The court thus applied 
+Montana’s public policy that was admittedly suspicious of 
+arbitration to prohibit enforcement of the arbitration pro- 
+
+
+10 
+
+
+vision, but no other term, of a binding and lawful franchise 
+agreement. 
+
+
+This decision is directly at odds both with the plain 
+language of Section 2 and with the teachings of numerous 
+decisions of this Court construing that language. Section 
+2 plainly commands, as a matter of federal law, that an 
+arbitration agreement involving interstate commerce be 
+enforced, subject to only one limitation: “save upon such 
+grounds as exist . . . for the revocation of any contract.” 
+9 U.S.C. §2. This broad principle of enforceability 
+embodied in Section 2 “is [not] subject to any additional 
+limitations under state law.” Southland Corp. v. Keating, 
+465 US. 1, 11 (1984) (emphasis added). Moreover, 
+this Court has repeatedly read the language of Section 2— 
+most recently in Terminix—to prohibit a state from sin- 
+gling out agreements to arbitrate and placing them on a 
+different “footing” from other contracts. See Terminix, 
+115 S. Ct. at 838-39, 843; Perry v. Thomas, 482 U.S. 
+483, 489-91 & 492 n.9 (1987); Southland, 465 U.S. at 
+10-16; Moses H. Cone Memorial Hosp. v. Mercury Constr. 
+Co., 460 U.S. 1, 24 (1983). 
+
+
+Yet Montana has done precisely what federal law says 
+it may not do—impose upon arbitration agreements con- 
+ditions to enforceability that do not apply to all contracts. 
+Although the Montana Supreme Court purported to find 
+authority for that action in Volt, that decision does not 
+permit state courts to override the wishes of the contract- 
+ing parties and refuse to enforce arbitration agreements 
+on state-law grounds that are inapplicable to other types of 
+agreements. See, e.g., Mastrobuono v. Shearson Lehman 
+Hutton, Inc., 115 §. Ct. 1212, 1215-16 (1995); Terminix, 
+115 S. Ct. at 843; see also Volt, 489 U.S. at 478-79. To 
+the contrary, Volt makes resoundingly clear that the wishes 
+of the parties, not any contrary wishes of state officials 
+or judges, are controlling. Accordingly, consistent with 
+this Court’s long line of decisions construing Section 2, 
+every federal court of appeals and state supreme court that 
+
+
+11 
+
+
+has considered this issue other than the Montana court, 
+both before and after Volt, has held that the FAA pre- 
+empts state laws conditioning enforcement of arbitration 
+agreements on compliance with notice requirements that 
+apply to arbitration agreements alone. See infra note 8. 
+
+
+Were the Court now to ignore the clear language of 
+Section 2 and retreat from its own consistent construc- 
+tion of that language, it would effect an immediate and 
+sweeping change in the national policy favoring arbitra- 
+tion—from uniform enforcement of arbitration agreements 
+throughout the United States, to endless questions about 
+enforceability (and inevitably contradictory answers) de- 
+pending on which state’s law applies and whether that 
+state has chosen to impose conditions on enforceability 
+that do not apply to other contracts. This concern over 
+“permit/ting] States to override the declared policy re- 
+quiring enforcement of arbitration agreements,” South- 
+land, 465 U.S. at 17 n.11, is not hypothetical. In addi- 
+tion to Montana, at least nine states—most recently, Cali- 
+fornia—have enacted arbitration laws that deny enforce- 
+ment of arbitration agreements solely on the basis of the 
+parties’ failure to include a specified form of notice (which 
+differs from state to state) that their contract is subject to 
+arbitration. See infra Part Il. More generally, numerous 
+states have placed a variety of conditions on enforcement 
+of agreemc.ils to arbitrate that do not apply to contracts 
+generally. See id. Taken together, these state laws stand 
+as a direct impediment to achieving the national uniform- 
+ity contemplated by Section 2, leaving those like DAI, 
+who transact business in multiple states, subject to the 
+vagaries of differing, even inconsistent, state arbitration 
+
+
+laws, all contrary to Congress’s express intent in enact- 
+ing the FAA. Southland, 465 U.S. at 16. 
+
+
+12 
+
+
+ARGUMENT 
+
+
+I. THE FEDERAL ARBITRATION ACT PREEMPTS 
+MONTANA'S STATUTORY RESTRICTION ON EN- 
+FORCEMENT OF ARBITRATION AGREEMENTS. 
+
+
+The question presented is straight‘orward. May Mon- 
+tana refuse to enforce an otherwise valid agreement to 
+arbitrate because it does not comply with state notice re- 
+quirements applicable to arbitration agreements but not 
+to other types of agreements? The plain language of Sec- 
+tion 2, as well as this Court's consistent reading of that 
+language, make unmistakably clear that Montana may 
+not. Section 2 expressly and directly preempts the appli- 
+cation of Montana’s arbitration notice statute, Mont. Code 
+Ann. § 27-5-114(4) (1995), to agreements involving in- 
+terstate commerce. 
+
+
+A. Montana’s Arbitration Notice Requirement Places 
+Montana Law in Direct Conflict With Federal Law. 
+
+
+Congress enacted the FAA in order to “revers[e] cen- 
+turies of judicial hostility to arbitration agreements,” 
+Scherk v. Alberto-Culver Co., 417 U.S. 506, 510-11 
+(1974), by “placfing] arbitration agreements ‘upon the 
+same footing as other contracts."” Jd. (quoting H.R. 
+Rep. No. 96, 68th Cong., Ist Sess. 1, 2 (1924)); see 
+Volt, 489 U.S. at 474; Gilmer v. Interstate/Johnson Lane 
+Corp., 500 U.S. 20, 24 (1991). In order to accomplish 
+this overarching goal and thereby promote the “federal 
+policy favoring arbitration,” Congress “create[d] a body 
+of federal substantive law of arbitrability, applicable to 
+any arbitration agreement within the coverage of the Act.” 
+Moses H. Cone Memorial Hosp. v. Mercury Constr. Co., 
+460 U.S. 1, 24 (1983); see Mitsubishi Motors Corp. v. 
+Soler Chrysler-Plymouth, Inc., 473 U.S. 614, 625 (1985). 
+For transactions within its scope, the FAA requires courts 
+“rigorously [to] enforce agreements to arbitrate.” Dean 
+Witter Reynolds, Inc. v. Byrd, 470 U.S. 213, 221 (1985); 
+see Shearson/American Express, Inc. v. McMahon, 482 
+
+
+13 
+
+
+U.S. 220, 226 (1987). That obligation is binding upon 
+federal and state courts alike. Terminix, 115 S. Ct. at 
+838-39; Southland, 465 U.S. at 15. 
+
+
+The answer to the question presented begins, of course, 
+in the language of the FAA itself. See Shearson/American 
+S. at 225. Section 2 is the “primary sub- 
+Stantive provision” of the Act. Gilmer, 500 U.S. at 24. 
+It sets forth “a congressional declaration of a liberal fed- 
+eral policy favoring arbitration agreements,” Moses H. 
+Cone, 460 U.S. at 24, and expresses Congress's intent “to 
+mandate enforcement of all covered arbitration agree- 
+ments.” /d. at 26 n.34. 
+
+
+The language of Section 2 is unequivocal. A written 
+agreement to arbitrate in any contract involving an inter- 
+State transaction is “valid, irrevocable, and enforceable” 
+as a matter of federal law. 9 U.S.C. § 2. To that broad 
+declaration of congressional policy confirming the validity, 
+and requiring the enforcement, of arbitration agreements, 
+Section 2 provides only one explicit, and explicitly limited, 
+exception: agreements to arbitrate may be deemed unen- 
+forceable only “upon such grounds as exist at law or in 
+equity for the revocation of any contract.” Jd. (emphasis 
+added). As a matter of simple English, therefore, Section 
+2 permits courts to apply state laws applicable to contracts 
+generally, but not state laws singling out arbitration agree- 
+ments for disfavored treatment. Terminix, 115 S. Ct. at 
+843; see Southland, 465 U.S. at 16. 
+
+
+The Court has repeatedly confirmed this reading of 
+Section 2. Thus, = een elie ¢ teen Mae 
+Southland Corp. v. Keating, 465 U.S. 1 (1984), this 
+Court could Siventa dune Wa Gates 00 Gio aatioes 
+ability of arbitration provisions governed by the Federal 
+Arbitration Act: they must be part of a written maritime 
+contract or a contract ‘evidencing a transaction involving 
+commerce’ and such clauses may be revoked upon 
+‘grounds as exist at law or in equity for the revocation 
+
+
+of any contract."” Jd. at 10-11 (footnote omitted). 
+Having set out what the language of the FAA distinctly 
+commands, the Court could “see nothing in the Act in- 
+dicating that the broad principle of enforceability is sub- 
+ject to any additional limitations under state law.” /d. 
+at 11 (emphasis added); see id. at 10 (“Congress . 
+withdrew the power of the states to require a judicial 
+forum for the resolution of claims which the contracting 
+parties agreed to resolve by arbitration” ). 
+
+
+Accordingly, the Court held that a state franchise law 
+requiring judicial consideration of disputes governed by 
+the arbitration clause of the parties’ franchise agreement 
+“directly conflicts with § 2 of the Federal Arbitration Act 
+and violates the Supremacy Clause.” /d. at 10. The con- 
+flict was “direct” because the defense to arbitration found 
+in California’s franchise law was “not a ground that exists 
+at law or in equity ‘for the revocation of any contract,’ ” 
+id. at 16 n.11, but rather was “a ground that exists for 
+the revocation of arbitration provisions in contracts sub- 
+ject to” the state law. /d. California's law, therefore, 
+failed to place arbitration agreements “‘upon the same 
+footing as other contracts, where it belongs.’” /d. at 16 
+(internal quotation marks and citation omitted); see id. 
+at 17 n.11." 
+
+
+* The holding of Southland is especially applicable here. Like 
+this case, Southland involved a national franchisor, whose standard 
+franchise agreement required all disputes arising out of the agree- 
+ment to be settled by arbitration in accordance with the rules of 
+the American Arbitration Association. See Southland, 465 U.S. at 
+3-4. The Southland franchisees sued in state court alleging mis- 
+representations (see id. at 4), and in both cases, the state courts 
+refused to enforce an agreement to arbitrate out of deference to a 
+state statute embodying a public policy suspicious of arbitration in 
+the particular circumstances presented. See id. at 20-21 (Stevens, 
+J., dissenting in part). Moreover, Southland and this case raise the 
+same generic legal issue: whether a state law, “which invalidates 
+certain arbitration agreements covered by the Federal Arbitration 
+Act, violates the Supremacy Clause.” /d. at 3. 
+
+
+oe 
+
+
+15 
+
+
+In Perry v. Thomas, 482 U.S. 483 (1987), the Court 
+again emphasized that the text of Section 2 is the only 
+source of limitations on the enforceability of arbitration 
+agreements involving interstate commerce: “An agree- 
+ment to arbitrate is valid, irrevocable, and enforceable, 
+as a matter of federal law, save upon such grounds as 
+exist at law or in equity for the revocation of any con- 
+tract.” Id. at 492 n.9 (emphasis in original; citations 
+and internal quotation marks omitted). By the express 
+terms of that sole limitation on enforceability, state law, 
+whether of legislative or judicial origin, is applicable only 
+if that law governs the validity, revocability, and enforce- 
+ability of contracts generally. /d. at 493 n.9. As this 
+Court explained, “A state-law principle that takes its 
+meaning precisely from the fact that a contract to arbi- 
+trate is at issue does not comport with this requirement 
+of §2.” Jd. Therefore, the Court instructed, under 
+Section 2 
+
+[a] court may not, then, in assessing the rights of liti- 
+gants to enforce an arbitration agreement, construe 
+that agreement in a manner different from that in 
+which it otherwise construes nonarbitration agree- 
+ments under state law. Nor may a court rely on the 
+uniqueness of an agreement to arbitrate as a basis 
+for a state-law holding that enforcement would be 
+unconscionable, for this would enable the court to 
+effect what we hold today the state legislature cannot. 
+
+
+Id.; see Shearson/American Express, 482 U.S. at 226. 
+
+
+Just last Term in Allied-Bruce Terminix Companies v. 
+Dobson, 115 S. Ct. 834 (1995), this Court reaffirmed 
+the principles established in Southland and Perry. It is 
+true, as the Montana Supreme Court noted, that much 
+of the opinion in Terminix is devoted to construing the 
+interstate commerce of Section 2, which is not 
+at issue here. But Terminix also again made clear that 
+Section 2 preempts state laws that single out arbitration 
+agreements for unfavorable treatment. This Court thus 
+restated its longstanding interpretation of Section 2: 
+
+
+16 
+
+
+“States may not. . . decide that a contract is fair enough 
+to enforce its basic terms (price, service, credit), but not 
+fair enough to enforce its arbitration clause.” Terminix, 
+115 S. Ct. at 843. In the clearest possible terms, the 
+Court declared that the FAA “makes any such state policy 
+unlawful, for that kind of policy would place arbitration 
+clauses on an unequal ‘footing,’ directly contrary to the 
+Act’s language and Congress’s intent.” /d. (emphasis 
+added ) .* 
+
+
+Both the FAA itself and the cases of this Court con- 
+struing it thus establish that Section 2 directly preempts 
+* While the Montana Supreme Court saw nothing in Terminiz 
+relevant to this case, Justice O'Connor, in her concurrence in 
+Terminiz, recognized that the effect of the decision in Terminiz 
+would be to preempt statutes identical to the Montana notice statute: 
+
+
+The reading of §2 adopted teday will displace many state 
+statutes carefully calibrated to protect consumers, see, ¢.g., 
+Mont. Code Ann. § 27-5-114(2) (b) (1993) (refusing to enforce 
+arbitration clauses in consumer contracts where the considera- 
+tion is $5,000 or less), and state procedural requirements aimed 
+at ensuring knowing and voluntary consent, see, ¢.g., 8.C. Code 
+Ann. § 15-48-10(a) (Supp. 1993) (requiring that notice of 
+arbitration provision he prominently placed on first page of 
+contract). 
+115 8. Ct. at 843 (emphasis added). 
+
+
+Except for the Montana Supreme Court, all federal courts of 
+appeals and state supreme courts that have considered whether the 
+FAA preempts a state arbitration notice requirement have found 
+preemption. See David L. Threlkeld & Co. v. Metaligesellachaft Ltd., 
+923 F.2d 245, 249-50 (2d Cir.), cert. dismissed, 501 U.S. 1267 
+(1991); Securities Indus. Ass'n v. Connolly, 883 F.2d 1114, 1120 
+(Ist Cir. 1989), cert. denied, 495 U.S. 956 (1990); Webb v. R. 
+Rowland & Co., 800 F.2d 803, 806-07 (8th Cir. 1986) ; Collins Radio 
+Co. v. Ex-Cell-O Corp., 467 F.2d 995, 997-99 (8th Cir. 1972); 
+Bunge Corp. v. Perryville Feed & Produce, Inc., 685 8.W.2d 837, 
+839 (Mo. 1985) (en banc); see also King v. Postal Annez, Inc., 
+No. CV-94-011-GF, slip op. at 4-6 & 6 n.5 (D. Mont. Dec. 14, 1995) 
+(concluding that Montana Supreme Court’s decision in Casarotto 
+“is without merit”); Snap-On Tools Corp. v. Vetter, 8838 F. Supp. 
+468, 472 (D. Mont. 1998) (Montana notice requirement preempted 
+by FAA). 
+
+
+17 
+
+
+any state law that singles out arbitration agreements for 
+disfavored treatment. Montana’s law does precisely that, 
+however. For it plainly singles out and subjects arbitra- 
+tion agreements to an “additional limitation{] under state 
+law” (Southland, 465 U.S. at 11) that is not applicable 
+to other contractual provisions. By its terms and as in- 
+terpreted by the Montana Supreme Court, Montana’s stat- 
+ute does not affect the validity of contracts generally; it 
+limits enforcement only of arbitration agreements as part 
+of a state policy disfavoring arbitration.’ As the Montana 
+Supreme Court candidly acknowledged, the notice statute 
+was borne of a legislative mistrust of “a procedure as 
+potentially inconvenient, expensive, and devoid of pro- 
+cedural safeguards as the one provided for by the rules 
+of the American Arbitration Association.” App. 21.” 
+
+
+* The notice statute, Mont. Code Ann, § 27-5-114(4) (1995), is 
+part of the Montana Uniform Arbitration Act. However, it is a 
+deviation from the Uniform Arbitration Act (1955), 7 U.L.A. 1 
+(West 1985 & Supp. 1995), which contains no notice requirement. 
+Montana has enacted other provisions refusing to enforce arbitra- 
+tion in certain types of contracts, set forth in the appendix to this 
+brief, which also are deviations from the uniform act. Montana 
+enacted its arbitration act in 1985 in the wake of the Court's deci- 
+sion in Southland. 
+
+
+1© This same anti-arbitration policy caused the Montana Supreme 
+Court to make a second, related error: its decision to apply Mon- 
+tana law despite the parties’ explicit contractual choice of Connecti- 
+cut law. The Montana court relied on a state policy hostile to 
+arbitration as the reason for applying Montana law to the agree- 
+ment under conflict-of-laws principles and then proceeding to 
+invalidate the agreement under that same policy. If it were not 
+for the arbitration notice requirement that Petitioners argue is 
+preempted by Section 2, the court below would not have reached 
+its conclusion that the Connecticut law chosen by the parties 
+(which has no special notice requirement) was offensive to Mon- 
+tana’s public policy. App. 20-21. Cf. Mastrobuono, 115 8. Ct. at 
+1219 (reading choice-of-iaw clause in manner intended to give 
+effect to parties’ agreement to arbitrate); Volt, 489 U.S. at 475- 
+76 (due regard must be given to federal policy favoring arbitration 
+when applying general state-law principles); id. at 479 (parties’ 
+expectations should be enforced where it would not do “violence 
+
+
+18 
+
+
+In short, Montana law embodies precisely the type of 
+focused hostility toward arbitration that Congress sought 
+to overcome when it enacted the FAA. Terminix, 115 
+S. Ct. at 838. The Montana Supreme Court claims that 
+the Montana notice provision is not hostile to arbitration 
+because it does not invalidate all arbitration agreements 
+as did the Alabama law in Terminix, but “simply” ensures 
+that Montanans knowingly enter into arbitration agree- 
+ments. App. 53. Section 2, however, expresses Con- 
+gress’s considered judgment that in light of historical 
+antipathy toward arbitration, permitting such differential 
+State-law treatment of arbitration agreements would 
+“wholly eviscerate congressional intent to place arbitra- 
+tion agreements upon the same footing as other con- 
+tracts.” Southland, 465 U.S. at 17 n.11. This Court has 
+consistently held, therefore, that any state policy of offer- 
+ing special protection to signatories of arbitration agree- 
+ments that is not accorded contracts generally is directly 
+contrary to the mandates of Section 2 and the policies 
+underlying the FAA. Southland, 465 U.S. at 16 n.11; 
+see Perry, 482 U.S. at 493 n.9. Section 2 requires en- 
+forcement of arbitration agreements within its scope, as 
+the agreement here assuredly is, “notwithstanding any 
+State substantive or procedural policies to the contrary.” 
+Moses H. Cone, 460 U.S. at 24 (emphasis added). 
+
+
+This is not to say, of course, that Montana cannot 
+protect its citizens from the effects of contractual over- 
+reaching. Congress did not disable the states from apply- 
+ing general principles of unconscionability to arbitration 
+agreements. Terminix, 115 S. Ct. at 843; see Rodriguez 
+de Quijas v. Shearson/American Express, Inc., 490 U.S. 
+477, 483-84 (1989). But a state may not single out 
+arbitration agreements for special treatment out of a con- 
+
+
+to the policies behind the FAA”). In any event, because the 
+Montana statute is preempted by Section 2, it is not necessary for 
+this Court to reach out and decide whether the Montana Supreme 
+Court's conflict-of-laws analysis was independently flawed by its 
+dependence on a statute evidencing hostility toward arbitration. 
+
+
+19 
+
+
+cern that those agreements in particular may be the 
+product of unequal bargaining power. Terminix, 115 
+S. Ct. at 843. Thus, “{a]bsent a well-founded claim that 
+an arbitration agreement resulted from the sort of fraud 
+or excessive economic power that ‘would provide grounds 
+for “the revocation of any contract,”’” the FAA man- 
+dates enforcement of the arbitration agreement. Shear- 
+son/American Express, 482 U.S. at 226 (quoting Mitsu- 
+bishi, 473 U.S. at 627). By ignoring that mandate, Mon- 
+tana has “place[d] arbitration clauses on an unequal 
+‘footing’ with other contract terms, “directly contrary 
+to the Act’s language and Congress’s intent.” Terminix, 
+115 S. Ct. at 843; see Southland, 465 U.S. at 15-16. 
+Under the Supremacy Clause, therefore, Montana’s statute 
+“must give way.” Perry, 482 U.S. at 491. 
+
+
+B. Volt Does Not Support the Montana Supreme 
+Court’s Erroneous Interpretation of the Scope of 
+Section 2. 
+
+
+In its initial opinion, the Montana Supreme Court 
+appeared to concede that the decisions in Southland and 
+Perry, standing alone, would require enforcement of the 
+arbitration agreement here. App. 21-23. The court found 
+its way around Southland and Perry, however, by con- 
+struing this Court’s decision in Volt Information Sciences, 
+Inc. v. Board of Trustees of Leland Stanford Junior Uni- 
+versity, 489 U.S. 468 (1989), as limiting preemption to 
+circumstances where the state law would “undermine the 
+goals and policies of the FAA.” App. 26. Applying this 
+approach to Section 2, the court concluded that Mon- 
+tana’s law was consistent with the goals and policies of 
+the FAA. App. 27-28. On remand from this Court, the 
+Montana court confirmed that this reading of Volt was 
+the sole basis for its decision that Section 2 did not pre- 
+empt the Montana notice statute. See App. 50-53. 
+
+
+The Montana court’s reliance on Volt is indefensible. 
+To begin with, of course, the court below did just the 
+opposite of what the state court did in Volt. Whereas the 
+
+
+20 
+
+
+state court in Volt applied the law chosen by the parties 
+to the contract, the court here refused to honor the parties’ 
+choice-of-law clause (to the extent that clause can even 
+be said to relate to the issue of enforceability), stating 
+that Connecticut law was contrary to Montana's public 
+policy embodied in the arbitration notice statute. App. 
+21." While the state court in Volt enforced the parties’ 
+agreement to arbitrate, the Montana court voided their 
+agreement. 
+
+
+As this Court recently explained in Mastrobuono v. 
+Shearson Lehman Hutton, Inc., 115 §. Ct. 1212, 1216 
+(1995), Volt held that the FAA requires courts “to en- 
+force privately negotiated agreements to arbitrate, like 
+other contracts, in accordance with their terms.” Volt, 
+489 U.S. at 478. In other words, the “FAA's pro-arbi- 
+tration policy does not operate without regard to the 
+wishes of the contracting parties,” Mastrobuono, 115 
+S. Ct. at 1216, at least when giving effect to those wishes 
+would not do “violence to the policies behind the FAA.” 
+Volt, 489 U.S. at 479. Nothing in Volt even implies that 
+state courts are free, as the Montana Supreme Court 
+considered itself to be, to disregard the parties’ agreement 
+to arbitrate on the basis of a state’s legislative or judicial 
+hostility toward arbitration. 
+
+
+Having ignored the parties’ wishes, the Montana court 
+proceeded to make another mistake by concluding that 
+Volt had narrowed the preemptive scope of Section 2. 
+Indeed, this Court had no occasion in Volt even to con- 
+sider the preemptive force of Section 2 with regard to 
+the enforcement of arbitration agreements. Rather, Volt 
+involved state rules of procedure that this Court observed 
+were .“manifestly designed to encourage resort to the 
+
+
+'' The court also failed to address the parties’ agreement ( App. 
+75) to conduct the arbitration proceedings under the American 
+Arbitration Association’s Commercial Arbitration Rules, which do 
+not impose any arbitration notice requirement. See Mastrobuono, 
+115 8S. Ct. at 1218. 
+
+
+21 
+
+
+arbitral process.” Volt, 489 U.S. at 476; see id. at 472, 
+474. The state rules in that case did not render the 
+parties’ agreement unenforceable; the rules affected only 
+the timing of the arbitration. See id. at 479. 
+
+
+By misusing Volt, the Montana Supreme Court sought 
+to grant itself a license to ignore the express requirements 
+of Section 2 and to make its own case-by-case determi- 
+nation whether a particular state law “undermines” the 
+FAA’s goals. The court purported to base that authority 
+(App. 27) on the statement by this Court that the FAA 
+does not “occupy the entire field of arbitration.” Volt, 
+489 U.S. at 477. But in Volt, this Court looked to 
+whether the state procedures in question “would under- 
+mine the goals and policies of the FAA” only because 
+the FAA had not “displaced state regulation in [the] 
+area” governed by the state rules. Jd. at 477-78. While 
+the FAA might be silent about the procedural situation 
+presented in Volt, Section 2 speaks in the clearest possible 
+terms to the circumstances under which an agreement to 
+arbitrate must be enforced. Terminix, 115 S. Ct. at 843; 
+Perry, 482 U.S. at 489-90; Southland, 465 U.S. at 10-11, 
+16. Therefore, state laws that place arbitration agree- 
+ments “on an unequal ‘footing’” by definition undermine 
+the goals of the FAA. Terminix, 115 S. Ct. at 843; see 
+also Mastrobuono, 115 S. Ct. at 1216 (FAA ensures 
+
+
+12 As described by the Court, the conflict with federal law as- 
+serted in Volt was not with Section 2 of the FAA, but with Sections 
+3 and 4, which provide the procedural mechanisms to enforce the 
+substantive rights conferred by Section 2 and which, according to 
+the Court, do not “confer a right to compel arbitration ... at 
+any time.” Id. at 474, 476-77; 9 U.S.C. §§3, 4. Moreover, unlike 
+the California rules, “the FAA itself contains no provision de- 
+signed to deal with the special practical problems that arise in 
+multiparty contractual disputes when some or all of the contracts 
+at issue include agreements to arbitrate.” /d. at 476 n.5. Because 
+the procedural question before the Court in Volt was not addressed 
+by the FAA, the California state court’s interpretation of the 
+contract as incorporating state rules of arbitration did not im- 
+permissibly conflict with the FAA. I/d. at 477-78. 
+
+
+22 
+
+
+enforcement of agreement to arbitrate punitive damages 
+claims “even if a rule of state law would otherwise ex- 
+clude such claims from arbitration” ). 
+
+
+Nothing in Volt itself, therefore, detracts from the hold- 
+ings in Southland and Perry that under Section 2 of the 
+FAA, parties may be assured that their agreement to 
+arbitrate will be enforced. See Terminix, 115 S. Ct. at 
+838-39. Indeed, both the Second and First Circuits have 
+found preemption of arbitration notice requirements simi- 
+lar to Montana's after the decision in Volt. See David L. 
+Threlkeld & Co. v. Metallgesellschaft Ltd., 923 F.2d 245, 
+249-50 (2d Cir.), cert. dismissed, 501 U.S. 1267 (1991); 
+Securities Indus. Ass'n v. Connolly, 883 F.2d 1114, 1120 
+(Ist Cir. 1989), cert. denied, 495 U.S. 956 (1990). 
+The First Circuit correctly distinguished Volt on the 
+ground that, unlike the arbitration notice requirement, the 
+California rules applied in Volt “did not impinge on the 
+validity or enforceability of the arbitral contract.” Con- 
+nolly, 883 F.2d at 1119 n.3." Even after Volt, therefore, 
+Section 2 must still be read to preempt state laws, like 
+the Montana law, that make an arbitration agreement un- 
+enforceable even though another type of agreement would 
+be held valid. 
+
+
+18 In Saturn Distribution Corp. v. Williams, 905 F.2d 719, 723-27 
+(4th Cir.), cert. denied, 498 U.S. 983 (1990), the Fourth Circuit 
+considered and rejected the same argument accepted by the Mon- 
+tana Supreme Court: “the notion ... that the [state] statute 
+may be harmonized with the FAA because it only ensures ‘con- 
+sensual rather than forced arbitration.’” Jd. at 726 (quoting 
+Saturn Distribution Corp. v. Williams, 717 F. Supp. 1147, 1151 
+(E.D. Va. 1989)). The Fourth Circuit concluded that Volt “is 
+not to the contrary.” /d.; see also Dowd v. First Omaha Sec. Corp., 
+495 N.W.2d 36, 41 (Neb. 1993). 
+
+
+23 
+
+
+Il. THE MONTANA SUPREME COURT'S DECISION 
+THREATENS TO DISRUPT THE NATIONAL POL- 
+ICY OF ENFORCING ARBITRATION AGREE- 
+MENTS. 
+
+
+The decision below is not only contrary to the express 
+terms of Section 2, the teachings of this Court, and the 
+holdings of every federal court of appeals and state su- 
+preme court to have addressed the issue, but also, if 
+affirmed, the decision would seriously disrupt the national 
+uniformity that Congress sought to achieve when it chose 
+to put arbitration agreements on the same footing as 
+other contracts. Arbitration agreements like the one in 
+this case have flourished nationwide as a chosen means 
+of resolving disputes in a wide array of business and 
+consumer contexts. Financial institutions, franchisors, 
+distributors, manufacturers, and a multitude of other com- 
+panies conducting interstate businesses now regularly in- 
+clude standard arbitration provisions in their contracts. 
+See generally Henry C. Strickland, The Federal Arbitra- 
+tion Act's Interstate Commerce Requirement: What's Left 
+for State Arbitration Law?, 21 Hofstra L. Rev. 385, 
+429-54 (1992). The case law on arbitration notice re- 
+quirements alone illustrates the degree to which national 
+and international economies have come to rely on arbitra- 
+tion in a host of circumstances. See, e.g., Threlkeld, 923 
+F.2d at 246-47 (contract between member of foreign 
+commodities exchange and American trader); Connolly, 
+883 F.2d at 1116 (customer agreement with securities 
+broker); Webb, 800 F.2d at 804-05 (same): Collins, 467 
+F.2d at 996 (purchase agreement between manufacturer 
+and its parts supplier); Bunge, 685 S.W.2d at 838 (com- 
+mercial contract for bulk purchase of soybeans); King v. 
+Postal Annex, Inc., No. CV-94-011-GF, slip op. at 2 
+(D. Mont. Dec. 14, 1995) (franchise agreement); Snap- 
+On Tools Corp. v. Vetter, 838 F. Supp. 468, 472 (D. 
+Mont. 1993) (dealership agreement). 
+
+
+Thus, the FAA is, as it was intended, serving to foster 
+a “federal policy favoring arbitration” in a variety of 
+
+
+24 
+
+
+business and consumer settings. Moses H. Cone, 460 
+U.S. at 24; see Shearson/American Express, 482 U.S. at 
+226; Perry, 482 U.S. at 489. The setting of this case is 
+a prime example of the potential benefits of arbitration. 
+A franchise agreement typically involves a continuing 
+business relationship in which disputes can, from time to 
+time, occur. Arbitration is therefore favored by both 
+franchisors and franchisees as an effective and efficient 
+means of resolving disputes in that ongoing relationship. 
+See Amici Curiae Brief of International Franchise Associ- 
+ation and Securities Industry Association at 1-2. Arbitra- 
+tion “‘minimiz[es] hostility and is less disruptive of on- 
+going and future business dealings among the parties’ ” 
+than litigation in the courts. Terminix, 115 S. Ct. we 843 
+(quoting H.R. Rep. No. 97-542, at 13 (1982)). 
+tration also “avoid{s] ‘the delay and expense of aioe. 
+tion,’ ” and therefore “appeal[s] ‘to big business and little 
+business alike, . corporate interests [and] . . . indi- 
+viduals.” Id. at 842 (quoting S. Rep. No. 536, 68th 
+Cong., Ist Sess., 3 (1924)). 
+
+
+It is thus of particular importance that parties to arbi- 
+tration agreements like the one here be assured that their 
+agreements are enforceable, regardless of whether a par- 
+ticular state is receptive or hostile to arbitration. But the 
+Montana Supreme Court’s decision creates new uncer- 
+tainty in the law that threatens to undermine Congress's 
+support of arbitration as an alternative device for dispute 
+resolution. By formulating a public policy based on the 
+perception that arbitration improperly dispenses with pro- 
+cedural safeguards, see App. 20-21, Montana has sought 
+to resurrect historical misconceptions about arbitration 
+that have long since been rejected by this Court. As this 
+Court has declared, “we are well past the time when 
+judicial suspicion of the desirability of arbitration and of 
+the competence of arbitral tribunals [may] inhibit{] the 
+development of arbitration as an alternative means of 
+dispute resolution.” Mitsubishi, 473 U.S. at 626-27 
+
+
+25 
+(1985). More than once, the Court has rebuffed efforts 
+
+
+it 
+ve 
+ii 
+; 
+tH 
+A 
+
+
+nity to present their claims. Gilmer, 500 U.S. at 30-3 
+Shearson/American Express, 482 U.S. at 231- 
+
+Court has recognized that arbitration does not require a 
+party to “forgo [its] substantive rights”; it only “trades 
+the procedures and opportunity for review of the court- 
+room for the simplicity, informality and expedition of 
+arbitration.” Mitsubishi, 473 U.S. at 628." 
+
+
+clearly in the special concurrence penned by the author of the 
+court’s opinion. Justice Trieweiler scolded federa! courts for their 
+“naive assumption that arbitration provisions are bargained for,” 
+
+
+know it.” App. 32. That concurring opinion is as vivid a reminder 
+as one can imagine of the hostility toward arbitration that Con- 
+gress addressed in the FAA. 
+
+
+% The commercial rules of the American Arbitration Association, 
+which the parties here chose to govern their arbitration, contain 
+
+
+on Commercial Arbitration App. VII(A) (rev. ed. 1995). 
+
+
+** Montana also looks with disfavor on arbitration agreements 
+because they may, as here, require travel to other states. See App. 
+
+
+Carnival Cruise Lines, Inc. v. Shute, 499 U.S. 585, 593-94 (1991) ; 
+see also Stewart Organization Inc. v. Ricoh Corp., 487 U.S. 22, 33 
+(1988) (Kennedy, J.. concurring); Southland, 465 U.S. 7; 
+Scherk, 417 U.S. at 518-19; The Bremen v. Zapata Off-Shor 
+407 U.S. 1, 17-18 (1972). 
+
+
+26 
+
+
+The rule of law announced by the Montana Supreme 
+Court is disruptive and unworkable for anyone transacting 
+business in interstate commerce. The decision below does 
+tration laws that exist from state to state and their impact 
+on interstate commerce. State arbitration notice provi- 
+states impose different notice requirements for contracts 
+subject to an agreement to arbitrate.” At least six addi- 
+tional states have enacted differing laws regulating the 
+notice, placement or acknowledgment of arbitration agree- 
+ments within certain kinds of contracts; Calin estes 
+four such statutes in 1994." Furthermore, nume 
+
+
+7 Mo. Ann. Stat. § 435.460 (Vernon 1992) (notice that contract 
+contains arbitration agreement must be placed adjacent to signa- 
+ture block in ten-point capital letters); S.C. Code Ann. § 15-48- 
+10(a) (Law. Co-op. Supp. 1995) (notice that contract is subject 
+to arbitration shall be typed in underlined capita! letters or rubber- 
+stamped prominently on first page of contract’; Vt. Stat. Ann. tit. 
+12, § 5652(b) (Supp. 1995) (parties must sign written acknowledg- 
+ment of arbitration that contains language provided in statute and 
+that is prominently displayed in contract). 
+
+
+* Cal. Bus. & Prof. Code § 7191 (West 1995) (arbitration pro- 
+vision in contracts for work on residential property is unenforce- 
+able unless printed in certain type and unless accompanied by 
+specified notice before signature line); Cal. Health & Safety Code 
+§ 1363.1 (West Supp. 1996) (health care service plans requiring 
+binding arbitration must include a disclosure of arbitration in 
+particular terms and in particular location in contract); Cal. Ins. 
+Code § 10123.19 (West Supp. 1996) (similar requirement for dis- 
+ability insurance policies) ; Cal. Ins. Code § 11512.33 (West Supp. 
+1996) (similar requirement for nonprofit hospita! service plans) ; 
+Ga. Code Ann. § 9-9-2(c) (8), (9) (Michie Supp. 1995) (arbitra- 
+tion provisions in residentia! real estate contracts and employment 
+contracts must be separately initialed at the time of contract's 
+execution); lowa Code Ann. § 679A.1(2)(c) (West 1987) (agree- 
+ment to arbitrate tort claims must be in separate writing executed 
+by parties); R.I. Gen. Laws §10-3-2 (Supp. 1995) (arbitration 
+provisions in insurance contracts must be placed immediately above 
+parties’ signatures) ; Tenn. Code Ann. § 29-5-302(a) (Supp. 1995) 
+(arbitration clause in contracts relating to farm or residential 
+
+
+: 
+Hy 
+i! 
+F 
+z 
+i 
+
+
+(excluding from arbitration act any contract by an individual 
+
+
+neys); Tex. Prac. & Rem. Code Ann. $171.001(c) (West 
+Supp. 1996) (personal injury claims excluded from scope of arbi- 
+tration act except upon advice of counsel to both parties as evi- 
+
+by both parties). 
+
+
+statutes from 13 different states) ; see also Mastrobuono, 115 S. Ct. 
+at 1215 (New York law barring awards of punitive damages in 
+arbitration). 
+
+
+28 
+
+
+that no party antici ae Son 
+agreement. Speen emntnmene . applied 
+know in what state it might be sued and—after the deci- 
+sion below—which state’s . : . 4 
+cushe t tae ecuatell atten tiie hes thane cr 
+ment.” Although Section 2 of the FAA does om 
+gress sought by enacting the - beperwend yee 
+arbitration-specific impediment: to the - ae _— 
+arbitrate their disputes because such + we efforts ad 
+“ee national li * arbitration.” Southland, — 
+U.S. at 10. e 
+
+By erecting an additional ot me 
+ments to arbitrate, Montana has viol pee ee na 
+
+
+» Missouri requires notice adjacent to the signature block, while 
+Montana requires notice on the first page of the contract. See Mo. 
+Ann. Stat. § 435.460 (Vernon 1992); Mont. Code Ann. § 27-5- 
+114(4) (1995). So, for example, if the parties selected Missouri 
+law to govern their contract and they complied with Missouri's 
+notice statute as a protective measure in the event a court con- 
+
+
+1998), transfer denied (Mo. Jan. 25, 1994) ; Woermann Constr. Co 
+v. Southwestern Bell Tel. Co., 846 S.W.2d 790, 792-93 (Mo. Ct. 
+App. 1993) ; Godwin v. Stanley Smith & Sons, 386 S.E.2d 464, 467 
+(S.C. Ct. App. 1989). 
+
+
+of federal law. 9 U.S.C. §2. Accordingly, this Court 
+should hold that the Montana notice law is preempted by 
+the FAA. “Having made the bargain to arbitrate, the 
+ies} should be held to it... .” Mitsubishi, 473 U.S. 
+at 628. 
+
+
+H 
+
+
+The judgment of the Supreme Court of Montana should 
+be reversed. The case should be remanded with instruc- 
+
+
+P.O. Box 1832 
+New Haven, CT 06508-1832 
+(208) 498-4400 
+H. Bartow Fars, IIT 
+Farr & TARANTO 
+2445 M Street, N.W. 
+
+
+Washington, D.C. 20037 
+(202) 775-0184 
+
+
+Dated: ‘February 16,1996 * Counsel of Record 
+
+
+APPENDIX 
+
+
+la 
+APPENDIX 
+STATUTE INVOLVED 
+Section 27-5-114, Montana Code Annotated 
+27-5-114. Validity of Arbitration agreement—excep- 
+
+
+ee Pe ee ee Re 
+
+
+(4) Notice that a contract is subject to arbitration 
+pursuant to this chapter shall be typed in underlined capi- 
+tal letters on the first page of the contract; and unless 
+
+
