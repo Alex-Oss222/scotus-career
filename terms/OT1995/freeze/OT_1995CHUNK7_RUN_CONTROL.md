@@ -24,7 +24,7 @@ Source preparation is evidence support, not a Court action. Source-context expos
 
 ## Stage receipts
 
-The first eight Chunk7 Court events through June3 are complete. All eight public render entries have been reviewed against mechanically generated inputs. The four June10 final neutral packets are frozen under the complete actual June3 law, and their independent models are active in four distinct contexts. Completed handoffs:
+All twelve Chunk 7 Court events are complete in committed Canonical Decision Records. The final June 10 decisions use the common complete June 3 baseline and its chronology clarification. All twelve public render entries have passed root review and are assembled in the final output. Workspace integration and final release checks are complete. Completed handoffs:
 
 | Stage | Commit |
 |---|---|
@@ -79,6 +79,15 @@ The first eight Chunk7 Court events through June3 are complete. All eight public
 | Complete June3 integration and PRE_JUNE10 snapshot | e1bc5d6 |
 | Public clarification of OCC admission versus Smiley chronology | 8fb1ac9 |
 | Four final June10 neutral packets | 9f2189b |
+| Richards independent commitments and reconciliation | 25e05e4; 28d0c08 |
+| Whren independent commitments and reconciliation | 30fe693; c76df1f |
+| Degen independent commitments and reconciliation | 20e2d30; 30d2540 |
+| Exxon independent commitments and reconciliation | 3b37a8d; 9c435cc |
+| Richards completed Record and exact public reading copy | dc75abf |
+| Whren completed Record and exact public reading copy | 2f48aa6 |
+| Degen completed Record and exact public reading copy | 3615a4e |
+| Exxon completed Record and exact public reading copy | 4c38fdd |
+| Final June 10 workspace integration | 04a4c7e |
 
 The OCC rule is effective April 1, 1996; all seventeen completed Court events on/after that date through May20 were reviewed for material effects and none was found. At admission, this increased sources to eight and total Records to81, while Court events then remained73. It does not alter the preserved same-day baseline's substantive civil-service or arbitration rules; future relevant slices must include its exact terms. No completed adjudication or immutable earlier handoff is rewritten.
 
@@ -126,3 +135,25 @@ Smiley459b6b0 affirms9–0. Souter receives Chief assignment69, his fourteenth. 
 Integration e1bc5d6 contains81 Court events plus8 sources,89 Records, and Chief69. The complete PRE_JUNE10 snapshot remains byte-identical to its prepared state, SHA256 `0f48b37716f9c1aa116cf34fe4734a8fc6641cabc90ff0316d3d0714bff707ac`, with all four full June3 public opinions. Its introductory OCC sentence describes what source admission itself adjudicated; public note8fb1ac9 clarifies that the later actual Smiley PartV supplies the separate qualified judicial-use rule. Current workspace introductions carry that clarification; no snapshot or decision was rewritten. The snapshot preserves a preexisting trailing space in copied participation text; its exact-copy boundary takes priority over whitespace normalization.
 
 Final neutral packets9f2189b include actual Smiley and that chronology note. Richards, Whren, Degen and Exxon now model independently under this complete June3 state. The same baseline is preserved for Chunk8 IBM95-591 and Lockheed95-809; later completion of June10 peers cannot supply their entering law. No substantive source gate remains open.
+
+
+## June 10 completion
+
+Richards dc75abf reverses and remands unanimously on the constitutional prerequisite for binding nonparties. Stone writes Parts I–IV, Chief assignment 70 and his third. The opinion preserves the assumed notice qualification, genuine representative exceptions, personal-claim distinction and limited remedy without finding contested notice or control facts. Whren 2f48aa6 unanimously affirms the initial-stop suppression disposition, with Thomas writing, Chief assignment 71 and his seventh. The actual objective would-have proposal is answered while purpose-specific exceptions, execution, independent equality analysis and the completed sentencing correction remain intact.
+
+Degen 3615a4e unanimously reverses and remands on the confined inherent-power ground, with Scalia writing, Chief assignment 72 and his fourth. The opinion preserves proper-authority and constitutional reservations, conditional management, exact statutory qualifications and the separate Karyn and Swiss posture. Root corrected an ambiguous reference to Karyn opposing “her own” motion to identify the renewed motion directed to her claims, and required the documented certiorari route. A bounded petition-caption and jurisdiction check confirmed §1254(1), without importing a historical grant event. Root also removed an extra title/authority wrapper from the public reading copy before committing; its entire file now equals the bounded Public Projection. None of these corrections changes a vote, ground or remedy.
+
+Exxon 4c38fdd unanimously affirms both submitted stranding-loss components, with Stevens writing Parts I–V, Chief assignment 73 and his sixth. Reconciliation 9c435cc replaces the independent wholesale-avoidability ground with separately analyzed contract causation, and replaces independent appellate ratification with limited concurrent-findings review. The opinion retains the hose/safety tension, strict-duty assumption, continuing duties, actual clause and Exhibit 92 limits, comparative-allocation reservation and excluded bifurcation issue. Pending breakout oil-spill claims remain undisturbed.
+
+All four Records received complete root substantive review, exact public-identity, structural, link and explanation-ceiling checks. Final Chief assignments total 73: O’Connor 20, Souter 14, Ginsburg 10, Kennedy 8, Thomas 7, Stevens 6, Scalia 4, Stone 3 and Breyer 1. Same-day bookkeeping supplies no intervening law. No June 10 peer supplies precedent for these cases or the remaining same-date IBM and Lockheed matters.
+
+
+## Final render and validation
+
+Workspace integration 04a4c7e contains 85 Court events and eight Admitted Source Records, 93 canonical Records, and 115 inventory rows. All twelve chunk decisions appear as exact bounded public bodies in the neutral projection. The final chronology explicitly identifies the completed chunk 7 actions, while preserving IBM and Lockheed as the next same-date cases under the original complete June 3 baseline and chronology note. Earlier continuing-matter blocks and Bowersox's interim-to-final mapping remain intact.
+
+The final Render Input was generated from the twelve committed Records and independently regenerated with byte-identical output. Separate scoped Render contexts supplied the twelve case entries and the public wrapper. Root read every completed entry against its generated input and mechanically assembled them in generated date/case order. All twelve reviewed entry digests match the assembled output; no private workflow material or unresolved Workflow Blockers appear. The original eight reviewed entries remain unchanged.
+
+Runtime split and Holdings-volume checks pass. The term check reports OK with 38 warnings: the 33 opening warnings plus five false commit-reference matches on the same Internet Archive identifier A40385013 in new Henderson, Casarotto, Loving, Auciello and Degen source URLs. These are valid archive item identifiers, not missing Git references. No source link or frozen Record was altered to silence the checker. Record/public identity, eleven-block structure, local links, explanation ceilings, vote/topology arithmetic, workspace counts, final authored whitespace and single-file size checks pass. All 6,054 protected opening paths remain byte-identical. The preserved pre-June10 snapshot and its note remain unchanged, including the previously disclosed copied whitespace.
+
+The [release validation](OT_1995CHUNK7_RELEASE_VALIDATION.md) records the final artifact and Record hashes. No earlier completed decision, approved brief, term-opening tracker or governing infrastructure was changed. No unapproved Stone choice remains and no chunk 7 matter is stopped.
