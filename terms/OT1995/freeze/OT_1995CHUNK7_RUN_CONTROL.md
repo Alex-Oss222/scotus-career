@@ -24,7 +24,7 @@ Source preparation is evidence support, not a Court action. Source-context expos
 
 ## Stage receipts
 
-Henderson, Casarotto and Pinder are completed Court events. Their three public render entries have been reviewed against mechanically generated inputs. Ornelas has a finalized neutral packet under actual completed May 21 law and is in independent modeling. The remaining eight cases have completed source preparation and clean neutral drafts awaiting their actual chronological law refresh. Completed handoffs:
+Henderson, Casarotto, Pinder, Ornelas and Quackenbush are completed Court events. The first four public render entries have been reviewed against mechanically generated inputs; Quackenbush is in rendering. Loving and Auciello have reconciled commitments and are in assembly. Smiley has a finalized clean statutory supplement and is in fresh independent modeling. The final four June10 cases have completed source preparation and neutral drafts awaiting the actual completed June3 public-law refresh. Completed handoffs:
 
 | Stage | Commit |
 |---|---|
@@ -59,6 +59,17 @@ Henderson, Casarotto and Pinder are completed Court events. Their three public r
 | Pinder completed Record and exact public reading copy | 0f327bd |
 | Complete May 21 public-law workspace and snapshot | 5631263 |
 | Ornelas final neutral packet | 1f9169c |
+| Ornelas independent commitments and reconciliation | 68efc11; cbbc1f0 |
+| Ornelas completed Record and exact public reading copy | 155b6fd |
+| Complete May28 public-law workspace and snapshot | 7ee25af |
+| Four finalized June3 neutral packets | 18c4969 |
+| Exact prior agency public positions | 765f034 |
+| Quackenbush independent commitments and reconciliation | 5052017; e77dd38 |
+| Loving independent commitments and reconciliation | 164420c; 23340bf |
+| Auciello independent commitments and reconciliation | 7e280cb; c20bf61 |
+| Safe OCC rulemaking process and exact banking statutes | 71a6c3c; 870950d |
+| Clean Smiley statutory neutral supplement | c20bf61 |
+| Quackenbush completed Record and exact public reading copy | 903499b |
 
 The OCC rule is effective April 1, 1996; all seventeen completed Court events on/after that date through May20 were reviewed for material effects and none was found. At admission, this increased sources to eight and total Records to81, while Court events then remained73. It does not alter the preserved same-day baseline's substantive civil-service or arbitration rules; future relevant slices must include its exact terms. No completed adjudication or immutable earlier handoff is rewritten.
 
@@ -76,6 +87,19 @@ The fresh Henderson model accidentally received the sanitized Casarotto fact por
 Henderson is a seven-to-two reversal and remand, with Scalia writing for seven and Thomas dissenting with O'Connor. Chief assignment62 is Scalia's third. The Record preserves the particular procedural supersession ground, direct congressional Rule4 enactment, qualified transition and ordinary remand. Mechanical kernel/public-identity/links/length checks pass. The initial public render fragment has been reviewed against its generated input; canonical chunk rendering awaits the remaining events. No earlier completed event is changed.
 
 
-Casarotto completes May 20 by an eight-to-one reversal and remand. Breyer writes for eight on the merits; all nine join reviewability; Thomas dissents from the merits judgment. Chief assignment63 is Breyer’s first. Pinder completes May21 by a five-to-four notice-only immunity affirmance; O’Connor writes unanimous Parts I–II and the five-Justice Part III, with Ginsburg dissenting with Stevens, Souter and Breyer. Chief assignment64 is O’Connor’s eighteenth. Exact PUBLIC, kernel, links and ordinary-explanation ceilings pass for both. Current state is76 Court events plus8 admitted sources,84 Records. Ornelas May28 uses the exact completedMay21 public snapshot; later groups await the actual intervening decisions.
+Casarotto completes May 20 by an eight-to-one reversal and remand. Breyer writes for eight on the merits; all nine join reviewability; Thomas dissents from the merits judgment. Chief assignment63 is Breyer’s first. Pinder completes May21 by a five-to-four notice-only immunity affirmance; O’Connor writes unanimous Parts I–II and the five-Justice Part III, with Ginsburg dissenting with Stevens, Souter and Breyer. Chief assignment64 is O’Connor’s eighteenth. Exact PUBLIC, kernel, links and ordinary-explanation ceilings pass for both. At that integration, state contained76 Court events plus8 admitted sources,84 Records. Ornelas May28 uses the exact completedMay21 public snapshot; later groups await the actual intervening decisions.
 
 The protected opening baseline remains byte-identical for all6054 protected paths as checked after the May21 integration. Prepared additional modeling children receive explicit public authority inputs only and select no current positions before their finalized neutral and chronological law gates.
+
+
+## May28 completion and June3 handoff
+
+Ornelas independent commitments were frozen at68efc11 and reconciled atcbbc1f0 after the exact neutral packet1f9169c. Reconciliation corrected Thomas's unsupported departure and preserved genuine contextual due weight. The completed Record/public copy155b6fd vacates both appellate judgments,8–1: O’Connor authors unanimous PartI and eight-Justice PartsII–III; Scalia dissents. Chief assignment65 is O’Connor’s nineteenth. Root read the full Record and full public render; kernel/public identity/links/ceiling checks passed. The first four public entries are complete in the render staging fragment.
+
+Workspace7ee25af contains77 Court events and8 sources,85 Records, and freezes the exact completed-May28 projection. Four June3 neutral packets18c4969 use this common law. The capital-law supplement received only an updated readiness header in18c4969; every previously copied authority block is unchanged. Good Samaritan and MCI's earlier complete public entries were mechanically supplied at765f034 for a live own-Justice authority check.
+
+The preserved POST_MAY21 snapshot contains one stale source-cutoff clause attaching the May13 baseline to Pinder. The actual Pinder Record and the snapshot's complete public text and final sentence correctly use the completeMay20 state. The separate public chronology notee78b2c9 corrects that descriptive clause, and current/subsequent projections carry the correction. The old snapshot remains byte-identical; no holding or entering-law source changed. Ornelas neutral/model/reconciliation/assembly all expressly used the complete actualMay21 state.
+
+### Smiley modeling source-boundary incident
+
+Before writing any commitments, the first scoped Smiley modeling child searched an officially published OCC rule file and received its footnote5 containing this target case’s historical petition-treatment citation. The child reports no target Supreme Court merits outcome, reasoning or lineup exposure and wrote no commitments. This was excluded petition material, so the context stopped; no affected current commitment is retained or reused. Root will preserve the verified statutory source facts through a clean neutral supplement and a fresh independent model using only the bounded OCC PUBLIC source, with no raw final-rule source traversal. The original incident remains disclosed even after clean replacement. The three other June3 models are unaffected and remain distinct.
