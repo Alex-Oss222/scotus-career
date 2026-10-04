@@ -4,9 +4,9 @@
 
 ## 1. Scope and Chronology Cursor
 
-**Posture:** The cumulative state contains **77 completed Court events and eight admitted noncase-law sources (85 canonical Records)**. The April 9 Bowersox interim order is followed by a separate final action granting Missouri's application, 5–4, and vacating the March 8 appellate stay with immediate effect. The Supreme Court application is closed. The underlying appeal and any other lawful restraints are not adjudicated; no substitute stay, fixed grace period, execution order, writ disposition or appeal dismissal is entered. Actual transmission, service, responses and elapsed interim clocks are not presumed. Thirteen chunk 5 Court events and all twelve chunk 4 actions are recorded. Ayers's March 25 library-only writ was dismissed as improvidently granted, 8–1; this Court's review ends while the Fifth Circuit appeal and the district court's remedial jurisdiction remain available. The dismissal changes no substantive desegregation rule and leaves every decree provision undisturbed without merits affirmance. The completed March 27 and April 1 groups retain their respective common March 26 and March 27 entering-law baselines. Jones’s financial-leave motion and certiorari petition remain pending; Wood remains an open plenary grant. Maine No. 35 and Louisiana No. 121 retain implementation jurisdiction, alongside the five inherited open matters. These are the nine previously identified continuing matters. Ayers is no longer an open Supreme Court matter; its pending lower-court appeal is preserved. Shieh’s separate certiorari petitions, Nos. 95-7587, 95-7588 and 95-7589, are also pending after their three individual financial motions were granted; they are not three additional completed Court events. Bowersox, No. A-828, is closed by the final April 9 application order; its underlying appeal and any other lawful restraints are not adjudicated. Latest completed Court action and current-law cutoff: Ornelas, May 28, 1996, using the complete May 21 entering-law state. All twelve chunk 6 Court events are complete. The latest admitted source remains PLRA sections 802–804, April 26, 1996. Next eligible manifest group: Quackenbush, Smiley, Loving and Auciello on June 3, using the common complete May 28 public-law state. The eight admitted sources are the October 1, 1995 paternity amendment; Rule 57 effective December 1, 1995, with its qualified pending-case transition; Public Law 104-91 enacted January 6, 1996, with its covered period deemed to begin December 16, 1995; Telecommunications Act §§302 and 551 enacted February 8, 1996, within their actual conditions and transitions; OCC §7.4001(a)–(d) effective April 1, 1996, within its credit-charge, home-state and corporate-usury conditions; AEDPA Title I enacted April 24, 1996; and PLRA sections 802–804 enacted April 26, 1996. AEDPA and PLRA retain their provision-specific conditions and temporal limits and change no pending case stage by admission alone. Opening adjudicative cutoff: June 29, 1995.
+**Posture:** The cumulative state contains **81 completed Court events and eight admitted noncase-law sources (89 canonical Records)**. The April 9 Bowersox interim order is followed by a separate final action granting Missouri's application, 5–4, and vacating the March 8 appellate stay with immediate effect. The Supreme Court application is closed. The underlying appeal and any other lawful restraints are not adjudicated; no substitute stay, fixed grace period, execution order, writ disposition or appeal dismissal is entered. Actual transmission, service, responses and elapsed interim clocks are not presumed. Thirteen chunk 5 Court events and all twelve chunk 4 actions are recorded. Ayers's March 25 library-only writ was dismissed as improvidently granted, 8–1; this Court's review ends while the Fifth Circuit appeal and the district court's remedial jurisdiction remain available. The dismissal changes no substantive desegregation rule and leaves every decree provision undisturbed without merits affirmance. The completed March 27 and April 1 groups retain their respective common March 26 and March 27 entering-law baselines. Jones’s financial-leave motion and certiorari petition remain pending; Wood remains an open plenary grant. Maine No. 35 and Louisiana No. 121 retain implementation jurisdiction, alongside the five inherited open matters. These are the nine previously identified continuing matters. Ayers is no longer an open Supreme Court matter; its pending lower-court appeal is preserved. Shieh’s separate certiorari petitions, Nos. 95-7587, 95-7588 and 95-7589, are also pending after their three individual financial motions were granted; they are not three additional completed Court events. Bowersox, No. A-828, is closed by the final April 9 application order; its underlying appeal and any other lawful restraints are not adjudicated. Latest completed Court group and current-law cutoff: Quackenbush, Smiley, Loving and Auciello, June 3, 1996; all four used the common complete May 28 entering-law state. All twelve chunk 6 Court events are complete. The latest admitted source remains PLRA sections 802–804, April 26, 1996. Next eligible manifest group: Richards, Whren, Degen and Exxon on June 10, using the common complete June 3 public-law state also preserved for the same-date IBM and Lockheed matters in chunk 8. The eight admitted sources are the October 1, 1995 paternity amendment; Rule 57 effective December 1, 1995, with its qualified pending-case transition; Public Law 104-91 enacted January 6, 1996, with its covered period deemed to begin December 16, 1995; Telecommunications Act §§302 and 551 enacted February 8, 1996, within their actual conditions and transitions; OCC §7.4001(a)–(d) effective April 1, 1996, within its credit-charge, home-state and corporate-usury conditions; AEDPA Title I enacted April 24, 1996; and PLRA sections 802–804 enacted April 26, 1996. AEDPA and PLRA retain their provision-specific conditions and temporal limits and change no pending case stage by admission alone. Opening adjudicative cutoff: June 29, 1995.
 
-OCC §7.4001(a)–(d) is additionally admitted at its April 1, 1996 effective date after the bounded insertion review found no material effect on the 17 completed April 1–May 20 Court events. This eighth source changes no completed Court Record or pending stage. February 9 publication is distinct from April 1 effectiveness; no special retroactivity or earlier-case application is adjudicated. The current Court-event cursor is Ornelas on May 28; the earlier Romer/BMW/Henderson/Casarotto May 20 group retains its common May 13 entering law without a same-day peer dependency. [Insertion review](../freeze/OT_1995CHUNK7_OCC_INSERTION_REVIEW.md).
+OCC §7.4001(a)–(d) is additionally admitted at its April 1, 1996 effective date after the bounded insertion review found no material effect on the 17 completed April 1–May 20 Court events. This eighth source changes no completed Court Record or pending stage. February 9 publication is distinct from April 1 effectiveness; source admission itself adjudicated no special retroactivity or earlier-case application. Smiley subsequently supplies its own qualified judicial use of the interpretation for antecedent transactions without backdating the rule. The current Court-event cursor is the complete Quackenbush/Smiley/Loving/Auciello June 3 group; the earlier Romer/BMW/Henderson/Casarotto May 20 group retains its common May 13 entering law without a same-day peer dependency. [Insertion review](../freeze/OT_1995CHUNK7_OCC_INSERTION_REVIEW.md).
 
 The opening trackers are the synchronized **October 1, 2026 edition**: **Last completed October Term: 1994**; **Processed through: June 29, 1995, after all 99 OT1994 inventory Court events and the two admitted source events.** The divergence point is October 7, 1991.
 
@@ -248,7 +248,33 @@ Pinder completes the May 21 Court action. Ornelas subsequently completed May 28 
 
 The case returns to the Seventh Circuit for independent review of both preserved ultimate thresholds under Parts II–III. Accepted factual and credibility findings retain clear-error protection, and supported contextual inferences receive genuine due weight. The appellate court must apply the allocation first; the Court prescribes no suppression outcome or new evidentiary hearing. Any later Rule 11(a)(2) withdrawal consequence depends on ultimately prevailing on the preserved issue. Supreme Court merits review is complete, subject to ordinary mandate procedures; no further Supreme Court event is prescribed.
 
-Ornelas completes the May 28 Court action. Entering law is the complete public state through May 21. Next eligible: the June 3 group of Quackenbush, Smiley, Loving and Auciello, using the complete effective public law through May 28. All eight admitted sources retain their actual effective dates, conditions and unresolved temporal applications, including AEDPA, PLRA and OCC §7.4001. No unrecorded Court or lower-court action is inferred.
+Ornelas completes the May 28 Court action. Entering law is the complete public state through May 21. Quackenbush, Smiley, Loving and Auciello subsequently completed June 3 using that common complete May 28 public-law state. All eight admitted sources retain their actual effective dates, conditions and unresolved temporal applications, including AEDPA, PLRA and OCC §7.4001. No unrecorded Court or lower-court action is inferred.
+
+### June 3, 1996 — Quackenbush
+
+[Record](../records/Quackenbush_v_Allstate_Insurance_Co_merits_1996-06-03.md). The judgment of the Ninth Circuit is affirmed. The District Court's abstention remand remains vacated, and the action returns for further federal proceedings.
+
+The Ninth Circuit's judgment vacating the District Court's remand is affirmed. The action returns for further federal proceedings under that judgment and the Court's stated abstention rule. The pending arbitration motion and any properly available request for a stay receive lawful initial treatment below; no particular result, priority command or new hearing is prescribed. The Court awards no contract recovery and directs no distribution of estate assets. Supreme Court merits review is complete, subject to ordinary mandate procedures.
+
+### June 3, 1996 — Smiley
+
+[Record](../records/Smiley_v_Citibank_South_Dakota_NA_merits_1996-06-03.md). The judgment of the Supreme Court of California is affirmed.
+
+The California Supreme Court's judgment sustaining judgment on the pleadings stands affirmed. No further evidentiary proceedings, agency action or special transition is directed. No related petition or distinct claim is disposed of by this judgment.
+
+### June 3, 1996 — Loving
+
+[Record](../records/Loving_v_United_States_merits_1996-06-03.md). The Court affirms the judgment of the Court of Appeals for the Armed Forces.
+
+The Court's review of the submitted authority challenge is complete; the Court of Appeals for the Armed Forces' judgment stands. Article 71 independently requires a final judgment as to legality through the applicable military and Supreme Court review routes where review has not been waived or withdrawn. The death part may not be executed without presidential approval. The President may commute or remit it and may not suspend it. Article 71(c)(2)'s separate waiver-or-withdrawal route concerns dismissal or punitive discharge, and subsection (d)'s suspension power excludes death. The Court neither determines completion of every execution prerequisite nor directs an execution, a date, or a new military sentencing proceeding.
+
+### June 3, 1996 — Auciello
+
+[Record](../records/Auciello_Iron_Works_Inc_v_NLRB_merits_1996-06-03.md). The First Circuit's judgment enforcing the Board's order in its entirety is affirmed.
+
+The First Circuit's enforcement judgment remains in effect in full. On Union request, Auciello must write, sign and effectuate the November 27, 1988 agreement retroactively and perform the existing make-whole and cease-and-desist obligations. No remand for doubt sufficiency, new election, additional hearing, payment calculation or independent liability ruling is ordered. Any genuinely remaining lawful implementation matter retains its actual posture. Supreme Court merits review is complete, subject to ordinary mandate procedures; no special mandate date or later Supreme Court event is prescribed.
+
+Quackenbush, Smiley, Loving and Auciello complete the June 3 Court actions. All 4 decisions used the common May 28 entering-law baseline; no decision supplies intervening law for a same-date peer. Next eligible: Richards, Whren, Degen and Exxon on June 10, sharing the same baseline with the June 10 IBM and Lockheed matters in chunk 8, using the complete effective public law through June 3. All eight admitted sources retain their actual effective dates, conditions and unresolved temporal applications, including AEDPA, PLRA and OCC §7.4001. No unrecorded Court or lower-court action is inferred.
 
 ## 3. Current Law
 
@@ -2535,6 +2561,467 @@ The allocation governs otherwise authorized Government suppression appeals as we
 
 No habeas factual presumption, clear-and-convincing burden or civil Rule 52 command governs this direct criminal appeal. The ruling does not decide suppression's merits, create facts, restore waived inevitable discovery, enlarge consent or alter Rule 11(a)(2)'s condition for plea withdrawal.
 
+### Quackenbush — June 3, 1996 current law
+
+Exact public text from the [bounded public source](../entering-law/PUBLIC_Quackenbush_v_Allstate_Insurance_Co_merits_1996-06-03.md).
+
+**Event.**
+
+**Quackenbush v. Allstate Insurance Co., No. 95-244 — merits decision, June 3, 1996.** Argued February 20, 1996, on writ of certiorari to the Ninth Circuit, 47 F.3d 350. California's Insurance Commissioner, as liquidator and trustee of the insolvent Mission companies, seeks a declaration of reinsurance obligations and recovery of money due under the contracts. Allstate removed the action on diversity grounds and moved to compel arbitration and stay the litigation. The District Court accepted jurisdiction but remanded the action to state court under Burford without deciding that motion. The Ninth Circuit vacated the remand and returned the case for further proceedings.
+
+The questions are whether this abstention remand is appealable under §1291 rather than reviewable only by mandamus, and whether abstention authority permits relinquishing this action for legal damages. The Court resolves those questions without deciding whether the particular circumstances otherwise satisfy Burford.
+
+**Participation.**
+
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at argument and decision.
+
+**Public Action.**
+
+The judgment of the Ninth Circuit is affirmed. The District Court's abstention remand remains vacated, and the action returns for further federal proceedings.
+
+**Judgment & Remedy.**
+
+**Affirmed, 9–0.**
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer.
+
+All nine support appellate review and affirmance of the judgment vacating the abstention remand. The Court does not adopt the Ninth Circuit's broader prohibition of every form of abstention in actions at law. No arbitration, stay, damages award or distribution of insurance assets is ordered.
+
+**Opinion Topology.**
+
+Justice O'Connor delivers the opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Part I addresses the statutory review restriction and two independently sufficient grounds of appealability. Part II addresses abstention authority, the remedy and its limits. Justice Kennedy and Justice Scalia each file a separate concurrence, joined by no other Justice. Both join the Court's entire opinion and judgment.
+
+**Holdings.**
+
+**Common authority:** O'Connor's Parts I–II, joined by all eight other Justices identified in Opinion Topology, supply nine direct votes for each holding and qualification below. The concurrences add no controlling exception or alternative holding.
+
+### The statutory remand-review bar does not cover this abstention ground
+
+**Operative rule:** Section 1447(d), read with §1447(c), does not bar review of this remand because it rests on Burford abstention, not a timely raised removal-procedure defect or lack of subject-matter jurisdiction. Courts may identify the stated remand ground, but may not use that classification to review the correctness of a covered ground.
+
+**Controlling explanation:** Thermtron and Things Remembered require the review restriction to be read with the grounds specified in §1447(c). The District Court accepted jurisdiction and invoked abstention; this order therefore falls outside the covered category. The Commissioner's continued opposition to remand review supplies no basis to disregard that governing construction. The Court does not assume that he conceded the point or decide the separate reviewability of discretionary remands under Carnegie-Mellon University v. Cohill.
+
+A motion based on a removal-procedure defect must be raised within thirty days after removal; subject-matter jurisdiction is a distinct ground. The then-applicable §1443 exception to §1447(d) is not implicated. No exception to the covered-remand bar is created, and being outside that bar does not alone establish an appellate channel.
+
+### Complete surrender of the federal forum supplies an appealable decision
+
+**Operative rule:** When an abstention remand completely disassociates the District Court from the action and conclusively surrenders federal adjudication, it is appealable under §1291 on Moses H. Cone's limited effectively-out-of-court ground, provided no statutory review bar applies. This ground independently sustains the present appeal.
+
+**Controlling explanation:** Moses H. Cone recognizes finality when the federal court has effectively surrendered the controversy to a state forum. This remand makes the consequence unmistakable: nothing remains on the federal docket for the District Court to adjudicate. The ruling is more than an ordinary delay or revocable case-management stay.
+
+The Commissioner's reliance on the usual final-judgment rule overlooks this complete surrender. The remand does not resolve the contract merits and is not final in the traditional sense described in Catlin; Cone supplies the specific basis for treating it as appealable. The Court does not classify every remand or every stay as a conventional final judgment, and finality does not determine whether abstention was lawful.
+
+### The collateral-order doctrine independently permits this appeal
+
+**Operative rule:** This abstention remand also independently satisfies Cohen because it conclusively decides the important question of surrendering statutory federal jurisdiction, a question separate from the contract merits that cannot be effectively reviewed after a later federal final judgment. Thermtron's statement that remands are reviewable only by mandamus is disavowed to the extent inconsistent with this application of the later Moses H. Cone holding.
+
+**Controlling explanation:** All collateral-order requirements are met. The remand conclusively ends federal adjudication. Whether federal jurisdiction may be surrendered is separate from Allstate's contractual liability and setoff defenses. The category implicates the public allocation of adjudicative responsibility and federal-state relations. Once the case returns to state court, no later federal final judgment will permit review of that surrender.
+
+Digital Equipment requires both genuine importance and effective unreviewability. Its ordinary private-settlement category lacks the requisite public importance and independently remains adequately protected by final review despite litigation costs. Here the forum ruling itself forecloses the later federal review. Neither an asserted right to avoid trial nor litigation expense alone supports the result.
+
+The limited disavowal of Thermtron's mandamus-only language leaves its construction of §§1447(c)–(d) intact. Appeal lies without §1292(b) certification or an extraordinary writ; no certification or entitlement to mandamus is found. Section 1292(b) remains a separate route requiring written district certification of a controlling legal question, substantial ground for difference of opinion and possible material advancement of termination, application within ten days and appellate permission. An application alone does not stay proceedings.
+
+### Burford does not authorize relinquishing these independent damages claims
+
+**Operative rule:** Under the governing abstention precedents, outright dismissal or remand on abstention grounds requires relief that is equitable or otherwise discretionary; Burford does not authorize surrender of these independent coercive contract-damages claims. An otherwise justified stay may postpone damages litigation while preserving federal jurisdiction, but no stay is approved or required here.
+
+**Controlling explanation:** Burford and NOPSI recognize bounded discretion to withhold discretionary relief against the background of Congress's assignment of federal jurisdiction. They do not confer a general power to abandon an obligatory damages action. Merger of legal and equitable procedure did not make the right to recover on a legal claim discretionary. California's substantial interest in orderly insurance liquidation cannot itself supply the missing remedial authority.
+
+The complaint does contain a declaratory count. The Ninth Circuit declined the Commissioner's distinct declaratory-character theory because it was first presented on rehearing. In any event, the independent contract claim prevents treating the whole action as Wilton's declaration-only suit. Wilton derives its discretion from §2201 and Brillhart in a declaration-only action with adequate parallel state proceedings and preserves federal jurisdiction during the stay. Abuse-of-discretion review still corrects legal-source errors and unsupported adequacy findings. The Court need not decide the handling of a genuinely separable declaratory claim.
+
+Allstate's request for a stay, anticipated setoff defenses and participation in liquidation do not transform the Commissioner's claim for contract recovery into discretionary equitable relief. The state court's asset-control orders coexist with permission for the liquidator to sue elsewhere; they do not establish an exclusive-jurisdiction ground displacing the District Court's accepted jurisdiction.
+
+A properly supported stay can preserve state administrative interests without surrendering federal responsibility. The District Court chose remand after declining that alternative. The availability of a different, conditional remedy does not validate the remand or establish the conditions for a stay. The narrower remedy ground suffices to affirm; the Ninth Circuit's broader per se exclusion of abstention in actions at law is not adopted.
+
+### Limits and questions not reached
+
+The Court does not decide whether either Burford branch is satisfied here. Subject to timely and adequate state review, NOPSI identifies alternative grounds: difficult state-law questions of substantial public importance transcending the immediate result, or federal review disruptive of state efforts to establish coherent policy on a matter of substantial public concern. They are not cumulative requirements. A complex regulatory scheme or potential conflict alone does not suffice. Prudential and Imperial resolve particular issues and do not establish that every setoff dispute is settled; Imperial's settlement ground neither settles this action nor makes it moot.
+
+The damages-surrender holding does not decide whether to abstain in a genuinely equitable action or settle every other source-specific abstention doctrine. Fair Assessment's state-tax and §1983 setting supplies no adjudicated general damages-dismissal exception here; its distinct comity rule is not disturbed. The unpresented application of Thibodaux is not decided, and the unchallenged Colorado River ruling is not reopened. Forum non conveniens has a distinct pedigree and considerations, including its surviving foreign-alternative-forum setting; it is not overruled by this abstention holding.
+
+No lower federal court decided Allstate's FAA motion. Its substantial federal interest does not establish coverage, assent, scope, enforceability or a right to arbitration. A §3 stay requires a written agreement covering a referable issue, the court's satisfaction, a party application, arbitration according to the agreement and no applicant default in proceeding; their satisfaction is not decided. No default is presumed and no new default inquiry is required. Applicable formation, fraud, duress, unconscionability, lack-of-assent and other evenhanded defenses retain their preservation requirements. Actual contract selection, delegation, nonsignatory rights and the interaction with state insurance-liquidation law, including McCarran-Ferguson, remain undecided. The Court neither directs arbitration nor requires that it be ordered first. No new evidentiary proceeding or abstention hearing is mandated.
+
+**Precedent Treatment.**
+
+- **Thermtron Products, Inc. v. Hermansdorfer, 423 U.S. 336:** Its construction of §§1447(c)–(d) remains controlling. Its mandamus-only language is disavowed only to the extent inconsistent with the present application of the later Cone holding.
+- **Things Remembered, Inc. v. Petrarca, December 5, 1995:** Applies its covered-ground restriction without reviewing a covered remand's correctness. Its bankruptcy-remand setting and the separate Cohill reservation do not decide this Burford appeal.
+- **Moses H. Cone Memorial Hospital v. Mercury Construction Corp., 460 U.S. 1:** Applies both effective-surrender finality and the independent collateral-order ground to an order completely ending federal adjudication.
+- **Cohen v. Beneficial Industrial Loan Corp., 337 U.S. 541:** Applies its cumulative collateral-order requirements to this conclusive federal-forum surrender.
+- **Catlin v. United States, 324 U.S. 229:** Preserves traditional merits finality; this remand is appealable under the distinct grounds just stated without becoming a merits-ending judgment.
+- **Digital Equipment Corp. v. Desktop Direct, Inc., June 6, 1994:** Preserves both private-settlement limits and distinguishes their public-importance and final-review premises from this category.
+- **Burford v. Sun Oil Co., 319 U.S. 315, and New Orleans Public Service, Inc. v. Council of City of New Orleans, 491 U.S. 350:** Apply their bounded remedial discretion and preserve the actual alternative state-policy predicates; they supply no authority for the outright damages remand entered here.
+- **Wilton v. Seven Falls Co., June 12, 1995, and Brillhart v. Excess Insurance Co., 316 U.S. 491:** Preserve source-specific discretion over declaration-only relief and distinguish the present independent coercive claim; Wilton's lawful discretionary-stay review rule remains unchanged.
+- **Ankenbrandt v. Richards, June 15, 1992:** Preserves the duty to exercise ordinary diversity damages jurisdiction absent an applicable exception or concrete abstention basis; its particular record did not settle every damages-abstention question.
+- **Colorado River Water Conservation District v. United States, 424 U.S. 800:** Preserves its distinct governing conditions and the underlying obligation to exercise jurisdiction; the ruling rejecting that ground below is not reopened.
+- **Fair Assessment in Real Estate Ass'n v. McNary, 454 U.S. 100, and Louisiana Power & Light Co. v. City of Thibodaux, 360 U.S. 25:** Preserve their source-specific settings without deciding their unpresented application here.
+
+**Law After Decision.**
+
+Effective June 3, 1996, an abstention remand conclusively surrendering the federal forum is appealable through the two independent grounds stated in Part I when no statutory review bar applies. The covered-remand bar remains intact. Under the governing Burford rule, courts may not dismiss or remand independent legal-damages claims merely to relinquish federal adjudication; a retained-jurisdiction stay still requires its own justification.
+
+The decision adds that remedy boundary without deciding the actual Burford predicates, extending declaration-only discretion to an entire mixed action, or eliminating distinct source-specific doctrines. Kennedy's suggested future extension and Scalia's response are noncontrolling. The current rule includes no newly recognized extraordinary-federalism exception to Burford's damages-surrender limit.
+
+Casarotto's arbitration nondiscrimination rule and its preserved ordinary defenses do not adjudicate this FAA motion. No arbitration entitlement, insurance-law preemption result, setoff right or damages liability follows from the judgment.
+
+### Smiley — June 3, 1996 current law
+
+Exact public text from the [bounded public source](../entering-law/PUBLIC_Smiley_v_Citibank_South_Dakota_NA_merits_1996-06-03.md).
+
+**Event.**
+
+*Smiley v. Citibank (South Dakota), N.A.*, No. 95-860, 517 U.S. 735. Argued April 24, 1996; decided June 3, 1996. On writ of certiorari to the Supreme Court of California, 11 Cal. 4th 138, 900 P.2d 690, which affirmed judgment on the pleadings for Citibank.
+
+The questions concern whether federal law includes contractual credit-card late fees within interest under 12 U.S.C. §85, whether South Dakota instead supplies that federal definition, and the resulting statutory and constitutional objections to applying the home State's allowance outside its borders.
+
+Citibank is a national bank located only in South Dakota. Barbara Smiley, a California resident, challenges the fees under California Civil Code §1671, which invalidates a consumer liquidated-damages provision unless the parties agree on presumed damages where fixing actual damages would be impracticable or extremely difficult. Her Classic Card charged $15 when the minimum payment was more than twenty-five days overdue. Her Preferred Card charged $6 after fifteen days and, if payment remained delinquent at thirty days, an additional amount equal to the greater of $15 or 0.65 percent of the current balance, assessed again each succeeding month in which the minimum payment remained more than thirty days overdue. The agreements also imposed monthly finance charges on certain balances, calculated by percentage or a fifty-cent minimum, which she does not challenge.
+
+South Dakota's allowance of these agreed charges and Citibank's location there are undisputed. The complaint alleges that the late fees lack a relationship to the balance, amount due, days overdue or processing costs, accompany continuing finance charges, and do not waive contractual default. Those allegations are accepted for this pleading judgment; there are no findings about actual costs, credit-market effects or benefits to other borrowers.
+
+**Participation.**
+
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
+
+**Public Action.**
+
+The judgment of the Supreme Court of California is affirmed.
+
+**Judgment & Remedy.**
+
+**Affirmed, 9–0.** Supporting: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+The judgment sustaining judgment on the pleadings for Citibank against the challenged California late-fee theory remains in force. No evidentiary or agency remand, damages, restitution, injunction, class certification or special mandate date is ordered. Contract formation, disclosure, unconscionability and other generally applicable defenses remain open to the extent they do not conflict with §85; this decision does not adjudicate a distinct claim asserting them or validate a charge unauthorized by the agreements.
+
+**Opinion Topology.**
+
+Justice Souter delivers the opinion of the Court. Justices Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer join it in full. Chief Justice Stone-Zsela joins Parts I, II, IV and VI and the judgment; he does not join Parts III-A, III-B or V. No separate opinion is filed.
+
+Parts I, II, IV and VI therefore have nine votes. Parts III-A, III-B and V have the eight Associate Justices' votes. Each part is an opinion of the Court; there is no fractured controlling rationale.
+
+**Holdings.**
+
+### I. Federal statutory meaning and the Comptroller's authority
+
+**Holding and operative rule.** Federal law determines which charges constitute §85 interest; home-state law then supplies the permitted rate within the statute's terms. Congress did not unambiguously exclude the challenged late-payment charges, and the Comptroller has delegated responsibility supporting authoritative interpretation of that substantive banking obligation.
+
+**Authority.** Part I of Justice Souter's opinion, joined by the full Court.
+
+**Controlling explanation.** The Court first determines the statutory boundary and the agency's actual responsibility. *MCI Telecommunications Corp. v. AT&T* requires that inquiry before deference; *Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc.* then respects a permissible agency construction within the range Congress left. *NationsBank of North Carolina, N.A. v. Variable Annuity Life Insurance Co.* applies that sequence to reasoned banking classifications; it does not give the Comptroller authority to override enacted conditions.
+
+Sections 93, 1818 and 1813(q) establish enforcement responsibilities relevant to national banks' substantive obligations, including §85. Section 93a authorizes rules carrying out the Comptroller's responsibilities, except where authority is expressly and exclusively assigned to another agency; its grant does not apply to §36 or national banks' Glass-Steagall securities activities. Enforcement remains subject to its statutory institutional scope, predicates, notice, hearing, findings or consent, review and remedy conditions. This private action enters no enforcement order. Section 86's judicial remedy does not make all administration of §85 exclusively judicial. *Adams Fruit Co. v. Barrett*, which rejects agency control over a judicial remedy outside the delegation, therefore does not bar the present substantive interpretation.
+
+South Dakota cannot enlarge the federal category by labeling an exaction interest. Its permission matters after federal classification. *Daggs v. Phoenix National Bank* establishes that a State may allow parties to agree on the rate without specifying a numerical maximum; it does not classify every contractual charge as interest.
+
+### II. The challenged late fees are covered by a reasonable interpretation
+
+**Holding and operative rule.** The Comptroller reasonably includes these contractual charges for late repayment of credit within §85 interest, and that interpretation controls under Chevron's second step. Fixed form, contingency, an incentive to pay promptly, continuing finance charges, or a lack of proportionality to balance, time or administrative loss does not categorically exclude the charges.
+
+**Authority.** Part II, joined by the full Court.
+
+**Controlling explanation.** Section 85's reference to interest at a rate does not require every charge to be a periodic percentage. The statute's Federal Reserve percentage alternative does not make that form exclusive. Section 86's reference to twice the interest paid specifies a remedy; it does not require every component to be calculable when credit is first extended.
+
+Smiley accepts some flat initial charges and default charges measured by time and balance. Her objection that these contingent fees cannot be reckoned at inception therefore receives a distinct answer: Congress imposed no such prerequisite. The contractual contingency makes the charge ascertainable when it occurs. The OCC's distinction between payments for extending credit, making it available or defaulting on its conditions and reimbursements for other services is reasonable. It does not depend on proving that each fee equals actual loss.
+
+*Citizens' National Bank v. Donnell* rejects a penalty label as a categorical means of excluding default charges from interest restrictions. Its percentage overdraft charges and compounding holding did not decide flat credit-card fees. *Meilink v. Unemployment Reserves Commission* involved a statute expressly distinguishing penalties from interest and does not impose that distinction on §85.
+
+The pleaded allegations do not defeat the permissible classification of either the Classic or Preferred charges. The Court does not choose an independently sufficient judicial best reading, endorse every fee in the regulation's nonexclusive lists, or prescribe a cost study or new fee-reasonableness test. Attorneys' fees, litigation costs, prepayment charges, unrelated services and other breach charges are not decided. Classification does not itself validate an undisclosed, unconscionable or contractually unauthorized fee; compatible contract and consumer-protection rules remain.
+
+### III-A. A changed interpretation is not automatically disqualified
+
+**Holding and operative rule.** An agency interpretation does not lose eligibility for deference merely because it changes or addresses an old statute amid litigation. A lawful and adequately explained change within delegated ambiguity may receive deference; an unexplained reversal or disregard of legitimate reliance may be arbitrary and capricious.
+
+**Authority.** Part III-A, joined by all eight Associate Justices. This is an independently adequate answer to the categorical inconsistency objection, not a determination that every changed policy is valid.
+
+**Controlling explanation.** *Good Samaritan Hospital v. Shalala* permits reasoned interpretive change while preserving the requirements of lawful authority, statutory fit and an adequate explanation. Neither statutory age nor litigation impetus supplies a categorical contrary rule. The OCC publicly proposed its interpretation on March 3, 1995, received 112 comment letters, and described its consideration of comments and its reasons in the final rule published February 9, 1996. That instrument differs from an unsupported position invented by litigation counsel. Its stated purpose was to clarify uncertainty in the governing interpretation. The Court assesses the agency's actual explanation; it supplies neither new economic findings nor an invented reliance rationale. These procedural facts do not establish satisfaction of every statutory rulemaking requirement.
+
+### III-B. The earlier letters did not establish a contrary settled policy
+
+**Holding and operative rule.** Independently, the cited 1964 and 1988 letters do not establish clear, settled official agency guidance contrary to the current interpretation. Their existence does not itself make the rule an unexplained reversal of a binding prior position.
+
+**Authority.** Part III-B, joined by all eight Associate Justices. This supplies a second, independent answer to the claimed prior-policy barrier.
+
+**Controlling explanation.** The 1964 informal statement concerning consumer automobile financing listed late charges among items not properly characterized as interest. The 1988 deputy-counsel response proceeded on a home-state-definition approach. The letters differ in authority and context and conflict with one another over whether the relevant category is nationally or state defined. They do not establish the clear prior agency interpretation that Smiley's argument assumes. The formal rule's explanation that it clarifies uncertainty supplies a reason for the present federal definition. This conclusion concerns the legal force of the identified documents; it is not a finding about a borrower's actual reliance. *Good Samaritan* requires consideration of agency reasons without making every earlier informal formulation controlling, while *Bowen v. Georgetown University Hospital* denies automatic weight to unsupported litigation positions. The separately published rule is assessed on its own stated grounds.
+
+### IV. The particular federal permission displaces the conflicting California restriction
+
+**Holding and operative rule.** For the challenged charges, federal classification as interest and South Dakota's undisputed permission bring §85's interstate allowance into operation. California may not prohibit those charges through the conflicting application of §1671; the holding does not displace compatible state regulation or invalidate §1671 generally.
+
+**Authority.** Part IV, joined by the full Court.
+
+**Controlling explanation.** The Court assumes without deciding that courts must always determine statutory preemption independently. The OCC reasonably interprets a substantive federal term; it does not acquire a freestanding power to preempt. *Marquette National Bank of Minneapolis v. First of Omaha Service Corp.* establishes that §85 permits a national bank to charge the home-state-allowed interest to out-of-state borrowers. Lending to California customers does not itself relocate this South Dakota bank.
+
+Section 1671 is invoked to forbid the agreed charges unless they satisfy California's different liquidated-damages restriction. That application withdraws the particular permission §85 supplies. Its general contract-law label does not eliminate the conflict, and no empirical finding about burdens on the bank's overall business is necessary. *Barnett Bank of Marion County, N.A. v. Nelson* reinforces the protection of a specifically conferred federal banking permission while preserving its conditions and compatible state law. *Cipollone* and *Gade* require attention to statutory scope; neither authorizes a State to negate this established federal option merely because a bank could abandon it.
+
+Congress's use of a home-state allowance does not let South Dakota define federal interest. The Court therefore need not decide an abstract Article I or Article IV challenge premised on that supposed delegation. It does not reach an independent §24 incidental-powers ground or decide whether the charges satisfy California's 1995 credit-card legislation. Contract formation, disclosure, unconscionability and other generally applicable defenses remain available insofar as their application does not conflict with §85.
+
+### V. Use of the interpretation for antecedent transactions
+
+**Holding and operative rule.** In deciding the governing statute's meaning for antecedent transactions lacking clear prior agency guidance, the Court may use the agency's current authoritative interpretation. This does not backdate the rule's April 1, 1996 effective date; the materially different case of a later rule displacing a clear earlier agency interpretation is reserved.
+
+**Authority.** Part V, joined by all eight Associate Justices.
+
+**Controlling explanation.** The Court decides what §85 means for the transactions before it. As Part III-B establishes, the cited letters did not supply clear contrary agency guidance. The general permissibility of changing policy in Part III-A would not, by itself, establish lawful retrospective use. If a new rule displaced a clear earlier interpretation, the objection to its use for prior conduct could have substance.
+
+*Bowen* forbids unauthorized retrospective legislative rulemaking. It does not require the Court to disregard a current authoritative interpretation of the statute in the circumstances presented here. No special transition or retroactivity clause exists in this rule, no settled judgment is reopened, and no factual reliance finding is made. The Court adopts no universal permission to change the legal consequences of completed conduct and makes no waiver or preservation ruling concerning this objection.
+
+### VI. Statutory and procedural limits of the decision
+
+**Scope.** Part VI, joined by the full Court, preserves the following limits. The statutory-merits deference ground does not adjudicate every potential independent challenge to the rule's validity or excuse a demonstrated procedural violation.
+
+Section 43 covers an agency opinion letter or interpretive rule, on request or the agency's own motion, concluding that federal law preempts application to a national bank of state community-reinvestment, consumer-protection, fair-lending or intrastate-branch law, and the specified §36(f)(1)(A)(ii) determinations. Subsection (a) requires advance Federal Register notice describing the issue and each state law, at least thirty days for written comments, and consideration of comments received. Subsection (b) separately requires publication of the specified final action.
+
+The exceptions have distinct scopes. Subsection (c)(1) excludes the entire section for essentially identical preemption issues previously resolved by courts or addressed by an agency opinion or interpretive rule, or for a response to a request containing no significant legal basis for a preemption determination. Subsection (c)(2) excludes the entire section for materials prepared for judicial proceedings, submission to Congress or a Member, or intragovernmental use. Subsection (c)(3) permits an exception only to subsection (a), upon a written determination of necessity to avoid a serious and imminent threat to a national bank's safety and soundness, or for an opinion or rule connected with acquisition of banks in statutory default or danger of default, or an acquisition receiving FDIC assistance under §1823(c); final publication remains required. Institutional default requires an official custodial appointment. Danger of default requires the specified agency advice or determination of inability to meet demands or obligations, or depletion of substantially all capital, and no reasonable prospect of recovery without federal assistance. A borrower's delinquency establishes none of those conditions.
+
+**Controlling explanation.** The existence of a published proposal and comments does not establish every required procedural fact. Neither interpretive form, later litigation use, §93a authority nor absence of clear prior guidance establishes an exception or compliance. The distinction between interpretation of a substantive term and the resulting preemption does not make §43 categorically inapplicable. No finding here settles applicability, satisfaction, violation, waiver, preservation or an exception. No independently dispositive procedural defect is established on this record; missing documentary proof creates no presumption for either side and supplies no alternative disposition.
+
+The Court also preserves §85's terms: the allowed home-state rate or one percent above the specified Federal Reserve ninety-day commercial-paper discount rate, whichever is greater and no more, subject to the special state-bank-rate qualification; where no state rate is fixed, the greater of seven percent or that discount-rate alternative, with advance interest reckoned by the instrument's days to run. The foreign-branch local-law maximum, bona fide bill-of-exchange qualification for the current sight-draft exchange rate in addition to interest, and savings limited to historical business or agricultural transactions do not enlarge permission for these accounts.
+
+Section 86's knowing excess-rate predicate, interest forfeiture, and separate recovery of twice paid interest in an action commenced within two years remain unchanged; no such cause of action or remedy is adjudicated. The regulation's home-state allowance retains material loan-class restrictions, including loan-size restrictions without requiring a state license. Solely state-law definitions and calculations remain distinct from federal classification. The corporate-borrower provision does not govern Smiley. Non-interest-charge rules remain separate, and the Court does not approve every application of paragraph (c) or every listed fee category. Ordinary regulatory exclusions for appraisal, repayment-insurance, finder, document-preparation, notarization and credit-report fees remain ordinary rather than absolute exclusions.
+
+**Precedent Treatment.**
+
+- *Chevron* supplies controlling deference within an identified statutory ambiguity and delegation; its two-step framework remains intact.
+- *MCI* preserves independent enforcement of enacted boundaries before deference; no banking condition is dispensed with.
+- *NationsBank* is applied to the Comptroller's reasonable classification within actual national-banking responsibility; it acquires no general preemption or retroactive-rulemaking power.
+- *Adams Fruit* is distinguished because §§93, 1818, 1813(q) and 93a establish relevant substantive administrative responsibility; the Court does not permit an agency to redefine an exclusively judicial remedy outside its delegation.
+- *Good Samaritan* is applied to reasoned interpretive change, with statutory authority, explanation and reliance limits intact.
+- *Bowen* remains controlling against unauthorized retroactive legislative rulemaking and unsupported litigation rationales; the Court distinguishes the qualified judicial use of current interpretation described in Part V.
+- *Daggs* supplies the home-state allowed-rate mechanism, not the flat-fee classification.
+- *Donnell* supplies the limited rejection of a categorical penalty exclusion; its percentage-overdraft and compounding holding is not restated as a flat-fee decision.
+- *Meilink* is distinguished by its express statutory separation of penalties and interest.
+- *Marquette* supplies interstate application after federal interest classification; bank location and home-state permission remain prerequisites.
+- *Barnett Bank* supports the particular federal permission and preserves statutory conditions and compatible state regulation.
+- *Cipollone* and *Gade* retain their statute-specific scope; neither becomes a rule of national-bank field immunity or of conflict avoidance merely by surrendering a federal option.
+
+**Law After Decision.**
+
+The decision adds a controlling application of §85: the OCC's reasonable federal classification covers the challenged contractual credit-card late fees, permitting their interstate collection under the undisputed home-state allowance despite California's conflicting liquidated-damages restriction. Courts first identify statutory boundaries and delegated responsibility, then apply the permissible agency interpretation; neither state labels nor banking status alone decides the category.
+
+The decision retains both independent answers to the asserted policy-change barrier and permits the qualified use of a current interpretation for antecedent transactions without clear prior guidance. It changes neither the rule's effective date nor the statutory limits on retroactive legislation. It does not settle all agency-procedure objections, validate every fee, displace compatible contract or consumer-protection law, or alter §§85–86's surviving alternatives, predicates and remedies.
+
+### Loving — June 3, 1996 current law
+
+Exact public text from the [bounded public source](../entering-law/PUBLIC_Loving_v_United_States_merits_1996-06-03.md).
+
+**Event.**
+
+*Loving v. United States*, 517 U.S. 748, No. 94-1966. October Term 1995; argued January 9, 1996; decided June 3, 1996. Merits review under 28 U.S.C. §1259(1) of the Court of Appeals for the Armed Forces' judgment, 41 M.J. 213, affirming convictions and sentence. The Army Court of Military Review affirmed at 34 M.J. 956 and denied reconsideration at 34 M.J. 1065. The court below rejected the delegation objection under *Curtis* and *Matthews*.
+
+The questions concern whether Congress authorized the President to prescribe the challenged military capital factors, whether additional express authorization was required, whether the task could constitutionally be assigned, and whether Congress supplied adequate guidance. Independent Article II power is an alternative ground the government advances. Loving seeks reversal; the United States seeks affirmance.
+
+Loving, an Army private at Fort Hood, was convicted of premeditated murder of Bobby Sharbino, felony murder of Christopher Fay, attempted murder and four robbery specifications. Fay was an active-duty soldier driving a taxi for additional income and was killed on Fort Hood. Sharbino was a retired Army sergeant and was killed in Killeen. Overlapping specifications dismissed as multiplicitous are not additional retained convictions. On April 3, 1989, the eight-member panel unanimously imposed death, dishonorable discharge and forfeiture of all pay and allowances. It unanimously found premeditated murder during robbery under RCM 1004(c)(7)(B), another Article 118 murder in the same case under (c)(7)(J), and actual perpetration of the felony-murder killing under (c)(8).
+
+The governing scheme retains these distinct terms:
+
+- **Articles 118, 18 and 56.** Article 118 makes premeditated murder under clause (1) and murder during perpetration or attempted perpetration of burglary, sodomy, rape, robbery or aggravated arson under clause (4) punishable by death or life imprisonment. Its intentional-killing or great-bodily-harm clause (2) and inherently dangerous/wanton-disregard clause (3) are not capital. Article 18, subject to Article 17, permits general courts-martial to adjudge punishment not forbidden by the Code under presidential limitations, including death only when the Code specifically authorizes it. Its separate law-of-war jurisdiction permits punishments allowed by that law. A judge-alone general court-martial under Article 16(1)(B) lacks jurisdiction over a death-eligible offense unless previously referred as noncapital; this panel trial does not invoke that exception. Article 56 bars punishment exceeding the limits the President prescribes for the offense.
+- **Article 36 in its governing pre-1990 form.** The President may prescribe pretrial, trial and post-trial procedures, including modes of proof, for courts-martial, military commissions and other military tribunals, and procedures for courts of inquiry. Generally recognized federal criminal-trial principles of law and evidence apply so far as the President considers practicable. The regulations may neither contradict nor be inconsistent with the Code; they must be uniform insofar as practicable and reported to Congress.
+- **Articles 106a and 55.** The distinct espionage provision expressly identifies capital categories and aggravators, including another qualifying espionage or treason conviction, grave risk of substantial national-security harm, grave risk of another person's death, and another factor prescribed by the President under Article 36. It requires a unanimously found statutory factor beyond reasonable doubt and unanimous substantial outweighing of mitigation by aggravation, permits evidence from guilt or sentencing and broad mitigation latitude. It is not Loving's murder provision. Article 55 prohibits flogging, branding, marking, tattooing and other cruel or unusual punishment, and permits irons only for safe custody.
+- **RCM 1004 in its governing pre-1991 form.** Death requires an expressly capital Manual offense of conviction or a separately authorized law-of-war offense, unanimous conviction by all members present when voted, and compliance with the applicable factor and procedure requirements. Written aggravator notice precedes arraignment, but untimely notice does not bar later notice and proof unless the accused shows specific prejudice that a continuance or recess cannot cure. At least one listed factor must be proved beyond reasonable doubt and unanimously found with the required notice. All members must separately agree that admissible aggravation, including the eligibility factor, substantially outweighs extenuation and mitigation. Broader sentencing aggravation cannot replace the eligibility finding.
+- **Distinct sentencing steps and exceptions.** The accused has broad mitigation and extenuation latitude. The military judge instructs on the applicable factors, procedures and consideration of all mitigation. Members vote separately by secret written ballot in closed session on each instructed factor before voting on sentence; the court-martial president announces factors found when death is adjudged. Evidence may come from before or after guilt findings, or both. Paragraph (d) excepts Article 106 spying from paragraphs (a)(2), (b), (c) and RCM 1006/1007, with a separate sentencing procedure and operation-of-law announcement. Except for Article 106, paragraph (e) permits other RCM 1003 punishments, including life in lieu of death, subject to specific Manual limits. Death includes dishonorable discharge or dismissal as appropriate; confinement is its necessary incident, not a component of that sentence. These provisions do not convert the present murders into spying.
+- **Scope and transition.** RCM 1004(c)(7) applies to Article 118(1), and (c)(8) requires actual perpetration for Article 118(4). Other factor categories retain their own offense limits; no uncharged factor replaces those found here. Executive Order 12460, issued January 24, 1984, made its amendments immediately effective for trials of capital offenses committed on or after that date and directed transmission to Congress under Article 36. No actual transmission or reporting violation is determined here.
+
+**Participation.**
+
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at argument and decision. No nonparticipation is established.
+
+**Public Action.**
+
+The Court affirms the judgment of the Court of Appeals for the Armed Forces.
+
+**Judgment & Remedy.**
+
+**Judgment:** Affirmed, 9–0, on the presented authority challenges. **Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. **Opposing:** None. The reviewed convictions and sentence remain undisturbed against those challenges. The Court orders no resentencing, sentence recalculation, replacement life sentence, new guilt trial, acquittal, release or execution. Unpresented individual-factor and collateral claims are not resolved.
+
+**Opinion Topology.**
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Ginsburg, Breyer | Supports affirmance | Entire confined statutory and constitutional rationale, including Holdings I–IV |
+| Concurrence | Stevens | Souter, Ginsburg, Breyer | Joins the Court's opinion and judgment | Preserves the substantial open question of a capital service-connection requirement |
+| Concurrence | Scalia | O'Connor | Joins the Court's opinion and judgment | Explains the distinction between assigned executive implementation and transfer of legislative power |
+| Concurrence in the judgment | Thomas | No other Justice | Supports affirmance on his own ground | Military-specific basis; joins no part of the Court's rationale |
+
+**Holdings.**
+
+**Common authority:** Kennedy's Opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Ginsburg and Breyer, directly supports each of Holdings I–IV and its explanation. These are eight-Justice holdings; Thomas's separate ground is not counted toward them. No combination of separate rationales is needed.
+
+### I. Congress authorized these limitations on its capital murder punishment
+
+**Operative rule:** Articles 18 and 56 of the Uniform Code of Military Justice authorize the President to restrict availability of the death punishment Congress selected for Article 118(1) and (4), and Article 36 supplies additional statutory confirmation and procedural authority. Together they authorize the challenged Rule for Courts-Martial 1004 restrictions; they do not permit new capital offenses, capital punishment under Article 118(2) or (3), or punishment exceeding or contradicting Congress's choice.
+
+**Controlling explanation:** Congress defined the relevant murders and made them punishable by death or life imprisonment. Article 18 subjects the punishment of general courts-martial to presidential limitations and permits death only when the Code specifically authorizes it. Article 56 likewise permits the President to prescribe limits on punishment. A condition withholding death from part of an already capital class is a punishment limit, even though it is not a numerical maximum.
+
+The challenged factors perform that limiting function. The President did not add murder to the capital code or enlarge Congress's penalty. Article 36 further authorizes the procedures implementing the restriction, subject to its practicability, consistency, qualified uniformity and reporting requirements. Calling a factor procedural would not itself establish substantive authority, and the Court need not decide whether Article 36 alone would suffice.
+
+Loving's contrary reading understates Articles 18 and 56 by confining their direct punishment language to maximum quantities. The distinction is instead between implementing Congress's authorized penalty within an assigned limiting role and replacing the legislative choice. *Neal v. United States*, which preserves the separate operation of statutory sentencing law and valid delegated rules, is consistent with that distinction. The delegation does not authorize the President to create civilian crimes or prescribe vague or otherwise unconstitutional capital factors.
+
+**Precedent treatment:** *Neal*'s statutory boundary remains intact; this authorized restriction does not displace Congress's punishment choice.
+
+### II. No additional capital-specific wording is required for this authorization
+
+**Operative rule:** The enacted punishment-limiting authority is sufficient without a further formula expressly naming capital aggravating factors. Article 106a's later express espionage provisions do not withdraw that authority for the murder offenses at issue.
+
+**Controlling explanation:** The seriousness of capital eligibility requires an actual lawful source of authority. It does not permit the Court to disregard the language Congress enacted because Congress did not use the later terminology of aggravating factors. Articles 18 and 56 directly assign limitations on punishment; their operation is not an inference that the Executive may fill any omission in criminal law.
+
+Article 106a specifies espionage aggravators and also permits an additional presidential factor under Article 36. Congress's more explicit treatment of that different offense neither repeals the general limiting provisions nor makes them inapplicable to murder. Nor did the existing authorization expire when additional narrowing became constitutionally necessary on the assumption governing this case. A lawful use of the authority remains within its terms even when a later constitutional requirement makes that use necessary.
+
+The Court therefore rejects the proposed additional express-factor requirement. It does not hold that executive practice, congressional silence, or usefulness can substitute for enacted authority, and it does not resolve every possible criminal-law clear-statement question.
+
+### III. This military implementation assignment has adequate constitutional boundaries
+
+**Operative rule:** Congress may assign the President the task of identifying narrowing factors for military capital sentencing when Congress defines the capital offenses and punishment, supplies intelligible legal boundaries, and leaves implementation within the President's assigned military-administration role. Congress's offense selection, death-or-life alternatives, express punishment-limiting assignment and consistency restraints adequately bound this delegation, even assuming that the criminal and capital setting calls for greater specificity than the ordinary standard.
+
+**Controlling explanation:** The Court assumes for this authority question that additional eligibility narrowing is required for these military murders and that the three factors would adequately narrow if Congress enacted them. That assumption does not answer who may prescribe them. Neither Article I's military rulemaking clause nor the assumed capital requirement categorically requires Congress personally to prescribe every limiting factor.
+
+*Mistretta v. United States* permits guided sentencing implementation and requires Congress to retain legislative responsibility. Its capital discussion did not decide these presidential factors. *Touby v. United States* rejects categorical invalidity of criminal rulemaking but leaves open whether criminal delegations demand greater specificity. This assignment survives even on that more demanding assumption: Congress chose the offenses and punishment, assigned a limiting role, and prohibited inconsistent implementation in an existing military system.
+
+The President's executive and Commander-in-Chief responsibilities make this an assignment within his actual functions. They reinforce the enacted role without enlarging its statutory extent. The Court neither transfers Congress's entire legislative responsibility nor creates a military exemption from structural review. *Weiss v. United States* and *Ryder v. United States*, which enforce constitutional adjudicator requirements in military proceedings, retain their distinct force.
+
+Loving correctly separates the adequacy of the resulting factors from Congress's authority to assign their selection. But the enacted limits, considered with the recipient's actual military responsibility, sufficiently guide this task without an additional express factor-selection principle. Executive safeguards and the panel's unanimity could not cure absent congressional authority. The Court announces no general rule for a newly created actor, an unrelated executive sphere, or the wholesale application of civilian capital doctrine to military proceedings. Because enacted authority suffices, independent Article II power remains undecided.
+
+**Precedent treatment:** *Mistretta* and *Touby* are applied to this bounded assignment without resolving *Touby*'s general specificity question. *Weiss* and *Ryder* retain constitutional review within military institutions and their own defect-specific rules.
+
+### IV. The presented authority challenges require no sentence relief
+
+**Operative rule:** The statutory-authorization, additional-clear-authorization, categorical-nondelegability and inadequate-guidance objections furnish no ground to disturb the Court of Appeals for the Armed Forces' judgment. The judgment is affirmed without harmless-error review, a new sentencing proceeding, or resolution of unpresented factor-specific and collateral claims.
+
+**Controlling explanation:** The panel found three factors under an authorized rule: premeditated murder during robbery, another Article 118 murder in the same case, and actual perpetration of the felony-murder killing. The Court upholds the source of that rule against the submitted objections. It does not independently adjudicate the validity of every factor, the application of every sentencing protection, or all underlying conviction claims.
+
+The capital decisions keep different questions distinct. *Arave v. Creech* requires a sufficiently narrowed eligibility formulation in its setting; *Tuilaepa and Proctor* permit relevant individualized selection after unchallenged lawful eligibility. *Graham v. Collins* and *Johnson v. Texas* protect effective consideration of supported mitigation. *Stringer v. Black*, *Sochor v. Florida* and *Espinosa v. Florida* require an adequate cure of an established weighing error. *Tuggle v. Netherland* prevents surviving eligibility from disposing of an independent assistance injury. None establishes a delegation defect here or makes the survival of an aggravator a substitute for correction of a separately established injury.
+
+Congress's offense boundaries perform delegation work without necessarily satisfying the separate assumed eligibility requirement. The Court finds no authority error; it does not excuse one because the verdict was unanimous or the same factors could have been enacted by Congress. Article 71's finality and presidential-approval conditions remain independent. This affirmance orders no execution or execution date and supplies no presidential approval.
+
+**Precedent treatment:** The identified capital decisions retain their eligibility, selection, mitigation and error-correction limits; their remedies are not transferred to an unestablished error here.
+
+**Precedent Treatment.**
+
+- *Mistretta v. United States*, 488 U.S. 361, is applied to guided sentencing implementation; its conditional capital discussion does not independently decide these factors.
+- *Touby v. United States*, 500 U.S. 160, supports evaluation of the actual criminal delegation while preserving its open general question about greater specificity. Its particular drug-scheduling criteria do not become a mandatory checklist for every assignment.
+- *Neal v. United States*, 516 U.S. 284, retains the boundary between statutory punishment and lawful delegated sentencing rules. These presidential restrictions operate within Congress's chosen punishment.
+- *Weiss v. United States*, 510 U.S. 163, and *Ryder v. United States*, 515 U.S. 177, retain constitutional review of military adjudicator arrangements and their respective appointment, tenure and remedial limits. Neither supplies a military exemption from structural review.
+- *Arave v. Creech* retains genuine narrowing and the distinction between a factor's formulation and its application. *Tuilaepa and Proctor* retain the bounded selection holding after unchallenged eligibility; no broader framework is attributed to their partial joiners.
+- *Graham v. Collins* and *Johnson v. Texas* retain effective consideration of supported independent culpability mitigation. *Stringer v. Black*, *Sochor v. Florida* and *Espinosa v. Florida* retain their distinct established-error and adequate-cure requirements. *Tuggle v. Netherland* retains its independent-assistance-claim rule and unresolved error-effect standard; none supplies a harmlessness shortcut here.
+- *Solorio v. United States*, 483 U.S. 435, remains a noncapital jurisdiction decision; this case does not decide whether a service connection is constitutionally required for capital military offenses.
+
+**Law After Decision.**
+
+Articles 18 and 56, with Article 36's additional statutory and procedural support, authorize the challenged RCM 1004 limits on the capital murders Congress defined. The enacted boundaries and the President's assigned military responsibilities sustain this delegation without an additional express aggravator formula or factor-selection principle. This adds a confined military capital-delegation holding effective June 3, 1996; it changes no offense, authorized punishment, existing sentencing safeguard or defect-specific remedy.
+
+The decision establishes neither that Article 118 alone supplies every necessary eligibility narrowing nor that every RCM factor is valid. Whether Article 36 alone suffices, whether criminal delegations generally require enhanced specificity, whether additional narrowing is constitutionally indispensable throughout military capital proceedings, and whether independent Article II power could authorize factors absent congressional delegation remain undecided. No military exception to constitutional review, general criminal-code authority, or rule permitting vague or otherwise unconstitutional factors follows. The service-connection requirement remains an open question, not a newly imposed prerequisite.
+
+### Auciello — June 3, 1996 current law
+
+Exact public text from the [bounded public source](../entering-law/PUBLIC_Auciello_Iron_Works_Inc_v_NLRB_merits_1996-06-03.md).
+
+**Event.**
+
+Auciello Iron Works, Inc. v. NLRB, 517 U.S. 781, No. 95-668. Argued April 22, 1996; decided June 3, 1996; October Term 1995. On certiorari under 28 U.S.C. §1254(1) to the First Circuit, 60 F.3d 24, which enforced the Board's order under NLRA §10(e). The question is whether the Board may bar an employer from repudiating an accepted bargaining agreement on good-faith majority-status doubts based on information known before acceptance, despite the employer's asserted need for a reasonable assessment period.
+
+The Board certified Shopmen's Local No. 501 in 1977. The latest agreement expired September 25, 1988; employees struck October 14 while bargaining continued. Auciello made a proposal November 17 and left it open. On November 27 the Union telegraphed its negotiating committee's acceptance of that proposal in its entirety and ended the strike. The next day Auciello denied that a contract had formed, asserted doubt of the Union's continued majority and refused further bargaining or signature.
+
+The Board found the offer remained open and membership ratification was unnecessary. The First Circuit sustained those findings in 980 F.2d 804 but remanded for explanation of the Board's refusal to consider the doubt defense. The supplemental decision, 317 N.L.R.B. 364, explained its acceptance cutoff; the First Circuit then enforced the order in full.
+
+Auciello relied on asserted picket-line crossings, union resignations and employee statements or job changes, emphasizing information received during the Thanksgiving-shortened week. The Board found the relevant information was known while the offer remained outstanding. Neither the Board nor the court found that it established sufficient objective doubt or actual minority status, and the Board did not concede sufficiency. Union membership, strike participation and representational preference remain distinct.
+
+**Participation.**
+
+Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at argument and decision. No Justice is recused or otherwise nonparticipating.
+
+**Public Action.**
+
+The First Circuit's judgment enforcing the Board's order in its entirety is affirmed.
+
+**Judgment & Remedy.**
+
+**Judgment:** Affirmed, 9–0. **Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+On the Union's request, Auciello must put the accepted agreement in writing, sign and effectuate it retroactive to November 27, 1988. The existing make-whole and cease-and-desist requirements remain enforceable. The Court supplies no payment amount, new liability finding, election condition, automatic decertification or additional compliance hearing.
+
+**Opinion Topology.**
+
+Justice Ginsburg delivers the Opinion of the Court, Parts I–IV, joined throughout by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer. All nine directly adopt every controlling proposition, explanation, qualification and the existing remedy. No partial join, judgment-only concurrence or separate writing is present.
+
+**Holdings.**
+
+### I. The Act leaves this timing question open within its representation safeguards
+
+**Controlling proposition:** At Chevron step one, the NLRA does not unambiguously entitle an employer to leave its offer open and then repudiate the accepted agreement on previously known, unasserted good-faith majority-status doubt; this administrative timing question remains for a permissible Board choice. The separate actual-minority objection is not considered under §10(e), which bars objections not urged before the Board absent extraordinary circumstances; no qualifying excuse is supplied here.
+
+**Authority:** Part I of Ginsburg's unanimous Opinion of the Court; all nine Justices identified in Opinion Topology join.
+
+**Controlling explanation:** Sections 7 and 9 protect employee choice and majority representation. Sections 8(a)(1), (2) and (5) prohibit interference, unlawful employer support and refusal to bargain; they do not enact the claimed postacceptance grace period. Section 8(d) requires good-faith bargaining and, upon request, execution of an agreement reached, without compelling assent to an unaccepted proposal or a concession.
+
+MCI, Lechmere, Town & Country and Holly Farms require independent examination of those boundaries before deference. Auciello's argument is substantial: a union cannot acquire lawful authority merely by accepting a contract if statutory employee-choice conditions forbid its recognition. But good-faith doubt differs from actual loss of majority, and this established incumbent retained a rebuttable presumption after the old agreement expired. Brooks and Fall River permit continuity and orderly challenge without requiring a fresh numerical demonstration for every bargaining act. Neither that presumption nor silence establishes actual support; the 1977 certification creates no new conclusive year in 1988.
+
+Garment Workers concerned initial recognition of an actually minority union. Its §8(a)(2) and employee-choice limits survive, but that premise cannot be assumed here. The settled open-offer and ratification findings are accepted under the Board's formation criteria, which need not coincide with general contract law; they establish no majority finding and do not independently answer the statutory objection.
+
+The preserved doubt issue does not preserve actual-minority merits. Section 10(e), as applied in Holly Farms, retains its extraordinary-circumstances exception, but none excuses the omission. The Board has also reserved its position on a postacceptance actual-minority claim resting on previously known events. The Court decides neither that hypothetical defense nor whether both parties aware of actual minority may continue bargaining.
+
+### II. The Board reasonably uses acceptance to close the opportunity for this known-evidence defense
+
+**Controlling proposition:** At Chevron step two, the Board may ordinarily require an employer to act on majority-status doubt based on previously known information before the Union accepts its still-outstanding offer. Its explained stability policy is reasonable and consistent with the Act, subject to the distinct safeguards in Part III; it is not a factual determination that this employer lacked sufficient doubt or acted in bad faith.
+
+**Authority:** Part II of the same unanimous Opinion of the Court.
+
+**Controlling explanation:** An accepted agreement would remain uncertain if an employer could later invoke a previously uncommunicated doubt whenever management completed its assessment or disliked the agreement's consequences. The Board may prevent that unilateral leverage and post hoc litigation by using acceptance as the ordinary cutoff. These are prospective policy risks, not findings that Auciello concealed information strategically or that its employees supported the Union.
+
+Auciello emphasizes the danger of acting prematurely on inadequate doubt and the time needed to assess employee reports. That concern does not require the Board to leave an accepted agreement defeasible. The employer controls its outstanding offer and can use legally available routes before acceptance: seek an election, assert a legally sufficient doubt in response to a refusal-to-bargain charge, or continue good-faith bargaining while investigating. A refusal may draw a charge; its defense must satisfy the applicable requirements. Investigation does not suspend bargaining, and no election is automatically available or ordered.
+
+The discussion of withdrawing the offer assumes without deciding that withdrawal in these circumstances would not itself support an unfair-labor-practice charge implicating the blocking-charge rule. It confers no categorical immunity for withdrawing an offer or recognition. The accepted cutoff does not depend on turning that assumption into an adjudicated right.
+
+Fall River and Curtin Matheson support reasonable policy within the Act. Curtin Matheson's striker-replacement rule did not decide this timing question or establish sufficient doubt here. Its policy/evidence distinction remains essential: the supplemental Board decision itself explains a legal policy, rather than pretending to find employee sentiment. ABF Freight preserves statutory connection, explanation and arbitrariness review; it supplies no majority-status rule. Health Care and Holly Farms likewise require actual predicates and agency reasons. No judicial substitute rationale or explanatory remand is necessary, and the statute is not held to compel this particular policy for every future Board.
+
+### III. The ordinary presumptions and distinct challenge routes remain qualified
+
+**Controlling proposition:** Sustaining this cutoff preserves the separate certification-year, contract-term and postexpiration presumptions, their recognized unusual-circumstances qualifications, and lawful representation procedures. The Board separately reserves case-by-case treatment for new doubt-producing information first received virtually simultaneously with acceptance; later assessment of earlier-known information is not that circumstance.
+
+**Authority:** Part III of the same unanimous Opinion of the Court.
+
+**Controlling explanation:** Ordinary certification protection lasts one year; ordinary contract protection lasts the term up to three years. Unusual circumstances include a certified union dissolving or becoming defunct, or a schism through which substantially all members and officers transfer affiliation to another local or international. These examples are illustrative, not exhaustive. No dissolution or schism claim is adjudicated here, and advocacy that none occurred supplies no additional finding.
+
+After the protected period, actual nonmajority requires its own numerical showing, while sufficient objective good-faith doubt may rest on circumstantial evidence under the received framework. The Court changes neither route where lawfully available and does not decide whether the Board could abolish the doubt defense generally.
+
+The representation or decertification petition window is distinct. For an agreement of three years or less, the stated ordinary window is more than 60 but less than 90 days before expiration; healthcare and seasonal operations receive different treatment, with no substitute window decided here. Permission to petition is not permission to refuse bargaining unilaterally during a contract. No petition or employee vote is found in this case.
+
+The simultaneous-information reservation addresses, for example, employees first presenting signed anti-representation petitions virtually when acceptance arrives. It requires case-specific consideration, not a new result announced for that hypothetical. The First Circuit accepted the Board's conclusion that this case falls outside it. The reservation differs both from unusual circumstances during a protected period and from §10(e)'s excuse for unpreserved objections.
+
+The Board's separate statement that parties aware of actual loss of majority may not continue bargaining concerns another setting. It is not an actual-minority finding or an additional holding here. Nor does this decision foreclose a timely lawful challenge, validate an agreement procured by fraud or decide relief for material postacceptance events. Any such issue must satisfy its own lawful predicates and procedures.
+
+### IV. The known-evidence rule sustains the existing enforcement judgment
+
+**Controlling proposition:** Because the relevant evidence was known before acceptance and the simultaneous-information reservation does not apply, the Board's lawful timing rule defeats the preserved defense without deciding evidence sufficiency or a reasonable assessment period. The First Circuit's entire enforcement judgment therefore stands, with only its existing requested-execution, retroactive performance, make-whole and cease-and-desist relief.
+
+**Authority:** Part IV of the same unanimous Opinion of the Court.
+
+**Controlling explanation:** The accepted findings establish that the November 17 offer remained open, the negotiating committee could accept without membership ratification, and management already possessed the information on which it later relied. Management's earlier list and its post-telegram review support the timing determination; they do not establish the employees' actual preferences or the legal sufficiency of doubt.
+
+The employer's holiday-week assessment account does not convert earlier-known evidence into virtually simultaneous first receipt. Applying the Board's permissible rule therefore requires no decision whether nine picket-line crossings, thirteen union resignations, asserted disaffection or reported new jobs supplied a sufficient objective basis. Those events are not interchangeable with opposition to representation, and no actual minority is found.
+
+The Board alternatively argues that Auciello had enough time even under its proposed reasonable-period approach. The Court adopts no such calendar ground, fixes no assessment period, and makes no finding that adequate doubt existed by November 18, 21 or 23. The lawful policy ground is sufficient.
+
+On the Union's request, Auciello must write, sign and effectuate the accepted agreement retroactively to November 27, 1988, and comply with the existing make-whole and cease-and-desist order. No new payment amount, Board election, doubt-sufficiency hearing, compliance hearing or liability determination is prescribed. Any genuinely remaining implementation issue retains its ordinary lawful scope; no pending proceeding is created by this affirmance.
+
+**Precedent Treatment.**
+
+- Chevron U.S.A. Inc. v. NRDC, 467 U.S. 837: applies independent statutory construction at step one, followed by permissibility review of the Board's explained choice at step two.
+- MCI Telecommunications Corp. v. AT&T, June 17, 1994: preserves statutory limits before deference; no enacted condition is removed by the timing policy.
+- Lechmere, Inc. v. NLRB, January 27, 1992: preserves binding statutory predicates; its access holding does not itself determine incumbent majority status.
+- NLRB v. Town & Country Electric, Inc., November 28, 1995: applies statutory-first review of a bounded Board construction while keeping classification, facts and remedy distinct.
+- Holly Farms Corp. v. NLRB, April 23, 1996: applies independent statutory requirements, actual agency reasoning and §10(e)'s extraordinary-circumstances qualification; its agricultural classifications are not imported.
+- Brooks v. NLRB, 348 U.S. 96: preserves protected bargaining stability, the unusual-circumstances qualification and orderly employee-choice routes without renewing the certification year here.
+- Fall River Dyeing & Finishing Corp. v. NLRB, 482 U.S. 27: applies continuity and rational Board choice within the Act, not automatic approval of any presumption.
+- International Ladies' Garment Workers' Union v. NLRB, 366 U.S. 731: distinguishes initial recognition of an actually minority union; its employee-choice and unlawful-support limits remain intact.
+- NLRB v. Curtin Matheson Scientific, Inc., 494 U.S. 775: preserves its striker-replacement policy and the distinction between policy and evidence; it decided neither this postacceptance timing question nor Auciello's doubt sufficiency.
+- ABF Freight System, Inc. v. NLRB, January 24, 1994: preserves explained statutory discretion and review for arbitrariness without supplying a majority-status holding.
+- NLRB v. Health Care & Retirement Corp., May 23, 1994: preserves permissible functional construction within actual statutory predicates and the agency's own reasons.
+
+No Supreme Court precedent is overruled. The Court sustains the Board's supplemented policy explanation, not a court-created evidentiary rationale or independently sufficient calendar theory.
+
+**Law After Decision.**
+
+Effective June 3, 1996, the Board may ordinarily reject a postacceptance good-faith-doubt defense resting on events known to the employer before an established incumbent accepted its outstanding offer. The policy is permissible within the statutory range, rather than compelled for every future Board. Acceptance is not proof of actual majority support, and latent doubt is not actual minority.
+
+The received presumptions, illustrative unusual circumstances, conditional election routes and separate virtually simultaneous first-information reservation remain as stated in Part III. Actual-minority merits and the Board's reserved postacceptance actual-minority question remain unaddressed. Fraud, timely representation challenges and material later events are not foreclosed, but each requires its own legally available basis and procedure; this decision supplies no exception automatically terminating protected contract obligations. No general offer-withdrawal immunity, fixed assessment period or finding of employee sentiment follows.
+
 ## 4. Material Published Noncontrolling Positions
 
 
@@ -3232,6 +3719,36 @@ Scalia regards the majority's combination of independent ultimate review and def
 
 His proposed ultimate deference is noncontrolling. He does not decide suppression in the first instance, reopen inevitable discovery, resolve database disclosure or supply an immunity-style reasonable-error defense.
 
+### Quackenbush — published positions, June 3
+
+[bounded public source](../entering-law/PUBLIC_Quackenbush_v_Allstate_Insurance_Co_merits_1996-06-03.md).
+
+**Justice Kennedy, concurring.** He joins the Court's opinion in full but would not rule out a future extension permitting dismissal of a damages action where a serious affront to federalism could be avoided in no other way. Comity and federalism have significance beyond the historic discretion to withhold equitable relief, and California has a substantial interest in administering insurance insolvencies. A stay retaining federal jurisdiction is the preferred means of accommodating that interest. The present case supplies no occasion to decide whether extraordinary circumstances could permit dismissal. He recognizes no current exception and does not find either a stay or exceptional dismissal warranted on this record.
+
+**Justice Scalia, concurring.** He also joins the Court's opinion in full, understanding its restriction to foreclose Kennedy's suggested discretionary surrender of lawfully imposed nondiscretionary jurisdiction. Congress's lawful decision to confer that jurisdiction cannot itself constitute the federalism affront authorizing a court to refuse it. There is consequently no need to determine whether this record otherwise presents extraordinary circumstances. His response does not reject every retained-jurisdiction stay or disturb independently governed state-tax comity and forum-non-conveniens doctrines. No other Justice joins either concurrence.
+
+### Smiley — published positions, June 3
+
+[bounded public source](../entering-law/PUBLIC_Smiley_v_Citibank_South_Dakota_NA_merits_1996-06-03.md).
+
+No separate writing is filed.
+
+### Loving — published positions, June 3
+
+[bounded public source](../entering-law/PUBLIC_Loving_v_United_States_merits_1996-06-03.md).
+
+**Stevens, joined by Souter, Ginsburg and Breyer, concurring.** They join the Court's authority analysis while preserving the substantial question whether capital military prosecutions constitutionally require a connection to military service. *Solorio* addressed noncapital jurisdiction and does not itself resolve that extension. The actual military connections suffice for this case: Fay was an active-duty soldier killed on Fort Hood, and Sharbino was a retired Army sergeant. Their concurrence neither dismisses for want of jurisdiction nor adopts a new eligibility condition. Agreement with this disposition does not decide every military capital offense.
+
+**Scalia, joined by O'Connor, concurring.** Congress may assign implementation responsibilities ancillary to the President's genuine executive and Commander-in-Chief functions; it may not lawfully transfer legislative power itself. An assignment can cross that constitutional boundary when its extent and absence of constraints amount to such a transfer. Congress's actual offense, penalty and limiting provisions keep this assignment within execution of enacted military law. Scalia's distinction in *Mistretta* between ancillary rulemaking and lawmaking divorced from an existing executive or judicial function explains his agreement. The concurrence also rejects English Parliament–Crown arrangements as a basis for allocating powers under this Constitution; historical jurisdiction inquiries such as *Solorio* concern a different question. That objection does not withhold a join from any portion of the Court's present opinion, which contains no English-history ground. It supplies no independent Article II authority to disregard Congress.
+
+**Thomas, concurring in the judgment.** He sustains this enacted military scheme on the distinct constitutional responsibilities of Congress and the President concerning the armed forces. He assumes, without deciding, that additional aggravators are constitutionally necessary, and does not adopt the Court's use of nonmilitary delegation doctrine or a general capital-delegation framework. If the added protection were constitutionally unnecessary, that premise would remove the corresponding complaint; he does not hold that the factors are unnecessary. His military-specific deference operates within Congress's actual offense and punishment choices, consistently with constitutional and statutory scrutiny in *Weiss* and *Ryder*, and supplies no power to ignore their requirements. He reserves any view of congressional authority to alter the separation of powers outside this setting and rejects speculative English-history inferences. His separate sufficient ground supports the judgment alone.
+
+### Auciello — published positions, June 3
+
+[bounded public source](../entering-law/PUBLIC_Auciello_Iron_Works_Inc_v_NLRB_merits_1996-06-03.md).
+
+All nine Justices join the Court's opinion. No separate writing is filed.
+
 ## 5. Current Procedure and Institution
 
 **Opinion-assignment continuity through April 9, 1996:** There are 50 named Chief assignments: O’Connor 15, Souter 10, Ginsburg 8, Thomas 5, Kennedy 5, Stone-Zsela 2, Stevens 4, Scalia 1, Breyer 0. The Chief assigns the common reservation and examination component to Kennedy; Stevens assigns the separable eight-Associate components to the same Justice. The coordinated opinion counts once as named Chief assignment 50, Kennedy’s fifth. Unattributed per curiam opinions are not allocated by inference. A coordinated opinion counts once when the Chief assigned any part; Love, Bishop/Stokes and corrected Hale retain that treatment, and the replaced Hale assignment adds no event. The final Bowersox Court opinion is O'Connor's required Circuit Justice explanation and adds no Chief assignment. The March 25 Ayers opinion was assigned by senior Associate Justice Stevens and adds no Chief assignment; the effective earlier entering count remains separate from this current total. The prior term’s 93 named Chief assignments had no recipient above half, so the consecutive-term concentration restriction remains inactive. The [opening assignment baseline](../freeze/OT_1995CHUNK4_ASSIGNMENT_BASELINE.md) and each current canonical assignment statement preserve the precise per-event authority; named assignment chronology does not alter same-day entering law.
@@ -3477,9 +3994,31 @@ Pinder completes the May 21 Court action. Ornelas subsequently completed May 28 
 
 ### May 28 — assignment and group continuity
 
-Ornelas is Chief assignment 65 to O’Connor, her nineteenth. The [canonical assignment statement](../records/Ornelas_v_United_States_merits_1996-05-28.md#assignment-and-final-coalitions) supplies authority. Current named Chief-assignment totals are 65: O’Connor 19, Souter 13, Ginsburg 9, Kennedy 7, Thomas 6, Stevens 5, Scalia 3, Stone-Zsela 2 and Breyer 1. Earlier dated assignment history remains preserved, and the prior-term concentration restriction remains inactive. All nine participate; Scalia’s dissent is not an additional Chief assignment. No roster or circuit-allotment change occurs, and no earlier continuing Supreme Court matter changes stage.
+Ornelas is Chief assignment 65 to O’Connor, her nineteenth. The [canonical assignment statement](../records/Ornelas_v_United_States_merits_1996-05-28.md#assignment-and-final-coalitions) supplies authority. After Ornelas, named Chief-assignment totals were 65: O’Connor 19, Souter 13, Ginsburg 9, Kennedy 7, Thomas 6, Stevens 5, Scalia 3, Stone-Zsela 2 and Breyer 1. Earlier dated assignment history remains preserved, and the prior-term concentration restriction remains inactive. All nine participate; Scalia’s dissent is not an additional Chief assignment. No roster or circuit-allotment change occurs, and no earlier continuing Supreme Court matter changes stage.
 
-Ornelas completes the May 28 Court action. Entering law is the complete public state through May 21. Next eligible: the June 3 group of Quackenbush, Smiley, Loving and Auciello, using the complete effective public law through May 28. All eight admitted sources retain their actual effective dates, conditions and unresolved temporal applications, including AEDPA, PLRA and OCC §7.4001. No unrecorded Court or lower-court action is inferred.
+Ornelas completes the May 28 Court action. Entering law is the complete public state through May 21. Quackenbush, Smiley, Loving and Auciello subsequently completed June 3 using that common complete May 28 public-law state. All eight admitted sources retain their actual effective dates, conditions and unresolved temporal applications, including AEDPA, PLRA and OCC §7.4001. No unrecorded Court or lower-court action is inferred.
+
+### Quackenbush — procedure, June 3
+
+[Record](../records/Quackenbush_v_Allstate_Insurance_Co_merits_1996-06-03.md). The Ninth Circuit's judgment vacating the District Court's remand is affirmed. The action returns for further federal proceedings under that judgment and the Court's stated abstention rule. The pending arbitration motion and any properly available request for a stay receive lawful initial treatment below; no particular result, priority command or new hearing is prescribed. The Court awards no contract recovery and directs no distribution of estate assets. Supreme Court merits review is complete, subject to ordinary mandate procedures.
+
+### Smiley — procedure, June 3
+
+[Record](../records/Smiley_v_Citibank_South_Dakota_NA_merits_1996-06-03.md). The California Supreme Court's judgment sustaining judgment on the pleadings stands affirmed. No further evidentiary proceedings, agency action or special transition is directed. No related petition or distinct claim is disposed of by this judgment.
+
+### Loving — procedure, June 3
+
+[Record](../records/Loving_v_United_States_merits_1996-06-03.md). The Court's review of the submitted authority challenge is complete; the Court of Appeals for the Armed Forces' judgment stands. Article 71 independently requires a final judgment as to legality through the applicable military and Supreme Court review routes where review has not been waived or withdrawn. The death part may not be executed without presidential approval. The President may commute or remit it and may not suspend it. Article 71(c)(2)'s separate waiver-or-withdrawal route concerns dismissal or punitive discharge, and subsection (d)'s suspension power excludes death. The Court neither determines completion of every execution prerequisite nor directs an execution, a date, or a new military sentencing proceeding.
+
+### Auciello — procedure, June 3
+
+[Record](../records/Auciello_Iron_Works_Inc_v_NLRB_merits_1996-06-03.md). The First Circuit's enforcement judgment remains in effect in full. On Union request, Auciello must write, sign and effectuate the November 27, 1988 agreement retroactively and perform the existing make-whole and cease-and-desist obligations. No remand for doubt sufficiency, new election, additional hearing, payment calculation or independent liability ruling is ordered. Any genuinely remaining lawful implementation matter retains its actual posture. Supreme Court merits review is complete, subject to ordinary mandate procedures; no special mandate date or later Supreme Court event is prescribed.
+
+### June 3 — assignment and group continuity
+
+Quackenbush is Chief assignment 66 to O’Connor, her twentieth; Loving is assignment 67 to Kennedy, his eighth; Auciello is assignment 68 to Ginsburg, her tenth; Smiley is assignment 69 to Souter, his fourteenth. The [Quackenbush](../records/Quackenbush_v_Allstate_Insurance_Co_merits_1996-06-03.md#judgment-opinion-assignment-and-final-joins), [Loving](../records/Loving_v_United_States_merits_1996-06-03.md#judgment-opinion-authority-and-assignment), [Auciello](../records/Auciello_Iron_Works_Inc_v_NLRB_merits_1996-06-03.md#assignment-and-final-joins) and [Smiley](../records/Smiley_v_Citibank_South_Dakota_NA_merits_1996-06-03.md#assignment-and-final-compatibility-audit) canonical assignment statements supply authority. Current named Chief-assignment totals are 69: O’Connor 20, Souter 14, Ginsburg 10, Kennedy 8, Thomas 6, Stevens 5, Scalia 3, Stone-Zsela 2 and Breyer 1. Earlier dated assignment history remains preserved, and the prior-term concentration restriction remains inactive. All nine participate in each event. Separate writings add no Chief assignments; the bookkeeping sequence creates no substantive dependency among the June 3 peers. No roster or circuit-allotment change occurs, and no earlier continuing Supreme Court matter changes stage.
+
+Quackenbush, Smiley, Loving and Auciello complete the June 3 Court actions. All 4 decisions used the common May 28 entering-law baseline; no decision supplies intervening law for a same-date peer. Next eligible: Richards, Whren, Degen and Exxon on June 10, sharing the same baseline with the June 10 IBM and Lockheed matters in chunk 8, using the complete effective public law through June 3. All eight admitted sources retain their actual effective dates, conditions and unresolved temporal applications, including AEDPA, PLRA and OCC §7.4001. No unrecorded Court or lower-court action is inferred.
 
 ## 6. Blockers and Revalidation Needs
 
@@ -3518,9 +4057,31 @@ The Seventh Circuit opinions at 16 F.3d 714 and 52 F.3d 328, and the filed joint
 
 The consistent event and offense date is December 11, 1992; isolated 1993 recitations do not alter it. Neither an accurate NADDIS identification nor greater evidentiary significance for rejected rust testimony or inconclusive scratches is established. The selected plea orders establish the conditional reservation without resolving an additional unpresented plea issue. [Raddatz's official report](https://tile.loc.gov/storage-services/service/ll/usrep/usrep447/usrep447667/usrep447667.pdf) reproduces the operative §636 provisions and their distinct determination/hearing treatment; the official 1994 §3731 text preserves the separate conditions on Government appeals.
 
+### Quackenbush — public source limits, June 3
+
+The Ninth Circuit's opinion, 47 F.3d 350, and May 19, 1995 rehearing order establish vacatur of the remand and return for further proceedings; neither directs arbitration or grants a stay. The complaint, Joint Appendix 35–61, contains the declaration and contract counts. Petition appendix 13a–37a and the arbitration materials at Joint Appendix 77–110 supply the lower proceedings and undecided motion. The Commissioner's reply preserves his opposition to §1447(d) review; no concession is attributed to him.
+
+Prudential, 3 Cal. 4th 1118, and Imperial, 41 Cal. App. 4th 828, 837–840, resolve particular state-law and settlement issues. Disputed assertions about the relevance and supersession of Allstate's liquidation proofs of claim are not adjudicated facts. The state liquidation orders' control of assets must be read together with their permission for the liquidator to bring actions elsewhere.
+
+### Smiley — public source limits, June 3
+
+The agreements and complaint supply the account terms and pleaded allegations; the California judgment supplies the procedural disposition under review. Party and government submissions concerning costs, competition or reliance supply arguments, not findings. See 12 U.S.C. §§43, 85–86, 93, 93a, 1813 and 1818; S.D. Codified Laws §§54-3-1 and 54-3-1.1; and Cal. Civ. Code §1671. South Dakota permits agreed charges absent another specifically established maximum; no dispute about permission for these charges is decided.
+
+The OCC proposed rule appeared at 60 Fed. Reg. 11924 (March 3, 1995). The final interpretive rule appears at [61 Fed. Reg. 4849, 4850, 4858, 4869–4870 (February 9, 1996)](https://www.govinfo.gov/content/pkg/FR-1996-02-09/html/96-2903.htm), effective April 1, 1996. That date is not a retroactive effective date or a special pending-case transition. The available procedural account does not establish every §43 condition or resolve the applicability or preservation of a separate procedural challenge.
+
+### Loving — public source limits, June 3
+
+The petition, merits briefs and Joint Appendix in the [case record](https://archive.org/details/micro_IA40385013_0608) supply the submitted authority questions, convictions, three factor findings and requested relief. Joint Appendix 132–151 reproduces the governing pre-1991 RCM 1004, pre-1990 Article 36, associated UCMJ provisions and Executive Order 12460, including its prospective and congressional-reporting directions. The lower judgments are reported at 34 M.J. 956, 34 M.J. 1065 and 41 M.J. 213. Articles 55 and 71 retain their punishment prohibitions and independent execution conditions. The governing historical versions are used; later amendments do not substitute for them. The assumption about additional narrowing and hypothetical congressional enactment of these factors is limited to resolution of the authority questions, not a finding that every military capital rule or application is constitutional.
+
+### Auciello — public source limits, June 3
+
+The [filed papers in No. 95-668](https://archive.org/details/micro_IA40385013_0661), the First Circuit decisions at 980 F.2d 804 and 60 F.3d 24, and the Board's decisions at 303 N.L.R.B. 562 and 317 N.L.R.B. 364 supply the chronology, findings, policy and enforced relief. Petition Appendix 17a–19a and 34a–36a preserves the distinction between earlier knowledge and unadjudicated doubt sufficiency; 54a–55a supplies the simultaneous-information example and separate actual-minority position.
+
+The complete presumption passages in the Board's brief and supplemental decision identify the illustrative dissolution/defunct-union and schism examples, ordinary contract petition window and healthcare/seasonal qualification. They establish no new employee count or finding that every possible unusual circumstance was absent. Board merits pages 26 note 7, 35 note 12 and 42 note 15 preserve its actual-minority reservation, §10(e) objection and refusal to concede sufficient doubt. Auciello's merits pages 27–32 and note 8 supply its assessment-period argument; page 37 requests the sufficiency remand. No amount of make-whole relief is established by this decision.
+
 ## 7. Source and Research Cutoff
 
-Latest completed Court action and current-law cutoff: **1996-05-28**, Ornelas, using the complete May 21 entering-law state. The preceding complete May 20 group is Romer, BMW, Henderson and Casarotto. Latest admitted source: **1996-04-26**. The May 20 group is complete across the chunk boundary; its common entering-law cutoff remains May 13. The April 9 Bowersox interim order is followed by a separate final action granting Missouri's application, 5–4, and vacating the March 8 appellate stay with immediate effect. The Supreme Court application is closed. The underlying appeal and any other lawful restraints are not adjudicated; no substitute stay, fixed grace period, execution order, writ disposition or appeal dismissal is entered. Actual transmission, service, responses and elapsed interim clocks are not presumed. Thirteen chunk 5 Court events and all twelve chunk 4 actions are recorded. Ayers's March 25 library-only writ was dismissed as improvidently granted, 8–1; this Court's review ends while the Fifth Circuit appeal and the district court's remedial jurisdiction remain available. The dismissal changes no substantive desegregation rule and leaves every decree provision undisturbed without merits affirmance. The completed March 27 and April 1 groups retain their respective common March 26 and March 27 entering-law baselines. Next eligible group: Quackenbush, Smiley, Loving and Auciello, June 3, chunk 7, under the common complete May 28 public-law state. Each canonical Record supplies its own actual research cutoff and source limits; proposed future events supply no current law. Jones’s unresolved financial and petition stages remain as specified above. The [Ayers chronology review](../freeze/OT_1995CHUNK5_AYERS_COMPLETION_CHRONOLOGY.md) confirms that inserting the March 25 dismissal changes no premise of the eight completed later events; prior Records and frozen handoffs remain unchanged.
+Latest completed Court group and current-law cutoff: **1996-06-03**, Quackenbush, Smiley, Loving and Auciello; all four used the common complete May 28 entering-law state. The preceding complete May 20 group is Romer, BMW, Henderson and Casarotto. Latest admitted source: **1996-04-26**. The May 20 group is complete across the chunk boundary; its common entering-law cutoff remains May 13. The April 9 Bowersox interim order is followed by a separate final action granting Missouri's application, 5–4, and vacating the March 8 appellate stay with immediate effect. The Supreme Court application is closed. The underlying appeal and any other lawful restraints are not adjudicated; no substitute stay, fixed grace period, execution order, writ disposition or appeal dismissal is entered. Actual transmission, service, responses and elapsed interim clocks are not presumed. Thirteen chunk 5 Court events and all twelve chunk 4 actions are recorded. Ayers's March 25 library-only writ was dismissed as improvidently granted, 8–1; this Court's review ends while the Fifth Circuit appeal and the district court's remedial jurisdiction remain available. The dismissal changes no substantive desegregation rule and leaves every decree provision undisturbed without merits affirmance. The completed March 27 and April 1 groups retain their respective common March 26 and March 27 entering-law baselines. Next eligible group: Richards, Whren, Degen and Exxon, June 10, chunk 7, under the common complete June 3 public-law state also preserved for same-date IBM and Lockheed in chunk 8. Each canonical Record supplies its own actual research cutoff and source limits; proposed future events supply no current law. Jones’s unresolved financial and petition stages remain as specified above. The [Ayers chronology review](../freeze/OT_1995CHUNK5_AYERS_COMPLETION_CHRONOLOGY.md) confirms that inserting the March 25 dismissal changes no premise of the eight completed later events; prior Records and frozen handoffs remain unchanged.
 
 The substantive opening baseline ends **June 29, 1995**, including OT1994's two admitted source events and complete final group; the institutional allotment is effective August 3, 1994. The current tracker publication is October 1, 2026, and the opening validation was performed October 2, 2026. Those publication/validation dates are not in-world research cutoffs. Future dates above are bounded supplied planning and record premises, not events admitted at opening. The eight admitted sources and their exact enactment, operative-period, transition and implementation limits are stated in Current Law. The January 6 enactment and its December 16 deemed period are distinct dates; later publication does not create earlier judicial knowledge. The full February 16 and March 1 Ayers orders remain unavailable; the March 25 library-only dismissal construes neither amendment and adds no admitted source. No later source event is advanced from its planning date. Before each event, verify date-eligible sources and actual intervening public law, admit any material objective source at its proper effective time and refresh the entering-law slice. Trackers and effective Records remain authority over these projections.
 
@@ -3567,4 +4128,11 @@ The [bounded public source](../entering-law/PUBLIC_Pinder_v_Johnson_merits_1996-
 
 ### May 28 — source and law cutoff
 
-Ornelas completes the May 28 Court action. Entering law is the complete public state through May 21. Next eligible: the June 3 group of Quackenbush, Smiley, Loving and Auciello, using the complete effective public law through May 28. All eight admitted sources retain their actual effective dates, conditions and unresolved temporal applications, including AEDPA, PLRA and OCC §7.4001. No unrecorded Court or lower-court action is inferred. The latest admitted-source effective date remains April 26.
+Ornelas completes the May 28 Court action. Entering law is the complete public state through May 21. Quackenbush, Smiley, Loving and Auciello subsequently completed June 3 using that common complete May 28 public-law state. All eight admitted sources retain their actual effective dates, conditions and unresolved temporal applications, including AEDPA, PLRA and OCC §7.4001. No unrecorded Court or lower-court action is inferred. The latest admitted-source effective date remains April 26.
+
+
+### June 3 — source and law cutoff
+
+Quackenbush, Smiley, Loving and Auciello complete the June 3 Court actions. All 4 decisions used the common May 28 entering-law baseline; no decision supplies intervening law for a same-date peer. Next eligible: Richards, Whren, Degen and Exxon on June 10, sharing the same baseline with the June 10 IBM and Lockheed matters in chunk 8, using the complete effective public law through June 3. All eight admitted sources retain their actual effective dates, conditions and unresolved temporal applications, including AEDPA, PLRA and OCC §7.4001. No unrecorded Court or lower-court action is inferred. The latest admitted-source effective date remains April 26.
+
+The common entering-law baseline for all six June 10 inventory matters is the complete June 3 public-law state, preserved in the [pre-June10 neutral projection](../entering-law/OT_1995CHUNK7_PRE_JUNE10_NEUTRAL_PROJECTION.md). Richards, Whren, Degen and Exxon in chunk 7 and United States v. International Business Machines Corp., No. 95-591, and Lockheed Corp. v. Spink, No. 95-809, in chunk 8 all use that same baseline. No uncoordinated June 10 decision supplies intervening law for another matter in this group. This preserved projection includes the exact existing source qualifications, published noncontrolling positions and public procedural state; its preservation does not decide a June 10 matter.
