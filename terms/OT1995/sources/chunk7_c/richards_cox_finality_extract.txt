@@ -1,0 +1,426 @@
+# Cox Broadcasting — bounded pre-divergence finality source
+
+Source: Cox Broadcasting Corp. v. Cohn, 420 U.S. 469 (1975), official United States Reports, pp.477–487, relevant portion of Part II.
+Official PDF: https://www.govinfo.gov/content/pkg/USREPORTS-420/pdf/USREPORTS-420-469.pdf
+Retrieved October 4, 2026 for the authorized Richards §1257 finality inquiry. The reported source predates the simulation divergence. No target-case material is included.
+Extraction: pdftotext -f 9 -l 19 -layout, ending before Part III. This bounded portion was read in full; the rest of the opinion was not needed for this legal fork. Text begins mid-Part II and preserves reporter pagination/OCR; no language is reconstructed.
+Original official PDF SHA-256: 0ba47134439726da17dd7dc51bef23fcd2e15b291f70623393ce3943b0227261
+
+           COX BROADCASTING CORP. v. COHN                       477
+
+469                   Opinion of the Court
+
+rendered a “[f]inal judgment or decree.” Title 28 U. S. C.
+§ 1257 retains this limitation on our power to review cases
+coming from state courts. The Court has noted that
+“[c]onsiderations of English usage as well as those of
+judicial policy” would justify an interpretation of the
+final-judgment rule to preclude review “where anything
+further remains to be determined by a State court, no
+matter how dissociated from the only federal issue that
+has finally been adjudicated by the highest court of the
+State.” Radio Station WOW, Inc. v. Johnson, 326 U. S.
+ 120, 124 (1945). But the Court there observed that the
+rule had not been administered in such a mechanical
+fashion and that there were circumstances in which there
+has been “a departure from this requirement of finality
+for federal appellate jurisdiction.” Ibid.
+    These circumstances were said to be “very few,” ibid.;
+but as the cases have unfolded, the Court has recurringly
+encountered situations in which the highest court of a
+State has finally determined the federal issue present in
+ a particular case, but in which there are further pro-
+ceedings in the lower state courts to come. There are
+ now at least four categories of such cases in which the
+ Court has treated the decision on the federal issue as a
+ final judgment for the purposes of 28 U. S. C. § 1257 and
+has taken jurisdiction without awaiting the completion
+ of the additional proceedings anticipated in the lower
+ state courts. In most, if not all, of the cases in these
+ categories, these additional proceedings would not require
+ the decision of other federal questions that might also
+require review by the Court at a later date,6 and imme-
+  6 Eminent domain proceedings are of the type that may involve
+an interlocutory decision as to a federal question with another fed-
+eral question to be decided later. “For in those cases the federal
+constitutional question embraces not only a taking, but a taking on
+payment of just compensation. A state judgment is not final unless
+it covers both aspects of that integral problem.” North Dakota
+478                  OCTOBER TERM, 1974
+
+                       Opinion of the Court                  420 U. S.
+
+diate rather than delayed review would be the best way
+to avoid “the mischief of economic waste and of delayed
+justice,” Radio Station WOW, Inc. v. Johnson, supra,
+at 124, as well as precipitate interference with state
+litigation.7 In the cases in the first two categories con-
+sidered below, the federal issue would not be mooted or
+otherwise affected by the proceedings yet to be had be-
+cause those proceedings have little substance, their out-
+come is certain, or they are wholly unrelated to the federal
+question. In the other two categories, however, the fed-
+eral issue would be mooted if the petitioner or appellant
+seeking to bring the action here prevailed on the merits
+in the later state-court proceedings, but there is neverthe-
+State Board of Pharmacy N. Snyder’s Drug Stores, Inc., 414 U. S.
+156, 163 (1973). See also Grays Harbor Co. n . Coats-Fordney Co.,
+243 U. S. 251, 256 (1917); Radio Station WOW, Inc. v. Johnson,
+326 IT. S. 120, 127 (1945).
+  7 Gillespie v. United States Steel Corp., 379 U. S. 148 (1964),
+arose in the federal courts and involved the requirement of 28 U. S. C.
+§ 1291 that judgments of district courts be final if they are to be
+appealed to the courts of appeals. In the course of deciding that the
+judgment of the District Court in the case had been final, the Court
+indicated its approach to finality requirements:
+“And our cases long have recognized that whether a ruling is 'final’
+within the meaning of § 1291 is frequently so close a question that
+decision of that issue either way can be supported with equally
+forceful arguments, and that it is impossible to devise a formula
+to resolve all marginal cases coming within what might well be called
+the 'twilight zone’ of finality. Because of this difficulty this Court
+has held that the requirement of finality is to be given a 'practical
+rather than a technical construction.’ Cohen v. Beneficial Industrial
+Loan Corp., [337 U. S. 541, 546]. See also Brown Shoe Co. n .
+ United States, 370 U. S. 294, 306; Bronson n . Railroad Co., 2 Black
+524, 531; Forgay v. Conrad, 6 How. 201, 203. Dickinson v. Petro-
+leum Conversion Corp., 338 IT. S. 507, 511, pointed out that in de-
+ciding the question of finality the most important competing con-
+siderations are ‘the inconvenience and costs of piecemeal review on
+the one hand and the danger of denying justice by delay on the
+other.’ ” 379 U. S., at 152-153.
+           COX BROADCASTING CORP. v. COHN                        479
+
+469                    Opinion of the Court
+
+less sufficient justification for immediate review of the
+federal question finally determined in the state courts.
+   In the first category are those cases in which there are
+further proceedings—even entire trials—yet to occur in
+the state courts but where for one reason or another the
+federal issue is conclusive or the outcome of further pro-
+ceedings preordained. In these circumstances, because
+the case is for all practical purposes concluded, the judg-
+ment of the state court on the federal issue is deemed
+final. In Mills v. Alabama, 384 U. S. 214 (1966), for
+example, a demurrer to a criminal complaint was sus-
+tained on federal constitutional grounds by a state trial
+court. The State Supreme Court reversed, remanding
+for jury trial. This Court took jurisdiction on the rea-
+ soning that the appellant had no defense other than his
+ federal claim and could not prevail at trial on the facts
+ or any nonfederal ground. To dismiss the appeal “would
+ not only be an inexcusable delay of the benefits Congress
+ intended to grant by providing for appeal to this Court,
+ but it would also result in a completely unnecessary waste
+ of time and energy in judicial systems already troubled
+ by delays due to congested dockets.” Id., at 217-218
+ (footnote omitted).8
+
+   8 Other cases from state courts where this Court’s jurisdiction was
+sustained for similar reasons include: Organization for a Better Aus-
+tin v. Keefe, 402 U. 8. 415, 418 n. (1971); Construction Laborers v.
+Curry, 371 U. S. 542, 550-551 (1963); Pope v. Atlantic C. L. R. Co.,
+345 U. S. 379, 382 (1953); Richfield Oil Corp. v. State Board, 329
+U. S. 69, 73-74 (1946). In the Richfield case the Court said with
+respect to finality:
+   “The designation given the judgment by state practice is not con-
+trolling. Department of Banking v. Pink, 317 U. S. 264, 268. The
+question is whether it can be said that ‘there is nothing more to be
+decided’ {Clark v. Williard, 292 U. S. 112, 118), that there has been
+‘an effective determination of the litigation.’   Market Street Ry.
+ Co. v. Railroad Commission, 324 U. S. 548, 551; see Radio Station
+ WOW v. Johnson, 326 U. S. 120, 123-124. That question will be
+480                 OCTOBER TERM, 1974
+
+                      Opinion of the Court                420U.S.
+
+   Second, there are cases such as Radio Station WOW,
+supra, and Brady v. Maryland, 373 U. S. 83 (1963), in
+which the federal issue, finally decided by the highest
+court in the State, will survive and require decision re-
+gardless of the outcome of future state-court proceedings.
+In Radio Station WOW, the Nebraska Supreme Court
+directed the transfer of the properties of a federally li-
+censed radio station and ordered an accounting, rejecting
+the claim that the transfer order would interfere with the
+federal license. The federal issue was held reviewable
+here despite the pending accounting on the “presupposi-
+tion . . . that the federal questions that could come here
+have been adjudicated by the State court, and that
+the accounting which remains to be taken could not
+remotely give rise to a federal question . . . that may
+later come here . . . .” 326 U. S., at 127. The judgment
+rejecting the federal claim and directing the trans-
+fer was deemed “dissociated from a provision for an
+accounting even though that is decreed in the same
+order.” Id., at 126. Nothing that could happen in the
+course of the accounting, short of settlement of the case,
+would foreclose or make unnecessary decision on the fed-
+eral question. Older cases in the Court had reached the
+same result on similar facts. Carondelet Canal & Nav.
+Co. N. Louisiana, 233 U. S. 362 (1914); Forgay v. Conrad,
+6 How. 201 (1848). In the latter case, the Court, in an
+opinion by Mr. Chief Justice Taney, stated that the Court
+had not understood the final-judgment rule “in this
+strict and technical sense, but has given [it] a more
+liberal, and, as we think, a more reasonable construction,
+
+resolved not only by an examination of the entire record (Clark n .
+WUliard, supra) but, where necessary, by resort to the local law to
+determine what effect the judgment has under the state rules of
+practice.” Id., at 72.
+           COX BROADCASTING CORP. v. COHN                      481
+
+469                   Opinion of the Court
+
+and one more consonant to the intention of the legis-
+lature.” Id., at 203.9
+   In the third category are those situations where the
+federal claim has been finally decided, with further pro-
+ceedings on the merits in the state courts to come, but
+in which later review of the federal issue cannot be had,
+whatever the ultimate outcome of the case. Thus, in
+these cases, if the party seeking interim review ultimately
+prevails on the merits, the federal issue will be mooted;
+if he were to lose on the merits, however, the governing
+state law would not permit him again to present his fed-
+eral claims for review. The Court has taken jurisdic-
+tion in these circumstances prior to completion of the
+case in the state courts. California v. Stewart, 384 U. S.
+436 (1966) (decided with Miranda v. Arizona), epito-
+mizes this category. There the state court reversed a
+conviction on federal constitutional grounds and re-
+manded for a new trial. Although the State might have
+prevailed at trial, we granted its petition for certiorari
+and affirmed, explaining that the state judgment was
+“final” since an acquittal of the defendant at trial would
+preclude, under state law, an appeal by the State. Id.,
+at 498 n. 71.
+   A recent decision in this category is North Dakota
+State Board of Phannacy v. Snyder’s Drug Stores, Inc., 414
+U. S. 156 (1973), in which the Pharmacy Board rejected
+an application for a pharmacy operating permit relying
+on a state statute specifying ownership requirements
+which the applicant did not meet. The State Supreme
+
+   9 In Brady v. Maryland, 373 U. S. 83 (1963), the Maryland
+courts had ordered a new trial in a criminal case but on punishment
+only, and the petitioner asserted here that he was entitled to a
+new trial on guilt as well. We entertained the case, saying that
+the federal issue was separable and would not be mooted by the new
+trial on punishment ordered in the state courts. Id., at 85 n. 1.
+482                  OCTOBER TERM, 1974
+
+                        Opinion of the Court                   420 IT. S.
+
+Court held the statute unconstitutional and remanded
+the matter to the Board for further consideration of the
+application, freed from the constraints of the ownership
+statute. The Board brought the case here, claiming that
+the statute was constitutionally acceptable under modern
+cases. After reviewing the various circumstances under
+which the finality requirement has been deemed satisfied
+despite the fact that litigation had not terminated in the
+state courts, we entertained the case over claims that we
+had no jurisdiction. The federal issue would not survive
+the remand, whatever the result of the state administra-
+tive proceedings. The Board might deny the license on
+state-law grounds, thus foreclosing the federal issue, and
+the Court also ascertained that under state law the Board
+could not bring the federal issue here in the event the
+applicant satisfied the requirements of state law except
+for the invalidated ownership statute. Under these cir-
+cumstances, the issue was ripe for review.10
+    Lastly, there are those situations where the federal
+issue has been finally decided in the state courts with
+further proceedings pending in which the party seeking
+review here might prevail on the merits on nonfederal
+grounds, thus rendering unnecessary review of the federal
+ issue by this Court, and where reversal of the state court
+ on the federal issue would be preclusive of any further
+
+  10 Cohen v. Beneficial Industrial Loan Corp., 337 U. S. 541 (1949),
+was a diversity action in the federal courts in the course of which
+there arose the question of the validity of a state statute requiring
+plaintiffs in stockholder suits to post security for costs as a pre-
+requisite to bringing the action. The District Court held the state
+law inapplicable, the Court of Appeals reversed, and this Court, after
+granting certiorari, held that the issue of security for costs was
+separable from and independent of the merits and that if review
+were to be postponed until the termination of the litigation, “it will
+be too late effectively to review the present order, and the rights
+conferred by the statute, if it is applicable, will have been lost, prob-
+ably irreparably.” Id., at 546.
+          COX BROADCASTING CORP. v. COHN                483
+
+469                 Opinion of the Court
+
+litigation on the relevant cause of action rather than
+merely controlling the nature and character of, or deter-
+mining the admissibility of evidence in, the state proceed-
+ings still to come. In these circumstances, if a refusal
+immediately to review the state-court decision might
+seriously erode federal policy, the Court has entertained
+and decided the federal issue, which itself has been finally
+determined by the state courts for purposes of the state
+litigation.
+    In Construction Laborers v. Curry, 371 U. S. 542 (1963),
+the state courts temporarily enjoined labor union picketing
+over claims that the National Labor Relations Board had
+exclusive jurisdiction of the controversy. The Court took
+jurisdiction for two independent reasons. First, the
+power of the state court to proceed in the face of the pre-
+emption claim was deemed an issue separable from the
+merits and ripe for review in this Court, particularly
+“when postponing review would seriously erode the na-
+tional labor policy requiring the subject matter of re-
+spondents’ cause to be heard by the... Board, not by the
+state courts.” Id., at 550. Second, the Court was con-
+vinced that in any event the union had no defense to
+the entry of a permanent injunction other than the pre-
+emption claim that had already been ruled on in the state
+courts. Hence the case was' for all practical purposes
+concluded in the state tribunals.
+   In Mercantile National Bank v. Langdeau, 371 U. S.
+555 (1963), two national banks were sued, along with
+others, in the courts of Travis County, Tex. The claim
+asserted was conspiracy to defraud an insurance company.
+The banks as a preliminary matter asserted that a special
+federal venue statute immunized them from suit in
+Travis County and that they could properly be sued only
+in another county. Although trial was still to be had
+and the banks might well prevail on the merits, the
+Court, relying on Curry, entertained the issue as a “sep-
+484                  OCTOBER TERM, 1974
+
+                        Opinion of the Court                  420U.S.
+
+arate and independent matter, anterior to the merits and
+not enmeshed in the factual and legal issues comprising
+the plaintiff’s cause of action.” Id., at 558. Moreover,
+it would serve the policy of the federal statute “to deter-
+mine now in which state court appellants may be tried
+rather than to subject them ... to long and complex
+litigation which may all be for naught if consideration
+of the preliminary question of venue is postponed until
+the conclusion of the proceedings.” Ibid.
+   Miami Herald Publishing Co. v. Tornillo, 418 U. S.
+241 (1974), is the latest case in this category.11 There
+a candidate for public office sued a newspaper for refus-
+ing, allegedly contrary to a state statute, to carry his
+reply to the paper’s editorial critical of his qualifica-
+tions. The trial court held the act unconstitutional,
+denying both injunctive relief and damages. The State
+Supreme Court reversed, sustaining the statute against
+the challenge based upon the First and Fourteenth
+Amendments and remanding the case for a trial and
+appropriate relief, including damages. The newspaper
+brought the case here. We sustained our jurisdiction,
+relying on the principles elaborated in the North Dakota
+case and observing:
+      “Whichever way we were to decide on the merits, it
+   11 Meanwhile Hudson Distributors v. Eli Lilly, 377 U. S. 386
+(1964), another case of this genre, had been decided. There a
+retailer sued to invalidate a state fair trade act as inconsistent with
+the federal antitrust laws and not saved by a federal statute authoriz-
+ing state fair trade legislation under certain conditions. The defend-
+ant manufacturer cross-petitioned for enforcement of the state act
+against the plaintiff-retailer. The trial court struck down the statute,
+but a state appellate court reversed and remanded for trial on the
+cross-petition. The Ohio Supreme Court affirmed that decision.
+Relying on Curry and Mercantile National Bank v. Langdeau, 371
+U. S. 555 (1963), this Court found the state-court judgment to be
+ripe for review, although the retailer might prevail at the trial. 377
+U. S., at 389 n. 4.
+            COX BROADCASTING CORP. v. COHN                        485
+
+469                    Opinion of the Court
+
+      would be intolerable to leave unanswered, under
+      these circumstances, an important question of free-
+      dom of the press under the First Amendment; an
+      uneasy and unsettled constitutional posture of
+      § 104.38 could only further harm the operation of a
+      free press. Mills v. Alabama, 384 U. S. 214, 221-
+      222 (1966) (Dougla s , J., concurring). See also
+      Organization for a Better Austin v. Keefe, 402 U. S.
+      415, 418 n. (1971).” 418 U. S., at 247 n. 6.12
+    In light of the prior cases, we conclude that we have
+jurisdiction to review the judgment of the Georgia Su-
+preme Court rejecting the challenge under the First and
+Fourteenth Amendments to the state law authorizing
+damage suits against the press for publishing the name
+of a rape victim whose identity is revealed in the course
+of a public prosecution. The Georgia Supreme Court’s
+judgment is plainly final on the federal issue and is not
+subject to further review in the state courts. Appellants
+ will be liable for damages if the elements of the state
+ cause of action are proved. They may prevail at trial on
+ nonfederal grounds, it is true, but if the Georgia court
+ erroneously upheld the statute, there should be no trial at
+ all. Moreover, even if appellants prevailed at trial and
+made unnecessary further consideration of the constitu-
+ tional question, there would remain in effect the unre-
+ viewed decision of the State Supreme Court that a civil
+  action for publishing the name of a rape victim disclosed
+  in a public judicial proceeding may go forward despite the
+First and Fourteenth Amendments. Delaying final
+    12 The import of the Court’s holding in Tornillo is underlined by
+ its citation of the concurring opinion in Mills v. Alabama. There,
+ Mr . Just ic e Dou gl as , joined by Mr . Just ice Bre nn an , stated
+ that even if the appellant had a defense and might prevail at trial,
+ jurisdiction was properly noted in order to foreclose unwarranted
+ restrictions on the press should the state court’s constitutional judg-
+ ment prove to be in error.
+486                   OCTOBER TERM, 1974
+
+                        Opinion of the Court                   420U.S.
+
+decision of the First Amendment claim until after trial
+will “leave unanswered ... an important question of
+freedom of the press under the First Amendment,” “an
+uneasy and unsettled constitutional posture [that] could
+only further harm the operation of a free press.” Tor-
+nillo, supra, at 247 n. 6. On the other hand, if we now
+hold that the First and Fourteenth Amendments bar civil
+liability for broadcasting the victim’s name, this litigation
+ends. Given these factors—that the litigation could be
+terminated by our decision on the merits13 and that a
+failure to decide the question now will leave the press in
+Georgia operating in the shadow of the civil and criminal
+sanctions of a rule of law and a statute the constitution-
+ality of which is in serious doubt—we find that reaching
+the merits is consistent with the pragmatic approach that
+we have followed in the past in determining finality.
+   13 Mr . Just ice Reh nq ui st , post, at 507-508, is correct in saying
+that this factor involves consideration of the merits in determining
+jurisdiction. But it does so only to the extent of determining that the
+issue is substantial and only in the context that if the state court’s
+final decision on the federal issue is incorrect, federal law forecloses
+further proceedings in the state court. That the petitioner who pro-
+tests against the state court’s decision on the federal question might
+prevail on the merits on nonfederal grounds in the course of further
+proceedings anticipated in the state court and hence obviate later
+review of the federal issue here is not preclusive of our jurisdiction.
+Curry, Langdeau, North Dakota State Board of Pharmacy, Cali-
+fornia v. Stewart, 384 U. S. 436 (1966) (decided with Miranda n .
+Arizona), and Miami Herald Publishing Co. v. Tornillo, 418 U. S.
+241 (1974), make this clear. In those cases, the federal issue hav-
+ing been decided, arguably wrongly, and being determinative of the
+litigation if decided the other way, the finality rule was satisfied.
+   The author of the dissent, a member of the majority in Tornillo,
+does not disavow that decision. He seeks only to distinguish it by
+indicating that the First Amendment issue at stake there was more
+important and pressing than the one here. This seems to embrace the
+thesis of that case and of this one as far as the approach to finality
+is concerned, even though the merits and the avoidance doctrine are
+to some extent involved.
+            COX BROADCASTING CORP. v. COHN                       487
+
+469                    Opinion of the Court
+
+See Gillespie v. United States Steel Corp., 379 U. S. 148
+(1964) ; Radio Station WOW, Inc. v. Johnson, 326 U. S.,
+at 124; Mills v. Alabama, 384 U. S., at 221-222 (Doug -
+las , J., concurring).14
