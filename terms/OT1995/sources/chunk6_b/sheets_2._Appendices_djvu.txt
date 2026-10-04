@@ -1,0 +1,1930 @@
+i 
+
+
+i 
+
+
+E 
+ree 
+
+
+3 
+
+
+Sencis ge 
+
+
+a5 se 
+PRR Ay 
+a eee 
+
+
+la 
+APPENDIX A 
+[Filed Jan. 10, 1995] 
+
+
+UNITED STATES COURT OF APPEALS 
+TENTH CIRCUIT 
+
+
+No. 93-4128 
+93-4134 
+
+
+J. GARY SHEETS, 
+Plaintiff-A ppellee, 
+VS. 
+
+
+SALT LAKE CoUuNTY, a governmental subdivision of the 
+State of Utah; and MICHAEL GeorGE, individually and 
+as Salt Lake County Investigator, 
+
+Defendants-A ppellants. 
+
+
+Appeals from the United States District Court 
+for the District of Utah 
+(D.C. No. 89-C-676-J) 
+
+
+Before KELLY, and HENRY, Circuit Judges, and VAN 
+BEBBER, District Judge.* 
+
+
+KELLY, Circuit Judge. 
+
+
+* The Honorable G.T. Van Bebber, United States District Judge 
+for the District of Kansas, sitting by designation. 
+
+
+2a 
+
+
+In No. 93-4134, Defendants-Appellants, Salt Lake 
+County and Michael George, appeal a $650,000 judg- 
+ment on a jury verdict and in No. 93-4128, they appeal 
+a $77,896.93 judgment for attorney’s fees entered against 
+them. They contend that the district court erred by (1) 
+refusing to hold Plaintiff's 42 U.S.C. § 1983 action time- 
+barred under Utah Code Ann. § 78-12-28(3), (2) deny- 
+ing Defendants’ motion to dismiss and motion for judg- 
+ment as a matter of law, (3) refusing to admit into evi- 
+dence two books and newspaper articles, (4) denying 
+Defendants’ motion for remittitur, (5) denying Defend- 
+ants’ motion for new trial, and (6) granting the Plaintiff 
+unreasonable attorney’s fees. Our jurisdiction arises un- 
+der 28 U.S.C. § 1291. We affirm. 
+
+
+Background 
+
+
+On October 15, 1985, two bombs exploded in Salt 
+Lake City. One killed Steve Christensen, a former em- 
+ployee and executive of Coordinated Financial Services 
+(“CFS”). The other killed Kathy Sheets, the wife of 
+Gary Sheets, chairman of the board and president of 
+CFS. These events generated a great deal of media in- 
+terest. 
+
+
+A few weeks after Kathy Sheets’ death, the police 
+asked Gary Sheets for a copy of his wife’s diary. Ac- 
+cording to Salt Lake City Detective Jim Bell, this was 
+a common practice. Aplee. App. at 144. Gary Sheets 
+read his wife’s diary. Believing that the diary would re- 
+main confidential, Gary Sheets voluntarily turned the 
+diary over to Detective Bell. Detective Bell testified that 
+he could not recall whether he had assured Mr. Sheets 
+the contents of the diary would remain confidential. 
+Aplt. App. at 115. Salt Lake City Detective Ken Farns- 
+worth testified, however, that he had told Mr. Sheets that 
+the diary would remain confidential and communicated 
+this message orally to those working on the case. Aplt. 
+App. at 187; 193. 
+
+
+3a 
+
+
+Copies of the diary were distributed to the investigators 
+and detectives assigned to the case, one of whom was the 
+Defendant, Salt Lake County Investigator Michael George. 
+At trial, Mr. George testified that he reviewed the diary, 
+photocopied certain excerpts, and made thorough notes 
+of the diary’s entries for his files. 
+
+
+In January 1987, Mark Hoffman pleaded guilty to 
+the murders of Steve Christensen and Kathy Sheets. Once 
+Mr. Hoffman was sentenced to prison, the criminal in- 
+vestigation of the bombings ended. The investigative file, 
+including the diary, was then archived, making it avail- 
+able for public inspection. 
+
+
+At that time, the Salt Lake County Attorney’s Office 
+had an unwritten policy that permitted its employees to 
+speak to members of the press about their cases once an 
+investigation closed, as long as the officers treated mem- 
+bers of the press in an evenhanded fashion. Aplt. App. 
+at 131. Pursuant to this policy, Mr. George met with 
+three people who were writing books about the Hoffman 
+murders, including his good friend Robert Lindsey. When 
+ke met with Mr. Lindsey, he allowed him to examine his 
+file box of notes. Mr. George testified that this box may 
+well have contained the photocopies and handwritten 
+notes he had taken from the diary. By contrast, Mr. 
+George did not provide the other authors with access 
+to his files. Instead, those authors asked him questions 
+and he responded, often referring to his notes. Mr. 
+George destroyed his note files before the publication of 
+Mr. Lindsey’s book. 
+
+
+All three authors published books about the Hoffman 
+murders. Mr. Lindsey’s book was the only one, however, 
+to contain direct quotations from Kathy Sheet’s diary. 
+On June 2, 1989, Mr. Sheets filed suit against Salt Lake 
+County and various prosecutors and police officers as- 
+serting state and federal violations, including a claim 
+for constitutional invasion of privacy. On December 4, 
+1990, Mr. Sheets amended his complaint to add a § 1983 
+
+
+4a 
+
+
+claim against the County, Mr. George, and Salt Lake 
+County Attorney Theodore Cannon. Only Mr. George 
+and the County remained as Defendants throughout the 
+trial. At the close of the Plaintiffs case, Defendants 
+moved to dismiss, in reality a motion for judgment as 
+a matter of law, Fed. R. Civ. P. 50(a), which the dis- 
+trict court denied. 
+
+
+Defendants then put on their case, and sought to offer 
+into evidence excerpts from the other authors’ books as 
+well as newspaper articles about Kathy and Gary Sheets. 
+The Plaintiff objected to admissions of these exhibits on 
+grounds that they were irrelevant. The district court sus- 
+tained the objection, but excluded the evidence on grounds 
+of lack of foundation. At the close of all the evidence, 
+Defendants moved for judgment as a matter of law. /d.; 
+Aplt. App. at 341. 
+
+
+The jury returned a verdict of $650,000 in favor of 
+Mr. Sheets. Defendants then filed motions for judgment 
+as a matter of law. Fed. R. Civ. P. 50(b), new trial, and 
+remittitur. Aplt. App. at 81-82. The district court de- 
+nied each of these post-trial motions. 
+
+
+Plaintiff subsequently filed a motion for attorney’s fees 
+and other costs. Defendants filed objections, and the dis- 
+rict court entered an order awarding Mr. Sheets 
+$77,896.93 in attorney’s fees. 
+
+
+Discussion 
+
+
+I. Statute of Limitations 
+
+
+Defendants initially contend that the district court 
+erred by refusing to bar Mr. Sheets’ § 1983 action under 
+the two-year statute of limitations contained in Utah Code 
+Ann. § 78-12-28(3), which purports to apply specifically 
+to $ 1983 actions. We have previously held, however, 
+that in enacting Utah Code Ann. § 78-12-28(3), the 
+Utah legislature exceeded its authority and as such this 
+section is invalid. Arnold v. Duchesne County, 26 F.3d 
+
+
+5a 
+
+
+982, 989 (10th Cir. 1994), petition for cert. filed, 63 
+U.S.L.W. 3161 (Aug. 25, 1994) (No. 94-358). In- 
+stead, a four-year statute of limitations under Utah Code 
+Ann. § 78-12-35(3) governs § 1983 actions. See id. at 
+985. Since Mr. Lindsey’s book was published in August 
+1988, and Mr. Sheets filed suit within four years of this 
+date, Mr. Sheets’ § 1983 claim was not barred under the 
+applicable statute of limitations. 
+
+
+Il. Denial of Motions for Judgment as a Matter of Law 
+
+
+Defendants claim that the district court erred by deny- 
+ing their motions for judgment as a matter of law. We 
+review de novo the district court’s denial of Defendants’ 
+motions for judgment as a matter of law. See F.D.I.C. 
+v. United Pacific Ins. Co., 20 F.3d 1070, 1079 (10th 
+Cir. 1994). To overturn the denial, “we must conclude 
+that ‘viewed in the light most favorable to the nonmoving 
+party, the evidence and all reasonable inferences to be 
+drawn therefrom point but one way, in favor of the 
+moving party.’” Jd. (quoting Mitchell v. Mobil Oil 
+Corp., 896 F.2d 463, 467 (10th Cir.), cert. denied, 498 
+U.S. 898 (1990) ). 
+
+
+Defendants first argue that Mr. Sheets had no legiti- 
+mate expectation of privacy in his wife’s diary, claiming 
+that he gave it to the authorities without any restrictions 
+on its use. They further argue that the Plaintiff pro- 
+duced insuffiicent evidence of proximate cause to war- 
+rant submission of the issue to the jury and insufficient 
+evidence for the jury to conclude that Mr. George inten- 
+tionally violated Mr. Sheets’ right of privacy. We dis- 
+agree. 
+
+A. Expectation of Privacy 
+
+
+Cases involving the constitutional right of privacy ad- 
+dress two distinct interests: “[o]ne is the individual in- 
+terest in avoiding disclosure of personal matters, and an- 
+other is the interest in independence in making certain 
+kinds of important decisions.” Whalen v. Roe, 429 U.S. 
+
+
+5, ARAN iii ini in NN 
+
+
+6a 
+
+
+589, 599-600 (1977). Here, we are concerned only with 
+the former of these interests. We have held that “[d]jue 
+process . . . implies an assurance of confidentiality with 
+respect to certain forms of personal information possessed 
+by the state.” Mangels v. Pena, 789 F.2d 836, 839 
+(10th Cir. 1986). 
+
+
+Information falls within the ambit of constitutional pro- 
+tection when an individual has a “legtimiate expectation 
+. that it will remain confidential while in the state’s 
+possession.” Jd. The legitimacy of this exception de- 
+pends, “at least in part, upon the intimate or otherwise 
+personal nature of the material which the state possesses.” 
+Id. If an individual has a legitimate expectation of con- 
+fidentiality, then “[d]Jisclosure of such information must 
+advance a compelling state interest which, in addition, 
+must be accomplished in the least intrusive manner.” /d. 
+(citing Denver Policemen’s Protective Assoc. v. Lichten- 
+stein, 660 F.2d 432, 435 (10th Cir. 1981)). Defendants 
+do not contend that there was any compelling state in- 
+terest in warranting disclosure and we believe that 
+whether the diary was to be kept confidential as well as 
+whether the material is sufficiently personal to be subject 
+to protection were questions for the jury to resolve based 
+upon the evidence. 
+
+
+Defendants have mischaracterized the issue. Plaintiff 
+does not claim an interest in avoiding disclosure of his 
+deceased wife’s general feelings and thoughts, rather he 
+claims an interest in avoiding disclosure of things per- 
+sonal to him, such as his wife’s written perceptions of 
+their marriage. Upon review of Mrs. Sheets’ diary and 
+the record, a jury could easily find that the diary con- 
+tained information about Mr. Sheets that only a spouse 
+would know and that such information was both inti- 
+mate and personal to Mr. Sheets. Moreover, Mr. Sheets’ 
+and Detective Farnsworth’s testimony that both parties 
+considered the diary to be confidential, leads us to con- 
+clude that there was ample evidence for a jury to con- 
+
+
+Ta 
+
+
+clude that Mr. Sheets legitimately expected his wife’s 
+diary to remain confidential while in the hands of the 
+police. See Aplt. App. at 187-88; 229. 
+
+
+The fact that Mr. Sheets did not author the informa- 
+tion does not prohibit him from having a distinct privacy 
+interest in the dissemination of information written about 
+the personal aspects of his life. See Nixon v. Adminis- 
+trator of General Services, 433 U.S. 425, 458 (1977) 
+(“This expectation is independent of the question of 
+ownership of the materials . . . .”). Our analysis of 
+one’s expectation of privacy in this area focuses upon the 
+nature of the material opened to public view, see Nilson 
+v. Layton City, No. 94-4077, 1995 WL 3759, slip op. 
+at 5-6 (10th Cir. January 6, 1995), not on the individ- 
+ual who penned the pages on which this information 
+
+
+appears. 
+
+
+Arguably, the information is not extremely sensitive 
+
+
+in nature, in other words, the facts revealed in the diary 
+about Mr. Sheets are not particularly controversial or em- 
+barrassing. However, information need not be embarras- 
+ing to be personal and whether it is sufficiently personal 
+to be protected is, in this case, a legitimate question for 
+the jury. We find that information conveyed to one’s 
+spouse or that one’s spouse has observed about one’s 
+character, marriage, finances, and business to be personal 
+in nature and subject to a reasonable expectation of 
+privacy.’ Mrs. Sheets’ diary entries about her husband 
+and their marital relationship are certainly as personal 
+as medical and certain financial records, which courts 
+have placed within the ambit of constitutional protec- 
+
+
+1 Though the common law tort of invasion of privacy does not 
+control the federal constitutional claim, we find that the tort, as 
+defined by § 652D of the Restatement, provides some guidance as 
+to what constitutes a reasonable expectation of privacy. Accord- 
+ingly, we note that the information revealed from Kathy Sheets’ 
+diary did not involve a matter of public concern, and its public 
+disclosure could be considered highly offensive to the reasonable 
+person. See Restatement (Second) of Torts § 652D (1977). 
+
+
+8a 
+
+
+tion. See United States v. Westinghouse Elec. Corp., 638 
+F.2d 570, 577 (3d Cir. 1980) (medical records); Fra- 
+ternal Order of Police, Lodge 5 v. Philadelphia, 812 
+F.2d 105, 115 (3d Cir. 1987) (financial records). 
+
+
+The fact that Detective Bell could not recall whether 
+he had initially assured Mr. Sheets of the diary’s con- 
+fidentiality does not negate both Mr. Sheets and Detec- 
+tive Farnsworth’s testimony that an understanding of con- 
+fidentiality did exist. In addition, the very nature of the 
+item—a diary, a place traditionally reserved for the re- 
+cording of private thoughts—which was given to the 
+police for the specific purpose of aiding their investiga- 
+tion, bolsters Mr. Sheets’ claim that he expected the 
+item to remain confidential. 
+
+
+Defendants contend that Mr. Sheets could not have 
+expected the diary to remain confidential, considering the 
+many investigators who had access to the diary. Defend- 
+ants gloss over a crucial point. To turn a diary over 
+to a limited group for what one perceives to be a limited 
+and proper purpose is quite different than inviting pub- 
+lication of the material. 
+
+
+Finally, although this point is conceded by Defend- 
+ants, we find no compelling state interest in Mr. George’s 
+disclosure of the diary excerpts to Mr. Lindsey. We have 
+found, for example, “compelling state interest” in the 
+disclosure of confidential statements police officers made 
+for investigative files. See Lichtenstein, 660 F.2d at 436. 
+The files in Lichtenstein were discoverable because the 
+state’s interest in ascertaining the truth in a criminal 
+proceeding in addition to defendants’ rights to exculpa- 
+tory evidence outweighed the officers’ legitimate expecta- 
+tion of privacy in the files. 7d. In this case, Defendants 
+have supplied no such compelling interest in the dissemi- 
+nation of Mrs. Sheets’ diary to Mr. Lindsey. 
+
+
+9a 
+
+
+B. Proximate Cause 
+
+
+Defendants also claim that Mr. Sheets failed to estab- 
+lish Mr. George as the proximate cause of Mr. Sheets’ 
+injury. We again must disagree. After hearing the evi- 
+dence at trial, the jury concluded that Mr. George was 
+responsible for disseminating the diary excerpts to Mr. 
+Lindsey. Nonetheless, Defendants claim that there was 
+insufficient evidence adduced at trial to hold Mr. George 
+accountable as the proximate cause of Mr. Sheets’ privacy 
+violation. 
+
+
+We have held if “competent evidence [is] introduced, 
+even though conflicting, the question[] of . . . proximate 
+cause must be left to the jury.” Key v. Liquid Energy 
+Corp., 906 F.2d 500, 505 (10th Cir. 1990). Mr. Lind- 
+sey testified that there were three possible sources of the 
+diary information: Detectives Farnsworth, Cannon, and 
+George. Mr. Farnsworth denied giving the information 
+to Mr. Lindsey. Mr. Cannon testified that he did not 
+have a copy of the diary nor did he keep meticulous 
+notes based on the diary. Mr. George, on the other hand, 
+testified that he made photocopies and took exact notes 
+from the diary, that he kept these excerpts in his files, 
+that he was very good friends with Robert Lindsey, and 
+that he let Mr. Lindsey look through his files. We deem 
+this to be ample evidence for a jury to conclude that 
+Mr. George proximately caused the invasion of Mr. 
+Sheets’ privacy. 
+
+
+Defendants additionally claim that Mr. George can- 
+not be considered the proximate cause of Mr. Sheets’ 
+§ 1983 violation because he did not intentionally cause 
+Mr. Lindsey to use the diary excerpts in the book. De- 
+fendants misconstrue the meaning of proximate cause. 
+A defendant is the proximate cause of a plaintiff's injury 
+if the injury a natural consequence of defendant’s ac- 
+tions. Id. Since the jury surmised that Mr. George was 
+responsible for disseminating the informattoion to Mr. 
+
+
+10a 
+
+
+Lindsey, Mr. George was indeed the proximate cause of 
+Mr. Sheets’ injury. 
+
+
+C. Insufficient Evidence of Intentional Conduct 
+
+
+Defendants contend that the Plaintiff failed to prove 
+that Mr. George intentionally violated his constitutional 
+right, as required by the court’s instruction to the jury. 
+According to Defendants, Plaintiff established mere negli- 
+gence. We disagree. 
+
+
+The district court instructed the jury to find that De- 
+fendants violated Plaintiffs constitutional right to privacy 
+only if Mr. George “intentionally committed the acts 
+which violated Plaintiff's constitutional right.” See Aplee. 
+Supp. App. at 172. The court further instructed that 
+“specific intent to deprive Plaintiff of a constitutional 
+right” is not necessary; instead, “it is sufficient if Plain- 
+tiff can prove that a Defendant intentionally committed 
+the acts which resulted in the violation of Plaintiff's con- 
+stitutional right.” /d. Defendants did not object to these 
+jury instructions, and they are not at issue. Viewing 
+the evidence and all reasonable inferences in favor of the 
+verdict, as we must, see Brown v. McGraw-Edison Co., 
+736 F.2d 609, 612-13 (10th Cir. 1984), we find that 
+sufficient evidence was proffered at trial for the jury to 
+conclude that Mr. George intentionally, as opposed to 
+negligently, disclosed the diary information to Mr. 
+Lindsey. 
+
+
+Defendants advanced several additional arguments to 
+the district court in support of their motion to dismiss, 
+including that Mr. Sheets was a public figure both as a 
+result of his position in the Mormon Church as well as 
+a result of a federal prosecution for which he was acquit- 
+ted. In this appeal, however, Defendants only briefed 
+and argued that the lower court erred “because plaintiff 
+had no reasonable expectation of privacy in his murdered 
+wife’s diary which he gave to the Salt Lake City Police 
+Department without any restrictions . . . and because 
+
+
+lla 
+
+
+plaintiff had insufficient evidence of proximate cause to 
+warrant submission to the jury.” Aplt. Br. at 22. Al- 
+though we are not persuaded by any of the points pre- 
+sented to the district court, a party who chooses not to 
+brief a particular point, ordinarily is deemed to have 
+waived the contention on appeal. McKinsey v. Sentry 
+Inc., 986 F.2d 401, 407 (10th Cir. 1993); Bledsoe y. 
+Garcia, 742 F.2d 1237, 1244 (10th Cir. 1984); White- 
+head v. Silver, 346 F.2d 207, 209 n.2 (10th Cir. 1965). 
+
+
+For the foregoing reasons, we affirm the district court’s 
+denial of Defendants’ motions for judgment as a matter 
+of law. 
+
+
+III. Admission of Evidence 
+
+
+Defendants claim that the trial court erred by exclud- 
+ing the books and newspaper articles Defendants tried to 
+introduce into evidence. “A district court possesses con- 
+siderable discretion in governing the presentation of evi- 
+dence, and its decisions will not be disturbed absent 
+manifest injustice to the parties” and clear abuse of dis- 
+cretion. Comcoa, Inc. v. NEC Tels., Inc., 931 F.2d 
+655, 663 (10th Cir. 1991); Orth v. Emerson Elec. Co., 
+980 F.2d 632, 639 (10th Cir. 1992). 
+
+
+When Defendants sought to introduce excerpts from 
+the other authors’ books and various newspaper articles 
+into evidence, the Plaintiff objected on the grounds of 
+relevance. The court sustained the objection, but based 
+the exclusion on lack of foundation. Establishing foun- 
+dation is the process whereby a proponent of a piece of 
+evidence identifies or authenticates the evidence, usually 
+with the testimony of a witness. See Edward W. Cleary, 
+McCormick on Evidence § 51, at 123 (3d ed. 1984). 
+Here, the authenticity of the books and articles had been 
+stipulated in the pretrial order. The evidentiary founda- 
+tion for these documents was thus established. Conse- 
+quently, the district court erred by excluding the evidence 
+for lack of foundation. 
+
+
+12a 
+
+
+The district court was correct, however, in sustaining 
+the Plaintiff's objection. Defendants failed to connect 
+the books and the newspaper articles to Mrs. Sheets 
+diary. See Fed. R. Evid. 402. Hence, they did not estab- 
+lish the evidence’s relevance nor a basis for its admission. 
+Therefore, the court’s only error was basing the exclusion 
+on lack of foundation, instead of relevance. We may 
+affirm the district court’s evidentiary ruling, despite the 
+fact its conclusion was based on incorrect grounds. See 
+In re Slack-Horner Foundries Co., 971 F.2d 577, 579- 
+80 (10th Cir. 1992) (“‘[T]rial court’s decision will be 
+affirmed if the record reveals another ground which sup- 
+ports the decision.’”) (quoting Scivally v. Time Ins. Co., 
+724 F.2d 101, 103 (10th Cir. 1983)). Because we find 
+grounds to support the district court’s exclusion of this 
+evidence, we affirm its evidentiary ruling. 
+
+
+IV. Remittitur 
+
+
+Defendants claim that the trial court erred by failing 
+to grant their motion for remittitur. The trial court’s 
+denial of a motion for remittitur is entitled to consider- 
+able deference on appeal. We will not disturb this deter- 
+mination absent a gross abuse of discretion. Karns vy. 
+Emerson Elec. Co., 817 F.2d 1452, 1460 (10th Cir. 
+1987). We will only find an abuse of discretion if the 
+jury award is “ ‘so excessive . . . as to shock the judicial 
+conscience and to raise an irresistible inference that pas- 
+sion, prejudice, corruption or another improper cause 
+invaded the trial... .” J/d. (quoting Barnes v. Smith, 
+305 F.2d 226, 228 (10th Cir. 1962)). Because deter- 
+mination of damages is traditionally a jury function, 
+Whitley v. OKC Corp., 719 F.2d 1051, 1058 (10th 
+Cir. 1983), and the jury’s award of $650,000 does not 
+shock our conscience, we affirm the trial court’s denial of 
+remittitur. 
+
+V. New Trial 
+
+
+Defendants claim that the district court erred by deny- 
+ing their motion for new trial. We review the district 
+
+
+| | 
+
+
+13a 
+
+
+court’s denial of defendants’ motion for new trial for 
+abuse of discretion. Hinds v. General Motors Corp., 988 
+F.2d 1039, 1046 (10th Cir. 1993). We will reverse the 
+denial of a motion for a new trial only if the trial court 
+“made a clear error of judgment or exceeded the bounds 
+of permissible choice in the circumstances.” Jd. De- 
+fendants have wholly failed to establish any bases for a 
+new trial. Hence, we affirm the district court’s denial of 
+defendants’ motion for new trial. 
+
+
+VI. Attorney’s Fees 
+
+
+Defendants claim that the district court’s award of 
+attorney’s fees was unreasonable. We review the district 
+court’s award of attorney’s fees to the plaintiff for abuse 
+of discretion. Post Office v. Portec, Inc., 913 F.2d 802, 
+811 (10th Cir. 1990). We will find the underlying fac- 
+tual findings reversible only if they are clearly erroneous. 
+See Fed. R. Civ. P. 52(a); Supre v. Ricketts, 792 F.2d 
+958, 961 (10th Cir. 1986). 
+
+
+Plaintiff has the burden of proving in the first instance 
+the extent and reasonableness of requested attoriicy s fees 
+with meticulous and contemporaneous time records. See 
+Mares v. Credit Bureau of Raton, 801 F.2d 1197, 1210 
+(10th Cir. 1986). This was done, and the district court 
+made the adjustments it deemed appropriate. Indeed, 
+having seen the work of these attorneys, the district court 
+is in a unique position to determine an appropriate fee. 
+This is especially true in the absence of any evidence to 
+the contrary. Defendants failed to proffer any evidence 
+that the rates or hours claimed by Mr. Sheets’ attorneys 
+or the court’s adjustments were unreasonable. Defend- 
+ants simply argue that the fees were duplicative and 
+exorbitant in nature. Because Defendants have failed to 
+substantiate these allegations with evidence or otherwise, 
+they waived their right to an evidentiary hearing and 
+consequently may not now challenge the district court’s 
+determination that the number of hours expended were 
+
+
+l4a 
+
+
+reasonable. See Blum v. Stenson, 465 U.S. 886, 892 
+n.5 (1984). 
+
+
+Defendants also claim that the district court abused 
+its discretion by halving the amount Plaintiff's counsel 
+charged, since this total included time spent on the case 
+not directly involving Mr. George and Salt Lake County. 
+We find, however, the court’s determination to be reason- 
+able. See, e.g., Hensley v. Eckerhart, 461 U.S. 424, 435 
+(1983). Hence, we affirm the district court’s award of 
+$77,896.33 in attorney’s fees. 
+
+
+AFFIRMED. 
+
+
+15a 
+
+
+APPENDIX B 
+[Filed May 10, 1991] 
+
+
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE DISTRICT OF UTAH 
+CENTRAL DIVISION 
+
+
+Civil No. 89-C-676]J 
+
+
+GARY SHEETS, 
+Plaintiff, 
+Vs. 
+
+
+ROBERT LINDSEY, SIMON & SCHUSTER, INC., a corpora- 
+tion, SALT LAKE COUNTY, a governmental subdivision 
+of the State of Utah, THEoporRE L. CANNON, individ- 
+ually and as Salt Lake County Attorney, and MICHAEL 
+GEORGE, individually and as a Salt Lake County In- 
+vestigator, 
+
+Defendants. 
+
+
+OPINION AND ORDER 
+
+
+I. INTRODUCTION 
+
+
+On January 29, 1991, the court heard argument on 
+a Motion to Dismiss filed by defendant Salt Lake County 
+(the “County”). The County argued that plaintiff's 42 
+U.S.C. § 1983 (1981) claims were barred by the ap- 
+plicable statute of limitations. On May 2, the court 
+heard argument on a second Motion to Dismiss filed by 
+defendant Michael George (“George”). George joined 
+the County’s Motion to Dismiss, similarly arguing that 
+plaintiff's § 1983 claims were time barred. The court 
+took the Motions under advisement. Having since care- 
+
+
+16a 
+
+
+fully considered the memoranda and arguments of coun- 
+sel, and for the reasons set forth below, the court hereby 
+DENIES defendants’ Motion to Dismiss. 
+
+
+Ii. FACTS 
+
+
+In August of 1988, defendant Simon and Schuster pub- 
+lished a book entitled “A Gathering of Saints” (the 
+“book”). The book, which was written by defendant 
+Robert Lindsey (“Lindsey”), contained portions of a 
+diary written by plaintiff's deceased wife. On July 31, 
+1989, plaintiff filed the above captioned case claiming de- 
+fendants Simon and Schuster and Lindsey had unreason- 
+ably invaded plaintiff's privacy by publishing portions of 
+the diary. On December 5, 1990, over two years after 
+the book was published, plaintiff filed an Amended Com- 
+plaint naming the County and George (collectively “de- 
+fendants”) as additional defendants to this action. Plain- 
+tiffs claims against defendants likewise arise out of the 
+August, 1988, publication of the book. 
+
+
+This case is currently before the court on defendants’ 
+Motions to Dismiss plaintiff's § 1983 claims against them. 
+Defendants argue that such claims are barred by the two- 
+year statute of limitations found in Utah Code Ann. 
+(“U.C.A.”) § 78-12-28(3) (1987).* In contrast, plaintiff 
+contends that the four-year residual statute of limitations 
+found in U.C.A. § 78-12-25(2) (1987) applies to § 1983 
+actions filed in the State of Utah, and therefore his civil 
+rights claims against defendants were timely.® 
+
+
+1Utah Code Ann. § 78-12-28(3) provides that an action “for 
+injury to the personal rights of another as a civil rights suit 
+under 42 U.S.C. 1983” must be filed within two years. 
+
+
+2Some states have a “general” statute of limitations provision 
+which applies to all personal injury actions with certain specific 
+exceptions. Other states have a “residual” provision which applies 
+to all actions not otherwise provided for, including personal in- 
+jury actions. See e.g., U.C.A. § 78-12-25(2) (An action for relief 
+not otherwise provided for by law must be brought within four 
+years.) 
+
+
+17a 
+Ill. DISCUSSION 
+
+
+This court must select which state statute of limitations 
+provision governs § 1983 actions filed in federal court in 
+the State of Utah.* Section 1983 itself does not contain 
+a specific statute of limitations. Therefore, because Con- 
+gress has not established a time period in which a cause 
+of action may be brought under § 1983, the settled prac- 
+tice is to adopt a local provision as federal law. See 
+Board of Regents v. Tomanio, 446 U.S. 478, 483 (1980). 
+
+
+In 42 U.S.C. § 1988 (1981), Congress specifically en- 
+dorsed the borrowing of state-law limitations for purposes 
+of civil rights actions when federal law is deficient. A 
+State statute will only be adopted, however, if it “is not 
+inconsistent with the Constitution and laws of the United 
+States.” 42 U.S.C. § 1988.‘ Because § 1988 does not 
+
+
+% Section 1983 provides in pertinent part: 
+
+
+Every person who, under color of any statute, ordinance, 
+regulation, custom, or usage, of any State or Territory or the 
+District of Columbia, subjects, or causes to be subjected, any 
+citizen of the United States or other person within the juris- 
+diction thereof to the deprivation of any rights, privileges, 
+or immunities secured by the Constitution and laws, shall be 
+liable to the party injured in an action at law, suit in equity, 
+or other proper proceeding for redress. 
+
+
+42 U.S.C. § 1983. 
+* Section 1988 provides in pertinent part: 
+
+
+The jurisdiction in civil and criminal matters conferred on 
+the district courts by the provisions of this Title, and of Title 
+“CIVIL RIGHTS,” and of Title “CRIMES,” for the protection 
+of all persons in the United States in their civil rights, and 
+for their vindication, shall be exercised and enforced in con- 
+formity with the laws of the United States, so far as such laws 
+are suitable to carry the same into effect; but in all cases 
+where they are not adapted to the object, or are deficient in 
+the provisions necessary to furnish suitable remedies and 
+punish offenses against law, the common law, as modified and 
+changed by the constitution and statutes of the State wherein 
+the court having jurisdiction of such civil or criminal cause 
+
+
+18a 
+
+
+offer any guidance as to which state provision to borrow, 
+the U.S. Supreme Court has directed courts to select the 
+state statute of limitations “most analogous”, Board of 
+Regents, 446 U.S. at 488, and “most appropriate”, John- 
+son v. Railway Express Agency, Inc., 421 U.S. 454, 462 
+(1975), to the particular § 1983 action. Federal courts 
+are bound by a state’s construction of its own statute of 
+limitations, but it is a question of federal law whether a 
+particular state statute is applicable to a federal claim. 
+See Wilson v. Garcia, 471 U.S. 261, 269-71 (1985). 
+
+
+The first step in selecting a state statute of limitations 
+for purposes of a federal claim, is to characterize the 
+essential nature of the federal action. See Wilson, 471 
+U.S. at 268. Once a federal action has been character- 
+ized, an appropriate state-law analogy may be drawn. The 
+practice of seeking state-law analogies for particular 
+§ 1983 claims has bred confusion and inconsistency in 
+the lower courts, and generated time-consuming litigation. 
+See Owens v. Okure, 488 U.S. 235, 240 (1989). Some 
+courts have found state-law analogies to § 1983 claims 
+in common-law tort, others in contract law, and still 
+others in statutory law.® Jd. at 241. Because the choice 
+of the statute of limitations depended upon the characteri- 
+zation of the § 1983 action, two or more state limitation 
+provisions could arguably apply to a given claim. 
+
+
+is held, so far as the same is not inconsistent with the Consti- 
+tution and laws of the United States .... 
+
+
+42 U.S.C. § 1988 (1981). 
+
+
+5 Almost every § 1983 claim can be favorably analogize to more 
+than one common-law form of action. To name a few, § 1983 has 
+been allege to encompass: “discrimination in public employment 
+on the basis of race or the exercise of First Amendment rights, 
+discharge or demotion without procedural due process, mistreat- 
+ment of schoolchildren, deliberate indifference to the medical needs 
+of prison inmates, the seizure of chattels without advance notice 
+or sufficient opportunity to heard ....” Wilson, 471 U.S. at 273 
+(Footnotes omitted.) 
+
+
+19a 
+
+
+In Wilson, 471 U.S. at 261, the Supreme Court sought 
+to end the confusion over which state-law analogy most 
+appropriately characterized the essential nature of a 
+§ 1983 claim. The Court held that the legislative history 
+of § 1983 and the wide array of claims embraced by that 
+provision confers a general remedy for “injuries to per- 
+sonal rights”. Wilson, 471 U.S. at 280. Therefore, be- 
+cause § 1983 claims are best characterized as personal 
+injury actions, the Court held that a state’s personal injury 
+statute of limitations should be applied to all § 1983 
+actions. /d. 
+
+
+In states with a single statute of limitations for per- 
+sonal injury claims, Wilson eliminated the confusion over 
+which limitations provision a court should borrow for 
+purposes of § 1983. Questions continued to arise, how- 
+ever, in states with multiple personal injury limitations 
+provisions. Accordingly, in Owens v. Okure, 488 US. 
+235, 249-50, the Court supplemented Wilson,* and held 
+that in states with multiple limitations periods for personal 
+injury actions, federal courts should borrow a state’s gen- 
+eral or residual statute of limitations. 7d. Because a gen- 
+eral or residual statute of limitations is easily identifiable 
+by language or application, the Court noted that a party 
+to a § 1983 action could readily ascertain the applicable 
+limitations period. Id. 248-49. 
+
+
+The Utah legislature has enacted multiple statutes of 
+limitations governing personal injury actions. See e.g., 
+U.C.A. § 78-12-28(2) (1987) (two years for death 
+caused by wrongful action or neglect); U.C.A. § 78-112- 
+29(4) (Supp. 1988) (one year for libel, slander, assault, 
+battery, false imprisonment, or seduction). Plaintiffs 
+
+
+® The Court’s decision in Owens was intended to eliminate any 
+confusion unaddressed by Wilson. “Our decision in Wilson promised 
+an end to the confusion over what statute of limitations to apply 
+to § 1983 actions; with today’s decision, we hope to fulfill Wilson’s 
+promise.” Owens, 488 U.S. at 251. 
+
+
+RMR iii 
+
+
+20a 
+
+
+therefore assert that, because Utah has more than one 
+limitations provisions governing personal injury claims, 
+the court should apply the state’s residual statute of limi- 
+tations. The court agrees. To avoid confusion as to 
+which personal injury statutes of limitations applies to a 
+§ 1983 action filed in Utah, the four-year limitations pro- 
+vision found in U.C.A. § 78-12-25(2) should govern ail 
+§ 1983 actions. Accordingly, the court finds that plain- 
+tiffs Amended Complaint, filed on December 5, 1990, 
+naming the County and George as defendants to an action 
+which arose in August of 1988, came well within the four- 
+year statute of limitations found in U.C.A. § 78-12-25(2). 
+
+
+While Owens would seem dispositive of the question as 
+to which state statute of limitations applies to § 1983 
+actions, the Utah legislature has created additional con- 
+fusion by enacting a statute of limitations provision which 
+specifically addresses civil rights claims. Utah Code Ann. 
+§ 78-12-28(3) provides that an action “for injury to the 
+personal rights of another as a civil rights suit under 42 
+U.S.C. 1983” must be filed within two years. Defendants 
+contend that because U.C.A. § 78-12-28(3) specifically 
+addresses § 1983 claims, Owens is inapposite to the case 
+at bar. They argue that because U.C.A. § 78-12-28(3) 
+eliminates the confusion over which of Utah’s personal 
+injury limitations provisions applies to § 1983 actions, 
+this court need not content itself with Utah’s residual 
+statute of limitations. 
+
+
+The court begins its analysis of U.C.A. § 78-12-28(3) 
+by first noting that the applicability of this provision to 
+§ 1983 actions filed in federal court in the State of Utah 
+is one of first impression. As discussed above, Congress 
+failed to provide a statute of limitations for suits brought 
+under § 1983. Therefore, the court must borrow the Utah 
+State statute of limitations provision most analogous and 
+most appropriate to plaintiff's § 1983 action, so long as 
+the chosen limitations period is not inconsistent with fed- 
+eral law and policy. 42 U.S.C. § 1988. 
+
+
+21a 
+
+
+The requirement that a state statute be both analogous 
+and appropriate, as well as consistent with federal law 
+and policy, emphasizes the predominance of the federal 
+interest in the borrowing process, taken as a whole.’ See 
+Wilson, 471 U.S. at 269. In Occidental Life Ins. Co. of 
+California, 432 U.S. 355 (1977), the Court stated the 
+reasons for carefully scrutinizing the borrowed state stat- 
+ute. Because “State legislatures do not devise their limi- 
+tations periods with national interests in mind,” the Court 
+noted that “it is the duty of the federal courts to assure 
+that the importance of state law will not frustrate or 
+interfere with the implementation of national policies.” 
+Occidental Life, 432 U.S. at 367. 
+
+
+Section 1983 provides a federal remedy against incur- 
+sions under the claimed authority of state law upon rights 
+secured by the Constitution and laws of the Nation. See 
+Wilson, 471 U.S. at 271-72. The purposes of § 1983 are 
+several fold: to override certain kinds of state laws; to 
+provide a remedy where state law is inadequate; to pro- 
+vide a federal remedy where the state remedy, though 
+adequate in theory, was not available in practice; and to 
+provide a remedy in the federal courts supplementary to 
+any remedy any state might have.* See McNeese v. Board 
+
+
+7In Wilson, the Court noted that: 
+
+
+The importance of the policies and purposes of the States on 
+matters of civil rights is not the primary office of the borrow- 
+ing provision in § 1988; rather, the statute is designed to 
+assure that neutral rules of decision will be available to en- 
+force the civil right actions, among them § 1983. Congress 
+surely did not intend to assign to state courts and legislatures 
+a conclusive role in the formative function of defining and 
+characterizing the essential elements of a federal cause of 
+action. 
+
+
+Wilson, 471 U.S. at 269. 
+
+
+8 The genesis of the Civil Rights Act of 1871 was the cam- 
+paign of violence and deception in the South fueled by the Ku 
+Klux Klan. The debates on the Act chronicle the insecurity of 
+life, liberty, and property in the Southern States: “Immunity is 
+
+
+| 22a 
+
+
+of Education, 373 U.S. 668, 672 (1963). In sum, § 1983 
+provides the means to preserve and enforce the Constitu- 
+tional rights, privileges and immunities granted to each 
+citizen. The high purposes of this unique remedy make it 
+appropriate to accord the statute a sweep as broad as its 
+language. See Wilson, 471 U.S. at 272. 
+
+
+Utah Code Ann. § 78-12-28(3) purports to impose a 
+specific time limitation on all § 1983 claims. In other 
+words, the State of Utah has specifically dictated the time 
+frame in which a federal claimant may vindicate a Con- 
+stitutional deprivation by persons acting under color of 
+state law. For the reasons set forth below, the court finds 
+that U.C.A. is neither consistent with, nor analogous to, 
+federal law and policy. 
+
+
+Although the federal courts are bound by a state’s 
+construction of its own statute of limitations, it is a ques- 
+tion of federal law whether a particular state statute is 
+applicable to a federal claim. The power of selecting the 
+most analogous statute of repose from existing state stat- 
+utes is a federal choice; not a state choice. State statutes 
+of repose relate to state created or state recognized causes 
+of action. A state is within its sphere of power in our 
+federal system of government, as a matter of state policy, 
+when it limits the time within which a state cause of 
+action may be vindicated in state court. In contrast, a 
+federally recognized or federally created cause of action 
+cannot be foreshortened by specific state legislation.’ 
+
+
+given to crime, and the records of public tribunals are searched 
+in vain for any evidence of effective redress.” Wilson, 471 U.S. 
+at 276. 
+
+
+® The court is particularly mindful of the policies underlying 
+federalism in the context of § 1983. When the fundamental goal 
+of a federal remedy is to deter future abuses of those acting under 
+color of state law, it is hardly appropriate to permit a state itself 
+to limit the time period in which a claim may be brought against 
+a@ person acting under color of state law. 
+
+
+: - 
+
+
+23a 
+
+
+The concept is simple. The issue before the court con- 
+cerns the fundamental principle of federalism; namely the 
+geographic division of power. A state lacks the power to 
+truncate federally created or federally recognized rights. 
+The principles of federalism is the perennial message of 
+both the Constitution and the Civil Rights Act. Whether 
+to diminish a federal created right is simply not a choice 
+for a state to make. By passing U.C.A. § 78-12-28(3), 
+the State of Utah seeks to make a choice that is clearly 
+outside the realm of their Constitutionally created powers. 
+Determining the statute of limitations for a federally cre- 
+acted cause of action, the court emphasizes, is exclusively 
+a federal choice. 
+
+
+Confusion arises because Congress has not itself made 
+a specific and express choice as to a statute of repose with 
+respect to § 1983. Both the higher courts and Congress 
+mandate that this court choose the most analogous state 
+Statute to the federal action. Accordingly, the court finds 
+that U.C.A. § 78-12-28(3) not only impermissible in- 
+trudes into the federal sphere, it is not the most analogous 
+State statute with respect to a § 1983 action. The Utah 
+statute does not even purport to deal with similar state 
+created or recognized state causes of action. By its ex- 
+Press language, the provision deals solely with § 1983 
+civil rights actions. 
+
+
+As set forth in Owens, the court finds that the most 
+analogous statute of limitations with respect to § 1983, is 
+the residual statute of limitations found in U.C.A. § 78- 
+12-25(2). The residual statute of lim‘tations is broad, not 
+selective, and thus may legitimately be used as a guide for 
+a federal choice.’ Therefore, for the reasons set forth 
+
+
+1 The court is further troubled by a state law enacted for the 
+sole purpose of limiting the time period in which a § 1988 claim 
+may be brought. Such a statute may well be motivated by a 
+legislative desire to limit the liability of persons acting under 
+color of state law. In contrast, the court believes that the enact- 
+ment of a state general or residual statute of limitations is not 
+
+
+24a 
+herein, to apply U.C.A. § 78-12-25(2) to plaintiff's 
+§ 1983 claims is the federal choice this court makes. 
+
+
+Defendants’ Motions to Dismiss must therefore be 
+DENIED. 
+
+
+IT IS SO ORDERED. 
+Dated this 10 day of May, 1991. 
+
+
+By THE CouRT: 
+
+
+‘s/ Bruce S. Jenkins 
+BRUCE S. JENKINS 
+Chief Judge 
+United States District Court 
+
+
+likely to be motivated by a legislative desire to limit the liability 
+of its officers or employees. 
+
+
+hs 
+
+
+25a 
+APPENDIX C 
+[Filed Jul 15, 1993] 
+
+
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE DISTRICT OF UTAH 
+CENTRAL DIVISION 
+
+
+Civil No. 89-C-676J 
+
+
+Gary SHEETS, 
+
+
+a Plaintiff, 
+
+
+SALT LAKE County, a governmental subdivision of the 
+State of Utah, and MICHAEL GEORGE, individually and 
+as Salt Lake County Investigator, 
+
+Defendants. 
+
+
+ORDER 
+
+
+The above-captioned action came on for hearing before 
+this Court on June 21, 1993, on defendants’ Motion for 
+Judgment as a Matter of Law, Motion for New Trial and 
+Motion for Remittitur. Having reviewed the memoranda 
+filed herein, and having heard and considered the argu- 
+ments of counsel, and for the reasons more particularly 
+explicated on the record in open court, 
+
+
+IT IS ORDERED that defendants’ Motion for Judgment 
+as a Matter of Law pursuant to Fed. R. Civ. P. 50(a) is 
+DENIED, the defendants having failed to show that “the 
+evidence points but one way and is susceptible to no rea- 
+sonable inferences which may sustain the position of the 
+party against whom the motion is made.” Anderson y. 
+Phillips Petroleum Co., 861 F.2d 631, 634 (10th Cir. 
+1988). 
+
+
+26a 
+
+
+IT IS FURTHER ORDERED that defendants’ Motion 
+for New Trial pursuant to Fed. R. Civ. P. 59(a) is DE- 
+NIED, the defendants having failed to establish grounds 
+sufficient to warrant a new trial, e.g., that the verdict “is 
+clearly, decidedly, or overwhelmingly against the weight 
+of the evidence,” Black v. Heib’s Enterprises, Inc., 805 
+F.2d 360, 363 (10th Cir. 1986); Prebble v. Brodrick, 
+535 F.2d 605, 617 (10th Cir. 1976), that the record is 
+tainted by prejudicial error, Rasmussen Drilling, Inc. v. 
+Kerr-McGee Nuclear Corp., 571 F.2d 1144, 1148-49 
+(10th Cir. 1978), that jury passion and prejudice resulted 
+in an excessive damages award, Mason v. Texaco, Inc., 
+948 F.2d 1546, 1561 (10th Cir. 1991), or that substan- 
+tial justice has not been done. See Holmes v. Wack, 464 
+F.2d 86, 88-89 (10th Cir. 1972). 
+
+
+IT IS FURTHER ORDERED that defendants’ Motion 
+for Remittitur is DENIED by reason of defendants’ fail- 
+ure to show that the amount of damages awarded by the 
+jury is “so excessive as to shock the judicial conscience 
+and raise an irresistible inference that passion, prejudice, 
+corruption or other improper cause invaded the trial,” 
+Karns v. Emerson Electric Co., 817 F.2d 1452, 1460 
+(10th Cir. 1987) (quoting Barnes v. Smith, 305 F.2d 
+226, 228 (10th Cir. 1962); accord, Wulf v. City of 
+Wichita, 883 F.2d 842, 874 (10th Cir. 1989). 
+
+
+DATED this 15 day of July, 1993. 
+
+
+BY THE COURT: 
+
+
+/s/ Bruce S. Jenkins 
+BruceE J. JENKINS 
+United States District Judge 
+
+
+27a 
+APPENDIX D 
+
+
+IN THE UNITED STATES DIST RICT COURT 
+FOR THE DISTRICT OF UTAH 
+CENTRAL DIVISION 
+
+
+Civil No. 89-C-676J 
+
+
+GARY SHEETS, 
+
+
+Plaintiff, 
+vs. 
+
+
+ROBERT LINDSEY, SIMON & SCHUSTER, INC., a corpora- 
+tion SALT LAKE COUNTY, a governmental subdivision 
+of the State of Utah, THEODORE L. CANNON, individ- 
+ually and as Salt Lake County Attorney, and MICHAEL 
+GEORGE, individually and as a Salt Lake County 
+Investigator, 
+
+
+Defendants. 
+
+
+TRIAL TRANSCRIPT 
+* * * * 
+
+
+[272] THE COURT: Okay. You have a motion? 
+
+MS. MARLOWE: Yes, Your Honor. The defendants 
+move to dismiss for the reason that plaintiff has failed to 
+establish a prima facie case of a violation of a constitu- 
+tional right to privacy. 
+
+It would be our Position that plaintiff Sheets had no 
+reasonable expectation of privacy in his wife’s diary, that 
+when Kathy Sheets died, she was the victim of a horrible 
+crime, that her life and everything about her went into 
+the public domain, and that thereafter, by reason of Mr. 
+Sheets Indictment and Prosecution on the Federal fraud 
+
+
+28a 
+
+
+charges, that he and anything about him, continued to 
+be in the public domain. 
+
+| So, there is, in 1988, at the time the book was [273] 
+published, that Mr. Sheets and his dead wife were still! in 
+the public eye, and that everything—and whatever was 
+| published was of legitimate public concern, and it didn’t 
+invade the privacy of Mr. Sheets. 
+
+Specifically, Your Honor, most of the statements that 
+he objects to, the quotes from the books, deal with the 
+feelings and—of Kathy Sheets. While he may have some 
+copyright interest in the diary, itself, that’s separate and 
+distinct from any right of privacy that he might be trying 
+to allege in this lawsuit. 
+
+I think the law is clear, that he absolutely has no stand- 
+ing to complain about the invasion of any feelings of fear 
+or feelings—complaints about money or fear of loss of 
+money by Kathy Sheets. The only thing he can complain 
+about is if his right of privacy is interfered with, and in 
+order for there to be some interference, he has to have 
+been held up to public ridicule or have been somehow, 
+you know, defamed in the public eye, and there is just 
+absolutely nothing contained in those diary excerpts that 
+holds Mr. Sheets up to, you know, to public defamation 
+or to—I mean, he is not at all hurt in the public eye. 
+
+The second part of our motion is that the fact that 
+plaintiffs have absolutely no evidence that my clients were 
+the proximate cause of this leak to Mr. Lindsey, that all 
+they have been able to adduce is that Mr. Lindsey says, 
+“{ [274] don’t know what the source is. It was some 
+detective, according to what I told my attorney for the 
+publisher. It was some detectives.” 
+
+He doesn’t know which detectives it might have been. 
+He says its could have been any one of seven. At a later 
+time, he says its could have been one of three, but in 
+order to prevail or move forward on this 1983 case, plain- 
+tiff must have proximate cause of injury to his privacy 
+interests by reason of the actions of my clients, and he 
+has none. 
+
+
+29a 
+
+
+You know, the issue of—the preponderance of evidence 
+is separate and distinct from whether or not plaintiff has 
+proximate cause to have the jury determine if he should 
+prevail in this lawsuit, and based upon his preponderance 
+of the evidence, we think the Court ought to rule, as a 
+matter of law, there is not sufficient evidence of proximate 
+cause. And the Court also ought to rule, as a matter of 
+law, that based upon the diary excerpts that appeared in 
+Mr. Lindsey’s book, that Mr. Sheets’ constitutional right 
+to privacy was not invaded by that publication, and that’s 
+the basis of our motion, Your Honor. 
+
+THE COURT: Okay. Are you relying on any par- 
+ticular case? 
+
+MS. MARLOWE: Well, when I first looked at this 
+lawsuit, I was trying to figure out if it was in the nature 
+of some vague privacy case or if it was in the nature 
+of a [275] Fourth Amendment violation. And, let’s see. 
+I think there is law out of the Tenth Circuit. There is 
+Layton versus Willingham. It’s a complaint by a plaintiff 
+about police who obtained photos of him of a highly 
+Sensitive and personal nature. And they disseminated 
+those photographs. 
+
+And the Court talks about the constitutional right of 
+privacy and talks—or says that there is no violation of 
+the constitutional right of privacy unless there is a legiti- 
+mate expectation of privacy in whatever is complained 
+about and the privacy interests outweigh the public need 
+for disclosure. And that’s just within the context of this, 
+I think, a criminal investigation. 
+
+There is also a case out of the Tenth Circuit. It’s 
+Mangel, M-a-n-g-e-l, versus Pena, P-e-n-a, cited in 1986, 
+where the Court, while it involves the public release of a 
+report that talks about drug use by fire fighters, and while 
+it’s a due process type of privacy violation alleged in that 
+case, and I believe that, you know, that was probably the 
+State of the law relative to the Privacy, you know, right. 
+
+But, in any event, the Tenth Circuit said that any lim- 
+ited assurances of confidentiality from officials do not 
+
+
+30a 
+
+
+make a difference in this case. It says because the rights 
+of the substantive due process rights of privacy are not 
+founded upon state provisions but upon deeply rooted 
+notions [276] of fundamental personal interests derived 
+from the constitution, so allegations of the failure of offi- 
+cials to keep confidential do not suffice to state a claim 
+under 1983. 
+
+See, the material itself has to warrant constitutional 
+protection, and, of course, you know, in our case we 
+allege that the diary of Kathy Sheets was not entitled to 
+constitutional protection at the time it was turned over to 
+the County Attorney’s Office or at the time that—or at 
+any other time. 
+
+THE COURT: Why not? 
+
+MS. MARLOWE: Let’s see. I think there is a recent 
+cases. There is the Sodahl versus Cook County. It’s a 92 
+case that talks about Fourth Amendment protections for 
+unreasonable searches and procedures. It says, if this is a 
+protectable property right that arises from this Fourth 
+Amendment protection. 
+
+We don’t believe, in this case, there has been a seizure. 
+Mr. Sheets turned the diary over voluntarily, and there 
+was not a search, an unreasonable search. So, if the 
+Court were to look at whether or not it was unreasonable 
+under some Fourth Amendment privacy right, we would 
+say that, you know, that you have to find there was no 
+Fourth Amendment violation. 
+
+THE COURT: Okay. Do you want to talk about 
+
+the Utah statutes? 
+[277] MS. MARLOWE: Yes, Your Honor. We filed 
+a Motion in Limine for the reason that we believe that 
+any violation of Mr. Sheets’ constitutional rights has to 
+stem-—well, has to stem from a violation of some funda- 
+mental constitutional right, that he can’t sue us based 
+upon a claim that we somehow violated Utah statute, 
+that the Utah statutes do not determine what the Federal 
+constitutional rights of an individual are. 
+
+
+3la 
+
+
+THE COURT: No. Just sitting with the Utah statute 
+alone, just looking at the Utah statute and confining your 
+examination to that, do you want to respond to the allega- 
+tion that there is a private cause of action for the violation 
+of the, then, Utah statute? 
+
+MS. MARLOWE: I am not aware of any state law, 
+you know, decisions that say that a person can base a 
+civil case on a—or a state civil cause of action on a 
+criminal case, and when I—the issue has arisen— 
+
+THE COURT: There was a statute, was there not, at 
+6716-4 of the Utah Public Officers and Employees Ethics 
+Act? 
+
+MS. MARLOWE: There is that. 
+
+THE COURT: And doesn’t it say that no public offi- 
+cer or public employee shall disclose confidential infor- 
+mation acquired by reason of his official position nor use 
+such information for his or another private gain or 
+benefit? 
+
+[278] MS. MARLOWE: Well, yes. 
+
+THE COURT: Doesn’t it say that? 
+
+MS. MARLOWE: It does. And our position is, 
+again, the diary was not confidential information. No 
+one communicated any confidentiality request to us, I 
+mean, all Mr. Sheets does, is—or all the evidence is that 
+Farnsworth says that he had some discussion. He’s unable 
+to say he told anyone anything or this is what he did. 
+My clients deny that anyone said anything. It was never 
+stamped “confidential.” There was no notation on it. 
+There was nothing that said that anyone wanted us to 
+protect it from public view. 
+
+And all public records, or all prosecutors’ files, at some 
+point in time, are open to the public, that after we archive 
+something, after we are doing with the prosecution, that 
+anyone is entitled to our files. 
+
+The Court will remember, from Wilcox, that he sued 
+us—or the women sued Wilcox for molesting them when 
+he was on duty as a highway patrol officer. And, I mean, 
+
+
+32a 
+
+
+in a case like that, we could protect our files during the 
+prosecution, but once it was over, the law is clear that 
+someone is entitled to them. And this is the same type of 
+case. 
+
+I mean, once the Hoffman murder was over, and we 
+archived all our files and records—or ones that were not 
+sensitive, and no personal notes, I guess, were stored— 
+then any person had access. So, you know, whether some- 
+one in [279] the office inadvertently gave Mr. Lindsey 
+access, you know, to diary information, or whether Mr. 
+Lindsey went and looked at the copy in archives. I mean, 
+we don’t know whether or not he got it from some other 
+source. And we don’t know. 
+
+But the problem here is whether or not it was confiden- 
+tial. We believe that, you know, if anyone had a right of 
+privacy, it was Kathy Sheets, and she died. It died with 
+her. That diary belonged to her estate. It didn’t belong 
+to Gary Sheets. It wasn’t personal to him. It had nothing 
+
+—to do with his privacy rights. 
+
+And the fact that, you know, the Court’s concerned 
+what alleged violation of state law, then, you know, plain- 
+tiff should have sued us for a violation of state law, as 
+opposed to a violation of a Federal constitutional right, 
+but the problem with that case, Your Honor, is the same 
+as this one. Plaintiff has no evidence that my clients, you 
+know, intentionally, deliberately, directly, you know, gave 
+that diary information to Mr. Lindsey. 
+
+They want a jury to try and determine, from many pos- 
+sibilities, who most likely did it, and that’s not sufficient 
+evidence of probable cause. They have to show that 
+someone was the legal cause of the publication in that 
+book, and plaintiff is unable to make that showing of 
+probable cause. 
+
+That, coupled with the fact, that whatever is [280] 
+published in the book, does not invade any constitutional 
+rights of privacy possessed by Gary Sheets. 
+
+THE COURT: Mr. Linebaugh? 
+
+
+pee 
+
+
+33a 
+
+
+MR. LINEBAUGH: Thank you, Your Honor. Coun- 
+sel makes the point, first, that Mr. Sheets had no reason- 
+able expectation of privacy, and she Says that’s because 
+they were in the public eye. There is absolutely no evi- 
+dence that this diary was in the public eye, absolutely 
+none. And with respect to his expectation of privacy, I 
+defy anyone to read that diary, as this jury is going to be 
+Permitted to do, and even begin to conclude, as Mr. 
+George did on the stand, that he saw nothing in there, 
+after studying it, that would indicate it ought to be kept 
+confidential. 
+
+That diary is full of material that Ought to be kept 
+confidential. And I defy anybody to read it and conclude 
+otherwise. That is a jury question, for the jury to decide 
+whether he had a reasonable expectation. 
+
+Counsel states the law correctly, from the Tenth Cir- 
+cuit. In the Slaton case the law is very, very clear, accord- 
+ing to Slaton, that as long as he has a reasonable expecta- 
+tion of privacy and that expectation outweighs any gov- 
+ernment reason for turning it loose—of which there is 
+none—then he has a cause of action. And it’s up to the 
+jury to decide, then, whether his privacy was violated. 
+
+So, we have, clearly, a jury question on whether he 
+[281] had a reasonable expectation of privacy and 
+whether it outweighed any government purpose for turn- 
+ing the diary loose. And that is clearly a jury question. 
+
+She also, then, retreats from that position and resorts 
+to the wrong standard, entirely, as to whether he has a 
+constitutional right. and where she Says that there is no 
+public ridicule or defamation; and, therefore, his privacy 
+is not invaded. 
+
+This is not a defamation case. It wouldn't matter if he 
+is publicly riduculed or not. This is a case of whether his 
+privacy and his sensibilities have been violated by virtue 
+of what was done; regardless of whether he’s a public 
+figure, regardless of whether the whole world thinks he’s 
+a great guy or a Charles Manson or whatever. It doesn’t 
+make any difference. The point is whether his privacy 
+
+
+34a 
+
+
+was violated, regardless of whether or not there is any 
+public disclaimer or acrimony or criticism of him. 
+
+And as I say, she does state the law correctly in Slaton, 
+but Slaton doesn’t talk in terms of whether or not he’s 
+publicly ridiculed or not. Its a question of whether or 
+not he had an expectation, from that material, that it be 
+kept private, and that’s the issue. 
+
+There is the further, very strong case in point, Your 
+Honor, in addition to the Slaton case the Fajo, F-a-j-o, 
+versus Coon, C-o-o-n, which is a Fifth Circuit case in 
+1981, [282] wherein it was held that there were consti- 
+tutional rights to privacy and freedom of speech, and 
+violation of these basic constitutional rights, in a case 
+where the plaintiff had adequately alleged deprivation of 
+constitutional right to privacy in view of allegations that, 
+although subject to subpoena, plaintiff revealed private 
+details of his life to State’s Attorney on assurance’s that 
+such was absolutely privileged and would be revealed to 
+no one. 
+
+And contrary to such promises, the state revealed infor- 
+mation for credit investigators, who, in turn, revealed it 
+to the insureds. Here we have the affirmative promise 
+Mr. Farnsworth testified about. We have the reasonable 
+expectation that the plaintiff testified about. We have the 
+testimony of Mr. Bell, that he certainly didn’t tell them 
+that they would be papering the town with pages of his 
+wife’s diary. 
+
+All of this, we think, creates a jury question of whether 
+Mr. Sheets had a reasonable expectation of privacy, when 
+he turned that over to Mr. Bell; albeit, whether it was a 
+privacy to be protected by the city or a privacy to be 
+protected by the county. 
+
+The next point she made is that there is no proximate 
+cause. Clearly, this is a circumstantial evidence case. We 
+don’t have Mr. Lindsey coming to the fore and saying, 
+“Yeah, by golly, I remember how this happened. And 
+[283] Mike George gave it to me.” 
+
+
+ow eC a 
+
+
+35a 
+
+
+What we have Mr. Lindsey saying a hundred times—in 
+spite of the fact we kept after him and kept after him— 
+he says, “I can’t remember. I can’t remember, finally, 
+when pressed, and finally when confronted with docu- 
+ments he, in turn, had personally written, he finally had to 
+confess, “Well, yeah, my memeory is refreshed now, and 
+at least I gave it to detectives.” 
+
+Now, having gone that far, let’s eliminate all these 
+other peopule they are thinking may have been possibili- 
+ties. And counsel has suggested everybody in the world 
+that may have had a chance to reveal the diary. It really 
+boils down to three people, and it boils down to one of 
+them being Ted Cannon, who counsel’s own client says, 
+“I didn’t do it.” 
+
+It boils down to Ken Farnsworth, who categorically 
+denies he did it. But you’ve then got Mr. George with 
+what's known as a soft confession. Instead of saying, “I 
+don’t remember,” Mr. George says, “I don’t know, but I 
+might have.” 
+
+Now, that is circumstantial evidence, but let’s not kid 
+ourselves. Those circumstances combine to indicate that 
+Mr. George was the one that let out the diary information, 
+because there is no one else possible, given all the testi- 
+mony we have. It all points to Mr. George. 
+
+And they are good friends. Mr. Lindsey doesn’t [284] 
+want to dump on Mr. George, and Mr. George surely 
+didn’t want to dumb on Mr. Lindsey. He wants Mr. 
+Lindsey to say, “I don’t know.” They are good enough 
+friends. They would have protected each other. 
+
+I don’t know whether they are lying or not. I don’t 
+have to prove they are lying. I have to create a jury 
+question that, given all the circumstances of this case, the 
+evidence points to the fact: Yes, Mike George did it. 
+And not only did he do it, he did it pursuant to a policy 
+that was adopted by the county which was contrary to 
+state law. 
+
+Now, on that matter of state law, Your Honor, that 
+only comes into play in this case—and the reason we 
+
+
+36a 
+
+
+haven’t put on anything about it in our case-in-chief is, 
+it only comes into play if in fact they are going to put 
+on some sort of defense that these people had some sort 
+of good faith immunity, because even though what they 
+did was wrong, they did it in good faith. 
+
+And that only comes into play there, and that’s why it 
+has not been introduced in the case yet, because we have 
+not sued that they violated that law, at least we certainly 
+don’t represent that to you today. 
+
+We are here on constitutional violations of the United 
+States Constitution, even though what they did viclated 
+that very state provision that Your Honor last alluded to. 
+But we, in a Section 1983 claim, are not [285] relying, 
+and we can’t rely on that state statute as evidence of a 
+violation of the 1983 claim, unless they want to raise 
+the good faith defense, which I think they are going to 
+have a very difficult time doing. 
+
+She has also kind of commented, during the course of 
+her argument, with words like it was “inadvertently” done 
+or “without intention.” Absolutely irrelevant. It’s got 
+nothing to do with anything here. We don’t have to prove 
+that they intended to hurt Mr. Sheets. 
+
+We simply have to prove that they did it; that they in 
+fact gave out the diary information, they in fact adopted 
+the policy that allowed it to be disseminated, and, there- 
+fore, both individual defendants and the county are liable, 
+and there are jury questions on those issues. Thank you, 
+
+
+Your Honor. 
+a * * * 
+
+
+so ARDS ita MEE Line 5 POE! Loe 
+
+
+_— CESARE te WO on Thy 
+
+
+37a 
+[299] 
+SALT LAKE CITY, UTAH 
+WEDNESDAY, MARCH 10, 1993 
+
+
+* * * 
+
+
+THE COURT: Note that counsel is present. Parties 
+are present. 
+
+Prior to dealing with pending motions, I wanted to 
+clarify a couple things. Obviously in dealing with 1983, 
+we're talking about people acting under color of state 
+law. It seems pretty obvious. There’s no genuine con- 
+test on that, is there? 
+
+MS. MARLOWE: No, your Honor. 
+
+THE COURT: Secondly, in dealing with the con- 
+cept of privacy as enunciated in Slayton and, indeed, in 
+the Nicks on case, there’s Suggestion as to the applica- 
+cation of a balancing test where theoretically the privacy 
+interest is balanced against some so-called public inter- 
+est capable of articulation. I’m interested in having the 
+defendants through counsel tell me if they’ve identified 
+any public interest that they put as a counterweight to 
+the so-called private interest. — 
+
+MS. MARLOWE: Well, it’s public interest in the 
+dissemination of information gathered for prosecution 
+that all persons within the community are interested in 
+how a crime was solved and what type of evidence was 
+in possession of authority. And the problem in this Case, 
+your Honor, is not so much we think a balancing test, 
+it’s a fact that this [300] diary which plaintiffs claimed 
+released and quoted from or at least excerpts were re- 
+leased and quoted from do not involve private sensitive 
+matters that are talked about in Slayton. So you never 
+get to balancing Ms. Sheets— 
+
+THE COURT: I want to be clear, because I’m in 
+the process of dealing, one, with your motion initially, 
+and if need be thereafter. Are you telling me that you’re 
+not asserting any kind of a counter balance for the so- 
+called privacy interest as far as the public is concerned? 
+
+MS. MARLOWE: Well, no. We believe the public 
+had a right to know. 
+
+
+38a 
+
+
+THE COURT: Tell me what your public interest is 
+that you say is the counter balance to the so-called 
+privacy interest. Why don’t you tell me as simply as 
+you can. 
+
+MS. MARLOWE: Okay. Mrs. Sheets was a victim 
+of a horrible crime. She was a victim in place of Mr. 
+Sheets. There was great public empathy and sympathy 
+I think about her death, okay. And that concern about 
+her death and her murder, her unfortunate murder con- 
+tinued. And it arose again in conjunction with Mr. 
+Sheets’, you know, fraud problems, the ongoing investiga- 
+tion and all the other stuff. She and her husband re- 
+mained in the public eye. And there was lots of interest 
+generated by the press and by the public in what Mark 
+Hoffman did and who he defrauded and why he killed 
+these two people. And that’s why we think there [301] 
+was some interest on behalf of the public to know. 
+
+THE COURT: Well, does the public have the right 
+to know confidential matters? 
+
+MS. MARLOWE: Well, we assert they’re not con- 
+fidential. But if they are, they belong to Kathy Sheets. 
+
+THE COURT: Well, we’re not concerned with the 
+proprietorship question. We’re not concerned with that. 
+We’re concerned with information that purportedly is 
+disclosed in reference to the party plaintiff. You have to 
+distinguish, it seems to me, between proprietorship and 
+information which is if private, private. 
+
+MS. MARLOWE: Well, okay. Okay. Yesterday 
+Mr. Sheets says that what he objects to is not what 
+authors may have said about him and his deceased wife 
+and he doesn’t care what Lindsey may have written. He 
+objects to the quotes from the diary. And he doesn’t 
+care about the substance of the quotes. So all he’s say- 
+ing is that we allowed Lindsey to misuse or to quote from 
+the diary. He doesn’t say that what’s quoted is offensive 
+to him or invades his privacy. He complains about a 
+violation of some possessory interest in this diary. 
+
+
+39a 
+
+
+THE COURT: As I understand your argument, 
+then, you say that there’s some kind of a public need to 
+know confidential material. 
+
+MS. MARLOWE: Well, no. I’m Saying it’s not 
+[302] confidential. Just it came— 
+
+THE COURT: Assuming it’s confidential, assuming 
+that it’s confidential, then your argument is the public 
+needs to know confidential material. And the query then 
+becomes why? 
+
+MS. MARLOWE: Because of the notoriety of the 
+crime, public’s continuing interest in Mr. Sheets and 
+everything about Mr. Sheets. He never left public—He 
+never left the public’s eye. There’s a newspaper— 
+
+THE COURT: The mere fact that somebody is in the 
+public eye, to use your words, in and of itself doesn’t 
+justify the disclosure of confidential information. The 
+mere fact that somebody has some degree of public rec- 
+ognition doesn’t mean that an officer who may have con- 
+fidential material for use in a public function has any 
+basis found in the so-called need to know to disclose it. 
+
+MS. MARLOWE: Well, if Mr. Sheets is in a position 
+of public notoriety, okay, then the public has an interest 
+in knowing about him and all things connected with him. 
+I mean, his wife’s murdered in his place. There’s continu- 
+ing public interest in Kathy Sheets and her life. 
+
+THE COURT: The fact that people have had hor- 
+tible experience doesn’t mean that their life from the 
+beginning of conception until death is to be laid out on 
+the public platform. That’s an argument that seems to 
+me flies in the [303] face of Slayton and the privacy in- 
+terest that Slayton says people have assuming the existence 
+of privacy interest. And the question as to the nature of 
+the interest is it seems to me a factual question in matters 
+of this kind. 
+
+MS. MARLOWE: Well, if he says the substance of 
+the quotes don’t bother him, and they don’t offend him— 
+
+THE COURT: That's something you can argue, I 
+
+
+40a 
+
+
+suppose, to the jury. But that doesn’t deal with the legal 
+proposition. 
+
+Okay. Well, I think that I understand what you’re sug- 
+gesting by way of a counter weight. It isn’t much of a 
+counter weight at this point. Secondly, we cleared up the 
+under color of state law routine. 
+
+MS. MARLOWE: I have a question for the Court. 
+I mean, we think we’re entitled to show as part of our 
+defense in this case the fact that all the information or all 
+the quotes that Mr. Lindsey used were already in the 
+public forum. 
+
+THE COURT: Well, I'll deal with questions of evi- 
+dence when we get to that point— 
+
+MS. MARLOWE: Well— 
+
+THE COURT: -—TI think in reference to your motion. 
+
+MS. MARLOWE: Well, at the same time, you know, 
+if you want to allow the proffer we can save time. 
+
+THE COURT: Let’s deal with the motions at this 
+point. [304] And in reference to the motions that you 
+made, I’m going to deny your motion. * * * 
+
+
+* * * * 
+
+
+[213] Q. Did Mr. Farnsworth ever tell you, during the 
+course of any meetings, that he promised Mr. Sheets that 
+Kathleen Sheet’s diary would be kept confidential? 
+
+A. [Mr. George] No, he did not. 
+
+Q: Did anyone say anything to you at any time about 
+keeping that diary confidential? 
+
+A. No, they did not. 
+
+
+* * * * 
+
+

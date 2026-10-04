@@ -1,0 +1,1508 @@
+a oa 
+1nbuD 
+
+
+A201 7 UNS - 
+
+
+No. 
+DED vr Lt CLERK 
+
+
+In THE 
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1994 
+
+
+SALT LAKE COUNTY and MICHAEL GEORGE, 
+
+
+< Petitioners, 
+
+
+J. GARY SHEETS, 
+
+
+Respondent. 
+
+
+Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the Tenth Circuit 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+MARY KARLYNN HINMAN 
+(Counsel of Record) 
+
+Von G. KEETCH 
+
+KIRTON & MCCONKIE 
+
+1800 Eagle Gate Tower 
+
+60 East South Temple 
+
+Salt Lake City, Utah 84111-1004 
+
+(801) 328-3600 
+
+
+DOUGLAS R. SHORT 
+
+Salt Lake County Attorney 
+PATRICIA MARLOWE 
+
+Deputy County Attorney 
+2001 South State Street 
+Suite 3400 
+Salt Lake City, Utah 84190-1200 
+(801) 468-3300 
+
+
+WILeon - Eres Printinc Co., Inc. 
+
+
+- 789-0096 - WASHINGTON, D.C. 20001 
+
+
+QUESTIONS PRESENTED 
+
+
+1. In the face of conflicting circuit court standards, 
+what is the appropriate way to determine whether infor- 
+mation collected during a criminal investigation (here, 
+brief excerpts from a homicide victim’s diary) should be 
+given constitutional protection under the confidentiality 
+branch of the right to privacy? 
+
+
+2. If a constitutionally protected right to privacy in 
+given information has been deduced, which of the several 
+court standards determines when government may dis- 
+close that information? 
+
+
+3. May the Court of Appeals invalidate Utah’s two- 
+year statute of limitations solely because the statute 
+specifically refers to Section 1983 claims when other 
+states may apply two-year (or even shorter) limitation 
+periods to Section 1983 claims because their statutes do 
+not refer to Section 1983? 
+
+
+ii 
+STATEMENT PURSUANT TO RULES 14.1(b) AND 29.1 
+
+
+All parties are named in the caption. 
+
+
+Salt Lake County is a body corporate and politic 
+under the iaws of the State of Utah. Although the 
+County has a number of related Improvement Districts 
+and Authorities, they are public entities with no private 
+ownership. 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+
+QURBEIOING PIN ED cecccccesccccerenceerecssnstecosesossecesee=- i 
+STATEMENT PURSUANT TO RULES 14.1(b) AND ‘ 
+nae ehatidibidiididaanticeseiintincedetnisnsicinnsttilibihon dp asitindiberitsisdiittnrees ii 
+top ef 88 oot 4 Big TY + Scene ry 1 
+CITATIONS TO OPINIONS BELOW... eo... 1 
+I hi ats sardin dienaeesetinnsvinieinaiouteins 2 
+STATUTORY PROVISIONS INVOLVED .........00000...... 2 
+STATEMENT OF THE CASE .......0....2......0..csccceceseseeeee-- 3 
+REASONS FOR GRANTING THE PETITION .............. 8 
+
+
+I. THE DECISIONS OF THE COURTS OF 
+APPEALS ARE IN DIRECT CONFLICT AS 
+TO THE APPLICABLE STANDARDS IN 
+THE RECOGNITION AND ANALYSIS OF 
+FEDERAL CONSTITUTIONAL PRIVACY 
+Sees ELA Sa a aa a ge So 8 
+
+
+A. A Direct Conflict Exists Between the Tenth 
+Circuit’s Recognition of a Constitutional Con- 
+fidentiality Right in This Case and Decisions 
+of Other Circuit Courts Refusing to Recog- 
+nize or Limiting Such a Right .................... 12 
+
+
+B. Even if a Constitutional Confidentiality Right 
+Has Been Recognized, the Circuits Are in 
+Deep Conflict About the Way to Treat the 
+Right in the Face of Competing Governmen- 
+I 14 
+
+
+(iii) 
+
+
+iv 
+
+
+TABLE OF CONTENTS—Continued 
+
+
+Page 
+II. CONFLICTS AMONG THE COURTS OF 
+APPEALS ABOUT STATE POWERS TO 
+ADOPT STATUTES OF LIMITATION FOR 
+SECTION 1983 CLAIMS CREATE ANOM- 
+DEA CED | hci rsscccecceiniciaiisteimnsiodanins 18 
+
+
+CFIA neccoceversicinnceedctoninnornandepsanebtuairanbeiapmacnionnpelcntiin 22 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES 
+Cases 
+
+
+Alexander v. Peffer, 993 F.2d 1348 (8th Cir. 
+MEET a cisititths Lnhcicenitiastnidesasticaceapaibmabdicisddidiidunbbtid alle. 
+Arnold v. Duchesne County, 26 F.3d 982 (10th Cir. 
+1994), cert. denied, —— U.S. ——, 115 S.Ct. 
+pS | RP ARSC NSERC AF MNOS Seas ORC one S 
+Barry v. City of New York, 712 F.2d 1554 (2d 
+Cir.), cert. denied, 464 U.S. 1017 (1983) ............ 
+Bertoldi v. Wachtler, 952 F.2d 656 (2d Cir. 1991).. 
+Blake v. Dickason, 997 F.2d 749 (10th Cir. 1993).. 
+Borucki v. Ryan, 827 F.2d 836 (1st Cir. 1987)........ 
+Bougher v. University of Pittsburgh, 882 F.2d 74 
+SO i ete Gained athens asiodendanancloneess 
+Burnett v. Grattan, 468 U.S. 42 (1984) —00000 2... 
+Callwood v. Questel, 883 F.2d 272 (3d Cir. 1989).. 
+Cinel v. Connick, 15 F.3d 1338 (5th Cir. 1994), 
+cert. denied, —— U.S. ——, 115 S.Ct. 189 
+I Sa encciiciok chidsecasiuich eect Lee re 
+Cito v. Bridgewater, 892 F.2d 23 (3rd Cir. 1989)... 
+Collins v. City of Harker Heights, Tezx., 503 U.S. 
+I IT eictlecciigas acca sig i oe 
+Dautremont v. Broadlawns Hosp., 827 F.2d 291 
+a 
+Davis v. Bucher, 853 F.2d 718 (9th Cir. 1988) ........ 
+Day v. Brown, 427 S.E.2d 104 (Ga. App. 1993).... 
+Denver Policemen’s Protective Assoc. v. Lichten- 
+stein 660 F.3d 432 (10th Cir. 1981) 2.000.000... 
+Detro v. Roemer, 739 F.Supp. 303 (E.D.La. 1990), 
+affirmed, 932 F.2d 966 (5th Cir.); cert. denied, 
+SI ne MD ens chen clan saceecen ia 
+Doe v. City of New York, 15 F.8d 264 (2d Cir. 
+7 SME MR URRREES Pk RY pe BeBe Te <0 op TUE Das 
+Doe v. Wigginton, 21 F.3d 733 (6th Cir. 1994) ...... 
+Dunlap v. City of Phoenix, 817 P.2d 8 (Az. App. 
+| 3 RARER REGS EARS SSL NG: MELD SSR IEE gs SA DRI OO 
+Duplantier v. United States, 606 F.2d 654 (5th Cir. 
+1979), cert. denied, 449 U.S. 1076 (1981) _........ 
+Dueks v. Smitherman, 32 F.3d 5385 (11th Cir. 
+TI aa cece: sduhalis’ tena aia <choei sis anneal ie 
+Eisenbud v. Suffolk County, 841 F.2d 42 (2d Cir. 
+WEEE 6 ciccecbiedd abiaetaasbadien dsciamndeie es nese hi ae: 
+
+
+Page 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Eldridge v. Bouchard, 620 F.Supp. 678 (W.D.Va. 
+BN ccerctanteeiiaiincs tn bine nitien di peetetoarnchnsteliaealh teach hae tibaliins 
+Fadjo v. Coon, 638 F.2d 1172 (5th Cir. 1981) ....... 
+Ford v. Hill, 874 F.Supp. 149 (E.D. Ky. 1995) ...... 
+Francis v. Cleveland, 605 N.E.2d 966 (Ohio App. 
+TID cinis:ncnsntcictiiiccestiinssinettimbidaaiaibanaaniad teil neat andi ie 
+Fraternal Order of Police Lodge 5 v. Philadelphia, 
+bh gf ®t RE. 5 RS RamaU enero 
+Frazier v. Bailey, 957 F.2d 920 (1st Cir. 1992)...... 
+Gartrell v. Gaylor, 981 F.2d 254 (5th Cir. 1993) .... 
+Grummett v. Rushen, 779 F.2d 491 (9th Cir. 
+SID wcsiacdesstesdasaesvacemiaec'nicaniidatra micelle ania, 
+Henry v. Metropolitan Sewer Dist., 922 F.2d 332 
+CE. SUG. . Be cessctinichics nopahecnhsteniath ntact adiitiates 
+Hodge v. Jones, 31 F.3d 157 (4th Cir. 1994), cert. 
+denied, —— U.S. ——, 115 S.Ct. 518 (1994)...... 
+Holmes v. Donovan, 984 F.2d 732 (8th Cir. 1993) .. 
+Igneri v. Moore, 898 F.2d 870 (2d Cir. 1990) _......... 
+J.P. v. DeSanti, 653 F.2d 1080 (6th Cir. 1981) ........ 
+Jackson. v. Nicoletti, 875 F.Supp. 1107 (E.D.Pa. 
+TET ovnsviasorinspesunthicdintanasaemendaidapenaiiaamenmedeneoiaaedin 
+James v. City of Douglas, 941 F.2d 1539 (11th 
+CE, TIMID csnssacssiiasnnconbeaiiieisbaniabaldiomaiah ds amet en oad 
+Loy v. Clamme, 804 F.2d 405 (7th Cir. 1986) -....... 
+Mangels v. Pena, 789 F.2d 836 (10th Cir. 1986) -... 
+Mason v. Tucker & Associates, 871 P.2d 846 (Idaho 
+pS Se.) RRR Dene ace He PRERE fi NONS 
+McCausland v. Mason City Bd. of Educ., 649 F.2d 
+278 (4th Cir.), cert. denied, 454 U.S. 1098 
+PETITE} .-svccsacesssnticcoonnionsochsncovepmesiinlsnsiasamauatananinastiamiiien 
+Meade v. Grubbs, 841 F.2d 1512 (10th Cir. 1988) .. 
+Muniz-Cabreror v. Ruiz, 23 F.2d 607 (ist Cir. 
+ c ._. } RRRRDNS entire SI ie meet NT: AEG CONT Na 
+National Treasury Emp. Union v. Dept. of Treas- 
+ury, 25 F.8d 287 (Sth Cir. 1994) ......................... 
+National Fed’n of Fed. Employees v. Greenberg, 
+Seb  Biitede S| | Rao 
+Nilson v. Layton City, 45 F.3d 369 (10th Cir. 
+EE | punted ineler bisa Wied BLA et 
+
+
+Page 
+
+
+20 
+17 
+20 
+20 
+16 
+10 
+20 
+15 
+10 
+10, 17 
+21 
+
+
+10, 16 
+13, 14 
+
+
+11,17 
+
+
+20, 21 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+Nixon v. Administrator of General Services, 433 
+i fe 6 6: aR rei ainiiieiaeee 8, 12, 14 
+Nored v. Blehm, 743 F.2d 1386 (9th Cir. 1984) __.. 18 
+Owens v. Okure, 488 U.S. 235 (1985) 00. 19 
+Pagano v. Hadley, 563 F.Supp. 171 (D.Del. 1982) .. 20 
+Palmer v. Bd. of Educ. Comm. Unit. School Dist., 
+ee fa, ES Ab | a 20 
+Paul v. Davis, 424 U.S. 693 (1976) ........000000 8,9 
+Pele Defense Fund v. Paty, 8837 P.2d 1247 (Hi. 
+1992), cert. denied, —— U.S. ——, 1138 S.Ct. 
+I i ee 20 
+Perez v. Seevers, 869 F.2d 425 (9th Cir.), cert. 
+denied, 493 U.S. 860 (1989) .......... AS as eerie 20 
+Pesce v. J. Sterling Morton High Scho. Dist. 201, 
+Be & By. eR).  - 2 ere 14 
+Plante v. Gonzalez, 575 F.2d 1119 (5th Cir. 1978), 
+cert. denied, 439 U.S. 1129 (1979) ........0000 10, 17 
+Ponderosa Homes, Inc. v. City of San Ramon, 29 
+Cal.Rptr. 2d 26 (Cal.App. Ist Dist. 1994) __ 21 
+Ramie v. City of Hedwig Village, Tex., 765 F.2d 
+490 (5th Cir. 1985), cert. denied, 474 U.S. 1062 
+ot) EES st nS Ae CR No PONS see 13 
+Schacter v. Whalen, 581 F.2d 35 (2d Cir. 1978)... 16 
+
+
+Scheetz v. The Morning Call, Inc., 946 F.2d 202 (3d 
+Cir. 1991), cert. denied, 502 U.S. 1095 (1992)... 9,10 
+
+
+Shields v. Burge, 874 F.2d 1201 (7th Cir. 1989) _.. 10 
+Tavoulareas v. Washington Post Co., 737 F.2d 1170 
+I eS 18 
+Tavoulareas v. Washington Post Co., 724 F.2d 1010 
+DN I ac ee 18 
+United States v. Westinghouse Elec. Corp., 638 
+ae re ee et 15 
+Whalen v. Roe, 429 U.S. 589 (1977) _............ 8,9, 17 
+Wilson v. Garcia, 471 U.S. 261 (1985) . me 19 
+Woodland v. City of Houston, 940 F.2d 184 (5th 
+OR) Ne tigate spate ea a eet 17 
+Statutes 
+I lc Ss 2, passim 
+Utah Code Ann. § 78-12-25 _...... cnodateiesisacubh cme 2, 19, 20, 21 
+
+
+Utah Code Ann. § 78-12-28 02.2... ceeeeeeseeeeees 2, 19, 20, 21 
+
+
+In THE 
+Supreme Court of the United States 
+OCTOBER TERM, 1994 
+
+
+No. 
+
+
+SALT LAKE COUNTY and MICHAEL GEORGE, 
+Petitioners, 
+¥, 
+J. GARY SHEETS, 
+Respondent. 
+
+
+Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the Tenth Circuit 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+INTRODUCTORY PRAYER 
+
+
+Appellants Salt Lake County and Michael George pray 
+this Court to grant their petition for certiorari to review 
+
+
+an adverse decision by the United States Court of Appeals 
+for the Tenth Circuit. 
+
+
+CITATIONS TO OPINIONS BELOW 
+
+
+The decision of the United States Court of Appeals for 
+the Tenth Circuit is reported at 45 F.3d 1383 (10th Cir. 
+1995) (see Appendix la-14a). 
+
+
+The decision of the United States District Court, Dis- 
+trict of Utah, is reported at 783 F. Supp. 577 (D.Ut. 
+1991) (see Appendix 15a-24a). 
+
+
+2 
+
+
+JURISDICTION 
+
+
+This Court has jurisdiction under 28 U.S.C. § 1254 
+because appellants seek review of an adverse decision 
+rendered by the United States Court of Appeals for the 
+Tenth Circuit. 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+The statutes underlying this case are: 
+
+
+I. 42U.S.C. § 1983. Civil action for deprivation of 
+rights 
+
+
+Every person who, under color of any statute, ordi- 
+nance, regulation, custom, or usage, of any State or 
+Territory or the District of Columbia, subjects, or 
+causes to be subjected, any citizen of the United 
+States or other person within the jurisdiction thereof 
+to the deprivation of any rights, privileges, or immu- 
+nities secured by the Constitution and laws, shall be 
+liable to the party injured in an action at law, suit in 
+equity, or other proper proceeding for redress. For 
+the purposes of this section, any Act of Congress 
+applicable exclusively to the District of Columbia 
+shall be considered to be a statute of the District of 
+Columbia. 
+
+
+II. Utah Code Ann. § 78-12-25. Within four years. 
+
+
+Within four years: 
+* * * 
+
+
+(3) An action for relief not otherwise provided 
+for by law. 
+
+
+III]. Utah Code Ann. § 78-12-28. Within two years. 
+Within two years, an action: 
+
+
+(1) against a marshal, sheriff, constable, or other 
+officer upon a liability incurred by the doing of an 
+act 1n his official capacity, and in virtue of his office, 
+or by the omission of an official duty, including the 
+nonpayment of money collected upon an execution; 
+
+
+3 
+
+
+but this section does not apply to an action for an 
+escape; 
+
+(2) for recovery [of] damages for the death of 
+one caused by the wrongful act or neglect of an- 
+other; or 
+
+
+(3) for injury to the personal rights of another 
+as a civil rights suit under 42 U.S.C. 1983. 
+
+
+STATEMENT OF THE CASE 
+
+
+1. Early on the morning of October 15, 1985, a bomb 
+exploded in Salt Lake City, killing Steve Christensen, 
+a former executive of Coordinated Financial Services 
+(“CFS”). Later that morning, a second bomb killed 
+Kathy Sheets, wife of Appellee J. Gary Sheets, chairman 
+of the board of CFS. App. 2a. 
+
+
+The Salt Lake City Police and the Salt Lake County 
+Sheriff immediately began investigating the bomb scenes 
+and the lives of the victims, seeking leads to the bomber. 
+Other local and federal agencies joined the investigation. 
+Several days after the initial explosions, a third bomb 
+exploded in a car owned by Mark’ Hoffman, seriously 
+injuring Mr. Hoffman, a dealer in rare documents and 
+a business acquaintance of Mr. Christensen and Mr. 
+Sheets. The car had been parked on a downtown street 
+a few blocks from Mr. Christensen’s office. The bomb- 
+ings generated broad media attention and public concern, 
+even some fear. 
+
+
+During the investigation of the deaths, Salt Lake City 
+Detectives Jim Bell and Kenneth Farnsworth made a 
+routine request that Mr. Sheets let them take his late 
+wife’s diary. After reading the diary, Mr. Sheets com- 
+plied with the request, having been told by Detective 
+Farnsworth it would remain confidential. App. 2a. The 
+Salt Lake City Police never marked the diary confidential. 
+Detective Bell provided the diary to the Salt Lake County 
+Attorney’s office but never said to keep it confidential. 
+A County employee made three copies (file copy, working 
+copy and defense copy), then returned the original to 
+
+
+4 
+
+
+Detective Bell who made a copy before returning the 
+diary to Mr. Sheets. 
+
+
+Appellant Michael George, one of Salt Lake County’s 
+investigators on the homicides, never was told the diary 
+was promised to be confidential. App. 40a. He read the 
+working copy and may have photocopied excerpts or 
+made handwritten excerpts. 
+
+
+In January 1987, Mr. Hoffman pleaded guilty to the 
+two homicides. He also admitted forging several docu- 
+ments that had generated widespread controversy in Utah. 
+Salt Lake County thus closed its investigation. 
+
+
+Salt Lake County keeps all investigative materials con- 
+fidential during an investigation. After an investigation 
+is closed, County files are archived, making them avail- 
+able for public inspection. App. 3a. Copies of the diary 
+were archived among voluminous other investigative ma- 
+terials. Salt Lake County also permits its investigators 
+to speak to the press after an investigation is closed, so 
+long as all media representatives are accorded equal 
+access. App. 3a. 
+
+
+After the Hoffman plea, Mr. George met with three 
+authors writing books about the bombings. Mr. George 
+did not intentionally make a copy of the diary available to 
+the authors. At most, he allowed one of them, Robert 
+Lindsey, access to a file box that may (although he could 
+not remember) have contained photocopies and his own 
+notes about the diary. App. 3a. 
+
+2. When his book was published in 1988, Mr. Lindsey 
+quoted brief excerpts from Mrs. Sheets’ diary on four 
+separate pages of his book. R. Lindsey, A Gathering of 
+Saints, Simon & Schuster, New York: 1988, 356 pp. 
+(“Gathering”). Mrs. Sheets had written: 
+
+
+Scared and uncertain. ... Will we ever have money 
+again? I’m so scared. I want to escape... . 
+
+
+Gathering at 17 (elipses as published by Lindsey) 
+
+
+Gary layed [sic] the Co. problems out tonight. 
+Very scary and upsetting. Oh, I pray things turn out 
+
+
+ee ee es 
+
+
+ee ee ee ee 
+
+
+5 
+
+
+okay. I am really scared. He always pulls things off; 
+but this is scary. 
+
+
+Gathering at 146 
+I hate being so fat! 
+
+
+. . . Gary feeling low again, . . . I worry about 
+him. .. . Gary in much better mood—nothing new 
+in business—he’s just more up. Hurrah!!! .. . Gary 
+
+
+depressed again. 
+
+
+. . . Tended all kids tonight. They are so darling 
+—but a hand full. Slept in. It was nice. Gary and 
+I had a good talk. Wish we were more companion- 
+able—did more together. I feel left alone a lot. 
+
+
+Gathing at 156 (Lindsey's words omitted). 
+
+
+I get sick of church,.... Feel a little better,.... 
+Gary says we will do all we can. How can this 
+happen to such nice men? Very depressing. 
+
+
+. . . Gary and I went to a movie. It was fun. He 
+is feeling up and confident. Hope it continues. I 
+really love him and I know he will take care of me. 
+I worked hard today on laundry, etc. . . 
+
+
+My friends had a surprise 50 yrs. birthday party 
+for me. It was hilarious. They all dressed up like 
+old ladies. Jan Forsgren wore knee length garments, 
+had them hanging. ... Great fun. ... Lazy day 
+. . . | am very down. House is a mess. I am fat. 
+Business is bad. I am depressed. 
+
+
+Gathering at 180 (Lindsey's words omitted; emphasis 
+by Lindsey). 
+
+
+3. On July 31, 1989, Mr. Sheets filed suit against 
+Mr. Lindsey and his publisher because of the publication 
+of the excerpts. App. 16a. On December 4, 1990, Mr. 
+Sheets amended his complaint to add a claim under 42 
+U.S.C. § 1983 against Salt Lake County. Mr. George 
+and the then County Attorney. App. 3a-4a, 16a. Mr. 
+Sheets claimed he had a reasonable expectation his wife’s 
+writings would remain confidential and that publication 
+
+
+6 
+
+
+of the excerpts embarrassed him, violating his constitu- 
+tional right of privacy and taking his property. 
+
+
+The County defendants moved to dismiss on statute of 
+limitations grounds because Mr. Sheets had failed to 
+assert his purported Section 1983 claim within the two- 
+year period allowed by Utah law. Utah Code Ann. § 78- 
+12-28(3). The district court denied the motion, finding 
+Utah’s specific statute of limitations governing Section 
+1983 claims was “neither consistent with, nor analogous 
+to, federal law and policy.” App. 22a. The district court 
+opined Utah’s residual four-year statute of limitations, 
+Utah Code Ann. § 78-12-25(3), was “the most analo- 
+gous statute of limitations with respect to § 1983.” App. 
+23a; see 42 U.S.C. § 1988. Accordingly, the district 
+court ruled the claim timely and allowed the Section 
+1983 claim to be tried to the jury. 
+
+
+After the close of Mr. Sheets’ case and again after 
+trial, the County and Mr. George moved for judgment 
+as a matter of law under Fed. R. Civ. P. 50(1), arguing 
+that publication of the excerpts did not rise to a violation 
+of constitutional privacy. The district court dismissed the 
+claim against the County Attorney but denied the rest 
+of the motions, and concluded that under applicable Tenth 
+Circuit law, Mr. Sheets had a constitutional privacy right 
+if he had any reasonable expectation of confidentiality in 
+the material. App. 39a-40a; see also App. 27a-40a. 
+
+
+Although Mr. Sheets could testify only to his personal 
+expectations of privacy, the jury returned a verdict of 
+$650,000 against Salt Lake County and Mr. George. 
+App. 4a. The District Court denied post-trial motions 
+for judgment as a matter of law, for a new trial and for 
+remittitur, then awarded an attorney’s fee of $77,896.93 
+against Salt Lake County and Mr. George under 42 
+U.S.C. § 1988(b). App. 25a-26a. 
+
+
+The Tenth Circuit affirmed, following its earlier hold- 
+ing that, in enacting U.C.A. § 78-12-28(3), “the Utah 
+legislature exceeded its authority,” thus finding Utah’s 
+
+
+7 
+
+
+specific two-year limitation on Section 1983 claims “in- 
+valid.” App. 4a, see Arnold v. Duchesne County, 26 
+F.3d 982 (10th Cir. 1994), cert. denied, US. 
+, 115 S.Ct. 721 (1995). Like the district court, 
+the Tenth Circuit determined that Utah’s residual four- 
+year statute of limitations, Utah Code Ann. § 78-12-25 
+(3), applied. App. 5a. 
+
+
+The Tenth Circuit next found a constitutionally-rooted 
+claim for privacy arises whenever an individual “claims 
+an interest in avoiding disclosure of things personal to 
+him,” App. 6a, explaining that “Mrs. Sheets’ diary en- 
+tries about her husband and their marital relationship 
+are certainly as personal as medical and certain financial 
+records, which courts have placed within the ambit of con- 
+stitutional protection.” App. 7a-8a, citations omitted. 
+Unless the County could show a “compelling state inter- 
+est” in disclosing the information, a compensable Section 
+1983 claim exists. App. 6a, 8a. The court found no 
+such County interest. App. 8a. 
+
+
+5. Salt Lake County and Mr. George received an 
+extension of time to file their petition for certiorari to 
+and including June 9, 1995, by order of Honorable 
+Stephen Breyer dated March 22, 1995. 
+
+
+8 
+
+
+REASONS FOR GRANTING THE PETITION 
+
+
+I. THE DECISIONS OF THE COURTS OF APPEALS 
+ARE IN DIRECT CONFLICT AS TO THE APPLIC- 
+ABLE STANDARDS IN THE RECOGNITION AND 
+ANALYSIS OF FEDERAL CONSTITUTIONAL PRI- 
+VACY RIGHTS. 
+
+
+Although apparently recognizing that some expectation 
+of confidentiality might be so weighty as to invoke con- 
+stitutional protection, this Court has never given con- 
+stitutional protection to any claim of privacy under Sec- 
+tion 1983 for disclosure of allegedly confidential informa- 
+tion. 
+
+
+Eighteen years ago, in a trilogy of cases decided in 
+the 1975 and 1976 Terms, the Court provided scant 
+analysis to determine when, if ever, an individual’s claim 
+to a general expectation of confidentiality may rise to a 
+level of constitutional protection under a right of privacy. 
+Nixon v. Administrator of General Services, 433 US. 
+425, 465 (1977); Whalen v. Roe, 429 U.S. 589 at 602- 
+03 (1977); Paul v. Davis, 424 U.S. 693, 712-14 
+(1976).' In Whalen, this Court stated: 
+
+
+The cases sometimes characterized as protecting “pri- 
+vacy” have in fact involved at least two different 
+kinds of interests. One is the individual interest in 
+avoiding disclosure of personal matters, and another 
+is the interest in independence in making certain 
+kinds of important decisions. 429 U.S. at 599-600, 
+footnotes omitted. 
+
+
+Those three cases are significant in constitutional his- 
+tory because they discussed a branch of the privacy right 
+
+
+1In Nixon, this Court held the Presidential Recordings and 
+Materials Preservation Act did not impermissibly infringe the 
+former President’s privacy interests. 433 U.S. at 455-65. In 
+Whalen, this Court found that a New York program identifying 
+and categorizing patients who received Schedule II drugs did not, 
+on its face, violate constitutional privacy rights. 429 U.S. at 603. 
+In Paul, this Court found an “Active Shoplifters” flier distributed 
+by local police chiefs in Kentucky did not violate plaintiff’s proce- 
+dural due process rights. 424 U.S. at 713-14. 
+
+
+Be abt) ott that A Naa ae 
+
+
+yo Re EES NARS yn BARRE ENO 
+
+
+ie atta 87s is De 
+
+
+Ath Lae 
+
+
+9 
+
+
+not since refined by this Court: an individual’s purported 
+constitutional right to protect confidential information 
+against disclosure to, or dissemination by, a governmen- 
+tal agency.” The Court did not decide what factors must 
+be present to support a constitutional claim for breach 
+of confidentiality. Indeed, the Whalen Court left the 
+issue open for future consideration, concluding: 
+
+
+We therefore need not, and do not, decide any ques- 
+tion which might be presented by the unwarranted 
+disclosure of accumulated private data—whether in- 
+tentional or unintentional .... 429 U.S. at 605-06.* 
+
+
+The difficult and complicated issues left open by the 
+Whalen Court have moved through the courts of appeals 
+for almost two decades—with a predictable result. The 
+only real agreement among the Circuits is that “the 
+contours of the confidentiality branch” of privacy are 
+“murky.” * The Circuits are in direct and acknowledged 
+
+
+2 Although only Paul was a Section 1983 case, the three cases 
+are the seminal cases considering a constitutional right of privacy 
+in confidential information, a right that may give rise to Section 
+1983 claims as well as other confidentiality issues with possible 
+constitutional dimension. 
+
+
+3In attempting to determine why the Whalen Court left open 
+the question when, if ever, an individual’s expectation of confiden- 
+tiality rises to the level of a protectable constitutional right, one 
+need look no further than the concurring opinions in Whalen itself. 
+Two respected members of the Court disagreed squarely on the 
+confidentiality claim and whether, on the facts of the case, such a 
+claim could ever lead to a cognizable constitutional claim. Compare 
+e.g., Whalen, 429 U.S. at 606 (Brennan, J., concurring) (broad 
+dissemination of the collected data by state officials would clearly 
+implicate protected privacy rights), with 429 U.S. at 608-09 
+(Stewart, J., concurring) (broad dissemination of collected data 
+would not clearly implicate protected privacy rights), emphasis 
+added. 
+
+
+4 See Scheetz v. The Morning Call Inc., 946 F.2d 202, 206 (3rd 
+Cir. 1991), cert. denied, 502 U.S. 1095 (1992) (“Although cases 
+exploring the autonomy branch of the right of privacy are legion, 
+the contours of the confidentiality branch are murky.”) 
+
+
+10 
+
+
+conflict over both the legal standard for determining 
+whether a constitutional right to confidentiality exists in 
+given circumstances, and, if it does, what standards gov- 
+ern how the right should be treated in the face of com- 
+peting governmental interests favoring disclosure.* Perhaps 
+in no other area of constitutional law have so many 
+courts of appeals gone on record in describing an area 
+as unsettled and requesting, expressly or implicitly, direc- 
+tion from this Court about evaluating claims of privacy.° 
+
+
+5 See discussion at pp. 14-18, infra. 
+
+
+6 First Circuit: Borucki v. Ryan, 827 F.2d 836, 841 (ist Cir. 
+1987) (“Whalen provides little guidance regarding the nature of 
+the confidentiality branch of the right of privacy”); see also 
+Frazier v. Bailey, 957 F.2d 920, 931 (1st Cir. 1992), (constitutional 
+right to “familial privacy” has inexact dimensions) ; SECOND 
+Circuit: Igneri v. Moore, 898 F.2d 870, 873 (2d Cir. 1990) (right 
+of privacy “difficult to articulate precisely) ; Barry v. City of New 
+York, 712 F.2d 1554, 1558 (2d Cir. 1984), cert. denied, 464 U.S. 1017 
+(1983) (“exact nature and scope of the right to privacy has never 
+been fully defined”) ; but see Doe v. City of New York, 15 F.3d 264, 
+267 (2d Cir. 1994) (constitutional right of privacy for individual’s 
+HIV status is an extension of “a recognized constitutional right 
+to privacy in personal information”) ; THIRD CIRCUIT: Scheetz v. 
+The Morning Call, Inc., 946 F.2d 202, 206 (3d Cir. 1991) (contours 
+“murky”) (as quoted in text); FOURTH CIRCUIT: Hodge v. Jones, 
+31 F.3d 157, 164 (4th Cir. 1994), cert. denied, —— U.S. , 115 
+S.Ct. 518 (1994) (“There is little, if any, clear guidance in the 
+relevant caselaw that would permit us to chart with certainty the 
+amorphous boundaries between the Scylla of familial privacy and 
+the Charybdis of legitimate governmental interests”); FIFTH 
+Circuit: National Treasury Emp. Union v. Dept. of Treasury, 25 
+F.3d 237, 242 (5th Cir. 1994) (constitutional right to privacy 
+“remains largely undefined’); Plante v. Gonzalez, 575 F.2d 1119, 
+1127 (5th Cir. 1978), cert. denied, 439 U.S. 1129 (1979) (“Yet, the 
+concept of a constitutional right of privacy stil] remains largely 
+undefined” [brackets and quotation omitted]); StxTH CIRCUIT: 
+Henry v. Metropolitan Sewer Dist., 922 F.2d 332, 340 (6th Cir. 
+1990) (“The proscription of disclosure encompassed by the right 
+to privacy remains, to this day, relatively amorphous”) ; SEVENTH 
+Circuit: Shields v. Burge, 874 F.2d 1201, 1210 (7th Cir. 1989) 
+-(“The Supreme Court has never fully defined the privacy right’s 
+exact nature and scope”); NINTH CIRCUIT: Davis v. Bucher, 853 
+
+
+AeA CRP RRS WEISEL T SIE seid WEEE ION 
+
+
+11 
+
+
+The questions resonating throughout the Circuits are 
+well exemplified by the District of Columbia Circuit’s re- 
+cent decision in National Federation of Federal Employ- 
+ees v. Greenberg, 983 F.2d 286 (D.C. Cir. 1993). Af- 
+ter reviewing Whalen and analyzing the purported right 
+to confidentiality, the court expressed in no uncertain 
+terms the deficiency in the guidelines and standards ap- 
+plicable to this area of constitutional law: 
+
+
+When we return to Whalen and look behind the Su- 
+preme Court’s general remark[s], . . . we find am- 
+biguity. What “individual interests” receive protec- 
+tion from disclosure? Plaintiffs suggest the interest 
+in avoiding humiliation or embarrassment entailed 
+in the disclosure of personal information. What “per- 
+sonal information” and disclosure to whom? To the 
+government as employer or to the world? However 
+one defines the scope of the protection, what are the 
+provisions in the Constitution that are said to confer 
+
+
+it? . . . And what of the government’s interests in 
+carrying out its constitutional responsibilities? Jd. at 
+293. 
+
+
+This case presents an excellent opportunity for this 
+Court to map the “uncharted terrain” of a purported 
+right to confidentiality. Greenberg, 983 F.2d at 293. 
+As shown by Sheets (App. la-14a), the Tenth Circuit 
+permits a jury to find a constitutional right based almost 
+entirely on subjective testimony from a plaintiff: if a 
+court is willing to let a jury define a constitutional right 
+with little to guide it but a plaintiff’s personal expecta- 
+
+
+F.2d 718, 719 (9th Cir. 1988) (“Though often noted, this interest 
+has been infrequently examined; as a result its contours remain 
+less than clear”) ; ELEVENTH CIRCUIT: James v. City of Douglas, 
+941 F.2d 1539, 1543 (11th Cir. 1991) (“the constitutional right to 
+privacy has vague contours and has been in a state of flux in 
+recent years”); D.C. CirRcuIT: National Fed’n of Fed. Employees 
+v. Greenberg, 983 F.2d 286, 298 (D.C. Cir. 1993) (quoted in text). 
+The Eighth and Tenth Circuits are the only Circuits either not 
+troubled by the contours of a right to privacy or the only Circuits 
+that have chosen not to comment. 
+
+
+12 
+
+
+tion, the contours will surely remain murky and un- 
+predictable. 
+
+
+Addressing these issues will resolve at least two direct 
+conflicts among the Circuits: how to define a constitu- 
+tionally protected right to confidentiality and, once pres- 
+ent, how to treat the privacy right against competing 
+governmental interests affecting disclosures. The Green- 
+berg questions apply to this case. Certiorari is merited. 
+
+
+A. A Direct Conflict Exists Between the Tenth Cir- 
+cuit’s Recognition of a Constitutional Confidenti- 
+ality Right in This Case and Decisions of Other 
+Circuit Courts Refusing to Recognize or Limiting 
+Such a Right. 
+
+
+This Court commented that former President Nixon 
+had a “legitimate expectation” to prevent disclosure of 
+purely personal documents. Nixon, supra, at 458. Some 
+circuits have since made the Nixon phrase “legitimate 
+expectation” of privacy into a subjective, unstructured 
+“reasonable expectation of privacy” with varied applica- 
+tion and content. See, e.g., App. 6a, 7a (“legitimate” 
+apparently interchangeable with “reasonable.”) In cir- 
+cumstances wholly unlike those in Nixon, courts of ap- 
+peals treat the revamped phrase as a constitutional test 
+for privacy, making plaintiffs’ assertions of their own 
+personal expectations of privacy equivalent to a constitu- 
+tional right. In some courts, the right is becoming entirely 
+subjective, lacking in objective definition or limitation. 
+
+
+At the extreme, the Tenth Circuit has recognized, for 
+example, a constitutional right of freedom from embar- 
+rassment arising from another person’s seemingly in- 
+nocuous writings.” Sheets, App. 7a. Compare Mangels v. 
+
+
+7 The Tenth Circuit did consider common law tort for guidance. 
+App. 7a. This Court refuses to interpret constitutional provisions 
+to impose federal duties analogous to those traditionally imposed 
+by state tort law. Collins v. City of Harker Heights, 503 U.S. 
+115, 127 (1992) (Due Process clause “does not purport to supplant 
+traditional tort law in laying down rules of conduct to regulate 
+liability for injuries that attend living together in society ... we 
+
+
+hen Rae we Meelis 
+
+
+COL BN CLR SDE LEA AG ELON GE I dee be ced eso 
+
+
+DE LAER BS Sty ENO SITS MEMS DUR I EAN BAA AN 8 NAR te PN LCN cnn pn alta 
+
+
+4 tabi SEsearicins kx’ Aubbots 
+
+
+13 
+Pena, 789 F.2d 836, 839 (10th Cir. 1986) (“due proc- 
+ess . . . implies an assurance of confidentiality with 
+
+
+respect to certain forms [but what forms?] of personal 
+information possessed by the state”), emphasis added. 
+In the Tenth Circuit, jurors are free to award damages 
+to anyone claiming to have a personal expectation that 
+some information is confidential. App. 6a. Compare 
+Ramie v. City of Hedwig Village, 765 F.2d 490, 492 
+(Sth Cir. 1985), cert. denied, 474 U.S. 1062 (1986), for 
+example: the court was objective, finding disclosure of 
+plaintiff's gender and religion to be only a “slight” in- 
+trusion into privacy, not worthy of constitutional pro- 
+tection. 
+
+
+THE CONFLICTS. The most explicit conflicts with the 
+Tenth Circuit’s subjective standard for constitutional pri- 
+vacy protection are in the Sixth and Eighth Circuits. The 
+Sixth Circuit bluntly concludes “the Constitution does not 
+encompass a general right to nondisclosure of private 
+information.” Doe v. Wigginton. 21 F.3d 733, 740 
+(6th Cir. 1994), citing J.P. v. DeSanti, 653 F.2d 1080, 
+1090 (6th Cir. 1981). 
+
+
+The Eighth Circuit puts the burden on a plaintiff 
+claiming constitutional violation to show the egregious 
+nature of a disclosure before it considers finding a con- 
+stitutional dimension to the claim of privacy. Alexander 
+v. Peffer, 993 F.2d 1348, 1350 (8th Cir. 1993). 
+
+
+In the Sixth and Eighth Circuits (and probably in the 
+Fifth Circuit as well), Mr. Sheets would have had no 
+
+
+have previously rejected claims that the Due Process Clause should 
+be interpreted to impose federal duties that are analogous to those 
+traditionally imposed by state tort law . . .”), citations omitted. 
+While disclaiming that the Restatement (2d) of Torts defines the 
+implied constitutional right of privacy (App. 7a), the Tenth Cir- 
+cuit nonetheless seems to extend constitutional protection to an 
+alleged breach of privacy that the treatise would not recognize in 
+common law tort. Here, the Tenth Circuit has permitted loose, 
+subjective proof of an individual’s expectation to lead its analysis 
+of constitutionally protected rights far away from the teachings 
+of this Court. 
+
+
+14 
+
+
+constitutionally protected privacy right in the information 
+disclosed. Trial courts in the Sixth and Eighth Circuits 
+would have dismissed his Section 1983 claims on a Rule 
+12b(6) motion. 
+
+
+When courts of appeals routinely refer to a constitu- 
+tional right of confidentiality as “unsettled” or “unde- 
+fined” and when they then impose conflicting standards 
+to map uncharted rights, this Court needs to grant cer- 
+tiorari to resolve the conflicts. 
+
+
+B. Even if a Constitutional Confidentiality Right Has 
+Been Recognized, the Circuits Are in Deep Conflict 
+About the Way to Treat the Right in the Face of 
+Competing Governmental Interests. 
+
+
+In Nixon, supra, 433 U.S. 425, 456-57, the majority 
+agreed with the lower court’s finding of a reasonable 
+balance between the government’s overriding interest in 
+preserving Presidential materials and segregating purely 
+personal documents. However, this Court did not explain 
+how to treat future claims of privacy interests and gov- 
+ernment interests. 
+
+
+The First Circuit has commented that although “bal- 
+ancing of competing interests” might be required when 
+interests in personal privacy and governmental need are 
+at issue, the cases “provide little guidance as to how such 
+interests would be balanced.” Borucki v. Ryan, 827 F.2d 
+836, 849 (Ist Cir. 1987). See Pesce v. J. Sterling Mor- 
+ton High Sch. Dist. 201, 830 F.2d 789, 797 (7th Cir. 
+1987) (constitutional right to confidentiality does not 
+protect against any and every compelled disclosure; stand- 
+ard of review governing claim of abridgment of right to 
+confidentiality may not be settled). 
+
+
+Because the Sixth Circuit focuses primarily on the 
+limited extent of a right of privacy, it avoids balanc- 
+ing government action against claimed rights of privacy. 
+J.P. v. DeSanti, 653 F.2d 1080, 1091 (6th Cir. 1981). 
+The Sixth Circuit may stand alone in its perception of 
+privacy rights and governmental! disclosure. 
+
+
+15 
+
+
+In the absence of standards from this Court, some Cir- 
+cuits have ventured upon the “delicate task of weighing 
+competing interests,” United States v. Westinghouse Elec. 
+Corp., 638 F.2d 570, 578 (3d Cir. 1980), adopting 
+sharply different, conflicting standards to apply once a 
+particular claim to a right of privacy has been acknowl- 
+edged. With the many conflicts between Circuits and 
+even uncertainties within a Circuit, orderly classification 
+of all Circuit tests is virtually impossible. Nonetheless, 
+cases can be partially grouped into what may be useful 
+and illustrative categories. 
+
+
+BURDEN ON PLAINTIFF. The Eighth Circuit clearly 
+stands alone in its balancing test. It recently put the 
+burden on plaintiff to show that a disclosure would be 
+“shocking” or “egregious” enough to defeat a specific 
+State interest: “to violate [Plaintiff]’s constitutional right 
+of privacy the information disclosed must be either a 
+shocking degradation or an egregious humiliation of her 
+to further some specific state interest, or a flagrant 
+bre[a]ch of a pledge of confidentiality which was instru- 
+mental in obtaining the personal information.” Alexander 
+v. Peffer, 993 F.2d 1348, 1350 (8th Cir. 1993), em- 
+phasis added. The Eighth Circuit’s objective test is 
+diametrically opposite to the Tenth Circuit in Sheets. 
+
+
+“COMPELLING” STATE INTEREST. The Tenth Circuit 
+imposes a burden on government to demonstrate a “com- 
+pelling” interest in disclosing information. Denver Police- 
+men’s Protective Assoc. vy. Lichtenstein, 660 F.2d 432, 
+435 (10th Cir. 1981): see also Nilson v. Layton City, 
+45 F.3d 369, 371 (10th Cir. 1995). 
+
+
+Only the Ninth Circuit might agree with the result in 
+this case because the Ninth Circuit has also applied a 
+“compelling state interest” test to determine what dis- 
+closures of confidential information can be permitted. 
+Grummett v. Rushen, 779 F.2d 491, 494 (9th Cir. 
+1985) (compelling state interest in prison security de- 
+
+
+16 
+
+
+feats male prisoners’ challenge to female guards viewing 
+them nude). 
+
+
+“SUBSTANTIAL” AND “STRONG” STATE INTERESTS. The 
+Second and Third Circuits reject the “compelling” stand- 
+ard appied by the Ninth and Tenth Circuits but look for 
+“substantial” or “strong” state interests. 
+
+
+The Second Circuit applies an intermediate scrutiny or 
+balancing analysis in reviewing confidentiality claims. 
+Doe v. City of New York, 15 F.3d 264, 269 (2d Cir. 
+1994) (City must show “substantial” interest in dissemi- 
+nating HIV information; “some form of balancing ap- 
+proach [is the] appropriate . . . standard of review’); 
+Bertoldi v. Wachtler, 952 F.2d 656 (2d Cir. 1991); 
+Igneri v. Moore, 898 F.2d 870, 873 (2d Cir. 1990); 
+Eisenbud v. Suffolk County, 841 F.2d 42 (2d Cir. 1988); 
+Barry v. City of New York, 712 F.2d 1554 (2d Cir.), 
+cert. denied, 464 U.S. 1017 (1983); but see Schacter v. 
+Whalen, F.2d 35, 37 (2d Cir. 1978) (“crucial” public 
+interest in obtaining information about alleged miscon- 
+duct by licensed physician recognized without examining 
+whether physician had any expectation of privacy). 
+
+
+The Third Circuit found a “strong public interest” 
+when balancing a city’s right to elicit information from 
+police officers being considered for special investigative 
+units. Fraternal Order of Police Lodge 5 v. Philadelphia, 
+812 F.2d 105, 116, 117 (3d Cir. 1987) “[T]he strong 
+public interest in avoiding corruption among officers . . . 
+outweighs police officers’ limited privacy expectations” re- 
+garding personal finances, information, conduct and arrest 
+records. (Emphasis added. ) 
+
+
+“LEGITIMATE” STATE INTEREST. The Fourth, Fifth 
+and Eleventh Circuits consider whether the state has a 
+“legitimate” interest to test when the state may disclose 
+personal information. 
+
+
+The Fourth Circuit recently permitted a “legitimate 
+State interest” in preventing child abuse to supersede 
+
+
+th nA Sh RNS ok ome COREA tems 
+
+
+17 
+
+
+family members’ interest in expunging their names from 
+the state registry of child abuse investigations even when 
+no evidence of abuse by the family had been uncovered. 
+Hodge v. Jones, 31 F.3d 157, 164, 167 (4th Cir. 1994), 
+cert. denied, USS. , 115 S.Ct. 518 (1994). 
+
+
+The Fifth Circuit generally considers “legitimate” 
+State interest. See Cinel v. Connick, 15 F.3d 1338 
+(Sth Cir.), cert. denied, 115 S.Ct. 189 ( 1994) (discuss- 
+ing Fadjo v. Coon, 633 F.2d 1172, 1176 (Sth Cir. 
+1981), and commenting privacy not violated “if a 
+legitimate state interest outweighs the plaintiff’s privacy 
+interest”). The Fifth Circuit rejected a compelling state 
+interest test then adopted a balancing standard with 
+“something approaching equal protection ‘strict scrutiny’ 
+analysis . . .” after considering “important [state] inter- 
+ests,” in requiring state senate candidates to disclose their 
+financial interests. Plante v. Gonzalez, 575 F.2d 1119, 
+1134 (Sth Cir. 1978), cert. denied, 439 U.S. 1129 
+(1979). The disclosure requirements “severely limited” 
+candidates’ and elected senators’ privacy. See also, 
+Woodland v. City of Houston, 490 F.2d 134 (Sth Cir. 
+1991); Duplantier v. United States, 606 F.2d 654, 670 
+(Sth Cir. 1979), cert. denied, 449 U.S. 1076 (1981). 
+
+
+The Eleventh Circuit has held that a state official may 
+not disclose intimate personal information obtained under 
+pledge of confidentiality absent a government showing 
+that the “legitimate” interests of the state outweigh a 
+threat to an individual privacy interest. James v. City 
+of Douglas, 941 F.2d 1539, 1544 (11th Cir. 1991). 
+
+
+FLEXIBLE STANDARD. The D.C. Circuit once advo- 
+cated a “flexible” standard to assess disclosure of con- 
+fidential information. Tavoulareas y. Washington Post 
+Co., 724 F.2d 1010 (1984). If the intrusion were 
+“severe,” the state would have to demonstrate a “com- 
+pelling” interest to justify intrusion. Jd. at 1023 (citing 
+Whalen, supra, 429 U.S. at 606, 97 S.Ct. at 880 
+(Brennan, J. concurring)). The Tavoulareas decision 
+
+
+18 
+
+
+was subsequently vacated and remanded for reconsidera- 
+tion. Tavoulareas v. Washintgon Post Co., 737 F.2d 
+1170 (D.C.Cir. 1984) (en banc). The D.C. Circuit has 
+not established a new test. See, e.g., Greenberg, supra, 
+983 F.2d at 293 (“Tavoulareas has no precedential 
+value. .. . Much to our relief, this case does not require 
+any extended survey of this uncharted terrain.” ) 
+
+
+THE LAw AMONG THE CIRCUITS. These cases show 
+the absence of a consistent, analytic framework for de- 
+termining when government may disclose private infor- 
+mation. Because the issue remains open, the Tenth 
+Circuit has stretched the scope of privacy, virtually 
+obliterating any objectivity in determining what kinds of 
+information should be given constitutional protection 
+against disclosure. The Tenth Circuit transformed Mr. 
+Sheets’ expectation into a constitutionally protected right 
+not to be embarrassed. 
+
+
+The Sheets case sharply focuses the open issues from 
+the Whalen trilogy; now is the ideal and compelling time 
+to return to the confidentiality branch of the right of 
+privacy to resolve almost two decades of uncharted and 
+unguided conflicts among the courts of appeals over the 
+scope of confidentiality and how to evaluate competing 
+private and public interests in the disclosure of material 
+that has been found to be confidential. 
+
+
+II. CONFLICTS AMONG THE COURTS OF APPEALS 
+ABOUT STATE POWERS TO ADOPT STATUTES 
+OF LIMITATION FOR SECTION 1983 CLAIMS CRE- 
+ATE ANOMALOUS RESULTS. 
+
+
+The Tenth Circuit’s decision to invalidate Utah’s two- 
+year statute of limitations for Section 1983 claims directly 
+conflicts with decisions rendered by other Circuits that 
+permit the states to adopt statutes specifically addressing 
+Section 1983. Nored v. Blehm, 743 F.2d 1386, 1387 
+(9th Cir. 1984); see also Burnett v. Grattan, 468 U.S. 
+
+
+Pare y es ee ey ere 
+ee eee Mae SOLS ee ee eee Te Hoot 
+
+
+-_ 
+
+
+19 
+
+
+42, 53 n.15 (1984).* The Tenth Circuit has acknowl- 
+edged the conflict. Arnold vy. Duchesne County, 26 F.3d 
+982, 987 (10th Cir. 1994), cert. denied, U.S. ——, 
+115 S.Ct. 721 (1995). 
+
+
+The Tenth Circuit reached its conclusion after review- 
+ing this Court’s decisions in Owens v. Okure, 488 U.S. 235 
+(1988); Wilson v. Garcia, 471 US. 26] (1985), and 
+other decisions about borrowing from state limitations 
+statutes. The Tenth Circuit concluded that Wilson did 
+not eliminate confusion about the appropriate limitations 
+period for Section 1983 cases, but Owens would implicitly 
+endorse using Utah’s residual ( four-year) limitations 
+Statute. /d. at 984-85, 989. 
+
+
+The conflict about state enactments arises because the 
+Tenth Circuit did not find Utah’s two-year limitations 
+statute (Utah Code Ann. § 78-12-28(3)) to be analo- 
+gous to the federal right. The Tenth Circuit found the 
+residual limitation in Utah Code Ann. § 78-12-25(3) 
+more analogous to Section 1983 claims and their scope. 
+See Arnold, supra, 26 F.3d 982. The Tenth Circuit con- 
+cluded the Utah legislature exceeded its power by specify- 
+ing Section 1983 in its limitations statute, even though 
+the state statute imposes the identical two-year limitation 
+period on other claims against state and local Officials. 
+App. 4a, Utah Code Ann. § 78-12-28 (two-year period 
+applies to claims against state and local officials in their 
+actions against individuals ( subpart 1) as well as for 
+
+
+claims under Section 1983 against state and local Officials 
+(subpart (3) ).° 
+
+
+Other Circuits, by contrast, have approved other states’ 
+limitations statutes applying two-year periods to Section 
+
+
+* Oregon subsequently revised its limitations statutes, and other 
+
+
+states have repealed or amended limitations statutes specifically 
+citing Section 1983. 
+
+
+* The section also imposes a two-year limit on wrongful death 
+claims (subpart 2) ). 
+
+
+20 
+
+
+1983 claims when those statutes are residual, not statute- 
+specific provisions. Dueks v. Smitherman, 32 F.3d 535, 
+537 (11th Cir. 1994) (Alabama’s two-year statute of 
+limitations governs 1983 actions); Gartrell v. Gaylor, 
+981 F.2d 254, 256-57 (Sth Cir. 1993) (Section 1983 
+claims in Texas must be brought within two years); 
+Callwood v. Questel, 883 F.2d 272 (3d Cir. 1989) 
+(Section 1983 analsyis used to apply Virgin Island’s two- 
+year limitation to injury to personal rights); Jackson v. 
+Nicoletti, 875 F. Supp. 1107, 1108-09 (E.D.Pa. 1994) 
+(citing Bougher v. University of Pittsburgh, 882 F.2d 
+74, 78 [3d Cir. 1989], court applied Pennsylvania two- 
+year limitations statute to Section 1983 claims).”° 
+
+
+Some Circuits have upheld an even shorter residual 
+period of limitations (when it is residual) as applicable 
+to Section 1983 claims. Ford v. Hill, 874 F. Supp. 149, 
+151 (E.D. Ky. 1995) (Kentucky’s one-year tort limita- 
+tion governs Section 1983 claims); see also Muniz- 
+Cabreror v. Ruiz, 23 F.3d 607, 610 (1st Cir. 1994) 
+
+
+10In addition to those states discussed in the text, the following 
+states have two-year residual statutes of limitation: Alaska: Code 
+Section 09.10.070; Arizona: Dunlap v. City of Phoenix, 817 P.2d 
+8, 13 (Az. App. 1990); Colorado; Blake v. Dickason, 997 F.2d 749 
+(10th Cir. 1993); Delaware: Pagano v. Hadley, 553 F.Supp. 171 
+(D.Del. 1982); Georgia: Day v. Brown, 427 S.E.2d 104, 105 (Ga. 
+App. 1993); Hawaii: Pele Defense Fund v. Paty, 837 P.2d 1247 
+(Hi. 1992), cert. denied, U.S. , 118 S.Ct. 1227 (1998) ; 
+Idaho: Mason v. Tucker & Associates, 871 P.2d 846, 853 (Idaho 
+App. 1994); Illinois: Palmer v. Bd. of Educ. Comm. Unit. School 
+Dist., 46 F.3d 682 (7th Cir. 1995); Indiana: Loy v. Clamme, 804 
+F.2d 405 (7th Cir. 1986) ; Iowa: Dautremont v. Broadlawns Hosp., 
+827 F.2d 291 (8th Cir. 1987); New Jersey: Cito v. Bridgewater, 
+892 F.2d 23, 25 (3rd Cir. 1989); Nevada: Perez v. Seevers, 869 
+F.2d 425 (9th Cir.), cert. denied, 493 U.S. 860 (1989); Ohio: 
+Francis v. Cleveland, 605 N.E.2d 966 (Ohio App. 1992) ; Oklahoma: 
+Meade v. Grubbs, 841 F.2d 1512 (10th Cir. 1988); Virginia (for- 
+merly had one-year limitation) : Eldridge v. Bouchard, 620 F.Supp. 
+678, 682-83 (W.D.Va. 1985) ; West Virginia: McCausland v. Mason 
+City Bd. of Educ., 649 F.2d 278 (4th Cir.), cert. denied, 454 U.S. 
+1098 (1981). 
+
+
+ee ae " 
+
+
+tee OE ee ee mee ey 
+
+
+i i i 
+
+
+21 
+
+
+(Circuit recognized Puerto Rico has a one-year limitation 
+period applicable to Section 1983 claims) .” 
+
+
+By holding Utah’s four-year residual limitations statute 
+is analogous to Section 1983, the Tenth Circuit has cre- 
+ated an anomaly. No logic justifies the holding that 
+Utah’s specific two-year statute derogates a Section 1983 
+claim and exceeds state power when many states have 
+two-year residual limitations periods that apply to Section 
+1983. The Tenth Circuit itself has approved two-year 
+limitations to Section 1983 claims for the simple reason 
+the two-year period was residual. The difference between 
+“residual” and “specific” vanishes, even in the Tenth 
+Circuit. Blake v. Dickason, 997 F.2d 749 (10th Cir. 
+1993) (Colorado); Meade v. Grubbs, 841 F.2d 1512 
+(10th Cir. 1988) (Oklahoma). 
+
+
+The anomalous conflict is a real, but unnecessary, in- 
+trusion into the states’ internal management and into 
+their power. This Court can easily end the conflict by 
+granting certiorari to review this issue. 
+
+
+‘! Besides those states or territories noted in the text, the follow- 
+ing have one-year residual limitation periods: California: Ponderosa 
+Homes, Inc. v. City of San Ramon, 29 Cal.Rptr. 2d 26, 31 (Cal. App. 
+1 Dist. 1994); Louisiana: Detro v. Roemer, 739 F.Supp. 303 
+(E.D.La. 1990), affirmed, 932 F.2d 966 (5th Cir. 1991) ; cert. denied 
+by 502 U.S. 910 (1991); Tennessee: Holmes v. Donovan, 984 F.2d 
+732, 738 (8th Cir. 1993). 
+
+
+22 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, Appellants Salt Lake County 
+and Michael George respectfully request this Court to 
+grant their petition for a writ of certiorari to review the 
+decision of the United States Court of Appeals for the 
+Tenth Circuit. 
+
+Respectfully submitted, 
+
+
+MARY KARLYNN HINMAN 
+(Counsel of Record) 
+
+VON G. KEETCH 
+
+KIRTON & MCCONKIE 
+
+1800 Eagle Gate Tower 
+
+60 East South Temple 
+
+Salt Lake City, Utah 84111-1004 
+
+(801) 328-3600 
+
+
+DOUGLAS R. SHORT 
+
+Salt Lake County Attorney 
+PATRICIA MARLOWE 
+
+Deputy County Attorney 
+2001 South State Street 
+Suite 3400 
+Salt Lake City, Utah 84190-1200 
+(801) 468-3300 
+
+

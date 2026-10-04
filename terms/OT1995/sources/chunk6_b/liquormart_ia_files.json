@@ -1,0 +1,1055 @@
+{
+  "identifier": "micro_IA40385013_0576",
+  "files": [
+    {
+      "name": "__ia_thumb.jpg",
+      "size": "7460",
+      "format": "Item Tile"
+    },
+    {
+      "name": "micro_IA40385013_0576 01. Docket.pdf",
+      "size": "337413",
+      "format": "Text PDF"
+    },
+    {
+      "name": "micro_IA40385013_0576 01. Docket_chocr.html.gz",
+      "size": "52014",
+      "format": "chOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 01. Docket_djvu.txt",
+      "size": "3522",
+      "format": "DjVuTXT"
+    },
+    {
+      "name": "micro_IA40385013_0576 01. Docket_djvu.xml",
+      "size": "46355",
+      "format": "Djvu XML"
+    },
+    {
+      "name": "micro_IA40385013_0576 01. Docket_hocr.html",
+      "size": "91503",
+      "format": "hOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 01. Docket_hocr_pageindex.json.gz",
+      "size": "54",
+      "format": "OCR Page Index"
+    },
+    {
+      "name": "micro_IA40385013_0576 01. Docket_hocr_searchtext.txt.gz",
+      "size": "1275",
+      "format": "OCR Search Text"
+    },
+    {
+      "name": "micro_IA40385013_0576 01. Docket_jp2.zip",
+      "size": "904542",
+      "format": "Single Page Processed JP2 ZIP"
+    },
+    {
+      "name": "micro_IA40385013_0576 01. Docket_page_numbers.json",
+      "size": "326",
+      "format": "Page Numbers JSON"
+    },
+    {
+      "name": "micro_IA40385013_0576 01. Docket_scandata.xml",
+      "size": "890",
+      "format": "Scandata"
+    },
+    {
+      "name": "micro_IA40385013_0576 02. Petition for Writ of Certiorari.pdf",
+      "size": "15152335",
+      "format": "Text PDF"
+    },
+    {
+      "name": "micro_IA40385013_0576 02. Petition for Writ of Certiorari_chocr.html.gz",
+      "size": "1873471",
+      "format": "chOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 02. Petition for Writ of Certiorari_djvu.txt",
+      "size": "132260",
+      "format": "DjVuTXT"
+    },
+    {
+      "name": "micro_IA40385013_0576 02. Petition for Writ of Certiorari_djvu.xml",
+      "size": "1689799",
+      "format": "Djvu XML"
+    },
+    {
+      "name": "micro_IA40385013_0576 02. Petition for Writ of Certiorari_hocr.html",
+      "size": "3133797",
+      "format": "hOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 02. Petition for Writ of Certiorari_hocr_pageindex.json.gz",
+      "size": "1066",
+      "format": "OCR Page Index"
+    },
+    {
+      "name": "micro_IA40385013_0576 02. Petition for Writ of Certiorari_hocr_searchtext.txt.gz",
+      "size": "42543",
+      "format": "OCR Search Text"
+    },
+    {
+      "name": "micro_IA40385013_0576 02. Petition for Writ of Certiorari_jp2.zip",
+      "size": "33053729",
+      "format": "Single Page Processed JP2 ZIP"
+    },
+    {
+      "name": "micro_IA40385013_0576 02. Petition for Writ of Certiorari_page_numbers.json",
+      "size": "15210",
+      "format": "Page Numbers JSON"
+    },
+    {
+      "name": "micro_IA40385013_0576 02. Petition for Writ of Certiorari_scandata.xml",
+      "size": "32627",
+      "format": "Scandata"
+    },
+    {
+      "name": "micro_IA40385013_0576 03. Opposition Brief.pdf",
+      "size": "5896572",
+      "format": "Text PDF"
+    },
+    {
+      "name": "micro_IA40385013_0576 03. Opposition Brief_chocr.html.gz",
+      "size": "800590",
+      "format": "chOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 03. Opposition Brief_djvu.txt",
+      "size": "56566",
+      "format": "DjVuTXT"
+    },
+    {
+      "name": "micro_IA40385013_0576 03. Opposition Brief_djvu.xml",
+      "size": "713252",
+      "format": "Djvu XML"
+    },
+    {
+      "name": "micro_IA40385013_0576 03. Opposition Brief_hocr.html",
+      "size": "1317742",
+      "format": "hOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 03. Opposition Brief_hocr_pageindex.json.gz",
+      "size": "448",
+      "format": "OCR Page Index"
+    },
+    {
+      "name": "micro_IA40385013_0576 03. Opposition Brief_hocr_searchtext.txt.gz",
+      "size": "18331",
+      "format": "OCR Search Text"
+    },
+    {
+      "name": "micro_IA40385013_0576 03. Opposition Brief_jp2.zip",
+      "size": "12763122",
+      "format": "Single Page Processed JP2 ZIP"
+    },
+    {
+      "name": "micro_IA40385013_0576 03. Opposition Brief_page_numbers.json",
+      "size": "6355",
+      "format": "Page Numbers JSON"
+    },
+    {
+      "name": "micro_IA40385013_0576 03. Opposition Brief_scandata.xml",
+      "size": "13127",
+      "format": "Scandata"
+    },
+    {
+      "name": "micro_IA40385013_0576 04. Opposition Brief.pdf",
+      "size": "6151000",
+      "format": "Text PDF"
+    },
+    {
+      "name": "micro_IA40385013_0576 04. Opposition Brief_chocr.html.gz",
+      "size": "802928",
+      "format": "chOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 04. Opposition Brief_djvu.txt",
+      "size": "56090",
+      "format": "DjVuTXT"
+    },
+    {
+      "name": "micro_IA40385013_0576 04. Opposition Brief_djvu.xml",
+      "size": "704214",
+      "format": "Djvu XML"
+    },
+    {
+      "name": "micro_IA40385013_0576 04. Opposition Brief_hocr.html",
+      "size": "1302921",
+      "format": "hOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 04. Opposition Brief_hocr_pageindex.json.gz",
+      "size": "438",
+      "format": "OCR Page Index"
+    },
+    {
+      "name": "micro_IA40385013_0576 04. Opposition Brief_hocr_searchtext.txt.gz",
+      "size": "18895",
+      "format": "OCR Search Text"
+    },
+    {
+      "name": "micro_IA40385013_0576 04. Opposition Brief_jp2.zip",
+      "size": "13077030",
+      "format": "Single Page Processed JP2 ZIP"
+    },
+    {
+      "name": "micro_IA40385013_0576 04. Opposition Brief_page_numbers.json",
+      "size": "6200",
+      "format": "Page Numbers JSON"
+    },
+    {
+      "name": "micro_IA40385013_0576 04. Opposition Brief_scandata.xml",
+      "size": "13058",
+      "format": "Scandata"
+    },
+    {
+      "name": "micro_IA40385013_0576 05. Amicus Curiae Brief.pdf",
+      "size": "2259502",
+      "format": "Text PDF"
+    },
+    {
+      "name": "micro_IA40385013_0576 05. Amicus Curiae Brief_chocr.html.gz",
+      "size": "267371",
+      "format": "chOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 05. Amicus Curiae Brief_djvu.txt",
+      "size": "18882",
+      "format": "DjVuTXT"
+    },
+    {
+      "name": "micro_IA40385013_0576 05. Amicus Curiae Brief_djvu.xml",
+      "size": "234889",
+      "format": "Djvu XML"
+    },
+    {
+      "name": "micro_IA40385013_0576 05. Amicus Curiae Brief_hocr.html",
+      "size": "438481",
+      "format": "hOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 05. Amicus Curiae Brief_hocr_pageindex.json.gz",
+      "size": "192",
+      "format": "OCR Page Index"
+    },
+    {
+      "name": "micro_IA40385013_0576 05. Amicus Curiae Brief_hocr_searchtext.txt.gz",
+      "size": "6814",
+      "format": "OCR Search Text"
+    },
+    {
+      "name": "micro_IA40385013_0576 05. Amicus Curiae Brief_jp2.zip",
+      "size": "5265121",
+      "format": "Single Page Processed JP2 ZIP"
+    },
+    {
+      "name": "micro_IA40385013_0576 05. Amicus Curiae Brief_page_numbers.json",
+      "size": "2684",
+      "format": "Page Numbers JSON"
+    },
+    {
+      "name": "micro_IA40385013_0576 05. Amicus Curiae Brief_scandata.xml",
+      "size": "5376",
+      "format": "Scandata"
+    },
+    {
+      "name": "micro_IA40385013_0576 06. Amicus Curiae Brief.pdf",
+      "size": "4555480",
+      "format": "Text PDF"
+    },
+    {
+      "name": "micro_IA40385013_0576 06. Amicus Curiae Brief_chocr.html.gz",
+      "size": "537397",
+      "format": "chOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 06. Amicus Curiae Brief_djvu.txt",
+      "size": "37856",
+      "format": "DjVuTXT"
+    },
+    {
+      "name": "micro_IA40385013_0576 06. Amicus Curiae Brief_djvu.xml",
+      "size": "466835",
+      "format": "Djvu XML"
+    },
+    {
+      "name": "micro_IA40385013_0576 06. Amicus Curiae Brief_hocr.html",
+      "size": "863866",
+      "format": "hOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 06. Amicus Curiae Brief_hocr_pageindex.json.gz",
+      "size": "319",
+      "format": "OCR Page Index"
+    },
+    {
+      "name": "micro_IA40385013_0576 06. Amicus Curiae Brief_hocr_searchtext.txt.gz",
+      "size": "12899",
+      "format": "OCR Search Text"
+    },
+    {
+      "name": "micro_IA40385013_0576 06. Amicus Curiae Brief_jp2.zip",
+      "size": "11242885",
+      "format": "Single Page Processed JP2 ZIP"
+    },
+    {
+      "name": "micro_IA40385013_0576 06. Amicus Curiae Brief_page_numbers.json",
+      "size": "4685",
+      "format": "Page Numbers JSON"
+    },
+    {
+      "name": "micro_IA40385013_0576 06. Amicus Curiae Brief_scandata.xml",
+      "size": "9556",
+      "format": "Scandata"
+    },
+    {
+      "name": "micro_IA40385013_0576 07. Joint Appendix.pdf",
+      "size": "27160951",
+      "format": "Text PDF"
+    },
+    {
+      "name": "micro_IA40385013_0576 07. Joint Appendix_chocr.html.gz",
+      "size": "3397011",
+      "format": "chOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 07. Joint Appendix_djvu.txt",
+      "size": "238959",
+      "format": "DjVuTXT"
+    },
+    {
+      "name": "micro_IA40385013_0576 07. Joint Appendix_djvu.xml",
+      "size": "3058671",
+      "format": "Djvu XML"
+    },
+    {
+      "name": "micro_IA40385013_0576 07. Joint Appendix_hocr.html",
+      "size": "5753844",
+      "format": "hOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 07. Joint Appendix_hocr_pageindex.json.gz",
+      "size": "1721",
+      "format": "OCR Page Index"
+    },
+    {
+      "name": "micro_IA40385013_0576 07. Joint Appendix_hocr_searchtext.txt.gz",
+      "size": "69543",
+      "format": "OCR Search Text"
+    },
+    {
+      "name": "micro_IA40385013_0576 07. Joint Appendix_jp2.zip",
+      "size": "47425363",
+      "format": "Single Page Processed JP2 ZIP"
+    },
+    {
+      "name": "micro_IA40385013_0576 07. Joint Appendix_page_numbers.json",
+      "size": "24265",
+      "format": "Page Numbers JSON"
+    },
+    {
+      "name": "micro_IA40385013_0576 07. Joint Appendix_scandata.xml",
+      "size": "52386",
+      "format": "Scandata"
+    },
+    {
+      "name": "micro_IA40385013_0576 08. Petitioners Brief.pdf",
+      "size": "7346230",
+      "format": "Text PDF"
+    },
+    {
+      "name": "micro_IA40385013_0576 08. Petitioners Brief_chocr.html.gz",
+      "size": "875106",
+      "format": "chOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 08. Petitioners Brief_djvu.txt",
+      "size": "61673",
+      "format": "DjVuTXT"
+    },
+    {
+      "name": "micro_IA40385013_0576 08. Petitioners Brief_djvu.xml",
+      "size": "783324",
+      "format": "Djvu XML"
+    },
+    {
+      "name": "micro_IA40385013_0576 08. Petitioners Brief_hocr.html",
+      "size": "1449530",
+      "format": "hOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 08. Petitioners Brief_hocr_pageindex.json.gz",
+      "size": "506",
+      "format": "OCR Page Index"
+    },
+    {
+      "name": "micro_IA40385013_0576 08. Petitioners Brief_hocr_searchtext.txt.gz",
+      "size": "19872",
+      "format": "OCR Search Text"
+    },
+    {
+      "name": "micro_IA40385013_0576 08. Petitioners Brief_jp2.zip",
+      "size": "19323913",
+      "format": "Single Page Processed JP2 ZIP"
+    },
+    {
+      "name": "micro_IA40385013_0576 08. Petitioners Brief_page_numbers.json",
+      "size": "7349",
+      "format": "Page Numbers JSON"
+    },
+    {
+      "name": "micro_IA40385013_0576 08. Petitioners Brief_scandata.xml",
+      "size": "15116",
+      "format": "Scandata"
+    },
+    {
+      "name": "micro_IA40385013_0576 09. Respondents Brief.pdf",
+      "size": "7173560",
+      "format": "Text PDF"
+    },
+    {
+      "name": "micro_IA40385013_0576 09. Respondents Brief_chocr.html.gz",
+      "size": "899133",
+      "format": "chOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 09. Respondents Brief_djvu.txt",
+      "size": "63729",
+      "format": "DjVuTXT"
+    },
+    {
+      "name": "micro_IA40385013_0576 09. Respondents Brief_djvu.xml",
+      "size": "797197",
+      "format": "Djvu XML"
+    },
+    {
+      "name": "micro_IA40385013_0576 09. Respondents Brief_hocr.html",
+      "size": "1468894",
+      "format": "hOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 09. Respondents Brief_hocr_pageindex.json.gz",
+      "size": "494",
+      "format": "OCR Page Index"
+    },
+    {
+      "name": "micro_IA40385013_0576 09. Respondents Brief_hocr_searchtext.txt.gz",
+      "size": "20755",
+      "format": "OCR Search Text"
+    },
+    {
+      "name": "micro_IA40385013_0576 09. Respondents Brief_jp2.zip",
+      "size": "18098689",
+      "format": "Single Page Processed JP2 ZIP"
+    },
+    {
+      "name": "micro_IA40385013_0576 09. Respondents Brief_page_numbers.json",
+      "size": "7027",
+      "format": "Page Numbers JSON"
+    },
+    {
+      "name": "micro_IA40385013_0576 09. Respondents Brief_scandata.xml",
+      "size": "14863",
+      "format": "Scandata"
+    },
+    {
+      "name": "micro_IA40385013_0576 10. Respondents Brief.pdf",
+      "size": "8852441",
+      "format": "Text PDF"
+    },
+    {
+      "name": "micro_IA40385013_0576 10. Respondents Brief_chocr.html.gz",
+      "size": "1136384",
+      "format": "chOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 10. Respondents Brief_djvu.txt",
+      "size": "79938",
+      "format": "DjVuTXT"
+    },
+    {
+      "name": "micro_IA40385013_0576 10. Respondents Brief_djvu.xml",
+      "size": "1006410",
+      "format": "Djvu XML"
+    },
+    {
+      "name": "micro_IA40385013_0576 10. Respondents Brief_hocr.html",
+      "size": "1853749",
+      "format": "hOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 10. Respondents Brief_hocr_pageindex.json.gz",
+      "size": "591",
+      "format": "OCR Page Index"
+    },
+    {
+      "name": "micro_IA40385013_0576 10. Respondents Brief_hocr_searchtext.txt.gz",
+      "size": "26205",
+      "format": "OCR Search Text"
+    },
+    {
+      "name": "micro_IA40385013_0576 10. Respondents Brief_jp2.zip",
+      "size": "19225796",
+      "format": "Single Page Processed JP2 ZIP"
+    },
+    {
+      "name": "micro_IA40385013_0576 10. Respondents Brief_page_numbers.json",
+      "size": "8339",
+      "format": "Page Numbers JSON"
+    },
+    {
+      "name": "micro_IA40385013_0576 10. Respondents Brief_scandata.xml",
+      "size": "17763",
+      "format": "Scandata"
+    },
+    {
+      "name": "micro_IA40385013_0576 11. Reply Brief.pdf",
+      "size": "5350059",
+      "format": "Text PDF"
+    },
+    {
+      "name": "micro_IA40385013_0576 11. Reply Brief_chocr.html.gz",
+      "size": "619382",
+      "format": "chOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 11. Reply Brief_djvu.txt",
+      "size": "44840",
+      "format": "DjVuTXT"
+    },
+    {
+      "name": "micro_IA40385013_0576 11. Reply Brief_djvu.xml",
+      "size": "563632",
+      "format": "Djvu XML"
+    },
+    {
+      "name": "micro_IA40385013_0576 11. Reply Brief_hocr.html",
+      "size": "1044509",
+      "format": "hOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 11. Reply Brief_hocr_pageindex.json.gz",
+      "size": "323",
+      "format": "OCR Page Index"
+    },
+    {
+      "name": "micro_IA40385013_0576 11. Reply Brief_hocr_searchtext.txt.gz",
+      "size": "15663",
+      "format": "OCR Search Text"
+    },
+    {
+      "name": "micro_IA40385013_0576 11. Reply Brief_jp2.zip",
+      "size": "13153048",
+      "format": "Single Page Processed JP2 ZIP"
+    },
+    {
+      "name": "micro_IA40385013_0576 11. Reply Brief_page_numbers.json",
+      "size": "4630",
+      "format": "Page Numbers JSON"
+    },
+    {
+      "name": "micro_IA40385013_0576 11. Reply Brief_scandata.xml",
+      "size": "9879",
+      "format": "Scandata"
+    },
+    {
+      "name": "micro_IA40385013_0576 12. Amicus Curiae Brief.pdf",
+      "size": "5621273",
+      "format": "Text PDF"
+    },
+    {
+      "name": "micro_IA40385013_0576 12. Amicus Curiae Brief_chocr.html.gz",
+      "size": "673821",
+      "format": "chOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 12. Amicus Curiae Brief_djvu.txt",
+      "size": "48602",
+      "format": "DjVuTXT"
+    },
+    {
+      "name": "micro_IA40385013_0576 12. Amicus Curiae Brief_djvu.xml",
+      "size": "621814",
+      "format": "Djvu XML"
+    },
+    {
+      "name": "micro_IA40385013_0576 12. Amicus Curiae Brief_hocr.html",
+      "size": "1158226",
+      "format": "hOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 12. Amicus Curiae Brief_hocr_pageindex.json.gz",
+      "size": "391",
+      "format": "OCR Page Index"
+    },
+    {
+      "name": "micro_IA40385013_0576 12. Amicus Curiae Brief_hocr_searchtext.txt.gz",
+      "size": "17762",
+      "format": "OCR Search Text"
+    },
+    {
+      "name": "micro_IA40385013_0576 12. Amicus Curiae Brief_jp2.zip",
+      "size": "11432604",
+      "format": "Single Page Processed JP2 ZIP"
+    },
+    {
+      "name": "micro_IA40385013_0576 12. Amicus Curiae Brief_page_numbers.json",
+      "size": "5705",
+      "format": "Page Numbers JSON"
+    },
+    {
+      "name": "micro_IA40385013_0576 12. Amicus Curiae Brief_scandata.xml",
+      "size": "11578",
+      "format": "Scandata"
+    },
+    {
+      "name": "micro_IA40385013_0576 13. Amicus Curiae Brief.pdf",
+      "size": "7494619",
+      "format": "Text PDF"
+    },
+    {
+      "name": "micro_IA40385013_0576 13. Amicus Curiae Brief_chocr.html.gz",
+      "size": "1057892",
+      "format": "chOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 13. Amicus Curiae Brief_djvu.txt",
+      "size": "74379",
+      "format": "DjVuTXT"
+    },
+    {
+      "name": "micro_IA40385013_0576 13. Amicus Curiae Brief_djvu.xml",
+      "size": "926818",
+      "format": "Djvu XML"
+    },
+    {
+      "name": "micro_IA40385013_0576 13. Amicus Curiae Brief_hocr.html",
+      "size": "1711790",
+      "format": "hOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 13. Amicus Curiae Brief_hocr_pageindex.json.gz",
+      "size": "510",
+      "format": "OCR Page Index"
+    },
+    {
+      "name": "micro_IA40385013_0576 13. Amicus Curiae Brief_hocr_searchtext.txt.gz",
+      "size": "25014",
+      "format": "OCR Search Text"
+    },
+    {
+      "name": "micro_IA40385013_0576 13. Amicus Curiae Brief_jp2.zip",
+      "size": "13899435",
+      "format": "Single Page Processed JP2 ZIP"
+    },
+    {
+      "name": "micro_IA40385013_0576 13. Amicus Curiae Brief_page_numbers.json",
+      "size": "7376",
+      "format": "Page Numbers JSON"
+    },
+    {
+      "name": "micro_IA40385013_0576 13. Amicus Curiae Brief_scandata.xml",
+      "size": "15466",
+      "format": "Scandata"
+    },
+    {
+      "name": "micro_IA40385013_0576 14. Amicus Curiae Brief.pdf",
+      "size": "9479333",
+      "format": "Text PDF"
+    },
+    {
+      "name": "micro_IA40385013_0576 14. Amicus Curiae Brief_chocr.html.gz",
+      "size": "1040776",
+      "format": "chOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 14. Amicus Curiae Brief_djvu.txt",
+      "size": "77952",
+      "format": "DjVuTXT"
+    },
+    {
+      "name": "micro_IA40385013_0576 14. Amicus Curiae Brief_djvu.xml",
+      "size": "950899",
+      "format": "Djvu XML"
+    },
+    {
+      "name": "micro_IA40385013_0576 14. Amicus Curiae Brief_hocr.html",
+      "size": "1777597",
+      "format": "hOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 14. Amicus Curiae Brief_hocr_pageindex.json.gz",
+      "size": "563",
+      "format": "OCR Page Index"
+    },
+    {
+      "name": "micro_IA40385013_0576 14. Amicus Curiae Brief_hocr_searchtext.txt.gz",
+      "size": "27964",
+      "format": "OCR Search Text"
+    },
+    {
+      "name": "micro_IA40385013_0576 14. Amicus Curiae Brief_jp2.zip",
+      "size": "19618450",
+      "format": "Single Page Processed JP2 ZIP"
+    },
+    {
+      "name": "micro_IA40385013_0576 14. Amicus Curiae Brief_page_numbers.json",
+      "size": "8062",
+      "format": "Page Numbers JSON"
+    },
+    {
+      "name": "micro_IA40385013_0576 14. Amicus Curiae Brief_scandata.xml",
+      "size": "16846",
+      "format": "Scandata"
+    },
+    {
+      "name": "micro_IA40385013_0576 15. Amicus Curiae Brief.pdf",
+      "size": "6682372",
+      "format": "Text PDF"
+    },
+    {
+      "name": "micro_IA40385013_0576 15. Amicus Curiae Brief_chocr.html.gz",
+      "size": "809674",
+      "format": "chOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 15. Amicus Curiae Brief_djvu.txt",
+      "size": "57536",
+      "format": "DjVuTXT"
+    },
+    {
+      "name": "micro_IA40385013_0576 15. Amicus Curiae Brief_djvu.xml",
+      "size": "718450",
+      "format": "Djvu XML"
+    },
+    {
+      "name": "micro_IA40385013_0576 15. Amicus Curiae Brief_hocr.html",
+      "size": "1340315",
+      "format": "hOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 15. Amicus Curiae Brief_hocr_pageindex.json.gz",
+      "size": "399",
+      "format": "OCR Page Index"
+    },
+    {
+      "name": "micro_IA40385013_0576 15. Amicus Curiae Brief_hocr_searchtext.txt.gz",
+      "size": "19109",
+      "format": "OCR Search Text"
+    },
+    {
+      "name": "micro_IA40385013_0576 15. Amicus Curiae Brief_jp2.zip",
+      "size": "13558558",
+      "format": "Single Page Processed JP2 ZIP"
+    },
+    {
+      "name": "micro_IA40385013_0576 15. Amicus Curiae Brief_page_numbers.json",
+      "size": "5708",
+      "format": "Page Numbers JSON"
+    },
+    {
+      "name": "micro_IA40385013_0576 15. Amicus Curiae Brief_scandata.xml",
+      "size": "11435",
+      "format": "Scandata"
+    },
+    {
+      "name": "micro_IA40385013_0576 16. Amicus Curiae Brief.pdf",
+      "size": "7748777",
+      "format": "Text PDF"
+    },
+    {
+      "name": "micro_IA40385013_0576 16. Amicus Curiae Brief_chocr.html.gz",
+      "size": "929583",
+      "format": "chOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 16. Amicus Curiae Brief_djvu.txt",
+      "size": "66542",
+      "format": "DjVuTXT"
+    },
+    {
+      "name": "micro_IA40385013_0576 16. Amicus Curiae Brief_djvu.xml",
+      "size": "822968",
+      "format": "Djvu XML"
+    },
+    {
+      "name": "micro_IA40385013_0576 16. Amicus Curiae Brief_hocr.html",
+      "size": "1543513",
+      "format": "hOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 16. Amicus Curiae Brief_hocr_pageindex.json.gz",
+      "size": "444",
+      "format": "OCR Page Index"
+    },
+    {
+      "name": "micro_IA40385013_0576 16. Amicus Curiae Brief_hocr_searchtext.txt.gz",
+      "size": "22497",
+      "format": "OCR Search Text"
+    },
+    {
+      "name": "micro_IA40385013_0576 16. Amicus Curiae Brief_jp2.zip",
+      "size": "15626516",
+      "format": "Single Page Processed JP2 ZIP"
+    },
+    {
+      "name": "micro_IA40385013_0576 16. Amicus Curiae Brief_page_numbers.json",
+      "size": "6357",
+      "format": "Page Numbers JSON"
+    },
+    {
+      "name": "micro_IA40385013_0576 16. Amicus Curiae Brief_scandata.xml",
+      "size": "13292",
+      "format": "Scandata"
+    },
+    {
+      "name": "micro_IA40385013_0576 17. Amicus Curiae Brief.pdf",
+      "size": "5322904",
+      "format": "Text PDF"
+    },
+    {
+      "name": "micro_IA40385013_0576 17. Amicus Curiae Brief_chocr.html.gz",
+      "size": "619059",
+      "format": "chOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 17. Amicus Curiae Brief_djvu.txt",
+      "size": "44120",
+      "format": "DjVuTXT"
+    },
+    {
+      "name": "micro_IA40385013_0576 17. Amicus Curiae Brief_djvu.xml",
+      "size": "565696",
+      "format": "Djvu XML"
+    },
+    {
+      "name": "micro_IA40385013_0576 17. Amicus Curiae Brief_hocr.html",
+      "size": "1047170",
+      "format": "hOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 17. Amicus Curiae Brief_hocr_pageindex.json.gz",
+      "size": "396",
+      "format": "OCR Page Index"
+    },
+    {
+      "name": "micro_IA40385013_0576 17. Amicus Curiae Brief_hocr_searchtext.txt.gz",
+      "size": "14745",
+      "format": "OCR Search Text"
+    },
+    {
+      "name": "micro_IA40385013_0576 17. Amicus Curiae Brief_jp2.zip",
+      "size": "11526377",
+      "format": "Single Page Processed JP2 ZIP"
+    },
+    {
+      "name": "micro_IA40385013_0576 17. Amicus Curiae Brief_page_numbers.json",
+      "size": "5715",
+      "format": "Page Numbers JSON"
+    },
+    {
+      "name": "micro_IA40385013_0576 17. Amicus Curiae Brief_scandata.xml",
+      "size": "12061",
+      "format": "Scandata"
+    },
+    {
+      "name": "micro_IA40385013_0576 18. Amicus Curiae Brief.pdf",
+      "size": "1486540",
+      "format": "Text PDF"
+    },
+    {
+      "name": "micro_IA40385013_0576 18. Amicus Curiae Brief_chocr.html.gz",
+      "size": "145146",
+      "format": "chOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 18. Amicus Curiae Brief_djvu.txt",
+      "size": "10698",
+      "format": "DjVuTXT"
+    },
+    {
+      "name": "micro_IA40385013_0576 18. Amicus Curiae Brief_djvu.xml",
+      "size": "140523",
+      "format": "Djvu XML"
+    },
+    {
+      "name": "micro_IA40385013_0576 18. Amicus Curiae Brief_hocr.html",
+      "size": "261601",
+      "format": "hOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 18. Amicus Curiae Brief_hocr_pageindex.json.gz",
+      "size": "138",
+      "format": "OCR Page Index"
+    },
+    {
+      "name": "micro_IA40385013_0576 18. Amicus Curiae Brief_hocr_searchtext.txt.gz",
+      "size": "4251",
+      "format": "OCR Search Text"
+    },
+    {
+      "name": "micro_IA40385013_0576 18. Amicus Curiae Brief_jp2.zip",
+      "size": "3573320",
+      "format": "Single Page Processed JP2 ZIP"
+    },
+    {
+      "name": "micro_IA40385013_0576 18. Amicus Curiae Brief_page_numbers.json",
+      "size": "1670",
+      "format": "Page Numbers JSON"
+    },
+    {
+      "name": "micro_IA40385013_0576 18. Amicus Curiae Brief_scandata.xml",
+      "size": "3456",
+      "format": "Scandata"
+    },
+    {
+      "name": "micro_IA40385013_0576 19. Amicus Curiae Brief.pdf",
+      "size": "6454826",
+      "format": "Text PDF"
+    },
+    {
+      "name": "micro_IA40385013_0576 19. Amicus Curiae Brief_chocr.html.gz",
+      "size": "718573",
+      "format": "chOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 19. Amicus Curiae Brief_djvu.txt",
+      "size": "50581",
+      "format": "DjVuTXT"
+    },
+    {
+      "name": "micro_IA40385013_0576 19. Amicus Curiae Brief_djvu.xml",
+      "size": "625310",
+      "format": "Djvu XML"
+    },
+    {
+      "name": "micro_IA40385013_0576 19. Amicus Curiae Brief_hocr.html",
+      "size": "1164478",
+      "format": "hOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576 19. Amicus Curiae Brief_hocr_pageindex.json.gz",
+      "size": "406",
+      "format": "OCR Page Index"
+    },
+    {
+      "name": "micro_IA40385013_0576 19. Amicus Curiae Brief_hocr_searchtext.txt.gz",
+      "size": "18275",
+      "format": "OCR Search Text"
+    },
+    {
+      "name": "micro_IA40385013_0576 19. Amicus Curiae Brief_jp2.zip",
+      "size": "11106940",
+      "format": "Single Page Processed JP2 ZIP"
+    },
+    {
+      "name": "micro_IA40385013_0576 19. Amicus Curiae Brief_page_numbers.json",
+      "size": "5816",
+      "format": "Page Numbers JSON"
+    },
+    {
+      "name": "micro_IA40385013_0576 19. Amicus Curiae Brief_scandata.xml",
+      "size": "12264",
+      "format": "Scandata"
+    },
+    {
+      "name": "micro_IA40385013_0576.pdf",
+      "size": "140401419",
+      "format": "Text PDF"
+    },
+    {
+      "name": "micro_IA40385013_0576_archive.torrent",
+      "size": "79550",
+      "format": "Archive BitTorrent"
+    },
+    {
+      "name": "micro_IA40385013_0576_chocr.html.gz",
+      "size": "17219217",
+      "format": "chOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576_djvu.txt",
+      "size": "1224725",
+      "format": "DjVuTXT"
+    },
+    {
+      "name": "micro_IA40385013_0576_djvu.xml",
+      "size": "15355888",
+      "format": "Djvu XML"
+    },
+    {
+      "name": "micro_IA40385013_0576_files.xml",
+      "size": null,
+      "format": "Metadata"
+    },
+    {
+      "name": "micro_IA40385013_0576_hocr.html",
+      "size": "28676192",
+      "format": "hOCR"
+    },
+    {
+      "name": "micro_IA40385013_0576_hocr_pageindex.json.gz",
+      "size": "9574",
+      "format": "OCR Page Index"
+    },
+    {
+      "name": "micro_IA40385013_0576_hocr_searchtext.txt.gz",
+      "size": "381464",
+      "format": "OCR Search Text"
+    },
+    {
+      "name": "micro_IA40385013_0576_itemimage.png",
+      "size": "309837",
+      "format": "Item Image"
+    },
+    {
+      "name": "micro_IA40385013_0576_jp2.zip",
+      "size": "294151675",
+      "format": "Single Page Processed JP2 ZIP"
+    },
+    {
+      "name": "micro_IA40385013_0576_meta.sqlite",
+      "size": "20480",
+      "format": "Metadata"
+    },
+    {
+      "name": "micro_IA40385013_0576_meta.xml",
+      "size": "9866",
+      "format": "Metadata"
+    },
+    {
+      "name": "micro_IA40385013_0576_micro_jp2.zip",
+      "size": "792886511",
+      "format": "Micro Cards JP2 ZIP"
+    },
+    {
+      "name": "micro_IA40385013_0576_micro_scan.json",
+      "size": "137686",
+      "format": "Micro Cards Data JSON"
+    },
+    {
+      "name": "micro_IA40385013_0576_page_numbers.json",
+      "size": "130707",
+      "format": "Page Numbers JSON"
+    },
+    {
+      "name": "micro_IA40385013_0576_reviews.xml",
+      "size": "1224",
+      "format": "Metadata"
+    },
+    {
+      "name": "micro_IA40385013_0576_scandata.xml",
+      "size": "278842",
+      "format": "Scandata"
+    },
+    {
+      "name": "micro_IA40385013_0576_thumb_avif.zip",
+      "size": "54517970",
+      "format": "AVIF Thumbnails ZIP"
+    }
+  ]
+}

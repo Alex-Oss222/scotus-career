@@ -1,0 +1,222 @@
+
+    
+      Lauren E. Jones with whom Caroline C. Cornwell, Jones Associates, Providence, RI, William P. Gasbarro and Robert M. Brady, East Providence, RI, were on brief, for Rhode Island Liquor Stores Ass'n.
+
+      Rebecca Tedford Partington, Sp. Asst. Atty. Gen., with whom Jeffrey B. Pine, Atty. Gen., Providence, RI, was on brief, for State of Rhode Island.
+
+      Evan T. Lawson with whom Lawson & Weitzen, Boston, MA, was on brief, for plaintiffs-appellees.
+
+      Before CYR, Circuit Judge, ALDRICH, Senior Circuit Judge, and STAHL, Circuit Judge.
+
+      ALDRICH, Senior Circuit Judge.
+
+    
+
+    
+      ¶1
+      The State of Rhode Island, that did not ratify the Eighteenth Amendment, and was among the earliest to ratify the Twenty-First that repealed it, in 1956 adopted two statutes, assertedly aimed at promoting temperance, forbidding advertising the price of intoxicating liquor, except at the place of sale if sold within the state.  The "declared purpose is the promotion of temperance and for the reasonable control of the traffic in alcoholic beverages."   R.I.Gen.Laws Sec. 3-1-5.
+
+    
+
+    
+      ¶2
+      R.I.Gen.Laws Sec. 3-8-7 provides,
+
+    
+
+    
+      ¶3
+      3-8-7.  Advertising price of malt beverages, cordials, wine or distilled liquor.--No manufacturer, wholesaler, or shipper from without this state and no holder of a license issued under the provisions of this title and chapter shall cause or permit the advertising in any manner whatsoever of the price of any malt beverage, cordials, wine or distilled liquor offered for sale in this state;  provided, however, that the provisions of this section shall not apply to price signs or tags attached to or placed on merchandise for sale within the licensed premises in accordance with rules and regulations of the department.
+
+    
+
+    
+      ¶4
+      Section 3-8-8.1, post, enlarges this language to forbidding making "reference to the price of any alcoholic beverage,"1 that defendant Rhode Island Liquor Control Administrator, a strict enforcer, construes as including remote references such as "WOW!"
+
+    
+
+    
+      ¶5
+      In this action plaintiffs, 44 Liquormart, Inc. and Peoples Super Liquor Stores, Inc., having sufficient standing to attack these statutes in every particular, seek a declaration against the Administrator (hereinafter the State) of unconstitutionality as contravening the First Amendment.  Rhode Island Liquor Stores Association (Association) has intervened as a party defendant.  After a bench trial, in an extensive opinion the court found for plaintiffs.  Defendants appeal.  They succeed with respect to limiting advertising by Rhode Island vendors.
+
+    
+
+    
+      ¶6
+      The stage it set below is described by the State.
+
+    
+
+    
+      ¶7
+      [T]he advertising ban directly advanced the governmental interest by increasing the cost of alcoholic beverages, thereby lowering the amount of alcohol consumption by residents of the State of Rhode Island....  [T]he State's power to totally ban any advertising about alcoholic beverages necessarily included the lesser power to restrict price advertising.
+
+    
+
+    
+      ¶8
+      Further, the State contended that plaintiffs, in order to rely on the First Amendment, must "prove that the four part Central Hudson test could not be met."
+
+    
+
+    
+      ¶9
+      Association, a group of small liquor stores, whose intervention as a co-defendant was not opposed by the State, alleged as its ground for intervening that if advertising of prices were to be allowed, its members "would be obliged to participate in the advertising arena and would be at a definite disadvantage when matched up against retailers who hold multiple licenses."   This complaint was later bolstered by adding that competitive price advertising would tend to lower prices, and that "a more competitive market for alcohol might be considered an undesirable goal."
+
+    
+
+    
+      ¶10
+      We start with the four issues that Central Hudson raises when a state's interest conflicts with the rights of a would-be commercial speaker.
+
+    
+
+    
+      ¶11
+      At the outset, we must determine whether the expression is protected by the First Amendment.  [I] For commercial speech to come within that provision, it at least must concern lawful activity and not be misleading.  [II] Next, we ask whether the asserted governmental interest is substantial.  If both inquiries yield positive answers, we must determine [III] whether the regulation directly advances the governmental interest asserted, and [IV] whether it is not more extensive than is necessary to serve that interest.
+
+    
+
+    
+      ¶12
+      Central Hudson Gas & Electric Corp. v. Public Service Commission of New York, 447 U.S. 557, 566, 100 S.Ct. 2343, 2351, 65 L.Ed.2d 341 (1980).  The ultimate purpose is to weigh "the expression [and] the governmental interests served by its regulation."  Id. at 563, 100 S.Ct. at 2350.
+
+    
+
+    
+      ¶13
+      I. In the present case the first test raises no question.  II.  For the second it was stipulated, "The State of Rhode Island has a substantial interest in regulating the sale of alcoholic beverages."   Plaintiffs concede that promoting temperance is such an interest.  The dispute, accordingly, is whether forbidding price advertising "directly advances" temperance, and "is not more extensive than is necessary."   There is a further question with regard to local advertising by an out-of-state vendor.
+
+    
+
+    
+      ¶14
+      III. "Directly advances."   We start with the burden of proof.  The burden is on the party seeking suppression, here the State.  Edenfield v. Fane, --- U.S. ----, ----, 113 S.Ct. 1792, 1800, 123 L.Ed.2d 543 (1993).  But to what extent?   The district court held that it was an issue for it to decide, unfettered, between competing witnesses, and since, on its weighing the evidence, the court was not persuaded that the State was correct, it failed.  We do not think the burden that strict.  It is not correctness, it is reasonableness.
+
+    
+
+    
+      ¶15
+      In the first place, the term "directly advances" is not absolute.  Edenfield, --- U.S. at ----, 113 S.Ct. at 1800 ("alleviate to a material degree");  Trustees of the State University of New York v. Fox, 492 U.S. 469, 480, 109 S.Ct. 3028, 3034-35, 106 L.Ed.2d 388 (1989) ("reasonable fit").  See also Posadas de Puerto Rico Assoc. v. Tourism Co., 478 U.S. 328, 342, 106 S.Ct. 2968, 2977, 92 L.Ed.2d 266 (1986) ("reasonable").  And while the state has the burden, in California v. LaRue, 409 U.S. 109, 118-19, 93 S.Ct. 390, 397, 34 L.Ed.2d 342 (1972), the Court spoke of "the added presumption in favor of the validity of the state regulation in this area that the Twenty-First Amendment requires."   Historically the state has failed where the evidence was "at most, tenuous," Central Hudson, 447 U.S. at 569, 100 S.Ct. at 2353;  "unsupported assertions:  nowhere does the State cite any evidence or authority of any kind," Zauderer v. Office of Disciplinary Counsel, 471 U.S. 626, 648, 105 S.Ct. 2265, 2280, 85 L.Ed.2d 652 (1985);  lack of studies or "anecdotal evidence," Edenfield, --- U.S. at ----, 113 S.Ct. at 1800.   Warrantable inferences, however, may be sufficient.  Posadas, 478 U.S. at 341-42, 106 S.Ct. at 2976-77 (advertising).  What should a court do when there is no empirical2 evidence either way, and expert opinions go both ways?   Even plaintiffs' expert, whom the court credited, admitted that "advertising has cumulative effects that are difficult to detect in studies, and that research studies have been varied and equivocal because it is a difficult topic to research."   Should the court be free to choose?
+
+    
+
+    
+      ¶16
+      IV. Before answering these questions we observe that the "not more extensive than is necessary" inquiry is subject to the same considerations.  In re R.M.J., 455 U.S. 191, 207, 102 S.Ct. 929, 939, 71 L.Ed.2d 64 (1982) ("reasonably necessary").  The district court did not deal with this directly, except to note the concession of the State's expert that "the objective of lowering consumption of alcohol by banning price advertising could be accomplished by establishing minimum prices and/or by increasing sales taxes on alcoholic beverages."   This is not an answer;  the State is entitled to a reasonable choice.  This includes choice of method--it is not obliged to prove that some other method, e.g., taxation, would be less effective.  Cf. Fox, 492 U.S. at 478, 109 S.Ct. at 3033-34.
+
+    
+
+    
+      ¶17
+      Returning to our questions, there would seem inherent merit in the State's contention that competitive price advertising would lower prices, and that with lower prices there would be more sales.  We would enlarge on this.  There are doubtless many buyers whose consumption is sometimes measured by their free money.  If a buyer learns that plaintiffs charge less, is he not likely to go there, and then buy more?   Correspondingly, if ignorant of lower prices elsewhere, will he not tend to buy locally, at the higher price, and thus buy less?   See Stanley I. Ornstein and Dominique M. Hanssens, Alcohol Control Laws and the Consumption of Distilled Spirits and Beer, 12 J.Consumer Res. 200 (September 1985).  Further, if Association members would fight plaintiffs' advertised prices, as they presage, by lowering their own, then, again, might there not be more buys?
+
+    
+
+    
+      ¶18
+      Even plaintiffs' witness Smart conceded that some believed this inference reasonable.
+
+    
+
+    
+      ¶19
+      What I'm aware of are studies that show that people generally decide how much money they have to spend on alcoholic beverages per week or per month.  Then they tend to spend that amount, and if they can spend it in one way, they'll do it and in another way they'll do that as well.
+
+    
+
+    
+      ¶20
+      Advertising must be generally productive, or so much money would not be spent on it.  Posadas, 478 U.S. at 341-42, 106 S.Ct. at 2976-77;  Oklahoma Telecasters Ass'n v. Crisp, 699 F.2d 490, 501 (10th Cir.1983), rev'd on other grounds sub nom Capital Cities Cable, Inc. v. Crisp, 467 U.S. 691, 104 S.Ct. 2694, 81 L.Ed.2d 580 (1984).  We do not consider, in the absence of any affirmative contradiction to rely on, that the district court was free to hold it unreasonable.  In addition, the presumption based upon the Twenty-First Amendment, LaRue, supra, seems precisely in order.
+
+    
+
+    
+      ¶21
+      Parenthetically, the State contends this discussion to be unnecessary in view of the Court's action, 459 U.S. 807 (1982), dismissing an appeal, "for want of substantial federal question," from the decision in Queensgate Investment Co. v. Liquor Control Commission, 69 Ohio St.2d 361, 433 N.E.2d 138 (1982), a price advertising limitation case.  The district court rejected this contention because of a "different factual predicate," and because "a summary dismissal lacks a reasoned opinion."   As to the latter, it is settled that such action has precedential effect, although not necessarily on the identical reasoning of the court.  Mandel v. Bradley, 432 U.S. 173, 176, 97 S.Ct. 2238, 2240, 53 L.Ed.2d 199 (1977).  As to facts, the Ohio case involved a statute similar to the one at bar.  Defendant restaurant advertised, in a circular, 50 cent drinks--a markdown--with meals.  We see no relevant factual distinction.
+
+    
+
+    
+      ¶22
+      The Ohio court, recognizing that commercial speech was entitled to some protection, pursued the four Central Hudson tests and found that the statute was "not unreasonable" in light of the Twenty-First Amendment's authorization to curb the evils of alcoholic beverages.  69 Ohio St.2d at 366, 433 N.E.2d 138.   It concluded as follows.
+
+    
+
+    
+      ¶23
+      The regulation is directed toward regulation of the intoxicants themselves, rather than speech.  This is unlike the case, e.g., in [Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council, Inc., 425 U.S. 748, 96 S.Ct. 1817, 48 L.Ed.2d 346 (1976),] where the speech was the actual focus of the regulation, since the aim of the restriction was the prevention of competition in pharmaceutical sales, not the discouragement of pharmaceutical purchases.
+
+    
+
+    
+      ¶24
+      Ibid.
+
+    
+
+    
+      ¶25
+      Reliance on Queensgate as conclusive, however, might raise possible questions.  The first is whether the Court would have said there was no federal question if free speech had been curtailed by a regulation clearly unrelated to liquor.  We need not answer this because we have found that the State's action was reasonable as a control.  But suppose the primary purpose was that eliminated by the Queensgate court?   On the issue of purpose the State is not helped by its friends.  Association's given reason for wanting to intervene as a defendant, that the statute protects the small vendor from the giants, could make logical sense, but might not be a lawful use of the Twenty-First Amendment.  Cf. California Retail Liquor Dealers Ass'n v. Midcal Aluminum, Inc., 445 U.S. 97, 100 S.Ct. 937, 63 L.Ed.2d 233 (1980);  Bacchus Imports, Ltd. v. Dias, 468 U.S. 263, 104 S.Ct. 3049, 82 L.Ed.2d 200 (1984).  We need not resolve this question either, however.  There is a burden to rebut the statutes' declared purpose, and plaintiffs have made no attempt.  We conclude therefore that, with Queensgate or without, plaintiff 44 Liquormart must lose.
+
+    
+
+    
+      ¶26
+      Finally, we observe that our conclusion coincides with the Rhode Island court's.  Rhode Island Liquor Stores Ass'n v. Evening Call Pub. Co., 497 A.2d 331 (R.I.1985);  S & S Liquor Mart, Inc. v. Pastore, 497 A.2d 729 (R.I.1985).  We have not mentioned its decisions hitherto because our obligation is to decide for ourselves.  See Watson v. Estelle, 886 F.2d 1093, 1095 and n. 3 (9th Cir.1989).
+
+    
+
+    
+      ¶27
+      Peoples Super Liquor Stores, a Massachusetts vendor that wishes to advertise its Massachusetts prices in Rhode Island, has a different case.  Because of R.I.Gen.Laws Sec. 3-8-8.1 no Rhode Island publisher will accept advertisements.
+
+    
+
+    
+      ¶28
+      3-8-8.1.  Price advertising by media or advertising companies unlawful.--No newspaper, periodical, radio or television broadcaster or broadcasting company or any other person, firm or corporation with a principal place of business in the state of Rhode Island which is engaged in the business of advertising or selling advertising time or space shall accept, publish, or broadcast any advertisement in this state of the price or make reference to the price of any alcoholic beverages....
+
+    
+
+    
+      ¶29
+      By the hypothesis under which we are justifying forbidding price advertising by local vendors, State residents, whose shopping opportunity is thus curtailed, will be more likely to purchase at higher-priced neighborhood outlets and less at lower-priced, viz., discount sellers elsewhere.  Insofar as this constriction is aimed at foreign sellers, it is a deliberate, and, by hypothesis effective, discrimination and restraint on interstate commerce.  Thus we have two questions.  One, is the State's interest in health and welfare sufficient to overcome the foreign vendors' right of free speech?   Two, if so, are the rights given the State by the Twenty First Amendment sufficient to meet the foreign vendors' further objections under the Commerce Clause?
+
+    
+
+    
+      ¶30
+      Viewed simply as free speech, if a party wishes to come into a state and do business, to some extent, at least, it should be subject to the same regulations as are its local counterparts.  While the question may be close, where we are dealing simply with commercial speech, whose rights are limited, Bigelow v. Virginia, 421 U.S. 809, 818 et seq., 95 S.Ct. 2222, 2230 et seq., 44 L.Ed.2d 600 (1975), we believe the State health interest, as reinforced by the Twenty First Amendment, should empower the State to restrict foreigners as well.  Nor do we find support for the contrary in the Bigelow opinion.  We read the language relied on by Peoples Super Liquor Stores in the light of the fact that the advertisement contained more than commercial speech.  See 421 U.S. at 822, 95 S.Ct. at 2232-33;  Friedman v. Rogers, 440 U.S. 1, 11, n. 10, 99 S.Ct. 887, 895, n. 10, 59 L.Ed.2d 100 (1979).  Here we have no more than commercial.
+
+    
+
+    
+      ¶31
+      The serious question is whether the Twenty First Amendment can prevail against the Commerce Clause when the State is deliberately favoring local vendors against foreign enterprise.  The full meaning and effect of this Amendment has been much debated.  At a minimum it does not do away altogether with the Commerce Clause.  Cf. Hostetter v. Idlewild Bon Voyage Liquor Corp., 377 U.S. 324, 331-32, 84 S.Ct. 1293, 1297-98, 12 L.Ed.2d 350 (1964).  But, as a matter of dictum, the Court in Bacchus Imports, Ltd. v. Dias, 468 U.S. 263, 276, 104 S.Ct. 3049, 3058, 82 L.Ed.2d 200 (1984), has recognized the possibility that a state might discriminate "to promote temperance or to carry out any other purpose of the Twenty First Amendment."   We have tentatively explored this question in some depth, and find it difficult.
+
+    
+
+    
+      ¶32
+      This raises a problem.  The record shows that, initially, Peoples included the Commerce Clause in its contentions.  On appeal, it dropped it.  While at first we thought that the two principles were so tied together that we should nevertheless consider it, we have concluded that fairness to the State, and, indeed to us, requires that we do not do so without full briefing and argument.  Accordingly, we apply the general principle and hold the Commerce Clause waived.  Interface Group, Inc. v. Mass.  Port Authority, 816 F.2d 9, 16 (1st Cir.1987).  Since without it Peoples must fail, the decision below is reversed, with judgment for defendants.
+
+    
+
+    
+      
+        1
+         See also Liquor Control Adm.  Reg. 32
+
+      
+
+      
+        2
+         This word is a summary of the court's findings that such studies as were offered were too inconclusive to be relied on
+
+      
+
+    
+
+    
