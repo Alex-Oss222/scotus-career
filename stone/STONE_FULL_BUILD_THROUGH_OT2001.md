@@ -131,6 +131,12 @@ A remedy must address the proved or validly prevented mechanism. Government need
 
 ## OT1992: the 1993 foundation
 
+### Simulation status after completed OT1992
+
+> **Actual simulated law controls the proposals below.** OT1992 established the foundation Stone wanted, most importantly in *Shaw v. Reno*. The Court **affirmed dismissal of the racial-design-only Equal Protection theory, 5–4**, with Stone supplying the controlling distinction between deliberate racial consideration in territorial districting and an independently cognizable constitutional injury. Racial exclusion, intentional dilution, materially unequal participation, inferior civic status, and independent statutory voting-rights claims remain available under their own rules. The federal-official challenge was separately left dismissed, 9–0, under the designated preclearance-review channel. See the [canonical *Shaw* record](../terms/OT1992/records/Shaw_v_Reno_merits_1993-06-28.md).
+>
+> **What Stone banked in OT1992:** a durable injury-first method. Governmental awareness of race is not automatically the legal injury; the Court must identify the right, the treatment imposed on the claimant, and the governing source before choosing scrutiny or relief. Later voting, equality, and remedial cases begin from that rule rather than from historical *Shaw*.
+
 ### Shaw v. Reno, 509 U.S. 630 (1993)
 
 **Historical questions.** Did the complaint state an equal-protection claim against North Carolina's unusually shaped congressional plan, alleged to separate voters predominantly by race? Could the related claims against the federal preclearance officials proceed in this action?
@@ -170,6 +176,12 @@ The holding does not immunize intentional vote dilution, racial exclusion, discr
 **Existing foundations to apply, rather than fictional new grants:** *Growe v. Emison*, 507 U.S. 25, respects timely state redistricting and requires proof of the relevant voting cohesion; *Voinovich*, 507 U.S. 146, separates a statutory duty to create a minority district from permission to do so. *United States v. Fordice*, 505 U.S. 717 (1992), requires dismantling traceable segregative university policies when practicable and educationally sound alternatives exist. These precedents supply starting law. [*Growe*](https://supreme.justia.com/cases/federal/us/507/25/); [*Fordice*](https://supreme.justia.com/cases/federal/us/505/717/).
 
 ## OT1993: decisions principally issued in 1994
+
+### Simulation status after completed OT1993
+
+> **Actual simulated law controls the proposals below.** Stone converted the *Shaw* foundation into a statutory voting-rights framework without turning §2 into a guarantee of proportional representation. In [*Holder v. Hall*](../terms/OT1993/records/Holder_v_Hall_merits_1994-06-30.md), the Court preserved §2 liability and the existing remedial remand **5–4**, while six Justices accepted threshold coverage. In [*Johnson v. De Grandy*](../terms/OT1993/records/Johnson_v_De_Grandy_merits_1994-06-30.md), the Court rejected maximization and reversed the House liability/remedy while affirming the Senate judgment, **7–2 on each disposition**, preserving contextual totality analysis and treating proportionality as relevant but not dispositive. In [*J.E.B. v. Alabama*](../terms/OT1993/records/JEB_v_Alabama_ex_rel_TB_merits_1994-04-19.md), the Court extended equal-protection limits on jury strikes to sex, **7–2**, while keeping sex-equality doctrine distinct from Stone's racial-treatment project.
+>
+> **What Stone banked in OT1993:** statutory voting protection with administrable limits, separation of statutory and constitutional injuries, and a recurring refusal to convert useful evidence or demographic outcomes into automatic legal elements.
 
 ### Holder v. Hall, 512 U.S. 874 (1994)
 
@@ -246,6 +258,16 @@ The holding does not immunize intentional vote dilution, racial exclusion, discr
 **Reasoning.** An injunction directed at particular actors is not automatically viewpoint discrimination, but its burdens must be no greater than necessary to serve the significant interests involved. Proven obstruction and disruption support concrete access protection. They do not authorize suppression of unrelated expression or broad restrictions unsupported by the record. Apply ordinary limits on who is bound by the injunction. [Opinion](https://supreme.justia.com/cases/federal/us/512/753/).
 
 ## OT1994: decisions principally issued in 1995
+
+### Simulation status after completed OT1994
+
+> **Actual simulated law controls the proposals below.** OT1994 produced several of Stone's largest gains, but also one important failure of his preferred program. In [*United States v. Lopez*](../terms/OT1994/records/United_States_v_Lopez_merits_1995-04-26.md), Stone joined the **5–4** Court invalidating the original Gun-Free School Zones Act provision; his broader six-route account of commerce authority remained a separate concurrence rather than the Court's exhaustive test. In [*Missouri v. Jenkins*](../terms/OT1994/records/Missouri_v_Jenkins_merits_1995-06-12.md), the Court **affirmed both reviewed judgments 5–4**, preserving effective desegregation remedies and a genuine route to partial or full release; Stone's joint-development and independent-review model remained a noncontrolling concurrence.
+>
+> In [*Adarand Constructors v. Peña*](../terms/OT1994/records/Adarand_Constructors_Inc_v_Pena_merits_1995-06-12.md), Stone's preferred replacement standard did **not** become law. His authorized Stevens fallback did: the Court **affirmed 5–4** under the inherited federal remedial framework, leaving *Metro Broadcasting* and *Fullilove* operative at their stated federal scope while *Croson* remains distinct state/local law. Later entries must therefore not treat Stone's proposed common racial-treatment standard as an accomplished *Adarand* holding.
+>
+> The reconstructed [*Miller* decision](../terms/OT1994/records/Miller_and_consolidated_merits_1995-06-29.md) then strengthened the *Shaw* line. The Court **affirmed Georgia 5–4** and held that predominant racial consideration in drawing a shared territorial constituency does not by itself establish the asserted Equal Protection deprivation or trigger strict scrutiny. All nine Justices reached the merits, and the Court separately recognized personal standing for voters actually subjected to the challenged assignment. Stone supplied the decisive fifth vote and authored the controlling territorial-design rule. This is now the principal bridge from *Shaw* to the later reconstructed *Vera* standing question.
+>
+> **What Stone banked in OT1994:** a real Commerce Clause boundary, durable remedial authority in desegregation, a stronger territorial-districting doctrine, and several institutionally bounded access and speech rules. **What he did not bank:** his preferred unified affirmative-action standard. That proposal remains Stone's jurisprudential project, not controlling law.
 
 ### Adarand Constructors v. Peña, 515 U.S. 200 (1995)
 
@@ -491,7 +513,17 @@ A release motion does not require the plaintiffs' agreement, the reviewer's endo
 
 ## OT1995: decisions principally issued in 1996
 
+### Simulation status through completed Chunk 7 only
 
+> **Cutoff: June 10, 1996.** This note records only decisions completed through **OT1995 Chunk 7**. It intentionally says nothing about the merits or outcome of Chunks 8–10; every later OT1995 entry below remains prospective unless and until the simulation actually decides it.
+>
+> Stone has already added three important pieces to the long-term build. In [*Morse v. Republican Party of Virginia*](../terms/OT1995/records/Morse_v_Republican_Party_of_Virginia_merits_1996-03-27.md), the Court **reversed and remanded 6–3**: the convention-fee change is subject to §5 and the asserted private §10 action may proceed, while the ultimate legality of the fee remains unresolved. In [*Romer v. Evans*](../terms/OT1995/records/Romer_v_Evans_merits_1996-05-20.md), the Court **affirmed 7–2 on ordinary rational-basis review**, invalidating Amendment 2 without creating a new suspect-classification tier. Together those decisions strengthen Stone's anti-exclusion and private-enforcement architecture without collapsing distinct doctrines into one equality test.
+>
+> [*Seminole Tribe v. Florida*](../terms/OT1995/records/Seminole_Tribe_of_Florida_v_Florida_merits_1996-03-27.md) did **not** produce the sovereign-immunity rule projected in this build. The Governor's categorical immunity dismissal was reversed **5–4**, preserving a bounded prospective officer route under IGRA. The direct-State component produced no controlling amenability rationale: Stone and Stevens would sustain the direct State action; Souter, Ginsburg, and Breyer would set aside the dismissal direction without deciding amenability; O'Connor, Scalia, Kennedy, and Thomas would affirm. Later immunity and enforcement-power cases must begin from that actual fracture rather than from the earlier proposed Article I rule.
+>
+> Chunk 7 itself is complete and validated: **12 merits decisions from May 20 through June 10, 1996**. The run adds *Casarotto*, *Henderson*, *Pinder*, *Ornelas*, *Auciello*, *Loving*, *Quackenbush*, *Smiley*, *Richards*, *Whren*, *Degen*, and *Exxon*. These decisions mostly consolidate Stone's institutional method: distinguish merits from remedy, facts from ultimate legal judgment, statutory rights from available relief, and concrete procedural injury from categorical forfeiture. See the [Chunk 7 release validation](../terms/OT1995/freeze/OT_1995CHUNK7_RELEASE_VALIDATION.md).
+>
+> **Where Stone stands at the Chunk 7 cutoff:** the *Shaw–Miller* territorial line is established; the VRA line has real statutory enforcement through *Holder*, *De Grandy*, and *Morse*; *Romer* adds a bounded anti-exclusion principle; *Lopez* supplies a federal-power limit; *Jenkins* preserves serious remedial authority. The two principal unresolved structural projects are the future shape of affirmative-action doctrine after the *Adarand* fallback and sovereign immunity after the fractured *Seminole Tribe* result. No later OT1995 case is treated here as decided.
 
 ### Bush v. Vera, 517 U.S. 952 (1996)
 
