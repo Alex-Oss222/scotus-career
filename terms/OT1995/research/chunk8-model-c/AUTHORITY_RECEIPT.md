@@ -1,0 +1,27 @@
+# OT1995 chunk 8 C — independent authority research receipt
+
+Preparatory research only. No commitments are frozen and no judgment, petition poll, assignment or source admission is made. Research date: October 7, 2026. Matter cutoffs: June 17 for Melendez, Leavitt and Calderon; June 20 for Gray, whose Teague finality date is separately October 5, 1987. Actual preceding chunk 8 public law remains required.
+
+## Boundary and reading status
+
+Read the four individual validated neutral packets, their linked sanitized C source supplement, HB206 transcription, financial-motion/1995 Rule39 extract, selected relevant portions of the permitted entering-law slice and opening public projection, and date-eligible prior primary authority. No current private material, comparator, reconciliation, combined brief, raw Record, same-case Supreme Court disposition, prohibited directory or Git command was accessed. The first generic Engine read exceeded the assigned section range; root confirmed this exposed no withheld substantive material. General model memory cannot be erased. Large source files were read in relevant bounded sections, not exhaustively.
+
+## Material authority findings
+
+**Melendez.** Actual Wade reserves independent statutory/Guidelines operation while preserving the motion prerequisite and constitutional review. Stinson respects statutory limits; unanimous Neal preserves distinct sentencing measures. Actual Granderson makes residual lenity operative only after a genuine textual/structural ambiguity remains. Stevens's Chapman dissent supplies his own relevant structural-sentencing approach; Breyer's Rivera is a potential departure-authority source. Actual Koon must enter through the forthcoming chronology gate. Test Government authorization of statutory relief against a unified assistance-trigger construction, distinguishing substance from a mandatory second paper or magic citation. No supplied plea breach or unconstitutional motive is found; a contract claim remains independently scoped.
+
+**Leavitt.** Casey's complete six-step framework, Fargo and April15 Miller matter directly. O'Connor, Stevens, Souter, Ginsburg and Breyer adopted the complete approach; Kennedy retained protected choice and care safeguards while rejecting residual lesser-burden review; Scalia and Thomas retained their constitutional disagreement. Dalton requires remedy matched to proved conflict but does not settle Utah severability. Correcting the state-law severability rationale would not resolve the alternative federal objection to a fixed twenty-week rule or grave-health limitation. HB206's section4 and continued section314 references oppose respondents' implied-repeal argument without themselves adjudicating it. Section315 does not silently excuse sections307–308. Both petition questions and the distinct Rule-of-Four/summary-majority thresholds remain live.
+
+**Calderon.** Actual unanimous Church of Scientology and Mills support effectual partial relief despite compliance: eliminating an unperformed retrial obligation can retain a live appeal. Reviewability does not establish entitlement to the writ's reversal, sufficient compliance or any cross-appeal merits. Petition denial for the unpublished, unusual vehicle remains a separate institutional alternative. An unsupported prudential label cannot be substituted for the dismissal's stated mootness ground. The financial motion independently invokes Rule39.1's CJA appointment route; on the unchallenged filed assertion the ordinary affidavit is unnecessary. No financial default, modern prisoner-account rule or missing Supreme Court stay is inferred.
+
+**Gray.** Actual Graham/Caspari require finality-specific comparison, not automatic novelty from disagreement. Gardner's capital opportunity-to-answer rule differs from a universal discovery timetable rejected by Weatherford. Lankford's 1991 majority and dissent help assess the Justices, but are not imported into 1987 law. Actual Simmons supplies its narrower future-danger/parole rule. Kyles includes lawful collective preparation uses; Wood has no merits holding. Tuggle and category-specific Brecht/O'Neal do not already establish a universal collateral error-effect standard.
+
+Crucially, actual Keeney retained Townsend's deliberate-bypass qualification: ordinary negligent factual development of a properly presented claim does not bar a necessary federal hearing. O'Connor wrote that opinion and Stevens/Kennedy joined. Coleman claim default remains distinct. Neither this difference nor a broad due-process label establishes that affirmative deception or Brady was fairly presented.
+
+## Outstanding gate and source requirements
+
+- Receive actual law through June14 before three June17 commitments; receive completed June17 public law before Gray.
+- Receive Gray's corrected clean citation/presentation extraction and fresh validation: full state ClaimIX, federal GroundA, April1 federal denial and amendment, Fourth Circuit brief page30 note10, and any materially adopted Virginia statutory text with its actual temporal operation.
+- Do not infer omission from a bounded source read or apply section8.01-654.1 solely because a filing quotes it. A lawful bounded remand may avoid deciding a still-unsupported predicate; an ultimate default holding cannot.
+
+Detailed preparatory notes and primary-source locators are retained in `tmp/OT1995_CHUNK8_MODEL_C/AUTHORITY_RESEARCH.md`; Lankford majority/dissent text is retained there. Those notes are not a commitment handoff.
