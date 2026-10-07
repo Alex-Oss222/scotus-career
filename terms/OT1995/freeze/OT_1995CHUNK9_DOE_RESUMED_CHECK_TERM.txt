@@ -1,0 +1,3 @@
+Running tools/check_term.py OT1995 with Git object checks explicitly deferred to the operator.
+OK: OT1995; 0 warning(s)
+Git operations: NONE. Commit-existence verification SKIPPED for 206 distinct referenced hashes. All other check_term checks ran unless execution failed earlier; any OK above excludes Git verification.

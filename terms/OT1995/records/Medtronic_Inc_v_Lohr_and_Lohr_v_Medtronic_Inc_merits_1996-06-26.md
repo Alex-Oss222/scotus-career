@@ -13,6 +13,8 @@ All nine seated Justices participate at both milestones, satisfying the six-Just
 
 Research and law cutoff: June 26, 1996, using actual earlier-effective law through June 25. The common PRE_19960626 baseline includes the earlier-effective chunk 9 decisions; same-day Virginia and the chunk 10 peer supply no merits premise. Assignment accounting order does not create substantive priority among those cases.
 
+**Doe completion entering-law note:** The identified snapshot remains the preserved original reading set and predates completion of Doe. Supplemental entering-law review accounts for its June 21 threshold dismissal without importing its unresolved adult-right merits or another same-day peer. It changes no federal-court review, preemption, actual-duty or agency-interpretation premise of these cross-petitions. [Doe completion addendum](../entering-law/OT_1995CHUNK9_DOE_COMPLETION_LAW_ADDENDUM.md) supplies the exact public action and limits; the original snapshot and its recorded hash remain unchanged.
+
 ### Record, claims and procedural limits
 
 The Model 4011 pacemaker lead entered through substantial-equivalence clearance rather than premarket approval. The November 30, 1982 FDA letter permitted marketing subject to general controls and expressly did not endorse safety. Lora Lohr received the pacemaker in 1987; its failure in December 1990 required emergency surgery. Her physician attributed the failure to a likely lead defect. Defective design, manufacture and warnings remain allegations; neither the physician's account nor the permission to market establishes final causation or liability.

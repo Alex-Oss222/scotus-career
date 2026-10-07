@@ -1,0 +1,102 @@
+
+AUTHORIZED INTERNAL DIFF FOR OPERATOR NOTE-SCOPE REVIEW: Baby_Richard_v_Kirchner_merits_1996-06-21.md
+--- before
++++ after
+@@ -12,5 +12,5 @@
+ The question is whether the child's own due-process interest requires consideration of serious avoidable harm from the manner of implementing a lawful custody transfer. The state court actually rejected the child's federal interest at 164 Ill. 2d 499-501. The recovered petition's pages 26 and 28-29 support the narrower implementation argument even when transfer itself is proper. That argument is within the decided claim. The underlying state custody entitlement does not insulate the challenged means of implementation from federal review. Ankenbrandt's limited diversity exception does not bar this section 1257 proceeding. All nine Justices reach this question; that agreement is not agreement on its merits.
+ 
+-The accepted reconstruction establishes that Richard remains with the Does on June 21, 1996 and initial transfer is pending. It establishes a live controversy, not an earlier Supreme Court stay or actual serious harm. The separate Doe matter, Illinois No. 76063, is not adjudicated here and supplies no same-day precedent. No result, vote or final procedural event is attributed to that stopped matter.
++The accepted reconstruction establishes that Richard remains with the Does on June 21, 1996 and initial transfer is pending. It establishes a live controversy, not an earlier Supreme Court stay or actual serious harm. The separate Doe matter, Illinois No. 76063, is not adjudicated here and supplies no same-day entering precedent. Its separately completed June 21 threshold dismissal leaves the adoption judgment undisturbed and reaches no adult-custody merits. Both decisions retain the common pre-June21 baseline; this Record derives neither its jurisdiction nor its implementation holding from Doe.
+ 
+ ### Participation and entering law
+
+AUTHORIZED INTERNAL DIFF FOR OPERATOR NOTE-SCOPE REVIEW: Gasperini_v_Center_for_Humanities_Inc_merits_1996-06-24.md
+--- before
++++ after
+@@ -18,5 +18,5 @@
+ ### Operative sources and entering law
+ 
+-The frozen neutral packet, clean state-law return, independent commitments and supplement, and final reconciliation supply the staged inputs. PRE_19960624 supplies the common earlier-effective law. No June 24 peer supplies precedent through completion or file order; the stopped Doe matter supplies none.
++The frozen neutral packet, clean state-law return, independent commitments and supplement, and final reconciliation supply the staged inputs. PRE_19960624 supplies the common earlier-effective law. No June 24 peer supplies entering precedent through completion or file order. The preserved snapshot predates completion of Doe; supplemental entering-law review accounts for its June 21 threshold dismissal, which creates no Erie, compensation or reexamination rule material here. [Doe completion addendum](../entering-law/OT_1995CHUNK9_DOE_COMPLETION_LAW_ADDENDUM.md) preserves its exact public action and limits.
+ 
+ The relevant section 5501(c) direction concerns review of a money judgment in its itemized-verdict setting, where excessiveness or inadequacy is claimed and conditional new-trial relief is sought unless a different award is stipulated. It directs the Appellate Division to use material deviation from reasonable compensation. That enacted named-actor direction remains distinct from Inya, Cochetti and Shurgan's authoritative application of the same measure at trial. Their trial intervention remains discretionary and sparing, and their particular injury awards supply no photographic valuation. Neither text nor construction supplies a fixed dollar cap.
+
+AUTHORIZED INTERNAL DIFF FOR OPERATOR NOTE-SCOPE REVIEW: Lewis_v_Casey_merits_1996-06-24.md
+--- before
++++ after
+@@ -23,4 +23,6 @@
+ 
+ The common PRE_19960624 projection and ACCESS_LAW slice govern. No June 24 peer supplies entering law. Bounds and Murray preserve meaningful access and effective alternatives; Turner supplies legitimate-penological-interest review. Actual Lujan preserves personal injury and stage-appropriate proof. Actual Jenkins permits necessary means of repairing a proved wrong without making each implementation measure a freestanding right. Actual Sandin preserves genuinely constrained meaningful state-created liberty; its historical contrary replacement test is not current law. Madsen's speech-injunction standard is not the PLRA's least-intrusive command. Baby Richard supplies no automatic prison-access test.
++
++**Doe completion entering-law note:** The identified snapshot remains the preserved original reading set and predates completion of Doe. Supplemental entering-law review accounts for its June 21 threshold dismissal without importing its unresolved adult-right merits or another same-day peer. It creates no Article III or prison-access rule and decides no family-status merits. [Doe completion addendum](../entering-law/OT_1995CHUNK9_DOE_COMPLETION_LAW_ADDENDUM.md) supplies the exact public action and limits; the original snapshot and its recorded hash remain unchanged.
+ 
+ The original April 26, 1996 PLRA section 802 applies to prospective relief granted before, on or after enactment. The original current OR ongoing language and all operative motion, findings, safety, state-law and master conditions remain intact. This prison-conditions action is not an excluded habeas proceeding merely because assistance can facilitate habeas litigation.
+
+AUTHORIZED INTERNAL DIFF FOR OPERATOR NOTE-SCOPE REVIEW: Lewis_v_United_States_merits_1996-06-24.md
+--- before
++++ after
+@@ -20,5 +20,5 @@
+ The frozen neutral packet and final PRE_19960624 neutral projection supply the baseline. Relevant authority is reproduced in JUNE24_CRIMINAL_LAW. Blanton and actual Nachtigal preserve a rebuttable petty-offense presumption: additional authorized penalties must be considered with incarceration, and can establish seriousness if sufficiently severe to clearly reflect the legislature's judgment. Fines and probation are not universally excluded. Nachtigal's particular penalty package does not determine aggregation. Codispoti and Taylor preserve distinct contempt rules. Actual Bagwell protects against serious criminal contempt without providing a universal statutory aggregation test. Actual Gaudin assigns elements to an entitled jury, not every petty prosecution to a jury.
+ 
+-Actual Markman, Rutledge and the complete earlier-effective June 20/21 group supply no intervening aggregation or cap holding. Rutledge's included-agreement problem is not established here. CF&I does not adopt a constitutional punishment classification; Baby Richard supplies no general loss-balancing rule. No same-day peer supplies precedent, and the stopped Doe matter supplies none.
++Actual Markman, Rutledge and the complete earlier-effective June 20/21 group supply no intervening aggregation or cap holding. Rutledge's included-agreement problem is not established here. CF&I does not adopt a constitutional punishment classification; Baby Richard supplies no general loss-balancing rule. No same-day peer supplies entering precedent. The preserved snapshot predates completion of Doe; supplemental entering-law review accounts for its June 21 threshold dismissal, which reaches no adult-custody merits and creates no jury, aggregation or cap rule material here. [Doe completion addendum](../entering-law/OT_1995CHUNK9_DOE_COMPLETION_LAW_ADDENDUM.md) preserves its exact public action and limits.
+ 
+ ### Stone's fixed position and mechanism
+
+AUTHORIZED INTERNAL DIFF FOR OPERATOR NOTE-SCOPE REVIEW: Medtronic_Inc_v_Lohr_and_Lohr_v_Medtronic_Inc_merits_1996-06-26.md
+--- before
++++ after
+@@ -13,4 +13,6 @@
+ 
+ Research and law cutoff: June 26, 1996, using actual earlier-effective law through June 25. The common PRE_19960626 baseline includes the earlier-effective chunk 9 decisions; same-day Virginia and the chunk 10 peer supply no merits premise. Assignment accounting order does not create substantive priority among those cases.
++
++**Doe completion entering-law note:** The identified snapshot remains the preserved original reading set and predates completion of Doe. Supplemental entering-law review accounts for its June 21 threshold dismissal without importing its unresolved adult-right merits or another same-day peer. It changes no federal-court review, preemption, actual-duty or agency-interpretation premise of these cross-petitions. [Doe completion addendum](../entering-law/OT_1995CHUNK9_DOE_COMPLETION_LAW_ADDENDUM.md) supplies the exact public action and limits; the original snapshot and its recorded hash remain unchanged.
+ 
+ ### Record, claims and procedural limits
+
+AUTHORIZED INTERNAL DIFF FOR OPERATOR NOTE-SCOPE REVIEW: Settle_v_Dickson_County_School_Board_merits_1996-06-25.md
+--- before
++++ after
+@@ -27,4 +27,6 @@
+ 
+ The common PRE_19960625 neutral projection and JUNE25_SETTLE_LAW supply the entering baseline, including earlier-effective June 20-24 public law. No June 26 decision enters this event. The later access, prison, compensation, punishment and statutory decisions do not substitute for the school-speech and causation rules.
++
++**Doe completion entering-law note:** The identified snapshot remains the preserved original reading set and predates completion of Doe. Supplemental entering-law review accounts for its June 21 threshold dismissal without importing its unresolved adult-right merits or another same-day peer. It decides no school-speech, causation, proof, qualified-immunity or remedial question material here. [Doe completion addendum](../entering-law/OT_1995CHUNK9_DOE_COMPLETION_LAW_ADDENDUM.md) supplies the exact public action and limits; the original snapshot and its recorded hash remain unchanged.
+ 
+ Hazelwood permits control reasonably related to legitimate pedagogy; this teacher-only graded assignment retains substantial curricular authority without presumed public attribution. Tinker creates no unrestricted topic choice. Actual Lamb's Chapel, Rosenberger and Good News preserve genuine activity limits and protection for an otherwise admitted religious perspective in their actual programs. They do not themselves classify this assignment as a forum. Epperson, Lee and actual Sherman distinguish academic study from official religious teaching or worship. Actual Waters supplies genuine-reliance and causation distinctions, with its separate coalitions and safe harbors intact, not a school investigation checklist. Mt. Healthy preserves the claimant's protected-conduct and motivating-factor burden and defendants' separate preponderance same-decision burden.
+
+AUTHORIZED INTERNAL DIFF FOR OPERATOR NOTE-SCOPE REVIEW: United_States_v_Ursery_and_United_States_Currency_merits_1996-06-24.md
+--- before
++++ after
+@@ -12,5 +12,5 @@
+ Both dockets arrive by certiorari under 28 U.S.C. section 1254(1). All nine seated Justices participate at argument and decision, satisfying the six-Justice quorum. Five participating votes are required for each merits judgment and controlling proposition. The component judgments and five-Justice Court opinion satisfy that threshold.
+ 
+-The frozen neutral packet, current criminal-law slice and common PRE_19960624 projection supply entering law. Gray and all four earlier-effective chunk 9 decisions are included; June 24 peers are excluded. Research and substantive-law cutoff: June 24, 1996. Actual Dixon retains Grady; actual Austin, Kurth Ranch, Witte, Bennis, Libretti and James Daniel Good apply within their actual holdings. The CF&I bankruptcy classification does not decide constitutional punishment.
++The frozen neutral packet, current criminal-law slice and common PRE_19960624 projection supply entering law. Gray and the four chunk 9 decisions completed before this original reading are included in the preserved snapshot; June 24 peers are excluded. The subsequently completed Doe threshold dismissal is also effective June 21 and is accounted for by supplemental entering-law review. It creates no forfeiture, punishment, attachment or property rule and changes no ground of this decision. [Doe completion addendum](../entering-law/OT_1995CHUNK9_DOE_COMPLETION_LAW_ADDENDUM.md) preserves its exact public action and limits. Research and substantive-law cutoff: June 24, 1996. Actual Dixon retains Grady; actual Austin, Kurth Ranch, Witte, Bennis, Libretti and James Daniel Good apply within their actual holdings. The CF&I bankruptcy classification does not decide constitutional punishment.
+ 
+ Published lower opinions establish the operative record and remaining appellate grounds. Ursery's consent judgment entered May 24, 1993; he paid $13,250 on June 17; his jury trial began June 30. The indictment's earlier filing is distinct from attachment of trial jeopardy. The Sixth Circuit rejected the Government's procedural waiver argument because the trial court addressed the issue and found cause under then-Rule 12(f); the merits remain reachable. Settlement consent and coordinated proceedings were alternative merits arguments, not established waivers. Remaining criminal appellate claims were not reached.
+
+AUTHORIZED INTERNAL DIFF FOR OPERATOR NOTE-SCOPE REVIEW: United_States_v_Virginia_and_Virginia_v_United_States_merits_1996-06-26.md
+--- before
++++ after
+@@ -11,4 +11,6 @@
+ 
+ The material entering law is the coordinated OT1994 close through June 29, 1995, as supplied in the authorized reading slice, plus effective OT1995 law through June 25, 1996. The operative common snapshot is `../entering-law/OT_1995CHUNK9_PRE_19960626_NEUTRAL_PROJECTION.md`, SHA-256 `27D0FB1EEE217DBA85AB8AEBE722768833B6C92BB7F66BE40709408D721EC181`. The opening slice is `../entering-law/OT_1995CHUNK9_JUNE26_VIRGINIA_LAW.md`, SHA-256 `61F7E7E93072AB33C5C660B90C808CB88BF9B0E193B0A425B0EF14C89B69889F`. These derived copies are not independent authority. No same-day Medtronic doctrine enters; assignment accounting establishes no merits sequence.
++
++**Doe completion entering-law note:** The identified snapshot remains the preserved original reading set and predates completion of Doe. Supplemental entering-law review accounts for its June 21 threshold dismissal without importing its unresolved adult-right merits or another same-day peer. It changes no jurisdiction, equal-protection, educational-opportunity or remedial premise of these federal cross-petitions. [Doe completion addendum](../entering-law/OT_1995CHUNK9_DOE_COMPLETION_LAW_ADDENDUM.md) supplies the exact public action and limits; the original snapshot and its recorded hash remain unchanged.
+ 
+ Craig and Hogan supply the established sex-classification test. Actual J.E.B., Kelley and Klinger preserve the State's substantial-fit burden and attention to individual opportunity while allowing supported differences; the express bar does not require the separate purpose showing for a genuinely neutral decision. Actual Jenkins and Lewis v. Casey inform effective relief within the proved wrong and State choice. Settle does not immunize a constitutional classification merely because it is called pedagogical, but its speech and mixed-motive rules do not transfer. None of the other June 20–25 events changes the present test. The historical Virginia decision is comparator evidence only.
+
+FINAL DOE SCOPE CHECK
+CHECK: 117 old Records: only 8 authorized internal changes; exact old Case/Event/Result/Public Projection preservation checked
+CHECK: Case-list, all old output files, and 55 snapshotted freeze artifacts are byte-identical; output file set unchanged
+CHECK: Existing runtime changes limited to approved filenames: none
+CHECK: Chunk 9 has twelve unique Record-identical projections; old eleven event projections and every other Render Input remain unchanged
+CHECK: Manifest preserves all 115 scheduled rows and date/order cells; only Doe completion status/current-stage cells may change
+CHECK: Ledger has 117 prior rows with preserved provenance plus Doe as uncommitted; all current opening-label projections match Records
+CHECK: Approved brief matches independently supplied mid-task SHA-256
+CHECK: Common June 21 entering baseline matches supplied validated SHA-256
+LIMIT: The supplied brief hash was observed mid-task; it does not establish task-start byte identity.
+LIMIT: Exact internal diffs above require operator confirmation as authorized entering-law/lineage notes. This script does not decide material legal dependence, vote arithmetic, or substantive compatibility.
+LIMIT: No Git operation or commit verification was performed. Run the no-Git check_term adapter separately for the repository's remaining deterministic checks.
+PASS: all requested structural and byte-preservation checks passed, subject to the stated limits.

@@ -4,7 +4,7 @@
 
 ## 1. Scope and Chronology Cursor
 
-**Posture:** 108 completed Court events and nine admitted noncase-law sources (117 canonical Records). Current Court-event cutoff: 1996-06-26. Chunk 9 has 11 completed Court events and 1 stopped matter(s). Its June20 peers used the preserved common pre-June20 baseline, excluding Gray and one another; later date groups used every completed earlier-effective Record. The coordinated June21 matters share one baseline; Baby Richard is decided and Doe remains open without a judgment. The [common pre-June26 baseline](../entering-law/OT_1995CHUNK9_PRE_19960626_NEUTRAL_PROJECTION.md) governs the June26 peer in chunk 10, excluding the June26 chunk9 decisions. Jones's financial-leave motion and petition, Wood's plenary grant, Maine No.35 and Louisiana No.121 implementation, the five inherited open matters, and Shieh's three separate certiorari petitions remain open. No transmission, service, expiration, execution or other unentered external event is presumed. Records control over these projections. Operator verification and commit remain pending; public rendering is a separate task. Stopped matters remain open: Doe v. Kirchner (In re Petition of Doe): The record does not establish presentation or passage upon the Does' own independent federal right to preserve adoption or permanent custody in Illinois No. 76063. A state submission, state-court adjudication, or supported published recitation establishing that presentation is needed. The recovered Stanley/Lehr federal-minimum argument and the later No. 78101 proceeding cannot substitute; no forfeiture or Court disposition is inferred.
+**Posture:** 109 completed Court events and nine admitted noncase-law sources (118 canonical Records). Current Court-event cutoff: 1996-06-26. Chunk 9 has 12 completed Court events and no stopped matters. Its June20 peers used the preserved common pre-June20 baseline, excluding Gray and one another. The coordinated June21 matters retain their common pre-June21 baseline and distinct judgments; Doe is complete without an adult-right merits ruling. The later completed Records have been checked for material dependence and retain their results and reasoning. The preserved [common pre-June26 baseline](../entering-law/OT_1995CHUNK9_PRE_19960626_NEUTRAL_PROJECTION.md), together with the [Doe completion addendum](../entering-law/OT_1995CHUNK9_DOE_COMPLETION_LAW_ADDENDUM.md), governs the June26 peer in chunk 10, excluding the June26 chunk9 decisions. Jones's financial-leave motion and petition, Wood's plenary grant, Maine No.35 and Louisiana No.121 implementation, the five inherited open matters, and Shieh's three separate certiorari petitions remain open. No transmission, service, expiration, execution or other unentered external event is presumed. Records control over these projections. Operator verification and commit remain pending; public rendering is a separate task.
 
 OCC §7.4001(a)–(d) is additionally admitted at its April 1, 1996 effective date after the bounded insertion review found no material effect on the 17 completed April 1–May 20 Court events. This eighth source changes no completed Court Record or pending stage. February 9 publication is distinct from April 1 effectiveness; source admission itself adjudicated no special retroactivity or earlier-case application. Smiley subsequently supplies its own qualified judicial use of the interpretation for antecedent transactions without backdating the rule. The Richards/Whren/Degen/Exxon group was completed in chunk 7 on June 10; the earlier Romer/BMW/Henderson/Casarotto May 20 group retains its common May 13 entering law without a same-day peer dependency. [Insertion review](../freeze/OT_1995CHUNK7_OCC_INSERTION_REVIEW.md).
 
@@ -312,6 +312,8 @@ Richards, Whren, Degen and Exxon completed the chunk 7 Court actions scheduled f
 | 1996-06-20 | [Lane v. Peña, No. 95-365; October Term 1995.](../records/Lane_v_Pena_merits_1996-06-20.md) | Affirmed, 7–2, on the federal compensatory-damages waiver question; existing reinstatement undisturbed. |
 | 1996-06-20 | [United States v. Reorganized CF&I Fabricators of Utah, Inc., No. 95-325; October Term 1995.](../records/United_States_v_Reorganized_CFI_Fabricators_of_Utah_Inc_merits_1996-06-20.md) | Vacated and remanded; denial of excise-tax priority preserved, 8-1; stated equitable subordination rejected, 9-0. |
 | 1996-06-21 | [Baby Richard, by his guardian ad litem, v. Kirchner (In re Petition of Kirchner); Illinois Supreme Court No. 78101, 164 Ill. 2d 468, 649 N.E.2d 324 (1995); October Term 1995.](../records/Baby_Richard_v_Kirchner_merits_1996-06-21.md) | Vacated in part and remanded, 5-4, solely on the child's independent implementation claim; the adoption's invalidation and Kirchner's lawful custody entitlement remain intact. |
+| 1996-06-21 | [Doe v. Kirchner (In re Petition of Doe); Illinois Supreme Court No. 76063, 159 Ill. 2d 347, 638 N.E.2d 181 (1994). No separate Supreme Court docket is supplied.](../records/Doe_v_Kirchner_review_dismissal_1996-06-21.md) | Existing writ dismissed as improvidently granted. All nine support terminating review by dismissal and leaving the Illinois judgment undisturbed; eight adopt the prudential disposition and explanation, while Chief Justice Stone-Zsela concurs in the judgment on his distinct want-of-jurisdiction ground. No adoption or custody merits are decided. |
+
 | 1996-06-24 | [Gasperini v. Center for Humanities, Inc., No. 95-719, 518 U.S. 415; October Term 1995.](../records/Gasperini_v_Center_for_Humanities_Inc_merits_1996-06-24.md) | Vacated and remanded, 6-3, for district-court application of New York's material-deviation standard and appellate review for abuse of discretion; no damages amount is selected. |
 | 1996-06-24 | [Lewis v. Casey, No. 94-1511, 518 U.S. 343; October Term 1995.](../records/Lewis_v_Casey_merits_1996-06-24.md) | Unsupported classwide approval set aside, 8-1; prospective-decree approval set aside and remanded, 9-0 on distinct grounds, preserving the demonstrated access wrong and supported findings. |
 | 1996-06-24 | [Lewis v. United States, No. 95-6465, 518 U.S. 322; October Term 1995.](../records/Lewis_v_United_States_merits_1996-06-24.md) | Affirmed, 7-2, with no majority rationale for affirmance; five Justices separately support the exact aggregate-imprisonment prohibition stated below. |
@@ -3650,6 +3652,36 @@ The child now has the bounded liberty interest and opportunity described in Part
 The lawful parental entitlement remains controlling as to permanent custody. Ordinary grief, a preferable-home claim or an unsupported demand for delay supplies no right to renewed custody litigation. Protective measures require support in the actual circumstances and must remain necessary to lawful implementation. The earlier termination, institutional-custody, abuse-proof and individual-immunity rules retain their own scopes.
 
 
+#### Doe v. Kirchner (In re Petition of Doe); Illinois Supreme Court No. 76063, 159 Ill. 2d 347, 638 N.E.2d 181 (1994). No separate Supreme Court docket is supplied. — 1996-06-21
+
+Authority: [Doe v. Kirchner (In re Petition of Doe); Illinois Supreme Court No. 76063, 159 Ill. 2d 347, 638 N.E.2d 181 (1994). No separate Supreme Court docket is supplied.](../records/Doe_v_Kirchner_review_dismissal_1996-06-21.md).
+
+##### Holdings
+
+**Disposition and operative limit:** The Court dismisses this writ as improvidently granted because the original petition and published adoption judgment are unsuitable vehicles for deciding the selected independent constitutional entitlement of the prospective adoptive parents. This case-specific exercise of certiorari discretion leaves that entitlement and its state-court presentation unresolved; it neither affirms the adoption judgment's merits nor establishes a substantive rule of family law.
+
+**Authority:** O'Connor's Opinion of the Court, joined in full by the seven Associate Justices named in Opinion Topology, supplies eight direct votes for this prudential disposition and complete explanation. The Chief Justice's different jurisdictional ground is noncontrolling; no combination of separate rationales is required.
+
+**Controlling explanation:** The original petition asks whether Stanley and Lehr required Illinois to protect the father's opportunity under its thirty-day termination rule. The question selected here instead asks whether the prospective adoptive parents have an independent federal right to overcome Illinois' consent and unfitness requirements. Federal permission for Illinois to choose a different rule would not establish a constitutional obligation to recognize that adult entitlement. The published adoption decision resolves the state statutory and evidentiary predicates without analyzing the separate entitlement.
+
+Yee distinguishes a claim, its supporting arguments, and the question presented. Izumi preserves discretion to decline a distinct question, including its allowance for exceptional review. Lebron permits an included argument supporting the same preserved claim on an established record; it does not require adjudication of every related constitutional inquiry. Tacon confirms that the Court may withdraw certiorari review when the question actually presented by the vehicle does not justify continuing it; its different finding of nonpresentation is not a finding here.
+
+The Court already selected the adults' question and could retain review on an appropriate basis. A federal contention does not become unreviewable merely because the state opinion does not discuss it. Those considerations permit continued review; they do not require it. The demonstrated difference between the original questions, the published judgment's analysis, and the constitutional inquiry selected here warrants withdrawal.
+
+The Court makes no finding that the adults failed to present, waived, or abandoned their independent claim. Establishing presentation could matter to a different discretionary assessment but would not alter the original questions or published analysis. Nor does an independent state ground automatically defeat a federal challenge to that ground's validity. The Court adopts no jurisdictional dismissal, compulsory-DIG rule, or requirement that state courts write on every federal contention. It decides neither the adult entitlement nor the child's separate claim.
+
+##### Precedent Treatment
+
+- **Yee v. City of Escondido, 503 U.S. 519:** Applies the distinction between claims, supporting arguments, and questions presented; does not decide the jurisdictional or prudential character of an unestablished nonpresentation here.
+- **Izumi Seimitsu Kogyo Kabushiki Kaisha v. U.S. Philips Corp., 510 U.S. 27:** Applies its prudential question distinction while preserving exceptional review. The prior selection of this question is not nullified or treated as mechanically requiring dismissal.
+- **Lebron v. National Railroad Passenger Corp., February 21, 1995:** Distinguishes its permitted included argument for the same preserved claim on an established record. Its discretionary rule and limits remain unchanged.
+- **Tacon v. Arizona, 410 U.S. 351:** Applies the availability of dismissal as improvidently granted; does not transplant its finding that the broader questions were not presented below.
+- **Michigan v. Long, 463 U.S. 1032, and Arizona v. Evans, March 1, 1995:** Leave intact review of a judgment fairly appearing substantially federal or interwoven with federal law when no adequate independent ground is clear. The present dismissal adopts no different jurisdictional presumption.
+
+##### Law After Decision
+
+Existing rules governing certiorari discretion, federal-question presentation, and independent state grounds remain unchanged. The dismissal determines no constitutional entitlement of the prospective adoptive parents, no general rule favoring biological or nonbiological parents, and no constitutional thirty-day termination rule. It creates no new proof burden or transition requirement. Leaving the Illinois judgment undisturbed gives it no federal merits endorsement.
+
 #### Gasperini v. Center for Humanities, Inc., No. 95-719, 518 U.S. 415; October Term 1995. — 1996-06-24
 
 Authority: [Gasperini v. Center for Humanities, Inc., No. 95-719, 518 U.S. 415; October Term 1995.](../records/Gasperini_v_Center_for_Humanities_Inc_merits_1996-06-24.md).
@@ -4938,6 +4970,21 @@ Mathews selects process for an established interest; the practicality of a modes
 The dissent would affirm the reviewed federal judgment while leaving humane state-law implementation measures available. It does not infer that Richard will be unharmed, endorse every abrupt transfer, require a factually identical historical precedent, or foreclose a different independently supported constitutional injury. Its common rationale does not adopt Michael H.'s most-specific-tradition method. The disagreement is with the protected-interest predicate here, not with the father's obligation to comply with otherwise lawful child-protection measures.
 
 
+#### Doe v. Kirchner (In re Petition of Doe); Illinois Supreme Court No. 76063, 159 Ill. 2d 347, 638 N.E.2d 181 (1994). No separate Supreme Court docket is supplied. — 1996-06-21
+
+Authority: [Doe v. Kirchner (In re Petition of Doe); Illinois Supreme Court No. 76063, 159 Ill. 2d 347, 638 N.E.2d 181 (1994). No separate Supreme Court docket is supplied.](../records/Doe_v_Kirchner_review_dismissal_1996-06-21.md).
+
+##### Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | O'Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Supports dismissal as improvidently granted | Complete prudential explanation and its limits; no constitutional merits or whole-review jurisdictional holding |
+| Concurrence in the judgment | Stone-Zsela | No other Justice | Supports terminal dismissal on a different ground | Want of jurisdiction under §1257; no join in the Court's prudential rationale |
+
+##### Separate Writings
+
+Chief Justice Stone-Zsela concurs in the judgment alone. He would dismiss for want of jurisdiction because, in his view, no federal question was raised in or decided by the Illinois courts in No. 76063 as 28 U.S.C. §1257 requires. He leaves the adoption judgment standing without reaching its merits and preserves the child's distinct challenge concerning the manner of transition. This jurisdictional assessment is his separate ground; the Court does not adopt it.
+
 #### Gasperini v. Center for Humanities, Inc., No. 95-719, 518 U.S. 415; October Term 1995. — 1996-06-24
 
 Authority: [Gasperini v. Center for Humanities, Inc., No. 95-719, 518 U.S. 415; October Term 1995.](../records/Gasperini_v_Center_for_Humanities_Inc_merits_1996-06-24.md).
@@ -5465,6 +5512,14 @@ The case returns to the Illinois Supreme Court for prompt proceedings confined t
 No fixed timetable, particular professional appointment, continuing visitation arrangement or additional Supreme Court event is ordered. The Court's judgment establishes no prior stay, actual injury, completed transfer or need for a return transfer.
 
 
+#### Doe v. Kirchner (In re Petition of Doe); Illinois Supreme Court No. 76063, 159 Ill. 2d 347, 638 N.E.2d 181 (1994). No separate Supreme Court docket is supplied. — 1996-06-21
+
+Authority: [Doe v. Kirchner (In re Petition of Doe); Illinois Supreme Court No. 76063, 159 Ill. 2d 347, 638 N.E.2d 181 (1994). No separate Supreme Court docket is supplied.](../records/Doe_v_Kirchner_review_dismissal_1996-06-21.md).
+
+##### Procedure After Action
+
+This Supreme Court review ends. The Illinois adoption judgment remains undisturbed, without a new federal remand or implementation direction. The separate child's proceeding is unaffected by this dismissal. No further Supreme Court act or deadline is set, and no assurance is given that another procedural route is available.
+
 #### Gasperini v. Center for Humanities, Inc., No. 95-719, 518 U.S. 415; October Term 1995. — 1996-06-24
 
 Authority: [Gasperini v. Center for Humanities, Inc., No. 95-719, 518 U.S. 415; October Term 1995.](../records/Gasperini_v_Center_for_Humanities_Inc_merits_1996-06-24.md).
@@ -5624,7 +5679,7 @@ The judgment relies on the supported submitted undertakings, assumed stricter du
 
 ### Chunk 9 blockers
 
-- **Doe v. Kirchner (In re Petition of Doe):** The record does not establish presentation or passage upon the Does' own independent federal right to preserve adoption or permanent custody in Illinois No. 76063. A state submission, state-court adjudication, or supported published recitation establishing that presentation is needed. The recovered Stanley/Lehr federal-minimum argument and the later No. 78101 proceeding cannot substitute; no forfeiture or Court disposition is inferred.
+No stopped matter remains in chunk 9. Doe is completed in its original June 21 slot; [dependency review](../freeze/OT_1995CHUNK9_DOE_RESUMED_DEPENDENCE.md) preserves all later adjudications. Adult-claim presentation remains undecided by the Court and does not prevent its final vehicle disposition.
 
 ## 7. Source and Research Cutoff
 
@@ -6608,6 +6663,8 @@ Affirmative misrepresentation is a distinct allegation requiring an actual assur
 - [Lane v. Peña, No. 95-365; October Term 1995.](../records/Lane_v_Pena_merits_1996-06-20.md); [verbatim public reading copy](../entering-law/PUBLIC_Lane_v_Pena_merits_1996-06-20.md).
 - [United States v. Reorganized CF&I Fabricators of Utah, Inc., No. 95-325; October Term 1995.](../records/United_States_v_Reorganized_CFI_Fabricators_of_Utah_Inc_merits_1996-06-20.md); [verbatim public reading copy](../entering-law/PUBLIC_United_States_v_Reorganized_CFI_Fabricators_of_Utah_Inc_merits_1996-06-20.md).
 - [Baby Richard, by his guardian ad litem, v. Kirchner (In re Petition of Kirchner); Illinois Supreme Court No. 78101, 164 Ill. 2d 468, 649 N.E.2d 324 (1995); October Term 1995.](../records/Baby_Richard_v_Kirchner_merits_1996-06-21.md); [verbatim public reading copy](../entering-law/PUBLIC_Baby_Richard_v_Kirchner_merits_1996-06-21.md).
+- [Doe v. Kirchner (In re Petition of Doe); Illinois Supreme Court No. 76063, 159 Ill. 2d 347, 638 N.E.2d 181 (1994). No separate Supreme Court docket is supplied.](../records/Doe_v_Kirchner_review_dismissal_1996-06-21.md); [verbatim public reading copy](../entering-law/PUBLIC_Doe_v_Kirchner_review_dismissal_1996-06-21.md).
+
 - [Gasperini v. Center for Humanities, Inc., No. 95-719, 518 U.S. 415; October Term 1995.](../records/Gasperini_v_Center_for_Humanities_Inc_merits_1996-06-24.md); [verbatim public reading copy](../entering-law/PUBLIC_Gasperini_v_Center_for_Humanities_Inc_merits_1996-06-24.md).
 - [Lewis v. Casey, No. 94-1511, 518 U.S. 343; October Term 1995.](../records/Lewis_v_Casey_merits_1996-06-24.md); [verbatim public reading copy](../entering-law/PUBLIC_Lewis_v_Casey_merits_1996-06-24.md).
 - [Lewis v. United States, No. 95-6465, 518 U.S. 322; October Term 1995.](../records/Lewis_v_United_States_merits_1996-06-24.md); [verbatim public reading copy](../entering-law/PUBLIC_Lewis_v_United_States_merits_1996-06-24.md).
@@ -6615,3 +6672,5 @@ Affirmative misrepresentation is a distinct allegation requiring an actual assur
 - [Settle v. Dickson County School Board; Sixth Circuit No. 93-6207, 53 F.3d 152 (1995); October Term 1995.](../records/Settle_v_Dickson_County_School_Board_merits_1996-06-25.md); [verbatim public reading copy](../entering-law/PUBLIC_Settle_v_Dickson_County_School_Board_merits_1996-06-25.md).
 - [Medtronic, Inc. v. Lohr; Lohr v. Medtronic, Inc.; Nos. 95-754 and 95-886; October Term 1995.](../records/Medtronic_Inc_v_Lohr_and_Lohr_v_Medtronic_Inc_merits_1996-06-26.md); [verbatim public reading copy](../entering-law/PUBLIC_Medtronic_Inc_v_Lohr_and_Lohr_v_Medtronic_Inc_merits_1996-06-26.md).
 - [United States v. Virginia, No. 94-1941; Virginia v. United States, No. 94-2107; 518 U.S. 515.](../records/United_States_v_Virginia_and_Virginia_v_United_States_merits_1996-06-26.md); [verbatim public reading copy](../entering-law/PUBLIC_United_States_v_Virginia_and_Virginia_v_United_States_merits_1996-06-26.md).
+
+Resumed Doe preparation and final stage provenance: [control receipt](../freeze/OT_1995CHUNK9_DOE_RESUMED_CONTROL.md), [new independent commitments](../freeze/OT_1995CHUNK9_DOE_RESUMED_COMMITMENTS.md), [new reconciliation](../freeze/OT_1995CHUNK9_DOE_RESUMED_RECONCILED.md). The older stopped handoffs and withdrawn provisional dismissal remain preserved history, not operative votes or a current blocker. No Git provenance is newly verified.

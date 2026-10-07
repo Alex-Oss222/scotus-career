@@ -17,7 +17,7 @@ The lower court separately sustained admissibility of industry-standard evidence
 
 ### Operative sources and entering law
 
-The frozen neutral packet, clean state-law return, independent commitments and supplement, and final reconciliation supply the staged inputs. PRE_19960624 supplies the common earlier-effective law. No June 24 peer supplies precedent through completion or file order; the stopped Doe matter supplies none.
+The frozen neutral packet, clean state-law return, independent commitments and supplement, and final reconciliation supply the staged inputs. PRE_19960624 supplies the common earlier-effective law. No June 24 peer supplies entering precedent through completion or file order. The preserved snapshot predates completion of Doe; supplemental entering-law review accounts for its June 21 threshold dismissal, which creates no Erie, compensation or reexamination rule material here. [Doe completion addendum](../entering-law/OT_1995CHUNK9_DOE_COMPLETION_LAW_ADDENDUM.md) preserves its exact public action and limits.
 
 The relevant section 5501(c) direction concerns review of a money judgment in its itemized-verdict setting, where excessiveness or inadequacy is claimed and conditional new-trial relief is sought unless a different award is stipulated. It directs the Appellate Division to use material deviation from reasonable compensation. That enacted named-actor direction remains distinct from Inya, Cochetti and Shurgan's authoritative application of the same measure at trial. Their trial intervention remains discretionary and sparing, and their particular injury awards supply no photographic valuation. Neither text nor construction supplies a fixed dollar cap.
 
