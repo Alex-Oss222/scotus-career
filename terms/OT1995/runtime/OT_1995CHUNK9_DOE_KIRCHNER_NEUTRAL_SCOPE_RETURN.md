@@ -1,0 +1,13 @@
+# Neutral scope return — Doe v. Kirchner, June 21, 1996
+
+This return supplies a question-scope correction only. No same-case historical Supreme Court outcome, comparator position, Stone material or proposed Justice alignment is included.
+
+The assigned question is whether the prospective adoptive parents themselves possess a federal constitutional entitlement to preserve adoption or permanent custody despite the father's timely assertion of rights and the absence of valid consent or an unfitness finding. If properly presented, that federal claim would challenge application of the Illinois rule itself. A sufficient state-law ground defeats a federal argument that Illinois mistakenly regarded its protective rule as federally compelled; it does not, for that reason alone, defeat a different federal claim that Illinois' rule violates the adults' own rights.
+
+The recovered original Does petition affirmatively supplies the former Stanley/Lehr challenge. The supplied Illinois majority supports its adoption reversal with state statutory and evidentiary grounds. The presentation or adjudication of the latter independent adult-right claim in No. 76063 remains unestablished. It has not been disproved. Neither the later No. 78101 turnover petition nor the child's original claim can supply that missing adult presentation in this original adoption judgment.
+
+Consequently, a threshold disposition of the recovered narrower challenge does not dispose of the assigned review as a whole. A whole-review dismissal on that basis would substitute questions. The distinction applies even if the independent-state-ground analysis is sound within the recovered narrower challenge. The record does not authorize a finding of forfeiture, waiver, abandonment or deliberate omission of the assigned adult claim.
+
+The precise unresolved source need is a state submission or state-court adjudicative passage in No. 76063 establishing that the Does asserted, or the court passed upon, their own federal entitlement to preserve adoption or permanent custody against Illinois' consent/unfitness rule. A supported published recitation of that presentation could also be assessed under Engine §14. The existing source set does not supply it. This return requires no unlimited search and creates no adverse merits or procedural inference.
+
+The earlier frozen DOE_KIRCHNER_COMMITMENTS remains byte-preserved as the independent stage's superseded whole-review disposition proposal. The separate DOE_KIRCHNER_STATUS states the revised independent status on the corrected scope. The family peer's question and frozen commitments are unchanged.

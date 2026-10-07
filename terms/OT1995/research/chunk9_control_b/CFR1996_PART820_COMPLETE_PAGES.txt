@@ -1,0 +1,1165 @@
+Source: https://www.govinfo.gov/content/pkg/CFR-1996-title21-vol8/pdf/CFR-1996-title21-vol8.pdf
+Official Title21 volume8, April1,1996 edition. Page headers/footers and adjacent provisions remain; each actual section heading controls scope. No same-case judicial material is included.
+
+PDF PAGE 156
+146
+21 CFR Ch. I (4–1–96 Edition)§ 814.84
+(b) An applicant shall grant to FDA
+access to any records and reports re-
+quired under the provisions of this
+part, and shall permit authorized FDA
+employees to copy and verify such
+records and reports and to inspect at a
+reasonable time and in a reasonable
+manner all manufacturing facilities to
+verify that the device is being manu-
+factured, stored, labeled, and shipped
+under approved conditions.
+(c) Failure to comply with any
+postapproval requirement constitutes a
+ground for withdrawal of approval of a
+PMA.
+(Approved by the Office of Management and
+Budget under control number 0910–0231)
+[51 FR 26364, July 22, 1986, as amended at 51
+FR 43344, Dec. 2, 1986]
+§ 814.84 Reports.
+(a) The holder of an approved PMA
+shall comply with the requirements of
+Part 803 and with any other require-
+ments applicable to the device by other
+regulations in this subchapter or by
+order approving the device.
+(b) Unless FDA specifies otherwise,
+any periodic report shall:
+(1) Identify changes described in
+§814.39(a) and changes required to be
+reported to FDA under § 814.39(b).
+(2) Contain a summary and bibliog-
+raphy of the following information not
+previously submitted as part of the
+PMA:
+(i) Unpublished reports of data from
+any clinical investigations or nonclini-
+cal laboratory studies involving the de-
+vice or related devices and known to or
+that reasonably should be known to
+the applicant.
+(ii) Reports in the scientific lit-
+erature concerning the device and
+known to or that reasonably should be
+known to the applicant. If, after re-
+viewing the summary and bibliog-
+raphy, FDA concludes that the agency
+needs a copy of the unpublished or pub-
+lished reports, FDA will notify the ap-
+plicant that copies of such reports
+shall be submitted.
+(Approved by the Office of Management and
+Budget under control number 0910–0231)
+[51 FR 26364, July 22, 1986, as amended at 51
+FR 43344, Dec. 2, 1986]
+PART 820—GOOD MANUFACTUR-
+ING PRACTICE FOR MEDICAL DE-
+VICES: GENERAL
+Subpart A—General Provisions
+Sec.
+820.1 Scope.
+820.3 Definitions.
+820.5 Quality assurance program.
+Subpart B—Organization and Personnel
+820.20 Organization.
+820.25 Personnel.
+Subpart C—Buildings
+820.40 Buildings.
+820.46 Environmental control.
+820.56 Cleaning and sanitation.
+Subpart D—Equipment
+820.60 Equipment.
+820.61 Measurement equipment.
+Subpart E—Control of Components
+820.80 Components.
+820.81 Critical devices, components.
+Subpart F—Production and Process
+Controls
+820.100 Manufacturing specifications and
+processes.
+820.101 Critical devices, manufacturing
+specifications, and processes.
+820.115 Reprocessing of devices or compo-
+nents.
+820.116 Critical devices, reprocessing of de-
+vices or components.
+Subpart G—Packaging and Labeling
+Control
+820.120 Device labeling.
+820.121 Critical devices, device labeling.
+820.130 Device packaging.
+Subpart H—Holding, Distribution, and
+Installation
+820.150 Distribution.
+820.151 Critical devices, distribution,
+records.
+820.152 Installation.
+Subpart I—Device Evaluation
+820.160 Finished device inspection.
+820.161 Critical devices, finished device in-
+spection.
+820.162 Failure investigation.
+VerDate 23-AUG-96 10:11 Aug 30, 1996 Jkt 167072 PO 00000 Frm 00146 Fmt 8010 Sfmt 8010 C:\CFR\167072.028 pfrm13
+
+PDF PAGE 157
+147
+Food and Drug Administration, HHS § 820.3
+Subpart J—Records
+820.180 General requirements.
+820.181 Device master record.
+820.182 Critical devices, device master
+record.
+820.184 Device history record.
+820.185 Critical devices, device history
+record.
+820.195 Critical devices, automated data
+processing.
+820.198 Complaint files.
+AUTHORITY: Secs. 501, 502, 515, 518, 519, 520,
+701, 704 of the Federal Food, Drug, and Cos-
+metic Act (21 U.S.C. 351, 352, 360e, 360h, 360i,
+360j, 371, 374).
+SOURCE: 43 FR 31508, July 21, 1978, unless
+otherwise noted.
+Subpart A—General Provisions
+§ 820.1 Scope.
+The regulation set forth in this part
+describes current good manufacturing
+practices for methods used in, and the
+facilities and controls used for, the
+manufacture, packing, storage, and in-
+stallation of all finished devices in-
+tended for human use. The regulation
+is intended to assure that such devices
+will be safe and effective and otherwise
+in compliance with the Federal Food,
+Drug, and Cosmetic Act. Part 820 es-
+tablishes basic requirements applicable
+to finished devices, including addi-
+tional requirements for critical de-
+vices. This regulation is not intended
+to apply to manufacturers of compo-
+nents or parts of finished devices, but
+such manufacturers are encouraged to
+use appropriate provisions of this regu-
+lation as guidelines. Manufacturers of
+human blood and blood components are
+not subject to this part, but are subject
+to Part 606 of this chapter.
+(a) Authority. This Part 820 is estab-
+lished and promulgated under author-
+ity of sections 501, 502, 518, 519, 520(f),
+and 701(a) of the act (21 U.S.C. 351, 352,
+360h, 360i, 360j(f), and 371(a)). The fail-
+ure to comply with any applicable pro-
+visions in Part 820 in the manufacture,
+packing, storage, or installation of a
+device renders the device adulterated
+under section 501(h) of the act. Such a
+device, as well as the person respon-
+sible for the failure to comply, is sub-
+ject to regulatory action.
+(b) Limitations. The current good
+manufacturing practice regulation in
+Part 820 supplements regulations in
+other parts of this chapter except
+where explicitly stated otherwise. In
+the event it is impossible to comply
+with applicable regulations both in this
+part and in other parts of this chapter,
+the regulations specifically applicable
+to the device in question shall super-
+sede any other regulations.
+(c) Applicability. The provisions of
+Part 820 shall be applicable to any fin-
+ished device, as defined in this part, in-
+tended for human use, that is manufac-
+tured, imported, or offered for import
+in any State or territory of the United
+States, the District of Columbia, or the
+Commonwealth of Puerto Rico.
+(d) Exemptions or variances. Any per-
+son who wishes to petition for an ex-
+emption or variance from any device
+good manufacturing practice require-
+ment is subject to the requirements of
+section 520(f)(2) of the act. Petitions for
+an exemption or variance shall be sub-
+mitted according to the procedures set
+forth in § 10.30 of this chapter, the Food
+and Drug Administration’s administra-
+tive procedures. Guidance is available
+from the Center for Devices and Radio-
+logical Health, Division of Compliance
+Programs, Manufacturing Quality As-
+surance Branch (HFZ–332), 1390 Piccard
+Dr., Rockville, MD 20850; telephone 301–
+427–1128.
+[43 FR 31508, July 21, 1978, as amended at 44
+FR 75628, Dec. 21, 1979; 53 FR 11253, Apr. 6,
+1988; 55 FR 11169, Mar. 27, 1990]
+§ 820.3 Definitions.
+(a) Act means the Federal Food,
+Drug, and Cosmetic Act, as amended
+(secs. 201–902, 52 Stat. 1040 et seq., as
+amended (21 U.S.C. 321–392)).
+(b) Audit means a documented activ-
+ity performed in accordance with writ-
+ten procedures on a periodic basis to
+verify, by examination and evaluation
+of objective evidence, compliance with
+those elements of the quality assur-
+ance program under review. ‘‘Audit’’
+does not include surveillance or inspec-
+tion activities performed for the pur-
+pose of conducting a quality assurance
+program or undertaking complaint in-
+vestigations or failure analyses of a de-
+vice.
+(c) Component means any material,
+substance, piece, part, or assembly
+used during device manufacture which
+VerDate 23-AUG-96 10:11 Aug 30, 1996 Jkt 167072 PO 00000 Frm 00147 Fmt 8010 Sfmt 8010 C:\CFR\167072.029 pfrm13
+
+PDF PAGE 158
+148
+21 CFR Ch. I (4–1–96 Edition)§ 820.5
+is intended to be included in the fin-
+ished device.
+(d) Control number means any distinc-
+tive combination of letters or numbers,
+or both, from which the complete his-
+tory of the manufacture, control, pack-
+aging, and distribution of a production
+run, lot, or batch of finished devices
+can be determined.
+(e) Critical component means any com-
+ponent of a critical device whose fail-
+ure to perform can be reasonably ex-
+pected to cause the failure of a critical
+device or to affect its safety or effec-
+tiveness.
+(f) Critical device means a device that
+is intended for surgical implant into
+the body or to support or sustain life
+and whose failure to perform when
+properly used in accordance with in-
+structions for use provided in the label-
+ing can be reasonably expected to re-
+sult in a significant injury to the user.
+Critical devices will be identified by
+the Commissioner after consultation
+with the Device Good Manufacturing
+Practice Advisory Committee author-
+ized under section 520(f) of the act, and
+an illustrative list of critical devices
+will be available from the Center for
+Devices and Radiological Health, Food
+and Drug Administration.
+(g) Critical operation means any oper-
+ation in the manufacture of a critical
+device which, if improperly performed,
+can be reasonably expected to cause
+the failure of a critical device or to af-
+fect its safety or effectiveness.
+(h) Device history record means a com-
+pilation of records containing the com-
+plete production history of a finished
+device.
+(i) Device master record means a com-
+pilation of records containing the de-
+sign, formulation, specifications, com-
+plete manufacturing procedures, qual-
+ity assurance requirements, and label-
+ing of a finished device.
+(j) Finished device means a device, or
+any accessory to a device, which is
+suitable for use, whether or not
+packaged or labeled for commercial
+distribution.
+(k) Manufacturer means any person,
+including any repacker and/or re-
+labeler, who manufactures, fabricates,
+assembles, or processes a finished de-
+vice. The term does not include any
+person who only distributes a finished
+device.
+(l) Manufacturing material means any
+material such as a cleaning agent,
+mold-release agent, lubricating oil, or
+other substance used to facilitate a
+manufacturing process and which is
+not intended by the manufacturer to be
+included in the finished device.
+(m) Noncritical device means any fin-
+ished device other than a critical de-
+vice.
+(n) Quality assurance means all ac-
+tivities necessary to assure and verify
+confidence in the quality of the process
+used to manufacture a finished device.
+[43 FR 31508, July 21, 1978, as amended at 53
+FR 11253, Apr. 6, 1988]
+§ 820.5 Quality assurance program.
+Every finished device manufacturer
+shall prepare and implement a quality
+assurance program that is appropriate
+to the specific device manufactured
+and meets the requirements of this
+part.
+Subpart B—Organization and
+Personnel
+§ 820.20 Organization.
+Each manufacturer shall have in
+place an adequate organizational struc-
+ture and sufficient personnel to assure
+that the devices the manufacturer pro-
+duces are manufactured in accordance
+with the requirements of this regula-
+tion. Each manufacturer shall prepare
+and implement quality assurance pro-
+cedures adequate to assure that a for-
+mally established and documented
+quality assurance program is per-
+formed. Where possible, a designated
+individual(s) not having direct respon-
+sibility for the performance of a manu-
+facturing operation shall be respon-
+sible for the quality assurance pro-
+gram.
+(a) Quality assurance program require-
+ments. The quality assurance program
+shall consist of procedures adequate to
+assure that the following functions are
+performed:
+(1) Review of production records;
+(2) Approval or rejection of all com-
+ponents, manufacturing materials, in-
+process materials, packaging mate-
+rials, labeling, and finished devices; ap-
+VerDate 23-AUG-96 10:11 Aug 30, 1996 Jkt 167072 PO 00000 Frm 00148 Fmt 8010 Sfmt 8010 C:\CFR\167072.029 pfrm13
+
+PDF PAGE 159
+149
+Food and Drug Administration, HHS § 820.46
+proval or rejection of devices manufac-
+tured, processed, packaged, or held
+under contract by another company;
+(3) Identifying, recommending, or
+providing solutions for quality assur-
+ance problems and verifying the imple-
+mentation of such solutions; and
+(4) Assuring that all quality assur-
+ance checks are appropriate and ade-
+quate for their purpose and are per-
+formed correctly.
+(b) Audit procedures. Planned and
+periodic audits of the quality assurance
+program shall be implemented to ver-
+ify compliance with the quality assur-
+ance program. The audits shall be per-
+formed in accordance with written pro-
+cedures by appropriately trained indi-
+viduals not having direct responsibil-
+ities for the matters being audited.
+Audit results shall be documented in
+written audit reports, which shall be
+reviewed by management having re-
+sponsibility for the matters audited.
+Followup corrective action, including
+reaudit of deficient matters, shall be
+taken when indicated. An employee of
+the Food and Drug Administration,
+designated by the Food and Drug Ad-
+ministration, shall have access to the
+written procedures established for the
+audit. Upon request of such an em-
+ployee, a responsible official of the
+manufacturer shall certify in writing
+that the audits of the quality assur-
+ance program required under this para-
+graph have been performed and docu-
+mented and that any required correc-
+tive action has been taken.
+§ 820.25 Personnel.
+Each manufacturer shall have suffi-
+cient personnel with the necessary edu-
+cation, background, training, and expe-
+rience to assure that all operations are
+correctly performed.
+(a) Personnel training. All personnel
+shall have the necessary training to
+perform their assigned responsibilities
+adequately. Where training programs
+are necessary to assure that personnel
+have a thorough understanding of their
+jobs, such programs shall be conducted
+and documented. All employees shall
+be made aware of device defects which
+may occur from the improper perform-
+ance of their specific jobs. Quality as-
+surance personnel shall be made aware
+of defects and errors likely to be en-
+countered as part of their quality as-
+surance functions.
+(b) Personnel health and cleanliness.
+Personnel in contact with a device or
+its environment shall be clean,
+healthy, and suitably attired where
+lack of cleanliness, good health, or
+suitable attire could adversely affect
+the device. Any personnel who, by med-
+ical examination or supervisory obser-
+vation, appear to have a condition
+which could adversely affect the device
+shall be excluded from affected oper-
+ations until the condition is corrected.
+Personnel shall be instructed to report
+such conditions to their supervisors.
+Subpart C—Buildings
+§ 820.40 Buildings.
+Buildings in which manufacturing,
+assembling, packaging, packing, hold-
+ing, testing, or labeling operations are
+conducted shall be of suitable design
+and contain sufficient space to facili-
+tate adequate cleaning, maintenance,
+and other necessary operations. The fa-
+cilities shall provide adequate space
+designed to prevent mixups and to as-
+sure orderly handling of the following:
+Incoming components; rejected or ob-
+solete components; in-process compo-
+nents; finished devices; labeling; de-
+vices that have been reprocessed, re-
+worked, or repaired; equipment; molds,
+patterns, tools, records, drawings, blue-
+prints; testing and laboratory oper-
+ations; and quarantined products.
+§ 820.46 Environmental control.
+Where environmental conditions at
+the manufacturing site could have an
+adverse effect on a device’s fitness for
+use, these environmental conditions
+shall be controlled to prevent contami-
+nation of the device and to provide
+proper conditions for each of the oper-
+ations performed pursuant to § 820.40.
+Conditions to be considered for control
+are lighting, ventilation, temperature,
+humidity, air pressure, filtration, air-
+borne contamination, and other con-
+tamination. Any environmental con-
+trol system shall be periodically in-
+spected to verify that the system is
+properly functioning. Such inspections
+shall be documented.
+VerDate 23-AUG-96 10:11 Aug 30, 1996 Jkt 167072 PO 00000 Frm 00149 Fmt 8010 Sfmt 8010 C:\CFR\167072.029 pfrm13
+
+PDF PAGE 160
+150
+21 CFR Ch. I (4–1–96 Edition)§ 820.56
+§ 820.56 Cleaning and sanitation.
+There shall be adequate written
+cleaning procedures and schedules to
+meet manufacturing process specifica-
+tions. Such procedures shall be pro-
+vided to appropriate personnel.
+(a) Personnel sanitation. Washing and
+toilet facilities shall be clean and ade-
+quate. Where special clothing require-
+ments are necessary to assure that a
+device is fit for its intended use, clean
+dressing rooms shall be provided for
+personnel.
+(b) Contamination control. There shall
+be procedures designed to prevent con-
+tamination of equipment, components,
+or finished devices by rodenticides, in-
+secticides, fungicides, fumigants, haz-
+ardous substances, and other cleaning
+and sanitizing substances. Such proce-
+dures shall be documented.
+(c) Personnel practices. Where eating,
+drinking, and smoking by personnel
+could have an adverse effect on a de-
+vice’s fitness for use, such practices
+shall be limited to designated areas se-
+lected so as to avoid such an adverse
+effect.
+(d) Sewage and refuse disposal. Sew-
+age, trash, by-products, chemical
+effluents, and other refuse shall be dis-
+posed of in a timely, safe, and sanitary
+manner.
+Subpart D—Equipment
+§ 820.60 Equipment.
+Equipment used in the manufactur-
+ing process shall be appropriately de-
+signed, constructed, placed, and in-
+stalled to facilitate maintenance, ad-
+justment, and cleaning.
+(a) Maintenance schedule. Where
+maintenance of equipment is necessary
+to assure that manufacturing specifica-
+tions are met, a written schedule for
+the maintenance, adjustment, and
+cleaning of equipment shall be devel-
+oped and adhered to. Such schedule
+shall be visibly posted on or near each
+piece of equipment, or be readily avail-
+able to personnel performing mainte-
+nance activities. A written record shall
+be maintained documenting when
+scheduled maintenance activities are
+performed.
+(b) Inspection. Periodic documented
+inspections shall be made to assure ad-
+herence to applicable equipment main-
+tenance schedules.
+(c) Adjustment. Any inherent limita-
+tions or allowable tolerances shall be
+visibly posted on or near equipment re-
+quiring periodic adjustments, or be
+readily available to personnel perform-
+ing these adjustments.
+(d) Manufacturing material. Manufac-
+turing material, including a cleaning
+agent, mold-release agent, lubricating
+oil, or other substance used on or in
+the manufacturing equipment or the
+device, shall be subsequently removed
+from the device or limited to a speci-
+fied amount that does not adversely af-
+fect the device’s fitness for use. There
+shall be written procedures for the use
+and removal of such manufacturing
+material. The removal of such manu-
+facturing material shall be docu-
+mented.
+§ 820.61 Measurement equipment.
+All production and quality assurance
+measurement equipment, such as me-
+chanical, automated, or electronic
+equipment, shall be suitable for its in-
+tended purposes and shall be capable of
+producing valid results. Such equip-
+ment shall be routinely calibrated, in-
+spected, and checked according to writ-
+ten procedures. Records documenting
+these activities shall be maintained.
+When computers are used as part of an
+automated production or quality assur-
+ance system, the computer software
+programs shall be validated by ade-
+quate and documented testing. All pro-
+gram changes shall be made by a des-
+ignated individual(s) through a formal
+approval procedure.
+(a) Calibration. Calibration proce-
+dures shall include specific directions
+and limits for accuracy and precision.
+There shall be provisions for remedial
+action when accuracy and precision
+limits are not met. Calibration shall be
+performed by personnel having the nec-
+essary education, training, back-
+ground, and experience.
+(b) Calibration standards. Where prac-
+tical, the calibration standards used
+for production and quality assurance
+measurement equipment shall be trace-
+able to the national standards of the
+National Bureau of Standards, Depart-
+ment of Commerce. If national stand-
+ards are not practical for the param-
+VerDate 23-AUG-96 10:11 Aug 30, 1996 Jkt 167072 PO 00000 Frm 00150 Fmt 8010 Sfmt 8010 C:\CFR\167072.030 pfrm13
+
+PDF PAGE 161
+151
+Food and Drug Administration, HHS § 820.100
+eter being measured, an independent
+reproducible standard shall be used. If
+no applicable standard exists, an in-
+house standard shall be developed and
+used.
+(c) Calibration records. The calibra-
+tion date, the calibrator, and the next
+calibration date shall be recorded and
+displayed, or records containing such
+information shall be readily available
+for each piece of equipment requiring
+calibration. A designated individual(s)
+shall maintain a record of calibration
+dates and of the individual performing
+each calibration.
+Subpart E—Control of
+Components
+§ 820.80 Components.
+Components used in manufacturing
+shall be received, stored, and handled
+in a manner designed to prevent dam-
+age, mixup, contamination, and other
+adverse effects. Components shall be
+quarantined prior to acceptance or
+clearly identified as not yet accepted.
+(a) Acceptance of components. There
+shall be a written procedure for accept-
+ance of components. A designated indi-
+vidual(s) shall accept or reject compo-
+nents. A record shall be maintained of
+component acceptance and rejection.
+Upon receipt, each shipping container
+of components shall be visually exam-
+ined for damage. Where deviations
+from component specifications could
+result in the device being unfit for its
+intended use, components shall be in-
+spected, sampled, and tested for con-
+formance to specifications.
+(b) Storage and handling of compo-
+nents. If the quality or fitness for use of
+components deteriorates over time, the
+components shall be stored in a man-
+ner to facilitate proper stock rotation.
+Component control numbers or other
+identifications shall be easily viewable.
+All obsolete, rejected, or deteriorated
+components shall be clearly identified
+and segregated from accepted compo-
+nents. Records shall be maintained of
+the disposition of all obsolete, rejected,
+or deteriorated components.
+§ 820.81 Critical devices, components.
+In addition to the requirements of
+§820.80, the following requirements
+apply to critical devices:
+(a) Acceptance of critical components.
+There shall be written procedures for
+the accepting, sampling, testing, and
+inspecting of all lots of critical compo-
+nents to assure that critical compo-
+nents conform to specifications. The
+number of units sampled from each lot
+of critical components shall be based
+upon an acceptable statistical ration-
+ale, the past quality history of the sup-
+plier, and the quantity needed for anal-
+ysis and reserve. Each lot of critical
+components shall be identified with a
+control number(s) upon receipt. The
+percentage of defective critical compo-
+nents for each lot and the percentage
+of lots rejected shall be recorded and
+identified by supplier name.
+(b) Critical component supplier agree-
+ment. Where possible, the manufacturer
+shall secure from the critical compo-
+nent supplier a written agreement
+whereby the supplier agrees to notify
+the manufacturer of any proposed
+change in a critical component. Where
+such an agreement exists, the manufac-
+turer shall not accept such a change
+until the manufacturer has determined
+the impact of the change on the fin-
+ished device.
+Subpart F—Production and
+Process Controls
+§ 820.100 Manufacturing specifications
+and processes.
+Written manufacturing specifications
+and processing procedures shall be es-
+tablished, implemented, and controlled
+to assure that the device conforms to
+its original design or any approved
+changes in that design.
+(a) Specification controls. (1) Proce-
+dures for specification control meas-
+ures shall be established to assure that
+the design basis for the device, compo-
+nents, and packaging is correctly
+translated into approved specifica-
+tions.
+(2) Specification changes shall be
+subject to controls as stringent as
+those applied to the original design
+specifications of the device. Such
+changes shall be approved and docu-
+mented by a designated individual(s)
+and shall include the approval date and
+the date the change becomes effective.
+(b) Processing controls. (1) Where devi-
+ations from device specifications could
+VerDate 23-AUG-96 10:11 Aug 30, 1996 Jkt 167072 PO 00000 Frm 00151 Fmt 8010 Sfmt 8010 C:\CFR\167072.030 pfrm13
+
+PDF PAGE 162
+152
+21 CFR Ch. I (4–1–96 Edition)§ 820.101
+occur as a result of the manufacturing
+process itself, there shall be written
+procedures describing any processing
+controls necessary to assure conform-
+ance to specifications.
+(2) All processing control operations
+shall be conducted in a manner de-
+signed to assure that the device con-
+forms to applicable specifications.
+(3) There shall be a formal approval
+procedure for any change in the manu-
+facturing process of a device. Any ap-
+proved change shall be communicated
+to appropriate personnel in a timely
+manner.
+§ 820.101 Critical devices, manufactur-
+ing specifications, and processes.
+In addition to the requirements of
+§820.100, the following requirements
+apply to critical devices:
+(a) Critical operation performance. Any
+critical operation shall be performed
+by a suitable designated individual(s)
+or suitable equipment and shall be
+verified.
+(b) Record of critical operation. Any in-
+dividual responsible for the perform-
+ance of a critical operation shall record
+or reference that operation in the de-
+vice history record as required in
+§ 820.185.
+§ 820.115 Reprocessing of devices or
+components.
+(a) Reprocessing procedures shall be
+established, implemented, and con-
+trolled to assure that the reprocessed
+device or component meets the origi-
+nal, or subsequently modified and ap-
+proved, specifications.
+(b) Any device rejected during fin-
+ished device inspection and later re-
+processed shall be subject to another
+complete final inspection for any char-
+acteristic of the device which may be
+adversely affected by such reprocess-
+ing.
+§ 820.116 Critical devices, reprocessing
+of devices or components.
+In addition to the requirements of
+§820.115, the following requirements
+apply to critical devices:
+(a) Reprocessing procedures. There
+shall be written procedures for any re-
+processing associated with the produc-
+tion of a critical device or component.
+These procedures shall prescribe the
+equipment to be used in reprocessing
+and shall include any special quality
+assurance methods or tests. The proce-
+dures shall be designed so that the re-
+processed device or component meets
+the original, or subsequently modified
+and approved, specifications. The pro-
+cedures shall be designed to prevent
+adulteration, e.g., because of material,
+structural, or molecular change in the
+device or component due to reprocess-
+ing. Special care shall be taken to as-
+sure that the device or component to
+be reprocessed is clearly identified and
+separated from like devices or compo-
+nents not to be reprocessed. When
+there is constant reprocessing of a de-
+vice or component, a determination of
+the effect of the reprocessing upon the
+device or component shall be made and
+documented. There shall be a formal
+approval procedure for instituting a
+new, or altering an approved, reproc-
+essing procedure.
+(b) Reprocessing control. Any critical
+device or component subject to reproc-
+essing procedures shall conform to the
+original, or subsequently modified and
+approved, specifications. Written test-
+ing and sampling procedures to assure
+such comformity shall be contained or
+referenced in the device master record.
+Any prior quality assurance check
+shall be repeated on the reprocessed de-
+vice or component if the reprocessing
+could adversely affect any performance
+characteristic previously inspected.
+Subpart G—Packaging and
+Labeling Control
+§ 820.120 Device labeling.
+There shall be adequate controls to
+maintain labeling integrity and to pre-
+vent labeling mixups.
+(a) Label integrity. Labels shall be de-
+signed, printed, and applied so as to re-
+main legible during the customary con-
+ditions of processing, storage, han-
+dling, distribution, and use. Labels and
+other labeling shall not be released to
+inventory until a designated individual
+has proofread samples of the labeling
+for accuracy.
+(b) Separation of operations. Each la-
+beling or packaging operation shall be
+separated physically or spatially in a
+manner designed to prevent mixups.
+VerDate 23-AUG-96 10:11 Aug 30, 1996 Jkt 167072 PO 00000 Frm 00152 Fmt 8010 Sfmt 8010 C:\CFR\167072.030 pfrm13
+
+PDF PAGE 163
+153
+Food and Drug Administration, HHS § 820.161
+(c) Area inspection. Prior to the im-
+plementation of any labeling or pack-
+aging operation, there shall be an in-
+spection of the area where the oper-
+ation is to occur by a designated indi-
+vidual to assure that devices and label-
+ing materials from prior operations do
+not remain in the labeling or packag-
+ing area. Any such items found shall be
+destroyed, disposed of, or returned to
+storage prior to the onset of a new or
+different labeling or packaging oper-
+ation.
+(d) Storage. Labels and labeling shall
+be stored and maintained in a manner
+that provides proper identification and
+is designed to prevent mixups.
+(e) Labeling materials. Labeling mate-
+rials issued for devices shall be exam-
+ined for identity and, where applicable,
+the correct expiration date, control
+number, storage instructions, handling
+instructions, and additional processing
+instructions. A record of such examina-
+tion, including the date and person per-
+forming the examination, shall be
+maintained in the device history
+record.
+§ 820.121 Critical devices, device label-
+ing.
+In addition to the requirements of
+§820.120, the following requirements
+apply to critical devices:
+(a) Control number. Labels issued for
+critical devices shall contain a control
+number.
+(b) Labeling check. The signature of
+the individual who proofreads the la-
+bels and other labeling, and the date of
+the proofreading, shall be recorded.
+(c) Access restriction. Access to the la-
+bels and other labeling shall be re-
+stricted to authorized personnel.
+§ 820.130 Device packaging.
+The device package and any shipping
+container for a device shall be designed
+and constructed to protect the device
+from alteration or damage during the
+customary conditions of processing,
+storage, handling, and distribution.
+Subpart H—Holding, Distribution,
+and Installation
+§ 820.150 Distribution.
+There shall be written procedures for
+warehouse control and distribution of
+finished devices to assure that only
+those devices approved for release are
+distributed. Where a device’s fitness for
+use or quality deteriorates over time,
+there shall be a system to assure that
+the oldest approved devices are distrib-
+uted first.
+§ 820.151 Critical devices, distribution
+records.
+In addition to the requirements of
+§820.150, adequate distribution records
+for critical devices shall include, or
+make reference to the location of: the
+name and address of the consignee, the
+name and quantity of devices, the date
+shipped, and the control number used.
+These records shall be retained as re-
+quired by § 820.180(b).
+§ 820.152 Installation.
+Where a device is installed by the
+manufacturer or its authorized rep-
+resentative, the manufacturer or rep-
+resentative shall inspect the device
+after installation to assure that the de-
+vice will perform as intended. Where a
+device is installed by a person other
+than the manufacturer or its author-
+ized representative, the manufacturer
+shall provide adequate instructions and
+procedures for proper installation.
+Subpart I—Device Evaluation
+§ 820.160 Finished device inspection.
+There shall be written procedures for
+finished device inspection to assure
+that device specifications are met.
+Prior to release for distribution, each
+production run, lot or batch shall be
+checked and, where necessary, tested
+for conformance with device specifica-
+tions. Where practical, a device shall
+be selected from a production run, lot
+or batch and tested under simulated
+use conditions. Sampling plans for
+checking, testing, and release of a de-
+vice shall be based on an acceptable
+statistical rationale. Finished devices
+shall be held in quarantine or other-
+wise adequately controlled until re-
+leased.
+§ 820.161 Critical devices, finished de-
+vice inspection.
+In addition to the requirements of
+§820.160, the following requirement ap-
+plies to critical devices: A critical de-
+VerDate 23-AUG-96 10:11 Aug 30, 1996 Jkt 167072 PO 00000 Frm 00153 Fmt 8010 Sfmt 8010 C:\CFR\167072.031 pfrm13
+
+PDF PAGE 164
+154
+21 CFR Ch. I (4–1–96 Edition)§ 820.162
+vice or component which does not meet
+its performance specifications shall be
+investigated. A written record of the
+investigation, including conclusions
+and followup, shall be made. A critical
+device shall not leave the control of
+the manufacturer for distribution until
+all acceptance records and test results
+have been checked by a designated in-
+dividual(s). Such individual(s) shall as-
+sure that all records and documenta-
+tion required for the device history
+record are present and complete, and
+show that release of the device was
+consistent with the release criteria.
+Such individual(s) shall authorize, by
+signature, the release of the device for
+distribution.
+§ 820.162 Failure investigation.
+After a device has been released for
+distribution, any failure of that device
+or any of its components to meet per-
+formance specifications shall be inves-
+tigated. A written record of the inves-
+tigation, including conclusions and fol-
+lowup, shall be made.
+Subpart J—Records
+§ 820.180 General requirements.
+All records required by this part
+shall be maintained at the manufactur-
+ing establishment or other location
+that is reasonably accessible to respon-
+sible officials of the manufacturer and
+to employees of the Food and Drug Ad-
+ministration designated to perform in-
+spections. Such records shall be avail-
+able for review and copying by such
+employees. Except as specifically pro-
+vided elsewhere, the following general
+provisions shall apply to all records re-
+quired by this part.
+(a) Confidentiality. Those records
+deemed confidential by the manufac-
+turer may be marked to aid the Food
+and Drug Administration in determin-
+ing whether information may be dis-
+closed under the public information
+regulation in Part 20 of this chapter.
+(b) Record retention period. All re-
+quired records pertaining to a device
+shall be retained for a period of time
+equivalent to the design and expected
+life of the device, but in no case less
+than 2 years from the date of release
+for commercial distribution by the
+manufacturer. Photostatic or other re-
+productions of records required by this
+part may be used.
+§ 820.181 Device master record.
+The device master record shall be
+prepared, dated, and signed by a des-
+ignated individual(s). Any changes in
+the device master record shall be au-
+thorized in writing by the signature of
+a designated individual(s). Any ap-
+proval forms shall be part of the device
+master record. The device master
+record for each type of device shall in-
+clude, or refer to the location of, the
+following information:
+(a) Device specifications including
+appropriate drawings, composition, for-
+mulation, and component specifica-
+tions.
+(b) Production process specifications
+including the appropriate equipment
+specifications, production methods,
+production procedures, and production
+environment specifications.
+(c) Quality assurance procedures and
+specifications including quality assur-
+ance checks used and the quality assur-
+ance apparatus used.
+(d) Packaging and labeling specifica-
+tions including methods and processes
+used.
+§ 820.182 Critical devices, device mas-
+ter record.
+In addition to the requirements of
+§820.181, the device master record for a
+critical device shall include or refer to
+the location of the following informa-
+tion:
+(a) Critical components and critical
+component suppliers. Full information
+concerning critical components and
+critical component suppliers, including
+the complete specifications of all criti-
+cal components, the sources where
+they may be obtained, and written cop-
+ies of any agreements made with sup-
+pliers under § 820.81(b).
+(b) Labels and labeling. Complete la-
+beling procedures for the individual de-
+vice and copies of all approved labels
+and other labeling.
+§ 820.184 Device history record.
+A device history record shall be
+maintained to demonstrate that the
+device is manufactured in accordance
+with the device master record. The de-
+vice history record shall include, or
+VerDate 23-AUG-96 10:11 Aug 30, 1996 Jkt 167072 PO 00000 Frm 00154 Fmt 8010 Sfmt 8010 C:\CFR\167072.031 pfrm13
+
+PDF PAGE 165
+155
+Food and Drug Administration, HHS § 820.198
+refer to the location of, the following
+information: The dates of manufacture,
+the quantity manufactured, the quan-
+tity released for distribution, and any
+control number used.
+§ 820.185 Critical devices, device his-
+tory record.
+In addition to the requirements of
+§820.184, the following requirements
+apply to critical devices: There shall be
+a critical device history record for each
+control number, which shall include
+complete information relating to the
+production unit. This record shall iden-
+tify the specific label, labeling, and
+control number used for each produc-
+tion unit and shall be readily acces-
+sible and maintained by a designated
+individual(s). The device history record
+shall include, or refer to the location
+of, the following:
+(a) Component documentation. The
+documentation of each critical compo-
+nent used in the manufacture of a de-
+vice shall include:
+(1) Control number. The control num-
+ber designating each critical compo-
+nent or lot of critical components used
+in the manufacture of a device.
+(2) Acceptance record. The acceptance
+record of the critical component, in-
+cluding acceptance date and signature
+of the recipient.
+(b) Record of critical operation. The
+record of, or reference to, each critical
+operation, identifying the date per-
+formed, the designated individual(s)
+performing the operation and, when ap-
+propriate, the major equipment used.
+(c) Inspection checks. The inspection
+checks performed, the methods and
+equipment used, results, the date, and
+signature of the inspecting individual.
+§ 820.195 Critical devices, automated
+data processing.
+When automated data processing is
+used for manufacturing or quality as-
+surance purposes, adequate checks
+shall be designed and implemented to
+prevent inaccurate data output, input,
+and programming errors.
+§ 820.198 Complaint files.
+(a) Written and oral complaints rel-
+ative to the identity, quality, durabil-
+ity, reliability, safety, effectiveness, or
+performance of a device shall be re-
+viewed, evaluated, and maintained by a
+formally designated unit. This unit
+shall determine whether or not an in-
+vestigation is necessary. When no in-
+vestigation is made, the unit shall
+maintain a record that includes the
+reason and the name of the individual
+responsible for the decision not to in-
+vestigate.
+(b) Any complaint involving the pos-
+sible failure of a device to meet any of
+its performance specifications shall be
+reviewed, evaluated, and investigated.
+Any complaint pertaining to injury,
+death, or any hazard to safety shall be
+immediately reviewed, evaluated, and
+investigated by a designated individ-
+ual(s) and shall be maintained in a sep-
+arate portion of the complaint file.
+(c) When an investigation is made, a
+written record of each investigation
+shall be maintained by the formally
+designated unit identified in paragraph
+(a) of this section. The record of inves-
+tigation shall include the name of the
+device, any control number used, name
+of complainant, nature of complaint,
+and reply to complainant.
+(d) Where the formally designated
+unit is located at a site separate from
+the actual manufacturing establish-
+ment, a duplicate copy of the record of
+investigation of any complaint shall be
+transmitted to and maintained at the
+actual manufacturing establishment in
+a file designated for device complaints.
+PART 821—MEDICAL DEVICE
+TRACKING REQUIREMENTS
+Subpart A—General Provisions
+Sec.
+821.1 Scope.
+821.2 Exemptions and variances
+821.3 Definitions.
+821.4 Imported devices.
+Subpart B—Tracking Requirements
+821.20 Devices subject to tracking.
+821.25 Device tracking system and content
+requirements: manufacturer require-
+ments.
+Subpart C—Additional Requirements and
+Responsibilities
+821.30 Tracking obligations of persons other
+than device manufacturers: distributor
+requirements.
+VerDate 23-AUG-96 10:11 Aug 30, 1996 Jkt 167072 PO 00000 Frm 00155 Fmt 8010 Sfmt 8010 C:\CFR\167072.031 pfrm13
+

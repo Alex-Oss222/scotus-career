@@ -1,0 +1,102 @@
+[
+  {
+    "query": "collection:us-supreme-court AND Kirchner",
+    "url": "https://archive.org/advancedsearch.php?q=collection%3Aus-supreme-court+AND+Kirchner&fl%5B%5D=identifier&fl%5B%5D=title&rows=100&output=json",
+    "response": {
+      "responseHeader": {
+        "status": 0,
+        "QTime": 615,
+        "params": {
+          "query": "collection:us-supreme-court AND (text:Kirchner OR text:Kirchner OR text__reviews:Kirchner)",
+          "qin": "collection:us-supreme-court AND Kirchner",
+          "fields": "identifier,title",
+          "wt": "json",
+          "rows": 100,
+          "start": 0
+        }
+      },
+      "response": {
+        "numFound": 5,
+        "start": 0,
+        "docs": [
+          {
+            "identifier": "micro_IA40385018_0887",
+            "title": "Kirchner v. Kirchner, 474 U.S. 1101 (1986) (No. 85-634)"
+          },
+          {
+            "identifier": "micro_IA40386411_0145",
+            "title": "Department of Mental Hygiene of Cal. v. Kirchner, 380 U.S. 194 (1965) (No. 111)"
+          },
+          {
+            "identifier": "micro_IA40386012_0571",
+            "title": "Baby \"Richard\", Etc. v. Kirchner, Otakar Doe, John, Et Ux., Etc. v. Kirchner, Otakar, Etc, 513 U.S. 994 (1994) (No. 94-615)"
+          },
+          {
+            "identifier": "micro_IA40386012_0217",
+            "title": "Baby \"Richard\" ex rel. O'Connell v. Kirchner, 513 U.S. 994 (1994) (No. 94-236)"
+          },
+          {
+            "identifier": "micro_IA40386012_1537",
+            "title": "Doe v. Kirchner, 515 U.S. 1152 (1995) (No. 94-1644)"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "query": "collection:us-supreme-court AND (title:(Baby Richard) OR title:(Doe)) AND year:[1994 TO 1995]",
+    "url": "https://archive.org/advancedsearch.php?q=collection%3Aus-supreme-court+AND+%28title%3A%28Baby+Richard%29+OR+title%3A%28Doe%29%29+AND+year%3A%5B1994+TO+1995%5D&fl%5B%5D=identifier&fl%5B%5D=title&rows=100&output=json",
+    "response": {
+      "responseHeader": {
+        "status": 0,
+        "QTime": 58,
+        "params": {
+          "query": "collection:us-supreme-court AND (title:(Baby Richard) OR title:Doe) AND year:[1994 TO 1995]",
+          "qin": "collection:us-supreme-court AND (title:(Baby Richard) OR title:(Doe)) AND year:[1994 TO 1995]",
+          "fields": "identifier,title",
+          "wt": "json",
+          "rows": 100,
+          "start": 0
+        }
+      },
+      "response": {
+        "numFound": 8,
+        "start": 0,
+        "docs": [
+          {
+            "identifier": "micro_IA40386003_1643",
+            "title": "Lankford v. Doe, 513 U.S. 815 (1994) (No. 93-1918)"
+          },
+          {
+            "identifier": "micro_IA40386012_0571",
+            "title": "Baby \"Richard\", Etc. v. Kirchner, Otakar Doe, John, Et Ux., Etc. v. Kirchner, Otakar, Etc, 513 U.S. 994 (1994) (No. 94-615)"
+          },
+          {
+            "identifier": "micro_IA40386009_0503",
+            "title": "Doe v. United States, 510 U.S. 1091 (1994) (No. 93-523)"
+          },
+          {
+            "identifier": "micro_IA40386012_2016",
+            "title": "Portland Housing Authority v. Doe, 516 U.S. 861 (1995) (No. 95-15)"
+          },
+          {
+            "identifier": "micro_IA40386012_0217",
+            "title": "Baby \"Richard\" ex rel. O'Connell v. Kirchner, 513 U.S. 994 (1994) (No. 94-236)"
+          },
+          {
+            "identifier": "micro_IA40386012_1537",
+            "title": "Doe v. Kirchner, 515 U.S. 1152 (1995) (No. 94-1644)"
+          },
+          {
+            "identifier": "micro_IA40386005_1417",
+            "title": "Doe ex rel. Doe v. Tullahoma City Schools Board of Education, 511 U.S. 1108 (1994) (No. 93-1641)"
+          },
+          {
+            "identifier": "micro_IA40386002_1038",
+            "title": "Doe v. Bennett, 510 U.S. 1164 (1994) (No. 93-1083)"
+          }
+        ]
+      }
+    }
+  }
+]

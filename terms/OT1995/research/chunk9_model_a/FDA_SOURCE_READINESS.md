@@ -1,0 +1,42 @@
+# FDA source-readiness receipt — preparation only
+
+No Medtronic Justice commitment or proposed judgment is made here. Modeling awaits PRE_19960626; Settle awaits PRE_19960625. Existing Settle and Virginia preparation is retained.
+
+## Official provisions read completely
+
+The April 1, 1996 Title 21 volume 8 PDF at `../chunk9_control_b/CFR1996_TITLE21_VOL8.pdf` is the official govinfo carrier: https://www.govinfo.gov/content/pkg/CFR-1996-title21-vol8/pdf/CFR-1996-title21-vol8.pdf.
+
+- The complete §801.109, from `CFR1996_801_109_COMPLETE_PAGES.txt`, PDF page 30 / printed page 20.
+- The complete §808.1(a)–(f), from `CFR1996_808_1_COMPLETE_PAGES.txt`, PDF pages 93–95 / printed pages 83–85.
+- The entire original Part 820, from `CFR1996_PART820_COMPLETE_PAGES.txt`, PDF pages 156–165 / printed pages 146–155: §§820.1–820.198, including scope, definitions, quality assurance, personnel, buildings, equipment, components, production, reprocessing, labeling, packaging, distribution, installation, inspection, failure investigation and records. The initial scope-through-environmental-control pages were read before the family stage; all remaining sections and the contents/source heading have now been read. No modern Part 820 substitute is used.
+- Additional bounded direct reading of that official PDF supplies the complete §807.87 on PDF pages 88–89 / printed 78–79 and §807.97 on PDF page 92 / printed 82. Adjacent §§807.81/.85/.90 and the beginning of .92 were visible; they do not become additional decided issues. Section .87 has 1992/1994 amendment notes, so its entire current formulation is not silently attributed to the 1982 submission.
+
+The August 1996 printing footer is a carrier date, not the regulatory effective date. Source histories for the adopted sections remain material. The Part 820 general source is 43 FR 31508 (July 21, 1978), with particular later source notes where shown. Adjacent PMA Part 814 and device-tracking Part 821 text is not part of Part 820.
+
+## Scope qualifications preserved
+
+Section 801.109 is a conditional exemption from §502(f)(1)'s adequate-directions requirement, with the possession/sale conditions and actual practitioner information duties retained. The surgical-instrument exception in (b), permissive commonly-known-information omission in (c), name-only reminder-piece exception in (d), and labels/cartons exception from the issuance/revision-date duty in (e) are distinct. Permission to omit qualifying information is not an obligation to omit it, and no such factual qualification is found for this device merely because the regulation permits it.
+
+Section 808.1(b) includes requirements having force of law through a court decision. Subsection (d)'s federal-specificity condition, general-applicability exception, equal/substantially-identical exception and all remaining examples must be kept together. In particular, (d)(6)(ii) preserves general adulteration/misbranding prohibitions while allowing preemption of their actual application as a divergent substantive requirement for a specific device; practical interpretation and enforcement, not identical words alone, controls that comparison. The professional-practice and general-enforcement exceptions retain their express conflicting-federal-requirement qualifications. The section does not abolish applicable federal duties.
+
+Section 360k(b) / §808.1(c) permits an exemption through the specified agency procedure for a more stringent requirement, or for compelling local conditions where compliance will not violate applicable federal requirements. An exemption does not displace federal requirements. No device-specific exemption order is supplied in this record.
+
+Part 820 imposes operative manufacturing obligations, including general and additional critical-device duties; describing a duty as generally applicable does not make it hortatory. Conversely, device-master records and manufacturing conformance to original design under §820.100 do not themselves establish FDA substantive approval of that design. Section 820.1 distinguishes finished devices, components and blood products, provides supersession where conflicting regulations cannot both be obeyed, and retains the statutory exemption/variance procedure. Section 820.3's finished-device definition includes an accessory suitable for use; the everyday description of the lead as a component does not alone resolve that regulatory classification. No additional critical-device-specific liability premise is adopted without its applicability basis.
+
+Section 807.87(e) calls for proposed labels, labeling and advertisements sufficient to describe the device, intended use and directions, with photographs/drawings where applicable. Submission is distinct from substantive approval: §807.97 expressly states that qualifying notification and a substantial-equivalence determination do not denote official approval and that contrary representations constitute misbranding.
+
+## Comparison with authorized case and actual earlier law
+
+The full authorized lower Medtronic opinion and footnotes were previously read. The two cross-dockets preserve design negligence and design-based strict liability separately from manufacture/warning negligence and their strict-liability analogues. The consortium claim remains derivative. The Florida warranty dismissal was not appealed. The lower court expressly reached the federal-parallel argument despite its first appearance in reply; Florida recognition and complaint sufficiency were assumed, not determined. The late Talbott FDA amicus submission was excluded below; neither its absence nor its treatment below establishes the outcome of current agency-deference analysis.
+
+The complete regulations now permit the required distinction among (1) common-law duties as potentially preemptible requirements, (2) the specificity and operation of federal manufacturing/labeling duties, (3) device-specific substantive approval, and (4) genuinely equivalent state duties. The full regulatory exceptions cure the earlier excerpt's textual incompleteness. The 1982 substantial-equivalence disposition remains distinct from the 1990 statutory codification discussed in the lower opinion's footnote 20.
+
+Actual Cipollone proposition-level coalitions have been read: its covered common-law duties cannot be erased by attributing a whole-opinion majority to one writing, and the separate category-specific surviving grounds retain their own coalitions. The Justices' actual Freightliner positions and actual Smiley/Sweet Home deference positions are available as date-eligible evidence and law within their stated bounds. Scalia's unexplained Freightliner judgment-only agreement supplies no invented rationale; Kennedy and Souter's broader Cipollone positions are individual evidence, not a controlling blanket common-law exemption. Smiley keeps judicial statutory boundaries separate from reasonable agency implementation and does not recognize free-standing agency power to preempt. No same-case Supreme Court disposition or current Stone position has been consulted.
+
+## Readiness and precise remaining limits
+
+There is no remaining missing-text gap for §§801.109, 808.1 or the original Part 820. No fresh source blocker is identified for preparing the submitted express-preemption questions. The following remain bounded legal/record issues rather than facts to manufacture: whether particular state duties differ from applicable federal duties; whether Florida law and the pleaded facts support a genuinely parallel claim; actual noncompliance, causation and injury; and any unestablished device-specific command or exemption. No missing fact is treated as a concession, waiver or merits failure.
+
+The broader 1994 statutory files for §§360, 360c and 360e were available but are not represented as read in full; §§360k and 360h were read in full. Before relying on an additional operative statutory qualification, its exact provision should be read. The FDA rulemaking/grant provisions, if decisive beyond the already supplied quotation and authority citation, likewise require their exact terms rather than an assumption of plenary delegated preemption power. These are bounded preparation tasks for resumed modeling, not a claim that the complete regulations are still missing.
+
+No Git command, prohibited directory access, comparator reading or final model was used. Writes remain within the authorized term folder.

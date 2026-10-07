@@ -1,0 +1,9 @@
+# Lewis v. Casey — neutral party-identity source addition
+
+Original submissions only. This addition supplies no commitment, historical Supreme Court reasoning, or Stone material. It does not modify a frozen packet or infer the truth of pleaded injuries.
+
+The Joint Appendix, printed page 22, reproduces the district-court complaint caption in No. CIV 90-0054 PHX CAM. It expressly names Frank Bartholic among the plaintiffs. The complaint's Parties section, printed page 23, paragraph 5, identifies plaintiffs as prisoners assigned to Arizona facilities; paragraph 7 identifies Frank Bartholic and alleges an access injury. These allegations are not findings.
+
+The petitioners' merits brief, Question Presented footnote on printed page i, expressly identifies twenty-two representative plaintiffs, including Bartholic. Harris is not among that listed roster. The identified sources establish Bartholic's named-plaintiff status; they do not establish Harris as a named plaintiff or establish any later joinder. Describe Harris only at the level supported by the evidence (a witness), unless another original submission establishes more. The distinction does not resolve constitutional injury, continuing standing, class representation, or the proper scope of relief.
+
+Source copies: `../research/chunk9_control_b/Casey_IA_06. Joint Appendix.txt`, printed pages 22–23; `../research/chunk9_control_b/Casey_IA_07. Petitioners Brief.txt`, Question Presented footnote, printed page i. The complete caption and relevant party paragraphs were checked in the original-submission OCR. Although the complaint injury prose has OCR defects, the name in its caption and paragraph 7 is clear; the brief independently confirms the name on its representative-plaintiff roster. No missing language concerning the alleged injury is reconstructed here.

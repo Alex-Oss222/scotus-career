@@ -1,0 +1,218 @@
+SOURCE: https://www.law.cornell.edu/supct/html/95-754.ZX.html
+
+ 
+
+ Medtronic, Inc. v. Lohr et vir, 518 U.S. 470 (1996). 
+
+ LII 
+
+ Supreme Court 
+
+ (95-754), 
+
+ Concurrence 
+ [ Breyer ] Syllabus 
+ Opinion 
+ [ Stevens ] Other 
+ [ O'Connor ] 
+ HTML version 
+ WordPerfect version HTML version 
+ WordPerfect version HTML version 
+ WordPerfect version HTML version 
+ WordPerfect version 
+
+Nos. 95-754 and 95-886
+
+ MEDTRONIC, INC., PETITIONER 95-754 v. LORA
+ LOHR et vir LORA LOHR, et vir, PETITIONERS 95-886 
+
+on writs of certiorari to the united states court of appeals for
+ the eleventh circuit
+
+[ June 26, 1996 ]
+
+ Justice O'Connor ,
+ with whom the Chief Justice, Justice Scalia, and Justice Thomas join, concurring
+ in part and dissenting in part.
+
+Section 360k(a), the pre-emption provision of the Medical Device
+ Amendments of 1976 (MDA), provides that no State may establish or continue
+ in effect "any requirement" "which is different from, or in addition to,"
+ any requirement applicable under the Federal Food, Drug, and Cosmetic Act
+ of 1938 (FDCA) to the device. As the Court points out, because Congress
+ has expressly provided a pre-emption provision, "we need not go beyond
+ that language to determine whether Congress intended the MDA to pre-empt"
+ state law. Ante, at 12. We agree, then, on the task before us: to
+ interpret Congress' intent by reading the statute in accordance with its
+ terms. This, however, the Court has failed to do.
+
+The case requires us to determine whether the Lohrs' state common
+ law claims survive pre-emption under §360k. I conclude that state
+ common law damages actions do impose "requirements" and are therefore pre-empted
+ where such requirements would differ from those imposed by the FDCA. The
+ plurality acknowledges that a common law action might impose a "requirement,"
+ but suggests that such a pre-emption would be "rare indeed." Ante, 
+ at 31. To reach that determination, the opinion--without explicitly relying
+ on Food and Drug Administration (FDA) regulations and without offering
+ any sound basis for why deference would be warranted "imports the FDA regulations
+ interpreting §360k to "inform" the Court's reading. Accordingly, the
+ principal opinion states that pre-emption occurs only "where a particular
+ state requirement threatens to interfere with a specific federal interest,"
+ ante, at 28, and for that reason, concludes that common law claims
+ are almost never pre-empted, ante, at 30-31, and that the Lohrs'
+ claims here are not pre-empted. This decision is bewildering and seemingly
+ without guiding principle.
+
+The language of §360k demonstrates congressional intent that
+ the MDA pre-empt "any requirement" by a State that is "different from,
+ or in addition to," that applicable to the device under the FDCA. The Lohrs
+ have raised various state common law claims in connection with Medtronic's
+ pacemaker lead. Analysis, therefore, must begin with the question whether
+ state common law actions can constitute "requirements" within the meaning
+ of §360k(a).
+
+We recently addressed a similar question in Cipollone, 
+ where we examined the meaning of the phrase "no requirement or prohibition"
+ under the Public Health Cigarette Smoking Act of 1969. Cipollone 
+ v. Liggett Group, Inc., 505
+ U.S. 504 (1992). A majority of the Court agreed that state common law
+ damages actions do impose "requirements." Id., at 521-522 (plurality
+ opinion), id., 548-549 (Scalia, J. and Thomas J., concurring in
+ judgment in part and dissenting in part). As the plurality explained:
+
+"The phrase, `[n]o requirement or
+ prohibition' sweeps broadly and suggests no distinction between positive
+ enactments and common law; to the contrary, those words easily encompass
+ obligations that take the form of common law rules. As we noted in another
+ context, `[state] regulation can be as effectively exerted through an award
+ of damages as through some form of preventive relief. The obligation to
+ pay compensation can be, indeed is designed to be, a potent method of governing
+ conduct and controlling policy.' San Diego Building Trades Council v.
+ Garmon, 359
+ U.S. 236 , 247 (1959)." Id., at 521. 
+
+That rationale is equally applicable in the present context. Whether
+ relating to the labeling of cigarettes or the manufacture of medical devices,
+ state common law damages actions operate to require manufacturers to comply
+ with common law duties. As Cipollone declared, in answer to the
+ same argument raised here that common law actions do not impose requirements,
+ "such an analysis is at odds both with the plain words" of the statute
+ and "with the general understanding of common law damages actions." Ibid. 
+ If §360k's language is given its ordinary meaning, it clearly pre-empts
+ any state common law action that would impose a requirement different from,
+ or in addition to, that applicable under the FDCA--just as it would pre-empt
+ a state statute or regulation that had that effect. Justice Breyer reaches
+ the same conclusion. Ante , at 1-3 (opinion concurring in part and
+ concurring in the judgment).
+
+The plurality's reasons for departing from this reading are neither
+ clear nor persuasive. It fails to refute the applicability of the reasoning
+ of Cipollone . Instead, in Part IV, the plurality essentially makes
+ the case that the statute's language, purpose, and legislative history,
+ as well as the consequences of a different interpretation, indicate that
+ Congress did not intend "requirement" to include state common law claims
+ at all. The principal opinion proceeds to disclaim this position, however,
+ in Parts V and VI and concludes, rather, that a state common law action
+ might constitute a requirement, but that such a case would be "rare indeed."
+ Ante, at 31. The Court holds that an FDCA "requirement" triggers
+ pre-emption only when a conflict exists between a specific state requirement
+ and a specific FDCA requirement applicable to the particular device. See
+ ante, at 26-30. But see ante, at 28 ("[W]e do not believe
+ that this statutory and regulatory language necessarily precludes `general'
+ federal requirements from ever pre-empting state requirements, or `general'
+ state requirements from ever being pre-empted . . . .") The plurality emphasizes
+ the "critical importance of device specificity" in its understanding of
+ the pre-emption scheme. Ante, at 31.
+
+To reach its particularized reading of the statute, the Court
+ imports the interpretation put forth by the FDA's regulations. Justice
+ Breyer similarly relies on the FDA regulations to arrive at an understanding
+ of §360(k). Ante , at 3-5. Apparently recognizing that Chevron 
+ deference is unwarranted here, the Court does not admit to deferring to
+ these regulations, but merely permits them to "infor[m]" the Court's interpretation.
+ Ante , at 23. It is not certain that an agency regulation determining
+ the pre-emptive effect of any federal statute is entitled to deference,
+ cf. Smiley v. Citibank (South Dakota), N.A., slip op. at
+ 8, but one pertaining to the clear statute at issue here is surely not.
+ "If the statute contains an express pre-emption clause, the task of statutory
+ construction must in the first instance focus on the plain wording of the
+ clause, which necessarily contains the best evidence of Congress' pre-emptive
+ intent." CSX Transp., Inc. v. Easterwood , 507
+ U.S. 658 , 664 (1993). Where the language of the statute is clear, resort
+ to the agency's interpretation is improper. See Chevron U. S. A. Inc., 
+ v. Natural Resources Defense Council, Inc., 467
+ U.S. 837 , 842-843 (1984). Title 21
+ U.S.C. § 360k (a)(1) directs the pre-emption of "any [state] requirement"
+ "which is different from, or in addition to, any requirement applicable
+ under [the FDCA] to the device." As explained above, and as Justice Breyer
+ agrees, ante, at 1-3, the term "requirement" encompasses state common
+ law causes of action. The Court errs when it employs an agency's narrowing
+ construction of a statute where no such deference is warranted. The statute
+ makes no mention of a requirement of specificity, and there is no sound
+ basis for determining that such a restriction on "any requirement" exists.
+
+I conclude that a fair reading of §360k indicates that state
+ common law claims are pre-empted, as the statute itself states, to the
+ extent that their recognition would impose "any requirement" different
+ from, or in addition to, FDCA requirements applicable to the device. From
+ that premise, I proceed to the question whether FDCA requirements applicable
+ to the device exist here to pre-empt the Lohrs' state law claims.
+
+I agree with the Court that the Lohrs' defective design claim
+ is not pre-empted by the FDCA's §510(k) "substantial equivalency"
+ process. The §510(k) process merely evaluates whether the Class III
+ device at issue is substantially equivalent to a device that was on the
+ market before 1976, the effective date of the Medical Device Amendments;
+ if so, the later device may be also be marketed. Because the §510(k)
+ process seeks merely to establish whether a pre-1976 device and a post-1976
+ device are equivalent, and places no "requirements" on a device, the Lohrs'
+ defective design claim is not pre-empted.
+
+I also agree that the Lohrs' claims are not pre-empted by §360k
+ to the extent that they seek damages for Medtronic's alleged violation
+ of federal requirements. Where a state cause of action seeks to enforce
+ an FDCA requirement, that claim does not impose a requirement that is "different
+ from, or in addition to" requirements under federal law. To be sure, the
+ threat of a damages remedy will give manufacturers an additional cause
+ to comply, but the requirements imposed on them under state and federal
+ law do not differ. Section §360k does not preclude States from imposing
+ different or additional remedies, but only different or additional
+ requirements. 
+
+I disagree, however, with the Court's conclusion that the Lohrs'
+ claims survive pre-emption insofar as they would compel Medtronic to comply
+ with requirements different from those imposed by the FDCA. Because I do
+ not subscribe to the Court's reading into §360k the additional requisite
+ of "specificity," my determination of what claims are pre-empted is broader.
+ Some if not all of the Lohrs' common law claims regarding the manufacturing
+ and labeling of Medtronic's device would compel Medtronic to comply with
+ requirements different from or in addition to those required by the FDA.
+ The FDA's Good Manufacturing Practice (GMP) regulations impose comprehensive
+ requirements relating to every aspect of the device manufacturing process,
+ including a manufacturer's organization and personnel, buildings, equipment,
+ component controls, production and process controls, packaging and labeling
+ controls, holding, distribution, installation, device evaluation, and record
+ keeping. See 21
+ CFR §§ 820.20 -820.198 (1995). The Lohrs' common law claims
+ regarding manufacture would, if successful, impose state requirements "different
+ from, or in addition to" the GMP requirements, and are therefore pre-empted.
+ In similar fashion, the Lohrs' failure to warn claim is pre-empted by the
+ extensive labeling requirements imposed by the FDA. See, e.g., 21
+ CFR § 801.109 (requiring labels to include such information as
+ indications, effects, routes, methods, frequency and duration of administration,
+ relevant hazards, contraindications, side effects, and precautions). These
+ extensive federal manufacturing and labeling requirements are certainly
+ applicable to the device manufactured by Medtronic. Section 360k(a) requires
+ no more specificity than that for pre-emption of state common law claims.
+
+To summarize, I conclude that §360k(a)'s term "requirement"
+ encompasses state common law claims. Because the statutory language does
+ not indicate that a "requirement" must be "specific," either to pre-empt
+ or be pre-empted, I conclude that a state common law claim is pre-empted
+ if it would impose "any requirement" "which is different from, or in addition
+ to," any requirement applicable to the device under the FDCA. I would affirm
+ the judgment of the Court of Appeals that the Lohrs' design claim is not
+ pre-empted by the MDA, and that the manufacture and failure to warn claims
+ are pre-empted; I would reverse the judgment of the Court of Appeals that
+ the MDA pre-empts a common law claim alleging violation of federal requirements.
+

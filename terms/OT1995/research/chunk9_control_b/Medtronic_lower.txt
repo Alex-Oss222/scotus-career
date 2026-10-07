@@ -1,0 +1,311 @@
+SOURCE: https://static.case.law/f3d/56/html/1335-01.html
+
+ 
+
+Lora LOHR, Michael Lohr, Her Husband, Plaintiffs-Appellants, v. MEDTRONIC, INC., a Foreign Corporation, Defendant-Appellee. 
+
+No. 94-2516. 
+
+United States Court of Appeals, Eleventh Circuit. 
+
+July 3, 1995. 
+
+Rehearing and Suggestion for Rehearing En Bane Denied Aug. 15, 1995. 
+
+ *1338 Daniel C. Shaughnessy, Cowles & Shaugh-nessy, P.A., Robert F. Spohrer, Spohrer, Wilner & Maxwell, P.A., Jacksonville, FL, Brian Wolfman, Public Citizen Litigation Group, Washington, DC, for appellants. 
+
+Dennis P. Waggoner, Hill, Ward & Henderson, P.A., Tampa, FL, Marcus R. Magnuson, Medtronic, Inc., Minneapolis, MN, Daniel G. Jarcho, McKenna & Cuneo, Washington, DC, for appellee. 
+
+Before BLACK and BARKETT, Circuit Judges, and RONEY, Senior Circuit Judge. 
+
+BLACK, Circuit Judge: 
+
+In this case we must decide whether the Medical Device Amendments of 1976 (MDA or Act), 21 U.S.C.A. §§ 360c-360¿ (West Supp.1994) preempt Appellants’ state law negligent design, negligent manufacture, failure to warn, and strict liability claims against the manufacturer of an allegedly defective pacemaker. The district court found that they did and dismissed the entire action. We hold that Appellants’ negligent manufacture and failure to warn claims are preempted and affirm their dismissal. We also hold that Appellants’ negligent design and strict liabili *1339 ty claims are not preempted and therefore reverse their dismissal. 
+
+I. BACKGROUND 
+
+Because an understanding of the MDA’s regulatory scheme is necessary to resolve the question of preemption, we begin with a brief outline of the Act. 
+
+A. The Regulatory Scheme 
+
+The market for medical devices was largely unregulated at the national level until the MDA’s passage in 1976. With the MDA, Congress gave the federal Food and Drug Administration (FDA) comprehensive jurisdiction over all “devices intended for human use.” 21 U.S.CJL § 360c(a)(l). The text of the MDA reveals two competing congressional purposes relevant to this case: 1 (1) the MDA protects the public from unnecessary illness or injury by subjecting medical devices to a regulatory scheme designed to ensure that the devices are safe and effective, see, e.g., 21 U.S.C.A. §§ 360c(a)(l)(A)(i); 360c(a)(l)(B); 360e(d)(2); and (2) the MDA protects the public by encouraging the development and marketing of medical devices by crafting a nationally uniform regulatory scheme that prevents overregulation and thus ensures that development can be economically feasible, see, e.g., 21 U.S.C.A. §§ 360j(g)(l); 360k(a). 
+
+These twin purposes are confirmed by the legislative history of the Act. For example, the House Report on the Act states: 
+ Those involved in the development, promotion, and application of medical devices generally agree that the public deserves more protection against unsafe, unproven, ineffective, and experimental medical devices. But this belief is counterbalanced by an equally strong conviction that excessive or ill-conceived Federal device regulation would stifle progress in this field. 
+
+H.R.Rep. No. 853, 94th Cong., 2d Sess. 10 (1976). Legislative history from the Senate reflects the same balancing of interests. See S.Rep. No. 33, 94th Cong., 1st Sess. 5, 12 (1975). The need to balance public safety with continued development was reiterated when Congress amended the MDA in 1990. 
+ Simply put, the [MDA] sought to avoid overregulation, thus eliminating unnecessary resource costs to industry and the government, foster incentives to encourage innovation in a relatively youthful industry and, most importantly, provide the public reasonable assurances of safe and effective devices. 
+
+S.Rep. No. 513, 101st Cong., 2d Sess. 13 (1990). The MDA thus reflects the intent of Congress to scrutinize the medical device industry to a greater extent without stifling innovation and development. 
+
+All medical devices regulated by the MDA fall into three statutory categories. Class I devices are those which pose little threat to the safety of the consuming public. These devices, including everything from tongue depressors to acoustic chambers, are subject only to the Act’s generally applicable regulations. See 21 U.S.C.A. § 360c(a)(l)(A). Class II devices are those which pose enough of a safety hazard to require regulation beyond the general controls applicable to Class I devices. Class II devices, like tampons and oxygen masks, are consequently subject to device-specific special controls. See 21 U.S.C.A. § 360c(a)(l)(B). 
+
+Class III devices are those that the FDA determines are too unproven to be rendered safe by general controls or present a potential for unreasonable risk of illness or injury. Almost all life-sustaining medical devices, like pacemakers, are classified as Class III devices. In addition to the Act’s general regulations and, in some instances, device-specific controls, Class III devices must generally undergo premarket approval (PMA) before the FDA will allow them into the marketplace. See 21 U.S.C.A. § 360c(a)(l)(C). The premarket approval *1340 process is a vigorous one, requiring the applicant to present the FDA with “all information” known or reasonably knowable about the device, including detailed information about the design, manufacture, uses, and labeling of the device. 21 U.S.C.A. § 360e(c)(l). 
+
+While the MDA contemplates that most Class III devices will reach the market through the PMA process, there are important exceptions. First, the MDA grandfathered into the market all devices introduced before May 28, 1976 — the effective date of the Act. 21 U.S.C.A. § 360e(b)(l)(A); 21 C.F.R. § 814.1 (c)(1) (1994). Second, the MDA contains an investigational device exemption (IDE) for new devices under clinical investigation to determine their safety or effectiveness. 21 C.F.R. § 812.3 (g). See 21 U.S.C.A. § 360j(g). In order to foster the development of useful devices, IDE procedures allow manufacturers to begin limited marketing of new devices without undergoing the rigorous PMA process. 21 U.S.C.A. § 3600 (g)(1). 
+
+Finally, a Class III device may reach the market without undergoing the PMA procedures if the device is found to be the “substantial equivalent” of an already-marketed device, including a device grandfathered into the market. 21 U.S.C.A. § 360e(b)(l)(B). For a device to qualify as the substantial equivalent of one which is already being marketed, the FDA must determine that the new device has the same intended use as the predicate device and either the same technological characteristics or the same safety and effectiveness as the predicate device. 21 U.S.C.A. § 360c(i)(l)(A). Every device entering the market as a substantial equivalent is subject to a premarket notification process (510(k) process) which allows the FDA to classify the device and make its substantial equivalence finding. 21 U.S.C.A. §§ 360 (k); 360c(f)(l). 
+
+B. Facts 2 
+
+This ease arises from the failure of a pacemaker manufactured by Appellee Medtronic, Inc. The pacemaker in question, the Model 8403 Activitrax (Activitrax), is a Class III device under the MDA. 21 C.F.R. § 870.3610 . The Activitrax has never been subject to the PMA process. See 21 C.F.R. § 870.3610 (c). 
+
+Appellant Lora Lohr was implanted with an Activitrax pacemaker in 1987. The pacemaker failed in 1990, forcing Ms. Lohr to endure emergency surgery to replace the Activitrax. According to Ms. Lohr’s treating physician, the failure was caused by a defect in the pacemaker “lead” — the wire carrying electrical impulses from the pacemaker to the patient’s heart tissues. 
+
+The Activitrax lead component, the Model 4011, is manufactured by Appellee as part of its pacemaker system. The FDA permitted marketing of the Model 4011 in 1982 after finding that it was the substantial equivalent of a device introduced prior to the effective date of the MDA. In other words, the Model 4011 entered the market through the 510(k) process as the substantial equivalent of a device grandfathered into the Act. 
+
+C. Procedural History 
+
+Appellants Lora and Michael Lohr originally brought this action in a Florida court, but Appellee removed the case to the Middle District of Florida based on diversity of citizenship. In their complaint, Appellants seek damages for injuries Lora Lohr allegedly sustained as a result of the Activitrax’s failure and for Michael Lohr’s alleged loss of consortium. The complaint contains four theories of liability: (1) negligent design; (2) negligent manufacture; (3) negligent failure to warn; and (4) strict liability in tort. 3 
+
+Shortly after removing the ease, Appellee moved for summary judgment, asserting that Appellants’ claims were preempted by the MDA. The district court denied the motion in December 1993, but reconsidered its decision in light of this Court’s decision in Duncan v. Iolab Corp., 12 F.3d 194 (11th Cir. *1341 1994). Upon reconsideration, the district court granted Appellee’s motion for summary-judgment, interpreting Duncan as preempting all state law claims for negligence and strict liability. This appeal follows. 4 
+
+II. DISCUSSION 
+
+The sole issue on appeal is whether the district court erred in holding that the MDA preempts all common law tort claims against a Class III device which entered the market through the 510(k) process as the substantial equivalent of a grandfathered device. 
+
+A. Standard of Review 
+
+Statutory interpretation presents a question of law over which we exercise de novo review. Barnett Bank of Marion County, N.A. v. Gallagher, 43 F.Sd 631, 633 (11th Cir.1995). We review an administrative agency’s statutory interpretation de novo, but defer to an agency’s interpretation if it is reasonable. Asencio v. I.N.S., 37 F.3d 614 , 616 (11th Cir.1994). 
+
+B. Preemption Under the MDA 
+
+The Constitution makes the laws of the United States “the supreme Law of the Land; ... any Thing in the Constitution or Laws of any State to the Contrary notwithstanding,” U.S. Const, art. VI, cl. 2, and when federal and state laws conflict, the latter must give way, CSX Transp., Inc. v. Easterwood, — U.S. -, -, 113 S.Ct. 1732 , 1737, 123 L.Ed.2d 387 (1993). Whether a federal statute preempts state law is a question of congressional intent. Hawaiian Airlines, Inc. v. Norris, — U.S. -, -, 114 S.Ct. 2239 , 2243, 129 L.Ed.2d 203 (1994); Forbus v. Sears Roebuck & Co., 30 F.3d 1402 , 1405 (11th Cir.1994), cert. denied, — U.S. -, 115 S.Ct. 906 , 130 L.Ed.2d 788 (1995). Congressional enactment of a provision defining the preemptive scope of a statute implies that it intended to limit the preemptive scope of the statute to the express terms of the preemption provision. Freightliner Corp. v. Myrick, — U.S. -, -, 115 S.Ct. 1483 , 1488, 131 L.Ed.2d 385 (1995); Cipollone v. Liggett Group, Inc., — U.S. -, -, 112 S.Ct. 2608 , 2618, 120 L.Ed.2d 407 (1992). In the absence of a “general, inherent conflict” between the state and federal law, review is limited to the express terms of the preemption provision. Freightliner, — U.S. at -, 115 S.Ct. at 1488 (quoting Cipollone, — U.S. at -, 112 S.Ct. at 2618 ). 
+
+In determining the preemptive scope of the express language, however, several presumptions guide our analysis. First, preemption is appropriate only if it is the clear and manifest purpose of Congress. Department of Revenue of Or. v. ACF Industries, Inc., — U.S. -, -, 114 S.Ct. 843 , 851, 127 L.Ed.2d 165 (1994); CSX, — U.S. at -, 113 S.Ct. at 1737 ; United States v. Lot 5, Fox Grove, Alachua County, Fla., 23 F.3d 359 , 361 (11th Cir.1994), cert. denied, — U.S. -, 115 S.Ct. 722 , 130 L.Ed.2d 627 (1995). Second, preemption of actions within the traditional police powers of a state “should not be lightly inferred.” Hawaiian Airlines, — U.S. at -, 114 S.Ct. at 2243 (quoting Fort Halifax Packing Co. v. Coyne, 482 U.S. 1 , 21, 107 S.Ct. 2211 , 2222, 96 L.Ed.2d 1 (1987)). Finally, there is a presumption against preemption if it would deny a party all judicial remedies. Silkwood v. Kerr-McGee Corp., 464 U.S. 238 , 251-52, *1342 104 S.Ct. 615 , 623, 78 L.Ed.2d 443 (1984); Michael v. Shiley, Inc., 46 F.3d 1316 , 1326 (3rd Cir.1995). Although the presumptions against preemption cannot drive our analysis and must yield to a clear expression of congressional intent, in a close case the presumptions tip our statutory interpretation against preemption. See Cipollone, — U.S. at -, 112 S.Ct. at 2618 ; Morales v. Trans World Airlines, Inc., 504 U.S. 374 , 383-85, 112 S.Ct. 2031 , 2037, 119 L.Ed.2d 157 (1992). 
+
+Preemption under the MDA is governed by the Act’s preemption provision, 5 which states: 
+ Except as provided in subsection (b) of this section [delineating an exemption procedure not relevant to this case], no State or political subdivision of a State may establish or continue in effect with respect to a device intended for human use any requirement— 
+ (1) which is different from, or in addition to, any requirement applicable under this chapter to the device, and 
+ (2) which relates to the safety or effectiveness of the device or to any other matter included in a requirement applicable to the device under this chapter. 
+
+21 U.S.C.A. § 360k(a). To determine whether Appellants’ claims are preempted by the MDA, we must compare the “State ... requirement[s]” under which the suit was brought with MDA-imposed requirements. Before comparing Appellants’ claims with the requirements imposed on the Activitrax by the MDA, however, we must address two threshold questions: (1) what constitutes a “State ... requirement” and (2) what constitutes a “requirement” under the MDA. 21 U.S.C.A. § 360k(a). 
+
+1. State Requirement. 
+
+To determine what § 360k(a) means by a “State ... requirement different from, or in addition to” MDA requirements, we must consider whether Congress intended to include state common law actions. 6 Were we writing on a clean slate, this might present a difficult question, but we do not write on a clean slate. In Duncan v. Iolab Corp., 12 F.3d 194 , this Court adopted the Seventh Circuit’s reasoning in Slater v. Optical Radiation Corp., 961 F.2d 1330 (7th Cir.), cert. denied, — U.S. —, 113 S.Ct. 327 , 121 L.Ed.2d 246 (1992), and held that the MDA preempted a plaintiff’s negligence, strict liability, and breach of implied warranty claims. Thus, the law of this Circuit is that the phrase “State ... requirement” in § 360k(a) includes state common law tort actions. See also Cipollone, — U.S. at -, 112 S.Ct. at 2620 (“The phrase ‘no requirement or prohibition’ sweeps broadly and suggests no distinction between positive enactments and common law”) (quoting 15 U.S.C. § 1334 (b)). Every circuit to consider the question agrees that common law actions are state requirements within the meaning of § 360k(a). 7 
+
+The existence of a savings clause within the MDA cannot alter this conclusion. The savings clause states that “[compliance with an order [under the MDA] shall not relieve any person from liability under Federal or State law.” 21 U.S.C.A. § 360h(d). While the savings clause almost certainly prohibits a holding that the MDA preempts all state law liability, our interpretation of § 360k(a) does not preclude all liability. Further, nothing in the savings clause suggests that *1343 some tort liability, as opposed to other types of liability, must be preserved. Interpreting the savings clause to preserve non-tort liability, such as contract liability, is not only permissible, but also comports with the Supreme Court’s interpretation of a savings clause in a recent preemption case. See American Airlines, Inc. v. Wolens, — U.S. -, -, 115 S.Ct. 817 , 826, 130 L.Ed.2d 715 (1995) (holding that the Airline Deregulation Act preempts claims under the Illinois Consumer Fraud and Deceptive Business Practices Act but does not preempt state breach of contract actions). Moreover, where the preemptive intent of Congress is clear, a general savings clause cannot supersede the specific preemption provision. Morales, 504 U.S. at 383-85 , 112 S.Ct. at 2037 . In short, as long as we interpret § 360k(a) as permitting some state law liability, the MDA’s savings clause simply begs the question of what liability it preserves. 
+
+Appellants’ reply brief suggests that their negligent manufacturing and failure to warn claims are exempt from preemption under § 360k(a) because the claims may demonstrate a violation of the MDA’s own requirements and, therefore, do not constitute state requirements “different from, or in addition to” the Act’s requirements. While we ordinarily do not address arguments first raised in a reply brief, Allstate Ins. Co. v. Swann, 27 F.3d 1539 , 1542 (11th Cir.1994), we will exercise discretion to reach this question because the law in this Circuit forecloses Appellants’ argument. 8 
+
+ Papas v. Upjohn Co., 985 F.2d 516 (11th Cir.), cert. denied, — U.S.-, 114 S.Ct. 300 , 126 L.Ed.2d 248 (1993), considered the scope of preemption under the Federal Insecticide, Fungicide, and Rodentieide Act (FIFRA). 7 U.S.C.A. §§ 136 -136y. In Papas, the plaintiffs, like Appellants in this case, argued against preemption by claiming that their common law action would show a violation of the EPA’s own FIFRA labeling standards. Therefore, the plaintiffs claimed that their suit was not a “requirement ... in addition to or different from” FIFRA’s labeling requirements. Papas, 985 F.2d at 518— 19 (quoting 7 U.S.C.A. § 136v). We rejected the argument, noting that “it is for [the agency], not a jury, to determine whether labelling and packaging information is incomplete or inaccurate, and if so what label changes, if any, should be made.” Id. at 519 . We believe Papas controls here and hold that preemption under the MDA cannot be defeated by a common-law suit alleging a violation of the statutory standards. Every circuit court decision addressing this issue under the MDA agrees. 9 
+
+2. Requirements Under the MDA 
+
+a. The FDA’s Preemption Regulations. 
+
+Where the plain meaning of the express terms of a statute is unclear, we may defer to a reasonable interpretation adopted by the agency charged with enforcing the statute. See Chevron, U.S.A., Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837 , 843-44, 104 S.Ct. 2778 , 2782, 81 L.Ed.2d 694 (1984). Appellants insist that the meaning of “requirements” as used in § 360k(a) is unclear and that we should therefore defer to the FDA regulations clarifying the meaning of “requirements.” 10 
+
+Appellee responds that under the express preemption rule enunciated in Cipollone v. Liggett Group, Inc., our analysis should be “governed entirely by the express language” of the Act. Cipollone, — U.S. at -, 112 S.Ct. at 2618. Alternatively, Appellee argues that the FDA’s regulations are contrary to the clear intent of Congress and, therefore, are not entitled to deference. We disagree. 
+
+ Cipollone did not prohibit reliance on an agency’s preemption regulations. While the *1344 opinion speaks only of “the express language” of the statutes, neither of the statutes examined in Cipollone had regulations interpreting its preemptive scope and nothing in the opinion indicates that the issue of preemption regulations was ever raised or considered. Appellee’s argument thus asks us to find a sub silentio holding in Cipollone, something which courts are reluctant to do. See Federal Election Com’n v. NRA Political Victory Fund, -U.S. -, -, 115 S.Ct. 537 , 542, 130 L.Ed.2d 439 (1994). Moreover, the Supreme Court has deferred to FDA preemption regulations in the past, see Hills-borough County, Fla. v. Automated Med. Labs., Inc., 471 U.S. 707 , 712-14, 105 S.Ct. 2371 , 2375-76, 85 L.Ed.2d 714 (1985), and has examined another agency’s preemption practices in at least one post-Cipollone case, see Wolens, — U.S. at -, 115 S.Ct. at 825 (discussing the Department of Transportation’s interpretation of its authority to displace courts in air carrier contract disputes). We are therefore unable to conclude that Cipollone created an express preemption rule which forecloses our examination of the FDA’s regulations. 
+
+The principles guiding deference to an agency’s interpretation of a statute are well established. First we must ask whether Congress has spoken directly to the precise question. NationsBank of N.C., N.A. v. Variable Annuity Life Ins. Co., — U.S. -, -, 115 S.Ct. 810 , 813, 130 L.Ed.2d 740 (1995); Chevron, 467 U.S. at 841-43 , 104 S.Ct. at 2781. If the statute does directly address the precise question, an agency interpretation to the contrary is entitled to no deference; if not, the Court must inquire into whether the agency’s interpretation is reasonable. NationsBank, — U.S. at -, 115 S.Ct. at 813-14; Chevron, 467 U.S. at 843-44 , 104 S.Ct. at 2782 . We defer to the agency’s interpretation unless it is “arbitrary, capricious, or manifestly contrary to the statute.” Chevron, 467 U.S. at 844 , 104 S.Ct. at 2782. 
+
+Congress’s choice of the word “requirement” in § 360k(a)(l), does not speak directly to the precise issue of whether Appellants’ state common law tort claims are preempted by the MDA. As used in § 360k(a), a “requirement” refers to a legal obligation, see Brown v. Gardner, — U.S. -, -, 115 S.Ct. 552 , 555, 130 L.Ed.2d 462 (1994) (“Ambiguity is a creature not of definitional possibilities but of statutory context”) and the corresponding definition is “something called for or demanded,” Webster’s New International Dictionary 1929 (3d ed. 1976). See Asgrow Seed Co. v. Winterboer, — U.S. -, -, 115 S.Ct. 788 , 793, 130 L.Ed.2d 682 (1995) (stating that undefined statutory terms should be given their ordinary meaning). Even using this ordinary meaning, the scope of the word “requirement” is ambiguous and consideration of the FDA’s interpretation is appropriate. 
+
+In defining the scope of § 360k(a), the FDA has indicated that: 
+ State or local requirements are preempted only when the Food and Drug Administration has established specific counterpart regulations or there are other specific requirements applicable to a particular device under the act.... 
+
+ 21 C.F.R. § 808.1 (d) (emphasis added). We believe that this narrowing of the meaning of “requirement[s]” applicable ... to the device” to “specific counterpart regulations” or “specific requirements applicable to a particular device” is reasonable because it avoids a host of problems raised by a literal reading of § 360k(a). First, an expansive reading of § 360k(a) would infer broad preemptive intent in the face of well-settled presumptions against such a construction. See, e.g., ACF Industries, — U.S. at -, 114 S.Ct. at 851. Second, the broadest construction of § 360k(a) would call into question almost all state law liability pertaining to MDA-regulated manufacturers. Such an interpretation would render the MDA’s savings clause, 21 U.S.C.A. § 360h(d), meaningless, violating a cardinal rule of statutory construction which avoids interpretations which render a statutory provision superfluous, see Ratzlaf v. United States, — U.S. -, -, 114 S.Ct. 655 , 659, 126 L.Ed.2d 615 (1994). Third, although a state PMA requirement would logically be preempted by a literal reading of § 360k(a), the Act’s legislative history suggests that such practices should not be *1345 preempted. H.R.Rep. No. 853, 94th Cong., 2d Sess. 45^6 (1976). 11 
+
+Because Congress left open the question of what MDA “requirements” preempt competing state requirements, the FDA’s addition of the word “specific” is a reasonable interpretation of the statute. By clarifying the statutory term “requirement” to mean “specific requirements,” the FDA’s preemption regulation stayed within the zone of reasonableness required of agency interpretations. See Chevron, 467 U.S. at 843^4, 104 S.Ct. at 2782-83. Finally, we note that every court decision which the parties have brought to our attention either explicitly 12 or implicitly 13 regards the preemption regulations as valid. We hold that the FDA’s preemption regulations are a reasonable interpretation of § 360k(a) entitled to deference by the Court. 
+
+b. MDA Specific Requirements. 
+
+Although the FDA’s clarification of § 360k(a) is helpful, we must still struggle with defining what “specific requirements” under the MDA trigger preemption. See 21 C.F.R. § 808.1 (d). Appellants interpret the regulations to mean that in this case preemption is proper “only if there are federal requirements imposed specifically upon manufacturers of pacemakers regarding” design, manufacture, or warnings. In other words, Appellants take the position that only MDA regulations which state that “a pacemaker manufacturer must do ...” can constitute “specific requirements” triggering preemption. Appellees, on the other hand, argue that the regulations cannot be interpreted to require device specificity. 
+
+A careful reading of the FDA’s MDA preemption regulations does not support the device-specific interpretation Appellants seek to impose. Significantly, the regulations allow preemption “when [1] the Food and Drug Administration has established specific counterpart regulations or [2] there are other specific requirements applicable to a particular device under the act[.]” Id. (emphasis supplied). The word “or” in the regulation indicates that the FDA intended the two conditions for preemption to be alternatives so that the existence of either condition triggers preemption. See Hawaiian Airlines, — U.S. at-, 114 S.Ct. at 2245. While the first condition, the existence of “specific counterpart regulations,” might be read to require device specificity, the second condition cannot. 
+
+The most natural reading of the FDA’s “specific requirements” language requires specificity in the nature of the requirements, not in their applicability to designated devices. The “applicable to a particular device” language, mirroring the statute, requires a court to ask whether the requirements in question apply to the device in question. See 21 U.S.C.A. § 360k(a); 21 C.F.R. § 808.1 (d). That language does not suggest that the requirements themselves must mention the particular device in question. Our preemption inquiry must ask whether “specific requirements” apply to a device, not whether the requirements specify the device. 
+
+Construing the FDA’s preemption regulations to require device specificity also contradicts the structure of the Act. Under the MDA, Class III devices are subject to the highest level of scrutiny through the PMA process. 14 
+ See 21 U.S.C.A. § 360c(a)(l)(C). *1346 
+ Accord Martello, 42 F.3d at 1168; Stamps, 984 F.2d at 1419. Yet the PMA procedure’s “requirements” under the MDA are not device-specific. Instead, the PMA process requires manufacturers to submit to an approval process standardized for all Class III devices. See, e.g., 21 U.S.C.A. § 360e(c)-(d); 21 C.F.R. §§ 814.1-814.45 . It would be anomalous for the MDA to preempt certain claims which conflict with device-specific requirements placed on Class II devices, see National Bank, 38 F.3d at 990; Moore v. Kimberly-Clark Corp., 867 F.2d 243 , 247 (5th Cir.1989), but not preempt claims against devices subject to the MDA’s most rigorous, albeit non-device-specifie, procedures. 15 Thus, the overall structure of the MDA supports interpreting the FDA’s preemption regulations as not requiring device specificity. 
+
+Finally, a device-specific requirement is contrary to the clear weight of authority. Although some reported decisions demand that an MDA’s “requirement” be device-specific, see Larsen, 837 P.2d at 1282; Ginochio, 864 F.Supp. at 953; Oja v. Howmedica, Inc., 848 F.Supp. 905 , 906-07 (D.Colo.1994), only the Ninth Circuit appears to accept this position, 16 
+ Anguiano, 44 F.3d at 809. Significantly, the First, Third, Fifth, and Eighth Circuits’ MDA preemption decisions reject reading any device-specific requirement into § 360k(a) and its regulatory clarification. See Michael, 46 F.3d at 1324 (3rd Cir.); Reeves, 44 F.3d at 304-05 (5th Cir.); Martello, 42 F.3d at 1169 (8th Cir.); Mendes, 18 F.3d at 17-19 (1st Cir.). 
+
+Nevertheless, our rejection of Appellants’ interpretation of the FDA regulations does not remove all significance from the FDA’s choice of the word “specific.” While a precise definition of what the FDA means by “specific requirements” is neither possible nor desirable, the term must at least narrow the potentially unlimited scope of preemption under § 360k(a). Starting with the plain meaning of the term “specific,” defined inter alia as “having a real and fixed relationship to [and] restricted by nature to a particular individual, situation, relation, or effect,” Webster’s New International Dictionary 2187 (3d ed. 1976), the FDA’s call for “specific requirements” under the MDA and the interpretive presumptions against preemption, see Hawaiian Airlines, — U.S. at -, 114 S.Ct. at 2243; ACF Industries, — U.S. at -, 114 S.Ct. at 851; Silkwood, 464 U.S. at 251-52 , 104 S.Ct. at 623 , preclude an overly-broad reading of the Act’s preemptive scope. 17 We hold that preemption-triggering requirements should, in some way, be “restricted by nature” to a particular process, procedure, or device 18 and should not be completely open-ended. 
+
+ *1347 C. Preemption of Appellants’ Claims 
+
+Having laid out the general rules of preemption under the MDA, we must now conduct a claim-by-elaim inquiry to determine whether Appellants’ state law claims are preempted. 
+
+The MDA preempts a state or local “requirement” which is both “different from, or in addition to” a specific MDA requirement, and “relates to the safety or effectiveness” or “any other matter” included in a specific MDA requirement. 21 U.S.C.A. § 360k(a). See also 21 C.F.R. § 808.1 (d). We have already determined that state common law claims can impose state requirements within the meaning of the MDA and that these state requirements must be compared with those specific MDA requirements applicable to the device at the heart of the suit. We must now determine whether Appellants’ claims are “different from or in addition to” and “relate to any matter” included in a specific MDA requirement. 21 U.S.C.A. § 360k(a). 
+
+The narrow focus of our inquiry should be emphasized. In this section we examine only preemption of state common law claims against the manufacturer of a Class III device which entered the market via the 510(k) process as the substantial equivalent of a grandfathered device. This narrow focus often limits the usefulness of the authorities both parties rely upon. For example, Appel-lee’s heavy reliance on Stamps, 984 F.2d 1416 , and King, 983 F.2d 1130 , is misplaced because the device at issue in those cases had undergone the full PMA process before it entered the market. 
+
+Our narrow focus also precludes Appellants’ reliance on Smith v. Pingree, 651 F.2d 1021 (5th Cir., Unit B 1981). First, Smith was decided prior to the Supreme Court’s Cipollone decision and relied on implied preemption principles to reach its decision. Smith, 651 F.2d at 1024 (citing Chemical Specialties Mfrs. Assn., Inc. v. Clark, 482 F.2d 325 , 327 (5th Cir.1973)). See also id. at 1025. Cipollone made clear that in the absence of some “cause to look beyond” an express preemption provision, implied preemption principles should not be used to decide the preemptive scope of a statute in which Congress provided an express preemption provision. 19 
+ Cipollone, — U.S. at -, 112 S.Ct. at 2618. See also Freightliner, — U.S. at -, 115 S.Ct. at 1488. Second, Smith is factually distinguishable from the instant case because it considered the preemptive scope of the MDA’s Class II regulations on a state regulatory statute. Smith, 651 F.2d at 1022 (citing Fla.Stat. §§ 468.135(7); 468.136(l)-(2)). Third and most importantly, the result in Smith relies on the fact “that the Florida statute does not relate ‘to a matter included in a federal requirement applicable to a device.’ ” Smith, 651 F.2d at 1025 (quoting 21 U.S.C.A. § 360k(a)(2)). See also id. at 1024 (holding that § 468.135(7) is not preempted because it addresses a different concern than does the MDA). In other words, Smith found that the state statute at issue did not relate to the safety and effectiveness or to “any other matter” within the MDA. See 21 U.S.C.A. § 360k(a)(2). In contrast, Appellants cannot seriously dispute that their tort action relates to the safety of the Activitrax. Thus, Smith provides no guidance in deciding the case before us. 
+
+1. Negligent Design. 
+
+Appellants’ complaint alleged that Appellee breached its duty of care to Lora Lohr by negligently designing and testing the Activitrax pacemaker. Appellants contend that the district court erred by dismissing this claim because the Activitrax and its Model 4011 lead were never subject to any specific requirements under the MDA within the meaning of the Act’s preemption provision. Appellee responds that the district court correctly found Appellants’ claim preempted because the Activitrax is subject to numerous requirements under the MDA. We conclude that none of the regulations applicable to the Activitrax constitute specific requirements under the MDA and therefore reverse the district court’s preemption of Appellants’ negligent design claim. 
+
+ *1348 Appellants’ Florida law negligent design claim could certainly impose a “State ... requirement” upon the Activitrax. 21 U.S.C.A. § 360k(a). As explained above, congressional use of the term “requirement” sweeps broadly to encompass common law, as well as statutory and regulatory requirements. Cipollone, — U.S. at -, 112 S.Ct. at 2620, Duncan, 12 F.3d at 195 . Appellants’ negligent design action would ask the jury to decide if Appellee did “something that a reasonably careful person would not do under like circumstances or ... fail[ed] to do something that a reasonably careful person would do under like circumstances.” Florida Standard Jury Instructions in Civil Cases § 4.1. If the MDA establishes specific requirements that apply to the design of the Activitrax, Appellants’ action would ask the jury to declare what constitutes a reasonable design after the MDA already set the standard. By doing so, Appellants’ claim would be “different from or in addition to” the MDA standard, would “relate ... to [a] matter included” in the MDA, and would, therefore, be preempted. See 21 U.S.C.A. § 360k(a). See, e.g., National Bank, 38 F.3d at 991; Gile, 22 F.3d at 544; Slater, 961 F.2d at 1333 . In sum, if the FDA, pursuant to its authority under the MDA, has imposed specific requirements on the Activitrax, a jury cannot add any requirements. See, e.g., Papas, 985 F.2d at 518 . Appellee identifies four ways in which the MDA allegedly imposes specific requirements on the Activitrax and its Model 4011 lead. We consider each in turn. 
+
+First, Appellee insists that the FDA’s approval of the Model 4011’s 510(k) submission constitutes a finding that the device is safe and effective under the Act — a finding Appel-lee equates to a specific requirement. Even assuming that a safety and effectiveness finding would constitute a specific design requirement under the MDA, we are not convinced that 510(k) approval constitutes a finding of safety and effectiveness. 
+
+A finding of “substantial equivalence” by the FDA means that the new device has the same intended use as the original device and that the new device either has the same technological characteristics as the original or is demonstrated to be as safe and effective as the original device. 21 U.S.C.A. § 360e(i)(l)(A). 20 Thus, while a substantial equivalence finding can be a finding of safety and effectiveness, there is no way to tell whether a given substantial equivalence finding is a finding of safety and effectiveness. Moreover, the FDA’s regulations explain that approval of a device under 510(k) procedures as the substantial equivalent to a grandfathered device “does not in any way denote official approval of the device.” 21 C.F.R. § 807.97 . This regulation makes obvious sense because the FDA could hardly find a device “as safe and effective” as a grandfathered device whose safety and effectiveness were never established by MDA procedures. See 21 U.S.C.A. § 360c(i)(l)(A)(ii)(I). The lack of any official approval under the 510(k) procedure was made clear to Appellee when the Model 4011 was approved in 1982. The FDA’s clearance letter, tracking the language of the regulations, cautioned Appellee that “[t]his letter does not in any way denote official FDA approval of your device.” 
+
+The regulations governing the form and content of a 510(k) submission state that the “summary shall be in sufficient detail to provide an understanding of the basis for a determination of substantial equivalence.” 21 C.F.R. § 807.92 (a). Thus, the MDA’s 510(k) submission regulations clarify what should be obvious from the statute: The 510(k) process is focused on equivalence, not safety, and the question of whether a device has been deemed safe and effective cannot be resolved by looking at the 510(k) process, but must be determined by looking at the process through which the original device entered the market. We therefore reject Ap-pellee’s argument that 510(k) approval constitutes a finding of safety and effectiveness within the Act. 21 
+ Cf. National Bank, 38 F.3d *1349 at 998 (Loken, J., concurring) (noting that “an FDA order permitting the new device to be marketed as substantially equivalent to existing devices would not normally reflect agency approval”). We hold that 510(k) approval under the MDA, standing alone, is not a finding of safety and effectiveness and does not impose specific requirements on a device for preemption purposes. 
+
+Second, Appellee suggests that by grandfathering pre-MDA devices into the market, the Act recognized their safety and effectiveness as historically established. We disagree. “[T]he absence of a federal standard cannot implicitly extinguish state common law.” Freightliner, — U.S. at -, 115 S.Ct. at 1485. Moreover, Appellee identifies nothing in the statute’s text, or even in its legislative history, to suggest that grandfathering constitutes a safety and effectiveness finding. Given the strong presumptions against the preemption of state common law claims, we find this argument without merit. 
+
+Recognition of the MDA’s competing purposes supports our conclusion that grandfathering, without more, cannot justify preemption under the Act. The MDA represents congressional balancing of at least two competing purposes: the desire to protect the public from unsafe devices and the desire to encourage innovation and development in the biomedical technology field. See, e.g. H.R.Rep. No. 853, 94th Cong., 2d Sess. 10-11 (1976); S.Rep. No. 33, 94th Cong. 1st Sess. 10 (1975). In light of this balancing, we can view the MDA as a compromise between device manufacturers and Congress. In exchange for the financial and time burdens placed upon manufacturers by the MDA, the manufacturers were assured a nationally uniform and predictable regulatory and liability climate. A rule preempting liability based on grandfathering would give the benefits of a uniform, predictable liability climate to devices that never paid the MDA’s regulatory “price” for market entry. Additionally, allowing state tort suits based upon the failure of pre-MDA devices would not disturb a manufacturer’s developmental calculus because presumably, when such devices were first introduced, the devices were considered a wise business investment despite state-imposed tort liability. In short, preempting claims against grandfathered pre-MDA devices would give their manufacturers a regulatory windfall. 
+
+Third, Appellee points to continued FDA surveillance of devices like the Aetivi-trax as constituting specific requirements under the Act. See, e.g., 21 C.F.R. §§ 807.81 (a)(3)® (requiring FDA approval for any design changes); 895.25 (granting FDA authority to order labeling changes). As already explained above, these provisions cannot constitute specific requirements within the meaning of the MDA’s preemption regulation. At best, they are general requirements because they have no “fixed relationship” and are not “restricted by nature to” a particular process, procedure, or device. See Webster’s New International Dictionary 2187 (3d ed. 1976). In light of the presumption against preemption, the FDA’s jurisdiction to monitor the market is too slender a regulatory strand to support preemption. 
+
+Finally, Appellee suggests that MDA procedures for classifying devices impose specific requirements. See 21 U.S.C.A. § 360c(a); 21 C.F.R. § 860.7 . As we have previously noted, a “requirement” is best understood as “something called for or demanded.” Webster’s New International Dictionary 1929 (3d ed. 1976). Putting a device into Class III, without more, places no demands on the device’s manufacturer. Accord National Bank, 38 F.3d at 997. The classification of devices under the Act is similar to a regulatory census; while the classification may have significant regulatory consequences, it creates no requirements by itself. 
+
+Accordingly, we hold that Appellants’ negligent design claim is not preempted by the MDA because the Act does not establish any specific design requirements, through a finding of safety and effectiveness or otherwise, which conflict with the state law claim. 
+
+ *1350 2. Negligent Manufacture. 
+
+Appellants’ complaint alleged that Appellee breached its duty of care to Lora Lohr by negligently manufacturing and assembling the Activitrax and Model 4011. The district court found that the MDA preempted this negligent manufacturing claim. After reviewing the requirements the MDA places on the manufacturing processes of suppliers like Appellee, we affirm the district court. 
+
+Like their negligent design claim, Appellants’ negligent manufacturing claim could create state requirements because it would ask a jury to determine how a reasonable manufacturer should build the Activitrax. Therefore, the negligent manufacturing claim is preempted if the jury could create a standard of conduct “different from, or in addition to” a specific MDA requirement. See 21 U.S.C.A. § 360k(a). 
+
+As we have already concluded, nothing in the MDA’s 510(k) approval procedures, grandfathering provision, oversight and enforcement powers, or classification requirements constitutes a “specific requirement” justifying preemption under the Act. See 21 C.F.R. § 808.1 (d). In the case of manufacturing, however, Appellee also points to the MDA’s good manufacturing practice (GMP) regulations as specific requirements justifying preemption. See 21 U.S.C.A. § 360j(f); 21 C.F.R. §§ 820.1-820.198 . 
+
+The GMP regulations monitor the “methods used in, and facilities and controls used for, the manufacture, pre-production design validation ( ... but not including an evaluation of the safety or effectiveness of a device), packing, storage, and installation of a device ... to assure that the device will be safe and effective-” 21 U.S.C.A. § 360j(f)(l)(A). As the statute’s text makes clear, although GMP requirements do not evaluate the safety and effectiveness of the device, the GMP requirements do ensure that the manufacturing, packing, and other processes associated with a manufacturing enterprise are conducted safely and effectively. Id. The GMP regulations include requirements affecting a manufacturer’s organization, personnel, budding, equipment, component controls, production and process controls, packaging, labeling controls, holding, distribution, installation, device evaluation, and record keeping. See 21 C.F.R. §§ 820.20-820.198 . 
+
+We believe the GMP requirements are specific requirements which preempt Appellants’ negligent manufacturing claim. Accord Michael, 46 F.3d at 1324 ; Mendes, 18 F.3d at 19. Whde the requirements are not device-specific, they are certainly specific to manufacturing. Moreover, whde the GMP regulations are written in necessarily broad language 22 to accommodate the myriad of different producers covered by the MDA, the GMP regulations create standards for almost every aspect of the manufacturing process. See 21 C.F.R. §§ 820.20-820.198 . The FDA’s forfeiture actions against non-complying manufacturers foreclose any suggestion that the GMP regulations are hortatory and without substantive effect. See, e.g., United States v. Laerdal Manufacturing Corp., 853 F.Supp. 1219 , 1222-23, 1227-35 (D.Or.1994); United States v. Undetermined Quantities of Var. Articles, 800 F.Supp. 499 , 502-503 (S.D.Tex.1992); United States v. 789 Cases, 799 F.Supp. 1275 , 1287-1293 (D.Puerto Rico 1992). 
+
+Appedants’ negdgent manufacturing claim constitutes a state requirement “different from, or in addition to” the GMP regulations’ specific manufacturing requirements. We therefore hold that the district court properly granted summary judgment on this claim because it is preempted by the MDA. 
+
+3. Negligent Failure to Warn. 
+
+Appedants’ complaint adeged that Appedee breached its duty of care to Lora Lohr by negdgently failing to warn and instruct Ms. Lohr or her physicians about the dangers of the Activitrax pacemaker. The district court found that the MDA preempted *1351 this claim. A review of the MDA’s warning and labeling requirements convinces us that the district court was correct. 
+
+Like their other negligence claims, Appellants’ failure to warn claim could constitute a “State ... requirement” and is preempted if the jury could conclude that a reasonable manufacturer’s warnings and labels would be “different from, or in addition to” a specific MDA requirement. See 21 U.S.C.A. § 360k(a). Nothing in the MDA’s 510(k) approval procedure, grandfathering provision, oversight and enforcement powers, or classification requirements constitute “specific requirements” justifying preemption under the Act. See 21 C.F.R. § 808.1 (d). Like the manufacturing claim, however, Appellee points to additional MDA regulations governing labeling as specific requirements justifying preemption. See 21 C.F.R. §§ 801.109 , 807.87(e). 
+
+Every prescription device like the Activi-trax must comply with an MDA imposed labeling requirement. 21 C.F.R. § 801.109 . The label on the device itself must inform the reader about the prescription-only nature of the device and the method of its application or use. 21 C.F.R. § 801.109 (b). More importantly, labeling “on or within” the device’s packaging must contain (1) usage information, “including indications, effects, routes, methods, and frequency and duration of administration,” and (2) warning information, including any “relevant hazards, contraindications, side effects, and precautions.” 21 C.F.R. § 801.109 (c). The FDA screens the premarket submissions of all devices for compliance with labeling requirements, including 510(k) submissions. 21 C.F.R. § 807.87 (e). 
+
+We believe these labeling requirements constitute specific requirements for preemption purposes. Accord Michael, 46 F.3d at 1324 ; Reeves, 44 F.3d at 305; Mendes, 18 F.3d at 18. As we have made clear, the labeling regulations’ lack of device specificity does not dictate that they cannot be specific requirements for preemption purposes. Instead, the regulations are quite specific about what standards a manufacturer must follow when designing the packaging and labeling for its product. See 21 C.F.R. § 801.109 (b), (c). As with the GMP regulations discussed above, the fact that the regulations are broadly phrased does not obviate their effectiveness, but rather reflects the need to encompass many thousands of devices within their requirements. Further, the FDA’s record of taking action against mislabeled devices forecloses the argument that the Act’s labeling requirements lack substantive “bite.” See, e.g., United States v. Various Articles of Device, 814 F.Supp. 32 , 33 (E.D.Tenn.1992); United States v. Articles of Device [Acuflex; Pro-Med], 426 F.Supp. 366 , 370-71 (W.D.Penn.1977). 
+
+Appellants’ failure to warn claim constitutes a state requirement “different from, or in addition to” the MDA’s specific labeling requirements. We therefore hold that the district court properly granted summary judgment on this claim because it is preempted by the MDA. 
+
+4. Strict Liability in Tort. 
+
+Appellants’ complaint alleged that Appellee is strictly liable for Lora Lohr’s injuries because it introduced an unreasonably dangerous product — the Activitrax — into the market. As with Appellants’ other claims, the district court concluded that the MDA preempted this claim. A comparison of Florida’s strict liability law and the regulatory scheme applicable to the Activitrax convinces us that the district court was incorrect and that Appellants’ strict liability claim, insofar as it alleges that the Activitrax and Model 4011 are unreasonably dangerous as designed, should be allowed to proceed. 
+
+Like Appellants’ other claims, a Florida strict liability action could impose a “State ... requirement” on the Activitrax. 21 U.S.C.A. § 360k(a). A strict products liability action under Florida law would ask the jury “whether the [Activitrax] supplied by [Appellee] was defective when it left the possession of [Appellee].” Florida Standard Jury Instructions, § PL. The jury can find a product defective “if it is in a condition unreasonably dangerous to the user [and reaches] the user without substantial change” or “if by reason of its design the product is in a condition unreasonably dangerous to the user [and reaches] the user without substantial change.” Florida Standard Jury In- 
+ *1352 
+ struetions, §§ PL 4, PL 5. A product may be unreasonably dangerous due to defects in its design, manufacture, or labeling. See, e.g., Radiation Technology, Inc. v. Ware Const. Co., 445 So.2d 329 , 331 (Fla.1983); Brown v. Glade and Grove Supply, Inc., 647 So.2d 1033 , 1035 (Fla.App.1994). 
+
+Under Florida’s strict liability doctrine, the burden of rendering a product safe is placed in the hands of the entities “in a better position to ensure the safety of the products.” Samuel Friedland Family Enterprises v. Amoroso, 630 So.2d 1067 , 1068 (Fla.1993). A finding that defects in a product render it unreasonably dangerous is necessarily a finding that the product is unsafe. The word “dangerous” itself is defined in terms of safety: “exposing to danger, involving risk, demanding caution or care as extremely unsafe.” Webster’s New International Dictionary 573 (3d ed. 1976). Thus, if the MDA establishes specific requirements designed to avoid having unsafe products reach users, then Appellants’ strict liability action would be “different from, or in addition to” the MDA standard and is therefore preempted. See 21 U.S.C.A. § 360k(a). 
+
+Our analysis of Appellants’ three negligence claims guides our strict liability inquiry. Because the 510(k) process, grandfathering provision, oversight and enforcement powers, and classification requirements do not impose specific safety requirements on the Activitrax’s design, it follows that they do not prevent that design from creating an unreasonably dangerous product. In contrast, because the GMP and labeling requirements create standards of care for manufacturing and labeling drafted to ensure that devices are manufactured and labeled in a safe manner, it follows that these requirements should prevent the manufacturing or labeling of the Activitrax from creating an unreasonably dangerous product. 23 
+
+Accordingly, we hold that Appellants’ strict liability claim arising from an allegedly unreasonably dangerous design is not preempted, but any contentions that the manufacture or labeling of the Activitrax created an unreasonably dangerous product are preempted by the MDA. On remand, the district court should ensure that Appellants’ strict liability claim is limited to proving that the Activitrax and Model 4011 lead are unreasonably dangerous as designed. Appellants should not be allowed to revive their preempted negligent manufacturing and failure to warn claims in the form of a strict liability claim. 
+
+III. CONCLUSION 
+
+The Court’s decision to preempt some, but not all of Appellants’ claims is sure to please neither party. Nevertheless, as the Supreme Court noted in a recent preemption decision, “[t]he middle course we adopt seems to us best calculated to carry out the congressional design.” Wolens, — U.S. at -, 115 S.Ct. at 827. Any displeasure with that design should be directed toward Congress. The lines and distinctions we draw in today’s decision are not always neat or easy, but “in our system of adjudication, principles seldom can be settled ‘on the basis of one or two cases, but require a closer working out’ ” Id. (quoting Pound, Survey of the Conference Problems, 14 U.Cin.L.Rev. 324 , 339 (1940)). 
+
+In conclusion, we hold that the district court properly held that Appellants’ negligent manufacture and negligent failure to warn claims are preempted by the MDA. But the district court erred when it held Appellants’ negligent design claim and strict liability claim arising from an unreasonably dangerous design were preempted by the Act. 
+
+AFFIRMED in part, REVERSED in part, and REMANDED. 
+
+ 1 
+
+. Nothing we say here should be interpreted as identifying the exclusive motives of Congress in passing the Act. Courts must be mindful of the fact that legislative acts reflect many competing interests and should not allow vague notions about a statute's overall purpose to overcome its plain text. Mertens v. Hewitt Associates, - U.S. -, -, 113 S.Ct. 2063 , 2071, 124 L.Ed.2d 161 (1993). 
+
+ 2 
+
+. For purposes of this appeal, we accept the facts in Appellants' complaint as true. 
+
+ 3 
+
+. The original complaint contained a breach of warranty claim which was dismissed for failure to state a claim under Florida law and is not at issue in this appeal. 
+
+ 4 
+
+. Prior to oral argument, Appellants sought to supplement their submissions to the Court with an additional brief. A similar request from Ap-pellee and a request to reply to Appellee's supplemental brief inevitably followed. We carried these motions with the case. 
+
+Appellants’ supplemental brief appears to be a vehicle for bringing before the Court the FDA’s amicus brief in Talbott v. C.R. Bard, Inc., 1st Cir. No. 94 — 1951, a pending First Circuit case concerning preemption under the MDA. Litigating positions of an agency, as distinct from the agency’s regulations, rulings, and practice, are entitled to no deference. Martin v. OSHRC, 499 U.S. 144 , 154-56, 111 S.Ct. 1171 , 1178, 113 L.Ed.2d 117 (1991); Bowen v. Georgetown University Hosp., 488 U.S. 204 , 210-14, 109 S.Ct. 468 , 473-74, 102 L.Ed.2d 493 (1988); Alabama Dry Dock and Shipbuilding Corp. v. Sowell, 933 F.2d 1561 , 1563 (11th Cir.1991). Consequently, Appellants' supplemental brief would not aid the Court in resolving this case and we deny the motion to supplement. Appellee’s motion to supplement and Appellants' supplemental reply are premised on consideration of Appellants’ first supplemental brief, and our decision to reject that brief precludes the other submissions. 
+
+ 5 
+
+.Both parties accept the preemption provision as controlling. Although the Supreme Court recently explained that implied preemption is sometimes appropriate despite the existence of an express preemption provision, see Freightliner, — U.S. at -, 115 S.Ct. at 1487-88, we doubt that this is such a case. First, it does not seem impossible for a manufacturer to comply with the MDA’s requirements and any additional requirements which Appellants' suit might add. See id. - U.S. at -, 115 S.Ct. at 1488. Second, it does not appear that Appellants' suit would frustrate “the full purposes and objectives of Congress." Id. 
+
+ 6 
+
+. Appellants' initial brief did not appear to dispute whether their claims were based on state requirements within the meaning of § 360k(a). Their reply brief, however, appears to dispute the issue in this appeal. 
+
+ 7 
+
+. See Mendes v. Medtronic, Inc., 18 F.3d 13 , 16 (1st Cir.1994); Michael, 46 F.3d at 1323 (3rd Cir.); Reeves v. AcroMed Corp., 44 F.3d 300 , 304 (5th Cir.1995); Slater, 961 F.2d at 1332-33 (7th Cir.); Martello v. CIBA Vision Corp., 42 F.3d 1167 , 1168 (8th Cir.1994); Anguiano v. E.I. Du Pont De Nemours & Co., 44 F.3d 806 , 809 (9th Cir.1995). 
+
+ 8 
+
+. We assume, arguendo, that Florida common law would recognize an action whose standard of care is defined by the standards of the MDA and that Appellants' complaint may be read broadly enough to encompass such an action. 
+
+ 9 
+
+. Michael, 46 F.3d at 1328-29 ; Reeves, 44 F.3d at 307 ; National Bank of Commerce of El Dorado v. Kimberly-Clark Corp., 38 F.3d 988 , 992 n. 2 (8th Cir.1994); King v. Collagen Corp., 983 F.2d 1130 , 1140 (1st Cir.) (opinion of Aldrich and Campbell, JJ.), cert. denied, - U.S. -, 114 S.Ct. 84 , 126 L.Ed.2d 52 (1993). 
+
+ 10 
+
+.Congress empowered the FDA to promulgate regulations to enforce the MDA. See 21 U.S.C.A. § 371 (a). 
+
+ 11 
+
+. The House Report cited California’s premark-et clearance program with approval as an example of practices which the FDA should exempt from preemption under § 360k(b). H.R.Rep. No. 853, 94th Cong., 2d Sess. 45-46 (1976). Nevertheless, we believe the statement is relevant to our interpretation of § 360k(a) by demonstrating that Congress had no desire to completely occupy the held of medical device regulation. 
+
+ 12 
+
+. See, e.g., Martello, 42 F.3d at 1168 ; King, 983 F.2d at 1134 ; Larsen v. Pacesetter Systems, Inc., 837 P.2d 1273 , 1281 (Hawaii 1992); Ginochio v. Surgikos, Inc., 864 F.Supp. 948 , 952 (N.D.Cal.1994). 
+
+ 13 
+
+. See, e.g., Michael, 46 F.3d at 1324 ; Anguiano, 44 F.3d at 809 ; Gile v. Optical Radiation Corp., 22 F.3d 540 , 543-44 (3rd Cir.), cert. denied, - U.S. -, 115 S.Ct. 429 , 130 L.Ed.2d 342 (1994); Mendes, 18 F.3d at 16 ; Stamps v. Collagen Corp., 984 F.2d 1416 , 1424 n.8 (5th Cir.), cert. denied, — U.S. -, 114 S.Ct. 86 , 126 L.Ed.2d 54 (1993). 
+
+ 14 
+
+. The comparative costs of market entry under the MDA supports the conclusion that the PMA process presents the highest obstacle. While the average price-range of market entry through the premarket notification 510(k) procedure is $50 to $2,000, the equivalent range for devices undergoing the PMA process is $111,000 to $828,000. *1346 Robert B. Leflar, Public Accountability and Medical Device Regulation, 2 Harv.J.L. & Tech. I, 47 (1989). 
+
+ 15 
+
+. Claiming that the PMA procedures are device-specific requirements because they subject each device to particularized attention proves too much. For example, if the device-specific examination of a PMA application under non-specific regulations allows us to characterize the PMA procedures as device-specific, then the individualized examination of a 510(k) application, see 21 U.S.C.A. § 360 (k); 21 C.F.R. §§ 807.87-807.100 , allows us to characterize the 510(k) procedure as device-specific. 
+
+ 16 
+
+. While LaMontagne v. E.I. Du Pont De Nemours & Co., 41 F.3d 846 (2nd Cir.1994) upholds a district court decision requiring device-specificity, see Lamontagne v. E.I. Du Pont de Nemours & Co., 834 F.Supp. 576 , 582-83 (D.Conn.1993), it does so by affirming the district court’s dismissal of the complaint on non-preemption grounds and does not address the issue of preemption under the MDA. 
+
+ 17 
+
+. For example, equating the FDA’s broad power to monitor the medical device market and intervene in the market when necessary, see, e.g. 21 U.S.C.A. §§ 331-334 , with the type of "specific requirements” necessitating preemption would stretch the regulation's language, and the preemptive scope of the MDA, beyond the bounds of reason. The possession of jurisdiction is not synonymous with making requirements. A rule equating jurisdiction with preemption-triggering requirements would infer absolute preemption whenever Congress legislates. Such a rule "is virtually tantamount to saying that whenever a federal agency decides to step into a field, its regulations will be exclusive. Such a rule, of course, would be inconsistent with the federal-state balance embodied in our Supremacy Clause jurisprudence." Hillsborough County, 471 U.S. at 717 , 105 S.Ct. at 2377 ; Moore, 867 F.2d at 245 . 
+
+ 18 
+
+. Device-specific requirements will often be "specific requirements" triggering preemption. See 21 C.F.R. § 808.1 (d). This does not mean that specific requirements must be device-specific. 
+
+ 19 
+
+. We also note that the Fifth Circuit has ignored Smith in its post-Cipollone MDA preemption cases. See Reeves, 44 F.3d 300 ; Stamps, 984 F.2d 1416 . 
+
+ 20 
+
+. This section did not exist when the Model 4011 was approved, but we accept for these purposes that the new section only codified the prior practice of the FDA. See S.Rep. No'. 513, 101st Cong., 2d Sess. 28 (1990). 
+
+ 21 
+
+. Surprisingly, Appellee does not cite to 21 C.F.R. § 807.94 , which requires Class III 510(k) *1349 submissions to be identified as such. While that regulation provides a scintilla of support to Ap-pellee's argument that a 510(k) submission is a safety and effectiveness finding, it is not enough to overcome our conclusion. 
+
+ 22 
+
+. For example, the regulation on personal sanitation within buildings states: 
+ Washing and toilet facilities shall be clean and adequate. Where special clothing requirements are necessary to assure that a device is fit for its intended use, clean dressing rooms shall be provided for personnel. 
+
+ 21 C.F.R. § 820.56 (a). 
+
+ 23 
+
+. Preempting strict liability claims arising from some processes, but not others, is consistent with Florida caselaw. See ISK Biotech Corp. v. Douberly, 640 So.2d 85 , 88-89 (Fla.App.1994) (preempting, under FIFRA, failure to warn claim but allowing strict liability claim "based solely on the product's defective condition” to proceed); Brennan v. Dow Chemical Co., 613 So.2d 131 , 132 (Fla.App.1993) (same). 
+
+ 

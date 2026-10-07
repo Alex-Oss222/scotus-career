@@ -1,0 +1,2300 @@
+1 
+i 
+es 
+
+
+No. 94-1941 2 CLERK 
+
+
+In the Supreme Court of the Gnited States 
+
+
+OCTOBER TERM, 1995 
+
+
+UNITED STATES OF AMERICA, PETITIONER 
+V. 
+
+
+COMMONWEALTH OF VIRGINIA, ET AL. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+BRIEF FOR THE PETITIONER 
+
+
+Drew S. Days, III 
+Solicitor General 
+
+
+DEVAL L. PATRICK” 
+Assistant Attorney General 
+
+
+PAUL BENDER 
+Deputy Solicitor General 
+
+
+CORNELIA T.L. PILLARD 
+
+Assistant to the Solicitor 
+General 
+
+JESSICA DUNSAY SILVER 
+
+THOMAS E. CHANDLER 
+Attorneys 
+Department of Justice 
+Washington, D.C. 20530 
+(202) 514-2217 
+
+
+Supreme Couft, U.S. 
+F 1 LE 
+
+
+NG 0 ** e 
+
+
+— 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Whether a State that provides a rigorous mili- 
+tary-style public educational program for men can 
+remedy the unconstitutional denial of the same oppor- 
+tunity to women by offering them a different type of 
+single-sex educational program deemed more suited 
+to the typical woman. 
+
+
+2. Whether coeducation is the required remedy in 
+the context of this case. 
+
+
+(I) 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+a 1 
+EEE rt l 
+Constitutional provision involve 2. 2 
+Statement: 
+1. The Virginia Military Institute 2 
+2. The liability determination 5 
+3. The Virginia Women’s Institute for Leadership 
+S r 8 
+4. The remedial decisions be!ow .....................00000 11 
+Introduetion and summary of argument 15 
+4 ae * 18 
+I. Invalidating VMI's men-only admissions 
+poliey is the only adequate remedy for the 
+constitutional violation in this case ................... 20 
+A. Allowing qualified women to attend VMI 
+is the relief that will most fully remedy the 
+constitutional violation 20 
+1. Allowing qualified women to attend 
+VMI is the only way to assure them 
+equal access to VMI's unique 
+11111 22 
+2. Allowing qualiſied women to attend 
+VMI is the only way to cure the state- 
+sponsored sex stereotyping and stigma 
+resulting from VMI's exclusionary 
+— 24 
+B. Respondents failed to show that it would 
+be impossible to admit women to VM1 I. 25 
+1. The admission of women would not 
+gh 27 
+een 27 
+b. Physical training standards 28 
+e. The adversative approach and 
+“decency between the sexes” ........... 29 
+
+
+(IIT) 
+
+
+IV V 
+Argument Continued: Page Cases—Continued: Page 
+2. The example of the federal military Bray v. Alexandria Women’s Health Clinic, 
+service academiess 30 113 S. Ct. 753 (1998) ......... — 41 
+II. The establishment of a women-only leadership eee 347 U.S. 483 1 
+training program at Baldwin College ese 1 m1. 
+
+ä— — — Buchanan v. Warley, 245 U.S. 60 (1917) ................. 26 
+
+of women from VMI because the separate, Califano v. Goldfarb, 430 U.S. 199 (1977) ............ 40, 43, 47 
+
+different VMI and VWIL programs themselves Califano v. Westcott, 443 U.S. 76 (1979) 47 
+
+violate equal protection 32 City of Cleburne v. Cleburne Living Center, Inc., 
+
+A. Classifications that deny opportunities to T 26-27, 33, 34 
+individuals based on their sex should be Cooper v. Aaron, 358 U.S. 1 (1958) 26 
+subjected to strict judicial scrutiny ............ 33 Craig v. Boren, 429 U.S. 190 (197) 41, 43, 44 
+
+B. The VWIL remedy plainly violates equal Frontiero v. Richardson, 411 U.S. 677 (1973) 34, 
+protection under intermediate scrutiny — 37 35, 36, 43, 44 
+1. VWIL is materially different from VMI Goesaert v. Cleary, 335 U.S. 464 (1948) 30 
+
+in ways that impermissibly reflect and Goldman v. Weinberger, 475 U.S. 503 (19886) ........... 34 
+reinforce archaic stereotypes about Graham v. Richardson, 403 U.S. 365 (1971) ........... 35 
+... 87 J.E.B. v. Alabama er rel. T. B., 114 S. Ct. 1419 
+2. Generalizations about women and men — ͤ 25, 30, 32, 34, 35, 36, 41, 43, 44 
+cannot support sex-based classifications, Kirstein v. Rector and Visitors of Univ. of Virginia, 
+such as VMI's admissions policy, that 309 F. Supp. 184 (E. D. Va. 197%) 19 
+foreclose individual opportunity .......... 42 Louisiana v. United States, 380 U.S. 145 (1965) ..... 21 
+3. Respondents have not demonstrated Milliken v. Bradley, 433 U.S. 267 (1977) ................. 20 
+an interest in single-sex education, and _ Mississippi Univ. for Women v. Hogan, 458 U.S. 
+ouch on interest would Ret, in any aR lh I — 
+— ae at 1 Newberg v. Board of Pub. Educ., 478 A. 2d 1362 
+tte a — er Sl . — 1 
+. ——— C — Oh « Vien, —— — 
+Orr v. Orr, 440 U.S. 268 (19790 21, 40, 43 
+123 6 Parker v. Levy, 417 U.S. 788 (17% 34 
+Cases: N Plessy v. Ferguson, 163 U.S. 587 (1888) 48 
+Adarand Constructors, Inc. v. Petia, 115 S. Ct. ° Reed v. Reed, 404 U.S. 71 (1977 ——————— 43 
+REE 5 SE 36 Rendell-Baker v. Kohn, 457 U.S. 830 (1982) ............ 45 
+Blum v. Yaretsky, 457 U.S. 991 (1982) .................... 45 Roberts v. United States Jaycees, 468 U.S. 609 
+Bradwell v. Illinois, 83 U.S. (16 Wall.) 130 . AA 25, 48 
+RES io SOL 30, 40, 43 Rostker v. Goldberg, 453 U.S. 57 (1981) .................. 34 
+
+
+Cases—Continued: 
+Stanton v. Stanton, 421 US. 7 (1975) 41, 43 
+Strauder v. West Virginia, 100 U.S. 303 (1880) ...... 25 
+Sugarman v. Dougall, 413 U.S. 634 (1973) .............. 35 
+Swann v. Charlotte-Mecklenburg Bd. of Educ., 
+1 — 8 2¹ 
+Sweatt v. Painter, 339 U.S. 629 (1950) 23 
+VMI v. United States, 113 S. Ct. 2431 (1993).......... — 
+Weinberger v. Wiesenfeld, 420 U S. 636 (1975) ...... 48, 44, 47 
+Weiss v. United States, 114 S. Ct. 752 (1994) .......... 24 
+Wengler v. Druggists Mut. Ins. Co., 446 U.S. 142 
+— . ̃ ˙ — 43 
+
+
+Yellow Springs Exempted Village School Dist. Bd. 
+of Educ. v. Ohio High School Athletic Ass, 
+
+
+GG Ra 24 
+
+Constitutions, statutes and regulation: 
+U.S. Const. Amend. XIV (Equal Protection Clause). 2, 5, 
+6, 15, 18, 19, 33, 42, 45 
+
+
+Pa. Const. Art. I, § 28 (Equal Rights Amendment) ... 18 
+Act of Oct. 21, 1976, Pub. L. No. 94-572, § 1, 90 Stat. 
+
+2708 (codified at 14 U.S.C. 18a) 31 
+Department of Defense Appropriation Act, 1976, 
+
+Pub. L. No. 94-106, § 803, 89 Stat. 537-638 (1975) 
+
+
+(codified at 10 U.S.C. 4842 note:: 31 
+8 EE Se ae 41 
+II K 2 ———— 5 
+. . — ———— 31 
+
+Miscellaneous: 
+
+
+Disparities (19960) — 32 
+C. Jencks & D. Reisman, The Academic Revolution 
+
+Kw . 2¹ 
+United States Commission on Civil Rights, More 
+
+IKK . 24 
+
+
+In the Supreme Court of the United States 
+
+
+OcTOBER TERM, 1995 
+
+
+No. 94-1941 
+UNITED STATES OF AMERICA, PETITIONER 
+. 
+
+
+COMMONWEALTH OF VIRGINIA, ET AL. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals regarding reme- 
+dy (Pet. App. la-52a) is reported at 44 F.3d 1229. The 
+opinion of the district court regarding remedy (Pet. 
+App. 58a-131a) is reported at 852 F. Supp. 471. The 
+opinion of the court of appeals regarding liability 
+(Pet. App. 134a-157a) is reported at 976 F.2d 890. The 
+opinion of the district court regarding liability (Pet. 
+
+
+— 
+
+
+(1) 
+
+
+2 
+
+
+for a writ of certiorari was filed on May 26, 1995, and 
+was granted on October 5, 1995 (116 S. Ct. 281). The 
+jurisdiction of this Court rests on 28 U.S.C. 1254(1). 
+
+
+CONSTITUTIONAL PROVISION INVOLVED 
+
+
+The Equal Protection Clause of the Fourteenth 
+Amendment to the United States Constitution pro- 
+vides that In jo State shall * * deny to any person 
+within its jurisdiction the equal protection of the 
+laws.” 
+
+STATEMENT 
+
+
+1. The Virginia Military Institute. The Virginia 
+Military Institute (VMI) is a state military college in 
+Lexington, Virginia. Since its founding in 1839, VMI 
+has maintained a policy of admitting only men to its 
+four-year undergraduate degree program. The four- 
+teen other public colleges in Virginia are all coedu- 
+cational. Approximately 1300 male students are en- 
+rolled at VMI. Pet. App. 137a-138a, 141a. 
+
+VMI’s mission statement declares that VMI’s goal 
+is to produce “citizen-soldiers,” described as “edu- 
+cated and honorable men who are suited for leadership 
+in civilian life and who can provide military leadership 
+when necessary.” Pet. App. 6a, 139a. The VMI cur- 
+riculum includes liberal arts, science and engineering 
+courses, and VMI confers both Bachelor of Arts and 
+Bachelor of Science degrees. Id. at 200a. 
+
+As the district court found, VMI has a strong repu- 
+tation for producing leaders, and has an exceptionally 
+loyal and powerful alumni network. Pet. App. 137a- 
+18a. That network is “enormously influential,” 94- 
+1667 & 94-1717 (VMI II) Tr. 1227, especially in the 
+male-dominated fields of engineering, the military, 
+business, and public service in which VMI graduates 
+tend to pursue careers, id. at 1228. “VMI alumni 
+
+
+3 
+
+
+overwhelmingly perceive that their VMI educational 
+experience contributed to their obtaining personal 
+goals.” Pet. App. 205a. VMI enjoys the largest en- 
+dowment on a per-student basis of any undergraduate 
+institution in the United States. Id. at 130a. 
+
+VMI employs an “adversative” method of character 
+development and leadership training not currently 
+used by any other college-level institution. That 
+method is based on techniques used in “English public 
+schools” and “earlier military training,” although it 
+has long been abandoned at the United States mili- 
+tary academies. Pet. App. 139a, 192a. The method 
+“emphasizes physical rigor, mental stress, absolute 
+equality of treatment, absence of privacy, minute 
+regulation of behavior, and indoctrination of values.” 
+Id. at 139a; see id. at 191a-192a. “As a consequence of 
+completing the rigorous tasks, succeeding, and actu- 
+. ——ů— ogy te pe ya 
+
+overcome almost impossible physical and psy- 
+chological odds. They have been put through — 
+physical pressures and hazards, and just to have made 
+it yields a feeling of tremendous accomplishment.” 
+Id. at 205a. 
+
+VMI's adversative method is implemented through 
+a pervasive military-style system. Pet. App. 140a- 
+14la, 191a-200a. The system includes the “rat line,” 
+which is a seven-month regimen during which first- 
+year cadets, or “rats,” are “treated miserably,” like 
+“the lowest animal on earth.” Id. at 194a-195a.' 
+
+
+! The term “rat line“ derives from the prescribed route 
+through the barracks that first-year cadets must traverse dur- 
+ing most of the year in a position of rigid attention. Gov't 
+Exh. 73, at 17, Lodged Materials From The Record (referred 
+as L. Y at 268. 
+
+
+1 
+
+
+“Rats” are subjected to a strict system of punish- 
+ments and rewards that creates “a sense of accomp- 
+lishment and a bonding to their fellow sufferers and 
+former tormentors.” Id. at 194a. The “rat line” ex- 
+perience is accompanied by “rat training,” “a tough 
+physical training program” “designed to foster self- 
+confidence and physical conditioning in fourth class- 
+men [i.e., freshmen] by creating training situations 
+which are stressful enough to show them that they 
+are capable of doing tasks which surpass their 
+previously self-imposed limits.” Jd. at. 195a; 91-1690 
+(VMI 1) C. A. App. 1668 (L. 192). 
+
+The “class system” assigns roles to each class of 
+cadets within a hierarchy in order to “cultivat(e] 
+leadership.” Pet. App. 196a. “After the rat line strips 
+away cadets’ old values and behaviors, the class 
+system teaches and reinforces through peer pressure 
+the values and behaviors that VMI exists to promote.” 
+Ibid. VMI’s program also includes the “dyke sys- 
+tem,” an arrangement by which each “rat” is assigned 
+a senior as a mentor to give some “relief from the 
+extreme stress of the rat line.” Jd. at 196a-197a. 
+VMI’s honor code—providing that a cadet “does not 
+lie, cheat, steal nor tolerate those who do”—provides 
+“the single penalty of expulsion for its violation.” Id. 
+at 140a. 
+
+VMI requires cadets to “live within a military 
+framework; they wear the cadet uniform at the 
+Institute, eat most meals in the mess hall, live in a 
+barracks, and regularly take part in parades and 
+drills.” VMI1C.A. App. 52. “(T]he most important 
+aspects of the VMI educational experience occur in 
+the barracks.” Pet. App. 197a-198a. There, cadets live 
+at close quarters with one another, three to five 
+together in stark and unattractive rooms, with poor 
+
+
+5 
+
+
+ventilation, unappealing furniture, windowed doors 
+with no locks and no window coverings. Id. at 199a. 
+JA] cadet is totally removed from his social back- 
+ground,” and placed in an environment the principal 
+object of which is “to induce stress.” Ibid. 
+
+Although VMI has always restricted admission to 
+men, some women “would want to attend [VMI] if they 
+had the opportunity.” Pet. App. 174a; see also id. at 
+231a, 232a (recruitment of women would likely yield a 
+10% female student body at VMI). Between 1988 and 
+1990 VMI received 347 letters from women inquiring 
+about admission, or indicating interest in attending 
+VMI. Id. at 229a; see Gov’t Exhs. 104, 105 (e.g., L. 
+156). It is not disputed that some women can succeed 
+within the VMI-type methodology and are capable of 
+doing all of the individual activities required of VMI 
+cadets. Pet. App. 76a, 146a, 223a, 234a. The distvict 
+court expressly found that the VMI methodology 
+“could be used to educate women.” Id. at 76a; see id. 
+at 155a. 
+
+2. The Liability Determination. On March 1, 
+1990, the United States sued the Commonwealth of 
+Virginia, the Governor of Virginia, VMI, its Super- 
+intendent and Board of Visitors, and others responsi- 
+ble for the operation of VMI and for coordination of 
+Virginia’s system of higher education, in the United 
+States District Court for the Western District of 
+Virginia. The suit was filed pursuant to 42 U.S.C. 
+2000c-6 in response to a complaint filed with the 
+Attorney General by a female high school student 
+seeking admission to VMI. The United States al- 
+leged that VMI’s men-only admissions policy violated 
+the Equal Protection Clause of the Fourteenth 
+Amendment, and sought an order enjoining respon- 
+dents from excluding women and from otherwise 
+
+
+6 
+
+
+discriminating on the basis of sex in the operation 
+of VMI. Pet. App. 141a. 
+
+Neither the Governor nor the Commonwealth of 
+Virginia participated at the liability phase in defend- 
+ing VMI’s admissions policy.” The VMI Foundation 
+and the VMI Alumni Association, both private organi- 
+zations, intervened as defendants. Pet. App. 160a. 
+They maintained that VMI’s exclusion of women was 
+substantially related to two “important governmental 
+objectives”: “educating cadets for lives as ‘citizen- 
+soldiers,’” R. 152 (VMI Defendants’ Proposed Find- 
+ings of Fact and Conclusions of Law (liability phase) 
+(Apr. 26, 1991), at 114 (4 28), and fostering “system- 
+wide diversity by providing an opportunity for single- 
+sex education and by providing a distinctive program 
+of military-style education,” id. at 115 (J 38). 
+
+On June 14, 1991, the district court entered judg- 
+ment in favor of respondents. Pet. App. 158a-245a. It 
+held that the exclusion of women was substantially 
+related to respondents’ asserted important state 
+interests because At Ihe single-sex status would be 
+lost, and some aspects of the distinctive method would 
+be altered if it were to admit women.” Id. at 173a. 
+
+On appeal, a panel of the Fourth Circuit held that 
+VMI’s admissions policy violated the Equal Protec- 
+tion Clause and remanded to the district court for 
+remedial proceedings. Pet. App. 134a-156a (VMI I). 
+The court concluded that the Commonwealth “failed 
+to articulate an important policy that substantially 
+supports offering the unique benefits of a VMI-type 
+
+
+2 The then-Governor took the position that no person should 
+be denied admission to a state college on account of sex. Pet. 
+App. 142a; see also Answer at 1 15-16 (L. 7-8); VMI I C.A. 
+App. 131-132 (L. 22-23). 
+
+
+7 
+
+
+education to men and not to women.” Id. at 155a. 
+Noting that the only policy statement in the record 
+“in which the Commonwealth has expressed itself 
+with respect to gender distinctions” required that its 
+colleges and universities treat students “without 
+regard to sex, race, or ethnic origin,” id. at 153a 
+(emphasis added by court of appeals), the court 
+rejected the district court’s conclusion that Virginia 
+has a policy of providing single-sex education to 
+promote a diverse array of options, id. at 152a-153a. 
+Moreover, “[iJf VMI's male-only admissions policy is 
+in furtherance of a state policy of ‘diversity,’ the 
+explanation of how the policy is furthered by affording 
+a unique educational benefit only to males is lacking.” 
+Id. at 153a-154a. 
+
+The court of appeals then concluded that neither 
+the goal of producing citizen soldiers nor VMI’s im- 
+plementing methodology is inherently unsuitable to 
+women.” Pet. App. 155a. Admission of women, how- 
+ever, would lead to some changes at VMI. The court 
+therefore declined, “[iJn light of * the generally 
+recognized benefit that VMI provides,” to “order that 
+women be admitted to VMI if alternatives are avail- 
+able.” Ibid. The case was remanded to the district 
+court “to give to the Commonwealth the respon- 
+sibility to select a course it chooses, so long as 
+the guarantees of the Fourteenth Amendment are 
+satisfied”: 
+
+(T]he Commonwealth might properly decide to 
+
+admit women to VMI and adjust the program to 
+
+implement that choice, or it might establish 
+
+
+parallel institutions or parallel programs, or it 
+might abandon state support of VMI, leaving VMI 
+
+
+the option to pursue its own policies as a private 
+
+
+8 
+
+
+institution. While it is not ours to determine, 
+there might be other more creative options or 
+combinations. 
+
+
+Id. at 156a. 
+
+This Court denied certiorari. VMI v. United States, 
+113 S. Ct. 2431 (1993). Pet. App. 132a-133a. 
+
+3. The Virginia Women’s Institute for Leadership 
+Remedial Plan. On remand, respondents pro as 
+a remedy the reservation of VMI exclusively for men, 
+and, for women, the creation of a women-only Virginia 
+Women’s Institute for Leadership (VWIL), a separate 
+program to be located on the campus of Mary Baldwin 
+College, a private women’s liberal arts college located 
+35 miles from VMI. Pet. App. 8a. That program, 
+reflecting respondents’ views of “the differences and 
+the needs of college-age men and women,” id. at 62a, 
+would be based on “a cooperative method which rein- 
+forces self-esteem rather than the leveling process 
+used by VMI,” id. at 68a-64a. The program would 
+be “equivalent to a [curricular] minor, that would 
+explore various aspects of women’s leadership.” Gov't 
+Exh. 52, at 1 (L. 248). 
+
+The program was developed by a Task Force select- 
+ed by respondents and composed entirely of faculty 
+and administrators at Mary Baldwin. VWIL would be 
+consistent with Mary Baldwin’s “historical mission” 
+because “we couldn’t insert into Mary Baldwin some- 
+thing that would be VMI but would not be Mary 
+Baldwin.“ VMI II C.A. App. 436 (testimony of Dean 
+of Mary Baldwin College). The Task Force did not 
+consult anyone at VMI in planning the curriculum; 
+the president of Mary Baldwin stated that Iwle are 
+the experts on educating women.” Id. at 418. VWIL 
+would be funded by the Commonwealth and the VMI 
+
+
+9 
+
+
+Board of Visitors, and would be anticipated to have 
+about 25-30 students in its first year. Pet. App. 10a. 
+
+The Task Force adopted for VWIL the VMI mis- 
+sion of producing “citizen-soldiers,” Pet. App. 8a, but 
+it rejected every component of VMI’s system. Find- 
+ing that “[yloung women will be for the foreseeable 
+future products of a culture which encourages them 
+to find their sense of self in relationships,” VMI II 
+C.A. App. 255 (L. 329), the Task Force “determined 
+that a military model and, especially VMI’s adver- 
+sative method, would be wholly inappropriate for 
+educating and training most women for leadership 
+roles.” Pet. App. 63a. 
+
+The Task Force rejected VMI’s military lifestyle 
+for VWIL. VMI II C.A. App. 471-472.“ VWIL would 
+
+
+8’ VWIL’s mission statement, however, omits the VMI 
+mission statement’s commitment to producing graduates who 
+are “advocates of the American democracy and free enterprise 
+system, and ready as citizen-soldiers to defend their country in 
+time of national peril.” Pet. App. 202a. 
+
+* One Task Force member, the Dean of Students at Mary 
+Baldwin, relied on her experience as a sorority advisor to con- 
+clude that women would not benefit from VMI training. VAT / 
+II C.A. App. 591. She observed that, while young men “will 
+paddle their pledges,” “make them consume alcohol” and “eat 
+disgusting things,” young women “will give flowers [and] write 
+poems.” Jd. at 599. She had “never met a young woman who 
+would seek out a program like“ VMI’s. Id. at 598-599. Anoth- 
+er Task Force member, the Dean of Mary Baldwin, stated that 
+YMI’s adversative training method would have a parallel in a 
+different adversary for the women of VWIL: For the young 
+woman, “[pjerhaps the adversary is herself and her sense that 
+she’s never been expected to do this before.” Id. at 459. 
+
+
+5 A mailing Mary Baldwin College sent to alumnae and 
+friends of the college posed the question “Is Mary Baldwin go- 
+ing to turn into a military school?” and answered “No! Mary 
+
+
+10 
+
+
+provide no military framework or training other than 
+the Mary Baldwin ROTC program, involving two 
+hours of training per week for freshman and soph- 
+omores and four hours per week for juniors and 
+seniors. Pet. App. 109a-llla.° VWIL students would 
+also participate in a newly established, largely cere- 
+monial Virginia Corps of Cadets. Id. at 9a, 110a. 
+VWIL students would not wear uniforms except when 
+participating in ROTC or Virginia Corps of Cadets 
+activities. Jd. at 1lla. VWIL students would partici- 
+pate in a leadership externship, keep a journal, par- 
+ticipate in organizing a speaker series, and organize 
+and carry out community projects. Jd. at 9a. When 
+the President of Mary Baldwin presented the VWIL 
+concept to the college faculty, the discussion about 
+possibly having military marching and parades on the 
+campus “was fraught with humor.” VMI II C. A. App. 
+482-483. In contrast with “the ey.tirely militaristic 
+experience of VMI,” “VWIL * * * incorporates the 
+element of public service.” Pet. App. 68a; see also 
+VMI IIC.A. App. 464. 
+
+Instead of the “rat line,” VWIL would have “train- 
+ing in self-defense and self-assertiveness through a 
+Cooperative Confidence Building program.” Pet. App. 
+1lla-112a. Residential life for VWIL students would 
+also “vary significantly” from VMI. Id. at 66a. There 
+would be no barracks at VWIL. YWIL students would 
+
+
+Baldwin will retain its identity, daily life on campus would not 
+be any different.” VMI II C. A. App. 633. 
+
+6 When VWIL was planned, only one Mary Baldwin student 
+was participating in ROTC. No Mary Baldwin student had 
+been commissioned in the preceding three years. VMI II C. A. 
+App. 640. 
+
+
+11 
+
+
+live in Mary Baldwin student housing, in which pri- 
+vacy would be respected. Id. at 127a-128a.. VWIL 
+freshman students would room together in separate 
+sections of the Mary Baldwin residence halls “to 
+facilitate the development of group identity while also 
+encouraging good relationships and friendships with 
+other freshmen.” Id. at 1l4a. “VWIL participants 
+will be encouraged to participate in MBC activities 
+and class functions.” Jd. at 1l4a-l1l5a. VWIL stu- 
+dents would not be required to eat meals together. 
+Id. at 1lla. VWIL would not use class or dyke sys- 
+tems, but instead would have a mentor ag require- 
+ment. VMI II C. A. App. 460, 894-895. VWIL also 
+would also not use VMI’s expulsion-only honor code. 
+Pet. App. 114a-1 15a. 
+
+Mary Baldwin College does not have a math and 
+science focus and does not offer a Bachelor of Science 
+degree. Pet. App. 13la. Its faculty “hold{s) signifi- 
+cantly fewer Ph.D.’s than the faculty at VMI,” id. at 
+129a, and receives significantly lower salaries, VMI 
+IC. A. App. 493. The physical training facilities at 
+Mary Baldwin are far less extensive and sophisticated 
+than those at VMI. Pet. App. 130a-131a. 
+
+4. The Remedial Decisions Below. The district 
+court approved VMI’s proposed remedial plan. Pet. 
+App. 58a-13la. The court acknowledged that the pro- 
+posed VWIL “differs substantially from the VMI 
+
+
+program,” id. at 55a; see id. at 12a, 67a-68a, but found 
+
+
+Mary Baldwin student dorms include a “wide range of 
+living arrangements,” such as “[rjesidence halls * * * ele- 
+gantly equipped with brass chandeliers, plush carpeting and 
+mahogany furniture.” Pet. App. 127a. Many are converted 
+single-family homes, furnished by the college, and each with 
+“its own distinct character.” Jbid. Some have “televisions, 
+cable hook-ups and microwave ovens.” /bid. 
+
+
+12 
+
+
+the differences to be “justified pedagogically” based 
+on “developmental and emotional differences between 
+the sexes.” Jd. at 72a, 76a; see id. at 62a. The court 
+accepted the conclusions of the Task Force that “a 
+military model and, especially VMI’s adversative 
+method, would be wholly inappropriate for educating 
+and training most women for leadership roles,” id. at 
+63a, and found VWIL’s cooperative confidence build- 
+ing method to be more appropriate for “the different 
+educational needs of most women,” id. at 10a. 
+
+The court concluded that the adversative method 
+was “inappropriate for most women” because “most 
+women reaching college generally have less confi- 
+dence than men.” Pet. App. 64a. Young women there- 
+fore “do not need to have uppityness and aggression 
+beaten out of them.” Id. at 73a-74a. Whereas “the 
+VMI model is based on the premise that young men 
+come with [an] inflated sense of self-efficacy that 
+must [be] knocked down and rebuilt,” “[wJhat [women] 
+need is a system that builds their sense of self- 
+efficacy through meeting challenges, developing self- 
+discipline, meeting rigor and dealing with it, and 
+having successes.” Id. at 10a-lla. [The ‘nature of 
+an experience that is growth-producing for a majority 
+of women, according to the literature, is one that is 
+supportive, is one that emphasizes positive motiva- 
+tion.’” Id. at 223a. See generally pages 37-40, infra. 
+Based on those notions of “what women need,” the 
+court predicted that VWIL’s method “will produce 
+the same or similar outcome for women that VMI 
+produces for men.” Pet. App. 64a; see id. at 75a-76a. 
+The court concluded that “{iJf VMI marches to the 
+beat of a drum, then Mary Baldwin marches to the 
+melody of a fife and when the march is over, both will 
+have arrived at the same destination.” /d. at 84a. 
+
+
+13 
+
+
+The court of appeals affirmed, Pet. App. 1a-30a 
+(VMI II), with Judge Phillips dissenting, id. at 3la- 
+52a. The panel majority devised a new “special in- 
+termediate scrutiny test” with which to review the 
+constitutionality of VMI’s proposed remedy. It inter- 
+preted this Court’s decision in Mississippi Univ. for 
+ae v. Hogan, 458 U.S. 718 (1982), to require 
+only: 
+
+
+1. that the governmental objective be “consis- 
+tent with a legitimate governmental role” 
+and “not pernicious,” id. at 14a, 16a, 22a; and 
+
+
+2. that the sex-based classification be “impor- 
+tant in serving” that objective, id. at 14a-15a, 
+16a. 
+
+
+In the court’s view, Virginia’s asserted objective of 
+“providing the option of a single-gender college 
+education,” id. at 20a, sufficed to meet that test, 
+and the challenged exclusion of women from VMI 
+was “by definition necessary for accomplishing thlat] 
+objective,” id. at 16a. 
+
+Recognizing that, without more, its analysis would 
+provide “little or no scrutiny” of single-sex educa- 
+tional programs, the court then added a new “third 
+step,” applicable to cases in which the State’s objec- 
+
+
+The intermediate-scrutiny equal-protection test for sex- 
+based classifications set forth in Hogan, 458 U.S. at 724, 
+requires an “exceedingly persuasive justification” for exclud- 
+ing members of one sex from an institution of higher education. 
+“Th{at) burden is met only by showing at least [I] that the clas- 
+sification serves important governmental objectives and [2] that 
+the discriminatory means employed are substantially related to 
+the achievement of those objectives.” Ibid. (internal quotation 
+marks omitted). 
+
+
+14 
+
+
+tive is to achieve “homogeneity of gender” in separate 
+educational programs. Pet. App. l6a-18a. Under that 
+third step: 
+3. The benefits provided to each sex through 
+separate programs must be “substantively 
+comparable.” Id. at 17a.° 
+
+
+The court then concluded that VWIL would be 
+substantively comparable to VMI, because 
+
+
+both VMI and VWIL * * seek to teach 
+discipline and prepare students for leadership. 
+The missions are similar and the goals are the 
+same. The mechanisms for achieving the goals 
+differ—VMI utilizing an adversative and perva- 
+sive military regimen and VWIL proposing to 
+utilize a structured environment reinforced by 
+some military training and a concentration on 
+leadership development—but the difference is 
+attributable to a professional judgment of how 
+best to produce the same opportunity. 
+
+
+Id. at 26a. 
+
+In approving the continued exclusion of women 
+from VMI, the court reasoned that, “[iJf we were to 
+place men and women into the adversative relation- 
+ship inherent in the VMI program, we would destroy, 
+at least for that period of the adversative training, 
+any sense of decency that still permeates the 
+relationship between the sexes.” Pet. App. 23a. The 
+
+
+® The court emphasized that it was not requiring “separate 
+but equal,” Pet. App. at 18 n.*, nor that the programs be “the 
+same,” id. at 17a, because “equal methods and equal results” 
+are not required for “different classes of people,” and any sug- 
+gestion to the contrary “is justified only by a needless, and 
+indeed baseless, demand for conformity,” id. at 25a. 
+
+
+15 
+
+
+court acknowledged that the VWIL degree will lack 
+the historical benefit and prestige of a VMI degree, 
+but stated that those intangible benefits “must be the 
+byproduct of a longer-term effort.” Jd. at 27a. 
+
+The Fourth Circuit voted, sua sponte, not to 
+reconsider the case en banc. Pet. App. 246a-250a. 
+Judge Motz wrote an opinion dissenting from that de- 
+cision, in which Judges Murnaghan, Michael, and Hall 
+joined. Id. at 25la-257a. 
+
+INTRODUCTION AND SUMMARY OF ARGUMENT 
+
+Since its founding in 1839, the Virginia Military 
+Institute has not admitted women. That practice has 
+correctly been held to violate the Equal Protection 
+Clause, and the question before the court in this case 
+is how that violation should be remedied. Respon- 
+dents have argued that the value to men of a men-only 
+VMI is an absolute barrier to women’s admission. 
+The remedy they chose continues to maintain VMI 
+exclusively for men, and offers an alternative for 
+women that is admittedly separate, different, and 
+unequal. They defend that plan on the basis of 
+harmful sex-role stereotypes, and continue to resist 
+the determination of liability. The program for 
+women that they sponsored—itself a constitutionally 
+inadequate remedy—in their view provides women 
+more than they constitutionally deserve. 
+
+Women are entitled to equal access to all the 
+benefits that VMI seeks to provide exclusively to 
+men. Women who, but for their sex, are qualified for 
+VMI and want to go to VMI are entitled to an equal 
+opportunity to attend the program they find more 
+valuable; they cannot be relegated to a separate and 
+substantially different education. The only adequate 
+redress for women’s unconstitutional exclusion from 
+
+
+16 
+
+
+VMI is to order that VMI’s men-only admissions 
+policy be ended. 
+
+I. A. Traditional remedial principles demand a 
+remedy that closely fits the violation. Once a consti- 
+tutional violation is identified, the court’s remedial 
+order must eradicate, to the greatest extent possible, 
+the harm caused by the unconstitutional conduct. 
+Application of that principle makes it evident that an 
+order enjoining VMI’s men-only admission policy is 
+the only adequate remedy in this case, and that the 
+remedy approved by the court of appeals falls far short 
+of the goal of providing complete relief. 
+
+VMI’s men-only admissions policy has caused and 
+continues to cause both tangible and intangible 
+harms. It has deprived women of the VMI educational 
+experience, which is unlike the experience at any 
+other college in Virginia. VMI has an intensive, 
+highly structured military-style educational program 
+that challenges students to achieve more than they 
+might otherwise have accomplished, and that has been 
+remarkably successful in producing leaders in male- 
+dominated careers. Women barred from VMI are also 
+excluded from membership in the circle of VMI’s 
+powerful alumni and from the particular prestige 
+carried by a VMI degree. Finally, VMI’s admissions 
+policy has communicated a message that, in the eyes 
+of the Commonwealth, women do not possess the 
+qualities of self-discipline, ability to withstand stress, 
+and respect for-hierarchy that are widely associated 
+with VMI. The only way to offer women the benefits 
+of VMI, and to cure the stigma imposed on women by 
+their historical exclusion, is to prohibit its men-only 
+admissions policy. 
+
+B. The court of appeals viewed the prospect of 
+women’s admission to VMI as presenting a “Catch 
+
+
+17 
+
+
+22” for women, because, in its view, women’s admis- 
+sion would “destroy” the very opportunity women 
+seek to share. Under that theory, respondents’ inter- 
+est in preserving VMI’s benefits exclusively for men 
+outweighs women’s right to equal treatment. That 
+theory is, not surprisingly, completely without sup- 
+port in modern equal protection doctrine. Preserving 
+a benefit for one sex is not an adequate reason for 
+denying it to the other; sex discrimination is not self- 
+justifying. 
+
+Respondents have not, in any event, shown that 
+integration of women at VMI would be impossible, or 
+even that the changes that might be required at VMI 
+when women are admitted would have a substantial or 
+significant negative impact on the character or the 
+effectiveness of VMI’s educational program. Accom- 
+modations necessary to preserve privacy or account 
+for physical differences would not change the funda- 
+mental nature of the program. The court of appeals’ 
+concern that the “decency that still permeates the 
+relationship between the sexes” would suffer as a 
+result of women’s admission to VMI is constitu- 
+tionally invalid; it is another example in a long 
+history of official discriminations against and exclu- 
+sions of women in the name of protecting them. The 
+experience of coeducation at the federal military 
+service academies also shows that the admission of 
+women into a rigorous, military-style educational 
+program does not impair any governmental interest 
+in producing military personnel, let alone “citizen- 
+soldiers.” 
+
+II. A. The court of appeals approved a remedy that 
+is itself unconstitutional. It would be appropriate for 
+the Court to review that remedy under strict scru- 
+tiny, because differences in treatment based solely on 
+
+
+18 
+
+
+sex are inherently suspect. The long history of 
+discrimination against women, the general irrele- 
+vance of sex as a ground for official decision-making, 
+and women’s continuing underrepresentation in gov- 
+ernment, all support the application of strict scrutiny 
+here. 
+
+B. The constitutional violation in this case is, 
+however, plain even under intermediate scrutiny. 
+The approved remedy was designed, defended, and 
+approved through the use of impermissible sex- 
+stereotypes and overgeneralizations about the ca- 
+pacities and aspirations of “most” men and “most” 
+women. Equal protection precludes reliance on such 
+stereotypes and generalizations to foreclose in- 
+dividual opportunity. The inequality of treatment 
+caused by the substantial differences between the 
+sex-segregated VMI and VWIL programs is invalid 
+under intermediate scrutiny. 
+
+Respondents’ asserted interest in providing single- 
+sex education cannot support the VWIL remedy. 
+Respondents have shown no real interest in providing 
+single-sex education, but have asserted it post hoc, in 
+order to reserve VMI for men only. An interest in 
+providing single-sex education would, in any event, 
+not validate a program that offers substantially differ- 
+ent programs and benefits to men and women and that 
+bases those differences on invalid assumptions about 
+the limited abilities of women. 
+
+
+ARGUMENT 
+
+
+Respondents violated the Equal Protection Clause 
+by excluding women from VMI solely on the basis of 
+their sex. The unconstitutionality of that practice 
+was clear. This Court held in Mississippi Univ. for 
+Women v. Hogan, 458 U.S. 718, 724 (1982), that a 
+
+
+19 
+
+
+State cannot prohibit enrollment in a state 
+institution of higher education on the basis of sex 
+without an “exceedingly persuasive justification” for 
+doing so. The court of appeals in VMI I correctly held 
+that Virginia “failed to articulate an important 
+objective which supports the provision of [VMI’s] 
+unique educational opportunity to men only.” Pet. 
+App. 137a. 
+
+The court of appeals erred, however, in its remedial 
+analysis. The only adequate remedy in this case is 
+for VMI to stop excluding women from its student 
+body on the basis of their sex. VMI’s men-only admis- 
+sions policy was unconstitutional because it excluded 
+all women regardless of their individual abilities and 
+characteristics. The remedy necessary to end that 
+harm is an admissions policy based on individual 
+qualifications and not on sex. When the women-only 
+policy at the Mississippi University for Women was 
+held to violate equal protection, qualified men were 
+required to be admitted. Hogan, supra. When the 
+men-only admissions policy at the University of Vir- 
+ginia was invalidated for the same reasons, qualified 
+women were required to be admitted. Kirstein v. 
+Rector and Visitors of Univ. of Virginia, 309 F. 
+Supp. 184 (E.D. Va. 1970). And when exclusion of 
+girls from Philadelphia’s Central High School was 
+found to violate equal protection, qualified girls were 
+required to be admitted. Newberg v. Board of Pub. 
+Educ., 478 A.2d 1352 (Pa. Super. Ct. 1984). Women 
+
+
+Newberg was decided under both the Equal Protection 
+Clause to the United States Constitution and the Equal Rights 
+Amendment to the Pennsylvania Constitution, Pa. Const. Art. 
+I, § 28. The same remedial principles apply to violations of 
+either provision. 
+
+
+20 
+
+
+who, but for their sex, meet VMI’s admissions stan- 
+dards must likewise be admitted to VMI. 
+
+The court of appeals in VMI I erred when it sug- 
+gested that “parallel” single-sex programs might be 
+an adequate remedy for VMI’s unconstitutional ex- 
+clusion of women. Point I below demonstrates that, 
+in view of the distinctiveness cf VMI’s education- 
+al program, VMI’s powerful prestige, exceptionally 
+strong alumni support, and the harmful message 
+about the different capabilities of men and women 
+created by VMI’s long-standing exclusion of women, a 
+new, wholly separate school for women cannot pos- 
+sibly be an adequate remedy for the constitution- 
+al violation in this case. Predictably, the separate 
+VWIL program is not. Point II demonstrates that 
+reserving VMI for men only, while creating a sepa- 
+rate and substantially different program for women at 
+Mary Baldwin College, is itself unconstitutional. The 
+separate VWIL program cannot, for that additional 
+reason, be a remedy for the exclusion of women from 
+VMI. 
+
+
+I. INVALIDATING WIS MEN-ONLY ADMISSIONS 
+POLICY IS THE ONLY ADEQUATE REMEDY FOR 
+THE CONSTITUTIONAL VIOLATION IN THIS 
+
+
+CASE 
+
+
+A. Allowing Qualified Women To Attend VMI Is 
+The Relief That Will Most Fully Remedy The 
+Constitutional Violation 
+
+
+Remedial principles require a close fit between the 
+constitutional violation and the remedy. The remedy 
+“must be designed as nearly as possible to restore the 
+victims of discriminatory conduct to the position they 
+would have occupied in the absence of such conduct.” 
+Milliken v. Bradley, 433 U.S. 267, 280 (1977) (internal 
+
+
+21 
+
+
+quotation marks omitted). I[Thhe court has not 
+merely the power but the duty to render a decree 
+which will so far as possible eliminate the discrim- 
+inatory effects of the past as well as bar like discrim- 
+ination in the future.” Louisiana v. United States, 
+380 U.S. 145, 154 (1965); see also Swann v. Charlotte- 
+Mecklenburg Bd. of Educ., 402 U.S. 1, 16 (1971). 
+
+Where persons have been unconstitutionally ex- 
+cluded from an institution in violation of equal protec- 
+tion, removing the exclusionary bar should be the 
+presumptive remedy. That is true both because the 
+tangible and intangible benefits offered at separate 
+institutions are likely to differ (thus perpetuating the 
+unequal treatment), and because reservation of any 
+institution to males is “likely to be a witting or 
+unwitting device for preserving tacit assumptions of 
+male superiority.”" Moreover, where the State’s pur- 
+poses are “as well served by a gender-neutral classi- 
+fication” here, by a sex-neutral admissions policy— 
+“as one that gender classifies and therefore carries 
+with it the baggage of sex-stereotypes, the State 
+cannot be permitted to classify on the basis of sex.” 
+Orr v. Orr, 440 U.S. 268, 283 (1979). As the Court 
+emphasized in Orr, “this is doubly so where the 
+choice made by the State appears to redound * * * to 
+the benefit of those without need for special solici- 
+tude.” Ibid. Maintaining VMI’s current admissions 
+policy will benefit only men, will continue to foster 
+negative stereotypes, and denies women the complete 
+remedy that admission to VMI would provide. 
+
+
+u C. Jencks & D. Riesman, The Academic Revolution 297-298 
+(1968). 
+
+
+22 
+
+
+1. Allowing qualified women to attend VMI is 
+the only way to assure them equal access to 
+VMI’s unique attributes 
+
+
+Women who have been barred from VMI have been 
+denied the opportunity to experience its distinctive 
+educational method, and have been foreclosed from the 
+career possibilities and other “intangible” life-long 
+benefits associated with attending and graduating 
+from VMI. Both courts below recognized that fact. 
+See Pet. App. 152a (court of appeals) (Virginia fails to 
+offer women “the unique benefit of VMI’s type of 
+education and training”); id. at 192a (district court) 
+(“women have no opportunity anywhere to gain the 
+benefits of [VMI’s] education”); see also id. at 218a. 
+The only remedy that can provide women the equal 
+opportunity they have been denied is admission to 
+VMI. The leadership program at Mary Baldwin, 
+which would be “equivalent to a [curricular] minor,” 
+Gov’t Exh. 52, at 1 (L. 248), does not come close to 
+matching the comprehensive VMI program from 
+which women have been excluded. Given VMI’s dis- 
+tinctive benefits, a separate program, however de- 
+signed, could not possibly provide an adequate 
+remedy. 
+
+As the district court found, a new program at a 
+separate, all-female institution also cannot “supply 
+those intangible qualities of history, reputation, 
+tradition, and prestige that VMI has amassed over the 
+years.” Pet. App. 60a-6la. VMI’s own expert com- 
+pared VMI and its traditions to “English cathedrals,” 
+that were “built over a period of 150 years.” VMI I 
+C.A. App. 1249. VMI’s students and graduates enjoy 
+the benefits of association with an established and 
+renowned institution with a distinctive reputation. 
+
+
+23 
+
+
+VMI has one of the oldest alumni organizations in 
+the country, and its alumni network is “exceptionally 
+close to the school.” Pet. App. 1922. “Those who 
+survive the [VMI] experience are forever set apart in 
+their own minds and those of their colleagues as a 
+special breed. * * * It is clearly an advantage to 
+* * * be part of such a network.” VMI I C. A. App. 
+1750 (L. 218). The alumni network is “enormously 
+influential,” VMI II Tr. 1227, especially in the 
+historically male-dominated fields of engineering, the 
+military, business, and public service in which VMI 
+graduates tend to pursue careers, id. at 1228. See 
+also VMI II, Pet. App. 50a-51a (Phillips, J., dissent- 
+ing). Respondents have consistently asserted that 
+VMI alumni disproportionately serve in military 
+leadership positions, see R. 152, at 12 (J 62), and 
+disproportionately achieve influential and lucrative 
+positions in public and private life, id. at 17 (J 87); see 
+also VMI II Tr. 1228-1231. In Sweatt v. Painter, 339 
+U.S. 629 (1950), this Court deemed such intangible 
+qualities to be “more important” than tangible re- 
+sources when comparing the quality of separate 
+educational institutions. Id. at 634. In so holding, the 
+Court emphasized “those qualities which are in- 
+capable of objective measurement but which make for 
+greatness ina * * * school.” Jbid. Such qualities 
+included “reputation of the faculty, experience of the 
+administration, position and influence of the alumni, 
+standing in the community, traditions and prestige.” 
+Ibid. A new and separate program for women cannot 
+possibly match VMI in those enormously important 
+respects. 
+
+
+24 
+
+
+2. Allowing qualified women to attend VMI is 
+the only way to cure the state-sponsored sex 
+
+
+stereotyping and stigma resulting from 
+VMI’s exclusionary policy 
+
+
+VMI stands as an official monument to the discred- 
+ited view that women are categorically different from, 
+and in many respects inferior to, men. VMI’s men- 
+only admissions policy is a relic of an era when 
+women were generally considered unfit for higher 
+education of any type, and especially unfit for 
+leadership or military service. VMI celebrates the 
+fact that its male tradition harks back to that “time 
+when society expected men to achieve adult status 
+through experiences that differed from those consid- 
+ered appropriate for women.” VMI I C. A. App. 1752 
+(L. 220). The continued exclusion of women from 
+VMI thus imparts the impermissible message that, as 
+a matter of official policy, Virginia continues to be- 
+lieve that women are not suited for rigorous military 
+training, or for military service or other leadership 
+positions that require such training. In that respect, 
+women’s continued exclusion from VMI is “practi- 
+
+
+2 VMI’s men-only admissions policy was adopted when it 
+opened in 1839, and the school’s current mission “was estab- 
+lished early in the life of the institution.“ Pet. App. 214a. 
+Women at that time were “academically disenfranchised.” 
+Hogan, 458 U.S. at 727 n.13. In the early 19th century, there 
+was “great resistance towards the idea of providing higher 
+education for women, because it was believed that they were 
+mentally and physically inferior to men and therefore unable to 
+attend class on a regular basis.” United States Commission on 
+Civil Rights, More Hurdles to Clear (1980) (Clearinghouse 
+Publication No. 63), reprinted in Yellow Springs Exempted 
+Village School Dist. Bd. of Educ. v. Ohio High School Athletic 
+Ass'n, 647 F.2d 651, 670 (6th Cir. 1981). 
+
+
+25 
+
+
+cally a brand upon them, affixed by law, an assertion 
+of their inferiority” that “denigrates the dignity” of 
+the excluded women, and “reinvokes a history of 
+exclusion.” J. E. B. v. Alabama ex rel T. B., 114 S. Ct. 
+1419, 1428 (1994) (quoting Strauder v. West Virginia, 
+100 U.S. 308, 308 (1880); see also Roberts v. United 
+States Jaycees, 468 U.S. 609, 625 (1984) (referring to 
+“stigmatizing injury” caused by private club’s 
+exclusion of women). 
+
+VMI’s admissions policy conveys the message that, 
+while men can surmount their limitations and exceed 
+their expectations, for women, biology truly is des- 
+tiny.“ When government thus inflexibly prejudges 
+individuals’ capabilities based on their sex, it an- 
+nounces that, in the eyes of the State, men and women 
+are not truly equal. The only remedy that can coun- 
+teract that message is to consider women eligible for 
+admission to VMI. 
+
+
+B. Respondents Failed To Show That It Would Be 
+Impossible To Admit Women To VMI 
+
+
+Respondents argued below that, “[iJf women were 
+admitted to VMI, the whole program would col- 
+
+
+8 The district court found that VMI had substantial trans- 
+formative potential: “VMI takes students that are average 
+from an academic perspective and, through the character de- 
+velopment program, graduates people who have more than 
+average commitment and motivation as well as character.” 
+Pet. App. 206a. VMI accepts all qualified Virginia applicants. 
+Gov't Exh. 75, at 32 (L. 148). The minimum combined SAT 
+score for admission to VMI is 700, VM/ I C. A. App. 425, and 
+the average score of men admitted to VMI is 1053, id. at 1789 
+(L. 234). Matriculants must meet the national ROTC fitness 
+standard, but they are not required to be particularly athletic. 
+Yet even women with superior academic and athletic ability 
+
+
+are barred from competing alongside men at VMI. 
+
+
+lapse.“ In response, the court of appeals “did not 
+direct the Commonwealth of Virginia to change VMI 
+to a coeducational college,” Pet. App. 7a, because 
+women’s admission to VMI might create a “Catch 22,” 
+whereby “the change caused by [women’s] admission 
+would destroy the opportunity,” ibid. (quoting VMI I, 
+id. at 148a). 
+
+Because of the strong presumption that admission 
+of women to VMI is the correct remedy in this case, 
+respondents face the heaviest burden of justification 
+in not adopting that remedy. A desire to maintain the 
+benefits of VMI in their current form exclusively for 
+men clearly is not such a rationale: 
+
+
+Since any gender-based classification provides one 
+class a benefit or choice not available to the other 
+class, * * * that argument begs the question. 
+The issue is not whether the benefitted class 
+profits from the classification, but whether the 
+State’s decision to confer a benefit only upon one 
+class by means of a discriminatory classification 
+is substantially related to achieving a legitimate 
+and substantial goal. 
+
+
+Hogan, 458 U.S. at 731 n. 17.“ Nor is the tautology 
+that women, if admitted, could not partake of the 
+
+
+* R. 152, at 48 ( 270). 
+
+The preservation of advantages for a favored class of 
+beneficiaries is obviously not a valid reason for excluding oth- 
+ers. See, e. g., Cooper v. Aaron, 358 U.S. 1, 13 (1958) (“adverse 
+effect upon the educational program” is insufficient reason to 
+delay school desegregation); Buchanan v. Warley, 245 U.S. 60, 
+82 (1917) (assertion that “acquisitions [of houses] by colored 
+persons [would] depreciate property owned in the neighbor- 
+hood by white persons” cannot justify racial exclusion); City of 
+Cleburne v. Cleburne Living Center, Inc., 473 U.S. 432, 448 
+
+
+27 
+
+
+special ethos of a men-only institution. VMI’s 
+mission of educating “citizen-soldiers” also plainly 
+does not require that women continue to be excluded. 
+See, e.g., Pet. App. 254a-255a (opinion of Motz, J., 
+dissenting from denial of rehearing en banc). Indeed, 
+respondents have repeatedly asserted that citizen- 
+soldiers are successfully produced elsewhere in Vir- 
+ginia, and would be at VWIL.” 
+
+
+1. The admission of women would not 
+“destroy” VMI 
+
+The court of appeals discussed three areas in which 
+the admission of women would require changes at 
+VMI—“physical training, the absence of privacy, 
+and the adversative approach.” Pet. App. 147a-148a. 
+Respondents have not demonstrated that any of the 
+changes that might be necessary in those areas jus- 
+tifies continued exclusion of women from VMI. 
+
+a. Privacy. If women were admitted to VMI, 
+“{ajllowance for personal privacy would have to be 
+made.” Pet. App. 17la. Respondents have not shown, 
+however, that affording members of each sex privacy 
+from members of the other sex for sleeping, and for 
+those few minutes each day required for personal 
+hygiene and changing clothes, would materiaily inter- 
+fere with VMI's practice of providing cadets with a 
+minimum of privacy. All cadets could continue to lack 
+privacy vis-a-vis their own gender when sleeping, 
+
+
+(1985) (AITme city may not avoid the strictures of [the Equal 
+Protection Clause) by deferring to the wishes or objections of 
+some fraction of the body politic” to support ordinance with 
+exclusionary effect on disabled persons.). 
+
+® See, e.g., R. 152, at 97 (J 536) (referring to “other state 
+institutions that produce citizen-soldiers”). 
+
+
+dressing and using the bathroom. And at all other 
+times, individuals of both sexes could be subjected to 
+close scrutiny by the entire group. Thus, if VMI so 
+chose, men could continue (as at present) to lack 
+privacy from other men, and women could lack privacy 
+from other women. 
+
+b. Physical training standards. The court of 
+appeals relied on evidence regarding strength differ- 
+ences between men and women to support its conclu- 
+sion that admission of women would materially alter 
+VMI. Pet. App. 147a-148a. It is conceded, however, 
+that some—indeed many—women are able to meet 
+VMI’s current physical standards.“ 
+
+In addition, the various physical challenges that 
+VMI provides are not ends in themselves. They are 
+part of the means of “adversative” training, designed 
+to “creat[e] training situations which are stressful 
+enough to show [the students] that they are capable of 
+doing tasks which surpass their previously self- 
+imposed mental and physical limits.” VMI I C. A. App. 
+1668 (L. 192). There are a number of well-known 
+methods for dealing with variations of physical ability 
+within a student or similar population. Certain tasks 
+can be adjusted according to sex-neutral ability 
+
+
+" The district court found that “some women are capable of 
+all of the individual activities required of VMI cadets,” Pet. 
+App. 170a, including all the rat line tasks, the current physical 
+training drills, and the VMI physical fitness test. Id. at a- 
+234a; see also id. at 234a (“15% of females in the applicant pool 
+could successfully meet the requirements of the current VMI 
+
+fitness test”); and see respondents’ witness’s testimony 
+in VMI I C.A. App. 357-358 (regarding physical training and 
+military drill, “we probably could have women come in here 
+and many of them probably could do some of these things, or 
+maybe all of them”). 
+
+
+29 
+
+
+groupings based on persons’ size, strength or exper- 
+ience, or limited accommodations can be made in 
+response to physical differences between women and 
+men. VMI has completely failed to show that it 
+cannot use one or more such methods when women 
+are admitted, nor has it identified any interest that 
+would justify its failure to make an accommodation. 
+
+Indeed, VMI already makes accommodations for 
+many of its male cadets. Those who participate in 
+NCAA sports, including less strenuous sports such 
+as golf, see VMI 1 C. A. App. 1658 (L. 182), are excused 
+from “rat training” while practicing their sport. Pet. 
+App. 195a. In addition, many current male VMI cadets 
+fall short of VMI’s physical fitness standards. VMI 
+cadets take a physical fitness test each semester, 
+consisting of a set of calisthenics and a timed 1.5-mile 
+run. L. 285-288. Almost 50% of new cadets fail the 
+test and are offered remedial training. VMI I C. A. 
+App. 564-565. Some male students graduate from VMI 
+still unable to pass the fitness test. Ibid. Admitting 
+women to VMI would not for the first time introduce 
+physical disparities among cadets; they already exist. 
+
+e. The adversative approach and “decency be- 
+tween the sexes.” The court of appeals rejected the 
+prospect of women participating with men in adversa- 
+tive training because it would “destroy, at least for 
+that period of the adversative training, any sense of 
+decency that still permeates the relationship between 
+the sexes.” Pet. App. 23a. “(G)rating egos and set- 
+ting the aggressiveness of one person against another 
+through conflict, egalitarianism, lack of privacy, and 
+stress” is, the court believed, inappropriate in an 
+environment in which both women and men are 
+present. Ibid. 
+
+
+30 
+
+
+That view is an impermissible basis for decision in 
+this case. The conclusion that it is unseemly for men 
+to behave in a harsh and disciplinary way toward 
+women, or for women to do so toward men, reflects 
+a “romantic paternalism” that cannot constitute a 
+legitimate—let alone an important—state interest.“ 
+Women in the United States engage every day in ac- 
+tivities that may require harsh “cross-gender con- 
+frontation.” They arrest disobedient suspects, com- 
+mand emergency medical teams, cross-examine recal- 
+citrant male witnesses, discipline rowdy youths, and 
+serve as drill sergeants in the armed forces. The idea 
+that women cannot—or should not—engage with men 
+in activities that require aggression and “grating 
+egos” is just as unacceptable as a justification for a 
+State barring women from a renowned leadership 
+educational program as it would be for a state to 
+prohibit their participation in any other educational 
+
+
+program or profession. 
+
+
+s The unconstitutional exclusion of women from jury 
+service was similarly historically based on States’ asserted in- 
+terests in protecting women from “ugliness and depravity” and 
+experiences that would “prove humiliating, embarrassing and 
+degrading to a lady,” or because “[rjeverence for all woman- 
+hood would suffer in the public spectacle of women . . . so en- 
+gaged.” J. Z. B., 114 S. Ct. at 1423; see also Goesaert v. Cleary, 
+335 U.S. 464, 466 (1948) (upholding law prohibiting women 
+from obtaining bartenders’ licenses except to work in bars 
+owned by their husbands or fathers based on the “moral and so- 
+cial problems” predicted if women independently tended bar); 
+Bradwell v. Illinois, 83 U.S. (16 Wall.) 130, 141, 142 (1873) 
+(Bradley, J., concurring in the judgment). 
+
+
+31 
+
+
+2. The example of the federal military service 
+academies 
+
+
+The experience of the federal military academies in 
+admitting women also shows that citizen-soldiers can 
+be trained in a coeducational environment without 
+“destroying” the institution.” The district court 
+acknowledged that “the introduction of women did not 
+significantly change West Point,” Pet. App. 209a,” 
+and that Injothing has changed at the [Naval] 
+Academy [since the admission of women] except some 
+physical training requirements and some facilities,” 
+id. at 210a." At West Point, “women perform and 
+
+
+On October 7, 1975, President Gerald Ford signed Public 
+Law 94-106, § 803, 89 Stat. 537-538 (codified at 10 U.S.C. 4342 
+note), requiring the Military, Naval, and Air Force Academies 
+(located at West Point, Annapolis, and Colorado Springs) to 
+admit women as cadets starting in 1976. The law provides 
+that “the academic and other relevant standards required 
+for appointment, admission, training, graduation, and com- 
+missioning of female individuals shall be the same as those 
+required for male individuals, except for those minimum 
+essential adjustments in such standards required because 
+of physiological differences between male and female 
+individuals.” 10 U.S.C. 4342 note. Congress enacted a similar 
+provision for integration of women into the Coast Guard 
+Academy, see Public Law 94-572, § 1, 90 Stat. 2708 (codified at 
+14 U.S.C. 182(a)), and regulatory authorization opened the way 
+for women’s admission to the Merchant Marine Academy 
+starting in 1974. 46 C. F. R. 310.53 (1974). 
+
+See generally Pet. App. 208a-209a (quoting Gov’t Exh. 68). 
+
+a A VMI committee that studied the feasibility of coed- 
+ucation at VMI reported in 1986 that the Naval Academy’s 
+coed plebe indoctrination system “imparts stress and pressure 
+for the entire first year,” and women are totally integrated 
+into the entering class except for the obstacle course and some 
+of the physical aptitude exercises.” Pet. App. 210a 
+
+
+32 
+
+
+compete as well as men in cadet basic training, cadet 
+field training, and cadet advanced training,” id. at 
+209a, and at Annapolis Imlale and female midship- 
+men do equally well,” id. at 210a.” In 1984, a woman 
+graduated first in her class at Annapolis. Gov’t Exh. 
+67, at 7 (L. 109). In 1989, a female cadet attained the 
+position of First Captain of the Corps of Cadets, the 
+highest ranking position a cadet can hold at West 
+Point, commanding approximately 4200 cadets. VMI I 
+C.A. App. 738-739; General Accounting Office, Report 
+to Congressional Requesters, Military Academy: 
+Gender and Racial Disparities 10 (1994). 
+
+In sum, as the court of appeals’ own remand order in 
+VMI I recognized, enjoining VMI from continuing to 
+use a men-only admissions policy is a feasible remedy; 
+it is the only remedy that satisfies the constitutional 
+command of equal treatment of women. 
+
+
+ll. THE ESTABLISHMENT OF A WOMEN-ONLY 
+LEADERSHIP TRAINING PROGRAM AT MARY 
+BALDWIN COLLEGE DOES NOT REMEDY THE 
+UNCONSTITUTIONAL EXCLUSION OF WOMEN 
+FROM VMI BECAUSE THE SEPARATE, 
+DIFFERENT VMI AND VWIL PROGRAMS 
+THEMSELVES VIOLATE EQUAL PROTECTION 
+
+
+As we have shown above, the court of appeals erred 
+in assuming in its original remand order that sepa- 
+rate “parallel programs” might be an appropriate 
+remedy for the constitutional violation in this case. 
+Pet. App. 156a. The court further erred in finding 
+
+
+2 The Air Force Academy at Colorado Springs was not in- 
+cluded in the 1986 VMI study regarding the predicted effects 
+if VMI were to admit women, and was not addressed in the dis- 
+trict court’s findings. The Air Force Academy’s student body 
+is now approximately 15% women. 
+
+
+33 
+
+
+VWIL’s program an adequate “parallel” to VMI under 
+the Equal Protection Clause. There are substantial, 
+undisputed differences between VMI and VWIL that 
+render VWIL unable to provide to women what they 
+are denied at VMI. Nor are those differences the 
+product of happenstance; they are deliberate and are 
+unconstitutionally premised on explicit and archa- 
+ic sex-based stereotypes and generalizations about 
+the sociological and psychological characteristics of 
+women and men. Especially in view of the role of 
+education in shaping individual skills and aspirations, 
+reliance on stereotypes to exclude women from VMI 
+unconstitutionally “reflect[s] and reinforce[s] pat- 
+terns of historical discrimination.” J. E. B., 114 S. Ct. 
+at 1428. 
+
+
+A. Classifications That Deny Opportunities To 
+Individuals Based On Their Sex Should Be 
+Subjected To Strict Judicial Scrutiny 
+
+
+We demonstrate herein that respondents have failed 
+to offer the “exceedingly persuasive justification” 
+necessary to justify their proposed remedy under 
+intermediate judicial scrutiny. See Hogan, 458 U.S. 
+at 724. But we believe that strict scrutiny is, in fact, 
+the correct constitutional standard for evaluating 
+differences in official treatment based on sex, and that 
+the complete exclusion of women from VMI’s unique 
+and valued public educational program should be 
+reviewed under that standard. VMI should be per- 
+mitted to maintain its men-only admissions policy 
+only if that policy is narrowly tailored to serve a 
+“compelling” state interest. See City of Clehurne v. 
+Cleburne Living Center, Inc., 473 U.S. 482, 440 
+
+
+ad 
+
+
+(1985); Frontiero v. Richardson, 411 U.S. 677, 682 
+(1973) (plurality opinion).” 
+
+This Court has recognized—and this case illus- 
+trates—that sex “generally provides no sensible 
+ground for differential treatment.” Cleburne, 473 
+U.S. at 440. Although the phenomena of sex and race 
+discrimination differ from each other in some impor- 
+tant respects, sex, like race, is an immutable and 
+highly visible characteristic that “frequently bears 
+no relation to ability to perform or contribute to 
+society.“ Frontiero, 411 U.S. at 686 (plurality 
+opinion). Governmental decision-making based on 
+stereotypical views and “gross generalizations” about 
+women and men nevertheless persists. J. E. B., 114 
+U.S. at 1427. The fact that a person’s sex is readily 
+observed yet rarely relevant makes it both a common 
+
+
+3 Regardless of the level of judicial scrutiny, federal execu- 
+tive and congressional policies and programs having to do with 
+the conduct and control of military affairs should continue to 
+receive the judicial deference they have traditionally been 
+accorded. See, e.g., Weiss v. United States, 114 S. Ct. 752, 760 
+(1994) (AChourts must give particular deference to the deter- 
+mination{s] of Congress, made under its authority to regulate 
+the land and naval forces.”) (internal quotation marks omit- 
+ted); Goldman v. Weinberger, 475 U.S. 503, 507 (1986) (“Our 
+review of military regulations * * * is far more deferential 
+than constitutional review of similar laws or regulations 
+designed for civilian society.”); Rostker v. Goldberg, 453 U.S. 
+57, 64-65 (1981) (“[PJerhaps in no other area [than Congress’s 
+authority over military affairs) has the Court accorded Con- 
+gress greater deference.”); Parker v. Levy, 417 U.S. 733, 756, 
+758 (1974) (“Congress is permitted to legislate both with great - 
+er breadth and with greater flexibility” when the statute gov- 
+erns military society); Orloff v. Wilioughby, 345 U.S. 88, 94 
+(1953). VMI is not part of the United States military, and its 
+interests are not entitled to any special deference. 
+
+
+35 
+
+
+and presumptively impermissible basis for official 
+decision. Special judicial vigilance is required to pre- 
+vent sex from serving as a convenient, but harmful 
+and constraining, proxy for actual abilities and needs. 
+
+Members of the Court have also noted the many 
+parallels between women’s and racial minorities’ 
+experience of official discrimination. When four 
+Justices in Frontiero maintained that classifications 
+based on sex, like those based on race, national origin, 
+or alienage,“ were “inherently suspect,” they par- 
+ticularly noted this country’s “long and unfortunate 
+history of sex discrimination,” including the histor- 
+ical similarities in the treatment of women and 
+blacks. 411 U.S. at 684-685. In J. E. B., that history 
+continued to inform the level of scrutiny through 
+which the Court reviews sex-based differences in 
+treatment. 114 S. Ct. at 1425. Respondents here seek 
+to perpetuate a sex-based exclusion that dates from a 
+time when women could neither vote nor “hold office, 
+serve on juries, or bring suit in their own names, and 
+married women traditionally were denied the legal 
+capacity to hold or convey property or to serve as 
+legal guardians of their own children.” Ibid. (quoting 
+Frontiero, 411 U.S. at 685). This case is a par- 
+ticularly vivid illustration of the ways in which the 
+hand of the past can continue to control current 
+attitudes and opportunities for women. 
+
+Despite the fact that women are a numerical 
+majority in the United States, women remain vastly 
+
+
+™ Alienage and national origin classifications are suspect, 
+although, like sex classifications, they do not share all of the 
+characteristics of racial classifications. See, e.g., Graham v. 
+Richardson, 403 U.S. 365, 370-375 (1971); Sugarman v. 
+Dougall, 413 U.S. 634, 641-643 (1973). 
+
+
+36 
+
+
+politically underrepresented in state and federal 
+government. That relative political powerlessness 
+also demonstrates the need for searching judicial 
+analysis when government treats men and women 
+differently. Frontiero, 411 U.S. at 684-686 & n.17. 
+
+Over the past two decades, decisions by this Court 
+striking down a variety of policies and practices that 
+discriminate on the basis of sex have evidenced “a 
+strong presumption that gender classifications are 
+invalid.“ J. E. B., 114 S. Ct. at 1433 (Kennedy, J., 
+concurring in the judgment). To remove any remain- 
+ing ambiguity about the general illegitimacy of 
+classifications that deny valuable benefits to indi- 
+viduals based solely on their sex, this Court should 
+now hold that such classifications are inherently 
+suspect and subject to strict judicial scrutiny.” This 
+Court, however, has not previously applied that level 
+of scrutiny to sex-based classifications. See, e.g., id. 
+at 1425 n.6 (finding it “once again” unnecessary to 
+decide whether sex-based classifications are “inher- 
+ently suspect”); Hogan, 458 U.S. at 724 n.9. We 
+therefore argued in the courts below, and we show in 
+the balance of this brief, that VMI’s policy of 
+excluding women cannot stand under the “inter- 
+mediate” scrutiny applied by this Court in its prior 
+cases. Reversal would, of course, also be compelled 
+under a strict scrutiny standard. 
+
+
+* Strict scrutiny of such classifications based on sex will not 
+necessarily be “fatal in fact.” For example, where discrimina- 
+tion persists, “government is not disqualified from acting in 
+
+to it.“ Adarand Constructors, Inc. v. Pena, 115 S. 
+Ct. 2097, 2117 (1995). The compelling interest in respecting in- 
+dividuals’ privacy would clearly justify separate arrangements 
+for men and women while sleeping and while using bathroom 
+and shower facilities. 
+
+
+37 
+
+
+B. The VWIL Remedy Plainly Violates Equal 
+Protection Under Intermediate Scrutiny 
+
+
+1. VWIL is materialiy different from VMI 
+in ways that impermissibly reflect and 
+reinforce archaic stereotypes about women 
+and men 
+
+Both courts below acknowledged that the proposed 
+VWIL, in the words of the district court, “differs 
+substantially from the VMI program.” Pet. App. 55a. 
+Stark differences exist in the curricula and educa- 
+tional techniques used at the two institutions. See 
+id. at 7a-12a, 18a n.“, 24a-28a, 67a-68a; see pages 2-5, 8- 
+11, supra. And as the district court tellingly found, 
+“even if all else were equal between VMI and [VWIL], 
+the VWIL program cannot supply those intangible 
+qualities of history, reputation, tradition and prestige 
+that VMI has amassed over the years.” Pet. App. 60a 
+(footnote omitted); see pages 22-23, supra. 
+
+Despite those differences, the district court ap- 
+proved the creation of a separate VWIL as a remedy 
+by relying on the generalization that women are more 
+psychologically and sociologically suited than men 
+to a confidence-building, public-service-oriented pro- 
+gram, while VMI’s rigorous military-style training is 
+more suitable for men. The court, for example, ex- 
+pressly embraced the view that women are less confi- 
+dent and aggressive than men. Pet. App. 64a, 73a. 
+
+The district court’s stereotypical sex-based gen- 
+eralizations reflect the justifications presented by 
+respondents at trial. Responclents’ witnesses’ testi- 
+mony, including the testimony of their experts, 
+frequently employed impermissible stereotyping. 
+One of respondents’ experts, for example, declared 
+that “aggressiveness [and] the fear of failureſ] are not 
+
+
+38 
+
+
+incentives that propel women to want to succeed and 
+to achieve success” to “the same extent as seen in 
+males.” VMI I C. A. App. 1177. Another stated that 
+women are “not capable of the ferocity requisite to 
+make the program work, and they are also not capable 
+of enduring without * * * psychological trauma if 
+they went through the rat program.” Id. at 202. A 
+third proclaimed that “women basically have not the 
+same threshold on emotion as men do. * * * [T]hey 
+break down emotionally.” Id. at 1057-1058. [ln the 
+rat line with a bunch of upperclassmen all over her, [a 
+woman would] break[] down crying.” Id. at 1058. An 
+expert also insisted that even- * * those women 
+who * * * are more macho than thou would not make 
+up a cohort who would be able to deal with rats in the 
+invariant way that VMI now deals with rats.“ Id. at 
+192. 
+
+VMI’s expert on higher education concluded that 
+VMI’s focus on “absolute equality” would be inappro- 
+priate for women because women “respond more 
+naturally to an ethic of care,” premised on the notion 
+that “no one should be hurt,” rather than an egal- 
+itarian “ethic of justice.” VMI I C. A. App. 1754 (L. 
+222) (emphasis omitted). The same expert found the 
+“doubting” aspect of the adversative model inappro- 
+priate for women, because, for women, “confirmation” 
+is “a prerequisite rather than a consequence of 
+development.” Id. at 1755 (L. 223). And VMI would 
+be inappropriate for women, he concluded, because 
+women develop through “a relationship of connection” 
+and “a sense of community” rather than through self- 
+discipline and self-reliance. Ibid. VMI's experts also 
+relied on “the different vulnerabilities of men and 
+women,” VMI II C.A. App. 684, to conclude that the 
+strain imposed by men on the rat line would be 
+
+
+39 
+
+
+matched at VWIL by exposure to “fields in which 
+women at the present so often flounder. Spatial 
+things, geometric things, topology, math and physics, 
+and leadership itself.” Id. at 684-685. 
+
+Another of VMI's expert witnesses analogized 
+women who would be attracted to VMI and women 
+who would be attracted to VWIL to two types of 
+women in the late 19th century: Women who would 
+prefer VMI were like those earlier women with 
+“high-roller ambition” who aspired to become 
+lawyers, VMI II C.A. App. 578-579—aspirations the 
+expert deemed “as much fancy as * * * reality,” id. 
+at 579. The women who would prefer VWIL were 
+more like realistic 19th-century women who “became 
+nurses, teachers, librarians because those were the 
+professions they could enter.” /bid. Another expert 
+stated that even women who are confident and out- 
+going, as opposed to “overdisciplined, oversubdued, 
+and self-mistrustful,” could benefit from VWIL, 
+because they would be “reminded that their leader- 
+ship styles, while impressive, have also the hazard of 
+being oppressive.” Id. at 681-682. Those women would 
+“profit” from VWIL “by discovering limitations to 
+their strenuousness.” /bid. 
+
+One of respondents’ experts concluded that admis- 
+sion of women would impair (he VMI system because 
+of “the dating” and young women’s “aspirations” to 
+
+that are “still in the south very common.” 
+VMIIC. A. App. 196-197. [Wiomen in such a setting 
+are almost inevitably cheerleaders. Girls don’t follow 
+sports the same way boys do.” Id. at 221-222.“ Admis- 
+
+
+The same expert commented lone reason | suspect (girls) 
+don’t do as well on verbal tests, they don’t read as many sports 
+stories as boys do.” VMI II Tr. 546. 
+
+
+40 
+sion of women to VMI would not work, in part 
+because, “in Virginia, there are still men who divide 
+the women into two classes, the good girls and the bad 
+girls.” Jd. at 197. Women could not be “rats” because 
+they can’t shed their gender. They can’t shed their 
+physical attributes.” Id. at 193. 
+
+This Court’s decisions preclude basing different 
+treatment of men and women on such stereotypi- 
+cal characterizations of the sexes. Hogan clearly 
+instructs that ſelare must be taken in ascertaining 
+whether the [government’s! objective itself reflects 
+archaic and stereotypic notions.” 458 U.S. at 725. 
+The Court there invalidated a single-sex admissions 
+policy in part because the policy tendled] to per- 
+petuate the stereotyped view of nursing as an 
+exclusively woman’s job,” and “ma[de] the assumption 
+that nursing is a field for women a self-fulfilling 
+prophecy.” Id. at 729, 730. Excluding women from 
+VMI, and providing them with an all-female alter- 
+native that is not a rigorous military school, perpetu- 
+ates exactly the same kind of impermissible asso- 
+ciation of each sex with particular professions—here 
+the premise that men, and not women, are fit to be 
+strong leaders in the military and other fields that 
+require leaders to cope with adversity.” 
+
+
+“The particular stereotypes upon which the court below 
+relied are distressingly similar to Justice Bradley’s discredited 
+conclusion in Bradwell, 83 U.S. (16 Wall.) at 141 (Bradley, J., 
+concurring in the judgment), that women’s “natural and prop- 
+er timidity and delicacy” supported the exclusion of women 
+from the practice of law. See generally Orr, 440 U.S. at 283 
+(statute requiring payment of alimony to women but not to 
+men carried “the baggage of sexual stereotypes”); Califano v. 
+Goldfarb, 430 U.S. 199, 217 & n.18 (1977) (plurality opinion) 
+(statutory distinction between widows’ and widowers’ social 
+
+
+41 
+
+
+Even where stereotypes may in part reflect current 
+realities, the Court has condemned them, both be- 
+cause present practices may themselves result from 
+historical sex-based bias, and because the law must 
+not operate to restrict men and women te socially 
+assigned roles. J. E. B., 114 S. Ct. at 1428 (law must 
+not “reflect and reinforce patterns of historical dis- 
+crimination”). The lower court’s finding that, for 
+example, women are less aggressive than men may 
+reflect the effects of traditional sex-based limitations 
+on social roles that have often discouraged aggres- 
+sive behavior in women while encouraging it in men. 
+
+
+security survivors’ benefits was based on “archaic and over- 
+broad” generalizations); Craig v. Boren, 429 U.S. 190, 198-199 
+(1976) (distinction between ages at which males and females can 
+purchase 3.2% beer reflected “outdated misconceptions”); 
+Stanton v. Stanton, 421 U.S. 7, 15 (1975) (statute setting dif- 
+
+
+society has long imposed”); see also Bray v. Alexandria 
+Women's Health Clinic, 113 S. Ct. 753, 759 (1998) (describing as 
+“objectively invidious” under 42 U.S.C. 1985(3) the purpose of 
+“‘saving’ women because they are women from a combative, 
+
+
+42 
+
+
+Barring women from VMI’s adversative training 
+makes women’s presumed unfitness for it, and for the 
+leadership opportunities it creates, as much a “self- 
+fulfilling prophecy” as the presumption about natural 
+sex roles rejected in Hogan. 458 U.S. at 730. 
+
+2. Generalizations about women and men 
+cannot support sex-based classifications, 
+such as VMI’s admissions policy, that 
+foreclose individual opportunity 
+
+The Mary Baldwin College Task Force developed a 
+significantly different program for VWIL because it 
+concluded that “aspects of VMI’s military model, 
+especially the adversative method, would not be 
+effective for women as a group.” Pet. App. 8a 
+(emphasis added). But the Task Force, and the court 
+chat approved VWIL as a remedy, did not purport to 
+find—nor could they possibly have found—that all 
+women are less aggressive or less confident than all 
+men, or that VMI’s program was educationally in- 
+appropriate for all women. Indeed, they candidly 
+acknowledged that VMI’s adversative methodology is 
+not “inherently unsuitable to women,” id. at 155a, and 
+that some women would indeed be qualified for, would 
+prefer, and would benefit from that methodology, id. 
+at 76a, 155a; see id. at 74a, 223a, 234a. The court 
+nonetheless approved the VWIL program on the 
+premise that average psychological and sociological 
+differences between the sexes can justify denying all 
+women admission to an educational program that 
+some fully qualified women want to enter. 
+
+The Equal Protection Clause condemns such a use 
+of sex-based generalizations, both because they deny 
+to women who do not conform to those 
+opportunities afforded to all men (whether they fit 
+
+
+43 
+
+
+them or not), and because the most basic equal 
+protection principles require that women and men be 
+treated as individuals, not as members of groups that 
+are conclusively presumed to have or to lack certain 
+capacities or ambitions. Women whose choices or 
+abilities are different from those of the “typical” or 
+“average” woman cannot be denied an important edu- 
+cational opportunity, and be relegated instead to a 
+substantially different program that they do not want 
+and that does not meet their needs, solely because 
+most women would not be inconvenienced by that 
+limitation.” 
+
+Even where there are statistically significant 
+differences between the behavior or attitudes of men 
+and women, the Court has consistently invalidated 
+legal restrictions or generalizations based on those 
+
+
+® See, e. g., J. E. B., 114 S. Ct. at 1429; id. at 1432 (O’Connor, 
+J., concurring); id. at 1433-1434 (Kennedy, J., concurring in 
+the judgment); Jaycees, 468 U.S. at 625 (“overbrozd assump- 
+tions about the relative needs and capacities of the sexes force[) 
+individuals to labor under stereotypical notions that often bear 
+no relationship to their actual abilities”); Hogan, 458 U.S. at 
+726 (rejecting “outdated assumption that gender could be used 
+as a ‘proxy for other, more germane bases of classification’” ) 
+(quoting Craig, 429 U.S. at 198); Wengler v. Druggists Mut. 
+Ins. Co., 446 U.S. 142, 151 (1980); Orr, 440 U.S. at 280-281, 283; 
+Goldfarb, 430 U.S. at 204-207 (plurality opinion); id. at 219-220 
+(Stevens, J., concurring in the judgment); Stanton, 421 U.S. at 
+14-15; Weinberger v. Wiesenfeld, 420 U.S. 636, 645 (1975); 
+Frontiero, 411 U.S. at 686-687 (plurality opinion); Reed v. Reed, 
+404 US. 71, 76-77 (1971); but see Bradwell, 83 U.S. (16 Wall.) at 
+
+
+44 
+
+
+differences. Although some “truth may be contained 
+in some stereotypes,” this Court has “made abun- 
+dantly clear in past cases that gender classifications 
+that rest on impermissible stereotypes violate the 
+Equal Protection Clause, even when some statistical 
+support can be conjured up for the generalization.” 
+J.E.B., 114 S. Ct. at 1427 n.11 (citing Weinberger v. 
+Wiesenfeld, 420 U.S. 636, 645 (1975)).” Sex may as a 
+factual matter correlate with certain attitudes, but 
+the Equal Protection Clause deems sex, like race, 
+“irrelevant as a matter of constitutional law” to the 
+government’s assessment of an individual’s predis- 
+positions. 114 S. Ct. at 1432 (O'Connor, J., concur- 
+ring). The constitutional determination that sex does 
+not determine attitude or personality is “a statement 
+about what this Nation stands for,” even where it may 
+not be “a statement of fact.” bid. 
+
+
+® See also Craig, 429 U.S. at 200-201 (invalidating sex-based 
+differential ages for beer purchase despite statistics showing 
+that young men in the relevant age group presented greater 
+safety risks as a result of drunk driving than did young 
+women); Weinberger, 420 U.S. at 645 (invalidating sex-based 
+social security survivors’ benefits despite “empirical support” 
+that men are more likely than women to be primary bread- 
+winners); Frontiero, 411 U.S. at 688-689 (plurality opinion) 
+(invalidating presumption of wives’ but not husbands’ depen- 
+dency for purposes of benefits determinations despite “empir- 
+ical” fact that “wives in our society frequently are dependent 
+upon their husbands, while husbands rarely are dependent 
+upon their wives”). 
+
+
+45 
+
+
+3. Respondents have not demonstrated an 
+interest in single-sex education, and such 
+an interest would not, in any event, 
+justify excluding women from VMI 
+
+The court of appeals mischaracterized the issue in 
+this case as “whether a state may sponsor single- 
+gender education without violating the Equal Protec- 
+tion Clause of the Fourteenth Amendment.” Pet. 
+App. 4a. That is not the issue.” Assuming that a 
+State may be able, consistent with equal protec- 
+tion principles, to establish single-sex educational 
+programs in appropriate circumstances,” Virginia 
+nevertheless cannot continue to reserve VMI only for 
+men. 
+
+The exclusion of one sex from a college program 
+reserved for the other involves sex-based classi- 
+
+
+* Moreover, th, result we urge in this case would not affect 
+the constitutionalit, of private single-sex colleges, even when 
+they receive public funds or tax exemptions. The provision of 
+public funding, even when accompanied by extensive govern- 
+ment regulation, does not convert privately controlled insti- 
+tutions into government actors subject to constitutional restric- 
+tion, or render the government constitutionally responsible for 
+a private entity's policies. Blum v. Yaretsky, 457 U.S. 991 
+(1982); Rendell-Baker v. Kohn, 457 U.S. 830 (1982). 
+
+
+® Contrary to the assumption of the court of appeals, single- 
+sex education is not self-justifying. See Pet. App. 253a (Motz, 
+J., dissenting from denial of rehearing en banc). The exclusion 
+of one sex from a program reserved for the other, however, 
+can be a means to achieve an important (or compelling) govern- 
+mental goal, such as eradication of the effects of discrimination 
+in the existing educational system. For example, public single- 
+sex education may be permissible based on a “compensatory 
+purpose” if it were shown that “members of the gender bene- 
+fited by the classification actually suffer a disadvantage related 
+to the classification.” Hogan, 458 U.S. at 728. 
+
+
+46 
+
+
+fications. Such classifications must be constitu- 
+tionally justified. Hogan requires an “exceedingly 
+persuasive justification” for them when they result in 
+the sex-based denial of access to an educational 
+program solely on the basis of sex. 458 U.S. at 724. 
+The relevant inequality caused by respondents’ ex- 
+clusion of women from VMI in this case lies in the 
+fact that it reserves the benefits of VMI’s program, 
+prestige and powerful alumni network exclusively to 
+men. It is undisputed that no school in Virginia— 
+including VWIL—offers to women the same or even a 
+closely similar program, with its associated prestige 
+and alumni support. In light of the dramatic differ- 
+ences between the two programs, respondents must 
+establish an important governmental interest in 
+offering VMI’s benefits to men, but not women, and 
+they must also prove that the exclusion af, women 
+from VMI is needed to serve that interest.“ 
+Respondents’ invocation of a generalized interest in 
+single-sex education cannot justify single-sex pro- 
+grams that are vastly different in content and in the 
+value of the degrees they offer. Moreover, establish- 
+ing a justification for offering a single-sex education- 
+al opportunity on the ground that-some students may 
+learn better in such an environment does not support 
+confining all students seeking a military-style leader- 
+ship education to such programs. And respondents 
+have failed in this case to demonstrate that they do, 
+
+
+In Hogan, the material benefit that plaintiff was denied 
+(given his access to other, equal nursing schools in the State) 
+was Mississippi University for Women’s proximity to his 
+home. Yet the Court held that he should be admitted to MUW. 
+Women denied admission to VMI suffer a significantly greater 
+deprivation. 
+
+
+47 
+
+
+in fact, have a genuine interest in providing single- 
+sex education to college students in Virginia. Re- 
+spondents asserted such an interest at the liability 
+phase, but that contention was obviously pretextual: 
+Respondents could not explain why, if they sought to 
+provide Virginians with the option of single-sex 
+education, such an option was provided to men but not 
+to women. Pet. App. 15la-152a. Virginia also had no 
+law or official policy statement supporting single-sex 
+education. Id. at 153a. The Commonwealth’s general 
+abandonment of all other single-sex education years 
+ago, including the conversion to coeducation of each of 
+its four previously all-female public colleges, further 
+demonstrated the absence of any genuine and im- 
+portant, sex-nevtral state interest in single-sex 
+education. Id. at 154a.™ 
+
+The court of appeals upheld respondents’ remedial 
+choice because it did not correctly apply Hogan. 
+Through the use of its “special intermediate scru- 
+tiny” test, it did not meaningfully question—as it 
+was required to—whether the separation of men and 
+women into substantially different programs at VMI 
+and VWIL was needed in order to serve an important 
+state purpose, or whether that separation was, 
+instead, impermissibly premised on overbroad and 
+archaic generalizations. That court’s legal analysis 
+
+
+* See Weinberger, 420 U.S. at 648 n.16 (court “need not in 
+equal protection cases accept at face value assertions of legis- 
+lative purposes, when an examination of the legislative scheme 
+and its history demonstrates that the asserted purpose could 
+not have been a goal of the legislation”); see also Hogan, 458 
+U.S. at 730; Califano v. Westcott, 443 U.S. 76, 86-88 (1979); 
+Goldfarb, 430 U.S. at 212-213 (plurality opinion). 
+
+
+48 49 
+
+
+was wholly inconsistent with this Court’s consti- CONCLUSION 
+
+tutional sex discrimination cases.“ The judgment of the court of appeals should be 
+The court of appeal’s deferential approach to reversed. 
+
+respondents’ asserted interests was especially in- Respectfully submitted 
+
+
+appropriate here in view of the remedial posture of 
+this case. Respondents viotated the Constitution. 
+
+
+VMI's exclusionary policy, dating from 1839, was Drew S. Days, III 
+indisputably based from its inception on archaic Solicitor General 
+assumptions about men’s fitness and women’s inca- DEVAL L. PATRICK 
+pacity for military-style leadership training. Respon- Assistant Attorney General 
+dents failed at the liability stage of this case to PAUL BENDER 
+
+provide any constitutional justification whatever for Pr „ e 
+having elected to continue to maintain that anach- — — 
+ronistie and harmful poliey through the late 20th — * 
+century.” They bear a heavy burden to prove that Jessica DUNSAY SILVER 
+they have erased all effects of that discrimination, THOMAS E. CHANDLER 
+that any prospective interest they now assert in Attorneys 
+
+single-sex education is, at the very least, important 
+
+and genuine, and that exclusion of women from VMI NOVEMBER 1995 
+
+is necessary to achieve that interest. They have not 
+
+satisfied that burden. 
+
+
+The court of appeals’ “special intermediate scrutiny” test 
+reduces to a requirement that separate single-sex programs be 
+sufficiently “comparable” so that the benefits provided to one 
+gender do not “tend[], by comparison to the benefits provided 
+to the other, to lessen the dignity, respect, or social regard of 
+the other gender.” Pet. App. 17a. That anaiysis is reminiscent 
+of Plessy v. Ferguson, 163 U.S. 537, 549-550 (1896), which 
+approved racial segregation so long as it was “reasonable,” and 
+“not for the annoyance or oppression or a particular class.” 
+
+Although single-sex education may not- necessarily send a 
+stigmatizing message that renders it “inherently unequal,” cf. 
+Brown v. Board of Education, 347 U.S. 483, 495 (1954), the 
+exclusion of women from VMI does send a powerful, harmful 
+
+
+message. See pages 24-25, supra. 
+
+

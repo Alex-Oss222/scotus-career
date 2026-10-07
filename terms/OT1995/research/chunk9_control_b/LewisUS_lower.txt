@@ -1,0 +1,62 @@
+SOURCE: https://static.case.law/f3d/65/html/0252-01.html
+
+ 
+
+UNITED STATES of America, Appellee, v. Ray A. LEWIS, Defendant-Appellant. 
+
+No. 1698, Docket 94-1701. 
+
+United States Court of Appeals, Second Circuit. 
+
+Argued June 20, 1995. 
+
+Decided Sept. 5, 1995. 
+
+ *253 Steven M. Statsinger, The Legal Aid Society, Federal Defender Division, Appeals Bureau, New York City, for defendant-appellant. 
+
+James Walden, Assistant United States Attorney, Eastern District of New York, Brooklyn, NY (Zachary W. Carter, United States Attorney, Susan Corkery, Assistant United States Attorney, on the brief), for appellee. 
+
+Before: KEARSE, ALTIMARI and PARKER, Circuit Judges. 
+
+ALTIMARI, Circuit Judge: 
+
+Defendant-appellant Ray Lewis (“Lewis”) appeals from a judgment of the United States District Court for the Eastern District of New York (Amon, /.), convicting him, following a bench trial, of two counts of obstructing the mails. Lewis contends that he was improperly denied a jury trial in light of the fact that the maximum potential aggregate sentence for his two charges exceeded six months. The district court, however, held that, for the purpose of determining a defendant’s right to a jury trial, penalties should not be aggregated. Because Congress has given no indication that multiple offenses are more serious by virtue of their multiplicity than are single offenses of the same nature, the right to a jury trial cannot depend upon the maximum potential aggregate term of incarceration. Accordingly, we affirm the judgment of the district court. 
+
+BACKGROUND 
+
+Lewis, a postal worker, was charged with two counts of obstructing the mail in violation of 18 U.S.C. § 1701 . The maximum sentence for each count was six months’ imprisonment, a hundred dollar fine and a ten dollar special assessment. Prior to trial, the government moved to have Lewis tried without a jury. Magistrate Judge Azraek granted the government’s motion, but stated that she would not “sentence Mr. Lewis to more than six months in prison under any circumstances. ...” On February 25, 1994, Lewis was convicted of both counts and sentenced to three years of probation on each count to run concurrently. 
+
+Lewis appealed the denial of a jury trial to the district court, which on December 7,1994 affirmed Magistrate Judge Azrack’s determination. The district court held that the right to a jury trial was not determined by the severity of the sentences for the offenses in their aggregate, but rather by the severity of the sentences for each charge individually. Thus, according to the district court, “a defendant is entitled to a jury trial only if he faces a maximum sentence greater than six months for any single offense that is charged.” 
+
+Lewis now appeals the determination of the district court. 
+
+DISCUSSION 
+
+The United States Constitution provides that “[i]n all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury-” U.S. Const, amend. VI. Despite the absolute language of the Sixth Amendment, the Supreme Court has made clear that a jury trial is required for only those offenses that are *254 “serious” in nature; bench trials are sufficient for “petty” offenses. See Duncan v. Louisiana, 391 U.S. 145 , 159-62, 88 S.Ct. 1444 , 1452-54, 20 L.Ed.2d 491 (1968). 
+
+In order to determine whether or not an offense is “serious,” the Supreme Court has looked to “objective criteria.” Baldwin v. New York, 399 U.S. 66 , 68, 90 S.Ct. 1886 , 1888, 26 L.Ed.2d 437 (1970) (plurality opinion). According to the Court, the best objective indicator of the seriousness of an offense is “the severity of the maximum authorized penalty.” Id. Implicit in the maximum penalty is Congress’s view as to the seriousness of that crime. See Blanton v. North Las Vegas, 489 U.S. 538 , 541, 109 S.Ct. 1289 , 1292, 103 L.Ed.2d 550 (1989); Frank v. United States, 395 U.S. 147 , 148, 89 S.Ct. 1503 , 1505, 23 L.Ed.2d 162 (1969). The legislature is better equipped than is the judiciary to measure public sentiment as to the seriousness of respective offenses and is more responsive to changes in the public attitude. See Blanton, 489 U.S. at 541—42 , 109 S.Ct. at 1292-93 ; see also Landry v. Hoepfner, 840 F.2d 1201 , 1209 (5th Cir.1988) (en banc), cert. denied, 489 U.S. 1083 , 109 S.Ct. 1540 , 103 L.Ed.2d 844 (1989). Thus, the maximum authorized penalty for a particular offense is a strong indicator of the present sentiment as to the seriousness of that crime. 
+
+While courts are instructed to look at all potential modes of punishment for a particular offense (e.g. incarceration, probation, fines, etc.), “[pjrimary emphasis ... must be placed on the maximum authorized period of incarceration.” Blanton, 489 U.S. at 542 , 109 S.Ct. at 1292. Regardless of any other possible punishment, the Supreme Court has determined that “no offense can be deemed ‘petty5 for purposes of the right to trial by jury where imprisonment for more than six months is authorized.” Baldwin, 399 U.S. at 69 , 90 S.Ct. at 1888 . Accordingly, any defendant facing in excess of six months incarceration for a single offense is entitled to a jury trial. 
+
+The question which remains unanswered by the Supreme Court, however, is whether an individual potentially facing over six months imprisonment for multiple petty offenses is entitled to a jury trial. Those courts which have addressed this question to date are in agreement that potential sentences must be aggregated to determine the right to a jury trial. See United States v. Coppins, 953 F.2d 86 , 90 (4th Cir.1991); United States v. Bencheck, 926 F.2d 1512 , 1518 (10th Cir.1991); Rife v. Godbehere, 814 F.2d 563 , 565 (9th Cir.1987); see also United States v. Musgrave, 695 F.Supp. 231 , 233 (W.D.Va.1988); United States v. O’Connor, 660 F.Supp. 955 , 956 (N.D.Ga.1987); United States v. Coleman, 664 F.Supp. 548 , 549 (D.D.C.1985); United States v. FMC Corp., 428 F.Supp. 615 , 620 (W.D.N.Y.1977), aff'd on other grounds, 572 F.2d 902 (2d Cir.1978). These courts reason, in essence, that “defendants can view as no less serious a possible penalty of [over six months] in prison when charged with [multiple] offenses ... than if charged with one offense having a potential penalty of [greater than six months].... Nor ... should [a] court view the offenses any less seriously.” Coppins, 953 F.2d at 90 (quoting United States v. Potvin, 481 F.2d 380 , 382 (10th Cir.1973)). 
+
+We reject the reasoning of these courts. When determining a defendant’s rights under the Sixth Amendment, the mere possibility of consecutive sentences exceeding six months’ imprisonment is insufficient to trigger a defendant’s right to a jury trial. We believe that in reaching the opposite conclusion, the courts discussed above failed to focus on the appropriate objective criteria for determining the seriousness of multiple offenses tried together. The Supreme Court has made clear that courts should look to Congress’s determination as to the seriousness of a particular offense. Indeed, the Court has explicitly stated that “[t]he judiciary should not substitute its judgment as to seriousness for that of [the] legislature....” Blanton, 489 U.S. at 541, 109 S.Ct. at 1292. While those courts that have previously addressed the question have focused upon the defendant’s view as to the seriousness of facing over six months imprisonment for aggregate sentences, the appropriate inquiry is how seriously Congress views the offenses in the aggregate. 
+
+ *255 Congress has not indicated that multiple offenses for which a defendant is prosecuted jointly are necessarily any more serious in their aggregate than the most serious individual offense. Rather, 18 U.S.C. § 3584 (a) provides that, except as mandated by court order or statute, “[m]ultiple terms of imprisonment imposed at the same time run concurrently.” Thus, the presumption under § 3584(a) is that multiple offenses prosecuted jointly are no more serious in their aggregate than the most serious single offense of conviction. 
+
+Moreover, the question of Lewis’s right to a jury trial could have been obviated altogether had the government chosen to simply charge both counts of obstructing the mail in separate informations. While trying Lewis’s two offenses separately would have been contrary to judicial economy — an outcome we seek to avoid when possible — Lewis himself admits that under such a circumstance he would not have been entitled to a jury trial. Under § 3584, had Lewis been convicted in separate bench trials, the district court could have sentenced him to two terms of imprisonment to run consecutively, thus still exposing him to as much as a year of imprisonment. The mere fact that the government chose to consolidate the charges provides no greater justification for a jury trial than if the charges were tried separately. As Judge Niemeyer wrote in his dissenting opinion in Coppins, “[¿judicial efficiency imposed at no greater risk to the defendant should not change the standard for determining whether the defendant is given a jury trial.” Cop-pins, 953 F.2d at 92 (Niemeyer, /., dissenting). We agree. 
+
+In addressing the question of aggregate penalties, the Fourth Circuit has held that the Supreme Court’s pronouncement in Codispoti v. Pennsylvania, 418 U.S. 506 , 94 S.Ct. 2687 , 41 L.Ed.2d 912 (1974), is determinative of the issue: 
+ [T]here is no apparent reason why the Court’s holding in Codispoti v. Pennsylvania that consecutive sentences of imprisonment actually imposed for a series of con-tempts committed during a single trial should be aggregated for this purpose should not apply also to require aggregation of any maximum sentences authorized by statute where those are determinative of the right. 
+
+ Coppins, 953 F.2d at 90 (citation omitted). In Codispoti, however, the Supreme Court addressed the question of aggregating penalties in the context of contempt charges, which in our view does not bear directly upon the issue at hand. 
+
+“In criminal contempt prosecutions, “where no maximum penalty is authorized, the severity of the penalty actually imposed is the best indication of the seriousness of the particular offense.’” Blanton, 489 U.S. at 542 n. 6, 109 S.Ct. at 1292 n. 6 (quoting Frank, 395 U.S. at 149 , 89 S.Ct. at 1505-06 .) Accordingly, the only measure of the seriousness of a particular contemnor’s criminal acts is the entirety of the court’s sentence — the aggregate of the penalties imposed for each contemptuous act — a matter which is strictly at the court’s discretion, see, e.g., United States v. Local 1804-1, Int'l Longshoremen’s Assoc., AFL-CIO, 44 F.3d 1091 , 1095-96 (2d Cir.1995) (describing limits of court’s discretion). Because courts cannot look to Congress’s estimation of seriousness in the contempt context, the fact that the Supreme Court mandated aggregation of multiple contempt penalties to determine the sentence actually imposed has no bearing on the issue at hand. While Codispoti controls in those circumstances in which no maximum penalty is provided by law, it does not affect the analysis when Congress has provided a specific measure of the seriousness of a particular crime — then, as now, aggregation of penalties remains an inappropriate basis upon which to determine a defendant’s right to a jury trial. 
+
+Finally, the government argues that even if the court were to aggregate potential sentences, Lewis was not entitled to a jury trial because the magistrate judge assured Lewis that the trial would result in no greater sentence than six months’ imprisonment. While we need not resolve this question, in light of the discussion above it is clear that the government’s argument is unavailing. The measure for constitutionally required jury trials is the “seriousness” of any given offense or offenses, which is, in turn, mea *256 sured principally by the maximum punishment authorized by Congress; therefore, self-imposed limitations on sentencing by the court cannot deprive a defendant of his constitutionally protected right to a jury trial. But see Bencheck, 926 F.2d at 1519 (“where the trial judge announced that the sentence, in the event of conviction, would be no more than six months’ incarceration ... no jury was constitutionally required”). 
+
+CONCLUSION 
+
+Because we do not believe that Congress has indicated that petty offenses are more serious in their aggregate than is each petty offense unto itself, we affirm the judgment of the district court. 
+
+ 
