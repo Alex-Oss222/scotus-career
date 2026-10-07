@@ -1,0 +1,491 @@
+{
+  "snapshot_sha256": "cdeb459b6f64de4fc78cfffbb24c20e5a15b4a13915e22fa5ebc45433f2b00eb",
+  "slice_sha256": "180ea7339306e1b29a8e3274fd48cee5cfdeaf0c8b707264ca1fc19bb9444181",
+  "public_copies": [
+    {
+      "file": "North_Carolina_paternity_amendment_statutory_effectiveness_1995-10-01.md",
+      "sha256": "d8b69c149b29c8f810d79ece1372927f54cbb781b97addb37170ebdfe2690718",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Wood_v_Bartholomew_certiorari_1995-10-10.md",
+      "sha256": "932f6e50bee88b9e013ffea3b03db0fe79449f3df83bffaf1017e57a91dca053",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Doe_v_Taylor_ISD_merits_1995-10-16.md",
+      "sha256": "e327f751f51a5df8afead32842fad26a96837eb2af5e015fbe022778113af6c5",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Hodge_v_Jones_merits_1995-10-23.md",
+      "sha256": "9020f7205f62aaf6dc5345cf5e74a5e5840f83879d733f51e9308788d3202d4a",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Tuggle_v_Netherland_summary_merits_1995-10-30.md",
+      "sha256": "8546e2beed36556d27ba488a7ecf9404c345780a058d82d77645df9d6fc4c509",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Citizens_Bank_of_Maryland_v_Strumpf_merits_1995-10-31.md",
+      "sha256": "3fd95e2679fbbd1c06811d18193c6c04918d569eb7cce49b84ce5e19e4badd48",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Louisiana_v_Mississippi_original_exceptions_1995-10-31.md",
+      "sha256": "fe7b5e9869f78012d12f3f19d4ffb440341db9a04bc5f81d3dcdbffdd983a87d",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Libretti_v_United_States_merits_1995-11-07.md",
+      "sha256": "57989e83ceb5b43caf5a40693e6caed013ccc0d7fb39dbeb28a7881f8eab1509",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "American_Life_League_v_Reno_merits_1995-11-13.md",
+      "sha256": "bcba1b8a2deedec5dc8db1f24d18bdc8cf53beb7adae39714acfff7699c17b4e",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "A_St_P_C_v_B_C_merits_1995-11-20.md",
+      "sha256": "5c923d2b0e8b4bacce783b3458ef1740cc2a3b3d6b1536b339be91eff77e4c36",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Field_v_Mans_merits_1995-11-28.md",
+      "sha256": "94d02f4947181820443c3522d89d5671a9f4087a78b133646615ee25115ea8ee",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "NLRB_v_Town_and_Country_Electric_Inc_merits_1995-11-28.md",
+      "sha256": "79b4c900e349be100d291246c94f2e2aa4e79772ebd52a25b06190ba3890581d",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Thompson_v_Keohane_merits_1995-11-29.md",
+      "sha256": "c31edb7528bfb23de4c110de53f794110c76daabca18bac8997182687f6b56ee",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Rule_57_Federal_Rules_of_Criminal_Procedure_rule_amendment_1995-12-01.md",
+      "sha256": "6418b78ae6f09780e793753124b41f00fb6e3f43e2c659cb97ddc18e0afa10c7",
+      "complete_public_text_in_prior_snapshot": true
+    },
+    {
+      "file": "Klinger_v_Department_of_Corrections_merits_1995-12-04.md",
+      "sha256": "0677edc64f646d197301313ea714d4c4a80f49e9372109f5806b359013eebbb2",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Louisiana_v_Mississippi_original_decree_1995-12-04.md",
+      "sha256": "57bb85851f17738b3bf3e19faaef32fa826dff386a8e7ecedc54411754c0ee48",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Things_Remembered_Inc_v_Petrarca_merits_1995-12-05.md",
+      "sha256": "39d52d72e754dcb3fa805a465e5638f5d2fe5edb4c8502e3520fc0d0dd8f8e0d",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Bailey_and_Robinson_v_United_States_merits_1995-12-06.md",
+      "sha256": "9d1c8b545058b91ca6b397af2d12b47c3aac9293d5667f5b28fafbcf2274bb61",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Good_News_Good_Sports_Club_v_School_District_of_Ladue_merits_1995-12-11.md",
+      "sha256": "56013ba579818ef3feae2a537c9aa6ece0c5a954b59f92ab8a2c005bfb942e82",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Love_v_Pepersack_merits_1995-12-11.md",
+      "sha256": "39b1f73c2f7035164377ac95942a417ba9d4248a6d564cdb44c78d5e063e5837",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Southern_Christian_Leadership_Conference_of_Alabama_v_Sessions_merits_1995-12-18.md",
+      "sha256": "c027e980d66d5843ad0f0f19ba940d170732220f3d65fc374f93bc0915a76923",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "FY1996_Medicaid_appropriations_continuation_1996-01-06.md",
+      "sha256": "cd97b42b7fc1a8a16cfdbe0392ab8f9b0380d4b5e1a2cf0615bf2fbac380e199",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Lawrence_v_Chater_GVR_1996-01-08.md",
+      "sha256": "bd9132716a82d05e10e649ba0e00659efdbb365524223105608d6b11cf5fd1ad",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Locomotive_Engineers_v_Atchison_Topeka_and_Santa_Fe_Railroad_Co_merits_1996-01-08.md",
+      "sha256": "0a934c0fbc8f575a8b824b4cdbb423d197fc6c0db9055fd9d5500574b1448b1b",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Stutson_v_United_States_GVR_1996-01-08.md",
+      "sha256": "7fe0fbb64d089feee95a7e9ce6fe2fd661b2da4997b806988e9c876bd84e2b2e",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Yamaha_Motor_Corp_USA_v_Calhoun_merits_1996-01-09.md",
+      "sha256": "6bdc66bb2b049a99f25140a28dc6f81c6dc1603caccc56620052bee15f5576d8",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Allridge_v_Scott_merits_1996-01-15.md",
+      "sha256": "f8902991fa5c84add2ffb4b2a64dbbe1297938f4270981c649d9556fa4aae80d",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Lotus_v_Borland_merits_1996-01-16.md",
+      "sha256": "8f930bda9af906c3364857febd213032a9e4d1fc79ffc0092c734c6b6c655503",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Zicherman_v_Korean_Air_Lines_merits_1996-01-16.md",
+      "sha256": "34e31b1416fe9db4c9d94f4a295342acb868097c581b30747f187a472ff6a454",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Bank_One_Chicago_v_Midwest_Bank_and_Trust_Co_merits_1996-01-17.md",
+      "sha256": "52ea41367825a3a188f156300762fff78c63683262fc34fc3db0789a85bf54cb",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Commissioner_v_Lundy_merits_1996-01-17.md",
+      "sha256": "0c6921cffa6195e19166bb42e47c088b0b01f97a643668f4ca7f77553acb2f85",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Attwood_v_Singletary_filing_and_certiorari_1996-01-22.md",
+      "sha256": "f92ec5f640d5bf676a230f63aa475670d804379cd6e005a398c90938e5a2f56e",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Neal_v_United_States_merits_1996-01-22.md",
+      "sha256": "d0aa6c2a936f425d6f123981265cc22fa2660edc8a5a2462a2fdc9a475288445",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Beadle_v_City_of_Tampa_merits_1996-02-05.md",
+      "sha256": "ffeda98e0498385d9f857f07a4460d0f4f567ce20c7a9cb5bd8cf78c6526ed69",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "United_States_v_Bishop_and_Stokes_merits_1996-02-05.md",
+      "sha256": "e20fd9da78e3f1829bb0158d73c47640b6108b9067f3a00fb3c66501098329e2",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Telecommunications_Act_section_302_statutory_effectiveness_1996-02-08.md",
+      "sha256": "17d997ba0613c06a79b24478c1b7d00da813d045152675f9fae5711f849efb65",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Telecommunications_Act_section_551_statutory_admission_1996-02-08.md",
+      "sha256": "fb57fe2382e0e7a330c4dc5140f9cb76c2c2db9e56de63a194a87d679f5555b1",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Sherman_v_Community_Consolidated_School_District_21_merits_1996-02-12.md",
+      "sha256": "d45587b46d0001eb4363ebf678d784897b2a5edb092a8ff33815bab99bbe15ef",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "United_States_v_Hale_merits_1996-02-12.md",
+      "sha256": "ae68ff3cf6ebd2a8924a368972212d970ca7e766b80128732e079a788035a3df",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Behrens_v_Pelletier_merits_1996-02-21.md",
+      "sha256": "c94fd16450e1bda7c4500d4eb4808d65791ba97be4b74631b3d0a185856b789a",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Fulton_Corp_v_Faulkner_merits_1996-02-21.md",
+      "sha256": "dc921e9212c84eed8bc7a10937b517b8eb1c2a74061cfd2b367be7006981cb1d",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Peacock_v_Thomas_merits_1996-02-21.md",
+      "sha256": "de7cf1fa1fda4a2beb8fcaa975dd46c6bbf9ac27fcf57b44b9af2b620f0892e5",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Jones_v_ABC_TV_filing_order_1996-02-26.md",
+      "sha256": "c696ec4cb95766dcc14137c1dea03c69a069c4bc01729088f9657a18d9f54345",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "United_States_v_Maine_Massachusetts_Boundary_Case_supplemental_decree_1996-02-26.md",
+      "sha256": "c8cdd69ab40a4de471b32d0d70fa46f1f5b244a3f8a3c4b62fb989ae835e7db0",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Voting_Rights_Coalition_v_Wilson_merits_1996-02-26.md",
+      "sha256": "7a53bc8c4f565d8c282f0a414d5137f1e10121b145512d2be4b69372c94b3ec6",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Matsushita_Electric_Industrial_Co_v_Epstein_merits_1996-02-27.md",
+      "sha256": "1d94660fa346c1e16dae35748138021d69e32aa3a9c8607a408f7ac78868cbc1",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Norfolk_and_Western_Railway_Co_v_Hiles_merits_1996-02-27.md",
+      "sha256": "bb102e038c7c0234ee3380b06c694186ffdf5fb1a546b957e33ca2eabd298e5a",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "United_States_v_Chesapeake_and_Potomac_and_NCTA_v_Bell_Atlantic_statutory_change_disposition_1996-02-27.md",
+      "sha256": "f4f4e2855e9f9468e3ee9d3602b47b30ab8cf04c915fa36f46f5820c62449f58",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Action_for_Childrens_Television_and_Pacifica_v_FCC_merits_1996-03-04.md",
+      "sha256": "629c3e2cd5971067203c0040486480a4d668e1c5a248e4ea1c5bea30d8e60ef1",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Bennis_v_Michigan_merits_1996-03-04.md",
+      "sha256": "0b73e33334962f8d6af5f23666a992a4c504efec6b001836ebe82c395da89ef5",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Hercules_Inc_v_United_States_merits_1996-03-04.md",
+      "sha256": "e0d3cb973c815e447e74c52aa4965ab007b060504b660efda5acf4a31df8cdea",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "SSC_Corp_v_Town_of_Smithtown_merits_1996-03-11.md",
+      "sha256": "e1df8aee065e2a54c141870431f9acbb4223d7d1d731cef799ae9bc0f8031b63",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Dalton_v_Little_Rock_Family_Planning_Services_summary_review_1996-03-18.md",
+      "sha256": "7bb9a887dd15db811a0b3f5b12a587b291dd17eeb465c6738513081233a1fe0d",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Meghrig_v_KFC_Western_Inc_merits_1996-03-19.md",
+      "sha256": "82a75bf53f687564d800a27a840d505007797a8f4829de6fb63d8efbbfb9ad84",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Varity_Corp_v_Howe_merits_1996-03-19.md",
+      "sha256": "60fd3dddd79ff4a6ec6e6b9eeb65df796c6d54878cecfcba94d9d8ae50b3bfe8",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Wisconsin_v_City_of_New_York_merits_1996-03-20.md",
+      "sha256": "3e9fd8e80ffe9438c7d0fd58104f87cefd23143c194ed866d984b5df879f70f0",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Ayers_v_Fordice_certiorari_before_judgment_1996-03-25.md",
+      "sha256": "24403951c8fb237c8d0ba4da031b3ef834fc852e0362ad142ec4e1fa0eeba033",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Barnett_Bank_of_Marion_County_v_Nelson_merits_1996-03-26.md",
+      "sha256": "5f21a527be0474a9c8652240272b5495953a850dfa97eccd101a2ace5c5649ae",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Morse_v_Republican_Party_of_Virginia_merits_1996-03-27.md",
+      "sha256": "b8ca2604e07e8cab76fe9d00970bc79494a7e8ad0803ad1695710b505ce92182",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Rutledge_v_United_States_merits_1996-03-27.md",
+      "sha256": "cb998b19a10a658c4d3ee1f39f272dc4d4c3225576db8d70eebb3437de65c683",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Seminole_Tribe_of_Florida_v_Florida_merits_1996-03-27.md",
+      "sha256": "cee9a44298bfbe0c148705bea8f4b4601d388b546745500317c545a1a5c5fd70",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Lonchar_v_Thomas_merits_1996-04-01.md",
+      "sha256": "9a6652db9d102423c8e7804bd9f0fd7ff8f0181eb48e7f728b163b0580595fcc",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "OCC_national_bank_interest_rule_7_4001_regulatory_effectiveness_1996-04-01.md",
+      "sha256": "9f3ae840494578dbf9bc1134f5e0e0d53d4100aa5c8313185aa2104d6cc2e613",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "OConnor_v_Consolidated_Coin_Caterers_Corp_merits_1996-04-01.md",
+      "sha256": "51884d17ccbadc3e6d3b8023c2a326a28d247c461045465895bc31b439ddb478",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Shieh_and_companions_filing_order_1996-04-01.md",
+      "sha256": "aecc2b872c1287ff33ee02e27e4f9db50a8baf901c27a871d314b1bbb0ffbc69",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Bowersox_v_Williams_final_application_disposition_1996-04-09.md",
+      "sha256": "cd2bc4c4cde03b50cbba90dba7378363b955a9c9573e8646d7e78b34def142ba",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Bowersox_v_Williams_interim_application_order_1996-04-09.md",
+      "sha256": "bb489323d379ea39168498b2f745a4e5d948c08491b976b847eaf08e47d2d0b6",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Planned_Parenthood_Sioux_Falls_Clinic_v_Miller_merits_1996-04-15.md",
+      "sha256": "f64abbcfa5ef93b3c74b722b2b7e284a81a8b13c63e91b2ee36ff697c7dbda32",
+      "complete_public_text_in_prior_snapshot": true
+    },
+    {
+      "file": "Cooper_v_Oklahoma_merits_1996-04-16.md",
+      "sha256": "5f2cc0eb70cb1922ec66bdf6236e7360c86a430e5c4362f82b0c8b5f025d0fc3",
+      "complete_public_text_in_prior_snapshot": true
+    },
+    {
+      "file": "Holly_Farms_Corp_v_NLRB_merits_1996-04-23.md",
+      "sha256": "81b12955404b14a3bdcf4198b66a5460cb2026b12dfb933c705f748d7e09d0f7",
+      "complete_public_text_in_prior_snapshot": true
+    },
+    {
+      "file": "Markman_v_Westview_Instruments_Inc_merits_1996-04-23.md",
+      "sha256": "29bab4766dbe98bdc5180e3150ef341f3efc252bb0513e66997d670cae93f6f1",
+      "complete_public_text_in_prior_snapshot": true
+    },
+    {
+      "file": "Antiterrorism_and_Effective_Death_Penalty_Act_Title_I_statutory_enactment_1996-04-24.md",
+      "sha256": "9f88a717ada386189908caf86c801f822c4beccadff35a0bd9304771d3a49238",
+      "complete_public_text_in_prior_snapshot": true
+    },
+    {
+      "file": "Prison_Litigation_Reform_Act_sections_802_804_statutory_enactment_1996-04-26.md",
+      "sha256": "54c9b26bf5cd120ee9910d3771d569fdbe3eb5314c33ece23238c001a455c21f",
+      "complete_public_text_in_prior_snapshot": true
+    },
+    {
+      "file": "Carlisle_v_United_States_merits_1996-04-29.md",
+      "sha256": "ab1a6eb610845111893ea810a1c7bb567e383d4a316735c19bfb3984d74e3bb9",
+      "complete_public_text_in_prior_snapshot": true
+    },
+    {
+      "file": "Sheets_v_Salt_Lake_County_merits_1996-04-29.md",
+      "sha256": "8598628d0fe80252f2c2e7b2071007543b278e354d048809fa7b7c98d2f13058",
+      "complete_public_text_in_prior_snapshot": true
+    },
+    {
+      "file": "Utah_HB206_admitted_source_1996-04-29.md",
+      "sha256": "258091cb40ff4ee7755322a7a2ba43850d4a381d47c53728230f6c3a5930fad3",
+      "complete_public_text_in_prior_snapshot": true
+    },
+    {
+      "file": "44_Liquormart_Inc_v_Rhode_Island_merits_1996-05-13.md",
+      "sha256": "9aa01aa636099e8974f072c59846b07ebcbdd5fbbbef9cea060c7483a43587b3",
+      "complete_public_text_in_prior_snapshot": true
+    },
+    {
+      "file": "United_Food_and_Commercial_Workers_Union_Local_751_v_Brown_Group_Inc_merits_1996-05-13.md",
+      "sha256": "72a0d347aa5f6f1957dbbe2d3f28419351831263b63cdc6afe5893aeebd4f422",
+      "complete_public_text_in_prior_snapshot": true
+    },
+    {
+      "file": "United_States_v_Armstrong_merits_1996-05-13.md",
+      "sha256": "43926ba1c10abe4cc7ab66e8a634aba73d7600fb4f773d0b0372fe9bef701df3",
+      "complete_public_text_in_prior_snapshot": true
+    },
+    {
+      "file": "United_States_v_Noland_merits_1996-05-13.md",
+      "sha256": "80a640b651b15b1c7a279b79d282593da8df6d48de240de0adeded78ba351856",
+      "complete_public_text_in_prior_snapshot": true
+    },
+    {
+      "file": "BMW_of_North_America_Inc_v_Gore_merits_1996-05-20.md",
+      "sha256": "6d3f0666a7a08e6c6b1e027d37c1ff7c742910dac39aa1b0a9aeac17de440e73",
+      "complete_public_text_in_prior_snapshot": true
+    },
+    {
+      "file": "Doctors_Associates_Inc_v_Casarotto_merits_1996-05-20.md",
+      "sha256": "406f1f7b3d7ab85d0d379d614093633f2aa2852ee3b6762236790a6b6f4198a9",
+      "complete_public_text_in_prior_snapshot": true
+    },
+    {
+      "file": "Henderson_v_United_States_merits_1996-05-20.md",
+      "sha256": "378c8dea04369adffcb2ecc7ae8bdef23060aee0b99eb8574e36630db154d362",
+      "complete_public_text_in_prior_snapshot": true
+    },
+    {
+      "file": "Romer_v_Evans_merits_1996-05-20.md",
+      "sha256": "28e7a61481b71e25f6e1c630090bafe2974ca0e963745a3562dbe38e094384eb",
+      "complete_public_text_in_prior_snapshot": true
+    },
+    {
+      "file": "Pinder_v_Johnson_merits_1996-05-21.md",
+      "sha256": "b1b7b74c84fa1337448fde0898952d641eb93af105778473b0fc4347c7170cfe",
+      "complete_public_text_in_prior_snapshot": true
+    },
+    {
+      "file": "Ornelas_v_United_States_merits_1996-05-28.md",
+      "sha256": "60d9404361e9cdb834b67de1bd4366fd7c9ec4561691aa6cbd1e12473ff0c6d0",
+      "complete_public_text_in_prior_snapshot": true
+    },
+    {
+      "file": "Auciello_Iron_Works_Inc_v_NLRB_merits_1996-06-03.md",
+      "sha256": "fe100525d5aef9f7380d7488690b17d3b7d2f827cf3c54f506ed253067b1a288",
+      "complete_public_text_in_prior_snapshot": true
+    },
+    {
+      "file": "Loving_v_United_States_merits_1996-06-03.md",
+      "sha256": "af6bf1140b3d97e84d39d234ad4b122fef23db863bdcb0d03354777f5d5f8540",
+      "complete_public_text_in_prior_snapshot": true
+    },
+    {
+      "file": "Quackenbush_v_Allstate_Insurance_Co_merits_1996-06-03.md",
+      "sha256": "41fa22efa061aa281334b3ae37d272af13986b2210c298da3e343745e26f6a0c",
+      "complete_public_text_in_prior_snapshot": true
+    },
+    {
+      "file": "Smiley_v_Citibank_South_Dakota_NA_merits_1996-06-03.md",
+      "sha256": "571b043c07699a3b3b5e2eaf46b9032df59cf8f2a59a2b149fb459493808b793",
+      "complete_public_text_in_prior_snapshot": true
+    },
+    {
+      "file": "Degen_v_United_States_merits_1996-06-10.md",
+      "sha256": "ed226b66dd3ca316cb96fb1120269d4d1863fe51e6b3a44c8f35a20dbadd15c4",
+      "complete_public_text_in_prior_snapshot": true
+    },
+    {
+      "file": "Exxon_Co_USA_v_Sofec_Inc_merits_1996-06-10.md",
+      "sha256": "946aedf6885034d410958d06cb411a7c8ce1fbfbe5d94a9076ffc8d0b327fdf4",
+      "complete_public_text_in_prior_snapshot": true
+    },
+    {
+      "file": "Lockheed_Corp_v_Spink_merits_1996-06-10.md",
+      "sha256": "b40163b70acdddc78ddce2d15080c8cec4bed6ff6324cc5a8871c371fffbc088",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Richards_v_Jefferson_County_merits_1996-06-10.md",
+      "sha256": "3e1c6859a790dc488dca9231a668fb1c531bc100bc1a9622480361b71937b3f7",
+      "complete_public_text_in_prior_snapshot": true
+    },
+    {
+      "file": "United_States_v_IBM_merits_1996-06-10.md",
+      "sha256": "5378122754390e07718476a8824a8671c18e91fe362571d622b750240452add8",
+      "complete_public_text_in_prior_snapshot": false
+    },
+    {
+      "file": "Whren_v_United_States_merits_1996-06-10.md",
+      "sha256": "f0fd2220903ed2edf4cb685226b830b2660a32d64dd9c289ecabc655db8568f9",
+      "complete_public_text_in_prior_snapshot": true
+    },
+    {
+      "file": "United_States_v_Myers_merits_1996-06-11.md",
+      "sha256": "05077d837bc93c49cc9b18d47964d5926e13d9dc736a90f0885291c6753a38f8",
+      "complete_public_text_in_prior_snapshot": true
+    }
+  ]
+}

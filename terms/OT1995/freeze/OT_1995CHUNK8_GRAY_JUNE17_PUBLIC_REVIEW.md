@@ -1,8 +1,10 @@
 # Gray — completed June 17 public-law review
 
+> Historical handoff: its substantive statements describe the original Run. The authorized October 7 revision repairs renamed navigation only; linked canonical Records and public copies now show the replacement decisions. The current stage routing and the navigation preimage hashes are in [the revision handoff index](OT_1995CHUNK8_REVISION_HANDOFFS.md) and [navigation receipt](OT_1995CHUNK8_REVISION_NAVIGATION.json).
+
 **Status:** Reconciliation preparation only; no Gray commitment or current vote comparison read or performed. Supplements, without replacing, [GRAY_RECONCILIATION_SOURCE_REVIEW](OT_1995CHUNK8_GRAY_RECONCILIATION_SOURCE_REVIEW.md). No current Stone supplement, raw Record, Git command or locked-directory access.
 
-Read the complete actual public decisions: [Melendez](../entering-law/PUBLIC_Melendez_v_United_States_merits_1996-06-17.md), [Leavitt](../entering-law/PUBLIC_Leavitt_v_Jane_L_certiorari_1996-06-17.md), and [Calderon](../entering-law/PUBLIC_Calderon_v_Moore_summary_review_1996-06-17.md), including all separate writings, procedural directions and source limits.
+Read the complete actual public decisions: [Melendez](../entering-law/PUBLIC_Melendez_v_United_States_merits_1996-06-17.md), [Leavitt](../entering-law/PUBLIC_Leavitt_v_Jane_L_summary_merits_1996-06-17.md), and [Calderon](../entering-law/PUBLIC_Calderon_v_Moore_summary_review_1996-06-17.md), including all separate writings, procedural directions and source limits.
 
 A deterministic line comparison of the immutable [PRE_JUNE17](../entering-law/OT_1995CHUNK8_PRE_JUNE17_NEUTRAL_PROJECTION.md) and [PRE_JUNE20](../entering-law/OT_1995CHUNK8_PRE_JUNE20_NEUTRAL_PROJECTION.md) snapshots showed only line 5 changed within the prior 5,745 lines, followed by appended material through new line 5,970. Read the changed scope paragraph. Each of the three appended substantive entries exactly matches its complete public copy after trimming only surrounding whitespace. No complete fresh reread of unchanged unrelated law is claimed, and the text comparison makes no legal decision.
 

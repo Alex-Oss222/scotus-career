@@ -1,8 +1,10 @@
 # Leavitt — independent assembly QA
 
+> Historical handoff: its substantive statements describe the original Run. The authorized October 7 revision repairs renamed navigation only; linked canonical Records and public copies now show the replacement decisions. The current stage routing and the navigation preimage hashes are in [the revision handoff index](OT_1995CHUNK8_REVISION_HANDOFFS.md) and [navigation receipt](OT_1995CHUNK8_REVISION_NAVIGATION.json).
+
 **Scope:** Review of the completed June 17 petition/briefing Record and its Public Projection against the complete released reconciliation and exact current Stone supplement. This is assembly QA, not a new neutral model, reconciliation, adjudication or public Render. No Git command or locked-directory access occurred.
 
-**Reviewed files:** [Record](../records/Leavitt_v_Jane_L_certiorari_1996-06-17.md), [reconciliation](OT_1995CHUNK8_LEAVITT_RECONCILED.md), the Leavitt-only portion of [current Stone](../runtime/OT_1995CHUNK8_STONE.md), and the exact [public copy](../entering-law/PUBLIC_Leavitt_v_Jane_L_certiorari_1996-06-17.md). Primary-source completeness claims remain attributed to the frozen source and reconciliation receipts; this review does not claim a fresh reading of every original filing.
+**Reviewed files:** [Record](../records/Leavitt_v_Jane_L_summary_merits_1996-06-17.md), [reconciliation](OT_1995CHUNK8_LEAVITT_RECONCILED.md), the Leavitt-only portion of [current Stone](../runtime/OT_1995CHUNK8_STONE.md), and the exact [public copy](../entering-law/PUBLIC_Leavitt_v_Jane_L_summary_merits_1996-06-17.md). Primary-source completeness claims remain attributed to the frozen source and reconciliation receipts; this review does not claim a fresh reading of every original filing.
 
 ## Substantive result
 

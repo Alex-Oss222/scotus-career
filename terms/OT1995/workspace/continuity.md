@@ -4,7 +4,7 @@
 
 ## 1. Scope and Chronology Cursor
 
-**Posture:** 96 completed Court events and nine admitted noncase-law sources (105 canonical Records). Current Court-event cutoff: 1996-06-20. Chunk 8 has eleven completed Court events and one stopped matter. Its June 10 peers used the complete June 3 baseline; later groups used all earlier effective public law. The preserved pre-June20 baseline also governs the unprocessed June20 chunk 9 peers, which may not use Gray merely because its file was completed first. Jones’s financial-leave motion and petition, Wood’s plenary grant, Maine No. 35 and Louisiana No. 121 implementation, the five inherited open matters, and Shieh’s three separate certiorari petitions remain open. Bowersox A-828 is closed by its April 9 final order; its underlying appeal and other lawful restraints are not adjudicated. Ayers’s Supreme Court review ended by dismissal, leaving the lower proceedings and decree undisturbed. No transmission, service, expired protection, execution or other unentered external event is presumed. The latest effective admitted source is Utah H.B. 206, April 29; it creates no automatic injunction or enforcement change. Egelhoff remains pending; no new Court disposition or law has been entered in that matter. The three Vera direct appeals remain pending after the June13 standing-only decision; existing lower relief is unchanged. Leavitt remains pending for merits review and supplemental briefing under the June17 grant; existing lower relief is undisturbed. Next pending work: operator verification and commit, separate chunk 8 Render, and future chunk 9 work using the preserved common pre-June20 baseline for its June20 peers. Records control over these projections.
+**Posture:** 97 completed Court events and nine admitted noncase-law sources (106 canonical Records). Current Court-event cutoff: 1996-06-20. Chunk 8 has twelve completed Court events and no stopped matter. Its June 10 peers used the complete June 3 baseline; later groups used all earlier effective public law. The [revised common pre-June20 baseline](../entering-law/OT_1995CHUNK8_REVISION_PRE_JUNE20_NEUTRAL_PROJECTION.md), including the completed June 13 and June 17 law, governs the unprocessed June20 chunk 9 peers; they may not use Gray merely because its file was completed first. Jones’s financial-leave motion and petition, Wood’s plenary grant, Maine No. 35 and Louisiana No. 121 implementation, the five inherited open matters, and Shieh’s three separate certiorari petitions remain open. Bowersox A-828 is closed by its April 9 final order; its underlying appeal and other lawful restraints are not adjudicated. Ayers’s Supreme Court review ended by dismissal, leaving the lower proceedings and decree undisturbed. No transmission, service, expired protection, execution or other unentered external event is presumed. The latest effective admitted source is Utah H.B. 206, April 29; it creates no automatic injunction or enforcement change. The June 13 Vera event now resolves standing and the merits of all three direct appeals; the June 13 Egelhoff event and June 17 Leavitt summary merits event are completed. Their precise rules, coalitions, writings, remedies and remaining lower-court proceedings appear in the canonical-record-derived chunk 8 entries below. No chunk 8 matter remains stopped. The June 13 and June 17 peers retain their common pre-group baselines; later entering-law notes reflect the effective decisions within their actual scope. Next pending work: operator verification and commit, separate chunk 8 Render, and future chunk 9 work using the preserved common pre-June20 baseline for its June20 peers. Records control over these projections.
 
 OCC §7.4001(a)–(d) is additionally admitted at its April 1, 1996 effective date after the bounded insertion review found no material effect on the 17 completed April 1–May 20 Court events. This eighth source changes no completed Court Record or pending stage. February 9 publication is distinct from April 1 effectiveness; source admission itself adjudicated no special retroactivity or earlier-case application. Smiley subsequently supplies its own qualified judicial use of the interpretation for antecedent transactions without backdating the rule. The Richards/Whren/Degen/Exxon group was completed in chunk 7 on June 10; the earlier Romer/BMW/Henderson/Casarotto May 20 group retains its common May 13 entering law without a same-day peer dependency. [Insertion review](../freeze/OT_1995CHUNK7_OCC_INSERTION_REVIEW.md).
 
@@ -4528,7 +4528,7 @@ The following continuing source and scope limits remain; a resolved review is id
 - **Myers, chunk 8, sequence 87 — identification reconciled before the first event.** The inventory, Section I and Standing State now identify United States v. Myers, 46 F.3d 668 (7th Cir. 1995), Seventh Circuit No. 94-1912, opinion February 1, 1995: the warrantless targeted thermal examination of Myers's home and the judgment rejecting his preserved suppression claim. The earlier No. 94-2222 docket and knock-and-announce label were erroneous and are corrected; no other case is substituted. The merits assignment is established; preserve that source identity in the Record.
 - **A. St. P. C., chunk 1, sequence 9 — identification reconciled before the first event.** Standing State now identifies No. 94-7810 and the judgment under review, State in the Interest of A.C., 643 So. 2d 743 (La. 1994), Louisiana No. 93-CA-1125, rehearing October 17, 1994, matching the inventory and Section I. The merits assignment is established; preserve that source identity in the Record.
 - **Voting Rights Coalition — completed permanent-injunction review.** The February 26 judgment affirms the injunction, implementation remand and retained Ninth Circuit jurisdiction. No new deadline, plan, severance or state-election redesign is ordered. The separate congressional and presidential grounds and statutory limits control; reserved implementation claims remain open below. [Public decision](../records/Voting_Rights_Coalition_v_Wilson_merits_1996-02-26.md).
-- **Bush v. Vera / Lawson / United States, chunk 8, sequence 88 — reconstructed lower-court judgment supplied before the event.** Section I and Standing State now state the three-judge court's reconstructed judgment, a simulation premise, not a recovered historical judgment: all six plaintiffs and their districts; standing held for the five plaintiffs residing in Districts 18, 29 and 30 on their race-based assignment, none alleging dilution, exclusion, unequal participation or other injury beyond that assignment; the nonresidence objection not decided because each invalidated district has a resident plaintiff; Chen (District 25) retained as a party but supplying no independent injury supporting relief concerning Districts 18, 29 and 30; the declaration against those districts, the order to develop a new plan by March 15, 1995, and the September 20, 1994 injunction against conducting the 1996 congressional elections under the Plan C657 districts; no independent claim or other alleged injury supporting that relief; and direct appeals under 28 U.S.C. §1253 by the State defendants, the private defendant-intervenors (Lawson et al.) and the United States. Whether the assignment itself supplies Article III injury is the question for decision; the merits ruling's correctness is outside it. No stay pending appeal, remedial plan or 1996 election administration is supplied; the decree must not infer one. Preserve all three dockets and all supplied parties; do not substitute a Chen-only case or decide the historical racial-predominance merits question. The actual opening Miller law retains its force.
+- **Bush v. Vera / Lawson / United States, chunk 8, sequence 88 — reconstructed lower-court judgment supplied before the event.** Section I and Standing State now state the three-judge court's reconstructed judgment, a simulation premise, not a recovered historical judgment: all six plaintiffs and their districts; standing held for the five plaintiffs residing in Districts 18, 29 and 30 on their race-based assignment, none alleging dilution, exclusion, unequal participation or other injury beyond that assignment; the nonresidence objection not decided because each invalidated district has a resident plaintiff; Chen (District 25) retained as a party but supplying no independent injury supporting relief concerning Districts 18, 29 and 30; the declaration against those districts, the order to develop a new plan by March 15, 1995, and the September 20, 1994 injunction against conducting the 1996 congressional elections under the Plan C657 districts; no independent claim or other alleged injury supporting that relief; and direct appeals under 28 U.S.C. §1253 by the State defendants, the private defendant-intervenors (Lawson et al.) and the United States. The opening intake presented the assignment-based standing question. The completed June 13 event also resolves the merits of all three direct appeals; its canonical Record supplies the controlling scope and relief. No stay pending appeal, remedial plan or 1996 election administration is supplied; the decree must not infer one. Preserve all three dockets and all supplied parties; do not substitute a Chen-only case. The completed June 13 Record governs the merits and resulting relief. The actual opening Miller law retains its force.
 - **Ayers — completed limited review; source limits preserved.** The March 25 decision dismisses only the library writ as improvidently granted and resolves no merits question. The pending appeal may examine the library denial; all other decree provisions and challenges remain outside this review. The February 16 and March 1 amendments are not construed. Their full texts, the unstated terms of the admissions alternative and reporting scope, the older four guide questions, and materials needed for any broader amendment or decree challenge remain unestablished by this disposition. These source limits do not leave the completed Supreme Court review open or imply waiver, default, a revived deadline or a new Supreme Court docket. [Public decision](../records/Ayers_v_Fordice_certiorari_before_judgment_1996-03-25.md).
 - **Boundary schedules.** Louisiana No. 121’s December 4 decree supplies the authenticated description and fixed/live-reach qualification. Maine’s February 26 decree now supplies all five approximate closing-line pairs and the three Nantucket Sound indentation exceptions in its [operative schedule](../records/United_States_v_Maine_Massachusetts_Boundary_Case_supplemental_decree_1996-02-26.md#judgment--remedy); the original action remains open under retained implementation jurisdiction. The inherited United States v. Louisiana No. 9 remains separately open on its existing terms.
 - **Jones and Shieh — distinct financial and petition stages.** Jones’s February 26 order leaves financial leave and certiorari pending. A terminal financial ruling requires authenticated financial papers or another supported applicable basis; incomplete proof is not ineligibility and creates no refiling duty or date. Shieh’s three separate declarations now support the completed April 1 individual financial grants. The three proposed Rule 39.8 denials and the proposed future condition were declined; the three certiorari petitions remain pending independently. Missing service materials and the middle page of the appellate restriction limit findings about the underlying procedural claims, not the completed financial determinations. Current-paper defects, financial eligibility, prospective controls and certiorari remain distinct; no additional warning, denial, deadline or underlying relief is established.
@@ -4675,6 +4675,8 @@ Utah H.B. 206, effective April 29, 1996, enacts the specified postviability proc
 
 [Bounded insertion review](../freeze/OT_1995CHUNK8_UTAH_INSERTION_REVIEW.md) found no material effect on the twenty completed Court events from April 29 through June 10. No earlier Record or frozen handoff is changed.
 
+Current named assignment counts are in the [revised assignment reference](../freeze/OT_1995CHUNK8_REVISION_ASSIGNMENT_REFERENCE.md); earlier Record sequence statements remain historical.
+
 <!-- chunk8-projection: United_States_v_IBM_merits_1996-06-10.md -->
 
 ## Chunk 8 completed event — United States v. International Business Machines Corp.
@@ -4722,6 +4724,7 @@ The Export Clause continues to protect the export-insurance application governed
 **Kennedy, joined by Ginsburg, dissenting.** The dissent would reach the narrower argument that the tax falls on a purchased indemnity service rather than the exported articles. Itel and Jefferson Lines illustrate the need to identify the actual taxable transaction. The stipulated premium reflects shipment risks as well as cargo value; that relationship does not make the service identical to the goods. The dissent would expressly overrule Thames & Mersey to the extent its commercial-integration rationale treats this genuine insurance-premium tax as a tax on exports.
 
 The dissent regards the narrower issue as fairly included in the question presented and sufficiently supported by the stipulated record despite the Government's emphasis on nondiscrimination. It would reverse and remand without validating all export-associated taxes, creating a nondiscrimination safe harbor for an actual goods tax, or determining a new assessment amount. Its service classification does not command a majority.
+
 
 <!-- chunk8-projection: Lockheed_Corp_v_Spink_merits_1996-06-10.md -->
 
@@ -4790,6 +4793,7 @@ Sponsor amendment alone is not fiduciary conduct. Genuine release-conditioned be
 
 **Breyer, joined by Souter, concurring in part and dissenting in part.** They agree with the sponsor-capacity and OBRA rulings and with reversal and remand, but would not decide the implementation-based prohibited-transaction question. Whether the release-conditioned distribution falls within section 406 is a difficult technical issue that would benefit from further lower-court consideration and informed submissions. Assuming a fiduciary function and preserving independent statutory duties does not eliminate their objection to deciding that classification now. They would return it without holding either that the payment is prohibited or that every benefit payment is immune.
 
+
 <!-- chunk8-projection: United_States_v_Myers_merits_1996-06-11.md -->
 
 ## Chunk 8 completed event — United States v. Myers; review of Seventh Circuit No. 94-1912, 46 F.3d 668. No separate Supreme Court docket is supplied.
@@ -4853,6 +4857,112 @@ Pinson continues to govern targeted thermal examinations that reveal otherwise u
 
 The dissent does not adopt a general rule that heat is abandoned property, treat the scanner as confined to contraband, or sustain admission on an unproved reliance or warrant-sufficiency ground. If the Court retains Pinson, the distinction between violation and remedy and the actual preservation limits still apply. That conditional agreement supplies no vote for the Court's vacatur or for its search holding.
 
+
+<!-- chunk8-projection: Vera_and_consolidated_merits_1996-06-13.md -->
+
+## Chunk 8 completed event — Bush v. Vera; Lawson v. Vera; United States v. Vera, Nos. 94-805, 94-806 and 94-988.
+
+Standing recognized for the five residents and Chen's independent basis rejected, 9–0. The judgment invalidating Districts 18, 29 and 30 and its dependent relief are reversed in all three appeals, 5–4; remand to enter judgment for defendants on the sole design-only claims and dissolve the dependent injunction and compulsory-redraw relief.
+
+All three appeals return for entry of judgment for defendants on the sole adjudicated design-only claims, dissolution of the September 20 injunction, and termination of the declaration, compulsory-redraw direction and remedial proceedings based solely on that theory. The March 15, 1995 date is not restarted or treated as proof of compliance or contempt. Ordinary mandate procedures apply; no immediate-issuance order is made.
+
+The direction to apply for fees does not establish entitlement from the reversed merits judgment. No fee award, amount or distinct collateral issue is decided; any properly presented collateral request follows its own requirements. Dismissed claims remain dismissed, the unappealed district rulings remain untouched, and no new-injury inquiry is authorized. The Court orders no replacement map, election cancellation, special election, new timetable or continuing constitutional supervision, and infers no stay or later remedial event. Federal preclearance is unaffected by this decree.
+
+[Canonical Record](../records/Vera_and_consolidated_merits_1996-06-13.md); [complete public law and writings](../entering-law/PUBLIC_Vera_and_consolidated_merits_1996-06-13.md).
+
+### Holdings
+
+**Threshold authority:** Thomas's opinion, joined by the seven other Associate Justices identified above, controls Holdings I–III by eight direct joins. Stone-Zsela supplies the ninth threshold judgment vote without joining that reasoning.
+
+### I. The five residents' own assignment claims satisfy standing
+
+**Operative rule:** Under Miller, voters personally subjected to the challenged electoral assignment may litigate their asserted unequal treatment when their own exposure, causation and likely redress are established, even if their substantive theory fails. Residence alone or disagreement with racial districting is insufficient, but these five plaintiffs' own assignments supply that personal relationship without an additional financial loss, electoral defeat or denial of service.
+
+**Controlling explanation:** Miller separates personal-assignment standing from success on the design-only claim. Blum and Powers challenge their assignment to District 18, Thomas and Vera theirs to District 29, and Orcutt his to District 30. The plan directly causes that treatment, and relief against its use would redress the claimed wrong if their theory were valid. Northeastern Florida likewise separates exposure to challenged unequal treatment from proof of winning an ultimate benefit; Warth keeps standing distinct from merits success.
+
+Lujan's litigation-stage factual-support requirement remains. The established lower adjudication supplies the residents' actual relationship here; unsupported allegations do not invariably suffice after trial. Neither a new residence dispute nor a need for an expert report, alternative map or changed-election proof is established. Configuration testimony, misdirected-ballot accounts and Blum's campaign are not rewritten as independent injuries.
+
+The Court declines to replace Miller's threshold rule. The absence of an additional downstream injury cannot distinguish a holding that recognized this same personal-assignment relationship. That threshold conclusion does not establish a constitutional violation or entitlement to an injunction.
+
+### II. Chen cannot borrow another resident's stake
+
+**Operative rule:** Without a personal connection to the challenged assignments, a plaintiff cannot obtain standing for their relief from another plaintiff's exposure or a generalized concern about the plan. Chen supplies no independent basis for relief concerning Districts 18, 29 and 30, but his deficiency does not defeat their personally affected residents' claims.
+
+**Controlling explanation:** Lujan requires a personal stake rather than an undifferentiated interest in lawful government. Chen lives in District 25 and alleges neither assignment to the three districts nor another personal connection to their challenged classifications. Each district nevertheless has at least one personally affected plaintiff. No broader nonresident or cross-district theory needs decision. The defendants' appeals do not reopen Chen's unsuccessful District 25 claim or the other rejected district challenges.
+
+### III. The three merits injunction appeals are directly reviewable
+
+**Operative rule:** The required three-judge court's merits grant of injunctive relief in this substantial constitutional apportionment controversy supports direct review under §§2284 and 1253. Standing having been sustained, the Court reaches the presented constitutional merits and corresponding decree in all three appeals.
+
+**Controlling explanation:** Miller distinguishes a merits grant or denial of an injunction from a nonmerits dismissal requiring its own review-channel analysis. These appeals concern the former. A serious constitutional controversy does not become jurisdictionally frivolous merely because governing precedent supplies a strong merits answer. The declaration and injunction are therefore reviewed through the established direct channel, without inventing a new appeal, additional party or collateral preclearance action.
+
+**Merits authority:** Souter's opinion, joined by Stone-Zsela, Stevens, Ginsburg and Breyer, controls Holdings IV–V with five direct joins. No dissenting rationale or Marks combination supplies their authority.
+
+### IV. Racial predominance alone does not establish the asserted unequal treatment
+
+**Operative rule:** Race-conscious design of a shared territorial constituency, including predominant racial consideration that subordinates ordinary districting criteria, does not by itself establish this equal-protection deprivation or trigger strict scrutiny. Even assuming the challenged predominance and subordination in Districts 18, 29 and 30, the sole presented design-only theory therefore cannot sustain their invalidation.
+
+**Controlling explanation:** Shaw supplies the substantive distinction between territorial design and an independently cognizable deprivation. Miller applied it even when race predominated and ordinary criteria were subordinated; moving from assumed purpose to findings does not distinguish its legal rule. SCLC applies the same boundary while preserving real statutory opportunity claims and lawful remedies.
+
+The contrary argument identifies the assignment itself as the unconstitutional classification. Miller rejected that inference for a shared electorate: composition alone imposes no racial eligibility condition, political belief, inferior civic membership or legal duty for a representative to serve only one race. Croson and Adarand concern operative allocation of opportunities; their standards are not replaced by treating every consideration of race in district design as that same act.
+
+Actual exclusion, intentional dilution, materially unequal participation, inferior civic status or another recognized deprivation can be complete in government's own conduct. Gomillion, Anderson, White and McLaurin preserve those protections without requiring a changed election winner, monetary loss or second governmental act. None is pleaded or found as an independent basis for this decree. The Court neither imposes a universal downstream-loss requirement nor treats formal access as a complete equality guarantee.
+
+The trial findings and competing political explanations therefore need no conclusive appellate resolution to decide these claims. Shape remains evidence, not an automatic wrong. The Court does not determine whether these districts satisfy strict scrutiny on a hypothesis it rejects. Nor does it require a federal command for otherwise lawful voluntary consideration of racial conditions: Miller and Voinovich preserve that distinction. Sections 2 and 5 retain their separate proof, justification and enforcement requirements; no extra constitutional-injury element is added to a statutory claim.
+
+### V. Relief dependent solely on the rejected claim must end
+
+**Operative rule:** Because the sole adjudicated basis for the three-district decree fails on the merits, each appeal requires reversal and remand to enter judgment for defendants on those claims and terminate their dependent declaration, injunction and compulsory-redraw relief. The mandate does not revive dismissed counts, disturb the 21 unappealed district rulings or authorize a new inquiry to manufacture a different injury.
+
+**Controlling explanation:** Shaw and Miller distinguish a failing substantive theory from jurisdictional dismissal. The five residents have standing, but their claim supplies no legal basis for the challenged decree. Leaving that decree in force would preserve relief for the very violation the Court holds unestablished. Reversal therefore reaches the September 20 injunction and the compelled plan/remedial proceedings founded solely on it.
+
+No independent pleaded claim sustains those remedies: the statutory, state-constitutional and Fifteenth Amendment counts were dismissed, and the complaint's Fifth Amendment reference supplied no separate relief. The general confusion and campaign evidence is not a newly adjudicated personal injury. The appropriate return is implementation of judgment for defendants, not continued merits retention or a new liability trial.
+
+The fee-application direction is not an award. It cannot supply entitlement derived from the reversed merits judgment, but the Court decides no amount or distinct collateral fee issue. Any properly presented collateral request retains its own requirements. No map is approved or prescribed, and no federal preclearance decision, unappealed district judgment or hypothetical future claim is adjudicated by this mandate.
+
+### Precedent Treatment
+
+- **Miller and consolidated cases, June 29, 1995:** Its personal-exposure, direct-review and territorial-design holdings are retained and applied. The strongest predominance premise still does not itself establish this deprivation. Permission versus compulsion, shape-as-evidence and ordinary factual review retain their separate scope.
+- **Shaw v. Reno, June 28, 1993:** Its design-only substantive boundary controls the merits; it is not transformed into a jurisdictional bar or heightened pleading rule.
+- **Southern Christian Leadership Conference of Alabama v. Sessions:** Its application of the territorial-design distinction is followed without altering §2 results proof or its practical remedial inquiry.
+- **Lujan v. Defenders of Wildlife:** Personal injury, causation, likely redress and stage-appropriate factual support remain required; no universal downstream-loss or new-document requirement is imposed.
+- **Northeastern Florida Chapter, AGC v. Jacksonville:** Applied to distinguish personal unequal-treatment exposure from winning an ultimate benefit; it does not decide that territorial racial awareness is itself unconstitutional.
+- **Warth v. Seldin:** Applied to keep standing distinct from ultimate substantive success.
+- **Gomillion v. Lightfoot:** Preserved for boundaries that accomplish racial exclusion; the Court does not require a separate later act when the boundary itself effects the wrong.
+- **Anderson v. Martin:** Preserved against official racial electoral treatment without proof that it changed the winner.
+- **White v. Regester; McLaurin v. Oklahoma State Regents:** Preserved for meaningful equality and participation beyond formal access; no comparable operative restriction is adjudicated here.
+- **Richmond v. J.A. Croson Co.; Adarand Constructors v. Peña:** Their opportunity-allocation rules remain intact; the Court does not replace them with a general rule about all race-aware conduct.
+- **Voinovich v. Quilter:** Its distinction between lawful voluntary choice and federal compulsion remains; an exact federal map command is unnecessary for otherwise lawful consideration of racial conditions.
+- **Thornburg v. Gingles; Growe v. Emison; Holder v. Hall; Johnson v. De Grandy:** Their claim-specific statutory coverage, proof, comparison and totality rules remain. No maximization duty, proportional-results entitlement or conclusive proportionality safe harbor is adopted.
+- **Beer v. United States; City of Pleasant Grove v. United States; Morris v. Gressette; Morse v. Republican Party of Virginia:** Nonretrogression, discriminatory purpose, designated preclearance procedures and limits on review remain distinct; this judgment sets aside no federal preclearance action.
+
+### Law After Decision
+
+Personal exposure to the challenged assignment permits these residents to litigate, but the sole asserted territorial-design theory fails under Shaw and Miller even on the strongest predominance premise. Independent constitutional and statutory wrongs retain their own elements and remedies; they require neither an invariably separate later loss nor a new constitutional-injury prerequisite for §2. No precedent is overruled. The three-district declaration and dependent relief lose their legal basis, without a certificate that every application of Plan C657 is lawful.
+
+### Separate Writings
+
+**Stone-Zsela, concurring in the standing judgment and joining the merits opinion.** Stone would overrule Miller's threshold holding only insofar as personal assignment to a race-conscious shared constituency alone supplies injury. Exposure identifies the affected person but does not necessarily establish concrete unequal treatment. A common constituency does not by design alone assign different political identities or make its representative responsible to one race. Predicted neglect or inferior status requires a supporting governmental operation.
+
+Concrete exclusion, dilution, unequal participation, impaired competitive opportunity, inferior civic status or another supported personal injury may itself suffice; these examples are not exhaustive and require no additional financial loss, electoral defeat or second governmental act. Northeastern Florida preserves unequal opportunity as injury, while Warth distinguishes standing from success. Allen's rejection of abstract stigma does not settle personal assignment, and Bell's narrow insubstantial-federal-question doctrine supplies no substitute answer. Ordinary pleading and proof remain, with no new injury prerequisite for statutory Voting Rights Act claims and no race-dependent distinction.
+
+Stone acknowledges that the same assignment allegations supported Miller, so his proposal changes that rule. He claims no intervening law, new fact or demonstrated unworkability. Losing access to a judicial forum is a real reliance cost; he considers the asserted Article III error sufficient despite that cost, while fewer suits or a preferred policy outcome would not be enough. His proposed jurisdictional disposition would vacate the dependent decree and dismiss the design-only claims without prejudice, reaching the whole action only if no independently supported claim remained. That proposal does not prevail. Under unrevised Miller he recognizes the residents' standing and Chen's separate deficiency; he then fully joins the Court's merits reversal under Shaw and Miller. Today's operative disposition is on the merits, not his proposed jurisdictional dismissal.
+
+**Kennedy, joined by O'Connor, Scalia and Thomas, dissenting from the merits disposition.** These Justices join the standing opinion but would affirm the three-district invalidation. They expressly propose replacing Shaw and Miller's contrary boundary: official assignment predominantly by race, with ordinary criteria subordinated, should trigger a compelling-interest and fitted-justification inquiry. This is a sufficient trigger, not a common rejection of every broader trigger. Mere awareness, a percentage or an unusual shape does not establish automatic invalidity. They acknowledge the recent contrary decisions and governmental reliance but maintain their previously stated individual-classification objection; the 1991 enactment itself preceded Shaw, while later reliance remains a real consideration.
+
+They accept the supported district-specific purpose findings under ordinary clear-error review. District 30's population objective and neighborhood choices, District 18's block-level changes to preserve opportunity, and District 29's target and interwoven boundaries show predominance despite genuine political and community explanations. They distinguish compact minority populations from district geometry; legitimate nonracial noncompactness is not independently unlawful. They would not infer that political and racial motives are always identical, and Kennedy leaves open whether foreordaining a racial majority itself establishes the trigger.
+
+Assuming that compliance with valid Voting Rights Act obligations can be compelling, they allow reasonable preventive action without a prior judgment commanding an exact map. Section 5 nonretrogression does not require new Districts 29 and 30 merely because population grows. Preserving District 18 presents a stronger concern, but does not itself require a fixed increased racial share regardless of alternatives. Section 2's applicable Gingles conditions and totality inquiry remain distinct: cohesion, actual preferences and ordinarily defeating majority bloc voting cannot be assumed by combining Black and Hispanic populations. Beer, Pleasant Grove, Growe, Holder and De Grandy retain their distinct requirements. Discrimination history and contested polarization make the compliance defense serious but do not alone establish this particular fit.
+
+For District 30, the lower findings about C500, C606 and preserving neighborhoods show a more ordinary route to minority opportunity, with the selected departures substantially tied to incumbents. For Districts 18 and 29, C606, C676 and witness acknowledgments similarly bear on alternatives respecting ordinary criteria. C676's joint influence district does not by itself establish an equivalent Hispanic-majority opportunity district; C606 and the other findings do separate work. The dissent certifies no alternative's complete legality or precise electoral equivalence. Its conclusion is deficient connection between these racial departures and statutory need, even allowing latitude.
+
+The United States' separate fit defense is considered; the State's reported unwillingness to defend precise shapes is no default or waiver binding that intervenor. The alternatives' asserted opportunity costs are weighed against the lower findings, not ignored. The dissent rejects the lower court's least-irregular-map formula, universal compactness metrics and an exact-map-compulsion demand. It finds the remaining district-specific findings sufficient and thus rejects a fit-only remand. It would preserve the declaration and prospective injunction, leaving the State an initial lawful planning opportunity and any necessary bounded implementation below. It would prescribe no map, racial quota, special election or new deadline, presume no compliance or contempt, and convert no fee application into an award. The Court adopts none of this dissent's proposed trigger, factual conclusions or fit holding.
+
+**O'Connor, dissenting separately.** O'Connor joins Kennedy's opinion and would additionally hold that compliance with valid §2 obligations is a compelling interest. Her Voinovich and Miller positions preserve a State's practical room to address actual racial electoral conditions and avoid statutory violations; judicial insistence on one ideal district or a prior exact-map command would defeat that latitude. Her SCLC position likewise insists on genuine statutory proof rather than categorical noncoverage. She distinguishes racial awareness from predominance subordinating ordinary criteria. She nevertheless agrees that the supported departures here lack sufficient connection to the asserted duty under a standard allowing reasonable choice. Her affirmative compelling-interest conclusion is hers alone; the common dissent assumes it for the fit analysis.
+
+**Scalia, joined by Thomas, dissenting separately.** Both join Kennedy's sufficient predominance ground while preserving a broader objection to intentional creation of a majority-minority constituency as racial classification. This is more than awareness of demographic consequences; it concerns governmental allocation on racial lines without assuming that individuals share a racial group's beliefs. Their Miller writings supply that objection. Their separate statutory reservations, maintained in SCLC, remain distinct from the common dissent's analysis assuming existing statutory law. They adopt no new statutory noncoverage holding, proportional-officeholding entitlement or separate decree. Their additional trigger and statutory views receive no controlling support.
+
+
 <!-- chunk8-projection: Jaffee_v_Redmond_merits_1996-06-13.md -->
 
 ## Chunk 8 completed event — Jaffee v. Redmond
@@ -4908,6 +5018,82 @@ Federal common law now protects the defined confidential psychotherapy relations
 **Scalia, dissenting.** Rule501 authorizes common-law development, but the dissent finds the asserted benefit insufficient to justify withholding reliable evidence about disputed conduct. The possibility that confidentiality assists treatment does not by itself establish how much this evidentiary privilege adds to ordinary professional secrecy, while lost evidence directly impairs the adjudicative task. University of Pennsylvania supplies the need for a supported justification, not a categorical prohibition on creating privileges.
 
 The dissent also disputes the professional boundary. Proposed Rule504 did not include social workers and was never enacted; differences in training, functions and state exceptions caution against treating all such treatment as one established category. Scalia would reverse the federal-privilege basis for the new-trial judgment, leaving unresolved matters in their proper channels. He does not find wholesale waiver or hold that every note must be disclosed, and his objections create no controlling balancing alternative.
+
+
+<!-- chunk8-projection: Montana_v_Egelhoff_merits_1996-06-13.md -->
+
+## Chunk 8 completed event — Montana v. Egelhoff
+
+Montana Supreme Court affirmed, 5–4; its new-trial judgment on both deliberate-homicide counts stands because the instruction barred relevant rebuttal of the retained purpose-or-knowledge element.
+
+The case returns through the Montana Supreme Court with its new-trial judgment on both deliberate-homicide counts affirmed. Further proceedings must permit otherwise admissible intoxication evidence to be considered on the retained purpose-or-knowledge element, subject to lawful evidence rules. The separate lay-opinion, evidentiary-sufficiency and dangerous-offender assignments receive only such further state treatment as remains appropriate; this Court decides none of them. No retrial date, release order, acquittal, sentence or further Supreme Court event is set.
+
+[Canonical Record](../records/Montana_v_Egelhoff_merits_1996-06-13.md); [complete public law and writings](../entering-law/PUBLIC_Montana_v_Egelhoff_merits_1996-06-13.md).
+
+### Holdings
+
+**Authority:** O'Connor's opinion, joined in full by Stone-Zsela, Stevens, Souter and Breyer, controls each proposition, explanation, application and limit below by five direct joins. The separate writings add no controlling ground.
+
+### I. The actual state-law element governs the constitutional inquiry
+
+**Operative rule:** When a State retains purpose or knowledge as an offense element, the constitutional inquiry must address that actual requirement rather than an appellate substitute that treats the defendant as sober. Montana's highest court treated deliberate homicide as retaining purpose or knowledge and §45-2-203 as restricting evidence bearing on that element; this Court accepts that state-law premise.
+
+**Controlling explanation:** Patterson permits a State to define offenses and allocate a genuinely separate affirmative defense; it does not authorize this Court to replace the offense the State has retained. Gaudin requires the jury to determine enacted elements under the proper burden, while leaving the legislature free to define crimes within constitutional limits. Neither makes subjective intent indispensable to every offense.
+
+Here the charge required purposely or knowingly causing death. The Montana Supreme Court treated intoxication as potentially relevant to those mental facts and the instruction as restricting their proof. Giving §45-2-203 substantive effect cannot mean disregarding that authoritative construction. A rule defining culpability without the exculpatory effect of voluntary intoxication presents a different question only when it is actually the State's rule. A possible saving construction is insufficient to supply it here.
+
+The Court does not decide the validity of every genuinely different culpability definition, including a law expressly equating intoxication with knowledge, or any fair-notice or retroactivity issue such a law might present. Ratzlaf and Staples remain interpretations of their particular federal crimes, not constitutional commands fixing Montana's elements.
+
+### II. This blanket restriction denies a fair opportunity to contest the retained element
+
+**Operative rule:** Due process forbids applying §45-2-203 to prevent consideration of otherwise admissible intoxication evidence bearing on the actual purpose-or-knowledge element retained here, without a sufficient justification for that restriction. The ruling preserves ordinary evidence rules addressing relevance, reliability, privilege and fair trial management; it creates neither an absolute right to present all evidence nor an affirmative intoxication excuse.
+
+**Controlling explanation:** Winship requires proof beyond a reasonable doubt of every actual element. Martin permits a separate affirmative-defense burden because the defense evidence remains available to create doubt about the prosecution's elements; withholding that use presents a different constitutional problem. Chambers and Rock protect a meaningful opportunity to defend while allowing legitimate evidentiary restrictions. Together these principles require attention to the function of this instruction.
+
+Montana did not simply decline to excuse conduct committed while intoxicated. It retained a mental-state requirement and directed the jury to disregard a category capable of rebutting it. Admission for memory or physical capacity did not permit the forbidden use. Under Victor's whole-charge approach, a general reasonable-doubt instruction does not neutralize that express limitation.
+
+Historical limits on voluntary intoxication deserve consideration, but do not establish a sufficient justification for this restriction on proof of the retained element. Responsibility for self-induced impairment and deterrence may inform an actual substantive culpability choice; they do not make this contrary evidence incapable of bearing on the element Montana kept. The unknown-intoxicant exception itself permits intoxication evidence when the defendant proves lack of knowledge that the substance was intoxicating when ingested. That feature defeats a categorical claim of inherent evidentiary incapacity, without enlarging the exception.
+
+The reported blackout and high intoxication may bear on purpose or knowledge; they do not establish its absence. Evidence that Egelhoff walked, spoke or acted in a directed manner may support the State, but physical functioning does not conclusively establish the required mental state. The jury must evaluate the actual evidence under lawful instructions. The Court decides neither its precise effect nor a universal method for all criminal due-process questions.
+
+### III. The constitutional ruling sustains the state new-trial judgment
+
+**Operative rule:** The unconstitutional restriction in the challenged instruction supplies the ground for affirming the Montana Supreme Court's existing new-trial judgment on both deliberate-homicide counts. This disposition decides no unresolved state assignment and makes no new finding of exact impairment, evidentiary insufficiency or harmlessness.
+
+**Controlling explanation:** The preserved federal question challenges the instruction that led the state court to order a new trial. Because the Court sustains that constitutional ruling, Montana has shown no basis on the question reviewed to set aside the resulting new-trial judgment. The separate lay-opinion, sufficiency and dangerous-offender assignments remain for appropriate state treatment, without first-instance resolution here.
+
+Sullivan addresses a charge that vitiates the reasonable-doubt standard; the Court does not extend its structural-error rule to every restriction on defense evidence. Nor does it weigh the prosecution's evidence to create an alternative harmlessness holding. The existing new-trial relief follows the adjudicated instructional error within the judgment under review, not an invented appellate determination of Egelhoff's mental condition.
+
+### Precedent Treatment
+
+- **In re Winship:** Applied to preserve proof beyond a reasonable doubt of the elements Montana actually retained; it does not fix every offense's substantive mental state.
+- **Patterson v. New York:** Preserved for genuine offense definitions and separately allocated affirmative defenses; it does not sustain replacing authoritative state law with a hypothesized culpability rule.
+- **Martin v. Ohio:** Applied for its distinction between an affirmative-defense burden and the continuing opportunity to use defense evidence against the prosecution's actual elements.
+- **Chambers v. Mississippi:** Applied for the bounded right to present a meaningful defense; ordinary legitimate evidentiary rules remain available.
+- **Rock v. Arkansas:** Applied against an unjustified categorical restriction on relevant defense evidence, without requiring admission of unreliable evidence.
+- **United States v. Gaudin:** Applied to actual enacted elements and the jury's decision; it creates no universal subjective-mental-state requirement.
+- **Victor v. Nebraska and Sandoval v. California:** Applied to the complete charge; correct general burden language does not automatically cure a contrary instruction.
+- **Medina v. California:** Its California-specific competency allocation remains; no exclusive general due-process methodology is inferred from it.
+- **Cooper v. Oklahoma:** Its protection against the higher incompetence burden remains distinct from the offense-definition and rebuttal question decided here.
+- **Ratzlaf v. United States; Staples v. United States:** Distinguished as constructions of particular federal criminal enactments; their rules are not converted into a constitutional definition of every state offense.
+- **Sullivan v. Louisiana:** Its structural-error rule is preserved at its stated scope and is not extended to every evidentiary restriction.
+
+### Law After Decision
+
+Montana must permit otherwise admissible intoxication evidence to bear on the purpose or knowledge its homicide law retains. The decision does not excuse intoxication, direct the jury's factual answer, abolish ordinary evidentiary limits or prescribe the mental state for every crime. The State's authority to enact genuine culpability definitions remains subject to their own constitutional limits; no such different definition is adopted for these convictions. No earlier decision is overruled.
+
+### Separate Writings
+
+**Souter, concurring alone.** Souter joins the Court's opinion and emphasizes the decisive state-law premise. Absent the Montana Supreme Court's construction, he would regard an implicit substantive redefinition as a plausible reading of the enactment. But the Court cannot reject the state court's definition merely because another construction would avoid the constitutional problem. Gaudin protects the element actually required; Patterson preserves a legislature's genuine definition authority. He leaves open whether a convincing evidentiary justification could sustain a restriction on relevant rebuttal. Possible confusion between an incapacity excuse and the required mental state does not adequately justify this restriction, even if it could support a different substantive rule. His additional interpretive observation is not a new Court holding.
+
+**Breyer, joined by Stevens, concurring.** Both join the Court's opinion. Breyer adds that the proposed constructive-knowledge formulation may make criminal liability turn on contrasting external appearances despite identical intoxication, replacing inquiry into the retained mental fact with an uncertain proxy. Physical behavior can be circumstantial evidence; it is not automatically the culpability the State has chosen to require. Gaudin's actual-element principle and the practical protection reflected in Cooper support careful separation of the required finding from a procedure that prevents it from being fairly tested. He does not decide whether an express law equating voluntary intoxication with knowledge or purpose would be constitutional, infer lack of purpose from blackout, or require subjective intent in every offense. His additional objection, joined only by Stevens, remains noncontrolling.
+
+**Scalia, joined by Kennedy and Thomas, dissenting.** The dissent would reverse the federal constitutional ruling and remand for the unresolved state assignments. First, it reads the express intoxication provision together with the homicide statute as a substantive culpability choice: known-origin intoxication cannot negate the culpability otherwise established. Patterson leaves that choice to the State within constitutional limits; Gaudin requires a jury decision on the resulting actual elements rather than prescribing them. The rule neither makes drinking proof of guilt nor shifts the State's burden.
+
+Second, these three Justices would sustain this particular restriction even if classified as evidentiary. The older tradition restricting voluntary-intoxication claims, the incomplete and nonuniform contrary practice, responsibility for self-induced impairment and deterrence provide sufficient justification in their view. They distinguish Martin's actual self-defense holding from a supposed universal right to use all relevant evidence for every purpose. Their own historically attentive approach remains consistent with Medina's limited controlling rule and Cooper's distinct protection against incompetent trial. They do not authorize arbitrary relabeling of every exclusion, unlimited legislative power, an exclusive Courtwide historical method or automatic harmlessness. Their proposed remand would not itself reinstate both convictions or the sentence.
+
+**Ginsburg, dissenting alone.** Ginsburg would reverse and remand solely because she regards §45-2-203 as defining culpability. Its location among general liability principles and its operation, considered with the homicide provision, qualify the mental-state inquiry. The State must establish actual purpose or knowledge, or circumstances establishing them apart from the exculpatory effect of voluntary intoxication. The rule does not make every act by an intoxicated person purposeful or abolish all mental-state requirements. Her Ratzlaf and Staples approach attends to the precise culpability the enactment chooses. She regards the Montana court's contrary treatment as resting on an unduly restrictive federal-law premise. She does not join Scalia's additional evidentiary rationale or approve arbitrary exclusion of concededly relevant rebuttal while retaining the same element. Admission for memory alone would not cure such a defect. The remaining state assignments require appropriate state disposition on her proposed remand.
+
 
 <!-- chunk8-projection: Koon_and_Powell_v_United_States_merits_1996-06-13.md -->
 
@@ -5012,67 +5198,6 @@ Departure review protects supported sentencing judgments while independently cor
 
 **Stone-Zsela, concurring in part and dissenting in part.** Being a convicted officer does not itself distinguish these defendants from other officers entering prison, and publicity is not a substitute for evidence of exceptional risk. Genuinely extraordinary vulnerability may matter, but the offered justification is legally insufficient here. The successive prosecutions exercised distinct sovereign responsibilities; this record identifies no individual mitigating circumstance showing why authorized federal civil-rights enforcement makes punishment less deserved. Additional factfinding cannot replace deciding the insufficiency of those two grounds as offered. Stone would exclude them, as well as career loss and ordinary low recidivism, and require resentencing on independently valid grounds. Under Williams the combined explanation establishes neither the same sentence without invalid factors nor independently reasonable extent. He agrees only with the judgment sustaining the separate five-level victim-conduct component and adds no ground concerning its application or amount.
 
-<!-- chunk8-projection: Vera_and_consolidated_standing_1996-06-13.md -->
-
-## Chunk 8 completed event — Bush v. Vera; Lawson v. Vera; United States v. Vera, Nos. 94-805, 94-806 and 94-988.
-
-Standing recognized for Blum, Powers, Thomas, Vera and Orcutt concerning their respective districts; Chen supplies no independent standing for the three-district relief. The three appeals are retained and existing lower relief is unchanged, 9–0; Stone concurs in the judgment under his express case-specific alternative.
-
-Nos. 94-805, 94-806 and 94-988 remain pending for their final lawful disposition. No new merits decision, briefing order, argument date or terminal mandate is entered.
-
-The lower court's September 2 direction to develop a conforming plan by March 15, 1995, with remedial proceedings to follow, is not a new Supreme Court implementation order. The passed deadline is neither restarted nor treated as proof of compliance or contempt. The existing district-court authority remains subject to ordinary limits during pending appeals; no new hearing or implementation power is granted. The direction to seek fees and costs within 30 days remains only an application direction, with no award, amount or new prevailing-party determination. No stay, later map or election event is inferred, and the September 20 injunction remains unchanged by this action.
-
-[Canonical Record](../records/Vera_and_consolidated_standing_1996-06-13.md); [complete public law and writings](../entering-law/PUBLIC_Vera_and_consolidated_standing_1996-06-13.md).
-
-### Holdings
-
-**Authority:** Thomas's opinion controls all propositions below with the eight direct joins identified above. Stone-Zsela's concurrence adds the ninth judgment vote but no join to the Court's reasoning.
-
-### The five residents' personal-assignment claims satisfy standing
-
-**Operative rule:** Under Miller, voters personally subjected to the challenged electoral assignment may litigate their asserted unequal treatment when their own exposure, causation and likely redress are established, even if the substantive theory fails. Residence alone or disagreement with racial districting is insufficient, but these five plaintiffs' own assignments satisfy that personal relationship without an additional financial loss, electoral defeat or denial of service.
-
-**Controlling explanation:** Miller directly separates personal-assignment standing from the merits of a design-only equality claim. Blum and Powers challenge the State's assignment of them to District 18, Thomas and Vera their assignments to District 29, and Orcutt his assignment to District 30. The plan causes the complained-of treatment, and relief against its use would address that treatment if the legal theory succeeded. No speculative chain of independent third-party decisions intervenes. Northeastern Florida confirms that exposure to challenged unequal treatment need not be accompanied by proof of obtaining the ultimate benefit; Warth preserves the distinction between standing and substantive success.
-
-The objection that exposure does not always establish injury remains sound as a general caution. Here, however, Miller specifically recognizes the personal-assignment relationship alleged, without an additional downstream loss. The Court retains that threshold holding; the absence of a further injury does not distinguish it. Shaw and Miller's separate substantive boundary cannot itself decide jurisdiction or supply a merits judgment on Texas's plan.
-
-Lujan's stage-appropriate factual-support requirement remains. The lower adjudication supplies the identified residents' relationship to their assignments; this decision does not hold that unsupported allegations invariably suffice after trial. No genuine dispute requiring new residence or exposure findings is supplied. Nor does the Court require an expert report, alternative map or proof of a changed election winner. General testimony about precinct confusion and misdirected ballots, and Blum's candidacy, is not recast as another personal injury.
-
-### Chen supplies no independent standing for these districts
-
-**Operative rule:** A plaintiff who shows no personal connection to the challenged assignments cannot obtain standing for that relief merely from other plaintiffs' exposure or a generalized concern about the plan. Chen's residence in District 25 supplies no independent basis for relief concerning Districts 18, 29 and 30, but his deficiency does not defeat the claims of their personally affected residents.
-
-**Controlling explanation:** Lujan requires a personal stake rather than the public's undifferentiated interest in lawful government. Chen alleges neither assignment to the three districts nor another individual connection to their challenged classifications. Each district nevertheless has at least one personally affected claimant. The Court therefore need not decide every possible nonresident or cross-district theory. These defendants' appeals do not reopen Chen's unsuccessful District 25 merits claim or the rejected challenges to other districts, and the previously dismissed statutory and constitutional claims are not revived.
-
-### Direct jurisdiction permits the limited decision while the appeals remain pending
-
-**Operative rule:** The required three-judge court's merits grant of an injunction in this substantial constitutional apportionment controversy supports direct review under §§2284 and 1253. The Court resolves the standing question now and retains all three appeals without affirming, reversing or vacating the unreviewed constitutional merits judgment.
-
-**Controlling explanation:** Miller distinguishes a merits grant or denial of injunctive relief from a nonmerits dismissal requiring its own review-channel analysis. The present declaration and injunction fall within that direct-review channel. Standing does not confer entitlement to an injunction, and the availability of review does not make every possible issue part of this decision.
-
-Retention preserves the actual limited question and the outstanding appeals. A terminal merits affirmance would decide more than the threshold result establishes; a merits vacatur under Shaw or Miller would likewise decide an excluded issue. No unresolved residence fact calls for a lower-court evidence remand. The Court therefore leaves the current orders unchanged while the appeals await their remaining lawful disposition. This treatment is the disposition of these appeals at this stage, not a rule requiring retention after every limited appellate decision.
-
-### Precedent Treatment
-
-- **Miller and consolidated cases, June 29, 1995:** The personal-assignment standing rule and direct-review distinction are retained and applied. Its separate substantive equality and voluntary-inclusion holdings remain intact; this decision neither overrules them nor adjudicates the Texas map under them.
-- **Shaw v. Reno, June 28, 1993:** Its design-only substantive boundary remains controlling in its proper setting. It is not converted into a jurisdictional bar or applied to decide the excluded merits here.
-- **Lujan v. Defenders of Wildlife, June 12, 1992:** Personal injury, causation, likely redress and stage-appropriate factual support remain required. No new evidentiary document or universal downstream-loss requirement is imposed.
-- **Northeastern Florida Chapter, AGC v. Jacksonville, June 14, 1993:** Applied for the distinction between personal exposure to challenged unequal treatment and proof that the ultimate benefit would have been won; it supplies no blanket ruling against racial awareness.
-- **Warth v. Seldin, 422 U.S. 490:** Applied to preserve standing as a question distinct from success on the substantive claim.
-
-### Law After Decision
-
-Miller continues to permit these personal-assignment claims to be heard without a further electoral or financial injury, while requiring each plaintiff's own exposure, causation and redressability. A disconnected plaintiff cannot borrow another's stake. The design-only substantive rule remains separate and unchanged. The lower declaration and injunction remain lower-court relief awaiting the appeals' remaining disposition; they do not become Supreme Court merits holdings through this standing decision.
-
-### Separate Writings
-
-**Stone-Zsela, concurring in the judgment.** Stone would overrule Miller's threshold holding only insofar as personal assignment to a race-conscious shared constituency alone supplies injury. Exposure identifies the person affected, but does not necessarily establish concrete unequal treatment. A common constituency does not, merely through its design, assign different political identities or make its representative responsible to only one race; predicted neglect or inferior status needs a supporting governmental operation.
-
-Concrete unequal treatment can itself suffice: exclusion, dilution, unequal participation, impaired competitive opportunity, inferior civic status or another supported personal injury needs no additional financial loss, electoral defeat or second governmental act. These examples are not exhaustive. Northeastern Florida preserves unequal opportunity as injury; Warth separates standing from success. Allen's rejection of abstract stigma does not settle personal assignment, and Bell's narrow insubstantial-federal-question doctrine does not answer this Article III question. The same rule applies regardless of race, with ordinary pleading and proof and no new constitutional prerequisite for statutory Voting Rights Act claims.
-
-The proposal expressly changes Miller: its plaintiffs alleged the same assignment injury, so this case cannot honestly be distinguished. Stone claims no intervening law, changed fact or demonstrated unworkability. He accepts that closing a judicial forum imposes a real reliance cost, but regards the asserted Article III error as sufficient for this limited correction; fewer lawsuits or a preferred policy outcome would not suffice. Miller's substantive equality and voluntary-inclusion rules would remain.
-
-Under his proposed rule, Stone would vacate the three-district invalidation and dependent redrawing relief, including the September 20 injunction, and remand for dismissal of the design-only claims without prejudice; the whole action could be dismissed only if no independently supported claim remained. That would decide no constitutional merits. Because Miller remains controlling, however, he recognizes these five residents' standing and Chen's distinct deficiency, accepts retention, and joins today's judgment without adopting the Court's rationale. Unsupported predictions alone supply no injury, but cannot defeat an independent sufficient basis.
 
 <!-- chunk8-projection: Rise_v_Oregon_merits_1996-06-14.md -->
 
@@ -5162,6 +5287,7 @@ The dissent accepts that blood extraction and protected examination are searches
 
 This narrower affirmance would not endorse the lower court's conviction-only description, deny the importance of bodily integrity or infer adequate procedures from silence. No individual exception dispute or denial has been established for the covered plaintiffs, so these Justices would not vacate the generalized hearing ruling merely to investigate possible inadequacy. Milligan's error establishes neither another plaintiff's injury nor these defendants' liability. Scalia and Stone-Zsela's search votes independently reject the offered collection authority; their process position cannot make that search lawful. Kennedy and Thomas separately would sustain the defined search program.
 
+
 <!-- chunk8-projection: Melendez_v_United_States_merits_1996-06-17.md -->
 
 ## Chunk 8 completed event — Melendez v. United States
@@ -5223,31 +5349,75 @@ Under the present provisions, Guidelines assistance relief and statutory-minimum
 
 The dissent accepts the letter's actual terms and does not claim the Commission can override Congress. It would remand to determine whether this motion sufficed for both departures or for neither, not declare that it necessarily authorizes a sentence below 120 months. It directs no amount and adjudicates no unpresented Government request to increase the existing sentence. Actual preservation and procedural limits would govern any ensuing relief; no new cross-appeal or breach finding is supplied.
 
-<!-- chunk8-projection: Leavitt_v_Jane_L_certiorari_1996-06-17.md -->
+
+<!-- chunk8-projection: Leavitt_v_Jane_L_summary_merits_1996-06-17.md -->
 
 ## Chunk 8 completed event — Leavitt v. Jane L.
 
-Review granted on the appealed severability question and the separate fetal-survival method-duty question; supplemental briefing directed; no summary merits disposition. The matter remains pending.
+Certiorari granted limited to the appealed severability determination and otherwise denied; summary partial vacatur and remand, 5–4. No automatic enforcement of §302(3); independent federal grounds and necessary lawful protection remain for the lower courts.
 
-The case remains pending for the directed supplemental briefing and further merits proceedings under the Court's ordinary rules. No argument date or case-specific filing deadline is set by this order. The parties must address the actual statutory terms, preserved grounds and corresponding relief within the stated grant. Existing protection is undisturbed, and no future outcome is announced.
+Supreme Court review is complete. The case returns through the Tenth Circuit for proceedings consistent with the definitive severability correction and the confined remedial directions. The receiving courts must identify the lawful injunction and its dependent consequences, address properly preserved independent federal grounds and any properly relevant intervening-law question, and maintain necessary existing protection supported by an established federal violation while doing that work. Relief cannot rest solely on the rejected inseverability premise. The mandate itself neither restores enforcement nor guarantees permanent continuation of every injunction.
 
-[Canonical Record](../records/Leavitt_v_Jane_L_certiorari_1996-06-17.md); [complete public law and writings](../entering-law/PUBLIC_Leavitt_v_Jane_L_certiorari_1996-06-17.md).
+Ordinary mandate procedures apply. No special mandate date, compulsory hearing, new trial, direct H.B. 206 challenge or further Supreme Court event is prescribed.
+
+[Canonical Record](../records/Leavitt_v_Jane_L_summary_merits_1996-06-17.md); [complete public law and writings](../entering-law/PUBLIC_Leavitt_v_Jane_L_summary_merits_1996-06-17.md).
 
 ### Holdings
 
-No substantive holding is announced. The order establishes the scope of review and requires the stated briefing before decision.
+### I. The remaining prohibition is not inseverable merely because subsection (2) is invalid
+
+**Holding and operative rule:** Section 317's express preservation of provisions and applications, including its declaration that each would have been enacted irrespective of invalidity elsewhere, permits §302(3) to operate independently of §302(2)'s invalid prohibition. The Court of Appeals therefore may not eliminate every application of subsection (3) solely because it was part of the same original scheme or incorporates subsection (2)'s exceptions; independent constitutional objections remain separate.
+
+**Authority:** Part I of the per curiam, joined by Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas. Five direct joins support the rule and its application.
+
+**Controlling explanation:** The Court holds that Utah's stated legislative choice must govern this severability question. Section 317 addresses the very contingency that occurred: invalidity elsewhere in the enactment. It preserves each provision and application and states that the legislature would have enacted each independently. The relevant choice is between the surviving provision and none after invalidation, not whether the legislature originally preferred its full enactment.
+
+Section 302(3) supplies an independent prohibition after twenty weeks from conception. Its reference to subsection (2)(a), (d) and (e) identifies the life-saving, grave-medical-health and grave-fetal-defect circumstances, assessed in the attending physician's professional judgment, in which abortion remains permitted. Those conditions remain intelligible without enforcement of subsection (2)'s general prohibition. The reference does not retain rape or incest as independent exceptions or turn the fixed week into individualized viability.
+
+Salt Lake City v. International Ass'n of Firefighters, State v. Salt Lake City and Carter preserve Utah's inquiry into interdependent provisions and inseparable legislative compromises. They do not make the original comprehensive design conclusive when this unusually explicit text and the remainder's independent operation point the other way. Section 317.2 does different work: it conditionally reenacts the 1974 §302 if this Court holds unconstitutional the provision as amended by 1991 Senate Bill 23. It does not withdraw §317's ordinary severability instruction.
+
+The serious federal objections do not justify retaining an erroneous state-law premise. They must receive their own lawful consideration. The Court neither treats every severability clause as conclusive nor holds every surviving application constitutional.
+
+### II. Correcting severability does not authorize automatic enforcement
+
+**Holding and operative rule:** Removal of the appealed inseverability ground requires a remedy confined to that error, while preserving necessary protection supported by independently established federal grounds. The courts below must determine the lawful scope of the declaration and injunction, retain protection against any demonstrated unconstitutional previability application, and address genuinely dependent reporting, certification and sanction consequences without automatically validating or invalidating them.
+
+**Authority:** Part II of the per curiam, joined by the same five Justices. This is a direct majority remedial holding; it does not adjudicate an independent federal claim.
+
+**Controlling explanation:** Dalton v. Little Rock Family Planning Services supplies the distinction between correcting excessive relief and extinguishing the federal protection properly supporting it. Here the Court of Appeals expressly left §302(3)'s federal validity undecided. State-law severability cannot answer that remaining question. This judgment therefore removes the inseverability rationale and remands for the proper treatment of preserved federal grounds and corresponding relief; it grants no blanket permission to enforce.
+
+Respondents may seek to sustain their favorable judgment on a preserved alternative ground without enlarging the relief they obtained. That principle supplies neither a missing finding nor an enlarged grant. The Court does not decide preservation, proof or constitutional validity in the first instance. Existing protection must have a lawful basis and scope; this remand orders neither its automatic dissolution nor indefinite retention of every provision of the decree.
+
+The unappealed invalidation of §302(2) and the unreviewed §§307–308 ruling remain untouched. H.B. 206's possible effect remains available insofar as properly relevant below, but its existence establishes neither repeal nor mootness. Its new viability method is expressly confined to §310.5; its amended penalty clause continues to identify §§307–308. Section 315's serious-emergency exception applies only when insufficient time prevents compliance with §§302, 304(2), 305(2) or 310.5, and does not include §§307–308. No assumed saving construction of their different survival and grave-health terms can supply a constitutional judgment outside this grant. No direct H.B. 206 challenge, new clinical finding or general funding duty is decided.
 
 ### Precedent Treatment
 
-No precedent is overruled, limited or newly extended by this grant. The governing constitutional and remedial decisions retain their existing force.
+- **Salt Lake City v. International Ass'n of Firefighters, 563 P.2d 786:** Distinguishes its Utah interdependence setting; the doctrine retains force, but does not overcome this enactment's express independent-enactment direction and separately operable command.
+- **State v. Salt Lake City, 445 P.2d 691:** Distinguishes its severability application for the same concrete textual and functional reasons; the decision is not displaced as Utah authority.
+- **Carter, 399 P.2d 440:** Distinguishes the inseparable-compromise reasoning relied on below; no such necessary dependence follows from incorporating the remaining exceptions here.
+- **Dalton v. Little Rock Family Planning Services, March 18, 1996:** Applies its requirement that correction of excessive relief preserve protection supported by an independent federal ground; it supplies no conclusion about Utah's substantive validity.
+- **Planned Parenthood of Southeastern Pennsylvania v. Casey, June 29, 1992:** Leaves its entire protected-choice, six-step regulatory and remedial framework unchanged. The state-law correction neither narrows that authority nor constitutes new agreement with its rationale.
+- **Fargo Women's Health Organization v. Schafer, February 13, 1995:** Leaves intact the distinction between adequate notice or clinical clarity and the substantive sufficiency of a health exception; neither is decided by this severability holding.
+- **Planned Parenthood, Sioux Falls Clinic v. Miller, April 15, 1996:** Preserves its relief against the proved indivisible compulsory condition. That holding does not establish a defect in every application of this different statute.
 
 ### Law After Decision
 
-The grant changes the procedural stage, not the governing law. It resolves neither Utah severability, the federal validity of the challenged applications, nor H.B. 206's asserted effect on §§307–308. The unappealed invalidation of §302(2) remains outside the granted review.
+The appealed inseverability rationale can no longer support eliminating §302(3)'s independently lawful applications. Its independent federal validity remains undecided by this Court, and no fixed gestational week has been approved as a substitute for individualized viability. The retained lower judgments concerning §302(2) and §§307–308 do not become Supreme Court holdings through the limits of this review.
+
+Casey's complete framework continues to govern any properly reached constitutional challenge: protected previability choice and timely necessary physical and mental health care; examination of the actual duty, function and objectively established purpose; proof of attributable interference using a stable affected population and usable alternatives; independent invalidity for a baseline violation, obstructive purpose or substantial obstacle; compelling justification and narrow tailoring for remaining severe interference; substantiated justification and fit for remaining meaningful interference; clinical and truthful-communication safeguards; and relief corresponding to the proved violation. Challengers first establish causation and triggering interference. A finding of no substantial obstacle alone does not end review of demonstrated meaningful interference. Neither a universal no-valid-applications requirement nor a funding entitlement is added.
+
+H.B. 206 remains subject to its own terms. Its §310.5 prohibition concerns the defined dilation-and-extraction and saline procedures after its section-specific physician determination of viability. That determination uses the physician's best clinical judgment, the pregnancy's known particular facts and reasonably available medical information and technology to decide whether life can realistically be maintained and nourished outside the womb, with or without temporary artificial support. The first procedure definition excludes dismemberment-before-removal dilation and evacuation, suction curettage and suction aspiration. Its exception applies when **all other available abortion procedures** would pose a risk to the woman's life or health; its own felony clause requires intentional, knowing and willful violation. Amended §314 separately retains intentional unauthorized-abortion liability, exempts the woman seeking or obtaining her own abortion from criminal liability, preserves willful-violation felony penalties for §§307, 308, 310, 310.5, 311 and 312, and treats other violations as class A misdemeanors. The Court decides neither the enactment's independent validity nor its alleged repeal or mootness effects.
 
 ### Separate Writings
 
-None.
+**Stone-Zsela, concurring.** Stone joins the statutory correction because Utah's severability clause preserves independently lawful applications; it cannot make an unconstitutional application enforceable. Under Casey, twenty weeks is not individualized viability. A demonstrated prohibition of protected previability choice violates the constitutional baseline and cannot be justified by a compelling interest or narrow medical exceptions. Necessary care must remain available before imminent death or catastrophic deterioration; postviability protection also requires individualized physical and mental health considerations.
+
+He would invalidate demonstrated violations while preserving independent lawful applications. Remaining regulations must satisfy Casey's separate obstructive-purpose and substantial-obstacle prohibitions, its scrutiny of remaining severe interference, and its justification-and-fit requirement for remaining meaningful interference, with usable exceptions and actual effects assessed. A label describing later pregnancy cannot do the constitutional work. He agrees with deciding severability now because the mandate retains necessary lawful protection and returns the injunction and dependent reporting, certification and sanction consequences for proper definition. Respondents' ability to defend a favorable judgment on a preserved alternative ground does not cure missing notice, review scope or proof. His concurrence declares no unpresented application proved and supplies no general funding duty.
+
+**Stevens, joined by Souter, Ginsburg and Breyer, dissenting.** These Justices oppose using summary review to correct a disputed question of state law when the remaining provision's federal validity has not been decided. The express severability language supplies a substantial argument, but an arguable state-law error does not itself establish a sufficient institutional reason for this Court's intervention. Federal interpretations of state law do not conclusively bind the State's own courts; this Court's national role ordinarily favors leaving such disputes to the usual judicial process.
+
+The alternative federal grounds, the actual fixed-week and grave-health limitations, and the intervening enactment remain unresolved after today's correction. If review is undertaken, ordinary briefing would better address the interaction of those matters within the granted scope. The dissent does not hold every restriction constitutional, conclusively endorse the inseverability ruling, find H.B. 206 repealing or mooting the disputed provisions, or deny federal power to consider state severability when defining relief for a federal violation. Its objection is to this discretionary summary intervention, not to the continuing force of independently required federal protection.
+
 
 <!-- chunk8-projection: Calderon_v_Moore_summary_review_1996-06-17.md -->
 
@@ -5297,6 +5467,7 @@ Compliance steps under a conditional habeas order do not necessarily exhaust app
 ### Separate Writings
 
 None.
+
 
 <!-- chunk8-projection: Gray_v_Netherland_merits_1996-06-20.md -->
 

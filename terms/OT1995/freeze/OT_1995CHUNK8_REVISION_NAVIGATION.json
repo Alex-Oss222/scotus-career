@@ -1,0 +1,83 @@
+{
+  "repairs": [
+    {
+      "path": "freeze/OT_1995CHUNK8_ASSIGNMENT_REFERENCE.md",
+      "before_sha256": "66bd8ff9141356630344473099983bf00f120124ca7659f596d7e0ae99bda061",
+      "after_sha256": "7666636d3b3ec2de13f0f8c0efed33a8624241ef24305c85a832d26a6cc1b39e",
+      "scope": "renamed Markdown link targets; historical-handoff annotation where needed"
+    },
+    {
+      "path": "freeze/OT_1995CHUNK8_COMMITMENTS.md",
+      "before_sha256": "6288d6804b2bd5f72c89237a81ff78d9b37e34d9869765cc57d201543b55ef44",
+      "after_sha256": "0342c770b5cc9d53be32ef0a3259f514f982c7db5a82c4a58bd0797a190853b7",
+      "scope": "renamed Markdown link targets; historical-handoff annotation where needed"
+    },
+    {
+      "path": "freeze/OT_1995CHUNK8_GRAY_COMMITMENTS.md",
+      "before_sha256": "7ef924130066e91265ce43c7568b037c63fbdd9267fb26a8ee5efb1fd908e474",
+      "after_sha256": "c2f82f887f56a65dc174e362716ff9e9e80bc91cb771561c405f3edf44b41c4d",
+      "scope": "renamed Markdown link targets; historical-handoff annotation where needed"
+    },
+    {
+      "path": "freeze/OT_1995CHUNK8_GRAY_JUNE17_PUBLIC_REVIEW.md",
+      "before_sha256": "956e1004740c6db7366f09520ede0e213526bba0473875518e7964dde644fa36",
+      "after_sha256": "9a8678c53e0a576e3fc3eca75676b1638054645ea248dfad91abdbb9a5851db7",
+      "scope": "renamed Markdown link targets; historical-handoff annotation where needed"
+    },
+    {
+      "path": "freeze/OT_1995CHUNK8_LEAVITT_ASSEMBLY_QA.md",
+      "before_sha256": "7541a6c3e39c60bec42193406455ea56aafd0b5853bc2aa2a2c9ea0c68a8f800",
+      "after_sha256": "043982ce3d69e0af39abb978ab115dac418618cae1c83fb1e608e59be493cd2a",
+      "scope": "renamed Markdown link targets; historical-handoff annotation where needed"
+    },
+    {
+      "path": "freeze/OT_1995CHUNK8_RECONCILED.md",
+      "before_sha256": "653f74f19e6799b6462b810fb01083db3152c98ead3a4ad7a0e0dd8ba12a6c2a",
+      "after_sha256": "b62656f19491d3fcd6e52ab5c46920f4694d65215a9afc06f4aeda7282b419f8",
+      "scope": "renamed Markdown link targets; historical-handoff annotation where needed"
+    },
+    {
+      "path": "freeze/OT_1995CHUNK8_RISE_COMMITMENTS.md",
+      "before_sha256": "db18791bdba8218d3ee8aad9e56303279e397f5987dff30ad7c09bfb07cee947",
+      "after_sha256": "2b201fc164502cf856aa4f3a742f03a38877fa7dfdf423ddf2d059ce7234bc4d",
+      "scope": "renamed Markdown link targets; historical-handoff annotation where needed"
+    },
+    {
+      "path": "freeze/OT_1995CHUNK8_RISE_RECONCILED.md",
+      "before_sha256": "f4dcb9cb909eebbeea5ddf1382d4404b154b08b986750a8ef188ad44a3506ae1",
+      "after_sha256": "b040b48e1bc039ea20e97d5621e85e6ad1ac7094ef59db18ed82ed3da177b8eb",
+      "scope": "renamed Markdown link targets; historical-handoff annotation where needed"
+    },
+    {
+      "path": "freeze/OT_1995CHUNK8_VERA_ASSEMBLY_QA.md",
+      "before_sha256": "a39d81379f9db5ae75fc6500319b4028eece505557e37847ca4c55244ce2a48f",
+      "after_sha256": "2cd7c8d53b642b4a26d5ba8687f4aa501d464870be79b3d1d6c54611cea5bde4",
+      "scope": "renamed Markdown link targets; historical-handoff annotation where needed"
+    },
+    {
+      "path": "runtime/OT_1995CHUNK8_COMMITMENTS.md",
+      "before_sha256": "6288d6804b2bd5f72c89237a81ff78d9b37e34d9869765cc57d201543b55ef44",
+      "after_sha256": "1d98ff2ea102cf483ff17b1c8f54d04a150c1151d7d4fb22f7e6c8333a77559b",
+      "scope": "renamed Markdown link targets; historical-handoff annotation where needed"
+    },
+    {
+      "path": "runtime/OT_1995CHUNK8_RECONCILED.md",
+      "before_sha256": "653f74f19e6799b6462b810fb01083db3152c98ead3a4ad7a0e0dd8ba12a6c2a",
+      "after_sha256": "14d87f7c1123ff27c3fe66f89fd64165499cb27daef011b39f6aae526f5a972b",
+      "scope": "renamed Markdown link targets; historical-handoff annotation where needed"
+    }
+  ],
+  "obsolete_derived_copies_removed": [
+    {
+      "path": "entering-law/PUBLIC_Vera_and_consolidated_standing_1996-06-13.md",
+      "sha256": "f6083d415c57c36e3d4211948ded6eacf27369888627d58930e5ecbb40d3f855"
+    },
+    {
+      "path": "entering-law/PUBLIC_Leavitt_v_Jane_L_certiorari_1996-06-17.md",
+      "sha256": "0939148a71eac51a73d41826ffdad2b86f22e3a09c45ba2ce87fabc1136bc330"
+    }
+  ],
+  "historical_identifiers": "Retained in lineage, preimage hashes, excluded-peer snapshot tables, and old snapshot markers; none is a live file link.",
+  "adjudication": "No Record or Public Projection changed by this operation.",
+  "git_operations": 0
+}

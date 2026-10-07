@@ -1,0 +1,20 @@
+[
+  {
+    "path": "entering-law\\OT_1995CHUNK8_REVISION_PRE_JUNE14_NEUTRAL_PROJECTION.md",
+    "strict_before": "1996-06-14",
+    "earlier_record_count": 101,
+    "sha256": "f9d9b57cef214b9bd27e29b61cc62206383101cb5cbd0d9dac852fa4894be11d"
+  },
+  {
+    "path": "entering-law\\OT_1995CHUNK8_REVISION_PRE_JUNE17_NEUTRAL_PROJECTION.md",
+    "strict_before": "1996-06-17",
+    "earlier_record_count": 102,
+    "sha256": "2ea5512c978a95f49e555f53ddada3fd94cbdc5c53d01425ae20d29005df4c45"
+  },
+  {
+    "path": "entering-law\\OT_1995CHUNK8_REVISION_PRE_JUNE20_NEUTRAL_PROJECTION.md",
+    "strict_before": "1996-06-20",
+    "earlier_record_count": 105,
+    "sha256": "253d140d9c128e3cd601b4e9a6b90f4c5d925c9a6b64d3b3ced41b9820c4ae96"
+  }
+]

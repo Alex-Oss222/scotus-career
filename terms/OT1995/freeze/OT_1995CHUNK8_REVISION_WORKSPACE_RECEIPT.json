@@ -1,0 +1,64 @@
+{
+  "operation": "Canonical-record-derived chunk 8 live workspace projection refresh",
+  "git_operations": "None; history verification remains deferred to operator",
+  "canonical_record_count": 106,
+  "court_event_count": 97,
+  "chunk8_record_order": [
+    "United_States_v_IBM_merits_1996-06-10.md",
+    "Lockheed_Corp_v_Spink_merits_1996-06-10.md",
+    "United_States_v_Myers_merits_1996-06-11.md",
+    "Vera_and_consolidated_merits_1996-06-13.md",
+    "Jaffee_v_Redmond_merits_1996-06-13.md",
+    "Montana_v_Egelhoff_merits_1996-06-13.md",
+    "Koon_and_Powell_v_United_States_merits_1996-06-13.md",
+    "Rise_v_Oregon_merits_1996-06-14.md",
+    "Melendez_v_United_States_merits_1996-06-17.md",
+    "Leavitt_v_Jane_L_summary_merits_1996-06-17.md",
+    "Calderon_v_Moore_summary_review_1996-06-17.md",
+    "Gray_v_Netherland_merits_1996-06-20.md"
+  ],
+  "writes": [
+    {
+      "path": "workspace/manifest.md",
+      "before_sha256": "b142d04af43e0df23ae32db3d6cc4a2c31f31c16478d3a04e08a27ddac1cbd81",
+      "after_sha256": "5ce927e047cb5c4f83e7b2a14042964635ecc1b947f9bec926eacc42c48a5018",
+      "changed": true
+    },
+    {
+      "path": "workspace/continuity.md",
+      "before_sha256": "e56bffdb0b3957ea80b9703ddc0405f3f82d08f6a651df11073831e914378d4a",
+      "after_sha256": "6460015a25f73c2693c2a164134201cb105b84ead3680d609ae9907dd15af200",
+      "changed": true
+    },
+    {
+      "path": "workspace/neutral-projection.md",
+      "before_sha256": "2a5ed61d5a12d80450e0bfa349b14dcb493012565005f253c4d4599b521f62d9",
+      "after_sha256": "63a31d01bb7cd0ee69f6ca83b939d144196573667dfc0f009e63db27b3b82d5a",
+      "changed": true
+    },
+    {
+      "path": "workspace/ledger.md",
+      "before_sha256": "1bba2bc575007bc2eff2ee2ae4f3cf3d745bcea50fed5d6d40c43d997e0d71f9",
+      "after_sha256": "3ade5f60c9892b7b2f41bbe456b61d51abeede91acce20518efbbe631feeed17",
+      "changed": true
+    },
+    {
+      "path": "entering-law/PUBLIC_Vera_and_consolidated_merits_1996-06-13.md",
+      "before_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "after_sha256": "565b6c192310cd3a0b4a3b8c8e1c1595a5660fd56d2744402996c1f90ad85f09",
+      "changed": true
+    },
+    {
+      "path": "entering-law/PUBLIC_Montana_v_Egelhoff_merits_1996-06-13.md",
+      "before_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "after_sha256": "a3f3cc76cfb230281aef3cb49ce95185a6db7471ae4234b50bba24961f37086e",
+      "changed": true
+    },
+    {
+      "path": "entering-law/PUBLIC_Leavitt_v_Jane_L_summary_merits_1996-06-17.md",
+      "before_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "after_sha256": "450c2dc02f3df5dbe179dbd3853aa9c58bbc8bc55252b762049a843c4824e1f9",
+      "changed": true
+    }
+  ]
+}

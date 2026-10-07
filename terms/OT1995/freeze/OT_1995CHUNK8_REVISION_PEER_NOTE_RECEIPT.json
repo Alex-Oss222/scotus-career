@@ -1,0 +1,26 @@
+[
+  {
+    "record": "Rise_v_Oregon_merits_1996-06-14.md",
+    "before_sha256": "3015718c7858626bd0baede8198cc1e2ec3989590c05243bd7127e0d3e290c68",
+    "after_sha256": "8471ce46adc37917a8328e94b58a88998c24587cc65f25491980b1c9b959161b",
+    "public_projection": "byte-identical"
+  },
+  {
+    "record": "Melendez_v_United_States_merits_1996-06-17.md",
+    "before_sha256": "78781890268f3137747c51100fde329295701ae7bb4d5620785cee743f4d57a7",
+    "after_sha256": "9a84ee72497514db0afbf10a51e820156bbdb8ff473f19db5414bc4a48803b2b",
+    "public_projection": "byte-identical"
+  },
+  {
+    "record": "Calderon_v_Moore_summary_review_1996-06-17.md",
+    "before_sha256": "a790a3db3462c729fc7e9cea40175ad3f12991024ba6d49c8995b98c71a86ded",
+    "after_sha256": "fb3f777ffca0fd653e22012f5716b14fdc120b0cb9af4eb4409a1cbbf939fa1a",
+    "public_projection": "byte-identical"
+  },
+  {
+    "record": "Gray_v_Netherland_merits_1996-06-20.md",
+    "before_sha256": "3bfd8eaefd8583c9bf6a8d8990c02dc03c917e5e0e36f270490dbe3987e1b0c0",
+    "after_sha256": "40ff106099e272a76517e07a5d360dd52edb5c651ccd1bc9cf8f4dbf7bcbe6f8",
+    "public_projection": "byte-identical"
+  }
+]
