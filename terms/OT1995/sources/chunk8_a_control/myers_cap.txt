@@ -1,0 +1,237 @@
+{
+"id": 7411640,
+"name": "UNITED STATES of America, Plaintiff-Appellee, v. Dale E. MYERS, Defendant-Appellant",
+"name_abbreviation": "United States v. Myers",
+"decision_date": "1995-02-01",
+"docket_number": "No. 94-1912",
+"first_page": "668",
+"last_page": "670",
+"citations": [
+{
+"type": "official",
+"cite": "46 F.3d 668"
+}
+],
+"court": {
+"name_abbreviation": "7th Cir.",
+"id": 9010,
+"name": "United States Court of Appeals for the Seventh Circuit"
+},
+"jurisdiction": {
+"id": 39,
+"name_long": "United States",
+"name": "U.S."
+},
+"cites_to": [
+{
+"cite": "462 U.S. 696",
+"category": "reporters:federal",
+"reporter": "U.S.",
+"case_ids": [
+6193241
+],
+"weight": 3,
+"year": 1983,
+"opinion_index": 0,
+"case_paths": [
+"/us/462/0696-01"
+]
+},
+{
+"cite": "416 U.S. 861",
+"category": "reporters:federal",
+"reporter": "U.S.",
+"case_ids": [
+84309
+],
+"weight": 3,
+"year": 1974,
+"pin_cites": [
+{
+"page": "865"
+},
+{
+"page": "2116"
+}
+],
+"opinion_index": 0,
+"case_paths": [
+"/us/416/0861-01"
+]
+},
+{
+"cite": "486 U.S. 35",
+"category": "reporters:federal",
+"reporter": "U.S.",
+"case_ids": [
+6209906
+],
+"weight": 3,
+"year": 1988,
+"pin_cites": [
+{
+"page": "37"
+},
+{
+"page": "1627"
+}
+],
+"opinion_index": 0,
+"case_paths": [
+"/us/486/0035-01"
+]
+},
+{
+"cite": "389 U.S. 347",
+"category": "reporters:federal",
+"reporter": "U.S.",
+"case_ids": [
+11339173
+],
+"weight": 5,
+"year": 1967,
+"pin_cites": [
+{
+"page": "361",
+"parenthetical": "Harlan, J., concurring"
+},
+{
+"page": "516-17",
+"parenthetical": "Harlan, J., concurring"
+},
+{
+"parenthetical": "Harlan, J., concurring"
+},
+{
+"page": "361"
+},
+{
+"page": "516"
+}
+],
+"opinion_index": 0,
+"case_paths": [
+"/us/389/0347-01"
+]
+},
+{
+"cite": "818 F.2d 1306",
+"category": "reporters:federal",
+"reporter": "F.2d",
+"case_ids": [
+1716454
+],
+"pin_cites": [
+{
+"page": "1314"
+}
+],
+"opinion_index": 0,
+"case_paths": [
+"/f2d/818/1306-01"
+]
+},
+{
+"cite": "34 F.3d 992",
+"category": "reporters:federal",
+"reporter": "F.3d",
+"case_ids": [
+10529623
+],
+"weight": 4,
+"pin_cites": [
+{
+"page": "995-96"
+},
+{
+"page": "995",
+"parenthetical": "defendant did not exhibit subjective expectation of privacy in the heat emitted from his home where defendant took no steps to conceal the heat and in fact took steps to expel the heat"
+},
+{
+"page": "997"
+},
+{
+"page": "997"
+}
+],
+"opinion_index": 0,
+"case_paths": [
+"/f3d/34/0992-01"
+]
+},
+{
+"cite": "24 F.3d 1056",
+"category": "reporters:federal",
+"reporter": "F.3d",
+"case_ids": [
+10513216
+],
+"weight": 3,
+"pin_cites": [
+{
+"page": "1059"
+},
+{
+"page": "1058"
+}
+],
+"opinion_index": 0,
+"case_paths": [
+"/f3d/24/1056-01"
+]
+},
+{
+"cite": "21 U.S.C. \u00a7 841",
+"category": "laws:leg_statute",
+"reporter": "U.S.C.",
+"pin_cites": [
+{
+"page": "(a)(1)"
+}
+],
+"opinion_index": 0
+}
+],
+"analysis": {
+"cardinality": 475,
+"char_count": 8204,
+"ocr_confidence": 0.691,
+"pagerank": {
+"raw": 3.3828228235805745e-07,
+"percentile": 0.8764688597675
+},
+"sha256": "fedd2af53410b5906ef416bb13c2e538f41be7ec2e7d84d2d9145537ef9043c7",
+"simhash": "1:aa6e808e60db8756",
+"word_count": 1325
+},
+"last_updated": "2024-02-27T18:23:39.742124+00:00",
+"provenance": {
+"date_added": "2019-08-29",
+"source": "Harvard",
+"batch": "2018"
+},
+"casebody": {
+"judges": [
+"Before CUDAHY, ESCHBACH, and MANION, Circuit Judges."
+],
+"parties": [
+"UNITED STATES of America, Plaintiff-Appellee, v. Dale E. MYERS, Defendant-Appellant."
+],
+"opinions": [
+{
+"text": "MANION, Circuit Judge.\nDale E. Myers pleaded guilty to manufacturing marijuana and possessing marijuana with intent to distribute in violation of 21 U.S.C. \u00a7 841(a)(1). Myers\u2019 guilty plea reserved the right to appeal the district court\u2019s denial of his motion to suppress marijuana recovered during a search of his home. Myers now appeals the denial of his motion to suppress. This appeal presents an issue of first impression in this circuit, namely whether thermal imaging scanning is a search within the meaning of the Fourth Amendment. We join the Eighth and Eleventh Circuits and hold that it is not.\nI. Factual Background\nIn 1991, the Indiana State Police set up Circle City Hydroponics, an undercover business designed to attract and identify marijuana growers. Circle City sold certain indoor gardening specialty products used by marijuana cultivators. One of Circle City\u2019s customers, Dale E. Myers, attracted the investigators\u2019 attention. In addition to a suspicious purchase, Myers also inquired about other technology used by marijuana growers. Based on these events, the police decided to investigate Myers further. One aspect of this investigation focused on Myers\u2019 electrical usage, since indoor cultivation of marijuana requires high-voltage indoor lighting. These inquiries revealed that Myers\u2019 electrical usage was unusually high in non-summer months. Agents also conducted surveillance of Myers\u2019 home and discovered that Myers had not left any garbage out for three weeks. The police believed that Myers did not leave any garbage at the curbside because he was disposing of marijuana clippings.\nTo further investigate Myers, on March 12, 1992 the Indiana State Police performed thermal imaging scanning of Myers\u2019 residence. Thermal imaging scanning is a procedure that measures the amount of heat emitted from an object. The thermal imaging scanner used in this case, the Agema 210, measures heat emissions and displays the results on a viewfinder on top of the instrument (much like a camcorder) by shading in lighter or darker degrees the area surrounding the object scanned. The Agema 210 does not penetrate the viewed object, nor does it emit rays or beams of any type. The scan performed on Myers\u2019 residence in this case revealed inordinate amounts of heat, indicating the use of indoor lights associated with marijuana cultivation.\nBased on the results from the thermal imaging tests and the other evidence gathered up to that point, the Indiana State Police requested a search warrant for Myers\u2019 residence. The warrant was issued and executed on April 22, 1992. A search of Myers\u2019 residence uncovered growing and processed marijuana plants and various items of growing equipment. Based on this evidence, Myers was indicted for manufacturing marijuana and possessing marijuana with intent to distribute.\nMyers moved to suppress the evidence obtained during this search, claiming that the warrant was invalid because it was issued based on the results of thermal imaging scanning, which he claims constituted an unconstitutional search. The district court denied Myers\u2019 Motion to Suppress. Myers then pleaded guilty and reserved the right to this appeal of the denial of his Motion to Suppress.\nII. Analysis\nMyers asserts that the thermal imaging scan of his home was a search within the meaning of the Fourth Amendment and, therefore, required a warrant to be valid. Since the police did not obtain a warrant before using the thermal imaging scanner, Myers contends that this search was unconstitutional. Myers then reasons that since the thermal imaging scan was unconstitutional, the search warrant based on the results of these tests is also invalid, thereby compelling the evidence obtained during the search to be suppressed.\nWhether thermal imaging scanning constitutes a search within the meaning of the Fourth Amendment is an issue of first impression in our circuit. The Eighth and the Eleventh Circuits are the only other circuits to have considered this issue. Both of these circuits held that thermal imaging scanning does not constitute a Fourth Amendment search. United States v. Pinson, 24 F.3d 1056 (8th Cir.1994); United States v. Ford, 34 F.3d 992, 995-96 (11th Cir.1994). -We find the reasoning of these circuits persuasive. For the following reasons we hold that thermal imaging scanning does not constitute a search within the meaning of the Fourth Amendment.\nA search within the meaning of the Fourth Amendment occurs only when a reasonable expectation of privacy' is infringed. Andree v. Ashland County, 818 F.2d 1306, 1314 (7th Cir.1987), citing Katz v. United States, 389 U.S. 347, 361, 88 S.Ct. 507, 516-17, 19 L.Ed.2d 576 (1967) (Harlan, J., concurring). This occurs when (1) the complainant exhibits an actual (subjective) expectation of privacy and, (2) the expectation is one that society is prepared to recognize as \u201creasonable.\u201d Id.; Katz, 389 U.S. at 361, 88 S.Ct. at 516. Therefore, in this case, for the thermal imaging scanning of Myers\u2019 residence to constitute a search within the meaning of the Fourth Amendment, Myers must have had a subjective expectation of privacy in the heat emitted from his home and society must recognize such an expectation as reasonable.\nThe record demonstrates that Myers did not haye a subjective expectation of privacy in the heat emitted. Myers took no steps to conceal or contain the heat emissions from his home. In fact, Myers discharged the heat from his home through vents on his roof. Ford, 34 F.3d at 995 (defendant did not exhibit subjective expectation of privacy in the heat emitted from his home where defendant took no steps to conceal the heat and in fact took steps to expel the heat). And even if Myers did have a subjective expectation of privacy in the heat emanating from his home, we are convinced that such an expectation is not one that society is prepared to recognize as \u201creasonable.\u201d A thermal imaging scan does not intrude in any way into the privacy and sanctity of a home. And \u201c[n]one of the interests which form the basis for the need for protection of a residence, namely the intimacy, personal autonomy and privacy associated with a home, are threatened by thermal imagery.\u201d Pinson, 24 F.3d at 1059. Moreover, society has been unwilling to protect as reasonable \u201cwaste products intentionally or inevitably exposed to the public\u201d such as the garbage left at the curbside, California v. Greenwood, 486 U.S. 35, 37, 108 S.Ct. 1625, 1627, 100 L.Ed.2d 30 (1988), the smoke rising from a chimney, Air Pollution Variance Bd. of Col. v. Western Alfalfa Corp., 416 U.S. 861, 865, 94 S.Ct. 2114, 2116, 40 L.Ed.2d 607 (1974), and the scent of drugs emanating from luggage, United States v. Place, 462 U.S. 696, 103 S.Ct. 2637, 77 L.Ed.2d 110 (1983). Ford, 34 F.3d at 997. We conclude that society is similarly not willing to protect as reasonable an expectation of privacy in the wasted heat emitted from a home. Ford, 34 F.3d at 997; Pinson, 24 F.3d at 1058.\nFor these reasons, we find that thermal imaging scanning is not a search within the meaning of the Fourth Amendment. The district court\u2019s denial of Myers\u2019 Motion to Suppress is therefore\nAFFIRMED.\n. Myers argues that the thermal imaging scanner used in this case (the Agema 210) was \"bottom of the line,\u201d and that much more sophisticated technology exists. According to Myers, we should limit the use of less sophisticated machines such as the Agema 210 in order to prevent some future use of more expensive, more technical equipment that, he alleges, will result in an invasion of privacy. While it is true that other technology may be, or may become so advanced that it could unlawfully penetrate the walls of our homes or be otherwise unacceptably intrusive, this is not the case before us.",
+"type": "majority",
+"author": "MANION, Circuit Judge."
+}
+],
+"attorneys": [
+"Victoria Ursulskis, Donna Eide (argued), Office of U.S. Atty., Indianapolis, IN, for plaintiff-appellee.",
+"Stephen Dillon, Andrew C. Maternowski (argued), Indianapolis, IN, for defendant-appellant."
+],
+"corrections": "",
+"head_matter": "UNITED STATES of America, Plaintiff-Appellee, v. Dale E. MYERS, Defendant-Appellant.\nNo. 94-1912.\nUnited States Court of Appeals, Seventh Circuit.\nArgued Dec. 1, 1994.\nDecided Feb. 1, 1995.\nVictoria Ursulskis, Donna Eide (argued), Office of U.S. Atty., Indianapolis, IN, for plaintiff-appellee.\nStephen Dillon, Andrew C. Maternowski (argued), Indianapolis, IN, for defendant-appellant.\nBefore CUDAHY, ESCHBACH, and MANION, Circuit Judges."
+},
+"file_name": "0668-01",
+"first_page_order": 768,
+"last_page_order": 770
+}

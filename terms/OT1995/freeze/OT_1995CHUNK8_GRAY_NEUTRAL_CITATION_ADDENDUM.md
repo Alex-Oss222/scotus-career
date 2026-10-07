@@ -1,0 +1,31 @@
+# Gray — neutral lower-court citation and posture addendum
+
+**Status:** Clean neutral source validation, October 7, 2026. Read with the frozen [Gray neutral packet](OT_1995CHUNK8_GRAY_NEUTRAL_VALIDATED.md); that packet and the approved brief remain unchanged. This addendum corrects source identification and supplies attributed lower-court details, not a new adjudication or a merits commitment.
+
+## Correct citation and reading receipt
+
+The relevant appellate judgment is **Gray v. Thompson, 58 F.3d 59 (4th Cir. 1995), Nos. 94-4009 and 94-4011, decided June 28, 1995**, after argument May 3. The frozen packet's citation to **66 F.3d 1358** is incorrect and must not be propagated.
+
+Source: the preserved [CAP primary text and metadata](../sources/CHUNK8_C/Gray_CA4_58F3d59.json), identifying the official citation, court, docket numbers and date. This validator read the entire majority opinion, its appended footnotes and Hall's entire concurrence, together with the head matter and metadata. No same-case Supreme Court source, private/control file, comparator or raw Decision Record was read. No Git operation or prohibited-directory inspection occurred.
+
+Wilkinson wrote the majority opinion, joined by Wilkins. Hall concurred in the judgment and joined the opinion except Part II-B. The reviewed posture remains reversal of a federal sentencing-habeas grant, not affirmance of a denial. Part IV **reverses the District Court judgment and remands with directions to dismiss the petition**. The opinion reports that the District Court's habeas decision had been stayed pending the appeal; this does not independently establish any later Supreme Court stay or its duration.
+
+## Material lower-court reasoning and preservation nuances
+
+1. **Part II-B's rule framing is disputed within the lower court.** The majority frames Gray's notice claim as entitlement to adequate advance notice of particular evidence and holds the requested rule new under Teague. It distinguishes Gardner's undisclosed sentencing information from evidence disclosed and presented in open court, relies on the opportunity to cross-examine and testify, and states that no formal continuance request was made. It also expresses an adverse view of whether earlier notice would materially have changed the defense. These are the appellate court's reasons and characterizations, not independent neutral findings displacing the contrary District Court findings or the trial exchange preserved in the JA extraction.
+
+2. **Hall supplies a distinct alternative ground, not an additional join in the Teague rationale.** He reserves the precise rule and its novelty, considers it at least arguable that Gardner dictated relief for the alleged deliberate ambush, and criticizes framing the rule too narrowly. He nevertheless would deny relief because, in his account, Gray failed to request factual development in state habeas and failed to show cause and prejudice under Keeney for the federal hearing. This is an express lower separate-writing position, not a validated universal default finding or a Court holding. Its factual premise and actual current-law basis remain subject to the source-specific comparison already required by the frozen packet.
+
+3. **The surviving-aggravator question is expressly reserved.** Footnote 1 records Gray's contention that invalidating the future-danger component would vitiate the sentence and the Commonwealth's contention that the independent vileness finding could sustain it. The majority says its disposition makes reaching that disagreement unnecessary. Do not describe the judgment below as resting on an independently sufficient surviving-vileness holding. Actual current Tuggle remains the governing later public authority within its own scope.
+
+4. **Separate Smallwood rulings do not resolve every Sorrell claim.** Part III affirms default treatment of nondisclosure of impeachment concerning Jeremiah Smallwood and alleged Smallwood perjury, reasoning that counsel possessed the material when state habeas was filed but omitted those claims. It separately rejects investigator-assistance and guilt-sufficiency alternatives. Those are distinct lower rulings and do not automatically establish exhaustion, abandonment or default of the Sorrell Brady or affirmative-deception theories. The opening general statement that Gray exhausted state remedies is likewise not a claim-specific finding overriding the opinion's later distinctions.
+
+5. **Timothy Sorrell discussion does not replace examination of the appellate Brady presentation.** The majority's appended footnote describes extensive briefing about Timothy's status as an initial suspect, rejects conducting a comparative mini-trial, and rests on its view of the absence of federal error in the notice analysis. This source does not by itself establish the exact independent Brady question presented by Fourth Circuit brief page 30 note 10 or settle the Commonwealth's later appellate-abandonment contention. The underlying brief and federal order remain distinct sources.
+
+The separate vileness-instruction issue and other alternatives were addressed below but are not thereby added to the supplied in-world Supreme Court review scope. A later correction of the challenged appellate reasoning would not automatically reinstate every lower habeas ground or reverse the guilt judgments.
+
+## Current-law and source limits
+
+The lower opinion's post-divergence Supreme Court citations establish its reasoning, not governing law independent of the actual Holdings, Standards and current public projection. Its versions of Caspari, Teague-related doctrine or Keeney must be checked against their actual controlling status before adoption. The original source's OCR defects and judicial factual characterizations do not license invented testimony, formal motions or findings.
+
+This citation correction changes neither the supplied review scope nor the basic appellate posture. Fresh modeling must also receive the material attributed reasoning above. Exact claim presentation, factual development and any legally sufficient default remain open as identified in the frozen neutral packet. This addendum selects no judgment, remedy or current Court vote.

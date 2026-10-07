@@ -1,0 +1,1442 @@
+SOURCE: https://www.ussc.gov/sites/default/files/pdf/guidelines-manual/1992/manual-pdf/Chapter_1.pdf
+
+[[PDF page 1]]
+CHAPTER ONE - INTRODUCTION
+AND GENERAL APPLICATION PRINCIPLES
+PART A - INTRODUCTION
+1. Authority
+The United States Sentencing Commission ("Commission") is an independent agency in the
+judicial branch composed of seven voting and two non-voting, ex officio members. Its principal
+purpose is to establish sentencing policies and practices for the federal criminal justice system that
+will assure the ends of justice by promulgating detailed guidelines prescribing the appropriate
+sentences for offenders convicted of federal crimes.
+The guidelines and policy statements promulgated by the Commission are issued pursuant
+to Section 994(a) of Title 28, United States Code.
+2. The Statutory Mission
+The Sentencing Reform Act of 1984 (Title II of the Comprehensive Crime Control Act of
+1984) provides for the development of guidelines that will further the basic purposes of criminal
+punishment: deterrence, incapacitation, just punishment, and rehabilitation. The Act delegates
+broad authority to the Commission to review and rationalize the federal sentencing process.
+The Act contains detailed instructions as to how this determination should be made, the
+most important of which directs the Commission to create categories of offense behavior and
+offender characteristics. An offense behavior category might consist, for example, of "bank
+robbery/committed with a gun/$2500 taken." An offender characteristic category might be
+"offender with one prior conviction not resulting in imprisonment." The Commission is required
+to prescribe guideline ranges that specify an appropriate sentence for each class of convicted
+persons determined by coordinating the offense behavior categories with the offender characteristic
+categories. Where the guidelines call for imprisonment, the range must be narrow: the maximum
+of the range cannot exceed the minimum by more than the greater of 25 percent or six months.
+28 U.S.C. § 994(b)(2).
+Pursuant to the Act, the sentencing court must select a sentence from within the guideline
+range. If, however, a particular case presents atypical features, the Act allows the court to depart
+from the guidelines and sentence outside the prescribed range. In that case, the court must
+specify reasons for departure. 18 U.S.C. § 3553(b). If the court sentences within the guideline
+range, an appellate court may review the sentence to determine whether the guidelines were
+correctly applied. If the court departs from the guideline range, an appellate court may review
+the reasonableness of the departure. 18 U.S.C. § 3742. The Act also abolishes parole, and
+substantially reduces and restructures good behavior adjustments.
+The Commission's initial guidelines were submitted to Congress on April 13, 1987. After
+the prescribed period of Congressional review, the guidelines took effect on November 1, 1987,
+and apply to all offenses committed on or after that date. The Commission has the authority to
+submit guideline amendments each year to Congress between the beginning of a regular
+Congressional session and May 1. Such amendments automatically take effect 180 days after
+submission unless a law is enacted to the contrary. 28 U.S.C. § 994(p).
+November 1, 1992
+
+[[PDF page 2]]
+The initial sentencing guidelines and policy statements were developed after extensive
+hearings, deliberation, and consideration of substantial public comment. The Commission
+emphasizes, however, that it views the guideline-writing process as evolutionary. It expects, and
+the governing statute anticipates, that continuing research, experience, and analysis will result in
+modifications and revisions to the guidelines through submission of amendments to Congress. To
+this end, the Commission is established as a permanent agency to monitor sentencing practices
+in the federal courts.
+3. The Basic Approach (Policy Statement)
+To understand the guidelines and their underlying rationale, it is important to focus on the
+three objectives that Congress sought to achieve in enacting the Sentencing Reform Act of 1984.
+The Act's basic objective was to enhance the ability of the criminal justice system to combat crime
+through an effective, fair sentencing system. To achieve this end, Congress first sought honesty
+in sentencing. It sought to avoid the confusion and implicit deception that arose out of the pre-
+guidelines sentencing system which required the court to impose an indeterminate sentence of
+imprisonment and empowered the parole commission to determine how much of the sentence an
+offender actually would serve in prison. This practice usually resulted in a substantial reduction
+in the effective length of the sentence imposed, with defendants often serving only about one-third
+of the sentence imposed by the court.
+Second, Congress sought reasonable uniformity in sentencing by narrowing the wide disparity
+in sentences imposed for similar criminal offenses committed by similar offenders. Third,
+Congress sought proportionality in sentencing through a system that imposes appropriately
+different sentences for criminal conduct of differing severity.
+Honesty is easy to achieve: the abolition of parole makes the sentence imposed by the court
+the sentence the offender will serve, less approximately fifteen percent for good behavior. There
+is a tension, however, between the mandate of uniformity and the mandate of proportionality.
+Simple uniformity — sentencing every offender to five years -- destroys proportionality. Having
+only a few simple categories of crimes would make the guidelines uniform and easy to administer,
+but might lump together offenses that are different in important respects. For example, a single
+category for robbery that included armed and unarmed robberies, robberies with and without
+injuries, robberies of a few dollars and robberies of millions, would be far too broad.
+A sentencing system tailored to fit every conceivable wrinkle of each case would quickly
+become unworkable and seriously compromise the certainty of punishment and its deterrent effect.
+For example: a bank robber with (or without) a gun, which the robber kept hidden (or
+brandished), might have frightened (or merely warned), injured seriously (or less seriously), tied
+up (or simply pushed) a guard, teller, or customer, at night (or at noon), in an effort to obtain
+money for other crimes (or for other purposes), in the company of a few (or many) other robbers,
+for the first (or fourth) time.
+The list of potentially relevant features of criminal behavior is long; the fact that they can
+occur in multiple combinations means that the list of possible permutations of factors is virtually
+endless. The appropriate relationships among these different factors are exceedingly difficult to
+establish, for they are often context specific. Sentencing courts do not treat the occurrence of a
+simple bruise identically in all cases, irrespective of whether that bruise occurred in the context
+of a bank robbery or in the context of a breach of peace. This is so, in part, because the risk that
+such a harm will occur differs depending on the underlying offense with which it is connected; and
+also because, in part, the relationship between punishment and multiple harms is not simply
+additive. The relation varies depending on how much other harm has occurred. Thus, it would
+November 1, 1992
+
+[[PDF page 3]]
+not be proper to assign points for each kind of harm and simply add them up, irrespective of
+context and total amounts.
+The larger the number of subcategories of offense and offender characteristics included in
+the guidelines, the greater the complexity and the less workable the system. Moreover, complex
+combinations of offense and offender characteristics would apply and interact in unforeseen ways
+to unforeseen situations, thus failing to cure the unfairness of a simple, broad category system.
+Finally, and perhaps most importantly, probation officers and courts, in applying a complex system
+having numerous subcategories, would be required to make a host of decisions regarding whether
+the underlying facts were sufficient to bring the case within a particular subcategory. The greater
+the number of decisions required and the greater their complexity, the greater the risk that
+different courts would apply the guidelines differently to situations that, in fact, are similar,
+thereby reintroducing the very disparity that the guidelines were designed to reduce.
+In view of the arguments, it would have been tempting to retreat to the simple, broad
+category approach and to grant courts the discretion to select the proper point along a broad
+sentencing range. Granting such broad discretion, however, would have risked correspondingly
+broad disparity in sentencing, for different courts may exercise their discretionary powers in
+different ways. Such an approach would have risked a return to the wide disparity that Congress
+established the Commission to reduce and would have been contrary to the Commission's mandate
+set forth in the Sentencing Reform Act of 1984.
+In the end, there was no completely satisfying solution to this problem. The Commission
+had to balance the comparative virtues and vices of broad, simple categorization and detailed,
+complex subcategorization, and within the constraints established by that balance, minimize the
+discretionary powers of the sentencing court. Any system will, to a degree, enjoy the benefits and
+suffer from the drawbacks of each approach.
+A philosophical problem arose when the Commission attempted to reconcile the differing
+perceptions of the purposes of criminal punishment. Most observers of the criminal law agree that
+the ultimate aim of the law itself, and of punishment in particular, is the control of crime. Beyond
+this point, however, the consensus seems to break down. Some argue that appropriate punishment
+should be defined primarily on the basis of the principle of "just deserts." Under this principle,
+punishment should be scaled to the offender's culpability and the resulting harms. Others argue
+that punishment should be imposed primarily on the basis of practical "crime control"
+considerations. This theory calls for sentences that most effectively lessen the likelihood of future
+crime, either by deterring others or incapacitating the defendant.
+Adherents of each of these points of view urged the Commission to choose between them
+and accord one primacy over the other. As a practical matter, however, this choice was
+unnecessary because in most sentencing decisions the application of either philosophy will produce
+the same or similar results.
+In its initial set of guidelines, the Commission sought to solve both the practical and
+philosophical problems of developing a coherent sentencing system by taking an empirical
+approach that used as a starting point data estimating pre-guidelines sentencing practice. It
+analyzed data drawn from 10,000 presentence investigations, the differing elements of various
+crimes as distinguished in substantive criminal statutes, the United States Parole Commission's
+guidelines and statistics, and data from other relevant sources in order to determine which
+distinctions were important in pre-guidelines practice. After consideration, the Commission
+accepted, modified, or rationalized these distinctions.
+November 1, 1992
+
+[[PDF page 4]]
+This empirical approach helped the Commission resolve its practical problem by defining a
+list of relevant distinctions that, although of considerable length, was short enough to create a
+manageable set of guidelines. Existing categories are relatively broad and omit distinctions that
+some may believe important, yet they include most of the major distinctions that statutes and data
+suggest made a significant difference in sentencing decisions. Relevant distinctions not reflected
+in the guidelines probably will occur rarely and sentencing courts may take such unusual cases into
+account by departing from the guidelines.
+The Commission's empirical approach also helped resolve its philosophical dilemma. Those
+who adhere to a just deserts philosophy may concede that the lack of consensus might make it
+difficult to say exactly what punishment is deserved for a particular crime. Likewise, those who
+subscribe to a philosophy of crime control may acknowledge that the lack of sufficient data might
+make it difficult to determine exactly the punishment that will best prevent that crime. Both
+groups might therefore recognize the wisdom of looking to those distinctions that judges and
+legislators have, in fact, made over the course of time. These established distinctions are ones
+that the community believes, or has found over time, to be important from either a just deserts
+or crime control perspective.
+The Commission did not simply copy estimates of pre-guidelines practice as revealed by the
+data, even though establishing offense values on this basis would help eliminate disparity because
+the data represent averages. Rather, it departed from the data at different points for various
+important reasons. Congressional statutes, for example, suggested or required departure, as in
+the case of the Anti-Drug Abuse Act of 1986 that imposed increased and mandatory minimum
+sentences. In addition, the data revealed inconsistencies in treatment, such as punishing economic
+crime less severely than other apparently equivalent behavior.
+Despite these policy-oriented departures from pre-guidelines practice, the guidelines
+represent an approach that begins with, and builds upon, empirical data. The guidelines will not
+please those who wish the Commission to adopt a single philosophical theory and then work
+deductively to establish a simple and perfect set of categorizations and distinctions. The guidelines
+may prove acceptable, however, to those who seek more modest, incremental improvements in the
+status quo, who believe the best is often the enemy of the good, and who recognize that these
+guidelines are, as the Act contemplates, but the first step in an evolutionary process. After
+spending considerable time and resources exploring alternative approaches, the Commission
+developed these guidelines as a practical effort toward the achievement of a more honest, uniform,
+equitable, proportional, and therefore effective sentencing system.
+4. The Guidelines' Resolution of Maior Issues (Policy Statement)
+The guideline-drafting process required the Commission to resolve a host of important policy
+questions typically involving rather evenly balanced sets of competing considerations. As an aid
+to understanding the guidelines, this introduction briefly discusses several of those issues;
+commentary in the guidelines explains others.
+(a) Real Offense vs. Charge Offense Sentencing.
+One of the most important questions for the Commission to decide was whether to base
+sentences upon the actual conduct in which the defendant engaged regardless of the charges for
+which he was indicted or convicted ("real offense" sentencing), or upon the conduct that constitutes
+the elements of the offense for which the defendant was charged and of which he was convicted
+("charge offense" sentencing). A bank robber, for example, might have used a gun, frightened
+bystanders, taken $50,000, injured a teller, refused to stop when ordered, and raced away damaging
+4 November 1, 1992
+
+[[PDF page 5]]
+property during his escape. A pure real offense system would sentence on the basis of all
+identifiable conduct. A pure charge offense system would overlook some of the harms that did
+not constitute statutory elements of the offenses of which the defendant was convicted.
+The Commission initially sought to develop a pure real offense system. After all, the pre-
+guidelines sentencing system was, in a sense, this type of system. The sentencing court and the
+parole commission took account of the conduct in which the defendant actually engaged, as
+determined in a presentence report, at the sentencing hearing, or before a parole commission
+hearing officer. The Commission's initial efforts in this direction, carried out in the spring and
+early summer of 1986, proved unproductive, mostly for practical reasons. To make such a system
+work, even to formalize and rationalize the status quo, would have required the Commission to
+decide precisely which harms to take into account, how to add them up, and what kinds of
+procedures the courts should use to determine the presence or absence of disputed factual
+elements. The Commission found no practical way to combine and account for the large number
+of diverse harms arising in different circumstances; nor did it find a practical way to reconcile the
+need for a fair adjudicatory procedure with the need for a speedy sentencing process given the
+potential existence of hosts of adjudicated "real harm" facts in many typical cases. The effort
+proposed as a solution to these problems required the use of, for example, quadratic roots and
+other mathematical operations that the Commission considered too complex to be workable. In
+the Commission's view, such a system risked return to wide disparity in sentencing practice.
+In its initial set of guidelines submitted to Congress in April 1987, the Commission moved
+closer to a charge offense system. This system, however, does contain a significant number of real
+offense elements. For one thing, the hundreds of overlapping and duplicative statutory provisions
+that make up the federal criminal law forced the Commission to write guidelines that are
+descriptive of generic conduct rather than guidelines that track purely statutory language. For
+another, the guidelines take account of a number of important, commonly occurring real offense
+elements such as role in the offense, the presence of a gun, or the amount of money actually
+taken, through alternative base offense levels, specific offense characteristics, cross references, and
+adjustments.
+The Commission recognized that a charge offense system has drawbacks of its own. One
+of the most important is the potential it affords prosecutors to influence sentences by increasing
+or decreasing the number of counts in an indictment. Of course, the defendant's actual conduct
+(that which the prosecutor can prove in court) imposes a natural limit upon the prosecutor's
+ability to increase a defendant's sentence. Moreover, the Commission has written its rules for the
+treatment of multicount convictions with an eye toward eliminating unfair treatment that might
+flow from count manipulation. For example, the guidelines treat a three-count indictment, each
+count of which charges sale of 100 grams of heroin or theft of $10,000, the same as a single-count
+indictment charging sale of 300 grams of heroin or theft of $30,000. Furthermore, a sentencing
+court may control any inappropriate manipulation of the indictment through use of its departure
+power. Finally, the Commission will closely monitor charging and plea agreement practices and
+will make appropriate adjustments should they become necessary.
+(b) Departures.
+The sentencing statute permits a court to depart from a guideline-specified sentence only
+when it finds "an aggravating or mitigating circumstance of a kind, or to a degree, not adequately
+taken into consideration by the Sentencing Commission in formulating the guidelines that should
+result in a sentence different from that described." 18 U.S.C. § 3553(b). The Commission intends
+the sentencing courts to treat each guideline as carving out a "heartland," a set of typical cases
+embodying the conduct that each guideline describes. When a court finds an atypical case, one
+to which a particular guideline linguistically applies but where conduct significantly differs from
+5 November 1, 1992
+
+[[PDF page 6]]
+the norm, the court may consider whether a departure is warranted. Section 5H1.10 (Race, Sex,
+National Origin, Creed, Religion, and Socio-Economic Status), §5H1.12 (Lack of Guidance as a
+Youth and Similar Circumstances), the third sentence of §5H1.4 (Physical Condition, Including
+Drug Dependence and Alcohol Abuse), and the last sentence of §5K2.12 (Coercion and Duress)
+list several factors that the court cannot take into account as grounds for departure. With those
+specific exceptions, however, the Commission does not intend to limit the kinds of factors, whether
+or not mentioned anywhere else in the guidelines, that could constitute grounds for departure in
+an unusual case.
+The Commission has adopted this departure policy for two reasons. First, it is difficult to
+prescribe a single set of guidelines that encompasses the vast range of human conduct potentially
+relevant to a sentencing decision. The Commission also recognizes that the initial set of guidelines
+need not do so. The Commission is a permanent body, empowered by law to write and rewrite
+guidelines, with progressive changes, over many years. By monitoring when courts depart from
+the guidelines and by analyzing their stated reasons for doing so and court decisions with
+references thereto, the Commission, over time, will be able to refine the guidelines to specify more
+precisely when departures should and should not be permitted.
+Second, the Commission believes that despite the courts' legal freedom to depart from the
+guidelines, they will not do so very often. This is because the guidelines, offense by offense, seek
+to take account of those factors that the Commission's data indicate made a significant difference
+in pre-guidelines sentencing practice. Thus, for example, where the presence of physical injury
+made an important difference in pre-guidelines sentencing practice (as in the case of robbery or
+assault), the guidelines specifically include this factor to enhance the sentence. Where the
+guidelines do not specify an augmentation or diminution, this is generally because the sentencing
+data did not permit the Commission to conclude that the factor was empirically important in
+relation to the particular offense. Of course, an important factor (e.g.. physical injury) may
+infrequently occur in connection with a particular crime (e.g.. fraud). Such rare occurrences are
+precisely the type of events that the courts' departure powers were designed to cover — unusual
+cases outside the range of the more typical offenses for which the guidelines were designed.
+It is important to note that the guidelines refer to two different kinds of departure. The first
+involves instances in which the guidelines provide specific guidance for departure by analogy or
+by other numerical or non-numerical suggestions. For example, the Commentary to §2G1.1
+(Transportation for the Purpose of Prostitution or Prohibited Sexual Conduct) recommends a
+downward departure of eight levels where a commercial purpose was not involved. The
+Commission intends such suggestions as policy guidance for the courts. The Commission expects
+that most departures will reflect the suggestions and that the courts of appeals may prove more
+likely to find departures "unreasonable" where they fall outside suggested levels.
+A second type of departure will remain unguided. It may rest upon grounds referred to in
+Chapter Five, Part K (Departures) or on grounds not mentioned in the guidelines. While Chapter
+Five, Part K lists factors that the Commission believes may constitute grounds for departure, the
+list is not exhaustive. The Commission recognizes that there may be other grounds for departure
+that are not mentioned; it also believes there may be cases in which a departure outside suggested
+levels is warranted. In its view, however, such cases will be highly infrequent.
+(c) Plea Agreements.
+Nearly ninety percent of all federal criminal cases involve guilty pleas and many of these
+cases involve some form of plea agreement. Some commentators on early Commission guideline
+drafts urged the Commission not to attempt any major reforms of the plea agreement process on
+the grounds that any set of guidelines that threatened to change pre-guidelines practice radically
+6 November 1, 1992
+
+[[PDF page 7]]
+also threatened to make the federal system unmanageable. Others argued that guidelines that
+failed to control and limit plea agreements would leave untouched a "loophole" large enough to
+undo the good that sentencing guidelines would bring.
+The Commission decided not to make major changes in plea agreement practices in the
+initial guidelines, but rather to provide guidance by issuing general policy statements concerning
+the acceptance of plea agreements in Chapter Six, Part B (Plea Agreements). The rules set forth
+in Fed. R. Crim. P. ll(e) govern the acceptance or rejection of such agreements. The
+Commission will collect data on the courts' plea practices and will analyze this information to
+determine when and why the courts accept or reject plea agreements and whether plea agreement
+practices are undermining the intent of the Sentencing Reform Act. In light of this information
+and analysis, the Commission will seek to further regulate the plea agreement process as
+appropriate. Importantly, if the policy statements relating to plea agreements are followed,
+circumvention of the Sentencing Reform Act and the guidelines should not occur.
+The Commission expects the guidelines to have a positive, rationalizing impact upon plea
+agreements for two reasons. First, the guidelines create a clear, definite expectation in respect
+to the sentence that a court will impose if a trial takes place. In the event a prosecutor and
+defense attorney explore the possibility of a negotiated plea, they will no longer work in the dark.
+This fact alone should help to reduce irrationality in respect to actual sentencing outcomes.
+Second, the guidelines create a norm to which courts will likely refer when they decide whether,
+under Rule ll(e), to accept or to reject a plea agreement or recommendation.
+(d) Probation and Split Sentences.
+The statute provides that the guidelines are to "reflect the general appropriateness of
+imposing a sentence other than imprisonment in cases in which the defendant is a first offender
+who has not been convicted of a crime of violence or an otherwise serious offense . ..."
+28 U.S.C. § 994(j). Under pre-guidelines sentencing practice, courts sentenced to probation an
+inappropriately high percentage of offenders guilty of certain economic crimes, such as theft, tax
+evasion, antitrust offenses, insider trading, fraud, and embezzlement, that in the Commission's view
+are "serious."
+The Commission's solution to this problem has been to write guidelines that classify as
+serious many offenses for which probation previously was frequently given and provide for at least
+a short period of imprisonment in such cases. The Commission concluded that the definite
+prospect of prison, even though the term may be short, will serve as a significant deterrent,
+particularly when compared with pre-guidelines practice where probation, not prison, was the
+norm.
+More specifically, the guidelines work as follows in respect to a first offender. For offense
+levels one through six, the sentencing court may elect to sentence the offender to probation (with
+or without confinement conditions) or to a prison term. For offense levels seven through ten, the
+court may substitute probation for a prison term, but the probation must include confinement
+conditions (community confinement, intermittent confinement, or home detention). For offense
+levels eleven and twelve, the court must impose at least one-half the minimum confinement
+sentence in the form of prison confinement, the remainder to be served on supervised release with
+a condition of community confinement or home detention. The Commission, of course, has not
+dealt with the single acts of aberrant behavior that still may justify probation at higher offense
+levels through departures.
+November 1, 1992
+
+[[PDF page 8]]
+(e) Multi-Count Convictions.
+The Commission, like several state sentencing commissions, has found it particularly difficult
+to develop guidelines for sentencing defendants convicted of multiple violations of law, each of
+which makes up a separate count in an indictment. The difficulty is that when a defendant
+engages in conduct that causes several harms, each additional harm, even if it increases the extent
+to which punishment is warranted, does not necessarily warrant a proportionate increase in
+punishment. A defendant who assaults others during a fight, for example, may warrant more
+punishment if he injures ten people than if he injures one, but his conduct does not necessarily
+warrant ten times the punishment. If it did, many of the simplest offenses, for reasons that are
+often fortuitous, would lead to sentences of life imprisonment -- sentences that neither just deserts
+nor crime control theories of punishment would justify.
+Several individual guidelines provide special instructions for increasing punishment when the
+conduct that is the subject of that count involves multiple occurrences or has caused several
+harms. The guidelines also provide general rules for aggravating punishment in light of multiple
+harms charged separately in separate counts. These rules may produce occasional anomalies, but
+normally they will permit an appropriate degree of aggravation of punishment for multiple offenses
+that are the subjects of separate counts.
+These rules are set out in Chapter Three, Part D (Multiple Counts). They essentially
+provide: (1) when the conduct involves fungible items (e.g., separate drug transactions or thefts
+of money), the amounts are added and the guidelines apply to the total amount; (2) when
+nonfungible harms are involved, the offense level for the most serious count is increased
+(according to a diminishing scale) to reflect the existence of other counts of conviction. The
+guidelines have been written in order to minimize the possibility that an arbitrary casting of a
+single transaction into several counts will produce a longer sentence. In addition, the sentencing
+court will have adequate power to prevent such a result through departures.
+(f) Regulatory Offenses.
+Regulatory statutes, though primarily civil in nature, sometimes contain criminal provisions
+in respect to particularly harmful activity. Such criminal provisions often describe not only
+substantive offenses, but also more technical, administratively-related offenses such as failure to
+keep accurate records or to provide requested information. These statutes pose two problems:
+first, which criminal regulatory provisions should the Commission initially consider, and second,
+how should it treat technical or administratively-related criminal violations?
+In respect to the first problem, the Commission found that it could not comprehensively treat
+all regulatory violations in the initial set of guidelines. There are hundreds of such provisions
+scattered throughout the United States Code. To find all potential violations would involve
+examination of each individual federal regulation. Because of this practical difficulty, the
+Commission sought to determine, with the assistance of the Department of Justice and several
+regulatory agencies, which criminal regulatory offenses were particularly important in light of the
+need for enforcement of the general regulatory scheme. The Commission addressed these offenses
+in the initial guidelines.
+In respect to the second problem, the Commission has developed a system for treating
+technical recordkeeping and reporting offenses that divides them into four categories. First, in
+the simplest of cases, the offender may have failed to fill out a form intentionally, but without
+knowledge or intent that substantive harm would likely follow. He might fail, for example, to keep
+an accurate record of toxic substance transport, but that failure may not lead, nor be likely to
+lead, to the release or improper handling of any toxic substance. Second, the same failure may
+8 November 1, 1992
+
+[[PDF page 9]]
+be accompanied by a significant likelihood that substantive harm will occur; it may make a release
+of a toxic substance more likely. Third, the same failure may have led to substantive harm.
+Fourth, the failure may represent an effort to conceal a substantive harm that has occurred.
+The structure of a typical guideline for a regulatory offense provides a low base offense level
+(e.g.. 6) aimed at the first type of recordkeeping or reporting offense. Specific offense
+characteristics designed to reflect substantive harms that do occur in respect to some regulatory
+offenses, or that are likely to occur, increase the offense level. A specific offense characteristic
+also provides that a recordkeeping or reporting offense that conceals a substantive offense will
+have the same offense level as the substantive offense.
+(g) Sentencing Ranges.
+In determining the appropriate sentencing ranges for each offense, the Commission
+estimated the average sentences served within each category under the pre-guidelines sentencing
+system. It also examined the sentences specified in federal statutes, in the parole guidelines, and
+in other relevant, analogous sources. The Commission's Supplementary Report on the Initial
+Sentencing Guidelines (1987) contains a comparison between estimates of pre-guidelines
+sentencing practice and sentences under the guidelines.
+While the Commission has not considered itself bound by pre-guidelines sentencing practice,
+it has not attempted to develop an entirely new system of sentencing on the basis of theory alone.
+Guideline sentences, in many instances, will approximate average pre-guidelines practice and
+adherence to the guidelines will help to eliminate wide disparity. For example, where a high
+percentage of persons received probation under pre-guidelines practice, a guideline may include
+one or more specific offense characteristics in an effort to distinguish those types of defendants
+who received probation from those who received more severe sentences. In some instances, short
+sentences of incarceration for all offenders in a category have been substituted for a pre-guidelines
+sentencing practice of very wide variability in which some defendants received probation while
+others received several years in prison for the same offense. Moreover, inasmuch as those who
+pleaded guilty under pre-guidelines practice often received lesser sentences, the guidelines permit
+the court to impose lesser sentences on those defendants who accept responsibility for their
+misconduct. For defendants who provide substantial assistance to the government in the
+investigation or prosecution of others, a downward departure may be warranted.
+The Commission has also examined its sentencing ranges in light of their likely impact upon
+prison population. Specific legislation, such as the Anti-Drug Abuse Act of 1986 and the career
+offender provisions of the Sentencing Reform Act of 1984 (28 U.S.C. § 994(h)), required the
+Commission to promulgate guidelines that will lead to substantial prison population increases.
+These increases will occur irrespective of the guidelines. The guidelines themselves, insofar as
+they reflect policy decisions made by the Commission (rather than legislated mandatory minimum
+or career offender sentences), are projected to lead to an increase in prison population that
+computer models, produced by the Commission and the Bureau of Prisons in 1987, estimated at
+approximately 10 percent over a period of ten years.
+(h) The Sentencing Table.
+The Commission has established a sentencing table that for technical and practical reasons
+contains 43 levels. Each level in the table prescribes ranges that overlap with the ranges in the
+preceding and succeeding levels. By overlapping the ranges, the table should discourage
+unnecessary litigation. Both prosecution and defense will realize that the difference between one
+level and another will not necessarily make a difference in the sentence that the court imposes.
+Thus, little purpose will be served in protracted litigation trying to determine, for example,
+9 November 1, 1992
+
+[[PDF page 10]]
+whether $10,000 or $11,000 was obtained as a result of a fraud. At the same time, the levels work
+to increase a sentence proportionately. A change of six levels roughly doubles the sentence
+irrespective of the level at which one starts. The guidelines, in keeping with the statutory
+requirement that the maximum of any range cannot exceed the minimum by more than the greater
+of 25 percent or six months (28 U.S.C. § 994(b)(2)), permit courts to exercise the greatest
+permissible range of sentencing discretion. The table overlaps offense levels meaningfully, works
+proportionately, and at the same time preserves the maximum degree of allowable discretion for
+the court within each level.
+Similarly, many of the individual guidelines refer to tables that correlate amounts of money
+with offense levels. These tables often have many rather than a few levels. Again, the reason is
+to minimize the likelihood of unnecessary litigation. If a money table were to make only a few
+distinctions, each distinction would become more important and litigation over which category an
+offender fell within would become more likely. Where a table has many small monetary
+distinctions, it minimizes the likelihood of litigation because the precise amount of money involved
+is of considerably less importance.
+5. A Concluding Note
+The Commission emphasizes that it drafted the initial guidelines with considerable caution.
+It examined the many hundreds of criminal statutes in the United States Code. It began with
+those that were the basis for a significant number of prosecutions and sought to place them in a
+rational order. It developed additional distinctions relevant to the application of these provisions
+and it applied sentencing ranges to each resulting category. In doing so, it relied upon pre-
+guidelines sentencing practice as revealed by its own statistical analyses based on summary reports
+of some 40,000 convictions, a sample of 10,000 augmented presentence reports, the parole
+guidelines, and policy judgments.
+The Commission recognizes that some will criticize this approach as overly cautious, as
+representing too little a departure from pre-guidelines sentencing practice. Yet, it will cure wide
+disparity. The Commission is a permanent body that can amend the guidelines each year.
+Although the data available to it, like all data, are imperfect, experience with the guidelines will
+lead to additional information and provide a firm empirical basis for consideration of revisions.
+Finally, the guidelines will apply to more than 90 percent of all felony and Class A
+misdemeanor cases in the federal courts. Because of time constraints and the nonexistence of
+statistical information, some offenses that occur infrequently are not considered in the guidelines.
+Their exclusion does not reflect any judgment regarding their seriousness and they will be
+addressed as the Commission refines the guidelines over time.
+Historical Note: Effective November 1, 1987. Amended effective November 1, 1989 (see Appendix C, amendments 67
+and 68); November 1, 1990 (see Appendix C, amendment 307); November 1, 1992 (see Appendix C, amendment 466).
+10 November 1, 1992
+
+[[PDF page 11]]
+PART B - GENERAL APPLICATION PRINCIPLES
+§1B1.1. Application Instructions
+(a) Determine the applicable offense guideline section from Chapter Two. See
+§1B1.2 (Applicable Guidelines). The Statutory Index (Appendix A) provides
+a listing to assist in this determination.
+(b) Determine the base offense level and apply any appropriate specific offense
+characteristics contained in the particular guideline in Chapter Two in the
+order listed.
+(c) Apply the adjustments as appropriate related to victim, role, and obstruction
+of justice from Parts A, B, and C of Chapter Three.
+(d) If there are multiple counts of conviction, repeat steps (a) through (c) for each
+count. Apply Part D of Chapter Three to group the various counts and adjust
+the offense level accordingly.
+(e) Apply the adjustment as appropriate for the defendant's acceptance of
+responsibility from Part E of Chapter Three.
+(f) Determine the defendant's criminal history category as specified in Part A of
+Chapter Four. Determine from Part B of Chapter Four any other applicable
+adjustments.
+(g) Determine the guideline range in Part A of Chapter Five that corresponds to
+the offense level and criminal history category determined above.
+(h) For the particular guideline range, determine from Parts B through G of
+Chapter Five the sentencing requirements and options related to probation,
+imprisonment, supervision conditions, fines, and restitution.
+(i) Refer to Parts H and K of Chapter Five, Specific Offender Characteristics and
+Departures, and to any other policy statements or commentary in the
+guidelines that might warrant consideration in imposing sentence.
+Commentary
+Application Notes:
+I The following are definitions of terms that are used frequently in the guidelines and are of
+general applicability (except to the extent expressly modified in respect to a particular guideline
+or policy statement):
+(a) 'Abducted" means that a victim was forced to accompany an offender to a different
+location. For example, a bank robber's forcing a bank teller from the bank into a
+getaway car would constitute an abduction.
+(b) "Bodily injury" means any significant injury; e& an injury that is painful and obvious,
+or is of a type for which medical attention ordinarily would be sought. As used in the
+11 November 1, 1992
+
+[[PDF page 12]]
+guidelines, the definition of this term is somewhat different than that used in various
+statutes.
+(c) "Brandished" with reference to a dangerous weapon (including a firearm) means that the
+weapon was pointed or waved about, or displayed in a threatening manner.
+(d) "Dangerous weapon" means an instrument capable of inflicting death or serious bodily
+injury. Where an object that appeared to be a dangerous weapon was brandished,
+displayed, or possessed, treat the object as a dangerous weapon.
+(e) "Firearm" means (i) any weapon (including a starter gun) which will or is designed to
+or may readily be converted to expel a projectile by the action of an explosive; (ii) the
+frame or receiver of any such weapon; (Hi) any firearm muffler or silencer; or (iv) any
+destructive device. A weapon, commonly known as a "BB" or pellet gun, that uses air
+or carbon dioxide pressure to expel a projectile is a dangerous weapon but not a firearm.
+(f) "More than minimal planning" means more planning than is typical for commission of
+the offense in a simple form. "More than minimal planning" also exists if significant
+affirmative steps were taken to conceal the offense, other than conduct to which §3C1.1
+(Obstructing or Impeding the Administration of Justice) applies.
+"More than minimal planning" is deemed present in any case involving repeated acts over
+a period of time, unless it is clear that each instance was purely opportune.
+Consequently, this adjustment will apply especially frequently in property offenses.
+In an assault, for example, waiting to commit the offense when no witnesses were present
+would not alone constitute more than minimal planning. By contrast, luring the victim
+to a specific location, or wearing a ski mask to prevent identification, would constitute
+more than minimal planning.
+In a commercial burglary, for example, checking the area to make sure no witnesses were
+present would not alone constitute more than minimal planning. By contrast, obtaining
+building plans to plot a particular course of entry, or disabling an alarm system, would
+constitute more than minimal planning.
+In a theft, going to a secluded area of a store to conceal the stolen item in one's pocket
+would not alone constitute more than minimal planning. However, repeated instances
+of such thefts on several occasions would constitute more than minimal planning.
+Similarly, fashioning a special device to conceal the property, or obtaining information
+on delivery dates so that an especially valuable item could be obtained, would constitute
+more than minimal planning.
+In an embezzlement, a single taking accomplished by a false book entry would constitute
+only minimal planning. On the other hand, creating purchase orders to, and invoices
+from, a dummy corporation for merchandise that was never delivered would constitute
+more than minimal planning, as would several instances of taking money, each
+accompanied by false entries.
+(g) "Otherwise used" with reference to a dangerous weapon (including a firearm) means that
+the conduct did not amount to the discharge of a firearm but was more than
+brandishing, displaying, or possessing a firearm or other dangerous weapon.
+12 November 1, 1992
+
+[[PDF page 13]]
+(h) "Permanent or life-threatening bodily injury" means injury involving a substantial risk of
+death; loss or substantial impairment of the function of a bodily member, organ, or
+mental faculty that is likely to be permanent; or an obvious disfigurement that is likely
+to be permanent. In the case of a kidnapping, for example, maltreatment to a life-
+threatening degree (e&, by denial of food or medical care) would constitute life-
+threatening bodily injury.
+(i) "Physically restrained" means the forcible restraint of the victim such as by being tied,
+bound, or locked up.
+(j) "Serious bodily injury" means injury involving extreme physical pain or the impairment
+of a function of a bodily member, organ, or mental faculty; or requiring medical
+intervention such as surgery, hospitalization, or physical rehabilitation. As used in the
+guidelines, the definition of this term is somewhat different than that used in various
+statutes.
+(k) "Destructive device" means any article described in 26 U.S.C. § 5845(f) (including an
+explosive, incendiary, or poison gas (i) bomb, (ii) grenade, (Hi) rocket having a
+propellant charge of more than four ounces, (iv) missile having an explosive or
+incendiary charge of more than one-quarter ounce, (v) mine, or (vi) device similar to any
+of the devices described in the preceding clauses).
+(I) "Offense" means the offense of conviction and all relevant conduct under § IB 1.3
+(Relevant Conduct) unless a different meaning is specified or is otherwise clear from the
+context.
+2. Definitions of terms also may appear in other sections. Such definitions are not designed for
+general applicability; therefore, their applicability to sections other than those expressly
+referenced must be determined on a case by case basis.
+The term "includes" is not exhaustive; the term "ej>J' is merely illustrative.
+3. The list of "Statutory Provisions" in the Commentary to each offense guideline does not
+necessarily include every statute covered by that guideline. In addition, some statutes may be
+covered by more than one guideline.
+4. The offense level adjustments from more than one specific offense characteristic within an
+offense guideline are cumulative (added together) unless the guideline specifies that only the
+greater (or greatest) is to be used. Within each specific offense characteristic subsection,
+however, the offense level adjustments are alternative; only the one that best describes the
+conduct is to be used. E.g.. in §2A2.2(b)(3), pertaining to degree of bodily injury, the
+subdivision that best describes the level of bodily injury is used; the adjustments for different
+degrees of bodily injury (subdivisions (A)-(E)) are not added together.
+5. Where two or more guideline provisions appear equally applicable, but the guidelines authorize
+the application of only one such provision, use the provision that results in the greater offense
+level. E.g.. in §2A2.2(b)(2), if a firearm is both discharged and brandished, the provision
+applicable to the discharge of the firearm would be used.
+13 November 1, 1992
+
+[[PDF page 14]]
+6. In the case of a defendant subject to a sentence enhancement under 18 U.S.C. § 3147 (Penalty
+for an Offense Committed While on Release), see, §2J1.7 (Commission of Offense While on
+Release).
+Historical Note: Effective November 1, 1987. Amended effective January 15, 1988 (see Appendix C, amendment 1);
+November 1, 1989 (see Appendix C, amendments 69-72 and 303); November 1, 1990 (see Appendix C, amendment 361);
+November 1, 1991 (see Appendix C, amendment 388).
+§1B1.2. Applicable Guidelines
+(a) Determine the offense guideline section in Chapter Two (Offense Conduct)
+most applicable to the offense of conviction (Le., the offense conduct charged
+in the count of the indictment or information of which the defendant was
+convicted). Provided, however, in the case of a plea agreement (written or
+made orally on the record) containing a stipulation that specifically establishes
+a more serious offense than the offense of conviction, determine the offense
+guideline section in Chapter Two most applicable to the stipulated offense.
+(b) After determining the appropriate offense guideline section pursuant to
+subsection (a) of this section, determine the applicable guideline range in
+accordance with § IB 1.3 (Relevant Conduct).
+(c) A plea agreement (written or made orally on the record) containing a
+stipulation that specifically establishes the commission of additional offense(s)
+shall be treated as if the defendant had been convicted of additional count(s)
+charging those offense(s).
+(d) A conviction on a count charging a conspiracy to commit more than one
+offense shall be treated as if the defendant had been convicted on a separate
+count of conspiracy for each offense that the defendant conspired to commit.
+Commentary
+Application Notes:
+1. This section provides the basic rules for determining the guidelines applicable to the offense
+conduct under Chapter Two (Offense Conduct). As a general rule, the court is to use the
+guideline section from Chapter Two most applicable to the offense of conviction. The Statutory
+Index (Appendix A) provides a listing to assist in this determination. When a particular statute
+proscribes only a single type of criminal conduct, the offense of conviction and the conduct
+proscribed by the statute will coincide, and there will be only one offense guideline referenced.
+When a particular statute proscribes a variety of conduct that might constitute the subject of
+different offense guidelines, the court will determine which guideline section applies based upon
+the nature of the offense conduct charged in the count of which the defendant was convicted.
+However, there is a limited exception to this general rule. Where a stipulation that is set forth
+in a written plea agreement or made between the parties on the record during a plea proceeding
+specifically establishes facts that prove a more serious offense or offenses than the offense or
+offenses of conviction, the court is to apply the guideline most applicable to the more serious
+offense or offenses established. The sentence that may be imposed is limited, however, to the
+maximum authorized by the statute under which the defendant is convicted. See_ Chapter Five,
+14 November 1, 1992
+
+[[PDF page 15]]
+Part G (Implementing the Total Sentence of Imprisonment). For example, if the defendant
+pleads guilty to theft, but admits the elements of robbery as part of the plea agreement, the
+robbery guideline is to be applied. The sentence, however, may not exceed the maximum
+sentence for theft. See. H. Rep. 98-1017, 98th Cong., 2d Sess. 99 (1984).
+The exception to the general rule has a practical basis. In cases where the elements of an
+offense more serious than the offense of conviction are established by a plea agreement, it may
+unduly complicate the sentencing process if the applicable guideline does not reflect the
+seriousness of the defendant's actual conduct. Without this exception, the court would be
+forced to use an artificial guideline and then depart from it to the degree the court found
+necessary based upon the more serious conduct established by the plea agreement. The
+probation officer would first be required to calculate the guideline for the offense of conviction.
+However, this guideline might even contain characteristics that are difficult to establish or not
+very important in the context of the actual offense conduct. As a simple example, §2B1.1
+(Larceny, Embezzlement, and Other Forms of Theft) contains monetary distinctions which are
+more significant and more detailed than the monetary distinctions in §2B3.1 (Robbery). Then,
+the probation officer might need to calculate the robbery guideline to assist the court in
+determining the appropriate degree of departure in a case in which the defendant pled guilty to
+theft but admitted committing robbery. This cumbersome, artificial procedure is avoided by
+using the exception rule in guilty or nolo contendere plea cases where it is applicable.
+As with any plea agreement, the court must first determine that the agreement is acceptable, in
+accordance with the policies stated in Chapter Six, Part B (Plea Agreements). The limited
+exception provided here applies only after the court has determined that a plea, otherwise fitting
+the exception, is acceptable.
+2. Section lB1.2(b) directs the court, once it has determined the applicable guideline (Le^ the
+applicable guideline section from Chapter Two) under §lB1.2(a) to determine any applicable
+specific offense characteristics (under that guideline), and any other applicable sentencing
+factors pursuant to the relevant conduct definition in §1B1.3. Where there is more than one
+base offense level within a particular guideline, the determination of the applicable base offense
+level is treated in the same manner as a determination of a specific offense characteristic.
+Accordingly, the "relevant conduct" criteria of § IB 1.3 are to be used, unless conviction under
+a specific statute is expressly required.
+3. In many instances, it will be appropriate that the court consider the actual conduct of the
+offender, even when such conduct does not constitute an element of the offense. As described
+above, this may occur when an offender stipulates certain facts in a plea agreement. It is more
+typically so when the court considers the applicability of specific offense characteristics within
+individual guidelines, when it considers various adjustments, and when it considers whether
+or not to depart from the guidelines for reasons relating to offense conduct. See_ §§1B1.3
+(Relevant Conduct) and 1B1.4 (Information to be Used in Imposing Sentence).
+4. Subsections (c) and (d) address circumstances in which the provisions of Chapter Three, Part
+D (Multiple Counts) are to be applied although there may be only one count of conviction.
+Subsection (c) provides that in the case of a stipulation to the commission of additional
+offense(s), the guidelines are to be applied as if the defendant had been convicted of an
+additional count for each of the offenses stipulated. For example, if the defendant is convicted
+of one count of robbery but, as part of a plea agreement, admits to having committed two
+additional robberies, the guidelines are to be applied as if the defendant had been convicted
+of three counts of robbery. Subsection (d) provides that a conviction on a conspiracy count
+charging conspiracy to commit more than one offense is treated as if the defendant had been
+convicted of a separate conspiracy count for each offense that he conspired to commit. For
+15 November 1, 1992
+
+[[PDF page 16]]
+example, where a conviction on a single count of conspiracy establishes that the defendant
+conspired to commit three robberies, the guidelines are to be applied as if the defendant had
+been convicted on one count of conspiracy to commit the first robbery, one count of conspiracy
+to commit the second robbery, and one count of conspiracy to commit the third robbery.
+5. Particular care must be taken in applying subsection (d) because there are cases in which the
+verdict or plea does not establish which offense(s) was the object of the conspiracy. In such
+cases, subsection (d) should only be applied with respect to an object offense alleged in the
+conspiracy count if the court, were it sitting as a trier of fact, would convict the defendant of
+conspiring to commit that object offense. Note, however, if the object offenses specified in the
+conspiracy count would be grouped together under §3D1.2(d) (ej^ a conspiracy to steal three
+government checks) it is not necessary to engage in the foregoing analysis, because §lB1.3(a)(2)
+governs consideration of the defendant's conduct.
+Historical Note: Effective November 1, 1987. Amended effective January 15, 1988 (see Appendix C, amendment 2);
+November 1, 1989 (see Appendix C, amendments 73-75 and 303); November 1, 1991 (see Appendix C, amendment 434);
+November 1, 1992 (see Appendix C, amendment 438).
+§1B1.3. Relevant Conduct (Factors that Determine the Guideline Range)
+(a) Chapters Two (Offense Conduct) and Three (Adjustments). Unless otherwise
+specified, (i) the base offense level where the guideline specifies more than
+one base offense level, (ii) specific offense characteristics and (iii) cross
+references in Chapter Two, and (iv) adjustments in Chapter Three, shall be
+determined on the basis of the following:
+(1) (A) all acts and omissions committed, aided, abetted, counseled,
+commanded, induced, procured, or willfully caused by the
+defendant; and
+(B) in the case of a jointly undertaken criminal activity (a criminal
+plan, scheme, endeavor, or enterprise undertaken by the
+defendant in concert with others, whether or not charged as a
+conspiracy), all reasonably foreseeable acts and omissions of
+others in furtherance of the jointly undertaken criminal activity,
+that occurred during the commission of the offense of conviction, in
+preparation for that offense, or in the course of attempting to avoid
+detection or responsibility for that offense;
+(2) solely with respect to offenses of a character for which §3D1.2(d) would
+require grouping of multiple counts, all acts and omissions described
+in subdivisions (1)(A) and (1)(B) above that were part of the same
+course of conduct or common scheme or plan as the offense of
+conviction;
+(3) all harm that resulted from the acts and omissions specified in
+subsections (a)(l) and (a)(2) above, and all harm that was the object
+of such acts and omissions; and
+(4) any other information specified in the applicable guideline.
+16 November 1, 1992
+
+[[PDF page 17]]
+(b) Chapters Four (Criminal History and Criminal Livelihood) and Five
+(Determining the Sentence). Factors in Chapters Four and Five that establish
+the guideline range shall be determined on the basis of the conduct and
+information specified in the respective guidelines.
+Commentary
+Application Notes:
+1. The principles and limits of sentencing accountability under this guideline are not always the
+same as the principles and limits of criminal liability. Under subsections (a)(l) and (a)(2),
+the focus is on the specific acts and omissions for which the defendant is to be held
+accountable in determining the applicable guideline range, rather than on whether the defendant
+is criminally liable for an offense as a principal, accomplice, or conspirator.
+2. A "jointly undertaken criminal activity" is a criminal plan, scheme, endeavor, or enterprise
+undertaken by the defendant in concert with others, whether or not charged as a conspiracy.
+In the case of a jointly undertaken criminal activity, subsection (a)(l)(B) provides that a
+defendant is accountable for the conduct (acts and omissions) of others that was both:
+(i) in furtherance of the jointly undertaken criminal activity; and
+(ii) reasonably foreseeable in connection with that criminal activity.
+Because a count may be worded broadly and include the conduct of many participants over
+a period of time, the scope of the criminal activity jointly undertaken by the defendant (the
+"jointly undertaken criminal activity") is not necessarily the same as the scope of the entire
+conspiracy, and hence relevant conduct is not necessarily the same for every participant. In
+order to determine the defendant's accountability for the conduct of others under subsection
+(a)(l)(B), the court must first determine the scope of the criminal activity the particular
+defendant agreed to jointly undertake (ue,, the scope of the specific conduct and objectives
+embraced by the defendant's agreement). The conduct of others that was both in furtherance
+of, and reasonably foreseeable in connection with, the criminal activity jointly undertaken by
+the defendant is relevant conduct under this provision. The conduct of others that was not in
+furtherance of the criminal activity jointly undertaken by the defendant, or was not reasonably
+foreseeable in connection with that criminal activity, is not relevant conduct under this
+provision.
+In determining the scope of the criminal activity that the particular defendant agreed to jointly
+undertake (le^ the scope of the specific conduct and objectives embraced by the defendant's
+agreement), the court may consider any explicit agreement or implicit agreement fairly inferred
+from the conduct of the defendant and others.
+Note that the criminal activity that the defendant agreed to jointly undertake, and the
+reasonably foreseeable conduct of others in furtherance of that criminal activity, are not
+necessarily identical. For example, two defendants agree to commit a robbery and, during the
+course of that robbery, the first defendant assaults and injures a victim. The second defendant
+is accountable for the assault and injury to the victim (even if the second defendant had not
+agreed to the assault and had cautioned the first defendant to be careful not to hurt anyone)
+17 November 1, 1992
+
+[[PDF page 18]]
+because the assaultive conduct was in furtherance of the jointly undertaken criminal activity
+(the robbery) and was reasonably foreseeable in connection with that criminal activity (given
+the nature of the offense).
+With respect to offenses involving contraband (including controlled substances), the defendant
+is accountable for all quantities of contraband with which he was directly involved and, in the
+case of a jointly undertaken criminal activity, all reasonably foreseeable quantities of
+contraband that were within the scope of the criminal activity that he jointly undertook.
+The requirement of reasonable foreseeability applies only in respect to the conduct (ue^ acts
+and omissions) of others under subsection (a)(l)(B). It does not apply to conduct that the
+defendant personally undertakes, aids, abets, counsels, commands, induces, procures, or
+willfully causes; such conduct is addressed under subsection (a)(l)(A).
+Illustrations of Conduct for Winch the Defendant is Accountable
+(a) Acts and omissions aided or abetted bv the defendant
+(1) Defendant A is one of ten persons hired by Defendant B to off-load a ship
+containing marihuana. The off-loading of the ship is interrupted by law
+enforcement officers and one ton of marihuana is seized (the amount on the ship
+as well as the amount off-loaded). Defendant A and the other off-loaders are
+arrested and convicted of importation of marihuana. Regardless of the number
+of bales he personally unloaded, Defendant A is accountable for the entire one-
+ton quantity of marihuana. Defendant A aided and abetted the off-loading of
+the entire shipment of marihuana by directly participating in the off-loading of
+that shipment (le^ the specific objective of the criminal activity he joined was
+the off-loading of the entire shipment). Therefore, he is accountable for the
+entire shipment under subsection (a)(l)(A) without regard to the issue of
+reasonable foreseeability. This is conceptually similar to the case of a defendant
+who transports a suitcase knowing that it contains a controlled substance and,
+therefore, is accountable for the controlled substance in the suitcase regardless
+of his knowledge or lack of knowledge of the actual type or amount of that
+controlled substance.
+In certain cases, a defendant may be accountable for particular conduct under
+more than one subsection of this guideline. As noted in the preceding paragraph,
+Defendant A is accountable for the entire one-ton shipment of marihuana under
+subsection (a)(l)(A). Defendant A also is accountable for the entire one-ton
+shipment of marihuana on the basis of subsection (a) (I) (B) (applying to a jointly
+undertaken criminal activity). Defendant A engaged in a jointly undertaken
+criminal activity (the scope of which was the importation of the shipment of
+marihuana). A finding that the one-ton quantity of marihuana was reasonably
+foreseeable is warranted from the nature of the undertaking itself (the importation
+of marihuana by ship typically involves very large quantities of marihuana). The
+specific circumstances of the case (the defendant was one of ten persons off-
+loading the marihuana in bales) also support this finding. In an actual case, of
+course, if a defendant's accountability for particular conduct is established under
+one provision of this guideline, it is not necessary to review alternative provisions
+under which such accountability might be established.
+18 November 1, 1992
+
+[[PDF page 19]]
+(b) Acts and omissions aided or abetted bv the defendant: requirement that the conduct of
+others be in furtherance of the jointly undertaken criminal activity and reasonably
+foreseeable
+(1) Defendant C is the getaway driver in an armed bank robbery in which $15,000
+is taken and a teller is assaulted and injured. Defendant C is accountable for
+the money taken under subsection (a)(l)(A) because he aided and abetted the
+act of taking the money (the taking of money was the specific objective of the
+offense he joined). Defendant C is accountable for the injury to the teller under
+subsection (a)(l)(B) because the assault on the teller was in furtherance of the
+jointly undertaken criminal activity (the robbery) and was reasonably foreseeable
+in connection with that criminal activity (given the nature of the offense).
+As noted earlier, a defendant may be accountable for particular conduct under
+more than one subsection. In this example, Defendant C also is accountable for
+the money taken on the basis of subsection (a)(l)(B) because the taking of
+money was in furtherance of the jointly undertaken criminal activity (the robbery)
+and was reasonably foreseeable (as noted, the taking of money was the specific
+objective of the jointly undertaken criminal activity).
+(c) Requirement that the conduct of others be in furtherance of the jointly undertaken
+criminal activity and reasonably foreseeable; scope of the criminal activity
+(1) Defendant D pays Defendant E a small amount to forge an endorsement on an
+$800 stolen government check. Unknown to Defendant E, Defendant D then uses
+that check as a down payment in a scheme to fraudulently obtain $15,000 worth
+of merchandise. Defendant E is convicted of forging the $800 check and is
+accountable for the forgery of this check under subsection (a)(l)(A). Defendant
+E is not accountable for the $15,000 because the fraudulent scheme to obtain
+$15,000 was not in furtherance of the criminal activity he jointly undertook with
+Defendant D (le^ the forgery of the $800 check).
+(2) Defendants F and G, working together, design and execute a scheme to sell
+fraudulent stocks by telephone. Defendant F fraudulently obtains $20,000.
+Defendant G fraudulently obtains $35,000. Each is convicted of mail fraud.
+Defendants F and G each are accountable for the entire amount ($55,000).
+Each defendant is accountable for the amount he personally obtained under
+subsection (a)(l)(A). Each defendant is accountable for the amount obtained
+by his accomplice under subsection (a)(l)(B) because the conduct of each was
+in furtherance of the jointly undertaken criminal activity and was reasonably
+foreseeable in connection with that criminal activity.
+(3) Defendants H and I engaged in an ongoing marihuana importation conspiracy
+in which Defendant J was hired only to help off-load a single shipment.
+Defendants H, I, and J are included in a single count charging conspiracy to
+import marihuana. Defendant J is accountable for the entire single shipment of
+marihuana he helped import under subsection (a)(l)(A) and any acts and
+omissions in furtherance of the importation of that shipment that were reasonably
+foreseeable (see. the discussion in example (a)(l) above). He is not accountable
+for prior or subsequent shipments of marihuana imported by Defendants H or I
+because those acts were not in furtherance of his jointly undertaken criminal
+activity (the importation of the single shipment of marihuana).
+19 November 1, 1992
+
+[[PDF page 20]]
+(4) Defendant K is a wholesale distributor of child pornography. Defendant L is a
+retail-level dealer who purchases child pornography from Defendant K and resells
+it, but otherwise operates independently of Defendant K Similarly, Defendant
+M is a retail-level dealer who purchases child pornography from Defendant K and
+resells it, but otherwise operates independently of Defendant K. Defendants L
+and M are aware of each other's criminal activity but operate independently.
+Defendant N is Defendant K's assistant who recruits customers for Defendant K
+and frequently supervises the deliveries to Defendant K's customers. Each
+defendant is convicted of a count charging conspiracy to distribute child
+pornography. Defendant K is accountable under subsection (a)(l)(A) for the
+entire quantity of child pornography sold to Defendants L and M. Defendant N
+also is accountable for the entire quantity sold to those defendants under
+subsection (a)(l)(B) because the entire quantity was within the scope of his
+jointly undertaken criminal activity and reasonably foreseeable. Defendant L is
+accountable under subsection (a)(l)(A) only for the quantity of child
+pornography that he purchased from Defendant K because the scope of his jointly
+undertaken criminal activity is limited to that amount. For the same reason,
+Defendant M is accountable under subsection (a)(l)(A) only for the quantity of
+child pornography that he purchased from Defendant K.
+(5) Defendant O knows about her boyfriend's ongoing drug-trafficking activity, but
+agrees to participate on only one occasion by making a delivery for him at his
+request when he was ill. Defendant O is accountable under subsection (a)(l)(A)
+for the drug quantity involved on that one occasion. Defendant O is not
+accountable for the other drug sales made by her boyfriend because those sales
+were not in furtherance of her jointly undertaken criminal activity (Le^ the one
+delivery).
+(6) Defendant P is a street-level drug dealer who knows of other street-level drug
+dealers in the same geographic area who sell the same type of drug as he sells.
+Defendant P and the other dealers share a common source of supply, but
+otherwise operate independently. Defendant P is not accountable for the
+quantities of drugs sold by the other street-level drug dealers because he is not
+engaged in a jointly undertaken criminal activity with them. In contrast,
+Defendant Q, another street-level drug dealer, pools his resources and profits with
+four other street-level drug dealers. Defendant Q is engaged in a jointly
+undertaken criminal activity and, therefore, he is accountable under subsection
+(a)(l)(B) for the quantities of drugs sold by the four other dealers during the
+course of his joint undertaking with them because those sales were in furtherance
+of the jointly undertaken criminal activity and reasonably foreseeable in
+connection with that criminal activity.
+(7) Defendant R recruits Defendant S to distribute 500 grams of cocaine. Defendant
+S knows that Defendant R is the prime figure in a conspiracy involved in
+importing much larger quantities of cocaine. As long as Defendant S's agreement
+and conduct is limited to the distribution of the 500 grams, Defendant S is
+accountable only for that 500 gram amount (under subsection (a)(l)(A)), rather
+than the much larger quantity imported by Defendant R.
+(8) Defendants T, U, V, and W are hired by a supplier to backpack a quantity of
+marihuana across the border from Mexico into the United States. Defendants T,
+U, V, and W receive their individual shipments from the supplier at the same
+time and coordinate their importation efforts by walking across the border
+20 November 1, 1992
+
+[[PDF page 21]]
+together for mutual assistance and protection. Each defendant is accountable for
+the aggregate quantity of marihuana transported by the four defendants. The four
+defendants engaged in a jointly undertaken criminal activity, the object of which
+was the importation of the four backpacks containing marihuana (subsection
+(a)(l)(B)), and aided and abetted each other's actions (subsection (a)(l)(A))
+in carrying out the jointly undertaken criminal activity. In contrast, if Defendants
+T, U, V, and W were hired individually, transported their individual shipments
+at different times, and otherwise operated independently, each defendant would
+be accountable only for the quantity of marihuana he personally transported
+(subsection (a)(l)(A)). As this example illustrates, in cases involving contraband
+(including controlled substances), the scope of the jointly undertaken criminal
+activity (and thus the accountability of the defendant for the contraband that was
+the object of that jointly undertaken activity) may depend upon whether, in the
+particular circumstances, the nature 6f the offense is more appropriately viewed
+as one jointly undertaken criminal activity or as a number of separate criminal
+activities.
+3. "Offenses of a character for which §3D1.2(d) would require grouping of multiple counts," as
+used in subsection (a) (2), applies to offenses for which grouping of counts would be required
+under §3D1.2(d) had the defendant been convicted of multiple counts. Application of this
+provision does not require the defendant, in fact, to have been convicted of multiple counts.
+For example, where the defendant engaged in three drug sales of 10, 15, and 20 grams of
+cocaine, as part of the same course of conduct or common scheme or plan, subsection (a) (2)
+provides that the total quantity of cocaine involved (45 grams) is to be used to determine the
+offense level even if the defendant is convicted of a single count charging only one of the sales.
+If the defendant is convicted of multiple counts for the above noted sales, the grouping rules
+of Chapter Three, Part D (Multiple Counts) provide that the counts are grouped together.
+Although Chapter Three, Part D (Multiple Counts) applies to multiple counts of conviction, it
+does not limit the scope of subsection (a) (2). Subsection (a) (2) merely incorporates by
+reference the types of offenses set forth in §3D1.2(d); thus, as discussed above, multiple counts
+of conviction are not required for subsection (a) (2) to apply.
+As noted above, subsection (a)(2) applies to offenses of a character for which §3DL2(d) would
+require grouping of multiple counts, had the defendant been convicted of multiple counts. For
+example, the defendant sells 30 grams of cocaine (a violation of 21 U.S.C. § 841) on one
+occasion and, as part of the same course of conduct or common scheme or plan, attempts to
+sell an additional 15 grams of cocaine (a violation of 21 U.S.C. 846) on another occasion.
+The defendant is convicted of one count charging the completed sale of 30 grams of cocaine.
+The two offenses (sale of cocaine and attempted sale of cocaine), although covered by different
+statutory provisions, are of a character for which §3D1.2(d) would require the grouping of
+counts, had the defendant been convicted of both counts. Therefore, subsection (a) (2) applies
+and the total amount of cocaine (45 grams) involved is used to determine the offense level.
+4. "Harm" includes bodily injury, monetary loss, property damage and any resulting harm.
+5. If the offense guideline includes creating a risk or danger of harm as a specific offense
+characteristic, whether that risk or danger was created is to be considered in determining the
+offense level. See, && §2K1.4 (Arson; Property Damage by Use of Explosives); §2Q1.2
+(Mishandling of Hazardous or Toxic Substances or Pesticides). If, however, the guideline refers
+only to harm sustained (e.g., §2A2.2 (Aggravated Assault); §2B3.1 (Robbery)) or to actual,
+attempted or intended harm (&&, §2F1.1 (Fraud and Deceit); §2X1.1 (Attempt, Solicitation,
+or Conspiracy)), the risk created enters into the determination of the offense level only insofar
+as it is incorporated into the base offense level. Unless clearly indicated by the guidelines,
+21 November 1, 1992
+
+[[PDF page 22]]
+harm that is merely risked is not to be treated as the equivalent of harm that occurred. When
+not adequately taken into account by the applicable offense guideline, creation of a risk may
+provide a ground for imposing a sentence above the applicable guideline range. See, generally
+§ IB 1.4 (Information to be Used in Imposing Sentence); §5K2.0 (Grounds for Departure). The
+extent to which harm that was attempted or intended enters into the determination of the
+offense level should be determined in accordance with §2X1.1 (Attempt, Solicitation, or
+Conspiracy) and the applicable offense guideline.
+6. A particular guideline (in the base offense level or in a specific offense characteristic) may
+expressly direct that a particular factor be applied only if the defendant was convicted of a
+particular statute. For example, in §2S1.1, subsection (a)(l) applies if the defendant "is
+convicted under 18 U.S.C. § 1956(a)(l)(A), (a)(2)(A), or (a)(3)(A)." Unless such an express
+direction is included, conviction under the statute is not required. Thus, use of a statutory
+reference to describe a particular set of circumstances does not require a conviction under the
+referenced statute. An example of this usage is found in §2A3.4(a)(2) ("if the offense was
+committed by the means set forth in 18 U.S.C. § 2242").
+An express direction to apply a particular factor only if the defendant was convicted of a
+particular statute includes the determination of the offense level where the defendant was
+convicted of conspiracy, attempt, solicitation, aiding or abetting, accessory after the fact, or
+misprision of felony in respect to that particular statute. For example, §2Sl.l(a)(l) (which is
+applicable only if the defendant is convicted under 18 U.S.C. § 1956(a)(l)(A), (a)(2)(A), or
+(a) (3) (A)) would be applied in determining the offense level under §2X3.1 (Accessory After the
+Fact) where the defendant was convicted of accessory after the fact to a violation of 18 U.S.C.
+§ 1956(a)(l)(A), (a)(2)(A), or (a)(3)(A).
+7. In the case of a partially completed offense (e.g.. an offense involving an attempted theft of
+$800,000 and a completed theft of $30,000), the offense level is to be determined in accordance
+with §2X1.1 (Attempt, Solicitation, or Conspiracy) whether the conviction is for the substantive
+offense, the inchoate offense (attempt, solicitation, or conspiracy), or both. See Application
+Note 4 in the Commentary to §2X1.1. Note, however, that Application Note 4 is not applicable
+where the offense level is determined under §2Xl.l(c)(l).
+8. For the purposes of subsection (a) (2), offense conduct associated with a sentence that was
+imposed prior to the acts or omissions constituting the instant federal offense (the offense of
+conviction) is not considered as part of the same course of conduct or common scheme or plan
+as the offense of conviction.
+Examples: (1) The defendant was convicted for the sale of cocaine and sentenced to state
+prison. Immediately upon release from prison, he again sold cocaine to the same person, using
+the same accomplices and modus operandi. The instant federal offense (the offense of
+conviction) charges this latter sale. In this example, the offense conduct relevant to the state
+prison sentence is considered as prior criminal history, not as part of the same course of
+conduct or common scheme or plan as the offense of conviction. The prior state prison
+sentence is counted under Chapter Four (Criminal History and Criminal Livelihood). (2) The
+defendant engaged in two cocaine sales constituting part of the same course of conduct or
+common scheme or plan. Subsequently, he is arrested by state authorities for the first sale and
+by federal authorities for the second sale. He is convicted in state court for the first sale and
+sentenced to imprisonment; he is then convicted in federal court for the second sale. In this
+case, the cocaine sales are not separated by an intervening sentence. Therefore, under
+subsection (a) (2), the cocaine sale associated with the state conviction is considered as relevant
+conduct to the instant federal offense. The state prison sentence for that sale is not counted
+as a prior sentence; see. §4A1.2(a)(l).
+22 November 1, 1992
+
+[[PDF page 23]]
+Note, however, in certain cases, offense conduct associated with a previously imposed sentence
+may be expressly charged in the offense of conviction. Unless otherwise provided, such conduct
+will be considered relevant conduct under subsection (a)(l), not (a) (2).
+9. "Common scheme or plan" and "same course of conduct" are two closely-related concepts.
+(A) Common scheme or plan. For two or more offenses to constitute part of a common
+scheme or plan, they must be substantially connected to each other by at least one common
+factor, such as common victims, common accomplices, common purpose, or similar modus
+operandi. For example, the conduct of five defendants who together defrauded a group of
+investors by computer manipulations that unlawfully transferred funds over an eighteen-month
+period would qualify as a common scheme or plan on the basis of any of the above listed
+factors; Le^ the commonality of victims (the same investors were defrauded on an ongoing
+basis), commonality of offenders (the conduct constituted an ongoing conspiracy), commonality
+of purpose (to defraud the group of investors), or similarity of modus operandi (the same or
+similar computer manipulations were used to execute the scheme).
+(B) Same course of conduct. Offenses that do not qualify as part of a common scheme or
+plan may nonetheless qualify as part of the same course of conduct if they are sufficiently
+connected or related to each other as to warrant the conclusion that they are part of a single
+episode, spree, or ongoing series of offenses. Factors that are appropriate to the determination
+of whether offenses are sufficiently connected or related to each other to be considered as part
+of the same course of conduct include the degree of similarity of the offenses and the time
+interval between the offenses. The nature of the offenses may also be a relevant consideration
+(e.g., a defendant's failure to file tax returns in three consecutive years appropriately would be
+considered as part of the same course of conduct because such returns are only required at
+yearly intervals).
+10. In the case of solicitation, misprision, or accessory after the fact, the conduct for which the
+defendant is accountable includes all conduct relevant to determining the offense level for the
+underlying offense that was known, or reasonably should have been known, by the defendant.
+Background: This section prescribes rules for determining the applicable guideline sentencing range,
+whereas § IB 1.4 (Information to be Used in Imposing Sentence) governs the range of information that
+the court may consider in adjudging sentence once the guideline sentencing range has been
+determined. Conduct that is not formally charged or is not an element of the offense of conviction
+may enter into the determination of the applicable guideline sentencing range. The range of
+information that may be considered at sentencing is broader than the range of information upon
+which the applicable sentencing range is determined.
+Subsection (a) establishes a rule of construction by specifying, in the absence of more explicit
+instructions in the context of a specific guideline, the range of conduct that is relevant to determining
+the applicable offense level (except for the determination of the applicable offense guideline, which
+is governed by § IB 1.2 (a)). No such rule of construction is necessary with respect to Chapters Four
+and Five because the guidelines in those Chapters are explicit as to the specific factors to be
+considered.
+Subsection (a) (2) provides for consideration of a broader range of conduct with respect to one
+class of offenses, primarily certain property, tax, fraud and drug offenses for which the guidelines
+depend substantially on quantity, than with respect to other offenses such as assault, robbery and
+burglary. The distinction is made on the basis of §3D1.2(d), which provides for grouping together
+(i.e.. treating as a single count) all counts charging offenses of a type covered by this subsection.
+23 November 1, 1992
+
+[[PDF page 24]]
+However, the applicability of subsection (a) (2) does not depend upon whether multiple counts are
+alleged. Thus, in an embezzlement case, for example, embezzled funds that may not be specified in
+any count of conviction are nonetheless included in determining the offense level if they were part
+of the same course of conduct or part of the same scheme or plan as the count of conviction.
+Similarly, in a drug distribution case, quantities and types of drugs not specified in the count of
+conviction are to be included in determining the offense level if they were part of the same course
+of conduct or part of a common scheme or plan as the count of conviction. On the other hand, in
+a robbery case in which the defendant robbed two banks, the amount of money taken in one robbery
+would not be taken into account in determining the guideline range for the other robbery, even if both
+robberies were part of a single course of conduct or the same scheme or plan. (This is true whether
+the defendant is convicted of one or both robberies.)
+Subsections (a)(l) and (a)(2) adopt different rules because offenses of the character dealt with
+in subsection (a)(2) (le^ to which §3D1.2(d) applies) often involve a pattern of misconduct that
+cannot readily be broken into discrete, identifiable units that are meaningful for purposes of
+sentencing. For example, a pattern of embezzlement may consist of several acts of taking that cannot
+separately be identified, even though the overall conduct is clear. In addition, the distinctions that
+the law makes as to what constitutes separate counts or offenses often turn on technical elements that
+are not especially meaningful for purposes of sentencing. Thus, in a mail fraud case, the scheme is
+an element of the offense and each mailing may be the basis for a separate count; in an
+embezzlement case, each taking may provide a basis for a separate count. Another consideration is
+that in a pattern of small thefts, for example, it is important to take into account the full range of
+related conduct. Relying on the entire range of conduct, regardless of the number of counts that are
+alleged or on which a conviction is obtained, appears to be the most reasonable approach to writing
+workable guidelines for these offenses. Conversely, when §3D1.2(d) does not apply, so that
+convictions on multiple counts are considered separately in determining the guideline sentencing
+range, the guidelines prohibit aggregation of quantities from other counts in order to prevent "double
+counting" of the conduct and harm from each count of conviction. Continuing offenses present
+similar practical problems. The reference to §3D1.2(d), which provides for grouping of multiple
+counts arising out of a continuing offense when the offense guideline takes the continuing nature into
+account, also prevents double counting.
+Subsection (a) (4) requires consideration of any other information specified in the applicable
+guideline. For example, §2A1.4 (Involuntary Manslaughter) specifies consideration of the defendant's
+state of mind; §2K1.4 (Arson; Property Damage By Use of Explosives) specifies consideration of the
+risk of harm created.
+Historical Note: Effective November 1, 1987. Amended effective January 15, 1988 (see Appendix C, amendment 3);
+November 1, 1989 (see Appendix C, amendments 76-78 and 303); November 1, 1990 (see Appendix C, amendment 309);
+November 1, 1991 (see Appendix C, amendment 389); November 1, 1992 (see Appendix C, amendment 439).
+§1B1.4. Information to be Used in Imposing Sentence (Selecting a Point Within the Guideline
+Range or Departing from the Guidelines)
+In determining the sentence to impose within the guideline range, or whether a
+departure from the guidelines is warranted, the court may consider, without limitation,
+any information concerning the background, character and conduct of the defendant,
+unless otherwise prohibited by law. See 18 U.S.C. § 3661.
+24 November 1, 1992
+
+[[PDF page 25]]
+Commentary
+Background: This section distinguishes between factors that determine the applicable guideline
+sentencing range (§1B1.3) and information that a court may consider in imposing sentence within
+that range. The section is based on 18 U.S.C. § 3661, which recodifies 18 U.S.C. § 3577. The
+recodification of this 1970 statute in 1984 with an effective date of 1987 (99 Stat. 1728), makes it
+clear that Congress intended that no limitation would be placed on the information that a court may
+consider in imposing an appropriate sentence under the future guideline sentencing system. A court
+is not precluded from considering information that the guidelines do not take into account. For
+example, if the defendant committed two robberies, but as part of a plea negotiation entered a guilty
+plea to only one, the robbery that was not taken into account by the guidelines would provide a
+reason for sentencing at the top of the guideline range. In addition, information that does not enter
+into the determination of the applicable guideline sentencing range may be considered in determining
+whether and to what extent to depart from the guidelines. Some policy statements do, however,
+express a Commission policy that certain factors should not be considered for any purpose, or should
+be considered only for limited purposes. See, e.g.. Chapter Five, Part H (Specific Offender
+Characteristics).
+Historical Note: Effective November 1, 1987. Amended effective January 15, 1988 (see Appendix C, amendment 4);
+November 1, 1989 (see Appendix C, amendment 303).
+§1B1.5. Interpretation of References to Other Offense Guidelines
+(a) A cross reference (an instruction to apply another offense guideline) refers to
+the entire offense guideline (Le,., the base offense level, specific offense
+characteristics, cross references, and special instructions).
+(b) (1) An instruction to use the offense level from another offense guideline
+refers to the offense level from the entire offense guideline (Le., the
+base offense level, specific offense characteristics, cross references, and
+special instructions), except as provided in subdivision (2) below.
+(2) An instruction to use a particular subsection or table from another
+offense guideline refers only to the particular subsection or table
+referenced, and not to the entire offense guideline.
+(c) If the offense level is determined by a reference to another guideline under
+subsection (a) or (b)(l) above, the adjustments in Chapter Three
+(Adjustments) also are determined in respect to the referenced offense
+guideline, except as otherwise expressly provided.
+(d) A reference to another guideline under subsection (a) or (b)(l) above may
+direct that it be applied only if it results in the greater offense level. In such
+case, the greater offense level means the greater final offense level (Le., the
+greater offense level taking into account both the Chapter Two offense level
+and any applicable Chapter Three adjustments).
+25 November 1, 1992
+
+[[PDF page 26]]
+Commentary
+Application Notes:
+1. References to other offense guidelines are most frequently designated "Cross References," but
+may also appear in the portion of the guideline entitled "Base Offense Level" (eg^
+§§2D1.2(a)(l), (2), and 2Hll(a)(2), or "Specific Offense Characteristics" (e& §2A4.1(b)(7)).
+These references may be to a specific guideline, or may be more general (e&j to the guideline
+for the "underlying offense"). Such references incorporate the specific offense characteristics,
+cross references, and special instructions as well as the base offense level. For example, if the
+guideline reads "2 plus the offense level from §2A2.2 (Aggravated Assault)," the user would
+determine the offense level from §2A2.2, including any applicable adjustments for planning,
+weapon use, degree of injury and motive, and then increase by 2 levels.
+A reference may also be to a specific subsection of another guideline; ej^ the reference in
+§2DL10(a)(l) to "3 plus the offense level from the Drug Quantity Table in §2DU". In such
+case, only the specific subsection of that other guideline is used.
+2. A reference to another guideline may direct that such reference is to be used only if it results
+in a greater offense level. In such cases, the greater offense level means the greater final
+offense level (Le^ the greater offense level taking into account both the Chapter Two offense
+level and any applicable Chapter Three adjustments). Although the offense guideline that
+results in the greater offense level under Chapter Two will most frequently result in the greater
+final offense level, this will not always be the case. If, for example, a role or abuse of trust
+adjustment applies to the cross-referenced offense guideline, but not to the guideline initially
+applied, the greater Chapter Two offense level may not necessarily result in a greater final
+offense level.
+3. A reference may direct that, if the conduct involved another offense, the offense guideline for
+such other offense is to be applied. Wfiere there is more than one such other offense, the most
+serious such offense (or group of closely-related offenses in the case of offenses that would be
+grouped together under §3D1.2(d)) is to be used. For example, if a defendant convicted of
+possession of a firearm by a felon, to which §2K2.1 (Unlawful Receipt, Possession, or
+Transportation of Firearms or Ammunition; Prohibited Transactions Involving Firearms or
+Ammunition) applies, is found to have possessed that firearm during commission of a series
+of offenses, the cross reference at §2K2.1(c) is applied to the offense resulting in the greatest
+offense level.
+Historical Note: Effective November 1, 1987. Amended effective November 1, 1989 (see Appendix C, amendments 79,
+80, and 302); November 1, 1991 (see Appendix C, amendment 429); November 1, 1992 (see Appendix C, amendment 440).
+§1B1.6. Structure of the Guidelines
+The guidelines are presented in numbered chapters divided into alphabetical parts.
+The parts are divided into subparts and individual guidelines. Each guideline is
+identified by three numbers and a letter corresponding to the chapter, part, subpart
+and individual guideline.
+26 November 1, 1992
+
+[[PDF page 27]]
+The first number is the chapter, the letter represents the part of the chapter, the
+second number is the subpart, and the final number is the guideline. Section 2B1.1,
+for example, is the first guideline in the first subpart in Part B of Chapter Two. Or,
+§3A1.2 is the second guideline in the first subpart in Part A of Chapter Three. Policy
+statements are similarly identified.
+To illustrate:
+Chapter
+Subpart
+§ 3 A 1. 2
+Guideline
+Part
+Historical Note: Effective November 1, 1987.
+§1B1.7. Significance of Commentary
+The Commentary that accompanies the guideline sections may serve a number of
+purposes. First, it may interpret the guideline or explain how it is to be applied.
+Failure to follow such commentary could constitute an incorrect application of the
+guidelines, subjecting the sentence to possible reversal on appeal. See 18 U.S.C.
+§ 3742. Second, the commentary may suggest circumstances which, in the view of the
+Commission, may warrant departure from the guidelines. Such commentary is to be
+treated as the legal equivalent of a policy statement. Finally, the commentary may
+provide background information, including factors considered in promulgating the
+guideline or reasons underlying promulgation of the guideline. As with a policy
+statement, such commentary may provide guidance in assessing the reasonableness of
+any departure from the guidelines.
+Commentary
+Portions of this document not labeled as guidelines or commentary also express the policy of
+the Commission or provide guidance as to the interpretation and application of the guidelines. These
+are to be construed as commentary and thus have the force of policy statements.
+In stating that failure to follow certain commentary "could constitute an incorrect application
+of the guidelines," the Commission simply means that in seeking to understand the meaning of the
+guidelines courts likely will look to the commentary for guidance as an indication of the intent of
+27 November 1, 1992
+
+[[PDF page 28]]
+those who wrote them. In such instances, the courts will treat the commentary much like legislative
+history or other legal material that helps determine the intent of a drafter.
+Historical Note: Effective November 1, 1987.
+§1B1.8. Use of Certain Information
+(a) Where a defendant agrees to cooperate with the government by providing
+information concerning unlawful activities of others, and as part of that
+cooperation agreement the government agrees that self-incriminating
+information provided pursuant to the agreement will not be used against the
+defendant, then such information shall not be used in determining the
+applicable guideline range, except to the extent provided in the agreement.
+(b) The provisions of subsection (a) shall not be applied to restrict the use of
+information:
+(1) known to the government prior to entering into the cooperation
+agreement;
+(2) concerning the existence of prior convictions and sentences in
+determining §4A1.1 (Criminal History Category) and §4B1.1 (Career
+Offender);
+(3) in a prosecution for perjury or giving a false statement;
+(4) in the event there is a breach of the cooperation agreement by the
+defendant; or
+(5) in determining whether, or to what extent, a downward departure from
+the guidelines is warranted pursuant to a government motion under
+§5K1.1 (Substantial Assistance to Authorities).
+Commentary
+Application Notes:
+1. This provision does not authorize the government to withhold information from the court but
+provides that self-incriminating information obtained under a cooperation agreement is not to
+be used to determine the defendant's guideline range. Under this provision, for example, if a
+defendant is arrested in possession of a kilogram of cocaine and, pursuant to an agreement to
+provide information concerning the unlawful activities of co-conspirators, admits that he
+assisted in the importation of an additional three kilograms of cocaine, a fact not previously
+known to the government, this admission would not be used to increase his applicable guideline
+range, except to the extent provided in the agreement. Although the guideline itself affects only
+the determination of the guideline range, the policy of the Commission, as a corollary, is that
+information prohibited from being used to determine the applicable guideline range shall not
+be used to increase the defendant's sentence above the applicable guideline range by upward
+departure. In contrast, subsection (b)(5) provides that consideration of such information is
+appropriate in determining whether, and to what extent, a downward departure is warranted
+pursuant to a government motion under §5K1.1 (Substantial Assistance to Authorities); ej^ a
+28 November 1, 1992
+
+[[PDF page 29]]
+court may refuse to depart below the applicable guideline range on the basis of such
+information.
+2. Subsection (b)(2) prohibits any cooperation agreement from restricting the use of information
+as to the existence of prior convictions and sentences in determining adjustments under §4All
+(Criminal History Category) and §4B1.1 (Career Offender). The Probation Service generally
+will secure information relevant to the defendant's criminal history independent of information
+the defendant provides as part of his cooperation agreement.
+3. On occasion the defendant will provide incriminating information to the government during plea
+negotiation sessions before a cooperation agreement has been reached. In the event no
+agreement is reached, use of such information in a sentencing proceeding is restricted by Rule
+ll(e)(6) (Inadmissibility of Pleas, Plea Discussions, and Related Statements) of the Federal
+Rules of Criminal Procedure and Rule 410 (Inadmissibility of Pleas, Plea Discussions, and
+Related Statements) of the Rules of Evidence.
+4. As with the statutory provisions governing use immunity, 18 U.S.C. § 6002, this guideline does
+not apply to information used against the defendant in a prosecution for perjury, giving a false
+statement, or in the event the defendant otherwise fails to comply with the cooperation
+agreement.
+5. This guideline limits the use of certain incriminating information furnished by a defendant in
+the context of a defendant-government agreement for the defendant to provide information
+concerning the unlawful activities of other persons. The guideline operates as a limitation on
+the use of such incriminating information in determining the applicable guideline range, and
+not merely as a restriction of the government's presentation of such information (eg., where the
+defendant, subsequent to having entered into a cooperation agreement, provides such
+information to the probation officer preparing the presentence report, the use of such
+information remains protected by this section).
+6. Unless the cooperation agreement relates to the provision of information concerning the
+unlawful activities of others, this guideline does not apply (Le^ an agreement by the defendant
+simply to detail the extent of his own unlawful activities, not involving an agreement to provide
+information concerning the unlawful activity of another person, is not covered by this guideline).
+Historical Note: Effective June 15, 1988 (see Appendix C, amendment 5). Amended effective November 1, 1990 (see
+Appendix C, amendment 308); November 1, 1991 (see Appendix C, amendment 390); November 1, 1992 (see Appendix
+C, amendment 441).
+§1B1.9. Class B or C Misdemeanors and Infractions
+The sentencing guidelines do not apply to any count of conviction that is a Class
+B or C misdemeanor or an infraction.
+Commentary
+Application Notes:
+1. Notwithstanding any other provision of the guidelines, the court may impose any sentence
+authorized by statute for each count that is a Class B or C misdemeanor or an infraction. A
+Class B misdemeanor is any offense for which the maximum authorized term of imprisonment
+29 November 1, 1992
+
+[[PDF page 30]]
+is more than thirty days but not more than six months; a Class C misdemeanor is any offense
+for which the maximum authorized term of imprisonment is more than five days but not more
+than thirty days; an infraction is any offense for which the maximum authorized term of
+imprisonment is not more than five days.
+2. The guidelines for sentencing on multiple counts do not apply to counts that are Class B or
+C misdemeanors or infractions. Sentences for such offenses may be consecutive to or
+concurrent with sentences imposed on other counts. In imposing sentence, the court should,
+however, consider the relationship between the Class B or C misdemeanor or infraction and
+any other offenses of which the defendant is convicted.
+Background: For the sake of judicial economy, the Commission has exempted all Class B and C
+misdemeanors and infractions from the coverage of the guidelines.
+Historical Note: Effective June 15, 1988 (see Appendix C, amendment 6). Amended effective November 1, 1989 (see
+Appendix C, amendment 81).
+§1B1.1O. Retroactivitv of Amended Guideline Range (Policy Statement)
+(a) Where a defendant is serving a term of imprisonment, and the guideline range
+applicable to that defendant has subsequently been lowered as a result of an
+amendment to the guidelines listed in subsection (d) below, a reduction in the
+defendant's term of imprisonment may be considered under 18 U.S.C.
+§ 3582(c)(2). If none of the amendments listed in subsection (d) is applicable,
+a reduction in the defendant's term of imprisonment under 18 U.S.C.
+§ 3582(c)(2) is not consistent with this policy statement.
+(b) In determining whether a reduction in sentence is warranted for a defendant
+eligible for consideration under 18 U.S.C. § 3582(c)(2), the court should
+consider the sentence that it would have originally imposed had the guidelines,
+as amended, been in effect at that time.
+(c) Provided, that a reduction in a defendant's term of imprisonment may, in no
+event, exceed the number of months by which the maximum of the guideline
+range applicable to the defendant (from Chapter Five, Part A) has been
+lowered.
+(d) Amendments covered by this policy statement are listed in Appendix C as
+follows: 126, 130, 156, 176, 269, 329, 341, 379, 380, 433, and 461.
+Commentary
+Application Note:
+1. Although eligibility for consideration under 18 U.S.C. § 3582(c)(2) is triggered only by an
+amendment listed in subsection (d) of this section, the amended guideline range referred to in
+subsections (b) and (c) of this section is to be determined by applying all amendments to the
+guidelines (Le^ as if the defendant was being sentenced under the guidelines currently in effect).
+30 November 1, 1992
+
+[[PDF page 31]]
+Background: Section 3582 (c)(2) of Title 18, United States Code, provides: "[I]n the case of a
+defendant who has been sentenced to a term of imprisonment based on a sentencing range that has
+subsequently been lowered by the Sentencing Commission pursuant to 28 U.S.C. § 994(o), upon
+motion of the defendant or the Director of the Bureau of Prisons, or on its own motion, the court
+may reduce the term of imprisonment, after considering the factors set forth in section 3553(a) to the
+extent that they are applicable, if such a reduction is consistent with applicable policy statements
+issued by the Sentencing Commission."
+This policy statement provides guidance for a court when considering a motion under
+18 U.S.C. § 3582(c)(2) and implements 28 U.S.C. § 994(u), which provides: "If the Commission
+reduces the term of imprisonment recommended in the guidelines applicable to a particular offense
+or category of offenses, it shall specify in what circumstances and by what amount the sentences of
+prisoners serving terms of imprisonment for the offense may be reduced."
+Among the factors considered by the Commission in selecting the amendments included in
+subsection (d) were the purpose of the amendment, the magnitude of the change in the guideline
+range made by the amendment, and the difficulty of applying the amendment retroactively.
+The Commission has not included in this policy statement amendments that generally reduce
+the maximum of the guideline range by less than six months. This criterion is in accord with the
+legislative history of 28 U.S.C. § 994(u) (formerly § 994(t)), which states: "It should be noted that
+the Committee does not expect that the Commission will recommend adjusting existing sentences
+under the provision when guidelines are simply refined in a way that might cause isolated instances
+of existing sentences falling above the old guidelines or when there is only a minor downward
+adjustment in the guidelines. The Committee does not believe the courts should be burdened with
+adjustments in these cases." S. Rep. 98-225, 98th Cong., 1st Sess. 180 (1983).
+Historical Note: Effective November 1, 1989 (see Appendix C, amendment 306). Amended effective November 1, 1990
+(see Appendix C, amendment 360); November 1, 1991 (see_ Appendix C, amendment 423); November 1, 1992 (see
+Appendix C, amendment 469).
+§1B1.11. Use of Guidelines Manual in Effect on Date of Sentencing (Policy Statement)
+(a) The court shall use the Guidelines Manual in effect on the date that the
+defendant is sentenced.
+(b) (1) If the court determines that use of the Guidelines Manual in effect on
+the date that the defendant is sentenced would violate the ex post facto
+clause of the United States Constitution, the court shall use the
+Guidelines Manual in effect on the date that the offense of conviction
+was committed.
+(2) The Guidelines Manual in effect on a particular date shall be applied
+in its entirety. The court shall not apply, for example, one guideline
+section from one edition of the Guidelines Manual and another
+guideline section from a different edition of the Guidelines Manual.
+However, if a court applies an earlier edition of the Guidelines Manual,
+the court shall consider subsequent amendments, to the extent that such
+amendments are clarifying rather than substantive changes.
+31 November 1, 1992
+
+[[PDF page 32]]
+Commentary
+Application Note:
+1. Subsection (b)(2) provides that if an earlier edition of the Guidelines Manual is used, it is to
+be used in its entirety, except that subsequent clarifying amendments are to be considered.
+Example: A defendant is convicted of an antitrust offense committed in November 1989. He
+is to be sentenced in December 1992. Effective November 1, 1991, the Commission raised the
+base offense level for antitrust offenses. Effective November 1, 1992, the Commission lowered
+the guideline range in the Sentencing Table for cases with an offense level of 8 and criminal
+history category of I from 2-8 months to 0-6 months. Under the 1992 edition of the Guidelines
+Manual (effective November 1, 1992), the defendant has a guideline range of 4-10 months
+(final offense level of 9, criminal history category of I). Under the 1989 edition of the
+Guidelines Manual (effective November 1, 1989), the defendant has a guideline range of 2-8
+months (final offense level of 8, criminal history category of I). If the court determines that
+application of the 1992 edition of the Guidelines Manual would violate the ex post facto clause
+of the United States Constitution, it shall apply the 1989 edition of the Guidelines Manual in
+its entirety. It shall not apply, for example, the offense level of 8 and criminal history category
+of I from the 1989 edition of the Guidelines Manual in conjunction with the amended guideline
+range of 0-6 months for this offense level and criminal history category from the 1992 edition
+of the Guidelines Manual.
+Background: Under 18 U.S.C. § 3553, the court is to apply the guidelines and policy statements in
+effect at the time of sentencing. Although aware of possible ex post facto clause challenges to
+application of the guidelines in effect at the time of sentencing, Congress did not believe that the ex
+post facto clause would apply to amended sentencing guidelines. S. Rep. No. 225, 98th Cong., 1st
+Sess. 77-78 (1983). While the Commission concurs in the policy expressed by Congress, courts to
+date generally have held that the ex post facto clause does apply to sentencing guideline amendments
+that subject the defendant to increased punishment.
+Historical Note: Effective November 1, 1992 (see Appendix C, amendment 442).
+32 November 1, 1992

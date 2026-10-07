@@ -1,0 +1,219 @@
+United States v. International Business Machines Corp., 517 U.S. 843 (1996). (https://www.law.cornell.edu/supct/html/95-591.ZS.html)
+citeturn9view0 [wordlim: 200] Crawled: 2 weeks ago; Content type: text/html; Source: open({"ref_id":"https://www.law.cornell.edu/supct/html/95-591.ZS.html","lineno":null}); Total lines: 35
+L0: United States v. International Business Machines Corp. (95-591), 517 U.S. 843 (1996).
+L1: Syllabus
+L2:  | Dissent
+L3: [ Kennedy ]  | Opinion
+L4: [ Thomas ]
+L5: --- | --- | ---
+L6: cite0†HTML version L7: cite1†WordPerfect version | cite2†HTML version L8: cite3†WordPerfect version | cite4†HTML version L9: cite5†WordPerfect version L10: NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued. The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader. See United States v. Detroit Lumber Co., cite6†200 U.S. 321 , 337.
+L11: 
+L12: SUPREME COURT OF THE UNITED STATES
+L13: 
+L14: Syllabus
+L15: ### UNITED STATES v. INTERNATIONAL BUSINESS MACHINES CORP.
+L16: #### certiorari to the united states court of appeals for the federal circuit
+L17: 
+L18: No. 95-591. Argued March 18, 1996 -- Decided June 10, 1996
+L19: Pursuant to §4371 of the Internal Revenue Code, respondent International Business Machines Corporation (IBM) paid a tax on insurance premiums remitted to foreign insurers to cover shipments of goods to its foreign subsidiaries.
+L20: When its refund claims were denied, IBM filed suit in the Court of Federal Claims, contending that §4371's application to policies insuring export shipments violated the Export Clause, which states that "[n]o Tax or Duty shall be laid on Articles exported from any State." The court agreed, rejecting the Government's argument that Thames & Mersey Marine Ins. Co. v. United States, cite7†237 U.S.
+L21: 19 --in which this Court held that a federal stamp tax on policies insuring marine risks could not, under the Export Clause, be constitutionally applied to policies covering export shipments--had been superseded by subsequent decisions interpreting the Import Export Clause, which states in relevant part, "No State shall . . . lay any Imposts or Duties on Imports or Exports." The Court of Appeals affirmed.
+L22: Held: The Export Clause prohibits assessment of nondiscriminatory federal taxes on goods in export transit. Pp. 2-20.
+L23: (a) While this Court has strictly enforced the Export Clause's prohibition against federal taxation of goods in export transit and certain closely related services and activities, see, e.g., Thames & Mersey, supra, it has not exempted pre-export goods and services from ordinary tax burdens or exempted from federal taxation various services and activities only tangentially related to the export process, see, e.g., Cornell v. Coyne, cite8†192 U.S. 418 .
+L24: Conceding that the tax assessed here violates the Export Clause under Thames & Mersey, the Government asks that the case be overruled because its underlying theory has been rejected in the context of the Commerce and Import Export Clauses and those Clauses have historically been interpreted in harmony with the Export Clause. Pp. 2-7.
+L25: (b) When this Court expressly disavowed its early view that the dormant Commerce Clause required a strict ban on state taxation of interstate commerce, Complete Auto Transit, Inc. v. Brady, cite9†430 U.S. 274 , 288-289, it resolved a long struggle over the meaning of the nontextual negative command of that Clause. The Export Clause, on the other hand, expressly prohibits Congress from laying any tax or duty on exports.
+L26: These textual disparities strongly suggest that shifts in the Court's view of the dormant Commerce Clause's scope cannot govern Export Clause interpretation. Cf. Richfield Oil Corp. v. State Bd. of Equalization, cite10†329 U.S. 69 , 75-76. Pp. 7-9.
+L27: (c) While one may question Thames & Mersey's finding that a tax on policies insuring exports is functionally the same as a tax on exportation itself, the Government apparently has chosen not to do so here. Under the principles that animate the policy of stare decisis, the Court declines to overrule Thames & Mersey's longstanding precedent, which has caused no uncertainty in commercial export transactions, on a theory not argued by the parties. Pp. 11-13.
+L28: (d) This Court's recent Import Export Clause cases do not require that Thames & Mersey be overruled. Meaningful textual differences that should not be overlooked exist between the Export Clause and the Import Export Clause. In finding the assessments in Michelin Tire Corp. v. Wages, cite11†423 U.S. 276 , and Department of Revenue of Wash. v. Association of Wash. Stevedoring Cos., cite12†435 U.S.
+L29: 734 , valid, the Court recognized that the Import Export Clause's absolute ban on "Imposts or Duties" is not a ban on every tax. Because impost and duty are thus narrower terms than tax, a particular state assessment might be beyond the Import Export Clause's reach, while an identical federal assessment might be subject to the Export Clause. The word "Tax" has a common, and usually expansive, meaning that should not be ignored. The Clauses were also intended to serve different goals.
+L30: The Government's policy argument-- that the Framers intended the Export Clause to narrowly alleviate the fear of northern repression through taxation of southern exports by prohibiting only discriminatory taxes--cannot be squared with the Clause's broad language. The better reading is that the Framers sought to alleviate their concerns by completely denying to Congress the power to tax exports at all. See Fairbank v. United States, cite13†181 U.S. 283 . Pp. 13-18.
+L31: (e) Even assuming that Michelin and Washington Stevedoring govern the Export Clause inquiry here, those holdings do not interpret the Import Export Clause to permit assessment of nondiscriminatory taxes on imports and exports in transit. Pp. 18-20.
+L32: 
+L33: 59 F. 3d 1234, affirmed.
+L34: Thomas, J., delivered the opinion of the Court, in which Rehnquist, C. J., and O'Connor, Scalia, Souter, and Breyer, JJ., joined. Kennedy, J., filed a dissenting opinion, in which Ginsburg, J., joined. Stevens, J., took no part in the consideration or decision of the case.
+--------------------------------------------------------------------------------
+Lockheed Corp. et al. v. Spink, 517 U.S. 882 (1996). (https://www.law.cornell.edu/supct/html/95-809.ZS.html)
+citeturn9view1 [wordlim: 200] Crawled: 5 days ago; Content type: text/html; Source: open({"ref_id":"https://www.law.cornell.edu/supct/html/95-809.ZS.html","lineno":null}); Total lines: 38
+L0: (95-809),
+L1: Syllabus
+L2:  | Opinion
+L3: [ Thomas ]  | Other
+L4: [ Breyer ]
+L5: --- | --- | ---
+L6: cite0†HTML version L7: cite1†WordPerfect version | cite2†HTML version L8: cite3†WordPerfect version | cite4†HTML version L9: cite5†WordPerfect version L10: NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued. The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader. See United States v. Detroit Lumber Co., cite6†200 U.S. 321 , 337.
+L11: 
+L12: SUPREME COURT OF THE UNITED STATES
+L13: 
+L14: Syllabus
+L15: ### LOCKHEED CORP. et al. v. SPINK
+L16: #### certiorari to the united states court of appeals for the ninth circuit
+L17: 
+L18: No. 95-809. Argued April 22, 1996 -- Decided June 10, 1996
+L19: Because respondent Spink was 61 when petitioner Lockheed Corporation reemployed him in 1979, he was excluded from participation in Lockheed's retirement plan (Plan), as was then permitted by the Employee Retirement Income Security Act of 1974 (ERISA).
+L20: Section 9203(a)(1) of the Omnibus Budget Reconciliation Act of 1986 (OBRA) repealed ERISA's age based exclusion provision, and §§9201 and 9202 amended ERISA and the Age Discrimination in Employment Act of 1967 (ADEA), respectively, to prohibit age based benefit accrual rules. To comply with OBRA, Lockheed made Spink and other previously excluded employees Plan members, but made clear that they would not receive credit for their pre-1988 service years.
+L21: Lockheed subsequently added to the Plan two programs offering increased pension benefits to employees who would retire early in exchange for their waiver of any employment claims against Lockheed. Not wishing to waive any ADEA or ERISA claims, Spink declined to participate and retired without earning the extra benefits.
+L22: He then filed suit, alleging among other things that Lockheed and respondent board of directors members violated ERISA by amending the Plan to create the retirement programs, that respondent Retirement Committee members violated ERISA by implementing the amended Plan, and that the OBRA amendments to ERISA and the ADEA required that Spink's pre-1988 service years be counted toward his benefits.
+L23: The District Court dismissed the complaint for failure to state a claim, but the Court of Appeals reversed in relevant part. In finding the Plan amendments unlawful under ERISA §406(a)(1)(D)--which prohibits a fiduciary from causing a plan to engage in a transaction that transfers plan assets to, or involves the use of plan assets for the benefit of, a party ininterest--the court decided that there was no need to address Lockheed's status as a fiduciary.
+L24: It also found that Lockheed's refusal to credit Spink with his pre-1988 service years violated the OBRA amendments, which the court decided applied retroactively.
+L25: Held:
+L26: 
+L27: 1. ERISA §406 does not prevent an employer from conditioning the receipt of early retirement benefits upon plan participants' waiver of employment claims. Pp. 4-13.
+L28: (a) Unless a plaintiff shows that a fiduciary caused the plan to engage in the allegedly unlawful transaction, there can be no §406(a)(1) violation warranting relief. Cf. Peacock v. Thomas, 516 U. S. ___, ___. Thus, the Court of Appeals erred by not asking whether fiduciary status existed in this case before finding a §406(a)(1)(D) violation. Pp. 5-6.
+L29: (b) Lockheed and the board of directors, as plan sponsors, were not acting as fiduciaries when they amended the Plan. Given ERISA's definition of fiduciary and the applicability of the duties attending that status, the rule that this Court announced with respect to the amendment of welfare benefit plans in Curtiss Wright Corp. v. Schoonejongen, 514 U. S. ___, applies equally to the amendment of pension plans.
+L30: Thus, when employers or other plan sponsors adopt, modify, or terminate pension plans, they do not act as fiduciaries, id., ___, but are analogous to settlors of a trust. Pp. 7-9.
+L31: (c) It is not necessary to decide whether the Retirement Committee members acted as fiduciaries, because their payment of benefits pursuant to the terms of an otherwise lawful plan was not a "transaction" prohibited by §406(a)(1)(D). That section does not in direct terms include an employer's payment of benefits. And the "transactions" prohibited by other provisions of §406(a) generally involve uses of plan assets that are potentially harmful to the plan.
+L32: The payment of benefits conditioned on performance by plan participants cannot reasonably be said to share that characteristic. Pp. 9-13.
+L33: 2. OBRA §§9201 and 9202(a) do not apply retroactively to require Lockheed to use pre-1988 service years in calculating Spink's benefits. Congress expressly provided, in OBRA §9204(a)(1), that the amendments to ERISA and the ADEA would be effective with respect to plan years beginning on or after January 1, 1988. Since the amendments' temporal effect is manifest on the statute's face, "there is no need to resort to judicial default rules," Landgraf v. USI Film Products, Inc., 511 U. S.
+L34: ___, ___, and inquiry is at an end. Pp. 13-15.
+L35: 60 F. 3d 616, reversed and remanded.
+L36: 
+L37: Thomas, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Stevens, O'Connor, Scalia, Kennedy, and Ginsburg, JJ., joined, and in all but Part III-B of which Souter and Breyer, JJ., joined. Breyer, J., filed an opinion concurring in part and dissenting in part, in which Souter, J., joined.
+--------------------------------------------------------------------------------
+861 FSUPP 1304 - Vera v. Richards | OpenJurist (https://openjurist.org/861/fsupp/1304/vera-v-richards)
+citeturn9view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://openjurist.org/861/fsupp/1304/vera-v-richards","lineno":null}); Total lines: 830
+L0: cite0†Image: OpenJurist https://openjurist.org/861/fsupp/1304/vera-v-richards
+L1: 
+L2: Public-domain · open source
+L3: 
+L4: Menu
+L5: 
+L6: cite1†OpenJurist ›cite2†Volume 861 ›cite3†F. Supp. ›Page 1304
+L7: 
+L8: 861 F. Supp. 1304
+L9: # Vera v. Richards
+L10: 
+L11: U.S. District Court
+L12: 
+L13: Decided September 2, 1994
+L14: 
+L15: U.S. District Court · decided 1994-09-02
+L16: 
+L17: Key passage — most relied on by later courts
+L18: 
+L19: > “at least not highly irregular apart from the small racially distinct appendages”
+L20: 
+L21: quoted by 3 later decisions, including cite4†Houston v. Lafayette County MS , cite5†Houston v. Lafayette County MS L22: > ““Texas has a long, well-documented history of discrimination that has touched upon the rights of African-Americans and Hispanics to register, to vote, or to participate otherwise in the electoral process. Devices such as the poll tax, an all-white primary system, and restrictive voter registration time periods are an unfortunate part of this State’s minority voting rights history.
+L23: The history of official discrimination in the Texas election process—stretching back to Reconstruction—led to the inclusion of the State as a covered jurisdiction under Section 5 in the 1975 amendments to the Voting Rights Act. Since Texas became a covered jurisdiction, the Department of Justice has frequently interposed objections against the State and its subdivisions.” Vera v. Richards, 861 F. Supp. 1304, 1317 (SD Tex. 1994) (citations omitted).”
+L24: quoted by 2 later decisions, including cite6†Veasey v. Abbott , cite7†League of United Latin American Citizens v. Perry L25: 
+L26: Applies cite8†28 U.S.C. § 1331 · cite9†42 U.S.C. § 1973 (§ 2 of the Voting Rights Act of 1965) · cite10†42 U.S.C. § 1973C (§ 5 of the Voting Rights Act of 1965) L27: 
+L28: Relies on cite11†Baker v. Carr · cite12†Village of Arlington Heights v. Metropolitan Housing Development Corp. · cite13†Washington v. Davis L29: 
+L30: Good law ✅— No negative treatment on recordcite14†how we know L31: 
+L32: Decided 1994-09-02
+L33: ## How this case has been cited
+L34: 
+L35: Cited by 37 later decisions (4 by the Supreme Court) — most recently January 2018 · most notably cite15†Bush v. Al Vera Lawson (1996), cite16†James B. Hunt, Jr. v. Martin Cromartie (1999)
+L36: 
+L37: 10 federal appellate · 1 district · 1 state decisions
+L38: 
+L39: Later decisions citing this case, by decade. The current decade is in progress, and our corpus holds fewer opinions from the most recent years, so the latest bars are undercounted — not a real decline.
+L40: cite17†View the full empirical analysis of this case → L41: 
+L42: cite18†¶1 cite19†*1308 TABLE OF CONTENTS
+L43: 
+L44: cite20†¶2 I. Introduction.............................................................1308
+L45: 
+L46: cite21†¶3 II. Procedural History.......................................................1310
+L47: 
+L48: cite22†¶4 III. Evidentiary Background..................................................1311
+L49: 
+L50: cite23†¶5 A. Texas Demography Related to Redistricting............................1311
+L51: cite24†¶6 B. Pertinent History Related to Redistricting in Texas.....................1312
+L52: 
+L53: cite25†¶7 C. The 1991 Congressional Redistricting Process..........................1313
+L54: 
+L55: cite26†¶8 1. General Background..............................................1313
+L56: 
+L57: cite27†¶9 2. Voting Rights Act Considerations..................................1314
+L58: 
+L59: cite28†¶10 a. Racial Polarization............................................1316
+L60: 
+L61: cite29†¶11 b. History of Discrimination......................................1317
+L62: cite30†¶12 3. Incumbents’ Interests.............................................1317
+L63: 
+L64: cite31†¶13 4. Use of Racial Data...............................................1318
+L65: 
+L66: cite32†¶14 5. Congressional District 30..........................................1319
+L67: 
+L68: cite33†¶15 6. Congressional Districts 18 and 29.................................. 1323
+L69: 
+L70: cite34†¶16 7. Congressional District 28.......................................... 1325
+L71: 
+L72: cite35†¶17 8. Other Congressional Districts......................................1326
+L73: cite36†¶18 D. Expert Testimony....................................................1328
+L74: 
+L75: cite37†¶19 E. Other Districting Plans...............................................1330
+L76: 
+L77: cite38†¶20 TV. Factual Findings and Legal Conclusions...................................1331
+L78: 
+L79: cite39†¶21 A. The Voting Rights Districts...........................................1337
+L80: 
+L81: cite40†¶22 1. Congressional District 30.......................................... 1337
+L82: cite41†¶23 2. Congressional Districts 18 and 29.................................. 1339
+L83: 
+L84: cite42†¶24 3. Narrow Tailoring to Achieve a Compelling State Interest?...........1341
+L85: 
+L86: cite43†¶25 4. Congressional District 28.......................................... 1344
+L87: 
+L88: cite44†¶26 B. Other Congressional Districts.........................................1344
+L89: 
+L90: cite45†¶27 V. Conclusion...............................................................1345
+L91: cite46†¶28 Special Concurrence......................................................1345
+L92: 
+L93: cite47†¶29 Appendix (Maps of Districts 18, 29, 30).................................... 1348
+L94: 
+L95: cite48†¶30 Order...................................................................1351
+L96: 
+L97: Before JONES, Circuit Judge, HITTNER and HARMON, District Judges.
+L98: 
+L99: cite49†¶31 OPINION
+L100: 
+L101: EDITH H. JONES, Circuit Judge:
+L102: 
+L103: cite50†¶32 I. INTRODUCTION
+L104: cite51†¶33 The Voting Rights Act of 1965 at one blow demolished the obvious devices that southern states had used to disenfranchise African-American voters for decades. The Act marked the full maturity in American political life of the Founders’ idea that “all men are created equal” and the Rev. Martin Luther King’s hope that his children would be judged by the content of their character, not the color of their skin.
+L105: The meaning of equality—as also enshrined in the cite52†Fourteenth Amendment ’s guarantee of “equal protection of the laws”—is the subject of this lawsuit.
+L106: cite53†¶34 It is no longer disputed that the cite52†Fourteenth and cite54†Fifteenth Amendments embody a right to ballot box equality among American citizens of different races or ethnic backgrounds. See, e.g., cite55†Rogers v. Lodge , cite55†458 U.S. 613 , cite55†102 S.Ct. 3272 , cite55†73 L.Ed.2d 1012 (1982); cite11†Baker v. Carr , cite11†369 U.S. 186 , cite11†82 S.Ct. 691 , cite11†7 L.Ed.2d 663 (1962); cite56†Gomillion v. Lightfoot , cite56†364 U.S. 339 , cite56†81 S.Ct. 125 , cite56†5 L.Ed.2d 110 (1960).
+L107: The cite52†Fourteenth Amendment also prohibits government from invidiously classifying persons because of their race. Repeatedly and in the strongest terms, the Supreme Court has condemned intentional racial discrimination by state agents or bodies. Where official discrimination is found to exist, the burden is on the governmental body to justify it by no less than a compelling governmental interest.
+L108: cite57†¶35 One year ago, the Supreme Court reaffirmed that intentional racial discrimination is offensive to the cite52†Equal Protection Clause when it occurs as part of legislative redistricting. See cite58†Shaw v. Reno , — U.S. -, cite58†113 S.Ct. 2816 , cite58†125 L.Ed.2d 511 (1993).
+L109: In Shaw, the Court held that “redistricting legislation [is unconstitutional if it] is so extremely irregular on its face that it rationally can be viewed only as an effort to segregate cite59†*1309 the races for purposes of voting, without regard for traditional districting principles and without sufficiently compelling justification.” cite58†Id. at-, cite58†113 S.Ct. at 2824 .
+L110: cite60†¶36 In 1991, the State of Texas deliberately redrew its Congressional boundary lines following the 1990 census with nearly exact knowledge of the racial makeup of every inhabited block of land in the state. This insight, worthy of Orwell’s Big Brother, was attainable because computer technology, made available since the last decennial census, superimposed at a touch of the keyboard block-by-block racial census statistics upon the detailed local maps vital to the redistricting process.
+L111: Not only did the state know the precise location of African-American, Hispanic, and Anglo populations, but it repeatedly segregated those populations by race to further the prospects of incumbent officeholders or to create “majority-minority” Congressional districts. The result of the Legislature’s efforts is House Bill 1 (“HBl”), a crazy-quilt of districts that more closely resembles a Modigliani painting than the work of public-spirited representatives.1
+L112: cite61†¶37 The challenged plan (HBl) was passed in the second called session of the 72nd Texas Legislature and signed into law by the Governor on August 29,1991. See Plaintiff Exh. 1. On November 18, 1991, the Texas Congressional Redistricting Plan received § 5 preelearance from the Attorney General.2See United States Exh. 1007; Stip. 37. Notwithstanding the preclearance, the Attorney General expressed fundamental reservations about the redistricting plan:
+L113: > While we are preclearing this plan under Section 5, the extraordinarily convoluted nature of some districts compels me to
+L114: 
+L115: > disclaim any implication that the proposed plan is otherwise lawful or constitutional.
+L116: 
+L117: cite62†¶38 United States Exh. 1007 at 2.
+L118: cite63†¶39 The plaintiffs in this case are six Texas voters who reside in Congressional Districts 18, 25, 29, and 30. In a pretrial stipulation, they alleged that 24 of the state’s 30 Congressional Districts are the product of racial gerrymandering or intentional racial discrimination.3
+L119: cite64†¶40 The question before this court is whether any of the 24 challenged Congressional Districts, many of whose boundaries were clearly affected by racial considerations, can be sufficiently explained by legitimate redistricting criteria other than race. See Shaw, — U.S. at -, cite58†113 S.Ct. at 2824 . For reasons that follow, we conclude that Congressional Districts 18, 29, and 30 as presently drawn are not so explainable.
+L120: They were conceived for the purpose of providing “safe” seats in Congress for two African-American and an Hispanic representatives. They were scientifically designed to muster a minimum percentage of the favored minority or ethnic group; minority numbers are virtually all that mattered in the shape of those districts. Those districts consequently bear the odious imprint of racial apartheid, and districts that intermesh with them are necessarily racially tainted.
+L121: cite65†¶41 Other challenged Texas Congressional Districts are disfigured4 less to favor or disadvantage one race or ethnic group than to promote the reelection of incumbents; they are not unconstitutionally segregated.
+L122: cite66†¶42 We do not hold that the state may only draw Congressional boundaries with a blind eye toward race, a goal which would be impossible, nor that it is altogether prohibited from creating majority-minority districts. cite67†*1310 But when the State redraws the boundaries of Districts 18, 29, and 30 and contiguous districts, it can and must exhibit respect for neighborhoods, communities, and political subdivision lines. As the Supreme Court put it, appearances do matter. cite58†Id. at-, cite58†113 S.Ct.
+L123: at 2827 . In appearance and in reality, these three districts were racially gerrymandered.
+L124: cite68†¶43 Racial gerrymandering is unconstitutional, but it is also morally wrong, inconsistent with our founding tradition and Martin Luther King’s vision. The color of a person’s skin or his or her ethnic identity is the least meaningful way in which to understand that person. To elevate racial classification as a basis for political representation inevitably defeats the principle of equality because it causes all of society to become more, not less, race-conscious. Justice William 0.
+L125: Douglas put this point well:
+L126: > When racial or religious lines are drawn by the State, the multiracial, multireligious communities that our Constitution seeks to weld together as one become separatist; antagonisms that relate to race or to religion rather than to political issues are generated; communities seek not the best representative but the best racial or religious partisan. Since that system is at war with the democratic ideal, it should find no footing here.
+L127: cite69†¶44 cite70†Wright v. Rockefeller , cite71†376 U.S. 52, 67 , cite72†84 S.Ct. 603, 611 , cite73†11 L.Ed.2d 512 (1964) (Douglas, J., dissenting) (quoted in Shaw, — U.S. at -, cite74†113 S.Ct. at 2827 ).
+L128: 
+L129: cite75†¶45 II. PROCEDURAL HISTORY
+L130: cite76†¶46 The plaintiffs are six registered voters who reside in Congressional Districts 18, 25, and 29 (located in whole or in part in Harris County), and in District 30 (most of which is located in Dallas County). See Complaint at 4 ¶7.
+L131: Plaintiffs filed their Original Complaint for Permanent Injunction and Declaratory Judgment and Motion for Preliminary Injunction on January 26, 1994 against the Governor, the Lieutenant Governor, the Attorney General, and the Secretary of State as well as the Speaker of the Texas House of Representatives.
+L132: cite77†¶47 The complaint alleged that the 1991 Congressional Redistricting Plan for the State of Texas “represents an unconstitutional effort to segregate the races for purposes of voting: (1) without regard for traditional districting principles, including compactness, contiguousness [sic], consistency with existing political, economic, societal, governmental or jurisdictional boundaries; (2) without sufficiently compelling justification; and (3) without ‘narrow tailoring’ as required by the cite78†United States Constitution .” Complaint at 2 ¶ l.5
+L133: cite79†¶48 Candidate qualifying for the March 8, 1994 primary elections in Texas closed on January 3, 1994 and early voting began on February 16. On March 2, 1994, the court enteied an order denying the plaintiffs’ motion for a preliminary injunction and their motion for consolidation and expedited hearing and set trial for June 28, 1994. Also on March 2, 1994, the court granted the motion of the United States to participate as amicus curiae in the case.
+L134: On March 14,1994, the state defendants in this action filed their answer to the complaint.
+L135: cite80†¶49 On May 5, 1994, the court granted the motion to intervene of six African-American registered voters represented by the NAACP Legal Defense and Educational Fund, Inc. (“Lawson Intervenors”). On May 20, 1994, the court granted the motion of the United States to intervene. A week later, on May 27, 1994, the court entered an order granting intervention to both The League of United Latin American Citizens (“LULAC”) and seven Hispanic registered voter members of the organization.
+L136: cite81†¶50 On June 13,1994, the United States filed a motion to bifurcate trial; the court denied the motion on June 17, 1994. On June 16, 1994, the court conducted the pretrial conference. At the pretrial conference, the court set the pretrial schedule and directed the plaintiffs to file a statement narrowing the districts to which they asserted challenges cite82†*1311 and eliminating any claims not supported by substantial evidence or case law.
+L137: In response, on June 16,1994, the plaintiffs filed a statement dismissing their § 26 and state constitutional claims and identifying six districts that they did not challenge under the cite52†Fourteenth Amendment . In a subsequent filing, the plaintiffs dismissed their cite54†Fifteenth Amendment claims.7 Trial was held June 27-30 and concluded on July 1, 1994.
+L138: cite83†¶51 To expedite matters, this court limited the parties’ trial time while permitting them to submit virtually unlimited additional documentary and deposition evidence. The parties liberally accepted this offer.8 The court has reviewed all of the evidence brought before us. The record references below highlight and summarize the testimony.
+L139: 
+L140: cite84†¶52 III. EVIDENTIARY BACKGROUND
+L141: 
+L142: cite85†¶53 A. Texas Demography Related to Redistricting
+L143: cite86†¶54 Congressional redistricting in Texas operated against a backdrop of important demographic changes throughout the state. Population growth from 1980 to 1990 was largely attributable to significant population growth among Hispanics and African-Americans. Of particular interest is the enormous increase in Hispanic population state-wide. Thus, what follows are the Census figures chronicling minority-led population growth in Texas during the 1980’s.
+L144: cite87†¶55 According to the 1980 Census, Texas’ total population was 14,229,191, of whom 2,985,824 (20.98%) were Hispanic, 1,692,542 (11.89%) were non-Hispanic African-American, and 9,350,297 (65.7%) were Anglo. See Stip. 7. By the 1990 Census, Texas’ total population had increased to 16,986,510, of whom 4,339,-905 (22.55%) were Hispanic, 1,976,360 (11.-63%) were non-Hispanic African-American, and 10,291,680 (60.59%) were Anglo.
+L145: The increase in population from 1980 to 1990 (2,757,319 persons) entitled Texas to three additional seats in the United States House of Representatives, increasing the size of the delegation from 27 to 30. See Stip. 8. Based on the 1990 Census, the ideal size of a Texas Congressional district is 566,217. See Stip. 17.
+L146: cite88†¶56 Under the 1980 Census, Texas’ voting-age population was 9,923,085, of whom 1,756,971 (17.71%) were Hispanic, 1,095,836 (11.04%) were non-Hispanic African-American, and 6,932,894 (69.87%) were Anglo. See Stip. 9. By 1990, Texas’ voting-age population had increased to 12,150,671, of whom 2,719,586 (22.38%) were Hispanic, 1,336,688 (11.0%) were non-Hispanie African-American, and 7,828,352 (64.43%) were Anglo. See Stip. 10. Taking citizenship into account alters these percentages.
+L147: Under 1990 figures, the total citizen voting age population is only 11,313,-641, of whom 2,085,857 (18.4%) were Hispanic, and 1,315,860 (11.6%) were non-Hispanie African-American. See State Exh. 14, Appendix 1.
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn9view3 [wordlim: 200] Source: open({"ref_id":"https://static.case.law/f3d/46/668.html","lineno":null}); Total lines: 1
+

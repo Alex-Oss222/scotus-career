@@ -1,0 +1,7 @@
+# Melendez — narrow source extraction for neutral validation
+
+Control extraction, not a modeling determination. The historical Supreme Court opinion was read in full, including its footnotes, by a context already exposed to excluded material. Only its objective account of filing contents is supplied here; no outcome, coalition, substantive motion rule, or historical reach determination is incorporated.
+
+Source: [518 U.S. 120, footnote 2, Cornell primary text](https://www.law.cornell.edu/supct/html/95-5661.ZO.html). The opinion characterizes the argument that the plea agreement was ambiguous about a below-statutory-minimum request as first advanced in the petitioner's reply brief, and cites reply pages 7–8. That is a published judicial characterization of presentation history. The original reply OCR is recovered in `tmp/OT1995_CHUNK8_C/melendez/`, but this extraction does not claim an independent full comparison of every earlier filing.
+
+The quoted petition question concerns whether a Guidelines departure request allows a below-statutory-minimum sentence without another government application. A plea-promise enforcement or interpretation claim is analytically distinct. Whether the former includes the latter, and whether a late presentation should be reached, remain independent modeling questions under actual governing review law. No historical Court choice on those questions supplies an in-world disposition.

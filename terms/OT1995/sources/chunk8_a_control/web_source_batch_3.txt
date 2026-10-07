@@ -1,0 +1,31 @@
+Internal Error ()
+citeturn11view0 [wordlim: 200] Source: open({"ref_id":"https://www.govinfo.gov/content/pkg/USCODE-1994-title26/pdf/USCODE-1994-title26-subtitleD-chap34.pdf","lineno":null}); Total lines: 1
+L0: URL https://www.govinfo.gov/content/pkg/USCODE-1994-title26/pdf/USCODE-1994-title26-subtitleD-chap34.pdf is not accessible via this tool.
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn11view1 [wordlim: 200] Source: open({"ref_id":"https://openjurist.org/59/f3d/1234/international-business-machines-corp-v-united-states","lineno":null}); Total lines: 1
+L0: URL https://openjurist.org/59/f3d/1234/international-business-machines-corp-v-united-states is not accessible via this tool.
+--------------------------------------------------------------------------------
+Lockheed Corp. et al. v. Spink, 517 U.S. 882 (1996). (https://www.law.cornell.edu/supct/html/95-809.ZX.html)
+citeturn11view2 [wordlim: 200] Crawled: 6 days ago; Content type: text/html; Source: click({"ref_id":"turn9view1","id":4}); Total lines: 24
+L0: (95-809),
+L1: Syllabus
+L2:  | Opinion
+L3: [ Thomas ]  | Other
+L4: [ Breyer ]
+L5: --- | --- | ---
+L6: cite0†HTML version L7: cite1†WordPerfect version | cite2†HTML version L8: cite3†WordPerfect version | cite4†HTML version L9: cite5†WordPerfect version L10: 
+L11: * * *
+L12: 
+L13: No. 95-809
+L14: 
+L15: * * *
+L16: 
+L17: ### LOCKHEED CORPORATION, et al., PETITIONERS v. PAUL L. SPINK
+L18: 
+L19: #### on writ of certiorari to the united states court of appeals for the ninth circuit
+L20: 
+L21: [June 10, 1996]
+L22: 
+L23: Justice Breyer , with whom Justice Souter joins,
+

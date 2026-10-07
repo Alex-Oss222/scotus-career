@@ -1,0 +1,1958 @@
+SOURCE: https://www.ussc.gov/sites/default/files/pdf/guidelines-manual/1992/manual-pdf/Chapter_5.pdf
+
+[[PDF page 1]]
+CHAPTER FIVE - DETERMINING THE SENTENCE
+Introductory Commentary
+For certain categories of offenses and offenders, the guidelines permit the court to impose either
+imprisonment or some other sanction or combination of sanctions. In determining the type of
+sentence to impose, the sentencing judge should consider the nature and seriousness of the conduct,
+the statutory purposes of sentencing, and the pertinent offender characteristics. A sentence is within
+the guidelines if it complies with each applicable section of this chapter. The court should impose
+a sentence sufficient, but not greater than necessary, to comply with the statutory purposes of
+sentencing. 18 U.S.C. § 3553(a).
+Historical Note: Effective November 1, 1987.
+PART A - SENTENCING TABLE
+The Sentencing Table used to determine the guideline range follows:
+287 November 1, 1992
+
+[[PDF page 2]]
+Offense
+Level
+Zone A
+Zone B
+Zone C
+Zone D
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+SENTENCING TABLE
+(in months of imprisonment)
+Criminal History Category (Criminal History Points)
+I
+(0 or 1)
+II
+(2 or 3)
+III
+(4, 5, 6)
+IV
+(7, 8, 9)
+V
+(10,11,12)
+VI
+(13 or more)
+0-6
+0-6
+0-6
+0-6
+0-6
+0-6
+0-6
+0-6
+4-10
+6-12
+8-14
+10-16
+12-18
+15-21
+18-24
+21 -27
+24-30
+27-33
+30-37
+33-41
+37-46
+41 -51
+46-57
+51 -63
+57-71
+63-78
+70-87
+78-97
+87-108
+97-121
+108-135
+121 151
+135-168
+151 188
+168-210
+188-235
+210-262
+235 - 293
+262 - 327
+292 - 365
+324 - 405
+360 - life
+life
+0-6
+0-6
+0-6
+0-6
+0-6
+1 -7
+2-8
+4-10
+6-12
+8-14
+10-16
+12-18
+15-21
+18-24
+21 -27
+24-30
+27-33
+30-37
+33-41
+37-46
+41 -51
+46-57
+51 -63
+57-71
+63-78
+70-87
+78-97
+87-108
+97-121
+108-135
+121-151
+135-168
+151 188
+168-210
+188-235
+210-262
+235 - 293
+262 - 327
+292 - 365
+324 - 405
+360 - life
+360 - life
+life
+0-6
+0-6
+0-6
+0-6
+1 -7
+2-8
+4-10
+6-12
+8-14
+10-16
+12-18
+15-21
+18-24
+21 -27
+24-30
+27-33
+30-37
+33-41
+37-46
+41 -51
+46-57
+51 -63
+57-71
+63-78
+70-87
+78-97
+87-108
+97 121
+108-135
+121 -151
+135-168
+151 -188
+168-210
+188-235
+210-262
+235 - 293
+262 - 327
+292 - 365
+324 - 405
+360 - life
+360 - life
+360 - life
+life
+0-6
+0-6
+0-6 [
+2-8
+4-10
+6-12
+8-14
+10-16
+12-18
+15-21
+18-24
+21 -27
+24-30
+27-33
+30-37
+33-41
+37-46
+41 -51
+46-57
+51 -63
+57-71
+63-78
+70-87
+77-96
+84-105
+92-115
+100-125
+110-137
+121 -151
+135-168
+151-188
+168-210
+188 - 235
+210-262
+235 - 293
+262 - 327
+292 - 365
+324 - 405
+360 - life
+360 - life
+360 - life
+360 - life
+life
+0-6
+0-6
+2-8
+4-10
+6-12
+12-18
+15-21
+18-24
+21 -27
+24-30
+27-33
+30-37
+33-41
+37-46
+41 -51
+46-57
+51 -63
+57-71
+63-78
+70-87
+77-96
+84-105
+92-115
+100-125
+110-137
+120-150
+130-162
+140-175
+151-188
+168-210
+188-235
+210-262
+235 - 293
+262 - 327
+292 - 365
+324 - 405
+360 - life
+360 - life
+360 - life
+360 - life
+360 - life
+life
+0-6
+1 -7
+3-9
+6-12
+9-15
+9-15 | 12-18
+15-21
+18-24
+21 -27
+24-30
+27-33
+30-37
+33-41
+37-46
+41 -51
+46-57
+51 -63
+57-71
+63-78
+70-87
+77-96
+84-105
+92-115
+100-125
+110-137
+120-150
+130-162
+140-175
+151 188
+168-210
+188-235
+210-262
+235 - 293
+262 - 327
+292 - 365
+324 - 405
+360 - life
+360 - life
+360 - life
+360 - life
+360 - life
+360 - life
+life
+288 November 1,1992
+
+[[PDF page 3]]
+Commentary to Sentencing Table
+Application Notes:
+1. The Offense Level (1-43) forms the vertical axis of the Sentencing Table. The Criminal History
+Category (I-VI) forms the horizontal axis of the Table. The intersection of the Offense Level
+and Criminal History Category displays the Guideline Range in months of imprisonment.
+"Life" means life imprisonment. For example, the guideline range applicable to a defendant
+with an Offense Level of 15 and a Criminal History Category of III is 24-30 months of
+imprisonment.
+2. In rare cases, a total offense level of less than 1 or more than 43 may result from application
+of the guidelines. A total offense level of less than 1 is to be treated as an offense level of 1.
+An offense level of more than 43 is to be treated as an offense level of 43.
+3. The Criminal History Category is determined by the total criminal history points from Chapter
+Four, Part A, except as provided in §§4B1.1 (Career Offender) and 4B1.4 (Armed Career
+Criminal). The total criminal history points associated with each Criminal History Category
+are shown under each Criminal History Category in the Sentencing Table.
+Historical Note: Effective November 1, 1987. Amended effective November 1, 1989 (see Appendix C, amendment 270);
+November 1, 1991 (see Appendix C, amendment 418); November 1, 1992 (see Appendix C, amendment 462).
+289 November 1, 1992
+
+[[PDF page 4]]
+[Page intentionally blank]
+290 November 1, 1992
+
+[[PDF page 5]]
+PART B - PROBATION
+Introductory Commentary
+The Comprehensive Crime Control Act of 1984 makes probation a sentence in and of itself
+18 U.S.C. § 3561. Probation may be used as an alternative to incarceration, provided that the terms
+and conditions of probation can be fashioned so as to meet fully the statutory purposes of sentencing,
+including promoting respect for law, providing just punishment for the offense, achieving general
+deterrence, and protecting the public from further crimes by the defendant.
+Historical Note: Effective November 1, 1987.
+§5B1.1. Imposition of a Term of Probation
+(a) Subject to the statutory restrictions in subsection (b) below, a sentence of
+probation is authorized if:
+(1) the applicable guideline range is in Zone A of the Sentencing Table; or
+(2) the applicable guideline range is in Zone B of the Sentencing Table
+and the court imposes a condition or combination of conditions
+requiring intermittent confinement, community confinement, or home
+detention as provided in subsection (c)(3) of §5C1.1 (Imposition of a
+Term of Imprisonment).
+(b) A sentence of probation may not be imposed in the event:
+(1) the offense of conviction is a Class A or B felony, 18 U.S.C.
+§ 3561(a)(l);
+(2) the offense of conviction expressly precludes probation as a sentence,
+18 U.S.C. § 3561(a)(2);
+(3) the defendant is sentenced at the same time to a sentence of
+imprisonment for the same or a different offense, 18 U.S.C.
+§ 3561(a)(3).
+Commentary
+Application Notes:
+1 Except where prohibited by statute or by the guideline applicable to the offense in Chapter Two,
+the guidelines authorize, but do not require, a sentence of probation in the following
+circumstances:
+(a\ Where, the applicable guideline ranee is in Zone A of the Sentencing Table (i.e., the
+minimum term of imprisonment specified in the applicable euideline ranee is zero
+months) In such cases, a condition requiring a period of community confinement,
+home detention, or intermittent confinement may be imposed but is not required.
+291 November 1, 1992
+
+[[PDF page 6]]
+(b) Where the applicable guideline range is in Zone B of the Sentencing Table (i.e.. the
+minimum term of imprisonment specified in the applicable guideline range is at least one
+but not more than six months). In such cases, the court may impose probation only if
+it imposes a condition or combination of conditions requiring a period of community
+confinement, home detention, or intermittent confinement sufficient to satisfy the
+minimum term of imprisonment specified in the guideline range. For example, where the
+offense level is 7 and the criminal history category is II, the guideline range from the
+Sentencing Table is 2-8 months. In such case, the court may impose a sentence of
+probation only if it imposes a condition or conditions requiring at least two months of
+community confinement, home detention, or intermittent confinement, or a combination
+of community confinement, home detention, and intermittent confinement totalling at
+least two months.
+2. Where the applicable guideline range is in Zone C or D of the Sentencing Table (ue^ the
+minimum term of imprisonment specified in the applicable guideline range is eight months or
+more), the guidelines do not authorize a sentence of probation. See §5C1.1 (Imposition of a
+Term of Imprisonment).
+Background: This section provides for the imposition of a sentence of probation. The court may
+sentence a defendant to a term of probation in any case unless (1) prohibited by statute, or (2) where
+a term of imprisonment is required under §5CU (Imposition of a Term of Imprisonment). Under
+18 U.S.C. § 3561 (a)(3), the imposition of a sentence of probation is prohibited where the defendant
+is sentenced at the same time to a sentence of imprisonment for the same or a different offense.
+Although this provision has effectively abolished the use of "split sentences" imposable pursuant to
+the former 18 U.S.C. § 3651, the drafters of the Sentencing Reform Act noted that the functional
+equivalent of the split sentence could be "achieved by a more direct and logically consistent route"
+by providing that a defendant serve a term of imprisonment followed by a period of supervised
+release. (S. Rep. No. 225, 98th Cong., 1st Sess. 89 (1983)). Section 5Bl.l(a)(2) provides a
+transition between the circumstances under which a "straight" probationary term is authorized and
+those where probation is prohibited.
+Historical Note: Effective November 1, 1987. Amended effective November 1, 1989 (see Appendix C, amendment 302);
+November 1, 1992 (see Appendix C, amendment 462).
+§5B1.2. Term of Probation
+(a) When probation is imposed, the term shall be:
+(1) at least one year but not more than five years if the offense level is 6
+or greater;
+(2) no more than three years in any other case.
+Commentary
+Background: This section governs the length of a term of probation. Subject to statutory restrictions,
+the guidelines provide that a term of probation may not exceed three years if the offense level is less
+than 6. If a defendant has an offense level of 6 or greater, the guidelines provide that a term of
+probation be at least one year but not more than five years. Although some distinction in the length
+of a term of probation is warranted based on the circumstances of the case, a term of probation may
+also be used to enforce conditions such as fine or restitution payments, or attendance in a program
+292 November 1, 1992
+
+[[PDF page 7]]
+of treatment such as drug rehabilitation. Often, it may not be possible to determine the amount of
+time required for the satisfaction of such payments or programs in advance. This issue has been
+resolved by setting forth two broad ranges for the duration of a term of probation depending upon
+the offense level. Within the guidelines set forth in this section, the determination of the length of
+a term of probation is within the discretion of the sentencing judge.
+Historical Note: Effective November 1, 1987.
+§5B1.3. Conditions of Probation
+(a) If a term of probation is imposed, the court shall impose a condition that the
+defendant shall not commit another federal, state, or local crime during the
+term of probation. 18 U.S.C. § 3563(a)(l). The court shall also impose a
+condition that the defendant not possess illegal controlled substances.
+18 U.S.C. § 3563(a)(3).
+(b) The court may impose other conditions that (1) are reasonably related to the
+nature and circumstances of the offense, the history and characteristics of the
+defendant, and the purposes of sentencing and (2) involve only such
+deprivations of liberty or property as are reasonably necessary to effect the
+purposes of sentencing. 18 U.S.C. § 3563(b). Recommended conditions are
+set forth in §5B1.4.
+(c) If a term of probation is imposed for a felony, the court shall impose at least
+one of the following as a condition of probation: a fine, an order of restitution,
+or community service, unless the court finds on the record that extraordinary
+circumstances exist that would make such a condition plainly unreasonable, in
+which event the court shall impose one or more of the other conditions set
+forth under 18 U.S.C. § 3563(b). 18 U.S.C. § 3563(a)(2).
+(d) Intermittent confinement (custody for intervals of time) may be ordered as a
+condition of probation during the first year of probation. 18 U.S.C.
+§ 3563(b)(ll). Intermittent confinement shall be credited toward the guideline
+term of imprisonment at §5C1.1 as provided in the schedule at §5Cl.l(e).
+Commentary
+A broader form of the condition inquired under 18 U.S.C. § 3563(a)(3) (pertaining to
+possession of controlled substances) is set forth as recommended condition (7) at §5B1.4
+(Recommended Conditions of Probation and Supervised Release).
+Historical Note: Effective November 1, 1987. Amended effective November 1, 1989 (see Appendix C, amendments 273,
+274, and 302).
+§5B1.4. Recommended Conditions of Probation and Supervised Release (Policy Statement)
+(a) The following "standard" conditions (1-13) are generally recommended for both
+probation and supervised release:
+293 November 1, 1992
+
+[[PDF page 8]]
+(1) the defendant shall not leave the judicial district or other specified
+geographic area without the permission of the court or probation
+officer;
+(2) the defendant shall report to the probation officer as directed by the
+court or probation officer and shall submit a truthful and complete
+written report within the first five days of each month;
+(3) the defendant shall answer truthfully all inquiries by the probation
+officer and follow the instructions of the probation officer;
+(4) the defendant shall support his dependents and meet other family
+responsibilities;
+(5) the defendant shall work regularly at a lawful occupation unless excused
+by the probation officer for schooling, training, or other acceptable
+reasons;
+(6) the defendant shall notify the probation officer within seventy-two hours
+of any change in residence or employment;
+(7) the defendant shall refrain from excessive use of alcohol and shall not
+purchase, possess, use, distribute, or administer any narcotic or other
+controlled substance, or any paraphernalia related to such substances,
+except as prescribed by a physician;
+(8) the defendant shall not frequent places where controlled substances are
+illegally sold, used, distributed, or administered, or other places
+specified by the court;
+(9) the defendant shall not associate with any persons engaged in criminal
+activity, and shall not associate with any person convicted of a felony
+unless granted permission to do so by the probation officer;
+(10) the defendant shall permit a probation officer to visit him at any time
+at home or elsewhere and shall permit confiscation of any contraband
+observed in plain view by the probation officer;
+(11) the defendant shall notify the probation officer within seventy-two hours
+of being arrested or questioned by a law enforcement officer;
+(12) the defendant shall not enter into any agreement to act as an informer
+or a special agent of a law enforcement agency without the permission
+of the court;
+(13) as directed by the probation officer, the defendant shall notify third
+parties of risks that may be occasioned by the defendant's criminal
+record or personal history or characteristics, and shall permit the
+probation officer to make such notifications and to confirm the
+defendant's compliance with such notification requirement.
+294 November 1, 1992
+
+[[PDF page 9]]
+(b) The following "special" conditions of probation and supervised release (14-24)
+are either recommended or required by law under the circumstances described,
+or may be appropriate in a particular case:
+(14) Possession of Weapons
+If the instant conviction is for a felony, or if the defendant was
+previously convicted of a felony or used a firearm or other dangerous
+weapon in the course of the instant offense, it is recommended that the
+court impose a condition prohibiting the defendant from possessing a
+firearm or other dangerous weapon.
+(15) Restitution
+If the court imposes an order of restitution, it is recommended that the
+court impose a condition requiring the defendant to make payment of
+restitution or adhere to a court ordered installment schedule for
+payment of restitution. See §5E1.1 (Restitution).
+(16) Fines
+If the court imposes a fine, it is recommended that the court impose
+a condition requiring the defendant to pay the fine or adhere to a court
+ordered installment schedule for payment of the fine.
+(17) Debt Obligations
+If an installment schedule of payment of restitution or fines is imposed,
+it is recommended that the court impose a condition prohibiting the
+defendant from incurring new credit charges or opening additional lines
+of credit without approval of the probation officer unless the defendant
+is in compliance with the payment schedule.
+(18) Access to Financial Information
+If the court imposes an order of restitution, forfeiture, or notice to
+victims, or orders the defendant to pay a fine, it is recommended that
+the court impose a condition requiring the defendant to provide the
+probation officer access to any requested financial information.
+(19) Community Confinement
+Residence in a community treatment center, halfway house or similar
+facility may be imposed as a condition of probation or supervised
+release. See §5F1.1 (Community Confinement).
+(20) Home Detention
+Home detention may be imposed as a condition of probation or
+supervised release, but only as a substitute for imprisonment. See
+§5F1.2 (Home Detention).
+295 November 1, 1992
+
+[[PDF page 10]]
+(21) Community Service
+Community service may be imposed as a condition of probation or
+supervised release. See §5F1.3 (Community Service).
+(22) Occupational Restrictions
+Occupational restrictions may be imposed as a condition of probation
+or supervised release. See §5F1.5 (Occupational Restrictions).
+(23) Substance Abuse Program Participation
+If the court has reason to believe that the defendant is an abuser of
+narcotics, other controlled substances or alcohol, it is recommended
+that the court impose a condition requiring the defendant to participate
+in a program approved by the United States Probation Office for
+substance abuse, which program may include testing to determine
+whether the defendant has reverted to the use of drugs or alcohol.
+(24) Mental Health Program Participation
+If the court has reason to believe that the defendant is in need of
+psychological or psychiatric treatment, it is recommended that the court
+impose a condition requiring that the defendant participate in a mental
+health program approved by the United States Probation Office.
+If the court concludes that restricting the defendant to his place of
+residence during evening and nighttime hours is necessary to provide
+just punishment for the offense, to protect the public from crimes that
+the defendant might commit during those hours, or to assist in the
+rehabilitation of the defendant, a condition of curfew is recommended.
+Electronic monitoring may be used as a means of surveillance to ensure
+compliance with a curfew order.
+Commentary
+Application Note:
+1. Home detention, as defined by §5F1.3, may only be used as a substitute for imprisonment. See,
+§5C1.1 (Imposition of a Term of Imprisonment). Under home detention, the defendant, with
+specified exceptions, is restricted to his place of residence during all non-working hours.
+Curfew, which limits the defendant to his place of residence during evening and nighttime
+hours, is less restrictive than home detention and may be imposed as a condition of probation
+whether or not imprisonment could have been ordered.
+Historical Note: Effective November 1, 1987. Amended effective November 1, 1989 (see Appendix C, amendments 271,
+272, and 302).
+296 November 1, 1992
+
+[[PDF page 11]]
+PART C - IMPRISONMENT
+§5C1.1. Imposition of a Term of Imprisonment
+(a) A sentence conforms with the guidelines for imprisonment if it is within the
+minimum and maximum terms of the applicable guideline range.
+(b) If the applicable guideline range is in Zone A of the Sentencing Table, a
+sentence of imprisonment is not required, unless the applicable guideline in
+Chapter Two expressly requires such a term.
+(c) If the applicable guideline range is in Zone B of the Sentencing Table, the
+minimum term may be satisfied by ~
+(1) a sentence of imprisonment; or
+(2) a sentence of imprisonment that includes a term of supervised release
+with a condition that substitutes community confinement or home
+detention according to the schedule in subsection (e), provided that at
+least one month is satisfied by imprisonment; or
+(3) a sentence of probation that includes a condition or combination of
+conditions that substitute intermittent confinement, community
+confinement, or home detention for imprisonment according to the
+schedule in subsection (e).
+(d) If the applicable guideline range is in Zone C of the Sentencing Table, the
+minimum term may be satisfied by —
+(1) a sentence of imprisonment; or
+(2) a sentence of imprisonment that includes a term of supervised release
+with a condition that substitutes community confinement or home
+detention according to the schedule in subsection (e), provided that at
+least one-half of the minimum term is satisfied by imprisonment.
+(e) Schedule of Substitute Punishments:
+(1) One day of intermittent confinement in prison or jail for one day of
+imprisonment (each 24 hours of confinement is credited as one day of
+intermittent confinement, provided, however, that one day shall be
+credited for any calendar day during which the defendant is employed
+in the community and confined during all remaining hours);
+(2) One day of community confinement (residence in a community
+treatment center, halfway house, or similar residential facility) for one
+day of imprisonment;
+(3) One day of home detention for one day of imprisonment.
+(f) If the applicable guideline range is in Zone D of the Sentencing Table, the
+minimum term shall be satisfied by a sentence of imprisonment.
+297 November 1, 1992
+
+[[PDF page 12]]
+Commentary
+Application Notes:
+1. Subsection (a) provides that a sentence conforms with the guidelines for imprisonment if it is
+within the minimum and maximum terms of the applicable guideline range specified in the
+Sentencing Table in Part A of this Chapter. For example, if the defendant has an Offense
+Level of 20 and a Criminal History Category of I, the applicable guideline range is 33-41
+months of imprisonment. Therefore, a sentence of imprisonment of at least thirty-three months,
+but not more than forty-one months, is within the applicable guideline range.
+2. Subsection (b) provides that where the applicable guideline range is in Zone A of the
+Sentencing Table (le^ the minimum term of imprisonment specified in the applicable guideline
+range is zero months), the court is not required to impose a sentence of imprisonment unless
+a sentence of imprisonment or its equivalent is specifically required by the guideline applicable
+to the offense. Where imprisonment is not required, the court, for example, may impose a
+sentence of probation. In some cases, a fine appropriately may be imposed as the sole
+sanction.
+3. Subsection (c) provides that where the applicable guideline range is in Zone B of the
+Sentencing Table (Le^ the minimum term of imprisonment specified in the applicable guideline
+range is at least one but not more than six months), the court has three options:
+It may impose a sentence of imprisonment.
+It may impose a sentence of probation provided that it includes a condition of probation
+requiring a period of intermittent confinement, community confinement, or home
+detention, or combination of intermittent confinement, community confinement, and
+home detention, sufficient to satisfy the minimum period of imprisonment specified in
+the guideline range. For example, where the guideline range is 4-10 months, a sentence
+of probation with a condition requiring at least four months of intermittent confinement,
+community confinement, or home detention would satisfy the minimum term of
+imprisonment specified in the guideline range.
+Or, it may impose a sentence of imprisonment that includes a term of supervised release
+with a condition that requires community confinement or home detention. In such case,
+at least one month must be satisfied by actual imprisonment and the remainder of the
+minimum term specified in the guideline range must be satisfied by community
+confinement or home detention. For example, where the guideline range is 4-10 months,
+a sentence of imprisonment of one month followed by a term of supervised release with
+a condition requiring three months of community confinement or home detention would
+satisfy the minimum term of imprisonment specified in the guideline range.
+The preceding examples illustrate sentences that satisfy the minimum term of imprisonment
+required by the guideline range. The court, of course, may impose a sentence at a higher point
+within the applicable guideline range. For example, where the guideline range is 4-10 months,
+both a sentence of probation with a condition requiring six months of community confinement
+or home detention (under subsection (c)(3)) and a sentence of two months imprisonment
+followed by a term of supervised release with a condition requiring four months of community
+confinement or home detention (under subsection (c)(2)) would be within the guideline range.
+298 November 1, 1992
+
+[[PDF page 13]]
+4. Subsection (d) provides that where the applicable guideline range is in Zone C of the
+Sentencing Table (X&, the minimum term specified in the applicable guideline range is eight,
+nine, or ten months), the court has two options:
+It may impose a sentence of imprisonment.
+Or, it may impose a sentence of imprisonment that includes a term of supervised release
+with a condition requiring community confinement or home detention. In such case, at
+least one-half of the minimum term specified in the guideline range must be satisfied by
+imprisonment, and the remainder of the minimum term specified in the guideline range
+must be satisfied by community confinement or home detention. For example, where the
+guideline range is 8-14 months, a sentence of four months imprisonment followed by a
+term of supervised release with a condition requiring four months community
+confinement or home detention would satisfy the minimum term of imprisonment
+required by the guideline range.
+The preceding example illustrates a sentence that satisfies the minimum term of imprisonment
+required by the guideline range. The court, of course, may impose a sentence at a higher point
+within the guideline range. For example, where the guideline range is 8-14 months, both a
+sentence of four months imprisonment followed by a term of supervised release with a
+condition requiring six months of community confinement or home detention (under subsection
+(d)), and a sentence of five months imprisonment followed by a term of supervised release with
+a condition requiring four months of community confinement or home detention (also under
+subsection (d)) would be within the guideline range.
+5. Subsection (e) sets forth a schedule of imprisonment substitutes.
+6. There may be cases in which a departure from the guidelines by substitution of a longer period
+of community confinement than otherwise authorized for an equivalent number of months of
+imprisonment is warranted to accomplish a specific treatment purpose (£&, substitution of
+twelve months in an approved residential drug treatment program for twelve months of
+imprisonment). Such a substitution should be considered only in cases where the defendant's
+criminality is related to the treatment problem to be addressed and there is a reasonable
+likelihood that successful completion of the treatment program will eliminate that problem.
+7. The use of substitutes for imprisonment as provided in subsections (c) and (d) is not
+recommended for most defendants with a criminal history category of III or above. Generally,
+such defendants have failed to reform despite the use of such alternatives.
+8. Subsection (f) provides that, where the applicable guideline range is in Zone D of the
+Sentencing Table (ue^ the minimum term of imprisonment specified in the applicable guideline
+range is twelve months or more), the minimum term must be satisfied by a sentence of
+imprisonment without the use of any of the imprisonment substitutes in subsection(e).
+Historical Note: Effective November 1, 1987. Amended effective January 15, 1988 (see Appendix C, amendment 51);
+November 1, 1989 (see Appendix C, amendments 271, 275, and 302); November 1, 1992 (see Appendix C, amendment
+462).
+299 November 1, 1992
+
+[[PDF page 14]]
+[Page intentionally blank]
+300 November 1, 1992
+
+[[PDF page 15]]
+PART D - SUPERVISED RELEASE
+§5D1.1. Imposition of a Term of Supervised Release
+(a) The court shall order a term of supervised release to follow imprisonment
+when a sentence of imprisonment of more than one year is imposed, or when
+required by statute.
+(b) The court may order a term of supervised release to follow imprisonment in
+any other case.
+Commentary
+Application Notes:
+1. Subsection 5Dll(a) requires imposition of supervised release following any sentence of
+imprisonment for a term of more than one year or if required by a specific statute. While there
+may be cases within this category that do not require post release supervision, these cases are
+the exception and may be handled by a departure from this guideline.
+2. Under §5Dl.l(b), the court may impose a term of supervised release in cases involving
+imprisonment for a term of one year or less. The court may consider the need for a term of
+supervised release to facilitate the reintegration of the defendant into the community; to enforce
+a fine, restitution order, or other condition; or to fulfill any other purpose authorized by statute.
+Historical Note: Effective November 1, 1987. Amended effective November 1, 1989 (see Appendix C, amendment 302).
+§5D1.2. Term of Supervised Release
+(a) If a defendant is convicted under a statute that requires a term of supervised
+release, the term shall be at least three years but not more than five years, or
+the minimum period required by statute, whichever is greater.
+(b) Otherwise, when a term of supervised release is ordered, the length of the
+term shall be:
+(1) at least three years but not more than five years for a defendant
+convicted of a Class A or B felony;
+(2) at least two years but not more than three years for a defendant
+convicted of a Class C or D felony;
+(3) one year for a defendant convicted of a Class E felony or a Class A
+misdemeanor.
+301 November 1, 1992
+
+[[PDF page 16]]
+Commentary
+Background: This section specifies the length of a term of supervised release that is to be imposed.
+Subsection (a) applies to statutes, such as the Anti-Drug Abuse Act of 1986, that require imposition
+of a specific minimum term of supervised release. Subsection (b) applies to all other statutes.
+Historical Note: Effective November 1, 1987. Amended effective January 15, 1988 (see Appendix C, amendment 52);
+November 1, 1989 (see Appendix C, amendment 302).
+§5D13. Conditions of Supervised Release
+(a) If a term of supervised release is imposed, the court shall impose a condition
+that the defendant not commit another federal, state, or local crime.
+18 U.S.C. § 3583(d). The court shall also impose a condition that the
+defendant not possess illegal controlled substances. 18 U.S.C. § 3563(a)(3).
+(b) The court may impose other conditions of supervised release, to the extent that
+such conditions are reasonably related to (1) the nature and circumstances of
+the offense and the history and characteristics of the defendant, and (2) the
+need for the sentence imposed to afford adequate deterrence to criminal
+conduct, to protect the public from further crimes of the defendant, and to
+provide the defendant with needed educational or vocational training, medical
+care, or other correctional treatment in the most effective manner. 18 U.S.C.
+§§ 3553(a)(2) and 3583(d).
+(c) Recommended conditions of supervised release are set forth in §5B1.4.
+Commentary
+Background: This section applies to conditions of supervised release. The conditions generally
+recommended for supervised release are those recommended for probation. See §5B1.4. A broader
+form of the condition required under 18 U.S.C. § 3563(a)(3) (pertaining to possession of controlled
+substances) is set forth as recommended condition (7) at §5B1.4 (Recommended Conditions of
+Probation and Supervised Release).
+Historical Note: Effective November 1, 1987. Amended effective November 1, 1989 (see Appendix C, amendments 276,
+277, and 302).
+302 November 1, 1992
+
+[[PDF page 17]]
+PART E - RESTITUTION, FINES, ASSESSMENTS, FORFEITURES
+§5E1.1. Restitution
+(a) The court shall --
+(1) enter a restitution order if such order is authorized under 18 U.S.C.
+§§ 3663-3664; or
+(2) if a restitution order would be authorized under 18 U.S.C. §§ 3663-
+3664, except for the fact that the offense of conviction is not an offense
+set forth in Title 18, United States Code, or 49 U.S.C. § 1472(h), (i),
+(j), or (n), impose a term of probation or supervised release with a
+condition requiring restitution.
+(b) Provided, that the provisions of subsection (a) do not apply when full
+restitution has been made, or to the extent the court determines that the
+complication and prolongation of the sentencing process resulting from the
+fashioning of a restitution requirement outweighs the need to provide
+restitution to any victims through the criminal process.
+(c) If a defendant is ordered to make restitution and to pay a fine, the court shall
+order that any money paid by the defendant shall first be applied to satisfy the
+order of restitution.
+(d) With the consent of the victim of the offense, the court may order a defendant
+to perform services for the benefit of the victim in lieu of monetary restitution
+or in conjunction therewith. 18 U.S.C. § 3663(b)(4).
+Commentary
+Background: Section 3553(a)(7) of Title 18 requires the court, "in determining the particular sentence
+to be imposed," to consider "the need to provide restitution to any victims of the offense." Section
+3556 of Title 18 authorizes the court to impose restitution in accordance with 18 U.S.C. §§ 3663 and
+3664, which authorize restitution for violations of Title 18 and of designated subdivisions of 49 U.S.C.
+§ 1472. For other offenses, restitution may be imposed as a condition of probation or supervised
+release. See. 18 U.S.C. § 3563(b)(3) as amended bv Section 7110 of Pub. L. No. 100-690 (1988).
+Subsection (a)(l) of this guideline requires the court to order restitution for offenses under Title
+18, United States Code, or 49 U.S.C. § 1472(h), (i), (j), or (n), unless full restitution has already
+been made or "the court determines that the complication and prolongation of the sentencing process
+resulting from the fashioning of an order of restitution . . . outweighs the need to provide restitution
+to any victims." 18 U.S.C. § 3663(d). If the court does not order restitution, or orders only partial
+restitution, it must state its reasons for doing so. 18 U.S.C. § 3553(c).
+In determining whether to impose an order of restitution, and the amount of restitution, the
+court shall consider the amount of loss the victim suffered as a result of the offense, the financial
+resources of the defendant, the financial needs of the defendant and his dependents, and other factors
+the court deems appropriate. 18 U.S.C. § 3664(a).
+303 November 1, 1992
+
+[[PDF page 18]]
+Pursuant to Rule 32(c)(2)(D), Federal Rules of Criminal Procedure, the probation officer's
+presentence investigation report must contain a victim impact statement. That report must contain
+information about the financial impact on the victim and the defendant's financial condition. The
+sentencing judge may base findings on the presentence report or other testimony or evidence supported
+by a preponderance of the evidence. 18 U.S.C. § 3664(d).
+A court's authority to deny restitution is limited. Even "in those unusual cases where the
+precise amount owed is difficult to determine, section 3579(d) authorizes the court to reach an
+expeditious, reasonable determination of appropriate restitution by resolving uncertainties with a view
+toward achieving fairness to the victim." S. Rep. No. 532, 97th Cong., 2d Sess. 31, reprinted in 1982
+U.S. Code Cong. & Ad. News 2515, 2537.
+Unless the court orders otherwise, restitution must be made immediately.
+18 U.S.C. § 3663(f)(3). The court may permit the defendant to make restitution within a specified
+period or in specified installments, provided that the last installment is paid not later than the
+expiration of probation, five years after the end of the defendant's term of imprisonment, or in any
+other case five years after the date of sentencing. 18 U.S.C. § 3663(f)(l) and (2). The restitution
+order should specify the manner in which, and the persons to whom, payment is to be made.
+Subsection (a) (2) provides for restitution as a condition of probation or supervised release for
+offenses not set forth in Title 18, United States Code, or 49 U.S.C. § 1472(h), (i), (j), or (n).
+Historical Note: Effective November 1, 1987. Amended effective January 15, 1988 (see Appendix C, amendment 53);
+November 1, 1989 (see Appendix C, amendments 278, 279, and 302); November 1, 1991 (see Appendix C, amendment
+383).
+§5E1.2. Fines for Individual Defendants
+(a) The court shall impose a fine in all cases, except where the defendant
+establishes that he is unable to pay and is not likely to become able to pay any
+fine.
+(b) Except as provided in subsections (f) and (i) below, or otherwise required by
+statute, the fine imposed shall be within the range specified in subsection (c)
+below. If, however, the guideline for the offense in Chapter Two provides a
+specific rule for imposing a fine, that rule takes precedence over subsection (c)
+of this section.
+(c) (1) The minimum of the fine range is the amount shown in column A of
+the table below.
+(2)
+(3)
+Except as specified in (4)
+amount shown in column
+below, the maximum of the fine range is the
+B of the table below.
+Fine Table
+Offense
+Level
+3 and below
+4-5
+6-7
+304
+A
+Minimum
+$100
+$250
+$500
+B
+Maximum
+$5,000
+$5,000
+$5,000
+November 1, 1992
+
+[[PDF page 19]]
+8-9
+10-11
+12-13
+14-15
+16-17
+18-19
+20-22
+23-25
+26-28
+29-31
+32-34
+35-37
+38 and above
+$1,000
+$2,000
+$3,000
+$4,000
+$5,000
+$6,000
+$7,500
+$10,000
+$12,500
+$15,000
+$17,500
+$20,000
+$25,000
+$10,000
+$20,000
+$30,000
+$40,000
+$50,000
+$60,000
+$75,000
+$100,000
+$125,000
+$150,000
+$175,000
+$200,000
+$250,000.
+(4) Subsection (c)(2), limiting the maximum fine, does not apply if the
+defendant is convicted under a statute authorizing (A) a maximum fine
+greater than $250,000, or (B) a fine for each day of violation. In such
+cases, the court may impose a fine up to the maximum authorized by
+the statute,
+(d) In determining the amount of the fine, the court shall consider:
+(1) the need for the combined sentence to reflect the seriousness of the
+offense (including the harm or loss to the victim and the gain to the
+defendant), to promote respect for the law, to provide just punishment
+and to afford adequate deterrence;
+(2) any evidence presented as to the defendant's ability to pay the fine
+(including the ability to pay over a period of time) in light of his
+earning capacity and financial resources;
+(3) the burden that the fine places on the defendant and his dependents
+relative to alternative punishments;
+(4) any restitution or reparation that the defendant has made or is obli-
+gated to make;
+(5) any collateral consequences of conviction, including civil obligations
+arising from the defendant's conduct;
+(6) whether the defendant previously has been fined for a similar offense;
+and
+(7) any other pertinent equitable considerations.
+(e) The amount of the fine should always be sufficient to ensure that the fine,
+taken together with other sanctions imposed, is punitive.
+(f) If the defendant establishes that (1) he is not able and, even with the use of
+a reasonable installment schedule, is not likely to become able to pay all or
+part of the fine required by the preceding provisions, or (2) imposition of a
+fine would unduly burden the defendant's dependents, the court may impose
+a lesser fine or waive the fine. In these circumstances, the court shall consider
+305 November 1, 1992
+
+[[PDF page 20]]
+alternative sanctions in lieu of all or a portion of the fine, and must still
+impose a total combined sanction that is punitive. Although any additional
+sanction not proscribed by the guidelines is permissible, community service is
+the generally preferable alternative in such instances.
+(g) If the defendant establishes that payment of the fine in a lump sum would have
+an unduly severe impact on him or his dependents, the court should establish
+an installment schedule for payment of the fine. The length of the installment
+schedule generally should not exceed twelve months, and shall not exceed the
+maximum term of probation authorized for the offense. The defendant should
+be required to pay a substantial installment at the time of sentencing. If the
+court authorizes a defendant sentenced to probation or supervised release to
+pay a fine on an installment schedule, the court shall require as a condition of
+probation or supervised release that the defendant pay the fine according to
+the schedule. The court also may impose a condition prohibiting the defendant
+from incurring new credit charges or opening additional lines of credit unless
+he is in compliance with the payment schedule.
+(h) If the defendant knowingly fails to pay a delinquent fine, the court shall
+resentence him in accordance with 18 U.S.C. § 3614.
+(i) Notwithstanding of the provisions of subsection (c) of this section, but subject
+to the provisions of subsection (f) herein, the court shall impose an additional
+fine amount that is at least sufficient to pay the costs to the government of any
+imprisonment, probation, or supervised release ordered.
+Commentary
+Application Notes:
+1. A fine may be the sole sanction if the guidelines do not require a term of imprisonment. If,
+however, the fine is not paid in full at the time of sentencing, it is recommended that the court
+sentence the defendant to a term of probation, with payment of the fine as a condition of
+probation. If a fine is imposed in addition to a term of imprisonment, it is recommended that
+the court impose a term of supervised release following imprisonment as a means of enforcing
+payment of the fine.
+2. In general, the maximum fine permitted by law as to each count of conviction is $250,000 for
+a felony or for any misdemeanor resulting in death; $100,000 for a Class A misdemeanor; and
+$5,000 for any other offense. 18 U.S.C. § 3571(b)(3)-(7). However, higher or lower limits may
+apply when specified by statute. 18 U.S.C. § 3571 (b)(l), (e). As an alternative maximum, the
+court may fine the defendant up to the greater of twice the gross gain or twice the gross loss.
+18 U.S.C. § 3571(b)(2), (d).
+3. The determination of the fine guideline range may be dispensed with entirely upon a court
+determination of present and future inability to pay any fine. The inability of a defendant to
+post bail bond (having otherwise been determined eligible for release) and the fact that a
+defendant is represented by (or was determined eligible for) assigned counsel are significant
+indicators of present inability to pay any fine. In conjunction with other factors, they may also
+indicate that the defendant is not likely to become able to pay any fine.
+306 November 1, 1992
+
+[[PDF page 21]]
+4. The Commission envisions that for most defendants, the maximum of the guideline fine range
+from subsection (c) will be at least twice the amount of gain or loss resulting from the offense.
+Where, however, two times either the amount of gain to the defendant or the amount of loss
+caused by the offense exceeds the maximum of the fine guideline, an upward departure from
+the fine guideline may be warranted.
+Moreover, where a sentence within the applicable fine guideline range would not be sufficient
+to ensure both the disgorgement of any gain from the offense that otherwise would not be
+disgorged (§& by restitution or forfeiture) and an adequate punitive fine, an upward departure
+from the fine guideline range may be warranted.
+5. Subsection (c)(4) applies to statutes that contain special provisions permitting larger fines; the
+guidelines do not limit maximum fines in such cases. These statutes include, among others:
+21 U.S.C. §§ 841(b) and 960(b), which authorize fines up to $8 million in offenses involving
+the manufacture, distribution, or importation of certain controlled substances; 21 U.S.C.
+§ 848(a), which authorizes fines up to $4 million in offenses involving the manufacture or
+distribution of controlled substances by a continuing criminal enterprise; 18 U.S.C. § 1956(a),
+which authorizes a fine equal to the greater of $500,000 or two times the value of the monetary
+instruments or funds involved in offenses involving money laundering of financial instruments;
+18 U.S.C. § 1957(b)(2), which authorizes a fine equal to two times the amount of any
+criminally derived property involved in a money laundering transaction; 33 U.S.C. § 1319(c),
+which authorizes a fine of up to $50,000 per day for violations of the Water Pollution Control
+Act; 42 U.S.C. § 6928(d), which authorizes a fine of up to $50,000 per day for violations of the
+Resource Conservation Act; and 42 U.S.C. § 7413(c), which authorizes a fine of up to $25,000
+per day for violations of the Clean Air Act.
+6. The existence of income or assets that the defendant failed to disclose may justify a larger fine
+than that which otherwise would be warranted under §5E1.2. The court may base its
+conclusion as to this factor on information revealing significant unexplained expenditures by
+the defendant or unexplained possession of assets that do not comport with the defendant's
+reported income. If the court concludes that the defendant willfully misrepresented all or part
+of his income or assets, it may increase the offense level and resulting sentence in accordance
+with Chapter Three, Part C (Obstruction).
+7. Subsection (i) provides for an additional fine sufficient to pay the costs of any imprisonment,
+probation, or supervised release ordered, subject to the defendants ability to pay as prescribed
+in subsection (f). In making a determination as to the amount of any fine to be imposed
+under this provision, the court may be guided by reports published by the Bureau of Prisons
+and the Administrative Office of the United States Courts concerning average costs.
+Historical Note: Effective November 1, 1987. Amended effective January 15, 1988 (see Appendix C, amendment 54);
+November 1, 1989 (see Appendix C, amendments 280, 281, and 302); November 1, 1990 (see Appendix C, amendment
+356); November 1, 1991 (see Appendix C, amendment 384).
+§5E1.3. Special Assessments
+A special assessment must be imposed on a convicted defendant in the amount
+prescribed by statute.
+307 November 1, 1992
+
+[[PDF page 22]]
+Commentary
+Background: The Victims of Crime Act of 1984, Pub. L. No. 98-473, Title II, Chap. XIV, requires
+the courts to impose special assessments on convicted defendants for the purpose of funding the
+Crime Victims Fund established by the same legislation. Monies deposited in the fund are awarded
+to the states by the Attorney General for victim assistance and compensation programs. Under the
+Victims of Crime Act, as amended by Section 7085 of the Anti-Drug Abuse Act of 1988, the court
+is required to impose assessments in the following amounts with respect to offenses committed on
+or after November 18, 1988:
+Individuals:
+$5, if the defendant is an individual convicted of an infraction or a Class C
+misdemeanor;
+$10, if the defendant is an individual convicted of a Class B misdemeanor;
+$25, if the defendant is an individual convicted of a Class A misdemeanor; and
+$50, if the defendant is an individual convicted of a felony.
+Organizations:
+$50, if the defendant is an organization convicted of a Class B misdemeanor;
+$125, if the defendant is an organization convicted of a Class A misdemeanor; and
+$200, if the defendant is an organization convicted of a felony. 18 U.S.C. § 3013.
+With respect to offenses committed prior to November 18, 1988, the court is required to impose
+assessments in the following amounts:
+$25, if the defendant is an individual convicted of a misdemeanor;
+$50, if the defendant is an individual convicted of a felony;
+$100, if the defendant is an organization convicted of a misdemeanor; and
+$200, if the defendant is an organization convicted of a felony. 18 U.S.C. § 3013.
+The Act does not authorize the court to waive imposition of the assessment.
+Historical Note: Effective November 1, 1987. Amended effective November 1, 1989 (see Appendix C, amendments 282
+and 302).
+§5E1.4. Forfeiture
+Forfeiture is to be imposed upon a convicted defendant as provided by statute.
+Commentary
+Background: Forfeiture provisions exist in various statutes. For example, 18 U.S.C. § 3554 requires
+the court imposing a sentence under 18 U.S.C. § 1962 (proscribing the use of the proceeds of
+racketeering activities in the operation of an enterprise engaged in interstate commerce) or Titles II
+and III of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (proscribing the
+manufacture and distribution of controlled substances) to order the forfeiture of property in
+accordance with 18 U.S.C. § 1963 and 21 U.S.C. § 853, respectively. Those provisions require the
+automatic forfeiture of certain property upon conviction of their respective underlying offenses.
+308 November 1, 1992
+
+[[PDF page 23]]
+In addition, the provisions of 18 U.S.C. §§ 3681-3682 authorizes the court, in certain
+circumstances, to order the forfeiture of a violent criminal's proceeds from the depiction of his crime
+in a book, movie, or other medium. Those sections authorize the deposit of proceeds in an escrow
+account in the Crime Victims Fund of the United States Treasury. The money is to remain available
+in the account for five years to satisfy claims brought against the defendant by the victim(s) of his
+offenses. At the end of the five-year period, the court may require that any proceeds remaining in
+the account be released from escrow and paid into the Fund. 18 U.S.C. § 3681 (c)(2).
+Historical Note: Effective November 1, 1987. Amended effective November 1,1989 (see Appendix C, amendment 302).
+§5E1.5. Costs of Prosecution (Policy Statement)
+Costs of prosecution shall be imposed on a defendant as required by statute.
+Commentary
+Background: Various statutes require the court to impose the costs of prosecution: 7 U.S.C. § 13
+(larceny or embezzlement in connection with commodity exchanges); 21 U.S.C. § 844 (simple
+possession of controlled substances) (unless the court finds that the defendant lacks the ability to
+pay); 26 U.S.C. § 7201 (attempt to defeat or evade income tax); 26 U.S.C. § 7202 (willful failure to
+collect or pay tax); 26 U.S.C. § 7203 (willful failure to file income tax return, supply information, or
+pay tax); 26 U.S.C. 7206 (fraud and false statements); 26 U.S.C. § 7210 (failure to obey summons);
+26 U.S.C. § 7213 (unauthorized disclosure of information); 26 U.S.C. § 7215 (offenses with respect
+to collected taxes); 26 U.S.C. § 7216 (disclosure or use of information by preparers of returns);
+26 U.S.C. § 7232 (failure to register or false statement by gasoline manufacturer or producer);
+42 U.S.C. § 1302c-9 (improper FOIA disclosure); 43 U.S.C. § 942-6 (rights of way for Alaskan wagon
+roads).
+Historical Note: Effective November 1, 1992 (see Appendix C, amendment 463).
+309 November 1, 1992
+
+[[PDF page 24]]
+[Page intentionally blank]
+310 November 1, 1992
+
+[[PDF page 25]]
+PART F - SENTENCING OPTIONS
+§5F1.1. Community Confinement
+Community confinement may be imposed as a condition of probation or supervised
+release.
+Commentary
+Application Notes:
+1. "Community confinement" means residence in a community treatment center, halfway house,
+restitution center, mental health facility, alcohol or drug rehabilitation center, or other
+community facility; and participation in gainful employment, employment search efforts,
+community service, vocational training, treatment, educational programs, or similar facility-
+approved programs during non-residential hours.
+2. Community confinement generally should not be imposed for a period in excess of six months.
+A longer period may be imposed to accomplish the objectives of a specific rehabilitative
+program, such as drug rehabilitation. The sentencing judge may impose other discretionary
+conditions of probation or supervised release appropriate to effectuate community confinement.
+Historical Note: Effective November 1, 1987. Amended effective November 1, 1989 (see Appendix C, amendment 302).
+§5F1.2. Home Detention
+Home detention may be imposed as a condition of probation or supervised release,
+but only as a substitute for imprisonment.
+Commentary
+Application Notes:
+1. "Home detention" means a program of confinement and supervision that restricts the defendant
+to his place of residence continuously, except for authorized absences, enforced by appropriate
+means of surveillance by the probation office. When an order of home detention is imposed,
+the defendant is required to be in his place of residence at all times except for approved
+absences for gainful employment, community service, religious services, medical care,
+educational or training programs, and such other times as may be specifically authorized.
+Electronic monitoring is an appropriate means of surveillance and ordinarily should be used
+in connection with home detention. However, alternative means of surveillance may be used
+so long as they are as effective as electronic monitoring.
+2. The court may impose other conditions of probation or supervised release appropriate to
+effectuate home detention. If the court concludes that the amenities available in the residence
+of a defendant would cause home detention not to be sufficiently punitive, the court may limit
+the amenities available.
+311 November 1, 1992
+
+[[PDF page 26]]
+3. The defendant's place of residence, for purposes of home detention, need not be the place
+where the defendant previously resided. It may be any place of residence, so long as the owner
+of the residence (and any other person(s) from whom consent is necessary) agrees to any
+conditions that may be imposed by the court, e.g., conditions that a monitoring system be
+installed, that there will be no "call forwarding" or "call waiting" services, or that there will be
+no cordless telephones or answering machines.
+Background: The Commission has concluded that the surveillance necessary for effective use of
+home detention ordinarily requires electronic monitoring. However, in some cases home detention
+may effectively be enforced without electronic monitoring, e.g., when the defendant is physically
+incapacitated, or where some other effective means of surveillance is available. Accordingly, the
+Commission has not required that electronic monitoring be a necessary condition for home detention.
+Nevertheless, before ordering home detention without electronic monitoring, the court should be
+confident that an alternative form of surveillance will be equally effective.
+In the usual case, the Commission assumes that a condition requiring that the defendant seek
+and maintain gainful employment will be imposed when home detention is ordered.
+Historical Note: Effective November 1, 1987. Amended effective November 1, 1989 (see Appendix C, amendments 271
+and 302).
+§5FL3. Community Service
+Community service may be ordered as a condition of probation or supervised release.
+Commentary
+Application Note:
+1. Community service generally should not be imposed in excess of 400 hours. Longer terms of
+community service impose heavy administrative burdens relating to the selection of suitable
+placements and the monitoring of attendance.
+Historical Note: Effective November 1, 1987. Amended effective November 1, 1989 (see_ Appendix C, amendments 283
+and 302); November 1, 1991 (see Appendix C, amendment 419).
+§5F1.4. Order of Notice to Victims
+The court may order the defendant to pay the cost of giving notice to victims pursuant
+to 18 U.S.C. § 3555. This cost may be set off against any fine imposed if the court
+determines that the imposition of both sanctions would be excessive.
+Commentary
+Background: In cases where a defendant has been convicted of an offense involving fraud or "other
+intentionally deceptive practices," the court may order the defendant to "give reasonable notice and
+explanation of the conviction, in such form as the court may approve" to the victims of the offense.
+18 U.S.C. § 3555. The court may order the notice to be given by mail, by advertising in specific
+312 November 1, 1992
+
+[[PDF page 27]]
+areas or through specific media, or by other appropriate means. In determining whether a notice is
+appropriate, the court must consider the generally applicable sentencing factors listed in 18 U.S.C.
+§ 3553(a) and the cost involved in giving the notice as it relates to the loss caused by the crime. The
+court may not require the defendant to pay more than $20,000 to give notice.
+If an order of notice to victims is under consideration, the court must notify the government
+and the defendant. 18 U.S.C. § 3553(d). Upon motion of either party, or on its own motion, the
+court must: (1) permit the parties to submit affidavits and memoranda relevant to the imposition of
+such an order; (2) provide counsel for both parties the opportunity to address orally, in open court,
+the appropriateness of such an order; and (3) if it issues such an order, state its reasons for doing
+so. The court may also order any additional procedures that will not unduly complicate or prolong
+the sentencing process.
+Historical Note: Effective November 1, 1987. Amended effective November 1, 1989 (see Appendix C, amendments 284
+and 302).
+§5F1.5. Occupational Restrictions
+(a) The court may impose a condition of probation or supervised release
+prohibiting the defendant from engaging in a specified occupation, business, or
+profession, or limiting the terms on which the defendant may do so, only if it
+determines that:
+(1) a reasonably direct relationship existed between the defendant's
+occupation, business, or profession and the conduct relevant to the
+offense of conviction; and
+(2) imposition of such a restriction is reasonably necessary to protect the
+public because there is reason to believe that, absent such restriction,
+the defendant will continue to engage in unlawful conduct similar to
+that for which the defendant was convicted.
+(b) If the court decides to impose a condition of probation or supervised release
+restricting a defendant's engagement in a specified occupation, business, or
+profession, the court shall impose the condition for the minimum time and to
+the minimum extent necessary to protect the public.
+Commentary
+Background: The Comprehensive Crime Control Act authorizes the imposition of occupational
+restrictions as a condition of probation, 18 U.S.C. § 3563(b)(6), or supervised release,
+18 U.S.C. § 3583(d). Pursuant to section 3563(b)(6), a court may require a defendant to:
+[RJefrain, in the case of an individual, from engaging in a specified occupation, business,
+or profession bearing a reasonably direct relationship to the conduct constituting the
+offense, or engage in such a specified occupation, business, or profession only to a stated
+degree or under stated circumstances.
+Section 3583(d) incorporates this section by reference. The Senate Judiciary Committee Report
+on the Comprehensive Crime Control Act explains that the provision was "intended to be used to
+preclude the continuation or repetition of illegal activities while avoiding a bar from employment that
+313 November 1, 1992
+
+[[PDF page 28]]
+exceeds that needed to achieve that result." S. Rep. No. 225, 98th Cong., 1st Sess. 96-97. The
+condition "should only be used as reasonably necessary to protect the public. It should not be used
+as a means of punishing the convicted person." UL. at 96. Section 5F1.5 accordingly limits the use
+of the condition and, if imposed, limits its scope, to the minimum reasonably necessary to protect
+the public.
+The appellate review provisions permit a defendant to challenge the imposition of a probation
+condition under 18 U.S.C. § 3563(b)(6) if "the sentence includes . . . a more limiting condition of
+probation or supervised release under section 3563(b)(6) . . . than the maximum established in the
+guideline." 18 U.S.C. § 3742(a)(3)(A). The government may appeal if the sentence includes a "less
+limiting" condition of probation than the minimum established in the guideline. 18 U.S.C.
+§ 3742(b)(3)(A).
+Historical Note: Effective November 1, 1987. Amended effective November 1, 1989 (see Appendix C, amendments 285
+and 302); November 1, 1991 (see Appendix C, amendment 428).
+§5F1.6. Denial of Federal Benefits to Drug Traffickers and Possessors
+The court, pursuant to 21 U.S.C. § 862, may deny the eligibility for certain Federal
+benefits of any individual convicted of distribution or possession of a controlled
+substance.
+Commentary
+Application Note:
+1. "Federal benefit" is defined in 21 U.S.C. § 862(d) to mean "any grant, contract, loan,
+professional license, or commercial license provided by an agency of the United States or by
+appropriated funds of the United States" but "does not include any retirement, welfare, Social
+Security, health, disability, veterans benefit, public housing, or other similar benefit, or any other
+benefit for which payments or services are required for eligibility."
+Background: Subsections (a) and (b) of 21 U.S.C. § 862 provide that an individual convicted of a
+state or federal drug trafficking or possession offense may be denied certain federal benefits. Except
+for an individual convicted of a third or subsequent drug distribution offense, the period of benefit
+ineligibility, within the applicable maximum term set forth in 21 U.S.C. § 862(a)(l) (for distribution
+offenses) and (b)(l)(for possession offenses), is at the discretion of the court. In the case of an
+individual convicted of a third or subsequent drug distribution offense, denial of benefits is mandatory
+and permanent under 21 U.S.C. § 862(a)(l)(C)(unless suspended by the court under 21 U.S.C.
+§ 862(c)).
+Subsection (b)(2) of 21 U.S.C. § 862 provides that the period of benefit ineligibility that may
+be imposed in the case of a drug possession offense "shall be waived in the case of a person who,
+if there is a reasonable body of evidence to substantiate such declaration, declares himself to be an
+addict and submits himself to a long-term treatment program for addiction, or is deemed to be
+rehabilitated pursuant to rules established by the Secretary of Health and Human Services."
+Subsection (c) of 21 U.S.C. § 862 provides that the period of benefit ineligibility shall be
+suspended "if the individual (A) completes a supervised drug rehabilitation program after becoming
+ineligible under this section; (B) has otherwise been rehabilitated; or (C) has made a good faith effort
+to gain admission to a supervised drug rehabilitation program, but is unable to do so because of
+314 November 1, 1992
+
+[[PDF page 29]]
+inaccessibility or unavailability of such a program, or the inability of the individual to pay for such
+a program."
+Subsection (e) of 21 U.S.C. § 862 provides that a period of benefit ineligibility "shall not apply
+to any individual who cooperates or testifies with the Government in the prosecution of a Federal
+or State offense or who is in a Government witness protection program."
+Historical Note: Effective November 1, 1989 (see Appendix C, amendment 305); November 1, 1992 (see Appendix C,
+amendment 464).
+§5F1.7. Shock Incarceration Program (Policy Statement)
+The court, pursuant to 18 U.S.C. §§ 3582(a) and 3621(b)(4), may recommend that a
+defendant who meets the criteria set forth in 18 U.S.C. § 4046 participate in a shock
+incarceration program.
+Commentary
+Section 4046 of Title 18, United States Code, provides -
+"(a) the Bureau of Prisons may place in a shock incarceration program any person
+who is sentenced to a term of more than 12, but not more than 30 months, if
+such person consents to that placement.
+(b) For such initial portion of the term of imprisonment as the Bureau of Prisons
+may determine, not to exceed six months, an inmate in the shock incarceration
+program shall be required to -
+(1) adhere to a highly regimented schedule that provides the strict discipline,
+physical training, hard labor, drill, and ceremony characteristic of military
+basic training; and
+(2) participate in appropriate job training and educational programs
+(including literacy programs) and drug, alcohol, and other counseling
+programs.
+(c) An inmate who in the judgment of the Director of the Bureau of Prisons has
+successfully completed the required period of shock incarceration shall remain
+in the custody of the Bureau for such period (not to exceed the remainder of the
+prison term otherwise required by law to be served by that inmate), and under
+such conditions, as the Bureau deems appropriate. 18 U.S.C § 4046."
+The Bureau of Prisons has issued an operations memorandum (174-90 (5390), November 20,
+1990) that outlines eligibility criteria and procedures for the implementation of this program (which
+the Bureau of Prisons has titled "intensive confinement program"). Under these procedures, the
+Bureau will not place a defendant in an intensive confinement program unless the sentencing court
+has approved, either at the time of sentencing or upon consultation after the Bureau has determined
+that the defendant is otherwise eligible. In return for the successful completion of the "intensive
+confinement" portion of the program, the defendant is eligible to serve the remainder of his term of
+315 November 1, 1992
+
+[[PDF page 30]]
+imprisonment in a graduated release program comprised of community corrections center and home
+confinement phases.
+Historical Note: Effective November 1, 1991 (see Appendix C, amendment 424).
+316 November 1, 1992
+
+[[PDF page 31]]
+PART G - IMPLEMENTING THE TOTAL SENTENCE OF IMPRISONMENT
+§5G1.1. Sentencing on a Single Count of Conviction
+(a) Where the statutorily authorized maximum sentence is less than the minimum
+of the applicable guideline range, the statutorily authorized maximum sentence
+shall be the guideline sentence.
+(b) Where a statutorily required minimum sentence is greater than the maximum
+of the applicable guideline range, the statutorily required minimum sentence
+shall be the guideline sentence.
+(c) In any other case, the sentence may be imposed at any point within the
+applicable guideline range, provided that the sentence —
+(1) is not greater than the statutorily authorized maximum sentence, and
+(2) is not less than any statutorily required minimum sentence.
+Commentary
+This section describes how the statutorily authorized maximum sentence, or a statutorily
+required minimum sentence, may affect the determination of a sentence under the guidelines. For
+example, if the applicable guideline range is 51-63 months and the maximum sentence authorized by
+statute for the offense of conviction is 48 months, the sentence required by the guidelines under
+subsection (a) is 48 months; a sentence of less than 48 months would be a guideline departure. If
+the applicable guideline range is 41-51 months and there is a statutorily required minimum sentence
+of 60 months, the sentence required by the guidelines under subsection (b) is 60 months; a sentence
+of more than 60 months would be a guideline departure. If the applicable guideline range is 51-63
+months and the maximum sentence authorized by statute for the offense of conviction is 60 months,
+the guideline range is restricted to 51-60 months under subsection (c).
+Historical Note: Effective November 1, 1987. Amended effective November 1, 1989 (see Appendix C, amendment 286).
+§5G1.2. Sentencing on Multiple Counts of Conviction
+(a) The sentence to be imposed on a count for which the statute mandates a
+consecutive sentence shall be determined and imposed independently.
+(b) Except as otherwise required by law (see §5Gl.l(a), (b)), the sentence imposed
+on each other count shall be the total punishment as determined in accordance
+with Part D of Chapter Three, and Part C of this Chapter.
+(c) If the sentence imposed on the count carrying the highest statutory maximum
+is adequate to achieve the total punishment, then the sentences on all counts
+shall run concurrently, except to the extent otherwise required by law.
+317 November 1, 1992
+
+[[PDF page 32]]
+(d) If the sentence imposed on the count carrying the highest statutory maximum
+is less than the total punishment, then the sentence imposed on one or more
+of the other counts shall run consecutively, but only to the extent necessary to
+produce a combined sentence equal to the total punishment. In all other
+respects sentences on all counts shall run concurrently, except to the extent
+otherwise required by law.
+Commentary
+This section specifies the procedure for determining the specific sentence to be formally imposed
+on each count in a multiple-count case. The combined length of the sentences ("total punishment")
+is determined by the adjusted combined offense level. To the extent possible, the total punishment
+is to be imposed on each count. Sentences on all counts run concurrently, except as required to
+achieve the total sentence, or as required by law.
+This section applies to multiple counts of conviction (1) contained in the same indictment or
+information, or (2) contained in different indictments or informations for which sentences are to be
+imposed at the same time or in a consolidated proceeding.
+Usually, at least one of the counts will have a statutory maximum adequate to permit
+imposition of the total punishment as the sentence on that count. The sentence on each of the other
+counts will then be set at the lesser of the total punishment and the applicable statutory maximum,
+and be made to run concurrently with all or part of the longest sentence. If no count carries an
+adequate statutory maximum, consecutive sentences are to be imposed to the extent necessary to
+achieve the total punishment.
+Counts for which a statute mandates a consecutive sentence, such as counts charging the use
+of a firearm in a violent crime (18 U.S.C. § 924(c)) are treated separately. The sentence imposed
+on such a count is the sentence indicated for the particular offense of conviction. That sentence then
+runs consecutively to the sentences imposed on the other counts. See Commentary to §§2K2.4 and
+3D1.2 regarding determination of the offense levels for related counts when a conviction under
+18 U.S.C. § 924(c) is involved.
+Historical Note: Effective November 1, 1987. Amended effective November 1, 1989 (see Appendix C, amendments 287
+and 288).
+§5G13. Imposition of a Sentence on a Defendant Subject to an Undischarged Term of
+Imprisonment
+(a) If the instant offense was committed while the defendant was serving a term
+of imprisonment (including work release, furlough, or escape status) or after
+sentencing for, but before commencing service of, such term of imprisonment,
+the sentence for the instant offense shall be imposed to run consecutively to
+the undischarged term of imprisonment.
+(b) If subsection (a) does not apply, and the undischarged term of imprisonment
+resulted from offense(s) that have been fully taken into account in the
+determination of the offense level for the instant offense, the sentence for the
+instant offense shall be imposed to run concurrently to the undischarged term
+of imprisonment.
+318 November 1, 1992
+
+[[PDF page 33]]
+(c) (Policy Statement) In any other case, the sentence for the instant offense shall
+be imposed to run consecutively to the prior undischarged term of
+imprisonment to the extent necessary to achieve a reasonable incremental
+punishment for the instant offense.
+Commentary
+Application Notes:
+1. Under subsection (a), the court shall impose a consecutive sentence where the instant offense
+(or any part thereof) was committed while the defendant was serving an undischarged term of
+imprisonment or after sentencing for, but before commencing service of, such term of
+imprisonment
+2. Subsection (b) (which may apply only if subsection (a) does not apply), addresses cases in
+which the conduct resulting in the undischarged term of imprisonment has been fully taken into
+account under §1B1.3 (Relevant Conduct) in determining the offense level for the instant
+offense. This can occur, for example, where a defendant is prosecuted in both federal and state
+court, or in two or more federal jurisdictions, for the same criminal conduct or for different
+criminal transactions that were part of the same course of conduct.
+When a sentence is imposed pursuant to subsection (b), the court should adjust for any term
+of imprisonment already served as a result of the conduct taken into account in determining
+the sentence for the instant offense. Example: The defendant has been convicted of a federal
+offense charging the sale of 40 grams of cocaine. Under §1B1.3 (Relevant Conduct), the
+defendant is held accountable for the sale of an additional 15 grams of cocaine that is part of
+the same course of conduct for which the defendant has been convicted and sentenced in state
+court (the defendant received a nine-month sentence of imprisonment, of which he has served
+six months at the time of sentencing on the instant federal offense). The guideline range
+applicable to the defendant is 10-16 months (Chapter Two offense level of 14 for sale of
+55 grams of cocaine; 2-level reduction for acceptance of responsibility; final offense level of 12;
+Criminal History Category I). The court determines that a sentence of 13 months provides the
+appropriate total punishment. Because the defendant has already served six months on the
+related state charge, a sentence of seven months, imposed to run concurrently with the
+remainder of the defendant's state sentence, achieves this result. For clarity, the court should
+note on the Judgment in a Criminal Case Order that the sentence imposed is not a departure
+from the guidelines because the defendant has been credited for guideline purposes under
+§5G1.3(b) with six months served in state custody.
+3. Where the defendant is subject to an undischarged term of imprisonment in circumstances other
+than those set forth in subsections (a) or (b), subsection (c) applies and the court shall impose
+a consecutive sentence to the extent necessary to fashion a sentence resulting in a reasonable
+incremental punishment for the multiple offenses. In some circumstances, such incremental
+punishment can be achieved by the imposition of a sentence that is concurrent with the
+remainder of the unexpired term of imprisonment. In such cases, a consecutive sentence is not
+required. To the extent practicable, the court should consider a reasonable incremental penalty
+to be a sentence for the instant offense that results in a combined sentence of imprisonment
+that approximates the total punishment that would have been imposed under §5G1.2
+(Sentencing on Multiple Counts of Conviction) had all of the offenses been federal offenses for
+which sentences were being imposed at the same time. It is recognized that this determination
+frequently will require an approximation. Where the defendant is serving a term of
+imprisonment for a state offense, the information available may permit only a rough estimate
+319 November 1, 1992
+
+[[PDF page 34]]
+of the total punishment that would have been imposed under the guidelines. Where the offense
+resulting in the undischarged term of imprisonment is a federal offense for which a guideline
+determination has previously been made, the task will be somewhat more straightforward,
+although even in such cases a precise determination may not be possible.
+It is not intended that the above methodology be applied in a manner that unduly complicates
+or prolongs the sentencing process. Additionally, this methodology does not, itself, require the
+court to depart from the guideline range established for the instant federal offense. Rather, this
+methodology is meant to assist the court in determining the appropriate sentence (e.g.. the
+appropriate point within the applicable guideline range, whether to order the sentence to run
+concurrently or consecutively to the undischarged term of imprisonment, or whether a departure
+is warranted). Generally, the court may achieve an appropriate sentence through its
+determination of an appropriate point within the applicable guideline range for the instant
+federal offense, combined with its determination of whether that sentence will run concurrently
+or consecutively to the undischarged term of imprisonment.
+Ilustrations of the Application of Subsection (c):
+(A) The guideline range applicable to the instant federal offense is 24-30 months. The court
+determines that a total punishment of 36 months' imprisonment would appropriately
+reflect the instant federal offense and the offense resulting in the undischarged term of
+imprisonment. The undischarged term of imprisonment is an indeterminate sentence of
+imprisonment with a 60-month maximum. At the time of sentencing on the instant
+federal offense, the defendant has served ten months on the undischarged term of
+imprisonment. In this case, a sentence of 26 months' imprisonment to be served
+concurrently with the remainder of the undischarged term of imprisonment would (1) be
+within the guideline range for the instant federal offense, and (2) achieve an appropriate
+total punishment (36 months).
+(B) The applicable guideline range for the instant federal offense is 24-30 months. The court
+determines that a total punishment of 36 months' imprisonment would appropriately
+reflect the instant federal offense and the offense resulting in the undischarged term of
+imprisonment. The undischarged term of imprisonment is a six-month determinate
+sentence. At the time of sentencing on the instant federal offense, the defendant has
+served three months on the undischarged term of imprisonment. In this case, a sentence
+of 30 months' imprisonment to be served consecutively to the undischarged term of
+imprisonment would (1) be within the guideline range for the instant federal offense, and
+(2) achieve an appropriate total punishment (36 months).
+(C) The applicable guideline range for the instant federal offense is 24-30 months. The court
+determines that a total punishment of 60 months' imprisonment would appropriately
+reflect the instant federal offense and the offense resulting in the undischarged term of
+imprisonment. The undischarged term of imprisonment is a 12-month determinate
+sentence. In this case, a sentence of 30 months' imprisonment to be served consecutively
+to the undischarged term of imprisonment would be the greatest sentence imposable
+without departure for the instant federal offense.
+(D) The applicable guideline range for the instant federal offense is 24-30 months. The court
+determines that a total punishment of 36 months' imprisonment would appropriately
+reflect the instant federal offense and the offense resulting in the undischarged term of
+imprisonment. The undischarged term of imprisonment is an indeterminate sentence
+with a 60-month maximum. At the time of sentencing on the instant federal offense, the
+320 November 1, 1992
+
+[[PDF page 35]]
+defendant has served 22 months on the undischarged term of imprisonment. In this
+case, a sentence of 24 months to be served concurrently with the remainder of the
+undischarged term of imprisonment would be the lowest sentence imposable without
+departure for the instant federal offense.
+Background: This guideline provides direction to the court when a term of imprisonment is imposed
+on a defendant who is already subject to an undischarged term of imprisonment. See 18 U.S.C.
+§ 3584. Except in the cases in which subsection (a) applies, this guideline is intended to result in
+an appropriate incremental punishment for the instant offense that most nearly approximates the
+sentence that would have been imposed had all the sentences been imposed at the same time.
+Historical Note: Effective November 1, 1987. Amended effective November 1, 1989 (see Appendix C, amendment 289);
+November 1, 1991 (see Appendix C, amendment 385); November 1, 1992 (see Appendix C, amendment 465).
+321 November 1, 1992
+
+[[PDF page 36]]
+[Page intentionally blank]
+322 November 1, 1992
+
+[[PDF page 37]]
+PART H - SPECIFIC OFFENDER CHARACTERISTICS
+Introductory Commentary
+The following policy statements address the relevance of certain offender characteristics to the
+determination of whether a sentence should be outside the applicable guideline range and, in certain
+cases, to the determination of a sentence within the applicable guideline range. Under 28 U.S.C.
+§ 994(d), the Commission is directed to consider whether certain specific offender characteristics
+"have any relevance to the nature, extent, place of service, or other incidents of an appropriate
+sentence11 and to take them into account only to the extent they are determined to be relevant by the
+Commission.
+The Commission has determined that certain factors are not ordinarily relevant to the
+determination of whether a sentence should be outside the applicable guideline range. Unless
+expressly stated, this does not mean that the Commission views such factors as necessarily
+inappropriate to the determination of the sentence within the applicable guideline range or to the
+determination of various other incidents of an appropriate sentence (§& the appropriate conditions
+of probation or supervised release).
+In addition, 28 U.S.C. § 994(e) requires the Commission to assure that its guidelines and policy
+statements reflect the general inappropriateness of considering the defendant's education, vocational
+skills, employment record, family ties and responsibilities, and community ties in determining whether
+a term of imprisonment should be imposed or the length of a term of imprisonment.
+Historical Note: Effective November 1, 1987. Amended effective November 1, 1990 (see Appendix C, amendment 357);
+November 1, 1991 (see Appendix C, amendment 386).
+§5H1.1. Age (Policy Statement)
+Age (including youth) is not ordinarily relevant in determining whether a sentence
+should be outside the applicable guideline range. Age may be a reason to impose a
+sentence below the applicable guideline range when the defendant is elderly and infirm
+and where a form of punishment such as home confinement might be equally efficient
+as and less costly than incarceration. Physical condition, which may be related to age,
+is addressed at §5H1.4 (Physical Condition, Including Drug or Alcohol Dependence
+or Abuse).
+The guidelines are not applicable to a person sentenced as a juvenile delinquent under
+the provisions of 18 U.S.C. § 5037.
+Historical Note: Effective November 1, 1987. Amended effective November 1, 1991 (see Appendix C, amendment 386).
+§5HL2. Education and Vocational Skills (Policy Statement)
+Education and vocational skills are not ordinarily relevant in determining whether a
+sentence should be outside the applicable guideline range, but the extent to which a
+defendant may have misused special training or education to facilitate criminal activity
+is an express guideline factor. See §3B1.3 (Abuse of Position of Trust or Use of
+Special Skill).
+323 November 1, 1992
+
+[[PDF page 38]]
+Education and vocational skills may be relevant in determining the conditions of
+probation or supervised release for rehabilitative purposes, for public protection by
+restricting activities that allow for the utilization of a certain skill, or in determining
+the appropriate type of community service.
+Historical Note: Effective November 1,1987. Amended effective November 1, 1991 (see Appendix C, amendment 386).
+§5H13. Mental and Emotional Conditions (Policy Statement)
+Mental and emotional conditions are not ordinarily relevant in determining whether
+a sentence should be outside the applicable guideline range, except as provided in
+Chapter Five, Part K, Subpart 2 (Other Grounds for Departure).
+Mental and emotional conditions may be relevant in determining the conditions of
+probation or supervised release; e.g.. participation in a mental health program (see
+recommended condition (24) at §5B1.4 (Recommended Conditions of Probation and
+Supervised Release)).
+Historical Note: Effective November 1, 1987. Amended effective November 1, 1991 (see Appendix C, amendment 386).
+§5H1.4. Physical Condition. Including Drug or Alcohol Dependence or Abuse (Policy
+Statement)
+Physical condition or appearance, including physique, is not ordinarily relevant in
+determining whether a sentence should be outside the applicable guideline range.
+However, an extraordinary physical impairment may be a reason to impose a sentence
+below the applicable guideline range; e^g., in the case of a seriously infirm defendant,
+home detention may be as efficient as, and less costly than, imprisonment.
+Drug or alcohol dependence or abuse is not a reason for imposing a sentence below
+the guidelines. Substance abuse is highly correlated to an increased propensity to
+commit crime. Due to this increased risk, it is highly recommended that a defendant
+who is incarcerated also be sentenced to supervised release with a requirement that
+the defendant participate in an appropriate substance abuse program (see
+recommended condition (23) at §5B1.4 (Recommended Conditions of Probation and
+Supervised Release)). If participation in a substance abuse program is required, the
+length of supervised release should take into account the length of time necessary for
+the supervisory body to judge the success of the program.
+Similarly, where a defendant who is a substance abuser is sentenced to probation, it
+is strongly recommended that the conditions of probation contain a requirement that
+the defendant participate in an appropriate substance abuse program (see
+recommended condition (23) at §5B1.4 (Recommended Conditions of Probation and
+Supervised Release)).
+Historical Note: Effective November 1, 1987. Amended effective November 1, 1991 (see Appendix C, amendment 386).
+324 November 1, 1992
+
+[[PDF page 39]]
+§5H1.5. Employment Record (Policy Statement)
+Employment record is not ordinarily relevant in determining whether a sentence
+should be outside the applicable guideline range.
+Employment record may be relevant in determining the conditions of probation or
+supervised release (e^g., the appropriate hours of home detention).
+Historical Note: Effective November 1, 1987. Amended effective November 1, 1991 (see Appendix C, amendment 386).
+§5H1.6. Family Ties and Responsibilities, and Community Ties (Policy Statement)
+Family ties and responsibilities and community ties are not ordinarily relevant in
+determining whether a sentence should be outside the applicable guideline range.
+Family responsibilities that are complied with may be relevant to the determination
+of the amount of restitution or fine.
+Historical Note: Effective November 1, 1987. Amended effective November 1, 1991 (see Appendix C, amendment 386).
+§5H1.7. Role in the Offense (Policy Statement)
+A defendant's role in the offense is relevant in determining the appropriate sentence.
+See Chapter Three, Part B (Role in the Offense).
+Historical Note: Effective November 1, 1987.
+§5H1.8. Criminal History (Policy Statement)
+A defendant's criminal history is relevant in determining the appropriate sentence.
+See Chapter Four (Criminal History and Criminal Livelihood).
+Historical Note: Effective November 1, 1987.
+§5H1.9. Dependence upon Criminal Activity for a Livelihood (Policy Statement)
+The degree to which a defendant depends upon criminal activity for a livelihood is
+relevant in determining the appropriate sentence. See Chapter Four, Part B (Career
+Offenders and Criminal Livelihood).
+Historical Note: Effective November 1, 1987.
+325 November 1, 1992
+
+[[PDF page 40]]
+§5H1.10. Race. Sex. National Origin. Creed. Religion, and Socio-Economic Status (Policy
+Statement)
+These factors are not relevant in the determination of a sentence.
+Historical Note: Effective November 1, 1987.
+§5H1.11. Military. Civic. Charitable, or Public Service; Employment-Related Contributions:
+Record of Prior Good Works (Policy Statement)
+Military, civic, charitable, or public service; employment-related contributions; and
+similar prior good works are not ordinarily relevant in determining whether a sentence
+should be outside the applicable guideline range.
+Historical Note: Effective November 1, 1991 (see Appendix C, amendment 386).
+§5H1.12. Lack of Guidance as a Youth and Similar Circumstances (Policy Statement)
+Lack of guidance as a youth and similar circumstances indicating a disadvantaged
+upbringing are not relevant grounds for imposing a sentence outside the applicable
+guideline range.
+Historical Note: Effective November 1, 1992 (see Appendix C, amendment 466).
+326 November 1, 1992
+
+[[PDF page 41]]
+PART J - RELIEF FROM DISABILITY
+Historical Note: Effective November 1, 1987. Amended effective June 15, 1988 (see Appendix C, amendment 55).
+§5JLL Relief from Disability Pertaining to Convicted Persons Prohibited from Holding
+Certain Positions (Policy Statement)
+A collateral consequence of conviction of certain crimes described in 29 U.S.C. §§ 504
+and 1111 is the prohibition of convicted persons from service and employment with
+labor unions, employer associations, employee pension and welfare benefit plans, and
+as labor relations consultants in the private sector. A convicted person's prohibited
+service or employment in such capacities without having been granted one of the
+following three statutory procedures of administrative or judicial relief is subject to
+criminal prosecution. First, a disqualified person whose citizenship rights have been
+fully restored to him or her in the jurisdiction of conviction, following the revocation
+of such rights as a result of the disqualifying conviction, is relieved of the disability.
+Second, a disqualified person convicted after October 12, 1984, may petition the
+sentencing court to reduce the statutory length of disability (thirteen years after date
+of sentencing or release from imprisonment, whichever is later) to a lesser period (not
+less than three years after date of conviction or release from imprisonment, whichever
+is later). Third, a disqualified person may petition either the United States Parole
+Commission or a United States District Court judge to exempt his or her service or
+employment in a particular prohibited capacity pursuant to the procedures set forth
+in 29 U.S.C. §§ 504(a)(B) and llll(a)(B). In the case of a person convicted of a
+disqualifying crime committed before November 1, 1987, the United States Parole
+Commission will continue to process such exemption applications.
+In the case of a person convicted of a disqualifying crime committed on or after
+November 1, 1987, however, a petition for exemption from disability must be directed
+to a United States District Court. If the petitioner was convicted of a disqualifying
+federal offense, the petition is directed to the sentencing judge. If the petitioner was
+convicted of a disqualifying state or local offense, the petition is directed to the
+United States District Court for the district in which the offense was committed. In
+such cases, relief shall not be given to aid rehabilitation, but may be granted only
+following a clear demonstration by the convicted person that he or she has been
+rehabilitated since commission of the disqualifying crime and can therefore be trusted
+not to endanger the organization in the position for which he or she seeks relief from
+disability.
+Historical Note: Effective November 1, 1987. Amended effective June 15, 1988 (see Appendix C, amendment 56).
+327 November 1, 1992
+
+[[PDF page 42]]
+[Page intentionally blank]
+328 November 1, 1992
+
+[[PDF page 43]]
+PART K - DEPARTURES
+1. SUBSTANTIAL ASSISTANCE TO AUTHORITIES
+§5K1J. Substantial Assistance to Authorities (Policy Statement)
+Upon motion of the government stating that the defendant has provided substantial
+assistance in the investigation or prosecution of another person who has committed
+an offense, the court may depart from the guidelines.
+(a) The appropriate reduction shall be determined by the court for reasons stated
+that may include, but are not limited to, consideration of the following:
+(1) the court's evaluation of the significance and usefulness of the
+defendant's assistance, taking into consideration the government's
+evaluation of the assistance rendered;
+(2) the truthfulness, completeness, and reliability of any information or
+testimony provided by the defendant;
+(3) the nature and extent of the defendant's assistance;
+(4) any injury suffered, or any danger or risk of injury to the defendant or
+his family resulting from his assistance;
+(5) the timeliness of the defendant's assistance.
+Commentary
+Application Notes:
+1. Under circumstances set forth in 18 U.S.C. § 3553(e) and 28 U.S.C. § 994(n), as amended,
+substantial assistance in the investigation or prosecution of another person who has committed
+an offense may justify a sentence below a statutorily required minimum sentence.
+2. The sentencing reduction for assistance to authorities shall be considered independently of any
+reduction for acceptance of responsibility. Substantial assistance is directed to the investigation
+and prosecution of criminal activities by persons other than the defendant, while acceptance
+of responsibility is directed to the defendant's affirmative recognition of responsibility for his
+own conduct.
+3. Substantial weight should be given to the government's evaluation of the extent of the
+defendant's assistance, particularly where the extent and value of the assistance are difficult to
+ascertain.
+Background: A defendant's assistance to authorities in the investigation of criminal activities has
+been recognized in practice and by statute as a mitigating sentencing factor. The nature, extent, and
+significance of assistance can involve a broad spectrum of conduct that must be evaluated by the
+court on an individual basis. Latitude is, therefore, afforded the sentencing judge to reduce a
+sentence based upon variable relevant factors, including those listed above. The sentencing judge
+329 November 1, 1992
+
+[[PDF page 44]]
+must, however, state the reasons for reducing a sentence under this section. 18 U.S.C. § 3553(c).
+The court may elect to provide its reasons to the defendant in camera and in writing under seal for
+the safety of the defendant or to avoid disclosure of an ongoing investigation.
+Historical Note: Effective November 1, 1987. Amended effective November 1, 1989 (see Appendix C, amendment 290).
+§5K1J5. Refusal to Assist (Policy Statement)
+A defendant's refusal to assist authorities in the investigation of other persons may not
+be considered as an aggravating sentencing factor.
+Historical Note: Effective November 1, 1987. Amended effective November 1, 1989 (see Appendix C, amendment 291).
+2. OTHER GROUNDS FOR DEPARTURE
+Historical Note: Effective November 1, 1987. Amended effective November 1, 1990 (see Appendix C, amendment 358).
+§5K2.0. Grounds for Departure (Policy Statement)
+Under 18 U.S.C. § 3553(b) the sentencing court may impose a sentence outside the
+range established by the applicable guideline, if the court finds "that there exists an
+aggravating or mitigating circumstance of a kind, or to a degree, not adequately taken
+into consideration by the Sentencing Commission in formulating the guidelines that
+should result in a sentence different from that described." Circumstances that may
+warrant departure from the guidelines pursuant to this provision cannot, by their very
+nature, be comprehensively listed and analyzed in advance. The controlling decision
+as to whether and to what extent departure is warranted can only be made by the
+courts. Nonetheless, this subpart seeks to aid the court by identifying some of the
+factors that the Commission has not been able to take into account fully in
+formulating the guidelines. Any case may involve factors in addition to those
+identified that have not been given adequate consideration by the Commission.
+Presence of any such factor may warrant departure from the guidelines, under some
+circumstances, in the discretion of the sentencing court. Similarly, the court may
+depart from the guidelines, even though the reason for departure is taken into
+consideration in the guidelines (e^, as a specific offense characteristic or other
+adjustment), if the court determines that, in light of unusual circumstances, the
+guideline level attached to that factor is inadequate.
+Where, for example, the applicable offense guideline and adjustments do take into
+consideration a factor listed in this subpart, departure from the applicable guideline
+range is warranted only if the factor is present to a degree substantially in excess of
+that which ordinarily is involved in the offense. Thus, disruption of a governmental
+function, §5K2.7, would have to be quite serious to warrant departure from the
+guidelines when the applicable offense guideline is bribery or obstruction of justice.
+When the theft offense guideline is applicable, however, and the theft caused
+disruption of a governmental function, departure from the applicable guideline range
+330 November 1, 1992
+
+[[PDF page 45]]
+more readily would be appropriate. Similarly, physical injury would not warrant
+departure from the guidelines when the robbery offense guideline is applicable
+because the robbery guideline includes a specific adjustment based on the extent of
+any injury. However, because the robbery guideline does not deal with injury to more
+than one victim, departure would be warranted if several persons were injured.
+Also, a factor may be listed as a specific offense characteristic under one guideline but
+not under all guidelines. Simply because it was not listed does not mean that there
+may not be circumstances when that factor would be relevant to sentencing. For
+example, the use of a weapon has been listed as a specific offense characteristic under
+many guidelines, but not under immigration violations. Therefore, if a weapon is a
+relevant factor to sentencing for an immigration violation, the court may depart for
+this reason.
+Historical Note: Effective November 1, 1987. Amended effective June 15, 1988 (see Appendix C, amendment 57);
+November 1, 1990 (see Appendix C, amendment 358).
+§5K2.1. Death (Policy Statement)
+If death resulted, the court may increase the sentence above the authorized guideline
+range.
+Loss of life does not automatically suggest a sentence at or near the statutory
+maximum. The sentencing judge must give consideration to matters that would
+normally distinguish among levels of homicide, such as the defendant's state of mind
+and the degree of planning or preparation. Other appropriate factors are whether
+multiple deaths resulted, and the means by which life was taken. The extent of the
+increase should depend on the dangerousness of the defendant's conduct, the extent
+to which death or serious injury was intended or knowingly risked, and the extent to
+which the offense level for the offense of conviction, as determined by the other
+Chapter Two guidelines, already reflects the risk of personal injury. For example, a
+substantial increase may be appropriate if the death was intended or knowingly risked
+or if the underlying offense was one for which base offense levels do not reflect an
+allowance for the risk of personal injury, such as fraud.
+Historical Note: Effective November 1, 1987.
+§5K2.2. Physical Injury (Policy Statement)
+If significant physical injury resulted, the court may increase the sentence above the
+authorized guideline range. The extent of the increase ordinarily should depend on
+the extent of the injury, the degree to which it may prove permanent, and the extent
+to which the injury was intended or knowingly risked. When the victim suffers a
+major, permanent disability and when such injury was intentionally inflicted, a
+substantial departure may be appropriate. If the injury is less serious or if the
+defendant (though criminally negligent) did not knowingly create the risk of harm, a
+less substantial departure would be indicated. In general, the same considerations
+apply as in §5K2.1.
+Historical Note: Effective November 1, 1987.
+331 November 1, 1992
+
+[[PDF page 46]]
+§5K23. Extreme Psychological Injury (Policy Statement)
+If a victim or victims suffered psychological injury much more serious than that
+normally resulting from commission of the offense, the court may increase the
+sentence above the authorized guideline range. The extent of the increase ordinarily
+should depend on the severity of the psychological injury and the extent to which the
+injury was intended or knowingly risked.
+Normally, psychological injury would be sufficiently severe to warrant application of
+this adjustment only when there is a substantial impairment of the intellectual,
+psychological, emotional, or behavioral functioning of a victim, when the impairment
+is likely to be of an extended or continuous duration, and when the impairment
+manifests itself by physical or psychological symptoms or by changes in behavior
+patterns. The court should consider the extent to which such harm was likely, given
+the nature of the defendant's conduct.
+Historical Note: Effective November 1, 1987.
+§5K2.4. Abduction or Unlawful Restraint (Policy Statement)
+If a person was abducted, taken hostage, or unlawfully restrained to facilitate
+commission of the offense or to facilitate the escape from the scene of the crime, the
+court may increase the sentence above the authorized guideline range.
+Historical Note: Effective November 1, 1987.
+§5K2.5. Property Damage or Loss (Policy Statement)
+If the offense caused property damage or loss not taken into account within the
+guidelines, the court may increase the sentence above the authorized guideline range.
+The extent of the increase ordinarily should depend on the extent to which the harm
+was intended or knowingly risked and on the extent to which the harm to property is
+more serious than other harm caused or risked by the conduct relevant to the offense
+of conviction.
+Historical Note: Effective November 1, 1987.
+§5K2.6. Weapons and Dangerous Instrumentalities (Policy Statement)
+If a weapon or dangerous instrumentality was used or possessed in the commission of
+the offense the court may increase the sentence above the authorized guideline range.
+The extent of the increase ordinarily should depend on the dangerousness of the
+weapon, the manner in which it was used, and the extent to which its use endangered
+others. The discharge of a firearm might warrant a substantial sentence increase.
+Historical Note: Effective November 1, 1987.
+332 November 1, 1992
+
+[[PDF page 47]]
+§5K2.7. Disruption of Governmental Fiinctinn (Policy Statement)
+If the defendant's conduct resulted in a significant disruption of a governmental
+function, the court may increase the sentence above the authorized guideline range to
+reflect the nature and extent of the disruption and the importance of the governmental
+function affected. Departure from the guidelines ordinarily would not be justified
+when the offense of conviction is an offense such as bribery or obstruction of justice;
+in such cases interference with a governmental function is inherent in the offense, and
+unless the circumstances are unusual the guidelines will reflect the appropriate
+punishment for such interference.
+Historical Note: Effective November 1, 1987.
+§5K2.8. Extreme Conduct (Policy Statement)
+If the defendant's conduct was unusually heinous, cruel, brutal, or degrading to the
+victim, the court may increase the sentence above the guideline range to reflect the
+nature of the conduct. Examples of extreme conduct include torture of a victim,
+gratuitous infliction of injury, or prolonging of pain or humiliation.
+Historical Note: Effective November 1, 1987.
+§5K2.9. Criminal Purpose (Policy Statement)
+If the defendant committed the offense in order to facilitate or conceal the
+commission of another offense, the court may increase the sentence above the
+guideline range to reflect the actual seriousness of the defendant's conduct.
+Historical Note: Effective November 1, 1987.
+§5K2.10. Victim's Conduct (Policy Statement)
+If the victim's wrongful conduct contributed significantly to provoking the offense
+behavior, the court may reduce the sentence below the guideline range to reflect the
+nature and circumstances of the offense. In deciding the extent of a sentence
+reduction, the court should consider:
+(a) the size and strength of the victim, or other relevant physical characteristics,
+in comparison with those of the defendant;
+(b) the persistence of the victim's conduct and any efforts by the defendant to
+prevent confrontation;
+(c) the danger reasonably perceived by the defendant, including the victim's
+reputation for violence;
+(d) the danger actually presented to the defendant by the victim; and
+333 November 1, 1992
+
+[[PDF page 48]]
+(e) any other relevant conduct by the victim that substantially contributed to the
+danger presented.
+Victim misconduct ordinarily would not be sufficient to warrant application of this
+provision in the context of offenses under Chapter Two, Part A.3 (Criminal Sexual
+Abuse). In addition, this provision usually would not be relevant in the context of
+non-violent offenses. There may, however, be unusual circumstances in which
+substantial victim misconduct would warrant a reduced penalty in the case of a non-
+violent offense. For example, an extended course of provocation and harassment
+might lead a defendant to steal or destroy property in retaliation.
+Historical Note: Effective November 1, 1987.
+§5K2.11. Lesser Harms (Policy Statement)
+Sometimes, a defendant may commit a crime in order to avoid a perceived greater
+harm. In such instances, a reduced sentence may be appropriate, provided that the
+circumstances significantly diminish society's interest in punishing the conduct, for
+example, in the case of a mercy killing. Where the interest in punishment or
+deterrence is not reduced, a reduction in sentence is not warranted. For example,
+providing defense secrets to a hostile power should receive no lesser punishment
+simply because the defendant believed that the government's policies were misdirected.
+In other instances, conduct may not cause or threaten the harm or evil sought to be
+prevented by the law proscribing the offense at issue. For example, where a war
+veteran possessed a machine gun or grenade as a trophy, or a school teacher
+possessed controlled substances for display in a drug education program, a reduced
+sentence might be warranted.
+Historical Note: Effective November 1, 1987.
+§5K2.12. Coercion and Duress (Policy Statement)
+If the defendant committed the offense because of serious coercion, blackmail or
+duress, under circumstances not amounting to a complete defense, the court may
+decrease the sentence below the applicable guideline range. The extent of the
+decrease ordinarily should depend on the reasonableness of the defendant's actions
+and on the extent to which the conduct would have been less harmful under the
+circumstances as the defendant believed them to be. Ordinarily coercion will be
+sufficiently serious to warrant departure only when it involves a threat of physical
+injury, substantial damage to property or similar injury resulting from the unlawful
+action of a third party or from a natural emergency. The Commission considered the
+relevance of economic hardship and determined that personal financial difficulties and
+economic pressures upon a trade or business do not warrant a decrease in sentence.
+Historical Note: Effective November 1, 1987.
+334 November 1, 1992
+
+[[PDF page 49]]
+§5K2.13. Diminished Capacity (Policy Statement)
+If the defendant committed a non-violent offense while suffering from significantly
+reduced mental capacity not resulting from voluntary use of drugs or other intoxicants,
+a lower sentence may be warranted to reflect the extent to which reduced mental
+capacity contributed to the commission of the offense, provided that the defendant's
+criminal history does not indicate a need for incarceration to protect the public.
+Historical Note: Effective November 1, 1987.
+§5K2.14. Public Welfare (Policy Statement)
+If national security, public health, or safety was significantly endangered, the court
+may increase the sentence above the guideline range to reflect the nature and
+circumstances of the offense.
+Historical Note: Effective November 1, 1987.
+§5K2.15. Terrorism (Policy Statement)
+If the defendant committed the offense in furtherance of a terroristic action, the court
+may increase the sentence above the authorized guideline range.
+Historical Note: Effective November 1, 1989 (see Appendix C, amendment 292).
+§5K2.16. Voluntary Disclosure of Offense (Policy Statement)
+If the defendant voluntarily discloses to authorities the existence of, and accepts
+responsibility for, the offense prior to the discovery of such offense, and if such
+offense was unlikely to have been discovered otherwise, a departure below the
+applicable guideline range for that offense may be warranted. For example, a
+downward departure under this section might be considered where a defendant,
+motivated by remorse, discloses an offense that otherwise would have remained
+undiscovered. This provision does not apply where the motivating factor is the
+defendant's knowledge that discovery of the offense is likely or imminent, or where
+the defendant's disclosure occurs in connection with the investigation or prosecution
+of the defendant for related conduct.
+Historical Note: Effective November 1, 1991 (see Appendix C, amendment 420).
+335 November 1, 1992

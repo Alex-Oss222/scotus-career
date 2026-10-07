@@ -1,0 +1,3429 @@
+Supreme Court, Ug 
+FibLk& Db 
+
+
+Oct we 
+
+
+In the Supreme Court of the Guted States 
+
+
+OCTOBER TERM, 1995 
+
+
+UNITED STATES OF AMERICA, PETITIONER 
+v. 
+
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FEDERAL CIRCUIT 
+
+
+Drew S. Days, III 
+Solicitor General 
+
+
+LORETTA C. ARGRETT 
+Assistant Attorney General 
+
+
+LAWRENCE G. WALLACE 
+Deputy Solicitor General 
+
+
+KENT L. JONES 
+Assistant to the Solicitor General 
+
+
+GARY R. ALLEN 
+ERNEST J. BROWN 
+Attorneys 
+
+
+Department of Justice 
+Washington, D.C. 20530 
+(202) 514-2217 
+
+
+QUESTION PRESENTED 
+
+
+Section 4371 of the Internal Revenue Code, 26 
+U.S.C. 4371, imposes a tax of four cents per dollar on 
+casualty insurance premiums paid to a foreign in- 
+surer for the risks of a domestic insured that are 
+“wholly or partly within the United States” (26 
+U.S.C. 4372(d)(1)). The question presented in this 
+case is: 
+
+
+Whether, as applied to casualty insurance for losses 
+incurred during the shipment of goods from locations 
+within the United States to purchasers abroad, the 
+tax imposed by Section 4371 of the Internal Revenue 
+Code violates the Export Clause of the Constitution 
+of the United States (U.S. Const. Art. I, § 9, Cl. 5). 
+
+
+(I) 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+SD BETED ccesecceccnsevecccscenseceresseenssccensensncaneanesecnescest 1 
+GEIEEIED ereccecencenscnasenetesssssnnnanssenseneascscsscncesessscescneees l 
+Constitutional and statutory provisions involved .......... 2 
+TEINS sassscossssenscssssencnncsssnnsssesscnesesencsosenecnesocesssoosests 4 
+Reasons for granting the petition o..........cccccccccccceeeeeeeees 12 
+GRRE cscentensensccsccsscsntossccsnccscccccsssnsnvecssenocscaccncnseeeees 41 
+GGT BB ccccccsssesscssscssssscstnecccccssssosencsssssesscsscssssoonsccees la 
+STEIN TD coscsnscssssscsvencncescensssnentenscscsnsnecensenenensssnesenenss 12a 
+FETE ] ccsncccccecccsscsessssensecccccccscnssessesscsesenscccscsssssecess Sla 
+PETITES © cessstntnsccesssenscccssscsccscccecsssnsnscsnssssccsosscnsscscccss ‘2a 
+GIEETETES G cerccncesarsavensecccscescccevcccscnccenccssocccseveccencenencents ‘4a 
+J 
+TABLE OF AUTHORITIES 
+Cases: 
+; 
+A.G. Spalding & Bros. v. Edwards, 262 U.S, 06 
+
+GEIEENIEED conenbendenencenucsnecscossasseqsenccesssscoveunescsesnscoquneneees 21-22 
+
+
+Almy v. California, 65 U.S. (24 How.) 169 (1861)... 19 
+Anglo-Chilean Nitrate Sales Corp. v. Alabama, 
+
+
+SEE MINED oscistenerecesnnestunsnnnsepmennemeemnssnenncnes rT] 
+Board of Trustees v. United States, 289 U.S. 48 
+
+SETEIEIEE? wepasuseseusscsccsesesenevensennesesseusenseusvensessczessessecerens 0 
+Brown v. Maryland, 265 US. (12 Wheat.) 419 
+
+a eee 15, 16, 17 
+Canton R.R. v. Rogan, 340 US. 511 (1951) — —_ 22 
+Complete Auto Transit, Inc. v. Brady, 480 U.S. 274 
+
+STD diceeerinrinaintnaariniaaimeespanennunermnieemneaeeneses 21, 22, 24, 26 
+Cook v. Pennaylvania, 97 US. 566 (1878) ipabewaanananse 18 
+Cornell v. Coyne, 192 U.S. 418 (1904) 0.000 16, 19 
+Crew Levick Co. v. Pennaylvania, 245 U.S. 292 
+
+ETIIIEED coccnusenegssseesncgnensspatonasenaieunsssennapneessesenstonnsesnsens 22 
+Crutcher v. Kentucky, 141 U.S. 47 (189)1)............... 20 
+
+
+Department of Revenue of Washington v. Associa. 
+tion of Washington Stevedoring Coa., 485 U.S. T34 
+a cosveceeeeeee =, 15, 22, 26, 26, 27, 28 
+
+
+(111) 
+
+
+IV 
+
+
+Cases—Continued: Page 
+
+
+DiSanto v. Pennsylvania, 273 U.S. 34 (1927) ......... 20-21 
+Fairbank vy. United States, 181 U.S, 283 (1901) ..... 19 
+Gibbons v. Ogden, 22 U.S. (9 Wheat.) 1 (1824) ........ 29-30 
+Hooven & Allison Co. v. Evatt, 324 U.S. 662 
+
+(GED acecccscccnscccccssnssecsnsccsessssosesecsncsssccsconsscssooseneseets 18 
+Joseph v. Carter & Weekes Stevedoring Co., 330 US. 
+
+GBB CBBGD cecreccceccssccsescssscsensnsassencsemsesesesssssscsnscsnscens 22 
+Kosydar v. National Cash Register Co., 417 US. 
+
+GD CIRO cccecccccscsssecevsnsccnccccccccsccescccscsesccsssecccosccsscesee 16 
+License Cases, 46 U.S. (6 How.) 504 (1847) .............. 17 
+Limbach vv. Hooven & Allison Co., 466 US, 353 
+
+GREED cccnscccsenccnnnsentnsscensansnnstasiinmmmusapsenszemmemntennnssentes 27 
+Low vy. Austin, 80 U.S. (13 Wall.) 29 (1872)............. 17, 18 
+May v. New Orleans, 178 US. 496 (1900) ............... 18 
+Memphis Steam Laundry Cleaner, Inc. v. Stone, 
+
+Be Ga GD coccnancemneccssnscsesscensensscspeamnesseeneses 20 
+Michelin Tire Corp. v. Wages, 423 U.S. 276 9, 16 
+
+(BIE ncccccsscocercocccssessnscvsenscsssnensessssssennsceasiecs 22, 23, 24, 27 
+Nippert v. City of Richmond, 327 U.S. 416 (1946) .. 21 
+Pace v. Burgess, 92 U.S. 872 (B76) ones 18 
+Puget Sound Stevedoring Co. v. State Tax Comm'n, 
+
+BD CEE, GD CEP ccsncccccsnsccccsccscsnsscsscssccsesescesscssseeses 22 
+Robbina v. Shelby County Taxing District, 120 U.S. 
+
+oe 20 
+Rodriquez de Quijas v. Shearson/American Express, 
+
+Inc., 490 U.S. 477 (1988) ......cccccccccccceceeeeneeeeneenes 9, 10, 13 
+Spector Motor Service, Inc. v. O'Connor, 340 US, 
+
+GB CRBED ncccsccrcnccccsccscscececeveseccscscssecenesssensssoesessanes 21, 26 
+Thames & Mersey Marine Ina. Co. v. United States, 
+
+BBD TE, BD CRB EED cccccccvcccccccccescsccesecesscssescserssens 9, 13, 20, 21 
+Turpin v. Burgess, 117 U.S. 504 (1886) ................ 16, 19 
+United States v. American Bar Endowment, 
+
+GQ) yey 14 
+
+
+United States v. Goodyear Tire & Rubber Co., 
+ee 14 
+
+
+v 
+Cases—Continued: 
+United States v. Hill, 113 8, Ct. 941 (1998) ............ 14 
+United States v. Hvoslef, 237 U.S. 1 (1915)........... 16, 20 
+United States v. Marigold, 50 U.S. (9 How.) 560 
+GEIIEED cncccastiantechecnindienssesctitbavibccesscctteczcsuapenammsecsenedes 90 
+United States v. The William, 28 Fed. Cas. 614 
+(D. Mass. 1808) (NO, 16,700) 00000... cccccccceecccceeeeneee 30 
+Weatern Live Stock v. Bureau of Revenue, 308 US. 
+EE GEEEEED ccuneencansenananinnsseninsnennidtnengneamasciipicnscmeneceins 22 
+Youngstown Sheet & Tube Co. v. Bowers, 368 US. 
+EP IEEE eenstatetnependecseenmmemntnandenempermepenecssnvensessonsccoess 18 
+Constitution, statutes and regulation 
+U.S. Conat.: 
+Art. lL: 
+§ 8, Cl. 3 (Commerce Clause) ............. 2, 20, 21, 24, 25, 29 
+$9, CL 5 (Export Clause) ..0.....0.0ccccccccceceeeeeeeeens passim 
+§ 10, Cl. 2 (Import-Export Clause).................0 passim 
+Act of Aug. 8, 1882, ch. 468, 22 Stat. 872 ..........0 18 
+Internal Revenue Code (26 U.S.C.): 
+REID ccnsenssnspeniiemmiieebatenianipniiinbeseniiomdbeeneccsndesante 4 
+SERED consnespssssussennssessnsnesnnsnsnesvensenssuenesestnnnensests 4 
+SOG disemecnscsnscnsccensncnstenscuncenmspensbenssnemnenustenetéensests passim 
+SOIT stinectnietapecuntencinneurenniineantenneipenimamniinidsadiitdendienss 3 
+> GD cciinsnicnsanscnecnenessetmenssmmsomneensemmesnentes — 8, 5 
+ip ITI ininnrenntnpepessenmnineesenmesenenttenecssgnanes %, 5, 12, 14-15 
+TC 4 
+ee 4,5 
+Eee 4, 5,8 
+§ 4461 (1988 & Supp. V 1998) oo... cccccccccccccceeeeeeees 13, 14 
+i) Garr cenccrcmresensnnenennsnegcenasenssentenasensansnsscenmpecnsenss 13 
+© Gy GED OU GED ccceccesssccnsecssezsnsserssesssencnssets 13 
+> GED #ccnsestensasesnnenanetecesessnnsssctenssenseninseustuecneess 13 
+> GID ‘chasmnesndctersenemereteencsutenecensennietenisscniioants 14 
+
+
+VI 
+Statutes and regulation—Continued: Page 
+War Revenue Act of 1898, ch. 448, 30 Stat. 448 ........ 19, 20 
+
+§ 26: 
+
+BIR, GD cconccnsccecnssescnsnenccnqnccnnsnesassenesscntssenssnees 19 
+
+EID, GED eccccescccccsnccscensatsnccsasnesenencaneumpsionsecesnes 20 
+
+BD GRR, GE cccccncccsesscscscsscszscnsscssomsescscssensnsnscsssccess 20 
+War Revenue Act of 1917, ch. 63, § 600(f) 40 Stat. 
+
+GEITEIIET scnincecceenedlensscemnpcessnusnncctonessbenseanemmettesneceseseses 21 
+OO) hl 14 
+ee 14 
+BD SF ae, GRACO GD ccccccnccnsscnscsssesssesnscscnsssesessessseees 5 
+
+Miscellaneous: 
+2 M. Farrand, The Records of the Federal Convention 
+
+"| Re ete 29 
+H.R. Rep. No. 2333, 77th Cong., 2d Sess, (1942) ....... 5, 15, 30 
+C, Warren, The Making of the Constitution (reprint 
+
+BERD CORED ceccccsnscsccssccssescensvscsnctscssasesasesesusersessscsees 2k 
+
+
+In the Supreme Court of the United States 
+
+
+OcTOBER TERM, 1995 
+
+
+No. 
+UNITED STATES OF AMERICA, PETITIONER 
+Vv, 
+
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FEDERAL CIRCUIT 
+
+
+The Solicitor General, on behalf of the United 
+States of America, petitions for a writ of certiorari to 
+review the judgment of the United States Court of 
+Appeals for the Federal Circuit in this case. 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (App., infra, la- 
+lla) is reported at 59 F.3d 1234. The opinion of the 
+Court of Federal Claims (App., infra, 12a-30a) is 
+reported at 31 Fed, Cl. 500, 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals (App., infra, 
+$la) was entered on July 10, 1995. The jurisdiction of 
+this Court is invoked under 28 U.S.C, 1254(1). 
+
+
+(1) 
+
+
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED 
+
+
+1. The Constitution of the United States provides, 
+in relevant part: 
+
+
+a. Art. 1, § 8, Cl. 3: 
+
+
+The Congress shall have Power * * * To 
+regulate Commerce with foreign Nations, and 
+among the several States, and with the Indian 
+Tribes. 
+
+
+b. Art. 1, $9, Cl. 5: 
+
+
+No Tax or Duty shall be laid on Articles 
+exported from any State. 
+ce. Art. 1, § 10, Cl. 2: 
+
+No State shall, without the Consent of the 
+Congress, lay any Imposts or Duties on 
+Imports or Exports, except what may be 
+absolutely necessary for executing it’s in- 
+spection Laws * * *, 
+
+
+2. The Internal Revenue Code provides, in relevant 
+part: 
+a. 26 U.S.C, 4871: 
+
+There is hereby imposed, on each policy of 
+insurance, indemnity bond, annuity contract, 
+or policy of reinsurance issued by any foreign 
+insurer or reinsurer, a tax at the following 
+rates: 
+
+
+(1) 4 cents on each dollar, or fractional 
+part thereof, of the premium paid on the 
+policy of casualty insurance or the indem- 
+
+
+nity bond, if issued to or for, or in the name 
+of, an insured as defined in section 4372(d); 
+
+
++ * * * * 
+
+
+b, 26 U.S.C, 4372; 
+
+
+(a) For purposes of section 4371, the term 
+“foreign insurer or reinsurer” means an 
+insurer or reinsurer who is a nonresident 
+alien individual, or a foreign partnership, or 
+a foreign corporation, * * * 
+
+
+(b) For purposes of section 4871(1), the 
+term “policy of casualty insurance” means 
+any policy (other than life) or other in- 
+strument by whatever name called whereby 
+a contract of insurance is made, continued, or 
+renewed, 
+
++ * + * * 
+
+
+(d) For purposes of section 43871(1), the 
+term “insured” means— 
+
+
+(1) a domestic corporation or part- 
+nership, or an individual resident of the 
+United States, against, or with respect to, 
+hazards, risks, losses, or liabilities wholly 
+or partly within the United States, * * * 
+
+
+* * + * * 
+
+
+c. 26 U.S.C. 4373 (1982):' 
+
+
+The tax imposed by section 4371 shall not 
+apply to— 
+
+
+(1) Any policy, indemnity bond, or 
+annuity contract signed or countersigned 
+by an officer or agent of the insurer in a 
+State, or in the District of Columbia, 
+within which such insurer is authorized 
+to do business; * * * 
+
+
+* * * * * 
+
+
+d. 26 U.S.C. 4374: 
+
+
+The tax imposed by this chapter shall be 
+paid, on the basis of a return, by any person who 
+makes, signs, issues, or sells any of the docu- 
+ments and instruments subject to the tax, or for 
+whose use or benefit the same are made, signed, 
+issued, or sold. * * * 
+
+
+STATEMENT 
+
+
+1. Respondent International Business Machines 
+Corporation brought this suit in the Court of Federal 
+Claims to obtain a refund of $1.5 million in taxes 
+assessed under Section 4371 of the Internal Revenue 
+
+
+! This provision was amended in 1988 to conform its 
+language to terminology elsewhere employed by Congress to 
+describe activities that are “effectively connected” to activities 
+within the United States and are therefore subject to the 
+federal income tax. See 26 U.S.C. 864(c), 882(a)(1). The 
+amendment does not alter the application of the statute in the 
+context of this case. 
+
+
+Code. IBM does not dispute that the taxes were 
+correctly assessed under the statute. Instead, IBM 
+contends that the statute is unconstitutional as 
+applied to the facts of this case. 
+
+a. Section 4371 of the Internal Revenue Code, 26 
+U.S.C. 4371, imposes a tax of four cents per dollar on 
+casualty insurance premiums paid to a foreign in- 
+surer for the risks of a domestic insured that are 
+“wholly or partly within the United States” (26 
+U.S.C. 4372(d)(1)).2 The tax is to be paid by “any 
+person * * * for whose use or benefit” the policy is 
+“made, signed, issued, or sold.” 26 U.S.C. 4374. 
+
+Section 4371 was enacted in 1942 to “eliminate an 
+unwarranted competitive advantage now favoring 
+foreign insurers” who are not subject to the federal 
+income tax. H.R. Rep. No. 2333, 77th Cong., 2d Sess. 
+61 (1942). The tax therefore does not apply if the 
+insurance policy issued by the foreign insurer is 
+“signed or countersigned by an officer or agent of the 
+insurer in a State, or in the District of Columbia, 
+within which such insurer is authorized to do 
+business.” 26 U.S.C. 4373(1) (1982). See also note 1, 
+supra; 26 C.F.R. 46.4371-2(a). 
+
+b. IBM manufactures a variety of business prod- 
+ucts that it sells throughout the world. During 
+the period involved in this case, IBM shipped prod- 
+ucts for international sales from its manufacturing 
+facilities in Arizona, California, Colorado, Florida, 
+Minnesota, New York, North Carolina, Virginia and 
+Texas (App., infra, 13a-14a). IBM made its inter- 
+
+
+® The term “foreign insurer” is defined to mean an insurer 
+“who is a nonresident alien individual, or a foreign partnership, 
+or a foreign corporation” (26 U.S.C. 4372(a)). 
+
+
+national sales through a network of more than one 
+hundred wholly owned subsidiares (id. at 14a-15a): 
+
+
+Sales outside the United States of IBM prod- 
+ucts manufactured within the United States 
+were accomplished by a purchase order to IBM 
+from its foreign subsidiary, under which IBM 
+billed the subsidiary and generally shipped the 
+goods directly to the subsidiary’s customer. 
+Lower priced goods might be shipped to a 
+- consolidation center in the foreign country, and 
+maintained as inventory by the foreign subsidiary 
+to fill future orders. * * * 
+
+
+Shipment of products from the United States to 
+the foreign customer began by truck on a com- 
+mon carrier (from the manufacturing plant or 
+warehouse). The goods generally were destined 
+for a United States airport (typically, John F. 
+Kennedy in New York for shipments to Europe 
+and the Middle East, Miami International for 
+shipments to Latin America, and San Francisco 
+International for shipments to the Far East), but 
+some shipments were by sea. While traveling 
+within the United States, the products would 
+typically be unloaded at one or more intermediate 
+freight forwarder locations, where they would 
+typically remain for two to five days, but could 
+remain * * * as long as thirty days. The prod- 
+ucts would be reloaded at the freight forwarders’ 
+facilities and continue ultimately to the point of 
+embarkation, where they were loaded onto an 
+airplane or a ship. Once the products reached the 
+air or sea port in the foreign country, they were 
+
+
+unloaded, cleared customs, and loaded on trucks 
+for shipment to their final destination. 
+
+
+The terms of sale specified that title to the goods, and 
+risk of loss, passed from IBM to its foreign sub- 
+sidiaries only when the goods cleared customs in 
+the foreign country. The foreign subsidiaries were 
+nonetheless required to bear the cost of insuring the 
+products against damage or loss during the entire 
+shipment (App., infra, 15a). 
+
+The insurance obtained for these shipments was 
+“point to point”: it covered the risk of damage or loss 
+during transportation of the goods from the IBM 
+facility in the United States to the point of foreign 
+delivery. When IBM made the arrangements, the 
+insurance was placed with a domestic insurer and 
+the cost was billed to the foreign subsidiary. When 
+the foreign subsidiary made the arrangements, the 
+insurance was often placed with a foreign carrier, 
+which the subsidiary paid directly. In both situations, 
+IBM and its foreign subsidiary were listed as joint 
+beneficiaries on the policies of insurance (App., infra, 
+15a-16a). 
+
+If damage occurred before the goods cleared 
+customs—while IBM retained title to the goods and 
+risk of loss—IBM received the insurance proceeds 
+directly under these policies. If the loss occurred 
+after the goods cleared customs—when title and risk 
+of loss had passed to the importing foreign subsidiary 
+—the insurance proceeds were paid to the subsidiary. 
+In the latter event, the proceeds were used by the 
+subsidiary to pay the full purchase price of the 
+damaged products to IBM or, if IBM had already been 
+paid, to reimburse the subsidiary for its loss (App., 
+infra, 16a). 
+
+
+c. IBM filed federal excise tax returns for 1975 
+through 1984 but did not report any liability under 
+Section 4371 of the Internal Revenue Code. On audit, 
+the Internal Revenue Service determined that the 
+premiums paid to foreign insurers were subject to the 
+tax imposed by Section 4371 and that, pursuant to 
+Section 4374, IBM was liable for the tax as a named 
+beneficiary of the insurance policies. 
+
+The foreign subsidiaries reported to IBM that, 
+during 1980, they had paid premiums of $2,065,137 to 
+foreign insurers for “point to point” insurance for 
+shipments of products that IBM manufactured in the 
+United States. The tax applicable to those premiums 
+under Section 4371 of the Code—calculated by mul- 
+tiplying the premiums by four percent—is $82,605. 
+The parties stipulated that the foreign insurance 
+premiums attributable to shipments of IBM products 
+in each of the years 1975-1979 and 1981-1984 were the 
+same as in 1980. The IRS therefore assessed the 
+same amount of tax for each of those years under 
+Section 4371 (App., infra, 18a). 
+
+2. IBM paid the resulting assessments and filed 
+claims for refund. When those claims were denied, 
+IBM commenced this refund suit in the Court of 
+Federal Claims. 
+
+a. IBM contended that the tax imposed by Section 
+4371 of the Internal Revenue Code—as applied to 
+insurance premiums for losses occurring during the 
+shipment of goods from locations within the United 
+States to purchasers abroad—violates the Export 
+Clause of the Constitution, which provides that “[nJo 
+Tax or Duty shall be laid on Articles exported from 
+any State.” U.S. Const. Art. I, § 9, Cl. 5. IBM 
+contended that the tax on insurance for export 
+
+
+shipments is a “Tax or Duty * * * laid on Articles 
+exported” and is invalid under the specific holding of 
+this Court in Thames & Mersey Marine Ins. Co. v. 
+United States, 237 U.S. 19 (1915). In Thames & 
+Mersey, the Court held a federal stamp tax on policies 
+insuring marine risks unconstitutional as applied to 
+shipments for export. 
+
+The United States contended that the analysis of 
+Thames & Mersey is no longer valid. The govern- 
+ment reasoned that subsequent decisions of the 
+Court, such as Michelin Tire Corp. v. Wages, 423 
+U.S. 276 (1976), and Department of Revenue of 
+Washington v. Association of Washington Steve- 
+doring Cos., 435 U.S. 734 (1978), require the con- 
+clusion that the Export Clause does not invalidate a 
+generally applicable, nondiscriminatory tax that does 
+not fall uniquely and discretely on articles of export 
+or export transactions. 
+
+b. The Court of Federal Claims held that ap- 
+plication of the tax imposed by Section 4371 to 
+insurance premiums for goods in export transit 
+violates the Export Clause because it “amounts to a 
+tax on exports” (App., infra, 26a). The court reasoned 
+that this conclusion follows from the precise holding 
+of this Court’s 1915 decision in Thames & Mersey, 
+which stated (237 U.S. at 26): 
+
+
+It cannot be doubted that insurance during the 
+voyage is by virtue of the demands of commerce an 
+integral part of the exportation. 
+
+
+The Court of Federal Claims emphasized that, 
+under Rodriguez de Quijas v. Shearson/American 
+Express, Inc., 490 U.S. 477, 484 (1989), lower courts 
+“must adhere to the accepted practice of following 
+Supreme Court precedent unless the Supreme Court 
+
+
+10 
+
+
+clearly states that it is overruling earlier cases and 
+explains why it is doing so” (App., infra, 28a). The 
+court found no clear evidence that Thames & Mersey 
+has been overruled or that its analysis has been 
+discarded by this Court. The court held that Thames 
+& Mersey therefore remains authoritative and that it 
+compels the conclusion that the tax imposed by 
+Section 4371 is unconstitutional as applied in this 
+case (id. at 29a). 
+
+The court acknowledged that this Court’s more 
+recent decisions under the Import-Export Clause in 
+Michelin Tire and Washington Stevedoring have 
+upheld application of nondiscriminatory state taxes to 
+
+and services involved in importation and 
+exportation. The court concluded, however, that 
+those decisions could be distinguished on their facts. 
+The court explained that Washington Stevedoring— 
+which upheld application of a state gross receipts tax 
+to a stevedoring company that handled export and 
+import shipments—concerned “stevedoring” rather 
+than “insurance” and that “stevedoring is a service 
+whose value is not necessarily tied to the value of the 
+goods it serves” (App., infra, 29a). The court further 
+stated that Michelin Tire—which upheld application 
+of a state property tax to imported goods located 
+within the borders of the State—is inapposite because 
+“in Michelin the [imported goods] had left the import 
+stream and were * * * thus outside the scope of the 
+Import-Export Clause” (ibid.). 
+
+3. The court of appeals affirmed (App., infra, la- 
+lla). The court noted (id. at 1la) that this Court 
+has admonished the lower courts that (Rodriguez de 
+Quijas v. Shearson/American Express Co., 490 U.S. 
+at 484) 
+
+
+1] 
+
+
+liJf a precedent of this Court has direct application 
+in a case, yet appears to rest on reasons rejected 
+in some other line of decisions, the Court of 
+Appeals should follow the case which directly 
+controls, leaving to this Court the prerogative of 
+overruling its own decisions. 
+
+
+The court of appeals stated that it was therefore 
+bound to follow Thames & Mersey, and hold the tax 
+imposed by Section 4371 unconstitutional as applied in 
+this case, unless subsequent decisions of this Court 
+“clearly signaled” an intent to overrule that earlier 
+decision (App., infra, 8a). 
+
+The court of appeals concluded that it was “not so 
+sure” (App., infra, 8a) that Washington Stevedoring 
+and Michelin Tire signaled the requisite clear intent 
+of this Court to abandon the analysis of Thames 
+& Mersey. The court of appeals did not dispute 
+that, if an analysis “similar” to that applied un- 
+der the Import-Export Clause in Michelin Tire and 
+Washington Stevedoring were applied under the 
+Export Clause, the holding and reasoning of Thames 
+& Mersey would be discredited (App., infra, 7a-8a). 
+Instead, the court stated that it was not certain that a 
+similar analysis would be applied because there is a 
+difference in the language of the two Clauses that 
+could require a different result: the Import-Export 
+Clause bars States from laying “Imposts or Duties on 
+Imports or Exports”; the Export Clause bars the 
+United States from laying any “Tax or Duty * * * 
+on Articles exported from any State.” The court of 
+appeals stated (id. at 9a-10a): 
+
+
+Although the [Supreme] Court at first expressed 
+the view that the “diversity in language” between 
+the two clauses did not reflect any difference in 
+
+
+“the act which is prohibited,” Brown v. Mary- 
+land, 26 U.S. (12 Wheat.) 419, 425 (1827), in both 
+Michelin and Washington Stevedoring the Court 
+has noted and attached significance to the dif- 
+ference between the narrow term “Imposts and 
+Duties” * * * and the broader term “Tax” * * *. 
+See Michel », ‘23 U.S. at 290; Washington Steve- 
+doring, 435 U.S. at 759. 
+
+
+Reasoning that a “tax” that might be permitted 
+under the “narrow” language of the Import-Export 
+Clause might nonetheless be invalid under the 
+“broader” language of the Export Clause (App., infra, 
+10a), the court concluded that the recent Import- 
+Export Clause decisions fail to provide the requisite 
+clear guidance that would permit a lower court to 
+“disregard[| a higher court decision that all agree is 
+binding precedent if it is still valid” (id. at 10a-11a).” 
+The court therefore held “that [its] duty is to follow 
+Thames & Mersey and hold Section 4371 invalid as 
+applied” (id. at 11a). 
+
+REASONS FOR GRANTING THE PETITION 
+
+
+The decision in this case holds a federal statute 
+unconstitutional as applied to a significant, recurring 
+set of commercial transactions. The court of appeals 
+concluded that the federal tax on insurance premiums 
+paid to a foreign insurer for risks that are “wholly 
+or partly within the United States” (26 U.S.C. 
+4372(d)(1))}—as applied to casualty insurance for 
+shipments from within the United States to foreign 
+countries—repesents a “Tax or Duty * * * laid on 
+
+
+* The court of appeals noted that the United States had 
+conceded that, “if Thames & Mersey is still good law, the 
+assessments at issue in this case are invalid” (App., infra, 6a). 
+
+
+Articles exported” (U.S. Const. Art. 1, § 9, Cl. 5) and 
+therefore violates the Export Clause of the Con- 
+stitution. The court stated, in reaching that con- 
+clusion, that it was compelled to follow this Court's 
+1915 decision in Thames & Mersey Marine Ins. Co. v. 
+United States, supra, even though the analysis of 
+that decision has been placed in question by more 
+recent decisions of this Court. 
+
+Only this Court has “the prerogative of overruling 
+its own decisions.” Rodriguez de Quijas v. Shearson/ 
+American Express Co., 490 U.S. at 484. The Court 
+has directed lower courts to “follow the case which 
+directly controls” even when that case “appears to 
+rest on reasons rejected in some other line of 
+decisions” (ibid.). As the result, only this Court can 
+determine whether the considerations that led it to 
+uphold generally applicable, nondiscriminatory state 
+taxes under the Import-Export Clause—in Michelin 
+Tire and Washington Stevedoring—also require that 
+the generally applicable, nondiscriminatory federal 
+statute involved in this case be upheld under the 
+Export Clause of the Constitution. 
+
+The question presented in this case is of 
+substantial recurring importance. The proper scope 
+of the Export Clause has significance not only for the 
+tax imposed under Section 4371 but also for other 
+nondiscriminatory federal taxes of general appli- 
+cation. For example, Section 4461 imposes on all ship- 
+pers a “tax on any port use” of 0.125 percent of the 
+value of all commercial cargo loaded or unloaded in 
+United States ports. See 26 U.S.C. 4461(a), (b) (Supp. 
+V 1993), 4462(aX1). Approximately 700 cases are 
+currently pending in the United States Court of 
+International Trade challenging the constitutionality 
+
+
+14 
+
+
+of that statute under the Export Clause. See United 
+States Shoe Corp. v. United States, No, 94-11-00668 
+(Ct. Int. Trade). The Federal Circuit has exclusive 
+jurisdiction over any appeal from the decision in those 
+cases. 28 U.S.C. 1295(a)(5). 
+
+The Federal Circuit is a court of nationwide juris- 
+diction. Since all taxpayers are entitled to pay a 
+challenged tax and sue for a refund within the Federal 
+Circuit, it is unlikely that other courts of appeals will 
+have an opportunity to review this issue under Sec- 
+tion 4371 or other affected statutes. In similar cir- 
+cumstances, this Court has recognized the need for 
+plenary review of Federal Circuit decisions that 
+present issues of substantial importance. See, ¢.g., 
+United States v. Hill, 113 8. Ct. 941, 945 (1993); 
+United States v. Goodyear Tire & Rubber Co., 493 
+U.S. 132, 138 (1989); United States v. American Bar 
+Endowment, 477 U.S. 105, 109 (1986). Review by this 
+Court of a decision of the Federal Circuit holding 
+a statute of Congress unconstitutional is fully 
+warranted. 
+
+1. The tax imposed by Section 4371 of the Internal 
+Revenue Code is not specifically directed to nor 
+directly “laid on Articles exported” (U.S. Const. Art. 
+1, § 9, Cl. 5). Instead, it applies to insurance 
+paid to foreign insurers for any casualty risk that 
+is “wholly or partly within the United States” (26 
+
+
+* Similar litigation is also pending in the federal district 
+court in Maryland. See American Ass'n of Exporters and 
+Importers, Inc. v. Bentsen, No. L94-1839 (D. Md.). The United 
+States has moved to dismiss that case on the grounds that 
+exclusive jurisdiction over cases under Section 4461 lies in the 
+Court of International Trade. See 28 U.S.C. 1581(a); 26 U.S.C, 
+
+
+4462(f (2). 
+
+
+15 
+
+
+U.S.C, 4872(d)(1)). It thus applies without discrim- 
+ination to “wholly” domestic transactions as well 
+as to risks that are only “partly” within the United 
+States. As the House Ways and Means Committee 
+observed when the statute was enacted in 1942, 
+Section 4371 is designed to “eliminate an unwar- 
+ranted competitive advantage now favoring foreign 
+insurers” who are not subject to the federal income 
+tax. H.R. Rep. No. 2333, supra, at 61. 
+
+As a generally applicable, nondiscriminatory tax 
+that is not discretely and exclusively imposed on 
+“Articles exported,” the tax imposed under Section 
+4371 is constitutional. It violates neither the text 
+nor the object of the Export Clause and is validated by 
+the recent decisions of this Court. In particular, in 
+Michelin Tire, the Court “initiated a different ap- 
+proach to Import-Export Clause cases” that upholds 
+generally applicable taxes that reach “services 
+provided * * * to imports, exports, and other goods” 
+without discrimination. Department of Revenue of 
+Washington v. Association of Washington Steve- 
+doring Cos., 435 U.S. at 752, 761. The analysis of 
+Michelin Tire and Washington Stevedoring applies 
+equally to challenges to federal taxes under the 
+Export Clause and, under that analysis, the tax 
+imposed by Section 4371 should be sustained. 
+
+2. a. The Export and Import-Export Clauses 
+Are Complementary in Scope. In this Court’s first 
+case under either the Import-Export or the Export 
+Clause, Chief Justice Marshall observed of the two 
+Clauses that “[t)here is some diversity in language, 
+but none is perceived in the act which is prohibited.” 
+Brown v. Maryland, 25 U.S. (12 Wheat.) 419, 445 
+(1827). That observation has been repeated by this 
+
+
+16 
+
+
+Court on numerous occasions.” In the more nu- 
+merous cases under the Import-Export Clause and 
+the less numerous cases under the Export Clause, 
+the Court has routinely cited cases under the two 
+Clauses without differentiation. Moreover, the anal- 
+ysis applied in opinions under the two Clauses has not 
+varied. 
+
+b. The “Original Package” Doctrine Under the 
+Import-Export Clause. In Brown vy. Maryland, a 
+Maryland statute required that importers or whole- 
+salers of foreign articles or commodities purchase a 
+license costing $50 to sell such goods. 25 U.S. (12 
+Wheat.) at 436. Brown was convicted of having im- 
+ported and sold a package of foreign dry goods without 
+having obtained a license. In holding that the statute 
+violated the Import-Export Clause, the Court ex- 
+plained that a tax on the privilege of sale was, in sub- 
+
+
+5 See, ¢.g., Turpin v. Burgess, 117 U.S, 504, 506-507 (1886); 
+Cornell v. Coyne, 192 U.S. 418, 427 (1904); United States v. 
+Hvoslef, 237 U.S. 1, 14 (1915); Kosydar v. National Cash 
+Register Co., 417 U.S, 62, 67 n.5 (1974), 
+
+
+® The suggestion of the court of appeals that the language of 
+the Export Clause may be “broader” in its prohibitive scope 
+than the language of the Import-Export Clause (App., infra, 
+10a) does not withstand analysis. The entire text of the two 
+Clauses must be considered. The Import-Export Clause pre- 
+cludes States from imposing “Imposts or Duties on Imports or 
+Exports”; the Export Clause specifies that no federal “Tax or 
+Duty shall be laid on Articles exported.” U.S, Const, Art, I, 
+§ 10, Cl, 2; Art. 1, § 9, Cl. 5. An “impost” on an “export” is 
+a “tax” on an “Article exported”; a “tax” on an “Article 
+exported” is an “impost.” Under the text of the two Clauses, 
+it is the charge collected on the item exported that is at issue, 
+A “tax” that is not “laid on” “Articles exported” does not fall 
+within the scope of the Export Clause. See Michelin Tire Corp. 
+v. Wages, 423 U.S. at 293-294; pages 23-24, infra. 
+
+
+17 
+
+
+stance, a duty upon things imported for sale, /d. at 
+439. Rejecting the suggestion that this would mean 
+that imported goods would be perpetually immune 
+from taxation, the Court stated that an import retains 
+its “distinctive character” only while in the “original 
+form or package in which it was imported” (id. at 442). 
+
+In the License Cases, 46 U.S. (5 How.) 504 (1847), 
+Chief Justice Taney acknowledged that a tax directed 
+at imports would be invalid and did not question the 
+validity of the “original package” doctrine. But he 
+concluded that a generally applicable, nondiscrimina- 
+tory state property tax would not be unconstitutional 
+merely because it also applied to imported goods (id. 
+at 576): 
+
+
+Undoubtedly a State may impose a tax upon its 
+citizens in proportion to the amount they are 
+respectively worth; and the importing merchant is 
+liable to this assessment like any other citizen, 
+and is chargeable according to the amount of his 
+property, whether it consists of money engaged in 
+trade, or of imported goods which he proposes to 
+sell, or any other property of which he is the 
+owner, But a tax of this description stands upon a 
+very different footing from a tax on the thing 
+imported, while it remains a part of foreign 
+commerce, and is not introduced into the general 
+mass of property in the State. 
+
+
+In Low v. Austin, 80 U.S. (183 Wall.) 29 (1872), how- 
+ever, the Court reached a different conclusion, 
+holding that a generally applicable California prop- 
+erty tax could not be imposed upon a shipment of 
+French champagne held in an importer’s warehouse 
+in the “original package” in which shipped. /d. at 35. 
+In doing so, the Court neglected to consider the con- 
+
+
+18 
+
+
+trary conclusion of Chief Justice Taney in the 
+License Cases, although his approval of the “original 
+package” doctrine was cited by the Court. Jd. at 33- 
+34.’ 
+
+ce. The Early Export Clause Cases. The Export 
+Clause was invoked in Pace v. Burgess, 92 U.S. 372 
+(1876), by a tobacco manufacturer who, in 1868, was 
+subject to a federal excise tax on tobacco products. 
+Although tobacco intended for export was exempt 
+from the tax, the exemption was subject to the 
+requirement that packages for export be identified 
+by an affixed engraved stamp costing 25 cents. The 
+manufacturer brought suit to recover the price of 
+the exemption stamps, claiming that they constitut- 
+ed a prohibited tax on exports. The Court denied 
+recovery, explaining that the exemption stamps were 
+designed to prevent fraud and did not represent a tax. 
+Id. at 375. 
+
+In 1882, however, Congress discontinued the charge 
+for the exemption stamp in a statute that referred to 
+the stamp as an “export tax.” Act of Aug. 8, 1882, ch. 
+468, 22 Stat. 372. On that basis, another tobacco 
+manufacturer sued to recover the amounts he had 
+paid for exemption stamps before the charge was 
+discontinued. The Court adhered to its decision in 
+Pace v. Burgess, but with a somewhat different 
+rationale. In describing the Export and Import- 
+
+
+7 The so-called “original package” rule was also followed in 
+Cook v. Pennsylvania, 97 U.S. 566 (1878), Anglo-Chilean 
+Nitrate Sales Corp. v. Alabama, 288 U.S. 218 (1933), and 
+Hooven & Allison Co. v. Evatt, 324 U.S. 652 (1945). See also 
+May v. New Orleans, 178 U.S. 496 (1900), and Youngstown 
+Sheet & Tube Co. v. Bowers, 358 U.S. 534 (1959). 
+
+
+19 
+
+
+Export Clauses, the Court stated (Turpin v. Burgess, 
+117 U.S. 504, 507 (1886) (emphasis added)): 
+
+
+The prohibition in both cases has reference to the 
+imposition of duties on goods by reason or because 
+of their exportation or intended exportation, or 
+whilst they are being exported. * * * But a 
+general tax, laid on all property alike, and not 
+levied on goods in course of exportation, nor 
+because of their intended exportation, is not 
+within the constitutional prohibition. 
+
+
+Relying upon the above passage, the Court 
+subsequently held that a manufacturer of cheese for 
+export could not—merely from the fact that the 
+cheese was intended for export—escape liability for 
+the federal tax of one cent per pound upon that 
+product. Cornell v. Coyne, 192 U.S. 418, 428 (1904). 
+The Court explained that the Export Clause “does not 
+mean that articles exported are relieved from the 
+prior ordinary burdens of taxation which rest upon all 
+property similarly situated” (id. at 427). 
+
+d. The Decision in Thames & Mersey. The direct 
+ancestor of Thames & Mersey was Fairbank v. 
+United States, 181 U.S. 283 (1901). That case involved 
+a provision of the War Revenue Act of 1898 that 
+imposed a variety of stamp taxes on written in- 
+struments, including “bills of lading * * * for any 
+goods, merchandise, or effects, to be exported from a 
+port or place in the United States to any foreign port 
+or place” (ch. 448, § 26, 30 Stat. 459). In Fairbank, the 
+Court held that the stamp tax on bills of lading for 
+exported goods violated the Export Clause. Invoking 
+a prior, similar holding under the Import-Export 
+Clause (Almy v. California, 65 U.S. (24 How.) 169 
+(1861)), the Court held that the tax upon the bill of 
+
+
+20 
+
+
+lading was invalid because it was equivalent to a tax 
+upon the exported articles themselves. 
+
+Two cases argued on the same day are the cases 
+upon which IBM relies. Like Fairbank, they involved 
+taxes imposed by the War Revenue Act of 1898. 
+Unlike Fairbank, however, neither tax was imposed 
+expressly or directly on export transactions. United 
+States v. Hvoslef, 237 U.S. 1 (1915), involved a federal 
+stamp tax upon any “Contract or agreement for the 
+charter of any ship” (§ 26, 30 Stat. 460). Thames & 
+Mersey, on which IBM most directly relies, involved 
+a federal stamp tax on policies of marine insurance 
+“whether against peril by sea or on inland waters” 
+(§ 26, 30 Stat. 461). Since these statutes did not dif- 
+ferentiate between domestic voyages and shipments 
+to foreign ports, it might have been supposed that 
+they would be sustained as general taxes of neutral 
+application under the reasoning of Turpin v. Burgess 
+and Cornell v. Coyne. See page 19, supra. 
+
+In Hvoslef, however, the Court instead invoked 
+Fairbank without acknowledging that the stamp tax 
+challenged in Hvoslef, unlike the tax challenged in 
+Fairbank, was of general, not limited, application. In 
+support of its decision in Hvoslef, the Court also 
+invoked Robbins v. Shelby County Taxing District, 
+120 U.S. 489 (1887). Robbins was the first of “a long 
+line of ‘drummer’ cases” under the Commerce Clause, 
+in which the Court held that a State could not impose 
+a licensing fee on a person who solicited orders for 
+goods to be shipped from another State." The Court 
+stated in Robbins (id. at 497): 
+
+
+* See Memphis Steam Laundry Cleaner, Inc. v. Stone, 342 
+U.S. 389, 392 (1952). Robbins had a numerous progeny. See, 
+e.g., Crutcher v. Kentucky, 141 U.S. 47 (1891); DiSanto 
+
+
+21 
+
+
+It is strongly urged, as if it were a material 
+point in the case, that no discrimination is made 
+between domestic and foreign drummers—those of 
+Tennessee and those of other states; that all are 
+taxed alike. But that does not meet the difficulty. 
+Interstate commerce cannot be taxed at all, even 
+though the same amount of tax should be laid on 
+domestic commerce, or that which is carried on 
+solely within the state. 
+
+
+Having applied Fairbanks and Robbins to immunize 
+export transactions from broadly applicable taxing 
+provisions in Hvoslef, the Court entered its decision 
+in Thames & Mersey two weeks later on the author- 
+ity of Hvoslef. 237 U.S. at 27. 
+
+The decisions in Hvoslef and Thames & Mersey 
+established a pattern that this Court subsequently 
+followed of immunizing export transactions from 
+generally applicable federal taxes. For example, when 
+Congress imposed a general tax on various sporting 
+goods under the War Revenue Act of 1917, ch. 63, 
+§ 600(f), 40 Stat. 316-317, the Court invoked Hvoslef 
+and Thames & Mersey to hold that the Export Clause 
+prohibited imposition of the tax to a shipment of 
+baseballs and bats to a purchaser in Venezuela. A.G. 
+
+
+v. Pennsylvania, 273 U.S. 34 (1927); Nippert v. City of 
+Richmond, 327 U.S. 416 (1946). Among the more recent was 
+Spector Motor Service, Inc. v. O'Connor, 340 U.S. 602 (1951), 
+which this Court overruled in Complete Auto Transit, Inc. v. 
+Brady, 430 U.S. 274 (1977). See page 25, infra. These deci- 
+sions concerning the negative implications of the Commerce 
+Clause are not logically relevant to analysis under the Export 
+Clause. Although the Commerce Clause is a limitation on the 
+powers of the States, it confers powers on the United States. 
+See page 29, infra. 
+
+
+22 
+
+
+Spalding & Bros. v. Edwards, 262 U.S. 66 (1923). See 
+also Crew Levick Co. v. Pennsylvania, 245 U.S. 292 
+(1917) (same under Import-Export Clause). Similarly, 
+in Puget Sound Stevedoring Co. v. State Tax 
+Commission, 302 U.S. 90 (1937), and Joseph v. Carter 
+& Weekes Stevedoring Co., 330 U.S. 422 (1947), the 
+Court held that gross receipts or sales taxes could 
+not be imposed upon payments for loading or 
+unloading ship cargoes transported in interstate or 
+foreign commerce. 
+
+e. The Modern Doctrine. Toward the end of this 
+period of decisions, there were indications of recon- 
+sideration. For example, in Western Live Stock v. 
+Bureau of Revenue, 303 U.S. 250, 254-255 (1938), the 
+Court heavily qualified, if it did not contradict, the 
+broad rationale of Robbins on which Hvoslef was 
+based. And, in Canton R.R. v. Rogan, 340 U.S. 511 
+(1951), the Court indicated a revised view of the 
+proper treatment of taxes upon transactions related 
+or collateral to importation and exportation when it 
+wrote (id. at 514-515): 
+
+
+The difference [between this case and cases such 
+as Spalding] is that in the present case the tax is 
+not on the goods but on the handling of them at 
+the port. * * * [Whhen the tax is on activities 
+connected with the export or import the range of 
+immunity cannot be so wide. 
+
+
+Full reconsideration finally came in Michelin Tire 
+Corp. v. Wages, 423 U.S. 276 (1976), Complete Auto 
+Transit, Inc. v. Brady, 430 U.S. 274 (1977), and De- 
+partment of Revenue of Washington v. Association 
+of Washington Stevedoring Cos., 435 U.S. 734 (1978). 
+See also Limbach v. Hooven & Allison Co., 466 U.S. 
+353 (1984). Those decisions expressly overruled many 
+
+
+23 
+
+
+of the decisions previously discussed and, without 
+cataloging them in detail, rejected other decisions 
+that had disposed of the same issues in the same 
+fashion. 
+
+(i) Michelin Tire involved the constitutionality of 
+a state property tax as applied to imported tires held 
+in the importer’s warehouse in Georgia. Invoking the 
+“original package” doctrine applied in Low v. Austin, 
+the importer maintained that its imported tires were 
+exempt from state tax. The Court rejected that 
+claim, holding that (423 U.S. at 279) 
+
+
+Georgia’s assessment of a nondiscriminatory ad 
+valorem property tax against the imported tires is 
+not within the constitutional prohibition against 
+laying “any Imposts or Duties on Imports * * *”, 
+and * * * insofar as Low v. Austin, 13 Wall. 29 
+(1872) is to the contrary, that decision is over- 
+ruled. 
+
+
+In reaching that decision, the Court reviewed the 
+text and object of the Import-Export Clause, as well 
+as its historical origin. 423 U.S. at 283-284. The 
+Court noted that the considerations that gave rise to 
+the Clause were that: (i) the federal government must 
+speak with one voice in regulating commercial 
+relations with foreign governments, and state tariffs 
+on exports and imports could conflict with that 
+requirement; (ii) import revenues were to be the 
+major source of revenue to the federal government 
+and should not be diverted to the States; and (iii) 
+harmony among the States would be disrupted if the 
+seaboard States could tax goods passing through 
+their harbors to or from their inland neighbors. /d. 
+at 285. The Court observed that nondiscriminatory 
+property taxes interfere with none of the constitu- 
+
+
+24 
+
+
+tional concerns of the Import-Export Clause. /d. at 
+286-290. 
+
+Addressing the specific text of the Import-Export 
+Clause in Michelin Tire, the Court “decline|d] to 
+presume it was intended to embrace taxation that 
+does not create the evils the Clause was specifically 
+intended to eliminate” (423 U.S. at 293-294). The 
+Court explained that the “original package” language 
+of Brown v. Maryland had been misunderstood (id. at 
+298): 
+
+
+[I]t is clear that the Court’s view in Brown lv. 
+Maryland| was that merely because certain 
+actions taken by the importer on his imported 
+goods would so mingle them with the common 
+property within the State as to “lose their 
+distinctive character as imports” and render them 
+subject to the taxing power of the State, did not 
+mean that in the absence of such action, no 
+exaction could be imposed on the goods. Rather, 
+the Court clearly implied that the prohibition 
+would not apply to a state tax that treated 
+imported goods in their original packages no 
+differently from the “common mass of property in 
+the country”; that is, treated it in a manner that 
+did not depend on the foreign origins of the goods. 
+
+
+The Court further noted that the opinion in Low v. 
+Austin had misread Chief Justice Taney’s opinion in 
+the License Cases which “makes crystal clear that 
+the prohibition applied only to state exactions upon 
+imports as imports and did not apply to nondiscri- 
+minatory ad valorem property taxes.” 423 U.S. at 300. 
+See pages 16-17, supra. 
+
+(ii) In Complete Auto Transit, Inc. v. Brady, 430 
+U.S. 274 (1977), the Court held that the Commerce 
+
+
+25 
+
+
+Clause does not bar application of a generally appli- 
+cable state tax to the gross revenues of a company 
+engaged exclusively in the transportation of motor 
+vehicles in interstate commerce. The Court recon- 
+sidered and overruled its decision in Spector Motor 
+Service, Inc. v. O'Connor, 340 U.S. 602 (1951), which, 
+following Robbins, had held that Connecticut could 
+not impose a tax for the privilege of engaging in 
+interstate commerce. See page 20 & note 8, supra. 
+The Court noted in Complete Auto that it was 
+unquestioned that the activity engaged in by the 
+taxpayer was sufficiently connected to the State to 
+justify a tax, that the tax was fairly related to the 
+benefit provided to the taxpayer, that the tax did not 
+discriminate against interstate commerce, and that 
+the tax was not unfairly apportioned. 430 U.S. at 287. 
+Under those circumstances, the Court concluded that 
+“the Spector rule does not address the problems with 
+which the Commerce Clause is concerned” and over- 
+ruled that decision. /d. at 288. The Court’s holding 
+in Complete Auto necessarily, albeit implicitly, over- 
+ruled Robbins and the “long line of ‘drummer’ cases” 
+that that decision had spawned. See note 8, supra. 
+
+(iii) In Department of Revenue of Washington v. 
+Association of Washington Stevedoring Cos., 435 
+U.S. 734 (1978), the Court considered the State of 
+Washington’s renewed attempt to apply its gross 
+receipts tax to the proceeds generated from loading 
+and unloading ocean-going vessels. In the earlier 
+decisions in Puget Sound and Carter & Weekes, 
+the Court had invoked the Commerce Clause to 
+hold unconstitutional the application of the State’s 
+tax to the proceeds of stevedoring cargoes in inter- 
+state and foreign commerce. See page 22, supra. In 
+
+
+26 
+
+
+Washington Stevedoring, however, the Court had 
+little difficulty, after Complete Auto, in overruling 
+those decisions insofar as the Commerce Clause was 
+involved. 435 U.S. at 743-751. 
+
+The Import-Export Clause required separate con- 
+sideration. Michelin Tire had inquired whether a 
+generally applicable tax that does not favor or 
+disfavor imports or exports conflicts with any of the 
+policies leading to the adoption of the Import-Export 
+Clause and had upheld the application of the property 
+tax to imported goods, whether or not in the original 
+package, when it found no friction or inconsistency. 
+A similar inquiry led the Court to conclude in 
+Washington Stevedoring that the generally appli- 
+cable Washington tax on gross receipts from 
+stevedoring offended none of the policies of the 
+Import-Export Clause. 435 U.S. at 754-755. The 
+Court specifically rejected the suggestion that the 
+fact that Michelin Tire dealt only with goods no 
+longer in transit required that the cases be 
+differentiated. Jd. at 755-757. The Court noted that 
+Canton Railroad demonstrated that the analysis that 
+prevailed in Michelin Tire was not to be discarded 
+simply because the goods were in transit. bid. 
+Moreover, the fact that Michelin Tire involved only 
+imports while the Washington tax related to proceeds 
+from stevedoring exports as well did not call for a 
+different conclusion. /d. at 757-758. The Court con- 
+cluded that the considerations that led to the deci- 
+sion in Michelin Tire were equally applicable to the 
+Washington tax. /bid.” 
+
+
+® Justice Powell concurred separately in Washington 
+Stevedoring. He concluded that the controlling factor in that 
+case, as in Michelin Tire, is that local taxpayers should not be 
+
+
+27 
+
+
+(iv) In Limbach v. Hooven & Allison Co., 466 U.S. 
+353 (1984), the Court made clear that more than just a 
+few named decisions had been overruled by Michelin 
+Tire and Washington Stevedoring. Instead, in over- 
+ruling an earlier decision that had invalidated the 
+application of a “nondiscriminatory ad valorem per- 
+sonal property tax to imported fibers still in their 
+original packages” (id. at 354), the Court emphasized 
+that the reasoning that underlay those earlier de- 
+cisions had been “repudiated” (id. at 362). The fact 
+that the Court in Michelin Tire did not explicitly 
+name all of the cases whose reasoning had been re- 
+jected does not indicate that those older decisions 
+retain “current validity.” Jd. at 361. 
+
+f. Application of the Modern Doctrine to the 
+Export Clause. There is no reason why the more 
+recent decisions of this Court should not be auth- 
+oritative with respect to the Export Clause, and 
+every reason why they should be. As we have noted, 
+beginning with Brown v. Maryland and periodically 
+since then, the Court has stated that the two Clauses 
+have the same scope. Moreover, cases under the two 
+Clauses have been cited by the Court without 
+differentiation. Most recently, in Washington Steve- 
+doring, the Court cited Spalding (an Export Clause 
+case) along with cases involving state taxes and the 
+Import-Export Clause to illustrate reasoning that 
+was no longer approved. 435 U.S. at 752. 
+
+As this Court explained in Washington Steve- 
+doring, the Court in Michelin Tire “surveyed the 
+
+
+required to subsidize the services used and enjoyed by 
+importers and exporters; instead, the consumers of such goods 
+should pay for the services rendered by government just as 
+they paid transportation costs. 435 U.S. at 761-764. 
+
+
+28 
+
+
+history and purposes of the Import-Export Clause to 
+determine, for the first time, which taxes fell within 
+the absolute ban on ‘Imposts and Duties’” (435 U.S. 
+at 751). The Court concluded from this examination 
+that a generally applicable tax that merely falls, with- 
+out discrimination, on imports and exports as well 
+as other goods, does not violate the Import-Export 
+Clause. 423 U.S. at 302. 
+
+An examination of the history and objectives of the 
+Export Clause similarly demonstrates that the 
+generally applicable, nondiscriminatory tax imposed 
+by Section 4371 of the Internal Revenue Code does not 
+violate that Clause. As the court of appeals noted 
+(App., infra, 4a), the Export Clause reflected the fear 
+of the agricultural and exporting southern States 
+that the more populous and numerous northern 
+States would impose discriminatory taxes on the 
+export of their products. The debate is well described 
+in Charles Warren’s classic The Making of the 
+Constitution 570-574 (reprint 1993) (1928)." See also 
+
+
+” The central portion of Warren's description is as follows 
+(at 571-572) (footnote omitted): 
+
+
+The question of a prohibition of taxes and duties on exports 
+now brought these sectional differences into an outbreak in 
+the Convention. 
+
+
+It is to be noted, as a preliminary to consideration of 
+this clash, that the Committee’s proposal to forbid export 
+duties was a very radical departure from the theory and 
+practice theretofore prevailing in governmental taxation. 
+As has been well said: “To attempt to organize a Govern- 
+ment without the power to tax exports was an innovation. 
+From time immemorial, every nation had taxed whatever 
+productions of its soil its inhabitants might presume to 
+export. In the old economy, its maxim was to tax exports 
+but to admit imports free.” The prohibition of export duty 
+
+
+29 
+
+
+App., infra, 4a; Madison’s Notes of Debates in the 
+Federal Convention, reproduced in 2 M. Farrand, 
+The Records of the Federal Convention of 1787, at 
+305-308, 359-363, 441-442 (1966) (proceedings of August 
+16, 21, 28, 1787). 
+
+It is beyond question that the tax imposed by 
+Section 4371 is generally applicable and discriminates 
+against no region or product. It applies equally to 
+fire, storm, flood, and earthquake insurance, and to 
+insurance against damage or loss for shipments from, 
+for example, San Francisco to Alaska, Hawaii, or 
+Guam, or from New York to Miami or Galveston, as it 
+does to insurance covering IBM’s shipments to its 
+foreign subsidiaries or their customers. Moreover, 
+the United States—like the States—assists and 
+protects IBM’s shipments over highways within the 
+United States (financed in substantial part by the 
+federal government) as well as in the movement of 
+such goods by sea or air beyond our borders. 
+
+It must also be recognized that the Commerce 
+Clause gives Congress comprehensive authority over 
+exports and imports. It was established early that 
+Congress had the power to embargo or otherwise 
+control the export of such goods or materials as it 
+chose. Gibbons v. Ogden, 22 U.S. (9 Wheat.) 1, 191-192 
+
+
+now inserted in the new Constitution was not based, 
+however, on any change in economic theory but on purely 
+political and sectional conditions. The South, being agri- 
+cultural and having three great crops which grew nowhere 
+else,—tobacco, rice, and indigo,—feared that the possession 
+of this power by Congress would enable the North to 
+discriminate against it, by a tax which would operate only 
+on the peculiarly Southern articles of export. This fear 
+had been expressed early in the Convention. 
+
+
+30 
+
+
+(1824); United States v. Marigold, 50 U.S. (9 How.) 
+560, 566-567 (1850); United States v. The William, 28 
+Fed. Cas. 614,620-623 (D. Mass. 1808) (No. 16,700). It 
+is, of course, well established that the taxing power 
+may be employed in the regulation of foreign com- 
+merce. Board of Trustees v. United States, 289 U.S. 
+48, 57, 58 (1933). The Export Clause removes only a 
+small and narrowly defined area from this far-ranging 
+authority. 
+
+Considering the origins of the Export Clause, and 
+this Court’s more recent decisions, the prohibitions 
+of that Clause should be confined to taxes directly 
+and exclusively assessed upon, and discriminating 
+against, “Articles exported.” The federal statute that 
+the court of appeals held unconstitutional in this case 
+does not violate that standard. 
+
+3. The statute that the court of appeals invalidated 
+cannot effectively be enforced without this Court’s 
+further review. Under the decision in this case, any 
+taxpayer who obtains foreign insurance for export 
+shipments may pay an assessment under Section 4371 
+and obtain a refund by bringing suit within the 
+Federal Circuit. See page 14, supra. Congress en- 
+acted the tax imposed by Section 4371 to raise “an 
+appreciable amount of revenue” and to “eliminate an 
+unwarranted competitive advantage” for foreign 
+insurers who do not pay federal income taxes. H.R. 
+Rep. No. 2333, supra, at 61. Absent review by this 
+Court, these statutory objectives will plainly be 
+defeated. And, as the court of appeals recognized 
+(App., infra, lla), it is uniquely the responsibility of 
+this Court to complete the task of eliminating in- 
+consistency in its own jurisprudence in this area. 
+
+
+31 
+
+
+CONCLUSION 
+
+
+The petition for a writ of certiorari should be 
+granted. 
+Respectfully submitted. 
+
+
+Drew S. Days, III 
+Solicitor General 
+
+
+LORETTA C. ARGRETT 
+Assistant Attorney General 
+
+
+LAWRENCE G. WALLACE 
+Deputy Solicitor General 
+
+
+KENT L. JONES 
+Assistant to the Solicitor General 
+
+
+GARY R. ALLEN 
+ERNEST J. BROWN 
+Attorneys 
+
+
+OCTOBER 1995 
+
+
+APPENDIX A 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE FEDERAL CIRCUIT 
+
+
+No. 94-5164 
+
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION, 
+PLAINTIFF-APPELLEE 
+
+
+v. 
+
+
+THE UNITED STATES, DEFENDANT-APPELLANT 
+
+
+Appealed from: U.S. Court of Federal Claims 
+
+
+DECIDED: July 10, 1995 
+
+
+Before: ARCHER, Chief Judge, PLAGER and BRYSON, 
+Circuit Judges. 
+
+
+BRYSON, Circuit Judge. 
+
+
+This case raises a question concerning the 
+constitutionality of a federal statute. The govern- 
+ment, as appellant, acknowledges that a 1915 Supreme 
+Court decision is directly on point and that, if the 
+decision is still good law, the statute at issue must be 
+held unconstitutional as applied. The government 
+argues, however, that the 1915 decision has been 
+undermined by subsequent Supreme Court authority, 
+and it asks us to regard that case as no longer 
+binding. We do not regard it as clear that the 
+
+
+(la) 
+
+
+2a 
+
+
+Supreme Court’s more recent decisions have re- 
+pudiated the 1915 decision. We therefore affirm the 
+decision of the Court of Federal Claims invalidating 
+the taxes at issue in this case. 
+
+
+During the pertinent tax years, 1975 through 1984, 
+International Business Machines Corporation (IBM) 
+sold information processing systems and related 
+products to domestic and foreign customers. With 
+respect to many of its foreign sales, IBM manu- 
+factured products in the United States, sold them to 
+its foreign subsidiaries, and shipped them either 
+directly to the foreign customers or to consolidation 
+centers in the customers’ countries. The products 
+were shipped by common carrier from IBM’s domestic 
+manufacturing plants to domestic ports or airports, 
+where they were loaded onto ships or airplanes. Upon 
+arrival in the foreign country, the products were 
+cleared through customs and shipped to the foreign 
+customers or consolidation centers. Title to the 
+products passed from IBM to its foreign subsidiaries 
+when the goods cleared customs in the foreign 
+countries. In some cases, IBM’s foreign subsidiaries 
+purchased insurance from foreign insurers for the 
+products during their shipment; in those cases, both 
+IBM and the foreign subsidiaries were listed as 
+insured beneficiaries. 
+
+The Internal Revenue Service audited IBM’s 
+federal excise tax returns for 1975 through 1984 and 
+determined that, as a beneficiary, IBM was subject to 
+a four percent excise tax on the premiums paid to 
+foreign insurers. The excise tax was assessed under 
+the authority of 26 U.S.C. § 4371, which imposes a 
+four percent tax on each policy of casualty insurance 
+issued by a foreign insurer to a domestic entity for 
+risks or liabilities wholly or partly within the United 
+States. Section 4371 applies only to insurance ob- 
+tained from foreign insurers who are not subject to 
+
+
+3a 
+
+
+federal income tax; it was designed to offset the 
+advantage that such insurers would otherwise have 
+over domestic insurance companies that are subject 
+to domestic income taxes. See H.R. Rep. No. 2333, 
+77th Cong., 2d Sess. 61 (1942). 
+
+IBM paid the assessed excise taxes and filed suit in 
+the Court of Federal Claims, seeking a full refund of 
+the taxes paid. In a thorough opinion on which we 
+rely, the Court of Federal Claims held that the excise 
+tax on premiums charged by foreign insurers, as 
+applied to casualty insurance on goods in the export 
+stream, was in effect a tax upon the exported products 
+themselves and thus ran afoul of the Export Clause of 
+the Constitution, Article I, Section 9, Clause 5. 
+International Business Machines Corp. v. United 
+States, 31 Fed. Cl. 500 (1994). In so holding, the court 
+relied on the Supreme Court’s decision in Thames & 
+Mersey Marine Insurance Co. v. United States, 237 
+U.S. 19 (1915), which struck down a similar tax on 
+marine insurance policies. 
+
+The Court of Federal Claims rejected the govern- 
+ment’s argument that the analysis in the Thames & 
+Mersey case has been repudiated in subsequent 
+Supreme Court decisions, and that the excise tax 
+imposed on foreign insurance policies should be 
+upheld as a permissible tax of general application that 
+does not discriminate against exports. Instead, the 
+court concluded that casualty insurance is an 
+integral part of commercial exportation, that the 
+value of exported goods bears a close relationship to 
+the value of insurance policies on those goods, and 
+that the tax imposed in this case therefore amounted 
+to a tax on exports, prohibited by the Export Clause. 
+
+
+This case presents the question whether the 
+Supreme Court analysis of the Export Clausé in the 
+Thames & Mersey case retains its vitality in the 
+wake of subsequent Supreme Court decisions 
+
+
+4a 
+
+
+involving the Import-Export Clause, Article I, 
+Section 10, Clause 2, in which the Court has modified 
+its approach to issues arising under that Clause. 
+
+
+A 
+
+
+The Export Clause provides, in one sentence: “No 
+Tax or Duty shall be laid on Articles exported from 
+any State.” Along with the Import-Export Clause, 
+which prohibits any State, without the consent of 
+Congress, from laying “any Imposts or Duties on 
+Imports or Exports,” the Export Clause was “one of 
+the compromises which entered into and made 
+possible the adoption of the Constitution.” Fairbank 
+v. United States, 181 U.S. 283 (1901). 
+
+At the Constitutional Convention, strong senti- 
+ments were voiced on the subject of export taxes. 
+Representatives of the Southern States expressed 
+concern that a Congress controlled by the more 
+numerous and populous Northern States would 
+impose burdensome levies on Southern exports. 
+Charles Pinckney of South Carolina insisted that 
+security against taxes on exports be included in the 
+Constitution, on a par with security against the 
+emancipation of the slaves. 2 The Records of the 
+Federal Convention of 1787 95 (Max Farrand ed. 
+1927). According to Madison’s notes, George Mason 
+of Virginia likewise “urged the necessity of 
+connecting with the power of levying taxes duties &c, 
+... that no tax should be laid on exports. ... He hoped 
+the [Northern] States did not mean to deny the 
+Southern this security.” Jd. at 305. Concern over the 
+risk of abuse of the power to tax exports was 
+expressed even by a Northern delegate, Elbridge 
+Gerry of Massachusetts, who stated his view that 
+“the legislature could not be trusted with such a 
+power. It might ruin the Country. It might be 
+exercised partially, raising one and depressing 
+another part of it.” Jd. at 307. 
+
+
+Sa 
+
+
+Acknowledging the importance of the Export 
+Clause and its flat prohibitory language, the Supreme 
+Court has consistently given the Clause a broad 
+construction. In one of the first major decisions 
+applying the Export Clause, the Court struck down a 
+stamp tax imposed on bills of lading relating to goods 
+designated for foreign export. Such a tax, the Court 
+explained, “is in substance and effect equivalent to a 
+tax on the articles included in that bill of lading, and, 
+therefore, a tax or duty on exports, and in conflict 
+with the constitutional prohibition.” Fairbanks v. 
+United States, 181 U.S. at 312. 
+
+In applying that test, the Court distinguished 
+between taxes imposed on property prior to its 
+entering the export stream and taxes imposed, 
+directly or indirectly, on property during the export 
+process. For example, in Cornell v. Coyne, 192 U.S. 
+418 (1904), the Court upheld a tax on filled cheese that 
+was imposed prior to its exportation, holding that a 
+nondiscriminatory tax on manufactured cheese was 
+not unconstitutional simply because the manu- 
+facturer intended from the outset to export the 
+cheese. By contrast, in United States v. Hvoslef, 237 
+U.S. 1 (1915), the Court struck down a tax imposed on 
+charter parties for the carriage of cargo to foregin 
+ports. As applied to the charter parties for export at 
+issue in the case before it, the Court held that the tax 
+was “nothing else than a tax on exportation” and thus 
+prohibited by the Export Clause. /d. at 18. It did not 
+matter, the Court held, that the statute in question 
+was not limited to charter parties for exports, but 
+applied to charter parties generally; even if the 
+statute in question created a nondiscriminatory tax 
+or general application, it was unconstitutional to the 
+extent that it was applied to charter parties for 
+export, because in so doing, it had the prohibited 
+effect of imposing a tax on exports. /d. 
+
+Two weeks after Hvoslef, the Supreme Court in 
+the Thames & Mersey case struck down a stamp tax 
+
+
+6a 
+
+
+on policies of marine insurance to the extent that it 
+applied to policies insuring exports. The Court put 
+the question as whether “the tax upon such policies 
+[is] so directly and closely related to the ‘process of 
+exporting’ that the tax is in substance a tax upon the 
+exportation and hence within the constitutional 
+prohibition.” 237 U.S. at 25. Finding that marine 
+insurance “is by virtue of the demands of commerce 
+an integral part of the exportation,” id. at 26, the 
+Court concluded that the tax at issue, as a practical 
+matter, fell upon the exporting process and therefore 
+was invlaid under the Export Clause. 
+
+
+The government concedes that if Thames & 
+Mersey is still good law, the assessments at issue in 
+this case are invalid. In the government’s view, 
+however, subsequent decisions construing the 
+Import-Export Clause have rendered Thames & 
+Mersey analytically unsound. The government con- 
+tends that the Export Clause should be interpreted 
+not to outlaw taxes of general application, as long as 
+they do not discriminate against exported goods or 
+services relating to exports. The government there- 
+fore invites this court to disregard the Supreme 
+Court’s contrary analysis of the Export Clause in 
+Thames & Mersey. 
+
+In pressing its case against Thames & Mersey, the 
+government relies particularly on two decisions 
+construing the Import-Export Clause, Michelin Tire 
+Corp. v. Wages, 423 U.S. 276 (1976), and Department 
+of Revenue v. Association of Washington Steve- 
+doring Companies, 435 U.S. 734 (1978). Prior to the 
+Michelin decision, the Supreme Court viewed the 
+Import-Export Clause as erecting a general pro- 
+hibition against state taxation of imports and exports. 
+The focus of inquiry was on whether the impact of the 
+tax fell on goods that were in foreign commerce; if it 
+did, the tax was forbidden (except in the limited 
+
+
+7a 
+
+
+circumstances permitted by the Clause itself). See 
+Almy v. California, 65 U.S. (24 How.) 169 (1861); Low 
+v. Austin, 80 U.S. (13 Wall.) 29 (1872). 
+
+In the Michelin case, the Court jettisoned that 
+mode of analysis and adopted a new approach based on 
+the text and purposes of the Import-Export Clause. 
+Overruling its prior decision in Low v. Austin, the 
+Court held that a nondiscriminatory ad valorem 
+property tax does not run afould of the Import-Export 
+Clause simply because it is applied to goods that have 
+recently been imported. The Court noted that the 
+Import-Export Clause bans only “Imports or Duties”; 
+it “is not written in terms of a broad prohibition of 
+every ‘tax.’” Michelin, 423 U.S. at 290. Moreover, 
+the Court explained that the Framers adopted the 
+Import-Export Clause to ensure that the federal 
+government would speak with one voice in regulating 
+commerce with foreign nations, to preserve import 
+revenues for the federal government, and to protect 
+states without port facilities from exploitation by 
+those directly engaged in foreign commerce. None of 
+those concerns, the Court stated, is triggered by a 
+nondiscriminatory ad valorem tax “which is also 
+imposed on goods that are no longer in import 
+transit.” 423 U.S. at 286. 
+
+The Supreme Court used similar reasoning to 
+reach a similar result two years later in the 
+Washington Stevedoring case. In that case, which 
+involved an Import-Export Clause challenge to a state 
+tax on stevedoring services, the Court rejected an 
+argument that the tax was impermissible when 
+applied to stevedoring services relating to foreign 
+imports and exports. A nondiscriminatory tax on 
+stevedoring services was not an “import or duty” on 
+imports or exports, the Court concluded, but simply a 
+local tax on services that happened to facilitate the 
+importation and exportation of goods. 
+
+Relying on Michelin and Washington Steve- 
+doring, the government argues that Section 4371 
+
+
+8a 
+
+
+should be upheld as a nondiscriminatory tax that does 
+not specifically target exports and therefore is not an 
+invalid “tax or duty” laid “on articles exported from 
+any State.” Although Michelin and Washington 
+Stevedoring arose under the Import-Export Clause, 
+rather than the Export Clause, the government 
+argues that the Supreme Court is likely to follow a 
+similar analysis under the Export Clause when the 
+occasion arises. 
+
+The government finds additional support for its 
+position in cases decided under the Commerce Clause. 
+As under the Import-Export Clause, early Commerce 
+Clause cases struck down even nondiscriminatory 
+taxes on the privilege of doing business in a state 
+when applied to an activity that was part of interstate 
+commerce. See, e.g., Spector Motor Service v. 
+O'Connor, 340 U.S. 602 (1951); Robbins v. Shelby 
+County Taxing Dist., 120 U.S. 489 (1987). That line 
+of cases, however, was overturned in Complete Auto 
+Transit, Inc. v. Brady, 430 U.S. 274 (1977), in which 
+the Court held that the Commerce Clause is not 
+violated by the application of a fairly apportioned and 
+nondiscriminatory tax on the privilege of doing 
+business in a state, even if the tax is applied to an 
+interstate activity. 
+
+The government points out that in Hvoslef (and by 
+extension in Thames & Mersey, which relied on 
+Hvoslef) the Court invoked the line of Commerce 
+Clause authority that was disapproved in Complete 
+Auto. The government also points out that the 
+Court’s analysis of the Export Clause in Thames 
+& Mersey paralleled the Court’s then-governing 
+approach to the Import-Export Clause, which has 
+also been disapproved. Accordingly, the government 
+submits, the analytical foundations of Thames & 
+Mersey have been removed, and its demise is a 
+foregone conclusion. 
+
+We are not so sure. While the Supreme Court may 
+at some point reconsider Thames & Mersey, it has 
+
+
+9a 
+
+
+not clearly signaled that it is ready to do so. Support 
+for the continuing vitality of Thames & Mersey can 
+be found both in the Court’s Import-Export Clause 
+decisions and in the distinctions in language and 
+policy betewen the Import-Export Clause and the 
+Export Clause. 
+
+In Canton Railroad Co. v. Rogan, 340 U.S. 511 
+(1951), a predecessor of the Washington Stevedoring 
+case, the Supreme Court upheld state taxes on 
+transportation services as applied to goods being 
+imported or exported. The Court was careful to 
+distinguish Thames & Mersey, noting that the tax on 
+marine insurance policies addressed in Thames & 
+Mersey was “the equivalent of a direct tax on the 
+articles.” 340 U.S. at 513-14. And in Washington 
+Stevedoring, the Court recognized that the tax on 
+insurance policies in Thames & Mersey was on an 
+“activity so connected with the goods that the levy 
+amounted to a tax on the goods themselves.” 435 U.S. 
+at 756.21. Although the Washington Stevedoring 
+Court acknowledged that “the basis for distin- 
+guishing Thames & Mersey is less clear” than for 
+other similar cases (because marine insurance 
+policies arguably have a value apart from the value of 
+the insured goods), the Court noneless noted that 
+“the value of goods bears a much closer relation to 
+the value of insurance policies on them than to the 
+value of loading and unloading ships.” Jd. Thus, 
+while the Court’s treatment of Thames & Mersey 
+may reflect less than a ringing endorsement of that 
+decision, the Court’s characterization of Thames & 
+Mersey as distinguishable from, rather than in 
+tension with, the Canton Railroad and Washington 
+Stevedoring cases significantly undermines the 
+government’s contention that Thames & Mersey 
+must be regarded as a dead letter. 
+
+The Supreme Court has also pointed to the 
+difference in language between the Import-Export 
+Clause and the Export Clause. Although the Court at 
+
+
+10a 
+
+
+first expressed the view that the “diversity in 
+language” between the two clauses did not reflect any 
+difference in “the act which is prohibited,” Brown v. 
+Maryland, 25 U.S. (12 Wheat.) 419, 425 (1827), in 
+both Michelin and Washington Stevedoring the 
+Court has noted and attached significance to the 
+difference between the narrow term “Imposts and 
+Duties” (the language of the Import-Export Clause) 
+and the broader term “Tax” (the language of the 
+Export Clause). See Michelin, 423 U.S. at 290; 
+Washington Stevedoring, 435 U.S. at 759. 
+
+The Court has suggested that a difference in policy 
+underlies the difference in language. While the 
+Import-Export Clause was intended to prohibit States 
+from imposing a “transit fee” on goods moving in 
+foreign commerce, Washington Stevedoring, 435 
+U.S. at 764 (Powell, J., concurring in part and 
+concurring in the result), the Export Clause served 
+the broader purpose of “forbid|ding] federal taxation 
+of exports.” Washington Stevedoring, 435 U.S. at 
+758. The Supreme Court’s current narrower view of 
+the prohibition in the Import-Export Clause thus 
+does not dictate that the Export Clause be given a 
+similarly narrow construction. 
+
+
+Urging us to anticipate the overruling of Thames 
+& Mersey, able counsel for appellant has called our 
+attention to the opinion of Judge Learned Hand, 
+dissenting in Spector Motor Service, Inc. v. Walsh, 
+139 F.2d 809, 823 (2d Cir. 1943). In his opinion in that 
+case, Judge Hand explained that a lower court should 
+not feel obliged to follow a higher court decision “in 
+the face of changes plainly foreshadowed,” simply 
+because the higher court decision has not yet been 
+explicitly overruled. While that proposition may be 
+sound in extreme cases, we do not agree with counsel 
+that it applies to this case. Here, unlike in the case 
+
+
+Judge Hand put, we do not believe the change the 
+government anticipates is “plainly foreshadowed.” 
+
+Although the Supreme Court may yet reconsider 
+the Thames & Mersey decision, and with it the 
+Court’s traditional analysis of the Export Clause, we 
+do not feel free in this case to take the extraordinary 
+step of disregarding a higher court decision that all 
+agree is binding precedent if it is still valid. Thus, 
+the precedent that seems to us most pertinent is 
+not Judge Hand’s dissent in the Spector Motor case, 
+but the Supreme Court’s own more recent directive 
+to inferior courts, in Rodriguez de Quijas Vv. 
+Shearson/American Express, Inc., 490 U.S. 477, 484 
+(1989): 
+
+
+If a precedent of this Court has direct application 
+in a case, yet appears to rest on reasons rejected 
+in some other line of decisions, the Court of 
+Appeals should follow the case which directly 
+controls, leaving to this Court the prerogative of 
+overruling its own decisions. 
+In light of that instruction, and the undisputed 
+applicability of Thames & Mersey to the tax imposed 
+in this case, we conclude that our duty is to follow 
+Thames & Mersey and hold Section 4371 invlaid as 
+applied. 
+
+
+AFFIRMED. 
+
+
+12a 
+APPENDIX B 
+
+
+IN THE UNITED STATES COURT 
+OF FEDERAL CLAIMS 
+
+
+No. 388-89T 
+(Filed: June 23, 1994) 
+
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION, 
+PLAINTIFF 
+
+
+Vv. 
+
+
+THE UNITED STATES, DEFENDANT 
+
+
+Taxation: Excise Tax on Foreign Insurers; 
+Export Clause (Art. I, § 9, el. 5) 
+
+
+OPINION 
+
+
+Lypon, Senior Judge: 
+
+
+In this litigation, International Business 
+Machines Corporation (IBM) seeks to recover de- 
+ficiencies assessed by the Internal Revenue Service 
+after the Service determined that IBM failed to pay a 
+four percent excise tax on premiums paid to foreign 
+insurers that issued policies covering products IBM 
+sold to its foreign subsidiaries. No facts are in 
+dispute, and each party has moved for summary 
+judgment. The issue presented in the summary 
+judgment motions is whether the excise tax on 
+foreign insurance premiums violates the con- 
+stitutional prohibition against taxing exports. Be- 
+cause the court agrees with IBM that the tax at issue 
+
+
+l3a 
+
+
+in this case is prohibited by the Constitution, the 
+court grants summary judgment in favor of IBM. 
+
+
+I 
+Sal - IBM Prod Outside the United Stat 
+
+
+The following facts have been stipulated by the 
+parties or are otherwise undisputed. IBM is a do- 
+mestic corporation incorporated under the laws of the 
+State of New York, whose principal place of business 
+is in Armonk, New York. IBM is a developer and 
+manufacturer of sophisticated information processing 
+systems and related products, sold throughout the 
+world. During the tax years at issue in this case, 
+1975-84, sales of IBM products outside the United 
+States were made through a worldwide network 
+of more than one hundred wholly owned foreign 
+subsidiary corporations. IBM products sold by for- 
+eign subsidiaries were manufactured either in their 
+own overseas plants (or in the plants of other IBM 
+foreign subsidiaries) or by IBM at manufacturing 
+plants in the United States. 
+
+During the tax years in issue, IBM products 
+manufactured in the United States and sold outside 
+the United States through foreign subsidiaries 
+included (but were not limited to) the following items, 
+manufactured at the locations indicated: 
+
+
+Locations: 
+Mainframe computers Poughkeepsie, NY 
+Tape drivers, 
+large printers, 
+magnetic tape Tucson, AZ 
+Dise drives San Jose, CA 
+Copiers, toner, supplies Boulder, CO 
+Intermediate computers Rochester, MN, 
+Austin, TX 
+
+
+l4a 
+Personal computers, 
+keyboards Austin, TX, Boca 
+Raton, FL 
+Point of sale banking 
+machines, circuit cards Charlotte, NC 
+Communication devices, 
+cathode ray terminals Raleigh, NC 
+Semiconductors Manassas, VA, East 
+
+
+Peekskill, NY, 
+Burlington, NY 
+
+
+Large circuit boards, 
+specialized intermediate 
+computers Endicott, NY 
+
+
+Sales outside the United States of IBM products 
+manufactured within the United States were ac- 
+complished by a purchase order to IBM from its 
+foreign subsidiary, under which IBM billed the 
+subsidiary and generally shipped the goods directly to 
+the subsidiary’s customer. Lower priced goods might 
+be shipped to a consolidation center in the foreign 
+country, and maintained as inventory by the foreign 
+subsidiary to fill future orders. Depending upon the 
+particular product, IBM would fill a subsidiary’s 
+order either by (1) building the product to particular 
+specifications contained in a purchase order (“built 
+to order”), or (2) utilizing ongoing production at a 
+factory or inventory warehouse (“built to plan”). 
+
+Shipment of products from the United States to 
+the foreign customer began by truck on a common 
+carrier (from the manufacturing plant or warehouse). 
+The goods generally were destined for a United 
+States airport (typically, John F. Kennedy in New 
+York for shipments to Europe and the Middle East, 
+Miami International for shipments to Latin America, 
+and San Francisco International for shipments to the 
+
+
+15a 
+
+
+Far East), but some shipments were by sea. While 
+traveling within the United States, the products 
+would typically be unloaded at one or more inter- 
+mediate freight forwarder locations, where they 
+would typically remain for two to five days, but could 
+remain while awaiting space on an airliner for as long 
+as thirty days. The products would be reloaded at the 
+freight forwarders’ facilities and continue ultimately 
+to the point of embarkation, where they were loaded 
+onto an airplane or a ship. Once the products reached 
+the air or sea port in the foreign country, they were 
+unloaded, cleared customs, and loaded on trucks for 
+shipment to their final destination. 
+
+When foreign subsidiaries purchased IBM 
+products from IBM during the years in issue, the 
+terms of sale called for title to the products (and the 
+risk of loss) to pass from IBM to the subsidiary when 
+the goods cleared customs in the foreign country. 
+The terms of sale also called for the purchasing 
+subsidiary to bear the cost of insuring the products 
+against damage or destruction during shipment. 
+
+
+seepaiee Samatne Se Sepa. £6 Ses Feasts Foreign Subsidiari 
+All U.S.-manufactured products IBM sold to 
+foreign subsidiaries were covered by casualty 
+insurance against damage or destruction during 
+shipment. Insurance was “point to point,” that is, it 
+covered the risk of loss to goods during trans- 
+portation by surface or air transportation from the 
+IBM facility in the United States until delivered to 
+the foreign customer or a foreign consolidation 
+center. In some cases, IBM arranged for the 
+insurance; when it did so, insurance was placed with a 
+U.S. insurance carrier, and the cost was billed to the 
+foreign subsidiary. In other instances, the foreign 
+subsidiary placed the insurance; when it did so, the 
+insurance often was with a foreign carrier, which the 
+subsidiary paid for directly. In all cases, both IBM 
+
+
+16a 
+
+
+and its foreign subsidiary were listed as insured 
+beneficiaries. 
+
+When a foreign subsidiary obtained its own 
+insurance coverage with a foreign insurer, the policy 
+covered not only shipments to it by IBM from the 
+United States, but shipments of goods purchased 
+from foreign affiliates in other countries as well. The 
+insurer would charge a separate premium to cover 
+each shipment, the amount of which was determined 
+by multiplying the declared value of the particular 
+shipment by the premium rate applicable to that 
+shipment. The premium rate depended on such 
+underwriting factors as the place of origin and 
+destination of the goods, the type of goods involved 
+and how they were packaged, the time and distance of 
+the trip, the route and mode of transportation, and the 
+amount of material handling expected during the trip. 
+
+If damage to an IBM product being shipped to 
+a foreign country occurred while IBM had title to 
+the goods (and the risk of loss), then IBM would 
+be entitled to the insurance proceeds under the 
+insurance policy (whether issued by a U.S. company 
+or a foreign insurer). If the loss occurred, however, 
+after the importing foreign subsidiary acquired title 
+to the products, the insurance proceeds would be 
+payable to the subsidiary. In the latter case, the 
+subsidiary would use the proceeds to pay IBM the full 
+purchase price of the damaged products, or to 
+reimburse itself for the purchase price if IBM had 
+already been paid. Since most IBM products shipped 
+to foreign subsidiaries were packaged in containers, 
+damage was frequently not discovered until after the 
+products arrived at their destination. As a practical 
+matter, it was often impossible to determine when a 
+loss occurred and therefore who was legally entitled 
+to receive the policy proceeds. In most cases 
+involving foreign insurance carriers, therefore, the 
+insurance company simply paid the insurance 
+
+
+17a 
+
+
+proceeds to the foreign subsidiary which used the 
+proceeds to pay IBM for the goods. 
+The Service’s Position During the Audit 
+
+For the tax periods at issue in this litigation, each 
+quarter during the years 1975 through 1984, IBM 
+filed federal excise returns that did not report any 
+liability under § 4371 of the Internal Revenue Code of 
+1954, a four percent excise tax on premiums paid for 
+certain policies of insurance issued by foreign 
+insurers. On audit, the Service determined that IBM 
+was liable for the § 4371 tax as a result of the policies 
+purchased from foreign insurance companies insofar 
+as those policies applied to IBM products being 
+exported from the United States. 
+
+As part of the audit process, IBM requested the 
+Service’s District Director to seek technical advice 
+from the Service’s National Office on whether the 
+§ 4371 tax as applied to IBM’s exports was in violation 
+of Article I, § 9, clause 5 of the United States Consti- 
+tution, which will be referred to throughout this 
+opinion as the Export Clause. In a Technical Advice 
+Memorandum dated May 12, 1982, the National Office 
+rejected IBM’s constitutional argument on the 
+grounds that the § 4371 tax was not a “tax” within the 
+meaning of the Export Clause because the primary 
+object of the tax statute was regulatory as opposed to 
+revenue-raising. 
+
+On reconsideration, the Service issued a second 
+Technical Advice Memorandum, dated November 6, 
+1984, reaffirming its earlier position and adding a 
+second argument, that the Export Clause did not 
+restrict application of the § 4371 tax because the 
+incurred risks included some transportation within 
+the United States. The Service found that the 
+Export Clause had no application at all to an export 
+voyage if some portion of the total voyage included an 
+intra-U.S. transportation leg. Because the insurance 
+policies in question here covered not just the 
+
+
+18a 
+
+
+overseas portion of the export shipments but also the 
+inland leg from the IBM manufacturing facilities to 
+the U.S. air or sea port, the Service concluded that 
+the Export Clause had no application to any of the 
+shipments. Presently, the government is not relying 
+on the positions advanced by the Service described 
+above. 
+
+
+The Assessments 
+
+
+The Service determined that the premiums paid to 
+foreign insurers with respect to U.S. manufactured 
+IBM products sold to its foreign subsidiaries were 
+subject to the tax imposed by § 4371. During the 
+audit, IBM sent questionnaires to its foreign sub- 
+sidiaries and determined that the premiums paid by 
+them to foreign insurers during the year 1980, 
+allocable to U.S.-manufactured IBM products sold 
+outside the United States, totaled $2,065,137. For 
+expediency in making assessments under § 4371, IBM 
+and the Service agreed that the foreign insurance 
+premiums attributable to such products in each of the 
+years 1975-79 and 1981-84 were the same as the 
+premiums paid in 1980. Accordingly, the Service 
+assessed § 4371 taxes of $82,605 per year (a figure 
+calculated by multiplying the annual premiums by 
+four percent), along with interest and delinquency 
+penalties for each quarter in issue. IBM paid its 
+assessments in full, and timely filed claims for 
+refund. The Service denied these claims on 
+December 23, 1988. IBM timely filed its action in this 
+court on July 11, 1989. Since then, the government 
+has since abated the penalty assessments and 
+refunded the amounts so assessed to IBM, with 
+interest. The assessments for tax and interest, 
+which are still in dispute, total $1,532,235.87. 
+
+
+19a 
+
+The P Moti 
+
+The sole question presented by the motions for 
+summary judgment is whether § 4371 is constitu- 
+tionally impermissible, given the facts agreed to by 
+the parties. Article I, section 9, clause 5 of the 
+United States Constitution, the Export Clause, 
+provides: “No Tax or Duty shall be laid on Articles 
+exported from any State.” This provision was in- 
+tended to free all exportations from the burdens of 
+national taxation. 
+
+
+Section 4371 provides: 
+
+
+There is hereby imposed, on each policy of 
+insurance, indemnity bond, annuity contract, or 
+policy of reinsurance issued by a foreign insurer 
+or reinsurer, a tax at the following rates: 
+
+
+(1) Casualty insurance and indemnity bonds.—4 
+cents on each dollar, or fractional part thereof, of 
+the premium paid on the policy of casualty 
+insurance or the indemnity bond, if issued to or 
+for, or in the name of, an insured as defined in 
+section 4372(d); 
+
+
+The parties appear to agree that as the terms 
+“foreign insurer,” “policy of casualty insurance,” and 
+“insured” are defined in § 4372, the premiums on 
+casualty insurance that IBM purchased are facially 
+subject to the tax imposed by § 4371. 
+
+
+Il 
+A. IBM’s Argument 
+IBM directs the court’s attention to Thames & 
+Mersey Marine Insurance, Co. v. United States, 237 
+U.S. 19, 35 S.Ct. 496, 59 L.Ed. 821 (1915), cited for the 
+
+
+holding that the Export Clause prohibits the levying 
+of taxes on policies of marine insurance on exports. 
+
+
+20a 
+
+
+In Thames & Mersey, the taxpayer sought to recover 
+amounts it paid in stamp taxes on policies insuring 
+exports against marine risks. In its analysis, the 
+Court turned quickly to United States v. Hvoslef, 237 
+U.S. 1, 35 S.Ct. 459, 59 L.Ed. 813 (1915), a case decided 
+two weeks before Thames & Mersey. In Hvoslef, the 
+Court invalidated a tax levied on charter parties 
+which were exclusively for the carriage of cargo from 
+state ports to foreign ports because the tax was 
+essentially a tax on exports. The Thames & Mersey 
+court said that its issue followed directly, for the 
+question presented by both Hvoslef and Thames & 
+Mersey was: “Is the tax upon such policies so directly 
+and closely related to the ‘process of exporting’ that 
+the tax is in substance a tax upon the exportation and 
+hence within the constitutional prohibition?” Thames 
+& Mersey, 237 U.S. at 25, 35 S.Ct. at 498. Put another 
+way by the Court, the constitutionality of this tax 
+depended on “whether policies of insurance against 
+marine risks during the voyage to foreign ports are 
+not so vitally connected with exporting that the tax 
+on such policies is essentially a tax upon the 
+exportation itself.” Jd. at 26, 35 S.Ct. at 498. An- 
+swering this question by examining “the exigencies 
+of trade [to] determine what is essential to the 
+process of exporting,” the Court held that marine 
+insurance policies are so vitally connected to the 
+export process that a tax on the policies amounts to a 
+tax on the exports themselves, in contravention of the 
+Export Clause. Cf. Fairbank v. United States, 181 
+U.S. 283, 21 S.Ct. 648, 45 L.Ed. 862 (1901) (stamp tax 
+on bill of lading for exported goods is in effect a tax on 
+
+
+the articles included in the bill of lading, and is. 
+
+
+therefore a tax on exports). 
+
+The second prong of IBM’s contention is that as 
+far as certain taxes are proscribed by the Export 
+Clause of the Constitution, § 4371 is such a tax. IBM 
+states that the predecessor of § 4371 was a stamp tax 
+enacted as part of a comprehensive wartime revenue 
+
+
+2la 
+
+
+bill, the Revenue Act of 1918. Ch. 18, § 1107, 40 Stat. 
+1057, 1138. The excise tax on foreign insurers was 
+re-enacted as part of a World War II revenue bill, the 
+Revenue Act of 1942. Ch. 619, § 502, 56 Stat. 798, 955. 
+A House report discussing this revenue measure, 
+cited by (BM. stated: “It is believed that the revised 
+provision will yield an appreciable amount of revenue, 
+and at the same time eliminate an unwarranted 
+competitive advantage now favoring foreign insurers 
+[who are not subject to income tax].” H.R.Rep. No. 
+2333, 77th Cong., 2d Sess. 61 (1942). 
+
+Finally, IBM argues that export protection begins 
+as soon as goods enter the “export stream,” and 
+accordingly the prohibition against taxation that 
+burdens exports extends to the payment of taxes on 
+premiums by IBM in this case. The “export stream” 
+is the final, continuous journey out of the country, 
+and tax immunity attaches as soon as the journey 
+begins. Dep't of Revenue v. Ass'n of Washington 
+Stevedoring Cos., 435 U.S. 734, 752, 98 S.Ct. 1388, 
+1400, 55 L.Ed2d 682 (1978). Referring again to 
+Thames & Mersey, IBM argues that the payment of 
+these taxes is so directly and closely related to the 
+process of exporting that the tax is in substance a 
+tax upon the exportation, and thus constitutionally 
+prohibited. Section 4371, argues IBM, falls outside 
+the spirit of the Supreme Court’s thoughts in 
+Fairban’ v. United States, 181 U.S. 283, 21 S.Ct. 648, 
+45 L.Ed. 862 (1901). There, the court stated: 
+
+[T]he purpose of the restriction is that 
+exportation, all exportation, shall be free from 
+national burden... . [I]t is clear that the 
+framers of the Constitution intended not 
+merely that exports should not be made a 
+source of revenue to the National Government, 
+but that the National Government should put 
+nothing in the way of burden upon such 
+exports. 
+
+
+Id. at 292-93, 21 S.Ct. at 652. 
+
+
+22a 
+B. The Government’s Argument 
+
+As mentioned previously, the government is not 
+presently ee eae positions defended by the 
+Service’s National that it took on § 4371 during 
+the audit process, namely, that § 4371 does not impose 
+a tax that has any constitutional ramifications 
+because its wy ae is regulatory instead of 
+revenue-raising, that Thames & Mersey is 
+distinguishable because these shipments were not 
+pure exportation in that they included an inland leg 
+from a plant inside the United States to a port. 
+
+In its cross-motion, the government does not 
+disagree with the admonition in Fairbank that ex- 
+ports cannot be burdened by taxation that interferes 
+with the export process. Where IBM goes astray, 
+
+the government, is in its argument that 
+Thames & Mersey controls this case. The govern- 
+ment says that Txwames & Mersey is silent on the 
+question of whether the excise tax imposed by § 4371 
+targeted exports in a discriminatory fashion or 
+whether the tax was facially neutral in this regard. 
+The thrust of the government’s motion for summary 
+judgment is that Thames & Mersey has been 
+superseded by Supreme Court decisions that have 
+shifted the critical “Export Clause” question to 
+whether a tax discriminates against exports in their 
+capacity as exports. 
+
+The government’s argument is premised on its 
+interpretation of two related Supreme Court de- 
+cisions. In Michelin Tire Corp. v. Wages, 423 U.S. 
+276, 96 S.Ct. 535, 46 L.Ed.2d 495 (1976), the State of 
+Georgia assessed ad valorem property taxes against 
+Michelin’s inventory of imported tires and tubes. 
+Michelin argued that the ad valorem tax was 
+prohibited by the “Import-Export Clause” of the 
+Constitution, Article I, § 10, clause 2, which provides: 
+“No State shall, without the Consent of the Con- 
+gress, lay any Imposts or Duties on Imports and 
+Exports, except what may be absolutely necessary for 
+
+
+23a 
+
+
+executing its own inspection Laws... .” The Court 
+rejected Michelin’s proposition, stating: “Nothing in 
+the history of the Import-Export Clause even re- 
+motely suggests that a nondiscriminatory ad valorem 
+property which is also imposed on imported goods 
+that are no longer in transit was the type of exaction 
+that was regarded as objectionable by the Framers of 
+the Constitution.” /d. at 286, 96 S.Ct. at 541. 
+
+Critical to the Court’s holding in Michelin was 
+its discussion of Low v. Austin, 80 U.S. (13 Wall.) 29, 
+20 L.Ed. 517 (1872). The Court characterized Low as 
+“the leading decision of this Court holding that the 
+States are prohibited by the Import-Export Clause 
+from imposing a nondiscriminatory ad valorem 
+property tax on imported goods until they lose their 
+character as imports and become incorporated into 
+the mass of property in the State.” Michelin, 423 
+U.S. at 282, 96 S.Ct. at 539. Low, the Court con- 
+tinued, improperly expanded the prohibition of the 
+Import- Export Clause, rejecting the more reasoned 
+views expressed by Justice Marshall in Brown v. 
+Maryland, 25 U.S. (12 Wheat.) 419, 6 L.Ed. 678 (1827), 
+and Justice Taney in the License Cases, 46 U.S. (5 
+How.) 504, 12 L.Ed. 256 (1847), that an examination 
+of the origins of the Clause “makes crystal clear 
+that the prohibition applied only to state exactions 
+upon imports as imports and did not apply to 
+nondiscriminatory ad valorem property taxes.” 
+Michelin, 423 U.S. at 300, 96 S.Ct. at 547. Accord- 
+ingly, the Court found that Low was wrongly decided 
+and explicitly overruled it. Jd. at 301, 96 S.Ct. at 548. 
+
+What in Michelin the Supreme Court said about 
+the taxation of imports qua imports, it extended to 
+the taxation of exports qua exports in Washington 
+Stevedoring. There, the Court resumed a discus- 
+sion it began in Michelin. The Court noted that 
+“Michelin initiated a different approach to Import- 
+Export Clause cases. It ignored the simple question 
+whether the tires and tubes were imports. Instead, it 
+
+
+24a 
+
+
+analyzed the nature of the tax to determine whether 
+it was an ‘Impost or Duty.’” Washington Steve- 
+doring, 435 U.S. at 752, 98 S.Ct. at 1400. The import 
+tax in Michelin was upheld because it did not offend 
+the three main concerns of the Framers of the 
+Import-Export Clause: the government speaking 
+with one voice when regulating commercial relations 
+with foreign governments; preventing federal sources 
+of import revenues from being diverted to the states; 
+and preventing states from levying taxes on citizens 
+of other states by taxing goods merely flowing 
+through their ports to other states. 
+
+Although the Court in Washington Stevedoring 
+recognized that there were some formal factual 
+distinctions between it and Michelin, it extended the 
+Michelin “three concerns” analysis to taxation 
+involving exports. The Court pointed out that an 
+export tax need only be measured against the first 
+and third concerns: the export-tax ban of the Import- 
+Export Clause does not serve the second concern, 
+protection of federal revenues, because that objective 
+is satisfied by the Export Clause of Article I, § 9. In 
+sum, the Court decided that an export tax should be 
+tested for its conformance with the first and third 
+policies of the Import-Export Clause, and if the 
+constitutional interests are not disturbed, the tax 
+should not be considered an “Impost or Duty” pro- 
+hibited by the Constitutional ban. 
+
+Among the distinctions drawn by the Washington 
+Stevedoring Court between its facts and those 
+in Michelin was that in Michelin the tax fell on 
+the goods themselves, whereas in Washington 
+Stevedoring the tax fell on stevedoring, the business 
+of loading and unloading ships. The Court noted that 
+a tax on stevedoring does not relate to the value of the 
+goods being transported, and therefore cannot be 
+considered a tax on the goods themselves. /d. at 757, 
+98 S.Ct. at 1402. To reach this conclusion, Washing- 
+ton Stevedoring turned briefly to Canton Railroad 
+
+
+25a 
+
+
+Co. v. Rogan, 340 U.S. 511, 71 S.Ct. 447, 95 L.Ed. 488 
+(1951), in which the Court upheld a gross-receipts tax 
+on a railroad that engaged in a variety of services 
+relating to importing and exporting on the grounds 
+that the immunity of services incidental to exporting 
+and exporting was not as broad as the immunity of the 
+goods themselves, a distinction described in Canton 
+Railroad that found favor in Washington Steve- 
+doring. 
+
+Of course, no bright-line test for distinguishing 
+between goods and related services emerged from 
+Canton Railroad, but as the Court in Washington 
+Stevedoring noted, Canton Railroad did distinguish 
+the tax it upheld from other taxes which the Court 
+had previously invalidated. Among the cases distin- 
+guished was Thames & Mersey. In the words of the 
+Washington Stevedoring Court: 
+
+
+In [the cases in which the Court had previously 
+struck down taxes,] the State had taxed either 
+the goods or activity so connected with the 
+goods that the levy amounted to a tax on the 
+goods themselves. ... [T]he stamp tax on bills 
+of lading in Fairbank effectively taxed the 
+goods because the bills represented the goods. 
+
+- The basis for distinguishing Thames & 
+Mersey is less clear because there the tax fell 
+upon marine insurance policies. Arguably, the 
+policies had a value apart from the value of the 
+goods. In distinguishing that case from the 
+taxation of stevedoring activities, however, one 
+might note that the value of goods bears a 
+much closer relation to the value of insurance 
+policies on them than to the value of loading 
+and unloading ships. 
+
+
+Washington Stevedoring, 435 U.S. at 756 n. 21, 98 
+S.Ct. at 1402 n. 21. 
+
+In its motion, the government suggests that a 
+reading of Washington Stevedoring and the cases 
+
+
+26a 
+
+
+leading up to it indicates that there has been a 
+fundamental revision in the way the Supreme Court 
+approaches cases that invoke both the Import-Export 
+Clause and the Export Clause. It argues that there is 
+no meaningful difference between a tax on the 
+proceeds of stevedoring services and a tax on 
+premiums paid for policies of casualty insurance, a 
+transaction the government describes as _ being 
+incidental to the process of exporting. Taking its cue 
+from Michelin, the government says that as ap- 
+plied to IBM in this case the § 4371 tax is “non- 
+discriminatory” because it doesn’t “discriminate” 
+against exports, i.e., the tax doesn’t target exports as 
+exports but instead is a generally applicable tax on 
+insurance policies written by foreign insurers that 
+applies regardless of whether the insured goods are 
+in the export stream, and because the tax as such is 
+“non-discriminatory” it does not run afoul of the 
+Export Clause. 
+
+
+Having carefully considered the parties’ briefs and 
+the cases relied on therein, the court cannot agree 
+with the government that Michelin and Washington 
+Stevedoring control the facts of this case. Plainly 
+enough, the parties agree that § 4371 imposes a “tax,” 
+as that term is generally used and understood. And, 
+the court agrees with IBM that the tax imposed by 
+§ 4371 is a tax that amounts to a tax on exports. That 
+the imposition of an excise tax on insurance that 
+must be purchased to secure against the risks 
+amounts to a tax on the goods themselves was 
+recognized years ago by the Supreme Court, which 
+wrote that “[iJt cannot be doubted that insurance 
+during the voyage is by virtue of the demands of 
+commerce an integral part of the exportation; the 
+business of the world is conducted upon this basis.” 
+Thames & Mersey, 237 U.S. at 26, 35 S.Ct. at 498. 
+
+
+27a 
+
+
+Thus, because the § 4371 tax is essentially a 
+burden on the exportation process under the rule of 
+Thames & Mersey, to avoid application of the rule and 
+prevail on its motion the government must dem- 
+onstrate either that Thames & Mersey has been 
+explicitly overruled, or if it has not been, that later 
+precedent more properly controls. The court does not 
+think that the government has successfully demon- 
+strated either of these propositions. 
+
+The government argues that Thames & Mersey 
+has been overruled because Washington Stevedoring 
+overruled its decisions in Puget Sound Stevedoring 
+Co. v. State Tax Comm’n, 302 U.S. 90, 58 S.Ct. 72, 82 
+L.Ed. 68 (1937) and Joseph v. Carter & Weekes 
+Stevedoring Co., 330 U.S. 422, 67 S.Ct. 815, 91 L.Ed. 
+993 (1947), two cases in which the Court invalidated 
+state taxes on the proceeds from  stevedoring 
+interstate and international cargoes because they 
+violated the Import-Export Clause. A partial dissent 
+and partial concurrence in Carter & Weekes held that 
+the Import-Export Clause prevented the stevedoring 
+tax from applying to cargoes to and from foreign 
+ports, invoking Thames and Mersey as grounds for 
+its conclusions regarding exports. The government 
+maintains that because Washington Stevedoring 
+overruled Carter & Weekes, then Thames & Mersey 
+must also have been overruled. 
+
+The court rejects this argument. Carter & 
+Weekes was explicitly overruled in Washington 
+Stevedoring. The Court in Michelin wrote many 
+pages to explain in detail why it was overruling the 
+long-standing rule of Low v. Austin. Washington 
+Stevedoring does specifically overrule two cases and 
+endorses a new way of examining cases that involve 
+the Import-Export Clause, but the court does not read 
+Washington Stevedoring as stating that the Court 
+has abandoned the rule it expanded in Thames & 
+Mersey in an analysis of the Export Clause. The 
+court must adhere to the accepted practice of 
+
+
+28a 
+
+
+following Supreme Court precedent unless the 
+Supreme Court clearly states that it is overrul- 
+ing earlier cases and explains why it is doing 
+so. Rodriguez de Quijas v. Shearson/American 
+Express, Inc., 490 U.S. 477, 484, 109 S.Ct. 1917, 1921, 
+104 L.Ed.2d 526 (1989) (“If a precedent of this Court 
+has direct application in a case, yet appears to rest on 
+reasons rejected in some other line of decisions, the 
+Court of Appeals should follow the case which 
+directly controls, leaving to this Court the pre- 
+rogative of overruling its own decisions.”) Washing- 
+ton Stevedoring overruled two prior decisions that 
+relied on the Import-Export Clause to invalidate 
+taxes on stevedoring. In the absence of explicit 
+instruction from the Supreme Court that its long- 
+standing approach to evaluating challenges under the 
+Export Clause should be disregarded, the court 
+declines to presume that such an instruction has been 
+implicitly given. 
+
+Furthermore, the court is not inclined to read 
+Washington Stevedoring as overruling Thames «& 
+Mersey when the Court in Washington Stevedoring 
+cites Thames & Mersey as a precedential case that in 
+the present context had to be distinguished. In its 
+discussion of Canton Railroad, the Court in Wash- 
+ington Stevedoring drew parallels to that earlier 
+case, noting that: 
+
+
+[tjaxation in neither [stevedoring nor railroad 
+services] relates to the value of goods, and 
+therefore in neither can it be considered taxation 
+on the goods themselves. The force of Canton R. 
+Co. therefore prompts the conclusion that the 
+Michelin policy analysis should not be discarded 
+merely because the goods are in transit, at least 
+where the taxation falls upon a service distinct 
+from the goods and their value. 
+
+
+29a 
+
+
+Washington Stevedoring, 435 U.S. at 757, 98 S.Ct. at 
+1403. Clearly, the Court no longer considers a tax 
+on stevedoring to be a tax on exports because 
+stevedoring is a service whose value is not nec- 
+essarily tied to the value of the goods it serves. In 
+that same discussion, however, the Court distin- 
+guished a tax on stevedoring from the tax on the 
+marine insurance policies invalidated in Thames & 
+Mersey, stating that “the value of goods bears a much 
+closer relation to the value of insurance policies on 
+them than to the value of loading and unloading 
+ships.” Jd. at 756 n. 21, 98 S.Ct. at 1402 n. 21. 
+
+Thus, even if the government is correct in its 
+assertion that all taxes that involve exports, whether 
+considered in light of the Export Clause or the 
+Import-Export Clause, should be examined to see if 
+they discriminate against exports qua exports, it 
+appears that in the Court’s view a tax such as that 
+imposed by § 4371 could indeed be considered a tax on 
+exports in their capacity as exports. The present 
+case is distinguishable from Michelin and Washing- 
+ton Stevedoring: in Michelin the tires had left the 
+import stream and were held to be beyond the import 
+stream and thus outside the scope of the Import- 
+Export Clause, and in Washington Stevedoring the 
+Court said that the Import-Export Clause was not 
+violated because stevedoring bore no significant 
+relationship to the goods transported. In the present 
+case, the casualty insurance policies were at all times 
+within the export stream and were significantly 
+related to the exportation process. Whether the 
+§ 4371 tax would be impermissible even without the 
+support of Thames & Mersey is, we realize, not stated 
+dispositively by the Court, but there is nothing in 
+Washington Stevedoring that indicates that Thames 
+& Mersey and the connection drawn in that case 
+between insurance policies and the value of goods 
+have been banished into irrelevance. 
+
+
+30a 
+
+
+IV 
+
+
+For the reasons discussed above, the court finds 
+that the § 4371 tax imposed on IBM violates the terms 
+of the Export Clause. Plaintiff’s motion for summary 
+judgment is granted, and defendant’s motion for 
+summary judgment is denied. The parties are 
+directed to confer and agree on the judgment award 
+that should be entered in favor of the plaintiff. The 
+parties shall advise the court in this regard within 
+thirty days. 
+
+
+/s/ 
+THOMAS J. LYDON 
+Senior Judge 
+
+
+3la 
+APPENDIX C 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE FEDERAL CIRCUIT 
+
+
+No. 94-5164 
+
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION, 
+PLAINTIFF-APPELLEE 
+
+
+Vv. 
+THE UNITED STATES, DEFENDANT-APPELLANT 
+
+
+JUDGMENT 
+
+
+ON APPEAL from the United States Court of 
+Federal Claims 
+
+
+in CASE NO(S). 388-89T 
+This CAUSE having been heard and considered, it 
+
+
+is ORDERED and ADJUDGED: 
+AFFIRMED 
+
+
+ENTERED BY ORDER OF THE COURT 
+
+
+DATED: July 10,1995 /s/ Francis X. Gindhart 
+
+
+FRANCIS X. GINDHART 
+Clerk 
+
+
+ISSUED AS A MANDATE: August 31, 1995 
+
+
+32a 
+APPENDIX D 
+
+
+IN THE UNITED STATES 
+COURT OF FEDERAL CLAIMS 
+
+
+No. 388-89T 
+INTERNATIONAL BUSINESS MACHINES CORPORATION 
+v. 
+
+
+THE UNITED STATES 
+
+
+[Filed Aug. 31, 1994] 
+
+
+AMENDED JUDGMENT 
+
+
+Pursuant to the court’s opinion of July 28, 1994, 
+granting plaintiff’s motion for summary judgment, 
+
+
+IT IS ORDERED AND ADJUDGED this date, 
+pursuant to Rule 58, that plaintiff recover of and from 
+the United States the sum of $1,532,235.87 which 
+covers the assessed taxes and interest, covering tax 
+years 1975-1984 in the manner set forth in the 
+attached exhibit which is incorporated and made part 
+of the judgment herein, plus statutory interest on 
+such assessed taxes and interest as provided by law. 
+No costs. 
+
+David A. Lampen 
+Clerk of Court 
+
+
+August 31, 1994 By: /s/ Jack L. Wilson 
+
+
+Deputy Clerk 
+
+
+NOTE: As to appeal, 60 days from this date, see 
+RCFC 72, re number of copies listing of all plaintiffs. 
+Filing fee is $105.00. 
+
+
+33a 
+
+
+JOINT EXHIBIT 1—ASSESSED TAXES AND INTEREST 
+
+
+Tax Period 
+Endin 
+
+
+Assessed 
+Taxes 
+
+
+Assessed 
+Interest 
+
+
+Total Taxes 
+& Interest 
+
+
+S112 
+
+
+S412 
+
+
+otal 
+
+
+34a 
+APPENDIX E 
+
+
+IN THE UNITED STATES 
+COURT OF FEDERAL CLAIMS 
+
+
+No. 388-89T 
+(Senior Judge Thomas J. Lydon) 
+
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION, 
+PLAINTIFF 
+
+
+v. 
+THE UNITED STATES, DEFENDANT 
+
+
+STIPULATION OF FACTS 
+
+
+The parties hereby stipulate that the following 
+facts, including the attached Joint Exhibit 1, may be 
+accepted as true for purposes of this case. The 
+parties believe that this stipulation of facts is 
+comprehensive, that no genuine issues of material 
+fact exist, and that the case may be resolved on cross 
+motions for summary judgment. Nevertheless, the 
+parties reserve the right to introduce other evidence 
+that is not inconsistent with the facts stipulated. 
+The parties also reserve the right to object to the 
+relevance, materiality, and admissibility of any of the 
+stipulations or the attached exhibit. 
+
+
+PROCEDURAL BACKGROUND 
+
+
+J Plaintiff, International Business Machines 
+Corporation (IBM), is a domestic corporation 
+incorporated under the laws of the State of 
+New York. IBM’s principal place of business is 
+in Armonk, New York. 
+
+2. This case involves the four percent federal 
+excise tax imposed by Section 4371(1) of the 
+
+
+35a 
+
+
+Internal Revenue Code (26 U.S.C.) on pre- 
+miums paid for certain policies of insurance 
+issued by foreign insurers. 
+
+3. The periods involved are each of the quarters 
+during the years 1975 through 1984, inclusive 
+(the “quarters in issue”). 
+
+4. IBM filed federal excise returns for the 
+quarters in issue that did not report any lia- 
+bility under Section 4371. 
+
+5. On audit of IBM’s federal excise tax returns 
+for the quarters in issue, the Internal Revenue 
+Service (“IRS”) determined that IBM was 
+liable for the tax imposed by Section 4371 as a 
+result of certain foreign insurance trans- 
+actions hereafter described. The IRS assessed 
+IBM for Section 4371 taxes, interest, and 
+“delinquency” or “failure to pay” penalties for 
+each of the quarters in issue (the “assess- 
+ments”). 
+
+6. IBM paid the assessments in full, and timely 
+filed claims for refund with the IRS for all 
+amounts paid in satisfaction of the assess- 
+ments. The IRS denied IBM’s claims for 
+refund on December 23, 1988. This tax refund 
+action was timely filed by IBM on July 11, 1989. 
+The parties believe that this Court has 
+jurisdiction of the action under 28 U.S.C. 
+Section 1491(aX1) and Section 7422 of the 
+Internal Revenue Code (the “Code”) (26 U.S.C. 
+Section 7422). 
+
+7. Defendant has abated the IRS’ penalty assess- 
+ments and refunded the amounts so assessed to 
+IBM, with interest. ; 
+
+
+SALES OF IBM PRODUCTS OUTSIDE THE 
+UNITED STATES 
+
+
+s. IBM is a developer and manufacturer of 
+sophisticated information processing systems 
+and related products, sold throughout the 
+
+
+10. 
+
+
+36a 
+
+
+world. During the quarters in issue, sales of 
+IBM products outside the United States were 
+made through a worldwide network of more 
+than 100 wholly owned foreign subsidiary 
+corporations. For example, IBM products were 
+sold using the quarters in issue by cor- 
+porations organized and operating in Abu 
+Dhabi, Argentina, Belgium, Brazil, Canada, 
+Egypt, Germany, Haiti, India, Japan, Kuwait, 
+Malaysia, Norway, Peru, South Africa, 
+Switzerland, Thailand, the former U.S.S.R., 
+Vietnam, and Zambia. 
+
+IBM products sold by foreign subsidiaries were 
+manufactured either in their own overseas 
+plants (or in the plants of other IBM foreign 
+subsidiaries) or by IBM at manufacturing 
+plants in the United States. 
+
+During the quarters in issue, IBM products 
+manufactured in the United States and sold 
+outside the United States through foreign 
+subsidiaries included (but were not limited to) 
+the following items, manufactured at the 
+locations indicated: 
+
+
+Locations: 
+Mainframe computers Poughkeepsie, NY 
+Tape drivers, 
+large printers, 
+magnetic tape Tucson, AZ 
+Dise drives San Jose, CA 
+
+
+Copiers, toner, supplies Boulder, CO 
+
+
+Intermediate computers Rochester, MN, 
+Austin, TX 
+
+
+ll. 
+
+
+12. 
+
+
+13. 
+
+
+37a 
+
+
+Personal computers, 
+keyboards Austin, TX, Boca 
+Raton, FL 
+
+
+Point of sale banking 
+machines, circuit cards Charlotte, NC 
+
+
+Communication devices, 
+cathode ray terminals Raleigh, NC 
+
+
+Manassas, VA, East 
+Peekskill, NY, 
+Burlington, NY 
+
+
+Semiconductors 
+
+
+Large circuit boards, 
+specialized intermediate 
+computers Endicott, NY 
+
+
+Sales outside the United States of IBM pro- 
+ducts manufactured within the United States 
+were accomplished by a purchase order to IBM 
+from its foreign subsidiary, under which IBM 
+billed the subsidiary and generally shipped the 
+goods directly to the subsidiary’s customer. 
+Lower priced goods might be shipped to a con- 
+solidation center in the foreign country, and 
+maintained as inventory by the foreign sub- 
+sidiary to fill future orders. 
+Depending upon the particular product, IBM 
+would fill a subsidiary’s order either by (1) 
+building the product to the particular specifi- 
+cations contained in a purchase order (“build to 
+order”), or (2) utilizing ongoing production at a 
+factory or inventory at a warehouse (“built to 
+"). 
+
+ipment of products from the United States 
+to the foreign customer began by truck on a 
+common carrier (from the manufacturing plant 
+or warehouse). The goods generally were 
+
+
+14. 
+
+
+38a 
+
+
+destined for a United States airport (typically, 
+John F. Kennedy in New York for shipments to 
+Europe and the Middle East, Miami Inter- 
+national for shipments to Latin America, and 
+San Francisco International for shipments to 
+the Far East), but some shipments also were 
+by sea. While traveling within the United 
+States, the products would typically be un- 
+loaded at one or more intermediate freight 
+forwarder locations, where they would typi- 
+cally remain for 2-5 days, but could remain 
+while awaiting space on an airliner for as long 
+as 30 days. The products would be reloaded at 
+the freight forwarders’ facilities and continue 
+ultimately to the point of embarkation, where 
+they were loaded onto an airplane or a ship. 
+Once the products reached the air or sea port 
+in the foreign country, there were unloaded, 
+cleared customs, and loaded on trucks for 
+shipment to their final destination. For pur- 
+poses of the parties’ cross motions for 
+summary judgment, the parties agree that any 
+variations from these typical fact patterns 
+were not significant and are not relevant to the 
+resolution of the motions. 
+
+When foreign subsidiaries purchased IBM 
+products from IBM during the years in issue, 
+in terms of sale called for title to the products 
+(and the risk of loss) to pass from IBM to the 
+subsidiary when the goods cleared customs in 
+the foreign country. The terms of sale also 
+called for the purchasing subsidiary to bear the 
+cost of insuring the products against damage 
+or destruction during shipment. 
+
+
+INSURANCE COVERING THE SHIPMENT OF 
+
+
+1BM_ PRODUCTS SOLD TO FOREIGN SUB- 
+SIDIARIES 
+
+
+15. 
+
+
+16. 
+
+
+17. 
+
+
+39a 
+
+
+All U.S.-manufactured products IBM sold to 
+foreign subsidiaries were covered by casualty 
+insurance against damage or destruction 
+during shipment. Insurance was “point to 
+point”, that is, covered the risk of loss to goods 
+during transportation by surface or air 
+transportation from the IBM facility in the 
+United States until delivered to the foreign 
+customer or a foreign consolidation center. In 
+some cases, IBM arranged for the insurance; 
+when it did so, insurance was placed with a 
+U.S. insurance carrier, and the cost was billed 
+to the foreign subsidiary. In other instances, 
+the foreign subsidiary placed the insurance; 
+when it did so, the insurance often was with a 
+foreign carrier, which the subsidiary paid for 
+directly. In all cases, both IBM and its foreign 
+subsidiary were listed as insured beneficiaries. 
+When a foreign subsidiary obtained its own 
+insurance coverage with a foreign insurer, the 
+policy covered not only shipments to it by IBM 
+from the United States, but shipments of goods 
+purchased from foreign affiliates in other 
+countries as well. The insurer would charge a 
+separate premium to cover each si.upment, the 
+amount of which was determined by the 
+declared value of the particular shipment, 
+multiplied by the premium rate applicable to 
+that shipment. The premium rate depended on 
+such underwriting factors as the place of 
+origin and destination of the goods, the type of 
+goods involved and how they were packaged, 
+the time and distance of the trip, the route and 
+mode(s) of transportation, and the amount of 
+material handling expected during the trip. 
+
+If damage to an IBM product being shipped to a 
+foreign country occurred while IBM had title 
+to the goods (and the risk of loss), then IBM 
+
+
+18. 
+
+
+40a 
+
+
+would be entitled to the insurance proceeds 
+under the insurance policy (whether issued by 
+a U.S. company or a foreign insurer). If the 
+loss occurred, however, after the importing 
+foreign subsidiary acquired title to the 
+products, the insurance proceeds would be 
+payable to the subsidiary. In the latter case, 
+the subsidiary would use the proceeds to pay 
+IBM the full purchase price of the damaged 
+products, or to reimburse itself for the 
+purchase price, if IBM had already been paid. 
+Since most IBM products shipped to foreign 
+subsidiaries were packaged in containers, 
+damage was frequently not discovered until 
+after the products arrived at their designation. 
+As a practical matter, it was often impossible 
+to determine when a loss occurred and 
+therefore who was legally entitled to receive 
+the policy proceeds. In most cases involving 
+foreign insurance carriers, therefore, the 
+insurance company simply paid the insurance 
+proceeds to the foreign subsidiary which used 
+the proceeds to pay IBM for the goods. 
+
+
+THE ASSESSMENTS 
+
+
+19. 
+
+
+The Internal Revenue Service determined that 
+the premiums paid to foreign insurers with 
+respect to U.S. manufactured IBM products 
+sold to its foreign subsidiaries were subject to 
+the four percent excise tax imposed by Section 
+4371 of the Internal Revenue Code (26 U.S.C.). 
+During the audit, IBM sent questionnaires to 
+its foreign subsidiaries and determined that 
+premiums paid by them to foreign insurers 
+during the year 1980, allocable to U.S.- 
+manufactured IBM products sold outside the 
+United States, totaled $2,065,137. For expedi- 
+ency in making assessments under Section 
+4371, IBM and the IRS agreed that the foreign 
+
+
+21. 
+
+
+4la 
+
+
+insurance premiums attributable to such 
+products in each of the years 1975-1979 and 
+1981-1984 were the same as in 1980. Accord- 
+ingly, the Internal Revenue Service assessed 
+Section 4371 taxes of $82,605 per year, cal- 
+culated by multiplying the annual premiums by 
+four percent. 
+
+The Internal Revenue Service’s assessments 
+of Section 4371 tax and interest for each of the 
+quarters in issue, which are the amounts in 
+this case, are set forth in Joint Exhibit 1. 
+
+

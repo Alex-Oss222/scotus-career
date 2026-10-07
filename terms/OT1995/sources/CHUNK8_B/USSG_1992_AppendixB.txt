@@ -1,0 +1,1959 @@
+SOURCE: https://www.ussc.gov/sites/default/files/pdf/guidelines-manual/1992/manual-pdf/Appendix_B.pdf
+
+[[PDF page 1]]
+APPENDIX B - SELECTED SENTENCING STATUTES
+Appendix B sets forth the principal statutory provisions governing sentencing, the Sentencing Commission,
+and the drafting of sentencing guidelines as extracted from the following sources:
+• 18 U.S.C. chapter 227 ("Sentences");
+• 18 U.S.C. chapter 229 ("Postsentence Administration");
+• 28 U.S.C. chapter 58 ("United States Sentencing Commission"); and
+• The Anti-Drug Abuse Act of 1988 (Pub.L. 100-690), the Major Fraud Act of 1988 (Pub.L. 100-700), the
+Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (Pub.L. 101-73), the Crime
+Control Act of 1990 (Pub.L. 101-647), and the Treasury, Postal Service and General Government
+Appropriations Act, 1992 (set out as notes under 28 U.S.C. § 994).
+The legal authority for the United States Sentencing Commission ("Commission") and the related authority
+and procedures for sentencing in federal courts have their legislative foundation in the Sentencing Reform Act
+of 1984 (Chapter II of the Comprehensive Crime Control Act of 1984, Public Law 98-473, October 12, 1984).
+These statutory provisions are presented in this appendix solely for the purpose of providing a reference to
+federal sentencing law as it currently stands. For the sake of brevity, certain miscellaneous provisions are
+omitted. The Commission makes no representations concerning the accuracy of these provisions and
+recommends that authoritative sources be consulted where legal reliance is necessary.
+407 November 1, 1992
+
+[[PDF page 2]]
+Title 18
+CRIMES AND CRIMINAL PROCEDURE
+CHAPTER 2271-SENTENCES
+SUBCHAPTER A-GENERAL PROVISIONS
+Section
+3551. Authorized sentences.
+3552. Presentence reports.
+3553. Imposition of a sentence.
+3554. Order of criminal forfeiture.
+3555. Order of notice to victims.
+3556. Order of restitution.
+3557. Review of a sentence.
+3558. Implementation of a sentence.
+3559. Sentencing classification of offenses.
+§ 3551. Authorized sentences
+(a) In general.—Except as otherwise specifically provided, a defendant who has been found guilty of an
+offense described in any Federal statute, including sections 13 and 1153 of this title, other than an Act of
+Congress applicable exclusively in the District of Columbia or the Uniform Code of Military Justice, shall be
+sentenced in accordance with the provisions of this chapter so as to achieve the purposes set forth in
+subparagraphs (A) through (D) of section 3553(a)(2) to the extent that they are applicable in light of all the
+circumstances of the case.
+(b) Individuals.—An individual found guilty of an offense shall be sentenced, in accordance with the
+provisions of section 3553, to—
+(1) a term of probation as authorized by subchapter B;
+(2) a fine as authorized by subchapter C; or
+(3) a term of imprisonment as authorized by subchapter D.
+A sentence to pay a fine may be imposed in addition to any other sentence. A sanction authorized by section
+3554, 3555, or 3556 may be imposed in addition to the sentence required by this subsection.
+(c) Organizations.—An organization found guilty of an offense shall be sentenced, in accordance with the
+provisions of section 3553, to—
+(1) a term of probation as authorized by subchapter B; or
+(2) a fine as authorized by subchapter C.
+A sentence to pay a fine may be imposed in addition to a sentence to probation. A sanction authorized by section
+3554, 3555, or 3556 may be imposed in addition to the sentence required by this subsection.
+(Added Pub.L. 98-473, Title II, § 212(a)(2), Oct. 12,1984, 98 Stat. 1988, and amended Pub.L. 101-647, Title XVI,
+§ 1602, Nov. 29, 1990, 104 Stat. 4843.)
+Another chapter 227 "SENTENCE, JUDGMENT, AND EXECUTION" (§§ 3561 to 3580) was repealed, effective Nov. 1, 1987.
+408 November 1, 1992
+
+[[PDF page 3]]
+EDITORIAL NOTES
+Effective Date and Savings Provisions of Sentencing Reform Act of 1984 (Pub.L. 98-473, Title II, c. II,
+§§ 211 to 239); Terms of Members of U.S. Sentencing Commission and U.S. Parole Commission; Parole Release
+Dates; Membership of National Institute of Corrections, Advisory Corrections Council, and U.S. Sentencing
+Commission. Section 235 of Pub.L. 98-473, Title II, c. II, Oct. 12, 1984, 98 Stat. 2031, as amended by Pub L
+99-217, §§ 2, 4, Dec. 26, 1985, 99 Stat. 1728; Pub.L. 99-646, § 35, Nov. 10, 1986, 100 Stat. 3599; Pub.L. 100-182,
+§ 2, Dec. 7, 1987, 101 Stat. 1266, provided:
+H(a)(l) This chapter [chapter II, §§ 211-239, of Title II of Pub.L. 98-473] shall take effect on the first day of
+the first calendar month beginning 36 months after the date of enactment [Oct. 12, 1984] and shall apply only
+to offenses committed after the taking effect of this chapter, except that-
+"(A) the repeal of chapter 402 of title 18, United States Code, shall take effect on the date of enactment;
+"(B)(i) chapter 58 of title 28, United States Code, shall take effect on the date of enactment of this Act
+or October 1, 1983, whichever occurs later, and the United States Sentencing Commission shall submit the
+initial sentencing guidelines promulgated under section 994(a)(l) of title 28 to the Congress within 30 months
+of the effective date of such chapter 58; and
+"(ii) the sentencing guidelines promulgated pursuant to section 994(a)(l) shall not go into effect until-
+"(I) the United States Sentencing Commission has submitted the initial set of sentencing
+guidelines to the Congress pursuant to subparagraph (B)(i), along with a report stating the reasons
+for the Commission's recommendations;
+"(II) the General Accounting Office has undertaken a study of the guidelines, and their potential
+impact in comparison with the operation of the existing sentencing and parole release system, and has,
+within one hundred and fifty days of submission of the guidelines, reported to the Congress the results
+of its study; and
+"(III) the day after the Congress has had six months after the date described in subclause (I) in
+which to examine the guidelines and consider the reports; and
+"(IV) section 212(a)(2) [enacting chapter 227, 'Sentences', comprised of sections 3551 to 3559,
+3561 to 3566, 3571 to 3574, and 3581 to 3586; and chapter 229, Tostsentence administration',
+comprised of sections 3601 to 3607, 3611 to 3615, and 3621 to 3625 of this title; and repealing former
+chapter 227, 'Sentence, judgment, and execution', comprised of sections 3561 to 3580; former chapter
+229, Tines, penalties, and forfeitures', comprised of sections 3611 to 3620; and former chapter 231,
+'Probation', comprised of sections 3651 to 3656 of this title] takes effect, in the case of the initial
+sentencing guidelines so promulgated.
+"(2) For the purposes of section 992(a) of title 28, the terms of the first members of the United States
+Sentencing Commission shall not begin to run until the sentencing guidelines go into effect pursuant to paragraph
+)()
+"(b)(l) The following provisions of law in effect on the day before the effective date of this Act shall remain
+in effect for five years after the effective date as to an individual who committed an offense or an act of juvenile
+delinquency before the effective date and as to a term of imprisonment during the period described in subsection
+)
+"(A) Chapter 311 of title 18, United States Code.
+"(B) Chapter 309 of title 18, United States Code.
+"(C) Sections 4251 through 4255 of title 18, United States Code.
+"(D) Sections 5041 and 5042 of title 18, United States Code.
+"(E) Sections 5017 through 5020 of title 18, United States Code, as to a sentence imposed before the date
+of enactment. ,
+"(F) The maximum term of imprisonment in effect on the effective date for an offense committed before
+the effective date.
+"(G) Any other law relating to a violation of a condition of release or to arrest authority with regard to
+a person who violates a condition of release.
+409 November 1, 1992
+
+[[PDF page 4]]
+"(2) Notwithstanding the provisions of section 4202 of title 18, United States Code, as in effect on the day
+before the effective date of this Act, the term of office of a Commissioner who is in office on the effective date
+is extended to the end of the five-year period after the effective date of this Act.
+"(3) The United States Parole Commission shall set a release date, for an individual who will be in its
+jurisdiction the day before the expiration of five years after the effective date of this Act, pursuant to section 4206
+of title 18, United States Code. A release date set pursuant to this paragraph shall be set early enough to permit
+consideration of an appeal of the release date, in accordance with Parole Commission procedures, before the
+expiration of five years following the effective date of this Act.
+"(4) Notwithstanding the other provisions of this subsection, all laws in effect on the day before the effective
+date of this Act pertaining to an individual who is—
+"(A) released pursuant to a provision listed in paragraph (1); and
+"(B)(i) subject to supervision on the day before the expiration of the five-year period following the
+effective date of this Act; or
+"(ii) released on a date set pursuant to paragraph (3); "including laws pertaining to terms and
+conditions of release, revocation of release, provision of counsel, and payment of transportation costs, shall
+remain in effect as to the individual until the expiration of his sentence, except that the district court shall
+determine, in accord with the Federal Rules of Criminal Procedure, whether release should be revoked or
+the conditions of release amended for violation of a condition of release.
+"(5) Notwithstanding the provisions of section 991 of title 28, United States Code, and sections 4351 and 5002
+of title 18, United States Code, the Chairman of the United States Parole Commission or his designee shall be
+a member of the National Institute of Corrections, and the Chairman of the United States Parole Commission
+shall be a member of the Advisory Corrections Council and a nonvoting member of the United States Sentencing
+Commission, ex officio, until the expiration of the five-year period following the effective date of this Act.
+Notwithstanding the provisions of section 4351 of title 18, during the five-year period the National Institute of
+Corrections shall have seventeen members, including seven ex officio members. Notwithstanding the provisions
+of section 991 of title 28, during the five-year period the United States Sentencing Commission shall consist of
+nine members, including two ex officio, nonvoting members."
+[Pub.L. 101-650, Title III, § 316, Dec. 1, 1990, 104 Stat. 5115, provided that: "For the purposes of section
+235(b) of Public Law 98-473 [set out as a note under this section] as it relates to chapter 311 of title 18, United
+States Code [section 4201 et seq. of this title], and the United States Parole Commission, each reference in such
+section to 'five years' or a 'five-year period' shall be deemed a reference to 'ten years' or a 'ten-year period',
+respectively."]
+Sentencing Considerations Prior to Enactment of Guidelines. Section 239 of Pub.L. 98-473, Title II, c. II,
+Oct. 12, 1984, 98 Stat. 2039, provided:
+"Since, due to an impending crisis in prison over-crowding, available Federal prison space must be treated
+as a scarce resource in the sentencing of criminal defendants;
+"Since, sentencing decisions should be designed to ensure that prison resources are, first and foremost,
+reserved for those violent and serious criminal offenders who pose the most dangerous threat to society;
+"Since, in cases of nonviolent and nonserious offenders, the interests of society as a whole as well as
+individual victims of crime can continue to be served through the imposition of alternative sentences, such as
+restitution and community service;
+"Since, in the two years preceding the enactment of sentencing guidelines, Federal sentencing practice should
+ensure that scarce prison resources are available to house violent and serious criminal offenders by the increased
+use of restitution, community service, and other alternative sentences in cases of nonviolent and nonserious
+offenders: Now, therefore, be it
+"Declared, That it is the sense of the Senate that in the two years preceding the enactment of the sentencing
+guidelines, Federal judges, in determining the particular sentence to be imposed, consider—
+"(1) the nature and circumstances of the offense and the history and characteristics of the defendant;
+410 November 1, 1992
+
+[[PDF page 5]]
+"(2) the general appropriateness of imposing a sentence other than imprisonment in cases in which the
+defendant has not been convicted of a crime of violence or otherwise serious offense; and
+"(3) the general appropriateness of imposing a sentence of imprisonment in cases in which the defendant
+has been convicted of a crime of violence or otherwise serious offense."
+§ 3552. Presentence reports
+(a) Presentence investigation and report by probation officer.-A United States probation officer shall make
+a presentence investigation of a defendant that is required pursuant to the provisions of Rule 32(c) of the Federal
+Rules of Criminal Procedure, and shall, before the imposition of sentence, report the results of the investigation
+to the court.
+(b) Presentence study and report by bureau of prisons.-If the court, before or after its receipt of a report
+specified in subsection (a) or (c), desires more information than is otherwise available to it as a basis for
+determining the sentence to be imposed on a defendant found guilty of a misdemeanor or felony, it may order
+a study of the defendant. The study shall be conducted in the local community by qualified consultants unless
+the sentencing judge finds that there is a compelling reason for the study to be done by the Bureau of Prisons
+or there are no adequate professional resources available in the local community to perform the study. The
+period of the study shall be no more than sixty days. The order shall specify the additional information that the
+court needs before determining the sentence to be imposed. Such an order shall be treated for administrative
+purposes as a provisional sentence of imprisonment for the maximum term authorized by section 3581(b) for
+the offense committed. The study shall inquire into such matters as are specified by the court and any other
+matters that the Bureau of Prisons or the professional consultants believe are pertinent to the factors set forth
+in section 3553(a). The period of the study may, in the discretion of the court, be extended for an additional
+period of not more than sixty days. By the expiration of the period of the study, or by the expiration of any
+extension granted by the court, the United States marshal shall, if the defendant is in custody, return the
+defendant to the court for final sentencing. The Bureau of Prisons or the professional consultants shall provide
+the court with a written report of the pertinent results of the study and make to the court whatever
+recommendations the Bureau or the consultants believe will be helpful to a proper resolution of the case. The
+report shall include recommendations of the Bureau or the consultants concerning the guidelines and policy
+statements, promulgated by the Sentencing Commission pursuant to 28 U.S.C. 994(a), that they believe are
+applicable to the defendant's case. After receiving the report and the recommendations, the court shall proceed
+finally to sentence the defendant in accordance with the sentencing alternatives and procedures available under
+this chapter.
+(c) Presentence examination and report by psychiatric or psychological examiners.-If the court, before or
+after its receipt of a report specified in subsection (a) or (b) desires more information than is otherwise available
+to it as a basis for determining the mental condition of the defendant, the court may order the same psychiatric
+or psychological examination and report thereon as may be ordered under section 4244(b) of this title.
+(d) Disclosure of presentence reports.-The court shall assure that a report filed pursuant to this section is
+disclosed to the defendant, the counsel for the defendant, and the attorney for the Government at least ten days
+prior to the date set for sentencing, unless this minimum period is waived by the defendant. The court shall
+provide a copy of the presentence report to the attorney for the Government to use in collecting an assessment,
+criminal fine, forfeiture or restitution imposed.
+(Added Pub L. 98-473, Title II, § 212(a)(2), Oct. 12,1984,98 Stat. 1988, and amended Pub.L. 99-646, § 7(a), Nov.
+10, 1986, 100 Stat. 3593; Pub.L. 101-647, Title XXXVI, § 3625, Nov. 29, 1990, 104 Stat. 4965).
+411 November 1, 1992
+
+[[PDF page 6]]
+EDITORIAL NOTES
+Effective Date of 1990 Amendment. Amendment by section 3625 of Pub.L. 101-647 effective 180 days after
+Nov. 29, 1990, see section 3631 of Pub.L. 101-647.
+Effective Date of 1986 Amendment. Section 7(b) of Pub.L. 99-646 provided that: "The amendments made
+by this section [amending this section] shall take effect on the date of the taking effect of section 3552 of title
+18, United States Code [this section]."
+Effective Date. Section effective on the first day of first calendar month beginning thirty six months after Oct.
+12, 1984, applicable only to offenses committed after taking effect of sections 211 to 239 of Pub.L. 98-473, and
+except as otherwise provided for therein, see section 235 of Pub.L. 98-473, as amended, set out as a note under
+section 3551 of this title.
+§ 3553. Imposition of a sentence
+(a) Factors to be considered in imposing a sentence.—The court shall impose a sentence sufficient, but not
+greater than necessary, to comply with the purposes set forth in paragraph (2) of this subsection. The court, in
+determining the particular sentence to be imposed, shall consider-
+(1) the nature and circumstances of the offense and the history and characteristics of the defendant;
+(2) the need for the sentence imposed—
+(A) to reflect the seriousness of the offense, to promote respect for the law, and to provide just
+punishment for the offense;
+(B) to afford adequate deterrence to criminal conduct;
+(C) to protect the public from further crimes of the defendant; and
+(D) to provide the defendant with needed educational or vocational training, medical care, or other
+correctional treatment in the most effective manner;
+(3) the kinds of sentences available;
+(4) the kinds of sentence and the sentencing range established for the applicable category of offense
+committed by the applicable category of defendant as set forth in the guidelines that are issued by the
+Sentencing Commission pursuant to 28 U.S.C. 994(a)(l) and that are in effect on the date the defendant is
+sentenced;
+(5) any pertinent policy statement issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(2)
+that is in effect on the date the defendant is sentenced;
+(6) the need to avoid unwarranted sentence disparities among defendants with similar records who have
+been found guilty of similar conduct; and
+(7) the need to provide restitution to any victims of the offense.
+(b) Application of guidelines in imposing a sentence.—The court shall impose a sentence of the kind, and
+within the range, referred to in subsection (a) (4) unless the court finds that there exists an aggravating or
+mitigating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing
+Commission in formulating the guidelines that should result in a sentence different from that described. In
+determining whether a circumstance was adequately taken into consideration, the court shall consider only the
+sentencing guidelines, policy statements, and official commentary of the Sentencing Commission. In the absence
+of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the
+purposes set forth in subsection (a) (2). In the absence of an applicable sentencing guideline in the case of an
+offense other than a petty offense, the court shall also have due regard for the relationship of the sentence
+imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, and to the applicable
+policy statements of the Sentencing Commission.
+412 November 1, 1992
+
+[[PDF page 7]]
+(c) Statement of reasons for imposing a sentence.—The court, at the time of sentencing, shall state in open
+court the reasons for its imposition of the particular sentence, and, if the sentence-
+(1) is of the kind, and within the range, described in subsection (a)(4), and that range exceeds 24 months,
+the reason for imposing a sentence at a particular point within the range; or
+(2) is not of the kind, or is outside the range, described in subsection (a)(4), the specific reason for the
+imposition of a sentence different from that described.
+If the court does not order restitution, or orders only partial restitution, the court shall include in the statement
+the reason therefor. The court shall provide a transcription or other appropriate public record of the court's
+statement of reasons to the Probation System, and, if the sentence includes a term of imprisonment, to the
+Bureau of Prisons.
+(d) Presentence procedure for an order of notice.-Prior to imposing an order of notice pursuant to section
+3555, the court shall give notice to the defendant and the Government that it is considering imposing such an
+order. Upon motion of the defendant or the Government, or on its own motion, the court shall—
+(1) permit the defendant and the Government to submit affidavits and written memoranda addressing
+matters relevant to the imposition of such an order;
+(2) afford counsel an opportunity in open court to address orally the appropriateness of the imposition
+of such an order; and
+(3) include in its statement of reasons pursuant to subsection (c) specific reasons underlying its
+determinations regarding the nature of such an order.
+Upon motion of the defendant or the Government, or on its own motion, the court may in its discretion employ
+any additional procedures that it concludes will not unduly complicate or prolong the sentencing process.
+(e) Limited authority to impose a sentence below a statutory minimum.—Upon motion of the Government,
+the court shall have the authority to impose a sentence below a level established by statute as minimum sentence
+so as to reflect a defendant's substantial assistance in the investigation or prosecution of another person who has
+committed an offense. Such sentence shall be imposed in accordance with the guidelines and policy statements
+issued by the Sentencing Commission pursuant to section 994 of title 28, United States Code.
+(Added Pub.L. 98-473, Title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 1989, and amended Pub.L. 99-570, Title I,
+§ 1007(b), Oct. 27,1986,100 Stat. 3707-7; Pub.L. 99-646, §§ 8(a), 9(a), 80(a), 81(a), Nov. 10,1986,100 Stat. 3593,
+3619; PubX. 100-182, §§ 3,16(a), (17), Dec. 7,1987,101 Stat. 1266,1269,1270; Pub.L. 100-690, Title VII, § 7102,
+Nov. 18, 1988, 102 Stat. 4416.)
+EDITORIAL NOTES
+Effective Date of 1987 Amendment. Amendment by Pub.L. 100-182 applicable with respect to offenses
+committed after enactment of Pub.L. 100-182, which was approved Dec. 7,1987, see section 26 of Pub.L. 100-182.
+Effective Date of 1986 Amendment. Section 8(c) of Pub.L. 99-646 provided that: "The amendments made
+by this section [amending subsec. (a) of this section and section 3663 of this title] shall take effect on the date
+of the taking effect of section 3553 of title 18, United States Code [this section].11
+Section 9(b) of Pub.L. 99-646 provided that: "The amendments made by this section [subsec. (b) of this
+section] shall take effect on the date of the taking effect of section 3553 of title 18, United States Code [this
+section]."
+Section 80(b) of Pub.L. 99-646 provided that: "The amendments made by this section [amending subsec. (d)
+of this section] shall take effect on the date of the taking effect of section 212(a)(2) of the Sentencing Reform
+Act of 1984 [see Effective Date note below]."
+Section 81(b) of Pub.L. 99-646 provided that: "-The amendments made by this section [amending subsec.
+(a) of this section] shall take effect on the date of the taking effect of section 212(a)(2) of the Sentencing Reform
+Act of 1984 [see Effective Date note below]."
+413 November 1, 1992
+
+[[PDF page 8]]
+Section 1007(b) of Pub.L. 99-570 provided that: "(b) The amendment made by this section [enacting subsec.
+(d) of this section] shall take effect on the date of the taking effect of section 3553 of title 18, United States Code
+[this section]."
+Effective Date. Section effective on the first day of first calendar month beginning thirty six months after Oct.
+12, 1984, applicable only to offenses committed after taking effect of sections 211 to 239 of Pub.L. 98-473, and
+except as otherwise provided for therein, see section 235 of Pub.L. 98-473, as amended, set out as a note under
+section 3551 of this title.
+Authority to Lower Sentences Below Statutory Minimum for Old Offenses. Section 24 of Pub.L. 100-182
+provided that: "Notwithstanding section 235 of the Comprehensive Crime Control Act of 1984 [section 235 of
+Pub.L. 98-473, set out as a note under section 3551 of this title]—
+"(1) section 3553(e) of title 18, United States Code [subsec. (e) of this section];
+"(2) rule 35(b) of the Federal Rules of Criminal Procedure as amended by section 215(b) of such Act;
+and
+"(3) rule 35(b) as in effect before the taking effect of the initial set of guidelines promulgated by the
+United States Sentencing Commission pursuant to chapter 58 of title 28, United States Code [sections 991
+et seq. of Title 28, Judiciary and Judicial Procedure],
+shall apply in the case of an offense committed before the taking effect of such guidelines."
+§ 3554. Order of criminal forfeiture
+The court, in imposing a sentence on a defendant who has been found guilty of an offense described in
+section 1962 of this title or in title II or III of the Comprehensive Drug Abuse Prevention and Control Act of
+1970 shall order, in addition to the sentence that is imposed pursuant to the provisions of section 3551, that the
+defendant forfeit property to the United States in accordance with the provisions of section 1963 of this title or
+section 413 of the Comprehensive Drug Abuse and Control Act of 1970.
+(Added Pub.L. 98-473, Title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 1990.)
+EDITORIAL NOTES
+References in Text. Title II or III of the Comprehensive Drug Abuse Prevention and Control Act of 1970,
+referred to in text, are Titles II and III of Pub.L. 91-513, Oct. 27, 1970, 84 Stat. 1242, which are principally
+classified to subchapters I and II of chapter 13 of Title 21, Food and Drugs.
+Section 413 of such Act, referred to in text, is section 413 of Pub.L. 91-513, added Pub.L. 98-473, Title II,
+c. Ill, part B, § 303, Oct. 12, 1984, 98 Stat. 2044, which is classified to section 853 of Title 21.
+Effective Date. Section effective on the first day of first calendar month beginning thirty six months after Oct.
+12, 1984, applicable only to offenses committed after taking effect of sections 211 to 239 of Pub.L. 98-473, and
+except as otherwise provided for therein, see section 235 of Pub.L. 98-473, as amended, set out as a note under
+section 3551 of this title.
+§ 3555. Order of notice to victims
+The court, in imposing a sentence on a defendant who has been found guilty of an offense involving fraud
+or other intentionally deceptive practices, may order, in addition to the sentence that is imposed pursuant to the
+provisions of section 3551, that the defendant give reasonable notice and explanation of the conviction, in such
+form as the court may approve, to the victims of the offense. The notice may be ordered to be given by mail,
+by advertising in designated areas or through designated media, or by other appropriate means. In determining
+414 November 1, 1992
+
+[[PDF page 9]]
+whether to require the defendant to give such notice, the court shall consider the factors set forth in section
+3553(a) to the extent that they are applicable and shall consider the cost involved in giving the notice as it relates
+to the loss caused by the offense, and shall not require the defendant to bear the costs of notice in excess of
+$20,000.
+(Added Pub.L. 98-473, Title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 1991.)
+EDITORIAL NOTES
+Effective Date. Section effective on the first day of first calendar month beginning thirty six months after Oct.
+12,1984, applicable only to offenses committed after taking effect of sections 211 to 239 of Pub.L. 98-473, and
+except as otherwise provided for therein, see section 235 of Pub.L. 98-473, as amended, set out as a note under
+section 3551 of this title.
+§ 3556. Order of restitution
+The court, in imposing a sentence on a defendant who has been found guilty of an offense may order
+restitution in accordance with sections 3663 and 3664.
+(Added Pub.L. 98-473, Title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 1991, and amended Pub.L. 99-646, § 20(b),
+Nov. 10, 1986, 100 Stat. 3596.)
+EDITORIAL NOTES
+Effective Date of 1986 Amendment. Section 20(c) of Pub.L. 99-646 provided that: "The amendments made
+by this section [amending this section and section 3663 of this title] shall take effect on the date of the taking
+effect of section 212(a)(2) of the Sentencing Reform Act of 1984 [see Effective Date note below]."
+Effective Date. Section effective on the first day of first calendar month beginning thirty six months after Oct.
+12, 1984, applicable only to offenses committed after taking effect of sections 211 to 239 of Pub.L. 98-473, and
+except as otherwise provided for therein, see section 235 of Pub.L. 98-473, as amended, set out as a note under
+section 3551 of this title.
+§ 3557. Review of a sentence
+The review of a sentence imposed pursuant to section 3551 is governed by the provisions of section 3742.
+(Added Pub.L. 98-473, Title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 1991.)
+EDITORIAL NOTES
+Effective Date. Section effective on the first day of first calendar month beginning thirty six months after Oct.
+12 1984, applicable only to offenses committed after taking effect of sections 211 to 239 of Pub.L. 98-473, and
+except as otherwise provided for therein, see section 235 of Pub.L. 98-473, as amended, set out as a note under
+section 3551 of this title.
+415 November 1, 1992
+
+[[PDF page 10]]
+§ 3558. Implementation of a sentence
+The implementation of a sentence imposed pursuant to section 3551 is governed by the provisions of chapter
+229.
+(Added Pub.L. 98-473, Title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 1991.)
+EDITORIAL NOTES
+Effective Date. Section effective on the first day of first calendar month beginning thirty six months after Oct.
+12, 1984, applicable only to offenses committed after taking effect of sections 211 to 239 of Pub.L. 98-473, and
+except as otherwise provided for therein, see section 235 of Pub.L. 98-473, as amended, set out as a note under
+section 3551 of this title.
+§ 3559. Sentencing classification of offenses
+(a) Classification,—An offense that is not specifically classified by a letter grade in the section defining it,
+is classified if the maximum term of imprisonment authorized is—
+(1) life imprisonment, or if the maximum penalty is death, as a Class A felony;
+(2) twenty-five years or more, as a Class B felony;
+(3) less than twenty-five years but ten or more years, as a Class C felony,
+(4) less than ten years but five or more years, as a Class D felony;
+(5) less than five years but more than one year, as a Class E felony;
+(6) one year or less but more than six months, as a Class A misdemeanor;
+(7) six months or less but more than thirty days, as a Class B misdemeanor;
+(8) thirty days or less but more than five days, as a Class C misdemeanor; or
+(9) five days or less, or if no imprisonment is authorized, as an infraction.
+(b) Effect of classification.—An offense classified under subsection (a) carries all the incidents assigned to
+the applicable letter designation, except that the maximum term of imprisonment is the term authorized by the
+law describing the offense.
+(Added Pub.L. 98-473, Title II, § 212(a)(2), Oct. 12,1984, 98 Stat. 1991, and amended Pub.L. 100-185, § 5, Dec.
+11, 1987, 101 Stat. 1279; PubX. 100-690, Title VII, § 7041, Nov. 18, 1988, 102 Stat. 4399.)
+EDITORIAL NOTES
+Effective Date. Section effective on the first day of first calendar month beginning thirty six months after Oct.
+12, 1984, applicable only to offenses committed after taking effect of sections 211 to 239 of Pub.L. 98-473, and
+except as otherwise provided for therein, see section 235 of Pub.L. 98-473, as amended, set out as a note under
+section 3551 of this title.
+SUBCHAPTER B-PROBATION
+Section
+3561. Sentence of probation.
+3562. Imposition of a sentence of probation.
+3563. Conditions of probation.
+3564. Running of a term of probation.
+3565. Revocation of probation.
+3566. Implementation of a sentence of probation.
+416 November 1, 1992
+
+[[PDF page 11]]
+§ 3561. Sentence of probation
+(a) In general.-A defendant who has been found guilty of an offense may be sentenced to a term of
+probation unless—
+(1) the offense is a Class A or Class B felony and the defendant is an individual;
+(2) the offense is an offense for which probation has been expressly precluded; or
+(3) the defendant is sentenced at the same time to a term of imprisonment for the same or a different
+offense.
+(b) Authorized terms.—The authorized terms of probation are—
+(1) for a felony, not less than one nor more than five years;
+(2) for a misdemeanor, not more than five years; and
+(3) for an infraction, not more than one year.
+(Added Pub.L. 98-473, Title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 1992, and amended Pub.L. 99-646, § 10(a),
+Nov. 10, 1986, 100 Stat. 3593; Pub.L. 100-182, § 7, Dec. 7, 1987, 101 Stat. 1267.)
+EDITORIAL NOTES
+Effective Date of 1987 Amendment. Amendment by Pub.L. 100-182 applicable with respect to offenses
+committed after enactment of Pub.L. 100-182, which was approved Dec. 7,1987, see section 26 of Pub.L. 100-182.
+Effective Date of 1986 Amendment. Section 10(b) of Pub.L. 99-646 provided that: "The amendment made
+by this section [amending subsec. (a) of this section] shall take effect on the date of the taking effect of such
+section 3561(a) [subsec. (a) of this section]."
+Effective Date. Section effective on the first day of first calendar month beginning thirty six months after Oct.
+12, 1984, applicable only to offenses committed after taking effect of sections 211 to 239 of Pub.L. 98-473, and
+except as otherwise provided for therein, see section 235 of Pub.L. 98-473, as amended, set out as a note under
+section 3551 of this title.
+§ 3562. Imposition of a sentence of probation
+(a) Factors to be considered in imposing a term of probation.-The court, in determining whether to impose
+a term of probation, and, if a term of probation is to be imposed, in determining the length of the term and the
+conditions of probation, shall consider the factors set forth in section 3553(a) to the extent that they are
+applicable.
+(b) Effect of finality of judgment.-Notwithstanding the fact that a sentence of probation can subsequently
+be-
+(1) modified or revoked pursuant to the provisions of section 3564 or 3565;
+(2) corrected pursuant to the provisions of rule 35 of the Federal Rules of Criminal Procedure and
+section 3742; or
+(3) appealed and modified, if outside the guideline range, pursuant to the provisions of section 3742;
+a judgment of conviction that includes such a sentence constitutes a final judgment for all other purposes.
+(Added Pub.L. 98-473, Title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 1992, and amended Pub.L. 101-647, Title
+XXXV, § 3583, Nov. 29, 1990, 104 Stat. 4930.)
+417 November 1, 1992
+
+[[PDF page 12]]
+EDITORIAL NOTES
+Effective Date. Section effective on the first day of first calendar month beginning thirty six months after Oct.
+12, 1984, applicable only to offenses committed after taking effect of sections 211 to 239 of Pub.L. 98-473, and
+except as otherwise provided for therein, see section 235 of Pub.L. 98-473, as amended, set out as a note under
+section 3551 of this title.
+§ 3563. Conditions of probation
+(a) Mandatory conditions.—The court shall provide, as an explicit condition of a sentence of probation—
+(1) for a felony, a misdemeanor, or an infraction, that the defendant not commit another Federal, State,
+or local crime during the term of probation;
+(2) for a felony, that the defendant also abide by at least one condition set forth in subsection (b)(2),
+(b)(3), or (b)(13), unless the court finds on the record that extraordinary circumstances exist that would
+make such a condition plainly unreasonable, in which event the court shall impose one or more of the other
+conditions set forth under subsection (b); and
+(3) for a felony, a misdemeanor, or an infraction, that the defendant not possess illegal controlled
+substances.
+If the court has imposed and ordered execution of a fine and placed the defendant on probation, payment of the
+fine or adherence to the court-established installment schedule shall be a condition of the probation.
+(b) Discretionary conditions.—The court may provide, as further conditions of a sentence of probation, to
+the extent that such conditions are reasonably related to the factors set forth in section 3553(a)(l) and (a) (2)
+and to the extent that such conditions involve only such deprivations of liberty or property as are reasonably
+necessary for the purposes indicated in section 3553(a)(2), that the defendant—
+(1) support his dependents and meet other family responsibilities;
+(2) pay a fine imposed pursuant to the provisions of subchapter C;
+(3) make restitution to a victim of the offense under sections 3663 and 3664 (but not subject to the
+limitations of section 3663(a));
+(4) give to the victims of the offense the notice ordered pursuant to the provisions of section 3555;
+(5) work conscientiously at suitable employment or pursue conscientiously a course of study or vocational
+training that will equip him for suitable employment;
+(6) refrain, in the case of an individual, from engaging in a specified occupation, business, or profession
+bearing a reasonably direct relationship to the conduct constituting the offense, or engage in such a specified
+occupation, business, or profession only to a stated degree or under stated circumstances;
+(7) refrain from frequenting specified kinds of places or from associating unnecessarily with specified
+persons;
+(8) refrain from excessive use of alcohol, or any use of a narcotic drug or other controlled substance,
+as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802), without a prescription by a
+licensed medical practitioner;
+(9) refrain from possessing a firearm, destructive device, or other dangerous weapon;
+(10) undergo available medical, psychiatric, or psychological treatment, including treatment for drug or
+alcohol dependency, as specified by the court, and remain in a specified institution if required for that
+purpose;
+(11) remain in the custody of the Bureau of Prisons during nights, weekends, or other intervals of time,
+totaling no more than the lesser of one year or the term of imprisonment authorized for the offense, during
+the first year of the term of probation;
+(12) reside at, or participate in the program of, a community corrections facility (including a facility
+maintained or under contract to the Bureau of Prisons) for all or part of the term of probation;
+(13) work in community service as directed by the court;
+(14) reside in a specified place or area, or refrain from residing in a specified place or area;
+418 November 1, 1992
+
+[[PDF page 13]]
+(15) remain within the jurisdiction of the court, unless granted permission to leave by the court or a
+probation officer;
+(16) report to a probation officer as directed by the court or the probation officer;
+(17) permit a probation officer to visit him at his home or elsewhere as specified by the court;
+(18) answer inquiries by a probation officer and notify the probation officer promptly of any change in
+address or employment;
+(19) notify the probation officer promptly if arrested or questioned by a law enforcement officer;
+(20) remain at his place of residence during nonworking hours and, if the court finds it appropriate, that
+compliance with this condition be monitored by telephonic or electronic signaling devices, except that a
+condition under this paragraph may be imposed only as an alternative to incarceration; or
+(21) satisfy such other conditions as the court may impose.
+(c) Modifications of conditions.-The court may modify, reduce, or enlarge the conditions of a sentence of
+probation at any time prior to the expiration or termination of the term of probation, pursuant to the provisions
+of the Federal Rules of Criminal Procedure relating to the modification of probation and the provisions
+applicable to the initial setting of the conditions of probation.
+(d) Written statement of conditions.-The court shall direct that the probation officer provide the defendant
+with a written statement that sets forth all the conditions to which the sentence is subject, and that is sufficiently
+clear and specific to serve as a guide for the defendant's conduct and for such supervision as is required.
+(Added Pub.L. 98-473, Title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 1993, and amended Pub.L. 99-646, §§ ll(a),
+12(a), Nov. 10,1986,100 Stat. 3594; Pub.L. 100-182, §§ 10,18, Dec. 7,1987,101 Stat. 1267,1270; Pub.L. 100-690,
+Title VII, §§ 7086,7110,7303(a)(l), 7305(a), Nov. 18,1988,102 Stat. 4408,4419,4464,4465; Pub.L. 101-647, Title
+XXXV, § 3584, Nov. 29, 1990, 104 Stat. 4430.)
+EDITORIAL NOTES
+Codification. Amendment by section 3584(1) of Pub.L. 101-647 directed the substitution of "defendant" for
+"defendent" in subsec. (a) (3). Such substitution had already been editorially executed, therefore, no further
+change was required.
+Effective Date of 1988 Amendment. Section 7303(d) of Pub.L. 100-690 provided that: "The amendments made
+by this section [amending this section and sections 3565,3583,4209, and 4214 of this title] shall apply with respect
+to persons whose probation, supervised release, or parole begins after December 31, 1988."
+Effective Date of 1987 Amendment. Amendment by Pub.L. 100-182 applicable with respect to offenses
+committed after enactment of Pub.L. 100-182, which was approved Dec. 7,1987, see section 26 of Pub.L. 100-182.
+Effective Date of 1986 Amendment. Section ll(b) of Pub.L. 99-646 provided that: "The amendment made
+by this section [amending subsec. (b)(ll) of this section] shall take effect on the date of the taking effect of such
+section 3563(b)(ll) [subsec. (b)(ll) of this section]."
+Section 12(c)(l) of Pub.L. 99-646 provided that: "The amendments made by subsection (a) [amending subsec.
+(c) of this section] shall take effect on the date of the taking effect of such section 3563(c) [subsec. (c) of this
+section]."
+Effective Date. Section effective on the first day of first calendar month beginning thirty six months after Oct.
+12 1984 applicable only to offenses committed after taking effect of sections 211 to 239 of Pub.L. 98-473, and
+except a's otherwise provided for therein, see section 235 of Pub.L. 98-473, as amended, set out as a note under
+section 3551 of this title.
+419 November 1, 1992
+
+[[PDF page 14]]
+§ 3564. Running of a term of probation
+(a) Commencement.-A term of probation commences on the day that the sentence of probation is imposed,
+unless otherwise ordered by the court.
+(b) Concurrence with other sentences.—Multiple terms of probation, whether imposed at the same time or
+at different times, run concurrently with each other. A term of probation runs concurrently with any Federal,
+State, or local term of probation, supervised release, or parole for another offense to which the defendant is
+subject or becomes subject during the term of probation. A term of probation does not run while the defendant
+is imprisoned in connection with a conviction for a Federal, State, or local crime unless the imprisonment is for
+a period of less than thirty consecutive days.
+(c) Early termination.—The court, after considering the factors set forth in section 3553(a) to the extent that
+they are applicable, may, pursuant to the provisions of the Federal Rules of Criminal Procedure relating to the
+modification of probation, terminate a term of probation previously ordered and discharge the defendant at any
+time in the case of a misdemeanor or an infraction or at any time after the expiration of one year of probation
+in the case of a felony, if it is satisfied that such action is warranted by the conduct of the defendant and the
+interest of justice.
+(d) Extension.—The court may, after a hearing, extend a term of probation, if less than the maximum
+authorized term was previously imposed, at any time prior to the expiration or termination of the term of
+probation, pursuant to the provisions applicable to the initial setting of the term of probation.
+(e) Subject to revocation.-A sentence of probation remains conditional and subject to revocation until its
+expiration or termination.
+(Added Pub.L. 98-473, Title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 1994, and amended Pub.L. 99-646, § 13(a),
+Nov. 10, 1986, 100 Stat. 3594; PubX. 100-182, § 11, Dec. 7, 1987, 101 Stat. 1268.)
+EDITORIAL NOTES
+Effective Date of 1987 Amendment. Amendment by Pub.L. 100-182 applicable with respect to offenses
+committed after enactment of Pub.L. 100-182, which was approved Dec. 7,1987, see section 26 of Pub.L. 100-182.
+Effective Date of 1986 Amendment. Section 13(b) of Pub.L. 99-646 provided that: "The amendments made
+by this section [amending subsec. (b) of this section] shall take effect on the date of the taking effect of such
+section 3564 [this section]."
+Effective Date. Section effective on the first day of first calendar month beginning thirty six months after Oct.
+12, 1984, applicable only to offenses committed after taking effect of sections 211 to 239 of Pub.L. 98-473, and
+except as otherwise provided for therein, see section 235 of Pub.L. 98-473, as amended, set out as a note under
+section 3551 of this title.
+§ 3565. Revocation of probation
+(a) Continuation or revocation.—If the defendant violates a condition of probation at any time prior to the
+expiration or termination of the term of probation, the court may, after a hearing pursuant to Rule 32.1 of the
+Federal Rules of Criminal Procedure, and after considering the factors set forth in section 3553(a) to the extent
+that they are applicable—
+(1) continue him on probation, with or without extending the term or modifying or enlarging the
+conditions; or
+420 November 1, 1992
+
+[[PDF page 15]]
+(2) revoke the sentence of probation and impose any other sentence that was available under subchapter
+A at the time of the initial sentencing.
+Notwithstanding any other provision of this section, if a defendant is found by the court to be in possession of
+a controlled substance, thereby violating the condition imposed by section 3563(a)(3), the court shall revoke the
+sentence of probation and sentence the defendant to not less than one-third of the original sentence.
+(b) Mandatory revocation for possession of a fireann.-If the defendant is in actual possession of a firearm,
+as that term is defined in section 921 of this title, at any time prior to the expiration or termination of the term
+of probation, the court shall, after a hearing pursuant to Rule 32.1 of the Federal Rules of Criminal Procedure,
+revoke the sentence of probation and impose any other sentence that was available under subchapter A at the
+time of the initial sentencing.
+(c) Delayed revocation.—The power of the court to revoke a sentence of probation for violation of a condition
+of probation, and to impose another sentence, extends beyond the expiration of the term of probation for any
+period reasonably necessary for the adjudication of matters arising before its expiration if, prior to its expiration,
+a warrant or summons has been issued on the basis of an allegation of such a violation.
+(Added Pub.L. 98-473, Title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 1995, amended Pub.L. 100-690, Title VI,
+§ 6214, Title VII, § 7303(a)(2), Nov. 18, 1988, 102 Stat. 4361, 4464; Pub.L. 101-647, Title XXXV, § 3585, Nov.
+29, 1990, 104 Stat. 4930.)
+EDITORIAL NOTES
+Effective Date of 1988 Amendment. Amendment by section 7303(a)(2) of Pub.L. 100-690 applicable with
+respect to persons whose probation, supervised release, or parole begins after Dec. 31,1988, see section 7303(d)
+of Pub.L. 100-690, set out as a note under section 3563 of this title.
+Effective Date. Section effective on the first day of first calendar month beginning thirty six months after Oct.
+12, 1984, applicable only to offenses committed after taking effect of sections 211 to 239 of Pub.L. 98-473, and
+except as otherwise provided for therein, see section 235 of Pub.L. 98-473, as amended, set out as a note under
+section 3551 of this title.
+§ 3566. Implementation of a sentence of probation
+The implementation of a sentence of probation is governed by the provisions of subchapter A of chapter 229.
+(Added Pub.L. 98-473, Title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 1995.)
+EDITORIAL NOTES
+Effective Date. Section effective on the first day of first calendar month beginning thirty six months after Oct.
+12 1984 applicable only to offenses committed after taking effect of sections 211 to 239 of Pub.L. 98-473, and
+except as otherwise provided for therein, see section 235 of Pub.L. 98-473, as amended, set out as a note under
+section 3551 of this title.
+421 November 1, 1992
+
+[[PDF page 16]]
+SUBCHAPTER C-FINES
+Section
+3571. Sentence of fine.
+3572. Imposition of a sentence of fine and related matters.
+3573. Petition of the Government for modification or remission.
+3574. Implementation of a sentence of fine.
+§ 3571. Sentence of fine
+(a) In general.-A defendant who has been found guilty of an offense may be sentenced to pay a fine.
+(b) Fines for individuals.—Except as provided in subsection (e) of this section, an individual who has been
+found guilty of an offense may be fined not more than the greatest of-
+(1) the amount specified in the law setting forth the offense;
+(2) the applicable amount under subsection (d) of this section;
+(3) for a felony, not more than $250,000;
+(4) for a misdemeanor resulting in death, not more than $250,000;
+(5) for a Class A misdemeanor that does not result in death, not more than $100,000;
+(6) for a Class B or C misdemeanor that does not result in death, not more than $5,000; or
+(7) for an infraction, not more than $5,000.
+(c) Fines for organizations.—Except as provided in subsection (e) of this section, an organization that has
+been found guilty of an offense may be fined not more than the greatest of—
+(1) the amount specified in the law setting forth the offense;
+(2) the applicable amount under subsection (d) of this section;
+(3) for a felony, not more than $500,000;
+(4) for a misdemeanor resulting in death, not more than $500,000;
+(5) for a Class A misdemeanor that does not result in death, not more than $200,000;
+(6) for a Class B or C misdemeanor that does not result in death, not more than $10,000; and
+(7) for an infraction, not more than $10,000.
+(d) Alternative fine based on gain or loss.—If any person derives pecuniary gain from the offense, or if the
+offense results in pecuniary loss to a person other than the defendant, the defendant may be fined not more than
+the greater of twice the gross gain or twice the gross loss, unless imposition of a fine under this subsection would
+unduly complicate or prolong the sentencing process.
+(e) Special rule for lower fine specified in substantive provision.-If a law setting forth an offense specifies
+no fine or a fine that is lower than the fine otherwise applicable under this section and such law, by specific
+reference, exempts the offense from the applicability of the fine otherwise applicable under this section, the
+defendant may not be fined more than the amount specified in the law setting forth the offense.
+(Added Pub.L. 98-473, Title II, § 212(a)(2), Oct. 12,1984, 98 Stat. 1995, and amended Pub.L. 100-185, § 6, Dec.
+11, 1987, 101 Stat. 1280.)
+EDITORIAL NOTES
+Effective Date. Section effective on the first day of first calendar month beginning thirty six months after Oct.
+12, 1984, applicable only to offenses committed after taking effect of sections 211 to 239 of Pub.L. 98-473, and
+except as otherwise provided for therein, see section 235 of Pub.L. 98-473, as amended, set out as a note under
+section 3551 of this title.
+422 November 1, 1992
+
+[[PDF page 17]]
+§ 3572. Imposition of a sentence of fine and related matters
+(a) Factors to be considered.-In determining whether to impose a fine, and the amount, time for payment,
+and method of payment of a fine, the court shall consider, in addition to the factors set forth in section 3553(a)-
+(1) the defendant's income, earning capacity, and financial resources;
+(2) the burden that the fine will impose upon the defendant, any person who is financially dependent on
+the defendant, or any other person (including a government) that would be responsible for the welfare of
+any person financially dependent on the defendant, relative to the burden that alternative punishments would
+impose;
+(3) any pecuniary loss inflicted upon others as a result of the offense;
+(4) whether restitution is ordered or made and the amount of such restitution;
+(5) the need to deprive the defendant of illegally obtained gains from the offense;
+(6) whether the defendant can pass on to consumers or other persons the expense of the fine; and
+(7) if the defendant is an organization, the size of the organization and any measure taken by the
+organization to discipline any officer, director, employee, or agent of the organization responsible for the
+offense and to prevent a recurrence of such an offense.
+(b) Fine not to impair ability to make restitution.-If, as a result of a conviction, the defendant has the
+obligation to make restitution to a victim of the offense, the court shall impose a fine or other monetary penalty
+only to the extent that such fine or penalty will not impair the ability of the defendant to make restitution.
+(c) Effect of finality of judgment-Notwithstanding the fact that a sentence to pay a fine can subsequently
+be-
+(1) modified or remitted under section 3573;
+(2) corrected under rule 35 of the Federal Rules of Criminal Procedure and section 3742; or
+(3) appealed and modified under section 3742;
+a judgment that includes such a sentence is a final judgment for all other purposes.
+(d) Time, method of payment, and related items.-A person sentenced to pay a fine or other monetary
+penalty shall make such payment immediately, unless, in the interest of justice, the court provides for payment
+on a date certain or in installments. If the court provides for payment in installments, the installments shall be
+in equal monthly payments over the period provided by the court, unless the court establishes another schedule.
+If the judgment permits other than immediate payment, the period provided for shall not exceed five years,
+excluding any period served by the defendant as imprisonment for the offense.
+(e) Alternative sentence precluded.—At the time a defendant is sentenced to pay a fine, the court may not
+impose an alternative sentence to be carried out if the fine is not paid.
+(f) Responsibility for payment of monetary obligation relating to organization.-If a sentence includes a fine,
+special assessment, or other monetary obligation (including interest) with respect to an organization, each
+individual authorized to make disbursements for the organization has a duty to pay the obligation from assets
+of the organization. If such an obligation is imposed on a director, officer, shareholder, employee, or agent of
+an organization, payments may not be made, directly or indirectly, from assets of the organization, unless the
+court finds that such payment is expressly permissible under applicable State law.
+(g) Security for stayed fine.-If a sentence imposing a fine is stayed, the court shall, absent exceptional
+circumstances (as determined by the court)—
+(1) require the defendant to deposit, in the registry of the district court, any amount of the fine that is
+due;
+(2) require the defendant to provide a bond or other security to ensure payment of the fine; or
+(3) restrain the defendant from transferring or dissipating assets.
+423 November 1, 1992
+
+[[PDF page 18]]
+(h) Delinquency.—A fine is delinquent if a payment is more than 30 days late.
+(i) Default.—A fine is in default if a payment is delinquent for more than 90 days. When a fine is in default,
+the entire amount of the fine is due within 30 days after notification of the default, notwithstanding any
+installment schedule.
+[(j) Redesignated (i)]
+(Added Pub.L. 98-473, Title II, § 212(a)(2), Oct. 12,1984, 98 Stat. 1995, and amended Pub.L. 100-185, § 7, Dec.
+11, 1987, 101 Stat. 1280; Pub.L. 101-647, Title XXXV, § 3587, Nov. 29, 1990, 104 Stat. 4930.)
+EDITORIAL NOTES
+Effective Date. Section effective on the first day of first calendar month beginning thirty six months after Oct.
+12, 1984, applicable only to offenses committed after taking effect of sections 211 to 239 of Pub.L. 98-473, and
+except as otherwise provided for therein, see section 235 of Pub.L. 98-473, as amended, set out as a note under
+section 3551 of this title.
+§ 3573. Petition of the Government for modification or remission
+Upon petition of the Government showing that reasonable efforts to collect a fine or assessment are not
+likely to be effective, the court may, in the interest of justice-
+(1) remit all or part of the unpaid portion of the fine or special assessment, including interest and
+penalties;
+(2) defer payment of the fine or special assessment to a date certain or pursuant to an installment
+schedule; or
+(3) extend a date certain or an installment schedule previously ordered.
+A petition under this subsection shall be filed in the court in which sentence was originally imposed, unless the
+court transfers jurisdiction to another court. This section shall apply to all fines and assessments irrespective of
+the date of imposition.
+(Added Pub.L. 98-473, Title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 1997, and amended Pub.L. 100-185, § 8(a),
+Dec. 11, 1987, 101 Stat. 1282; Pub.L. 100-690, Title VII, § 7082(a), Nov. 18, 1988, 102 Stat. 4407.)
+EDITORIAL NOTES
+Effective Date. Section effective on the first day of first calendar month beginning thirty six months after Oct.
+12, 1984, applicable only to offenses committed after taking effect of sections 211 to 239 of Pub.L. 98-473, and
+except as otherwise provided for therein, see section 235 of Pub.L. 98-473, as amended, set out as a note under
+section 3551 of this title.
+§ 3574. Implementation of a sentence of fine
+The implementation of a sentence to pay a fine is governed by the provisions of subchapter B of chapter 229.
+(Added Pub.L. 98-473, Title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 1997.)
+424 November 1, 1992
+
+[[PDF page 19]]
+EDITORIAL NOTES
+Effective Date. Section effective on the first day of first calendar month beginning thirty six months after Oct.
+12, 1984, applicable only to offenses committed after taking effect of sections 211 to 239 of Pub.L. 98-473, and
+except as otherwise provided for therein, see section 235 of Pub.L. 98-473, as amended, set out as a note under
+section 3551 of this title.
+SUBCHAPTER D-IMPRISONMENT
+Section
+3581. Sentence of imprisonment.
+3582. Imposition of a sentence of imprisonment.
+3583. Inclusion of a term of supervised release after imprisonment.
+3584. Multiple sentences of imprisonment.
+3585. Calculation of a term of imprisonment.
+3586. Implementation of a sentence of imprisonment.
+§ 3581. Sentence of imprisonment
+(a) In general.—A defendant who has been found guilty of an offense may be sentenced to a term of
+imprisonment.
+(b) Authorized terms.—The authorized terms of imprisonment are—
+(1) for a Class A felony, the duration of the defendant's life or any period of time;
+(2) for a Class B felony, not more than twenty-five years;
+(3) for a Class C felony, not more than twelve years;
+(4) for a Class D felony, not more than six years;
+(5) for a Class E felony, not more than three years;
+(6) for a Class A misdemeanor, not more than one year;
+(7) for a Class B misdemeanor, not more than six months;
+(8) for a Class C misdemeanor, not more than thirty days; and
+(9) for an infraction, not more than five days.
+(Added Pub.L. 98-473, Title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 1998.)
+EDITORIAL NOTES
+Effective Date. Section effective on the first day of first calendar month beginning thirty six months after Oct.
+12, 1984, applicable only to offenses committed after taking effect of sections 211 to 239 of Pub.L. 98-473, and
+except as otherwise provided for therein, see section 235 of Pub.L. 98-473, as amended, set out as a note under
+section 3551 of this title.
+§ 3582. Imposition of a sentence of imprisonment
+(a) Factors to be considered in imposing a term of imprisonment.-The court, in determining whether to
+impose a term of imprisonment, and, if a term of imprisonment is to be imposed, in determining the length of
+the term, shall consider the factors set forth in section 3553(a) to the extent that they are applicable, recognizing
+that imprisonment is not an appropriate means of promoting correction and rehabilitation. In determining
+whether to make a recommendation concerning the type of prison facility appropriate for the defendant, the
+425 November 1, 1992
+
+[[PDF page 20]]
+court shall consider any pertinent policy statements issued by the Sentencing Commission pursuant to 28 U.S.C.
+994(a)(2).
+(b) Effect of finality of judgment.—Notwithstanding the fact that a sentence to imprisonment can
+subsequently be—
+(1) modified pursuant to the provisions of subsection (c);
+(2) corrected pursuant to the provisions of rule 35 of the Federal Rules of Criminal Procedure and
+section 3742; or
+(3) appealed and modified, if outside the guideline range, pursuant to the provisions of section 3742;
+a judgment of conviction that includes such a sentence constitutes a final judgment for all other purposes.
+(c) Modification of an imposed term of imprisonment.—The court may not modify a term of imprisonment
+once it has been imposed except that—
+(1) in any case—
+(A) the court, upon motion of the Director of the Bureau of Prisons, may reduce the term of
+imprisonment, after considering the factors set forth in section 3553(a) to the extent that they are
+applicable, if it finds that extraordinary and compelling reasons warrant such a reduction and that such
+a reduction is consistent with applicable policy statements issued by the Sentencing Commission; and
+(B) the court may modify an imposed term of imprisonment to the extent otherwise expressly
+permitted by statute or by Rule 35 of the Federal Rules of Criminal Procedure; and
+(2) in the case of a defendant who has been sentenced to a term of imprisonment based on a sentencing
+range that has subsequently been lowered by the Sentencing Commission pursuant to 28 U.S.C. 994(o), upon
+motion of the defendant or the Director of the Bureau of Prisons, or on its own motion, the court may
+reduce the term of imprisonment, after considering the factors set forth in section 3553(a) to the extent that
+they are applicable, if such a reduction is consistent with applicable policy statements issued by the
+Sentencing Commission.
+(d) Inclusion of an order to limit criminal association of organized crime and drug offenders.—The court,
+in imposing a sentence to a term of imprisonment upon a defendant convicted of a felony set forth in chapter
+95 (racketeering) or 96 (racketeer influenced and corrupt organizations) of this title or in the Comprehensive
+Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 801 et seq.), or at any time thereafter upon motion
+by the Director of the Bureau of Prisons or a United States attorney, may include as a part of the sentence an
+order that requires that the defendant not associate or communicate with a specified person, other than his
+attorney, upon a showing of probable cause to believe that association or communication with such person is for
+the purpose of enabling the defendant to control, manage, direct, finance, or otherwise participate in an illegal
+enterprise.
+(Added Pub.L. 98-473, Title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 1998, amended Pub.L. 100-690, Title VII,
+§ 7107, Nov. 18, 1988, 102 Stat. 4418; Pub.L. 101-647, Title XXXV, § 3588, Nov. 29, 1990, 104 Stat. 4930.)
+EDITORIAL NOTES
+Effective Date. Section effective on the first day of first calendar month beginning thirty six months after Oct.
+12, 1984, applicable only to offenses committed after taking effect of sections 211 to 239 of Pub.L. 98-473, and
+except as otherwise provided for therein, see section 235 of Pub.L. 98-473, as amended, set out as a note under
+section 3551 of this title.
+§ 3583. Inclusion of a term of supervised release after imprisonment
+(a) In general.—The court, in imposing a sentence to a term of imprisonment for a felony or a misdemeanor,
+may include as a part of the sentence a requirement that the defendant be placed on a term of supervised release
+426 November 1, 1992
+
+[[PDF page 21]]
+after imprisonment, except that the court shall include as a part of the sentence a requirement that the defendant
+be placed on a term of supervised release if such a term is required by statute.
+(b) Authorized terms of supervised release-Except as otherwise provided, the authorized terms of
+supervised release are—
+(1) for a Class A or Class B felony, not more than five years;
+(2) for a Class C or Class D felony, not more than three years; and
+(3) for a Class E felony, or for a misdemeanor (other than a petty offense), not more than one year.
+(c) Factors to be considered in including a term of supervised release.-The court, in determining whether
+to include a term of supervised release, and, if a term of supervised release is to be included, in determining the
+length of the term and the conditions of supervised release, shall consider the factors set forth in section
+3553(a)(l), (a)(2)(B), (a)(2)(C), (a)(2)(D), (a)(4), (a)(5), and (a)(6).
+(d) Conditions of supervised release.-The court shall order, as an explicit condition of supervised release,
+that the defendant not commit another Federal, State, or local crime during the term of supervision and that the
+defendant not possess illegal controlled substances. The court may order, as a further condition of supervised
+release, to the extent that such condition-
+(1) is reasonably related to the factors set forth in section 3553(a)(l), (a)(2)(B), (a)(2)(C), and
+(2)(D)
+(2) involves no greater deprivation of liberty than is reasonably necessary for the purposes set forth in
+section 3553(a)(2)(B), (a)(2)(C), and (a)(2)(D); and
+(3) is consistent with any pertinent policy statements issued by the Sentencing Commission pursuant to
+28 U.S.C. 994(a);
+any condition set forth as a discretionary condition of probation in section 3563(b)(l) through (b)(10) and (b)(12)
+through (b)(20), and any other condition it considers to be appropriate. If an alien defendant is subject to
+deportation, the court may provide, as a condition of supervised release, that he be deported and remain outside
+the United States, and may order that he be delivered to a duly authorized immigration official for such
+deportation.
+(e) Modification of conditions or revocation.-The court may, after considering the factors set forth in
+section 3553(a)(l), (a)(2)(B), (a)(2)(C), (a)(2)(D), (a)(4), (a)(5), and (a)(6)-
+(1) terminate a term of supervised release and discharge the person released at any time after the
+expiration of one year of supervised release, pursuant to the provisions of the Federal Rules of Criminal
+Procedure relating to the modification of probation, if it is satisfied that such action is warranted by the
+conduct of the person released and the interest of justice;
+(2) extend a term of supervised release if less than the maximum authorized term was previously
+imposed, and may modify, reduce, or enlarge the conditions of supervised release, at any time prior to the
+expiration or termination of the term of supervised release, pursuant to the provisions of the Federal Rules
+of Criminal Procedure relating to the modification of probation and the provisions applicable to the initial
+setting of the terms and conditions of post-release supervision;
+(3) revoke a term of supervised release, and require the person to serve in prison all or part of the term
+of supervised release without credit for time previously served on postrelease supervision, if it finds by a
+preponderance of the evidence that the person violated a condition of supervised release, pursuant to the
+provisions of the Federal Rules of Criminal Procedure that are applicable to probation revocation and to
+the provisions of applicable policy statements issued by the Sentencing Commission, except that a person
+whose term is revoked under this paragraph may not be required to serve more than 3 years in prison if the
+offense for which the person was convicted was a Class B felony, or more than 2 years in prison if the
+offense was a Class C or D felony; or
+(4) order the person to remain at his place of residence during nonworking hours and, if the court so
+directs, to have compliance monitored by telephone or electronic signaling devices, except that an order
+under this paragraph may be imposed only as an alternative to incarceration.
+427 November 1, 1992
+
+[[PDF page 22]]
+(f) Written statement of conditions.—The court shall direct that the probation officer provide the defendant
+with a written statement that sets forth all the conditions to which the term of supervised release is subject, and
+that is sufficiently clear and specific to serve as a guide for the defendant's conduct and for such supervision as
+is required.
+(g) Possession of controlled substances.-If the defendant is found by the court to be in the possession of
+a controlled substance, the court shall terminate the term of supervised release and require the defendant to
+serve in prison not less than one-third of the term of supervised release.
+(Added Pub.L. 98-473, Title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 1999, and amended Pub.L. 99-570, Title I,
+§ 1006(a), Oct. 27, 1986, 100 Stat. 3207-6, 3207-7; Pub.L. 99-646, § 14(a), Nov. 10, 1986, 100 Stat. 3594; Pub.L.
+100-182, §§ 8, 9, 12, 25, Dec. 7, 1987, 101 Stat. 1267, 1268, 1272; Pub.L. 100-690, Title VII, §§ 7108, 7303(b),
+7305(b), Nov. 18,1988,102 Stat. 4418, 4419, 4464-4466; Pub.L. 101-647, Title XXXV, § 3589, Nov. 29, 1990,104
+Stat. 4930.)
+EDITORIAL NOTES
+Codification. Amendment by section 7108(a)(2) of Pub.L. 100-690 to subsec. (d)(2), which directed that
+"(a)(2)(C)," be inserted after "(a)(2)(B),", was executed by inserting "(a)(2)(C)," after "(a)(2)(B)" since no comma
+appeared after "(a)(2)(B)".
+Amendment by section 7305(b)(2) of Pub.L. 100-690 to subsec. (e) which struck out "or" at the end of par.
+(3), struck out the period at the end of par. (4) and inserted "; or", and added par. (5) could not be completely
+executed in view of prior amendment to such provision by section 7108(b) of Pub.L. 100-690 which redesignated
+former par. (4) as (3) thereby resulting in no par. (4) amended.
+Amendment by section 14(a)(l) of Pub.L. 99-646 to subsec. (e) catchline duplicates amendment to such
+subsection catchline made by Pub.L. 99-570, § 1006(a)(3)(A).
+Effective Date of 1988 Amendment. Amendment by section 7303(b) of Pub.L. 100-690 applicable with respect
+to persons whose probation, supervised release, or parole begins after Dec. 31, 1988, see section 7303(d) of
+Pub.L. 100-690, set out as a note under section 3563 of this title.
+Effective Date of 1987 Amendment. Amendment by Pub.L. 100-182 applicable with respect to offenses
+committed after enactment of Pub.L. 100-182, which was approved Dec. 7,1987, see section 26 of Pub.L. 100-182.
+Effective Date of 1986 Amendment. Section 14(b) of Pub.L. 99-646 provided that: "The amendments made
+by this section [amending subsec. (e) of this section] shall take effect on the date of the taking effect of section
+3583 of title 18, United States Code [this section]."
+Section 1006(a)(4) of Pub.L. 99-570 provided that: "The amendments made by this subsection [amending this
+section] shall take effect on the date of the taking effect of section 3583 of title 18, United States Code [this
+section]."
+Effective Date. Section effective on the first day of first calendar month beginning thirty six months after Oct.
+12, 1984, applicable only to offenses committed after taking effect of sections 211 to 239 of Pub.L. 98-473, and
+except as otherwise provided for therein, see section 235 of Pub.L. 98-473, as amended, set out as a note under
+section 3551 of this title.
+§ 3584. Multiple sentences of imprisonment
+(a) Imposition of concurrent or consecutive terms.-If multiple terms of imprisonment are imposed on a
+defendant at the same time, or if a term of imprisonment is imposed on a defendant who is already subject to
+an undischarged term of imprisonment, the terms may run concurrently or consecutively, except that the terms
+428 November 1, 1992
+
+[[PDF page 23]]
+may not run consecutively for an attempt and for another offense that was the sole objective of the attempt.
+Multiple terms of imprisonment imposed at the same time run concurrently unless the court orders or the statute
+mandates that the terms are to run consecutively. Multiple terms of imprisonment imposed at different times
+run consecutively unless the court orders that the terms are to run concurrently.
+(b) Factors to be considered in imposing concurrent or consecutive terms.-The court, in determining
+whether the terms imposed are to be ordered to run concurrently or consecutively, shall consider, as to each
+offense for which a term of imprisonment is being imposed, the factors set forth in section 3553(a).
+(c) Treatment of multiple sentence as an aggregate-Multiple terms of imprisonment ordered to run
+consecutively or concurrently shall be treated for administrative purposes as a single, aggregate term of
+imprisonment.
+(Added Pub.L. 98-473, Title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2000.)
+EDITORIAL NOTES
+Effective Date. Section effective on the first day of first calendar month beginning thirty six months after Oct.
+12, 1984, applicable only to offenses committed after taking effect of sections 211 to 239 of Pub.L. 98-473, and
+except as otherwise provided for therein, see section 235 of Pub.L. 98-473, as amended, set out as a note under
+section 3551 of this title.
+§ 3585. Calculation of a term of imprisonment
+(a) Commencement of sentence.—A sentence to a term of imprisonment commences on the date the
+defendant is received in custody awaiting transportation to, or arrives voluntarily to commence service of sentence
+at, the official detention facility at which the sentence is to be served.
+(b) Credit for prior custody.—A defendant shall be given credit toward the service of a term of imprisonment
+for any time he has spent in official detention prior to the date the sentence commences—
+(1) as a result of the offense for which the sentence was imposed; or
+(2) as a result of any other charge for which the defendant was arrested after the commission of the
+offense for which the sentence was imposed;
+that has not been credited against another sentence.
+(Added Pub.L. 98-473, Title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2001.)
+EDITORIAL NOTES
+Effective Date. Section effective on the first day of first calendar month beginning thirty six months after Oct.
+12, 1984, applicable only to offenses committed after taking effect of sections 211 to 239 of Pub.L. 98-473, and
+except as otherwise provided for therein, see section 235 of Pub.L. 98-473, as amended, set out as a note under
+section 3551 of this title.
+§ 3586. Implementation of a sentence of imprisonment
+The implementation of a sentence of imprisonment is governed by the provisions of subchapter C of chapter
+229 and, if the sentence includes a term of supervised release, by the provisions of subchapter A of chapter 229.
+(Added PubX. 98-473, Title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2001.)
+429 November 1, 1992
+
+[[PDF page 24]]
+EDITORIAL NOTES
+Effective Date. Section effective on the first day of first calendar month beginning thirty six months after Oct.
+12, 1984, applicable only to offenses committed after taking effect of sections 211 to 239 of Pub.L. 98-473, and
+except as otherwise provided for therein, see section 235 of Pub.L. 98-473, as amended, set out as a note under
+section 3551 of this title.
+CHAPTER 229I-POSTSENTENCE ADMINISTRATION
+SUBCHAPTER C-IMPRISONMENT
+Section
+3621. Imprisonment of a convicted person.
+3622. Temporary release of a prisoner.
+3623. Transfer of a prisoner to State authority.
+3624. Release of a prisoner.
+3625. Inapplicability of the Administrative Procedure Act.
+§ 3621. Imprisonment of a convicted person
+(a) Commitment to custody of Bureau of Prisons.—A person who has been sentenced to a term of
+imprisonment pursuant to the provisions of subchapter D of chapter 227 shall be committed to the custody of
+the Bureau of Prisons until the expiration of the term imposed, or until earlier released for satisfactory behavior
+pursuant to the provisions of section 3624.
+(b) Place of imprisonment.—The Bureau of Prisons shall designate the place of the prisoner's imprisonment.
+The Bureau may designate any available penal or correctional facility that meets minimum standards of health
+and habitability established by the Bureau, whether maintained by the Federal Government or otherwise and
+whether within or without the judicial district in which the person was convicted, that the Bureau determines to
+be appropriate and suitable, considering—
+(1) the resources of the facility contemplated;
+(2) the nature and circumstances of the offense;
+(3) the history and characteristics of the prisoner;
+(4) any statement by the court that imposed the sentence-
+(A) concerning the purposes for which the sentence to imprisonment was determined to be warranted;
+or
+(B) recommending a type of penal or correctional facility as appropriate; and
+(5) any pertinent policy statement issued by the Sentencing Commission pursuant to section 994(a)(2)
+of title 28.
+The Bureau may at any time, having regard for the same matters, direct the transfer of a prisoner from one
+penal or correctional facility to another. The Bureau shall, to the extent practicable, make available appropriate
+substance abuse treatment for each prisoner the Bureau determines has a treatable condition of substance
+addiction or abuse.
+(c) Delivery of order of commitment-When a prisoner, pursuant to a court order, is placed in the custody
+of a person in charge of a penal or correctional facility, a copy of the order shall be delivered to such person
+as evidence of this authority to hold the prisoner, and the original order, with the return endorsed thereon, shall
+be returned to the court that issued it.
+Another chapter 229 "FINES, PENALTIES, AND FORFEITURES11 (§§ 3611 to 3624) was repealed, effective Nov. 1,1987.
+430 November 1, 1992
+
+[[PDF page 25]]
+(d) Delivery of prisoner for court appearances.-The United States marshal shall, without charge, bring a
+prisoner into court or return him to a prison facility on order of a court of the United States or on written
+request of an attorney for the Government.
+(Added PubX. 98-473, Title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2007, and amended Pub.L. 101-647, Title
+XXIX, § 2903, Nov. 29, 1990, 104 Stat. 4913.)
+EDITORIAL NOTES
+Effective Date. Section effective on the first day of first calendar month beginning thirty six months after Oct.
+12, 1984, applicable only to offenses committed after taking effect of sections 211 to 239 of PubX. 98-473, and
+except as otherwise provided for therein, see section 235 of Pub.L. 98-473, as amended, set out as a note under
+section 3551 of this title.
+§ 3622. Temporary release of a prisoner
+The Bureau of Prisons may release a prisoner from the place of his imprisonment for a limited period if
+such release appears to be consistent with the purpose for which the sentence was imposed and any pertinent
+policy statement issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(2), if such release otherwise
+appears to be consistent with the public interest and if there is reasonable cause to believe that a prisoner will
+honor the trust to be imposed in him, by authorizing him, under prescribed conditions, to—
+(a) visit a designated place for a period not to exceed thirty days, and
+then return to the same or another facility, for the purpose of—
+(1) visiting a relative who is dying;
+(2) attending a funeral of a relative;
+(3) obtaining medical treatment not otherwise available;
+(4) contacting a prospective employer;
+(5) establishing or reestablishing family or community ties; or
+(6) engaging in any other significant activity consistent with the public interest;
+(b) participate in a training or educational program in the community while continuing in official detention
+at the prison facility; or
+(c) work at paid employment in the community while continuing in official detention at the penal or
+correctional facility if—
+(1) the rates of pay and other conditions of employment will not be less than those paid or provided for
+work of a similar nature in the community; and
+(2) the prisoner agrees to pay to the Bureau such costs incident to official detention as the Bureau finds
+appropriate and reasonable under all the circumstances, such costs to be collected by the Bureau and
+deposited in the Treasury to the credit of the appropriation available for such costs at the time such
+collections are made.
+(Added PubX. 98-473, Title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2007.)
+EDITORIAL NOTES
+Effective Date. Section effective on the first day of first calendar month beginning thirty six months after Oct.
+12 1984, applicable only to offenses committed after taking effect of sections 211 to 239 of Pub.L. 98-473, and
+except as otherwise provided for therein, see section 235 of Pub.L. 98-473, as amended, set out as a note under
+section 3551 of this title.
+431 November 1, 1992
+
+[[PDF page 26]]
+§ 3623. Transfer of a prisoner to State authority
+The Director of the Bureau of Prisons shall order that a prisoner who has been charged in an indictment
+or information with, or convicted of, a State felony, be transferred to an official detention facility within such
+State prior to his release from a Federal prison facility if—
+(1) the transfer has been requested by the Governor or other executive authority of the State;
+(2) the State has presented to the Director a certified copy of the indictment, information, or judgment
+of conviction; and
+(3) the Director finds that the transfer would be in the public interest.
+If more than one request is presented with respect to a prisoner, the Director shall determine which request
+should receive preference. The expenses of such transfer shall be borne by the State requesting the transfer.
+(Added Pub.L. 98-473, Title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2008.)
+EDITORIAL NOTES
+Effective Date. Section effective on the first day of first calendar month beginning thirty six months after Oct.
+12, 1984, applicable only to offenses committed after taking effect of sections 211 to 239 of Pub.L. 98-473, and
+except as otherwise provided for therein, see section 235 of Pub.L. 98-473, as amended, set out as a note under
+section 3551 of this title.
+§ 3624. Release of a prisoner
+(a) Date of release.—A prisoner shall be released by the Bureau of Prisons on the date of the expiration of
+his term of imprisonment, less any time credited toward the service of his sentence as provided in subsection (b).
+If the date for a prisoner's release falls on a Saturday, a Sunday, or a legal holiday at the place of confinement,
+the prisoner may be released by the Bureau on the last preceding weekday.
+(b) Credit toward service of sentence for satisfactory behavior.—A prisoner who is serving a term of
+imprisonment of more than one year, other than a term of imprisonment for the duration of his life, shall receive
+credit toward the service of his sentence, beyond the time served, of fifty-four days at the end of each year of
+his term of imprisonment, beginning at the end of the first year of the term, unless the Bureau of Prisons
+determines that, during that year, he has not satisfactorily complied with such institutional disciplinary regulations
+as have been approved by the Attorney General and issued to the prisoner. If the Bureau determines that, during
+that year, the prisoner has not satisfactorily complied with such institutional regulations, he shall receive no such
+credit toward service of his sentence or shall receive such lesser credit as the Bureau determines to be
+appropriate. The Bureau's determination shall be made within fifteen days after the end of each year of the
+sentence. Such credit toward service of sentence vests at the time that it is received. Credit that has vested may
+not later be withdrawn, and credit that has not been earned may not later be granted. Credit for the last year
+or portion of a year of the term of imprisonment shall be prorated and credited within the last six weeks of the
+sentence.
+(c) Pre-release custody.—The Bureau of Prisons shall, to the extent practicable, assure that a prisoner serving
+a term of imprisonment spends a reasonable part, not to exceed six months, of the last 10 per centum of the
+term to be served under conditions that will afford the prisoner a reasonable opportunity to adjust to and prepare
+for his re-entry into the community. The authority provided by this subsection may be used to place a prisoner
+in home confinement. The United States Probation System shall, to the extent practicable, offer assistance to
+a prisoner during such pre-release custody.
+(d) Allotment of clothing, funds, and transportation.—Upon the release of a prisoner on the expiration of
+his term of imprisonment, the Bureau of Prisons shall furnish him with—
+432 November 1, 1992
+
+[[PDF page 27]]
+(1) suitable clothing;
+(2) an amount of money, not more than $500, determined by the Director to be consistent with the needs
+of the offender and the public interest, unless the Director determines that the financial position of the
+offender is such that no sum should be furnished; and
+(3) transportation to the place of his conviction, to his bona fide residence within the United States, or
+to such other place within the United States as may be authorized by the Director.
+(e) Supervision after release.-A prisoner whose sentence includes a term of supervised release after
+imprisonment shall be released by the Bureau of Prisons to the supervision of a probation officer who shall,
+during the term imposed, supervise the person released to the degree warranted by the conditions specified by
+the sentencing court. The term of supervised release commences on the day the person is released from
+imprisonment and runs concurrently with any Federal, State, or local term of probation or supervised release
+or parole for another offense to which the person is subject or becomes subject during the term of supervised
+release. A term of supervised release does not run during any period in which the person is imprisoned in
+connection with a conviction for a Federal, State, or local crime unless the imprisonment is for a period of less
+than 30 consecutive days. No prisoner shall be released on supervision unless such prisoner agrees to adhere to
+an installment schedule, not to exceed two years except in special circumstances, to pay for any fine imposed for
+the offense committed by such prisoner.
+(f) Mandatory function literacy requirement.-
+(1) The Attorney General shall direct the Bureau of Prisons to have in effect a mandatory functional
+literacy program for all mentally capable inmates who are not functionally literacy in each Federal
+correctional institution within 6 months from the date of the enactment of this Act.
+(2) Each mandatory functional literacy program shall include a requirement that each inmate participate
+in such program for a mandatory period sufficient to provide the inmate with an adequate opportunity to
+achieve functional literacy, and appropriate incentives which lead to successful completion of such programs
+shall be developed and implemented.
+(3) As used in this section, the term 'functional literacy* means-
+(A) an eighth grade equivalence in reading and mathematics on a nationally recognized standardized test;
+(B) functional competency or literacy on a nationally recognized criterion-referenced test; or
+(C) a combination of subparagraphs (A) and (B).
+(4) Non-English speaking inmates shall be required to participate in an English-As-A-Second-Language
+program until they function at the equivalence of the eighth grade on a nationally recognized educational
+achievement test.
+(5) The Chief Executive Officer of each institution shall have authority to grant waivers for good cause as
+determined and documented on an individual basis.
+(6) A report shall be provided to Congress on an annual basis summarizing the results of this program,
+including the number of inmate participants, the number successfully completing the program, the number
+who do not successfully complete the program, and the reasons for failure to successfully complete the
+program.
+(Added Pub L 98-473, Title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2008, and amended Pub.L. 99-646, §§ 16(a),
+17(a), Nov. 10,1986,100 Stat. 3595; Pub.L. 101-647, Title XXIX, §§ 2902(a), 2904, Nov. 29,1990,104 Stat. 4913.)
+EDITORIAL NOTES
+References in Text. The date of enactment of this Act, referred to in subsec. (f)(l), probably means the date
+of enactment of Pub.L. 101-647, Nov. 29, 1990, 104 Stat. 4789, which was approved Nov. 29, 1990.
+Effective Date of 1990 Amendment. Section 2902(b) of Pub.L. 101-647 provided that: "Section 3624(c) of
+title 18, United States Code, as amended by this section [subsec. (c) of this section] shall apply with respect to
+all inmates, regardless of the date of their offense."
+433 November 1, 1992
+
+[[PDF page 28]]
+Effective Date of 1986 Amendment. Section 16(b) of Pub.L. 99-646 provided that: "The amendment made
+by this section [amending subsec. (b) of this section] shall take effect on the date of the taking effect of such
+section 3624 [this section]."
+Section 17(a) of Pub.L. 99-646 provided that: "The amendment made by this section [amending subsec. (e)
+of this section] shall take effect on the date of the taking effect of such section 3624 [this section]."
+Effective Date. Section effective on the first day of first calendar month beginning thirty six months after Oct.
+12, 1984, applicable only to offenses committed after taking effect of sections 211 to 239 of Pub.L. 98-473, and
+except as otherwise provided for therein, see section 235 of Pub.L. 98-473, as amended, set out as a note under
+section 3551 of this title.
+§ 3625. Inapplicability of the Administrative Procedure Act
+The provisions of sections 554 and 555 and 701 through 706 of title 5, United States Code, do not apply to
+the making of any determination, decision, or order under this subchapter.
+(Added Pub.L. 98-473, Title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2010.)
+EDITORIAL NOTES
+Effective Date. Section effective on the first day of first calendar month beginning thirty six months after Oct.
+12, 1984, applicable only to offenses committed after taking effect of sections 211 to 239 of Pub.L. 98-473, and
+except as otherwise provided for therein, see section 235 of Pub.L. 98-473, as amended, set out as a note under
+section 3551 of this title.
+CHAPTER 235-APPEAL
+§ 3742. Review of a sentence
+(a) Appeal by a defendant.—A defendant may file a notice of appeal in the district court for review of an
+otherwise final sentence if the sentence—
+(1) was imposed in violation of law;
+(2) was imposed as a result of an incorrect application of the sentencing guidelines; or
+(3) is greater than the sentence specified in the applicable guideline range to the extent that the sentence
+includes a greater fine or term of imprisonment, probation, or supervised release than the maximum
+established in the guideline range, or includes a more limiting condition of probation or supervised release
+under section 3563(b)(6) or (b)(ll) than the maximum established in the guideline range; or
+(4) was imposed for an offense for which there is no sentencing guideline and is plainly unreasonable.
+(b) Appeal by the Government.—The Government,1 may file a notice of appeal in the district court for
+review of an otherwise final sentence if the sentence—
+(1) was imposed in violation of law;
+(2) was imposed as a result of an incorrect application of the sentencing guidelines;
+(3) is less than the sentence specified in the applicable guideline range to the extent that the sentence
+includes a lesser fine or term of imprisonment, probation, or supervised release than the minimum
+in original.
+434 November 1, 1992
+
+[[PDF page 29]]
+established in the guideline range, or includes a less limiting condition of probation or supervised release
+under section 3563(b)(6) or (b)(ll) than the minimum established in the guideline range; or
+(4) was imposed for an offense for which there is no sentencing guideline and is plainly unreasonable.
+The Government may not further prosecute such appeal without the personal approval of the Attorney General,
+the Solicitor General, or a deputy solicitor general designated by the Solicitor General.
+(c) Plea agreements.-Xn the case of a plea agreement that includes a specific sentence under rule ll(e)(l)(C)
+of the Federal Rules of Criminal Procedure-
+(1) a defendant may not file a notice of appeal under paragraph (3) or (4) of subsection (a) unless the
+sentence imposed is greater than the sentence set forth in such agreement; and
+(2) the Government may not file a notice of appeal under paragraph (3) or (4) of subsection (b) unless
+the sentence imposed is less than the sentence set forth in such agreement.
+(d) Record on review.-If a notice of appeal is filed in the district court pursuant to subsection (a) or (b),
+the clerk shall certify to the court of appeals-
+(1) that portion of the record in the case that is designated as pertinent by either of the parties;
+(2) the presentence report; and
+(3) the information submitted during the sentencing proceeding.
+(e) Consideration.—Upon review of the record, the court of appeals shall determine whether the sentence-
+(1) was imposed in violation of law;
+(2) was imposed as a result of an incorrect application of the sentencing guidelines;
+(3) is outside of the applicable guideline range, and is unreasonable, having regard for—
+(A) the factors to be considered in imposing a sentence, as set forth in chapter 227 of this title; and
+(B) the reasons for the imposition of the particular sentence, as stated by the district court pursuant
+to the provisions of section 3553(c); or
+(4) was imposed for an offense for which there is no applicable sentencing guideline and is plainly
+unreasonable.
+The court of appeals shall give due regard to the opportunity of the district court to judge the credibility of the
+witnesses, and shall accept the findings of fact of the district court unless they are clearly erroneous and shall
+give due deference to the district court's application of the guidelines to the facts.
+(f) Decision and disposition.-If the court of appeals determines that the sentence—
+(1) was imposed in violation of law or imposed as a result of an incorrect application of the sentencing
+guidelines, the court shall remand the case for further sentencing proceedings with such instructions as the
+court considers appropriate;
+(2) is outside the applicable guideline range and is unreasonable or was imposed for an offense for which
+there is no applicable sentencing guideline and is plainly unreasonable, it shall state specific reasons for its
+conclusions and—
+(A) if it determines that the sentence is too high and the appeal has been filed under subsection (a),
+it shall set aside the sentence and remand the case for further sentencing proceedings with such
+instructions as the court considers appropriate;
+(B) if it determines that the sentence is too low and the appeal has been filed under subsection (b),
+it shall set aside the sentence and remand the case for further sentencing proceedings with such
+instructions as the court considers appropriate;
+(3) is not described in paragraph (1) or (2), it shall affirm the sentence.
+(g) Application to a sentence by a magistrate-An appeal of an otherwise final sentence imposed by a
+United States magistrate may be taken to a judge of the district court, and this section shall apply (except for
+the requirement of approval by the Attorney General or the Solicitor General in the case of a Government
+appeal) as though the appeal were to a court of appeals from a sentence imposed by a district court.
+435 November 1, 1992
+
+[[PDF page 30]]
+(h) Guideline not expressed as a range.-For the purpose of this section, the term "guideline range" includes
+a guideline range having the same upper and lower limits.
+(Added Pub.L. 98-473, Title II, § 213(a), Oct. 12,1984, 98 Stat. 2011, and amended Pub.L. 99-646, § 73(a), Nov.
+10, 1986, 100 Stat. 3617; Pub.L. 100-182, §§ 4-6, Dec. 7,1987, 101 Stat. 1266,1267; Pub.L. 100-690, Title VII, §
+7103(a), Nov. 18,1988,102 Stat. 4416, 4417; Pub.L. 101-647, Title XXXV, §§ 3501, 3503, Nov. 29,1990,104 Stat.
+4921.)
+EDITORIAL NOTES
+Effective Date of 1987 Amendment. Amendment by Pub.L. 100-182 applicable with respect to offenses
+committed after enactment of Pub.L. 100-182, which was approved Dec. 7,1987, see section 26 of Pub.L. 100-182.
+Effective Date. Section effective on the first day of first calendar month beginning thirty six months after Oct.
+12, 1984, applicable only to offenses committed after taking effect of sections 211 to 239 of Pub.L. 98-473, and
+except as otherwise provided for therein, see section 235 of Pub.L. 98-473, as amended, set out as a note under
+section 3551 of this title.
+Change of Name of United States Magistrates. United States magistrates appointed under section 631 of
+the Title 28, Judiciary and Judicial Procedure, to be known as United States magistrate judge after Dec. 1,1990,
+with any reference to any United States magistrate or magistrate contained in Title 28, in any other Federal
+statute, etc., deemed to refer to a United States magistrate judge appointed under section 631 of Title 28, see
+section 321 of Pub.L. 101-650, set out as a note under section 631 of Title 28.
+Title 28
+JUDICIARY AND JUDICIAL PROCEDURE
+CHAPTER 58-UNITED STATES SENTENCING COMMISSION
+Section
+991. United States Sentencing Commission; establishment and purposes.
+992. Terms of office; compensation.
+993. Powers and duties of Chairman.
+994. Duties of the Commission.
+995. Powers of the Commission.
+996. Director and staff.
+997. Annual report.
+998. Definitions.
+§ 991. United States Sentencing Commission; establishment and purposes
+(a) There is established as an independent commission in the judicial branch of the United States a United
+States Sentencing Commission which shall consist of seven voting members and one nonvoting member. The
+President, after consultation with representatives of judges, prosecuting attorneys, defense attorneys, law
+enforcement officials, senior citizens, victims of crime, and others interested in the criminal justice process, shall
+appoint the voting members of the Commission, by and with the advice and consent of the Senate, one of whom
+shall be appointed, by and with the advice and consent of the Senate, as the Chairman. At least three of the
+436 November 1, 1992
+
+[[PDF page 31]]
+members shall be Federal judges selected after considering a list of six judges recommended to the President
+by the Judicial Conference of the United States. Not more than four of the members of the Commission shall
+be members of the same political party. The Attorney General, or his designee, shall be an ex officio, nonvoting
+member of the Commission. The Chairman and members of the Commission shall be subject to removal from
+the Commission by the President only for neglect of duty or malfeasance in office or for other good cause shown.
+(b) The purposes of the United States Sentencing Commission are to-
+(1) establish sentencing policies and practices for the Federal criminal justice system that-
+(A) assure the meeting of the purposes of sentencing as set forth in section 3553(a)(2) of title 18,
+United States Code;
+(B) provide certainty and fairness in meeting the purposes of sentencing, avoiding unwarranted
+sentencing disparities among defendants with similar records who have been found guilty of similar
+criminal conduct while maintaining sufficient flexibility to permit individualized sentences when warranted
+by mitigating or aggravating factors not taken into account in the establishment of general sentencing
+practices; and
+(C) reflect, to the extent practicable, advancement in knowledge of human behavior as it relates to
+the criminal justice process; and
+(2) develop means of measuring the degree to which the sentencing, penal, and correctional practices
+are effective in meeting the purposes of sentencing as set forth in section 3553(a)(2) of title 18, United
+States Code.
+(Added Pub.L. 98-473, Title II, § 217(a), Oct. 12, 1984, 98 Stat. 2017, and amended Pub.L. 99-22, § 1(1), Apr.
+15, 1985, 99 Stat. 46.)
+EDITORIAL NOTES
+Effective Date. Section effective Oct. 12,1984, see section 235(a)(l)(B)(i) of Pub.L. 98-473, set out as a note
+under section 3551 of Title 18, Crimes and Criminal Procedure.
+§ 992. Terms of office; compensation
+(a) The voting members of the United States Sentencing Commission shall be appointed for six-year terms,
+except that the initial terms of the first members of the Commission shall be staggered so that-
+(1) two members, including the Chairman, serve terms of six years;
+(2) three members serve terms of four years; and
+(3) two members serve terms of two years.
+(b) No voting member may serve more than two full terms. A voting member appointed to fill a vacancy
+that occurs before the expiration of the term for which his predecessor was appointed shall be appointed only
+for the remainder of such term.
+(c) The Chairman of the Commission shall hold a full-time position and shall be compensated during the
+term of office at the annual rate at which judges of the United States courts of appeals are compensated. The
+voting members of the Commission, other than the Chairman, shall hold full-time positions until the end of the
+first six years after the sentencing guidelines go into effect pursuant to section 235(a)(l)(B)(ii) of the Sentencing
+Reform Act of 1984, and shall be compensated at the annual rate at which judges of the United States courts
+of appeals are compensated. Thereafter, the voting members of the commission, other than the Chairman, shall
+hold part-time positions and shall be paid at the daily rate at which judges of the United States courts of appeals
+are compensated. A Federal judge may serve as a member of the Commission without resigning his appointment
+as a Federal judge.
+437 November 1, 1992
+
+[[PDF page 32]]
+(d) Sections 44(c) and 134(b) of this title (relating to the residence of judges) do not apply to any judge
+holding a full-time position on the Commission under subsection (c) of this section.
+(Added Pub.L. 98-473, Title II, § 217(a), Oct. 12, 1984, 98 Stat. 2018, and amended Pub.L. 99-646, §§ 4, 6(a),
+Nov. 10, 1986; 100 Stat. 3592.)
+EDITORIAL NOTES
+References in Text. Section 235(a)(l)(B)(ii) of the Sentencing Reform Act of 1984, referred to in subsec.
+(c), is section 235(a)(l)(B)(ii) of Pub.L. 98-473, which is set out as a note under section 3551 of Title 18, Crimes
+and Criminal Procedure.
+Effective Date. Section effective Oct. 12,1984, see section 235(a)(l)(B)(i) of Pub.L. 98-473, set out as a note
+under section 3551 of Title 18, Crimes and Criminal Procedure.
+Commencement of Terms of First Members of Commission. For provisions directing that, for purposes of
+subsec. (a) of this section, the terms of the first members of the United States Sentencing Commission shall not
+begin to run until the sentencing guidelines go into effect pursuant to section 235(a)(l)(B)(ii) of Pub.L. 98-473,
+set out as a note under section 994 of this title, see section 235(a)(2) of Pub.L. 98-473, set out as a note under
+section 3551 of Title 18, Crimes and Criminal Procedure.
+§ 993. Powers and duties of Chairman
+The Chairman shall—
+(a) call and preside at meetings of the Commission, which shall be held for at least two weeks in each
+quarter after the members of the Commission hold part-time positions; and
+(b) direct-
+(1) the preparation of requests for appropriations for the Commission; and
+(2) the use of funds made available to the Commission.
+(Added Pub.L. 98-473, Title II, § 217(a), Oct. 12, 1984, 98 Stat. 2019, and amended Pub.L. 99-22, § 1(2), Apr.
+15, 1985, 99 Stat. 46; Pub.L. 99-646, § 5, Nov. 10, 1986, 100 Stat. 3592.)
+EDITORIAL NOTES
+Effective Date. Section effective Oct. 12,1984, see section 235(a)(l)(B)(i) of Pub.L. 98-473, set out as a note
+under section 3551 of Title 18, Crimes and Criminal Procedure.
+§ 994. Duties of the Commission
+(a) The Commission, by affirmative vote of at least four members of the Commission, and pursuant to its
+rules and regulations and consistent with all pertinent provisions of this title and title 18, United States Code,
+shall promulgate and distribute to all courts of the United States and to the United States Probation System—
+(1) guidelines, as described in this section, for use of a sentencing court in determining the sentence to
+be imposed in a criminal case, including—
+(A) a determination whether to impose a sentence to probation, a fine, or a term of imprisonment;
+(B) a determination as to the appropriate amount of a fine or the appropriate length of a term of
+probation or a term of imprisonment;
+438 November 1, 1992
+
+[[PDF page 33]]
+(C) a determination whether a sentence to a term of imprisonment should include a requirement that
+the defendant be placed on a term of supervised release after imprisonment, and, if so, the appropriate
+length of such a term;
+(D) a determination whether multiple sentences to terms of imprisonment should be ordered to run
+concurrently or consecutively; and
+(E) a determination under paragraphs (6) and (11) of section 3563(b) of title 18;
+(2) general policy statements regarding application of the guidelines or any other aspect of sentencing
+or sentence implementation that in the view of the Commission would further the purposes set forth in
+section 3553(a)(2) of title 18, United States Code, including the appropriate use of-
+(A) the sanctions set forth in sections 3554, 3555, and 3556 of title 18;
+(B) the conditions of probation and supervised release set forth in sections 3563(b) and 3583(d) of
+title 18;
+(C) the sentence modification provisions set forth in sections 3563(c), 3564, 3573, and 3582(c) of title
+18;
+(D) the fine imposition provisions set forth in section 3572 of title 18;
+(E) the authority granted under rule ll(e)(2) of the Federal Rules of Criminal Procedure to accept
+or reject a plea agreement entered into pursuant to rule ll(e)(l); and
+(F) the temporary release provisions set forth in section 3622 of title 18, and the prerelease custody
+provisions set forth in section 3624(c) of title 18; and
+(3) guidelines or general policy statements regarding the appropriate use of the provisions for revocation
+of probation set forth in section 3565 of title 18, and the provisions for modification of the term or
+conditions of supervised release and revocation of supervised release set forth in section 3583(e) of title 18.
+(b)(l) The Commission, in the guidelines promulgated pursuant to subsection (a)(l), shall, for each category
+of offense involving each category of defendant, establish a sentencing range that is consistent with all pertinent
+provisions of title 18, United States Code.
+(2) If a sentence specified by the guidelines includes a term of imprisonment, the maximum of the range
+established for such a term shall not exceed the minimum of that range by more than the greater of 25 percent
+or 6 months, except that, if the minimum term of the range is 30 years or more, the maximum may be life
+imprisonment.
+(c) The Commission, in establishing categories of offenses for use in the guidelines and policy statements
+governing the imposition of sentences of probation, a fine, or imprisonment, governing the imposition of other
+authorized sanctions, governing the size of a fine or the length of a term of probation, imprisonment, or
+supervised release, and governing the conditions of probation, supervised release, or imprisonment, shall consider
+whether the following matters, among others, have any relevance to the nature, extent, place of service, or other
+incidents1 of an appropriate sentence, and shall take them into account only to the extent that they do have
+relevance—
+(1) the grade of the offense;
+(2) the circumstances under which the offense was committed which mitigate or aggravate the seriousness
+of the offense;
+(3) the nature and degree of the harm caused by the offense, including whether it involved property,
+irreplaceable property, a person, a number of persons, or a breach of public trust;
+(4) the community view of the gravity of the offense;
+(5) the public concern generated by the offense;
+(6) the deterrent effect a particular sentence may have on the commission of the offense by others; and
+(7) the current incidence of the offense in the community and in the Nation as a whole.
+xSo in original. Probably should be "incidence".
+439 November 1, 1992
+
+[[PDF page 34]]
+(d) The Commission in establishing categories of defendants for use in the guidelines and policy statements
+governing the imposition of sentences of probation, a fine, or imprisonment, governing the imposition of other
+authorized sanctions, governing the size of a fine or the length of a term of probation, imprisonment, or
+supervised release, and governing the conditions of probation, supervised release, or imprisonment, shall consider
+whether the following matters, among others with respect to a defendant, have any relevance to the nature,
+extent, place of service, or other incidents1 of an appropriate sentence, and shall take them into account only
+to the extent that they do have relevance—
+(1) age;
+(2) education;
+(3) vocational skills;
+(4) mental and emotional condition to the extent that such condition mitigates the defendant's culpability
+or to the extent that such condition is otherwise plainly relevant;
+(5) physical condition, including drug dependence;
+(6) previous employment record;
+(7) family ties and responsibilities;
+(8) community ties;
+(9) role in the offense;
+(10) criminal history; and
+(11) degree of dependence upon criminal activity for a livelihood.
+The Commission shall assure that the guidelines and policy statements are entirely neutral as to the race, sex,
+national origin, creed, and socioeconomic status of offenders.
+(e) The Commission shall assure that the guidelines and policy statements, in recommending a term of
+imprisonment or length of a term of imprisonment, reflect the general inappropriateness of considering the
+education, vocational skills, employment record, family ties and responsibilities, and community ties of the
+defendant.
+(f) The Commission, in promulgating guidelines pursuant to subsection (a)(l), shall promote the purposes
+set forth in section 991(b)(l), with particular attention to the requirements of subsection 991(b)(l)(B) for
+providing certainty and fairness in sentencing and reducing unwarranted sentence disparities.
+(g) The Commission, in promulgating guidelines pursuant to subsection (a)(l) to meet the purposes of
+sentencing as set forth in section 3553(a)(2) of title 18, United States Code, shall take into account the nature
+and capacity of the penal, correctional, and other facilities and services available, and shall make
+recommendations concerning any change or expansion in the nature or capacity of such facilities and services
+that might become necessary as a result of the guidelines promulgated pursuant to the provisions of this chapter.
+The sentencing guidelines prescribed under this chapter shall be formulated to minimize the likelihood that the
+Federal prison population will exceed the capacity of the Federal prisons, as determined by the Commission.
+(h) The Commission shall assure that the guidelines specify a sentence to a term of imprisonment at or near
+the maximum term authorized for categories of defendants in which the defendant is eighteen years old or older
+and—
+(1) has been convicted of a felony that is—
+(A) a crime of violence; or
+(B) an offense described in section 401 of the Controlled Substances Act (21 U.S.C. 841), sections
+1002(a), 1005, and 1009 of the Controlled Substances Import and Export Act (21 U.S.C. 952(a), 955, and
+959), and section 1 of the Act of September 15, 1980 (21 U.S.C. 955a); and
+(2) has previously been convicted of two or more prior felonies, each of which is—
+(A) a crime of violence; or
+in original. Probably should be "incidence".
+440 November 1, 1992
+
+[[PDF page 35]]
+(B) an offense described in section 401 of the Controlled Substances Act (21 U.S.C. 841), sections
+1002(a), 1005, and 1009 of the Controlled Substances Import and Export Act (21 U.S.C. 952(a), 955, and
+959), and section 1 of the Act of September 15, 1980 (21 U.S.C. 955a).
+(i) The Commission shall assure that the guidelines specify a sentence to a substantial term of imprisonment
+for categories of defendants in which the defendant-
+(1) has a history of two or more prior Federal, State, or local felony convictions for offenses committed
+on different occasions;
+(2) committed the offense as part of a pattern of criminal conduct from which he derived a substantial
+portion of his income;
+(3) committed the offense in furtherance of a conspiracy with three or more persons engaging in a
+pattern of racketeering activity in which the defendant participated in a managerial or supervisory capacity;
+(4) committed a crime of violence that constitutes a felony while on release pending trial, sentence, or
+appeal from a Federal, State, or local felony for which he was ultimately convicted; or
+(5) committed a felony that is set forth in section 401 or 1010 of the Comprehensive Drug Abuse
+Prevention and Control Act of 1970 (21 U.S.C. 841 and 960), and that involved trafficking in a substantial
+quantity of a controlled substance.
+(j) The Commission shall insure that the guidelines reflect the general appropriateness of imposing a
+sentence other than imprisonment in cases in which the defendant is a first offender who has not been convicted
+of a crime of violence or an otherwise serious offense, and the general appropriateness of imposing a term of
+imprisonment on a person convicted of a crime of violence that results in serious bodily injury.
+(k) The Commission shall insure that the guidelines reflect the inappropriateness of imposing a sentence to
+a term of imprisonment for the purpose of rehabilitating the defendant or providing the defendant with needed
+educational or vocational training, medical care, or other correctional treatment.
+(1) The Commission shall insure that the guidelines promulgated pursuant to subsection (a)(l) reflect—
+(1) the appropriateness of imposing an incremental penalty for each offense in a case in which a
+defendant is convicted of—
+(A) multiple offenses committed in the same course of conduct that result in the exercise of ancillary
+jurisdiction over one or more of the offenses; and
+(B) multiple offenses committed at different times, including those cases in which the subsequent
+offense is a violation of section 3146 (penalty for failure to appear) or is committed while the person is
+released pursuant to the provisions of section 3147 (penalty for an offense committed while on release)
+of title 18; and
+(2) the general inappropriateness of imposing consecutive terms of imprisonment for an offense of
+conspiring to commit an offense or soliciting commission of an offense and for an offense that was the sole
+object of the conspiracy or solicitation.
+(m) The Commission shall insure that the guidelines reflect the fact that, in many cases, current sentences
+do not accurately reflect the seriousness of the offense. This will require that, as a starting point in its
+development of the initial sets of guidelines for particular categories of cases, the Commission ascertain the
+average sentences imposed in such categories of cases prior to the creation of the Commission, and in cases
+involving sentences to terms of imprisonment, the length of such terms actually served. The Commission shall
+not be bound by such average sentences, and shall independently develop a sentencing range that is consistent
+with the purposes of sentencing described in section 3553(a)(2) of Title 18, United States Code.
+(n) The Commission shall assure that the guidelines reflect the general appropriateness of imposing a lower
+sentence than would otherwise be imposed, including a sentence that is lower than that established by statute
+as a minimum sentence, to take into account a defendant's substantial assistance in the investigation or
+prosecution of another person who has committed an offense.
+441 November 1, 1992
+
+[[PDF page 36]]
+(o) The Commission periodically shall review and revise, in consideration of comments and data coming to
+its attention, the guidelines promulgated pursuant to the provisions of this section. In fulfilling its duties and in
+exercising its powers, the Commission shall consult with authorities on, and individual and institutional
+representatives of, various aspects of the Federal criminal justice system. The United States Probation System,
+the Bureau of Prisons, the Judicial Conference of the United States, the Criminal Division of the United States
+Department of Justice, and a representative of the Federal Public Defenders shall submit to the Commission
+any observations, comments, or questions pertinent to the work of the Commission whenever they believe such
+communication would be useful, and shall, at least annually, submit to the Commission a written report
+commenting on the operation of the Commission's guidelines, suggesting changes in the guidelines that appear
+to be warranted, and otherwise assessing the Commission's work.
+(p) The Commission, at or after the beginning of a regular session of Congress, but not later than the first
+day of May, may promulgate under subsection (a) of this section and submit to Congress amendments to the
+guidelines and modifications to previously submitted amendments that have not taken effect, including
+modifications to the effective dates of such amendments. Such an amendment or modification shall be
+accompanied by a statement of the reasons therefor and shall take effect on a date specified by the Commission,
+which shall be no earlier than 180 days after being so submitted and no later than the first day of November of
+the calendar year in which the amendment or modification is submitted, except to the extent that the effective
+date is revised or the amendment is otherwise modified or disapproved by Act of Congress.
+(q) The Commission and the Bureau of Prisons shall submit to Congress an analysis and recommendations
+concerning maximum utilization of resources to deal effectively with the Federal prison population. Such report
+shall be based upon consideration of a variety of alternatives, including—
+(1) modernization of existing facilities;
+(2) inmate classification and periodic review of such classification for use in placing inmates in the least
+restrictive facility necessary to ensure adequate security; and
+(3) use of existing Federal facilities, such as those currently within military jurisdiction.
+(r) The Commission, not later than two years after the initial set of sentencing guidelines promulgated under
+subsection (a) goes into effect, and thereafter whenever it finds it advisable, shall recommend to the Congress
+that it raise or lower the grades, or otherwise modify the maximum penalties, of those offenses for which such
+an adjustment appears appropriate.
+(s) The Commission shall give due consideration to any petition filed by a defendant requesting modification
+of the guidelines utilized in the sentencing of such defendant, on the basis of changed circumstances unrelated
+to the defendant, including changes in—
+(1) the community view of the gravity of the offense;
+(2) the public concern generated by the offense; and
+(3) the deterrent effect particular sentences may have on the commission of the offense by others.
+(t) The Commission, in promulgating general policy statements regarding the sentencing modification
+provisions in section 3582(c)(l)(A) of title 18, shall describe what should be considered extraordinary and
+compelling reasons for sentence reduction, including the criteria to be applied and a list of specific examples.
+Rehabilitation of the defendant alone shall not be considered an extraordinary and compelling reason.
+(u) If the Commission reduces the term of imprisonment recommended in the guidelines applicable to a
+particular offense or category of offenses, it shall specify in what circumstances and by what amount the
+sentences of prisoners serving terms of imprisonment for the offense may be reduced.
+(v) The Commission shall ensure that the general policy statements promulgated pursuant to subsection
+(a)(2) include a policy limiting consecutive terms of imprisonment for an offense involving a violation of a
+442 November 1, 1992
+
+[[PDF page 37]]
+general prohibition and for an offense involving a violation of a specific prohibition encompassed within the
+general prohibition.
+(w) The appropriate judge or officer shall submit to the Commission in connection with each sentence
+imposed (other than a sentence imposed for a petty offense, as defined in title 18, for which there is no
+applicable sentencing guideline) a written report of the sentence, the offense for which it is imposed, the age,
+race, and sex of the offender, information regarding factors made relevant by the guidelines, and such other
+information as the Commission finds appropriate. The Commission shall submit to Congress at least annually
+an analysis of these reports and any recommendations for legislation that the Commission concludes is warranted
+by that analysis.
+(x) The provisions of section 553 of title 5, relating to publication in the Federal Register and public hearing
+procedure, shall apply to the promulgation of guidelines pursuant to this section.
+(Added PubX. 98-473, Title II, § 217(a), Oct. 12, 1984, 98 Stat. 2019, and amended Pub.L. 99-217, § 3, Dec. 26,
+1985, 99 Stat. 1728; Pub.L. 99-363, § 2, July 11,1986,100 Stat. 770; Pub.L. 99-570, Title I, §§ 1006(b), 1008, Oct.
+27,1986,100 Stat. 3214; Pub.L. 99-646, §§ 6(b), 56, Nov. 10,1986,100 Stat. 3592, 3611; Pub.L. 100-182, §§ 16(b),
+23, Dec. 7, 1987,101 Stat. 1269, 1271; Pub.L. 100-690, Title VII, §§ 7083, 7103(b), 7109, Nov. 18,1988,102 Stat.
+4408, 4418, 4419).
+EDITORIAL NOTES
+Codification. Amendment by Pub.L. 99-646 to subsec. (t) of this section has been executed to subsec. (u)
+as the probable intent of Congress in view of redesignation of subsec. (t) as (u) by Pub.L. 99-570.
+Effective Date of 1987 Amendment. Amendment by Pub.L. 100-182 applicable with respect to offenses
+committed after Dec. 7, 1987, see section 26 of Pub.L. 100-182.
+Effective Date. Section effective Oct. 12,1984, see section 235(a)(l)(B)(i) of Pub.L. 98-473, set out as a note
+under section 3551 of Title 18, Crimes and Criminal Procedure.
+Sexual Abuse and Exploitation of Minors; Amendment of Sentencing Guidelines. Pub.L. 102-141, Title VI,
+§ 632, Oct. 28, 1991, 105 Stat. 876, provided that:
+"(1) Pursuant to its authority under section 994 of title 28, United States Code [this section], the
+Sentencing Commission shall promulgate guidelines, or amend existing or proposed guidelines as follows:
+"(A) Guideline 2G2.2 to provide a base offense level of not less than 15 and to provide at least a 5
+level increase for offenders who have engaged in a pattern of activity involving the sexual abuse or
+exploitation of a minor.
+"(B) Guideline 2G2.4 to provide that such guideline shall apply only to offense conduct that involves
+the simple possession of materials proscribed by chapter 110 of title 18, United States Code [section 2251
+et seq. of Title 18, Crimes and Criminal Procedure] and guideline 2G2.2 to provide that such guideline
+shall apply to offense conduct that involves receipt or trafficking (including, but not limited to
+transportation, distribution, or shipping).
+"(C) Guideline 2G2.4 to provide a base offense level of not less than 13, and to provide at least a 2
+level increase for possessing 10 or more books, magazines, periodicals, films, video tapes or other items
+containing a visual depiction involving the sexual exploitation of a minor.
+"(D) Section 2G3.1 to provide a base offense level of not less than 10.
+"(2)(A) Notwithstanding any other provision of law, the Sentencing Commission shall promulgate the
+amendments mandated in subsection (1) by November 1,1991, or within 30 days after enactment [probably
+means date of enactment of Pub.L. 102-141, which was approved Oct. 28, 1991], whichever is later. The
+amendments to the guidelines promulgated under subsection (1) shall take effect November 1, 1991, or 30
+443 November 1, 1992
+
+[[PDF page 38]]
+days after enactment, and shall supersede any amendment to the contrary contained in the amendments to
+the sentencing guidelines submitted to the Congress by the Sentencing Commission on or about May 1,1991.
+"(B) The provisions of section 944(x) of title 28, United States Code [subsec. (x) of this section], shall
+not apply to the promulgation or amendment of guidelines under this section."
+Sexual Crimes Against Children; Amendment of Sentencing Guidelines. Pub.L. 101-647, Title III, § 321,
+Nov. 29, 1990, 104 Stat. 4817, provided that: "The United States Sentencing Commission shall amend existing
+guidelines for sentences involving sexual crimes against children, including offenses contained in chapter 109A
+of title 18 [chapter 109A of Title 18, Crimes and Criminal Procedure], so that more substantial penalties may
+be imposed if the Commission determines current penalties are inadequate."
+Sentencing Guidelines Increased Penalties in Major Bank Crimes Cases. Pub.L. 101-647, Title XXV,
+§ 2507, Nov. 29, 1990, 104 Stat. 4862, provided that:
+"(a) Increased Penalties.-Pursuant to section 994 of title 28, United States Code [this section], and
+section 21 of the Sentencing Act of 1987 [Pub.L. 100-182, § 21, set out as a note under this section] the
+United States Sentencing Commission shall promulgate guidelines, or amend existing guidelines, to provide
+that a defendant convicted of violating, or conspiring to violate, section 215, 656, 657,1005,1006,1007,1014,
+1032, or 1344 of title 18, United States Code [sections 215, 656, 657, 1005, 1006, 1007, 1014, 1032, or 1344
+of Title 18, Crimes and Criminal Procedure], or section 1341 or 1343 [section 1341 or 1343 of Title 18]
+affecting a financial institution (as defined in section 20 of title 18, United States Code) [section 20 of Title
+18] shall be assigned not less than offense level 24 under chapter 2 of the sentencing guidelines if the
+defendant derives more than $1,000,000 in gross receipts from the offense.
+"(b) Amendments to Sentencing Guidelines.-If the sentencing guidelines are amended after the effective
+date of this section, the Sentencing Commission shall implement the instruction set forth in subsection (a)
+so as to achieve a comparable result.
+Sentencing Guidelines Relating to Methamphetamine Offenses. Pub.L. 101-647, Title XXVII, § 2701, Nov.
+29, 1990, 104 Stat. 4912, provided that: "The United States Sentencing Commission is instructed to amend the
+existing guidelines for offenses involving smokable crystal methamphetamine under section 401(b) of the
+Controlled Substances Act (21 U.S.C. § 841(b)) [section 841(b) of Title 21, Food and Drugs] so that convictions
+for offenses involving smokable crystal methamphetamine will be assigned an offense level under the guidelines
+which is two levels above that which would have been assigned to the same offense involving other forms of
+methamphetamine."
+Special Rule for Certain Offenses Involving Children. Pub.L. 101-647, Title IV, § 401, Nov. 29,1990,104
+Stat 4819, amended 18 U.S.C. § 1201 by adding the following new subsection:
+n(g) Special Rule for Certain Offenses Involving Children.-
+"(1) To Whom Applicable.-If-
+"(A) the victim of an offense under this section has not attained the age of eighteen years; and
+"(B) the offender-
+"(i) has attained such age; and
+"(ii) is not-
+"(I) a parent;
+"(II) a grandparent;
+"(III) a brother;
+"(TV) a sister;
+"(V) an aunt;
+"(VI) an uncle; or
+"(VII) an individual having legal custody of the victim;
+the sentence under this section for such offense shall be subject to paragraph (2) of this subsection.
+"(2) Guidelines.-The United States Sentencing Commission is directed to amended the existing guidelines
+for the offense of 'kidnapping, abduction, or unlawful restraint,' by including the following additional specific
+444 November 1, 1992
+
+[[PDF page 39]]
+offense characteristics: If the victim was intentionally maltreated (i.e., denied either food or medical care)
+to a life-threatening degree, increase by 4 levels; if the victim was sexually exploited (i.e., abused, used
+involuntarily for pornographic purposes) increase by 3 levels; if the victim was placed in the care or custody
+of another person who does not have a legal right to such care or custody of the child either in exchange
+for money or other consideration, increase by 3 levels; if the defendant allowed the child to be subjected to
+any of the conduct specified in this section by another person, then increase by 2 levels."
+Sentencing Guidelines for Crimes Involving Federally Insured Financial Institutions. Pub.L. 101-73, Title
+IX, § 961(m), Aug. 9, 1989, 103 Stat. 501, provided that:
+"Pursuant to section 994 of title 28, United States Code [this section], and section 21 of the Sentencing Act
+of 1987 [Pub.L. 100-182, § 21, set out as a note under this section], the United States Sentencing Commission
+shall promulgate guidelines, or amend existing guidelines, to provide for a substantial period of incarceration for
+a violation of, or a conspiracy to violate, section 215, 656,657,1005,1006,1007,1014,1341,1343, or 1344 of title
+18, United States Code [sections 215, 656, 657, 1005, 1006, 1007, 1014, 1341, 1343, or 1344 of Title 18, Crimes
+and Criminal Procedure], that substantially jeopardizes the safety and soundness of a federally insured financial
+institution."
+Sentencing Guidelines for Personal Injury From Fraud. Pub.L. 100-700, Chapter 47, § 2(b), Nov. 19,1988,
+102 Stat. 4632, provided that:
+"Pursuant to its authority under section 994(p) of title 28, United States Code [section 994(p) of Title 28,
+Judiciary and Judicial Procedure] and section 21 of the Sentencing Act of 1987 [Pub.L. 100-182, § 21, set out as
+a note under this section], the United States Sentencing Commission shall promulgate guidelines, or shall amend
+existing guidelines, to provide for appropriate penalty enhancements, where conscious or reckless risk of serious
+personal injury resulting from the fraud has occurred. The Commission shall consider the appropriateness of
+assigning to such a defendant an offense level under Chapter Two of the sentencing guidelines that is at least
+two levels greater than the level that would have been assigned had conscious or reckless risk of serious personal
+injury not resulted from the fraud."
+Penalties For Importation of Controlled Substances by Aircraft and Other Vessels; Promulgation of
+Sentencing Guidelines. Section 6453 of Pub.L. 100-690 provided that:
+"(a) In general.—Pursuant to its authority under section 994(p) of title 28, United States Code [subsec. (p)
+of this section], and section 21 of the Sentencing Act of 1987 [section 21 of Pub.L. 100-182, set out as a note
+under this section], the United States Sentencing Commission shall promulgate guidelines, or shall amend existing
+guidelines, to provide that a defendant convicted of violating section 1010(a) of the Controlled Substances Import
+and Export Act (21 U.S.C. 960(a)) [section 960(a) of Title 21, Food and Drugs] under circumstances in which-
+"(1) an aircraft other than a regularly scheduled commercial air carrier was used to import the controlled
+substance; or
+"(2) the defendant acted as a pilot, copilot, captain, navigator, flight officer, or any other operation officer
+aboard any craft of vessel carrying a controlled substance,
+shall be assigned an offense level under chapter 2 of the sentencing guidelines that is-
+"(A) two levels greater than the level that would have been assigned had the offense not been
+committed under circumstances set forth in (A) or (B) above; and
+"(B) in no event less than level 26.
+11 (b) Effect of amendment.-If the sentencing guidelines are amended after the effective date of this section
+[probably means date of enactment of this section, Nov. 18, 1988], the Sentencing Commission shall implement
+the instruction set forth in subsection (a) so as to achieve a comparable result."
+Enhanced Penalties For Offenses Involving Children; Promulgation of Sentencing Guidelines. Section 6454
+of Pub L. 100-690 provided that:
+"(a) In general-Pursuant to its authority under section 994(p) of title 28, United States Code [subsec. (p)
+of this section], and section 21 of the Sentencing Act of 1987 [section 21 of Pub.L. 100-182, set out as a note
+under this section], the United States Sentencing Commission shall promulgate guidelines, or shall amend existing
+445 November 1, 1992
+
+[[PDF page 40]]
+guidelines, to provide that a defendant convicted of violating sections 405, 405A, or 405B of the Controlled
+Substances Act (21 U.S.C. 845, 845a or 845b) [sections 845, 845a, and 845b of Title 21, Food and Drugs]
+involving a person under 18 years of age shall be assigned an offense level under chapter 2 of the sentencing
+guidelines that is-
+"(1) two levels greater than the level that would have been assigned for the underlying controlled
+substance offense; and
+"(2) in no event less than level 26.
+"(b) Effects of amendment.—If the sentencing guidelines are amended after the effective date of this section
+[probably means date of enactment of this section, Nov. 18, 1988], the Sentencing Commission shall implement
+the instruction set forth in subsection (a) so as to achieve a comparable result.
+"(c) Multiple enhancements.—The guidelines referred to in subsection (a), as promulgated or amended under
+such subsection, shall provide that an offense that could be subject to multiple enhancements pursuant to such
+subsection is subject to not more than one such enhancement."
+Drug Offenses Within Federal Prisons; Promulgation of Sentencing Guidelines. Section 6468(c) and (d)
+of Pub.L. 100-690 provided that:
+"(c) Pursuant to its authority under section 994(p) of title 28, United States Code [subsec. (p) of this section],
+and section 21 of the Sentencing Act of 1987 [section 21 of Pub.L. 100-182, set out as a note under this section],
+the United States Sentencing Commission shall promulgate guidelines, or shall amend existing guidelines, to
+provide that a defendant convicted of violating section 1791(a)(l) of title 18, United States Code [section
+1791(a)(l) of Title 18, Crimes and Criminal Procedure], and punishable under section 1791(b)(l) of that title
+[section 1791(b)(l) of Title 18] as so redesignated, shall be assigned an offense level under chapter 2 of the
+sentencing guidelines that is—
+"(1) two levels greater than the level that would have been assigned had the offense not been committed
+in prison; and
+"(2) in no event less than level 26.
+"(d) If the sentencing guidelines are amended after the effective date of this section [probably means the date
+of enactment of this section, Nov. 18,1988], the Sentencing Commission shall implement the instruction set forth
+in subsection (c) so as to achieve a comparable result."
+Common Carrier Operation Under Influence of Alcohol or Drugs; Promulgation of Sentencing Guidelines.
+Section 6482(c) of Pub.L. 100-690 provided that:
+"(1) Pursuant to its authority under section 994(p) of title 28, United States Code [subsec. (p) of this
+section], and section 21 of the Sentencing Act of 1987 [section 21 of Pub.L. 100-182, set out as a note under
+this section], the United States Sentencing Commission shall promulgate guidelines, or shall amend existing
+guidelines, to provide that—
+"(A) a defendant convicted of violating section 342 of title 18, United States Code [section 342 of Title
+18, Crimes and Criminal Procedure], under circumstances in which death results, shall be assigned an
+offense level under chapter 2 of the sentencing guidelines that is not less than level 26; and
+"(B) a defendant convicted of violating section 342 of title 18, United States Code [section 342 of Title
+18, Crimes and Criminal Procedure], under circumstances in which serious bodily injury results, shall be
+assigned an offense level under chapter 2 of the sentencing guidelines that is not less than level 21.
+"(2) If the sentencing guidelines are amended after the effective date of this section [probably means date
+of enactment of this section, Nov. 18,1988], the Sentencing Commission shall implement the instruction set
+forth in paragraph (1) so as to achieve a comparable result."
+Emergency Guidelines Promulgation Authority. Section 21 of Pub.L. 100-182 provided that:
+"(a) In general.—In the case of—
+"(1) an invalidated sentencing guideline;
+"(2) the creation of a new offense or amendment of an existing offense; or
+"(3) any other reason relating to the application of a previously established sentencing guideline, and
+determined by the United States Sentencing Commission to be urgent and compelling;
+446 November 1, 1992
+
+[[PDF page 41]]
+the Commission, by affirmative vote of at least four members of the Commission, and pursuant to its rules and
+regulations and consistent with all pertinent provisions of title 28 and title 18, United States Code, shall
+promulgate and distribute to all courts of the United States and to the United States Probation System a
+temporary guideline or amendment to an existing guideline, to remain in effect until and during the pendency
+of the next report to Congress under section 994(p) of title 28, United States Code [subsec. (p) of this section].
+"(b) Expiration of authority.-The authority of the Commission under paragraphs (1) and (2) of subsection
+(a) shall expire on November 1, 1989. The authority of the Commission to promulgate and distribute guidelines
+under paragraph (3) of subsection (a) shall expire on May 1, 1988."
+Initial Sentencing Guidelines. Provisions directing that the United States Sentencing Commission submit
+to Congress within 30 months of Oct. 12,1984, the initial sentencing guidelines promulgated pursuant to subsec.
+(a)(l) of this section, see section 235(a)(l)(B)(i) of Pub.L. 98-473, as amended, set out as a note under section
+3551 of Title 18, Crimes and Criminal Procedure.
+Effective Date of Sentencing Guidelines. For provisions directing that the sentencing guidelines promulgated
+pursuant to subsec. (a)(l) of this section not go into effect until the day after-
+(I) the United States Sentencing Commission has submitted the initial set of sentencing guidelines to the
+Congress, along with a report stating the reasons for the Commission's recommendations;
+(II) the General Accounting Office has undertaken a study of the guidelines, and their potential impact in
+comparison with the operation of the existing sentencing and parole release system, and has, within one hundred
+and fifty days of submission of the guidelines, reported to the Congress the results of its study; and
+(III) the Congress has had six months after the date described in subclause (I) in which to examine the
+guidelines and consider the reports, see section 235(a)(l)(B)(ii) of Pub.L. 98-473, set out as a note under section
+3551 of Title 18, Crimes and Criminal Procedure.
+General Accounting Office Study of Impact and Operation of Sentencing Guideline System. Section 236
+of PubX. 98-473 provided that:
+"(a)(l) Four years after the sentencing guidelines promulgated pursuant to section 994(a)(l) [subsec. (a)(l)
+of this section], and the provisions of section 3581, 3583, and 3624 of title 18, United States Code, go into effect,
+the General Accounting Office shall undertake a study of the guidelines in order to determine their impact and
+compare the guideline system with the operation of the previous sentencing and parole release system, and within
+six months of the undertaking of such study, report to the Congress the results of its study.
+"(2) Within one month of the start of the study required under subsection (a), the United States Sentencing
+Commission shall submit a report to the General Accounting Office, all appropriate courts, the Department of
+Justice, and the Congress detailing the operation of the sentencing guideline system and discussing any problems
+with the system or reforms needed. The report shall include an evaluation of the impact of the sentencing
+guidelines on prosecutorial discretion, plea bargaining, disparities in sentencing, and the use of incarceration, and
+shall be issued by affirmative vote of a majority of the voting members of the Commission.
+"(b) The Congress shall review the study submitted pursuant to subsection (a) in order to determine-
+"(1) whether the sentencing guideline system has been effective;
+"(2) whether any changes should be made in the sentencing guideline system; and
+"(3) whether the parole system should be reinstated in some form and the life of the Parole Commission
+extended."
+Study of Sentencing Guidelines. Section 236 of Pub.L. 98-473 provided that:
+"(a)(l) Four years after the sentencing guidelines promulgated pursuant to section 994(a)(l) [subsec. (a)(l)
+of this section], and the provisions of sections 3581, 3583, and 3624 of title 18, United States Code, go into effect,
+the General Accounting Office shall undertake a study of the guidelines in order to determine their impact and
+compare the guidelines system with the operation of the previous sentencing and parole release system, and,
+within six months of the undertaking of such study, report to the Congress the results of its study.
+"(2) Within one month of the start of the study required under subsection (a), the United States Sentencing
+Commission shall submit a report to the General Accounting Office, all appropriate courts, the Department of
+447 November 1, 1992
+
+[[PDF page 42]]
+Justice, and the Congress detailing the operation of the sentencing guideline system and discussing any problems
+with the system or reforms needed. The report shall include an evaluation of the impact of the sentencing
+guidelines on prosecutorial discretion, plea bargaining, disparities in sentencing, and the use of incarceration, and
+shall be issued by affirmative vote of a majority of the voting members of the Commission.
+"(b) The Congress shall review the study submitted pursuant to subsection (a) in order to determine-
+"(1) whether the sentencing guideline system has been effective;
+"(2) whether any changes should be made in the sentencing guideline system; and
+"(3) whether the parole system should be reinstated in some form and the life of the Parole Commission
+extended."
+§ 995. Powers of the Commission
+(a) The Commission, by vote of a majority of the members present and voting, shall have the power to-
+(1) establish general policies and promulgate such rules and regulations for the Commission as are
+necessary to carry out the purposes of this chapter;
+(2) appoint and fix the salary and duties of the Staff Director of the Sentencing Commission, who shall
+serve at the discretion of the Commission and who shall be compensated at a rate not to exceed the highest
+rate now or hereafter prescribed for Level 6 of the Senior Executive Service Schedule (5 U.S.C. 5382);
+(3) deny, revise, or ratify any request for regular, supplemental, or deficiency appropriations prior to any
+submission of such request to the Office of Management and Budget by the Chairman;
+(4) procure for the Commission temporary and intermittent services to the same extent as is authorized
+by section 3109(b) of title 5, United States Code;
+(5) utilize, with their consent, the services, equipment, personnel, information, and facilities of other
+Federal, State, local, and private agencies and instrumentalities with or without reimbursement therefor;
+(6) without regard to 31 U.S.C. 3324, enter into and perform such contracts, leases, cooperative
+agreements, and other transactions as may be necessary in the conduct of the functions of the Commission,
+with any public agency, or with any person, firm, association, corporation, educational institution, or
+nonprofit organization;
+(7) accept and employ, in carrying out the provisions of this title, voluntary and uncompensated services,
+notwithstanding the provisions of 31 U.S.C. 1342, however, individuals providing such services shall not be
+considered Federal employees except for purposes of chapter 81 of title 5, United States Code, with respect
+to job-incurred disability and title 28, United States Code, with respect to tort claims;
+(8) request such information, data, and reports from any Federal agency or judicial officer as the
+Commission may from time to time require and as may be produced consistent with other law;
+(9) monitor the performance of probation officers with regard to sentencing recommendations, including
+application of the Sentencing Commission guidelines and policy statements;
+(10) issue instructions to probation officers concerning the application of Commission guidelines and
+policy statements;
+(11) arrange with the head of any other Federal agency for the performance by such agency of any
+function of the Commission, with or without reimbursement;
+(12) establish a research and development program within the Commission for the purpose of—
+(A) serving as a clearinghouse and information center for the collection, preparation, and
+dissemination of information on Federal sentencing practices; and
+(B) assisting and serving in a consulting capacity to Federal courts, departments, and agencies in the
+development, maintenance, and coordination of sound sentencing practices;
+(13) collect systematically the data obtained from studies, research, and the empirical experience of
+public and private agencies concerning the sentencing process;
+(14) publish data concerning the sentencing process;
+(15) collect systematically and disseminate information concerning sentences actually imposed, and the
+relationship of such sentences to the factors set forth in section 3553(a) of title 18, United States Code;
+(16) collect systematically and disseminate information regarding effectiveness of sentences imposed;
+448 November 1, 1992
+
+[[PDF page 43]]
+(17) devise and conduct, in various geographical locations, seminars and workshops providing continuing
+studies for persons engaged in the sentencing field;
+(18) devise and conduct periodic training programs of instruction in sentencing techniques for judicial
+and probation personnel and other persons connected with the sentencing process;
+(19) study the feasibility of developing guidelines for the disposition of juvenile delinquents;
+(20) make recommendations to Congress concerning modification or enactment of statutes relating to
+sentencing, penal, and correctional matters that the Commission finds to be necessary and advisable to carry
+out an effective, humane and rational sentencing policy;
+(21) hold hearings and call witnesses that might assist the Commission in the exercise of its powers or
+duties;
+(22) perform such other functions as are required to permit Federal courts to meet their responsibilities
+under section 3553(a) of title 18, United States Code, and to permit others involved in the Federal criminal
+justice system to meet their related responsibilities;
+(23) retain private attorneys to provide legal advice to the Commission in the conduct of its work, or to
+appear for or represent the Commission in any case in which the Commission is authorized by law to
+represent itself, or in which the Commission is representing itself with the consent of the Department of
+Justice; and the Commission may in its discretion pay reasonable attorney's fees to private attorneys
+employed by it out of its appropriated funds. When serving as officers or employees of the United States,
+such private attorneys shall be considered special government employees as defined in section 202(a) of title
+18; and
+(24) grant incentive awards to its employees pursuant to chapter 45 of title 5, United States Code.
+(b) The Commission shall have such other powers and duties and shall perform such other functions as may
+be necessary to carry out the purposes of this chapter, and may delegate to any member or designated person
+such powers as may be appropriate other than the power to establish general policy statements and guidelines
+pursuant to section 994(a)(l) and (2), the issuance of general policies and promulgation of rules and regulations
+pursuant to subsection (a)(l) of this section, and the decisions as to the factors to be considered in establishment
+of categories of offenses and offenders pursuant to section 994(b). The Commission shall, with respect to its
+activities under subsections (a)(9), (a)(10), (a)(ll), (a)(12), (a)(13), (a)(14), (a)(15), (a)(16), (a)(17), and (a)(18),
+to the extent practicable, utilize existing resources of the Administrative Office of the United States Courts and
+the Federal Judicial Center for the purpose of avoiding unnecessary duplication.
+(c) Upon the request of the Commission, each Federal agency is authorized and directed to make its
+services, equipment, personnel, facilities, and information available to the greatest practicable extent to the
+Commission in the execution of its functions.
+(d) A simple majority of the membership then serving shall constitute a quorum for the conduct of business.
+Other than for the promulgation of guidelines and policy statements pursuant to section 994, the Commission
+may exercise its powers and fulfill its duties by the vote of a simple majority of the members present.
+(e) Except as otherwise provided by law, the Commission shall maintain and make available for public
+inspection a record of the final vote of each member on any action taken by it.
+(Added Pub L 98-473, Title II, § 217(a), Oct. 12, 1984, 98 Stat. 2024; amended Pub.L. 100-690, Title VII, §§
+7104, 7105, 7106(b), Nov. 18,1988, 102 Stat. 4418; Pub.L. 101-650, Title III, § 325(b)(5), Dec. 1, 1990, 104 Stat.
+512L)
+EDITORIAL NOTES
+References in Text. The provisions of title 28, United States Code, with respect to tort claims, referred to
+in subsec. (a)(7), are classified generally to section 1346(b) and chapter 171 (section 2671 et seq.) of this title.
+449 November 1, 1992
+
+[[PDF page 44]]
+Effective Date. Section effective Oct. 12,1984, see section 235(a)(l)(B)(i) of Pub.L. 98-473, set out as a note
+under section 3551 of Title 18, Crimes and Criminal Procedure.
+§996. Director and staff
+(a) The Staff Director shall supervise the activities of persons employed by the Commission and perform
+other duties assigned to him by the Commission.
+(b) The Staff Director shall, subject to the approval of the Commission, appoint such officers and employees
+as are necessary in the execution of the functions of the Commission. The officers and employees of the
+Commission shall be exempt from the provisions of part III of title 5, United States Code, except the following
+chapters: 45 (Incentive Awards), 81 (Compensation for Work Injuries), 83 (Retirement), 85 (Unemployment
+Compensation), 87 (Life Insurance), and 89 (Health Insurance).
+(Added Pub.L. 98-473, Title II, § 217(a), Oct. 12, 1984, 98 Stat. 2026, and amended Pub.L. 100-690, Title VII,
+§ 7106(c), Nov. 18, 1988, 102 Stat. 4418; Pub.L. 101-650, Title III, § 325(b)(6), Dec. 1, 1990, 104 Stat. 5121.)
+EDITORIAL NOTES
+Effective Date. Section effective Oct. 12,1984, see section 235(a)(l)(B)(i) of Pub.L. 98-473, set out as a note
+under section 3551 of Title 18, Crimes and Criminal Procedure.
+§ 997. Annual report
+The Commission shall report annually to the Judicial Conference of the United States, the Congress, and
+the President of the United States on the activities of the Commission.
+(Added Pub.L. 98-473, Title II, § 217(a), Oct. 12, 1984, 98 Stat. 2026.)
+EDITORIAL NOTES
+Effective Date. Section effective Oct. 12,1984, see section 235(a)(l)(B)(i) of Pub.L. 98-473, set out as a note
+under section 3551 of Title 18, Crimes and Criminal Procedure.
+§998. Definitions
+As used in this chapter—
+(a) "Commission" means the United States Sentencing Commission;
+(b) "Commissioner" means a member of the United States Sentencing Commission;
+(c) "guidelines" means the guidelines promulgated by the Commission pursuant to section 994(a) of this
+title; and
+(d) "rules and regulations" means rules and regulations promulgated by the Commission pursuant to
+section 995 of this title.
+(Added Pub.L. 98-473, Title II, § 217(a), Oct. 12, 1984, 98 Stat. 2026.)
+450 November 1, 1992
+
+[[PDF page 45]]
+EDITORIAL NOTES
+Effective Date. Section effective Oct. 12,1984, see section 235(a)(l)(B)(i) of Pub.L. 98-473, set out as a note
+under section 3551 of Title 18, Crimes and Criminal Procedure.
+451 November 1, 1992

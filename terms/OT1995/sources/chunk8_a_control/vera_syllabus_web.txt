@@ -1,0 +1,63 @@
+Bush v. Vera, 517 U.S. 952 (1996). (https://www.law.cornell.edu/supct/html/94-805.ZS.html)
+citeturn21view0 [wordlim: 200] Crawled: 6 days ago; Content type: text/html; Source: open({"ref_id":"https://www.law.cornell.edu/supct/html/94-805.ZS.html","lineno":null}); Total lines: 68
+L0: Bush v. Vera (94-805), 517 U.S. 952 (1996).
+L1: Opinion
+L2: [ O'Connor ]  | Concurrence
+L3: [ O'Connor ]  | Syllabus
+L4:  | Dissent
+L5: [ Stevens ]  | Concurrence
+L6: [ Kennedy ]  | Dissent
+L7: [ Souter ]  | Concurrence
+L8: [ Thomas ]
+L9: --- | --- | --- | --- | --- | --- | ---
+L10: cite0†HTML version L11: cite1†WordPerfect version | cite2†HTML version L12: cite3†WordPerfect version | cite4†HTML version L13: cite5†WordPerfect version | cite6†HTML version L14: cite7†WordPerfect version | cite8†HTML version L15: cite9†WordPerfect version | cite10†HTML version L16: cite11†WordPerfect version | cite12†HTML version L17: cite13†WordPerfect version L18: NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued. The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader. See United States v. Detroit Lumber Co., cite14†200 U.S. 321 , 337.
+L19: 
+L20: SUPREME COURT OF THE UNITED STATES
+L21: 
+L22: Syllabus
+L23: ### BUSH, GOVERNOR OF TEXAS, et al. v. VERA et al.
+L24: #### appeal from the district court for the southern district of texas
+L25: 
+L26: No. 94-805. Argued December 5, 1995 -- Decided June 13, 1996
+L27: 
+L28: ^{cite15†[n.*] }
+L29: Because the 1990 census revealed a population increase entitling Texas to three additional congressional seats, and in an attempt to comply with the Voting Rights Act of 1965 (VRA), the Texas Legislature promulgated a redistricting plan that, among other things, created District 30 as a new majority African American district in Dallas County and District 29 as a new majority Hispanic district in Harris County, and reconfigured District 18, which is adjacent to District 29, as a majority African American district.
+L30: After the Department of Justice precleared the plan under VRA §5, the plaintiffs, six Texas voters, filed this challenge alleging that 24 of the State's 30 congressional districts constitute racial gerrymanders in violation of the cite16†Fourteenth Amendment . The three judge District Court held Districts 18, 29, and 30 unconstitutional. The Governor of Texas, private intervenors, and the United States (as intervenor) appeal.
+L31: Held: The judgment is affirmed.
+L32: 
+L33: 861 F. Supp. 1304, affirmed.
+L34: 
+L35: Justice O'Connor, joined by The Chief Justice and Justice Kennedy, concluded:
+L36: 1. Plaintiff Chen, who resides in District 25 and has not alleged any specific facts showing that he personally has been subjected to any racial classification, lacks standing under United States v. Hays, 515 U. S. ___, ___. But plaintiffs Blum and Powers, who reside in District 18, plaintiffs Thomas and Vera, who reside in District 29, and plaintiff Orcutt, who resides in District 30, have standing to challenge Districts 18, 29, and 30. See, e.g., id., at ___. Pp. 2-3.
+L37: 2. Districts 18, 29, and 30 are subject to strict scrutiny under this Court's precedents. Pp. 3-22.
+L38: (a) Strict scrutiny applies where race was "the predominant factor" motivating the drawing of district lines, see, e.g., Miller v. Johnson, 515 U. S. ___, ___ (emphasis added), and traditional, race neutral districting principles were subordinated to race, see id., at ___. This is a mixed motive case, and a careful review is therefore necessary to determine whether the districts at issue are subject to such scrutiny.
+L39: Findings that Texas substantially neglected traditional districting criteria such as compactness, that it was committed from the outset to creating majority minority districts, and that it manipulated district lines to exploit unprecedentedly detailed racial data, taken together, weigh in favor of the application of strict scrutiny.
+L40: However, because factors other than race, particularly incumbency protection, clearly influenced the legislature, each of the challenged districts must be scrutinized to determine whether the District Court's conclusion that race predominated can be sustained. Pp. 3-10.
+L41: (b) District 30 is subject to strict scrutiny. Appellants do not deny that the district shows substantial disregard for the traditional districting principles of compactness and regularity, or that the redistricters pursued unwaveringly the objective of creating a majority African American district.
+L42: Their argument that the district's bizarre shape is explained by efforts to unite communities of interest, as manifested by the district's consistently urban character and its shared media sources and major transportation lines to Dallas, must be rejected.
+L43: The record contains no basis for displacing the District Court's conclusion that race predominated over the latter factors, particularly in light of the court's findings that the State's supporting data were largely unavailable to the legislature before the district was created and that the factors do not differentiate the district from surrounding areas with the same degree of correlation to district lines that racial data exhibit.
+L44: Appellants' more substantial claim that incumbency protection rivaled race in determining the district's shape is also unavailing. The evidence amply supports the District Court's conclusions that racially motivated gerrymandering had a qualitatively greater influence on the drawing of district lines than politically motivated gerrymandering, which is not subject to strict scrutiny, see Davis v. Bandemer, cite17†478 U.S.
+L45: 109 , 132 (White, J., plurality opinion); and that political gerrymandering was accomplished in large part by the use of race as a proxy for political characteristics, which is subject to such scrutiny, cf. Powers v. Ohio, cite18†499 U.S. 400 , 410. Pp. 10-19.
+L46: (c) Interlocking Districts 18 and 29 are also subject to strict scrutiny. Those districts' shapes are bizarre, and their utter disregard of city limits, local election precincts, and voter tabulation district lines has caused a severe disruption of traditional forms of political activity and created administrative headaches for local election officials.
+L47: Although appellants adduced evidence that incumbency protection played a role in determining the bizarre district lines, the District Court's conclusion that the districts' shapes are unexplainable on grounds other than race and, as such, are the product of presumptively unconstitutional racial gerrymandering is inescapably corroborated by the evidence. Pp. 19-22.
+L48: 3. Districts 18, 29, and 30 are not narrowly tailored to serve a compelling state interest. Pp. 22-30.
+L49: (a) Creation of the three districts was not justified by a compelling state interest in complying with the "results" test of VRA §2(b). It may be assumed without deciding that such compliance can be a compelling state interest. See, e.g., Shaw v. Hunt, ante, at 13 (Shaw II). States attempting to comply with §2 retain discretion to apply traditional districting principles and are entitled to a limited degree of leeway.
+L50: But a district drawn in order to satisfy §2 must not subordinate traditional districting principles to race substantially more than is reasonably necessary. The districts at issue fail this test, since all three are bizarrely shaped and far from compact, and those characteristics are predominantly attributable to gerrymandering that was racially motivated and/or achieved by the use of race as a proxy. Appellants Lawson et al. misinterpret Miller, 515 U.
+L51: S., at ___, when they argue that bizarre shaping and noncompactness go only to motive and are irrelevant to the narrow tailoring inquiry. Also unavailing is the United States' contention that insofar as bizarreness and noncompactness are necessary to achieve the State's compelling interest in compliance with §2 while simultaneously achieving other legitimate redistricting goals, the narrow tailoring requirement is satisfied.
+L52: The bizarre shaping and noncompactness of the districts in question were predominantly attributable to racial, not political, manipulation, while the Government's argument addresses the case of an otherwise compact majority minority district that is misshapen by predominantly nonracial, political manipulation. Pp. 22-27.
+L53: (b) The district lines at issue are not justified by a compelling state interest in ameliorating the effects of racially polarized voting attributable to Texas' long history of discrimination against minorities in electoral processes. Among the conditions that must be satisfied to render an interest in remedying discrimination compelling is the requirement that the discrimination be specific and "identified." Shaw II, ante, at ___.
+L54: Here, the only current problem that appellants cite as in need of remediation is alleged vote dilution as a consequence of racial bloc voting, the same concern that underlies their VRA §2 compliance defense. Once the correct standard is applied, the fact that these districts are not narrowly tailored to comply with §2 forecloses this line of defense. Pp. 27-29.
+L55: (c) Creation of District 18 (only) was not justified by a compelling state interest in complying with VRA §5, which seeks to prevent voting procedure changes leading to a retrogression in the position of racial minorities with respect to their effective exercise of the electoral franchise. See, e.g., Miller, supra, at ___.
+L56: The problem with appellants' contention that this "nonretrogression" principle applies because Harris County previously contained a congressional district in which African American voters always succeeded in selecting African American representatives is that it seeks to justify not maintenance, but substantial augmentation, of the African American population percentage, which has grown from 40.8% in the previous district to 50.9% in District 18.
+L57: Nonretrogression is not a license for the State to do whatever it deems necessary to insure continued electoral success; it merely mandates that the minority's opportunity to elect representatives of its choice not be diminished, directly or indirectly, by the State's actions. District 18 is not narrowly tailored to the avoidance of §5 liability. See Shaw v. Reno, cite19†509 U.S. 630 , 655. Pp. 29-30.
+L58: 4. Various of the dissents' arguments, none of which address the specifics of this case, and which have been rebutted in other decisions, must be rejected. Pp. 30-32.
+L59: Justice Thomas, joined by Justice Scalia, concluded that application of strict scrutiny in this case was never a close question, since this Court's decisions have effectively resolved that the intentional creation of majority minority districts, by itself, is sufficient to invoke such scrutiny. See, e.g., Adarand Constructors, Inc. v. Peña, 515 U. S. ___, ___ (strict scrutiny applies to all government classifications based on race); Miller v. Johnson, 515 U. S.
+L60: ___ , ___ (Georgia's concession that it intentionally created majority minority districts was sufficient to show that race was a predominant, motivating factor in its redistricting). DeWitt v. Wilson, 515 U. S. ___, distinguished. Application of strict scrutiny is required here because Texas has readily admitted that it intentionally created majority minority districts and that those districts would not have existed but for its affirmative use of racial demographics.
+L61: Assuming that the State has asserted a compelling state interest, its redistricting attempts were not narrowly tailored to achieve that interest. Pp. 1-5.
+L62: O'Connor, J., announced the judgment of the Court and delivered an opinion, in which Rehnquist, C. J., and Kennedy, J., joined. O'Connor, J., also filed a separate concurring opinion. Kennedy, J., filed a concurring opinion. Thomas, J., filed an opinion concurring in the judgment, in which Scalia, J., joined. Stevens, J., filed a dissenting opinion, in which Ginsburg and Breyer, JJ., joined. Souter, J., filed a dissenting opinion, in which Ginsburg and Breyer, JJ., joined.
+L63: 
+L64: * * *
+L65: ## Notes
+L66: 
+L67: cite20†* Together with No. 94-806, Lawson et al. v. Vera et al., and No. 94-988, United States v. Vera et al., also on appeal from the same court.
+

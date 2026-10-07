@@ -1,0 +1,19 @@
+# OT1995 chunk 8 B - control-only source provenance
+
+Do not give this file, the raw source directory or its comparator-only PDFs to a clean neutral validator or independent modeler. Give only the sanitized SOURCE_PREFLIGHT supplement, selected enacted texts, authorized neutral packet and entering public law.
+
+The source agent initially received only permitted neutral matter packets, current neutral projection, governing instructions and opening public law. A general source search returned a Jaffee Supreme Court result/rationale snippet, Egelhoff Supreme Court rationale/result snippets, and later a reported vote snippet. The agent immediately notified control and thereafter served only as a source extractor; no commitments or adjudication were produced. Later source lookup of Koon's governing manual edition exposed incidental Supreme Court rationale. Retrieval metadata and the raw OpenJurist wrappers also contain later treatment. Those wrappers are not neutral handoff material. The exposed agent has not claimed clean independence and must not repair neutral framing, validate neutrality or model these matters.
+
+All same-matter Supreme Court substance is excluded from OT_1995CHUNK8_B_SOURCE_PREFLIGHT.md except two identified objective-record extractions: Egelhoff's uncontested charge language at 518 U.S. 40-41 (petition appendix 28a-29a); and Koon's 1992 Guidelines edition at 518 U.S. 88-89. Their status as extracted published recitations is explicit. Neither original appendix is represented as recovered/read. The fresh neutral validator must independently test the sanitized facts and framing under Engine §§3A and 14 before a distinct independent modeling context receives the final packet.
+
+Full official reports saved for the separate historical-reconciliation source verifier:
+
+- `terms/OT1995/sources/CHUNK8_B/COMPARATOR_ONLY_Jaffee_SC_1996.pdf` and `.txt` - https://tile.loc.gov/storage-services/service/ll/usrep/usrep518/usrep518001/usrep518001.pdf
+- `terms/OT1995/sources/CHUNK8_B/COMPARATOR_ONLY_Egelhoff_SC_1996.pdf` and `.txt` - https://tile.loc.gov/storage-services/service/ll/usrep/usrep518/usrep518037/usrep518037.pdf
+- `terms/OT1995/sources/CHUNK8_B/COMPARATOR_ONLY_Koon_SC_1996.pdf` and `.txt` - https://tile.loc.gov/storage-services/service/ll/usrep/usrep518/usrep518081/usrep518081.pdf
+
+These full reports were downloaded and text-extracted, not fully reviewed in this source preflight; a later full-writing comparator verification remains required. Lower Jaffee and Rise opinions (including notes), Koon's complete sentencing discussion and material notes, Egelhoff's published lower opinion material, and complete selected enacted/policy provisions were inspected. The bulk USSG chapters were retained as source files, but unselected unrelated provisions are not represented as read or relied on.
+
+Retrieval limits: direct Midpage HTTP returned 429; its lower Egelhoff text was read through the web tool, with vLex body cross-check. vLex's metadata mislabels October 1994 while the opinion body supplies July 6, 1995. Two guessed 1994 Code URLs failed; the official 1975 Evidence Rules enactment was successfully recovered instead. `FRE_501_1975_Stat1933.html/.txt` is a recorded failed retrieval, not authority. Internet Archive advanced-search URLs for Jaffee/Egelhoff were attempted through the web tool and inaccessible in that interface; this is not a completed collection search and no assertion that either docket is missing is made. Original petitions/briefs/appendices were not needed for the identified narrow facts given adequate published recitations; if a further original-record fork becomes material, the required full collection search remains to be performed then.
+
+No git command was used. No top-level private directory was read, listed or searched. Writes are limited to terms/OT1995 and tmp. No brief or governing infrastructure was edited.

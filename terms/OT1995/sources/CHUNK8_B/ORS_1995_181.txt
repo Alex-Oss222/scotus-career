@@ -1,0 +1,3843 @@
+SOURCE: https://archives.oregonlegislature.gov/ORS_Archives/1995-Chapter-181.htm
+
+Chapter
+181
+1995
+EDITION
+State
+Police; Crime Reporting and Records; Public Safety Standards and Training
+STATE
+POLICE; CRIME REPORTING; TRAINING
+EXECUTIVE
+BRANCH; ORGANIZATION
+STATE
+POLICE
+181.010���������� Definitions
+for ORS 181.010 to 181.560 and 181.715 to 181.730
+181.020���������� Department
+of State Police established
+181.030���������� Powers
+and duties of department and its members
+181.040���������� Department
+to enforce laws relating to highways and operation of vehicles on highways;
+power of arrest possessed by persons not members of department
+181.050���������� Duty
+to enforce laws and regulations of agencies
+181.066���������� Bureau
+of criminal identification
+181.070���������� State
+detective bureau
+181.080���������� Crime
+detection laboratories
+181.085���������� Authority
+over blood samples and analyses; disclosure; inspection by subject person;
+destruction of sample
+181.090���������� Headquarters
+and patrol stations
+181.100���������� Organization
+of work of department
+181.110���������� Distribution
+of police throughout state
+181.120���������� Standard
+uniform for state police
+181.130���������� Service
+without wearing uniform
+181.140���������� Wearing
+uniforms by other persons prohibited
+181.150���������� Supplies
+and equipment of state police as state property; exceptions
+181.170���������� Damage
+or loss of property by neglect of member; deduction from pay
+181.175���������� State
+Police Account; subaccount; uses
+181.180���������� Petty
+cash account
+181.190���������� Commanding
+assistance of citizens
+181.200���������� Superintendent
+of State Police; appointment; confirmation; removal
+181.210���������� Oath
+and bond of superintendent and deputy
+181.220���������� Deputy
+Superintendent of State Police; qualifications, appointment and removal
+181.240���������� Powers
+and duties of deputy superintendent
+181.250���������� State
+police force; appointment; examination and enlistment of applicants
+181.260���������� Qualifications
+for appointment and reappointment as member of state police; special officers
+181.265���������� Qualification
+for cadets and legislative and executive security personnel
+181.271���������� Salaries
+of state police
+181.280���������� Instruction;
+rules and regulations for discipline and control
+181.290���������� Grounds
+for removal of state police
+181.300���������� Proceeding
+for removal
+181.310���������� Superintendent
+to make rules and regulations governing proceedings for removal
+181.320���������� Trial
+board; members; presiding officer
+181.330���������� Hearing
+on charges; compelling attendance of witnesses; fees and mileage
+181.340���������� Finding
+of trial board; action by superintendent
+181.350���������� Procedure
+for review of decision of trial board
+181.360���������� Directors
+of crime detection laboratories
+181.390���������� Oath
+of members of state police
+181.400���������� Interference
+with personal and property rights of others
+181.410���������� Records
+and reports of time spent in performance of duties; approval of claims
+181.440���������� Eligibility
+of towing business to be placed on department list
+STATE
+POLICE AS EXPERT WITNESSES
+181.450���������� Definitions
+for ORS 181.450 to 181.490
+181.455���������� Member
+of State Police as expert witness; subpoena
+181.460���������� Payment
+of member called as expert witness; reimbursement of department; deposit
+181.465���������� Demand
+for payment of deposit; effect of failure to pay on demand
+181.470���������� Deposit
+prior to requiring member of department to return beyond day stated in subpoena
+181.475���������� Application
+of ORS 181.455, 181.460 and 181.470 to subpoenas for depositions
+181.480���������� Agreement
+to appear at time other than time specified in subpoena
+181.485���������� Action
+by department to recover funds if member appearing as expert witness not
+reimbursed
+181.490���������� Exception
+to provisions of ORS 181.450 to 181.485
+COMMUNITY
+POLICING DEMONSTRATION PROJECTS
+181.495���������� Grant
+program; eligibility; project elements
+181.496���������� Evaluation
+of projects
+181.497���������� Training
+program for local law enforcement units
+MISSING
+CHILDREN CLEARINGHOUSE
+181.505���������� Establishment
+and maintenance of missing children clearinghouse
+181.506���������� Duties
+of administrator of clearinghouse
+CRIME
+REPORTING
+181.511���������� Fingerprints,
+identifying data, disposition report required upon arrest
+181.515���������� Crimes
+for which criminal offender information is required
+181.521���������� Transmittal
+of disposition report
+181.525���������� Copy
+of certain disposition reports to Teacher Standards and Practices Commission
+and Department of Education
+181.530���������� Report
+of release or escape from state institution of certain inmates
+181.535���������� Criminal
+identification information available to Executive Secretary of Oregon Racing
+Commission
+181.537���������� Criminal
+identification information available to Department of Human Resources and
+Employment Department
+181.538���������� Criminal
+identification information available to Native American tribe
+181.539���������� Criminal
+identification information available to Teacher Standards and Practices
+Commission and Department of Education
+181.540���������� Confidentiality
+of some records
+181.550���������� Reporting
+of crime statistics
+181.555���������� Establishment
+of procedures for access to criminal record information
+181.557���������� Procedure
+when information requested by designated agency
+181.560���������� Procedure
+when information requested by other than criminal justice agency
+181.575���������� Specific
+information not to be collected or maintained
+181.580���������� Report
+of suspected criminal homicide; form and time of report; compilation;
+comparison
+PREDATORY
+SEX OFFENDER
+NOTICE
+PROCEDURE
+181.585���������� �Predatory
+sex offender� defined; determination
+181.586���������� Notice
+to appropriate persons of supervised predatory sex offender; content
+181.587���������� Availability
+of information on supervised predatory sex offender
+181.588���������� Notice
+to appropriate persons of unsupervised predatory sex offender; content; release
+of lists
+181.589���������� Notice
+to appropriate persons of unsupervised juvenile predatory sex offender; content
+SEX
+OFFENDER REGISTRATION
+181.594���������� Definitions
+for ORS 181.595 and 181.596
+181.595���������� Report
+of information on sex offender who is discharged, paroled or released on
+supervised release from correctional facility or another state; change of
+address procedure
+181.596���������� Report
+of information on sex offender released or discharged; change of address
+procedure
+181.597���������� Certain
+persons required to register upon moving into state
+181.598���������� Registration
+forms; State Police to provide
+181.599���������� Effect
+of failure to register
+181.600���������� Relief
+from registration requirement; procedure
+181.601���������� Victim
+access to sex offender information; toll-free telephone number
+181.602���������� Purpose
+of sex offender registration requirements
+PUBLIC
+SAFETY STANDARDS
+AND
+TRAINING
+181.610���������� Definitions
+for ORS 181.610 to 181.690
+181.620���������� Board
+on Public Safety Standards and Training; term limit; confirmation
+181.630���������� Organization
+of board; approval of claims; meetings
+181.635���������� Appointment
+of executive director and secretary of board
+181.640���������� Minimum
+standards and training for certification; annual report; duties in improving
+public safety units; grants; rules
+181.642���������� Training
+in identification of crimes motivated by prejudice or that constitute abuse
+181.644���������� Certification
+of telecommunicator or emergency medical dispatcher required; extension
+181.645���������� Police,
+corrections, parole and probation or certified reserve officers required to be
+at least 21 years of age
+181.650���������� Certification
+of training programs and instructors
+181.651���������� Certification
+of full-time board employees
+181.652���������� Certification
+of corrections officers required; extension; when training to commence
+181.653���������� Certification
+of Department of Corrections parole and probation officers required; extension
+181.654���������� Certification
+of certain Law Enforcement Data System employees
+181.655���������� Reimbursement
+for training to local law enforcement units
+181.660���������� Application
+of minimum standards and training to certain persons; certification based on
+experience
+181.661���������� Procedure
+prior to revocation of certification
+181.662���������� Grounds
+for denying or revoking certification of person
+181.664���������� Judicial
+review of board's final order; reapplication for certification
+181.665���������� Uncertified
+person not to be employed as police officer or utilized as certified reserve
+officer for period exceeding one year without extension; training requirements
+181.667���������� Lapse
+of certification; reapplication for certification
+181.670���������� Effect
+of minimum requirements under authority other than ORS 181.640
+181.690���������� Police
+Standards and Training Account
+181.700���������� Legislative
+intent; use of funds
+181.705���������� Minimum
+standards and training requirements not applicable to certain police officers
+181.711���������� Board
+not required to provide training for certification of reserve officers
+181.712���������� Child
+abuse and domestic violence training; report
+CRIMINAL
+JUSTICE
+INFORMATION
+SYSTEM
+181.715���������� Criminal
+Justice Information System established; duties; application
+181.720���������� Duties
+of state criminal justice agencies
+181.725���������� Criminal
+Justice Information System Advisory Board; members; expenses
+181.730���������� Law
+Enforcement Data System established; duties; rules
+OREGON
+COMMUNITY CRIME
+PREVENTION
+INFORMATION CENTER
+181.750���������� Definitions
+for ORS 181.750 to 181.765
+181.755���������� Oregon
+Community Crime Prevention Information Center; duties
+181.760���������� Coordinator;
+appointment; duties
+181.765���������� Advisory
+committee; meetings; expenses
+POLICE
+GENERALLY
+181.850���������� Enforcement
+of federal immigration laws
+REGULATION
+OF PRIVATE SECURITY SERVICE PROVIDERS
+181.870���������� Definitions
+181.871���������� Applicability
+181.873���������� Prohibited
+acts; temporary assignment of person not certified allowed
+181.875���������� Qualifications
+for private security officer
+181.876���������� Application
+procedure
+181.878���������� Board
+on Public Safety Standards and Training to establish standards, procedures and
+fees; rules
+181.880���������� Licenses
+and certificates; issuance; duration
+181.882���������� Hearing
+if license or certificate denied, suspended or revoked
+181.883���������� Training
+requirements
+181.885���������� Effect
+of being charged with crime
+181.886���������� Persons
+providing private security services on September 9, 1995
+181.887���������� Disposition
+of funds received by board
+181.889���������� Advisory
+Committee on Private Security Services
+PENALTIES
+181.990���������� Penalties
+181.991���������� Penalties
+relating to regulation of private security services; criminal and civil
+CROSS-REFERENCES
+Criminal
+identification information on real estate appraisers, 674.170
+Disciplinary
+actions against officers, 236.350 to 236.370
+Human
+remains suspected to be of Native American, discovery, notice, 97.745
+181.010
+to 181.705
+Oregon
+State Lottery, criminal justice agency, 461.110
+181.030
+Abandoned
+vehicles, disposition, 819.110 to 819.260
+Arrest,
+duties under warrant, 133.110 to 133.140
+Attorney
+General to defend department and its members and to conduct prosecutions,
+180.120
+Authority
+of peace officer to arrest without warrant, 133.310
+Boating
+laws, cooperation with State Marine Board to enforce, 830.110
+Child
+with disabilities, duty to report, 343.193
+Dead
+and missing persons, identification, duties of police, 146.505 to 146.545
+Duties
+related to precursor substances, 475.945
+Elderly
+abuse, duty to report, 124.050 to 124.095
+Emergency
+services, coordination by Director of Office of Emergency Management of
+Department of State Police, 401.270
+Enforcement
+of:
+Boxing
+and wrestling regulation, Ch. 463
+Commercial
+fishing laws, criminal provisions, 506.511
+Environmental
+Quality Commission rules regulating motor vehicle operation and traffic for
+control of air pollution, 468A.455
+Fish
+and game, criminal laws relating to, 496.610
+Laws
+and ordinances relating to arson and fraudulent claims and practices in
+connection with fire laws, 476.110
+Lottery,
+Ch. 461
+Motor
+carrier regulation, 825.300
+Oregon
+Liquor Control Act, 471.605
+Safety
+code for vehicles used to transport workers, 821.040
+Wildlife
+laws, 496.610
+Exclusion
+of persons from public property during emergency period proclaimed by Governor,
+131.705 to 131.735
+Notice
+of release or escape of arsonist from state institution, 476.730
+Notification
+to OLCC when certain motor vehicle accidents investigated, 471.703
+Police
+officers as witnesses, 44.550 to 44.566
+Removal
+of vehicles illegally parked in disabled parking spaces, 811.620
+State
+property, investigating loss, 278.052
+181.040
+Payment
+of expenses of enforcement of motor carrier regulation from Motor Carrier
+Account, 825.326
+When
+allotment required, 291.238
+181.200
+Boxing
+and Wrestling Commission, Oregon State, appointment by superintendent, 463.125
+Superintendent
+as member of:
+Board
+on Public Safety Standards and Training, 181.620
+Criminal
+Justice Information System Advisory Board, 181.725
+181.210
+Bond
+not invalidated by omission of statutory provision, 742.370
+181.250
+Group
+life insurance for members of state police, 243.005 to 243.055
+Scholarships,
+children of peace officers killed or disabled in line of duty, 348.270
+181.260
+Public
+Employes' Retirement System, participation of employee beyond compulsory
+retirement age, 238.092
+181.310
+Filing
+and publication of rules, 183.310 to 183.550
+181.410
+Approval
+of disbursements by designated subordinate, 293.330
+181.505
+Attorney
+General, authority to search for missing children, 180.380
+Entry
+of fingerprints of missing child in Law Enforcement Data System, 419A.250
+181.530
+Arsonist,
+notice prior to release or after escape from state institution, 476.730
+181.537
+Child
+care provider, criminal records check, 657A.050, 657A.060
+181.620
+Sheriffs,
+determination of qualifications by board, 206.015
+181.635
+Criminal
+Justice Information System Advisory Board, member, 181.725
+181.640
+Polygraph
+examiners, licensing by board, 703.030 to 703.320
+181.650
+Chemical
+analyses for alcoholic content, methods and equipment, 813.160
+181.690
+Polygraph
+Examiners Act, disposition of fees received, 703.240
+STATE
+POLICE
+���������� 181.010
+Definitions for ORS 181.010 to 181.560 and 181.715 to 181.730. As used in ORS 181.010 to 181.560
+and 181.715 to 181.730, unless the context requires otherwise:
+����������� (1)
+�Bureau� means the Department of State Police Bureau of Criminal
+Identification.
+����������� (2)
+�Criminal offender information� includes records and related data as to
+physical description and vital statistics, fingerprints received and compiled
+by the bureau for purposes of identifying criminal offenders and alleged
+offenders, records of arrests and the nature and disposition of criminal
+charges, including sentencing, confinement, parole and release.
+����������� (3)
+�Department� means the Department of State Police established under ORS
+181.020.
+����������� (4)
+�Deputy superintendent� means the Deputy Superintendent of State Police.
+����������� (5)
+�Law enforcement agency� means county sheriffs, municipal police departments,
+State Police, other police officers of this and other states and law enforcement
+agencies of the Federal Government.
+����������� (6)
+�State Police� means the members of the state police force appointed under ORS
+181.250.
+����������� (7)
+�Superintendent� means the Superintendent of State Police.
+����������� (8)
+�Criminal Justice Agency� means:
+����������� (a)
+The Governor;
+����������� (b)
+Courts of criminal jurisdiction;
+����������� (c)
+The Attorney General;
+����������� (d)
+District attorneys, city attorneys with criminal prosecutive functions and
+public defender organizations established under ORS chapter 151;
+����������� (e)
+Law enforcement agencies;
+����������� (f)
+The Department of Corrections;
+����������� (g)
+The State Board of Parole and Post-prison Supervision;
+����������� (h)
+The Board on Public Safety Standards and Training; and
+����������� (i)
+Any other state or local agency with law enforcement authority designated by
+order of the Governor.
+����������� (9)
+�Designated agency� means any state, county or municipal government agency
+where Oregon criminal offender information is required to implement a federal
+or state statute, executive order or administrative rule that expressly refers
+to criminal conduct and contains requirements or exclusions expressly based on
+such conduct or for agency employment purposes, licensing purposes or other
+demonstrated and legitimate needs when designated by order of the Governor.
+����������� (10)
+�Disposition report� means a form or process prescribed or furnished by the
+bureau, containing a description of the ultimate action taken subsequent to an
+arrest. [Amended by 1963 c.547 s.1; 1971 c.467 s.1; 1975 c.548 s.1; 1977 c.745
+s.46; 1981 c.905 s.1; 1987 c.320 s.136; 1987 c.475 s.5; 1989 c.364 s.3]
+���������� 181.020
+Department of State Police established. There is established a Department of State Police.
+The department shall consist of office personnel and the Oregon State Police.
+The Oregon State Police shall consist of members of the state police force appointed
+under ORS 181.250, state police cadets and legislative security personnel
+appointed under ORS 181.265. [Amended by 1963 c.547 s.8; 1971 c.467 s.2]
+���������� 181.030
+Powers and duties of department and its members. (1) The Department of State Police
+and each member of the Oregon State Police shall be charged with the
+enforcement of all criminal laws.
+����������� (2)
+Each member of the state police is authorized and empowered to:
+����������� (a)
+Prevent crime.
+����������� (b)
+Pursue and apprehend offenders and obtain legal evidence necessary to insure
+the conviction in the courts of such offenders.
+����������� (c)
+Institute criminal proceedings.
+����������� (d)
+Execute any lawful warrant or order of arrest issued against any person or
+persons for any violation of the law.
+����������� (e)
+Make arrests without warrant for violations of law in the manner provided in
+ORS 133.310.
+����������� (f)
+Give first aid to the injured.
+����������� (g)
+Succor the helpless.
+����������� (3)
+Each member of the state police shall have in general the same powers and
+authority as those conferred by law upon sheriffs, police officers, constables,
+peace officers and may be appointed as deputy medical examiners.
+����������� (4)
+The members of the state police shall be subject to the call of the Governor,
+and are empowered to cooperate with any other instrumentality or authority of
+the state, or any political subdivision in detecting crime, apprehending
+criminals and preserving law and order throughout the state; but the state
+police shall not be used as a posse except when ordered by the Governor.
+[Amended by 1961 c.434 s.7; 1971 c.467 s.3; 1973 c.408 s.30; 1977 c.595 s.1]
+���������� 181.040
+Department to enforce laws relating to highways and operation of vehicles on
+highways; power of arrest possessed by persons not members of department. (1) The Department of State Police
+shall enforce all laws now or hereafter enacted relating to highways and to the
+operation of vehicles on state or other highways.
+����������� (2)
+Members of the state police have the power to arrest violators of any provision
+of the laws applicable to highways or to the movement of vehicles on highways.
+����������� (3)
+The necessary expenses in carrying out this section shall be paid from the
+State Highway Fund and from the moneys received under ORS 802.110.
+����������� (4)
+ORS 181.010 to 181.560 and 181.715 to 181.730 do not prevent an officer or
+employee of the Department of Transportation from arresting any person for any
+crime committed in the officer's or employee's presence and do not affect other
+powers of arrest granted by the laws of this state to persons other than peace
+officers. [Amended by 1967 c.175 s.5; 1971 c.467 s.4; 1983 c.338 s.899]
+���������� 181.050
+Duty to enforce laws and regulations of agencies. The state police, with the
+approval of the Governor, may be called upon by any other branch or department
+of the state government to enforce criminal laws or any regulation of such
+branch or department. [Amended by 1971 c.58 s.1]
+����������� 181.060 [Repealed by 1963 c.547 s.11]
+����������� 181.065 [1963 c.547 s.6; repealed by 1975
+c.548 s.2 (181.066 enacted in lieu of 181.065)]
+���������� 181.066
+Bureau of criminal identification.
+(1) There is established in the department a bureau of criminal identification
+which shall be operated by the department.
+����������� (2)
+The bureau shall:
+����������� (a)
+Install and maintain systems for filing and retrieving fingerprint data and
+supplemental information submitted by criminal justice agencies for the
+identification of criminal offenders as the superintendent deems necessary;
+����������� (b)
+Employ its fingerprint record file as a basis for identifying individuals and
+provide criminal offender information to criminal justice agencies while acting
+in the performance of their official duties;
+����������� (c)
+Provide information to persons and agencies as provided in ORS 181.555 and
+181.560; and
+����������� (d)
+Undertake such other projects as are necessary or appropriate to the speedy
+collection and dissemination of information relating to crimes and criminals.
+[1975 c.548 s.3 (enacted in lieu of 181.065); 1975 c.605 s.11a; 1981 c.905 s.2]
+���������� 181.070
+State detective bureau.
+(1) The superintendent may, with the approval of the Governor, maintain a state
+detective bureau under the immediate supervision of the superintendent.
+����������� (2)
+The detective bureau shall:
+����������� (a)
+Maintain facilities for the detection of crime by the state police.
+����������� (b)
+Supply expert information on handwriting and ballistics.
+����������� (3)
+To accomplish the purposes of subsection (2) of this section, the
+superintendent may, with the approval of the Governor, utilize the services of
+such members of the state police as assistant state detectives as the
+superintendent deems expedient. [Amended by 1963 c.547 s.9; 1971 c.467 s.22]
+���������� 181.080
+Crime detection laboratories.
+(1) The Department of State Police may establish crime detection laboratories,
+to be operated by the department in cooperation with the Oregon Health Sciences
+University.
+����������� (2)
+The Oregon Health Sciences University may furnish adequate quarters, heat and
+light for the laboratory in the buildings of the school at Portland and may
+assist the personnel of all laboratories with technical advice and assistance.
+����������� (3)
+The laboratories shall furnish service as available to all district attorneys,
+sheriffs and other peace officers in the state. The services of the
+laboratories shall also be available to any defendant in a criminal case on
+order of the court before which the criminal case is pending. [Amended by 1953
+c.5 s.3; 1963 c.218 s.1; 1971 c.467 s.23]
+���������� 181.085
+Authority over blood samples and analyses; disclosure; inspection by subject
+person; destruction of sample.
+(1) The Department of State Police is authorized to:
+����������� (a)
+Store blood samples received under authority of this section, ORS 137.076,
+161.325 and 419C.473 (1), and autoradiographs and other physical evidence
+obtained from analysis of such samples;
+����������� (b)
+Analyze such samples for the purpose of establishing the genetic profile of the
+donor or otherwise determining the identity of persons or contract with other
+qualified public or private laboratories to conduct that analysis;
+����������� (c)
+Maintain a criminal identification database containing information derived from
+blood analysis;
+����������� (d)
+Utilize such samples to create statistical population frequency databases,
+provided that genetic profiles or other such information in a population
+frequency database shall not be identified with specific individuals; and
+����������� (e)
+Adopt rules establishing procedures for drawing, transmitting and analyzing
+blood samples and for storing and destroying blood samples, autoradiographs and
+other physical evidence and criminal identification information obtained from
+such analysis. Procedures for blood analysis may include all techniques which
+the Department of State Police determines are accurate and reliable in
+establishing identity, including but not limited to, analysis of DNA
+(deoxyribonucleic acid), antigen antibodies, polymorphic enzymes or polymorphic
+proteins.
+����������� (2)
+The Department of State Police shall not transfer or disclose any sample,
+autoradiograph, physical evidence or criminal identification information
+obtained, stored or maintained under authority of this section, ORS 137.076,
+161.325 or 419C.473 (1) except:
+����������� (a)
+To a law enforcement agency as defined in ORS 181.010, a district attorney or
+the Criminal Justice Division of the Department of Justice for the purpose of
+establishing the identity of a person in the course of a criminal investigation
+or proceeding;
+����������� (b)
+To a party in a criminal prosecution or juvenile proceeding if discovery or
+disclosure is required by a separate statutory or constitutional provision; or
+����������� (c)
+To a court or grand jury in response to a lawful subpoena or court order when
+the evidence is not otherwise privileged.
+����������� (3)
+Any public agency that receives a sample, autoradiograph, physical evidence or
+criminal identification information under authority of subsection (2) of this
+section shall not disclose it except as provided in subsection (2) of this
+section.
+����������� (4)
+Notwithstanding subsections (2) and (3) of this section, any person who is the
+subject of a record within a criminal identification database maintained under
+the authority of this section may, upon request, inspect that information at a
+time and location designated by the department. The department may deny
+inspection if it determines that there is a reasonable likelihood that such
+inspection would prejudice a pending criminal investigation. In any case, the
+department is not required to allow the person or anyone acting on the person's
+behalf to test any blood sample, autoradiograph or other physical evidence. The
+department shall adopt procedures governing the inspection of records, samples
+and autoradiographs and challenges to the accuracy of records. The procedures
+shall accommodate the need to preserve the materials from contamination and
+destruction.
+����������� (5)
+Whenever a court reverses the conviction, judgment or order that created an
+obligation to provide a blood sample under ORS 137.076 (2), 161.325 or 419C.473
+(1), the person who provided the sample may request destruction of the sample
+and any criminal identification record created in connection with that sample.
+Upon receipt of a written request for destruction pursuant to this section and
+a certified copy of the court order reversing the conviction, judgment or
+order, the Department of State Police shall destroy any sample received from
+the person, any physical evidence obtained from that sample and any criminal
+identification records pertaining to the person, unless the department
+determines that the person has otherwise become obligated to submit a blood
+sample as a result of a separate conviction, juvenile adjudication or finding
+of guilty except for insanity for an offense listed in ORS 137.076 (1). The
+department is not required to destroy an autoradiograph or other item of
+physical evidence obtained from a blood sample if evidence relating to another
+person subject to the provisions of ORS 137.076, 161.325, 181.085, 419A.260 and
+419C.473 (1) would thereby be destroyed. Notwithstanding this subsection, no
+sample, autoradiograph, physical evidence or criminal identification record is
+affected by an order to set aside a conviction under ORS 137.225. [1991 c.669
+s.4; 1993 c.33 s.319; 1993 c.469 s.4]
+����������� Note: 181.085 was added to and made a
+part of ORS chapter 181 by legislative action but was not added to any smaller
+series therein. See Preface to Oregon Revised Statutes for further explanation.
+���������� 181.090
+Headquarters and patrol stations.
+The superintendent, with the approval of the Governor, may establish
+headquarters and patrol stations at such places as the superintendent may deem
+most advisable for the patrol and protection of the state and for the
+enforcement of the laws. For that purpose, with the approval of the Governor,
+the superintendent may use lands and buildings for the accommodation of members
+of the state police and their vehicles and equipment. [Amended by 1971 c.467
+s.21]
+���������� 181.100
+Organization of work of department.
+The superintendent shall, so far as in the judgment of the superintendent it is
+practicable and expedient so to do, organize the work of the department so
+that:
+����������� (1)
+The various duties required of the department may be assigned to appropriate
+departments, to be performed by persons experienced and qualified for such
+respective kinds of work.
+����������� (2)
+The duties of the various officers and police of the superintendent are
+coordinated so that when not engaged in a particular duty specified or directed
+to be done or not then requiring attention such officers and police shall
+perform the other duties required of the department and then required to be
+done.
+����������� (3)
+The cooperation of other officers and police may be secured for the purposes of
+avoiding duplication of time and effort.
+���������� 181.110
+Distribution of police throughout state. The superintendent shall distribute the state police
+throughout the various sections of the state where they will be most efficient
+in carrying out the purposes of the department to preserve the peace, to
+enforce the law and to prevent and detect crime.
+���������� 181.120
+Standard uniform for state police.
+The State of Oregon shall provide the members of the state police with standard
+uniforms. Subject to detailed regulations and specifications prescribed by the
+superintendent, the uniform to be worn by members of the state police shall be
+of standard pattern and distinctive design. [Amended by 1971 c.467 s.7; 1979
+c.30 s.1]
+���������� 181.130
+Service without wearing uniform.
+The superintendent may direct that members of the state police shall serve
+without wearing uniform, when, in the judgment of the superintendent, law
+enforcement will thereby be made more efficient. [Amended by 1971 c.467 s.8]
+���������� 181.140
+Wearing uniforms by other persons prohibited. (1) No person other than a member of the Oregon State
+Police shall wear, use or order to be worn or used, copy or imitate in any
+respect or manner the standard uniforms specified in ORS 181.120.
+����������� (2)
+As used in this section, �person� includes agents, officers and officials
+elected or appointed by any municipality or county.
+���������� 181.150
+Supplies and equipment of state police as state property; exceptions. (1) The state shall provide the
+members of the state police with emergency and first aid outfits, weapons,
+motor vehicles, and all other supplies and equipment necessary to carry out the
+objects of the Department of State Police. This property shall remain the
+property of the state with the exception of a retiring or deceased officer's
+department-issued service revolver, which may be sold by the department to the
+officer or, in the case of a deceased officer, to a member of the officer's
+family, upon the officer's retirement or death, and the officer's badge, which
+may be given to the officer or, in the case of a deceased officer, to a member
+of the deceased officer's family, upon the officer's retirement or death. When
+a service revolver is sold pursuant to this section, it shall be sold for its
+fair market value. The badge shall be marked to indicate the officer's
+retirement status and under no circumstance shall it be used for official
+police identification other than as a memento of service to the department.
+����������� (2)
+When any of the property, supplies or equipment becomes surplus, obsolete or
+unused it shall be disposed of by the Oregon Department of Administrative
+Services as provided in ORS 279.828.
+����������� (3)
+For purposes of ORS 279.011 to 279.063, the sale of a service revolver to a
+retiring officer by the department is not a public contract and shall not be
+subject to the competitive bidding requirements of ORS 279.011 to 279.063. The
+provisions of ORS 166.412 do not apply to transfers of firearms pursuant to
+this section. [Amended by 1955 c.148 s.1; 1971 c.467 s.9; 1985 c.281 s.1; 1989
+c.839 s.28; 1995 c.729 s.10]
+����������� Note: The amendments to 181.150 by
+section 10, chapter 729, Oregon Laws 1995, become operative July 1, 1996. See
+section 11, chapter 729, Oregon Laws 1995. The text that is operative until
+July 1, 1996, is set forth for the user's convenience.
+����������� 181.150. (1) The state shall provide the
+members of the state police with emergency and first aid outfits, weapons,
+motor vehicles, and all other supplies and equipment necessary to carry out the
+objects of the department. All such property shall remain the property of the
+state with the exception of a retiring or deceased officer's department-issued
+service revolver, which may be sold by the department to the officer or, in the
+case of a deceased officer, to a member of the officer's family, upon the
+officer's retirement or death, and the officer's badge, which may be given to
+the officer or, in the case of a deceased officer, to a member of the deceased
+officer's family, upon the officer's retirement or death. When a service
+revolver is sold pursuant to this section, it shall be sold for its fair market
+value. The badge shall be marked to indicate the officer's retirement status
+and under no circumstance shall it be used for official police identification
+other than as a memento of service to the department.
+����������� (2)
+When any of the property, supplies or equipment becomes surplus, obsolete or
+unused it shall be disposed of by the Oregon Department of Administrative
+Services as provided in ORS 279.828.
+����������� (3)
+For purposes of ORS 279.011 to 279.063, the sale of a service revolver to a
+retiring officer by the department is not a public contract and shall not be
+subject to the competitive bidding requirements of ORS 279.011 to 279.063. The
+provisions of ORS 166.420 do not apply to transfers of firearms pursuant to
+this section.
+����������� 181.160 [Repealed by 1955 c.260 s.3]
+���������� 181.170
+Damage or loss of property by neglect of member; deduction from pay. The superintendent shall make
+charges against any member of the state police for property of the department
+damaged, lost or destroyed through carelessness or neglect of such member. If
+it is determined that such damage, loss or destruction was due to carelessness
+or neglect, there shall be deducted from the pay of such member the amount of
+money necessary to repair or replace the article or articles damaged, lost or
+destroyed.
+���������� 181.175
+State Police Account; subaccount; uses. (1) There is established in the General Fund of the
+State Treasury an account to be known as the State Police Account. All moneys
+received by the Department of State Police shall be paid to the credit of the
+State Police Account, and such moneys are continuously appropriated for the payment
+of expenses of the Department of State Police.
+����������� (2)
+There is established a subaccount in the State Police Account consisting of all
+moneys, revenue and income described in ORS 463.220. All moneys in the
+subaccount are appropriated continuously to the Department of State Police to
+carry out the provisions of ORS chapter 463. [1971 c.277 s.2; 1979 c.541 s.4;
+1981 c.881 s.3; 1993 c.742 s.140a; 1993 c.744 s.216b]
+���������� 181.180
+Petty cash account.
+The superintendent shall establish a petty cash account from the appropriation
+for carrying out the functions of the department in the amount of $25,000 and
+shall authorize designated commissioned officers to make disbursements from
+such account in all cases where it may be necessary to make an immediate cash
+payment for transportation expenses, accessories and repairs to motor vehicles,
+board and lodging, immediate medical and veterinary supplies, telephone and
+imperative supplementary supplies. Upon presentation to the Oregon Department
+of Administrative Services of duly approved vouchers for moneys so expended
+from the petty cash account or fund, the account or fund shall be reimbursed to
+the amount of vouchers submitted. [Amended by 1985 c.478 s.5]
+���������� 181.190
+Commanding assistance of citizens.
+All members of the state police may direct and command the assistance of any
+able-bodied citizen of the United States to aid, when necessary, to maintain
+law and order. When so called, any person shall, during the time the assistance
+of the person is required, be considered a member of the state police and
+subject to ORS 181.010 to 181.560 and 181.715 to 181.730. [Amended by 1971
+c.467 s.10]
+���������� 181.200
+Superintendent of State Police; appointment; confirmation; removal. The Superintendent of State Police
+shall be the executive and administrative head of the Department of State
+Police. Subject to confirmation by the Senate in the manner provided in ORS
+171.562 and 171.565, the Governor shall appoint the superintendent for a term
+of four years. The Governor may remove the superintendent for inefficiency or
+malfeasance in office after charges have been preferred and a hearing granted.
+[Amended by 1971 c.467 s.11; 1973 c.792 s.1]
+���������� 181.210
+Oath and bond of superintendent and deputy. The Superintendent of State Police and the Deputy
+Superintendent of State Police, before assuming their duties, each shall take
+and subscribe an oath of office as prescribed by ORS 181.390 and shall be
+covered by a fidelity or blanket bond as provided in ORS 291.011. [Amended by
+1971 c.467 s.13]
+���������� 181.220
+Deputy Superintendent of State Police; qualifications, appointment and removal. The Superintendent of State Police
+may, with the approval of the Governor as to person and salary, appoint a
+Deputy Superintendent of State Police. The deputy superintendent shall have
+served as a captain or in higher rank in the Oregon State Police not less than
+one year prior to the appointment of the deputy superintendent. The deputy
+superintendent shall be removable for the causes and in the manner provided in
+ORS 181.290 to 181.350 for the removal of members of the state police. [Amended
+by 1971 c.467 s.12]
+����������� 181.230 [Repealed by 1971 c.467 s.26]
+���������� 181.240
+Powers and duties of deputy superintendent. The deputy superintendent, when appointed and
+qualified, shall possess during the term of office of deputy superintendent all
+the powers of the superintendent and shall act as the head of the department in
+the absence or incapacity of the superintendent, and shall perform such duties
+as the superintendent may prescribe.
+���������� 181.250
+State police force; appointment; examination and enlistment of applicants. The superintendent, with the
+approval of the Governor, shall appoint a state police force, consisting of the
+number of commissioned officers, noncommissioned officers and troopers who are,
+in the judgment of the Governor and the superintendent, necessary in the
+performance of the duties of the department. The superintendent shall, subject
+to the laws of the state and with the approval of the Governor, arrange for the
+examination and enlistment of applicants and establish ranks or grades.
+[Amended by 1971 c.467 s.6]
+���������� 181.260
+Qualifications for appointment and reappointment as member of state police;
+special officers.
+(1) No person, other than an expert in crime detection, shall be appointed a
+member of the state police unless the person is:
+����������� (a)
+A citizen of the United States.
+����������� (b)
+Of good health and of good moral character.
+����������� (c)
+Over the age of 21 years.
+����������� (2)
+No person shall be appointed a member of the state police who has not established
+satisfactory evidence of qualifications by passing a physical and mental
+examination based upon the standard provided by the rules and regulations of
+the United States Army; but the superintendent, with the approval of the
+Governor, may, for such positions and where, in the judgment of the
+superintendent, the good of the service requires it, waive the physical
+standard provided by such rules and regulations.
+����������� (3)
+Any member who voluntarily withdraws from the state police force without the
+consent of the superintendent, and all persons removed from the state police
+for cause after hearing, shall be ineligible for reappointment.
+����������� (4)
+The superintendent may appoint special state police officers upon the following
+conditions:
+����������� (a)
+The officers are appointed for the limited purpose of providing assistance to
+the state police in law enforcement emergencies and major operations in Oregon
+in areas near the Oregon border and the neighboring state.
+����������� (b)
+The officers are police officers certified by the state bordering Oregon.
+����������� (c)
+The officers receive no separate compensation from the State of Oregon for
+their services.
+����������� (d)
+There is a reciprocal agreement wherein the Superintendent of State Police
+authorizes a member of the Oregon State Police to assist the bordering state's
+police officers under identically prescribed criteria in the neighboring state
+in areas near the Oregon border with the neighboring state.
+����������� (5)
+The Superintendent of State Police is authorized to enter into reciprocal
+agreements with bordering state law enforcement agencies for the purpose of
+providing assistance to the Oregon State Police and the bordering state law
+enforcement agency in carrying out major operations and responding to
+emergencies in areas near the Oregon border and the border of the adjacent
+state. [Amended by 1985 c.411 s.1; 1993 c.594 s.5]
+���������� 181.265
+Qualification for cadets and legislative and executive security personnel. Notwithstanding ORS 181.260
+(1)(c), 181.645 and 181.665, the superintendent may appoint, as state police
+cadets or legislative and executive security personnel, individuals who are 18
+years of age or older and satisfy other requirements of ORS 181.260 (1) and
+(2). [1971 c.467 s.25b; 1977 c.258 s.1; 1993 c.594 s.2]
+����������� 181.270 [Amended by 1953 c.50 s.4; 1955
+c.704 s.1; 1957 c.674 s.1; 1959 c.677 s.1; 1961 c.493 s.2; 1963 c.572 s.54;
+repealed by 1965 c.14 s.2 (181.271 enacted in lieu of 181.270)]
+���������� 181.271
+Salaries of state police.
+The salaries of members of the Oregon State Police shall be fixed in the same
+manner as the salaries of other officers and employees in the unclassified
+service pursuant to ORS 240.240. [1965 c.14 s.3 (enacted in lieu of 181.270);
+1971 c.467 s.14]
+���������� 181.280
+Instruction; rules and regulations for discipline and control. The superintendent shall:
+����������� (1)
+Provide the necessary preliminary and subsequent instruction to recruits and
+troopers as to their duties as police officers of the state.
+����������� (2)
+Make rules and regulations for the discipline and control of the state police.
+[Amended by 1971 c.467 s.15]
+���������� 181.290
+Grounds for removal of state police.
+The superintendent may remove members of the Oregon State Police in the manner
+prescribed in ORS 181.290 to 181.350 for inefficiency, misfeasance,
+malfeasance, nonfeasance in office, violation of the criminal laws of the state
+or of the United States, willful violation of any rule or regulation of the
+department, insubordination, forfeiture of license to operate a motor vehicle,
+or physical or mental disability not incurred in line of duty. [Amended by 1971
+c.467 s.16]
+���������� 181.300
+Proceeding for removal.
+(1) Members of the Oregon State Police may be removed only after written
+charges have been preferred and a hearing granted as prescribed in ORS 181.290
+to 181.350.
+����������� (2)
+This section does not require a hearing for:
+����������� (a)
+Disciplinary measures taken by the superintendent or any commanding officer of
+a detachment for the punishment of minor infractions of the rules or regulations
+of the department.
+����������� (b)
+Demotion of members.
+����������� (c)
+Removal of recruits. [Amended by 1971 c.467 s.17]
+���������� 181.310
+Superintendent to make rules and regulations governing proceedings for removal. The superintendent shall make
+rules and regulations providing for:
+����������� (1)
+The filing of written charges against an accused member of the Oregon State
+Police.
+����������� (2)
+A hearing by the trial board on the charges upon not less than 10 days' notice.
+����������� (3)
+An opportunity to the accused member to produce proof in the defense of the
+accused member. [Amended by 1971 c.467 s.18]
+���������� 181.320
+Trial board; members; presiding officer. A trial board to hear charges against members of the
+Oregon State Police shall consist of the superintendent and two commissioned
+officers, senior in service, appointed by the superintendent. The
+superintendent shall be the presiding officer of the trial board. Upon written
+order of the superintendent, any commissioned officer appointed or designated
+by the superintendent may sit as presiding officer of the trial board. [Amended
+by 1971 c.467 s.19]
+���������� 181.330
+Hearing on charges; compelling attendance of witnesses; fees and mileage. The presiding officer of the trial
+board shall make all necessary rulings during the course of the hearing which
+may be held at any place designated by the superintendent. The superintendent
+or the officer acting in the stead of the superintendent as presiding officer
+of the trial board is empowered to issue subpoenas to compel the attendance of
+witnesses and the production of evidence and to administer all necessary oaths.
+Persons summoned as witnesses before the trial board shall be entitled to fees
+and mileage provided for witnesses in ORS 44.415 (2). Failure or refusal to
+obey any subpoena shall be brought to the attention of the circuit court for
+the county in which the hearing is held and shall be punished by that court as
+a contempt. [Amended by 1989 c.980 s.10]
+���������� 181.340
+Finding of trial board; action by superintendent. If the charges are proved the
+trial board shall make a written finding of guilty and recommend either removal
+of the member of the Oregon State Police or such disciplinary punishment as, in
+their opinion, the offense merits. Thereupon the superintendent shall direct
+the removal or punishment. If any member refuses to attend the hearing or abide
+by any such disciplinary order, the superintendent may by order remove the
+member forthwith. [Amended by 1971 c.467 s.20]
+���������� 181.350
+Procedure for review of decision of trial board. The decisions of the trial board
+shall be subject to review by the Court of Appeals. The procedure for review
+shall be as provided in ORS 183.482. [Amended by 1979 c.772 s.14]
+����������� 181.360
+Directors of crime detection laboratories. The superintendent shall appoint:
+����������� (1)
+The director of each crime detection laboratory, who shall have charge and
+supervision over the laboratory under the general supervision of the
+superintendent.
+����������� (2)
+The assistants necessary for the operation of the laboratories. [Amended by
+1971 c.467 s.24]
+����������� 181.370 [Repealed by 1971 c.467 s.26]
+����������� 181.380 [Repealed by 1971 c.467 s.26]
+���������� 181.390
+Oath of members of state police.
+Each member of the Oregon State Police shall take and subscribe to an oath of
+office to support the Constitution and laws of the United States and of the
+State of Oregon, and to honestly and faithfully perform the duties imposed upon
+the member under the laws of Oregon. The oath of the superintendent and deputy
+superintendent shall be filed with the Secretary of State, and the oaths of all
+other members with the superintendent. [Amended by 1971 c.467 s.5]
+���������� 181.400
+Interference with personal and property rights of others. No member of the state police
+shall in any way interfere with the rights or property of any person, except
+for the prevention of crime, or the capture or arrest of persons committing
+crimes. [Amended by 1971 c.467 s.25; 1991 c.145 s.1]
+���������� 181.410
+Records and reports of time spent in performance of duties; approval of claims. (1) Under rules and regulations to
+be promulgated by the Superintendent of State Police, with the approval of the
+Governor, all state police shall be required to keep a record of the time spent
+in the performance of their various duties and report same to the
+superintendent at such times as the superintendent shall direct.
+����������� (2)
+The superintendent shall approve all claims. [Amended by 1957 c.521 s.4; 1959
+c.480 s.3]
+����������� 181.415 [1967 c.194 s.1; repealed by 1977
+c.249 s.1]
+����������� 181.420 [Amended by 1957 c.7 s.1; repealed
+by 1971 c.743 s.432]
+����������� 181.440
+Eligibility of towing business to be placed on department list. The superintendent may make rules
+governing the eligibility of towing businesses to be placed and remain on any
+list of such businesses used by the department when it requests towing services
+on behalf of any person. [1987 c.112 s.2]
+STATE
+POLICE AS EXPERT WITNESSES
+���������� 181.450
+Definitions for ORS 181.450 to 181.490. For the purposes of ORS 181.450 to 181.490:
+����������� (1)
+�Member of the Department of State Police� includes those persons designated as
+sworn officers by the Superintendent of State Police.
+����������� (2)
+�Tribunal� means any person or body before which attendance of witnesses may be
+required by subpoena, including an arbitrator in arbitration proceedings. [1989
+c.725 s.2]
+���������� 181.455
+Member of State Police as expert witness; subpoena. (1) Whenever a member of the
+Department of State Police is called as an expert witness by a party by whom
+the member is not employed, a subpoena requiring attendance may be served by
+delivering a copy either to such member personally or to the member's immediate
+superior.
+����������� (2)
+Any person causing a subpoena to be issued to compel the attendance of a member
+of the Department of State Police before a tribunal shall indicate on the face
+of that subpoena whether the person or the person's representative intends to
+ask the expert opinion of the member as to any aspect of the proceedings. No
+member of the Department of State Police may be required by a tribunal to give
+the member's expert opinion on any matter before the tribunal unless the
+subpoena compelling the member's presence indicates that the member's expert
+opinion will be asked. [1989 c.725 s.4]
+���������� 181.460
+Payment of member called as expert witness; reimbursement of department;
+deposit. (1) Any
+member of the Department of State Police who is obliged by a subpoena issued
+pursuant to ORS 181.455 (2) to attend as an expert witness shall receive the
+salary or other compensation to which the member is normally entitled from the
+Department of State Police during the time that the member travels to and from
+the place where the court or other tribunal is located and while the member is
+required to remain at such place pursuant to such subpoena. The member shall
+also receive from the Department of State Police the actual necessary and
+reasonable traveling expenses incurred in complying with the subpoena.
+����������� (2)
+The party at whose request a subpoena is issued pursuant to ORS 181.455 (2)
+compelling the attendance of a member of the Department of State Police as an
+expert witness shall reimburse the Department of State Police for the full cost
+to the department incurred in reimbursing the member as provided in subsection
+(1) of this section for each day that the member is required to remain in
+attendance pursuant to the subpoena. The amount of $160 shall be deposited with
+the clerk of the court or with the tribunal prior to the issuance of a subpoena
+issued pursuant to ORS 181.455 (2) to compel the attendance of a member of the
+Department of State Police as an expert witness for each day that the member is
+required to remain in attendance pursuant to the subpoena. If the person
+causing the issuance of a subpoena requiring the expert opinion of a member of
+the Department of State Police makes arrangements with the member and with the
+tribunal prior to the issuance of the subpoena to take the testimony of the
+member by telephone, and testimony by telephone is otherwise allowed by the
+Oregon Rules of Civil Procedure, the amount of $80 shall be deposited with the
+clerk of the court or with the tribunal prior to the issuance of the subpoena
+for each day that the member is required to testify pursuant to the subpoena.
+����������� (3)
+If the actual expenses should later prove to be less than the amount deposited,
+the excess of the amount deposited shall be refunded.
+����������� (4)
+If the actual expenses should later prove to be more than the amount deposited,
+the difference shall be paid to the Department of State Police by the party at
+whose request the subpoena is issued.
+����������� (5)
+If a court or tribunal continues a proceeding on its own motion, no additional
+deposit may be required prior to the issuance of a subpoena or the making of an
+order directing the member to appear on the date to which the proceeding is
+continued. [1989 c.725 s.5]
+���������� 181.465
+Demand for payment of deposit; effect of failure to pay on demand. Members of the Department of State
+Police who are called as expert witnesses in civil cases may demand the payment
+of a deposit as specified in ORS 181.460 (2) for one day, in advance, and when
+so demanded shall not be compelled to attend until the deposit is paid. [1989 c.725
+s.3]
+���������� 181.470
+Deposit prior to requiring member of department to return beyond day stated in
+subpoena. No
+member of the Department of State Police shall be ordered to return by the
+court or tribunal for subsequent proceedings beyond the day stated in the
+subpoena requiring the member to give the member's expert opinion referred to
+in ORS 181.455 (4) or the day upon which the witness appeared pursuant to the
+provisions of ORS 181.480, unless the party at whose request the subpoena was
+issued, or the party at whose request the witness is ordered to return, shall
+first deposit with the clerk of the court or with the tribunal the same sum
+required to be deposited for the issuance of a subpoena in the first instance.
+[1989 c.725 s.6]
+���������� 181.475
+Application of ORS 181.455, 181.460 and 181.470 to subpoenas for depositions.
+The
+provisions of ORS 181.455, 181.460 and 181.470 apply to subpoenas issued for
+the taking of depositions of members of the Department of State Police. [1989
+c.725 s.7]
+���������� 181.480
+Agreement to appear at time other than time specified in subpoena. A member of the Department of
+State Police who has been subpoenaed pursuant to the provisions of ORS 181.455
+or 181.475, for the purpose of giving the member's expert opinion, in lieu of
+attendance at the time specified in the subpoena, may agree with the party at
+whose request such subpoena was issued to appear at another time or pursuant to
+such notice as may be agreed upon. [1989 c.725 s.8]
+���������� 181.485
+Action by department to recover funds if member appearing as expert witness not
+reimbursed.
+Whenever a member of the Department of State Police appears as an expert
+witness pursuant to ORS 181.450 to 181.490 and reimbursement is not made as
+provided for in ORS 181.450 to 181.490, the Department of State Police shall
+have standing to bring an action in order to recover such funds. [1989 c.725
+s.9]
+���������� 181.490
+Exception to provisions of ORS 181.450 to 181.485. ORS 181.450 to 181.485 shall not
+apply to any proceeding in which a public body is a party. For the purposes of
+this section, �public body� has the meaning given in ORS 30.260. [1989 c.725
+s.10]
+COMMUNITY
+POLICING DEMONSTRATION PROJECTS
+���������� 181.495
+Grant program; eligibility; project elements. (1) The Department of State Police may administer a
+grant program for statewide community policing demonstration projects. The
+department shall award grants on the basis of appropriateness and effectiveness
+and shall consider geographic and demographic factors in making the awards.
+����������� (2)
+To be eligible for a grant, a community must:
+����������� (a)
+Demonstrate interaction between its citizens and the police; and
+����������� (b)
+Have initiated planning for innovative police strategies that are problem
+oriented, proactive and community based.
+����������� (3)
+A community must submit to the department a proposal that provides the details
+of the community policing project the community intends to implement. The
+project shall contain the following elements:
+����������� (a)
+Community involvement, including involving neighborhood associations, business
+groups, churches and other civic organizations in establishing priorities for
+anticrime efforts involving the police and other community agencies and
+providing recognition of and police support to citizen-based anticrime efforts
+including, but not limited to, block watches, task forces and alternative
+programs;
+����������� (b)
+Problem-solving orientation;
+����������� (c)
+Community-based deployment strategies that fit the community's problems, financial
+limitations and priorities, as jointly determined by the citizens of the
+community, the elected officials and the police; and
+����������� (d)
+Increased accountability of the police to the citizens. [Formerly 184.413]
+���������� 181.496
+Evaluation of projects.
+The Department of State Police shall evaluate the demonstration projects to
+determine their effectiveness. [Formerly 184.415]
+���������� 181.497
+Training program for local law enforcement units. The Department of State Police may
+administer a training program for local law enforcement units on community,
+problem-oriented policing. The training shall include, but not be limited to,
+familiarizing police officers with the problem-oriented policing model of
+scanning for problems in the community, analyzing and responding to the
+problems and assessing the results. [Formerly 184.417]
+MISSING
+CHILDREN CLEARINGHOUSE
+���������� 181.505
+Establishment and maintenance of missing children clearinghouse. (1) The Oregon State Police shall
+establish and maintain a missing children clearinghouse that receives from and
+distributes to local law enforcement agencies, school districts, state and
+federal agencies and the general public information regarding missing children.
+����������� (2)
+The information shall include technical and logistical assistance, pictures,
+bulletins, training sessions, reports and biographical materials that assist
+local efforts to locate missing children.
+����������� (3)
+The Oregon State Police shall maintain a regularly updated computerized link
+with national and other statewide missing person reporting systems or
+clearinghouses. [1989 c.1059 s.1]
+����������� Note: 181.505 and 181.506 were enacted
+into law by the Legislative Assembly but were not added to or made a part of
+ORS chapter 181 or any series therein by legislative action. See Preface to
+Oregon Revised Statutes for further explanation.
+���������� 181.506
+Duties of administrator of clearinghouse. The administrator of the clearinghouse established
+pursuant to ORS 181.505 shall:
+����������� (1)
+Provide information and training to local law enforcement and child welfare
+agencies and to other state agencies having child welfare duties.
+����������� (2)
+Appoint an advisory committee consisting of persons with interest and training
+related to missing children to advise on operation of the clearinghouse and to
+serve without compensation or expense reimbursement.
+����������� (3)
+Seek public and private grants and gifts for purposes of the clearinghouse and
+the duties required by this section.
+����������� (4)
+Maintain a 24-hour hotline to receive and provide information on missing children.
+[1989 c.1059 s.2]
+����������� Note: See note under 181.505.
+����������� 181.507 [1993 c.807 s.1; renumbered
+181.585 in 1995]
+����������� 181.508 [1993 c.807 s.2; renumbered
+181.586 in 1995]
+����������� 181.509 [1993 c.807 s.3; renumbered
+181.587 in 1995]
+����������� 181.510 [1963 c.547 s.3; repealed by 1975
+c.548 s.4 (181.511 enacted in lieu of 181.510)]
+CRIME
+REPORTING
+���������� 181.511
+Fingerprints, identifying data, disposition report required upon arrest. (1) A law enforcement agency
+immediately upon the arrest of a person for a crime for which criminal offender
+information must be provided under ORS 181.515 shall:
+����������� (a)
+Place the arrested person's fingerprints and identifying data on forms
+prescribed or furnished by the bureau, photograph the arrested person, and
+promptly transmit the form and photograph to the bureau.
+����������� (b)
+If the arrest is disposed of by the arresting agency, cause the disposition
+report to be completed and promptly transmitted to the bureau.
+����������� (c)
+If the arrest is not disposed of by the agency, cause the disposition report to
+be forwarded, except as otherwise provided in section 3, chapter 553, Oregon
+Laws 1987, to the court that will dispose of the charge, for further action in
+accordance with ORS 181.521.
+����������� (2)
+A law enforcement agency may record, in addition to fingerprints, the palm
+prints, sole prints, toe prints, or other personal identifiers when, in the
+discretion of the agency, it is necessary to effect identification of the
+persons or to the investigation of the crime charged.
+����������� (3)
+A law enforcement agency, for the purpose of identification, may record and
+submit to the bureau the fingerprints of persons arrested for crimes for which
+criminal offender information is not required under ORS 181.515. [1975 c.548
+s.5 (enacted in lieu of 181.510); 1983 c.763 s.55; 1987 c.475 s.6; 1987 c.553
+s.1]
+���������� 181.515
+Crimes for which criminal offender information is required. The following crimes are crimes
+for which criminal offender information must be provided:
+����������� (1)
+Any felony;
+����������� (2)
+Any misdemeanor or other offense which involves criminal sexual conduct; or
+����������� (3)
+Any crime which involves a violation of the Uniform Controlled Substances Act.
+[1987 c.475 s.4]
+����������� 181.517 [1989 c.984 s.1; 1991 c.386 s.10;
+1991 c.389 s.1; 1993 c.147 s.1; 1995 c.422 s.59; 1995 c.429 s.1; 1995 c.768
+s.11; renumbered 181.594 in 1995]
+����������� 181.518 [1989 c.984 s.2; 1991 c.389 s.2;
+1993 c.147 s.2; 1995 c.422 s.60; renumbered 181.595 in 1995]
+����������� 181.519 [1989 c.984 s.3; 1991 c.389 s.3;
+1993 c.147 s.3; 1995 c.422 s.61; renumbered 181.596 in 1995]
+����������� 181.520 [1963 c.547 s.4; repealed by 1975
+c.548 s.6 (181.521 enacted in lieu of 181.520)]
+���������� 181.521
+Transmittal of disposition report.
+When a court receives a disposition report from a law enforcement agency
+pursuant to ORS 181.511, the court shall transmit disposition information to
+the bureau in a manner and format determined by the State Court Administrator
+after consultation with the bureau. [1975 c.548 s.6a (enacted in lieu of
+181.520); 1983 c.763 s.56; 1987 c.553 s.2]
+���������� 181.525
+Copy of certain disposition reports to Teacher Standards and Practices
+Commission and Department of Education. Whenever any court or district attorney receives a
+disposition report and the court or district attorney has cause to believe that
+the arrested person who is the subject of the report is an employee of a school
+district or is licensed as a school teacher or administrator and that the
+charge involves a violation of any crime listed in ORS 342.143 (3) or 342.175
+(2), the court or district attorney shall cause the Teacher Standards and
+Practices Commission and the Department of Education to be sent a copy of the
+completed disposition report. [1987 c.503 s.4; 1993 c.674 s.2]
+���������� 181.530
+Report of release or escape from state institution of certain inmates. (1) The superintendent of any
+institution of this state shall notify the bureau prior to the release or
+immediately after the escape from such institution, of any person committed to
+such institution, for a crime for which a report is required or under civil
+commitment as a sexually dangerous person. The notice shall state the name of
+the person to be released or who has escaped, the county in which the person
+was convicted or from which the person was committed and, if known, the address
+or locality at which the person will reside.
+����������� (2)
+Promptly upon receipt of the notice required by subsection (1) of this section,
+the bureau shall notify all law enforcement agencies in the county in which the
+person was convicted or from which the person was committed and in the county,
+if known, in which the person will reside. [1963 c.547 s.5]
+���������� 181.535
+Criminal identification information available to Executive Secretary of Oregon
+Racing Commission.
+(1) The department may, upon request of the Oregon Racing Commission, furnish
+to the Executive Secretary of the Oregon Racing Commission such information as
+the department may have in its possession from its central bureau of criminal
+identification, including but not limited to manual or computerized information
+and data.
+����������� (2)
+For the purposes of requesting and receiving the information and data described
+in subsection (1) of this section, the Oregon Racing Commission is a �state
+agency� and a �criminal justice agency� and its enforcement agents are �peace
+officers� within this chapter and rules adopted thereunder. [1975 c.549 s.19]
+���������� 181.537
+Criminal identification information available to Department of Human Resources
+and Employment Department.
+(1) Subject to subsection (2) of this section, the Department of Human
+Resources or the Employment Department may request and the Department of State
+Police shall furnish to the Department of Human Resources or the Employment
+Department such information as the Department of State Police may have in its
+possession from its central bureau of criminal identification, including but
+not limited to manual or computerized information, concerning persons where
+criminal offender information is required:
+����������� (a)
+To implement a federal or state statute, executive order or rule that expressly
+refers to criminal conduct and contains requirements or exclusions expressly
+based on such conduct;
+����������� (b)
+For departmental employment purposes;
+����������� (c)
+For the purposes of Department of Human Resources and Employment Department
+licensing, certifying or regulating programs or persons that provide care or
+treatment to children; or
+����������� (d)
+For the purposes of employment decisions by private entities that provide care
+or treatment to children and that are regulated by the Department of Human
+Resources or the Employment Department.
+����������� (2)
+Subsequent to furnishing the information obtained under subsection (1) of this
+section, the Department of State Police shall conduct nationwide criminal
+record checks through the Federal Bureau of Investigation of persons described
+in subsection (1) of this section, including their fingerprints, and shall
+report the results to the Department of Human Resources or the Employment
+Department.
+����������� (3)
+The Federal Bureau of Investigation shall either return or destroy the
+fingerprint cards used to conduct the criminal records check and shall not keep
+any record of the fingerprints. However, if the federal bureau policy
+authorizing return or destruction of the fingerprint cards is changed, the
+Department of Human Resources or the Employment Department shall cease to send
+the cards to the federal bureau but shall continue to process the information
+through other available resources.
+����������� (4)
+If the Federal Bureau of Investigation returns the fingerprint cards to the
+Department of State Police, the department shall return the fingerprint cards
+to the Department of Human Resources or the Employment Department. The
+Department of Human Resources or the Employment Department shall destroy the
+fingerprint cards and shall retain no facsimiles or other material from which a
+fingerprint can be reproduced.
+����������� (5)
+The Department of Human Resources or the Employment Department, in consultation
+with the Department of State Police, shall adopt by rule definitions or
+descriptions of employees authorized to make criminal record inquiries and
+persons subject to criminal record inquiries, including fingerprints, for
+purposes of this section.
+����������� (6)
+The Department of State Police shall adopt rules to restrict dissemination of
+information received under this section to persons with a demonstrated and
+legitimate need to know the information. Any public or private agency receiving
+information pursuant to this section is bound by the rules of disclosure
+adopted by the department.
+����������� (7)
+For purposes of receiving the information described in this section, the
+Department of Human Resources and the Employment Department are each considered
+to be a �designated agency� under ORS 181.010 to 181.560 and 181.715 to 181.730
+and the rules adopted under ORS 181.555. [1979 c.732 s.2; 1983 c.714 s.1; 1985
+c.792 s.1; 1989 c.364 s.4; 1989 c.439 s.1; 1991 c.390 s.1; 1993 c.344 s.48;
+1993 c.674 s.10; 1995 c.446 s.1]
+���������� 181.538
+Criminal identification information available to Native American tribe. (1) Upon the request of a Native
+American tribe, and in compliance with procedures adopted by the Department of
+State Police under ORS 181.555, the Department of State Police shall furnish to
+the authorized staff of the Native American tribe such information on a subject
+individual or contractor as the Department of State Police may have in its
+possession from its central bureau of criminal identification, including but
+not limited to manual or computerized criminal offender information. With the
+approval of the Department of State Police, a local law enforcement agency may
+furnish the information described in this subsection to a Native American
+tribe.
+����������� (2)(a)
+Subsequent to furnishing the information required under subsection (1) of this
+section, the Department of State Police shall conduct nationwide criminal
+records checks of the subject individual or contractor through the Federal
+Bureau of Investigation by use of the subject individual's or contractor's
+fingerprints and shall report the results to the staff of the Native American
+tribe, who must be specifically authorized to receive the information. In
+accordance with the procedures of the Department of State Police, a local law
+enforcement agency may conduct the criminal records check described in this
+paragraph if the local law enforcement agency has received approval under
+subsection (1) of this section.
+����������� (b)
+The Department of State Police shall return the fingerprint cards to the Native
+American tribe.
+����������� (3)
+For purposes of requesting and receiving the information and data described in
+subsections (1) and (2) of this section, Native American tribes are designated
+agencies for purposes of ORS 181.010 to 181.560 and 181.715 to 181.730.
+����������� (4)
+As used in this section:
+����������� (a)
+�Contractor� means any natural person or corporation, trust, association,
+partnership, joint venture, subsidiary or other business entity with whom a
+Native American tribe intends to contract for the purpose of providing supplies
+or services related to tribal gaming, or any control person of a contractor.
+����������� (b)
+�Control person� means:
+����������� (A)
+In a privately owned corporation, the officers, directors and stockholders of
+the parent company and, if applicable, each of its subsidiaries.
+����������� (B)
+In a publicly owned corporation, the officers and directors of the parent
+company, each of its subsidiaries and stockholders owning at least 15 percent
+of the company's stock.
+����������� (C)
+In a trust, the trustee and all persons entitled to receive income or benefit
+from the trust.
+����������� (D)
+In an association, the members, officers and directors.
+����������� (E)
+In a partnership or joint venture, the general partners, limited partners or
+joint venturers.
+����������� (F)
+A member of the immediate family of any of the persons listed in subparagraphs
+(A) to (E) of this paragraph if the person is involved in the business.
+����������� (G)
+A subcontractor of a contractor, if the subcontractor performs more than 50
+percent of the contractor's contract with the Native American tribe.
+����������� (c)
+�Native American tribe� means any recognized Native American tribe or band of
+tribes authorized by the Indian Gaming Regulatory Act of October 17, 1988
+(Public Law 100-497), 25 U.S.C. 2701 et seq., and the State of Oregon to
+conduct gambling operations on tribal land.
+����������� (d)
+�Subject individual� means a person who is applying for employment at a tribal
+gaming facility as a key employee, high security employee, low security
+employee or management employee. [1995 c.723 s.1]
+����������� Note: 181.538 was enacted into law by the
+Legislative Assembly but was not added to or made a part of ORS chapter 181 or
+any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation.
+���������� 181.539
+Criminal identification information available to Teacher Standards and
+Practices Commission and Department of Education. (1) Upon the request of the
+Teacher Standards and Practices Commission or the Department of Education, the
+Department of State Police shall furnish to the authorized staff of the Teacher
+Standards and Practices Commission or the Department of Education such
+information on a subject individual as the Department of State Police may have
+in its possession from its central bureau of criminal identification, including
+but not limited to manual or computerized criminal offender information.
+����������� (2)(a)
+Subsequent to furnishing the information required under subsection (1) of this
+section, the Department of State Police shall conduct nationwide criminal
+records checks of the subject individual through the Federal Bureau of
+Investigation by use of the subject individual's fingerprints and shall report
+the results to the staff of the Teacher Standards and Practices Commission or
+the Department of Education, who must be specifically authorized to receive the
+information.
+����������� (b)
+The Federal Bureau of Investigation shall either return or destroy the
+fingerprint cards used to conduct the criminal records check and shall not keep
+any record of the fingerprints. However, if the federal bureau policy
+authorizing return or destruction of the fingerprint cards is changed, the
+department shall cease to send the cards to the federal bureau but shall
+continue to process the information through other available resources.
+����������� (c)
+If the Federal Bureau of Investigation returns the fingerprint cards to the
+Department of State Police, the department shall return the fingerprint cards
+to the Teacher Standards and Practices Commission or the Department of
+Education. The Teacher Standards and Practices Commission or the Department of
+Education shall destroy the fingerprint cards and shall retain no facsimiles or
+other material from which a fingerprint can be reproduced.
+����������� (3)
+For purposes of requesting and receiving the information and data described in
+subsections (1) and (2) of this section, the Teacher Standards and Practices
+Commission and the Department of Education are designated agencies for purposes
+of ORS 181.010 to 181.560 and 181.715 to 181.730.
+����������� (4)
+As used in this section, �subject individual� means:
+����������� (a)
+An individual who is applying for initial issuance of a license under ORS
+342.120 to 342.430 as a teacher, administrator or personnel specialist if the
+individual has not submitted to a criminal records check within the previous
+year with the Teacher Standards and Practices Commission for the purpose of a
+criminal records check.
+����������� (b)
+An individual who is applying for reinstatement of a license as a teacher,
+administrator or personnel specialist whose license has lapsed for at least
+three years.
+����������� (c)
+An individual who is applying for initial issuance of a certificate under ORS
+342.475 as a school nurse.
+����������� (d)
+A school district contractor, whether part-time or full-time, or an employee
+thereof, whether part-time or full-time, who has direct, unsupervised contact
+with students as determined by the district.
+����������� (e)
+An individual newly hired, whether part-time or full-time, by a school district
+in a capacity not described in paragraphs (a) to (c) of this subsection who has
+direct, unsupervised contact with children as determined by the district.
+����������� (f)
+An individual employee, whether part-time or full-time, of a school district in
+a capacity not described in paragraphs (a) to (c) of this subsection who has
+direct, unsupervised contact with children as determined by the district.
+����������� (g)
+An individual who is registering with the Teacher Standards and Practices
+Commission for student teaching, practicum or internship as a teacher,
+administrator or personnel specialist, if the individual has not submitted to a
+criminal records check within the previous year with the Teacher Standards and
+Practices Commission for student teaching, practicum or internship as a
+teacher, administrator or personnel specialist.
+����������� (h)
+An individual who is a community college faculty member providing instruction
+at a kindergarten through grade 12 school site during the regular school day.
+����������� (5)
+�Subject individual� does not include an individual described in subsection
+(4)(d), (e), (f) or (h) of this section if the individual or the individual's
+employer was checked in one school district and is currently seeking to work in
+another district unless the individual lived outside this state during the
+period between the two periods of time of working in the district.
+����������� (6)
+Nothing in this section shall be considered to require a subject individual as
+described in subsection (4)(d) or (e) of this section to submit to
+fingerprinting until the individual has been offered employment or a contract
+by a school district. Contractor employees shall not be required to submit to
+fingerprinting until the contractor has been offered a contract.
+����������� (7)
+As used in this section, �school district� means:
+����������� (a)
+A school district as defined in ORS 330.003.
+����������� (b)
+The Oregon State School for the Blind.
+����������� (c)
+The Oregon State School for the Deaf.
+����������� (d)
+An educational program under the Juvenile Corrections Education Program. [1993
+c.674 s.3; 1995 c.67 s.39; 1995 c.446 s.2]
+����������� Note: Section 6, chapter 446, Oregon
+Laws 1995, provides:
+����������� Sec.
+6. (1) For persons
+described in ORS 181.539 (4)(f) whose birth month is January, February or
+March, the Department of Education shall complete the required investigation
+under ORS 181.539 (1) and (2) by July 1, 1997.
+����������� (2)
+For persons described in ORS 181.539 (4)(f) whose birth month is April, May or
+June, the Department of Education shall complete the required investigation
+under ORS 181.539 (1) and (2) by July 1, 1998.
+����������� (3)
+For persons described in ORS 181.539 (4)(f) whose birth month is July, August
+or September, the Department of Education shall complete the required
+investigation under ORS 181.539 (1) and (2) by July 1, 1999.
+����������� (4)
+For persons described in ORS 181.539 (4)(f) whose birth month is October,
+November or December, the Department of Education shall complete the required
+investigation under ORS 181.539 (1) and (2) by July 1, 2000. [1995 c.446 s.6]
+���������� 181.540
+Confidentiality of some records.
+(1) Notwithstanding the provisions of ORS 192.410 to 192.505 relating to public
+records the fingerprints, photographs, records and reports compiled under ORS
+137.225, 181.010, 181.511, 181.521, 181.555, 805.060 and this section are
+confidential and exempt from public inspection except:
+����������� (a)
+As ordered by a court;
+����������� (b)
+As provided in rules adopted by the department under ORS 183.310 to 183.550 to
+govern access to and use of computerized criminal offender information
+including access by an individual for review or challenge of the individual's
+own records;
+����������� (c)
+As provided in ORS 181.555 and 181.560;
+����������� (d)
+As provided in ORS 181.525; or
+����������� (e)
+As provided in ORS 418.747 (5).
+����������� (2)
+The records of the department of crime reports to the department and of arrests
+made by the department, however, shall not be confidential and shall be
+available in the same manner as the records of arrest and reports of crimes of
+other law enforcement agencies under ORS 192.501 (3). [1963 c.547 s.7; 1973
+c.794 s.16; 1975 c.548 s.7; 1979 c.518 s.1; 1981 c.905 s.3; 1983 c.338 s.900;
+1987 c.503 s.5; 1995 c.134 s.2]
+���������� 181.550
+Reporting of crime statistics.
+(1) All law enforcement agencies shall report to the Department of State Police
+statistics concerning crimes:
+����������� (a)
+As directed by the department, for purposes of the Uniform Crime Reporting
+System of the Federal Bureau of Investigation.
+����������� (b)
+As otherwise directed by the Governor concerning general criminal categories of
+criminal activities but not individual criminal records.
+����������� (c)
+Motivated by prejudice based on the perceived race, color, religion, national
+origin, sexual orientation, marital status, political affiliation or beliefs,
+membership or activity in or on behalf of a labor organization or against a
+labor organization, physical or mental handicap, age, economic or social status
+or citizenship of the victim.
+����������� (d)
+And other incidents arising out of domestic disturbances under ORS 133.055 (2)
+and 133.310 (3).
+����������� (2)
+The department shall prepare:
+����������� (a)
+Quarterly and annual reports for the use of agencies reporting under subsection
+(1) of this section, and others having an interest therein;
+����������� (b)
+An annual public report of the statistics on the incidence of crime motivated
+by prejudice based on the perceived race, color, religion, national origin,
+sexual orientation, marital status, political affiliation or beliefs,
+membership or activity in or on behalf of a labor organization or against a
+labor organization, physical or mental handicap, age, economic or social status
+or citizenship of the victim;
+����������� (c)
+Quarterly and annual reports of the statistics on the incidence of crimes and
+incidents of domestic disturbances; and
+����������� (d)
+Special reports as directed by the Governor. [1973 c.130 s.2; 1989 c.1028 s.1;
+1991 c.552 s.1; 1993 c.188 s.11]
+���������� 181.555
+Establishment of procedures for access to criminal record information. The department shall adopt rules
+under ORS 183.310 to 183.550 establishing procedures:
+����������� (1)
+To provide access to criminal offender information by criminal justice agencies
+and by other state and local agencies.
+����������� (2)(a)
+To permit a person or agency not included in subsection (1) of this section to
+inquire as to whether the department has compiled criminal offender information
+on an individual.
+����������� (b)
+To provide that any person making an inquiry under paragraph (a) of this
+subsection furnish the department with such information known to the inquirer
+as will assist the department in identifying and notifying the individual about
+whom the information is sought. If the information is sought by an employer for
+employment purposes, the employer first shall have advised the employee or
+prospective employee that such information might be sought and shall state upon
+making the request that the individual has been so advised and the manner in
+which the individual was so advised.
+����������� (3)
+To provide each individual about whom criminal offender information has been
+compiled the right to inspect and challenge that criminal offender information.
+����������� (4)
+Providing for purging or updating of inaccurate or incomplete information.
+[1975 c.548 s.8; 1981 c.905 s.6]
+���������� 181.557
+Procedure when information requested by designated agency. When a designated agency requests
+criminal offender information about an individual from the department under ORS
+181.555 (1) for agency employment, licensing or other permissible purposes, the
+agency shall provide documentation that the individual:
+����������� (1)
+Gave prior written consent for the agency to make a criminal offender record
+check through the department; or
+����������� (2)
+Has received written notice from the agency that a criminal offender record check
+may be made through the department. Notice shall be provided prior to the time
+the request is made and shall include:
+����������� (a)
+Notice of the manner in which the individual may be informed of the procedures
+adopted under ORS 181.555 (3) for challenging inaccurate criminal offender
+information; and
+����������� (b)
+Notice of the manner in which the individual may become informed of rights, if
+any, under Title VII of the Civil Rights Act of 1964, and notice that
+discrimination by an employer on the basis of arrest records alone may violate
+federal civil rights law and that the individual may obtain further information
+by contacting the Bureau of Labor and Industries. [1989 c.364 s.2]
+���������� 181.560
+Procedure when information requested by other than criminal justice agency. (1) When a person or agency, other
+than a criminal justice agency or a law enforcement agency, pursuant to ORS
+181.555 (2), requests from the department criminal offender information
+regarding an individual, if the department's compiled criminal offender information
+on the individual contains records of any conviction, or of any arrest less
+than one year old on which there has been no acquittal or dismissal, the
+department shall respond to the request as follows:
+����������� (a)
+The department shall send prompt written notice of the request to the
+individual about whom the request has been made. The department shall address
+the notice to the individual's last address known to the department and to the
+individual's address, if any, supplied by the person making the request.
+However, the department has no obligation to insure that the addresses are
+current. The notice shall state that the department has received a request for
+information concerning the individual and shall identify the person or agency
+making the request. Notice to the individual about whom the request is made
+shall include:
+����������� (A)
+A copy of all information to be supplied to the person or agency making the
+request;
+����������� (B)
+Notice to the individual of the manner in which the individual may become
+informed of the procedures adopted under ORS 181.555 (3) for challenging
+inaccurate criminal offender information; and
+����������� (C)
+Notice to the individual of the manner in which the individual may become
+informed of rights, if any, under Title VII of the Civil Rights Act of 1964,
+and notice that discrimination by an employer on the basis of arrest records
+alone may violate federal civil rights law and that the individual may obtain
+further information by contacting the Bureau of Labor and Industries.
+����������� (b)
+Fourteen days after sending notice to the individual about whom the request is
+made, the department shall deliver to the person or agency making the request
+the following information if held regarding any convictions and any arrests
+less than one year old on which the records show no acquittal or dismissal:
+����������� (A)
+Date of arrest.
+����������� (B)
+Offense for which arrest was made.
+����������� (C)
+Arresting agency.
+����������� (D)
+Court of origin.
+����������� (E)
+Disposition, including sentence imposed, date of parole if any and parole
+revocations if any.
+����������� (c)
+The department shall deliver only the data authorized under paragraph (b) of
+this subsection.
+����������� (d)
+The department shall inform the person or agency requesting the criminal offender
+information that the department's response is being furnished only on the basis
+of similarity of names and description and that identification is not confirmed
+by fingerprints.
+����������� (2)
+If the department holds no criminal offender information on an individual, or
+the department's compiled criminal offender information on the individual
+consists only of nonconviction data, the department shall respond to a request
+under this section that the individual has no criminal record and shall release
+no further information.
+����������� (3)
+The department shall keep a record of all persons and agencies making inquiries
+under ORS 181.555 (2) and shall keep a record of the names of the individuals
+about whom such persons or agencies are inquiring, regardless of whether the
+department has compiled any criminal offender information on the individuals.
+These records shall be public records and shall be available for inspection
+under ORS 192.410 to 192.505.
+����������� (4)
+Nothing in ORS 181.066, 181.540, 181.555 or this section is intended to prevent
+the department from charging a reasonable fee, pursuant to ORS 192.440, for
+responding to a criminal offender information inquiry or for making information
+available under ORS 181.555 or this section. [1981 c.905 s.5]
+����������� 181.570 [1975 c.375 s.1; repealed by 1979
+c.485 s.1]
+���������� 181.575
+Specific information not to be collected or maintained. No law enforcement agency, as
+defined in ORS 181.010, may collect or maintain information about the
+political, religious or social views, associations or activities of any
+individual, group, association, organization, corporation, business or
+partnership unless such information directly relates to an investigation of
+criminal activities, and there are reasonable grounds to suspect the subject of
+the information is or may be involved in criminal conduct. [1981 c.905 s.8]
+����������� Note: 181.575 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 181
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation.
+���������� 181.580
+Report of suspected criminal homicide; form and time of report; compilation;
+comparison. (1) As
+used in this section, �criminal homicide� has the meaning provided in ORS
+163.005.
+����������� (2)
+Any criminal justice agency within the State of Oregon having primary
+responsibility for investigation of the case shall provide information relating
+to any suspected criminal homicide to the Superintendent of State Police within
+25 days after its discovery. The criminal justice agency shall submit the
+information on a form which shall be developed and provided by the Department
+of State Police. The form shall contain only information necessary to aid law
+enforcement personnel in comparing homicides and suspected homicides and
+discovering those exhibiting similar characteristics. The Department of State
+Police shall enter information submitted by an investigating agency into a file
+controlled by the Department of State Police and shall compare such information
+to information on other homicides or suspected homicides, for the purpose of
+discovering similarities in criminal methods and suspect descriptions. The
+Department of State Police shall advise the concerned investigating agencies if
+the Department of State Police finds homicides exhibiting similar criminal
+methods or suspect descriptions.
+����������� (3)
+When an investigating criminal justice agency terminates active investigation
+of a suspected criminal homicide due to an arrest having been made in the case,
+death of the primary suspect, or whatever other reason, the investigating
+agency shall so notify the Department of State Police within 30 days following
+such termination. Notification shall include the reason for terminating active
+investigation. [1985 c.609 s.1; 1991 c.885 s.5]
+����������� Note: 181.580 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 181
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation.
+PREDATORY
+SEX OFFENDER
+NOTICE
+PROCEDURE
+���������� 181.585
+�Predatory sex offender� defined; determination. (1) For purposes of ORS 181.585 to
+181.587, a person is a predatory sex offender if the person exhibits
+characteristics showing a tendency to victimize or injure others and has been
+convicted of a sex crime listed in ORS 181.594 (2)(a) to (d) or of attempting
+to commit one of those crimes.
+����������� (2)
+In determining whether a person is a predatory sex offender, an agency may use
+a sex offender risk assessment scale approved by the Department of Corrections.
+[Formerly 181.507]
+����������� Note: 181.585 to 181.587 were enacted
+into law by the Legislative Assembly but were not added to or made a part of
+ORS chapter 181 or any series therein by legislative action. See Preface to
+Oregon Revised Statutes for further explanation.
+���������� 181.586
+Notice to appropriate persons of supervised predatory sex offender; content. (1) If the State Board of Parole
+and Post-Prison Supervision for a person on parole or post-prison supervision
+or the Department of Corrections or a community corrections agency for a person
+on probation makes a determination that the person under its supervision is a
+predatory sex offender, the agency supervising the person shall notify anyone
+whom the agency determines is appropriate that the person is a predatory sex
+offender.
+����������� (2)
+In making a determination under subsection (1) of this section, the agency
+shall consider notifying:
+����������� (a)
+The person's family;
+����������� (b)
+The person's sponsor;
+����������� (c)
+Residential neighbors and churches, community parks, schools, convenience stores,
+businesses and other places that children or other potential victims may
+frequent; and
+����������� (d)
+Any prior victim of the offender.
+����������� (3)
+When an agency determines that notification is necessary, the agency may use
+any method of communication that the agency determines is appropriate. The
+notification may include, but is not limited to, distribution of the following
+information:
+����������� (a)
+The person's name and address;
+����������� (b)
+A physical description of the person including, but not limited to, the
+person's age, height, weight and eye and hair color;
+����������� (c)
+The type of vehicle that the person is known to drive;
+����������� (d)
+Any conditions or restrictions upon the person's probation, parole, post-prison
+supervision or conditional release;
+����������� (e)
+A description of the person's primary and secondary targets;
+����������� (f)
+A description of the person's method of offense;
+����������� (g)
+A current photograph of the person; and
+����������� (h)
+The name or telephone number of the person's parole and probation officer.
+[Formerly 181.508]
+����������� Note: See note under 181.585.
+���������� 181.587
+Availability of information on supervised predatory sex offender. (1) Unless the agency determines
+that release of the information would substantially interfere with the
+treatment or rehabilitation of the supervised person, an agency that supervises
+a predatory sex offender shall make any information regarding the person that
+the agency determines is appropriate, including, but not limited to, the
+information listed in ORS 181.586 (3), available to any other person upon
+request.
+����������� (2)
+Notwithstanding subsection (1) of this section, the agency shall make the
+information listed in ORS 181.586 (3), or any other information regarding the
+supervised person that the agency determines is appropriate, available to any
+other person upon request if the person under supervision:
+����������� (a)
+Is a predatory sex offender; and
+����������� (b)
+Is neglecting to take treatment or participate in rehabilitation. [Formerly
+181.509]
+����������� Note: See note under 181.585.
+���������� 181.588
+Notice to appropriate persons of unsupervised predatory sex offender; content;
+release of lists.
+(1) Notwithstanding any other provision of law, the Department of State Police,
+the chief of police of a city police department or a county sheriff may notify
+anyone the Department of State Police, chief of police or sheriff determines is
+appropriate that a person is a predatory sex offender if the Department of
+State Police, chief of police or sheriff, in conjunction with the Department of
+Corrections, determines that the person is a predatory sex offender as provided
+in ORS 181.585 and the person is not under active supervision by the Department
+of Corrections or a community corrections agency.
+����������� (2)
+Notification under subsection (1) of this section may include distribution of
+any information listed in ORS 181.586 (3).
+����������� (3)
+The Department of State Police, a chief of police or a sheriff may not release
+lists of registered sex offenders or addresses of registered sex offenders to
+the public. [1995 c.429 s.11]
+����������� Note: 181.588 and 181.589 were enacted
+into law by the Legislative Assembly but were not added to or made a part of
+ORS chapter 181 or any series therein by legislative action. See Preface to
+Oregon Revised Statutes for further explanation.
+���������� 181.589
+Notice to appropriate persons of unsupervised juvenile predatory sex offender;
+content. (1)
+Notwithstanding any other provision of law, the Oregon State Police, the chief
+of police of a city police department or a county sheriff may disclose to any
+member of the public that a person is a predatory sex offender if:
+����������� (a)
+The person is registered or is required to register under ORS 181.595, 181.596
+or 181.597 (1) and (2) after being found to be within the jurisdiction of the
+juvenile court for having committed an act that if committed by an adult would
+constitute a sex crime;
+����������� (b)
+The person is not under the supervision of the juvenile court; and
+����������� (c)
+The Oregon State Police, chief of police or sheriff, in conjunction with the
+Department of Corrections, determines that the person is a predatory sex
+offender as provided in ORS 181.585.
+����������� (2)
+Notification under subsection (1) of this section may include any of the
+following information:
+����������� (a)
+The person's name and address;
+����������� (b)
+A physical description of the person including, but not limited to, the
+person's age, height, weight and eye and hair color;
+����������� (c)
+The type of vehicle the person is known to drive;
+����������� (d)
+Any conditions or restrictions upon the person's release;
+����������� (e)
+A description of the person's primary and secondary victims of choice;
+����������� (f)
+A description of the person's method of offense;
+����������� (g)
+A current photograph of the person; and
+����������� (h)
+The name or work telephone number of the person's parole or probation officer.
+[1995 c.422 ss.62,62a]
+����������� Note: See note under 181.588.
+SEX
+OFFENDER REGISTRATION
+���������� 181.594
+Definitions for ORS 181.595 and 181.596. As used in ORS 181.595 and 181.596:
+����������� (1)(a)
+�Correctional facility� means any place used for the confinement of persons:
+����������� (A)
+Charged with or convicted of a crime or otherwise confined under a court order.
+����������� (B)
+Found to be within the jurisdiction of the juvenile court for having committed
+an act that if committed by an adult would constitute a crime.
+����������� (b)
+�Correctional facility� applies to a state hospital only as to persons detained
+therein charged with or convicted of a crime, or detained therein after being
+found guilty except for insanity under ORS 161.290 to 161.370.
+����������� (2)
+�Sex crime� means:
+����������� (a)
+Rape in any degree;
+����������� (b)
+Sodomy in any degree;
+����������� (c)
+Unlawful sexual penetration in any degree;
+����������� (d)
+Sexual abuse in any degree;
+����������� (e)
+Incest with a child victim;
+����������� (f)
+Using a child in a display of sexually explicit conduct;
+����������� (g)
+Encouraging child sexual abuse in any degree;
+����������� (h)
+Transporting child pornography into the state;
+����������� (i)
+Paying for viewing a child's sexually explicit conduct;
+����������� (j)
+Compelling prostitution;
+����������� (k)
+Promoting prostitution;
+����������� (L)
+Any attempt to commit any of the crimes set forth in paragraphs (a) to (k) of
+this subsection; or
+����������� (m)
+Burglary, when committed with intent to commit any of the offenses listed in
+paragraphs (a) to (f) of this subsection. [Formerly 181.517]
+����������� Note: 181.594 to 181.596 were enacted
+into law by the Legislative Assembly but were not added to or made a part of
+ORS chapter 181 or any series therein by legislative action. See Preface to
+Oregon Revised Statutes for further explanation.
+����������� 181.595
+Report of information on sex offender who is discharged, paroled or released on
+supervised release from correctional facility or another state; change of
+address procedure.
+(1)(a) The official in charge of supervising a person shall obtain the address
+where the person will reside upon release and shall enter into the Law
+Enforcement Data System the person's name and description, a description of the
+methodology of the offense, the person's address and the originating code of
+the parole or probation agency that is located closest to the address of the
+person when the person:
+����������� (A)
+Is discharged, paroled or released on any form of supervised or conditional
+release from a jail, prison or other correctional facility or detention
+facility in this state at which the person was confined as a result of:
+����������� (i)
+Conviction of a sex crime;
+����������� (ii)
+Having been found guilty except for insanity of a sex crime; or
+����������� (iii)
+Having been found to be within the jurisdiction of the juvenile court for
+having committed a crime that if committed by an adult would constitute a sex
+crime; or
+����������� (B)
+Is paroled to this state under ORS 144.610 after being convicted in another
+jurisdiction of a crime that would constitute a sex crime if committed in this
+state.
+����������� (b)
+The person in charge of supervising a person on active parole or other
+supervised or conditional release shall enter into the Law Enforcement Data
+System any change in the address of the parolee or person being supervised.
+����������� (2)
+Following discharge, release from active parole or other supervised or
+conditional release, the person shall provide, in writing, the address of the person
+to the Oregon State Police:
+����������� (a)
+Within 30 days of a change of residence; and
+����������� (b)
+Once each year regardless of whether the person changed address. [Formerly
+181.518]
+����������� Note: See note under 181.594.
+���������� 181.596
+Report of information on sex offender released or discharged; change of address
+procedure. (1)(a)
+Except as otherwise provided in paragraph (b) of this subsection, the probation
+agency of the county in which a person intends to reside upon release shall
+enter into the Law Enforcement Data System the person's name and description,
+the description of the methodology of the offense, the address where the person
+expects to reside upon release and the originating code of the probation agency
+that is located closest to the address of the person when the person is
+released on probation:
+����������� (A)
+By the court after being convicted in this state of a sex crime;
+����������� (B)
+By the juvenile court after being found to be within the jurisdiction of the
+juvenile court for having committed an act that if committed by an adult would
+constitute a sex crime; or
+����������� (C)
+To this state under ORS 144.610 after being convicted in another jurisdiction
+of a crime that would constitute a sex crime if committed in this state.
+����������� (b)
+When the court discharges the person or places the person on bench probation,
+the district attorney shall cause the information required by paragraph (a) of
+this subsection to be entered into the Law Enforcement Data System.
+����������� (2)(a)
+Except as otherwise provided in paragraph (b) of this subsection, when a person
+is found guilty except for insanity of a sex crime and is discharged or
+released on conditional release by the court or the Psychiatric Security Review
+Board, the Psychiatric Security Review Board shall cause to be entered into the
+Law Enforcement Data System the person's name and description, the description
+of the methodology of the offense and the address where the person expects to
+reside upon release.
+����������� (b)
+When the person is discharged by the court, the district attorney shall cause
+the information required by paragraph (a) of this subsection to be entered into
+the Law Enforcement Data System.
+����������� (3)
+Following discharge, release from active parole or other supervised or
+conditional release, the person shall provide, in writing, the address of the
+person to the Oregon State Police:
+����������� (a)
+Within 30 days of a change of residence; and
+����������� (b)
+Once each year regardless of whether the person changed address. [Formerly
+181.519]
+����������� Note: See note under 181.594.
+���������� 181.597
+Certain persons required to register upon moving into state. (1) When a person listed in
+subsection (2) of this section moves into this state and is not otherwise
+required by ORS 181.595 or 181.596 to register, the person shall provide, in
+person, the address of the person to the Department of State Police, a city
+police department or a county sheriff's office:
+����������� (a)
+No later than 30 days after moving into this state;
+����������� (b)
+Within 30 days of a change of residence; and
+����������� (c)
+Once each year regardless of whether the person changed residence.
+����������� (2)
+Subsection (1) of this section applies to:
+����������� (a)
+A person convicted in another jurisdiction of a crime if the elements of the
+crime would constitute a sex crime as defined in ORS 181.594; and
+����������� (b)
+A person required to register in another state for having committed a sex
+offense in that state regardless of whether the crime would constitute a sex
+crime in this state.
+����������� (3)
+The Department of State Police, a city police department or a sheriff's office
+may photograph and fingerprint a person as part of the registration required
+under subsections (1) and (2) of this section. [1995 c.429 ss.2,4]
+����������� Note: 181.597 to 181.602 were enacted
+into law by the Legislative Assembly but were not added to or made a part of
+ORS chapter 181 or any series therein by legislative action. See Preface to
+Oregon Revised Statutes for further explanation.
+���������� 181.598
+Registration forms; State Police to provide. (1) The Department of State Police shall provide
+forms on which a person required to register, or be registered, under ORS
+181.595, 181.596 or 181.597 (1) and (2) must register. City police departments
+and county sheriffs' offices shall forward the original registration form to
+the Department of State Police no later than five working days after
+registration.
+����������� (2)
+Entities required to register offenders under ORS 181.595 and 181.596 shall use
+forms provided by the Department of State Police and shall enter the offender
+information into the Law Enforcement Data System. The original registration
+forms must be forwarded to the Department of State Police no later than five
+working days after registration. [1995 c.429 s.3]
+����������� Note: See note under 181.597.
+���������� 181.599
+Effect of failure to register.
+(1) A person who has knowledge of the registration requirement and who fails to
+make the initial registration or to register following a change of address as
+required by ORS 181.595 and 181.596 or 181.597 (1) and (2) commits a:
+����������� (a)
+Class C felony, if the crime for which the person is required to register is a
+felony; or
+����������� (b)
+Class A misdemeanor, if the crime for which the person is required to register
+is a misdemeanor.
+����������� (2)
+A person who has knowledge of the registration requirement and who fails to
+file the annual report required by ORS 181.595 and 181.596 or 181.597 (1) and
+(2) commits a violation. [1991 c.389 s.4; 1995 c.429 s.5]
+����������� Note: See note under 181.597.
+���������� 181.600
+Relief from registration requirement; procedure. (1) No sooner than 10 years after
+termination of active supervision on probation, conditional release, parole or
+post-prison supervision, a person required to register as required by ORS
+181.595 and 181.596 or 181.597 (1) and (2) may file a petition in the circuit
+court of the county in which the person resides for an order relieving the
+person of the duty to register. The district attorney of the county shall be
+named and served as the respondent in the petition.
+����������� (2)
+The court shall hold a hearing on the petition. In determining whether to grant
+the relief requested, the court shall consider:
+����������� (a)
+The nature of the offense that required registration;
+����������� (b)
+The age and number of victims;
+����������� (c)
+The degree of violence involved in the offense;
+����������� (d)
+Other criminal and relevant noncriminal behavior of the petitioner both before
+and after the conviction that required registration;
+����������� (e)
+The period of time during which the petitioner has not reoffended;
+����������� (f)
+Whether the petitioner has successfully completed a court-approved sex offender
+treatment program; and
+����������� (g)
+Any other relevant factors.
+����������� (3)
+If the court is satisfied by clear and convincing evidence that the petitioner
+is rehabilitated and that the petitioner does not pose a threat to the safety
+of the public, the court shall enter an order relieving the petitioner of the
+duty to register.
+����������� (4)
+No sooner than 10 years after the termination of juvenile court wardship of a
+person required to register under ORS 181.595, 181.596 or 181.597 (1) and (2),
+the person may file a petition in the circuit court for relief from the duty to
+register as provided in subsections (1) to (3) of this section. [1991 c.389
+s.5; 1993 c.147 s.4; 1995 c.422 ss.63,63a]
+����������� Note: See note under 181.597.
+���������� 181.601
+Victim access to sex offender information; toll-free telephone number. (1)(a) When information about a
+person is first entered into the Law Enforcement Data System under ORS 181.595,
+181.596 or 181.597 (1) and (2), the person will be assigned a registry
+identification number.
+����������� (b)
+A victim shall be issued a victim identification number and shall be given the
+registry identification number of the person who committed the crime against
+the victim:
+����������� (A)
+At any time, upon request by the victim; and
+����������� (B)
+Upon verification of the identification of the victim.
+����������� (2)
+The Oregon State Police shall establish a toll-free telephone number to provide
+victims with updates on the prison status, release information, parole status
+and the county of residence of the person who committed the crime against the
+victim. The telephone line shall be operational within the state during normal
+working hours.
+����������� (3)
+Access of the victim to the telephone line shall be revoked if the victim makes
+public, or otherwise misuses, information received.
+����������� (4)
+When a victim receives notification under ORS 144.120 (7) of upcoming parole
+release hearings, or at any other time that the victim is notified concerning
+the offender, the victim shall be provided a notice of rights under this
+section and information about the toll-free telephone number. [1991 c.389 s.6;
+1995 c.429 s.7]
+����������� Note: See note under 181.597.
+���������� 181.602
+Purpose of sex offender registration requirements. The purpose of ORS 181.594 to
+181.601 is to assist law enforcement agencies in preventing future sex
+offenses. [1991 c.389 s.7; 1995 c.429 s.8]
+����������� Note: See note under 181.597.
+PUBLIC
+SAFETY
+STANDARDS
+AND TRAINING
+���������� 181.610
+Definitions for ORS 181.610 to 181.690. In ORS 181.610 to 181.690, unless the context
+requires otherwise:
+����������� (1)
+�Abuse� has the meaning given the term in ORS 107.705.
+����������� (2)
+�Board� means the Board on Public Safety Standards and Training appointed
+pursuant to ORS 181.620.
+����������� (3)
+�Certified reserve officer� means a reserve officer who has been designated by
+a local law enforcement unit, has received training necessary for certification
+and has met the minimum standards and training requirements established under
+ORS 181.640.
+����������� (4)
+�Commissioned� means an authorization granting the power to perform various
+acts or duties of a police officer or certified reserve officer and acting
+under the supervision and responsibility of a county sheriff or as otherwise
+provided by law.
+����������� (5)
+�Corrections officer� means an officer or member of a law enforcement unit who
+is employed full time thereby and is charged with and primarily performs the
+duty of custody, control or supervision of individuals convicted of or arrested
+for a criminal offense and confined in a place of incarceration or detention
+other than a place used exclusively for incarceration or detention of
+juveniles.
+����������� (6)
+�Domestic violence� means abuse between family or household members.
+����������� (7)
+�Emergency medical dispatcher� means a person who has responsibility to process
+requests for medical assistance from the public or to dispatch medical care
+providers.
+����������� (8)
+�Executive director� means the executive director of the board.
+����������� (9)
+�Family or household members� has the meaning given that term in ORS 107.705.
+����������� (10)
+�Fire protection equipment� means any apparatus, machinery or appliance
+intended for use by a fire service unit in fire prevention or suppression
+activities. �Fire protection equipment� does not include forest fire protection
+equipment.
+����������� (11)
+�Fire service professional� means an officer or member of a public or private
+fire protection agency who is engaged primarily in fire investigation, fire
+prevention, fire safety, fire control or fire suppression or providing
+emergency medical services, light and heavy rescue services, search and rescue
+services or hazardous materials incident response. �Fire service professional�
+does not include forest fire protection agency personnel.
+����������� (12)(a)
+�Law enforcement unit� means a police force or organization of the state, a
+city, port, school district, mass transit district, county, county service
+district authorized to provide law enforcement services under ORS 451.010,
+Indian reservation, Criminal Justice Division of the Department of Justice, the
+Department of Corrections, the Oregon State Lottery Commission or common
+carrier railroad whose primary duty, as prescribed by law, ordinance or
+directive, is any one or more of the following:
+����������� (A)
+Detecting crime and enforcing the criminal laws of this state or laws or
+ordinances relating to airport security;
+����������� (B)
+The custody, control or supervision of individuals convicted of or arrested for
+a criminal offense and confined to a place of incarceration or detention other
+than a place used exclusively for incarceration or detention of juveniles; or
+����������� (C)
+The control, supervision and reformation of adult offenders placed on parole or
+sentenced to probation and investigation of adult offenders on parole or
+probation or being considered for parole or probation.
+����������� (b)
+�Law enforcement unit� also means:
+����������� (A)
+A police force or organization of a private entity with a population of more
+than 1,000 residents in an unincorporated area whose employees are commissioned
+by a county sheriff; and
+����������� (B)
+A district attorney's office.
+����������� (13)
+�Parole and probation officer� means any officer employed full time by the
+Department of Corrections, a county or a court who is charged with and actually
+performs the duty of community protection by controlling, supervising and
+providing reformative services for adult parolees and probationers, or who
+performs the duty of investigation of adult offenders on parole or probation or
+being considered for parole or probation.
+����������� (14)
+�Police officer� means an officer, member or employee of a law enforcement unit
+who is employed full time as a peace officer commissioned by a city, port,
+school district, mass transit district, county, county service district
+authorized to provide law enforcement services under ORS 451.010, Indian
+reservation, the Criminal Justice Division of the Department of Justice, the Oregon
+State Lottery Commission or the Governor or who is a member of the Department
+of State Police and who is responsible for enforcing the criminal laws of this
+state or laws or ordinances relating to airport security or is an investigator
+of a district attorney's office if the investigator is or has been certified as
+a peace officer in this or any other state.
+����������� (15)
+�Public or private safety agency� means any unit of state or local government,
+a special purpose district or a private firm which provides, or has authority
+to provide, fire fighting, police, ambulance or emergency medical services.
+����������� (16)
+�Public safety personnel� includes corrections officers, youth correction
+officers, emergency medical dispatchers, parole and probation officers, police
+officers, certified reserve officers, telecommunicators and fire service
+professionals.
+����������� (17)
+�Reserve officer� means an officer or member of a law enforcement unit:
+����������� (a)
+Who is a volunteer or who is employed less than full-time as a peace officer
+commissioned by a city, port, school district, mass transit district, county,
+county service district authorized to provide law enforcement services under
+ORS 451.010, Indian reservation, the Criminal Justice Division of the
+Department of Justice, the Oregon State Lottery Commission or the Governor or
+who is a member of the Department of State Police;
+����������� (b)
+Who is armed with a firearm; and
+����������� (c)
+Who is responsible for enforcing the criminal laws and traffic laws of this
+state or laws or ordinances relating to airport security.
+����������� (18)
+�Telecommunicator� means any person employed as an emergency telephone worker
+as defined in ORS 243.736 or a public safety dispatcher whose primary duties
+are receiving, processing and transmitting public safety information received
+through a 9-1-1 emergency reporting system as defined in ORS 401.720.
+����������� (19)
+�Youth correction officer� means an employee of the Oregon Youth Authority who
+is charged with and primarily performs the duty of custody, control or
+supervision of youth offenders confined in a youth correction facility. [1961
+c.721 s.1; 1963 c.371 s.1; 1967 c.305 s.2; 1973 c.420 s.1; 1975 c.290 s.1; 1975
+c.392 s.3; 1975 c.666 s.4; 1977 c.382 s.1; 1977 c.477 s.1; 1977 c.737 s.1; 1979
+c.656 s.4; 1981 c.449 s.1; 1985 c.302 s.9; 1985 c.565 s.20; 1987 c.320 s.137;
+1989 c.1058 s.1; 1991 c.742 s.1; 1993 c.14 s.22; 1993 c.185 s.10; 1993 c.594
+s.1; 1993 c.623 s.1; 1995 c.97 s.1; 1995 c.128 s.2; 1995 c.303 s.1; 1995 c.422
+s.131q; 1995 c.624 ss.1,1a; 1995 c.651 s.8]
+���������� 181.620
+Board on Public Safety Standards and Training; term limit; confirmation. (1) The Governor shall appoint a
+Board on Public Safety Standards and Training consisting of 23 members as
+follows:
+����������� (a)
+Two members shall be chiefs of police recommended to the Governor by the Oregon
+Association of Chiefs of Police;
+����������� (b)
+One member shall be a sheriff recommended to the Governor by the Oregon State
+Sheriffs' Association;
+����������� (c)
+One member shall be a fire chief recommended to the Governor by the Oregon Fire
+Chiefs' Association;
+����������� (d)
+One member shall be a representative of the fire service recommended to the
+Governor by the Oregon Fire District Directors' Association;
+����������� (e)
+One member shall be a member of the Oregon State Fire Fighter's Council
+recommended to the Governor by the executive body of the council;
+����������� (f)
+One member shall be a representative of corrections personnel recommended to
+the Governor by the Oregon State Sheriffs' Association;
+����������� (g)
+One member shall be a representative of the fire service recommended to the
+Governor by the Oregon Volunteer Fire Fighters' Association;
+����������� (h)
+One member shall be a representative of public safety telecommunicators;
+����������� (i)
+One member shall be a district attorney recommended to the Governor by the
+Oregon District Attorneys' Association;
+����������� (j)
+One member shall be the Superintendent of State Police;
+����������� (k)
+One member shall be the Chief of the Portland Police Bureau;
+����������� (L)
+One member shall be the State Fire Marshal;
+����������� (m)
+One member shall be the Chief of the Portland Fire Bureau;
+����������� (n)
+One member shall be the Director of the Department of Corrections;
+����������� (o)
+One member shall be the Special Agent in Charge of the Federal Bureau of
+Investigation for Oregon;
+����������� (p)
+One member shall represent forest protection agencies recommended to the
+Governor by the State Forestry Department;
+����������� (q)
+One member shall be an administrator of a municipality recommended to the
+Governor by the executive body of the League of Oregon Cities;
+����������� (r)
+Two members shall be nonmanagement representatives of law enforcement;
+����������� (s)
+One member shall be a public member. A person appointed as a public member
+under this section shall be a person:
+����������� (A)
+Who has no personal interest or occupational responsibilities in the area of
+responsibility given to the board; and
+����������� (B)
+Who represents the interests of the public in general; and
+����������� (t)
+Two members shall be representatives of the private security industry
+recommended to the Governor by the Advisory Committee on Private Security
+Services.
+����������� (2)
+The term of office of a member is three years, and no member may be removed
+from office except for cause. Before the expiration of the term of a member,
+the Governor shall appoint the member's successor to assume the member's duties
+on July 1 next following. In case of a vacancy for any cause, the Governor
+shall make an appointment, effective immediately, for the unexpired term.
+����������� (3)
+Except for members who serve by virtue of their office, no member shall serve
+more than two terms. For purposes of this subsection, a person appointed to
+fill a vacancy consisting of an unexpired term of at least one and one-half
+years has served a full term.
+����������� (4)
+All appointments of members of the board by the Governor are subject to
+confirmation by the Senate in the manner provided in ORS 171.562 and 171.565.
+����������� (5)
+A member of the board is entitled to compensation and expenses as provided in
+ORS 292.495. [1961 c.721 ss.4,5; 1967 c.305 s.3; 1969 c.314 s.12; 1973 c.599
+s.4; 1973 c.792 s.2; 1975 c.290 s.15; 1977 c.382 s.12; 1979 c.410 s.2; 1991
+c.380 s.1; 1993 c.185 s.11; 1995 c.510 s.19]
+���������� 181.630
+Organization of board; approval of claims; meetings. (1) The board shall select one of
+its members as chairman and another as vice chairman. The vice chairman shall
+act as chairman when the chairman is absent or unable to act.
+����������� (2)
+The chairman shall approve voucher claims for indebtedness or expenses incurred
+under the provisions of and payable from appropriations made for the purposes
+of ORS 181.610 to 181.690. Otherwise the board shall prescribe such terms,
+powers and duties for the chairman and vice chairman as are convenient for the
+performance of the functions of the board.
+����������� (3)
+The board shall meet at least once every three months at a place and time
+determined by the board. The board shall also meet at such other times and
+places as the chairman shall specify. [1961 c.721 s.6]
+���������� 181.635
+Appointment of executive director and secretary of board. The board may appoint a person to
+serve at its pleasure as executive director and secretary of the board. The
+position is in the unclassified service, as that category is described in ORS
+240.205. The executive director shall not be a member of the board. The board
+shall fix the annual salary of the executive director. [1963 c.371 s.3]
+���������� 181.640
+Minimum standards and training for certification; annual report; duties in
+improving public safety units; grants; rules. (1) In accordance with any applicable provision of
+ORS 183.310 to 183.550, to promote enforcement of law and fire services by
+improving the competence of public safety personnel and their support staffs,
+the Board on Public Safety Standards and Training, in consultation with the
+agencies for which it provides standards, certification, accreditation and
+training, shall:
+����������� (a)
+Establish for police officers, certified reserve officers, corrections
+officers, youth correction officers, parole and probation officers and fire
+service professionals, reasonable minimum standards of physical, emotional,
+intellectual and moral fitness.
+����������� (b)
+Establish for public safety personnel and certified reserve officers reasonable
+minimum training for all levels of professional development, basic through
+executive, including but not limited to courses or subjects for instruction,
+facilities for instruction, qualification of instructors and methods of
+instruction.
+����������� (c)
+Establish a procedure or procedures to be used by law enforcement units, public
+or private safety agencies or the Oregon Youth Authority to determine whether a
+police officer, a certified reserve officer, a fire service professional, a
+corrections officer, a youth correction officer, a parole and probation
+officer, a telecommunicator or an emergency medical dispatcher meets minimum
+standards or has minimum training.
+����������� (d)
+Subject to such terms and conditions as the board may impose, certify police
+officers, reserve officers, fire service professionals, corrections officers,
+parole and probation officers, telecommunicators and emergency medical
+dispatchers as being qualified, and revoke such certification in the manner
+provided in ORS 181.661 to 181.664.
+����������� (2)
+The board shall cause inspection of standards and training for police officers,
+certified reserve officers, corrections officers, parole and probation
+officers, fire service professionals, telecommunicators and emergency medical
+dispatchers to be made.
+����������� (3)
+The board may:
+����������� (a)
+Contract or otherwise cooperate with any person or agency of government for the
+procurement of services or property;
+����������� (b)
+Accept gifts or grants of services or property; or
+����������� (c)
+Maintain and furnish to law enforcement units and public and private safety
+agencies information on applicants for appointment as police officers,
+certified reserve officers, fire service professionals, corrections officers,
+parole and probation officers, telecommunicators or emergency medical
+dispatchers in any part of the state.
+����������� (4)
+The board may:
+����������� (a)
+Upon the request of a law enforcement unit or public safety agency, conduct
+surveys or aid cities and counties to conduct surveys through qualified public
+or private agencies and assist in the implementation of any recommendations
+resulting from such surveys.
+����������� (b)
+Upon the request of law enforcement units or public safety agencies, conduct
+studies and make recommendations concerning means by which requesting units can
+coordinate or combine their resources.
+����������� (c)
+Stimulate research by public and private agencies to improve police, fire
+service, corrections and adult parole and probation administration and law
+enforcement.
+����������� (d)
+Provide grants from funds appropriated or available therefor, to law
+enforcement units, public safety agencies, special districts, cities and
+counties to carry out the provisions of this subsection.
+����������� (e)
+Provide optional training programs for persons who operate lockups. The term
+�lockup� has the meaning given it in ORS 169.005.
+����������� (f)
+Provide optional training programs for public safety personnel and their
+support staffs.
+����������� (g)
+Enter into agreements with federal, state or other governmental agencies to
+provide training or other services in exchange for receiving training, fees or
+services of generally equivalent value.
+����������� (h)
+Upon the request of a law enforcement unit or public safety agency employing
+police officers, certified reserve officers, fire service professionals,
+corrections officers or parole or probation officers, grant an officer or fire
+service professional a multidiscipline certification. Multidiscipline
+certification authorizes an officer or fire service professional to work in any
+of the disciplines for which the officer or fire service professional is
+certified. The provisions of ORS 181.652, 181.653 and 181.667 relating to lapse
+of certification do not apply to an officer or fire service professional
+certified under this paragraph.
+����������� (5)
+Pursuant to ORS 183.310 to 183.550, the board shall adopt rules necessary to
+carry out its duties and powers. [1961 c.721 s.2; 1967 c.305 s.4; 1969 c.609
+s.7; 1975 c.290 s.2; 1975 c.605 s.12; 1977 c.382 s.2; 1979 c.410 s.3; 1981
+c.449 s.2; 1983 c.606 s.1; 1987 c.320 s.138; 1987 c.901 s.7; 1991 c.380 s.2;
+1991 c.742 s.2; 1993 c.185 s.12; 1995 c.79 s.57; 1995 c.422 s.131r; 1995 c.624
+s.2]
+���������� 181.642
+Training in identification of crimes motivated by prejudice or that constitute
+abuse. The Board
+on Public Safety Standards and Training shall ensure that all police officers
+and certified reserve officers are trained to investigate, identify and report
+crimes:
+����������� (1)
+Motivated by prejudice based on the perceived race, color, religion, national
+origin, sexual orientation, marital status, political affiliation or beliefs,
+membership or activity in or on behalf of a labor organization or against a
+labor organization, physical or mental handicap, age, economic or social status
+or citizenship of the victim; and
+����������� (2)
+That constitute abuse, as defined in ORS 419B.005, or domestic violence. [1989
+c.1028 s.3; 1995 c.128 s.1; 1995 c.624 s.3]
+����������� Note: 181.642 was added to and made a
+part of ORS chapter 181 by legislative action but was not added to any smaller
+series therein. See Preface to Oregon Revised Statutes for further explanation.
+���������� 181.644
+Certification of telecommunicator or emergency medical dispatcher required;
+extension. (1)
+Except for a person who has requested and obtained from the board an extension
+pursuant to subsection (2) of this section, no person may be employed as a
+telecommunicator or emergency medical dispatcher by any public or private
+public safety agency for more than one year unless the person has been
+certified as being qualified as a telecommunicator or emergency medical dispatcher
+under the provisions of ORS 181.610 to 181.690 and the certification has
+neither lapsed nor been revoked pursuant to ORS 181.661, 181.662 and 181.664
+(1) and not been reissued under ORS 181.664.
+����������� (2)
+The board, upon the facts contained in an affidavit accompanying the request
+for an extension, may find good cause for failure to obtain certification
+within the time period described in subsection (1) of this section. If the
+board finds that there is good cause for such failure, the board may extend for
+up to one year the period that a person may serve as a telecommunicator or an
+emergency medical dispatcher without certification. The grant or denial of such
+an extension is with the sole discretion of the board. [1991 c.742 s.10]
+����������� Note: 181.644 was added to and made a
+part of 181.610 to 181.690 by legislative action but was not added to any
+smaller series therein. See Preface to Oregon Revised Statutes for further
+explanation.
+���������� 181.645
+Police, corrections, parole and probation or certified reserve officers
+required to be at least 21 years of age. No law enforcement unit in this state shall employ as
+a police officer, corrections officer or parole and probation officer, or
+utilize as a certified reserve officer, any person who has not yet attained the
+age of 21 years. [1987 c.901 s.2; 1995 c.624 s.4]
+���������� 181.650
+Certification of training programs and instructors. (1) Upon application the Board on
+Public Safety Standards and Training or its authorized representative shall
+examine and evaluate any instructor or any police, certified reserve officer,
+corrections, adult parole and probation, fire service professional,
+telecommunicator or emergency medical dispatcher training program.
+����������� (2)
+If the examiner finds that an instructor is qualified under the minimum
+requirements established pursuant to ORS 181.640 (1)(b), the examiner in
+writing shall certify the instructor as being qualified for such a term and
+upon such conditions as the board may prescribe.
+����������� (3)
+If the examiner finds that a police, certified reserve officer, corrections,
+adult parole and probation, fire service professional, telecommunicator or
+emergency medical dispatcher training program or any course, subject, facility,
+instructor or instruction thereof is qualified to satisfy any minimum
+requirement established pursuant to ORS 181.640 (1)(b), the examiner shall
+certify the extent of that qualification to the executive authority of that
+police, certified reserve officer, corrections, adult parole and probation,
+fire service professional, telecommunicator or emergency medical dispatcher
+training program for such a term and upon such conditions as the board may
+prescribe. An individual complies with any minimum requirement of ORS 181.640
+(1)(b) when the individual receives training that is certified under this
+subsection as qualified to satisfy that requirement. [1961 c.721 s.8; 1967
+c.305 s.6; 1975 c.290 s.3; 1977 c.382 s.3; 1991 c.742 s.3; 1993 c.185 �13; 1995
+c.624 s.5]
+���������� 181.651
+Certification of full-time board employees. Notwithstanding any other provision of law, any
+full-time employee of the Board on Public Safety Standards and Training who
+possesses the requisite qualifications may be certified or recertified as a
+police officer, certified reserve officer, corrections officer, parole and
+probation officer, telecommunicator or emergency medical dispatcher. A board
+employee who is certified as a police, certified reserve, corrections or parole
+and probation officer may exercise the authority granted by law to such
+officers. This includes, but is not limited to, the authority to possess
+material that is otherwise contraband under the laws of this state in the
+performance of official duties and the authority to carry a firearm or other
+weapon concealed. [1987 c.901 s.3; 1991 c.742 s.4; 1995 c.624 s.6]
+���������� 181.652
+Certification of corrections officers required; extension; when training to
+commence. (1)
+Except for a person who has requested and obtained from the board an extension
+pursuant to subsection (2) of this section, no person may be employed as a
+corrections officer by any law enforcement unit for more than one year unless
+the person is a citizen of the United States, and:
+����������� (a)
+The person has been certified as being qualified as a corrections officer under
+the provisions of ORS 181.610 to 181.690 and the certification has neither
+lapsed nor been revoked pursuant to ORS 181.661, 181.662 and 181.664 (1) and
+not been reissued under ORS 181.664 (2); or
+����������� (b)
+The person is exempted from the certification requirement under ORS 181.660.
+����������� (2)
+The board, upon the facts contained in an affidavit accompanying the request
+for an extension, may find good cause for failure to obtain certification
+within the time period described in subsection (1) of this section. If the
+board finds that there is good cause for such failure, the board may extend for
+up to one year the period that a person may serve as a corrections officer
+without certification. The grant or denial of such an extension is within the
+sole discretion of the board.
+����������� (3)
+The certification of a corrections officer shall lapse upon the passage of more
+than three consecutive months during which period the officer is not employed
+as a corrections officer, unless the corrections officer is on leave from a law
+enforcement unit. Upon reemployment as a corrections officer, the person whose
+certification has lapsed may apply for certification in the manner provided in
+ORS 181.610 to 181.690.
+����������� (4)
+Except as provided in subsection (5) of this section, a person employed as a
+corrections officer by any law enforcement unit shall commence the training
+necessary for certification under ORS 181.610 to 181.690 at an academy operated
+by the board not later than the 90th day after the date of the officer's
+employment by the law enforcement unit.
+����������� (5)
+A law enforcement unit may delay the commencement of training of a corrections
+officer for up to 120 days from the date of the officer's employment when it
+considers the delay necessary. When a law enforcement unit delays commencement
+of a corrections officer's training under this subsection, it shall file a
+written statement of its reasons with the board.
+����������� (6)
+When a delay in the commencement of training necessary for certification under
+ORS 181.610 to 181.690 at an academy operated by the board is caused by the inability
+of the board, for any reason, to provide that training, the period of such
+delay shall not be counted as part of the periods set forth in subsections (4)
+and (5) of this section within which the training must be commenced. [1975
+c.290 ss.11,12; 1987 c.901 s.4]
+���������� 181.653
+Certification of Department of Corrections parole and probation officers
+required; extension.
+(1) Except for a person who has requested and obtained from the board an
+extension pursuant to subsection (2) of this section, no person may be employed
+as a parole and probation officer for more than one year unless the person is a
+citizen of the United States, and:
+����������� (a)
+The person has been certified as being qualified as a parole and probation
+officer under provisions of ORS 181.610 to 181.690 and the certification has
+neither lapsed nor been revoked pursuant to ORS 181.661, 181.662 and 181.664
+(1) and not reissued under ORS 181.664 (2); or
+����������� (b)
+The person is exempted from the certification requirement under ORS 181.660.
+����������� (2)
+The board, upon the facts contained in an affidavit accompanying the request
+for an extension, may find good cause for failure to obtain certification
+within the time period described in subsection (1) of this section. If the
+board finds that there is good cause for such failure, the board may extend for
+up to one year the period that a person may serve as a parole and probation
+officer without certification. The grant or denial of such an extension is
+within the sole discretion of the board.
+����������� (3)
+The certification of a parole and probation officer shall lapse upon the
+passage of more than three consecutive months during which period the officer
+is not employed as a parole and probation officer, unless the officer is on
+leave from a law enforcement unit. Upon reemployment as a parole and probation
+officer, the person whose certification has lapsed may apply for certification
+in the manner provided in ORS 181.610 to 181.690.
+����������� (4)
+The requirement of citizenship imposed under subsection (1) of this section
+does not apply to a person employed as a parole and probation officer on
+September 27, 1987, who continues to serve as a parole and probation officer.
+[1977 c.382 ss.9,10; 1981 c.449 s.3; 1987 c.320 s.139; 1987 c.901 s.5]
+���������� 181.654
+Certification of certain Law Enforcement Data System employees. (1) A certified police officer or
+certified reserve officer who leaves police service to become a full-time
+employee of the Law Enforcement Data System under ORS 181.730 may retain
+certification, subject to satisfactory completion of any continuing training
+required by the Board on Public Safety Standards and Training to maintain
+certification.
+����������� (2)
+A full-time employee of the Law Enforcement Data System whose certification has
+lapsed, or who previously has had equivalent certification with another state
+or the Federal Government may, within 30 months following the lapse of
+certification or end of prior equivalent certification, apply to the board for
+certification as provided in ORS 181.660 (2). [1987 c.901 s.11; 1993 c.188
+s.12; 1995 c.624 s.7]
+���������� 181.655
+Reimbursement for training to local law enforcement units. (1) The Board on Public Safety
+Standards and Training shall provide a reimbursement program to local law
+enforcement units which send police officers or corrections officers to the
+training academy operated by the board. Such reimbursement shall be to defray
+the cost of salaries and other expenses incurred during the training of the
+officers.
+����������� (2)
+Such reimbursement program shall be supported entirely out of funds maintained
+in the Police Standards and Training Account after administrative and
+operational expenses of the board can be met from existing revenues.
+����������� (3)
+Reimbursement programs shall not apply to nongovernmental organizations.
+����������� (4)
+Pursuant to ORS 183.310 to 183.550, the board shall adopt rules necessary to
+carry out the provisions of this section.
+����������� (5)
+Notwithstanding the provisions of subsection (1) of this section, a common
+carrier railroad law enforcement unit shall not be entitled to receive
+reimbursement of any kind from the board. [1971 c.328 s.2; 1975 c.290 s.4; 1977
+c.382 s.14; 1977 c.737 s.2; 1979 c.410 s.4]
+����������� Note: 181.655 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 181
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation.
+���������� 181.660
+Application of minimum standards and training to certain persons; certification
+based on experience.
+(1) The minimum standards and minimum training requirements established
+pursuant to ORS 181.640 (1) do not apply to:
+����������� (a)
+The Superintendent of State Police.
+����������� (b)
+Any individual who is a constable of the district or justice court.
+����������� (c)
+Any sheriff's deputy appointed with authority only to receive and serve summons
+and civil process.
+����������� (d)
+Any municipal parole officer.
+����������� (e)
+Any dog control officer commissioned by a city or county.
+����������� (f)
+Any individual appointed by the Superintendent of State Police under ORS
+181.265.
+����������� (g)
+An individual performing the duties of a reserve officer who has not been
+required by the law enforcement unit utilizing the individual to receive
+training for certification as a certified reserve officer.
+����������� (2)
+The Board on Public Safety Standards and Training may, upon application of an
+individual police officer, reserve officer, fire service professional,
+corrections officer, parole and probation officer, telecommunicator or
+emergency medical dispatcher, at its discretion, certify an officer,
+telecommunicator or emergency medical dispatcher as provided in ORS 181.640
+(1)(d) upon a finding that the officer's, fire service professional's, telecommunicator's
+or emergency medical dispatcher's professional experience is equal in
+professional value to the training required for certification. [1961 c.721
+ss.9, 10; 1967 c.305 s.5; 1969 c.609 s.8; 1975 c.290 s.5; 1975 c.356 s.1; 1977
+c.382 s.4; 1981 c.449 s.4; 1987 c.901 s.9; 1991 c.742 s.5; 1993 c.185 s.14;
+1993 c.594 s.3; 1995 c.624 s.8]
+����������� Note: The amendments to 181.660 by
+section 90, chapter 658, Oregon Laws 1995, become operative January 15, 1998.
+See sections 129 and 150, chapter 658, Oregon Laws 1995. The text that is
+operative on and after January 15, 1998, is set forth for the user's
+convenience.
+����������� 181.660. (1) The minimum standards and
+minimum training requirements established pursuant to ORS 181.640 (1) do not
+apply to:
+����������� (a)
+The Superintendent of State Police.
+����������� (b)
+Any individual who is a constable of the justice court.
+����������� (c)
+Any sheriff's deputy appointed with authority only to receive and serve summons
+and civil process.
+����������� (d)
+Any municipal parole officer.
+����������� (e)
+Any dog control officer commissioned by a city or county.
+����������� (f)
+Any individual appointed by the Superintendent of State Police under ORS
+181.265.
+����������� (g)
+An individual performing the duties of a reserve officer who has not been
+required by the law enforcement unit utilizing the individual to receive
+training for certification as a certified reserve officer.
+����������� (2)
+The Board on Public Safety Standards and Training may, upon application of an individual
+police officer, reserve officer, fire service professional, corrections
+officer, parole and probation officer, telecommunicator or emergency medical
+dispatcher, at its discretion, certify an officer, telecommunicator or
+emergency medical dispatcher as provided in ORS 181.640 (1)(d) upon a finding
+that the officer's, fire service professional's, telecommunicator's or
+emergency medical dispatcher's professional experience is equal in professional
+value to the training required for certification.
+���������� 181.661
+Procedure prior to revocation of certification. When the Board on Public Safety
+Standards and Training believes there is a reasonable basis for revoking the
+certification of a police officer, certified reserve officer, corrections
+officer, parole and probation officer, telecommunicator or emergency medical
+dispatcher, notice and opportunity for a hearing shall be provided in
+accordance with ORS 183.415 prior to such revocation. [1973 c.612 s.11 (enacted
+in lieu of 181.663); 1975 c.290 s.6; 1977 c.382 s.5; 1991 c.742 s.6; 1995 c.624
+s.9]
+���������� 181.662
+Grounds for denying or revoking certification of person. (1) The Board on Public Safety
+Standards and Training may deny or revoke the certification of any police
+officer, certified reserve officer, corrections officer, parole and probation
+officer, telecommunicator or emergency medical dispatcher after written notice
+and hearing, based upon a finding that:
+����������� (a)
+The officer, certified reserve officer, telecommunicator or emergency medical
+dispatcher falsified any information submitted on the application for
+certification or on any documents submitted to the board.
+����������� (b)
+The officer, certified reserve officer, telecommunicator or emergency medical
+dispatcher has been convicted of a crime in this state or any other
+jurisdiction.
+����������� (2)
+The board may deny or revoke the accreditation of any fire service professional
+after written notice and hearing, based upon a finding that:
+����������� (a)
+The fire service professional falsified any information submitted on the
+application for accreditation or on any documents submitted to the board; or
+����������� (b)
+The fire service professional has been discharged for cause from employment in
+the fire service.
+����������� (3)
+The board shall deny or revoke the certification of any police officer,
+certified reserve officer, corrections officer, parole and probation officer,
+telecommunicator or emergency medical dispatcher after written notice and
+hearing, based upon a finding that:
+����������� (a)
+The officer, certified reserve officer, telecommunicator or emergency medical
+dispatcher has been discharged for cause from employment as a police officer,
+certified reserve officer, corrections officer, parole and probation officer,
+telecommunicator or emergency medical dispatcher.
+����������� (b)
+The officer, certified reserve officer, telecommunicator or emergency medical
+dispatcher has been convicted while employed by a law enforcement unit or
+public or private safety agency in this state or any other jurisdiction of a
+crime designated under the law where the conviction occurred as being punishable
+as a felony or as a crime for which a maximum term of imprisonment of more than
+one year may be imposed.
+����������� (c)
+The officer, certified reserve officer, telecommunicator or emergency medical
+dispatcher has been convicted of violating any law of this state or any other
+jurisdiction involving the unlawful use, possession, delivery or manufacture of
+a controlled substance, narcotic or dangerous drug.
+����������� (d)
+The officer, certified reserve officer, telecommunicator or emergency medical
+dispatcher has been convicted in this state of violating ORS 162.065, 162.075,
+162.085, 163.355, 163.365, 163.375, 163.385, 163.395, 163.405, 163.408,
+163.411, 163.415, 163.425, 163.427, 163.435, 163.445, 163.465, 163.515,
+163.525, 163.575, 163.670, 163.675 (1985 Replacement Part), 163.680 (1993
+Edition), 163.684, 163.686, 167.007, 167.012, 167.017, 167.065, 167.070,
+167.075 or 167.080 or has been convicted of violating the statutory counterpart
+of any of those offenses in any other jurisdiction. [1969 c.609 s.2; 1975 c.290
+s.7; 1977 c.382 s.6; 1979 c.410 s.5; 1981 c.449 s.5; 1987 c.901 s.8; 1991 c.742
+s.7; 1993 c.185 s.15; 1993 c.301 s.5; 1995 c.624 s.10; 1995 c.768 s.13]
+����������� 181.663 [1969 c.609 s.3; repealed by 1973
+c.612 s.10 (181.661 enacted in lieu of 181.663)]
+���������� 181.664
+Judicial review of board's final order; reapplication for certification. (1) A police officer, certified
+reserve officer, fire service professional, corrections officer, parole and
+probation officer, telecommunicator or emergency medical dispatcher aggrieved by
+the findings and order of the Board on Public Safety Standards and Training
+may, as provided in ORS 183.480, file an appeal with the Court of Appeals from
+the final order of the board.
+����������� (2)
+Any police officer, certified reserve officer, fire service professional,
+corrections officer, parole and probation officer, telecommunicator or
+emergency medical dispatcher who has had certification or accreditation revoked
+pursuant to ORS 181.661, 181.662 and subsection (1) of this section may reapply
+for certification or accreditation but not sooner than four years after the
+date on which the order of the board revoking certification or accreditation
+became final. [1969 c.609 ss.4, 5; 1973 c.612 s.12; 1975 c.290 s.8; 1977 c.382
+s.7; 1981 c.449 s.6; 1991 c.742 s.8; 1993 c.185 s.16; 1995 c.624 s.11]
+���������� 181.665
+Uncertified person not to be employed as police officer or utilized as
+certified reserve officer for period exceeding one year without extension;
+training requirements.
+(1) Except for a person who has requested and obtained from the Board on Public
+Safety Standards and Training an extension pursuant to subsection (2) of this
+section, no person may be employed as a police officer, or utilized as a
+certified reserve officer, by any law enforcement unit for more than one year
+unless:
+����������� (a)
+The person is a citizen of the United States; and
+����������� (b)
+The person has been certified as being qualified as a police officer or
+certified reserve officer under the provisions of ORS 181.610 to 181.690 and
+the certification has neither lapsed nor been revoked pursuant to ORS 181.661,
+181.662 and 181.664 (1) and not been reissued under ORS 181.664 (2).
+����������� (2)
+The board, upon the facts contained in an affidavit accompanying the request
+for an extension, may find good cause for failure to obtain certification
+within the time period described in subsection (1) of this section. If the
+board finds that there is good cause for such failure, the board may extend for
+up to one year the period that a person may serve as a police officer or
+reserve officer without certification. The grant or denial of such an extension
+is within the sole discretion of the board.
+����������� (3)
+Except as provided in subsection (4) of this section, a person employed as a
+police officer by any law enforcement unit shall commence the training
+necessary for certification under ORS 181.610 to 181.690 at an academy operated
+by the board not later than the 90th day after the date of the officer's
+employment by the law enforcement unit.
+����������� (4)
+A law enforcement unit may delay the commencement of training of a police
+officer for up to 120 days from the date of the officer's employment when it
+considers the delay necessary. When a law enforcement unit delays commencement
+of a police officer's training under this subsection, it shall file a written
+statement of its reasons with the board.
+����������� (5)
+When a delay in the commencement of training necessary for certification under
+ORS 181.610 to 181.690 at an academy operated by the board is caused by the
+inability of the board, for any reason, to provide that training, the period of
+such delay shall not be counted as part of the periods set forth in subsections
+(3) and (4) of this section within which the training must be commenced.
+����������� (6)
+A person utilized as a certified reserve officer by a law enforcement unit must
+complete the training necessary for certification under ORS 181.610 to 181.690
+at a site approved by the board. [1967 c.305 s.1; 1969 c.609 s.9; 1975 c.290
+s.9; 1975 c.356 s.2; 1979 c.410 s.6; 1987 c.901 s.6; 1995 c.624 s.12]
+���������� 181.667
+Lapse of certification; reapplication for certification. The certification of any police
+officer who does not serve as a police officer, or any certified reserve
+officer who is not utilized as a certified reserve officer, for any period of
+time in excess of three consecutive months, unless the police officer or
+certified reserve officer is on leave from a law enforcement unit, shall be
+considered lapsed. Upon reemployment as a police officer, or recommencing
+service as a reserve officer, the person whose certification has lapsed may
+apply for certification in the manner provided in ORS 181.610 to 181.690. [1969
+c.609 s.6; 1995 c.624 s.13]
+����������� Note: 181.667 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 181
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation.
+���������� 181.670
+Effect of minimum requirements under authority other than ORS 181.640. Compliance with minimum standards
+or minimum training recommended pursuant to ORS 181.640 for a police officer,
+certified reserve officer, fire service professional, corrections officer,
+parole and probation officer, telecommunicator or emergency medical dispatcher
+does not except any individual from any minimum requirement for selection or
+promotion as a police officer or certified reserve officer under ORS 181.260 or
+under any civil service law, charter or ordinance for a county or city. [1961
+c.721 s.11; 1975 c.290 s.13; 1977 c.382 s.13; 1991 c.742 s.11; 1993 c.185 s.17;
+1995 c.624 s.14]
+����������� 181.680 [1961 c.721 s.3; repealed by 1975
+c.605 s.33]
+���������� 181.690
+Police Standards and Training Account.
+(1) There is established in the General Fund of the State Treasury the Police
+Standards and Training Account. All contributions or other moneys received by
+the board shall be paid into the State Treasury and credited to the Police
+Standards and Training Account. Except as provided in subsection (2) of this
+section, all moneys in the Police Standards and Training Account are
+appropriated continuously for and shall be used by the board to carry out its
+functions.
+����������� (2)
+Moneys in the Police Standards and Training Account may be transferred to the
+Department of State Police and the Department of Corrections to defray the
+training costs of police officers and parole and probation officers and to
+defray the cost of the Law Enforcement Data System. The amounts transferred
+under this subsection shall be deposited in the cash accounts of such agencies
+in accordance with an allotment plan approved by the Oregon Department of
+Administrative Services. [1961 c.721 s.7; 1979 c.410 s.7; 1987 c.320 s.140;
+1993 c.188 s.13]
+���������� 181.700
+Legislative intent; use of funds.
+It is the intent of the legislature in creating this agency to provide for the
+coordination of training programs for police officers and certified reserve
+officers, to provide for the coordination of training programs for corrections
+officers, to provide for the coordination of training programs for parole and
+probation officers and to set standards. The moneys provided in chapter 721,
+Oregon Laws 1961, are to be used for this purpose primarily and are not
+intended to replace other existing contributions to the functions outlined in
+ORS 181.610 to 181.700. [1961 c.721 s.14; 1975 c.290 s.14; 1977 c.382 s.11;
+1995 c.624 s.15]
+���������� 181.705
+Minimum standards and training requirements not applicable to certain police
+officers. The
+minimum standards and training requirements established pursuant to ORS 181.640
+(1) do not apply to police officers commissioned by the Governor under ORS
+131.880 who have served in that capacity for at least two years immediately
+preceding October 4, 1977. [1977 c.737 s.4]
+����������� 181.710 [1969 c.488 ss.5, 6; 1973 c.130
+s.3; 1979 c.92 s.5; 1981 c.59 s.1; repealed by 1993 c.188 s.15]
+���������� 181.711
+Board not required to provide training for certification of reserve officers. Nothing in ORS 181.610, 181.640,
+181.642, 181.645, 181.650, 181.651, 181.654, 181.660, 181.661 to 181.664,
+181.665, 181.667, 181.670, 181.700 and 181.711 requires:
+����������� (1)
+A law enforcement unit to certify individuals who are utilized by the law
+enforcement unit to perform the duties of a reserve officer; or
+����������� (2)
+The Board on Public Safety Standards and Training to provide the training for,
+or to fund, certification of reserve officers. [1995 c.624 s.17]
+����������� Note: 181.711 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 181
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation.
+���������� 181.712
+Child abuse and domestic violence training; report. No later than January 1 of each
+year, the Board on Public Safety Standards and Training shall submit to the
+Legislative Assembly, as provided in ORS 192.245, a report on the
+implementation of child abuse and domestic violence training provided by the
+board. [1995 c.128 s.3]
+����������� Note: 181.712 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 181
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation.
+CRIMINAL
+JUSTICE
+INFORMATION
+SYSTEM
+���������� 181.715
+Criminal Justice Information System established; duties; application. (1) The Department of State Police
+shall establish a Criminal Justice Information System that coordinates
+information among state criminal justice agencies. The system shall:
+����������� (a)
+Insure that in developing new information systems data can be retrieved to support
+evaluation of criminal justice programs and planning;
+����������� (b)
+Insure that maximum effort is made for the safety of public safety officers;
+����������� (c)
+Establish methods and standards for data interchange and information access
+between criminal justice information systems, in compliance with the technology
+standards and policies of the Oregon Department of Administrative Services;
+����������� (d)
+Design and implement improved applications for exchange of agency information;
+and
+����������� (e)
+Implement the capability to exchange images between criminal justice agencies.
+����������� (2)
+As used in this section and ORS 181.720, �criminal justice agencies� includes,
+but is not limited to:
+����������� (a)
+The Judicial Department;
+����������� (b)
+The Department of Corrections;
+����������� (c)
+The Department of State Police;
+����������� (d)
+The Department of Transportation;
+����������� (e)
+The State Board of Parole and Post-Prison Supervision;
+����������� (f)
+The Board on Public Safety Standards and Training;
+����������� (g)
+The State Department of Fish and Wildlife; and
+����������� (h)
+The Oregon Liquor Control Commission. [1993 c.188 s.5]
+���������� 181.720
+Duties of state criminal justice agencies. State criminal justice agencies, as part of their
+biennial information resource management plan, shall address the goals of the
+Criminal Justice Information System with particular attention to data access,
+availability and information sharing among criminal justice agencies. The plans
+must be based on industry standards for open systems to the greatest extent
+possible. A state criminal justice agency shall submit a copy of its
+information resource management plan to the Criminal Justice Information
+Systems Advisory Board. [1993 c.188 s.7]
+���������� 181.725
+Criminal Justice Information System Advisory Board; members; expenses. (1) There is established a
+Criminal Justice Information Systems Advisory Board to advise the Department of
+State Police in the department's duties under ORS 181.715. The board consists
+of the following members:
+����������� (a)
+The State Court Administrator or the administrator's designee;
+����������� (b)
+The Director of the Department of Corrections or the director's designee;
+����������� (c)
+The Superintendent of State Police or the superintendent's designee;
+����������� (d)
+The Executive Director of the Oregon Criminal Justice Commission or the
+executive director's designee;
+����������� (e)
+The Director of Transportation or the director's designee;
+����������� (f)
+The chairperson of the State Board of Parole and Post-Prison Supervision or the
+chairperson's designee;
+����������� (g)
+The executive director of the Board on Public Safety Standards and Training or the
+executive director's designee;
+����������� (h)
+A chief of police designated by the Oregon Association of Chiefs of Police;
+����������� (i)
+A sheriff designated by the Oregon Sheriffs' Association;
+����������� (j)
+A jail manager designated by the Oregon Jail Managers' Association; and
+����������� (k)
+The administrator of the information resource management division of the Oregon
+Department of Administrative Services or the administrator's designee.
+����������� (2)
+The board shall meet at such times and places as the board deems necessary.
+����������� (3)
+The members of the board are not entitled to compensation but are entitled to
+expenses as provided in ORS 292.495. [1993 c.188 s.6]
+���������� 181.730
+Law Enforcement Data System established; duties; rules. (1) There is established in the
+Department of State Police a Law Enforcement Data System.
+����������� (2)
+The Law Enforcement Data System shall:
+����������� (a)
+Install and maintain a criminal justice telecommunication and information
+system for storage and retrieval of criminal justice information submitted by
+criminal justice agencies for the State of Oregon;
+����������� (b)
+Function as the control point for access to similar programs operated by other
+states and the Federal Government;
+����������� (c)
+Undertake other projects as are necessary or appropriate for the speedy
+collection and dissemination of information relating to crime and criminals;
+and
+����������� (d)
+Provide service as available to all qualified criminal justice agencies and
+designated agencies.
+����������� (3)
+The department may adopt rules establishing procedures for the submission,
+access and dissemination of information by the Law Enforcement Data System.
+[1993 c.188 s.8]
+OREGON
+COMMUNITY CRIME PREVENTION INFORMATION CENTER
+���������� 181.750
+Definitions for ORS 181.750 to 181.765. As used in ORS 181.755 to 181.765, unless the context
+requires otherwise:
+����������� (1)
+�Board� means the Board on Public Safety Standards and Training.
+����������� (2)
+�Center� means the Oregon Community Crime Prevention Information Center.
+����������� (3)
+�Coordinator� means the Coordinator of the Oregon Community Crime Prevention
+Information Center.
+����������� (4)
+�Director� means the Director of the Board on Public Safety Standards and
+Training. [Formerly 184.405]
+����������� Note: 181.750 to 181.765 [formerly
+184.405 to 184.411] were enacted into law by the Legislative Assembly but were
+not added to or made a part of ORS chapter 181 or any series therein by
+legislative action. See Preface to Oregon Revised Statutes for further
+explanation.
+���������� 181.755
+Oregon Community Crime Prevention Information Center; duties. The Oregon Community Crime
+Prevention Information Center is created within the Board on Public Safety
+Standards and Training. The center within the limits of available funds shall:
+����������� (1)
+Develop, plan and carry out a comprehensive, long-range, integrated program,
+implemented by local crime prevention councils, that will mobilize all Oregon
+residents, including the youth of this state, in a year-round preventive effort
+to reduce both crime and delinquency;
+����������� (2)
+Provide a mechanism to support, unify, promote, implement and evaluate crime
+prevention efforts;
+����������� (3)
+Act as a clearinghouse for crime prevention efforts;
+����������� (4)
+Provide a means by which law enforcement and prevention related agencies,
+civilian personnel and the education community may acquire the resource
+materials, technical assistance, knowledge and skills necessary to develop,
+implement and evaluate crime prevention and intervention programs;
+����������� (5)
+Provide ongoing, programmatic support to crime prevention efforts of law
+enforcement and crime prevention councils, enabling them to develop programs
+within their jurisdiction or community;
+����������� (6)
+Assist law enforcement agencies and crime prevention councils to increase the
+awareness of communities, businesses and governments regarding the need for
+crime prevention while offering information on current and future programming
+in their communities and in this state;
+����������� (7)
+Increase the availability of resource materials that may be utilized by local
+crime prevention programs, analyze data, evaluate needs and develop specific
+crime prevention strategies;
+����������� (8)
+Coordinate the efforts of law enforcement agencies and local crime prevention
+councils and programs to prevent the victimization of children by criminal acts
+and to prevent the occurrence of criminal behavior by children and young
+persons through educational programs; and
+����������� (9)
+Operate as a resource for local governments and upon the request of any local
+agency shall:
+����������� (a)
+Provide technical assistance and crime prevention programs in the form of
+on-site visits, resource development and distribution, consultation, community
+resource identification, utilization, training and promotion of crime
+prevention programs or activities;
+����������� (b)
+Review master copies of materials and resources, with the concurrence of any
+Oregon crime prevention association, for the purpose of increasing program
+efficiency, effectiveness and consistency;
+����������� (c)
+Provide assistance in increasing the knowledge of community, business and
+governmental leaders concerning the theory and operation of crime prevention
+and how their involvement will assist in efforts to prevent crime;
+����������� (d)
+Provide resource materials to and assistance in developing the skills of law
+enforcement personnel, which materials and skills are necessary to create
+successful crime prevention strategies that meet the needs of specific regions
+and communities throughout the state;
+����������� (e)
+Act as a liaison between local, state and national agencies concerning crime
+prevention issues; and
+����������� (f)
+Coordinate efforts with any statewide crime prevention association and receive
+from the association advice and direction for the operation of the center and
+related activities. [Formerly 184.407]
+����������� Note: See note under 181.750.
+���������� 181.760
+Coordinator; appointment; duties.
+(1) The center is under the supervision and control of the coordinator who is
+responsible for the performance of the duties, functions and powers of the
+center.
+����������� (2)
+The director shall appoint the coordinator who shall have experience and
+knowledge in the area of crime prevention.
+����������� (3)
+The coordinator shall receive a salary as provided by law or, if not so
+provided, as prescribed by the director.
+����������� (4)
+The coordinator is authorized to solicit, receive and expend grants, including
+matching grants, from private sources to aid in carrying out the provisions of
+ORS 181.750 to 181.765. [Formerly 184.409]
+����������� Note: See note under 181.750.
+���������� 181.765
+Advisory committee; meetings; expenses. (1) To aid and advise the coordinator in the
+performance of the functions of the center, an advisory committee may be
+established.
+����������� (2)
+The committee shall meet at such times and places as shall be determined by the
+coordinator.
+����������� (3)
+Legislative members shall receive no compensation or per diem for services as
+members but may receive actual and necessary travel and other expenses under
+ORS 171.072 from funds appropriated to the Legislative Assembly. Other members
+of the committee shall be entitled to expenses as provided in ORS 292.495.
+[Formerly 184.411]
+����������� Note: See note under 181.750.
+POLICE
+GENERALLY
+���������� 181.850
+Enforcement of federal immigration laws. (1) No law enforcement agency of the State of Oregon
+or of any political subdivision of the state shall use agency moneys, equipment
+or personnel for the purpose of detecting or apprehending persons whose only
+violation of law is that they are persons of foreign citizenship residing in
+the United States in violation of federal immigration laws.
+����������� (2)
+Notwithstanding subsection (1) of this section, a law enforcement agency may
+exchange information with the United States Immigration and Naturalization
+Service in order to:
+����������� (a)
+Verify the immigration status of a person if the person is arrested for any
+criminal offense; or
+����������� (b)
+Request criminal investigation information with reference to persons named in
+service records.
+����������� (3)
+For purposes of subsection (1) of this section, the Bureau of Labor and
+Industries is not a law enforcement agency. [1987 c.467 s.1]
+����������� Note: 181.850 was enacted into law by
+the Legislative Assembly but was not added to and made a part of ORS chapter
+181 or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation.
+REGULATION
+OF PRIVATE SECURITY SERVICE PROVIDERS
+���������� 181.870
+Definitions. As
+used in ORS 181.620, 181.870 to 181.889, 181.991 and 203.090:
+����������� (1)
+�Advisory committee� means the private security advisory committee created in
+ORS 181.889.
+����������� (2)
+�Board� means the Board on Public Safety Standards and Training.
+����������� (3)
+�Certification� means recognition by the board that a private security officer
+meets all of the qualifications listed in ORS 181.875.
+����������� (4)
+�Director� means the executive director of the board.
+����������� (5)
+�Employee� means an individual who renders personal services wholly or partly
+in this state to an employer who pays or agrees to pay the individual at a
+fixed rate. �Employee� includes an applicant for employment to perform security
+services.
+����������� (6)
+�Employer� means a proprietary security manager or a security contractor.
+����������� (7)
+�License� means recognition by the board that an employer meets the
+requirements necessary to provide security services.
+����������� (8)(a)
+�Private security officer� means an individual who:
+����������� (A)
+Performs, as one of the individual's primary responsibilities, security
+services for consideration as an independent contractor or as an employee,
+whether armed or unarmed, full time or part time or in uniform or plain
+clothes; or
+����������� (B)
+Is the immediate supervisor of an individual described in subparagraph (A) of
+this paragraph.
+����������� (b)
+�Private security officer� does not include an individual while on active duty
+as a member of the armed services or while performing duties as a law
+enforcement officer.
+����������� (9)
+�Proprietary security manager� means an individual employed by a person or
+entity, other than a security contractor, whose responsibilities include
+implementing security services provided by a private security officer.
+����������� (10)
+�Security contractor� means any person that provides the services of one or
+more private security officers for consideration.
+����������� (11)
+�Security services� means the performance of at least one of the following:
+����������� (a)
+The observation and reporting of any unlawful activity.
+����������� (b)
+The prevention of theft or misappropriation of any goods, money or other items
+of value.
+����������� (c)
+The protection of individuals or property, including, but not limited to,
+proprietary information, from harm or misappropriation.
+����������� (d)
+The control of access to premises being protected.
+����������� (e)
+The secure movement of prisoners.
+����������� (f)
+The maintenance of order and safety at athletic, entertainment or other public
+activities.
+����������� (g)
+Providing canine services for guarding premises or for the detection of
+unlawful devices or substances. [1995 c.510 s.1a]
+����������� Note: 181.870 to 181.889 were enacted
+into law by the Legislative Assembly but were not added to or made a part of
+ORS chapter 181 or any series therein by legislative action. See Preface to
+Oregon Revised Statutes for further explanation.
+���������� 181.871
+Applicability. ORS
+181.870 to 181.889, 181.991 and 203.090 do not apply to:
+����������� (1)(a)
+A person certified by the Board on Public Safety Standards and Training as a
+police officer;
+����������� (b)
+A law enforcement officer of the United States;
+����������� (c)
+An officer or employee of this state or the United States; or
+����������� (d)
+A person appointed or commissioned by the Governor to perform law enforcement
+or security services.
+����������� (2)
+An attorney admitted to practice law in this state.
+����������� (3)
+An insurance adjuster licensed in this state and performing duties authorized
+by the license.
+����������� (4)
+A person who monitors fire alarm systems and other alarm systems that are not
+designed to detect unauthorized intrusions.
+����������� (5)
+A person while protecting the person's property.
+����������� (6)
+A person who repairs and installs intrusion alarms.
+����������� (7)
+A person providing private investigation services, including investigations of
+persons, crimes or property. [1995 c.510 s.2]
+����������� Note: See note under 181.870.
+���������� 181.873
+Prohibited acts; temporary assignment of person not certified allowed. (1) It is unlawful:
+����������� (a)
+For a person to engage in the business of, or perform any service as a private
+security officer, or to offer services in such capacity unless the person has
+obtained a certificate under ORS 181.878.
+����������� (b)
+For a person to engage in the business of, or perform any service as a
+proprietary security manager or security contractor, or to offer services in
+such capacities unless the person has obtained a license under ORS 181.878.
+����������� (c)
+Except as otherwise provided in subsection (2) of this section, for a
+proprietary security manager or security contractor to permanently assign a
+person to perform security services unless the person is certified as a private
+security officer under ORS 181.878.
+����������� (2)
+A proprietary security manager or security contractor may temporarily assign a
+person who is not certified as required by this section to perform security
+services within this state for a period of time not to exceed 90 days if:
+����������� (a)
+The person is employed in another state;
+����������� (b)
+The person holds a private security officer's certification or license from the
+other state; and
+����������� (c)
+The certification or licensing standards of the other state meet or exceed the
+standards of this state. [1995 c.510 s.3]
+����������� Note: See note under 181.870.
+���������� 181.875
+Qualifications for private security officer. An applicant for certification as a private security
+officer:
+����������� (1)
+Must be at least 18 years of age;
+����������� (2)
+Must have satisfactorily completed the training requirements as specified in
+ORS 181.883; and
+����������� (3)
+Must not have been, within the 10-year period prior to applying for
+certification:
+����������� (a)
+Convicted of a felony in this, or any other, jurisdiction;
+����������� (b)
+Incarcerated, placed on probation or paroled as the result of conviction of a
+felony in this, or any other, jurisdiction;
+����������� (c)
+Convicted of violating ORS 162.065, 162.075, 162.085, 163.365, 163.375,
+163.385, 163.395, 163.405, 163.408, 163.411, 163.415, 163.425, 163.427,
+163.435, 163.515, 163.525, 163.670, 163.672 (1993 Edition), 163.673 (1993
+Edition), 163.677 (1993 Edition), 163.680 (1993 Edition), 167.007, 167.012,
+167.017, 167.062, 167.065, 167.070, 167.075, 167.080 or 167.087 or an
+equivalent crime in another jurisdiction;
+����������� (d)
+Convicted of a misdemeanor determined by rule of the Board on Public Safety
+Standards and Training to bear such a relationship to the performance of
+security services as to constitute a disqualification for certification under
+ORS 181.878; or
+����������� (e)
+Convicted of any law of this, or another jurisdiction, involving the unlawful
+use, possession, delivery or manufacture of a controlled substance. [1995 c.510
+s.4]
+����������� Note: See note under 181.870.
+���������� 181.876
+Application procedure.
+(1) An applicant for certification as a private security officer shall submit
+an application to the Board on Public Safety Standards and Training. The
+application must be in writing under oath to the board:
+����������� (a)
+Stating the applicant's:
+����������� (A)
+Name;
+����������� (B)
+Birthdate;
+����������� (C)
+Citizenship;
+����������� (D)
+Physical description;
+����������� (E)
+Current residence;
+����������� (F)
+Residence for the preceding 10 years;
+����������� (G)
+Current employment; and
+����������� (H)
+Employment for the preceding 10 years;
+����������� (b)
+Including a statement that the applicant, within the 10-year period ending on
+the date of the application, has not:
+����������� (A)
+Been convicted of a felony in this, or any other, jurisdiction;
+����������� (B)
+Been incarcerated, placed on probation or paroled as the result of conviction
+of a felony in this, or any other, jurisdiction;
+����������� (C)
+Been convicted of violating ORS 162.065, 162.075, 162.085, 163.365, 163.375,
+163.385, 163.395, 163.405, 163.408, 163.411, 163.415, 163.425, 163.427,
+163.435, 163.515, 163.525, 163.670, 163.672 (1993 Edition), 163.673 (1993
+Edition), 163.677 (1993 Edition), 163.680 (1993 Edition), 167.007, 167.012,
+167.017, 167.062, 167.065, 167.070, 167.075, 167.080 or 167.087 or an
+equivalent crime in another jurisdiction;
+����������� (D)
+Been convicted of a misdemeanor determined by rule of the board to bear such a
+relationship to the performance of security services as to constitute a
+disqualification for certification under ORS 181.878; and
+����������� (E)
+Been convicted of any law of this, or another jurisdiction, involving the
+unlawful use, possession, delivery or manufacture of a controlled substance;
+����������� (c)
+Including a statement affirming the truth of all information contained in the
+application; and
+����������� (d)
+Including such other information as required by the board.
+����������� (2)
+The application must be accompanied by:
+����������� (a)
+Written verification from the providers of the training of satisfactory
+completion of the training required by ORS 181.883; and
+����������� (b)
+Character references from at least three reputable citizens, each of whom has
+known the applicant for at least five years preceding the application and none
+of whom are related to the applicant by blood or marriage. [1995 c.510 s.5]
+����������� Note: See note under 181.870.
+���������� 181.878
+Board on Public Safety Standards and Training to establish standards,
+procedures and fees; rules.
+(1) The Board on Public Safety Standards and Training shall:
+����������� (a)
+Establish standards and procedures for issuing, denying, reviewing and revoking
+licenses for proprietary security managers and security contractors;
+����������� (b)
+Establish procedures for reviewing the security services of proprietary
+security managers and security contractors in relation to the licensing and
+certification standards set forth in ORS 181.870 to 181.889, 181.991 and
+203.090;
+����������� (c)
+Subject to such terms and conditions as the board imposes, license proprietary
+security managers and security contractors and revoke such licenses in the
+manner provided in ORS 181.870 to 181.889, 181.991 and 203.090; and
+����������� (d)
+Establish fees for issuing licenses to proprietary security managers and
+security contractors. The fees may not exceed the prorated direct costs of
+administering the licensing program required by this section.
+����������� (2)
+In accordance with any applicable provision of ORS 183.310 to 183.550, to
+promote consistent standards for private security services by improving the
+competence of private security officers, the board, in conjunction with the
+Advisory Committee on Private Security Services, shall:
+����������� (a)
+Establish reasonable minimum standards of physical, emotional, intellectual and
+moral fitness for private security officers;
+����������� (b)
+Establish procedures for issuing, denying, renewing and revoking a private
+security officer's certification;
+����������� (c)
+Establish standards for all training courses and testing required by ORS
+181.883 and for all instructors providing the training;
+����������� (d)
+Establish procedures for temporary assignment of persons performing security services
+for a period of no longer than 90 days while an application for certification
+is being processed;
+����������� (e)
+Subject to such terms and conditions as the board imposes, certify private
+security officers and revoke such certification in the manner provided in ORS
+181.870 to 181.889, 181.991 and 203.090; and
+����������� (f)
+Establish fees for issuing certification to private security officers. The fees
+may not exceed the prorated direct costs of administering:
+����������� (A)
+The certification program required by this section; and
+����������� (B)
+The training program required by ORS 181.883.
+����������� (3)
+The board shall investigate alleged violations of the provisions of ORS 181.870
+to 181.889, 181.991 and 203.090 and of any rules adopted by the board.
+����������� (4)
+The board may adopt rules necessary to carry out the provisions of ORS 181.870
+to 181.889, 181.991 and 203.090. [1995 c.510 s.6]
+����������� Note: See note under 181.870.
+���������� 181.880
+Licenses and certificates; issuance; duration. (1) A license or certificate
+issued by the Board on Public Safety Standards and Training under ORS 181.878
+expires two years following the date of issuance or on the assigned renewal date.
+����������� (2)
+The board shall offer certificates in two categories:
+����������� (a)
+Unarmed private security officer if the applicant has satisfied the
+requirements in ORS 181.883 (1); and
+����������� (b)
+Armed private security officer if the applicant has also satisfied the requirements
+of ORS 181.883 (2).
+����������� (3)
+Upon receipt of an application for certification under ORS 181.876, the board
+shall forward a copy of the application and a complete set of the applicant's
+fingerprints to the Department of State Police and request that the department
+conduct a nationwide criminal records check of the applicant.
+����������� (4)
+Upon request of the Board on Public Safety Standards and Training under
+subsections (1) to (3) of this section, the Department of State Police shall
+conduct nationwide criminal record checks through the Federal Bureau of
+Investigation of an applicant for certification as a private security officer,
+including the applicant's fingerprints, and shall report the results to the
+board. [1995 c.510 ss.7,18]
+����������� Note: See note under 181.870.
+���������� 181.882
+Hearing if license or certificate denied, suspended or revoked. (1) If the Board on Public Safety
+Standards and Training denies a license or certificate or declines to renew a
+license or certificate or suspends or revokes a license or certificate,
+opportunity for a hearing shall be afforded as provided in ORS 183.310 to
+183.550.
+����������� (2)
+Judicial review of orders issued after a hearing under subsection (1) of this
+section shall be as provided in ORS 183.310 to 183.550. [1995 c.510 s.8]
+����������� Note: See note under 181.870.
+���������� 181.883
+Training requirements.
+(1) The training requirements for certification as an unarmed private security
+officer are:
+����������� (a)
+Eight hours of basic classroom instruction including, but not limited to:
+����������� (A)
+The legal powers and limitations of a private security officer including, but
+not limited to, the laws regarding arrest, search and seizure and the
+appropriate use of force;
+����������� (B)
+Fire detection and reporting and safety issues;
+����������� (C)
+When and how to notify public authorities;
+����������� (D)
+The techniques of observing and reporting incidents and how to prepare an
+incident report;
+����������� (E)
+The fundamentals of patrolling; and
+����������� (F)
+Deportment and ethics;
+����������� (b)
+Successful completion of a written examination covering the classroom
+materials; and
+����������� (c)
+Four hours of on-the-job training.
+����������� (2)
+The training requirements for certification as an armed private security
+officer are:
+����������� (a)
+The requirements in subsection (1) of this section;
+����������� (b)
+Fifteen hours of weapons instruction and successful completion of a written
+examination covering:
+����������� (A)
+The legal limitations on the use of weapons;
+����������� (B)
+Weapons handling; and
+����������� (C)
+Weapon safety and maintenance; and
+����������� (c)
+A minimum marksmanship qualification score of 70 percent on a firearms
+qualification course and target designated by the Board on Public Safety
+Standards and Training.
+����������� (3)
+In addition to the basic requirements set out in subsections (1) and (2) of
+this section:
+����������� (a)
+Persons certified as unarmed private security officers annually shall complete
+a four-hour refresher course on the subjects listed in subsection (1)(a) of
+this section; and
+����������� (b)
+Persons certified as armed private security officers annually shall complete,
+in addition to the four-hour refresher course required by paragraph (a) of this
+subsection:
+����������� (A)
+A refresher course in the subjects listed in subsection (2)(b) of this section;
+and
+����������� (B)
+Requalification in the use of firearms as provided in subsection (2)(c) of this
+section. [1995 c.510 s.9]
+����������� Note: See note under 181.870.
+���������� 181.885
+Effect of being charged with crime.
+(1) If a private security officer is charged with a crime, the officer shall
+notify the officer's employer, or, if the officer is not employed, the Board on
+Public Safety Standards and Training, of that fact not later than 48 hours
+after the charge is filed.
+����������� (2)
+If an employer knows that an employee has been charged with a crime, the
+employer shall notify the board of that fact not later than 48 hours after the
+employer acquired the knowledge.
+����������� (3)
+The board may suspend the certificate of a private security officer charged
+with a crime pending disposition of the charge. [1995 c.510 s.10]
+����������� Note: See note under 181.870.
+���������� 181.886
+Persons providing private security services on September 9, 1995. Any person engaged in providing
+private security services on September 9, 1995, shall file an application for a
+license or certificate within 180 days after September 9, 1995. Such persons
+may continue providing private security services without a license or
+certificate until a license or certificate is issued or denied. [1995 c.510
+s.11]
+����������� Note: See note under 181.870.
+���������� 181.887
+Disposition of funds received by board. All moneys received by the Board on Public Safety
+Standards and Training under ORS 181.870 to 181.889, 181.991 and 203.090,
+including penalties recovered under ORS 181.991 (2) and (3), shall be paid into
+the General Fund in the State Treasury and placed to the credit of the Police
+Standards and Training Account established in ORS 181.690 and used exclusively
+by the board to carry out the duties imposed by ORS 181.870 to 181.889, 181.991
+and 203.090. [1995 c.510 s.12]
+����������� Note: See note under 181.870.
+���������� 181.889
+Advisory Committee on Private Security Services. (1)(a) The Advisory Committee on
+Private Security Services is established. The advisory committee consists of
+nine members appointed by the Board on Public Safety Standards and Training as
+follows:
+����������� (A)
+A representative of unarmed security officers;
+����������� (B)
+A representative of armed security officers;
+����������� (C)
+A representative of the health care industry;
+����������� (D)
+A representative of the manufacturing industry;
+����������� (E)
+A representative of the retail industry;
+����������� (F)
+A representative of the hospitality industry;
+����������� (G)
+A representative of private business or a governmental entity that utilizes
+private security services; and
+����������� (H)
+Two members of the public at large who are not related within the second degree
+by affinity or within the second degree by consanguinity to a person who is
+employed, or doing business, as a private security officer, proprietary
+security officer or security contractor.
+����������� (b)
+Notwithstanding paragraph (a) of this subsection, no more than four members of
+the advisory committee may represent proprietary security managers or security
+contractors.
+����������� (2)
+The term of office of each member is three years. If, during a member's term of
+office, the member changes occupations and no longer is employed in the
+category the member represented, the member shall resign. If there is a vacancy
+for any cause, the board shall make an appointment to become immediately
+effective for the unexpired term.
+����������� (3)
+The advisory committee shall meet at such times and places as determined by the
+advisory committee. A majority of the advisory committee constitutes a quorum
+to transact business.
+����������� (4)(a)
+The advisory committee shall develop recommendations for the board's
+consideration prior to any final board action on policies, requirements,
+procedures, rules and any other matter relating to private security services.
+����������� (b)
+Notwithstanding paragraph (a) of this subsection, the advisory committee is not
+required to make recommendations prior to the adoption by the board of
+emergency or temporary rules.
+����������� (c)
+The advisory committee may submit a list of representatives of the private
+security industry to the Governor for the Governor's consideration in making
+the appointments required by ORS 181.620 (1)(t). [1995 c.510 s.15]
+����������� Note: See note under 181.870.
+����������� Note: Sections 16 and 20, chapter 510,
+Oregon Laws 1995, provide:
+����������� Sec.
+16.
+Notwithstanding the term of office specified in section 15 of this Act
+[181.889], of the members first appointed to the advisory committee:
+����������� (1)
+Three shall serve for a term ending January 31, 1997.
+����������� (2)
+Three shall serve for a term ending January 31, 1998.
+����������� (3)
+Three shall serve for a term ending January 31, 1999. [1995 c.510 s.16]
+����������� Sec.
+20. (1) The
+Governor shall make the appointments to the Board on Public Safety Standards
+and Training required by ORS 181.620 (1)(t) no later than January 1, 1996.
+����������� (2)
+The certification and licensing programs required by sections 1 to 18 of this
+Act become operative on January 1, 1997. [1995 c.510 s.20]
+PENALTIES
+���������� 181.990
+Penalties.
+Violation of ORS 181.140 is a Class A misdemeanor. [Amended by 1971 c.743
+s.343]
+���������� 181.991
+Penalties relating to regulation of private security services; criminal and
+civil. (1) A
+person commits a Class A misdemeanor if the person knowingly falsifies any
+information pertinent to an application for a license or certificate under ORS
+181.870 to 181.889, 181.991 and 203.090.
+����������� (2)
+In addition to any other liability or penalty provided by law, the Board on
+Public Safety Standards and Training may impose a civil penalty not to exceed
+$1,500 for a violation of any provision of ORS 181.870 to 181.889, 181.991 and
+203.090 or any rule adopted by the board pursuant to ORS 181.870 to 181.889,
+181.991 and 203.090.
+����������� (3)
+Judicial review of civil penalties imposed under subsections (2) and (3) of
+this section shall be as provided under ORS 183.480. [1995 c.510 ss.13,14]
+����������� Note: 181.991 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 181
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation.

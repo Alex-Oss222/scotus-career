@@ -1,0 +1,21 @@
+# Chunk 8 early assembly — QA release
+
+**Scope:** Myers assembly validation plus verification of the narrow Spink repair identified in the earlier IBM/Spink QA. No Record, Public Projection, workspace projection, or earlier substantive freeze was edited. No Git command, repository-history verification, or term-wide deterministic validation is claimed.
+
+## Myers
+
+Read the complete new [Myers Record](../records/United_States_v_Myers_merits_1996-06-11.md), the complete [reconciled commitments](OT_1995CHUNK8_MYERS_RECONCILED.md), only Myers's current Stone supplement, and the complete actual [Pinson public entry](../../OT1994/output/OT_1994CHUNK5.md#united-states-v-pinson-no-94-164). Applied the previously read Engine sections 4, 8, 9, 14 and 15 and the holding/public-projection standards. Directly checked the preserved primary Myers opinion's conditional-plea and derivative-warrant passages.
+
+- **Disposition and joins:** Nine participants; seven support bounded vacatur/remand and Kennedy/Breyer affirm. Parts I and III have seven direct joins; Part II has six. The six Associates retain the reconciled warrant/exception ground, while Stone joins only the search and bounded remedy. Conditional remedial agreement by the dissenters supplies no additional vote or join. No Marks synthesis is used.
+- **Stone:** The current supplement supports the search application and limited remand, forbids presumed remainder sufficiency or good faith, and preserves ordinary issue/remedy limits. Parts I and III fit that instruction. Nonjoinder in Part II avoids attributing a new independent exception determination to him. No fallback, broader technology rule, or new Stone ground is supplied. The remand's recitation of existing remedy limits establishes no new factual predicate.
+- **Preservation and remedy:** The primary lower opinion expressly states that Myers challenged the entry warrant because it used the allegedly unlawful scan and conditionally reserved review of the suppression denial. The Record therefore correctly distinguishes Pinson's separate affidavit nonchallenge. It preserves this derivative contention without preserving every possible affidavit objection. Neither final admission/exclusion, a new hearing, an automatic excision proceeding, plea withdrawal, nor another ultimate conviction consequence is ordered. Unresolved record material is not treated as litigant default.
+- **Controlling law and comparator:** The actual Pinson application and separate warrant/remedy layers match the Record's use. The dissent's proposed rejection of that application stays noncontrolling. The historical comparison is expressly the Seventh Circuit's decision; no Supreme Court Myers poll, docket, argument date or author is fabricated.
+- **Assignment and form:** The judgment coalition authorizes Chief assignment of the coordinated opinion; the Record gives case-specific fit for Scalia and compares Stone. The listed cumulative assignments sum to 76, including five for Scalia. Four mandatory opening labels and eleven Public Projection blocks are present in the prescribed order. Controlling explanation bodies are 196, 72 and 274 words, all below 350.
+
+**Myers result:** No concrete assembly discrepancy identified within this scope.
+
+## Spink repair verification
+
+Compared the current Holdings III paragraph with the official section 9204(a)(2)–(c) wording preserved in `sources/chunk8_a_control/obra1986.txt`, printed 100 Stat. 1979–1980, and the [early assembly validation receipt](OT_1995CHUNK8_EARLY_ASSEMBLY_VALIDATION.md). The current text correctly uses ratification before March 1, 1986, confines the transition to benefits pursuant to and individuals covered by those agreements, preserves the exact substituted-date formula, and states section 9204(c)'s compliant-interim-operation protection. It asserts no invoking collective-bargaining allegation or resolved interim-compliance dispute. Stone's OBRA position remains disposition-only. The prior QA's identified statutory-text issue is resolved in the current Record/Public Projection; no earlier freeze or snapshot was changed by this review.
+
+**Release status:** No unresolved issue found in this bounded review. Generated-handoff identity and term-wide checks remain the operator's separate work.

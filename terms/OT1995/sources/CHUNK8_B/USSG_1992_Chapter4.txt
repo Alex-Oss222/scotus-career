@@ -1,0 +1,739 @@
+SOURCE: https://www.ussc.gov/sites/default/files/pdf/guidelines-manual/1992/manual-pdf/Chapter_4.pdf
+
+[[PDF page 1]]
+CHAPTER FOUR - CRIMINAL HISTORY AND CRIMINAL LIVELIHOOD
+PART A - CRIMINAL HISTORY
+Introductory Commentary
+The Comprehensive Crime Control Act sets forth four purposes of sentencing. (See
+18 U.S.C. § 3553(a)(2).) A defendant's record of past criminal conduct is directly relevant to those
+purposes. A defendant with a record of prior criminal behavior is more culpable than a first offender
+and thus deserving of greater punishment. General deterrence of criminal conduct dictates that a
+clear message be sent to society that repeated criminal behavior will aggravate the need for
+punishment with each recurrence. To protect the public from further crimes of the particular
+defendant, the likelihood of recidivism and future criminal behavior must be considered. Repeated
+criminal behavior is an indicator of a limited likelihood of successful rehabilitation.
+The specific factors included in §4A1.1 and §4A1.3 are consistent with the extant empirical
+research assessing correlates of recidivism and patterns of career criminal behavior. While empirical
+research has shown that other factors are correlated highly with the likelihood of recidivism, e.g.. age
+and drug abuse, for policy reasons they were not included here at this time. The Commission has
+made no definitive judgment as to the reliability of the existing data. However, the Commission will
+review additional data insofar as they become available in the future.
+Historical Note: Effective November 1, 1987.
+§4A1.1. Criminal History Category
+The total points from items (a) through (f) determine the criminal history category
+in the Sentencing Table in Chapter Five, Part A.
+(a) Add 3 points for each prior sentence of imprisonment exceeding one year and
+one month.
+(b) Add 2 points for each prior sentence of imprisonment of at least sixty days not
+counted in (a).
+(c) Add 1 point for each prior sentence not counted in (a) or (b), up to a total of
+4 points for this item.
+(d) Add 2 points if the defendant committed the instant offense while under any
+criminal justice sentence, including probation, parole, supervised release,
+imprisonment, work release, or escape status.
+(e) Add 2 points if the defendant committed the instant offense less than
+two years after release from imprisonment on a sentence counted under (a) or
+(b) or while in imprisonment or escape status on such a sentence. If 2 points
+are added for item (d), add only 1 point for this item.
+(f) Add 1 point for each prior sentence resulting from a conviction of a crime of
+violence that did not receive any points under (a), (b), or (c) above because
+such sentence was considered related to another sentence resulting from a
+267 November 1, 1992
+
+[[PDF page 2]]
+conviction of a crime of violence, up to a total of 3 points for this item.
+Provided, that this item does not apply where the sentences are considered
+related because the offenses occurred on the same occasion.
+Commentary
+The total criminal history points from §4A1.1 determine the criminal history category (I-VI) in
+the Sentencing Table in Chapter Five, Part A. The definitions and instructions in §4A1.2 govern the
+computation of the criminal history points. Therefore, §§4A1.1 and 4A1.2 must be read together.
+The following notes highlight the interaction of §§4A1.1 and 4A1.2.
+Application Notes:
+1. §4ALl(a). Three points are added for each prior sentence of imprisonment exceeding one year
+and one month. There is no limit to the number of points that may be counted under this
+item. The term "prior sentence1' is defined at §4A1.2(a). The term "sentence of imprisonment"
+is defined at §4A1.2(b). Where a prior sentence of imprisonment resulted from a revocation
+of probation, parole, or a similar form of release, see. §4A1.2(k).
+Certain prior sentences are not counted or are counted only under certain conditions:
+A sentence imposed more than fifteen years prior to the defendant's commencement of
+the instant offense is not counted unless the defendant's incarceration extended into this
+fifteen-year period. See §4A1.2(e).
+A sentence imposed for an offense committed prior to the defendant's eighteenth birthday
+is Counted under this item only if it resulted from an adult conviction. See §4A1.2(d).
+A sentence for a foreign conviction, a conviction that has been expunged, or an invalid
+conviction is not counted. See, §4A1.2(h) and (j) and the Commentary to §4A1.2.
+2. §4Al.l(b). Two points are added for each prior sentence of imprisonment of at least sixty days
+not counted in §4Al.l(a). There is no limit to the number of points that may be counted
+under this item. The term "prior sentence" is defined at §4A1.2(a). The term "sentence of
+imprisonment" is defined at §4A1.2(b). Where a prior sentence of imprisonment resulted from
+a revocation of probation, parole, or a similar form of release, see, §4AL2(k).
+Certain prior sentences are not counted or are counted only under certain conditions:
+A sentence imposed more than ten years prior to the defendant's commencement of the
+instant offense is not counted. See. §4A1.2(e).
+An adult or juvenile sentence imposed for an offense committed prior to the defendant's
+eighteenth birthday is counted only if confinement resulting from such sentence extended
+into the five-year period preceding the defendant's commencement of the instant offense.
+See §4A1.2(d).
+Sentences for certain specified non-felony offenses are never counted. See, §4AI.2(c)(2).
+A sentence for a foreign conviction or a tribal court conviction, an expunged conviction,
+or an invalid conviction is not counted. See §4A1.2(h), (i), (j), and the Commentary
+to §4A12.
+268 November 1, 1992
+
+[[PDF page 3]]
+A military sentence is counted only if imposed by a general or special court martial. See,
+§4A1.2(g).
+3. §4Al.l(c). One point is added for each prior sentence not counted under §4Al.l(a) or (b).
+A maximum of four points may be counted under this item. The term "prior sentence" is
+defined at §4A1.2(a).
+Certain prior sentences are not counted or are counted only under certain conditions:
+A sentence imposed more than ten years prior to the defendant's commencement of the
+instant offense is not counted. See. §4A1.2(e).
+An adult or juvenile sentence imposed for an offense committed prior to the defendant's
+eighteenth birthday is counted only if imposed within five years of the defendant's
+commencement of the current offense. See. §4A1.2(d).
+Sentences for certain specified non-felony offenses are counted only if they meet certain
+requirements. See. §4A1.2(c)(l).
+Sentences for certain specified non-felony offenses are never counted. See. §4A1.2(c)(2).
+A diversionary disposition is counted only where there is a finding or admission of guilt
+in a judicial proceeding. See. §4A1.2(f).
+A sentence for a foreign conviction, a tribal court conviction, an expunged conviction,
+or an invalid conviction, is not counted. See. §4A1.2(h), (i), (j), and the Commentary
+to §4A1.2.
+A military sentence is counted only if imposed by a general or special court martial. See
+§4A1.2(g).
+4. §4Al.l(d). Two points are added if the defendant committed any part of the instant offense
+(i.e.. any relevant conduct) while under any criminal justice sentence, including probation,
+parole, supervised release, imprisonment, work release, or escape status. Failure to report for
+service of a sentence of imprisonment is to be treated as an escape from such sentence. See.
+§4A1.2(n). For the purposes of this item, a "criminal justice sentence" means a sentence
+countable under §4A1.2 (Definitions and Instructions for Computing Criminal History) having
+a custodial or supervisory component, although active supervision is not required for this item
+to apply. For example, a term of unsupervised probation would be included; but a sentence
+to pay a fine, by itself, would not be included. A defendant who commits the instant offense
+while a violation warrant from a prior sentence is outstanding (e.g.. a probation, parole, or
+supervised release violation warrant) shall be deemed to be under a criminal justice sentence
+for the purposes of this provision if that sentence is otherwise countable, even if that sentence
+would have expired absent such warrant. See. §4A1.2(m).
+5. §4ALl(el Two points are added if the defendant committed any part of the instant offense
+(i.e., any relevant conduct) less than two years following release from confinement on a
+sentence counted under §4All(a) or (b). This also applies if the defendant committed the
+instant offense while in imprisonment or escape status on such a sentence. Failure to report
+for service of a sentence of imprisonment is to be treated as an escape from such sentence.
+See §4A1.2(n). However, if two points are added under §4All(d), only one point is added
+under §4AU(e).
+269 November 1, 1992
+
+[[PDF page 4]]
+6. §4Al.l(f). Where the defendant received two or more prior sentences as a result of convictions
+for crimes of violence that are treated as related cases but did not arise from the same occasion
+(i.e.. offenses committed on different occasions that were part of a single common scheme or
+plan or were consolidated for trial or sentencing; see. Application Note 3 of the Commentary
+to §4A1.2), one point is added under §4All(f) for each such sentence that did not result in
+any additional points under §4Al.l(a), (b), or (c). A total of up to 3 points may be added
+under §4Al.l(f). 'Crime of violence' is defined in §4B1.2(1); see. §4A1.2(p).
+For example, a defendant's criminal history includes two robbery convictions for offenses
+committed on different occasions that were consolidated for sentencing and therefore are treated
+as related. If the defendant received a five-year sentence of imprisonment for one robbery and
+a four-year sentence of imprisonment for the other robbery (consecutively or concurrently), a
+total of 3 points is added under §4All(a). An additional point is added under §4Al.l(f)
+because the second sentence did not result in any additional point(s) (under §4Al.l(a), (b),
+or (c)). In contrast, if the defendant received a one-year sentence of imprisonment for one
+robbery and a nine-month consecutive sentence of imprisonment for the other robbery, a total
+of 3 points also is added under §4Al.l(a) (a one-year sentence of imprisonment and a
+consecutive nine-month sentence of imprisonment are treated as a combined one-year-nine-
+month sentence of imprisonment). But no additional point is added under §4Al.l(f) because
+the sentence for the second robbery already resulted in an additional point under §4Al.l(a).
+Without the second sentence, the defendant would only have received two points under
+§4Al.l(b) for the one-year sentence of imprisonment).
+Background: Prior convictions may represent convictions in the federal system, fifty state systems,
+the District of Columbia, territories, and foreign, tribal, and military courts. There are jurisdictional
+variations in offense definitions, sentencing structures, and manner of sentence pronouncement. To
+minimize problems with imperfect measures of past crime seriousness, criminal history categories are
+based on the maximum term imposed in previous sentences rather than on other measures, such as
+whether the conviction was designated a felony or misdemeanor. In recognition of the imperfection
+of this measure however, §4A1.3 permits information about the significance or similarity of past
+conduct underlying prior convictions to be used as a basis for imposing a sentence outside the
+applicable guideline range.
+Subdivisions (a), (b), and (c) of §4A1.1 distinguish confinement sentences longer than one year
+and one month, shorter confinement sentences of at least sixty days, and all other sentences, such
+as confinement sentences of less than sixty days, probation, fines, and residency in a halfway house.
+Section 4Al.l(d) implements one measure of recency by adding two points if the defendant was
+under a criminal justice sentence during any part of the instant offense.
+Section 4Al.l(e) implements another measure of recency by adding two points if the defendant
+committed any part of the instant offense less than two years immediately following his release from
+confinement on a sentence counted under §4Al.l(a) or (b). Because of the potential overlap of (d)
+and (e), their combined impact is limited to three points. However, a defendant who falls within
+both (d) and (e) is more likely to commit additional crimes; thus, (d) and (e) are not completely
+combined.
+Historical Note: Effective November 1, 1987. Amended effective November 1, 1989 (see Appendix C, amendments 259-
+261); November 1, 1991 (see Appendix C, amendments 381 and 382).
+270 November 1, 1992
+
+[[PDF page 5]]
+§4A1.2. Definitions and Instructions for Computing Criminal History
+(a) Prior Sentence Defined
+(1) The term "prior sentence" means any sentence previously imposed upon
+adjudication of guilt, whether by guilty plea, trial, or plea of nolo
+contendere. for conduct not part of the instant offense.
+(2) Prior sentences imposed in unrelated cases are to be counted
+separately. Prior sentences imposed in related cases are to be treated
+as one sentence for purposes of §4Al.l(a), (b), and (c). Use the
+longest sentence of imprisonment if concurrent sentences were imposed
+and the aggregate sentence of imprisonment imposed in the case of
+consecutive sentences.
+(3) A conviction for which the imposition or execution of sentence was
+totally suspended or stayed shall be counted as a prior sentence under
+§4Al.l(c).
+(4) Where a defendant has been convicted of an offense, but not yet
+sentenced, such conviction shall be counted as if it constituted a prior
+sentence under §4Al.l(c) if a sentence resulting from that conviction
+otherwise would be countable. In the case of a conviction for an
+offense set forth in §4A1.2(c)(l), apply this provision only where the
+sentence for such offense would be countable regardless of type or
+length.
+"Convicted of an offense," for the purposes of this provision, means that
+the guilt of the defendant has been established, whether by guilty plea,
+trial, or plea of nolo contendere.
+(b) Sentence of Imprisonment Defined
+(1) The term "sentence of imprisonment" means a sentence of incarceration
+and refers to the maximum sentence imposed.
+(2) If part of a sentence of imprisonment was suspended, "sentence of
+imprisonment" refers only to the portion that was not suspended.
+(c) Sentences Counted and Excluded
+Sentences for all felony offenses are counted. Sentences for misdemeanor and
+petty offenses are counted, except as follows:
+(1) Sentences for the following prior offenses and offenses similar to them,
+by whatever name they are known, are counted only if (A) the sentence
+was a term of probation of at least one year or a term of imprisonment
+of at least thirty days, or (B) the prior offense was similar to an instant
+offense:
+Careless or reckless driving
+Contempt of court
+Disorderly conduct or disturbing the peace
+271 November 1, 1992
+
+[[PDF page 6]]
+Driving without a license or with a revoked or suspended
+license
+False information to a police officer
+Fish and game violations
+Gambling
+Hindering or failure to obey a police officer
+Insufficient funds check
+Leaving the scene of an accident
+Local ordinance violations (excluding local ordinance violations
+that are also criminal offenses under state law)
+Non-support
+Prostitution
+Resisting arrest
+Trespassing.
+(2) Sentences for the following prior offenses and offenses similar to them,
+by whatever name they are known, are never counted:
+Hitchhiking
+Juvenile status offenses and truancy
+Loitering
+Minor traffic infractions (e^g., speeding)
+Public intoxication
+Vagrancy.
+(d) Offenses Committed Prior to Age Eighteen
+(1) If the defendant was convicted as an adult and received a sentence of
+imprisonment exceeding one year and one month, add 3 points under
+§4Al.l(a) for each such sentence.
+(2) In any other case,
+(A) add 2 points under §4Al.l(b) for each adult or juvenile
+sentence to confinement of at least sixty days if the defendant
+was released from such confinement within five years of his
+commencement of the instant offense;
+(B) add 1 point under §4Al.l(c) for each adult or juvenile sentence
+imposed within five years of the defendant's commencement of
+the instant offense not covered in (A).
+(e) Applicable Time Period
+(1) Any prior sentence of imprisonment exceeding one year and one month
+that was imposed within fifteen years of the defendant's commencement
+of the instant offense is counted. Also count any prior sentence of
+imprisonment exceeding one year and one month, whenever imposed,
+that resulted in the defendant being incarcerated during any part of
+such fifteen-year period.
+(2) Any other prior sentence that was imposed within ten years of the
+defendant's commencement of the instant offense is counted.
+272 November 1, 1992
+
+[[PDF page 7]]
+(3) Any prior sentence not within the time periods specified above is not
+counted.
+(4) The applicable time period for certain sentences resulting from offenses
+committed prior to age eighteen is governed by §4A1.2(d)(2).
+(f) Diversionary Dispositions
+Diversion from the judicial process without a finding of guilt (e.g., deferred
+prosecution) is not counted. A diversionary disposition resulting from a
+finding or admission of guilt, or a plea of nolo contendere. in a judicial
+proceeding is counted as a sentence under §4Al.l(c) even if a conviction is not
+formally entered, except that diversion from juvenile court is not counted.
+(g) Military Sentences
+Sentences resulting from military offenses are counted if imposed by a general
+or special court martial. Sentences imposed by a summary court martial or
+Article 15 proceeding are not counted.
+(h) Foreign Sentences
+Sentences resulting from foreign convictions are not counted, but may be
+considered under §4A1.3 (Adequacy of Criminal History Category).
+(i) Tribal Court Sentences
+Sentences resulting from tribal court convictions are not counted, but may be
+considered under §4A1.3 (Adequacy of Criminal History Category).
+(j) Expunged Convictions
+Sentences for expunged convictions are not counted, but may be considered
+under §4A1.3 (Adequacy of Criminal History Category).
+(k) Revocations of Probation. Parole. Mandatory Release, or Supervised Release
+(1) In the case of a prior revocation of probation, parole, supervised
+release, special parole, or mandatory release, add the original term of
+imprisonment to any term of imprisonment imposed upon revocation.
+The resulting total is used to compute the criminal history points for
+§4Al.l(a), (b), or (c), as applicable.
+(2) (A) Revocation of probation, parole, supervised release, special
+parole, or mandatory release may affect the points for
+§4Al.l(e) in respect to the recency of last release from
+confinement.
+(B) Revocation of probation, parole, supervised release, special
+parole, or mandatory release may affect the time period under
+which certain sentences are counted as provided in
+§4A1.2(d)(2) and (e). For the purposes of determining the
+applicable time period, use the following: (i) in the case of an
+273 November 1, 1992
+
+[[PDF page 8]]
+adult term of imprisonment totaling more than one year and
+one month, the date of last release from incarceration on such
+sentence (see §4A1.2(e)(l)); (ii) in the case of any other
+confinement sentence for an offense committed prior to the
+defendant's eighteenth birthday, the date of the defendant's last
+release from confinement on such sentence (see
+§4A1.2(d)(2)(A)); and (iii) in any other case, the date of the
+original sentence (see §4A1.2(d)(2)(B) and (e)(2)).
+(I) Sentences on Appeal
+Prior sentences under appeal are counted except as expressly provided below.
+In the case of a prior sentence, the execution of which has been stayed pending
+appeal, §4Al.l(a), (b), (c), (d), and (f) shall apply as if the execution of such
+sentence had not been stayed; §4Al.l(e) shall not apply.
+(m) Effect of a Violation Warrant
+For the purposes of §4Al.l(d), a defendant who commits the instant offense
+while a violation warrant from a prior sentence is outstanding (e.g., a
+probation, parole, or supervised release violation warrant) shall be deemed to
+be under a criminal justice sentence if that sentence is otherwise countable,
+even if that sentence would have expired absent such warrant.
+(n) Failure to Report for Service of Sentence of Imprisonment
+For the purposes of §4Al.l(d) and (e), failure to report for service of a
+sentence of imprisonment shall be treated as an escape from such sentence.
+(o) Felony Offense
+For the purposes of §4A1.2(c), a "felony offense" means any federal, state, or
+local offense punishable by death or a term of imprisonment exceeding one
+year, regardless of the actual sentence imposed.
+(p) Crime of Violence Defined
+For the purposes of §4Al.l(f), the definition of "crime of violence" is that set
+forth in §4B 1.2(1).
+Commentary
+Application Notes:
+I Prior Sentence. "Prior sentence" means a sentence imposed prior to sentencing on the instant
+offense, other than a sentence for conduct that is part of the instant offense. See. §4A1.2(a).
+A sentence imposed after the defendant's commencement of the instant offense, but prior to
+sentencing on the instant offense, is a prior sentence if it was for conduct other than conduct
+that was part of the instant offense.
+Under §4A1.2(a)(4), a conviction for which the defendant has not yet been sentenced is treated
+as if it were a prior sentence under §4AU(c) if a sentence resulting from such conviction
+274 November 1, 1992
+
+[[PDF page 9]]
+otherwise would have been counted. In the case of an offense set forth in §4AL2(c)(l) (which
+lists certain misdemeanor and petty offenses), a conviction for which the defendant has not yet
+been sentenced is treated as if it were a prior sentence under §4A1.2(a)(4) only where the
+offense is similar to the instant offense (because sentences for other offenses set forth in
+§4A1.2(c)(l) are counted only if they are of a specified type and length).
+Z Sentence of Imprisonment. To qualify as a sentence of imprisonment, the defendant must have
+actually served a period of imprisonment on such sentence (or, if the defendant escaped, would
+have served time). See §4A1.2(a)(3) and (b)(2). For the purposes of applying §4AU(a), (b),
+or (c), the length of a sentence of imprisonment is the stated maximum (e^ in the case of a
+determinate sentence of five years, the stated maximum is five years; in the case of an
+indeterminate sentence of one to five years, the stated maximum is five years; in the case of
+an indeterminate sentence for a term not to exceed five years, the stated maximum is five years;
+in the case of an indeterminate sentence for a term not to exceed the defendant's twenty-first
+birthday, the stated maximum is the amount of time in pre-trial detention plus the amount of
+time between the date of sentence and the defendant's twenty-first birthday). That is, criminal
+history points are based on the sentence pronounced, not the length of time actually served.
+See_ §4A1.2(b)(l) and (2). A sentence of probation is to be treated as a sentence under
+§4Al.l(c) unless a condition of probation requiring imprisonment of at least sixty days was
+imposed.
+•?• Related Cases. Prior sentences are not considered related if they were for offenses that were
+separated by an intervening arrest (le^ the defendant is arrested for the first offense prior to
+committing the second offense). Otherwise, prior sentences are considered related if they
+resulted from offenses that (I) occurred on the same occasion, (2) were part of a single
+common scheme or plan, or (3) were consolidated for trial or sentencing. The court should
+be aware that there may be instances in which this definition is overly broad and will result in
+a criminal history score that underrepresents the seriousness of the defendant's criminal history
+and the danger that he presents to the public. For example, if a defendant was convicted of
+a number of serious non-violent offenses committed on different occasions, and the resulting
+sentences were treated as related because the cases were consolidated for sentencing, the
+assignment of a single set of points may not adequately reflect the seriousness of the
+defendant's criminal history or the frequency with which he has committed crimes. In such
+circumstances, an upward departure may be warranted. Note that the above example refers to
+serious non-violent offenses. Where prior related sentences result from convictions of crimes
+of violence, §4Al.l(f) will apply.
+4. Sentences Imposed in the Alternative. A sentence which specifies a fine or other non-
+incarcerative disposition as an alternative to a term of imprisonment (e^ $1,000 fine or ninety
+days' imprisonment) is treated as a non-imprisonment sentence.
+5. Sentences for Driving While Intoxicated or Under the Influence. Convictions for driving while
+intoxicated or under the influence (and similar offenses by whatever name they are known) are
+counted. Such offenses are not minor traffic infractions within the meaning of §4A1.2(c).
+6. Reversed, Vacated, or Invalidated Convictions. Sentences resulting from convictions that have
+been reversed or vacated because of errors of law, or because of subsequently-discovered
+evidence exonerating the defendant, are not to be counted. Also, sentences resulting from
+convictions that a defendant shows to have been previously ruled constitutionally invalid are
+not to be counted. Nonetheless, the criminal conduct underlying any conviction that is not
+counted in the criminal history score may be considered pursuant to §4A13 (Adequacy of
+Criminal History Category).
+275 November 1, 1992
+
+[[PDF page 10]]
+7. Offenses Committed Prior to Age Eighteen. Section 4A1.2(d) covers offenses committed prior
+to age eighteen. Attempting to count every juvenile adjudication would have the potential for
+creating large disparities due to the differential availability of records. Therefore, for offenses
+committed prior to age eighteen, only those that resulted in adult sentences of imprisonment
+exceeding one year and one month, or resulted in imposition of an adult or juvenile sentence
+or release from confinement on that sentence within five years of the defendant's
+commencement of the instant offense are counted. To avoid disparities from jurisdiction to
+jurisdiction in the age at which a defendant is considered a "juvenile," this provision applies
+to all offenses committed prior to age eighteen.
+8. Applicable Time Period. Section 4A1.2(d)(2) and (e) establishes the time period within which
+prior sentences are counted. As used in §4A1.2(d)(2) and (e), the term "commencement of the
+instant offense" includes any relevant conduct. See, §1BL3 (Relevant Conduct). If the court
+finds that a sentence imposed outside this time period is evidence of similar, or serious
+dissimilar, criminal conduct, the court may consider this information in determining whether
+an upward departure is warranted under §4A1.3 (Adequacy of Criminal History Category).
+9. Diversionary Dispositions. Section 4A1.2(f) requires counting prior adult diversionary
+dispositions if they involved a judicial determination of guilt or an admission of guilt in open
+court. This reflects a policy that defendants who receive the benefit of a rehabilitative sentence
+and continue to commit crimes should not be treated with further leniency.
+10. Convictions Set Aside or Defendant Pardoned. A number of jurisdictions have various
+procedures pursuant to which previous convictions may be set aside or the defendant may be
+pardoned for reasons unrelated to innocence or errors of law, e.g.. in order to restore civil rights
+or to remove the stigma associated with a criminal conviction. Sentences resulting from such
+convictions are to be counted. However, expunged convictions are not counted. §4A1.2(j).
+11. Revocations to be Considered. Section 4A1.2(k) covers revocations of probation and other
+conditional sentences where the original term of imprisonment imposed, if any, did not exceed
+one year and one month. Rather than count the original sentence and the resentence after
+revocation as separate sentences, the sentence given upon revocation should be added to the
+original sentence of imprisonment, if any, and the total should be counted as if it were one
+sentence. By this approach, no more than three points will be assessed for a single conviction,
+even if probation or conditional release was subsequently revoked. If the sentence originally
+imposed, the sentence imposed upon revocation, or the total of both sentences exceeded one
+year and one month, the maximum three points would be assigned. If, however, at the time
+of revocation another sentence was imposed for a new criminal conviction, that conviction
+would be computed separately from the sentence imposed for the revocation.
+Where a revocation applies to multiple sentences, and such sentences are counted separately
+under §4A1.2(a)(2), add the term of imprisonment imposed upon revocation to the sentence
+that will result in the greatest increase in criminal history points. Example: A defendant was
+serving two probationary sentences, each counted separately under §4A1.2(a)(2); probation was
+revoked on both sentences as a result of the same violation conduct; and the defendant was
+sentenced to a total of 45 days of imprisonment. If one sentence had been a "straight"
+probationary sentence and the other had been a probationary sentence that had required service
+of 15 days of imprisonment, the revocation term of imprisonment (45 days) would be added
+to the probationary sentence that had the 15-day term of imprisonment. This would result in
+a total of 2 criminal history points under §4AU(b) (for the combined 60-day term of
+imprisonment) and 1 criminal history point under §4Al.l(c) (for the other probationary
+sentence).
+276 November 1, 1992
+
+[[PDF page 11]]
+12. Local Ordinance Violations. A number of local jurisdictions have enacted ordinances covering
+certain offenses (e^ larceny and assault misdemeanors) that are also violations of state
+criminal law. This enables a local court (ejg^ a municipal court) to exercise jurisdiction over
+such offenses. Such offenses are excluded from the definition of local ordinance violations in
+§4A1.2(c)(l) and, therefore, sentences for such offenses are to be treated as if the defendant
+had been convicted under state law.
+13. Insufficient Funds Check. "Insufficient funds check," as used in §4A1.2(c)(l), does not include
+any conviction establishing that the defendant used a false name or non-existent account.
+Background: Prior sentences, not otherwise excluded, are to be counted in the criminal history score,
+including uncounseled misdemeanor sentences where imprisonment was not imposed.
+The Commission leaves for court determination the issue of whether a defendant may
+collaterally attack at sentencing a prior conviction.
+Historical Note: Effective November 1, 1987. Amended effective November 1, 1989 (see Appendix C, amendments 262-
+265); November 1, 1990 (see Appendix C, amendments 352 and 353); November 1, 1991 (see Appendix C, amendments
+381 and 382); November 1, 1992 (see Appendix C, amendment 472).
+§4AL3. Adequacy of Criminal History Category (Policy Statement)
+If reliable information indicates that the criminal history category does not adequately
+reflect the seriousness of the defendant's past criminal conduct or the likelihood that
+the defendant will commit other crimes, the court may consider imposing a sentence
+departing from the otherwise applicable guideline range. Such information may
+include, but is not limited to, information concerning:
+(a) prior sentence(s) not used in computing the criminal history category (e.g..
+sentences for foreign and tribal offenses);
+(b) prior sentence(s) of substantially more than one year imposed as a result of
+independent crimes committed on different occasions;
+(c) prior similar misconduct established by a civil adjudication or by a failure to
+comply with an administrative order;
+(d) whether the defendant was pending trial or sentencing on another charge at
+the time of the instant offense;
+(e) prior similar adult criminal conduct not resulting in a criminal conviction.
+A departure under this provision is warranted when the criminal history category
+significantly under-represents the seriousness of the defendant's criminal history or the
+likelihood that the defendant will commit further crimes. Examples might include the
+case of a defendant who (1) had several previous foreign sentences for serious
+offenses, (2) had received a prior consolidated sentence of ten years for a series of
+serious assaults, (3) had a similar instance of large scale fraudulent misconduct
+established by an adjudication in a Securities and Exchange Commission enforcement
+proceeding, (4) committed the instant offense while on bail or pretrial release for
+another serious offense or (5) for appropriate reasons, such as cooperation in the
+prosecution of other defendants, had previously received an extremely lenient sentence
+277 November 1, 1992
+
+[[PDF page 12]]
+for a serious offense. The court may, after a review of all the relevant information,
+conclude that the defendant's criminal history was significantly more serious than that
+of most defendants in the same criminal history category, and therefore consider an
+upward departure from the guidelines. However, a prior arrest record itself shall not
+be considered under §4A1.3.
+There may be cases where the court concludes that a defendant's criminal history
+category significantly over-represents the seriousness of a defendant's criminal history
+or the likelihood that the defendant will commit further crimes. An example might
+include the case of a defendant with two minor misdemeanor convictions close to ten
+years prior to the instant offense and no other evidence of prior criminal behavior in
+the intervening period. The court may conclude that the defendant's criminal history
+was significantly less serious than that of most defendants in the same criminal history
+category (Category II), and therefore consider a downward departure from the
+guidelines.
+In considering a departure under this provision, the Commission intends that the court
+use, as a reference, the guideline range for a defendant with a higher or lower
+criminal history category, as applicable. For example, if the court concludes that the
+defendant's criminal history category of HI significantly under-represents the
+seriousness of the defendant's criminal history, and that the seriousness of the
+defendant's criminal history most closely resembles that of most defendants with
+Criminal History Category IV , the court should look to the guideline range specified
+for a defendant with Criminal History Category IV to guide its departure. The
+Commission contemplates that there may, on occasion, be a case of an egregious,
+serious criminal record in which even the guideline range for Criminal History
+Category VI is not adequate to reflect the seriousness of the defendant's criminal
+history. In such a case, a departure above the guideline range for a defendant with
+Criminal History Category VI may be warranted. In determining whether an upward
+departure from Criminal History Category VI is warranted, the court should consider
+that the nature of the prior offenses rather than simply their number is often more
+indicative of the seriousness of the defendant's criminal record. For example, a
+defendant with five prior sentences for very large-scale fraud offenses may have
+15 criminal history points, within the range of points typical for Criminal History
+Category VI, yet have a substantially more serious criminal history overall because of
+the nature of the prior offenses. On the other hand, a defendant with nine prior
+60-day jail sentences for offenses such as petty larceny, prostitution, or possession of
+gambling slips has a higher number of criminal history points (18 points) than the
+typical Criminal History Category VI defendant, but not necessarily a more serious
+criminal history overall. Where the court determines that the extent and nature of the
+defendant's criminal history, taken together, are sufficient to warrant an upward
+departure from Criminal History Category VI, the court should structure the
+departure by moving incrementally down the sentencing table to the next higher
+offense level in Criminal History Category VI until it finds a guideline range
+appropriate to the case.
+However, this provision is not symmetrical. The lower limit of the range for Criminal
+History Category I is set for a first offender with the lowest risk of recidivism.
+Therefore, a departure below the lower limit of the guideline range for Criminal
+History Category I on the basis of the adequacy of criminal history cannot be
+appropriate.
+278 November 1, 1992
+
+[[PDF page 13]]
+Commentary
+Background: This policy statement recognizes that the criminal history score is unlikely to take into
+account all the variations in the seriousness of criminal history that may occur. For example, a
+defendant with an extensive record of serious, assaultive conduct who had received what might now
+be considered extremely lenient treatment in the past might have the same criminal history category
+as a defendant who had a record of less serious conduct. Yet, the first defendant's criminal history
+clearly may be more serious. This may be particularly true in the case of younger defendants (e.g.,
+defendants in their early twenties or younger) who are more likely to have received repeated lenient
+treatment, yet who may actually pose a greater risk of serious recidivism than older defendants. This
+policy statement authorizes the consideration of a departure from the guidelines in the limited
+circumstances where reliable information indicates that the criminal history category does not
+adequately reflect the seriousness of the defendant's criminal history or likelihood of recidivism, and
+provides guidance for the consideration of such departures.
+Historical Note: Effective November 1, 1987. Amended effective November 1, 1991 (see Appendix C, amendment 381);
+November 1, 1992 (see Appendix C, amendment 460).
+279 November 1, 1992
+
+[[PDF page 14]]
+[Page intentionally blank]
+280 November 1, 1992
+
+[[PDF page 15]]
+PART B - CAREER OFFENDERS AND CRIMINAL LIVELIHOOD
+§4B1.1. Career Offender
+A defendant is a career offender if (1) the defendant was at least eighteen years old
+at the time of the instant offense, (2) the instant offense of conviction is a felony that
+is either a crime of violence or a controlled substance offense, and (3) the defendant
+has at least two prior felony convictions of either a crime of violence or a controlled
+substance offense. If the offense level for a career criminal from the table below is
+greater than the offense level otherwise applicable, the offense level from the table
+below shall apply. A career offender's criminal history category in every case shall be
+Category VI.
+Offense Statutory Maximum Offense Level*
+(A) Life 37
+(B) 25 years or more 34
+(C) 20 years or more, but less than 25 years 32
+(D) 15 years or more, but less than 20 years 29
+(E) 10 years or more, but less than 15 years 24
+(F) 5 years or more, but less than 10 years 17
+(G) More than 1 year, but less than 5 years 12.
+*If an adjustment from §3E1.1 (Acceptance of Responsibility) applies, decrease the
+offense level by the number of levels corresponding to that adjustment.
+Commentary
+Application Notes:
+1. "Crime of violence," "controlled substance offense," and "two prior felony convictions" are
+defined in §4B1.2.
+2. "Offense Statutory Maximum" refers to the maximum term of imprisonment authorized for the
+offense of conviction that is a crime of violence or controlled substance offense. If more than
+one count of conviction is of a crime of violence or controlled substance offense, use the
+maximum authorized term of imprisonment for the count that authorizes the greatest maximum
+term of imprisonment.
+Background: 28 U.S.C. § 994(h) mandates that the Commission assure that certain "career"
+offenders, as defined in the statute, receive a sentence of imprisonment "at or near the maximum term
+authorized." Section 4B1.1 implements this mandate. The legislative history of this provision
+suggests that the phrase "maximum term authorized" should be construed as the maximum term
+authorized by statute. See S. Rep. 98-225, 98th Cong., 1st Sess. 175 (1983), 128 Cong. Rec. 26, 511-
+12 (1982) (text of "Career Criminals" amendment by Senator Kennedy), 26, 515 (brief summary of
+amendment), 26, 517-18 (statement of Senator Kennedy).
+Historical Note: Effective November 1, 1987. Amended effective January 15, 1988 (see Appendix C, amendments 47
+and 48); November 1,1989 (see Appendix C, amendments 266 and 267); November 1, 1992 (see Appendix C, amendment
+459).
+281 November 1, 1992
+
+[[PDF page 16]]
+§4B1.2. Definitions of Terms Used in Section 4B1.1
+(1) The term "crime of violence" means any offense under federal or state law
+punishable by imprisonment for a term exceeding one year that —
+(i) has as an element the use, attempted use, or threatened use of physical
+force against the person of another, or
+(ii) is burglary of a dwelling, arson, or extortion, involves use of explosives,
+or otherwise involves conduct that presents a serious potential risk of
+physical injury to another.
+(2) The term "controlled substance offense" means an offense under a federal or
+state law prohibiting the manufacture, import, export, distribution, or
+dispensing of a controlled substance (or a counterfeit substance) or the
+possession of a controlled substance (or a counterfeit substance) with intent
+to manufacture, import, export, distribute, or dispense.
+(3) The term "two prior felony convictions" means (A) the defendant committed
+the instant offense subsequent to sustaining at least two felony convictions of
+either a crime of violence or a controlled substance offense (Le., two felony
+convictions of a crime of violence, two felony convictions of a controlled
+substance offense, or one felony conviction of a crime of violence and one
+felony conviction of a controlled substance offense), and (B) the sentences for
+at least two of the aforementioned felony convictions are counted separately
+under the provisions of §4Al.l(a), (b), or (c). The date that a defendant
+sustained a conviction shall be the date that the guilt of the defendant has
+been established, whether by guilty plea, trial, or plea of nolo contendere.
+Commentary
+Application Notes:
+1. The terms "crime of violence" and "controlled substance offense" include the offenses of aiding
+and abetting, conspiring, and attempting to commit such offenses.
+2. "Crime of violence" includes murder, manslaughter, kidnapping, aggravated assault, forcible sex
+offenses, robbery, arson, extortion, extortionate extension of credit, and burglary of a dwelling.
+Other offenses are included where (A) that offense has as an element the use, attempted use,
+or threatened use of physical force against the person of another, or (B) the conduct set forth
+(i.e., expressly charged) in the count of which the defendant was convicted involved use of
+explosives (including any explosive material or destructive device) or, by its nature, presented
+a serious potential risk of physical injury to another. Under this section, the conduct of which
+the defendant was convicted is the focus of inquiry.
+The term "crime of violence" does not include the offense of unlawful possession of a firearm
+by a felon. Where the instant offense is the unlawful possession of a firearm by a felon,
+§2K2.1 (Unlawful Receipt, Possession, or Transportation of Firearms or Ammunition;
+Prohibited Transactions Involving Firearms or Ammunition) provides an increase in offense
+level if the defendant has one or more prior felony convictions for a crime of violence or
+controlled substance offense; and, if the defendant is sentenced under the provisions of
+18 U.S.C. § 924(e), §4B1.4 (Armed Career Criminal) will apply.
+282 November 1, 1992
+
+[[PDF page 17]]
+3. "Prior felony conviction" means a prior adult federal or state conviction for an offense
+punishable by death or imprisonment for a term exceeding one year, regardless of whether such
+offense is specifically designated as a felony and regardless of the actual sentence imposed.
+A conviction for an offense committed at age eighteen or older is an adult conviction. A
+conviction for an offense committed prior to age eighteen is an adult conviction if it is
+classified as an adult conviction under the laws of the jurisdiction in which the defendant was
+convicted (§& a federal conviction for an offense committed prior to the defendant's eighteenth
+birthday is an adult conviction if the defendant was expressly proceeded against as an adult).
+4. The provisions of §4A1.2 (Definitions and Instructions for Computing Criminal History) are
+applicable to the counting of convictions under §4B1.1.
+Historical Note: Effective November 1, 1987. Amended effective January 15, 1988 (see Appendix C, amendment 49);
+November 1, 1989 (see Appendix C, amendment 268); November 1, 1991 (see Appendix C, amendment 433); November
+1, 1992 (see Appendix C, amendment 461).
+§4BL3. Criminal Livelihood
+If the defendant committed an offense as part of a pattern of criminal conduct
+engaged in as a livelihood, his offense level shall be not less than 13, unless §3E1.1
+(Acceptance of Responsibility) applies, in which event his offense level shall be not
+less than 11.
+Commentary
+Application Notes:
+1. "Pattern of criminal conduct" means planned criminal acts occurring over a substantial period
+of time. Such acts may involve a single course of conduct or independent offenses.
+2. "Engaged in as a livelihood" means that (1) the defendant derived income from the pattern of
+criminal conduct that in any twelve-month period exceeded 2,000 times the then existing hourly
+minimum wage under federal law; and (2) the totality of circumstances shows that such
+criminal conduct was the defendant's primary occupation in that twelve-month period (e&j the
+defendant engaged in criminal conduct rather than regular, legitimate employment; or the
+defendant's legitimate employment was merely a front for his criminal conduct).
+Background: Section 4B1.3 implements 28 U.S.C. § 994(i)(2), which directs the Commission to
+ensure that the guidelines specify a "substantial term of imprisonment" for a defendant who
+committed an offense as part of a pattern of criminal conduct from which he derived a substantial
+portion of his income.
+Historical Note: Effective November 1, 1987. Amended effective June 15, 1988 (see Appendix C, amendment 50);
+November 1, 1989 (see Appendix C, amendment 269); November 1, 1990 (see Appendix C, amendment 354).
+§4B1.4. Armed Career Criminal
+(a) A defendant who is subject to an enhanced sentence under the provisions of
+18 U.S.C. § 924(e) is an armed career criminal.
+283 November 1, 1992
+
+[[PDF page 18]]
+(b) The offense level for an armed career criminal is the greatest of:
+(1) the offense level applicable from Chapters Two and Three; or
+(2) the offense level from §4B1.1 (Career Offender) if applicable; or
+(3) (A) 34, if the defendant used or possessed the firearm or
+ammunition in connection with a crime of violence or
+controlled substance offense, as defined in §4B 1.2(1), or if the
+firearm possessed by the defendant was of a type described in
+26 U.S.C. § 5845(a)*; or
+(B) 33, otherwise.*
+*If an adjustment from §3E1.1 (Acceptance of Responsibility) applies,
+decrease the offense level by the number of levels corresponding to that
+adjustment.
+(c) The criminal history category for an armed career criminal is the greatest of:
+(1) the criminal history category from Chapter Four, Part A (Criminal
+History), or §4B1.1 (Career Offender) if applicable; or
+(2) Category VI, if the defendant used or possessed the firearm or
+ammunition in connection with a crime of violence or controlled
+substance offense, as defined in §4B1.2(1), or if the firearm possessed
+by the defendant was of a type described in 26 U.S.C. § 5845(a); or
+(3) Category IV.
+Commentary
+Application Note:
+1. This guideline applies in the case of a defendant subject to an enhanced sentence under
+18 U.S.C. § 924(e). Under 18 U.S.C. § 924(e)(l), a defendant is subject to an enhanced
+sentence if the instant offense of conviction is a violation of 18 U.S.C. § 922(g) and the
+defendant has at least three prior convictions for a "violent felony" or "serious drug offense,"
+or both, committed on occasions different from one another. The terms "violent felony" and
+"serious drug offense" are defined in 18 U.S.C. § 924(e)(2). It is to be noted that the
+definitions of "violent felony" and "serious drug offense" in 18 U.S.C. § 924(e)(2) are not
+identical to the definitions of "crime of violence" and "controlled substance offense" used in
+§4B1.1 (Career Offender), nor are the time periods for the counting of prior sentences under
+§4A1.2 (Definitions and Instructions for Computing Criminal History) applicable to the
+determination of whether a defendant is subject to an enhanced sentence under 18 U.S.C.
+§ 924(e).
+It is also to be noted that the procedural steps relative to the imposition of an enhanced
+sentence under 18 U.S.C. § 924(e) are not set forth by statute and may vary to some extent
+from jurisdiction to jurisdiction.
+284 November 1, 1992
+
+[[PDF page 19]]
+Background: This section implements 18 U.S.C. § 924(e), which requires a minimum sentence of
+imprisonment of fifteen years for a defendant who violates 18 U.S.C. § 922(g) and has three previous
+convictions for a violent felony or a serious drug offense. If the offense level determined under this
+section is greater than the offense level otherwise applicable, the offense level determined under this
+section shall be applied. A minimum criminal history category (Category TV) is provided, reflecting
+that each defendant to whom this section applies will have at least three prior convictions for serious
+offenses. In some cases, the criminal history category may not adequately reflect the defendant's
+criminal history; see. §4A1.3 (Adequacy of Criminal History Category).
+Historical Note: Effective November 1, 1990 (see Appendix C, amendment 355). Amended effective November 1, 1992
+(see Appendix C, amendment 459).
+235 November 1,1992

@@ -1,0 +1,1551 @@
+{
+  "id": 7408270,
+  "name": "Coleman Wayne GRAY, Petitioner-Appellee, v. Charles E. THOMPSON, Warden, Mecklenburg Correctional Center, Respondent-Appellant; Coleman Wayne GRAY, Petitioner-Appellant, v. Charles E. THOMPSON, Warden, Mecklenburg Correctional Center, Respondent-Appellee",
+  "name_abbreviation": "Gray v. Thompson",
+  "decision_date": "1995-06-28",
+  "docket_number": "Nos. 94-4009, 94-4011",
+  "first_page": "59",
+  "last_page": "68",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "58 F.3d 59"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "4th Cir.",
+    "id": 8954,
+    "name": "United States Court of Appeals for the Fourth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "419 U.S. 1108",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6500967,
+        6501161,
+        6501450,
+        6500780,
+        6500684,
+        6500590,
+        6500881,
+        6500498,
+        6501074,
+        6501246,
+        6501343
+      ],
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/419/1108-06",
+        "/us/419/1108-08",
+        "/us/419/1108-11",
+        "/us/419/1108-04",
+        "/us/419/1108-03",
+        "/us/419/1108-02",
+        "/us/419/1108-05",
+        "/us/419/1108-01",
+        "/us/419/1108-07",
+        "/us/419/1108-09",
+        "/us/419/1108-10"
+      ]
+    },
+    {
+      "cite": "474 U.S. 1081",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6531265,
+        6531457,
+        6531396,
+        6531849,
+        6531691,
+        6531563,
+        6531310,
+        6531350,
+        6531513,
+        6531613,
+        6531774
+      ],
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/474/1081-01",
+        "/us/474/1081-05",
+        "/us/474/1081-04",
+        "/us/474/1081-11",
+        "/us/474/1081-09",
+        "/us/474/1081-07",
+        "/us/474/1081-02",
+        "/us/474/1081-03",
+        "/us/474/1081-06",
+        "/us/474/1081-08",
+        "/us/474/1081-10"
+      ]
+    },
+    {
+      "cite": "503 U.S. 973",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6408998,
+        6409917,
+        6408903,
+        6409133,
+        6409262,
+        6408494,
+        6409584,
+        6409490,
+        6408595,
+        6409367,
+        6408792,
+        6409786,
+        6408280,
+        6408381,
+        6408703
+      ],
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/503/0973-08",
+        "/us/503/0973-15",
+        "/us/503/0973-07",
+        "/us/503/0973-09",
+        "/us/503/0973-10",
+        "/us/503/0973-03",
+        "/us/503/0973-13",
+        "/us/503/0973-12",
+        "/us/503/0973-04",
+        "/us/503/0973-11",
+        "/us/503/0973-06",
+        "/us/503/0973-14",
+        "/us/503/0973-01",
+        "/us/503/0973-02",
+        "/us/503/0973-05"
+      ]
+    },
+    {
+      "cite": "475 U.S. 1099",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6410755,
+        6410851,
+        6410659,
+        6410538,
+        6411018,
+        6410418
+      ],
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/475/1099-04",
+        "/us/475/1099-05",
+        "/us/475/1099-03",
+        "/us/475/1099-02",
+        "/us/475/1099-06",
+        "/us/475/1099-01"
+      ]
+    },
+    {
+      "cite": "494 U.S. 407",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5098
+      ],
+      "weight": 3,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "415",
+          "parenthetical": "\"The proscribed conduct in the instant case is capital murder, the prosecution of which is, to put it mildly, not prohibited by the rule [petitioner seeks].\""
+        },
+        {
+          "page": "1217",
+          "parenthetical": "\"The proscribed conduct in the instant case is capital murder, the prosecution of which is, to put it mildly, not prohibited by the rule [petitioner seeks].\""
+        },
+        {
+          "parenthetical": "\"The proscribed conduct in the instant case is capital murder, the prosecution of which is, to put it mildly, not prohibited by the rule [petitioner seeks].\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/494/0407-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. § 2254",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "85 L.Ed.2d 152",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 S.Ct. 1855",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "470 U.S. 1088",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11333562,
+        11333478
+      ],
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/470/1088-02",
+        "/us/470/1088-01"
+      ]
+    },
+    {
+      "cite": "750 F.2d 1238",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        628979
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/750/1238-01"
+      ]
+    },
+    {
+      "cite": "462 U.S. 862",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6195530
+      ],
+      "weight": 3,
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/462/0862-01"
+      ]
+    },
+    {
+      "cite": "499 U.S. 467",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11319331
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "497"
+        },
+        {
+          "page": "1471"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/499/0467-01"
+      ]
+    },
+    {
+      "cite": "433 U.S. 72",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6177021
+      ],
+      "weight": 7,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "87-91"
+        },
+        {
+          "page": "2506-09"
+        },
+        {
+          "page": "90"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/433/0072-01"
+      ]
+    },
+    {
+      "cite": "42 L.Ed.2d 804",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1975,
+      "opinion_index": 0
+    },
+    {
+      "cite": "95 S.Ct. 780",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1975,
+      "opinion_index": 0
+    },
+    {
+      "cite": "205 S.E.2d 680",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1974,
+      "opinion_index": 0
+    },
+    {
+      "cite": "215 Va. 27",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2123158
+      ],
+      "year": 1974,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/215/0027-01"
+      ]
+    },
+    {
+      "cite": "107 L.Ed.2d 342",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 S.Ct. 354",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "493 U.S. 945",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11427617,
+        11427548,
+        11427494
+      ],
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/493/0945-03",
+        "/us/493/0945-02",
+        "/us/493/0945-01"
+      ]
+    },
+    {
+      "cite": "366 S.E.2d 615",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "620-21"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Va.App. 38",
+      "category": "reporters:state",
+      "reporter": "Va. App.",
+      "case_ids": [
+        2345511
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "46-50"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va-app/6/0038-01"
+      ]
+    },
+    {
+      "cite": "443 U.S. 307",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6182418
+      ],
+      "weight": 3,
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/443/0307-01"
+      ]
+    },
+    {
+      "cite": "921 F.2d 882",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10547148
+      ],
+      "pin_cites": [
+        {
+          "page": "885-86"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/921/0882-01"
+      ]
+    },
+    {
+      "cite": "86 L.Ed.2d 231",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 S.Ct. 2633",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 2,
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "472 U.S. 320",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "weight": 2,
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "492 U.S. 302",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6214810
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "314",
+          "parenthetical": "noting that new rale is one which imposes additional duties on the states"
+        },
+        {
+          "page": "2944",
+          "parenthetical": "noting that new rale is one which imposes additional duties on the states"
+        },
+        {
+          "parenthetical": "noting that new rale is one which imposes additional duties on the states"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/492/0302-01"
+      ]
+    },
+    {
+      "cite": "113 S.Ct. 853",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        11925317
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "864"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/506/0390-01"
+      ]
+    },
+    {
+      "cite": "628 F.2d 471",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1292832
+      ],
+      "pin_cites": [
+        {
+          "page": "473"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/628/0471-01"
+      ]
+    },
+    {
+      "cite": "88 L.Ed.2d 889",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 S.Ct. 848",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "766 F.2d 1426",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        343750
+      ],
+      "pin_cites": [
+        {
+          "page": "1440-41"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/766/1426-01"
+      ]
+    },
+    {
+      "cite": "783 F.2d 410",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1544148
+      ],
+      "pin_cites": [
+        {
+          "page": "414"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/783/0410-01"
+      ]
+    },
+    {
+      "cite": "412 U.S. 470",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6173453
+      ],
+      "weight": 3,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "474"
+        },
+        {
+          "page": "2212"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/412/0470-01"
+      ]
+    },
+    {
+      "cite": "427 U.S. 97",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6174831
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "109-10",
+          "parenthetical": "\"The mere possibility that an item of undisclosed information might have helped the defense ... does not establish 'materiality' in the constitutional sense.\""
+        },
+        {
+          "page": "2400-01",
+          "parenthetical": "\"The mere possibility that an item of undisclosed information might have helped the defense ... does not establish 'materiality' in the constitutional sense.\""
+        },
+        {
+          "parenthetical": "\"The mere possibility that an item of undisclosed information might have helped the defense ... does not establish 'materiality' in the constitutional sense.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/427/0097-01"
+      ]
+    },
+    {
+      "cite": "373 U.S. 83",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11716714
+      ],
+      "weight": 3,
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/373/0083-01"
+      ]
+    },
+    {
+      "cite": "429 U.S. 545",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6890
+      ],
+      "weight": 10,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "559"
+        },
+        {
+          "page": "559"
+        },
+        {
+          "page": "559"
+        },
+        {
+          "page": "561"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/429/0545-01"
+      ]
+    },
+    {
+      "cite": "489 U.S. 288",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12032050
+      ],
+      "weight": 6,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "310"
+        },
+        {
+          "page": "1075",
+          "parenthetical": "noting detrimental impact on states of retroactive application of new mies of constitutional law on habeas corpus"
+        },
+        {
+          "page": "298-99"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/489/0288-01"
+      ]
+    },
+    {
+      "cite": "451 U.S. 454",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6187407
+      ],
+      "weight": 3,
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/451/0454-01"
+      ]
+    },
+    {
+      "cite": "602 F.2d 694",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1448672
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/602/0694-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. § 3500",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "78 L.Ed.2d 697",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 S.Ct. 508",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "464 U.S. 1002",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6492641,
+        6492556,
+        6492461,
+        6492371,
+        6492759,
+        6492700
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/464/1002-04",
+        "/us/464/1002-03",
+        "/us/464/1002-02",
+        "/us/464/1002-01",
+        "/us/464/1002-06",
+        "/us/464/1002-05"
+      ]
+    },
+    {
+      "cite": "685 F.2d 1227",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        525657
+      ],
+      "pin_cites": [
+        {
+          "page": "1254"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/685/1227-01"
+      ]
+    },
+    {
+      "cite": "93 L.Ed. 1337",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1949,
+      "pin_cites": [
+        {
+          "parenthetical": "no due process violation where judge discussed sentencing evidence in open court, even though some of the evidence was not previously disclosed to the defense"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "337 U.S. 241",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        572499
+      ],
+      "weight": 2,
+      "year": 1949,
+      "pin_cites": [
+        {
+          "parenthetical": "no due process violation where judge discussed sentencing evidence in open court, even though some of the evidence was not previously disclosed to the defense"
+        },
+        {
+          "parenthetical": "no due process violation where judge discussed sentencing evidence in open court, even though some of the evidence was not previously disclosed to the defense"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/337/0241-01"
+      ]
+    },
+    {
+      "cite": "494 U.S. 484",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        4970
+      ],
+      "weight": 4,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "488"
+        },
+        {
+          "page": "1260"
+        },
+        {
+          "page": "487"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/494/0484-01"
+      ]
+    },
+    {
+      "cite": "114 S.Ct. 948",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        230324
+      ],
+      "weight": 2,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "953"
+        },
+        {
+          "page": "957"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/510/0383-01"
+      ]
+    },
+    {
+      "cite": "428 U.S. 262",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6177197
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "275-76"
+        },
+        {
+          "page": "2957-58"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/428/0262-01"
+      ]
+    },
+    {
+      "cite": "428 U.S. 153",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6176749
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "204"
+        },
+        {
+          "page": "2939"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/428/0153-01"
+      ]
+    },
+    {
+      "cite": "89 L.Ed.2d 903",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 S.Ct. 1503",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "331 S.E.2d 422",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "435"
+        },
+        {
+          "page": "435-36"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "229 Va. 469",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2070484
+      ],
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/229/0469-01"
+      ]
+    },
+    {
+      "cite": "476 U.S. 28",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12414
+      ],
+      "weight": 3,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/476/0028-01"
+      ]
+    },
+    {
+      "cite": "753 F.2d 342",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        292522
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "350-53"
+        },
+        {
+          "page": "353",
+          "parenthetical": "\"Godfrey [does not] require[ ] that a jury be instructed on each term in the aggravating circumstances.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/753/0342-01"
+      ]
+    },
+    {
+      "cite": "109 L.Ed.2d 521",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 S.Ct. 2193",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "495 U.S. 940",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        633792,
+        634215,
+        634088,
+        634122,
+        633995,
+        633682,
+        633882,
+        634077
+      ],
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/495/0940-08",
+        "/us/495/0940-06",
+        "/us/495/0940-04",
+        "/us/495/0940-01",
+        "/us/495/0940-05",
+        "/us/495/0940-07",
+        "/us/495/0940-03",
+        "/us/495/0940-02"
+      ]
+    },
+    {
+      "cite": "892 F.2d 1193",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10529670
+      ],
+      "pin_cites": [
+        {
+          "page": "1197"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/892/1193-01"
+      ]
+    },
+    {
+      "cite": "118 L.Ed.2d 308",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 S.Ct. 1591",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "947 F.2d 1106",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10524939
+      ],
+      "pin_cites": [
+        {
+          "page": "1117"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/947/1106-01"
+      ]
+    },
+    {
+      "cite": "120 L.Ed.2d 951",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 S.Ct. 27",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "976 F.2d 169",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11287702
+      ],
+      "pin_cites": [
+        {
+          "page": "174-75"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/976/0169-01"
+      ]
+    },
+    {
+      "cite": "35 F.3d 872",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10528731
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "891-92"
+        },
+        {
+          "page": "885"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/35/0872-01"
+      ]
+    },
+    {
+      "cite": "60 L.Ed.2d 1074",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1979,
+      "opinion_index": 0
+    },
+    {
+      "cite": "99 S.Ct. 2419",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1979,
+      "opinion_index": 0
+    },
+    {
+      "cite": "441 U.S. 967",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1780504,
+        1780507,
+        1779868,
+        1780099
+      ],
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/441/0967-04",
+        "/us/441/0967-03",
+        "/us/441/0967-01",
+        "/us/441/0967-02"
+      ]
+    },
+    {
+      "cite": "248 S.E.2d 135",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "149"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "219 Va. 455",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2133549
+      ],
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/219/0455-01"
+      ]
+    },
+    {
+      "cite": "430 U.S. 349",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12124278
+      ],
+      "weight": 10,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "353"
+        },
+        {
+          "page": "1202"
+        },
+        {
+          "page": "362"
+        },
+        {
+          "page": "1207"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/430/0349-01"
+      ]
+    },
+    {
+      "cite": "446 U.S. 420",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6183794
+      ],
+      "weight": 5,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "428"
+        },
+        {
+          "page": "1765"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/446/0420-01"
+      ]
+    },
+    {
+      "cite": "114 L.Ed.2d 491",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 S.Ct. 2250",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "500 U.S. 949",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6370499,
+        6369959,
+        6369800,
+        6370319,
+        6370684,
+        6370143
+      ],
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/500/0949-05",
+        "/us/500/0949-02",
+        "/us/500/0949-01",
+        "/us/500/0949-04",
+        "/us/500/0949-06",
+        "/us/500/0949-03"
+      ]
+    },
+    {
+      "cite": "98 L.Ed.2d 158",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "108 S.Ct. 207",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "484 U.S. 873",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "78 L.Ed.2d 176",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 S.Ct. 202",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "464 U.S. 865",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6401817
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/464/0865-01"
+      ]
+    },
+    {
+      "cite": "302 S.E.2d 520",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "526",
+          "parenthetical": "prosecution may proffer evidence of unadjudicated criminal conduct to show future dangerousness, but \"[i]n fairness to the defendant ... the preferred practice is to make known to him before trial the evidence that is to be adduced at the penalty stage if he is found guilty\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "225 Va. 289",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2078350
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/225/0289-01"
+      ]
+    },
+    {
+      "cite": "356 S.E.2d 157",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 9,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "172"
+        },
+        {
+          "page": "172-73"
+        },
+        {
+          "page": "173"
+        },
+        {
+          "page": "179"
+        },
+        {
+          "page": "177"
+        },
+        {
+          "page": "175",
+          "parenthetical": "relying on Gregg"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "233 Va. 313",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2096630
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/233/0313-01"
+      ]
+    },
+    {
+      "cite": "504 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11727470
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "11-13"
+        },
+        {
+          "page": "1721"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/504/0001-01"
+      ]
+    },
+    {
+      "cite": "46 F.3d 347",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7410365
+      ],
+      "pin_cites": [
+        {
+          "page": "354"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/46/0347-01"
+      ]
+    },
+    {
+      "cite": "131 L.Ed.2d 216",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1995,
+      "opinion_index": 1
+    },
+    {
+      "cite": "115 S.Ct. 1359",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6119593,
+        6119651
+      ],
+      "year": 1995,
+      "opinion_index": 1,
+      "case_paths": [
+        "/br/178/1359-01",
+        "/br/178/1359-02"
+      ]
+    },
+    {
+      "cite": "391 U.S. 510",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1767501
+      ],
+      "weight": 3,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "521-23"
+        },
+        {
+          "page": "1776-78"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/391/0510-01"
+      ]
+    },
+    {
+      "cite": "114 S.Ct. 948",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        230324
+      ],
+      "weight": 2,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "953"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/510/0383-01"
+      ]
+    },
+    {
+      "cite": "35 F.3d 872",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10528731
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/35/0872-01"
+      ]
+    },
+    {
+      "cite": "430 U.S. 349",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12124278
+      ],
+      "weight": 4,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "358"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/430/0349-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1684,
+    "char_count": 35518,
+    "ocr_confidence": 0.656,
+    "pagerank": {
+      "raw": 1.0944756623826891e-07,
+      "percentile": 0.566500209085549
+    },
+    "sha256": "7f6fcefcfb593198f70347d24decff49b5dbc920c19a603b09e33459a749d0bf",
+    "simhash": "1:98eb303ae0f517c6",
+    "word_count": 5694
+  },
+  "last_updated": "2024-02-28T00:05:51.952661+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before HALL, WILKINSON, and WILKINS, Circuit Judges."
+    ],
+    "parties": [
+      "Coleman Wayne GRAY, Petitioner-Appellee, v. Charles E. THOMPSON, Warden, Mecklenburg Correctional Center, Respondent-Appellant. Coleman Wayne GRAY, Petitioner-Appellant, v. Charles E. THOMPSON, Warden, Mecklenburg Correctional Center, Respondent-Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "Reversed and remanded with instructions to dismiss by published opinion. Judge WILKINSON wrote the opinion, in which Judge WILKINS joined. Judge HALL wrote a concurring opinion.\nOPINION\nWILKINSON, Circuit Judge:\nColeman Wayne Gray was convicted of capital murder in a Virginia court. Gray exhausted his state remedies and then petitioned for a writ of habeas corpus, alleging, inter alia, that his sentencing violated the Due Process Clause. On that ground the district court issued the writ, and the Commonwealth of Virginia now appeals. We reverse and remand with instructions to dismiss the petition.\nI.\nOn the evening of May 2, 1985, Gray and his friend Melvin Tucker drove into the parking lot of a Murphy’s Mart department store in Portsmouth, Virginia. They observed the store manager, Richard McClelland, inside. McClelland had recently discharged Gray’s wife from her job at the store, thereby displeasing Gray, who told a friend he was “going to get” McClelland. When McClel-land left work in his automobile, Gray and Tucker followed. See Gray v. Commonwealth, 233 Va. 313, 356 S.E.2d 157, 172 (1987).\nAt an intersection, Gray pulled his car in front of McClelland’s and blocked the road. Armed with a .32 caliber revolver, Gray ordered McClelland into Gray’s car. Gray and his two passengers then returned to Murphy’s Mart. While Tucker waited in the car, Gray forced McClelland inside the store at gunpoint. McClelland was told that if he refused to cooperate, his family would suffer. Gray and McClelland then emerged from the store with three sacks of cash containing approximately $12,000. They joined Tucker in the car and departed. Id.\nGray drove to a service station and fueled the automobile. He removed a gas can from the trunk and filled it with gasoline as well. Gray then proceeded to a remote dirt road, stopped the car, and commanded McClelland to get out. Gray ordered McClelland to lie face down on the ground. As McClelland did so, he begged Gray not to hurt him. Gray assured McClelland he had nothing to fear, and then fired six bullets into the back of McClelland’s head with the .32 caliber handgun. The shooting was execution style: the shots were fired in rapid succession, from a range of three to eighteen inches. Gray told Tucker as they drove away from the murder scene that he had to shoot McClelland because McClelland knew him. Id., 356 S.E.2d at 172-73.\nThe two men then returned to the intersection where they first abducted McClel-land. Gray informed Tucker that he intended to burn McClelland’s car to destroy the evidence. Gray soaked the interior of McClelland’s car with gasoline from the gas can, tossed a lit match into the ear, and fled. Gray and Tucker returned to Gray’s apartment to count the money. Id. at 173.\nBoth Gray and Tucker were subsequently indicted on various criminal counts. Tucker pleaded guilty to lesser charges in exchange for agreeing to testify against Gray. Gray, however, went to trial for armed robbery, abduction, arson, unlawful firearm use, and capital murder. In a pre-trial motion, Gray’s counsel asked the court to appoint a private investigator to assist the defense, but the motion was denied. Gray’s counsel also moved for discovery under Rule 3A:11 of the Virginia Supreme Court. The court issued a discovery order pursuant to that Rule and included an additional provision requiring the disclosure of exculpatory evidence.\nOn Monday, December 2, 1985, the guilt phase of Gray’s trial began. Following a motion by the defense under Peterson v. Commonwealth, 225 Va. 289, 302 S.E.2d 520(Va.), cert. denied, 464 U.S. 865, 104 S.Ct. 202, 78 L.Ed.2d 176 (1983), the Commonwealth’s Attorney informed the defense of evidence he planned to introduce at the penalty phase to show Gray’s future dangerousness. Specifically, he stated that prosecution witnesses would testify that Gray told them he killed a mother and daughter named Lisa and Shanta Sorrell. At the guilt phase, the key issue was whether Gray was the actual triggerman in the McClelland murder. Gray chose not to take the stand but his counsel argued that it was Tucker, not Gray, who shot McClelland, while Tucker asserted just the opposite. Two witnesses for the prosecution, who had been imprisoned with Gray, testified that Gray told them he killed McClelland.\nOn Thursday, December 5, 1985, the jury convicted Gray on all counts. That evening, the Commonwealth’s Attorney informed the defense that at the penalty phase, scheduled to begin the next morning, he intended to offer evidence of the Sorrell murders in addition to the incriminating statements that he discussed with the defense on Monday. The proposed evidence consisted of testimony by the police detective who investigated the murders, testimony by the state medical examiner who performed the victims’ autopsies, and photographs and forensic evidence of the crime scene. Defense counsel interviewed the police detective over the telephone that night.\nThe following morning, Friday, December 6, the penalty phase began. During an in-chambers conference, Gray’s counsel asked the court to exclude the additional Sorrell evidence on the ground that it exceeded the scope of corroborating evidence permissible under state law, and that they were unprepared to rebut it that day. The court expressed the view that the evidence was admissible at sentencing.\nAt the penalty phase, the prosecution first offered evidence of other criminal acts committed by Gray. That evidence included his criminal record, which the Virginia Supreme Court noted reflected thirteen felony convictions, at least nine of which were for violent crimes. See Gray, 356 S.E.2d at 179.\nTucker then took the stand on behalf of the Commonwealth and addressed the Sor-rell murders. He testified that shortly after the McClelland murder, he and Gray were scanning the local paper for news of the McClelland investigation. According to Tucker, Gray pointed to a picture of Lisa Sorrell in the paper and declared that he had killed her. At the close of Tucker’s direct examination, the defense stated that it had no questions of him. The defense at that time formally moved to exclude the additional Sorrell evidence, but the motion was denied. The court noted that defense counsel had been informed of the evidence the day before.\nThe Commonwealth next called Detective Michael Slezak. Slezak testified that he discovered the body of Lisa Sorrell in the driver’s seat of a bumed-out automobile and found the body of three-year-old Shanta in the trunk. He also testified that an expended match was recovered from the interior of the ear: the automobile, like McClelland’s, was apparently ignited after the murder. Slezak identified several photographs of the crime scene, which were each admitted into evidence. He offered no opinion on who was responsible for the murders, however. The defense then cross-examined Slezak. The questions emphasized the highly-publicized nature of the Sorrell murders and suggested that due to the possibility of a “copycat crime,” the Sorrell and McClelland murders might not have been committed by the same person.\nFinally, the Commonwealth called the medical examiner, Dr. Faruk Presswalla. His statements indicated that the Sorrell murders were performed in a manner strikingly similar to that of the McClelland murder. He testified that Lisa Sorrell was killed by six .32 caliber gunshots to the back of her head, and that Shanta died from smoke inhalation. He identified autopsy photographs, which were admitted into evidence. The prosecution also introduced Dr. Presswalla’s autopsy report. The defense stipulated to Dr. Presswalla’s expert status and declined to cross-examine him.\nThe defense, in turn, called seven witnesses to present mitigating evidence. They testified largely to their favorable opinions of Gray’s character. Gray, 356 S.E.2d at 177. Then, Gray himself took the stand. He denied any involvement whatsoever in the Sor-rell murders. When asked whether he had anything he wished to say to the jury, he stated that his participation in the McClel-land murder was limited to driving the car, and he swore that it was not he who pulled the trigger and killed McClelland.\nThe court instructed the jury on the aggravating factors under the Virginia death penalty statute — the vileness of the crime charged and the future dangerousness of the defendant. Upon deliberation, the jury unanimously found the existence of both ag-gravators and fixed Gray’s sentence at death.\nThe Virginia Supreme Court affirmed Gray’s conviction and sentence, Gray, 356 S.E.2d 157, and the U.S. Supreme Court denied certiorari. 484 U.S. 873, 108 S.Ct. 207, 98 L.Ed.2d 158 (1987). Gray then instituted state habeas proceedings. The state habeas court dismissed the petition, the Virginia Supreme Court summarily affirmed the dismissal, and the U.S. Supreme Court again denied certiorari. Gray v. Thompson, 500 U.S. 949, 111 S.Ct. 2250, 114 L.Ed.2d 491 (1991).\nThereafter, Gray filed the instant petition for a writ of habeas corpus. He alleged numerous constitutional violations with respect to both phases of the trial. The district court held an evidentiary hearing and heard testimony from trial counsel and the prosecution witnesses as to the events at sentencing. Of particular interest to the district court was Detective Slezak’s testimony that Timothy Sorrell, Lisa’s husband, had been an initial suspect in the Sorrell murders, although upon further investigation he was not charged. The district court granted the writ and vacated Gray’s sentence, finding that the prosecution had “violated the moral standards of fair play embodied in the Due Process Clause” by unfairly surprising the defense with the additional Sorrell evidence. The decision was stayed pending this appeal.\nII.\nThe primary challenges to Gray’s sentence involve the aggravating factors found by the jury. Petitioner asserts that the vileness element as applied to him was unconstitutionally vague under Godfrey v. Georgia, 446 U.S. 420, 100 S.Ct. 1759, 64 L.Ed.2d 398 (1980). He also contends that use of the supplemental Sorrell evidence as proof of future dangerousness was unconstitutional under Gardner v. Florida, 430 U.S. 349, 97 S.Ct. 1197, 51 L.Ed.2d 393 (1977). We hold that the district court properly rejected the former claim, but that it erred in issuing the writ based on the latter.\nA.\nWe first address the vileness factor. Virginia law provides that a jury may impose the death sentence if it finds that the conduct “for which he stands charged was outrageously or wantonly vile, horrible or inhuman in that it involved torture, depravity of mind or an aggravated battery to the victim.” Va. Code § 19.2-264.2(1). To pass muster under Godfrey, a sentencing factor must be sufficiently limited to “channel the sentencer’s discretion by ‘clear and objective standards’ that provide ‘specific and detailed guidance.’ ” 446 U.S. at 428, 100 S.Ct. at 1765. Even before Godfrey was decided, however, the Virginia Supreme Court provided a narrowing construction of the vileness provision. See Smith v. Commonwealth, 219 Va. 455, 248 S.E.2d 135, 149 (1978) (defining depravity of mind as “a degree of moral turpitude and psychical debasement surpassing that inherent in the definition of ordinary legal malice and premeditation” and aggravated battery as “a battery which, qualitatively and quantitatively, is more culpable than the minimum necessary to accomplish an act of murder”), cert. denied, 441 U.S. 967, 99 S.Ct. 2419, 60 L.Ed.2d 1074 (1979). Here, the court gave the Smith definitions to the jury essentially verbatim, and the jury found unanimously that Gray’s murder of McClelland satisfied the vileness predicate.\nWe have repeatedly held that limiting instructions based on Smith meet the constitutional standard set forth in Godfrey. See Turner v. Williams, 35 F.3d 872, 891-92 (4th Cir.1994); Jones v. Murray, 976 F.2d 169, 174-75 (4th Cir.), cert. denied, — U.S. -, 113 S.Ct. 27, 120 L.Ed.2d 951 (1992); Jones v. Murray, 947 F.2d 1106, 1117 (4th Cir.1991), cert. denied, 503 U.S. 973, 112 S.Ct. 1591, 118 L.Ed.2d 308 (1992); Boggs v. Bair, 892 F.2d 1193, 1197 (4th Cir.1989), cert. denied, 495 U.S. 940, 110 S.Ct. 2193, 109 L.Ed.2d 521 (1990); Turner v. Bass, 753 F.2d 342, 350-53 (4th Cir.1985), reversed in part on other grounds, 476 U.S. 28, 106 S.Ct. 1683, 90 L.Ed.2d 27 (1986). It is manifest that Godfrey does not demand more. See Turner v. Bass, 753 F.2d at 353 (“Godfrey [does not] require[ ] that a jury be instructed on each term in the aggravating circumstances.”).\nB.\nWe next turn to the question of future dangerousness. Virginia also permits the death penalty if the jury “find[s] that there is a probability that the defendant would commit criminal acts of violence that would constitute a continuing serious threat to society.” Va.Code § 19.2-264.2(1). In considering the defendant’s potential violence, the Virginia jury has never been restricted to proof of adjudicated criminal convictions. To the contrary, the Commonwealth may introduce evidence of criminal misconduct for which the defendant has been neither tried nor convicted. Watkins v. Commonwealth, 229 Va. 469, 331 S.E.2d 422, 435 (1985), cert. denied, 475 U.S. 1099, 106 S.Ct. 1503, 89 L.Ed.2d 903 (1986). This rule of latitude — which also allows the defendant to present a wide range of mitigating evidence — was fashioned pursuant to the Supreme Court’s instruction that “it [is] desirable for the jury to have as much information before it as possible when it makes the sentencing decision.” Gregg v. Georgia, 428 U.S. 153, 204, 96 S.Ct. 2909, 2939, 49 L.Ed.2d 859 (1976); see Gray, 356 S.E.2d at 175 (relying on Gregg); Watkins, 331 S.E.2d at 435-36 (relying on Jurek v. Texas, 428 U.S. 262, 275-76, 96 S.Ct. 2950, 2957-58, 49 L.Ed.2d 929 (1976)).\nIn the instant case, petitioner claims that the future dangerousness verdict is invalid because he was unfairly surprised by the additional Sorrell murder evidence, and that effective rebuttal of the prosecution’s evidence was thereby precluded. Petitioner and his counsel knew at the outset of the guilt phase that he would be accused of the Sorrell murders in penalty proceedings, however, and were informed of the additional evidence the night before that phase began. Thus, the precise rule petitioner seeks is a constitutional entitlement to adequate advance notice of particular items of evidence.\nIn Caspari v. Bohlen the Supreme Court made clear that federal courts must analyze whether a habeas petitioner seeks to extend the boundaries of existing law before considering the merits of the claim, if the state so argues. — U.S. -, -, 114 S.Ct. 948, 953, 127 L.Edüd 236 (1994). The district court, however, never acknowledged this mandatory framework in its final opinion. We now address the question, and we find that petitioner’s rule would be novel even today and certainly was not compelled by existing precedent at the time his conviction became final. Saffle v. Parks, 494 U.S. 484, 488, 110 S.Ct. 1257, 1260, 108 L.Ed.2d 415 (1990). Because federal courts generally may not create or apply new constitutional rights on collateral review, id. at 487, 110 S.Ct. at 1259, petitioner’s claim must fail.\nPetitioner relies largely on Gardner v. Florida, supra, for the proposition that use of the Sorrell evidence violated the Due Process Clause. That case, however, does not dictate the conclusion that petitioner had a constitutional right to some minimum amount of advance notice of the particulars of the prosecution’s penalty case. In Gardner, the judge relied on confidential portions of a presentence report in deciding to sentence the defendant to death, but never disclosed that information to the defense until judgment was entered. 430 U.S. at 353, 97 S.Ct. at 1202. Because the defendant was sentenced “on the basis of information that he had no opportunity to deny or explain,” the sentencing proceeding was unconstitutional. Id. at 362, 97 S.Ct. at 1207.\nPetitioner, by contrast, was not sentenced on the basis of any secret information. Rather, the evidence of petitioner’s future dangerousness was advanced in open court, and petitioner’s counsel was specifically afforded the chance to cross-examine the adverse witnesses. See Williams v. New York, 337 U.S. 241, 69 S.Ct. 1079, 93 L.Ed. 1337 (1949) (no due process violation where judge discussed sentencing evidence in open court, even though some of the evidence was not previously disclosed to the defense). Indeed, defense counsel cross-examined Detective Slezak, who had been interviewed the preceding evening, and chose not to cross-examine Dr. Presswalla after stipulating to his competence. If the defense felt unprepared to undertake effective cross-examination, one would think a formal motion for continuance would have been forthcoming, but none was ever made; counsel moved only that the evidence be excluded. And, after the supplemental Sorrell evidence was presented, petitioner took the stand and directly addressed the jury. Plainly, petitioner had an opportunity to explain or deny the evidence. This case is thus distinguishable from Gardner on first principles. See Proffitt v. Wainwright, 685 F.2d 1227, 1254 (11th Cir.1982) (explaining that Gardner “simply prohibits the use of ‘secret information’; the Court did not in that case address the scope of the capital defendant’s procedural rights in attempting to rebut information that has openly been presented to the sentencing tribunal.”), cert. denied, 464 U.S. 1002, 104 S.Ct. 508, 78 L.Ed.2d 697 (1983).\nGardner itself warned against broad expansions of its holding. Although Gardner extended the guarantee of due process to the sentencing context, the extension was carefully circumscribed. The fact that due process applied at sentencing did not transport into that phase of capital proceedings “the entire panoply of criminal trial procedural rights.” 430 U.S. at 358 n. 9, 97 S.Ct. at 1205 n. 9. Notably, there is no right to advance notice of witness statements, much less to evidence that merely corroborates such statements, in federal trials. Witness statements are not discoverable until after the witness has testified on direct examination. See 18 U.S.C. § 3500(a). This practice has, to our knowledge, never been found to offend the Due Process Clause. In light of the fact that Gardner expressly avoided importing even established trial rights into sentencing, it is implausible that it created sentencing rights that are nonexistent at trial. In sum, Gardner did not clearly forbid the jury from sentencing petitioner on the basis of the Sor-rell evidence.\nThe district court’s justification for relying on Gardner is in error. In applying Gardner to the facts of this case, the district court cited a passage from Smith v. Estelle, 602 F.2d 694 (5th Cir.1979), aff'd on other grounds, 451 U.S. 454, 101 S.Ct. 1866, 68 L.Ed.2d 359 (1981), in which the Fifth Circuit reasoned that “[sjurprise can be as effective as secrecy in preventing effective cross-examination” and thus denying defense counsel the opportunity to challenge prosecution evidence. Id. at 699. The Estelle decision was based on Gardner. Estelle, however, is a habeas case that was decided before the Supreme Court limited the formulation of new rules on collateral review. See Teague v. Lane, 489 U.S. 288, 109 S.Ct. 1060, 103 L.Ed.2d 334 (1989). Extending the holding of Gardner, which involved a complete failure to disclose, to a case in which disclosure was made but allegedly so late as to be unfair, requires the analytical equation of “secrecy” and “surprise.” While the Estelle court may have been free to make that leap in extending Gardner, such analysis is no longer permissible on collateral review. See Caspari, — U.S. at -, 114 S.Ct. at 957.\nNot only is petitioner’s position not mandated by Gardner, but other precedent existing at the time his conviction became final counsels affirmatively against it. In Weatherford v. Bursey, 429 U.S. 545, 97 S.Ct. 837, 51 L.Ed.2d 30 (1977), the Supreme Court held that “[tjhere is no general constitutional right to discovery in a criminal case, and Brady did not create one.” Id. at 559, 97 S.Ct. at 846. As Weatherford explains, Brady v. Maryland, 373 U.S. 83, 83 S.Ct. 1194, 10 L.Ed.2d 215 (1963), created a constitutional right to exculpatory evidence, but not to all information that might be helpful in preparing for trial. 429 U.S. at 559, 97 S.Ct. at 845; see also United States v. Agurs, 427 U.S. 97, 109-10, 96 S.Ct. 2392, 2400-01, 49 L.Ed.2d 342 (1976) (“The mere possibility that an item of undisclosed information might have helped the defense ... does not establish ‘materiality’ in the constitutional sense.”). Here, the prosecution had already responded to the Brady segment of the pre-trial discovery order when the defense requested the penalty evidence. Beyond that, Weatherford reiterates, “ ‘the Due Process Clause has little to say regarding the amount of discovery which the parties must be afforded.’” 429 U.S. at 559, 97 S.Ct. at 846 (quoting Wardius v. Oregon, 412 U.S. 470, 474, 93 S.Ct. 2208, 2212, 37 L.Ed.2d 82 (1973)). The federal circuits have taken their cue from this precedent and have narrowly construed the requirements of due process in the context of discovery challenges. See e.g., United States v. Polowichak, 783 F.2d 410, 414 (4th Cir.1986); United States v. Kendall, 766 F.2d 1426, 1440-41 (10th Cir.1985), cert. denied, 474 U.S. 1081, 106 S.Ct. 848, 88 L.Ed.2d 889 (1986); United States v. Brown, 628 F.2d 471, 473 (5th Cir.1980). Thus, rather than deeming petitioner’s claim to be iron-clad, a reasonable jurist might well have found that the Supreme Court and several circuits had affirmatively rejected arguments similar to petitioner’s.\nThe practical import of the rule sought by petitioner underscores its novelty. If the Due Process Clause entitled defendants to some minimum advance notice of ancillary evidence, federal courts would be thrust deep into state criminal proceedings. The general scope of discovery at such trials, however, represents precisely the type of question that has traditionally been left to the states. See Herrera v. Collins, — U.S. -, -, 113 S.Ct. 853, 864, 122 L.Ed.2d 203 (1993). Here, for instance, the prosecution notified the defense of its penalty evidence, including Gray’s incriminating statements, not pursuant to any perceived mandate of due process but according to Virginia’s “preferred practice.” Peterson v. Commonwealth, 225 Va. 289, 302 S.E.2d at 526 (prosecution may proffer evidence of unadjudicated criminal conduct to show future dangerousness, but “[i]n fairness to the defendant ... the preferred practice is to make known to him before trial the evidence that is to be adduced at the penalty stage if he is found guilty”). State practices of criminal procedure are reviewed on habeas with substantial deference. Herrera, — U.S. at -, 113 S.Ct. at 864. Indeed, the doctrine announced in Teague and developed in its progeny is based in part on comity in federal-state relations. See Teague, 489 U.S. at 310, 109 S.Ct. at 1075 (noting detrimental impact on states of retroactive application of new mies of constitutional law on habeas corpus). To supplant Virginia law on the particulars of criminal discovery with the Fourteenth Amendment, and increase the present discovery obligations on the state, is something we may not do on collateral review. See Penry v. Lynaugh, 492 U.S. 302, 314, 109 S.Ct. 2934, 2944, 106 L.Ed.2d 256 (1989) (noting that new rale is one which imposes additional duties on the states).\nFinally, petitioner’s contention rings hollow on its facts. The prosecution informed the defense on Monday morning that it intended to present evidence of statements by Gray that would implicate him in the Sorrell murders. That testimony was, of course, the linchpin of the government’s proof of those crimes. Knowledge of the particular evidence the prosecution would offer to support that testimony, i.e., to show that the murders actually occurred, was simply not necessary to prepare a defense against the general charge of petitioner’s guilt. Petitioner has advanced no meaningful way in which he would have proceeded any differently at the penalty phase had he known about the photographs, the autopsy report, and the like, before Thursday evening; indeed, it seems likely that petitioner’s case would have unfolded in much the same fashion that it did. Accord Weatherford, 429 U.S. at 561, 97 S.Ct. at 846.\nFor the foregoing reasons, petitioner is not entitled to habeas relief on the ground that he did not receive sufficient notice of the evidence in question.\nIII.\nPetitioner offers several alternative grounds for affirming the issuance of the writ. We find none persuasive.\nFirst, petitioner contends that the state court’s refusal to appoint a private investigator for the defense contravened due process. The Supreme Court, however, has flatly declined to address the question whether, “as a matter of federal constitutional law[,] what if any showing would [entitle] a defendant to [private] assistance.” Caldwell v. Mississippi, 472 U.S. 320, 323-24 n.1, 105 S.Ct. 2633, 2637 n.1, 86 L.Ed.2d 231 (1985). By resolving that question, we would clearly be breaking new constitutional ground. See Jackson v. Ylst, 921 F.2d 882, 885-86 (9th Cir.1990) (declining to address same question). In any event, petitioner has offered nothing more than a bare assertion that private assistance would have been beneficial to him, which does not state a violation of due process. Caldwell, 472 U.S. at 323-24 n. 1, 105 S.Ct. at 2637 n.1.\nNext, petitioner argues that the evidence at the guilt phase of the trial was insufficient to convict him of capital murder. He complains, in essence, that there was no direct evidence that he fired the fatal shots. However, a rational juror could well have found beyond a reasonable doubt that Gray was the triggerman. Jackson v. Virginia, 443 U.S. 307, 99 S.Ct. 2781, 61 L.Ed.2d 560 (1979). The jury heard Tucker testify unequivocally that Gray shot McClelland, and the jury also heard testimony from two other witnesses that Gray said he murdered McClelland. Moreover, the prosecution showed that Gray, not Tucker, was acquainted with McClelland, and that Gray was angry with McClelland for firing his wife. The evidence established an ample basis for Gray’s conviction.\nLast, petitioner asserts that the district court erred in dismissing as procedurally defaulted two other claims: that the prosecution failed to fully disclose impeachment evidence regarding a prosecution witness, Jeremiah Smallwood, and that Smallwood perjured himself. Because petitioner did not raise these arguments in the Virginia courts either at trial or on direct appeal, they would be procedurally barred from state collateral review. Fitzgerald v. Bass, 6 Va.App. 38, 46-50, 366 S.E.2d 615, 620-21 (1988), cert. denied, 493 U.S. 945, 110 S.Ct. 354, 107 L.Ed.2d 342 (1989); Slayton v. Parrigan, 215 Va. 27, 205 S.E.2d 680 (1974), cert. denied, 419 U.S. 1108, 95 S.Ct. 780, 42 L.Ed.2d 804 (1975). The claims are thus likewise barred from federal habeas review, absent a showing of cause and prejudice. Teague, 489 U.S. at 298-99, 109 S.Ct. at 1068-69; Wainwright v. Sykes, 433 U.S. 72, 87-91, 97 S.Ct. 2497, 2506-09, 53 L.Ed.2d 594 (1977). Petitioner’s sole argument on that score is that the prosecution’s failure to remit all the impeachment evidence precluded him from raising that claim at trial or on appeal, because he could not have known that the disclosure was incomplete until the omitted evidence became available. This does not justify petitioner’s failure to allege the issue in state court, however, because at the time the state habe-as petition was filed, petitioner’s counsel possessed the relevant material but did not assert the claim. McCleskey v. Zant, 499 U.S. 467, 497, 111 S.Ct. 1454, 1471, 113 L.Ed.2d 517 (1991).\nIV.\nThe judgment of the district court is hereby reversed and the ease is remanded with directions that the petition be dismissed.\nREVERSED AND REMANDED.\n. Petitioner and the Commonwealth disagree about the effect of a holding that the future dangerousness finding was invalidated by the additional Sorrell evidence. Petitioner contends that it would vitiate the entire sentence, whereas the Commonwealth argues that the sentence could be supported by the independent jury finding of vileness. See Zant v. Stephens, 462 U.S. 862, 887 n. 24, 103 S.Ct. 2733, 2748 n.24, 77 L.Ed.2d 235 (1983); Briley v. Bass, 750 F.2d 1238, 1245 n. 12 (4th Cir.1984), cert. denied, 470 U.S. 1088, 105 S.Ct. 1855, 85 L.Ed.2d 152 (1985). In view of our disposition of the future dangerousness claim, infra, we need not reach this question.\n. It follows that this is not a case in which we are asked merely to \"apply an extant normative rule to a new set of facts,” Turner v. Williams, 35 F.3d 872, 885 (4th Cir.1994), as the rule in Gardner does not apply even generally to this case.\n.Petitioner devotes extensive portions of his brief to Timothy Sorrell's status as an initial suspect in the Sorrell murders, arguing that had he known of that fact he could have better defused the charge leveled against him. We refuse to be dragged into a mini-trial on the respective strengths of the cases against Sorrell and petitioner. Our sole commission on collateral review is to review the state trial record for violations of federal law. See 28 U.S.C. § 2254(a). Once we have satisfied ourselves that no such error occurred, we are not at liberty to reconduct state proceedings on federal habeas corpus. As the Supreme Court noted in Wainwright v. Sykes, 433 U.S. 72, 97 S.Ct. 2497, 53 L.Ed.2d 594 (1977), state trials on the merits should be “the 'main event,’ so to speak, rather than a 'tiyout on the road' for what will later be the determinative federal habeas hearing.” Id. at 90, 97 S.Ct. at 2508.\n.Petitioner's claim does not begin to approach either of the excepted categories that permit relief on the basis of novel doctrine. The rule petitioner seeks to establish would not place private conduct beyond the scope of lawful prosecution. Butler v. McKellar, 494 U.S. 407, 415, 110 S.Ct. 1212, 1217, 108 L.Ed.2d 347 (1990) (\"The proscribed conduct in the instant case is capital murder, the prosecution of which is, to put it mildly, not prohibited by the rule [petitioner seeks].\"). Nor is the rule fundamental to our system of ordered liberty. Weatherford v. Bursey, 429 U.S. 545, 97 S.Ct. 837, 51 L.Ed.2d 30 (1977).",
+        "type": "majority",
+        "author": "WILKINSON, Circuit Judge:"
+      },
+      {
+        "text": "K.K. HALL, Circuit Judge,\nconcurring:\nI join in all of the majority’s opinion except for Section II-B, in which the majority concludes that Gray’s due process challenge to the sentencing jury’s finding of future dangerousness is procedurally barred by the “new rule” doctrine. Although I express no opinion as to the precise rule Gray seeks or whether it would indeed be a “new” one for Teague purposes, I believe that it is at least arguable, were we to grant the relief requested, that the rule to emerge would have been dictated by Gardner v. Florida, 430 U.S. 349, 97 S.Ct. 1197, 51 L.Ed.2d 393 (1977).\nIn Gardner, Justice Stevens noted that a defendant has “a legitimate interest in the character of the procedure which leads to the imposition of sentence even if he may have no right to object to a particular result of the sentencing process.” Id. at 358, 97 S.Ct. at 1205 (citing Witherspoon v. Illinois, 391 U.S. 510, 521-23, 88 S.Ct. 1770, 1776-78, 20 L.Ed.2d 776 (1968)). Where, as here, a ha-beas petitioner complains that he has been intentionally and unfairly ambushed by the state’s belated disclosure of the scope of the evidence to be introduced against him at sentencing, Gardner teaches us that it is not enough to conclude that earlier notice would have rendered his defense only marginally more effective; we must instead inquire whether the prosecution has met its affirmative obligation to act with integrity—in other words, to play fair. play fair.\nI do not say that habeas petitioners alleging a due process violation may avoid the Teague bar in every case simply by asserting that the state has not “played fair”; the rule in Gardner — whatever it may be — is not so broad. However, by narrowly articulating the rule Gray seeks as “a constitutional entitlement to adequate advance notice of particular items of evidence,” ante at 64 (emphases deleted), the majority has very likely fallen into the trap described in Turner v. Williams, 35 F.3d 872 (4th Cir.1994), cert. denied, — U.S. -, 115 S.Ct. 1359, 131 L.Ed.2d 216 (1995). In Turner, we warned that the extant rule for Teague purposes will not often be “the most specific conclusion or holding [the petitioner] hopes we reach.” See id. at 883 (emphasis in original deleted); see also Ostrander v. Green, 46 F.3d 347, 354 (4th Cir.1995) (framing “rules” too narrowly permits respondents to erect the Teague bar in almost every case).\nAlthough the majority correctly notes that if the respondent pleads the Teague procedural bar, a court must resolve the issue prior to considering the merits of the claim, ante at 64 (citing Caspari v. Bohlen, — U.S. -, -, 114 S.Ct. 948, 953, 127 L.Ed.2d 236 (1994)), there is no reason to address the Teague issue where the denial of relief may rest upon an alternative procedural ground. In the instant case, the district court ordered an evidentiary hearing to develop the facts respecting the state’s presentation of the Sorrell murder evidence; the court then granted relief based on the evidence adduced at the hearing.\nBecause Gray clearly failed to request that evidence regarding this matter be taken by the state habeas court, I would hold his claim to be procedurally barred by the rule in Keeney v. Tamayo-Reyes, 504 U.S. 1, 11-13, 112 S.Ct. 1715, 1721, 118 L.Ed.2d 318 (1992). Under Tamayo-Reyes, a petitioner who has failed to develop the evidentiary record in his state proceeding must demonstrate cause and prejudice as a prerequisite for receiving a federal hearing. Because Gray has failed to satisfy the cause-and-prejudice standard, the district court was powerless to grant his petition on the basis of newly developed facts.\nWe have previously stated that \"[b]ecause Teague and its Supreme Court progeny ... have sent somewhat inconsistent signals, the circuit courts have had difficulty in coherently following these cases.\" Turner, 35 F.3d at 887 n. 16 (quoting 8C James W. Moore et al., Moore’s Federal Practice § 14.06[4], App. 14-102.5 (2d ed.1994)). The majority’s approach in this case, insofar as it is contrary to Turner and Ostrander, will present similar difficulties for the district courts in this circuit.",
+        "type": "concurrence",
+        "author": "K.K. HALL, Circuit Judge,"
+      }
+    ],
+    "attorneys": [
+      "ARGUED: John H. MeLees, Jr., Asst. Atty. Gen., Richmond, VA, for appellant. Paul G. Turner, Christian, Barton, Epps, Brent & Chappell, Richmond, VA, for appel-lee. ON BRIEF: James S. Gilmore, III, Atty. Gen., Richmond, VA, for appellant. Donald R. Lee, Jr., Virginia Capital Representation Resource Center, Richmond, VA, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Coleman Wayne GRAY, Petitioner-Appellee, v. Charles E. THOMPSON, Warden, Mecklenburg Correctional Center, Respondent-Appellant. Coleman Wayne GRAY, Petitioner-Appellant, v. Charles E. THOMPSON, Warden, Mecklenburg Correctional Center, Respondent-Appellee.\nNos. 94-4009, 94-4011.\nUnited States Court of Appeals, Fourth Circuit.\nArgued May 3, 1995.\nDecided June 28, 1995.\nARGUED: John H. MeLees, Jr., Asst. Atty. Gen., Richmond, VA, for appellant. Paul G. Turner, Christian, Barton, Epps, Brent & Chappell, Richmond, VA, for appel-lee. ON BRIEF: James S. Gilmore, III, Atty. Gen., Richmond, VA, for appellant. Donald R. Lee, Jr., Virginia Capital Representation Resource Center, Richmond, VA, for appellee.\nBefore HALL, WILKINSON, and WILKINS, Circuit Judges."
+  },
+  "file_name": "0059-01",
+  "first_page_order": 117,
+  "last_page_order": 126
+}

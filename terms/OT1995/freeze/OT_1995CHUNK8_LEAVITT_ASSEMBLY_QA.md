@@ -1,0 +1,21 @@
+# Leavitt — independent assembly QA
+
+**Scope:** Review of the completed June 17 petition/briefing Record and its Public Projection against the complete released reconciliation and exact current Stone supplement. This is assembly QA, not a new neutral model, reconciliation, adjudication or public Render. No Git command or locked-directory access occurred.
+
+**Reviewed files:** [Record](../records/Leavitt_v_Jane_L_certiorari_1996-06-17.md), [reconciliation](OT_1995CHUNK8_LEAVITT_RECONCILED.md), the Leavitt-only portion of [current Stone](../runtime/OT_1995CHUNK8_STONE.md), and the exact [public copy](../entering-law/PUBLIC_Leavitt_v_Jane_L_certiorari_1996-06-17.md). Primary-source completeness claims remain attributed to the frozen source and reconciliation receipts; this review does not claim a fresh reading of every original filing.
+
+## Substantive result
+
+**Pass.** The actual petition contains two questions. Stone's present instruction is an unqualified petition-stage grant with explicit notice of preserved federal grounds and severability consequences, followed by supplemental briefing before decision. Applying that instruction to both actual questions, including the independently presented method duties and their maternal-health qualifications, implements the authorized review route. It does not enter his conditional ultimate merits proposal or create a direct challenge to H.B. 206. No generic standing-fallback vote is used.
+
+The limited first-question grant has five votes: Stone, O'Connor, Scalia, Kennedy and Thomas. The method-duty question has four: Stone, Scalia, Kennedy and Thomas. Both meet the Rule of Four. The four Associate first-question supporters agree on the narrower appealed severability issue, not the petition's broad categorical Eleventh Amendment theory; the public order preserves that limit. The unappealed subsection 302(2) invalidation remains outside review. There are only four votes for present summary severability correction, so no summary merits judgment is entered and that failed proposal creates no contrary merits holding.
+
+Once review is granted, Stone and the four Associates opposing summary action support ordinary briefing; the three Associate second-question supporters already prefer plenary consideration of that question. The order's supplemental briefing concerning preserved alternatives, severability consequences and the relevant intervening enactment fits those procedural commitments. It does not decide preservation, a new medical fact, statutory repeal, mootness, constitutional validity or respondents' entitlement to enlarged relief. The actual 307/308 survival trigger, method duties and maternal-health qualifications are carried into the Public Event rather than replaced by assumed viability or Casey compliance.
+
+The internal nine-row poll is separate from the published action. The public handoff announces no question-by-question tally, failed summary tally, individual petition preference, dissent or noted statement. The lower judgments and injunctions are left undisturbed; no new injunction, stay, automatic enforcement authority, deadline, argument date or terminal mandate is created. The Supreme Court matter remains pending. No named opinion assignment is warranted for this unsigned management order, and the named assignment census is unchanged.
+
+## Technical repair and final checks
+
+The first QA read found 49 literal question-mark characters replacing section signs and punctuation in the Record and exact public copy. Root repaired the encoding before the next chronology gate. Independent verification found **40 section signs, eight range en dashes, one title em dash and no literal question marks**. These repairs change no substantive word, vote, grant scope or legal consequence.
+
+The exact Public copy equals the Record's bounded projection; its eleven blocks appear in the required order. Local linked files resolve. The confidential numerical-poll explanations are absent from the Public Projection. No unresolved substantive or technical discrepancy remains within this review. Git-object existence, repository commit and term-wide checks remain outside this QA and are not represented as performed.

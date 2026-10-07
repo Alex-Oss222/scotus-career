@@ -1,0 +1,821 @@
+4 
+
+
+No. 95-591 
+
+
+eed 
+
+
+| — 
+In the Supreme Court of the United States 
+
+
+OcTOBER TERM, 1995 
+
+
+L'NITED STATES OF AMERICA, PETI1 
+
+
+INTERNATIONAL BUSINESS MACHINES e 
+
+
+ON WR] T OF «¢h 7 } 
+TO THE NITED STATES COURT 
+FOR THE FEDERAL CIR 
+
+
+REPLY BRIEF FOR THE UNITED STATES 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases: Page 
+
+
+Alabama v. King & Boozer, 314 U.S. 1 (1941) 
+Brown v. Maryland, 25 U.S. (12 Wheat.) 419 
+
+CREE aR: SO et eR AE ee Ie 8. 12. 
+Burnet v. Coronado Oil & Gas Co., 285 U.S. 393 
+
+— A ⁰˙—ͤ late aaiathls . 
+City of Detroit v. Murray Corp, 355 U.S. 489 
+
+K 8 cc 
+Collector v. Day, 78 U.S. (11 Wall. 113 (1871) 
+Complete Auto Transit, Inc. v. Brady, 430 US. 
+
+274 (1977) ...... 6c PPP 
+Cornell v. Coyne, 192 U.S. 418 (1904) ..... 2. 4. 7-8, 
+Department of Revenue v. Association of Washing- 
+
+
+ton Stevedoring Cos, 435 U.S. 734 (1978) * 5. 
+
+
+Fairbank ». United States, 181 U.S. 283 (1901) 
+Fox Film Corp. ». Doyal, 286 U.S. 123 (1932) 
+Gillespie v. Oklahoma, 257 U.S. 501 (1922) 
+Graves v. New York ex rel. O'Keefe, 306 U.S. 466 
+
+
+Helvering v. Mountain Producers Corp, 303 US 
+ff an a 
+
+License Cases, 46 U.S. (5 How.) 504 (1847) 
+
+Limbach v. Hooven & Allison Co, 466 U.S. 353 
+(1984) ...... ;, 
+
+Long v. Rockwood, 277 U.S. 142 (1928) 
+
+Low v». Austin, 0 U.S. (13 Wall.) 29 (1872) 
+
+Michelin Tire Corp. Mages, 423 U.S. 276 
+(1976) 5, 7, 9, 10, 15, 
+
+New York ez rel. Rogers v. Graves, 299 US. 401 
+(1937) 
+
+Pace v. Burgess, 92 US. 372 (1876) 
+
+Panhandle Oil Co. v. Miasiasippi ex rel. Knog. 
+277 U.S. 218 (1928) 
+
+
+Peck & Co. v. Lowe. 247 U.S. 165 (1918) 2.4. 
+
+
+10 
+
+
+16 
+
+
+Cases—Continued: Page 
+Pollock v. Farmers Loan & Trust Co,, 157 US. 
+Z eliunseilinidaeinisieiaticeetedeecdnbisesesseecniesseédninneenianns 14 
+Robbins v. Shelby County Taxing District, 120 U.S. 
+ES ee — — 6 
+South Carolina v. Baker, 485 U.S. 505 (1988 14 
+Thames & Mersey Marine Ins. Co. v. United States, 
+e ü... 2 
+Turpin v. Burgess, 117 U.S. 504 (1886) 2, 3, 4, 10, 12 
+United States v. County of Allegheny, 322 U.S. 174 
+EAE RS SS 8 14 
+United States v. City of Detroit, 355 U.S. 466 
+WW FL7LF7F—r — — 14 
+United States v. Hvoslef, 237 U.S. 1 (1919) 2. 6 
+United States v. Township of Muskegon, 355 US. 
+/ . ̃ V 14 
+Willeuts v. Bunn, 282 U.S. 216 (1937 13 
+Constitution and statutes: 
+U.S. Const.: 
+Art. I, § 8, Cl. 3 (Commerce Clause) 6 
+Art. I, § 9, Cl. 5 (Export Clause) passim 
+Art. I, § 10, Cl. 2 (Import-Export Clause 7, &, 
+9, 10, 12 
+Internal Revenue Code, 26 U.S.C. 4717 1, 14, 15, 16 
+
+
+War Revenue Act of 1898, ch. 448, § 25 (Schedule A), 
+
+
+Miscellaneous: 
+Black's Law Dictionary (6th ed. 1990) ͤ — 11 
+Justice Storys Commentanes on the Constitution 
+(1833) (R. Rotunda and J. Nowak reprint, 1987, 
+Carolina Academic Press) 11 
+Webster's Third New International Dictionary 
+K* 11 
+
+
+In the Supreme Court of the United States 
+
+
+OcToBER TERM, 1995 
+
+
+- No. 95-591 
+UNITED STATES OF AMERICA, PETITIONER 
+. 
+
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FEDERAL CIRCUIT 
+
+
+* 
+
+
+REPLY BRIEF FOR THE UNITED STATES 
+
+
+It is appropriate to emphasize at the outset the 
+precise nature of respondent’s claim in this case. 
+Respondent does not dispute that the tax imposed by 
+Section 4371 of the Internal Revenue Code may con- 
+stitutionally apply to insurance obtained in con- 
+nection with domestic shipments of goods. Instead, 
+respondent claims only that this tax may not apply to 
+insurance procured in connection with shipments of 
+goods to foreign countries. If, for example, respon- 
+dent ships cargo on a voyage from California to 
+Alaska, with an intermediate stop in British Colum- 
+bia, respondent asserts only that the insurance for 
+the shipment offloaded in British Columbia—not the 
+insurance for the shipment continuing on to Alaska 
+
+
+(1) 
+
+
+2 
+
+
+—is constitutionally exempt from the generally ap- 
+plicable federal tax. 
+
+Respondent's submission is thus grounded in the 
+proposition that the Export Clause requires prefer- 
+ential, rather than nondiscriminatory, treatment of 
+exports and the export process. No decision of this 
+Court prior to Hvoslef and Thames & Mersey sup- 
+ports respondent's submission, and decisions both 
+prior and subsequent to those cases contradict it. 
+
+I. a. Respondent errs in contending (Resp. Br. 9-26) 
+that United States v. Hvoslef, 237 U.S. 1 (1915), and 
+Thames & Mersey Marine Ins. Co. v. United States, 
+237 U.S. 19 (1915), are part of an unbroken line of 
+authority supporting the view that generally ap- 
+plicable, nondiscriminatory taxes are invalid as ap- 
+plied to goods for export and export transactions. 
+Decisions of this Court both before and after Hvos/ef 
+and Thames & Mersey hold that “a general tax, laid 
+on all property alike, and not levied on goods in course 
+of exportation, nor because of their intended expor- 
+tation, is not within the constitutional prohibition.” 
+Turpin v. Burgess, 117 U.S. 504, 507 (1886). See also 
+Peck & Co. v. Lowe, 247 U.S. 165, 175 (1918); Cornel! 
+v. Coyne, 192 U.S. 418, 427-428 (1904). 
+
+
+' The first two decisions of this Court under the Export 
+Clause involved a federal tax on manufactured tobacco 
+products. Tobacco intended for export was exempt from this 
+tax, subject to the requirement that packages for export be 
+identified by an engraved stamp costing 25 cents. Pace v 
+Burgess, 92 U.S. 372 (1876); Turpin v. Burgess, 117 US. 54 
+(1886). In each case, the plaifitiffs sought a refund of amounts 
+paid for the identifying stamps. In Pace, the Court concluded 
+that the stamp requirement did not violate the Export Clause 
+because it was not itself a tax but merely a device to prevent 
+fraud and to deter untaxed tobacco products from entering the 
+
+
+Respondent claims that this passage from Turpin 
+v. Burgess supports the proposition that even a non- 
+discriminatory tax “laid on all property alike” (117 
+U.S. at 507) is constitutionally barred from applying 
+to “goods in course of exportation” (ibid.) gods that 
+have commenced what respondent refers to as the 
+“export process” (Resp. Br. 20). It is axiomatic, how- 
+ever, that a tax that is “laid on all property alike” 
+reaches, by definition, goods in the “export process.” 
+Goods in the export process are a subset of “all 
+property.” In the quoted passage from Turpin v. 
+Burgess, the Court was distinguishing between taxes 
+of general application, which the Export Clause does 
+not proscribe, and taxes that are laid specifically, or 
+discriminatorily, “on goods in course of exportation” 
+or “because of their intended exportation” (117 U.S. 
+at 507), which are unconstitutional. The Court made 
+this clear by emphasizing in Turpin that, if the 
+“same” tax applicable to domestic products had also 
+
+
+domestic economy. When Congress thereafter removed the 
+charge for the identifying stamp in a statute that referred to it 
+as an “export tax,” Turpin brought suit to recover amounts he 
+had paid. The Court rejected that claim, relying again on the 
+analysis set forth in Pace. The Court in Turpin went on to say 
+that, even if the charge for the stamp was a tax, it was “a 
+general tax, laid on all property alike,” rather than a specific 
+tax on or related to exports. The Court concluded (117 U.S. at 
+507 
+
+
+Had the same excise which was laid upon all other tobacco 
+manufactured by the plaintiffs been laid on the tobacco in 
+question, they could not have complained. 
+This conclusion is, of course, inconsistent with respondent's 
+contention that an unbroken line of authority supports the 
+holding in Hvoslef and Thames & Mersey that a nondiscrim- 
+inatory tax may not be applied to goods for export. 
+
+
+4 
+
+
+been applied to goods for export, the taxpayer “could 
+not have complained” (ibid.). See also Peck & Co. v. 
+Lowe, 247 U.S. at 175 (upholding a federal tax that 
+applied without “discrimination” and that affected 
+“exportation * * * only indirectly and remotely”); 
+note 1, supra. 
+
+The Court reached this same conclusion in Cornel! 
+v. Coyne, 192 U.S. 418 (1904), in upholding application 
+of a general excise tax on “filled cheese” even as ap- 
+plied to such cheese produced specifically for export. 
+Id. at 427. The Court explained that “(t]he constitu- 
+tional prohibition against taxing exports is substan- 
+tially the same when directed to the United States as 
+when directed to a State” and that “in both cases” it 
+refers to duties imposed “by reason or because of” the 
+exportation; it does not refer to “a general tax, laid on 
+all property alike” (ibid., quoting Turpin v. Burgess, 
+117 U.S. at 506). In so holding, the Court explained 
+that the Export Clause does not relieve exports “from 
+the prior ordinary burdens of taxation which rest 
+upon all property similarly situated” (192 U.S. at 
+427). 
+
+Respondent's suggestion that goods in the “export 
+process” are to be relieved “from the prior ordinary 
+burdens of taxation which rest upon all property 
+similarly situated” is, in substance, a claim that a 
+converse of the “original package” doctrine should 
+
+
+* The only other case decided under the Export Clause 
+prior to Hvoslef and Thames & Mersey was Fairbank v. United 
+States, 181 U.S. 283 (1901). In Fairbank, the Court held 
+unconstitutional a stamp tax on bills of lading “for any goods, 
+merchandise, or effects, to be exported from a port or place in 
+the United States” (ch. 448, § 25 (Schedule A), 30 Stat. 459). 
+By its terms, this tax was specifically on, and limited to, export 
+transactions. 
+
+
+5 
+
+
+apply under the Export Clause. Under respondent's 
+theory, when an article of commerce crosses an 
+imaginary line representing the beginning of what 
+respondent would view as the “export process,” an 
+absolute immunity from general taxes for that good 
+and for any handling of that good (and for any 
+insurance upon the handling of that good) arises 
+under the Export Clause. But this Court rejected 
+precisely that type of formalistic reasoning in 
+Michelin Tire Corp. v. Wages, 423 U.S. 276, 298 
+(1976), in concluding that a tax imposed on imported 
+articles in their “original package” is constitu- 
+tionally permissible if the tax does not treat “im- 
+ported goods * * * differently from the ‘common 
+mass of property in the country’ * * *.” See also 
+Department of Revenue v. Association of Wash- 
+ington Stevedoring Cos., 435 U.S. 734 (1978) (uphold- 
+ing application of a nondiscriminatory state tax to 
+revenues from stevedoring services rendered in the 
+“process” of importing and exporting goods). A 
+nondiscriminatory federal tax that does not treat 
+“[exported| goods * * differently from tl com- 
+mon mass of property in the country’” is similarly 
+constitutional. See Pet. Br. 32-37. 
+
+b. The 1915 decisions in Hvoslef and Thames & 
+Mersey involved stamp taxes imposed by the War 
+Revenue Act of 1898. Hvoslef involved a stamp tax on 
+any “contract or agreement for the charter of any 
+ship” without reference to the destination or area of 
+operation of the ship. Thames & Mersey involved a 
+stamp tax on policies of marine insurance “whether 
+covering peril by sea or on inland waters.” The 
+challenged taxes thus applied without discrimination 
+to both domestic and foreign commerce. Falling on all 
+property alike, the taxes were of the type that this 
+
+
+3 Ü———— — 1 ˙⁰ r AAA 
+
+
+6 
+
+
+Court had concluded should be sustained in Cornell 
+and Turpin. 
+
+In Hvoslef and Thames & Mersey, however, the 
+Court relied on the rationale of Robbins v. Shelby 
+County Taxing District, 120 U.S. 489 (1887), for the 
+proposition that even nondiscriminatory taxes may 
+not constitutionally be applied to exports or to export 
+transactions.’ See 237 U.S. at 18. In Robbins, the 
+Court had held that the Commerce Clause precludes 
+application of general, nondiscriminatory state taxes 
+to interstate commerce. In Hvoslef, the Court stated 
+that it knew “of no ground upon which” the treatment 
+afforded to nondiscriminatory state taxes under the 
+Commerce Clause should differ from the treatment to 
+be afforded to nondiscriminatory federal taxes under 
+the Export Clause. 237 U.S. at 18. 
+
+The reasoning that the Court applied in Robbins, of 
+course, was subsequently “repudiated” by this Court 
+in Complete Auto Transit, Inc. v. Brady, 430 U.S. 274 
+(1977). See Limbach v. Hooven & Allison Co., 466 
+U.S. 353, 362 (1984); Pet. Br. 29-30. Aside from the 
+rationale of Robbins, which has now been repudiated, 
+there was and is no authority for the conclusion 
+reached by the Court in Hvoslef and Thames & 
+Mersey. 
+
+ce. Respondent suggests (Resp. Br. 23) that the 
+tenuous line of authority in which it asserts Hvoslef 
+
+
+In Hvoslef, the Court also relied on Fairbank v. United 
+States, supra, for the proposition that a tax on bills of lading is 
+equivalent to a tax on the article exported. 237 U.S. at 14-15. 
+But Fairbank involved a discriminatory tax that applied only 
+to exported goods (see note 2, supra) and Hvoslef did not. In 
+Hvoslef, the Court therefore relied exclusively on Robbins as 
+support for its holding that a nondiscriminatory tax may not 
+constitutionally be applied to goods for export. 237 U.S. at 18. 
+
+
+7 
+
+
+and Thames & Mersey are located extends to Peck & 
+Co. v. Lowe, 247 U.S. 165 (1918). In that case, the 
+Court, after reviewing each of the earlier cases 
+involving the Export Clause, upheld the application of 
+the federal income tax to income from export sales. 
+The Court noted that the income tax is on net income, 
+rather than on gross export sales. The more funda- 
+mental rationale for that decision, however, is found 
+in the Court’s observation that the income tax is a 
+general tax, “not laid on income from exportation 
+because of its source, or in a discriminatory way, but 
+just as it is laid on other income.” See Pet. Br. 25-26 
+& n. 9. The Court emphasized in Peck & Co. that the 
+tax involved “no discrimination” and that, “[a]t most, 
+exportation is affected only indirectly and remotely.” 
+247 U.S. at 175. That same rationale sustains the 
+nondiscriminatory tax challenged in this case. 
+
+d. Finally, the unbroken line of authority pro- 
+claimed by respondent assuredly does not include this 
+Court’s most recent decisions dealing with the 
+subject. In Michelin Tire Corp. v. Wages, the Court 
+noted that its decisions had made “crystal clear” that 
+the Import-Export Clause does not bar application of 
+nondiscriminatory state taxes to imports—whether 
+in the “original package” or not. 423 U.S. at 300. 
+And, in Washington Stevedoring, the Court applied 
+that same reasoning in upholding the application of 
+nondiscriminatory state taxes to the handling of 
+goods for export (an aspect of what respondent terms 
+the “export process” (Resp. Br. 20)). 435 U.S. at 757- 
+758. 
+
+This Court has often emphasized that At he con- 
+stitutional prohibition against taxing exports is 
+substantially the same when directed to the United 
+States as when directed to a State.” Cornell v. 
+
+
+8 
+
+
+Coyne, 192 U.S. at 427. Although there is “some 
+diversity in language” between the Export and 
+Import-Export Clauses, “none is perceivable in the 
+act which is prohibited.” Brown v. Maryland, 25 
+U.S. (12 Wheat.) 419, 445 (1827). As we explain in 
+detail in our opening brief (Pet. Br. 32-37), the same 
+reasons that led this Court to uphold the application 
+of nondiscriminatory state taxes to the “export 
+process” under the Import-Export Clause require 
+that similarly nondiscriminatory federal taxes be 
+upheld under the Export Clause. Indeed, it would be 
+decidedly contrary to the overall scheme of the 
+Constitution to hold that in this one area the States 
+have greater discretion than the federal government 
+to enact laws affecting foreign commerce. See Pet. 
+Br. 36. 
+
+2. Respondent seeks to minimize the significance 
+of Michelin Tire Corp. and Washington Stevedoring 
+by magnifying the difference in phrasing of the 
+Export Clause and the Import-Export Clause. The 
+former specifies that “No Tax or Duty shall be laid on 
+Articles Exported” (U.S. Const. Art. I, § 9, Cl. 5); the 
+latter provides that “No State shall * * * lay any 
+Imposts or Duties on Imports or Exports” (U.S. 
+Const. Art. I, § 10, Cl. 2). Respondent contends that 
+the analysis applied by this Court in Michelin Tire 
+Corp. and Washington Stevedoring is inapplicable to 
+cases involving the Export Clause because the 
+“absence of a prohibition on ‘taxes’ in the Im- 
+port/Export Clause was central to the” Court’s de- 
+cisions in those cases (Resp. Br. 32). There are two 
+answers to respondent’s contention: (i) it misde- 
+scribes the Court’s opinions and (ii) it is based on a 
+misunderstanding of the words employed in these 
+constitutional Clauses. 
+
+
+9 
+
+
+a. In Michelin Tire Corp., the Court held that a 
+“nondiscriminatory” tax on imported goods located 
+within a State is not unconstitutional and that the 
+Court had erred 100 years earlier when it ruled to the 
+contrary in Low v. Austin, 80 U.S. (13 Wall.) 29 
+(1872). The Court made that point at the outset of its 
+opinion (423 U.S. at 279), explained that nondiscrim- 
+inatory taxes of general application do not offend the 
+objectives of the Import-Export Clause (id. at 283- 
+290), noted that a nondiscriminatory general tax does 
+not clearly represent an “impost” or “duty” laid on 
+imports or exports (id. at 291-292), and “decline[d] to 
+presume [the Clause] was intended to embrace tax- 
+ation that does not create the evils the Clause was 
+specifically intended to eliminate” (id. at 293-294). 
+The Court explained that, as long ago as its 1847 
+opinion in the License Cases, 46 U.S. (5 How.) 504, the 
+Court had made “crystal clear” that nondiscrim- 
+inatory taxes do not offend the Constitution, which 
+proscribes only “exactions upon imports as imports” 
+(423 U.S. at 300). The Court’s decision in Low v. 
+Austin, which had held to the contrary, was therefore 
+overruled (id. at 279), 
+
+The “central” point of Michelin is thus twofold. 
+First, that the Import-Export Clause is designed to 
+proscribe only “exactions upon imports as imports” 
+(and upon “exports as exports”); and second, that the 
+text of that Clause should not be read to proscribe 
+exactions that do not offend that purpose. 
+
+That same analysis applies to the Export Clause. 
+The text of the Export Clause proscribes only taxes 
+“laid on Articles exported.” As we explain in detail in 
+our opening brief (Pet. Br. 32-37), the limited pur- 
+poses of the Export Clause, as well as its narrow text, 
+reflect that it is designed to proscribe only exactions 
+
+
+10 
+
+
+upon exports as exports. A nondiscriminatory tax 
+that falls on “all goods alike” is not an exaction upon 
+exports as exports and should therefore be sustained. 
+See, e.g., Cornell v. Coyne, 192 U.S. at 428; Turpin v. 
+Burgess, 117 U.S. at 507. See also Michelin Tire 
+Corp. v. Wages, 423 U.S. at 300. 
+
+Particularly at a time when export trade in- 
+creasingly represents a growing portion of our 
+Nation’s commerce, it is inappropriate to disregard 
+the limited purpose and narrow text of the Export 
+Clause to provide an absolute immunity for the 
+“export process,” as respondent urges. By providing 
+an immunity from taxation upon exports as exports, 
+the Constitution does not preclude generally applic- 
+able taxes that fall on all goods alike. As this Court 
+has emphasized, the Constitution does not shield 
+articles of export from the same “ordinary burdens of 
+taxation” that also apply to domestic commerce. 
+Cornell v. Coyne, 192 U.S. at 427. 
+
+b. Respondent’s contention that the Export Clause 
+prohibits application of nondiscriminatory taxes to 
+the “export process”—even though the Import- 
+Export Clause concededly does not—is grounded on 
+respondent’s assertion that the phrase “impost or 
+duty” in the Import-Export Clause is conceptually 
+distinct from the phrase “tax or duty” in the Export 
+Clause. That contention is not correct. 
+
+The English language is rich with synonyms. One 
+result of the Norman Conquest, and of the waves of 
+earlier and later commercial and political interaction 
+with the Continent, is that there are innumerable 
+examples in English usage of words that have differ- 
+ent origins but indistinct or overlapping meanings. 
+This is particularly so with respect to governmental 
+functions: a lawyer and an attorney, a sheriff and a 
+
+
+11 
+
+
+marshal, an earl and a duke, are examples. A more 
+relevant example is a tax“ and an impost.“ The 
+word “impost” comes from Middle French and is 
+derived from the Medieval Latin “impositum.” These 
+terms signify an “imposition.” See Webster’s Third 
+New International Dictionary (Unabridged) 1136 
+(1986). In usage, an “impost” is a governmental form 
+of imposition: it is “something imposed or levied: TAx, 
+TRIBUTE, DUTY.” Ibid. 
+
+As its derivation and usage reflects, there is no 
+fixed distinction between an “impost” and a “tax.” 
+These are words of separate origin that describe an 
+undifferentiated and overlapping concept. For exam- 
+ple, Black’s Law Dictionary 756 (6th ed. 1990) defines 
+the word “imposts” as “Taxes, duties, or impositions 
+levied for divers reasons. * Generic term 
+for taxes.” Authority more nearly contemporaneous 
+with the adoption of the Constitution also states (Jus- 
+tice Story’s Commentaries on the Constitution § 472, 
+at 337 (1833) (R. Rotunda and J. Nowak reprint, 
+Carolina Academic Press 1987)): 
+
+
+In a general sense, all contributions imposed by 
+the government upon individuals for service of the 
+state, are called taxes, by whatever name they 
+may be known, whether by the name of tribute, 
+tythe, talliage, impost, duty, gabel, custom, sub- 
+sidy, aid, supply, excise, or other name. 
+
+Justice Story observed that the word “imposts” is (id. 
+§ 474, at 339): 
+
+
+sometimes used in the large sense of taxes, or 
+duties, or impositions, and sometimes in the more 
+restrained sense of a duty on imported goods and 
+merchandise. 
+
+
+12 
+
+
+Brown v. Maryland, which was the Court’s first 
+decision under the Import-Export Clause, was a con- 
+test over this issue of usage or meaning. Chief 
+Justice Marshall announced near the outset of the 
+opinion that At he counsel for the state of Maryland 
+would confine this prohibition [of imposts and duties 
+on imports and exports] to laws imposing duties on 
+the act of importation or exportation. The counsel for 
+the plaintiffs in error give them a much wider scope.” 
+25 U.S. (12 Wheat.) at 437. The Court then con- 
+sidered, in a number of contexts, the results of each 
+view, and consistently found support for the broader 
+view. The Court concluded that the term “impost” is 
+not used in a narrow or fixed manner, but generally 
+signifies a “tax levied on articles brought into a 
+country” (ibid.). That explanation of the term, of 
+course, parallels the text of the Export Clause, which 
+prohibits any “Tax or Duty * * * laid on Articles 
+exported” (U.S. Const. Art. I, § 9, Cl. 5). It was in 
+that context that Chief Justice Marshall explained 
+that the terms of the Import-Export Clause and the 
+Export Clause are not distinguishable in meaning: 
+“There is some diversity in language, but none is 
+perceivable in the act which is prohibited.” 25 U.S. 
+(12 Wheat.) at 445. In Turpin v. Burgess, 117 U.S. at 
+506, the Court similarly concluded that “the constitu- 
+tional prohibition against taxing exports is substan- 
+tially the same when directed to the United States as 
+when directed to a State.” 
+
+As this Court has firmly concluded, there is no 
+toxtua' basis to differentiate “the constitutional pro- 
+hi*i@% against taxing exports” set out in these two 
+Clauses. And, as we have previously shown (Pet. Br. 
+32-37), the limited purposes of the Export and Import- 
+Export Clauses compel this same conclusion. For the 
+
+
+13 
+
+
+same reasons that a generally applicable, nondiscrim- 
+inatory state tax may constitutionally be applied to 
+goods for export and to the “export process,” the 
+generally applicable, nondiscriminatory federal tax 
+involved in this case should also be upheld.‘ 
+
+
+* In addition to Michelin, Washington Stevedoring, and 
+Complete Auto, the Court has issued numerous decisions that 
+overruled older precedent that, in a variety of constitutional 
+contexts, had upheld claims for immunity from generally appli- 
+cable, nondiscriminatory taxes. As Chief Justice Hughes noted 
+in Helvering v. Mountain Producers Corp., 303 U.S. 376, 385 
+(1938), quoting Wilicuts v. Bunn, 282 U.S. 216, 225 (1931): 
+
+
+— In numerous decisions we have had occasion to declare 
+* * * that the power to tax should not be crippled “by 
+extending the constitutional exemption from taxation to 
+those subjects which fall within the general application of 
+non-discriminatory laws * * * .” 
+
+
+(a) In Fox Film Corp. v. Doyal, 286 U.S. 123 (1932), the 
+Court upheld a state business tax on gross receipts as applied to 
+royalties from copyrights. The Court “definitely overruled” 
+Long v. Rockwood, 277 U.S. 142 (1928), which had held that a 
+state income tax could not constitutionally be applied to 
+royalties paid for the use of patents issued by the United 
+States. 286 U.S. at 131. 
+
+
+(b) In Helvering v. Mountain Producers Corp., 303 U.S. at 
+385, the Court upheld application of the federal inconie tax to 
+income received by a private taxpayer from an oil lease of 
+state-owned land. In so holding, the Court overruled Gillespie 
+v. Oklahoma, 257 U.S. 501 (1922), which had held that Okla- 
+homa could not constitutionally apply its income tax to the 
+income of a lessee of restricted Indian lands, and overruled 
+Burnet v. Coronado Oil & Gas Co., 285 U.S. 393 (1932), which 
+had held that the federal income tax could not be applied to the 
+n by a State. See 303 
+
+S. at ; 
+
+
+(c) In Graves v. New York ex rel. O’Keefe, 306 U.S. 466, 486 
+(1939), the Court overruled New York ex rel. Rogers v. Graves, 
+299 U.S. 401 (1937), which had held that a state income tax 
+
+
+14 
+
+
+8. Accepting for purposes of argument that the 
+constitutional reasoning of Michelin Tire Corp. and 
+
+
+Washington Stevedoring is fully applicable under the 
+Export Clause, respondent asserts that the nondis- 
+criminatory tax imposed by Section 4371 is none- 
+theless unconstitutional as applied to insurance for 
+foreign shipments of export goods. Respondent 
+claims that factual differences make Michelin Tire 
+
+
+could not be applied to the salary of an employee of a federal 
+instrumentality, and also overruled Collector v. Day, 78 U.S. 
+(11 Wall.) 113 (1871), which had held the salary of state judges 
+to be immune from the federal income tax. 306 U.S. at 486. 
+
+(d) In Alabama v. King & Boozer, 314 U.S. 1, 9 (1941), the 
+Court held that the Constitution did not preclude application of 
+state sales taxes to purchases of building materials by a con- 
+tractor performing a cost-plus contract for the United States. 
+In so holding, the Court overruled Panhandle Oil Co. v. Mis- 
+sissippi ex rel. Knox, 277 U.S. 218 (1928), and Graves v. Texas 
+Co., 298 U.S. 393 (1936). 
+
+(e) In United States v. City of Detroit, 355 U.S. 466 (1958), 
+United States v. Township of Muskegon, 355 U.S. 484 (1958), 
+and City of Detroit v. Murray Corp, 355 U.S. 489 (1958), the 
+Court upheld the application of Michigan property and use 
+taxes against industrial taxpayers who leased and occupied real 
+property owned by the United States in the performance of 
+supply contracts with the United States. In each case, the 
+United States unsuccessfully invoked United States v. County 
+of Allegheny, 322 U.S. 174 (1944), which had held that a 
+government contractor could not constitutionally be liable for a 
+state property tax on machinery owned by the United States. 
+
+(f) In South Carolina v. Baker, 485 U.S. 505, 524 (1988), the 
+Court held that interest on bonds issued by States and their 
+political subdivisions is exempt from the federal income tax 
+only by virtue of the statutory provisions of the Internal Rev- 
+enue Code and not because of any constitutional requirement. 
+In so holding, the Court overruled Pollock v. Farmers Loan & 
+Trust Co., 157 U.S. 429 (1895). 
+
+
+15 
+
+
+Corp. and Washington Stevedoring “distinguishable” 
+from the present case (Resp. Br. 42). 
+
+a. Respondent claims that Washington Stevedor- 
+ing is inapposite because the cost of stevedoring 
+services, unlike the cost of insurance, has no econom- 
+ic relation to the value of the exported goods (Resp. 
+Br. 43). That alleged distinction, however, totally 
+ignores the facts and holding of Michelin Tire Corp. 
+The nondiscriminatory ad valorem property tax that 
+the Court upheld in Michelin was, of course, directly 
+related to the value of the imported goods. It is the 
+very nature of an ad valorem tax for the amount of 
+the tax to be related to the value of the property. The 
+relationship between the value of the goods and the 
+challenged tax in Michelin was thus unquestionably 
+more direct than in the present case, for the cost of 
+the casualty insurance taxed under Section 4371 of 
+the Internal Revenue Code varies not only with the 
+value of the goods but also with the nature, duration 
+and destination of the shipment. 
+
+b. Respondent claims that Michelin Tire Corp. is 
+inapposite because the imported goods taxed in that 
+case “were no longer in transit” (Resp. Br. 42). In 
+making that contention, respondent ignores what is 
+perhaps the most essential feature of the Court’s 
+decision in that case. As the Court emphasized in 
+Michelin, the fact that goods remain in transit and 
+have not yet been “so mingle(d) * with the 
+common property within the State as to ‘lose their 
+distinctive character as imports’ * did not mean 
+that * * * no exaction could be imposed on the 
+goods.” 423 U.S. at 298, paraphrasing Brown v. 
+Maryland, 25 U.S. (12 Wheat.) at 441-442. The Court 
+held that a State does not violate the Constitution by 
+taxing property, whether imported or domestic, “in a 
+
+
+sit.“ The essential task of stevedoring, of course, is 
+to assist the “transit” of goods. 
+
+ec. The purported factual distinctions on which 
+respondent relies in its effort to distinguish this case 
+
+
+to the Export Clause, and because the nondiscrim- 
+inatory tax imposed by Section 4371 is not imposed 
+directly or specifically on exports as exports, the fed- 
+eral tax challenged in this case should be sustained. 
+
+For the foregoing reasons and those set forth in 
+our opening brief, the judgment of the court of appeals 
+should be reversed. 
+
+
+Respectfully submitted. 
+
+
+Drew S. Days, III 
+Solicitor General 
+
+
+MARCH 1996 
+
+

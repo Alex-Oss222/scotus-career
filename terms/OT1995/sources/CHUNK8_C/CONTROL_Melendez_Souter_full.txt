@@ -1,0 +1,84 @@
+ 
+ 
+
+ 
+ 
+ 
+ 
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+ 
+ gtag('config', 'G-PDVVHXRDE6');
+ 
+
+ 
+ 
+ 
+ window.dataLayer = window.dataLayer || [];
+ function gtag() { dataLayer.push(arguments); }
+ gtag('js', new Date());
+
+ gtag('config', 'UA-1734385-15');
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Melendez v. United States, 117 S. Ct. 383, 136 L. Ed. 2d 301 (1996). 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ LII 
+ 
+ Supreme Court 
+ 
+ 
+
+
+ 
+ 
+ 
+ (95-5661), 
+ Other [ Breyer ] Concurrence [ Souter ] Syllabus Concurrence [ Stevens ] Opinion [ Thomas ] HTML version WordPerfect version HTML version WordPerfect version HTML version WordPerfect version HTML version WordPerfect version HTML version WordPerfect version 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ No. 95-5661 
+ 
+ 
+ JUAN MELENDEZ, PETITIONER v. UNITED
+ STATES 
+ 
+ 
+ on writ of certiorari to the united states court of appeals for the
+ third circuit
+ 
+ 
+ [ June 17, 1996 ]
+ 
+ 
+ Justice Souter 
+ , concurring.
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+

@@ -1,0 +1,85 @@
+[
+  {
+    "name": "Jaffee_CA7_1995",
+    "url": "https://openjurist.org/51/f3d/1346/jaffee-v-redmond",
+    "bytes": 489772,
+    "text_chars": 52025
+  },
+  {
+    "name": "Koon_CA9_1994",
+    "url": "https://openjurist.org/34/f3d/1416",
+    "bytes": 929939,
+    "text_chars": 174316
+  },
+  {
+    "name": "Rise_CA9_1995",
+    "url": "https://openjurist.org/59/f3d/1556/rise",
+    "bytes": 552717,
+    "text_chars": 61051
+  },
+  {
+    "name": "Egelhoff_Mont_1995",
+    "url": "https://app.midpage.ai/document/state-v-egelhoff-883627",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "name": "USSG_1992_Chapter5",
+    "url": "https://www.ussc.gov/sites/default/files/pdf/guidelines-manual/1992/manual-pdf/Chapter_5.pdf",
+    "bytes": 785348,
+    "text_chars": 109638
+  },
+  {
+    "name": "USSG_1992_Chapter4",
+    "url": "https://www.ussc.gov/sites/default/files/pdf/guidelines-manual/1992/manual-pdf/Chapter_4.pdf",
+    "bytes": 334598,
+    "text_chars": 50339
+  },
+  {
+    "name": "USSG_1992_Chapter1",
+    "url": "https://www.ussc.gov/sites/default/files/pdf/guidelines-manual/1992/manual-pdf/Chapter_1.pdf",
+    "bytes": 654576,
+    "text_chars": 111190
+  },
+  {
+    "name": "USSG_1992_AppendixB",
+    "url": "https://www.ussc.gov/sites/default/files/pdf/guidelines-manual/1992/manual-pdf/Appendix_B.pdf",
+    "bytes": 1165637,
+    "text_chars": 154130
+  },
+  {
+    "name": "ORS_1995_181",
+    "url": "https://archives.oregonlegislature.gov/ORS_Archives/1995-Chapter-181.htm",
+    "bytes": 387231,
+    "text_chars": 194263
+  },
+  {
+    "name": "ORS_1995_137",
+    "url": "https://archives.oregonlegislature.gov/ORS_Archives/1995-Chapter-137.htm",
+    "bytes": 409927,
+    "text_chars": 213416
+  },
+  {
+    "name": "FRE_501_1975_Stat1933",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1933.pdf",
+    "bytes": 44172,
+    "text_chars": 1501
+  },
+  {
+    "name": "COMPARATOR_ONLY_Jaffee_SC_1996",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep518/usrep518001/usrep518001.pdf",
+    "bytes": 1225773,
+    "text_chars": 79410
+  },
+  {
+    "name": "COMPARATOR_ONLY_Egelhoff_SC_1996",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep518/usrep518037/usrep518037.pdf",
+    "bytes": 1492114,
+    "text_chars": 94428
+  },
+  {
+    "name": "COMPARATOR_ONLY_Koon_SC_1996",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep518/usrep518081/usrep518081.pdf",
+    "bytes": 1267009,
+    "text_chars": 82240
+  }
+]
