@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1994
-**Processed through:** June 29, 1995, after all 99 OT1994 inventory Court events and the two admitted source events.
-**Edition:** October 1, 2026
+**Last completed October Term:** 1995
+**Processed through:** July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events.
+**Edition:** October 7, 2026
 
 ## Maritime Law
 
@@ -50,7 +50,7 @@
 
 **Treatment of earlier authority:** McDermott International v. Wilander supplies the substantial employment-related connection to a vessel in navigation and contribution to its function without requiring traditional navigational duties. Swanson's separation of remedies and Tipton's rule that voluntary compensation does not conclusively determine status are applied unchanged. MCorp's express banking-review preclusion does not create administrative priority in this scheme.
 
-#### [Chandris, Inc. v. Latsis](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Chandris_Inc_v_Latsis_merits_1995-06-14.md)
+#### Chandris, Inc. v. Latsis
 
 **Docket or dockets:** No. 94-325.
 **Decided:** June 14, 1995.
@@ -99,7 +99,7 @@
 
 ### Maritime settlement credit and contribution
 
-#### [McDermott, Inc. v. AmClyde, 511 U.S. 202](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/McDermott_Inc_v_AmClyde_merits_1994-04-20.md)
+#### McDermott, Inc. v. AmClyde, 511 U.S. 202
 
 **Docket or dockets:** No. 92-1479.
 
@@ -131,7 +131,7 @@
 
 **Operative remedy or transition:** The Fifth Circuit's dollar-credit ruling as to River Don is reversed and the case remanded. Its 38 percent of $2.1 million is $798,000 before any resolution of the unpassed evidentiary alternative; payment is not ordered unconditionally. AmClyde's contractual protection, the settlement and the limit on recovery requested remain intact.
 
-#### [Boca Grande Club, Inc. v. Florida Power & Light Co., 511 U.S. 222](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Boca_Grande_Club_v_Florida_Power_Light_merits_1994-04-20.md)
+#### Boca Grande Club, Inc. v. Florida Power & Light Co., 511 U.S. 222
 
 **Docket or dockets:** No. 93-180.
 
@@ -155,7 +155,7 @@
 
 ### State maritime forums
 
-#### [American Dredging Co. v. Miller, 510 U.S. 443](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/American_Dredging_Co_v_Miller_merits_1994-02-23.md)
+#### American Dredging Co. v. Miller, 510 U.S. 443
 
 **Docket or dockets:** No. 91-1950.
 
@@ -189,7 +189,7 @@
 
 ### Vessel turnover warnings
 
-#### [Howlett v. Birkdale Shipping Co., S.A., 512 U.S. 92](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Howlett_v_Birkdale_Shipping_Co_SA_merits_1994-06-13.md)
+#### Howlett v. Birkdale Shipping Co., S.A., 512 U.S. 92
 
 **Docket or dockets:** No. 93-670.
 
@@ -224,7 +224,7 @@
 
 ### Vessel-caused land injury and mixed maritime activity
 
-#### [Jerome B. Grubart, Inc. v. Great Lakes Dredge & Dock Co. / City of Chicago v. Great Lakes Dredge & Dock Co.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Jerome_B_Grubart_Inc_v_Great_Lakes_Dredge_Dock_Co_merits_1995-02-22.md)
+#### Jerome B. Grubart, Inc. v. Great Lakes Dredge & Dock Co. / City of Chicago v. Great Lakes Dredge & Dock Co.
 
 **Docket or dockets:** Nos. 93-762; 93-1094.
 **Decided:** February 22, 1995.
@@ -257,7 +257,7 @@
 
 ### Cargo arbitration and nonwaivable carrier obligations
 
-#### [Vimar Seguros y Reaseguros, S.A. v. M/V Sky Reefer](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Vimar_Seguros_y_Reaseguros_SA_v_MV_Sky_Reefer_merits_1995-06-19.md)
+#### Vimar Seguros y Reaseguros, S.A. v. M/V Sky Reefer
 
 **Docket or dockets:** No. 94-623.
 **Decided:** June 19, 1995.
@@ -292,7 +292,7 @@
 
 ### Prejudgment interest and comparative fault
 
-#### [City of Milwaukee v. Cement Division, National Gypsum Co.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/City_of_Milwaukee_v_Cement_Division_National_Gypsum_Co_merits_1995-06-12.md)
+#### City of Milwaukee v. Cement Division, National Gypsum Co.
 
 **Docket or dockets:** No. 94-788.
 **Decided:** June 12, 1995.
@@ -308,3 +308,107 @@
 **Treatment of earlier authority:** The Scotland, 118 U.S. 507, is applied to compensatory equitable discretion, not unbounded fairness. United States v. Reliable Transfer Co., 421 U.S. 397, is applied to proportional collision fault and the avoidance of a second deduction for that same fault. McDermott and Boca Grande retain their separate maritime settlement/contribution rules; neither creates an interest exception.
 
 **Operative remedy or transition:** Affirm the calculation remand without disturbing the settled $1,677,541.86 principal paid in January 1992 or the two-thirds National Gypsum/one-third City fault allocation. The requested $5,317,807.70 is not an award. Rate, period, compounding, quantum and lawfully open distinct exceptional circumstances require determination.
+
+### Nonseafarer death in territorial waters
+
+#### Yamaha Motor Corp., U.S.A. v. Calhoun, 516 U.S. 199
+
+**Docket or dockets:** No. 94-1387.
+**Decided:** January 9, 1996.
+
+##### Continued availability of state death and survival remedies
+
+**Holding:** Moragne's federal maritime wrongful-death remedy does not itself displace otherwise available state wrongful-death and survival remedies for a nonseafarer killed in territorial waters where no applicable federal statute or controlling uniform maritime rule makes recovery exclusive. The rule covers persons outside Jones Act seaman and pertinent federal maritime-employment classes; it does not expand remedies in Congress's occupied seaman or high-seas fields.
+
+**Proposition-level authority:** O'Connor's Part II and decree, unanimous.
+
+**Material application:** The child killed in Puerto Rico's territorial waters was neither a seaman nor a covered longshore worker. General uniformity concerns do not extend a federal compensation regime beyond its coverage conditions.
+
+**Limits and questions not reached:** The Court assumes rather than decides Moragne's extension to this nonseafarer and inclusion of survival. It selects neither Pennsylvania nor Puerto Rico law and determines no damages category, amount, liability standard, defect, negligence, causation or punitive liability. State labeling does not make substantive damages procedural or authorize alteration of characteristic maritime rights generally.
+
+**Operative remedy or transition:** Affirm the Third Circuit's rejection of displacement, leaving its partial-summary-judgment dispositions and remand operative; no award is made. The §1292(b) scope holding is under Federal Courts, Yamaha, January 9, 1996, No. 94-1387.
+
+**Treatment of earlier authority:** Moragne adds a federal remedy without automatic exclusivity. Miles remains tied to Congress's seaman-remedy choices; Offshore Logistics protects DOHSA's exclusive high-seas field. American Dredging's state-forum practice holding is distinct and does not itself validate substantive state damages.
+
+### High-seas deaths in international aviation
+
+#### Zicherman v. Korean Air Lines Co., Ltd.; Korean Air Lines Co., Ltd. v. Zicherman, 516 U.S. 217
+
+**Docket or dockets:** Nos. 94-1361 and 94-1477.
+
+**Decided:** January 16, 1996.
+
+##### The Convention leaves compensable loss to applicable domestic law
+
+**Holding:** The Warsaw Convention's reference to damage does not supply an independent, comprehensive code identifying every compensable loss or beneficiary. Domestic law supplies those matters, subject to the Convention's own conditions and limits; the parties' accepted use of United States law permits decision here without choosing a general international conflicts rule.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor), unanimous.
+
+**Limits and questions not reached:** No general international choice-of-law rule or determination of Convention exclusivity in every setting is announced. Removing a Convention liability cap does not create a category of loss excluded by applicable domestic law.
+
+**Treatment of earlier authority:** Saks and Floyd are applied for treaty interpretation bounded by the Convention's actual conditions; neither supplies a general damages code.
+
+##### DOHSA excludes loss-of-society damages for both relatives
+
+**Holding:** When United States law governs damages for a death on the high seas beyond a marine league from a United States shore, within the Death on the High Seas Act's geographical field, the Act's restriction to pecuniary loss excludes loss-of-society recovery. Dependency cannot revive that excluded category, and general maritime law cannot supplement the Act to permit it.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor), unanimous.
+
+**Limits and questions not reached:** Other properly preserved damages remain undisturbed. The Court decides no general dependency rule, survival claim, predeath suffering claim, mental-distress claim, beneficiary-standing issue or jury-trial issue.
+
+**Operative remedy or transition:** Affirm exclusion of the mother's loss-of-society claim; reverse the sister's dependency-based remand. Remand for a conforming damages judgment, without vacating carrier liability or unrelated award components.
+
+**Treatment of earlier authority:** Higginbotham and Offshore Logistics govern the statutory exclusion; Miles and Yamaha preserve its field. Gaudet is distinguished by its territorial setting, and American Dredging by its procedural subject.
+
+### Superseding cause and contractual causation
+
+#### Exxon Co., U.S.A. v. Sofec, Inc., 517 U.S. 830
+
+**Docket or dockets:** No. 95-129.
+**Decided:** June 10, 1996.
+
+##### Review of the concurrent causal determination
+
+**Holding:** Governing legal rules receive independent review, with historical findings protected by Rule 52. Application of proximate and superseding cause to found circumstances ordinarily belongs to the factfinder subject to limited review; concurrent lower-court findings are not disturbed without the very obvious and exceptional showing of error required by *Graver Tank*. Exxon has not made that showing.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), Part I, unanimous.
+
+**Material application:** The continuing hose concern creates a genuine tension with the finding that safety had been restored. The Court acknowledges it while leaving undisturbed findings concerning the safe position, available time and personnel, missing position fixes, final turn, and the independent, unforeseeable character of the navigation. Leaving the causal conclusion undisturbed does not necessarily ratify every aspect of its application.
+
+**Limits and questions not reached:** No fresh appellate navigation calculation, independently sufficient appellate causation determination, or separate waiver ground is adopted. Limited review does not immunize legal error or establish a universal mixed-question standard.
+
+**Treatment of earlier authority:** *Graver Tank* supplies restrained review of concurrent findings. *Ornelas*'s particular Fourth Amendment allocation does not establish universal independent review of mixed questions.
+
+##### Superseding cause after adoption of comparative maritime fault
+
+**Holding:** Comparative maritime fault apportions loss among actors who legally caused it; a later independent and unforeseeable cause may supersede an earlier factual contribution. A plaintiff whose own conduct is the superseding and sole proximate cause cannot recover part of the loss merely because other blameworthy conduct contributed to the sequence in fact. Relative severity of negligence alone does not establish supersession.
+
+**Proposition-level authority:** Parts II–III of the same unanimous Court opinion.
+
+**Material application:** The undisturbed determination that Exxon's navigation alone proximately caused stranding leaves no stranding loss for comparative allocation. Phase one assumed respondents' factual contribution and relieved Exxon of proving breakout fault or strict liability; it establishes neither each respondent's breach nor blamelessness, corporate duty, or share. The continuing peril and within-the-original-risk objection remains considered under limited review, rather than rejected through a new factual finding.
+
+**Limits and questions not reached:** Ordinary foreseeable attempts to escape danger are not automatically superseding, and grounding is not categorically unforeseeable after mooring failure. Whether allocation should reflect culpability alone or relative causal contribution as well is reserved.
+
+**Treatment of earlier authority:** *Reliable Transfer* replaced automatic equal division with proportionate allocation where multiple parties legally contribute; equal division remains where fault is equal or cannot fairly be measured. It did not abolish causation or restore the major-minor shortcut. *McDermott* and *Boca Grande* require reliable allocation within unchanged settlement-credit and contribution rules after liability exists. *City of Milwaukee*'s prejudgment-interest rule presupposes compensable loss.
+
+##### Independent contractual causation for the submitted warranties
+
+**Holding:** Safe-berth and workmanlike-service duties may exceed negligence, but recovery still requires legal causation of the claimed loss. Assuming the stricter submitted undertaking and relevant breach, the undisturbed finding that Exxon's navigation alone proximately caused stranding defeats those warranty damages without deciding strict warranty versus due diligence.
+
+**Proposition-level authority:** Part IV of the same unanimous Court opinion.
+
+**Material application:** The promise covers safe approach, departure, and lying afloat, with a single-point-mooring amendment; its public-channel, fairway, approach, anchorage, and other publicly maintained-area exclusion supplies no alternate ground because no finding places grounding within it. Exxon's due-diligence concession does not concede performance of a stricter promise. Duties continued after breakout, and an earlier superseding force does not by itself excuse a later breach; the later-breach theory fails here under the separately examined causal requirement.
+
+**Limits and questions not reached:** The Court does not equate contractual and tort causation universally, decide wholesale avoidability of every stranding-loss item, create automatic forfeiture for ordinary promisee negligence, or require proportional mitigation universally. Separate Exhibit 92's service-personnel imputation and indemnity provisions, their qualified interaction with safe-berth duties, individual corporate responsibility, and any materially different express allocation of later losses remain undecided. No unquoted insurance promise or exclusion is invented.
+
+**Treatment of earlier authority:** *Italia Societa* preserves warranty liability for nonnegligently supplied defective equipment without eliminating legal causation. *East River* distinguishes promised performance from recoverable contractual loss without making contract causation categorically identical to or always stricter than tort causation.
+
+##### Separate causation inquiry and the stranding-only judgment
+
+**Holding:** Comparative fault does not invariably require determination of every party's relative fault before adjudication of a genuinely superseding cause. The phase-one assumptions permit that antecedent inquiry here, without deciding a separate abuse-of-discretion or due-process attack on this bifurcation.
+
+**Proposition-level authority:** Part V of the same unanimous Court opinion.
+
+**Operative remedy or transition:** Affirm the Rule 54(b) stranding judgment on both tort and warranty components, each 9–0. No apportionment, contract-construction remand, hearing, damages amount, contribution order, or individual corporate-liability determination is directed. Untried breakout oil-spill claims are not disposed of.
+
+**Treatment of earlier authority:** Rules 14.1(a) and 24.1(a) confine the submitted questions. *Yamaha*'s certified-order scope and *Quackenbush*'s appealability and abstention rules neither enlarge this certiorari review nor guarantee contractual recovery; Exxon’s evidence-sufficiency objection to the submitted issues remains considered.

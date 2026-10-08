@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1994
-**Processed through:** June 29, 1995, after all 99 OT1994 inventory Court events and the two admitted source events.
-**Edition:** October 1, 2026
+**Last completed October Term:** 1995
+**Processed through:** July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events.
+**Edition:** October 7, 2026
 
 ## Antitrust
 
@@ -270,3 +270,29 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 - Société Nationale Industrielle Aérospatiale, 482 U.S. 522: actual foreign/domestic conflict considered; Blackmun’s separate analysis identified as not the whole Court’s holding.
 - Charming Betsy, 2 Cranch 64: interpretive canon retained; does not require the asserted dismissal here.
 - Aramco, 499 U.S. 244, and Sale, June 21, 1993: source-specific geographic scope preserved; different statutes do not erase established Sherman Act reach.
+
+### Nonstatutory labor exemption
+
+#### Brown v. Pro Football, Inc., 518 U.S. 231 (1996)
+
+**Docket or dockets:** No. 95-388.
+**Decided:** June 20, 1996.
+
+##### Whether joint implementation of the last wage proposal after bargaining impasse remains exempt
+
+**Holding:** The nonstatutory labor exemption protects members of an existing consensual multiemployer bargaining group when they jointly implement their last lawful wage proposal during or immediately after bona fide bargaining reaches impasse, the conduct directly arises from that bargaining, and it concerns mandatory employment terms and the bargaining participants. Contract expiration, impasse and the union's rejection of the particular proposed wage do not by themselves end that protection; it does not cover product-market collusion, agreements with nonlabor parties, sham bargaining, or restraints remote in time or purpose from the labor relationship.
+
+**Proposition-level authority:** Breyer’s opinion of the Court; eight Justices, all except Stevens.
+
+**Material application:** The clubs implemented the last lawful developmental-player wage proposal within a genuine continuing consensual multiemployer relationship. The exemption concerns this bargaining process, not the wage’s desirability or the industry’s identity.
+
+**Limits and questions not reached:** The precise later point at which conduct becomes detached from bargaining is left open. No single-actor antitrust status, labor-law violation, sports exemption or comprehensive labor-market immunity is established.
+
+**Operative remedy or transition:** Affirmed, 8–1. The exemption defeats this antitrust recovery; no reinstatement of the trial damages, injunction or fee award.
+
+**Treatment of earlier authority:**
+
+- **Jewel Tea, 381 U.S. 676:** Applied for the exemption's collective-bargaining foundation, preserving the distinction between White's and Goldberg's different explanations rather than treating either as a six-Justice rationale.
+- **Connell, 421 U.S. 616:** Applied for the accommodation of labor and antitrust law; its refusal to exempt exclusion of unrelated subcontractors from the product market remains in force and marks the boundary against restraints on outsiders.
+- **Bonanno, 454 U.S. 404:** Applied for the proposition that impasse alone does not dissolve consensual multiemployer bargaining; the precise later endpoint of this exemption remains undecided.
+- **Buffalo Linen, 353 U.S. 87:** Applied for the recognized legitimacy of coordinated employer bargaining responses within the statutory labor relationship; it does not create immunity for every employer agreement.

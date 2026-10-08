@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1994
-**Processed through:** June 29, 1995, after all 99 OT1994 inventory Court events and the two admitted source events.
-**Edition:** October 1, 2026
+**Last completed October Term:** 1995
+**Processed through:** July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events.
+**Edition:** October 7, 2026
 
 ## Administrative Law
 
@@ -551,7 +551,7 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 ### Filed tariffs and cancellation
 
-#### [Security Services, Inc. v. Kmart Corp., 511 U.S. 431](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Security_Services_v_Kmart_merits_1994-05-16.md)
+#### Security Services, Inc. v. Kmart Corp., 511 U.S. 431
 
 **Docket or dockets:** No. 93-284.
 
@@ -578,7 +578,7 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 ### Freedom of information and employee privacy
 
-#### [Department of Defense v. Federal Labor Relations Authority, 510 U.S. 487](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Department_of_Defense_v_FLRA_merits_1994-02-23.md)
+#### Department of Defense v. Federal Labor Relations Authority, 510 U.S. 487
 
 **Docket or dockets:** No. 92-1223.
 
@@ -616,7 +616,7 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 ### Insured employee-benefit assets
 
-#### [John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank, 510 U.S. 86](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/John_Hancock_Mutual_Life_Insurance_Co_v_Harris_Trust_Savings_Bank_merits_1993-12-13.md)
+#### John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank, 510 U.S. 86
 
 **Docket or dockets:** No. 92-1074.
 
@@ -640,7 +640,7 @@ For the other questions in John Hancock Mutual Life Insurance Co. v. Harris Trus
 
 ### Resource-recovery ash and statutory exclusions
 
-#### [City of Chicago v. Environmental Defense Fund, 511 U.S. 328](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/City_of_Chicago_v_Environmental_Defense_Fund_merits_1994-05-02.md)
+#### City of Chicago v. Environmental Defense Fund, 511 U.S. 328
 
 **Docket or dockets:** No. 92-1639.
 
@@ -666,7 +666,7 @@ For the other questions in City of Chicago v. Environmental Defense Fund, 1994-0
 
 ### Statutory review channels
 
-#### [Thunder Basin Coal Co. v. Reich, 510 U.S. 200](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Thunder_Basin_Coal_Co_v_Reich_merits_1994-01-19.md)
+#### Thunder Basin Coal Co. v. Reich, 510 U.S. 200
 
 **Docket or dockets:** No. 92-896.
 
@@ -703,7 +703,7 @@ For the other questions in City of Chicago v. Environmental Defense Fund, 1994-0
 
 **Operative remedy or transition:** The Tenth Circuit's jurisdictional judgment is affirmed; the district-court injunction remains unavailable. The representation/posting challenge must use the authorized Commission and appellate process. No labor-law merits determination, penalty assessment, guaranteed stay or new administrative outcome is ordered.
 
-#### [Dalton v. Specter, 511 U.S. 462](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Dalton_v_Specter_merits_1994-05-23.md)
+#### Dalton v. Specter, 511 U.S. 462
 
 **Docket or dockets:** No. 93-289.
 
@@ -730,7 +730,7 @@ For the other questions in City of Chicago v. Environmental Defense Fund, 1994-0
 
 ### Administrative burdens of persuasion
 
-#### [Director, Office of Workers’ Compensation Programs v. Greenwich Collieries, 512 U.S. 267](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Director_Office_of_Workers_Compensation_Programs_v_Greenwich_Collieries_merits_1994-06-20.md)
+#### Director, Office of Workers’ Compensation Programs v. Greenwich Collieries, 512 U.S. 267
 
 **Docket or dockets:** No. 93-744, including Maher Terminals under Rule 12.2.
 
@@ -783,7 +783,7 @@ Section 718.3(c) expresses the policy of giving claimants the benefit of all rea
 
 ### Medicare educational-cost redistribution
 
-#### [Thomas Jefferson University v. Shalala, 512 U.S. 504](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Thomas_Jefferson_University_v_Shalala_merits_1994-06-24.md)
+#### Thomas Jefferson University v. Shalala, 512 U.S. 504
 
 **Docket or dockets:** No. 93-120.
 
@@ -832,7 +832,7 @@ Section 413.17(a), subject to the separate exception in paragraph (d), includes 
 
 ### Tariff-filing modification authority
 
-#### [MCI Telecommunications Corp. v. American Telephone & Telegraph Co., 512 U.S. 218](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/MCI_Telecommunications_Corp_v_AT_and_T_merits_1994-06-17.md)
+#### MCI Telecommunications Corp. v. American Telephone & Telegraph Co., 512 U.S. 218
 
 **Docket or dockets:** Nos. 93-356 and 93-521.
 
@@ -863,7 +863,7 @@ Section 413.17(a), subject to the separate exception in paragraph (d), includes 
 
 ### AFDC assistance units and income attribution
 
-#### [Anderson v. Edwards](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Anderson_v_Edwards_merits_1995-03-22.md)
+#### Anderson v. Edwards
 
 **Docket or dockets:** No. 93-1883.
 **Decided:** March 22, 1995.
@@ -956,7 +956,7 @@ Section 233.20(a)(1)(i) independently requires objective and equitable determina
 
 ### Emergency hospital treatment and transfer
 
-#### [In re Baby K](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/In_re_Baby_K_merits_1994-12-12.md)
+#### In re Baby K
 
 **Docket or dockets:** No. 93-1673.
 **Decided:** December 12, 1994.
@@ -1019,7 +1019,7 @@ Section 233.20(a)(1)(i) independently requires objective and equitable determina
 
 ### Filed rates and public credit-rule enforcement
 
-#### [Interstate Commerce Commission v. Transcon Lines, 513 U.S. 138](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Interstate_Commerce_Commission_v_Transcon_Lines_merits_1995-01-10.md)
+#### Interstate Commerce Commission v. Transcon Lines, 513 U.S. 138
 
 **Docket or dockets:** No. 93-1318.
 **Decided:** January 10, 1995.
@@ -1072,7 +1072,7 @@ Section 1320.2(g)(1) permits reasonable, certain collection-expense liquidated d
 
 ### Medicare refinancing costs and interpretive rules
 
-#### [Shalala v. Guernsey Memorial Hospital](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Shalala_v_Guernsey_Memorial_Hospital_merits_1995-03-06.md)
+#### Shalala v. Guernsey Memorial Hospital
 
 **Docket or dockets:** No. 93-1251.
 **Decided:** March 6, 1995.
@@ -1113,7 +1113,7 @@ The Manual lacks regulatory force. APA §553(b)(A)’s interpretive-rule exempti
 
 ### Vaccine Table onset and compensation burdens
 
-#### [Shalala v. Whitecotton](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Shalala_v_Whitecotton_merits_1995-04-18.md)
+#### Shalala v. Whitecotton
 
 **Docket or dockets:** No. 94-372.
 **Decided:** April 18, 1995.
@@ -1146,7 +1146,7 @@ The Manual lacks regulatory force. APA §553(b)(A)’s interpretive-rule exempti
 
 ### Veterans benefits and medical causation
 
-#### [Brown v. Gardner](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Brown_v_Gardner_merits_1994-12-12.md)
+#### Brown v. Gardner
 
 **Docket or dockets:** No. 93-1128.
 **Decided:** December 12, 1994.
@@ -1166,3 +1166,62 @@ The Manual lacks regulatory force. APA §553(b)(A)’s interpretive-rule exempti
 **Limits and questions not reached:** The natural-progress provision is left undisturbed. No complete rule governing consent or necessary consequences is adopted. The separate FTCA coordination sentence remains: for a qualifying judgment under 28 U.S.C. §1346(b), or settlement or compromise under §§2672 or 2677, on or after December 1, 1962, for a disability, aggravation, or death treated as service connected under §1151, benefits for months after finality are withheld until the aggregate otherwise payable equals the total recovery. That is a coordination rule, not a provider-fault requirement; no qualifying recovery is found here.
 
 **Operative remedy or transition:** The Federal Circuit is affirmed. Administrative redetermination must proceed without the invalid fault-or-accident prerequisite, with causation, additional disability and the remaining statutory conditions preserved; benefits are not automatically awarded.
+
+### Agency interpretation, policy change and antecedent transactions
+
+#### Smiley v. Citibank (South Dakota), N.A., 517 U.S. 735
+
+**Docket or dockets:** 95-860
+**Decided:** June 3, 1996
+
+##### Does interpretive change or a rule's development during litigation categorically defeat deference?
+
+**Holding:** A lawful, adequately explained interpretation within delegated statutory ambiguity does not lose eligibility for deference merely because it changes or addresses an old statute during litigation. Unexplained reversal or disregard of legitimate reliance may be arbitrary and capricious; the holding independently rejects the categorical inconsistency objection without approving every change.
+
+**Proposition-level authority:** Opinion of the Court (Souter), Part III-A, joined by Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer; eight-Justice controlling majority. Stone-Zsela joins the judgment and Parts I, II, IV and VI but does not join Parts III-A, III-B or V. Parts III-A and III-B are independently sufficient answers to the asserted prior-policy barrier; they are not combined into a narrower rationale.
+
+**Controlling explanation:** Good Samaritan permits reasoned change within lawful authority while requiring statutory fit, adequate explanation and attention to legitimate reliance. Neither statutory age nor litigation impetus supplies a categorical exclusion. The OCC formally proposed its interpretation on March 3, 1995, received 112 comment letters, and explained its response and grounds in the final rule published February 9, 1996. That process differs from a position invented by litigation counsel. The Court relies on the agency's stated clarification of uncertainty, not a judicially invented economic or reliance finding.
+
+**Limits and questions not reached:** Those procedural facts do not certify compliance with every rulemaking statute. Permission to change an interpretation does not itself authorize retrospective alteration of completed conduct's legal consequences.
+
+**Treatment of earlier authority:** Good Samaritan permits explained interpretive change while retaining authority, statutory-fit and reliance limits. Bowen continues to reject automatic weight for unsupported litigation rationales.
+
+##### Did the earlier letters establish clear official guidance contrary to this rule?
+
+**Holding:** Independently, the identified 1964 and 1988 letters did not establish clear, settled official guidance contrary to the current interpretation; their existence does not itself make the formal rule an unexplained reversal of a binding prior position. This is a second independently sufficient answer to the claimed prior-policy obstacle.
+
+**Proposition-level authority:** Opinion of the Court (Souter), Part III-B, joined by the same seven other Associate Justices; eight-Justice majority. Stone-Zsela does not join this part.
+
+**Controlling explanation:** The 1964 informal automobile-financing statement listed late charges as noninterest items, while the 1988 deputy-counsel response used a home-state-definition approach. Their authority and context differ, and they conflict on whether federal or state law defines the category. They therefore do not establish the clear prior interpretation asserted. The formal rule's explanation that it resolves uncertainty supplies its own reason for a federal definition. Good Samaritan requires attention to agency reasons without treating every informal formulation as binding; Bowen's rejection of unsupported litigation positions does not erase the separately published rule's own explanation.
+
+**Limits and questions not reached:** This conclusion concerns these documents' legal force, not a factual finding about any borrower's actual reliance or a general rule that informal agency materials never matter.
+
+**Treatment of earlier authority:** Good Samaritan's reason-giving requirement remains; Bowen's bar against unsupported litigation rationales is distinguished from the independently explained formal interpretation.
+
+##### May a court use the current authoritative interpretation for these antecedent transactions?
+
+**Holding:** In determining statutory meaning for antecedent transactions that lacked clear prior agency guidance, a court may use the current authoritative interpretation without backdating the rule's effective date. The materially different case of a later interpretation displacing clear earlier guidance remains reserved.
+
+**Proposition-level authority:** Opinion of the Court (Souter), Part V, joined by the same seven other Associate Justices; eight-Justice majority. Stone-Zsela does not join this part.
+
+**Controlling explanation:** The issue is what section 85 means for these transactions. Part III-B establishes that the cited letters supplied no clear contrary guidance; Part III-A's general allowance for reasoned change would not alone establish retrospective permissibility. Bowen bars unauthorized retroactive legislative rulemaking but does not require a court to disregard current authoritative statutory interpretation in these circumstances. An objection based on displacement of a clear prior interpretation could have substance and is not decided.
+
+**Limits and questions not reached:** The April 1, 1996 effective date remains unchanged. The rule has no special transition or retroactivity clause; no settled judgment is reopened, no actual-reliance finding is made, and no waiver or preservation ruling resolves the objection. The Court gives no universal permission to alter completed conduct's legal consequences.
+
+**Treatment of earlier authority:** Bowen's prohibition of unauthorized retroactive legislative rulemaking remains; qualified judicial use of current statutory interpretation without clear prior guidance is distinguished.
+
+##### Does merits deference resolve independent section 43 procedure objections?
+
+**Holding:** Deference to the substantive statutory interpretation does not excuse an established procedural violation or adjudicate every independent rule-validity challenge. Section 43's coverage, advance procedure, final-publication duty and differently scoped exceptions remain operative, without a finding of applicability, compliance, violation, preservation or an exception here.
+
+**Proposition-level authority:** Opinion of the Court (Souter), Part VI, joined by all eight other Justices; unanimous controlling qualification.
+
+**Controlling explanation:** Section 43 covers agency opinion letters or interpretive rules, issued on request or on the agency's initiative, concluding that federal law preempts application to a national bank of state community-reinvestment, consumer-protection, fair-lending or intrastate-branch law, and the specified section 36(f)(1)(A)(ii) determinations. Subsection (a) requires advance Federal Register notice describing the issues and each state law, at least thirty days for written comment, and consideration of comments received. Subsection (b) separately requires publication of the specified final action.
+
+Subsection (c)(1) exempts the entire section where essentially identical preemption issues were previously resolved by courts or addressed in an agency opinion or interpretive rule, or where a response concerns a request with no significant legal basis for a preemption determination. Subsection (c)(2) exempts the entire section for materials prepared for judicial proceedings, submission to Congress or a Member, or intragovernmental use. Subsection (c)(3) exempts only advance subsection (a) procedure: it requires a written necessity determination to avoid a serious and imminent threat to a national bank's safety and soundness, or concerns an opinion or rule connected to acquisition of banks in statutory default or danger of default, or an acquisition receiving FDIC assistance under section 1823(c). Final publication remains required under that exception.
+
+Institutional default requires official custodial appointment. Danger of default requires the specified agency advice or determination of inability to meet demands or obligations, or depletion of substantially all capital, with no reasonable prospect of recovery without federal assistance. Borrower delinquency supplies none of these institutional conditions. Published proposals and received comments do not prove every statutory requirement; interpretive form, later use in litigation, section 93a authority and lack of clear prior guidance prove neither exemption nor compliance. Distinguishing substantive classification from its preemptive consequence does not categorically remove section 43.
+
+**Limits and questions not reached:** No independently dispositive procedural defect is established; missing documentary proof creates no presumption for either party or alternative disposition. The Court does not decide every paragraph of the rule or every potential procedural challenge.
+
+**Operative remedy or transition:** The California judgment is affirmed, 9-0, without agency or evidentiary remand, a special transition rule or newly ordered agency action. The confined section 85 classification and state-law displacement appear under Business and Commercial Law, National-bank interest classification and interstate permission.

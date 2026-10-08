@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1994
-**Processed through:** June 29, 1995, after all 99 OT1994 inventory Court events and the two admitted source events.
-**Edition:** October 1, 2026
+**Last completed October Term:** 1995
+**Processed through:** July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events.
+**Edition:** October 7, 2026
 
 ## Constitutional Structure
 
@@ -32,7 +32,7 @@
 - TVA v. Hill, 437 U.S. 153 — distinguished: the amendment here is express rather than an inferred repeal.
 - NLRB v. Jones & Laughlin Steel Corp., 301 U.S. 1 — preserved: a possible constitutionally valid construction reinforces, but does not replace, the enacted meaning.
 
-**Later-authority backlinks:** [Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., 511 U.S. 658](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md), No. 93-609, decided May 23, 1994: resolves the reserved final-judgment question only for §27A(b)'s compelled reopening of the completed private dismissal. Robertson's pending-litigation holding remains unchanged.
+**Later-authority backlinks:** Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., 511 U.S. 658, No. 93-609, decided May 23, 1994: resolves the reserved final-judgment question only for §27A(b)'s compelled reopening of the completed private dismissal. Robertson's pending-litigation holding remains unchanged.
 
 ### Federal and state submerged-land boundaries
 
@@ -63,6 +63,34 @@ For the other questions in *United States v. Alaska*, April 21, 1992, No. 118, O
 - Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837 (1984) — applied within the actual statutory delegation and controlling boundary precedent; its general validity and scope are not reconsidered.
 - Lechmere, Inc. v. NLRB, January 27, 1992 — preserved: agency construction does not displace a binding judicial construction.
 - Arkansas v. Oklahoma, February 26, 1992 — preserved: agency permit conditions must rest on the authority and regulations governing that particular scheme; its Clean Water Act holding supplies no independent §10 power.
+
+#### United States v. Maine et al. (Massachusetts Boundary Case), 516 U.S. 365
+
+**Docket or dockets:** No. 35, Original.
+
+**Decided:** February 26, 1996.
+
+##### The operative Massachusetts coastline under the supplemental decree
+
+**Holding:** For purposes of the October 6, 1975 decree, the whole of Vineyard Sound is state inland waters; Nantucket Sound is territorial seas and high seas except the interior indentations described in paragraphs 2(c), (d) and (e). The five straight closing lines below implement that classification; each endpoint coordinate is approximate.
+
+**Proposition-level authority:** The Court's unsigned supplemental decree; no numerical vote or individual join lineup is disclosed. Souter does not participate.
+
+**Material application:**
+
+| Paragraph | First endpoint | Second endpoint |
+|---|---|---|
+| 2(a) | A point on Gay Head on Martha's Vineyard: approximately 41°21′10″N, 70°50′07″W | The southwestern point of Cuttyhunk Island: approximately 41°24′39″N, 70°56′34″W |
+| 2(b) | A point on East Chop: approximately 41°28′15″N, 70°34′05″W | A point on Cape Cod: approximately 41°33′10″N, 70°29′30″W |
+| 2(c) | A point southeast of East Chop: approximately 41°27′30″N, 70°33′18″W | A point west of Cape Pogue on the island of Martha's Vineyard: approximately 41°25′06″N, 70°27′56″W |
+| 2(d) | A point on Point Gammon on Cape Cod: approximately 41°36′36″N, 70°15′40″W | The southwestern-most point of Monomoy Island: approximately 41°33′02″N, 70°00′59″W |
+| 2(e) | A point on the west coast of Great Island: approximately 41°37′08″N, 70°16′15″W | A point on Hyannis Point on Cape Cod: approximately 41°37′27″N, 70°17′34″W |
+
+**Limits and questions not reached:** No renewed historic-waters claim, general ancient-title proof rule, exact survey, other State's boundary or unrelated private ownership is decided.
+
+**Operative remedy or transition:** The Court retains jurisdiction to entertain further proceedings, enter orders and issue writs as necessary or advisable to effectuate and supplement the decree and the parties' rights.
+
+**Treatment of earlier authority:** The October 6, 1975 decree, 423 U.S. 1, is supplemented under retained jurisdiction. The February 25, 1986 Massachusetts boundary decision, 475 U.S. 89, is implemented without reopening its classifications.
 
 ### Federal incentives and compulsory state administration
 
@@ -469,7 +497,7 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 - New Energy Co. of Indiana v. Limbach, 486 U.S. 269 — applied; reasonable nondiscriminatory alternatives defeat the asserted necessity.
 - Maine v. Taylor, 477 U.S. 131 — distinguished; demonstrated necessity absent here.
 
-#### [West Lynn Creamery, Inc. v. Healy, 512 U.S. 186](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/West_Lynn_Creamery_v_Healy_Merits_1994-06-17.md)
+#### West Lynn Creamery, Inc. v. Healy, 512 U.S. 186
 
 **Docket or dockets:** No. 93-141.
 
@@ -738,7 +766,7 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Operative remedy or transition:** Affirm rejection of the treaty, preemption and constitutional challenges to this nondiscriminatory Tennessee lease tax. The constitutional analyses retain the distinct proposition coalitions stated above.
 
-#### [Barclays Bank PLC v. Franchise Tax Board of California, 512 U.S. 298](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Barclays_Bank_PLC_v_Franchise_Tax_Board_of_California_merits_1994-06-20.md)
+#### Barclays Bank PLC v. Franchise Tax Board of California, 512 U.S. 298
 
 **Docket or dockets:** Nos. 92-1384 and 92-1839 (Colgate-Palmolive included within this entry).
 
@@ -868,7 +896,7 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 ### Airport fees and review boundaries
 
-#### [Northwest Airlines, Inc. v. County of Kent, 510 U.S. 355](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Northwest_Airlines_Inc_v_County_of_Kent_merits_1994-01-24.md)
+#### Northwest Airlines, Inc. v. County of Kent, 510 U.S. 355
 
 **Docket or dockets:** No. 92-97.
 
@@ -928,7 +956,7 @@ For the other questions in Northwest Airlines, Inc. v. County of Kent, 1994-01-2
 
 ### Compensatory state and local taxes
 
-#### [Associated Industries of Missouri v. Lohman, 511 U.S. 641](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Associated_Industries_of_Missouri_v_Lohman_merits_1994-05-23.md)
+#### Associated Industries of Missouri v. Lohman, 511 U.S. 641
 
 **Docket or dockets:** No. 93-397.
 
@@ -967,7 +995,7 @@ For the other questions in Northwest Airlines, Inc. v. County of Kent, 1994-01-2
 
 ### Interstate waste commerce
 
-#### [Oregon Waste Systems, Inc. v. Department of Environmental Quality and Columbia Resource Co. v. Environmental Quality Commission, 511 U.S. 93](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Oregon_Waste_Systems_Inc_v_Department_of_Environmental_Quality_merits_1994-04-04.md)
+#### Oregon Waste Systems, Inc. v. Department of Environmental Quality and Columbia Resource Co. v. Environmental Quality Commission, 511 U.S. 93
 
 **Docket or dockets:** Nos. 93-70 and 93-108.
 
@@ -1017,7 +1045,7 @@ For the other questions in Northwest Airlines, Inc. v. County of Kent, 1994-01-2
 
 **Operative remedy or transition:** Both matters are reversed and remanded for relief from the origin differential through the existing state review proceeding. No replacement rate, refund entitlement or amount, alteration of the separately unchallenged charge, required waste shipment or reinstatement of severed state-law provisions is ordered.
 
-#### [C & A Carbone, Inc. v. Town of Clarkstown, 511 U.S. 383](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/C_A_Carbone_Inc_v_Town_of_Clarkstown_merits_1994-05-16.md)
+#### C & A Carbone, Inc. v. Town of Clarkstown, 511 U.S. 383
 
 **Docket or dockets:** No. 92-1402.
 
@@ -1056,7 +1084,7 @@ For the other questions in Northwest Airlines, Inc. v. County of Kent, 1994-01-2
 
 ### Legislative reopening of final judgments
 
-#### [Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., 511 U.S. 658](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md)
+#### Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., 511 U.S. 658
 
 **Docket or dockets:** No. 93-609.
 
@@ -1083,7 +1111,7 @@ For the other questions in Northwest Airlines, Inc. v. County of Kent, 1994-01-2
 
 **Operative remedy or transition:** The Fifth Circuit is reversed, 5–3, and the matter remanded with directions to deny §27A(b) reinstatement. The completed August 1991 dismissal remains undisturbed. O'Connor does not participate; no fraud findings or damages trial is ordered.
 
-#### [Plaut v. Spendthrift Farm, Inc.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md)
+#### Plaut v. Spendthrift Farm, Inc.
 
 **Docket or dockets:** No. 93-1121.
 **Decided:** April 18, 1995.
@@ -1110,7 +1138,7 @@ For the other questions in Northwest Airlines, Inc. v. County of Kent, 1994-01-2
 
 ### Military judicial appointments and impartiality
 
-#### [Weiss v. United States, 510 U.S. 163](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Weiss_v_United_States_merits_1994-01-19.md)
+#### Weiss v. United States, 510 U.S. 163
 
 **Docket or dockets:** No. 92-1482, including Hernandez under Supreme Court Rule 12.2.
 
@@ -1134,7 +1162,7 @@ For the other questions in Weiss v. United States, 1994-01-19, No. 92-1482, incl
 
 **Operative remedy or transition:** Both Court of Military Appeals judgments, including Hernandez under Rule 12.2, are affirmed on the appointment and fixed-tenure objections. No second appointment, fixed term or retrial is ordered.
 
-#### [Ryder v. United States](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Ryder_v_United_States_merits_1995-06-12.md)
+#### Ryder v. United States
 
 **Docket or dockets:** No. 94-431.
 **Decided:** June 12, 1995.
@@ -1155,7 +1183,7 @@ For the other questions in Ryder v. United States, decided June 12, 1995, No. 94
 
 ### Airline preemption and voluntary contracts
 
-#### [American Airlines, Inc. v. Wolens](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/American_Airlines_Inc_v_Wolens_merits_1995-01-18.md)
+#### American Airlines, Inc. v. Wolens
 
 **Docket or dockets:** No. 93-1286.
 **Decided:** January 18, 1995.
@@ -1189,7 +1217,7 @@ For the other questions in Ryder v. United States, decided June 12, 1995, No. 94
 
 ### Commerce power and armed vehicle taking
 
-#### [United States v. Harris](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_Harris_merits_1995-04-27.md)
+#### United States v. Harris
 
 **Docket or dockets:** No. 94-297.
 **Decided:** April 27, 1995.
@@ -1213,7 +1241,7 @@ For the other questions in this decision, see Criminal Procedure — Armed vehic
 
 ### Commerce power and school-zone firearm possession
 
-#### [United States v. Lopez](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_Lopez_merits_1995-04-26.md)
+#### United States v. Lopez
 
 **Docket or dockets:** No. 93-1260.
 **Decided:** April 26, 1995.
@@ -1253,7 +1281,7 @@ For the other questions in this decision, see Criminal Procedure — Armed vehic
 
 ### Federal borrowing and state taxation
 
-#### [Nebraska Department of Revenue v. Loewenstein](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Nebraska_Department_of_Revenue_v_Loewenstein_merits_1994-12-12.md)
+#### Nebraska Department of Revenue v. Loewenstein
 
 **Docket or dockets:** No. 93-823.
 **Decided:** December 12, 1994.
@@ -1274,7 +1302,7 @@ For the other questions in this decision, see Federal Taxation — Federal oblig
 
 ### Interstate transportation sales taxes
 
-#### [Oklahoma Tax Commission v. Jefferson Lines, Inc.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Oklahoma_Tax_Commission_v_Jefferson_Lines_Inc_merits_1995-04-03.md)
+#### Oklahoma Tax Commission v. Jefferson Lines, Inc.
 
 **Docket or dockets:** No. 93-1677.
 **Decided:** April 3, 1995.
@@ -1342,7 +1370,7 @@ For the other questions in this decision, see Federal Taxation — Federal oblig
 
 ### Interstate water compacts and usable-water depletion
 
-#### [Kansas v. Colorado](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Kansas_v_Colorado_original_exceptions_1995-05-15.md)
+#### Kansas v. Colorado
 
 **Docket or dockets:** No. 105, Original.
 **Decided:** May 15, 1995.
@@ -1458,7 +1486,7 @@ For the other questions in this decision, see Federal Taxation — Federal oblig
 
 ### Legislative punishment and land-use regulation
 
-#### [Ambassador Books & Video, Inc. v. City of Little Rock](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Ambassador_Books_Video_Inc_v_City_of_Little_Rock_merits_1995-03-20.md)
+#### Ambassador Books & Video, Inc. v. City of Little Rock
 
 **Docket or dockets:** No. 93-1886.
 **Decided:** March 20, 1995.
@@ -1482,7 +1510,7 @@ For the other questions in this decision, see First Amendment — Adult-business
 
 ### Motor-vehicle safety and common-law preemption
 
-#### [Freightliner Corp. v. Myrick](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Freightliner_Corp_v_Myrick_merits_1995-04-18.md)
+#### Freightliner Corp. v. Myrick
 
 **Docket or dockets:** No. 94-286.
 **Decided:** April 18, 1995.
@@ -1517,7 +1545,7 @@ For the other questions in this decision, see First Amendment — Adult-business
 
 ### Congressional control of airport administration
 
-#### [Metropolitan Washington Airports Authority v. Hechinger](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Metropolitan_Washington_Airports_Authority_v_Hechinger_merits_1995-06-05.md)
+#### Metropolitan Washington Airports Authority v. Hechinger
 
 **Docket or dockets:** No. 94-851.
 **Decided:** June 5, 1995.
@@ -1548,7 +1576,7 @@ Members must have aviation and airport-user experience, frequently use the metro
 
 ### Congressional qualifications and state ballot restrictions
 
-#### [U.S. Term Limits, Inc. v. Thornton / Bryant v. Hill](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/US_Term_Limits_v_Thornton_Bryant_v_Hill_merits_1995-05-22.md)
+#### U.S. Term Limits, Inc. v. Thornton / Bryant v. Hill
 
 **Docket or dockets:** Nos. 93-1456; 93-1828.
 **Decided:** May 22, 1995.
@@ -1570,3 +1598,304 @@ Members must have aviation and airport-user experience, frequently use the metro
 - Gregory, 501 U.S. 452: distinguishes state control of its own officers from qualification of federal representatives; its actual state-officer protection remains intact.
 
 **Operative remedy or transition:** Affirm the Arkansas Supreme Court in Nos. 93-1456 and 93-1828. Section 3 of Amendment 73's ordinary-ballot exclusions after three House terms or two Senate terms remain unenforceable; no state-office term limit or separate redistricting remedy is adjudicated.
+
+### Commerce power and clinic access
+
+#### American Life League v. Reno
+
+**Docket or dockets:** Fourth Circuit No. 94-1869; no separate Supreme Court merits docket established; judgment below, 47 F.3d 642.
+**Decided:** November 13, 1995.
+
+##### Congressional protection of an interstate medical-services market
+
+**Holding:** Congress may regulate FACE's challenged class of targeted force, threats, physical obstruction and facility destruction directly interfering with provision or receipt of reproductive health services in an interstate medical-services market. This class-based ground requires no separate interstate-crossing element for each actor; direct regulation of private conduct also compels no state legislation or administration.
+
+**Proposition-level authority:** Kennedy's Part I, unanimous.
+
+**Material application:** Interstate patients, personnel and supplies, and actual service loss through obstruction and closure establish a direct connection to the medical-services market. Local conduct or ideological purpose does not sever that connection.
+
+**Limits and questions not reached:** The Court adopts no exhaustive commerce formula, remote general crime-cost rationale or conclusive effect for legislative statistics. Separate persons-or-things-in-commerce and Fourteenth Amendment §5 grounds are not reached. The parent/legal-guardian exception excludes all §248 penalties and civil remedies for activity directed exclusively at the actor's own minor, without creating immunity under other law or a constitutional parental veto. The challenged reproductive-service branches alone are decided; worship branches remain unchallenged.
+
+**Operative remedy or transition:** Affirm the commerce/federalism dismissal. FACE's remaining speech, vagueness, civil-remedy, free-exercise and RFRA questions are under First Amendment, American Life League, November 13, 1995, Fourth Circuit No. 94-1869.
+
+**Treatment of earlier authority:** Lopez's inadequate downstream-effects chain is distinguished; Harris supplies the retained economic-class ground while preserving its own enacted vehicle nexus; Robertson's direct-enterprise rule is distinct and does not classify every protester as an enterprise. New York's anti-compulsion limit remains intact.
+
+### Federal regulation of economic activity
+
+#### United States v. Bishop; United States v. Stokes, judgment below 66 F.3d 569
+
+**Docket or dockets:** Third Circuit Nos. 94-5321 and 94-5387; no separate Supreme Court docket supplied.
+
+**Decided:** February 5, 1996.
+
+##### Harris sustains application of original §2119 to both defendants
+
+**Holding:** Congress may apply original §2119 to the armed vehicle taking at issue as regulation of the economic vehicle-taking class within the interstate motor-vehicle theft-prevention scheme. The separately enacted requirement that the particular vehicle have been transported, shipped or received in interstate or foreign commerce remains necessary; remote vehicle history alone and generalized crime, insurance or productivity costs do not supply this holding's constitutional ground.
+
+**Proposition-level authority:** O'Connor's Part II, unanimous.
+
+**Limits and questions not reached:** No automatic vehicle-instrumentality theory, new Commerce Clause test or unpresented sufficiency determination is adopted.
+
+**Treatment of earlier authority:** Harris is applied within its economic-class and enacted-element limits; Lopez retains its rejection of the remote downstream-effects theory; Wickard and Perez retain their economic-class scope; American Life League confirms the distinct commercial-class ground without changing §2119's text.
+
+#### United States v. Hale, judgment below 978 F.2d 1016
+
+**Docket or dockets:** Eighth Circuit No. 91-3830; no separate Supreme Court docket supplied.
+
+**Decided:** February 12, 1996.
+
+##### Congress may include possession in this regulation of the machinegun market
+
+**Holding:** Congress may prohibit machinegun possession as an integral part of §922(o)'s direct control of transfers and the available private machinegun stock, subject to the subsection's government-related and prior-lawful-possession exceptions. This enacted relationship to the regulated market defeats the presented commerce challenge without a transaction-specific interstate element; an object's marketability, remote interstate history, or general contribution to crime costs would not alone suffice.
+
+**Proposition-level authority:** O'Connor's Part I, unanimous.
+
+**Limits and questions not reached:** Section 922(o)(2) excepts transfers to or by, and possession by or under the authority of, the United States or its departments or agencies, a State or its departments, agencies or political subdivisions; it separately excepts lawful transfer or possession of a machinegun lawfully possessed before May 19, 1986. Earlier manufacture alone does not satisfy that second exception. No count is newly found within either exception.
+
+**Treatment of earlier authority:** Lopez's prohibition on remote crime-cost chains remains; Harris, American Life League, Bishop/Stokes, Wickard and Perez sustain the distinct direct market/economic-class rationale, without transferring another statute's interstate element into §922(o).
+
+### Discriminatory state taxation
+
+#### Fulton Corp. v. Faulkner, 516 U.S. 325
+
+**Docket or dockets:** No. 94-1239.
+
+**Decided:** February 21, 1996.
+
+##### The issuer-based deduction discriminates against interstate investment
+
+**Holding:** A State discriminates against interstate commerce when the tax on a resident's otherwise comparable corporate shares increases as the issuer's local income-tax exposure decreases. Neither the shareholder's local residence nor drafting the geographic advantage as a deduction removes that discrimination, and proof that a particular issuer already lost an investment is unnecessary.
+
+**Proposition-level authority:** Opinion of the Court (Thomas), unanimous.
+
+**Material application:** The tax is twenty-five cents per $100 of share value, reduced according to the issuer's North Carolina-apportioned income. For corporate shareholders the linked dividend-deduction proportion applies without the ordinary $15,000 dividend-deduction cap.
+
+**Treatment of earlier authority:** Oregon Waste's express-geographic-discrimination rule and West Lynn's examination of linked operation apply; a deduction label or shareholder residence does not remove discrimination.
+
+##### Corporate income and share ownership are not shown to be equivalent taxable events
+
+**Holding:** A compensatory-tax defense requires the State to identify the actual intrastate burden being offset, show a roughly equivalent and nonexcessive interstate charge, and establish substantially equivalent taxable events reasonably treated as mutually exclusive proxies. North Carolina's corporate-income and shareholder-property taxes do not satisfy those requirements merely because corporate profits may influence share value; the failure to establish equivalent events independently defeats the defense.
+
+**Proposition-level authority:** Opinion of the Court (Thomas), unanimous.
+
+**Limits and questions not reached:** Different nominal taxpayers do not invariably prevent compensation, and income and property taxes may coexist. This State failed to establish equivalent events.
+
+**Treatment of earlier authority:** Oregon Waste supplies the cumulative compensatory conditions, Maryland v. Louisiana the actual-local-burden requirement and Armco the independently fatal equivalent-events defect. Henneford preserves genuinely complementary taxation.
+
+**Independent alternative holding:** A State does not establish the compensatory defense's actual-burden and approximate-equivalence requirements merely by invoking typical price/earnings ratios or aggregate corporate tax contributions. North Carolina's comparison fails to demonstrate the required matching burden on this record, an additional ground for rejecting its defense.
+
+**Proposition-level authority for alternative holding:** Opinion of the Court (Thomas), unanimous.
+
+**Limits, remedy, transition, or precedent treatment:** The 1990 claim is not governed by a new universal calculation using the later 7.75% rate; the state discussion also identifies the earlier 7% rate. Its general price/earnings reasoning is neither a statutory command nor an adopted equality finding for every taxpayer. Associated Industries requires the relevant actual matching burden, rather than aggregate or other-transaction offsets.
+
+##### Darnell's contrary Commerce Clause permission is overruled
+
+**Holding:** Darnell v. Indiana is overruled to the extent it permits discriminatory taxation of residents' shares in out-of-state corporations under the Commerce Clause merely by reference to a different corporate-level local tax and an asserted substantial equality. Its distinct equal-protection and standing determinations are not erased.
+
+**Proposition-level authority:** Opinion of the Court (Thomas), unanimous.
+
+**Treatment of earlier authority:** Darnell v. Indiana, 226 U.S. 390, is expressly overruled only on its incompatible Commerce Clause permission. Oregon Waste and Associated Industries require the cumulative inquiry; Darnell's separate standing and equal-protection determinations remain.
+
+##### Invalidity requires lawful remedial proceedings, not a predetermined refund
+
+**Holding:** Reversal of the tax's constitutional justification requires remand for state-law severability and constitutionally adequate relief. When a State compelled payment before a meaningful opportunity to contest the tax, McKesson requires adequate backward-looking correction; independently, Reich forbids withdrawing a clearly held-out postpayment remedy after payment and substituting an unpursued prepayment route.
+
+**Proposition-level authority:** Opinion of the Court (Thomas), unanimous.
+
+**Limits and questions not reached:** McKesson permits lawful refunds, constitutionally permissible equalizing retrospective treatment or a lawful combination where backward-looking relief is required. Reich's protection applies to a clearly held-out postpayment remedy even after voluntary payment; reasonable previously announced conditions and prospective changes with fair notice remain permissible.
+
+**Operative remedy or transition:** Reverse and remand for severability and constitutionally adequate relief according to actual payments, preservation, procedures and lawful state choices. No fixed refund, fee award, interest, assessment against others, blanket stock exemption, deduction change or automatic reinstatement of the intermediate appellate remedy follows.
+
+**Treatment of earlier authority:** McKesson's conditional backward-looking duty and Reich's independent no-withdrawal protection govern relief without selecting a universal refund formula.
+
+### Waste disposal and market participation
+
+#### SSC Corp. v. Town of Smithtown, judgment below 66 F.3d 502
+
+**Docket or dockets:** Petition No. 95-782 and cross-petition No. 95-1015 identify the underlying filings; no separate Supreme Court docket assigned.
+
+**Decided:** March 11, 1996.
+
+##### The Town may specify disposal as part of the service it purchases
+
+**Holding:** A municipality purchasing residential waste collection and disposal may specify the disposal facility as part of that purchased performance. Payment through a hauler, separate price items and use of a privately owned facility do not make the disposal component an unrelated downstream transaction. The rule reaches the service actually bought; contractual form or participation in another market alone supplies no authority over unrelated business.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), unanimous.
+
+**Limits and questions not reached:** The rule does not reach unpaid unrelated later transactions or materially different public waste systems. The government need not own the facility or employ every performer; investment, contractual form or capacity commitments alone do not turn independent customers' purchases into government purchases.
+
+**Treatment of earlier authority:** White's purchased-performance and privity principles are applied; Reeves's participant distinction remains within its scope. South-Central Timber's downstream plurality is distinguished without enlarging its authority. Carbone's reservation of genuine purchasing receives this specific application; Boston Harbor retains its separate labor-preemption scope.
+
+##### The separate compulsory route remains invalid under Carbone
+
+**Holding:** The Town may not use the challenged ordinance to reserve independently arranged private waste-processing transactions to the designated local private operator. Under Carbone, that discriminatory reservation requires a legitimate local purpose that reasonable nondiscriminatory alternatives cannot adequately serve. Smithtown's financing commitments and sanitation interests do not establish that justification on this record.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), unanimous.
+
+**Limits and questions not reached:** O'Connor and Souter join the application without withdrawing their prior objections to Carbone's classification. Criminal penalties identify compulsion here, but are not the full test. The exclusions for recyclables and unacceptable waste do not cure the covered private-demand restriction. State encouragement and financial commitments do not constitute congressional authorization; no perfect-certainty requirement or obligation to disprove every imaginable alternative is imposed.
+
+**Operative remedy or transition:** Affirm both components: the purchased destination term survives the constitutional challenge and the ordinance remains invalid. Only properly pending and legally available contract/payment proceedings remain. No breach, diversion, debt, withheld-payment award, damages, rescission, automatic trial or replacement program is established. Antitrust immunity, CERCLA liability and a general subcontract rule remain undecided.
+
+**Treatment of earlier authority:** Carbone's private-processing rule and justification requirement are applied without change, with Oregon Waste's distinction between discrimination and justification intact. West Lynn's scrutiny of linked arrangements does not make the Town's genuine purchases identical to the ordinance's compulsion. Pike remains available for genuinely evenhanded incidental burdens; no separate Pike holding is made here.
+
+### Census enumeration
+
+#### Wisconsin v. City of New York; Oklahoma v. City of New York; Department of Commerce v. City of New York, 517 U.S. 1
+
+**Docket or dockets:** Nos. 94-1614, 94-1631 and 94-1985.
+**Decided:** March 20, 1996.
+**Companion or consolidated matters:** All three dockets share the constitutional challenge to census nonadjustment and the same disposition.
+
+##### The explained census nonadjustment decision bears the required reasonable relationship to enumeration and representation
+
+**Holding:** The choice whether to supplement this nationwide enumeration with the proposed post-enumeration survey must bear a reasonable relationship to enumerating the population and securing population-based representation. A genuine enumeration effort and an explained choice addressing geographic accuracy and comparative uncertainty do not become unconstitutional merely because another method improves some accuracy measures; this nonadjustment decision satisfies that boundary, and a legitimate-objective-and-essentiality requirement is rejected.
+
+**Proposition-level authority:** Stevens's Part II, unanimous; Part III's reservations and bounded remedy also have nine direct joins.
+
+**Material application:** The Secretary accepted likely improvement in the national total but explained uncertainty over geographic shares, heterogeneity within statistical groups and sensitivity to reasonable statistical choices. Improvement for most purposes did not settle every geographic comparison. The actual explanation supported doubt that this proposal reliably improved the count's distribution; institutional title, adviser headcount and technical disagreement alone would not suffice.
+
+**Limits and questions not reached:** There is no numerical tolerance, perfect-accuracy presumption, inevitable superiority of enumeration or exemption from judicial review. Proven discrimination, unauthorized methods and unsupported actual reasons retain their governing rules. Differential undercount alone establishes neither discriminatory intent nor this representation claim's asserted duty to adjust. The Court decides neither whether the Constitution prohibits the proposed method nor whether §195's apportionment exception categorically prohibits sampling or instead removes it from the otherwise mandatory direction conditioned on feasibility. The panel's statutory construction, the Rule 14.1(a) objection and §141(a)'s interaction with §195 are unresolved. The Secretary's disclaimed legal rationale cannot be supplied on appeal.
+
+**Operative remedy or transition:** Reverse all three dockets and remand for judgment for petitioners on the preserved constitutional nonadjustment challenge. No further essentiality inquiry, technical findings, APA merits proceeding, adjustment, dataset, seat transfer, presidential injunction, funding redistribution or redistricting is directed. The separate tape-disclosure and protective-order ruling remains outside the judgment.
+
+**Treatment of earlier authority:** Montana permits competing legitimate measures of interstate equality; Franklin v. Massachusetts sustains supported population-counting choices. Wesberry, Kirkpatrick and Karcher retain intrastate district-equality requirements without dictating the method used to estimate population. Davis and Arlington Heights preserve discriminatory-purpose requirements for ordinary race claims, separate from the adjudicated representation claim. Chenery and Boston & Maine bar substituting appellate explanations for actual agency grounds; MCI's enacted-delegation rule supplies no sampling holding.
+
+For the individual-standing and APA presentation questions in Wisconsin, March 20, 1996, Nos. 94-1614, 94-1631 and 94-1985, see Federal Courts — Census standing and review.
+
+### Medical-device preemption
+
+#### Medtronic, Inc. v. Lohr; Lohr v. Medtronic, Inc., 518 U.S. 470 (1996)
+
+**Docket or dockets:** Nos. 95-754 and 95-886.
+**Decided:** June 26, 1996.
+
+##### What federal predicate is required and whether substantial-equivalence clearance supplies design approval
+
+**Holding:** Section 360k(a) requires an applicable federal requirement and a state requirement respecting a human-use device that differs from or adds to it and concerns safety, effectiveness or another matter included in the federal requirement, subject to subsection (b). This lead's substantial-equivalence clearance does not establish substantive federal approval of its design and therefore does not preempt the restored negligent-design or design-based strict-liability claims on that asserted ground.
+
+**Proposition-level authority:** Breyer’s Part I, unanimous.
+
+**Material application:** The 1982 marketing letter and §807.97 separate clearance from substantive safety approval. Class III status, grandfathering and manufacturing conformance to the original design do not establish PMA or a substantive FDA design choice.
+
+**Limits and questions not reached:** No design defect, breach, causation, actual PMA case or hypothetical device-specific standard is decided. Regulatory overlap alone supplies no independent actual conflict.
+
+**Operative remedy or transition:** Design restoration affirmed in No. 95-754, 9–0; state-law elements remain necessary.
+
+##### Whether a genuinely parallel state conduct duty becomes additional because it supplies damages
+
+**Holding:** Section 360k(a) does not expressly preempt an independently available state duty that genuinely requires the same conduct as the applicable federal duty merely because state law adds damages. Requiring negligence or an unreasonable hazard in addition to violation of that same conduct obligation can narrow recovery without making the substantive duty different; a claim requiring different warnings or production conduct is not parallel merely because its pleading invokes federal law.
+
+**Proposition-level authority:** Breyer’s Part II, unanimous.
+
+**Material application:** Actual operation controls: equal conduct plus narrower recovery elements differs from liability despite federal compliance or a requirement of additional warning/production conduct. The appellate court reached the reply-stage contention and assumed, without deciding, Florida recognition and adequate pleading.
+
+**Limits and questions not reached:** No private FDCA enforcement action is created. Florida recognition, pleading, violation, causation and relief remain undecided; independently established actual conflict remains a separate question.
+
+**Operative remedy or transition:** The categorical parallel-duty barrier in No. 95-886 is reversed and remanded, 9–0; no exemption must first be sought for an otherwise nonpreempted equal duty.
+
+##### Whether the asserted generic manufacturing and warning predicates preempt the presented duties
+
+**Holding:** The general manufacturing and prescription-information requirements invoked here do not establish a federal counterpart that makes the presented ordinary manufacturing and warning duties different or additional within section 360k(a). The challenged preemption barriers are therefore reversed for negligent manufacture, failure to warn and corresponding strict-liability theories, without exempting all tort law or all claims involving generally applicable regulations.
+
+**Proposition-level authority:** Breyer’s Part III, joined by Stone-Zsela, Stevens, Kennedy, Souter and Ginsburg; six Justices.
+
+**Material application:** Part 820 and §801.109 impose genuine obligations but their legal force and shared subject do not establish the specific substantive federal choice these duties would alter. Master records and original-design conformance do not substantively approve safety; label submission is not approval of precise contents.
+
+**Limits and questions not reached:** General framing does not mean no federal command, and no universal manufacturer- or model-specificity prerequisite applies. Ambiguous duties may be identified in ordinary proceedings; no mandatory preliminary hearing in all products cases.
+
+**Operative remedy or transition:** Manufacturing/warning and corresponding strict-liability barriers reversed, 6–3. O’Connor, Scalia and Thomas dissent as to genuinely divergent duties, while joining the equal-duty remand.
+
+**Independent alternative holding:** Within the statutory comparison, the FDA reasonably interprets section 360k through section 808.1(d) to require specific counterpart regulations or other specific applicable requirements before divergent state requirements are displaced. Giving that formal construction substantial weight independently supports survival of these manufacturing and warning claims, while preserving its general-applicability, equal-duty and divergent substantive-application qualifications.
+
+**Proposition-level authority for alternative holding:** Breyer’s Part V, joined by Stevens, Kennedy, Souter and Ginsburg; five direct votes. Stone-Zsela does not join. The FDA’s formal §808.1 interpretation receives weight within actual delegation and enacted ambiguity, not authority to contradict Congress, universal deference to litigating positions or free-standing preemptive power. Section 808.1(d)(6)(ii) still reaches a generally worded rule whose actual application imposes a divergent specific-device duty.
+
+##### Whether common-law damages obligations can be requirements under §360k(a)
+
+**Holding:** A state obligation enforced through common-law damages can constitute a requirement under section 360k(a); common law has no categorical exemption from the express clause. Inclusion alone does not establish preemption: the applicable federal obligation, actual difference or addition, subject connection and statutory exceptions must still be satisfied.
+
+**Proposition-level authority:** Breyer’s Part IV, joined by Stone-Zsela, O’Connor, Scalia and Thomas; five direct votes. Stevens, Kennedy, Souter and Ginsburg reserve this general question.
+
+**Material application:** Judicial damages duties can change conduct as effectively as enacted commands. Inclusion does not itself preempt any surviving Lohr claim or supply a categorical preemption outcome.
+
+**Limits and questions not reached:** The following operative qualifications govern the statutory comparison and remand; they do not enlarge the separately stated proposition coalitions.
+
+- **Separate state-requirement exemption:** Section 360k(b) permits the Secretary, on a State or political subdivision's application, after notice and opportunity for an oral hearing, to exempt a requirement by regulation on prescribed conditions if it is more stringent than the otherwise applicable federal requirement, or if compelling local conditions require it and compliance would not violate an applicable federal requirement. The no-federal-violation condition belongs to the second alternative. An exemption does not remove federal obligations. No pertinent exemption is established; an equal, nonpreempted duty does not first require one.
+- **Section 808.1's complete scope:** Subsection (b) includes force-of-law court decisions. Subsection (d)(1) preserves general requirements whose purpose reaches other products as well as devices, including general electrical codes and the Uniform Commercial Code's fitness warranty, and unfair-trade rules not limited to devices. Subsection (d)(2) preserves equal or substantially identical requirements. Subsection (d)(6)(ii) preserves general adulteration/misbranding prohibitions but displaces an actual divergent substantive device requirement; interpretation and enforcement, rather than literal wording alone, control that comparison.
+- **Other section 808.1 qualifications:** Professional-practice permits, licensing, registration, certification and related approval remain subject to conflicting federal restrictions under sections 520(e) or (g), which prevail. State procurement specifications and Medicaid or similar payment criteria are preserved. General enforcement, inspections, registration and licensing remain subject to conflicting federal records, reporting and good-manufacturing-practice rules under sections 519 and 520(f), which prevail. Administrative delegations and related matters, measures solely raising revenue or charging fees, and the identified atomic-energy and radiation measures remain outside preemption on their stated terms; the last category lasts until applicable specific FDA requirements intervene. Subsection (e) assigns the FDA a determination role through prescribed procedures subject to judicial review, without establishing an exhaustion bar here. Subsections (c) and (f) preserve applicable federal duties whether or not a state requirement is exempt or preempted. No unestablished factual exception is applied.
+- **Original manufacturing regime:** Part 820 applies to finished human-use devices and defines a finished device to include an accessory suitable for use whether packaged or labeled. It is not generally directed at manufacturers of components or parts; blood and blood components have Part 606's separate treatment. The everyday description of this lead as a component does not settle that classification. Additional critical-device duties retain their own applicability: the definition addresses an implant or life-supporting device whose failure when properly used can reasonably be expected to cause significant injury, with identification by the Commissioner after advisory consultation. Class III status alone is not a substitute finding. Where simultaneous compliance with applicable regulations is impossible, the specific device regulation supersedes the general regulation. No exemption, variance or violation is found here.
+- **Real manufacturing obligations:** The original provisions require appropriate quality assurance, trained personnel, suitable premises and equipment, controlled component acceptance and handling, written manufacturing specifications and processing controls, inspection and failure investigation, labeling integrity, protective packaging, distribution controls and records. Section 820.100 requires manufacturing conformance to the original design or approved changes, with controlled and documented specification and process changes; it does not itself approve the design's safety. Critical-device additions, including component sampling, operation verification, labeling, distribution and history records, depend on their actual applicability. The Court decides no breach of any particular provision.
+- **Distinct manufacturing exemption or variance:** Section 360j(f)(2) permits a subject person to petition in the prescribed form with required information. An exemption requires a determination that compliance is unnecessary to assure safety, effectiveness and statutory compliance. A variance requires a determination that the proposed replacement methods, facilities and controls for manufacture, packing, storage and installation are sufficient to assure safety, effectiveness and compliance with the Act; an approval order must impose conditions necessary to assure those ends. Optional advisory referral requires recommendations within sixty days; the Secretary must approve or deny within sixty days after submission or, if referred, after expiration of the committee's sixty-day period, whichever is later. An informal hearing is available after the order. These provisions differ from a State's section 360k(b) exemption, and no granted exception is inferred.
+- **Prescription information:** Section 801.109 conditionally exempts a device unsafe without licensed-practitioner supervision from consumer adequate-directions requirements. The device must be in the possession of a person, or that person's agents or employees, regularly and lawfully engaged in its manufacture, transportation, storage or wholesale or retail distribution, or in the possession of a practitioner licensed by law to use or order it; it must be sold only to or on the prescription or other order of such a practitioner for professional use. Subsection (b)'s prescription caution and method-of-use label requirements exclude surgical instruments. Subsection (c) requires dispensing-package information about indications, effects, routes, methods, frequency and duration, relevant hazards, contraindications, side effects and precautions for intended and advertised uses. That information may be omitted only when commonly known to licensed practitioners; on written request stating reasonable grounds, the Commissioner will offer an opinion on proposed omission. No omission qualification is found here.
+- **Separate labeling exceptions:** Section 801.109(d) independently requires adequate use information on manufacturer, packer or distributor labeling that furnishes or purports to furnish use information, whether or not within the dispensing package. Its exception covers a reminder piece calling attention only to the device name without indications or other use information. Subsection (e)'s issuance-or-revision-date duty excludes labels and cartons. These exceptions do not merge with subsection (c)'s permissive omission or subsection (b)'s surgical-instrument exception. Section 807.87(e)'s submission of proposed labels, labeling and advertisements is not substantive approval of their contents.
+- **Clearance, classification and approval:** Section 360(k)'s report ordinarily precedes intended interstate commercial introduction by at least ninety days. Classification, substantial equivalence and premarket approval remain distinct. Section 360e(a) requires approval for a class III device subject to a subsection (b) regulation or classified under section 360c(f), unless exempt under section 360j(g). Section 360e(b) supplies the rulemaking route for pre-1976 devices and their substantially equivalent types; no such approval is found for this lead. PMA's distinct evaluation and application requirements do not become clearance requirements by inference. The Court decides neither a different approval pathway nor a particular investigational exemption.
+- **Temporal limits:** The 1994 Code and April 1, 1996 CFR are text sources, not findings that every amendment applied to the 1982 clearance, 1987 implantation or 1990 injury. The 1990 codification requires the same intended use and a Secretary's order finding either the same technological characteristics or, for different characteristics, submitted information—including clinical data if the Secretary deems it necessary—demonstrating that the device is as safe and effective as a legally marketed device and raises no different questions of safety and efficacy than the predicate. Different technological characteristics means a significant change in materials, design, energy source or other device features. A predicate removed from the market at the Secretary's initiative or judicially determined adulterated or misbranded cannot establish substantial equivalence. That later text is not backdated; the lower court assumed that it described earlier practice. Later submission amendments and design-validation language create no earlier approval or breach. The original Part 820 regime governs the comparison, and no later quality-system revision enters the decision. An actual conduct-date duty remains to be identified for liability.
+- **Savings and federal enforcement:** Section 360h(d) preserves liability despite compliance with an order under that section; it is not an unrestricted saving clause for every device action. When damages for economic loss enforce such liability, the value of a remedy supplied under the order must be taken into account. No such order or offset is adjudicated. Section 337 reserves direct enforcement to the United States except for its State food-enforcement provision. A State may bring proceedings in its own name and jurisdiction to civilly enforce, or restrain violations of, sections 341 and 343(b), (c), (d), (e), (f), (g), (h), (i), (k), (q) and (r), only for food located in the State. Proceedings may not begin until thirty days after notice to the Secretary, or until ninety days after notice if the Secretary begins an informal or formal enforcement action concerning the food within the first thirty days. Proceedings are barred while the Secretary diligently prosecutes a court proceeding concerning the food or after settlement of that proceeding or the related informal or formal enforcement action; the State may intervene as of right in the described court proceeding. This exception creates no private device action. No unpresented standalone enforcement defense or later implied-preemption rule is decided.
+
+**Operative remedy or transition:** Ordinary proceedings retain the separate design, manufacture and warning strict-liability predicates and derivative consortium claim. The unappealed warranty dismissal remains. No compliance finding, liability, damages, mandatory pleading amendment, trial or agency referral.
+
+**Treatment of earlier authority:**
+
+- **Cipollone v. Liggett Group, Inc., June 24, 1992:** Its actual covered common-law warning proposition supports identifying the duty imposed by liability. Its distinct statutory clauses and category-specific surviving grounds remain intact; no whole amended-Act opinion or blanket tort exemption is imported. Part IV applies the inclusion principle to section 360k through its own text.
+- **CSX Transportation, Inc. v. Easterwood, April 21, 1993:** Supplies the requirement of the actual applicable federal predicate and subject comparison. Its railroad-specific substantial-subsumption language, warning predicates, local-hazard qualification and speed holding are not substituted for the Medical Device Amendments.
+- **Freightliner Corp. v. Myrick, April 18, 1995:** Applies the distinction between an operative federal requirement and regulatory absence or overlap, and preserves independently established actual-conflict analysis. Its reserved common-law question under another statute and its motor-vehicle saving clause do not decide this clause.
+- **New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co., April 26, 1995:** Supports examining the connection required by the particular statute instead of unlimited displacement from indirect effects. Its ERISA holding becomes no general exemption for state health or tort law.
+- **MCI Telecommunications Corp. v. AT&T, June 17, 1994:** Requires independent adherence to statutory limits before agency deference. The FDA may not dispense with Congress's comparison or create unlimited preemption authority.
+- **Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837; Babbitt v. Sweet Home Chapter of Communities for a Great Oregon, June 29, 1995:** Preserve reasonable agency interpretation within enacted ambiguity and actual delegated responsibility. Part V applies that bounded principle to the formal FDA construction without adopting every agency view or enlarging the statutory exemption power.
+- **Smiley v. Citibank (South Dakota), N.A., June 3, 1996:** Preserves statutory construction before reasonable delegated interpretation, and distinguishes substantive agency responsibility from free-standing power to preempt. Its specific banking permission and qualified use of interpretation for antecedent transactions do not supply substantive approval or retroactive duties for this device.
+
+### Military justice and delegated capital-sentencing authority
+
+#### Loving v. United States, 517 U.S. 748
+
+**Docket or dockets:** No. 94-1966.
+**Decided:** June 3, 1996.
+
+##### Did Congress authorize the challenged presidential limits on military capital murder punishment?
+
+**Holding:** UCMJ Articles 18 and 56 authorize the President to restrict the availability of the death punishment Congress selected for Article 118(1) and (4); Article 36 supplies additional statutory confirmation and procedural authority. Together they authorize the challenged RCM 1004 restrictions, but not new capital offenses, death under Article 118(2) or (3), or punishment exceeding or contradicting Congress's choice.
+
+**Proposition-level authority:** Kennedy's Opinion of the Court, Holding I, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Ginsburg and Breyer (eight Justices). Thomas concurs in the judgment only and supplies no join to this or the following three holdings.
+
+**Material application:** Withholding death from part of an already capital class is a punishment limit under Articles 18 and 56 even though it is not a numerical maximum. Congress defined the capital murders and death-or-life punishment; these factors neither add an offense nor enlarge its penalty. Article 36 supports implementing procedures: generally recognized federal criminal-trial principles apply so far as the President considers practicable; regulations may neither contradict nor be inconsistent with the Code, must be uniform insofar as practicable, and must be reported to Congress. Calling a factor procedural does not independently establish substantive authority.
+
+**Limits and questions not reached:** Whether Article 36 alone would suffice remains undecided. The assignment permits neither creation of civilian crimes nor vague or otherwise unconstitutional capital factors. The decision uses the governing pre-1990 Article 36 and pre-1991 RCM 1004; it determines no actual transmission or reporting violation.
+
+**Treatment of earlier authority:** *Neal v. United States*, 516 U.S. 284, retains the boundary between statutory punishment and valid delegated sentencing rules: these restrictions implement rather than replace Congress's punishment choice.
+
+##### Must Congress additionally name capital aggravating factors expressly to authorize these restrictions?
+
+**Holding:** The enacted punishment-limiting authority suffices without an additional formula expressly naming capital aggravating factors. Article 106a's later express espionage provisions neither withdraw that authority nor make it inapplicable to these murder offenses.
+
+**Proposition-level authority:** Kennedy's Opinion of the Court, Holding II; the same eight Justices directly join.
+
+**Material application:** Articles 18 and 56 expressly assign punishment limitations. More explicit treatment of a distinct offense in Article 106a, including its additional presidential factor under Article 36, does not repeal that assignment. Existing authorization also did not expire when additional narrowing became constitutionally necessary on the assumption used in this case; an otherwise authorized use remains within the grant when a later constitutional requirement makes it necessary.
+
+**Limits and questions not reached:** Actual enacted authority remains essential. Executive practice, congressional silence and usefulness cannot substitute for it. The Court resolves no general criminal-law clear-statement question beyond the challenged assignment.
+
+##### Is this military capital-sentencing assignment constitutionally nondelegable or inadequately bounded?
+
+**Holding:** Congress may assign the President identification of narrowing factors for military capital sentencing when Congress defines the capital offenses and punishment, supplies intelligible legal boundaries, and confines implementation to the President's assigned military-administration role. Congress's offense selection, death-or-life alternatives, express punishment-limiting assignment and consistency restraints adequately bound this delegation even assuming that criminal and capital delegations require greater specificity than the ordinary standard.
+
+**Proposition-level authority:** Kennedy's Opinion of the Court, Holding III; the same eight Justices directly join.
+
+**Material application:** For this authority question, the Court assumes that these military murders require additional eligibility narrowing and that the three factors would adequately narrow if Congress enacted them. Neither Article I's military rulemaking clause nor the assumed capital requirement categorically requires Congress personally to prescribe each limiting factor. The President's executive and Commander-in-Chief responsibilities reinforce the assigned military role without enlarging statutory authority. The enacted limits and that actual role suffice without an additional express factor-selection principle; executive safeguards or panel unanimity could not cure absent congressional authority.
+
+**Limits and questions not reached:** The Court does not decide whether criminal delegations generally require enhanced specificity, whether additional eligibility narrowing is indispensable throughout military capital proceedings, whether Article 118 alone supplies all necessary narrowing, or whether independent Article II authority could support factors without congressional delegation. No rule for newly created actors, unrelated executive functions, wholesale civilian capital-doctrine incorporation, or military immunity from structural review follows.
+
+**Treatment of earlier authority:** *Mistretta v. United States*, 488 U.S. 361, supplies guided sentencing implementation with Congress retaining legislative responsibility; its conditional capital discussion did not decide these factors. *Touby v. United States*, 500 U.S. 160, supplies review of an actual criminal delegation without resolving its open general specificity question; its drug-scheduling criteria are not a universal checklist. *Weiss v. United States*, 510 U.S. 163, and *Ryder v. United States*, 515 U.S. 177, retain constitutional review of military adjudicator arrangements and their respective appointment, tenure and defect-specific remedial limits.
+
+##### What relief follows from the rejection of the presented authority challenges?
+
+**Holding:** The statutory-authorization, additional-clear-authorization, categorical-nondelegability and inadequate-guidance objections establish no error and furnish no ground to disturb the Court of Appeals for the Armed Forces' judgment. The affirmance rests on that absence of error, without harmless-error review or adjudication of unpresented individual-factor and collateral claims.
+
+**Proposition-level authority:** Kennedy's Opinion of the Court, Holding IV; the same eight Justices directly join. Thomas separately supports the judgment alone.
+
+**Material application:** The panel found premeditated murder during robbery, another Article 118 murder in the same case, and actual perpetration of the felony-murder killing under the authorized rule. Sustaining the rule's source does not independently adjudicate every factor's validity, every sentencing safeguard, or every underlying conviction claim. Congress's offense boundaries constrain delegation without necessarily satisfying the separate assumed eligibility-narrowing requirement.
+
+**Limits and questions not reached:** The constitutional need for a service connection in capital military offenses remains open; no new prerequisite is imposed. Survival of an aggravator does not replace correction of a separately established injury.
+
+**Operative remedy or transition:** The convictions and sentence remain undisturbed against these authority challenges; no resentencing, replacement life sentence, new guilt trial, acquittal, release or execution is ordered. Article 71 independently requires a final judgment as to legality through applicable military and Supreme Court review routes where review has not been waived or withdrawn. Death cannot be executed without presidential approval; the President may commute or remit it but may not suspend it. Article 71(c)(2)'s separate waiver-or-withdrawal route concerns dismissal or punitive discharge, and subsection (d)'s suspension power excludes death. The Court supplies no presidential approval, execution date or determination that every execution prerequisite is complete.
+
+**Material judgment:** Affirmed, 9–0; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer support the judgment. The common rationale has eight direct supporters; Thomas's judgment vote is not a ninth rationale join.
+
+**Treatment of earlier authority:** *Arave v. Creech* retains genuine eligibility narrowing and the distinction between factor formulation and application. *Tuilaepa and Proctor* retain bounded individualized selection after unchallenged lawful eligibility, without enlarging partial joins. *Graham v. Collins* and *Johnson v. Texas* retain effective consideration of supported independent culpability mitigation. *Stringer v. Black*, *Sochor v. Florida* and *Espinosa v. Florida* retain their distinct established-weighing-error and adequate-cure requirements. *Tuggle v. Netherland* retains the independent-assistance-claim rule and unresolved error-effect standard. None establishes a delegation defect or harmlessness shortcut here. *Solorio v. United States*, 483 U.S. 435, remains a noncapital jurisdiction decision and does not resolve capital service connection.

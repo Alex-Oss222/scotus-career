@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1994
-**Processed through:** June 29, 1995, after all 99 OT1994 inventory Court events and the two admitted source events.
-**Edition:** October 1, 2026
+**Last completed October Term:** 1995
+**Processed through:** July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events.
+**Edition:** October 7, 2026
 
 ## Federal Taxation
 
@@ -84,7 +84,7 @@
 
 **Limits and questions not reached:** The judgment creates no general remedial-range test, health-injury requirement or discrimination-recovery exclusion. No separate FICA wages issue, punitive-damages classification, ordinary wage settlement, distinct tort allocation, amended statutory regime or Title VII jury-trial question is decided. The settlement establishes no adjudicated discrimination finding. No independently sufficient alternative holding has five votes. Further proceedings must give effect to reversal, without enlarging the recovery or valuation; no tax amount, separate withholding theory or reopening of the settlement is ordered.
 
-#### [Commissioner v. Schleier](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Commissioner_v_Schleier_merits_1995-06-14.md)
+#### Commissioner v. Schleier
 
 **Docket or dockets:** No. 94-500.
 **Decided:** June 14, 1995.
@@ -346,7 +346,7 @@ The controlling classification follows the coordinated statutory and regulatory 
 
 ### Gift-tax disclaimers
 
-#### [United States v. Irvine, 511 U.S. 224](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/United_States_v_Irvine_merits_1994-04-20.md)
+#### United States v. Irvine, 511 U.S. 224
 
 **Docket or dockets:** No. 92-1546.
 
@@ -391,7 +391,7 @@ The controlling classification follows the coordinated statutory and regulatory 
 
 ### Railroad property-tax exemptions
 
-#### [Department of Revenue of Oregon v. ACF Industries, Inc., 510 U.S. 332](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Department_of_Revenue_of_Oregon_v_ACF_Industries_Inc_merits_1994-01-24.md)
+#### Department of Revenue of Oregon v. ACF Industries, Inc., 510 U.S. 332
 
 **Docket or dockets:** No. 92-74.
 
@@ -427,7 +427,7 @@ The controlling classification follows the coordinated statutory and regulatory 
 
 ### Retroactive estate-tax amendments
 
-#### [United States v. Carlton, 512 U.S. 26](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/United_States_v_Carlton_merits_1994-06-13.md)
+#### United States v. Carlton, 512 U.S. 26
 
 **Docket or dockets:** No. 92-1941.
 
@@ -470,7 +470,7 @@ The controlling classification follows the coordinated statutory and regulatory 
 
 ### Federal obligations and private repurchase income
 
-#### [Nebraska Department of Revenue v. Loewenstein](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Nebraska_Department_of_Revenue_v_Loewenstein_merits_1994-12-12.md)
+#### Nebraska Department of Revenue v. Loewenstein
 
 **Docket or dockets:** No. 93-823.
 **Decided:** December 12, 1994.
@@ -506,7 +506,7 @@ For the other questions in this decision, see Constitutional Structure — Feder
 
 ### Refund suits by nonassessed property owners
 
-#### [United States v. Williams](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_Williams_merits_1995-04-25.md)
+#### United States v. Williams
 
 **Docket or dockets:** No. 94-395.
 **Decided:** April 25, 1995.
@@ -554,7 +554,7 @@ Section 2410 permits quiet-title proceedings against a claimed federal lien, wit
 
 ### State-tax refund procedures
 
-#### [Reich v. Collins](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Reich_v_Collins_merits_1994-12-06.md)
+#### Reich v. Collins
 
 **Docket or dockets:** No. 93-908.
 **Decided:** December 6, 1994.
@@ -574,3 +574,68 @@ Section 2410 permits quiet-title proceedings against a claimed federal lien, wit
 **Limits and questions not reached:** The substantive tax invalidity is already accepted. The Court neither declares every Georgia prepayment avenue inadequate nor converts discretionary stays into guaranteed stays. It creates no general government-estoppel doctrine, exemption from clearly announced reasonable requirements, fixed refund, interest award, or reopening of final judgments. Prospective procedural changes remain permissible with adequate review and fair notice.
 
 **Operative remedy or transition:** The Georgia Supreme Court's denial of adequate backward-looking relief is reversed and remanded for a clear and certain lawful remedial opportunity. No refund amount, interest award or reopening of final judgments is ordered.
+
+### Tax Court refund lookback periods
+
+#### Commissioner v. Lundy, 516 U.S. 235
+
+**Docket or dockets:** No. 94-1785.
+
+**Decided:** January 17, 1996.
+
+##### The notice-date hypothetical selects and measures the payment window
+
+**Holding:** Under §6512(b)(3)(B), a hypothetical refund claim filed on the deficiency-notice date both selects and measures the applicable §6511(b)(2) payment lookback. For the ordinary withholding claim here, no return existed at that date, so the two-year window applies; a later return cannot bring earlier payments into that window.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor), joined by Stone-Zsela, Scalia, Kennedy, Souter, Ginsburg and Breyer; seven Justices.
+
+**Material application:** No return existed at the September 26, 1990 deficiency notice; withholding deemed paid April 15, 1988 lies outside the two-year window. Section 6511(a) ordinarily uses three years after the return or two years after payment, whichever ends later, and two years after payment if no return is filed. Section 6511(b)(2)(A) covers payments within three years plus any filing-extension period before a claim within the three-year period; subparagraph (B) instead uses two years. Section 6512(b)(3)(B)'s hypothetical supplies a claim, not a return.
+
+**Limits and questions not reached:** Deficiency jurisdiction is distinct from refund authority. Section 6512(b)(3)(A)'s postnotice-payment route and (C)'s qualifying actual-prenotice-claim route remain separate. No filing extension, assessment-extension agreement, special-period item or qualifying alternative is established. The Court does not classify every tax deadline as jurisdictional or decide every nonfiler's rights.
+
+**Operative remedy or transition:** Reverse and remand; these withholding payments cannot be refunded under the presented §6512(b)(3)(B) route. Remaining deficiency computations remain available; no fixed refund or separate remedy is ordered.
+
+**Treatment of earlier authority:** Dalm's statutory-condition rule and Williams's distinct payer-eligibility holding remain. Reich's state-remedy protection is distinguished from Congress's Tax Court mechanism.
+
+### Firearm taxation and registration
+
+#### United States v. Hale, judgment below 978 F.2d 1016
+
+**Docket or dockets:** Eighth Circuit No. 91-3830; no separate Supreme Court docket supplied.
+
+**Decided:** February 12, 1996.
+
+##### The registration prohibition has an independent tax-administration basis
+
+**Holding:** Congress may require registration within a genuine firearm making-and-transfer tax system and prohibit receipt or possession of a covered firearm not registered to its possessor when that prohibition supports assessment, collection and tracing of taxable transactions. This independent taxing and necessary-administration ground defeats the presented power objection to the three §5861(d) convictions, without deciding prosecution for nonregistration of a firearm that could not lawfully be approved or taxed.
+
+**Proposition-level authority:** O'Connor's Part II, joined by all seven other Associate Justices; eight rationale joins. Stone-Zsela joins the judgment only.
+
+**Material application:** Section 5811 taxes transfers at $200, or $5 for an any-other-weapon under §5845(e), payable by the transferor; §5821 taxes making at $200, payable by the maker, subject to applicable exemptions not established here. Under §5841 the transferor registers a transferred firearm to the transferee. Sections 5812 and 5822 require advance approval and denial if the transfer, receipt or possession, or making or possession, respectively, would violate law. Section 5861(d) concerns registration to the possessor, not a universal late-application duty.
+
+**Limits and questions not reached:** No unlawful-registration-impossibility predicate, refused application or exemption is established; no remand to construct that different claim is ordered. An additional commerce ground is unnecessary.
+
+**Treatment of earlier authority:** Sonzinsky sustains genuine taxation and supporting registration despite regulatory effects; Miller rejects the presented general police-power objection; Freed explains lawful-transfer registration without deciding later §922(o). Staples's knowledge requirement remains distinct.
+
+**Operative remedy or transition:** The three §5861(d) convictions remain affirmed; no further proceedings follow from the power objection.
+
+### Export-transit insurance
+
+#### United States v. International Business Machines Corp., 517 U.S. 843
+
+**Docket or dockets:** 95-591
+**Decided:** June 10, 1996
+
+##### May a generally applicable federal insurance tax reach insurance of goods in export transit?
+
+**Holding:** Nondiscrimination does not remove a federal tax on goods in export transit from the Export Clause's prohibition. Under Thames & Mersey, 26 U.S.C. §4371 cannot tax the premiums for the export-transit insurance at issue; the rule does not exempt every activity or expense indirectly affecting exports.
+
+**Proposition-level authority:** Opinion of the Court (Thomas), joined by Stone-Zsela, O'Connor, Scalia, Souter and Breyer; six of eight participants. Stevens did not participate.
+
+**Material application:** The policies attached to identified outward shipments, and premiums reflected cargo value and shipment-specific risk. Risk-sensitive pricing did not distinguish the insurance category already protected. The challenged 1975–1984 assessments remained governed by the period-specific tax provisions.
+
+**Limits and questions not reached:** Ordinary pre-export burdens and genuinely distinct or tangential transactions remain outside this holding. The Court reserved comprehensive classification of other services and announced no facial invalidation of §4371, new exemption, or new review-scope restriction. Lebron permits consideration of an included argument without requiring its decision; the Government's presentation supported prudential reservation of the separate goods/services inquiry.
+
+**Operative remedy or transition:** Federal Circuit affirmed, 6–2; the refund judgment stands within the preserved claim and amount, with no new computation.
+
+**Treatment of earlier authority:** Thames & Mersey Marine Insurance Co. v. United States, 237 U.S. 19, is retained and applied; nondiscrimination alone does not displace it. Fairbank v. United States, 181 U.S. 283, and United States v. Hvoslef, 237 U.S. 1, protect the export transaction through its integral documents and carriage arrangements. Michelin Tire Corp. v. Wages, 423 U.S. 276, concerns state taxation outside transit; Washington Stevedoring, 435 U.S. 734, concerns services and reserves direct goods-in-transit taxation. Itel Containers addresses a distinct local container transaction; Jefferson Lines and Fulton retain transaction-specific Commerce Clause rules rather than changing the federal Export Clause. No precedent is overruled.

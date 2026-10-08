@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1994
-**Processed through:** June 29, 1995, after all 99 OT1994 inventory Court events and the two admitted source events.
-**Edition:** October 1, 2026
+**Last completed October Term:** 1995
+**Processed through:** July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events.
+**Edition:** October 7, 2026
 
 ## Property and Economic Rights
 
@@ -360,7 +360,7 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 For Nebraska v. Wyoming, April 20, 1993, No. 108, Original, concerning enforcement, modification and summary judgment in original actions, see **Federal Courts — Enforcement, modification and summary judgment in original actions**.
 
-#### [Nebraska v. Wyoming](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Nebraska_v_Wyoming_original_exceptions_1995-05-30.md)
+#### Nebraska v. Wyoming
 
 **Docket or dockets:** No. 108, Original.
 **Decided:** May 30, 1995.
@@ -481,7 +481,7 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 
 ### Civil real-property forfeiture
 
-#### [United States v. James Daniel Good Real Property, 510 U.S. 43](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/United_States_v_James_Daniel_Good_Real_Property_merits_1993-12-13.md)
+#### United States v. James Daniel Good Real Property, 510 U.S. 43
 
 **Docket or dockets:** No. 92-1180.
 
@@ -518,7 +518,7 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 
 ### Development permits and property dedications
 
-#### [Dolan v. City of Tigard, 512 U.S. 374](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Dolan_v_City_of_Tigard_merits_1994-06-24.md)
+#### Dolan v. City of Tigard, 512 U.S. 374
 
 **Docket or dockets:** No. 93-518.
 
@@ -566,7 +566,7 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 
 ### Existing businesses and prospective land-use regulation
 
-#### [Ambassador Books & Video, Inc. v. City of Little Rock](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Ambassador_Books_Video_Inc_v_City_of_Little_Rock_merits_1995-03-20.md)
+#### Ambassador Books & Video, Inc. v. City of Little Rock
 
 **Docket or dockets:** No. 93-1886.
 **Decided:** March 20, 1995.
@@ -603,7 +603,7 @@ For the other questions in this decision, see First Amendment — Adult-business
 
 ### Plant-variety protection and saved seed
 
-#### [Asgrow Seed Co. v. Winterboer](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Asgrow_Seed_Co_v_Winterboer_merits_1995-01-18.md)
+#### Asgrow Seed Co. v. Winterboer
 
 **Docket or dockets:** No. 92-2038.
 **Decided:** January 18, 1995.
@@ -622,7 +622,7 @@ For the other questions in this decision, see First Amendment — Adult-business
 
 **Current-force modification:** Pub. L. 103-349 §10 deletes the former farmer-to-farmer sales proviso for the amended regime from April 4, 1995. Under §14(a), varieties with certificates issued before that date and applications pending then retain former law except as §14 provides. Section 14(b) permits refiling a pending application under amended eligibility and protection terms while retaining its original date for §42; §14(c) requires notice identifying amended protection and retains §128 sanctions for false or misleading claims or labels. Asgrow's former-law holding and adjudicated transactions remain undisturbed. No refiling or transition exception is found, and no judicial construction of the amended saved-seed text is supplied.
 
-**Later-authority backlinks:** [Plant Variety Protection Act Amendments, Pub. L. 103-349, 108 Stat. 3136, effective April 4, 1995](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Plant_Variety_Protection_Act_Amendments_statutory_effectiveness_1995-04-04.md): §§10, 14–15, amended farmer-sales provision and former-law preservation. Section 9's separate contract-producer clause covers listed lawn, turf, forage-grass, alfalfa and clover crops, not these soybeans; this source creates no judicial holding.
+**Later-authority backlinks:** Plant Variety Protection Act Amendments, Pub. L. 103-349, 108 Stat. 3136, effective April 4, 1995: §§10, 14–15, amended farmer-sales provision and former-law preservation. Section 9's separate contract-producer clause covers listed lawn, turf, forage-grass, alfalfa and clover crops, not these soybeans; this source creates no judicial holding.
 
 ##### Marketing does not require an advertising or distribution apparatus
 
@@ -650,3 +650,162 @@ For the other questions in this decision, see First Amendment — Adult-business
 The seven-Justice Court opinion does not decide whether a sale actually authorized by §2543 must nevertheless satisfy §2541(6), because these sales fail the saved-seed condition. It makes no separate notice-infringement finding or damages award. Section 2541 concerns unauthorized acts in the United States or regulated or affected commerce, before protection expires but after certificate issuance or distribution with §2567 notice, subject to the subchapter's exceptions. Section 2541(6) concerns dispensing propagable protected material without the protected-variety notice under which it was received; failure of the saved-seed defense alone does not establish those elements. Former §2567 permits owners to give public notice by associating a label with seed or affixing it to its container or the variety, stating that unauthorized propagation or seed multiplication is prohibited and, after the certificate issues, adding a protected-variety designation. When an owner-authorized distribution reaches the infringer without that marking, the owner cannot recover damages unless the infringer has actual awareness that propagation is prohibited or the variety is protected; damages then extend only to infringement after such notice. For both damages and an injunction, a court may be lenient concerning disposal of material acquired in good faith through acts before such notice. These are reserved remedial conditions, not findings of marking, actual awareness, good faith, or entitlement to leniency in this case. Actual relief and precise lawful injunction implementation remain for the receiving courts. The adjudicated own-planting failure is not reopened by that limited return.
 
 **Operative remedy or transition:** The Federal Circuit is reversed, 8–1. The seven-Justice conclusion that these sales fail the saved-seed condition is not reopened on return; unresolved notice elements, damages and lawful injunction implementation remain. No separate notice-liability finding or monetary award is made.
+
+### Interstate river boundaries
+
+#### Louisiana v. Mississippi et al., 516 U.S. 22
+
+**Docket or dockets:** No. 121, Original.
+**Decided:** October 31, 1995.
+
+##### A continuing island after movement of the principal navigation channel
+
+**Holding:** When a river divides around a continuing island, the established interstate boundary remains on the island's original side despite movement of the principal downstream navigation channel to its other side. Ordinary erosion and accretion may move the still-running boundary channel on that original side; after it ceases running and becomes stagnant, filling does not continue to move the fixed boundary.
+
+**Proposition-level authority:** Souter's Part I, unanimous.
+
+**Material application:** The supported continuity of the disputed area with Stack Island preserves its Mississippi-side origin notwithstanding east-side erosion, west-side accretion and migration toward the Louisiana bank. The navigation channel and continuing boundary channel need not coincide.
+
+**Limits and questions not reached:** The navigation shift does not fix every coordinate immediately or make every divided-channel change an avulsion. Newly formed islands, avulsive mainland severance and total destruction followed by unrelated formation are not decided.
+
+**Treatment of earlier authority:** Missouri v. Kentucky supplies the established-island exception; Indiana v. Kentucky limits the significance of changed flow and filling while retaining its separate cession ground. Arkansas v. Tennessee, 246 U.S. 158 and 397 U.S. 88, distinguishes gradual movement of the active old channel from cessation. The earlier Louisiana/Mississippi thalweg decisions remain subject to that island exception, not replaced by universal immobility.
+
+##### Continuity shown without adopting a universal island definition
+
+**Holding:** Louisiana's disappearance and definition exceptions fail because cumulative evidence supports the relevant island's continuity even under Louisiana's proposed mean-high-water test. No universal minimum elevation, acreage or duration of an island, or uninterrupted survival of a pre-statehood landmass, is required or decided.
+
+**Proposition-level authority:** Souter's Part I, unanimous.
+
+**Material application:** The relevant island's Mississippi-side origin by 1881 and the cumulative mapping, light, affidavits, works, vegetation, elevation and survey evidence support continuing identity. The challenged overlay does not prove complete disappearance even assuming its authenticity; not every map must depict all land at every stage.
+
+**Limits and questions not reached:** No new exhibit measurement or reconciliation of the distinct 1948/1949 elevation descriptions is supplied. The island exception does not extend merely because a later formation bears the same name.
+
+**Treatment of earlier authority:** The established-island rule applies on supported continuity, not to every recurring shoal or similarly named formation.
+
+##### Former-channel boundary, independent original-action review and precise relief
+
+**Holding:** After independent review, the Court adopts the Master's former-channel boundary and rejects the Smith-line, southern-formation and technical-treatment exceptions. Precise relief must embody an authenticated, internally consistent description of that adjudicated boundary; the Master's technical work receives appropriate evidentiary weight but is not binding through Rule 52 appellate deference.
+
+**Proposition-level authority:** Souter's Part I, unanimous.
+
+**Material application:** The adopted reasoning distinguishes an earlier borrowed line from the later boundary determination and treats the southern formations by their position relative to the relevant channel before merger and cessation. It does not award every downstream deposit to the island.
+
+**Operative remedy or transition:** Overrule the exceptions and direct a verified decree; the October decision makes no inconsistent coordinate operative. The report's Appendix A and E differed at Point 3 between 32°48′47″N and 32°49′47″N, both at 91°09′37″W. Prescription and acquiescence are unnecessary, and no private-parcel injunction or costs are ordered.
+
+**Current-force modification:** The December 4, 1995 decree, 516 U.S. 122, No. 121, Original, supplies the authenticated twenty-two-call schedule, including Point 3 at 32°48′47″N, 91°09′37″W, and implements this entitlement with its fixed/live-reach distinction. The October authentication condition is thereby satisfied without changing the merits boundary or declaring a later river movement.
+
+**Treatment of earlier authority:** Kansas v. Colorado supplies independent original-action review with appropriate weight for supported technical work. Nebraska v. Wyoming distinguishes established entitlement from the proof required for exact relief.
+
+**Later-authority backlinks:** Louisiana v. Mississippi, decree of December 4, 1995, No. 121, Original—authenticated boundary implementation and fixed/live-reach qualification.
+
+##### Sovereignty does not resolve absent owners' competing private titles
+
+**Holding:** Louisiana's unexcepted failure to obtain cancellation of the Houston Group's title remains undisturbed at its stranger-to-title standing scope. Sovereignty adjudication supplies no authority for Louisiana to assert unspecified owners' superior titles or to determine absent owners' rights.
+
+**Proposition-level authority:** Souter's Part I, unanimous.
+
+**Limits and questions not reached:** No universal quiet-title judgment or alternative patent, deed-description or laches ground is adopted. An earlier district-court interstate determination made without jurisdiction has no binding force.
+
+**Treatment of earlier authority:** Mississippi v. Louisiana reserves actual interstate controversies to this Court's exclusive original jurisdiction while preserving otherwise lawful private-title litigation.
+
+##### Request for a new supplemental hearing after a full evidentiary opportunity
+
+**Holding:** The new-hearing petition is denied because the incorporated record, extensive supplemental testimony and exhibits, cross-examination, argument and two site views provided a full opportunity to present the objections and Louisiana establishes no material defect requiring another hearing. Disagreement with resolved evidence alone does not require repetition; a genuine denial of opportunity or material evidentiary defect remains a different case.
+
+**Proposition-level authority:** Souter's Part II; all eight Associates join. Stone-Zsela concurs only in the judgment without an additional ground.
+
+**Operative remedy or transition:** Deny the requested new hearing, unanimous in judgment, without excluding genuine technical proof categorically.
+
+**Treatment of earlier authority:** Kansas's independent-review principle survives; no categorical prohibition on further evidence or presumption of a Master's infallibility follows.
+
+#### Louisiana v. Mississippi et al., 516 U.S. 122
+
+**Docket or dockets:** No. 121, Original.
+**Decided:** December 4, 1995.
+
+##### Authenticated geographic implementation of the October 31 boundary
+
+**Holding:** The decree gives operative geographic form to the October 31 former-channel entitlement through the authenticated twenty-two-call schedule, subject to the distinction between fixed and live reaches. It establishes no new survey finding or altered merits boundary.
+
+**Proposition-level authority:** The Court's unsigned decree implements Souter's unanimous October 31 Part I. The decree discloses no numerical vote or individual action lineup; the earlier opinion supplies the geographic-entitlement authority.
+
+**Operative remedy or transition:** The following calls define the ordered line:
+
+| Point | North latitude | West longitude |
+|---:|---|---|
+| 1 | 32°49′25″ | 91°09′27″ |
+| 2 | 32°49′00″ | 91°09′34″ |
+| 3 | 32°48′47″ | 91°09′37″ |
+| 4 | 32°48′30″ | 91°09′39″ |
+| 5 | 32°48′00″ | 91°09′47″ |
+| 6 | 32°47′18″ | 91°09′51″ |
+| 7 | 32°47′06″ | 91°09′54″ |
+| 8 | 32°47′00″ | 91°09′59″ |
+| 9 | 32°46′50″ | 91°10′07″ |
+| 10 | 32°46′35″ | 91°10′14″ |
+| 11 | 32°46′20″ | 91°10′16″ |
+| 12 | 32°46′00″ | 91°10′18″ |
+| 13 | 32°45′45″ | 91°10′20″ |
+| 14 | 32°45′30″ | 91°10′18″ |
+| 15 | 32°45′15″ | 91°10′12″ |
+| 16 | 32°45′00″ | 91°10′01″ |
+| 17 | 32°44′45″ | 91°09′49″ |
+| 18 | 32°44′30″ | 91°09′38″ |
+| 19 | 32°44′23″ | 91°09′30″ |
+| 20 | 32°44′15″ | 91°09′18″ |
+| 21 | 32°44′07″ | 91°09′00″ |
+| 22 | 32°44′00″ | 91°08′44″ |
+
+**Limits and questions not reached:** Point 1 is at the foot of Baleshed Towhead's west bounds and head of Stack Island's west bounds on the abandoned channel fixed about 1954. The description traces that boundary channel southward. Point 21 is the 1975 downstream end of the fixed thalweg and beginning of the 1975 live thalweg; the schedule does not fix that live reach permanently or adjudicate later movement. All twenty-two calls govern notwithstanding the source introduction's twenty-one-point reference. No post-1975 survey, redraw or Louisiana consent is found.
+
+**Treatment of earlier authority:** The October 31 opinion's entitlement and authentication reservation are implemented. Nebraska v. Wyoming's enforcement/modification distinction remains, with no new allocation or theory.
+
+##### Private-title denial and the limited authority to implement the interstate decree
+
+**Holding:** Denial of Louisiana's private-title cancellation prayer for lack of standing as a stranger to title neither resolves absent owners' competing rights nor declares the Houston Group's title universally superior. Jurisdiction to implement and enforce this decree authorizes lawful further implementation, not reopening resolved exceptions or substituting a different boundary.
+
+**Proposition-level authority:** The unsigned decree implements the October 31 unanimous private-title and retained-jurisdiction ruling; no action tally is disclosed.
+
+**Operative remedy or transition:** Deny the bounded cancellation prayer; impose no costs or private-parcel injunction. No new title-cancellation hearing is directed.
+
+**Treatment of earlier authority:** Mississippi v. Louisiana preserves the separation of sovereign boundaries and lawful private-title litigation. No patent, deed-description, laches, prescription, acquiescence or new island-definition ground is adopted.
+
+### Innocent-owner protection in forfeiture
+
+#### Bennis v. Michigan, 516 U.S. 442
+
+**Docket or dockets:** No. 94-8729.
+
+**Decided:** March 4, 1996.
+
+##### A qualified owner defense applies to this nuisance forfeiture
+
+**Holding:** Due process forbids forfeiture of a co-owner's separately held interest in an ordinarily lawful automobile on account of another's prohibited use when the claimant establishes that she neither participated in nor knew of that use and did all that reasonably could be expected in the circumstances to prevent it. Ordinary co-ownership and permission for shared lawful use do not conclusively defeat that protection; knowingly tolerated misuse, culpable entrustment and omitted reasonably expected precautions fall outside it.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), Part I, joined by Stevens, Kennedy, Souter and Breyer; five Justices.
+
+**Limits and questions not reached:** The claimant bears the showing under ordinary state factfinding rules with a meaningful opportunity to establish it; no numerical or heightened proof standard or State duty to disprove every owner's innocence is created. Reasonable prevention means practical precautions, not constant supervision, omniscience or prevention at any imaginable cost. Ignorance, marriage and joint title establish neither success nor omitted precautions. Contraband, materially different maritime cases, involuntary taking of possession and a comprehensive instrumentality test remain unresolved.
+
+**Treatment of earlier authority:** Calero-Toledo's reasonable-prevention reservation is adopted as a substantive due-process protection in this setting; its actual forfeiture holding survives. Goldsmith-Grant and Van Oster remain applicable outside the newly protected category. Austin, Good and Buena Vista retain their distinct constitutional or statutory scope.
+
+##### Lawful forfeiture and compensable acquisition remain distinct
+
+**Holding:** A constitutionally and statutorily lawful forfeiture does not automatically require an additional compensation payment under the Takings Clause. That proposition cannot establish the lawfulness of forfeiting this claimant's interest before the due-process defense is resolved, and it supplies no independent compensation judgment here.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), Part II, joined by Stevens, Kennedy, Souter and Breyer; five Justices. The four dissenters independently accept the lawful-forfeiture premise but reject its application and the judgment here.
+
+**Limits and questions not reached:** Protecting an interest that cannot lawfully be forfeited supplies property relief, not compensation after authorizing the taking; no independent compensation amount is adjudicated.
+
+**Treatment of earlier authority:** Calero-Toledo's lawful-forfeiture/takings distinction is applied within its premise of a valid forfeiture. Fuller's separate valuation holding remains confined to its stated setting and supplies no general immunity from the Takings Clause.
+
+##### Unresolved protection predicates require a limited remand
+
+**Holding:** The judgment is vacated insofar as it sustains forfeiture of Tina Bennis's interest without determining the newly recognized defense; the state court must afford a meaningful opportunity to establish her actual ownership, nonparticipation, lack of knowledge and all reasonably expected prevention, and decide those predicates. If she succeeds, it must preserve or restore her proven interest through a lawful limitation of forfeiture or corresponding property relief; if she fails, this defense does not prevent otherwise valid abatement.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), Part III, joined by Stevens, Kennedy, Souter and Breyer; five Justices.
+
+**Operative remedy or transition:** Vacate only the judgment sustaining forfeiture of Tina's interest. Existing usable evidence may be used, with further proceedings only as needed; no automatic repeat hearing. If the defense is established, release, division, sale accounting or another lawful property remedy must reflect proved ownership and value. No half share, fixed gross or net payment, mandatory sale or particular expense allocation is directed. John's conviction and lawful forfeiture of his interest remain intact; that interest is not transferred to Tina. State equitable discretion cannot substitute for constitutionally required protection.
+
+**Limits and questions not reached:** No independent Excessive Fines adjudication, state-incorporation holding or new state-law construction is made.
+
+**Treatment of earlier authority:** Buena Vista's distinction between eligibility and factual entitlement informs the confined remand without converting its statutory defense into this constitutional rule. Good's process holding and Libretti's statutory-authority and third-party boundaries remain distinct and effective.

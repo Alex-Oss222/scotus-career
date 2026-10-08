@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1994
-**Processed through:** June 29, 1995, after all 99 OT1994 inventory Court events and the two admitted source events.
-**Edition:** October 1, 2026
+**Last completed October Term:** 1995
+**Processed through:** July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events.
+**Edition:** October 7, 2026
 
 ## Election Law
 
@@ -251,7 +251,7 @@ For the other question-level holdings in Shaw v. Reno, June 28, 1993, No. 92-357
 - Conley v. Gibson, 355 U.S. 41; Leatherman, March 3, 1993: ordinary notice pleading retained, no demand for expert proof or a replacement map.
 - Growe and Voinovich: statutory prerequisites, state primacy and unresolved coalition/influence questions remain distinct; no additional constitutional-injury gate imposed on § 2.
 
-#### [Johnson v. Miller (Miller v. Johnson / Abrams v. Johnson / United States v. Johnson)](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Miller_and_consolidated_merits_1995-06-29.md)
+#### Johnson v. Miller (Miller v. Johnson / Abrams v. Johnson / United States v. Johnson)
 
 **Docket or dockets:** Nos. 94-631; 94-797; 94-929.
 **Decided:** June 29, 1995.
@@ -332,9 +332,36 @@ For the other questions in Johnson v. Miller (Miller v. Johnson / Abrams v. John
 
 **Operative remedy or transition:** Affirm the three-judge district court's judgment for Georgia and denial of injunctive relief in Nos. 94-631, 94-797 and 94-929, without remand. No injunction or redrawing order is unwound and no new injury inquiry, map order, election cancellation or retained supervision is imposed. The judgment does not certify the entire plan or adjudicate separate claims against federal officials.
 
+#### Bush v. Vera; Lawson v. Vera; United States v. Vera
+
+**Docket or dockets:** 94-805, 94-806 and 94-988
+**Decided:** June 13, 1996
+
+##### Does racial predominance in a shared constituency establish the sole design-only equal-protection claim?
+
+**Holding:** Race-conscious design of a shared territorial constituency, including predominant racial consideration subordinating ordinary districting criteria, does not alone establish this equal-protection deprivation or trigger strict scrutiny. Even assuming the strongest predominance and subordination premises in Districts 18, 29 and 30, the sole design-only claims cannot sustain their invalidation.
+
+**Proposition-level authority:** Opinion of the Court (Souter), joined by Stone-Zsela, Stevens, Ginsburg and Breyer; five direct joins.
+
+**Material application:** The Court assumes predominance for legal sufficiency without conclusively deciding disputed Dallas purpose findings or holding that the districts satisfy strict scrutiny. Shared composition imposes no racial eligibility requirement, political belief, inferior civic membership or legal duty to serve only one race.
+
+**Limits and questions not reached:** Actual exclusion, intentional dilution, materially unequal participation, inferior civic status or another recognized deprivation may be complete in governmental conduct without a second act, monetary loss or changed election winner. None supplies an independent basis for this decree. Shape remains evidence, not an automatic wrong; formal access is not a complete equality guarantee. Lawful voluntary consideration of racial conditions needs no exact federal map command. Sections 2 and 5 retain separate coverage, proof, comparison, totality and enforcement requirements without a new constitutional-injury prerequisite, maximization duty, proportional-results entitlement or conclusive proportionality safe harbor.
+
+**Treatment of earlier authority:** Shaw's territorial-design boundary, Miller's predominance application and SCLC's statutory/remedial distinctions are applied unchanged. Croson and Adarand retain their opportunity-allocation rules. Gomillion protects against exclusion accomplished by boundaries; Anderson, White and McLaurin protect operative equality beyond a changed winner or formal access. Voinovich preserves permission versus federal compulsion. Gingles, Growe, Holder and De Grandy retain claim-specific statutory requirements; Beer, Pleasant Grove, Morris and Morse retain distinct nonretrogression, purpose, preclearance and review rules.
+
+##### What relief survives failure of the sole adjudicated design-only claim?
+
+**Holding:** Failure on the merits of the sole adjudicated basis for the three-district decree requires judgment for defendants and termination of the dependent declaration, injunction, compulsory-redraw direction and remedial proceedings. It does not revive dismissed counts, reopen unappealed district judgments or authorize an inquiry to manufacture another injury.
+
+**Proposition-level authority:** Souter's merits-and-remedy opinion, the same five Justices.
+
+**Operative remedy or transition:** All three judgments are reversed and remanded, each 5–4. The September 20 injunction against the specified Plan C657 districts' 1996 elections and candidate qualifying must be dissolved. The fee-application direction establishes no surviving entitlement from the reversed merits ruling; no fee award or amount is decided, and distinct properly presented collateral requests retain their requirements. The 21 unappealed district rulings and dismissed statutory, state-constitutional and Fifteenth Amendment claims remain untouched; the Fifth Amendment reference supplied no independent relief. No map, election cancellation, special election, new timetable or continuing supervision is ordered; no passed deadline establishes compliance or contempt. Federal preclearance remains unaffected.
+
+**Treatment of earlier authority:** Shaw and Miller distinguish a failed substantive theory from jurisdictional dismissal; no jurisdictional dismissal or certificate of universal map validity follows. The threshold holdings for these dockets appear under Federal Courts, Direct review of three-judge merits judgments.
+
 ### Voting Rights Act comparisons and unequal opportunity
 
-#### [Holder v. Hall](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Holder_v_Hall_merits_1994-06-30.md)
+#### Holder v. Hall
 
 **Docket or dockets:** No. 91-2012.
 
@@ -392,7 +419,7 @@ For the other questions in Johnson v. Miller (Miller v. Johnson / Abrams v. John
 
 **Operative remedy or transition:** The Eleventh Circuit's Section 2 liability judgment and existing remand for formulation of a lawful remedy are affirmed, 5–4. Relief must cure the established violation with attention to genuine county-government interests and responsible state institutions. No new liability trial, mandatory board size, map, racial quota or electoral winner is ordered; the constitutional alternative remains unnecessary.
 
-#### [Johnson v. De Grandy, 512 U.S. 997](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Johnson_v_De_Grandy_merits_1994-06-30.md)
+#### Johnson v. De Grandy, 512 U.S. 997
 
 **Docket or dockets:** Nos. 92-519, 92-593 and 92-767.
 
@@ -458,3 +485,146 @@ For the other questions in Johnson v. De Grandy, 1994-06-30, Nos. 92-519, 92-593
 - Holder, June 30, 1994: preserves the obligation to formulate lawful relief for an established wrong; no competing-remedies exception to liability or relief is recognized.
 
 **Operative remedy or transition:** The House liability judgment and dependent Modified De Grandy Plan 268 remedy are reversed in No. 92-519; the Senate judgment is affirmed in Nos. 92-593 and 92-767, each 7–2. Implementation must follow lawful election administration. No new liability trial, extra Senate district, Supreme Court replacement map or special election timetable is ordered. Congressional proceedings, the Escambia settlement, dismissed claims and preclearance determinations remain undisturbed.
+
+### Judicial elections and Section 2
+
+#### Southern Christian Leadership Conference of Alabama v. Sessions
+
+**Docket or dockets:** No separate Supreme Court docket assigned; source petition No. 95-647; judgment below, 56 F.3d 1281.
+**Decided:** December 18, 1995.
+
+##### Actual electoral opportunity under the Section 2 results inquiry
+
+**Holding:** Section 2 covers these at-large judicial elections and requires unequal opportunity for minority voters to elect their actual preferred candidates under the applicable Gingles conditions and totality of circumstances. It requires neither a Black preferred candidate nor racial motivation by voters or legislators; candidate preference, incumbency, appointments, partisanship, qualifications and success require contextual treatment in the actual challenged jurisdictions, without conclusive reliance on success elsewhere or nondiscriminatory enactment.
+
+**Proposition-level authority:** Opinion of the Court (Souter), joined by Stone-Zsela, Stevens, Ginsburg and Breyer; five direct votes for all three holdings and remand. O'Connor/Kennedy's failure-of-proof dissent and Scalia/Thomas's noncoverage dissent supply no combined contrary proposition or additional majority joins.
+
+**Limits and questions not reached:** Gingles requires a minority sufficiently large and geographically compact for a district majority, political cohesion, and majority bloc voting ordinarily defeating preferred candidates, with special circumstances such as an unopposed minority candidate considered; those conditions alone do not prove ultimate liability. Supported subsidiary findings survive, but factual deference cannot resolve use of incorrect legal criteria. White-only and statewide contests are not categorically excluded; no expert is chosen, statistical formula prescribed, or dilution found.
+
+**Treatment of earlier authority:** Chisom and Houston Lawyers preserve judicial-election coverage. Gingles retains its causal conditions and qualifications without a motive element. De Grandy requires local opportunity and totality, rejecting candidate-race proxies, maximization, proportional-results entitlements and numerical safe harbors while retaining meaningful success as evidence.
+
+##### Judicial structure and lawful comparison or remedy
+
+**Holding:** Section 2 comparisons and remedies in judicial elections must have legal and practical grounding and fit the governmental task, giving genuine weight to electorate/jurisdiction linkage, the qualified-candidate pool and judicial administration. Those interests do not categorically defeat a proved violation or every remedy; racial awareness in territorial remedial design alone does not establish unconstitutional racial partiality, while an independently cognizable constitutional injury remains subject to its own rules.
+
+**Proposition-level authority:** The same five-Justice Souter opinion.
+
+**Limits and questions not reached:** A feasible subdistrict alone proves neither liability nor a duty to restructure. No uniquely ideal benchmark is required, no plan selected and no particular map's constitutionality or practicality decided. No added constitutional-injury gate is imposed on Section 2.
+
+**Treatment of earlier authority:** Houston Lawyers makes linkage legitimate but nonconclusive. Holder requires a legally and practically grounded comparison rather than structure selected solely for desired racial winners, and preserves the distinction between comparison, liability and relief. Shaw and Miller reject design or racial predominance alone as constitutional injury; actual exclusion, intentional dilution, unequal participation and inferior civic status remain reviewable without presuming racially partial judges.
+
+##### Reconsideration of both independent grounds without restored liability
+
+**Holding:** Because legal errors affect both the independent no-dilution inquiry and categorical remedial premises, the lower judgment must be reconsidered under the correct opportunity, comparison and remedy standards while preserving supported historical findings and plaintiffs' burden on every condition and ultimate unequal opportunity. Relief requires a proved violation and must be lawful and practicable; insufficient proof under the corrected inquiry permits renewed judgment for the State.
+
+**Proposition-level authority:** The same five-Justice Souter opinion.
+
+**Operative remedy or transition:** Vacate and remand, 5–4, through the Eleventh Circuit, beginning with the independent opportunity ground and arranging properly necessary further proceedings. No liability trial, expert study, electoral change, new office, cumulative-voting arrangement, injunction, map or timetable is ordered.
+
+**Limits and questions not reached:** Review covers circuit-judge elections in Alabama's Fourth, Fifth, Sixth, Seventh, Tenth, Thirteenth, Fifteenth, Twentieth, Twenty-Third and Twenty-Sixth Circuits and district-judge elections in Jefferson, Mobile, Montgomery and Russell Counties. The statewide class does not expand this to all forty circuits or every office. Constitutional-purpose claims are not revived; cumulative voting mentioned only in the lower dissent is no preserved remedy. No population denominator or burden shift is adopted.
+
+**Treatment of earlier authority:** Gingles and De Grandy preserve causal and ultimate-totality proof; Holder keeps lawful grounded comparison distinct from violation and remedy. The decision applies those rules without creating a new coverage or proof regime.
+
+### Federal voter-registration duties
+
+#### Voting Rights Coalition v. Wilson, judgment below 60 F.3d 1411
+
+**Docket or dockets:** Petition identifier No. 95-673; Ninth Circuit No. 95-15449; no separate Supreme Court docket assigned.
+
+**Decided:** February 26, 1996.
+
+##### Whether Congress may impose the challenged congressional-election registration duties
+
+**Holding:** Article I, §4 authorizes the NVRA's challenged distribution, assistance, acceptance and transmittal commands to motor-vehicle, public-assistance and disability-service personnel, including registration at home where the designated disability office already serves the person there. Assigning electoral work to previously multipurpose agencies is within that allocation, and California's demand for federal reimbursement does not excuse compliance.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor), unanimous.
+
+**Limits and questions not reached:** The duties are not sustained as costless, trivial or voluntary; no general authority to command state administration follows. The sustained duties retain the following enacted qualifications, rather than new judicial conditions:
+
+- The Act governs federal elections. Section 4(b) exempts a State with no federal-election registration requirement under law continuously effective on and after March 11, 1993; it also exempts a State permitting every voter to register at the polling place during a general federal election under law continuously effective on and after that date, or enacted by that date to take effect on enactment of the NVRA and continuously maintained thereafter. Those conditions are not a present opt-out for California.
+- Under §5(a), a driver's-license or renewal application serves as a federal voter-registration application unless the applicant fails to sign the registration application; a submitted registration application updates prior registration. Under the distinct §5(d) exception, a driver's-license change-of-address form serves as a voter-registration address change unless the registrant states that it is not for that purpose. The license-registration portion may not demand duplicate license information except a second signature or information necessary for the required eligibility statement and attestation, and may require only the minimum information needed to prevent duplicates and permit eligibility assessment and administration.
+- Section 7 requires designation of all public-assistance offices and offices providing state-funded programs primarily serving persons with disabilities, as well as other registration offices. Federal and nongovernmental offices may be designated with their agreement. Designated offices must distribute, assist with and accept forms for transmittal; a designated disability office providing services at home must provide those registration services there. An applicant may refuse assistance. Distribution with the public-assistance or disability-service application, recertification, renewal or address-change form may be omitted when the applicant declines registration in writing; applicants who do not decline receive the same degree of assistance as with the office's own forms unless they refuse it. Failure to mark either registration-choice box counts as declination for the assistance provision. Staff may not seek to influence or display political preference, discourage registration, or suggest that registration choice affects services or benefits; declination and source information retain their statutory confidentiality protections.
+- Sections 5(e) and 7(d) ordinarily require transmittal to the proper state election official within ten days after acceptance. When an application is accepted within five days before the last registration day for an election, transmittal is due within five days after acceptance. These are statutory duties, distinct from the district court's implementation-plan direction. State officials retain registration and roll decisions within the statute; the decision does not require identical federal and state rolls or determine a particular implementation practice.
+
+**Treatment of earlier authority:** Smiley includes registration in the manner power; Siebold permits partial federal alteration through shared state administration. New York's ordinary-commerce structural prohibition remains, distinguished by Article I, §4's express allocation.
+
+##### The distinct constitutional basis for presidential registration
+
+**Holding:** The challenged safeguards for California's chosen popular presidential election are valid under the national protective authority recognized by Burroughs, implemented through necessary-and-proper legislation. Article I, §4 alone does not supply presidential-election authority.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor), unanimous.
+
+**Limits and questions not reached:** The Act neither chooses the appointment method nor selects or allocates electors. This holding concerns registration opportunities, eligibility attestations and reliable rolls for the chosen popular election, not unlimited redesign or identical scope of congressional and presidential authority.
+
+**Treatment of earlier authority:** Burroughs's national protective principle extends from its political-committee corrupt-practices setting to these registration safeguards at the stated scope.
+
+##### Whether the methods themselves redefine substantive voter qualifications
+
+**Holding:** The challenged prescribed registration methods do not themselves redefine who is qualified to vote. Article I, §2 and the Seventeenth Amendment retain their qualification rules; eligibility statements, citizenship information and signed perjury attestations remain, with state officials assessing eligibility within the Act's procedural limits.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor), unanimous.
+
+**Limits and questions not reached:** The federal mail form may not require notarization or other formal authentication. Permissible information and roll maintenance remain federally regulated; concrete eligibility, information and maintenance controversies are unresolved. Identical state and federal rolls are not required.
+
+**Treatment of earlier authority:** Term Limits preserves the genuine-administration/additional-qualification distinction without expanding its candidate holding into every voter-qualification dispute.
+
+##### The public-enforcement basis and limits of the compliance injunction
+
+**Holding:** NVRA §11(a) independently authorizes the Attorney General's declaratory and injunctive action against California's established categorical noncompliance; private §11(b) notice conditions do not govern that action. The State's immunity objection cannot defeat the United States' authorized prospective enforcement by treating the action as a private damages suit.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor), unanimous.
+
+**Limits and questions not reached:** No damages, general private-enforcement immunity holding or finding of private notice compliance is made. The Fourteenth/Fifteenth Amendment alternative remains unneeded and undecided; implementation complexity alone supplies no basis for vacating a permanent injunction without an identified unauthorized command.
+
+**Operative remedy or transition:** Affirm the permanent injunction, existing implementation remand and retained appellate jurisdiction. Implementation must impose no burden unauthorized by the Act impairing retained state-election administration and must respect federalism. No original ten-day plan deadline is restarted; no new plan, process, severance or compliance finding is ordered. Reserved coalition claims and dismissals without prejudice of the FEC and chair remain as entered; appellate costs remain denied to every party.
+
+### Party conventions and voting rights
+
+#### Morse v. Republican Party of Virginia, 517 U.S. 186
+
+**Docket or dockets:** No. 94-203.
+**Decided:** March 27, 1996.
+
+##### The identified convention payment preserves a live statutory controversy
+
+**Holding:** The convention's completion does not moot this appeal because Morse seeks return of his identified $45 payment on a substantial statutory restoration theory not conclusively eliminated by the judgment. That personal controversy permits decision of coverage and private-action questions without establishing repayment, the proper refund defendant or every plaintiff's prospective standing.
+
+**Proposition-level authority:** Souter's Part I, joined by all seven other Associates: eight Justices. Stone-Zsela does not join this threshold explanation.
+
+**Limits and questions not reached:** Morse paid the fee and repaid a campaign reimbursement. Ultimate statutory authorization for money remains a merits question. Future-participation requests need their own live basis; no common recurrence holding or general §5 damages rule is established. The statutory three-judge injunctive judgment and direct-review provisions provide the review channel.
+
+**Treatment of earlier authority:** Franklin v. Gwinnett County distinguishes an existing action from available relief; Meghrig requires actual statutory authority for restoration without excluding every restitution theory.
+
+##### Section 5 covers the pleaded primary-like convention's changed financial prerequisite
+
+**Holding:** On the accepted dismissal-stage allegations, a changed financial prerequisite to this qualifying party's primary-like convention selecting its preferential general-ballot nominee falls within §5. The combined electoral function, pleaded participation practice and Virginia statutory nomination relationship establish coverage without a categorical convention exemption.
+
+**Proposition-level authority:** Souter's Part II, joined by Stone-Zsela, Stevens, O'Connor, Ginsburg and Breyer: six Justices. Broader delegation and party-office reasoning is not the Court's holding.
+
+**Material application:** Otherwise qualified applicants professing party loyalty allegedly could participate and choose the nominee upon payment. The fee directly burdened that electoral choice. Section 51.7's voting nexus, public-electoral-function and covered-jurisdiction-authority conditions are satisfied; its exclusions for recruitment, campaigning and platform drafting remain. An appropriate party official may submit under §51.23(b).
+
+**Limits and questions not reached:** The complaint's no-fee-on-November-1-1964 allegation is not a final finding against the contrary affidavit or written delegate-selection, slating and instruction rules. No unprecleared primary-to-convention switch is established. Coverage requires no antecedent finding of racial purpose, effect or fee illegality and establishes none. This fee submission is sufficiently removed from compelled messages, platforms and expressive composition, without approving every convention regulation, making every party governmental or making ballot preference alone determinative of constitutional state action.
+
+**Treatment of earlier authority:** Allen's functional voting protection and Smith and Terry's nomination cases reject private-form exemptions. Presley distinguishes direct voting prerequisites from internal allocations of governing authority. Sheffield informs the statutory inquiry without making every constitutional state actor a covered government. Hurley preserves actual expressive choice while supplying no categorical immunity for this fee.
+
+##### Section 10 supports the particular private voting-protection action
+
+**Holding:** Affected voters may pursue the asserted private §10 action against an alleged unlawful voting poll tax or qualifying substitute. The express Attorney General route does not alone require dismissal; this provision-specific action does not establish the fee's illegality, repayment or a general implied-action rule.
+
+**Proposition-level authority:** Souter's Part III, joined by the same six Justices as Part II.
+
+**Limits and questions not reached:** The §10(a) findings and constitutional declaration, subsection (b)'s official-enforcement direction and subsection (c)'s judicial channel retain distinct functions. The substitute-tax language concerns a substitute enacted after November 1, 1964; former subsection (d)'s late-payment exception was repealed in 1975. Remaining poll-tax defenses, the proper repayment defendant, monetary authority and effects of lawful §5 proceedings require separate adjudication. No §1983 theory or unpresented §2 claim is adopted.
+
+**Treatment of earlier authority:** Allen's private-§5 reasoning supports but did not already decide this §10 action. Suter requires provision-specific congressional intent, supplied by this Act's design and received enforcement context rather than remedial usefulness. Central Bank offers a limited received-action analogy; Varity's express equity authorization creates no VRA action. Neither fees nor jurisdiction provisions independently create the action.
+
+##### The baseline, designated preclearance process and statutory merits constrain relief
+
+**Holding:** The local court must enforce §5 submission for a legally relevant unprecleared fee change from the operative baseline while leaving purpose and effect to the designated D.D.C./Attorney General process. The private §10 action proceeds under its own requirements and defenses; reversal establishes neither substantive invalidity nor a monetary award.
+
+**Proposition-level authority:** Souter's Part IV, joined by the same six Justices. Both statutory dismissals are reversed 6–3.
+
+**Limits and questions not reached:** Virginia's baseline is November 1, 1964. Section 5 permits the prescribed D.D.C. declaration of absence of prohibited purpose and effect or Attorney General submission followed by sixty-day nonobjection. Good cause permits expedited affirmative nonobjection, subject to reexamination on additional information during the remaining sixty days. Neither nonobjection nor the declaration bars a later enforcement challenge. An earlier fee does not preclear a later change, and coverage alone is not retrogression.
+
+**Operative remedy or transition:** Reverse Counts III and IV for the stated proceedings. No expired preliminary convention request is revived; no new convention, election, nominee, classwide repayment, general damages or fee amount is ordered. Separate constitutional Counts I–II and Count V's reported voluntary dismissal remain undisturbed; further prospective relief needs its own live basis.
+
+**Treatment of earlier authority:** Shaw preserves the designated preclearance channel, and Morris bars replacing its purpose-and-effect determination through local coverage review. Holder's distinct §2 coverage, comparison, liability and remedy remain unchanged.

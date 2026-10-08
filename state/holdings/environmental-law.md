@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1994
-**Processed through:** June 29, 1995, after all 99 OT1994 inventory Court events and the two admitted source events.
-**Edition:** October 1, 2026
+**Last completed October Term:** 1995
+**Processed through:** July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events.
+**Edition:** October 7, 2026
 
 ## Environmental Law
 
@@ -46,7 +46,7 @@ For *Arkansas v. Oklahoma*, Nos. 90-1262 and 90-1266, decided February 26, 1992,
 
 ### Resource-recovery ash and statutory exclusions
 
-#### [City of Chicago v. Environmental Defense Fund, 511 U.S. 328](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/City_of_Chicago_v_Environmental_Defense_Fund_merits_1994-05-02.md)
+#### City of Chicago v. Environmental Defense Fund, 511 U.S. 328
 
 **Docket or dockets:** No. 92-1639.
 
@@ -70,7 +70,7 @@ For the other questions in City of Chicago v. Environmental Defense Fund, 1994-0
 
 ### Water-quality certification
 
-#### [PUD No. 1 of Jefferson County v. Washington Department of Ecology, 511 U.S. 700](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/PUD_No_1_of_Jefferson_County_v_Washington_Department_of_Ecology_merits_1994-05-31.md)
+#### PUD No. 1 of Jefferson County v. Washington Department of Ecology, 511 U.S. 700
 
 **Docket or dockets:** No. 92-1911.
 
@@ -156,7 +156,7 @@ For the other questions in City of Chicago v. Environmental Defense Fund, 1994-0
 
 ### CERCLA response costs and legal services
 
-#### [Key Tronic Corp. v. United States, 511 U.S. 809](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Key_Tronic_Corp_v_United_States_merits_1994-06-06.md)
+#### Key Tronic Corp. v. United States, 511 U.S. 809
 
 **Docket or dockets:** No. 93-376.
 
@@ -207,7 +207,7 @@ For the other questions in City of Chicago v. Environmental Defense Fund, 1994-0
 
 ### Endangered wildlife and habitat-caused injury
 
-#### [Babbitt v. Sweet Home Chapter of Communities for a Great Oregon](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Babbitt_v_Sweet_Home_Chapter_of_Communities_for_a_Great_Oregon_merits_1995-06-29.md)
+#### Babbitt v. Sweet Home Chapter of Communities for a Great Oregon
 
 **Docket or dockets:** No. 94-859.
 **Decided:** June 29, 1995.
@@ -275,3 +275,28 @@ Distinct section 11 civil and criminal channels retain their own conditions, inc
 - PUD No. 1 v. Washington Department of Ecology: consistent with giving each environmental provision its own statutory trigger.
 
 **Operative remedy or transition:** Reverse the D.C. Circuit's facial invalidation and remand. The regulation remains valid, but particular enforcement requires applicable injury, causation and enforcement predicates. No logging license, damages, fine, particular injunction, conviction or actual permit application is adjudicated.
+
+### RCRA citizen suits
+
+#### Meghrig v. KFC Western, Inc., 516 U.S. 479
+
+**Docket or dockets:** No. 95-83.
+**Decided:** March 19, 1996.
+
+##### Present endangerment and the independent limits on private RCRA cleanup-cost recovery
+
+**Holding:** Section 6972(a)(1)(B) requires waste that may present an imminent and substantial endangerment when suit begins. Past contribution may produce a present threat and physical effects may occur later, but a danger completely eliminated before filing does not satisfy that requirement.
+
+**Proposition-level authority:** Souter's Opinion of the Court, Part I, unanimous. This ground independently requires dismissal of the pleaded claim.
+
+**Material application:** KFC alleged completed cleanup years before commencement and no remaining danger. Continuing off-site disposal expenses alone did not allege continuing endangerment; partial abatement would not defeat an otherwise proper prospective action if a qualifying threat remained. This is a statutory pleading defect, not an Article III ruling or a finding on contribution, liability, unjust enrichment or reasonable expenditure.
+
+**Independent alternative holding:** Section 6972(a)'s restraint and necessary-action powers authorize prohibitory and affirmative abatement relief, not a private reimbursement action for a past cleanup merely labeled damages or equitable restitution. Remaining endangerment when a proper action begins does not itself authorize general reimbursement of earlier expenses, including emergency-cleanup expenses; the two reserved categories below are unresolved rather than authorized exceptions.
+
+**Proposition-level authority for alternative holding:** Souter's Part II, joined by Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer, supplies eight direct votes for the complete remedial construction. Stone-Zsela additionally joins the independently sufficient narrower holding rejecting this action solely for completed-cleanup costs and the reservation concerning expenses arising during a properly commenced abatement action; he does not join the broader earlier-expense proposition or the separate post-invocation reservation.
+
+**Limits, remedy, transition, or precedent treatment:** The Court reserves whether an injunction may require another party to pay cleanup costs arising after a citizen action properly begins, and, separately, whether cleanup costs paid after invocation of RCRA's statutory process may otherwise be recovered. Invocation is not equated with filing; classification of a notice-stage expense remains open. Neither remaining danger nor an emergency label reserves all earlier expenses. EPA reimbursement under §6973 is undecided. Section 6972(f) preserves existing statutory and common-law rights without creating a cause or guaranteeing recovery; §6972(e)'s appropriate prevailing-or-substantially-prevailing-party litigation costs do not create cleanup-cost entitlement. No universal monetary-equity prohibition, petroleum classification, limitations period, contingency-plan burden, laches rule, or adopted restitution elements follow. Notice compliance, state preclusion and mootness supply no independent dismissal ground.
+
+**Operative remedy or transition:** Reverse and remand for dismissal of the RCRA claim as pleaded. Independently pleaded or otherwise lawful claims retain their own requirements; no payment, discovery or trial is directed.
+
+**Treatment of earlier authority:** Gwaltney's different Clean Water Act ongoing-violation language does not displace RCRA's coverage of past contributors causing present danger. Hallstrom preserves the statutory notice and waiting conditions: ordinarily ninety days after notice to EPA, the affected State and alleged contributors; a subchapter-III violation may be sued on immediately after notification, with no general emergency waiver. Porter, Hecht and Franklin v. Gwinnett County preserve equity within congressional limits; Sea Clammers and Transamerica support respecting the specified enforcement scheme. Mertens preserves traditionally equitable categories without treating all money as damages. No earlier holding is overruled.

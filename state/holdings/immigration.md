@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1994
-**Processed through:** June 29, 1995, after all 99 OT1994 inventory Court events and the two admitted source events.
-**Edition:** October 1, 2026
+**Last completed October Term:** 1995
+**Processed through:** July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events.
+**Edition:** October 7, 2026
 
 ## Immigration
 
@@ -178,7 +178,7 @@
 
 ### Original-order and reconsideration review periods
 
-#### [Stone v. Immigration and Naturalization Service](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Stone_v_Immigration_and_Naturalization_Service_merits_1995-04-19.md)
+#### Stone v. Immigration and Naturalization Service
 
 **Docket or dockets:** No. 93-1199.
 **Decided:** April 19, 1995.

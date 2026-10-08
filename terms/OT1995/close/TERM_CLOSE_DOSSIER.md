@@ -1,8 +1,8 @@
 # October Term 1995 - Term-Close Dossier
 
-**Publication authority:** The user approved Close Commit on October 7, 2026.
+**Publication authority:** The user approved Close Commit on October 7, 2026. The resumed instruction expressly authorizes publication to state/ and resolves the earlier write-boundary conflict. The prior preparation is identified by the user as commit 545de59; no Git command was used to verify it.
 **Audit gate:** The confirming [AUDIT.md](AUDIT.md) states that all findings are resolved, no unresolved discrepancy remains, and OT1995 is ready for Close Commit. This was confirmed before any write.
-**Status:** Dossier prepared; tracker publication, generation, verification and cleanup are pending. The state-write boundary clarification is pending. Repository verification and Git commitment remain with the operator.
+**Status:** Tracker publication, Holdings synchronization and close-index generation are complete and verified. The three candidates and five temporary pass notes have been removed; the Close Commit publication protocol is complete. Repository verification and Git commitment remain with the operator.
 
 ## Scope and publication fields
 
@@ -330,7 +330,7 @@ The confirming audit verifies all 116 Public Projections against their ten gener
 
 ## Retained operator provenance note
 
-The temporary operator note is reproduced verbatim below so its evidence remains in the dossier after required cleanup. It reports the earlier operator's checks, not a fresh Git check in this pass. The audit's link to the temporary note will be retargeted here during cleanup; its findings and substantive text will remain unchanged.
+The temporary operator note is reproduced verbatim below so its evidence remains in the dossier after required cleanup. It reports the earlier operator's checks, not a fresh Git check in this pass. The audit's link to the temporary note now points here; its findings and substantive text remain unchanged.
 
 ```text
 # OT1995 close — operator provenance check and audit-finding repairs
@@ -366,9 +366,30 @@ No Record, Render Input, render, brief, case-list, candidate substance or `state
 
 ## Verification and cleanup
 
-Publication verification is pending. Candidates and temporary pass notes remain in place until it succeeds. The required sequence is coordinated tracker publication, Holdings split and check, close-index generation, publication verification, and only then cleanup.
+Publication and verification completed on October 7, 2026. The three published trackers exactly match the audited candidates after only the three synchronized publication-header changes and CRLF normalization. Standing State opens OT1996 and retains all twelve audited docket carryovers. No adjudication, source admission, freeze, brief, Render Input, render or workspace projection was changed.
 
-Cleanup is limited to the three candidate files and five temporary notes listed below. The audit, dossier and generated close indexes remain. Their original bytes and SHA-256 values are preserved in scratch evidence and remain subject to repository-history preservation by the operator.
+- `python tools/holdings_volumes.py split` completed successfully and regenerated all eighteen doctrinal volumes.
+- `python tools/holdings_volumes.py check` exited 0: Holdings volumes and compatibility view are synchronized. The doctrinal index's three publication fields were advanced to the same values; its other text was preserved.
+- `python tools/build_close_indexes.py OT1995` exited 0 and generated the four indexes from all 126 Records: 116 Court events and ten source admissions.
+- Byte checks confirm CRLF line endings without a byte-order mark in all 22 state files. The trackers, doctrinal volumes and index, and all four generated term indexes contain zero GitHub repository URLs.
+- The opening/candidate and eight cleanup-file digests match this dossier. The resume baseline fingerprints 1,912 state and term Markdown files; every protected term Markdown file outside the authorized close/index changes remains unchanged.
+- No Git command was run. `tools/check_term.py` was not rerun because it invokes Git internally; the completed confirming audit remains the term-check authority. Operator repository verification and Git commitment remain separate.
+
+Published-file verification digests:
+
+| Published file | SHA-256 |
+|---|---|
+| [HOLDINGS](../../../state/HOLDINGS.md) | `c872e60dd054c6fe68303cfe22d10ad640898cd496e4cb3643eb73f2ed8e0f7e` |
+| [STANDARDS_AND_TESTS](../../../state/STANDARDS_AND_TESTS.md) | `89a0717d8c463a53544f2521f75c9541ebec64f9f205bf345b00eb5a0a5fa6e7` |
+| [STANDING_STATE](../../../state/STANDING_STATE.md) | `e3a9d0666940d71c9c963b7bfc125af7278e2933d1c22f1040cd3a55e87c53e7` |
+| [INDEX.md](../INDEX.md) | `4df67c9462dcac8a9ebaf57083638bd0dd35bdd3916103446768c3d83892a7bf` |
+| [SEPARATE_WRITINGS.md](SEPARATE_WRITINGS.md) | `fcfc3c68d59b78463f285fca741872363fa4bc34d9f260c1d434c1b596a1afa4` |
+| [DEPARTURES.md](DEPARTURES.md) | `959aa029f5a657485d71bf240ab831b86a5f2b4c2c73792d940a4f1027064e4b` |
+| [CONSEQUENCES.md](CONSEQUENCES.md) | `3246fbfd627b2c18faa33147d458a1136b0e544a8be3c9573f9496377eb06669` |
+
+The full state/index hash manifest and resume verification evidence are preserved in [publication_verification.json](../../../tmp/ot1995_close_resume_2026-10-07/publication_verification.json). The resume snapshots supplement the original preparation snapshots above. Cleanup completed after this successful verification: the three candidates and all five temporary pass notes were removed. The close directory retains one AUDIT.md, this dossier, the three generated close indexes and its existing .gitkeep.
+
+Cleanup removed exactly the three candidate files and five temporary notes listed below. The audit, dossier and generated close indexes remain. Their original bytes and SHA-256 values are preserved in scratch evidence and remain subject to repository-history preservation by the operator.
 
 | Temporary staging file | SHA-256 before cleanup |
 |---|---|

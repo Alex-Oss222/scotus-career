@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1994
-**Processed through:** June 29, 1995, after all 99 OT1994 inventory Court events and the two admitted source events.
-**Edition:** October 1, 2026
+**Last completed October Term:** 1995
+**Processed through:** July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events.
+**Edition:** October 7, 2026
 
 ## Labor and Employment
 
@@ -335,7 +335,7 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 
 ### Hostile work environments
 
-#### [Harris v. Forklift Systems, Inc., 510 U.S. 17](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Harris_v_Forklift_Systems_Inc_merits_1993-11-09.md)
+#### Harris v. Forklift Systems, Inc., 510 U.S. 17
 
 **Docket or dockets:** No. 92-1168.
 
@@ -357,7 +357,7 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 
 ### Insured employee-benefit assets
 
-#### [John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank, 510 U.S. 86](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/John_Hancock_Mutual_Life_Insurance_Co_v_Harris_Trust_Savings_Bank_merits_1993-12-13.md)
+#### John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank, 510 U.S. 86
 
 **Docket or dockets:** No. 92-1074.
 
@@ -395,7 +395,7 @@ For the other questions in John Hancock Mutual Life Insurance Co. v. Harris Trus
 
 ### Labor remedies and hearing misconduct
 
-#### [ABF Freight System, Inc. v. NLRB, 510 U.S. 317](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/ABF_Freight_System_v_NLRB_merits_1994-01-24.md)
+#### ABF Freight System, Inc. v. NLRB, 510 U.S. 317
 
 **Docket or dockets:** No. 92-1550.
 
@@ -432,7 +432,7 @@ For the other questions in John Hancock Mutual Life Insurance Co. v. Harris Trus
 
 ### Skilled employees and supervisory status
 
-#### [NLRB v. Health Care & Retirement Corp. of America, 511 U.S. 571](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/NLRB_v_Health_Care_Retirement_Corp_merits_1994-05-23.md)
+#### NLRB v. Health Care & Retirement Corp. of America, 511 U.S. 571
 
 **Docket or dockets:** No. 92-1964.
 
@@ -459,7 +459,7 @@ For the other questions in John Hancock Mutual Life Insurance Co. v. Harris Trus
 
 ### Independent state rights and railway-labor preemption
 
-#### [Hawaiian Airlines, Inc. v. Norris, 512 U.S. 246](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Hawaiian_Airlines_v_Norris_merits_1994-06-20.md)
+#### Hawaiian Airlines, Inc. v. Norris, 512 U.S. 246
 
 **Docket or dockets:** No. 92-2058, including the related Finazzo judgment under Rule 12.2.
 
@@ -488,7 +488,7 @@ For the other questions in John Hancock Mutual Life Insurance Co. v. Harris Trus
 
 ### Independent wage rights and collective bargaining
 
-#### [Livadas v. Bradshaw, 512 U.S. 107](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Livadas_v_Bradshaw_merits_1994-06-13.md)
+#### Livadas v. Bradshaw, 512 U.S. 107
 
 **Docket or dockets:** No. 92-1920.
 
@@ -528,7 +528,7 @@ For the other questions in Livadas v. Bradshaw, 1994-06-13, No. 92-1920, see Civ
 
 ### Railroad emotional-injury liability
 
-#### [Consolidated Rail Corp. v. Gottshall, 512 U.S. 532](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Consolidated_Rail_Corp_v_Gottshall_merits_1994-06-24.md)
+#### Consolidated Rail Corp. v. Gottshall, 512 U.S. 532
 
 **Docket or dockets:** No. 92-1956, including Carlisle under Rule 12.2.
 
@@ -579,7 +579,7 @@ For the other questions in Livadas v. Bradshaw, 1994-06-13, No. 92-1920, see Civ
 
 ### After-acquired evidence and discrimination remedies
 
-#### [McKennon v. Nashville Banner Publishing Co.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/McKennon_v_Nashville_Banner_Publishing_Co_merits_1995-01-23.md)
+#### McKennon v. Nashville Banner Publishing Co.
 
 **Docket or dockets:** No. 93-1543.
 **Decided:** January 23, 1995.
@@ -606,7 +606,7 @@ For the other questions in Livadas v. Bradshaw, 1994-06-13, No. 92-1920, see Civ
 
 ### ERISA plan amendment and corporate authority
 
-#### [Curtiss-Wright Corp. v. Schoonejongen](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Curtiss_Wright_Corp_v_Schoonejongen_merits_1995-03-06.md)
+#### Curtiss-Wright Corp. v. Schoonejongen
 
 **Docket or dockets:** No. 93-1935.
 **Decided:** March 6, 1995.
@@ -637,9 +637,50 @@ For the other questions in Livadas v. Bradshaw, 1994-06-13, No. 92-1920, see Civ
 
 **Operative remedy or transition:** The Third Circuit is reversed and the case remanded to identify authorized corporate actors, determine actual approval and legally effective ratification, including timing and consequences, and enter a conforming benefits judgment. Actual termination and amounts are not decided; rejected lifetime vesting is not automatically reopened.
 
+#### Lockheed Corp. v. Spink, 517 U.S. 882
+
+**Docket or dockets:** 95-809
+**Decided:** June 10, 1996
+
+##### Does sponsor adoption of pension amendments create fiduciary prohibited-transaction liability?
+
+**Holding:** Designing and adopting these pension-plan amendments is sponsor conduct, not ERISA fiduciary conduct. Subject to §408's statutory exceptions, §406(a)(1) requires a fiduciary to cause a transaction the fiduciary knows or should know is prohibited; employer party-in-interest status alone is insufficient, and actual implementation must be assessed separately under §3(21)(A)'s functional terms, including asset-disposition control without an additional discretion requirement.
+
+**Proposition-level authority:** Opinion of the Court (Ginsburg), Part I, unanimous; Part IV-A's independent-claims directions likewise unanimous.
+
+**Limits and questions not reached:** Amendment power establishes neither compliance with amendment procedures nor lawful administration. Surplus remains plan property. The sponsor-capacity rule forecloses §404 liability resting solely on design or adoption, while actually preserved fiduciary-implementation and §403(c)(1) anti-inurement grounds retain their own predicates and remedies.
+
+**Operative remedy or transition:** The reviewed adverse judgment is reversed and remanded, 9–0 overall. The theory resting solely on amendment is dismissed; preserved independent Count III alternatives receive ordinary consideration without a new allegation, automatic liability or unconditional dismissal of Count III. Count V, refusal of offensive collateral estoppel and withdrawn Count IV remain outside the relief. Appellate fees are vacated for reconsideration because their stated grounds included the rejected substantive rulings; the fee rationale has eight Associate joins, with Stone-Zsela agreeing in that disposition only.
+
+**Treatment of earlier authority:** Curtiss-Wright's sponsor-amendment role is applied to a pension plan while its procedural requirements remain distinct. Varity separates sponsorship from administration and preserves its qualified equitable-remedy rule. John Hancock keeps asset status, function, breach and remedy separate. Mertens and Peacock retain the distinct predicate and remedy requirements for any preserved claim.
+
+##### Does employer benefit from a required release alone make enhanced retirement payments prohibited transfers?
+
+**Holding:** Genuine enhanced retirement benefits under an otherwise lawful plan are not prohibited transactions under §406(a)(1)(D) merely because employment-related releases benefit the employer. The rule assumes fiduciary implementation for this inquiry and does not immunize sham transfers, kickbacks, an independently unlawful plan or an unenforceable release.
+
+**Proposition-level authority:** Ginsburg's Part II, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy and Thomas; seven. Souter and Breyer would reserve the question, not decide the payments unlawful.
+
+**Material application:** The accepted complaint allegations describe participant benefits rather than diversion solely because releases have employer value. No sham or kickback is alleged in the decided issue.
+
+**Limits and questions not reached:** No §408 exemption or general net-benefit defense is created. Independent participation, funding, vesting, loyalty and anti-inurement duties survive. Section 406(b)'s distinct prohibitions and particular waiver enforceability under the Older Workers Benefit Protection Act or other law are not decided; no loss, deception or hidden diversion is found.
+
+**Treatment of earlier authority:** Keystone's transfer of property to discharge an enforceable funding obligation is distinguished; valuable consideration alone does not equate that transaction with these participant benefits.
+
+##### Does OBRA require credit for Spink's earlier lawful exclusion from pension participation?
+
+**Holding:** OBRA §§9201–9202 do not require credit for service during Spink's earlier lawful nonparticipation. Section 9204(a)(1) applies the new accrual protections to plan years beginning on or after January 1, 1988 and employees with an hour of service in a covered year; a smaller total benefit caused by earlier uncredited service is not itself a reduced accrual rate during a covered year.
+
+**Proposition-level authority:** Ginsburg's Part III, all eight Associate Justices; Stone-Zsela agrees in the judgment only. Dismissal of Counts I–II is restored, 9–0.
+
+**Material application:** The relevant plan year began December 25, 1988. The later calculation date does not turn prior lawful nonparticipation into credited service or establish a separate violation earlier in that calendar year.
+
+**Limits and questions not reached:** Section 9204(b) separately applies §9203's participation amendments to covered plan years and service performed on or after January 1, 1988; that added service-date condition does not enter subsection (a). Under §9204(a)(2), benefits pursuant to and persons covered by employer–employee-representative collective agreements ratified before March 1, 1986 use the first plan year beginning on or after the earlier of January 1, 1990 or the later of January 1, 1988 and termination of the last qualifying agreement, disregarding extensions after February 28, 1986; no allegation invokes that transition. Section 9204(c) permits formal amendment to await the first plan year beginning on or after January 1, 1989 only if interim operations comply and amendment covers that interval retroactively. Operation under that provision alone does not make benefits or contributions indeterminable or the plan inconsistent with its terms, and does not delay substantive compliance. No general prohibition on using past facts or new default temporal rule is adopted.
+
+**Treatment of earlier authority:** Landgraf and Rivers require application of enacted temporal direction first; that inquiry resolves the claim without a new default presumption.
+
 ### ERISA preemption and hospital-payment measures
 
-#### [New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co. / Pataki v. Travelers Insurance Co. / Hospital Association of New York State v. Travelers Insurance Co.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/New_York_State_Conference_of_Blue_Cross_Blue_Shield_Plans_v_Travelers_Insurance_Co_merits_1995-04-26.md)
+#### New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co. / Pataki v. Travelers Insurance Co. / Hospital Association of New York State v. Travelers Insurance Co.
 
 **Docket or dockets:** Nos. 93-1408; 93-1414; 93-1415.
 **Decided:** April 26, 1995.
@@ -711,7 +752,7 @@ ERISA §514(a), subject to subsection (b), supersedes state laws insofar as they
 
 ### Pension withdrawal-liability installments
 
-#### [Milwaukee Brewery Workers' Pension Plan v. Jos. Schlitz Brewing Co.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Milwaukee_Brewery_Workers_Pension_Plan_v_Jos_Schlitz_Brewing_Co_merits_1995-02-21.md)
+#### Milwaukee Brewery Workers' Pension Plan v. Jos. Schlitz Brewing Co.
 
 **Docket or dockets:** No. 93-768.
 **Decided:** February 21, 1995.
@@ -730,7 +771,7 @@ ERISA §514(a), subject to subsection (b), supersedes state laws insofar as they
 
 ### Nonscheduled compensation and earning-capacity modification
 
-#### [Metropolitan Stevedore Co. v. Rambo](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Metropolitan_Stevedore_Co_v_Rambo_merits_1995-06-12.md)
+#### Metropolitan Stevedore Co. v. Rambo
 
 **Docket or dockets:** No. 94-820.
 **Decided:** June 12, 1995.
@@ -768,7 +809,7 @@ ERISA §514(a), subject to subsection (b), supersedes state laws insofar as they
 
 ### WARN limitations periods
 
-#### [North Star Steel Co. v. Thomas / Crown Cork & Seal Co., Inc. v. United Steelworkers of America, AFL-CIO-CLC](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/North_Star_Steel_v_Thomas_and_Crown_Cork_merits_1995-05-30.md)
+#### North Star Steel Co. v. Thomas / Crown Cork & Seal Co., Inc. v. United Steelworkers of America, AFL-CIO-CLC
 
 **Docket or dockets:** Nos. 94-834; 94-835.
 **Decided:** May 30, 1995.
@@ -790,3 +831,317 @@ ERISA §514(a), subject to subsection (b), supersedes state laws insofar as they
 - Fort Halifax Packing Co. v. Coyne, 482 U.S. 1: applies its separation of independent substantive employment protections from bargaining mechanisms; no arbitration question is decided.
 
 **Operative remedy or transition:** Affirm both Third Circuit judgments: in No. 94-834, preserve reversal of the employees' limitations dismissal; in No. 94-835, preserve rejection of the six-month defense. Both claims are timely under the state candidates presented; no exact period, liability, damages, accrual, tolling or WARN merits exception is decided.
+
+### Paid union organizers and employee status
+
+#### NLRB v. Town & Country Electric, Inc., 516 U.S. 85
+
+**Docket or dockets:** No. 94-947.
+**Decided:** November 28, 1995.
+
+##### Union compensation and compatible ordinary employment
+
+**Holding:** A worker performing or seeking ordinary compensated service is not excluded from NLRA §2(3) merely because a union also pays the worker to organize. After independent statutory and compatible-common-law-service examination, the Board permissibly treats union compensation and organizing obligations as consistent with employee status; the holding mandates no coverage regardless of actual control or an enacted exclusion.
+
+**Proposition-level authority:** Opinion of the Court (Ginsburg), unanimous.
+
+**Material application:** Union organizing duties and authority to direct departure do not themselves eliminate the contractor's control of electrical work while the employment lasts. No actual incompatibility, sabotage or refusal to work is found. Protected organizing, union allegiance and concerted activity cannot themselves be labeled disqualifying misconduct; otherwise unprotected dishonesty, sabotage or work refusal may support lawful action under their applicable rules.
+
+**Limits and questions not reached:** Section 2(3) is not confined to employment by a particular employer unless expressly so provided. Its exclusions remain: agricultural labor, domestic service in a home, work for a parent or spouse, independent contractors, supervisors, Railway Labor Act employers, and persons outside the statutory employer definition. Continued coverage after work ceases in a current labor dispute or because of an unfair labor practice still requires absence of other regular, substantially equivalent employment. Coverage decides no qualification, discrimination, lawful work-time restriction or remedy.
+
+**Operative remedy or transition:** Reverse the categorical employee-exclusion ruling and remand, 9–0, for properly remaining grounds; no unconditional enforcement of the entire Board order. Hansen's hiring, referral and discharge and the other applicants' different positions require individual treatment. Compliance must determine who would actually have been hired; no automatic ten-person backpay, amount, reinstatement schedule or bargaining-unit ruling follows.
+
+**Treatment of earlier authority:** Chevron applies only after the independent statutory inquiry required by MCI. Darden and Reid supply service/control principles allowing compatible dual service. Health Care's functional construction is analogous within its actual supervisory predicates. Lechmere's nonemployee access rule does not assume these workers to be nonemployees. Phelps Dodge protects covered applicants without establishing discrimination or relief automatically.
+
+### Railroad hours of service
+
+#### Brotherhood of Locomotive Engineers v. Atchison, Topeka & Santa Fe Railroad Co., 516 U.S. 152
+
+**Docket or dockets:** No. 94-1592.
+**Decided:** January 8, 1996.
+
+##### Waiting genuinely incident to transport from a completed assignment
+
+**Holding:** Waiting genuinely incident to transportation from a completed duty assignment to final release is within §21103(b)(4)'s return-transportation interval and counts as neither duty nor required rest. Train-movement work remains duty under (b)(2), as does other carrier service in a twenty-four-hour period containing train-movement work under (b)(3); transport to a new duty assignment remains duty.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), unanimous.
+
+**Limits and questions not reached:** The case assumes completed assignment with no further train responsibility or other service; a transport label cannot remove actual work from the duty provisions. The ordinary eight-consecutive-hours-off requirement within the preceding twenty-four hours and ten after twelve consecutive duty hours remain. Section (c)'s separate wreck/relief emergency permission adds up to four hours in twenty-four for emergency-related work and ends when the track is clear and the line reopened; it is not invoked. Interim rest away from a designated terminal or shorter than four hours at a terminal remains duty under (b)(5)–(6). Section (b)(7) excludes an interim period available for at least four hours at a place with suitable food/lodging when casualty, track obstruction, act of God, derailment or major equipment failure prevents reaching the terminal; derailment/equipment-failure causes must have been unknown and unforeseeable to the carrier or officer/agent in charge when the employee left the terminal. No predicate is found or excused here. No maximum waiting time, compensation, penalty or individual rest entitlement is decided.
+
+**Operative remedy or transition:** Affirm the Seventh Circuit's classification, 9–0. Exclusion from duty gives no restorative-rest credit and does not find absence of fatigue.
+
+**Treatment of earlier authority:** MCI requires independent statutory-boundary determination; Town & Country permits construction only within that range. The enacted categories decide this case without reliance on agency litigation position or historical practice, and no deference rule changes.
+
+### Religious accommodation
+
+#### Beadle v. City of Tampa, judgment below 42 F.3d 633
+
+**Docket or dockets:** Eleventh Circuit No. 93-3271; no separate Supreme Court docket assigned.
+
+**Decided:** February 5, 1996.
+
+##### Neutral scheduling does not alone discharge the accommodation duty
+
+**Holding:** Under 42 U.S.C. §2000e(j), an employer must reasonably accommodate religious observance or practice unless it demonstrates inability to do so without undue hardship on its business. Under Hardison's governing rule, the employer need not incur more than a de minimis cost, including concrete lost efficiency, deficient training, or consequent safety burdens; once an effective reasonable accommodation resolves the conflict, Ansonia does not require the employee's preferred alternative or proof against every alternative.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), joined by O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight Justices.
+
+**Limits and questions not reached:** Title VII supplies no categorical police or public-safety exception. Professional evidence and reasonable operational inferences may establish concrete noncash burdens without waiting for an accident or reducing every burden to dollars. No independent negotiation duty is imposed when an effective accommodation or sufficient hardship defense exists; no compelling-interest or later hardship standard is imported.
+
+**Treatment of earlier authority:** Hardison's cost and legitimate third-party limits remain. Ansonia's sufficient-accommodation rule remains but is inapplicable to a conflict not actually resolved.
+
+##### A concession about one trainer does not resolve materially different proposals
+
+**Holding:** When the work-religion conflict remains unresolved, a hardship justification must address the supported, materially distinct accommodations and actual operations at issue. A concession that using one trainer would impair training does not establish that every proposed arrangement preserving multiple trainers would cause undue hardship; the accommodation judgment must be reconsidered where that mismatch underlies the decision.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), joined by O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight Justices.
+
+**Material application:** The existing rotation and isolated Saturday leave left the conflict unresolved. Distinct proposals included multiple qualified trainers within Dawson's squad, trainers on compatible nontraining squads and a four-to-eight-week extension. Their feasibility is not found. The seniority provision uses classification seniority when skill, performance and ability are equal and the supervisor finds the task unaffected, but removes seniority from consideration when training affects assignments. No required swap or guaranteed downtown vacancy is established; later practice does not prove earlier availability.
+
+**Operative remedy or transition:** Vacate the accommodation judgment and remand for proper application, with further proceedings only as lawfully necessary. The City may prevail on a supported hardship showing. No particular schedule, placement, reinstatement, award or new trial is directed; the distinct release determination remains undisturbed.
+
+**Treatment of earlier authority:** Hardison and Ansonia are applied to the actual unresolved conflict and distinct proposals, without creating a right to a fixed Sabbath assignment.
+
+### Railroad automatic-coupler duties
+
+#### Norfolk & Western Railway Co. v. Hiles, 516 U.S. 400
+
+**Docket or dockets:** No. 95-6.
+
+**Decided:** February 27, 1996.
+
+##### Whether ordinary drawbar preparation itself violates the automatic-coupling duty
+
+**Holding:** Former 45 U.S.C. §2 imposes an absolute duty of required coupling performance when equipment is properly set. Ordinary nondefective lateral displacement requiring drawbar alignment does not alone violate that duty; the Act neither prohibits every preparatory task between cars nor separately requires automatic realignment equipment.
+
+**Proposition-level authority:** Opinion of the Court (Thomas), unanimous.
+
+**Limits and questions not reached:** The enacted duty requires automatic coupling by impact and uncoupling without workers going between the car ends. General safety purpose and custom do not resolve whether an actual condition is ordinary preparation or failed performance. The 1994 recodification supplies no new requirement for this 1990 injury.
+
+**Treatment of earlier authority:** Affolder and Carter's proper-setting qualification applies to drawbar alignment as well as knuckle opening; O'Donnell's absolute duty for an engaged coupler remains.
+
+##### Performance-based proof and the limited ordinary-setting explanation
+
+**Holding:** A violation may be proved by failure of required performance without negligence or identification of a mechanical defect. The railroad may show ordinary nondefective misalignment before proper setting, but due care, inspection, later success, contributory negligence and assumption of risk do not erase a proven statutory violation contributing to injury.
+
+**Proposition-level authority:** Opinion of the Court (Thomas), unanimous.
+
+**Limits and questions not reached:** Violation and causal contribution under FELA remain separate. No attempted impact is invariably required where failure otherwise can be shown; an attempted coupling would not itself establish liability. Preparation cannot excuse malfunction by relabeling it.
+
+**Treatment of earlier authority:** Affolder and Carter preserve performance proof, proper setting and distinct causation. Gottshall's negligent-emotional-injury and zone-of-danger rules do not govern this statutory-performance claim.
+
+##### Whether injury during realignment establishes liability as a matter of law
+
+**Holding:** Hiles's realignment injury alone does not justify directed statutory liability. The displacement's reason, extent and legal character require consideration under the preparation/performance distinction, including only properly preserved performance and causal issues.
+
+**Proposition-level authority:** Opinion of the Court (Thomas), unanimous.
+
+**Limits and questions not reached:** General lateral movement does not prove this displacement ordinary. Excluded inspection and AAR-compliance submissions are proffers, not findings; movement difficulty and disputed curve inferences are not resolved. No new ordinary-negligence claim is supplied.
+
+**Operative remedy or transition:** Reverse and remand; the directed-liability ruling and dependent $492,500 damages foundation fall. Neither final railroad judgment, guaranteed new trial, recovery nor revival of a forfeited issue follows.
+
+**Treatment of earlier authority:** Wagner and Parker preserve examination of actual displacement and performance evidence rather than a conclusive rule for every realignment injury.
+
+### ERISA fiduciary duties
+
+#### Varity Corp. v. Howe, 516 U.S. 489
+
+**Docket or dockets:** No. 94-1471.
+**Decided:** March 19, 1996.
+
+##### The integrated benefit-security presentation was fiduciary administration
+
+**Holding:** ERISA §3(21)(A) attaches fiduciary responsibility to the particular exercise of discretionary plan administration, including plan information communicated in that capacity. Varity exercised that function when it used administrative authority, benefit comparisons and linked assurances of benefit security to induce the class's transfer; employer status, corporate forecasting or participant perception alone would not suffice.
+
+**Proposition-level authority:** Souter's Part I, joined by Stone-Zsela, Stevens, Kennedy, Ginsburg and Breyer: six Justices.
+
+**Material application:** Current-benefit descriptions and deliberately linked security assurances formed one administrative presentation. Warnings that future conditions depended on MCC's success and that changes might occur did not displace the unchallenged trial findings that the combined presentation was knowingly misleading.
+
+**Limits and questions not reached:** Every employment statement or corporate-solvency prediction is not thereby fiduciary. Corporate restructuring and plan-amendment powers remain distinct from administration.
+
+**Treatment of earlier authority:** John Hancock's particular-function inquiry is applied while keeping status, breach and remedy separate. Curtiss-Wright preserves sponsor amendment authority but distinguishes retained power from authorized exercise; it creates no immunity for this administrative act.
+
+##### Deliberate disloyal deception violates §404
+
+**Holding:** An administrator acting as a fiduciary violates §404(a)(1)'s loyalty duty by knowingly and significantly misleading participants about benefit security to induce surrender of existing plan interests for the employer's benefit. Varity's found deception and the class's reliance meet that rule despite reserved lawful amendment or termination powers.
+
+**Proposition-level authority:** Souter's Part II, joined by the same six Justices as Part I.
+
+**Limits and questions not reached:** This intentional-deception holding decides no general duty to volunteer information, answer every inquiry, disclose every forecast or avoid negligent misstatement. It supplies no substantive rule for the ten retirees' different assignment claim and no permanent-benefits promise.
+
+**Treatment of earlier authority:** Firestone's trust-law guidance explains loyalty within ERISA's statutory function, without replacing that threshold. Curtiss-Wright's amendment rule supplies no permission to deceive participants into surrendering present membership.
+
+##### Section 502(a)(3) permits appropriate individual equitable redress for fiduciary breach
+
+**Holding:** Sections 409 and 502(a)(2) do not impose a categorical plan-only bar on §502(a)(3)'s express authorization of appropriate individual equitable relief for a §404 violation. Relief must be traditionally equitable; where another ERISA provision adequately remedies the injury, further equity normally is unnecessary and inappropriate, without an absolute rule governing every alternative pleading.
+
+**Proposition-level authority:** Souter's Part III, joined by Stevens, Kennedy, Ginsburg and Breyer: five Justices. Stone-Zsela's stricter adequate-remedy condition supports the class's judgment but is not the Court's rule.
+
+**Material application:** The class sought restoration after fiduciary deception procured surrender of membership. Rejection of its lifetime-benefits contract theory established neither an adequate §502(a)(1)(B) remedy for that injury nor an automatic bar to restoration.
+
+**Limits and questions not reached:** The Court does not classify each monetary item as equitable, including replacement-insurance premiums or all unpaid benefits. It neither revives the rejected $7.6 million and $712,332 compensatory awards nor permits general compensation through trust law. Section 510 and estoppel remain unadopted alternatives.
+
+**Operative remedy or transition:** The clarified restoration decree is affirmed. Reinstatement confers only the rights of the M-F plan as it now exists. Past entitlement may be adjusted for intervening events, with relevant additional evidence and a conforming decree. Future lawful changes remain possible subject to applicable law and preserved retaliation or discrimination objections. No new payment amount or immutable lifetime entitlement is entered.
+
+**Treatment of earlier authority:** Russell's plan-centered §409 construction is preserved while its distinct §502(a)(3) question is answered. Mertens's equitable-category limit applies; its reserved antecedent action issue is not treated as an earlier action bar. Peacock's statutory-or-plan-violation requirement is met by the proved §404 breach; its later new-debtor jurisdictional holding does not govern this original action. Firestone supplies guidance within enacted limits.
+
+##### The ten retirees' independent assignment-breach ground was not adequately challenged
+
+**Holding:** The categorical plan-only objection does not defeat the ten retirees' individual equitable recovery, and their distinct lower-court assignment-breach determination remains undisturbed because the petition did not sufficiently present a challenge to it. Affirmance decides no new substantive assignment rule, precise monetary classification or categorical unavailability of §502(a)(1)(B) to those retirees.
+
+**Proposition-level authority:** Souter's Part IV, joined by Stevens, Kennedy, Ginsburg and Breyer: five Justices. Stone-Zsela provides a sixth judgment vote on the distinct assignment component without a ground.
+
+**Material application:** The ten had retired before the purported assignment and did not consent. Their unauthorized-administration ground did not depend on the class's presentation or voluntary departure; arguments concerning misrepresentation and lifetime contractual benefits did not identify error in that separate ground.
+
+**Operative remedy or transition:** Affirm the clarified decree for this group on the same existing-plan and adjustment terms stated above, without entering a new amount or reviving terminated-employee, punitive, lifetime-contract, settled-disability or pension claims.
+
+**Treatment of earlier authority:** Curtiss-Wright does not transform an amendment reservation into proof of an authorized assignment or permanent vesting; Mertens's monetary-category limits remain without a new classification decision.
+
+### Age discrimination
+
+#### O'Connor v. Consolidated Coin Caterers Corp., 517 U.S. 308
+
+**Docket or dockets:** No. 95-354.
+**Decided:** April 1, 1996.
+
+##### Replacement within the ADEA's protected age group does not defeat the initial inference
+
+**Holding:** An ADEA plaintiff need not show replacement by someone under forty to establish the initial inference of age discrimination. A replacement's membership in the protected group does not itself defeat that inference.
+
+**Proposition-level authority:** O'Connor's Part I, unanimous.
+
+**Limits and questions not reached:** The Court assumes McDonnell Douglas applies for this question and takes the case as a non-reduction-in-force matter, without settling every ADEA framework or alternative prima facie formulation. Claimant coverage at forty and prohibited age motivation remain distinct.
+
+**Treatment of earlier authority:** Hazen Paper supplies the actual-age-motivation inquiry; McDonnell Douglas, Furnco and Teamsters preserve the initial showing's evidentiary function without an under-forty replacement requirement.
+
+##### Relative-age evidence must support an inference of age discrimination
+
+**Holding:** Under the assumed framework, prima facie evidence and each required element must have a logical connection to an inference of age discrimination. A substantially younger replacement may support that inference even if at least forty; an insignificant difference, standing alone, does not supply it.
+
+**Proposition-level authority:** O'Connor's Part II has all eight Associates' complete joins. Stone-Zsela joins the inference requirement, positive relative-age proposition, unchanged burdens and reservations, but not the categorical insignificant-gap-alone proposition.
+
+**Limits and questions not reached:** No numerical minimum is prescribed. A substantially younger replacement is not indispensable when other evidence supplies the inference or no replacement sensibly can be identified. Every younger replacement does not suffice; materially different circumstances may defeat the comparison. The sixteen-year gap here establishes neither all initial elements, satisfactory performance nor actual motive. Additional age-related evidence and specific small-gap applications remain open.
+
+**Treatment of earlier authority:** Burdine and Aikens preserve employer production and the plaintiff's ultimate persuasion burden. Hicks permits circumstantial proof without a mandatory additional category of evidence but does not compel liability merely from a prima facie case and disbelief of produced lawful reasons.
+
+##### Reconsideration under the corrected rule leaves genuinely sufficient alternative grounds available
+
+**Holding:** The reviewed ADEA merits affirmance must be reconsidered under the corrected replacement rule and ordinary proof and summary-judgment standards. The employer may defend the existing judgment on an appropriate alternative ground without a cross-petition, but intertwined lower performance and comparison analysis does not make this legal error immaterial on the disputed timely record.
+
+**Proposition-level authority:** O'Connor's Part III, unanimous.
+
+**Operative remedy or transition:** Reverse and remand the ADEA merits affirmance. A genuinely sufficient remaining ground may still support summary judgment. The separate discovery and Rule 59/60 rulings remain intact; Dennis's postjudgment affidavit remains outside the timely record. No trial, hearing, liability, willfulness, damages, backpay or reinstatement is ordered.
+
+**Treatment of earlier authority:** Anderson and Celotex require a genuine material dispute and favorable reasonable inferences for the nonmovant, without accepting speculation or making credibility findings. McKennon distinguishes correction of a categorical ADEA bar from proof of liability and lawful relief; its after-acquired-evidence remedy is not extended.
+
+### Agricultural labor and employee coverage
+
+#### Holly Farms Corp. v. NLRB, 517 U.S. 392
+
+**Docket or dockets:** No. 95-210.
+**Decided:** April 23, 1996.
+
+##### Preservation of the primary-agriculture objection
+
+**Holding:** Section 160(e) bars judicial consideration of an objection not urged before the Board, its member, agent, or agency unless extraordinary circumstances excuse the omission. Raising secondary agriculture did not preserve the distinct primary-harvesting theory, and no extraordinary circumstance excuses the omission here.
+
+**Proposition-level authority:** Opinion of the Court (Ginsburg), Part I, joined by all seven other Associates; Stone-Zsela joins only the disposition declining consideration.
+
+**Limits and questions not reached:** Whether poultry catching can be primary agriculture remains undecided. The preserved secondary-agriculture claim remains reviewable.
+
+**Treatment of earlier authority:** *Woelke & Romero* supplies the agency-preservation requirement and its extraordinary-circumstances qualification.
+
+##### Secondary agriculture and these live-haul occupations
+
+**Holding:** Secondary agriculture requires both a practice performed by a farmer or on a farm and a relationship incident to or in conjunction with the relevant farming operations. A nonfarmer's employees may qualify through the on-farm alternative, but location alone is insufficient; preparation for market and delivery to storage, market, or carriers remain subject to both requirements. Courts independently identify those statutory boundaries before reviewing an unresolved agency construction for permissibility.
+
+**Proposition-level authority:** Part II of the Court opinion, unanimous.
+
+**Material application:** Ownership of birds, employer identity, and integration within one business are not conclusive. Work may serve farming and processing simultaneously; exclusive farming purpose is not an additional requirement.
+
+##### Classification of these live-haul drivers
+
+**Holding:** The Board lawfully classifies these substantially off-farm live-haul drivers as covered employees. Transport serving Holly's separate processing operation does not become agriculture because the birds were raised on farms, Holly continuously owned them, or the trip begins there.
+
+**Proposition-level authority:** Part III of the Court opinion, unanimous.
+
+##### Classification of these catchers and forklift operators
+
+**Holding:** The statute does not unambiguously exempt these on-farm catchers and forklift operators. The Board permissibly treats their catching, cooping, and loading as a separately organized removal operation serving processing rather than as incident to or in conjunction with the growers' farming, on its actual, substantially supported integration rationale.
+
+**Proposition-level authority:** Part IV of the Court opinion, joined by Stone-Zsela, Stevens, Kennedy, Souter and Breyer; six Justices. O'Connor, Scalia and Thomas reject this application while joining the shared statutory predicates and driver holding.
+
+**Material application:** Independent growers raise the birds to marketable size. Holly separately organizes and supervises removal according to processing shifts, with handling continuing until plant receivers take over. Those facts support the Board's actual rationale; the Labor Department's poultry-preparation examples retain the statutory conditions and do not compel exemption. Substantial evidentiary support remains distinct from judicial statutory interpretation.
+
+**Limits and questions not reached:** The decision mandates no classification for every poultry arrangement, farmer's own employees, other contractors, or mixed-duty drivers, and does not hold that the opposite driver classification on identical facts would also be permissible. It neither makes employer identity conclusive nor declares all post-growing work nonagricultural or a processing plant incapable of being a market. No new proof burden, general remand rule, or *Gissel* standard is established.
+
+**Operative remedy or transition:** Affirm enforcement within the classification question; the Board's existing order remains effective. No unit reconsideration, bargaining-order remand, election, hearing, or monetary award is ordered. Tyson's separate successorship issue and unrelated unfair-labor-practice issues are not reopened; genuinely remaining matters retain their ordinary lawful channels.
+
+**Treatment of earlier authority:** *Farmers Reservoir* distinguishes farming from a separately organized enterprise serving it while preserving both statutory gateways. *Bayside* rejects attribution of independent growers' farming through processor ownership and supports the driver holding; its on-farm reservation is resolved only for this catcher/loader arrangement. *Chevron* requires independent boundary review before permissible interpretation. *Town & Country* preserves each express exclusion within bounded employee classification; *Health Care* supports functional construction on the agency's actual rationale without importing its supervisory test. *MCI* forbids eliminating a statutory condition; the on-farm alternative remains effective. No precedent is overruled.
+
+### Majority status and collective-bargaining agreement enforcement
+
+#### Auciello Iron Works, Inc. v. NLRB, 517 U.S. 781
+
+**Docket or dockets:** No. 95-668.
+**Decided:** June 3, 1996.
+
+##### Does the NLRA entitle an employer to a postacceptance assessment period for previously known majority-status doubt?
+
+**Holding:** At *Chevron* step one, the NLRA does not unambiguously entitle an employer to leave its offer open and then repudiate the accepted agreement on previously known, unasserted good-faith majority-status doubt. This timing question remains within the range of permissible Board choices, subject to the Act's employee-choice and majority-representation safeguards.
+
+**Proposition-level authority:** Ginsburg's Opinion of the Court, Part I, unanimous; all nine Justices join Parts I–IV and every qualification and remedy below.
+
+**Material application:** Sections 7 and 9 protect employee choice and majority representation, and §§8(a)(1), (2) and (5) prohibit interference, unlawful support and refusal to bargain, but none provides the claimed grace period. Section 8(d) requires good-faith bargaining and execution of an agreement reached upon request, without compelling assent to an unaccepted proposal or a concession. This established incumbent retained a rebuttable presumption after expiration of its prior agreement. Contract formation under the Board's criteria, which need not coincide with general contract law, establishes neither actual majority support nor an independent answer to the statutory objection; doubt and actual minority remain distinct.
+
+**Limits and questions not reached:** Neither silence nor a presumption proves employee support. The 1977 certification creates no renewed conclusive certification year in 1988. Actual-minority merits, including the Board's reserved question of a postacceptance actual-minority claim based on previously known events, are not decided; nor is the lawfulness of continued bargaining when both parties know actual minority.
+
+**Treatment of earlier authority:** *Chevron U.S.A. Inc. v. NRDC*, 467 U.S. 837, requires independent statutory construction before permissibility review. *MCI Telecommunications Corp. v. AT&T* and *Lechmere, Inc. v. NLRB* preserve binding statutory boundaries before deference; *Lechmere*'s access holding supplies no majority-status rule. *NLRB v. Town & Country Electric, Inc.* and *Holly Farms Corp. v. NLRB* apply statutory-first review while keeping classification, actual facts and relief distinct. *Brooks v. NLRB*, 348 U.S. 96, and *Fall River Dyeing & Finishing Corp. v. NLRB*, 482 U.S. 27, preserve continuity and orderly employee-choice routes without fresh numerical proof at every bargaining act. *International Ladies' Garment Workers' Union v. NLRB*, 366 U.S. 731, is distinguished as initial recognition of an actually minority union; its employee-choice and §8(a)(2) limits remain intact.
+
+##### Was the separate actual-minority objection preserved for review?
+
+**Holding:** NLRA §10(e) bars an objection not urged before the Board unless extraordinary circumstances excuse the omission. Preserving a good-faith-doubt objection did not preserve actual-minority merits, and no qualifying excuse permits review of that separate objection here.
+
+**Proposition-level authority:** Ginsburg's Opinion of the Court, Part I, unanimous.
+
+**Limits and questions not reached:** This threshold ruling does not dispose of the preserved doubt claim, establish actual minority, or resolve the Board's reserved postacceptance actual-minority question.
+
+**Treatment of earlier authority:** *Holly Farms Corp. v. NLRB* supplies §10(e)'s preservation requirement with its extraordinary-circumstances exception; the exception is retained but unsatisfied here.
+
+##### May the Board ordinarily use acceptance as the cutoff for a good-faith-doubt defense based on earlier-known information?
+
+**Holding:** At *Chevron* step two, the Board may ordinarily require an employer to act on majority-status doubt based on previously known information before an established incumbent accepts its still-outstanding offer. The explained stability policy reasonably protects accepted agreements, subject to the distinct protected-period, representation-route and virtually simultaneous first-information qualifications below; the Act does not compel that policy for every future Board.
+
+**Proposition-level authority:** Ginsburg's Opinion of the Court, Part II, unanimous.
+
+**Material application:** The Board may prevent unilateral uncertainty and postacceptance litigation generated by an employer's previously uncommunicated doubt. Its supplemental decision itself supplies that policy explanation, so no substitute judicial rationale or explanatory remand is necessary. These prospective policy risks are not findings of strategic concealment, bad faith, actual employee support or insufficient doubt. The asserted need to assess reports does not require leaving an accepted agreement defeasible.
+
+**Limits and questions not reached:** Before acceptance an employer may use legally available election procedures, assert legally sufficient doubt in response to a refusal-to-bargain charge, or continue good-faith bargaining while investigating. Investigation does not suspend bargaining; refusal may draw a charge and requires its own lawful defense, and no election is automatically available. The discussion of offer withdrawal assumes without deciding that withdrawal here would not support an unfair-labor-practice charge implicating the blocking-charge rule; it creates no categorical immunity for withdrawing an offer or recognition. The cutoff does not depend on converting that assumption into a right.
+
+**Treatment of earlier authority:** *Fall River* supports rational Board policy within the Act, not automatic approval of presumptions. *NLRB v. Curtin Matheson Scientific, Inc.*, 494 U.S. 775, preserves the distinction between legal policy and evidence; its striker-replacement rule decided neither this cutoff nor Auciello's doubt sufficiency. *ABF Freight System, Inc. v. NLRB* supplies explained statutory discretion and arbitrariness review, not a majority-status rule. *NLRB v. Health Care & Retirement Corp.* and *Holly Farms* retain actual statutory predicates and the agency's own reasons rather than a judicial substitute.
+
+##### Which presumption limits and representation procedures qualify the acceptance cutoff?
+
+**Holding:** The acceptance cutoff preserves the distinct certification-year, contract-term and postexpiration presumptions, recognized unusual-circumstances qualifications, and lawful representation procedures. The Board separately reserves case-by-case treatment of doubt-producing information first received virtually simultaneously with acceptance; later assessment of earlier-known information is not that circumstance.
+
+**Proposition-level authority:** Ginsburg's Opinion of the Court, Part III, unanimous.
+
+**Material application:** Ordinary certification protection lasts one year; ordinary contract protection lasts the term up to three years. Illustrative, nonexhaustive unusual circumstances include dissolution or defunctness of a certified union and a schism transferring substantially all members and officers to another local or international. After protection ends, actual nonmajority requires its own numerical showing; sufficient objective good-faith doubt may rest on circumstantial evidence where that route is lawfully available. For agreements of three years or less, the stated ordinary representation or decertification petition window is more than 60 but less than 90 days before expiration. Healthcare and seasonal operations receive different treatment, with no substitute window decided here. Permission to petition does not permit unilateral refusal to bargain during a contract.
+
+**Limits and questions not reached:** No dissolution, schism, petition or employee vote is adjudicated here. Whether the Board could generally abolish the doubt defense remains open. First presentation of signed anti-representation petitions virtually when acceptance arrives illustrates the simultaneous-information reservation but does not dictate the hypothetical result. That reservation differs from protected-period unusual circumstances and §10(e)'s extraordinary-circumstances excuse. Timely lawful challenges, fraud and material postacceptance events are not foreclosed, but require their own lawful predicates and procedures; none supplies an automatic exception terminating protected obligations or establishes relief in this case.
+
+**Treatment of earlier authority:** *Brooks* retains protected bargaining stability, its unusual-circumstances qualification and orderly employee-choice routes without renewal of the certification year. Neither *Brooks* nor *Fall River* converts the incumbent's presumption into proof of actual support.
+
+##### Does the accepted timing rule sustain the existing enforcement judgment without a doubt-sufficiency remand?
+
+**Holding:** Because Auciello knew the relevant information before acceptance and the virtually simultaneous first-information reservation does not apply, the Board's permissible timing rule defeats the preserved defense without deciding the evidence's sufficiency or a reasonable assessment period. The entire enforcement judgment therefore stands on that policy ground.
+
+**Proposition-level authority:** Ginsburg's Opinion of the Court, Part IV, unanimous.
+
+**Material application:** The settled findings establish that the November 17 offer remained open, the negotiating committee could accept without membership ratification, and management already possessed the information later invoked. The holiday-week assessment account does not turn earlier knowledge into simultaneous first receipt. Picket-line crossings, union resignations, asserted disaffection and reported new jobs are not interchangeable with opposition to representation. Neither sufficient objective doubt nor actual minority was found or conceded.
+
+**Limits and questions not reached:** The Court does not adopt the Board's alternative contention that Auciello had adequate assessment time even under the employer's proposed approach, fixes no period, and makes no finding that sufficient doubt existed on November 18, 21 or 23. That calendar argument is not an independent alternative holding.
+
+**Operative remedy or transition:** On the Union's request, Auciello must put the accepted agreement in writing, sign and effectuate it retroactively to November 27, 1988, and comply with the existing make-whole and cease-and-desist order. No new payment amount, liability determination, election, automatic decertification, doubt-sufficiency or compliance hearing is prescribed. Any genuinely remaining lawful implementation issue keeps its ordinary scope; affirmance creates no additional proceeding.
+
+**Material judgment:** First Circuit enforcement judgment affirmed in its entirety, 9–0; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. No separate writing or partial join.

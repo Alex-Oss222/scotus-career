@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1994
-**Processed through:** June 29, 1995, after all 99 OT1994 inventory Court events and the two admitted source events.
-**Edition:** October 1, 2026
+**Last completed October Term:** 1995
+**Processed through:** July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events.
+**Edition:** October 7, 2026
 
 ## Federal Indian Law
 
@@ -96,7 +96,7 @@
 - Moe v. Confederated Salish and Kootenai Tribes, 425 U.S. 463: applied to member vehicle property taxation.
 - Washington v. Confederated Tribes of the Colville Indian Reservation, 447 U.S. 134: applied to the substance of the vehicle levies; genuinely tailored off-country use charges remain distinct.
 
-#### [Oklahoma Tax Commission v. Chickasaw Nation](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Oklahoma_Tax_Commission_v_Chickasaw_Nation_merits_1995-06-14.md)
+#### Oklahoma Tax Commission v. Chickasaw Nation
 
 **Docket or dockets:** No. 94-771.
 **Decided:** June 14, 1995.
@@ -156,7 +156,7 @@ For the other questions in Oklahoma Tax Commission v. Chickasaw Nation, decided 
 
 ### Reservation diminishment
 
-#### [Hagen v. Utah, 510 U.S. 399](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Hagen_v_Utah_merits_1994-02-23.md)
+#### Hagen v. Utah, 510 U.S. 399
 
 **Docket or dockets:** No. 92-6281.
 
@@ -185,7 +185,7 @@ For the other questions in Oklahoma Tax Commission v. Chickasaw Nation, decided 
 
 ### Reservation cigarette-tax collection
 
-#### [Department of Taxation and Finance of New York v. Milhelm Attea & Bros., Inc., 512 U.S. 61](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Department_of_Taxation_and_Finance_of_New_York_v_Milhelm_Attea_and_Bros_Inc_merits_1994-06-13.md)
+#### Department of Taxation and Finance of New York v. Milhelm Attea & Bros., Inc., 512 U.S. 61
 
 **Docket or dockets:** No. 93-377.
 
@@ -229,7 +229,7 @@ For the other questions in Oklahoma Tax Commission v. Chickasaw Nation, decided 
 
 ### State fuel-tax incidence in Indian country
 
-#### [Oklahoma Tax Commission v. Chickasaw Nation](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Oklahoma_Tax_Commission_v_Chickasaw_Nation_merits_1995-06-14.md)
+#### Oklahoma Tax Commission v. Chickasaw Nation
 
 **Docket or dockets:** No. 94-771.
 **Decided:** June 14, 1995.
@@ -251,3 +251,7 @@ For the other questions in Oklahoma Tax Commission v. Chickasaw Nation, decided 
 - Department of Taxation v. Milhelm Attea & Bros.: preserves reasonable controls for valid nonmember taxes; supplies no tribal-incidence tax authority.
 
 **Operative remedy or transition:** Affirm the bar on the reviewed tribal-retailer-incidence fuel tax; reverse the exemption for the specified off-country-resident tribal wages and remand for ordinary tax law and residence/source predicates. No tax amount, refund, individual residence finding or replacement-tax approval is entered.
+
+### IGRA negotiation and enforcement
+
+For Seminole Tribe of Florida v. Florida, 517 U.S. 44, March 27, 1996, No. 94-12, see Federal Courts — IGRA's binding good-faith adjudication, the connected prospective-officer route and its complete statutory sequence, and the fractured direct-State judgment with a separately majority-supported clear-statement proposition.
