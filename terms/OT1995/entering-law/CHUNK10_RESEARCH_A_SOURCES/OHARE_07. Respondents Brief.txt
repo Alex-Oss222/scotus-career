@@ -1,0 +1,1238 @@
+October Term, 1995 
+
+
+O’HARE TRUCK SERVICE, INC. and JOHN A. 
+GRATZIANNA, 
+
+
+Petitioners, 
+vs. 
+
+
+CITY OF NORTHLAKE, MAYOR REID PAXSON, and 
+POLICE CHIEF SEYMOUR SAPOZNIK, 
+
+
+Respondents. 
+
+
+On Writ of Certiorari to the United States 
+Court of Appeals for the Seventh Circuit 
+
+
+BRIEF FOR RESPONDENTS 
+
+
+GARY M. FEIEREISEL 
+Counsel of Record 
+FRANK P. KASBOHM 
+FRATERRIGO, BEST & BERANEK 
+Attorneys for Respondents 
+55 West Monroe Street 
+Suite 3400 
+Chicago, Illinois 60603 
+(312) 782-9255 
+
+
+(600) 3 APPEAL + (600) 5 APPEAL » (600) BRIEF 21 
+
+
+30 |: 
+
+
+II. 
+
+
+III. 
+
+
+TABLE OF CONTENTS 
+
+
+The Elrod, Branti and Rutan holdings should not 
+be extended to independent contractors. ...... 
+
+
+A. Extending Elrod, Branti And Rutan Raises 
+Unworkable Problems For Governmental 
+Entities, Unnecessarily Restricting Their 
+Effectiveness And Efficiency. ........... 
+
+
+B. Such An Extension Of Elrod, Branti And 
+Rutan Raises Unworkable Problems For The 
+Judiciary Restricting Its Effectiveness And 
+nn ceeded vcdiek ss 
+
+
+Assuming, arguendo, this Court fashions a First 
+Amendment test applying to independent 
+contractors, it should be one based on a 
+“reasonableness” rather than a “strict scrutiny” 
+a be oekwkcscs 
+
+
+This case presents the Court with the opportunity 
+to overrule what has become unworkable 
+precedent in Rutan, if not in Elrod and Branti as 
+ä 0 
+
+
+cc 
+
+
+14 
+
+
+15 
+
+
+21 
+
+
+23 
+
+
+Contents 
+Page 
+TABLE OF CITATIONS 
+
+Cases Cited: 
+Branti v Finkel, 445 U.S. 507 (1980))))))))⸗ ů: passim 
+Breuer v. Hart, 909 F.2d 1035 (7th Cir. 1990) ......... 18 
+Broadrick v. Oklahoma, 413 U.S. 601 (1973) ......... 1,15 
+Brown v. Glines, 444 U.S. 348 (1980h́hji 21 
+Civil Service Commission v. Letter Carriers, 413 U.S. 548 
+
+DT Skiveehes toca kt ck edccbhyosednccesooses | 
+Connick v Meyers, 461 U.S. 138 (198 3)))) 16,19 
+Downtown Auto Parks, Inc. v. City of Milwaukee, 938 F.2d 
+
+705 (7th Cir. 1991), cert. denied, 502 U.S. 1005 
+
+r ] ˙˙⸗¶˙. bee eee 10 
+Elrod v. Burns, 421 U.S. 347 (19760)0!ũn:n „ passim 
+
+
+Fox and Co. v Schoemehl, 671 F.2d 303 (8th Cir. 1982) .. 6 
+Horn v. Kean, 796 F.2d 668 (3rd Cir. 1986) ........... 11 
+
+
+LaFalce v Houston, 712 F.2d 292 (7th Cir. 1983), cert. 
+denied, 464 U.S. 1044 (198c9))9)))))⸗e 6,7,8,9 
+
+
+Contents 
+Page 
+Lundblad v. Celeste, 874 F.2d 1097 (6th Cir. 1989), 
+vacated, 882 F.2d 207 (6th Cir. 1990), reinstated in 
+
+part, 924 F.2d 627 (6th Cir. 199 11 11 
+Perry v. Sindermann, 408 U.S. 593 (19 )) 3 
+Pickering v. Board of Education, 391 U.S. 562 (1968) 
+
+esse ee eee 15, 16. 17,21 
+Public Worker's v. Mitchell, 330 U.S. 75 (1947) 1. 15.21 
+Rutan v. Republican Party of Illinois, 497 U.S. 62 (1990) 
+
+TV TTI TT TTT TT TT TTT TTT TTT TTT PTT eees eee ee passim 
+Sele v. Letts, 5 F.3d 1040 (7th Cir. 1993) 18,19, 20 
+Soderstrum . Town of Grand Isle, 925 F.2d 135 (Sth Cir. 
+
+/ ese 18 
+Ste gmaier v. Trammell, 597 F.2d 1027 (Sth Cir. 1979) 18 
+Sweeney v. Bond, 669 F.2d 542 (8th Cir. 1982) ........ 6 
+Tarplay v. Jeffers, et al., (7th Cir. Docket No. 95-2084) 
+
+— ese eseeee 14 
+
+
+Triad Associates, Inc. v. Chicago Housing Authority, 892 
+F.2d 583 (7th Cir. 1989), cert. denied, 498 U.S. 845 
+ese ebe bees eee ess 9.10 
+
+
+iv 
+
+
+Contents 
+Page 
+
+
+Umbehr v. McClure, 44 F.3d 876 (10th Cir. 1995), argued 
+November 28, 1995, sub nom. Board of 
+Commissioners, Wabaunsee County, Kansas v. Umbehr 
+
+
+2,14 
+
+
+United States v National Treasury Employers Union. 
+U.S. 11S S.Ct. 1003 (1995) )) 2... cece eee 1,16 
+
+
+Vickery v. Jones, 865 F. Supp. 1313(S.D. Ill. 1994), appeal 
+pending, Nos. 96-1055, 96-1153 (7thCir.) ...... 13,17,19 
+
+
+Waters v. Churchill, U. S. . 114 S.Ct. 1878 (1994) 1.16 
+
+
+United States Constitution Cited: 
+err... „„ 0• passim 
+Fourteenth Amendment 4 
+
+
+1 
+SUMMARY OFF ARGUMENT 
+
+
+Elrod, Branti and Rutan mark a departure from this Court's 
+prior decisions in Public Worker's v. Mitchell, 330 U.S. 75 
+(1947); Civil Service Commission v. Letter Carriers, 413 U.S. 
+548 (1973); Broadrick v. Oklahoma, 413 U.S. 601 (1973), and 
+more recent decisions in United States v. National Treasury 
+Employers Union, U. S 115 S. Ct. 1003 (1995) and Waters 
+
+
+u Churchill. U.S. , 114 S. Ct. 1878 (1994). Instead of the 
+
+
+deferential approach employed in this line of cases, Elrod, 
+Branti and Rutan apply a strict scrutiny standard when analyzing 
+First Amendment issues arising out of state and local 
+employment. 
+
+
+The strict scrutiny standard should not be extended to this 
+First Amendment case arising from Petitioners’ work as an 
+independent contractor in the City of Northlake. Such an 
+extension of Elrod, Branti and Rutan in this case is not only 
+inconsistent with the deferential approach described above, it 
+also raises unworkable problems for local governmental entities 
+and for the judiciary, restricting both in their effectiveness and 
+
+
+efficiency. 
+
+
+However, even if the strict scrutiny standard were applied 
+here, Northlake did not unconstitutionally infringe on 
+Petitioners’ First Amendment rights. Northlake’s action was, in 
+fact, narrowly tailored to further a vital governmental interest. 
+Northlake has no other ef*ective means to further the vital 
+governmental interest of providing effective and efficient 
+municipal services unless it has the power to terminate or not 
+renew relationships with independent contractors pursuant to 
+which such services are provided. 
+
+
+Likewise, if the exception (recognized by Elrod, Branti and 
+Rutan ) to the strict scrutiny standard is applied, Northlake did 
+not unconstitutionally violate Petitioners’ First Amendment 
+
+
+2 
+
+
+rights. As independent contractors, who operate without 
+supervision from the City of Northlake, Petitioners are 
+analogous to the high ranking employees described in Branti and 
+Rutan who may be dismissed for political reasons without 
+violating the First Amendment. 
+
+
+Under any First Amendment analysis, whether it be the 
+deferential approach, the strict scrutiny test, or the exception 
+thereto, Petitioners fail to state a claim. In addition, this Court 
+may consider overruling at least Rutan, if not Elrod and Branti. 
+as an alternative to extending those decisions into the context of 
+First Amendment issues that arise between governmental 
+entities and independent contractors. For all of the foregoing 
+reasons, this Court should affirm the decision below of the 
+Seventh Circuit Court of Appeals. 
+
+
+ARGUMENT 
+I. 
+
+
+THE ELROD, BRANTI AND RUTAN HOLDINGS 
+SHOULD NOT BE EXTENDED TO INDEPENDENT 
+CONTRACTORS. 
+
+
+This case, along with Umbehr v. McClure, 44 F.3d 876 (10th 
+Cir. 1995) (94-1654, argued November 28, 1995, sub nom. 
+Board of Commissioners, Wabaunsee County, Kansas v. 
+Umbehr), provides this Court, for the first time, the opportunity 
+to address the issue of what, if any, First Amendment rights an 
+independent contractor has in the context of performing work for 
+a governmental entity. 
+
+
+Prior hereto, this court has addressed the issue of First 
+Amendment rights in the limited context of a governmental 
+employer/employee relationship. In that context, this Court has 
+
+
+3 
+
+
+struggled mightily with attempting to fashion not only a test to be 
+applied in determining whether a constitutional violation has 
+occurred but also in determining to whom such a test should be 
+
+
+applied. 
+
+
+For example, in Elrod v. Burns, 421 U.S. 347 (1976), this 
+Court, ina plurality opinion, decided that a newly elected sheriff 
+could not constitutionally replace certain office staff personal 
+with members of his own party when the employees being 
+replaced failed to support or affiliate with the party in power. 
+Support for that holding was found in Perry v. Sindermann, 408 
+U.S. 593 (1972), which held that the state’s refusal to renew a 
+teacher's contract because he had been publicly critical of its 
+policies, imposed an unconstitutional condition on the receipt of 
+a public benefit. Nonetheless, the plurality in Elrod did 
+acknowledge that a government has a significant interest in 
+insuring that it has effective and efficient employees. 
+
+
+This Court arrived at a similar conclusion in Branti v. 
+Finkel, 445 U.S. 507 (1980), even though it decided that the First 
+Amendment prohibited a newly appointed public defender from 
+firing assistant public defenders because they did not support the 
+party of which the newly elected public defender was a member. 
+
+
+In both Elrod and Branti this Court carved out exceptions for 
+certain employees. The exception outlined in Elrod provided 
+that policymaking employees or employees in confidential 
+positions could be dismissed on the basis of their political views. 
+Elrod, supra, 421 U.S. at 367. In Branti, the court found that a 
+state demonstrates a compelling interest for political firings 
+when it can show that “party affiliation is an appropriate 
+requirement for the effective performance of the public office 
+involved.” Branti, supra, 445 U.S. at 518. 
+
+
+4 
+
+
+The third in this line of cases is Rutan v. Republican Party of 
+Illinois, 497 U.S. 62 (1990). In that case, a sharply divided court 
+extended the holdings in Elrod and Branti to promotion, transfer, 
+recall and hiring decisions based on party affiliation and support. 
+The exceptions found in Elrod and Branti were not an issue in 
+Rutan as it was conceded that the employees involved in Rutan 
+would not fall within the exceptions. Id. at 71, footnote 5. 
+
+
+However, this Court, in Rutan, was sharply divided with 
+Justice Scalia, who was joined by the Chief Justice and Justice 
+Kennedy, in whole, as well as by Justice O’Connor, in part, 
+authoring the dissent. In his dissent, Justice Scalia observed: 
+
+
+Today the Court makes its constitutional 
+civil service reform absolute, extending to all 
+decisions regarding government 
+employment. Because the First Amendment 
+has never been thought to require this 
+disposition, which may well have disastrous 
+consequences for our political system, I 
+dissent. 
+
+
+Id., at 94. 
+As cogently observed by Justice Scalia: 
+
+
+Once it is acknowledged that the 
+Constitution’s prohibition against laws 
+“abridging the freedom of speech” does not 
+apply to laws enacted in the government's 
+capacity as employer in the same way as it 
+does to laws enacted in the government's 
+capacity as regulator of private conduct, it 
+may sometimes be difficult to assess what 
+employment practices are permissible and 
+
+
+5 
+
+
+what are not. That seems to me nota difficult 
+question, however, in the present context. 
+The provisions of the Bill of Rights are 
+designed to restrain transient majorities from 
+impairing long-recognized personal 
+liberties. They did not create by implication 
+novel individual rights overturning accepted 
+political norms. Thus, when a practice not 
+expressly prohibited by the text of the Bill of 
+Rights bears the endorsement of a long 
+tradition of open, wide spread, and 
+unchallenged use that dates back to the 
+beginning of the Republic, we have no proper 
+basis for striking it down. Such a venerable 
+and accepted tradition is not to be laid on the 
+examining table and scrutinized for its 
+conformity to some abstract principle of First 
+Amendment adjudication devised by this 
+Court. To the contrary, such traditions are 
+themselves the stuff out of which the Court's 
+principles are to be formed. 
+
+
+Id. * 95-96. 
+
+
+It is in that context that this case, involving whether a 
+governmental entity may for political reasons terminate the 
+services of an independent contractor, must be decided. 
+Respondents submit that such considerations are 
+constitutionally permissible and for this Court to hold otherwise 
+would do nothing more than foster uncertainty, indecision, and 
+second guessing which would result in the federal judiciary 
+being inundated with lawsuits by any independent contractor 
+who felt that the decision to retain or not retain its services was 
+politically motivated. This Court’s decisions in Elrod, Branti 
+and Rutan should not be extended to independent contractors. 
+
+
+6 
+
+
+The Rutan dissent and the weight of persuasive authority in the 
+better reasoned opinions in the Courts of Appeals support that 
+result. 
+
+
+A. Extending Elrod, Branti And Rutan Raises Unworkable 
+Problems For Governmental Entities, Unnecessarily 
+Restricting Their Effectiveness And Efficiency. 
+
+
+The first circuit to address this issue in the context of 
+independent contractors was the Eighth Circuit in the cases of 
+Sweeney v. Bond, 669 F.2d 542 (8th Cir. 1982) and Fox and Co. 
+v. Schoemehl, 671 F.2d 303(8th Cir. 1982), 
+
+
+In Sweeney, the plaintiffs alleged their dismissals were 
+based solely on their political affiliation and argued they were 
+protected from such dismissals by the holdings in Elrod, supra 
+and Branti, supra. In deciding that the plaintiffs in Sweeney did 
+not fall within the protection of Elrod and Branti, the Eighth 
+Circuit found it dispositive that those two Supreme Court 
+decisions were limited to dismissals of public employees for 
+partisan reasons. /d., at545. Consequently, the Eighth Circuit 
+was “not willing to extend the patronage decisions to cases 
+which do not involve public employees.” Id., at 545. As a result. 
+once it was determined that the fee agents in Sweeney were not 
+public employees but more in the nature of independent 
+contractors, the trial court’s holding that the plaintiffs were not 
+protected from dismissal based on political affiliation was 
+affirmed. 
+
+
+The Seventh Circuit has, in a line of cases culminating in the 
+instant case, repeatedly held that independent contractors are 
+afforded no protection from removal based on political 
+considerations. The first such case was LaFalce v. Houston, 712 
+F.2d 292 (7th Cir. 1983), cert. denied, 464 U. S. 1044 (1984). In 
+that case the plaintiff had submitted a bid to the city of 
+
+
+7 
+
+
+Springfield on behalf of his business to install and maintain 
+benches along city streets. He alleged that his bid was the most 
+favorable to the city but that, nonetheless, the mayor had the 
+contract awarded to another bidder who was one of the mayor's 
+political supporters while the plaintiff was not. The district court 
+dismissed plaintiff's complaint and that dismissal was affirmed 
+by the Seventh Circuit. 
+
+
+In affirming the district court’s dismissal, the Seventh 
+Circuit observed that the practice of favoring political 
+supporters and awarding contracts for public projects has along 
+history at the federal as well as the state and local levels. It 
+acknowledged as hardly open to question that such a practice 
+could interfere with the free expression of political views 
+whether directly or through its effect on campaign contributions. 
+Id., at 293. Nonetheless, the court considered the extent of the 
+likely interference as being outweighed by the consequences of 
+trying to prevent it through an interpretation of the Constitution 
+and held that political considerations in the awarding of public 
+contracts to independent contractors are permissible. 
+
+
+The Seventh Circuit noted that it is not the end of world if a 
+government contractor does not get the particular government 
+work which it seeks due to the fact that the contractor is on the 
+outs with the incumbent as there are other sources of business for 
+such contractors. Of note in that regard is that the Petitioners 
+herein apparently have many sources of business as alleged in 
+their complaint. (See appendix to Petition for Writ of Certiorari, 
+page 21a) In paragraph two of Petitioners’ First Amended 
+Complaint, they allege that O Hare Truck Service, Inc., in 
+addition to other services, provides towing services at the 
+request of municipalities throughout Cook and DuPage 
+counties.” It is apparent that Petitioners rely only partially on 
+any income from towing services received by being on the 
+rotation list in Northlake. 
+
+
+The Seventh Circuit further observed that because at least 
+some government work is dispensed on a partisan basis, “modern 
+American life has made it important for business firms to be on 
+good terms with the major political groupings in the society. It 
+seems unlikely that the cautious neutrality that characterizes the 
+politics of American business would be altered even by an 
+ironclad constitutional rule against allowing politics to 
+influence the contracting process.” /d., at 294. That court 
+further went on to explain: 
+
+
+To attempt to purge government of 
+politics to the extent implied ty an effort to 
+banish partisan influences from public 
+contracting will strike some as idealistic, 
+others as quixotic, still others as 
+undemocratic, but all as formidable. 
+Patronage in one form or another has long 
+been a vital force in American politics. Civil 
+service laws. . . requiring public contracts to 
+be awarded to the low bidder, laws regulating 
+the financing of political campaign, and 
+decisions such as Elrod and Branti have 
+reduced the role of patronage in politics but 
+have not eliminated it entirely. The 
+desirability of reducing it still further raises 
+profound questions of political science that 
+exceed judicial competence to answer. . e 
+are reluctant to tamper with political 
+institutions when the competing First 
+Amendment interests are as attenuated as 
+they appear to be here. 
+
+
+Id., at 294 (emphasis added) 
+
+
+The court also noted there was a practical consideration in 
+
+
+9 
+
+
+its decision, that being that to hold otherwise would invite every 
+disappointed bidder for a public contract to bring a federal 
+lawsuit against the governmental entity involved. That could 
+literally occur with respect to any item of governmental work 
+performed by independent contractors as in virtually every 
+instance there is more than one entity competing for that work. 
+
+
+The next Seventh Circuit case addressing this was Triad 
+Associates, Inc. v. Chicago Housing Authority, 892 F.2d 583 (7th 
+Cir. 1989), cert. denied, 498 U.S.845 (1990). Triad was a 
+security firm hired by the Chicago Housing Authority to provide 
+security services beginning in 1982. After a change of 
+administrations in Chicago, Triad alleged that the CHA began to 
+intimidate, harass and ultimately drive it and other white 
+employees and contractors from the ranks of the CHA and 
+replace them with black employees and contractors who 
+supported the political aspirations of the new administration. 
+Triad filed a seven count complaint against the CHA, one of 
+which alleged that the CHA’s actions violated Triad’s rights of 
+free association and speech as guaranteed by the First and 
+Fourteenth Amendments, allegations which are essentially the 
+same as the Petitioners’ allegations in this case. 
+
+
+Although the Seventh Circuit noted that the Triad case was 
+not factually parallel to the circumstances in the LaFalce case it 
+emphasized that the rationale underlying that decision was the 
+difference that existed with respect to the business relationship 
+of the parties involved. In affirming the district court’s dismissal 
+of Triad’s First Amendment claim, the Seventh Circuit held that: 
+
+
+The decisions in both LaFaice and Horn 
+were grounded upon the distinction between 
+“independent contractors” and “public 
+employees” and the extent to which this 
+distinction was dispositive of the First 
+
+
+10 
+
+
+Amendment issue. In that Triad is an 
+“independent contractor” we, hold that our 
+decision in LaFalce is binding and that Triad 
+is not protected under the First Amendment 
+in this context. 
+
+
+Id., at 588. 
+
+
+Petitioners have conceded in this Court that they are 
+independent contractors as far as their relationship with the City 
+of Northlake is concerned. See Petitioners brief, page 9. 
+Consequently, as correctly decided in the court below, 
+petitioner’s First Amendment claims should properly be 
+rejected. The Seventh Circuit, subsequent to this Court's Rutan 
+decision once again affirmed its position with respect to 
+independent contractors in Downtown Auto Parks, Inc. v. City of 
+Milwaukee, 938 F.2d 705 (7th Cir. 1991), cert. denied, 502 U.S 
+1005 (1991). In again refusing to extend the Elrod and Branti 
+decisions to independent contractors despite the then recent 
+holding in Rutan, the Seventh Circuit stated: 
+
+
+While recognizing that Rutan has altered 
+some of the assumptions upon which the 
+LaFalce and Triad decisions were based, we 
+affirm the continued validity of those earlier 
+cases. Rutan did extend First Amendment 
+protection, but only within the context of 
+government employment... we continue to 
+concur in the view taken by the other circuits 
+and hold that political favoritism in the 
+awarding in public contracts is not 
+actionable. 
+
+
+Id., at 710. 
+
+
+As was very eloquently observed by the Third Circuit Court 
+of Appeals in Horn v. Kean, 796 F.2d 668 (3rd Cir. 1986), when 
+that court affirmed a motion for summary judgment in favor of 
+various state of New Jersey officials and against independent 
+contractors who were individuals removed from their positions 
+solely because of their political affiliation: 
+
+
+... [We] embrace the proposition that 
+application of the First Amendment has never 
+been considered as absolute dogma that runs 
+roughshod over other fundamental values. 
+We recognize that in adding the formidable 
+gloss to the naked constitutional text of 
+“Congress shall make no law. . .” the courts 
+have applied a balancing approach. Having 
+weighed interests implicated here, we are 
+persuaded first, that the independent 
+contractors in this case differ in significant 
+respects from public employees and, second, 
+that the distinctions lead to different first 
+amendment treatments of the two 
+classifications. As the force of a first 
+amendment assault on state patronage 
+practices moves from public employment 
+into the outer spheres of political life, we are 
+extremely hesitant to realign radically, in the 
+name of the Constitution, a political 
+constellation that has been with us since the 
+Republic was formed. 
+
+
+Id., at 677. 
+
+
+The Sixth Circuit Court of Appeals has also considered and 
+followed these cases in Lundblad v. Celeste, 874 F.2d 1097 (6th 
+Cir. 1989), vacated, 882 F.2d 207 (6th Cir. 1990), reinstated in 
+part, 924 F.2d 627 (6th Cir. 1991) (en banc). 
+
+
+12 
+
+
+Affirming the Seventh Circuit's decision below eliminates 
+the potentially “disastrous results” predicted by Justice Scalia in 
+his Rutan dissent. For example, once a municipality lets an 
+independent contract, its problems are not limited to First 
+Amendment suits from unsuccessful bidders. The successful 
+bidder could later seek a rate increase and simultaneously, 
+publicly endorse the opposition. If the contract would then not 
+be renewed by the incumbent, but instead was given to a lower 
+bidder; under Petitioners’ theory, the municipality would face a 
+First Amendment claim alleging that the contract was not 
+renewed in retaliation for expression of political views or for 
+political association. 
+
+
+Furthermore, because most independent contracts are of 
+limited duration, every new administration will have occasion to 
+review, terminate or renew contracts made by the preceding 
+administration. If anew administration decides to terminate or 
+not renew its predecessors’ contracts; under Petitioners’ 
+analysis, each such decision will subject each new 
+administration to a federal First Amendment lawsuit. There is no 
+basis in the Constitution to so encumber the governmental 
+decision-making process. Presumably, the electorate expects 
+change when voting in a new administration. The First 
+Amendment should not provide vague and abstract restrictions 
+on a new administration’s efforts to carry out such a mandate. 
+
+
+For example, administrations are often voted out because of 
+the electorate’s perception that public services are inadequate. 
+This is true whether the voter perception is accurate or not. 
+Under Petitioners’ analysis, an independent contractor who 
+provided any of those public services and was replaced by the 
+new administration would have the basis for filing a First 
+Amendment lawsuit because, from its perspective, the only thing 
+that changed was the administration. Therefore, contract non- 
+renewal would have been based solely on political association 
+
+
+13 
+
+
+with the prior administration. Under this scenario, the new 
+administration should not have to defend such First Amendment 
+claims for simply following the expressed will of the electorate. 
+
+
+Finally, the government loses direct control over a job that 
+has been assigned to an independent contractor. The contractor 
+becomes vested with the right to control the manner and method 
+of how that job is carried out on a day to day basis. As a result, the 
+government must retain some method of controlling the 
+independent contractor without having to wait for a disruption of 
+some type in service. See Vickery v. Jones, 865 F. Supp. 1313 
+(S. D. III. 1994), appeal pending, Nos. 96-1055, 96-1153 (7th 
+Cir.). Itis the government that is looked to by its citizens for the 
+provision of certain public services and it is the government that 
+is held accountable for any problems in the provision of those 
+services. Consequently, control over independent contractors 
+must be exercised by the government without having to resort to 
+some tortured First Amendment analysis each time the services 
+of a specific independent contractor are no longer needed or 
+desired. As Justice Scalia commented in his dissenting opinion 
+in Rutan: 
+
+
+In sum, I do not deny that the patronage 
+system influences or redirects, perhaps to a 
+substantial degree, individual political 
+expression and political association. But like 
+the many generations of Americans that have 
+preceded us, I do not consider that a 
+significant impairment of free speech or free 
+association. 
+
+
+Rutan, supra, 497 U.S at 110. 
+
+
+14 
+
+
+B. Such An Extension Of Elrod, Branti And Rutan Raises 
+Unworkable Problems For The Judiciary Restricting Its 
+Effectiveness And Efficiency. 
+
+
+The Tenth Circuit's recent decision in Umbehr, supra, 
+acknowledges that its decision places it squarely in conflict with 
+several other circuits. The Umbehr court's holding that an 
+“independent contractor is protected under the First Amendment 
+from retaliatory governmental action, just as anemployee would 
+be” (Umbehr, supra, 44 F.3d at 883) is unworkable and will lead 
+to a never-ending stream of lawsuits by any disgruntled 
+contractor who has or was interested in doing work for a 
+governmental entity but which no longer was doing so. 
+
+
+On balance, extending the holdings in Elrod, Branti and 
+Rutan, to also apply to independent contractors who work for 
+governmental entities, would foster unlimited litigation due to 
+the uncertainty in attempting to apply whatever rule of law that 
+might be fashioned in this context. This is evidenced by making 
+a simple comparison between the very small number of First 
+Amendment cases involving independent contractors and the 
+virtually unlimited number of First Amendment cases involving 
+disputes between government employees and government 
+
+
+employers. 
+
+
+The ensuing flood of litigation would not be limited only to 
+independent contractor cases. These same issues will have to be 
+considered in the context state or local governments and their 
+part-time as well as their temporary employees. In fact, these 
+very issues are now pending before the Seventh Circuit Court of 
+Appeals in Tarpley v Jeffers, et al. (7th Cir. Docket No. 95-2084) 
+and in Vickery v. Jones, supra. There are a myriad of part-time 
+and temporary employment decisions that, according to 
+Petitioners, would also be subject to First Amendment claims 
+under Elrod, Branti and Rutan. 
+
+
+15 
+
+
+To extend First Amendment protection to independent 
+contractors in this context as is advocated by the Petitioners 
+would only provide further extremely fertile grounds for future 
+litigation, but any potential chilling effect on First Amendment 
+rights by refusing to extend these rights to this case would be, in 
+Justice Scalia's words, not a “significant impairment of free 
+speech or free association.” Consequently, the Elrod, Branti and 
+Rutan line of cases should not be extended to independent 
+contractors and this Court should affirm the Seventh Circuit's 
+opinion below which so holds. 
+
+
+ASSUMING, ARGUENDO, THIS COURT FASHIONS 
+A FIRST AMENDMENT TEST APPLYING TO 
+INDEPENDENT CONTRACTORS, IT SHOULD BE ONE 
+BASED ON A “REASONABLENESS” RATHER THAN A 
+“STRICT SCRUTINY” STANDARD. 
+
+
+There is ample precedent for applying a reasonableness 
+standard in this context. Long before the Elrod decision, this 
+Court had, in upholding legislation prohibiting political 
+activities by federal employees, stated that it was not necessary 
+that the activity regulated be anything more than an activity 
+reasonably deemed by Congress to interfere with the efficiency 
+of public service. See Public Workers v. Mitchell, 330 U.S. 75 
+(1947). Likewise, in Broadrick v. Oklahoma, 413 U.S. 601 
+(1973), this Court upheld restrictions on state employees even 
+though those restrictions were directed at political expression 
+that, if it had been engaged in by private individuals, would have 
+been protected by the First Amendment. 
+
+
+Similarly, a balancing test in the context of an adverse 
+employment action against a public employee because of his 
+speech was fashioned in Pickering . Board of Education, 391 
+U.S. 562 (1968), where this Court stated: 
+
+
+16 
+
+
+the state has interests as an employer 
+in regulating the speech of its employees that 
+differ significantly from those it possesses in 
+connection with regulation of the speech of 
+the citizenry in general. The problem in any 
+case is to arrive at a balance between the 
+interests of the (employee), as a citizen, in 
+1 commenting upon matters of public concern 
+and the interests of the State, as an employer. 
+in promoting the efficiency of the public 
+service it performs through its employees. 
+
+
+Id., at 568. 
+
+
+More recently, in Connick v. Meyers, 461 U.S. 138 (1983), 
+this Court gave a wide degree of deference to the employer's 
+judgment when applying that balancing test. Most recently in 
+United States . National Treasury Employees Union, U.S. 
+—» 115 S. Ct. 1003 (1995) and Waters v. Churchill, U. 8s. 
+114S.Ct. 1878 (1994), this Court again showed deference in the 
+governmental employment context. So too, a governmental 
+entity should be given wide deference in its decision-making 
+process with respect to independent contractors. 
+
+
+Despite the reasonableness standard evidenced in the public 
+employer/employee free speech setting, the case law has 
+unfortunately evolved to the application of a “strict scrutiny” 
+standard in the public employer/employee freedom of 
+association setting. See Elrod, Branti, Rutan, supra. In Rutan 
+the five to four majority opinion written by Justice Brennan 
+decided that “unless these patronage practices are narrowly 
+tailored to further vital governmental interests, we must 
+conclude that they impermissibly encroach on First Amendment 
+freedoms.” Rutan, supra, 497 U.S at 74. As Justice Scalia points 
+out in his dissenting opinion, “that strict scrutiny standard finds 
+no support in our cases.” Id., at 98. 
+
+
+17 
+
+
+As stated above, Respondents urge this Court not to, in the 
+instant case, extend the Elrod, Branti and Rutan line of cases. 
+Assuming, arguendo, this Court decides to adopt any test at all, 
+the test that should be applied in the independent contractor 
+context should be one of reasonableness and deference under 
+Pickering and its progeny, not the strict scrutiny test applied in 
+Rutan. Nonetheless, even under the heightened standard applied 
+in Rutan, Petitioners’ removal from the towing rotation list 
+would not violate Petitioners’ First Amendment rights. 
+
+
+The strict scrutiny standard within Elrod, Branti and Rutan 
+provides that unless patronage practices are narrowly tailored to 
+further government interests, they impermissibly encroach on 
+First Amendment freedoms. Rutan, supra, 487 U.S. at 74 
+
+
+With an independent contractor, a municipality can only 
+effectively control conduct through the right to terminate or the 
+right to not renew the contract. See Vickery v. Jones, supra. Any 
+limitation on governmental ability to terminate, or not rehire, an 
+independent contractor effectively destroys governmental 
+ability to control public services. This right to terminate or not 
+rehire is narrowly tailored; it is the only effective method 
+available of government control over independent contractors. 
+The right to terminate or not rehire furthers a vital governmental 
+interest: efficiency and effectiveness of operation. 
+
+
+Section I, ante, demonstrates numerous examples and 
+practical considerations showing the right to terminate or not 
+rehire an independent contractor furthers efficient and effective 
+governmental operation. Those examples apply equally, but 
+need not be restated, here. Therefore, because the right to 
+terminate or not rehire is narrowly tailored and relates to a vital 
+governmental interest, Respondents’ actions here do not violate 
+the First Amendment even under strict scrutiny analysis. 
+
+
+18 
+
+
+In addition, the policy maker/confidential employee 
+exception to this strict scrutiny standard outlined by this Court 
+in Branti recognized that: 
+
+
+party affiliation may be an acceptable 
+requirement for some government 
+employment. Thus, if an employee’s private 
+political beliefs would interfere with the 
+discharge of his public duties, his First 
+Amendment rights may be required to yield 
+to the State’s vital interest in maintaining 
+governmental effectiveness and efficiency. 
+In sum, the ultimate inquiry is not whether 
+the label “policy maker” or “confidential” 
+fits a particular position; rather, the question 
+is whether the hiring authority can 
+demonstrate that party affiliation is an 
+appropriate requirement for the effective 
+performance of the public office involved. 
+
+
+Branti, supra, 445 U.S. at 517-518. 
+
+
+Under that exception, a wide range of public employees 
+have been found to hold positions in which the government was 
+able to “demonstrate that party affiliation is an appropriate 
+requirement for the effective performance” of the particular job 
+involved. Those included a deputy sheriff (Breuer v. Hart, 909 
+F.2d 1035 [7th Cir. 19900); a secretary to a police chief 
+(Soderstrum v. Town of Grand Isle, 925 F.2d 135 (Sth Cir. 1991): 
+a deputy clerk (Stegmaier v Trammell, 597 F.2d 1027 [Sth 
+Cir.1979]); and a subdistrict superintendent for a highway 
+department (Selch v. Letts, 5 F.3d 1040 [7th Cir., 1993). 
+
+
+It should be without question that the political loyalty of 
+independent contractors who perform governmental services is 
+
+
+19 
+
+
+related to the effective performance of the function involved. 
+Since they do not have supervisors who monitor their work, they 
+are similar to supervisors or decision makers which Branti 
+allowed to be selected or dismissed based on political affiliation. 
+See also, Vickery v. Jones, supra. 
+
+
+The Seventh Circuit. in affirming the dismissal of the 
+subdistrict highway superintendent in Selch, stated: 
+
+
+Elected officials cannot implement the 
+policies that they were elected to carry out 
+and, hence, the will of the electorate cannot 
+be effectuated, unless the officials can install 
+their political allies in the most sensitive 
+jobs. Id., at 1044. While there is no 
+indication that Selch would not effectively 
+perform his duties, “actual disruption nor 
+disturbance need not be proved” (citation 
+omitted) once the employee is classified (as 
+exempt for First Amendment protection), he 
+can be fired on political grounds even if there 
+is no evidence that he would not serve his 
+political superiors loyally and competently. 
+
+
+Id., at 1046-1047. 
+
+
+This observation is underscored by the Connick Court's 
+statement that “we do not see the necessity for an employer to 
+allow events to unfold to the extent that the disruption of the 
+office and the destruction of working relationships is manifest 
+before taking action.” Connick, supra, 461 U.S. at 152. 
+
+
+One of Selch’s responsibilities was to handle various 
+requests with respect to street maintenance and repairs, etc. The 
+Seventh Circuit noted significant evidence in political life that 
+
+
+20 
+
+
+the failure to properly provide services such as snow removal 
+from highways could adversely impact on the chief executive of 
+a state or a government charged with providing such services. In 
+particular, the Seventh Circuit observed that the incumbent is 
+widely regarded as having lost the 1979 Chicago Mayoral 
+election due to snow removal problems. 
+
+
+That concept is of import in the instant case where an 
+independent contractor is providing public services to the 
+citizens of Northlake. As noted previously, an independent 
+contractor has little or no supervision over the manner or method 
+in which it performs its job. That coupled with Petitioners’ open 
+support for Mayor Paxson's opponent (placing opposition 
+campaign posters in Petitioners’ place of business) certainly 
+provides Petitioners with the opportunity, in providing public 
+services, to adversely impact the chief executive of Northlake, 
+who is charged with providing those public services. In 
+particular, as alleged by Petitioners in their First Amended 
+Complaint (see Petition for Writ of Certiorari, page 21a), the 
+public service being provided is “when the need arises for the 
+towing of a vehicle, as a result of an accident, mechanical 
+breakdown, abandonment or other reason, plaintiff (Petitioner) 
+is contacted by the municipality where the vehicle is located and 
+asked to provide towing services.” 
+
+
+As the Selch court teaches, actual disruption or disturbance 
+need not be proved. Once an employee is classified as exempt 
+from First Amendment protection, political firings are 
+constitutionally permissible even without actual evidence of 
+disloyalty or incompetence. Similarly, in the instant case, the 
+City of Northlake is not required to wait and see if the Petitioners, 
+once the candidate they supported was defeated, would for 
+political reasons attempt to disrupt or otherwise adversely affect 
+municipal services. 
+
+
+21 
+
+
+As indicated above, however, it is Respondents’ position 
+that if this court decides to apply a test in this area, it should be the 
+reasonableness and deferential test discussed in Pickering and 
+its progeny. That should be so whether the issue is freedom of 
+speech or freedom of association. As observed by Justice Scalia 
+in his Rutan dissenting opinion, “since the government may 
+dismiss an employee for political speech “reasonably deemed by 
+Congress to interfere with the efficiency of the public service,” 
+(citation omitted), it follows, a fortiori, that the government may 
+dismiss an employee for political affiliation if “reasonably 
+necessary to promote effective government.” (citing Public 
+Workers v. Mitchell, supra and Brown v. Glines, 444 U.S 348 
+19800. 
+
+
+As demonstrated above, under any test this Court may 
+fashion, there is no First Amendment violation, and therefore 
+this Court must affirm the Seventh Circuit's opinion below. 
+which so holds. 
+
+
+THIS CASE PRESENTS THE COURT WITH THE 
+OPPORTUNITY TO OVERRULE WHAT HAS BECOME 
+UNWORKABLE PRECEDENT IN RUTAN, IF NOT IN 
+ELROD AND BRANTIAS WELL. 
+
+
+It is difficult to find a more unworkable rule of law than that 
+which has evolved from the Elrod, Branti and Rutan line of 
+cases. The inconsistencies which these cases have spawned are 
+discussed in considerable detail by Justice Scalia in his 
+dissenting opinion in Rutan, supra at 111-113. If those and 
+subsequent cases are not reason enough to overrule that line of 
+cases, then the mere consideration that the line of cases could be 
+extended to independent contractors, part-time and temporary 
+employees should most certainly convince one of that necessity. 
+
+
+22 
+
+
+As observed by Justice Scalia, the “test” devised to implement 
+Brantihas produced inconsistent and unpredictable results. That 
+uncertainty undermines the purpose of both the non-patronage 
+rule and its exception, Rutan, supra, 497 U.S. at 112. 
+
+
+Obviously, this Court should not treat lightly a request to 
+overrule past precedent in light of not only the importance, but 
+the necessity, of the doctrine of stare decisis. Nonetheless, when 
+a rule of law becomes unworkable, it should be corrected. As 
+stated by Justice Scalia: 
+
+
+Even in the field of constitutional 
+adjudication where the pull of stare decisis is 
+at its weakest, see Glidden Company v. 
+Zdanok, 370 U.S. 530, 543 (1962)(opinion of 
+Harlan, J.), one is reluctant to part from 
+precedent. But when that precedent is not 
+only wrong, not only recent, not only 
+contradicted by a long prior tradition, but 
+also has proved unworkable in practice then 
+all reluctance ought to disappear. 
+
+
+Rutan, supra, 497 U.S. at 110-111. 
+
+
+In discussing the subject of party-based employment Justice 
+Scalia makes this cogent observation on how that subject would 
+be dealt with if these cases were overruled and why the federal 
+judiciary should not be involved in dealing with this subject: 
+
+
+The answer to that (party-based 
+employment) will vary from State to State, 
+and indeed from city to city, even if one 
+rejects out of hand (as the Branti line does) 
+the benefits associated with party stability. 
+Indeed, the answer will even vary from year 
+
+
+23 
+
+
+to year. . the appropriate “mix” of party 
+based employment is a political question if 
+ever there was one, and we should give it back 
+to the voters of the various political units to 
+decide, through civil service legislation 
+crafted to suit the time and place, which mix 
+is best. 
+
+
+Rutan, supra 497 U.S. at 113-114. 
+
+
+Before continuing to subject state and local governments, 
+and their political officials, to such an unworkable framework as 
+has evolved from the Elrod, Branti and Rutan line of cases in the 
+public employment context; and certainly before extending that 
+line of cases to include independent contractors, this Court 
+should re-evaluate the wisdom of continuing to enforce the legal 
+theories which originated, and have evolved from, those cases. 
+In doing so, the wisdom of placing the subject of party-based 
+employment back into the hands of the voters and their elected 
+representatives, to be decided at the state and local level, 
+becomes apparent. 
+
+
+Respondents defer to the Brief of Illinois State Officials as 
+Amicus Curiae for more detailed argument on this issue. 
+
+
+CONCLUSION 
+
+
+Petitioner’s invitation to this Court to extend the Elrod, 
+Branti and Rutan line of cases to give First Amendment 
+protection to independent contractors should be rejected as 
+unworkable and untenable. The Rutan dissent together with the 
+weight of persuasive authority in the Circuit Courts of Appeals 
+provide this Court with sound and reasoned precedent to reject 
+Petitioners’ arguments and affirm the ruling below of the 
+Seventh Circuit Court of Appeals. 
+
+
+24 
+
+
+Any other conclusion will result in giving independent 
+contractors unfettered access to the courts by giving every 
+disappointed independent contractor the ability to file a lawsuit 
+based on the First Amendment. The potential for uncertainty in 
+the law if any such extension is made is evident when considering 
+aot only the number, but also the inconsistent results, in First 
+Amendment cases that have been decided since Elrod in the 
+employment context. Such uncertainty can, and should, be 
+avoided by this Court affirming the ruling of both the District 
+Court and the Court of Appeals below which dismissed 
+Petitioners’ First Amendment challenge on the basis of their 
+status as independent contractors. 
+
+
+If this Court decides to extend independent contractors any 
+First Amendment protection at all, the applicable analysis is one 
+of reasonableness and deference as espoused by this Court both 
+prior and subsequent to the Elrod, Branti and Rutan line of cases. 
+Under such an analysis, Petitioners fail to state a claim. 
+Likewise, even under the Elrod, Branti and Rutan strict scrutiny 
+test or its exception, Petitioners fail to state a claim. 
+
+
+Finally, before this Court decides to extend the Elrod line of 
+cases to independent contractors who work for governmental 
+entities, the Court should evaluate and review the unworkable 
+framework and unpredictable results that have occurred in this 
+area of the law. In so doing, this Court has the opportunity to 
+overrule Rutan, if not Elrod and Branti as well and return the 
+subject of party-based employment to the hands of the voters and 
+their elected representatives to be decided at the state and local 
+level. 
+
+
+25 
+
+
+For all of the above reasons, the decision of the Seventh 
+Circuit Court of Appeals and the District Court for the Northern 
+District of Illinois both of which rejected Petitioners’ First 
+Amendment claims, should be affirmed. 
+
+
+Respectfully submitted, 
+
+
+GARY M. FEIEREISEL 
+Counsel of Record 
+FRANK P. KASBOHM 
+FRATERRIGO, BEST & 
+BERANEK | 
+
+Attorneys for Respondents 
+55 West Monroe Street 
+Suite 3400 
+
+Chicago, Illinois 60603 
+(312) 782-9255 
+
+

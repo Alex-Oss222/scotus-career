@@ -1,0 +1,27 @@
+{
+  "record": "terms\\OT1995\\records\\United_States_v_Winstar_Corp_merits_1996-07-01.md",
+  "reported_original_pre_qa_sha256": "0b7a7ded275d28d7a01707200be2c5d132386bd4d2343c22ed3a80bddf878b2f",
+  "reported_original_hash_reproduced": false,
+  "reconstructed_pre_qa_candidate_sha256": "e5b36fb4910b6aa1b2f48140766a4863be7502afec4372c5c7b7dd06a687fc05",
+  "restored_final_record_sha256": "46af5c68a50762a0b4e02f3754b1e4c904796da0c2d87097395bc32dd9e208d7",
+  "public_reading_copy": "terms\\OT1995\\entering-law\\PUBLIC_United_States_v_Winstar_Corp_merits_1996-07-01.md",
+  "public_copy_sha256": "852e961443096affefd9f897fba20468e9b868069fdeef61cbc7d71ee0aa21c9",
+  "public_body_sha256": "5cf547e3a41ec6ca447b5e85525ed06374531993070501e89fd916a6710d7021",
+  "public_body_byte_identity_verified": true,
+  "public_copy_unchanged": true,
+  "frozen_input_hashes_unchanged": {
+    "terms\\OT1995\\freeze\\OT_1995CHUNK10_WINSTAR_RECONCILED.md": "4e33eb7a36fa89143b1f7ca81223ada5032f22d8fe3e476aefa35f6ab1fd60b6",
+    "terms\\OT1995\\freeze\\OT_1995CHUNK10_WINSTAR_COMMITMENTS.md": "ec08c11da0585e22d61ad851d7e3fdff9af17f75a52b8f653be7bca4a60bd285",
+    "terms\\OT1995\\freeze\\OT_1995CHUNK10_WINSTAR_STONE_INPUT.md": "771c9f8fad89bfbd82ad539f1bea2c33f4ad826ad96c7b72abebf98c05700bea"
+  },
+  "preserved_sources": [
+    "tmp\\WINSTAR_ORIGINAL_INTERNAL_PREFIX.md",
+    "tmp/WINSTAR_ORIGINAL_PUBLIC.md",
+    "tmp\\WINSTAR_FULL_SOURCE_RECONSTRUCTION.md",
+    "tmp/WINSTAR_OVERWRITTEN_PROJECTION_ARTIFACT.md"
+  ],
+  "method": "Recovered internal prefix from the actual preserved assembly write-call source; independently recovered original public source matches intact public copy after reversal of exactly two previously reviewed QA changes. Combined recovered prefix with unchanged final public-copy body. Added truthful internal recovery note. Bounded whitespace and source comparisons did not reproduce original reported hash.",
+  "limit": "Not a byte-exact restoration claim. Internal source recovery reviewed by control; original reported hash remains unreproduced.",
+  "adjudication_changed": false,
+  "git_used": false
+}

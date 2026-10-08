@@ -1,0 +1,16 @@
+## OT1995-097 — O’Hare Truck Service, Inc. v. City of Northlake
+
+**Event:** 1996-06-28 | **Category:** MERITS | **Action:** Argued merits decision
+
+**Citation:** 518 U.S. 712
+
+**Docket(s):** No. 95-191
+
+### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
+
+- **Historical Outcome:** Reversed and remanded.
+- **Historical Opinion Topology:** Kennedy delivered an opinion of the historical Court. Consult the official report for part-specific joins and separate writings.
+- **Historical Holding / Rule:** The Elrod-Branti prohibition on political patronage extends to termination of an existing independent contractor relationship when political affiliation is not an appropriate requirement for the work.
+- **Historical Marks Status:** Only the actual historical component and joining pattern in the official report define its historical precedential scope; no historical component is entering simulated law.
+
+**Official source:** [518 U.S. 712](https://www.govinfo.gov/content/pkg/USREPORTS-518/pdf/USREPORTS-518-712.pdf); [local source PDF](https://www.govinfo.gov/content/pkg/USREPORTS-518/pdf/USREPORTS-518-712.pdf). Historical same-matter reasoning remains in this section only.

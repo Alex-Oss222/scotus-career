@@ -1,0 +1,28 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 100,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:&quot;94-1654&quot; OR text:&quot;94-1654&quot; OR text__reviews:&quot;94-1654&quot;) OR title:Umbehr)",
+      "qin": "collection:us-supreme-court AND (&quot;94-1654&quot; OR title:Umbehr)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 30,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 2,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40385013_0595",
+        "title": "Board of Comm'rs, Wabaunsee Cty. v. Umbehr, 518 U.S. 668 (1996) (No. 94-1654)"
+      },
+      {
+        "identifier": "micro_IA40386012_1766",
+        "title": "Umbehr v. Heiser, 515 U.S. 1161 (1995) (No. 94-1882)"
+      }
+    ]
+  }
+}

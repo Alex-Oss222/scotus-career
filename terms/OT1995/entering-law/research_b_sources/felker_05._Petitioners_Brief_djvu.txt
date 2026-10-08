@@ -1,0 +1,1707 @@
+No. 95-8836 | CLERK 
+
+
+In The 
+
+
+Supreme Court of the United States 
+October Term, 1995 
+
+
+° 
+
+
+ELLIS WAYNE FELKER, 
+
+
+Petitioner, 
+
+
+TONY TURPIN, Warden, 
+Respondent. 
+
+
+¢ 
+
+
+On Writ Of Certiorari To The 
+United States Court Of Appeals 
+For The Eleventh Circuit 
+
+
+@ 
+
+
+BRIEF FOR THE PETITIONER 
+
+
+e 
+Henry P. MONAGHAN *STeEPHEN C. Baytiss 
+435 W. 116th Street Mary EvizasetH Wets 
+New York, NY 10027 101 Marietta Tower 
+(212) 854-2644 33rd Floor 
+
+
+30303 
+Mark Evan Outivi Atlanta, GA 3030 
+
+
+Habeas Assistance (404) 614-2014 
+Project *Counsel of Record 
+P.O. Box 506 
+
+Richmond, VA 23218 
+
+(804) 643-6848 
+
+
+Counsel for Petitioner 
+
+
+COCKLE LAW BRIEF PRINTING CO, (800) 225-694 
+OR CALL COLLECT (402) 42-283) 
+
+
+i 
+
+
+QUESTIONS PRESENTED 
+
+
+(1) Whether Title I of the Anti-Terrorism and Effec- 
+tive Death Penalty Act of 1996 (the Act), and in particular 
+Section 106(b)(3)(E), 28 U.S.C. § 2244(b)(3)(E), is an 
+unconstitutional restriction of the jurisdiction of this 
+Court. 
+
+
+(2) Whether and to what extent the provisions of Title 
+1 of the Act apply to petitions for habeas corpus filed as 
+original matters in this Court pursuant to 28 U.S.C. 
+§ 2241. 
+
+
+(3) Whether application of the Act in this case is a 
+suspension of the writ of habeas corpus in violation of 
+Art. I, § 9, clause 2 of the Constitution. 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+TABLE OF AUTMORITIMS .......ccccocccecvcsnnecs iii 
+OPINION BBLOW « «soos cdekcecnuccioa 1 
+LIMIDDOCTIOIN .. ... ..ooos0vaecacsccdieenaiaeae 1 
+CONSTITUTIONAL PROVISIONS AND STATUTES 
+INVOLVED «0.5 oo ccc cccudacceecavsdanee 1 
+STATEMENT OF THE CASE..............--.-- BPN ay) 
+SUMMARY OF ARGUMENT.................--0e-. 7 
+ARGUMENT .......occecccececcsslsll eee 9 
+I. SECTION 2244(b)(3)(E) IS INAPPLICABLE TO 
+HABEAS CORPUS PETITIONS FILED IN THIS 
+COURT PURSUANT TO 28 U.S.C. § 2241..... 9 
+A. PLAIN MBANENG.......ssccc ee 10 
+B. PRECHDGNTS ....:.0.0iccsccee ee 12 
+ll. IF THE ACT WHOLLY ELIMINATES THIS 
+COURT’S APPELLATE JURISDICTION IT IS 
+WOMD ......cccccvsccucuens ce cneemeue 17 
+lll. THE SUSPENSION CLAUSE HAS NO INDE- 
+PENDENT BEAPING ON THE JURISDIC- 
+TIONAL ISSUE N )W BEFORE THE COURT .. 28 
+CONCLUGIOIN ...<oscsoccccccnecdsuuaiuane 31 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+Bowen v. Johnston, 306 U.S. 19 (1939)................ 13 
+Brecht v. Abrahamson, 507 U.S. 619 (1993)............ 25 
+Chambers v. NASCO, Inc., 501 U.S. 32 (1991)......... 12 
+Cohens v. Virginia, 19 U.S. (6 Wheat.) 264 (1821)..... 16 
+Cooper v. Oklahoma, 116 S. Ct. 1373 (1996)........... 25 
+Dalton v. Specter, 114 S. Ct. 1719 (1994) ............. 12 
+Dellmuth v. Muth, 491 U.S. 223 (1989) ............... 12 
+Dixon v. Thompson, 429 U.S. 1080 (1977)............. 17 
+Estate of Cowart v. Nicklos Drilling Co., 505 U.S. 469 
+eRe Cae cana eohasd ov ecesecccccoccees 11 
+Evans v. Muncy, 916 F.2d 163 (4th Cir.), cert. denied, 
+i ivndeeceesk ee encecescccscest 27 
+Ex parte Abernathy, 320 U.S. 219 (1943).............. 17 
+Ex parte Bollman, 8 U.S. (4 Cranch) 75 (1807)........ 13 
+
+
+Ex parte McCardle, 74 U.S. (7 Wall.) 506 (1869) 
+ee kk eee ceeetetese 10, 14, 15, 17 
+
+
+Ex parte Republic of Peru, 318 U.S. 578 (1943)......... 4 
+Ex parte Yerger, 75 U.S. (8 Wall.) 85 (1869)... 9, 10, 14, 15 
+Felker v. Turpin, No. 96-1077, _ F.3d __ (11th Cir. 
+
+
+BE My UD case cerenncsccscccessercuseccccsecsess | 
+Harris v. Nelson, 394 U.S. 286 (1969).............55.. 22 
+Herrera v. Collins, 506 U.S. 390 (1993) ............... 27 
+
+
+Johnson v. Avery, 393 U.S. 483 (1969) ........ eee ae 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+Johnson v. Robison, 415 U.S. 361 (1974)............... 16 
+Jones v. Cunningham, 371 U.S. 236 (1963) ............ 31 
+Kelly v. Robinson, 479 U.S. 36 (1986)................. 30 
+Lonchar v. Thomas, 116 S. Ct. 1293 (1996)......... 13, 15 
+Markman v. Westview Instruments, Inc., 116 S. Ct. 
+
+Se Cs 4 dab cteccecdevecacsusedeeassbusducets 20 
+Martin v. Hunter's Lessee, 14 U.S. (1 Wheat.) 304 
+
+Ds csdwedcnatweed ténnapistachscandssdeendaaat 12, 26 
+Matsushita Electric Industrial Co. v. Epstein, 116 S. 
+
+Sa See NEED 4 bv Sndes inetencsee thheeukonthad uetue 18 
+Medina v. California, 505 U.S. 437 (1992)............. 25 
+Missouri v. Holland, 252 U.S. 416 (1920).............. 20 
+Murray v. Carrier, 477 U.S. 478 (1986) ............ 24, 25 
+
+
+New York v. United States, 505 U.S. 144 (1992) ....21, 22 
+Principality of Monaco v. Mississippi, 292 U.S. 313 
+
+
+SE a 4 conn ddcadesnbaneceudedchmessvubunliesceune 21 
+Sanders v. Sullivan, 900 F.2d 601 (2nd Cir. 1990) ..... 27 
+Sawyer v. Whitley, 505 U.S. 333 (1992)........... passim 
+Schlup v. Bowersox, No. 4:92CV443 JCH, ___ 
+
+F. Supp. __. (E.D. Mo. May 2, 1996) ............. 25 
+Schlup v. Delo, 115 S. Ct. 851 (1995)...... 23, 24, 25, 28 
+Schlup v. Delo, 11 F.3d 738 (8th Cir. 1993)........... 24 
+
+
+Schlup v. Delo, 912 F. Supp. 448 (E.D. Mo. 1995)..... 25 
+
+
+Seminole Tribe of Florida v. Florida, 116 S. Ct. 1114 
+nbs deddn cksendbéuas reburenclel ee passim 
+
+
++ ee Ee OO em 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+Smith v. Bennett, 365 U.S. 708 (1961) ................ 13 
+Sullivan v. Stroop, 496 U.S. 478 (1990) ............... 11 
+United States v. Klein, 80 U.S. (13 Wall.) 128 (1871) .... 19 
+United States v. Lopez, 115 S. Ct. 1624 (1995)......... 21 
+United States v. Nixon, 418 U.S. 683 (1974)........... 22 
+Webster v. Doe, 486 U.S. 592 (1988)........... 13, 16, 23 
+
+
+Statutes & CONSTITUTIONAL PROVISIONS 
+Article 1, section 9, clause 2 of the Constitution... 1, 7, 28 
+
+
+Article Ill, section I of the Constitution .......... 20, 29 
+Article IIL, section 2, clause 2 of the Constitution 
+
+pb decocbedendedhesetecdeseedcntdbencetstectecs 1, 18, 20 
+Se GENS Ss onenecasadecsuserensécshevecedwn 2 
+ee SL, oc vikd upivad used scackéuadeuées 21 
+SS SEND v co cncdckcisceudvonstubaus 2, 19 
+ee Se EE Ge nave venincsdsscteukuctesvesleen 11 
+ee pea ae ME 5c o6 oobdnnunedesebeobebeusenésavune 19 
+Oy re a ed NAL re coos ae ey 1, 6 
+es SPC eoubs vdekcackdisgucesksvuchceas passim 
+gS PR ee passim 
+ee We Ot SED cba ceubes céucothncsecndddsdlacaree 1 
+BU GA TEs FIGs wiv ncccccccccscccccensesececnsias 17 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+OrHerR AUTHORITIES 
+
+
+Raoul Berger, Congress and The Supreme Court 285 
+SER hp oduccdavduce Vasbeedededncssas nensbasete 
+
+
+Robert N. Clinton, A Mandatory View of Federal 
+Court Jurisdiction: A Guided Quest for the Original 
+Understanding of Article III, 132 U. of Pa. L. Rev. 
+POE Gn has ccscccnncesindeeccavevécccensace 
+
+
+Henry M. Hart, Jr., The Power of Congress to Limit 
+the Jurisdiction of Federal Courts: An Exercise in 
+Dialectic, 66 Harv. L. Rev. 1362 (1953)......... 
+
+
+Hart & Wechsler, The Federal Courts and the Federal 
+System (Richard H. Fallon et al., eds., 4th ed. 
+SOG bad budedbbabuunadceedwhtdesbieeesues eens 
+
+
+Henry J. Merry, Scope of Supreme Court's Appellate 
+Jurisdiction: Historical Basis, 47 Minn. L. Rev. 53 
+
+
+SOU Vs ec nee cscocveéeucnnewasnduesccedaseeenes 
+
+
+Dallin H. Oaks, The “Original” Writ of Habeas 
+Corpus in the Supreme Court, 1962 Sup. Ct. R. 153 
+
+
+William W. Van Alstyne, A Critical Guide to Ex 
+parte McCardle, 15 Ariz. L. Rev. 228 (1973).... 
+
+
+H.R. Rep. No. 23, 104th Cong., Ist Sess. 9 (1995) .... 
+
+
+H.R. Conf. Rep. No. 518, 104th Cong., 2d Sess. III 
+SUE 66 Se vecdcccbeadeuvawns ineneeeacessee yess 
+
+
+Page 
+
+
+ee 
+
+
+OPINION BELOW 
+
+
+The opinion of the United States Court of Appeals for 
+the Eleventh Circuit is not yet reported. Felker v. Turpin, 
+No. 96-1077, __ F.3d __._ (11th Cir. May 2, 1996). 
+
+
+o 
+
+
+JURISDICTION 
+
+
+The opinion of the United States Court of Appeals for 
+the Eleventh Circuit denying Petitioner's motion for per- 
+mission to file a habeas corpus petition in the district 
+court was entered on May 2, 1996. This Court granted 
+review on May 3, 1996. This Court has jurisdiction to 
+entertain this matter under 28 U.S.C. §§ 2241, 2254(a) and 
+1651. 
+
+
+° 
+
+
+STATUTORY AND CONSTITUTIONAL 
+PROVISIONS INVOLVED 
+
+
+Article |, section 9, clause 2 of the Constitution provides 
+as follows: 
+
+
+“The Privilege of the Writ of Habeas Corpus 
+shall not be suspended, unless when in Cases of 
+Rebellion or Invasion the public Safety may 
+require it.” 
+
+
+Article Ill, section 2, clause 2 provides in relevant part: 
+
+
+“In all the other Cases before mentioned, the 
+supreme Court shall have appellate Jurisdiction, 
+both as to Law and Fact, with such Exceptions, 
+and under such Regulations as the Congress 
+shall make.” 
+
+
+The Eighth Amendment provides in relevant part: 
+
+
+“{Njor [shall] cruel and unusual punishments 
+[be] inflicted; 
+
+
+The Fourteenth Amendment provides in relevant part: 
+
+
+“{NJor shall any State deprive any person of life, 
+liberty, or property, without due process of 
+law....” 
+
+
+28 U.S.C. § 2241 provides in relevant part: 
+
+
+“(a) Writs of habeas corpus may be granted by 
+the Supreme Court, any justice thereof, the dis- 
+trict courts and any circuit judge within their 
+respective jurisdictions.” 
+
+
+“(b) The Supreme Court, any justice thereof, 
+and any circuit judge may decline to entertain 
+an application for a writ of habeas corpus and 
+may transfer the application for hearing and 
+determination to the district court having juris- 
+diction to entertain it.” 
+
+
+28 U.S.C. § 2244(b) provides in relevant part: 
+
+
+“(b)(1) A claim presented in a second or suc- 
+cessive habeas corpus application under section 
+2254 that was presented in a prior application 
+shall be dismissed. 
+
+
+“(2) A claim presented in a second or succes- 
+sive habeas corpus application under section 
+2254 that was not presented in a prior applica- 
+tion shall be dismissed unless - 
+
+
+“(A) the applicant shows that the claim 
+relies on a new rule of constitutional law, 
+made retroactive to cases on collateral 
+review by the Supreme Court, that was pre- 
+viously unavailable; or 
+
+
+“(B)(i) the factual predicate for the claim 
+could not have been discovered previously 
+through the exercise of due diligence; and 
+
+
+“(ii) the facts underlying the claim, if 
+proven and viewed in light of the evidence 
+as a whole, would be sufficient to establish 
+by clear and convincing evidence that, but 
+for constitutional error, no reasonable fact- 
+finder would have found the applicant 
+guilty of the underlying offense. 
+
+
+“(3)(A) Before a second or successive applica- 
+tion permitted by this section is filed in the 
+district court, the applicant shall move in the 
+appropriate court of appeals for an order 
+authorizing the district court to consider the 
+application. 
+
+
+“(B) A motion in the court of appeals for an 
+order authorizing the district court to consider a 
+second or successive application shall be deter- 
+mined by a three-judge panel of the court of 
+
+
+appeals. 
+
+
+“(C) The court of appeals may authorize the 
+filing of a second or successive application only 
+if it determines that the application makes a 
+prima facie showing that the application satis- 
+fies the requirements of this subsection. 
+
+
+“(D) The court of appeals shall grant or deny 
+the authorization to file a second or successive 
+application not later than 30 days after the filing 
+of the motion. 
+
+
+“(E) The grant or denial of an authorization by 
+a court of appeals to file a second or successive 
+application shall not be appealable and shall not 
+be the subject of a petition for rehearing or for a 
+writ of certiorari. 
+
+
+“(4) A district court shall dismiss any claim 
+presented in a second or successive application 
+that the court of appeals has authorized to be 
+filed unless the applicant shows that the claim 
+satisfies the requirements of this section.” 
+
+
+° 
+
+
+STATEMENT OF THE CASE 
+
+
+Section 106(b)(3)(E) of the Anti-Terrorism and Effec- 
+tive Death Penalty Act of 1996 [“the Act”], amends 28 
+U.S.C. § 2244(b).' Section 2244(b) deals with second or 
+successive federal habeas corpus applications filed by 
+persons held in custody pursuant to a judgment of a state 
+court. The new Act makes two changes from prior law: 
+
+
+First. The Act establishes new substantive require- 
+ments for second or successive applications. Section 
+
+
+' Prior to its amendment, section 2244 provided: 
+
+
+(b) When after an evidentiary hearing on the 
+merits of a material factual issue, or after a hearing on 
+the merits of an issue of law, a person in custody 
+pursuant to the judgment of a State court has been 
+denied by a court of the United States or a justice or 
+judge of the United States release from custody or 
+other remedy on an application for a writ of habeas 
+corpus, a subsequent application for a writ of habeas 
+corpus in behalf of such person need not be 
+entertained by a court of tie United States or a justice 
+or judge of the United States unless the application 
+alleges and is predicated on a factual or other ground 
+not adjudicated on the hearing of the earlier 
+application for the writ, and unless the court, justice, 
+or judge is satisfied that the applicant has not on the 
+earlier application deliberately withheld the newly 
+asserted ground or otherwise abused the writ. 
+
+
+2244(b)(1) provides that an application raising a claim 
+that had been presented in a prior petition “shall be 
+dismissed.” Section 2244(b)(2) provides that second or 
+successive habeas petitions raising new claims also must 
+be dismissed, unless the application satisfies certain pre- 
+scribed standards.? 
+
+
+Second. The Act establishes a procedure that must be 
+followed “[bJefore a second or successive application per- 
+mitted by this section is filed in the district court.” 28 
+U.S.C. § 2244(b)(3)(A). A prisoner who wishes to file such 
+a petition in the district court must first move the court of 
+appeals for “an order authorizing the district court to 
+consider” the petition. Id. That motion must be “deter- 
+mined by a three-judge panel of the court of appeals,” 
+which shall issue an order “only if it determines that the 
+
+
+2 Section 2244(b)(2) now provides: 
+
+
+“A claim presented in a second or successive 
+habeas corpus application under section 2254 that 
+was not presented in a prior application shall be 
+dismissed unless - 
+
+
+“(A)_ the applicant shows that the claim relies on 
+a new rule of constitutional law, made retroactive to 
+cases on collateral review by the Supreme Court, that 
+was previously unavailable; or 
+
+
+“(B)(i)_ the factual predicate for the claim could 
+not have been discovered previously through the 
+exercise of due diligence; and 
+
+
+“(ii) the facts underlying the claim, if proven 
+and viewed in light of the evidence as a whole, would 
+be sufficient to establish by clear and convincing 
+evidence that, but for constitutional error, no 
+reasonable factfinder would have found the applicant 
+guilty of the underlying offense.” 
+
+
+application makes a prima facie showing that the applica- 
+tion satisfies the requirements of [subsection (b)(2)].” Id. 
+§ 2244(b)(3)(B) and (C). 
+
+
+The final feature of the new procedure is the focus of 
+the present case. Under amended § 2244(b)(3)(E), the 
+court of appeals’ decision either to grant or to deny the 
+prisoner's motion “shall not be appealable and shall not 
+be the subject of a petition for rehearing or fer a writ of 
+certiorari” (emphasis supplied). 
+
+
+The petitioner, Ellis Wayne Felker, moved the court of 
+appeals for an order authorizing him to file a second or 
+successive petition in the district court.? The three-judge 
+panel assigned to the case denied that motion. Felker v. 
+Turpin, No. 96-1077 (11th Cir. May 2, 1996). Finding him- 
+self barred from filing a petition in the district court, Mr. 
+Felker sought this Court's appellate review of the panel's 
+decision. In doing so, he invoked the Court's jurisdiction 
+pursuant to 28 U.S.C. §§ 2241 and 1651. 
+
+
+On May 3, 1996, this Court ordered the parties to 
+submit briefs “limited to the following questions:” 
+
+
+(1) Whether Title I of the Anti-Terrorism 
+and Effective Death Penalty Act of 1996 (the 
+Act), and in particular Section 106(b)(3)(E), 28 
+U.S.C. § 2244(b)(3)(E), is an unconstitutional 
+restriction of the jurisdiction of this Court. 
+
+
+(2) Whether and to what extent the provi- 
+sions of Title I of the Act apply to petitions for 
+
+
+* This motion was filed on May 1, 1996, one week after the 
+President signed the new act into law on April 24, 1996. 
+
+
+7 
+
+
+habeas corpus filed as original matters in this 
+Court pursuant to 28 U.S.C. § 2241. 
+
+
+(3) Whether application of the Act in this 
+case is a suspension of the writ of habeas corpus 
+in violation of Art. L, § 9, clause 2 of the Consti- 
+tution. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+Question (2) is essentially one of statutory construc- 
+tion. We address it first for that reason and because the 
+manner of its resolution has important implications for 
+the constitutional issues raised.4 
+
+
+Point | argues that the Act does not remotely purport 
+to interfere with this Court’s original habeas jurisdiction. 
+Apart from its preclusion of certiorari, the Act is plainly 
+intended to regulate only matters relating to the disposi- 
+tion of habeas applications in the lower federal courts. To 
+read the Act as affecting this Court's jurisdiction by 
+implication would contravene not only the Act’s plain 
+meaning but also settled doctrines basic to the structure 
+of our government. This Court's indispensable role in 
+establishing uniformity concerning the content of federal 
+constitutional law has been long acknowledged. What is 
+
+
+* Questions (1) and (3) could be read expansively to reach 
+beyond the implications of § 2244(b)(3)(E) for this Court's 
+jurisdiction to examine the panel's judgment below. We 
+understand the Court to be primarily concerned with that 
+immediate issue. In this brief, prepared on an expedited 
+schedule, we therefore confine our attention to the 
+comparatively narrow (though extremely important) problems 
+that the jurisdictional issue presents. 
+
+
+more, the Court has had an equally historic role in using 
+“original” habeas as a method of ensuring that those 
+confined in custody are held only in accordance with 
+constitutionally valid rules and procedures. To leave the 
+judgments of the courts of appeals unreviewable would 
+compromise both functions, and it would be inconsistent 
+with the reasoning of landmark cases in this Court. 
+
+
+Point Il argues that the new statute presents no 
+appreciable constitutional difficulties if read to leave the 
+Court's habeas jurisdiction in place. (Questions as to the 
+scope of the Court’s exercise of that jurisdiction require 
+further consideration.) If, however, the Act is read to bar 
+all review by this Court of the decision below, it is uncon- 
+stitutional. The Constitution must be read to make sense 
+in all its parts and the grant to Congress of a power to 
+shape exceptions to the appellate jurisdiction of the 
+Supreme Court is not a license to destroy this Court's 
+essential function in the constitutional plan. Whatever the 
+ultimate scope of congressional power to regulate this 
+Court's appellate jurisdiction, we submit that when an 
+individual suffers a severe deprivation of liberty and 
+asserts a claim that he is being confined pursuant to 
+rulings and practices that violate the Constitution of the 
+United States, such a claim cannot be wholly withdrawn 
+from the cognizance of this \ «art. 
+
+
+Point Ill argues that the Habeas Corpus Suspension 
+Clause supplies no independent basis for invalidating the 
+application of the statute in this case, in view of the 
+disposition by the court below. To argue that it does would 
+require us to contend that Congress cannot provide for the 
+initial consideration of successive petitions by three infe- 
+rior federal judges rather than one. We make no such 
+
+
+contention. But the Suspension Clause adds weight to our 
+construction of Article III. It strongly reinforces the special 
+nature of the jurisdictional issues raised if there is an effort 
+to cut off this Court’s review of the legal claims of persons 
+held in unconstitutional confinement. 
+
+
+The Court’s jurisdiction to entertain Mr. Felker’s 
+prayer for a writ of habeas corpus under § 2241 of the 
+Judicial Code is plain. The Court should accordingly per- 
+mit him to show by further briefing that he is entitled to 
+the exercise of that jurisdiction and to relief on the merits 
+of his constitutional claims. 
+
+
+S 
+
+
+ARGUMENT 
+
+
+I. SECTION 2244(b)(3)(E) IS INAPPLICABLE TO 
+HABEAS CORPUS PETITIONS FILED IN THIS 
+COURT PURSUANT TO 28 U.S.C. § 2241. 
+
+
+Since the foundation of the Republic, this Court has 
+possessed authority to issue “original” writs of habeas 
+corpus. Judiciary Act of 1789, § 14, ch. XX, 1 Stat. 81-82. 
+Like the Court’s authority to issue writs of mandamus 
+and prohibition, e.g., Ex parte Republic of Peru, 318 U.S. 578 
+(1943), the writ is a method of appellate review, as 
+numerous decisions of this Court recognize. See, e.g., Ex 
+parte Yerger, 75 U.S. (8 Wall.) 85, 102-03 (1869). See also 
+Dallin H. Oaks, The “Original” Writ of Habeas Corpus in the 
+Supreme Court, 1962 Sup. Ct. Rev. 153.° 
+
+
+5 Cf. Ex parte Republic of Peru, 318 U.S. at 585-86 n.4 (the 
+Judiciary Act of 1925 left in place this Court’s jurisdiction to 
+issue extraordinary writs). 
+
+
+10 
+
+
+The Court's longstanding authority to issue “origi- 
+nal” writs of habeas corpus is currently codified in 28 
+U.S.C. § 2241(a). The 1996 Act does not purport to affect 
+that jurisdiction. Except for its bar to petitions for cer- 
+tiorari, the Act is plainly confined to regulating the dispo- 
+sition of successive habeas petitions in the lower federal 
+courts. To read this statute as affecting by implication the 
+Court’s traditional § 2241 jurisdiction would be pro- 
+foundly at variance with deeply embedded principles of 
+statutory construction, and it would require rejecting the 
+reasoning of this Court’s landmark decisions in Ex parte 
+McCardle, 74 U.S. (7 Wall.) 506 (1869), and Ex parte Yerger, 
+75 U.S. (8 Wall.) 85 (1869). 
+
+
+A. Plain Meaning. 
+
+
+Prior to the 1996 enactment, second and successive 
+petitions were filed initially in the district court. By its 
+terms, the statute now requires that a prisoner move the 
+court of appeals for authorization to file such a petition 
+“in the district court.” 28 U.S.C. § 2244(b)(3)(A). Subsec- 
+tion (b)(3)(B) requires a three-judge panel to rule on an 
+application “authorizing the district court” to consider a 
+second or successive application. And subsection (b)(4) 
+directs that “[a] district court” shall dismiss petitions 
+“unless the applicant shows that the claim satisfies the 
+requirements of this section.” 
+
+
+11 
+
+
+Except for its limitation on “writ|s] of certiorari,” the 
+Act makes no mention of this Court's jurisdiction.* With 
+that sole exception, the text of the Act is expressly con- 
+fined to adjusting the relationship between the courts of 
+appeals and the district courts in cases of second and 
+successive habeas petitions.” 
+
+
+Thus, by its plain meaning the Act affects the lower 
+courts’ jurisdiction but only the certiorari jurisdiction of 
+this Court. And this straightforward reading of the statu- 
+tory language makes good sense. The new Act achieves 
+change without sweeping all of our traditions into the 
+fire. On the one hand, it expedites the habeas process and 
+addresses the important state interest in the finality of 
+judgments.* A circuit panel screens petitions at the gate 
+to forestall mistakes that district courts might otherwise 
+make. The panel's decision on this threshold issue is 
+
+
+* This Court ordinarily has statutory certiorari jurisdiction 
+to review any and all cases in the circuit courts. 28 U.S.C. 
+§ 1254(1). Fairly read, the reference to “certiorari” in section 
+2244(b)(3)(E) means statutory certiorari under § 1254(1) and 
+thus only purports to withdraw the appellate jurisdiction over 
+certiorari petitions that § 1254(1) otherwise would confer. 
+
+
+7? More than any other consideration, plain meaning 
+controls statutory construction. See, e.g., Estate of Cowart v. 
+Nicklos Drilling Co., 505 U.S. 469, 474-75 (1992); Sullivan ov. 
+Stroop, 496 U.S. 478, 482 (1990). 
+
+
+* See, e.g., H.R. Rep. No. 23, 104th Cong., Ist Sess. 9 (1995) 
+(stating that the original bill reported by the House Judiciary 
+Committee was “designed .. . particularly to address the 
+problem of delay and repetitive litigation in capital cases”); H.R. 
+Conf. Rep. No. 518, 104th Cong., 2d Sess. III (1996) (bill 
+“address[es] the acute problems of unnecessary delay and 
+abuse in capital cases”). 
+
+
+12 
+
+
+typically final: neither the prisoner nor the warden has 
+recourse in the district court, in the full court of appeals 
+sitting en banc, or in this Court on ordinary certiorari 
+review. The statute simultaneously creates a strict screen- 
+ing mechanism and minimizes the litigation required to 
+implement it. On the other hand, the Court's immemorial 
+power to review plainly wrong refusals of habeas corpus 
+relief on the basis of improper legal standards applied by 
+lower federal courts remains undisturbed. 
+
+
+B. Precedents. 
+
+
+This is, however, more than just a plain meaning 
+case. At stake is the appellate jurisdiction of this tribunal, 
+the central judicial organ in our constitutional order. The 
+Court has a long tradition against construing legislation 
+so as to impair the traditional roles of any of the organs 
+of government in our federal system.’ That tradition is 
+surely applicable here. In Martin v. Hunter's Lessee, 14 US. 
+(1 Wheat.) 304 (1816), this Court upheld its constitutional 
+authority to review state court judgments rejecting claims 
+
+
+* Statutes will not be deemed to have affected the sovereign 
+immunity of the States unless the congressional intention to do 
+so is unmistakable. See, ¢.g., Seminole Tribe of Florida v. Florida, 
+116 S. Ct. 1114, 1123 (1996); Dellmuth v. Muth, 491 U.S. 223, 230 
+(1989). Similarly, the Court has refused to find that the President 
+could be subject to suit as an “agency” under the general 
+provisions of the Administrative Procedure Act. See, e.g., Dalton 
+v. Specter, 114 S. Ct. 1719, 1724-25 (1994). Moreover, the Court 
+has been reluctant to assume that general congressional 
+legislation was meant to regulate the inherent powers of the 
+lower federal courts. See, e.g., Chambers v. NASCO, Inc., 501 US. 
+32, 47 (1991). 
+
+
+13 
+
+
+of federal right. The Court emphasized the need for its 
+appellate jurisdiction based upon “the importance, and 
+even the necessity of uniformity of decisions throughout 
+the whole United States, upon all subjects within the 
+purview of the constitution.” Id. at 347-48 (emphasis 
+omitted). For this reason among others, the Court has 
+consistently interpreted statutes that would preclude 
+judicial review of executive and administrative action as 
+not applying to claims of unconstitutional conduct. Webs- 
+ter v. Doe, 486 U.S. 592, 603 (1988) (“[W]here Congress 
+intends to preclude judicial review of constitutional 
+claims its intent to do so must be clear.”) 
+
+This institutional imperative is intensified here by 
+another consideration: the historic importance of habeas 
+corpus. The writ is “aptly described as the ‘highest safe- 
+guard of liberty.” ” Lonchar v. Thomas, 116 S. Ct. 1293, 1298 
+(1996) (quoting Smith v. Bennett, 365 U.S. 708, 712 (1961)). 
+Through habeas, this Court has for more than a century 
+played an important role in protecting against uncon- 
+stitutional deprivations of life and liberty. Any argument 
+that the Act strips the Court entirely of its authority to 
+examine in any way the claim of persons that they are 
+being held in custody under rules, rulings, or practices 
+that violate our fundamental law calls for the rejection of 
+the Court's historic traditions. “ ‘[T]here is no higher 
+duty than to maintain [the writ of habeas corpus] unim- 
+paired.’ ” Johnson v. Avery, 393 U.S. 483, 485 (1969) (quot- 
+ing Bowen v. Johnston, 306 U.S. 19, 26 (1939)). That is a 
+long entrenched view. See Ex parte Bollman, 8 US. (4 
+Cranch) 75, 95 (1807). 
+
+
+No serious argument can be made that by negative 
+implication § 2244(b)(3)(E) abrogates this Court's original 
+
+
+14 
+
+
+habeas jurisdiction, if this Court’s landmark precedents 
+are to be followed. The Court rejected any argument 
+along those lines more than a century ago in both Ex parte 
+McCardle, 74 U.S. (7 Wall.) 506 (1869), and Ex parte Yerger, 
+75 US. (8 Wall.) 85 (1869). 
+
+
+In McCardle, the Court deferred to Congress’ explicit 
+repeal of the statute authorizing the habeas petitioner's 
+appeal. Near the end of its opinion, however, the Court 
+made clear that it could exercise jurisdiction in a future 
+case on an alternative basis, not invoked in the case 
+before the Court — namely, the predecessor to § 2241: 
+
+
+Counsel seem to have supposed, if effect be 
+given to the repealing act in question, that the 
+whole appellate power of the court, in cases of 
+habeas corpus, is denied. But this is an error. The 
+act of 1868 does not except from that jurisdiction 
+any cases but appeals from Circuit Courts under 
+the act of 1867. It does not affect the jurisdiction 
+which was previously exercised. 
+
+
+MeCardle, 74 U.S. at 515. 
+
+
+A year later, the Court squarely rested its decision in 
+Yerger on the proposition it had stated in McCardle. The 
+Court spoke in strong terms, stressing both the need for 
+uniformity and the need to protect against unconstitu- 
+tional deprivation of liberty: 
+
+
+It is proper to add, that we are not aware of 
+anything in any act of Congress, except the Act 
+of 1868, which indicates any intention to with- 
+hold appellate jurisdiction in habeas corpus cases 
+from this court, or to abridge the jurisdiction 
+derived from the Constitution and defined by 
+the act of 1789. We agree that it is given subject 
+
+
+15 
+
+
+to exception and regulation by Congress; but it 
+is too plain for argument that the denial to this 
+court of appellate jurisdiction in this class of 
+cases must greatly weaken the efficacy of the 
+writ, deprive the citizen in many cases of its 
+benefits, and seriously hinder the establishment 
+of that uniformity in deciding upon questions of 
+personal rights which can only be attained 
+through appellate jurisdiction, exercised upon 
+the decisions of courts of original jurisdic- 
+ae 
+
+
+These considerations forbid any construc- 
+tion giving to doubtful words the effect of with- 
+holding or abridging this jurisdiction. They 
+would strongly persuade against the denial of 
+the jurisdiction even were the reasons for 
+affirming it less cogent than they are. 
+
+
+Yerger, 75 U.S. at 102-03. 
+
+
+We recognize that McCardle and Yerger were first 
+petition cases. See Lonchar v. Thomas, 116 S. Ct. at 1299. 
+But they are apposite here on the point of statutory 
+construction. As Lonchar noted: 
+
+
+Dismissal of a first federal habeas petition is a 
+particularly serious matter, for that dismissal 
+denies the petitioner the protections of the Great 
+Writ entirely, risking injury to an important 
+interest in human liberty. See Ex Parte Yerger, 8 
+Wall. 85, 95 (1869) (the writ “has been for centu- 
+ries esteemed the best and only sufficient 
+defence of personal freedom”); Withrow [v. Wil- 
+liams, 507 U.S. 680, 700] (O’Connor, J., concur- 
+ring in part and dissenting in part) (decisions 
+involving limitation of habeas relief “warrant 
+restraint”). Even in the context of “second and 
+successive” petitions —- which pose a greater 
+
+
+16 
+
+
+threat to the State’s interests in “finality” and 
+are less likely to lead to the discovery of uncon- 
+stitutional punishments - this Court has created 
+careful rules for dismissal of petitions for abuse 
+of the writ. 
+
+
+Id. 
+
+
+No basis exists for concluding that the Act, plainly 
+read, affects this Court's historic authority to issue “origi- 
+nal” writs of habeas corpus. As long ago as 1821, in Chief 
+Justice Marshall's opinion in Cohens v. Virginia, 19 U.S. (6 
+Wheat.) 264 (1821), the Court required a clear statement 
+before concluding that Congress intended to affect the 
+Court's appellate jurisdiction. Id. at 379-80. Respect for 
+that principle of construction is especially salutary here, in 
+order to avoid the troublesome constitutional questions 
+addressed in Part Il below. See, ¢e.¢., Webster v. Doe, 486 US. 
+at 603; Johnson v. Robison, 415 U.S. 361, 366-67 (1974) (stat- 
+utes should be interpreted so as to avoid constitutionally 
+troublesome limitations on the jurisdiction of the federal 
+courts). As the Court recently reaffirmed, the “doctrine 
+requiring avoidance of constitutional questions . . 
+require[s] us always to apply the clear statement rule 
+before we consider the constitutional question whether 
+Congress has the power to . . . [act].” Seminole Tribe of 
+Florida v. Florida, 116 S. Ct. 1114, 1131 n.15 (1996).'° 
+
+
+' Not only did Congress fail to state that the statute 
+abrogated this Court's jurisdiction. Congress failed even to 
+confront the possibility that the statute might be read in that 
+unlikely way. Nothing in the legislative history of the 1996 Act 
+indicates that the proponents either were aware of the problem 
+this might entail or, if they were aware of it, that they informed 
+their colleagues in the House and the Senate. 
+
+
+17 
+
+
+Il. If The Act Wholly Eliminates This Court’s Appel- 
+late Jurisdiction It Is Void. 
+
+
+No unconstitutional interference with this Court's 
+appellate jurisdiction exists if Congress merely eliminates 
+one procedure for review but leaves in place an equally 
+efficacious alternative. See, e.g., McCardle, 74 U.S. at 515. 
+So long as the Court's “original” jurisdiction to issue 
+habeas remains in place, the elimination of certiorari 
+jurisdiction presents no appreciable constitutional diffi- 
+culties. 
+
+
+We say this, however, on the premise that the Court 
+will subsequently examine the standards that should gov- 
+ern its review under § 2241 of court of appeals decisions 
+in second and successive petition cases. The Court's pre- 
+existing practice, described in Sup. Ct. R. 20 4(a), has 
+treated the entire subject of original habeas as exceptional 
+and discretionary. Ex parte Abernathy, 320 U.S. 219, 220 
+(1943). Because the Court has premised that practice on 
+the availability of other modes of review by and of the 
+lower federal courts, it may not be apposite in the current 
+context. See, e.g., Dixon v. Thompson, 429 U.S. 1080, 
+1080-81 (1977).'' But the question the Court has posed for 
+expedited briefing here concerns only “jurisdiction,” not 
+the standards for the exercise of acknowledged jurisdic- 
+tion. See Seminole Tribe of Florida, 116 S. Ct. at 1130 (distin- 
+guishing between “substantive rules of law” and 
+“jurisdiction”). Given the expressly “limited” nature of 
+
+the questions posited, we do not address this question 
+
+
+'! The Court has authority to transfer original petitions to 
+an appropriate lower federal court. 28 U.S.C. § 2241(b). 
+
+
+18 
+
+
+further. See id. at 1126 n.10; Matsushita Electric Industrial 
+Co. v. Epstein, 116 S. Ct. 873, 880 n.5 (1996) (refusing to 
+permit even respondents to expand the scope of the writ 
+of certiorari). 
+
+
+If, however, one assumes that the 1996 Act eliminates 
+both the habeas and certiorari jurisdictions of this Court 
+in successive petition cases, then the question of congres- 
+sional power to regulate the Court's appellate jurisdiction 
+is directly drawn into question. 
+
+
+Relevant sources and materials are collected in Hart 
+and Wechsler’s The Federal Courts and the Federal System 
+365-70 (Richard H. Fallon et al. eds., 4th ed. 1996) (“Hart 
+& Wechsler”). The available historical materials provide 
+no real help. The exceptions clause'? was added by the 
+Committee of Detail but not discussed in the constitu- 
+tional convention.'? See Raoul Berger, Congress and The 
+Supreme Court 285-96 (1969). One commentator has 
+argued that the clause was designed to deal exclusively 
+with appellate review of jury fact finding.'* Another 
+
+
+12 See U.S. Const. art. III, § 2, cl. 2, (“the Supreme Court 
+shall have appellate Jurisdiction, both as to Law and Fact, with 
+such Exceptions, and under such Regulations as the Congress shall 
+make” (emphasis added)). 
+
+
+13 “The important provision that the appellate jurisdiction 
+should be subject to exceptions and regulations by Congress 
+was contained in none of the plans. It is foreshadowed in 
+Randolph’s draft for the Committee of Detail and then appears 
+in a later draft in Wilson’s handwriting in substantially the form 
+in which the committee reported it. There was no discussion in 
+the Convention.” Hart & Wechsler, supra at 180. 
+
+
+‘4 Henry J. Merry, Scope of Supreme Court's Appellate 
+Jurisdiction: Historical Basis, 47 Minn. L. Rev. 53, 58-69 (1962). 
+
+
+19 
+
+
+insists that, closely analyzed, the drafting process dis- 
+closes that the provision simply authorized congressional 
+procedural rules for this Court's jurisdiction.'5 From the 
+very beginning, however, legislation concerning the 
+Court's appellate jurisdiction has never reflected such a 
+limited conception of congressional authority.'© Nor have 
+this Court’s cases. 
+
+
+In addition to constraints on Congress’ power that 
+are internal to Article IIL, it is quite apparent that provi- 
+sions external to that Article, such as the Bill of Rights 
+and the Fourteenth Amendment, preclude any concept of 
+unlimited congressional power to regulate jurisdiction. 
+Congress could not amend 28 U.S.C. § 1257, for example, 
+to preclude petitions by persons of a certain nationality 
+or race. William W. Van Alstyne, A Critical Guide to Ex 
+parte McCardle, 15 Ariz. L. Rev. 228, 263 (1973). That 
+having been said, however, the outer boundaries of con- 
+gressional regulatory authority present complex and 
+troublesome issues. See United States v. Klein, 89 U.S. (13 
+Wall.) 128, 144-47 (1871) (invalidating jurisdictional lim- 
+itation on this Court’s appellate authority). 
+
+
+Especially in situations such as this in which history 
+cannot supply the entire answer, the Constitution must be 
+
+
+| pst Robert N. Clinton, A Mandatory View of Federal Court 
+Jurisdiction: A Guided Quest for the Original Understanding of 
+Article Ill, 132 U. Pa. L. Rev. 741, 779-86, 794-95 (1984). 
+
+
+'© For a long period the Supreme Court did not have the 
+full range of its potential appellate jurisdiction. State court 
+decisions sustaining federal claims could not be reviewed until 
+1914 and appeals were not allowed in federal criminal cases. But 
+the latter defect was only a matter of form, because the 
+“original” writ of habeas corpus was used for that purpose. 
+
+
+20 
+
+
+read as a whole, so as to make sense of all its parts. And 
+the “case .. . must be considered in light of our whole 
+experience and not merely in that of what was said a 
+hundred years ago.” Missouri v. Holland, 252 U.S. 416, 433 
+(1920).'7 
+
+
+This Court's cases have viewed the Constitution as 
+essentially neutral about the existence of the “inferior” 
+federal courts. But that is decidedly not the case with 
+respect to this Court. The Constitution itself mandates the 
+existence of “one supreme Court,” U.S. Const. art. III, § 1, 
+and provides for its jurisdiction, id. § 2, cl. 2. At the least, 
+this means that the exceptions clause cannot be read so as 
+to impair this Court’s “essential role .. . in the constitu- 
+tional plan.”'* Such a conception of the Court’s authority 
+
+
+'7 This Court recently acknowledged the limitations of 
+historical analysis. In Markman v. Westview Instruments, Inc., 116 
+S. Ct. 1384, 1389-93 (1996), a unanimous Court found the 
+historical evidence of the role of a jury in a patent cases 
+inconclusive, and then proceeded to examine other sources 
+including historical development. That approach applies 
+equally here. 
+
+
+'® Henry M. Hart, Jr., The Power of Congress to Limit the 
+Jurisdiction of Federal Courts: An Exercise in Dialectic, 66 Harv. L. 
+Rev. 1362, 1365 (1953). Responding to the claim that “the 
+appellate jurisdiction of the Supreme Court is entirely within 
+congressional control,” Hart wrote: 
+
+
+You read the McCardle case for all it might be worth 
+rather than the least it has to be worth, don’t you? 
+
+
+It’s not impossible for me to lay down a measure. The 
+measure is simply that the exceptions must not be such as 
+will destroy the essential role of the Supreme Court in the 
+constitutional plan. McCardle, you will remember, 
+meets that test. The circuit courts of the United States 
+
+
+21 
+
+
+must be taken as “inherent in the constitutional plan.” 
+Principality of Monaco v. Mississippi, 292 U.S. 313, 328-29 
+(1934). See Seminole Tribe of Florida, 116 S. Ct. at 1128 
+(“ ‘Behind the words of the constitutional provisions are 
+postulates which limit and control.’ ” (quoting Principality 
+of Monaco, 292 U.S. at 323)). 
+
+
+This standard assuredly contains a certain amount of 
+indeterminacy, but as this Court’s decision in United 
+States v. Lopez, 115 S. Ct. 1624 (1995), makes plain, that 
+quality is by no means an insuperable objection when 
+what is at stake is the relationship of the central organs of 
+our federal system. See id. at 1634. (“These are not precise 
+formulations, and in the nature of things they cannot 
+be.”) The standard is, however, neither novel nor unique. 
+It was, for example, the foundation of the Court's anal- 
+ysis in Principality of Monaco, explaining why state sover- 
+eign immunity was no bar to a suit by the United States, 
+and in Seminole Tribe of Florida, explaining why the Elev- 
+enth Amendment did not exhaust the content of state 
+sovereign immunity. Likewise when the Court concluded 
+that Congress lacked the authority to commandeer state 
+regulatory and legislative processes, New York v. United 
+States, 505 U.S. 144, 176 (1992), it did so on the avowed 
+
+
+were still open in habeas corpus, and the Supreme 
+Court itself could still entertain petitions for the writ 
+which were filed with it in the first instance. 
+
+
+id. at 1364-65 (emphasis supplied). Professor Hart's treatment of 
+this issue is, of course, the classic one. Although others have 
+proposed broader limitations on Congress’ power, Hart's rule 
+comes from the Court's cases, see, e.g., Principality of Monaco v. 
+Mississippi, 292 U.S. 313, 328-29 (1934) (discussed infra), and is 
+no broader than necessary to resolve this case. 
+
+
+22 
+
+
+premise that any such congressional action would com- 
+promise the essential role of the states in the constitu- 
+tional order. Id. at 167-69. The Court has been guided by a 
+similar standard in ensuring that there be no interference 
+with the essential role of the President. See, e¢.g., United 
+States v. Nixon, 418 U.S. 683 (1974). 
+
+
+The indeterminacy concern is considerably avoided, 
+moreover, because of the two historically critical features 
+of the Court’s constitutional function that are described 
+in Point One: the crucial role of the “supreme Court” in 
+the exposition of the meaning of the Constitution, and the 
+Court’s long entrenched function of determining whether 
+constitutionally valid norms have been applied to per- 
+sons deprived of their liberty. 
+
+
+If the Act were read to bar all review by this Court, it 
+would offend both those principles. The Act would, in 
+effect, establish not “inferior” federal courts but rather a 
+multitude of three-circuit-judge “supreme Courts” in 
+cases of successive petitions. This would impair the 
+Court's authority to ensure uniformity in the construction 
+of constitutional law. What is more, it would do so in a 
+particularly sensitive area, one traditionally reached by 
+the writ of habeas corpus, concerning persons who are in 
+custody and who assert a claim that their confinement is 
+the result of constitutionally invalid rulings or pro- 
+cedures.'? We submit that when those two circumstances 
+
+
+1% See, e.g., Harris v. Nelson, 394 U.S. 286, 290-92 (1969) 
+(citation omitted): 
+The writ of habeas corpus is the fundamental 
+
+
+instrument for safeguarding individual freedom 
+against arbitrary and lawless state action. Its pre- 
+
+
+23 
+
+
+coexist, Congress cannot eliminate the appellate jurisdic- 
+tion of this Court. We need not go further and argue that 
+if the complaint is that a government benefit has been 
+unconstitutionally denied, this Court's appellate jurisdic- 
+tion cannot be restricted. See Webster v. Doe, 486 U.S. 592, 
+603 (1988). But with respect to deprivations of liberty, we 
+insist otherwise, and that claim extends to second peti- 
+tions.2° 
+
+
+Two successive petition cases recently reviewed by 
+this Court, Schlup v. Delo, 115 S. Ct. 851 (1995), and Sawyer 
+v. Whitley, 505 U.S. 333 (1992), show that such cases fall 
+within this principle. They demonstrate the importance of 
+the Court's role as the supreme expositor of the meaning 
+
+
+eminent role is recognized by the admonition in the 
+Constitution that: ‘The Privilege of the Writ of Habeas 
+Corpus shall not be suspended... . ‘ The scope and 
+flexibility of the writ - its capacity to reach all manner 
+of illegal detention — its ability to cut through barriers 
+of form and procedural mazes - have always been 
+emphasized and jealously guarded by the courts and 
+lawmakers... . 
+
+
+There is no higher duty of a court, under our 
+constitutional system, than the careful processing and 
+adjudication of petitions for writs of habeas corpus, 
+for it is in such proceedings that a person in custody 
+charges that error, negiect or evil purpose has 
+resulted in his unlawful confinement and that he is 
+deprived of his freedom contrary to law. 
+
+
+20 This is, however, not to deny that abuses of the writ can 
+be regulated. 
+
+
+24 
+
+
+of the Constitution and its especial importance in deter- 
+mining whether valid norms have been applied in adjudi- 
+cating the constitutional claims of individuals deprived of 
+liberty. 
+
+
+Suppose that Schlup’s case had arisen after the 1996 
+statute, so that, instead of affirming the dismissal of his 
+second petition, a panel of the Court of Appeals of the 
+Eighth Circuit had denied him leave to file it. If this 
+Court lacked any jurisdiction to review that denial, Lloyd 
+Schlup would be dead today, even though he had suffi- 
+ciently pleaded then — and has successfully proven since 
+~ that he was “actually innocent” of the capital murder he 
+was convicted of committing. He would be dead because 
+the Court could not review the erroneous legal deter- 
+minations of the court below. 
+
+
+Schlup had informed the Court of Appeals that the 
+constitutional violation his successive petition challenged 
+“ ‘probably resulted in the conviction of one who is actu- 
+ally innocent’ ” because “it [was] more likely than not 
+that no reasonable juror would have convicted him in 
+light of the... evidence” that the violation kept from the 
+jury. Schlup, 115 S. Ct. at 867 (quoting Murray v. Carrier, 
+477 U.S. 478, 496 (1986)). Without disagreeing, the Eighth 
+Circuit nonetheless dismissed the petition, concluding 
+that the stiffer, “clear and convincing” standard of “actual 
+innocence” in Sawyer v. Whitley, 505 U.S. 333 (1992), 
+applied and that Schlup had not met it. Schlup v. Delo, 11 
+F.3d 738, 740-41 (8th Cir. 1993). This Court reversed, 
+reaching three conclusions: (1) Because Schlup demon- 
+strated his actual innocence, he had a right to file a 
+second petition. Schlup, 115 S. Ct. at 869. (2) The court of 
+appeals had misread the Court's decisions in Carrier and 
+
+
+25 
+
+
+Sawyer when it had applied the rule of the latter and not 
+the former case. Id. at 865-67. (3) The court of appeals 
+additionally had “erroneous|ly] applifed]” the Sawyer 
+standard in a way that significantly undermined both the 
+Carrier and the Sawyer standards. Id. at 867, 869. After 
+extensive hearings on remand, the district court agreed 
+that “ ‘it is more likely than not that no reasonable juror 
+would have convicted [Schlup] in light of the [extensive 
+eyewitness] evidence’ ” of his innocence that his constitu- 
+tionally ineffective lawyer had failed to discover. Schlup v. 
+Delo, 912 F. Supp. 448, 455 (E.D. Mo. 1995); see Schlup v. 
+Bowersox, No. 4:92CV443 JCH, ___ F. Supp. ___, (E.D. Mo. 
+May 2, 1996). 
+
+
+Recently, the Court held that forcing to trial a defen- 
+dant who “is more likely than not incompetent” “offends 
+a principle of justice . . . [so] deeply ‘rooted in the 
+traditions and conscience of our people’ ” that it violates 
+Due Process. Cooper v. Oklahoma, 116 S. Ct. 1373, 1377, 
+1380 (1996) (quoting Medina v. California, 505 U.S. 437, 445 
+(1992)). Surely, if our most deeply rooted legal principles 
+are offended by the mere “risk of an erroneous deter- 
+mination” of guilt that attends the trial of a man who 
+“probably” cannot help competent counsel defend him, 
+id. at 1381, they also are offended when it is “more 
+probable than not” that an unconstitutionally incompe- 
+tent lawyer has engineered the conviction and condemna- 
+tion of a man who is “actually innocent.” See, e.g., Schlup, 
+115 S. Ct. at 866 (“The quintessential miscarriage of jus- 
+tice is the execution of a person who is entirely inno- 
+cent."); Brecht v. Abrahamson, 507 U.S. 619, 652 (1993) 
+(O'Connor, J., dissenting) (“If there is a unifying theme to 
+this Court’s habeas jurisprudence, it is that the ultimate 
+
+
+26 
+
+
+equity on the prisoner's side — the possibility that an 
+error may have caused the conviction of an actually inno- 
+cent person — is sufficient by itself to permit plenary 
+review of the prisoner's federal claim.” (citing cases)). 
+And just as surely, were Congress irrevocably to keep the 
+Court from articulating principles of justice so deeply 
+rooted as the precept that constitutional error should not 
+result in sending innocent men to their deaths, the 
+Court's “essential role” would be “destroyled].” Hart, 
+supra note 18, at 1365. 
+
+
+Sawyer illustrates a different, but no less significant, 
+way in which keeping the Court from considering denials 
+of successive petitions would impair its constitutionally 
+essential role. Before the grant of certiorari in Sawyer, the 
+various courts of appeals had read this Court's prece- 
+dents to compel widely divergent formulations for adap- 
+ting the “actual innocence” test to capital-sentencing 
+claims. See Sawyer, 505 U.S. at 343-44 & nn.10-11. The 
+disparity in circuit court standards prompted this Court's 
+grant of certiorari, and the difficult choice among those 
+standards took up the bulk of its opinion. Id. at 343-47. 
+Had Sawyer instead sought review after a court of 
+appeals denied permission to file a successive petition, 
+and had this Court’s door been barred, the potentially 
+permanent result would have been that condemned 
+inmates were being denied leave to file habeas petitions 
+in Mississippi, Louisiana and Texas that condemned 
+inmates in Indiana, Arkansas, and Arizona were being 
+granted leave to file. Cf. Martin v. Hunter's Lessee, 14 U.S. 
+(1 Wheat.) 304, 348 (1816) (“If there were no revising 
+authority [in the Supreme Court] to control . . . jarring 
+and discordant [lower court] judgments, and harmonize 
+
+
+27 
+
+
+them into uniformity, the laws, the treaties, and the con- 
+stitution of the United States would be different in differ- 
+ent states... . The public mischiefs that would attend 
+such a state of things would be truly deplorable.”)?' 
+
+
+It is instructive to consider the combined effect of 
+these hypothesized results in light of the substantive 
+standard that courts of appeals must apply to proffered 
+successive petitions under the 1996 statute.?? That stan- 
+dard is Sawyer’s standard, now applied to guilt-innocence 
+claims instead of the capital-sentencing claims to which 
+Sawyer applied it. Thus the courts of appeals will now be 
+deciding whether or not a claim tendered by a successive 
+habeas petition demonstrates “by clear and convincing 
+evidence” that, “but for constitutional error, no reason- 
+able factfinder would have found the applicant guilty of 
+the underlying offense”; and it is only in cases where a 
+
+
+*! Consider also the Court's grant of certiorari to review the 
+denial of a successive petition in Herrera v. Collins, 506 U.S. 390 
+(1993). The Court granted certiorari to resolve an important 
+question of constitutional law that had deeply split the circuit 
+courts but that almost never arises except in habeas - and often 
+successive habeas — cases. Compare, e.g., Evans v. Muncy, 916 F.2d 
+163, 166 (4th Cir.), cert. denied, 498 U.S. 927 (1990) (no 
+constitutional right based on newly discovered evidence of 
+innocence) with, e.g., Sanders v. Sullivan, 900 F.2d 601, 606-07 (2d 
+Cir. 1990) (broad constitutional right based on newly discovered 
+evidence of innocence). 
+
+
+22 See 28 U.S.C. § 2244(b)(2)(B)(ii) (successive petitioner 
+must show that “the facts underlying the claim, if proven and 
+viewed in light of the evidence as a whole, would be sufficient 
+to establish by clear and convincing evidence that, but for 
+constitutional error, no reasonable factfinder would have found 
+the applicant guilty of the underlying offense”). 
+
+
+28 
+
+
+court of appeals has arguably “misapplied”® this strait- 
+ened standard that an occasion will arise for exercise of 
+the Court's appellate jurisdiction to issue an original writ 
+of habeas corpus in a successive-petition case. On the 
+supposition that Congress has abrogated that jurisdiction 
+and compelled the Court to sit by silently when such 
+egregious miscarriages of justice on the one hand and 
+inter-circuit disarrays on the other occur and persist, it is 
+hardly doubtful that the Supreme Court of the United 
+States has been shorn of power to fulfill its “essential 
+role . . . in the constitutional plan.” 
+
+
+Ill. The Suspension Clause Has No Independent Bear- 
+ing On The Jurisdictional Issue Now Before The 
+Court. 
+
+
+The third question posed for briefing by the Court's 
+May 3 order is “Whether application of the Act in this 
+case is a suspension of the writ of habeas corpus in 
+violation of Art. I, § 9, clause 2 of the Constitution.” The 
+answer to that question is framed by the proceedings had 
+below. 
+
+
+We do not believe that the Habeas Corpus Suspen- 
+sion Clause provides any basis for invalidating the 
+“application of the Act in this case” independently of 
+
+
+23 See Schlup, 115 S. Ct. at 867-69. This paragraph assumes 
+arguendo that the substantive standard of new subsection 
+2244(b)(2)(B)(ii) is constitutional. If that is so, its stringency 
+heightens the injustices which would result from its 
+misapplication; if it is not, that is because the injustices which 
+flow from misapplications of the Schlup and Sawyer standards 
+are themselves at the outer limits of constitutional tolerability. 
+
+
+ee A ere 
+
+
+29 
+
+
+Article Ill of the Constitution. Because of the way in 
+which the 1996 statute was actually applied by the Elev- 
+enth Circuit panel below and remains available to be 
+applied by this Court, a separate Suspension Clause argu- 
+ment would reduce to the claim that the Clause forbids 
+Congress to route judgments of the merits of second-or- 
+successive petitions to a three-judge panel of a Court of 
+Appeals instead of to a single district judge in the first 
+instance. We cannot conscientiously contend that it does. 
+The Suspension Clause strongly reinforces what was said 
+about Article III in Part II of this brief, but the Clause can 
+bear upon the “application of the Act in this case” only in 
+that manner and not as a distinct ground of constitutional 
+invalidity. 
+
+
+The 24-page opinion delivered by the Court of 
+Appeals in denying Mr. Felker leave to file a second 
+habeas petition in the district court is the key to this 
+conclusion. What the Court of Appeals did in that opin- 
+ion was to examine each of the federal constitutional 
+claims alleged in the proffered second petition and to 
+hold, in the alternative, that (1) the claim was not cogni- 
+zable in a second habeas petition either under the 1996 
+Act or under the less demanding standards for second- 
+and-successive petitions that predated the statute - for 
+reasons that were virtually identical under the two regi- 
+mens — and (2) that the claim was substantively wrong on 
+the record and the law. Thus, the only practical sense in 
+which the 1996 Act was applied to the case by the Court 
+of Appeals panel was that the form of proceeding in 
+which the court announced these rulings was an applica- 
+tion-for-leave-to-file-a-~second-habeas-petition-in-the-dis- 
+trict-court rather than an appeal from a district court 
+
+
+30 
+
+
+order denying relief or denying a stay of execution on a 
+second habeas petition. In these circumstances - and with 
+due regard for the Court's uniform practice of declining 
+to issue advisory opinions on the Constitution and the 
+limited scope of the briefing that it ordered on May 3 - 
+the issue of the constitutionality of the “application of the 
+Act in this case” becomes simply whether the Suspension 
+Clause dictates that one instead of three judges rule upon 
+the merits of a successive habeas petition at the outset.?4 
+
+
+To be sure, the Court of Appeals decided the merits 
+incorrectly. That is why the corrective appellate jurisdic- 
+tion of this Court is necessary and should be exercised in 
+the case, and that is why we have argued in Part II above 
+that, if Congress implicitly and implausibly curtailed that 
+appellate jurisdiction, the curtailment violates Article III. 
+The Suspension Clause is a textual embodiment of the 
+importance and historicity of the writ of habeas corpus 
+and, in that light, bears upon the question whether an 
+attempted abrogation of this Court’s jurisdiction to 
+review gross miscarriages of justice by a Court of 
+Appeals’ denial of habeas corpus relief would be consis- 
+tent with the Court's Article III integrity.25 But to analyze 
+
+
+24 While Petitioner continues to maintain thai the circuit 
+court violated rather than applied the Act, see letter from 
+counsel of record to the deputy clerk of this Court dated May 2, 
+1996, this contention is not pertinent to the current questions 
+presented. 
+
+
+25 It is for this reason that in Parts I and II above we have 
+adverted to this Court’s repeated reading of the Suspension 
+Clause as “testif[ying] to the importance of the writ of habeas 
+corpus,” Kelly v. Robinson, 479 U.S. 36, 48 n.9 (1986), and as 
+recognizing that the jurisdiction conferred by 28 U.S.C. § 2241 
+
+
+ee ee eee 
+
+
+<n ee 
+
+
+were 
+
+
+Loe 
+— 
+
+
+31 
+
+
+such a question in terms of whether the 1996 Act “sus- 
+pended” the privilege of the writ in Mr. Felker’s case 
+would distort both the question and the Suspension 
+Clause beyond recognition. 
+
+
+¢ 
+
+
+CONCLUSION 
+
+
+The Court has jurisdiction. It should now permit the 
+parties to address the issue of the proper exercise of that 
+jurisdiction on the record of Mr. Felker’s case. The ques- 
+tions to which the present brief were limited by the 
+Court's order of May 3 do not address the standards that 
+should govern original habeas petitions in cases where 
+such petitions are the only remedy available to a con- 
+demned inmate in the courts of the United States, nor 
+whether those standards encompass Mr. Felker’s claims 
+of constitutional error that have doomed him to die for a 
+crime which he did not commit. He should be heard, and 
+the Court should be fully advised on those subjects, while 
+
+
+“implements the constitutional command that the writ. . . be 
+made available,” Jones v. Cunningham, 371 U.S. 236, 238 (1963). 
+See, ¢.g., supra note 19. 
+
+
+the stay of execution which it granted on May 3 remains 
+
+
+effective. 
+
+
+*Counsel of Record 
+
+
+32 
+
+
+, 
+Respectfully submitted, 
+
+
+SterHen C. Bayuiss* 
+Mary E.izasetH We tts 
+101 Marietta Street 
+33rd Floor 
+
+Atlanta, Georgia 30303 
+(404) 614-2014 
+
+
+Henry P. MONAGHAN 
+435 W. 116th Street 
+New York, NY 10027 
+(212) 854-2644 
+
+
+Mark Evan Ouive 
+
+Habeas Assistance Project 
+P. O. Box 506 
+
+Richmond, VA. 23218-0506 
+(804) 643-6848 
+
+
+Counsel for Petitioner 
+
+
+~ 
+
+

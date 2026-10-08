@@ -1,0 +1,1568 @@
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+UNITED STATES OF AMERICA, PETITIONER 
+V. 
+
+
+WINSTAR CORPORATION, ET AL. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FEDERAL CIRCUIT 
+
+
+REPLY BRIEF FOR THE PETITIONER 
+
+
+Drew S. Days, III 
+Solicitor General 
+Department of Justice 
+Washington, D.C. 20530 
+(202) 514-2217 
+
+
+* 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases: Page 
+American Smelting & Ref. Co. v. Colorado ex rel. 
+Lindsley, 204 U.S. 103 (190777 16 
+Amino Brothers Co. v. United States, 372 F.2d 485 
+(Ct. Cl.), cert. denied, 389 U.S. 846 (1967) 21 
+
+
+Appleby v. City of New York, 271 U.S. 364 (1926). 16 
+Atlas Corp. v. United States, 895 F.2d 745 (Fed. 
+
+
+Cir.), cert. denied, 498 U.S. 811 (1990) 22 
+Bowen V. Public Agencies Opposed to Social Secu- 
+rity Entrapment, 477 U.S. 41 (1986) 15, 23, 25 
+
+
+Charter Fed. Sav. Bank V. OTS, 976 F.2d 208 (4th 
+Cir. 1992), cert. denied, 507 U.S. 1004 (1993) 3 
+City of Cleveland v. Cleveland City Ry., 194 U.S. 
+
+
+1 ———ůůůů———U— 20 
+City of Puducuh v. Paducoh N., 261 U.S. 267 
+SED —— 17 
+
+
+Deming v. United States, 1 Ct. Cl. 190 (1865), 
+appeal dismissed, 76 U.S. (9 Wall.) 145 (1870) 25 
+FDIC v. Philadelphia Gear Corp., 476 U.S. 426 
+
+
+111 ——————— — 15 
+Guerini Stone Co. v. P. J. Carlin Constr. Co., 240 
+Je 4 
+
+
+Heil v. United States, 273 F. 729 (S.D.N.Y. 1921).. 14 
+Home Tel. & Tel. Co. v. City of Los Angeles, 211 
+re 16, 17, 20, 21 
+Horowitz v. United States, 267 U.S. 458 (1926) 21. 25 
+Jefferson Branch Bank v. Skelly, 66 U.S. (1 Black) 
+
+
+1 . — 15,16 
+Lynch v. United States, 292 U.S. 571 (1934 14, 16, 
+18, 23 
+
+Maryland v. Railroad Co., 89 U.S. (22 Wall.) 105 
+TE ee eee eee een 12 
+
+New Orleans Gas Co. v. Louisiana Light Co., 115 
+I 17 
+
+Norman v. Baltimore & O. R. R. 294 U.S. 240 
+r EO 23 
+Perry v. United States, 294 U.S. 330 (1935) 22, 24 
+
+
+(1) 
+
+
+III 
+Cases Continued: Page 
+
+
+Peterson v. United States Dep’t of the Interior, 
+899 F.2d 799 (9th Cir.), cert. denied, 498 U.S. 
+
+
+Statutes and rules—Continued: Page 
+EE 18 
+
+
+ES 2 18 
+1008 (1990 ——— 3 Ct. of Fed. Cl. R. 
+
+Russell v. Sebastian, 288 U.S. 195 (1914) 16 — 63 8 
+St. Cloud Pub. Serv. Co. v. City of St. Cloud, 265 TT 7.62 
+ID — 16,17 a = 
+
+Slater v. Emerson, 60 U.S. (19 How.) 224 (1857).. 12 Miscellaneous: 
+we Crowninshield, 17 U.S. (4 Wheat.) 122 - William Black, Ending Our Forebearers’ Forbear- 
+* . — HHH * G—([ 2 [ —õ— ances: FIRREA and ee | Goodwill, 2 
+where Ay 3 Director, OTS, 967 : Stan. L. & Poly Rev. 102 (1990) 10, 11, 12 
+8 1 ü wae? 15 K „ 
+— e, Padhanienis ane 2 * GAO, Financial Audit: Resolution Trust Corpora- 
+9 (1963) *. 874 US. 15 tion’s 1994 and 1993 Financial Statements 
+——— — 1 5 — ö —— 9 
+Vicksburg v. Vicksburg Waterworks Co., 206 U.S. a aa oa cost aad Laat of 
+a. abe eg — = Bankruptcy Law (1986) te 11 
+V. 4 _ ( ) ————g National Commission on Financial Institutions 
+Constitution, statutes and rules: Reform, Recovery and Enforcement, Origins and 
+U.S. Const.: Causes of the S&L Debacle: A Blueprint for 
+aics y Reform, A Report to the President and Congress 
+Arta... 24 of the United States (19933) 9, 10, 11, 12 
+ne...... er 24 
+
+
+Act of Oct. 6, 1917, ch. 105, Art. IV, 40 Stat. 409- 
+
+
+Susan Rose-Ackerman, Risk Taking and Ruin: 
+Bankruptcy and Investment Choice, 20 J. Legal 
+
+
+| | ene ee 18 Stud. 277 (1991) 11 
+Comprehensive Thrift and Bank Fraud Prosecution 
+and Taxpayer Recovery Act of 1990, Pub. L. No. 
+101-647, Tit. XXV, 104 Stat. 4859: 
+§ 2551, 104 Stat. 4889 * * 9 
+LL 9 
+LL 9 
+12 U.S.C. 1464 (a) (1988) (repea led) 14 
+12 U.S.C. 1464 (b) (1988) (repea led) 14 
+12 U.S.C. 1464 (s) (1988) (repeal ed) 14 
+12 U.S.C. 1725 (a) (1988) (repeal ed 14 
+12 U.S.C. 1725 (e) (3) (1988) (repealed ) 18 
+12 U.S.C. 1726 (b) (1988) (repealed) )))) 14 
+12 U.S.C. 1729 (f) (2) (1988) (repealed) .................. 18 
+12 U.S.C. 1730 (t) (1988) (repealed) ...................... * 14 
+
+
+Ju the Supreme Court of the United States 
+
+
+OcTOBER TERM, 1995 
+
+
+No. 95-865 
+
+
+UNITED STATES OF Auk RCA, PETITIONER 
+Vv. 
+
+
+WINSTAR CORPORATION, ET AL. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FEDERAL CIRCUIT 
+
+
+REPLY BRIEF FOR THE PETITIONER 
+
+
+Respondents in these cases argue that Congress breached 
+contracts with them when, in enacting FIRREA in 1989, 
+it strictly limited the amount of intangible assets that 
+federally insured savings and loan associations could use 
+to satisfy federal capital requirements. In respondents’ 
+view, federal bank regulators had made binding contrac- 
+tual promises to them that Congress would not take such 
+regulatory action or that, if it did, it would exempt re- 
+spondents from the application of the new regulations. 
+
+It would be quite unusual, to say the least, for federal 
+regulatory officials to purport to make binding promises 
+
+
+(1) 
+
+
+2 
+
+
+to those whom they regulate that Congress would not 
+take future regulatory action that might be necessary 
+to protect the public interest. As we show in our open- 
+ing brief, no such promises were made here. When 
+promises were made, they provided only that, to the extent 
+that “goodwill” or “capital credits” could legally be 
+treated as assets by thrifts, respondents could account for 
+those intangibles on their books in certain ways. Such 
+promises about the accounting treatment to be accorded 
+assets were within the competence of bank regulators to 
+make and were not breached in these cases. 
+
+Reading the documents upon which respondents rely 
+to refer to the accounting treatment to be accorded 
+goodwill and capital credits, rather than to the right to 
+treat these intangibles as assets regardless of Congress’s 
+attempts to exercise its regulatory power to protect the 
+solvency of the nation’s banking systems, is, we submit, 
+the most natural interpretation of the relevant language. 
+If there are any ambiguities in the language, however, 
+this Court has made clear that such ambiguities must be 
+resolved in favor of Congress’s ability to exercise its 
+powers free of the threat of damage claims for breach 
+of contract. Any alleged contractual limitation on Con- 
+gress’s exercise of its sovereign powers thus must be un- 
+mistakably clear. The court of appeals’ failure to apply 
+that principle in these cases led it to misconstrue the 
+documents upon which respondents rely, and incorrectly 
+to impose breach-of-contract liability on the United States 
+for Congress’s decision to adopt stricter capital require- 
+ments in an effort to restore solvency to the nation’s 
+thrift industry. 
+
+1. Respondents repeat their claims that the thrift regu- 
+lators promised that the government would count respond- 
+ents’ supervisory goodwill (and, in Statesman’s case, cap- 
+ital credits) as capital for purposes of satisfying federal 
+capital requirements for periods of 25 to 40 years. Rep- 
+etition of those claims does not substitute for their fail- 
+
+
+3 
+
+
+ure to obtain such promises in the terms of the contracts 
+at issue. 
+
+a. Glendale. Glendale concedes (Br. 21) that the 
+“critical terms” on which it relies were not included 
+within the four corners of the contract between the 
+parties—the Supervisory Action Agreement (SAA). In- 
+stead, Glendale claims (ibid.) that they were “contained 
+in documents [primarily, Bank Board Resolution 81-710 
+(J.A. 605-610)] that were included in the contract 
+through the integration clause of the SAA. 
+
+As the language of the integration clause of the SAA 
+makes clear, however, the SAA, “together with an inter- 
+pretation thereof or understanding agreed to in writing 
+by the parties, constitutes the entire agreement between 
+the parties thereto.” J.A. 598-599. That sentence pre- 
+cludes construing the Bank Board Resolution as a state- 
+ment of the parties’ contractual undertakings. The Bank 
+Board was, in the first place, not a “party” to the SAA. 
+See J.A. 587. Nor did the SAA parties (FSLIC and 
+Glendale) ever “agree * * * in writing” to the Board's 
+Resolution, which in all events was a statement of regu- 
+latory policy, not a contractual “understanding.”* Ac- 
+
+
+1 Glendale does not claim that the Bank Board Resolution itself 
+or the terms contained in it would have constituted contractual 
+commitments of the government, absent the integration clause in 
+the SAA. Such documents were the record of the Bank Board’s 
+regulatory actions, which the Board remained free to change, in 
+accordance with applicable legal standards governing agency action. 
+See, e.g., Charter Fed. Sav. Bank v. OTS, 976 F.2d 208, 211 
+(4th Cir. 1992), cert. denied, 507 U.S. 1004 (1998); see also 
+Transohio Savings Bank v. Director, OTS, 967 F.2d 598, 621 
+(D.C. Cir. 1992); ef. Peterson v. United States Dep't of the 
+Interior, 899 F.2d 799, 811 n.17, 813 n.18 (9th Cir.), cert. denied, 
+498 U.S. 1008 (1990). 
+
+
+2 The Bank Board Resolution (J. A. 605-610) carries all of the 
+conventional earmarks of an agency regulatory determination, not 
+a contract. It begins with the factual premises for the agency’s 
+action (the “whereas” clauses, J.A. 605-606), and continues with 
+
+
+4 
+
+
+cordingly, nothing in the integration clause could possibly 
+have converted the Bank Board’s statements into con- 
+tractual undertakings of the government. 
+
+Under the integration clause, the Bank Board Resolu- 
+tion did become part of the Glendale contract for the 
+purpose of determining what occurs in the event of a con- 
+flict between the SAA and the Bank Board Resolution: 
+in that situation, nothing in the SAA “supersede[s]” the 
+Bank Board Resolution. J.A. 599. That reference did 
+not, however, convert the Resolution’s statements of reg- 
+ulatory policy into contractual commitments.“ Cf. Guerini 
+Stone Co. v. P.J. Carlin Constr. Co., 240 U.S. 264, 277 
+(1916) (“[A] reference by the contracting parties to an 
+extraneous writing for a particular purpose makes it a 
+part of their agreement only for the purpose specified.” ) 
+(emphasis added) (citing cases). 
+
+Most of Glendale’s remaining arguments (Glendale 
+Br. 22-26) regarding the meaning of the provisions in 
+the Bank Board Resolutions and other documents are 
+addressed in our opening brief (at 25-26, 28). The Peat, 
+Marwick letter submitted by Glendale (see Glendale Br. 
+22) after the transaction could not possibly constitute an 
+additional contractual commitment by the government. 
+As the Bank Board Resolution required, that letter was 
+submitted so that the Board could determine “the reason- 
+ableness of amounts attributed to goodwill * * * and 
+
+
+the resolution clauses themselves, J. A. 606 (“Now therefore, it is 
+resolved * , J. A. 607-610 (“Resolved further, * ), which 
+granted the necessary regulatory approval to Glendale’s transaction. 
+
+
+The Winstar integration clause, see J. A. 112, is virtually 
+identical to the integration clause in Glendale. The Statesman in- 
+tegration clause, on the other hand, provides that [this Agree- 
+ment, together with any resolutions adopted by the Bank Board and 
+documents delivered at closing * * *, constitutes the entire agree- 
+ment between the parties.” J.A. 407-408. This provision is dis- 
+cussed in our opening brief, at 32-36. Statesman’s claim regarding 
+capital credits must be rejected in light of the unmistakability 
+doctrine. 
+
+
+5 
+
+
+the resulting amortization periods” for purposes of apply- 
+ing its then-current policy. J.A. 607. Had the letter been 
+insufficient for those purposes, the Bank Board could have 
+rescinded its approval of the transaction. The letter, 
+generated by Glendale’s accountants, obviously did not 
+and could not include any new contractual commitment 
+by the government not already made in the SAA, and 
+the approval of the letter by the Bank Board’s agent 
+could not be construed to have made any such new 
+commitment. 
+
+b. Winstar and Statesman. Like Glendale, Winstar 
+and Statesman also argue that their contracts included 
+commitments by the government regarding the future 
+treatment of supervisory goodwill.‘ We addressed those 
+claims, as well as Statesman’s claims regarding capital 
+credits, in our opening brief. See U.S. Br. 28-36." 
+
+
+As noted in our opening brief, Winstar's Assistance Agreement 
+expired in 1986, and any government obligations in that agreement 
+therefore expired long before FIRREA was enacted. Winstar 
+argues (Br. 30 n.19) that the expiration clause of its agreement 
+is prefaced by the phrase “[e)xcept as otherwise specifically pro- 
+vided in this Agreement.” J.A. 110. There is, however, no refer- 
+ence to supervisory goodwill anywhere within the four corners of 
+Winstar’s Assistance Agreement, and any commitments made in 
+the Bank Board Resolutions and other regulatory documents would 
+not appear to be commitments “in this Agreement.” Nor do those 
+other documents “specifically provide” for any extended expiration 
+date. Statesman claims (Br. 26) that its Regulatory Capital Main- 
+tenance Agreement (RCMA) (J. A. 419) contains a contractual 
+commitment regarding its capital credits and supervisory goodwill. 
+Any such commitment, however, was only “({f]or purposes of this 
+Agreement.” J. A. 419. The RCMA was never violated, and any 
+such commitment is accordingly of no significance. 
+
+
+5 Respondents also rely on statements in Bank Board documents 
+and made by Bank Board officials in the course of negotiations. See, 
+e.g., Winstar Br. 27 n.15, 30 n.18. At most, those statements 
+demonstrate that the Bank Board anticipated that supervisory 
+goodwill would be booked in connection with the transaction and 
+that that was consistent with then-current Bank Board policy. 
+
+
+6 
+
+
+Winstar and Statesman both rely on the Accounting 
+Principles clause in their Assistance Agreements. Winstar 
+Br. 22-24, 28-29. For the reasons given in our opening 
+brief (at 30-31), those provisions (J.A. 108-109, 458- 
+459), which apply to “any computations made for pur- 
+poses of this Agreement,” in fact support our argument. 
+Winstar complains (Br. 29), however, that we have not 
+“explain[ed] what ‘computations made for the purposes of 
+this Agreement’ the clause could possibly be referring to 
+if not regulatory capital computations.” The clause refers 
+to computations that had to be made for purposes of 
+provisions of Winstar’s Assistance Agreement that, for 
+example, required FSLIC to make a cash contribution to 
+Winstar based on its “aggregate negative Net Worth” (J.A. 
+97), that requned FSLIC to indemnify Winstar for un- 
+disclosed liabilities and claims (J.A. 100-101), and that 
+limited FSLIC’s potential indemnity contributions with 
+regard to subsidiary corporations to an amount determined 
+by “[{Winstar’s] investment in [those] subsidiary corpora- 
+tion{s]” (J.A. 102-103). See also, e.g., J.A. 362-368, 
+368-373, 373-374, 380 (comparable Statesman provisions). 
+
+2. In short, the government never made the promises 
+regarding supervisory goodwill that respondents claim. 
+Such promises could have been stated in simple language. 
+For example, the parties could have provided that, “re- 
+gardless of any changes that may be made in applicable 
+federal statutes or regulations, [the thrift] may count 
+supervisory goodwill created in this transaction as capital 
+for purposes of satisfying federal capital requirements for 
+the next [25, 35, or 40] years.” Or they could have pro- 
+vided that, “for the purposes of satisfying federal capital 
+requirements, the supervisory goodwill created in this 
+transaction shail be credited to the [thrift’s] regulatory 
+capital account and shall constitute regulatory capital, 
+such capital to be recognized until amortized over [25, 
+35, or 40] years.” See J.A. 362a; see U.S. Br. 34. That 
+is not what the contracts in this case provided. Respond- 
+
+
+7 
+
+
+ents’ after-the-fact effort to revise their contracts to add 
+promises that were never made should be rejected. 
+Respondents argue that their contracts should be con- 
+strued to contain the promise that they would continue 
+to have the right to keep supervisory goodwill on their 
+books, despite any statutory changes limiting the use of 
+intangible assets, because the transactions as embodied 
+in the documents would otherwise be “financially non- 
+sensical in light of the value of the consideration that 
+[FSLIC] received from [respondents].” Glendale Br. 
+30;“ see also Winstar Br. 19. As we explain in our 
+
+
+® Glendale suggests (Br. 32-34) that we conceded that the parties 
+intended to make the contractual promise that goodwill could 
+continue to be treated as an asset despite statutory changes. 
+Glendale bases that alleged concession on what it claims was our 
+failure to contest its Proposed Findings of Uncontroverted Fact in 
+the Court of Federal Claims under Court of Federal Claims Rule 
+56(d) (1). App., infra, 4a. That Rule was inapplicable in this case, 
+however, and neither court below relied on it or otherwise suggested 
+that we had made the alleged concession. Discovery in this case was 
+stayed from an early date until at least the time the Court of 
+Federal Claims issued its decision on reconsideration in Winstar 
+(Pet. App. 153a-180a) on April 21, 1992. On that date and on 
+May 6, 1992, the trial court requested further briefing from the 
+parties regarding the effect of its Winstar rulings on Glendale’s 
+case, but the trial court did not reopen discovery. Accordingly, we 
+filed an affidavit (reprinted at App., infra, la-2a) pursuant to 
+Court of Federal Claims Rule 56(g). See App., infra, 6a. That 
+affidavit rendered Rule 56(d)(1) inapplicable. The affidavit stated 
+that, insofar as the trial court was inclined not to grant our motion 
+to dismiss and to grant summary judgment to Glendale, such “a 
+ruling * * * would be premature, as [the government] has not had 
+an opportunity to obtain discovery as to certain issues raised in 
+plaintiff's motion for summary judgment.” App., infra, 2a. Our 
+position was that, although we did not dispute that the key docu- 
+ments (the SAA, the Bank Board Resolutions, and the Peat, 
+Marwick letter) were each what they purported to be, any ruling 
+that relied on other materials or affidavits to discern the intent of 
+the parties would be premature, because we had not had sufficient 
+
+
+opening brief (at 27 & nn.19-20), that is incorrect.’ 
+At the time of Glendale’s transaction, no change in fed- 
+eral policy permitting thrifts to count supervisory good- 
+will as capital was imminent, and such a change was 
+not in fact made until eight years later.“ Although. 
+as respondents state, such a change immediately after an 
+acquisition could subject a thrift to immediate danger of 
+closure, it would also impose the costs of such closure 
+on the Insurance Fund—precisely the outcome that all 
+parties agree the Bank Board was trying to avoid. See 
+Glendale Br. 3-4; Winstar Br. 3-5. Indeed, it was only 
+Congress’s unprecedented decision to invest well over $100 
+
+
+opportunity for discovery on those issues. The trial court appeared 
+to accept our position, relying in the portions of its summary 
+judgment ruling regarding Glendale (Pet. App. 114a-120a, 122a- 
+125a) on no materials aside from the key contractual documents. 
+Glendale cannot rely on a mistaken interpretation of a Court of 
+Federal Claims Rule that neither that court nor the Federal] Circuit 
+has accepted. 
+
+
+7 Respondents assert that the government claims “that it is even 
+entitled under the law to keep the multi-million dollar investments 
+that it solicited from Statesman and Winstar and then seized along 
+with the thrifts.” Winstar Br. 13. In fact, respondents’ invest- 
+ments were not funds given to the government, but funds invested 
+in the thrifts; when Statesman and Winstar were ultimately closed, 
+the Insurance Fund had to make up a very substantial shortfall. In 
+a similar vein, respondents allege that our claim is “that [the 
+government] made no promises and assumed no risks in connection 
+with [the] transactions.” Winstar Br. 20. The contracts with 
+Winstar and Stat2sman, however, include numerous examples of 
+government proriises—such as the indemnification provisions, see 
+p. 6, supra—all f which were performed. Moreover, because the 
+government remained responsible after the transaction, as before, 
+for the insured deposits under the control of respondents at each 
+of the thrifts involved, the government itself assumed significant 
+risks in permitting the transactions to go forward. 
+
+
+8 Federally insured thrifts always operate against a back- 
+ground risk that the laws (or regulations) regarding financial 
+soundness (or other regulatory matters) will be altered in a way 
+that would threaten them with closure. See U.S. Br. 27 n.19. 
+
+
+9 
+
+
+billion to bail out the Insurance Fund that led to 
+FIRREA’s 1989 alteration of federal policy.“ 
+
+Prior to that time, respondents obtained very substan- 
+tial benefits as the result of the transactiors in this case. 
+Indeed, it was the profit-making potential of those trans- 
+actions that led respondents to engage in them. For ex- 
+ample, Glendale obtained the right to do business in Flor- 
+ida, a lucrative new market where, at the time it filed this 
+action, it had the “largest branch network of any thrift.” 
+J.A. 561.“ It also acquired the assets of a large thrift 
+institution and the substantial profit potential that those 
+assets represented. In addition, Glendale obtained the 
+going-concern value of the acquired thrift, a provision 
+protecting it against rising interest rates, indemnification 
+against unknown liabilities of the acquired thrift, and a 
+variety of short-term cash advances. See U.S. Br. 43." 
+
+
+Congress made more than $105 billion available to the Resolu- 
+tion Trust Corporation, in four separate statutes. See GAO, Finan- 
+cial Audit: Resolution Trust Corporation’s 1994 and 1993 Financial 
+Statements 7 (1995). According to the most recent figures, only 
+approximately $90.2 billion, however, was expected to be spent. 
+See ibid. In addition to the RTC funds, the FLSIC Resolution 
+Fund has an accumulated deficit of $43.7 billion. See FDIC, 1994 
+Annual Report 95 (1995). 
+
+
+1% In the Statesman and Winstar cases, the acquirers were new 
+to the thrift industry. They obtained extremely valuable franchises 
+to participate in the industry—franchises that were believed at the 
+time to offer the key to high profits on a variety of types of loans, 
+with most of the risk being borne by the deposit insurance fund. 
+See National Commission on Financial Institutions Reform, Recov- 
+ery and Enforcement, Origins and Causes of the S&L Debacle: 
+A Blueprint for Reform, A Report to the President and Congress 
+of the United States 45-47 (1993) [hereinafter Blueprint]. See 
+Pub. L. No. 101-647, Tit. XXV. §§ 2551-2552, 2556, 104 Stat. 4889, 
+
+
+4892 (statute requiring appointment and setting mission for 
+commission) . 
+
+
+The interest rate protection provision provided for payments 
+from the government to Glendale if interest rates went up, and 
+
+
+10 
+
+
+Indeed, Glendale’s own assets increased from about $5 
+billion at the time of the merger in 1981, see J.A. 550, 
+to more than $25 billion at the time it filed suit in 1990, 
+see J.A. 546. That increase alone suggests that Glen- 
+dale’s participation in the transaction was a reasonable 
+choice.” 
+
+In addition, as commentators have explained, even if 
+an acquiring thrift like Glendale showed a positive net 
+worth on its books, such thrifts “were frequently insol- 
+vent * * * on a market value basis.” William Black, 
+Ending Our Forebearers’ Forbearances: FIRREA and 
+Supervisory Goodwill, 2 Stan. L. & Pol’y Rev. 102, 104 
+(1990).” In that situation, because the acquiring thrift's 
+owners face no risk of further loss to themselves, the 
+acquiring thrift 
+
+has every incentive to take extreme risks, which prom- 
+ise the possibility of very high yields. If the gamble 
+
+
+payments from Glendale to the government if they went down. 
+See J. A. 591-593. Glendale notes (Br. 9) that, because interest 
+rates went down, this provision in fact resulted in a payment of 
+$18.24 million from Glendale to the government. The provision 
+nonetheless was inherently beneficial for Glendale. Although the 
+government was to have begun its payments from the first dollar, 
+the provision expressly excused Glendale from having to pay the 
+first $20 million it would owe under this provision. J.A. 593. 
+
+
+12 Similarly, Statesman’s net worth increased more than $6 
+million between its March, 1988, transaction and July 5, 1990. 
+Winstar Br. 6-7. (Due to a typographical error, our opening brief 
+erroneously states in one place that the Statesman transaction took 
+place in 1987. U.S. Br. 32. In fact, it took place in 1988, as our 
+brief elsewhere correctly states. See U.S. Br. 6.) 
+
+
+13 Although Glendale’s books indicated that it was solvent at 
+the time of the transaction, the market value of its assets at the 
+time of the transaction is a factual issue that has not been resolved 
+in this case. During the 1980s, increasing numbers of thrifts that 
+had appeared solvent turned out to have little or no capital when 
+their assets were marked to market. See Blueprint 43-44, 52-54. 
+Cf. J. A. 558-554 (32) (marking thrift assets to market produces 
+dramatic decline in net worth). 
+
+
+11 
+
+
+pays off, the owners of the S&L or bank capture all 
+the profit; if the gamble fails, the FSLIC or the FDIC 
+pays for the loss. 
+
+
+Ibid. Indeed, the general tendency of businesses with lit- 
+tle of their own capital at stake to take risks is well- 
+documented,“ and such high risk-taking was endemic in 
+the thrift industry during the 1980s. 
+
+Finally, there were further incentives for those in all 
+of respondents’ positions to acquire thrifts. Of perhaps 
+greatest importance was the way in which such trans- 
+actions could increase the apparent income of the thrift. 
+As the commission charged by statute with investigating 
+the causes of the thrift debacle explained, thrifts involved 
+in mergers or acquisitions were able to amortize the 
+“goodwill” created by the acquisition slowly while taking 
+accelerated paper profits based on the presumptive in- 
+crease in the face value of mortgages as they approached 
+the end of their expected lives.“ That enabled thrift 
+
+
+See, e.g., Thomas H. Jackson, The Logic and Limits of Bank- 
+ruptcy Law 205 (1986) (“When a firm is insolvent and has $100,000 
+in debts and only $80,000 in assets, it is unlikely that it would be 
+in the interests of the creditors to have that $80,000 placed on 
+number 20 at a roulette wheel in Atlantic City, but it clearly would 
+be in the interests of the shareholders to do so.“); Susan Rose- 
+Ackerman, Risk Taking and Ruin: Bankruptcy and Investment 
+Choice, 20 J. Legal Stud. 277, 296 (1991). 
+
+
+1 The Commission explained: 
+
+
+[The Bank Board] allowed and encouraged “goodwill mergers,” 
+in which the assets of an acquired S&L were marked down to 
+market, and the difference between its liabilities and the mar- 
+ket value of its assets * * was designated as “goodwill[.|” 
+[Once the goodwill was recognized, GAAP allowed the 
+“discount” of the market value of acquired assets from their 
+book value to be “accreted” as income over the remaining 
+expected life of the assets under the assumption that the 
+assets’ value would rise steadily to their book value. Because 
+the “goodwill” fabricated from the acquisition was written 
+off more slowly than acquired assets matured, the book in- 
+come from “accretion of discount” exceeded the expense of 
+
+
+12 
+
+
+managers and owners to show large paper profits, per- 
+mitting them to pay themselves high salaries and divi- 
+dends. Blueprint 38. “Acquisitions of insolvent S&Ls 
+were tempting to other S&Ls trying to stave off account- 
+ing insolvency because acquirers could show fictitious 
+income and continue to pay (indeed increase) dividends, 
+high salaries, and so on.” Id. at 39. There were also 
+substantial tax benefits connected with the transactions. 
+See id. at 37-38. 
+
+There are thus many reasons why entirely reasonable 
+individuals would have taken the risks inherent in the 
+transactions at issue in this case. At bottom, though, the 
+terms of the contracts themselves are the best evidence of 
+the bargains that reasonable parties in the position of re- 
+spondents would have struck. See, e.g., Slater v. Emer- 
+son, 60 U.S. (19 How.) 224, 238 (1857); Maryland v. 
+Railroad Co., 89 U.S. (22 Wall.) 105, 111-112 (1874); 
+cf. Sturges v. Crowninshield, 17 U.S. (4 Wheat.) 122, 
+202 (1819). Indeed, respondents’ own arguments that it 
+
+
+depreciating goodwill. Consequently, the acquirer could lock 
+in accounting profits over the life of the acquired assets. 
+Blueprint 38-39. 
+
+
+As another commentator has noted, although goodwill was typi- 
+cally amortized over periods of 25 to 40 years, the thrifts’ assets 
+were overwhelmingly composed of home mortgages. “Because of 
+prepayments (typical when a home is sold) and refinancings, the 
+estimated life of a new 30-year fixed-rate loan is approximately 
+seven years.“ Black, supra, 2 Stan. L. & Pol’y Rev. at 105. “If the 
+average expected remaining life of the [acquired institution's) 
+loans is five years, the annual accretion of discount is 20 percent.” 
+Ibid. Therefore, if goodwill and discount resulting from a merger 
+are each $100 million, 
+
+
+[ijn year one after the merger, 2.5 percent amortization of 
+goodwill requires the S&L to recognize $2.5 million in expense. 
+At a 20 percent annual rate for the accretion of discount, how- 
+ever, the boost to income in year one is $20 million. The net 
+effect is $17.5 million in added accounting profits. 
+
+Ibid. “The larger the goodwill, i.e., the more the acquiring S&L 
+
+
+overpaid for the failed S&L, the greater the reported profits.” 
+Ibid. 
+
+
+13 
+
+
+would have been “madness” to enter into the contracts at 
+issue, Glendale Br. 31, makes it incomprehensible why 
+respondents’ able attorneys would have failed to demand 
+that the promises they now claim to have been vital— 
+promises that they would be permitted to count goodwill 
+as capital for purposes of federal regulatory requirements, 
+regardless of statutory or regulatory changes—be included 
+in clear language in the contracts. 
+
+3. Under the unmistakability doctrine, a government 
+contract will be construed to include a promise that the 
+government will exercise its sovereign regulatory author- 
+ity in the future in a certain way only if that promise is 
+given in unmistakable terms. See U.S. Br. 16-22.“ That 
+does not mean, as respondents assert, that the contract 
+must contain certain talismanic words, or that there must 
+be both an initial promise that the government will exer- 
+cise regulatory authority in the future in a specific way 
+and a “second promise that Congress would not enact 
+‘new regulatory legislation.“ Glendale Br. 26; see Win- 
+star Br. 31-35. As noted above, there are various ways 
+to phrase an unmistakable promise that a thrift may 
+continue to count goodwill created in the transaction as 
+capital, despite future changes in regulatory law or policy. 
+
+Respondents allege that the unmistakability doctrine is 
+inapplicable in this case because the contracts at issue 
+here involved “commercial transactions in which both 
+
+
+6 Winstar and Statesman appear to defend (Winstar Br. 36-38) 
+the Federal Circuit’s conclusion that the unmistakability doctrine 
+does not apply to actions seeking monetary damages for breach of 
+contract. We respond to that argument in our opening brief (at 
+20-22). Glendale no longer defends the Federal Circuit's conclu- 
+sion on that point, and now relies instead on the claim that the 
+contract in this case is a “financial” contract. See Glendale Br. 18 
+(“Glendale’s point is not that the unmistakability principle has no 
+application to any claim for breach-of-contract damages. Rather, 
+the principle does not apply to a damages claim for the govern- 
+ment’s breach of a contract entered into for its own financial 
+benefit.) See pp. 13-14, infra. 
+
+
+14 
+
+
+parties were motivated by their own economic interests.” 
+Winstar Br. 39; see also Glendale Br. 18 (unmistakability 
+principle “does not apply to a damages claim for the gov- 
+ernment’s breach of a contract entered into for its own 
+financial benefit”). That claim is incorrect. Application 
+of the unmistakability doctrine has nothing to do with 
+whether the contract at issue provides an economic bene- 
+fit to the government. 
+
+As we explain in our opening brief (at 20 n.9), the 
+unmistakability doctrine applies where the performance 
+of the alleged promise by the government requires it to 
+exercise—or not to exercise—uniquely governmental reg- 
+ulatory authority in a certain way in the future. Where, 
+on the other hand, the performance required of the gov- 
+ernment is precisely the kind of performance that private 
+parties typically render—such as the payment of a sum 
+of money, see, e. g., Lynch v. United States, 292 U.S. 571 
+(1934), or the delivery of a telegram, see, e.g., Heil v. 
+United States, 273 F. 729 (S.D.N.Y. 1921) (Hand, J.) 
+—the doctrine has no application. 
+
+The regulatory authority relevant to this case was the 
+authority of Congress and the Bank Board to set mini- 
+mum capital requirements for federally insured thrifts and 
+to regulate the types of assets that may count toward 
+meeting those requirements. See 12 U.S.C. 1464(a), (b) 
+and (s), 1725(a), 1726(b), 1730(t) (1988) (repealed). 
+As respondents recognize, they claim “promises to accord 
+specified regulatory treatment to respondents’ supervisory 
+goodwill * * *, promises that obviously could not have 
+been made by a private party.” Winstar Br. 47. That 
+regulatory authority is not comparable to any authority 
+that an ordinary commercial entity could unilaterally exer- 
+cise in an ordinary commercial setting. Regulation of 
+thrift industry capital levels, like other aspects of bank 
+regulation, is a regulatory function that is essential to pre- 
+serve the health and safety of the industry and, ultimately, 
+to avoid severe damage to the national economy. See gen- 
+
+
+15 
+
+
+erally FDIC v. Philadelphia Gear Corp., 476 U.S. 426, 
+432-433 (1986); United States v. Philadelphia Nat'l Bank, 
+374 U.S. 321, 327-328, 329-330 (1963); see also United 
+States v. Gaubert, 499 U.S. 315, 332 (1991). It is exactly 
+the sort of federal regulatory authority protected by the 
+unmistakability doctrine. 
+
+The contractual promises that respondents allege would 
+have committed federal officials and Congress to exercise 
+federal regulatory authority in a particular way—i.e., to 
+permit respondents to continue to count supervisory good- 
+will toward satisfying federal capital requirements for 
+periods of 25 to 40 years in the future. The contracts 
+therefore may not be construed to surrender that regula- 
+tory authority “unless such surrender has been expressed 
+in terms too plain to be mistaken.” Jefferson Branch 
+Bank v. Skelly, 66 U.S. (1 Black) 436, 446 (1862). 
+See also Bowen v. Public Agencies Opposed to Social 
+Security Entrapment (POSSE), 477 US. 41, 52-53 
+(1986) (referring to “often-repeated admonitions that 
+contracts should be construed, if possible, to avoid fore- 
+closing exercise of sovereign authority”); U.S. Br. 16-18 
+(citing cases). 
+
+The unmistakability doctrine does not preclude the gov- 
+ernment from committing itself to future exercises of 
+sovereign regulatory authority (assuming such authority 
+is the sort that may be the subject of a contract in the first 
+place, see U.S. Br. 36-43). But what respondents them- 
+selves (Winstar Br. 32) term “venerable and sensible 
+rule of construction” does require that such commitments 
+will not be recognized unless they are unmistakable. See 
+U.S. Br. 16-20. Respondents were represented by coun- 
+sel, who could have been expected to know that commit- 
+ments regarding future exercise of federal regulatory au- 
+thority cannot be the product of indirection or ambiguity. 
+
+4. Because the contracts in this case did not contain 
+the promises that respondents claim—and because, under 
+the unmistakability doctrine, they may not be construed 
+
+
+16 
+
+
+to contain those promises—this Court need not reach 
+the question whether the thrift regulators had the au- 
+thority contractually to commit the government not to 
+exercise regulatory authority over respondents for periods 
+of 25 to 40 years. If that issue is reached, however, the 
+Court should conclude that the thrift regulators had no 
+authority to enter into such contracts. See U.S. Br. 36-43. 
+
+a. Glendale argues extensively (Br. 37-39) that the 
+“reserved powers” doctrine, which precludes state gov- 
+ernments from entering into binding contracts regarding 
+essential attributes of sovereignty, would not apply to the 
+type of government contractual commitment allegedly 
+made here. The cases that Glendale cites (Br. 37-38) 
+concern contracts for sales of land by a government 
+entity and contracts concerning the regulation of utility 
+rates, rates of corporate taxation, and the method of 
+payment of debts owed by the government. See, e. g., 
+Wood v. Lovett, 313 U.S. 362, 372 (1941) (sale of 
+land); Appleby v. City of New York, 271 U.S. 364, 380 
+(1926) (same); St. Cloud Pub. Serv. Co. v. City of St. 
+Cloud, 265 U.S. 352, 355 (1924) (utility rates); Russell 
+v. Sebastian, 233 U.S. 195 (1914) (same); American 
+Smelting & Ref. Co. v. Colorado ex rel. Lindsley, 204 
+U.S. 103, 113 (1907) (corporation franchise tax); Lynch 
+v. United States, 292 U.S. 571 (1934) (payment of debts 
+in gold). 
+
+We agree that the cases cited by Glendale do not in- 
+volve the exercise of “reserved powers” that are never 
+subject to contractual restriction. Indeed, the cases we 
+ourselves rely upon have made clear that the govern- 
+ment may—if it does so in unmistakable terms—make 
+enforceable contractual commitments regarding allowable 
+utility rates, see Home Tel. & Tel. Co. v. City of Los 
+Angeles, 211 U.S. 265, 273 (1908), or rates of taxation, 
+see Jefferson Branch Bank v. Skelly, 66 U.S. (1 Black) 
+at 450. Our argument is that Congress should not be 
+deemed to have granted the authority to agency officials 
+
+
+17 
+
+
+to make such regulatory commitments absent an express 
+and completely clear grant of authority to do so. As we 
+note in our opening brief (at 39-40), this Court’s decision 
+
+
+ernment, both its existence and the authority to make it 
+must clearly and unmistakably appear, and all doubts 
+must be resolved in favor of the continuance of the 
+power.” 211 U.S. at 273 (emphasis added). See also, 
+e.g., St. Cloud Public Serv. Co. v. City of St. Cloud, 265 
+
+
+U.S. at 356; City of Paducah v. Paducah Ry., 261 U.S. 
+267, 272 (1923). 
+
+
+This does not mean, as Glendale contends (Br. 41), 
+that “a party seeking to obtain a binding federal contract 
+must obtain special and unprecedented legislation from 
+Congress.“ Where the contract does not involve com- 
+mitments regarding future government regulatory policy. 
+the Home Tel. & Tel. rule has no application. Moreover, 
+even where sovereign regulatory authority is involved. 
+
+
+* Glendale relies (Br. 38) on New Orleans Gas Co. v. Louisiana 
+Light Co., 115 U.S. 650 (1885). There was no question of gov- 
+ernmental authority or clarity of contractual commitment in that 
+case. Yet this Court nonetheless made clear that the contractual 
+grant of an exclusive franchise to a utility company was “not, in 
+any legal sense, to the prejudice of the public health or the pub- 
+lic safety” because the firm’s activities that “prove[] to be in- 
+jurious to the public health, the public comfort, or the public 
+safety, may notwithstanding the exclusive grant to plaintiff, be 
+prohibited by legislation, or by municipal ordinance passed under 
+legislative authority.” Id. at 671, 672. See also id. at 672 (State is 
+not obstruct [ed] in the exercise of her power to provide for the 
+public protection, health, and safety”). Under the logic of re- 
+spondents’ theory, however, FSLIC would have had authority to 
+exempt particular thrifts from capital requirements altogether 
+for decades—or permanently. A contract committing the govern- 
+ment to permit certain thrifts to operate in an unsafe manner 
+would surely obstruct the government’s “power to provide for the 
+public protection, health, and safety.” 
+
+
+18 
+
+
+what is necessary (assuming the authority is of the sort 
+that can be the subject of contract) is clear authorization 
+from Congress for the federal agency to commit the gov- 
+ernment to a particular regulatory policy for the future. 
+As Glendale contends (Br. 40), such grants of authority 
+are rare. Federal agencies generally are not expected to 
+conduct regulatory policy through contractual means.“ 
+
+Glendale attempts (Br. 42-43) to distinguish Home 
+Tel. & Tel. on the ground that federal officials have in- 
+herent general authority to enter into contracts. Even if 
+correct,” that contention is of no assistance to respond- 
+ents. Because the thrift regulators had general statutory 
+authority tjo make contracts,” 12 U.S.C. 1725(c)(3) 
+(1988) (repealed),” the additional existence of inherent 
+
+
+18 The only example of such a contract that respondents suggest 
+(Glendale Br. 41) is the life insurance contract at issue in Lynch 
+v. United States, supra. That contract did not commit the govern- 
+ment to exercise its regulatory authority in any particular way 
+in the future, and its execution therefore did not require an ex- 
+ceptionally clear grant of authority. Moreover, as we point 
+out in our opening brief (at 42), the agency involved had specific 
+authority from Congress to enter into the precise kind of yearly 
+renewable term insurance contracts that it did. In addition, the 
+key terms, providing for the amount of the premium nd the 
+government payment in the event of death or disability, were 
+precisely spelled out in the statute. See Act of Oct. 6, 1917, 
+ch. 105, Art. IV, 40 Stat. 409-410. 
+
+
+1 But see 41 U.S.C. 1l(a) (“No contract * * on behalf of 
+the United States shall be made, unless the same is authorized by 
+law or is under an appropriation adequate to its fulfilment.”); 31 
+U.S.C. 1341 (a) (1) (B). 
+
+
+% In addition to the general authority to make contracts, Glen- 
+dale relies as well (Br. 40) on the former thrift regulators’ au- 
+thority “to guarantee” acquiring institutions “against loss by 
+reason of [their] merging or consolidating” with “an insured 
+institution which is in default * * * [or] in danger of default.” 12 
+U.S.C. 1729(f) (2) (1988) (repealed). The contractual commit- 
+ments respondents allege, however, did not—and did not purport 
+to- guarantee respondents “against loss“ because of the mergers; 
+
+
+19 
+
+
+authority to do the same thing is of no significance. The 
+Home Tel. & Tel. rule is based on the harm that may be 
+caused when regulatory officials enter contracts that com- 
+mit the legislature to certain regulatory policies that, in 
+the public interest, the legislature may seek to change in 
+the future. In those circumstances, a specific delegation 
+of legislative authority to enter into such contracts is 
+required. 
+
+Glendale also attempts (Br. 43) to distinguish Home 
+Tel. & Tel. on the ground that the City of Los Angeles, 
+whose contract was at issue there, “had no authority at 
+all to enter into the contract.” The City of Los Angeles 
+did, however, have very substantial general authority, 
+such as the authority “[t]o exercise all municipal powers 
+necessary to the complete and efficient management and 
+control of the municipal property, and for the efficient 
+administration of the municipal government, whether such 
+powers be expressly enumerated [in the City’s charter] 
+or not, except such powers as are forbidden or are con- 
+trolled by general law.” See 211 U.S. at 275 n.1. More- 
+over, the city charter specifically referred to the proce- 
+dural requirements for the City to “mak[e] any contract.” 
+Ibid. That would clearly have been sufficient to authorize 
+the City to enter procurement contracts—for example, to 
+contract with the phone company for telephone service 
+to be provided to City offices. But contracts committing 
+the City to certain substantive rate regulation policies 
+were another matter. The Court pointedly noted that it 
+could “find no * * * provision in the charter which by 
+any possibility can be held to authorize a contract upon 
+this important and vital subject,” id. at 274 (emphasis 
+added), and that what must “clearly and unmistakably 
+appear” is “that the city had legislative authority to make 
+a contract of exemption from the exercise of the power 
+of regulation,” id. at 277-278 (emphasis added). 
+
+
+they would simply have committed the government to continue to 
+permit respondents to count supervisory goodwill as capital. 
+
+
+20 
+
+
+As Glendale contends (Br. 43), the Court in Home Tel. 
+& Tel. reaffirmed prior precedents holding that contracts 
+regarding rate regulation were binding on the municipali- 
+ties that entered into them. Referring to those cases, the 
+Court explained that “[t]he decisions of this court * * * 
+where a contract of this kind was found and enforced, 
+all show unmistakably legislative authority to enter into 
+the contract.” 211 U.S. at 276 (emphasis added). Each 
+of those cases thus involved, not the general authority “to 
+enter into contracts,” but very specific grants of authority 
+to enter into precisely the contracts at issue.*’ Those 
+cases illustrate that specific authority from the legislature 
+is needed before city (or agency) officials commit the 
+legislature by contract to follow certain regulatory poli- 
+cies. No such specific authority was present here. 
+
+5. We argue in our opening brief (at 43-46) that the 
+“sovereign acts” doctrine derived from this Court’s deci- 
+sion in Horowitz v. United States, 267 U.S. 458, 461 
+(1925), precludes respondents’ claim for breach-of- 
+contract damages, because the alleged “breach” occurred 
+as a result of Congress’s “public and general” decision to 
+restrict or preclude all thrifts from counting intangible 
+
+
+The Court described the two cases cited by Glendale (Br. 
+43)—City of Cleveland v. Cleveland City Ry. Co., 194 U.S. 517 
+(1907), and Vicksburg v. Vicksburg Waterworks Co., 206 U.S. 
+496 (1907)—as, respectively, involving “comprehensive power to 
+contract with street railway companies in respect to the terms and 
+conditions upon which such roads might be constructed, operated, 
+extended and consolidated” and “unrestricted [authority] * * * to 
+provide for the erection and maintenance of a system of water- 
+works to supply said city with water, and to that end to con- 
+tract with a party or parties who shall build and operate water- 
+works.” 211 U.S. at 277. See also id. at 276 (discussing other 
+cases in which authority to enter into regulatory contracts was 
+found, and which involved, respectively, a “contract [that] was 
+in specific terms ratified and confirmed by the legislature” and a 
+contract made “in obedience to an act of the legislature that the 
+rates should be ‘established by agreement between said company 
+and the corporate authorities?) 
+
+
+21 
+
+
+assets as capital for purposes of satisfying federal capital 
+requirements. 
+
+a. Respondents assert (Winstar Br. 45) that “[t]he 
+operating premise of the sovereign acts doctrine is that, 
+where the federal government is acting in distinct capaci- 
+ties as sovereign and as a contractor, in its role as a 
+contractor it is entitled to be treated as if it were a 
+private contracting party—no better, no worse.” They 
+then state (Br. 46) that, “when a contracting party— 
+whether a private party or a government agency—in ef- 
+fect assumes the risk that a change in the law will not 
+occur, and that change does occur so as to impair con- 
+tract performance, the party that assumed that risk will 
+be liable in damages.” 
+
+We have no quarrel with those statements of the law 
+regarding the sovereign acts doctrine. See U.S. Br. 43 
+(“The sovereign acts doctrine is based on a principle of 
+equality between the government and private contrac- 
+tors.”). If the contracts at issue here had included pro- 
+visions in which the government assumed the risk of a 
+change in the governing statutes, the sovereign acts doc- 
+trine would not preclude a breach-of-contract remedy when 
+those statutes were amended to render performance im- 
+possible. See, e.g., Amino Brothers Co. v. United States, 
+372 F.2d 485, 491 (Ct. Cl.) (“The Government cannot 
+make a binding contract that it will not exercise a sov- 
+erign power, but it can agree in a contract that if it 
+does so, it will pay the other contracting party the 
+amount by which its costs are increased by the Govern- 
+ment’s sovereign act.”), cert. denied, 389 U.S. 846 
+(1967). As the original court of appeals panel in this 
+case noted, however, “[a] private party does not neces- 
+sarily promise that Congress will act only for the benefit 
+of his promisee’s interests under the contract.” Pet. App. 
+75a. Under the principle of equality upon which the 
+sovereign acts doctrine rests, the same is true when a 
+federal agency acts in its role as contracting party: the 
+
+
+22 
+
+
+agency as contractor does not automatically assume the 
+risk that Congress will change the law. 
+
+We do disagree with respondents’ contention (Winstar 
+Br. 47) that, in the contracts at issue in this case, the 
+government agreed to “assume [the] risk that future reg- 
+ulatory changes would not interfere with the promised 
+regulatory treatment of supervisory goodwill and capital 
+credits.” There is no provision in respondents’ contracts 
+in which the thrift regulators assumed the risk of a sub- 
+sequent statutory change like FIRREA. See U.S. Br. 28 
+(“no unlawful action” clause shifted risk of legal change 
+to respondents). If respondents’ theory that the FSLIC 
+contracts implicitly assumed the risk of a subsequent 
+sovereign act of another agency were correct, it would 
+swallow up the sovereign acts doctrine entirely. Under 
+respondents’ theory, for example, the contract in Horowitz 
+for delivery of silk that one executive agency signed would 
+implicitly assume the risk that in fact occurred—that 
+another agency would impose a railroad embargo making 
+the government’s performance impossible. In this case, 
+moreover, the contracting agency—the FSLIC—was in a 
+different branch of the government from Congress, whose 
+passage of FIRREA made performance impossible. See 
+Atlas Corp. v. United States, 895 F.2d 745, 754 (Fed. 
+Cir.) (holding sovereign acts doctrine applicable where in- 
+creased cost of contract was the result of statute, despite 
+fact that agency had agreed to adjust price in the event 
+of “unilateral modification [of specifications] by govern- 
+ment”), cert. denied, 498 U.S. 811 (1990). None of 
+the Claims Court or Federal Circuit cases cited by re- 
+spondents, see Winstar Br. 44-45; Glendale Br. 50, in- 
+volved a similar situation. 
+
+b. Respondents argue (Glendale Br. 44-46; Winstar 
+Br. 46) that the sovereign acts doctrine is inconsistent 
+with this Court’s decisions in Lynch and Perry v. United 
+States, 294 U.S. 330 (1935). As the Court noted in 
+POSSE, however, those cases “held that Congress does not 
+have the power to repudiate its own debts, which constitute 
+
+
+23 
+
+
+‘property’ to the lender, simply in order to save money.” 
+477 U.S. at 55. They do not support respondents’ 
+argument. 
+
+In Lynch, the government’s repudiation of its war risk 
+insurance contracts was not part of any general program 
+of regulation of the insurance industry, and the only 
+individuals affected by the repudiation were those who 
+had contracts with the government. Thus, unlike in Hor- 
+owitz, the government program was not “public and 
+general,” and the sovereign acts doctrine could have no 
+application. Indeed, the Court in Lynch carefully noted 
+that the insurance policies could not be annulled “unless, 
+indeed, the action taken falls within the federal police 
+power or some other paramount power,” 292 U.S. at 579, 
+thereby implicitly distinguishing between mere repudiation 
+of a money debt (as in Lynch) and public and general 
+sovereign acts undertaken for the public welfare (as in 
+Horowitz and this case). 
+
+With respect to Perry, respondents rely (Glendale Br. 
+44; Winstar Br. 46) on the fact that Congress’s decision 
+to repudiate the commitments in certain government bonds 
+that they would be repaid in gold was made at the same 
+time as a broader determination that private debts of all 
+kinds may not be paid in gold. Respondents argue from 
+that fact that the attempt unilaterally to alter the terms 
+of the public debt in Perry was part of a “public and gen- 
+eral” act. However, the regulatory purposes underlying 
+the regulation of private debts—primarily, the need to 
+control the value of money in the economy and set it at 
+a rate higher than would have been permitted by tying 
+it to the value of then-scarce gold, see Norman v. Balti- 
+more & O.R.R., 294 U.S. 240, 312-313, 315-316 (1935) 
+—could be accomplished without applying the same mea- 
+sure to alter the terms of existing government debt. 
+Indeed, the purpose of promising repayment of govern- 
+ment bonds in gold initially was “to assure one who lent 
+his money to the Government and took its bond that he 
+would not suffer loss through depreciation in the medium 
+
+
+24 
+
+
+of payment.” Perry, 294 U.S. at 348-349.” To repudiate 
+that promise was “simply in order to save money,” POSSE. 
+477 U.S. at 55—an end that has never been recognized 
+as “public and general” under the sovereign acts doctrine.” 
+c. Finally, Glendale argues (Br. 47) that to apply the 
+sovereign acts doctrine in this case would be “to give 
+[FIRREA] a retroactive effect.“ That contention is in- 
+correct. FIRREA did not impose legal consequences on 
+respondents based on the fact that, at some point in the 
+past, they had counted supervisory goodwill as capital. 
+FIRREA required thrifts to be adequately capitalized in 
+the future. That is the ordinary, prospective operation 
+of a statute, and it raises no retroactivity issues at all. 
+Moreover, if Glendale’s argument were correct, then 
+any recognition of a statute as a “public and general” 
+act that may excuse a breach of contract would be con- 
+trary to retroactivity principles, since any such recog- 
+nition would “retroactively” eliminate a cause of action 
+for breach of contract.“ In the 130-year history of the 
+
+
+22 The Court in Perry also emphasized that the government 
+bonds in that case were issued under the express constitutional 
+authority “[t]o borrow Money on the credit of the United States,“ 
+Art. I, § 8, Cl. 2, and supported by the declaration in Section 4 
+of the Fourteenth Amendment that “[t]he validity of the public 
+debt of the United States, authorized by law, * * shall not be 
+questioned.” See 294 U.S. at 353-354. In light of those provisions, 
+the Court held that the statute, “in so far as it attempted to over- 
+ride the obligation created by the bond in suit, went beyond the 
+congressional power.“ Id. at 354. In this case, there is no doubt 
+that Congress had the authority to alter government policy re- 
+garding capital requirements for thrifts. 
+
+
+2 It should also be noted that the Court determined that the 
+plaintiff in Perry had “fail[ed] to show a cause of action for 
+actual damages,” see 294 U.S. at 358, in light of Congress’s valid 
+action in forbidding the use of gold as legal tender, see generally 
+id. at 357-358. 
+
+
+24 Glendale relies (Br. 45 n.33) on the principle that “a private 
+party cannot claim impossibility based on a supervening law or 
+
+
+25 
+
+
+sovereign acts doctrine, since the Court of Claims first 
+recognized that a statute could be a sovereign act for 
+purposes of the doctrine, see Deming v. United States, 
+1 Ct. Cl. 190, 191 (1865), appeal dismissed, 76 U.S. 
+(9 Wall.) 145 (1870), no court has ever held that stat- 
+utes may not constitute “public and general” acts that 
+can trigger the doctrine. 
+
+
+* * * * * 
+
+
+For the foregoing reasons, and for the reasons set 
+
+
+forth in our opening brief, the judgment of the court 
+of appeals should be reversed. 
+
+
+Respectfully submitted. 
+
+
+Drew S. Days, III 
+Solicitor General 
+
+
+APRIL 1996 
+
+
+decree when its ‘own actions created the condition of impossibility.’ ”’ 
+However, all applications of the sovereign acts doctrine involve 
+cases in which the government—by enacting a statute or taking 
+some other sovereign act—has “created the condition of impossibil- 
+ity” for its own performance. As this Court stated in Horowitz, 
+the rationale of the doctrine is precisely that, in such a case, 
+“(t]he two characters which the government possesses as a con- 
+tractor and as a sovereign cannot be thus fused,” 267 U.S. at 461, 
+so long as the sovereign act that has created the impossibility is 
+a “public and general“ one. 
+
+
+APPENDIX A 
+IN THE UNITED STATES CLAIMS COURT 
+
+
+Action No. 90-772 C 
+(Chief Judge Loren Smith) 
+
+
+GLENDALE FEDERAL BANK, FSB, PLAINTIFF 
+
+
+V. 
+
+
+UNITED STATES OF AMERICA, DEFENDANT 
+
+
+DECLARATION OF PATRICIA LEITNER PURSU- 
+ANT TO CL. CT. R. 56(G) IN OPPOSITION TO 
+PLAINTIFF GLENDALE’S MOTION FOR SUM- 
+MARY JUDGMENT AS TO LIABILITY 
+
+
+I, Patricia Leitner, make the following declaration: 
+
+
+1. I am an attorney employed by the Department of 
+Justice and am counsel of record for the United States 
+
+
+in the above-captioned case. I am familiar with the facts 
+and circumstances of this action, and make this declara- 
+tion pursuant to Rule 56(g) of the Rules of the United 
+States Claims Court in opposition to plaintiffs’ motion 
+for summary judgment. 
+
+2. The United States has argued in Defendant’s Mo- 
+tion to Dismiss that the United States is entitled to dis- 
+missal of plaintiff's claims, and in its Response to Plaintiff's 
+Status Report and Opposition to Plaintiff Glendale’s Mo- 
+tion for Summary Judgment as to Liability, the United 
+States has argued that summary judgment should not be 
+entered in plaintiff's favor. The issues presented may be 
+resolved without resolution of factual issues. For this 
+
+
+(la) 
+
+
+2a 
+
+
+reason, defendant's view has been that discovery is un- 
+necessary and inappropriate in this action. If thi 
+
+determines, however, based upon all of the pleadings 
+and papers presently before it, that no material issues 
+of fact exist at this time, and that, on the current record, 
+plaintiff is entitled to summary judgment as to any claim 
+
+
+issues raised in plaintiff's motion for summary judgment. 
+
+3. Plaintiff alleges, relying upon documents outside 
+its alleged contracts with the FSLIC, that the alleged 
+contracts include provisions that do not appear on their 
+
+
+appear on the face of those contracts. 
+
+4. Defendant has argued that plaintiff has no such 
+contractual rights and that, in any event, plaintiff has 
+no contractual right that can bind the government from 
+taking any action required by law. Should the Court 
+deem plaintiff's claim cognizable, however, defendant will 
+need discovery to obtain facts to determine what plain- 
+tiff understood it had been promised, the basis for this 
+understanding, and what reliance plaintiff placed on any 
+alleged promises it received. 
+
+I declare under penalty of perjury that the foregoing 
+is true and correct. 
+
+
+Executed on: June 15, 1992 
+
+
+s Patricia Leitner 
+PATRICIA LEITNER 
+
+
+3a 
+APPENDIX B 
+
+
+Rule 56 of the Court of Federal Claims Rules provides 
+as follows: 
+
+
+Rule 56. Summary Judgment 
+(a) For claimant 
+
+
+A party seeking to recover upon a claim or counter- 
+claim, or to obtain a declaratory judgment may, at any 
+time after the expiration of 60 days from the commence- 
+ment of the action in this court or after service of a 
+motion for summary judgment by the adverse party, 
+move with or without supporting affidavits for a summary 
+
+
+judgment in such party’s favor upon all or any part 
+thereof. 
+
+
+(b) For defending party 
+
+A party against whom a claim or counterclaim is as- 
+serted or a declaratory judgment it sought may, at any 
+time, move with or without supporting affidavits for a 
+summary judgment in such party’s favor as to all or 
+any part thereof. 
+
+
+(c) Motion and proceedings thereon 
+
+
+The judgment sought shall be rendered forthwith if 
+the pleadings, depositions, answers to interrogatories, and 
+admissions on file, together with the affidavits, if any, 
+show that there is no genuine issue as to any material 
+fact and that the moving party is entitled to a judgment 
+as a matter of law. A summary judgment, interlocutory 
+in character, may be rendered on the issue of liability 
+alone although there is a genuine issue as to the amount 
+of damages. 
+
+
+4a 
+(d) Procedures 
+
+
+The following procedures shall be followed with respect 
+to motions for summary judgment other than in actions 
+seeking review of a decision on the basis of an adminis- 
+trative record: 
+
+
+(1) The moving or cross-moving party shall file, 
+together with its motion, a separate document en- 
+titled Proposed Findings of Uncontroverted Fact. 
+This document shall contain concise, separately num- 
+bered paragraphs setting forth all of the material 
+facts upon which the party bases its motion and as to 
+which the party believes there is no genuine dispute. 
+Each paragraph shall contain citations to the oppos- 
+ing party's pleadings or to documentary evidence, 
+such as affidavits or exhibits, filed with the motion 
+or otherwise part of the record in the case. 
+
+(2) The opposin, arty shall file, together with its 
+opposition or cross-motion, a separate document 
+entitled Statement of Genuine Issues. This document 
+shall respond by reference to specific paragraph num- 
+bers to those proposed findings of uncontroverted 
+fact as to which it claims there is a genuine dispute. 
+The party shall state the precise nature of its disagree- 
+ment and give its version of the events, supported 
+by record citations. The opposing party may also file 
+proposed findings of uncontroverted fact as to any 
+relevant matters not covered by the moving party's 
+statement. 
+
+(3) The parties may dispense with the documents 
+called for in subdivision (d)(1)-(2) of this rule if 
+they file, no later than the time of the initial motion, 
+a comprehensive stipulation of all of the material 
+facts upon which they intend to rely. 
+
+
+In determining any motion for summary judgment, 
+the court will, absent persuasive reason to the contrary, 
+deem the material facts claimed and adequately supported 
+
+
+interrogatories, further affidavits. 
+When a motion for summary judgment is made and sup- 
+ported as provided in this rule, an adverse party may 
+not rest upon the mere allegations or denials of such 
+partys pleading, but such party’s response, by affidavits 
+
+
+6a 
+
+
+or as otherwise provided in this rule, must set forth specific 
+facts showing that there is a genuine issue for trial. If 
+
+
+such party does not so respond, summary judgment, if 
+appropriate, shall be entered against such party. 
+
+
+(g) When affidavits are unavailable 
+
+
+Should it appear from the affidavits of a party opposing 
+the motion that such party cannot for reasons stated pre- 
+sent by affidavit facts essential to justify such party’s 
+opposition, the court may refuse the application for judg- 
+ment or may order a continuance to permit affidavits to 
+be obtained or depositions to be taken or discovery to be 
+had or may make such other order as is just. 
+
+
+(h) Affidavits made in bad faith 
+
+
+Should it appear to the satisfaction of the court at any 
+time that any of the affidavits presented pursuant to this 
+rule are presented in bad faith or solely for the purpose of 
+delay, the court shall forthwith order the party employing 
+them to pay to the other party the amount of the reason- 
+able expenses which the filing of the affidavits caused the 
+other party to incur, including reasonable attorney’s fees, 
+and any offending party or attorney may be adjudged 
+guilty of contempt. 
+
+
+r ©. „ Govendudet riimtine ofricd, 1996 408017 40114 
+
+

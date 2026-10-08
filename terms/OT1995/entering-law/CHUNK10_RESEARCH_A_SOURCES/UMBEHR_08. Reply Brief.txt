@@ -1,0 +1,682 @@
+a 
+
+
+No. 94-1654 
+
+
+In The 
+
+
+Supreme Court of the United States 
+October Term, 1995 
+
+
++ 
+
+
+GLEN HEISER and GEORGE SPENCER, 
+
+
+Petitioners, 
+
+
+KEEN A. UMBEHR, 
+Respondent. 
+
+
++ 
+
+
+On Writ Of Certiorari To The 
+United States Court Of Appeals 
+For The Tenth Circuit 
+
+
+« 
+
+
+REPLY BRIEF OF PETITIONERS 
+
+
+7 
+
+
+*DONALD PATTERSON 
+
+Steve R. FAsert 
+FisHER, PATTERSON, SAYLER & SmitH, L.L.P. 
+534 S. Kansas Avenue, Suite 400 
+P.O. Box 949 
+Topeka, Kansas 66601-0949 
+(913) 232-7761 
+Attorneys for Petitioners 
+“Counsel of Record 
+
+
+COCKLE LAW BRIEF PRINTING CO., (800) 225-6964 
+OR CALL COLLECT (402) 342-2831 
+
+
+/BEST AVAILABLE COPY eta 
+
+
+i 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+RESPONSE TO STATEMENT OF FACTS ........... 1 
+ARGUMENT AND AUTHORITIES................. 4 
+
+
+I. RESPONDENT HAS PRESENTED NO JUSTI- 
+FICATION FOR EXTENDING CONSTITU- 
+TIONAL PROTECTION TO HIS TRASH 
+oo sy ere ee eee 4 
+
+
+Il. THERE IS NO RATIONAL BASIS FOR GIVING A 
+GOVERNMENTAL AGENCY LESS DISCRETION 
+TO TERMINATE A CONTRACTOR THAN IT HAS 
+
+
+III. RESPONDENT HAS MISAPPREHENDED 
+BASIC PRINCIPLES OF THE LAW OF LEGIS- 
+LATIVE IMMUNITY AND CIVIL RIGHTS.... 11 
+
+
+SENT 6 60h 0 bd Wb duebbad nde Otc vesicowconene 13 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+CASES 
+Albright v. Oliver, __ U.S. __, 127 L.Ed.2d 114, 
+114 S.Ct. G07 (1994) ....ccccocscvcssacccusseeannees 12 
+Arnett v. Kennedy, 416 U.S. 134, 40 L.Ed.2d 15, 94 
+S.Ct. 1633 (1974). ...ccccccccssdecuscectusweeeseeeues 5 
+Boyle v. United Technologies Corp., 487 U.S. 500, 
+101 L.Ed.2d 442, 108 S.Ct. 2510 (1988) ............. 9 
+Broadrick v. Oklahoma, 413 U.S. 601, 37 L.Ed.2d 
+830, 98 S.Ct. 2908 (1G7S)... ve ccccetesudutseseueess 7 
+Bush v. Lucas, 462 U.S. 367, 76 L.Ed.2d 648, 103 
+S.Ct. 2406 (1963)... .ccccccsevevesucubeeweuneueune 12 
+Cafeteria Workers v. McElroy, 367 U.S. 886, 6 
+L.Ed.2d 1230, 81 S.Ct. 1743 (1961) ...........---45. 9 
+Connick v. Myers, 461 U.S. 138, 75 L.Ed.2d 708, 
+108 S.Ct. 1686 (1983) ...ccccccvecccesssuscenene 4,5, 6 
+Fry v. Board of County Commissioners of Baca 
+Co., 7 F.3d 986 (20 Cie. A905)... cc sscsccccssscsceus 11 
+Greene v. McElroy, 360 U.S. 474, 3 L.Ed.2d 1377, 79 
+S.Ce. 1609 (BSGD). .. cccccccccncecetnsenneeeeennnee 9 
+Hudson v. Palmer, 468 U.S. 517, 82 L.Ed.2d 393, 
+106 S.Ct. 3196 (190G) ...crcccccaceseueuunneeneeeen 12 
+Lake Country Estates, Inc. v. Tahoe Regional Plan- 
+ning Agency, 440 U.S. 391, 59 L.Ed.2d 401, 99 
+S.CR. 1171 (A079). .. ccccccecescnssuuuneeenennenenae 11 
+Lefkowitz v. Cunningham, 431 U.S. 801, 53 
+L.d.2d 1, 97 SCL. ZiSB (BG07). 20 cccunccccsensauen 10 
+Lefkowitz v. Turley, 414 U.S. 70, 38 L.Ed.2d 274, 94 
+SCR. S16 (19739)... 0c ccvceveceeueueunnneeeeeee 10 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+Logan v. Zimmerman Brush Co., 455 U.S. 422, 71 
+L.Ed.2d 265, 102 S.Ct. 1148 (1982) ................ 12 
+Missouri v. Jenkins, 495 U.S. 33, 109 L.Ed.2d 31, 
+EEE 12 
+National Private Truck Council, Inc. v. Okla.Tax 
+Com’n, __ U.S. __, 132 L.Ed.2d 509, 115 S.Ct. 
+EEE LE 12 
+Parratt v. Taylor, 451 U.S. 527, 68 L.Ed.2d 420, 101 
+eRe see Seebcesccesécccecccceses 12 
+Pickering v. Bd. of Education of Township High 
+School District, 391 U.S. 563, 20 L.Ed.2d 811, 88 
+eee Rees enccocccceseesecccoccss 4,8 
+Rendell-Baker v. Kohn, 457 U.S. 830, 73 L.Ed.2d 
+GEEEDsccecccccccccceccccccecess 4 
+Rosenberger v. Rector and Visitors of the Univ. of 
+Virginia, __ U.S. ___, 132 L.Ed.2d 700, 115 S.Ct. 
+Er eheedbeesccccecsccoccccccccce ) 
+T v. Brandhove, 341 U.S. 367, 95 L.Ed. 1019, 
+cece cbeoesesecctcceccccecscs 11 
+Umbehr v. Board of Wabaunsee County Com’rs, 
+843 P.2d 176, 252 Kan. 30 (1992)..............605. 13 
+Zinermon v. Burch, 494 U.S. 113, 108 L.Ed.2d 100, 
+eee dnd ecccbeedcessoecccccces 12 
+STATUTES 
+eee eek tesseceuccceccccccccce 3, 13 
+
+
+RESPONSE TO STATEMENT OF FACTS 
+
+
+Respondent’s Statement of Facts is filled with 
+numerous matters which are entirely irrelevant to the 
+claims made by him in this lawsuit. The sole action which 
+respondent has ever alleged as a legal basis for the viola- 
+tion of his First Amendment rights was the vote to termi- 
+nate his contract in 1991. All of the other activities 
+described in respondent's brief, from disputes over access 
+to public records to the raising of landfill rates, have 
+never been alleged as violations of his First Amendment 
+rights. The Kansas Supreme Court expressly noted in the 
+parallel litigation in which respondent attempted to roll 
+back a landfill rate hike that there had never been any 
+allegation that the rate hike was enacted in violation of 
+Mr. Umbehr’s First Amendment rights. 
+
+
+Respondent does not deny that all of his activities 
+were performed in pursuit of his quest for personal polit- 
+ical power, as a candidate for office as a county commis- 
+sioner. He has not denied that all of his public comments 
+ceased as soon as he lost the election. He does not con- 
+tend that he was motivated by any purpose other than a 
+desire for personal political power and economic gain. 
+
+
+Although he recognizes the clear conflict of interest 
+inherent in having the operator of a lucrative contract 
+with the county become a member of the county commis- 
+sioners, citing a statute which would prohibit him from 
+voting on the renewal of his contract had he been elected, 
+he acknowledges no legal limit on his right to exercise the 
+powers of the office he sought for the purpose of revers- 
+ing the landfill rate hike or maintaining the availability of 
+the county landfill for the dumping of refuse collected by 
+
+
+1 
+
+
+him, even if the decision to do so would have been 
+detrimental to the county. 
+
+
+Respondent refers to no evidence that the decision to 
+terminate his contract was in any way motivated by a 
+desire to silence his publications or was determined by 
+the viewpoint expressed by him. To the contrary, he 
+quotes the testimony of one commissioner whose motiva- 
+tion was to move Umbehr to another forum where the 
+county commission would not be compelled to listen to 
+him. Clearly the disruptive effect of Umbehr’s activities 
+was substantial, and his methods materially interfered 
+with the functions of the board and caused near breaches 
+of the peace in commission meetings. All of the events 
+cited by respondent in support of his claim to the protec- 
+tion of the First Amendment really show instead that he 
+was no more than a personal foe of the members of the 
+commission, who attempted to monopolize the time and 
+resources of the county commission to listen to his per- 
+sonal complaints in derogation of the rights of other 
+members of the public to be heard. 
+
+
+Respondent's suggestion that the need to free the 
+county from the existing contract to permit consideration 
+of new financing options and, if necessary, to permit the 
+closure of the landfill was merely pretextual is seriously 
+misleading. Although not reflected in the record because 
+the motions which decided the case were filed four years 
+ago, the county landfill has in fact since been closed, an 
+event which would have been legally wrongful had Mr. 
+Umbehr’s contract not been terminated. 
+
+
+The arguments presented by respondent presume, 
+without discussion or analysis, that any action taken 
+
+
+against his wishes must be considered a legal wrong, 
+giving rise to a cause of action under 42 U.S.C. § 1983. 
+The cases relied upon by respondent involve actions 
+which disadvantaged persons who had engaged in First 
+Amendment protected activities, in comparison to others 
+who had not engaged in such activities. No such circum- 
+stance is present here. The termination of Mr. Umbehr’s 
+contract left him in exactly the same position as any other 
+member of the general public who had never made any 
+public comment offensive to Petitioners. He did not even 
+suffer any monetary loss that appears in the record, since 
+he was able to increase the rates charged five of the six 
+cities which he had previously serviced once the contract 
+had been terminated. There is no evidence that any per- 
+son was favored over him in any dealings with the 
+county. There is no suggestion that the County Commis- 
+sion in any way discriminated against him on the basis of 
+the viewpoint expressed in his various public appear- 
+ances. This fact distinguishes the present case from the 
+authorities cited on pages 21-24 of respondent's brief. 
+
+
+Respondent’s arguments at pages 28-32 of his brief 
+also avoid addressing the merits of the issue presented to 
+the court here. Whether governmental agencies do or do 
+not have a higher or lower interest in regulating the 
+content of the speech of independent contractors than 
+they have in regulating the content of the speech of 
+employees has no bearing on the relative significance of 
+the governmental agency’s right to control its own opera- 
+tions. This case involves no attempt to regulate the con- 
+tent of anyone’s speech, whether that person is viewed as 
+an employee or an independent contractor. If anything, 
+respondent, not petitioners, is seeking to regulate speech, 
+
+
+by punishing petitioners for their personal comments in 
+response to his offensive accusations against them. This 
+case confronts the court not with a contention that inde- 
+pendent contractors should not have as much freedom as 
+governmental employees from regulation of the content 
+of their speech, but with the more basic question of 
+whether they have the right to seize control of the func- 
+tions of government by making utterances that are seri- 
+ously disruptive of governmental operations and 
+threatening suit if their demands for economic advantage 
+are not met. 
+
+
+7 
+
+
+ARGUMENT AND AUTHORITIES 
+
+
+I. RESPONDENT HAS PRESENTED NO JUSTIFICA- 
+TION FOR EXTENDING CONSTITUTIONAL PRO- 
+TECTION TO HIS TRASH HAULING CONTRACT. 
+
+
+Respondent's brief omits all reference to a key ele- 
+ment of the test of Pickering v. Bd. of Education of Township 
+High School District, 391 U.S. 563, 20 L.Ed.2d 811, 88 S.Ct. 
+1731 (1968), requiring the court to consider not only the 
+effect of a public servant's activities on his or her own 
+work, but also the effect of the speech activities on the 
+efficient functioning of the operations of the govern- 
+mental employer as a whole. Pickering acknowledged the 
+relevance of any possible disruption of the activities of 
+others, and not just interference with the speaker’s own 
+activities, without articulating how that consideration 
+might be applied. See, 391 U.S. at page 573. This principle 
+was described in greater detail and applied in Connick v. 
+Myers, 461 U.S. 138, 75 L.Ed.2d 708, 103 S.Ct. 1684 (1983). 
+In Connick the court expressly concluded that the plaintiff 
+
+
+employee's activities were protected by the First Amend- 
+ment and did not impede her own ability to perform her 
+responsibilities. Despite these considerations the plain- 
+tiff’s firing was deemed to be constitutionally permissible 
+as a matter of law because her activities threatened to 
+disrupt the work of co-employees. The supervising per- 
+sonnel testified that they considered the employee's con- 
+duct to be “an act of insubordination which interfered 
+with working relationships.” See 461 U.S. at 151, fn. 11. 
+The Connick opinion went on to state that the Constitu- 
+tion did not require an employer to allow events to 
+unfold to the extent that the disruption of the office and 
+the destruction of working relationships is manifest 
+before taking action. See 461 U.S. at 152, fn. 12. In reach- 
+ing this conclusion, the court relied in part on the sepa- 
+rate opinion of Justice Powell in Arnett v. Kennedy, 416 
+U.S. 134, 40 L.Ed.2d 15, 94 S.Ct. 1633 (1974), quoting the 
+following comments: 
+
+
+To this end, the Government, as an employer, 
+must have wide discretion and control over the 
+management of its personnel and internal 
+affairs. This includes the prerogative to remove 
+employees whose conduct hinders efficient 
+operation and to do so with dispatch. Prolonged 
+retention of a disruptive or otherwise unsat- 
+isfactory employee can adversely affect disci- 
+pline and morale in the work place, foster 
+disharmony, and ultimately impair the effi- 
+ciency of an office or agency. 
+
+
+See 461 U.S. at 151. 
+
+
+Respondent's brief nowhere addresses this aspect of 
+the law, preferring instead to focus exclusively on the 
+lack of any proven interference of Mr. Umbehr’s First 
+
+
+Amendment activities with his own operations. The lack 
+of discussion of the rule of Connick is obviously a result of 
+respondent’s complete inability to justify his claims 
+under that rule of law. The recitation of facts appearing in 
+respondent's brief clearly indicates a chronically disrup- 
+tive attitude by him. His activities induced the Board to 
+take steps which were detrimental to its functioning, 
+including scheduling potentially unlawful closed meet- 
+ings. Mr. Umbehr’s disruption was so severe that he 
+generated obvious antagonism with board members, as is 
+evidenced by the exchange of harsh language quoted in 
+respondent's brief. The discovery record also revealed 
+that Mr. Umbehr’s activities so irritated one key county 
+employee that he resigned his employment. Plainly, if Mr. 
+Umbehr had been an employee he could have been fired 
+with full constitutional justification under the test of Con- 
+nick v. Myers, supra. The termination of Mr. Umbehr’s 
+contract served the same purpose that firing him as an 
+employee would have served. It turned him into just 
+another member of the general public, with no greater 
+access to information about county operations than 
+others and no special claim to the time or attention of the 
+Board of County Commissioners. 
+
+
+There is no reason why the constitutional interest of 
+the people and their elected representatives in the effi- 
+cient operation of governmental functions should be 
+ignored when the person who seeks to usurp public 
+functions to himself and interfere with the smooth opera- 
+tion of governmental business is not a common law 
+employee. Mr. Umbehr’s activities were especially intru- 
+sive upon the smooth functioning of local government 
+because he had a contractual right to demand that the 
+
+
+county landfill be kept open for his use, and because that 
+fact gave him an excuse to monopolize time at the county 
+commission meetings. By terminating the contract the 
+county commissioners gained relief from Mr. Umbehr’s 
+unwarranted intrusions into their deliberations. 
+
+
+The contention of respondent that local government 
+may not take action contrary to his economic interests in 
+response to statements made by him in the course of a 
+political campaign are squarely refuted by this court's 
+decision in the case of Broadrick v. Oklahoma, 413 U.S. 601, 
+37 L.Ed.2d 830, 93 S.Ct. 2908 (1973). In that case a state 
+statute which prohibited government employees even 
+from becoming a candidate for public office was affirmed 
+under a test of strict scrutiny. Respondent has repeatedly 
+sought to analogize his status as an independent contrac- 
+tor with the status of government employees. 
+
+
+If the State of Kansas and its subdivisions can require 
+the termination of any public employee who decides to 
+run for political office, it can also certainly allow the 
+termination of any independent contractor performing 
+public services who elects to become a candidate for 
+political office. In fact, Kansas has elected to prohibit 
+public servants from taking office as county commission- 
+ers. See Kansas Statutes Annotated 19-205, which states 
+in pertinent part that no person holding any state, county, 
+township or city office shall be eligible to the office of 
+county commissioner in any county. All of Mr. Umbehr’s 
+comments were made during the course of his political 
+campaign for the office of county commissioner. 
+
+
+Because the First Amendment would permit a per se 
+rule requiring termination of his public servant position 
+
+
+if he became a political candidate at any level, it certainly 
+will tolerate his termination for seeking an office where 
+he would have clear and direct conflict of interest. 
+Respondent admits at page 10 of his brief that had he 
+won election to the commission, he would have had a 
+sufficient conflict of interest to be required to abstain 
+from voting on any issue pertaining to trash collection. 
+The Constitution does not limit the county’s remedies for 
+such a conflict of interest to an admonition to abstain 
+from voting on legal action against him, once he has cast 
+a prohibited vote. The county is permitted to require that 
+the conflict of interest never arise, by mandating a termi- 
+_nation of the relationship-before the public servant is 
+even elected to office. 
+
+
+Il. THERE IS NO RATIONAL BASIS FOR GIVING A 
+GOVERNMENTAL AGENCY LESS DISCRETION 
+
+
+TO TERMINATE A CONTRACTOR THAN IT HAS 
+
+
+TO TERMINATE AN EMPLOYEE. 
+
+
+The legitimate right of governments to control their 
+own operations as articulated in Pickering v. Bd. of Educa- 
+tion of Township High School District, 391 U.S. 563, 20 
+L.Ed.2d 811, 88 S.Ct. 1731 (1968), cannot rationally be 
+limited only to those persons who qualify as civil ser- 
+vants or who have a common law contract of employ- 
+ment qualifying them as servants for whose actions the 
+employer is legally responsible. It is the activity per- 
+formed by the person against whom sanctions have been 
+imposed, not their contractual status, which creates the 
+right of control. Similarly it is the degree of interference 
+with governmental operations, not the performance of 
+the contract of employment or the public nature of the 
+
+
+speech involved, which makes it appropriate for the gov- 
+ernment to take action in response to speech. 
+
+
+Governmental agencies have a peculiar relationship 
+with contractors to whom they delegate portions of their 
+responsibility to afford services to the general public. The 
+government may have only limited rights to control the 
+activities of individual employees of a governmental con- 
+tractor, for example, see, Greene v. McElroy, 360 U.S. 474, 3 
+L.Ed.2d 1377, 79 S.Ct. 1400 (1959); Cafeteria Workers v. 
+McElroy, 367 U.S. 886, 6 L.Ed.2d 1230, 81 S.Ct. 1743 (1961). 
+Neither the independent contractor nor its employees 
+will be treated as servants, whose wrongful acts impose 
+liability on the governmental principal, even if the con- 
+tractor works exclusively for the government and earns 
+no outside income. See, Rendell-Baker v. Kohn, 457 U.S. 
+830, 73 L.Ed.2d 418, 102 S.Ct. 2764 (1982). Because gov- 
+ernment contractors may be performing essential services 
+in behalf of the government, however, they will not be 
+treated the same as private businesses supplying services 
+on the open market, and may appropriately be granted 
+immunity from civil liability for acts performed in fur- 
+therance of the government's business See, Boyle v. United 
+Technologies Corp., 487 U.S. 500, 101 L.Ed.2d 442,108 S.Ct. 
+2510 (1988). Just last term this Court held that the use of 
+an independent contractor to supply printing services for 
+the benefit of a religious organization was constitu- 
+tionally indistinguishable from the use of governmental 
+employees for the same purpose. In Rosenberger v. Rector 
+and Visitors of the Univ. of Virginia, __ US. __, 132 
+L.Ed.2d 700, 115 S.Ct. 2510 (1995), a majority of the court 
+held that independent printing contractors who were 
+paid governmental funds for the preparation of religious 
+
+
+10 
+
+
+publications could be treated the same as governmental 
+employees, rather than being treated as agents of the 
+religious organization, for the purpose of applying the 
+Establishment Clause of the First Amendment. This Court 
+has also held that independent contractors could be 
+treated the same as governmental employees in analyzing 
+the scope of protections afforded persons who invoke 
+their rights under the Fifth Amendment. See, Lefkowitz v. 
+Turley, 414 U.S. 70, 38 L.Ed.2d 274, 94 S.Ct. 316 (1973), and 
+Lefkowitz v. Cunningham, 431 U.S. 801, 53 L.Ed.2d 1, 97 
+S.Ct. 2132 (1977) 
+
+
+There is no public interest to be served in granting 
+special privileges to governmental contractors. Indepen- 
+dent contractors bargain for their economic rights, and 
+serve the public interest only as long as their services are 
+needed. When the benefits provided by the contractor are 
+outweighed by the burdens perceived by the people and 
+their elected representatives, the contract should be ter- 
+minated. No contractor should be allowed to rewrite the 
+terms of an agreement which expressly gives the people 
+the right to exercise unfettered discretion in deciding 
+when the burdens of continuing the relationship are too 
+great. Any suggestion that the people’s opinion should be 
+ignored must be based on the private interests of the 
+contractors and those who derive economic benefit from 
+them, rather than the public interest. If the public interest 
+requires an assurance of continuity in the relationship, 
+contractual guarantees against termination can be negoti- 
+ated openly and fairly. There is no need for judicial 
+imposition of tenure rights which are not the result of an 
+honest agreement between the parties to the contract. 
+Politicians may have an interest in protecting the rights of 
+
+
+a 
+
+
+11 
+
+
+contractors who make campaign contributions, but this 
+interest is not the public interest. The contracts of cam- 
+paign contributors are no more deserving of protection 
+than any other political appointment handed out as spoils 
+by politicians. 
+
+
+Ill. RESPONDENT HAS MISAPPREHENDED BASIC 
+PRINCIPLES OF THE LAW OF LEGISLATIVE 
+IMMUNITY AND CIVIL RIGHTS 
+
+
+Respondent's brief suggests that legislative immunity 
+would not prevent recovery against an employer, but 
+would only protect individual actors from personal judg- 
+ments. Respondent also suggests that a federal civil 
+rights remedy should be available even if an adequate 
+state court remedy already exists, because the doctrine of 
+exhaustion of administrative remedy does not apply to 
+civil rights actions. Respondent has misconstrued the law 
+on both of these issues. 
+
+
+The doctrine of legislative immunity is broader than 
+the doctrine of qualified immunity. Legislative immunity 
+prevents the recovery of damages not only from individ- 
+ual actors, but also from the governmental entity itself. 
+See, for example, Fry v. Board of County Commissioners of 
+Baca Co., 7 F.3d 936 (10th Cir. 1993); Lake Country Estates, 
+Inc v. Tahoe Regional Planning Agency, 440 U.S. 391, 59 
+L.Ed.2d 401, 99 S.Ct. 1171 (1979); Tenney v. Brandhove, 341 
+U.S. 367, 95 L.Ed. 1019, 71 S.Ct. 783 (1951). The opinion of 
+the Tenth Circuit Court of Appeals in this matter did not 
+hold otherwise, contrary to the comments in Respon- 
+dent’s brief at pp. 44-45. The Tenth Circuit did not rule 
+that legislative immunity either did not apply or would 
+be unavailing against official capacity claims. Instead, its 
+
+
+12 
+
+
+opinion stated that the applicability of legislative immu- 
+nity was a “close question”, lending credence to the 
+application of qualified immunity to the claims against 
+petitioners in their individual capacities. 
+
+
+This court has long recognized that federal courts 
+should not interfere with the operations of state govern- 
+ment where there is an adequate remedy under state law, 
+and that relief under 42 U.S.C. § 1983 is not available 
+where the adequacy of the remedy available in state court 
+renders that relief unnecessary. See, for example, National 
+Private Truck Council, Inc. v. Okla. Tax Com’n, ___ U.S. __, 
+132 L.Ed.2d 509, 115 S.Ct. 2351 (1995); Albright v. Oliver, 
+___ U.S. __, 127 L.Ed.2d 114, 114 S.Ct. 807 (1994); Parratt 
+v. Taylor, 451 U.S. 527, 68 L.Ed.2d 420, 101 S.Ct. 1908 
+(1980). General principles of judicial comity also require 
+federal courts to respect the integrity and function of 
+local governmental institutions which are ready, willing 
+and able to remedy any deprivation of constitutional 
+rights. See, Missouri v. Jenkins, 495 U.S. 33, 109 L.Ed. 2d 31, 
+110 S.Ct. 1651 (1990); Bush v. Lucas, 462 U.S. 367, 76 
+L.Ed.2d 648, 103 S.Ct. 2404 (1983). The adequacy of state 
+law remedies clearly is relevant in determining whether a 
+remedy will be made available under 42 U.S.C. § 1983, 
+which is the statutory provision invoked by the plaintiff 
+in this case. See, Zinermon v. Burch, 494 U.S. 113, 108 
+L.Ed.2d 100, 110 S.Ct. 975 (1990); Hudson v. Palmer, 468 
+U.S. 517, 82 L.Ed.2d 393, 104 S.Ct. 3194 (1984). The ade- 
+quacy of remedies available under the laws of Kansas in 
+its own courts would become irrelevant only if Mr. 
+Umbehr could show that he was a victim of an estab- 
+lished procedure, rather than a single instance of person- 
+ally motivated retaliatory conduct. See, Logan uv. 
+
+
+13 
+
+
+Zimmerman Bruch Co., 455 U.S. 422, 71 L.Ed.2d 265, 102 
+S.Ct. 1148 (1982). 
+
+
+Petitioners are not asking this court to deprive any 
+plaintiff of a federal remedy where a content-based prior 
+restriction of the rights of independent contractors is 
+adopted as a matter of policy. Because we are dealing 
+here only with a post-speech retaliatory sanction imposed 
+by individuals allegedly for their personal gratification 
+rather than pursuant to any governmental policy, the rule 
+of Parratt would plainly apply to prevent any remedy 
+under § 1983 so long as an adequate remedy is available 
+in Kansas courts. Respondent apparently does not deny 
+that a fully adequate remedy is available under Kansas 
+law, as established in his own parallel lawsuit reported as 
+Umbehr v. Board of Wabaunsee County Com’rs, 843 P.2d 176, 
+252 Kan. 30 (1992). 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, petitioners adopt the con- 
+clusions stated in their initial brief. 
+
+
+Respectfully submitted, 
+
+
+Steve R. Fasert 
+
+DONALD PATTERSON 
+
+FisHER, PATTERSON, SAYLER & 
+Smitn, L.L.P. 
+
+534 S. Kansas Avenue 
+
+Suite 400, P.O. Box 949 
+
+Topeka, Kansas 66601-0949 
+
+(913) 232-7761 
+
+Attorneys for Petitioners 
+
+

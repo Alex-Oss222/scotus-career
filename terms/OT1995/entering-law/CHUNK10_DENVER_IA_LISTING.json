@@ -1,0 +1,32 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 363,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:&quot;95-124&quot; OR text:&quot;95-124&quot; OR text__reviews:&quot;95-124&quot;) OR (text:&quot;95-227&quot; OR text:&quot;95-227&quot; OR text__reviews:&quot;95-227&quot;) OR title:&quot;Denver Area&quot;)",
+      "qin": "collection:us-supreme-court AND (&quot;95-124&quot; OR &quot;95-227&quot; OR title:&quot;Denver Area&quot;)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 30,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 3,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40385013_0640",
+        "title": "Denver Area Educational Telecommunications Consortium, Inc. v. Federal Communications Commission, 516 U.S. 1091 (1996) (No. 95-227)"
+      },
+      {
+        "identifier": "micro_IA40386016_2136",
+        "title": "Hayes v. Denver Area Area Meat Meat Cutters and and Employers Employers Pension Pension Plan Plan (No. 06-1089)"
+      },
+      {
+        "identifier": "micro_IA40385013_0634",
+        "title": "Denver Area Ed. Telecommunications Consortium, Inc. v. FCC, 518 U.S. 727 (1996) (No. 95-124)"
+      }
+    ]
+  }
+}

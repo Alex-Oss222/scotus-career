@@ -1,0 +1,2357 @@
+BEST AVAILABLE CO 
+
+
+QUESTION PRESENTED 
+
+
+3 Whether and to what extent the First 
+Amendment protects independent contractors from retaliatory 
+termination based on the content of their speech. 
+
+
+TABLE OF CONTENTS 
+PAGE 
+STATEMENT OF THE CASE ............-.. 2 
+1. The Contractual Relationship Between the Parties 2 
+2. Respondent’s First Amendment Activities and 
+the Commissioners’ Response ............ 3 
+5. Procpeiimes Below . cee 12 
+Ee 15 
+I. Retaliation Against Independent Contractors 
+For Speech On Matters Of Public Concern Can 
+Be Justified Only By A Compelling Interest .... 17 
+A. Speech On Matters Of Public Concern, 
+Regardless Of The Identity Of The Speaker, 
+Is Entitled To The Utmost Protection...... 17 
+B. Termination Of A Public Contract In 
+Retaliation For Speech Impermissibly 
+Restricts Protected Expression .......... 20 
+C. Unlike The Public Employment Context, 
+The Government Has No Special Interests 
+In Regulating The Speech of 
+Independent Contractors .............. 28 
+
+
+D. Regardless Of The Test Applied, 
+Termination Of Respondent's Contract 
+Based On The Speech: Involved In 
+This Case Would Violate 
+The First Amendment ............... 
+
+
+1. Under Strict Scrutiny, Termination of 
+Respondent’s Contract Based On His 
+Speech Would Be Impermissible.... . . . 
+
+
+2. Even Under Pickering, Respondent's 
+Interest In Speaking Would Outweigh 
+The County’s Interest In Regulating 
+E'S Own Wee CW ceecess 
+
+
+Petitioners Have Failed To Articulate Any 
+Coherent Theory For Either Eliminating 
+
+Or Severely Restricting The First Amendment 
+Rights Of Independent Contractors ......... 
+
+
+A. Local Officials Neither Need Nor Possess 
+Authority To Abrogate Constitutional 
+Guarantees To Exercise Appropriate Control 
+Over Their Contractual Relationships .... . 
+
+
+B. The Tenth Amendment Does Not Authorize 
+The Violation Of Other Constitutional 
+Provisions ..............0200500.- 
+
+
+C. Viewpoint-Based Retaliation Cannot Be 
+
+
+Characterized As An Incidental 
+Restriction On Speech .............. 
+
+
+Ill. | The Commissioners’ Assorted Defenses Are 
+Both Procedurally Barred And Inapplicable . . 
+
+
+1. The alleged default for non-payment 
+of landfill rates provides no defense 
+
+
+2. The Commissioners have never 
+alleged they had "mixed motives" 
+for terminating the contract.......... 
+
+
+3. The Commissioners have never alleged 
+respondent is a "policy maker" ....... 
+4. The Commissioners did not rely on an 
+
+
+erroneous understanding of respondent's 
+
+
+5. There is no obligation to exhaust state 
+judicial remedies prior to pursuing a 
+federal constitutional claim 
+SG GE 6 UN 6c CUS eee wen 
+
+
+CRESS SN ec reeneanes ost UH eens 
+
+
+iv 
+
+
+46 
+
+
+46 
+
+
+TABLE OF AUTHORITIES 
+CASES: PAGE 
+
+
+Abercrombie v. City of Catoosa, 896 
+
+
+F.2d 1228 (10th Cir. 1990) ................ 25 
+Ambrose v. Knotts, 865 F. Supp. 342 
+
+ee ec 4c kcs eee ss 29 
+Barenblatt v. United States, 360 
+
+I ee i a sb Ss bese ws 41 
+Blackburn v. City of Marshall, 
+
+RR passim 
+Board of Education v. Barnette, 319 
+
+I ee 44 
+Board of Regents v. Tomanio, 446 
+
+ee 50 
+Brandenburg v. Ohio, 395 U.S. 444 
+
+sas ss ss ve oe oe a ee 0 8a 60 ee 42 
+Branti v. Finkel, 445 U.S. 507 
+
+ihe ch es ean kh és aes hee 8c eee 6 ee es 27 
+Broadrick v. Oklahoma, 413 U.S. 601 
+
+te as re eee a eh og é 6 68 6 0 & 0 es 48 
+Caspari v. Bohlen, 114 S. Ct. 948 
+
+ET a eee ee ae 44 
+Chaplinsky v. New Hampshire, 315 
+
+a ey or 42 
+City of Richmond v. Croson Co. , 488 
+
+Eee ae ea 43 
+Connick v. Myers, 461 U.S. 138 
+
+RN ee ee eee 18, <0, 29, 33 
+Copsey v. Swearingen, 36 F.3d 1336 
+
+Ee 25, 31 
+Dolan v. City of Tigard, 114 S. Ct. 
+
+ES i a a eee ara 21 
+
+Vv 
+
+
+TABLE OF AUTHORITIES -- Continued 
+
+
+Downtown Auto Parks v. City of 
+Milwaukee, 938 F.2d 705 (7th 
+Cir.), cert. denied, 112 S. Ct. 
+
+
+BED chbectenncesecerevecenes 
+
+
+EEOC v. FLRA, 476 U.S. 19 
+
+
+PAGE 
+
+
+PD cbeveaet Peete nececoocsenss 44, 47, 48 
+
+
+Elrod v. Burns, 427 U.S. 347 
+
+
+Ee ee. ee ee 20, 27, 42 
+
+
+FCC v. League of Women Voters of 
+
+California, 468 U.S. 364 
+
+NG le ear rs a ee oe 
+First National Bank of Boston v. 
+
+Bellotti, 435 U.S. 765 
+
+
+a ive hace wae seen és en ew es 19, 30, 42 
+
+
+Garrison v. Louisiana, 379 U.S. 64 
+
+EES TT eT se 
+Gitlow v. New York, 260 U.S. 652 
+
+0 rt eee a ee 
+Givhan v. Western Line Consol. 
+
+School Dist. , 
+
+SURE MOE oc ceccepastvreeesss 
+Havekost v. U.S. Dep't of Navy, 925 
+
+hb» 2) 0 ee 
+Hazelwood School District v. 
+
+Kuhlmeier, 484 U.S. 260 
+
+ES ree ee ae 
+Heck v. Humphrey, 114 S. Ct. 2364 
+
+See ee ee 
+Hobbie v. Unemployment Appeals 
+
+Comm'n of Fla., 480 U.S. 136 
+
+PS ear a ee ee 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES -- Continued 
+
+
+Joseph Burstyn, Inc. v. Wilson, 343 
+U.S. 495 (1952) 
+
+Kentucky v. Graham, 473 U.S. 159 
+ee I a ees 
+
+Keyishian v. Board of Regents, 385 
+RE a 
+
+Laird v. Tatum, 408 U.S. 1 (1972) 
+
+Leatherman v. Tarrant County 
+Narcotics Intelligence and 
+Coordination Unit, 113 S. Ct. 
+Se 
+
+Lefkowitz v. Turley, 414 U.S. 70 
+ye EE Sere 
+
+Lewis v. Hager, 956 F.2d 1164 (6th 
+i 
+
+Logue v. United States, 412 U.S 
+4 
+
+McKennon v. Nashville Banner Pub 
+Co., 115 S. Ct. 879 (1995) 
+
+McMullen v. Carson, 754 F.2d 936 
+(11th Cir. 1985) . 
+
+Minneapolis Star & Tribune Co 
+Minnesota Comm'r of Revenue. 460 
+U.S. 575 (1983) 
+
+Monitor Patriot Co. v. Roy 
+401 U.S. 265 (1971) 
+
+Monroe v. Pape, 365 US 167 (1% 
+
+Mt. Healthy v. Doyle. 429 U S 274 
+(1976) 
+
+NAACP v. Button. 371 US 415 
+(1963) 
+
+
+TABLE OF AUTHORITIES -- Continued 
+
+
+PAGE 
+NAACP v. Claiborne Hardware Co., 
+GT, PGE oc twee cos cer nos eener 18 
+New York Times v. Sullivan, 376 
+CE EE gchar tsoevvrsecvosoes 17, 18, 33 
+North Mississippi Communication v. 
+Jones, 792 F.2d 1330 (Sth Cir. 
+Seer erry worker ena e eee eee 25 
+Owen v. City of Independence, 445 
+tg ¢ err ert verenar a 45, 46, 49 
+Perry v. Sinderman, 408 U.S. 593 
+ee ee. a oe ow eae 21, 22, 36 
+Pickering v. Board of Education, 
+re i CE cs 5 6 oo ¢-0:6 00.0 8 00% passim 
+Planned Parenthood of 
+Dutchess-Ulster, Inc. v 
+Steinhaus, 60 F.3d 122 (2d Cir 
+1995) TTT eT See 25 
+RAV. v. City of St. Paul, 505 
+US. 377 (1992) ; wu ye 19 
+Rankin v McPherson, 483 U.S. 378 
+| QRT passim 
+Roth vy United States, 354 U.S. 476 
+ss” 42, 44 
+Rutan Republican Party of 
+hon 497 U S 6) 
+on 21, 27, 32, 41 
+sy 1 sCS ‘ WRU 32 
+” 21, 41 
+
+
+TABLE OF AUTHORITIES -- Continued 
+
+
+PAGE 
+
+
+Simon & Schuster, Inc. v. Members 
+
+of N.Y. State Crime Victims Bd.., 
+
+ek ik ae vo ee 0 8 6 2 24, 32 
+Smith v. Cleburne County Hospital, 
+
+870 F.2d 1375 (8th Cir. 1989) ........... 26, 31 
+Speiser v. Randall, 357 U.S. 513 
+
+ee ee te ee ks og bw o's 21, 24, 32 
+Termite Control Corp. v. Horowitz, 
+
+28 F.3d 1335 (2d Cir. 1994) ............06. 25 
+Thomas v. Review Bd. of Indiana 
+
+Employment Sec. Div., 450 U.S. 
+
+ae Te a a ae re 22, 24 
+Thornhill v. Alabama, 310 U.S. 88 
+
+ae ae oh coe ane 6406. 6.0K 6 Olas we 24 
+Tompkins v. Vickers, 26 F.3d 603 
+
+SS eR 46 
+Umbehr v. Board of County Commissioners, 
+
+No. 90-C-15 (October 1, 1990), 
+
+rev'd, 825 P.2d 1160 (Kan. Ct. App.), 
+
+rev'd, 843 P.2d 176 (Kan. 1992)... ......... 10 
+Umbehr v. Heiser, 115 S. Ct. 2616 
+
+ae ee rahe oo ga dob ewes be 14 
+United States v. National Treasury 
+
+Employees Union, 115 §. Ct. 1003 
+
+a irae ee eee Le core ws aS passim 
+Ward v. Rock Against Racism, 491 
+
+ee rr fees ava Sa hse eek pee ae 45 
+Waters v. Churchill, 114 S. Ct. 
+
+AN a Fe passim 
+
+
+TABLE OF AUTHORITIES -- Continued 
+
+
+PAGE 
+
+White Plains Towing Corp. v. 
+
+Patterson, 991 F.2d 1049 (2d Cir. 
+
+aren eee ee oe 25, 31 
+Wood v. Georgia, 370 U.S. 375 
+
+rir ey ye ee 17, 38, 44 
+Wright v. Roanoke Redevelopment and 
+
+Hous. Auth. , 479 U.S. 418 
+
+er one eee oe 2 
+CONSTITUTION, STATUTES, AND MISCELLANEOUS: 
+U.S. ConsT. amend. I .......---- eee eee passim 
+U.S. CONST. amend V ... 2... ee eee ees 23 
+U.S. Const. amend. X .. 1... cece eee: 39, 43, 44 
+ra 5 a || rr eg 12 
+PG) << FePererrereeee ri 2, 3, 10 
+K.G.A. OR GB-SOUS 2 ww ce cme ee eens 11 
+Kansas Open Meetings Act, 
+
+2G) * AP ree eee ) 
+Kansas Open Records Act, 
+
+URS - errr eee ere eee 5 
+OFFICE OF MANAGEMENT AND BUDGET, 
+
+FEDERAL PROCUREMENT REPORT (1994) ........ 24 
+Rodney A. Smolla, Federal Civil 
+
+Rights Acts 14-55 (3d ed. 1995)... 2... ees 49 
+
+
+IN THE 
+
+
+SUPREME COURT OF THE UNITED STATES 
+OCTOBER TERM, 1994 
+
+
+GLEN HEISER AND GEORGE SPENCER, 
+
+
+Petitioners, 
+
+
+Vv. 
+KEEN A. UMBEHR, 
+
+
+Respondent. 
+
+
+On Writ of Certiorari to the United 
+States Court of Appeals for the Tenth Circuit 
+
+
+BRIEF OF RESPONDENT 
+
+
+Respondent, Keen A. Umbehr, owns and operates a 
+refuse collection service in Alma, Kansas, a rural town with 
+a population of approximately 900. He brought suit against 
+the Wabaunsee County Commission, through its individual 
+members, alleging that the Commissioners terminated the 
+parties’ ten-year contractual relationship based solely on 
+respondent’s public criticism of their official conduct. The 
+district court granted summary judgment to the petitioners, 
+concluding that governmental entities may, without 
+transgressing the First Amendment, predicate the award of 
+government contracts on the content of an individual 's 
+
+
+speech. The court of appeals reversed. The question 
+presented in this case is whether and to what extent the First 
+Amendment protects independent contractors from retaliatory 
+termination based on the viewpounts they express 
+
+
+STATEMENT OF THE CASE 
+
+
+The Contractual Reianonstup Between the Parnes 
+
+
+managemem imhuding the “-ouecooe and disposal” of 
+esadential trash KSA § 65-3402ia}(>) in aupiementing 
+‘es requirement Wabeunsee © cunty concluded that Or 
+_oymry exde system of waste dusposa: appears © he ie moe 
+henefacual” Secause “ere at @ cme ¢ wuffxoem size 
+
+maumtam a collechon am ciposa vsem DA 08 
+sccording!y the Coun © ommssioe ® i requested Pcs 
+‘rom prvale cOmfractors © prow vrash coflecon services 
+oe as resents DA SD McClure Dep 25 in response 
+
+
+-cltect resdential refuse @ sx ural cues wahen De 
+“carey cach of whch adopeed and ratfied De terms of Ge 
+agreemems PA 1 (The coma etch was enegomaicc 
+ )one qutomancaily "enewed cach vear umiess cuther of ie 
+carues crowded saxty (60) Gays somee of @ Gem * 
+oonimaic a7 PA OC Parma © Ge ape 
+—spomdes o3ovded ogumevuec | (“Sse sofiecnon 
+ervces © the ctuzens of the County ‘or 2 permed of 8 veer 
+
+
+i Sl a le . = Mee 
+ween FA oF umes eterno = oe heer 
+= oes oe fe oot uF . — aes or 
+
+=o a ower ~~ ~eet wae =" = or ze 
+
+
+2. Respondent's First Amendment Activities and the 
+Commissioners’ Response. In early 1989, respondent began 
+writing a weekly editorial column in the local newspaper 
+entitled "My Perspective," which provided information and 
+respondent's views on an array of issues involving the Board 
+of Education, the local City Council, and the Wabaunsee 
+County Commission. P.A. 57. In conjunction with his 
+journalistic efforts anc out of a general interest in county 
+governance, respondent also attended and participated in 
+meetings of the various local governing bodies. J.A. 22. 
+
+Although respondent's articles touched on issues 
+ranging from the opening of the local pool, P.A. 59, to the 
+participatory responsibilities of citizens in a democracy, P.A. 
+63. a number of his columns were critical of both the manner 
+in whach the Wabaunsee County Commission conducted its 
+dunes and the substantive policies that it adopted. Among the 
+topecs he addressed were: limitations on access to public 
+records by the County government in violation of the Kansas 
+Open Records Act (KORA), K S.A. § 45-216; the use of 
+government property for the benefit of private citizens and 
+husinesses. closed-door sessions of the County Commission in 
+violanon of the Kansas Open Meetings Act (KOMA), K.S.A. 
+§ 75-4317. overt efforts by the Commissioners to stifle critical 
+press coverage. and the mususe of official powers by 
+indrvedual Commussioners. J A 22. During the period from 
+early |989 through the date of termination in January of 1991, 
+respondent s commentary on these subjects resulted in a series 
+of Deter and public desputes with the County Commissioners. 
+
+The first sue to generate fncnon between respondent 
+and petioners involved the Commussion’s policies on access 
+© publx records To document hus articles and to facilitate 
+us paracupation m publx meetings. Umbehr periodically 
+
+
+requested copies of records from the County Clerk. Until 
+early 1989, the County’s policy had been to charge ten cents 
+per page for public documents. D.A. 376. As a direct result 
+of Umbehr’s requests, however, D.A. 378, the county adopted 
+a new records acquisition policy, which required a written 
+request and a three-day waiting period in addition to imposing 
+a dramatically increased fee structure. D.A. 376. 
+
+In an article dated February 15, 1989, respondent took 
+exception to this change in policy. P.A. 56. He suggested 
+that the Commissioners were attempting to impede public 
+access to records to deflect inquiries into the manner in which 
+county affairs were operated. Jd. "As long as they can keep 
+us in the dark by making open records difficult to obtain,” he 
+wrote, "then they can run the county any way they please 
+without having to answer to their tax-paying constituents. It 
+is in this medium that political corruption can thrive without 
+fear of exposure." Id. 
+
+The open records issue arose again several months 
+later during a meeting held to discuss the details of the County 
+budget. Prior to the meeting being called to order, respondent 
+requested a copy of the proposed budget. P.A. 52, 72. 
+County officials, however, indicated that additional copies 
+were not available for members of the public and instead 
+insisted that respondent comply with the new records policy, 
+which would have required a written request and an ensuing 
+waiting period. Jd. 
+
+Since the Commissioners ostensibly had convened the 
+meeting to permit citizen input, D.A. 406, Umbehr suggested 
+that if the “budget hearing [is] going to have any validity, then 
+the Commissioners should, in fact, provide extra copies of the 
+budget to any member of the public who wishe[s] to see it.” 
+P.A. 72. Commissioner Spencer dismissed this simple request 
+
+
+stating, "Umbehr, you're just full of bull----. You're nothing 
+but a damn troublemaker." /d.; D.A. 502. 
+
+At that point, Umbehr explained that he had conducted 
+his own research on the issue and that “their policy on 
+obtaining records was in violation of the Open Records Act. 
+KSA 45-215 through KSA 45-223." PA 72. When the 
+County Attorney concurred with respondent's assessment. the 
+Commissioners relented and provided respondent with a cop» 
+of the document. /d.; DA. 409 
+
+Based on these events, respondent filed a letter 
+complaint with the County Attorney alleging that the County + 
+policy regarding public access to records was in violation of 
+the Open Records Act KSA § 45-216 In @ seres of 
+columns discussing this issue. \ mbehr explamed that the open 
+records provisions of Kansas law serve an essential functor 
+by permitting citizens to monstor and oversee the comduct of 
+their elected officials PA 77 He masmtamed that the 
+Board, in derogation of this statutory purpose. had estabiushed 
+a policy “that dissuades. frustrates. and mhibets publ acces: 
+to open records| |" PA 7] After a revweew of these 
+allegations and the requirements of the KORA. the County 
+Attorney concluded that the fee schedule did mdieed mpow 
+costs in excess of those permutied by sammie DA ‘537 
+
+Another set of respondent s articles focused om ie use 
+of equipment belonging w the County Road and Sreder 
+Department for the benefit of private mmdrvaduais and cnmmes 
+In a May 18. 1989 arncie. Umbehr reported that & tac 
+observed county equipment and personne! at work on a orowane 
+project for three full days PA 49 G@) He cupreseed om 
+opimon that such practkes represent mumanagemen of 
+taxpayer money and| cowumfy resources PA @4 
+In a column published on June 229 «| omtef duscusecc fe 
+
+
+County's contention that the project involved an exchange of 
+work or an in-kind transaction between the parties. P.A. 62. 
+He noted that neither the County Commission nor the Road 
+exchange or the many other “trade-offs” that took place 
+between the Department and private entities. /d Because 
+there was no way to verify that taxpayer resources were being 
+the practice created too many opportunities for abuse and thus 
+should be discontinued /d 
+
+The County Attorney was sufficiently concerned about 
+the allegahons contained m respondent's articles. as well as 
+wmformation supplied by County emplovees im the wake of 
+these articles. that be referred the mafier to the Aftorney 
+General of Kansas for investiganon PA SO.DA 157 In 
+the term. however. be specifically advised the Commussion 
+© cease ts practee PA 92. DA 156, 498. noting tha 
+wwhow adequate recordkeeping “favormism mevitabdly finds 
+way oto Ge eweem ” PA SDA 156 Despne thew 
+admommons. the Commuesssomers declared that they were 
+comfortatie operammg m “the gray areas” of the law =P A 
+72 «Although they recognized that sate statutes required 1 
+more mgorows accountmg of such work “radeofs” Ge 
+ WTMEssoneTs Tiammtamed tha actua Secumenmahor sem: 
+was oot ceceseery DA 38) 33 
+
+After ap cxtemeree meguery com@ucted Ge Kansas 
+Surceu of imvesngston. Ge Agoruey General of Kanes 
+eeeed « coper on Decemmper 29 =(999 ehh confirmed 
+“sspondem 5 aliegsnoms of mpropnenes © Ge W sheunere 
+-oamty Road and Sreuige Deperuees «20D A USS COT 
+Agormmey Genera: ‘our iat G@upewer ‘umds and cescwroes fed 
+ST Ewe ae Cow’ emptowees amt fie coun 
+
+
+equipment and personnel had been devoted to projects that had 
+at best "a limited public purpose." D.A. 158. He also 
+emphasized that “documentation of such projects should be 
+maintained whenever undertaken by county personnel or with 
+county equipment where there is a benefit to private citizens 
+or businesses." /d. Although the report found no malfeasance 
+on the part of the Commissioners themselves, it concluded that 
+“loose admunistrative practices and accounting procedures" 
+made it difficult to determine whether county resources were 
+being properly employed. /d. 
+column, the Commissioners attempted to silence the criticism 
+by targeting the vehicle for his expression -- the local 
+newspaper As the publication with the largest circulation in 
+the County. the Signal-Enterprise had always served as the 
+official newspaper, which entitled it to receive all legal notices 
+and advertisements from the County government. On May 
+31. 1989. the Commussioners summoned the editor of the 
+paper to a publ meeting DA. 154. Commissioner Heiser 
+stated Diuntly that the “Signal-Enterprise, being the Official 
+County Paper. needs to give more consideration to the letters 
+being printed and possibly take a second look at what 1s put in 
+the paper. © avoxd anyone getting in trouble" PA. 92 
+When respondent. who was present at the meeting, asked the 
+Comumesmoner precescly what he meant by “taking a second 
+jook ” at arucies bemg published. the Commussioner expressed 
+hes wew Gat respondent's artcies were ‘offensive’ and 
+‘should be censored” w ensure that they were “truthful © /¢ 
+emphases added) PA 
+
+in a fromt page Story appearing on June |. 1989. the 
+edmor Genownced Ghee Commusssoners efforts to contro! the 
+comment of an madependent sewapwper (|| have Deen associated 
+
+
+with The Signal-Enterprise for 38 years," the editor wrote, 
+"and have never been threatened for running signed articles or 
+Letters to the Editor until this past Wednesday." D.A. 154. 
+He indicated that "[w]e have no intention to censor anyone’s 
+articles regardless of high pressure tactics." /d. As a 
+consequence, when the County designation came up for 
+renewal in January of 1990, the Commissioners stripped the 
+Signal-Enterprise of its official status and transferred the 
+designation to a smaller paper in a neighboring community. 
+P.A. 53, D.A. 493. 
+
+In his June 22, 1989 column, respondent recounted the 
+events that took place during the most recent meeting. P.A. 
+64. Elected officials, respondent opined, must be willing to 
+endure, even welcome, oversight of their official actions by 
+the citizens they represent. Jd. “When public exposure of 
+official county actions makes our commissioners angry and 
+want to stop newspaper articles that express a viewpoint that 
+is different from theirs, then obviously their actions cannot 
+stand up to the scrutiny of the public.” /d. 
+
+Open access to County affairs again became an issue 
+when the Commissioners expelled all members of the public, 
+including Umbehr, from a public meeting held on June 18, 
+1989. During that gathering, the Commissioners went into 
+“executive session” to discuss the accusations concerning the 
+County Road and Bridge Department. In his column, Umbehr 
+charged that this action violated the Kansas Open Meetings 
+
+
+* Although the Commussioners maintained that they simply wanted to 
+rotate the official designation, they acknowledged that the Signal- 
+Enterprise had always been the official paper and that the designation had 
+never rotated previously DA. SO! Tellingly. the official designation 
+returned to the Signal-Enterprise one year \ater after the paper was sold 
+t© a new owner who refused to publish Umbehr's articles. P A. 51, 97 
+
+
+8 
+
+
+Act, K.S.A. § 75-4317, which prohibits officials from 
+conducting business in closed session, and he noted that he 
+had referred the matter to the Attorney General for 
+investigation. P.A. 67. 
+
+In August 1989, the Attorney General determined that 
+the Commission had indeed violated the provisions of the 
+KOMA by closing its meeting to members of the public. P.A. 
+71. Shortly thereafter, the Commissioners agreed to a consent 
+decree imposed by the state under which they acknowledged 
+that they had violated the statute and agreed to abide by its 
+terms in the future. Jd. The consent decree also required that 
+each Commissioner receive a copy of the KOMA and that the 
+County Attorney provide remedial instruction -- in open 
+session -- on the requirements of the Act. /d. The County 
+Attorney conducted the required counseling on November 1, 
+1989. P.A. 53. 
+
+On the heels of these events, the Commissioners voted 
+on February 5, 1990, to terminate Umbehr’s contract. The 
+purported reason for doing so was not any dissatisfaction with 
+his service or a desire to alter the existing county-wide system 
+of collection services but rather that the contract was signed 
+by “a number of officials that are no longer in office... .” 
+D.A. 164. In their notice of termination, however, the 
+Commissioners mistakenly cited the 1981 agreement between 
+the parties, which was no longer in effect, and thus the 
+contract continued for another term. P.A. 81; D.A. 165. 
+The Commissioners agreed, however, that the contract would 
+be terminated the following year. P.A. 96. 
+
+On March 29, 1990, one month after the unsuccessful 
+effort to sever the contractual relationship, the Commissioners 
+voted to increase user rates at the landfill for the fourth time 
+since respondent began writing his articles, this trme doubling 
+
+
+ee 
+
+
+his disposal bill from $1200 to $2400 a month. P.A. 54, 84, | shenff's offeer PA & DA * ad « ew moet 
+94; D.A. 170A. Over nearly unanimous opposition from the later. again during pUMIx «essen | mimes me ee 
+city councils, P.A. 84; D.A. 171, the new rates went into | Umbehr that be was sothing more than “rash Ge cult & 
+effect on June 1, 1990. On that date, respondent filed an Mauied around © Ms Tucks PA .4 m 
+action in state court contending that the rates were As he renewal decor approaces fe es os oe 
+unsupported by any factual data. D.A. 178. The state court had the vear Yefore comacted fe | summer tore 
+eventually agreed, finding the rates to be arbitrary and they satusfacbon eth ihe sisting = eractus «ange os 
+capricious and retroactively enjoining their application P A . request that the comract % enewed Mot lure “ee 
+120-21 (rates were "a shot in the dark").’ Despaie these requests ‘he “ommmumcner: comemsee 
+Over the course of the next year, respondent continued miract Setween tee parucs = amuary & 1% 
+to speak out on local political issues both in his column and Adhough ‘Rey Yad ctpressed © desatests , 
+during his unsuccessful bid for a seat on the County —my-wwe meted of tue <n «ter Ge 
+Commission.* Umbehr’s criticism of the Commissioners’ aMempted & cance! the agresmees® us sews Hoot 
+policies engendered mounting resentment and hostility, which amg mdecc Sad kao Pe ere eee Om 
+often manifested itself in abusive verbal attacks against him 64. 350. the Commuswomers sow slieges Gar oe 
+during public sessions of the Commission. For instance, in sas -amcciied Nisue Te , = = = 
+March of 1990, shortly after the Commission had voted to ease Nel KM 4 
+terminate his contract, respondent asked for permission to MMISSONETS “Ca ted , = 
+address the Board. In response, Commissioner Spencer asked Me sued ease Tanager 
+respondent if he was prepared to “get down on [his] knees and moucting “cxearc? _— 
+beg” for permission to address the Commission. P A &8|. 87 LISI Dah as “OguETeX ~ * - 
+D.A. 504. When Umbehr made a similar request in late May They also acknowledges Get Ge uur) «sr Sar 
+Commissioner Heiser told him he could either “be quiet” or oped © Mam s cer <a oe 
+he would be physically removed from the meeting by a um) ory aang wrerr martes 
+- - 
+pn ™ rary 2 r 
+> Based on a motion for reconsideration, the court subsequently . cTuTTekke ome x) “we — 
+
+
+concluded that Umbehr did not comply with the statute of |umstanons anc | 
+thus dismissed the case on grounds unrelated to the merits (mien | | Pie 
+Board of County Commissioners, No. 9)-C-15 (October | (990) rev a STRESS Saat re ae Se 
+
+
+825 P.2d 1160 (Kan. Ct. App.), rev'd, 843 Pld 176 (Kan 199) ause reac ec? 
+| —_ a a eS Se 
+* Umbehr officially declared his candidacy on November 29 | 989 ) = este: Gee 
+| 
+
+
+P.A. 80. If elected, he would have been precluded from voring om te 
+own contract. K.S.A. § 75454 
+
+
+10 
+
+
+oS were aegeteee cul’ eee pes Gree rears ner 
+nee gates Tong: oome ap oget upper’ ans | ‘ce! me | oved 
+onmmime PAT 
+-——“loeemg (summer Ge ora! ‘esponiem 
+eteened adeeetusl wr © coh of Ge ceumecwpeimes 
+er!) oweTsd % Te ccumy eve agreemem Ahoug? 3 
+won!) as ater © eer Commtracts eh Sve of he own 
+Spee os wugh) sero of Ws even efter om 
+ee eee © Cora ects Qfferes cofiecoon ervee 
+PA a ff 
+eerie Geter Mew OO ocoepomder ed 
+
+
+— auier <) ; | = © @ oped Nee Or 
+a or Ge eee ¢ Rees epee Ge © ceessoners © 
+oe? Gee Cee at oie e@ee copes PA ~ 
+
+
+~Seee Te ws oe et S aero wad Yer 
+cvs °° lee’ clatter re Ws oe Tne 6 Coe 
+
+
+— Sect © coor ¢ Ss gt ander fe fre 
+- - errr Sereeret = fe owed Meo SEetutor 
+
+= Joeeter © Ge & sep « a 
+wey Pa c_ =: Gee oat gum & 
+
+
+= ee ee Sete eres Toe Be Soe © Per 
+( bee “ese aaa ae es OEE ecre © 
+ee ee eee a oe a eee 
+— eee 8 Soe Ge Coen , &£ 
+— oe Ge See ee eer soe 
+Tete Ge oe See ecu Were coceeceet coer 
+
+
+ee ee 
+— oF Gee © Se Soc 8 cece | comtece 
+— er ee ee ee |e re Sa 
+t w PORTE T Tetes PF ; ‘ew - ere" ae rere -T 
+
+
+from amy adverse action based upon application of the test 
+established in Pickering v. Board of Education, 391 U.S. 563 
+(1968) JA 14 Relying on a line of cases holding that 
+independent contractors enjoy no First Amendment protection 
+from achoms based on party affiliation, the district court held 
+that “the Forest Amendment does not prohibit defendants from 
+comsdering plamtrff's expression as a factor in deciding not to 
+comtumwe woth the trash hauling contract at the end of the 
+contracts annual term ~ JA 14 
+
+On appeal. a unanimous pane! of the United States 
+Cour of Appeals for the Tenth Circun reversed JA. 21. 
+The cour of appeals comcluded that independent contractors 
+ae comtied © Pret Amendment protection for speech on 
+naters of puDix comcern amd thal governmental entities may 
+oo ast Ger ccomome rccishonshups tw suppress public 
+ommoum of thew achoms | A 37 In reaching this result. the 
+oer fownd that the patromage cases cated Py the district court 
+cad “\wmeted cciewance © whether mdependent contractors 
+sowid Se protected agamst retalnon for speech on mafiers 
+~ pubic come” @ Ok coed tha by allowing 
+‘gOWETEMent: 6 termes 2 pubic comtract because of the 
+oomtractor s qpeech. cowrts Geve permetied govermments to 
+comple? mdrectly that efeh hey cannot accomplish 
+Serectly — pumesiment of speech Gey do oom like © JA 33 
+
+The came! aise found that Ge oss cccamoned by 
+cchmaten of 2 COmract 6 oo less consutuponaily cogmizae 
+her Ge fe effered OY om 4 cmplover JA 3-% 
+werumen cforms © aappress cuMa diaiogue and dehete 
+cow o@eerved. “can Se mast a effective and offensive 
+eter fe Gee @uces s Suen § Come PV "went, percem as 
+when he eee coduces Ge ceuzen + moome Oy ome Sundred 
+on & camper omemted) Based on o& findings. 
+
+
+- 
+
+
+the court of appeals remanded the case for trial. A 
+subsequent petition for rehearing and a suggestion for 
+rehearing in banc were rejected. J.A. 21. This Court granted 
+certiorari on June 29, 1995. 115 S. Ct. 2639 (1995). 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The First Amendment, in its most fundamental 
+application, protects the right of every citizen to challenge the 
+wisdom and propriety of government actions and to engage in 
+vigorous public debate on issues of government policy. 
+Indeed, viewpoint-based efforts to restrict or punish speech on 
+matters of public concern are subject to the most exacting 
+constitutional scrutiny. The burden in any particular case of 
+demonstrating the propriety of a less rigorous standard of 
+review is borne by the government. ~ 
+
+As the court of appeals correctly concluded, the 
+termination of a public contract, like the denial of any other 
+government benefit, in retaliation for an _ individual’s 
+expressive activity serves as an effective deterrent to speech. 
+Because such economic reprisals permit governmental entities 
+to accomplish a result they could never achieve directly -- the 
+punishment of ideas which those in power find displeasing -- 
+adverse actions premised on speech impose an intolerable 
+burden on freedom of expression. The government may not, 
+therefore, use its contractual agreements as an instrument to 
+control or suppress speech. 
+
+
+* In light of what it perceived as conflicting authority, the court of 
+appeals affirmed the district court’s grant of qualified immunity. J.A. 
+38. This Court denied respondent's Conditional Petition for Certiorari 
+on this issue. Umbehr v. Heiser, 115 S. Ct. 2616 (1995). 
+
+
+14 
+
+
+Moreover, unlike the employment context, in which 
+the government "has interests in regulating the speech of its 
+employees that differ significantly from those it possesses in 
+connection with regulation of the speech of the citizenry in 
+general," Pickering v. Board of Education, 391 U.S. 563, 568 
+(1968), the government, in its role as contracting agent, has 
+no unique interests that would justify a deviation from 
+traditional strict scrutiny standards. As an employer, the 
+government retains considerable latitude to regulate public 
+employee speech based on its legitimate interests in avoiding 
+workplace disruptions and fostering healthy working 
+relationships. These factors, however, cannot justify similar 
+limitations on the First Amendment rights of public 
+contractors who typically function outside of a traditional 
+office atmosphere. Speech on matters of public concern may 
+serve as a basis for public contracting decisions, therefore, 
+only if necessary to further a vital government interest. 
+
+The Commissioners, in contrast, advance a far 
+different vision of the First Amendment, a vision that is 
+fundamentally at odds with the traditional protections afforded 
+to speech on matters of public concern. In essence, they 
+advocate the creation of an independent contractor exception 
+to the First Amendment, a separate jurisprudential category 
+that places the expressive activity of public contractors, even 
+on core political issues, beyond the protective scope of the 
+First Amendment. This categorical approach is based not on 
+any legitimate interest in regulating speech, but solely on 
+claims of administrative necessity, including the unsupported 
+assertion that any limitation on the discretionary authority of 
+local officials will interfere with their ability to provide 
+needed services. No legal doctrine nor sound public policy 
+rationale justifies the sweeping authority the Commissioners 
+
+
+15 
+
+
+request. Government officials neither need, nor do they 
+possess “unfettered discretion" to allocate government 
+resources free from fundamental constitutional limitations on 
+their authority. 
+
+At bottom, there is no room within the confines of the 
+First Amendment for a governmental privilege to retaliate 
+against speech. This Court, therefore, should affirm the 
+decision of the court of appeals. In addition, because the 
+Commissioners are unable, regardless of the standard applied, 
+to demonstrate any legitimate interest in regulating 
+respondent’s speech, the Court should conclude that the 
+expression involved in this case is protected by the First 
+Amendment. Accordingly, it should remand to the United 
+States District Court solely for a factual determination 
+concerning whether the termination was motivated by 
+respondent’s expressive activity or by legitimate considerations 
+unrelated to the suppression of speech. 
+
+
+16 
+
+
+ARGUMENT 
+
+
+I. Retaliation Against Independent Contractors For 
+Speech On Matters Of Public Concern Can Be 
+
+
+Justified Only By A Compelling Interest 
+
+
+A. Speech On Matters Of Public Concern, 
+
+
+Regardless Of The Identity Of The Speaker, 
+Is Entitled To The Utmost Protection 
+
+
+The guarantees of the First and Fourteenth 
+Amendments expressly prohibit state and local governments 
+from taking any action “abridging the freedom of speech." 
+Joseph Burstyn, Inc. v. Wilson, 343 U.S. 495, 500 (1952). 
+This fundamental principle of our democratic system 
+"enable[{s] every citizen at any time to bring the government 
+and any person in authority to the bar of public opinion by 
+any just criticism upon their conduct in the exercise of the 
+authority which the people have conferred upon them." Wood 
+v. Georgia, 370 U.S. 375, 392 (1962) (citation omitted). 
+Recognizing that "[t]hose who won our independence believed 
+_ . . that public discussion is a political” obligation, this Court 
+has emphasized that it "is as much [the citizen’s] duty to 
+criticize as it is the official’s duty to administer." New York 
+Times v. Sullivan, 376 U.S. 254, 270, 282 (1964). 
+
+Respondent’s speech, which challenged the policies of 
+the County Commission on issues ranging from the 
+appropriate use and allocation of taxpayer resources to the 
+ability of county residents to obtain information about the 
+operation of their government, falls squarely within the core 
+of the First Amendment's protections. Citizen participation in 
+public dialogue concerning the manner in which the 
+
+
+17 
+
+
+government operates and the policy choices it makes is critical 
+to the proper functioning of our system. "[S]peech concerning 
+public affairs is more than self-expression; it is the essence of 
+self-government." Garrison v. Louisiana, 379 U.S. 64, 74-75 
+(1964). Based on "a profound national commitment to the 
+principle that debate on public issues should be uninhibited, 
+robust, and wide-open," New York Times, 376 U.S. at 270, 
+this Court "has recognized that expression on public issues 
+‘has always rested on the highest rung of the hierarchy of 
+First Amendment values.’" NAACP v. Claiborne Hardware 
+Co., 458 U.S. 886, 913 (1982) (citation omitted). 
+
+Not only the content of respondent’s speech, but the 
+medium in which it was expressed -- a weekly editorial 
+column in the newspaper -- dictates special solicitude and 
+protection. Cf. Connick v. Myers, 461 U.S. 138, 147-48 
+(1983) (level of protection is dependent on "content, form, 
+and context of a given statement"). Like other forms of 
+political speech, "the expression of editorial opinion" occupies 
+a central position in First Amendment jurisprudence. FCC v. 
+League of Women Voters of California, 468 U.S. 364, 381 
+(1984). "[B]y informing and arousing the public, and by 
+criticizing and cajoling those who hold government office," 
+editorials ensure that the public “receiv[es] a wide variety of 
+ideas and views" on issues confronting the polity. Jd. at 382. 
+Attempts "to restrict precisely that form of speech which the 
+Framers of the Bill of Rights were most anxious to protect" 
+are subject to the most exacting scrutiny. Jd. at 383-84. 
+
+
+Notwithstanding the core political nature of the speech 
+
+
+at issue here, the Commissioners suggest that the respondent’s 
+expressive activity remains unprotected unless the Court elects 
+to extend the rights enjoyed by public employees to 
+independent contractors. Pet. Br. at 11. The Constitution 
+
+
+18 
+
+
+itself, however, guards the basic liberties of all citizens, and 
+thus there is no need to extend the First Amendment’s 
+guarantees to independent contractors. Nor does speech lose 
+its protected status simply because it has been uttered by a 
+particular class of persons or entities. The "identity of the 
+speaker,” this Court has held, does not deprive "speech of 
+what otherwise would be its clear entitlement to protection." 
+First National Bank of Boston v. Bellotti, 435 U.S. 765, 777- 
+78 (1978). Respondent's status as a government contractor, 
+therefore, has no independent constitutional significance. 
+Rather, speech on matters of public concern is entitled 
+to the highest constitutional protection unless the government 
+can establish that it has some interest which warrants 
+application of a less searching standard of review. Absent a 
+showing, for example, that the nature of the relationship 
+between the speaker and the government implicates special 
+governmental interests, see, e.g., Hazelwood School District 
+v. Kuhimeier, 484 U.S. 260, 266 (1988) (school officials may 
+regulate student speech “even though the government could 
+not censor similar speech outside the school"); Pickering v. 
+Board of Education, 391 U.S. 563, 568 (1968) (state has 
+interests as employer that are not applicable to general 
+population), viewpoint-based limitations on First Amendment 
+freedoms are presumptively invalid. See R.A.V. v. City of St. 
+Paul, 505 U.S. 377, 382 (1992); Minneapolis Star & Tribune 
+Co. v. Minnesota Comm’r of Revenue, 460 U.S. 575, 585 
+(1983). In the instant case, the burden of demonstrating that 
+the contractual relationship provides a legitimate basis for 
+curtailing or eliminating all protection for speech by 
+independent contractors rests squarely on the Commissioners - 
+- a burden they have not and cannot meet. See United States 
+v. National Treasury Employees Union, 115 S. Ct. 1003, 1013 
+
+
+19 
+
+
+(1995) (government must justify adverse actions based on 
+speech); Elrod v. Burns, 427 U.S. 347, 362 (1976) 
+(government bears burden of demonstrating interest in 
+restricting First Amendment rights). 
+
+
+B. Termination Of A Public Contract In 
+
+
+Retaliation For Speech Impermissibly 
+Restricts Protected Expression 
+
+
+For purposes of deciding the Commissioners’ motion 
+for summary judgment, the district court and court of appeals, 
+drawing all inferences in favor of respondent as the non- 
+moving party, assumed that the evidence in the record was 
+sufficient to support a finding of retaliatory intent. J.A. 14, 
+24-26. The question presented to this Court, therefore, is 
+whether the termination of respondent’s contract in retaliation 
+for the viewpoints he expressed states a cognizable First 
+Amendment claim or if, as the district court held, independent 
+contractors enjoy no First Amendment protection for speech 
+on matters of public concern. 
+
+The Commissioners contend that the termination of a 
+contract in response to speech, as opposed to more direct 
+forms of regulation, does not raise substantial First 
+Amendment concerns. Pet. Br. at 26. Restrictions on speech, 
+however, need not directly proscribe expressive activity to run 
+afoul of the First Amendment. Instead, "constitutional 
+violations may arise from the deterrent, or ‘chilling,’ effect of 
+governmental [efforts] that fall short of a direct prohibition 
+against the exercise of First Amendment rights." Laird v. 
+Tatum, 408 U.S. 1, 11 (1972). This principle forbids 
+government officials from using the economic benefits they 
+dispense as leverage to deter either critical speech or the 
+
+
+20 
+
+
+exercise of other constitutional guarantees. “Under the well- 
+government may not require a person to give up a 
+constitutional right" in exchange for a discretionary benefit. 
+Dolan v. City of Tigard, 114 S. Ct. 2309, 2317 (1994). See 
+also Sherbert v. Verner, 374 U.S. 398, 404 (1963). 
+
+By withholding or withdrawing an economic advantage 
+based on an individual's expressive activity, the government 
+imposes what amounts to a penalty on the exercise of core 
+personal freedoms. “To deny a [benefit] to [individuals] who 
+engage in certain forms of speech is in effe:. to penalize them 
+for such speech. Its deterrent effect is the same as if the State 
+were to fine them for this speech." Speiser v. Randall, 357 
+U.S. 513, 518 (1958). See also Hobbie v. Unemployment 
+Appeals Comm'n of Fla. , 480 U.S. 136, 140 (1987) (requiring 
+work on the Sabbath as a condition for unemployment 
+compensation “puts the same kind of burden upon the free 
+exercise of religion as would a fine"). Because direct efforts 
+to limit or penalize speech would c‘early be impermissible, the 
+same result may not be achieved indirectly by using 
+government benefits as a form of economic coercion. Perry 
+v. Sinderman, 408 U.S. 593, 597 (1972). 
+
+This doctrine applies in any number of contexts and 
+prohibits attempts to condition the receipt of a government 
+benefit, whether it be employment, Rutan v. Republican Party 
+of Illinois, 497 U.S. 62, 77-78 (1990); Pickering, 391 U.S. at 
+568; Keyishian v. Board of Regents, 385 U.S. 589, 605-06 
+(1967), unemployment benefits, Hobbie, 480 U.S. at 140, tax 
+exemptions, Speiser, 357 U.S. at 518, or even public 
+contracts, Lefkowitz v. Turley, 414 U.S. 70, 82-83 (1973), on 
+an individual's exercise of fundamental rights. “While the 
+compulsion may be indirect, the infringement upon free 
+
+
+21 
+
+
+exercise is nonetheless substantial.” Thomas v. Review Bd. of 
+Indiana Employment Sec. Div., 450 U.S. 707, 717-18 (1981). 
+This Court has concluded on numerous occasions that 
+the failure to renew a contract based on expressive activity 
+imposes impermissible burdens on First Amendment interests. 
+In Perry v. Sinderman, 408 U.S. 593, 597 (1972), for 
+example, college officials elected not to renew a professor's 
+contract at the end of its term, allegedly in response to various 
+Statements he made before the state legislature. This Court, 
+in an oft-cited passage, emphatically rejected the suggestion 
+that the relationship, which had expired under its own terms, 
+could be discontinued based on the individual's speech. 
+
+
+[E}ven though a person has no “right” to a 
+valuable government benefit and even though 
+the government may deny him the benefit for 
+any number of reasons . . . [i]t may not deny 
+a benefit to a person on a basis that infringes 
+his constitutionally protected interests -- 
+especially, his interest in freedom of speech. 
+For if the government could deny a benefit to 
+a person because of his constitutionally 
+protected speech or associations, his exercise of 
+those freedoms would in effect be penalized 
+and inhibited. This would allow government to 
+. a result which [it] could not command 
+directly." 
+
+
+Id. at 597 (citation omitted). See also Givhan v. Western Line 
+Consol. School Dist., 439 U.S. 410, 413 (1979) (refusal to 
+renew contract based on expression); Mt. Healthy v. Doyle, 
+429 U.S. 274, 282 (1976) (same); Keyishian, 385 U.S. at 
+
+
+22 
+
+
+592, 605 (refusal to renew contract for failure to sign loyalty 
+certificate). 
+
+Similarly, in a challenge based on the Fifth 
+Amendment, this Court in Lefkowitz v. Turley, 414 U.S. 70 
+(1973), held that the State of New York could not require 
+independent contractors to waive their rights against self- 
+incrimination as a condition of receiving government business. 
+The threatened loss of revenue, this Court held, impermissibly 
+required contractors to forgo fundamental constitutional 
+protections. /d. at 82. In assessing the coercive effect of the 
+State's action, the Court rejected the suggestion that there is "a 
+difference of constitutional magnitude between the threat of a 
+job loss to an employee of the State, and a threat of loss of 
+contracts to a contractor.” /d. at 83. 
+
+Based on these principles, the court of appeals properly 
+concluded in this case that a rule which permits government 
+officials to base contracting decisions on expressive activity 
+would allow "governments to accomplish indirectly that which 
+they cannot accomplish directly -- punishment of speech they 
+do not like." J.A. 33-34. While the Commissioners were 
+free under the terms of the contract to terminate the 
+relationship “for any reason or for no reason at all,” Rankin 
+v. McPherson, 483 U.S. 378, 383 (1987), they were not 
+entitled to use the contractual relationship as a method of 
+curtailing or penalizing speech they found offensive. /d. at 
+383-84. 
+
+There is little doubt that the government’s use of 
+speech as a criterion in awarding contractual benefits poses a 
+significant risk of stifling or chilling free and open debate. 
+See NAACP v. Button, 371 U.S. 415, 433 (1963) ("threat of 
+sanctions may deter [the] exercise of [First Amendment rights] 
+almost as potently as the actual application of sanctions"). 
+
+
+23 
+
+
+"The freedom of speech and of the press guaranteed by the 
+Constitution," this Court has stressed, embraces the liberty to 
+discuss matters of public concern without "fear of subsequent 
+punishment." Thornhill v. Alabama, 310 U.S. 88, 101-02 
+(1940). Absent First Amendment protection, the threat “of 
+subsequent punishment" creates a powerful deterrent to critical 
+commentary by those who wish to retain or hope to secure 
+contractual agreements with the government. Pickering, 391 
+U.S. at 574. To preserve their economic viability, 
+independent contractors would be forced to engage in a form 
+of self-censorship, weighing the benefits of expressing their 
+current or future contractual relationships. Cf. Thomas, 450 
+U.S. at 717-18 (eligibility requirements required individual to 
+choose between religious beliefs and benefits). Permitting the 
+aw od of public contracts on the basis of expressive activity, 
+therefore, “necessarily will have the effect of coercing the 
+{contractor} to refrain from the proscribed speech." Speiser, 
+357 U.S. at 519. See also Minneapolis Star & Tribune, 460 
+U.S. at 585 (financial burdens “can operate as effectively as 
+a censor to check critical comment"); Simon & Schuster, Inc. 
+v. Members of N.Y. State Crime Victims Bd. , 502 U.S. 105, 
+115 (1991) (restrictions on compensation have direct effect on 
+incentives to speech).’ 
+
+
+’ The sheer magnitude of the government's presence in the 
+marketplace and, concomitantly, its ability to influence the nature and 
+scope of public discussion through its contractual relationships is 
+staggering. During fiscal year 1994, for example, the federal 
+government alone expended over $196 billion on procurement contracts. 
+OFFICE OF MANAGEMENT AND BUDGET, FEDERAL PROCUREMENT 
+REPORT 7 (1994). Were government officials permitted to allocate these 
+resources based on expressive activity, the collective chilling effect on 
+speech, to say the least, would be substantial. 
+
+
+24 
+
+
+Against this backdrop, therefore, it is not surprising 
+that the courts of appeals, almost without exception, have 
+readily acknowledged that independent contractors and other 
+individuals in non-employment relationships with the 
+government are entitled to First Amendment protection from 
+retaliation based on the content of their speech. In addition to 
+the decision of the Tenth Circuit in this case, J.A. 21, and in 
+Abercrombie v. City of Catoosa, 896 F.2d 1228 (10th Cir. 
+1990) (tow truck referrals may not be discontinued in 
+retaliation for political opposition), four other circuits have 
+determined that independent contractors and other non- 
+employees are protected by the First Amendment from 
+retaliatory actions premised on their public criticism of 
+government officials. Blackburn v. City of Marshall, 42 F.3d 
+925, 934 (Sth Cir. 1995) (adverse action against tow truck 
+operator for criticizing bidding methodology); Copsey v. 
+Swearingen, 36 F.3d 1336, 1346 (Sth Cir. 1994) (termination 
+of contractor providing vending services in state capitol 
+building); North Mississippi Communication v. Jones, 792 
+F.2d 1330 (Sth Cir. 1986) (removal of county designation 
+from local paper in retaliation for critical editorials); White 
+Plains Towing Corp. v. Patterson, 991 F.2d 1049, 1059 (2d 
+Cir. 1993) (assuming without deciding that tow truck operator 
+could state a retaliation claim);* Havekost v. U.S. Dep't of 
+Navy, 925 F.2d 316 (9th Cir. 1991) (licensee working in navy 
+
+
+* Cf. Termite Control Corp. v. Horowitz, 28 F.3d 1335, 1353 (2d 
+Cir. 1994) (independent contractor may state claim for equal protection 
+violation based on retaliation for the exercise of First Amendment rights). 
+But cf. Planned Parenthood of Dutchess-Ulster, Inc. v. Steinhaus, 60 
+F.3d 122, 128 (2d Cir. 1995) (remanding for decision on scope of First 
+has not yet adopted a position). 
+
+
+25 
+
+
+commissary may state claim for retaliatory termination); Smith 
+v. Cleburne County Hospital, 870 F.2d 1375 (8th Cir. 1989) 
+(independent contractor physician entitled to protection for 
+speech on matters of public concern).? These decisions 
+properly conclude that the retaliatory use of public contracts 
+as a vehicle for affecting public debate is no more permissible 
+than efforts to punish speech directly or through the 
+discriminatory allocation of other government benefits. 
+Finally, it is important to note that the Commissioners 
+admit in this Court, as they did in the district court, that this 
+case does not involve the allocation of a government contract 
+based on political affiliation. Pet. Br. at 15."° Accordingly, 
+the Court need not address or resolve the question of whether 
+patronage practices can be justified as an exception to the First 
+
+
+* Only one circuit court has taken a contrary view, and it provided 
+no analytical justification for its decision. In Downtown Auto Parks v. 
+City of Milwaukee, 938 F.2d 705 (7th Cir.), cert. denied, 112 S. Ct. 640 
+(1991), the Seventh Circuit, in a footnote, uncritically extended its 
+patronage practices to an action involving retaliation for speech. /d. at 
+709 n.5. See also Lewis v. Hager, 956 F.2d 1164 (6th Cir. 1992) 
+(unpublished opinion) (Perry does not apply to independent contractors). 
+In the district court, the Commissioners cited this holding in support of 
+their contention that local officials enjoy “a type of exempt or privileged 
+retaliation,” D.A. 656 -- a “privilege” that is antithetical to well- 
+established First Amendment principles. 
+
+
+© In their reply in support of summary judgment, the Commissioners 
+stated, “[djefendants will be the first to concede that no patronage was 
+involved.” D.A. 657. 
+
+
+26 
+
+
+Amendment rights otherwise enjoyed by independent 
+contractors." 
+
+Therefore, assuming that respondent's contract with 
+Wabaunsee County was terminated in response to his 
+criticisms of the Commissioners’ policies, respondent 
+unquestionably has stated a cognizable claim under the First 
+Amendment. The question remains, however, what standard 
+should apply in assessing claims of retaliation by independent 
+contractors. 
+
+
+'' Despite relying extensively in the Petition for Certiorari on a series 
+of decisions addressing the patronage issue, the Commissioners do not 
+even cite, much less discuss, the cases that they claim created a 
+decisional split in the circuits. Pet. Cert. at 13-18. Nonetheless, the 
+court of appeals correctly concluded that the patronage decisions have 
+“limited relevance” in cases involving retaliation for speech. J.A. 37. 
+Patronage has been justified primarily based on its historic roots, which 
+some have suggested provide the practice with a distinct, non-textual, 
+constitutional status, Rutan, 497 U.S. at 96-97 (Scalia, J., dissenting); 
+Elrod v. Burns, 427 U.S. 347, 377-78 (1976) (Powell, J., dissenting), 
+and based on various systemic benefits, which include strengthening the 
+two-party system, motivating political participation, and improving 
+political accountability. Rutan, 497 U.S. at 104-110 (Scalia, J., 
+dissenting); Branti v. Finkel, 445 U.S. 507, 527-31 (1980) (Powell, J., 
+dissenting); Elrod, 427 U.S. at 379 (Powell, J. dissenting). 
+
+Whatever merit these principles have in the patronage context, 
+they provide scant support for the contention that governmental entities 
+are immune from liability when they attempt to punish independent 
+contractors for speech. To be sure, officially-sanctioned retaliation 
+against disfavored views enjoys no rich history in the Republic and 
+advances no goals that are consistent with our democratic tradition. As 
+Justice Powell recognized, even if patronage dismissals of public 
+employees were constitutionally permissible, employees would still be 
+entitled to First Amendment protection from retaliation based on speech 
+because “no substantial state interest justifie{s] the infringement of 
+speech.” Branti, 445 U.S. at 527 (Powell, J., dissenting). 
+
+
+27 
+
+
+c. Unlike The Public Employment Context, The 
+Government Has No Special Interests In 
+Regulating The Speech of Independent 
+Contractors 
+
+
+The appropriate inquiry in this case is not, as the 
+Commissioners would have it, whether the protections 
+provided to public employees by this Court should be 
+extended to independent contractors, but rather whether the 
+special limitations placed on the free speech rights of public 
+employees should similarly restrict the interests of individuals 
+in non-employment economic relationships with the 
+government. Based on the lack of any comparable 
+government interest in regulating the speech of independent 
+contractors, the balancing test used to assess the extent of 
+public workers’ First Amendment interests is inapplicable. 
+
+In each of its public employment cases, this Court has 
+stressed that while citizens may not be “deprived of 
+fundamental rights by virtue of working for the government," 
+Connick, 461 U.S. at 147, the government, in its role as 
+employer, has unique interests that are not present when it 
+attempts to regulate the speech of the population generally. 
+See, e.g., NTEU, 115 S. Ct. at 1012; Waters v. Churchill, 
+114 S. Ct. 1878, 1886-87 (1994); Pickering, 391 U.S. at 568. 
+Accordingly, the Court in Pickering adopted a test for public 
+employee speech that reflects the government’s heightened 
+interest in regulating the speech of the individuals it employs. 
+First, while private citizens have First Amendment protection 
+even for speech that does not touch on major issues of the 
+day, public employees must generally establish that their 
+speech involves matters of public concern. Waters, 114 S. 
+Ct. at 1887; Connick, 461 U.S. at 147. Second, even if the 
+
+
+28 
+
+
+speech involves a matter of public interest, the court must still 
+balance the empioyee’s interest in participating in public 
+debate against the State’s interest “as an employer, in 
+promoting the efficiency of the public services it performs 
+through its employees." Pickering, 391 U.S. at 568; Connick, 
+461 U.S. at 142.” 
+
+The government’s interest in regulating speech in the 
+office environment is premised on considerations that are 
+unique to that context and reflect the special characteristics of 
+the relationship. For example, the government, like any 
+employer, must be able to foster healthy working relationships 
+among its personnel including the maintenance of "discipline 
+by immediate supervisors" and "harmony among coworkers." 
+Pickering, 391 U.S. at 569-70; Rankin, 483 U.S. at 388. As 
+a result, the government may take adverse action against 
+employees for using offensive language in the office, 
+undermining superiors through recalcitrant speech, or 
+counseling others to ignore legitimate instructions. Waters, 
+114 S. Ct. at 1886. It also has an interest in ensuring that 
+speech does not have “a detrimental impact on close working 
+relationships for which personal loyalty and confidence are 
+necessary,” and does not "impede[] the performance of the 
+speaker’s duties... ." Rankin, 483 U.S. at 388. Due to 
+secondary effects of speech in the office environment, 
+
+
+Several courts have committed the same analytical error as the 
+Commissioners by concluding that public employees have special First 
+Amendment rights that the Court has not conferred on the remainder of 
+society. In Ambrose v. Knotts, 865 F. Supp. 342 (S.D. W. Va. 1994), 
+the court held that Pickering and Connick “create[d] a very limited, 
+specific, free-speech protection for public employees. /t did not create 
+a general protection resident in the population as a whole.” Id. at 345 
+(emphasis added); Blackburn, 42 F.3d at 931 (noting that district court 
+had improperly inverted the public employee analysis). 
+
+
+29 
+
+
+therefore, the government is permitted to take adverse action 
+against an employee based specifically on the content of the 
+communication, an action that would be highly suspect in 
+other settings. See, e.g., Bellotti, 435 U.S. at 786. 
+
+These considerations, however, do not apply to 
+independent contractors who are not in employment 
+relationships with the government. The government's interest 
+in regulating the speech of its employees to ensure proper 
+management and direction of its personnel, for instance, has 
+no relevance to independent contractors like respondent who 
+have no daily interaction with government superiors or co- 
+workers. NTEU, 115 S. Ct. at 1012, 1015 (government 
+generally must establish speech is disruptive to workplace); 
+Pickering, 391 U.S. at 569-70 (government has no interest in 
+controlling speech that does not interfere with daily working 
+relationships). Similarly, independent contractors generally 
+are not viewed as representatives of the government and thus 
+the public does not perceive their speech as an indication of 
+government policy. Cf. Rankin, 483 U.S. at 389 (statement 
+made by employee in private could not be construed by public 
+as position of department); Hazelwood, 484 U.S. at 271 
+(public may perceive school newspaper or play as bearing 
+"imprimatur" of school); McMullen v. Carson, 754 F.2d 936, 
+939 (11th Cir. 1985) (individual properly terminated after he 
+identified himself as an employee of the sheriff’s office and a 
+recruiter for the Ku Klux Klan). The nexus between speech 
+and the government’s interest in promoting efficiency, 
+therefore, is extremely attenuated in the independent 
+contractor context. Adverse action, therefore, rather than 
+promoting legitimate state interests, will often serve only to 
+punish or deter speech. See NTEU, 115 S. Ct. at 1015. 
+
+
+30 
+
+
+Based on this analysis, the Fifth Circuit concluded that 
+the restrictions applicable to government employees should be 
+applied only in situations that mirror the employer-employee 
+relationship. | Observing that public employees’ First 
+Amendment rights are considerably more circumscribed than 
+those of the general public, the court in Blackburn, 42 F.3d 
+at 931-34, concluded that the government possessed no 
+comparable interest in limiting the First Amendment rights of 
+a tow truck operator who was not in the employ of the city 
+and had no daily interaction with other city workers. /d. 
+Accordingly, because the deprivation was unrelated to any 
+legitimate government interest, the court concluded that the 
+city had violated the plaintiff's First Amendment rights by 
+relying on impermissible considerations in allocating a 
+government benefit. Jd." 
+
+
+' Petitioners’ discussion of the differences between independent 
+contractors and employees, which is supported by neither case precedent 
+nor academic literature, attributes a misleading degree of homogeneity to 
+independent contractors. Pet. Br. at 17-23. Independent contractor 
+relationships occupy a vast spectrum, from arrangements, like this one, 
+in which the contractor completes his responsibilities with little or no 
+day-to-day oversight to those in which the independent contractor is 
+virtually indistinguishable from an employee. Logue v. United States, 
+412 U.S. 521, 531-32 (1973) (contractor will often perform tasks “that 
+would otherwise be performed by” employees). Admittedly, application 
+of the Pickering test may be appropriate in situations that are sufficiently 
+similar to employment. See, e¢.g., Copsey, 36 F.3d at 1344-45; 
+Havekost, 925 F.2d at 318 (Pickering is appropriate test for licensee 
+working in naval station commissary); Smith, 870 F.2d at 1381 (applying 
+Pickering where “there is an association between the independent 
+contractor doctor and the Hospital that ha{s] similarities to that of an 
+employer-employee relationship”). Cf. White Plains Towing, 991 F.2d 
+at 1059 (assuming without deciding that Pickering applies to relationships 
+that are “tantamount to employment”). 
+
+
+31 
+
+
+The court of appeals in the instant case, by concluding 
+without analysis that the Pickering test should be applied to 
+the speech of independent contractors, adopted an approach 
+that is unduly restrictive of First Amendment interests. J.A. 
+37. Without the unique considerations present in the office 
+environment, an adverse action taken against an independent 
+contractor based solely on the viewpoint being expressed 
+warrants application of strict scrutiny. "A regulation of 
+speech that is motivated by nothing more than a desire to 
+curtail expression of a particular point of view on 
+controversial issues of general interest is the purest example 
+of a ‘law . . . abridging the freedom of speech, or of the 
+press.’" League of Women Voters, 468 U.S. at 383-84 
+(citation omitted). See also Simon & Schuster, 502 U.S. at 
+115-16 (content-based restrictions on speech are presumptively 
+unconstitutional); Sable Communications of California v. FCC, 
+492 U.S. 115, 126 (1989). Outside of the employee speech 
+context, this Court has subjected government actions that place 
+an impermissible condition on the receipt of a benefit or 
+privilege, like direct restrictions on these same interests, to 
+strict constitutional scrutiny. Rutan, 497 U.S. at 78 
+(conditioning employment on political belief constitutes an 
+unconstitutional condition and may be justified only by 
+demonstrating a vital government interest); Hobbie, 480 U.S. 
+at 140-41 (to justify denial of benefits on grounds that infringe 
+First Amendment interests government must demonstrate 
+compelling interest narrowly tailored to accomplish goal). See 
+also Speiser, 357 U.S. at 519." As a result, at least as to 
+
+
+'* Because the speech in this case clearly relates to matters of public 
+concern, the Court need not address whether contractors, like the 
+citizenry generally, are shielded from retaliatory action against purely 
+
+(continued...) 
+
+
+32 
+
+
+independent contractors who function outside of a traditional 
+employment context, adverse actions premised on expressive 
+activity may be justified only if they serve a vital or 
+compelling government interest. 
+
+
+D. Regardless Of The Test Applied, 
+Termination Of Respondent’s Contract 
+Based On The Speech Involved In This Case 
+Would Violate The First Amendment 
+
+
+After concluding as a general matter that independent 
+contractors are protected from retaliation for speech on 
+matters of public concern, the court of appeals in this case did 
+not attempt to determine whether respondent’s speech would 
+be protected under the test it adopted. "The ultimate question 
+-- whether the speech is protected -- is a question of law." 
+Rankin, 483 U.S. at 386 & n.9. See also Connick, 461 U.S. 
+at 150 n.10. Resolution of this issue is appropriate at this 
+time given that discovery is complete, P.A. 25, and the parties 
+have briefed the issue before both lower courts. New York 
+Times v. Sullivan, 376 U.S. at 283-84 (effective judicial 
+administration favors review of evidence to determine scope 
+of protection). Based on the record in this case, the Court 
+should hold that, under either standard, the Commissioners 
+have failed to establish a sufficient interest in regulating 
+respondent’s speech on matters of public concern. As a 
+result, respondent is entitled to prevail on his First 
+Amendment claim if on remand he succeeds in demonstrating 
+
+
+'(.. continued) 
+private speech. See Connick, 461 U.S. at 147 (outside employment 
+context First Amendment protects mundane as well as political speech). 
+
+
+33 
+
+
+that the Commissioners terminated his contract in retaliation 
+for his public criticism of their conduct. 
+
+
+1. Under Strict Scrutiny, Termination of 
+Respondent’s Contract Based On His 
+
+
+Speech Would Be Impermissible 
+
+
+Application of the traditional strict scrutiny standard 
+for viewpoint-based restrictions on speech is appropriate here 
+because respondent operated independently of any government 
+supervision. As the Commissioners note, Umbehr had 
+complete discretion over the manner in which he structured his 
+operations, there was little or no oversight by the County, no 
+daily interaction with either the Commissioners or other 
+county employees, and no supervisory relationship with any 
+county official -- all factors that significantly diminish, rather 
+than increase, the government’s interest in regulating speech. 
+Pet. Br. at 19-20.'° Because the factors justifying special 
+limitations on the free speech rights of public employees are 
+not present in this case, the Commissioners must satisfy the 
+rigorous requirements of strict scrutiny by demonstrating a 
+vital interest in regulating respondent’s speech. See 
+Blackburn, 42 F.3d at 932. 
+
+Under this approach, the analysis is straightforward. 
+At no point in this litigation have the Commissioners alleged 
+that termination of respondent’s contract based on his critical 
+
+
+'S The contract between the parties itself specifies that Umbehr was 
+to serve as “an independent contractor and that he, his agents, and 
+employees are not agents or employees of the County or any City.” 
+P.A. 108. It also ensured that he would not be viewed by the public as 
+a representative of the County by mandating that his vehicles bear “the 
+name and phone number of the contractor.” P.A. 109. 
+
+
+34 
+
+
+editorial expressions served anything resembling a compelling 
+interest. In fact, they have never suggested that his speech on 
+any of the topics he discussed interfered with his performance 
+under the contract in any way, an acknowledgement that is 
+fatal to any attempt to establish a legitimate, let alone a vital, 
+government interest. The Commissioners, therefore, have 
+failed to meet their obligation under the strict scrutiny 
+formulation and thus respondent's speech is clearly protected 
+
+
+2. Even Under Pickering, Respondent’s Interest 
+In Speaking Would Outweigh The County’s 
+Interest In Regulating His Speech 
+
+
+Even if the Court were to conclude that the more 
+restrictive test applicable to public employees should be 
+extended to independent contractors, respondent's speech 
+would still fall comfortably within the First Amendment's 
+protective scope. There is no dispute that the topics on which 
+respondent wrote and spoke out, ranging from the right of 
+county residents to obtain open access to their government to 
+the mismanagement of taxpayer resources, constitute the type 
+of core political speech that is deserving of the utmost 
+protection. '* 
+
+
+"* The only subject of respondent's columns that the Commissioners 
+even suggest is not a matter of public interest is the county landfill. Pet. 
+Br. at 32. Yet it is apparent from the record that this issue, which is 
+unrelated to the solid waste collection contract, was more than a dispute 
+about conditions of employment. When the County was considering 
+closing the landfill altogether, respondent joined others in voicing 
+concern about the potential adverse effects on the environment, including 
+an increase in illegal roadside dumping, if a convenient landfill were not 
+
+(continued...) 
+
+
+35 
+
+
+This conclusion becomes all the more apparent when 
+respondent's criticisms of the county government are 
+compared to the types of speech this Court has found 
+protected in the public employment context. See, e.g., 
+Rankin, 483 U.S. at 387-89 (statement by law enforcement 
+attempts against President will be successful); Givhan, 439 
+U.S. at 413 (privately expressed complaint about school 
+policies by teacher); Mt. Healthy, 429 U.S. at 282 (criticism 
+by teacher of newly enacted dress code); Perry, 408 U.S. at 
+595 (statements by professor critical of university policy); 
+Pickering, 391 U.S. at 566 (complaint by teacher about school 
+board fundraising practices and criticism of board's allocation 
+of resources).'’ Placed in this context, the expression at 
+issue in this case is especially deserving of protection, not 
+
+
+"*(.. continued) 
+
+available. P.A. 57. With regard to the dramatic increases in user fees 
+effected by the Commissioners, respondent's articles largely reflected his 
+belief that the Commissioners were abusing their powers of office by 
+using landfill rates as a method of retaliation. P.A. 79, 84. Moreover, 
+these issues had obvious repercussions for all members of the community 
+and in each instance the elected representatives of the cities requested 
+public meetings with the County Commission. P.A. 57, 84. And 
+finally, contrary to the Commissioners’ representations, respondent had 
+little personal interest in landfill user rates because his contract 
+specifically permitted him to pass any increase on to his customers. P.A. 
+107 (defining unanticipated events to include increased landfill rates). 
+These comments, therefore, both in terms of content and .he context in 
+which they occurred, can hardly be viewed as mere “workplace 
+grievances.” 
+
+
+" These decisions, each of which involve criticism of a nominal 
+
+
+supervisor, effectively rebut the Commissioners’ 7 ae were tenga 
+an employee, respondent “could have been fired for insubordination . 
+
+
+. despite the public interest in the issues at stake.” Pet. Br. at 22. 
+
+
+36 
+
+
+only because it took place in the quintessential First 
+Amendment forum, a local newspaper, but because it provided 
+information and ideas to residents of the county on a wide 
+array of government policies -- precisely the type of speech 
+that is essential for the democratic process to function 
+efficiently. 
+
+Conversely, the government's interest in regulating 
+respondent's speech in this case is virtually non-existent both 
+because the topics he addressed were unrelated to the 
+contractual agreement itself and because the speech did not 
+interfere with performance. First, one of the principal reasons 
+that this Court has applied a more restrictive balancing test in 
+its employment cases is the fact that the speech at issue 
+involved matters closely connected to the employment 
+relationship. NTEU, 115 S. Ct. at 1013 n.11 (noting that 
+virtually all of the Court’s employment cases involve speech 
+related to the workplace). The topical relation of the speech 
+to the duties an individual performs creates an increased risk 
+of interference with the government's legitimate interest as an 
+employer in regulating the office environment. In this case in 
+contrast, there is no nexus between the comments made by 
+respondent and the contractual relationship between the 
+parties. Accordingly, premising the decision to terminate 
+respondent's trash collection contract on speech that bears no 
+connection to the relationship cannot plausibly advance any 
+legitimate government interest. /d. at 1012, 1015 (honoraria 
+ban imposed on federal employees restricted speech that was 
+both unrelated to the employment relationship and unlikely to 
+interfere with office efficiency). 
+
+Additionally, regardless of the subject matter, the 
+Commissioners have never suggested that Umbehr’s speech 
+caused any interference with performance under the 
+
+
+37 
+
+
+in this context, as in the employment area, is in ensuring 
+proper performance of government services, this fact alone is 
+decisive. NTEU, 115 S. Ct. at 1012-15 (speech was unrelated 
+to duties and did not adversely impact workplace); Rankin, 
+483 U.S. at 388 ("no evidence that [speech] interfered with 
+the efficient functioning of the office"); Pickering, 391 U.S. 
+at 572 (speech did not impede “proper performance of his 
+duties"); Wood, 370 U.S. at 394 ("no indication that the 
+publications interfered with his duties")."* Rather than 
+advancing legitimate government interests, termination of the 
+contract served as a convenient vehicle to punish respondent's 
+criticism of the Commissioners’ policies -- a result that is 
+completely at odds with fundamental First Amendment 
+principles. Just as "[vJigilance is necessary to ensure that 
+public employers do not use their authority over employees to 
+silence discourse, not because it hampers public functions, but 
+because superiors disagree with the content of the employees’ 
+speech,” so too must this Court ensure that government 
+officials do not use their contractual relationships as a 
+mechanism for curbing speech they find offensive. Rankin, 
+483 U.S. at 384. : 
+
+
+Even with regard to the county landfill, the one subject that is, at 
+best, tangentially related to the solid waste collection contract, the 
+Commissioners do not contend that performance under the col'ection 
+agreement was impaired by respondent's critical articles on this issue. 
+As a consequence, termination of the contract based on respondent's 
+criticism of the landfill policies would have been unrelated to the 
+county's interest in “the efficiency of the public services it performs.” 
+Pickering, 391 U.S. at 568. 
+
+
+38 
+
+
+Il. Petitioners Have Failed To Articulate Any Coherent 
+Theory For Either Eliminating Or Severely 
+Restricting The First Amendment Rights Of 
+Independent Contractors 
+
+
+The Commissioners appear to advance three principal 
+arguments in support of their assertion that independent 
+contractors enjoy little or no First Amendment protection. 
+First, they contend that due to the nature of the independent 
+contractor relationship, local officials must be free of any 
+constraints, including constitutional limitations, on the ability 
+to control their contractual agreements. Second, they maintain 
+that the Tenth Amendment reserves decisions about 
+government contracting to state and local officials. And third, 
+assuming some level of First Amendment protection, they 
+contend that allegations of retaliation by independent 
+contractors should be analyzed under the test applied to 
+content-neutral regulations having only incidental effects on 
+speech. None of these contentions warrants either 
+withdrawing or limiting the First Amendment rights of 
+independent contractors. 
+
+
+A. Local Officials Neither Need Nor Possess 
+Authority To Abrogate Constitutional 
+Guarantees To Exercise Appropriate Control 
+Over Their Contractual Relationships 
+
+
+The Commissioners maintain that, in contrast to the 
+daily interaction and oversight involved in the employee- 
+employer relationship, government officials have a diminished 
+ability to monitor and direct the activities of independent 
+contractors. Based on this distinction, they insist that the right 
+
+
+39 
+
+
+of termination takes on added importance in this context. Pet. 
+Br. at 17-23. Because, in their view, termination is the only 
+method of ensuring proper performance, they insist that "the 
+right of control must include the power to revoke such a 
+delegation with impunity." Jd. at 9. 
+
+The Commissioners’ extended analysis of the 
+differences between independent contractors and employees 
+misses the point of the First Amendment inquiry entirely. 
+Pet. Br. at 17-23. Although the discussion confirms that 
+government officials generally have less managerial control 
+over independent contractors, it fails to explain how the 
+speech of independent contractors on matters of public 
+concern interferes with the government's ability to deliver 
+needed services or why government officials must be free to 
+consider such speech to exercise appropriate control over their 
+contractual relationships. See NTEU, 115 S. Ct. at 1013; 
+Waters, 114 S. Ct. at 1887 (government generally must make 
+substantial showing that speech will be disruptive). 
+
+Nor do the Commissioners even attempt to demonstrate 
+that the nature of the relationship mandates greater discretion 
+to consider expressive activity. Instead, they maintain that 
+only a broad prohibition on all claims of retaliation will 
+provide sufficient protection for the discretionary authority of 
+local governments and their officials. Pet. Br. at 17. 
+According to the Commissioners, therefore, even suits 
+involving demonstrable instances of official retaliation against 
+speech should be precluded to protect government officials 
+from insubstantial claims. 
+
+This extraordinary assertion -- that core First 
+Amendment values should be sacrificed to a rule of 
+administrative expediency -- finds no support in this Court's 
+precedents. Sherbert v. Verner, 374 U.S. 398, 407 (1963) 
+
+
+40 
+
+
+(state’s speculative assertions about potential abuse insufficient 
+to justify First Amendment infringement). On the contrary, 
+"[b]road prophylactic rules in the area of free expression are 
+suspect. Precision of regulation must be the touchstone in an 
+area so closely touching our most precious freedoms." NAACP 
+v. Button, 371 U.S. 415, 438 (1963) (citations omitted). 
+Indeed, this Court’s First Amendment jurisprudence is 
+premised, in all but a handful of cases, on conducting a 
+carefully calibrated balance between the interests of the 
+individual in speaking and the government’s interest in 
+curtailing speech. Barenblatt v. United States, 360 U.S. 109, 
+126 (1959) (resolution of First Amendment issues "always 
+involves a balancing by the courts of the competing public and 
+private interests at stake"); Monitor Patriot Co. v. Roy, 401 
+U.S. 265, 276 (1971) (First Amendment issues are resolved 
+"through case-by-case adjudications"). Yet, under the peculiar 
+calculus of interests advanced by the Commissioners, 
+government officials may take adverse action against 
+independent contractors based on their expressive activity 
+without demonstrating any corresponding interest in restricting 
+speech." 
+
+More generally, the contention that government 
+officials must have authority to revoke contractual agreements 
+for any reason, including an individual’s exercise of 
+fundamental freedoms, not only adopts a remedy that is 
+
+
+'* The related suggestion that the “courts do not have the resources” 
+to entertain such “petty” claims by independent contractors “even if the 
+Constitution permitted it” knows no parallel in this Court's history. Pet. 
+Br. at 30. In effect, the Commissioners contend that the judiciary has 
+discretion to nullify constitutional protections because there may be too 
+many individuals whose rights have been violated, a proposition this 
+Court has never countenanced. Cf. Rutan, 497 U.S. at 75 & n.8. 
+
+
+41 
+
+
+grossly out of proportion to the perceived harm, but it is "at 
+war with the deeper traditions of democracy embodied in the 
+First Amendment." Elrod, 427 U.S. at 357 (citation omitted). 
+The per se rule the Commissioners propose would create a 
+series of jurisprudential anomalies. Most notably, it places 
+the speech of independent contractors, even on issues central 
+to the democratic process, into one of the "narrowly limited 
+classes of speech, the prevention and punishment of which 
+have never been thought to raise any Constitutional problem" 
+-- On par with obscenity and communications likely to incite 
+imminent lawlessness. Chaplinsky v. New Hampshire, 315 
+U.S. 568, 571-72 (1942). See also Roth v. United States, 354 
+U.S. 476, 485 (1957); Brandenburg v. Ohio, 395 U.S. 444, 
+447 (1969). The Commissioners’ formulation also would 
+invert the well-established First Amendment hierarchy by 
+protecting independent contractors when they are “hawking 
+[their] wares," while subjecting them to official reprisals when 
+participating in core First Amendment activities. Bellotti, 435 
+U.S. at 784 n.20 (speech on matters of public concern is 
+entitled to greater protection than commercial speech). 
+Perhaps even more troubling is the fact that the 
+rationale underlying the Commissioners’ theory does not 
+appear to be limited to the First Amendment context. The 
+need for complete control, which the Commissioners contend 
+is essential to efficient government operations, seemingly 
+would require the forfeiture of other constitutional protections 
+as well. To provide the Commissioners with the unfettered 
+discretion they demand and to ensure that local officials are 
+not "blackmailed" by threats of meritless litigation, the Court 
+would be forced to shield local officials from allegations of 
+discrimination on the basis of race, sex, religion, or national 
+origin. Neither state nor municipal actors, however, have 
+
+
+42 
+
+
+authority to regulate their contractual relations free from the 
+limitations imposed by the Constitution. See, e.g., City of 
+Richmond v. Croson Co., 488 U.S. 469, 493 (1989). 
+
+Despite the Commissioners’ protestations to the 
+contrary, responsible government officials can exercise 
+appropriate control over the provision of needed services 
+without a right to retaliate against speech or to transgress 
+other basic freedoms. Government officials retain the 
+discretion to terminate contractors for any legitimate 
+programmatic reason, including failure to perform, or for no 
+reason at all. Rankin, 483 U.S. at 383; Mt. Healthy, 429 
+U.S. at 283. They have no authority, however, to allocate 
+resources based on the consideration of factors the 
+Constitution proscribes. /d. 
+
+
+B. The Tenth Amendment Does Not Authorize 
+The Violation Of Other Constitutional 
+Provisions 
+
+
+Petitioners next advance the novel contention that any 
+limitation on elected officials’ discretionary authority would 
+result “in a wholesale transfer of power from elected 
+representatives . . . to the courts" in derogation of the Tenth 
+Amendment’s reservation of power to the states. Pet. Br. at 
+23-26. Petitioners have never, in the district court, the Tenth 
+Circuit, or in their Petition, even made reference to the Tenth 
+Amendment. Accordingly, the contention has been waived. 
+Caspari v. Bohlen, 114 S. Ct. 948, 952 (1994) (Court will 
+only address questions raised in the petition); EEOC v. FLRA, 
+476 U.S. 19, 24 (1986) (per curiam) (arguments not raised 
+below will not be considered). 
+
+
+43 
+
+
+The procedural bar aside, the argument is easily 
+dismissed. The Tenth Amendment, by its very terms, poses 
+no obstacle to First Amendment review of state action: 
+
+
+The powers not delegated to the United States 
+by the Constitution, nor prohibited by it to the 
+States, are reserved to the States respectively, 
+or to the people. 
+
+
+U.S. CONST. amend. X (emphasis added). Because the First 
+and Fourteenth Amendments prohibit the states from abridging 
+the freedom of speech, the Tenth Amendment raises no bar to 
+First Amendment claims. See Gitlow v. New York, 260 U.S. 
+652 (1925).*° 
+
+The Commissioners’ attempt to invoke legislative 
+immunity similarly is unavailing. Pet. Br. at 25. First, the 
+Court of Appeals held that legislative immunity is a defense 
+only to individual liability claims, not to the claims registered 
+against individuals in their official capacities. J.A. 38. 
+Petitioners did not seek review of that conclusion in their 
+Petition for Certiorari and thus the issue has been forfeited. 
+Waters, 114 S. Ct. at 1891. Second, apart from the failure to 
+raise this issue in the Petition, the executive act of terminating 
+respondent's contract cannot plausibly be viewed as legislative 
+
+
+20 
+
+
+A separate strand of the same general thesis suggests that 
+"judicial interference” with the decisions of elected representatives is 
+inappropriate. Pet. Br. at 24-25. "The Fourteenth Amendment, as now 
+applied to the States," however, “protects the citizen against the State 
+itself and all of its creatures -- Boards of [County Commissioners] not 
+excepted.” Board of Education v. Barnette, 319 U.S. 624, 637 (1943) 
+Wood, 370 U.S. at 386 (courts retain power to set parameters of state 
+power regarding freedom of speech). 
+
+
+aa 
+
+
+in nature and thus concepts of legislative immunity are 
+inapplicable. Third, the court of appeals correctly concluded 
+that even if legislative immunity were applicable it would 
+preclude only claims asserted against the Commissioners in 
+their individual capacities. See Kentucky v. Graham, 473 
+U.S. 159, 166-67 (1985) (government may not rely on 
+individual capacity defenses); Owen v. City of Independence, 
+445 U.S. 622, 651 (1980). 
+
+
+Cc. Viewpoint-Based Retaliation Cannot Be 
+Characterized As An Incidental Restriction 
+
+
+On Speech 
+
+
+Arguing in the alternative, the Commissioners contend 
+that, if applicable, Pickering "must be reformulated and 
+redescribed to fit the circumstances of an independent 
+contractor." Pet. Br. at 26. Without offering any rationale, 
+petitioners contend that a claim of intentional discrimination 
+based on disapproval of the speaker’s message should be 
+subject to the same level of scrutiny applied to neutral 
+regulations that have only incidental restraining effects on 
+speech. Id. The type of view-point based discrimination at 
+issue in this case, however, is subject to the most exacting 
+scrutiny, see supra at 19, 32, not to "the least stringent test of 
+constitutional limitation." Pet. Br. at 26. Compare Ward v. 
+Rock Against Racism, 491 U.S. 781 (1989) (upholding 
+regulation designed to control volume of music as content- 
+neutral restriction). 
+
+The remainder of the arguments in this section of the 
+Commissioners’ brief discuss a series of unrelated points, 
+none of which are relevant to determining the appropriate 
+First Amendment standard for independent contractors. Pet. 
+
+
+45 
+
+
+Br. at 27-32. The one substantive assertion that emerges from 
+the discussion, however, is the contention that principles of 
+qualified immunity preclude reliance on the Commissioners’ 
+motivation in establishing the claim. /d. at 29-30. Even aside 
+from the misstatement of the applicable standard,”' qualified 
+immunity principles can provide no defense to the official 
+capacity claims currently at issue. Graham, 473 U.S. at 166- 
+67 (entity may not rely on individual capacity defenses); 
+Owen, 445 U.S. at 651. 
+
+
+Ill. The Commissioners’ Assorted Defenses Are Both 
+Procedurally Barred And Inapplicable 
+
+
+In their final series of contentions, the Commissioners 
+ask the Court to address a virtual laundry list of defenses that 
+have never been raised previously and that in any event are 
+inapplicable to this case. 
+
+1. The alleged default for non-payment of landfill rates 
+provides no defense. In a theme they attempt to establish 
+from the outset of their brief, the Commissioners contend that 
+respondent was in default under the terms of the solid waste 
+collection contract based on his refusal to pay the new landfill 
+rates during the pendency of his state court challenge. Pet. 
+Br. at 33. They maintain that this fact limits the availability 
+of damages under McKennon v. Nashville Banner Pub. Co., 
+
+
+*! Motivation is not irrelevant, even in individual capacity claims, 
+where intent is an element of the claim. “Every circuit that has 
+considered the question has concluded that a public official’s motive or 
+intent must be considered in the qualified immunity analysis where 
+unlawful motivation or intent is a critical element of the alleged 
+constitutional violation.” Tompkins v. Vickers, 26 F.3d 603, 607-08 (Sth 
+Cir. 1994). 
+
+
+46 
+
+
+115 S. Ct. 879, 886 (1995), an age discrimination case in 
+which the defendant uncovered information after termination 
+that provided an alternative ground for the adverse action. 
+
+First, petitioners have never raised this issue in the 
+litigation to date and thus may not present the defense at this 
+juncture. EEOC v. FLRA, 476 U.S. at 24. Second, 
+McKennon dealt only with after-acquired evidence "which 
+would support a lawful termination for cause." Pet. Br. at 33. 
+In this case, Umbehr brought suit challenging the landfill rates 
+on June 1, 1990, D.A. 178, and as of January 28, 1991, the 
+date the contract was cancelled, had been in what the 
+Commissioners now describe as "default" for nearly eight 
+months. Although the Commissioners were fully aware of the 
+relevant facts, "this cause was not expressly invoked at the 
+time." Pet. Br. at 33. Third, even if there had been a 
+default, it would not provide an alternative ground for 
+termination because the Commissioners themselves failed to 
+comply with the terms of the contract. The relevant provision 
+in the agreement required "written notice stating in detail a 
+description of the facts constituting the breach" and a thirty- 
+day opportunity to cure, P.A. 108, neither of which the 
+Commissioners provided. 
+
+2. The Commissioners have never alleged they had 
+"mixed motives" for terminating the contract. While Mt. 
+Healthy, 429 U.S. at 287, provides a constitutional standard 
+of causation that applies equally to claims of retaliation by 
+employees and independent contractors, the Commissioners 
+did not present a mixed motive defense in either the district 
+court or the court of appeals, nor do they make any effort in 
+this Court to demonstrate its application. Accordingly, this 
+argument is not properly presented both because it was not 
+
+
+47 
+
+
+preserved below, EEOC v. FLRA, 476 U.S. at 24, and 
+because the question is not implicated in this case. 
+
+3. The Commissioners have never alleged respondent 
+is a "policy maker." Without contending that respondent is in 
+a policy-making position or that this case involves patronage 
+practices, the Commissioners suggest that the Court should 
+make clear that an "independent contractor whose 
+responsibilities include the formulation of policy should be [] 
+terminable without cause." Pet. Br. at 34. Given that this 
+issue is neither implicated in this case, and thus presents no 
+Article III case or controversy, nor has been argued below, 
+the Court has no occasion to render an opinion on this 
+question. See Broadrick v. Oklahoma, 413 U.S. 601, 610-11 
+(1973) ("courts are not roving commissions assigned to pass 
+judgment on the validity of" abstract questions). 
+
+4. The Commissioners did not rely on an erroneous 
+understanding of respondent's speech. The Commissioners 
+next misapply this Court’s holding in Waters v. Churchill, 114 
+S. Ct. 1878 (1994), by contending that it insulates government 
+officials from liability if they "reasonably believed on the facts 
+available that no First Amendment issue was presented." Pet. 
+Br. at 34. They argue that, because they were granted 
+qualified immunity in their individual capacities, they are, 
+under Waters, likewise immune from suit in their official 
+Capacities. 
+
+First, the Commissioners did not raise this contention 
+below and thus it has been waived. Second, the plurality in 
+Waters did not purport to shield government entities from 
+liability for good faith, but erroneous understandings of the 
+law. Rather, it concluded that good faith, but erroneous 
+understandings of the facts may provide a defense where 
+"what the government employer thought was said" would not 
+
+
+48 
+
+
+be protected by the First Amendment. Waters, 114 S. Ct. at 
+1882. Suffice it to say, the Commissioners have never alleged 
+that they misunderstood the import of respondent's criticisms 
+and terminated the contract “based on substantively incorrect 
+information.” /d. at 1890. 
+
+In any event, individuals may not bootstrap a finding 
+of qualified immunity into a defense against official capacity 
+claims. Owen, 445 U.S. at 651 & n.33; Rodney A. Smolla, 
+Federal Civil Rights Acts 14-55 (3d ed. 1995). As a result, 
+the fact that the Commissioners escaped personal liability has 
+no effect on the ultimate obligation of the County to redress 
+the constitutional wrongs committed. /d. at 657-58. See also 
+Leatherman v. Tarrant County Narcotics Intelligence and 
+Coordination Unit, 113 S. Ct. 1160, 1162 (1993). 
+
+5. There is no obligation to exhaust state judicial 
+remedies prior to pursuing a federal constitutional claim under 
+section 1983. The Commissioners final contention is that 
+respondent's action is foreclosed because he “chose to file a 
+federal civil rights action in U.S. District Court rather than 
+seeking any relief by way of appeal to the Kansas State 
+Courts." Pet. Br. at 34-35. Again, this assertion was 
+presented in neither the district court nor the court of appeals 
+and thus has been waived. Moreover, decisions of this Court 
+extending back over three decades have rejected this precise 
+contention. “It is no answer that the State has a law which if 
+enforced would give relief. The federal remedy [under 
+section 1983] is supplementary to the state remedy, and the 
+latter need not be first sought and refused before the federal 
+one is invoked." Monroe v. Pape, 365 U.S. 167, 183 (1961). 
+See also Heck v. Humphrey, 114 S. Ct. 2364, 2370 (1994), 
+Wright v. Roanoke Redevelopment and Hous. Auth. , 479 U.S. 
+
+
+49 
+
+
+418, 429 (1987); Board of Regents v. Tomanio, 446 U.S. 478, 
+491 (1980). 
+
+
+CONCLUSION 
+
+
+For these reasons, the judgment of the Court of 
+Appeals for the Tenth Circuit should be affirmed. Further, 
+because the Commissioners, regardless of the test applied, can 
+demonstrate no interest in premising their decision to 
+terminate respondent's contract on his speech, the case should 
+be remanded solely for a factual determination concerning the 
+Commissioners’ actual motivation for the challenged action. 
+
+
+Respectfully submitted, 
+
+
+ROBERT A. VAN KIRK 
+Counsel of Record 
+5808 Clapham Road 
+Alexandria, VA 22315 
+(703) 313-9740 
+
+
+RICHARD H. SEATON 
+BRENDA J. BELL 
+
+410 Humboldt 
+Manhattan, KS 66502 
+(913) 776-4788 
+
+
+Counsel for Respondent 
+
+
+October 5, 1995 
+
+

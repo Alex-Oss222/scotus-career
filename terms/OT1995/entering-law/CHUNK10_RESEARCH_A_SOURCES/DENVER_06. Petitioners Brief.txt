@@ -1,0 +1,3328 @@
+Supreme Court, U.*. 
+
+
+(i) FIDBDED 
+DEC 28 1995 
+
+No. 95-227 
+
+(Consolidated with No. 95-124) ies 
+
+
+“~~ fewer 
+
+
+In THE 
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+ALLIANCE FOR COMMUNITY MEDIA, 
+ALLIANCE FOR COMMUNICATIONS DEMOCRACY, 
+AND PEOPLE FOR THE AMERICAN WAY, ef al, 
+Petitioners, 
+Vv. 
+FEDERAL COMMUNICATIONS COMMISSION AND 
+
+
+UNITED STATES OF AMERICA, et al, 
+Respondents. 
+
+
+On Writ of Certiorari 
+to the United States Court of Appeals 
+for the District of Columbia Circuit 
+
+
+BRIEF FOR PETITIONERS 
+ALLIANCE FOR COMMUNITY MEDIA, 
+ALLIANCE FOR COMMUNICATIONS DEMOCRACY, 
+AND PEOPLE FOR THE AMERICAN WAY 
+
+
+I. MICHAEL GREENBERGER 
+Counsel of Record 
+SHEA & GARDNER 
+1800 Massachusetts Avenue, N.W. 
+Washington, D.C. 20036 
+(202) 828-2000 
+
+
+[Names Of Additional Counsel Appear On Inside Front Cover] 
+
+
+December 28, 1995 
+
+
+JAMES N. HORWOOD 
+SPIEGEL & MCDIARMID 
+1350 New York Ave., N.W. 
+
+
+Washington, D.C. 20005 
+(202) 879-4002 
+
+
+Counsel for Petitioners Alliance 
+for Community Media and 
+Alliance for Communication: 
+Democracy 
+
+
+ANDREW JAY SCHWARTZMAN 
+GiGi SOHN 
+
+} .SDIA ACCESS PROJECT 
+2000 M Street, N.W. 
+
+
+Washington, D.C. 20036 
+(202) 232-4300 
+
+
+ELLIOT MINCBERG 
+LAWRENCE OTTINGER 
+
+
+PEOPLE FOR THE AMERICAN 
+
+
+WAY 
+2000 M Street, N.W. 
+
+
+Washington, D.C. 20036 
+(202) 467-4999 
+
+
+Counsel for Petitioner People For 
+
+
+the American Way 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Whether a congressionally-enacted law can evade scrutiny 
+under the First Amendment for asserted lack of state action 
+when that law — Section 10 of the Cable Television Consumer 
+Protection and Competition Act of 1992 — on its face 
+disadvantages certain constitutionally-protected speech on cable 
+access channels based solely on the speech’s content. 
+
+2. Whether Section 10 implicates state action and therefore 
+invokes First Amendment scrutiny because (a) the statute and 
+its implementing regulations preempt state and local law and 
+cable franchise agreements; (b) the government has significantly 
+encouraged censorship of indecent programming; and (c) public 
+access channels — which Section 10 regulates — have been 
+dedicated by local authorities for the public to use for 
+expressive discourse and are therefore a public forum. 
+
+
+3. Whether Section 10, a law that on its face disfavors certain 
+speech based solely on that speech’s content, violates the First 
+Amendment because it (a) fails to use the least restrictive 
+means to further a compelling state interest; (b) imposes 
+content-based restrictions solely upon those who speak via cable 
+access channels; (c) is unconstitutionally vague; and (d) imposes 
+prior restraints without proper judicial safeguards. 
+
+
+LIST OF PARTIES 
+The judgment under review was rendered in a proceeding in 
+
+
+Cir. Nos. 93-1169, 93-1171, 93-1270, and 93-1276. 
+
+
+Petitioners Alliance for Community Media, Alliance for 
+Communications Democracy, and People For the American 
+Way were cach petitioners in D.C. Cir. Nos. 93-1169 and 
+
+
+93-1270. None of these petitioners has parent companies or 
+subsidiaries. 
+
+
+Respondents the FCC and the United States of America 
+were both respondents in all four actions. 
+
+
+Petitioners New York Citizens Committee for 
+Media, Media Access New York, Brooklyn Producers’ Group, 
+and David Channon, and respondent National Cable Television 
+Association, Inc., were each intervenors in all four actions. 
+
+
+Denver Area Educational Telecommunications 
+Consortium, Inc. (“7DAETCI") was a petitioner in D.C. Cir. 
+Nos. 93-1171, and respondent American Civil Liberties Union 
+("ACLU") was a petitioner in D.C. Cir. Nos. 93-1171 and 93- 
+1276. Both DAETCI and ACLU are petitioners in S. Ct. No. 
+95-124, which has been consolidated with this case. 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+QUESTIONS PRESENTED .... cc ccc ccc cece ccees 
+aE ii 
+TABLE OF AUTHORITIES .................0005. vi 
+TT 224 deb sevGeededeeteceseccocecs ] 
+EE om 
+CONSTITUTIONAL, STATUTORY, AND 
+REGULATORY PROVISIONS INVOLVED .. 2 
+DUPE Sue cuebeUe ee de déeddesecoecece: 2 
+SF 8 ae : 2 
+2. Access and Its Origins ......... seendeeeesesee © 
+3. Access and the 1984 Cable Act ............. 6 
+4. Public Access Today .......... 7 
+TT ote hecchateonedcececnceec sae 9 
+6. Section 10 of the 1992 Cable Act........... 1] 
+7. The FCC’s Rulemaking and 
+Implementing Regulations ........ SF A A th 13 
+8. The Panel Decision Below................. .. 16 
+9. The Jn Banc Decision Below ............... .. 16 
+SUMMARY OF ARGUMENT................. 18 
+(ET nibh ath keetdhenneceanscaséoes< 20 
+I. Section 10 of the 1992 Cable Act and the 
+Regulations Promulgated Thereunder 
+Require Constitutional Scrutiny ......... | 20 
+
+
+A. State Action Is Inherent in the Enactment 
+of Section 10 Because It Favors Some 
+
+
+Be Evaluated Based on the Nature of 
+
+
+B. State Action Inheres in Congress's Passage 
+of a Law that Preempts All Contrary State 
+
+
+Laws and Supersedes All Conflicting Local 
+
+
+C. State Action Is Present in the Section 10 
+Scheme Because It Reflects the Govern- 
+ment’s Strong Preference for and Thus 
+
+
+Significantly Encourages the Underlying 
+
+
+D. Section 10 Requires First Amendment 
+
+
+Il. Section 10 Violates the First Amendment 
+
+
+A. Section 10 Fails the Least Restrictive 
+EE i 6 oe an te nine i 
+
+
+1. Asa Content-Based Regulation of 
+
+
+Speech, Section 10 Is Presumptively 
+CE cccceceséeccucs 
+
+
+2. Congress and the FCC Have Failed 
+to Consider Less Restrictive Means 
+Available to Advance Their Goal .. 
+
+
+C. Section 10 Is Unconstitutionally Vague 
+
+
+D. Section 10’s Censorship Scheme Inflicts 
+Unconstitutional Prior Restraints Upon 
+Protected Expression .............. 
+
+
+CET Ob benenadeddcdcesvcecsceces 
+
+
+STATUTORY APPENDIX 
+47 US.C. § 531 (1988) ...........0.00005. 
+47 U.S.C. § 531 note (Supp. V 1993) ........ 
+47 U.S.C. § 532 (1988 & Supp. V 1993)...... 
+
+
+47 U.S.C. § 544 (1988 & Supp. V 1993), as 
+amended, 47 U.S.C.A. § 544(d)(2) (West 
+ESE ode dunewes seccdeeeeese: ce 
+
+
+TABLE OF AUTHORITIES 
+
+
+CASES: Page 
+
+Abood v. Detroit Bd. of Educ., 
+
+Se PPPS ITT 25 
+Action for Children’s Television v. FCC, 
+
+58 F.3d 654 (D.C. Cir. 1995), cert. petition 
+
+filed, 64 U.S.L.W. 3271 (Sept. 28, 1995) ........ 38, 42 
+Arkansas Writers’ Project, Inc. v. Ragland, 
+
+GEE UE. Tis CRSP co ccvcccccccccccccscccccss 36 
+Baggett v. Bullitt, 
+
+Ue Da PEED cc cccivccsceccccceccccses 46 
+Bantam Books, Inc. v. Sullivan, 
+
+FES Ga OWED 6 Sedo ccccdesccccscccccces 48 
+Bella Lewitzky Dance Found. v. Frohnmayer, 
+
+754 F. Supp. 774 (C.D. Cal. 1991) .............. 45 
+Berkshire Cablevision of R.L, Inc. v. Burke, 
+
+571 F. Supp. 976 (D.R.1. 1983), vacated as 
+
+moot, 773 F.2d 382 (ist Cir. 1985) .............. 34 
+Blum v. Yaretsky, 
+
+Ge GE EEE Scbococcéccccetccese 16, 22, 27 
+Bolger v. Youngs Drug Prods. Corp., 
+
+GP GE cb Sc cevecvcccvceeecvcecs 36, 37 
+Butler v. 
+
+352 U.S. 380 (1957) seeedanedabeuneecee ceoeee 37 
+City of Cincinnati v. Discovery Network, Inc., 
+
+Ee Eb GUID accccesccsnencececees 42, 43 
+Coates v. City of Cincinnati, 
+
+Tae CEE EEUEED 6 cccccnedeasoccevecccease 45 
+Cohen v. California, 
+
+GaP Gee EEE Sos b cb cdedocccccccecccoses 45 
+Communications Workers of Am. v. Beck, 
+
+Gy Ws Ce EE bo v6 eb es cee ccvccccccccss 25 
+Cornelius v. NAACP Legal Defense & Educ. 
+
+Fund, Inc., 473 U.S. 788 (1985) ........... 19, 33, 35 
+Crawford v. Los Angeles Bd. of Educ., 
+
+Ga Gk Be GED ore eee sb ctecdcccccceceacs 23 
+Cruz v. Ferre, 
+
+755 F.2d 1415 (11th Cir. 1985)..............445. 11 
+
+
+vi 
+
+
+CASES (cont'd): Page 
+
+
+Erie Telecommunications, Inc. v. City of Erie, 
+
+659 F. Supp. 580 (W.D. Pa. 1987), modified on 
+
+other grounds, 853 F.2d 1084 (3d Cir. 1988) ....... 34 
+Farmers’ Educ. & Coop. Union v. WDAY, Inc., 
+
+ST ch..60csceedbesbeeotevsees 30 
+FCC v. Midwest Video Corp., 
+
+SS Fob cccbescccebccedeond’'s 6 
+FCC v. Pacifica Foundation, 
+
+i «id codoedeecoseedesescee 47 
+First Nat'l Bank of Boston v. Bellotti, 
+
+dss bccceces es ocesseseces 19, 41 
+Flagg Bros., Inc. v. Brooks, 
+
+REE ae a ee ae 22 
+Freedman v. Maryland, 
+
+cin dseugsceesedeseeevesses 48 
+FW/PBS, Inc. v. City of Dallas, 
+
+SP chasevivtbececccocteéccee 47 
+Gentile v. State Bar of Nevada, 
+
+Cie ce ecebeededonses se 45, 46 
+Grayned v. City of Rockford, 
+
+SP cdctececobtcscivvecceseves 43 
+Interstate Circuit, Inc. v. City of Dallas, 
+
+TE CESGR Gch oUsbecccccseccode 45 
+Jackson v. Metropolitan Edison Co., 
+
+Se Cadre ccsccdscccetcecee ste 22 
+Kaiser Aetna v. United States, 
+
+de dodbocebeccccetotoces 34, 35 
+Lamont v. Postmaster General, 
+
+Se ES bebcbedaeedcececsccsoces 48 
+Metromedia, Inc. v. City of San Diego, 
+
+SEE owadabosceeeddeedescesees 40 
+Miller v. California, 
+
+Se ED dow ednveebisesdsc cvccecce 44, 45 
+Minneapolis Star & Tribune Co. v. Minnesota 
+
+Comm’r, 460 U.S. 575 (1983) ........0.000 0500 4] 
+NAACP v. Button, 
+
+Pee EE Ses oc cévsctocecdectoces 20, 43 
+
+
+vii 
+
+
+CASES (cont'd): Page 
+
+
+Nebraska Press Ass'n v. Stuart, 
+
+ee A dadinib.cerees cessed side 48 
+Nollan v. California Coastal Comm'n, 
+
+ee Es evrnwan sdhvesccecuheess 34, 35 
+Norwood v. Harrison, 
+
+Se ED Wann cdubhs dwells cdéesddaces< 27 
+Perry Educ. Ass'n v. Perry Local Educators’ Ass’n, 
+
+ED « o cocadevveccabbbdetbedcan 32 
+Pope v. Illinois, 
+
+Se IED in Gis nteeecbedVebeceeede 45 
+Price v. International Union, 
+
+927 F.2d 88 (2d Cir. 1991), cert. denied, 
+
+St TE concn cvbesdecdecdtenscs cba 26 
+Quincy Cable TV, Inc. v. FCC, 
+
+Fam Wee UGGS GAG, Cis. BOBS) nw ccc ccc ccccess 34 
+RA.V. v. City of St. Paul, 
+
+cs wenckauuéneséheedeb dees 36 
+Railway Employes’ Dep’t v. Hanson, 
+
+ee eee passim 
+Red Lion Broadcasting Co. v. FCC, 
+
+Pe becedesdwuncciveesscedins 38 
+Reid v. McDonnell Douglas Corp., 
+
+443 F.2d 408 (10th Cir. 1971) ................. 26 
+Reitman v. Mulkey, 
+
+Cf ee eet 25, 26 
+Rendell-Baker v. Kohn, 
+
+ns sve deeeee de wintes eee 27 
+Rosenberger v. Rector & Visitors of Univ. of Va., 
+
+SPEED vccnecsudhapesbedcs cc 32, 41 
+Sable Communications of Cal, Inc. v. FCC, 
+
+ee es ED Cc cccveveneeeeautes-c< passim 
+Simon & Schuster, Inc. v. Members of the N_Y. 
+
+State Crime Victims Bd., 502 U.S. 105 (1991) ...... 36 
+Skinner v. RLEA, 
+
+SP «¢ceeebedceevecee ds sews passim 
+Smith v. California, 
+
+361 U.S. 147 (1959)... ccc eee eee 30 
+
+
+CASES (cont'd): Page 
+
+
+Southeastern Promotions, Lid. v. Conrad, 
+
+Ge REED cccccccceedcedsss 20, 40, 47, 48 
+Thomburgh v. American College of 
+
+Obstetricians & Gynecologists, 
+
+| Rs rr 48 
+Turner Broadcasting Sys., Inc. v. FCC, 
+
+oe a ee passim 
+Village of Hoffman Estates v. Flipside, 
+
+Hoffman Estates, Inc., 455 U.S. 489 
+
+
+CONSTITUTION AND STATUTES: 
+
+
+8 passim 
+Communications Act of 1934, Ch. 652, 
+48 Stat. 1064 (1934), as amended, 
+a 2 
+§ 612, as amended, 47 U.S.C. § 532 
+(1988 & Supp. V 1993) ................... 2 
+§ 638, as amended, 47 U.S.C. § 558 
+A ee 2 
+Cable Communication Policy Act of 1984, 
+Pub. L. No. 98-549, 98 Stat. 2780 (1984) Cia ties passim 
+Cable Television Consumer Protection and 
+Competition Act of 1992, Pub. L. No. 
+
+
+102-385, 106 Stat. 1460 (1992) .............. passim 
+§ 2(a)(S), 106 Stat. 1460 (1992) .............. 43 
+§ 2(b), 106 Stat. 1463 (1992) ...........0.... 11 
+§ 4, 106 Stat. 1471 (1992) ..........000.0... 42 
+§ 5, 106 Stat. 1477 (1992) .................. 42 
+§ 10, 106 Stat. 1486 (1992) ............... passirn 
+§ 10(a}, 106 Stat. 1486 (1992) ............ passim 
+§ 10(a)(2), 106 Stat. 1486 (1992) ............. 20 
+§ 10(b), 106 Stat. 1486 (1992) ............ passim 
+§ 10(c), 106 Stat. 1486 (1992) ............ passim 
+§ 10(d), 106 Stat. 1486 (1992) ............ passim 
+
+
+CONSTITUTION AND STATUTES (cont'd): Page 
+
+
+eee. Sree es 2 
+eee 2 
+47 U.S.C. § 521(4) (1988)... 20... cece cece ee eee 6 
+4. *  SeRRRRSSRRIRRSSROSRSr THe 2 
+GT UB. BARRR GRIND oc cc cccccccccccccccccce 6 
+he err 6 
+ee rere er 7 
+47 U.S.C. § 531 note (Supp. V 1993) .............. 12 
+47 U.S.C. § 532 (1988 & Supp. V 1993) ............. 2 
+47 U.S.C. § 532(b)(1) (1988)... 2... ee ce eee ee. 7 
+47 U.S.C. § 532(c)(2) (1988)... 2... 0c cece ce eee. 7 
+47 U.S.C. § 532(h) (Supp. V 1993) .............. 12 
+47 U.S.C. § 532(j) (Supp. V 1993) ................ 12 
+47 U.S.C. § 534 (Supp. V 1993) ...............05. 42 
+47 U.S.C. § 535 (Supp. V 1993) .................. 42 
+47 U.S.C.A. § 544(d)(2) (West Supp. 1995) ....... 10, 39 
+ST ODE BI db ddcncicscvccciciccs 26 
+47 U.S.C. § 558, as in effect before 
+
+the 1992 Act, 98 Stat. 2801 (1984) ............... 7 
+47 U.S.C. § 558 (Supp. V 1993) ................ 2, 12 
+NJ. Stat. Ann. § 48:5A-50 (West 1995) ............ 26 
+N.Y. Exec. Law § 829(3) (McKinney 1982) ......... 26 
+N.Y. Exec. Law § 830 (McKinney 1992) ........... 26 
+V.I. Code Ann. Tit. 30, § 319(c) (1984) ............ 26 
+
+REGULATIONS: 
+
+i LS 2 
+47 C.F.R. § 76.701(a) (1994) .......0..0.00000. 14, 44 
+47 C.F.R. § 76.701(c) (1994) .......0.0.000000. 15, 48 
+47 C.F.R. § 76.701(d) 1994) ................ 14, 42, 46 
+47 CFR. § 76.701(e) (1994) ........0.0.0.000. 14, 42 
+47 C.F.R. § 76.701(f) (1994) ..........0...0005. 14, 42 
+47 C.F.R. § 76.702 (1994) ... 2.0.0.0. ccc ee. passim 
+
+
+LEGISLATIVE MATERIALS: 
+
+
+Cable Television Regulation (Part 2), 1990: 
+Hearings on H.R. 4415 Before the U.S. 
+
+
+House of Representatives Subcomm. on 
+
+Telecommunications and Financ- of the 
+
+Comm. on Energy and Commerce, 101st 
+
+Comg., 2d Seas. (1990) 2.0... c ccc ccnccee 8 
+H.R. Rep. No. 934, 98th Cong., 2d Sess. (1984), 
+
+reprinted in 1984 U.S.C.C._A.N.4655 .......... passim 
+S. Rep. No. 381, 101st Cong., 2d Sess. see 34 
+S. Rep. No. 92, 102d Cong., Ist Sess. lar 29 
+138 Cong. Rec. $646 (daily ed. Jan. 30, 13, 29 
+138 Cong. Rec. S649 (daily ed. Jan. 30, a 13 
+138 Cong. Rec. S650 (daily ed. Jan. 30,1992) ....... 13 
+138 Cong. Rec. S652 (daily ed. Jan. 30, 1992) .. 13, 29, 43 
+
+ADMINISTRATIVE ORDERS 
+
+
+AND PROCEEDINGS: 
+
+
+Amendment of Part 76 of the Common Rules 
+and Regulations Concerning the Cable 
+Television Channel Capacity and Access 
+Channel Requirements of Section 76.251, 
+
+
+S7 F.C.C.2d40 (1981) ..............2..000ee. 33 
+Cable Television Report and Order, 
+36 F.C.C. 2d 143 (1972) ....................... 6 
+
+
+Enforcement of Prohibitions Against Broadcast 
+
+Indecency, MM Dkt. No. 89-494, 5 FCC 
+
+eee 10 
+Enforcement of Prohibitions Against the Use 
+
+of Common Carriers for the Transmission 
+
+of Obscene Materials, GEN Dkt. No. 
+
+83-989, FCC 86-322, 1986 FCC LEXIS 
+
+SUIZ (Sully 18, 1906) 0. ccc cece. 40, 41 
+Enforcement of Prohibitions Against the Use 
+
+of Common Carriers for the Transmission of 
+
+Obscene Materials, GEN Dkt. No. 83-989, 
+
+2 FCC Red. 2714 (1987) ............... 40 
+
+
+ADMINISTRATIVE ORDERS Page 
+AND PROCEEDINGS (cont'd): 
+
+
+Implementation of the Provisions of the Cable 
+Communications Policy Act of 1984, MM Dkt. 
+No. 84-1296, 50 Fed. Reg. 18,637 (1985) ......... 
+
+
+OTHER AUTHORITIES: 
+
+
+Chester J. Antieau, Municipal Corporation Law 
+(3d. ed. 1986) 2... cece cece e eee e reece eceee 
+Daniel L. Brenner, et al, Cable Television and 
+
+
+Other Nonbroadcast Video (1995) .........+0.+: 4, 5 
+
+
+1995 Hometown Award Winners, Community 
+
+Media Rev., Vol. 18, No. 3, at 12 (1995) .......... 
+Ralph Engelman, The Origins of Public Access 
+
+Cable Television 1966-1972 (1990) ......--000005: 
+Amy Harmon, On-Line Service Draws Protest in 
+
+Censor Flap, L.A. Times, Dec. 2, 1995, at D1 ...... 
+Manhattan Cable TV Community Programming 
+
+Handbook, reprinted in 3 Charles D. Farris 
+
+et al, Cable Television Law: A Video 
+
+Communications Practice Guide C-449 (1994) ...... 
+— McQuillin, Law of Municipal Corporations 
+
+(19DD) onc rece cccccccccecccsscsceccccerss 
+Clem Morgello, Do-It-Yourself TV, Newsweek, 
+
+Jam. 3, 1972, BBG nn ccccccccccccescccccsecees 
+Wally Mueller, Controversial Programming on 
+
+Cable Television’s Public Access Channels: 
+
+The Limits of Governmental Response, 38 
+
+
+DePaul L. Rev. 1051 (1989) .............-5. 4, 5,8 
+
+
+Robert C. Post, Between Governance and 
+
+Management: The History and Theory of the 
+
+Public Forum, 34 UCLA L. Rev. 1713 (1987) ...... 
+Ronald D. Rotunda & John E. Nowak, Treatise 
+
+on Constitutional Law (2d ed. 1992) ..........+--. 
+George H. Shapiro, Access, in Current 
+
+
+Developments in CATV 198] at 177 (1981) ......-. 4,6 
+
+
+Cass R. Sunstein, The Partial Constitution (1993) ..... 
+
+
+OTHER AUTHORITIES (cont'd): Page 
+
+
+Laurence H. Tribe, American Constitutional Law 
+a A 
+Reply Brief of Time Warner, Inc. in Time Warner 
+v. FCC, Nos. 93-5349 (and consolidated cases) 
+(D.C. Cir., filed June 26, 1995) ................ 
+United States’ Opposition Memorandum in 
+Support of Defendants’ Motion to Dismiss, 
+or in the Alternative, for Summary Judgment 
+on Plaintiffs’ Claims Other Than "Must Carry,” 
+Time Warmer v. FCC, Nos. 92-2494 (and consoli- 
+dated cases) (D.D.C.., filed Feb. 22, 1993) ....... 
+
+
+Kill 
+
+
+Supreme Court of the Hnited States 
+
+
+OCTOBER TERM, 1995 
+
+
+No. 95-227 
+(Consolidated with No. 95-124) 
+
+
+ALLIANCE FOR COMMUNITY MEDIA, 
+ALLIANCE FOR COMMUNICATIONS DEMOCRACY, 
+AND PEOPLE FOR THE AMERICAN WAY, ef al. 
+
+Petitioners. 
+s 
+
+
+FEDERAL COMMUNICATIONS COMMISSION ANI 
+UNITED STATES OF AMERICA. ef al. 
+Respondents 
+
+
+On Writ of Certiocrari 
+to the United States Court of Appeals 
+for the District of Columbia Circuit 
+
+
+BRIEF FOR PETITIONERS 
+ALLIANCE FOR COMMUNITY MEDIA, 
+ALLIANCE FOR COMMUNICATIONS DEMOCRACY, 
+AND PEOPLE FOR THE AMERICAN WAY 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the Court of Appeals in banc (“the in ban 
+court") is reported at 56 F.3d 105 (D.C. Cir. 1995), and is 
+reprinted at App. 2a. The panel opinion is reported at | 
+F.3d 812 (D.C. Cir. 1993), and is reprinted at App. 9a. Th« 
+
+
+Citations to “App a refer to the appenda to the Ps vA 
+erboran m No. 95-124 
+
+
+The im banc court issued its decision on June 6, 1995. 
+Petitioners timely filed their petition for certiorari on August 9, 
+1995. This Court granted the petition on November 13, 1995. 
+The jurisdiction of this Court is invoked under 28 U.S.C. 
+§§ 1254(1) & 2350. 
+
+
+CONSTITUTIONAL, STATUTORY, AND 
+REGULATORY PROVISIONS INVOLVED 
+
+
+The First Amendment of the United States Constitution 
+
+
+provides, in relevant part: “Congress shall make no law ... 
+abridging the freedom of speech . . . .” 
+
+
+Section 10 of the Cable Television Consumer Protection and 
+Competition Act of 1992 (“the 1992 Act"), Pub. L. No. 102-385, 
+106 Stat. 1460, 1486 (1992), is reprinted at App. 126a. Subsec- 
+tions 10(a), (6), and (d) amended §§ 612 and 638 of the 
+Communications Act of 1934 (“the 1934 Act”), 47 U.S.C. §§ 532 
+& 558 (1988 & Supp. V 1993), Stat. App. 2a-6a.? Subsection 
+10(c) appears in a note following 47 U.S.C. § 531, Stat. 
+App. 2a. 
+
+The FCC promulgated regulations to implement Section 10 
+of the 1992 Act that are codified at 47 C.F.R. §§ 76.701 and 
+76.702 and that are reprinted at App. 170a and 197a, respec- 
+tively. 
+
+STATEMENT 
+
+
+1. Introduction. This case presents a First Amendment 
+
+
+challenge to Congress’s attempt to regulate the content of 
+programs appearing on cable television public access and leased 
+
+
+‘Citations to “Stat. App.__a” refer to the Statutory Appendix attached 
+hereto. 
+
+
+3 
+
+
+access channels. The statutory scheme at issue here, Section 10 
+of the 1992 Act, regulates the programming carried on access 
+channels by singling out a type of constitutionally protected 
+speech that the government disfavors — “indecent speech” as 
+Congress broadly defined it — and denying that speech the 
+statutory right to be carried uncensored on access channels that 
+all other constitutionally protected speech enjoys. The 
+government and the in banc court both acknowledged that, if 
+subjected to constitutional scrutiny, the core elements of 
+Section 10 would be virtually indefensible under the First 
+Amendment. See App. lla, 104a n.9, 110a n.15, 11la n.16. 
+Congress has attempted to dodge that result by creating a 
+content-based scheme that enlists private parties — specifically, 
+cabie operators — to take the ultimate action to censor the 
+disfavored speech. By contending that this mechanism does not 
+involve “state action,” the government seeks to insulate Section 
+10 from First Amendment review. 
+
+
+Petitioners cannot overemphasize that, despite Congress's 
+rhetoric in enacting Section 10, this case is not about obscenity 
+Or pornography. Petitioners and their members include 
+numerous nationwide and local organizations representing 
+public access producers, programmers, editors, access center 
+managers and staff members, and local government officials in 
+hundreds of localities across the nation, as well as thousands of 
+viewers of cable television.’ Petitioners seek the right to 
+transmit and receive constitutionally protected speech. They 
+have no interest in transmitting obscenity or pornography and 
+have no desire to see “how close to the line” they can come 
+Nor do petitioners contend that indecent material can under no 
+circumstances be regulated. To the contrary, petitioners believe 
+strongly in the importance of enabling parents to protect their 
+children from material they deem inappropriate. Petitioners 
+challenge the statute and regulations at issue here, however, as 
+
+
+*Petitaoners are three membership organizations: Alliance for Community 
+Media, Alliance for Communications Democracy, and People For the 
+Amencan Way. For a description of each petitioner, see pages 19-20 of the 
+Jomt Appendix filed nm Nos. 95-124 and 95-227 (consolidated) 
+
+
+4 
+
+
+an unconstitutional governmental regime that will result in the 
+censorship of programming of substantial literary, artistic, scien- 
+
+
+tific, and political merit that currently appears on access 
+channels. 
+
+
+2. Access and Its Origins. For more than 25 years, access 
+channels have been dedicated for the use of members of the 
+public and other entities who otherwise would have no means 
+to communicate via cable television, a medium that “stands at 
+the center of an ongoing telecommunications revolution with 
+still undefined potential to affect the way we communicate and 
+
+our intellectual resources.” Turner Broadcasting Sys., 
+Inc. v. FCC, 114 S. Ct. 2445, 2451 (1994). Cable access 
+channels, by definition, enable parties other than the cable 
+operator to transmit programming over a cable system free 
+from editorial control by the cable operator. See, ¢.g., George 
+H. Shapiro, Access, in Current Developments in CATV 198] at 
+179 (1981) [hereinafter Current Developments}; Wally Mueller, 
+Controversial Programming on Cable Television’s Public Access 
+Channels: The Limits of Governmental Response, 38 DePaul L. 
+Rev. 1051, 1058 (1989) [hereinafter Controversial Programming |. 
+Access channels thus serve as a conduit for “groups and 
+individuals who generally have not had access to the electronic 
+media __ . to become sources of information in the electronic 
+marketplace of ideas.” H.R. Rep. No. 934, 98th Cong., 2d Sess. 
+30 (1984), reprinted in 1984 U.S.C.C.A.N. 4655, 4667. 
+and governmental (“PEG" or “public”) access; and leased access. 
+Members of the public may use public access channels without 
+cost (or at nominal charge). Daniel L. Brenner, et al, Cabie 
+Television and Other Nonbroadcast Video (1995) § 6.04[3)[b} 
+(1995) [hereinafter Brenner}. In contrast, the programmer must 
+pay the cable operator a fee to use leased access. id. 
+§ 6.05[2}{c}. 
+
+Local governmental authorities require cable operators, as a 
+condition of franchising approval, to set aside public access 
+channels for the free use of the general public on a first-come, 
+
+
+5 
+
+
+first-served, nondiscriminatory basis. See J.A. 58;‘ Brenner, 
+supra, §6.04(3)[b}; Manhattan Cable TV Community 
+Programming Handbook, reprinted in 3 Charles D. Ferris, et al, 
+Cable Television Law: A Video Communications Practice Guide 
+C-449, C450 (1994) [hereinafter Cable Television Law); 
+Controversial Programming, supra, at 1060, 1100. Public access 
+channels thus serve as a “site for communication among and 
+between members of the public as the public, about issues of 
+public importance.” J.A. 57. In short, as Congress recognized 
+in 1984, “[p}ublic access channels are often the video equivalent 
+of the speaker’s soap box,” H.R. Rep. No. 934, supra, at 30, 
+reprinted in 1984 U.S.C.C.A.N. at 4667, and thereby provide a 
+public forum for the cable medium. 
+
+
+Public access had its origins in the 1960s, when a small 
+number of cable systems began transmitting programming 
+provided by local citizens. See generally Ralph Engeiman, The 
+Origins of Public Access Cable Television 1966-1972 (1990); 
+Controversial Programming, supra, at 1061. In order to provide 
+the public with "a direct right of access to the video media,” this 
+phenomenon spread as local governments across the country 
+conditioned franchise approval on cable operators’ setting aside 
+public access channels for the public’s use. Brenner, supra, 
+§ 6.04[1] at 6-31. Local governments, in turn, provided the 
+cable operator with “use of public rights-of-way and easements” 
+essential to the cable system's "physical infrastructure.” Turner, 
+114 S. Ct. at 2452. 
+
+
+From the start, freedom from editorial interference by the 
+cable operator was a fundamental feature of public access 
+channels. Local governments typically incorporated into the 
+franchise agreement provisions prohibiting cable operators from 
+interfering with programming on access channels.’ The result 
+
+
+“Citations to "J.A. _.” refer to the Joint Appendix filed in Nos. 95-124 & 
+95-227 (consolidated). 
+
+
+"See J.A. 186 & n.7 (“Many existing franchise agreements . . . prohibit cable 
+companies from exercising editonal control over the content of programming 
+on [access] channels."); 3 Cable Television Law, supra, at C-456 (Manhattan 
+
+
+6 
+
+
+was free expression. As the executive director of one public 
+access channel summed up in 1972: “We're not here to 
+editorialize or make decisions about what people can say over 
+the air. If the Nazi Party walked in, I'd have to give them time. 
+I wouldn’t like it, but that’s what public access is all about." 
+Clem Morgello, Do-It-Yourself TV, Newsweek, Jan. 3, 1972, at 
+49, SO. 
+
+
+3. Access and the 1984 Cable Act. To assure that cable 
+provided “the widest possible diversity of information sources 
+and services to the public,” 47 U.S.C. § 521(4), Congress 
+enacted the Cable Communications Policy Act of 1984, Pub. L. 
+No. 98-549, 98 Stat. 2780 (1984) ("the 1984 Act”), and included 
+provisions relating to access channels in support of that goal. 
+Congress concluded that "[a] requirement of reasonable third- 
+party access to cable systems will mean a wide diversity of 
+information services for the public — the fundamental goal of 
+the First Amendment — without the need to regulate the 
+content of programming provided over cable.” H.R. Rep. No. 
+934, supra, at 30, reprinted in 1984 U.S.C.C.A.N. at 4667. 
+
+
+Congress expressly recognized that by the time of the 1984 
+Act, public access channels were already required by “[a}imost 
+all recent franchise agreements.” Id. The 1984 Act therefore 
+ratified this preexisting authority of local governments to 
+require public access channels as a condition of cable franchise 
+approval, but did not independently require cable operators to 
+provide such channels. See 47 U.S.C. §§ 531(a), 531(b), Stat. 
+
+
+App. la. Congress sought merely to “continue[ | the policy of 
+
+
+Cable’s 1976 rules denying cable operator control of “programming on public 
+[access] channels”), Current Developments, supra, at 193 (generic operating 
+rules agreement from 1981, providing that “[t}he cable company shall have no 
+control over the content of public access programs”). 
+
+
+"Prior to the 1984 Act, the PCC had sought to supp'ant locally created 
+public access with a national rule requiring all cable systems to provide access 
+channels. See Cable Television Report and Order, 36 F.C.C.2d 143, 189-92 
+(1972). These rules never went into effect, however, and in 1979 this Court 
+ruled that the PCC lacked the statutory power to impose such rules. See 
+FCC v. Midwest Video Corp., 440 U.S. 689 (1979). 
+
+
+7 
+
+
+allowing cities to specify in cable franchises that channel 
+capacity . . . be devoted to such use.” H.R. Rep. No. 934, 
+supra, at 30, reprinted in 1984 U.S.C.C.AN. at 4667. In 
+addition, the 1984 Act expressly required that cable operators 
+provide leased access channels for commercial use by entities 
+unaffiliated with the cable operator. 47 U.S.C. § 532(b)(1), 
+Stat. App. 2a-3a. 
+
+
+In the 1984 Act, Congress recognized cable operators’ 
+hostility toward access programming. Congress understood that 
+access channels may "represent[] a social or political viewpoint 
+that a cable operator does not wish to disseminate,” H.R. Rep. 
+No, 934, supra, at 48, reprinted in 1984 U.S.C.C.A.N. at 4685. 
+Congress also observed that access channels may “compete|] 
+with a program service already being provided by that cable 
+system,” id., and may use up channel capacity the operator 
+could otherwise use for its own programming.’ Thus, to ensure 
+that access channels would remain available for use by the 
+public, the 1984 Act reaffirmed the long-standing policy at the 
+local level that prohibited cable operators from “exercis{ing] any 
+editorial control over any” constitutionally protected expression 
+appearing on access channels. 47 U.S.C. §§ 531(e), 532(c)(2), 
+Stat. App. la, 4a. (emphasis added). Concomitantly, cable 
+operators were granted a statutory immunity from all criminal! 
+and civil liability arising from the content of access 
+programming, leaving liability with the member of the public or 
+other entity that actually provided the programming. See 98 
+Stat. 2801 (1984) (prior version of 47 U.S.C. § 558). 
+
+
+4. Public Access Today. Public access channels have fulfilled 
+the hope that they would become a robust "electronic market- 
+place of ideas." H.R. Rep. No. 934, supra, at 30, reprinted in 
+
+
+"As this Court recently recognized, structural factors “give[] the cable 
+operator bottleneck, or gatekeeper, control over most (if not all) of the 
+television programming that is channeled into the subscriber's home,” and 
+therefore a cable operator, unlike speakers in other media, "can . . . silence 
+the vowe of competing speakers with a mere flick of the switch,” creating 
+“[t}he potential for abuse of this private power over a central avenue of 
+communication.” Turner, 114 S. Ct. at 2466. 
+
+
+of groups who have used public access include social service 
+(28%), community (25%), education (12%), cultural (8%), 
+religious (8%), arts (8%), health (7%), and government (3%).” 
+Id. at 1064. Further, public access channels are often the forum 
+for core political debate among a wide range of viewpoints. 
+J.A. 10, 59. 
+
+
+Moreover, access channels are widely viewed in those 
+communities where they are available. Approximately 30 
+million homes or 70 million people are provided with an access 
+channel on their cable system. J.A. 8-9. According to one 
+multisite study in the rulemaking record, "47% of [cable] 
+viewers watch community [access] channels, a quarter of them 
+at least three times in two weeks; 46% say it was ‘somewhat’ to 
+‘very’ important in deciding to subscribe to or remain with 
+cable.” J.A. 56. 
+
+
+“Some 2,000 centers throughout the country produce about 10,000 hours of 
+local programming a week. J.A. 8, 56; Cable Television Regulation (Part 2), 
+1990: Hearings on H.R. 4415 Before the U.S. House of Representatives 
+Subcomm. on Telecommunications and Finance of the Comm. on Energy and 
+Commerce, 101st Cong., 2d Sess. (1990) (statement of Sharon B. Ingraham, 
+the National Federation of Local Cable Programmers); see also J.A. 56 
+(annual video festival dedicated to showcasing local origination and PEG 
+channel productions attracted 2,100 entries in 1990 from 360 cities mn 41 
+states). 
+
+
+*For instance, public access has been host to viewpoints as diverse as those 
+of leftist critics of the Gulf War (in Deep Dish TV's national series) and 
+those of Rep. Newt Gingrich (R-Ga), who hosted half-hour shows produced 
+by the Washington, D.C.-based American Citizens’ Television (ACTV). J.A. 
+10, 59. 
+
+
+9 
+
+
+On occasion, members of the public produce public access 
+naa ae 
+censorship, feminism may involve sexually explicit 
+materials. This programming includes, for example: a live call- 
+in show produced by a University of Michigan professor 
+intended to "provid{e] critical answers to questions of human 
+sexuality"; “Beyond the Loss of the Breast,” an award-winning 
+documentary about breast cancer victims that was shown on 
+Palo Alto’s public access channel; Cambridge Community 
+Television’s cablecast of a entitled “Truth or 
+Consequences: A Guide to Safe Sex at MIT"; “Desperately 
+Seeking Susan,” a program in Olympia, Washington that is 
+hosted by a therapist and includes frank discussion of sexua! 
+behavior and dysfunctions; “Health in America,” a monthly 
+Sacramento program that discusses alternative health-car 
+options and has included images of women with mastectomies 
+and damaged breast implants; and the "HealthVisions” series, 
+produced by Good Samaritan Hospital and Medical Center of 
+Portland, Oregon, which has included programs entitled "PMS: 
+Breaking the Cycle" and “Understanding Impotence: A 
+Common and Treatable Problem.” J.A. 21-23, 64, 67, 155; 1995 
+eee 2 as ~~ sr gpm mtn Media Rev., Vol. 18, 
+
+. 3, at > programming provides valuable 
+information, but may at times be controversial or offensive to 
+some viewers.” 
+
+
+5. Lockboxes. The 1984 Act evinced Congress’s concern that 
+children be protected from any cable programming that their 
+parents found unsuitable, whatever the channel. Thus, the 1984 
+Act included a “lockbox” provision, which requires cable 
+operators to make available to their subscribers an electronic 
+
+
+“Leased access programming often involves issues similar to those on public 
+access. For example, the 90’s Channel, owned by DAETCI (a petitioner in 
+No. 95-124), demonstrates the benefits that leased access can provide. It has 
+carned documentanes and magazine programs on political, environmental, 
+labor, and social topics, much of which was otherwise unavailable to viewers. 
+J.A. 199. A small but important portion of the 90’s Channe!’s programming 
+has dealt with such topics as sex education and AIDS, gay rights, feminism, 
+and arts censorship. J.A. 199-200. 
+
+
+10 
+
+
+device that "prohibit{s] viewing of a particular cable service 
+during periods selected by that subscriber.” 47 U.S.C. 
+§ 544(d)(2), Stat. App. Sa. A lockbox thus permits an adult 
+subscriber to control what programming that subscriber's 
+household may view." 
+
+
+the FCC, the courts, and cable operators have all 
+recognized that lockboxes are an effective way to _— 
+children from material their parents deem inappropriate. In 
+legislative history of the Sal Ann Canpontidameoines he 
+lockbox provision “provides one means to effectively restrict the 
+availability of [unsuitable or unwanted] programming, particu- 
+larly with respect to child viewers, without infringing the First 
+Amendment rights of the cable operator, the cable programmer, 
+or other cable viewers." H.R. Rep. No. 934, supra, at 70, 
+reprinted in 1984 U.S.C.C.A.N. at 4707. 
+
+
+The FCC, too, has embraced lockboxes as an effective means 
+to protect children from inappropriate programming. Soon 
+after passage of the 1984 Act, the FCC concluded that “the 
+provision for lockboxes largely disposes of issues involving the 
+Commission’s standard for indecency, and would also be a 
+significant factor in cases related to obscenity and similar 
+offensive programming.” Implementation of the Provisions of 
+the Cable Communications Policy Act of 1984, MM Dkt. No. 
+84-1296, 50 Fed. Reg. 18,637, 18,655 (1985). The FCC has also 
+specifically found that lockboxes “can restrict access by children 
+whether or not parents are physically present and actively 
+supervise.” Enforcement of Prohibitions Against Broadcast 
+Indecency, MM Dkt. No. 89-494, 5 FCC Red 5297, 5305 (1990). 
+
+Courts and cable operators have also noted the effectiveness 
+of lockboxes. Indeed, the in banc court below, even while 
+
+
+“Lockboxes vary in their level of sophistication depending upon the 
+technology employed. See, eg, J.A. 79-154 (instructions for various 
+lockboxes). Many permit a parent to automatically lift the lock at a particular 
+time, while others can only be unlocked manually. In either case, parents can 
+lock out an access channel they do not wish the child to view and then unlock 
+it when they want themselves or their children to view a specific program. 
+J.A. 23. 
+
+
+11 
+
+
+rejecting lockboxes as an alternative to Section 10’s approach, 
+suggested that "lockboxes are effective means of restricting 
+access to indecent programming.” App. 38a n.22; see also Cruz 
+v. Ferre, 755 F.2d 1415, 1420 (11th Cir. 1985) (noting "parental 
+manageability of cable television" afforded by “lockbox’ or 
+‘parental key.™). Likewise, two of the largest cable operators 
+in the country, a number of smaller cable operators, and a cable 
+operator trade association all noted the utility of lockboxes in 
+the rulernaking record below, J.A. 160, 178, 246-47, 256-57, and 
+the record shows that Time Warner Cable regularly informs 
+subscribers of the availability of lockboxes to block undesired 
+
+
+programming. See J.A. 372. 
+
+
+6. Section 10 of the 1992 Cable Act. The Cable Television 
+Consumer Protection and Competition Act of 1992, Pub. L. No. 
+102-385, 106 Stat. 1460 (1992) (“the 1992 Act”), is a lengthy 
+enactment that was designed, after months of debate, study, and 
+drafting, to promote diversity of views and information available 
+via the cable medium and to increase competition in the cable 
+industry. See Section 2(b) of the 1992 Act. It accomplished 
+these tasks primarily by reregulating cable service and imple- 
+menting the “must-carry” rules that were at issue in Turner 
+Broadcasting Sys., Inc. v. FCC, 114 S. Ct. 2445 (1994). 
+
+
+The provisions challenged here, however, were a legislative 
+afterthought. Neither of the bills that originated the 1992 Act 
+
+
+contained any provision resembling what is now Section 10, nor 
+did any congressional hearing or report discuss the provision. 
+Rather, on the last legislative day before the Senate approved 
+the bill, three separate floor amendments were added that were 
+collectively codified as Section 10. 
+
+
+Section 10’s interdependent provisions amended the 1984 
+Act’s content-neutral treatment of programming on access 
+channels to create a new content-based censorship scheme. 
+Under this scheme, which applies to access channels, but not to 
+any other cable television channels, the government identifies 
+a type of speech it disfavors and authorizes cable operators to 
+ban that type — and only that type — of speech. 
+Simultaneously, the scheme imposes criminal and civil liability 
+upon the cable operator if it does not ban the speech and if 
+
+
+12 
+
+
+that speech — which is authored not by the cable operator but 
+by the public or other entities unaffiliated with the cable 
+operator — “includes obscene material.” 
+
+
+Section 10(c), which applies to public access channels, 
+requires the FCC to promulgate regulations authorizing a cable 
+
+
+See 47 U.S.C. § 531 note, Stat. App. 2a. Thus, under this 
+provision, all constitutionally protected speech outside these 
+categories must be carried by the cable operator, but operators 
+are specifically authorized by Congress not to carry material 
+falling within the disfavored categories. 
+
+Sections 10(a) and 10(b) provide two of the key components 
+of the government’s censorship scheme for access 
+programming. Section 10(a) authorizes ais Veneto to 
+prohibit leased access programming that the operator 
+“reasonably believes describes or depicts sexual or excretory 
+activities or organs in a patently offensive manner as measured 
+by contemporary community standards” (ie, “indecent 
+programming”). See 47 U.S.C. § 532(h), Stat. App. 4a. If the 
+cable operator does not ban such programming pursuant to 
+Section 10(a), Section 10(b) requires the cable operator to 
+place the disfavored programming on a separate, blocked 
+channel which the subscriber can receive only by requesting 
+access in writing. See 47 U.S.C. § 532(j), Stat. App. 4a-5a. 
+Under these two subsections, therefore, “indecent” program- 
+ming must be blocked or banned outright, while no other leased 
+access programming may be censored by cable operators at all. 
+
+
+For both public access and leased access, Section 10(d) 
+partially abrogates the statutory immunity from liability for the 
+content of access programming that the 1984 Act provided 
+cable operators, and thereby effectively compels cable operators 
+to censor. This newly-imposed liability leaves the cable 
+operator subject to civil and criminal liability for carrying access 
+programming that “involves obscene material.” See 47 U.S.C. 
+§ 558, Stat. App. 6a. Section 10(d) thus imposes liability on 
+cable operators for speech they merely transmit as a conduit. 
+Upon introducing this provision on the Senate floor, its sponsor 
+
+
+13 
+
+
+forthrightly declared that its purpose was to "put an end to the 
+kind of things going on" on access channels. 138 Cong. Rec. 
+S652 (daily ed. Jan. 30, 1992) (statement of Senator Helms). 
+
+
+Despite its dramatic departure from the 1984 Act’s method 
+of protecting children from inappropriate cable programming, 
+Section 10 was not addressed at any legislative hearing and 
+received only abbreviated discussion on the Senate floor. The 
+impetus for this legislation was essentially a few anecdotes 
+based on constituents’ letters complaining about programs on 
+access channels." The brief remarks made on the Senate 
+floor focused on two themes: first, that Congress disliked a 
+certain type of programming — so-called "indecent" program- 
+ming — and second, that Congress's efforts to disadvantage this 
+type of programming should evade constitutional review.” 
+The legislative record contains no findings to support a 
+conclusion that lockboxes have somehow become ineffective to 
+protect minors from indecent programming — indeed, neither 
+lockboxes nor any other less restrictive means were ever even 
+mentioned. Nor was there any showing that access program- 
+ming presents unique problems compared to other 
+programming. 
+
+
+7. The FCC’s Rulemaking and Implementing Regulations. 
+The FCC commenced an informal rulemaking to implement 
+Section 10. Petitioners participated in that rulemaking and filed 
+extensive comments detailing Section 10’s constitutional 
+
+
+“The administrative record below indicates that Congress’s concern about 
+highly objectionable programming appearing on public access channels was 
+in fact misplaced. The anecdotes related on the Senate floor of objectionable 
+programming that supposedly appeared on public access, see 138 Cong. Rec. 
+S649-S0 (daily ed. Jan. 30, 1992) (statements of Senators Fowler and Wirth), 
+actually appeared on leased access channels. See J.A. 238. 
+
+
+"See, eg., 138 Cong. Rec. S646 (daily ed. Jan. 30, 1992) (Senator Helms: 
+"Under my amendment, cable operators have the right to reject such filthy 
+programming.”); id (Senator Helms: "[T]here is no constitutional problem 
+with this amendment because this is not governmental action. It is an action 
+taken by a private party.”); id at S649 (Senator Fowler: "[Indecent and other 
+undesired programming] should be stopped, must be stopped, and I think this 
+amendment will empower the cable operators to stop it.”). 
+
+
+14 
+
+
+infirmities. J.A. 4-154, 281-310." Some forty other parties 
+also participated in the rulemaking. 
+
+The extensive record developed in that proceeding revealed 
+that cable operators intended to use their new 
+powers broadly. E.g. J.A. 1-2, 77-78, 175-76, 228-29. It further 
+revealed that many cable operators agreed with petitioners that 
+Section 10’s censorship scheme posed serious constitutional 
+problems. E.g.,J.A. 157, 159-60, 175, 197, 232-33, 244. Finally, 
+the record was replete with examples of valuable programming 
+of literary, artistic, scientific, and political merit that could be 
+subject to censorship pursuant to Section 10. See J.A. 21-23, 
+64-68, 155, 164, 200, 224-25; see also App. 99a n.3 (FCC's 
+broad definition of "indecency" could include “a truly scientific 
+program ... that discusses the prevention of life-threatening 
+diseases through the use of condoms”). 
+
+
+The FCC subsequently issued two Reports and Orders that 
+promulgated regulations implementing Section 10. Consistent 
+with Congress’s command, these regulations authorize cable 
+operators to ban indecent programming on leased and public 
+access channels. 47 C.F.R. §§ 76.701(a), 76.702, App. 171a, 
+197a-98a. The regulations also require all access programmers 
+to self-identify any “indecent” programming. 47 C.F.R. 
+§§ 76.701(d), 76.701(e), 76.702, App. 17la-72a, 197a-98a. 
+Unless the access programmer certifies that the programming 
+is not indecent, the cable operator need not carry the 
+programming in question. 47 C.F.R. §§ 76.701(f), 76.702, App. 
+172a, 197a-98a. The FCC justified these certification 
+requirements “in view of the removal of cable operators’ 
+immunity” pursuant to Section 10(d). Second Order # 25, App. 
+192a; First Order 4150, App. 155a-56a. If a dispute arises 
+between a leased access programmer and a cable operator over 
+whether a particular program is “indecent,” the FCC has agreed 
+to resolve the dispute (although it will not do so for disputes 
+involving public access programming). See First Order 9 75, 
+
+
+*AJso joining petitioners’ comments was the American Civil Liberties 
+Union, a petitioner in No. 95-124, which the Court has consolidated with this 
+case. 
+
+
+15 
+
+
+App. 167a-68a; Second Order 4 30, App. 194a. Finally, if a 
+cable subscriber submits a written request to receive leased 
+access programming that a cable operator has blocked under 
+Section 10(b) (rather than banning it outright under 
+Section 10(a)), the cable operator may take up to a month to 
+comply with the request. 47 C.F.R. § 76.701(c), App. 171a. 
+
+
+The FCC also concluded that “state laws regarding inde- 
+cency ... are preempted by the Cable Act’s explicit provisions 
+governing indecent programming," First Order 1 51 7.44, App. 
+157a (emphasis added), and that “Congress intended the new 
+rights accorded by section 10(c) to supersede pricr agreements” 
+regarding public access. Second Order 410 n.7, App. 184a 
+(emphasis added). Thus, notwithstanding that many local 
+governments bargained for access channels to be free from the 
+cable operator’s editorial interference as a condition of 
+franchise approval, or that some state laws prohibit censorship 
+of access programming, Section 10 overrides such franchise 
+agreements and state laws, giving cable operators a power to 
+exercise editorial discretion over indecent speech that they 
+
+
+neverpreviously had, while leaving intact the ban on censorship 
+of all other speech. 
+
+
+some of the constitutional problems raised by 
+Section 10, the FCC narrowed several of the statutory terms. 
+For example, the FCC interpreted the overbroad phrase 
+“sexually explicit conduct” in Section 10(c) to mean "indecent" 
+as defined in 10(a). Second Order 4 15, App. 187a. Similarly, 
+the agency recognized that not all “material soliciting or 
+promoting unlawful conduct” could be constitutionally prohi- 
+bited, and therefore construed that term in Section 10(c) to 
+mean “material that is otherwise proscribed by law,” regardless 
+of whether it involves solicitation or promotion of unlawful 
+conduct. See Second Order 47 16-17, App. 187a-88a. These 
+interpretations were codified into the final rule. See 47 C.F.R. 
+§ 76.702, App. 197a-98a. 
+
+
+The FCC also acknowledged that Section 10(d)'s abrogation 
+of the cable operator’s immunity for access programming that 
+“involves obscene material” was far too vague and overbroad to 
+withstand constitutional scrutiny. Yet, though the FCC said it 
+
+
+The Panel Below. . 
+the FCC orders in the Court of Appeals and argued that 
+
+
+at oral argument before a panel of the Court of Appeals that 
+Sections 10(a) and 10(c) were unconstitutional if state action 
+was present. See App. 104a n.9, 110a n.15, 11la n.16. 
+
+
+The panel found state action present and accordingly 
+invalidated the statute. First, invoking the “significant encour- 
+agement” test of Blum v. Yaretsky, 457 U.S. 991, 1004 (1982), 
+the panel found that Sections 10(a) and 10(c) and their 
+implementing regulations involved state action because they 
+
+an effort on the part of the government to enlist the 
+cable operator in the suppression of indecent material” in that 
+they “focus{] the cable operator’s attention on the only material 
+the government seeks to suppress, and then permit(] the cable 
+operator expressly to suppress that — and no other — 
+material." App. 104a-O0S5a. Then, consistent with the 
+government’s concession, the panel found that Sections 10(a) 
+and 10(c) could not survive constitutional scrutiny under the 
+"least restrictive means” test applicable to any content-based 
+regulation of speech. App. 109a, 11la. Finally, the panel held 
+
+
+that the block-and-segregate provisions of Section 10(b) singled 
+out leased access channels for content-based regulation while 
+
+
+leaving other channels (e.g., a cable operator’s own channels) 
+unregulated, and remanded this issue to the FCC "to justify or 
+to cure” this potential constitutional infirmity. App. 121a. 
+
+
+9. The In Banc Decision Below. On rehearing, the in banc 
+court acknowledged that if decisions not to carry indecent 
+programs on access channels “were treated as decisions of the 
+government, the . . . United States would be hard put to defend 
+the constitutionality of Section 10. App. 1la. Nonetheless, the 
+in banc court held that because the censorship contemplated by 
+Congress was “permissive” — that is, cable operators are 
+
+
+17 
+
+
+authorized, but ostensibly not required, to censor “indecent” 
+programming on access channels — no state action was 
+involved in the scheme. In so holding, the in banc court was 
+unpersuaded that state action was present, despite the fact that 
+“Congress enacted section 10(a) and section 10(c)," which on 
+their face single out particular speech for unfavorable treatment 
+based on its content, and "a federal agency issued regulations 
+putting the provisions into effect." App. 12a. Rather, the in 
+banc court mistakenly assumed that Congress had merely 
+“restore[d]" editorial discretion to cable operators, App. 15a, 
+even though local franchising agreements, as well as some state 
+laws, had precluded such editorial discretion since long before 
+the 1984 Act. The in banc court also considered and rejected 
+the argument that access channels constitute a public forum, 
+notwithstanding contrary expressions by Congress, 
+commentators, and the FCC. App. 29a. 
+
+
+The in banc court did pass on the constitutionality of Section 
+10(b)’s mandatory blocking of “indecent programming” on 
+leased access, but found that this measure was the least 
+restrictive means of furthering the state’s interest in shielding 
+children from indecent material. The in banc court acknow- 
+ledged that existing law already mandates that cable operators 
+make lockboxes available to subscribers, that lockboxes enable 
+parents “to block indecent programming they do not want their 
+children to see,” and that lockboxes “are effective means of 
+restricting access to indecent programming.” App. 38a n.22. 
+Nonetheless, the in banc court upheld the constitutionality of 
+Section 10(b) on the ground that lockboxes do not provide 
+
+
+ee ee eae oe 
+indecent material. App. 36a. 
+
+
+Four judges dissented from all or part of the majority 
+opinion. In the principal dissenting opinion, Judge Wald 
+observed that Section 10 creates "two fundamentally different 
+statutorily-assigned schemes of substantive and procedural 
+rights, duties, and burdens” depending on “whether the content 
+of the programming meets the government's definition of 
+‘indecent.” App. 7la-72a. Citing this Court’s decision in 
+Turner, Judge Wald concluded that Section 10 is "a 
+
+
+18 
+
+
+congressionally-enacted statute that both facially discriminates 
+on the basis of the content of speech, and has a ‘manifest 
+
+
+purpose’ to ‘burden . . . speech of a particular content.” App. 
+73a. 
+
+
+Section 10 and its implementing regulations involve state 
+acts One eS 
+First Amendment scrutiny. First, Congress’s very 
+enactment of Section 10, which on its face disadvantages certain 
+disfavored speech based solely on the speech’s content, is action 
+by the state and therefore subject to review. Laws like Section 
+10 “that suppress, disadvantage, or impose differential burdens 
+upon speech because of its content” are subject to the “the most 
+exacting scrutiny” under the First Amendment. Turner Broad- 
+casting Sys., Inc. v. FCC, 114 S. Ct. 2445, 2459 (1994). 
+
+
+Second, Section 10’s preemption of all contrary state laws 
+and local franchising agreements constitutes state action. State 
+action is present when a federal law authorizes private parties 
+to act in contravention of state law or contractual obligations 
+that would otherwise apply. Railway Employes’ Dep’t v. Hanson, 
+351 U.S. 225 (1956). Section 10 enables cable operators to 
+censor indecent programming on access channels, notwith- 
+standing state law and local franchising agreements prohibiting 
+such censorship. 
+
+Third, state action is present because, through Section 10, 
+Congress has significantly encouraged cable operators to 
+prohibit the type of speech Congress disfavors. Skinner v. 
+RLEA, 489 U.S. 602 (1989). Section 10 removes the legal 
+im preventing cable operators from censoring indecent 
+speech, while leaving that impediment intact for all other types 
+of speech, and simultaneously makes the cable operator liable 
+Section 10(d), App. 127a. Moreover, with respect to leased 
+access, cable operators are required either to adopt an 
+administratively burdensome system to block indecent speech 
+under Section 10(b), or to avoid such burdens by banning the 
+speech outright pursuant to Section 10(a). Finally, the FCC 
+
+
+19 
+
+
+participates in the censorship by resolving disputes between 
+leased access programmers and cable operators. 
+
+Section 10 also faces First Amendment scrutiny because it 
+imposes content-based distinctions on speech in public fora 
+established by local governments. Because localities have 
+dedicated public access channels for the public’s expressive 
+activity, those channels provide an electronic public forum for 
+the cable medium. Cornelius v. NAACP Legal Defense & Educ. 
+Fund, Inc., 473 U.S. 788 (1985). Congress's attempt to modify 
+
+
+ee oe we ee Oe 
+triggers First Amendment review 
+
+
+Section 10 cannot withstand First Amendment scrutiny. As 
+a law that discriminates against certain constitutionally 
+protected speech on the basis of the speech’s content, Section 
+10 can pass constitutional muster only if it constitutes the least 
+restrictive means to further a compelling government interest. 
+Sable Communications of Cal., Inc. v. FCC, 492 U.S. 115 (1989). 
+Section 10 impedes both programmers’ ability to speak, and 
+viewers’ crucial right to receive speech, via access channels. 
+Congress never considered, however, any less restrictive means 
+of protecting children from indecency, such as the “safe 
+harbors” used in broadcasting, or cable “lockboxes,” which cable 
+operators are already required under existing law to make 
+available to subscribers. In fact, Congress’s failure to 
+investigate whether the existing lockbox requirement already 
+advances the articulated interest before enacting a more 
+restrictive scheme alone renders Section 10 unconstitutional. 
+
+
+Section 10’s imposition of content-based restrictions only 
+upon those who speak via access channels also violates the First 
+Amendment. Only access programmers face content-based 
+burdens imposed by Section 10; programmers of other channels 
+do not. Congress may not distinguish among speakers in this 
+manner. First Nat'l Bank of Boston v. Bellotti, 435 U.S. 765 
+(1978). 
+
+
+Section 10 is unconstitutionally vague because the definition 
+of “indecent” speech, which includes material that cable 
+
+
+operators “reasonably believe[]" to be "patently offensive,” 
+
+
+20 
+
+
+Section 10(a)(2), App. 126a, essentially boils down to a 
+subjective determination of good taste. Arbitrary application by 
+cable operators and self-censorship by access programmers is 
+sure to result, contrary to the First Amendment. NAACP v. 
+Button, 371 U.S. 415 (1963). 
+
+
+Finally, Section 10 imposes a system of content-based prior 
+restraints upon access programming by delegating censorship 
+power to cable operators, who then act as involuntary govern- 
+ment surrogates. Given the absence of required judicial 
+safeguards, this system of prior restraints violates the First 
+Amendment. Southeastern Promotions, Lid. v. Conrad, 420 U.S. 
+546 (1975). 
+
+
+ARGUMENT 
+I. 
+
+
+SECTION 10 OF THE 1992 CABLE ACT AND THE 
+REGULATIONS PROMULGATED THEREUNDER 
+REQUIRE CONSTITUTIONAL SCRUTINY. 
+
+
+A. State Action Is Inherent in the Enactment of Section 10 
+Because It Favors Some Speech But Disfavors Other 
+Speech Based Solely on the Speech’s Content. 
+
+
+1. The Constitutionality of Section 10 Must be Evaluated 
+Based on the Nature of Petitioners’ Constitutional 
+Challenge. 
+
+
+The first five words of the First Amendment make the state 
+action picture in this case clear: “Congress shall make no law 
+... abridging the freedom of speech.” (Emphasis added.) In 
+this case, the “law” that “abridg[es] the freedom of speech” is a 
+
+enactment — Section 10 of the 1992 Act. It is 
+beyond dispute that this law, as well as its implementing 
+regulations, are the products of state action. 
+
+
+Further, this law is precisely the sort of enactment that this 
+Court has said must be subjected to First Amendment scrutiny. 
+Just last year, this Court reaffirmed that the First Amendment 
+requires "the most exacting scrutiny to regulations that suppress, 
+disadvantage, or impose differential burdens upon speech because 
+
+
+21 
+
+
+of its content.” Turner Broadcasting Sys., Inc. v. FCC, 114 S. Ct. 
+2445, 2458-59 (1994) (emphasis added). The provisions of 
+Section 10 plainly “disadvantage” and “impose differential 
+burdens” on certain speech — “indecent” programming on cable 
+access channels — based on its content. As a result of the 1992 
+Act’s amendment of the 1984 Act, all speech that members of 
+the public wish to communicate over all access channels is free 
+from censorship, except for speech that is “indecent,” which is 
+subject to censorship by the cable operator. Thus “indecent” 
+specch is, by law, worse off than all other speech insofar as 
+access to cable television is concerned. All other speech has an 
+automatic right to appear on access channels; "indecent" speech 
+may appear only at the sufferance of the cable operator. The 
+mere fact of being subject to censorship, while all other speech 
+is not, is a disadvantage and a differential burden that Congress 
+has visited upon “indecent” speech based solely on its 
+content.” 
+
+It is the very creation of this content-based law by Congress 
+— the ultimate state actor — that petitioners contend is uncon- 
+stitu’ onal on its face. It is the government, through Section 10, 
+that specifies what speech may be censored and what speech 
+may not be censored. Accordingly, the state action here is as 
+plain as it is in any case in which a party challenges a law that 
+disadvantages speech based on its content. See Laurence H. 
+Tribe, American Constitutional Law § 18-1, at 1688 (2d ed. 
+1988) (“If litigants challenge a federal or state statute... in a 
+case where the validity of the statute is necessarily implicated, 
+state action is obvious, and no formal inquiry into the matter is 
+needed.”); Cass R. Sunstein, The Partial Constitution 204 (1993) 
+("[T}e find a constitutional violation, one needs to show that 
+
+
+“Even respondent National Cable Television Association (NCTA”) — the 
+principal trade association of the cable television industry — recognizes 
+Section 10 as a content-based regulation of speech. The NCTA described 
+Section 10 as follows im the record below: "[The Act] allows operators to 
+deny access to some speech — but only to speech that the governnent de fines 
+as objectionable . . . . This direct rzulation of content is on very shaky 
+constitutional grounds.” Comments of NCTA at 4; see J.A. 244. 
+
+
+22 
+
+
+governmental action has abridged the freedom of speech. That 
+action must usually take the form of a law or regulation."). 
+
+
+The present case therefore is not like those in which the 
+actions of a private party defendant were alleged to have 
+violated the constitution. See, eg., Blum v. Yaretsky, 457 U.S. 
+991 (1982); Flagg Bros., Inc. v. Brooks, 436 U.S. 149 (1978); 
+Jackson v. Metropolitan Edison Co., 419 U.S. 345 (1974); of. 2 
+Ronald D. Rotunda & John E. Nowak, Treatise on Constitu- 
+tional Law § 16.1, at 524 (2d ed. 1992) (“The so called ‘state 
+action’ issue arises only when the person or entity alleged to 
+have violated the Constitution is not acting on behalf of the 
+government."). To be sure, Section 10 envisions that private 
+cable operators will play a role in the censorship of indecent 
+speech. But whether private cable operators are state actors 
+when they censor indecent speech need not be decided here. 
+This suit is directed against state actors — the United States 
+and the FCC — and challenges on its face a content-based law 
+put in place by those actors. See Blum, 457 US. at 1003 
+("Faithful adherence to the ‘state action’ requirement . . 
+requires careful attention to the gravamen of the plaintiff's 
+complaint."). Regardless of who is doing the actual censoring, 
+and whether the act of censorship is compelled, encouraged, or 
+merely authorized, the government’s decision to enact a law 
+that disadvantages certain speech based on its content is all that 
+is needed to invoke First Amendment scrutiny. Otherwise, "the 
+government [would] evade constitutional responsibility for its 
+own conduct, simply because it has set up a private party as the 
+triggerman in its carefully crafted scheme.” App. 74a (Wald, J., 
+
+In short, when Congress makes a law that on its face 
+disadvantages protected speech based on its content, that law 
+must receive First Amendment scrutiny. The only state action 
+necessary to invoke this scrutiny when parties present a facial 
+challenge to the law should be the creation of the content-based 
+law itself. Accordingly, Section 10’s constitutionality must be 
+evaluated in this case. 
+
+
+23 
+
+
+2. The In Banc Court’s Focus on the Restoration of Editorial 
+Discretion to Cable Operators Is Both Factually Inaccurate 
+and Irrelevant to the State Action Inquiry. 
+
+
+The in banc court rested its refusal to reach the constitu- 
+tionality of Sections 10(a) and 10(c) in large part on its 
+mistaken view that Section 10 merely “restored” to cable 
+operators the editorial discretion to ban indecent programming 
+that Congress took away under the 1984 Act. App. 13a-14a. 
+That conclusion, however, is both factually erroneous and 
+legally irrelevant. 
+
+
+First the facts: It is undisputed that long before the 1984 
+Act, many local cable franchising agreements precluded cable 
+operators from exercising editorial discretion over the content 
+of programming on access channels. Indeed, local governments 
+established public access channels so that members of the 
+public could communicate via the cable medium free from the 
+editorial interference of the cable operator. See supra pp. 4-6. 
+Thus, Section 10 did not restore discretion taken away by the 
+1984 Act; by virtue of local franchise agreements, cable 
+operators typically never had that discretion in the first place. 
+
+
+Second, the law: Even if Section 10 had restored editorial 
+discretion previously withdrawn by Congress, the discriminatory 
+restoration of pre-existing discretion is subject to constitutional 
+scrutiny. For example, if Congress were to carve out a narrow 
+exception to a broad-based anti-discrimination law, such as Title 
+VII's ban on employment discrimination, by amending the 
+Statute to allow private employers to discriminate against 
+persons of a particular race, the government surely could not 
+evade scrutiny of such a statute on state action grounds. To the 
+contrary, byt be Dead cee agama eer 
+vantage a racial minority, the repeal is unconstitutional.” 
+Crawford v. Los Angeles Bd. of Educ., 458 U.S. 527, 539 n.21 
+(1982) (emphasis added). Even though the statute would 
+arguably “restore” to employers the pre-existing right to base 
+employment decisions on discriminatory grounds, the end result 
+would be a statute that outlawed discrimination against 
+members of all races but one, and that would surely constitute 
+
+
+24 
+
+
+the creation, by a government actor, of an unconstitutional 
+scheme. 
+
+
+Here, Congress’s putative "restoration" of editorial discretion 
+similarly demands constitutional scrutiny. Congress, by 
+enactment of the 1992 Act. “restored” editorial discretion over 
+a single category of speech based solely on its content, thereby 
+leaving that speech at a disadvantage vis-a-vis all other speech. 
+The end result is a law that disfavors speech based solely on its 
+content, which must be subject to constitutional scrutiny. 
+
+
+B. State Action Inheres in Congress’s Passage of a Law That 
+Preempts All Contrary State Laws and Supersedes Al! 
+Conflicting Local Franchising Agreements. 
+
+
+State action is present in Section 10 and its implementing 
+regulations for the additional reason that Section 10 preempts 
+all contrary state and local laws and cable franchise agreements 
+that would otherwise forbid cable operators from exercising 
+editorial discretion over indecent programming on access 
+channels. This preemptive effect gives rise to state action even 
+if the regulatory scheme simply authorizes, without compelling, 
+censorship of indecent programming. 
+
+
+Under this Court’s decision in Railway Employes’ Dep't v. 
+Hanson, 351 U.S. 225 (1956), it is settled that federal statutes 
+
+
+that preempt contrary state and local laws give rise to state 
+action, even when the federal statute allows, but does not 
+command, a particular result. In Hanson, this Court assessed 
+the constitutionality of the Railway Labor Act’s ("RLA") union 
+shop provision, which — like the statute and regulations at 
+issue here — was "permissive" in the sense that “Congress ha{d] 
+not compelled nor required carriers and employees to enter 
+into union shop agreements.” Jd. at 231. In concluding that, 
+despite its permissive nature, the provision implicated state 
+action, this Court affirmed the reasoning of the Nebraska 
+Supreme Court: 
+"The Supreme Court of Nebraska . . . took the view that 
+justiciable questions under the First and Fifth Amend- 
+ments were presented since Congress, by the union shop 
+provision of the Railway Labor Act, sought to strike down 
+
+
+25 
+
+
+inconsistent laws in 17 States. The Supreme Court of 
+Nebraska said ‘Such action on the part of Congress is a 
+necessary part of every union shop contract entered into 
+on the railroads as far as these 17 States are concerned for 
+without it such contracts could not be enforced therein.’ 
+We agree with that view.” /d. at 231-32 (citations omitted). 
+
+
+Thus, the Hanson Court reasoned, "[i}f private rights are being 
+invaded, it is by force of an agreement made pursuant to 
+federal law which expressly declares that state law is 
+superseded.” Jd. at 232. State action followed from the RLA’s 
+preemptive effect, because any privately negotiated union shop 
+agreement carried “the imprimatur of the federal law upon it” 
+since it “could not be made illegal nor vitiated by any provision 
+of the laws of a State.” Jd. 
+
+
+Hanson’s core principle — that state action follows from 
+federal preemption — has been re-acknowledged by this Court 
+on several occasions. See Communications Workers of Am. v. 
+Beck, 487 U.S. 735, 761 (1988) ("[W]e ruled in [Hanson] that 
+because the RLA preempts all state laws banning union-security 
+agreements, the negotiation and enforcement of such provisions 
+in railroad industry contracts involves ‘governmental action.”’); 
+Abood v. Detroit Bd. of Educ., 431 U.S. 209, 218 n.12 (1977) 
+(The RLA "preempts any attempt by a State to prohibit a 
+union-shop agreement. Had it not been for that federal statute, 
+the union-shop provision at issue in Hanson would have been 
+invalidated under Nebraska law. The Hanson Court accordingly 
+reasoned that government action was present. . . .”); see also 
+Skinner v. RLEA, 489 U.S. 602, 615 (1989) (finding state action 
+in regulations that provide for non-mandatory drug-testing by 
+private employers, which, inter alia, "preempt state laws, rules 
+or regulations covering the same subject matter and are 
+intended to supersede ‘any provision of a collective bargaining 
+agreement™) (citations omitted); cf. Reitman v. Mulkey, 387 U.S. 
+
+
+26 
+
+
+369 (1967) (creation of impediment to enactment of law 
+constitutes state action).” 
+
+As in Hanson, the regulatory scheme at issue here precludes 
+contrary state law. In promulgating its regulations under 
+Section 10, the FCC announced that “Congress, through 
+enactment of Section 10, clearly intended that its legislative 
+scheme would prevail over any state or local laws that attempted 
+to... regulate indecent programming.” First Order 1 50 n.42, 
+App. 155a (emphasis added). Indeed, Section 10’s regulatory 
+scheme goes further than the law in Hanson because it also 
+restricts the power of local governments to enforce franchising 
+agreement provisions that forbid cable operators from exer- 
+cising any editorial control over access programming. Thus, the 
+FCC flatly declared that “Congress intended the new rights 
+accorded by [S]ection 10(c) to supersede prior agreements” 
+regarding public access. Second Order # 10 n.7, App. 184a.”” 
+
+
+Accordingly, the regulatory scheme does not simply tolerate 
+a cable operator’s decision to ban indecent programming from 
+its access channels. It clears the way for cable operators to 
+make these decisions by ousting any and all inconsistent state 
+and local laws™ and the "[mJany existing franchise agreements 
+
+
+“Lower federal courts have similarly recognized that the finding of state 
+action in Hanson “rests squarely on the fact that the RLA expressly preempts 
+contrary state law.” Price v. International Union, 927 F.2d 88, 92 (2d Cir. 
+1991); Reid v. McDonnell Douglas Corp., 443 F.2d 408, 410 (10th Cir. 1971). 
+
+
+"in addition, pursuant to 47 U.S.C. § 556(c), “any provision of law of any 
+State, Political subdivision, or agency thereof, or franchising authority, or any 
+provision of any franchise granted by such authority, which is inconsistent 
+with this chapter shal] be deemed to be preempted and superseded.” 
+
+
+“For example, a New York law prohibiting any cable operator from 
+exercising any censorship over a leased or public access channel is now 
+preempted by Sections 10(a) and 10(c). See N.Y. Exec. Law § 829%(3) 
+(McKinney 1982); see also V.1. Code Ann. tit. 30, § 319(c) (1984) (similar 
+prohibition in Virgin Islands). Similarly, both New York and New Jersey 
+have laws imsulating cable operators from liability for what appears on public 
+access channels. N.Y. Exec. Law § 830 (McKinney 1982); NJ. Stat. Ann. 
+§ 48:5A-50 (West 1995). These laws are superseded by Section 10(d). 
+
+
+27 
+
+
+[that] prohibit cable companies from exercising editorial control 
+over the content of programming” on leased and public access 
+channels. J.A. 186. This, as Hanson holds, and as petitioners 
+pointed out to the in banc court, constitutes state action that 
+requires constitutional scrutiny. The in banc court never 
+addressed this argument, however. 
+
+
+C. State Action Is Present im the Section 10 Scheme Because 
+It Reflects the Government’s Strong Preference for and 
+
+
+Thus Significantly Encourages the Underlying Private 
+Conduct. 
+
+
+Although petitioners brought this case against the govern- 
+ment and not against any cable operator, the in banc court 
+focused on an issue not raised by petitioners and unnecessary 
+to the resolution of this case: whether private cable operators 
+would be state actors when they censored a program under the 
+authority granted by Section 10 and the FCC’s regulations. 
+Even if the in banc court were correct to assume that Section 
+10’s role for private cable operators is a critical part of the 
+threshold analysis of this case, the purpose, structure, and effect 
+of Section 10, considered in light of this Court’s precedents, 
+permit only one conclusion: Congress has significantly 
+encouraged private cable operators to ban indecent speech from 
+access channels. Such “significant encouragement,” this Court 
+has held, constitutes state action. 
+
+
+“It is . . . axiomatic that a state may not induce, encourage 
+Or promote private persons to accomplish what it is constitu- 
+tionally forbidden to accomplish.” Norwood v. Harrison, 413 
+U.S. 455, 465 (1973). The government must therefore be held 
+accountable for actions taken by private parties where it "has 
+provided such significant encouragement, either overt or covert, 
+that the choice must in law be deemed to be that of the 
+[government]." Blum v. Yaretsky, 457 U.S. 991, 1004 (1982); 
+Rendell-Baker v. Kohn, 457 U.S. 830, 840 (1982). Thus, while 
+this Court has rejected state action arguments where the State 
+merely “acquiesce[d] in" the challenged conduct, Blu, 457 U.S. 
+at 1004-05, it has found sufficient encouragement where the 
+State adopted more than just a “passive position” toward the 
+
+
+28 
+
+
+challenged conduct. See, ¢.g., Skinner v. RLEA, 489 U.S. 602, 
+615 (1989). 
+
+
+In Skinner, this Court assessed the constitutionality of federal 
+regulations allowing railroads to conduct drug and alcohol tests 
+on their employees, which the government deemed necessary to 
+curb alcohol and drug abuse. /d at 606. Although the 
+regulations were framed in permissive terms — they “autho- 
+rize[d]" railroads to require tests, but did not compel such tests, 
+id. at 611 — they nonetheless simultaneously "preempt[ed] state 
+laws, rules, or regulations covering the same subject matter,” 
+and “supersede[d]" any conflicting provision of a collective 
+bargaining agreement between railroads and unions. Jd. at 615. 
+Further, they allowed the government to participate in the 
+scheme by requesting drug test results. In rejecting the peti- 
+tioners’ contention that, under these circumstances, any drug 
+testing would be “primarily the result of private initiative,” this 
+Court emphasized that "[t]he Government has removed all legal 
+barriers to the testing authorized by [the regulations], and 
+indeed has made plain not only its strong preference for testing, 
+but also its desire to share the fruits of such intrusion.” Jd. 
+"These are clear indices,” this Court held, “of the Government's 
+encouragement, endorsement, and participation” in the osten- 
+sibly “permissive” drug-testing scheme. Id. at 615-16. 
+
+
+As we now show, examination of the present facts through 
+the lens of Skinner reveals that Congress has so significantly 
+encouraged private cable operators to ban indecent program- 
+ming on access channels that their actions must be attributed to 
+the government. 
+
+
+1. Section 10 Was Intended to Ban Indecent Speech on Access 
+Channels and Is Structured to Accomplish this End. 
+
+
+As was the case in Skinner, Congress, in enacting Section 10, 
+“made plain . . . its strong preference” for a particular end: to 
+ban indecent programming on access channels. Contrary to the 
+in banc court’s suggestion that Congress only wanted to "give 
+cable operators the prerogative not to carry indecent program- 
+ming,” App. 19a, Senator Helms, the bill’s principal sponsor 
+Stated its purposes quite plainly: <0 ‘eat on and te ae 
+
+
+sexually explicit programs.” 138 Cong. Rec. $646, $652 (daily 
+ed. Jan. 30, 1992); see also supra pp. 12-13. 
+
+
+10(a), or eliminate the negative by blocking it under [Section] 
+10(b)." App. 47a (Wald, J., dissenting). There is no middle 
+ground; the cable operator must either ban or block indecent 
+materials. When given the choice between cither establishing 
+a separate blocked channel (and thereby having one fewer 
+
+
+reasons leased access channels were created in the first place. 
+S. Rep. No. 92, 102d Cong., ist Sess. 31 (1991). This natural 
+predilection is further strengthened by the fact that blocked 
+channels are technically cumbersome and financially burden- 
+some.” 
+
+Moreover, as part of the comprehensive scheme, the liability 
+provision of Section 10(d) provides the cable operator with a 
+powerful incentive to ban all “indecent” material on both public 
+access and leased access channels. Simultaneous with its 
+decision to entrust to cable operators the power to ban indecent 
+programming on access channels, Congress also partially 
+
+
+"As one cable operator stated it in the rulemaking below: “[P}lacing 
+indecent programming on a special, scrambied ieased access channe! 1s not 
+a realistic alternative .... Scrambling a normally unscrambied channe! 
+requires a significant amount of time and labor.” J.A. 231. 
+
+
+3 
+
+
+revoked the immunity from liability that these operators had 
+enjoyed under the 1984 Act with respect to access program- 
+ming. Section 10(d) thus places the private cable operator in 
+peril for third-party speech that wanders into the undefined 
+gray area of expression that “involves obscene material.” As this 
+Court recognized in Farmers Educ. & Coop. Union v. WDAY, 
+Inc., 360 U.S. 525 (1959), if a law makes a media owner liable 
+for the speech of an unaffiliated person, and yet, in turn, allows 
+
+
+faintly 
+an excess of caution.” Jd at 530; see also Smith v. California, 
+361 U.S. 147, 152-54 (1959) (liability for third party’s obscenity 
+
+
+Section 10(d) for anything that be construed as 
+‘i ing] obscene material,” or they can take the safe route 
+and simply ban all materials that access rs cannot 
+
+
+with little to gain by transmitting such programming, and much 
+to lose, cable operators have every incentive to ban.” 
+
+
+the certification requirement as “reasonable since cable operators are no 
+jonger statutorily immune from liability for obscene matenals carned on 
+
+access channels.” First Order 1 50, App. 155a; see also Second Order 1 25 
+App. 192a (‘[Ijn view of the removal of cable operators’ immunity for 
+obscene programming on access channels, permitting a certification 
+requirement is a reasonable approach for this agency to adopt.”). This record 
+evidence has been reiterated in the cable operators’ separate lawsuit 
+challenging the constitutionality of subsection (d), where, as recently as June 
+
+
+| 
+
+
+court m that case, the government expressly endorsed such broad censorship 
+of indecent programming by suggesting that a cable operator may avon 
+
+
+As was also the case in Skinner, through passage of Section 
+
+
+SS See See ome aenann of 
+
+indecent programming on access channels. To this end, 
+Congress (1) repealed — although only with respect to the type 
+of speech Congress disfavored — the 1984 Act’s ban on oper- 
+ator control of access channels; (2) preempted any contrary 
+
+
+power by invoking local law or enforcing the provisions of a 
+franchising agreement forbidding an operator from exercising 
+editorial discretion over access programming. 
+
+
+3. The Government Plays A Role in Facilitating the 
+Censorship of Indecent Speech. 
+
+Finally, Section 10 and its implementing regulations, as did 
+the drug-testing regulations at issue in Skinner, also reserve a 
+“participat(ory]" role for the government. The government will 
+play an active role in the Section 10 scheme by “resolv{ing] any 
+conflicts between a [leased access] programmer and an operator 
+on” what constitutes “indecent” material. App. 43a. Such 
+determinations will likely serve as precedents when disputes 
+arise with respect to public access programming as well. Thus, 
+
+
+lability for the content of access programming by simply exercising its nght, 
+under Sections 10(a) and 10(c), to censor “any programming that it reasonably 
+believes could potentially be considered obscene.” United States’ Opposition 
+Memorandum in Support of Defendants’ Motion to Dismiss, or in the 
+Alternative, for Summary Judgment on Plaintiffs’ Claims Other Than "Must 
+Carry” at 21-22, Time Warner v. FCC, No. 92-2494 (and consolidated cases) 
+(D.D.C., filed Feb. 22, 1993) (emphasis added). 
+
+"As we argue supra at pp. 24-27, under this Court's decision in Hanson, the 
+preemptive effect of Section 10 and the mplementing regulations 1s sufficient 
+by itself to show state action. 
+
+
+case of both public and leased access, if the operator does not 
+take steps to prevent the transmission of programming that 
+“involves” obscene material — whatever that means — then that 
+operator now faces, for the first time, criminal and civil liability. 
+
+
+Finally, to clear away any legal or contractual impediments to 
+the operators’ ability to ban, the FCC has announced that any 
+
+
+and that it will adjudicate about whether programming 
+is indecent. To say that Section 10 significantly encourages the 
+outright ban of all indecent is to state the 
+
+
+obvious. This Court, on strikingly similar facts, said exactly that 
+in Skinner v. RLEA, 489 U.S. 602 (1989). 
+
+
+D. Section 10 Requires First Amendment Scrutiny Because 
+It Imposes Content-Based Distinctions in a Public Forum. 
+
+
+Section 10(c) is also subject to First Amendment scrutiny 
+because it imposes content-based distinctions on the speech 
+available in the public forum provided by a public access 
+channel. Once the state has created a public forum, it "may not 
+exclude speech where its distinction is not ‘reasonabie in light 
+of the purpose served by the forum,” Rosenberger v. Rector & 
+Visitors of Univ. of Va., 115 S. Ct. 2510, 2517 (1995), and any 
+“content-based prohibition [in the forum] must be narrowly 
+drawn to effectuate a compelling state interest.” Perry Educ. 
+Ass'n v. Perry Local Educators’ Ass'n, 460 U.S. 37, 46 (1983). 
+Because Section 10 limits the scope of constitutionally protected 
+
+
+33 
+
+
+speech entitled to carriage on this electronic public forum, it is 
+subject to First Amendment review. 
+
+
+As a general matter, a public forum is created when the 
+government “intentionally open{s} a nontraditional forum for 
+public discourse.” Cornelius v. NAACP Legal Defense & Educ. 
+Fund, Inc., 473 U.S. 788, 802 (1985). A local government does 
+exactly that by requiring as a condition of franchise approval 
+that the cable operator set aside a public access channel for the 
+free use of the general public on a first-come, first-served, 
+nondiscriminatory basis.” In this manner, the local govern- 
+mental authority promotes the compelling government interest 
+of “assuring that the public has access to a multiplicity of 
+information . . . from diverse and antagonistic sources." Turner 
+Broadcasting Sys., Inc. v. FCC, 114 S. Ct. 2445, 2470 (1994). 
+
+
+The FCC, the courts, and Congress have all recognized that 
+public access is a public forum. In 1981, for example, the FCC 
+expressly declared that an access channel “to which the 
+programmer has a right of access by virtue of local, state or 
+federal law’ is “a channel set aside as a public forum.” A 
+number of courts have observed that public access channels 
+possess all the characteristics of a public forum for purposes of 
+
+
+“Thus, a public access channel is, at the very least, 2 designated public 
+forum. Given that public access dates from the origin of the cable medium 
+itself, public access's longstanding tradition m many communities may have 
+conferred upon it the status of a traditional public forum — a “place{} which 
+“by long tradition or by government fiat ha{s] been devoted to assembly and 
+debate.” Id (citation omitted). 
+
+
+Amendment of Part 76 of the Commission's Rules and Regulations 
+Concerning the Cable Television Channel Capacity and Access Channel! 
+Requirements of Section 76.251, 87 F.C.C.2d 40, 42 (1981). 
+
+
+34 
+
+
+First Amendment analysis.” Similarly, Congress itself has 
+recognized that access channels constitute a public forum.” 
+
+
+The status of a public access channel as a public forum is not 
+
+
+altered by the fact that cable operators are generally privately- 
+owned corporate entities. Public access channels themselves 
+cannot be pigeon-holed as the cable operator's “private 
+property,” any more than the sidewalk and streets — 
+quintessential traditional public fora — can be called the 
+“private property” of the abutting landowner, notwithstanding 
+that title to the sidewalk and streets often rests with that 
+landowner.” To the extent that the cable operator may be 
+considered to have property rights over the public access 
+channel, those rights are conditioned by the franchise agree- 
+ment, which grants the public the right to use, and prevents the 
+cable operator from excluding the public from using, the public 
+access channel. Cf. Nollan v. California Coastal Comm'n, 483 
+U.S. 825, 831 (1987) (ability to exclude is a basic characteristic 
+of private property); Kaiser Aetna v. United States, 444 U.S. 164, 
+
+
+“See, ¢g.. Quincy Cable TV, Inc. v. FCC, 768 F.2d 1434, 1452 (D.C. Cir. 
+1985) (“access rules .. . serve countervailing First Amendment values by 
+providing a forum for [the] public”); Evie Telecommunications, Inc. v. City of 
+Erie, 659 F. Supp. 580, 600 (W.D. Pa. 1987) (‘access requirements are 
+intended to make cable channels available to the public on a first-come, first- 
+served nondiscriminatory basis"), modified on other grounds, 853 F.2d 1084 (3d 
+Cir. 1988); Berkshire Cablevision of RI, Inc. v. Burke, 571 F. Supp. 976, 987 
+(D.R.1. 1983) (access rules “mandate that all individuals be given the 
+
+
+opportunity to appear on cable television on a nondiscriminatory first-come, 
+first-served basis”), vacated as moot, 773 F.2d 382 (ist Cir. 1985). 
+
+
+™See H.R. Rep. No. 934, supra, at 30, reprinted in 1984 U.S.C.C.AN. at 
+4667 ("[p}ublic access channels are often the video equivalent of the speaker's 
+soap box”), S. Rep. No. 381, 101st Cong., 2d Sess. 46 (1990) (access channels 
+constitute “a free market of ideas”). 
+
+
+"See 10A Eugene McQuillin, Law of Municipal Corporations § 30.32, at 
+280-81 (1990) (“the abutting landowner . . . own{s] the fee in the public way 
+in front of his or her property . . . subject to the public easement”); 1A 
+Chester J. Antieau, Municipal Corporation Law § 9.02 (34 ed. 1986) (“the 
+abutting owners are owners of the fee to the center of the street, with the 
+
+
+local government having only an easement therein”). 
+
+
+35 
+
+
+176 (1979) (same). As the quid pro quo for setting aside these 
+channels for public use, the local governmental authority 
+provides the cable operator with “use of public rights-of-way 
+and easements." Turner, 114 S. Ct. at 2452. The cable system 
+“depend[s} for its very existence” on these easements, for 
+without them, it could not lay or string the cable throughout a 
+community. Jd. Thus, the entire cable system — including 
+access channels — depends on the short-term disruption and 
+long-term occupation of valuable public rights-of-way. To label 
+public access channels as “private property” would ignore these 
+fundamental facts regarding the nature of any cable system.”” 
+
+
+In any event, even if public access channels could somehow 
+be deemed the “private” property of cable operators, this Court 
+has expressly stated that public forum analysis may be applied 
+to "private property dedicated to public use.” Cornelius, 473 
+U.S. at 801. Public access channels are undeniably 
+“dedicated to public use," and in fact local governments have 
+dedicated them explicitly for the public’s expressive activity. 
+Thus, even a nominally privately-owned public access channel 
+constitutes a public forum. And Congress’s attempt to impose 
+content-based changes on public fora created by local govern- 
+ments must be subject to scrutiny under the First Amendment. 
+
+
+Il. 
+SECTION 10 VIOLATES THE FIRST AMENDMENT. 
+
+
+We showed in the previous section that Section 10 is subject 
+to First Amendment scrutiny. As we now demonstrate, and as 
+
+
+"Because a reasonable nexus exists between providing the cable operator 
+with valuable nights of way to lay cable and requiring the cable operator to 
+grant a right of access to the public — namely, that unless the cable operator 
+is permitted to use public rights of way, there could be no access channels — 
+local governmental authorities’ requiring access channels as a condition of 
+franchise approval does not entail a taking. See Nollan, 483 U.S. at 836-37. 
+
+
+*See Robert C. Post, Between Governance and Management: The History 
+and Theory of the Public Forum, 34 UCLA L. Rev. 1713, 1759 (1987) 
+(concluding that this Court does not ‘view the technicalities of property 
+ownership as determinative” of whether a public forum exists). 
+
+
+36 
+
+
+the government and the in banc court both essentially conceded 
+as to Section 10’s core elements, see App. lla, 104a n.9, 110a 
+n.15, 111a n.16, this censorship scheme cannot withstand such 
+scrutiny, and must therefore be struck down. 
+
+
+A. Section 10 Fails the Least Restrictive Means Test. 
+
+
+1. As a Content-Based Regulation of Speech, Section 10 Is 
+Presumptively Unconstitutional. 
+
+
+The constitutional inquiry in this case is governed by the 
+basic principle that government decisions to single out and 
+discriminate against a particular type of speech based solely on 
+its content are presumptively unconstitutional. RAV. v. City of 
+St. Paul, 505 U.S. 377, 382 (1992); see Turner Broadcasting Sys. 
+Inc. v. FCC, 114 S. Ct. 2445, 2458 (1994) ("[T}he First Amend- 
+ment, subject only to narrow and well-understood exceptions, 
+does not countenance governmental control over the content of 
+messages expressed by private individuals."); Simon & Schuster, 
+Inc. v. Menbers of the N.Y. State Crime Victims Bd., 502 U.S. 
+105, 116 (1991) (“Regulations which permit the Government to 
+discriminate on the basis of the content of the message cannot 
+be tolerated under the First Amendment.”™) (citations omitted). 
+Any attempt to rebut that presumption is subject to the strictest 
+constitutional scrutiny. Turner, 114 S. Ct. at 2459; Arkansas 
+Writers’ Project, Inc. v. Ragland, 481 U.S. 221, 229-31 (1987). 
+Content-based laws that demand such strict scrutiny include 
+those “laws that by their terms distinguish favored speech from 
+disfavored speech on the basis of the ideas or views expressed.” 
+Turner, 114 S. Ct at 2459. 
+
+
+Section 10 is just such a content-based law in that it singles 
+out and discriminates against “indecent” programming. Unlike 
+obscenity, sexually explicit speech that is considered “indecent” 
+is protected by the First Amendment. Sable Communications 
+of Cal, Inc. v. FCC, 492 U.S. 115, 126 (1989). The contro- 
+versial nature of the speech does not diminish its protected 
+status, for “the fact that protected speech may be offensive to 
+some does not justify its suppression.” Bolger v. Youngs Drug 
+Prods. Corp., 463 U.S. 60, 71 (1983) {citation omitted). 
+Accordingly, Section 10 is presumptively unconstitutional, and 
+
+
+37 
+
+
+any attempt to justify its content-based distinctions must 
+Section 10 cannot survive such scrutiny. Section 10’s 
+ostensible purpose, “to limit the access of children to indecent 
+”" Section 10(b), App. 126a, does not lessen the 
+presumption of unconstitutionality. Time and time again, this 
+Court has held that the protection of children fails as an excuse 
+
+
+for an outright ban on sexually explicit material, regardless of 
+the medium involved. See, e.g. , Butler v. Michigan, 352 U.S. 380 
+(1957) (books); Sable, 492 U.S. at 127-31 (telephone); Bolger, 
+463 U.S. at 64-68 (unsolicited mail). The First Amendment 
+does not tolerate the government's use of child protection as an 
+excuse “to reduce the adult population to - [viewing] only 
+what is fit for children.” Butler, 352 U.S. at 383. 
+
+
+2. Comgress and the FCC Have Failed to Consider Less 
+Restrictive Means Available to Advance Their Goal. 
+
+
+To overcome the presumption of unconstitutionality that 
+attaches to content-based regulations on speech such as Section 
+10, the regulation must use “the least restrictive means” “to 
+promote a compelling [governmental] interest.” Sable, 492 U.S. 
+at 126. The critical question here is thus whether the methods 
+used to single out and disadvantage disfavored speech constitute 
+the least restrictive means for effectively furthering the 
+government's asserted interest in the protection of children. 
+
+
+Section 10’s regulatory scheme fails this test. With respect 
+to Sections 10(a) and 10(c), which result in a right of carriage 
+on access channels for non-indecent speech, without such a 
+right for indecent speech, there are a number of less restrictive 
+alternatives that either do not require content-based distinctions 
+
+
+Nothing about the cable medium alters in the least this presumption of 
+unconstitutionality. “Cable programmers . . . engage in and transmit speech, 
+and they are entitled to the protection of the speech and press provisions of 
+the First Amendment.” Turner, 114 S. Ct. at 2456. Most importantly, “the 
+rationale for applying a less rigorous standard of First Amendment scrutiny 
+
+
+to broadcast regulation" — namely, “the unique physical limitations of the 
+broadcast medmwm" — “does not apply in the context of cable regulation.” /d. 
+
+
+38 
+
+
+or else do not threaten the outright suppression of the contro- 
+
+
+versial speech. Similarly, for Section 10(b), which requires the 
+dlocking of indecent leased access programming if the cable 
+
+
+operator has not already banned it outright pursuant to Section 
+10(a), less restrictive means are also available. 
+
+
+We consider below several available alternative means, cach 
+of which is less restrictive than Section 10’s censorship scheme. 
+Petitioners do not endorse any particular method as the least 
+restrictive. Rather, we note the existence of these less 
+restrictive means to demonstrate the constitutional infirmity of 
+Section 10’s more restrictive scheme. 
+
+
+"Safe harbors,” which are used in the broadcast medium, 
+provide one such less restrictive alternative. Under a regulatory 
+scheme based upon safe harbors, disfavored programming is 
+“channeled” to certain hours when unsupervised children are 
+less likely to be in the viewing audience. Sec, e.g., Action for 
+Children’s Television v. FCC, 58 F.3d 654 (D.C. Cir. 1995), cert. 
+petition filed, 64 U.S.L.W. 3271 (Sept. 28, 1995). Although 
+content-based, and although serious questions have been raised 
+about the circumstances under which partial “safe harbor” bans 
+are valid, a safe harbor scheme does not result in disfavored 
+programming being banned or blocked altogether, and therefore 
+makes it more readily available to adult viewers. 
+
+
+Lockboxes — which Congress has required cable operators 
+to make available to subscribers since 1984 — provide another 
+less restrictive alternative. A lockbox does not permit the 
+government to favor or disfavor any type of speech and thus is 
+entirely content-neutral. Instead, a lockbox enables parents on 
+their own — rather than the government or its delegate — to 
+determine what programming shall be received and what 
+programming shall be blocked, be it indecency, violence, or 
+anything else. Thus, unlike Section 10, the lockbox does not 
+burden the “crucial” right of adult cable viewers “to receive 
+suitable access to social, political, esthetic, moral, and other 
+ideas and experiences.” Red Lion Broadcasting Co. v. FCC, 395 
+U.S. 367, 390 (1969); see also Turner, 114 S. Ct. at 2458 (“At 
+the heart of the First Amendment lies the principle that each 
+
+
+39 
+
+
+person should decide for him or herself the ideas and beliefs 
+deserving of expression, consideration, and adherence.”).” 
+
+
+In fact, under this Court’s decision in Sable, Congress's 
+failure to consider the effectiveness of the existing lockbox 
+requirement before enacting Section 10 forecioses any argument 
+that Section 10 provides the least restrictive means of protecting 
+children. In Sable, this Court struck down a content-based 
+statute banning indecent commercial telephone messages 
+because Congress had failed to consider whether existing, less 
+restrictive FCC regulations addressing the same matter already 
+protected children effectively. Thus, “the congressional record 
+presented . . . no evidence” that the existing regulations were 
+ineffective. 492 U.S. at 130. "No Congressman or Senator 
+purported to present a considered judgment with respect to 
+how often or to what extent minors could or would circumvent” 
+the existing regulations. Jd Indeed, the Court found that for 
+all that appeared in the record, “only a few of the most 
+enterprising and disobedient young people would manage to 
+secure access to such [indecent] messages.” Jd. Under those 
+circumstances, this Court held, the more restrictive statute at 
+issue was “not a narrowly tailored effort" to serve the state’s 
+interest in preventing minors from being exposed to indecent 
+speech. Jd. at 131. 
+
+Here, as in Sable, Congress created an entirely new content- 
+based scheme for regulating indecency without considering 
+whether the existing statutory mechanism was effective. In the 
+1984 Act, Congress specified that "lockboxes” must be made 
+available to subscribers “to restrict the viewing of programming 
+which is obscene or indecent.” 47 U.S.C. § 544(d)(2), Stat. 
+App. 5a; see supra pp. 9-10. Congress praised the lockbox as 
+“one means to effectively restrict the availability of such 
+programming, particularly with respect to child viewers, without 
+infringing the First Amendment rights of the cable operator, the 
+cable programmer, or other cable viewers.” H.R. Rep. No. 934, 
+
+
+"Even Section 10(b)’s blocking requirement, though it would not be the 
+least restrictive means, is clearly less restrictive than the outright ban 
+authorized by Sections 10(a) and 10(c). 
+
+
+4 
+
+
+supra, at 70, reprinted in 1984 U.S.C.C.A.N. at 4707. Further, 
+the FCC, cable operators, and indeed the in banc court below 
+all have similarly acknowledged the effectiveness of lockboxes. 
+See supra pp. 10-11. Despite this unanimous recognition of the 
+utility of lockboxes, Congress enacted Section 10 without even 
+mentioning the subject, let alone articulating any basis to 
+conclude that lockboxes are not effective. 
+
+In implementing Section 10, the FCC too failed to adduce 
+any evidence that lockboxes somehow had become ineffective 
+means for the protection of children. Faced with this lack of 
+record evidence, the FCC summarily relied on findings about 
+telephone blocking mechanisms. See First Order #9 13-14, App. 
+134a-136a. As this Court’s precedents teach us, however, the 
+FCC’sconclusions about the effectiveness of telephone blocking 
+mechanisms cannot be used to prop up the constitutionality of 
+a Statute involving an entirely different medium of communica- 
+tion. See, eg., Metromedia, Inc. v. City of San Diego, 453 U.S. 
+490, 501 (1981) (“Each method of communicating ideas is ‘a law 
+unto itself and that law must reflect the ‘differing natures, 
+values, abuses, and dangers’ of each method.”) (citation 
+omitted); Southeastern Promotions, Lid. v. Conrad, 420 U.S. 546, 
+557 (1975) ("Each medium of expression . . . must be assessed 
+for First Amendment purposes by standards suited to it, for 
+each may present its own problems.”). In fact, the telephone 
+analogue to the cable lockbox suffers from a number of 
+problems that have no application to the cable lockbox because 
+of the different technologies involved, making conclusions about 
+telephone blocking mechanisms irrelevant to any analysis of the 
+effectiveness of cable lockboxes.” 
+
+
+"To take the most obvious example, the FCC found telephone blocking 
+program such devices to block each telephone number of every indecent 
+telephone service in the United States and overseas. Not only did no list exist 
+of the approximately 100 such services nationally, but their telephone 
+numbers changed constantly, making any such list quickly obsolete. See,e.g. 
+Enforcement of Prohibitions Against the Use of Common Carriers for the 
+Transmission of Obscene Materials, GEN Dkt. No. 83-989, 2 PCC Red 2714, 
+71 34-36 (1987); see also Enforcement of Prohibitions Against the Use of 
+
+
+41 
+
+
+Courts have the “obligation to exercise independent judgment 
+when First Amendment rights are implicated” in order to 
+“assure that, in formulating its judgments, Congress has drawn 
+reasonable inferences based on substantial evidence." Turner, 114 
+S. Ct. at 2471 (plurality opinion) (emphasis added). Here, 
+Congress and the FCC have articulated no reason and pointed 
+to no evidence that warrants supplementing the content-neutra! 
+lockbox requirement with Section 10’s content-based scheme. 
+Absent such evidence, the possibility that lockboxes will not 
+provide a perfect mechanism for shielding young people from 
+indecent programs — ie., that "a few of the most enterprising 
+and disobedient young people” will circumvent the system, 
+Sable, 492 U.S. at 130 — does not save Section 10. Because 
+the statute is not narrowly tailored to achieve the government's 
+stated objective, it must be struck down. 
+
+
+B. Congress Has Singled Out Those Who Speak Via Access 
+Channels for Content-Based Regulation. 
+
+
+Section 10 constructs an impermissible system of discri- 
+mination by imposing a number of content-based regulations on 
+those who speak via access channels but not on those who 
+speak on other cable channels. In this fashion, it runs afoul of 
+this Court’s admonition that "[i}n the realm of protected speech, 
+the legislature is constitutionally disqualified from dictating the 
+subjects about which persons may speak and the speakers who 
+may address a public issue.” First Nat'l Bank of Boston v. 
+Bellotti, 435 U.S. 765, 784-85 (1978); see Rosenberger v. Rector 
+& Visitors of Univ. of Va, 115 S. Ct. 2510, 2516 (1995); 
+Minneapolis Star & Tribune Co. v. Minnesota Comm’r, 460 U.S. 
+575, 592 (1983). 
+
+
+Those who speak via access channels suffer a number of 
+discriminatory burdens and impairments under Section 10. 
+
+
+Common Carriers for the Transmission of Obscene Materials, GEN Dkt. No. 
+83-989, PCC 86-322, 1986 FCC Lexis 3012, 4 17 (July 18, 1986). In contrast, 
+a cable system offers only a handful of access channels, the locations of which 
+change infrequently and only after notice to subscribers. A lockbox can easily 
+be programmed to block receipt of these channels, either constantly or during 
+specified times. See J.A. 79-154 (instructions for various lockboxes). 
+
+
+42 
+
+
+Most prominently, Section 10 discriminates against these 
+speakers by requiring them, in order to ensure their right to 
+carriage on an access channel, to certify that their speech does 
+not fall within the congressionally disfavored categories. If they 
+cannot so certify, they face censorship of their speech. Section 
+10(b); 47 C.F.R. $§ 76.701(d)-(f), 76.702, App. 171a-172a, 197a- 
+198a. Programmers of other cable channels need make no such 
+certification to avoid censorship. 
+
+
+This discriminatory scheme favors broadcasters, for example, 
+over those who speak via access channels. Even though 
+broadcasters are entitled to uncensored carriage on cable via 
+the "must-carry" provisions reviewed by this Court in Turner, see 
+Sections 4 & 5 of the 1992 Act, 47 U.S.C. §§ 534 & 535, they 
+are entirely free to air indecent programming between the 
+hours of 10:00 p.m. and 6:00 a.m. See Action for Children’s 
+Television v. FCC, 58 F.3d 654 (D.C. Cir. 1995), cert. petition 
+filed, 64 U.S.L.W. 3271 (Sept. 28, 1995). Moreover, broad- 
+casters are subject to no requirement that they “certify” the 
+purity of their programs. In contrast, an access programmer 
+desiring to show the exact same programming — and who has 
+no other method of communicating via the cable medium — 
+has no similar right of carriage. 
+
+
+Section 10 thus distinguishes among speakers for content- 
+based regulation based upon a criterion — whether the 
+programmer uses access channels rather than another cable 
+channel — that “bears no relationship whatsoever to the 
+particular interests . . . asserted.” City of Cincinnati v. Discovery 
+Network, Inc., 113 S. Ct. 1505, 1514 (1993) (emphasis omitted). 
+This discrimination among speakers is not related to the 
+underlying constitutional purpose, for there is undisputed 
+record evidence that other channels contain, for example, a 
+plethora of sexually explicit programming.” Moreover, cable 
+
+
+"For example, HBO’s top-rated documentary series, "Real Sex” has 
+highlighted segments such as a home striptease class ard a studio that makes 
+pornographic films for women. J.A. 309-10. HBO is owned by Time Warner 
+Entertainment, the parent of Time Warner Cable. Similarly, the Playboy 
+channel has been shown on both leased and operator-programmed channels, 
+
+
+43 
+
+
+operators’ demonstrated hostility toward access, see supra p. 7, 
+and their “financial incentive to favor their affiliated 
+programmers,” Turner, 114 S. Ct. at 2454; see 1992 Act 
+§ 2(a)(5S), indicates that cable operators will prohibit indecent 
+programming on access while retaining this profitable income 
+source on their own channels.” 
+
+
+Section 10's discrimination against those who speak via access 
+channels therefore constitutes ‘an impermissible means of 
+to the [government's] legitimate interests." City of 
+Cincinnati, 113 S. Ct. at 1514. This discrimination is parti- 
+cularly problematic given that access channels were intended to 
+provide a forum for members of the public and other entities 
+“who generally have not had access to the electronic media.” 
+H.R. Rep. No. 934, supra, at 30, 1984 U.S.C.C.A.N. at 4667. 
+
+
+C. Section 10 Is Unconstitutionally Vague. 
+
+Vague laws threaten constitutional liberties by creating the 
+potential for arbitrary and discriminatory enforcement and by 
+inhibiting lawful conduct on the part of citizens uncertain about 
+what they must do to comply. E.g., Grayned v. City of Rockford, 
+408 U.S. 104, 108-09 (1972). These threats are particularly 
+acute, and constitutional scrutiny is accordingly more exacting, 
+where "[t}he threat of sanctions may deter [the] exercise [of] . . . 
+First Amendment freedoms." NAACP v. Button, 371 U.S. 415, 
+432-33 (1963); see also Village of Hoffman Estates v. Flipside, 
+Hoffman Estates, Inc., 455 U.S. 48+, 499 (1982) ("[P]Jerhaps the 
+most important factor affecting the clarity that the Constitution 
+demands of a law is whether it threatens to inhibit the exercise 
+of constitutionally protected rights.”). 
+
+
+see 138 Cong. Rec. S652 (daily ed. Jan. 30, 1992) (statement of Sen. Helms), 
+but its content is regulated only on leased access. Moreover, MTV abounds 
+
+
+with sexually suggestive programming and music lyrics that could be 
+interpreted as promoting lawlessness under the broad standard enacted by 
+
+
+“For example, as of June 1992, the Playboy Channe! had generated over $50 
+million for cable operators. J.A. 365. 
+
+
+US 15, 3 (5G, & bas Eanes Gs Gh of atten 
+enforcement and self-censorship by adding other safeguards — 
+
+
+is a single "average viewer" for the whole nation, this expla- 
+nation makes matters worse, not better. Indeed, this Court has 
+
+
+- command{s} a particular result, . . . [state action . 
+FOC uae that aome dedakion ia te mguictions promulgsted parmuast 1 
+
+
+45 
+
+
+held that “structur[ing] a national ‘community standard’ [for 
+offensiveness] would be an exercise in futility." Miller, 413 U.S. 
+at 30. 
+
+In essence, the government's definition of “indecent” 
+
+
+empowers censors to ban constitutionally-protected speech 
+based on nothing more than their subjective judgment as to 
+
+
+*) ¢ . 
+15, 25 (1971) (‘[O}me man’s vulgarity is another's lyric.”); see 
+also Pope v. Illinois, 481 U.S. 497, SOS (1987) (Scalia, J., 
+
+
+The enforcement scheme for censorship under Section 10 
+exacerbates the potential for arbitrary and discriminatory 
+application. In Gentile v. State Bar of Nevada, 501 U.S. 1030 
+
+
+that discriminatory enforcement [was] a real possibility.” /d. at 
+1051; see id. at 1082 (O'Connor, J., concurring). Here, the 
+statute delegates censorship functions to cable operators, whose 
+economic interests are hostile to access programmers. And 
+Section 10(a) vests cable operators with an additional layer of 
+
+
+App. 126a; see Bella Lewitzky Dance Found. v. Frohnmayer, 754 
+
+
+F. Supp. 774 (C.D. Cal. 1991) (invalidating rule delegating 
+obscenity determination to National Endowment for the Arts 
+
+
+operators will enforce the statute in a discriminatory and 
+certain. 
+
+
+not in fact indecent. The FCC’s rules force programmers to 
+self-identify “any programming that is indecent,” 47 C.F.R. 
+§ 76.701(d), App. 171a; see 47 C.F.R. § 76.702, App. 197a-98a, 
+
+
+as indecent. See First Order 4% 43, 75, App. 
+1Sla-S2a, 167a-68a. Thus, in order to be sure that their 
+programs do not meet a cable operator’s subjective definition 
+of what is “patently offensive,” programmers concerned about 
+these possible sanctions will “steer far wider of the unlawful 
+zone” by “restricting their [programming] to that which is 
+unquestionably safe." Baggett v. Bullitt, 377 U.S. 360, 372 
+(1964). 
+
+
+That valuable, non-indecent access programming will be 
+suppressed, either through cable operators’ arbitrary or 
+discriminatory enforcement or by programmers’ excessive 
+caution, is not mere speculation. Cable operators’ comments 
+already reveal that they intend to exercise their censorship 
+powers broadly. Eg., J.A. 1-2, 175-76. At least some cable 
+operators may reasonably be expected to behave in a manner 
+similar to the recently reported actions of an on-line service 
+provider which, in an attempt to ban offensive words from the 
+
+
+"Under the FCC's rule, what programmers do not themselves hold back just 
+to be safe, cable operators will stil] have the opportunity to suppress. See 
+First Order 4 43 n.39, App. 151a-152a. 
+
+
+47 
+
+
+system, deleted the word “breast” — and with it, the personal 
+profiles of breast cancer survivors and other information of vital 
+importance to potential breast cancer victims. See Amy 
+Harmon, On-Line Service Draws Protest in Censor Flap, L.A. 
+Times, Dec. 2, 1995, at D1. 
+
+
+This Court’s decision in FCC v. Pacifica Foundation, 438 U.S. 
+726 (1978), does not justify the vague standards presented here. 
+In what this Court has stressed was “an emphatically narrow 
+holding,” Sable Communications of Cal, Inc. v. FCC, 492 U.S. 
+115, 127 (1989), the Court in Pacifica, while upholding an FCC 
+determination that a broadcast entitled "Filthy Words” was 
+indecent, stated that its scrutiny would be limited to the 
+particular circumstances c* that broadcast. 438 U.S. at 734-35; 
+see id. at 742 (opinion of Stevens, J.). Because the specific 
+broadcast at issue concededly fit within the FCC’s definition of 
+indecent speech, the Court did not reach the issue of whether 
+that definition would inhibit the expression of non-indecent 
+speech by others, as it syrely will. In any event, the Court in 
+Pacifica was not confronted by a regulation which gave 
+economic adversaries the power to censor expression based on 
+what they “reasonably believe[]" to be indecent, as is the case 
+here. 
+
+
+D. Section 10’s Censorship Scheme Inflicts Unconstitutional 
+Prior Restraints Upon Protected Expression. 
+
+
+A content-based censorship scheme that constitutes a prior 
+restraint on protected expression is presumptively invalid. 
+FWIPBS, Inc. v. City of Dallas, 493 U.S. 215, 225 (1990); 
+Southeastern Promotions, Lid. v. Conrad, 420 U.S. 546, 558 
+(1975). Section 10 and its implementing regulations impose just 
+such a system of content-based prior restraints on protected 
+expression over access channels, for they deny members of the 
+public and others who speak via access channels the power to 
+use access channels “in advance of actual expression” and 
+based upon the nature of their message. Ward v. Rock Against 
+Racism, 491 U.S. 781, 795 n.5 (1989) (quoting Southeastern 
+Promotions, 420 U.S. at 553). 
+
+
+48 
+
+
+This denial occurs in two separate ways. First, by delegating 
+a broad censorship power to those with the economic incentives 
+
+
+to use it, and adding the coercion of Section 10(d), Congress 
+has created a corps of involuntary government surrogates who 
+are pressured to censor certain presumptively-protected 
+expression; has defined (vaguely) the content of what speech 
+may be censored; and has embroiled the FCC in regulating the 
+censorship system. See Bantam Books, Inc. v. Sullivan, 372 U.S. 
+58, 68-70 (1963) (finding system of informal censorship by 
+persuasion and intimidation constituted prior restraint). 
+Second, subsection (b) requires al! indecent programming on 
+leased access channels to be blocked, thus preventing its receipt 
+by cable viewers. While the customer may request in writing 
+that the block be lifted, the operator may take up to an entire 
+month to comply with this request. 47 C.F.R. § 76.701(c), App. 
+171a. Such delay — which in many cases will result in the 
+effective suppression (and not merely delay) of speech the 
+viewer seeks and will be imposed without prompt judicial review 
+— constitutes “the most serious and the least tolerable 
+infringement on First Amendment rights.” Nebraska Press Ass'n 
+v. Stuart, 427 U.S. 539, 559 (1976).* 
+
+
+Try as it might, the government cannot rebut this presump- 
+tion of unconstitutionality. To be constitutional, bans on 
+protected speech must “take[] place under procedural safe- 
+guards designed to obviate the dangers of a censorship system." 
+Freedman v. Maryland, 380 U.S. 51, 58 (1965). At a bare 
+minimum, these safeguards must provide for prompt judicial 
+review initiated by the censor, with the burden of proof on the 
+censor. Southeastern Promotions, 420 U.S. at 560. But the 
+
+
+banning of protected speech under Section 10 occurs without 
+
+
+“Moreover, the very requirement that cable customers submit a written 
+request may im itself chil] dissemmation of speech. As this Court recognized 
+in Lamont v. Postmaster General, 381 U.S. 301 (1965), members of the public 
+are “likely to feel some inhibition in sending for literature which federal 
+officials have condemned.” /d. at 307; see also Thornburgh v. American College 
+of Obstetricians & Gynecologists, 476 U.S. 747, 767 (1986) (state may not “chill 
+the exercise of constitutional rights by requiring disclosure of protected, but 
+sometimes unpopular, activities”). 
+
+
+any judicial intervention. For that reason alone, Section 10 
+
+
+violates the First Amendment. 
+
+
+CONCLUSION 
+The judgment of the Court of Appeals should be reversed, 
+
+
+and Section 10 and the 
+
+
+promulgated thereunder 
+
+
+should be struck down as violative of the First Amendment. 
+
+
+JAMES N. HORWOOD 
+SPIEGEL & MCDIARMID 
+1350 New York Ave., N.W. 
+
+
+Respectfully submitted, 
+
+
+L MICHAEL GREENBERGER 
+Counsel of Record 
+THOMAS J. MIKULA 
+MARK S. RAFFMAN 
+MICHAEL K. ISENMAN 
+DAVID B. GOODHAND 
+SHEA & GARDNER 
+1800 Massachusetts Ave., N.W. 
+
+
+Washington, D.C. 20036 
+(202) 828-2000 
+
+
+Counsel for Petitioners 
+Alliance for Community Media, 
+Alliance for Communications 
+Democracy, and People For 
+the American Way 
+
+
+ul i or ee a —- FF > ¥F oo 7 = tn 
+a ~~ =—p— = a. ital — = ’ 7 
+
+
+Gi qe Sat De ee 
+uy 7 Sati. _ 7 tae aa : 
+i , on ins = a aa . 
+’ 5 
+a : | 
+. , ; 
+—_ 
++ = 
+< 
+“7 
+a | 
+; i" 
+] - 
+
+
+7 
+
+
+STATUTORY APPENDIX 
+
+
+. 
+
+
+ad 
+
+
+la 
+
+
+The following are relevant statutory provisions relating to 
+PEG or public access cable channels from the Cable 
+Communications Policy Act of 1984 ("the 1984 Act"), and 
+Section 10(c) of the Cable Television Consumer Protection and 
+Competition Act of 1992 ("the 1992 Act"), as they appear in the 
+U.S. Code: 
+
+
+47 U.S.C. § 531 (1988). 
+
+
+Cable channels for public, educational, or governmental use 
+
+
+(a) Authority to establish requirements with respect to 
+designation or use of channel capacity 
+
+
+A franchising authority may establish requirements in a 
+franchise with respect to the designation or use of channel 
+capacity for public, educational, or governmental use only to 
+the extent provided in this section. 
+
+(b) Authority to require designation for public, educational, 
+or governmental use 
+
+A franchising authority may in its request for proposals 
+require as part of a franchise, and may require as part of a 
+cable operator’s proposal for a franchise renewal, subject to 
+section 546 of this title, that channel capacity be designated for 
+public, educational, or governmental use, and channel capacity 
+on institutional networks be designated for educational or 
+governmental use, and may require rules and procedures for the 
+use of the channel capacity designated pursuant to this section. 
+
+
+(e) Editorial control by cable operator 
+
+
+Subject to section 544(d) of this title, a cable operator shall 
+not exercise any editorial control over any public, educational, 
+or governmental use of channel capacity provided pursuant to 
+this section. 
+
+
+[$ 611 of the Communications Act of 1934, as added by the 
+Cable Communications Policy Act of 1984, Pub. L. No. 98-549, 
+§ 2, 98 Stat. 2782.] 
+
+
+2a 
+
+
+[Note to 47 U.S.C. § 531 (Supp. V 1993)) 
+REGULATIONS 
+
+
+Pub. L. 102-385, § 10(c), Oct. 5, 1992, 106 Stat. 1486, 1503, 
+provided that: “Within 180 days following the date of the 
+enactment of this Act [Oct. 5, 1992], the Federal 
+Communications Commission shal! promulgate such regulations 
+as may be necessary to enable a cable operator of a cable 
+system to prohibit the use, on such system, of any channel 
+capacity of any public, educational, or governmental access 
+facility for any programming which contains obscene material, 
+sexually explicit conduct, or material soliciting or promoting 
+unlawful conduct.” 
+
+
+The following are relevant statutory provisions relating to 
+leased access cable channels from the 1984 Act and Sections 
+10(a) and 10(b) of the 1992 Act, as they appear in the U.S. 
+Code: 
+
+
+47 U.S.C. § 532 (1988 & Supp. V 1993). 
+Cable channels for commercial use 
+(a) Purpose 
+
+
+The purpose of this section is to promote competition in the 
+delivery of diverse sources of video programming and to assure 
+that the widest possible diversity of information sources are 
+made available to the public from cable systems ia a manner 
+consistent with growth and development of cable systems. 
+
+
+(b) Designation of channel capacity for commercial use 
+
+
+(1) A cable operator shall designate channel capacity for 
+commercial use by persons unaffiliated with the operator in 
+accordance with the following requirements: 
+
+
+(A) An operator of any cable system with 36 or more 
+(but not more than 54) activated channels shall designate 10 
+percent of such channels which are not otherwise required 
+for use (or the use of which is not prohibited) by Federal law 
+or regulation. 
+
+
+3a 
+
+
+(B) An operator of any cable system with 55 or more 
+(but not more than 100) activated channels shall designate 15 
+percent of such channels which are not otherwise required 
+for use (or the use of which is not prohibited) by Federal law 
+or regulation. 
+
+
+(C) An operator of any cable system with more than 100 
+activated channels shall designate 15 percent of all such 
+channels. 
+
+
+(D) An operator of any cable system with fewer than 36 
+activated channels shall! not be required to designate channel 
+capacity for commercial use by persons unaffiliated with the 
+operator, unless the cable system is required to provide such 
+channel capacity under the terms of a franchise in effect on 
+October 30, 1984. 
+
+
+(E) An operator of any cable system in operation on 
+October 30, 1984, shall not be required to remove any 
+service actually being provided on July 1, 1984, in order to 
+comply with this section, but shall make channel capacity 
+available for commercial use as such capacity becomes 
+available until such time as the cable operator is in full 
+compliance with this section. 
+
+
+(5) For the purposes of this section, the term "commercial 
+use” means the provision of video programming, whether or not 
+for profit. 
+
+
+(c) Use of channel capacity by unaffiliated persons; editorial 
+control; restriction on service; rules on rates, terms, and 
+conditions 
+
+
+(1) Ifa person unaffiliated with the cable operator seeks to 
+use channel capacity designated pursuant to subsection (b) of 
+this section for commercial use, the cable operator shall 
+establish, consistent with the purpose of this section and with 
+rules prescribed by the Commission under paragraph (4), the 
+price, terms, and conditions of such use which are at least 
+
+
+4a 
+
+
+sufficient to assure that such use will not adversely affect the 
+operation, financial condition, or market development of the 
+cable system. 
+
+
+(2) A cable operator shall not exercise any editorial control 
+over any video programming provided pursuant to this section, 
+or in any other way consider the content of such 
+except that an operator may consider such content to the 
+minimum extent necessary to establish a reasonable price for 
+the commercial use of designated channel capacity by an 
+unaffiliated person. 
+
+
+(h) Cable service unprotected by Constitution 
+
+
+Any cable service offered pursuant to this section shall not 
+be provided, or shall be provided subject to conditions, if such 
+cable service in the judgment of the franchising authority or the 
+cable operator is obscene, or is in conflict with community 
+standards in that it is lewd, lascivious, filthy, or indecent or is 
+otherwise unprotected by the Constitution of the United States. 
+This subsection shall permit a cable operator to enforce 
+prospectively a written and published policy of prohibiting 
+programming that the cable operator reasonably believes 
+describes or depicts sexual or excretory activities or organs in 
+a patently offensive manner as measured by contemporary 
+community standards. 
+
+
+(j) Single channel access to indecent programming 
+
+
+(1) Within 120 days following October 5, 1992, the 
+Commission shall promulgate regulations designed to limit the 
+access of children to indecent programming, as defined by 
+Commission regulations, and which cable operators have not 
+voluntarily prohibited under subsection (h) of this section by — 
+
+
+(A) requiring cable operators to place on a single channel 
+all indecent programs, as identified by program providers, 
+intended for carriage on channels designated for commercial 
+use under this section; 
+
+
+Sa 
+
+
+(B) requiring cable operators to block such single channel! 
+unless the subscriber requests access to such channel in 
+
+
+writing, and 
+
+
+(C) requiring programmers to inform cable operators if 
+the program would be indecent as defined by Commission 
+
+
+regulations. 
+
+(2) Cable operators shall comply with the regulations 
+promulgated pursuant to paragraph (1). 
+{§ 612 of the Communications Act of 1934, as added by the 
+Cable Communications Policy Act of 1984, Pub. L. No. 98-549, 
+§ 2, 98 Stat. 2782, and as amended by the Cable Television 
+
+
+Consumer Protection and Competition Act of 1992, Pub. L. No. 
+102-385, §§ 9, 10(a), (b), 106 Stat. 1484, 1486.| 
+
+
+The foliowing are other relevant provisions from the 1984 
+Act and Section 10(d) of the 1992 Act as they appear in the 
+U.S. Code: 
+
+
+47 U.S.C. § 544 (1988 & Supp. V 1993), as amended, 47 
+U.S.C.A. § 544(d)(2) (West Supp. 1995). 
+
+
+Regulation of services, facilities, and equipment 
+
+
+(d) Cable service unprotected by Constitution; blockage of 
+premium channel upon request 
+
+
+(1) Nothing in this subchapter shall be construed as 
+prohibiting a franchising authority and a cable operator from 
+specifying, in a franchise or renewal thereof, that certain cable 
+services shall not be provided or shall be provided subject to 
+conditions, if such cable services are obscene or are otherwise 
+unprotected by the Constitution of the United States. 
+
+
+(2) In order to restrict the viewing of of [sic] programming 
+which is obscene or indecent upon the request of a subscriber, 
+a cable operator shall provide (by sale or lease) a device by 
+which the subscriber can prohibit viewing of a particular cable 
+service during periods selected by that subscriber. 
+
+
+[$ 624(d) of the Communi 
+Cable Communications Po 
+§ 2, 98 Stat. 2789-90, and : 
+Consumer Protection and ( 
+102-385, § 15, 106 Stat. 1 
+subsection (3), not quoted 
+Assistance of Law Enfor 
+§§ 303(a)(23), 304(a)(12), 
+47 U.S.C. § 558 (Supp. V | 
+
+
+Criminal and civil liabi 
+
+
+the program involves obsc 
+
+
+§ 2, 98 Stat. 2801, and as 
+Consumer Protection and ¢ 
+102-385, § 10(d), 106 Stat. 
+involves obscene material” 
+
+
+6a 
+
+
+ations Act of 1934, as added by the 
+cy Act of 1984, Pub. L. No. 98-549, 
+, amended by the Cable Television 
+ompetition Act of 1992, Pub. L. No. 
+90) (changing caption and adding 
+vere), and by the Communications 
+sment Act, Pub. L. No. 103-414, 
+08 Stat. 4295, 4297 (Oct. 25, 1994).] 
+
+
+93). 
+
+
+ty 
+
+
+er shall be deemed to affect the 
+of cable programmers or cable 
+ederal, State, or local law of libel, 
+nt, invasions of privacy, false or 
+ther similar laws, except that cable 
+ny such liability for any program 
+ignated for public, educational, 
+ny other channel obtained under 
+inder similar arrangements unless 
+n€ material. 
+
+
+ons Act of 1934, as added by the 
+cy Act of 1984, Pub. L. No. 98-549, 
+amended by the Cable Television 
+»mpetition Act of 1992, Pub. L. No. 
+486 (inserting “unless the program 
+it the end of the section).] 
+
+

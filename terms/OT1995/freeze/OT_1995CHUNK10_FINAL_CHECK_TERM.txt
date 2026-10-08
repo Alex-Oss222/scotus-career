@@ -1,0 +1,3 @@
+OK (non-Git checks only): OT1995; 0 warning(s)
+NOT RUN: Git object verification; 206 distinct candidate references deferred.
+No Git command or child process was executed; no commit validity is claimed.

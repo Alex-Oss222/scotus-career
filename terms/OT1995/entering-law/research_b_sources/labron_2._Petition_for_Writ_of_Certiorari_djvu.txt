@@ -1,0 +1,3422 @@
+a ~~. 
+QB-15°) ~EILED 
+
+
+NO. {a 
+
+
+IN THE =e 
+SUPREME COURT OF THE UNITED STATES 
+
+
+OCTOBER TERM, 1995 
+
+
+COMMONWEALTH OF PENNSYLVANIA, 
+Petitioner 
+we 
+
+
+EDWIN LABRON 
+
+
+On Petition for Writ of Certiorari to 
+the Supreme Court of Pennsylvania 
+
+
+PETITION FOR WRIT OF CERTIORARI 
+AND APPENDIX - VOLUME I 
+
+
+RONALD EISENBERG 
+Deputy District Attorney 
+(Counsel of Record) 
+
+JOAN WEINER 
+
+Assistant District Attorney 
+CATHERINE MARSHALL 
+Chiet, Appeals Unit 
+ARNOLD GORDON 
+
+First Assistant District Attorney 
+LYNNE ABRAHAM 
+District Attorney 
+
+
+Philadelphia District Attorney's Office 
+1421 Arch Street 
+
+Philadelphia, PA 19102 
+
+(215) 686-5700 
+
+
+QUESTION PRESENTED 
+
+
+Has the Pennsylvania Supreme Court properly 
+understood this Court's precedent in declaring that police 
+who have probable cause must still secure a warrant to 
+search a car parked on a street, unless they can show 
+particular exigent circumstances beyond the inherent 
+mobility of the vehicle? 
+
+
+TABLE OF CONTENTS 
+
+| PAGE 
+Question Presented i 
+Table of Authorities iv-Vi 
+Opinions Below l 
+Statement of Jurisdiction 1-2 
+Constitutional Provision Involved 2 
+Statement of the Case 3-6 
+Reasons for Granting the Writ 6-14 
+
+
+The Pennsylvania Supreme Court has 
+effectively abrogated the "automobile 
+exception" by declaring -- in reliance on 
+this Court's Fourth Amendment 
+jurisprudence -- that police acting with 
+probable cause cannot search a car 
+parked on a street unless they can show 
+particular exigent circumstances beyond 
+the inherent mobility of the vehicle. 
+
+
+Conclusion 15 
+
+
+Appendix (Volume I): 
+
+
+Judgment and Opinion of the 
+Supreme Court of Pennsylvania App. 1-34 
+ii 
+
+
+i 
+
+
+Judgment and Opinion of the 
+Superior Court of Pennsylvania 
+
+
+Suppression Opinion of the 
+Court of Common Pleas 
+of Philadelphia County 
+Appendix (Volume II -- separately bound) 
+
+
+Notes of Testimony, Suppression, 
+11/20/91 
+
+
+Notes of Testimony, Suppression, 
+11/21/91 
+
+
+Notes of testimony, Suppression, 
+12/5/91 
+
+
+Notes of Testimony, Suppression, 
+5/92 
+
+
+App. 35-43 
+
+
+App. 44-53 
+
+
+App. 54-189 
+
+
+App. 190-240 
+
+
+App. 241-55 
+
+
+App. 256-66 
+
+
+TABLE OF AUTHORITIES 
+
+
+Federal Cases 
+Arkansas v. Sanders, 442 U.S. 753 (1979) 
+
+
+Cady v. Dombrowski, 413 U.S. 433 (1973) 
+California v. Carney, 471 U.S. 386 (1985) 
+
+
+Cardwell v. Lewis, 417 U.S. 583 (1974) 
+
+
+Carroll v. United States, 267 U.S. 132 (1925) 
+
+
+Chambers v. Maroney, 399 U.S. 42 ( 1970) 
+
+
+Chapman v. United States, 365 U.S. 610 (1961) 
+
+
+Colorado v. Bannister, 449 U.S. | (1980) 
+
+
+Coolidge v. New Hampshire, 403 U.S. 443 (1971) 
+
+
+Illinois v. Rodriguez, 497 U.S. 177 (1990) 
+Michigan v. Thomas, 458 U.S. 259 (1982) 
+
+
+New York v. Class, 475 U.S. 106 (1986) 
+
+
+South Dakota v. Opperman, 428 U.S. 364 (1976) 
+
+
+Texas v. White, 423 U.S. 67 (1975) 
+
+
+United States v. Chadwick, 433 U.S. | (1977) 
+
+
+IV 
+
+
+14 
+
+
+9,12 
+
+
+9 
+
+
+12 
+
+
+United States v. Cruz, 834 F.2d 47 (2d Cir. 1987) 
+
+
+United States v. Hatley, 15 F.3d 856 
+(9th Cir. 1994) 
+
+
+United States v. Johns, 469 U.S. 478 (1985) 
+
+
+United States v. Jones, 31 F.3d 1304 
+(4th Cir. 1994) 
+
+
+United States v. Markham, 844 F.2d 366 
+(6th Cir. 1988) 
+
+
+United States v. Ross, 456 U.S. 798 (1982) 
+
+
+United States v. Swingler, 758 F.2d 477 
+(10th Cir. 1985) 
+
+
+State Cases 
+
+
+Commonwealth v. Baker, 518 Pa. 145, 
+541 A.2d 1381 (1988) 
+
+
+Commonwealth v. Cockfield, 431 Pa. 639, 
+246 A.2d 381 (1968) 
+
+
+Commonwealth v. Holzer, 480 Pa. 93, 389 
+A.2d 101 (1978) 
+
+
+Commonwealth v. lonata, 518 Pa. 472, 
+544 A.2d 917 (1988) 
+
+
+PAGE 
+10 
+
+
+10 
+
+
+9 
+
+
+10 
+
+
+10 
+
+
+8,12 
+
+
+10 
+
+
+4,12,13 
+
+
+11,12 
+
+
+11,12 
+
+
+12 
+
+
+Commonwealth v. Kilgore, 1995 WL 790060 
+(Pa., opinion dated December 26, 1995, 
+
+
+judgment entered January 24, 1996) 
+
+
+Commonwealth v. Lewis, 442 Pa. 98, 
+275 A.2d $1 (1971) 
+
+
+Commonwealth v. Milyak, 508 Pa. 2, 493 
+
+
+A.2d 1346 (1985) 
+
+
+Commonwealth v. Rodriguez, 526 Pa. 268, 
+
+
+585 A.2d 988 (1991) 
+
+
+Commonwealth v. Timko, 491 Pa. 32. 
+417 A.2d 620 (1980) 
+
+
+Commonwealth v. White, 669 A.2d 896 
+
+
+(Pa., opinion dated December 29, 1995, 
+
+
+judgment entered January 4, 1996) 
+Constitution and Statutes 
+U.S. Const. amend. I'V 
+U.S. Const. amend. XIV 
+28 U.S.C. § 1257(a) 
+18 Pa. C.S. § 903 
+35 Pa. C.S. § 780-113(ay(16) 
+
+
+35 Pa.C.S. § 780-113(a\(30) 
+vi 
+
+
+5.13.14 
+
+
+12 
+
+
+12 
+
+
+4,12,13 
+
+
+12 
+
+
+5,12,14 
+
+
+The January 12, 1996 judgment and opinion of the 
+Supreme Court of Pennsylvania, reversing the judgment of 
+the intermediate appellate court, the Superior Court of 
+Pennsylvania, is reported at 669 A.2d 917 (Pa. 1995), and 
+is reprinted in the Appendix at App. 1-34.' The January 6, 
+1993 judgment and memorandum opinion of the Superior 
+Court of Pennsylvania is unreported but is reprinted in the 
+Appendix at App. 35-43. The July 31, 1992 opinion of the 
+Court of Common Pleas of Philadelphia County is 
+unreported, but is reprinted in the Appendix at App. 44-53. 
+
+
+STATEMENT OF JURISDICTION 
+
+
+This is a state criminal prosecution where 
+respondent filed a motion in the trial court, the Philadelphia 
+Court of Common Pleas, seeking to suppress cocaine on the 
+ground, inter alia, that it was seized from an automobile in 
+violation of the Fourth and Fourteenth Amendments of the 
+United States Constitution. On March 5, 1992, the trial 
+court suppressed the evidence, finding that the seizure was 
+supported by probable cause but was nonetheless unlawful 
+because of the absence of a warrant. 
+
+
+Upon appeal by petitioner, the Commonwealth of 
+Superior Court of Pennsylvania, reversed the suppression 
+order in a judgment and memorandum opinion dated 
+January 6, 1993. Respondent filed a petition for allowance 
+of appeal in the Supreme Court of Pennsylvania. On May 
+
+
+' The Court's opinion shows a filing date of 
+December 29, 1995, but judgment was not entered, and the 
+opinion was not issued, until January 12, 1996. 
+
+I 
+
+
+26, 1994, the Supreme Court granted the petition for 
+allowance of appeal. After briefing and oral argument, the 
+supreme court reversed the decision of the superior court, 
+holding that, under the "automobile exception" derived 
+from this Court's Fourth Amendment case law, a police 
+officer who develops probable cause io believe that 
+contraband is in an automobile must nevertheless 
+demonstrate that it was impracticable to obtain a search 
+warrant before conducting a warrantless search. 
+
+
+The jurisdiction of this Court to review the final 
+judgment of the Supreme Court of Pennsylvania, based 
+upon its construction of the federal Fourth Amendment, is 
+invoked under 28 U.S.C. § 1257(a). 
+
+
+CONSTITUTIONAL PROVISIONS INVOLVED 
+
+
+The Fourth Amendment of the United States 
+Constitution, which provides: 
+
+
+The right of the people to be secure 
+in their persons, houses, papers, and effects, 
+against unreasonable searches and seizures, 
+shall not be violated, and no warrants shall 
+issue, but upon probable cause, supported by 
+oath or affirmation, and particularly 
+describing the place to be searched, and the 
+persons or things to be seized. 
+
+
+The Due Process Clause of Section | of the 
+Fourteenth Amendment of the United States Constitution, 
+which provides: 
+
+
+[{N]or shall any State deprive any 
+person of life, liberty, or property, without 
+due process of law. 
+
+2 
+
+
+STATEMENT OF THE CASE 
+
+
+This case is one of a series of recent decisions in 
+which the Pennsylvania Supreme Court has held, on the 
+basis of Fourth Amendment precedent, that a car cannot be 
+searched without either a warrant or a case-by-case 
+showing that exigent circumstances -- beyond the inherent 
+mobility of the vehicle -- prevented the securing of a 
+warrant. 
+
+
+The case began in August, 1990. A police officer 
+investigating drug dealing on a particular street in 
+Philadelphia got a tip that drug dealers were stashing 
+cocaine in certain cars parked on the block. One of the 
+vehicles was described as a 1977 blue Lincoln. To 
+corroborate the tip, the officer conducted surveillance from 
+a confidential location. App. 60, 132-33. During the 
+two-hour surveillance, he saw respondent and another male 
+sell drugs to numerous customers. 
+
+
+Whenever respondent and his accomplice ran out of 
+drugs to sell, a confederate appeared and resupplied them 
+from a stash of cocaine in the trunk of a 1977 blue Lincoln. 
+App. 63-66. At one point in the surveillance, the resupplier 
+handed the other seller a set of keys and drove away. 
+Minutes later, two couriers arrived to deliver a shipment of 
+cocaine to the operation. Using the newly arrived keys, 
+respondent placed two large bags of cocaine inside the 
+trunk of the blue Lincoln. App. 66-72. 
+
+
+The investigating officer called for assistance and 
+arrested respondent, the other seller, and the couriers. The 
+police then searched the trunk of the blue Lincoln and 
+removed the two large plastic bags of cocaine that had just 
+been delivered. App. 71-72. Respondent was held for trial 
+on charges of possession of a controlled substance with the 
+
+
+3 
+
+
+intent to deliver, 35 Pa. C.S. § 780-113(a)(16), (a)(30), and 
+criminal conspiracy, 18 Pa. C.S. § 903. 
+
+
+Respondent moved to suppress the drugs, citing the 
+United States and Pennsylvania Constitutions, without 
+distinguishing between the two. App. 57-58. At the 
+suppression hearing, on November 20, 1991, respondent 
+presented no evidence, and the investigating officer's 
+testimony remained uncontradicted. 
+
+
+The suppression court credited the officer's 
+testimony, App. 262, but granted respondent's suppression 
+motion, concluding that, under the Fourth Amendment, 
+even though the police had probable cause to believe that 
+there was cocaine in the Lincoln, they could not search 
+without a warrant because there was no specific exigency 
+that prevented them from securing one.’ 
+
+
+Petitioner appealed to the intermediate state 
+appellate court, the Superior Court of Pennsylvania. On 
+January 6, 1993, the Superior Court reversed the 
+suppression order and issued an opinion explaining that 
+under the Fourth Amendment and the Pennsylvania 
+Constitution, which was co-extensive on the question, 
+probable cause permitted the warrantless search under the 
+“automobile exception." 
+
+
+. The suppression court based its conclusion solely 
+on Commonwealth v. Rodriguez, 526 Pa. 268, 585 A.2d 
+988 (1991), App. 258, an "automobile exception" case 
+decided exclusively under the Fourth Amendment. When 
+the court wrote its post-verdict opinion four months later, it 
+made additional reference to Commonwealth v, Baker, 518 
+Pa. 145, 541 A.2d 1381 (1988), an "automobile exception" 
+case decided under b4oth the federal and state constitutions, 
+which were viewed as coterminous on the question. 
+
+4 
+
+
+Respondent petitioned for discretionary review. 
+The state Supreme Court granted review in this case and 
+two other unrelated cases involving the "automobile 
+exception." The state supreme court then held in each of 
+the three cases that the Fourth Amendment's "automobile 
+exception" (which the court continued to view as 
+coterminous with the Pennsylvania Constitution on the 
+question) required not only probable cause for the search, 
+but also proof that the police did not have time or 
+opportunity to get a warrant.’ 
+
+
+Thus, in the case at bar, the court concluded that 
+because the investigating officer had information about the 
+Lincoln's role in the drug operation, he supposedly could 
+have secured a warrant before he went to the scene, and 
+was therefore required to obtain one before setting up 
+surveillance. The court further held that, once the officer 
+actually saw the Lincoln being used to store cocaine, he 
+was precluded under the "automobile exception" from 
+conducting a warrantless search absent a showing of an 
+articulable exigency that made it impracticable to obtain a 
+warrant. 
+
+
+Because of the court's insistence that the 
+"automobile exception" precluded a warrantless search 
+
+
+The opinion in the present case was dated December 
+29, 1995. However, judgment was not entered, and the 
+opinion was not issued, until January 12, 1996. The other 
+cases in the trilogy are Commonwealth v. Kilgore, 1995 
+WL 790060 (Pa., opinion dated December 26, 1995, 
+judgment entered January 24, 1996), and Commonwealth v. 
+White, 669 A.2d 896 (Pa., opinion dated December 29, 
+1995, judgment entered January 4, 1996). 
+
+5 
+
+
+3 
+
+
+absent an additional showing of exigent circumstances, 
+petitioner filed this petition for writ of certiorari. 
+
+
+REASONS FOR GRANTING THE WRIT 
+
+
+The Pennsylvania Supreme Court has 
+effectively abrogated the "automobile 
+exception" by declaring -- in reliance on 
+this Court's Fourth Amendment 
+jurisprudence -- that police acting with 
+probable cause cannot search a car 
+parked on a street unless they can show 
+particular exigent circumstances beyond 
+the inherent mobility of the vehicle. 
+
+
+The decision below -- one of a trilogy of recent 
+“automobile exception" cases wrongly decided by the 
+Pennsylvania Supreme Court -- purports to apply the 
+“automobile exception" to the Fourth Amendment but turns 
+seventy years of constitutional automobile-search 
+jurisprudence on its head. 
+
+
+Over those many years, this Court has repeatedly 
+held that because automobiles are inherently mobile and 
+because citizens enjoy a substantially diminished 
+expectation of privacy in their automobiles, warrantless car 
+searches are permitted upon a demonstration of probable 
+cause without more. 
+
+
+The Pennsylvania Supreme Court has completely 
+eviscerated that principle. Purporting to interpret the 
+Fourth Amendment, it held in this case and the two others 
+that probable cause alone is insufficient as a matter of law 
+to justify a warrantless car search. 
+
+
+eee 
+
+
+The police here had information from sources that 
+drug dealers were using a blue Lincoln parked at a 
+particular location as a stash for retail cocaine traffic. 
+Recognizing that the mere existence of a tip often will not 
+establish probable cause, the police chose to corroborate 
+their information through surveillance at the scene. When 
+the police saw respondent conduct numerous street sales, 
+and saw him refill the drug supply in the car, they arrested 
+him and seized the drugs, rather than leaving the car for 
+several more hours to secure a warrant. The officers’ 
+conduct was in complete accord with this Court's Fourth 
+Amendment interpretations. 
+
+
+Yet the Pennsylvania Supreme Court believed that, 
+because the police had uncorroborated information about _ 
+the car before they conducted surveillance, they were 
+legally obligated to get a search warrant. The evidence, 
+said the court, was not "admissible without first requiring 
+the Commonwealth to demonstrate that exigent 
+circumstances prevented them from obtaining a warrant." 
+App. 20. 
+
+
+That interpretation of the Fourth Amendment is 
+flatly wrong. This Court has left no room for argument on 
+the question: a warrantless car search is proper under the 
+Fourth Amendment if it is made with probable cause. 
+There is no need to demonstrate, case-by-case, a specific 
+inability to obtain a warrant. 
+
+
+Thus, in California v. Carey, 471 U.S. 386 (1985), 
+when a government agent developed information about a 
+motor home being used for illicit purposes, conducted 
+surveillance, corroborated his information, and entered the 
+vehicle without a warrant, this Court held that the 
+warrantless entry was perfectly proper under the 
+
+
+7 
+
+
+“automobile exception" because the agent had probable 
+cause. 
+
+
+There is nothing distinguishing Carney from the 
+instant case. The police there, as here, had advance 
+information that a vehicle was being used in criminal 
+activity, they went to the scene to corroborate the 
+information, and they conducted a warrantless search of the 
+vehicle based on a showing of probable cause alone. 
+Because the "automobile exception" required no more, the 
+warrantless search was upheld. The result should have 
+been the same here but was not simply because the 
+Pennsylvania Supreme Court is obviously under the 
+erroneous impression that an additional showing of an 
+articulable exigency is required. 
+
+
+This Court's holding in United States v. Ross. 456 
+U.S. 798, 807 (1982), further demonstrates the 
+Pennsylvania Supreme Court's misunderstanding. In Ross, 
+the police received a tip from an informant and went to the 
+targeted location, where they found Ross selling drugs from 
+the trunk of a car. They arrested Ross and immediately 
+searched his car and its trunk. After finding drugs in a 
+container in the trunk, the police transported the car to a 
+police station and searched it again. This time they found a 
+quantity of cash in another container. 
+
+
+Relying on the "automobile exception,” this Court 
+upheld the warrantless search of both the car and the 
+containers at both locations because they were supported by 
+probable cause. If the warrantless search in Ross was valid 
+under the "automobile exception” upon a showing of 
+probable cause alone, so was the search here. 
+
+
+The holdings in Carney and Ross are not 
+extraordinary; they are but two examples of this Court's 
+
+
+- te ah Ce LE Bitte 8-6 OL 
+
+
+long-standing view -- going back to Carroll v. United 
+States, 267 U.S. 132 (1925) -- that, because citizens have a 
+diminished expectation of privacy in their automobiles, and 
+because automobiles are inherently mobile, the Fourth 
+Amendment permits police officers to conduct warrantless 
+car searches as long as they have probable cause. See 
+United States v. Johns, 469 U.S. 478, 484 (1985) ("A 
+vehicle lawfully in police custody may be searched on the 
+basis of probable cause to believe that it contains 
+contraband, and there is no requirement of exigent 
+circumstances to justify such a warrantless search"), 
+
+, 458 U.S. 259 (1982) (right to conduct 
+warrantless search of automobile with probable cause does 
+not "depend upon a reviewing court's assessment in each 
+particular case that the car would have been driven away, or 
+that its contents would have been tampered with, during the 
+period required for the police to obtain a warrant"), Texas 
+vy. White, 423 U.S. 67 (1975) (warrantless car search at 
+police station upon probable cause held proper); Cardwell 
+v, Lewis, 417 U.S. 583 (1974) (under “automobile 
+exception,” probable cause allowed for warrantless search 
+without proof of articulable exigency); Chambers v. 
+Maroney, 399 U.S. 42 (1970) (warrantless search of el 
+impounded vehicle upheld under "automobile exception 
+based on showing of probable cause)." 
+
+
+It does not matter if the warrantless search occurs, 
+as here, on the roadway after the suspects have already been 
+arrested, or later at an impoundment lot. Nor does it matter 
+
+
+: The "automobile exception" includes within its 
+bounds the warrantless search of automobile trunks, 
+Arkansas v. Sanders, 442 U.S. 753 (1979); Cady v. 
+Dombrowski, 413 U.S. 433 (1973), glove compartments, 
+
+
+South Dakota v. Opperman, 428 U.S. 364 (1976), and any 
+other part of the car where contraband may be hidden. 
+
+
+9 
+
+
+if, as here, the automobile is already immobile before the 
+police arrived. Colorado y. Bannister, 449 U.S. 1 (1980) 
+(automobile exception applies even where the police never 
+see vehicle in actual motion). In all these cases, the 
+existence of probable cause to search the automobile, 
+
+
+without showing specific exigencies, satisfies the Fourth 
+Amendment.’ 
+
+
+Clearly, the Pennsylvania Supreme Court has 
+interpreted the "automobile exception" in a manner wholly 
+
+
+inconsistent with this Court's development of the exception. 
+
+
+Indeed, the Pennsylvania court's interpretation of the 
+
+
+5 
+
+
+The federal courts of appeal, unlike the 
+Pennsylvania Supreme Court, have had little trouble 
+applying this clear case law, and have regularly rejected 
+attempts to graft onto the "automobile exception” the extra 
+requirement erroneously pronounced here. See United 
+States v, Jones, 31 F.3d 1304 (4th Cir. 1994) (warrantless 
+search of automobile justified with probable cause even 
+though officers had advance information about truck before 
+conducting search); United States v. Hatley, 15 F.3d 856 
+(9th Cir. 1994) (as long as warrantless car search based on 
+probable cause, no further exigency need be shown); 
+United States v. Markham, 844 F.2d 366, 368 (6th Cir. 
+1988) (police do not have to show inability to obtain 
+warrant; Fourth Amendment allows search on showing of 
+probable cause alone); United States v. Cruz, 834 F.2d 47 
+(2d Cir. 1987) (whei> agents develop probable cause, arrest 
+owner of truck and search truck two hours later without a 
+warrant, search permitted under "automobile exception"); 
+United States v, Swingler, 758 F.2d 477 (10th Cir. 1985) 
+(view that "automobile exception" applies only when there 
+are exigent circumstances "has never been endorsed by the 
+[United States] Supreme Court and is, in fact, inconsistent 
+with that Court's development of the exception"). 
+
+10 
+
+
+LO cS A Pe I I 
+
+
+Mee bn ty aa + 
+
+
+exception abolishes it by requiring the same kind of proof 
+for warrantless car searches as for warrantless house 
+searches. In its place, the court in effect imposes the far 
+more intrusive requirement that the police immobilize the 
+suspect vehicle (and themselves) for several hours pending 
+the arrival of a warrant. 
+
+
+Had the “automobile exception” been properly 
+applied, this retrogressive result could not have been 
+reached. The police did not act precipitously here; they — 
+secured probable cause precisely by resisting the temptation 
+to jump the gun. That probable cause was alone sufficient 
+to justify the warrantless car search. The law simply did 
+not require the officers to wait further to confirm the 
+obvious risk that the drug dealers would move the car or 
+sell or secrete the drugs before a warrant could be obtained. 
+
+
+Indeed, given the clarity of the controlling principle, 
+it is difficult to see how the state court achieved its contrary 
+ruling. The court started off its legal discussion well | 
+enough, quoting accurately from this Court's decisions in 
+Carroll and Chambers. App. 9-11. 
+
+
+At that point, however, the court referred to | 
+Pennsylvania cases decided two and three decades ago -- in 
+explicit reliance on this Court's case law -- for the 
+proposition that “there is no “automobile exception” as 
+such,” and that "the movability of [an automobile] is not 
+alone a sufficiently "« gent circumstance” to justify a 
+warrantless search.” App. 11-12." 
+
+
+; Commonwealth v. Holzer, 480 Pa. 93, 103, 389 
+A.2d 101, 106 (1978) (citing Coolidge v. New Hampshire. 
+403 U.S. 443 (1971) and Chambers); Commonwealth v. 
+Cockfield, 431 Pa. 639, 644, 246 A.2d 381, 384 (1968) 
+
+
+——Geee. ee 365 U.S. 610 (1961)). 
+
+
+Armed with this incomplete understanding of 
+current Fourth Amendment law, the supreme court 
+continued through a discussion of several more 
+Pennsylvania decisions. each and every one of which 
+purported to apply federal precedent. App. 12-19.’ Yet the | 
+opinion below never even cited a decision of this Court 
+more recent than Chambers. and made no attempt to square 
+its notion of federal constitutional requirements with this 
+
+
+Commonwealth vy. Milvak, 508 Pa. 2, 7-9, 493 A.2d 
+1346, 1349 (1985) (interpreting Chambers, South Dakota v. | 
+Opperman. United States v. Chadwick, 433 U.S. 1 (1977), 
+Coijorado v. Bannister, and United States v. Ross): | 
+Commonwealth v. Timko, 491 Pa. 32, 38, 417 A.2d 620, 
+623 (1980) (interpreting Chambers); Commonwealth v. 
+Lewis, 442 Pa. 98, 102, 275 A.2d $1, $3 (1971) 
+(interpreting Chambers); Commonwealth v. Baker, 518 Pa. 
+145, 148-49, 541 A.2d 1381, 1383 (1988) (interpreting 
+Ross and Commonwealth v. Milyak. Commonwealth v. 
+Holzer, and Commonwealth v. Lewis, each of which in turn 
+interpreted Chambers): $26 
+Pa. 268, 272-74, 585 A.2d 988, 990-91 (1991) (interpreting 
+Commonwealth v, Milyak and Commonwealth v. Baker. 
+each of which relied on Chambers): Commonwealth v. 
+lonata, 518 Pa. 472, 476-77, 544 A.2d 917, 919-20 (1988) 
+(interpreting Ross and Commonwealth v. Milyak. 
+Commonwealth v. Lewis, Commonwealth v. Holzer. and 
+Commonwealth v. Cockfield, all of which relied on this 
+Court's decisions); Commonwealth vy. White, 669 A.2d 
+896, 899-901 (1995) (interpreting Chambers and 
+Commonwealth v. lonata, Commonwealth v. Milyak. and 
+Commonwealth v. Cockfield, all of which relied on this 
+Court's decisions). 
+
+
+12 
+
+
+Court's actual body of law on the automobile exception." 
+
+
+. There is no issue in this case of an adequate and 
+independent state ground that would support the lower 
+court's holding. 
+
+
+Although respondent mentioned both the federal 
+and state constitutions before the suppression court, he did 
+
+
+distinction in its ruling, relying on state court decisions 
+(Commonwealth v. Rodriguez and Commonwealth v. 
+Baker) that were explicitly based on federal law. App. 
+49-52. 
+
+
+The intermediate state appellate court did the same. 
+App. 39-43. 
+
+
+And, as discussed above, so did the state supreme 
+court. The opinion referred at one point to both the state 
+and federal constitutions, App. 8-9, and to “this 
+
+Commonwealth's jurisprudence of the automobile 
+exception,” App. 20. But every authority discussed on 
+those topics was in fact a decision of this Court or a 
+decision interpreting a decision of this Court. 
+
+
+Indeed, the Pennsylvania Supreme Court itself has. 
+in a subsequent case, treated the opinion in this case as one 
+based on the Fourth Amendment. Commonwealth v. 
+Kilgore, 1995 WL 790060 at *3 (Pa. dated December 26. 
+1995, judgment entered January 24, 1996) (quoting 
+decision in this case, and stating that “we are constrained to 
+266 EE 
+
+l 
+
+
+As mentioned above, the Pennsylvania Supreme 
+Court's misreading of the "automobile exception" is not an 
+anomaly limited to this one case. Indeed, within three days 
+of the decision here, the court similarly decided two other 
+“automobile exception” cases. In both Commonwealth v. 
+Kilgore, 1995 WL 790060 (Pa., December 26, 1995), and 
+Commonwealth v. White, 669 A.2d 896 (Pa. 1995), the 
+court held, as it did here, that even though the police clearly 
+had probable cause to search the vehicle in question, their 
+warrantless searches were improper under the Fourth 
+Amendment because the Commonwealth did not 
+demonstrate specific exigent circumstances, beyond 
+inherent mobility, that would justify the failure of the 
+police to obtain a warrant before searching the vehicle. 
+That burden of proof simply is not part of the Fourth 
+Amendment's "automobile exception” equation. 
+
+
+Because the Pennsylvania Supreme Court has so 
+fundamentally misinterpreted the "automobile exception" 
+and grafted onto it an evidentiary requirement that has been 
+soundly rejected by this Court, its incorrect decision below 
+should be reviewed and reversed. 
+
+
+conducted in a manner which violated his rights under the 
+Fourth Amendment”). 
+
+
+Thus, the resolution of the suppression claim in this 
+case was hardly the “plain statement” of an independent 
+state ground required to defeat this Court's jurisdiction. 
+New York v, Class, 475 U.S. 106 (1986). Accord, Illinois 
+
+
+v. Rodriguez, 497 U.S. 177 (1990). 
+14 
+
+
+ss 
+
+
+CONCLUSION 
+
+
+For these reasons, petitioner respectfully requests 
+
+
+that a writ of certiorari issue to review the decision below. 
+
+
+a Aa 
+RONALD EIS ERG 
+
+
+Deputy District Attorney 
+(Counsel of Record) 
+
+JOAN WEINER 
+CATHERINE MARSHALL 
+Chief, Appeals Unit 
+
+ARNOLD GORDON 
+
+First Assistant District Attorney 
+LYNNE ABRAHAM 
+
+District Attorney 
+
+
+Philadelphia District Attorney's Office 
+1421 Arch Street 
+
+Philadelphia, Pa. 19102 
+
+(215) 686-5700 
+
+DATE: April 11, 1996 
+
+
+15 
+
+
+APPENDIX 
+
+
+<a ee oy Beet Lt mal Coed 
+
+
+Wi ees eesti Star 
+
+
+IN THE SUPREME COURT OF PENNSYLVANIA 
+EASTERN DISTRICT 
+
+
+COMMONWEALTH OF : No. 43 Eastern 
+PENNSYLVANIA, : District Appeal 
+Appellee : Docket 1994 
+
+
+Appeal from the Judg- 
+ment of Superior 
+Court entered January 
+6, 1993 at No. 1276 
+
+: PHL 1992, reversing 
+
+v. : the Order entered on 
+
+: March 5, 1992 in the 
+Court of Common 
+Pleas, Criminal Divi- 
+sion, Philadelphia 
+County at No. 9009- 
+2318-19 
+
+
+EDWIN LABRON, : ARGUED: 
+Appellant : JANUARY 25, 1995 
+
+
+OPINION 
+
+
+DECIDED: 
+December 29, 1995 
+
+
+MR. JUSTICE MONTEMURO 
+
+
+Appellant, Edwin Labron, appeals from a memo- 
+randum opinion and per curiam order of the Superior 
+Court reversing an order of the Court of Common Pleas 
+of Philadelphia County suppressing evidence seized 
+during a warrantless search of an automobile. 
+
+
+We granted permission for this appeal in order to 
+determine whether the Commonwealth must establish the 
+existence of exigent circumstances in order to justify the 
+warrantless search of an automobile, or if the “auto- 
+mobile exception” to the warrant requirement requires 
+only that the Commonwealth establish the existence of 
+probable cause. Because we believe that the automobile 
+exception requires a showing of both probable cause and 
+exigent circumstances, we hold that the Superior Court 
+incorrectly applied the automobile exception to this case. 
+
+
+On August 24, 1990, Officer Gerald Nimmo of 
+the Philadelphia Police Department, assigned to the 
+narcotics unit, established surveillance of the 900 block 
+of Auburn Street in the City of Philadelphia from a 
+confidential location. During his surveillance, he 
+observed Appellant and another male, Santiago, conduct 
+transactions in which Appellant and Santiago would 
+accept cash from individuals on the street in exchange 
+for small plastic bags filled with white powder. Based 
+upon his experience as a police officer, he believed that 
+the packets were filled with cocaine and that the 
+exchanges constituted the sale of illegal drugs. A short 
+while later, Officer Nimmo observed a third male, 
+Melendez, approach Appellant and Santiago. The three 
+men proceeded to a blue Lincoln automobile which was 
+parked on the south side of Auburn Street. 
+
+
+With a key, Melendez opened the trunk of the 
+car, reached inside, and retrieved a bag. From the bag, 
+Melendez produced two other bags, giving one each to 
+Appellant and Santiago. The bags contained smaller 
+packets filled with white powder. In exchange for the 
+bags, Appellant and Santiago gave Melendez currency. 
+Melendez closed the trunk while Appellant and Santiago 
+returned to the street to continue what Officer Nimmo 
+believed to be drug transactions. 
+
+
+App. 2 
+
+
+| 
+
+
+eet De on elaine ae Ae oe ente na eS A aN POS te 
+
+
+ce et aa ad OM ee 
+
+
+A short time later, the three men again met and 
+again approached the blue Lincoln, where Melendez 
+repeated the exchange of bags containing smaller packets 
+filled with white powder for cash from Appellant and 
+Santiago. A few minutes afterward, Melendez 
+approached Santiago and handed him a set of keys. 
+Thereafter, Melendez got into another car, a blue Ford 
+stationwagon, and drove away. Appellant and Santiago 
+continued to transact sales. 
+
+
+Approximately ten minutes after Melendez had 
+left, a blue Toyota pulled into the 900 block of Auburn 
+Street. Two men exited the vehicle and approached 
+Santiago. Appellant dpproached the group and Santiago 
+gave him a set of keys. Appellant went to the blue 
+Lincoln and used the keys to open its trunk. One of the 
+men from the Toyota retrieved a plastic bag from the 
+passenger side of the Toyota and gave it to Appellant, 
+who was waiting at the blue Lincoln. Appellant took the 
+bag and placed it in the trunk, which he then closed, 
+returning the keys to Santiago. 
+
+
+The two men from the Toyota got into their 
+automobile and drove away. Back-up officers who were 
+waiting a few blocks away stopped the blue Toyota and 
+arrested its two occupants. Other back-up officers 
+quickly arrived on Auburn Street and arrested Appellant 
+and Santiago. At that point, Officer Nimmo directed 
+another officer to open the trunk of the blue Lincoln. 
+Upon doing so, the officers found two plastic bags and a 
+plastic sandwich bag, all filled with what proved to be 
+cocaine. 
+
+
+App. 3 
+
+
+Appellant, charged with deliv ery of a controlled 
+substance ‘and criminal conspiracy,“ filed a motion 
+seeking to suppress the evidence obtained from the war- 
+rantless search of the automobile. After a hearing, the 
+trial court granted Appellant's motion, holding that 
+although Officer Nimmo had probable cause, the Com- 
+monwealth had failed to establish the existence of exi- 
+gent circumstances in order to justify the warrantless 
+search. 
+
+
+The Commonwealth appealed the suppression 
+order to the Superior Court which, concluding that the 
+trial court had incorrectly analyzed the automobile 
+exception to the warrant requirement, reversed the sup- 
+
+
+pression order. The Superior Court determined that the - 
+
+
+law does not require the existence of both probabie 
+cause and separate exigent circumstances as prerequisites 
+to a valid warrantless search of an automobile. Rather, 
+the court found that 
+
+
+[t]he automobile exception to the warrant 
+requirement demands only that an officer 
+have probable cause to believe that evi- 
+dence of a crime or contraband will be 
+found within the vehicle.... 
+
+
+Commonwealth v. Labron, No. 01276 Philadelphia 
+1992, slip op. at 7-8 (Pa.Super., January 6, 1993) 
+(footnote omitted). The court further held that the 
+inherent mobility of an automobile, without more, is 
+sufficient to justify a warrantless search once probable 
+
+
+135 PS. § 780-113(30). 
+218 PaCS. § 903. 
+
+
+App. 4 
+
+
+cause to search the vehicle has been established. Id. at 
+9. 
+
+
+In this appeal, Appellant argues that the Superior 
+Court erred in concluding that once probable cause 
+exists to conduct a search, the automobile exception is a 
+per se exception to the warrant requirement. Appellant 
+additionally argues that the trial court correctly deter- 
+mined that because the police had adequate information 
+and time within which to secure a warrant, no exigent 
+circumstances existed to justify the warrantless search of 
+the vehicle. 
+
+
+As a preliminary matter, even though recognizing 
+that the Commonwealth concedes that Appellant has 
+standing to contest the search in question, the dissent 
+contends that Appellant does not have "such standing as 
+to have a right to be before this or any Court to seek 
+suppression of the evidence in issue." Dissent at 1. The 
+dissent further notes that even if Appellant does have 
+standing, he nevertheless does not have a reasonable 
+expectation of privacy sufficient to warrant suppression 
+of the evidence. !t is clear, however, that issues not 
+raised in the lower courts, or raised at the trial level but 
+not preserved on appeal, will not be considered by an 
+
+
+appellate court. Commonwealth v. McKenna, 476 Pa. 
+428, 383 A.2d 174 (1978); Pa.R.A.P. 302(a). 
+
+
+Addressing a similar argument that a petitioner 
+lacked an expectation of privacy sufficient to prevail on 
+a fourth amendment claim, the United States Supreme 
+Court, noting that the argument had not been raised in 
+the courts below, concluded that the government had lost 
+its right to challenge petitioner’s legitimate expectation 
+of privacy. Steagald v. United States, 451 U.S. 204, 
+
+
+211 (1981). See also Commonwealth v. Govens, 429 
+Pa. Super. 464, ry: A.2d 1316 (1993), alloc. denied, 
+
+
+App. 5 
+
+
+Consequently, the Commonwealth abandoned its 
+claim that Appellant lacked a reasonable expectation of 
+privacy sufficient to challenge the police conduct. 
+
+
+539 Pa. 675, 652 A.2d 1321 (1994) (wherein the Super- 
+ior Court, en banc, recognized that when standing to 
+contest police conduct is not raised at the suppression 
+hearing, a belated attempt to raise the issue on appeal 
+
+
+must be rejected.) Where a defendant is ordered to file a 
+| concise statement of matters complained 
+In this case, during the pre-trial motions, the of on appeal, pursuant to > aol 
+Commonwealth argued that even though the two men 1925(b), and fails to raise a particu 
+
+
+matter within that statement, the defen- 
+dant is deemed to have waived that point 
+of error on appeal. Commonwealth v. 
+Warren, 332 Pa. Super. 410, 481 A.2d 
+681 (1984); Pa.R.A.P. 1925(b). 
+
+
+from the Toyota had standing, they did not have a suffi- 
+cient expectation of privacy to contest the search. At 
+that point, the Commonwealth noted that although its 
+argument was directed at the suppression motions filed 
+by the men in the Toyota, it also included Appellant. 
+
+
+Specifically, the Commonwealth stated that 411 Pa. Super. 329, 342, 601 
+
+
+Commonwealth v. Phillips, 
+A.2d 816, 822 (1992), aff'd, 534 Pa. 423, 633 A.2d 604 
+(1993). Moreover, as the Commonwealth specifically 
+failed to raise this issue, it was not addressed by either 
+the Court of Common Pleas or the Superior Court and 
+thus, effective appellate review is precluded. See Com- 
+, 513 Pa. 138, 518 A.2d 1197 
+(1986), cert. denied, 480 U.S. 935 (1987) (this Court 
+refused to address an exclusionary rule issue which the 
+Commonwealth failed to adequately preserve). There- 
+fore, the standing and expectation of privacy issues were 
+waived, and as such, they do not merit review. 
+
+
+whether [Appellant] has a reasonable 
+expectation of privacy based on [the fact 
+that he used a key to open the trunk], we 
+would dispute that. 
+
+
+(N.T. ILL at 5). 
+
+
+Nevertheless, after the grant of suppression on 
+Appellant’s motion and after having been ordered to file 
+a full and complete statement of the matters complained 
+of on appeal pursuant to Pa.R.A.P. 1925(b), the Com- 
+
+
+alth submitted the following issue: | 
+a paaeaiey ie5.: It is well established that when a motion to 
+
+
+suppress has been filed, the Commonwealth bears the 
+
+
+burden to establish by a pr teetadinn di megeagaay 
+that the evidence is admissible.’ Commonwealth v. 
+
+
+Did the lower court err in granting defen- 
+dant’s motion to suppress based on a 
+determination that police officers cannot 
+search a vehicle without first obtaining a 
+search warrant, even though probable 
+cause exists to believe the vehicle con- 
+tains contraband? 
+
+
+3 The Commonwealth shall have the burden 
+of going forward with the evidence and of 
+
+
+establishing that the challenged evidence 
+(continued...) 
+
+
+App. 6 App. 7 
+
+
+Johnsonna, 420 Pa. Super. 434, 438, 616 A.2d 1376, 
+1378 (1992), alloc. denied, 625 A.2d 1191. Further- 
+
+
+more, while reviewing the ruling of a suppression court, 
+
+
+our role is limited to determining whether the factual 
+
+
+findings are supported by the record, Commonwealth v. 
+DeWitt, 530 Pa. 299, 301, 608 A.2d 1030, 1031 (1992), 
+
+
+and whether the legal conclusions drawn from those 
+
+
+facts are correct. Commonwealth v. Morris, 537 Pa. 
+417, 420, 644 A.2d 721, 723 (1994) (citing Common- 
+
+
+wealth v. Cortez, 507 Pa. 529, 532, 491 A.2d 111, 112, 
+
+
+cert. denied, 474 U.S. 950 (1985)). 
+
+
+This Court has consistently recognized the well 
+established principle that the Fourth Amendment to the 
+United States Constitution” and Article 1, § 8 of the 
+
+
+3(._ continued) 
+was not obtained in violation of the 
+defendant’s rights. The defendant may 
+testify at such hearing, and, if he does so, 
+does not thereby waive his right to remain 
+silent during the trial. 
+
+
+Pa.R.Crim.P. 323(h). 
+
+
++ The right of the people to be secure in 
+their persons, houses, papers, and effects, 
+against unreasonable searches and sei- 
+zures, shall not be violated, and no War- 
+rants shall issue, but upon probable cause, 
+supported by Oath or affirmation, and 
+particularly describing the place to be 
+searched, and the persons or things to be 
+seized. 
+
+
+U.S. CONST. amend. IV. 
+
+
+App. 8 
+
+
+Pennsylvania Constitution? generally require that 
+searches be predicated upon a warrant issued by a 
+neutral and detached magistrate. Searches conducted 
+outside the judicial process, that is, without a warrant, 
+are generally deemed unreasonable for constitutional 
+purposes. Commonwealth v. Holzer, 480 Pa. 93, 102, 
+389 A.2d 101, 106 (1978) (citing Coolidge v. New 
+Hampshire, 403 U.S. 443 (1971)). However, a well 
+established exception to the warrant requirement exists 
+for certain automobile searches. Commonwealth v. 
+Milyak, 508 Pa. 2, 7-8, 493 A.2d 1346, 1349 (1985). 
+
+
+The automobile exception was first enunciated by 
+the United States Supreme Court in Carroll v. United 
+States, 267 U.S. 132 (1925). Chief Justice Taft, writing 
+for the majority, traced the history of the Fourth 
+Amendment and the legislative enactments of the First, 
+Second and Fourth Congresses. In so doing, the 
+Supreme Court concluded that 
+
+
+a difference [was] made as to the neces- 
+sity for a search warrant between goods 
+subject to forfeiture, when concealed in a 
+dwelling house or similar place, and like 
+
+
+5 The people shall be secure in their 
+persons, houses, papers and possessions 
+from unreasonable searches and seizures, 
+and no warrant to search any place or to 
+seize any person or things shall issue 
+without describing them as nearly as may 
+be, nor without probable cause, supported 
+by oath or affirmation subscribed to by 
+the affiant. 
+
+
+PA. CONST. art. 1, § 8. 
+App. 9 
+
+
+goods in course of transportation and 
+concealed in a movable vessel where they 
+readily could be put out of reach of a 
+search warrant. 
+
+
+Carroll, 267 U.S. at 151. More specifically, the Court 
+held that 
+
+
+since the beginning of the government, 
+[the guaranty of freedom from unreason- 
+able searches and seizures has been 
+construed] as recognizing a necessary 
+difference between a search of a store, 
+dwelling house, or other structure in 
+respect of which a proper official warrant 
+readily may be obtained and a search of a 
+ship, motor boat, wagon, or automobile 
+for contraband goods, where it is not 
+practicable to secure a warrant, because 
+the vehicle can be quickly moved out of 
+the locality or jurisdiction in which the 
+warrant must be sought. 
+
+
+Id. at 153. 
+
+
+Having concluded that impracticality in securing 
+a warrant could permit a warrantless search for contra- 
+band carried in a vehicle, the Supreme Court addressed 
+the circumstances under which such a search would be 
+constitutionally permissible. The Court opined that 
+
+
+[t}he measure of legality of such a seizure 
+is therefore, that the seizing officer shall 
+have reasonable or probable cause for 
+believing that the automobile which he 
+
+
+App. 10 
+
+
+Id. at 155-56. 
+
+
+Subsequent to Carroll, the United States Supreme 
+Court also determined that given probable cause to 
+search an automobile, 
+
+
+[flor constitutional purposes, [there is] no 
+difference between on the one hand seiz- 
+ing and holding a car before presenting 
+the probable cause issue to a magistrate 
+and on the other hand carrying out an 
+immediate search without a warrant. 
+
+
+Chambers v. Maroney, 399 U.S. 42, 52 (1970). 
+
+
+When reviewing warrantless automobile searches 
+in this Commonwealth, we have constantly held that 
+"there is no ‘automobile exception’ as such and [that] 
+the constitutional protections are applicable to searches 
+and seizures of a person's car." Commonwealth v. 
+Holzer, 480 Pa. 93, 103, 389 A.2d 101, 106 (1978) (cit- 
+
+ing Coolidge v. New Hampshire, 403 U.S. 443 (1971)). 
+re ap verge ne we have nevertheless 
+described two reasons why exigent circumstances often 
+excuse the need to secure a warrant: 
+
+
+First, a vehicle is highly mobile and the 
+likelihood is therefore great that it and its 
+contents may never be found if police 
+were prohibited from immobilizing it until 
+a warrant can be secured; 
+
+
+App. 11 
+
+
+[s]econd, one’s expectation of privacy 
+with respect to an automobile is 
+
+
+significantly less than that relating to 
+one’s home or office. 
+
+
+Id. (citations omitted).© 
+
+
+In Commonwealth v. Milyak, 508 Pa. 2, 493 
+A.2d 1346 (1985), the defendant sought to suppress 
+
+
+evidence which police had obtained by searching his 
+
+
+vehicle without a warrant. In that case, we reiterated 
+that 
+
+
+there is an established departure from the 
+warrant requirement for certain auto- 
+mobile searches based on the inherent 
+mobility of vehicles, with the consequent 
+practical problems in obtaining a warrant 
+prior to infringing a legitimate expectation 
+of privacy, and on the "diminished expec- 
+tation of privacy which is accorded auto- 
+mobiles because of their open construc- 
+tion, their function, and their subjection to 
+
+
+a myriad of state regulations." 
+
+
+Commonwealth v. Milyak, 508 Pa. 2, 7-8, 493 A.2d 
+1346, 1349 (1985) (citing Commonwealth v. Timko, 491 
+
+
+In 1968, this Court recognized that "sometimes [it] 
+may be reasonable to search a movable vehicle without a 
+warrant," however, we nevertheless held that "the 
+movability of the area to be searched is not alone a suf- 
+ficiently ‘exigent circumstance’ to justify a warrantless 
+search." Commonwealth v. Cockfield, 431 Pa. 639, 644, 
+246 A.2d 381, 384 (1968). 
+
+
+App. 12 
+
+
+Pa. 32, 38, 417 A.2d 620, 623 (1980)). Furthermore, in 
+order for a warrantless search to fit within the exception, 
+
+
+an officer must have independent probable 
+cause to believe that a felony has been 
+
+
+committed by the occupants of the 
+vehicle, or that it has been used in the 
+furtherance of the commission of a 
+felony, or the officer must have a basis 
+for believing that evidence of a crime is 
+concealed within the vehicle, or that there 
+are weapons therein which are accessible 
+to the occupants. 
+
+
+Id. at 8, 493 A.2d at 1349 (citing Commonwealth v. 
+Lewis, 442 Pa. 98, 101, 275 A.2d 51, 52 (1971)). Con- 
+
+
+sequently, based upon state and federal constitutional 
+standards, we concluded that "where there exists prob- 
+able cause related to the vehicle or its occupants, a 
+search of the vehicle is permissible." Id. 
+
+
+In 1988, we had the opportunity to review 
+another automobile exception case. In Commonwealth 
+v. Baker, 518 Pa. 145, 541 A.2d 1381 (1988), the police 
+had received a tip from a reliable informant that defen- 
+dant was carrying a gun in his automobile. A few min- 
+utes after having received the tip, the police discovered 
+defendant’s vehicle in a parking lot. A search of defen- 
+dant’s vehicle revealed a six-inch revolver under the 
+driver’s seat. We agreed with the Superior Court that 
+the gun was admissible evidence because the need for a 
+warrant was excused by the presence of probable cause 
+and exigent circumstances. Id. at 148, 541 A.2d at 
+1383. We discussed the constitutional analysis as fol- 
+lows: 
+
+
+App. 13 
+
+
+It is well established that automobiles are 
+not per se unprotected by the warrant 
+requirements of the Fourth Amendment, 
+and of Art. 1, § 8 of the Pennsylvania 
+constitution. Commonwealth v. Holzer, 
+480 Pa. 93, 389 A.2d 101 (1978). Never- 
+theless, certain exigencies may render the 
+obtaining of a warrant not reasonably 
+practicable under the circumstances of a 
+given case, and when that occurs, vehicle 
+searches conducted without warrants have 
+been deemed proper where probable cause 
+was present. See Commonwealth v. 
+Milyak, 508 Pa. 2, 493 A.2d 1346 (1985); 
+Commonwealth v. Holzer, [480 Pa. 93, 
+
+
+389 A.2d 101 (1978)}; Commonwealth v. 
+Lewis, 442 Pa. 98, 275 A.2d 5! (1971)... 
+
+
+Id. 
+
+
+In Baker, we recognized that the search of defen- 
+dant’s vehicle took place just thirty minutes after the 
+information from the reliable informant had been 
+received by the police. Because of the tipster’s reli- 
+ability and because the police were able to corroborate 
+independently the type of vehicle in which defendant 
+was riding, probable cause existed to conduct the search, 
+and, as a result, "the exigencies of the mobility of the 
+vehicle and of there having been inadequate time and 
+opportunity to obtain a warrant rendered the search 
+proper." Id. at 149, 541 A.2d at 1383. However, we 
+specifically noted that 
+
+
+[t]his is not a case where police knew 
+hours in advance that a particular vehicle 
+carrying evidence of crime would be 
+parked in a particular locale, such that it 
+
+
+App. 14 
+
+
+would have been reasonably practicable to 
+obtain a search warrant before encounter- 
+ing the vehicle to be searched. 
+
+
+Id. 
+
+
+In 1991, we again addressed the constitutionalits 
+of a warrantless automobile search, having been asked to 
+determine whether there was sufficient probable cause to 
+search the automobile, and if so, were the circumstances 
+such that a warrant was not required. Commonwealth v. 
+Rodriguez, 526 Pa. 268, 585 A.2d 988 (1991). In that 
+case, police had received information from two reliable 
+informants regarding defendants’ drug dealing activities. 
+The police received tips on November 15, 1985, Novem-- 
+ber 23, 1985 and November 27, 1985. Each time, the 
+police were informed that the defendants were coming to 
+York to sell cocaine, and, at least on one occasion, the 
+police had been informed where the deliveries were 
+taking place. The type of vehicle which the defendants 
+used had been established on November 15, 1985. On 
+November 27, 1985, the police spotted the defendants’ 
+car pulling away from the residence which the informant 
+had described as the delivery location. The police 
+stopped the defendants and conducted a search of the 
+car. 
+
+
+We affirmed the trial court’s denial of the defen- 
+dants’ motion to suppress, beginning our discussion by 
+analyzing whether, under the "totality of the circum- 
+stances" test, the police had sufficient probable cause to 
+search the vehicle. We concluded that they did. There- 
+after, we addressed the defendants’ argument that no 
+exigencies existed especially because the police had ade- 
+quate time within which to secure a warrant. We held 
+that because the police encountered defendants’ vehicle 
+as it was moving away from the alleged delivery locale, 
+
+
+App. 15 
+
+
+there was no opportunity for the police to secure a 
+warrant. We concluded that 
+
+
+where police do not have advance knowl- 
+edge that ‘a particular vehicle carrying 
+evidence of crime would be parked in a 
+particular locale, ... the exigencies of the 
+mobility of the vehicle and of there 
+having been inadequate time and epportu- 
+nity to obtain a warrant rendered the 
+search [without a warrant] proper.’ 
+
+
+Commonwealth v. Rodriguez, 526 Pa. 268, 274, 585 
+—A.2d 988, 991 (1991) (citing Commonwealth v. Baker, 
+518 Pa. 145, 149, 541 A.2d 1381, 1383 (1988)). 
+Accordingly, we held that both probable cause and 
+exigent circumstances existed to justify the warrantless 
+search of the automobile. 
+
+
+Recently, we again had the occasion to address 
+the admissibility of evidence seized during a warrantless 
+search of an automobile in Commonwealth v. White, 
+__ Pa. __, =~ A.2d__ (1995). In that case, the 
+Pittsburgh Police Department had received numerous 
+telephone calls from anonymous sources. Those sources 
+informed the police that William White and Henry Ben- 
+nett were dealing drugs, and furthermore, they described 
+the location where the drug sales were taking place. 
+After corroborating that information with information 
+received from a confidential informant, the police 
+arranged a controlled drug purchase in January of 1990, 
+which was observed by two officers. 
+
+
+One month later, the police received information 
+from the informant that he had observed a large supply 
+of cocaine at Bennett’s residence, that drugs were being 
+transported back and forth between Bennett’s and 
+
+
+App. 16 
+
+
+White’s homes and that a sale was scheduled for Satur- 
+day, February 17, 1990, behind Abbot’s Beer Distribu- 
+tor. Based on this information, the police arranged for 
+surveillance of the area. Prior to setting up surveillance, 
+the two officers who had observed the January drug 
+transaction briefed other members of the police depart- 
+ment, informing them that a blue car was expected to be 
+involved in a drug transaction. 
+
+
+Furthermore, before actually conducting the sur- 
+veillance, police sought and obtained search warrants for 
+Bennett's residence, Bennett's vehicle, Bennett's person, 
+White’s residence and White’s person, but not White's 
+automobile. While conducting the surveillance, police 
+observed White drive his automobile into the location of 
+the alleged sale. At that point, an unidentified individ- 
+ual got into the car. The police surrounded White's 
+vehicle and took its two occupants into police custody. 
+A warrantless search of White’s automobile was con- 
+ducted and cocaine was discovered. 
+
+
+The Superior Court reversed the trial court's sup- 
+pression order, concluding that the warrantless search 
+had been properly conducted pursuant to the automobile 
+exception. The Superior Court reasoned that because the 
+officers did not know which vehicle would be used to 
+facilitate the transaction, the use of White’s automobile 
+was an unforeseeable circumstance which provided the 
+
+
+necessary exigency. 
+
+
+We disagreed. Based upon an earlier per curiam 
+affirmance in Commonwealth v. lonata, 518 Pa. 472, 
+
+
+App. 17 
+
+
+544 A.2d 917 (1988),” we held that when the police 
+
+
+Justice Flaherty wrote the opinion in support of 
+affirmance in lonata. Therein, he noted that the police 
+had advance information that defendant would be 
+transporting contraband in his vehicle. In that regard, 
+Justice Flaherty determined that 
+
+
+[b]y neglecting to obtain a warrant 
+covering the vehicle, and by approaching 
+appellee immediately upon his arrival, the 
+officers inexplicably took the risk that 
+appellee would at least temporarily have 
+kept the drugs in the automobile, and, 
+thus, they took the risk that appellee 
+would not yet have moved any of the 
+contraband into areas covered by the 
+search warrant. In short, this case does 
+not involve a search conducted under 
+exigent circumstances; rather, it involves a 
+search undertaken after the police had, 
+through oversight or lack of planning, 
+failed to obtain a warrant to search a 
+vehicle that they knew hours in advance 
+would be parked at appellee's apartment 
+after it had been used to transport 
+contraband. Indeed, it would be difficult 
+to conceive of a case where the 
+circumstances surrounding a challenged 
+search would be more clearly non-exigent 
+than those presented here. Thus, 
+inasmuch as obtaining a warrant would 
+certainly have been practicable, 
+suppression of the items seized in the 
+instant search was entirely proper. 
+
+
+(continued...) 
+
+
+App. 18 
+
+
+have ample advance information that a search of an 
+automobile is likely to occur in conjunction with appre- 
+hension of a suspect, "a warrant is required before the 
+automobile may be searched." Commonwealth v. White, 
+Pa.at  ,  A2d__. Moreover, based upon 
+
+
+our analysis of Chambers v. Maroney, 399 U.S. 42 
+(1970), we held that 
+
+
+although the Fourth Amendment generally 
+requires probable cause to be determined 
+and a warrant to be issued by a magistrate 
+before a search may be conducted, 
+
+
+ceed eaniatan 6 
+
+
+In 
+lonata and in this case, there were no 
+unforeseen circumstances. Police knew in 
+advance what automobiles might be 
+involved and could have requested 
+warrants for the search of the auto- 
+mobiles, just as they did for persons and 
+dwellings. 
+
+
+Id. at , A2dat (footnote omitted) (emphasis 
+supplied). 
+
+
+We also disagreed with the Superior Court's con- 
+clusion that the officers’ lack of knowledge with respect 
+to which vehicle would be used constituted an unfore- 
+seen circumstance. Rather, we concluded that the lack 
+
+
+1 ...continued ) 
+
+
+Commonwealth v. lonata, 518 Pa. 472, 479, 544 A.2d 
+917, 920-921 (1988). 
+
+
+App. 19 
+
+
+of knowledge was not sufficient to qualify as an 
+unforeseen circumstance because the "[p]Jolice could 
+have drafted their request for a warrant in terms that 
+were ‘as particular as is reasonably possible’ ... in order 
+to secure the warrant." Id. at_— on. 3, AQdat 
+
+
+n. 3 (citing Commonwealth v. Grossman, 521 Pa. 290, 
+296, 555 A.2d 896, 899 (1989)). 
+
+
+Therefore, we conclude that this Common- . 
+wealth’s jurisprudence of the automobile exception has 
+long required both the existence of probable cause and 
+the presence of exigent circumstances to justify a 
+warrantless search. Furthermore, we have consistently 
+recognized that when police have advance information 
+that a particular vehicle carrying evidence of a crime 
+would be situated at a particular locale, such that suffi- 
+cient time exists to obtain a warrant, the failure of the 
+police to secure a warrant prior to searching the vehicle 
+will render the search unreasonable. This holding is 
+equally applicable when police have advance informa- 
+tion that a particular vehicle carrying contraband to be 
+used in the commission of a crime will be parked in a 
+- specific location. 
+
+
+Consequently, the Superior Court erroneously 
+held that evidence seized during a warrantless auto- 
+mobile search was admissible without first requiring the 
+Commonwealth to demonstrate that exigent circum- 
+stances prevented them from obtaining a warrant. 
+
+
+Therefore, we now turn to Appellant’s argument 
+that the Court of Common Pleas correctly determined 
+that the warrantless search of this stationary vehicle 
+violated constitutional guarantees because the police had 
+substantial time, information and opportunity to obtain a 
+warrant in advance of the search. As such, we must 
+
+
+App. 20 
+
+
+determine whether the suppression court's factual find- 
+ings are supported in the record. 
+
+
+A review of the record indicates that Officer 
+Nimmo conducted surveillance of Auburn Street on 
+August 24, 1990. At that time, he was already familiar 
+with that particular street as he had made numerous 
+narcotics arrests there within the previous six weeks. 
+Furthermore, he had information from various sources 
+regarding drug sales on Auburn Street and the use of a 
+Lincoln automobile. At the suppression hearing, testi- 
+mony with respect to Officer Nimmo’s prior knowledge 
+was as follows: 
+
+
+Q. incidentally, what was your purpose 
+in going to that surveillance point that 
+day? 
+
+
+A. The information | had that cocaine 
+was being sold at that location. | had 
+further information that the one male 
+received large quantities of cocaine. My 
+intention was to try to take off what was 
+being delivered. 
+
+
+Q. Well, what information did you have 
+about the delivery taking place? 
+
+
+A. I had information that Raphael 
+Melendez lived at 913 Auburn Street. He 
+was the one that had the workers on the 
+street and that he had received, he would 
+receive his cocaine. It would be delivered 
+on Auburn Street and he used several cars 
+to store the stuff. One was a Lincoln. 
+
+
+App. 21 
+
+
+There was another car on the north side 
+of the street. I don’t recall what that was 
+now. It was an abandoned car. There 
+
+was no tags on that. 
+
+
+Q. And when did you get that informa- 
+tion? 
+
+
+A. I had gotten that information from 
+numerous, from several places, from my 
+own investigation, from other people that 
+had been arrested, from people that called 
+from the neighborhood. 
+
+
+Q. And how long had you had that infor- 
+mation before you went to make your 
+surveillance that day? 
+
+
+A. I had been doing surveillances on that 
+street and I had made several arrests, 
+other arrests. 
+
+
+The trial court also had the following exchange with 
+Officer Nimmo: 
+
+
+Q. Could you describe the physical 
+condition of [the Lincoln] to me? 
+
+
+A. The outside, the side and the rear that 
+I saw looked fairly decent. It wasn’t in 
+Q. Did it have four tires on it? 
+
+A. Four tires. It had the glass, It looked 
+like it would be legal for the highway. 
+
+
+Ap). 22 
+
+
+Q. It had a tag? 
+
+A. Yes, sir. 
+
+Q. Is it your testimony that before you 
+went out to Auburn Street you had 
+specific information about this Lincoln 
+automobile before you got there that day? 
+
+
+A. That and another car, yes, sir. 
+
+
+Moreover, Officer Scarpato testified regarding the 
+back-up assistance as follows: 
+
+
+Q. on that particular detail, you were part 
+of the surveillance detail? 
+
+
+A. | was part of the backup unit. 
+
+Q. The backup unit for the surveillance 
+detail. 
+
+A. That's correct. 
+
+
+Q. How many brother officers were with 
+you in that backup unit? 
+
+
+A. In my vehicle, there was three other 
+officers. And there were two more 
+vehicles. I’m not sure how many officers 
+were in that. 
+
+
+Q. Had you met to discuss the game 
+
+
+plan, if you will, prior to setting up the 
+surveillance? 
+
+
+App. 23 
+
+
+A. [After Judge Lord overruled an objec- 
+tion of counsel] We had talked about it up 
+
+
+in headquarters prior to going out. 
+
+
+Q. And how many people were part of 
+
+
+that group that talked at headquarters and 
+ultimately went out to the field? 
+
+
+A. I would say eight or nine. 
+
+
+The suppression court concluded that because 
+Officer Nimmo had information prior to establishing 
+surveillance, the automobile exception was inapplicable. 
+Specifically, the court determined that the exception 
+based on exigencies was inapplicable because 
+
+
+the police appear to have known well in 
+advance of their search that a particular 
+vehicle, the blue Lincoln, carrying evi- 
+dence of a crime would be parked in a 
+particular location, the 900 block of 
+Auburn Street. 
+
+
+Commonwealth v. Labron, Nos. 2318-29, slip op. at 8 
+(C.P. Philadelphia County, July 31, 1992). 
+
+
+Based upon our review of the record, we believe 
+that sufficient evidence exists in the record to support 
+the suppression court's finding that Officer Nimmo had 
+sufficient, perhaps even specific, information about the 
+
+
+blue Lincoln automobile prior to setting up surveillance. 
+
+
+He had information from numerous sources, including 
+his Own participation in other arrests, that drug sales 
+were occurring on Auburn Street. He was investigating 
+Melendez because he also had information that Melen- 
+dez was in charge of the drug sales on that street. He 
+additionally had information that Melendez used several 
+
+
+App. 24 
+
+
+cars parked on the street in which to store the drugs and 
+that a Lincoln was one of those cars. Furthermore, 
+Officer Nimmo testified that prior to setting up the 
+surveillance, he had specific information about that 
+Lincoln. 
+
+
+Therefore, we reverse the order of the Superior 
+Court. 
+
+
+Mr. Justice Castille files a Dissenting Opinion. 
+Mr. Justice Montemuro participates by designa- 
+
+
+tion as a senior judge as provided by Rule of Judicial 
+Administration 701(f). 
+
+
+Judgment entered 
+Dated: January 12, 1996 
+
+
+‘s/__ 
+
+
+Charles W. Johns, Esquire 
+Prothonotary 
+
+
+App. 25 
+
+
+IN THE SUPREME COURT OF PENNSYLVANIA 
+EASTERN DISTRICT 
+
+
+COMMONWEALTH OF : No. 43 Eastern 
+PENNSYLVANIA, : District Appeal 
+Appellee, : Docket 1994 
+
+
+Appeal from the Judg- 
+ment of Superior 
+Court entered January 
+6, 1993 at No. 1276 
+
+: PHL 1992, reversing 
+
+v. : the Order entered on 
+
+: March 5, 1992 in the 
+Court of Common 
+Pleas, Criminal Divi- 
+sion, Philadelphia 
+County at No. 9009- 
+
+
+2318-19 
+EDWIN LABRON, - ARGUED: 
+Appellant . : January 25, 1995 
+DISSENTING OPINION 
+DECIDED: 
+
+
+December 29, 1995 
+MR. JUSTICE CASTILLE 
+
+
+Although the majority correctly characterizes 
+Pennsylvania law regarding the "automobile exception" 
+to the warrant requirement, I write separately only 
+because I do not believe that this case should have been 
+allowed to proceed to this point because, although the 
+
+
+Commonwealth inexplicably has conceded standing in its 
+
+
+brief, | do not believe appellant has such standing as to 
+
+
+App. 26 
+
+
+have a right to be before this or any Court to seek sup- 
+pression of the evidence in issue. I, therefore, dissent to 
+the majority's consideration of the merits of appellant's 
+suppression claim as I do not believe this Court should 
+rule upon matters wherein the complaining pa-ty has no 
+standing. | further disagree with the majority s reversal 
+of the Superior Court because even if appellant has 
+standing, he nevertheless does not have a reasonable 
+expectation of privacy that would warrant suppression of 
+the illegal drugs seized from a third party’s car. 
+
+
+Although these issues upon which I would base 
+our affirmance of the Superior Court’s ruling were not 
+raised by the Commonwealth either on appeal to the 
+Superior Court or in the brief to this Court, it is well 
+established that this Court may affirm the order of the 
+court below if the result it reached is correct for any 
+reason. Commonwealth v. Allsup, 481 Pa. 313, 317, 
+392 A.2d 1309, 1311 (1978) (Superior Court based rul- 
+ing on Constitutional issue, but this Court raised the 
+issue of statutory interpretation sua sponte and affirmed 
+
+
+on those grounds); Commonwealth v. Triplett, 476 Pa. 
+83, 90 n.10, 381 A.2d 877, 881 n.10 (1977) (Court sua 
+
+
+sponte raised waiver issue and based affirmed order on 
+those grounds); Commonwealth v. Colon, 461 Pa. 585 
+n.5, 337 A.2d 554, 558 n.5 (1975), cert. denied, 423 
+U.S. 1056 (1976) (Court sua sponte found statement 
+which was suppressed by trial court as hearsay to be 
+inadmissible because not relevant); Commonwealth v. 
+Hines, 461 Pa. 462, 464 n., 336 A.2d 280, 282 n.2 
+(1975) ("While the question of waiver has not been 
+raised by any party to this litigation, this Court may 
+affirm an order if it is correct for any reason."), citations 
+omitted. Because appellant did not have standing and 
+therefore did not have a right to bring the issue of the 
+validity of the search before the courts, | believe this 
+
+
+App. 27 
+
+
+issue should be raised sua sponte and | would affirm the 
+order of the Superior Court on those grounds. 
+
+
+In order to challenge the admission of evidence 
+at a criminal trial, a defendant must, as a fundamental 
+prerequisite, show that he has standing to challenge the 
+search or seizure by which the government obtained the 
+evidence. See Rakas v. Illinois, 439 U.S. 128, 140 
+(1978) (courts applying federal law must first determine 
+whether a particular search violated protected fourth 
+amendment interests before examining the legality of the 
+search). See also Commonwealth v. Peterson, 535 Pa. 
+492, 497, 636 A.2d 615, 617 (1993) (having first had 
+his standing acknowledged, a criminal defendant is only 
+then permitted to assert the merits of his suppression 
+motion). The standing requirement in the criminal sup- 
+pression context narrows the reach of the exclusionary 
+rule by limiting the field of individuals permitted to 
+challenge an illegal search or seizure. The standing 
+requirement thereby helps conserve scarce judicial 
+resources. See Wm. Penn Parking Garage, Inc. v. City 
+of Pittsburgh, 464 Pa. 168, 191, 346 A.2d 269, 280 
+(1975). 
+
+
+The United States Supreme Court limits Fourth 
+Amendment standing to those criminal defendants who 
+can demonstrate a “legitimate expectation of privacy” in 
+an item seized or the area searched. ser vent gg 
+tucky, 448 U.S. 98, 104 (1980) (defendants must show 
+not just that the search was illegal, but that the search 
+violated the defendant’s legitimate expectation of pri- 
+vacy in the area searched); Rakas, supra, 439 U.S. at 
+140 (since the Fourth Amendment protects personal 
+rights, a government search that does not invade an area 
+in which the defendant has a legitimate expectation of 
+privacy does not violate the defendant’s fourth amend- 
+ment rights). To confer standing under the federal 
+
+
+App. 28 
+
+
+standard, the defendant's expectation of privacy must be 
+both (1) subjectively held; and (2) reasonably justified. 
+Rakas, supra at 143 & n.12. 
+
+
+Under Article I, Section 8 of the Pennsylvania 
+Constitution, however, this Court looks to several addi- 
+tional factors to determine whether a criminal defendant 
+has standing to challenge the admission of evidence 
+against him. To gain standing to challenge the admis- 
+sion of evidence at a criminal trial, a Pennsylvania 
+defendant must prove that (1) he was present on the 
+premises at the time the police searched it or seized 
+evidence from it; or (2) he has a possessory interest in 
+the evidence seized; or (3) the offense with which he is 
+charged includes "possession" at the time of the con- 
+tested search as an essential element of the prosecution's 
+case; or (4) he has a proprietary or possessory interest in 
+the searched premises. Commonwealth v. Peterkin, 511 
+Pa. 299, 309-311, 513 A.2d 373, 378 (1986), cert. 
+
+
+denied, 479 U.S. 1070 (1987); Commonwealth v. Treftz, 
+465 Pa. 614, 621-622, 351 A.2d 265, 268, cert. denied, 
+
+
+426 U.S. 940 (1976) (adopting Brown v. United States, 
+411 U.S. 223 (1973)). 
+
+
+Here, although Melendez or even Santiago may 
+have been able to assert a colorable standing claim on 
+the instant facts, appellant could not assert any interest 
+sufficient to confer upon him the standing necessary to 
+challenge the admission of the evidence against him 
+under the above four-pronged test. First, appellant was 
+not "present" on the "premises" of the blue Lincoln at 
+the time the police searched its trunk because appellant 
+was not a passenger in the car but was in fact standing 
+away from the car at the time of his arrest and the 
+search of the trunk. See Commonwealth v. Gallagher, 
+276 Pa. Super. 593, 595-597, 419 A.2d 616, 618-619 
+(1980) (since appellant was not a passenger of the van at 
+
+
+App. 29 
+
+
+the time the police searched the van, appellant was not 
+"present" at the premises searched). See also Common- 
+wealth v. Johnson, 431 Pa. Super. 291, 297, 636 A.2d 
+656, 659 (1994), appeal denied, __ Pa. _, 651 A.2d 
+534 (1994) (defendant abandoned reasonable expectation 
+of privacy in bag containing contraband by placing it in 
+a tree in a public park and standing 10 to 12 feet away 
+and approaching bag only to show crack cocaine in bag 
+to potential customer). 
+
+
+Second, appellant cannot reasonably assert any 
+possessory interest sufficient to give him standing in the 
+cocaine seized from the trunk of the car. The car 
+belonged to Melendez and appellant's access to the car 
+was regulated by Melendez and Santiago. Appellant 
+could not assert a reasonable claim to a possessory 
+interest in the cocaine inside the trunk of the car since 
+access was controlled by others. 
+
+
+Third, the offense with which appellant was 
+charged did not include possession at the time of the 
+
+
+contested search and seizure as an essential element of 
+the prosecution’s case. The Commonwealth charged 
+
+
+appellant only with delivery of a controlled substance, 
+not possession, and with criminal conspiracy as a result 
+of his delivery of a controlled substance to Melendez. 
+When a person "meaningfully abdicates his control, 
+ownership or possessory interest" in a possession he no 
+longer has a Constitutionally protected interest in that 
+
+
+possession. Commonwealth v. Sell, 504 Pa. 46, 67, 470 
+A.2d 457, 469 (1983). Once appellant delivered the 
+
+
+lin Sell, this Court declined to abrogate the doctrine 
+of automatic standing as the United States Supreme 
+
+
+Court had done in United States v. Salvucci, 448 U.S. 
+
+
+(continued...) 
+
+
+App. 30 
+
+
+controlled substance to Melendez and Santiago, he had 
+surrendered his interest therein and was no longer enti- 
+tled to the constitutional protection against search and 
+seizure afforded personal property. See also Pennsylva- 
+nia Standard Criminal Instructions §16.13(a)(30)(B) (Pa. 
+Bar Inst. 1980) (noting no provision for the defendant’ s 
+possession of a controlled substance necessary to convict 
+the defendant of delivery of a controlled substance). 
+
+
+In Peterkin, supra, this Court held that the appel- 
+lant had no standing to challenge the search of the home 
+of an acquaintance in which a firearm was found 
+because the only possessory crime with which he was 
+charged w~  .»ssession of an instrument of crime in the 
+comm. ... .° a robbery and double murder. This 
+Court determined that the appellant was not entitled to 
+automatic standing because the Commonwealth’s case 
+against him on that possessory crime was not dependent 
+on the appellant’s possession of the firearm at the time 
+of the search, but rather depended on his possession of 
+the firearm at the time of the murders and robbery. 
+Under this analysis, whether appellant in the case sub 
+
+
+judice possessed the controlled substance at some point 
+
+
+before he delivered it to Melendez is irrelevant for the 
+purposes of automatic standing. Because appellant did 
+not actually or constructively possess any controlled 
+
+
+I(...continued) 
+128 (1978). The appellant in that case had been charged 
+with receiving stolen property. This Court held that the 
+appellant had automatic standing because possession was 
+an essential element of the crime charged. That holding 
+was based on the fact that receiving, by definition, 
+entails the acquisition of possession. Delivery, on the 
+other hand, entails surrendering possession to another. 
+
+
+App. 31 
+
+
+substance at the time of the contested search he is not 
+entitled to automatic standing under this prong. 
+
+
+_ Finally, appellant cannot claim any proprietary 
+interest in the automobile because Melendez owned the 
+blue Lincoln, not appellant. Further, appellant cannot 
+claim any possessory interest in the car because Melen- 
+dez, the car’s owner, controlled access to the trunk of 
+the car. Even when Melendez left the scene, he left the 
+keys to the car with Santiago, not appellant. Although 
+Santiago later directed appellant to open the trunk of the 
+car to put another plastic bag into the trunk, appellant 
+complied with his instructions and then immediately 
+returned the keys to Santiago. Since the owner of the 
+car, Melendez, entrusted the keys to the car only to 
+Santiago and since appellant only had access to the keys 
+and to the trunk of the car at Santiago’s discretion, 
+appellant cannot reasonably claim any possessory inter- 
+est in the car or contents therein. See Peterkin, supra 
+(appellant had no proprietary or possessory interest in 
+the home of an acquaintance). 
+
+Accordingly, under Peterkin, appellant canziot 
+assert any interest sufficient to confer standing to 
+challenge the admission of the cocaine into evidence at 
+his criminal trial. On this basis, the majority opinion 
+erred in considering the underlying merits of appellant’s 
+suppression claim. 
+
+
+Even if appellant has standing to challenge the 
+search, he nevertheless does not have a reasonabie 
+expectation of privacy in the items seized or the place 
+searched that would warrant suppression. Peterson, 
+supra. In order to invoke the remedy of suppression, 
+
+
+appellant 
+
+
+App. 32 
+
+
+must demonstrate that he held such a 
+privacy interest which was actual, soci- 
+etally sanctioned as reasonable, and 
+justifiable in the place invaded that the 
+warrantless entry of the police violated his 
+right under the Constitution of this Com- 
+monwealth, Article 1, Section 8, to be 
+“secure ... against unreasonable searches 
+
+
+Id. (citation omitted). Because appellant did not have a 
+possessory or proprietary interest in the place searched 
+or the items seized and was not present when the search 
+was conducted, he did not have a legitimate expectation 
+of privacy which would entitle him to suppression of the 
+cocaine. Therefore, even if appellant had standing to 
+challenge the search and seizure, he is not entitled to 
+suppression. Id. (appellant is not entitled to suppression 
+of items seized in search of abandoned storefront 
+because he did not have an expectation of privacy which 
+society recognizes as legitimate); Commonwealth v. 
+McCullum, 529 Pa. 117, 134, 602 A.2d 313, 321 (1992) 
+(appellant is not entitled to suppression of items seized 
+in search of another’s home because he did not have a 
+legitimate expectation of privacy in the premises 
+searched). 
+
+
+Unfortunately, the majority’s decision vastly 
+expands the reach of the privacy protections of the 
+Pennsylvania and United States Constitutions to areas 
+where it is not warranted -- that is, to situations where a 
+defendant has no legitimate expectation of privacy, has 
+no ownership interest at stake and was not present at or 
+in the location searched at the time of the search. In so 
+doing, a criminal in Pennsylvania now arguably even has 
+standing to challenge drugs he delivered to another 
+person but were then seized from that person by a police 
+
+
+App. 33 
+
+
+officer. This decision gives unwarranted protection to 
+the purveyors of death in Pennsylvania’s communities 
+and effectively ties the hands of law enforcement in its 
+efforts to root out the scourge of drugs in our society. | 
+therefore respectfully dissent. 
+
+
+App. 34 
+
+
+COMMONWEALTH OF  : IN THE SUPERIOR 
+
+
+PENNSYLVANIA : COURT OF PENNSYL- 
+Appellant : VANIA 
+VS 
+No. 01276 
+EDWIN LABRON Philadelphia 1992 
+
+
+Appeal from the Order Entered March 5, 
+1992 in the Court of Common Pleas of 
+Philadelphia County, Criminal No. 9009- 
+2318-19 
+
+
+BEFORE: CIRILLO, KELLY and HESTER, JJ. 
+
+
+JUDGMENT 
+
+
+ON CONSIDERATION WHEREOF, it is now 
+here ordered and adjudged by this Court that the 
+judgment of the Court of Common Pleas of Philadel- 
+phia County be, and the same is hereby REVERSED. 
+
+BY THE COURT: 
+
+
+/s/ David A. Szewezak 
+PROTHONOTARY 
+
+
+Dated:_January 6, 1993 _ 
+
+
+App. 35 
+
+
+COMMONWEALTH OF  : IN THE SUPERIOR 
+PENNSYLVANIA : COURT OF PENNSYL- 
+Appellant : VANIA 
+VS 
+: No. 01276 
+EDWIN LABRON : Philadelphia 1992 
+
+
+Appeal from the Order Entered March 5, 
+1992 in the Court of Common Pleas of 
+Philadelphia County, Criminal No. 9009- 
+2318-19 
+
+
+BEFORE: CIRILLO, KELLY and HESTER, JJ. 
+MEMORANDUM: FILED JAN 6 1993 
+
+
+This is an appeal by the Commonwealth from an 
+order suppressing the evidence seized during a war- 
+rantless search of a parked automobile. The Common- 
+wealth has certified that the suppression order terminates 
+or substantially handicaps its case. Commonwealth v. 
+Dugger, 506 Pa. 537, 486 A.2d 382 (1985). We 
+reverse. 
+
+
+The Commonwealth asks whether the trial court 
+erred when it found that cocaine seized from a parked 
+car was seized pursuant to an unreasonable search and 
+seizure and was, therefore, not admissible at trial. 
+
+
+When we review an order suppressing evidence, 
+
+
+suppression court, Commonwealth v. Hamlin, 503 Pa. 
+210, 469 A.2d 137 (1983); however, we must reverse if 
+
+
+we find an error of law. Commonwealth v. Cortez, 507 
+Pa. 529, 491 A.2d 111, cert. denied, 474 U.S. 950 
+(1985). We must first determine whether the suppres- 
+sion court's factual findings and legal conclusions are 
+
+
+App. 36 
+
+
+oy 4 Commonwealth v. Lopez, _ 
+Pa. Super. —_, 609 A.2d 177 (1992) (citing Common- 
+wealth v. Vinson, 361 Pa. Super. 526, 522 A.2d 1155 
+(1987)). To determine whether the findings of fact are 
+supported by the record, we review only the evidence of 
+the appellee and so much of the evidence of the appel- 
+lant which, when read in the context of the record as a 
+whole, remains uncontradicted. 
+dix, 355 Pa. Super. 514, 513 A.2d 041 (1986) (citation 
+omitted). If the factual findings are supported by the 
+cit ee 
+
+
+With that standard of review in mind, we turn 
+first to the findings of fact by the trial court. An 
+undercover police officer, Gerald Nimmo, conducted an 
+intensive investigation of reports he received of drug 
+dealing in the 900 block of Auburn Street, Philadelphia. 
+Prior to August, 1990, Officer Nimmo had made five 
+arrests for drug violations on that block. Between his 
+sources and his own observations, Officer Nimmo con- 
+cluded that there was reason to believe that Rafael 
+Melendez was the manager of a team of retail drug 
+sellers, one of whom is the defendant in this case, 
+Edwin Labron, operating in the 900 block of Auburn 
+Street. His information was that Melendez was using a 
+1977 blue Lincoln to store the drugs until his sellers 
+needed to be re-supplied. 
+
+
+During a two-hour surveillance of the block of 
+Auburn Street, Nimmo watched Labron and another 
+man, identified only as Santiago, conduct a vigorous 
+retail trade in cocaine, exchanging small, clear plastic 
+packets filled with white powder for currency. Nimmo 
+estimated that he saw Labron and Santiago sell 100 
+packets of cocaine to fifty customers. Officer Nimmo 
+also saw Melendez approach the two men and then walk 
+
+
+App. 37 
+
+
+with them to the blue Lincoln. Melendez opened the 
+trunk of the the Lincoln with a key, reached into the 
+right side of the trunk, and removed a large plastic bag. 
+The bag contained smaller plastic bags each filled with 
+small packets of white powder. Melendez handed the 
+plastic bags to Labron and Santiago and received cash in 
+exchange. Labron and Santiago then resumed retail 
+sales on the street. A second exchange of plastic bags 
+from the Lincoln for money occurred a short while later. 
+Then Melendez gave Santiago a key and drove away in 
+another vehicle. Ten minutes later two more men drove 
+up in a blue Toyota. Santiago gave Labron a key, 
+Labron opened the trunk of the Lincoln, the men in the 
+Toyota gave Labron a plastic bag which Labron put in 
+the right rear of the trunk, closed the lid, and returned 
+the key to Santiago. The men in the Toyota drove 
+away. Officer Nimmo radioed for back up officers who 
+arrested Labron and Santiago. Another officer forced 
+the trunk lid open and recovered two plastic bags of 
+cocaine and a plastic baggie with five clear packets of 
+cocaine. 
+
+
+The Fourth Amendment to the U.S. Constitution 
+and Article I, Section 8 of the Pennsylvania Constitution 
+protect citizens from "unreasonable searches and sei- 
+zures.". Evidence derived from an unreasonable search 
+or seizure is inadmissible at trial. U.S. v. Katz, 389 
+U.S. 347 (1967). A search without a warrant is gener- 
+ally unreasonable. Mapp v. Ohio, 367 U.S. 347 (1961); 
+Commonwealth vy. Bosurgi, 411 Pa. 56, 190 A.2d 304 
+(1963) cert. denied, 375 U.S. 910 (1963). Police may 
+not search a home or any place in which a person has a 
+reasonable expectation of privacy without a warrant. 
+Katz, 389 U.S. at 357. A warrant is obtained after a 
+neutral magistrate finds that probable cause exists for a 
+search for evidence of a crime. Aguilar v. Texas, 378 
+U.S. 108, 109 (1964). Probable cause is a product of a 
+
+
+App. 38 
+
+
+totality of the circumstances presented to the magistrate. 
+Illinois v. Gates, 462 U.S. 213, 230 (1983). See also 
+
+
+Commonwealth v. Rodriguez, 526 Pa. 268, 585 A.2d 
+988 (1991). 
+
+
+There are, however, exceptions to the warrant 
+requirement. One is the automobile exception. Auto- 
+mobiles are excepted from the warrant requirement 
+because they are inherently mobile and citizens have a 
+lower expectation of privacy in their cars than in their 
+homes. Vv 508 Pa. 2, 493 A.2d 
+1346 (1985). There is a lowered expectation of privacy 
+in a vehicle because it is regulated, inspected periodi- 
+cally, licensed and routinely stopped by police for vio- 
+lations. California v, Carney, 471 U.S. 386 (1985). 
+Where there is a diminished expectation of privacy a 
+warrant is not required before the police may search. 
+Oliver v. United States, 466 U.S. 170 (1984) ("No tres- 
+passing" signs and fences do not create a reasonable 
+expectation of privacy sufficient to defeat the “open 
+fields" doctrine). Under the automobile exception an 
+officer may search a car if he has independent probable 
+cause to believe the automobile has been used in the fur- 
+therance of a felony or contains contraband or evidence 
+of a crime. Milyak, supra. 
+
+
+_ The suppression court found that although Offi- 
+cer Nimmo had probable cause to believe that illegal 
+drugs were in the trunk of the Lincoln, the Common- 
+wealth had failed to establish exigent circumstances to 
+justify a warrantless search. The trial court relied on 
+language in recent Pennsylvania Supreme Court deci- 
+sions regarding the warrantless searches of automobiles 
+to reason that the Commonwealth must demonstrate 
+some reason, some exigent circumstance, which 
+prevented obtaining a warrant. The suppression court 
+misapprehends the law of automobile searches. 
+
+
+App. 39 
+
+
+The trial court opinion relies on two recent 
+decisions of our supreme court to detail what exigent 
+circumstances would, it believed, justify a warrantless 
+automobile search. The trial court details the facts of 
+
+Vv , 526 Pa. 268, 585 A.2d 
+988 (1991), in which the warrantless search of a car was 
+justified based on information from reliable informants 
+and police surveillance and reads the case as finding that 
+the unknown make of the vehicle, its unpredictable loca- 
+tion, and the fact that the vehicle was moving when 
+stopped justified the warrantless search. The suppres- 
+sion court, however, misapprehends the initial question 
+in the Rodriguez case which was whether there was 
+"sufficient probable cause" to conduct the search of the 
+vehicle in the case. Id. at 270, 585 A.2d at 989. The 
+supreme court upheld this court's finding that "both 
+probable cause and exigent circumstances existed to jus- 
+tify the warrantless search of appellant's automobile.” 
+Id. at 275, 558 A.2d at 991. The supreme court did not 
+then hold, nor will we now hold, that both probable 
+cause and separate exigent circumstances are necessary 
+to conduct a warrantless search of an automobile. In 
+fact, the reasoning which would have required the police 
+to obtain a warrant before searching the vehicle was a 
+dissent in the Rodriguez case which received only two 
+other votes. 
+
+
+Probable cause is a necessary pre-condition to 
+any search; probable cause is necessary to obtain a 
+warrant and probable cause is necessary to conduct a 
+warrantless search under any of the exceptions to the 
+warrant requirement. The suppression court-quotes as 
+"unequivocal" language that: 
+
+
+It is well-established that automobiles are 
+
+
+not per se unprotected by the warrant 
+requirements of the Fourth Amendment, 
+
+
+App. 40 
+
+
+and of Article I, § 8 of the Pennsylvania 
+Constitution. Nevertheless, certain exi- 
+gencies may render the obtaining of a 
+warrant not reasonably practical under the 
+circumstances of a given case, and, when 
+that occurs, vehicle searches conducted 
+without warrants have been deemed 
+proper where probable cause was present. 
+
+
+Commonwealth v. Baker, 518 Pa. 145, 148, 541 A.2d 
+1381, 1383 (1988). ibaa 
+
+
+Neither the quoted language nor the Baker 
+itself stand for the proposition on a warrant is dewalt 
+to search a vehicle absent exigent circumstances. The — 
+quoted language, that vehicles are not per se unprotected 
+by the warrant requirements, should rather be read to 
+say that any search must rest on probable cause, that 
+probable cause must be present before any search, 
+including a search of a vehicle. Further reading of the 
+quoted language moves directly into the exigent circum- 
+stances exception to the warrant requirement and con- 
+cludes that automobiles present exigent circumstances in 
+which probable cause is sufficient to justify a warrant- 
+less search. The language should not and cannot be read 
+to eo fa cienane eae test for a warrantless 
+search of an ile. In Baker the supreme court 
+upheld the warrantless search of a parked car which the 
+driver/defendant had left and which was surrounded by 
+police. The court held in Baker, "Since probable cause 
+to search the vehicle was present, a search warrant was 
+not required." Id. at 148, 541 A.2d at 1384. 
+
+
+We would do violence to the law and to the 
+practicalities of law enforcement if we required the 
+police and the Commonwealth to prove exigent circum- 
+stances above and beyond the inherent mobility of a 
+
+
+App. 41 
+
+
+vehicle before conducting a warrantless search of an 
+automobile. The automobile exception rests on lowered 
+expectations of privacy and the exigent circumstances 
+that a vehicle is inherently mobile. See Carroll v. 
+United States, 257 U.S. 132 (1925); United States v. 
+
+
+Ross, 456 U.S. 798 (1982); Milyak, supra. It is not, 
+however, the actual mobility of an automobile which 
+
+
+creates the automobile exception; a vehicle is presumed 
+to be mobile. See Milyak, supra; Commonwealth v. 
+Elliot, _ Pa. Super. _, 611 A.2d 731 (1992) (war- 
+rantless search at the police station upheld); Common- 
+wealth v. Hoffman, 403 Pa. Super. 530, 589 A.2d 737 
+(1991) (vehicle searched without a warrant after the car 
+was parked and the driver in custody). It would be an 
+intolerable burden to demand that our police officers 
+determine whether a vehicle was actually driveable 
+before searching without a warrant. California v. 
+Carney, 471 U.S. 386 (1985). The automobile exception 
+‘to the warrant requirement demands only that an officer 
+have probable cause to believe that evidence of a crime 
+or contra will be found within the vehicle to reason- 
+ably search." If the police have probable cause to 
+search and automobile they may search all of the 
+
+
+lWe note that automobiles also may be searched 
+under wholly different rationales, such as to protect the 
+safety of a officer who has detained a driver or passen- 
+ger. Michigan v. Long, 463 U.S. 1034 (1983). Or, an 
+officer may search the passenger compartment incident 
+to arrest. New York v. Belton, 453 U.S. 454 (1981). 
+Police may also invoke the "plain view doctrine" when 
+they spot contraband in a vehicle. New York v. Class, 
+475 U.S. 106 (1986) (no search when officer spotted 
+butt of a gun when legitimately checking vehicle iden- 
+tification number). See also Commonwealth v. Robin- 
+son, 399 Pa. Super. 199, 582 A.2d 14 (1990). 
+
+
+App. 42 
+
+
+automobile where and when they choose and need not 
+demonstrate that exigent circumstances prevented them 
+from obtaining a warrant for the search. Probable cause 
+to search an automobile is probable cause to search 
+
+
+without a warrant. Chambers v. Maroney, 399 U.S. 42 
+
+
+(1970). 
+
+
+Thus, the question becomes did Officer Nimmo 
+have probable cause to believe the vehicle contained 
+contraband or evidence of a crime. Probable cause is 
+defined as "a substantial basis for concluding that a 
+search would uncover evidence of wrongdoing." Gates, 
+462 U.S. at 236. The level of probable cause needed to 
+invoke the automobile exception to the warrant require- 
+ment is the same as the probable cause needed for a 
+warrant. Milyak, 508 Pa. at 10, 493 A.2d at 1350. 
+
+
+We note that this case is distinguishable from 
+Lopez, supra, a case recently decided by a panel of this 
+court. In Lopez, after an initial lawful stop, the officer 
+pressed his investigation on no articulable basis. This 
+court held in Lopez that the ensuing search was unrea- 
+sonabie. In this case the probable cause is patent and 
+proved. Officer Nimmo watched the Lincoln being used 
+as a wholesale warehouse for drugs and saw the trunk 
+opened and drugs put in or taken out three times. 
+
+
+Thus, we find that Officer Nimmo had probable 
+cause to search the vehicle, Milyak, supra. With prob- 
+able cause to search the vehicle, he could search any 
+part of the vehicle, Ross, supra, and the Commonwealth 
+did not need to demonstrate any exigent circumstance 
+beyond that inherent in a motor vehicle. 
+
+
+Order reversed. 
+
+
+App. 43 
+
+
+IN THE COURT OF COMMON PLEAS OF 
+PHILADELPHIA COUNTY 
+FIRST JUDICIAL DISTRICT OF PENNSYLVANIA 
+CRIMINAL TRIAL DIVISION 
+COMMONWEALTH OF SEPTEMBER TERM, 
+PENNSYLVANIA : 1990 
+
+
+Vv. 
+
+
+EDWIN LABRON NOS. 2318-19 
+FILED 
+
+JULY 31 1992 
+COMMON PLEAS 
+COURT-PHILA. 
+APPEALS UNIT- 
+ROOM 601 C.H. 
+
+
+OPINION 
+
+
+Procedural History 
+
+
+Defendant Edwin Labron was charged with deliv- 
+ery of a controlled substance in violation of 35 P.S. 
+§780-113(30) and with criminal conspiracy in violation 
+of 18 Pa. C.S.A. §903. On November 20-21, 1991, this 
+Court conducted a hearing on a motion to suppress 
+physical evidence filed by Defendant, and on March 5, 
+
+
+1992, this Court granted Mefendant’s motion to suppress. 
+
+
+The Commonwealth now appeals, contending in its 
+Statement of Matters Complained of on Appeal that this 
+Court erred in granting Defendant’s motion to suppress 
+physical evidence. For the reasons set forth below, this 
+Court believes that the Commonwealth's appeal is with- 
+out merit. 
+
+
+App. 44 
+
+
+_ ee _ 
+
+
+Findings of Fact 
+
+
+| The credible evidence at the hearing on the 
+
+motion to suppress established that a considerable time 
+prior to noon on August 24, 1990, Philadelphia police 
+officer Gerald Nimmo received information that led him 
+to believe that a Raphael Melendez, acting with others, 
+was selling cocaine in the 900 block of Auburn Street in 
+oe (N.T. 85)." Specifically, Officer Nimmo 
+testified: 
+
+
+A. I had information that Raphael Melen- 
+dez lived at 913 Auburn Street. He was 
+the one that had the workers on the street 
+and that he had received, he would 
+receive his cocaine. It would be delivered 
+on Auburn Street and he used several cars 
+to store the stuff. One was a Lincoln. 
+There was another car on the north side 
+of the street. I don’t recall what that was 
+now. It was an abandoned car. There 
+was no tags on that. 
+
+
+Q. And when did you get that information? 
+
+
+THE WITNESS: I had gotten that infor- 
+mation from numerous, from several 
+
+places, from my own investigation, from 
+other people that had been arrested, from 
+people that called from the neighborhood. 
+
+
+l Unless otherwise indicated, all references to the 
+
+
+notes of testimony are to the notes of testimony for 
+November 20, 1991. 
+
+
+App. 45 
+
+
+BY MR. GAY: 
+
+
+Q. And how long had you had that 
+information before you went to make 
+your surveillance that day? 
+
+
+A. I had been doing surveillances on that 
+street. 
+
+
+Q. I beg your pardon? 
+
+
+A. I had been doing surveillances on that 
+street and I had made several arrests, 
+other arrests. (N.T. 85-86) 
+
+
+Officer Nimmo testified that he had made five 
+arrests in the 900 block of Auburn Street in the six-week 
+period preceding August 24, 1990. (N.T. 7) 
+
+
+Officer Nimmo further testified: 
+
+
+"Q. Is it your testimony that before you 
+went out to Auburn Street you had 
+specific information about this Lincoln 
+automobile before you got there that day? 
+
+
+A. That and another car, yes, sir." (N.T. 
+138) 
+
+
+At approximately noon on August 24, 1990, 
+Officer Nimmo began a surveillance of the 900 block of 
+Auburn Street. (N.T. 8) A team of approximately ten 
+other officers was in close proximity to the 900 block of 
+Auburn Street to act as Officer Nimmo’s backup. (N.T. 
+
+
+95) 
+
+
+App. 46 
+
+
+Officer Nimmo continued his surveillance for 
+approximately two hours. (N.T. 119-22) During the 
+course of this surveillance, Officer Nimmo observed a 
+blue 1977 Lincoln automobile parked on the south side 
+of the 900 block of Auburn Street. (N.T. 11-12) In the 
+900 block of Auburn Street, Officer Nimmo also saw 
+Defendant and another male named Santiago exchanging 
+small clear plastic packets filled with white powder for 
+United States currency with numerous persons. (N.T. 9) 
+Based upon his observations and his extensive exper- 
+lence as a narcotics officers, Officer Nimmo reasonably 
+believed that the packets contained cocaine. (N.T. 9-10) 
+
+
+From his surveillance location, Officer Nimmo 
+later observed Raphael Melendez approach Defendant 
+and Santiago and the three men walked to the blue 
+Lincoln parked on Auburn Street. (N.T. 11-12) Melen- 
+dez opened the trunk of the Lincoln with a key, reached 
+into the right rear side of the trunk, and removed a large 
+plastic bag. This bag contained smaller clear plastic 
+baggies, each filled with small packets of white powder. 
+(N.T. 12-13) Based upon his observations and exper- 
+ience as a narcotics officer, Officer Nimmo reasonably 
+believed that the packets contained cocaine. (N.T. 13) 
+Melendez handed the baggies filled with packets to 
+Defendant Labron and to Santiago, received United 
+States currency from them, and closed the trunk. (N.T. 
+12-13) Santiago and Defendant Labron then continued 
+to make numerous exchanges of the white powder-filled 
+packets for United States currency. 
+
+
+Sometime thereafter, Melendez again went to the 
+blue Lincoln, received money from Defendant Labron 
+and Santiago, and handed each of time a clear plastic 
+bag containing packets of white powder which he 
+retrieved from the right rear of the trunk. (N.T. 14) 
+Several minutes later Melendez approached Santiago, 
+
+
+App. 47 
+
+
+handed him a key, and drove away in another vehicle. 
+Santiago and Defendant Labron continued to make their 
+exchanges of the packets. (N.T. 14-15) 
+
+
+Approximately ten minutes later, Richard Ramos 
+and Luis Lajara arrived in the 900 block of Auburn 
+Street in a blue Toyota. Santiago then gave Defendant 
+Labron a key which Defendant used to open the trunk of 
+the blue Lincoln. (N.T. 16) Lajara removed a plastic 
+bag from the Toyota and walked over to Labron who 
+was waiting near the open trunk of the Lincoln. Labron 
+received the bag, placed it in the right rear of the trunk 
+of the Lincoln, closed the trunk, and gave the key back 
+to Santiago. (N.T. 18) Ramos and Lajara then got back 
+into the Toyota and drove away. Officer Nimmo 
+radiced his backup officers, including Officer Kenneth 
+Adams, who arrested Ramos and Lajara in the Toyota 
+several blocks away from the 900 block of Auburn 
+Street. (N.T. 11/21/91, 21) 
+
+
+At Officer Nimmo’s direction, several other offi- 
+cers proceeded to the 900 block of Auburn Street and 
+arrested Defendant and Santiago. (N.T. 19) Also at 
+Officer Nimmo’s direction, police officer Salvatore 
+Scarpato forced open the trunk of the blue Lincoln. 
+(N.T. 11/21/91, 6-7) From the right rear quarter panel 
+of the trunk of the Lincoln the officer recovered two 
+plastic bags containing alleged cocaine and a plastic 
+sandwich baggie containing five clear packets containing 
+alleged cocaine. (N.T. 11/21/91 at 7) 
+
+
+Discussion 
+
+
+There can be no dispute that Officer Nimmo had 
+
+
+probable cause to belicve that illegal drugs were within 
+the trunk of the blue Lincoln parked in the 900 block of 
+
+
+Auburn Street. Accordingly, the only issue in this case 
+
+
+App. 48 
+
+
+is whether under the particular facts and circumstances 
+of this case the police were required to obtain a search 
+warrant before searching the trunk of the blue Lincoln. 
+
+
+It is well-established that automobiles are 
+not per se unprotected by the warrant 
+requirements of the Fourth Amendment. 
+and of Article I, §8 of the Pennsylvania 
+Constitution. > 
+480 Pa. 93, 389 A.2d 101 (1978). Never- 
+theless, certain exigencies may render the 
+obtaining of a warrant not reasonably 
+practicable under the circumstances of a 
+given case, and, when that occurs, vehicle 
+searches conducted without warrants have 
+been deemed proper where probable cause 
+was present.” 
+
+
+, 518 Pa 145, $41 A? 
+1381, 1383 (1988), ig’ : 
+
+
+_ Further, it should be noted that it is also well- 
+established that the Commonwealth has the burden of 
+proving by a preponderance of the evidence that any 
+physical evidence which they desire to introduce was 
+obtained without violation of the defendant's constitu- 
+tional rights. Pa. R. Crim. P. 323(h). 
+vy. Weik, 360 Pa. Super. 560, ___» 521 A.2d 44, 45 
+(1987); Commonwealth v. Rispo, 338 Pa. Super. 225, 
+___» 487 A.2d 937, 938 (1985); 
+300 Pa. Super. 423, 446 A.2d 927. 929 (1982); 
+
+
+App. 49 
+
+
+Commonwealth y. Davis, 270 Pa. Super. 202, 411 A.2d 
+250 (1979). 
+
+
+In the case at bar, this Court believes that the 
+Commonwealth failed to meet their burden of establish- 
+ing by a preponderance of the evidence that any exi- 
+gencies existed which would justify the warrantless 
+search of the trunk of the blue Lincoln. 
+
+
+Two recent decisions of the Pennsylvania 
+Supreme Court have considered in some detail what 
+exigent circumstances justify warrantless automobile 
+searches - Commonwealth v. Rodriguez, 526 Pa. 268, 
+585 A.2d 988 (1991), and Commonwealth v. Baker. 
+supra. This Court believes that a close analysis of 
+Rodriguez and Baker reveals that none of the factors 
+pointed to by the Supreme Court in those cases to estab- 
+lish exigent circumstances were present in the case at 
+bar. 
+
+
+In Commonwealth v. Rodriguez, supra, our 
+Supreme Court specifically found that "exigent circum- 
+stances existed to justify the warrantless search of 
+appellant's automobile." 526 Pa. at ___, 585 A.2d at 
+991. In Rodriguez, the police stopped a car which was 
+being driven on a highway and conducted a search of 
+the vehicle. In finding that exigent circumstances 
+existed, the Supreme Court pointed to three particular 
+factors which excused the police from obtaining a search 
+warrant, none of which were present in the case at bar. 
+First, the Court in Rodriguez noted that prior to the car 
+stop, the police did not have sufficient information to 
+identify the particular vehicle in which contraband 
+would be located. 526 Pa. at, 585 A.2d at 990-91. 
+In the case at bar, the police knew before they set up 
+their surveillance that the blue Lincoln was being used 
+by Melendez in the distribution of illegal drugs. 
+
+
+App. 50 
+
+
+Second, in Rodriguez, the Supreme Court pointed out 
+that the police did not know precisely where the vehicle 
+containing the drugs would be located on the day that 
+the stop and search were conducted. 526 Pa. at 
+
+585 A.2d at 991. In the case at bar, the police had 
+advance information prior to establishing their surveil- 
+lance as to precisely where the blue Lincoln would be 
+located. Finaliy, in Rodriguez, the Court pointed out 
+that the police stopped a moving vehicle, and then con- 
+ducted their search. 526 Pa. at, S85 A.2d at 99]. 
+In the case at bar, the blue Lincoln vehicle was sta- 
+tionary, and the Commonwealth did not attempt to 
+Present any evidence to establish whether the vehicle 
+even appeared to be mobile. 
+
+
+This is not a case where police knew 
+hours in advance that a particular vehicle 
+carrying evidence of crime would be 
+
+
+? 
+
+Although the police apparently could not start the 
+blue Lincoln, this Court established by its own questions 
+that the vehicle appeared to be mobile. (N.T. 137-38) 
+
+
+App. 51 
+
+
+parked in a particular locale, such that it 
+would have been reasonably practical to 
+obtain a search warrant before encounter- 
+ing the vehicle to be searched. 
+
+
+518 Pa. at _. S41 A.2d at 1383. In the case at bar, 
+the police appear to have known well in advance of their 
+search that a particular vehicle, the blue Lincoln, carry- 
+ing evidence of a crime would be parked in a particular 
+location, the 900 block of Auburn Street. 
+
+
+In summary, unlike Baker and Rodriguez, the 
+police in the case at bar did not search a vehicle that 
+they had stopped while it was moving. Moreover, 
+
+
+unlike Baker and Rodriguez, the case at bar was not an — 
+
+
+instance where the police searched a vehicle that was 
+suddenly or unexpectedly encountered. Instead, in the 
+case at bar, Officer Nimmo knew well before he set up 
+his surveillance on August 24, 1990, that the blue 
+Lincoln was being in connection with the sale and 
+distribution of cocaine.” The Commonwealth offered 
+absolutely no testimony to attempt to establish that the 
+information the police had about the Lincoln prior to 
+setting up the surveillance on August 24, 1990, was 
+insufficient to obtain a search warrant for the blue 
+Lincoln. Since it is the Commonwealth’s burden to 
+establish by a preponderance of the evidence that any 
+physical evidence to be introduced was recovered with- 
+out violation of the defendant’s constitutional rights, this 
+
+
+3 accordingly, the case at bar is distinguishable from 
+Commonwealth v. Jenkins, 401 Pa. Super. 580, 585 
+A.2d 1078 (1991), where there was apparently no evi- 
+
+
+vehicle they searched prior to setting up their surveil- 
+lance. 
+
+
+App. 52 
+
+
+Court believes that it would be highly improper to - 
+sume, without any evidentiary basis for such a presump- 
+tion, that there was any impediment to the police in 
+obtaining a search warrant for the blue Lincoln prior to 
+setting up their surveillance on August 24, 1990. 
+
+
+For the reasons set forth above, this Court found 
+that the Commonwealth did not meet its burden of 
+establishing exigent circumstances to justify the 
+warrantless search, and this Court believes that it 
+properly granted Defendant's motion to suppress the 
+evidence recovered from the trunk of the blue Lincoln. 
+
+
+BY THE COURT: 
+
+
+Is/ 
+G. CRAIG LORD, J. 
+
+
+Dated: July 31, 1992 
+
+
+App. 53 
+
+

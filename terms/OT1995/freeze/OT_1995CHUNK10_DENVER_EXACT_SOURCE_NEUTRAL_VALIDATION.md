@@ -1,0 +1,15 @@
+# Denver — supplemental neutral source validation
+
+**Stage:** Fresh source/framing validation only; no commitment or adjudication. The existing frozen neutral packet remains unchanged. Research cutoff: June 28, 1996.
+
+**Validated source handoff:** [Exact statutory and agency-source addendum](../entering-law/OT_1995CHUNK10_DENVER_EXACT_SOURCE_ADDENDUM.md), read completely. Its sources are the official 1996 Act's section 504 and the government's brief at page 16, with their different authority and attribution preserved.
+
+Section 504's actual words supply no sexually-oriented-channel or indecent-programming trigger. It imposes a subscriber-requested, no-charge duty to fully scramble or otherwise fully block audio and video programming so that one not a subscriber does not receive it, and defines scrambling by inability to view or hear intelligibly. The section 505 categories must not be inserted into section 504. In the frozen packet's copied source annex, the phrase “covered programming” is not a separately established sexual-content limitation; the exact text in this addendum controls. Request initiation, full blocking and the definition must remain distinct from claims about implementation, efficacy or the subscriber population actually using the mechanism.
+
+The government brief describes the agency's alternative for systems that lack premium or pay-per-view channels: an operator may install a lockbox excluding the channel and retain its key or numeric code until a customer requests unblocking. This is an attributed party recitation of the agency order and lower opinion, not an independent technical finding. It supplies a more precise described category than the packet's generic “small systems” label. No numeric size threshold, universal technical feasibility or constitutional sufficiency has now been certified.
+
+Operator-retained access control is distinct from a parent-controlled lockbox already available for a household to use. The described agency accommodation implements the initial block; it should not silently be equated with a less restrictive alternative in which adults receive programming unless a subscriber requests blocking. Either mechanism's practical burden and effectiveness must be evaluated on its actual terms. The government's contention that any remaining difficulty cannot support this facial challenge is an argument, not adopted law.
+
+This supplement narrows the outstanding agency-text question. Obtain the actual First Report, 8 FCC Rcd 998, paragraphs 66–69 and note 46, before making a distinct numeric eligibility condition, disputed exception scope or technical-feasibility finding dispositive. No new source-absence or litigant-default inference follows. The three challenged provisions, their distinct statutory and agency qualifications, and all alternative judgment paths remain for independent modeling.
+
+The exact addendum is cleared for modeling with this receipt and the frozen packet. It does not choose an outcome under section 504, section 505, section 506, the 1996 Act's section 561 procedure, or any of the three challenged 1992 provisions.

@@ -1,0 +1,3634 @@
+85-1750. 
+
+
+NO. 
+
+
+IN THE 
+SUPREME COURT OF THE UNITED STATES 
+October Term, 1995 
+
+
+COMMONWEALTH OF PENNSYLVANIA, 
+Petitioner 
+v. 
+
+
+RANDY LEE KILGORE, 
+Respondent 
+
+
+On Petition for Writ of Certiorari to 
+the Supreme Court of Pennsylvania 
+
+
+PETITION FOR WRIT OF CERTIORARI 
+
+
+H. STANLEY REBERT 
+
+District Attorney 
+
+CHRISTY H. FAWCETT 
+
+Chief Deputy Prosecutor 
+RONALD EISENBERG 
+
+Special Assistant District Attorney 
+(Counsel of Record) 
+
+JOAN WEINER 
+
+Special Assistant District Attorney 
+CATHERINE MARSHALL 
+Special Assistant District Attorney 
+
+
+York County District Attorney’s Office 
+c/o Ronald Eisenberg, Esquire 
+
+1421 Arch Street 
+
+Philadelphia, Pa. 19102 
+
+(215) 686-5700 
+
+
+—S) 
+™ 
+
+
+PY 
+
+
+QUESTION PRESENTED 
+
+
+Has the Pennsylvania Supreme Court properly 
+understood this Court’s precedent in declaring that 
+police who have probable cause to search an automobile 
+must instead "secure" the vehicle and send other officers 
+to obtain a warrant? 
+
+
+TABLE OF CONTENTS 
+
+
+PAGE 
+
+Question Presented i 
+Table of Authorities iv-Vi 
+Opinions Below l 
+Statement of Jurisdiction 2 
+Constitutional Provision Involved 2 
+Statement of the Case 4-6 
+Reasons for Granting the Writ 7-13 
+
+The Pennsylvania Supreme Court has 
+
+effectively abrogated the "automobile 
+
+exception" by declaring -- in reliance 
+
+on this Court’s Fourth Amendment 
+
+jurisprudence -- that police acting with 
+
+probable cause may not search a motor 
+
+vehicle but must instead "secure" the 
+
+vehicle and send other officers to 
+
+obtain a warrant. 
+Conclusion 14 
+Appendix: 
+
+Judgment and Opinion of the Supreme 
+
+Court of Pennsylvania App. 1-16 
+
+
+Judgment and Opinion of the Superior 
+Court of Pennsylvania App. 17-30 
+
+
+Opinion of the Court of Common 
+
+
+Pleas of York Counts \pp | .4) 
+Notes of Testimony, Suppression 
+if) } 1 ADI Pe, fy 
+
+
+TABLE OF AUTHORITIES 
+FEDERAL CASES 
+
+California v. Carney, 471 U.S. 386 (1985) 
+Cardwell v. Lewis, 417 U.S. 583 (1974) 
+Carroll v. United States, 267 U.S. 132 (1925) 
+Chambers v. Maroney, 399 U.S. 42 (1970) 
+Chapman v. United States, 365 U.S. 610 (1961) 
+Colorado v. Bannister, 449 U.S. 1 (1980) 
+- Coolidge v. New Hampshire, 400 U.S. 814 (1971) 
+Michigan v. Thomas, 458 U.S. 259 (1982) 
+Texas v. White, 423 U.S. 67 (1975) 
+
+
+United States v. Cruz, 834 F.2d 47 (2d Cir. 1987) 
+
+
+United States v. Hatley, 15 F.3d 856 (9th Cir. 
+1994) 
+
+
+United States v. Johns, 469 U.S. 478 (1985) 
+
+
+31 F.3d 1304 (4th Cir. 
+1994) 
+
+
+United States v. Markham, 844 F.2d 366 (6th Cir. 
+1988) 
+
+
+United States v. Ross, 456 U.S. 798 (1982) 
+
+
+iV 
+
+
+8,9 
+
+
+a 
+
+
+te - 
+
+
+United States v. Swingler, 758 F.2d 477 (10th Cir 
+1985) 1] 
+
+
+STATE CASES 
+Commonwealth v. Cockfield, 431 Pa. 639, 246 A.2d 
+
+
+381 (1968) 12 
+
+
+Commonwealth v. Kilgore, 1995 WL 790060 
+(Pa., opinion dated December 26, 1995. 
+judgment entered January 24, 1996) 1,6 
+
+
+Commonwealth v. Kilgore, 437 Pa. Super. 491, 650 
+A.2d 462 (1994) 1,6 
+
+
+Commonwealth v. Labron, 669 A.2d 917 (Pa., opinion 
+dated December 29, 1995, judgment entered 
+January 12, 1996) 6,13 
+
+
+Commonwealth v. Linde, 448 Pa. 230, 293 A.2d 62 
+cert. denied. 409 U.S. 1031 (1972) 12 
+
+
+Commonwealth v. White, 669 A.2d 896 (Pa., opinion 
+dated December 29, 1995, judgment entered 
+January 4, 1996) 6,13 
+
+
+CONSTITUTION AND STATUTES 
+
+
+U.S. Const. amend. IV passim 
+U.S. Const. amend. XIV 2 
+28 U.S.C. § 1257(a) 2 
+18 Pa. CS. § 903 . 
+35 Pa. C.S. § 780-113(a)( 16) 5 
+
+
+35 Pa. C.S. § 780-113(a)(30) 
+
+
+OPINIONS BELOW 
+
+
+The January 24, 1996 judgment and opinion of 
+the Supreme Court of Pennsylvania, reversing the 
+judgment of the intermediate appellate court, the 
+Superior Court of Pennsylvania, is reported at 1995 WL 
+790060 (Pa. 1995), and is reprinted in the Appendix at 
+App. 1-16.! The November 23, 1994 judgment and 
+opinion of the Superior Court of Pennsylvania, reported 
+at 437 Pa. Super. 491, 650 A.2d 462 (1994), is reprinted 
+in the Appendix at App. 17-30. The March 1, 1993 
+opinion of the Court of Common Pleas of York County 
+is unreported, but is reprinted in the Appendix at App. 
+31-41. 
+
+
+STATEMENT OF JURISDICTION 
+
+
+This is a state criminal prosecution where 
+respondent filed a motion in the trial court, the York 
+County Court of Common Pleas, seeking to suppress 
+cocaine on the ground that it was seized from a truck in 
+violation of the Fourth and Fourteenth Amendments of 
+the United States Constitution. On October 1, 1991, the 
+trial court declined to suppress the evidence, finding that 
+the warrantless seizure was supported by probable cause 
+and hence, was lawful. Respondent was subsequently 
+convicted. 
+
+
+Upon appeal by respondent, the intermediate state 
+appellate court, the Superior Court of Pennsylvania, 
+affirmed the conviction, upholding the suppression order 
+in a judgment and opinion dated November 23, 1994. 
+
+
+'The Court’s opinion shows a filing date of as 
+December 26, 1995, but judgment was not entered, and 
+the opinion was not issued, until January 24, 1996. 
+
+
+l 
+
+
+Respondent filed a petition for allowance of 
+appeal in the Supreme Court of Pennsylvania. On May 
+11, 1995, the supreme court granted the petition for 
+allowance of appeal. After briefing and oral argument, 
+the court reversed the decision of the superior court, 
+holding that, under the "automobile exception" derived 
+from this Court’s Fourth Amendment case law, a police 
+officer who develops probable cause to believe that 
+contraband is in a vehicle must nevertheless "secure" the 
+vehicle and send other officers to obtain a search 
+warrant before conducting a search. Accordingly, the 
+court concluded, "the search of [respondent’s] vehicle 
+was conducted in a manner which violated his rights 
+under the Fourth Amendment." App. 8. 
+
+
+The jurisdiction of this Court to review the final 
+judgment of the Supreme Court of Pennsylvania, based 
+upon its construction of the federal Fourth Amendment, 
+is invoked under 28 U.S.C. § 1257(a). 
+
+
+CONSTITUTIONAL PROVISIONS INVOLVED 
+
+
+The Fourth Amendment of the United States 
+Constitution, which provides: 
+
+
+The right of the people to be 
+secure in their persons, houses, papers, 
+and effects, against unreasonable searches 
+and seizures, shall not be violated, and no 
+warrants shall issue, but upon probable 
+cause, supported by oat’, or affirmation, 
+and particularly describing the place to be 
+searched, and the persons or things to be 
+seized. 
+
+
+The Due Process Clause of Section | of the 
+Fourteenth amendment of the United States Constitution 
+which provides: 
+
+
+(Njor shall any State deprive any 
+person of life, liberty, or property, 
+without due process of law 
+
+
+STATEMENT OF THE CASE 
+
+
+This case is one of a series of recent decisions in 
+which the Pennsylvania Supreme Court has held, on the 
+basis of Fourth Amendment precedent, that an 
+automobile cannot be searched without either a warrant 
+or a case-by-case showing that exigent circumstances -- 
+beyond the inherent mobility of the vehicle -- prevented 
+the securing of a warrant. 
+
+
+The case involves the search of a truck parked at 
+a farmhouse in York County, Pennsylvania, on a 
+Saturday night over the July 4th holiday weekend. A 
+police informant had negotiated through respondent’s ex- 
+wife, Kelly Kilgore, to purchase one-eighth of a 
+kilogram (four and one-half ounces) of cocaine. Under 
+police supervision, the informant met Ms. Kilgore in the 
+parking lot of a general store near her father’s farm. 
+
+
+The two agreed that Ms. Kilgore would first 
+provide a one-ounce "sample" of the cocaine for $1,300 
+before the informant’s "customer" purchased the balance. 
+Ms. Kilgore took the $1,300 and left in her car to get 
+the "sample". App. 44-47. 
+
+
+An undercover officer followed her to the 
+driveway of the family farmhouse, where she was met 
+by her ex-husband, respondent. Respondent and Ms. 
+Kilgore then walked together to respondent’s truck, 
+parked some distance from the house. The investigating 
+officer drove past the farmhouse and made a U-turn. 
+When he again drove by the farmhouse minutes later, he 
+saw respondent and Ms. Kilgore walking away from 
+respondent’s truck. 
+
+
+Ms. Kilgore got in her car and returned to the 
+general store, where she delivered an ounce of cocaine 
+
+
+4 
+
+
+to the informant. App. 55-56. She was immediately 
+arrested and taken to her father’s farmhouse. A search 
+of her person produced a small amount of cocaine and 
+drug paraphernalia, but did not uncover either the 
+$1,300 just paid to her by the informant or the cocaine 
+yet to be delivered under the negotiated deal. Ms. 
+Kilgore’s father consented to a search of the farmhouse 
+and out-buildings. That search also failed to uncover 
+the money and drugs. 
+
+
+Because they had seen respondent and his ex- 
+wife go to the truck, the police searched the vehicle for 
+the cocaine that was to be delivered. On the floor they 
+found three and one-half ounces of cocaine hidden in a 
+disposable coffee cup. Respondent then admitted to the 
+police that he had hidden the informant’s $1,300 drug 
+payment under the living room rug in the farmhouse. 
+App. 47-49, 51, 57-58. Respondent was charged with 
+possession, delivery and possession with the intent to 
+deliver a controlled substance, 35 Pa.C.S. § 780- 
+
+1 13(a)(16), (a)(30), and criminal conspiracy, 18 Pa.C.S. 
+§ 903. 
+
+
+Respondent moved to suppress the drugs, arguing 
+that the warrantless search of his truck was unlawful. 
+App. 59.At the suppression hearing on October 1, 1991, 
+respondent presented no evidence, and the investigating 
+officers’ testimony remained uncontradicted. The 
+suppression court credited the officers’ testimony and 
+denied respondent’s suppression motion, concluding that, 
+because the police had probable cause to believe that 
+there were cocaine and drug proceeds in the truck, 
+"there was no need for a search warrant." App. 60. 
+
+
+Petitioner appealed to the intermediate state 
+appellate court, the Superior Court of Pennsylvania. On 
+November 23, 1994, the superior court affirmed the 
+
+
+5 
+
+
+suppression order and issued an opinion explaining that, 
+under the "automobile exception," once "probable cause 
+exists, the police are not required to watch over or 
+immobilize a vehicle while a search warrant is 
+
+
+obtained." App. 24; Commonwealth v. Kilgore, 437 Pa. 
+Super. 491, 497, 650 A.2d 462, 465 (1994). 
+
+
+Respondent petitioned for discretionary review. 
+The state supreme court granted review in this case and 
+two other unrelated cases involving the "automobile 
+exception." The state court then held in each of the 
+three cases that the Fourth Amendment’s "automobile 
+exception" required not only probable cause for the 
+search, but also proof that the police did not have time 
+or opportunity to get a warrant. That burden was not - 
+met here, the court held, because the police should have 
+waited at this rural location until other officers searched 
+out a magistrate to issue a warrant. App. 7-8; 
+
+
+Commonwealth v. Kilgore, 1995 WL 790060 at p. 3. 
+
+
+Because of the court’s insistence that the 
+"automobile exception" precludes a search until officers 
+place the vehicle under police guard, while other officers 
+go off to seek a warrant, petitioner filed this petition for 
+writ of certiorari. 
+
+
+2The other cases in the trilogy are Commonwealth 
+v. Labron, 669 A.2d 917 (Pa., opinion dated December 
+29, 1995, judgment entered January 12, 1996), and 
+Commonwealth v. White, 669 A.2d 896 (Pa., opinion 
+dated December 29, 1995, judgment entered January 4, 
+1996). 
+
+
+REASONS FOR GRANTING THE WRIT 
+
+
+The Pennsylvania Supreme Court has 
+effectively abrogated the "automobile 
+exception" by declaring -- in reliance 
+on this Court’s Fourth Amendment 
+jurisprudence -- that police acting with 
+probable cause may not search a motor 
+vehicle but must instead "secure" the 
+vehicle and send other officers to 
+obtain a warrant. 
+
+
+The decision below -- one of a trilogy of recent 
+‘automobile exception" cases wrongly decided by the 
+Pennsylvania Supreme Court -- purports to apply the 
+“automobile exception" to the Fourth Amendment but 
+turns seventy years of constitutional automobile-search 
+jurisprudence on its head. 
+
+
+Over those many years, this Court has repeatedly 
+held that, because motor vehicles are inherently mobile 
+and because citizens enjoy a substantially diminished 
+expectation of privacy in their automobiles, warrantless 
+car searches are permitted upon a demonstration of 
+probable cause without more. 
+
+
+The Pennsylvania Supreme Court has completely 
+eviscerated that principle. Purporting to interpret the 
+Fourth Amendment, it held in this case and the two 
+others that probable cause alone is insufficient as a 
+matter of law to justify a warrantless car search. 
+
+
+The police here unquestionably had such 
+probable cause. They negotiated a cocaine sale to be 
+consummated after delivery of payment and provision of 
+a "sample" of the drug. Respondent’s intermediary 
+brought the money to a farmhouse, walked with him to 
+
+
+7 
+
+
+a truck, and moments later returned to the police agent 
+with the agreed cocaine "sample." Searches of the 
+intermediary and (upon the owner’s consent) of the 
+farmhouse, failed to turn up either money or drugs. The 
+police, reasonably believing that the contraband was 
+inside respondent's truck, seized the drugs from the 
+truck rather than leaving the vehicle for several more 
+hours to secure a warrant. The officers’ conduct was in 
+complete accord with this Court’s Fourth Amendment 
+interpretations. 
+
+
+Yet the Pennsylvania Supreme Court, although 
+acknowledging the existence of probable cause, ruled 
+that this was not enough. The court stated that the 
+automobile exception requires the showing of exigent 
+circumstances beyond the inherent mobility of the 
+vehicle itself. No such exigency could exist here, held 
+the court, because the police could have posted guard at 
+the farm while they went off, on the Saturday night of 
+the July 4th weekend, to find a magistrate and secure a 
+warrant. 
+
+
+That interpretation of the Fourth Amendment is 
+flatly wrong. This Court has left no room for argument 
+on the question: a warrantless car search is proper under 
+the Fourth Amendment if it is made with probable 
+cause. There is no need to first impound the vehicle or 
+demonstrate an inability to obtain a warrant. 
+
+
+Thus, in California v. Carney, 471 U.S. 386 
+(1985), when a government agent developed information 
+
+
+about a motor home being used for illicit purposes, 
+conducted surveillance, corroborated his information, 
+and entered the vehicle without a warrant, this Court 
+held that the warrantless entry was perfectly proper 
+under the “automobile exception" because the agent had 
+probable cause. 
+
+
+There is no meaningful distinction between 
+Carney and the present case. The police there, as here, 
+had probable cause to believe that a vehicle was being 
+used in criminal activity and they conducted a 
+warrantless search based on a showing of probable cause 
+alone. No guard was posted; no exigent circumstances, 
+beyond the inherent mobility of motor vehicles, were 
+shown. Because the “automobile exception" did not 
+require these things, the warrantless search was upheld. 
+The result should have been the same here but was not 
+simply because the Pennsylvania Supreme Court 
+misunderstands Fourth Amendment jurisprudence. 
+
+
+This Court’s holding in United States v. Ross, 
+456 U.S. 798, 807 (1982), further demonstrates the 
+Pennsylvania Supreme Court’s erroneous view. In Ross, 
+the police received a tip from an informant and went to 
+the targeted location, where they found Ross selling 
+drugs from the trunk of a car. They arrested Ross and 
+immediately searched his car and its trunk. After 
+finding drugs in a container in the trunk, the police 
+transported the car to a police station and searched it 
+again. This time they found a quantity of cash in 
+another container. 
+
+
+Relying on the "automobile exception,” this 
+Court upheld the warrantless search of both the car and 
+the containers at both locations because they were 
+supported by probable cause. There was no 
+impoundment or special exigency. If the warrantless 
+search in Ross was valid under the "automobile 
+exception" upon a showing of probable cause alone, so 
+was the search in this case. 
+
+
+The holdings in Carney and Ross are not 
+extraordinary; they are but two examples of this Court’s 
+
+
+long-standing view -- going back to Carroll v. United 
+
+
+9 
+
+
+States, 267 U.S. 132 (1925) -- that, because citizens 
+have a diminished expectation of privacy in their 
+automobiles, and because automobiles are inherently 
+mobile, the Fourth Amendment permits police officers to 
+conduct warrantless car searches as long as they have 
+probable cause. See United States v. Johns, 469 U.S. 
+478, 484 (1985) ("A vehicle lawfully in police custody 
+may be searched on the basis of probable cause to 
+believe that it contains contraband, and there is no 
+requirement of exigent circumstances to justify such a 
+warrantless search"); Michigan v. Thomas, 458 U.S. 259 
+(1982) (right to conduct warrantless search of 
+automobile with probable cause does not "depend upon a 
+reviewing court’s assessment in each particular case that 
+the car would have been driven away, or that its 
+contents would have been tampered with, during the 
+period required for the police to obtain a warrant"); 
+Texas v. White, 423 U.S. 67 (1975) (warrantless car 
+search at police station upon probable cause held 
+proper); Cardwell v. Lewis, 417 U.S. 583 (1974) (under 
+"automobile exception," probable cause allowed for 
+warrantless search without proof of articulable 
+exigency); Chambers v. Maroney, 399 U.S. 42 (1970) 
+(warrantless search of impounded vehicle upheld under 
+"automobile exception" based on showing of probable 
+cause). 
+
+
+This principle simply cannot be defeated by a 
+claim that the police must guard the car, without 
+searching it, while they send out for a warrant. The 
+Court has made absolutely plain that, as a constitutional 
+matter, there is no difference between immediately 
+searching a vehicle at the scene or impounding the car 
+while an officer seeks a warrant. Texas v. White; 
+
+
+Chambers v. Maroney. Either course is "reasonable 
+
+
+10 
+
+
+under the Fourth Amendment." It is the existence of 
+probable cause to search the automobile, without 
+showing specific exigencies, that satisfies the 
+Constitution. 
+
+
+3Nor does it matter if the automobile is, as here, 
+already immobile before the police arrived. Colorado y 
+Bannister, 449 U.S. | (1980) (automobile exception 
+applies even where the police never see vehicle in actual 
+motion). 
+
+
+4The federal courts of appeal, unlike the 
+Pennsylvania Supreme Court, have had little trouble 
+applying this clear case law, and have regularly rejected 
+attempts to graft onto the “automobile exception" the 
+extra requirement erroneously pronounced here. See 
+United States v. Jones, 31 F.3d 1304 (4th Cir. 1994) 
+(warrantless search of automobile justified with probable 
+cause even though officers had advance information 
+about truck before conducting search); United States v. 
+Hatley, 15 F.3d 856 (9th Cir. 1994) (as long as 
+warrantless car search based on probable cause, no 
+further exigency need be shown); United States v. 
+Markham, 844 F.2d 366, 368 (6th Cir. 1988) (police do 
+not have to show inability to obtain warrant; Fourth 
+Amendment allows search on showing of probable cause 
+alone); United States v. Cruz, 834 F.2d 47 (2d Cir. 
+1987) (where agents develop probable cause, arrest 
+owner of truck and search truck two hours later without 
+a warrant, search permitted under “automobile 
+exception"); United States v. Swingler, 758 F.2d 477 
+(10th Cir. 1985) (view that “automobile exception" 
+applies only when there are exigent circumstances “has 
+never been endorsed by the [United States] Supreme 
+Court and is, in fact, inconsistent with that Court's 
+development of the exception"). 
+
+
+ll 
+
+
+Clearly, the Pennsylvania Supreme Court has 
+interpreted the automobile exception in a manner wholly 
+inconsistent with this Court's development of the 
+exception. It is difficult to imagine a situation where an 
+impoundment requirement could not be invoked. Even 
+as to a vehicle that is actually in motion when probable 
+cause is developed, the police will not be in a position 
+to conduct a search until they have effected a stop. 
+
+Once that occurs. however, the logic of the Pennsylvania 
+Supreme Court would mandate the posting of guards 
+while other officers go off in search of a warrant. 
+Indeed, the court applied such a requirement in this case 
+to a search in a rural area on a holiday weekend night -- 
+a place and time when magistrates will hardly be readily 
+available. If the possibility of impoundment is sufficient 
+to defeat the automobile exception, then the exception 
+has ceased to exist. 
+
+
+The court reached this retrogressive result in 
+explicit reliance on the Fourth Amendment, but without 
+any appropriate analysis. Instead, the court merely 
+referred to two Pennsylvania cases decided more than 
+two decades ago -- each purporting to apply federal 
+precedent -- for the false proposition that, where the 
+police, armed with probable cause, do not demonstrate 
+an exigency beyond the inherent mobility of the vehicle, 
+their failure to obtain a search invalidates their 
+automobile search. App. 5-7.~ The opinion below 
+
+
+> Commonwealth v. Cockfield, 431 Pa. 639, 644, 
+246 A.2d 381, 384 (1968), cited Chapman v. United 
+States, 365 U.S. 610 (1961). Commonwealth v. Linde, 
+448 Pa. 230, 293 A.2d 62, cert. denied, 409 U.S. 1031 
+(1972), cited Chambers v. Maroney, 399 U.S. 42 (1970) 
+
+
+and Coolidge vy. New Hampshire, 400 U.S. 814 (1971). 
+(continued...) 
+
+
+12 
+
+
+made no attempt to square its notion of federal 
+constitutional requirements with this Court's actual body 
+of law on the automobile exception. 
+
+
+As mentioned above, the Pennsylvania Supreme 
+Court's misreading of the “automobile exception" is not 
+an anomaly limited to this one case. Indeed, within 
+three days of the decision here, the court similarly 
+decided two other "automobile exception" cases. In both 
+
+
+Commonwealth v. Labron, 669 A.2d 917 (Pa. 1995), 
+and Commonwealth v. White, 669 A.2d 896 (Pa. 1995), 
+the court held, as it did here, that even though the police 
+had probable cause to search the vehicle in question, 
+their warrantless searches were improper under the 
+Fourth Amendment because the Commonwealth did not 
+demonstrate specific exigent circumstances, beyond 
+inherent mobility, that would justify the failure of the 
+police to obtain a warrant before searching the vehicle. 
+That burden of proof is not part of the Fourth 
+Amendment's “automobile exception” equation. 
+
+
+Because the Pennsylvania Supreme Court has so 
+fundamentally misinterpreted the "automobile exception” 
+and grafted onto it requirements that have been soundly 
+reyected by this Court, its incorrect decision below 
+should be reviewed and reversed. 
+
+
+5 ...continued ) 
+The state court also referred to Commonwealth v. 
+Labron, one of the two other cases in the “automobile 
+exception” trilogy. Labron, too, rested on a Fourth 
+Amendment analysis. 
+
+
+13 
+
+
+CONCLUSION 
+
+
+For these reasons, petitioner respectfully requests 
+that a writ of certiorari issue to review the decision 
+below. 
+
+
+Respectfully subgnitted, 
+
+
+CH 
+
+
+H. STANLEY REBERT 
+
+District Attorney 
+
+CHRISTY H. FAWCETT 
+
+Chief Deputy Prosecutor 
+RONALD EISENBERG 
+
+Special Assistant District Attorney 
+(Counsel of Record) 
+
+JOAN WEINER 
+
+Special Assistant District Attorney 
+CATHERINE MARSHALL 
+Special Assistant District Attorney 
+
+
+York County District Attorney's Office 
+c/o Ronald Eisenberg, Esquire 
+
+1421 Arch Street 
+
+Philadelphia, Pa. 19102 
+
+(215) 686-5700 
+
+DATE: April 23, 1996 
+
+
+14 
+
+
+APPENDIX 
+
+
+IN THE SUPREME COURT OF PENNSYLVANIA 
+MIDDLE DISTRICT 
+
+
+COMMONWEALTH OF 
+PENNSYLVANIA, 
+Appellee 
+
+
+RANDY LEE KILGORE, 
+Appellant 
+
+
+: No. 39 M.D. Appeal 
+: Docket 1995 
+
+
+: Appeal from the Order 
+: of the Superior Court at 
+‘ No. 286 Harrisburg 
+
+
+1993, entered November 
+
+
+: 23, 1994, affirming the 
+: Order of the Court of 
+
+: Common Pleas of York 
+: County, Criminal 
+
+: Division, at No. 2801 
+
+: CA 1991, entered 
+
+: March 1, 1993. 
+
+
+: 437 Pa. Super. 491, 
+: 650 A.2d 462 (1994) 
+
+
+: SUBMITTED: 
+: AUGUST 2, 1995 
+
+
+OPINION 
+
+
+NIX, C.J. 
+
+
+DECIDED: 
+DECEMBER 26, 1995 
+
+
+On July 15, 1992, Appellant, Randy Lee Kilgore 
+("Appellant"), was convicted by a jury of possession of 
+a controlled substance with intent to deliver and delivery 
+
+
+App. | 
+
+
+of a controlled substance.! Appellant filed post-trial 
+motions alleging, inter alia, that the court erred in failing 
+to suppress evidence of cocaine found in his vehicle dur- 
+ing a warrantless, nonconsensual search. The trial court 
+denied Appellant’s post-trial motions. On appeal, the 
+Superior Court affirmed the judgment of sentence. We 
+granted allowance of appeal to review the propriety of 
+the warrantless search of Appellant’s vehicle. For the 
+reasons that follow, we reverse. 
+
+
+Appellant’s arrest resulted from an undercover 
+operation in which police utilized an informant, Scott 
+Winter ("Winter"), to act as an intermediary in a drug 
+transaction. At or about 7:00 p.m. on July 6, 1991, 
+Winter and Appellant’s former wife, Kelly Jo Kilgore 
+("Kilgore"), met in the parking lot of the Brogue 
+_ General Store in Chanceford Township, York County. 
+
+There, Winter informed Kilgore that he had a buyer at a 
+nearby location who was interested in purchasing an 
+ounce of cocaine. Winter indicated that if the buyer 
+were satisfied with the quality of this cocaine, Winter 
+would purchase an additional three and one-half ounces 
+on his behalf. Winter then gave Kilgore $1,300 from 
+funds supplied by police, and Kilgore got back in her 
+car and drove away in order to get the ounce of cocaine. 
+
+
+Kilgore drove to the farm residence of her father 
+where she met with Appellant. A surveillance officer 
+who had been following in an unmarked car observed 
+Kilgore and Appellant walk toward a pickup truck that 
+was parked in the driveway. The officer lost sight of 
+the two suspects as he drove past the residence in order 
+to turn his vehicle around without being seen. When he 
+returned, he saw Appellant and Kilgore walking away 
+
+
+135 Pa.C.S. § 780-113(a)(30). 
+
+
+App. 2 
+
+
+from the truck. Kilgore then got into her car and 
+returned to the parking lot of the Brogue General Store 
+where she gave Winter approximately one ounce of 
+cocaine. Immediately after the transaction, police 
+moved in and arrested Kilgore. A search of her person 
+uncovered a small quantity of cocaine and related para- 
+phernalia; however, Kilgore did not have the $1,300 nor 
+did she have the additional three and one-half ounces of 
+cocaine. 
+
+
+When police arrived at the residence of Kilgore’s 
+father, one of the troopers went to the back door. Upon 
+seeing someone run from the kitchen, the trooper 
+announced the presence of the police and entered. He 
+found Appellant in the living room and placed him in 
+custody. The premises were then searched with the 
+
+
+_ consent of Kilgore’s father; however, police failed to 
+
+
+recover the additional cocaine or the $1,300 paid to 
+Kilgore. } 
+
+
+The search then turned to Appellant’s truck 
+which was parked at the rear of the residence. Without 
+a warrant or Appellant’s consent, police entered the 
+vehicle and found a McDonald’s beverage cup on the 
+floor of the passenger’s side. Inside the cup were 
+napkins and wrappers which covered several small bags 
+containing approximately three and one-half ounces of 
+cocaine. As a result of this discovery, Appellant was 
+placed under arrest. He later told police that he had hid 
+the missing money under the living room carpet. A sub- 
+sequent search of that location uncovered $2,100, which 
+included the $1,300 in prerecorded bills that Winter had 
+given to Kilgore. 
+
+
+Prior to trial, Appellant sought to suppress the 
+cocaine that was discovered in his truck. The suppres- 
+sion court denied the motion holding that 
+
+
+App. 3 
+
+
+the police had probable cause to believe, 
+based on the interaction between [Kilgore] 
+and [Appellant] as witnessed by the sur- 
+veillance officer, that [Appellant] was 
+involved with the drug transaction. The 
+officers had probable cause to believe that 
+[Appellant] was transporting drugs for 
+Kelly Kilgore for the purpose of the sale, 
+which occurred at the Brogue store. 
+
+
+Commonwealth v. Kilgore, No.2081 C.A.1991, slip op. 
+at 4-5 (C.P. York County Mar. 1, 1993). 
+
+
+On appeal, the Superior Court affirmed the lower 
+court’s denial of the suppression motion. Common- 
+wealth v. Kilgore, 437 Pa. Super. 491, 650 A.2d 462 
+(1994). Like the suppression court, the Superior Court 
+reasoned that police had probable cause to believe that 
+cocaine was present in Appellant’s vehicle based on the 
+observations of the surveillance officer who saw Appel- 
+lant and Kilgore walking to and from Appellant’s vehi- 
+cle without having entered the residence. Id. at 497-98, 
+650 A.2d at 465. Thus, the court believed that when the 
+search of the residence failed to uncover the missing 
+money and cocaine, the police had probable cause to 
+believe that those items were in Appellant's vehicle. Id. 
+Although we agree that the facts as presented to the sup- 
+pression court would lead one to intuitively deduce that 
+the cocaine and money were present in Appellant’s vehi- 
+cle, we are unpersuaded that a warrantless search of the 
+vehicle was justified under the circumstances of this 
+case. 
+
+
+It is well established that our stan- 
+dard of review in addressing a challenge 
+to a trial court’s denial of a suppression 
+motion is whether the factual findings are 
+
+
+App. 4 
+
+
+oe" Apwaerk:® 
+
+
+supported by the record and whether the 
+legal conclusions drawn from those facts 
+are correct. 
+
+
+Commonwealth v. Morris, 537 Pa. 417, 420, 644 A.2d 
+721, 723, petition denied, US. _,130L. Ed. 2d 
+519 (1994) (citation omitted). A review of the record in 
+the instant matter fails to disclose any of the recognized 
+exceptions to the search warrant requirement that would 
+justify the search of Appellant’s truck. 
+
+
+In Commonwealth v. Cockfield, 431 Pa. 639, 
+246 A.2d 381 (1968), this Court addressed the legality 
+
+
+of a warrantless search of an automobile conducted 
+under circumstances quite similar to those presented in 
+the instant case. In holding that the search of the 
+defendant’s vehicle was unreasonable under the Fourth 
+Amendment, we stated: 
+
+
+Certainly a search without a warrant is 
+not reasonable simply because the officers 
+have probable cause to believe that 
+incriminating evidence will be disclosea. 
+If this constituted "exigent circumstances," 
+it would be almost impossible to think of 
+a case in which a warrant would be neces- 
+sary. And certainly an automobile is not 
+per se unprotected by the warrant proce- 
+dure of the Fourth Amendment. Although 
+it sometimes may be reasonable to search 
+a movable vehicle without a warrant, the 
+movability of the area to be searched is 
+not alone a sufficiently “exigent circum- 
+stance” to justify a warrantless search. 
+Other circumstances, for instance a seri- 
+ous possibility that the movable vehicle 
+
+
+App. 5 
+
+
+may, in fact, be ‘moved before a warrant 
+can be obtained, are necessary. 
+
+
+Id. at 644, 246 A.2d at 384 (citations omitted). Thus, 
+because the defendant was in police custody at the time 
+of the search and because there was no legitimate reason 
+to believe that the car would be moved, we held that the 
+failure of the police to obtain a search warrant neces- 
+sitated the exclusion of the evidence derived from that 
+search. Id. at 644-45, 246 A.2d at 384. 
+
+
+Likewise, in Commonwealth v. Linde, 448 Pa. 
+230, 293 A.2d 62, cert. dismissed, 409 U.S. 1031, 34 L. 
+Ed. 2d 482 (1972), this Court also found that a war- 
+rantless search of a vehicle was unreasonable where no 
+exigent circumstances were present. In Linde, the 
+defendant shot his estranged lover five times and then 
+turned the gun on himself. The victim died instantly, 
+and the defendant was transported by ambulance to a 
+nearby hospital. A police officer went to the hospital to 
+obtain the keys to the defendant’s vehicle which was 
+parked at a service station near the scene of the murder. 
+A subsequent search of the vehicle uncovered a note- 
+book of highly incriminating writings authored by the 
+defendant. The writings were introduced against the 
+defendant at trial. 
+
+
+In analyzing the reasonableness of the warrantless 
+search of the defendant’s vehicle, this Court again set 
+forth the analysis necessary to justify such a search. 
+
+
+[A] dual inquiry, both parts requiring 
+affirmative answers must be made: first, 
+whether there existed probable cause to 
+search; and secondly, whether exigent 
+circumstances can be found to excuse the 
+obtaining of a warrant. 
+
+
+App. 6 
+
+
+Id. at 233, 293 A.2d at 63-64. These principles were 
+recently reaffirmed by this Court in Commonwealth v. 
+Labron, Pa.  _,  A.2d __ (1995), wherein we 
+held that 
+
+
+this Commonwealth’s jurisprudence of the 
+automobile exception has long required 
+both the existence of probable cause and 
+the presence of exigent circumstances to 
+justify a warrantless search. Furthermore, 
+we have consistently recognized that when 
+
+
+police have advance information that a 
+particular vehicle carrying evidence of a 
+crime would be situated at a particular 
+locale, such that sufficient time exists to 
+obtain a warrant, the failure of the police 
+
+
+to secure a warrant prior to searching the 
+vehicle will render the search 
+
+
+unreasonable. 
+
+
+Id. at, A.2dat (emphasis added). 
+
+
+In the instant case, there is ample evidence in the 
+record to support the suppression court’s finding that 
+police had probable cause to believe that the cocaine and 
+money were in Appellant’s vehicle; however, we are 
+unable to ascertain the presence of any exigent circum- 
+stances which would justify the failure of police to 
+obtain a search warrant prior to searching the vehicle. 
+
+
+The record discloses that at least three of the 
+officers involved in the undercover investigation were at 
+the residence of Appellant’s father-in-law at the time of 
+the search of Appellant’s vehicle. The police had 
+Appellant in custody while they conducted a consensual 
+search of the residence. Appellant’s vehicle was parked 
+outside at the rear of the residence. Clearly, one of the 
+
+
+App. 7 
+
+
+officers could have secured the vehicle while a search 
+warrant was obtained. The Commonwealth has failed to 
+meet its burden of establishing that exigent circum- 
+stances existed such that it would have been imprac- 
+ticable for police to have obtained a search warrant 
+under the circumstances presented herein. See 
+Pa.R.Crim.P 323(h) ("The Commonwealth shall have the 
+burden of going forward with the evidence and of 
+establishing that the challenged evidence was not 
+obtained in violation of the defendant’s rights."). 
+Accordingly, we are constrained to conclude that the 
+search of Appellant’s vehicle was conducted in a manner 
+which violated his rights under the Fourth Amendment, 
+and thus, the fruits of that warrantless search should 
+have been suppressed. 
+
+
+Order reversed. 
+
+
+Mr. Justice Castille files a dissenting opinion. 
+
+
+Mr. Justice Montemuro, who participates by 
+designation as a senior judge as provided by Rule of 
+Judicial Administration 701 (f), concurs in the result. 
+
+
+JUDGMENT ENTERED: 
+JANUARY 24, 1996 
+
+
+/s/ 
+JOAN L. STEHULAK, ESQUIRE 
+DEPUTY PROTHONOTARY 
+
+
+App. 8 
+
+
+IN THE SUPREME COURT OF PENNSYLVANIA 
+MIDDLE DISTRICT 
+
+
+COMMONWEALTH O! No. 39 M.D. Appeal 
+PENNSYLVANIA, Docket 1995 
+Appellee, 
+
+
+Appeal trom the order 
+of the Superior Court 
+at No. 286 HBG 93, 
+entered November 23, 
+1994, affirming the 
+Order of the Court of 
+
+\ Common Pleas of York 
+County, Criminal 
+Division, at No. 280] 
+CA 1991, entered 
+March |, 1983 
+
+
+437 Pa. Super. 491, 
+650 A.2d 462 (1994) 
+
+
+RANDY LEE KILGORE. SUBMITTED 
+Appellant August 2, 1995 
+
+
+DISSENTING OPINION 
+
+
+DECIDED: 
+DECEMBER 26, 1995 
+
+
+MR. JUSTICE CASTILLE 
+
+
+[he majority holds that although probable cause 
+existed to search appellant's car, the cocaine and money 
+found in appellant's car must be suppressed because 
+appellant was in custody and police could have guarded 
+the car until they were able to secure a warrant to search 
+it. I believe that such a ruling ignores the circumstances 
+
+
+App. 9 
+
+
+of the search as well as the impact that such a ruling 
+makes upon the limited resources of police. Accord- 
+ingly, because I believe the majority's holding all but 
+eviscerates the automobile exception to search warrant 
+requirements, | must dissent. 
+
+
+It is well established that a warrantless search of 
+an automobile does not offend the Fourth Amendment 
+where, inter alia, there is probable cause to search the 
+vehicle and where exigent circumstances exist. Com- 
+monwealth v. Milyak, 508 Pa. 2, 7-8, 493 A.2d 1346, 
+1349 (1985) (citations omitted); Commonwealth v. 
+Holzer, 480 Pa. 93, 389 A.2d 101 (1978) (the realities 
+and practicalities of law enforcement dictate that where 
+exigent circumstances exist, the warrant requirement is 
+excused) (citation omitted); Commonwealth v. Lewis, 
+442 Pa. 98, 100, 275 A.2d 51, 52 (1971) (warrantless 
+search is proper where probable cause exists to believe 
+evidence of a crime is concealed in the vehicle). This 
+“automobile exception" to the warrant requirement was 
+recognized as a result of the reduced expectation of 
+privacy a person has with respect to his or her auto- 
+mobile, the exigency created by the mobility of a car, 
+and that due to the exigency it would be unlikely that 
+the vehicle would be available by the time police were 
+able to obtain a warrant. Commonwealth vy. Smith, 452 
+Pa. 1, 5, 304 A.2d 456, 458 (1973), cert. denied, 414 
+U.S. 1076 (1973), citing Chambers v. Maroney, 399 
+U.S. 42, 51 (1973). In finding that the automobile 
+exception does not apply to the search at issue, the 
+majority has essentially eviscerated the entire automobile 
+exception since it now holds that if a police officer can 
+be made available to guard the car while another officer 
+obtains a warrant, then there is no exigency because it is 
+no longer unlikely that the police guarded vehicle will 
+be unavailable by the time a warrant was obtained. 
+
+
+App. 10 
+
+
+Ignoring the time it may take for police to: return to 
+their headquarters, type up an affidavit, obtain approval 
+of the affidavit from the local District Attorney's office 
+(if required), locate a neutral and detached magistrate to 
+approve the warrant, have the warrant approved (assum- 
+ing no changes are needed), and possibly round-up addi- 
+tional back-up, the majority has now imposed a duty 
+upon police to idly watch over a car until a warrant is 
+obtained, whenever that time might be. One of the 
+purposes behind the automobile exception was to 
+prevent this type of drain on law enforcement. See 
+United States v. Chadwick, 433 U.S. 1 (1977), accord 
+Co Ww v. , 491 Pa. 32, 38, 417 A.2d 
+620, 623 (1980) (the basis for allowing warrantless 
+searches of automobiles is based upon the inherent 
+mobility of vehicles, the consequent practical problems 
+of obtaining a warrant prior to infringing a legitimate 
+expectation of privacy, and the diminished expectation 
+of privacy which is accorded automobiles because of 
+their open construction, their function, and their 
+subjection to a myriad of state regulations). 
+
+
+Moreover, policy considerations also support the 
+police officers’ immediate warrantless search of the 
+vehicle as opposed to requiring some officers to remain 
+at the scene, securing the vehicle, while other officers 
+seek out a search warrant. Requiring a number of police 
+officers to remain with a suspect and a vehicle for an 
+indefinite and uncertain amount of time will exhaust the 
+limited resources of law enforcement and further ignores 
+the realities attendant to the demands placed on law 
+enforcement in modern society. Under such circum- 
+stances, the officers who secure the vehicle will not be 
+available to respond to any other police emergencies. 
+Many automobile investigations occur after regular hours 
+and where, as here, the incident occurs in a rural area, 
+procurement of a search warrant could take hours 
+
+
+App. Il 
+
+
+depending on the distance from the nearest magistrate 
+and the location of the impoundment of the vehicle. 
+
+
+As stated by this Court in Commonwealth v. Mil- 
+yak, 508 Pa. at 9-10, 493 A.2d at 1349, immobilization 
+of a vehicle until a search warrant is obtained is merely 
+an alternative to an immediate warrantless search of a 
+vehicle, not a requirement as the majority holds. See 
+Chambers v. Maroney, 399 U.S. 42, 52 (1970) (there is 
+no difference between seizing and holding a vehicle 
+before presenting the probable cause issue to a magis- 
+trate and carrying out an immediate search without a 
+warrant; thus, given probable cause to search, either 
+course is reasonable under the Fourth Amendment); 
+Commonwealth v. Baker, 518 Pa. 145, 149, 541 A.2d 
+1381, 1383 (1988), overruled in part by Commonwealth 
+vy. Rosario, _ Pa __, 648 A.2d 1172 (1994). Thus, 
+as a matter of federal and state case law, the police 
+officers here were not required to secure or immobilize 
+the vehicle until a search warrant was obtained. 
+
+
+Both Commonwealth v. Cockfield, 431 Pa. 639, 
+
+
+246 A.2d 381 (1968) and Commonwealth v. Linde, 448 
+Pa. 230, 293 A.2d 62 (1972), cert. dismissed, 409 U.S. 
+
+
+1031 (1972), upon which the majority rely, are readily 
+distinguishable from the instant case. In Cockfield, 
+
+police officers were patrolling a neighborhood on April 
+7, 1960, at approximately 2:30 a.m., when they discov- 
+ered a house fire. When firemen gained entry into the 
+home, the dead bodies of a woman and her two young 
+children were found. Police and fire officials detected a 
+strong odor of gasoline or kerosene on the premises. 
+
+
+At approximately 3:40 a.m., two detectives who 
+were investigating the fire spoke with a neighbor of the 
+victims. The neighbor informed them that the deceased 
+woman had a relationship with a man who was later 
+
+
+App. 12 
+
+
+determined to be Cockfield. The woman said that the 
+couple's relationship had been strained and that 
+Cockfield assaulted the woman with a knife approxi- 
+mately one month prior to the fire. The neighbor also 
+informed the police that Cockfield drove a 1953 or 1954 
+Dodge or Plymouth car with a bluish top and dirty white 
+or gray at the bottom. Shortly after 5 a.m., the detec- 
+tives and two other officials went to the neighborhood 
+where Cockfield was believed to live. A neighborhood 
+resident directed the officials to Cockfield’s house. The 
+officers rang Cockfield’s doorbell and knocked on the 
+door but no one responded. 
+
+
+The officers then walked through the general area 
+to see if there was an automobile which matched the 
+description given to them. A car fitting the description 
+was parked approximately three-fourths of a block away. 
+The officers felt the hood of the car and it was quite 
+warm indicating that the motor had recently been oper- 
+ating. One of officers took the license plate number to 
+ascertain the identity of the registered owner. However, 
+within minutes, the officer returned to the location of the 
+vehicle with the deceased woman's sister who told the 
+police that the vehicle belonged to Cockfield. The 
+police then opened the trunk of the car, which smelled 
+of gasoline, and discovered a two gallon empty can 
+marked "Gulf" and a roll of charred toilet paper. The 
+officers maintained surveillance of the automobile until 
+approximately 8 a.m., however, Cockfield never 
+appeared. Consequently, the police towed the auto- 
+mobile to a nearby police station where it was parked 
+and disabled by removing the distributor and disconnect- 
+ing certain electrical wiring. Later that day, Cockfield 
+discovered his automobile parked in front of the police 
+station. Cockfield went inside the station and inquired 
+as to why his vehicle was at the station. A duty officer 
+told Cockfield that he could take the car. Thus, Cock- 
+
+
+App. 13 
+
+
+field purchased and installed the necessary parts and 
+drove the car away. 
+
+
+On April 8, 1960, at approximately | a.m., police 
+took Cockfield into custody and questicned him regard- 
+ing the fire. On April 9, 1960, Cockfield signed an 
+inculpatory statement. Thereafter, police took Cock- 
+field’s automobile into custody a second time. After 
+Cockfield was arraigned, police officers unlocked the 
+trunk of the automobile and seized the gasoline can and 
+charred toilet paper which the Commonwealth intro- 
+duced as evidence at Cockfield’s trial. 
+
+
+This Court concluded that the evidence seized 
+from Cockfield’s vehicle must be suppressed because the 
+warrantless search of the vehicle was unreasonable under 
+the Fourth Amendment. This Court reasoned that since 
+Cockfield was in police custody at the time of the 
+search, there was no legitimate reason to believe that the 
+car would be or could be moved. Consequently, this 
+Court held that there were no exigent circumstances 
+which justified the warrantless search. Id. at 645, 246 
+A.2d at 384. 
+
+
+In Linde, police arrived at the defendant’s girl- 
+friend home and discovered that both Linde and his girl- 
+friend had been shot. The girlfriend died instantly as a 
+result of five gunshot wounds, however Linde survived 
+and was transferred to a hospital. The police located 
+Linde’s automobile which was parked at a service sta- 
+tion approximately 550 yards from his girlfriend’s home. 
+One police officer went to the hospital and obtained 
+Linde’s car keys from a hospital custodian. The officer 
+returned to the service station where officers unlocked 
+and searched the car. The officers found a notebook 
+containing five pages of handwritten incriminating state- 
+ments. Ten days later, the police went to the hospital 
+
+
+App. 14 
+
+
+Oe 25 4) NM ee 
+
+
+and presented the incriminating notes to Linde. After 
+
+acknowledging that he owned the notebook and that he 
+wrote the notes, Linde initialed each page. The Com- 
+
+monwealth introduced the writings as evidence against 
+
+Linde at trial. 
+
+
+This Court held that the writings seized from 
+Linde’s vehicle must be suppressed because even assum- 
+ing that the police had probable cause to search the 
+vehicle, the exigent circumstances required for a 
+warrantless search were clearly absent because the 
+vehicle was under constant police guard from the 
+moment it was located to the moment the police 
+searched it; the vehicle was locked, unoccupied, and the 
+police had possession of the keys; and because Linde 
+himself was in the hospital undergoing emergency 
+surgery and therefore, there was no danger he would 
+move the car. 
+
+
+Clearly, Cockfield and Linde both involved 
+searches of vehicles which had been in police custody 
+
+
+and which police had immobilized for several hours 
+prior to conducting a search. Consequently, in those 
+cases, unlike the instant case, the police had ample 
+Opportunity to procure a search warrant. Here, police 
+conducted the search at issue only after the police had 
+reason to believe that appellant was in possession of 
+additional cocaine and the prerecorded money. The car 
+was located on a third party’s property and was within 
+reach of appellant’s father who was present. Under 
+these circumstances, | would find that exigent circum- 
+
+
+stances existed. Commonwealth v. Milyak, supra at 7-8, 
+
+
+493 A.2d at 1349; Commonwealth v. Rodriguez, 526 Pa. 
+268, 585 A.2d 988 (1991) (probable cause and exigent 
+
+
+circumstances existed where reliable confidential 
+informant supplied police with information regarding 
+appellant's illegal activities, where informant told police 
+
+
+App. 15 
+
+
+that appellant would be at a certain location, on a certain 
+date and that appellant would be selling drugs; more- 
+over, since police did not know appellant would be 
+travelling in that specific vehicle on the date in question 
+until they saw appellant driving, the warrantless search 
+of defendant’s vehicle was valid); Commonwealth v. 
+Baker, supra (warrantless search of vehicle proper where 
+police received information from a reliable informant 
+that defendant assaulted an individual! in an alley with a 
+gun and that the defendant exited the scene in a partic- 
+ular automobile and within minutes of the informant’s 
+information, police located that automobile and placed 
+defendant under a brief period of surveillance and 
+stopped defendant only when he attempted to drive 
+away). 
+
+
+Accordingly, | would affirm the order of the 
+Superior Court. 
+
+
+App. 16 
+
+
+| 
+
+
+° so er 
+
+
+COMMONWEALTH OF ~ _: IN THE SUPERIOR 
+PENNSYLVANIA : COURT OF PENNSYL- 
+: VANIA 
+
+
+Vv. 
+
+
+RANDY LEE KILGORE, =: No. 286 Harrisburg, 
+Appellant : 1992 
+
+
+Appeal from Judgment of Sentence of the 
+Court of Common Pleas, Criminal Divi- 
+sion, of York County, No. 2081 C.A. 
+1991. 
+
+
+BEFORE: WIEAND, SAYLOR and 
+CERCONE, JJ. 
+
+
+FILED Nov 23 1994 
+OPINION BY WIEAND, J.: 
+
+
+Randy Lee Kilgore was tried by jury and was 
+found guilty of delivery of cocaine and possession of 
+cocaine with intent to deliver. Post-trial motions were 
+denied, and Kilgore was sentenced to serve concurrent 
+terms of imprisonment for not less than four years nor 
+more than eight years. On direct appeal from the judg- 
+ment of sentence, Kilgore challenges trial and pre-trial 
+rulings made by the trial court. 
+
+
+With the aid of Scott Winter, a suspect in 
+another criminal matter, arrangements were made by 
+state police to purchase from Kelly Jo Kilgore, the 
+former wife of the defendant, Randy Lee Kilgore, an 
+"eighth kilo" (approximately four and one-half ounces) 
+of cocaine in the parking lot of the Brogue General 
+Store in Chanceford Township, York County, on July 6, 
+1991. At or about 7:00 p.m. on that date, Winter and 
+
+
+App. 17 
+
+
+Kelly met in the parking lot, where Winter informed 
+Kelly that he had a buyer waiting "up the road" and 
+wanted an ounce of cocaine. The "buyer" wanted to 
+examine this cocaine, he said and, if he were satisfied, 
+Winter would buy an additional three and one-half 
+ounces on his behalf. Winter then paid Kelly the sum 
+of $1,300.00 from funds which had been supplied by the 
+police, and Kelly got back in her car and drove away to 
+get the cocaine. 
+
+
+While under surveillance by police in an 
+unmarked car, Kelly drove to the home of her father, 
+approximately a mile away. There, she exited her car 
+and met her husband, Randy Kilgore. Both were 
+observed as they walked toward a pickup truck which 
+had been parked in the driveway. The surveilling 
+policeman then lost sight of the Kilgores as he passed 
+the home and turned his vehicle around out of sight of 
+the home. When he returned, he saw the Kilgores walk- 
+ing away from the truck. Kelly then got into her car 
+and returned to the Brogue General Store, where she 
+delivered approximately an ounce of cocaine to Winter. 
+He signalled the waiting police, who then moved in and 
+placed Kelly under arrest. A search of her person 
+produced a small quantity of cocaine and drug parapher- 
+nalia, but she did not have the $1,300.00 dollars which 
+Winter had paid to her or the additional cocaine which 
+Winter had expressed a desire to purchase. 
+
+
+Police then went to the home of Kelly’s father, 
+Otis Brown, where Trooper Kurt Voggenreiter went to 
+the back door. The back door was open, and through a 
+screen door he could see the interior of the kitchen. 
+When he saw someone run from the kitchen, he 
+announced the presence of police and entered. He found 
+Randy Kilgore in the living room and placed him in the 
+custody of other police personnel who had entered the 
+
+
+App. 18 
+
+
+F TT - 
+
+
+| 
+. 
+| 
+| 
+
+
+kitchen. With the consent of Otis Brown, the owner, the 
+premises were then searched, but neither cocaine nor the 
+money paid to Kelly Kilgore during the prior cocaine 
+transaction was discovered. 
+
+
+Without a warrant or consent of the owner, other 
+police conducted a search of Randy Kilgore’s truck, 
+which was parked at the rear of the residence. They 
+found several small bags of cocaine in a beverage cup 
+on the front floor of the truck. The cocaine was later 
+determined to weigh approximately three and one-half 
+ounces. Randy Kilgore was then arrested and placed in 
+the back of a police vehicle. He later told police that 
+the money they were seeking was under the living room 
+carpet. There they found $2,100.00, which included 
+$1,300.00 in pre-recorded bills which had been paid to 
+Kelly Kilgore. 
+
+
+The trial court refused to suppress the cocaine 
+found in Randy Kilgore’s truck, and this, it is argued on 
+appeal, was error. Our standard of review of this issue 
+
+
+was stated in Commonwealth v. Govens, 429 Pa.Super. 
+464, 632 A.2d 1316 (1993), as follows: 
+
+
+In conducting appellate review of the rul- 
+ing of the suppression court, this Court: 
+
+
+"must determine whether 
+the factual findings are 
+supported by the record. 
+When it is a defendant who 
+has appealed, we must con- 
+sider only the evidence of 
+the prosecution and so 
+much of the evidence for 
+the defense as, fairly read 
+in the context of the record 
+
+
+App. 19 
+
+
+as a whole, remains uncon- 
+tradicted. Assuming that 
+there is support in the 
+record, we are bound by 
+the facts as are found and 
+we may reverse the sup- 
+pression court only if the 
+legal conclusions drawn 
+from those facts are in 
+error.’ 
+
+
+Commonwealth v. Whitney, 511 Pa. 232, 
+239-240, 512 A.2d 1152, 1156 (1986), 
+
+
+quoting Commonwealth v. Cortez, 507 
+Pa. 529, 532, 491 A.2d 111, 112 (1985), 
+cert. denied, 474 U.S. 950, 106 S.Ct. 349, 
+88 L.Ed.2d 297 (1985). See also: Com- 
+monwealth v. O’Shea, 523 Pa. 384, 395, 
+567 A.2d 1023, 1028 (1989), cert. denied, 
+__ US. __, 111 S.Ct. 225, 112 L.Ed.2d 
+180 (1990); Commonwealth v. Hughes, 
+521 Pa. 423, 438-439, 555 A.2d 1264, 
+1271-1272 (1989). 
+
+
+Id. at 473, 632 A.2d at 1320. 
+
+
+With respect to searches of motor vehicles, the 
+Pennsylvania Supreme Court has said, in Commonwealth 
+v. Milyak, 508 Pa. 2, 493 A.2d 1346 (1985), the fol- 
+lowing: 
+
+
+While searches and seizures conducted 
+outside the judicial process, without prior 
+approval by a magistrate, are generally 
+unreasonable under the Fourth Amend- 
+
+
+ment, Katz v. United States, 389 U.S. 
+347, 357, 88 S.Ct. 507, 514, 19 L.Ed.2d 
+
+
+App. 20 
+
+
+Eee Se ae 
+
+
+576, 585 (1967); Mincey v. Arizona, 437 
+U.S. 385, 390, 98 S.Ct. 2408, 2412, 57 
+L.Ed.2d 290 (1978), there is an estab- 
+lished departure from the warrant require- 
+ment for certain automobile searches 
+based on the inherent mobility of vehi- 
+cles, with the consequent practical 
+problems in obtaining a warrant prior to 
+infringing a legitimate expectation of 
+privacy, and on the "diminished expecta- 
+tion of privacy which is accorded auto- 
+mobiles because of their open construc- 
+tion, their function, and their subjection to 
+a myriad of state regulations." Common- 
+wealth v. Timko, 491 Pa. 32, 38, 417 
+A.2d 620, 623 (1980) citing United States 
+v. Chadwick, 433 U.S. 1, 97 S.Ct. 2476, 
+53 L.Ed.2d 538 (1977); see also, South 
+Dakota v. Opperman, 428 U.S. 364, 367, 
+96 S.Ct. 3092, 3096, 49 L.Ed.2d 1000 
+(1976); Commonwealth v. Mangini, 478 
+Pa. 147, 386 A.2d 482 (1979). Accord- 
+ingly, as stated by this Court in 
+Commonwealth v. Lewis, 442 Pa. 98, 275 
+A.2d 51 (1971): 
+
+
+To justify ... a [warrantless] 
+search ..., an officer must 
+have independent probable 
+cause to believe that a 
+felony has been committed 
+by the occupants of the 
+vehicle, or that it has been 
+used in the furtherance of 
+the commission of a felony, 
+or the officer must have a 
+basis for believing that 
+
+
+App. 21 
+
+
+evidence of a crime is con- 
+cealed within the vehicle, 
+or that there are weapons 
+therein which are accessible 
+to the occupants. 
+
+
+Id. at 101, 275 A.2d at 52; see also, 
+Commonwealth v. Shaffer, 447 Pa. 91, 
+288 A.2d 727 (1972) citing Chambers v. 
+Maroney, supra, Commonwealth v. Smith, 
+443 Pa. 151, 277 A.2d 807 (1971); Com- 
+monwealth v. Dussell, 439 Pa. 392, 266 
+
+
+A.2d 659 (1970) citing Dyke vy. Taylor 
+391 U.S. 
+
+
+Implement Manufacturing Co., 
+
+216, 88 S.Ct. 1472, 20 L.Ed.2d 538 
+(1968). Thus, where there exists probable 
+cause related to the vehicle or its 
+occupants, a search of the vehicle | is 
+
+
+permissible. 
+
+
+Id. at 7-8, 493 A.2d at 1349. See also: United States v. 
+McGlory, 968 F.2d 309, 343 (3d Cir.1992); United 
+States v. Salmon, 944 F.2d 1106, 1123 (3d Cir. pe 
+cert. denied, Washington v. United States, __ 
+
+112 S.Ct. 1213, 117 L.Ed.2d 451 (1992), —— 
+
+
+wealth v. Germann, 423 Pa.Super. 393, 398-399, 621 
+A.2d 589, 592 (1993). 
+
+
+"The level of probable cause necessary for a 
+warrantless search of an automobile is the same as that 
+needed to obtain a [search] warrant." Commonwealth v. 
+Talley, 430 Pa.Super. 351, 357, 634 A.2d 640, 643 
+(1993); Commonwealth v. Pleummer, 421 Pa.Super. 51, 
+56, 617 A.2d 718, 721 (1993), allocatur denied, _—s P. 
+
+
+__, 637 A.2d 282 (1993). In Commonwealth v, Rodri- 
+guez, 526 Pa. 268, 585 A.2d 988 (1991), the Pennsy!- 
+
+
+vania Supreme Court explained: 
+
+
+App. 22 
+
+
+In this Commonwealth, the stan- 
+dard for evaluating whether probable 
+cause exists is the “totality of the cir- 
+cumstances” test set forth in Lllinois vy, 
+Gates, 462 U.S. 213, 103 S.Ct. 2317, 76 
+L.Ed.2d 527 (1983). See Commonwealth 
+v. Baker, 513 Pa. 23, 518 A.2d 802 
+(1986), Commonwealth v. Gray, 509 Pa. 
+476, 503 A.2d 921 (1985). The bench 
+mark of a warrantless arrest is the exis- 
+tence of probable cause, namely, whether 
+the facts and circumstances which are 
+within the knowledge of the officer at the 
+time of the arrest, and of which he has 
+reasonably trustworthy information, are 
+sufficient to warrant a man of reasonable 
+caution in the belief that the suspect has 
+committed or is committing a crime. 
+Commonwealth v. Wagner, 486 Pa. 548, 
+406 A.2d 1026 (1979). Applying that test 
+to the within case, the veracity and basis 
+of knowledge of those persons supplying 
+hearsay information must be examined to 
+determine whether there is a “fair prob- 
+ability that contraband or evidence of a 
+crime will be found in a particular place." 
+
+
+Commonwealth v. Baker, supra, 513 Pa. 
+at 26, 518 A.2d at 803. 
+
+
+ee Oe NO all ited! «a id ae eae Re, as RR A EES a PS et NE oe 
+
+
+Id. at 272-273, 585 A.2d at 990. 
+
+
+Once the requirement of probable cause is 
+satisfied, the exigencies regarding the 
+inherent mobility of a vehicle and inade- 
+quate time to obtain a search warrant 
+render a warrantless vehicle search proper 
+
+
+App. 23 
+
+
+even when the accused is in police cus- 
+tody. 
+
+
+Commonwealth v. Elliot, 416 Pa.Super. 499, 504, 611 
+A.2d 727, 729 (1992), allocatur denied, 534 Pa. 646, 
+
+
+627 A.2d 177 (1993). After probable cause exists, the 
+police are not required to watch over or immobilize a 
+vehicle while a search warrant is obtained. See: 
+
+
+Commonwealth v. Baker, 518 Pa. 145, 149, 541 A.2d 
+
+
+1381, 1383-184 (1988); Commonwealth v. Camacho, 
+425 Pa.Super. 567, 578-580, 625 A.2d 1242, 1248-1249 
+
+
+(1993). 
+
+
+The suppression court found that police had 
+probable cause to search appellant's truck. The evidence 
+showed that Kelly Kilgore had left the parking lot of the 
+Brogue General Store to obtain cocaine and had been 
+followed. She entered her car and drove directly to her 
+father’s home where, without entering the home, she met 
+her husband. The two of them then walked toward the 
+truck. The following police car passed the home and for 
+a few minutes was out of sight of the truck. After the 
+police car was turned around and returned, however, 
+Kelly and Randy Kilgore were observed walking back 
+from the truck. Kelly then got into her car and drove 
+directly to the parking lot of the store, where she 
+delivered an ounce of cocaine to Scott Winter. Subse- 
+quently, when police searched the Brown home, they did 
+not find any cocaine, even though Kelly had assured 
+Scott Winter that she had an additional three and 
+one-half ounces of cocaine to sell. 
+
+
+Under these circumstances, we find no error in 
+the trial court’s finding that the police had probable 
+Cunmasnaette x, feces, 400 Pa Super. 580, 585 A.2d 
+
+App. 24 
+
+
+ss « oe 
+
+
+ee ee ee — 7 
+
+
+© peti eee ote 
+
+
+1078 (1991), allocatur denied, 528 Pa. 621, 597 A.2d 
+1151 (1991). Moreover, once police had probable cause 
+to search the vehicle, a search of closed containers in 
+that vehicle was also permissible. See: California v. 
+Acevedo, 500 U.S. 565, 111 S.Ct. 1982, 114 L.Ed.2d 
+619 (1991); Commonwealth v. Elliot, supra; Common- 
+wealth v. Hoffman, 403 Pa.Super. 530, 589 A.2d 737 
+
+
+(1991), allocatur denied, 530 Pa. 652, 608 A.2d 28 
+(1992). 
+
+
+During direct examination, the Commonwealth 
+showed that its witness, Scott Winter, had previously 
+been convicted of forgery, of several burglaries and of 
+several thefts. Appellant also sought to show that 
+Winter had been convicted of arson, but the prosecution 
+asserted and the trial court found that Winter's arson 
+conviction was not crimen falsi. | Therefore, the trial 
+court excluded evidence that the witness had been con- 
+victed of arson. Appellant argues in this Court, as he did 
+in the trial court, that because arson is a felony, a con- 
+viction thereof is admissible to attack the credibility of a 
+witness. 
+
+
+In Commonwealth v. Randall, 515 Pa. 410, 528 
+A.2d 1326 (1987), the Supreme Court adopted the fol- 
+lowing rule: 
+
+
+[E}vidence of prior convictions can be 
+introduced for the purpose of impeaching 
+the credibility of a witness if the convic- 
+tion was for an offense involving dishon- 
+esty or false statement, and the date of 
+
+
+I The record forwarded to this Court does not permit 
+: - 
+
+us to make a determination of the circumstances which 
+
+led to Winter's conviction for arson. 
+
+
+App. 25 
+
+
+conviction or the last day of confinement 
+is within ten years of the trial date. If a 
+period greater than ten years has expired 
+the presiding judge must determine 
+whether the value of the evidence sub- 
+stantially outweighs its prejudicial effect. 
+
+
+Id. at 415, 528 A.2d at 1329. See: Commonwealth v. 
+Jackson, 526 Pa. 294, 585 A.2d 1001 (1991); Common- 
+wealth v. Walker, 384 Pa.Super. 562, 559 A.2d 579 
+(1989); Commonwealth v. Flis, 369 Pa.Super. 275, 535 
+A.2d 157 (1987), allocatur denied, 519 Pa. 659, 546 
+A.2d 620 (1988). See also: Packel and Poulin, Pennsy!- 
+vania Evidence, Ch. VI, § 609 (1987). Thus, it is now 
+established that a witness may be impeached on the 
+basis of a prior conviction only if the crime involves 
+dishonesty or false statement. Commonwealth v. 
+Mehalic, 382 Pa.Super. 264, 285, 555 A.2d 173, 183 
+(1989). “[A] witness may not be impeached on the 
+basis of convictions for crimes not involving dishonesty 
+or false statement." Commonwealth v. Williams, 524 
+Pa. 404, 407, 573 A.2d 536, 538 (1990). See also: 
+
+
+Commonwealth v. Penn, 497 Pa. 232, 244, 439 A.2d 
+1154, 1160 (1982), cert. denied, 456 U.S. 980, 102 S.Ct. 
+
+
+2251, 72 L.Ed.2d 857 (1982); Commonwealth v. Corley, 
+432 Pa.Super. 371, 379, 638 A.2d 985, 989 (1994). 
+Indeed, the Supreme Court has said that 
+
+
+the law regarding impeachment of a wit- 
+ness and impeachment of a defendant is 
+consistent in prohibiting impeachment 
+regarding prior arrests and prior convic- 
+tions for crimes not involving crimen 
+falsi. 
+
+
+Commonwealth v. Stokes, 532 Pa. 242, 256, 615 A.2d 
+704, 711 (1992). 
+
+
+App. 26 
+
+
+It follows that appellant's argument must fail. 
+Even a felony conviction is admissible to impeach the 
+credibility of a witness only if the crime involved 
+dishonesty or false statement. Because the record does 
+not enable us to determine whether the witness's arson 
+conyiction was based on a reckless act or a dishonest 
+act,~ we cannot say that the trial court erred when it 
+excluded evidence thereof to impeach the witness's 
+credibility. 
+
+
+Appellant's argument that the prosecution failed 
+to establish a chain of custody sufficient to permit the 
+cocaine to be received in evidence must also be rejected. 
+"Physical evidence may be admitted at trial without 
+demonstrating to an absolute certainty the precise chain 
+
+
+of custody." Commonwealth v. Culmer, 413 Pa.Super. 
+203, 217, 604 A.2d 1090, 1097 (1992). 
+
+
+Real evidence is sufficiently authenticated 
+if "evidence, direct or circumstantial, 
+establishes a reasonable inference that the 
+identity and condition of the exhibit 
+remained unimpaired until it was surren- 
+dered to the trial court.’ 
+
+
+Commonwealth v. Schwartz, 419 Pa.Super. 251, 269, 
+615 A.2d 350, 359 (1992), allocatur denied, 535 Pa. 
+
+
+617, 629 A.2d 1379 (1993), quoting Commonwealth v. 
+Hudson, 489 Pa. 620, 414 A.2d 1381 (1980). 
+
+
+In the instant case, there was no evidence sug- 
+gesting a break in the chain of custody of the cocaine 
+seized from appellant’s truck. Moreover and in any 
+event, "gaps in the chain of custody go to the weight to 
+
+
+2See: 18 PaCS. § 3301. 
+
+
+App. 27 
+
+
+be given to the testimony, not its admissibility." Com- 
+monwealth v. Bolden, 486 Pa. 383, 388-389, 406 A.2d 
+333, 335-336 (1979). Here, the jury could find that the 
+cocaine received at trial was the contraband removed 
+from appellant's truck. The trial court did not err when 
+it allowed this evidence to be admitted. 
+
+
+Finally, appellant contends that the trial court 
+erred when it permitted Kimberly Souder to testify as an 
+expert in analyzing and identifying the alleged contra- 
+band as cocaine. In Commonwealth v. McCloy, 393 
+
+
+Pa.Super. 217, 574 A.2d 86 (1990), allocatur denied, 
+527 Pa. 585, 588 A.2d 508 (1991), the Superior Court 
+
+
+reviewed the applicable law as follows: 
+
+
+To qualify as an expert witness, a witness 
+need only have a "reasonable pretension 
+to specialized knowledge," on a subject 
+for which expert testimony is admissible. 
+Commonwealth v. Washington, 235 Pa. 
+Super. 339, 340 A.2d 896 (1975). An 
+expert’s pretension to specialized knowl- 
+edge may be based upon practical, occu- 
+pational, or other experiential training; 
+the expert need not have gained expertise 
+through academic training. Common- 
+wealth v. Ellis, 354 Pa.Super. 11, 510 
+
+
+A.2d 1253 (1986); Commonwealth y. 
+Daniels, 280 Pa.Super. 278, 421 A.2d 721 
+
+
+(1980). The determination of whether a 
+witness is qualified to offer an expert 
+opinion on a particular subject is a matter 
+addressed to the sound discretion of the 
+trial court, and its discretion will not be 
+reversed absent a clear abuse of discre- 
+
+
+tion. Commonwealth v. Samuels, 354 Pa. 
+Super. 128, 511 A.2d 221 (1986); 
+
+
+App. 28 
+
+
+Commonwealth v. Ellis, supra; Common- 
+weaith v. Bulling, 331 Pa.Super. 84, 480 
+A.2d 254 (1984). 
+
+
+Id. at 220-221, 574 A.2d at 88, quoting Commonwealth 
+y. Pearsall, 368 Pa.Super. 327, 332, 534 A.2d 106, 109 
+(1987), allocatur denied, 524 Pa. 596, 568 A.2d 1246 
+(1989). See also: Commonwealth v. Snowdy, 412 
+Pa.Super. 493, 502-503, 603 A.2d 1044, 1048 (1992), 
+allocatur denied, 533 Pa. 633, 621 A.2d 580 (1993) 
+
+
+In the instant case, Souder testified that she had 
+been graduated from Pennsylvania State University witn 
+a B.S. in chemistry. Thereafter, she had undergone five 
+weeks of on-the-job training before she began working 
+for the Pennsylvania State Police. During this time 
+period, she had performed between fifty and one hun- 
+dred chemical analyses while under the direct supervi- 
+sion of another chemist. At the time of trial, Souder 
+had been employed by the State Police for approxi- 
+mately six months, during which time she had per- 
+formed approximately nine hundred additional chemical 
+analyses. Although she was still on probationary status, 
+all of her work performance reviews had been satisfac- 
+tory. She had previously qualified to testify as an expert 
+witness in both York and Dauphin Counties. Although 
+it is true that Souder did not possess a vast wealth of 
+forensic experience, it was sufficiently established that 
+she possessed a reasonable pretension to specific know|- 
+edge with regard to chemical testing of suspected illicit 
+drugs. We conclude, therefore, that the trial court did 
+not commit an abuse of discretion when it determined 
+that Souder was qualified to give expert testimony. See: 
+
+
+Commonwealth v. Echevarria, 394 Pa.Super. 261, 266- 
+267, 575 A.2d 620, 623 (1990). 
+
+
+App. 29 
+
+
+Finding no error in appellant’s trial, the judgment 
+of sentence must be affirmed. 
+
+
+Affirmed. 
+
+
+App. 30 
+
+
+IN THE COURT OF COMMON PLEAS 
+OF YORK COUNTY, PENNSYLVANIA 
+
+
+COMMONWEALTH OF — : No. 2081 C.A. 1991 
+PENNSYLVANIA 
+
+
+v. : Delivery of Drugs; 
+: Possession with Intent 
+RANDY LEE KILGORE _ : to Deliver; Conspiracy 
+
+
+APPEARANCES: 
+
+
+CHRISTY FAWCETT, ESQUIRE 
+Assistant District Attorney 
+for the Commonwealth 
+
+
+ALLEN H. SMITH, ESQUIRE 
+for Defendant 
+
+
+O ON 
+
+
+This matter comes before the Court on the post- 
+trial motions of defendant, Pandy Lee Kilgore, seeking 
+an arrest of judgment and in the alternative a new trial. 
+Defendant was convicted by jury trial of possession of 
+drugs with intent to deliver, and delivery of drugs on 
+July 15, 1992. Co-defendant, Kelly Kilgore, was con- 
+victed in the same trial of possession of drugs, posses- 
+sion of drugs with intent to deliver and delivery of 
+drugs. For the following reasons, defendant, Randy Lee 
+Kilgore’s post-trial motions will be refused and denied. 
+
+
+Defendant’s allegations of error are as follows: 
+1. Improper refusal to suppress evidence 
+of cocaine found in defendant’s vehicle in 
+
+
+App. 31 
+
+
+a plastic cup during warrantless, 
+non-consensual search; 
+
+
+2. Failure to dismiss charges based on 
+Pa.Crim.Proc. Rule 1100 violation; 
+
+
+3. Chain of custody broken for drugs 
+during period of July 8, 1991 until May 
+14, 1992; 
+
+
+4. Error in refusing to allow evidence of 
+prior conviction of non crimen falsi 
+felony (i.e. arson) to impeach a witness 
+other than a defendant; 
+
+
+5. Improper certification as expert wit- 
+ness of forensic chemist who analyzed 
+drugs after original chemist was on leave 
+for illness; ‘ 
+
+
+6. Allegation that Commonwealth failed 
+to meet its burden of proof that drugs 
+analyzed by second chemist had not been 
+"altered, mixed, unadulterated” by original 
+chemist, who was unavailable for trial; 
+
+
+7. Failure to grant mistrial when 
+prosecutor referred to defenses of 
+defendant as "smoke screen." 
+
+
+The factual background surrounds the arranged 
+
+
+sale and delivery of over 125 grams of cocaine by co- 
+defendant Kelly Kilgore to undercover drug officers. 
+
+The pre-arranged "buy" occurred at the Brogue Store 
+when Kelly Kilgore received $1,300.00 from the infor- _ 
+mant in exchange for a sample of approximately | ounce 
+of the cocaine. After the money was transferred, Kelly 
+
+
+App. 32 
+
+
+Kilgore drove to the farm residence of her father where 
+she met with the defendant. 
+
+
+Before returning to the store, where she made the 
+drug transfer, a surveillance officer observed Kelly 
+Kilgore drive down the farm lane, get out of her vehicle, 
+meet defendant and walk toward the defendant's truck 
+which was parked in the driveway. The defendant and 
+co-defendant met and then co-defendant, Kelly Kilgore, 
+returned to her car and drove back to the Brogue store 
+where the transaction occurred. Upon return to the 
+farm, after the transaction and arrest of Kelly Kilgore, 
+defendant Randy Kilgore was inside the residence. 
+
+Kelly Kilgore’s father gave consent for the search of the 
+premise. 
+
+
+Defendant first argues that the Court erred 
+through improper refusal to suppress evidence of cocaine 
+found in defendant’s vehicle in a plastic cup during war- 
+rantless, non-consensual search. The defendant argues 
+that the momentary liaison between the co-defendant and 
+defendant was not within the defendant’s vehicle, only 
+within the vicinity. Defendant alleges a lack of probable 
+cause to search the truck, and a lack of exigent circum- 
+stances which would require a warrantless search 
+thereof. The drugs were not in plain view, but rather 
+were hidden in a fast-food beverage cup with a lid on it. 
+Defendant maintains that he was not the subject of the 
+arrest when the search occurred, and accordingly, under 
+the authority of New York v. Belton, 453 U.S. 454 
+(1981), the fruits of such search must be suppressed. 
+
+
+In its Order of October 1, 1991, this Court 
+determined that there was probable cause to believe that 
+there was a balance of cocaine left in the vicinity of 
+where the delivery was made to Kelly Kilgore. 
+
+
+App. 33 
+
+
+While searches and seizures conducted 
+outside the judicial process, without prior 
+approval by a magistrate, are generally 
+unreasonable under the Fourth Amend- 
+ment, (cites omitted), there is an estab- 
+lished departure from the warrant require- 
+ment for certain automobile searches 
+based on the mobility of vehicles, with 
+the consequent practical problems in 
+obtaining a warrant prior to infringing a 
+legitimate expectation of privacy, and on 
+the ‘diminished expectation of privacy 
+which is accorded automobiles because of 
+their open construction, their function, 
+and their subjection to a myriad of state 
+regulations.’ (cites omitted). Accord- 
+ingly, as stated by this Court in Common- 
+wealth v. Lewis, 442 Pa. 98, 275 A.2d 51 
+(1971): To justify ... a [warrantless] 
+search ..., an officer must have indepen- 
+dent probable cause to believe that a 
+felony has been committed by the occu- 
+pants of the vehicle, or that it has been 
+used in the furtherance of the commission 
+of a felony, or the officer must have a 
+basis for believing that evidence of a 
+crime is concealed within the vehicle, or 
+that there are weapons therein which are 
+accessible to the occupants. (cites 
+
+
+omitted). 
+Com. v. Milyak, 508 Pa. 2, 7-8, 493 A.2d 1346 (1985). 
+
+
+Under this standard, the police had probable 
+
+
+cause to believe, based on the interaction between the 
+co-defendant and defendant as witnessed by the surveil- 
+lance officer, that the defendant was involved with the 
+
+
+App. 34 
+
+
+drug transaction. The officers had probable cause to 
+believe that the defendant was transporting drugs for 
+Kelly Kilgore for the purpose of the sale, which 
+occurred at the Brogue store. Accordingly, the police 
+acted within the law when they searched the truck. We 
+determine that under the totality of the circumstances, 
+probable cause existed for the warrantless search of 
+defendant Kilgore’s vehicle and deny any allegation of 
+error. 
+
+
+Next, defendant argues that Pennsylvania Rule of 
+Criminal Procedure Rule 1100 requires the dismissal of 
+all charges against defendant. Defendant was arrested 
+and charged with the crimes on July 6, 1991, a prelimi- 
+nary hearing was held on July 22, 1991, and arraignment 
+was completed on August 23, 1991. A suppression 
+motion was filed September 9, 1991 and refused after 
+hearing on October 1, 1991. The Court’s time was 
+taken on other matters so that the motion could not be 
+heard until over three weeks after the motion was filed. 
+Under the authority of Com. v. Chilcote, 396 Pa.Super 
+106, 112-113, 578 A.2d 429 (1990), we determine that 
+the period of delay involved in the motion to suppress 
+and this Court’s ruling should be charged against the 
+defendant and is properly excluded from the computa- 
+tion of the 180-day period under Rule 1100. With the 
+exclusion of these days, the commencement of trial was 
+timely. 
+
+
+Because of the determination that the trial was 
+commenced within the mandates required under Rule 
+1100, we determine that defendant’s due diligence 
+argument is moot. 
+
+
+Next, defendant argues that no chain of custody 
+of the drugs was established for the period of July 8, 
+1991 until May 14, 1992. The record reveals that 
+
+
+App. 35 
+
+
+Detective Voggenreiter, as evidence officer, received the 
+drugs on July 6, 1991, and secured them in his locked 
+trunk until Monday, July 8, 1991 when he delivered 
+them to the state police crime lab. The drugs remained 
+there until just prior to trial when Trooper Corbett 
+picked them up from the state police crime lab, using 
+the regular procedures for such transfer of evidence. 
+The evidence was then delivered by Trooper Corbett to 
+Trooper George and secured in the District Attorney's 
+Office safe, until the time of trial. The defense objects, 
+not to the transfers of the substances, but rather to the 
+chain of custody at the state police crime lab. The 
+original analysis of the evidence was performed on 
+August 12, 1991, by a chemist who subsequently had a 
+heart attack which required an extended medical leave of 
+absence. The Commonwealth represented to the Court 
+that the first chemist, Prasad Dasgupta, was still 
+unavailable at the time of trial. No testimony was 
+presented regarding the results of the first chemist’s 
+analysis. The Court took notice that the illness of 
+Dasgupta was corroborated through other judicial 
+matters. 
+
+
+The subsequent analysis was performed on June 
+3, 1992, by a chemist who testified that she took the 
+evidence from the evidence vault which is kept secure, 
+and returned it back into the vault at the conclusion of 
+her analysis. The second chemist identified the evidence 
+as cocaine and testified in detail with respect to the 
+analysis procedures and supervision. Defense maintains 
+that Dasgupta was not unavailable at the time of trial to 
+testify to the condition of the drugs at the time of his 
+analysis. Although the original chemist did return to the 
+state laboratory before the end of his medical leave, the 
+record reveals that his visit was of very short duration 
+and social in nature. 
+
+
+App. 36 
+
+
+Defendant alleges that Detective Voggenreiter 
+obtained the alleged drugs on July 6, 1991, and deliv- 
+ered them to the Harrisburg Crime Laboratory on July 8, 
+1991. When Detective Voggenreiter next saw the evi- 
+dence on July 13, 1992, the evidence was packed differ- 
+ently. On July 6, 1991, the contents were in plastic 
+baggies. On July 13, 1992, the contents were in heat 
+sealed plastic bags. Physical evidence may be admitted 
+at trial without demonstrating an absolute chain of 
+custody. Com. v.Culmer, _ Pa.Super. _—, 604 A.2d 
+1090, 1097 (1992). Gaps in the chain of custody go to 
+the weight to be given the testimony, not to its 
+admissibility. Com. v. Bolden, 486 Pa. 383, 389, 406 
+A.2d 333 (1979). 
+
+
+The Commonwealth must establish a reasonable 
+inference that the identity and condition of the evidence 
+has remained the same from the time it was first 
+received until the time of trial. Com. v. Miller, 234 
+Pa.Super. 146, 339 A.2d 573 (1975). The chain of cus- 
+tody of the drugs as testified to by the second chemist 
+was that she followed the procedure at the Pennsylvania 
+State Crime Lab which was to remove the evidence 
+from the secure vault for the purposes of the analysis, 
+and to return it to the secure vault at the completion of 
+her analysis. 
+
+
+Additionally, much attention was given to the 
+chain of custody in defense counsel's closing arguments, 
+stressing that the jury be absolutely convinced about the 
+qualifications of the chemist and the condition of the 
+drugs in order to convict the defendants. Given the 
+totality of the testimony, argument and evidence, we 
+determine that the jury could reasonably conclude that 
+the condition of the evidence remained the same from 
+the time it was first received until the time of trial. 
+
+
+App. 37 
+
+
+Next, the defense maintains that the Court erred 
+when it ruled that Scott Winters, a witness for the 
+Commonwealth, could not be impeached for felonies of 
+which he was convicted and sentenced unless the felo- 
+nies were of a crimen falsi nature. In this case, Scott 
+Winters assisted the Commonwealth in setting up the 
+drug raid by arranging a buy from Kelly Kilgore. 
+Under cross-examination, an effort was made to elicit 
+Winters’ prior conviction for felonies not of a crimen 
+falsi nature, specifically arson, disorderly conduct and 
+underage drinking. The Court determined that the prior 
+offenses were not relevant to the witness’s veracity and 
+accordingly, were inadmissible. See, Com. v. Yost, 478 
+Pa. 327, 386 A.2d 956 (1978). 
+
+
+Defense argues that a distinction is made between 
+the admissibility of prior records of defendants and wit- 
+nesses for impeachment purposes. Defense agrees that 
+prior convictions for felonies not involving crimen falsi 
+crimes may not be used to impeach a defendant; but 
+defense maintains that prior convictions for felonies not 
+involving crimen falsi crimes may be used to impeach 
+one other than a defendant. Defense contends that Com. 
+v. Eubanks, 511 Pa. 201, 512 A.2d 619 (1986) clearly 
+draws a distinction between the rule for defendants and 
+the rule for witnesses. The Court in Eubanks, supra., 
+determined that the exclusion of evidence of a prior 
+homicide conviction by the witness, which reference to 
+was critical to the defendant's defense, was reversible 
+error. 
+
+
+We find no probative value to the revelations 
+concerning arson, disorderly conduct and underage 
+drinking convictions of Winters. The prior record of the 
+witness in the case sub judice can be distinguished from 
+the Eubanks, supra., witness because the prior convic- 
+tions of Winters are unrelated to the present litigation. 
+
+
+App. 38 
+
+
+We determine, that given the totality of the tes- 
+timony concerning Winters, his status as a corrupt wit- 
+ness was quite evident to the jury. The record reveals 
+that Mr. Winter's plea agreement was made known, as 
+well as substantial argument with respect to his potential 
+motive to testify against the defendants. One Common- 
+wealth witness explained to the jury, with respect to 
+Winters, that they “can't use a swan to do a rat’s job.” 
+Accordingly, the Court will deny this point of error. 
+
+
+Next, defense alleges Court error through admis- 
+sion of the testimony of Kimberly Lynn Sauder, forensic 
+scientist, when she had no courses in forensic chemistry, 
+was still on a probationary status with the Pennsylvania 
+State Crime Laboratory, and there was testimony that 
+her supervisor did not work with her on a day-to-day 
+basis. Defense maintains that the Commonwealth 
+needed to show that she did her tests twice or that 
+another verified her tests and results. 
+
+
+Ms. Sauder was qualified as an expert witness for 
+the Commonwealth based on the evidence presented that 
+she held a Bachelors of Science Degree in Chemistry 
+from Penn State University, was given on-the-job train- 
+ing and was supervised. Although she was technically 
+still on probation, she was permitted to work by herself 
+and was supervised. She testified that all of her reviews 
+had been satisfactory. She had additional work experi- 
+ence, and has been qualified as an expert in several 
+other counties. Accordingly, we find no error in the 
+admission of her testimony as an expert witness. 
+
+
+The next point of alleged error is that although 
+the Commonwealth acknowledged that the alleged con- 
+traband had been tested by Prasad Dasgupta, it failed to 
+show that the contraband tested by Dasgupta had not 
+been altered, mixed, adulterated and that what Kimberly 
+
+
+App. 39 
+
+
+Sauder tested was in fact that which the Commonwealth 
+seized on July 6, 1991. We incorporate by reference our 
+decision concerning the validity of the chain of custody 
+of the drugs as stated above, and determine that the 
+Court committed no error with its admission. 
+
+
+Finally, the defense alleges that the Common- 
+wealth committed reversible error when it described, in 
+its closing argument, the defense argument as a "smoke 
+screen.” The immediate objection to this characteriza- 
+tion was addressed by the Court with a curative instruc- 
+tion to the jury to disregard any reference to a "smoke 
+screen” and to make its own decision with respect to the 
+defense based upon the facts as presented. 
+
+
+A mistrial is not mandated by every trial error. 
+A mistrial is necessary only when the incident upon 
+which the motion is based is of such a nature as to deny 
+the defendant a fair trial. Com. v. Cannady, 404 
+Pa.Super. 215, 591 A.2d 356, 360 (1991). A mistrial is 
+not necessary where cautionary instructions were ade- 
+quate to overcome any prejudice. Com. v. Lawson, 519 
+Pa. 175, 185, 546 A.2d 589, 594 (1988). 
+
+
+Additionally, the totality of the Court’s charge on 
+the proper role of the jury to assess the facts which sup- 
+port their conclusions adequately covers those issues 
+which are clearly the province of the jury. Accordingly, 
+we find no error in the Court's refusal to grant a mistrial 
+for the above stated reasons. 
+
+
+Accordingly, we will deny defendant, Randy Lee 
+Kilgore’s motion seeking an arrest of judgment and in 
+
+
+App. 40 
+
+
+——————— 
+
+
+App. 41 
+
+
+lent Judge Joseph | 
+
+
+tert 
+
+
+IN THE COURT OF COMMON PLEAS 
+OF YORK COUNTY 
+
+
+COMMONWEALTH : 2081 M.A. 1991 
+VS. 
+
+
+RANDY LEE KILGORE 
+
+
+(Suppression Hrg.) 
+
+
+York, Pa., Tuesday, October 1, 1991 
+
+
+Before the Honorable Joseph E. Erb, President Judge 
+
+
+APPEARANCES: 
+WILLIAM H. GRAFF, JR., Esquire 
+Assistant District Attorney 
+For the Commonwealth 
+
+
+ALLEN H. SMITH, Esquire 
+For the Defendant 
+
+
+Reported by: 
+
+
+Karen Bellavia, RPR 
+Official Court Reporter 
+
+
+App. 42 
+
+
+PROCEEDINGS 
+
+
+** * 
+
+
+MR. GRAFF: This is Commonwealth of Penn- 
+sylvania versus Randy Lee Kilgore, 2081 of 91; the 
+charge is Celivery of cocaine, possession with intent to 
+deliver cocaine, and criminal conspiracy to deliver 
+cocaine. 
+
+
+This is the time and date set for a hearing on the 
+motion to suppress the evidence alleging that the Com- 
+monwealth made an illegal search of the Defendant's 
+truck. 
+
+We call Trooper Voggenreiter. 
+
+
+*_* * 
+
+
+KURT E. VOGGENREITER, called as a witness, 
+having been duly sworn according to law, testified as 
+follows: 
+
+
+DIRECT EXAMINATION 
+BY MR. GRAFF: 
+Q. State your full name and occupation, sir. 
+
+
+A. Kurt E. Voggenreiter, V-o-g-g-e-n-r-e-i-t-e-r, 
+I’m a member of the Pennsylvania State Police. 
+
+
+Q. You specialize in narcotic investigations? 
+A. Yes, sir, that’s correct. 
+
+
+App. 43 
+
+
+Q. Were you on duty with the York County 
+Drug Task Force on July 6th, 1991, at approximately 
+seven p.m.? 
+
+
+A. | was. 
+
+
+Q. Were you at that time working in the area of 
+Brogue with a unit of officers? 
+
+
+A. Yes, sir, that’s correct. 
+
+
+Q. Did you set up a surveillance unit around the 
+Brogue General Store? 
+
+
+A. Yes. We had a staticrary surveillance uri 
+and a roaming surveillance unit. 
+
+
+Q. You were working with a confidential 
+informant at the time? 
+
+
+A. Yes. 
+
+
+Q. What game plan had you devised that partic- 
+ular day to buy cocaine and from whom? 
+
+
+A. The informait, in my presence, arranged with 
+a Kelly Kilgore to buy and eighth kilo of cocaine. 
+
+
+The arrangements eventually decided upon were 
+that the informant was to meet Kelly Kilgore at the 
+Brogue General Store and that he was going to purchase 
+an ounce of it; and if he and his made-up customer liked 
+it, we would come back and buy the remainder of the 
+eighth kilo. 
+
+
+Q. Did you provide money to the informant 
+prior to the informant meeting Kelly Kilgore? 
+
+
+App. 44 
+
+
+A. Yes, we did. 
+
+
+Q. Do you know Kelly Kilgore’s relationship to 
+this Defendant? 
+
+
+A. Yes, sir, 1 do. Kelly Kilgore is this Defen- 
+dant’s ex-wife. 
+
+
+Q. She’s also been charged and has separate 
+counts? 
+
+
+A. Yes. 
+
+
+Q. Were you in a surveillance point at the 
+Brogue General Store at about 7:10 p.m. on that night? 
+
+
+A. Yes, I was. 
+
+
+Q. Who, if anyone, did you see meet with the 
+informant? 
+
+
+A. We were in constant radio contact with each 
+other, all the different units, and my position -- } wasn’t 
+in a position to see the actual meet myself. I saw the 
+vehicle pull into the general area. I didn’t see the actual 
+meet. 
+
+
+The meet was described over the air by Detective 
+Anthony Glowczewski, York County District Attorney’s 
+Office. He kept us posted as the -- he described it as a 
+Camaro, I believe he said maroon in color, with a 
+female. 
+
+
+Q. Was the person you later arrested known as 
+Kelly Kilgore to you? 
+
+
+A. Yes, she was operating that Camaro. 
+
+
+App. 45 
+
+
+Q. One or some of the units saw Kelly Kilgore 
+meet with your informant? 
+
+
+A. Yes, get in the vehicle with the informant; 
+and, in fact, Glowezewski said over the radio that, 
+they're counting money.__ 
+
+
+Q. Was the plan, as you knew it, to receive the 
+coke at that time? 
+
+
+A. No. Kelly was to come, see if the money 
+was all there; then when she saw that the money was all 
+right, she was going to take $1300 of the money to buy 
+the ounce, and if we liked the ounce we were gonna 
+come back and buy the rest of it then. 
+
+
+Q. At the time that meeting was taking place, 
+were there other surveillance units already set up on this 
+Defendant’s home? 
+
+
+A. Yes. 
+
+
+Q. How far would that be from the Brogue 
+General Store? 
+
+
+A. Probably a mile, not much more, not much 
+less. 
+
+
+Q. Once Kelly Kilgore met with the informant, 
+where did she go? 
+
+
+A. She left the Brogue General Store and drove 
+directly to the residence that we later found out was her 
+father’s and where she was presently living, the one that 
+was within a mile of the store. 
+
+
+App. 46 
+
+
+Q. You remained at the Brogue General Store 
+and other units were at this Defendant’s residence? 
+
+
+A. That’s correct. 
+
+
+Q. Did you at some point in time shortly 
+thereafter see her return to the informant? 
+
+
+A. Yes, she returned within several minutes. 
+
+
+Q. And you didn’t see where she went, but other 
+units can testify that they had? 
+
+
+A. Yes. 
+
+Q. What happened when she got back? 
+
+A. Within a very short time, Glowczewski said 
+the signal is given, take her down, and we converged on 
+her vehicle and placed her under arrest. 
+
+I retrieved the evidence, which was a bag of 
+white powder which later tested out positive for cocaine 
+and which appeared to be approximately an ounce. 
+
+Q. But the original order was for four ounces? 
+
+A. Well, it was for an eighth of a kilo; but it 
+was agreed that we were only gonna buy an ounce, 
+check it out, and if we liked it go back and buy the rest. 
+
+
+Q. Did she have any of the money you orig- 
+inally provided to the informant? 
+
+
+A. No, she did not. The money that we gave 
+the informant for the ounce was missing. 
+
+
+App. 47 
+
+
+Q. After her arrest, you went with the other 
+officers to this Defendant's residence? 
+
+
+A. Yes, the residence that was described to us 
+by the other surveillance as the residence that she went 
+to directly after she looked at the money. 
+
+Q. And did you search the house? 
+
+A. Yes. We were given a consentual -- we were 
+given permission by the owner of the house, Mr. Brown, 
+to search the house. 
+
+Q. The Defendant was present at the time? 
+
+He was. 
+
+
+And his car -- was his car later searched? 
+
+
+I'm sorry? 
+
+
+? FF. @-P? 
+
+
+How did the car get searched, let’s start with 
+that? 
+
+
+A. We didn’t find anything in the house. We 
+knew that there was at least $1300 missing. 
+
+
+The money that we purchased the ounce for, 
+within the short period of time between when it was 
+given to Kelly Kilgore and when we arrived at the resi- 
+dence, it would have had to have been somewhere in 
+that area, so we knew that was there. 
+
+
+We also knew that there was the remainder of 
+the eighth ounce of cocaine -- or the eighth kilo of 
+cocaine minus the ounce that we bought somewhere. 
+We had reason to believe it was at the residence. 
+
+
+App. 48 
+
+
+Therefore, a search of the residence did not turn 
+up the cocaine, the remainder of the eighth kilo, so the 
+only place left was the vehicle of the Defendant here. 
+
+
+It was then searched. And in the passenger -- on 
+the passenger’s side of the floor of the vehicle was a 
+MacDonald's cup. The MacDonald's cup had the plastic 
+cap on it, had a straw sticking out of it. When you took 
+the cap off, there was napkins and wrappers balled up. 
+
+
+Underneath this was more bags of what later tested 
+positive for cocaine. 
+
+
+Q. That was turned over to you by Agent Way? 
+A. Yes, Agent Way found it, that’s correct. 
+
+
+Q. Was this Defendant later interviewed by 
+Detective Engle? 
+
+
+A. On the way back to the barracks after he was 
+placed in the back of Engle’s police car, he gave Detec- 
+tive Engle a statement. 
+
+Q. He had been advised of his Miranda rights? 
+
+A. Oh, yes. I myself advised him. 
+
+Q. Did he appear to understand them? 
+
+A. He definitely understood his rights. 
+
+Q. To your knowledge, did he waive those 
+rights and basically confess to the offense. He 
+
+
+confessed to the offense? 
+
+
+A. Yes, he did, yes. 
+
+
+App. 49 
+
+
+MR. GRAFF: That’s all I have of this witness. 
+
+
+CROSS-EXAMINATION 
+BY MR. SMITH: 
+
+
+Q. Officer, did you have a search warrant to 
+search this Defendant’s vehicle? 
+
+
+A. No, sir, we did not. 
+
+
+Q. Tell me how carefully you searched the 
+house to look for the $1300 and to look for the 
+remainder of what you believe was the cocaine. 
+
+
+A. It was not what I would term a thorough 
+search. 
+
+
+Myself, I didn’t believe that the father of Kelly 
+Kilgore, the Defendant’s ex-father-in-law, was involved 
+in it. It was searched well enough that had a package of 
+approximately four ounces of cocaine been around, it 
+would have been seen. 
+
+
+When | first arrived at the door, | saw somebody 
+run -- we heard shouts as we were approaching. It’s 
+about 50 -- oh, maybe 30 to 50 yards from the driveway 
+to the house. So as we parked, we ran up to the house, 
+we heard some commotion inside and | saw somebody 
+bolt from the kitchen into the further reaches of the 
+house. 
+
+
+I yelled "State Police,” entered the house and the 
+Defendant was coming out of the -- there were two liv- 
+ing rooms in the house, he was coming out of the rear 
+
+
+App. 50 
+
+
+living room; and it was my opinion that he was attempt- 
+ing to appear nonchalant. I gave a quick toss in the 
+living room mainly looking for a weapon. 
+
+
+After we were given permission to search, | went 
+back and looked a little more thoroughly, this time look- 
+ing for the cocaine and/or the money. It later turned out 
+that the money was in this room but it was under the 
+carpet area. I think that’s what you were alluding to. 
+
+
+Q. Now, when you searched the house the first 
+time, you didn’t find the money; is that correct? 
+
+
+A. That's correct, yes. 
+
+
+Q. How long after you searched did you find the 
+money? 
+
+
+A. I believe it was the Defendant who told one 
+of the officers where to look for the money. 
+
+
+Q. This was after you had searched his vehicle? 
+
+
+A. I’m not sure at what point that was. It could 
+possibly have been after the vehicle was searched. 
+
+
+Q. He didn’t make statements to anybody until 
+after the vehicle was searched. did he? 
+
+
+A. No, that’s correct. 
+
+
+Q. Did the Defendant make any statements to 
+you or did he make them to Mr. Engle only? 
+
+
+A. The only thing he told me was, go ahead and 
+search. 
+
+
+App. 51 
+
+
+period of time where Mr. Brown confronted his daughter 
+out on the lawn. I was out there when this took place. 
+
+
+that he had the opportunity to save all this uuouble for 
+his father-in-law, to have his father-in-law’s house torn 
+apart; and | asked him if he wanted to be a man about it 
+and he said, go ahead and search. He looked me in the 
+eyes and said, go ahead and search. 
+
+
+ahead and search. 
+
+
+lot of problems, and if he was involved in it why let 
+Kelly take the whole burden; and his reply to me was, 
+go ahead and search. 
+
+
+Q. What? 
+
+A. What? 
+
+Q. What. 
+
+A. I'm sorry. 
+
+Q. What did he mean, what did he say? 
+
+
+A. Ill give you the context of it. There was a 
+
+
+I went back into the house and I told Mr. Kilgore 
+
+
+Q. What, the house? 
+
+
+A. I’m just telling you what he said, he said, go 
+
+
+Q. Tell me exactly what you said you wanted to 
+
+
+A. I told him he could save his father-in-law a 
+
+
+Q. And what did you do? 
+A. Searched. 
+App. 52 
+
+
+Q. What? 
+
+
+A. Everything, the house, and then eventually 
+got to his vehicle 
+
+
+Q. Did he say to you, you may search my car? 
+
+A. He did not use those words. 
+
+Q. Did you give you keys? 
+
+A. No. 
+
+Q. Was the car locked? 
+
++A. I don’t recall. I wasn’t the one who insti- 
+
+tuted the search on the vehicle. I don’t recall if the keys 
+were taken from him and we unlocked the truck or if it 
+
+
+was unlocked. Maybe Agent Way could tell you that 
+
+
+MR. SMITH: I have no further questions 
+Thank vow 
+
+
+REDIRECT EXAMINATION 
+
+
+BY MR. GRAFF: 
+
+
+Q. Let me ask you something, Trooper Voggen- 
+reiter; the car wasn’t a junker, obviously an operable 
+car } 
+
+
+A. Oh, yes, it was operable. 
+
+
+Q. What kind of car was it? 
+
+
+App. 53 
+
+
+A. It was a Toyota pickup truck with a cap on 
+the back, fairly late model. I have the year here some- 
+where, but it’s a fairly late-model vehicle. 
+
+Q. Was it in the driveway? 
+
+A. Yes. 
+
+MR. GRAFF: That’s all I have. 
+
+MR. SMITH: No further questions. 
+
+MR. GRAFF: We call Agent Way. 
+
+
+DONALD L. WAY, called as a witness, having 
+been duly sworn according to law, testified as follows: 
+
+
+DIRECT EXAMINATION 
+BY MR. GRAFF: 
+
+
+Q. Would you state your name and occupation 
+for the record, sir. 
+
+
+A. Donald L. Way, W-a-y, narcotics agent for 
+the State of Pennsylvania, Attorney General's Office. 
+
+
+Q. You specialize in narcotics investigation? 
+A. Yes. 
+
+
+Q. Were you on duty July 6th, 1991, as a part 
+of the arrest of this Defendant? 
+
+
+App. 54 
+
+
+A. Yes. | was 
+
+
+Q. At the time the unit was set up in the Brogue 
+General Store, where were you located? 
+
+
+A. I was located at an elementary school located 
+on the same street as Mr. Kilgore’s father-in-law. I was 
+
+
+located at that store -- | mean at that school, excuse me 
+
+
+Y. And you're in radio communication with all 
+the other units at the time? 
+
+
+A. Yes, I was 
+
+Q. Were you in a position to see the Camaro 
+described by Trooper Voggenreiter arrive at the Brogue 
+General Store? 
+
+A. | didn’t see it -- I seen it come. but I didn’t 
+see it when it actually sat down and met with the infor- 
+
+
+mant. no 
+
+
+Q. After it had been with the informant for a 
+while, were you in a position to see that vehicle leave? 
+
+
+A. Yes, | was. 
+Q. Where did it go? 
+
+
+A. It went to her father’s house. the residence 
+where she was staying 
+
+
+Q. Did you see it arrive, were you in a position 
+to see it arrive? 
+
+
+A. Yes. | was 
+
+
+Q. Did you see the Defendant at any time once 
+that car arrived? 
+
+
+A. Yes, I did. 
+
+
+Q. Would you tell the Court what you saw when 
+that Camaro came back to that residence. 
+
+A. When the Camaro went to the residence, | 
+actually followed the vehicle up to the residence. 
+
+
+At the time that it arrived at the residence, Mr. 
+Kilgore here was coming up from the direction of the 
+house. I observed the young lady get out of the vehicle 
+and walk towards the truck along with Mr. Kilgore. 
+
+
+Q. He was walking from the house to the truck? 
+A. He came from that direction, yes. 
+
+
+Q. And how long did the two of them meet at 
+the truck? 
+
+
+A. Not very long. After -- | went down the 
+road, turned around. By the time | turned around, they 
+were walking back from the truck and she had gotten in 
+her vehicle, and she actually pulled out behind me going 
+down the highway. 
+
+
+Q. And did you follow her back down then to 
+the Brogue General Store? 
+
+
+A. I didn’t follow her into the store. | turned 
+off again back at the school, and she proceeded to go in 
+her direction towards the store. 
+
+
+Q. And that’s where she was arrested? 
+
+
+App. 56 
+
+
+A. Yes. 
+
+
+Q. And you were back at the residence: it’s my 
+understanding you searched the truck where the cocaine 
+was found? 
+
+
+A. Yes, | did. 
+
+
+Q. And is what Trooper Voggenreiter described 
+basically what you found? 
+
+
+A. Yes. 
+
+
+Q. Do you recall, if you know, whether the 
+truck was locked? 
+
+
+A. When I searched the truck, the truck was 
+open. I didn’t use any keys to gain entry or anything 
+
+
+The doors were open when I went to search it. 
+
+
+MR. GRAFF: Your witness 
+
+
+CROSS EXAMINATION 
+
+
+BY MR. SMITH: 
+
+
+Q. Who was the first one to go to the truck? 
+
+
+A. I really couldn't tell you who was the first 
+one. I went to the residence first. 
+
+
+Q. What about Mr. Engle, what was his Capacity 
+
+
+at this point when the truck was there and you were 
+there? 
+
+
+App. 57 
+
+
+A. I believe Mr. Engle was at his car. He also 
+was moving around in different locations. I don’t think 
+he was precisely stationary the whole time at his vehicle. 
+
+
+Q. Did you hear this Defendant make any com- 
+ments or statements to Officer Voggenreiter? 
+
+
+A. No, I did not. 
+
+
+Q. Did this Defendant make any statements to 
+you? 
+
+
+A. No, he did not. 
+
+
+MR. SMITH: No further questions. Thank you. - 
+
+
+** * 
+
+
+REDIRECT EXAMINATION 
+BY MR. GRAFF: 
+
+Q. Agent Way, while you’re on the witness 
+stand, your understanding of when you went to the truck 
+to search is that somebody else had already looked 
+through it? 
+
+A. Yes. 
+
+And they didn’t find the drugs? 
+
+
+That’s correct. 
+
+
+You conducted a more thorough search? 
+
+
+> 2 > 
+
+
+Yes. 
+
+
+App. 58 
+
+
+Q. And found the drugs that you turned over to 
+Trooper Voggenreiter? 
+
+
+A. Yes. 
+MR. GRAFF: Thank you. 
+MR. SMITH: No questions. 
+
+
+MR. GRAFF: That’s all the evidence we intend 
+to present, Your Honor. 
+
+
+THE COURT: Okay. 
+
+
+MR. SMITH: We have no testimony at this 
+time. 
+
+
+MR. GRAFF: Our argument is just an auto- 
+mobile exception. They had probable cause to believe 
+that the coke was in that truck. They had ordered four, 
+she came back with one. She took our money. 
+
+
+We have every reason to believe since she didn’t 
+go to the house, she went to the truck to meet this 
+Defendant, that the rest of the drugs were there, so no 
+warrant was necessary. It was just a simple automobile 
+exception to the warrant requirement. 
+
+
+MR. SMITH: Our position, Your Honor, was 
+there was no probable cause and no authority to search 
+this vehicle. There was no search warrant. 
+
+
+The police had searched the house, found 
+nothing, and then on their own motion searched the 
+truck and, of course, eventually found something but 
+without authority to search it. 
+
+
+App. 59 
+
+
+Our position is that the search was illegal, and 
+any statements made by this Defendant after he was 
+arrested would also be the fruits of an unlawful search 
+and seizure and should be suppressed. 
+
+
+ORDER 
+
+
+The Court has heard the testimony with regard to 
+the background of this case. The circumstantial evi- 
+dence clearly supports the decision of the officers that 
+there was a balance of cocaine that was left in the 
+vicinity of where the delivery apparently was made to 
+the person who delivered drugs at the Brogue Store. 
+They had certainly probable cause to search. This is a 
+vehicle. 
+
+
+The search of the house was searched with the 
+consent of the owner. There was sufficient probable 
+cause to arrest the Defendant. 
+
+
+It’s not contested that he was given his Con- 
+stitutional Rights and anything he said will not be 
+suppressed, and the search of the car under the circum- 
+stances there was probable cause; and under the present 
+law taking into consideration the totality of the circum- 
+stances, there was no need for a search warrant. 
+
+
+Accordingly, we enter the following Order: 
+AND NOW, to wit, this !st day of October, 
+
+
+1991, the Defendant’s motion to suppress evidence is 
+refused and denied, and we grant an exception. 
+
+
+** * 
+
+
+END OF PROCEEDINGS 
+
+
+App. 60 
+
+

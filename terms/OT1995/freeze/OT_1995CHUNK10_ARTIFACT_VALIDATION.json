@@ -1,0 +1,59 @@
+{
+  "errors": [],
+  "public_wording_review": [
+    "Denver_Area_and_Alliance_v_FCC_merits_1996-06-28.md: public text contains operator",
+    "Denver_Area_and_Alliance_v_FCC_merits_1996-06-28.md: public text contains approval",
+    "Felker_v_Turpin_certiorari_original_habeas_and_stay_1996-06-28.md: public text contains approval",
+    "Pennsylvania_v_Labron_and_Kilgore_summary_review_1996-07-01.md: public text contains approval",
+    "Telecommunications_Act_cable_sections_504_506_and_review_561_statutory_admission_1996-02-08.md: public text contains operator",
+    "United_States_v_Winstar_Corp_merits_1996-07-01.md: public text contains approval"
+  ],
+  "preserved_preexisting_files": 146,
+  "new_records": {
+    "Board_of_County_Commissioners_Wabaunsee_County_v_Umbehr_merits_1996-06-28.md": {
+      "sha256": "cc655945b7a131a113acc61114a829d898e017f5ec64e88039b42716911a4f0c",
+      "public_projection_sha256": "b8c985bc5336565fcb1845517eee968dca2c18fab297154f3bbb202a407a8c4e",
+      "result": "**Result:** Affirm the Tenth Circuit's rejection of categorical contractor exclusion and remand the reviewed official-capacity claims under the adjusted Pickering and Mt. Healthy rules, 7–2; no actual retaliation, injury or entitlement to a remedy is determined."
+    },
+    "Colorado_Republican_Federal_Campaign_Committee_v_FEC_merits_1996-06-26.md": {
+      "sha256": "3f5116ddffa7ff62f6d322342b474663feeabaf39a7b9f4a2b0f99015566c468",
+      "public_projection_sha256": "18df9a9a2fc1cca78117c95c42c6515ace471ea52cf6a74b2ae768631b854e3a",
+      "result": "**Result:** Vacate the Tenth Circuit's adverse enforcement judgment and remand, 6–3. Six Justices protect the independent advertisement; neither the complete narrower framework nor the broader coordinated-party-expression rule commands a majority."
+    },
+    "Denver_Area_and_Alliance_v_FCC_merits_1996-06-28.md": {
+      "sha256": "2defe396fac52519ee3305a37b299614135465c946f73491e94984fed2370a72",
+      "public_projection_sha256": "ab580b255f44d1472f85646469e58a857239bfa0ca535ff13a33b75e6346b038",
+      "result": "**Result:** Affirm approval of 1992 §10(a), 6–3; reverse approval of §10(b)'s integral compulsory arrangement, 7–2; reverse approval of §10(c)'s authorization concerning protected nonobscene indecency, 6–3. Remand to implement those component dispositions and set aside the corresponding FCC rules within the unconstitutional scope. Separate 1996 §506 authority is not adjudicated or extinguished."
+    },
+    "Felker_v_Turpin_certiorari_original_habeas_and_stay_1996-06-28.md": {
+      "sha256": "163fc4eac33b71babe54cd7c4d92b12318495ac62f4a3157420010ddfe46ba5f",
+      "public_projection_sha256": "49bdd42664943559044c5eb240922abd48ec989bc6f812f84e3b20f2a1b983a7",
+      "result": "**Result:** Dismiss ordinary certiorari for want of jurisdiction, deny the original habeas petition and deny pending application A-890, each 9–0; original jurisdiction remains. Eight Associates separately reject the presented trial grounds and innocence gateway; Stone rests on the specified successive/extraordinary-review grounds."
+    },
+    "OHare_Truck_Service_Inc_v_City_of_Northlake_merits_1996-06-28.md": {
+      "sha256": "c0a25aaa01f63b8133d8f50dc252bb3fc79d682618b378dd43d3fda861ff0464",
+      "public_projection_sha256": "6477231b594781eb0c5d73a80f603140d6c220240d52bbe7d67965f2c41965cb",
+      "result": "**Result:** Reverse the First Amendment dismissal and remand, 7–2; extend the qualified affiliation rule to the pleaded existing recurring service relationship, preserving appropriate mixed-speech analysis, causal proof and lawful defenses. The separate due-process disposition is undisturbed."
+    },
+    "Pennsylvania_v_Labron_and_Kilgore_summary_review_1996-07-01.md": {
+      "sha256": "842019d516c90952c02d10106ab6d2dfe16686e7cfff77c0a40aabc2429964d1",
+      "public_projection_sha256": "4da086e16a184ac4ccc223696364136e6c12744ba681fdff12ec40f3adfed1d2",
+      "result": "**Result:** Grant each petition; summarily reverse each Pennsylvania Supreme Court judgment and remand, 7–2 on each judgment. Apply the automobile exception to the reviewed searches without an additional federal exigency requirement; preserve the decision's scope and any properly available independent state-law ground. Stevens and Ginsburg oppose review on distinct jurisdictional and discretionary grounds, not an affirmative additional-exigency merits holding."
+    },
+    "Telecommunications_Act_cable_sections_504_506_and_review_561_statutory_admission_1996-02-08.md": {
+      "sha256": "ea291cc71723726959c312e2aa15e3a13fe88dfa42688c1dc1f2a2a75d0ed2e0",
+      "public_projection_sha256": "83be25dc6264b1d6344e13ada9919632fe14d5fa95b0048df9de280c25823abd",
+      "result": "**Result:** The cable-channel blocking and access-program refusal provisions, with their distinct triggers and related facial-review procedure, enter the noncase source record. No implementation fact, constitutional judgment or new Court proceeding is established."
+    },
+    "United_States_v_Winstar_Corp_merits_1996-07-01.md": {
+      "sha256": "46af5c68a50762a0b4e02f3754b1e4c904796da0c2d87097395bc32dd9e208d7",
+      "public_projection_sha256": "f1e8ead91f04bb830a59c236fdf9331609d1656192797c82f047d2a32ea9e662",
+      "result": "**Result:** Affirm the Federal Circuit's partial contractual-liability judgment for all three transactions, including Statesman's distinct goodwill and capital-credit undertakings, 8–1; remand for contract-specific causation, damages and genuinely remaining proceedings. Ginsburg would vacate present liability affirmance and require bounded reconsideration of the undertakings under unmistakability. FIRREA remains operative; no damages amount or takings judgment is entered."
+    }
+  },
+  "render_input_sha256": "df933336fa4207dadc7a3fee85fd6584fbb5b3f1417925484499ab32fd748b2b",
+  "case_list_current_sha256": "9e2f4673038f5aa4a4ede511f20c126bdabc60865086bcdc72853ed81f4d508a",
+  "case_list_hash_note": "Current identity only; case-list was not in the opening hash receipt. No task action edits it.",
+  "public_render_created": false,
+  "git": "No Git invoked. History verification and commitment deferred to operator."
+}

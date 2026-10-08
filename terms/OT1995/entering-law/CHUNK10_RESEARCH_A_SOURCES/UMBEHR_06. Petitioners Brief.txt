@@ -1,0 +1,1830 @@
+Supreme Court, U.S. . 
+(Q) FILED 
+AUG 9 1995 
+
+
+No. 94-1654 
+
+
+In The 
+
+
+Supreme Court of the United States 
+October Term, 1995 
+
+
+S 
+
+
+GLEN HEISER and GEORGE SPENCER, 
+
+
+Petitioners, 
+vs. 
+
+
+KEEN A. UMBEHR, 
+Respondent. 
+
+
+S 
+
+
+On Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Tenth Circuit 
+
+
+o 
+
+
+BRIEF OF PETITIONERS 
+
+
+¢ 
+
+
+*DONALD PATTERSON 
+
+Steve R. FABert 
+FisHer, PATTERSON, SAYLER & SmitH, L.L.P. 
+534 S. Kansas Avenue, Suite 400 
+P.O. Box 949 
+Topeka, Kansas 66601-0949 
+(913) 232-7761 
+Attorneys for Petitioners 
+*Counsel of Record 
+
+
+COCKLE LAW BRIEF PRINTING CO,, 225-6964 
+OR CALL COLLECT (402) 
+
+
+yore 
+
+
+‘ae 
+
+
+4 
+
+
+QUESTIONS PRESENTED FOR REVIEW 
+
+
+1. The remedies articulated by this Court in Picker- 
+ing v. Board of Education of Township High School District, 
+391 U.S. 563, 88 S.Ct. 1731, 20 L.Ed.2d 811 (1968) and its 
+progeny should not be extended and amplified to protect 
+the economic rights of government contractors whose 
+services are terminable at will. 
+
+
+2. The tests of Pickering and its progeny must be 
+reformulated or redescribed to fit the circumstances of an 
+independent contractor, if the rule of Pickering is to be 
+extended. 
+
+
+3. If independent contractors are to be given the 
+same protections as employees under Pickering, at least 
+the affirmative defenses now available to employers must 
+remain available to the contracting agency. 
+
+
+ii 
+LIST OF PARTIES 
+
+
+The parties to the proceedings are: 
+
+
+Petitioners: 
+
+
+GLEN HEISER and GEORGE SPENCER, in their official 
+capacities as members of the Board of County Commis- 
+sioners of Wabaunsee County, Kansas. 
+
+
+Respondent: 
+
+
+KEEN A. UMBEHR. 
+
+
+iii 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+QUESTIONS PRESENTED FOR REVIEW ........... i 
+GE Ween bc6eb0s dep sbécceccccca; ii 
+BE I CUP OUEEUEIED o ccc cccccccccccccccccecs iv 
+eS eth rh eecccdecccccescecesccese 1 
+STATEMENT OF JURISDICTION................... 1 
+CONSTITUTIONAL PROVISIONS INVOLVED...... 2 
+STATEMENT OF THE CASE................0ce00s: 2 
+SUMMARY OF ARGUMENT.....................5. 8 
+ST Lab Wed deuwesen Cbbecetescccccccccces 11 
+
+
+1. The remedies articulated by this Court in Picker- 
+ing v. Board of Education of Township High School 
+District, 391 U.S. 563, 88 S.Ct. 1731, 20 L.Ed.2d 
+811 (1968) and its progeny should not be 
+extended and amplified to protect the economic 
+rights of government contractors whose services 
+
+
+are terminable at will. ...............60.000000. 11 
+A Review of Prior Decisions ................... 12 
+Independent Contractor vs. Employee .......... 17 
+A Per Se Rule for Independent Contractors... .. 23 
+
+
+2. The tests of Pickering and its progeny must be 
+reformulated or redescribed to fit the circum- 
+stances of an independent contractor, if the rule 
+of Pickering is to be extended.................. 26 
+
+
+3. If independent contractors are to be given the 
+same protections as loyees under Pickering, at 
+
+
+least the affirmative now available to 
+employers must remain available to the contract- 
+BA BOTISY. 6 oc ce ccccccccccccccececccscccsceess 32 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases: 
+Alexander v. United States, 509 U.S. __, 113 S.Ct. 
+2766, 125 L.Ed.2d 441 (1993)......... 2. cece eeeeee 17 
+Arcara v. Cloud Books, Inc., 478 U.S. 697, 106 S.Ct. 
+3172, 92 L.Ed.2d 568 (1986)........ 2... c cece eeeees 16 
+Branti v. Finkel, 445 U.S. 507, 100 S.Ct. 1287, 63 
+L.BG.26 GRE CRGGED. «oc ccccccccsccncesescssdseonses 13 
+Bush v. Lucas, 462 U.S. 367, 103 S.Ct. 2404, 76 
+L.BADS GED CRGGED. 20 ccccccccccceccececcsascsevess 34 
+Civil Service Commission v. Letter Carriers, 413 U.S. 
+548, 546, 93 S.Ct. 2880, 37 L.Ed.2d 796 (1973) ..... 13 
+Cohen v. Cowles Media Co., 501 U.S. 663, 111 S.Ct. 
+2513, 115 L.Ed.2d 586 (1991)..........2cceeeeeeeee 17 
+Connick v. Myers, 461 U.S. 138, 103 S.Ct. 1684, 75 
+L.BG36 FED COIs cccccccccsascccecscosses 13, 15, 32 
+Elrod v. Burns, 427 U.S. 347, 96 S.Ct. 2673, 9 
+L.BG26 SH (ROVE. 2c cccccscosccccveseseece 13, 33, 34 
+Employment Division, Department of Human 
+Resources of Oregon v. Smith, 494 U.S. 872, 110 
+S.Ct. 1595, 108 L.Ed.2d 876 (1990) ................ 17 
+F.T.C. v. Superior Court Trial Lawyers Association, 
+493 U.S. 411, 110 S.Ct. 768, 107 L.Ed.2d 851 
+GRBGED oo occcccccccctcvcdetecetcsbceudsesddebadsece 17 
+Harlow v. Fitzgerald, 457 U.S. 800, 73 L.Ed.2d 396, 
+OER GOR Bear GHG 0c ccvccccscccasééiesesestctno< 29 
+Lake Country Estates, Inc. v. Tahoe Regional Planning 
+Agency, 440 U.S. 391, 59 L.Ed.2d 401, 99 S.Ct. 
+SEE GaP ep cc cvccccccscccccesceednednssanmmepnsnes 25 
+
+
+v 
+
+
+TABLE OF AUTHORITIES - Continued 
+Page 
+
+
+McKennon v. Nashville Banner Publishin 
+__US.__, 115 S.Ct. 879, 130 L. ae Po 852 (1995) 
+
+
+Mt. Healthy City School District Board of Education 
+v. Doyle, 429 U.S. 274, 97 S.Ct. 568, 50 L.Ed.2d 
+fet Sa A tga Mn Md db 13, 17, 33 
+
+
+Pickering v. Board of Education of Township High 
+Se District, 391 U.S. 563, 88 S.Ct. 1731, 20 
+ey Ge WEG Senncaccecteeudotecevencecs passim 
+
+
+Public Workers v. Mitchell, 330 U.S. 75, 97 S.Ct. 556, 
+BG De HEE CI Bena boncoucccccesieectaéscooss: 14 
+
+
+Rutan v. Republican Party of Illinois, 497 U.S. 62, 110 
+S.Ct. 2729, 111 L.Ed.2d 52 (1990)........... 13, 14, 15 
+
+
+State ex rel. Stephan v. Board of Sedgwick County 
+Commissioners, 770 P.2d 455, 244 Kan. 536 (1989) .... 25 
+
+
+A hs ao v. Consumers Union, 446 
+“ts Aw 64 L.Ed.2d 641, 100 S.Ct. 1967 (1980) .... 25 
+
+
+Tenney v. Brandhove, 341 U.S. 367, 95 L.Ed. 1019, 71 
+
+
+soc ae 
+
+
+SD ER bckncecsdugocddetchbebbocbecsccges 25 
+Turner Broadcasting System v. F.C.C., 512 U.S. __, 
+
+114 S.Ct. 2445, 129 L.Ed.2d 497..............-545. 27 
+U.S. Term Limits, Inc. v. Thornton, __U.S.__, 115 
+
+S.Ct. 1842, 131 L.Ed.2d 881 (1995) ................ 24 
+Umbehr v. Board of Wabaunsee County Commission- 
+
+ers, 825 P.2d 1160, 16 Kan.App.2d 512 (1992)..... 1,5 
+Umbehr v. Wabaunsee County Commission- 
+
+wre, 643 P2d 176, 252 Kan, 30 (1 Swéetveteeoees 1,5 
+Umbehr v. McClure, et al., 44 F.3d 876 (10th Cir. 
+
+Bac ciccnccccccccecbeeseseccenecte otipenses aye 1 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+
+Umbehr v. McClure, et al., 840 F.Supp. 837 (D.Kan. 
+
+Bc v ccccccccscccocesentéscedecetetssdueeuasnnene 1 
+United States v. Albertini, 472 U.S. 675, 105 S.Ct. 
+
+2897, 86 L.Ed.2d 536 (1985)............ceeeeeeeees 16 
+United States v. National Treasury Employees Union, 
+
+__ -US. __, 115 S.Ct. 1003, 130 L.Ed.2d 964 
+
+TEED «060060 0000eeesesedenenenebenenedaneeenes 13, 14 
+Ward v. Rock Against Racism, 491 U.S. 781, 109 S.Ct. 
+
+2746, 105 L.Ed.2d 661 (1989).......... ee re 16 
+Waters v. Churchill, 511 U.S. __, 114 S.Ct. 1878, 128 
+
+LSE GES Geeisennccsccaspovenctenéoneanss 13, 34 
+Wayte v. United States, 470 U.S. 598, 105 S.Ct. 1524, 
+
+OS CR Be Gs one0sosbbeesccntcpbsccanae: 16 
+Unitep States CONSTITUTION: 
+Pisst AGRGRMMRGRE. 2.0 cccvecccccccccccccosesecoess passim 
+ee BS Fc cccucccéedekascdeeseen 2, 9, 23, 24 
+Statutes CITED: 
+BE UB. © TED cc ccccccpeccdcatepceuceusetetssdus 1 
+DP Ws BH Tec cccceccoccuccsceactcbesesussaenedunds 1 
+BD UG. © Fb heb sc covccddcvivecedesctecdesudect ibe 1 
+BD Wie OF Ucacecosincscintdhsceundudubeceereunel 1 
+GS Tian G Becnnccccecccsccéscncvesseubedsiemensee 1,7 
+A, TREES GE GOD, cc cccccccccosecsecceceseoceseuers 25 
+
+
+OPINIONS BELOW 
+
+
+The decision of the U.S. District Court for the District 
+of Kansas granting summary judgment to petitioners is 
+reported as Umbehr v. McClure, et al., 840 FSupp. 837 
+(D.Kan. 1993). The decision of the Tenth Circuit Court of 
+Appeals, reversing the grant of summary judgment to 
+petitioners in part and remanding the case for further 
+proceedings against petitioners in their official capacities 
+is published as Umbehr v. McClure, et al., 44 F.3d 876 (10th 
+Cir. 1995). Parallel proceedings in state court between the 
+same parties have resulted in two published decisions: 
+see Umbehr v. Board of Wabaunsee County Commissioners, 
+825 P.2d 1160, 16 Kan.App.2d 512 (1992) and Umbehr v. 
+Board of Wabaunsee County Commissioners, 843 P.2d 176, 
+252 Kan. 30 (1992). 
+
+
+STATEMENT OF JURISDICTION 
+
+
+Original jurisdiction in the U.S. District Court for the 
+District of Kansas was based upon 28 U.S.C. §§ 1331 and 
+1343, and 42 U.S.C. § 1983. Respondent prosecuted a 
+timely appeal to the Tenth Circuit Court of Appeals 
+under the authority of 28 U.S.C. § 1291. This Court has 
+jurisdiction to review the decision of the Tenth Circuit 
+Court of Appeals under 28 U.S.C. § 1254(1). 
+
+
+The judgment of the Tenth Circuit Court of Appeals 
+was entered on January 4, 1995. A petition for rehearing 
+was denied on February 10, 1995. 
+
+
+¢ 
+
+
+CONSTITUTIONAL PROVISIONS INVOLVED 
+
+
+United States Constitution Amendment 1: 
+
+
+FREEDOM OF RELIGION, SPEECH AND 
+PRESS 
+
+
+Congress shall make no law respecting an 
+establishment of religion, or prohibiting the free 
+exercise thereof; or abridging the freedom of 
+speech, or of the press; or the right of the people 
+peaceably to assemble, and to petition the Gov- 
+ernment for a redress of grievances. 
+
+
+United States Constitution Amendment 10: 
+RESERVATION OF POWERS TO STATES 
+
+
+The powers not delegated to the United 
+States by the Constitution, nor prohibited by it 
+to the States, are reserved to the States respec- 
+tively, or to the people. 
+
+
++ 
+
+
+STATEMENT OF THE CASE 
+
+
+The named petitioners are two members of the three- 
+person Board of County Commissioners of Wabaunsee 
+County, Kansas, a sparsely populated county in east cen- 
+tral Kansas. Petitioners are nominal parties, defending 
+only in their official capacities as representatives of the 
+people of the county. Although claims were made against 
+them as individuals, they were granted summary judg- 
+ment on the basis of qualified immunity. All claims 
+against Petitioners as individuals were resolved by this 
+Court’s refusal to grant the Cross-Petition for Certiorari 
+on the qualified immunity issue. (Joint Appendix p.38). 
+
+
+Respondent Keen Umbehr operated the municipal 
+trash collection service for residents of six towns in the 
+county under a contract negotiated through the Board of 
+County Commissioners. Although no county refuse was 
+collected under the contract, the county was a party to 
+the agreement because its landfill was the expected ulti- 
+mate resting place for the trash. (Joint Appendix p.22). 
+
+
+Under the contract those towns which elected to 
+participate would pay fees to Mr. Umbehr, and Mr. 
+Umbehr would pay landfill charges for using the county 
+dump. Each town agreed not to do business with any 
+competing trash hauler. The contract was renewable 
+annually, with an option for any party to terminate with 
+60 days’ prior notice. (Joint Appendix p.22). The contract 
+gave Mr. Umbehr the right but not the duty to dispose of 
+the collected refuse at the landfill owned by the county, in 
+return for his agreement to pay landfill charges under a 
+schedule fixed by the county. The contract provided for 
+termination for cause and included as cause the nonpay- 
+ment of fees for depositing refuse at the county landfill. 
+(Deposition Exhibit 3, pp. 138-152 of Supplemental 
+Appendix to 10th Cir. Brief of Appellee). 
+
+
+In early 1989 the Wabaunsee County Commission 
+began discussing the need to raise landfill rates. The 
+possibility of a rate hike was raised due to the feared 
+impact of new environmental protection regulations, 
+which were expected to impose requirements for poten- 
+tially costly monitoring of pollution levels and more 
+expensive methods of handling waste at the landfill. The 
+expected costs were believed to be so great that the 
+county might be compelled to close the landfill altogether 
+and to send refuse generated in the county to a regional 
+
+
+landfill some distance away. (Deposition Exhibit 27, pp. 
+167-168 of Supplemental Appendix to 10th Cir. Brief of 
+Appellee). 
+
+
+Mr. Umbehr appeared at County Commission meet- 
+ings and spoke against a general increase of user fees and 
+any move to close the county landfill, which would have 
+increased his own operating costs. Mr. Umbehr stated 
+that he preferred increased fees to be paid out of other 
+existing funds or through tax increases. (Deposition 
+Exhibits 27, 28, and 31, pp. 167-170A of Supplemental 
+Appendix to 10th Cir. Brief of Appellee). Mr. Umbehr was 
+sufficiently concerned about this and other issues that he 
+declared himself a candidate for an upcoming vacancy on 
+the Board. (Umbehr contested the bid of Commissioner 
+McClure for re-election.) (Deposition Exhibits 25 and 33, 
+pp. 166 and 171 of Supplemental Appendix to 10th Cir. 
+Brief of Appellee). 
+
+
+During the course of his campaign Mr. Umbehr made 
+public comments, both in and out of print, criticizing the 
+individual members of the Board of County Commission- 
+ers. As a result of some of his criticisms the official 
+conduct of the members of the Board was investigated by 
+the Kansas Attorney General. On December 29, 1989 the 
+Attorney General reported the result of his investigation, 
+which included an express finding that no member of the 
+Board of County Commissioners had engaged in any 
+misconduct. (Deposition Exhibit 10, pp. 157-159 of Sup- 
+plemental Appendix to 10th Cir. Brief of Appellee). 
+
+
+In February, 1990 the Board voted 2-1 to terminate 
+Mr. Umbehr’s trash collection contract. Commissioner 
+McClure voted against termination. Because notice of 
+
+
+termination was not given properly, the contract renewed 
+automatically for another year. (Joint Appendix p. 13). 
+
+
+In April, 1990 the Board voted to raise the rates for 
+all landfill users, including Umbehr, effective June 1. 
+(Deposition Exhibit 39, pp. 172-173 of Supplemental 
+Appendix to 10th Cir. Brief of Appellee). Mr. Umbehr 
+refused to pay the increased rates and filed both an 
+appeal and a civil action in the District Court of Wab- 
+aunsee County, Kansas seeking an injunction against the 
+rate hike. (Deposition Exh. 69, pp. 178-181, and pp. 3-87 
+of Supplemental Appendix to 10th Cir. Brief of Appellee). 
+This litigation was unsuccessful, and ultimately resulted 
+in published decisions on appeal in the Kansas courts. 
+See Umbehr v. Board of Wabaunsee County Commissioners, 
+825 P.2d 1160, 16 Kan.App.2d 512 (1992) and Umbehr v. 
+Board of Wabaunsee County Commissioners, 843 P.2d 176, 
+252 Kan. 30 (1992). 
+
+
+The Kansas Supreme Court ultimately held in the 
+parallel proceedings that Umbehr had no right to appeal 
+from the decision to raise the landfill rates absent proof 
+of a violation of his constitutional rights or oppressive 
+conduct. Their opinion noted that Mr. Umbehr had never 
+alleged in those proceedings that his constitutional rights 
+were violated by the decision to raise the rates for using 
+the landfill. According to that opinion any decision by the 
+Board which Mr. Umbehr could prove violated his consti- 
+tutional rights would be set aside in a timely appeal. See 
+252 Kan. at pp.36-38. 
+
+
+Both Umbehr and McClure failed in their 1990 elec- 
+tion bids, losing to a third candidate, Steven Anderson. 
+Mr. Umbehr’s public criticisms of the Board members 
+
+
+ceased after the election. (Petition for Writ of Certiorari, 
+p. 9). 
+
+
+The question of terminating the municipal trash haul- 
+ing contract was again debated in January, 1991. Commis- 
+sioners Spencer and Heiser voted to terminate, and 
+Commissioner Anderson voted nay. (Joint Appendix p. 
+13). Mr. Umbehr promptly negotiated exclusive contracts 
+with five of the six participating towns, with higher rates 
+payable to him. Mr. Umbehr made no attempt to appeal 
+the board’s decision to terminate the contract as he had 
+done from the rate hike. (Deposition Exhibits 78-82, pp. 
+182-222 of Supplemental Appendix to 10th Cir. Brief of 
+Appellee). 
+
+
+At the time the vote was taken Mr. Umbehr had been 
+in default in the payment of landfill charges for over six 
+months. (Pp. 51-55 of Supplemental Appendix of Appel- 
+lee). His default was not stated to be a motivating factor 
+in the votes of the Board members, however. The reason 
+for termination stated at the time was a desire to remove 
+the county from the entanglement of a contract from 
+which it received no benefit. (Depositions of Glen Heiser 
+and George Spencer, pp. 323-373 and 492-516, Supple- 
+mental Appendix to 10th Cir. Brief of Appellee). 
+
+
+Throughout the state court appeal Mr. Umbehr had 
+refused to pay the increased fees mandated in the spring 
+of 1990. On July 25, 1991, an order of the District Court of 
+Wabaunsee County prohibited Umbehr from continuing 
+to use the landfill until the delinquent payments were 
+made. In August, 1991, Mr. Umbehr paid the overdue 
+user fees for the period from June, 1990 to May, 1991. (Pp. 
+
+
+— ae 
+
+
+wy ae ee 
+
+
+51-55 and 85 of Supplemental Appendix to 10th Cir. Brief 
+of Appellee). 
+
+
+The present action was filed in the U.S. District Court 
+for the District of Kansas on May 15, 1991, alleging that 
+the decision to terminate Mr. Umbehr’s monopoly trash 
+hauling contract on January 28, 1991 was a violation of 
+his First Amendment rights. Mr. Umbehr sued the three 
+County Commissioners who held office in 1990 when the 
+original decision was made to terminate his contract, 
+even though only two of them had voted for termination. 
+He did not sue Commissioner Anderson. (Joint Appendix 
+
+
+p-1). 
+
+
+A summary judgment motion was filed on behalf of 
+all defendants on December 16, 1991. Summary judgment 
+was granted on December 30, 1993. The District Court 
+held that all claims against the defendants in their official 
+capacities were barred because independent contractors 
+are not entitled to the same protection as employees 
+under the First Amendment. The claims against all defen- 
+dants in their individual capacities were also found to be 
+barred by the application of qualified immunity. The 
+claims against defendant McClure were found to be addi- 
+tionally barred because he had never voted to terminate 
+the contract. The District Court reasoned that the termi- 
+nation at will of a public contract could not, as a matter of 
+law, give rise to a claim for money damages under 42 
+U.S.C. § 1983, because public contracts are not analogous 
+to employment relationships and because the economic 
+injury claimed by Mr. Umbehr was too remote. (Joint 
+Appendix pp. 1, 3-4, 10-20). 
+
+
+On review the Tenth Circuit Court of Appeals 
+affirmed the decision with respect to all three defendants 
+in their individual capacities, but reversed with respect to 
+the official capacity claims. The Tenth Circuit disagreed 
+with the reasoning of other circuits which had already 
+ruled on the same issue, concluding that independent 
+contractors are entitled to relief for the retaliatory termi- 
+nation of at-will contractual relationships, so long as 
+some potential economic benefit to the contractor, no 
+matter how indirectly occasioned, is lost due to the termi- 
+nation. In so holding the Tenth Circuit opinion expressly 
+noted that its conclusion was “squarely in conflict with 
+several other circuits, a posture we do not adopt lightly.” 
+The opinion further noted the view of the panel that the 
+issue is one in which Supreme Court guidance is partic- 
+ularly needed. (Joint Appendix pp. 21-38). 
+
+
+Petitioners’ motion for rehearing was denied and a 
+timely Petitiun for Writ of Certiorari was filed and 
+granted. (Joint Appendix pp. 8-9). 
+
+
+¢ 
+
+
+SUMMARY OF ARGUMENT 
+
+
+Pickering v. Board of Education of Township High School 
+District, 391 U.S. 563, 88 S.Ct. 1731, 20 L.Ed.2d 811 (1968) 
+and its progeny recognize the legitimate right of govern- 
+ment agencies to control their own operations for the 
+purpose of assuring effective and efficient service to the 
+public. Part of that right of control must be the power to 
+delegate the task of delivering those services to private 
+persons without losing control altogether. Because inde- 
+pendent contractors are not subject to direct control in the 
+
+
+same way as an employee, the right of control must 
+include the power to revoke such a delegation with impu- 
+nity. Any limitation on the right to terminate the delega- 
+tion of government responsibilities to an independent 
+contractor is a complete denial of the right of control, 
+rather than a restraint justified by balancing the right of 
+control against First Amendment rights. 
+
+
+The decision to regain control of previously dele- 
+gated government operations is inherently a policy deci- 
+sion which is legislative in nature, deserving of full 
+legisiative immunity. Such policy decisions will inevita- 
+bly be based on political considerations, and should not 
+be scrutinized by the courts. Allegations of improper 
+motive are legally irrelevant to the assessment of the 
+constitutionality of any exercise of legislative authority. 
+Retaliatory intent should thus not invalidate the policy 
+decision to transfer direct responsibility for services back 
+to the government from an independent contractor. 
+
+
+The decision of any government agency to regain 
+direct control and supervision over government services 
+which have previously been delegated to private contrac- 
+tors is presumptively reasonable and politically debata- 
+ble, and must therefore be subject to ultimate control by 
+the people as voters. Any attempt by the courts to inter- 
+fere with the discretion of a unit of government to exer- 
+cise control over the details of the performance of its own 
+services, in preference to leaving control of those func- 
+tions in the hands of private persons who do not have the 
+trust of the people or their elected representatives, would 
+usurp the political power guaranteed to the people them- 
+selves by the Tenth Amendment. 
+
+
+10 
+
+
+The actions of government officials in deciding 
+whether to terminate a contractual delegation of govern- 
+ment services should be judged on an objective standard. 
+Attacks on their personal motives should not be allowed 
+to control the validity of their votes. Where a reasonable 
+public official could conclude that termination of a con- 
+tract serves the public interest, psychological motives 
+should be deemed irrelevant as a matter of law. Retalia- 
+tory motive should be relevant, if at all, only after the 
+contractor has established that no public interest was 
+served by the termination of the contract. Even then the 
+question of motive should be limited to suits against 
+officials as individuals, and should have no relevance in 
+actions against the government itself. 
+
+
+Independent contractors do not need a money dam- 
+ages remedy for retaliatory termination of their contracts. 
+The public interest requires that the discretion to delegate 
+or not should be exercised without fear of penalty. Where 
+an articulable public benefit from the termination of the 
+contract exists, the interest of the public must outweigh 
+the private financial interest of the contractor as a matter 
+of law. If no legitimate public benefit can be articulated, 
+then the termination should be set aside by the courts. 
+The contractor should not have the privilege to forego 
+reinstatement of the contract and elect to sue for loss of 
+profit. 
+
+
+—p= 
+
+
+11 
+
+
+ARGUMENT 
+
+
+1. The remedies articulated by this Court in Pickering 
+v. Board of Education of Township High School Dis- 
+trict, 391 U.S. 563, 88 S.Ct. 1731, 20 L.Ed.2d 811 
+(1968) and its progeny should not be extended and 
+amplified to protect the economic rights of govern- 
+ment contractors whose services are terminable at 
+will. 
+
+
+This case squarely confronts the Court with the need 
+to determine the scope of the rights and duties of persons 
+who provide public services through contract arrange- 
+ments with local government, rather than serving directly 
+as governmental employees. This Court has not previ- 
+ously decided whether the free speech protections 
+afforded to governmental employees will be extended to 
+persons who provide services to the public less directly, 
+as non-employee contractors. 
+
+
+The Court should now decide that the policies under- 
+lying its decisions limiting the rights of public employees 
+apply with even greater force where the relationship is 
+one of pi. cipal and independent contractor. Because the 
+only means available to exert control over the actions of 
+an independent contractor is to terminate the contract, 
+any restraint on the right of termination would destroy 
+the government's right to control the public services per- 
+formed under the contract. 
+
+
+The decision of the Tenth Circuit Court of Appeals 
+must not be allowed to stand. The Tenth Circuit Court of 
+Appeals has decided that the federal courts should give 
+legal protection to the profits of those who provide public 
+services as non-employees, no matter how tenuous the 
+
+
+12 
+
+
+contractual relationship with the government may be and 
+without regard to the unqualified contractual right of the 
+government to terminate the relationship at will. The 
+Tenth Circuit Court of Appeals nas imposed on local 
+units of government an obligation to avoid economic 
+injury to government contractors whose statements on 
+issues of public concern may have irritated public admin- 
+istrators, even if the clearly expressed will of the people 
+demands otherwise. 
+
+
+This Court has never construed the Constitution to 
+provide a guarantee of continued profit at public expense 
+to persons who exercise their free speech rights. Neither 
+public employees nor persons who otherwise profit from 
+the performance of public service have been allowed to 
+tie the hands of responsible government officials exercis- 
+ing reasonable control over the delivery of government 
+services. This Court’s decisions have always recognized 
+the right of responsible public officials to take the steps 
+necessary to maintain effective control over those who 
+perform the basic work of government. There is no reason 
+to back away from these precedents now. 
+
+
+A Review of Prior Decisions 
+
+
+A substantial body of case law has developed to 
+establish the rights of public employees to express them- 
+selves freely on matters of public concern. This Court has 
+recognized the practical necessity of some limitation on 
+the work-related speech of government employees in 
+order to assure the orderly operation of governmental 
+functions. The relative rights and responsibilities of the 
+government employer and government employee have 
+
+
+13 
+
+
+been articulated in a series of cases spanning more than 
+twenty-five years: See, for example, Pickering v. Board of 
+Education, 391 U.S. 563, 88 S.Ct. 1731, 20 L.Ed.2d 811 
+(1968); Branti v. Finkel, 445 U.S. 507, 100 S.Ct. 1287, 63 
+L.Ed.2d 574 (1980); Connick v. Myers, 461 U.S. 138, 103 
+S.Ct. 1684, 75 L.Ed.2d 708 (1983); Rutan v. Republican Party 
+of Illinois, 497 U.S. 62, 110 S.Ct. 2729, 111 L.Ed.2d 52 
+(1990); Waters v. Churchill, 511 U.S. __, 114 S.Ct. 1878, 128 
+L.Ed.2d 686 (1994); United States v. National Treasury 
+Employees Union, __ U.S. __, 115 S.Ct. 1003, 130 L.Ed.2d 
+964 (1995). These cases hold that free speech rights of 
+government employees may properly be subjected to lim- 
+itations which could not permissibly be applied to the 
+general public. Even express prior restraints, and not just 
+post hoc sanctions, may sometimes be justified under the 
+Pickering balancing test. See Civil Service Commission v. 
+Letter Carriers, 413 U.S. 548, 546, 93 S.Ct. 2880, 37 L.Ed.2d 
+796 (1973) and discussion in National Treasury Employees at 
+130 L.Ed.2d p.980. 
+
+
+One overriding concern in such cases is avoiding the 
+creation of a constitutional right of employee tenure. The 
+Court has afforded wronged employees only those 
+remedies which are necessary to place them in no better 
+and no worse a position than they would have been in 
+had the protected comments never occurred. See Mt. 
+Healthy City School District Board of Education v. Doyle, 429 
+U.S. 23. 97 S.Ct. 568, 50 L.Ed.2d 471 (1977). 
+
+
+This court has struggled with the proper application 
+of the First Amendment to political patronage practices. 
+From Elrod v. Burns, 427 U.S. 347, 96 S.Ct. 2673, 49 
+L.Ed.2d 547 (1976) to Branti v. Finkel, 445 U.S. 507, 100 
+S.Ct. 1287, 63 L.Ed.2d 574 (1980) to United States v. 
+
+
+14 
+
+
+National Treasury Employees Union, supra, there has been 
+dissension among the members of the court concerning 
+the extent to which the First Amendment should be hos- 
+tile to the practice of providing special employment 
+favors to the political supporters of those in power. Most 
+recently in U.S. v. National Treasury Employees Union, 
+supra., it was suggested that the conflict might be 
+resolved by the application of different standards of scru- 
+tiny to cases involving political patronage, especially 
+those involving potential prior restraint, versus disciplin- 
+ary actions taken against individual employees based on 
+after the fact determinations. See discussion at 130 
+L.Ed.2d p.979 et seq., compared with the comments of 
+Justice O’Connor in her opinion concurring in part and 
+dissenting in part at 130 L.Ed.2d pp. 988 et seq. 
+
+
+The members of this court have not been in full 
+agreement concerning the test to be applied when a gov- 
+ernment employer expressly regulates the content of its 
+employees’ speech. Some members of the Court have 
+strongly suggested that the historical standard applied in 
+such cases is more lenient than the constitutional stan- 
+dard applicable to restraints on the speech of members of 
+the general public. See Rutan v. Republican Party of Illinois, 
+497 US. 62, 110 S.Ct. 2729, 111 L.Ed.2d 52 (1990), dissent- 
+ing opinion of Justice Scalia at 497 U.S. pp. 98-102 (joined 
+by the Chief Justice and Justices Kennedy and O’Connor). 
+It was there noted that this court’s decisions consistently 
+follow the standard laid down in Public Workers v. Mit- 
+chell, 330 U.S. 75, 97 S.Ct. 556, 91 L.Ed. 754 (1947), requir- 
+ing only a reasonable conclusion that the regulation 
+would enhance the efficiency of the government's provi- 
+sion of services. The majority opinion in Rutan concluded 
+
+
+15 
+
+
+that blatant political patronage did not meet the constitu- 
+tional test, whether it is phrased in these terms or in 
+
+
+stronger language. 
+
+
+Whatever the resolution of the ongoing dispute con- 
+cerning the standard for review of patronage practices 
+may be, that dispute need not in any way affect the 
+court’s decision in this case. Cases which involve neither 
+prior restraint nor political patronage should be governed 
+by the more lenient standard of review originally stated 
+in Pickering. There has never been any suggestion that Mr. 
+Umbehr’s contract was terminated so that he could be 
+replaced with a political ally. His contract remained in 
+place for many years despite his lack of political affilia- 
+tion with petitioners or their supporters. The purported 
+retaliation occurred after he made his public comments, 
+without prior restraint. The dispute between the majority 
+and the dissenters in Rutan therefore should not be a 
+source of division here. 
+
+In the cases discussed in the dissenting opinion in 
+Rutan, supra, the balancing to be performed by the court 
+is not to weigh the personal interests of the worker 
+against the alleged improper motives of his superiors. 
+Instead the test balances the interest of the public in 
+assuring discourse on a matter of public concern against 
+the public’s competing interest in seeing that the services 
+entrusted to the employing agency are performed effec- 
+tively and efficiently. It was expressly noted, tor example, 
+in Connick v. Myers, 461 U.S. 138, 103 S.Ct. 1684, 75 
+L.Ed.2d 708 (1983) that not all of the employee’s First 
+Amendment rights are relevant, but that only discourse 
+on matters of public concern should be considered. Con- 
+nick concluded that employee communications which 
+
+
+16 
+
+
+relate solely to personal concerns or workplace condi- 
+tions cannot provide a basis for objecting to sanctions 
+imposed by the employer, even though the comments 
+would be protected by the First Amendment if they were 
+made outside the employer/employee relationship. See 
+461 U.S. at p. 147. If the comments relate to the desires of 
+the employee for different working conditions than the 
+employer wishes to provide, discipline may be imposed 
+without any need for constitutional justification. See 461 
+U.S. at pp. 148-149. 
+
+
+Even if the test of Pickering is not applied to any 
+relationship except that of employer and employee, a 
+similarly relaxed standard of review would apply to deci- 
+sions which are content neutral and which only inciden- 
+tally burden speech. A standard only slightly different 
+from the Pickering balancing test has traditionally been 
+applied to government actions which happen to result in 
+a restriction of free speech but are not primarily intended 
+to do so. This court repeatedly has held that persons who 
+engage in activities protected by the First Amendment do 
+not thereby become automatically immune to all adverse 
+action by agencies of government. The fact that enforce- 
+ment of the law will have the incidental effect of inhibi- 
+ting or even precluding the complaining party’s First 
+Amendment activities does not by itself permit the courts 
+to nullify otherwise legitimate exercises of government 
+power. Examples of permissible incidental effects can be 
+found in numerous decisions, including United States v. 
+Albertini, 472 U.S. 675, 105 S.Ct. 2897, 86 L.Ed.2d 536 
+(1985); Wayte v. United States, 470 U.S. 598, 105 S.Ct. 1524, 
+84 L.Ed.2d 547 (1985); Arcara v. Cloud Books, Inc., 478 U.S. 
+697, 106 S.Ct. 3172, 92 L.Ed.2d 568 (1986); Ward v. Rock 
+
+
+17 
+
+
+Against Racism, 491 U.S. 781, 109 S.Ct. 2746, 105 L.Ed.2d 
+661 (1989); F.T.C. v. Superior Court Trial Lawyers Associa- 
+tion, 493 U.S. 411, 110 S.Ct. 768, 107 L.Ed.2d 851 (1990); 
+Employment Division, Department of Human Resources of 
+Oregon v. Smith, 494 U.S. 872, 110 S.Ct. 1595, 108 L.Ed.2d 
+876 (1990); Cohen v. Cowles Media Co., 501 U.S. 663, 111 
+S.Ct. 2513, 115 L.Ed.2d 586 (1991); and Alexander v. United 
+States, 509 U.S. __, 113 S.Ct. 2766, 125 L.Ed.2d 441 (1993) 
+
+
+Independent Contractor vs. Employee 
+
+
+Assuming arguendo that a higher standard applies to 
+broad regulations which imposing express prior 
+restraints on the political speech of civil servants as a 
+whole, application of that standard cannot be justified 
+where complaint is made by an independent contractor to 
+whom the performance of some part of the government's 
+responsibility to its citizens has been delegated. 
+
+
+If independent contractors are allowed to prevent the 
+cancellation of their contracts so long as they publicly 
+criticize the public officials who control the decision to 
+cancel or not, the public services they perform will be 
+placed beyond any regulation or restraint. If criticism of a 
+government decisionmaker prevents public control over 
+government services, the result will not be the elimina- 
+tion of wrongs but the grant of property rights. The 
+independent contractor would have greater rights as a 
+result of his comments, contrary to the rule of Mt. 
+Healthy, supra, if objectionable speech could create tenure. 
+
+
+The rule of Pickering would be stood on its head if an 
+independent contractor could obtain greater First 
+Amendment protection by seeking to compare himself to 
+
+
+18 
+
+
+an employee, since employees have less protection than 
+the general public, not more. Because of the special rules 
+limiting control over the operations of independent con- 
+tractors, their rights should be even more limited than 
+those of employees. 
+
+
+The relationship between an employer and an 
+employee differs significantly from the relationship 
+between a principal and an independent contractor. An 
+employee is hired to render a service without a guarantee 
+of results. In exchange for relief from the burden of 
+guaranteeing a result, the employee gives up control over 
+the day to day operations on the job. Employers maintain 
+day to day control of the details of the manner in which 
+the work is performed by employees. 
+
+
+When the public is dissatisfied with the quality of 
+services performed by employees, they need only make 
+the fact known to the elected representatives who wield 
+authority over those employees. An effective response 
+can be assured without delay. The employee is legally 
+obligated to obey corrective directions from higher up. 
+
+
+Government control of the performance of public 
+services is heavily impaired when the job is delegated to 
+a private contractor. Where a task has been delegated to 
+an independent contractor, the contractor exercises the 
+right to control the details on a daily basis. By delegating 
+public services to an independent contractor the govern- 
+ment temporarily loses direct control over the perfor- 
+mance of the services and retains only the ultimate right 
+to terminate the relationship. 
+
+
+Although a government agency may entrust part of 
+its operations to an independent contractor, it does not 
+
+
+19 
+
+
+also delegate the ultimate responsibility for the service. 
+The people remain entitled to look to the government 
+when they are dissatisfied with those services, and to 
+demand changes if the service is inadequate for any 
+reason. But the government cannot issue orders directly 
+to the independent contractor or his employees to change 
+the manner in which the service is performed. Control is 
+exercised only indirectly, by threatening the termination 
+of the contract if the contractor will not voluntarily cor- 
+rect the objectionable practice. 
+
+
+Where the relationship between the parties is one of 
+principal and contractor, there is no flexibility available 
+when it becomes advisable to redistribute the relative 
+powers and responsibilities of the parties. If the principal 
+decides that greater control is required, the contract must 
+be terminated. A new and different contract, perhaps a 
+contract of employment, may thereafter be negotiated 
+between the same parties. But before such a contract can 
+be negotiated, the old relationship that denies a right of 
+control to the principal must be abolished. 
+
+
+In the factual context presented here, the difference 
+between an employee and an independent contractor is 
+highly significant. Because Mr. Umbehr was an indepen- 
+dent contractor and not an employee, he was free to 
+decide how many trucks to operate, how many 
+employees to hire, what wages to pay, the schedules to be 
+followed in collecting trash from residential customers, 
+and the means of disposing of the accumulated refuse. 
+
+
+As an independent contractor Mr. Umbehr ran the 
+risk of failing to make a profit if his decisions on these 
+subjects were unwise. Because Mr. Umbehr’s contract 
+
+
+20 
+
+
+gave him discretion over methods and procedures, he 
+was free to increase his personal profit by devising more 
+efficient methods for the performance of the service. 
+
+
+Because his contract did not obligate him to use the 
+county landfill, but merely guaranteed him the privilege 
+to use it if he elected to do so, Mr. Umbehr was free to 
+find a more profitable disposal site elsewhere, if he so 
+desired. Because there was no guarantee that the trash 
+hauled by Mr. Umbehr’s trucks would be deposited at the 
+county landfill, the Board had no assurance that revenue 
+from that source could be used to finance its operations. 
+Continuation of the existing contract therefore under- 
+mined the county’s ability to plan for the future of its 
+citizens’ waste disposal needs. 
+
+
+Had Mr. Umbehr been an employee he would merely 
+have had supervisory authority over subordinate staff 
+whose activities were ultimately controlled, even in slight 
+detail, by the Board of County Commissioners. The Board 
+and not Mr. Umbehr would have decided how many 
+trucks to operate, the schedules for trash pickup, and the 
+ultimate destination of the collected refuse. The risk of 
+adopting different means and methods would have fallen 
+on the County, not on Mr. Umbehr. Control of those 
+means and methods would also have remained with the 
+county, however. 
+
+
+As an independent contractor Mr. Umbehr had a 
+potential conflict of interest with the people of the 
+County. If there was any opportunity to increase his 
+profit margin by having the citizens subsidize the cost of 
+using the county landfill, he was motivated to work 
+
+
+21 
+
+
+toward that end rather than absorb additional costs him- 
+self. That conflict became real when the question of 
+increasing user fees became a subject of debate before the 
+County Commission. Mr. Umbehr yielded to the conflict 
+and spoke out in favor of an increase in taxes, rather than 
+an increase in user fees, to pay mounting costs for operat- 
+ing the landfill. 
+
+
+So long as Mr. Umbehr’s contract remained in place, 
+Petitioners were not free to make ultimate policy deci- 
+sions concerning the wisdom of maintaining a county 
+landfill. For example they were not free to close the 
+landfill altogether, since to do so would be a breach of the 
+contractual provision guaranteeing Mr. Umbehr access to 
+the site. Similarly, the Board of County Commissioners 
+was not free to decide that the landfill would accept only 
+certain types of refuse, or only limited volumes. 
+
+
+In order to regain control over the long term plan- 
+ning for the use of the landfill, the Board of Wabaunsee 
+County Commissioners was required to relieve itself of 
+the contractual obligation to continue to operate the land- 
+fill in a manner consistent with Mr. Umbehr’s chosen 
+operating methods. Only upon termination of the con- 
+tract could the county again become free to decide how to 
+operate the landfill, and free to decide to close it alto- 
+gether if public health, safety and welfare required that 
+result. 
+
+
+All of these decisions would have remained under 
+the control of the Board of Wabaunsee County Commis- 
+sioners if Mr. Umbehr had been employed as a supervisor 
+of a government department entrusted with the same 
+
+
+22 
+
+
+tasks, rather than operating under an independent con- 
+tract. They would have retained the right to abolish his 
+position in anticipation of the closing of the county land- 
+fill. Had he been an employee he could have been fired 
+for insubordination for the remarks he made in county 
+commission meetings, despite the public interest in the 
+issues at stake, under the balancing test of Pickering. 
+
+
+The same considerations that apply to reassertion of 
+control over government services may not apply to retal- 
+iatory acts against persons who are not performing ser- 
+vices for the public as a surrogate for the government, 
+but are merely regulated by the government along with 
+others doing similar work. Nor do they apply in the same 
+manner where the contract is terminated solely in order 
+to reassign it to a political supporter. Although the legal 
+relationship between a friendly contractor and an 
+unfriendly one is the same, the likelihood that objection- 
+able practices will be corrected in response io polite 
+advice is greatly increased where the contractor is a polit- 
+ical ally. Political strife may therefore be indirectly rele- 
+vant in assessing the need for a reassertion of direct 
+government control. Where political differences prevent 
+the amicable resolution of public complaints about the 
+contractor’s services, termination may be the most effec- 
+tive means of assuring proper service to the public. 
+
+
+The discussion in the decision of the Tenth Circuit 
+Court of Appeals in this case, as well as the discussion in 
+the opinions from other Circuits noted by the Tenth Cir- 
+cuit, overlooks the considerations outlined above. 
+Because Pickering expressly requires a balancing of the 
+government’s need for control against the First Amend- 
+ment’s guarantee of free and open discussion of matters 
+
+
+23 
+
+
+of public concern, the analysis set forth above is much 
+more relevant than some of the reasoning in the conflict- 
+ing opinions of the various Circuit Courts of Appeal. The 
+degree of financial dependence of the contractor or the 
+similarity of the dispute to a workplace grievance, for 
+example, simply have no bearing on the weight to be 
+given to the government's right to control the perfor- 
+mance of its own services to the public. If this right of 
+control is ignored it is not possible to perform the Picker- 
+ing balancing test rationally. If the right of control is 
+considered it is difficult to imagine a circumstance where 
+the contractor’s right to speak would prevail over the 
+government’s right to assert control over its own opera- 
+tions. 
+
+
+A Per Se Rule for Independent Contractors 
+
+
+The First Amendment cannot reasonably be con- 
+strued to require the delegation of governmental powers 
+to private citizens who have outspokenly criticized public 
+decision makers merely because the decision to do other- 
+wise would result in economic loss to them. If a legal 
+right to compensation for economic loss resulting from a 
+political decision to change the distribution of authority 
+over local services is granted to all persons who vocally 
+oppose that political decision, the inevitable result will be 
+a wholesale transfer of power from elected representa- 
+tives and their duly appointed administrators to the 
+courts. This result not only is not compelled by the First 
+Amendment, it is prohibited by the Tenth. 
+
+
+The Tenth Amendment is not a dead letter. It was 
+applied very recently to guarantee the political rights of 
+
+
+24 
+
+
+the people of the several states to have unfettered control 
+over the identity of their elected representatives. See US. 
+Term Limits, Inc. v. Thornton,___U.S.___, 115 S.Ct. 1842, 131 
+L.Ed.2d 881 (1995). In that case the efforts of a state 
+legislature to place limits on the right of constitutionally 
+qualified candidates to run for national office were struck 
+down as an improper interference with the Tenth Amend- 
+ment guarantee that the people themselves exercise the 
+power to choose their representatives. 
+
+
+It is questionable whether the Board of County Com- 
+missioners would have had the authority to agree to an 
+irrevocable delegation of control of refuse disposal opera- 
+tions to Mr. Umbehr. Any attempt to do so would have 
+cut off the people’s right to control local government. 
+Certainly the United States Constitution does not give the 
+federal courts control over local trash service. When the 
+people refused to elect Mr. Umbehr to the Board and 
+instead elected representatives who chose to terminate 
+his authority over basic local services they exercised their 
+constitutionally guaranteed rights. Neither Mr. Umbehr 
+nor the courts have any right to divest the people of that 
+right of control, either to keep power in his hands or to 
+deliver it into the hands of a judge or jury. 
+
+
+If the refusal of the people to elect Mr. Umbehr to a 
+position of official authority is not recognized as an exer- 
+cise of constitutionally protected authority, then the 
+Board’s independent decision to cancel the contract 
+should be recognized in its own right. When the board 
+terminated the trash hauling contract it made a policy 
+decision on behalf of the people, if that decision was not 
+yet made clearly enough. Under Kansas law the Board 
+performs all of the county’s executive and legislative 
+
+
+25 
+
+
+functions, and exercises some quasi-judicial authority as 
+well. Under Kansas law counties have sovereign author- 
+ity within their own borders, subject only to the state 
+constitution and some limited control by the state legisla- 
+ture, under a system known as home rule. See State ex rel. 
+Stephan v. Board of Sedgwick County Commissioners, 770 
+P.2d 455, 244 Kan. 536 (1989) and K.S.A. 19-101 et seq. 
+Both the District Court and the Court of Appeals recog- 
+nized that the application of legislative immunity to the 
+Board’s actions was a “close question”. See Joint Appen- 
+dix at pp. 14, 38. The question should not be a close one. 
+The vote to terminate was a clear exercise of discretionary 
+sovereign power, with which the courts should not inter- 
+fere. 
+
+
+Under the doctrine of legislative immunity no lia- 
+bility attaches for votes on legislative issues, even if the 
+votes are cast with a malicious intent to cause harm. See 
+Tenney v. Brandhove, 341 U.S. 367, 95 L.Ed. 1019, 71 S.Ct. 
+783 (1951). Legislative immunity applies to state and local 
+officials acting in a legislative capacity. See Lake Country 
+Estates, Inc. v. Tahoe Regional Planning Agency, 440 U.S. 
+391, 59 L.Ed.2d 401, 99 S.Ct. 1171 (1979) and Supreme 
+Court of Virginia v. Consumers Union, 446 U.S. 719, 64 
+L.Ed.2d 641, 100 S.Ct. 1967 (1980). 
+
+
+The same policy considerations which support abso- 
+lute immunity for legislative votes should apply to pre- 
+vent judicial interference with the decision to perform 
+government functions directly, through contractors, or 
+even to forego providing them at all. These decisions go 
+directly to the basic policy choices of big budgets versus 
+small ones, big government versus small government, big 
+bureaucracy versus privatization, which cannot be 
+
+
+26 
+
+
+decided in the courts. Because decisions of this nature 
+may depend upon unforeseeable practical and political 
+considerations, they must remain reversible if it appears 
+that a mistake has been made or if circumstances change. 
+The political process is far better suited to make these 
+decisions and readjustments than the courts. 
+
+
+2. The tests of Pickering and its progeny must be refor- 
+mulated or redescribed to fit the circumstances of an 
+independent contractor, if the rule of Pickering is to 
+be extended. 
+
+
+If the Court does not categorically reject all claims by 
+government contractors, it should adopt the least strin- 
+gent rule compatible with the right of the people to 
+control the operations of government, rather than trans- 
+ferring control to private interests or the courts. Where no 
+prior restraint is involved and no express attempt to 
+regulate any speech is apparent, the least stringent test of 
+constitutional limitation is obviously appropriate. That 
+test can be applied without inquiry into the personal 
+motives of the public officials responsible for the ques- 
+tioned decision. The courts should not assess the relative 
+interests of the parties on a case by case basis, other than 
+to look for a rational basis which justifies the incidental 
+restraint on free speech. 
+
+
+Whether the same test is applied to all contract can- 
+cellations or not, there surely is no need to impose a 
+stricter standard of scrutiny where an independent con- 
+tractor complains of economic injury than is applied to 
+claims by members of the general public for injuries of 
+the same kind. 
+
+
+27 
+
+
+The rule applicable to alleged infringement of the 
+rights of the general population requires only that an 
+incidental restraint on freedom of speech be no greater 
+than is reasonably necessary to achieve the public pur- 
+poses unrelated to regulation of speech which afford a 
+general justification for the government's actions. See 
+Turner Broadcasting System v. F.C.C., 512 U.S. __, 114 S.Ct. 
+2445, 129 L.Ed.2d 497, especially the discussion at 129 
+L.Ed.2d pp. 530-531. A governmental employer is allowed 
+somewhat greater discretion and power in the control of 
+the actions of its own employees than would be allowed 
+under Turner Broadcasting, whether the employer 
+expressly seeks to impose a prior restraint or whether 
+disciplinary action is imposed after the fact. Certainly 
+where no content-based prior restraint is involved, nei- 
+ther an employee nor a member of the general public can 
+demand that the needs of the public take a back seat 
+under either test. 
+
+
+Even where blatant political patronage or prior 
+restraint may be alleged, this Court must be extremely 
+cautious in opening the courthouse door to profitseekers 
+whose real purpose is to avoid the legitimate result of 
+public debates and elections. Only political opponents of 
+public officials will have standing to sue for alleged retal- 
+iation, if such suits are allowed, because only they will 
+have done anything to invoke First Amendment protec- 
+tion. No matter how beautifully crafted this Court’s rule 
+of decision might be, that rule will only be applied when 
+the parties are in court. Small units of government can 
+rarely afford to litigate a case like this far enough to get a 
+favorable decision on the merits. They are strongly moti- 
+vated to yield to the demands of potential plaintiffs to 
+
+
+28 
+
+
+avoid expenses. Any rule of law which requires much 
+more than a motion to dismiss on the pleadings to defend 
+against this sort of abuse will fail its essential purpose. 
+
+
+There is no constitutional policy which would justify 
+favoring political enemies over political friends in gov- 
+ernment contracting. If the Constitution recognizes little 
+or no value in awarding spoils to the electoral victors, it 
+must also recognize even less value in providing court 
+ordered spoils to the losers at the polls. If no public 
+purpose is served by having elected officials appoint 
+their political friends to lower offices, then neither is 
+there any public purpose to be served by requiring them 
+to appoint their political opponents. Complaints by dis- 
+gruntled losers must be recognized as the self-interested, 
+anti-democratic, profit-motivated ploys that they really 
+are, and not as the public-spirited defense of basic liber- 
+ties that they pretend to be. 
+
+
+If government contractors are to be given the right to 
+sue for termination of their rights under some circum- 
+stance, the triggering event should not be the existence of 
+a retaliatory motive engendered by harsh political debate. 
+To do so would inspire contrived conflicts with political 
+opponents for the sole purpose of generating a factual 
+basis for lawsuits. Such contrived conflicts would provide 
+disgruntled contractors with leverage to coerce favorable 
+decisions from their political opponents to avoid litiga- 
+tion. Such political blackmail must not be encouraged. 
+Whatever rule is adopted, the risk of such blackmail must 
+be avoided by requiring a significantly higher initial bur- 
+den of pleading and proof than the establishment of 
+personal conflicts between the parties. 
+
+
+29 
+
+
+Eliminating consideration of alleged retaliatory 
+motive is also favored by separate policy considerations. 
+This Court has decided as a matter of public policy to 
+protect government officials from burdensome and 
+harassing inquiries into their personal thought processes 
+in the context of qualified immunity. The alleged pres- 
+ence of a retaliatory motive cannot defeat a claim of 
+qualified privilege. In Harlow v. Fitzgerald, 457 U.S. 800, 73 
+L.Ed.2d 396, 102 S.Ct. 2727 (1982) this Court recognized 
+that earlier qualified immunity cases had allowed the 
+imposition of liability where the defendant acted with the 
+malicious intention to cause a deprivation of constitu- 
+tional rights. See discussion at 457 U.S. pp. 815-818, 
+where the so-called “subjective element” was rejected 
+and the test of qualified immunity was reduced to a 
+solely objective standard. Harlow also specifically noted 
+that the doctrine of qualified immunity is available in 
+addition to, and not as an alternative to, other recognized 
+doctrines of absolute immunity. See 457 U.S. at p. 818, 
+footnote 30. 
+
+
+The subjective element of the qualified immunity test 
+was removed for the stated reason that it was undermin- 
+ing the intended purpose of the qualified immunity doc- 
+trine, the resolution of insubstantial claims at or before 
+summary judgment. The Harlow opinion specifically dis- 
+allowed discovery concerning the intent of the individual 
+defendants until the threshold question of the objective 
+state of the law had been determined. See discussion at 
+457 U.S. 818. The recognition of a right to sue whenever 
+an alleged retaliatory motive taints an otherwise legiti- 
+mate decision to terminate a government contract would 
+undermine the goals of the Harlow decision. 
+
+
+30 
+
+
+Adopting any principle of judicial suspicion toward 
+termination of contracts with vocal political opponents 
+would threaten to convert far too many of the daily 
+decisions of local government into lawsuits. The courts 
+do not have the resources to decide petty political dis- 
+putes over contracts for everything from street cleaning 
+to vending machines to trash disposal, even if the Consti- 
+tution permitted it. Not only does the Constitution not 
+mandate such micromanagement, it prohibits it. Votes at 
+the polls, not in the jury room, must ultimately decide 
+these mundane affairs. If all of these matters were subject 
+to resolution in the courts, there would be no purpose in 
+having a public debate. Only the judge and jury would 
+decide what to do, so only they would need to be 
+informed of the pros and cens on any issue. 
+
+
+State and local units of government need to have at 
+least as much freedom and discretion to regulate the 
+means employed in providing services to the general 
+public as the courts allow to federal agencies. As the 
+politically motivated process of downsizing and decen- 
+tralizing government continues, more and more of the 
+important functions of government will be performed at 
+the state or local level. The change of geographical loca- 
+tion of the responsibility for performing such services 
+should not increase the degree to which the courts are 
+prepared to intervene in government administrative deci- 
+sions. 
+
+
+Every government decision to enter into or to termi- 
+nate a contract with a private service provider is a poten- 
+tial subject for public debate protected under the First 
+Amendment. Every decision whether or not to delegate 
+some part of the responsibilities of government, every 
+
+
+31 
+
+
+decision to have the government stop performing a par- 
+ticular service altogether, and every decision to spend 
+public funds can lawfully be opposed in public debate. 
+Every decision to reverse a prior decision on these same 
+matters is equally debatable. If the mere fact of opposi- 
+tion, coupled by a decision contrary to the expressed 
+wishes of opponents of the policy ultimately adopted, can 
+transfer to the courts the ultimate decision on matters of 
+public policy, then the First Amendment will have been 
+converted into a mechanism for the dismantling of all 
+units of state and local government and the transfer of 
+their powers to the federal courts. Every political debate 
+will be converted into a court case, unless this Court 
+recognizes that the losers of such debates must simply 
+live with the economic consequences inherent in public 
+policy decisions rather than suing for damages. 
+
+
+The First Amendment does not guarantee the right of 
+any citizen to control political decisions. Neither does the 
+First Amendment guarantee to individuals the right to 
+operate public agencies for their personal profit. Instead 
+the First Amendment contemplates the full and fair pub- 
+lic debate of matters of public concern, including the 
+appropriate means for performance of public services, 
+followed by a decision by the peoples’ elected representa- 
+tives determining the correct policy to follow. 
+
+
+It is an inherent part of the process contemplated by 
+the First Amendment that the policy ultimately chosen 
+will have been opposed by a minority. In many instances 
+the opposition will have been motivated in part by an 
+expectation of financial gain or loss to the advocates on 
+
+
+32 
+
+
+either side of the issue. The existence of a potential finan- 
+cial gain or loss cannot be allowed to convert an ordinary 
+political decision into a constitutional wrong. 
+
+
+In any debate over matters of public concern it is not 
+only expected but appropriate for the decision maker to 
+consider public statements both for and against the policy 
+ultimately adopted. The fact that an opponent’s argu- 
+ments have been considered and rejected cannot be 
+allowed to convert the adverse decision into an unlawful 
+act of retaliation which guarantees financial compensa- 
+tion to the political loser. 
+
+
+3. If independent contractors are to be given the same 
+protections as employees under Pickering, at least 
+the affirmative defenses now available to employers 
+must remain available to the contracting agency. 
+
+
+A number of defenses have been recognized to apply 
+to claims of employees for wrongful termination. All of 
+these defenses, without exception, should be available to 
+a government agency accused of wrongfully terminating 
+an independent contractor’s rights. 
+
+
+The rule of Connick v. Myers, supra, that termination is 
+always permissible in response to expressions of dis- 
+agreement with workplace policies which do not impli- 
+cate issues of general public concern, should apply 
+equally to employees and contractors. Mr. Umbehr’s 
+comments relating to the use of the county landfill would 
+qualify as personal matters under this test. 
+
+
+Every independent contractor should be subject to 
+lawful termination for cause on the same grounds as an 
+
+
+33 
+
+
+employee. Failure to perform the agreed services compe- 
+tently obviously should justify termination of a contrac- 
+tor, just as it would justify termination of any employee, 
+including one with contractual tenure. See Elrod v. Burns, 
+supra. 
+
+
+This Court has held that money damages are not 
+available to an employee from the date when the 
+employer is aware of facts which would support a lawful 
+termination for cause. See McKennon v. Nashville Banner 
+Publishing Company, __U.S.__, 115 S.Ct. 879, 130 L.Ed.2d 
+852 (1995). A similar rule should apply to the termination 
+of an independent contract. In this case objective grounds 
+for terminating the contract abounded, separate and 
+apart from any attempt by Mr. Umbehr to engage in 
+public discourse on any issue. Mr. Umbehr’s continuing 
+failure to abide by the terms of his contract and pay the 
+lawful landfill rates, even after a final money judgment 
+was entered against him for those amounts, were grounds 
+for termination of the contract for cause. Although this 
+cause was not expressly invoked at the time the Commis- 
+sioners voted, it nonetheless existed and was well known 
+to them. 
+
+
+Even if no objective good cause for termination 
+exists, a government employer has the right to establish 
+that its employee would in fact have suffered the same 
+consequences even if no protected speech act had 
+occurred. See Mt. Healthy City School Dist. Bd. of Ed. v. 
+Doyle, supra. The same requirement of causation in fact 
+should be recognized where the plaintiff is an indepen- 
+dent contractor rather than an employee. 
+
+
+34 
+
+
+Employees whose responsibilities include policymak- 
+ing may be terminated on the basis of political affiliation. 
+See Elrod v. Burns, supra. An independent contractor 
+whose responsibilities include the formulation of policy 
+should be equally terminable without independent cause. 
+
+
+An employer is only required to make a reasonable 
+investigation to determine whether First Amendment 
+rights are at stake before taking adverse action against an 
+employee. In Waters v. Churchill, supra, it was held that no 
+liability would be imposed if the employer reasonably 
+believed on the facts available that no First Amendment 
+issue was presented. Contractors should also be protected 
+only where their rights are reasonably known to the 
+contracting agency. 
+
+
+In this case the lower courts have already established 
+that the applicability of First Amendment guarantees to 
+Mr. Umbehr’s complaints was not reasonably established, 
+thereby justifying a grant of personal immunity to them. 
+Only a rule of strict liability for the government agency, 
+rather than the test of reasonable appearances adopted in 
+Churchill, could justify a money judgment against the 
+government agency. As a matter of law the rule of 
+Churchill should prevent the plaintiff from prevailing 
+against the government agency on these facts. 
+
+
+This court has held that an action for money damages 
+should not be implied in favor of a government employee 
+whose First Amendment rights have been violated, when 
+an adequate remedy already exists by way of administra- 
+tive appeal or otherwise. In the case of Bush v. Lucas, 462 
+U.S. 367, 103 S.Ct. 2404, 76 L.Ed.2d 648 (1983) this court 
+
+
+35 
+
+
+refused to give federal civil service employees the com- 
+mon law right to money damages because a constitu- 
+tionally adequate remedy was already available to them 
+under federal civil service regulations. 
+
+
+Independent contractors such as Mr. Umbehr already 
+have a constitutionally adequate remedy by way of direct 
+appeal in the state courts. Mr. Umbehr’s own appeal in 
+the parallel proceedings clearly established just such a 
+right. In Umbehr v. Board of Wabaunsee County Commission- 
+ers, 843 P.2d 176, 252 Kan. 30 (1992) the Kansas Supreme 
+Court held that orders of state agencies which would 
+otherwise not be appealable could be reviewed by direct 
+appeal if the complaining party could demonstrate either 
+an illegal or an oppressive act. Illegal acts were defined 
+there as procedurally irregular acts or acts beyond the 
+scope of the government agency’s authority. Oppressive 
+acts were defined to include anything which “subjects a 
+person to cruel or unusual hardship through misuse or 
+abuse of authority or power or when it deprives a person 
+of any rights, privileges, or immunities secured by our 
+Constitution or laws.” See 252 Kan. at pp. 36-37. Under 
+Kansas law Mr. Umbehr had the right to challenge the 
+termination of his contract as a violation of his rights 
+under the First Amendment by way of a direct appeal. 
+Had he established a violation of any constitutional right, 
+or in the alternative a personal hardship inflicted through 
+abuse of authority, the Kansas courts would have ordered 
+his contract reinstated. 
+
+
+Mr. Umbehr chose to file a federal civil rights action 
+in U.S. District Court rather than seeking any relief by 
+way of appeal to the Kansas State Courts. He did so for 
+the obvious reason that the new contracts with five of the 
+
+
+36 
+
+
+six towns previously served by him are more lucrative 
+than the old contract. By permitting the old contract to be 
+canceled and then suing for damages he created an 
+opportunity to profit twice. His unilateral decision to 
+waive the right to reinstate the contract and to seek 
+redress in the federal courts should not create a federal 
+remedy where there otherwise would be no need for one. 
+Mr. Umbehr should not be allowed to waive his right to 
+compel the continuation of the contractual relationship 
+and instead seek money damages to be determined by a 
+federal jury. 
+
+
+CONCLUSION 
+
+
+The analysis followed by the Tenth Circuit Court of 
+Appeals ignores the significance of the obligations owed 
+by an independent contractor, and focuses solely on the 
+contractor’s economic interests. It ignores the respon- 
+sibilities of local government to the people, and focuses 
+solely on the inferred intent of individual decision 
+makers. 
+
+
+By ignoring these considerations, the Tenth Circuit 
+Court of Appeals reached the absurd conclusion that the 
+people of Wabaunsee County should pay Mr. Umbehr 
+damages for an alleged spiteful act of their elected repre- 
+sentatives, even though these representatives are not per- 
+sonally responsible for the economic harm he alleges. 
+This result cannot and must not stand. 
+
+
+If the vote to terminate Mr. Umbehr’s contract did 
+not promote the health, safety and welfare of the people 
+of Wabaunsee County, it was reviewable in state court as 
+
+
+37 
+
+
+an arbitrary or oppressive act. Plainly there was more 
+than enough evidence confronting the Board of County 
+Commissioners to determine that the people would be 
+benefited by the termination of the contract. Any attempt 
+to reevaluate that evidence and reach a contrary conclu- 
+sion in a jury trial would be a substitution of the federal 
+court as the sovereign authority in the county, contrary to 
+the Tenth Amendment requirement that the people and 
+the states retain such power. 
+
+
+The will of the people, clearly expressed at the polls, 
+rejecting Mr. Umbehr as a proper person to control gov- 
+ernment policy in Wabaunsee County, cannot be overrid- 
+den by resort to U.S. District Court. Nor can the people 
+be punished for their votes by being required to pay Mr. 
+Umbehr damages, as if they had taken from him a prop- 
+erty interest in the trash hauling contract by reposing 
+their trust in persons who disagreed with his policies. 
+
+
+The people of Wabaunsee County have wronged no 
+one. They do not deserve to be punished simply because 
+Mr. Umbehr may prove to the satisfaction of a court and 
+jury that he succeeded in fomenting a personal vendetta 
+with elected officials. 
+
+
+The decision of the Tenth Circuit Court of Appeals 
+should be reversed, and the judgment of the United 
+States District Court for the District of Kansas granting 
+
+
+38 
+
+
+summary judgment to Petitioners on all claims should be 
+
+
+reinstated. 
+
+
+Respectfully submitted, 
+
+
+Steve R. FABERT 
+
+DONALD PATTERSON 
+
+FISHER, PATTERSON, SAYLER & 
+SmitH, L.L.P. 
+
+534 S. Kansas Avenue 
+
+Suite 400, P.O. Box 949 
+
+Topeka, Kansas 66601-0949 
+
+(913) 232-7761 
+
+Attorneys for Petitioners 
+
+

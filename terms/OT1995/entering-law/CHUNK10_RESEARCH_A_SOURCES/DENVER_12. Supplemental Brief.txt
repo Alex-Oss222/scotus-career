@@ -1,0 +1,415 @@
+Supreme Court, UY 
+FI k. E D 
+
+
+J 
+Nos. 95-124 and 95-227 
+
+
+In the Supreme Court of the 
+
+
+OCTOBER TERM, 1995 
+
+
+DENVER AREA EDUCATIONAL TELECOMMUNICATIONS 
+CONSORTIUM, INC., ET AL., PETITIONERS 
+
+
+FEDERAL COMMUNICATIONS COMMISSION, ET AL. 
+
+
+ALLIANCE FOR COMMUNITY MEDIA, ET AL., PETITIONERS 
+
+
+FEDERAL COMMUNICATIONS COMMISSION, ET AL. 
+
+
+ON WRITS OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE DISTRICT OF COLUMBIA CIRCUIT 
+
+
+SUPPLEMENTAL BRIEF 
+FOR THE FEDERAL RESPONDENTS 
+
+
+DREW S. Days, III 
+Solicitor General 
+Department of Justice 
+Washington, D.C. 205230 
+
+
+(202) 514-2217 
+
+
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+No. 95-124 
+
+
+DENVER AREA EDUCATIONAL TELECOMMUNICATIONS 
+CONSORTIUM, INC., ET AL., PETITIONERS 
+
+
+. 
+
+
+FEDERAL COMMUNICATIONS COMMISSION, ET AL. 
+
+
+No. 95-227 
+ALLIANCE FOR COMMUNITY MEDIA, ET AL., PETITIONERS 
+. 
+
+
+FEDERAL COMMUNICATIONS COMMISSION, ET AL. 
+
+
+ON WRITS OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE DISTRICT OF COLUMBIA CIRCUIT 
+
+
+SUPPLEMENTAL BRIEF 
+FOR THE FEDERAL RESPONDENTS 
+
+
+This brief is submitted pursuant to Supreme Court 
+Rule 25.5 to notify the Court of newly enacted leg- 
+islation. On February 8, 1996, the President signed 
+into law the Telecommunications Act of 1996, Pub. 
+L. No. 104-104 (the 1996 Act). The three provisions 
+
+
+(1) 
+
+
+2 
+
+
+of that statute noted herein are reprinted in the 
+Appendix to this brief. 
+
+1. Section 504 of the 1996 Act provides that, 
+upon request by a cable service subscriber, a cable 
+operator shall, without charge, fully scramble or 
+otherwise fully block the audio and video program- 
+ming of each channel carrying such programming so 
+that one not a subscriber does not receive it.” App., 
+infra, la. That provision generally enables subscrib- 
+ers to ensure that they will receive only those cable 
+channels to which they subscribe and that they will 
+not receive either the audio or video portions of any 
+channel to which they do not subscribe. It applies to 
+all cable channels, regardless of the content of the 
+channel or any of the programming on that channel. 
+In our view, it has no bearing on the legal issues in 
+this case. ! 
+
+2. Section 505 of the 1996 Act provides that a 
+“multichannel video programming distributor”’—a 
+phrase that includes cable operators, see 47 U.S.C. 
+522(12) (Supp. V 1993)—must scramble or block 
+“sexually explicit adult programming or other pro- 
+gramming that is indecent on any channel of its 
+service primarily dedicated to sexually-oriented 
+programming.” App., infra, 2a. That requirement 
+extends to both audio and video portions of such 
+programming. Until the distributor can commence 
+such scrambling or blocking, Section 505 requires the 
+distributor not to provide such programming “during 
+the hours of the day (as determined by the [Federal 
+Communications] Commission) when a significant 
+number of children are likely to view it.” Jbid.. 
+
+Section 505 neither modifies nor amends any of 
+the provisions of Section 10 of the 1992 Cable Act 
+that petitioners challenge in this case. Section 505, 
+
+
+3 
+
+
+however, has effects similar to Section 10(b) of the 
+1992 Cable Act in one respect. Section 10(b) provides 
+that cable operators who permit the showing of 
+indecent programming on commercial access chan- 
+nels must segregate such programming on separate 
+channels and block it unless and until the subscriber 
+requests access to it. Section 505’s blocking scheme 
+extends a similar requirement to channels “primarily 
+dedicated to sexually-oriented programming.” It 
+therefore may have relevance to petitioners’ under- 
+inclusiveness argument. See Alliance Br. 41-43; 
+DAETC Br. 47-48. 
+
+3. Section 506 of the 1996 Act includes two pro- 
+visions that amend sections of the Communications 
+Act providing that cable operators shall exercise no 
+editorial control over, respectively, PEG and leased 
+access channels. 
+
+a. Section 506(a) applies to PEG channels. Since 
+1984, the Communications Act has provided that “a 
+cable operator shall not exercise any editorial control 
+over any public, educational, or governmental use of 
+channel capacity.” 47 U.S.C. 581(e). One of the 
+provisions added in 1992 and challenged in this case, 
+however, permits operators to exercise limited 
+editorial control. Section 10(c) of the 1992 Cable Act 
+provides that the FCC “shall promulgate * * * 
+regulations * * * to enable a cable operator of 
+a cable system to prohibit the use * * * of any 
+[PEG channel] for any programming which contains 
+obscene material, sexually explicit conduct, or ma- 
+terial soliciting or promoting unlawful conduct.” 
+Pub. L. No. 102-385, 106 Stat. 1486 (47 U.S.C. 531 note 
+(Supp. V 1993)). See U.S. Br. 5-6 (discussing FCC’s 
+interpretation of that language). 
+
+
+4 
+
+
+Section 506(a) of the 1996 Act amends the earlier 
+provision regarding cable operators’ editorial control, 
+47 U.S.C. 531 e), to add the following language: 
+“except a cable operator may refuse to transmit any 
+public access program or portion of a public ac- 
+cess program which contains obscenity, indecency, 
+or nudity.” App., infra, 3a. Section 506(a) does not 
+amend Section 10(c), and no provision that petitioners 
+attack is altered by the new statute. 
+
+b. Section 506(b) makes virtually identical changes 
+to the leased access provisions of the Communica- 
+tions Act. Since 1984, the statute has provided that 
+Aa] cable operator shall not exercise any editorial 
+control over any video programming [on a leased 
+access channel], or in any other way consider the 
+content of such programming,” with a single ex- 
+ception not relevant here. 47 U.S.C. 532(c)(2). One 
+of the provisions challenged in this case, however, 
+permits operators to exercise limited editorial con- 
+trol. Section 10(a) of the 1992 Cable Act, codified at 47 
+U.S.C. 532ch) (Supp. V 1993), provides that It his 
+subsection shall permit a cable operator to enforce 
+prospectively a written and published policy of 
+prohibiting programming that the cable operator 
+reasonably believes describes or depicts sexual or 
+excretory activities or organs in a patently offensive 
+manner as measured by contemporary community 
+standards.” 
+
+Section 506(b) of the 1996 Act amends the earlier 
+provision regarding cable operators’ editorial control, 
+47 U.S.C. 532(c)(2), to provide that “a cable operator 
+may refuse to transmit any leased access program or 
+portion of a leased access program which contains 
+obscenity, indecency, or nudity.” App., infra, 3a. 
+Section 506(b) does not amend Section 10(a), and no 
+
+
+5 
+
+
+provision that petitioners attack is altered by the new 
+statute. 
+
+e. Insofar as Section 506 merely conforms the 
+previously unqualified language of 47 U.S.C. 531(e) 
+and 532(c)(2) to recognize a cable operator’s right to 
+prohibit obscene or indecent access programming 
+that had been the subject of Sections 10(a) and 10(c) of 
+the 1992 Cable Act, Section 506 has no effect on the 
+First Amendment rights of petitioners. If Section 
+506, however, is believed by petitioners or others to 
+have some additional effect on their claimed First 
+Amendment rights, their appropriate course would be 
+to challenge Section 506 in an action before a three- 
+judge court, pursuant to Section 561 of the 1996 Act. 
+
+
+Respectfully submitted. 
+
+
+Drew S. Days, III 
+Solicitor General 
+
+
+FEBRUARY 1996 
+
+
+m 
+
+
+R 
+> 
+
+
+W 
+
+
+5 
+nnn 
+3 N 5 a 1 = 5 Nen nnn a 
+
+
+a ee end ea 
+- N n 
+
+
+n 
+al — 
+
+
+= 
+
+
+5 
+1 5 
+
+
+2 n — 5 
+1 1 1 ae 1 a _ 
+| fe fiend age FA" . 
+
+
+9 
+U 
+8 N ¢ =! 
+* 
+* 
+3 
+9 « 5 
+Pe — oh ‘2 
+‘or r i — * 
+* 
+* 
+. 7 | 
+* 
+5 1 
+® 8 
+
+
+APPENDIX 
+
+
+The Communications Decency Act of 1996, enacted 
+as Title V of the Telecommunications Act of 1996, 
+Pub. L. No. 104-104, provides in pertinent part as 
+follows: 
+
+
+TITLE V—OBSCENITY AND VIOLENCE 
+
+
+* * * * * 
+
+
+SEC. 504. SCRAMBLING OF CABLE CHANNELS 
+FOR NONSUBSCRIBERS. 
+
+
+Part IV of title VI (47 U.S.C. 531 et seq.) is 
+amended by adding at the end the following: 
+
+
+“SEC. 640. SCRAMBLING OF CABLE CHANNELS 
+FOR NONSUBSCRIBERS. 
+
+
+“(a) SUBSCRIBER REQUEST.—Upon request by a 
+cable service subscriber, a cable operator shall, 
+without charge, fully scramble or otherwise fully 
+block the audio and video programming of each 
+channel carrying such programming so that one not a 
+subscriber does not receive it. 
+
+
+“(b) DEFINITION.—As used in this section, the 
+term ‘scramble’ means to rearrange the content of the 
+signal of the programming so that the programming 
+cannot be viewed or heard in an understandable 
+manner.”. 
+
+
+(la) 
+
+
+SEC. 505. SCRAMBLING OF SEXUALLY 
+EXPLICIT ADULT VIDEO SERVICE 
+PROGRAMMING. 
+
+
+(a) REQUIREMENT.—Part IV of title VI (47 U.S.C. 
+551 et seq.), as amended by this Act, is further 
+amended by adding at the end the following: 
+
+
+“SEC. 641. SCRAMBLING OF SEXUALLY 
+EXPLICIT ADULT VIDEO SERVICE 
+PROGRAMMING. 
+
+
+(a) REQUIREMENT.—In providing sexually explicit 
+adult programming or other programming that is 
+indecent on any channel of its service primarily 
+dedicated to sexually-oriented programming, a 
+multichannel video programming distributor shall 
+fully scramble or otherwise fully block the video and 
+audio portion of such channel so that one not a 
+subscriber to such channel or programming does not 
+receive it. 
+
+
+“(b) IMPLEMENTATION.—Until a multichannel video 
+programming distributor complies with the require- 
+ment set forth in subsection (a), the distributor shall 
+limit the access of children to the programming 
+referred to in that subsection by not providing such 
+programming during the hours of the day (as 
+determined by the Commission) when a significant 
+number of children are likely to view it. 
+
+(e) DEFINITION.—As used in this section, the 
+term ‘scramble’ means to rearrange the content of the 
+signal of the programming so that the programming 
+cannot be viewed or heard in an understandable 
+manner.”. 
+
+
+3a 
+
+
+(b) EFFECTIVE DATE.-——The amendment made by 
+subsection (a) shall take effect 30 days after the date 
+of enactment of this Act. 
+
+
+SEC. 506. CABLE OPERATOR REFUSAL TO 
+CARRY CERTAIN PROGRAMS. 
+
+
+(a) PUBLIC, EDUCATIONAL, AND GOVERNMENTAL 
+CHANNELS.—Section 61l(e) (47 U.S.C. 531(e)) is 
+amended by inserting before the period the following: 
+“except a cable operator may refuse to transmit any 
+public access program or portion of a public access 
+program which contains obscenity, indecency, or 
+nudity”. 
+
+
+(b) CABLE CHANNELS FOR COMMERCIAL USE.— 
+Section 612(c)(2) (47 U.S.C. 532(c)(2)) is amended by 
+striking “an operator” and inserting “a cable operator 
+may refuse to transmit any leased access program or 
+portion of a leased access program which contains 
+obscenity, indecency, or nudity and”. 
+
+

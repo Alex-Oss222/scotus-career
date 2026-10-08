@@ -1,0 +1,1385 @@
+Supreme Court, U.S. 0 
+FIL I PD 
+
+
+95 865 DEC 1 1995, 
+Nope fict OF THE CLERK 
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+UNITED STATES OF AMERICA, PETITIONER 
+9. 
+
+
+WINSTAR CORPORATION, ET AL. 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FEDERAL CIRCUIT 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+Drew S. Days, III 
+Solicitor General 
+
+
+FRANK W. HUNGER 
+Assistant Attorney General 
+
+
+PAUL BENDER 
+Deputy Solicitor General 
+
+
+JAMES A. FELDMAN 
+Assistant to the Solicitor 
+General 
+
+
+DOUGLAS LETTER 
+
+JACOB M. LEWIS 
+
+Scott R. MCINTOSH 
+Attorneys 
+
+
+Department of Justice 
+Washington, D.C. 20530 
+(202) 514-2217 
+
+
+8 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Whether the doctrine that a contract will be 
+interpreted to cede government regulatory authority 
+only if it does so in unmistakable terms is applicable 
+in a breach of contract action where the plaintiff 
+seeks money damages but not injunctive relief. 
+
+2. Whether, absent a specific congressional 
+authorization to do so, a federal agency may bind it- 
+self and its successors by contract to exercise gov- 
+ernmental regulatory authority in a particular way, 
+regardless of subsequent legislative changes. 
+
+3. Whether provisions of the Financial Institu- 
+tions Reform, Recovery and Enforcement Act of 1989 
+(FIRREA), Pub. L. No. 101-73, 103 Stat. 183, limiting 
+the ability of thrift institutions to use intangible 
+assets to satisfy minimum capitalization require- 
+ments were “public and general acts,” for purposes of 
+the sovereign acts doctrine. 
+
+
+(I) 
+
+
+PARTIES TO THE PROCEEDING 
+
+
+Aside from the parties named in the caption, United 
+Federal Savings Bank, Statesman Savings Holding 
+Corp., The Statesman Group, Inc., American Life and 
+Casualty Company, and Glendale Federal Bank, 
+
+
+F.S.B., were parties in the court of appeals. 
+
+
+(II) 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+111 l 
+D „ 2 
+Statutory provisions involved . 2 
+e eee es eeessseeeeeseeesSgesSesessegsssss 2 
+Reasons for granting the petit ion 13 
+r 26 
+TABLE OF AUTHORITIES 
+Cases: 
+Amino Brothers Co. v. United States, 372 F.2d 485 
+(Ct. Cl.), cert. denied, 389 U.S. 846 (1967) ........... 20, 22 
+Atlas Corp. v. United States, 895 F.2d 745 (Fed. 
+Cir.), cert. denied, 498 U.S. 811 (19900 . .. 22 
+Bowen v. Public Agencies Opposed to Social 
+Security Entrapment, 477 U.S. 41 (1986) 8, 14 
+
+
+15, 16, 17, 23 
+Carteret Savings Bank v. OTS, 963 F.2d 567 
+A 6, 17, 21 
+Charter Federal Savings Bank v. OTS, 976 F.2d 
+208 (4th Cir. 1992), cert. denied, 113 S. Ct. 1643 
+ES 16, 17, 18, 22 
+City of El Paso v. Simmons, 379 U.S. 497 (1965) .... 20 
+Deming v. United States, 1 Ct. Cl. 190 (1865), 
+appeal dismissed, 76 U.S. 145 (1870) ............0cccccee0e 22 
+Education Assistance Corp. v. Cavazos, 902 
+F. 2d 617 (8th Cir.), cert. denied, 498 U.S. 896 
+
+
+Z eee 25 
+Fahey v. Mallonee, 332 U.S. 245 (1947) 2 
+Federal Crop Insurance Corp. v. Merrill, 332 U.S. 
+
+1311 22 
+Flagship Federul Savings Bank v. Wall, 748 F. 
+
+e 18 
+
+(IIT) 
+
+
+Cases—Continued: Page 
+
+Guaranty Financial Services, Inc. v. Ryan, 928 
+
+Lee 17 
+Home Building & Loan Ass'n v. Blaisdell, 290 U.S. 
+
+11 ̃ͤ ͤ wꝛ]] . 20 
+Horowitz v. United States, 267 U.S. 458 
+
+. — —— —-V—-— 12. 13. 22 
+Hughes Communications Galary, Inc. v. United 
+
+States, 998 F.2d 953 (Fed. Cir. 1993) . 24 
+Lynch v. United States, 292 U.S. 571 (1934) ........... 23 
+Merrion v. Jicarilla Apache Tribe, 455 U.S. 130 
+
+0 A 14, 15 
+National Railroad Passenger Corp. v. Atchison, 
+
+Topeka & Santa Fe Ry., 470 U.S. 451 (19885) .......... 18-19 
+North American Commercial Co. v. United States, 
+
+III ee 20 
+
+
+Northern Pacific Ry. v. Minnesota, 208 U.S. 583 
+
+— . . ] 000 20 
+OPM v. Richmond, 496 U.S. 414 (1990) 21-22 
+Perry v. United States, 294 U.S. 330 (1935) ............ 23 
+RTC v. FSLIC, 34 F.3d 982 (10th Cir. 1994) .......... 17 
+Security Savings & Loan v. Director, OTS, 960 
+
+ZLI 5 
+Stone v. Mississippi, 101 U.S. 814 (1880) 20 
+Tony Downs Foods Co. v. United States, 530 F. 2d 
+
+L 22 
+Transcapital Financial Corp. v. Director, OTS, 
+
+44 F.3d 1023 (D.C. Cir. 1995) . . 17 
+Transohio Savings Bank v. Director, OTS, 967 
+
+F.2d 598 (D.C. Cir. 198) 5, 17, 21 
+United States v. Cherokee Nation, 480 U.S. 700 
+
+——K AA 14, 15, 16 
+United States Trust Co. v. New Jersey, 431 U.S. 1 
+
+6, a ee eee 20 
+
+
+V. 
+
+Veiz v. Sixth Ward Building & Loan Ass n, 310 
+
+ee 20 
+Welch v. Cook, 97 U.S. 541 (1878) . . 19 
+Western Fuels-Utah, Inc. v. Lujan, 895 F. 2d 780 
+
+(D.C, Cir.), cert. denied, 498 U.S. 811 (1990) .......... 25 
+Wisconsin & Michigan Ry. v. Powers, 191 U.S. 379 
+
+— . —y—-ꝛ- —— 19-20 
+
+Constitution, statutes and regulations: 
+
+U.S. Const. Art. I, § 10, Cl. 1 (Contract Clause) 20 
+
+
+Depository Institutions Deregulation and Monetary 
+Control Act of 1980, Pub. L. No. 96-221, 94 
+
+
+RR, BED —— 4 
+Emergency Home Finance Act of 1970, Pub. L. No. 
+
+„ 4 
+Federal Home Loan Bank Act, ch. 522, § 30, 47 Stat. 
+
+39 —— 21 
+
+
+Financial Institutions Reform, Recovery, and 
+Enforcement Act of 1989 Pub. L. No. 101-73, 103 
+
+
+1 ů ůů—ů——ů— ———— passim 
+
+12 U.S.C. L4BA(CM2ZKA) ) . 6 
+
+12 U.S.C. 14 8 TN INK —————.— 4. 5 
+
+1 1˙L2—„k⏓VuwW 4,5 
+
+4 K 5, 6 
+
+pK ————— 5 
+Garn- St Germain Depository Institutions Act of 1982, 
+
+Pub. L. No. 97-320, 96 Stat. 1469 ù 9 4 
+1115518 : 3 
+1. 3 
+I 18 
+12 U.S.C. NNO (19868) 21 
+111. „% „9% 2 3 
+12 C. F. R. 
+
+1 ———— 5 
+—— 5 
+
+
+Miscellaneous: Page 
+
+
+135 Cong. Rec. (1989): 
+T wicntttiaiidls cxcnditn mentennnisnnmrpncesctiiditiatiiastiind 5 
+99 —ů ———— —-—' 4 
+45 Fed. Reg. 72,681 (1980) . . . . 4 
+47 Fed. Reg. (1982): 
+
+
+p. 2 — 
+. iB nc = 5 to OO 2, 3, 4 
+
+
+In the Supreme Court of the United States 
+
+
+OcTOBER TERM, 1995 
+
+
+No. 
+UNITED STATES OF AMERICA, PETITIONER 
+. 
+
+
+WINSTAR CORPORATION, ET AL. 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FEDERAL CIRCUIT 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+The Solicitor General, on behalf of the United 
+States, respectfully petitions for a writ of certiorari 
+to review the judgment of the United States Court of 
+Appeals for the Federal Circuit in this case. 
+
+
+OPINIONS BELOW 
+
+
+The en banc opinion of the court of appeals (App. la- 
+52a) is reported at 64 F.3d 1531. The panel opinion of 
+
+
+the court of appeals (App. 53a-105a) is reported at 994 
+F. 2d 797. The opinions of the Court of Federal Claims 
+
+
+(App. 106a-152a, 153a-180a, 18la-182a, 183a-195a) are 
+reported at 21 Cl. Ct. 112, 25 Cl. Ct. 147, 25 Cl. Ct. 541, 
+and 26 Cl. Ct. 904. 
+
+
+(1) 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on 
+August 30, 1995. On November 22, 1995, Chief Justice 
+Rehnquist extended the time for filing a petition for a 
+writ of certiorari to and including December 6, 1995. 
+The jurisdiction of this Court is invoked under 28 
+U.S.C, 1254(1). 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+The relevant provisions of the Financial Institu- 
+tions Reform, Recovery, and Enforcement Act of 1989 
+(FIRREA), Pub. L. No. 101-73, 103 Stat. 183, are set 
+forth in the Appendix to this petition. App. 196a-204a. 
+
+
+STATEMENT 
+
+
+This petition concerns three separate cases that 
+were consolidated for appeal before the Federal Cir- 
+cuit. The circumstances of the three cases vary 
+somewhat, but they involve a common factual back- 
+ground and similar legal issues. 
+
+1. Savings and loan institutions or “thrifts” have 
+been the subject of pervasive federal support, supervi- 
+sion, and regulation since the 1930s. See Fahey v. 
+Mallonee, 382 U.S. 245, 250 (1947) (Ablanking is one 
+of the longest regulated and most closely supervised 
+of public callings”). The modern thrift industry is 
+now “a federally-conceived and assisted system to 
+provide citizens with affordable housing funds.” H.R. 
+Rep. No. 54, 101st Cong., Ist Sess. Pt. 1, at 292 (1989) 
+(House Report). 
+
+In the late 1970s and early 1980s, high interest 
+rates and inflation resulted in a substantial increase 
+in the cost of attracting deposits for thrifts. At the 
+same time, many thrifts held long-term, low-yielding 
+fixed rate mortgages. This “negative interest rate 
+
+
+putting more of their depositors’ money at risk. 
+House Report at 298-299; S. Rep. No. 19, 101st Cong., 
+Ist Sess. 9 (1989). The result was a record number of 
+failures of thrift institutions and a loss of public 
+confidence that threatened to engulf the entire 
+industry. 
+
+2. FIRREA was enacted in 1989 to prevent the 
+collapse of the thrift industry and to restore it to 
+economic health. This statutory scheme has provided 
+well over $100 billion in taxpayer money to close 
+insolvent institutions and recapitalize the federal 
+insurance fund protecting thrift deposits. 
+
+FIRREA modified the overall federal thrift regula- 
+tory scheme by: (1) abolishing the Federal Savings 
+and Loan Insurance Corporation (FSLIC) and trans- 
+ferring its functions to other agencies; (2) creating a 
+new thrift deposit insurance fund under the Federal 
+Deposit Insurance Corporation (FDIC); (3) eliminat- 
+ing the Federal Home Loan Bank Board (the Bank 
+Board) and replacing it with the Office of Thrift 
+Supervision (OTS)—an office within the Department 
+of the Treasury—and making the OTS Director re- 
+sponsible for regulation of all federally insured 
+savings associations and chartering of federal thrifts; 
+and (4) establishing the Resolution Trust Corpora- 
+tion (RTC), charged with resolving certain closed 
+thrifts. See 12 U.S.C. 1437 note, 1441a, and 1821. 
+
+
+1 
+
+
+At the heart“ of this legislative reform (135 Cong. 
+Rec. 18,863 (1989) (Sen. Riegle)) was the requirement 
+that OTS “prescribe and maintain uniformly applica- 
+ble capital standards for savings associations,” sub- 
+ject to strict statutory constraints. 12 U.S.C. 
+1464(t)(1)(A). The federal regulatory scheme had long 
+imposed certain capital requirements on federally 
+insured institutions, including both requirements of 
+minimal capitalization and restrictions on what could 
+be counted as capital in determining whether those 
+requirements were satisfied.“ FIRREA prescribed 
+three strict new minimum capital requirements that 
+thrifts must satisfy. See 12 U.S.C. 1464(t)(2) (re- 
+quirements for “core capital,” “tangible capital,’ and 
+“risk-based capital”), reprinted at App. 196a-198a. 
+The new strengthened capital requirements were 
+considered crucial to prevent a recurrence of the 
+thrift crisis since, in Congress’s view, “[t]o a con- 
+siderable extent, the size of the thrift crisis resulted 
+from the utilization of capital gimmicks that masked 
+the inadequate capitalization of thrifts.” House 
+Report at 310. 
+
+From 1981 until the enactment of FIRREA, the 
+Bank Board had permitted thrifts to use “goodwill” 
+
+
+Those requirements have been the subject of numerous 
+statutory and regulatory changes over the years. See, ¢.g., 
+Garn-St Germain Depository Institutions Act of 1982, Pub. L. 
+No. 97-320, 96 Stat. 1469; Depository Institutions Deregulation 
+and Monetary Control Act of 1980, Pub. L. No. 96-221, 94 Stat. 
+132; Emergency Home Finance Act of 1970, Pub. L. No. 91-351, 
+84 Stat. 450. In 1982 alone the regulations governing thrift 
+capital reserve requirements changed three times. See 47 Fed. 
+Reg. 3543 (1982); id. at 31,859; id. at 52,961. See also 45 Fed. 
+Reg. 72,681 (1980) (Bank Board proposal to change regulatory 
+treatment of goodwill). 
+
+
+5 
+
+
+to satisfy federal regulatory capital requirements. 
+Goodwill is an intangible “asset” that, under Gener- 
+ally Accepted Accounting Principles (GAAP), equals 
+the amount by which the cost of an acquisition 
+(including all liabilities assumed by the acquirer) 
+exceeds the fair market value of the acquired tangible 
+assets. In the context of a supervisory merger, when 
+such goodwill existed, it was known as “supervisory 
+goodwill.” Thus, the surviving thrift could declare as 
+an asset the merged thrift’s net worth deficit. 
+
+Another type of intangible asset involved in this 
+case is Regulatory Accounting Practices goodwill, or 
+“capital credits.” The Bank Board often allowed 
+double counting of funds that FSLIC contributed to 
+merging thrifts, permitting such funds to be counted 
+both as cash and again as goodwill for purposes of 
+meeting regulatory requirements. See Security 
+Savings & Loan v. Director, OTS, 960 F.2d 1318, 1320 
+n.5 (5th Cir. 1992); Transohio Savings Bank v. 
+Director, OTS, 967 F.2d 598, 604 (D.C. Cir. 1992). 
+
+To strengthen the financial soundness of federally 
+insured thrifts, FIRREA severely restricted the 
+ability of thrifts to use intangible assets like supervi- 
+sory goodwill or capital credits to meet the statute’s 
+three new minimum capital requirements. 12 U.S.C. 
+1464(t)(1)(A), 1464(t)(2) and (3); 1464(t)(9); 12 C. F. R. 
+567.2, 567.5. As Congress recognized, Igloodwill is 
+not cash. It is a concept, and a shadowy one at that. 
+When the Federal Government liquidates a failed 
+thrift, goodwill is simply no good. It is valueless. 
+That means, quite simply, that the taxpayer picks up 
+the tab for the shortfall.” 135 Cong. Rec. 11,795 
+(1989). 
+
+Although it places limits on the use of intangible 
+assets to meet federal capital requirements, FIRREA 
+
+
+6 
+
+
+does not eliminate such use altogether. FIRREA 
+initially allowed some supervisory goodwill to be used 
+for meeting some federal capital requirements, and it 
+also permits goodwill to be counted for the purpose of 
+determining the extent to which thrifts may make 
+certain types of loans and investments. See, e. ., 12 
+U.S.C. 1464(c)(2)(A), 1464(t)(3). Although limited dis- 
+cretion was given to OTS, the statute itself set forth 
+most of the restrictions on the use of intangible as- 
+sets like goodwill. See Carteret Savings Bank v. 
+OTS, 963 F.2d 567, 574-582 (3d Cir. 1992). 
+
+3. Respondents are the owners of two now-defunct 
+thrift institutions (United Federal Savings Bank, 
+which was owned by plaintiff Winstar Corporation, 
+and Statesman Bank for Savings, which was owned by 
+plaintiff Statesman Savings Holding Corp.), and one 
+currently operating thrift, Glendale Federal Bank, 
+FSB, which were involved in mergers or acquisitions 
+of thrifts prior to 1989. Following enactment of 
+FIRREA, respondents filed three separate actions 
+against the United States in the Court of Federal 
+Claims, seeking monetary relief for asserted breach 
+of contract or frustration of purpose caused by 
+FIRREA, or just compensation for a claimed taking 
+of constitutionally protected property rights. The 
+contract and property right that respondents claim is 
+the right to treat supervisory goodwill as capital for 
+purposes of satisfying federal capital requirements 
+for periods of 25 to 40 years and, ia the case of 
+Statesman, to treat capital credits as capital indefi- 
+nitely. 
+
+Respondents based their contract claims primarily 
+on agreements that they signed with the FSLIC, 
+and on regulatory resolutions and letters issued 
+by the Bank Board governing transactions in which 
+
+
+7 
+
+
+goodwill was created. The material facts in each of 
+the three cases differ to some extent, but they raise 
+the same pivotal legal issues. 
+
+Each of the three cases involves either a merger or 
+an acquisition under which one thrift voluntarily 
+merged with or took over one or more failing thrifts 
+in 1981 (Glendale), 1983 (Winstar), and 1987 (States- 
+man). App. Sa, 9a, lla. In each instance, the thrifts 
+needed the regulatory approval of the Bank Board for 
+the merger or acquisition. In each instance, the 
+thrift and the FSLIC also entered into an agreement 
+setting the terms of the transaction, as well as the 
+terms of actual or potential government assistance.’ 
+In all three instances, those contracts provided that 
+“(njothing in this Agreement shall require any 
+unlawful action or inaction” by the parties. App. 82a. 
+
+In each of the three transactions, goodwill was 
+created. In each case, the Bank Board issued 
+“forbearance letters” under which the agency stated 
+that it would forbear in certain circumstances from 
+bringing enforcement proceedings against the thrifts 
+for failing to satisfy regulatory capital requirements 
+following the merger or acquisition. The Bank Board 
+also issued resolutions permitting each thrift to use 
+GAAP principles, under which substantial amounts of 
+goodwill would be amortized over lengthy periods: 
+Glendale involved $716 million to be amortized by the 
+thrift over 40 years, App. 9a, Winstar involved $9.1 
+million to be amortized by the thrift over 35 years, 
+App. 28a, 171a, and Statesman involved $25.8 million in 
+goodwill to be amortized over 25 years, App. 10a. In 
+
+
+2 In Winstar, the government contributed over $5.5 million 
+to the transaction, App. 194a. In Statesman, the government 
+contributed $60 million, App. 10a. 
+
+
+8 
+
+
+addition, the supervisory assistance agreement be- 
+tween FSLIC and Statesman expressly permitted 
+Statesman to count $26 million of the federal cash 
+contribution as a “capital credit” that “[flor purposes 
+of reports to the Bank Board * * * shall be credited 
+to [Statesman’s] regulatory capital account and shall 
+constitute regulatory capital.” C.A. App. 803. 
+
+Under FIRREA’s stringent new regulations limit- 
+ing the use of intangible assets to meet the new 
+regulatory capital requirements, none of the intangi- 
+ble assets created in any of the three transactions 
+could continue to be counted as capital. The Winstar 
+and Statesman thrifts, like many other thrifts at the 
+time, were unable to meet the new capitalization 
+requirements, and were placed in receivership; they 
+no longer exist. Glendale raised the necessary new 
+capital in private markets and is today an operating 
+thrift. App. 14a. 
+
+4. In each of these three cases, the Court of Fed- 
+eral Claims held that the subject thrift had a contract 
+with the government guaranteeing favorable long- 
+term regulatory treatment of goodwill, and that 
+Congress through FIRREA breached that contract 
+by restricting the use of existing goodwill to meet the 
+new capitalization mandates. 
+
+In Winstar, the trial court held that the thrift 
+had an implied-in-fact contract with the govern- 
+ment concerning treatment of goodwill. App. 187a. 
+The court rejected the government’s argument that 
+the thrift’s claims were defeated by the “unmis- 
+takability doctrine” derived from this Court’s de- 
+cision in Bowen v. Public Agencies Opposed to Social 
+Security Entrapment (POSSE), 477 U.S. 41, 52-53 
+(1986), and other cases. That doctrine provides that a 
+contract will not be construed to waive sovereign 
+
+
+9 
+
+
+regulatory authority unless the intent to do so is 
+expressed by the contract in unmistakable terms. 
+App. 157a-170a. The court concluded that FIRREA 
+had breached the implied contract by restricting use 
+of goodwill for regulatory capitalization purposes. 
+App. 171la-172a. 
+
+The trial court also rejected the government’s ar- 
+gument that there could be no liability for breach of 
+contract in any event because of the “sovereign acts” 
+doctrine, which precludes breach of contract actions 
+against the government where the government’s 
+inability to perform is the result of a “public and 
+general act” of the Congress. The court found this 
+doctrine inapplicable because, in the court’s view, 
+FIRREA was not a “public and general act” insofar 
+as it abrogated the contracts of a particular class of 
+entities that had contracted to use supervisory 
+goodwill to satisfy federal capital requirements. App. 
+173a-179a. The court announced that, in subsequent 
+proceedings, it would determine the amount of the 
+injuries, if any, and the appropriate measure of dam- 
+ages. App. 180a. 
+
+The trial court relied on its Winstar ruiings 
+regarding the unmistakability and sovereign acts 
+doctrines in its subsequent rulings in Statesman and 
+Glendale. The court held that the thrifts in those 
+cases had express contracts with the government 
+concerning regulatory treatment of goodwill. App. 
+120a-125a. The court rejected the government’s 
+argument that the contracts themselves contained 
+clauses making clear that they were subject to 
+changes in the regulatory scheme. App. 125a-132a. 
+The court concluded that the contracts covering 
+Statesman and Glendale had been breached by 
+FIRREA. It consolidated the two cases, combined 
+
+
+10 
+
+
+them with Winstas, and certified its order for imme- 
+diate interlocutory appeal. App. 150a-152a. 
+
+5. The Federal Circuit accepted the consolidated 
+cases for interlocutory appeal, and a divided panel of 
+the court reversed the decision of the Court of 
+Federal Claims. The panel held that the plaintiffs had 
+failed to meet the high standard for showing that 
+their contracts contained terms guaranteeing them a 
+specified form of favorable regulatory treatment for 
+lengthy periods stretching well into the next 
+century. App. 53a-105 a. The Federal Circuit then 
+granted respondents’ petitions for rehearing en banc. 
+After rebriefing and reargument before the full court, 
+the court reversed the panel decision and affirmed the 
+trial court’s ruling on contract breach liability. App. 
+la-46a. 
+
+The Federal Circuit held that the express con- 
+tracts into which FSLIC had entered with all three 
+thrifts included promises that all three could count 
+supervisory goodwill (and Statesman could count 
+capital credits as well) as capital for purposes of 
+satisfying federal capital requirements. App. 17a-29a. 
+As noted above, pp. 7-8, supra, Statesman’s supervi- 
+sory assistance agreement (SAA) expressly per- 
+mitted it to use $26 million of capital credits to satisfy 
+federal capital requirements. App. 24a. None of the 
+SAAs, however, contained express provisions per- 
+mitting supervisory goodwill to be similarly used. 
+The court held that each thrift’s “contract was not 
+limited to the SAA itself, but also included the 
+contemporaneous resolutions and letters issued by 
+the FSLIC and the Bank Board.” App. 17a (Glendale); 
+see App. 25a (Statesman), 27a (Winstar). In each case, 
+the court found in those documents the crucial term 
+promising that supervisory goodwill could be counted 
+
+
+2 
+
+
+11 
+
+
+for the next 40 years (Glendale), 25 years (States- 
+man), or 35 years (Winstar) to satisfy regulatory 
+capital requirements. App. 18a-22a (Glendale); 25a-26a 
+(Statesman); 28a (Winstar). The court also found 
+that the FSLIC and Bank Board had the authority to 
+enter into contracts containing those terms. App. 
+39a. 
+
+The Federal Circuit held that the unmistakability 
+doctrine—pursuant to which contractual promises by 
+the government to exercise its regulatory authority 
+in a certain way will be found only if expressed in 
+unmistakable terms—has no application in this case. 
+App. 3la-38a. The Federal Circuit agreed with the 
+trial court that the unmistakability doctrine applies 
+where plaintiffs are seeking to hold the govern- 
+ment to an alleged bargain by seeking injunctive 
+relief, and not where, as here, plaintiffs are only 
+seeking contract damages. App. 3la-38a. The Federal 
+
+
+L 
+
+
+For example, in Glendale, the court relied on a Bank 
+Board resolution requiring Glendale to furnish an accountant's 
+opinion that (a) indicates the justification under [GAAP] for 
+the use of the purchase method of accounting for its merger 
+with Broward, (b) specifically describes * * * any goodwill or 
+of assets arising from the merger to be recorded on 
+8 books, and (c) substantiates the reasonableness of 
+amounts attributed to goodwill and the discount of assets and 
+the resulting amortization periods and methods.” App. 18a 
+required Glendale to “submit a 
+
+any goodwill arising from this transaction shal! 
+be determined and amortized in accordance with” a Bank 
+Board memorandum providing that Lan application 
+requesting approval for a business combination to be accounted 
+for by the purchase method of accounting, from which 
+intangible assets will result, should include a description of any 
+resulting intangible assets and the plan for their amortization.” 
+
+
+5 
+F 
+B 
+
+
+12 
+
+
+Circuit also ruled that the sovereign acts doctrine is 
+inapplicable in these cases. In the court’s view, 
+FIRREA cannot be said to be a “public and general 
+act” because it “singles out supervisory goodwill for 
+special treatment, albeit treatment less Sarsh than 
+other forms of intangible assets.” App. 42a. 
+
+Judge Nies dissented, essentially for the reasons 
+given in her prior opinion for the panel. App. 47a-48a. 
+In her view, “no clause can be found in the contracts 
+under which the Bank Board and the FSLIC promised 
+to pay if Congress decided to step in and do away with 
+the ‘purchase method of accounting,’ a euphemism for 
+spinning straw into gold, and other accounting gim- 
+micks.” App. 48a. Therefore, lin this highly regu- 
+lated industry, the thrifts did not negotiate contracts 
+that freed them from the risk of a change in re- 
+gulations.” App. 48a. She also stated that the major- 
+ity’s approach “impermissibly fuses ‘the two charac- 
+ters which the government possesses as a contractor 
+and as a sovereign.’” App. 47a (quoting Horowitz v. 
+United States, 267 U.S. 458, 461 (1925)). In her view, 
+the thrifts’ sole possible remedy at this point was to 
+seek compensation for a taking, and she believed that 
+the matter should be remanded to the trial court for a 
+determination of whether a taking had occurred. App. 
+47a. 
+
+Judge Lourie also dissented. He believed that “the 
+sovereign acts doctrine is a barrier to the thrifts’ 
+recovery under a breach of contract theory.” App. 
+49a. In his view, FIRREA was a public and general 
+act because “Congress did not act only against cer- 
+tain thrifts or contracts; it acted to deal with the 
+entire thrift system in order to save it.“ App. 50a-5la. 
+Judge Lourie relied on this Court’s holding in 
+Horowitz that “the United States when sued as a 
+
+
+13 
+
+
+contractor cannot be held liable for an obstruction to 
+
+
+the performance of [a] particular contract resulting 
+from its public and general acts as a sovereign.” App. 
+49a (quoting Horowitz, 267 U.S. at 461). 
+
+REASONS FOR GRANTING THE PETITION 
+
+
+The en bane decision by the Federal Circuit re- 
+garding the application of the unmistakability doc- 
+trine is in conflict with rulings of other circuits as 
+well as with this Court’s application of the doctrine. 
+The court’s decision also incorrectly resolves im- 
+portant questions concerning the authority of 
+executive branch officials to commit the government 
+to refrain from future exercises of sovereign 
+regulatory authority, and it misconceives the scope of 
+the sovereign acts doctrine. The decision may, in 
+addition, have an enormous fiscal impact upon the 
+federal government. It directly affects over 90 cases 
+that are pending in the Court of Federal Claims and 
+have been stayed awaiting a ruling in this case. The 
+issues raised are also present in cases pending in the 
+Ninth Circuit and in several district courts. The 
+pending cases involve a total of approximately $10 
+billion in goodwill. The decision below also estab- 
+lishes precedent in the Federal Circuit, which could 
+affect a wide range of government contract cases 
+outside the thrift context. Review by this Court is 
+therefore warranted. 
+
+I. a. The alleged contractual terms on which 
+respondents rest their claims of breach in this case 
+would have committed the government to exercise its 
+regulatory authority in a particular way over a period 
+of between 25 and 40 years (or forever, in the case of 
+Statesman’s capital credits). Under respondents’ 
+theory, those terms would have to be construed to 
+
+
+14 
+
+
+have bargained away the discretion of the then- 
+existing federal regulatory authorities under the 
+then-existing statutory scheme to interpret and 
+enforce then-existing capital requirements. They 
+would also have to be construed to have bargained 
+
+
+away Congress’s right to change the law—as it did in 
+FIRREA—to overhaul federal regulation of thrift 
+
+
+institutions by strengthening capital requirements. 
+The alleged contractual terms thus fall squarely 
+within the unmistakability principle articulated by 
+this Court in Bowen v. Public Agencies Opposed to 
+Social Security Entrapment (POSSE), 477 U.S. 41, 
+52-53 (1986); Merrion v. Jicarilla Apache Tribe, 455 
+U.S. 130, 148 (1982), and United States v. Cherokee 
+Nation, 480 U.S. 700, 707 (1987). 
+
+In POSSE, the Court held that States that entered 
+into contracts with the federal government that gave 
+them the right to withdraw their employees from the 
+social security system had not obtained the right to 
+enforce those provisions when subsequent legislation 
+made withdrawal of state employees illegal. The 
+Court relied on the principle that “courts should be 
+extremely reluctant to construe [agreements] in a 
+manner that forecloses Congress’ exercise of [its 
+sovereign] authority.” 477 U.S. at 52. The Court 
+concluded that “contractual arrangements, including 
+those to which a sovereign itself is party, ‘remain 
+subject to subsequent legislation’ by the sovereign.” 
+Ibid. 
+
+In POSSE, the Court referred to its decision in 
+
+Merrion v. Jicarilla Apache Tribe, 455 U.S. 130, 148 
+(1982), for the governing legal principles. See 477 
+U.S. at 52. Merrion involved an Indian Tribe’s claim 
+to the right to impose a severance tax on oil and gas 
+production on Reservation land. The Tribe 
+
+
+E 
+
+
+15 
+
+
+previously negotiated leases with the oil and gas 
+producers that included royalty payments to the 
+Tribe. The Court held that, absent an unmistakable 
+surrender of its sovereign right to impose a tax, the 
+Tribe’s action in negotiating the royalty payments 
+should not be construed as a surrender of that right. 
+The Court stated that “sovereign power, even when 
+unexercised, is an enduring presence that governs all 
+contracts subject to the sovereign’s jurisdiction, and 
+will remain intact unless surrendered in unmistak- 
+able terms.” 455 U.S. at 148. 
+
+In United States v. Cherokee Nation, 480 U.S. 700, 
+707 (1987), the Court invoked the unmistakability 
+doctrine to find that a federal agreement to cede fee 
+simple title to a riverbed to an Indian Tribe should not 
+be construed to have surrendered the federal naviga- 
+tional servitude. Citing POSSE, the Court stated 
+that a waiver of “sovereign authority will not be im- 
+plied but instead must be surrendered in unmis- 
+~ a terms.” Ibid. (quoting POSSE, 477 U.S. at 
+
+b. The Federal Circuit expressly declined to apply 
+the unmistakability doctrine in this case. In doing so, 
+the court of appeals did not question the proposition 
+that the claimed contractual terms involved the 
+exercise by the government of its sovereign re- 
+gulatory authority. Instead, the court relied on the 
+fact that It he thrifts did not ask for * * * 
+injunctive relief that would have enjoined the thrift 
+regulators from applying the FIRREA requirements 
+to the thrifts” and “[mJjoney damages, in contrast to 
+injunctive relief, presents little threat to the 
+government’s sovereign powers.” App. 37a. 
+
+This ruling by the Federal Circuit conflicts with 
+this Court’s consistent treatment of the unmis- 
+
+
+16 
+
+
+takability doctrine as a principle governing contract 
+interpretation, not contract relief. The Court has 
+never suggested that a plaintiff may recover on a 
+claim that the government failed to honor an implied 
+contractual term regarding the exercise of its sover- 
+eign regulatory authority, so long as the plaintiff 
+seeks only monetary relief. Indeed, in Cherokee 
+Nation, the plaintiffs did not seek injunctive relief, 
+but instead sought “compensation [under the Takings 
+Clause] for damage to the[] riverbed interests” that 
+they alleged had been damaged. 480 S. at 701. 
+Notwithstanding that monetary claim, the Court 
+applied the doctrine that “a waiver of sovereign 
+authority will not be implied, but instead must be 
+‘surrendered in unmistakable terms.’” 480 U.S. at 
+707 (quoting POSSE, 477 U.S. at 52). 
+
+The Federal Circuit’s ruling also conflicts with the 
+decision of the Fourth Circuit in Charter Federal 
+Savings Bank v. OTS, 976 F.2d 203 (4th Cir. 1992), 
+cert. denied, 113 S. Ct. 1643 (1993). Charter Federal 
+involved claims regarding treatment of goodwill that 
+are virtually identical to the claims in the cases at 
+bar. The plaintiff thrift in Charter Federal sought 
+“a declaratory judgment concerning its contractual 
+rights” that the parties understood could “later 
+servel] as a basis for money damages.” 976 F.2d at 
+209-210. The court rejected plaintiff’s claims by 
+applying the unmistakability doctrine. The court 
+held that, “[wJhere the federal government is a party 
+to a contract, courts should apply al!!! * special 
+rule of contract construction.” 976 F.2d at 211. 
+Citing this Court’s decision in POSSE, the court 
+observed that the “FHLBB approved [the thrift’s] use 
+of supervisory goodwill under its then statutory 
+discretion to permit such accounting practices, but 
+
+
+17 
+
+
+made no explicit promise to [the thrift] of continued 
+approval throughout the life of the amortization 
+period.” 976 F.2d at 212. Without a more explicit 
+promise, we will not enlarge the scope of guarantees 
+given to Charter.” Jbid.‘ 
+
+Had the court of appeals applied the unmistakability 
+doctrine, it could not have reached the result it did. 
+The strongest argument in these cases for finding an 
+unmistakable contractual commitment not to employ 
+the sovereign power of the federal government was 
+presented by the provision in Statesman’s contract 
+with the FSLIC that expressly provided that States- 
+man could treat its capital credit as an asset to 
+
+
+The courts of appeals have similarly applied the unmis- 
+takability doctrine as a principle of contract interpretation in 
+actions for injunctive relief arising in a factual setting similar 
+to that in these cases. In Guaranty Financial Services, Inc. v. 
+Ryan, 928 F.2d 994, 1000-1001 (11th Cir. 1991), the Eleventh 
+Circuit held that courts in such cases must apply the rule of 
+construction “that one who wishes to obtain a contractual right 
+against the sovereign that is immune from the effect of future 
+changes in law must make sure that the contract confers such a 
+right in unmistakable terms.” See also Carteret, 963 F.2d at 
+574 (noting relevance of unmistakability doctrine to thrift 
+claims of contract rights the same as those raised here). 
+Although the D.C. Circuit has suggested that it is possible that 
+there is a distinction between actions for injunctive and for 
+
+relief, see Transcapital Financial Corp. v. Director, 
+OTS, 44 F.3d 1023, 1025-1026 (D.C. Cir. 1995), that court has 
+also denied contractual claims for injunctive relief in a situation 
+virtually identical to those involved in these cases. See 
+Transohio Savings Bank v. Director, OTS, 967 F.2d 598 (D.C. 
+Cir. 1992). By contrast, although not mentioned by the Federal 
+Circuit, the Tenth Circuit has also found the unmistakability 
+doctrine inapplicable outside the injunctive context. RTC v. 
+FSLIC, 34 F.3d 982 (10th Cir. 1994). 
+
+
+18 
+
+
+satisfy federal capital requirements. See pp. 7-8, 
+supra. That contract, however, was subject to three 
+provisions that clearly provide that any term in the 
+contract could be vitiated by subsequent legislation. 
+These provisions required Statesman to comply with 
+all statutes, regulations, and orders of the United 
+States regarding the conduct of Statesman’s busi- 
+ness, provided that nothing in the agreement would 
+require any unlawful action by either party, and 
+stated that, if any provision in the agreement were to 
+be invalid or unenforceable, the remaining provisions 
+would still have full force and effect. App. 126a; C.A. 
+App. 853, 854, 855. 
+
+The claims of all three thrifts regarding supervi- 
+sory goodwill rest on far weaker footing. Indeed, the 
+express commitment that Statesman obtained re- 
+garding treatment of its capital credit highlights the 
+failure of any of the three thrifts to obtain a like 
+commitment regarding the use of supervisory good- 
+will to satisfy capital requirements. Nowhere in 
+any of the three cases did the contracts—even if 
+construed to include Bank Board resolutions and 
+letters - mention the use of supervisory goodwill to 
+
+
+5 Bank Board resolutions were not contract documents; they 
+were regulatory agency decisions issued in informal agency 
+adjudica.:ons approving applications by thrifts to consummate 
+mergers that could not have been completed without first 
+obtaining regulatory approval (see, e., 12 U.S.C. 1464 (1988)). 
+See Charter, 976 F.2d at 211 (“resolutions issued by the [Hank 
+Board] in connection with the mergers merely granted that 
+agency's approval of the merger and the accounting practices 
+employed by (the thrift] in connection therewith,” did not 
+constitute a contract); Flagship Federal Savings Bank v. Wall, 
+748 F. Supp. 742, 748 (8.D. Cal. 1990) (“the forbearance letter 
+was not a contract but a statement by the [Hank Board) that it 
+would not prosecute”). Cf. National Railroad Passenger Corp. 
+
+
+19 
+
+
+meet federal capital requirements, much less grant 
+the thrifts permission to use supervisory goodwill for 
+that purpose for many years, regardless of changes in 
+the governing — and a thorough overhaul of the 
+regulatory syste 
+
+2. Even if the Federal Cireuit’s failure to apply the 
+
+
+rning the exercise of legislative ¢ power 
+ion. . The Federal Circuit construed the 
+promise that the federal 
+government would continue to permit supervisory 
+dwill and capital credits to be counted as capital 
+for purposes of federal thrift capitalization require- 
+ments. The court construed that promise to extend 
+for periods of up to 40 years into the future, regard- 
+less of any change e in the law. It is doubtful whether 
+
+
+exercise of federal 414 authority could bind 
+the 1ꝓ⁵..ſ̃ 4 branch of the federal Ar 
+
+
+rl a to enter into such arrangements. 
+
+More than a century ago, this Court held that there 
+can be no contract t to a regulatory scheme, 
+regardless of a par y's expectations to the contrary. 
+See Welch v. Cook, 97 U.S. 541, 542 (1878); Wisconsin 
+& Michigan Ry. v. Powers, 191 U.S. 379, 386-387 
+
+
+v. Atchison, Topeka 4 Santa Fe Ry., “470 U.S. 451, 465-469 
+(1985) (no contractual rights had been created when repealed 
+statutory provision had merely stated a regulatory policy). 
+
+
+(1908). “[Gjovernmental [regulatory] powers cannot 
+be contracted away.” North American Commercial 
+Co. v. United States, 171 U.8. 110, 137 (1898); North- 
+ern Pacific Ry. v. Minnesota, 208 U.S. 583, 598 (1908); 
+City of El Paso v. Simmons, 379 U.S. 497, 508-509 
+(1965); Amino Brothers Co. v. United States, 372 F. 2d 
+485, 491 (Ct. Cl.), cert. denied, 389 U.S. 846 (1967)." 
+Because “the legislature cannot bargain away the 
+police power of a State,” Stone v. Mississippi, 101 
+U.S. 814, 817 (1880), this Court has consistently ruled 
+that the Contract Clause in the Constitution does not 
+require governments “to adhere to a contract that 
+surrenders an essential attribute of its sovereignty.” 
+United States Trust Co. v. New Jersey, 431 U.S, 1, 28 
+(1977). To hold otherwise would impermissibly permit 
+legislators or unelected federal regulatory officials to 
+use contracts with private individuals to commit 
+subsequent legislatures not to take actions that are 
+in the public interest. See United States Trust, 431 
+U.S. at 45 (Brennan, J., dissenting). See also Home 
+Building & Loan Ass'n v. Blaisdell, 290 U.S, 398, 
+434-444 (1934). 
+
+The Federal Circuit in this case nevertheless held 
+that “the Bank Board and the FSLIC, as the principal 
+regulators of the thrift industry, were fully em- 
+powered to enter into the contracts at issue here.” 
+App. 39a. In support of that holding, the court cited 
+only the general provision in FSLIC’s statutory 
+charter granting it authority At lo make contracts,” 
+
+
+6 In Veix v. Sizth Ward Building & Loan Ass'n, 310 U.S. 
+82 (1940), the Court rejected a Contract Clause challenge to a 
+state statute altering the scheme of regulation of a thrift. The 
+Court held that the regulations governing the thrift had always 
+remained “subject to the paramount police power.” Id. at 38. 
+
+
+21 
+
+
+and other general provisions permitting FPSLIC and 
+the Bank Board “to extend assistance to acquirers of 
+insolvent FSLIC-insured thrifts * * * and to set 
+minimum capital limits on a case-by-case basis.” App. 
+39a. Those provisions establish that FSLIC had 
+authority to enter into assistance agreements. They 
+may also establish that the then-existing regulatory 
+agencies had the authority to grant capital for- 
+bearances.’ The cited provisions do not, however, 
+provide even a hint that Congress intended to grant 
+FSLIC or the Bank Board the authority to commit 
+Congress not to modify the governing statutes.’ Nor 
+do they suggest that FSLIC or the Bank Board had 
+the authority to commit successor agencies operating 
+under a new set of statutory requirements to permit 
+thrifts to calculate their capital in a way that 
+Congress had made illegal.“ Compare OPM . 
+
+
+The FSLIC could not grant financial assistance to thrifts if 
+the amount of assistance would be greater than the cost of 
+liquidating the institution. See 12 U.S.C. 1729(f)(4)(A) (1988) 
+(now repealed). In light of that provision, it is highly unlikely 
+that the FSLIC had authority to enter binding contracts 
+whereby the United States would assume a risk, if Congress 
+later changed thrift capitalization rules, of having to nay 
+contract breach damages that would exceed the cost of closing 
+the thrift. 
+
+To the contrary, as the D.C. Circuit noted, “the Bank 
+Board statute, like the law in POSSE, contains an express 
+reservation of It he right to alter, amend or repeal this 
+chapter.” Transohio Savings, 967 F. 2d at 623, quoting Section 
+80 of the Federal Home Loan Bank Act, ch. 522, 47 Stat. 741 
+(1982). 
+
+* Respondents were on notice that Congress could at any 
+point affect their agreements by changing the regulatory 
+scheme, as it had done so many times in the past. See note 1, 
+supra; Carteret, 963 F.2d at 581 (noting the “massively 
+
+
+Richmond, 496 U.S. 414 (1990); Federal 2 
+Insurance Corp. v. Merrill, 382 U.S. 380, 383-8 
+(1947). | abe 
+
+8. The Federal Circuit also erred in finding the 
+“sovereign acts” doctrine inapplicable here. Under 
+that doctrine, parties to a contract are immune from 
+liability for breach of contract when the government 
+has acted in its sovereign capacity, regardless of 
+whether such actions infringe existing contractual 
+rights or create additional monetary burdens on 
+private parties who have contracted with the govern- 
+ment. See Horowitz v. United States, 267 U.S. 458, 
+461 (1925). 
+
+Thus, the United States is not liable on contract 
+damage theories if the act that preclude 
+ernment’s performance was “publie and — and 
+not taken merely to avoid obligations to a particular 
+party. See Deming v. United States, 1 Ct. Cl. 190, 191 
+(1865), appeal dismissed, 76 U.S. 145 (1870). See, e. ., 
+Atlas Corp. v. United States, 895 F.2d 745, 754-755 
+(Fed. Cir.), cert. denied, 498 U.S. 811 (1990); Tony 
+Downs Foods Co. v. United States, 530 F.2d 367 (Ct. 
+Cl. 1976); Amino Brothers Co., 872 F.2d at 491. 
+FIRREA is a public and general” statute for these 
+purposes; it was a comprehensive overhaul of the 
+regulation of an entire industry for the protection of 
+depositors nationwide in order to benefit the general 
+welfare. The provisions of FIRREA imposing capital 
+requirements did not merely affect thrifts that had 
+
+
+reaeleted banking — ‘whens the ‘eles of the game 
+change with some regularity”); Charter Federal, 976 F.2d at 
+212 (explaining that since “(cjapital ! rements have been an 
+evolving part of the regulatory scheme since its inception,” the 
+Bank Board “would have expected changes in statutory 
+requirements, including capital requirements”). 
+
+
+allegedly obtained commitments from the regulatory 
+agencies to permit them to count supervisory good- 
+will or capital credits as capital. They sharply cur- 
+tailed the ability of any thrift to count intangible 
+assets as capital, regardless of whether those assets 
+had ever been at issue in any arrangement with 
+federal regulators. The pivotal question in deter- 
+mining whether a legislative action is a “public and 
+general act” under the sovereign acts doctrine is not 
+whether a icular party is affected by the 
+governmental action at issue; it is whether the effect 
+on a particular party or parties is an incidental effect 
+of a new law enacted to IL government regula- 
+tory policy generally and to advance the general 
+welfare.“ 
+
+The Federal Circuit concluded that the sovereign 
+acts doctrine is inapplicable here because “the rele- 
+vant sections of FIRREA are not public and general 
+sovereign acts.” App. 39a. In the court’s view, that 
+conclusion followed from certain provisions of 
+FIRREA that specifically refer to thrifts in re- 
+spondents’ ition and that therefore amount to 
+legislation that is not public and general” but whose 
+“principal effect is to abrogate specific contractual 
+rights.” App. 40a. 
+
+The FIRREA “transition ruleſs],“ App. 42a, to 
+which the court of appeals referred make limited 
+
+
+” Application of the sovereign acts doctrine here is con- 
+sistent with this Court's rulings in Lynch v. United States, 292 
+U.S. 571 (1984), and Perry v. United States, 294 U.S. 330 
+(1985). As this Court stated in POSSE, those decisions 
+held that Congress does not have the power to repudiate its 
+own debts, which constitute ‘property’ to the lender, simply 
+in order to save money.” POSSE, 477 U.S. at 55 (emphasis 
+added). 
+
+
+24 
+
+
+exceptions to some of FIRREA's restrictions on the 
+use of goodwill for thrifts in respondents’ position. 
+As the Federal Circuit conceded, the rules therefore 
+undeniably placed respondents in a better position 
+than other thrifts and in a better position than they 
+would have been had no such exceptions been made: 
+the statute plainly singles out supervisory 
+goodwill for special treatment, albeit treatment less 
+harsh than other forms of intangible assets.” App. 
+42a (emphasis added), The fact that transition rules 
+in the statute granted respondents a partial exception 
+from more generally applicable restrictions could not 
+possibly mean that the restrictions themselves were 
+not “public and general acts.” 
+
+4. These cases warrant review by this Court be- 
+cause they involve the important legal principles dis- 
+cussed above, which will govern the result in approxi- 
+mately 100 other pending cases. The issues raised 
+here are present in cases pending in the Ninth 
+Circuit and in at least three district courts," as well 
+as in more than 90 cases currently stayed in the 
+Court of Federal Claims awaiting a ruling here. The 
+pending cases involve thrifts that booked goodwill 
+totalling more than $8.5 billion and capital credits 
+totalling more than $1.5 billion. 
+
+In addition, the Federal Circuit has refused to apply 
+the unmistakability doctrine in other federal contract 
+contexts. See Hughes Communications Galaxy, Inc. 
+v. United States, 998 F.2d 958, 958 (Fed. Cir, 1998), At 
+the same time, the doctrine is being used by other 
+
+
+1 n Trinity Ventures v. FDIC, Nos. 92-3557, 92-86535 (9th 
+Cir.); RTC v. Gravee, No. 94 C 4589 (N. D. III.); FDIC v. Maco 
+Bancorp, No. 94-1923 (D. D.C., FDIC vy. First Heights Bank, 
+FSB, No. 95-72722-DT (E.D. Mich.). 
+
+
+25 
+
+
+circuits in varying circumstances to deny claims of 
+contract rights against the government. See, ¢.., 
+Education Assistance Corp. v. Cavazos, 902 F. 2d 617, 
+629 (8th Cir.), cert. denied, 498 U.S. 896 (1990) 
+(applying doctrine to changes in rules governing 
+student loan program); Western Fuels-Utah, Inc. v. 
+Lujan, 895 F.2d 780, 789 (D.C. Cir.), cert. denied, 498 
+U.S. 811 (1990) (applying doctrine to mining lease 
+claims). Further review is warranted to clarify the 
+circumstances under which the unmistakability doc- 
+trine applies. 
+
+Finally, the fact that these cases were before the 
+Federal Circuit on an interlocutory appeal does not 
+detract from the appropriateness of review by this 
+Court now. Unless the legal rulings by the Federal 
+Circuit are reversed, these cases will move forward to 
+
+
+trials regarding damages; presumably, the more than 
+90 other cases in the Court of Federal Claims will 
+
+
+an extremely complicated, 
+expensive, and time-consuming matter because the 
+parties have very different views on this issue and the 
+circumstances of each thrift vary greatly. Thus, the 
+further proceedings in the trial court will require 
+massive and expensive discovery and trials. That 
+expense and the considerable drain on scarce judicial 
+resources may be saved if these cases are reviewed 
+now by this Court on the liability issues. No further 
+factual record is necessary since the trials to be held 
+in these three cases will focus solely on the measure 
+
+
+of damages. 
+
+
+CONCLUSION 
+
+
+The petition for a writ of certiorari should be 
+
+
+granted. 
+Respectfully submitted. 
+
+
+Drew S. Days, III 
+Solicitor General 
+FRANK W. HUNGER 
+Assistant Attorney General 
+PAUL BENDER 
+Deputy Solicitor General 
+JAMES A. FELDMAN 
+Assistant to the Solicitor 
+General 
+
+
+DOUGLAS LETTER 
+JACOB M. LEWIS 
+Scott R. McINTOSH 
+
+
+Attorneys 
+
+
+DECEMBER 1995 
+
+

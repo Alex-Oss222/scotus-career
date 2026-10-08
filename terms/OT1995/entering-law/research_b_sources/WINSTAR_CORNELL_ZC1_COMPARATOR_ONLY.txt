@@ -1,0 +1,187 @@
+ 
+ United States v. Winstar Corp. et al., 518 U.S. 839 (1996). 
+LII 
+Supreme Court 
+United States v. Winstar Corp. et al. (95-865), 518 U.S. 839 (1996). 
+Opinion 
+ [ Souter ]Concurrence 
+ [ Breyer ]Syllabus 
+ Dissent 
+ [ Rehnquist ]Concurrence 
+ [ Scalia ]HTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect version 
+No. 95-865 
+UNITED STATES, PETITIONER v. WINSTAR 
+ CORPORATION et al. 
+on writ of certiorari to the united states court of appeals for the 
+ federal circuit 
+[July 1, 1996] 
+Justice Scalia, 
+ with whom Justice Kennedy and Justice Thomas join, concurring in the judgment. 
+I agree with the plurality that the contracts at issue in this 
+ case gave rise to an obligation on the part of the Government to afford 
+ respondents favorable accounting treatment, and that the contracts were 
+ broken by the Government's discontinuation of that favorable treatment, 
+ as required by FIRREA, 12 
+ U.S.C. § 1464(t). My reasons for rejecting the Government's defenses 
+ to this contract action are, however, quite different from the plurality's, 
+ so I must write separately to state briefly the basis for my vote. 
+The plurality dispenses with three of the four "sovereign" defenses 
+ raised by the Government simply by characterizing the contracts at issue 
+ as "risk shifting agreements" that amount to nothing more than "promises 
+ by the Government to insure [respondents] against any losses arising from 
+ future regulatory change." Ante, at 41. Thus understood, the plurality 
+ explains, the contracts purport, not to constrain the exercise of sovereign 
+ power, but only to make the exercise of that power an event resulting in 
+ liability for the Government--with the consequence that the peculiarly 
+ sovereign defenses raised by the Government are simply inapplicable. This 
+ approach has several difficulties, the first being that it has no basis 
+ in our cases, which have not made the availability of these sovereign defenses 
+ (as opposed to their validity on the merits) depend upon the nature of 
+ the contract at issue. But in any event, it is questionable whether, even 
+ as a matter of normal contract law, the exercise in contract characterization 
+ in which the plurality engages is really valid. Virtually every 
+ contract operates, not as a guarantee of particular future conduct, but 
+ as an assumption of liability in the event of nonperformance: "The duty 
+ to keep a contract at common law means a prediction that you must pay damages 
+ if you do not keep it,--and nothing else." Holmes, The Path of the Law 
+ (1897), in 3 The Collected Works of Justice Holmes 391, 394 (S. Novick 
+ ed. 1995). See Horwitz Matthews, Inc. v. Chicago, 78 F. 3d 
+ 1248, 1250-1251 (CA7 1996). 
+In this case, it was an unquestionably sovereign act of government--enactment 
+ and implementation of provisions of FIRREA regarding treatment of regulatory 
+ capital--that gave rise to respondents' claims of breach of contract. Those 
+ claims were premised on the assertion that, in the course of entering into 
+ various agreements with respondents, the Government had undertaken to continue 
+ certain regulatory policies with respect to respondents' recently acquired 
+ thrifts; and the Government countered that assertion, in classic fashion, 
+ with the primary defense that contractual restrictions on sovereign authority 
+ will be recognized only where unmistakably expressed. The "unmistakability" 
+ doctrine has been applied to precisely this sort of situation--where a 
+ sovereign act is claimed to deprive a party of the benefits of a prior 
+ bargain with the government. See, e.g., Merrion v. Jicarilla 
+ Apache Tribe, 455 
+ U.S. 130, 135-136, 145-148 (1982). 
+Like The Chief Justice, see post, at 1-8, I believe that 
+ the unmistakability doctrine applies here, but unlike him I do not think 
+ it forecloses respondents' claims. In my view, the doctrine has little 
+ if any independent legal force beyond what would be dictated by normal 
+ principles of contract interpretation. It is simply a rule of presumed 
+ (or implied in fact) intent. Generally, contract law imposes upon a party 
+ to a contract liability for any impossibility of performance that is attributable 
+ to that party's own actions. That is a reasonable estimation of what the 
+ parties intend. When I promise to do x in exchange for your doing 
+ y, I impliedly promise not to do anything that will disable me from 
+ doing x, or disable you from doing y--so that if either of 
+ our performances is rendered impossible by such an act on my part, I am 
+ not excused from my obligation. When the contracting party is the government, 
+ however, it is simply not reasonable to presume an intent of that 
+ sort. To the contrary, it is reasonable to presume (unless the opposite 
+ clearly appears) that the sovereign does not promise that none 
+ of its multifarious sovereign acts, needful for the public good, will incidentally 
+ disable it or the other party from performing one of the promised acts. 
+ The requirement of unmistakability embodies this reversal of the normal 
+ reasonable presumption. Governments do not ordinarily agree to curtail 
+ their sovereign or legislative powers, and contracts must be interpreted 
+ in a common sense way against that background understanding. 
+Here, however, respondents contend that they have overcome this 
+ reverse presumption that the Government remains free to make its own performance 
+ impossible through its manner of regulation. Their claim is that the Government 
+ quite plainly promised to regulate them in a particular fashion, 
+ into the future. They say that the very subject matter of these 
+ agreements, an essential part of the quid pro quo, was government 
+ regulation; unless the Government is bound as to that regulation, 
+ an aspect of the transactions that reasonably must be viewed as a sine 
+ qua non of their assent becomes illusory. I think they are correct. 
+ If, as the dissent believes, the Government committed only "to provide 
+ [certain] treatment unless and until there is subsequent action," post, 
+ at 13, then the Government in effect said "we promise to regulate in this 
+ fashion for as long as we choose to regulate in this fashion"--which is 
+ an absolutely classic description of an illusory promise. See 1 R. Lord, 
+ Williston on Contracts §1:2, p. 11 (4th ed. 1990). In these circumstances, 
+ it is unmistakably clear that the promise to accord favorable regulatory 
+ treatment must be understood as (unsurprisingly) a promise to accord 
+ favorable regulatory treatment. I do not accept that unmistakability demands 
+ that there be a further promise not to go back on the promise to 
+ accord favorable regulatory treatment. 
+The dissent says that if the Government agreed to accord the favorable 
+ regulatory treatment "in the short term, but made no commitment about . 
+ . . the long term, respondents still received consideration." Post, 
+ at 13. That is true enough, but it is quite impossible to construe these 
+ contracts as providing for only "short term" favorable treatment, with 
+ the long term up for grabs: either there was an undertaking to regulate 
+ respondents as agreed for the specified amortization periods, or there 
+ was no promise regarding the future at all--not even so much as a peppercorn's 
+ worth. 
+In sum, the special role of the agencies, and the terms and circumstances 
+ of the transactions, provide an adequate basis for saying that the promises 
+ which the trial court and the Court of Appeals for the Federal Circuit 
+ found to have been made in these cases were unmistakable ones. To be sure, 
+ those courts were not looking for "unmistakable" promises, see ibid., 
+ but unmistakability is an issue of law that we can determine here. It was 
+ found below that the Government had plainly made promises to regulate 
+ in a certain fashion, into the future; I agree with those findings, and 
+ I would conclude, for the reasons set forth above, that the promises were 
+ unmistakable. Indeed, it is hard to imagine what additional assurance that 
+ the course of regulation would not change could have been demanded--other 
+ than, perhaps, the Government's promise to keep its promise. That is not 
+ what the doctrine of unmistakability requires. While it is true enough, 
+ as the dissent points out, that one who deals with the Government may need 
+ to " `turn square corners,' " post, at 14-15 (quoting Rock Island, 
+ A. & L. R. Co. v. United States, 254 
+ U.S. 141, 143 (1920)), he need not turn them twice. 
+The Government's remaining arguments are, I think, readily rejected. 
+ The scope and force of the "reserved powers" and "express delegation" defenses--which 
+ the plurality thinks inapplicable based on its view of the nature of the 
+ contracts at issue here, see ante, at 49-51--have not been well 
+ defined by our prior cases. The notion of "reserved powers" seems to stand 
+ principally for the proposition that certain core governmental powers cannot 
+ be surrendered, see, e.g., Stone v. Mississippi, 101 
+ U.S. 814 (1880); thus understood, that doctrine would have no force 
+ where, as here, the private party to the contract does not seek to stay 
+ the exercise of sovereign authority, but merely requests damages for breach 
+ of contract. To the extent this Court has suggested that the notion of 
+ "reserved powers" contemplates, under some circumstances, nullification 
+ of even monetary governmental obligations pursuant to exercise of "the 
+ federal police power or some other paramount power," Lynch v. United 
+ States, 292 
+ U.S. 571, 579 (1934), I do not believe that regulatory measures designed 
+ to minimize what are essentially assumed commercial risks are the sort 
+ of "police power" or "paramount power" referred to. And whatever is required 
+ by the "express delegation" doctrine is to my mind satisfied by the statutes 
+ which the plurality identifies as conferring upon the various federal bank 
+ regulatory agencies involved in this case authority to enter into agreements 
+ of the sort at issue here, see ante, at 51-52. 
+Finally, in my view the Government cannot escape its obligations 
+ by appeal to the so called "sovereign acts" doctrine. That doctrine was 
+ first articulated in Court of Claims cases, and has apparently been applied 
+ by this Court in only a single case, our 3 page opinion in Horowitz 
+ v. United States, 267 
+ U.S. 458, decided in 1925 and cited only once since, in a passing reference, 
+ see Nortz v. United States, 294 
+ U.S. 317, 327 (1935). Horowitz holds that "the United States 
+ when sued as a contractor cannot be held liable for an obstruction to the 
+ performance of [a] particular contract resulting from its public and general 
+ acts as a sovereign." 267 U. S., at 461. In my view the "sovereign acts" 
+ doctrine adds little, if anything at all, to the "unmistakability" doctrine, 
+ and is avoided whenever that one would be--i.e., whenever it is 
+ clear from the contract in question that the Government was committing 
+ itself not to rely upon its sovereign acts in asserting (or defending against) 
+ the doctrine of impossibility, which is another way of saying that the 
+ Government had assumed the risk of a change in its laws. That this is the 
+ correct interpretation of Horowitz is made clear, I think, by our 
+ two principal cases of this century holding that the Government may not 
+ simply repudiate its contractual obligations, Lynch v. United 
+ States, 292 
+ U.S. 571 (1934), and Perry v. United States, 294 
+ U.S. 330 (1935). Those cases, which are barely discussed by the plurality's 
+ opinion, failed even to mention Horowitz. In both of them, as here, 
+ Congress specifically set out to abrogate the essential bargain 
+ of the contracts at issue--and in both we declared such abrogation to amount 
+ to impermissible repudiation. See Lynch, supra, at 578-580; 
+ Perry, supra, at 350-354. 
+For the foregoing reasons, I concur in the judgment. 
