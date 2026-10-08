@@ -1,124 +1,128 @@
-# October Term 1995 — Audit
+# October Term 1995 — close re-audit
 
-**Audit date:** October 7, 2026.  
-**Status:** NOT READY FOR CLOSE COMMIT. Deterministic discrepancies remain; the fresh substantive legal audit is deferred.  
-**Scope:** 115 scheduled inventory entries, producing 116 completed Court events, plus ten Admitted Source Records; 126 canonical Records in total. Court-event cutoff: July 1, 1996.  
-**Authority:** Records control. This audit changes no adjudication, freeze, projection, candidate tracker, public render, or opening tracker.
+**Audit date:** October 7, 2026.
+**Status:** NOT READY FOR CLOSE COMMIT. Five unresolved discrepancies remain: F1–F5 below. The fresh legal-substance audit is complete; it is not deferred. No additional discrepancy requiring a change to a judgment, vote, coalition, controlling proposition, or remedy was found.
+**Scope:** All 116 completed Court-event Records, all ten Admitted Source Records, and the Holdings, Standards and Tests, and Standing State candidates. Public Projections, ten generated Render Inputs, ten renders, the four workspace projections, the term inventory, relevant frozen handoffs, opening law, tracker instructions, Engine and Composition were used for reconciliation. Records control; renders were cross-checks.
+**Authority and write boundary:** This re-audit follows the user's repair notice for commit `9b398b6` and the [operator provenance check](OPERATOR_PROVENANCE_CHECK.md). Only this audit is changed in the term directory. Scratch work is confined to `tmp/`. No Git command was run; the expressly permitted `python tools/check_term.py OT1995` performed its own read-only lookups. The locked top-level directory was not accessed, enumerated or searched, including through linked targets.
 
-## 1. Outcome and audit boundary
+## 1. Prior findings and deterministic checks
 
-The inventory, canonical event coverage, generated Public Projections, runtime splits, and recorded vote arithmetic reconcile at the scopes described below. The required link-resolution check does not pass: operative frozen packets and derived public-law copies contain relative source links that resolve from the wrong directory. The cited files have been located elsewhere within OT1995; a broken navigation link is not proof of a missing historical record, an unsupported vote, or litigant default. Current workspace prose also retains inconsistent source totals and effective-date summaries.
+The existing-location deterministic gate was rerun before fresh legal review and passed. The additional publication-location check during candidate review identified F1; consequently the complete close audit does **not** pass. F2 is a candidate presentation defect, F3 a missing operative qualification, F4 a current-Record chronology defect, and F5 an omitted public component position in a render. None is excused by a zero exit status from the term checker.
 
-The repository's Audit instruction requires: “Only after those pass does a fresh AI audit review legal substance.” Accordingly, the fresh reviewers performed deterministic participation, tally and joinder checks only. No fresh legal approval of the term's holdings, historical departures, coalition grounds, remedies, candidate substance, or continuity is issued. The remaining legal audit must occur after the deterministic discrepancies are resolved. Existing pass notes are not a substitute for that review.
-
-Only this `close/AUDIT.md` is written as a durable term artifact in this task; temporary scripts and receipts are under the allowed top-level `tmp/`. The locked top-level directory was not read, listed, searched, or modified. No infrastructure or `state/` file was changed. Candidate and pass-note cleanup belongs to the later successful Commit pass.
-
-### Operator-instruction breach in the initial checker
-
-The operator required the initial `python tools/check_term.py OT1995` check and separately prohibited every Git command. The checker was run before its implementation was inspected. It internally invoked `git cat-file -e` for hex-like strings. This violated the no-Git instruction; the checker should have been inspected first. The breach was disclosed during the task. No subsequent Git invocation was made, and no Git mutation was performed. This audit does not present the task as compliant with the no-Git instruction.
-
-The initial checker returned exit code 0, no errors, and 70 warnings. The warning tokens are source identifiers, dates, a currency-amount anchor, or a Technical Advice Memorandum number rather than missing commit citations, as classified below. The checker's result alone is not a complete audit. Commit existence and truthful lineage against repository history remain for operator verification; this task does not certify provenance from the incidental forbidden helper calls.
-
-## 2. Deterministic results
-
-| Check | Result and scope |
+| Check | Result and limits |
 |---|---|
-| Initial term checker | Exit 0; no errors; 70 false-positive commit-reference warnings. Contains the instruction breach described above. |
-| Opening Holdings volume identity | The initial checker's `holdings_volumes.py check` subcheck reported no synchronization error. Opening state was not republished. |
-| Inventory → manifest → Records | 115 inventory rows match 115 completed manifest rows. Bowersox has two dated Court events, accounting for 116 distinct Court Records. All 126 canonical Records, including ten noncase-law sources, occur once in the ledger. |
-| Records → Render Inputs → render event coverage | All 116 Court Records occur exactly once across ten Render Inputs. Ten admitted sources are appropriately outside the Court-event render count. Ten render entry counts and chronology-table counts match. |
-| Effective-date order | Inventory/manifest dates match their completed Records; manifest and Render Input ordering is chronological. This verifies dates and ordering, not the substantive sufficiency of every entering-law premise. |
-| Public Projection identity | All 116 generated source-record bodies equal their canonical Record's bounded Public Projection. |
-| Runtime split freshness | All ten `split_chunk.py --check` results are current. No split was regenerated or edited. |
-| Participation, judgment votes and joins | All 116 Court Records' stated judgment and opinion coalitions were checked numerically. No tally, support/opposition overlap, or counted nonparticipant discrepancy was established. Judgment-only agreement and partial joins were kept separate. Early and middle reviewers checked corresponding render accounts; later-record arithmetic and selected corresponding render accounts were checked by the coordinating reviewer. Full substantive render fidelity remains for the legal stage. |
-| Links and anchors in current principal artifacts | Canonical Records, Render Inputs, public outputs, four workspace files, and candidates yielded zero failed local navigation targets in the scan. Candidate Holdings references were checked against the staged candidate, not rejected merely because the future publication anchors are absent from opening `state/HOLDINGS.md`. |
-| Links in frozen and derived reading artifacts | FAIL. Concrete operative source-path failures appear in §3 and the relocation catalogue. Imported historical preparation links and scratch copies are separately classified. |
-| Coordinated candidate headers | Three candidates retain identical opening publication fields, pending synchronized Commit. That staging choice is not an isolated publication or a header discrepancy. |
-| Candidate cleanup | Three candidates and current pass notes are expected before Commit. No Term-Close Dossier has yet been published. No candidate or pass note was deleted. |
-| Open-matter carry-forward | The Standing State candidate retains twelve docket matters, including the three separate Shieh petitions. Jones's unfinished financial determination remains explicitly open. No terminal action is inferred. |
-| Commit references and lineage | Operator verification pending. No fresh provenance pass was completed after discovery of the prohibited helper calls. |
-| Fresh legal audit | NOT PERFORMED because the preceding deterministic gate failed. |
+| Term checker | The initial authorized run exited 0 with no errors and 101 warnings. The warnings are hex-like source identifiers, dates and other non-commit tokens, including repetitions in the superseded audit. Final-run result is recorded in §5. |
+| Prior finding 3.1 | Resolved. Each of the 67 catalogued source-link occurrences points to its identified existing target. The additional runtime Settle timing-addendum copy is also repaired: 68 occurrences in total. The public substance was not changed by these target repairs. |
+| Prior finding 3.2 | Resolved. Current manifest, continuity and neutral summaries state ten sources, with the latest effective source on April 29. Header notes identify dated progress passages as historical snapshots. Enactment and effective dates remain distinct. |
+| Inventory → manifest → ledger → Records | 115 inventory/manifest matters reconcile to 116 Court events; Bowersox has separate interim and final events. Ten admitted sources bring the ledger to 126 Records, each represented once. No missing or duplicate natural-key event was found. |
+| Effective chronology and public mapping | Events and sources retain their actual effective dates. Same-day navigation or assignment order is not used as intervening law. All 116 bounded Public Projections match their generated Render Input bodies exactly; the ten render entry sets match. The six stale internal Ayers status assertions are separately identified in F4. |
+| Runtime freshness | All ten approved chunk splits pass the splitter's read-only freshness check. Runtime working copies do not displace authoritative freezes or later scoped supplements. |
+| Participation, counts and joins | Every Court event was checked for participating roster, quorum, component judgment counts, named membership, partial and judgment-only joins, and relation between rationale and remedy. No arithmetic discrepancy remains. A generic statement of participation at two milestones was checked against the supplied Composition and Record, not independently authenticated from historical attendance records. |
+| Local links and anchors | Tested nonlocked local links in current principal Records, Public Projections/Render Inputs, renders, workspace and candidates resolve at their current locations. Candidate navigation was checked against the staged Holdings anchors. Publication portability is a separate failure: F1. |
+| Wider historical-link scan | The scoped scan covered 1,889 Markdown files and 35,475 link occurrences. It counted 6,800 external links without claiming a live retrieval test of all of them, treated 972 pinned references through the operator's provenance verification, and skipped 44 locked-target references before access. After the 68 repairs, 3,988 historical/scratch unresolved occurrences remain, classified below; none supplies a remaining essential-support gap in the audited current artifacts. |
+| Commit references and lineage | The operator reports that every genuine cited commit resolves, including Run, Render and correction lineage. The checker warnings belong to the documented non-commit token classes. This audit relies on that explicit Git verification and the permitted checker; it does not claim an independent command-level reconstruction of Git history or the old ledger's first-commit sequence. No contradictory lineage claim was found. |
+| Opening law and candidates | Holdings retains all 975 opening question blocks: 962 unchanged and 13 updated for current force/backlinks; 336 new blocks are added. Standards retains all 370 opening entries: 350 unchanged and 20 revised, with 113 new entries. No removed opening entry or duplicate full question key was found. Repeated case headings concern distinct questions/areas. All 13 and 20 changed inherited entries received substantive review. |
+| Standing State and carry-forward | The next-opening roster, seniority and circuit allotments match Composition. The candidate keeps the standing referral practice and twelve docket carryovers, without importing a positions or dependency register. Jones's remaining blocker is explicit below. |
+| Assignment accounting | All 219 excerpts in the final prior/current assignment baseline were checked against their cited Record statements, with no mismatch. The preceding term has 93 named Chief assignments, maximum 18; OT1995 ends with 101, maximum 27 to O'Connor. No consecutive-term concentration restriction is triggered. Required Circuit Justice explanations and unassigned unsigned actions are not invented ordinary assignments. |
+| Close staging and cleanup | The three candidates remain staged. Their common inherited publication header is to advance together during Commit, not during this audit. The operator provenance note and other pass notes are temporary Commit-stage cleanup items; their present existence is not a discrepancy. No tracker publication, dossier, index generation or cleanup was performed by this audit. |
 
-The link scan examined 1,887 term Markdown documents and 35,326 links. It checked 27,510 local/current-branch references; 6,800 external URLs were counted but not fetched, 972 pinned-revision references were reserved for provenance verification, and 44 references into the locked directory were skipped before inspecting their targets. Thus a local-link pass is not authentication of pinned history or an external-URL availability certification. The ledger itself identifies its ordering and prior commit strings as unverified metadata; its commitment order remains part of the operator's provenance work.
+The 3,988 residual wide-scan occurrences divide into 2,278 imported assessments/inherited material; 182 explicitly disclaimed deleted preparations; one superseded Wood reference; 287 term scratch occurrences; 1,055 historical relocations (955 opening-workspace snapshots, 70 old runtime/assembly locations and 30 unvalidated mechanical neutral source copies); 120 comparator PDF aliases accompanied by official public URLs; 64 runtime aliases with the exact authoritative targets in freeze; and one historical chunk-5 manifest alias. These are historical navigation limitations, not a certificate that each old link works. The current sources used for adjudication and close have usable authority or the specifically recorded source limitation. This classification is not permission to rewrite frozen handoffs.
 
-### Participation verification limit
+## 2. Unresolved discrepancies and exact repairs
 
-The arithmetic check verifies the recorded rosters and does not independently authenticate historical attendance. In Locomotive Engineers (Record lines 8–10), Yamaha (8–10), Lotus (8–10, 68), Zicherman (8–10, 61), Commissioner v. Lundy (10, 53, 57), and Neal (8, 67), an argument date accompanies generic participation wording rather than a separately explicit statement for both argument and decision. Similar generic wording appears in some later argued Records, including IBM and Koon. No conflicting roster or invalid vote is established by that wording. Two-milestone verification should be expressly completed or its supported limitation retained in the resumed audit. A matter with no supplied argument/submission milestone must not acquire an invented one merely to fill a field.
+### F1 — Holdings source links fail after publication
 
-## 3. Discrepancies requiring resolution before the legal audit
+**File and lines:** `terms/OT1995/close/HOLDINGS.candidate.md`: 67, 1623, 1639, 1657, 1711, 5981, 6129, 6157, 6235, 6296, 6330, 6380, 9326, 11210, 11230, 11326, 13983, 16017, 16055, 16886, 19527, 19557, 20127, 21267, 21289, 22501, 22515, 22543 and 23632.
 
-### 3.1 Operative source links resolve from the wrong directory
+**Discrepancy:** These 29 links use `../records/`. They resolve from `close/`, but copying the candidate to `state/HOLDINGS.md` makes them point outside the term's Records. The volume-splitting tool does not rewrite them, so splitting cannot cure the defect. They are distinct from the 68 source-link repairs already completed.
 
-The definite active set comprises 65 relocation failures: 29 in the individual Felker, Labron/Kilgore and Winstar neutral packets, their 29 counterparts in the combined chunk 10 neutral packet, one in the Settle frozen neutral packet, and six source links in Bennis/Pinder public-law copies. Two additional source-receipt PDF links have located alternatives. The catalogue below supplies each affected file and line, the literal link, and the existing target.
+**Exact fix:** In the link target at each listed line, replace only the prefix `../records/` with `https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/`. Preserve the filename, any fragment, label and surrounding substance. Validate the resulting links for both the continuous state view and generated volumes before publication. No adjudication changes.
 
-Examples establishing the failure:
+### F2 — Maine's coordinate table has a malformed header
 
-- [Felker frozen neutral packet](../freeze/OT_1995CHUNK10_FELKER_NEUTRAL.md), lines 85–90, links to `research_b_sources/...` as though the packet still sat in `entering-law/`. Its petition, appendix, merits briefs and enacted-text files actually sit in [entering-law/research_b_sources](../entering-law/research_b_sources/). From `freeze/`, the working prefix is `../entering-law/research_b_sources/`.
-- The [Egelhoff reading copy of Bennis](../entering-law/OT_1995CHUNK8_REVISION_EGELHOFF_PUBLIC_LAW/Bennis_v_Michigan_merits_1996-03-04.md), line 114, retains `../sources/chunk4_c/bennis_lower_opinions_only.txt`. The existing source is [the term's lower-opinion text](../sources/chunk4_c/bennis_lower_opinions_only.txt); the nested copy requires `../../sources/...`. The corresponding Pinder copy and four Bennis/Pinder copies in the Leavitt and Vera directories have the same relocation issue.
+**File and line:** `terms/OT1995/close/HOLDINGS.candidate.md:79` (separator at 80; coordinate rows at 81–85).
 
-These are navigational defects, not a finding that the Court's decisions lack evidentiary support. Frozen substantive commitments and approved brief language must remain intact. Resolution should establish correct navigation or a clearly authoritative source-location mapping, preserve frozen substance and provenance, and rerun the bounded link check. This Audit task makes no such repair.
+**Discrepancy:** The header begins `**Material application:** | Paragraph | First endpoint | Second endpoint |`. That introduces a fourth header cell before a three-column delimiter row, preventing the intended Markdown table from rendering correctly. The five coordinate pairs themselves agree with the Record.
 
-The broad scan reports 4,056 unresolved local-link occurrences, not 4,056 lost documents or cases. It classifies 2,278 as imported preparation references, 182 as references to the deleted and disclaimed preparation receipt, one as a superseded Wood reference, 1,121 as relocations with an alternate base, 287 as scratch-copy links, and 187 as other unresolved references. These categories are a navigation inventory, not a certification that every ambiguous reference is operative. The specific active catalogue below is sufficient to fail the check. A resumed deterministic pass must finish classification of any remaining reference claimed as necessary support.
+**Exact fix:** Replace the header line with the following three lines, retaining the existing delimiter and all five data rows unchanged:
 
-The inventory's three absent bookkeeping links and the brief-relative `assessment/` and `inherited/` references were already disclosed in [OPENING_VALIDATION.md](../audit/OPENING_VALIDATION.md), lines 115–119, as imports from the user's other project. They are not newly discovered missing inventory matters. The current workspace expressly disclaims the deleted `CHUNKS5_10_PREPARATION_REVIEW.md` as a live source. The old Wood assignment receipt's summary-merits link is documentary history superseded by the present plenary-grant Record. None of these classifications authorizes editing the user's briefs or resurrecting a superseded adjudication.
+```markdown
+**Material application:**
 
-### 3.2 Workspace summaries retain inconsistent current-source totals and cutoffs
+| Paragraph | First endpoint | Second endpoint |
+```
 
-The current headers correctly report ten admitted sources and 126 Records, and all canonical Record names are represented in the workspace. Nevertheless:
+### F3 — Libretti's rebuttable-presumption qualification is omitted
 
-- [manifest.md](../workspace/manifest.md), line 183, and [continuity.md](../workspace/continuity.md), line 5297, still state “Eight noncase-law sources.” The [neutral projection](../workspace/neutral-projection.md), line 1307, also retains the earlier source total.
-- Continuity lines 5728, 5733 and 5738 still describe April 26 as the latest admitted-source effective date; neutral-projection line 1853 likewise says “Latest admitted source: April 26, 1996.” The current corpus includes the [Utah H.B. 206 source effective April 29](../records/Utah_HB206_admitted_source_1996-04-29.md), and the later continuity material includes it.
+**File and line:** `terms/OT1995/close/STANDARDS_AND_TESTS.candidate.md:3213`.
 
-The current projection should either replace these summaries with the complete present account or unmistakably identify them as retained historical snapshots. This is not evidence that a later adjudication actually omitted Utah, the additional cable source, or another operative law; that legal dependency inquiry remains deferred. Enactment date and effective date must not be conflated in any cleanup. Records remain controlling.
+**Discrepancy:** The current-rule sentence calls §853(d)'s presumption a trial presumption but omits its expressly rebuttable character. The Record supplies that qualification at [Libretti, lines 84 and 213](../records/Libretti_v_United_States_merits_1995-11-07.md); the Holdings candidate correctly retains it at line 11099. The completeness rule requires the operative qualification in the Standards entry itself.
 
-### Resolved documentary concern
+**Exact fix:** Replace `Section 853(d)’s trial presumption requires` with `Section 853(d)’s rebuttable trial presumption requires`. Preserve the two Government proof predicates and all other wording. No Record or render change is needed.
 
-The interim Bowersox Record's statement that Ayers was still stopped is not treated as an unresolved chronology defect. [AYERS_COMPLETION_CHRONOLOGY.md](../freeze/OT_1995CHUNK5_AYERS_COMPLETION_CHRONOLOGY.md), lines 3–9, expressly documents later completion, preserves the already completed Records, classifies the earlier snapshots as historical preparation, and supplies the completed Ayers material to the pending Bowersox follow-up. This audit verified that documentary reconciliation; it did not independently approve the legal-materiality analysis.
+### F4 — Six current Records still describe Ayers as stopped after its terminal event
 
-## 4. Checker-warning classification and remaining provenance work
+**Discrepancy:** Ayers now has an effective March 25, 1996 dismissal as improvidently granted, 8–1, with no merits adjudication. Six later Records still make an unqualified current entering-law assertion that it remains stopped or supplies no decision. The repaired workspace snapshot labels do not qualify these assertions inside the canonical Records. The final Bowersox Record already recognizes Ayers at line 14; the six earlier passages do not.
 
-All 70 initial warning occurrences fall within these noncommit token groups:
+| File and line, relative to `terms/OT1995/` | Stale assertion | Exact replacement for that assertion |
+|---|---|---|
+| `records/Barnett_Bank_of_Marion_County_v_Nelson_merits_1996-03-26.md:14` | `Ayers remains stopped without a decision.` | `The frozen preparation snapshot treated Ayers as stopped. The effective chronology now includes its March 25 dismissal as improvidently granted, 8–1, without a merits adjudication; that disposition changes no banking premise used here.` |
+| `records/Morse_v_Republican_Party_of_Virginia_merits_1996-03-27.md:16` | `Ayers supplies no decision;` | `The frozen preparation snapshot treated Ayers as undecided. The effective chronology now includes its March 25 dismissal as improvidently granted, 8–1, without a merits adjudication; that disposition changes no voting-rights premise used here. As before,` |
+| `records/Rutledge_v_United_States_merits_1996-03-27.md:18` | `Ayers remains stopped and supplies no law.` | `The frozen preparation snapshot treated Ayers as stopped. The effective chronology now includes its March 25 dismissal as improvidently granted, 8–1, without a merits adjudication; that disposition changes no criminal-law premise used here.` |
+| `records/OConnor_v_Consolidated_Coin_Caterers_Corp_merits_1996-04-01.md:18` | `Ayers remains stopped.` | `the frozen preparation snapshot treated Ayers as stopped. The effective chronology now includes its March 25 dismissal as improvidently granted, 8–1, without a merits adjudication; that disposition changes no ADEA premise used here.` |
+| `records/Shieh_and_companions_filing_order_1996-04-01.md:26` | `Ayers remains stopped.` | `The frozen preparation snapshot treated Ayers as stopped. The effective chronology now includes its March 25 dismissal as improvidently granted, 8–1, without a merits adjudication; that disposition changes no fee-screening premise used here.` |
+| `records/Bowersox_v_Williams_interim_application_order_1996-04-09.md:12` | `All ten earlier supported Chunk 5 public decisions are effective; Ayers remains stopped and supplies no new law.` | `The frozen preparation snapshot included ten earlier completed Chunk 5 Court events and treated Ayers as stopped. The effective chronology now includes eleven earlier completed Chunk 5 Court events, including Ayers's March 25 dismissal as improvidently granted, 8–1, without a merits adjudication; that disposition changes no applicable habeas rule, channel, participation or allotment.` |
 
-| Token | What it identifies |
-|---|---|
-| `8314011` | Technical Advice Memorandum number; Holdings candidate line 20969. |
-| `A40385013`, `A40386012`, `A40385014` | Internet Archive item-ID fragments, including 44 Liquormart, American Life League and Felker sources. |
-| `40508923` | Currency amount in a Ursery companion navigation anchor; Standards candidate line 2502. |
-| `19960621`, `19960624`, `19960626` | Dates in preserved `PRE_YYYYMMDD` snapshot filenames. |
-| `58F3d59` | Gray's lower-court reporter filename. |
-| `ec21103`, `ec20302` | Parts of `sec21103` and `sec20302` in official statutory PDF paths. |
-| `1000370934`, `1000202729` | Source archive document identifiers for the Louisiana/Mississippi and Maine decrees. |
-| `adc30866` | UNT `metadc` source identifier fragment in Love. |
-| `889392159` | vLex document identifier in Egelhoff. |
+At the same Shieh line 26, replace `The seven intervening March decisions` with `The seven intervening March merits decisions`. This preserves the correct seven-merits count while distinguishing the additional Ayers terminal dismissal.
 
-The checker's broad 7–40-hex-character regex explains these warnings. None should be logged as a missing commit on that evidence. True lineage claims still require the operator's repository-history verification. This report does not revise the checker or any infrastructure.
+**Repair boundary:** The operator should record these limited internal chronology corrections with truthful lineage under the authorized correction procedure. Preserve the frozen snapshots and handoffs as historical preparation artifacts. Do not backdate a claim that the original modeling read the later-inserted Record, change a vote or holding, or add a correction label to a public entry. Public Projections, Render Inputs and renders already contain no stale Ayers assertion and need no substantive change for this repair. Ayers's own Record expressly leaves retrospective dependency review to the operator; this audit finds no changed premise requiring readjudication of these six outcomes.
 
-## 5. Stopped determination and continuing docket
+### F5 — Leavitt's render omits an expressly public Stone component position
 
-**Jones v. ABC-TV, No. 95-7186 — exact blocker:** final financial determination requires authenticated Rule 39.1 financial papers (Form 4 sworn affidavit or declaration under 28 U.S.C. §1746), a verified qualifying appointed-counsel exception, or another supported applicable basis; none is available in the present source record. The financial motion and certiorari petition remain pending. The February 26 filing-management order is complete, with all eight participating Justices supporting pending treatment and refusal of the proposed restrictions; Breyer does not participate. The source gap is not a finding of failed filing, financial ineligibility, false statement, or default. No new deadline is imposed.
+**File and line:** `terms/OT1995/output/OT_1995CHUNK8.md:1029`, Leavitt's Opinion Topology.
 
-The twelve continuing docket matters are:
+**Discrepancy:** The [Leavitt Record](../records/Leavitt_v_Jane_L_summary_merits_1996-06-17.md) expressly authorizes disclosure of Stone's disposition-only agreement on the separate §§307–308 petition denial at line 37. Its Public Projection at line 123 and the generated Render Input at line 1028 supply that public statement. The render omits it. The generic statement at render line 1025 that denial expresses no merits opinion does not preserve the named Justice's component participation.
 
-| Matter | Entered disposition and next stage |
-|---|---|
-| Wyoming v. Oklahoma, No. 112, Original | Earlier declaratory judgment/injunction; retained implementation jurisdiction. No new OT1995 vote. |
-| United States v. Louisiana (Alabama and Mississippi Boundary Case), No. 9, Original | Earlier supplemental decree; retained implementation jurisdiction. No new OT1995 vote. |
-| Delaware v. New York, No. 111, Original | Earlier remand to Special Master; no final allocation/decree. No new OT1995 vote. |
-| Nebraska v. Wyoming, No. 108, Original | Earlier admitted claims remain before the Special Master; liability/injury undecided. No new OT1995 vote. |
-| Kansas v. Colorado, No. 105, Original | Earlier liability determination; depletion/remedy proceedings remain. No new OT1995 vote. |
-| Wood v. Bartholomew, No. 94-1419 | Plenary certiorari grant; public poll undisclosed. Full briefing and argument remain pending. |
-| Louisiana v. Mississippi, No. 121, Original | December 4 implementing decree entered; public numerical vote undisclosed. Implementation jurisdiction retained. |
-| Jones v. ABC-TV, No. 95-7186 | Financial motion and petition pending; February 26 management action supported by all eight participants. Exact blocker above. |
-| United States v. Maine (Massachusetts Boundary Case), No. 35, Original | Supplemental decree entered; Souter does not participate; no numerical vote disclosed. Implementation jurisdiction retained. |
-| Shieh v. Kakita, No. 95-7587 | Individual financial leave granted, 9–0; separate certiorari petition pending. |
-| Shieh v. Ninth Circuit, No. 95-7588 | Individual financial leave granted, 9–0; separate certiorari petition pending. |
-| Shieh v. Krieger, No. 95-7589 | Individual financial leave granted, 9–0; separate certiorari petition pending. |
+**Exact fix:** Insert the following paragraph after render line 1029, retaining the rest of the entry and every other entry unchanged:
 
-The completed Doe v. Kirchner dismissal resolves its former stop. Ordinary lower-court remands in completed merits cases are not automatically added as pending Supreme Court cases. No execution, service, expiration, compliance event, or later decree is presumed.
+> On the separate §§307–308 petition component, Stone-Zsela agrees with denial without adding a ground. That disposition-only agreement supplies no opinion on those provisions' validity.
+
+This restores supplied public substance; it discloses no private petition tally, fallback authorization or conference basis. The Record and generated Render Input already contain the correct statement and need no change.
+
+## 3. Fresh legal-substance audit
+
+Fresh scoped reviewers examined the complete current Records and their adaptive annexes, not merely the prior audit or generated counts. Work covered chunks 1–3, chunks 4–5, chunks 6 and 10, and chunks 7–9, with independent cross-checks of candidate entries, public reasoning, separate writings and continuity. All 116 Court events and ten sources were covered. The three candidates were compared with the Records and opening law, including every modified inherited entry. No new adjudication was made.
+
+The review distinguished judgment support from rationale support, conditional alternative holdings from withheld assent, and controlling law from separate opinions. It traced each disposition to its legal ground and operative remedy, checked reserved questions and statutory exceptions, and examined each material historical departure for a concrete changed premise and Justice-specific basis. It did not infer hypothetical bargaining, unpublished historical votes, new filings, default or missing factual findings from archival gaps. The source audit used the recorded bounds and selected underlying source texts; it does not claim a new complete download and reading of every historical docket's petition, briefs and appendix.
+
+Material checks included:
+
+- **Fractures and joined propositions:** Love's due-process judgment does not create a common sufficient rationale; its six-vote arms propositions remain distinct from the five-vote remand. Lotus's five-vote vacatur creates no majority copyright rule. Libretti, Bailey, Bishop/Stokes and Hale preserve their component counts and limited Stone joins. ACT's five-vote invalidity is not enlarged by Souter's different vacatur. Seminole Tribe preserves the divided state theories, the five-vote officer ground and the surviving force of Union Gas.
+- **Partial joins and remedies:** Markman's eight-vote embedded-construction rule is not narrowed by Stone's concurrence. 44 Liquormart preserves five advancement votes, seven fit votes, six for the broader LaRue treatment, and eight for the declaration-preserving remedy; Stone's additional injunction is not the mandate. Armstrong has eight setting-aside votes but seven for the formal reversal and ordinary remand, with six for its limited Rule 16 ground. BMW has five substantive-excessiveness and remedy votes and six only for the severable territorial proposition. Oberg's amount-review protection survives.
+- **Later divided decisions:** Vera applies the actual Shaw/Miller rule; Egelhoff's changed result comes from Stone rather than an invented Associate switch. Gray retains its six-vote old-rule ground and five-vote relief with unadjudicated statutory conditions. Lewis v. United States has no majority rationale for affirmance but five direct votes for the exact aggregate-imprisonment restriction; that is not a Marks synthesis. Lewis v. Casey does not elevate the four-vote broader limitations. Medtronic, Gasperini, Koon, Spink, Rise and Ursery preserve their distinct component coalitions and remedial scope.
+- **Final cases:** Colorado Republican's independent-advertisement holding does not adopt either three-vote general framework. Denver retains each §10 component, partial rationale coalition and severability limit, without extinguishing separate 1996 §506 authority. Felker separates unanimous channel/original/stay results, six-vote temporal reasoning and the eight-Associate additional trial/gateway grounds; the mandatory direct reach of the substantive successive provisions into original habeas remains reserved. Labron/Kilgore applies the automobile exception without inventing premises-access, consent, mechanical-condition or admission findings. Winstar's eight-vote actual-contract/assumed-risk grounds do not create a majority unmistakability framework or substantial-contractual-effect exception; damages remain contract-specific and undetermined.
+- **Historical departures:** The annexes supply particular premises for the filing-control cases, the corrected Louisiana coordinate, Tuggle's actual Brecht/O'Neal baseline, Lonchar's actual Gomez rule, Gray's O'Connor/Graham connection, Myers's Pinson dependency, Rise's Vernonia/Sandin distinctions, Baby Richard's separate implementation question and Colorado Republican's actual Day positions. Bowersox's Souter departure was examined separately: the entered interim action alone or better source access would not suffice. The Record also supplies the expressly adopted, procedurally available second-degree question and his own Schad Part III/Hicks assessment, preserves contrary historical deference evidence, and assumes no completed response. That is a defensible qualitative basis, not an arithmetic reason to switch him.
+- **Source admissions and transitions:** All ten admissions are distinguished from Court judgments. The complete admitted bounds of official AEDPA Title I and PLRA §§802–804 were reread against their source Records and candidate rules. The candidates retain the original PLRA “current or ongoing” language, actual motion/stay triggers, independent fee provisions, and unresolved transition questions; later amended language is not substituted. AEDPA's distinct remedies, burdens, exceptions, capital-state qualification and permissive service authorization remain separate. Rule 57's local-form and actual-notice protections do not excuse a national deadline. The cable enactments retain §505's delayed effectiveness, §506's separate authority and §551's conditional/delayed operation. Utah's unresolved enrolled-wording limitation is explicit and supplies no new constitutional or implied-repeal holding. OCC and North Carolina admissions preserve their stated exceptions and effective scope.
+
+The inherited current-force changes preserve completed judgments while adding the applicable statutory or later controlling rule. No unsupported removal of earlier law or promotion of a dissent was found. F3 is the remaining candidate qualification defect; F4 is the remaining internal continuity defect; F5 is the remaining public-projection fidelity defect. F1–F5 are the complete set of discrepancies found within this audit's scope.
+
+## 4. Open matters, stopped matter and unusual features
+
+**Stopped matter — Jones v. ABC-TV, No. 95-7186:** The February 26 filing-management action is completed, 8–0 among participating Justices, with Breyer not participating. The financial-leave motion and certiorari petition remain pending. A terminal financial determination lacks authenticated Rule 39.1 papers establishing the required financial particulars: the prescribed motion and notarized Form 4 affidavit or a declaration under 28 U.S.C. §1746, unless a qualifying appointed-counsel exception or another supported applicable basis is established. Neither is currently established. This is a source/decision blocker, not a finding of ineligibility, absent filing, false statement or litigant default. No deadline, fee condition or certiorari disposition may be invented.
+
+The Standing State candidate carries twelve matters: Wyoming v. Oklahoma (112 Original); United States v. Louisiana, Alabama and Mississippi (9 Original); Delaware v. New York (111 Original); Nebraska v. Wyoming (108 Original); Kansas v. Colorado (105 Original); Wood v. Bartholomew (94-1419); Louisiana v. Mississippi (121 Original); Jones (95-7186); United States v. Maine (35 Original); and the three separate Shieh petitions (95-7587, 95-7588 and 95-7589). Retained original jurisdiction and pending post-grant or certiorari steps are not adjudicative failures. Jones is expressly carried with its blocker. Ordinary remands do not become invented Supreme Court docket carryovers.
+
+Unusual features preserved in the audit and event summary: Bowersox has two same-day events; Ayers and Doe v. Kirchner are terminal dismissals, not stops; Baby Richard is a distinct implementation adjudication. Lotus, Hercules and IBM exclude Stevens; Jones excludes Breyer; Maine excludes Souter; Virginia excludes Thomas. Undisclosed petition polls and decree lineups remain undisclosed in public output. Kilgore's authenticated docket is 95-1738, with the inventory shorthand explained in the Record. Winstar's disclosed mechanical recovery is not represented as an independently Git-verified reconstruction. These features create no additional finding.
+
+## 5. Completion and operator boundary
+
+The final authorized python tools/check_term.py OT1995 run exited 0 with no errors and 86 warnings, all in the operator-verified non-commit token classes. An initial post-write attempt triggered the checker's broad completed-close text heuristic on a qualified sentence; the sentence was clarified to state that F1–F5 are the complete discrepancy set, and the check passed. The audit remained explicitly not ready for Close Commit throughout. Hash verification of all 1,978 protected Markdown/Python files under the audited term, opening state, foundation and tools found no changed or missing file outside this audit. All 129 relative links in this audit resolve. All five findings remain open; the checker does not decide them.
+
+No candidate, Record, source, brief, freeze, runtime, workspace, render or opening tracker was repaired during this audit. F1–F5 require operator action and a confirming audit before Close Commit. No adjudication should be changed as an incidental close repair. After a clean audit, the separate Commit pass publishes all three trackers together, generates/synchronizes Holdings volumes and close indexes, verifies publication, and removes candidates and temporary pass notes under the Close protocol.
 
 ## 6. Operator summary — every completed Court event
 
-The following register is drawn from each canonical Record's opening Result field, with limited vote/disclosure clarifications taken from that Record. It records existing adjudications and does not certify their legal correctness. Compound votes and judgment/rationale differences remain visible. Same-day row order is navigation only. For nondisclosing actions, no public tally is inferred from a roster or opinion form.
+The following register is drawn from each canonical Record's opening Result field, with limited vote/disclosure clarifications taken from that Record. Every row was cross-checked against the current Record during this fresh audit; unresolved discrepancies are listed in section 2. Compound votes and judgment/rationale differences remain visible. Same-day row order is navigation only. For nondisclosing actions, no public tally is inferred from a roster or opinion form.
 ### Chunk 1
 
 | Date | Matter | Disposition and vote |
@@ -267,7 +271,7 @@ The following register is drawn from each canonical Record's opening Result fiel
 | 1996-06-21 | [Doe v. Kirchner (In re Petition of Doe); Illinois Supreme Court No. 76063, 159 Ill. 2d 347, 638 N.E.2d 181 (1994). No separate Supreme Court docket is supplied](../records/Doe_v_Kirchner_review_dismissal_1996-06-21.md) | Existing writ dismissed as improvidently granted. All nine support terminating review by dismissal and leaving the Illinois judgment undisturbed; eight adopt the prudential disposition and explanation, while Chief Justice Stone-Zsela concurs in the judgment on his distinct want-of-jurisdiction ground. No adoption or custody merits are decided. |
 | 1996-06-24 | [Gasperini v. Center for Humanities, Inc., No. 95-719, 518 U.S. 415](../records/Gasperini_v_Center_for_Humanities_Inc_merits_1996-06-24.md) | Vacated and remanded, 6-3, for district-court application of New York's material-deviation standard and appellate review for abuse of discretion; no damages amount is selected. |
 | 1996-06-24 | [Lewis v. Casey, No. 94-1511, 518 U.S. 343](../records/Lewis_v_Casey_merits_1996-06-24.md) | Unsupported classwide approval set aside, 8-1; prospective-decree approval set aside and remanded, 9-0 on distinct grounds, preserving the demonstrated access wrong and supported findings. |
-| 1996-06-24 | [Lewis v. United States, No. 95-6465, 518 U.S. 322](../records/Lewis_v_United_States_merits_1996-06-24.md) | Affirmed, 7-2, with no majority rationale for affirmance; five Justices separately support the exact aggregate-imprisonment prohibition stated below. |
+| 1996-06-24 | [Lewis v. United States, No. 95-6465, 518 U.S. 322](../records/Lewis_v_United_States_merits_1996-06-24.md) | Affirmed, 7-2, with no majority rationale for affirmance; five Justices separately support the exact aggregate-imprisonment prohibition stated in the Record. |
 | 1996-06-24 | [United States v. Ursery, No. 95-345; United States v. $405,089.23 in United States Currency, No. 95-346](../records/United_States_v_Ursery_and_United_States_Currency_merits_1996-06-24.md) | No. 95-345 reversed and remanded, 7-2; No. 95-346 reversed and remanded, 8-1, with Stone-Zsela favoring vacatur and a more limited remand. All nine reject the companion's blanket bar, on different grounds. |
 | 1996-06-25 | [Settle v. Dickson County School Board; Sixth Circuit No. 93-6207, 53 F.3d 152 (1995)](../records/Settle_v_Dickson_County_School_Board_merits_1996-06-25.md) | Vacated and remanded, 9-0; the reviewed free-speech summary judgment is set aside without a final liability, grade, immunity or damages determination. |
 | 1996-06-26 | [Medtronic, Inc. v. Lohr; Lohr v. Medtronic, Inc.; Nos. 95-754 and 95-886](../records/Medtronic_Inc_v_Lohr_and_Lohr_v_Medtronic_Inc_merits_1996-06-26.md) | No. 95-754 affirmed on the restored design claims, 9-0; No. 95-886 reversed as to the challenged manufacturing and warning preemption barriers, 6-3, with unanimous rejection of the categorical parallel-duty bar; remanded for ordinary proceedings. |
@@ -302,148 +306,3 @@ These ten entries are source admissions, not additional judicial decisions. Thei
 | 1996-04-26 | [Prison Litigation Reform Act of 1995, Public Law 104-134, Title VIII, sections 802–804; no Court docket.](../records/Prison_Litigation_Reform_Act_sections_802_804_statutory_enactment_1996-04-26.md) | The enacted prison-relief, prisoner-suit and filing provisions enter the source record. No existing injunction is terminated and no pending claim or filing is disposed of by this admission. |
 | 1996-04-29 | [Utah H.B. 206, Chapter 267, Laws of Utah 1996; source supplied in Leavitt v. Jane L., No. 95-1242.](../records/Utah_HB206_admitted_source_1996-04-29.md) | Admit the bounded enacted text and reported effective date; no Court action, merits judgment, repeal determination or injunction change. |
 
-## 8. Precise source-relocation catalogue
-
-Each existing destination below was checked as a filesystem location, not re-read for substantive legal validation. Line numbers refer to the unchanged source file. The working relative path is interpreted from that source file, not from this Audit. These 67 selected failures comprise the 65 active packet/copy occurrences and the two additional source receipts described above. The runtime copy of the Settle timing-addendum link is an additional occurrence with the same relocated destination.
-
-### [freeze/OT_1995CHUNK10_FELKER_NEUTRAL.md](../freeze/OT_1995CHUNK10_FELKER_NEUTRAL.md)
-
-| Line | Broken literal target | Working relative target |
-|---:|---|---|
-| 85 | `research_b_sources/` | `../entering-law/research_b_sources` |
-| 87 | `research_b_sources/felker_02._Petition_for_Writ_of_Certiorari.pdf` | `../entering-law/research_b_sources/felker_02._Petition_for_Writ_of_Certiorari.pdf` |
-| 87 | `research_b_sources/felker_02._Petition_for_Writ_of_Certiorari_djvu.txt` | `../entering-law/research_b_sources/felker_02._Petition_for_Writ_of_Certiorari_djvu.txt` |
-| 88 | `research_b_sources/felker_04._Joint_Appendix.pdf` | `../entering-law/research_b_sources/felker_04._Joint_Appendix.pdf` |
-| 88 | `research_b_sources/felker_04._Joint_Appendix_djvu.txt` | `../entering-law/research_b_sources/felker_04._Joint_Appendix_djvu.txt` |
-| 89 | `research_b_sources/felker_05._Petitioners_Brief.pdf` | `../entering-law/research_b_sources/felker_05._Petitioners_Brief.pdf` |
-| 89 | `research_b_sources/felker_05._Petitioners_Brief_djvu.txt` | `../entering-law/research_b_sources/felker_05._Petitioners_Brief_djvu.txt` |
-| 89 | `research_b_sources/felker_06._Respondents_Brief.pdf` | `../entering-law/research_b_sources/felker_06._Respondents_Brief.pdf` |
-| 89 | `research_b_sources/felker_06._Respondents_Brief_djvu.txt` | `../entering-law/research_b_sources/felker_06._Respondents_Brief_djvu.txt` |
-| 90 | `research_b_sources/AEDPA_TITLE_I.txt` | `../entering-law/research_b_sources/AEDPA_TITLE_I.txt` |
-
-### [freeze/OT_1995CHUNK10_LABRON_NEUTRAL.md](../freeze/OT_1995CHUNK10_LABRON_NEUTRAL.md)
-
-| Line | Broken literal target | Working relative target |
-|---:|---|---|
-| 116 | `research_b_sources/labron_2._Petition_for_Writ_of_Certiorari.pdf` | `../entering-law/research_b_sources/labron_2._Petition_for_Writ_of_Certiorari.pdf` |
-| 116 | `research_b_sources/labron_2._Petition_for_Writ_of_Certiorari_djvu.txt` | `../entering-law/research_b_sources/labron_2._Petition_for_Writ_of_Certiorari_djvu.txt` |
-| 116 | `research_b_sources/labron_3._Appendix_djvu.txt` | `../entering-law/research_b_sources/labron_3._Appendix_djvu.txt` |
-| 117 | `research_b_sources/labron_4._Reply_Brief.pdf` | `../entering-law/research_b_sources/labron_4._Reply_Brief.pdf` |
-| 117 | `research_b_sources/labron_4._Reply_Brief_djvu.txt` | `../entering-law/research_b_sources/labron_4._Reply_Brief_djvu.txt` |
-| 117 | `research_b_sources/labron_5._Reply_Brief_djvu.txt` | `../entering-law/research_b_sources/labron_5._Reply_Brief_djvu.txt` |
-| 118 | `research_b_sources/kilgore_2._Petition_for_Writ_of_Certiorari.pdf` | `../entering-law/research_b_sources/kilgore_2._Petition_for_Writ_of_Certiorari.pdf` |
-| 118 | `research_b_sources/kilgore_2._Petition_for_Writ_of_Certiorari_djvu.txt` | `../entering-law/research_b_sources/kilgore_2._Petition_for_Writ_of_Certiorari_djvu.txt` |
-| 118 | `research_b_sources/kilgore_3._Opposition_Brief.pdf` | `../entering-law/research_b_sources/kilgore_3._Opposition_Brief.pdf` |
-| 118 | `research_b_sources/kilgore_3._Opposition_Brief_djvu.txt` | `../entering-law/research_b_sources/kilgore_3._Opposition_Brief_djvu.txt` |
-| 118 | `research_b_sources/kilgore_4._Reply_Brief.pdf` | `../entering-law/research_b_sources/kilgore_4._Reply_Brief.pdf` |
-| 118 | `research_b_sources/kilgore_4._Reply_Brief_djvu.txt` | `../entering-law/research_b_sources/kilgore_4._Reply_Brief_djvu.txt` |
-
-### [freeze/OT_1995CHUNK10_NEUTRAL.md](../freeze/OT_1995CHUNK10_NEUTRAL.md)
-
-| Line | Broken literal target | Working relative target |
-|---:|---|---|
-| 206 | `research_b_sources/` | `../entering-law/research_b_sources` |
-| 208 | `research_b_sources/felker_02._Petition_for_Writ_of_Certiorari.pdf` | `../entering-law/research_b_sources/felker_02._Petition_for_Writ_of_Certiorari.pdf` |
-| 208 | `research_b_sources/felker_02._Petition_for_Writ_of_Certiorari_djvu.txt` | `../entering-law/research_b_sources/felker_02._Petition_for_Writ_of_Certiorari_djvu.txt` |
-| 209 | `research_b_sources/felker_04._Joint_Appendix.pdf` | `../entering-law/research_b_sources/felker_04._Joint_Appendix.pdf` |
-| 209 | `research_b_sources/felker_04._Joint_Appendix_djvu.txt` | `../entering-law/research_b_sources/felker_04._Joint_Appendix_djvu.txt` |
-| 210 | `research_b_sources/felker_05._Petitioners_Brief.pdf` | `../entering-law/research_b_sources/felker_05._Petitioners_Brief.pdf` |
-| 210 | `research_b_sources/felker_05._Petitioners_Brief_djvu.txt` | `../entering-law/research_b_sources/felker_05._Petitioners_Brief_djvu.txt` |
-| 210 | `research_b_sources/felker_06._Respondents_Brief.pdf` | `../entering-law/research_b_sources/felker_06._Respondents_Brief.pdf` |
-| 210 | `research_b_sources/felker_06._Respondents_Brief_djvu.txt` | `../entering-law/research_b_sources/felker_06._Respondents_Brief_djvu.txt` |
-| 211 | `research_b_sources/AEDPA_TITLE_I.txt` | `../entering-law/research_b_sources/AEDPA_TITLE_I.txt` |
-| 925 | `research_b_sources/winstar_07._Joint_Appendix_Vol_I_djvu.txt` | `../entering-law/research_b_sources/winstar_07._Joint_Appendix_Vol_I_djvu.txt` |
-| 925 | `research_b_sources/winstar_08._Joint_Appendix_Vol_II_djvu.txt` | `../entering-law/research_b_sources/winstar_08._Joint_Appendix_Vol_II_djvu.txt` |
-| 925 | `research_b_sources/winstar_03._Appendix_djvu.txt` | `../entering-law/research_b_sources/winstar_03._Appendix_djvu.txt` |
-| 925 | `research_b_sources/winstar_09._Petitioners_Brief.pdf` | `../entering-law/research_b_sources/winstar_09._Petitioners_Brief.pdf` |
-| 925 | `research_b_sources/winstar_10._Respondents_Brief.pdf` | `../entering-law/research_b_sources/winstar_10._Respondents_Brief.pdf` |
-| 925 | `research_b_sources/winstar_11._Respondents_Brief.pdf` | `../entering-law/research_b_sources/winstar_11._Respondents_Brief.pdf` |
-| 957 | `PUBLIC_Hercules_Inc_v_United_States_merits_1996-03-04.md` | `../entering-law/PUBLIC_Hercules_Inc_v_United_States_merits_1996-03-04.md` |
-| 1083 | `research_b_sources/labron_2._Petition_for_Writ_of_Certiorari.pdf` | `../entering-law/research_b_sources/labron_2._Petition_for_Writ_of_Certiorari.pdf` |
-| 1083 | `research_b_sources/labron_2._Petition_for_Writ_of_Certiorari_djvu.txt` | `../entering-law/research_b_sources/labron_2._Petition_for_Writ_of_Certiorari_djvu.txt` |
-| 1083 | `research_b_sources/labron_3._Appendix_djvu.txt` | `../entering-law/research_b_sources/labron_3._Appendix_djvu.txt` |
-| 1084 | `research_b_sources/labron_4._Reply_Brief.pdf` | `../entering-law/research_b_sources/labron_4._Reply_Brief.pdf` |
-| 1084 | `research_b_sources/labron_4._Reply_Brief_djvu.txt` | `../entering-law/research_b_sources/labron_4._Reply_Brief_djvu.txt` |
-| 1084 | `research_b_sources/labron_5._Reply_Brief_djvu.txt` | `../entering-law/research_b_sources/labron_5._Reply_Brief_djvu.txt` |
-| 1085 | `research_b_sources/kilgore_2._Petition_for_Writ_of_Certiorari.pdf` | `../entering-law/research_b_sources/kilgore_2._Petition_for_Writ_of_Certiorari.pdf` |
-| 1085 | `research_b_sources/kilgore_2._Petition_for_Writ_of_Certiorari_djvu.txt` | `../entering-law/research_b_sources/kilgore_2._Petition_for_Writ_of_Certiorari_djvu.txt` |
-| 1085 | `research_b_sources/kilgore_3._Opposition_Brief.pdf` | `../entering-law/research_b_sources/kilgore_3._Opposition_Brief.pdf` |
-| 1085 | `research_b_sources/kilgore_3._Opposition_Brief_djvu.txt` | `../entering-law/research_b_sources/kilgore_3._Opposition_Brief_djvu.txt` |
-| 1085 | `research_b_sources/kilgore_4._Reply_Brief.pdf` | `../entering-law/research_b_sources/kilgore_4._Reply_Brief.pdf` |
-| 1085 | `research_b_sources/kilgore_4._Reply_Brief_djvu.txt` | `../entering-law/research_b_sources/kilgore_4._Reply_Brief_djvu.txt` |
-
-### [freeze/OT_1995CHUNK10_WINSTAR_NEUTRAL.md](../freeze/OT_1995CHUNK10_WINSTAR_NEUTRAL.md)
-
-| Line | Broken literal target | Working relative target |
-|---:|---|---|
-| 84 | `research_b_sources/winstar_07._Joint_Appendix_Vol_I_djvu.txt` | `../entering-law/research_b_sources/winstar_07._Joint_Appendix_Vol_I_djvu.txt` |
-| 84 | `research_b_sources/winstar_08._Joint_Appendix_Vol_II_djvu.txt` | `../entering-law/research_b_sources/winstar_08._Joint_Appendix_Vol_II_djvu.txt` |
-| 84 | `research_b_sources/winstar_03._Appendix_djvu.txt` | `../entering-law/research_b_sources/winstar_03._Appendix_djvu.txt` |
-| 84 | `research_b_sources/winstar_09._Petitioners_Brief.pdf` | `../entering-law/research_b_sources/winstar_09._Petitioners_Brief.pdf` |
-| 84 | `research_b_sources/winstar_10._Respondents_Brief.pdf` | `../entering-law/research_b_sources/winstar_10._Respondents_Brief.pdf` |
-| 84 | `research_b_sources/winstar_11._Respondents_Brief.pdf` | `../entering-law/research_b_sources/winstar_11._Respondents_Brief.pdf` |
-| 116 | `PUBLIC_Hercules_Inc_v_United_States_merits_1996-03-04.md` | `../entering-law/PUBLIC_Hercules_Inc_v_United_States_merits_1996-03-04.md` |
-
-### [freeze/OT_1995CHUNK9_SETTLE_NEUTRAL.md](../freeze/OT_1995CHUNK9_SETTLE_NEUTRAL.md)
-
-| Line | Broken literal target | Working relative target |
-|---:|---|---|
-| 116 | `OT_1995CHUNK9_SETTLE_TIMING_ADDENDUM.md` | `../entering-law/OT_1995CHUNK9_SETTLE_TIMING_ADDENDUM.md` |
-
-### [entering-law/OT_1995CHUNK8_REVISION_EGELHOFF_PUBLIC_LAW/Bennis_v_Michigan_merits_1996-03-04.md](../entering-law/OT_1995CHUNK8_REVISION_EGELHOFF_PUBLIC_LAW/Bennis_v_Michigan_merits_1996-03-04.md)
-
-| Line | Broken literal target | Working relative target |
-|---:|---|---|
-| 114 | `../sources/chunk4_c/bennis_lower_opinions_only.txt` | `../../sources/chunk4_c/bennis_lower_opinions_only.txt` |
-
-### [entering-law/OT_1995CHUNK8_REVISION_EGELHOFF_PUBLIC_LAW/Pinder_v_Johnson_merits_1996-05-21.md](../entering-law/OT_1995CHUNK8_REVISION_EGELHOFF_PUBLIC_LAW/Pinder_v_Johnson_merits_1996-05-21.md)
-
-| Line | Broken literal target | Working relative target |
-|---:|---|---|
-| 114 | `../sources/chunk7_a/pinder_district.txt` | `../../sources/chunk7_a/pinder_district.txt` |
-
-### [entering-law/OT_1995CHUNK8_REVISION_LEAVITT_PUBLIC_LAW/Bennis_v_Michigan_merits_1996-03-04.md](../entering-law/OT_1995CHUNK8_REVISION_LEAVITT_PUBLIC_LAW/Bennis_v_Michigan_merits_1996-03-04.md)
-
-| Line | Broken literal target | Working relative target |
-|---:|---|---|
-| 114 | `../sources/chunk4_c/bennis_lower_opinions_only.txt` | `../../sources/chunk4_c/bennis_lower_opinions_only.txt` |
-
-### [entering-law/OT_1995CHUNK8_REVISION_LEAVITT_PUBLIC_LAW/Pinder_v_Johnson_merits_1996-05-21.md](../entering-law/OT_1995CHUNK8_REVISION_LEAVITT_PUBLIC_LAW/Pinder_v_Johnson_merits_1996-05-21.md)
-
-| Line | Broken literal target | Working relative target |
-|---:|---|---|
-| 114 | `../sources/chunk7_a/pinder_district.txt` | `../../sources/chunk7_a/pinder_district.txt` |
-
-### [entering-law/OT_1995CHUNK8_REVISION_VERA_PUBLIC_LAW/Bennis_v_Michigan_merits_1996-03-04.md](../entering-law/OT_1995CHUNK8_REVISION_VERA_PUBLIC_LAW/Bennis_v_Michigan_merits_1996-03-04.md)
-
-| Line | Broken literal target | Working relative target |
-|---:|---|---|
-| 114 | `../sources/chunk4_c/bennis_lower_opinions_only.txt` | `../../sources/chunk4_c/bennis_lower_opinions_only.txt` |
-
-### [entering-law/OT_1995CHUNK8_REVISION_VERA_PUBLIC_LAW/Pinder_v_Johnson_merits_1996-05-21.md](../entering-law/OT_1995CHUNK8_REVISION_VERA_PUBLIC_LAW/Pinder_v_Johnson_merits_1996-05-21.md)
-
-| Line | Broken literal target | Working relative target |
-|---:|---|---|
-| 114 | `../sources/chunk7_a/pinder_district.txt` | `../../sources/chunk7_a/pinder_district.txt` |
-
-### [freeze/OT_1995CHUNK1_LIBRETTI_NEUTRAL_SUPPLEMENT.md](../freeze/OT_1995CHUNK1_LIBRETTI_NEUTRAL_SUPPLEMENT.md)
-
-| Line | Broken literal target | Working relative target |
-|---:|---|---|
-| 7 | `../sources/preflight_b/B_libretti_05._Joint_Appendix.pdf` | `../tmp/sources-local/preflight_b/B_libretti_05._Joint_Appendix.pdf` |
-
-### [sources/chunk5_a/wisconsin_validation_note.md](../sources/chunk5_a/wisconsin_validation_note.md)
-
-| Line | Broken literal target | Working relative target |
-|---:|---|---|
-| 11 | `wisconsin_appendix.pdf` | `../../tmp/sources-local/chunk5_a/wisconsin_appendix.pdf` |
-
-## 9. Remaining work and unusual features
-
-The next audit can proceed to legal review only after operative link navigation and the contradictory current workspace summaries are resolved and checked. It must then freshly review the legal substance of all Records and candidates, including Justice-specific historical departures, the sufficiency of controlling coalitions, precedent treatment, remedy limits, same-day entering law and cross-case continuity. Operator verification of actual commit existence, ledger commitment order, pinned history and concise lineage also remains outstanding. The term is not cleared for synchronized publication.
-
-The recorded term contains important arithmetic distinctions for that review: Love's judgment and proposition coalitions differ; Lotus and Lewis v. United States have fractured grounds for their respective judgments; Seminole Tribe has no common State-amenability rationale; Denver has different votes and rationales for each challenged provision; Winstar's common contractual holdings are distinct from its minority sovereign-construction grounds. These are descriptions of the supplied topology, not fresh determinations that the claimed controlling propositions are legally valid. Virginia has eight participants (Thomas excluded), IBM and Lotus have eight (Stevens excluded), Jones has eight (Breyer excluded), and Maine excludes Souter. Public nondisclosure remains separate from internal arithmetic.
-
-Labron/Kilgore's inventory retains the older docket 95-1692; manifest line 599 documents filed-cover authentication of 95-1738, which the canonical Record and render use. This documented source correction is not an additional unresolved docket defect. Bowersox contributes both an interim and a final action, so 115 scheduled inventory entries produce 116 completed Court events. Jones's reserved financial determination is the one expressly stopped adjudicative determination; the twelve carried docket matters remain at their distinct entered stages.
-
-No adjudication was corrected or reopened in this pass. The substantive audit remains deferred, the three candidates remain staged, and the operator retains verification and Commit responsibility.
