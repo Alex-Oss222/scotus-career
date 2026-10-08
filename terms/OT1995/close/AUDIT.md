@@ -1,0 +1,449 @@
+# October Term 1995 — Audit
+
+**Audit date:** October 7, 2026.  
+**Status:** NOT READY FOR CLOSE COMMIT. Deterministic discrepancies remain; the fresh substantive legal audit is deferred.  
+**Scope:** 115 scheduled inventory entries, producing 116 completed Court events, plus ten Admitted Source Records; 126 canonical Records in total. Court-event cutoff: July 1, 1996.  
+**Authority:** Records control. This audit changes no adjudication, freeze, projection, candidate tracker, public render, or opening tracker.
+
+## 1. Outcome and audit boundary
+
+The inventory, canonical event coverage, generated Public Projections, runtime splits, and recorded vote arithmetic reconcile at the scopes described below. The required link-resolution check does not pass: operative frozen packets and derived public-law copies contain relative source links that resolve from the wrong directory. The cited files have been located elsewhere within OT1995; a broken navigation link is not proof of a missing historical record, an unsupported vote, or litigant default. Current workspace prose also retains inconsistent source totals and effective-date summaries.
+
+The repository's Audit instruction requires: “Only after those pass does a fresh AI audit review legal substance.” Accordingly, the fresh reviewers performed deterministic participation, tally and joinder checks only. No fresh legal approval of the term's holdings, historical departures, coalition grounds, remedies, candidate substance, or continuity is issued. The remaining legal audit must occur after the deterministic discrepancies are resolved. Existing pass notes are not a substitute for that review.
+
+Only this `close/AUDIT.md` is written as a durable term artifact in this task; temporary scripts and receipts are under the allowed top-level `tmp/`. The locked top-level directory was not read, listed, searched, or modified. No infrastructure or `state/` file was changed. Candidate and pass-note cleanup belongs to the later successful Commit pass.
+
+### Operator-instruction breach in the initial checker
+
+The operator required the initial `python tools/check_term.py OT1995` check and separately prohibited every Git command. The checker was run before its implementation was inspected. It internally invoked `git cat-file -e` for hex-like strings. This violated the no-Git instruction; the checker should have been inspected first. The breach was disclosed during the task. No subsequent Git invocation was made, and no Git mutation was performed. This audit does not present the task as compliant with the no-Git instruction.
+
+The initial checker returned exit code 0, no errors, and 70 warnings. The warning tokens are source identifiers, dates, a currency-amount anchor, or a Technical Advice Memorandum number rather than missing commit citations, as classified below. The checker's result alone is not a complete audit. Commit existence and truthful lineage against repository history remain for operator verification; this task does not certify provenance from the incidental forbidden helper calls.
+
+## 2. Deterministic results
+
+| Check | Result and scope |
+|---|---|
+| Initial term checker | Exit 0; no errors; 70 false-positive commit-reference warnings. Contains the instruction breach described above. |
+| Opening Holdings volume identity | The initial checker's `holdings_volumes.py check` subcheck reported no synchronization error. Opening state was not republished. |
+| Inventory → manifest → Records | 115 inventory rows match 115 completed manifest rows. Bowersox has two dated Court events, accounting for 116 distinct Court Records. All 126 canonical Records, including ten noncase-law sources, occur once in the ledger. |
+| Records → Render Inputs → render event coverage | All 116 Court Records occur exactly once across ten Render Inputs. Ten admitted sources are appropriately outside the Court-event render count. Ten render entry counts and chronology-table counts match. |
+| Effective-date order | Inventory/manifest dates match their completed Records; manifest and Render Input ordering is chronological. This verifies dates and ordering, not the substantive sufficiency of every entering-law premise. |
+| Public Projection identity | All 116 generated source-record bodies equal their canonical Record's bounded Public Projection. |
+| Runtime split freshness | All ten `split_chunk.py --check` results are current. No split was regenerated or edited. |
+| Participation, judgment votes and joins | All 116 Court Records' stated judgment and opinion coalitions were checked numerically. No tally, support/opposition overlap, or counted nonparticipant discrepancy was established. Judgment-only agreement and partial joins were kept separate. Early and middle reviewers checked corresponding render accounts; later-record arithmetic and selected corresponding render accounts were checked by the coordinating reviewer. Full substantive render fidelity remains for the legal stage. |
+| Links and anchors in current principal artifacts | Canonical Records, Render Inputs, public outputs, four workspace files, and candidates yielded zero failed local navigation targets in the scan. Candidate Holdings references were checked against the staged candidate, not rejected merely because the future publication anchors are absent from opening `state/HOLDINGS.md`. |
+| Links in frozen and derived reading artifacts | FAIL. Concrete operative source-path failures appear in §3 and the relocation catalogue. Imported historical preparation links and scratch copies are separately classified. |
+| Coordinated candidate headers | Three candidates retain identical opening publication fields, pending synchronized Commit. That staging choice is not an isolated publication or a header discrepancy. |
+| Candidate cleanup | Three candidates and current pass notes are expected before Commit. No Term-Close Dossier has yet been published. No candidate or pass note was deleted. |
+| Open-matter carry-forward | The Standing State candidate retains twelve docket matters, including the three separate Shieh petitions. Jones's unfinished financial determination remains explicitly open. No terminal action is inferred. |
+| Commit references and lineage | Operator verification pending. No fresh provenance pass was completed after discovery of the prohibited helper calls. |
+| Fresh legal audit | NOT PERFORMED because the preceding deterministic gate failed. |
+
+The link scan examined 1,887 term Markdown documents and 35,326 links. It checked 27,510 local/current-branch references; 6,800 external URLs were counted but not fetched, 972 pinned-revision references were reserved for provenance verification, and 44 references into the locked directory were skipped before inspecting their targets. Thus a local-link pass is not authentication of pinned history or an external-URL availability certification. The ledger itself identifies its ordering and prior commit strings as unverified metadata; its commitment order remains part of the operator's provenance work.
+
+### Participation verification limit
+
+The arithmetic check verifies the recorded rosters and does not independently authenticate historical attendance. In Locomotive Engineers (Record lines 8–10), Yamaha (8–10), Lotus (8–10, 68), Zicherman (8–10, 61), Commissioner v. Lundy (10, 53, 57), and Neal (8, 67), an argument date accompanies generic participation wording rather than a separately explicit statement for both argument and decision. Similar generic wording appears in some later argued Records, including IBM and Koon. No conflicting roster or invalid vote is established by that wording. Two-milestone verification should be expressly completed or its supported limitation retained in the resumed audit. A matter with no supplied argument/submission milestone must not acquire an invented one merely to fill a field.
+
+## 3. Discrepancies requiring resolution before the legal audit
+
+### 3.1 Operative source links resolve from the wrong directory
+
+The definite active set comprises 65 relocation failures: 29 in the individual Felker, Labron/Kilgore and Winstar neutral packets, their 29 counterparts in the combined chunk 10 neutral packet, one in the Settle frozen neutral packet, and six source links in Bennis/Pinder public-law copies. Two additional source-receipt PDF links have located alternatives. The catalogue below supplies each affected file and line, the literal link, and the existing target.
+
+Examples establishing the failure:
+
+- [Felker frozen neutral packet](../freeze/OT_1995CHUNK10_FELKER_NEUTRAL.md), lines 85–90, links to `research_b_sources/...` as though the packet still sat in `entering-law/`. Its petition, appendix, merits briefs and enacted-text files actually sit in [entering-law/research_b_sources](../entering-law/research_b_sources/). From `freeze/`, the working prefix is `../entering-law/research_b_sources/`.
+- The [Egelhoff reading copy of Bennis](../entering-law/OT_1995CHUNK8_REVISION_EGELHOFF_PUBLIC_LAW/Bennis_v_Michigan_merits_1996-03-04.md), line 114, retains `../sources/chunk4_c/bennis_lower_opinions_only.txt`. The existing source is [the term's lower-opinion text](../sources/chunk4_c/bennis_lower_opinions_only.txt); the nested copy requires `../../sources/...`. The corresponding Pinder copy and four Bennis/Pinder copies in the Leavitt and Vera directories have the same relocation issue.
+
+These are navigational defects, not a finding that the Court's decisions lack evidentiary support. Frozen substantive commitments and approved brief language must remain intact. Resolution should establish correct navigation or a clearly authoritative source-location mapping, preserve frozen substance and provenance, and rerun the bounded link check. This Audit task makes no such repair.
+
+The broad scan reports 4,056 unresolved local-link occurrences, not 4,056 lost documents or cases. It classifies 2,278 as imported preparation references, 182 as references to the deleted and disclaimed preparation receipt, one as a superseded Wood reference, 1,121 as relocations with an alternate base, 287 as scratch-copy links, and 187 as other unresolved references. These categories are a navigation inventory, not a certification that every ambiguous reference is operative. The specific active catalogue below is sufficient to fail the check. A resumed deterministic pass must finish classification of any remaining reference claimed as necessary support.
+
+The inventory's three absent bookkeeping links and the brief-relative `assessment/` and `inherited/` references were already disclosed in [OPENING_VALIDATION.md](../audit/OPENING_VALIDATION.md), lines 115–119, as imports from the user's other project. They are not newly discovered missing inventory matters. The current workspace expressly disclaims the deleted `CHUNKS5_10_PREPARATION_REVIEW.md` as a live source. The old Wood assignment receipt's summary-merits link is documentary history superseded by the present plenary-grant Record. None of these classifications authorizes editing the user's briefs or resurrecting a superseded adjudication.
+
+### 3.2 Workspace summaries retain inconsistent current-source totals and cutoffs
+
+The current headers correctly report ten admitted sources and 126 Records, and all canonical Record names are represented in the workspace. Nevertheless:
+
+- [manifest.md](../workspace/manifest.md), line 183, and [continuity.md](../workspace/continuity.md), line 5297, still state “Eight noncase-law sources.” The [neutral projection](../workspace/neutral-projection.md), line 1307, also retains the earlier source total.
+- Continuity lines 5728, 5733 and 5738 still describe April 26 as the latest admitted-source effective date; neutral-projection line 1853 likewise says “Latest admitted source: April 26, 1996.” The current corpus includes the [Utah H.B. 206 source effective April 29](../records/Utah_HB206_admitted_source_1996-04-29.md), and the later continuity material includes it.
+
+The current projection should either replace these summaries with the complete present account or unmistakably identify them as retained historical snapshots. This is not evidence that a later adjudication actually omitted Utah, the additional cable source, or another operative law; that legal dependency inquiry remains deferred. Enactment date and effective date must not be conflated in any cleanup. Records remain controlling.
+
+### Resolved documentary concern
+
+The interim Bowersox Record's statement that Ayers was still stopped is not treated as an unresolved chronology defect. [AYERS_COMPLETION_CHRONOLOGY.md](../freeze/OT_1995CHUNK5_AYERS_COMPLETION_CHRONOLOGY.md), lines 3–9, expressly documents later completion, preserves the already completed Records, classifies the earlier snapshots as historical preparation, and supplies the completed Ayers material to the pending Bowersox follow-up. This audit verified that documentary reconciliation; it did not independently approve the legal-materiality analysis.
+
+## 4. Checker-warning classification and remaining provenance work
+
+All 70 initial warning occurrences fall within these noncommit token groups:
+
+| Token | What it identifies |
+|---|---|
+| `8314011` | Technical Advice Memorandum number; Holdings candidate line 20969. |
+| `A40385013`, `A40386012`, `A40385014` | Internet Archive item-ID fragments, including 44 Liquormart, American Life League and Felker sources. |
+| `40508923` | Currency amount in a Ursery companion navigation anchor; Standards candidate line 2502. |
+| `19960621`, `19960624`, `19960626` | Dates in preserved `PRE_YYYYMMDD` snapshot filenames. |
+| `58F3d59` | Gray's lower-court reporter filename. |
+| `ec21103`, `ec20302` | Parts of `sec21103` and `sec20302` in official statutory PDF paths. |
+| `1000370934`, `1000202729` | Source archive document identifiers for the Louisiana/Mississippi and Maine decrees. |
+| `adc30866` | UNT `metadc` source identifier fragment in Love. |
+| `889392159` | vLex document identifier in Egelhoff. |
+
+The checker's broad 7–40-hex-character regex explains these warnings. None should be logged as a missing commit on that evidence. True lineage claims still require the operator's repository-history verification. This report does not revise the checker or any infrastructure.
+
+## 5. Stopped determination and continuing docket
+
+**Jones v. ABC-TV, No. 95-7186 — exact blocker:** final financial determination requires authenticated Rule 39.1 financial papers (Form 4 sworn affidavit or declaration under 28 U.S.C. §1746), a verified qualifying appointed-counsel exception, or another supported applicable basis; none is available in the present source record. The financial motion and certiorari petition remain pending. The February 26 filing-management order is complete, with all eight participating Justices supporting pending treatment and refusal of the proposed restrictions; Breyer does not participate. The source gap is not a finding of failed filing, financial ineligibility, false statement, or default. No new deadline is imposed.
+
+The twelve continuing docket matters are:
+
+| Matter | Entered disposition and next stage |
+|---|---|
+| Wyoming v. Oklahoma, No. 112, Original | Earlier declaratory judgment/injunction; retained implementation jurisdiction. No new OT1995 vote. |
+| United States v. Louisiana (Alabama and Mississippi Boundary Case), No. 9, Original | Earlier supplemental decree; retained implementation jurisdiction. No new OT1995 vote. |
+| Delaware v. New York, No. 111, Original | Earlier remand to Special Master; no final allocation/decree. No new OT1995 vote. |
+| Nebraska v. Wyoming, No. 108, Original | Earlier admitted claims remain before the Special Master; liability/injury undecided. No new OT1995 vote. |
+| Kansas v. Colorado, No. 105, Original | Earlier liability determination; depletion/remedy proceedings remain. No new OT1995 vote. |
+| Wood v. Bartholomew, No. 94-1419 | Plenary certiorari grant; public poll undisclosed. Full briefing and argument remain pending. |
+| Louisiana v. Mississippi, No. 121, Original | December 4 implementing decree entered; public numerical vote undisclosed. Implementation jurisdiction retained. |
+| Jones v. ABC-TV, No. 95-7186 | Financial motion and petition pending; February 26 management action supported by all eight participants. Exact blocker above. |
+| United States v. Maine (Massachusetts Boundary Case), No. 35, Original | Supplemental decree entered; Souter does not participate; no numerical vote disclosed. Implementation jurisdiction retained. |
+| Shieh v. Kakita, No. 95-7587 | Individual financial leave granted, 9–0; separate certiorari petition pending. |
+| Shieh v. Ninth Circuit, No. 95-7588 | Individual financial leave granted, 9–0; separate certiorari petition pending. |
+| Shieh v. Krieger, No. 95-7589 | Individual financial leave granted, 9–0; separate certiorari petition pending. |
+
+The completed Doe v. Kirchner dismissal resolves its former stop. Ordinary lower-court remands in completed merits cases are not automatically added as pending Supreme Court cases. No execution, service, expiration, compliance event, or later decree is presumed.
+
+## 6. Operator summary — every completed Court event
+
+The following register is drawn from each canonical Record's opening Result field, with limited vote/disclosure clarifications taken from that Record. It records existing adjudications and does not certify their legal correctness. Compound votes and judgment/rationale differences remain visible. Same-day row order is navigation only. For nondisclosing actions, no public tally is inferred from a roster or opinion form.
+### Chunk 1
+
+| Date | Matter | Disposition and vote |
+|---|---|---|
+| 1995-10-10 | [Wood v. Bartholomew; No. 94-1419](../records/Wood_v_Bartholomew_certiorari_1995-10-10.md) | Certiorari granted for plenary consideration. No merits judgment entered. Internal disposition alignment: five oppose summary disposition, four favor summary reversal; all nine grant the presented question. The petition poll is not published. |
+| 1995-10-16 | [Doe v. Taylor Independent School District; Fifth Circuit No. 90-8431; no separate Supreme Court docket supplied](../records/Doe_v_Taylor_ISD_merits_1995-10-16.md) | Affirmed and remanded: denial of Lankford’s immunity, 5–4; Caplinger’s immunity, 9–0 in judgment, on an eight-Justice notice rationale; pure factual-sufficiency review excluded unanimously. |
+| 1995-10-23 | [Hodge v. Jones; Fourth Circuit No. 93-1182; no separate Supreme Court docket supplied](../records/Hodge_v_Jones_merits_1995-10-23.md) | Judgment for individual defendants affirmed, 9–0; eight Justices rest damages on qualified immunity, while Stone-Zsela concurs on the merits. Prospective expunction/declaratory relief is moot, unanimously. |
+| 1995-10-30 | [Tuggle v. Netherland; No. 95-6016; reported identifier 516 U.S. 10](../records/Tuggle_v_Netherland_summary_merits_1995-10-30.md) | Challenged Ake and sentence-review component vacated and remanded, 9–0; unanimous opinion by Stevens; no collateral error-effect standard selected. |
+| 1995-10-31 | [Citizens Bank of Maryland v. Strumpf, No. 94-1340](../records/Citizens_Bank_of_Maryland_v_Strumpf_merits_1995-10-31.md) | Reverse and remand for proceedings consistent with the opinion, 9–0. |
+| 1995-10-31 | [Louisiana v. Mississippi et al., No. 121, Original](../records/Louisiana_v_Mississippi_original_exceptions_1995-10-31.md) | Exceptions overruled; report adopted at the stated scope; new hearing denied; verified decree directed; original jurisdiction retained, all 9–0 in judgment. |
+| 1995-11-07 | [Libretti v. United States, No. 94-7427](../records/Libretti_v_United_States_merits_1995-11-07.md) | Affirm the Tenth Circuit on the questions reviewed, 8–1; no new forfeiture proceeding ordered. |
+| 1995-11-13 | [American Life League v. Reno; Fourth Circuit No. 94-1869, 47 F.3d 642; E.D. Virginia No. 94-700-A, 855 F. Supp. 137. Research petition No. 94-1867 is not adopted as an invented plenary merits docket](../records/American_Life_League_v_Reno_merits_1995-11-13.md) | Affirm the presented constitutional and categorical damages dismissals, 9–0; vacate the RFRA prospective-enforcement dismissal and remand, 5–4. |
+| 1995-11-20 | [A. St. P. C. v. B. C., No. 94-7810; Judgment below: 643 So. 2d 743 (La. 1994)](../records/A_St_P_C_v_B_C_merits_1995-11-20.md) | Affirm the Louisiana judgment on the federal proof-burden ground, 5–4; return for consistent state implementation. |
+| 1995-11-28 | [Field v. Mans, No. 94-967; 516 U.S. 59](../records/Field_v_Mans_merits_1995-11-28.md) | Vacate the First Circuit judgment and remand, 7–2; actual and justifiable reliance required, with debt nexus and application reserved. |
+| 1995-11-28 | [NLRB v. Town & Country Electric, Inc., No. 94-947; 516 U.S. 85](../records/NLRB_v_Town_and_Country_Electric_Inc_merits_1995-11-28.md) | Reverse the Eighth Circuit categorical employee-exclusion ruling and remand, 9–0, reserving other liability, individual coverage and remedy questions. |
+| 1995-11-29 | [Thompson v. Keohane, No. 94-6615; 516 U.S. 99](../records/Thompson_v_Keohane_merits_1995-11-29.md) | Vacate and remand for independent review of ultimate Miranda custody, 8–1, preserving statutory treatment of historical facts. |
+
+### Chunk 2
+
+| Date | Matter | Disposition and vote |
+|---|---|---|
+| 1995-12-04 | [Klinger v. Department of Corrections; Eighth Circuit No. 93-2928, 31 F.3d 727; Supreme Court docket not supplied](../records/Klinger_v_Department_of_Corrections_merits_1995-12-04.md) | Affirm reversal of existing equal-protection liability; vacate categorical dismissal and remand the preserved program claims, 9–0 on each component. |
+| 1995-12-04 | [Louisiana v. Mississippi et al., No. 121, Original; 516 U.S. 122](../records/Louisiana_v_Mississippi_original_decree_1995-12-04.md) | Enter the authenticated boundary decree; deny the bounded private-title cancellation prayer; retain original jurisdiction. All nine agree internally; the decree announces no numerical vote. |
+| 1995-12-05 | [Things Remembered, Inc. v. Petrarca, No. 94-1530; 516 U.S. 124](../records/Things_Remembered_Inc_v_Petrarca_merits_1995-12-05.md) | Affirm the Sixth Circuit appellate-jurisdiction dismissal, 9–0; covered-remand restriction applies notwithstanding bankruptcy removal. |
+| 1995-12-06 | [Bailey v. United States; Robinson v. United States, Nos. 94-7448 and 94-7492; 516 U.S. 137](../records/Bailey_and_Robinson_v_United_States_merits_1995-12-06.md) | Reverse both use-based appellate affirmances, 9–0; remand for bounded carrying consideration without immediate trial-conviction vacatur, 8–1, Stone-Zsela dissenting on that remedial difference. |
+| 1995-12-11 | [Good News/Good Sports Club v. School District of Ladue; 28 F.3d 1501; Eighth Circuit No. 93-2148; no separate Supreme Court docket supplied](../records/Good_News_Good_Sports_Club_v_School_District_of_Ladue_merits_1995-12-11.md) | Eighth Circuit judgment affirmed, 8–1; its reversal of the school-favoring district-court judgment and remedial remand remain operative. |
+| 1995-12-11 | [Love v. Pepersack; OT1995-015; Fourth Circuit No. 94-1582, 47 F.3d 120. No separately established Supreme Court docket](../records/Love_v_Pepersack_merits_1995-12-11.md) | Affirmed in part, vacated in part, and remanded. Due process, including contractual liberty: affirmed 5–4 without a common sufficient application rationale. Arms: vacated and remanded 5–4; six directly support the severable personal-right, incorporation and acquisition propositions. Personal immunity not decided. |
+| 1995-12-18 | [Southern Christian Leadership Conference of Alabama v. Sessions; 56 F.3d 1281; source petition identifier No. 95-647; no separate Supreme Court docket assigned](../records/Southern_Christian_Leadership_Conference_of_Alabama_v_Sessions_merits_1995-12-18.md) | Eleventh Circuit judgment vacated and remanded, 5–4; no present finding of Section 2 liability or electoral restructuring. |
+| 1996-01-08 | [Brotherhood of Locomotive Engineers v. Atchison, Topeka & Santa Fe Railroad Co., No. 94-1592; 516 U.S. 152](../records/Locomotive_Engineers_v_Atchison_Topeka_and_Santa_Fe_Railroad_Co_merits_1996-01-08.md) | Affirmed, 9–0; unanimous statutory rationale. |
+| 1996-01-08 | [Lawrence v. Chater, No. 94-9323; 516 U.S. 163](../records/Lawrence_v_Chater_GVR_1996-01-08.md) | Certiorari granted; Fourth Circuit judgment vacated and remanded. Internal disposition support 7–2; no petition poll published. |
+| 1996-01-08 | [Stutson v. United States, No. 94-8988; 516 U.S. 193](../records/Stutson_v_United_States_GVR_1996-01-08.md) | In forma pauperis leave and certiorari granted; Eleventh Circuit judgment vacated and remanded. Internal support 7–2; no petition poll published. |
+| 1996-01-09 | [Yamaha Motor Corp., U.S.A. v. Calhoun, No. 94-1387; 516 U.S. 199](../records/Yamaha_Motor_Corp_USA_v_Calhoun_merits_1996-01-09.md) | Affirmed, 9–0; §1292(b) rationale eight Justices, maritime-remedy rationale nine. |
+| 1996-01-15 | [Allridge v. Scott; Fifth Circuit No. 93-9137; judgment below reported at 41 F.3d 213 (1994)](../records/Allridge_v_Scott_merits_1996-01-15.md) | Parole-prediction and unoffered-evidence components affirmed; admitted-evidence mitigation component vacated and remanded, each 9–0. No present sentencing writ. |
+
+### Chunk 3
+
+| Date | Matter | Disposition and vote |
+|---|---|---|
+| 1996-01-16 | [Lotus Development Corp. v. Borland International, Inc., No. 94-2003; 516 U.S. 233](../records/Lotus_v_Borland_merits_1996-01-16.md) | Vacated and remanded, 5–3; no majority substantive copyright rationale; Stevens does not participate. |
+| 1996-01-16 | [Zicherman v. Korean Air Lines Co., Ltd.; Korean Air Lines Co., Ltd. v. Zicherman; Nos. 94-1361 and 94-1477; 516 U.S. 217](../records/Zicherman_v_Korean_Air_Lines_merits_1996-01-16.md) | Affirmed in part, reversed in part, and remanded, 9–0: neither relative may recover loss-of-society damages. |
+| 1996-01-17 | [Bank One Chicago, N.A. v. Midwest Bank & Trust Co.; No. 94-1175; 516 U.S. 264](../records/Bank_One_Chicago_v_Midwest_Bank_and_Trust_Co_merits_1996-01-17.md) | Reverse the Seventh Circuit's jurisdictional judgment and remand, 9–0; Thomas for a unanimous Court; underlying regulatory liability remains undecided. |
+| 1996-01-17 | [Commissioner v. Lundy, No. 94-1785; 516 U.S. 235](../records/Commissioner_v_Lundy_merits_1996-01-17.md) | Reversed and remanded, 7–2; Stevens and Thomas dissent. |
+| 1996-01-22 | [Attwood v. Singletary, No. 95-6710; 516 U.S. 297](../records/Attwood_v_Singletary_filing_and_certiorari_1996-01-22.md) | Financial leave granted; no new prospective filing condition; certiorari denied. Public numerical tally and petition poll undisclosed. |
+| 1996-01-22 | [Neal v. United States, No. 94-9088; 516 U.S. 284](../records/Neal_v_United_States_merits_1996-01-22.md) | Affirmed, 9–0. |
+| 1996-02-05 | [Beadle v. City of Tampa; Eleventh Circuit No. 93-3271; 42 F.3d 633; no separate Supreme Court docket assigned](../records/Beadle_v_City_of_Tampa_merits_1996-02-05.md) | Title VII accommodation judgment vacated and remanded, 8–1; Stone-Zsela dissents. |
+| 1996-02-05 | [United States v. Bishop; United States v. Stokes; 66 F.3d 569; Third Circuit Nos. 94-5321 and 94-5387; no separate Supreme Court docket supplied](../records/United_States_v_Bishop_and_Stokes_merits_1996-02-05.md) | Both judgments affirmed. Common commerce, punishment and identification components are unanimous; the booking answer is sustained 7–2 and the independent video ruling 8–1, with the answer-on-recording scope qualification retaining seven joins. |
+| 1996-02-12 | [Sherman v. Community Consolidated School District 21 of Wheeling Township; Seventh Circuit No. 91-1684; 980 F.2d 437. No Supreme Court docket supplied](../records/Sherman_v_Community_Consolidated_School_District_21_merits_1996-02-12.md) | School-program judgment affirmed, 8–1; separate Attorney General dismissal undisturbed, unanimously. Five join the contextual establishment framework; three join the concrete civic-acknowledgment ground without that framework. |
+| 1996-02-12 | [United States v. Hale; Eighth Circuit No. 91-3830; judgment below reported at 978 F.2d 1016; no Supreme Court docket supplied](../records/United_States_v_Hale_merits_1996-02-12.md) | Affirmed in part, vacated in part, and remanded. By 8–1, the Court vacates the appellate judgment insofar as it affirms the thirteen 18 U.S.C. §922(o) convictions and remands the preserved Second Amendment application; Stone-Zsela would affirm that component. The three 26 U.S.C. §5861(d) convictions and the separately presented power and evidence dispositions are affirmed by nine judgment votes. O'Connor writes the coordinated Court opinion. Stone-Zsela joins its bounded commerce and personal-holder/no-automatic-immunity propositions, otherwise concurs in the specified judgments without adding grounds, and dissents from the arms remand. |
+| 1996-02-21 | [Behrens v. Pelletier; No. 94-1244](../records/Behrens_v_Pelletier_merits_1996-02-21.md) | Ninth Circuit categorical one-appeal jurisdictional dismissal reversed and remanded, 7–2; actual legal/factual jurisdictional sorting remains for that court. No immunity awarded. |
+| 1996-02-21 | [Fulton Corp. v. Faulkner, No. 94-1239; 516 U.S. 325](../records/Fulton_Corp_v_Faulkner_merits_1996-02-21.md) | Reversed and remanded, 9–0. Thomas writes the unanimous Opinion of the Court. The discriminatory intangibles tax fails the compensatory-tax defense; Darnell is overruled within the stated Commerce Clause scope. Severability and lawful tax relief remain for state proceedings. |
+
+### Chunk 4
+
+| Date | Matter | Disposition and vote |
+|---|---|---|
+| 1996-02-21 | [Peacock v. Thomas, No. 94-1453; 516 U.S. 349](../records/Peacock_v_Thomas_merits_1996-02-21.md) | Reversed and remanded for dismissal of the later independent-liability action for lack of subject-matter jurisdiction, 8–1; Stevens dissents from the jurisdictional dismissal. |
+| 1996-02-26 | [Jones v. ABC-TV, No. 95-7186; 516 U.S. 363](../records/Jones_v_ABC_TV_filing_order_1996-02-26.md) | Financial-leave motion and certiorari petition remain pending; proposed present Rule 39.8 denial and future fee-and-form condition declined, 8–0 among participating Justices; Breyer does not participate. No grant or denial of financial leave or certiorari. |
+| 1996-02-26 | [United States v. Maine et al. (Massachusetts Boundary Case), No. 35, Original; 516 U.S. 365](../records/United_States_v_Maine_Massachusetts_Boundary_Case_supplemental_decree_1996-02-26.md) | Grant the joint motion and enter the entire submitted supplemental decree, including the classification, five straight closing lines and retained jurisdiction. All eight participating Justices approve internally; the unsigned decree discloses no numerical vote or individual action lineup. Souter does not participate. |
+| 1996-02-26 | [Voting Rights Coalition v. Wilson; petition identifier No. 95-673; Ninth Circuit No. 95-15449, 60 F.3d 1411](../records/Voting_Rights_Coalition_v_Wilson_merits_1996-02-26.md) | Ninth Circuit judgment affirmed, 9–0, including the permanent compliance injunction, implementation remand and retained appellate jurisdiction. |
+| 1996-02-27 | [Matsushita Electric Industrial Co. v. Epstein; No. 94-1809; 516 U.S. 367](../records/Matsushita_Electric_Industrial_Co_v_Epstein_merits_1996-02-27.md) | Reversed and remanded, 7–2; ordinary Delaware recognition established, with unresolved constitutional and permissible collateral-review issues remaining. Stevens and Ginsburg would vacate and remand for the initial Delaware-law inquiry as well. |
+| 1996-02-27 | [Norfolk & Western Railway Co. v. Hiles; No. 95-6; 516 U.S. 400](../records/Norfolk_and_Western_Railway_Co_v_Hiles_merits_1996-02-27.md) | Reversed and remanded, 9–0; the directed statutory-liability premise and dependent damages foundation fall, with properly presented performance and causation issues preserved. |
+| 1996-02-27 | [United States v. Chesapeake & Potomac Telephone Co. of Virginia; National Cable Television Assn., Inc. v. Bell Atlantic Corp.; Nos. 94-1893 and 94-1900; 516 U.S. 415](../records/United_States_v_Chesapeake_and_Potomac_and_NCTA_v_Bell_Atlantic_statutory_change_disposition_1996-02-27.md) | Fourth Circuit judgment vacated in both dockets and remanded for consideration of mootness. Internal support 9–0; public numerical tally undisclosed. No present dismissal, District Court vacatur or constitutional determination. |
+| 1996-03-04 | [Action for Children's Television v. FCC, with Pacifica Foundation v. FCC; D.C. Circuit Nos. 93-1092 and 93-1100; judgment below, 58 F.3d 654. No separate Supreme Court docket is assigned](../records/Action_for_Childrens_Television_and_Pacifica_v_FCC_merits_1996-03-04.md) | Approval of the mandatory 6 a.m.–10 p.m. restriction is set aside, with a five-Justice direction to remove that rule on remand. Stone-Zsela votes to vacate that approval; O'Connor, Kennedy, Thomas and Ginsburg vote to reverse it. Souter separately votes to vacate for renewed review without final invalidity; Stevens, Scalia and Breyer would affirm. The existing uniform 10 p.m.–6 a.m. protection remains undisturbed with all nine Justices' agreement. |
+| 1996-03-04 | [Bennis v. Michigan; No. 94-8729; 516 U.S. 442](../records/Bennis_v_Michigan_merits_1996-03-04.md) | Vacated insofar as the judgment sustains forfeiture of Tina Bennis's interest, and remanded, 5–4; no immediate return, fixed share or independent compensation award. |
+| 1996-03-04 | [Hercules, Inc. v. United States; No. 94-818; 516 U.S. 417; Hercules and Thompson as petitioners](../records/Hercules_Inc_v_United_States_merits_1996-03-04.md) | Federal Circuit judgment affirmed, 6–2; Stevens does not participate. Souter writes the Court opinion; Breyer dissents, joined by O'Connor. |
+| 1996-03-11 | [SSC Corp. v. Town of Smithtown; judgment below, 66 F.3d 502; historical petition No. 95-782 and cross-petition No. 95-1015 identify the supplied matters; no separate Supreme Court docket assigned](../records/SSC_Corp_v_Town_of_Smithtown_merits_1996-03-11.md) | Second Circuit judgment affirmed, 9–0 on both components: the paid collection-and-disposal destination term survives the dormant-Commerce challenge, and invalidation of the separate compulsory-routing ordinance stands. Properly remaining contract proceedings are preserved without a finding of breach or payment entitlement. |
+| 1996-03-18 | [Dalton v. Little Rock Family Planning Services; No. 95-1025](../records/Dalton_v_Little_Rock_Family_Planning_Services_summary_review_1996-03-18.md) | Certiorari granted only on the scope of relief and otherwise denied; separate unanimous partial summary vacatur and remand to correct the excessive injunction and declaration while preserving the unreviewed Medicaid funding protection. |
+
+### Chunk 5
+
+| Date | Matter | Disposition and vote |
+|---|---|---|
+| 1996-03-19 | [Meghrig v. KFC Western, Inc., No. 95-83, 516 U.S. 479](../records/Meghrig_v_KFC_Western_Inc_merits_1996-03-19.md) | Reversed and remanded for dismissal of the RCRA claim as pleaded, 9–0; two independently sufficient statutory grounds, with a narrower Chief Justice join in the remedial analysis. |
+| 1996-03-19 | [Varity Corp. v. Howe, No. 94-1471; 516 U.S. 489](../records/Varity_Corp_v_Howe_merits_1996-03-19.md) | Affirmed, 6–3, for both the 83-member Retired Class and the ten individual retirees, preserving the clarified restoration decree and its existing implementation proceedings. |
+| 1996-03-20 | [Wisconsin v. City of New York; Oklahoma v. City of New York; Department of Commerce v. City of New York, Nos. 94-1614, 94-1631 and 94-1985; 517 U.S. 1](../records/Wisconsin_v_City_of_New_York_merits_1996-03-20.md) | Reversed, 9–0, in all three dockets; remanded for implementation of judgment for petitioners on the preserved constitutional nonadjustment challenge. The separate tape ruling remains untouched. |
+| 1996-03-25 | [Ayers v. Fordice; lower-court No. 4:75CV009-B-O; 879 F. Supp. 1419. No authenticated current Supreme Court docket is assigned](../records/Ayers_v_Fordice_certiorari_before_judgment_1996-03-25.md) | Writ dismissed as improvidently granted, 8–1. Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer support dismissal; Stone-Zsela dissents and would vacate only the denial of additional library relief and remand. No decree provision is affirmed on its merits. |
+| 1996-03-26 | [Barnett Bank of Marion County, N.A. v. Nelson, No. 94-1837; 517 U.S. 25](../records/Barnett_Bank_of_Marion_County_v_Nelson_merits_1996-03-26.md) | Reversed and remanded, 9–0. Florida's affiliation prohibition cannot defeat qualifying §92 activity; unresolved association-location and customer-geography cross-appeals remain for decision before corresponding relief. |
+| 1996-03-27 | [Morse v. Republican Party of Virginia, No. 94-203; 517 U.S. 186](../records/Morse_v_Republican_Party_of_Virginia_merits_1996-03-27.md) | Reversed and remanded, 6–3, on Counts III and IV. The pleaded convention-fee change is subject to §5 and the asserted private §10 action may proceed; substantive fee legality and appropriate relief remain unresolved. |
+| 1996-03-27 | [Rutledge v. United States, No. 94-8769; 517 U.S. 292](../records/Rutledge_v_United_States_merits_1996-03-27.md) | Reversed in part and remanded. All nine reject the dual-conviction ruling; eight leave selection of the vacated count to the District Court. Stone-Zsela requires conspiracy-only vacatur. |
+| 1996-03-27 | [Seminole Tribe of Florida v. Florida, No. 94-12; 517 U.S. 44](../records/Seminole_Tribe_of_Florida_v_Florida_merits_1996-03-27.md) | Governor's immunity dismissal reversed, 5–4. Florida's immunity-dismissal direction set aside and remanded, 5–4 as to that shared operative relief; two would sustain the direct State action, three would vacate without deciding amenability, and four would affirm. No State-amenability rationale commands a majority. |
+| 1996-04-01 | [Lonchar v. Thomas, No. 95-5015; 517 U.S. 314](../records/Lonchar_v_Thomas_merits_1996-04-01.md) | The appellate stay-vacatur judgment is set aside and the case remanded, with all nine supporting that operative relief. The eight Associates formally vacate and remand; Stone-Zsela retains his reverse-and-remand formulation. The displaced district stay is restored pending prompt lawful redetermination, subject to modification or dissolution. |
+| 1996-04-01 | [O'Connor v. Consolidated Coin Caterers Corp., No. 95-354; 517 U.S. 308](../records/OConnor_v_Consolidated_Coin_Caterers_Corp_merits_1996-04-01.md) | Reversed and remanded, 9–0, as to the reviewed affirmance of ADEA merits summary judgment. The discovery and postjudgment rulings remain undisturbed. |
+| 1996-04-01 | [Shieh v. Kakita, No. 95-7587; Shieh v. United States Court of Appeals for the Ninth Circuit, No. 95-7588; Shieh v. Krieger, No. 95-7589; 517 U.S. 343](../records/Shieh_and_companions_filing_order_1996-04-01.md) | Each of three individual financial motions granted, 9–0; each proposed Rule 39.8 denial and the prospective filing condition declined, 9–0. Nos. 95-7587, 95-7588 and 95-7589 remain separate pending certiorari petitions. |
+| 1996-04-09 | [Bowersox v. Williams, application No. A-828; 517 U.S. 345](../records/Bowersox_v_Williams_interim_application_order_1996-04-09.md) | Final disposition reserved for immediate record examination. The eight Associates adopt the bounded two-hour supplementation/four-hour return procedure without a new Supreme Court execution stay. Stone-Zsela supports reservation and record examination but retains his different record directions and proposed administrative execution protection. The application remains pending. |
+| 1996-04-09 | [Bowersox v. Williams, application No. A-828; 517 U.S. 345, chunk 5](../records/Bowersox_v_Williams_final_application_disposition_1996-04-09.md) | Missouri's application is granted, 5–4, and the March 8 Eighth Circuit execution stay is vacated. O'Connor, Scalia, Kennedy, Souter and Thomas support vacatur; Stone-Zsela, Stevens, Ginsburg and Breyer would deny. The habeas appeal is not dismissed or finally adjudicated; no substitute Supreme Court stay is entered. |
+
+### Chunk 6
+
+| Date | Matter | Disposition and vote |
+|---|---|---|
+| 1996-04-15 | [Planned Parenthood, Sioux Falls Clinic v. Miller; Eighth Circuit Nos. 94-3326SD and 94-3398SD; 63 F.3d 1452 identifies the judgment below, not a Supreme Court citation](../records/Planned_Parenthood_Sioux_Falls_Clinic_v_Miller_merits_1996-04-15.md) | Affirm the invalidation of the compulsory previability minor-notice condition and remand for bounded decree conformance, 6–3; complete six-Justice Court rationale and two distinct dissenting grounds. |
+| 1996-04-16 | [Cooper v. Oklahoma; No. 95-5207; Oklahoma Court of Criminal Appeals No. F-92-533, 889 P.2d 293. Historical reporter locator: 517 U.S. 348](../records/Cooper_v_Oklahoma_merits_1996-04-16.md) | Reverse the ruling approving clear-and-convincing defendant persuasion, vacate the dependent appellate affirmance, and remand for the conditional competency proceedings specified below, 9–0. The trial judgment is not unconditionally vacated by this decision. |
+| 1996-04-23 | [Holly Farms Corp. v. NLRB, No. 95-210; 517 U.S. 392](../records/Holly_Farms_Corp_v_NLRB_merits_1996-04-23.md) | Fourth Circuit enforcement affirmed: driver coverage 9–0; catcher and forklift-operator coverage 6–3. The primary-harvesting objection is not considered, 9–0 in disposition, with eight Justices adopting the preservation ground. |
+| 1996-04-23 | [Markman v. Westview Instruments, Inc.; No. 95-26; Federal Circuit No. 92-1049, 52 F.3d 967; E.D. Pa. No. 91-0940. Historical reporter locator: 517 U.S. 370](../records/Markman_v_Westview_Instruments_Inc_merits_1996-04-23.md) | Affirm noninfringement JMOL concerning claims 1 and 10, 9–0. Souter's Court opinion has nine joins in Parts I and III and eight in Part II; Stone-Zsela concurs in part and in the judgment. |
+| 1996-04-29 | [Carlisle v. United States; No. 94-9247; Sixth Circuit judgment reported at 48 F.3d 190. Historical reporter locator: 517 U.S. 416](../records/Carlisle_v_United_States_merits_1996-04-29.md) | Affirm the Sixth Circuit's no-authority ruling, 7–2. The untimely acquittal remains unauthorized; the reinstated conviction and already-entered sentencing judgment are undisturbed on the reviewed issue. |
+| 1996-04-29 | [Sheets v. Salt Lake County; Tenth Circuit Nos. 93-4128 and 93-4134; 45 F.3d 1383 identifies the lower judgment, not a Supreme Court citation](../records/Sheets_v_Salt_Lake_County_merits_1996-04-29.md) | Affirmed within the reviewed constitutional-confidentiality question, 7–2; the $650,000 compensatory judgment and distinct $77,896.93 fee judgment remain undisturbed. |
+| 1996-05-13 | [44 Liquormart, Inc. v. Rhode Island; No. 94-1140; operative First Circuit judgment, 39 F.3d 5. Historical reporter locator: 517 U.S. 484](../records/44_Liquormart_Inc_v_Rhode_Island_merits_1996-05-13.md) | Reverse on both preserved First Amendment claims, 9–0. Eight Associates adopt an implementing remand preserving the district declaration; Stone-Zsela separately requires a prospective injunction. Advancement has five direct votes, fit seven, and the broader Twenty-first Amendment ground six. |
+| 1996-05-13 | [United Food & Commercial Workers Union Local 751 v. Brown Group, Inc.; No. 95-340; Eighth Circuit judgment reported at 50 F.3d 1426. Historical reporter locator: 517 U.S. 544](../records/United_Food_and_Commercial_Workers_Union_Local_751_v_Brown_Group_Inc_merits_1996-05-13.md) | Reverse the categorical representational-standing dismissal and remand, 9–0. WARN authorizes the representative action and displaces Hunt's prudential third condition; constitutional standing and independent substantive and procedural requirements remain. |
+| 1996-05-13 | [United States v. Armstrong, No. 95-157; 517 U.S. 456](../records/United_States_v_Armstrong_merits_1996-05-13.md) | Formal reversal and ordinary remand, 7–2; setting aside the unsupported discovery order and dependent dismissal has eight votes. Stone expressly would vacate the dismissal and direct staged inquiry; Stevens would affirm. |
+| 1996-05-13 | [United States v. Noland, No. 95-323; 517 U.S. 535](../records/United_States_v_Noland_merits_1996-05-13.md) | Reversed and remanded, 9–0, because the stated grounds impermissibly replace Congress's priority classification; lawful claim-specific equitable subordination remains available within its own predicates. |
+| 1996-05-20 | [BMW of North America, Inc. v. Gore; No. 94-896; Alabama judgment, 646 So. 2d 619. Historical reporter locator: 517 U.S. 559](../records/BMW_of_North_America_Inc_v_Gore_merits_1996-05-20.md) | Reverse the judgment insofar as it sustains $2 million in punitive damages and remand, 5–4. Five adopt substantive excessiveness, fair notice and qualified guideposts; Stone-Zsela additionally joins the severable territorial/evidence section while dissenting from the judgment. |
+| 1996-05-20 | [Romer v. Evans, No. 94-1039; 517 U.S. 620](../records/Romer_v_Evans_merits_1996-05-20.md) | Affirmed, 7–2, on ordinary rational-basis review; the permanent injunction against Amendment 2 remains effective in full. |
+
+### Chunk 7
+
+| Date | Matter | Disposition and vote |
+|---|---|---|
+| 1996-05-20 | [Doctor's Associates, Inc. v. Casarotto, No. 95-559; 517 U.S. 681](../records/Doctors_Associates_Inc_v_Casarotto_merits_1996-05-20.md) | Reversed and remanded, 8–1; FAA §2 preempts Montana's arbitration-specific first-page notice condition, with ordinary contract defenses and actual party and agreement limits preserved. All nine join the reviewability holding. |
+| 1996-05-20 | [Henderson v. United States, No. 95-232; 517 U.S. 654](../records/Henderson_v_United_States_merits_1996-05-20.md) | Reversed and remanded, 7–2; the applicable Rule 4 timing scheme displaces the Suits in Admiralty Act's procedural forthwith-service timetable, without deciding the existing extension's validity or the injury merits. |
+| 1996-05-21 | [Pinder v. Johnson; Fourth Circuit No. 93-2125; judgment below reported at 54 F.3d 1169 (en banc)](../records/Pinder_v_Johnson_merits_1996-05-21.md) | Affirmed, 5–4, on Johnson's individual qualified immunity for lack of sufficiently established March 10, 1989 notice; the distinct affirmative-danger merits and excluded claims remain unresolved. |
+| 1996-05-28 | [Ornelas v. United States, No. 95-5257; 517 U.S. 690; reviewed Seventh Circuit Nos. 94-3349 and 94-3350 and the preceding appellate judgment](../records/Ornelas_v_United_States_merits_1996-05-28.md) | Both reviewed appellate judgments vacated and remanded, 8–1; ultimate reasonable suspicion and probable cause receive independent review, with clear-error factual review and genuine due weight to grounded contextual inferences. |
+| 1996-06-03 | [Auciello Iron Works, Inc. v. NLRB, No. 95-668; 517 U.S. 781](../records/Auciello_Iron_Works_Inc_v_NLRB_merits_1996-06-03.md) | Affirmed, 9–0; the Board permissibly bars this postacceptance good-faith-doubt defense based on previously known evidence, and the existing enforcement order remains intact with its qualifications. |
+| 1996-06-03 | [Loving v. United States, No. 94-1966; 517 U.S. 748, chunk 7](../records/Loving_v_United_States_merits_1996-06-03.md) | Affirmed, 9–0; Kennedy's confined Opinion of the Court has eight direct joins including its author; Thomas concurs in the judgment only. |
+| 1996-06-03 | [Quackenbush v. Allstate Insurance Co., No. 95-244, 517 U.S. 706](../records/Quackenbush_v_Allstate_Insurance_Co_merits_1996-06-03.md) | Affirmed, 9–0. The Ninth Circuit's judgment vacating the District Court's abstention remand and returning the action for further federal proceedings is affirmed; no arbitration, stay, damages or distribution is ordered. |
+| 1996-06-03 | [Smiley v. Citibank (South Dakota), N.A., No. 95-860, 517 U.S. 735](../records/Smiley_v_Citibank_South_Dakota_NA_merits_1996-06-03.md) | California Supreme Court affirmed, 9–0. Souter writes; every Associate joins throughout, and Stone-Zsela joins Parts I, II, IV and VI and the judgment. Parts III-A, III-B and V have eight votes. |
+| 1996-06-10 | [Degen v. United States, No. 95-173; 517 U.S. 820, chunk 7](../records/Degen_v_United_States_merits_1996-06-10.md) | Reversed and remanded, 9–0, as to Brian Degen's categorical civil-forfeiture defense bar; Scalia for a unanimous Court; no separate writings. |
+| 1996-06-10 | [Exxon Co., U.S.A. v. Sofec, Inc., No. 95-129, 517 U.S. 830](../records/Exxon_Co_USA_v_Sofec_Inc_merits_1996-06-10.md) | Ninth Circuit affirmed, 9–0, on the submitted tort and warranty components of the stranding-only judgment. Stevens writes for the unanimous Court; all nine join Parts I–V throughout. |
+| 1996-06-10 | [Richards v. Jefferson County, No. 95-386; 517 U.S. 793](../records/Richards_v_Jefferson_County_merits_1996-06-10.md) | Reversed and remanded, 9–0, as to the dispositive nonparty-preclusion bar on Richards and Hill's reviewed federal claims; no tax-merits or Buck Act determination follows. |
+| 1996-06-10 | [Whren v. United States, No. 95-5841, 517 U.S. 806](../records/Whren_v_United_States_merits_1996-06-10.md) | Affirmed, 9–0, on the initial-stop Fourth Amendment suppression issue. The completed correction of the lesser-included §841 convictions and resentencing concerning §860 remain undisturbed; the later sentencing appeals retain their own lawful posture. |
+
+### Chunk 8
+
+| Date | Matter | Disposition and vote |
+|---|---|---|
+| 1996-06-10 | [Lockheed Corp. v. Spink, No. 95-809, 517 U.S. 882](../records/Lockheed_Corp_v_Spink_merits_1996-06-10.md) | Reversed in the reviewed adverse portions and remanded, 9–0 overall. Seven decide the release-conditioned benefit-payment question; Souter and Breyer reserve it. Eight join the OBRA rationale; Stone joins that disposition only. |
+| 1996-06-10 | [United States v. International Business Machines Corp., No. 95-591, 517 U.S. 843](../records/United_States_v_IBM_merits_1996-06-10.md) | Federal Circuit affirmed, 6–2; Stevens does not participate. The challenged export-insurance refund judgment stands within its preserved scope. |
+| 1996-06-11 | [United States v. Myers; review of Seventh Circuit No. 94-1912, 46 F.3d 668. No separate Supreme Court docket is supplied](../records/United_States_v_Myers_merits_1996-06-11.md) | Vacated insofar as the judgment sustains denial of the preserved suppression claim and the dependent conviction affirmance on the no-search premise, and remanded, 7–2. |
+| 1996-06-13 | [Bush v. Vera; Lawson v. Vera; United States v. Vera, Nos. 94-805, 94-806 and 94-988](../records/Vera_and_consolidated_merits_1996-06-13.md) | Standing recognized for the five residents and Chen's independent basis rejected, 9–0. The judgment invalidating Districts 18, 29 and 30 and its dependent relief are reversed in all three appeals, 5–4; remand to enter judgment for defendants on the sole design-only claims and dissolve the dependent injunction and compulsory-redraw relief. |
+| 1996-06-13 | [Jaffee v. Redmond, No. 95-266, 518 U.S. 1](../records/Jaffee_v_Redmond_merits_1996-06-13.md) | Affirmed, 8–1; the Seventh Circuit's new-trial judgment stands, with its case-specific balancing rule rejected. |
+| 1996-06-13 | [Koon v. United States; Powell v. United States, Nos. 94-1664 and 94-8842, 518 U.S. 81](../records/Koon_and_Powell_v_United_States_merits_1996-06-13.md) | Affirmed in part, reversed in part, and remanded in both dockets. All nine require further sentencing; the two disputed vulnerability and successive-prosecution grounds survive 5–4, employment is rejected 8–1, recidivism is rejected 9–0, and the separate five-level departure is sustained 9–0 with Stone joining that judgment only. |
+| 1996-06-13 | [Montana v. Egelhoff, No. 95-566; 518 U.S. 37](../records/Montana_v_Egelhoff_merits_1996-06-13.md) | Montana Supreme Court affirmed, 5–4; its new-trial judgment on both deliberate-homicide counts stands because the instruction barred relevant rebuttal of the retained purpose-or-knowledge element. |
+| 1996-06-14 | [Rise v. Oregon; review of Ninth Circuit No. 93-35521, 59 F.3d 1556. No separate Supreme Court docket is supplied](../records/Rise_v_Oregon_merits_1996-06-14.md) | Fourth Amendment ruling reversed and remanded, 6–3; general-process ruling vacated and conditionally remanded, 5–4; ex post facto ruling and Milligan's judgment for Knox and Pearce affirmed, each 9–0. |
+| 1996-06-17 | [Calderon v. Moore, No. 95-1612, 518 U.S. 149; appellate Nos. 95-99009 and 95-99013](../records/Calderon_v_Moore_summary_review_1996-06-17.md) | Certiorari granted on the mootness question; mootness judgment reversed and remanded, 9–0, with the amended dismissal of the actual appeals set aside. Moore's Rule 39/Rule 33.2 motion is granted independently. |
+| 1996-06-17 | [Leavitt v. Jane L., No. 95-1242](../records/Leavitt_v_Jane_L_summary_merits_1996-06-17.md) | Certiorari granted limited to the appealed severability determination and otherwise denied; summary partial vacatur and remand, 5–4. No automatic enforcement of §302(3); independent federal grounds and necessary lawful protection remain for the lower courts. |
+| 1996-06-17 | [Melendez v. United States, No. 95-5661, 518 U.S. 120](../records/Melendez_v_United_States_merits_1996-06-17.md) | Third Circuit affirmed, 7–2; the 120-month sentence remains. O'Connor and Breyer would remand under their conditional, coordinated-Guidelines construction. |
+| 1996-06-20 | [Gray v. Netherland, 518 U.S. 152, No. 95-6510; OT1995-084, chunk 8](../records/Gray_v_Netherland_merits_1996-06-20.md) | Reversed in part and remanded, 5-4, for restoration and implementation of conditional sentencing relief on the reopened meaningful-opportunity claim, subject to genuinely applicable unadjudicated statutory requirements; the independent Sorrell Brady dismissal remains undisturbed, 9-0. The old-rule holding has six joins. |
+
+### Chunk 9
+
+| Date | Matter | Disposition and vote |
+|---|---|---|
+| 1996-06-20 | [Brown v. Pro Football, Inc.; No. 95-388](../records/Brown_v_Pro_Football_Inc_merits_1996-06-20.md) | Affirmed, 8–1; bounded nonstatutory labor exemption protects the bargaining conduct presented. |
+| 1996-06-20 | [Lane v. Peña, No. 95-365](../records/Lane_v_Pena_merits_1996-06-20.md) | Affirmed, 7–2, on the federal compensatory-damages waiver question; existing reinstatement undisturbed. |
+| 1996-06-20 | [United States v. Reorganized CF&I Fabricators of Utah, Inc., No. 95-325](../records/United_States_v_Reorganized_CFI_Fabricators_of_Utah_Inc_merits_1996-06-20.md) | Vacated and remanded; denial of excise-tax priority preserved, 8-1; stated equitable subordination rejected, 9-0. |
+| 1996-06-21 | [Baby Richard, by his guardian ad litem, v. Kirchner (In re Petition of Kirchner); Illinois Supreme Court No. 78101, 164 Ill. 2d 468, 649 N.E.2d 324 (1995)](../records/Baby_Richard_v_Kirchner_merits_1996-06-21.md) | Vacated in part and remanded, 5-4, solely on the child's independent implementation claim; the adoption's invalidation and Kirchner's lawful custody entitlement remain intact. |
+| 1996-06-21 | [Doe v. Kirchner (In re Petition of Doe); Illinois Supreme Court No. 76063, 159 Ill. 2d 347, 638 N.E.2d 181 (1994). No separate Supreme Court docket is supplied](../records/Doe_v_Kirchner_review_dismissal_1996-06-21.md) | Existing writ dismissed as improvidently granted. All nine support terminating review by dismissal and leaving the Illinois judgment undisturbed; eight adopt the prudential disposition and explanation, while Chief Justice Stone-Zsela concurs in the judgment on his distinct want-of-jurisdiction ground. No adoption or custody merits are decided. |
+| 1996-06-24 | [Gasperini v. Center for Humanities, Inc., No. 95-719, 518 U.S. 415](../records/Gasperini_v_Center_for_Humanities_Inc_merits_1996-06-24.md) | Vacated and remanded, 6-3, for district-court application of New York's material-deviation standard and appellate review for abuse of discretion; no damages amount is selected. |
+| 1996-06-24 | [Lewis v. Casey, No. 94-1511, 518 U.S. 343](../records/Lewis_v_Casey_merits_1996-06-24.md) | Unsupported classwide approval set aside, 8-1; prospective-decree approval set aside and remanded, 9-0 on distinct grounds, preserving the demonstrated access wrong and supported findings. |
+| 1996-06-24 | [Lewis v. United States, No. 95-6465, 518 U.S. 322](../records/Lewis_v_United_States_merits_1996-06-24.md) | Affirmed, 7-2, with no majority rationale for affirmance; five Justices separately support the exact aggregate-imprisonment prohibition stated below. |
+| 1996-06-24 | [United States v. Ursery, No. 95-345; United States v. $405,089.23 in United States Currency, No. 95-346](../records/United_States_v_Ursery_and_United_States_Currency_merits_1996-06-24.md) | No. 95-345 reversed and remanded, 7-2; No. 95-346 reversed and remanded, 8-1, with Stone-Zsela favoring vacatur and a more limited remand. All nine reject the companion's blanket bar, on different grounds. |
+| 1996-06-25 | [Settle v. Dickson County School Board; Sixth Circuit No. 93-6207, 53 F.3d 152 (1995)](../records/Settle_v_Dickson_County_School_Board_merits_1996-06-25.md) | Vacated and remanded, 9-0; the reviewed free-speech summary judgment is set aside without a final liability, grade, immunity or damages determination. |
+| 1996-06-26 | [Medtronic, Inc. v. Lohr; Lohr v. Medtronic, Inc.; Nos. 95-754 and 95-886](../records/Medtronic_Inc_v_Lohr_and_Lohr_v_Medtronic_Inc_merits_1996-06-26.md) | No. 95-754 affirmed on the restored design claims, 9-0; No. 95-886 reversed as to the challenged manufacturing and warning preemption barriers, 6-3, with unanimous rejection of the categorical parallel-duty bar; remanded for ordinary proceedings. |
+| 1996-06-26 | [United States v. Virginia, No. 94-1941; Virginia v. United States, No. 94-2107; 518 U.S. 515](../records/United_States_v_Virginia_and_Virginia_v_United_States_merits_1996-06-26.md) | No. 94-2107 affirmed, 7–1; No. 94-1941 reversed and remanded, 7–1. O'Connor for seven; Scalia dissents; Thomas does not participate. |
+
+### Chunk 10
+
+| Date | Matter | Disposition and vote |
+|---|---|---|
+| 1996-06-26 | [Colorado Republican Federal Campaign Committee v. Federal Election Commission, No. 95-489](../records/Colorado_Republican_Federal_Campaign_Committee_v_FEC_merits_1996-06-26.md) | Vacate the Tenth Circuit's adverse enforcement judgment and remand, 6–3. Six Justices protect the independent advertisement; neither the complete narrower framework nor the broader coordinated-party-expression rule commands a majority. |
+| 1996-06-28 | [Board of County Commissioners, Wabaunsee County v. Umbehr, No. 94-1654](../records/Board_of_County_Commissioners_Wabaunsee_County_v_Umbehr_merits_1996-06-28.md) | Affirm the Tenth Circuit's rejection of categorical contractor exclusion and remand the reviewed official-capacity claims under the adjusted Pickering and Mt. Healthy rules, 7–2; no actual retaliation, injury or entitlement to a remedy is determined. |
+| 1996-06-28 | [Denver Area Educational Telecommunications Consortium, Inc. v. FCC; Alliance for Community Media v. FCC, Nos. 95-124 and 95-227](../records/Denver_Area_and_Alliance_v_FCC_merits_1996-06-28.md) | Affirm approval of 1992 §10(a), 6–3; reverse approval of §10(b)'s integral compulsory arrangement, 7–2; reverse approval of §10(c)'s authorization concerning protected nonobscene indecency, 6–3. Remand to implement those component dispositions and set aside the corresponding FCC rules within the unconstitutional scope. Separate 1996 §506 authority is not adjudicated or extinguished. |
+| 1996-06-28 | [Felker v. Turpin, No. 95-8836; associated application A-890](../records/Felker_v_Turpin_certiorari_original_habeas_and_stay_1996-06-28.md) | Dismiss ordinary certiorari for want of jurisdiction, deny the original habeas petition and deny pending application A-890, each 9–0; original jurisdiction remains. Eight Associates separately reject the presented trial grounds and innocence gateway; Stone rests on the specified successive/extraordinary-review grounds. |
+| 1996-06-28 | [O'Hare Truck Service, Inc. v. City of Northlake, No. 95-191](../records/OHare_Truck_Service_Inc_v_City_of_Northlake_merits_1996-06-28.md) | Reverse the First Amendment dismissal and remand, 7–2; extend the qualified affiliation rule to the pleaded existing recurring service relationship, preserving appropriate mixed-speech analysis, causal proof and lawful defenses. The separate due-process disposition is undisturbed. |
+| 1996-07-01 | [Pennsylvania v. Labron, No. 95-1691; Pennsylvania v. Kilgore, No. 95-1738](../records/Pennsylvania_v_Labron_and_Kilgore_summary_review_1996-07-01.md) | Grant each petition; summarily reverse each Pennsylvania Supreme Court judgment and remand, 7–2 on each judgment. Apply the automobile exception to the reviewed searches without an additional federal exigency requirement; preserve the decision's scope and any properly available independent state-law ground. Stevens and Ginsburg oppose review on distinct jurisdictional and discretionary grounds, not an affirmative additional-exigency merits holding. |
+| 1996-07-01 | [United States v. Winstar Corp., No. 95-865; consolidated Glendale, Winstar and Statesman contractual-liability disputes](../records/United_States_v_Winstar_Corp_merits_1996-07-01.md) | Affirm the Federal Circuit's partial contractual-liability judgment for all three transactions, including Statesman's distinct goodwill and capital-credit undertakings, 8–1; remand for contract-specific causation, damages and genuinely remaining proceedings. Ginsburg would vacate present liability affirmance and require bounded reconsideration of the undertakings under unmistakability. FIRREA remains operative; no damages amount or takings judgment is entered. |
+
+## 7. Admitted sources — no Court vote
+
+These ten entries are source admissions, not additional judicial decisions. Their original conditions and transitions remain in the linked Records; no source has been legally reinterpreted by this audit.
+
+| Source event date | Instrument | Recorded admission result; vote not applicable |
+|---|---|---|
+| 1995-10-01 | [North Carolina Session Laws 1995, chapter 424, Senate Bill 836; amendments to G.S. 49-14(c) and (d); no Court docket.](../records/North_Carolina_paternity_amendment_statutory_effectiveness_1995-10-01.md) | The revised paternity-action provisions apply to actions commenced on or after October 1, 1995, but before October 1, 1998, without regard to the putative father's date of death; the act expires October 1, 1998. No Court action occurs. |
+| 1995-12-01 | [Federal Rule of Criminal Procedure 57, amendment prescribed April 27, 1995; no merits docket.](../records/Rule_57_Federal_Rules_of_Criminal_Procedure_rule_amendment_1995-12-01.md) | The amended district-court practice rule enters the source record. No case is disposed of and no procedural default, sanction, judgment or pending claim is changed by this admission alone. |
+| 1996-01-06 | [Fiscal year 1996 Medicaid appropriations continuation, Public Law 104-91, title I; no Court docket.](../records/FY1996_Medicaid_appropriations_continuation_1996-01-06.md) | The Medicaid account continues under applicable fiscal year 1995 authority and conditions, subject to the enacted funding terms and earliest-ending-event provision. This source establishes no Court judgment or construction of the state amendment challenged in Dalton. |
+| 1996-02-08 | [Telecommunications Act of 1996, Public Law 104-104, sections 504–506 and the related Act section 561 review provision; no Court docket.](../records/Telecommunications_Act_cable_sections_504_506_and_review_561_statutory_admission_1996-02-08.md) | The cable-channel blocking and access-program refusal provisions, with their distinct triggers and related facial-review procedure, enter the noncase source record. No implementation fact, constitutional judgment or new Court proceeding is established. |
+| 1996-02-08 | [Telecommunications Act of 1996, Public Law 104-104, section 302(b); no Court docket.](../records/Telecommunications_Act_section_302_statutory_effectiveness_1996-02-08.md) | Section 613(b) of the Communications Act, 47 U.S.C. §533(b), is repealed. The specified video-dialtone regulations cease to be effective, with an express protection against construing that termination to require closing previously approved systems. No Court action occurs. |
+| 1996-02-08 | [Telecommunications Act of 1996, Public Law 104-104, section 551; no Court docket.](../records/Telecommunications_Act_section_551_statutory_admission_1996-02-08.md) | The enacted parental-choice, television-rating and blocking-technology provisions enter the source record. Their text supplies no finding that a nationwide rating or receiver-blocking system was operational in March 1996 and determines no pending Court case. |
+| 1996-04-01 | [Office of the Comptroller of the Currency, 12 C.F.R. §7.4001; Interpretive Rulings, Docket No. 96-03, RIN 1557-AB38.](../records/OCC_national_bank_interest_rule_7_4001_regulatory_effectiveness_1996-04-01.md) | The dated national-bank interest interpretation enters the source record with its complete four-paragraph text. This admission decides no fee claim, deference question, preemption dispute or application to antecedent conduct. |
+| 1996-04-24 | [Antiterrorism and Effective Death Penalty Act of 1996, Public Law 104-132, Title I, sections 101–108; no Court docket.](../records/Antiterrorism_and_Effective_Death_Penalty_Act_Title_I_statutory_enactment_1996-04-24.md) | The enacted habeas amendments enter the source record. This admission decides no pending case, constitutional challenge, disputed transition question or jurisdictional construction. |
+| 1996-04-26 | [Prison Litigation Reform Act of 1995, Public Law 104-134, Title VIII, sections 802–804; no Court docket.](../records/Prison_Litigation_Reform_Act_sections_802_804_statutory_enactment_1996-04-26.md) | The enacted prison-relief, prisoner-suit and filing provisions enter the source record. No existing injunction is terminated and no pending claim or filing is disposed of by this admission. |
+| 1996-04-29 | [Utah H.B. 206, Chapter 267, Laws of Utah 1996; source supplied in Leavitt v. Jane L., No. 95-1242.](../records/Utah_HB206_admitted_source_1996-04-29.md) | Admit the bounded enacted text and reported effective date; no Court action, merits judgment, repeal determination or injunction change. |
+
+## 8. Precise source-relocation catalogue
+
+Each existing destination below was checked as a filesystem location, not re-read for substantive legal validation. Line numbers refer to the unchanged source file. The working relative path is interpreted from that source file, not from this Audit. These 67 selected failures comprise the 65 active packet/copy occurrences and the two additional source receipts described above. The runtime copy of the Settle timing-addendum link is an additional occurrence with the same relocated destination.
+
+### [freeze/OT_1995CHUNK10_FELKER_NEUTRAL.md](../freeze/OT_1995CHUNK10_FELKER_NEUTRAL.md)
+
+| Line | Broken literal target | Working relative target |
+|---:|---|---|
+| 85 | `research_b_sources/` | `../entering-law/research_b_sources` |
+| 87 | `research_b_sources/felker_02._Petition_for_Writ_of_Certiorari.pdf` | `../entering-law/research_b_sources/felker_02._Petition_for_Writ_of_Certiorari.pdf` |
+| 87 | `research_b_sources/felker_02._Petition_for_Writ_of_Certiorari_djvu.txt` | `../entering-law/research_b_sources/felker_02._Petition_for_Writ_of_Certiorari_djvu.txt` |
+| 88 | `research_b_sources/felker_04._Joint_Appendix.pdf` | `../entering-law/research_b_sources/felker_04._Joint_Appendix.pdf` |
+| 88 | `research_b_sources/felker_04._Joint_Appendix_djvu.txt` | `../entering-law/research_b_sources/felker_04._Joint_Appendix_djvu.txt` |
+| 89 | `research_b_sources/felker_05._Petitioners_Brief.pdf` | `../entering-law/research_b_sources/felker_05._Petitioners_Brief.pdf` |
+| 89 | `research_b_sources/felker_05._Petitioners_Brief_djvu.txt` | `../entering-law/research_b_sources/felker_05._Petitioners_Brief_djvu.txt` |
+| 89 | `research_b_sources/felker_06._Respondents_Brief.pdf` | `../entering-law/research_b_sources/felker_06._Respondents_Brief.pdf` |
+| 89 | `research_b_sources/felker_06._Respondents_Brief_djvu.txt` | `../entering-law/research_b_sources/felker_06._Respondents_Brief_djvu.txt` |
+| 90 | `research_b_sources/AEDPA_TITLE_I.txt` | `../entering-law/research_b_sources/AEDPA_TITLE_I.txt` |
+
+### [freeze/OT_1995CHUNK10_LABRON_NEUTRAL.md](../freeze/OT_1995CHUNK10_LABRON_NEUTRAL.md)
+
+| Line | Broken literal target | Working relative target |
+|---:|---|---|
+| 116 | `research_b_sources/labron_2._Petition_for_Writ_of_Certiorari.pdf` | `../entering-law/research_b_sources/labron_2._Petition_for_Writ_of_Certiorari.pdf` |
+| 116 | `research_b_sources/labron_2._Petition_for_Writ_of_Certiorari_djvu.txt` | `../entering-law/research_b_sources/labron_2._Petition_for_Writ_of_Certiorari_djvu.txt` |
+| 116 | `research_b_sources/labron_3._Appendix_djvu.txt` | `../entering-law/research_b_sources/labron_3._Appendix_djvu.txt` |
+| 117 | `research_b_sources/labron_4._Reply_Brief.pdf` | `../entering-law/research_b_sources/labron_4._Reply_Brief.pdf` |
+| 117 | `research_b_sources/labron_4._Reply_Brief_djvu.txt` | `../entering-law/research_b_sources/labron_4._Reply_Brief_djvu.txt` |
+| 117 | `research_b_sources/labron_5._Reply_Brief_djvu.txt` | `../entering-law/research_b_sources/labron_5._Reply_Brief_djvu.txt` |
+| 118 | `research_b_sources/kilgore_2._Petition_for_Writ_of_Certiorari.pdf` | `../entering-law/research_b_sources/kilgore_2._Petition_for_Writ_of_Certiorari.pdf` |
+| 118 | `research_b_sources/kilgore_2._Petition_for_Writ_of_Certiorari_djvu.txt` | `../entering-law/research_b_sources/kilgore_2._Petition_for_Writ_of_Certiorari_djvu.txt` |
+| 118 | `research_b_sources/kilgore_3._Opposition_Brief.pdf` | `../entering-law/research_b_sources/kilgore_3._Opposition_Brief.pdf` |
+| 118 | `research_b_sources/kilgore_3._Opposition_Brief_djvu.txt` | `../entering-law/research_b_sources/kilgore_3._Opposition_Brief_djvu.txt` |
+| 118 | `research_b_sources/kilgore_4._Reply_Brief.pdf` | `../entering-law/research_b_sources/kilgore_4._Reply_Brief.pdf` |
+| 118 | `research_b_sources/kilgore_4._Reply_Brief_djvu.txt` | `../entering-law/research_b_sources/kilgore_4._Reply_Brief_djvu.txt` |
+
+### [freeze/OT_1995CHUNK10_NEUTRAL.md](../freeze/OT_1995CHUNK10_NEUTRAL.md)
+
+| Line | Broken literal target | Working relative target |
+|---:|---|---|
+| 206 | `research_b_sources/` | `../entering-law/research_b_sources` |
+| 208 | `research_b_sources/felker_02._Petition_for_Writ_of_Certiorari.pdf` | `../entering-law/research_b_sources/felker_02._Petition_for_Writ_of_Certiorari.pdf` |
+| 208 | `research_b_sources/felker_02._Petition_for_Writ_of_Certiorari_djvu.txt` | `../entering-law/research_b_sources/felker_02._Petition_for_Writ_of_Certiorari_djvu.txt` |
+| 209 | `research_b_sources/felker_04._Joint_Appendix.pdf` | `../entering-law/research_b_sources/felker_04._Joint_Appendix.pdf` |
+| 209 | `research_b_sources/felker_04._Joint_Appendix_djvu.txt` | `../entering-law/research_b_sources/felker_04._Joint_Appendix_djvu.txt` |
+| 210 | `research_b_sources/felker_05._Petitioners_Brief.pdf` | `../entering-law/research_b_sources/felker_05._Petitioners_Brief.pdf` |
+| 210 | `research_b_sources/felker_05._Petitioners_Brief_djvu.txt` | `../entering-law/research_b_sources/felker_05._Petitioners_Brief_djvu.txt` |
+| 210 | `research_b_sources/felker_06._Respondents_Brief.pdf` | `../entering-law/research_b_sources/felker_06._Respondents_Brief.pdf` |
+| 210 | `research_b_sources/felker_06._Respondents_Brief_djvu.txt` | `../entering-law/research_b_sources/felker_06._Respondents_Brief_djvu.txt` |
+| 211 | `research_b_sources/AEDPA_TITLE_I.txt` | `../entering-law/research_b_sources/AEDPA_TITLE_I.txt` |
+| 925 | `research_b_sources/winstar_07._Joint_Appendix_Vol_I_djvu.txt` | `../entering-law/research_b_sources/winstar_07._Joint_Appendix_Vol_I_djvu.txt` |
+| 925 | `research_b_sources/winstar_08._Joint_Appendix_Vol_II_djvu.txt` | `../entering-law/research_b_sources/winstar_08._Joint_Appendix_Vol_II_djvu.txt` |
+| 925 | `research_b_sources/winstar_03._Appendix_djvu.txt` | `../entering-law/research_b_sources/winstar_03._Appendix_djvu.txt` |
+| 925 | `research_b_sources/winstar_09._Petitioners_Brief.pdf` | `../entering-law/research_b_sources/winstar_09._Petitioners_Brief.pdf` |
+| 925 | `research_b_sources/winstar_10._Respondents_Brief.pdf` | `../entering-law/research_b_sources/winstar_10._Respondents_Brief.pdf` |
+| 925 | `research_b_sources/winstar_11._Respondents_Brief.pdf` | `../entering-law/research_b_sources/winstar_11._Respondents_Brief.pdf` |
+| 957 | `PUBLIC_Hercules_Inc_v_United_States_merits_1996-03-04.md` | `../entering-law/PUBLIC_Hercules_Inc_v_United_States_merits_1996-03-04.md` |
+| 1083 | `research_b_sources/labron_2._Petition_for_Writ_of_Certiorari.pdf` | `../entering-law/research_b_sources/labron_2._Petition_for_Writ_of_Certiorari.pdf` |
+| 1083 | `research_b_sources/labron_2._Petition_for_Writ_of_Certiorari_djvu.txt` | `../entering-law/research_b_sources/labron_2._Petition_for_Writ_of_Certiorari_djvu.txt` |
+| 1083 | `research_b_sources/labron_3._Appendix_djvu.txt` | `../entering-law/research_b_sources/labron_3._Appendix_djvu.txt` |
+| 1084 | `research_b_sources/labron_4._Reply_Brief.pdf` | `../entering-law/research_b_sources/labron_4._Reply_Brief.pdf` |
+| 1084 | `research_b_sources/labron_4._Reply_Brief_djvu.txt` | `../entering-law/research_b_sources/labron_4._Reply_Brief_djvu.txt` |
+| 1084 | `research_b_sources/labron_5._Reply_Brief_djvu.txt` | `../entering-law/research_b_sources/labron_5._Reply_Brief_djvu.txt` |
+| 1085 | `research_b_sources/kilgore_2._Petition_for_Writ_of_Certiorari.pdf` | `../entering-law/research_b_sources/kilgore_2._Petition_for_Writ_of_Certiorari.pdf` |
+| 1085 | `research_b_sources/kilgore_2._Petition_for_Writ_of_Certiorari_djvu.txt` | `../entering-law/research_b_sources/kilgore_2._Petition_for_Writ_of_Certiorari_djvu.txt` |
+| 1085 | `research_b_sources/kilgore_3._Opposition_Brief.pdf` | `../entering-law/research_b_sources/kilgore_3._Opposition_Brief.pdf` |
+| 1085 | `research_b_sources/kilgore_3._Opposition_Brief_djvu.txt` | `../entering-law/research_b_sources/kilgore_3._Opposition_Brief_djvu.txt` |
+| 1085 | `research_b_sources/kilgore_4._Reply_Brief.pdf` | `../entering-law/research_b_sources/kilgore_4._Reply_Brief.pdf` |
+| 1085 | `research_b_sources/kilgore_4._Reply_Brief_djvu.txt` | `../entering-law/research_b_sources/kilgore_4._Reply_Brief_djvu.txt` |
+
+### [freeze/OT_1995CHUNK10_WINSTAR_NEUTRAL.md](../freeze/OT_1995CHUNK10_WINSTAR_NEUTRAL.md)
+
+| Line | Broken literal target | Working relative target |
+|---:|---|---|
+| 84 | `research_b_sources/winstar_07._Joint_Appendix_Vol_I_djvu.txt` | `../entering-law/research_b_sources/winstar_07._Joint_Appendix_Vol_I_djvu.txt` |
+| 84 | `research_b_sources/winstar_08._Joint_Appendix_Vol_II_djvu.txt` | `../entering-law/research_b_sources/winstar_08._Joint_Appendix_Vol_II_djvu.txt` |
+| 84 | `research_b_sources/winstar_03._Appendix_djvu.txt` | `../entering-law/research_b_sources/winstar_03._Appendix_djvu.txt` |
+| 84 | `research_b_sources/winstar_09._Petitioners_Brief.pdf` | `../entering-law/research_b_sources/winstar_09._Petitioners_Brief.pdf` |
+| 84 | `research_b_sources/winstar_10._Respondents_Brief.pdf` | `../entering-law/research_b_sources/winstar_10._Respondents_Brief.pdf` |
+| 84 | `research_b_sources/winstar_11._Respondents_Brief.pdf` | `../entering-law/research_b_sources/winstar_11._Respondents_Brief.pdf` |
+| 116 | `PUBLIC_Hercules_Inc_v_United_States_merits_1996-03-04.md` | `../entering-law/PUBLIC_Hercules_Inc_v_United_States_merits_1996-03-04.md` |
+
+### [freeze/OT_1995CHUNK9_SETTLE_NEUTRAL.md](../freeze/OT_1995CHUNK9_SETTLE_NEUTRAL.md)
+
+| Line | Broken literal target | Working relative target |
+|---:|---|---|
+| 116 | `OT_1995CHUNK9_SETTLE_TIMING_ADDENDUM.md` | `../entering-law/OT_1995CHUNK9_SETTLE_TIMING_ADDENDUM.md` |
+
+### [entering-law/OT_1995CHUNK8_REVISION_EGELHOFF_PUBLIC_LAW/Bennis_v_Michigan_merits_1996-03-04.md](../entering-law/OT_1995CHUNK8_REVISION_EGELHOFF_PUBLIC_LAW/Bennis_v_Michigan_merits_1996-03-04.md)
+
+| Line | Broken literal target | Working relative target |
+|---:|---|---|
+| 114 | `../sources/chunk4_c/bennis_lower_opinions_only.txt` | `../../sources/chunk4_c/bennis_lower_opinions_only.txt` |
+
+### [entering-law/OT_1995CHUNK8_REVISION_EGELHOFF_PUBLIC_LAW/Pinder_v_Johnson_merits_1996-05-21.md](../entering-law/OT_1995CHUNK8_REVISION_EGELHOFF_PUBLIC_LAW/Pinder_v_Johnson_merits_1996-05-21.md)
+
+| Line | Broken literal target | Working relative target |
+|---:|---|---|
+| 114 | `../sources/chunk7_a/pinder_district.txt` | `../../sources/chunk7_a/pinder_district.txt` |
+
+### [entering-law/OT_1995CHUNK8_REVISION_LEAVITT_PUBLIC_LAW/Bennis_v_Michigan_merits_1996-03-04.md](../entering-law/OT_1995CHUNK8_REVISION_LEAVITT_PUBLIC_LAW/Bennis_v_Michigan_merits_1996-03-04.md)
+
+| Line | Broken literal target | Working relative target |
+|---:|---|---|
+| 114 | `../sources/chunk4_c/bennis_lower_opinions_only.txt` | `../../sources/chunk4_c/bennis_lower_opinions_only.txt` |
+
+### [entering-law/OT_1995CHUNK8_REVISION_LEAVITT_PUBLIC_LAW/Pinder_v_Johnson_merits_1996-05-21.md](../entering-law/OT_1995CHUNK8_REVISION_LEAVITT_PUBLIC_LAW/Pinder_v_Johnson_merits_1996-05-21.md)
+
+| Line | Broken literal target | Working relative target |
+|---:|---|---|
+| 114 | `../sources/chunk7_a/pinder_district.txt` | `../../sources/chunk7_a/pinder_district.txt` |
+
+### [entering-law/OT_1995CHUNK8_REVISION_VERA_PUBLIC_LAW/Bennis_v_Michigan_merits_1996-03-04.md](../entering-law/OT_1995CHUNK8_REVISION_VERA_PUBLIC_LAW/Bennis_v_Michigan_merits_1996-03-04.md)
+
+| Line | Broken literal target | Working relative target |
+|---:|---|---|
+| 114 | `../sources/chunk4_c/bennis_lower_opinions_only.txt` | `../../sources/chunk4_c/bennis_lower_opinions_only.txt` |
+
+### [entering-law/OT_1995CHUNK8_REVISION_VERA_PUBLIC_LAW/Pinder_v_Johnson_merits_1996-05-21.md](../entering-law/OT_1995CHUNK8_REVISION_VERA_PUBLIC_LAW/Pinder_v_Johnson_merits_1996-05-21.md)
+
+| Line | Broken literal target | Working relative target |
+|---:|---|---|
+| 114 | `../sources/chunk7_a/pinder_district.txt` | `../../sources/chunk7_a/pinder_district.txt` |
+
+### [freeze/OT_1995CHUNK1_LIBRETTI_NEUTRAL_SUPPLEMENT.md](../freeze/OT_1995CHUNK1_LIBRETTI_NEUTRAL_SUPPLEMENT.md)
+
+| Line | Broken literal target | Working relative target |
+|---:|---|---|
+| 7 | `../sources/preflight_b/B_libretti_05._Joint_Appendix.pdf` | `../tmp/sources-local/preflight_b/B_libretti_05._Joint_Appendix.pdf` |
+
+### [sources/chunk5_a/wisconsin_validation_note.md](../sources/chunk5_a/wisconsin_validation_note.md)
+
+| Line | Broken literal target | Working relative target |
+|---:|---|---|
+| 11 | `wisconsin_appendix.pdf` | `../../tmp/sources-local/chunk5_a/wisconsin_appendix.pdf` |
+
+## 9. Remaining work and unusual features
+
+The next audit can proceed to legal review only after operative link navigation and the contradictory current workspace summaries are resolved and checked. It must then freshly review the legal substance of all Records and candidates, including Justice-specific historical departures, the sufficiency of controlling coalitions, precedent treatment, remedy limits, same-day entering law and cross-case continuity. Operator verification of actual commit existence, ledger commitment order, pinned history and concise lineage also remains outstanding. The term is not cleared for synchronized publication.
+
+The recorded term contains important arithmetic distinctions for that review: Love's judgment and proposition coalitions differ; Lotus and Lewis v. United States have fractured grounds for their respective judgments; Seminole Tribe has no common State-amenability rationale; Denver has different votes and rationales for each challenged provision; Winstar's common contractual holdings are distinct from its minority sovereign-construction grounds. These are descriptions of the supplied topology, not fresh determinations that the claimed controlling propositions are legally valid. Virginia has eight participants (Thomas excluded), IBM and Lotus have eight (Stevens excluded), Jones has eight (Breyer excluded), and Maine excludes Souter. Public nondisclosure remains separate from internal arithmetic.
+
+Labron/Kilgore's inventory retains the older docket 95-1692; manifest line 599 documents filed-cover authentication of 95-1738, which the canonical Record and render use. This documented source correction is not an additional unresolved docket defect. Bowersox contributes both an interim and a final action, so 115 scheduled inventory entries produce 116 completed Court events. Jones's reserved financial determination is the one expressly stopped adjudicative determination; the twelve carried docket matters remain at their distinct entered stages.
+
+No adjudication was corrected or reopened in this pass. The substantive audit remains deferred, the three candidates remain staged, and the operator retains verification and Commit responsibility.
