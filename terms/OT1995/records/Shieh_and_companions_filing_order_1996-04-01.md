@@ -1,7 +1,7 @@
 **Case and dockets:** Shieh v. Kakita, No. 95-7587; Shieh v. United States Court of Appeals for the Ninth Circuit, No. 95-7588; Shieh v. Krieger, No. 95-7589; 517 U.S. 343; October Term 1995.
 **Event and date:** Filing-administration order, 1996-04-01; financial motions and petitions dated January 19, January 22 and January 19, 1996, respectively.
 **Result:** L. Shieh's three individual financial motions granted; proposed Rule 39.8 denial declined for each petition; proposed future noncriminal-certiorari condition declined. All three certiorari petitions remain pending.
-**Version / lineage:** Initial adjudication; supersedes no prior Record. Assembly uses the reconciled commitments frozen at 5f16f9d and Stone's authorized conditional position. Term-close chronology note (October 7, 2026; close audit F4): one internal entering-law sentence about Ayers was updated to reflect its March 25, 1996 dismissal as improvidently granted; the frozen preparation snapshots are preserved, and no vote, holding, remedy or public text changed.
+**Version / lineage:** Initial adjudication; supersedes no prior Record. Assembly uses the reconciled commitments frozen at 5f16f9d and Stone's authorized conditional position.
 
 ## Event, participation and record
 
@@ -23,7 +23,7 @@ The December 13 order's visible paragraph (1) excludes counsel-represented and d
 
 ## Entering law and source limits
 
-The [March 27 public baseline](../entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-27.md), 099e65e, and [April 1 freshness certificate](../freeze/OT_1995CHUNK5_APRIL1_LAW_FRESHNESS.md), 41fd22a, govern with the [April 1 preparation](../freeze/OT_1995CHUNK5_APRIL1_PREPARATION.md). O'Connor and Lonchar supply same-day assignment accounting only, not law. The frozen preparation snapshot treated Ayers as stopped. The effective chronology now includes its March 25 dismissal as improvidently granted, 8–1, without a merits adjudication; that disposition changes no fee-screening premise used here. The seven intervening March merits decisions create no new fee-screening standard, future restriction or presumption here.
+The [March 27 public baseline](../entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-27.md), 099e65e, and [April 1 freshness certificate](../freeze/OT_1995CHUNK5_APRIL1_LAW_FRESHNESS.md), 41fd22a, govern with the [April 1 preparation](../freeze/OT_1995CHUNK5_APRIL1_PREPARATION.md). O'Connor and Lonchar supply same-day assignment accounting only, not law. The seven intervening March merits decisions create no new fee-screening standard, future restriction or presumption here.
 
 | Authority | Operation entering this order |
 |---|---|

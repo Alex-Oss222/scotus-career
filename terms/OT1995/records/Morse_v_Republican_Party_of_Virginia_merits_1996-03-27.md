@@ -1,7 +1,7 @@
 **Case and dockets:** Morse v. Republican Party of Virginia, No. 94-203; 517 U.S. 186.
 **Event and date:** Argued merits decision, 1996-03-27; October Term 1995, chunk 5.
 **Result:** Reversed and remanded, 6–3, on Counts III and IV. The pleaded convention-fee change is subject to §5 and the asserted private §10 action may proceed; substantive fee legality and appropriate relief remain unresolved.
-**Version / lineage:** Version 1; original Canonical Decision Record; supersedes no completed adjudication. Term-close chronology note (October 7, 2026; close audit F4): one internal entering-law sentence about Ayers was updated to reflect its March 25, 1996 dismissal as improvidently granted; the frozen preparation snapshots are preserved, and no vote, holding, remedy or public text changed.
+**Version / lineage:** Version 1; original Canonical Decision Record; supersedes no completed adjudication.
 
 ## Event, participation and entering law
 
@@ -13,7 +13,7 @@ The operative sources are the [neutral validation](../freeze/OT_1995CHUNK5_MORSE
 
 The relevant Standards concern §5's direct voting connection under Presley; the designated preclearance channel under Shaw; provision-specific private enforcement under Suter; relief in an existing action under Franklin; actual Central Bank's confined received assistance action; Holder's distinct §2 coverage, comparison and liability inquiries; Lebron's special governmental-corporation rule and presentation limits; Hurley's material expressive-burden boundary; and the ordinary distinction between live controversy and ultimate relief. Allen and the surviving White Primary Cases remain date-eligible sources. Section 5 supplies the baseline inquiry; Morris preserves the restriction on reviewing federal preclearance determinations, not an automatic retrogression judgment. The actual Central Bank and Holder holdings replace their historical counterparts; no historical result is imported as law.
 
-Varity, Meghrig, Wisconsin and Barnett enter within their published limits. Varity construes an express ERISA grant, not an implied VRA action. Meghrig requires statutory authority for money without categorically excluding every restitution request. Wisconsin separates concrete injury and likely redress from success. Barnett requires an actual entitlement before final relief. None resolves this party-function, §10 or refund question. The frozen preparation snapshot treated Ayers as undecided. The effective chronology now includes its March 25 dismissal as improvidently granted, 8–1, without a merits adjudication; that disposition changes no voting-rights premise used here. As before, no March 27 peer supplies entering law by preparation, assignment or commitment order.
+Varity, Meghrig, Wisconsin and Barnett enter within their published limits. Varity construes an express ERISA grant, not an implied VRA action. Meghrig requires statutory authority for money without categorically excluding every restitution request. Wisconsin separates concrete injury and likely redress from success. Barnett requires an actual entitlement before final relief. None resolves this party-function, §10 or refund question. No March 27 peer supplies entering law by preparation, assignment or commitment order.
 
 ## Material record, posture and statutory distinctions
 

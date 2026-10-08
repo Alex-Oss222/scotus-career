@@ -64,7 +64,7 @@ For the other questions in *United States v. Alaska*, April 21, 1992, No. 118, O
 - Lechmere, Inc. v. NLRB, January 27, 1992 — preserved: agency construction does not displace a binding judicial construction.
 - Arkansas v. Oklahoma, February 26, 1992 — preserved: agency permit conditions must rest on the authority and regulations governing that particular scheme; its Clean Water Act holding supplies no independent §10 power.
 
-#### [United States v. Maine et al. (Massachusetts Boundary Case), 516 U.S. 365](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/United_States_v_Maine_Massachusetts_Boundary_Case_supplemental_decree_1996-02-26.md)
+#### United States v. Maine et al. (Massachusetts Boundary Case), 516 U.S. 365
 
 **Docket or dockets:** No. 35, Original.
 
@@ -1622,7 +1622,7 @@ Members must have aviation and airport-user experience, frequently use the metro
 
 ### Federal regulation of economic activity
 
-#### [United States v. Bishop; United States v. Stokes, judgment below 66 F.3d 569](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/United_States_v_Bishop_and_Stokes_merits_1996-02-05.md)
+#### United States v. Bishop; United States v. Stokes, judgment below 66 F.3d 569
 
 **Docket or dockets:** Third Circuit Nos. 94-5321 and 94-5387; no separate Supreme Court docket supplied.
 
@@ -1638,7 +1638,7 @@ Members must have aviation and airport-user experience, frequently use the metro
 
 **Treatment of earlier authority:** Harris is applied within its economic-class and enacted-element limits; Lopez retains its rejection of the remote downstream-effects theory; Wickard and Perez retain their economic-class scope; American Life League confirms the distinct commercial-class ground without changing §2119's text.
 
-#### [United States v. Hale, judgment below 978 F.2d 1016](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/United_States_v_Hale_merits_1996-02-12.md)
+#### United States v. Hale, judgment below 978 F.2d 1016
 
 **Docket or dockets:** Eighth Circuit No. 91-3830; no separate Supreme Court docket supplied.
 
@@ -1656,7 +1656,7 @@ Members must have aviation and airport-user experience, frequently use the metro
 
 ### Discriminatory state taxation
 
-#### [Fulton Corp. v. Faulkner, 516 U.S. 325](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Fulton_Corp_v_Faulkner_merits_1996-02-21.md)
+#### Fulton Corp. v. Faulkner, 516 U.S. 325
 
 **Docket or dockets:** No. 94-1239.
 
@@ -1710,7 +1710,7 @@ Members must have aviation and airport-user experience, frequently use the metro
 
 ### Waste disposal and market participation
 
-#### [SSC Corp. v. Town of Smithtown, judgment below 66 F.3d 502](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/SSC_Corp_v_Town_of_Smithtown_merits_1996-03-11.md)
+#### SSC Corp. v. Town of Smithtown, judgment below 66 F.3d 502
 
 **Docket or dockets:** Petition No. 95-782 and cross-petition No. 95-1015 identify the underlying filings; no separate Supreme Court docket assigned.
 
@@ -5980,7 +5980,7 @@ For the other questions in National Private Truck Council, Inc. v. Oklahoma Tax 
 
 The due-process fracture, independently unanimous propositions, and arms holdings are under Civil Rights, Love v. Pepersack, December 11, 1995, Fourth Circuit No. 94-1582.
 
-#### [Behrens v. Pelletier, 516 U.S. 299](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Behrens_v_Pelletier_merits_1996-02-21.md)
+#### Behrens v. Pelletier, 516 U.S. 299
 
 **Docket or dockets:** No. 94-1244.
 
@@ -6128,7 +6128,7 @@ The due-process fracture, independently unanimous propositions, and arms holding
 
 ### Filing controls
 
-#### [Attwood v. Singletary, 516 U.S. 297](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Attwood_v_Singletary_filing_and_certiorari_1996-01-22.md)
+#### Attwood v. Singletary, 516 U.S. 297
 
 **Docket or dockets:** No. 95-6710.
 
@@ -6156,7 +6156,7 @@ The due-process fracture, independently unanimous propositions, and arms holding
 
 **Treatment of earlier authority:** Martin, Day, Sassower, and Anderson supply the distinct prospective showing; McDonald and Sindram retain their bounded process-protection authority.
 
-#### [Jones v. ABC-TV, 516 U.S. 363](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Jones_v_ABC_TV_filing_order_1996-02-26.md)
+#### Jones v. ABC-TV, 516 U.S. 363
 
 **Docket or dockets:** No. 95-7186.
 
@@ -6234,7 +6234,7 @@ The due-process fracture, independently unanimous propositions, and arms holding
 
 ### Scope of federal declaratory and injunctive relief
 
-#### [Dalton v. Little Rock Family Planning Services, 516 U.S. 474](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Dalton_v_Little_Rock_Family_Planning_Services_summary_review_1996-03-18.md)
+#### Dalton v. Little Rock Family Planning Services, 516 U.S. 474
 
 **Docket or dockets:** No. 95-1025.
 
@@ -6295,7 +6295,7 @@ The due-process fracture, independently unanimous propositions, and arms holding
 
 ### Ancillary jurisdiction and judgment enforcement
 
-#### [Peacock v. Thomas, 516 U.S. 349](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Peacock_v_Thomas_merits_1996-02-21.md)
+#### Peacock v. Thomas, 516 U.S. 349
 
 **Docket or dockets:** No. 94-1453.
 
@@ -6329,7 +6329,7 @@ The due-process fracture, independently unanimous propositions, and arms holding
 
 ### Recognition of state-court judgments
 
-#### [Matsushita Electric Industrial Co. v. Epstein, 516 U.S. 367](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Matsushita_Electric_Industrial_Co_v_Epstein_merits_1996-02-27.md)
+#### Matsushita Electric Industrial Co. v. Epstein, 516 U.S. 367
 
 **Docket or dockets:** No. 94-1809.
 
@@ -6379,7 +6379,7 @@ The due-process fracture, independently unanimous propositions, and arms holding
 
 ### Intervening statutory change and mootness
 
-#### [United States v. Chesapeake & Potomac Telephone Co. of Virginia; National Cable Television Assn., Inc. v. Bell Atlantic Corp., 516 U.S. 415](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/United_States_v_Chesapeake_and_Potomac_and_NCTA_v_Bell_Atlantic_statutory_change_disposition_1996-02-27.md)
+#### United States v. Chesapeake & Potomac Telephone Co. of Virginia; National Cable Television Assn., Inc. v. Bell Atlantic Corp., 516 U.S. 415
 
 **Docket or dockets:** Nos. 94-1893 and 94-1900.
 
@@ -9325,7 +9325,7 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 - The Palmyra, 12 Wheat 1: no prior personal conviction required, not an absence of punishment holding.
 - J.W. Goldsmith, Jr.-Grant Co. v. United States, 254 U.S. 505, and Calero-Toledo v. Pearson Yacht, 416 U.S. 663: punitive/deterrent features recognized; truly innocent owner question reserved.
 
-**Later-authority backlinks:** [Bennis v. Michigan, No. 94-8729, March 4, 1996](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Bennis_v_Michigan_merits_1996-03-04.md) — qualified due-process owner protection and conditional property relief.
+**Later-authority backlinks:** Bennis v. Michigan, No. 94-8729, March 4, 1996 — qualified due-process owner protection and conditional property relief.
 
 ##### Remand leaves excessiveness distinct from statutory connection
 
@@ -11209,7 +11209,7 @@ The trial findings establish increased drug use and discipline difficulties, ath
 
 ### Statutory drug sentences and Guidelines calculations
 
-#### [Neal v. United States, 516 U.S. 284](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Neal_v_United_States_merits_1996-01-22.md)
+#### Neal v. United States, 516 U.S. 284
 
 **Docket or dockets:** No. 94-9088.
 
@@ -11229,7 +11229,7 @@ The trial findings establish increased drug use and discipline difficulties, ath
 
 ### Pleas, cumulative punishment, identifications and booking evidence
 
-#### [United States v. Bishop; United States v. Stokes, judgment below 66 F.3d 569](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/United_States_v_Bishop_and_Stokes_merits_1996-02-05.md)
+#### United States v. Bishop; United States v. Stokes, judgment below 66 F.3d 569
 
 **Docket or dockets:** Third Circuit Nos. 94-5321 and 94-5387; no separate Supreme Court docket supplied.
 
@@ -11325,7 +11325,7 @@ The trial findings establish increased drug use and discipline difficulties, ath
 
 ### Public-record evidence and judicial notice
 
-#### [United States v. Hale, judgment below 978 F.2d 1016](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/United_States_v_Hale_merits_1996-02-12.md)
+#### United States v. Hale, judgment below 978 F.2d 1016
 
 **Docket or dockets:** Eighth Circuit No. 91-3830; no separate Supreme Court docket supplied.
 
@@ -13982,7 +13982,7 @@ For the other questions in Kimberlin v. Quinlan, decided June 12, 1995, No. 93-2
 
 ### Personal arms protection and firearm regulation
 
-#### [United States v. Hale, judgment below 978 F.2d 1016](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/United_States_v_Hale_merits_1996-02-12.md)
+#### United States v. Hale, judgment below 978 F.2d 1016
 
 **Docket or dockets:** Eighth Circuit No. 91-3830; no separate Supreme Court docket supplied.
 
@@ -16016,7 +16016,7 @@ The commerce and federalism holding is under Constitutional Structure, American 
 
 ### Civic observances in public schools
 
-#### [Sherman v. Community Consolidated School District 21 of Wheeling Township, judgment below 980 F.2d 437](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Sherman_v_Community_Consolidated_School_District_21_merits_1996-02-12.md)
+#### Sherman v. Community Consolidated School District 21 of Wheeling Township, judgment below 980 F.2d 437
 
 **Docket or dockets:** Seventh Circuit No. 91-1684; no separate Supreme Court docket supplied.
 
@@ -16054,7 +16054,7 @@ The commerce and federalism holding is under Constitutional Structure, American 
 
 ### Indecent broadcasting and adult access
 
-#### [Action for Children's Television v. FCC; Pacifica Foundation v. FCC, judgment below 58 F.3d 654](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Action_for_Childrens_Television_and_Pacifica_v_FCC_merits_1996-03-04.md)
+#### Action for Children's Television v. FCC; Pacifica Foundation v. FCC, judgment below 58 F.3d 654
 
 **Docket or dockets:** D.C. Circuit Nos. 93-1092 and 93-1100; no separate Supreme Court docket assigned.
 
@@ -16885,7 +16885,7 @@ For the other questions in Johnson v. De Grandy, 1994-06-30, Nos. 92-519, 92-593
 
 ### Federal voter-registration duties
 
-#### [Voting Rights Coalition v. Wilson, judgment below 60 F.3d 1411](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Voting_Rights_Coalition_v_Wilson_merits_1996-02-26.md)
+#### Voting Rights Coalition v. Wilson, judgment below 60 F.3d 1411
 
 **Docket or dockets:** Petition identifier No. 95-673; Ninth Circuit No. 95-15449; no separate Supreme Court docket assigned.
 
@@ -19526,7 +19526,7 @@ ERISA §514(a), subject to subsection (b), supersedes state laws insofar as they
 
 ### Religious accommodation
 
-#### [Beadle v. City of Tampa, judgment below 42 F.3d 633](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Beadle_v_City_of_Tampa_merits_1996-02-05.md)
+#### Beadle v. City of Tampa, judgment below 42 F.3d 633
 
 **Docket or dockets:** Eleventh Circuit No. 93-3271; no separate Supreme Court docket assigned.
 
@@ -19556,7 +19556,7 @@ ERISA §514(a), subject to subsection (b), supersedes state laws insofar as they
 
 ### Railroad automatic-coupler duties
 
-#### [Norfolk & Western Railway Co. v. Hiles, 516 U.S. 400](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Norfolk_and_Western_Railway_Co_v_Hiles_merits_1996-02-27.md)
+#### Norfolk & Western Railway Co. v. Hiles, 516 U.S. 400
 
 **Docket or dockets:** No. 95-6.
 
@@ -20126,7 +20126,7 @@ ERISA §514(a), subject to subsection (b), supersedes state laws insofar as they
 
 ### High-seas deaths in international aviation
 
-#### [Zicherman v. Korean Air Lines Co., Ltd.; Korean Air Lines Co., Ltd. v. Zicherman, 516 U.S. 217](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Zicherman_v_Korean_Air_Lines_merits_1996-01-16.md)
+#### Zicherman v. Korean Air Lines Co., Ltd.; Korean Air Lines Co., Ltd. v. Zicherman, 516 U.S. 217
 
 **Docket or dockets:** Nos. 94-1361 and 94-1477.
 
@@ -21266,7 +21266,7 @@ Section 2410 permits quiet-title proceedings against a claimed federal lien, wit
 
 ### Tax Court refund lookback periods
 
-#### [Commissioner v. Lundy, 516 U.S. 235](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Commissioner_v_Lundy_merits_1996-01-17.md)
+#### Commissioner v. Lundy, 516 U.S. 235
 
 **Docket or dockets:** No. 94-1785.
 
@@ -21288,7 +21288,7 @@ Section 2410 permits quiet-title proceedings against a claimed federal lien, wit
 
 ### Firearm taxation and registration
 
-#### [United States v. Hale, judgment below 978 F.2d 1016](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/United_States_v_Hale_merits_1996-02-12.md)
+#### United States v. Hale, judgment below 978 F.2d 1016
 
 **Docket or dockets:** Eighth Circuit No. 91-3830; no separate Supreme Court docket supplied.
 
@@ -22500,7 +22500,7 @@ Section 17(a) separately prohibits a scheme to defraud; obtaining money or prope
 
 ### Copyright in command interfaces
 
-#### [Lotus Development Corp. v. Borland International, Inc., 516 U.S. 233](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Lotus_v_Borland_merits_1996-01-16.md)
+#### Lotus Development Corp. v. Borland International, Inc., 516 U.S. 233
 
 **Docket or dockets:** No. 94-2003.
 
@@ -22514,7 +22514,7 @@ Section 17(a) separately prohibits a scheme to defraud; obtaining money or prope
 
 ### Expedited funds availability
 
-#### [Bank One Chicago, N.A. v. Midwest Bank & Trust Co., 516 U.S. 264](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Bank_One_Chicago_v_Midwest_Bank_and_Trust_Co_merits_1996-01-17.md)
+#### Bank One Chicago, N.A. v. Midwest Bank & Trust Co., 516 U.S. 264
 
 **Docket or dockets:** No. 94-1175.
 
@@ -22542,7 +22542,7 @@ Section 17(a) separately prohibits a scheme to defraud; obtaining money or prope
 
 ### Government procurement undertakings
 
-#### [Hercules, Inc. v. United States, 516 U.S. 417](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Hercules_Inc_v_United_States_merits_1996-03-04.md)
+#### Hercules, Inc. v. United States, 516 U.S. 417
 
 **Docket or dockets:** No. 94-818.
 
@@ -23631,7 +23631,7 @@ The seven-Justice Court opinion does not decide whether a sale actually authoriz
 
 ### Innocent-owner protection in forfeiture
 
-#### [Bennis v. Michigan, 516 U.S. 442](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Bennis_v_Michigan_merits_1996-03-04.md)
+#### Bennis v. Michigan, 516 U.S. 442
 
 **Docket or dockets:** No. 94-8729.
 
