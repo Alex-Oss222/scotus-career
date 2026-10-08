@@ -32,7 +32,7 @@
 - TVA v. Hill, 437 U.S. 153 — distinguished: the amendment here is express rather than an inferred repeal.
 - NLRB v. Jones & Laughlin Steel Corp., 301 U.S. 1 — preserved: a possible constitutionally valid construction reinforces, but does not replace, the enacted meaning.
 
-**Later-authority backlinks:** [Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., 511 U.S. 658](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md), No. 93-609, decided May 23, 1994: resolves the reserved final-judgment question only for §27A(b)'s compelled reopening of the completed private dismissal. Robertson's pending-litigation holding remains unchanged.
+**Later-authority backlinks:** Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., 511 U.S. 658, No. 93-609, decided May 23, 1994: resolves the reserved final-judgment question only for §27A(b)'s compelled reopening of the completed private dismissal. Robertson's pending-litigation holding remains unchanged.
 
 ### Federal and state submerged-land boundaries
 
@@ -497,7 +497,7 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 - New Energy Co. of Indiana v. Limbach, 486 U.S. 269 — applied; reasonable nondiscriminatory alternatives defeat the asserted necessity.
 - Maine v. Taylor, 477 U.S. 131 — distinguished; demonstrated necessity absent here.
 
-#### [West Lynn Creamery, Inc. v. Healy, 512 U.S. 186](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/West_Lynn_Creamery_v_Healy_Merits_1994-06-17.md)
+#### West Lynn Creamery, Inc. v. Healy, 512 U.S. 186
 
 **Docket or dockets:** No. 93-141.
 
@@ -766,7 +766,7 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Operative remedy or transition:** Affirm rejection of the treaty, preemption and constitutional challenges to this nondiscriminatory Tennessee lease tax. The constitutional analyses retain the distinct proposition coalitions stated above.
 
-#### [Barclays Bank PLC v. Franchise Tax Board of California, 512 U.S. 298](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Barclays_Bank_PLC_v_Franchise_Tax_Board_of_California_merits_1994-06-20.md)
+#### Barclays Bank PLC v. Franchise Tax Board of California, 512 U.S. 298
 
 **Docket or dockets:** Nos. 92-1384 and 92-1839 (Colgate-Palmolive included within this entry).
 
@@ -896,7 +896,7 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 ### Airport fees and review boundaries
 
-#### [Northwest Airlines, Inc. v. County of Kent, 510 U.S. 355](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Northwest_Airlines_Inc_v_County_of_Kent_merits_1994-01-24.md)
+#### Northwest Airlines, Inc. v. County of Kent, 510 U.S. 355
 
 **Docket or dockets:** No. 92-97.
 
@@ -956,7 +956,7 @@ For the other questions in Northwest Airlines, Inc. v. County of Kent, 1994-01-2
 
 ### Compensatory state and local taxes
 
-#### [Associated Industries of Missouri v. Lohman, 511 U.S. 641](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Associated_Industries_of_Missouri_v_Lohman_merits_1994-05-23.md)
+#### Associated Industries of Missouri v. Lohman, 511 U.S. 641
 
 **Docket or dockets:** No. 93-397.
 
@@ -995,7 +995,7 @@ For the other questions in Northwest Airlines, Inc. v. County of Kent, 1994-01-2
 
 ### Interstate waste commerce
 
-#### [Oregon Waste Systems, Inc. v. Department of Environmental Quality and Columbia Resource Co. v. Environmental Quality Commission, 511 U.S. 93](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Oregon_Waste_Systems_Inc_v_Department_of_Environmental_Quality_merits_1994-04-04.md)
+#### Oregon Waste Systems, Inc. v. Department of Environmental Quality and Columbia Resource Co. v. Environmental Quality Commission, 511 U.S. 93
 
 **Docket or dockets:** Nos. 93-70 and 93-108.
 
@@ -1045,7 +1045,7 @@ For the other questions in Northwest Airlines, Inc. v. County of Kent, 1994-01-2
 
 **Operative remedy or transition:** Both matters are reversed and remanded for relief from the origin differential through the existing state review proceeding. No replacement rate, refund entitlement or amount, alteration of the separately unchallenged charge, required waste shipment or reinstatement of severed state-law provisions is ordered.
 
-#### [C & A Carbone, Inc. v. Town of Clarkstown, 511 U.S. 383](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/C_A_Carbone_Inc_v_Town_of_Clarkstown_merits_1994-05-16.md)
+#### C & A Carbone, Inc. v. Town of Clarkstown, 511 U.S. 383
 
 **Docket or dockets:** No. 92-1402.
 
@@ -1084,7 +1084,7 @@ For the other questions in Northwest Airlines, Inc. v. County of Kent, 1994-01-2
 
 ### Legislative reopening of final judgments
 
-#### [Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., 511 U.S. 658](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md)
+#### Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., 511 U.S. 658
 
 **Docket or dockets:** No. 93-609.
 
@@ -1111,7 +1111,7 @@ For the other questions in Northwest Airlines, Inc. v. County of Kent, 1994-01-2
 
 **Operative remedy or transition:** The Fifth Circuit is reversed, 5–3, and the matter remanded with directions to deny §27A(b) reinstatement. The completed August 1991 dismissal remains undisturbed. O'Connor does not participate; no fraud findings or damages trial is ordered.
 
-#### [Plaut v. Spendthrift Farm, Inc.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md)
+#### Plaut v. Spendthrift Farm, Inc.
 
 **Docket or dockets:** No. 93-1121.
 **Decided:** April 18, 1995.
@@ -1138,7 +1138,7 @@ For the other questions in Northwest Airlines, Inc. v. County of Kent, 1994-01-2
 
 ### Military judicial appointments and impartiality
 
-#### [Weiss v. United States, 510 U.S. 163](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Weiss_v_United_States_merits_1994-01-19.md)
+#### Weiss v. United States, 510 U.S. 163
 
 **Docket or dockets:** No. 92-1482, including Hernandez under Supreme Court Rule 12.2.
 
@@ -1162,7 +1162,7 @@ For the other questions in Weiss v. United States, 1994-01-19, No. 92-1482, incl
 
 **Operative remedy or transition:** Both Court of Military Appeals judgments, including Hernandez under Rule 12.2, are affirmed on the appointment and fixed-tenure objections. No second appointment, fixed term or retrial is ordered.
 
-#### [Ryder v. United States](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Ryder_v_United_States_merits_1995-06-12.md)
+#### Ryder v. United States
 
 **Docket or dockets:** No. 94-431.
 **Decided:** June 12, 1995.
@@ -1183,7 +1183,7 @@ For the other questions in Ryder v. United States, decided June 12, 1995, No. 94
 
 ### Airline preemption and voluntary contracts
 
-#### [American Airlines, Inc. v. Wolens](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/American_Airlines_Inc_v_Wolens_merits_1995-01-18.md)
+#### American Airlines, Inc. v. Wolens
 
 **Docket or dockets:** No. 93-1286.
 **Decided:** January 18, 1995.
@@ -1217,7 +1217,7 @@ For the other questions in Ryder v. United States, decided June 12, 1995, No. 94
 
 ### Commerce power and armed vehicle taking
 
-#### [United States v. Harris](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_Harris_merits_1995-04-27.md)
+#### United States v. Harris
 
 **Docket or dockets:** No. 94-297.
 **Decided:** April 27, 1995.
@@ -1241,7 +1241,7 @@ For the other questions in this decision, see Criminal Procedure — Armed vehic
 
 ### Commerce power and school-zone firearm possession
 
-#### [United States v. Lopez](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_Lopez_merits_1995-04-26.md)
+#### United States v. Lopez
 
 **Docket or dockets:** No. 93-1260.
 **Decided:** April 26, 1995.
@@ -1281,7 +1281,7 @@ For the other questions in this decision, see Criminal Procedure — Armed vehic
 
 ### Federal borrowing and state taxation
 
-#### [Nebraska Department of Revenue v. Loewenstein](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Nebraska_Department_of_Revenue_v_Loewenstein_merits_1994-12-12.md)
+#### Nebraska Department of Revenue v. Loewenstein
 
 **Docket or dockets:** No. 93-823.
 **Decided:** December 12, 1994.
@@ -1302,7 +1302,7 @@ For the other questions in this decision, see Federal Taxation — Federal oblig
 
 ### Interstate transportation sales taxes
 
-#### [Oklahoma Tax Commission v. Jefferson Lines, Inc.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Oklahoma_Tax_Commission_v_Jefferson_Lines_Inc_merits_1995-04-03.md)
+#### Oklahoma Tax Commission v. Jefferson Lines, Inc.
 
 **Docket or dockets:** No. 93-1677.
 **Decided:** April 3, 1995.
@@ -1370,7 +1370,7 @@ For the other questions in this decision, see Federal Taxation — Federal oblig
 
 ### Interstate water compacts and usable-water depletion
 
-#### [Kansas v. Colorado](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Kansas_v_Colorado_original_exceptions_1995-05-15.md)
+#### Kansas v. Colorado
 
 **Docket or dockets:** No. 105, Original.
 **Decided:** May 15, 1995.
@@ -1486,7 +1486,7 @@ For the other questions in this decision, see Federal Taxation — Federal oblig
 
 ### Legislative punishment and land-use regulation
 
-#### [Ambassador Books & Video, Inc. v. City of Little Rock](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Ambassador_Books_Video_Inc_v_City_of_Little_Rock_merits_1995-03-20.md)
+#### Ambassador Books & Video, Inc. v. City of Little Rock
 
 **Docket or dockets:** No. 93-1886.
 **Decided:** March 20, 1995.
@@ -1510,7 +1510,7 @@ For the other questions in this decision, see First Amendment — Adult-business
 
 ### Motor-vehicle safety and common-law preemption
 
-#### [Freightliner Corp. v. Myrick](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Freightliner_Corp_v_Myrick_merits_1995-04-18.md)
+#### Freightliner Corp. v. Myrick
 
 **Docket or dockets:** No. 94-286.
 **Decided:** April 18, 1995.
@@ -1545,7 +1545,7 @@ For the other questions in this decision, see First Amendment — Adult-business
 
 ### Congressional control of airport administration
 
-#### [Metropolitan Washington Airports Authority v. Hechinger](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Metropolitan_Washington_Airports_Authority_v_Hechinger_merits_1995-06-05.md)
+#### Metropolitan Washington Airports Authority v. Hechinger
 
 **Docket or dockets:** No. 94-851.
 **Decided:** June 5, 1995.
@@ -1576,7 +1576,7 @@ Members must have aviation and airport-user experience, frequently use the metro
 
 ### Congressional qualifications and state ballot restrictions
 
-#### [U.S. Term Limits, Inc. v. Thornton / Bryant v. Hill](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/US_Term_Limits_v_Thornton_Bryant_v_Hill_merits_1995-05-22.md)
+#### U.S. Term Limits, Inc. v. Thornton / Bryant v. Hill
 
 **Docket or dockets:** Nos. 93-1456; 93-1828.
 **Decided:** May 22, 1995.
@@ -1925,7 +1925,7 @@ For the judicial aggravator, general advisory recommendation and sentence-correc
 
 **Treatment of earlier authority:** *Michigan v. Long*, 463 U.S. 1032, preserves an expressly independent state disposition despite alternative federal merits discussion. *Herb v. Pitcairn*, 324 U.S. 117, supplies the jurisdictional limit. *Coleman v. Thompson*, 501 U.S. 722, retains its distinction between independent state procedure and federal merits.
 
-#### [Arizona v. Evans](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Arizona_v_Evans_merits_1995-03-01.md)
+#### Arizona v. Evans
 
 **Docket or dockets:** No. 93-1660.
 **Decided:** March 1, 1995.
@@ -1963,7 +1963,7 @@ For the other questions in this decision, see Criminal Procedure — Court-emplo
 
 **Treatment of earlier authority:** *Patsy v. Board of Regents of Florida*, 457 U.S. 496, makes congressional design central. *McKart v. United States*, 395 U.S. 185, supplies the agency-authority, expertise, error-correction and efficiency purposes. *McGee v. United States*, 402 U.S. 479, supports sound judicial discretion absent congressional mandate. *Coit Independence Joint Venture v. FSLIC*, 489 U.S. 561, distinguishes statutory exhaustion and the adequacy of the administrative route. *Carlson v. Green*, 446 U.S. 14, remains the established medical-care damages channel without extension. *Bush v. Lucas*, 462 U.S. 367, and *Schweiker v. Chilicky*, 487 U.S. 412, are distinguished because there is no comparable comprehensive congressional remedial replacement here.
 
-**Later-authority backlinks:** [Prison Litigation Reform Act of 1995, Pub. L. 104-134, Title VIII, enacted April 26, 1996](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Prison_Litigation_Reform_Act_sections_802_804_statutory_enactment_1996-04-26.md): §803(d), replacement §1997e(a), (h), and the former absence of a mandatory exhaustion command. This is a noncase-law change, not an overruling or new judicial holding.
+**Later-authority backlinks:** Prison Litigation Reform Act of 1995, Pub. L. 104-134, Title VIII, enacted April 26, 1996: §803(d), replacement §1997e(a), (h), and the former absence of a mandatory exhaustion command. This is a noncase-law change, not an overruling or new judicial holding.
 
 ##### Whether the actual BOP procedure justifies requiring exhaustion of this damages-only claim absent a statutory mandate
 
@@ -1981,7 +1981,7 @@ For the other questions in this decision, see Criminal Procedure — Court-emplo
 
 **Treatment of earlier authority:** *McKart*, 395 U.S. 185, supports comparing actual individual and institutional interests. *Coit*, 489 U.S. 561, informs practical adequacy without categorically invalidating deadlines. *Turner v. Safley*, 482 U.S. 78, preserves judicial cognizance of valid prisoner claims without deciding this claim’s validity. *Hillsborough Township v. Cromwell*, 326 U.S. 620, and *Union Pacific Railroad Co. v. Board of County Commissioners*, 247 U.S. 282, address uncertainty in an administrative route to the requested relief.
 
-**Later-authority backlinks:** [Prison Litigation Reform Act of 1995, Pub. L. 104-134, Title VIII, enacted April 26, 1996](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Prison_Litigation_Reform_Act_sections_802_804_statutory_enactment_1996-04-26.md): §803(d), the independent statutory exhaustion condition rather than former discretionary balancing. This is a noncase-law change, not an overruling or new judicial holding.
+**Later-authority backlinks:** Prison Litigation Reform Act of 1995, Pub. L. 104-134, Title VIII, enacted April 26, 1996: §803(d), the independent statutory exhaustion condition rather than former discretionary balancing. This is a noncase-law change, not an overruling or new judicial holding.
 
 ### Appellate jurisdiction and notices of appeal
 
@@ -2488,7 +2488,7 @@ For the member-beneficiary enforcement holding in Wooddell v. International Brot
 - Neitzke v. Williams, 490 U.S. 319 (1989): applied and clarified; its clearly-baseless category reaches irrational or wholly incredible allegations without requiring a judicially noticeable contradiction, while preserving the distinction from Rule 12(b)(6).
 - Haines v. Kerner, 404 U.S. 519 (1972): applied; liberal treatment of pleadings filed without counsel remains part of the screening inquiry and does not adjudicate their truth.
 
-**Later-authority backlinks:** [Prison Litigation Reform Act of 1995, Pub. L. 104-134, Title VIII, enacted April 26, 1996](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Prison_Litigation_Reform_Act_sections_802_804_statutory_enactment_1996-04-26.md): §804(a), replacement mandatory dismissal provision §1915(e)(2). This is a noncase-law change, not an overruling or new judicial holding.
+**Later-authority backlinks:** Prison Litigation Reform Act of 1995, Pub. L. 104-134, Title VIII, enacted April 26, 1996: §804(a), replacement mandatory dismissal provision §1915(e)(2). This is a noncase-law change, not an overruling or new judicial holding.
 
 ##### How appellate courts review a §1915(d) dismissal and account for its consequences
 
@@ -2510,7 +2510,7 @@ For the member-beneficiary enforcement holding in Wooddell v. International Brot
 - Haines v. Kerner, 404 U.S. 519 (1972): applied to review of pleadings filed without counsel and the significance of potentially curable deficiencies.
 - Neitzke v. Williams, 490 U.S. 319 (1989): applied; section 1915(d)’s screening function remains distinct from disposition of the merits under ordinary pleading rules.
 
-**Later-authority backlinks:** [Prison Litigation Reform Act of 1995, Pub. L. 104-134, Title VIII, enacted April 26, 1996](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Prison_Litigation_Reform_Act_sections_802_804_statutory_enactment_1996-04-26.md): §804(a), (d), replacement screening and the separate three-prior-dismissals condition. This is a noncase-law change, not an overruling or new judicial holding.
+**Later-authority backlinks:** Prison Litigation Reform Act of 1995, Pub. L. 104-134, Title VIII, enacted April 26, 1996: §804(a), (d), replacement screening and the separate three-prior-dismissals condition. This is a noncase-law change, not an overruling or new judicial holding.
 
 ### Finality and earlier-period takings claims
 
@@ -2620,7 +2620,7 @@ For the compensation rule, see Lucas v. South Carolina Coastal Council, June 29,
 - Coleman v. Thompson, 501 U.S. 722 (1991): distinguished; its cause-and-prejudice rule for independent and adequate state procedural defaults remains in force and is not extended to this hearing entitlement.
 - Vasquez v. Hillery, 474 U.S. 254 (1986): relied on for the distinction between supplementing facts and fundamentally altering an exhausted claim; its deliberate-withholding reservation remains open.
 
-**Later-authority backlinks:** [Antiterrorism and Effective Death Penalty Act of 1996, Pub. L. 104-132, Title I, enacted April 24, 1996](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Antiterrorism_and_Effective_Death_Penalty_Act_Title_I_statutory_enactment_1996-04-24.md): §104, new §2254(e)(2), limits on evidentiary hearings. This is a noncase-law change, not an overruling or new judicial holding.
+**Later-authority backlinks:** Antiterrorism and Effective Death Penalty Act of 1996, Pub. L. 104-132, Title I, enacted April 24, 1996: §104, new §2254(e)(2), limits on evidentiary hearings. This is a noncase-law change, not an overruling or new judicial holding.
 
 ### Habeas procedural gateways
 
@@ -2669,7 +2669,7 @@ For the compensation rule, see Lucas v. South Carolina Coastal Council, June 29,
 
 **Treatment of earlier authority:** Brady v. Maryland, 373 U.S. 83, supplies the underlying suppressed-evidence claim but no merits disposition here. Strickland, 466 U.S. 668, does not allow ordinary sentencing prejudice to replace the gateway. Sawyer v. Smith, 497 U.S. 227, retains its distinct Caldwell retroactivity disposition.
 
-#### [Schlup v. Delo](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Schlup_v_Delo_merits_1995-01-23.md)
+#### Schlup v. Delo
 
 **Docket or dockets:** No. 93-7901.
 **Decided:** January 23, 1995.
@@ -2714,7 +2714,7 @@ The videotape was trial evidence. Green's asserted prompt call, Faherty's moveme
 
 **Operative remedy or transition:** The Eighth Circuit judgment is vacated and remanded through that court to the District Court for the probability gateway and a reasoned decision on necessary factual development. No gateway satisfaction, automatic hearing, constitutional-merits review, writ, retrial, release or stay is ordered.
 
-**Later-authority backlinks:** [Antiterrorism and Effective Death Penalty Act of 1996, Pub. L. 104-132, Title I, enacted April 24, 1996](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Antiterrorism_and_Effective_Death_Penalty_Act_Title_I_statutory_enactment_1996-04-24.md): §106, replacement §2244(b)(1)–(4) district-court successive-application mechanism; see also Felker v. Turpin, June 28, 1996, No. 95-8836, distinct original jurisdiction and reserved direct statutory reach. This is a noncase-law change, not an overruling or new judicial holding.
+**Later-authority backlinks:** Antiterrorism and Effective Death Penalty Act of 1996, Pub. L. 104-132, Title I, enacted April 24, 1996: §106, replacement §2244(b)(1)–(4) district-court successive-application mechanism; see also Felker v. Turpin, June 28, 1996, No. 95-8836, distinct original jurisdiction and reserved direct statutory reach. This is a noncase-law change, not an overruling or new judicial holding.
 
 ### Mootness and completed sentences
 
@@ -2921,7 +2921,7 @@ For the other questions in *United States v. Williams*, May 4, 1992, No. 90-1972
 - *United States v. United Shoe Machinery Corp.*, 391 U.S. 244 — applied to connect modification to the continuing decree's purpose and operation.
 - *Board of Education v. Dowell*, 498 U.S. 237 — reinforces contextual treatment of institutional equitable relief; no school-desegregation termination rule is imported.
 
-**Later-authority backlinks:** [Prison Litigation Reform Act of 1995, Pub. L. 104-134, Title VIII, enacted April 26, 1996](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Prison_Litigation_Reform_Act_sections_802_804_statutory_enactment_1996-04-26.md): §802, independent §3626(b)(1)–(2) termination, (b)(3) limitation, (d) state-law exception, original (e)(2) stay and §802(b)(1) enactment transition. This is a noncase-law change, not an overruling or new judicial holding.
+**Later-authority backlinks:** Prison Litigation Reform Act of 1995, Pub. L. 104-134, Title VIII, enacted April 26, 1996: §802, independent §3626(b)(1)–(2) termination, (b)(3) limitation, (d) state-law exception, original (e)(2) stay and §802(b)(1) enactment transition. This is a noncase-law change, not an overruling or new judicial holding.
 
 ##### What fit and protections a justified consent-decree modification must preserve
 
@@ -2941,7 +2941,7 @@ For the other questions in *United States v. Williams*, May 4, 1992, No. 90-1972
 - *Bell v. Wolfish*, 441 U.S. 520 — its constitutional treatment of double-celling does not erase a consensual single-cell requirement.
 - *System Federation No. 91 v. Wright*, 364 U.S. 642 — preserves adjustment for changed circumstances while maintaining judicial control of lawful relief.
 
-**Later-authority backlinks:** [Prison Litigation Reform Act of 1995, Pub. L. 104-134, Title VIII, enacted April 26, 1996](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Prison_Litigation_Reform_Act_sections_802_804_statutory_enactment_1996-04-26.md): §802, consent-decree limits, private-settlement distinction and surviving equitable rule. This is a noncase-law change, not an overruling or new judicial holding.
+**Later-authority backlinks:** Prison Litigation Reform Act of 1995, Pub. L. 104-134, Title VIII, enacted April 26, 1996: §802, consent-decree limits, private-settlement distinction and surviving equitable rule. This is a noncase-law change, not an overruling or new judicial holding.
 
 #### Morales v. Trans World Airlines, Inc., 504 U.S. 374 (1992)
 
@@ -3051,7 +3051,7 @@ For this case’s other questions, see *United States Department of Commerce v. 
 
 - Singleton v. Wulff, 428 U.S. 106 (1976), unanimous Part III — applies its ordinary remand practice and fair-opportunity rationale; its recognized discretionary exceptions remain available, and no new jurisdictional prohibition is announced.
 
-#### [Vernonia School District 47J v. Acton](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Vernonia_School_District_47J_v_Acton_merits_1995-06-26.md)
+#### Vernonia School District 47J v. Acton
 
 **Docket or dockets:** No. 94-590.
 **Decided:** June 26, 1995.
@@ -3109,7 +3109,7 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 - Bellotti, Hodgson and Ohio v. Akron: preserve effective independent authorization at their actual scope.
 - The general six-step standard: an additional legal obligation must first be established; no invented attendance condition is approved.
 
-#### [Fargo Women’s Health Organization v. Schafer](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Fargo_Womens_Health_Organization_v_Schafer_merits_1995-02-13.md)
+#### Fargo Women’s Health Organization v. Schafer
 
 **Docket or dockets:** No. 93-1712.
 **Decided:** February 13, 1995.
@@ -3310,7 +3310,7 @@ For the constitutional counting question, see Franklin v. Massachusetts, June 26
 - United States Department of Commerce v. Montana, March 31, 1992, this Court: applied for continuing representational injury and likely declaratory redress through the allocation process; the express unanimous holding remains controlling and its reservation of coercive presidential relief remains intact.
 - Lujan v. Defenders of Wildlife, June 12, 1992, this Court: applied for injury, causation, likely redress and evidentiary demands; the noncontrolling application concerning absent funding agencies is not promoted into law. Its rule for procedure connected to concrete injury does not require certainty that a new method changes the result.
 
-#### [Johnson v. Miller (Miller v. Johnson / Abrams v. Johnson / United States v. Johnson)](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Miller_and_consolidated_merits_1995-06-29.md)
+#### Johnson v. Miller (Miller v. Johnson / Abrams v. Johnson / United States v. Johnson)
 
 **Docket or dockets:** Nos. 94-631; 94-797; 94-929.
 **Decided:** June 29, 1995.
@@ -3432,7 +3432,7 @@ For the state-attribution and Batson-procedure holdings in *Georgia v. McCollum*
 
 **Treatment of earlier authority:** Hensley v. Eckerhart, 461 U.S. 424, supplies the lodestar and avoidance of extensive collateral fee litigation. Blum v. Stenson, 465 U.S. 886, supplies the strong lodestar presumption, applicant's burden and nonduplication rule; its reserved contingency question is answered. Pennsylvania v. Delaware Valley Citizens' Council for Clean Air, 478 U.S. 546, supplies lodestar primacy without deciding delay or deficient rates. White's previously noncontrolling categorical position in Pennsylvania v. Delaware Valley Citizens' Council for Clean Air, 483 U.S. 711, is adopted for these statutes; the competing limited and broader permission theories remain noncontrolling. Blanchard v. Bergeron, 489 U.S. 87, establishes that the private contingent agreement does not determine the statutory fee. Ardestani v. INS, December 10, 1991, remains distinct on administrative fee eligibility; Department of Energy v. Ohio, April 21, 1992, supplies no federal-immunity premise for this municipal award.
 
-#### [National Private Truck Council, Inc. v. Oklahoma Tax Commission](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/National_Private_Truck_Council_Inc_v_Oklahoma_Tax_Commission_merits_1995-06-19.md)
+#### National Private Truck Council, Inc. v. Oklahoma Tax Commission
 
 **Docket or dockets:** No. 94-688.
 **Decided:** June 19, 1995.
@@ -3480,7 +3480,7 @@ For the other questions in National Private Truck Council, Inc. v. Oklahoma Tax 
 
 **Operative remedy or transition:** Reverse the First Circuit appellate-jurisdiction dismissal and remand for the immunity inquiry; no declaration that PRASA is immune or dismissal of the contract action.
 
-#### [Johnson v. Jones](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Johnson_v_Jones_merits_1995-06-12.md)
+#### Johnson v. Jones
 
 **Docket or dockets:** No. 94-455.
 **Decided:** June 12, 1995.
@@ -3503,7 +3503,7 @@ For the other questions in National Private Truck Council, Inc. v. Oklahoma Tax 
 
 **Operative remedy or transition:** Affirm dismissal of the reviewed immediate excessive-force factual-sufficiency appeal. The circuit's separate false-arrest immunity reversal remains undisturbed. No participation, beating, evidence-sufficiency, liability, state-law claim or other defendant's liability is adjudicated.
 
-#### [Kimberlin v. Quinlan](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Kimberlin_v_Quinlan_merits_1995-06-12.md)
+#### Kimberlin v. Quinlan
 
 **Docket or dockets:** No. 93-2068.
 **Decided:** June 12, 1995.
@@ -3564,7 +3564,7 @@ For the other questions in Kimberlin v. Quinlan, decided June 12, 1995, No. 93-2
 
 For Nebraska v. Wyoming, April 20, 1993, No. 108, Original, concerning interstate water decrees and equitable allocation, see **Property and Economic Rights — Interstate water decrees and equitable allocation**.
 
-#### [Nebraska v. Wyoming](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Nebraska_v_Wyoming_original_exceptions_1995-05-30.md)
+#### Nebraska v. Wyoming
 
 **Docket or dockets:** No. 108, Original.
 **Decided:** May 30, 1995.
@@ -4392,7 +4392,7 @@ For the other question-level holdings in United States National Bank of Oregon v
 - Arcadia v. Ohio Power Co., 498 U.S. 73: a necessary antecedent question may be resolved.
 - Swift & Co. v. Hocking Valley Railway Co., 243 U.S. 281: parties’ legal assumptions do not bind a court’s statement of governing law.
 
-#### [Hubbard v. United States](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Hubbard_v_United_States_merits_1995-05-15.md)
+#### Hubbard v. United States
 
 **Docket or dockets:** No. 94-172.
 **Decided:** May 15, 1995.
@@ -4452,7 +4452,7 @@ For the other questions in this decision, see Criminal Procedure — False state
 - City of Mesquite, 455 U.S. 283 — voluntary cessation applied.
 - Diffenderfer, 404 U.S. 412 — distinguished because the challenged injury continues.
 
-#### [Adarand Constructors, Inc. v. Peña](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Adarand_Constructors_Inc_v_Pena_merits_1995-06-12.md)
+#### Adarand Constructors, Inc. v. Peña
 
 **Docket or dockets:** No. 93-1841.
 **Decided:** June 12, 1995.
@@ -4580,7 +4580,7 @@ For the other questions in Adarand Constructors, Inc. v. Peña, decided June 12,
 - Davis, 489 U.S. 803 — correction of unequal taxation distinguished from a particular refund formula.
 - Beam, 501 U.S. 529 — procedural and remedial questions kept distinct from temporal governing law.
 
-#### [Reynoldsville Casket Co. v. Hyde](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Reynoldsville_Casket_Co_v_Hyde_merits_1995-05-15.md)
+#### Reynoldsville Casket Co. v. Hyde
 
 **Docket or dockets:** No. 94-3.
 **Decided:** May 15, 1995.
@@ -4710,7 +4710,7 @@ For the other question-level holdings in Shaw v. Reno, June 28, 1993, No. 92-357
 
 ### Adequate and independent state grounds
 
-#### [Tennessee v. Middlebrooks](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Tennessee_v_Middlebrooks_jurisdictional_dismissal_1993-12-13.md)
+#### Tennessee v. Middlebrooks
 
 **Docket or dockets:** No. 92-989.
 
@@ -4736,7 +4736,7 @@ For the other question-level holdings in Shaw v. Reno, June 28, 1993, No. 92-357
 
 ### Airport fees and review boundaries
 
-#### [Northwest Airlines, Inc. v. County of Kent, 510 U.S. 355](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Northwest_Airlines_Inc_v_County_of_Kent_merits_1994-01-24.md)
+#### Northwest Airlines, Inc. v. County of Kent, 510 U.S. 355
 
 **Docket or dockets:** No. 92-97.
 
@@ -4762,7 +4762,7 @@ For the other questions in Northwest Airlines, Inc. v. County of Kent, 1994-01-2
 
 ### Appellate sanctions and preserved review
 
-#### [McKnight v. General Motors Corp., 511 U.S. 659](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/McKnight_v_General_Motors_Corp_merits_1994-05-23.md)
+#### McKnight v. General Motors Corp., 511 U.S. 659
 
 **Docket or dockets:** No. 92-1113.
 
@@ -4789,7 +4789,7 @@ For the other questions in McKnight v. General Motors Corp., 1994-05-23, No. 92-
 
 ### Civil statutory temporal reach
 
-#### [Landgraf v. USI Film Products, 511 U.S. 244](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Landgraf_v_USI_Film_Products_merits_1994-04-26.md)
+#### Landgraf v. USI Film Products, 511 U.S. 244
 
 **Docket or dockets:** No. 92-757.
 
@@ -4817,7 +4817,7 @@ For the other questions in Landgraf v. USI Film Products, 1994-04-26, No. 92-757
 
 ### Federal agency immunity and constitutional damages
 
-#### [FDIC v. Meyer, 510 U.S. 471](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/FDIC_v_Meyer_merits_1994-02-23.md)
+#### FDIC v. Meyer, 510 U.S. 471
 
 **Docket or dockets:** No. 92-741.
 
@@ -4883,7 +4883,7 @@ For the other questions in Landgraf v. USI Film Products, 1994-04-26, No. 92-757
 
 ### Fee relief and prospective filing controls
 
-#### [Day v. Day, 510 U.S. 1](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Day_v_Day_prospective_filing_control_1993-10-12.md)
+#### Day v. Day, 510 U.S. 1
 
 **Docket or dockets:** Nos. 92-8788, 92-8792, 92-8888, 92-8905, 92-8906, 92-9018, 92-9101, and 93-5430.
 
@@ -4907,7 +4907,7 @@ For the other questions in Landgraf v. USI Film Products, 1994-04-26, No. 92-757
 
 **Operative remedy or transition:** The proposed new fee-and-form condition is declined. No current fee motion or underlying petition is adjudicated.
 
-#### [In re Sassower, 510 U.S. 4](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/In_re_Sassower_prospective_filing_control_1993-10-12.md)
+#### In re Sassower, 510 U.S. 4
 
 **Docket or dockets:** Nos. 92-8933, 92-8934, 92-9228, 93-5045, 93-5127, 93-5128, 93-5129, 93-5252, 93-5358, and 93-5596.
 
@@ -4942,7 +4942,7 @@ For the other questions in Landgraf v. USI Film Products, 1994-04-26, No. 92-757
 
 **Operative remedy or transition:** Both proposed new fee-and-form conditions are declined, separately. No current fee motion is adjudicated, and no existing restriction is vacated.
 
-#### [In re Anderson, 511 U.S. 364](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/In_re_Anderson_fee_order_1994-05-02.md)
+#### In re Anderson, 511 U.S. 364
 
 **Docket or dockets:** No. 93-8312.
 
@@ -4977,7 +4977,7 @@ For the other questions in Landgraf v. USI Film Products, 1994-04-26, No. 92-757
 
 ### Judicial disqualification
 
-#### [Liteky v. United States, 510 U.S. 540](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Liteky_v_United_States_merits_1994-03-07.md)
+#### Liteky v. United States, 510 U.S. 540
 
 **Docket or dockets:** No. 92-6921.
 
@@ -5013,7 +5013,7 @@ For the other questions in Landgraf v. USI Film Products, 1994-04-26, No. 92-757
 
 ### Parole consideration and prospective relief
 
-#### [Cavanaugh v. Roller](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Cavanaugh_v_Roller_merits_1993-11-30.md)
+#### Cavanaugh v. Roller
 
 **Docket or dockets:** No. 92-1510.
 
@@ -5037,11 +5037,11 @@ For the other questions in Cavanaugh v. Roller, 1993-11-30, No. 92-1510, see Civ
 
 **Operative remedy or transition:** The Fourth Circuit's prospective-relief judgment is affirmed, 6–3. Its remand for a declaration restoring annual reconsideration remains in force; the district court may issue an injunction only if necessary to secure consideration. No release, damages, immunity reconsideration, contempt finding or specific hearing date is ordered. The unappealed official- and individual-capacity damages dismissals remain undisturbed.
 
-**Later-authority backlinks:** [South Carolina Act No. 184, effective January 1, 1994](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/South_Carolina_Act_184_effective_source_1994-01-01.md): offense-date classification and savings/transition terms; no later mootness, completed hearing, judgment vacatur or displacement of the federal holding is established.
+**Later-authority backlinks:** South Carolina Act No. 184, effective January 1, 1994: offense-date classification and savings/transition terms; no later mootness, completed hearing, judgment vacatur or displacement of the federal holding is established.
 
 ### Party status and questions presented
 
-#### [Izumi Seimitsu Kogyo Kabushiki Kaisha v. U.S. Philips Corp., 510 U.S. 27](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Izumi_Seimitsu_Kogyo_Kabushiki_Kaisha_v_US_Philips_Corp_DIG_1993-11-30.md)
+#### Izumi Seimitsu Kogyo Kabushiki Kaisha v. U.S. Philips Corp., 510 U.S. 27
 
 **Docket or dockets:** No. 92-1123.
 
@@ -5074,7 +5074,7 @@ For the other questions in Cavanaugh v. Roller, 1993-11-30, No. 92-1510, see Civ
 
 ### Settlement-enforcement jurisdiction
 
-#### [Kokkonen v. Guardian Life Insurance Co. of America, 511 U.S. 375](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Kokkonen_v_Guardian_Life_merits_1994-05-16.md)
+#### Kokkonen v. Guardian Life Insurance Co. of America, 511 U.S. 375
 
 **Docket or dockets:** No. 93-263.
 
@@ -5108,7 +5108,7 @@ For the other questions in Cavanaugh v. Roller, 1993-11-30, No. 92-1510, see Civ
 
 ### Capital habeas preparation and stays
 
-#### [McFarland v. Scott, 512 U.S. 849](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/McFarland_v_Scott_merits_1994-06-30.md)
+#### McFarland v. Scott, 512 U.S. 849
 
 **Docket or dockets:** No. 93-6497.
 
@@ -5131,7 +5131,7 @@ Under the then-operative paragraph (9), an ex parte finding that investigative, 
 - Murray v. Giarratano, 492 U.S. 1 (1989): distinguished; its constitutional collateral-counsel question does not restrict the express federal statutory appointment mechanism.
 - Herrera v. Collins, January 25, 1993: its record-specific rejection of the asserted innocence showing remains intact; no general freestanding-innocence standard is imported into this appointment question.
 
-**Later-authority backlinks:** [Antiterrorism and Effective Death Penalty Act of 1996, Pub. L. 104-132, Title I, enacted April 24, 1996](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Antiterrorism_and_Effective_Death_Penalty_Act_Title_I_statutory_enactment_1996-04-24.md): §108, replacement §848(q)(9) service authorization and confidentiality. This is a noncase-law change, not an overruling or new judicial holding.
+**Later-authority backlinks:** Antiterrorism and Effective Death Penalty Act of 1996, Pub. L. 104-132, Title I, enacted April 24, 1996: §108, replacement §848(q)(9) service authorization and confidentiality. This is a noncase-law change, not an overruling or new judicial holding.
 
 ##### The statutory preparation proceeding satisfies §2251 pendency
 
@@ -5176,7 +5176,7 @@ Under the then-operative paragraph (9), an ex parte finding that investigative, 
 
 ### Collateral appeals from settlement orders
 
-#### [Digital Equipment Corp. v. Desktop Direct, Inc., 511 U.S. 863](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Digital_Equipment_Corp_v_Desktop_Direct_merits_1994-06-06.md)
+#### Digital Equipment Corp. v. Desktop Direct, Inc., 511 U.S. 863
 
 **Docket or dockets:** No. 93-405.
 
@@ -5213,7 +5213,7 @@ Under the then-operative paragraph (9), an ex parte finding that investigative, 
 
 ### Federal common law and acquired state claims
 
-#### [O’Melveny & Myers v. FDIC, 512 U.S. 79](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/OMelveny_Myers_v_FDIC_merits_1994-06-13.md)
+#### O’Melveny & Myers v. FDIC, 512 U.S. 79
 
 **Docket or dockets:** No. 93-489.
 
@@ -5252,7 +5252,7 @@ Under the then-operative paragraph (9), an ex parte finding that investigative, 
 
 ### Speech injunctions and remedial scope
 
-#### [Madsen v. Women’s Health Center, Inc., 512 U.S. 753](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Madsen_v_Womens_Health_Center_Inc_merits_1994-06-30.md)
+#### Madsen v. Women’s Health Center, Inc., 512 U.S. 753
 
 **Docket or dockets:** No. 93-880.
 
@@ -5320,7 +5320,7 @@ For the other questions in Madsen v. Women’s Health Center, Inc., 1994-06-30, 
 
 ### Statutory habeas claims and collateral thresholds
 
-#### [Reed v. Farley, 512 U.S. 339](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Reed_v_Farley_merits_1994-06-20.md)
+#### Reed v. Farley, 512 U.S. 339
 
 **Docket or dockets:** No. 93-5418.
 
@@ -5358,7 +5358,7 @@ For the other questions in Madsen v. Women’s Health Center, Inc., 1994-06-30, 
 
 ### Voting Rights Act comparisons and unequal opportunity
 
-#### [Johnson v. De Grandy, 512 U.S. 997](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Johnson_v_De_Grandy_merits_1994-06-30.md)
+#### Johnson v. De Grandy, 512 U.S. 997
 
 **Docket or dockets:** Nos. 92-519, 92-593 and 92-767.
 
@@ -5396,7 +5396,7 @@ For the other questions in Johnson v. De Grandy, 1994-06-30, Nos. 92-519, 92-593
 
 ### Agency aggrievement and statutory appellate review
 
-#### [Director, Office of Workers’ Compensation Programs v. Newport News Shipbuilding & Dry Dock Co.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Director_Office_of_Workers_Compensation_Programs_v_Newport_News_Shipbuilding_and_Dry_Dock_Co_merits_1995-03-21.md)
+#### Director, Office of Workers’ Compensation Programs v. Newport News Shipbuilding & Dry Dock Co.
 
 **Docket or dockets:** No. 93-1783.
 **Decided:** March 21, 1995.
@@ -5421,7 +5421,7 @@ For the other questions in Johnson v. De Grandy, 1994-06-30, Nos. 92-519, 92-593
 
 ### Agency authority to seek Supreme Court review
 
-#### [Federal Election Commission v. NRA Political Victory Fund](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Federal_Election_Commission_v_NRA_Political_Victory_Fund_jurisdictional_dismissal_1994-12-06.md)
+#### Federal Election Commission v. NRA Political Victory Fund
 
 **Docket or dockets:** No. 93-1151.
 **Decided:** December 6, 1994.
@@ -5457,7 +5457,7 @@ For the other questions in Johnson v. De Grandy, 1994-06-30, Nos. 92-519, 92-593
 
 ### Collateral appeals from municipal liability defenses
 
-#### [Swint v. Chambers County Commission, 514 U.S. 35](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Swint_v_Chambers_County_Commission_merits_1995-03-01.md)
+#### Swint v. Chambers County Commission, 514 U.S. 35
 
 **Docket or dockets:** No. 93-1636.
 **Decided:** March 1, 1995.
@@ -5490,7 +5490,7 @@ For the other questions in Johnson v. De Grandy, 1994-06-30, Nos. 92-519, 92-593
 
 ### Component-specific vacatur and independent relief
 
-#### [New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co. / Pataki v. Travelers Insurance Co. / Hospital Association of New York State v. Travelers Insurance Co.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/New_York_State_Conference_of_Blue_Cross_Blue_Shield_Plans_v_Travelers_Insurance_Co_merits_1995-04-26.md)
+#### New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co. / Pataki v. Travelers Insurance Co. / Hospital Association of New York State v. Travelers Insurance Co.
 
 **Docket or dockets:** Nos. 93-1408; 93-1414; 93-1415.
 **Decided:** April 26, 1995.
@@ -5516,7 +5516,7 @@ This vacatur is expressly chosen for the reviewed unresolved component. It estab
 
 ### Defending an existing favorable judgment
 
-#### [United States v. X-Citement Video, Inc., 513 U.S. 64](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_X_Citement_Video_Inc_merits_1994-11-29.md)
+#### United States v. X-Citement Video, Inc., 513 U.S. 64
 
 **Docket or dockets:** No. 93-723.
 **Decided:** November 29, 1994.
@@ -5540,7 +5540,7 @@ For the other questions in this decision, see Criminal Procedure — Knowledge o
 
 ### Federal merits failure and statutory jurisdiction
 
-#### [Young v. Northern Illinois Conference of United Methodist Church](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Young_v_Northern_Illinois_Conference_merits_1995-01-17.md)
+#### Young v. Northern Illinois Conference of United Methodist Church
 
 **Docket or dockets:** No. 93-1917.
 **Decided:** January 17, 1995.
@@ -5564,7 +5564,7 @@ For the other questions in this decision, see First Amendment — Ministerial se
 
 ### Mootness and settlement vacatur
 
-#### [U.S. Bancorp Mortgage Co. v. Bonner Mall Partnership, 513 U.S. 18](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/US_Bancorp_Mortgage_Co_v_Bonner_Mall_Partnership_mootness_vacatur_1994-11-08.md)
+#### U.S. Bancorp Mortgage Co. v. Bonner Mall Partnership, 513 U.S. 18
 
 **Docket or dockets:** No. 93-714.
 **Decided:** November 8, 1994.
@@ -5602,7 +5602,7 @@ For the other questions in this decision, see First Amendment — Ministerial se
 
 ### Preserved claims and disavowed legal arguments
 
-#### [Lebron v. National Railroad Passenger Corp.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Lebron_v_National_Railroad_Passenger_Corp_merits_1995-02-21.md)
+#### Lebron v. National Railroad Passenger Corp.
 
 **Docket or dockets:** No. 93-1525.
 **Decided:** February 21, 1995.
@@ -5627,7 +5627,7 @@ For the other questions in this decision, see First Amendment — Government-cre
 
 ### Relief after reversal of governmental-actor status
 
-#### [Lebron v. National Railroad Passenger Corp.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Lebron_v_National_Railroad_Passenger_Corp_merits_1995-02-21.md)
+#### Lebron v. National Railroad Passenger Corp.
 
 **Docket or dockets:** No. 93-1525.
 **Decided:** February 21, 1995.
@@ -5651,7 +5651,7 @@ For the other questions in this decision, see Federal Courts — Preserved claim
 
 ### Ripeness and vacatur after loss of federal approval
 
-#### [Anderson v. Green, 513 U.S. 557](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Anderson_v_Green_decision_1995-02-22.md)
+#### Anderson v. Green, 513 U.S. 557
 
 **Docket or dockets:** No. 94-197.
 **Decided:** February 22, 1995.
@@ -5676,7 +5676,7 @@ For the other questions in this decision, see Federal Courts — Preserved claim
 
 ### Scope of public-employee speech relief
 
-#### [United States v. National Treasury Employees Union](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_National_Treasury_Employees_Union_merits_1995-02-22.md)
+#### United States v. National Treasury Employees Union
 
 **Docket or dockets:** No. 93-1170.
 **Decided:** February 22, 1995.
@@ -5713,7 +5713,7 @@ For the other questions in this decision, see First Amendment — Public-employe
 
 ### State immunity and bistate compact entities
 
-#### [Hess v. Port Authority Trans-Hudson Corp., 513 U.S. 30](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Hess_v_Port_Authority_Trans_Hudson_Corp_merits_1994-11-14.md)
+#### Hess v. Port Authority Trans-Hudson Corp., 513 U.S. 30
 
 **Docket or dockets:** No. 93-1197.
 **Decided:** November 14, 1994.
@@ -5738,7 +5738,7 @@ For the other questions in this decision, see First Amendment — Public-employe
 
 ### Declaratory relief and parallel state proceedings
 
-#### [Wilton v. Seven Falls Co.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Wilton_v_Seven_Falls_Co_merits_1995-06-12.md)
+#### Wilton v. Seven Falls Co.
 
 **Docket or dockets:** No. 94-562.
 **Decided:** June 12, 1995.
@@ -5775,7 +5775,7 @@ For the other questions in this decision, see First Amendment — Public-employe
 
 ### Direct review of three-judge merits judgments
 
-#### [Johnson v. Miller (Miller v. Johnson / Abrams v. Johnson / United States v. Johnson)](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Miller_and_consolidated_merits_1995-06-29.md)
+#### Johnson v. Miller (Miller v. Johnson / Abrams v. Johnson / United States v. Johnson)
 
 **Docket or dockets:** Nos. 94-631; 94-797; 94-929.
 **Decided:** June 29, 1995.
@@ -5826,7 +5826,7 @@ For the other questions in Johnson v. Miller (Miller v. Johnson / Abrams v. John
 
 ### Habeas custody under consecutive sentences
 
-#### [Garlotte v. Fordice](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Garlotte_v_Fordice_merits_1995-05-30.md)
+#### Garlotte v. Fordice
 
 **Docket or dockets:** No. 94-6790.
 **Decided:** May 30, 1995.
@@ -5848,7 +5848,7 @@ For the other questions in Johnson v. Miller (Miller v. Johnson / Abrams v. John
 
 ### Judicial review of employment-scope certification
 
-#### [Gutierrez de Martinez v. Lamagno](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Gutierrez_de_Martinez_v_Lamagno_merits_1995-06-14.md)
+#### Gutierrez de Martinez v. Lamagno
 
 **Docket or dockets:** No. 94-167.
 **Decided:** June 14, 1995.
@@ -5871,7 +5871,7 @@ For the other questions in Johnson v. Miller (Miller v. Johnson / Abrams v. John
 
 ### Mootness and seasonal permits
 
-#### [Capitol Square Review and Advisory Board v. Pinette](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Pinette_merits_1995-06-29.md)
+#### Capitol Square Review and Advisory Board v. Pinette
 
 **Docket or dockets:** No. 94-780.
 **Decided:** June 29, 1995.
@@ -5892,7 +5892,7 @@ For the other questions in Capitol Square Review and Advisory Board v. Pinette, 
 
 **Operative remedy or transition:** Affirm the Sixth Circuit at the original scope of the Count One merits judgment: the December 21–24, 1993 permit period remains expired. No new permit, extension, sign condition, removal order, damages or remand is entered. Unappealed rally, damages and other matters remain outside review.
 
-#### [Chabad-Lubavitch of Georgia v. Miller](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Chabad_Lubavitch_v_Miller_merits_1995-06-29.md)
+#### Chabad-Lubavitch of Georgia v. Miller
 
 **Docket or dockets:** No. 93-1047.
 **Decided:** June 29, 1995.
@@ -5916,7 +5916,7 @@ For the other questions in Chabad-Lubavitch of Georgia v. Miller, decided June 2
 
 ### State-tax equitable relief
 
-#### [National Private Truck Council, Inc. v. Oklahoma Tax Commission](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/National_Private_Truck_Council_Inc_v_Oklahoma_Tax_Commission_merits_1995-06-19.md)
+#### National Private Truck Council, Inc. v. Oklahoma Tax Commission
 
 **Docket or dockets:** No. 94-688.
 **Decided:** June 19, 1995.
@@ -7572,7 +7572,7 @@ For the Sixth Amendment scope and delay holdings in *Doggett v. United States*, 
 
 - United States v. Turkette, 452 U.S. 576 — applied: avoid an arbitrary statutory result unsupported by the text’s purpose.
 
-#### [Reno v. Koray](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Reno_v_Koray_merits_1995-06-05.md)
+#### Reno v. Koray
 
 **Docket or dockets:** No. 94-790.
 **Decided:** June 5, 1995.
@@ -8396,7 +8396,7 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Operative remedy or transition:** Reverse the Sixth Circuit conditional-writ judgment concerning the 1981 plea; the actual evidentiary showing warrants no new hearing. The unchallenged 1979 determination is undisturbed.
 
-**Later-authority backlinks:** [Antiterrorism and Effective Death Penalty Act of 1996, Pub. L. 104-132, Title I, enacted April 24, 1996](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Antiterrorism_and_Effective_Death_Penalty_Act_Title_I_statutory_enactment_1996-04-24.md): §104, replacement factual-presumption rules and the new state-merits relief conditions. This is a noncase-law change, not an overruling or new judicial holding.
+**Later-authority backlinks:** Antiterrorism and Effective Death Penalty Act of 1996, Pub. L. 104-132, Title I, enacted April 24, 1996: §104, replacement factual-presumption rules and the new state-merits relief conditions. This is a noncase-law change, not an overruling or new judicial holding.
 
 ### Effective capital mitigation under Texas special issues
 
@@ -8760,7 +8760,7 @@ No precedent is overruled.
 
 **Operative remedy or transition:** Vacate the Seventh Circuit judgment and remand for whole-record Chapman review with the State’s burden. Relief follows only if that showing fails; no automatic writ, release, acquittal or present retrial deadline.
 
-**Later-authority backlinks:** [O’Neal v. McAninch, February 21, 1995](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/ONeal_v_McAninch_merits_1995-02-21.md): extends Chapman review to the preserved personal-intent claim arising from the combined instructions and prosecutorial argument; the State bears the beyond-a-reasonable-doubt burden if a violation is found. The Doyle holding remains unchanged, and no general rule for all preserved constitutional trial errors is adopted. See Criminal Procedure — Constitutional trial error on habeas.
+**Later-authority backlinks:** O’Neal v. McAninch, February 21, 1995: extends Chapman review to the preserved personal-intent claim arising from the combined instructions and prosecutorial argument; the State bears the beyond-a-reasonable-doubt burden if a violation is found. The Doyle holding remains unchanged, and no general rule for all preserved constitutional trial errors is adopted. See Criminal Procedure — Constitutional trial error on habeas.
 
 ### Sentencing for trial perjury
 
@@ -8903,7 +8903,7 @@ No precedent is overruled.
 - United States v. Jacobsen, 466 U.S. 109: preserves distinct search and seizure interests.
 - Soldal v. Cook County, December 8, 1992: consistent possessory/privacy distinction; home holding not enlarged into categorical vehicle standing.
 
-#### [United States v. Wellons](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_Wellons_merits_1995-05-30.md)
+#### United States v. Wellons
 
 **Docket or dockets:** No. 94-496.
 **Decided:** May 30, 1995.
@@ -9159,7 +9159,7 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 - DeShaney, 489 U.S. 189 — custodial safety obligation supplies context.
 - Hudson, February 25, 1992 — nontrivial malicious beating rule remains distinct; no universal conditions standard imported.
 
-**Later-authority backlinks:** [Prison Litigation Reform Act of 1995, Pub. L. 104-134, Title VIII, enacted April 26, 1996](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Prison_Litigation_Reform_Act_sections_802_804_statutory_enactment_1996-04-26.md): §802, additional §3626(a)(1) findings and express prospective-relief transition. This is a noncase-law change, not an overruling or new judicial holding.
+**Later-authority backlinks:** Prison Litigation Reform Act of 1995, Pub. L. 104-134, Title VIII, enacted April 26, 1996: §802, additional §3626(a)(1) findings and express prospective-relief transition. This is a noncase-law change, not an overruling or new judicial holding.
 
 ### Effective consideration of youth mitigation
 
@@ -9369,7 +9369,7 @@ For the traditional-prior-restraint classification and independent First Amendme
 
 ### Criminal statutory knowledge and lenity
 
-#### [Ratzlaf v. United States, 510 U.S. 135](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Ratzlaf_v_United_States_merits_1994-01-11.md)
+#### Ratzlaf v. United States, 510 U.S. 135
 
 **Docket or dockets:** No. 92-1196.
 
@@ -9404,7 +9404,7 @@ For the traditional-prior-restraint classification and independent First Amendme
 
 ### Custodial interrogation
 
-#### [Stansbury v. California, 511 U.S. 318](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Stansbury_v_California_merits_1994-04-26.md)
+#### Stansbury v. California, 511 U.S. 318
 
 **Docket or dockets:** No. 93-5770.
 
@@ -9427,7 +9427,7 @@ For the traditional-prior-restraint classification and independent First Amendme
 
 **Operative remedy or transition:** The California Supreme Court judgment is reversed and remanded to reconsider custody without the private investigative-focus criterion. No suppression, new trial, acquittal, release or resentencing is ordered; ultimate custody and any properly reached consequences remain for the state court.
 
-#### [Davis v. United States, 512 U.S. 452](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Davis_v_United_States_merits_1994-06-24.md)
+#### Davis v. United States, 512 U.S. 452
 
 **Docket or dockets:** No. 92-1949.
 
@@ -9475,7 +9475,7 @@ For the traditional-prior-restraint classification and independent First Amendme
 
 ### Drug-paraphernalia classification and knowledge
 
-#### [Posters ’N’ Things, Ltd. v. United States, 511 U.S. 513](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Posters_N_Things_Ltd_v_United_States_merits_1994-05-23.md)
+#### Posters ’N’ Things, Ltd. v. United States, 511 U.S. 513
 
 **Docket or dockets:** No. 92-903.
 
@@ -9533,7 +9533,7 @@ For the traditional-prior-restraint classification and independent First Amendme
 
 ### Federal presentment and confessions
 
-#### [United States v. Alvarez-Sanchez, 511 U.S. 350](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/United_States_v_Alvarez_Sanchez_merits_1994-05-02.md)
+#### United States v. Alvarez-Sanchez, 511 U.S. 350
 
 **Docket or dockets:** No. 92-1812.
 
@@ -9569,7 +9569,7 @@ For the traditional-prior-restraint classification and independent First Amendme
 
 ### Firearm-characteristic knowledge
 
-#### [Beecham v. United States and Jones v. United States, 511 U.S. 368](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Beecham_and_Jones_v_United_States_merits_1994-05-16.md)
+#### Beecham v. United States and Jones v. United States, 511 U.S. 368
 
 **Docket or dockets:** No. 93-445; Jones included under Rule 12.2.
 
@@ -9596,7 +9596,7 @@ For the traditional-prior-restraint classification and independent First Amendme
 
 The contrary separate-clause reasoning of Geyler and Edwards is rejected on sovereign selection. No Supreme Court precedent is overruled.
 
-#### [Staples v. United States, 511 U.S. 600](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Staples_v_United_States_merits_1994-05-23.md)
+#### Staples v. United States, 511 U.S. 600
 
 **Docket or dockets:** No. 92-1441.
 
@@ -9623,7 +9623,7 @@ The contrary separate-clause reasoning of Geyler and Edwards is rejected on sove
 
 ### Habeas nonretroactivity and double jeopardy
 
-#### [Schiro v. Farley, 510 U.S. 222](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Schiro_v_Farley_merits_1994-01-19.md)
+#### Schiro v. Farley, 510 U.S. 222
 
 **Docket or dockets:** No. 92-7549.
 
@@ -9670,7 +9670,7 @@ The contrary separate-clause reasoning of Geyler and Edwards is rejected on sove
 
 **Operative remedy or transition:** The Seventh Circuit's denial of the presented habeas grounds is affirmed, 7–2. No new factfinding, writ or resentencing is ordered; neither conviction nor sentence is disturbed on these claims.
 
-#### [Caspari v. Bohlen, 510 U.S. 383](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Caspari_v_Bohlen_merits_1994-02-23.md)
+#### Caspari v. Bohlen, 510 U.S. 383
 
 **Docket or dockets:** No. 92-1500.
 
@@ -9723,7 +9723,7 @@ The contrary separate-clause reasoning of Geyler and Edwards is rejected on sove
 
 ### Habeas review and counsel conflicts
 
-#### [Burden v. Zant, 510 U.S. 132](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Burden_v_Zant_summary_merits_1994-01-10.md)
+#### Burden v. Zant, 510 U.S. 132
 
 **Docket or dockets:** No. 92-8836.
 
@@ -9747,7 +9747,7 @@ The contrary separate-clause reasoning of Geyler and Edwards is rejected on sove
 
 ### Military judicial appointments and impartiality
 
-#### [Weiss v. United States, 510 U.S. 163](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Weiss_v_United_States_merits_1994-01-19.md)
+#### Weiss v. United States, 510 U.S. 163
 
 **Docket or dockets:** No. 92-1482, including Hernandez under Supreme Court Rule 12.2.
 
@@ -9772,7 +9772,7 @@ For the other questions in Weiss v. United States, 1994-01-19, No. 92-1482, incl
 
 **Operative remedy or transition:** Both Court of Military Appeals judgments, including Hernandez under Rule 12.2, are affirmed on the appointment and fixed-tenure objections. No second appointment, fixed term or retrial is ordered.
 
-#### [Ryder v. United States](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Ryder_v_United_States_merits_1995-06-12.md)
+#### Ryder v. United States
 
 **Docket or dockets:** No. 94-431.
 **Decided:** June 12, 1995.
@@ -9793,7 +9793,7 @@ For the other questions in Ryder v. United States, decided June 12, 1995, No. 94
 
 ### Parole consideration and prospective relief
 
-#### [Cavanaugh v. Roller](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Cavanaugh_v_Roller_merits_1993-11-30.md)
+#### Cavanaugh v. Roller
 
 **Docket or dockets:** No. 92-1510.
 
@@ -9819,11 +9819,11 @@ For the other questions in Cavanaugh v. Roller, 1993-11-30, No. 92-1510, see Fed
 
 **Operative remedy or transition:** The Fourth Circuit's prospective-relief judgment is affirmed, 6–3. Its remand for a declaration restoring annual reconsideration remains in force; the district court may issue an injunction only if necessary to secure consideration. No release, damages, immunity reconsideration, contempt finding or specific hearing date is ordered. The unappealed official- and individual-capacity damages dismissals remain undisturbed.
 
-**Later-authority backlinks:** [South Carolina Act No. 184, effective January 1, 1994](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/South_Carolina_Act_184_effective_source_1994-01-01.md): offense-date classification and savings/transition terms; no later mootness, completed hearing, judgment vacatur or displacement of the federal holding is established. [California Department of Corrections v. Morales, April 25, 1995](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/California_Department_of_Corrections_v_Morales_merits_1995-04-25.md): applies the protected-opportunity rule to the retrospective three-year postponement supported by individualized findings on the present record. It does not decide every possible interim-review system; the original compulsory biennial-review holding remains unchanged. See Criminal Procedure — Retrospective loss of parole consideration.
+**Later-authority backlinks:** South Carolina Act No. 184, effective January 1, 1994: offense-date classification and savings/transition terms; no later mootness, completed hearing, judgment vacatur or displacement of the federal holding is established. California Department of Corrections v. Morales, April 25, 1995: applies the protected-opportunity rule to the retrospective three-year postponement supported by individualized findings on the present record. It does not decide every possible interim-review system; the original compulsory biennial-review holding remains unchanged. See Criminal Procedure — Retrospective loss of parole consideration.
 
 ### Probation revocation and lenity
 
-#### [United States v. Granderson, 511 U.S. 39](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/United_States_v_Granderson_merits_1994-03-22.md)
+#### United States v. Granderson, 511 U.S. 39
 
 **Docket or dockets:** No. 92-1662.
 
@@ -9858,7 +9858,7 @@ For the other questions in Cavanaugh v. Roller, 1993-11-30, No. 92-1510, see Fed
 
 ### Prompt judicial probable-cause review
 
-#### [Powell v. Nevada, 511 U.S. 79](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Powell_v_Nevada_merits_1994-03-30.md)
+#### Powell v. Nevada, 511 U.S. 79
 
 **Docket or dockets:** No. 92-8841.
 
@@ -9896,7 +9896,7 @@ For the other questions in Cavanaugh v. Roller, 1993-11-30, No. 92-1510, see Fed
 
 ### Proof beyond a reasonable doubt
 
-#### [Victor v. Nebraska and Sandoval v. California, 511 U.S. 1](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Victor_v_Nebraska_and_Sandoval_v_California_merits_1994-03-22.md)
+#### Victor v. Nebraska and Sandoval v. California, 511 U.S. 1
 
 **Docket or dockets:** Nos. 92-8894 (Victor) and 92-9049 (Sandoval).
 
@@ -9957,7 +9957,7 @@ For the other questions in Cavanaugh v. Roller, 1993-11-30, No. 92-1510, see Fed
 
 ### Sentencing and collateral attacks
 
-#### [Custis v. United States, 511 U.S. 485](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Custis_v_United_States_merits_1994-05-23.md)
+#### Custis v. United States, 511 U.S. 485
 
 **Docket or dockets:** No. 93-5209.
 
@@ -9992,7 +9992,7 @@ For the other questions in Cavanaugh v. Roller, 1993-11-30, No. 92-1510, see Fed
 
 ### Uncounseled misdemeanors at sentencing
 
-#### [Nichols v. United States, 511 U.S. 738](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Nichols_v_United_States_merits_1994-06-06.md)
+#### Nichols v. United States, 511 U.S. 738
 
 **Docket or dockets:** No. 92-8556.
 
@@ -10025,7 +10025,7 @@ For the other questions in Cavanaugh v. Roller, 1993-11-30, No. 92-1510, see Fed
 
 ### Capital selection factors
 
-#### [Tuilaepa v. California and Proctor v. California, 512 U.S. 967](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Tuilaepa_v_California_and_Proctor_v_California_merits_1994-06-30.md)
+#### Tuilaepa v. California and Proctor v. California, 512 U.S. 967
 
 **Docket or dockets:** Nos. 93-5131 (Tuilaepa) and 93-5161 (Proctor).
 
@@ -10091,7 +10091,7 @@ For the other questions in Cavanaugh v. Roller, 1993-11-30, No. 92-1510, see Fed
 
 ### Capital sentencing responsibility and rebuttal
 
-#### [Romano v. Oklahoma, 512 U.S. 1](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Romano_v_Oklahoma_merits_1994-06-13.md)
+#### Romano v. Oklahoma, 512 U.S. 1
 
 **Docket or dockets:** No. 92-9093.
 
@@ -10127,7 +10127,7 @@ For the other questions in Cavanaugh v. Roller, 1993-11-30, No. 92-1510, see Fed
 
 **Operative remedy or transition:** The Oklahoma appellate judgment is vacated only insofar as it sustains the Sarfaty death sentence, and the case is remanded under the responsibility rule. The Court has no controlling choice between a required new penalty hearing and an initial constitutional harmless-error inquiry. It neither separately declares the trial sentence automatically void nor declares it enforceable; guilt and the independent Thompson proceedings remain untouched. No replacement sentence, release or execution order issues.
 
-#### [Simmons v. South Carolina, 512 U.S. 154](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Simmons_v_South_Carolina_merits_1994-06-17.md)
+#### Simmons v. South Carolina, 512 U.S. 154
 
 **Docket or dockets:** No. 92-9059.
 
@@ -10166,7 +10166,7 @@ For the other questions in Cavanaugh v. Roller, 1993-11-30, No. 92-1510, see Fed
 
 ### Contempt classification and criminal safeguards
 
-#### [International Union, United Mine Workers of America v. Bagwell, 512 U.S. 821](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/International_Union_United_Mine_Workers_of_America_v_Bagwell_merits_1994-06-30.md)
+#### International Union, United Mine Workers of America v. Bagwell, 512 U.S. 821
 
 **Docket or dockets:** No. 92-1625.
 
@@ -10217,7 +10217,7 @@ For the other questions in Cavanaugh v. Roller, 1993-11-30, No. 92-1510, see Fed
 
 ### Double jeopardy and punitive taxation
 
-#### [Department of Revenue of Montana v. Kurth Ranch, 511 U.S. 767](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Department_of_Revenue_of_Montana_v_Kurth_Ranch_merits_1994-06-06.md)
+#### Department of Revenue of Montana v. Kurth Ranch, 511 U.S. 767
 
 **Docket or dockets:** No. 93-144.
 
@@ -10249,7 +10249,7 @@ For the other questions in Cavanaugh v. Roller, 1993-11-30, No. 92-1510, see Fed
 
 ### Insanity-verdict consequences and jury instructions
 
-#### [Shannon v. United States, 512 U.S. 573](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Shannon_v_United_States_merits_1994-06-24.md)
+#### Shannon v. United States, 512 U.S. 573
 
 **Docket or dockets:** No. 92-8346.
 
@@ -10283,7 +10283,7 @@ For the other questions in Cavanaugh v. Roller, 1993-11-30, No. 92-1510, see Fed
 
 ### Statements against penal interest
 
-#### [Williamson v. United States, 512 U.S. 594](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Williamson_v_United_States_merits_1994-06-27.md)
+#### Williamson v. United States, 512 U.S. 594
 
 **Docket or dockets:** No. 93-5256.
 
@@ -10318,7 +10318,7 @@ For the other questions in Cavanaugh v. Roller, 1993-11-30, No. 92-1510, see Fed
 
 ### Advisory jury recommendations in capital sentencing
 
-#### [Harris v. Alabama](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Harris_v_Alabama_merits_1995-02-22.md)
+#### Harris v. Alabama
 
 **Docket or dockets:** No. 93-7659.
 **Decided:** February 22, 1995.
@@ -10343,7 +10343,7 @@ For the other questions in Cavanaugh v. Roller, 1993-11-30, No. 92-1510, see Fed
 
 ### Armed vehicle taking and cumulative firearm punishment
 
-#### [United States v. Harris](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_Harris_merits_1995-04-27.md)
+#### United States v. Harris
 
 **Docket or dockets:** No. 94-297.
 **Decided:** April 27, 1995.
@@ -10396,7 +10396,7 @@ For the other questions in this decision, see Constitutional Structure — Comme
 
 ### Collective disclosure materiality and prosecution responsibility
 
-#### [Kyles v. Whitley](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Kyles_v_Whitley_merits_1995-04-19.md)
+#### Kyles v. Whitley
 
 **Docket or dockets:** No. 93-7927.
 **Decided:** April 19, 1995.
@@ -10441,7 +10441,7 @@ For the other questions in this decision, see Constitutional Structure — Comme
 
 ### Constitutional trial error on habeas
 
-#### [O'Neal v. McAninch](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/ONeal_v_McAninch_merits_1995-02-21.md)
+#### O'Neal v. McAninch
 
 **Docket or dockets:** No. 93-7407.
 **Decided:** February 21, 1995.
@@ -10479,7 +10479,7 @@ For the other questions in this decision, see Constitutional Structure — Comme
 
 ### Court-employee warrant-record errors
 
-#### [Arizona v. Evans](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Arizona_v_Evans_merits_1995-03-01.md)
+#### Arizona v. Evans
 
 **Docket or dockets:** No. 93-1660.
 **Decided:** March 1, 1995.
@@ -10508,7 +10508,7 @@ For the other questions in this decision, see Federal Courts — Adequate and in
 
 ### False statements and statutory court coverage
 
-#### [Hubbard v. United States](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Hubbard_v_United_States_merits_1995-05-15.md)
+#### Hubbard v. United States
 
 **Docket or dockets:** No. 94-172.
 **Decided:** May 15, 1995.
@@ -10559,7 +10559,7 @@ For the other questions in this decision, see Federal Courts — Antecedent ques
 
 ### Knowledge of regulated sexual depictions
 
-#### [United States v. X-Citement Video, Inc., 513 U.S. 64](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_X_Citement_Video_Inc_merits_1994-11-29.md)
+#### United States v. X-Citement Video, Inc., 513 U.S. 64
 
 **Docket or dockets:** No. 93-723.
 **Decided:** November 29, 1994.
@@ -10587,7 +10587,7 @@ For the other questions in this decision, see Federal Courts — Defending an ex
 
 ### Narcotics conspiracy elements
 
-#### [United States v. Shabani, 513 U.S. 10](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_Shabani_merits_1994-11-01.md)
+#### United States v. Shabani, 513 U.S. 10
 
 **Docket or dockets:** No. 93-981.
 **Decided:** November 1, 1994.
@@ -10611,7 +10611,7 @@ For the other questions in this decision, see Federal Courts — Defending an ex
 
 ### Plea-discussion impeachment waivers
 
-#### [United States v. Mezzanatto](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_Mezzanatto_merits_1995-01-18.md)
+#### United States v. Mezzanatto
 
 **Docket or dockets:** No. 93-1340.
 **Decided:** January 18, 1995.
@@ -10639,7 +10639,7 @@ For the other questions in this decision, see Federal Courts — Defending an ex
 
 ### Prior consistent statements and evidentiary error
 
-#### [Tome v. United States](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Tome_v_United_States_merits_1995-01-10.md)
+#### Tome v. United States
 
 **Docket or dockets:** No. 93-6892.
 **Decided:** January 10, 1995.
@@ -10674,7 +10674,7 @@ For the other questions in this decision, see Federal Courts — Defending an ex
 
 ### Retrospective loss of parole consideration
 
-#### [California Department of Corrections v. Morales](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/California_Department_of_Corrections_v_Morales_merits_1995-04-25.md)
+#### California Department of Corrections v. Morales
 
 **Docket or dockets:** No. 93-1462.
 **Decided:** April 25, 1995.
@@ -10715,7 +10715,7 @@ No universal probability threshold, general presumption transferring constitutio
 
 ### Thermal examination of a closed home
 
-#### [United States v. Pinson](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_Pinson_merits_1995-05-08.md)
+#### United States v. Pinson
 
 **Docket or dockets:** No. 94-164.
 **Decided:** May 8, 1995.
@@ -10804,7 +10804,7 @@ No universal probability threshold, general presumption transferring constitutio
 
 ### Announcement before home entry
 
-#### [Wilson v. Arkansas](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Wilson_v_Arkansas_merits_1995-05-22.md)
+#### Wilson v. Arkansas
 
 **Docket or dockets:** No. 94-5707.
 **Decided:** May 22, 1995.
@@ -10827,7 +10827,7 @@ No universal probability threshold, general presumption transferring constitutio
 
 ### Coordination of sentences for related conduct
 
-#### [Witte v. United States](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Witte_v_United_States_merits_1995-06-14.md)
+#### Witte v. United States
 
 **Docket or dockets:** No. 94-6187.
 **Decided:** June 14, 1995.
@@ -10851,7 +10851,7 @@ For the other questions in Witte v. United States, decided June 14, 1995, No. 94
 
 ### Double jeopardy and relevant-conduct sentencing
 
-#### [Witte v. United States](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Witte_v_United_States_merits_1995-06-14.md)
+#### Witte v. United States
 
 **Docket or dockets:** No. 94-6187.
 **Decided:** June 14, 1995.
@@ -10880,7 +10880,7 @@ For the other questions in Witte v. United States, decided June 14, 1995, No. 94
 
 ### Interception notice and obstructive purpose
 
-#### [United States v. Aguilar](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_Aguilar_merits_1995-06-21.md)
+#### United States v. Aguilar
 
 **Docket or dockets:** No. 94-270.
 **Decided:** June 21, 1995.
@@ -10904,7 +10904,7 @@ For the other questions in United States v. Aguilar, decided June 21, 1995, No. 
 
 ### Jury determination of criminal elements
 
-#### [United States v. Gaudin](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_Gaudin_merits_1995-06-19.md)
+#### United States v. Gaudin
 
 **Docket or dockets:** No. 94-514.
 **Decided:** June 19, 1995.
@@ -10929,7 +10929,7 @@ For the other questions in United States v. Aguilar, decided June 21, 1995, No. 
 
 ### Obstruction of judicial proceedings
 
-#### [United States v. Aguilar](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_Aguilar_merits_1995-06-21.md)
+#### United States v. Aguilar
 
 **Docket or dockets:** No. 94-270.
 **Decided:** June 21, 1995.
@@ -10955,7 +10955,7 @@ For the other questions in United States v. Aguilar, decided June 21, 1995, No. 
 
 ### Student searches and athletic drug testing
 
-#### [Vernonia School District 47J v. Acton](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Vernonia_School_District_47J_v_Acton_merits_1995-06-26.md)
+#### Vernonia School District 47J v. Acton
 
 **Docket or dockets:** No. 94-590.
 **Decided:** June 26, 1995.
@@ -11205,7 +11205,7 @@ The trial findings establish increased drug use and discipline difficulties, ath
 
 **Treatment of earlier authority:** Miller v. Fenton's functional law/fact inquiry applies; Berkemer and Stansbury preserve the objective arrest-equivalence standard. Patton and Witt retain their distinct factual classifications and do not make every legal-standard inference factual. Wright supplies no general reasonable-state-decision deference rule. Withrow permits Miranda habeas review subject to ordinary limits and separate presentation of coercion claims.
 
-**Later-authority backlinks:** [Antiterrorism and Effective Death Penalty Act of 1996, Pub. L. 104-132, Title I, enacted April 24, 1996](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Antiterrorism_and_Effective_Death_Penalty_Act_Title_I_statutory_enactment_1996-04-24.md): §104, the former §2254(d) custody-review setting and new §2254(d), (e)(1). This is a noncase-law change, not an overruling or new judicial holding.
+**Later-authority backlinks:** Antiterrorism and Effective Death Penalty Act of 1996, Pub. L. 104-132, Title I, enacted April 24, 1996: §104, the former §2254(d) custody-review setting and new §2254(d), (e)(1). This is a noncase-law change, not an overruling or new judicial holding.
 
 ### Statutory drug sentences and Guidelines calculations
 
@@ -12396,7 +12396,7 @@ Under the Court's separately counted five-Justice waiting and exclusive-delivery
 
 **Operative remedy or transition:** The alternative characterization supplies no ground for preserving the Fifth Circuit’s judgment; the remand must respect the intact supervisory-condonation finding.
 
-#### [Sandin v. Conner](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Sandin_v_Conner_merits_1995-06-19.md)
+#### Sandin v. Conner
 
 **Docket or dockets:** No. 93-1911.
 **Decided:** June 19, 1995.
@@ -12647,7 +12647,7 @@ The adopted inquiry has the following complete operative scope:
 - Swann v. Charlotte-Mecklenburg Board of Education, 402 U.S. 1 — preserved: the district’s causal showing and violation-linked remedy remain required.
 - Board of Education v. Dowell, 498 U.S. 237 — applied: good faith requires demonstrated compliance, not an assurance alone.
 
-#### [Missouri v. Jenkins](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Missouri_v_Jenkins_merits_1995-06-12.md)
+#### Missouri v. Jenkins
 
 **Docket or dockets:** No. 93-1823.
 **Decided:** June 12, 1995.
@@ -13189,7 +13189,7 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 
 ### Appellate sanctions and preserved review
 
-#### [McKnight v. General Motors Corp., 511 U.S. 659](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/McKnight_v_General_Motors_Corp_merits_1994-05-23.md)
+#### McKnight v. General Motors Corp., 511 U.S. 659
 
 **Docket or dockets:** No. 92-1113.
 
@@ -13215,7 +13215,7 @@ For the other questions in McKnight v. General Motors Corp., 1994-05-23, No. 92-
 
 ### Civil statutory temporal reach
 
-#### [Landgraf v. USI Film Products, 511 U.S. 244](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Landgraf_v_USI_Film_Products_merits_1994-04-26.md)
+#### Landgraf v. USI Film Products, 511 U.S. 244
 
 **Docket or dockets:** No. 92-757.
 
@@ -13253,7 +13253,7 @@ For the other questions in Landgraf v. USI Film Products, 1994-04-26, No. 92-757
 
 ### Civil-rights amendments and earlier conduct
 
-#### [Rivers v. Roadway Express, Inc., 511 U.S. 298](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Rivers_v_Roadway_Express_merits_1994-04-26.md)
+#### Rivers v. Roadway Express, Inc., 511 U.S. 298
 
 **Docket or dockets:** No. 92-938.
 
@@ -13291,7 +13291,7 @@ For the other questions in Landgraf v. USI Film Products, 1994-04-26, No. 92-757
 
 ### Constitutional torts and fractured authority
 
-#### [Albright v. Oliver, 510 U.S. 266](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Albright_v_Oliver_merits_1994-01-24.md)
+#### Albright v. Oliver, 510 U.S. 266
 
 **Docket or dockets:** No. 92-833.
 
@@ -13307,7 +13307,7 @@ For the other questions in Landgraf v. USI Film Products, 1994-04-26, No. 92-757
 
 ### Disability education and parental reimbursement
 
-#### [Florence County School District Four v. Carter, 510 U.S. 7](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Florence_County_School_District_Four_v_Carter_merits_1993-11-09.md)
+#### Florence County School District Four v. Carter, 510 U.S. 7
 
 **Docket or dockets:** No. 91-1523.
 
@@ -13330,7 +13330,7 @@ For the other questions in Landgraf v. USI Film Products, 1994-04-26, No. 92-757
 
 ### Equal protection in jury selection
 
-#### [J.E.B. v. Alabama ex rel. T.B., 511 U.S. 127](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/JEB_v_Alabama_ex_rel_TB_merits_1994-04-19.md)
+#### J.E.B. v. Alabama ex rel. T.B., 511 U.S. 127
 
 **Docket or dockets:** No. 92-1239.
 
@@ -13368,7 +13368,7 @@ For the other questions in Landgraf v. USI Film Products, 1994-04-26, No. 92-757
 
 ### Parole consideration and prospective relief
 
-#### [Cavanaugh v. Roller](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Cavanaugh_v_Roller_merits_1993-11-30.md)
+#### Cavanaugh v. Roller
 
 **Docket or dockets:** No. 92-1510.
 
@@ -13393,11 +13393,11 @@ For the other questions in Cavanaugh v. Roller, 1993-11-30, No. 92-1510, see Fed
 
 **Operative remedy or transition:** The Fourth Circuit's prospective-relief judgment is affirmed, 6–3. Its remand for a declaration restoring annual reconsideration remains in force; the district court may issue an injunction only if necessary to secure consideration. No release, damages, immunity reconsideration, contempt finding or specific hearing date is ordered. The unappealed official- and individual-capacity damages dismissals remain undisturbed.
 
-**Later-authority backlinks:** [South Carolina Act No. 184, effective January 1, 1994](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/South_Carolina_Act_184_effective_source_1994-01-01.md): offense-date classification and savings/transition terms; no later mootness, completed hearing, judgment vacatur or displacement of the federal holding is established.
+**Later-authority backlinks:** South Carolina Act No. 184, effective January 1, 1994: offense-date classification and savings/transition terms; no later mootness, completed hearing, judgment vacatur or displacement of the federal holding is established.
 
 ### Qualified-immunity review
 
-#### [Elder v. Holloway, 510 U.S. 510](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Elder_v_Holloway_merits_1994-02-23.md)
+#### Elder v. Holloway, 510 U.S. 510
 
 **Docket or dockets:** No. 92-8579.
 
@@ -13425,7 +13425,7 @@ For the other questions in Cavanaugh v. Roller, 1993-11-30, No. 92-1510, see Fed
 
 ### Conviction-related damages and accrual
 
-#### [Heck v. Humphrey, 512 U.S. 477](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Heck_v_Humphrey_merits_1994-06-24.md)
+#### Heck v. Humphrey, 512 U.S. 477
 
 **Docket or dockets:** No. 93-6188.
 
@@ -13487,7 +13487,7 @@ For the other questions in Cavanaugh v. Roller, 1993-11-30, No. 92-1510, see Fed
 
 ### Independent wage rights and collective bargaining
 
-#### [Livadas v. Bradshaw, 512 U.S. 107](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Livadas_v_Bradshaw_merits_1994-06-13.md)
+#### Livadas v. Bradshaw, 512 U.S. 107
 
 **Docket or dockets:** No. 92-1920.
 
@@ -13513,7 +13513,7 @@ For the other questions in Livadas v. Bradshaw, 1994-06-13, No. 92-1920, see Lab
 
 ### Prison officials’ duty to protect
 
-#### [Farmer v. Brennan, 511 U.S. 825](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Farmer_v_Brennan_merits_1994-06-06.md)
+#### Farmer v. Brennan, 511 U.S. 825
 
 **Docket or dockets:** No. 92-7247.
 
@@ -13568,11 +13568,11 @@ For the other questions in Livadas v. Bradshaw, 1994-06-13, No. 92-1920, see Lab
 
 **Operative remedy or transition:** The Seventh Circuit's judgment is vacated and the case remanded for reconsideration of the Rule 56(f) request and summary judgment without an express-warning prerequisite. Discovery may be allowed or denied on a proper basis, and renewed summary judgment remains available. Knowledge, responsibility, causation, reasonable response, capacities and immunity remain individualized. No trial, damages or placement injunction is ordered; prospective relief must fit any established continuing danger.
 
-**Later-authority backlinks:** [Prison Litigation Reform Act of 1995, Pub. L. 104-134, Title VIII, enacted April 26, 1996](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1995/records/Prison_Litigation_Reform_Act_sections_802_804_statutory_enactment_1996-04-26.md): §802, additional §3626(a)(1) findings and express prospective-relief transition. This is a noncase-law change, not an overruling or new judicial holding.
+**Later-authority backlinks:** Prison Litigation Reform Act of 1995, Pub. L. 104-134, Title VIII, enacted April 26, 1996: §802, additional §3626(a)(1) findings and express prospective-relief transition. This is a noncase-law change, not an overruling or new judicial holding.
 
 ### Abortion access and provision-specific review
 
-#### [Fargo Women’s Health Organization v. Schafer](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Fargo_Womens_Health_Organization_v_Schafer_merits_1995-02-13.md)
+#### Fargo Women’s Health Organization v. Schafer
 
 **Docket or dockets:** No. 93-1712.
 **Decided:** February 13, 1995.
@@ -13649,7 +13649,7 @@ Section 14-02.1-03(1)'s emergency exception excuses that subsection's ordinary r
 
 ### Police force and municipal responsibility
 
-#### [Plakas v. Drinski](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Plakas_v_Drinski_merits_1995-01-09.md)
+#### Plakas v. Drinski
 
 **Docket or dockets:** No. 93-1824.
 **Decided:** January 9, 1995.
@@ -13687,7 +13687,7 @@ Section 14-02.1-03(1)'s emergency exception excuses that subsection's ordinary r
 
 ### Equal athletic opportunity and sex-conscious restructuring
 
-#### [Kelley v. Board of Trustees of the University of Illinois](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Kelley_v_Board_of_Trustees_of_the_University_of_Illinois_merits_1995-05-22.md)
+#### Kelley v. Board of Trustees of the University of Illinois
 
 **Docket or dockets:** No. 94-783.
 **Decided:** May 22, 1995.
@@ -13723,7 +13723,7 @@ Section 14-02.1-03(1)'s emergency exception excuses that subsection's ordinary r
 
 ### Fair housing and household-composition restrictions
 
-#### [City of Edmonds v. Oxford House, Inc.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/City_of_Edmonds_v_Oxford_House_merits_1995-05-15.md)
+#### City of Edmonds v. Oxford House, Inc.
 
 **Docket or dockets:** No. 94-23.
 **Decided:** May 15, 1995.
@@ -13744,7 +13744,7 @@ Section 14-02.1-03(1)'s emergency exception excuses that subsection's ordinary r
 
 ### Federal remedial racial classifications
 
-#### [Adarand Constructors, Inc. v. Peña](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Adarand_Constructors_Inc_v_Pena_merits_1995-06-12.md)
+#### Adarand Constructors, Inc. v. Peña
 
 **Docket or dockets:** No. 93-1841.
 **Decided:** June 12, 1995.
@@ -13774,7 +13774,7 @@ SBA §8(a) presumes social disadvantage but requires individual proof of economi
 
 ### Qualified immunity and motive evidence
 
-#### [Kimberlin v. Quinlan](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Kimberlin_v_Quinlan_merits_1995-06-12.md)
+#### Kimberlin v. Quinlan
 
 **Docket or dockets:** No. 93-2068.
 **Decided:** June 12, 1995.
@@ -14688,7 +14688,7 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 - Ward v. Rock Against Racism, 491 U.S. 781: alternative time/place/manner characterization cannot cure deficient advancement.
 - Cincinnati v. Discovery Network, March 24, 1993: consistent application; no expansion to strict scrutiny.
 
-#### [Florida Bar v. Went For It, Inc.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Florida_Bar_v_Went_For_It_Inc_merits_1995-06-21.md)
+#### Florida Bar v. Went For It, Inc.
 
 **Docket or dockets:** No. 94-226.
 **Decided:** June 21, 1995.
@@ -14981,7 +14981,7 @@ For the distinct Excessive Fines question in *Alexander v. United States*, June 
 
 ### Public-employee speech and factual error
 
-#### [Waters v. Churchill, 511 U.S. 661](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Waters_v_Churchill_merits_1994-05-31.md)
+#### Waters v. Churchill, 511 U.S. 661
 
 **Docket or dockets:** No. 92-1450.
 
@@ -15039,7 +15039,7 @@ For the distinct Excessive Fines question in *Alexander v. United States*, June 
 
 ### Cable carriage and editorial expression
 
-#### [Turner Broadcasting System, Inc. v. FCC, 512 U.S. 622](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Turner_Broadcasting_System_Inc_v_FCC_merits_1994-06-27.md)
+#### Turner Broadcasting System, Inc. v. FCC, 512 U.S. 622
 
 **Docket or dockets:** No. 93-44.
 
@@ -15131,7 +15131,7 @@ For the distinct Excessive Fines question in *Alexander v. United States*, June 
 
 ### Professional credentials and disclosures
 
-#### [Ibanez v. Florida Department of Business and Professional Regulation, Board of Accountancy, 512 U.S. 136](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Ibanez_v_Florida_Board_of_Accountancy_merits_1994-06-13.md)
+#### Ibanez v. Florida Department of Business and Professional Regulation, Board of Accountancy, 512 U.S. 136
 
 **Docket or dockets:** No. 93-639.
 
@@ -15183,7 +15183,7 @@ For the distinct Excessive Fines question in *Alexander v. United States*, June 
 
 ### Religious neutrality in public school government
 
-#### [Board of Education of Kiryas Joel Village School District v. Grumet, 512 U.S. 687](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Board_of_Education_of_Kiryas_Joel_Village_School_District_v_Grumet_merits_1994-06-27.md)
+#### Board of Education of Kiryas Joel Village School District v. Grumet, 512 U.S. 687
 
 **Docket or dockets:** Nos. 93-517, 93-527 and 93-539.
 
@@ -15233,7 +15233,7 @@ For the distinct Excessive Fines question in *Alexander v. United States*, June 
 
 ### Residential signs
 
-#### [City of Ladue v. Gilleo, 512 U.S. 43](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/City_of_Ladue_v_Gilleo_merits_1994-06-13.md)
+#### City of Ladue v. Gilleo, 512 U.S. 43
 
 **Docket or dockets:** No. 92-1856.
 
@@ -15259,7 +15259,7 @@ For the distinct Excessive Fines question in *Alexander v. United States*, June 
 
 ### Speech injunctions and remedial scope
 
-#### [Madsen v. Women’s Health Center, Inc., 512 U.S. 753](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Madsen_v_Womens_Health_Center_Inc_merits_1994-06-30.md)
+#### Madsen v. Women’s Health Center, Inc., 512 U.S. 753
 
 **Docket or dockets:** No. 93-880.
 
@@ -15377,7 +15377,7 @@ For the other questions in Madsen v. Women’s Health Center, Inc., 1994-06-30, 
 
 ### Adult-business zoning and alternative locations
 
-#### [Ambassador Books & Video, Inc. v. City of Little Rock](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Ambassador_Books_Video_Inc_v_City_of_Little_Rock_merits_1995-03-20.md)
+#### Ambassador Books & Video, Inc. v. City of Little Rock
 
 **Docket or dockets:** No. 93-1886.
 **Decided:** March 20, 1995.
@@ -15413,7 +15413,7 @@ For the other questions in this decision, see Property and Economic Rights — E
 
 ### Anonymous individual political leaflets
 
-#### [McIntyre v. Ohio Elections Commission](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/McIntyre_v_Ohio_Elections_Commission_merits_1995-04-19.md)
+#### McIntyre v. Ohio Elections Commission
 
 **Docket or dockets:** No. 93-986.
 **Decided:** April 19, 1995.
@@ -15458,7 +15458,7 @@ For the other questions in this decision, see Property and Economic Rights — E
 
 ### Commercial solicitation and records access
 
-#### [Lanphere & Urbaniak v. Colorado](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Lanphere_and_Urbaniak_v_Colorado_merits_1995-04-18.md)
+#### Lanphere & Urbaniak v. Colorado
 
 **Docket or dockets:** No. 94-38.
 **Decided:** April 18, 1995.
@@ -15506,7 +15506,7 @@ For the other questions in this decision, see Property and Economic Rights — E
 
 ### Facial challenges to child-pornography definitions
 
-#### [United States v. X-Citement Video, Inc., 513 U.S. 64](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_X_Citement_Video_Inc_merits_1994-11-29.md)
+#### United States v. X-Citement Video, Inc., 513 U.S. 64
 
 **Docket or dockets:** No. 93-723.
 **Decided:** November 29, 1994.
@@ -15542,7 +15542,7 @@ For the other questions in this decision, see Criminal Procedure — Knowledge o
 
 ### Government-created corporations
 
-#### [Lebron v. National Railroad Passenger Corp.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Lebron_v_National_Railroad_Passenger_Corp_merits_1995-02-21.md)
+#### Lebron v. National Railroad Passenger Corp.
 
 **Docket or dockets:** No. 93-1525.
 **Decided:** February 21, 1995.
@@ -15569,7 +15569,7 @@ For the other questions in this decision, see Federal Courts — Preserved claim
 
 ### Ministerial selection and civil liability
 
-#### [Young v. Northern Illinois Conference of United Methodist Church](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Young_v_Northern_Illinois_Conference_merits_1995-01-17.md)
+#### Young v. Northern Illinois Conference of United Methodist Church
 
 **Docket or dockets:** No. 93-1917.
 **Decided:** January 17, 1995.
@@ -15595,7 +15595,7 @@ For the other questions in this decision, see Federal Courts — Federal merits 
 
 ### Public-employee honoraria restrictions
 
-#### [United States v. National Treasury Employees Union](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_National_Treasury_Employees_Union_merits_1995-02-22.md)
+#### United States v. National Treasury Employees Union
 
 **Docket or dockets:** No. 93-1170.
 **Decided:** February 22, 1995.
@@ -15618,7 +15618,7 @@ Section 501(c) treats a payment on the individual's behalf to a §170(c) charita
 
 ### Religious exercise and statutory protection
 
-#### [Church of Scientology Flag Service Organization, Inc. v. City of Clearwater](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Church_of_Scientology_Flag_Service_Organization_Inc_v_City_of_Clearwater_merits_1994-12-05.md)
+#### Church of Scientology Flag Service Organization, Inc. v. City of Clearwater
 
 **Docket or dockets:** No. 93-1062.
 **Decided:** December 5, 1994.
@@ -15641,7 +15641,7 @@ Section 100.05(1)(g) requires written refund terms and conditions when a refund 
 
 **Operative remedy or transition:** The adverse prospective identifying-disclosure and written-refund-policy determinations are vacated for RFRA adjudication. Existing relief favorable to the Church and the purpose/severability remand remain undisturbed, without adoption of the lower constitutional rationales or renewed enforcement of provisions set aside below. The written-policy inquiry retains the contemporaneous good-faith proviso.
 
-#### [Swanner v. Anchorage Equal Rights Commission](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Swanner_v_Anchorage_Equal_Rights_Commission_merits_1995-03-27.md)
+#### Swanner v. Anchorage Equal Rights Commission
 
 **Docket or dockets:** No. 94-124.
 **Decided:** March 27, 1995.
@@ -15666,7 +15666,7 @@ Section 100.05(1)(g) requires written refund terms and conditions when a refund 
 
 ### Truthful alcohol-content labeling
 
-#### [Rubin v. Coors Brewing Co.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Rubin_v_Coors_Brewing_Co_merits_1995-04-19.md)
+#### Rubin v. Coors Brewing Co.
 
 **Docket or dockets:** No. 93-1631.
 **Decided:** April 19, 1995.
@@ -15709,7 +15709,7 @@ Section 100.05(1)(g) requires written refund terms and conditions when a refund 
 
 ### Campaign financing, intermediary contributions and nonprofit advocacy
 
-#### [Day v. Holahan](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Day_v_Holahan_merits_1995-05-15.md)
+#### Day v. Holahan
 
 **Docket or dockets:** No. 94-672.
 **Decided:** May 15, 1995.
@@ -15766,7 +15766,7 @@ Section 100.05(1)(g) requires written refund terms and conditions when a refund 
 
 ### Official confidential access and obstructive speech
 
-#### [United States v. Aguilar](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_Aguilar_merits_1995-06-21.md)
+#### United States v. Aguilar
 
 **Docket or dockets:** No. 94-270.
 **Decided:** June 21, 1995.
@@ -15790,7 +15790,7 @@ For the other questions in United States v. Aguilar, decided June 21, 1995, No. 
 
 ### Private expressive composition and compelled inclusion
 
-#### [Hurley v. Irish-American Gay, Lesbian and Bisexual Group of Boston](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Hurley_v_Irish_American_Gay_Lesbian_and_Bisexual_Group_of_Boston_merits_1995-06-19.md)
+#### Hurley v. Irish-American Gay, Lesbian and Bisexual Group of Boston
 
 **Docket or dockets:** No. 94-749.
 **Decided:** June 19, 1995.
@@ -15815,7 +15815,7 @@ For the other questions in United States v. Aguilar, decided June 21, 1995, No. 
 
 ### Private religious displays in public forums
 
-#### [Capitol Square Review and Advisory Board v. Pinette](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Pinette_merits_1995-06-29.md)
+#### Capitol Square Review and Advisory Board v. Pinette
 
 **Docket or dockets:** No. 94-780.
 **Decided:** June 29, 1995.
@@ -15838,7 +15838,7 @@ For the other questions in Capitol Square Review and Advisory Board v. Pinette, 
 
 **Operative remedy or transition:** Affirm the Sixth Circuit at the original scope of the Count One merits judgment: the December 21–24, 1993 permit period remains expired. No new permit, extension, sign condition, removal order, damages or remand is entered. Unappealed rally, damages and other matters remain outside review.
 
-#### [Chabad-Lubavitch of Georgia v. Miller](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Chabad_Lubavitch_v_Miller_merits_1995-06-29.md)
+#### Chabad-Lubavitch of Georgia v. Miller
 
 **Docket or dockets:** No. 93-1047.
 **Decided:** June 29, 1995.
@@ -15877,7 +15877,7 @@ For the other questions in Chabad-Lubavitch of Georgia v. Miller, decided June 2
 
 ### Private student publications and religious viewpoints
 
-#### [Rosenberger v. Rector and Visitors of the University of Virginia](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Rosenberger_v_Rector_and_Visitors_of_the_University_of_Virginia_merits_1995-06-29.md)
+#### Rosenberger v. Rector and Visitors of the University of Virginia
 
 **Docket or dockets:** No. 94-329.
 **Decided:** June 29, 1995.
@@ -16609,7 +16609,7 @@ For the other question-level holdings in Shaw v. Reno, June 28, 1993, No. 92-357
 - Conley v. Gibson, 355 U.S. 41; Leatherman, March 3, 1993: ordinary notice pleading retained, no demand for expert proof or a replacement map.
 - Growe and Voinovich: statutory prerequisites, state primacy and unresolved coalition/influence questions remain distinct; no additional constitutional-injury gate imposed on § 2.
 
-#### [Johnson v. Miller (Miller v. Johnson / Abrams v. Johnson / United States v. Johnson)](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Miller_and_consolidated_merits_1995-06-29.md)
+#### Johnson v. Miller (Miller v. Johnson / Abrams v. Johnson / United States v. Johnson)
 
 **Docket or dockets:** Nos. 94-631; 94-797; 94-929.
 **Decided:** June 29, 1995.
@@ -16719,7 +16719,7 @@ For the other questions in Johnson v. Miller (Miller v. Johnson / Abrams v. John
 
 ### Voting Rights Act comparisons and unequal opportunity
 
-#### [Holder v. Hall](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Holder_v_Hall_merits_1994-06-30.md)
+#### Holder v. Hall
 
 **Docket or dockets:** No. 91-2012.
 
@@ -16777,7 +16777,7 @@ For the other questions in Johnson v. Miller (Miller v. Johnson / Abrams v. John
 
 **Operative remedy or transition:** The Eleventh Circuit's Section 2 liability judgment and existing remand for formulation of a lawful remedy are affirmed, 5–4. Relief must cure the established violation with attention to genuine county-government interests and responsible state institutions. No new liability trial, mandatory board size, map, racial quota or electoral winner is ordered; the constitutional alternative remains unnecessary.
 
-#### [Johnson v. De Grandy, 512 U.S. 997](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Johnson_v_De_Grandy_merits_1994-06-30.md)
+#### Johnson v. De Grandy, 512 U.S. 997
 
 **Docket or dockets:** Nos. 92-519, 92-593 and 92-767.
 
@@ -17534,7 +17534,7 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 ### Filed tariffs and cancellation
 
-#### [Security Services, Inc. v. Kmart Corp., 511 U.S. 431](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Security_Services_v_Kmart_merits_1994-05-16.md)
+#### Security Services, Inc. v. Kmart Corp., 511 U.S. 431
 
 **Docket or dockets:** No. 93-284.
 
@@ -17561,7 +17561,7 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 ### Freedom of information and employee privacy
 
-#### [Department of Defense v. Federal Labor Relations Authority, 510 U.S. 487](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Department_of_Defense_v_FLRA_merits_1994-02-23.md)
+#### Department of Defense v. Federal Labor Relations Authority, 510 U.S. 487
 
 **Docket or dockets:** No. 92-1223.
 
@@ -17599,7 +17599,7 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 ### Insured employee-benefit assets
 
-#### [John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank, 510 U.S. 86](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/John_Hancock_Mutual_Life_Insurance_Co_v_Harris_Trust_Savings_Bank_merits_1993-12-13.md)
+#### John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank, 510 U.S. 86
 
 **Docket or dockets:** No. 92-1074.
 
@@ -17623,7 +17623,7 @@ For the other questions in John Hancock Mutual Life Insurance Co. v. Harris Trus
 
 ### Resource-recovery ash and statutory exclusions
 
-#### [City of Chicago v. Environmental Defense Fund, 511 U.S. 328](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/City_of_Chicago_v_Environmental_Defense_Fund_merits_1994-05-02.md)
+#### City of Chicago v. Environmental Defense Fund, 511 U.S. 328
 
 **Docket or dockets:** No. 92-1639.
 
@@ -17649,7 +17649,7 @@ For the other questions in City of Chicago v. Environmental Defense Fund, 1994-0
 
 ### Statutory review channels
 
-#### [Thunder Basin Coal Co. v. Reich, 510 U.S. 200](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Thunder_Basin_Coal_Co_v_Reich_merits_1994-01-19.md)
+#### Thunder Basin Coal Co. v. Reich, 510 U.S. 200
 
 **Docket or dockets:** No. 92-896.
 
@@ -17686,7 +17686,7 @@ For the other questions in City of Chicago v. Environmental Defense Fund, 1994-0
 
 **Operative remedy or transition:** The Tenth Circuit's jurisdictional judgment is affirmed; the district-court injunction remains unavailable. The representation/posting challenge must use the authorized Commission and appellate process. No labor-law merits determination, penalty assessment, guaranteed stay or new administrative outcome is ordered.
 
-#### [Dalton v. Specter, 511 U.S. 462](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Dalton_v_Specter_merits_1994-05-23.md)
+#### Dalton v. Specter, 511 U.S. 462
 
 **Docket or dockets:** No. 93-289.
 
@@ -17713,7 +17713,7 @@ For the other questions in City of Chicago v. Environmental Defense Fund, 1994-0
 
 ### Administrative burdens of persuasion
 
-#### [Director, Office of Workers’ Compensation Programs v. Greenwich Collieries, 512 U.S. 267](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Director_Office_of_Workers_Compensation_Programs_v_Greenwich_Collieries_merits_1994-06-20.md)
+#### Director, Office of Workers’ Compensation Programs v. Greenwich Collieries, 512 U.S. 267
 
 **Docket or dockets:** No. 93-744, including Maher Terminals under Rule 12.2.
 
@@ -17766,7 +17766,7 @@ Section 718.3(c) expresses the policy of giving claimants the benefit of all rea
 
 ### Medicare educational-cost redistribution
 
-#### [Thomas Jefferson University v. Shalala, 512 U.S. 504](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Thomas_Jefferson_University_v_Shalala_merits_1994-06-24.md)
+#### Thomas Jefferson University v. Shalala, 512 U.S. 504
 
 **Docket or dockets:** No. 93-120.
 
@@ -17815,7 +17815,7 @@ Section 413.17(a), subject to the separate exception in paragraph (d), includes 
 
 ### Tariff-filing modification authority
 
-#### [MCI Telecommunications Corp. v. American Telephone & Telegraph Co., 512 U.S. 218](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/MCI_Telecommunications_Corp_v_AT_and_T_merits_1994-06-17.md)
+#### MCI Telecommunications Corp. v. American Telephone & Telegraph Co., 512 U.S. 218
 
 **Docket or dockets:** Nos. 93-356 and 93-521.
 
@@ -17846,7 +17846,7 @@ Section 413.17(a), subject to the separate exception in paragraph (d), includes 
 
 ### AFDC assistance units and income attribution
 
-#### [Anderson v. Edwards](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Anderson_v_Edwards_merits_1995-03-22.md)
+#### Anderson v. Edwards
 
 **Docket or dockets:** No. 93-1883.
 **Decided:** March 22, 1995.
@@ -17939,7 +17939,7 @@ Section 233.20(a)(1)(i) independently requires objective and equitable determina
 
 ### Emergency hospital treatment and transfer
 
-#### [In re Baby K](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/In_re_Baby_K_merits_1994-12-12.md)
+#### In re Baby K
 
 **Docket or dockets:** No. 93-1673.
 **Decided:** December 12, 1994.
@@ -18002,7 +18002,7 @@ Section 233.20(a)(1)(i) independently requires objective and equitable determina
 
 ### Filed rates and public credit-rule enforcement
 
-#### [Interstate Commerce Commission v. Transcon Lines, 513 U.S. 138](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Interstate_Commerce_Commission_v_Transcon_Lines_merits_1995-01-10.md)
+#### Interstate Commerce Commission v. Transcon Lines, 513 U.S. 138
 
 **Docket or dockets:** No. 93-1318.
 **Decided:** January 10, 1995.
@@ -18055,7 +18055,7 @@ Section 1320.2(g)(1) permits reasonable, certain collection-expense liquidated d
 
 ### Medicare refinancing costs and interpretive rules
 
-#### [Shalala v. Guernsey Memorial Hospital](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Shalala_v_Guernsey_Memorial_Hospital_merits_1995-03-06.md)
+#### Shalala v. Guernsey Memorial Hospital
 
 **Docket or dockets:** No. 93-1251.
 **Decided:** March 6, 1995.
@@ -18096,7 +18096,7 @@ The Manual lacks regulatory force. APA §553(b)(A)’s interpretive-rule exempti
 
 ### Vaccine Table onset and compensation burdens
 
-#### [Shalala v. Whitecotton](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Shalala_v_Whitecotton_merits_1995-04-18.md)
+#### Shalala v. Whitecotton
 
 **Docket or dockets:** No. 94-372.
 **Decided:** April 18, 1995.
@@ -18129,7 +18129,7 @@ The Manual lacks regulatory force. APA §553(b)(A)’s interpretive-rule exempti
 
 ### Veterans benefits and medical causation
 
-#### [Brown v. Gardner](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Brown_v_Gardner_merits_1994-12-12.md)
+#### Brown v. Gardner
 
 **Docket or dockets:** No. 93-1128.
 **Decided:** December 12, 1994.
@@ -18383,7 +18383,7 @@ Institutional default requires official custodial appointment. Danger of default
 
 ### Original-order and reconsideration review periods
 
-#### [Stone v. Immigration and Naturalization Service](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Stone_v_Immigration_and_Naturalization_Service_merits_1995-04-19.md)
+#### Stone v. Immigration and Naturalization Service
 
 **Docket or dockets:** No. 93-1199.
 **Decided:** April 19, 1995.
@@ -18496,7 +18496,7 @@ Institutional default requires official custodial appointment. Danger of default
 - Moe v. Confederated Salish and Kootenai Tribes, 425 U.S. 463: applied to member vehicle property taxation.
 - Washington v. Confederated Tribes of the Colville Indian Reservation, 447 U.S. 134: applied to the substance of the vehicle levies; genuinely tailored off-country use charges remain distinct.
 
-#### [Oklahoma Tax Commission v. Chickasaw Nation](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Oklahoma_Tax_Commission_v_Chickasaw_Nation_merits_1995-06-14.md)
+#### Oklahoma Tax Commission v. Chickasaw Nation
 
 **Docket or dockets:** No. 94-771.
 **Decided:** June 14, 1995.
@@ -18556,7 +18556,7 @@ For the other questions in Oklahoma Tax Commission v. Chickasaw Nation, decided 
 
 ### Reservation diminishment
 
-#### [Hagen v. Utah, 510 U.S. 399](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Hagen_v_Utah_merits_1994-02-23.md)
+#### Hagen v. Utah, 510 U.S. 399
 
 **Docket or dockets:** No. 92-6281.
 
@@ -18585,7 +18585,7 @@ For the other questions in Oklahoma Tax Commission v. Chickasaw Nation, decided 
 
 ### Reservation cigarette-tax collection
 
-#### [Department of Taxation and Finance of New York v. Milhelm Attea & Bros., Inc., 512 U.S. 61](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Department_of_Taxation_and_Finance_of_New_York_v_Milhelm_Attea_and_Bros_Inc_merits_1994-06-13.md)
+#### Department of Taxation and Finance of New York v. Milhelm Attea & Bros., Inc., 512 U.S. 61
 
 **Docket or dockets:** No. 93-377.
 
@@ -18629,7 +18629,7 @@ For the other questions in Oklahoma Tax Commission v. Chickasaw Nation, decided 
 
 ### State fuel-tax incidence in Indian country
 
-#### [Oklahoma Tax Commission v. Chickasaw Nation](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Oklahoma_Tax_Commission_v_Chickasaw_Nation_merits_1995-06-14.md)
+#### Oklahoma Tax Commission v. Chickasaw Nation
 
 **Docket or dockets:** No. 94-771.
 **Decided:** June 14, 1995.
@@ -18987,7 +18987,7 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 
 ### Hostile work environments
 
-#### [Harris v. Forklift Systems, Inc., 510 U.S. 17](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Harris_v_Forklift_Systems_Inc_merits_1993-11-09.md)
+#### Harris v. Forklift Systems, Inc., 510 U.S. 17
 
 **Docket or dockets:** No. 92-1168.
 
@@ -19009,7 +19009,7 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 
 ### Insured employee-benefit assets
 
-#### [John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank, 510 U.S. 86](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/John_Hancock_Mutual_Life_Insurance_Co_v_Harris_Trust_Savings_Bank_merits_1993-12-13.md)
+#### John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank, 510 U.S. 86
 
 **Docket or dockets:** No. 92-1074.
 
@@ -19047,7 +19047,7 @@ For the other questions in John Hancock Mutual Life Insurance Co. v. Harris Trus
 
 ### Labor remedies and hearing misconduct
 
-#### [ABF Freight System, Inc. v. NLRB, 510 U.S. 317](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/ABF_Freight_System_v_NLRB_merits_1994-01-24.md)
+#### ABF Freight System, Inc. v. NLRB, 510 U.S. 317
 
 **Docket or dockets:** No. 92-1550.
 
@@ -19084,7 +19084,7 @@ For the other questions in John Hancock Mutual Life Insurance Co. v. Harris Trus
 
 ### Skilled employees and supervisory status
 
-#### [NLRB v. Health Care & Retirement Corp. of America, 511 U.S. 571](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/NLRB_v_Health_Care_Retirement_Corp_merits_1994-05-23.md)
+#### NLRB v. Health Care & Retirement Corp. of America, 511 U.S. 571
 
 **Docket or dockets:** No. 92-1964.
 
@@ -19111,7 +19111,7 @@ For the other questions in John Hancock Mutual Life Insurance Co. v. Harris Trus
 
 ### Independent state rights and railway-labor preemption
 
-#### [Hawaiian Airlines, Inc. v. Norris, 512 U.S. 246](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Hawaiian_Airlines_v_Norris_merits_1994-06-20.md)
+#### Hawaiian Airlines, Inc. v. Norris, 512 U.S. 246
 
 **Docket or dockets:** No. 92-2058, including the related Finazzo judgment under Rule 12.2.
 
@@ -19140,7 +19140,7 @@ For the other questions in John Hancock Mutual Life Insurance Co. v. Harris Trus
 
 ### Independent wage rights and collective bargaining
 
-#### [Livadas v. Bradshaw, 512 U.S. 107](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Livadas_v_Bradshaw_merits_1994-06-13.md)
+#### Livadas v. Bradshaw, 512 U.S. 107
 
 **Docket or dockets:** No. 92-1920.
 
@@ -19180,7 +19180,7 @@ For the other questions in Livadas v. Bradshaw, 1994-06-13, No. 92-1920, see Civ
 
 ### Railroad emotional-injury liability
 
-#### [Consolidated Rail Corp. v. Gottshall, 512 U.S. 532](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Consolidated_Rail_Corp_v_Gottshall_merits_1994-06-24.md)
+#### Consolidated Rail Corp. v. Gottshall, 512 U.S. 532
 
 **Docket or dockets:** No. 92-1956, including Carlisle under Rule 12.2.
 
@@ -19231,7 +19231,7 @@ For the other questions in Livadas v. Bradshaw, 1994-06-13, No. 92-1920, see Civ
 
 ### After-acquired evidence and discrimination remedies
 
-#### [McKennon v. Nashville Banner Publishing Co.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/McKennon_v_Nashville_Banner_Publishing_Co_merits_1995-01-23.md)
+#### McKennon v. Nashville Banner Publishing Co.
 
 **Docket or dockets:** No. 93-1543.
 **Decided:** January 23, 1995.
@@ -19258,7 +19258,7 @@ For the other questions in Livadas v. Bradshaw, 1994-06-13, No. 92-1920, see Civ
 
 ### ERISA plan amendment and corporate authority
 
-#### [Curtiss-Wright Corp. v. Schoonejongen](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Curtiss_Wright_Corp_v_Schoonejongen_merits_1995-03-06.md)
+#### Curtiss-Wright Corp. v. Schoonejongen
 
 **Docket or dockets:** No. 93-1935.
 **Decided:** March 6, 1995.
@@ -19332,7 +19332,7 @@ For the other questions in Livadas v. Bradshaw, 1994-06-13, No. 92-1920, see Civ
 
 ### ERISA preemption and hospital-payment measures
 
-#### [New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co. / Pataki v. Travelers Insurance Co. / Hospital Association of New York State v. Travelers Insurance Co.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/New_York_State_Conference_of_Blue_Cross_Blue_Shield_Plans_v_Travelers_Insurance_Co_merits_1995-04-26.md)
+#### New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co. / Pataki v. Travelers Insurance Co. / Hospital Association of New York State v. Travelers Insurance Co.
 
 **Docket or dockets:** Nos. 93-1408; 93-1414; 93-1415.
 **Decided:** April 26, 1995.
@@ -19404,7 +19404,7 @@ ERISA §514(a), subject to subsection (b), supersedes state laws insofar as they
 
 ### Pension withdrawal-liability installments
 
-#### [Milwaukee Brewery Workers' Pension Plan v. Jos. Schlitz Brewing Co.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Milwaukee_Brewery_Workers_Pension_Plan_v_Jos_Schlitz_Brewing_Co_merits_1995-02-21.md)
+#### Milwaukee Brewery Workers' Pension Plan v. Jos. Schlitz Brewing Co.
 
 **Docket or dockets:** No. 93-768.
 **Decided:** February 21, 1995.
@@ -19423,7 +19423,7 @@ ERISA §514(a), subject to subsection (b), supersedes state laws insofar as they
 
 ### Nonscheduled compensation and earning-capacity modification
 
-#### [Metropolitan Stevedore Co. v. Rambo](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Metropolitan_Stevedore_Co_v_Rambo_merits_1995-06-12.md)
+#### Metropolitan Stevedore Co. v. Rambo
 
 **Docket or dockets:** No. 94-820.
 **Decided:** June 12, 1995.
@@ -19461,7 +19461,7 @@ ERISA §514(a), subject to subsection (b), supersedes state laws insofar as they
 
 ### WARN limitations periods
 
-#### [North Star Steel Co. v. Thomas / Crown Cork & Seal Co., Inc. v. United Steelworkers of America, AFL-CIO-CLC](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/North_Star_Steel_v_Thomas_and_Crown_Cork_merits_1995-05-30.md)
+#### North Star Steel Co. v. Thomas / Crown Cork & Seal Co., Inc. v. United Steelworkers of America, AFL-CIO-CLC
 
 **Docket or dockets:** Nos. 94-834; 94-835.
 **Decided:** May 30, 1995.
@@ -19844,7 +19844,7 @@ ERISA §514(a), subject to subsection (b), supersedes state laws insofar as they
 
 **Treatment of earlier authority:** McDermott International v. Wilander supplies the substantial employment-related connection to a vessel in navigation and contribution to its function without requiring traditional navigational duties. Swanson's separation of remedies and Tipton's rule that voluntary compensation does not conclusively determine status are applied unchanged. MCorp's express banking-review preclusion does not create administrative priority in this scheme.
 
-#### [Chandris, Inc. v. Latsis](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Chandris_Inc_v_Latsis_merits_1995-06-14.md)
+#### Chandris, Inc. v. Latsis
 
 **Docket or dockets:** No. 94-325.
 **Decided:** June 14, 1995.
@@ -19893,7 +19893,7 @@ ERISA §514(a), subject to subsection (b), supersedes state laws insofar as they
 
 ### Maritime settlement credit and contribution
 
-#### [McDermott, Inc. v. AmClyde, 511 U.S. 202](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/McDermott_Inc_v_AmClyde_merits_1994-04-20.md)
+#### McDermott, Inc. v. AmClyde, 511 U.S. 202
 
 **Docket or dockets:** No. 92-1479.
 
@@ -19925,7 +19925,7 @@ ERISA §514(a), subject to subsection (b), supersedes state laws insofar as they
 
 **Operative remedy or transition:** The Fifth Circuit's dollar-credit ruling as to River Don is reversed and the case remanded. Its 38 percent of $2.1 million is $798,000 before any resolution of the unpassed evidentiary alternative; payment is not ordered unconditionally. AmClyde's contractual protection, the settlement and the limit on recovery requested remain intact.
 
-#### [Boca Grande Club, Inc. v. Florida Power & Light Co., 511 U.S. 222](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Boca_Grande_Club_v_Florida_Power_Light_merits_1994-04-20.md)
+#### Boca Grande Club, Inc. v. Florida Power & Light Co., 511 U.S. 222
 
 **Docket or dockets:** No. 93-180.
 
@@ -19949,7 +19949,7 @@ ERISA §514(a), subject to subsection (b), supersedes state laws insofar as they
 
 ### State maritime forums
 
-#### [American Dredging Co. v. Miller, 510 U.S. 443](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/American_Dredging_Co_v_Miller_merits_1994-02-23.md)
+#### American Dredging Co. v. Miller, 510 U.S. 443
 
 **Docket or dockets:** No. 91-1950.
 
@@ -19983,7 +19983,7 @@ ERISA §514(a), subject to subsection (b), supersedes state laws insofar as they
 
 ### Vessel turnover warnings
 
-#### [Howlett v. Birkdale Shipping Co., S.A., 512 U.S. 92](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Howlett_v_Birkdale_Shipping_Co_SA_merits_1994-06-13.md)
+#### Howlett v. Birkdale Shipping Co., S.A., 512 U.S. 92
 
 **Docket or dockets:** No. 93-670.
 
@@ -20018,7 +20018,7 @@ ERISA §514(a), subject to subsection (b), supersedes state laws insofar as they
 
 ### Vessel-caused land injury and mixed maritime activity
 
-#### [Jerome B. Grubart, Inc. v. Great Lakes Dredge & Dock Co. / City of Chicago v. Great Lakes Dredge & Dock Co.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Jerome_B_Grubart_Inc_v_Great_Lakes_Dredge_Dock_Co_merits_1995-02-22.md)
+#### Jerome B. Grubart, Inc. v. Great Lakes Dredge & Dock Co. / City of Chicago v. Great Lakes Dredge & Dock Co.
 
 **Docket or dockets:** Nos. 93-762; 93-1094.
 **Decided:** February 22, 1995.
@@ -20051,7 +20051,7 @@ ERISA §514(a), subject to subsection (b), supersedes state laws insofar as they
 
 ### Cargo arbitration and nonwaivable carrier obligations
 
-#### [Vimar Seguros y Reaseguros, S.A. v. M/V Sky Reefer](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Vimar_Seguros_y_Reaseguros_SA_v_MV_Sky_Reefer_merits_1995-06-19.md)
+#### Vimar Seguros y Reaseguros, S.A. v. M/V Sky Reefer
 
 **Docket or dockets:** No. 94-623.
 **Decided:** June 19, 1995.
@@ -20086,7 +20086,7 @@ ERISA §514(a), subject to subsection (b), supersedes state laws insofar as they
 
 ### Prejudgment interest and comparative fault
 
-#### [City of Milwaukee v. Cement Division, National Gypsum Co.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/City_of_Milwaukee_v_Cement_Division_National_Gypsum_Co_merits_1995-06-12.md)
+#### City of Milwaukee v. Cement Division, National Gypsum Co.
 
 **Docket or dockets:** No. 94-788.
 **Decided:** June 12, 1995.
@@ -20433,7 +20433,7 @@ ERISA §514(a), subject to subsection (b), supersedes state laws insofar as they
 
 ### Foreclosure avoidance and federal value
 
-#### [BFP v. Resolution Trust Corp., 511 U.S. 531](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/BFP_v_Resolution_Trust_Corp_merits_1994-05-23.md)
+#### BFP v. Resolution Trust Corp., 511 U.S. 531
 
 **Docket or dockets:** No. 92-1370.
 
@@ -20471,7 +20471,7 @@ ERISA §514(a), subject to subsection (b), supersedes state laws insofar as they
 
 ### Bond execution and bankruptcy restraints
 
-#### [Celotex Corp. v. Edwards](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Celotex_Corp_v_Edwards_merits_1995-04-19.md)
+#### Celotex Corp. v. Edwards
 
 **Docket or dockets:** No. 93-1504.
 **Decided:** April 19, 1995.
@@ -20773,7 +20773,7 @@ Section 157(d) withdrawal of reference is separate. The district court may withd
 
 **Limits and questions not reached:** The judgment creates no general remedial-range test, health-injury requirement or discrimination-recovery exclusion. No separate FICA wages issue, punitive-damages classification, ordinary wage settlement, distinct tort allocation, amended statutory regime or Title VII jury-trial question is decided. The settlement establishes no adjudicated discrimination finding. No independently sufficient alternative holding has five votes. Further proceedings must give effect to reversal, without enlarging the recovery or valuation; no tax amount, separate withholding theory or reopening of the settlement is ordered.
 
-#### [Commissioner v. Schleier](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Commissioner_v_Schleier_merits_1995-06-14.md)
+#### Commissioner v. Schleier
 
 **Docket or dockets:** No. 94-500.
 **Decided:** June 14, 1995.
@@ -21035,7 +21035,7 @@ The controlling classification follows the coordinated statutory and regulatory 
 
 ### Gift-tax disclaimers
 
-#### [United States v. Irvine, 511 U.S. 224](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/United_States_v_Irvine_merits_1994-04-20.md)
+#### United States v. Irvine, 511 U.S. 224
 
 **Docket or dockets:** No. 92-1546.
 
@@ -21080,7 +21080,7 @@ The controlling classification follows the coordinated statutory and regulatory 
 
 ### Railroad property-tax exemptions
 
-#### [Department of Revenue of Oregon v. ACF Industries, Inc., 510 U.S. 332](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Department_of_Revenue_of_Oregon_v_ACF_Industries_Inc_merits_1994-01-24.md)
+#### Department of Revenue of Oregon v. ACF Industries, Inc., 510 U.S. 332
 
 **Docket or dockets:** No. 92-74.
 
@@ -21116,7 +21116,7 @@ The controlling classification follows the coordinated statutory and regulatory 
 
 ### Retroactive estate-tax amendments
 
-#### [United States v. Carlton, 512 U.S. 26](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/United_States_v_Carlton_merits_1994-06-13.md)
+#### United States v. Carlton, 512 U.S. 26
 
 **Docket or dockets:** No. 92-1941.
 
@@ -21159,7 +21159,7 @@ The controlling classification follows the coordinated statutory and regulatory 
 
 ### Federal obligations and private repurchase income
 
-#### [Nebraska Department of Revenue v. Loewenstein](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Nebraska_Department_of_Revenue_v_Loewenstein_merits_1994-12-12.md)
+#### Nebraska Department of Revenue v. Loewenstein
 
 **Docket or dockets:** No. 93-823.
 **Decided:** December 12, 1994.
@@ -21195,7 +21195,7 @@ For the other questions in this decision, see Constitutional Structure — Feder
 
 ### Refund suits by nonassessed property owners
 
-#### [United States v. Williams](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_Williams_merits_1995-04-25.md)
+#### United States v. Williams
 
 **Docket or dockets:** No. 94-395.
 **Decided:** April 25, 1995.
@@ -21243,7 +21243,7 @@ Section 2410 permits quiet-title proceedings against a claimed federal lien, wit
 
 ### State-tax refund procedures
 
-#### [Reich v. Collins](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Reich_v_Collins_merits_1994-12-06.md)
+#### Reich v. Collins
 
 **Docket or dockets:** No. 93-908.
 **Decided:** December 6, 1994.
@@ -21429,7 +21429,7 @@ Section 2410 permits quiet-title proceedings against a claimed federal lien, wit
 
 **Limits and questions not reached:** The independently majority-supported procedural proposition is stated above. Haslip’s existing force remains; the particular judgment supplies no general approval of another award with a similar ratio.
 
-#### [Honda Motor Co., Ltd. v. Oberg, 512 U.S. 415](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Honda_Motor_Co_v_Oberg_merits_1994-06-24.md)
+#### Honda Motor Co., Ltd. v. Oberg, 512 U.S. 415
 
 **Docket or dockets:** No. 93-644.
 
@@ -21545,7 +21545,7 @@ For *Arkansas v. Oklahoma*, Nos. 90-1262 and 90-1266, decided February 26, 1992,
 
 ### Resource-recovery ash and statutory exclusions
 
-#### [City of Chicago v. Environmental Defense Fund, 511 U.S. 328](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/City_of_Chicago_v_Environmental_Defense_Fund_merits_1994-05-02.md)
+#### City of Chicago v. Environmental Defense Fund, 511 U.S. 328
 
 **Docket or dockets:** No. 92-1639.
 
@@ -21569,7 +21569,7 @@ For the other questions in City of Chicago v. Environmental Defense Fund, 1994-0
 
 ### Water-quality certification
 
-#### [PUD No. 1 of Jefferson County v. Washington Department of Ecology, 511 U.S. 700](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/PUD_No_1_of_Jefferson_County_v_Washington_Department_of_Ecology_merits_1994-05-31.md)
+#### PUD No. 1 of Jefferson County v. Washington Department of Ecology, 511 U.S. 700
 
 **Docket or dockets:** No. 92-1911.
 
@@ -21655,7 +21655,7 @@ For the other questions in City of Chicago v. Environmental Defense Fund, 1994-0
 
 ### CERCLA response costs and legal services
 
-#### [Key Tronic Corp. v. United States, 511 U.S. 809](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Key_Tronic_Corp_v_United_States_merits_1994-06-06.md)
+#### Key Tronic Corp. v. United States, 511 U.S. 809
 
 **Docket or dockets:** No. 93-376.
 
@@ -21706,7 +21706,7 @@ For the other questions in City of Chicago v. Environmental Defense Fund, 1994-0
 
 ### Endangered wildlife and habitat-caused injury
 
-#### [Babbitt v. Sweet Home Chapter of Communities for a Great Oregon](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Babbitt_v_Sweet_Home_Chapter_of_Communities_for_a_Great_Oregon_merits_1995-06-29.md)
+#### Babbitt v. Sweet Home Chapter of Communities for a Great Oregon
 
 **Docket or dockets:** No. 94-859.
 **Decided:** June 29, 1995.
@@ -22065,7 +22065,7 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 ### Civil racketeering
 
-#### [National Organization for Women, Inc. v. Scheidler, 510 U.S. 249](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/National_Organization_for_Women_Inc_v_Scheidler_merits_1994-01-24.md)
+#### National Organization for Women, Inc. v. Scheidler, 510 U.S. 249
 
 **Docket or dockets:** No. 92-780.
 
@@ -22105,7 +22105,7 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 ### Copyright attorney fees
 
-#### [Fogerty v. Fantasy, Inc., 510 U.S. 517](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Fogerty_v_Fantasy_Inc_merits_1994-03-01.md)
+#### Fogerty v. Fantasy, Inc., 510 U.S. 517
 
 **Docket or dockets:** No. 92-1750.
 
@@ -22142,7 +22142,7 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 ### Copyright fair use
 
-#### [Campbell v. Acuff-Rose Music, Inc., 510 U.S. 569](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Campbell_v_Acuff_Rose_Music_Inc_merits_1994-03-07.md)
+#### Campbell v. Acuff-Rose Music, Inc., 510 U.S. 569
 
 **Docket or dockets:** No. 92-1292.
 
@@ -22206,7 +22206,7 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 ### Securities fraud and affirmative assistance
 
-#### [Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A., 511 U.S. 164](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Central_Bank_of_Denver_v_First_Interstate_Bank_merits_1994-04-19.md)
+#### Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A., 511 U.S. 164
 
 **Docket or dockets:** No. 92-854.
 
@@ -22259,7 +22259,7 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 ### Arbitration agreements and punitive remedies
 
-#### [Mastrobuono v. Shearson Lehman Hutton, Inc.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Mastrobuono_v_Shearson_Lehman_Hutton_Inc_merits_1995-03-06.md)
+#### Mastrobuono v. Shearson Lehman Hutton, Inc.
 
 **Docket or dockets:** No. 94-18.
 **Decided:** March 6, 1995.
@@ -22283,7 +22283,7 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 ### Arbitration coverage and state courts
 
-#### [Allied-Bruce Terminix Cos. v. Dobson](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Allied_Bruce_Terminix_Cos_v_Dobson_merits_1995-01-18.md)
+#### Allied-Bruce Terminix Cos. v. Dobson
 
 **Docket or dockets:** No. 93-1001.
 **Decided:** January 18, 1995.
@@ -22317,7 +22317,7 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 ### Attorney debt collection
 
-#### [Heintz v. Jenkins](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Heintz_v_Jenkins_merits_1995-04-18.md)
+#### Heintz v. Jenkins
 
 **Docket or dockets:** No. 94-367.
 **Decided:** April 18, 1995.
@@ -22343,7 +22343,7 @@ The communication and defense provisions invoked in the objection retain their e
 
 ### Color trademarks and functionality
 
-#### [Qualitex Co. v. Jacobson Products Co.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Qualitex_Co_v_Jacobson_Products_Co_merits_1995-03-28.md)
+#### Qualitex Co. v. Jacobson Products Co.
 
 **Docket or dockets:** No. 93-1577.
 **Decided:** March 28, 1995.
@@ -22374,7 +22374,7 @@ The communication and defense provisions invoked in the objection retain their e
 
 ### National bank annuity brokerage
 
-#### [NationsBank of North Carolina, N.A. v. Variable Annuity Life Insurance Co. / Ludwig v. Variable Annuity Life Insurance Co.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/NationsBank_Ludwig_v_Variable_Annuity_Life_Insurance_Co_merits_1995-01-18.md)
+#### NationsBank of North Carolina, N.A. v. Variable Annuity Life Insurance Co. / Ludwig v. Variable Annuity Life Insurance Co.
 
 **Docket or dockets:** Nos. 93-1612; 93-1613.
 **Decided:** January 18, 1995.
@@ -22411,7 +22411,7 @@ When §92 applies, it requires the national bank to be located and doing busines
 
 ### RICO enterprise commerce
 
-#### [United States v. Robertson](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_Robertson_merits_1995-05-01.md)
+#### United States v. Robertson
 
 **Docket or dockets:** No. 94-251.
 **Decided:** May 1, 1995.
@@ -22438,7 +22438,7 @@ Section 1962(a)’s separate income, participation and investment conditions rem
 
 ### Securities liability for negotiated acquisitions
 
-#### [Gustafson v. Alloyd Co.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Gustafson_v_Alloyd_Co_merits_1995-02-28.md)
+#### Gustafson v. Alloyd Co.
 
 **Docket or dockets:** No. 93-404.
 **Decided:** February 28, 1995.
@@ -22465,7 +22465,7 @@ Section 17(a) separately prohibits a scheme to defraud; obtaining money or prope
 
 ### Arbitration assent, delegation and appellate review
 
-#### [First Options of Chicago, Inc. v. Kaplan](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/First_Options_of_Chicago_Inc_v_Kaplan_merits_1995-05-22.md)
+#### First Options of Chicago, Inc. v. Kaplan
 
 **Docket or dockets:** No. 94-560.
 **Decided:** May 22, 1995.
@@ -23219,7 +23219,7 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 For Nebraska v. Wyoming, April 20, 1993, No. 108, Original, concerning enforcement, modification and summary judgment in original actions, see **Federal Courts — Enforcement, modification and summary judgment in original actions**.
 
-#### [Nebraska v. Wyoming](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Nebraska_v_Wyoming_original_exceptions_1995-05-30.md)
+#### Nebraska v. Wyoming
 
 **Docket or dockets:** No. 108, Original.
 **Decided:** May 30, 1995.
@@ -23340,7 +23340,7 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 
 ### Civil real-property forfeiture
 
-#### [United States v. James Daniel Good Real Property, 510 U.S. 43](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/United_States_v_James_Daniel_Good_Real_Property_merits_1993-12-13.md)
+#### United States v. James Daniel Good Real Property, 510 U.S. 43
 
 **Docket or dockets:** No. 92-1180.
 
@@ -23377,7 +23377,7 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 
 ### Development permits and property dedications
 
-#### [Dolan v. City of Tigard, 512 U.S. 374](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Dolan_v_City_of_Tigard_merits_1994-06-24.md)
+#### Dolan v. City of Tigard, 512 U.S. 374
 
 **Docket or dockets:** No. 93-518.
 
@@ -23425,7 +23425,7 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 
 ### Existing businesses and prospective land-use regulation
 
-#### [Ambassador Books & Video, Inc. v. City of Little Rock](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Ambassador_Books_Video_Inc_v_City_of_Little_Rock_merits_1995-03-20.md)
+#### Ambassador Books & Video, Inc. v. City of Little Rock
 
 **Docket or dockets:** No. 93-1886.
 **Decided:** March 20, 1995.
@@ -23462,7 +23462,7 @@ For the other questions in this decision, see First Amendment — Adult-business
 
 ### Plant-variety protection and saved seed
 
-#### [Asgrow Seed Co. v. Winterboer](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Asgrow_Seed_Co_v_Winterboer_merits_1995-01-18.md)
+#### Asgrow Seed Co. v. Winterboer
 
 **Docket or dockets:** No. 92-2038.
 **Decided:** January 18, 1995.
@@ -23481,7 +23481,7 @@ For the other questions in this decision, see First Amendment — Adult-business
 
 **Current-force modification:** Pub. L. 103-349 §10 deletes the former farmer-to-farmer sales proviso for the amended regime from April 4, 1995. Under §14(a), varieties with certificates issued before that date and applications pending then retain former law except as §14 provides. Section 14(b) permits refiling a pending application under amended eligibility and protection terms while retaining its original date for §42; §14(c) requires notice identifying amended protection and retains §128 sanctions for false or misleading claims or labels. Asgrow's former-law holding and adjudicated transactions remain undisturbed. No refiling or transition exception is found, and no judicial construction of the amended saved-seed text is supplied.
 
-**Later-authority backlinks:** [Plant Variety Protection Act Amendments, Pub. L. 103-349, 108 Stat. 3136, effective April 4, 1995](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Plant_Variety_Protection_Act_Amendments_statutory_effectiveness_1995-04-04.md): §§10, 14–15, amended farmer-sales provision and former-law preservation. Section 9's separate contract-producer clause covers listed lawn, turf, forage-grass, alfalfa and clover crops, not these soybeans; this source creates no judicial holding.
+**Later-authority backlinks:** Plant Variety Protection Act Amendments, Pub. L. 103-349, 108 Stat. 3136, effective April 4, 1995: §§10, 14–15, amended farmer-sales provision and former-law preservation. Section 9's separate contract-producer clause covers listed lawn, turf, forage-grass, alfalfa and clover crops, not these soybeans; this source creates no judicial holding.
 
 ##### Marketing does not require an advertising or distribution apparatus
 
