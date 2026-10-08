@@ -113,7 +113,7 @@ The six recorded reasons and the permission to use secondary sources remain as s
 
 # Settle — neutral primary-record recovery addendum
 
-Source recovery only. This addition supplies no merits determination, Justice commitment, new law, same-case Supreme Court disposition, or current Stone position. It supplements [the published timing clarification](OT_1995CHUNK9_SETTLE_TIMING_ADDENDUM.md). All substantive material below comes from the original petition, opposition, reply, and reproduced lower-court documents, each available before the contemplated June 25, 1996 event. Party characterizations of precedent are not adopted as entering law.
+Source recovery only. This addition supplies no merits determination, Justice commitment, new law, same-case Supreme Court disposition, or current Stone position. It supplements [the published timing clarification](../entering-law/OT_1995CHUNK9_SETTLE_TIMING_ADDENDUM.md). All substantive material below comes from the original petition, opposition, reply, and reproduced lower-court documents, each available before the contemplated June 25, 1996 event. Party characterizations of precedent are not adopted as entering law.
 
 ## Sources, pinpoints and complete-reading receipt
 

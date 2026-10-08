@@ -8,7 +8,7 @@
 
 ## 1. Sources actually read and exact scope
 
-Primary appendix: [wisconsin_appendix.pdf](wisconsin_appendix.pdf), [text](wisconsin_appendix.txt), Internet Archive item `micro_IA40385013_0593`, individual document `03. Appendix.pdf` (84,296,691 bytes). This is the appendix to Wisconsin's petition, not the petition itself. It contains:
+Primary appendix: [wisconsin_appendix.pdf](../../tmp/sources-local/chunk5_a/wisconsin_appendix.pdf), [text](wisconsin_appendix.txt), Internet Archive item `micro_IA40385013_0593`, individual document `03. Appendix.pdf` (84,296,691 bytes). This is the appendix to Wisconsin's petition, not the petition itself. It contains:
 
 - **A1–40: full-range reading of City of New York v. United States Department of Commerce, 34 F.3d 1114 (2d Cir. August 8, 1994), including Timbers's dissent.** The initial OCR omits several narrative lines on A8, A14 and A18. Those entire pages were then visually read from the PDF, recovering the smoothing description, the earlier guidelines ruling and enumeration methods, and the full discussion of numerical versus distributive accuracy. Other ordinary OCR defects remain; exact quotations should be checked against the page image when material.
 - **A41–95: full-range reading of the April 13, 1993 district-court decision, 822 F. Supp. 906 (E.D.N.Y.), including footnotes, its separate tape-disclosure ruling and final order.** Appendix A41's heading says “WESTERN DISTRICT,” whereas the opinion's internal citations and appellate identification consistently establish the Eastern District. Use E.D.N.Y.; do not reproduce that anomalous heading as the court identity.
