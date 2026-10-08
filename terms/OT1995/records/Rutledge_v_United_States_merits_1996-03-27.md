@@ -1,7 +1,7 @@
 **Case and dockets:** Rutledge v. United States, No. 94-8769; 517 U.S. 292; October Term 1995.
 **Event and date:** Argued merits decision, 1996-03-27; argued November 27, 1995.
 **Result:** Reversed in part and remanded. All nine reject the dual-conviction ruling; eight leave selection of the vacated count to the District Court. Stone-Zsela requires conspiracy-only vacatur.
-**Version / lineage:** Initial assembly from the reconciled commitments frozen at bb6deed; supersedes no prior adjudication. The common March 26 substantive baseline is preserved.
+**Version / lineage:** Initial assembly from the reconciled commitments frozen at bb6deed; supersedes no prior adjudication. The common March 26 substantive baseline is preserved. Term-close chronology note (October 7, 2026; close audit F4): one internal entering-law sentence about Ayers was updated to reflect its March 25, 1996 dismissal as improvidently granted; the frozen preparation snapshots are preserved, and no vote, holding, remedy or public text changed.
 
 ## Event, participation and material record
 
@@ -15,7 +15,7 @@ The December 29, 1992 judgment followed six guilty verdicts. Count 1 carries lif
 
 ## Law entering the event
 
-**Research cutoff and chronology:** The common March 27 day-opening law is the [March 26 neutral snapshot](../entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-26.md), frozen at 71a1954, together with the [freshness certificate](../freeze/OT_1995CHUNK5_MARCH27_NEUTRAL_LAW_FRESHNESS.md), frozen at 45ca332. The original [neutral validation](../freeze/OT_1995CHUNK5_RUTLEDGE_NEUTRAL_VALIDATED.md), frozen at 208dca9, and [matter packet](../runtime/OT_1995CHUNK5_RUTLEDGE_NEUTRAL.md) retain their source and scope limits. Varity, Meghrig, Wisconsin and Barnett do not alter the criminal rules below. Same-day Morse and Seminole Tribe supply no entering law; their processing or assignment order creates no substantive dependency. Ayers remains stopped and supplies no law.
+**Research cutoff and chronology:** The common March 27 day-opening law is the [March 26 neutral snapshot](../entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-26.md), frozen at 71a1954, together with the [freshness certificate](../freeze/OT_1995CHUNK5_MARCH27_NEUTRAL_LAW_FRESHNESS.md), frozen at 45ca332. The original [neutral validation](../freeze/OT_1995CHUNK5_RUTLEDGE_NEUTRAL_VALIDATED.md), frozen at 208dca9, and [matter packet](../runtime/OT_1995CHUNK5_RUTLEDGE_NEUTRAL.md) retain their source and scope limits. Varity, Meghrig, Wisconsin and Barnett do not alter the criminal rules below. Same-day Morse and Seminole Tribe supply no entering law; their processing or assignment order creates no substantive dependency. The frozen preparation snapshot treated Ayers as stopped. The effective chronology now includes its March 25 dismissal as improvidently granted, 8–1, without a merits adjudication; that disposition changes no criminal-law premise used here.
 
 | Issue and operative Standards and Tests title | Entering authority and exact relevant operation |
 |---|---|

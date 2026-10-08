@@ -1,7 +1,7 @@
 **Case and dockets:** O'Connor v. Consolidated Coin Caterers Corp., No. 95-354; 517 U.S. 308; October Term 1995.
 **Event and date:** Argued merits decision, 1996-04-01; argued February 27, 1996.
 **Result:** Reversed and remanded, 9–0, as to the reviewed affirmance of ADEA merits summary judgment. The discovery and postjudgment rulings remain undisturbed.
-**Version / lineage:** Initial adjudication; supersedes no prior Record. Assembled from the reconciled commitments frozen at b122ff3 and the approved Stone supplement.
+**Version / lineage:** Initial adjudication; supersedes no prior Record. Assembled from the reconciled commitments frozen at b122ff3 and the approved Stone supplement. Term-close chronology note (October 7, 2026; close audit F4): one internal entering-law sentence about Ayers was updated to reflect its March 25, 1996 dismissal as improvidently granted; the frozen preparation snapshots are preserved, and no vote, holding, remedy or public text changed.
 
 ## Event, record and entering law
 
@@ -15,7 +15,7 @@ The timely record contains competing accounts of a July territory reduction, a c
 
 Dennis's affidavit is postjudgment material, excluded from the timely summary-judgment record. The lower denial rested on diligence and likely-effect grounds and survived under either Rule 59 or Rule 60. The separate discovery ruling likewise survived. No question independently authorizing review of either ruling is established; neither is reversed. Butzner's proposed evidentiary hearing remains a lower separate position, not relief ordered here. The source discrepancy between August 9 and 10 does not affect the ages or legal question, and this Record makes no exact-day finding.
 
-**Law-entering snapshot:** The [March 27 public baseline](../entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-27.md), committed at 099e65e, and [April 1 freshness certificate](../freeze/OT_1995CHUNK5_APRIL1_LAW_FRESHNESS.md), 41fd22a, supply the complete common baseline. All March 27 holdings combine prospectively. Lonchar and Shieh supply no same-day law; Ayers remains stopped. The [neutral validation](../freeze/OT_1995CHUNK5_OCONNOR_NEUTRAL_VALIDATED.md), 208dca9, and [official statute validation](../freeze/OT_1995CHUNK5_OCONNOR_STATUTE_VALIDATION.md), 62fae37, control corrected facts and source limits over stale runtime wording.
+**Law-entering snapshot:** The [March 27 public baseline](../entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-27.md), committed at 099e65e, and [April 1 freshness certificate](../freeze/OT_1995CHUNK5_APRIL1_LAW_FRESHNESS.md), 41fd22a, supply the complete common baseline. All March 27 holdings combine prospectively. Lonchar and Shieh supply no same-day law; the frozen preparation snapshot treated Ayers as stopped. The effective chronology now includes its March 25 dismissal as improvidently granted, 8–1, without a merits adjudication; that disposition changes no ADEA premise used here. The [neutral validation](../freeze/OT_1995CHUNK5_OCONNOR_NEUTRAL_VALIDATED.md), 208dca9, and [official statute validation](../freeze/OT_1995CHUNK5_OCONNOR_STATUTE_VALIDATION.md), 62fae37, control corrected facts and source limits over stale runtime wording.
 
 | Governing component | Entering rule and authority |
 |---|---|

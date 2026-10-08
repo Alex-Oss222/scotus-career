@@ -1028,6 +1028,8 @@ The count concerns the summary merits disposition. The Court makes no new findin
 
 The Court issues a per curiam opinion. Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas join both parts: Part I decides statutory severability; Part II states the confined remedy and federal reservations. Each controlling holding has five direct joins. Stone-Zsela concurs separately without an additional constitutional judgment. Stevens dissents, joined by Souter, Ginsburg and Breyer; they join neither part of the per curiam and oppose the present summary state-law ruling on institutional grounds.
 
+On the separate §§307–308 petition component, Stone-Zsela agrees with denial without adding a ground. That disposition-only agreement supplies no opinion on those provisions' validity.
+
 #### Controlling Propositions and Authority
 
 ##### I. The remaining prohibition is not inseverable merely because subsection (2) is invalid
