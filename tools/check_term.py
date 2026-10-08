@@ -157,7 +157,10 @@ def main():
         case_list = (term / "case-list.md").read_text(encoding="utf-8")
         listed = {m.group(1).strip() for rx in (CASE_ROW, INDEX_CASE_ROW, STABLE_ID_CASE_ROW) for m in rx.finditer(case_list)}
         mtext = manifest.read_text(encoding="utf-8")
-        missing = sorted(case for case in listed if case not in mtext)
+        # The "+" sim-grant marker and " / " or "; " companion separators are case-list conventions.
+        flat = lambda s: re.sub(r"\s+", " ", s.replace("+", " ").replace(" / ", "; ")).strip(" ;")
+        mflat = flat(mtext)
+        missing = sorted(case for case in listed if flat(case) not in mflat)
         if missing:
             errors.append(f"manifest omits {len(missing)} case-list matters; first: {missing[:5]}")
         # Each chunk's Render Input carries exactly the events its manifest rows mark Completed.

@@ -1,107 +1,103 @@
-# OT1993 chronological case index
+# OT1993 case index
 
-95 unique listed matters, October 12, 1993–June 30, 1994, in eight chunks (12, 12, 12, 12, 12, 12, 12, 11). Consolidated companions remain one listed matter.
+95 matters: 92 MERITS and 3 APPLICATION; eight chunks (12 each in chunks 1–7, 11 in chunk 8). Listed applications and petition-stage events: Day v. Day, In re Sassower and In re Anderson (fee-waiver and filing-control applications); no separately listed original-jurisdiction decree or A-docket application occurs. The comprehensive supplied list controls membership; related applications mentioned as background are not additional listed events, and a publication format does not convert filing relief into merits review. Consolidated companions count once.
 
-The existing case-list order controls ties. Application and per curiam events retain their actual action dates. A publication format does not convert filing relief into merits review. No separately listed original-jurisdiction decree or A-docket application occurs in this confirmed inventory. Related applications mentioned as background are not additional listed events.
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
+| 1 | 1 | Day v. Day | 92-8788; 92-8792; 92-8888; 92-8905; 92-8906; 92-9018; 92-9101; 93-5430 | 1993-10-12 | Fee-waiver and filing-control application | APPLICATION | Court access — in forma pauperis leave and filing limits for a pro se petitioner |
+| 2 | 1 | In re Sassower | 92-8933; 92-8934; 92-9228; 93-5045; 93-5127; 93-5128; 93-5129; 93-5252; 93-5358; 93-5596 | 1993-10-12 | Fee-waiver and filing-control application | APPLICATION | Court access — in forma pauperis leave and filing limits for certiorari and writ petitions |
+| 3 | 1 | Harris v. Forklift Systems, Inc. | 92-1168 | 1993-11-09 | Signed opinion | MERITS | Employment discrimination — Title VII hostile work environment and need for psychological injury |
+| 4 | 1 | Florence County School District Four v. Carter | 91-1523 | 1993-11-09 | Signed opinion | MERITS | Special education — IDEA tuition reimbursement for private school not meeting state standards |
+| 5 | 1 | Izumi Seimitsu Kogyo Kabushiki Kaisha v. U.S. Philips Corp. | 92-1123 | 1993-11-30 | Per curiam post-grant procedural disposition | MERITS | Civil procedure — vacatur of judgments after settlement on appeal and nonparty intervention |
+| 6 | 1 | Cavanaugh v. Roller | 92-1510 | 1993-11-30 | Per curiam post-grant procedural disposition | MERITS | Ex post facto — retroactive lengthening of intervals between parole reconsideration hearings |
+| 7 | 1 | United States v. James Daniel Good Real Property | 92-1180 | 1993-12-13 | Signed opinion | MERITS | Civil forfeiture — pre-seizure notice and hearing for real property; timeliness of forfeiture action |
+| 8 | 1 | John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank | 92-1074 | 1993-12-13 | Signed opinion | MERITS | ERISA — plan-asset status of insurer general-account funds under a group annuity contract |
+| 9 | 1 | Tennessee v. Middlebrooks | 92-989 | 1993-12-13 | Per curiam post-grant procedural disposition | MERITS | Capital sentencing — felony-murder aggravator duplicating offense elements and Eighth Amendment narrowing |
+| 10 | 1 | Burden v. Zant | 92-8836 | 1994-01-10 | Per curiam judgment / summary disposition | MERITS | Federal habeas — presumption of correctness for state witness-immunity finding; counsel conflict of interest |
+| 11 | 1 | Ratzlaf v. United States | 92-1196 | 1994-01-11 | Signed opinion | MERITS | Federal criminal law — willfulness element for structuring cash transactions to evade reporting |
+| 12 | 1 | Thunder Basin Coal Co. v. Reich | 92-896 | 1994-01-19 | Signed opinion | MERITS | Administrative law — district court jurisdiction over pre-enforcement Mine Act challenge |
+| 13 | 2 | Weiss v. United States | 92-1482 | 1994-01-19 | Signed opinion | MERITS | Military justice — Appointments Clause and due process for military judges' appointment and tenure |
+| 14 | 2 | Schiro v. Farley | 92-7549 | 1994-01-19 | Signed opinion | MERITS | Capital sentencing — double jeopardy and collateral estoppel after jury silence on knowing-murder count |
+| 15 | 2 | Albright v. Oliver | 92-833 | 1994-01-24 | Signed opinion | MERITS | Civil rights — §1983 claim for prosecution without probable cause under substantive due process |
+| 16 | 2 | National Organization for Women, Inc. v. Scheidler | 92-780 | 1994-01-24 | Signed opinion | MERITS | RICO — whether an economic motive is needed for racketeering enterprise; clinics' standing |
+| 17 | 2 | ABF Freight System, Inc. v. NLRB | 92-1550 | 1994-01-24 | Signed opinion | MERITS | Labor law — NLRB reinstatement and backpay for an employee who lied under oath |
+| 18 | 2 | Department of Revenue of Oregon v. ACF Industries, Inc. | 92-74 | 1994-01-24 | Signed opinion | MERITS | State taxation — 4-R Act challenge to ad valorem tax exemptions excluding railroad property |
+| 19 | 2 | Northwest Airlines, Inc. v. County of Kent | 92-97 | 1994-01-24 | Signed opinion | MERITS | Airport fees — Anti-Head Tax Act and Commerce Clause reasonableness of airport user charges |
+| 20 | 2 | Hagen v. Utah | 92-6281 | 1994-02-23 | Signed opinion | MERITS | Indian law — Uintah Reservation diminishment and state criminal jurisdiction over Indian defendant |
+| 21 | 2 | FDIC v. Meyer | 92-741 | 1994-02-23 | Signed opinion | MERITS | Federal sovereign immunity — Bivens damages claim against a federal agency (FSLIC) |
+| 22 | 2 | Department of Defense v. Federal Labor Relations Authority | 92-1223 | 1994-02-23 | Signed opinion | MERITS | Federal labor relations — union requests for employee home addresses; Privacy Act and FOIA |
+| 23 | 2 | Elder v. Holloway | 92-8579 | 1994-02-23 | Signed opinion | MERITS | Civil rights — qualified immunity; appellate review of precedent not cited below |
+| 24 | 2 | Caspari v. Bohlen | 92-1500 | 1994-02-23 | Signed opinion | MERITS | Federal habeas — Teague new-rule analysis; double jeopardy in noncapital persistent-offender sentencing |
+| 25 | 3 | American Dredging Co. v. Miller | 91-1950 | 1994-02-23 | Signed opinion | MERITS | Admiralty — state-court use of forum non conveniens in maritime cases |
+| 26 | 3 | Fogerty v. Fantasy, Inc. | 92-1750 | 1994-03-01 | Signed opinion | MERITS | Copyright — standard for attorney's fee awards to prevailing parties under Section 505 |
+| 27 | 3 | Campbell v. Acuff-Rose Music, Inc. | 92-1292 | 1994-03-07 | Signed opinion | MERITS | Copyright — fair use and commercial parody of a song |
+| 28 | 3 | Liteky v. United States | 92-6921 | 1994-03-07 | Signed opinion | MERITS | Judicial recusal — extrajudicial source doctrine under 28 U.S.C. 455(a) |
+| 29 | 3 | Victor v. Nebraska / Sandoval v. California | 92-8894; 92-9049 | 1994-03-22 | Signed opinion | MERITS | Due process — reasonable-doubt jury instructions using moral certainty language |
+| 30 | 3 | United States v. Granderson | 92-1662 | 1994-03-22 | Signed opinion | MERITS | Federal sentencing — measure of sentence upon probation revocation under 18 U.S.C. 3565(a) |
+| 31 | 3 | Powell v. Nevada | 92-8841 | 1994-03-30 | Signed opinion | MERITS | Criminal procedure — retroactivity of the 48-hour probable-cause hearing rule |
+| 32 | 3 | Oregon Waste Systems, Inc. v. Department of Environmental Quality | 93-70; 93-108 | 1994-04-04 | Signed opinion | MERITS | Dormant Commerce Clause — state surcharge on disposal of out-of-state solid waste |
+| 33 | 3 | Ticor Title Insurance Co. v. Brown | 92-1988 | 1994-04-04 | Per curiam post-grant procedural disposition | MERITS | Class actions; due process — opt-out rights in mandatory class actions seeking damages |
+| 34 | 3 | J.E.B. v. Alabama ex rel. T.B. | 92-1239 | 1994-04-19 | Signed opinion | MERITS | Equal protection — gender-based peremptory challenges in jury selection |
+| 35 | 3 | Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A. | 92-854 | 1994-04-19 | Signed opinion | MERITS | Securities — private aiding-and-abetting liability under Section 10(b) |
+| 36 | 3 | McDermott, Inc. v. AmClyde | 92-1479 | 1994-04-20 | Signed opinion | MERITS | Admiralty — allocating damages between settling and nonsettling defendants |
+| 37 | 4 | Boca Grande Club, Inc. v. Florida Power & Light Co. | 93-180 | 1994-04-20 | Per curiam judgment / summary disposition | MERITS | Admiralty — contribution claims by nonsettling defendants against a settling joint tortfeasor |
+| 38 | 4 | United States v. Irvine | 92-1546 | 1994-04-20 | Signed opinion | MERITS | Federal gift tax — disclaimer of a contingent trust interest created before the gift tax |
+| 39 | 4 | Landgraf v. USI Film Products | 92-757 | 1994-04-26 | Signed opinion | MERITS | Employment discrimination — retroactivity of 1991 Civil Rights Act damages and jury-trial provisions |
+| 40 | 4 | Rivers v. Roadway Express, Inc. | 92-938 | 1994-04-26 | Signed opinion | MERITS | Civil rights — retroactivity of the 1991 Civil Rights Act's Section 1981 amendment to pending cases |
+| 41 | 4 | Stansbury v. California | 93-5770 | 1994-04-26 | Per curiam judgment / summary disposition | MERITS | Criminal procedure — Miranda custody and officers' undisclosed suspicion of the person questioned |
+| 42 | 4 | City of Chicago v. Environmental Defense Fund | 92-1639 | 1994-05-02 | Signed opinion | MERITS | Environmental law — RCRA household-waste exclusion and ash from municipal waste incinerators |
+| 43 | 4 | United States v. Alvarez-Sanchez | 92-1812 | 1994-05-02 | Signed opinion | MERITS | Criminal procedure — Section 3501(c) delay rule and statements made while in state custody |
+| 44 | 4 | In re Anderson | 93-8312 | 1994-05-02 | Fee-waiver and filing-control application | APPLICATION | Court procedure — in forma pauperis leave for a § 2241 extraordinary-writ habeas petition |
+| 45 | 4 | C & A Carbone, Inc. v. Town of Clarkstown | 92-1402 | 1994-05-16 | Signed opinion | MERITS | Dormant Commerce Clause — municipal flow-control ordinance directing solid waste to a local transfer station |
+| 46 | 4 | Kokkonen v. Guardian Life Insurance Co. of America | 93-263 | 1994-05-16 | Signed opinion | MERITS | Federal jurisdiction — district court power to enforce a settlement agreement after stipulated dismissal |
+| 47 | 4 | Beecham v. United States | 93-445 | 1994-05-16 | Signed opinion | MERITS | Firearms — felon-in-possession and state restoration of civil rights for federal convictions |
+| 48 | 4 | Security Services, Inc. v. Kmart Corp. | 93-284 | 1994-05-16 | Signed opinion | MERITS | Interstate motor carriage — undercharge claims after nonpayment of rate-bureau tariff publication fees |
+| 49 | 5 | BFP v. Resolution Trust Corp. | 92-1370 | 1994-05-23 | Signed opinion | MERITS | Bankruptcy — fraudulent transfers; whether a noncollusive foreclosure sale price is reasonably equivalent value |
+| 50 | 5 | Staples v. United States | 92-1441 | 1994-05-23 | Signed opinion | MERITS | Criminal law — National Firearms Act mens rea for possessing an unregistered automatic weapon |
+| 51 | 5 | Custis v. United States | 93-5209 | 1994-05-23 | Signed opinion | MERITS | Sentencing — collateral attack on prior state convictions at Armed Career Criminal Act sentencing |
+| 52 | 5 | NLRB v. Health Care & Retirement Corp. of America | 92-1964 | 1994-05-23 | Signed opinion | MERITS | Labor law — NLRA supervisor status of nurses; 'in the interest of the employer' test |
+| 53 | 5 | Dalton v. Specter | 93-289 | 1994-05-23 | Signed opinion | MERITS | Administrative law — judicial review of presidential base-closure decisions under the 1990 Base Closure Act |
+| 54 | 5 | Posters ’N’ Things, Ltd. v. United States | 92-903 | 1994-05-23 | Signed opinion | MERITS | Criminal law — scienter and vagueness under the federal drug paraphernalia statute |
+| 55 | 5 | Associated Industries of Missouri v. Lohman | 93-397 | 1994-05-23 | Signed opinion | MERITS | Dormant Commerce Clause — state use tax on out-of-state goods exceeding some local sales taxes |
+| 56 | 5 | Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co. | 93-609 | 1994-05-23 | Per curiam judgment / summary disposition | MERITS | Securities — separation-of-powers challenge to §27A(b) reinstating time-barred Rule 10b-5 suits |
+| 57 | 5 | McKnight v. General Motors Corp. | 92-1113 | 1994-05-23 | Per curiam judgment / summary disposition | MERITS | Civil rights; appellate sanctions — 1991 Act §101 retroactivity and sanctions for appeal on circuit-foreclosed issue |
+| 58 | 5 | Waters v. Churchill | 92-1450 | 1994-05-31 | Signed opinion | MERITS | Speech — public employee discharge; whose account of disputed workplace speech governs the Connick inquiry |
+| 59 | 5 | PUD No. 1 of Jefferson County v. Washington Department of Ecology | 92-1911 | 1994-05-31 | Signed opinion | MERITS | Environmental law — Clean Water Act §401 certification and state minimum stream-flow conditions on hydroelectric projects |
+| 60 | 5 | Nichols v. United States | 92-8556 | 1994-06-06 | Signed opinion | MERITS | Right to counsel — sentence enhancement based on a prior uncounseled misdemeanor conviction |
+| 61 | 6 | Farmer v. Brennan | 92-7247 | 1994-06-06 | Signed opinion | MERITS | Eighth Amendment — prison officials' deliberate indifference to inmate assault risk |
+| 62 | 6 | Department of Revenue of Montana v. Kurth Ranch | 93-144 | 1994-06-06 | Signed opinion | MERITS | Double jeopardy — state tax on illegal drugs assessed after criminal conviction |
+| 63 | 6 | Digital Equipment Corp. v. Desktop Direct, Inc. | 93-405 | 1994-06-06 | Signed opinion | MERITS | Federal jurisdiction — collateral order appeal of order rescinding a settlement-based dismissal |
+| 64 | 6 | Key Tronic Corp. v. United States | 93-376 | 1994-06-06 | Signed opinion | MERITS | Environmental law — attorney's fees as recoverable response costs in CERCLA private actions |
+| 65 | 6 | City of Ladue v. Gilleo | 92-1856 | 1994-06-13 | Signed opinion | MERITS | Speech — municipal ban on residential yard and window signs |
+| 66 | 6 | O’Melveny & Myers v. FDIC | 93-489 | 1994-06-13 | Signed opinion | MERITS | Federal common law — FDIC receiver claims and imputation of S&L officers' knowledge |
+| 67 | 6 | Romano v. Oklahoma | 92-9093 | 1994-06-13 | Signed opinion | MERITS | Capital sentencing — jury's knowledge of defendant's prior death sentence |
+| 68 | 6 | Ibanez v. Florida Department of Business and Professional Regulation, Board of Accountancy | 93-639 | 1994-06-13 | Signed opinion | MERITS | Commercial speech — attorney's advertising of CPA and CFP credentials |
+| 69 | 6 | Livadas v. Bradshaw | 92-1920 | 1994-06-13 | Signed opinion | MERITS | Labor preemption — state wage-claim enforcement policy for workers covered by arbitration-clause CBAs |
+| 70 | 6 | United States v. Carlton | 92-1941 | 1994-06-13 | Signed opinion | MERITS | Due process — retroactive application of federal estate tax amendment |
+| 71 | 6 | Department of Taxation and Finance of New York v. Milhelm Attea & Bros., Inc. | 93-377 | 1994-06-13 | Signed opinion | MERITS | Indian commerce — Indian Trader Statutes preemption of state cigarette tax quotas and recordkeeping |
+| 72 | 6 | Howlett v. Birkdale Shipping Co., S.A. | 93-670 | 1994-06-13 | Signed opinion | MERITS | Maritime law — shipowner's turnover duty to longshoremen regarding latent cargo-stow hazards |
+| 73 | 7 | Simmons v. South Carolina | 92-9059 | 1994-06-17 | Signed opinion | MERITS | Capital sentencing — informing the jury of parole ineligibility when future dangerousness is at issue |
+| 74 | 7 | MCI Telecommunications Corp. v. American Telephone & Telegraph Co. | 93-356; 93-521 | 1994-06-17 | Signed opinion | MERITS | Communications regulation — FCC power to 'modify' Communications Act tariff-filing rules for nondominant long-distance carriers |
+| 75 | 7 | West Lynn Creamery, Inc. v. Healy | 93-141 | 1994-06-17 | Signed opinion | MERITS | Dormant Commerce Clause — milk pricing order assessment on all sales funding subsidies to in-state dairy farmers |
+| 76 | 7 | Hawaiian Airlines, Inc. v. Norris | 92-2058 | 1994-06-20 | Signed opinion | MERITS | Labor law — Railway Labor Act preemption of state whistleblower and wrongful-discharge claims |
+| 77 | 7 | Director, Office of Workers’ Compensation Programs v. Greenwich Collieries | 93-744 | 1994-06-20 | Signed opinion | MERITS | Administrative law — APA burden of proof and the 'true doubt' rule in workers' compensation claims |
+| 78 | 7 | Barclays Bank PLC v. Franchise Tax Board of California | 92-1384; 92-1839 | 1994-06-20 | Signed opinion | MERITS | State taxation — worldwide combined reporting of multinational corporate groups under the Foreign Commerce Clause |
+| 79 | 7 | Reed v. Farley | 93-5418 | 1994-06-20 | Signed opinion | MERITS | Federal habeas — cognizability of Interstate Agreement on Detainers trial-deadline violations under §2254 |
+| 80 | 7 | Dolan v. City of Tigard | 93-518 | 1994-06-24 | Signed opinion | MERITS | Takings — building-permit conditions demanding land dedication and their relation to the development's impact |
+| 81 | 7 | Honda Motor Co. v. Oberg | 93-644 | 1994-06-24 | Signed opinion | MERITS | Due process — state constitutional limit on judicial review of punitive damages awards |
+| 82 | 7 | Heck v. Humphrey | 93-6188 | 1994-06-24 | Signed opinion | MERITS | Civil rights — §1983 damages claims implicating the validity of an outstanding state conviction |
+| 83 | 7 | Davis v. United States | 92-1949 | 1994-06-24 | Signed opinion | MERITS | Self-incrimination — Miranda and Edwards; ambiguous reference to counsel during custodial interrogation |
+| 84 | 7 | Thomas Jefferson University v. Shalala | 93-120 | 1994-06-24 | Signed opinion | MERITS | Medicare reimbursement — Secretary's anti-redistribution interpretation for graduate medical education costs |
+| 85 | 8 | Consolidated Rail Corp. v. Gottshall | 92-1956 | 1994-06-24 | Signed opinion | MERITS | FELA — recovery for negligent infliction of emotional distress by railroad employees |
+| 86 | 8 | Shannon v. United States | 92-8346 | 1994-06-24 | Signed opinion | MERITS | Criminal procedure — jury instruction on consequences of an insanity acquittal under IDRA |
+| 87 | 8 | Turner Broadcasting System, Inc. v. FCC | 93-44 | 1994-06-27 | Signed opinion | MERITS | Speech — cable must-carry provisions and the applicable level of First Amendment scrutiny |
+| 88 | 8 | Board of Education of Kiryas Joel Village School District v. Grumet | 93-517; 93-527; 93-539 | 1994-06-27 | Signed opinion | MERITS | Establishment Clause — state-created school district drawn around a religious community |
+| 89 | 8 | Williamson v. United States | 93-5256 | 1994-06-27 | Signed opinion | MERITS | Evidence — Rule 804(b)(3) statements against penal interest and collateral inculpatory remarks |
+| 90 | 8 | McFarland v. Scott | 93-6497 | 1994-06-30 | Signed opinion | MERITS | Capital habeas — pre-petition appointment of counsel and stay of execution |
+| 91 | 8 | Holder v. Hall | 91-2012 | 1994-06-30 | Signed opinion | MERITS | Voting Rights Act — Section 2 challenge to size of a single-commissioner county government |
+| 92 | 8 | Johnson v. De Grandy | 92-519; 92-593; 92-767 | 1994-06-30 | Signed opinion | MERITS | Voting Rights Act — Section 2 vote dilution and proportionality in state legislative redistricting |
+| 93 | 8 | Madsen v. Women’s Health Center, Inc. | 93-880 | 1994-06-30 | Signed opinion | MERITS | Speech — injunction restricting protest activity near an abortion clinic |
+| 94 | 8 | International Union, United Mine Workers of America v. Bagwell | 92-1625 | 1994-06-30 | Signed opinion | MERITS | Contempt — civil or criminal character of court-imposed fines on a union; jury trial |
+| 95 | 8 | Tuilaepa v. California / Proctor v. California | 93-5131; 93-5161 | 1994-06-30 | Signed opinion | MERITS | Capital sentencing — vagueness of California's penalty-phase sentencing factors |
 
-Each packet accounts for the completed OT1991–OT1992 simulated law and actual earlier effective same-term decisions. Stone’s proposed dispositions remain unapproved. Before runtime, read the current `workspace/manifest.md`, `workspace/ledger.md`, `workspace/continuity.md`, and `workspace/neutral-projection.md` as permitted for the stage; use the relevant `entering-law/` slices for case-specific inherited and effective current-term authority. Neutral modeling receives only the sanitized neutral projection and its selected entering-law slice.
-
-| No. | New chunk | Case caption | Docket(s) | Event date | Event type | Category |
-|---:|---:|---|---|---|---|---|
-| 1 | 1 | Day v. Day | Nos. 92-8788, 92-8792, 92-8888, 92-8905, 92-8906, 92-9018, 92-9101, and 93-5430 | 1993-10-12 | Fee-waiver and filing-control application | APPLICATION |
-| 2 | 1 | In re Sassower | Nos. 92-8933, 92-8934, 92-9228, 93-5045, 93-5127, 93-5128, 93-5129, 93-5252, 93-5358, and 93-5596 | 1993-10-12 | Fee-waiver and filing-control application | APPLICATION |
-| 3 | 1 | Harris v. Forklift Systems, Inc. | No. 92-1168 | 1993-11-09 | Signed opinion | MERITS |
-| 4 | 1 | Florence County School District Four v. Carter | No. 91-1523 | 1993-11-09 | Signed opinion | MERITS |
-| 5 | 1 | Izumi Seimitsu Kogyo Kabushiki Kaisha v. U.S. Philips Corp. | No. 92-1123 | 1993-11-30 | Per curiam post-grant procedural disposition | MERITS |
-| 6 | 1 | Cavanaugh v. Roller | No. 92-1510 | 1993-11-30 | Per curiam post-grant procedural disposition | MERITS |
-| 7 | 1 | United States v. James Daniel Good Real Property | No. 92-1180 | 1993-12-13 | Signed opinion | MERITS |
-| 8 | 1 | John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank | No. 92-1074 | 1993-12-13 | Signed opinion | MERITS |
-| 9 | 1 | Tennessee v. Middlebrooks | No. 92-989 | 1993-12-13 | Per curiam post-grant procedural disposition | MERITS |
-| 10 | 1 | Burden v. Zant | No. 92-8836 | 1994-01-10 | Per curiam judgment / summary disposition | MERITS |
-| 11 | 1 | Ratzlaf v. United States | No. 92-1196 | 1994-01-11 | Signed opinion | MERITS |
-| 12 | 1 | Thunder Basin Coal Co. v. Reich | No. 92-896 | 1994-01-19 | Signed opinion | MERITS |
-| 13 | 2 | Weiss v. United States | No. 92-1482, including Hernandez under Supreme Court Rule 12.2 | 1994-01-19 | Signed opinion | MERITS |
-| 14 | 2 | Schiro v. Farley | No. 92-7549 | 1994-01-19 | Signed opinion | MERITS |
-| 15 | 2 | Albright v. Oliver | No. 92-833 | 1994-01-24 | Signed opinion | MERITS |
-| 16 | 2 | National Organization for Women, Inc. v. Scheidler | No. 92-780 | 1994-01-24 | Signed opinion | MERITS |
-| 17 | 2 | ABF Freight System, Inc. v. NLRB | No. 92-1550 | 1994-01-24 | Signed opinion | MERITS |
-| 18 | 2 | Department of Revenue of Oregon v. ACF Industries, Inc. | No. 92-74 | 1994-01-24 | Signed opinion | MERITS |
-| 19 | 2 | Northwest Airlines, Inc. v. County of Kent | No. 92-97 | 1994-01-24 | Signed opinion | MERITS |
-| 20 | 2 | Hagen v. Utah | No. 92-6281 | 1994-02-23 | Signed opinion | MERITS |
-| 21 | 2 | FDIC v. Meyer | No. 92-741 | 1994-02-23 | Signed opinion | MERITS |
-| 22 | 2 | Department of Defense v. Federal Labor Relations Authority | No. 92-1223 | 1994-02-23 | Signed opinion | MERITS |
-| 23 | 2 | Elder v. Holloway | No. 92-8579 | 1994-02-23 | Signed opinion | MERITS |
-| 24 | 2 | Caspari v. Bohlen | No. 92-1500 | 1994-02-23 | Signed opinion | MERITS |
-| 25 | 3 | American Dredging Co. v. Miller | No. 91-1950 | 1994-02-23 | Signed opinion | MERITS |
-| 26 | 3 | Fogerty v. Fantasy, Inc. | No. 92-1750 | 1994-03-01 | Signed opinion | MERITS |
-| 27 | 3 | Campbell v. Acuff-Rose Music, Inc. | No. 92-1292 | 1994-03-07 | Signed opinion | MERITS |
-| 28 | 3 | Liteky v. United States | No. 92-6921 | 1994-03-07 | Signed opinion | MERITS |
-| 29 | 3 | Victor v. Nebraska / Sandoval v. California | Nos. 92-8894 (Victor) and 92-9049 (Sandoval) | 1994-03-22 | Signed opinion | MERITS |
-| 30 | 3 | United States v. Granderson | No. 92-1662 | 1994-03-22 | Signed opinion | MERITS |
-| 31 | 3 | Powell v. Nevada | No. 92-8841 | 1994-03-30 | Signed opinion | MERITS |
-| 32 | 3 | Oregon Waste Systems, Inc. v. Department of Environmental Quality | No. 93-70 (reported with companion No. 93-108) | 1994-04-04 | Signed opinion | MERITS |
-| 33 | 3 | Ticor Title Insurance Co. v. Brown | No. 92-1988 | 1994-04-04 | Per curiam post-grant procedural disposition | MERITS |
-| 34 | 3 | J.E.B. v. Alabama ex rel. T.B. | No. 92-1239 | 1994-04-19 | Signed opinion | MERITS |
-| 35 | 3 | Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A. | No. 92-854 | 1994-04-19 | Signed opinion | MERITS |
-| 36 | 3 | McDermott, Inc. v. AmClyde | No. 92-1479 | 1994-04-20 | Signed opinion | MERITS |
-| 37 | 4 | Boca Grande Club, Inc. v. Florida Power & Light Co. | No. 93-180 | 1994-04-20 | Per curiam judgment / summary disposition | MERITS |
-| 38 | 4 | United States v. Irvine | No. 92-1546 | 1994-04-20 | Signed opinion | MERITS |
-| 39 | 4 | Landgraf v. USI Film Products | No. 92-757 | 1994-04-26 | Signed opinion | MERITS |
-| 40 | 4 | Rivers v. Roadway Express, Inc. | No. 92-938 | 1994-04-26 | Signed opinion | MERITS |
-| 41 | 4 | Stansbury v. California | No. 93-5770 | 1994-04-26 | Per curiam judgment / summary disposition | MERITS |
-| 42 | 4 | City of Chicago v. Environmental Defense Fund | No. 92-1639 | 1994-05-02 | Signed opinion | MERITS |
-| 43 | 4 | United States v. Alvarez-Sanchez | No. 92-1812 | 1994-05-02 | Signed opinion | MERITS |
-| 44 | 4 | In re Anderson | No. 93-8312 | 1994-05-02 | Fee-waiver and filing-control application | APPLICATION |
-| 45 | 4 | C & A Carbone, Inc. v. Town of Clarkstown | No. 92-1402 | 1994-05-16 | Signed opinion | MERITS |
-| 46 | 4 | Kokkonen v. Guardian Life Insurance Co. of America | No. 93-263 | 1994-05-16 | Signed opinion | MERITS |
-| 47 | 4 | Beecham v. United States | No. 93-445, including Jones under Rule 12.2 | 1994-05-16 | Signed opinion | MERITS |
-| 48 | 4 | Security Services, Inc. v. Kmart Corp. | No. 93-284 | 1994-05-16 | Signed opinion | MERITS |
-| 49 | 5 | BFP v. Resolution Trust Corp. | No. 92-1370 | 1994-05-23 | Signed opinion | MERITS |
-| 50 | 5 | Staples v. United States | No. 92-1441 | 1994-05-23 | Signed opinion | MERITS |
-| 51 | 5 | Custis v. United States | No. 93-5209 | 1994-05-23 | Signed opinion | MERITS |
-| 52 | 5 | NLRB v. Health Care & Retirement Corp. of America | No. 92-1964 | 1994-05-23 | Signed opinion | MERITS |
-| 53 | 5 | Dalton v. Specter | No. 93-289 | 1994-05-23 | Signed opinion | MERITS |
-| 54 | 5 | Posters ’N’ Things, Ltd. v. United States | No. 92-903 | 1994-05-23 | Signed opinion | MERITS |
-| 55 | 5 | Associated Industries of Missouri v. Lohman | No. 93-397 | 1994-05-23 | Signed opinion | MERITS |
-| 56 | 5 | Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co. | No. 93-609 | 1994-05-23 | Per curiam judgment / summary disposition | MERITS |
-| 57 | 5 | McKnight v. General Motors Corp. | No. 92-1113 | 1994-05-23 | Per curiam judgment / summary disposition | MERITS |
-| 58 | 5 | Waters v. Churchill | No. 92-1450 | 1994-05-31 | Signed opinion | MERITS |
-| 59 | 5 | PUD No. 1 of Jefferson County v. Washington Department of Ecology | No. 92-1911 | 1994-05-31 | Signed opinion | MERITS |
-| 60 | 5 | Nichols v. United States | No. 92-8556 | 1994-06-06 | Signed opinion | MERITS |
-| 61 | 6 | Farmer v. Brennan | No. 92-7247 | 1994-06-06 | Signed opinion | MERITS |
-| 62 | 6 | Department of Revenue of Montana v. Kurth Ranch | No. 93-144 | 1994-06-06 | Signed opinion | MERITS |
-| 63 | 6 | Digital Equipment Corp. v. Desktop Direct, Inc. | No. 93-405 | 1994-06-06 | Signed opinion | MERITS |
-| 64 | 6 | Key Tronic Corp. v. United States | No. 93-376 | 1994-06-06 | Signed opinion | MERITS |
-| 65 | 6 | City of Ladue v. Gilleo | No. 92-1856 | 1994-06-13 | Signed opinion | MERITS |
-| 66 | 6 | O’Melveny & Myers v. FDIC | No. 93-489 | 1994-06-13 | Signed opinion | MERITS |
-| 67 | 6 | Romano v. Oklahoma | No. 92-9093 | 1994-06-13 | Signed opinion | MERITS |
-| 68 | 6 | Ibanez v. Florida Department of Business and Professional Regulation, Board of Accountancy | No. 93-639 | 1994-06-13 | Signed opinion | MERITS |
-| 69 | 6 | Livadas v. Bradshaw | No. 92-1920 | 1994-06-13 | Signed opinion | MERITS |
-| 70 | 6 | United States v. Carlton | No. 92-1941 | 1994-06-13 | Signed opinion | MERITS |
-| 71 | 6 | Department of Taxation and Finance of New York v. Milhelm Attea & Bros., Inc. | No. 93-377 | 1994-06-13 | Signed opinion | MERITS |
-| 72 | 6 | Howlett v. Birkdale Shipping Co., S.A. | No. 93-670 | 1994-06-13 | Signed opinion | MERITS |
-| 73 | 7 | Simmons v. South Carolina | No. 92-9059 | 1994-06-17 | Signed opinion | MERITS |
-| 74 | 7 | MCI Telecommunications Corp. v. American Telephone & Telegraph Co. | No. 93-356; consolidated review included No. 93-521 | 1994-06-17 | Signed opinion | MERITS |
-| 75 | 7 | West Lynn Creamery, Inc. v. Healy | No. 93-141 | 1994-06-17 | Signed opinion | MERITS |
-| 76 | 7 | Hawaiian Airlines, Inc. v. Norris | No. 92-2058, including the related Finazzo judgment under Rule 12.2 | 1994-06-20 | Signed opinion | MERITS |
-| 77 | 7 | Director, Office of Workers’ Compensation Programs v. Greenwich Collieries | No. 93-744, including Maher Terminals under Rule 12.2 | 1994-06-20 | Signed opinion | MERITS |
-| 78 | 7 | Barclays Bank PLC v. Franchise Tax Board of California | Nos. 92-1384 and 92-1839 (Colgate-Palmolive included within this entry) | 1994-06-20 | Signed opinion | MERITS |
-| 79 | 7 | Reed v. Farley | No. 93-5418 | 1994-06-20 | Signed opinion | MERITS |
-| 80 | 7 | Dolan v. City of Tigard | No. 93-518 | 1994-06-24 | Signed opinion | MERITS |
-| 81 | 7 | Honda Motor Co. v. Oberg | No. 93-644 | 1994-06-24 | Signed opinion | MERITS |
-| 82 | 7 | Heck v. Humphrey | No. 93-6188 | 1994-06-24 | Signed opinion | MERITS |
-| 83 | 7 | Davis v. United States | No. 92-1949 | 1994-06-24 | Signed opinion | MERITS |
-| 84 | 7 | Thomas Jefferson University v. Shalala | No. 93-120 | 1994-06-24 | Signed opinion | MERITS |
-| 85 | 8 | Consolidated Rail Corp. v. Gottshall | No. 92-1956, including Carlisle under Rule 12.2 | 1994-06-24 | Signed opinion | MERITS |
-| 86 | 8 | Shannon v. United States | No. 92-8346 | 1994-06-24 | Signed opinion | MERITS |
-| 87 | 8 | Turner Broadcasting System, Inc. v. FCC | No. 93-44 | 1994-06-27 | Signed opinion | MERITS |
-| 88 | 8 | Board of Education of Kiryas Joel Village School District v. Grumet | No. 93-517, consolidated with Nos. 93-527 and 93-539 | 1994-06-27 | Signed opinion | MERITS |
-| 89 | 8 | Williamson v. United States | No. 93-5256 | 1994-06-27 | Signed opinion | MERITS |
-| 90 | 8 | McFarland v. Scott | No. 93-6497 | 1994-06-30 | Signed opinion | MERITS |
-| 91 | 8 | Holder v. Hall | No. 91-2012 | 1994-06-30 | Signed opinion | MERITS |
-| 92 | 8 | Johnson v. De Grandy | No. 92-519, consolidated with Nos. 92-593 and 92-767 | 1994-06-30 | Signed opinion | MERITS |
-| 93 | 8 | Madsen v. Women’s Health Center, Inc. | No. 93-880 | 1994-06-30 | Signed opinion | MERITS |
-| 94 | 8 | International Union, United Mine Workers of America v. Bagwell | No. 92-1625 | 1994-06-30 | Signed opinion | MERITS |
-| 95 | 8 | Tuilaepa v. California / Proctor v. California | Nos. 93-5131 (Tuilaepa) and 93-5161 (Proctor) | 1994-06-30 | Signed opinion | MERITS |
-
-Dates checked against the [Supreme Court OT1993 Journal](https://www.supremecourt.gov/orders/journal/jnl93.pdf). Nichols retains No. 92-8556 as confirmed by the [June 6, 1994 opinion](https://www.law.cornell.edu/supct/html/92-8556.ZO.html), notwithstanding the journal’s inconsistent docket prefix.
+Application and per curiam events retain their actual action dates, checked against the [Supreme Court OT1993 Journal](https://www.supremecourt.gov/orders/journal/jnl93.pdf). Nichols retains No. 92-8556 as confirmed by the [June 6, 1994 opinion](https://www.law.cornell.edu/supct/html/92-8556.ZO.html), notwithstanding the journal’s inconsistent docket prefix. Under Supreme Court Rule 12.2, Weiss includes Hernandez, Beecham includes Jones, Hawaiian Airlines includes the related Finazzo judgment, Greenwich Collieries includes Maher Terminals, and Gottshall includes Carlisle. Barclays Bank includes Colgate-Palmolive; Oregon Waste Systems was reported with its companion No. 93-108; MCI’s consolidated review included No. 93-521; Kiryas Joel and Johnson v. De Grandy carry their consolidated dockets. Stone approval status and remaining scope limits are stated in each chunk brief’s own Section II and neutral packet. The entering baseline is the completed OT1992 [Holdings](../../state/HOLDINGS.md), [Standards and Tests](../../state/STANDARDS_AND_TESTS.md), and [Standing State](../../state/STANDING_STATE.md), incorporating all 123 matters through July 26, 1993, with the Court’s setting governed by [Court Composition](../../foundation/COURT_COMPOSITION.md). OT1993 is closed; see the [validated workspace manifest](workspace/manifest.md). No prepared position or prospective same-term dependency is a Court decision.
