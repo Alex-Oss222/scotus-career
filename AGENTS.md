@@ -24,7 +24,7 @@ Treat `foundation/` as governing infrastructure. Do not change it during an ordi
 
 `terms/OT<year>/`
 
-- `case-list.md` — the user's term-wide inventory of cases and Court actions (the Engine's "lightweight term-wide inventory").
+- `case-list.md` — the user's term-wide inventory of cases and Court actions (the Engine's "lightweight term-wide inventory"). From OT1996 forward, whatever form the user supplies it in, it is saved in the form of `foundation/templates/CASE_INDEX_TEMPLATE.md`: the OT1994 case index with an Area of law column.
 - `briefs/` — the user's case briefs, one file per chunk of about ten cases (`OT_<year>CHUNK<n>.md`). Inputs. Never edit them; Stone's words are never altered.
 - `runtime/` — derived current-chunk handoffs. From OT1993 forward the normal set is `_NEUTRAL`, `_COMMITMENTS`, `_COMPARATOR`, `_RECONCILED`, and `_STONE`; the latter four are created or exposed only at the stage that may read them. Runtime splits are regenerated from the approved brief before each Run and must not be hand-maintained.
 - `entering-law/` — derived per-chunk reading slices created immediately before modeling from the term-opening trackers plus every effective current-term Record. A slice is never authority; it is a verbatim or tightly linked reading copy of the authority the case actually implicates.

@@ -6,8 +6,8 @@ import re
 from pathlib import Path
 
 ROW = re.compile(r"^\|\s*(OT_\d{4}CHUNK\d+)\s*\|\s*(.*?)\s*\|\s*(.*?)\s*\|\s*(\d{4}-\d{2}-\d{2})\s*\|\s*(.*?)\s*\|\s*(.*?)\s*\|\s*$")
-# Chronological case-index form: | No. | chunk | caption | docket(s) | date | event type | category |
-INDEX_ROW = re.compile(r"^\|\s*\d+\s*\|\s*(\d+)\s*\|\s*(.*?)\s*\|\s*(.*?)\s*\|\s*(\d{4}-\d{2}-\d{2})\s*\|\s*(.*?)\s*\|\s*(.*?)\s*\|\s*$")
+# Chronological case-index form: | No. | chunk | caption | docket(s) | date | event type | category | [area of law] |
+INDEX_ROW = re.compile(r"^\|\s*\d+\s*\|\s*(\d+)\s*\|\s*(.*?)\s*\|\s*(.*?)\s*\|\s*(\d{4}-\d{2}-\d{2})\s*\|\s*([^|]*?)\s*\|\s*([^|]*?)\s*\|(?:[^|]*\|)?\s*$")
 # Stable-ID case-index form (OT1995+): | Seq | OTyyyy-nnn | [Chunk n](...) | caption | citation | docket(s) | date | category | event type | area of law |
 STABLE_ID_ROW = re.compile(r"^\|\s*\d+\s*\|\s*OT\d{4}-\d+\s*\|\s*\[Chunk\s+(\d+)\]\([^)]*\)\s*\|\s*(.*?)\s*\|\s*(.*?)\s*\|\s*(.*?)\s*\|\s*(\d{4}-\d{2}-\d{2})\s*\|\s*(.*?)\s*\|\s*(.*?)\s*\|\s*(.*?)\s*\|\s*$")
 
