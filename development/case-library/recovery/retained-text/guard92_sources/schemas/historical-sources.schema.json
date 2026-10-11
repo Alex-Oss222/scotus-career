@@ -1,0 +1,196 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "format_version",
+    "term",
+    "cases",
+    "limitations"
+  ],
+  "properties": {
+    "format_version": {
+      "type": "integer",
+      "const": 1
+    },
+    "term": {
+      "type": "string",
+      "pattern": "^OT[0-9]{4}$"
+    },
+    "cases": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/case"
+      },
+      "minItems": 1
+    },
+    "limitations": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "pattern": "\\S"
+      },
+      "minItems": 0
+    }
+  },
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Development pilot historical source mappings, version 1",
+  "$defs": {
+    "evidence": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "path",
+        "locator",
+        "quote"
+      ],
+      "properties": {
+        "path": {
+          "type": "string",
+          "minLength": 1,
+          "format": "repository-path"
+        },
+        "locator": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        "quote": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        }
+      }
+    },
+    "document": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "document_id",
+        "document_type",
+        "document_date",
+        "url",
+        "repository_path",
+        "section_locator",
+        "url_basis",
+        "evidence",
+        "notes",
+        "citation"
+      ],
+      "properties": {
+        "document_id": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9._-]*$",
+          "not": {
+            "pattern": "\\s"
+          }
+        },
+        "document_type": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        "document_date": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date"
+        },
+        "url": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "public-http-url"
+        },
+        "repository_path": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "minLength": 1,
+          "format": "repository-path"
+        },
+        "section_locator": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        "url_basis": {
+          "enum": [
+            "explicit_url",
+            "recorded_archive_identifier",
+            "not_recorded"
+          ]
+        },
+        "evidence": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/evidence"
+          },
+          "minItems": 1,
+          "uniqueItems": true
+        },
+        "notes": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "\\S"
+          },
+          "minItems": 0
+        },
+        "citation": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "minLength": 1,
+          "pattern": "\\S"
+        }
+      }
+    },
+    "case": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "record_path",
+        "citation",
+        "documents",
+        "notes"
+      ],
+      "properties": {
+        "record_path": {
+          "type": "string",
+          "minLength": 1,
+          "format": "repository-path"
+        },
+        "citation": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        "documents": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/document"
+          },
+          "minItems": 0
+        },
+        "notes": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "\\S"
+          },
+          "minItems": 0
+        }
+      }
+    }
+  }
+}

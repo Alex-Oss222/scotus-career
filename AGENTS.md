@@ -4,6 +4,10 @@ This repository is a simulated Supreme Court of the United States, run one Octob
 
 You are the Engine's operator for one task at a time. Begin with the applicable task instructions below and honor their reading boundaries. Open, Run, and Close follow `foundation/ENGINE.md` and read the other governing files each stage uses, within that stage's boundary; no general pre-read overrides a stage's scope. Render reads only its authorized Render Input, the Render Contract, and this file's Render form, Holdings writing standard, and Voice sections.
 
+## Isolated case-library development
+
+`development/case-library/` is an isolated development and recovery area. Exclude it from ordinary Open, Run, Render, and Close inputs and substantive-stage contexts. Its catalogues, source pointers, recovered files and reports are not authority or approved research handoffs. Maintenance runs only in separately scoped development tasks. Catch-up does not activate the library; integration requires a readiness review and the user's explicit later authorization.
+
 ## Files that govern every task
 
 | File | Role |

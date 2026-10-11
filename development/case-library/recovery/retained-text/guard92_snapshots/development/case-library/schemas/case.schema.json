@@ -1,0 +1,151 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Development case-library entry",
+  "description": "Draft navigation metadata only; not authority or stage-safe input.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "development_only", "production_integration", "synthetic", "case_id", "curated", "generated", "uncertainties"],
+  "properties": {
+    "schema_version": { "const": 1 },
+    "development_only": { "const": true },
+    "production_integration": { "const": false },
+    "synthetic": { "type": "boolean" },
+    "case_id": { "$ref": "#/$defs/id" },
+    "curated": { "$ref": "#/$defs/curated" },
+    "generated": { "$ref": "#/$defs/generated" },
+    "uncertainties": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+    "extensions": {
+      "description": "Optional named development metadata; preserve on regeneration. Does not override core fields or authorize use in Court tasks.",
+      "type": "object",
+      "additionalProperties": { "type": "object" }
+    }
+  },
+  "$defs": {
+    "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9._-]*$" },
+    "optionalText": { "type": ["string", "null"], "minLength": 1 },
+    "date": { "type": ["string", "null"], "format": "date" },
+    "sha256": { "type": ["string", "null"], "pattern": "^[a-f0-9]{64}$" },
+    "materialKind": { "enum": ["historical", "simulation_public", "simulation_internal", "mixed", "unknown"] },
+    "reviewStatus": { "enum": ["unreviewed", "reviewed"] },
+    "provenance": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["basis", "evidence_path", "repository_revision", "observed_at", "notes"],
+      "properties": {
+        "basis": { "enum": ["unknown", "source_metadata", "operator_review", "synthetic"] },
+        "evidence_path": { "$ref": "#/$defs/optionalText" },
+        "repository_revision": { "$ref": "#/$defs/optionalText" },
+        "observed_at": { "type": ["string", "null"], "format": "date-time" },
+        "notes": { "$ref": "#/$defs/optionalText" }
+      }
+    },
+    "reference": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["url", "repository_path", "section_locator", "material_kind", "content_sha256", "review_status", "provenance"],
+      "properties": {
+        "url": { "type": ["string", "null"], "format": "uri", "pattern": "^https?://" },
+        "repository_path": { "$ref": "#/$defs/optionalText" },
+        "section_locator": { "$ref": "#/$defs/optionalText" },
+        "material_kind": { "$ref": "#/$defs/materialKind" },
+        "content_sha256": { "$ref": "#/$defs/sha256" },
+        "review_status": { "$ref": "#/$defs/reviewStatus" },
+        "provenance": { "$ref": "#/$defs/provenance" }
+      }
+    },
+    "docket": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["court", "number", "context", "review_status"],
+      "properties": {
+        "court": { "$ref": "#/$defs/optionalText" },
+        "number": { "$ref": "#/$defs/optionalText" },
+        "context": { "enum": ["historical", "simulation", "unknown"] },
+        "review_status": { "$ref": "#/$defs/reviewStatus" }
+      }
+    },
+    "historicalDocument": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["document_id", "document_type", "document_date", "citation", "reference"],
+      "properties": {
+        "document_id": { "$ref": "#/$defs/id" },
+        "document_type": { "$ref": "#/$defs/optionalText" },
+        "document_date": { "$ref": "#/$defs/date" },
+        "citation": { "$ref": "#/$defs/optionalText" },
+        "reference": { "$ref": "#/$defs/reference" }
+      }
+    },
+    "event": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["event_id", "event_type", "event_date", "effective_date", "record", "chronology_notes"],
+      "properties": {
+        "event_id": { "$ref": "#/$defs/id" },
+        "event_type": { "$ref": "#/$defs/optionalText" },
+        "event_date": { "$ref": "#/$defs/date" },
+        "effective_date": { "$ref": "#/$defs/date" },
+        "record": { "$ref": "#/$defs/reference" },
+        "chronology_notes": { "$ref": "#/$defs/optionalText" }
+      }
+    },
+    "treatmentLink": {
+      "description": "Pointer to express recorded treatment; no inferred legal-effect classification.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["link_id", "citing_case_id", "citing_event_id", "event_date", "effective_date", "record"],
+      "properties": {
+        "link_id": { "$ref": "#/$defs/id" },
+        "citing_case_id": { "anyOf": [{ "$ref": "#/$defs/id" }, { "type": "null" }] },
+        "citing_event_id": { "anyOf": [{ "$ref": "#/$defs/id" }, { "type": "null" }] },
+        "event_date": { "$ref": "#/$defs/date" },
+        "effective_date": { "$ref": "#/$defs/date" },
+        "record": { "$ref": "#/$defs/reference" }
+      }
+    },
+    "curated": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["case_name", "aliases", "dockets", "identity_review_status", "identity_provenance", "historical_documents", "simulation"],
+      "properties": {
+        "case_name": { "$ref": "#/$defs/optionalText" },
+        "aliases": { "type": "array", "uniqueItems": true, "items": { "type": "string", "minLength": 1 } },
+        "dockets": { "type": "array", "items": { "$ref": "#/$defs/docket" } },
+        "identity_review_status": { "$ref": "#/$defs/reviewStatus" },
+        "identity_provenance": { "$ref": "#/$defs/provenance" },
+        "historical_documents": { "type": "array", "items": { "$ref": "#/$defs/historicalDocument" } },
+        "simulation": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["events", "later_treatment"],
+          "properties": {
+            "events": { "type": "array", "items": { "$ref": "#/$defs/event" } },
+            "later_treatment": { "type": "array", "items": { "$ref": "#/$defs/treatmentLink" } }
+          }
+        }
+      }
+    },
+    "observation": {
+      "description": "Raw observed metadata only; no inferred legal or identity mapping.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["repository_path", "content_sha256", "material_kind", "observed_metadata"],
+      "properties": {
+        "repository_path": { "type": "string", "minLength": 1 },
+        "content_sha256": { "$ref": "#/$defs/sha256" },
+        "material_kind": { "$ref": "#/$defs/materialKind" },
+        "observed_metadata": { "type": "object", "additionalProperties": { "type": ["string", "null"] } }
+      }
+    },
+    "generated": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["last_scan_revision", "last_scanned_at", "observations"],
+      "properties": {
+        "last_scan_revision": { "$ref": "#/$defs/optionalText" },
+        "last_scanned_at": { "type": ["string", "null"], "format": "date-time" },
+        "observations": { "type": "array", "items": { "$ref": "#/$defs/observation" } }
+      }
+    }
+  }
+}

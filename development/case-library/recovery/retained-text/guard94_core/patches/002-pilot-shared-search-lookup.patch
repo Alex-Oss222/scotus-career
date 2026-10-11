@@ -1,0 +1,26 @@
+*** Begin Patch
+*** Update File: /workspace/scotus-career/development/case-library/tools/pilot.py
+@@
+-from pilot_views import render_files
++from pilot_views import render_files, search_matches
+@@
+ def lookup(entries, query):
+-    query = query.casefold()
+-    results = []
+-    for entry in entries:
+-        c = entry["curated"]
+-        fields = [entry["case_id"], c["case_name"] or "", *c["aliases"],
+-            entry["extensions"]["pilot"]["inventory_citation"] or "",
+-            *(d["number"] or "" for d in c["dockets"]),
+-            *(d["citation"] or "" for d in c["historical_documents"])]
+-        for detail in entry["extensions"]["pilot"].get("event_details", {}).values():
+-            identity = detail["inventory_match"]
+-            fields.extend(detail["docket_numbers"])
+-            if identity:
+-                fields.extend((identity["case_name"], identity.get("citation") or "",
+-                               identity.get("docket_label") or ""))
+-        if any(query in field.casefold() for field in fields):
+-            results.append(entry)
+-    return results
++    return [entry for entry in entries if search_matches(entry, query)]
+*** End Patch

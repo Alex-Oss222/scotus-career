@@ -1,0 +1,39 @@
+*** Begin Patch
+*** Update File: /workspace/scotus-career/development/case-library/tools/pilot.py
+@@
+-def load_snapshot(root, *, check_sources=True, catalogue=None):
++def load_snapshot(root, *, check_sources=True, catalogue=None, _prepared_content=None):
+@@
+-    return validate_snapshot(root, folder, artifacts_sha256=pointer["artifacts_sha256"], check_sources=check_sources, catalogue=catalogue)
++    result = validate_snapshot(root, folder, artifacts_sha256=pointer["artifacts_sha256"],
++                               check_sources=check_sources, catalogue=catalogue)
++    if check_sources:
++        # Matching hashes and views establish internal consistency, not that the
++        # generated metadata still represents the separately reviewed mappings.
++        # Builders may reuse their already checked preparation; ordinary reads
++        # must derive it independently. History/recovery reads stay structural.
++        if _prepared_content is None:
++            reviewed_entries, reviewed_report = prepare(root, catalogue=catalogue)
++            _prepared_content = snapshot_content(reviewed_entries, reviewed_report)
++        require_prepared_content(_prepared_content, result[1], result[2])
++        check_source_hashes(root, result[2])
++    return result
+@@
+-def publish_snapshot(root, destination, previous, *, catalogue=None):
++def publish_snapshot(root, destination, previous, *, catalogue=None, _prepared_content=None):
+@@
+-        current_folder, _, _ = load_snapshot(root, catalogue=catalogue)
++        current_folder, _, _ = load_snapshot(root, catalogue=catalogue,
++                                            _prepared_content=_prepared_content)
+@@
+-                    load_snapshot(root, catalogue=catalogue)
++                    load_snapshot(root, catalogue=catalogue, _prepared_content=expected_content)
+@@
+-                publish_snapshot(root, destination, previous_bytes, catalogue=catalogue)
++                publish_snapshot(root, destination, previous_bytes, catalogue=catalogue,
++                                 _prepared_content=expected_content)
+@@
+-            publish_snapshot(root, destination, previous_bytes, catalogue=catalogue)
++            publish_snapshot(root, destination, previous_bytes, catalogue=catalogue,
++                             _prepared_content=expected_content)
+*** End Patch

@@ -1,0 +1,89 @@
+*** Begin Patch
+*** Update File: /workspace/scotus-career/development/case-library/tools/pilot.py
+@@
+         except Unresolvable as exc:
+             raise PilotError("case.schema.json: cannot resolve the local validation schema") from exc
++        require(type(entry["schema_version"]) is int, "Live schema version must be an integer")
+         require(entry["synthetic"] is False, "Synthetic entry in live pilot coverage")
++        require(isinstance(entry.get("extensions", {}).get("pilot"), dict),
++                "Live entry is missing its pilot metadata")
+         names = [entry["curated"]["case_name"], *entry["curated"]["aliases"]]
+         require(all(isinstance(name, str) and re.search(r"[A-Za-z0-9]", name) for name in names),
+                 "Live case caption and aliases must contain meaningful identity text")
++        require(entry["curated"]["identity_review_status"] == "reviewed",
++                "Live case identity must have reviewed metadata")
++        require(entry["curated"]["dockets"] and all(
++            isinstance(d[key], str) and d[key].strip()
++            for d in entry["curated"]["dockets"] for key in ("court", "number")),
++            "Live docket metadata requires a court and docket number")
++        require(all(d["review_status"] == "reviewed" and d["context"] != "unknown"
++                    for d in entry["curated"]["dockets"]),
++                "Live dockets must have reviewed, explicit contexts")
++        live_events = entry["curated"]["simulation"]["events"]
++        require(live_events, "Live entry must contain a simulated event")
++        for event in live_events:
++            require(all(isinstance(event[key], str) and event[key].strip()
++                        for key in ("event_type", "event_date", "effective_date")),
++                    "Live event requires its type, event date and effective date")
++            ref = event["record"]
++            require(isinstance(ref["repository_path"], str) and ref["repository_path"].strip()
++                    and isinstance(ref["content_sha256"], str) and SHA256.fullmatch(ref["content_sha256"]),
++                    "Live event requires a local Record path and content fingerprint")
++            require(ref["url"] is None and ref["material_kind"] == "mixed"
++                    and ref["review_status"] == "reviewed",
++                    "Live event Record must be a reviewed local pointer to mixed material")
+         unique([d["document_id"] for d in entry["curated"]["historical_documents"]],
+                f"document IDs in {entry['case_id']}")
+@@
+         pilot = entry["extensions"].get("pilot")
+@@
+                 "Invalid entry pilot scope")
++        generated = entry["generated"]
++        require(generated["last_scan_revision"] == report["source_revision"]
++                and generated["last_scanned_at"] == report["generated_at"],
++                "Entry scan provenance differs from snapshot report")
++        provenances = [entry["curated"]["identity_provenance"]]
++        provenances.extend(d["reference"]["provenance"] for d in entry["curated"]["historical_documents"])
++        provenances.extend(e["record"]["provenance"] for e in entry["curated"]["simulation"]["events"])
++        require(all(p["basis"] == "operator_review"
++                    and p["evidence_path"] in report["input_sha256"]
++                    and p["repository_revision"] == report["source_revision"]
++                    and p["observed_at"] == report["generated_at"] for p in provenances),
++                "Entry reviewed provenance differs from snapshot inputs or scan metadata")
++        observations = entry["generated"]["observations"]
++        unique([item["repository_path"] for item in observations], f"observations in {case_id}")
++        observed = {item["repository_path"]: item for item in observations}
+         for publication in pilot["publications"]:
+@@
+                     and (publication["heading"] is None or isinstance(publication["heading"], str)),
+                     "Invalid entry publication pointer")
++            directory = "output" if publication["kind"] == "public_render" else "render-inputs"
++            path = publication["repository_path"]
++            require(path.startswith(f"terms/{term}/{directory}/") and path.endswith(".md"),
++                    "Entry publication points outside its catalogue term or material category")
++            kind = "simulation_public" if publication["kind"] == "public_render" else "mixed"
++            require(path in observed and observed[path]["material_kind"] == kind,
++                    "Entry publication lacks a matching material observation")
+@@
+         for observation in entry["generated"]["observations"]:
+-            require(report["input_sha256"].get(observation["repository_path"]) == observation["content_sha256"],
++            require(observation["repository_path"] in report["input_sha256"]
++                    and report["input_sha256"][observation["repository_path"]] == observation["content_sha256"],
+                     "Entry observation differs from source manifest")
+@@
+             ref = document["reference"]
+             require(ref["material_kind"] == "historical", "Historical pointer has the wrong material kind")
++            require(ref["review_status"] == "reviewed", "Historical pointer metadata must be reviewed")
+@@
+         for event in entry["curated"]["simulation"]["events"]:
+             ref = event["record"]
+-            require(report["input_sha256"].get(ref["repository_path"]) == ref["content_sha256"],
++            path = ref["repository_path"]
++            require(path.startswith(f"terms/{term}/records/") and path.endswith(".md"),
++                    "Event Record points outside its catalogue term")
++            require(path in report["input_sha256"]
++                    and report["input_sha256"][path] == ref["content_sha256"],
+                     "Event Record differs from source manifest")
++            require(path in observed and observed[path]["material_kind"] == "mixed",
++                    "Event Record lacks a matching mixed-material observation")
+*** End Patch
