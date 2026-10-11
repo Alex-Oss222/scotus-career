@@ -16,6 +16,9 @@
 | 8 | 1 | Tyler Murray v. Montrose County School District RE-1J + | Tenth Circuit Nos. 93-1466; 93-1474 | 1996-12-02 | Merits decision | MERITS | Disability education — IDEA least restrictive environment and neighborhood school placement presumption |
 | 9 | 1 | United States v. Jose | 95-2082 | 1996-12-02 | Summary review on certiorari petition | MERITS | Federal jurisdiction — appellate finality of conditioned IRS summons enforcement order |
 | 10 | 1 | In re Askin + | Fourth Circuit No. 94-5428 | 1996-12-09 | Merits decision | MERITS | Electronic surveillance — warrantless cordless phone interception, Title III, and witness contempt |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 11 | 2 | Caterpillar Inc. v. Lewis | 95-1263 | 1996-12-10 | Merits decision | MERITS | Civil procedure — removal without complete diversity, later satisfied before trial and judgment |
 | 12 | 2 | O'Gilvie v. United States | 95-966 | 1996-12-10 | Merits decision | MERITS | Federal income tax — punitive damages and the section 104(a)(2) personal-injury exclusion |
 | 13 | 2 | Greene v. Georgia | 96-5369 | 1996-12-16 | Summary review on certiorari petition | MERITS | Capital jury selection — whether Wainwright v. Witt deference governs state appellate review of juror-bias findings |
@@ -26,6 +29,9 @@
 | 18 | 2 | Old Chief v. United States | 95-6556 | 1997-01-07 | Merits decision | MERITS | Evidence — Rule 403 and an offered stipulation to prior-felony status under section 922(g)(1) |
 | 19 | 2 | Walmer v. Department of Defense + | Tenth Circuit No. 93-3377 | 1997-01-13 | Merits decision | MERITS | Military personnel — Army discharge for homosexual conduct; equal protection, bill of attainder, preliminary injunction |
 | 20 | 2 | Atherton v. Federal Deposit Insurance Corporation | 95-928 | 1997-01-14 | Merits decision | MERITS | Banking law — state law, federal common law, or section 1821(k) as savings-institution directors' care standard |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 21 | 3 | Grimmett v. Brown | 95-1723 | 1997-01-14 | Per curiam decision after merits submission | MERITS | Civil RICO — limitations accrual, injury discovery rule, and tolling during bankruptcy |
 | 22 | 3 | Walters v. Metropolitan Educational Enterprises, Inc. | 95-259 | 1997-01-14 | Merits decision | MERITS | Employment discrimination — Title VII fifteen-employee threshold and methods of counting employees |
 | 23 | 3 | Babbitt v. Youpee | 95-1595 | 1997-01-21 | Merits decision | MERITS | Takings — Indian Land Consolidation Act escheat of fractional allotment interests |
@@ -36,6 +42,9 @@
 | 28 | 3 | General Motors Corp. v. Tracy | 95-1232 | 1997-02-18 | Merits decision | MERITS | Dormant Commerce Clause and equal protection — Ohio gas tax exemption for local utilities |
 | 29 | 3 | Ingalls Shipbuilding, Inc. v. Director, Office of Workers' Compensation Programs | 95-1081 | 1997-02-18 | Merits decision | MERITS | Longshore workers' compensation — §33(g) pre-death third-party settlements and Director's respondent status |
 | 30 | 3 | Robinson v. Shell Oil Co. | 95-1376 | 1997-02-18 | Merits decision | MERITS | Employment discrimination — Title VII anti-retaliation coverage of former employees |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 31 | 4 | Uhlrig v. Harder + | Tenth Circuit No. 94-3190 | 1997-02-18 | Merits decision | MERITS | Civil rights — state-created danger, substantive due process, and qualified immunity for hospital administrators |
 | 32 | 4 | United States v. Brockamp | 95-1225 | 1997-02-18 | Merits decision | MERITS | Federal tax — equitable tolling of refund claim deadlines under IRC § 6511 |
 | 33 | 4 | Auer v. Robbins | 95-897 | 1997-02-19 | Merits decision | MERITS | Labor — FLSA salary-basis test for public employees and deference to Labor Secretary |
@@ -46,6 +55,9 @@
 | 38 | 4 | Brown v. Hot, Sexy & Safer Productions, Inc. + | First Circuit No. 95-1275 | 1997-02-24 | Merits decision | MERITS | Civil rights — compelled school AIDS assembly; parental rights, privacy, free exercise, Title IX |
 | 39 | 4 | Dunn v. Commodity Futures Trading Commission | 95-1181 | 1997-02-25 | Merits decision | MERITS | Commodities regulation — Treasury Amendment and CFTC authority over off-exchange foreign currency options |
 | 40 | 4 | United States v. Wells | 95-1228 | 1997-02-26 | Merits decision | MERITS | Federal criminal law — materiality element of false statements to banks under 18 U.S.C. § 1014 |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 41 | 5 | Adams v. Robertson | 95-1873 | 1997-03-03 | Per curiam decision after merits submission | MERITS | Class actions — no-opt-out settlement and due process; presenting federal claim in state court |
 | 42 | 5 | Arizonans for Official English v. Arizona | 95-974 | 1997-03-03 | Merits decision | MERITS | Justiciability — appellate standing and mootness in challenge to Arizona official-English amendment |
 | 43 | 5 | United States v. Gonzales | 95-1605 | 1997-03-03 | Merits decision | MERITS | Federal sentencing — section 924(c) firearm term running concurrently with state prison sentence |
@@ -56,6 +68,9 @@
 | 48 | 5 | Commissioner v. Estate of Hubert | 95-1402 | 1997-03-18 | Merits decision | MERITS | Federal estate tax — marital and charitable deductions and administration expenses paid from income |
 | 49 | 5 | Young v. Harper | 95-1598 | 1997-03-18 | Merits decision | MERITS | Due process — removal from Oklahoma preparole conditional supervision; Morrissey parole protections |
 | 50 | 5 | Bennett v. Spear | 95-813 | 1997-03-19 | Merits decision | MERITS | Environmental law — standing and zone of interests under ESA citizen suit and APA |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 51 | 6 | Lambert v. Wicklund | 96-858 | 1997-03-31 | Summary review on certiorari petition | MERITS | Abortion — parental notification statute and judicial bypass standard for minors |
 | 52 | 6 | Robinson v. City of Edmond + | Tenth Circuit Nos. 94-6237; 95-6008 | 1997-03-31 | Merits decision | MERITS | Establishment Clause — Latin cross on municipal seal; related attorney fees and costs |
 | 53 | 6 | Turner Broadcasting System, Inc. v. Federal Communications Commission | 95-992 | 1997-03-31 | Merits decision | MERITS | Speech — cable must-carry provisions, congressional record, and intermediate scrutiny |
@@ -66,6 +81,9 @@
 | 58 | 6 | Chandler v. Miller | 96-126 | 1997-04-15 | Merits decision | MERITS | Search and seizure — suspicionless drug testing of candidates for state office |
 | 59 | 6 | Blessing v. Freestone | 95-1441 | 1997-04-21 | Merits decision | MERITS | Civil rights — § 1983 enforceability of Title IV-D child support enforcement requirements |
 | 60 | 6 | New Mexico Department of Human Services v. Joseph A. and Josephine A. + | Tenth Circuit Nos. 92-2267; 93-2091; 93-2178; 93-2190 | 1997-04-21 | Merits decision | MERITS | Civil rights fees — § 1988 awards for consent-decree monitoring in foster-care litigation |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 61 | 7 | Board of County Commissioners of Bryan County v. Brown | 95-1100 | 1997-04-28 | Merits decision | MERITS | Civil rights — county §1983 liability based on a sheriff's single hiring decision |
 | 62 | 7 | Pic-A-State Pennsylvania, Inc. v. Reno + | Third Circuit No. 95-7137 | 1997-04-28 | Merits decision | MERITS | Commerce Clause — Interstate Wagering Amendment and interstate transmission of lottery purchase information |
 | 63 | 7 | Richards v. Wisconsin | 96-5955 | 1997-04-28 | Merits decision | MERITS | Search and seizure — knock-and-announce rule and a blanket felony drug-investigation exception |
@@ -76,6 +94,9 @@
 | 68 | 7 | Inter-Modal Rail Employees Association v. Atchison, Topeka & Santa Fe Railway Co. | 96-491 | 1997-05-12 | Merits decision | MERITS | ERISA — §510 interference protection for welfare plan benefits that do not vest |
 | 69 | 7 | Johnson v. United States | 96-203 | 1997-05-12 | Merits decision | MERITS | Criminal procedure — plain-error review when a judge decided perjury materiality after Gaudin |
 | 70 | 7 | Lambrix v. Singletary | 96-5658 | 1997-05-12 | Merits decision | MERITS | Federal habeas — Teague retroactivity of Espinosa v. Florida's aggravating-factor instruction rule |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 71 | 8 | Reno v. Bossier Parish School Board / Price v. Bossier Parish School Board | 95-1455; 95-1508 | 1997-05-12 | Merits decision | MERITS | Voting rights — Section 5 preclearance and relevance of Section 2 vote dilution |
 | 72 | 8 | United States v. Ortiz + | Seventh Circuit Nos. 95-1386; 95-1869 | 1997-05-12 | Merits decision | MERITS | Search and seizure — automobile hidden compartment and pager memory search incident to arrest |
 | 73 | 8 | Camps Newfound/Owatonna, Inc. v. Town of Harrison | 94-1988 | 1997-05-19 | Merits decision | MERITS | Dormant Commerce Clause — property tax charitable exemption favoring organizations serving state residents |
@@ -86,6 +107,9 @@
 | 78 | 8 | Clinton v. Jones | 95-1853 | 1997-05-27 | Merits decision | MERITS | Separation of powers — deferral of private civil damages suit against a sitting President |
 | 79 | 8 | Suitum v. Tahoe Regional Planning Agency | 96-243 | 1997-05-27 | Merits decision | MERITS | Takings — ripeness of regulatory takings claim involving transferable development rights |
 | 80 | 8 | United States v. Hyde | 96-667 | 1997-05-27 | Merits decision | MERITS | Criminal procedure — guilty plea withdrawal while acceptance of plea agreement is deferred |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 81 | 9 | United States v. LaBonte | 95-1726 | 1997-05-27 | Merits decision | MERITS | Federal sentencing — career offender 'maximum term authorized' and statutory recidivist enhancements |
 | 82 | 9 | Arkansas v. Farm Credit Services of Central Arkansas | 95-1918 | 1997-06-02 | Merits decision | MERITS | Federal jurisdiction — Tax Injunction Act and state tax suits by federal instrumentality lenders |
 | 83 | 9 | Boggs v. Boggs | 96-79 | 1997-06-02 | Merits decision | MERITS | ERISA preemption — community property and testamentary transfer of a spouse's pension interest |
@@ -96,6 +120,9 @@
 | 88 | 9 | Bracy v. Gramley | 96-6133 | 1997-06-09 | Merits decision | MERITS | Federal habeas corpus — discovery good cause for judicial bias claim against corrupt trial judge |
 | 89 | 9 | Gilbert v. Homar | 96-651 | 1997-06-09 | Merits decision | MERITS | Due process — notice and hearing before unpaid suspension of tenured public employee |
 | 90 | 9 | Johnson v. Fankell | 96-292 | 1997-06-09 | Merits decision | MERITS | Civil rights — interlocutory appeal of qualified immunity denials in state court Section 1983 suits |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 91 | 10 | Thomasson v. Perry + | Fourth Circuit No. 95-2185 | 1997-06-09 | Merits decision | MERITS | Military personnel — Don't Ask, Don't Tell statements presumption; equal protection and speech |
 | 92 | 10 | Vey v. Clinton | 96-8796 | 1997-06-09 | Motion for filing relief | MERITS | Supreme Court practice — in forma pauperis status and filing limits for noncriminal petitions |
 | 93 | 10 | Chalmers v. Tulon Co. of Richmond + | Fourth Circuit No. 95-2594 | 1997-06-12 | Merits decision | MERITS | Employment discrimination — Title VII religious accommodation for religious letters sent to coworkers |
@@ -106,6 +133,9 @@
 | 98 | 10 | Metropolitan Stevedore Co. v. Rambo | 96-272 | 1997-06-19 | Merits decision | MERITS | Longshore workers' compensation — nominal award for injured worker with undiminished present earnings |
 | 99 | 10 | O'Dell v. Netherland | 96-6867 | 1997-06-19 | Merits decision | MERITS | Capital habeas — Teague new-rule status of Simmons parole-ineligibility rule |
 | 100 | 10 | United States v. Alaska | 84, Original | 1997-06-19 | Original proceeding: exceptions to Special Master report | MERITS | Submerged lands — Beaufort Sea coastline, Dinkum Sands island status, federal reservations at statehood |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 101 | 11 | Agostini v. Felton | 96-552 | 1997-06-23 | Merits decision | MERITS | Establishment Clause — Title I remedial teaching on parochial school premises and Rule 60(b) relief |
 | 102 | 11 | Cohen v. Brown University + | First Circuit No. 95-2205 | 1997-06-23 | Merits decision | MERITS | Sex discrimination — Title IX athletics accommodation test, equal protection, and district court remedy |
 | 103 | 11 | Idaho v. Coeur d'Alene Tribe of Idaho | 94-1474 | 1997-06-23 | Merits decision | MERITS | Eleventh Amendment — Ex parte Young and tribal quiet-title suit over submerged lakebed lands |
@@ -116,6 +146,9 @@
 | 108 | 11 | Amchem Products, Inc. v. Windsor | 96-270 | 1997-06-25 | Merits decision | MERITS | Civil procedure — Rule 23 certification of a nationwide asbestos settlement-only class |
 | 109 | 11 | City of Boerne v. Flores | 95-2074 | 1997-06-25 | Merits decision | MERITS | Congressional power — Fourteenth Amendment Section 5 and the Religious Freedom Restoration Act applied to states |
 | 110 | 11 | Glickman v. Wileman Brothers & Elliott, Inc. | 95-1184 | 1997-06-25 | Merits decision | MERITS | Speech — compelled funding of generic advertising under agricultural marketing orders |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 111 | 12 | Lawyer v. Department of Justice | 95-2024 | 1997-06-25 | Merits decision | MERITS | Voting rights — racial gerrymandering; court approval of redistricting settlement over objector without liability finding |
 | 112 | 12 | United States v. O'Hagan | 96-842 | 1997-06-25 | Merits decision | MERITS | Securities regulation — misappropriation theory under Rule 10b-5 and SEC Rule 14e-3(a) authority |
 | 113 | 12 | Raines v. Byrd | 96-1671 | 1997-06-26 | Merits decision | MERITS | Standing — Members of Congress challenging the Line Item Veto Act under Article III |

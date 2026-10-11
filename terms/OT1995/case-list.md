@@ -18,6 +18,9 @@
 | 10 | 1 | Field v. Mans | 94-967 | 1995-11-28 | Argued merits decision | MERITS | Bankruptcy; fraud and discharge |
 | 11 | 1 | NLRB v. Town & Country Electric, Inc. | 94-947 | 1995-11-28 | Argued merits decision | MERITS | Labor law — NLRA employee status |
 | 12 | 1 | Thompson v. Keohane | 94-6615 | 1995-11-29 | Argued merits decision | MERITS | Criminal procedure and habeas — Miranda custody review |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 13 | 2 | Louisiana v. Mississippi et al. (decree) | 121, Original | 1995-12-04 | Decree | ORIGINAL | Original jurisdiction; boundary-decree implementation |
 | 14 | 2 | Klinger v. Department of Corrections + | Eighth Circuit No. 93-2928 | 1995-12-04 | Expressly assigned simulated merits review | MERITS | Equal protection; prison programs |
 | 15 | 2 | Things Remembered, Inc. v. Petrarca | 94-1530 | 1995-12-05 | Argued merits decision | MERITS | Federal jurisdiction; bankruptcy removal and remand |
@@ -30,6 +33,9 @@
 | 22 | 2 | Stutson v. United States | 94-8988 | 1996-01-08 | GVR consideration on certiorari petition | CERTIORARI | Criminal appellate procedure; excusable neglect |
 | 23 | 2 | Yamaha Motor Corp., U.S.A. v. Calhoun | 94-1387 | 1996-01-09 | Argued merits decision | MERITS | Admiralty — wrongful death and supplementary state remedies |
 | 24 | 2 | Allridge v. Scott + | Fifth Circuit No. 93-9137 | 1996-01-15 | Simulation-assigned merits opinion | MERITS | Capital sentencing; mitigation; parole information; federal habeas |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 25 | 3 | Zicherman v. Korean Air Lines Co., Ltd. / Korean Air Lines Co., Ltd. v. Zicherman | 94-1361; 94-1477 | 1996-01-16 | Argued merits decision | MERITS | Maritime and aviation liability; Warsaw Convention; wrongful-death damages |
 | 26 | 3 | Lotus Development Corp. v. Borland International, Inc. | 94-2003 | 1996-01-16 | Merits submission (historical equal-division comparator) | MERITS | Copyright; computer command methods |
 | 27 | 3 | Commissioner v. Lundy | 94-1785 | 1996-01-17 | Argued merits decision | MERITS | Tax procedure; Tax Court refund lookback |
@@ -42,6 +48,9 @@
 | 34 | 3 | Sherman v. Community Consolidated School District 21 of Wheeling Township + | Seventh Circuit No. 91-1684 | 1996-02-12 | Simulation-assigned merits opinion | MERITS | Religion and speech; school Pledge of Allegiance |
 | 35 | 3 | Behrens v. Pelletier | 94-1244 | 1996-02-21 | Argued merits decision | MERITS | Federal courts — qualified immunity and collateral-order appeals |
 | 36 | 3 | Fulton Corp. v. Faulkner | 94-1239 | 1996-02-21 | Argued merits decision | MERITS | Dormant Commerce Clause; discriminatory taxation |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 37 | 4 | Peacock v. Thomas | 94-1453 | 1996-02-21 | Argued merits decision | MERITS | Federal courts — ancillary jurisdiction and judgment enforcement |
 | 38 | 4 | Jones v. ABC-TV | 95-7186 | 1996-02-26 | Motion for filing relief | APPLICATION | Supreme Court procedure; financial leave and filing restrictions |
 | 39 | 4 | United States v. Maine et al. (Massachusetts Boundary Case) | 35, Original | 1996-02-26 | Supplemental decree | ORIGINAL | Original jurisdiction; coastal-boundary decree |
@@ -54,6 +63,9 @@
 | 46 | 4 | Action for Children's Television v. FCC (with Pacifica Foundation v. FCC) + | D.C. Circuit Nos. 93-1092; 93-1100 | 1996-03-04 | Simulation-assigned merits opinion | MERITS | Free speech; broadcast indecency regulation |
 | 47 | 4 | SSC Corp. v. Town of Smithtown + | Historical petitions 95-782; 95-1015 | 1996-03-11 | Expressly assigned simulated merits review | MERITS | Dormant Commerce Clause; municipal procurement and flow control |
 | 48 | 4 | Dalton v. Little Rock Family Planning Services | 95-1025 | 1996-03-18 | Summary review on certiorari petition | MERITS | Personal liberty and remedies — abortion funding and severable relief |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 49 | 5 | Meghrig v. KFC Western, Inc. | 95-83 | 1996-03-19 | Argued merits decision | MERITS | Environmental law; RCRA citizen-suit remedies |
 | 50 | 5 | Varity Corp. v. Howe | 94-1471 | 1996-03-19 | Argued merits decision | MERITS | Employee benefits — fiduciary misrepresentation and equitable relief |
 | 51 | 5 | Wisconsin v. City of New York / Oklahoma v. City of New York / Department of Commerce v. City of New York | 94-1614; 94-1631; 94-1985 | 1996-03-20 | Argued merits decision | MERITS | Constitutional structure and administrative law — census methodology |
@@ -66,6 +78,9 @@
 | 58 | 5 | Lonchar v. Thomas | 95-5015 | 1996-04-01 | Argued merits decision | MERITS | Habeas corpus — first petitions, delay, and equitable dismissal |
 | 59 | 5 | Shieh v. Kakita / Shieh v. United States Court of Appeals for the Ninth Circuit / Shieh v. Krieger | 95-7587; 95-7588; 95-7589 | 1996-04-01 | Motion for filing relief | APPLICATION | Supreme Court procedure; financial leave and filing restrictions |
 | 60 | 5 | Bowersox v. Williams | A-828 | 1996-04-09 | Application to vacate execution stay | APPLICATION | Capital habeas; stay application |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 61 | 6 | Planned Parenthood, Sioux Falls Clinic v. Miller + | Eighth Circuit Nos. 94-3326SD; 94-3398SD | 1996-04-15 | Simulation-assigned merits opinion | MERITS | Abortion regulation; liberty and equality; severability |
 | 62 | 6 | Cooper v. Oklahoma | 95-5207 | 1996-04-16 | Argued merits decision | MERITS | Criminal procedure — competency and burden of proof |
 | 63 | 6 | Markman v. Westview Instruments, Inc. | 95-26 | 1996-04-23 | Argued merits decision | MERITS | Patent law — claim construction and jury allocation |
@@ -78,6 +93,9 @@
 | 70 | 6 | United Food & Commercial Workers Union Local 751 v. Brown Group, Inc. | 95-340 | 1996-05-13 | Argued merits decision | MERITS | Federal courts — associational standing and statutory authorization |
 | 71 | 6 | BMW of North America, Inc. v. Gore | 94-896 | 1996-05-20 | Argued merits decision | MERITS | Procedural due process — punitive-damages excessiveness |
 | 72 | 6 | Romer v. Evans | 94-1039 | 1996-05-20 | Argued merits decision | MERITS | Equal protection — status-based political disability and animus |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 73 | 7 | Henderson v. United States | 95-232 | 1996-05-20 | Argued merits decision | MERITS | Federal procedure — service of process and suits against the United States |
 | 74 | 7 | Doctor’s Associates, Inc. v. Casarotto | 95-559 | 1996-05-20 | Argued merits decision | MERITS | Arbitration — FAA equal-treatment preemption |
 | 75 | 7 | Pinder v. Johnson + | Fourth Circuit No. 93-2125 | 1996-05-21 | Simulation-assigned merits opinion | MERITS | Substantive due process; police protection; qualified immunity |
@@ -90,6 +108,9 @@
 | 82 | 7 | Whren v. United States | 95-5841 | 1996-06-10 | Argued merits decision | MERITS | Search and seizure — traffic stops, objective justification, and pretext |
 | 83 | 7 | Degen v. United States | 95-173 | 1996-06-10 | Argued merits decision | MERITS | Federal courts and forfeiture — inherent authority and fugitive disentitlement |
 | 84 | 7 | Exxon Co., U.S.A. v. Sofec, Inc. | 95-129 | 1996-06-10 | Argued merits decision | MERITS | Admiralty; superseding cause and comparative fault |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 85 | 8 | United States v. International Business Machines Corp. | 95-591 | 1996-06-10 | Argued merits decision | MERITS | Constitutional taxation — Export Clause |
 | 86 | 8 | Lockheed Corp. v. Spink | 95-809 | 1996-06-10 | Argued merits decision | MERITS | Employee benefits — settlor functions and prohibited transactions |
 | 87 | 8 | United States v. Myers + | Seventh Circuit No. 94-1912 | 1996-06-11 | Simulation-assigned merits opinion | MERITS | Search and seizure; thermal imaging of a home; suppression |
@@ -102,6 +123,9 @@
 | 94 | 8 | Leavitt v. Jane L. | 95-1242 | 1996-06-17 | Summary review on certiorari petition | MERITS | Personal liberty and remedies — abortion regulation and severability |
 | 95 | 8 | Calderon v. Moore | 95-1612 | 1996-06-17 | Summary review on certiorari petition | MERITS | Article III; mootness of a habeas appeal |
 | 96 | 8 | Gray v. Netherland | 95-6510 | 1996-06-20 | Argued merits decision | MERITS | Capital sentencing and habeas — notice, disclosure, and procedural default |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 97 | 9 | Lane v. Peña | 95-365 | 1996-06-20 | Argued merits decision | MERITS | Federal courts and disability law — sovereign-immunity waiver |
 | 98 | 9 | United States v. Reorganized CF&I Fabricators of Utah, Inc. | 95-325 | 1996-06-20 | Argued merits decision | MERITS | Bankruptcy; tax priority and equitable subordination |
 | 99 | 9 | Brown v. Pro Football, Inc. | 95-388 | 1996-06-20 | Argued merits decision | MERITS | Labor and antitrust law — nonstatutory labor exemption |
@@ -114,6 +138,9 @@
 | 106 | 9 | Settle v. Dickson County School Board + | Sixth Circuit No. 93-6207 | 1996-06-25 | Simulation-assigned merits opinion | MERITS | Student speech and religion; curricular assignments |
 | 107 | 9 | Medtronic, Inc. v. Lohr / Lohr v. Medtronic, Inc. | 95-754; 95-886 | 1996-06-26 | Argued merits decision | MERITS | Federal preemption — medical devices and state tort law |
 | 108 | 9 | United States v. Virginia / Virginia v. United States | 94-1941; 94-2107 | 1996-06-26 | Argued merits decision | MERITS | Equal protection and education — sex classification and remedial equality |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 109 | 10 | Colorado Republican Federal Campaign Committee v. Federal Election Commission | 95-489 | 1996-06-26 | Argued merits decision | MERITS | Elections and speech — political-party independent expenditures |
 | 110 | 10 | Felker v. Turpin | 95-8836; A-890 | 1996-06-28 | Certiorari-jurisdiction and original-habeas disposition | ORIGINAL / CERTIORARI | Habeas corpus and federal courts — successive petitions and jurisdiction |
 | 111 | 10 | Board of County Commissioners, Wabaunsee County v. Umbehr | 94-1654 | 1996-06-28 | Argued merits decision | MERITS | Speech — independent contractors and retaliatory termination |

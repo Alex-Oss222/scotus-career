@@ -11,6 +11,9 @@
 | 5 | 1 | Hafer v. Melo | 90-681 | 1991-11-05 | Merits decision | MERITS | Civil rights — §1983 personal-capacity liability of state officers for official acts |
 | 6 | 1 | Board of Governors of the Federal Reserve System v. MCorp Financial, Inc. | 90-913; 90-914 | 1991-12-03 | Merits decision | MERITS | Banking and bankruptcy — jurisdiction to enjoin Federal Reserve enforcement proceedings; Leedom v. Kyne review |
 | 7 | 1 | Griffin v. United States | 90-6352 | 1991-12-03 | Merits decision | MERITS | Criminal law — general verdict on a multiple-object conspiracy with one unsupported object |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 8 | 2 | Estelle v. McGuire | 90-1074 | 1991-12-04 | Merits decision | MERITS | Federal habeas — due process, prior-injury evidence and jury instructions in a murder trial |
 | 9 | 2 | Southwest Marine, Inc. v. Gizoni | 90-584 | 1991-12-04 | Merits decision | MERITS | Maritime law — Jones Act seaman status of a worker in an LHWCA-enumerated occupation |
 | 10 | 2 | Wooddell v. International Brotherhood of Electrical Workers, Local 71 | 90-967 | 1991-12-04 | Merits decision | MERITS | Labor law — LMRDA jury trial right and LMRA §301 suits by members on union constitutions |
@@ -18,6 +21,9 @@
 | 12 | 2 | Simon & Schuster, Inc. v. Members of the New York State Crime Victims Board | 90-1059 | 1991-12-10 | Merits decision | MERITS | Speech — escrow of an accused or convicted person's income from accounts of the crime |
 | 13 | 2 | Ardestani v. INS | 90-1141 | 1991-12-10 | Merits decision | MERITS | Attorney's fees — EAJA fee awards for administrative deportation proceedings as APA §554 adjudications |
 | 14 | 2 | Union Bank v. Wolas | 90-1491 | 1991-12-11 | Merits decision | MERITS | Bankruptcy — ordinary-course preference exception and payments on long-term debt |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 15 | 3 | United States Department of State v. Ray | 90-747 | 1991-12-16 | Merits decision | MERITS | Freedom of Information Act — Exemption 6 privacy and identities of interviewed Haitian returnees |
 | 16 | 3 | INS v. National Center for Immigrants' Rights, Inc. | 90-1090 | 1991-12-16 | Merits decision | MERITS | Immigration — statutory authority for a no-unauthorized-employment condition on release bonds |
 | 17 | 3 | Hilton v. South Carolina Public Railways Commission | 90-848 | 1991-12-16 | Merits decision | MERITS | Federal Employers' Liability Act — state-owned railroad liability in state court and sovereign immunity |
@@ -28,6 +34,9 @@
 | 22 | 3 | County of Yakima v. Confederated Tribes and Bands of the Yakima Indian Nation | 90-408; 90-577 | 1992-01-14 | Merits decision | MERITS | Indian law — county ad valorem and excise taxes on reservation fee-patented land |
 | 23 | 3 | Norman v. Reed | 90-1126; 90-1435 | 1992-01-14 | Merits decision | MERITS | Election law — mootness, new-party name restrictions, and ballot-access signature requirements |
 | 24 | 3 | Molzof v. United States | 90-838 | 1992-01-14 | Merits decision | MERITS | Federal Tort Claims Act — meaning of 'punitive damages' in 28 U.S.C. §2674 |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 25 | 4 | INS v. Doherty | 90-925 | 1992-01-15 | Merits decision | MERITS | Immigration — reopening deportation proceedings to pursue asylum and withholding of deportation |
 | 26 | 4 | White v. Illinois | 90-6113 | 1992-01-15 | Merits decision | MERITS | Confrontation Clause — spontaneous-declaration and medical-treatment hearsay without production or unavailability showing |
 | 27 | 4 | Rufo v. Inmates of Suffolk County Jail | 90-954; 90-1004 | 1992-01-15 | Merits decision | MERITS | Civil procedure — Rule 60(b)(5) modification of a jail consent decree's single-celling requirement |
@@ -36,6 +45,9 @@
 | 30 | 4 | INS v. Elias-Zacarias | 90-1342 | 1992-01-22 | Merits decision | MERITS | Immigration — guerrilla forced recruitment as persecution on account of political opinion |
 | 31 | 4 | Presley v. Etowah County Commission | 90-711; 90-712 | 1992-01-27 | Merits decision | MERITS | Voting rights — Voting Rights Act §5 preclearance of changes in county commissioners' decisionmaking authority |
 | 32 | 4 | Lechmere, Inc. v. NLRB | 90-970 | 1992-01-27 | Merits decision | MERITS | Labor law — NLRA §7 access of nonemployee union organizers to employer's private property |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 33 | 5 | Hudson v. McMillian | 90-6531 | 1992-02-25 | Merits decision | MERITS | Eighth Amendment — prison guards' excessive force absent significant injury to inmate |
 | 34 | 5 | United States v. Nordic Village, Inc. | 90-1629 | 1992-02-25 | Merits decision | MERITS | Bankruptcy; sovereign immunity — whether Code §106(c) waives immunity from monetary recovery against IRS |
 | 35 | 5 | Holywell Corp. v. Smith | 90-1361; 90-1484 | 1992-02-25 | Merits decision | MERITS | Federal taxation; bankruptcy — whether a liquidating trustee must file returns and pay income taxes |
@@ -45,6 +57,9 @@
 | 39 | 5 | Collins v. City of Harker Heights | 90-1279 | 1992-02-26 | Merits decision | MERITS | Civil rights; §1983 — municipal liability and substantive due process for workplace safety failures |
 | 40 | 5 | Willy v. Coastal Corp. | 90-1150 | 1992-03-03 | Merits decision | MERITS | Civil procedure — Rule 11 sanctions after determination of no subject-matter jurisdiction |
 | 41 | 5 | McCarthy v. Madigan | 90-6861 | 1992-03-04 | Merits decision | MERITS | Prisoners' rights; federal courts — exhaustion of BOP grievance procedure for Bivens damages claim |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 42 | 6 | Dawson v. Delaware | 90-6704 | 1992-03-09 | Merits decision | MERITS | First Amendment — gang-membership association evidence at capital sentencing |
 | 43 | 6 | General Motors Corp. v. Romein | 90-1390 | 1992-03-09 | Merits decision | MERITS | Contract Clause and due process — retroactive repayment of workers' compensation benefit offsets |
 | 44 | 6 | Williams v. United States | 90-6297 | 1992-03-09 | Merits decision | MERITS | Federal sentencing — appellate review of Guidelines departures resting on valid and invalid grounds |
@@ -55,6 +70,9 @@
 | 49 | 6 | United States v. R. L. C. | 90-1577 | 1992-03-24 | Merits decision | MERITS | Juvenile delinquency — whether the §5037(c)(1)(B) detention ceiling incorporates the adult Guidelines range |
 | 50 | 6 | Nationwide Mutual Insurance Co. v. Darden | 90-1802 | 1992-03-24 | Merits decision | MERITS | ERISA — test for who qualifies as an 'employee' under the statute |
 | 51 | 6 | United States v. Wilson | 90-1745 | 1992-03-24 | Merits decision | MERITS | Federal sentencing — who computes presentence detention credit under 18 U.S.C. §3585(b) |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 52 | 7 | Suter v. Artist M. | 90-1488 | 1992-03-25 | Merits decision | MERITS | Civil rights; child welfare — private §1983 enforcement of Adoption Assistance Act reasonable-efforts provisions |
 | 53 | 7 | United States v. Felix | 90-1599 | 1992-03-25 | Merits decision | MERITS | Double jeopardy — later conspiracy prosecution resting on conduct offered as evidence in an earlier trial |
 | 54 | 7 | Barnhill v. Johnson | 91-159 | 1992-03-25 | Merits decision | MERITS | Bankruptcy — when a check payment counts as a transfer for the 90-day preference period |
@@ -65,6 +83,9 @@
 | 59 | 7 | Yee v. City of Escondido | 90-1947 | 1992-04-01 | Merits decision | MERITS | Takings — whether mobile-home park rent control effects a physical occupation of owners' land |
 | 60 | 7 | Jacobson v. United States | 90-1124 | 1992-04-06 | Merits decision | MERITS | Criminal law — entrapment and predisposition in a government child-pornography mail-order sting |
 | 61 | 7 | Trevino v. Texas | 91-6751 | 1992-04-06 | Summary review on certiorari petition | MERITS | Jury selection — preservation of a pre-Batson equal protection objection to peremptory strikes |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 62 | 8 | United States v. Alaska | 118, Original | 1992-04-21 | Original proceeding: cross-motions for summary judgment | MERITS | Submerged lands — artificial port works, coastline baseline, and federal permit conditions |
 | 63 | 8 | Barker v. Kansas | 91-611 | 1992-04-21 | Merits decision | MERITS | Intergovernmental tax immunity — state income tax on military retirement pay versus state pensions |
 | 64 | 8 | United States Department of Energy v. Ohio | 90-1341; 90-1517 | 1992-04-21 | Merits decision | MERITS | Federal sovereign immunity — Clean Water Act and RCRA waivers for state civil penalties |
@@ -75,6 +96,9 @@
 | 69 | 8 | United States v. Williams | 90-1972 | 1992-05-04 | Merits decision | MERITS | Grand jury — prosecutor's presentation of exculpatory evidence, supervisory power, and issue preservation |
 | 70 | 8 | Vasquez v. Harris | A-766 | 1992-04-21 | Application to vacate execution stay | APPLICATION | Capital habeas — application to vacate an execution stay in successive-petition proceedings |
 | 71 | 8 | Vasquez v. Harris | A-768 | 1992-04-21 | Application to vacate execution stay | APPLICATION | Capital habeas — application to vacate a later-entered Ninth Circuit execution stay |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 72 | 9 | Foucha v. Louisiana | 90-5844 | 1992-05-18 | Merits decision | MERITS | Due process — continued confinement of an insanity acquittee no longer mentally ill |
 | 73 | 9 | Riggins v. Nevada | 90-8466 | 1992-05-18 | Merits decision | MERITS | Criminal procedure — forced antipsychotic medication of a defendant during trial |
 | 74 | 9 | Wyatt v. Cole | 91-126 | 1992-05-18 | Merits decision | MERITS | Civil rights — qualified immunity for private §1983 defendants invoking state replevin |
@@ -84,6 +108,9 @@
 | 78 | 9 | United States v. Burke | 91-42 | 1992-05-26 | Merits decision | MERITS | Federal income tax — §104(a)(2) exclusion of Title VII backpay settlement awards |
 | 79 | 9 | Evans v. United States | 90-6105 | 1992-05-26 | Merits decision | MERITS | Federal criminal law — Hobbs Act official-right extortion and whether affirmative inducement is an element |
 | 80 | 9 | Quill Corp. v. North Dakota | 91-194 | 1992-05-26 | Merits decision | MERITS | State taxation — Commerce and Due Process limits on mail-order sellers' use-tax collection duty |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 81 | 10 | Chemical Waste Management, Inc. v. Hunt | 91-471 | 1992-06-01 | Merits decision | MERITS | Dormant Commerce Clause — state additional disposal fee on out-of-state hazardous waste |
 | 82 | 10 | Fort Gratiot Sanitary Landfill, Inc. v. Michigan Department of Natural Resources | 91-636 | 1992-06-01 | Merits decision | MERITS | Dormant Commerce Clause — state-authorized county limits on accepting out-of-county solid waste |
 | 83 | 10 | Morales v. Trans World Airlines, Inc. | 90-1604 | 1992-06-01 | Merits decision | MERITS | Federal preemption — Airline Deregulation Act, state fare-advertising guidelines, and injunction scope |
@@ -91,6 +118,9 @@
 | 85 | 10 | Eastman Kodak Co. v. Image Technical Services, Inc. | 90-1029 | 1992-06-08 | Merits decision | MERITS | Antitrust — Sherman Act tying and monopolization in equipment parts and service aftermarkets |
 | 86 | 10 | United States v. Thompson/Center Arms Co. | 91-164 | 1992-06-08 | Merits decision | MERITS | Federal taxation — National Firearms Act classification of a pistol packaged with a rifle conversion kit |
 | 87 | 10 | Sochor v. Florida | 91-5843 | 1992-06-08 | Merits decision | MERITS | Capital sentencing — Eighth Amendment, heinousness aggravator, and state appellate review of aggravator error |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 88 | 11 | Lujan v. Defenders of Wildlife | 90-1424 | 1992-06-12 | Merits decision | MERITS | Federal jurisdiction — Article III standing to challenge ESA consultation limits on agency actions abroad |
 | 89 | 11 | Republic of Argentina v. Weltover, Inc. | 91-763 | 1992-06-12 | Merits decision | MERITS | Foreign sovereign immunity — commercial-activity exception and direct effect of Argentine bond rescheduling |
 | 90 | 11 | FTC v. Ticor Title Insurance Co. | 91-72 | 1992-06-12 | Merits decision | MERITS | Antitrust — state-action immunity and active supervision of state-regulated title insurance rates |
@@ -100,6 +130,9 @@
 | 94 | 11 | Morgan v. Illinois | 91-5118 | 1992-06-15 | Merits decision | MERITS | Criminal procedure — capital voir dire on jurors who would automatically impose death |
 | 95 | 11 | Patterson v. Shumate | 91-913 | 1992-06-15 | Merits decision | MERITS | Bankruptcy — ERISA-qualified pension interests and §541(c)(2) exclusion from the bankruptcy estate |
 | 96 | 11 | Allied-Signal, Inc. v. Director, Division of Taxation | 91-615 | 1992-06-15 | Merits decision | MERITS | State taxation — unitary-business principle and apportionment of a nondomiciliary corporation's capital gain |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 97 | 12 | Nordlinger v. Hahn | 90-1912 | 1992-06-18 | Merits decision | MERITS | Equal protection — California Proposition 13 acquisition-value property tax assessment |
 | 98 | 12 | Georgia v. McCollum | 91-372 | 1992-06-18 | Merits decision | MERITS | Jury selection — criminal defendant's race-based peremptory challenges and equal protection |
 | 99 | 12 | Kraft General Foods, Inc. v. Iowa Department of Revenue and Finance | 90-1918 | 1992-06-18 | Merits decision | MERITS | State taxation — Foreign Commerce Clause and differing treatment of foreign-subsidiary dividends |
@@ -110,6 +143,9 @@
 | 104 | 12 | American National Red Cross v. S. G. | 91-594 | 1992-06-19 | Merits decision | MERITS | Federal jurisdiction — Red Cross charter's sue-and-be-sued clause and original federal jurisdiction |
 | 105 | 12 | Wright v. West | 91-542 | 1992-06-19 | Merits decision | MERITS | Federal habeas — deference to state-court rulings on mixed questions and Jackson sufficiency review |
 | 106 | 12 | United States v. Salerno | 91-872 | 1992-06-19 | Merits decision | MERITS | Evidence — former-testimony hearsay exception and grand-jury testimony offered by the defense |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 107 | 13 | Reynolds v. International Amateur Athletic Federation | A-954 | 1992-06-20 | Application to stay a court of appeals order staying a preliminary injunction | APPLICATION | Sports eligibility; personal jurisdiction — application to stay appellate stay of preliminary injunction |
 | 108 | 13 | Sawyer v. Whitley | 91-6382 | 1992-06-22 | Merits decision | MERITS | Capital habeas — actual innocence of the death penalty as gateway to barred claims |
 | 109 | 13 | R. A. V. v. City of St. Paul | 90-7675 | 1992-06-22 | Merits decision | MERITS | Speech — bias-motivated crime ordinance, fighting words, overbreadth, and content discrimination |
@@ -119,6 +155,9 @@
 | 113 | 13 | City of Burlington v. Dague | 91-810 | 1992-06-24 | Merits decision | MERITS | Attorney's fees — contingency enhancement of lodestar under environmental fee-shifting statutes |
 | 114 | 13 | Lee v. Weisman | 90-1014 | 1992-06-24 | Merits decision | MERITS | Establishment Clause — clergy-led prayer at public secondary-school graduation ceremonies |
 | 115 | 13 | Doggett v. United States | 90-857 | 1992-06-24 | Merits decision | MERITS | Sixth Amendment speedy trial — lengthy negligent post-indictment delay and showing of prejudice |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 116 | 14 | International Society for Krishna Consciousness, Inc. v. Lee | 91-155 | 1992-06-26 | Merits decision | MERITS | Speech — public forum status of airport terminals and solicitation restrictions |
 | 117 | 14 | United States v. Fordice | 90-1205; 90-6588 | 1992-06-26 | Merits decision | MERITS | Equal protection — desegregation duties of a formerly segregated state university system |
 | 118 | 14 | Two Pesos, Inc. v. Taco Cabana, Inc. | 91-971 | 1992-06-26 | Merits decision | MERITS | Trademark — Lanham Act protection of inherently distinctive trade dress without secondary meaning |

@@ -18,6 +18,9 @@
 | 10 | 1 | In re Baby K + | 93-1673 | 1994-12-12 | Merits decision | MERITS | Health law — EMTALA stabilization duty for anencephalic infant's respiratory emergencies; state-law preemption |
 | 11 | 1 | Plakas v. Drinski + | 93-1824 | 1995-01-09 | Merits decision | MERITS | Fourth Amendment excessive force — less-deadly alternatives and pre-shooting tactics; municipal liability |
 | 12 | 1 | Interstate Commerce Commission v. Transcon Lines | 93-1318 | 1995-01-10 | Merits decision | MERITS | Transportation regulation — ICC remedial authority over undercharge claims tied to its credit regulations |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 13 | 2 | Tome v. United States | 93-6892 | 1995-01-10 | Merits decision | MERITS | Evidence — Rule 801(d)(1)(B) prior consistent statements made after alleged motive to fabricate |
 | 14 | 2 | Young v. Northern Illinois Conference of United Methodist Church + | 93-1917 | 1995-01-17 | Merits decision | MERITS | Religion clauses — church autonomy over ministerial Title VII claims; jurisdictional or merits defense |
 | 15 | 2 | Asgrow Seed Co. v. Winterboer | 92-2038 | 1995-01-18 | Merits decision | MERITS | Plant variety protection — scope of the saved-seed exemption for farmer-to-farmer seed sales |
@@ -30,6 +33,9 @@
 | 22 | 2 | Fargo Women’s Health Organization v. Schafer + | 93-1712 | 1995-02-13 | Merits decision | MERITS | Abortion — facial undue-burden challenge to North Dakota informed-consent, waiting-period, and emergency provisions |
 | 23 | 2 | Lebron v. National Railroad Passenger Corp. | 93-1525 | 1995-02-21 | Merits decision | MERITS | State action — whether Amtrak is a government actor for First Amendment purposes |
 | 24 | 2 | Milwaukee Brewery Workers' Pension Plan v. Jos. Schlitz Brewing Co. | 93-768 | 1995-02-21 | Merits decision | MERITS | Pension law (MPPAA) — when interest begins accruing in amortizing employer withdrawal liability |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 25 | 3 | O'Neal v. McAninch | 93-7407 | 1995-02-21 | Merits decision | MERITS | Federal habeas — harmless-error burden when the court is in grave doubt |
 | 26 | 3 | United States v. National Treasury Employees Union | 93-1170 | 1995-02-22 | Merits decision | MERITS | Speech — federal employee honoraria ban on expression unrelated to official duties |
 | 27 | 3 | Harris v. Alabama | 93-7659 | 1995-02-22 | Merits decision | MERITS | Capital sentencing — weight owed an advisory jury's life recommendation under judicial override |
@@ -42,6 +48,9 @@
 | 34 | 3 | Curtiss-Wright Corp. v. Schoonejongen | 93-1935 | 1995-03-06 | Merits decision | MERITS | ERISA — whether a company reservation-of-amendment clause satisfies the amendment-procedure requirement |
 | 35 | 3 | Shalala v. Guernsey Memorial Hospital | 93-1251 | 1995-03-06 | Merits decision | MERITS | Medicare reimbursement — GAAP, bond defeasance loss timing, and notice-and-comment for manual guideline |
 | 36 | 3 | Ambassador Books & Video, Inc. v. City of Little Rock + | 93-1886 | 1995-03-20 | Merits decision | MERITS | Speech; land use — adult-business zoning, secondary effects, amortization, takings, and attainder |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 37 | 4 | Director, Office of Workers’ Compensation Programs v. Newport News Shipbuilding & Dry Dock Co. | 93-1783 | 1995-03-21 | Merits decision | MERITS | Workers' compensation — Director's standing under Longshore Act § 921(c) to seek appellate review |
 | 38 | 4 | Anderson v. Edwards | 93-1883 | 1995-03-22 | Merits decision | MERITS | Public benefits — AFDC assistance-unit rule grouping nonsibling children with a common caretaker |
 | 39 | 4 | Swanner v. Anchorage Equal Rights Commission + | 94-124 | 1995-03-27 | Merits decision | MERITS | Religious liberty — landlord's RFRA and free exercise objections to marital-status housing law |
@@ -54,6 +63,9 @@
 | 46 | 4 | Lanphere & Urbaniak v. Colorado + | 94-38 | 1995-04-18 | Merits decision | MERITS | Speech — use-based denial of criminal-justice records to commercial solicitors; right of access |
 | 47 | 4 | Celotex Corp. v. Edwards | 93-1504 | 1995-04-19 | Merits decision | MERITS | Bankruptcy — collateral challenge to bankruptcy-court injunction staying execution on supersedeas bonds |
 | 48 | 4 | McIntyre v. Ohio Elections Commission | 93-986 | 1995-04-19 | Merits decision | MERITS | Speech — Ohio prohibition on distributing anonymous campaign literature |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 49 | 5 | Stone v. Immigration and Naturalization Service | 93-1199 | 1995-04-19 | Merits decision | MERITS | Immigration — whether a BIA reconsideration motion tolls the deadline for judicial review |
 | 50 | 5 | Kyles v. Whitley | 93-7927 | 1995-04-19 | Merits decision | MERITS | Criminal procedure — Brady materiality of suppressed evidence in capital federal habeas |
 | 51 | 5 | Rubin v. Coors Brewing Co. | 93-1631 | 1995-04-19 | Merits decision | MERITS | Commercial speech — federal restriction on stating alcohol content on beer labels |
@@ -66,6 +78,9 @@
 | 58 | 5 | United States v. Pinson + | 94-164 | 1995-05-08 | Merits decision | MERITS | Search and seizure — warrantless thermal imaging of a home from outside |
 | 59 | 5 | Kansas v. Colorado | 105, Original | 1995-05-15 | Original proceeding: exceptions to Special Master report | ORIGINAL | Interstate water — Arkansas River Compact, post-compact well pumping, and Special Master exceptions |
 | 60 | 5 | Hubbard v. United States | 94-172 | 1995-05-15 | Merits decision | MERITS | Federal false statements — whether 18 U.S.C. § 1001 reaches statements in judicial proceedings |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 61 | 6 | City of Edmonds v. Oxford House, Inc. | 94-23 | 1995-05-15 | Merits decision | MERITS | Fair housing — whether a family-definition zoning rule is a maximum-occupancy restriction under FHA exemption |
 | 62 | 6 | Reynoldsville Casket Co. v. Hyde | 94-3 | 1995-05-15 | Merits decision | MERITS | Retroactivity — applying Bendix tolling-statute ruling to pending pre-Bendix tort claims in state court |
 | 63 | 6 | Day v. Holahan + | 94-672 | 1995-05-15 | Merits decision | MERITS | Campaign finance — expenditure-triggered public subsidies, $100 committee contribution cap, nonprofit spending exemption |
@@ -78,6 +93,9 @@
 | 70 | 6 | Garlotte v. Fordice | 94-6790 | 1995-05-30 | Merits decision | MERITS | Federal habeas — 'in custody' status under an expired sentence within consecutive sentences |
 | 71 | 6 | United States v. Wellons + | 94-496 | 1995-05-30 | Merits decision | MERITS | Search and seizure — unauthorized rental-car driver's privacy expectation in vehicle and luggage |
 | 72 | 6 | Reno v. Koray | 94-790 | 1995-06-05 | Merits decision | MERITS | Sentencing credit — community treatment center time on bail release as 'official detention' |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 73 | 7 | Metropolitan Washington Airports Authority v. Hechinger + | 94-851 | 1995-06-05 | Merits decision | MERITS | Separation of powers — revised Airports Authority Board of Review, congressional control, and presentment |
 | 74 | 7 | Missouri v. Jenkins | 93-1823 | 1995-06-12 | Merits decision | MERITS | School desegregation — remedial authority over salary increases and quality-education programs |
 | 75 | 7 | Ryder v. United States | 94-431 | 1995-06-12 | Merits decision | MERITS | Appointments Clause — Coast Guard appellate military judges and the de facto officer doctrine |
@@ -90,6 +108,9 @@
 | 82 | 7 | Commissioner v. Schleier | 94-500 | 1995-06-14 | Merits decision | MERITS | Federal income tax — section 104(a)(2) exclusion for ADEA back pay and liquidated damages |
 | 83 | 7 | Chandris, Inc. v. Latsis | 94-325 | 1995-06-14 | Merits decision | MERITS | Maritime law — Jones Act seaman status and required connection to a vessel |
 | 84 | 7 | Witte v. United States | 94-6187 | 1995-06-14 | Merits decision | MERITS | Double jeopardy — prosecution for conduct previously considered as relevant conduct at sentencing |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 85 | 8 | Gutierrez de Martinez v. Lamagno | 94-167 | 1995-06-14 | Merits decision | MERITS | Federal Tort Claims Act — judicial review of Westfall Act scope-of-employment certification |
 | 86 | 8 | Oklahoma Tax Commission v. Chickasaw Nation | 94-771 | 1995-06-14 | Merits decision | MERITS | Indian tax immunity — state fuel tax on tribal retailers; income tax on tribal employees |
 | 87 | 8 | Sandin v. Conner | 93-1911 | 1995-06-19 | Merits decision | MERITS | Prisoners' rights — due process liberty interest in disciplinary segregation |
@@ -102,6 +123,9 @@
 | 94 | 8 | Vernonia School District 47J v. Acton | 94-590 | 1995-06-26 | Merits decision | MERITS | Search and seizure — random suspicionless drug testing of public school student athletes |
 | 95 | 8 | Rosenberger v. Rector and Visitors of the University of Virginia | 94-329 | 1995-06-29 | Merits decision | MERITS | Speech and Establishment Clause — university student-fee funding of a religious student publication |
 | 96 | 8 | Babbitt v. Sweet Home Chapter of Communities for a Great Oregon | 94-859 | 1995-06-29 | Merits decision | MERITS | Endangered Species Act — whether 'harm' in the take prohibition reaches habitat modification |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 97 | 9 | Miller v. Johnson / Abrams v. Johnson / United States v. Johnson | 94-631; 94-797; 94-929 | 1995-06-29 | Merits decision | MERITS | Equal protection; voting rights — racial gerrymandering challenge to Georgia's Eleventh Congressional District |
 | 98 | 9 | Capitol Square Review and Advisory Board v. Pinette | 94-780 | 1995-06-29 | Merits decision | MERITS | Speech; Establishment Clause — private unattended cross display in a state-capitol public forum |
 | 99 | 9 | Chabad-Lubavitch of Georgia v. Miller + | 93-1047 | 1995-06-29 | Merits decision | MERITS | Speech; Establishment Clause — private unattended menorah display in a state-capitol rotunda forum |

@@ -16,6 +16,9 @@
 | 10 | 1 | Burden v. Zant | 92-8836 | 1994-01-10 | Per curiam judgment / summary disposition | MERITS | Federal habeas — presumption of correctness for state witness-immunity finding; counsel conflict of interest |
 | 11 | 1 | Ratzlaf v. United States | 92-1196 | 1994-01-11 | Signed opinion | MERITS | Federal criminal law — willfulness element for structuring cash transactions to evade reporting |
 | 12 | 1 | Thunder Basin Coal Co. v. Reich | 92-896 | 1994-01-19 | Signed opinion | MERITS | Administrative law — district court jurisdiction over pre-enforcement Mine Act challenge |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 13 | 2 | Weiss v. United States | 92-1482 | 1994-01-19 | Signed opinion | MERITS | Military justice — Appointments Clause and due process for military judges' appointment and tenure |
 | 14 | 2 | Schiro v. Farley | 92-7549 | 1994-01-19 | Signed opinion | MERITS | Capital sentencing — double jeopardy and collateral estoppel after jury silence on knowing-murder count |
 | 15 | 2 | Albright v. Oliver | 92-833 | 1994-01-24 | Signed opinion | MERITS | Civil rights — §1983 claim for prosecution without probable cause under substantive due process |
@@ -28,6 +31,9 @@
 | 22 | 2 | Department of Defense v. Federal Labor Relations Authority | 92-1223 | 1994-02-23 | Signed opinion | MERITS | Federal labor relations — union requests for employee home addresses; Privacy Act and FOIA |
 | 23 | 2 | Elder v. Holloway | 92-8579 | 1994-02-23 | Signed opinion | MERITS | Civil rights — qualified immunity; appellate review of precedent not cited below |
 | 24 | 2 | Caspari v. Bohlen | 92-1500 | 1994-02-23 | Signed opinion | MERITS | Federal habeas — Teague new-rule analysis; double jeopardy in noncapital persistent-offender sentencing |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 25 | 3 | American Dredging Co. v. Miller | 91-1950 | 1994-02-23 | Signed opinion | MERITS | Admiralty — state-court use of forum non conveniens in maritime cases |
 | 26 | 3 | Fogerty v. Fantasy, Inc. | 92-1750 | 1994-03-01 | Signed opinion | MERITS | Copyright — standard for attorney's fee awards to prevailing parties under Section 505 |
 | 27 | 3 | Campbell v. Acuff-Rose Music, Inc. | 92-1292 | 1994-03-07 | Signed opinion | MERITS | Copyright — fair use and commercial parody of a song |
@@ -40,6 +46,9 @@
 | 34 | 3 | J.E.B. v. Alabama ex rel. T.B. | 92-1239 | 1994-04-19 | Signed opinion | MERITS | Equal protection — gender-based peremptory challenges in jury selection |
 | 35 | 3 | Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A. | 92-854 | 1994-04-19 | Signed opinion | MERITS | Securities — private aiding-and-abetting liability under Section 10(b) |
 | 36 | 3 | McDermott, Inc. v. AmClyde | 92-1479 | 1994-04-20 | Signed opinion | MERITS | Admiralty — allocating damages between settling and nonsettling defendants |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 37 | 4 | Boca Grande Club, Inc. v. Florida Power & Light Co. | 93-180 | 1994-04-20 | Per curiam judgment / summary disposition | MERITS | Admiralty — contribution claims by nonsettling defendants against a settling joint tortfeasor |
 | 38 | 4 | United States v. Irvine | 92-1546 | 1994-04-20 | Signed opinion | MERITS | Federal gift tax — disclaimer of a contingent trust interest created before the gift tax |
 | 39 | 4 | Landgraf v. USI Film Products | 92-757 | 1994-04-26 | Signed opinion | MERITS | Employment discrimination — retroactivity of 1991 Civil Rights Act damages and jury-trial provisions |
@@ -52,6 +61,9 @@
 | 46 | 4 | Kokkonen v. Guardian Life Insurance Co. of America | 93-263 | 1994-05-16 | Signed opinion | MERITS | Federal jurisdiction — district court power to enforce a settlement agreement after stipulated dismissal |
 | 47 | 4 | Beecham v. United States | 93-445 | 1994-05-16 | Signed opinion | MERITS | Firearms — felon-in-possession and state restoration of civil rights for federal convictions |
 | 48 | 4 | Security Services, Inc. v. Kmart Corp. | 93-284 | 1994-05-16 | Signed opinion | MERITS | Interstate motor carriage — undercharge claims after nonpayment of rate-bureau tariff publication fees |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 49 | 5 | BFP v. Resolution Trust Corp. | 92-1370 | 1994-05-23 | Signed opinion | MERITS | Bankruptcy — fraudulent transfers; whether a noncollusive foreclosure sale price is reasonably equivalent value |
 | 50 | 5 | Staples v. United States | 92-1441 | 1994-05-23 | Signed opinion | MERITS | Criminal law — National Firearms Act mens rea for possessing an unregistered automatic weapon |
 | 51 | 5 | Custis v. United States | 93-5209 | 1994-05-23 | Signed opinion | MERITS | Sentencing — collateral attack on prior state convictions at Armed Career Criminal Act sentencing |
@@ -64,6 +76,9 @@
 | 58 | 5 | Waters v. Churchill | 92-1450 | 1994-05-31 | Signed opinion | MERITS | Speech — public employee discharge; whose account of disputed workplace speech governs the Connick inquiry |
 | 59 | 5 | PUD No. 1 of Jefferson County v. Washington Department of Ecology | 92-1911 | 1994-05-31 | Signed opinion | MERITS | Environmental law — Clean Water Act §401 certification and state minimum stream-flow conditions on hydroelectric projects |
 | 60 | 5 | Nichols v. United States | 92-8556 | 1994-06-06 | Signed opinion | MERITS | Right to counsel — sentence enhancement based on a prior uncounseled misdemeanor conviction |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 61 | 6 | Farmer v. Brennan | 92-7247 | 1994-06-06 | Signed opinion | MERITS | Eighth Amendment — prison officials' deliberate indifference to inmate assault risk |
 | 62 | 6 | Department of Revenue of Montana v. Kurth Ranch | 93-144 | 1994-06-06 | Signed opinion | MERITS | Double jeopardy — state tax on illegal drugs assessed after criminal conviction |
 | 63 | 6 | Digital Equipment Corp. v. Desktop Direct, Inc. | 93-405 | 1994-06-06 | Signed opinion | MERITS | Federal jurisdiction — collateral order appeal of order rescinding a settlement-based dismissal |
@@ -76,6 +91,9 @@
 | 70 | 6 | United States v. Carlton | 92-1941 | 1994-06-13 | Signed opinion | MERITS | Due process — retroactive application of federal estate tax amendment |
 | 71 | 6 | Department of Taxation and Finance of New York v. Milhelm Attea & Bros., Inc. | 93-377 | 1994-06-13 | Signed opinion | MERITS | Indian commerce — Indian Trader Statutes preemption of state cigarette tax quotas and recordkeeping |
 | 72 | 6 | Howlett v. Birkdale Shipping Co., S.A. | 93-670 | 1994-06-13 | Signed opinion | MERITS | Maritime law — shipowner's turnover duty to longshoremen regarding latent cargo-stow hazards |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 73 | 7 | Simmons v. South Carolina | 92-9059 | 1994-06-17 | Signed opinion | MERITS | Capital sentencing — informing the jury of parole ineligibility when future dangerousness is at issue |
 | 74 | 7 | MCI Telecommunications Corp. v. American Telephone & Telegraph Co. | 93-356; 93-521 | 1994-06-17 | Signed opinion | MERITS | Communications regulation — FCC power to 'modify' Communications Act tariff-filing rules for nondominant long-distance carriers |
 | 75 | 7 | West Lynn Creamery, Inc. v. Healy | 93-141 | 1994-06-17 | Signed opinion | MERITS | Dormant Commerce Clause — milk pricing order assessment on all sales funding subsidies to in-state dairy farmers |
@@ -88,6 +106,9 @@
 | 82 | 7 | Heck v. Humphrey | 93-6188 | 1994-06-24 | Signed opinion | MERITS | Civil rights — §1983 damages claims implicating the validity of an outstanding state conviction |
 | 83 | 7 | Davis v. United States | 92-1949 | 1994-06-24 | Signed opinion | MERITS | Self-incrimination — Miranda and Edwards; ambiguous reference to counsel during custodial interrogation |
 | 84 | 7 | Thomas Jefferson University v. Shalala | 93-120 | 1994-06-24 | Signed opinion | MERITS | Medicare reimbursement — Secretary's anti-redistribution interpretation for graduate medical education costs |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 85 | 8 | Consolidated Rail Corp. v. Gottshall | 92-1956 | 1994-06-24 | Signed opinion | MERITS | FELA — recovery for negligent infliction of emotional distress by railroad employees |
 | 86 | 8 | Shannon v. United States | 92-8346 | 1994-06-24 | Signed opinion | MERITS | Criminal procedure — jury instruction on consequences of an insanity acquittal under IDRA |
 | 87 | 8 | Turner Broadcasting System, Inc. v. FCC | 93-44 | 1994-06-27 | Signed opinion | MERITS | Speech — cable must-carry provisions and the applicable level of First Amendment scrutiny |

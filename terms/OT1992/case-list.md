@@ -16,6 +16,9 @@
 | 10 | 1 | District of Columbia v. Greater Washington Board of Trade | 91-1326 | 1992-12-14 | Merits decision | MERITS | ERISA preemption — workers' compensation health-coverage continuation measured by an ERISA plan |
 | 11 | 1 | Mississippi v. Louisiana | 91-1158 | 1992-12-14 | Merits decision | MERITS | Federal jurisdiction — § 1251(a) exclusivity and a state's third-party boundary claim against another state |
 | 12 | 1 | Republic National Bank of Miami v. United States | 91-767 | 1992-12-14 | Merits decision | MERITS | Civil forfeiture — in rem appellate jurisdiction after transfer of the res from the district |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 13 | 2 | Puerto Rico Aqueduct & Sewer Authority v. Metcalf & Eddy | 91-1010 | 1993-01-12 | Merits decision | MERITS | Federal jurisdiction — immediate appealability of Eleventh Amendment immunity denials under collateral-order doctrine |
 | 14 | 2 | Bath Iron Works Corp. v. Director, Office of Workers' Compensation Programs | 91-871 | 1993-01-12 | Merits decision | MERITS | Workers' compensation — LHWCA hearing-loss claims as scheduled injury or occupational disease for retirees |
 | 15 | 2 | Commissioner v. Soliman | 91-998 | 1993-01-12 | Merits decision | MERITS | Federal income tax — home-office deduction and principal place of business under §280A |
@@ -28,6 +31,9 @@
 | 22 | 2 | Graham v. Collins | 91-7580 | 1993-01-25 | Merits decision | MERITS | Capital sentencing — Texas special issues, youth as mitigation, and Teague new-rule analysis |
 | 23 | 2 | Zafiro v. United States | 91-6824 | 1993-01-25 | Merits decision | MERITS | Criminal procedure — severance of codefendants with mutually antagonistic defenses under Rule 14 |
 | 24 | 2 | Spectrum Sports v. McQuillan | 91-10 | 1993-01-25 | Merits decision | MERITS | Antitrust — Sherman Act §2 attempted monopolization elements and dangerous probability of success |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 25 | 3 | Lockhart v. Fretwell | 91-1393 | 1993-01-25 | Merits decision | MERITS | Capital habeas — Strickland prejudice from failure to raise since-overruled duplicative-aggravator precedent |
 | 26 | 3 | Bufferd v. Commissioner | 91-7804 | 1993-01-25 | Merits decision | MERITS | Federal tax — limitations period for assessing S corporation shareholders on pass-through items |
 | 27 | 3 | United States v. Hill | 91-1421 | 1993-01-25 | Merits decision | MERITS | Federal tax — adjusted basis in mineral property for the percentage-depletion preference, former §57(a)(8) |
@@ -40,6 +46,9 @@
 | 34 | 3 | Negonsott v. Samuels | 91-5397 | 1993-02-24 | Merits decision | MERITS | Federal Indian law — Kansas criminal jurisdiction over Indian-country offenses under the Kansas Act |
 | 35 | 3 | United States v. A Parcel of Land Known as 92 Buena Vista Avenue | 91-781 | 1993-02-24 | Merits decision | MERITS | Civil forfeiture — innocent-owner defense and relation-back for drug-proceeds real property |
 | 36 | 3 | Voinovich v. Quilter | 91-1618 | 1993-03-02 | Merits decision | MERITS | Voting rights — Section 2, Fifteenth Amendment and population challenges to state legislative apportionment |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 37 | 4 | Leatherman v. Tarrant County | 91-1657 | 1993-03-03 | Merits decision | MERITS | Civil procedure — heightened pleading for § 1983 municipal liability claims |
 | 38 | 4 | Reves v. Ernst & Young | 91-886 | 1993-03-03 | Merits decision | MERITS | Civil RICO — operation-or-management test for outside auditors under § 1962(c) |
 | 39 | 4 | Building & Construction Trades Council v. Associated Builders & Contractors (Boston Harbor) | 91-261; 91-274 | 1993-03-08 | Merits decision | MERITS | Labor law — NLRA preemption of a state agency's project labor agreement bid specification |
@@ -52,6 +61,9 @@
 | 46 | 4 | Saudi Arabia v. Nelson | 91-522 | 1993-03-23 | Merits decision | MERITS | Foreign sovereign immunity — FSIA commercial-activity exception and alleged wrongful detention |
 | 47 | 4 | Cincinnati v. Discovery Network | 91-1200 | 1993-03-24 | Merits decision | MERITS | Speech — selective ban on commercial-handbill newsracks and commercial-speech fit |
 | 48 | 4 | Pioneer Investment Services Co. v. Brunswick Associates Limited Partnership | 91-1695 | 1993-03-24 | Merits decision | MERITS | Bankruptcy — excusable neglect for late-filed proofs of claim under Rule 9006(b) |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 49 | 5 | United States v. McDermott | 91-1229 | 1993-03-24 | Merits decision | MERITS | Federal tax liens — priority against an earlier judgment lien on after-acquired real property |
 | 50 | 5 | Arave v. Creech | 91-1160 | 1993-03-30 | Merits decision | MERITS | Capital sentencing — vagueness of Idaho's utter-disregard-for-human-life aggravating circumstance |
 | 51 | 5 | Delaware v. New York | 111, Original | 1993-03-30 | Original proceeding: exceptions to Special Master report | ORIGINAL | Escheat — priority among States to unclaimed securities distributions held by intermediaries |
@@ -64,6 +76,9 @@
 | 58 | 5 | Brecht v. Abrahamson | 91-7358 | 1993-04-21 | Merits decision | MERITS | Federal habeas — harmless-error standard on collateral review for Doyle post-Miranda silence errors |
 | 59 | 5 | Withrow v. Williams | 91-1030 | 1993-04-21 | Merits decision | MERITS | Federal habeas — Stone v. Powell and Miranda claims; adjudicating unpleaded involuntariness grounds |
 | 60 | 5 | CSX Transportation, Inc. v. Easterwood | 91-790; 91-1206 | 1993-04-21 | Merits decision | MERITS | Federal preemption — railroad safety regulations and state grade-crossing warning and speed negligence claims |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 61 | 6 | United States v. Olano | 91-1306 | 1993-04-26 | Merits decision | MERITS | Criminal procedure — plain-error review of alternate jurors present during deliberations |
 | 62 | 6 | United States v. California | 91-2003 | 1993-04-26 | Merits decision | MERITS | Federal remedies — recovery of state taxes reimbursed to a federal contractor |
 | 63 | 6 | Edenfield v. Fane | 91-1594 | 1993-04-26 | Merits decision | MERITS | Commercial speech — state ban on in-person solicitation by certified public accountants |
@@ -76,6 +91,9 @@
 | 70 | 6 | United States v. Padilla | 92-207 | 1993-05-03 | Per curiam decision after merits submission | MERITS | Search and seizure — coconspirator standing to seek Fourth Amendment suppression |
 | 71 | 6 | Blodgett v. Campbell | A-851 | 1993-05-14 | Application to vacate court of appeals remand order | APPLICATION | Capital habeas — application to vacate en banc remand for evidentiary hearing on hanging |
 | 72 | 6 | Cardinal Chemical Co. v. Morton International, Inc. | 92-114 | 1993-05-17 | Merits decision | MERITS | Patent law — mootness of invalidity counterclaim after affirmance of noninfringement |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 73 | 7 | McNeil v. United States | 92-6033 | 1993-05-17 | Merits decision | MERITS | Federal Tort Claims Act — administrative exhaustion completed after suit was filed |
 | 74 | 7 | Oklahoma Tax Commission v. Sac and Fox Nation | 92-259 | 1993-05-17 | Merits decision | MERITS | Indian law — state income and vehicle taxes on tribal members in Indian country |
 | 75 | 7 | Deal v. United States | 91-8199 | 1993-05-17 | Merits decision | MERITS | Federal sentencing — §924(c) second-or-subsequent conviction for counts in a single prosecution |
@@ -88,6 +106,9 @@
 | 82 | 7 | Smith v. United States | 91-8674 | 1993-06-01 | Merits decision | MERITS | Federal criminal law — trading a firearm for drugs as use under §924(c)(1) |
 | 83 | 7 | Mertens v. Hewitt Associates | 91-1671 | 1993-06-01 | Merits decision | MERITS | ERISA — scope of appropriate equitable relief against nonfiduciary participants in fiduciary breach |
 | 84 | 7 | Musick, Peeler & Garrett v. Employers Insurance of Wausau | 92-34 | 1993-06-01 | Merits decision | MERITS | Securities — contribution among jointly liable defendants under the implied Rule 10b-5 action |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 85 | 8 | FCC v. Beach Communications, Inc. | 92-603 | 1993-06-01 | Merits decision | MERITS | Equal protection — rational-basis review of Cable Act exemption for common-ownership multiunit facilities |
 | 86 | 8 | Nobelman v. American Savings Bank | 92-641 | 1993-06-01 | Merits decision | MERITS | Bankruptcy — Chapter 13 modification of undersecured home mortgage claims under §§506(a), 1322(b)(2) |
 | 87 | 8 | Lamb's Chapel v. Center Moriches | 91-2024 | 1993-06-07 | Merits decision | MERITS | Speech and religion — church's after-hours use of school facilities for a religious film series |
@@ -100,6 +121,9 @@
 | 94 | 8 | Church of Lukumi Babalu Aye v. Hialeah | 91-948 | 1993-06-11 | Merits decision | MERITS | Free exercise — municipal ordinances regulating ritual animal sacrifice |
 | 95 | 8 | Wisconsin v. Mitchell | 92-515 | 1993-06-11 | Merits decision | MERITS | Speech — sentence enhancement for intentionally selecting a victim because of race |
 | 96 | 8 | Department of Treasury v. Fabe | 91-1513 | 1993-06-11 | Merits decision | MERITS | Insurance and federal priority — McCarran-Ferguson Act and state insurer-liquidation priorities |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 97 | 9 | Northeastern Florida Chapter, AGC v. Jacksonville | 91-1721 | 1993-06-14 | Merits decision | MERITS | Equal protection; justiciability — contractors' standing and mootness in challenging a minority set-aside ordinance |
 | 98 | 9 | South Dakota v. Bourland | 91-2051 | 1993-06-14 | Merits decision | MERITS | Indian law — tribal regulation of non-Indian hunting and fishing on federally taken reservoir lands |
 | 99 | 9 | Local 144 Nursing Home Pension Fund v. Demisay | 91-610 | 1993-06-14 | Merits decision | MERITS | Labor and pension law — LMRA §302(e) court authority over transfer of pension fund assets |
@@ -112,6 +136,9 @@
 | 106 | 9 | Brooke Group v. Brown & Williamson | 92-466 | 1993-06-21 | Merits decision | MERITS | Antitrust — Robinson-Patman primary-line predatory pricing claim in an oligopolistic cigarette market |
 | 107 | 9 | Darby v. Cisneros | 91-2045 | 1993-06-21 | Merits decision | MERITS | Administrative law — APA §10(c) and court-imposed exhaustion of HUD administrative appeals |
 | 108 | 9 | Johnson v. Texas | 92-5653 | 1993-06-24 | Merits decision | MERITS | Capital sentencing — Texas special issues and jury consideration of a defendant's youth |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 109 | 10 | Godinez v. Moran | 92-725 | 1993-06-24 | Merits decision | MERITS | Criminal procedure — competency standard for pleading guilty or waiving counsel |
 | 110 | 10 | Heller v. Doe | 92-351 | 1993-06-24 | Merits decision | MERITS | Equal protection and due process — Kentucky involuntary commitment procedures for intellectual disability |
 | 111 | 10 | Buckley v. Fitzsimmons | 91-7849 | 1993-06-24 | Merits decision | MERITS | Civil rights; § 1983 — prosecutorial absolute immunity for investigative conduct and press statements |
@@ -124,6 +151,9 @@
 | 118 | 10 | Daubert v. Merrell Dow Pharmaceuticals | 92-102 | 1993-06-28 | Merits decision | MERITS | Evidence — admissibility standard for scientific expert testimony under Federal Rules |
 | 119 | 10 | Austin v. United States | 92-6073 | 1993-06-28 | Merits decision | MERITS | Excessive Fines Clause — application to federal civil in rem drug forfeiture |
 | 120 | 10 | Hartford Fire Insurance v. California | 91-1111; 91-1128 | 1993-06-28 | Merits decision | MERITS | Antitrust — McCarran-Ferguson boycott exception and extraterritorial Sherman Act reach over London reinsurers |
+
+| No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
+|---:|---:|---|---|---|---|---|---|
 | 121 | 11 | Alexander v. United States | 91-1526 | 1993-06-28 | Merits decision | MERITS | Speech and Excessive Fines — RICO forfeiture of an adult-media business after obscenity convictions |
 | 122 | 11 | Delo v. Blair | A-69 | 1993-07-21 | Application to vacate execution stay | APPLICATION | Capital habeas — application to vacate a stay on a successive actual-innocence petition |
 | 123 | 11 | DeBoer v. DeBoer | A-64 | 1993-07-26 | Application for stay of state custody-enforcement order | APPLICATION | Child custody and interstate recognition — application to stay a state custody-transfer order pending review |
