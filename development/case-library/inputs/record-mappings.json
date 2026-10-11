@@ -1,0 +1,53 @@
+{
+  "format": "case-library-record-mappings-v1",
+  "mappings": [
+    {
+      "term": "OT1991",
+      "inventory_caption": "Freeman v. Pitts",
+      "inventory_date": "1992-03-31",
+      "inventory_dockets": "89-1290",
+      "record": "Freeman_v_Pitts_merits_1992-03-31.md",
+      "evidence_quote": "**Natural event key:** Freeman v. Pitts, No. 89-1290, merits 1992-03-31."
+    },
+    {
+      "term": "OT1991",
+      "inventory_caption": "Gomez v. United States District Court for the Northern District of California",
+      "inventory_date": "1992-04-21",
+      "inventory_dockets": "A-767",
+      "record": "Gomez_v_United_States_District_Court_application_to_vacate_stay_1992-04-21.md",
+      "evidence_quote": "# Canonical Decision Record — Gomez v. United States District Court for the Northern District of California"
+    },
+    {
+      "term": "OT1991",
+      "inventory_caption": "Vasquez v. Harris",
+      "inventory_date": "1992-04-21",
+      "inventory_dockets": "A-766",
+      "record": "Vasquez_v_Harris_A-766_application_to_vacate_stay_1992-04-21.md",
+      "evidence_quote": "# Canonical Decision Record — Vasquez v. Harris, No. A-766"
+    },
+    {
+      "term": "OT1991",
+      "inventory_caption": "Vasquez v. Harris",
+      "inventory_date": "1992-04-21",
+      "inventory_dockets": "A-768",
+      "record": "Vasquez_v_Harris_A-768_application_to_vacate_stay_1992-04-21.md",
+      "evidence_quote": "# Canonical Decision Record — Vasquez v. Harris, No. A-768"
+    },
+    {
+      "term": "OT1991",
+      "inventory_caption": "International Society for Krishna Consciousness, Inc. v. Lee",
+      "inventory_date": "1992-06-26",
+      "inventory_dockets": "91-155",
+      "record": "International_Society_for_Krishna_Consciousness_Inc_v_Lee_merits_1992-06-26.md",
+      "evidence_quote": "International Society for Krishna Consciousness, Inc. v. Lee, No. 91-155; October Term 1991."
+    },
+    {
+      "term": "OT1991",
+      "inventory_caption": "Lee v. International Society for Krishna Consciousness, Inc.",
+      "inventory_date": "1992-06-26",
+      "inventory_dockets": "91-339",
+      "record": "Lee_v_International_Society_for_Krishna_Consciousness_Inc_merits_1992-06-26.md",
+      "evidence_quote": "Lee v. International Society for Krishna Consciousness, Inc., No. 91-339; October Term 1991."
+    }
+  ]
+}

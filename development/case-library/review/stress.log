@@ -1,0 +1,17 @@
+test_simultaneous_first_builds_publish_one_snapshot_and_retry_cleanly (test_lifecycle.LifecycleTests.test_simultaneous_first_builds_publish_one_snapshot_and_retry_cleanly) ... ok
+test_simultaneous_first_builds_publish_one_snapshot_and_retry_cleanly (test_lifecycle.LifecycleTests.test_simultaneous_first_builds_publish_one_snapshot_and_retry_cleanly) ... ok
+test_simultaneous_first_builds_publish_one_snapshot_and_retry_cleanly (test_lifecycle.LifecycleTests.test_simultaneous_first_builds_publish_one_snapshot_and_retry_cleanly) ... ok
+test_simultaneous_first_builds_publish_one_snapshot_and_retry_cleanly (test_lifecycle.LifecycleTests.test_simultaneous_first_builds_publish_one_snapshot_and_retry_cleanly) ... ok
+test_simultaneous_first_builds_publish_one_snapshot_and_retry_cleanly (test_lifecycle.LifecycleTests.test_simultaneous_first_builds_publish_one_snapshot_and_retry_cleanly) ... ok
+test_simultaneous_first_builds_publish_one_snapshot_and_retry_cleanly (test_lifecycle.LifecycleTests.test_simultaneous_first_builds_publish_one_snapshot_and_retry_cleanly) ... ok
+test_killed_writer_releases_process_lock_without_stale_lock_cleanup (test_lifecycle.LifecycleTests.test_killed_writer_releases_process_lock_without_stale_lock_cleanup) ... ok
+test_killed_writer_releases_process_lock_without_stale_lock_cleanup (test_lifecycle.LifecycleTests.test_killed_writer_releases_process_lock_without_stale_lock_cleanup) ... ok
+test_killed_writer_releases_process_lock_without_stale_lock_cleanup (test_lifecycle.LifecycleTests.test_killed_writer_releases_process_lock_without_stale_lock_cleanup) ... ok
+test_source_edit_at_publication_rolls_back_pointer_without_losing_edit (test_lifecycle.LifecycleTests.test_source_edit_at_publication_rolls_back_pointer_without_losing_edit) ... ok
+test_source_edit_at_publication_rolls_back_pointer_without_losing_edit (test_lifecycle.LifecycleTests.test_source_edit_at_publication_rolls_back_pointer_without_losing_edit) ... ok
+test_source_edit_at_publication_rolls_back_pointer_without_losing_edit (test_lifecycle.LifecycleTests.test_source_edit_at_publication_rolls_back_pointer_without_losing_edit) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 1.059s
+
+OK

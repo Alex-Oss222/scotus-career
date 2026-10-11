@@ -1,0 +1,28 @@
+{
+  "snapshot": "development/case-library/builds/94795938180682ff581c7ddeca4921514fd4b8a90365224ea0d5bb4bcf09d0fb",
+  "records": 575,
+  "terms": {
+    "OT1991": 126,
+    "OT1992": 126,
+    "OT1993": 96,
+    "OT1994": 101,
+    "OT1995": 126
+  },
+  "local_links": 19372,
+  "external_pointers": 1987,
+  "fragment_links": 581,
+  "load_seconds": 0.876,
+  "filter_combinations": 270,
+  "filter_seconds": 0.201,
+  "search_cases": 5,
+  "ot1995_visible": 126,
+  "mobile_widths": [
+    320,
+    375,
+    768,
+    1280
+  ],
+  "no_javascript_visible": 575,
+  "browser_errors": [],
+  "automatic_external_requests": 0
+}

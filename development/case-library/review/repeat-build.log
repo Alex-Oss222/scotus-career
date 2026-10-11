@@ -1,0 +1,115 @@
+Reused /workspace/scotus-career/development/case-library/builds/94795938180682ff581c7ddeca4921514fd4b8a90365224ea0d5bb4bcf09d0fb
+{
+  "production_integration": false,
+  "snapshot": "94795938180682ff581c7ddeca4921514fd4b8a90365224ea0d5bb4bcf09d0fb",
+  "terms": [
+    {
+      "term": "OT1991",
+      "record_count": 126,
+      "court_event_count": 125,
+      "admitted_source_count": 1,
+      "inventory_count": 124,
+      "mapped_inventory_count": 124,
+      "chunks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "term": "OT1992",
+      "record_count": 126,
+      "court_event_count": 123,
+      "admitted_source_count": 3,
+      "inventory_count": 123,
+      "mapped_inventory_count": 123,
+      "chunks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "term": "OT1993",
+      "record_count": 96,
+      "court_event_count": 95,
+      "admitted_source_count": 1,
+      "inventory_count": 95,
+      "mapped_inventory_count": 95,
+      "chunks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "term": "OT1994",
+      "record_count": 101,
+      "court_event_count": 99,
+      "admitted_source_count": 2,
+      "inventory_count": 99,
+      "mapped_inventory_count": 99,
+      "chunks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "term": "OT1995",
+      "record_count": 126,
+      "court_event_count": 116,
+      "admitted_source_count": 10,
+      "inventory_count": 115,
+      "mapped_inventory_count": 115,
+      "chunks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    }
+  ],
+  "carryovers": 12,
+  "warnings": {
+    "inventory": 0,
+    "record_notes": 362
+  },
+  "distinct_citation_strings": 3248
+}

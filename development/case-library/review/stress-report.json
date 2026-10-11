@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "targeted_stress_runs": 12,
+  "concurrent_writer_rounds": 6,
+  "concurrent_writer_attempts": 18,
+  "killed_writer_recoveries": 3,
+  "publication_race_rollbacks": 3,
+  "fixtures_only": true
+}

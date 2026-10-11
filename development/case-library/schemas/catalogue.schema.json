@@ -1,0 +1,539 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "development_only",
+    "production_integration",
+    "scope",
+    "terms",
+    "records",
+    "inventory",
+    "carryovers",
+    "warnings",
+    "sources",
+    "directory_memberships",
+    "citation_index"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": 2
+    },
+    "development_only": {
+      "const": true
+    },
+    "production_integration": {
+      "const": false
+    },
+    "scope": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "terms",
+        "source_revision"
+      ],
+      "properties": {
+        "terms": {
+          "type": "array",
+          "items": {
+            "enum": [
+              "OT1991",
+              "OT1992",
+              "OT1993",
+              "OT1994",
+              "OT1995"
+            ]
+          },
+          "minItems": 1,
+          "uniqueItems": true
+        },
+        "source_revision": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{40}$"
+        }
+      }
+    },
+    "terms": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "term",
+          "record_count",
+          "court_event_count",
+          "admitted_source_count",
+          "inventory_count",
+          "mapped_inventory_count",
+          "chunks"
+        ],
+        "properties": {
+          "term": {
+            "enum": [
+              "OT1991",
+              "OT1992",
+              "OT1993",
+              "OT1994",
+              "OT1995"
+            ]
+          },
+          "record_count": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "court_event_count": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "admitted_source_count": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "inventory_count": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "mapped_inventory_count": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "chunks": {
+            "type": "array",
+            "items": {
+              "type": "integer",
+              "minimum": 1
+            }
+          }
+        }
+      }
+    },
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "record_id",
+          "term",
+          "path",
+          "sha256",
+          "kind",
+          "metadata",
+          "title",
+          "event_date",
+          "effective_date",
+          "chunks",
+          "inventory_refs",
+          "references",
+          "citations",
+          "sections",
+          "warnings",
+          "curation"
+        ],
+        "properties": {
+          "record_id": {
+            "type": "string",
+            "pattern": "^[a-z0-9][a-z0-9._-]*$"
+          },
+          "term": {
+            "enum": [
+              "OT1991",
+              "OT1992",
+              "OT1993",
+              "OT1994",
+              "OT1995"
+            ]
+          },
+          "path": {
+            "type": "string"
+          },
+          "sha256": {
+            "type": "string",
+            "pattern": "^[a-f0-9]{64}$"
+          },
+          "kind": {
+            "enum": [
+              "court_event",
+              "admitted_source"
+            ]
+          },
+          "metadata": {
+            "type": "object",
+            "additionalProperties": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          },
+          "title": {
+            "type": "string"
+          },
+          "event_date": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "date"
+          },
+          "effective_date": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "date"
+          },
+          "chunks": {
+            "type": "array",
+            "items": {
+              "type": "integer",
+              "minimum": 1
+            }
+          },
+          "inventory_refs": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "path",
+                "line",
+                "caption",
+                "dockets",
+                "area_of_law"
+              ],
+              "properties": {
+                "path": {
+                  "type": "string"
+                },
+                "line": {
+                  "type": "integer",
+                  "minimum": 1
+                },
+                "caption": {
+                  "type": "string"
+                },
+                "dockets": {
+                  "type": "string"
+                },
+                "area_of_law": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "references": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "kind",
+                "target",
+                "source_path",
+                "line",
+                "section",
+                "review_status",
+                "material_kind"
+              ],
+              "properties": {
+                "kind": {
+                  "enum": [
+                    "external",
+                    "repository",
+                    "missing"
+                  ]
+                },
+                "target": {
+                  "type": "string"
+                },
+                "source_path": {
+                  "type": "string"
+                },
+                "line": {
+                  "type": "integer",
+                  "minimum": 1
+                },
+                "section": {
+                  "type": "string"
+                },
+                "review_status": {
+                  "const": "unverified"
+                },
+                "material_kind": {
+                  "enum": [
+                    "historical",
+                    "mixed",
+                    "unknown"
+                  ]
+                }
+              }
+            }
+          },
+          "citations": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "text",
+                "source_path",
+                "line",
+                "section"
+              ],
+              "properties": {
+                "text": {
+                  "type": "string"
+                },
+                "source_path": {
+                  "type": "string"
+                },
+                "line": {
+                  "type": "integer",
+                  "minimum": 1
+                },
+                "section": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "sections": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "title",
+                "line",
+                "level"
+              ],
+              "properties": {
+                "title": {
+                  "type": "string"
+                },
+                "line": {
+                  "type": "integer",
+                  "minimum": 1
+                },
+                "level": {
+                  "type": "integer",
+                  "minimum": 1,
+                  "maximum": 6
+                }
+              }
+            }
+          },
+          "warnings": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "curation": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "aliases",
+              "notes",
+              "extensions"
+            ],
+            "properties": {
+              "aliases": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "notes": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "extensions": {
+                "type": "object",
+                "additionalProperties": {
+                  "type": "object"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "inventory": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "term",
+          "path",
+          "line",
+          "columns",
+          "raw",
+          "resolved_record_ids",
+          "section"
+        ],
+        "properties": {
+          "term": {
+            "enum": [
+              "OT1991",
+              "OT1992",
+              "OT1993",
+              "OT1994",
+              "OT1995"
+            ]
+          },
+          "path": {
+            "type": "string"
+          },
+          "line": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "columns": {
+            "type": "object",
+            "additionalProperties": {
+              "type": "string"
+            }
+          },
+          "raw": {
+            "type": "string"
+          },
+          "resolved_record_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "section": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "carryovers": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "path",
+          "line",
+          "columns",
+          "raw",
+          "term",
+          "resolved_record_ids"
+        ],
+        "properties": {
+          "path": {
+            "type": "string"
+          },
+          "line": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "columns": {
+            "type": "object",
+            "additionalProperties": {
+              "type": "string"
+            }
+          },
+          "raw": {
+            "type": "string"
+          },
+          "term": {
+            "enum": [
+              "OT1991",
+              "OT1992",
+              "OT1993",
+              "OT1994",
+              "OT1995"
+            ]
+          },
+          "resolved_record_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "warnings": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "sources": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "sha256",
+          "size"
+        ],
+        "properties": {
+          "sha256": {
+            "type": "string",
+            "pattern": "^[a-f0-9]{64}$"
+          },
+          "size": {
+            "type": "integer",
+            "minimum": 0
+          }
+        }
+      }
+    },
+    "directory_memberships": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      }
+    },
+    "citation_index": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "record_id",
+            "text",
+            "source_path",
+            "line",
+            "section"
+          ],
+          "properties": {
+            "record_id": {
+              "type": "string"
+            },
+            "text": {
+              "type": "string"
+            },
+            "source_path": {
+              "type": "string"
+            },
+            "line": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "section": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
+  },
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Isolated source-library rebuild catalogue, version 2"
+}

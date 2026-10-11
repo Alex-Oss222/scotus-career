@@ -1,0 +1,2 @@
+builds/** linguist-generated=true
+review/*.log linguist-generated=true

@@ -1,0 +1,19 @@
+{
+  "schema_version": 2,
+  "development_only": true,
+  "production_integration": false,
+  "status": "rebuilt_and_caught_up_through_closed_OT1995",
+  "snapshot": "94795938180682ff581c7ddeca4921514fd4b8a90365224ea0d5bb4bcf09d0fb",
+  "source_baseline": "672abecfcb0a47c98e47b29ff02104f8b9ad6e74",
+  "counts": {
+    "record_count": 575,
+    "court_events": 558,
+    "admitted_sources": 17,
+    "inventory_rows": 556,
+    "mapped_inventory_rows": 556,
+    "carryovers": 12
+  },
+  "validation_report": "review/rebuild-validation.json",
+  "original_id_registry_recovered": false,
+  "historical_remote_sources_verified": false
+}

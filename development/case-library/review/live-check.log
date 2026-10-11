@@ -1,0 +1,114 @@
+{
+  "production_integration": false,
+  "snapshot": "94795938180682ff581c7ddeca4921514fd4b8a90365224ea0d5bb4bcf09d0fb",
+  "terms": [
+    {
+      "admitted_source_count": 1,
+      "chunks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "court_event_count": 125,
+      "inventory_count": 124,
+      "mapped_inventory_count": 124,
+      "record_count": 126,
+      "term": "OT1991"
+    },
+    {
+      "admitted_source_count": 3,
+      "chunks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "court_event_count": 123,
+      "inventory_count": 123,
+      "mapped_inventory_count": 123,
+      "record_count": 126,
+      "term": "OT1992"
+    },
+    {
+      "admitted_source_count": 1,
+      "chunks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "court_event_count": 95,
+      "inventory_count": 95,
+      "mapped_inventory_count": 95,
+      "record_count": 96,
+      "term": "OT1993"
+    },
+    {
+      "admitted_source_count": 2,
+      "chunks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "court_event_count": 99,
+      "inventory_count": 99,
+      "mapped_inventory_count": 99,
+      "record_count": 101,
+      "term": "OT1994"
+    },
+    {
+      "admitted_source_count": 10,
+      "chunks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "court_event_count": 116,
+      "inventory_count": 115,
+      "mapped_inventory_count": 115,
+      "record_count": 126,
+      "term": "OT1995"
+    }
+  ],
+  "carryovers": 12,
+  "warnings": {
+    "inventory": 0,
+    "record_notes": 362
+  },
+  "distinct_citation_strings": 3248
+}
