@@ -1,16 +1,16 @@
 # OT1996 Current-Term Neutral Projection
 
-**Posture:** Before the first supplied OT1996 event. No current-term Court action or source change is effective. The opening baseline is not yet validated because publication editions differ and prior pending-docket sources conflict with the supplied opening setting. Do not begin modeling until those source conflicts are reconciled.
+**Posture:** Before the first supplied OT1996 event. No current-term Court action or source change is effective. Opening validation is complete. The three publication editions agree, and the express opening inventory decision resolves the prior pending-docket conflict. Each later event remains subject to its required neutral intake and Run validation.
 
 ## Opening authorities and chronology
 
-All three opening trackers identify **Last completed October Term: 1995** and **Processed through: July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events.** Their exact editions differ:
+All three opening trackers identify **Last completed October Term: 1995** and **Processed through: July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events.** Their common publication edition is **October 7, 2026**:
 
 | Opening authority | Edition |
 |---|---|
 | [Holdings continuous view](../../../state/HOLDINGS.md), synchronized with the [doctrinal volumes](../../../state/holdings/INDEX.md) | October 7, 2026 |
 | [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md) | October 7, 2026 |
-| [Standing State](../../../state/STANDING_STATE.md) | October 11, 2026 |
+| [Standing State](../../../state/STANDING_STATE.md) | October 7, 2026 |
 
 The divergence point is October 7, 1991, when Alex-Lamar Stone-Zsela replaces Rehnquist as Chief Justice. [Court Composition](../../../foundation/COURT_COMPOSITION.md) governs membership, seniority and circuit allotments.
 
@@ -74,23 +74,17 @@ No term-wide recusal or additional established nonparticipation is supplied. Rev
 
 ## Public procedure and planning dependencies
 
-Standing State §4 lists 58 granted lower-court cases awaiting merits consideration; their exact questions and docket designations remain at that source. Each is represented once in the manifest. The supplied opening setting lists no carried-over matter. Prior final sources nevertheless retain pending matters; the conflict below is unresolved, and omission from the calendar is not a terminal disposition.
+Standing State §4 lists 58 granted lower-court cases awaiting merits consideration; their exact questions and docket designations remain at that source. Each is represented once in the manifest. The supplied opening setting has no prior-term carryover, under the express inventory reconciliation below.
 
 The three financial-leave/filing-control items are In re Gaydos, In re Vey and Vey v. Clinton. Lords Landing is petition-stage possible GVR; Grimmett and Adams are post-grant threshold/possible-DIG items; United States v. Alaska concerns original jurisdiction and Special Master exceptions. No contemplated outcome has occurred. Other inventory labels require the ordinary neutral posture and reachability checks.
 
 Same-day groups use the date as their natural key. There are 48 dates, 28 multi-matter groups and eleven groups across chunk boundaries. Preserve the common entering-law baseline of uncoordinated peers; row or chunk order creates no dependency. No special coordination is established at opening. The manifest identifies the cross-chunk groups.
 
-## Published positions
+### Opening docket reconciliation
 
-There are no OT1996 published writings or positions. Relevant prior public writings remain available from earlier terms' public renders and enter only when date-eligible and material. This handoff includes no private position, historical comparator, provisional commitment, reconciliation or audit annex.
+By the user's express inventory instruction of October 11, 2026, the following twelve matters listed as pending in the OT1995 final sources are removed from the simulation's docket and are not carried into OT1996. The supplied term list controls membership; the opening manifest therefore contains its 153 planned matters, including the 58 granted additions, and no prior-term carryover.
 
-## Unresolved opening source conflicts
-
-The opening trackers' editions differ: Holdings and Standards and Tests, October 7, 2026; Standing State, October 11, 2026. Their last completed term and July 1, 1996 cutoff agree. This projection does not resolve the required publication synchronization.
-
-The prior final public procedural state also requires reconciliation with the no-carryover opening setting:
-
-| Prior source's pending matter | Docket |
+| Matter removed from the simulation docket | Docket |
 |---|---|
 | Wyoming v. Oklahoma | 112, Original |
 | United States v. Louisiana, Alabama and Mississippi | 9, Original |
@@ -105,8 +99,16 @@ The prior final public procedural state also requires reconciliation with the no
 | Shieh petition | 95-7588 |
 | Shieh petition | 95-7589 |
 
-Sources: [OT1995 final manifest](../../OT1995/workspace/manifest.md), [final continuity](../../OT1995/workspace/continuity.md), and [Term-Close Dossier, Final manifest, continuity and carry-forward](../../OT1995/close/TERM_CLOSE_DOSSIER.md#final-manifest-continuity-and-carry-forward). These are a conflict register, not twelve scheduled OT1996 events. No date, Court disposition or continuity closure is supplied here.
+Prior-source references: [OT1995 final manifest](../../OT1995/workspace/manifest.md), [final continuity](../../OT1995/workspace/continuity.md), and [Term-Close Dossier, Final manifest, continuity and carry-forward](../../OT1995/close/TERM_CLOSE_DOSSIER.md#final-manifest-continuity-and-carry-forward). Their pending descriptions remain an unchanged account of OT1995; the express opening inventory decision resolves which matters continue in the simulation. The three Shieh petitions are distinct removals.
 
-Wood retains a plenary grant; the three Shieh petitions remain separate. In [Jones's February 26, 1996 Record](../../OT1995/records/Jones_v_ABC_TV_filing_order_1996-02-26.md), financial leave and certiorari remain pending. Its exact blocker is authentication of the prescribed Rule 39.1 motion and notarized Form 4 affidavit or a declaration under 28 U.S.C. §1746 establishing the required financial particulars, or a supported applicable alternative basis, including an established qualifying appointed-counsel exception. Missing research support establishes neither nonfiling nor default. No refiling duty, payment deadline, decision date or terminal disposition is established.
+This is an inventory reconciliation, not a Court disposition or a terminal continuity closure. No terminal action, decision date, vote or holding is attributed to any removed matter. October 11, 2026 identifies the user's instruction, not an in-world Court event. No filing default, deadline or resolution of pending relief is inferred. Completed adjudications, the OT1995 files and the July 1, 1996 chronology cursor remain unchanged. The removed matters supply no OT1996 pending-docket blocker.
+
+## Published positions
+
+There are no OT1996 published writings or positions. Relevant prior public writings remain available from earlier terms' public renders and enter only when date-eligible and material. This handoff includes no private position, historical comparator, provisional commitment, reconciliation or audit annex.
+
+## Opening validation and later intake
+
+The three opening trackers share the October 7, 2026 edition, OT1995 last-completed term and July 1, 1996 cutoff. Holdings volumes and the continuous view are synchronized. No unresolved opening source conflict remains.
 
 Chunk briefs have not been supplied; their expected absence is not an opening blocker. No post-cutoff external event was researched or admitted during opening. The projection changes no law, procedure, pending relief or case disposition.

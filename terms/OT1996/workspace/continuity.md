@@ -1,22 +1,22 @@
 # OT1996 Term Continuity Note
 
-**Opening status:** Prepared, not certified open. Four workspace files exist; the baseline conflicts in block 6 prevent full opening validation. Records control over this projection.
+**Opening status:** Complete after revalidation on October 11, 2026. All four workspace files are validated; the publication and pending-docket conflicts are resolved. Records control over this projection.
 
 ## 1. Scope and Chronology Cursor
 
-All three opening trackers identify **Last completed October Term: 1995** and **Processed through: July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events.** Their exact editions differ:
+All three opening trackers identify **Last completed October Term: 1995** and **Processed through: July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events.** Their common publication edition is **October 7, 2026**:
 
 | Opening authority | Edition |
 |---|---|
 | [Holdings continuous view](../../../state/HOLDINGS.md), synchronized with the [doctrinal volumes](../../../state/holdings/INDEX.md) | October 7, 2026 |
 | [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md) | October 7, 2026 |
-| [Standing State](../../../state/STANDING_STATE.md) | October 11, 2026 |
+| [Standing State](../../../state/STANDING_STATE.md) | October 7, 2026 |
 
 The divergence point is October 7, 1991, when Alex-Lamar Stone-Zsela replaces Rehnquist as Chief Justice. [Court Composition](../../../foundation/COURT_COMPOSITION.md) governs membership, seniority and circuit allotments.
 
-The current manifest is [manifest.md](manifest.md): 153 supplied items, including all 58 sim-granted additions, no new scheduled carryover, and no changed date or same-day order. The term-opening posture is before the first supplied event. The carried completed-event cursor remains **1996-07-01**; opening does not advance it. There are zero OT1996 Court events or admitted source changes.
+The current manifest is [manifest.md](manifest.md): 153 supplied items, including all 58 sim-granted additions, no prior-term carryover under the express opening inventory decision, and no changed date or same-day order. The term-opening posture is before the first supplied event. The carried completed-event cursor remains **1996-07-01**; opening does not advance it. There are zero OT1996 Court events or admitted source changes.
 
-The next calendar item, once opening validation is resolved and Run intake is ready, is **Department of State v. Legal Assistance for Vietnamese Asylum Seekers, Inc., No. 95-1521, October 21, 1996**, listed as an argued post-grant intervening-law disposition. This is a planning anchor, not a disposition.
+The next calendar item, once Run intake is ready, is **Department of State v. Legal Assistance for Vietnamese Asylum Seekers, Inc., No. 95-1521, October 21, 1996**, listed as an argued post-grant intervening-law disposition. This is a planning anchor, not a disposition.
 
 ### Latest completed events from every earlier term
 
@@ -36,7 +36,7 @@ None in OT1996. The [ledger](ledger.md) has zero entries; no correction, Court o
 
 ## 3. Current Law
 
-There is no OT1996 controlling proposition, admitted noncase-law change, precedent treatment, remedy or reusable-rule amendment. The opening Holdings volumes and Standards and Tests supply the carried law through July 1, 1996, subject to the publication conflict; they are referenced, not rewritten into a new source of law. No unresolved fractured-decision question is resolved by opening.
+There is no OT1996 controlling proposition, admitted noncase-law change, precedent treatment, remedy or reusable-rule amendment. The opening Holdings volumes and Standards and Tests supply the carried law through July 1, 1996; they are referenced, not rewritten into a new source of law. No unresolved fractured-decision question is resolved by opening.
 
 The ten noncase-law sources admitted in OT1995 remain part of that baseline within their own scope and temporal limits. Consult their [effective-order source register](../../OT1995/close/TERM_CLOSE_DOSSIER.md#admitted-sources-in-effective-order) and underlying Records when implicated. In particular, the FY1996 Medicaid continuation retains its earliest-ending-event condition and supplies no presumed FY1997 continuation; Telecommunications Act §505 has a separate March 9, 1996 amendment-effective date; North Carolina's paternity provision retains its October 1, 1998 expiration. This note makes no independent finding about a later triggering event, expiration or statutory application.
 
@@ -100,12 +100,11 @@ The three financial-leave/filing-control items remain applications as listed. Lo
 
 All nine seats are occupied. No new vacancy, oath condition, term-wide recusal or OT1996 allotment change is established. Case-specific nonparticipation must be revalidated; a prior absence is not a blanket recusal. Dates name same-day groups, including the eleven groups spanning chunks in the manifest. Uncoordinated peers share their entering-law baseline.
 
-## 6. Blockers and Revalidation Needs
+### Opening docket reconciliation
 
-1. **Publication synchronization:** Standing State is dated October 11, 2026; Holdings and Standards and Tests are dated October 7, 2026. The three publication templates and Engine §13 require identical editions. The legal cutoff matches, but the opening set cannot be certified synchronized. No source header has been normalized or replaced.
-2. **Prior-term pending docket:** The current opening instruction and Standing State §4 supply 58 sim-granted cases and no carried-over matter. The OT1995 final manifest, continuity note and close dossier explicitly retain twelve pending matters. The opening calendar follows the supplied 153-item inventory and adds no carryover; that does not enter a terminal action or resolve the prior sources. Reconcile this conflict before the first adjudication. The natural matters and source locations appear below.
+By the user's express inventory instruction of October 11, 2026, the following twelve matters listed as pending in the OT1995 final sources are removed from the simulation's docket and are not carried into OT1996. The supplied term list controls membership; the opening manifest therefore contains its 153 planned matters, including the 58 granted additions, and no prior-term carryover.
 
-| Prior source's pending matter | Docket |
+| Matter removed from the simulation docket | Docket |
 |---|---|
 | Wyoming v. Oklahoma | 112, Original |
 | United States v. Louisiana, Alabama and Mississippi | 9, Original |
@@ -120,9 +119,13 @@ All nine seats are occupied. No new vacancy, oath condition, term-wide recusal o
 | Shieh petition | 95-7588 |
 | Shieh petition | 95-7589 |
 
-Sources: [OT1995 final manifest](../../OT1995/workspace/manifest.md), [final continuity](../../OT1995/workspace/continuity.md), and [Term-Close Dossier, Final manifest, continuity and carry-forward](../../OT1995/close/TERM_CLOSE_DOSSIER.md#final-manifest-continuity-and-carry-forward). These are a conflict register, not twelve scheduled OT1996 events. No date, Court disposition or continuity closure is supplied here.
+Prior-source references: [OT1995 final manifest](../../OT1995/workspace/manifest.md), [final continuity](../../OT1995/workspace/continuity.md), and [Term-Close Dossier, Final manifest, continuity and carry-forward](../../OT1995/close/TERM_CLOSE_DOSSIER.md#final-manifest-continuity-and-carry-forward). Their pending descriptions remain an unchanged account of OT1995; the express opening inventory decision resolves which matters continue in the simulation. The three Shieh petitions are distinct removals.
 
-Wood retains a plenary grant; the three Shieh petitions remain separate. In [Jones's February 26, 1996 Record](../../OT1995/records/Jones_v_ABC_TV_filing_order_1996-02-26.md), financial leave and certiorari remain pending. Its exact blocker is authentication of the prescribed Rule 39.1 motion and notarized Form 4 affidavit or a declaration under 28 U.S.C. §1746 establishing the required financial particulars, or a supported applicable alternative basis, including an established qualifying appointed-counsel exception. Missing research support establishes neither nonfiling nor default. No refiling duty, payment deadline, decision date or terminal disposition is established.
+This is an inventory reconciliation, not a Court disposition or a terminal continuity closure. No terminal action, decision date, vote or holding is attributed to any removed matter. October 11, 2026 identifies the user's instruction, not an in-world Court event. No filing default, deadline or resolution of pending relief is inferred. Completed adjudications, the OT1995 files and the July 1, 1996 chronology cursor remain unchanged. The removed matters supply no OT1996 pending-docket blocker.
+
+## 6. Blockers and Revalidation Needs
+
+No unresolved opening blocker remains. The three trackers share the October 7, 2026 edition, OT1995 last-completed term and July 1, 1996 processed-through statement. Holdings volume synchronization passes. The user's October 11, 2026 inventory decision resolves the prior pending-docket conflict as recorded in block 5; it creates no Court action.
 
 No supplied OT1996 inventory row is missing. Missing chunk briefs are expected and are not an opening blocker. Case-specific record, law, participation, question scope and approved-position validation belong to the later Run stages. No Stone choice has been inferred or substituted. The index's introductory petition-stage list omits Lords Landing, but its complete row is present and preserved; that summary omission does not remove the matter.
 
@@ -130,4 +133,4 @@ No supplied OT1996 inventory row is missing. Missing chunk briefs are expected a
 
 Opening validation performed October 11, 2026 from the identified repository authorities, the supplied inventory and the current operator instruction. The legal/adjudicative cutoff is July 1, 1996, not the validation date. No connected external event after that cutoff was independently researched or admitted in this task. Dates and procedural labels supplied for future events remain planning material.
 
-The [opening audit](../audit/OPENING_VALIDATION.md) records performed checks and unresolved discrepancies; [input hashes](../audit/OPENING_INPUT_HASHES.json) identify the exact read-only baseline. No git command was run. Only OT1996 workspace/audit files and ignored tmp scratch were written; state, inventory, briefs, other terms and infrastructure were not modified. The locked top-level directory was not accessed.
+The [opening audit](../audit/OPENING_VALIDATION.md) records the conflict resolutions and completed validation checks; [input hashes](../audit/OPENING_INPUT_HASHES.json) identify the exact read-only baseline. No git command was run. Only OT1996 workspace/audit files and ignored tmp scratch were written; state, inventory, briefs, other terms and infrastructure were not modified. The locked top-level directory was not accessed.
