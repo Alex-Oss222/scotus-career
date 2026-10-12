@@ -14,7 +14,7 @@ All three opening trackers identify **Last completed October Term: 1995** and **
 
 The divergence point is October 7, 1991, when Alex-Lamar Stone-Zsela replaces Rehnquist as Chief Justice. [Court Composition](../../../foundation/COURT_COMPOSITION.md) governs membership, seniority and circuit allotments.
 
-The current manifest is [manifest.md](manifest.md): 153 supplied items, including all 58 sim-granted additions, no prior-term carryover under the express opening inventory decision, and no changed date or same-day order. The term-opening posture is before the first supplied event. The carried completed-event cursor remains **1996-07-01**; opening does not advance it. There are zero OT1996 Court events or admitted source changes.
+The current manifest is [manifest.md](manifest.md): 153 supplied items, including all 58 sim-granted additions, no prior-term carryover under the express opening inventory decision, and no changed date or same-day order. Run preparation has admitted IIRIRA §633, effective **1996-09-30**, before the first supplied Court event. The carried completed-Court-event cursor remains **1996-07-01**. There are zero OT1996 Court events and one admitted source change.
 
 The next calendar item, once Run intake is ready, is **Department of State v. Legal Assistance for Vietnamese Asylum Seekers, Inc., No. 95-1521, October 21, 1996**, listed as an argued post-grant intervening-law disposition. This is a planning anchor, not a disposition.
 
@@ -32,15 +32,15 @@ The complete final-day groups are retained. OT1994 records sequence Pinette befo
 
 ## 2. Completed Events and Admitted Sources
 
-None in OT1996. The [ledger](ledger.md) has zero entries; no correction, Court order, decree, grant, source admission or carryover closure is created by opening. The fifty-eight grants are the opening status supplied in Standing State, not new dated orders produced by this task.
+The [ledger](ledger.md) contains [IIRIRA §633, admitted statutory source effective September 30, 1996](../records/IIRIRA_Section_633_Admitted_Source_1996-09-30.md). No OT1996 Court decision has yet been entered. The fifty-eight grants are the opening status supplied in Standing State, not new dated orders produced by this task.
 
 ## 3. Current Law
 
-There is no OT1996 controlling proposition, admitted noncase-law change, precedent treatment, remedy or reusable-rule amendment. The opening Holdings volumes and Standards and Tests supply the carried law through July 1, 1996; they are referenced, not rewritten into a new source of law. No unresolved fractured-decision question is resolved by opening.
+There is no OT1996 judicial controlling proposition, precedent treatment, remedy or reusable-rule amendment. The opening Holdings volumes and Standards and Tests supply carried judicial law through July 1, 1996. The new statutory text is identified below. No unresolved fractured-decision question has been resolved.
 
 The ten noncase-law sources admitted in OT1995 remain part of that baseline within their own scope and temporal limits. Consult their [effective-order source register](../../OT1995/close/TERM_CLOSE_DOSSIER.md#admitted-sources-in-effective-order) and underlying Records when implicated. In particular, the FY1996 Medicaid continuation retains its earliest-ending-event condition and supplies no presumed FY1997 continuation; Telecommunications Act §505 has a separate March 9, 1996 amendment-effective date; North Carolina's paternity provision retains its October 1, 1998 expiration. This note makes no independent finding about a later triggering event, expiration or statutory application.
 
-No post-July 1, 1996 source change has been admitted for OT1996. The first inventory matter expressly concerns intervening legislation: its neutral preflight must verify the applicable text, dates and transition and admit any necessary noncase source before an affected Court event. Other source changes enter when supported and material; opening supplies no new statutory construction or unsupported admission.
+Effective September 30, 1996, IIRIRA §633 adds 8 U.S.C. §1152(a)(1)(B), providing that nothing in that paragraph limits the Secretary of State's authority to determine immigrant-visa processing procedures or locations. The exact text and source scope are in the admitted Record. Title III-A's delayed effective date does not by its terms delay this Title VI amendment. No case-specific construction, temporal application, mootness finding or remedy is supplied by admission. Other source changes enter only when supported and material.
 
 ## 4. Material Published Noncontrolling Positions
 

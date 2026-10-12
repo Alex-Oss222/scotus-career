@@ -1,0 +1,1775 @@
+Supreme Court, U.S. . 
+FILED 
+
+
+W) 95+891 DEC 5 1995 
+Sa | —, 
+
+
+In The 
+
+
+Supreme Court of the United States 
+
+
+October Term, 1995 
++ 
+
+
+STATE OF OHIO, 
+
+
+Petitioner, 
+
+
+ROBERT D. ROBINETTE, 
+
+
+Respondent. 
+. 
+
+
+On Petition For Writ Of Certiorari 
+To The Ohio Supreme Court 
++ 
+
+
+PETITION FOR WRIT OF CERTIORARI 
+* 
+
+
+Martuias H. Heck, Jr. 
+Prosecuting Attorney 
+Montgomery County, Ohio 
+
+
+Carey J. INGRAM 
+Counsel of Record 
+Assistant Prosecuting Attorney 
+
+
+Arvin S. MILLER 
+Assistant Prosecuting Attorney 
+
+
+Montgomery County 
+Prosecutors’ Office 
+
+Appellate Division 
+
+Montgomery County Courts 
+Building 
+
+P.O. Box 972 
+
+41 North Perry Street - Suite 315 
+
+Dayton, Ohio 45422 
+
+(513) 225-4117 
+
+
+Attorneys for Petitioner 
+
+
+COCKLE LAW BRIEF PRINTING CO., (800) 225-6964 
+OR CALL COLLECT (402) 342-2831 
+
+
+43 
+
+
+QUESTION PRESENTED 
+
+
+I. WHETHER THE FOURTH AMENDMENT TO THE 
+UNITED STATES CONSTITUTION REQUIRES POLICE 
+OFFICERS TO INFORM MOTORISTS, LAWFULLY 
+STOPPED FOR TRAFFIC VIOLATIONS, THAT THE 
+LEGAL DETENTION HAS CONCLUDED BEFORE ANY 
+SUBSEQUENT INTERROGATION OR SEARCH WILL BE 
+FOUND TO BE CONSENSUAL? 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+QUESTION PRESENTED.........-.----seeeeeeeeees i 
+TABLE OF AUTHORITIES .............-0eeeeeeeees iii 
+OPINIONS BELOW........scccccccccccsseccevesess 1 
+JURISDICTIONAL STATEMENT...........-.-+00555 1 
+CONSTITUTIONAL PROVISIONS INVOLVED...... 1 
+STATEMENT OF THE CASE.............eeeeeeeees 2 
+REASONS FOR GRANTING THE WRIT ........... + 
+CONCLUSION 2... cccccccccneccccccscssevssssseeeen 8 
+APPENDIX ........ccccccccccsrecccscesevcsseess App. 1 
+Opinion, State v. Robinette, No. 73 Ohio St.3d 650 
+(September 6, 1995). ........-.c cee eeeeeeeeeees App. 1 
+Opinion, State v. Robinette, No. 14074 Mont. 
+County (April 15, 1994)........ eecscesveeoven App. 15 
+Decision and Order, State v. Robinette, No. 92- 
+CR-2800 (March 8, 1993)..........22eee eens App. 24 
+
+
+Motion to Suppress, State v. Robinette, No. 92- 
+CR-280 (Feb. 19, 1993).......scccsscsescevess App. 27 
+
+
+iii 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases: 
+Florida v. Bostick, 501 U.S. 429 (1991)............... 5, 6 
+Florida v. Jimeno, 500 U.S. 248 (1991) ................. 5 
+Michigan vy. Chesternut, 486 U.S. 567 (1988) ........... 5 
+Schneckloth v. Bustamonte, 412 U.S. 218 (1972)....... 5, 6 
+
+
+United States v. Fernandez, 18 F.3d 874 (10th Cir 
+ES SEE TY POP 6 
+
+
+United States v. Mendenhall, 446 U.S. 544 (1980)..... 3, 6 
+United States v. Rivera, 906 F.2d 319 (7th Cir 1990)..... 6 
+
+
+United States v. Sharp, 470 U.S. 675 (1985)............ 5 
+United States v. Turner, 928 F.2d 956 (10th Cir 1991) 
+
+cert. Gented S02 U.S. G61 (1991)............0cecceeee 6 
+United States v. Werking, 915 F.2d 1404 (10th Cir 
+
+EEE EES EEE DEEPEST 6 
+
+
+CONSTITUTIONAL PROVISIONS: 
+Fourth Amendment, United States Constitution.. 1, 3, 4 
+
+
+OPINIONS BELOW 
+
+
+The Opinion of the Ohio Supreme Court, filed in 
+Case No. 94-1148, September 6, 1995, is reported as State 
+v. Robinette, 99 Ohio St.3d 1 (1995), and reproduced at 
+
+
+App. 1. 
+
+
+The Decision and Opinion of the Court Of Appeals 
+Of Montgomery County, Ohio Second Appellate District, 
+filed April 15, 1994, is unreported and is reproduced at 
+App. 15. 
+
+
+The Decision and Order of the Common Pleas Court 
+Of Montgomery County, Ohio, filed March 8, 1993, in 
+Case No. 92-CR-2800 is unreported and is reproduced at 
+App. 24. 
+
+
+JURISDICTIONAL STATEMENT 
+The Opinion of the Ohio Supreme Court was entered 
+on September 6, 1995. (App. 1). Jurisdiction is invoked 
+pursuant to 28 U.S.C. Sec. 1257(3). 
+
+
+° 
+
+
+CONSTITUTIONAL PROVISIONS INVOLVED 
+
+
+Fourth Amendment, United States Constitution: The 
+right of the people to be secure in their persons, houses, 
+papers, and effects, against unreasonable searches and 
+seizures, shall not be violated, and no Warrants shall 
+
+
+issue, but upon probable cause, supported by oath or 
+
+
+1 
+
+
+affirmation, and particularly describing the place to be 
+searched, and the persons or things to be seized. 
+
+
+° 
+
+
+STATEMENT OF THE CASE 
+
+
+The issue in this case is whether the aura of police 
+authority is so great that the driver of a car, stopped for a 
+traffic violation, remains seized after the completion of 
+the business of the stop, unless the officer informs the 
+motorist that he, or she, is free to go. The Ohio Supreme 
+Court has held that absent such a recitation, a motorist’s 
+consent to answer questions or to allow a search, will 
+always be deemed to be coerced. 
+
+
+On August 3, 1993 Deputy Roger Newsome of the 
+Montgomery County Sheriff's Office in Dayton, Ohio, 
+stopped Robert Robinette for driving 69 miles per hour in 
+a 45 mile per hour construction zone on Interstate Route 
+70. Deputy Newsome was part of a drug interdiction 
+project, and he testified that he routinely asked permis- 
+sion to search the cars he had stopped for speeding 
+violations. After giving Robinette an oral warning about 
+his speed, Newsome returned Robinette’s license, and 
+asked him if he had any drugs or contraband in the car. 
+
+
+Robinette told Newsome that he did not have any- 
+thing illegal in his car. Deputy Newsome then asked 
+Robinette if he could search the car. Robinette agreed. 
+Deputy Newsome found illegal narcotics in the car. (Most 
+of the encounter between Robinette and Newsome was 
+videotaped by Newsome, using a stationary camera.) 
+Robinette was subsequently charged with the crime of 
+
+
+Drug Abuse in violation of Ohio Revised Code 2925.11, a 
+felony of the fourth degree. 
+
+
+Robinette’s attorney filed a motion to suppress the 
+evidence arguing that Newsome’s actions violated the 
+Fourth Amendment. (Copy of Motion attached at App. 
+27). After an evidentiary hearing at which the videotape 
+was admitted, the trial court overruled Robinette’s 
+motion to suppress and held that, under the totality of 
+the circumstances, his Fourth Amendment rights were 
+not violated. The court cited United States v. Mendenhall, 
+466 U.S. 544 (1980). The trial court went on to reject 
+Robinette’s claim that he was unaware that he could 
+refuse the officer's request to search, stating: 
+
+
+Although the Constitution does not require 
+proof of knowledge of a right to refuse as the 
+sine-qua-non of an effective consent to 
+search . . . such knowledge was highly relevant 
+to the determination that there had been con- 
+sent. Mendenhall, supra. In the instant case, 
+again, however, the videotape belies this claim. 
+The manner of inquiry, the phrasing of the 
+request and the position of the parties elimi- 
+nates the suggestion of overbearance by the offi- 
+cer. 
+
+
+Robinette then entered a no-contest plea and was found 
+guilty by the court. He appealed to the Ohio Second 
+District Court of Appeals, which reversed the trial court, 
+ruling that the search of the vehicle resulted from an 
+unlawful detention. 
+
+
+In a 4-3 decision, the Ohio Supreme Court affirmed 
+the Court of Appeals, and in so doing, created a bright 
+
+
+line test to be applied in certain Fourth Amendment 
+contexts: 
+
+
+The right, guaranteed by the federal and Ohio 
+constitutions, to be secure in one’s person and 
+property requires that citizens stopped for traf- 
+fic offenses be clearly informed by the detaining 
+officer when they are free to go after a valid 
+detention, before an officer attempts to engage 
+in a consensual interrogation. Any attempt at 
+consensual interrogation must be preceded by 
+the phrase, “At this time you legally are free to 
+go” or by words of similar import. 
+
+
+This language found in the Court’s Second Syllabus, is 
+the holding of the case. Rule I, Ohio Supreme Court Rules 
+for the Reporting of Opinions. 
+
+
+The State of Ohio asks this Court to review the ruling 
+of the Ohio Supreme Court. 
+
+
+° 
+
+
+REASONS FOR GRANTING THE WRIT 
+
+
+The Ohio Supreme Court has held below that in 
+certain Fourth Amendment contexts, the question of 
+whether the encounter is consensual or coerced is not to 
+be determined by the totality of the circumstances. 
+Instead, the encounter will be deemed coercive unless the 
+law enforcement officer has informed the citizen that he 
+or she, is free to go. The decision of the Ohio Supreme 
+Court directly contradicts over twenty years of federal 
+Constitutional jurisprudence. Whether contact by a police 
+officer is consensual or is compelled cannot be deter- 
+mined by any single fact, and the Ohio Supreme Court 
+errs in holding to the contrary. 
+
+
+This Court has consistently rejected attempts to 
+import “bright line” standards to Fourth Amendment 
+analysis. In case after case, in various aspects of Fourth 
+Amendment review, this Court has refused to find that 
+any one factor is determinative in deciding whether con- 
+sent is voluntarily given or compelled. In Florida v. Bos- 
+tick, 501 U.S. 429 (1991), this Court rejected Florida's 
+attempt to impose a per-se rule preventing law enforce- 
+ment officers from contacting bus passengers to obtain 
+consent to search for illegal narcotics unless the officer 
+possessed reasonable suspicion of criminal activity. Like- 
+wise, in Michigan v. Chesternut, 486 U.S. 567 (1988), this 
+Court rejected the Michigan Court of Appeals’ “bright 
+line” rule that investigatory pursuits were seizures. In 
+Florida v. Jimeno, 500 U.S. 248 (1991), this Court rejected 
+Florida’s attempt to establish a per-se rule concerning the 
+scope of a consensual search. Schneckloth v. Bustamonte, 
+412 U.S. 218 (1972), rejected the Ninth Circuit Court of 
+Appeals’ determination that the government must estab- 
+lish, as the sine-que-non of an effective consent, that the 
+subject of the search knew that he had a right to refuse. 
+United States v. Sharp, 470 U.S. 675 (1985), rejected an 
+attempt to impose an outer limit standard of twenty 
+minutes for investigative stops. 
+
+
+Furthermore, this Court has rejected any attempt to 
+require proof that a person in question was aware of his 
+right not to co-operate: whether a particular encounter 
+constitutes a seizure, a court must consider all the cir- 
+cumstances surrounding the encounter to determine 
+whether the police conduct would have communicated to 
+a reasonable person that the person was not free to 
+
+
+decline the officers’ requests or otherwise terminate the 
+encounter.” Bostick, at 439. 
+
+
+In Bustamonte, this Court said that “neither this 
+Court's prior cases, nor the traditional definition of “vol- 
+untariness” requires proof of knowledge of a right to 
+refuse as the sine-que-non of an effective consent to a 
+search.” Bustamonte, at 234. In United States v. Mendenhall, 
+446 U.S. 544 (1980), Justice Stewart wrote, that: “[oJur 
+conclusion that no seizure occurred is not affected by the 
+fact that the respondent was not expressly told by the 
+agents that she was free to decline to cooperate with their 
+inquiry, for the voluntariness of her responses does not 
+depend upon her having been so informed.” Id. at 555. 
+
+
+Other jurisdictions that have faced the issue have not 
+abandoned the totality of the circumstances. In United 
+States v. Werking, 915 F.2d 1404 (10th Cir 1990), the court 
+was faced with facts that are nearly identical to the facts 
+of this case. The officer stopped Werking for a traffic 
+violation, returned his papers to him, then asked him “if 
+he was transporting firearms, narcotics, or large sums of 
+money in the vehicle”. Werking replied that he was not. 
+Werking then agreed to allow the officer to look in the 
+trunk of his car. Inside was seventy-five pounds of mari- 
+juana. Id. at 1407. The Tenth Circuit looked to the totality 
+of the circumstances and found that the consent to search 
+was voluntarily given. Id. at 1409. See also United States v. 
+Turner, 928 F.2d 956 (10th Cir. 1991) cert. denied 502 U.S. 
+881 (1991); United States v. Fernandez, 18 F.3d 874 (10th 
+Cir. 1994); United States v. Rivera, 906 F.2d 319 (7th Cir. 
+1990). 
+
+
+a 
+
+
+Ohio’s bright line requirement would place people 
+validly stopped for criminal violations in a superior posi- 
+tion than those who have committed no violation. It 
+would require police to inform a traffic detainee that he 
+or she was free to decline the police’s requests and termi- 
+nate the encounter, but not to so inform those who have 
+done nothing wrong. 
+
+
+This Court should grant review to specifically reject 
+the Ohio Supreme Court’s imposition of a bright line 
+single factor test which conflicts with years of federal 
+constitutional jurisprudence and leads to absurd results. 
+This Court should grant the State of Ohio’s Petition For 
+Writ of Certiorari to reaffirm that when determining 
+whether an encounter is consensual or coerced, the 
+Fourth Amendment requires a review of all the circum- 
+stances, not an isolated fact. 
+
+
+. 
+
+
+CONCLUSION 
+
+
+Wherefore, for the above reasons, certiorari should 
+
+
+be granted. 
+
+
+Respectfully submitted, 
+
+
+Maruias H. Heck, Jr. 
+Prosecuting Attorney 
+Montgomery County, Ohio 
+
+
+Carey J. INGRAM 
+Counsel of Record 
+Assistant Prosecuting Attorney 
+
+
+Arviny S. MILLER 
+Assistant Prosecuting Attorney 
+
+
+Montgomery County 
+Prosecutors’s Office 
+
+Appellate Division 
+
+Montgomery County Courts 
+Building 
+
+P.O. Box 972 
+
+41 North Perry Street — Suite 315 
+
+Dayton, Ohio 45422 
+
+(513) 225-4117 
+
+
+Attorneys for Petitioner 
+
+
+December 5, 1995 
+
+
+App. 1 
+
+
+THe State OF Onto, APPELLANT, U. 
+RosinettTe, APPELLEE. 
+
+
+{Cite as State v. Robinette (1995), 
+73 Ohio St.3d 650.] 
+
+
+Criminal law — Motor vehicles - Continued deten- 
+tion of a person stopped for a traffic violation consti- 
+tutes on illegal seizure, when — Police officer 
+required to inform motorist that his legal detention 
+has concluded before the police officer may engage in 
+any consensual interrogation. 
+
+
+1. When the motivation behind a police officer’s contin- 
+ued detention of a person stopped for a traffic viola- 
+tion is not related to the purpose of the original, 
+constitutional stop, and when that continued deten- 
+tion is not based on any articulable facts giving rise to 
+a suspicion of some separate illegal activity justifying 
+an extension of the detention, the continued detention 
+constitutes an illegal seizure. 
+
+
+See: West’s Ohio Digest, Automobiles 349(10, 17). 
+
+
+2. The right, guaranteed by the federal and Ohio Consti- 
+tutions, to be secure in one’s person and property 
+requires that citizens stopped for traffic offenses be 
+clearly informed by the detaining officer when they 
+are free to go after a valid detention, before an officer 
+attempts to engage in a consensual interrogation. Any 
+attempt at consensual interrogation must be preceded 
+by the phrase “At this time you legally are free to go” 
+or by words of similar import. 
+
+
+See: West’s Ohio Digest, Automobiles 349(18). 
+
+
+(No. 94-1143 - Submitted May 24, 1995 - 
+Decided September 6, 1995.) 
+
+
+Appear from the Court of Appeals for 
+Montgomery County, No. 14074. 
+
+
+App. 2 
+
+
+On August 3, 1992, appellee, Robert D. Robinette, 
+was driving his car at sixty-nine miles per hour in a forty- 
+five miles per hour construction zone on Interstate 70 in 
+Montgomery County. Deputy Roger Newsome of the 
+Montgomery County Sheriff’s office, who was on drug 
+interdiction patrol at the time, stopped Robinette for a 
+speeding violation. 
+
+
+Before Newsome approached Robinette’s vehicle, he 
+had decided to issue Robinette only a verbal warning, as 
+was his routine practice regarding speeders in that partic- 
+ular construction zone. Newsome approached Robinette’s 
+vehicle and requested Robinette’s driver’s license. Rob- 
+inette supplied the deputy with his driver’s license, and 
+Newsome returned to his vehicle to check it. Finding no 
+violations, Newsome returned to Robinette’s vehicle. At 
+that point, Newsome had no intention of issuing Rob- 
+inette a speeding ticket. Still, Newsome asked Robinette 
+to get out of his car and step to the rear of the vehicle. 
+Robinette complied with Newsome’s request and stood 
+between his car and the deputy’s cruiser. Newsome 
+returned to his vehicle in order to activate the cruiser’s 
+video camera so that he could videotape his interaction 
+with Robinette. Newsome returned to Robinette, issued a 
+verbal warning regarding Robinette’s speed, and 
+returned Robinette’s driver’s license. 
+
+
+After returning the license, Newsome said to Rob- 
+inette, “One question before you get gone [sic]: are you 
+carrying any illegal contraband in your car? Any 
+weapons of any kind, drugs, anything like that?” New- 
+some testified that as part of the drug interdiction project 
+he routinely asked permission to search the cars be 
+
+
+App. 3 
+
+
+stopped for speeding violations. When Robinette said 
+that he did not have any contraband in the car, Newsome 
+asked if he could search the vehicle. Robinette testified 
+that he was shocked at the question and “automatically” 
+answered “yes” to the deputy’s request. Robinette testi- 
+fied further that he did not believe that he was at liberty 
+to refuse the deputy’s request. 
+
+
+Upon his search of Robinette’s vehicle, Newsome 
+found a small amount of marijuana. Newsome then put 
+Robinette and his passenger in the back seat of the cruiser 
+and continued the search. As a result of this extended 
+search, Newsome found “some sort of pill” inside a film 
+container. The pill was determined to be methylenedioxy 
+methamphetamine (“MDMA”) and was the basis for Rob- 
+inette’s subsequent arrest and charge for a violation of 
+R.C. 2925.11(A). 
+
+
+Robinette’s indictment was issued on December 18, 
+1992. On February 19, 1993, Robinette filed a motion to 
+suppress the evidence found in the search of his vehicle. 
+The trial court overruled the motion on March 8, 1993, 
+finding that the deputy made clear to Robinette that the 
+traffic matter was concluded before asking to search the 
+vehicle. The court ruled that Robinette’s consent did not 
+result from any overbearing behavior on behalf of News- 
+ome. 
+
+
+Robinette appealed. The Court of Appeals for Mont- 
+gomery County reversed the trial court, holding that 
+Robinette remained detained when the deputy asked to 
+search the car, and since the purpose of the traffic stop 
+had been accomplished prior to that point, the continuing 
+
+
+App. 4 
+
+
+detention was unlawful and the ensuring consent was 
+invalid. 
+
+
+This matter is before this court upon an allowance of 
+a discretionary appeal. 
+
+
+Mathias H. Heck, Jr., Montgomery County Prosecuting 
+Attorney, Carley J. Ingram and Michael L. Gebhart, Assis- 
+tant Prosecuting Attorneys, for appellant. 
+
+
+James D. Ruppert, for appellee. 
+
+
+Betty D. Montgomery, Attorney General, Richard A. 
+Cordray, State Solicitor, and Simon B. Karas, Deputy Chief 
+Counsel, urging reversal for amicus curiae, Ohio Attorney 
+General. 
+
+
+Joseph T. Deters, Hamilton County Prosecuting Attor- 
+ney, and William E. Breyer, Assistant Prosecuting Attor- 
+ney, urging reversal for amicus curiae, Ohio Prosecuting 
+Attorneys Association. 
+
+
+Preirer, J. The issue in this case is whether the evi- 
+dence used against Robinette was obtained through a 
+valid search. We find that the search was invalid since it 
+was the product of an unlawful seizure. We also use this 
+case to establish a bright-line test, requiring police offi- 
+cers to inform motorists that their legal detention has 
+concluded before the police officer may engage in any 
+consensual interrogation. 
+
+
+In order to justify any investigative stop, a police 
+officer “must be able to point to specific and articulable 
+facts which, taken together with the rational inferences 
+
+
+App. 5 
+
+
+from those facts, reasonably warrant that intrusion.” Terry 
+v. Ohio (1968), 392 U.S. 1, 21, 88 S.Ct. 1868, 1880, 20 
+L.Ed.2d 889, 906. Absent any additional articulable facts 
+arising after the stop is made, the police officer must 
+tailor his detention of the driver to the original purpose 
+of the stop. State v. Chatton (1984), 11 Ohio St.3d 59, 63, 11 
+OBR 250, 253, 463 N.E.2d 1237, 1240. 
+
+
+In Chatton, the police officer stopped the defendant's 
+car when he noticed it had no license plates. When he 
+approached the car after it had pulled over, the officer 
+saw a valid temporary tag in the car’s rear window. 
+Despite the fact that the original question which gave rise 
+to the stop had been resolved, the officer approached the 
+driver and asked to see his driver's license. A check of 
+the license revealed that it was suspended, and the officer 
+ordered the defendant out of his vehicle and placed him 
+under arrest for driving with a suspended license. Upon 
+searching the vehicle, the officer discovered a loaded 
+revolver under the driver's seat. The defendant was 
+
+
+charged with carrying a concealed weapon. 
+
+
+This em rt ruled in Chatton that the evidence result- 
+ing from the search should have been suppressed. This 
+court reasoned that the officer, upon seeing the valid 
+temporary tag, no longer maintained a reasonable suspi- 
+cion that the defendant's vehicle was not properly 
+licensed, and thus had no articulable reason to further 
+detain the defendant to determine the validity of his 
+driver’s license. As a result, any evidence seized upon a 
+subsequent search of the vehicle was inadmissible under 
+the Fourth Amendment to the United States Constitution. 
+
+
+App. 6 
+
+
+In this case, Newsome certainly had cause to pull 
+over Robinette for speeding. The question is when the 
+validity of that stop ceased. Newsome testified that from 
+the outset he never intended to ticket Robinette for 
+speeding. When Newsome returned to Robinette’s car 
+after checking Robinette’s license, every aspect of the 
+speeding violation had been investigated and resolved. 
+All Newsome had to do was to issue his warning and 
+return Robinette’s driver's license. 
+
+
+Instead, for no reason related to the speeding viola- 
+tion, and based on no articulable facts, Newsome 
+extended his detention of Robinette by ordering him out 
+of the vehicle. Newsome retained Robinette’s driver's 
+license and told Robinette to stand in front of the cruiser. 
+Newsome then returned to the cruiser and activated the 
+video camera in order to record his questioning of Rob- 
+inette regarding whether he was carrying any contraband 
+in the vehicle. 
+
+
+When the motivation behind a police officer’s contin- 
+ued detention of a person stopped for a traffic violation is 
+not related to the purpose of the original, constitutional 
+stop, and when that continued detention is not based on 
+any articulable facts giving rise to a suspicion of some 
+separate illegal activity justifying an extension of the 
+detention, the continued detention constitutes an illegal 
+seizure. Chatton, supra. 
+
+
+The entire chain of events, starting when Newsome 
+had Robinette exit the car and stand within the field of 
+the video camera, was related to the questioning of Rob- 
+inette about carrying contraband. Newsome asked Rob- 
+inette to step out of his car for the sole purpose of 
+
+
+App. 7 
+
+
+conducting a line of questioning that was not related to 
+the initial speeding stop and that was not based on any 
+specific or articulable facts that would provide probable 
+cause for the extension of the scope of the seizure of 
+Robinette, his passenger and his car. Therefore the deten- 
+tion of Robinette ceased being legal when Newsome 
+asked him to leave his vehicle. 
+
+However, this case contains a feature not discussed 
+in Chatton: Robinette consented to the search of his vehi- 
+cle during the illegal seizure. Because Robinette’s consent 
+was obtained during an illegal detention, his consent is 
+invalid unless the state proves that the consent was not 
+the product of the illegal detention but the result of an 
+independent act of free will. Florida v. Royer (1983), 460 
+U.S. 491, 501, 103 S.Ct. 1319, 1326, 75 L.Ed.2d 229, 238. 
+The burden is on the state to prove that the consent to 
+search was voluntarily given. Id. at 497, 103 S.Ct. at 1324, 
+75 L.Ed.2d at 236. The factors used in consideration of 
+whether the consent is sufficiently removed from the 
+taint of the illegal seizure include the length of time 
+between the illegal seizure and the subsequent search, the 
+presence of intervening circumstances, and the purpose 
+and flagrancy of the circumstances. United States v. Rich- 
+ardson (C.A.6, 1991), 949 F.2d 851, 858. 
+
+
+In this case there was no time lapse between the 
+illegal detention and the request to search, nor were there 
+any circumstances that might have served to break or 
+weaken the connection between one and the other. The 
+sole purpose of the continued detention was to illegally 
+broaden the scope of the original detention. Robinette s 
+consent clearly was the result of his illegal detention, and 
+was not the result of an act of will on his part. Given the 
+
+
+App. 8 
+
+
+circumstances, Robinette felt that he had no choice but to 
+comply. 
+
+
+This case demonstrates the need for this court to 
+draw a bright line between the conclusion of a valid 
+seizure and the beginning of a consensual exchange. A 
+person has been seized for the purposes of the Fourth 
+Amendment when a law enforcement officer, by means of 
+physical force or show of authority, has in some way 
+restrained his liberty such that a reasonable person 
+would not feel free to walk away. United States v. Men- 
+denhall (1980), 446 U.S. 544, 553-554, 100 S.Ct. 1870, 1877, 
+64 L.Ed.2d 497, 509. 
+
+
+The transition between detention and a consensual 
+exchange can be so seamless that the untrained eye may 
+not notice that it has occurred. The undetectability of that 
+transition may be used by police officers to coerce citi- 
+zens into answering questions that they need not answer, 
+or to a!low a search of a vehicle that they are not legally 
+obligated to allow. 
+
+
+The present case offers an example of the blurring 
+between a legal detention and an attempt at consensual 
+interaction. Even assuming that Newsome’s detention of 
+Robinette was legal through the time when Newsome 
+handed back Robinette’s driver’s license, Newsome then 
+said, “One question before you get gone: are you carrying 
+any illegal contraband in your car?” (Emphasis added.) 
+Newsome tells Robinette that before he leaves Newsome 
+wants to know whether Robinette is carrying any contra- 
+band. Newsome does not ask if he may ask a question, he 
+
+
+simply asks it, implying that Robinette must respond 
+before he may leave. The interrogation then continues. 
+
+
+App. 9 
+
+
+Robinette is never told that he is free to go or that he may 
+answer the question at his option. 
+
+
+Most people believe that they are validly in a police 
+officer’s custody as long as the officer continues to inter- 
+rogate them. The police officer retains the upper hand 
+and the accouterments of authority. That the officer lacks 
+legal license to continue to detain them is unknown to 
+most citizens, and a reasonable person would not feel free 
+to walk away as the officer continues to address him. 
+
+
+We are aware that consensual encounters between 
+police and citizens are an important, and constitutional, 
+investigative tool. Florida v. Bostick (1991), 501 U.S. 429, 
+111 S.Ct. 2382, 115 L.Ed.2d 389. However, citizens who 
+have not been detained immediately prior to being 
+encountered and questioned by police are more apt to 
+realize that they need not respond to a police officer's 
+questions. A “consensual encounter” immediately follow- 
+ing a detention is likely to be imbued with the authorita- 
+tive aura of the detention. Without a clear break from the 
+detention, the succeeding encounter is not consensual at 
+all. 
+
+
+Therfore, we are convinced that the right, guaranteed 
+by the federal and Ohio Constitutions, to be secure in 
+one’s person and property requires that citizens stopped 
+for traffic offenses be clearly informed by the detaining 
+officer when they are free to go after a valid detention, 
+before an officer attempts to engage in a consensual inter- 
+rogation. Any attempt at consensual interrogation must 
+be preceded by the phrase “At this time you legally are 
+free to go” or by words of similar import. 
+
+
+App. 10 
+
+
+While the legality of consensual encounters between 
+police and citizens should be preserved, we do not 
+believe that this legality should be used by police officers 
+to turn a routine traffic stop into a fishing expedition for 
+unrelated criminal activity. The Fourth Amendment to the 
+federal Constitution and Section 14, Article I of the Ohio 
+Constitution exist to protect citizens against such an 
+unreasonable interference with thir liberty. 
+
+
+Accordingly, the judgment of the court of appeals is 
+affirmed. 
+
+
+Judgment affirmed. 
+
+
+Moyer, C.J., Wricut and Resnick, JJ., concur. 
+
+
+Douctas F.E. Sweeney, Sr., J., dissenting. | am dis- 
+turbed by the majority’s requirement that police officers 
+must now recite certain words before a consensual inter- 
+rogation may begin. This “bright-line” test appears 
+unique to Ohio and vastly undercuts our law enforce- 
+ment’s ability to ferret out crime. Furthermore, the major- 
+ity’s test is contrary to well-established state and federal 
+constitutional law. 
+
+
+The United States Supreme Court has made it clear 
+that not every encounter between a police officer and 
+citizen is a seizure. Florida v. Bostick (1991), 501 U.S. 429, 
+434, 111 S.Ct. 2382, 2886, 115 L.Ed.2d 389, 398. Instead, 
+the encounter becomes a seizure and is subject to Fourth 
+Amendment scrutiny only when the encounter loses its 
+consensual nature.' Id. Traditionally, the crucial test has 
+
+
+’ Section 14, Article I of the Ohio Constitution is analogous 
+to the Fourth Amendment to the United States Constitution. 
+
+
+>= 
+
+
+App. 11 
+
+
+always been “whether, taking into account all of the 
+circumstances surrounding the encounter, the police con- 
+duct ‘would have communicated to a reasonable person 
+that he was not at liberty to ignore the police presence 
+and go about his business.’ ” Id. at 437, 111 S.Ct. at 2387, 
+115 L.Ed.2d at 400. In other words, “a person has been 
+‘seized’ within the meaning of the Fourth Amendment 
+only if, in view of all the circumstances surrounding the 
+incident, a reasonable person would have believed that 
+he was not free to leave.” United States v. Mendenhall 
+(1980), 446 U.S. 544, 554, 100 S.Ct. 1870, 1877, 64 L.Ed.2d 
+497, 509. See, also, State v. Childress (1983), 4 Ohio St.3d 
+217, 4 OBR 534, 448 N.E.2d 155. The determination of 
+whether consent has been freely given has always been a 
+factual one, which, once made, should not be disturbed 
+on appeal. Schneckloth v. Bustamonte (1973), 412 U.S. 218, 
+227, 93 S.Ct. 2041, 2047-2048, 36 L.Ed.2d 854, 862-863. 
+
+
+The United States Supreme Court has consistently 
+applied this legal standard in cases dealing with consen- 
+sual encounters. In fact, in Bostick, supra, the Supreme 
+Court struck down a per se rule adopted by the Florida 
+Supreme Court that all routine bus searches were uncon- 
+stitutional. The Supreme Court remanded the case to the 
+state court to apply the totality-of-the-circumstances test. 
+More to the point of the facts of this case, in Florida v. 
+Jimeno (1991), 500 U.S. 248, 111 S.Ct. 1801, 114 L.Ed.2d 
+297, the court applied this legal standard to justify a 
+consent to search following a traffic stop. 
+
+
+Indeed, courts from around the nation have had no 
+problem in upholding the validity of consensual searches 
+where consent was obtained after a traffic stop. See, e.g., 
+State v. C.S. (Fla.App.1994), 632 So.2d 675; State v. Bonham 
+
+
+App. 12 
+
+
+(1993), 120 Or.App. 371, 852 P.2d 905; United States v. 
+Werking (C.A.10, 1990), 915 F.2d 1404. 
+
+
+Despite this well-established test, the majority now 
+holds that before a police officer may engage in consen- 
+sual interrogation, the officer must inform the individual 
+that “at this time you legally are free to go.” However, the 
+United States Supreme Court has ruled that being 
+informed of the right to refuse a search is but one factor 
+to be taken into account when determining whether con- 
+sent was freely given; it is not the “sine qua non of an 
+effective consent.” Schneckloth, supra, 412 U.S. at 227, 93 
+S.Ct. at 2048, 36 L.Ed.2d at 863. The distinction between 
+being informed of the right to refuse a search and being 
+informed of the right to leave the scene is insignificant. 
+Whether the police officer uttered a warning is a relevant 
+consideration, but it does not end the inquiry. 
+
+
+I would instead apply the totality-of-the-circum- 
+stances test to this case. Here, appellee was properly 
+stopped and detained for speeding. After the traffic mat- 
+ter was concluded, the officer returned appellee’s license. 
+Appellee testified that he believed he was free to leave. 
+At this point, the encounter between appellee and the 
+police officer became an ordinary consensual encounter 
+between a private citizen and a law enforcement officer. 
+Since appellee’s liberties were not curtailed and since he 
+understood that he could leave, there was no “seizure” 
+implicating state or federal constitutional guarantees. 
+Appellee’s consent should not be invalidated solely 
+because it followed a traffic stop and simply because the 
+police officer failed to warn appellee that he was free to 
+do. The utterance of these “magic words” is but one 
+factor for the fact-finder to consider when making the 
+
+
+App. 13 
+
+
+determination as to whether consent was voluntarily 
+given. 
+
+
+In Mendenhall, supra, at 554, 100 S.Ct. at 1877, 64 
+L.Ed.2d at 509, the United States Supreme Court lists 
+other examples of circumstances that might indicate a 
+seizure and, consequently, invalid consent: the threaten- 
+ing presence of several officers, display of a weapon, 
+physical touching of the person, and the use of language 
+or tone of voice indicating that compliance with the offi- 
+cer’s request is compelled. None of these factors was 
+present in this case. Appellee testified that the officer was 
+nice to him at all times and never drew a weapon. 
+Although appellee may have been intimidated or ner- 
+vous, the officer’s conduct did not rise to such a level as 
+to make him believe he had to agree to the search. 
+
+
+As support for its holding, the majority relies on State 
+v. Chatton (1984), 11 Ohio St.3d 59, 11 OBR 250, 463 
+N.E.2d 1237. However, Chatton is clearly distinguishable 
+from the case. In Chatton, the police officer stopped the 
+defendant for driving without license plates. Once the 
+officer discovered that the vehicle displayed a temporary 
+tag, which made his initial stop improper, the officer 
+nevertheless detained the defendant and asked to see his 
+license. The issue in Chatton was whether the police offi- 
+cer had continuing justification to detain the defendant. 
+In this case, the issue is whether an individual who has 
+been validly detained pursuant to a traffic stop may, in 
+response to a police request, give a free and voluntary 
+consent to search, once the traffic stop has been com- 
+pleted and the individual knows he is free to leave. Even 
+the majority concedes that consent was not an issue in 
+Chatton. However, the instant case turns entirely on the 
+
+
+App. 14 
+
+
+use of consent. Thus, Chatton has little applicability to 
+this case. 
+
+
+This technique of requesting consent following an 
+initial valid detention is employed on a daily basis 
+throughout this nation to interdict the flow of drugs. 
+While I certainly do not ac vocate giving police officers 
+carte blanche in their treatment of traffic violators, when 
+the original stop is permissible, the police should be 
+permitted to make inquires that are not coercive. The 
+majority’s bright-line test undercuts police authority and 
+severely curtails an important law enforcement tool that 
+is sanctioned by state and federal constitutional law. 
+
+
+For all those reasons, I would reverse the court of 
+appeals and reinstate the trial court’s judgment. 
+
+
+Douc as and Cook, JJ., concur in the foregoing dis- 
+senting opinion. 
+
+
+App. 15 
+
+
+IN THE COURT OF APPEALS OF 
+MONTGOMERY COUNTY, OHIO 
+SECOND APPELLATE DISTRICT 
+
+
+STATE OF OHIO 
+Case No. 14074 
+
+
+Plaintiff-Appellee : (T.C. Case No. 
+- : 92-CR-1800) 
+ROBERT D. ROBINETTE ° 
+Defendant-Appellant 
+OPINION 
+
+
+Rendered on the 15th day of April, 1994 
+
+
+CARLEY J. INGRAM, S. Ct. Regis. No. 20084, Assistant 
+Prosecuting Attorney, 41 N. Perry Street, Dayton, OH 
+45402 
+
+Attorney for Plaintiff-Appellee 
+JAMES D. RUPPERT, S. Ct. Regis. No. 11817, P O Box 369, 
+Franklin, OH 45005 
+
+
+Attorney for Defendant-Appellant 
+
+
+FAIN, J. 
+
+
+Defendant-appellant Robert D. Robinette appeals 
+from his conviction and sentence for Drug Abuse. Rob- 
+inette contends that the trial court erred by denying his 
+motion to suppress. He contends that once the purpose 
+for the investigative stop — in this case the issuance of a 
+warning for speeding ~ had been satisfied, the officer 
+could not lawfully detain him further for the purpose of 
+
+
+App. 16 
+
+
+securing his consent to search for narcotics. We agree, 
+based upon State v. Retherford (March 16, 1994), Mont- 
+gomery App. No. 13987, unreported, which we approve 
+and follow. Accordingly, the judgment of the trial court is 
+Reversed, and this cause is Remanded for proceedings con- 
+sistent with this opinion. 
+
+
+I 
+
+
+Robinette was traveling at 69 miles per hour on I-75 
+at a point where, because of construction, the speed limit 
+had temporarily been posted at 45 miles per hour. Mont- 
+gomery County Sheriff's Deputy Roger Newsome was 
+stopping speeders at this location. He was merely giving 
+them warnings, in an effort to keep the speed down to a 
+safe level. He stopped Robinette for the purpose of giving 
+a warning. Newsome admitted that he never had any 
+suspicions concerning Robinette beyond giving him a 
+warning for speeding. That was the sole purpose for the 
+stop. 
+
+
+Before Newsome gave Robinette a warning, he went 
+back to his cruiser and activated a video camera. He had 
+Robinette stand in front of the cruiser. Immediately after 
+giving Robinette a warning, with no pause or break in the 
+conversation, Newsome asked Robinette if he was carry- 
+ing any kind of contraband, including drugs, and Rob- 
+inette said that he was not. Then Newsome asked for and 
+received permission to search Robinette’s car. The search 
+disclosed some packets of marijuana in a total amount 
+that is described as small, as well as a pill that was 
+determined to be MDMA, or Ecstasy. Robinette was 
+arrested and charged with Drug Abuse. Robinette moved 
+
+
+App. 17 
+
+
+to suppress the evidence, contending that it was obtained 
+as a result of an illegal search. The trial court denied the 
+motion to suppress, holding that Robinette’s consent to 
+
+
+search was free and voluntary. 
+
+
+Following a denial of his motion to suppress, Rob- 
+inette pled no contest, was found guilty, and was sen- 
+tenced accordingly. From his conviction and sentence, 
+Robinette appeals. 
+
+
+II 
+
+
+Robinette’s sole Assignment of Error is as follows: 
+
+
+THE TRIAL COURT ERRED TO THE PREJU- 
+DICE OF APPELLANT WHEN IT FAILED TO 
+GRANT HIS MOTION TO SUPPRESS EVI- 
+DENCE OBTAINED SUBSEQUENT TO AN 
+ILLEGAL DETENTION AND SEARCH OF 
+APPELLANT AND HIS VEHICLE. 
+
+
+Robinette contends that after he was given a warning 
+for speeding, the acknowledged purpose for the stop was 
+satisfied. Robinette argues that, pursuant to State v. Chat- 
+ton (1984), 11 Ohio St. 3d 59, and Fairborn v. Orrick (1988), 
+49 Ohio App. 3d 94, once the purpose for the stop had 
+been satisfied and there was no subsequent reason to 
+suspect Robinette, the investigative stop was over and 
+there should have been no further detention for purposes 
+of investigation. The State contends that Robinette was 
+free to go, so that there was no detention. 
+
+
+We conclude that a reasonable person in Robinette’s 
+position would not believe that the investigative stop had 
+been concluded, and that he or she was free to go, so long 
+
+
+App. 18 
+
+
+as the police officer was continuing to ask investigative 
+questions. 
+
+
+An identical fact pattern involving the same officer 
+was presented in State v. Retherford (March 16, 1994) 
+Montgomery App. No. 13987, unreported. In that case, 
+we held that once a police officer has issued a traffic 
+citation or warning for a speeding violation, it is unrea- 
+sonable to detain the motorist further for the purpose of 
+obtaining consent to search for drugs or alcohol, absent a 
+reasonable and articulable suspicion that the motorist is 
+transporting either drugs or alcohol. 
+
+
+We approve and follow our holding in State v. Rether- 
+ford, supra. Because the search in the case before us 
+resulted from an unlawful detention, it is the fruit of an 
+unlawful seizure, and the fact that Robinette, during the 
+unlawful detention, may have consented to the search is 
+immaterial. 
+
+
+Robinette’s sole Assignment of Error is sustained. 
+
+
+Ill 
+
+
+Robinette’s sole Assignment of Error having been 
+sustained, the judgment of the trial court is Reversed, and 
+this cause is Remanded to the trial court for further pro- 
+ceedings consistent with this opinion. 
+
+
+YOUNG, J., concurs. 
+WOLFF, J., dissenting: 
+
+
+In State v. Pinder (Dec. 15, 1993), Miami App. No. 93 
+CA 6, unreported, this court held that “a valid consent to 
+
+
+App. 19 
+
+
+search cannot be given following an illegal detention to 
+which it is strongly connected, and . . . evidence uncov- 
+ered as a result of such a search must be suppressed as 
+fruit of the poisonous tree.” P. 10. In Pinder, the consent to 
+search was obtained during the course of what the trial 
+court implicitly found was an unlawful detention. P. 7. 
+Hence, this court did not consider whether the consent 
+was voluntary in fact (which the trial court had found it 
+was not). 
+
+
+In State v. Retherford (Mar. 16, 1994), Montgomery 
+App. No. 13987, unreported, this court considered a situ- 
+ation quite similar to the situation in this case. In Rether- 
+ford, the trial court had found that after a lawful traffic 
+stop, Deputy Newsome had told Retherford that she was 
+free to leave, and that she was thus not in custody when 
+Deputy Newsome then asked for permission to search 
+her car. The trial court also found that thereafter Rether- 
+ford had consented to the search of her vehicle. This court 
+determined that the trial court erred in its determination 
+that Retherford “was not seized {i.e., being detained) at 
+the time Deputy Newsome asked for her consent to 
+search her vehicle” because “a reasonable person in 
+Retherford’s place would (not) have felt ‘free to leave’ 
+under the circumstances herein.” Pp. 14-15. In other 
+words, this court determined that Retherford’s consent 
+was obtained “during the course of an illegal detention”, 
+and, following Pinder, declined to address whether the 
+consent to search was voluntary in fact but, rather, held 
+that the fruits of the search should be suppressed as that 
+of the poisonous tree. P. 24. Essentially, the court rea- 
+soned that when Deputy Newsome sought Retherford’s 
+
+
+App. 20 
+
+
+consent to search her car, she was still detained, notwith- 
+standing the trial court’s finding to the contrary, and that 
+the detention was illegal because the traffic stop was 
+concluded and there was no reasonable and articulable 
+basis for continued detention of Retherford. 
+
+
+In this case, the majority chooses to follow Retherford, 
+hold that Robinette’s consent was obtained “during the 
+unlawful detention”, reverse on that basis, and not con- 
+sider that his consent may have been voluntary in fact 
+because that issue is immaterial given that the consent 
+was obtained during an illegal detention. 
+
+
+In my judgment, the premise upon which the hold- 
+ings in Retherford and in this case are based is flawed. 
+That premise is that, as a matter of law, a reasonable 
+person in these defendants’ positions would not believe 
+that the investigative stop had been concluded, and that 
+he or she was free to go. 
+
+
+In addition to my own reservations about this prem- 
+ise, a recent article in the Dayton Daily News tends to 
+belie the premise. Derek Ali, a black staff writer, wrote 
+about three incidents in which he had been a victim of 
+racial stereotyping. The first incident concerned a situa- 
+tion similar to the one presented here. 
+
+
+Until the last quarter of 1993, I shrugged at 
+suggestions from young black men and women 
+who complained about receiving poor treatment 
+based on how they’re dressed. 
+
+
+Normally, I wear suits six days a week and 
+generally the people I come in contact with treat 
+me in a respectful manner. Things changed on 
+three separate occasions when I switched to a 
+ball cap, sweats and sneakers. 
+
+
+App. 21 
+
+
+In October, a Franklin County sheriff's dep- 
+uty stopped me along a stretch of Interstate 70, 
+just outside of Columbus. She approached the 
+car, asked me routine questions and took my 
+driver's license. 
+
+
+I thought nothing of the backup cruiser that 
+pulled up until she returned to my car in what 
+seemed like 20 minutes to inform me I would 
+just get a warning. Before I could thank God for 
+the blessing, the deputy asked permission to 
+search my car for contraband. 
+
+
+I wanted to say, yes, go ahead, check my car. 
+Let the record reflect that an African-American 
+can drive a major interstate without a trunk- 
+load of illegal drugs. However, I declined the 
+search and went on my way. 
+
+
+I thought little of the incident until later 
+when a Dayton police officer told me I probably 
+fit the sheriff department's profile of a drug 
+runner — a young black male between 18 and 35 
+driving a late model vehicle from one major city 
+to another. 
+
+
+That’s when I became almost as angry as 
+younger blacks who say they’re treated like 
+criminals because of their age, dress or some 
+other subjective information used to perpetuate 
+stereotypes, prejudice and discrimination. “Dis- 
+crimination wears thin — like an old sweatshirt”, 
+Dayton Daily News, March 6, 1994. (Emphasis 
+mine.) 
+
+
+The relevance of this story to this appeal is simply that 
+Mr. Ali, an obviously well educated individual who does 
+
+
+App. 22 
+
+
+not appear to be a lawyer, believed that he was free to 
+refuse the police officer’s request to search his car. 
+
+
+The evidence in this case established that in the mind 
+of Deputy Newsome, Robinette was “free to go” when he 
+gave him a warning and returned his driver's license to 
+him. Although Deputy Newsome did not tell Robinette 
+he was free to go, Robinette, who has a bachelor of 
+science degree in botany, answered “yes” to the prosecu- 
+tor’s question: “I believe you testified that Deputy News- 
+ome returned your driver’s license to you. And at that 
+point you felt that you were free to leave; is that correct?” 
+
+
+In my judgment, the evidence supports a determina- 
+tion that Robinette was not being detained at the time he 
+consented to the search of his car, and the trial court 
+appears to have so found. As such, whether his consent 
+was voluntary in fact is a material issue. The evidence 
+amply supports the trial court’s finding that Robinette’s 
+consent was voluntary in fact. 
+
+
+Constitutional mischief only occurs when the consent 
+to search, voluntary or not, is obtained during the course 
+of an illegal detention. If the detention has ceased, and a 
+subsequent consent to search is voluntary in fact, the 
+fruits, if any, of the search are not those of the poisonous 
+tree. | am not persuaded that trial judges cannot deter- 
+mine on a case-by-case basis whether and, if so, when 
+detention has come to an end vis-a-vis a request to 
+search. 
+
+
+Because the evidence supports a determination that 
+the consent was voluntary in fact, and was not obtained 
+during the course of an illegal detention, I would affirm. 
+
+
+App. 23 
+
+
+Copies mailed to: 
+
+
+CARLEY J. INGRAM 
+JAMES D. RUPPERT 
+HON. JOHN W. KESSLER 
+
+
+App. 24 
+
+
+IN THE COMMON PLEAS COURT OF 
+MONTGOMERY COUNTY, OHIO 
+
+
+CRIMINAL DIVISION 
+
+
+THE STATE OF OHIO, _: CASE NO. 92-CR-2800 
+Plaintiff, ‘ (Judge John W. Kessler) 
+“vs- : DECISION AND 
+ROBERT D. ROBINETTE, ‘ ORDER 
+Defendant. 
+
+
+This case is before the Court on Defendant's Motion 
+to Suppress evidence and statements. 
+
+
+The testimony of the witnesses at the suppression 
+hearing establish that on August 3, 1992, Defendant was 
+stopped by Montgomery County Sheriff's Deputy 
+Newsom on I-70 at Diamond Mill Road for driving 69 
+MPH in a 45 MPH limit construction zone. Deputy 
+Newsom was part of a unit directed to interdict potential 
+contraband carriers on the highways in and around Day- 
+ton. Absent probable cause to search or an admission of 
+criminal conduct, the unit’s suggested procedure was for 
+the investigating officer to attempt to gain the detained 
+suspect’s consent to search. 
+
+
+In this case, Deputy Newsom, upon his traffic stop, 
+decided to merely issue a verbal warning to Defendant 
+concerning his speeding violation, but also to continue 
+investigating Defendant by asking if Defendant had any 
+contraband or guns in his car. Upon a negative response 
+from Defendant, Newsom requested permission to search 
+
+
+App. 25 
+
+
+the car, which was granted by Defendant, and a subse- 
+quent seizure of contraband occurred. 
+
+
+The question presented to this Court for determina- 
+tion is the validity of the consent given by Defendant. 
+“The question whether the [Defendant's] consent - was in 
+fact voluntary or was the product of duress or coercion, 
+express or implied, is to be determined by the totality of 
+all the circumstances - and is a matter which the govern- 
+ment has the burden of proving.” U.S. v. Mendenhall, 466 
+U.S. 544 (1980). 
+
+
+The Court in the instant case is greatly aided by a 
+video tape of the encounter between Deputy Newsom 
+and Defendant. Ordinarily this Court would find the 
+“custodial status” of the Defendant in the midst of a 
+traffic arrest to be of great significance to the issue. Here, 
+however, prior to the inquiry about contraband posses- 
+sion or consent, the officer made it clear to Defendant 
+that the traffic matter was concluded. 
+
+
+Defendant claims he was unaware that he could 
+refuse the officer’s request to search. “Although the Con- 
+stitution does not require proof of knowledge of a right to 
+refuse as the sine-qua-non of an effective consent to 
+search . . . such knowledge was highly relevant to the 
+determination that there had been consent.” Mendenhall, 
+supra. In the instant case, again, however, the video tape 
+belies this claim. The manner of inquiry, the phrasing of 
+the request and the position of the parties eliminates the 
+suggestion of overbearance by the officer. 
+
+
+The above-stated circumstances coupled with the 
+Defendant's education and intelligence cause this court to 
+
+
+App. 26 
+
+
+find that Defendant’s consent was valid and not the 
+product of duress or coercion. 
+
+
+Defendant’s Motion to Suppress is not well taken and 
+is OVERRULED. 
+
+
+Copies of the above were sent to all parties listed 
+below by ordinary mail this date of filing. 
+
+
+SO ORDERED: 
+
+
+JOHN W. KESSLER, JUDGE 
+
+
+JANET R. SORRELL, Assistant Prosecuting Attorney, 
+Attorney for Plaintiff, Fifth Floor, 301 W. Third Street, 
+Datyon, Ohio 45402 (513) 225-5757 
+
+
+JAMES D. RUPPERT, Attorney for Defendant, 1063 E. 
+Second Street, P.O. Box 369, Franklin, Ohio 45005 (513) 
+746-2832 
+
+
+ASSIGNMENT OFFICE 
+TIM WALKER, Bailiff 
+
+
+App. 27 
+
+
+IN THE COURT OF COMMON PLEAS, 
+MONTGOMERY COUNTY, OHIO 
+
+
+STATE OF OHIO, 
+PLAINTIFF, CASE NO. 92-CR-280 
+vs: 
+
+
+ROBERT D. ROBINETTE, 
+
+
+MOTION TO 
+SUPPRESS ~— 
+DEFENDANT. 
+
+
+ee 
+
+
+Now comes the Defendant, Robert D. Robinette, by 
+
+
+and through counsel, and respectfully moves this Court 
+
+
+for an Order suppressing the use of the following as 
+evidence: 
+
+
+1) A quantity of metlyenedioxy-meth- 
+amphetamine (MDMA) 
+
+
+2) Any and all statements allegedly obtained 
+from the Defendant regarding the above 
+captioned case. 
+
+
+The basis for this motion is more fully articulated in the 
+attached memorandum. 
+
+
+An oral hearing to develop a factual basis for and to 
+present additional legal arguments in support of this 
+Motion is hereby requested. 
+
+
+RUPPERT, BRONSON, 
+CHICARELLi & SMITH 
+
+
+/s/ me Reet 
+ames D. Kup 0011817 
+
+
+Attorney for Defendant 
+1063 E. Second Street 
+P. O. Box 369 
+
+Franklin, OH 45005 
+Phone: (513) 746-2832 
+
+
+App. 28 
+
+
+MEMORANDUM 
+
+
+The Fourth Amendment to the United States Consti- 
+tution protects people from unreasonable searches and 
+seizures. When a search is reasonable or unreasonable is a 
+question to be decided by a judicial officer, not by a 
+police officer. Coolidge v. New Hampshire, 403 U.S. 443 
+(1971). Searches conducted outside the judicial process 
+are “per se unreasonable”, subjected only to specifically 
+established and well defined exceptions which may not 
+be expanded at an officer’s whim. Keith v. United States, 
+357 U.S. 493 (1960). 
+
+
+In the case at bar, the officer went well beyond any 
+recognized exception. The Defendant had been stopped 
+due to an alleged speeding violation. Upon stopping the 
+Defendant, the officer obtained Defendant's license. He 
+then returned and asked the Defendant to step from the 
+vehicle. The officer then returned to his cruiser and start- 
+ed the video and audio tape. At this point he returned to 
+the Defendant who was waiting out of his vehicle, 
+between the cars. The officer then informed Defendant 
+that he was only going to give him a verbal warning and 
+not issue a citation and stated that he was free to go. 
+
+
+It is at this point the officer violated the Defendant's 
+rights. Attempting to make it look like an afterthought, 
+the officer continued to detain the Defendant and ques- 
+tion him about illegal drugs in the vehicle. The officer, at 
+this point, was on a fishing expedition. He has no articu- 
+lable reason for further detention of the Defendant. 
+
+
+In State v. Chatton, 11 Ohio St. 3d 59 (1984) the Ohio 
+Supreme court clearly and unambiguously held that once 
+an officer’s reason for making a traffic stop has been 
+
+
+App. 29 
+
+
+completed, he cannot then further detain the person. It is 
+firmly established that the detention of an individual by a 
+law enforcement officer must, at the very least, be justi- 
+fied by ‘specific and articulable facts’ indicating that the 
+detention was reasonable. Chatton, 11 Ohio St. 3d at 61. 
+
+
+In the case at bar, the initial detention was reasonable 
+as there was an alleged speeding violation. The rule in 
+Chatton, however, precludes police officers from then 
+engaging in unbridled activity. “[A]bandonmnt of effec- 
+tive judicial supervision of this kind of seizure . . . leaves 
+police discretion utterly without limits.” Id. at 62. Thus, 
+the rule in Chatton not only requires an articulable reason 
+for the initial stop but an articulable reason for any 
+detention beyond that required for the initial stop. “Once 
+a police officer has made a legitimate and constitutional 
+stop of a vehicle, the driver and the vehicle may be 
+detained only for as long as the officer continues to have a 
+reasonable suspicion that there has been a violation of 
+law.” State v. Myers, 63 Ohio App. 3d 765, 771 (1990) 
+(citing Chatton). 
+
+
+This rule has been meticulously applied. The Second 
+Appellate District has stated that “the mere fact that a 
+police officer has an articulable and reasonable suspicion 
+sufficient to stop a motor vehicle does not give that police 
+officer ‘open season’ to investigate matters not reason- 
+ably within the scope of his suspicion.” Fairborn v. Orrick, 
+49 Ohio App. 3d 94, 95 (1988). 
+
+
+All of the cited cases are in accord. Once a police 
+officer detains someone, the detention can only continue 
+so long as there continues to be an articulable and reason- 
+able suspicion. “If, after inspecting the vehicle or talking 
+
+
+App. 30 
+
+
+to the driver, the police officer is satisfied that there has 
+been no unlawful activity, the driver must be permitted to 
+continue on his or her way.” Myers 63 Ohio App. 3d at 
+771. 
+
+
+When one applies this rule to the case at bar, it is clear 
+that the officer continued into an unlawful detention and 
+search. He stopped the vehicle for a speeding violation. He 
+satisfied himself concerning the violation and returned the 
+license giving a verbal warning. He had no other “reasonable 
+or articulable” suspicion” [sic] for continuing the detention. 
+He had no right to further detain the Defendant so he could 
+randomly question him concerning drugs. The officer, at this 
+point, started a fishing expedition, which was based, at best, 
+on a hunch. As such, anything obtained as a result must be 
+suppressed pursuant to Wong Sun v. United States, 371 U.S. 
+471 (1973). 
+
+
+The State will undoubtedly argue that the search was 
+lawful as the Defendant allegedly consented to the 
+search. This, however, misses the point and ignores the 
+law. The issue of consent is not even an issue in this case. 
+This is due to the simple fact that the officer had already 
+violated the Defendant's rights. His continued detention 
+and questioning of the Defendant violates the Fourth 
+Amendment. The only reason the officer even asked to 
+search the car was because he had unlawfully detained 
+the Defendant in violation of Chatton. See also, Myers, 63 
+Ohio App. 3d at 771; Orrick, 49 Ohio App. 3d at 95. 
+
+
+Moreover, because the continued detention of the 
+Defendant was unlawful, any statements made as a result 
+of the continued questioning was obtained in violation of 
+
+
+App. 31 
+
+
+the Defendant's rights. Chatton, 11 Ohio St. 3d at 59; see 
+also, Wong Sun, 371 U.S. at 471. 
+
+
+Wherefore, the Defendant requests this Court for an 
+Order suppressing any and all tangible evidence obtained 
+in the instant case, as well as any oral or written state- 
+ments made at the time of the Defendant's arrest. 
+
+
+/s/ James D. Ruppert 
+James D. Ruppert 0011817 
+Attorney for Defendant 
+
+
+CERTIFICATE OF SERVICE 
+
+
+The Undersigned hereby certifies that a true and 
+accurate copy of the foregoing was mailed, postage pre- 
+paid, by ordinary U.S. Mail, to Janet Sorrell, Montgomery 
+County Prosecutor’s Office, 301 West Third Street, Day- 
+ton, OH 45402, this 18th day of February, 1993. 
+
+
+/s/ James D. Ruppert 
+James D. Ruppert 0011817 
+Attorney for Defendant 
+
+

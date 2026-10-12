@@ -183,3 +183,9 @@ Seeded by `python -B tools/open_term.py OT1996` from the protected [case index](
 | 1997-06-23 | 11, 12 | 10 |
 
 There are 48 distinct scheduled dates, including 28 multi-matter groups; eleven groups cross chunk boundaries. No current-term event has been completed.
+
+## Admitted current-term noncase sources
+
+| Effective date | Source | Status | Scope |
+|---|---|---|---|
+| 1996-09-30 | IIRIRA §633, Pub. L. No. 104-208 | Completed: [Admitted Source Record](../records/IIRIRA_Section_633_Admitted_Source_1996-09-30.md) | Enacted visa-processing text; no case-specific interpretation or judgment |

@@ -1,6 +1,6 @@
 # OT1996 Current-Term Neutral Projection
 
-**Posture:** Before the first supplied OT1996 event. No current-term Court action or source change is effective. Opening validation is complete. The three publication editions agree, and the express opening inventory decision resolves the prior pending-docket conflict. Each later event remains subject to its required neutral intake and Run validation.
+**Posture:** Before the first supplied OT1996 Court event. IIRIRA §633 is admitted effective September 30, 1996. No current-term Court action is yet effective. Opening validation is complete. The three publication editions agree, and the express opening inventory decision resolves the prior pending-docket conflict. Each later event remains subject to its required neutral intake and Run validation.
 
 ## Opening authorities and chronology
 
@@ -20,7 +20,7 @@ The [manifest](manifest.md) is the complete supplied planning calendar: 153 matt
 
 ## Current law
 
-The Holdings doctrinal volumes and Standards and Tests are the carried legal authorities through July 1, 1996. There is no OT1996 change to a holding, test, remedy, precedent's force or reserved question. Build each later entering-law slice from the relevant baseline authority and every then-effective OT1996 Record; the projection itself is not law.
+The Holdings doctrinal volumes and Standards and Tests are the carried legal authorities through July 1, 1996. No OT1996 Court holding, test, remedy or precedent treatment has changed. The statutory source change below is effective September 30, 1996. Build each later entering-law slice from the relevant baseline authority and every then-effective OT1996 Record; the projection itself is not law.
 
 Existing admitted noncase sources retain their own effective dates and transition conditions. Do not presume a post-cutoff enactment, implementation fact or extension. In particular, the existing FY1996 Medicaid continuation does not itself establish FY1997 continuation, Telecommunications Act §505's amendment is separately effective March 9, 1996, and the North Carolina paternity provision retains its October 1, 1998 expiration. No later trigger is found here. The first inventory item's intervening-law issue requires verification of text, timing and any necessary source admission before decision.
 
@@ -111,4 +111,8 @@ There are no OT1996 published writings or positions. Relevant prior public writi
 
 The three opening trackers share the October 7, 2026 edition, OT1995 last-completed term and July 1, 1996 cutoff. Holdings volumes and the continuous view are synchronized. No unresolved opening source conflict remains.
 
-Chunk briefs have not been supplied; their expected absence is not an opening blocker. No post-cutoff external event was researched or admitted during opening. The projection changes no law, procedure, pending relief or case disposition.
+Chunk 1 has now been supplied and mechanically split for the Run; its adjudication remains pending. No post-cutoff external event was admitted during opening. Run preparation has since admitted the statutory source below. No Court disposition or pending relief changes through that admission.
+
+## Current-term enacted-law update
+
+Effective September 30, 1996, Pub. L. No. 104-208, Division C, Title VI, §633 adds 8 U.S.C. §1152(a)(1)(B): “Nothing in this paragraph shall be construed to limit the authority of the Secretary of State to determine the procedures for the processing of immigrant visa applications or the locations where such applications will be processed.” The enactment supplies no case judgment. Its case-specific meaning, temporal reach, effect on continuing or reparative relief, and relation to APA and constitutional claims remain undecided. The delay in §309(a) is expressly limited to Title III-A. The exact neutral text and source are in [the entering-law supplement](../entering-law/IIRIRA_633_SUPPLEMENT.md). The latest processed legal change is September 30, 1996; the latest Court-event cursor remains July 1, 1996.

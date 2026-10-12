@@ -1,0 +1,650 @@
+9) 
+No. 95-1521 nom 
+
+
+IN THE 
+Supreme Court of the Hnited States 
+
+
+OcToBER TERM, 1995 
+
+
+UniTeD STATES DEPARTMENT OF STATE, 
+BUREAU OF CONSULAR AFFAIRS, ET AL., 
+
+
+Petitioners. 
+Vv 
+LEGAL ASSISTANCE FOR VIETNAMESE 
+ASYLUM SEEKERS, INC., ET AL., 
+Respondents. 
+
+
+On 4 Writ oF CERTIORARI TO THE 
+Unitep States Court OF APPEALS 
+FOR THE District oF COLUMBIA 
+
+
+SUPPLEMENTAL BRIEF FOR RESPONDENTS 
+
+
+Rosert B. Jose WILLIAM R. STEIN 
+
+Law Ofrices oF RoBert Jose Counsel of Record 
+
+360 Pine Street DANIEL WoLF 
+
+3rd Floor M. KATHLEEN O'CoNNoR 
+
+San Francisco, CA 94104 ROBERTA Koss 
+
+(415) 956-5513 Hucues Hupsarp & Reep, LLP 
+1300 I Street, N.W. 
+Suite 900 West 
+
+
+Washington, DC 20005 
+(202) 408-3600 
+
+
+Counsel for Respondents 
+
+
+TABLE OF AUTHORITIES 
+
+
+CASES 
+
+
+American Steel Foundries v. Tri-City Central Trades 
+Council, 257 U.S. 184 (1921) 
+Bell v. Hood, 327 U.S. 678 (1946) 
+Bowen v. Massachusetts, 487 U.S. 879 (1988) 
+Chew Heong v. United States, 112 U.S. 536 (1884) ..0........000000. 
+County of Los Angeles v. Davis, 440 U.S. 625 (1979) 
+Duplex Printing Press Co. v. Deering, 254 U.S. 443 
+
+
+Fiallo v. Beli, 430 U.S. 787 (1977) 
+First National Bank v. Smith, 610 F.2d 1258 (Sth Cir. 
+
+
+Franklin v. Gwinnett County Public Schools, 503 U.S. 
+
+ee tla elie Tis adi siscicnlininsscontiscereees 4,5 
+Greene v. McElroy, 360 U.S. 474 (1959) 
+Greene v. United States, 376 U.S. 149 (1964) ooo... cccecccecceeeee 2,5 
+Hall v. Beals, 396 U.S. 45 (1969) 
+Kleindienst v. Mandel, 408 U.S. 753 (1972) 
+Konn v. Laird, 460 F.2d 1318 (7th Cir. 1972) 
+Landgraf v. USI Film Products, 114 S. Ct. 1483 
+
+SEED. cocthinndebddalaebdildiacakdiecdtinltanseiiabdiddtamscidaddbentianstibesdussbets 2,5 
+Louisiana v. United States, 380 U.S. 145 (1965) 
+Mount Graham Coalition v. Thomas, 89 F.3d 554 (9th 
+
+
+Narenji v. Civiletti, 617 F.2d 745 (D.C. Cir. 1979), 
+cert. denied, 446 U.S. 957 (1980) 
+
+National Society of Professional Engineers v. United 
+States, 435 U.S. 679 (1978) 
+
+Pennsylvania v. Wheeling & Belmont Bridge 
+Company, 59 U.S. (18 How.) 421 (1856) 
+
+Rice v. Sioux City Memorial Park Cemetery, Inc. , 349 
+U.S. 70 (1955) 
+
+Rivers v. Roadway Express, 114 S. Ct. 1510 (1994) ...00..0.0000... 2,6 
+
+Shell Oil Company v. lowa Department of Revenue, 
+488 U.S. 19 (1988) 
+
+Swann v. Charlotte-Mecklenburg Board of Education, 
+402 U.S. 1 (1971) 
+
+
+Thigpen v. Roberts, 468 U.S. 27 (1984) .....cccccccceseeeeeeeeeenneeneenennnns | 
+Triangle Improvement Council v. Ritchie, 402 U.S. 
+FF COED acccesieneersicinnctinstbtncnhilipaienstacdemenitanietiqnsesenssananenten 10 
+STATUTES 
+Administrative Procedure Act, 5 U.S.C. 
+i TI csiticcacelesa slic eebasiacleciinhpteplarivnsiieboeténvenretueeiprevevststensunsteatgntang 5 
+I Fa sciccendisbtieneiddh odsiedlicintintindebsasdeiiebertedisiecvnceentecseoneqnans 4,5 
+Immigration and Nationality Act, 8 U.S.C. 
+IIE iscsi soda retiteidbvtalinpinidtiaginianidteatetesnensrveeeerncoreeesentn passim 
+
+
+Illegal Immigration Reform and Immigrant 
+Responsibility Act of 1996 (enacted as Division C 
+of the Department of Defense Appropriations Act, 
+1997, Pub. L. No. 104-208, 110 Stat. 3009) 
+PGE ceccstitecandetlnesennticsnccinticesenincsnsivatatuinecsacecesessent passim 
+§§ 212(e), 306(c), 309(c)(5), 321(b), 322(c), 
+324(c), 342(b), 347(c), 351(c), 412(e)(4), 
+
+
+GIGS ccscrcredetrewestensnsstoensinsasccisetesesscessveivianenasnnssen 3 
+MISCELLANEOUS 
+1 Dan B. Dobbs, Law of Remedies, 225, 227 (2d ed. 
+TIPU ccschssbitssinetarinielcliediaacndpshiniebunseesnosevesteesnqesnsctnsssensennennenmetenapeens 3 
+Rule 10, Supreme Court Rules .............cc:cccccesseeseeseeeeeeeeeeeennenenennns 10 
+
+
+Respondents submit this supplemental brief in response to this 
+Court's order of October 2, 1996. 
+
+
+The Department suggests in its Reply Brief (at 4) that the 
+Court vacate the judgment below and remand this case for further 
+consideration in light of § 633 of the Illegal Immigration Reform 
+and Immigrant Responsibility Act of 1996 ("IIRA"). The Court 
+should decline this suggestion and decide the case on the merits. 
+As detailed below, § 633 does not apply retroactively to render 
+moot respondents’ statutory claim under 8 U.S.C. § 1152(a)(1) and 
+does not deprive respondents of a remedy for pre-enactment 
+violations of their right to IV processing in Hong Kong -- a right 
+that was fully matured at the time of the enactment of the IIRA. 
+Further, as the Department concedes, § 633 does not render moot 
+respondents’ constitutional claim under the Fifth Amendment or 
+their arbitrary and capriciousness claims under the APA. ' 
+
+
+1. The equities militate against accepting the Department's 
+invitation to vacate and remand. If the Court were to accept this 
+invitation, respondents would be placed in immediate danger of 
+forcible repatriation. In an effort to justify a stay of the mandate 
+in this case and a stay pending appeal in Lisa Le, the Department 
+obtained from the HKG an undertaking not to forcibly repatriate 
+plaintiffs here and in Lisa Le pending this Court's disposition of 
+this case. In response to this Court's order of October 2, 
+respondents requested that the Department seek from the HKG an 
+extension of the undertaking to cover the proceedings on remand. 
+The Department refused. A remand of the case would cause the 
+HKG's undertakings to lapse and would likely subject respondents 
+to immediate forcible repatriation. 
+
+Apart from exposing respondent beneficiaries to the danger of 
+forcible repatriation, vacatur would significantly delay the 
+resolution of a case which, owing in no small measure to the 
+
+
+1. Whether or not the Court agrees that respondents’ § 1152(a)(1) claim is 
+moot, it should proceed to consider these claims. Although the court of appeals 
+did not find it necessary to rule on these claims, where, as here, alternate grounds 
+for relief have been fully briefed and argued before the courts below and the 
+record 1s sufficient to review them, this Court may consider those grounds. See 
+Thigpen v. Roberts, 468 U.S. 27, 30, 32 (1984). 
+
+
+Department's procedural maneuvering (Opp. Cert. at 14-16), has 
+been tied up in the appellate courts for more than two and one half 
+years. This would be unfair to respondents, who filed this action 
+for the purpose of vindicating their right and the right of similarly 
+situated persons to timely non-discriminatory processing of their 
+visa applications in Hong Kong in order to end their detention and 
+prolonged separation from their loved ones. /d. at 14. 
+
+
+2. Respondents’ statutory claims are not moot because § 633 
+does not retroactively “legalize” a Department policy that violated 
+the INA before it was amended. The Department's discriminatory 
+policy violated § 1152(a)(1) prior to the effective date of the ITRA, 
+September 30, 1996. Section 633 does not render lawful conduct 
+that was unlawful under the old law. 
+
+
+_ This Court will not construe a new law in a manner that 
+“attaches new legal consequences to events completed before its 
+enactment” absent “an express statutory command” or, at the least, 
+an expression of “clear congressional intent favoring such a 
+result." Landgraf v. USI Film Prod., 114 S. Ct. 1483, 1499, 1505 
+(1994); see Greene v. United States, 376 U.S. 149, 160 (1964).’ 
+
+The presumption against retroactivity is no less applicable in 
+situations where Congress seeks to correct what it believes to be a 
+court's improper statutory construction. As the Court stated in 
+Rivers v. Roadway Express, 114 S. Ct. 1510, 1516 (1994), "[e}ven 
+on th{e] assumption” that such factors are present in the case of a 
+given statute, a “clear expression of congressional intent to reach 
+cases that arose before its enactment” is nonetheless required 
+before a statute will be construed to have retroactive effect. 
+
+
+Here, there is no express statutory command making § 633 
+retroactive. Nor is there any clear expression of legislative intent. 
+To the contrary, the fact that § 633 is silent on the subject of 
+retroactivity, while at least twelve other provisions of the ITIRA 
+
+
+2. The fact that § 633 amends a statutory provision that arises in the exclusion 
+context does not alter the presumption against retroactivity. See Chew Heong v. 
+United States, |12 U.S. 536 (1884) (applying presumption against retroactivity to 
+statute barnng Chinese laborers from reentering the United States who exited 
+without a reentry certificate). 
+
+
+(including the section immediately preceding § 633)' are expressly 
+retroactive, is compelling, if not conclusive, evidence that 
+Congress did not intend § 633 to be retroactive.” 
+
+
+3. Respondents remain entitled to a remedy for the 
+Department's past illegal conduct. From the time they filed this 
+lawsuit in February 1994, respondents sought two separate 
+remedies: a preventive injunction, i.¢., an injunction to compel 
+future compliance with the law, and a reparative injunction, 1.e., 
+an injunction to compel the Department to process the IV 
+applications of respondent visa beneficiaries in a manner 
+necessary to remedy, so far as possible, the effects of the 
+Department's past illegal conduct See | Dan B. Dobbs, Law of 
+Remedies, 225, 227 (2d ed. 1993) (distinguishing “reparative” 
+injunctions, which “restore the plaintiff to a preexisting 
+entitlement,” and “preventive” injunctions, which enjoin future 
+conduct). 
+
+
+We acknowledge that § 633 may prevent respondents from 
+obtaining the preventive injunction originally sought in their 
+§ 1152(a)(1) statutory claim (but see pp. 7-8, infra), that is, an 
+injunction permanently requiring the Department in the future to 
+process Vietnamese IV applicants in Hong Kong in compliance 
+with § 1152(a)(1) on a non-discriminatory basis. 
+
+
+3. See MRA §§ 212), 306(c), 3O%cKS), 321(b), 322(c), 324(c), 342(b), 
+347(c), 3S1ic), 4124), 632(b)(1). 
+
+
+4. The Department's argument that § 633 does apply retroactively is based 
+entirely on two floor speeches of Congressmen who were strongly opposed to § 
+633. (Reply Br. at 3.) This is hardly the type of clear statement of congressional 
+intent that this Court requires to overcome the strong presumption against 
+retroactive application of a new law. Shell Oi! Co. v. lowa Dep't of Revenue, 488 
+U.S. 19, 29 (1988) ("[T)he fears and doubts of the opposition are no authoritative 
+
+
+guide to the construction of legislation.”’). 
+
+
+5. _ As the district court in this case correctly noted, from the outset respondents 
+sought an “injunction directing defendants ‘to take all necessary and proper action 
+to facilitate and expedite processing and to otherwise eliminate the effects of [the 
+Department's} illegal policy.” Pet. at 25a-26a (quoting plaintiffs’ motion for 
+summary judgment), see also JA 28. 
+
+
+Respondents, however, remain entitled to reparative relief to 
+remedy the Department's past illegal policy. Section 633 does not 
+on its face eliminate any remedies to which respondents may be 
+entitled for past violations of § 1152(a)(1). For a period of at least 
+eleven months between April 1993 and March 1994, and twenty- 
+two months between December 1994 and September 1996, the 
+Department refused to process Vietnamese IV applicants in Hong 
+Kong, in violation of § 1152(a)(1) as then in effect. During that 
+period, respondents’ IV applications were or became “current,” 
+i.e., respondents were entitled to immediate processing of their 
+applications and, if found eligible, issuance of a visa -- a process 
+that typically takes a few weeks. As of September 30, 1996, 
+therefore, respondents had a fully matured claim that the 
+Department had discriminated against them in violation of 
+§ 1152(a)(1). Had the Department not acted unlawfully, all of the 
+
+
+respondents would have been processed before September 30, 
+1996. 
+
+
+For this reason, respondents’ statutory claim is not moot. A 
+case is not rendered moot unless “events have completely and 
+irrevocably eradicated the effects of the alleged violation.” 
+County of Los Angeles v. Davis, 440 U.S. 625, 631 (1979). Here, 
+the effects of the Department's illegal policy still persist. 
+Respondents now seek a remedy that looks back to the period of 
+illegal conduct and attempts to put the respondents, as far as 
+— into the position they would now be in but for the illegal 
+c , 
+
+
+"Once a right and a violation have been shown, the scope of a 
+district court's equitable powers to remedy past wrongs is broad, 
+for breadth and flexibility are inherent in equitable remedies.” 
+Swann v. Charlotte-Mecklenburg Bd. of Educ., 402 US. 1, 15 
+(1971). In view of the federal court's broad remedial power and 
+the familiar presumption that for every right there is a remedy, 
+reparative relief that orders the Department to restore what it 
+unlawfully withheld unquestionably is available. See, e.2., 
+Franklin v. Gwinnett County Pub. Sch., 503 U.S. 60, 66 (1992): 
+Bell v. Hood, 327 U.S. 678, 684 (1946). Indeed, Section 706 of 
+the APA provides courts with broad equitable powers to remedy 
+the impermissible actions of federal agencies, including the power 
+to compel agency action “unlawfully withheld or unreasonably 
+
+
+delayed.” 5 U.S.C. § 706. See also 5 U.S.C. § 702 (authorizing all 
+forms of relief other than money damages); Bowen vy. 
+Massachusetts, 487 U.S. 879 (1988). Courts routinely require the 
+government to undertake action not specifically required by law 
+when necessary to remedy the effects of past unlawful conduct.° 
+
+
+Nothing in § 633 precludes such relief. Section 633 does not 
+prohibit the Department from processing respondents’ [IV 
+applications in Hong Kong. It simply says that the Department is 
+no longer required to do so. In light of the presumption in favor of 
+the existence of a remedy, § 633 cannot be construed to bar 
+remedies absent a clear expression of congressional intent to do 
+so. No such clear expression of congressional intent can be found 
+in the language or legislative history of § 633. 
+
+
+Citing Landgraf, however, the Department asserts that all 
+injunctive relief is "prospective," and thus, that the enactment of 
+§ 633, by rendering the Department's policy lawful at the present 
+time, leaves respondents with no remedy for the Department's 
+unlawful discrimination in the past. Reply Br. at 2. 
+
+
+The Department's position stretches the Court's passing 
+comment in Landgraf far beyond its intended meaning. The Court 
+there explained that "[w]Jhen the intervening statute authorizes or 
+affects the propriety of prospective relief, application of the new 
+provision is not retroactive." /d. at 1501. The cases that the Court 
+cited for this proposition (as well as those cited by the 
+Department, Reply Br. at 2-3), however, either addressed statutory 
+enactments that expressly eliminated the requested remedy, 
+
+
+6. See, e.g., Louisiana v. United States, 380 U.S. 145, 154 (1965) (courts have 
+"the duty to render a decree which will so far as possible eliminate the 
+discriminatory effects of the past"); Greene v. United States, 376 U.S. 149, 152- 
+53, 160-64 (1964) (petitioner entitled to remedy for lost earnings based on the 
+1955 regulation in effect at the time of the government's illegal action 
+withholding his security clearance, notwithstanding promulgation while the 
+matter was pending of new regulations placing additional burdens on him), 
+National Soc. of Professional Engineers v. United States, 435 U.S. 679, 698 
+(1978), Konn v. Laird, 460 F.2d 1318, 1319 (7th Cir. 1972) (“mandamus is 
+available to remedy the consequences” of the government's failure to follow its 
+own regulations) (citing numerous cases); First Nat'l Bank v. Smith, 610 F.2d 
+1258, 1262-63 (Sth Cir. 1980). 
+
+
+> oe 
+.- — 
+
+
+eliminated the need for any remedy, or involved circumstances 
+where the plaintiffs were not seeking reparative relief.’ These 
+cases simply do not involve the type of injunctive relief sought by 
+respondents, i.e., relief to eliminate the effects of past unlawful 
+conduct by requiring the Department to process the applications of 
+‘current” Vietnamese nationals whose processing was illegally 
+withheld prior to the enactment of § 633. 
+
+
+The operative question in determining whether a remedy is 
+retrospective or prospective is not whether the remedy to be 
+granted will take place in the future -- after all, all remedial 
+
+
+decrees, be they judgments for money damages or mandatory 
+injunctions, are to take place in the future -- but whether the 
+
+
+. purpose of the remedy is to correct for the effects of wrongful 
+
+
+conduct in the past or to require future compliance with the law. 
+See Landgraf, 114 S. Ct. at 1526 (Scalia, J., concurring) 
+(recognizing that purpose of prospective relief is to affect the 
+future rather than remedy the past). As demonstrated supra, that a 
+reparative injunction is available to remedy the effects of past 
+discrimination is well-established. 
+
+
+4. In our merits brief (at 9-10, 25-36), we argued that the 
+State Department violated the equal protection rights of U.S. 
+citizen respondents Em Van Vo, Mandy Yung and Nguyen Van 
+Dien when it discriminated against them on the basis of national 
+
+
+7. See American Steel Foundries v. Tri-City Cent. Trades Council, 257 U.S 
+184 (1921) (applying Clayton Act, which had passed during pendency of case and 
+which forbade injuncuions to restrain employees from picketing, to remove 
+injunction entered pnor to its enactment); Duplex Printing Press Co. v. Deering 
+254 U.S. 443, 464 (1921) (injunction still available for violation of antitrust law, 
+despite amendment eliminating availability of injunctive relief to remedy other 
+violations), Hall v. Beals, 396 U.S. 45 (1969) (eliminating need for remedy as 
+case had become moot under new legislation that reduced the residency 
+requirements for voters from six to two months); Pennsylvania v. Wheeling & 
+Belmont Bridge Co.. $9 U.S. (18 How.) 421 (1856) (after court had ordered 
+removal of bridge found to be nuisance, intervening legislation declared bridge to 
+be lawful road passage: court found because placement of bridge no longer 
+violated the law, it would accomplish nothing to require removal, as bridge could 
+be rebuilt), Mount Graham Coalition v. Thomas, 89 F.3d 554 (9th Cir. 1996) 
+(intervening legislation explicitly gave defendant right to build a telescope 
+project, thereby superseding the previous restrictions). 
+
+
+origin in the administration of a neutral family reunification 
+program. The Department argues that this claim is no longer valid 
+because Congress in enacting § 633 has expressly delegated to the 
+Secretary affirmative authority to discriminate in visa processing 
+on the basis of race, gender and national origin. The Department 
+is wrong. 
+
+As explained in our merits brief (at 29-30), to the extent 
+constitutional authority exists in the immigration « ntext to 
+discriminate against American citizens on the basis of suspect 
+classifications, only Congress (and perhaps the President) may 
+wield such authority. As we further explained (at 31-36), this 
+Court requires clear evidence of congressional intent before it will 
+impute a delegation of authority committing to an administrative 
+agency unfettered discretion to interfere with the enjoyment of a 
+protected liberty interest." 
+
+Section 633 is by no means a clear delegation of such 
+authority. By its terms, § 633 authorizes nothing. Rather, the new 
+provision merely states that "/nJothing in this paragraph 
+(referring to § 1152(a)(1)} shall be construed to limit the authority 
+of the Secretary of State” in respect of immigrant visa processing. 
+Accordingly, to the extent the Secretary otherwise has the 
+authority to discriminate on the basis of race, gender and national 
+origin, § 1152(a)(1) can no longer be construed as limiting that 
+authority with respect to visa processing. To the extent that the 
+Secretary lacks such authority, however, § 633 does not 
+
+
+' affirmatively grant him such sweeping and dangerous power. In 
+
+
+fact, the Department agrees that the amendment "was intended not 
+to change the law.” Reply Br. at 3. 
+
+
+Under the Department's interpretation, § 633 is an affirmative 
+grant of authority to discriminate against any “person” (and not 
+just aliens outside the United States) in visa processing not only 
+
+
+8. See Greene v. McElroy, 360 U.S. 474 (1959). In McElroy, this Court held 
+that even in the context of national security -- an area involving the most sensitive 
+ot interests -- the traditional safeguards of due process may “not be restricted by 
+implication or without the most explicit action by the Nation's lawmakers, even in 
+areas where it is possible that the Constitution presents no inhibition.” Id. at 507 
+
+
+(emphasis added). 
+
+
+on the basis of nationality and national origin, but also on the basis 
+of race and gender. If this interpretation were correct, § 633 
+would run afoul of the constitution, even though it relates to 
+immigration. Under the test enunciated in Fiallo v. Bell, 430 U.S. 
+787, 794 (1977), and Kleindienst v. Mandel, 408 U.S. 753, 770 
+(1 972), congressional policy choices concerning the admission of 
+aliens must be supported by at least "a facially legitimate and bona 
+fide reason." A congressional policy choice that would allow the 
+Secretary to discriminate against American citizens in the 
+administration of benefits under a congressional program on the 
+
+
+basis of, for example, the race of their family members cannot 
+meet even that level of scrutiny.” 
+
+
+5. If the Court is inclined to relinquish this case, it should 
+dismiss the writ of certiorari as improvidently granted, rather than 
+vacating and remanding as the Department suggests, because the 
+reasons given by the Department for why the writ should be 
+granted no longer apply. In its petition (at 25), the Department 
+argued that this Court should grant certiorari because it believed 
+the decision below would deprive the Department of the ability "to 
+respond to uncontrolled migration" and would “cast doubt” on its 
+ability to “require special procedures for visa applications by 
+nationals of certain countries." Whatever merit these arguments 
+once had -- and we believe they had none -- the enactment of § 
+633 ensures that henceforth § 1152(a)(1) cannot "be construed to 
+limit" the Secretary's authority in these areas. Accordingly, the 
+principal concern that led the Department to seek certiorari has 
+disappeared. 
+
+
+9 Inits supplemental brief, the Department cites Narenji v. Civiletti, 617 F.2d 
+745 (D.C. Cir. 1979), cert. denied, 446 U.S. 957 (1980), for the proposition that 
+the Executive Branch can draw distinctions among aliens on the basis of 
+nationality, “so long as the classifications are not wholly irrational.” Narenji, 
+however, is inapposite for two reasons. First, unlike Narenji, which involved 
+aliens who were invited to this country on student visas, this case involves the 
+constitutional nghts of American citizens. Second, the Attorney General in 
+Narenji was — — “at the direction of the President.” /d. at 617. In 
+contrast, in this case, neither the President not the Congress has delegated to the 
+Secretary, who has no inherent constitutional power of his own over immigration, 
+the authority to discriminate against American citizens. 
+
+
+The other basis on which the Department urged certiorari -- 
+that IV processing would “derail” the CPA -- is even more 
+incredible today than it was when the Department first advanced 
+it. The CPA has expired, leaving the issue of visa processing 
+nothing more than a bilateral issue between the United States and 
+Hong Kong/Great Britain. The record, however, is devoid of any 
+evidence that Hong Kong or Great Britain have any concerns 
+relating to U.S. immigrant visa processing in Hong Kong. To the 
+contrary, both Great Britain and Hong Kong (as well as Australia 
+and New Zealand) process in Hong Kong the IV applications of 
+Vietnamese boat people. Opp. Cert. at 24-25; Supplemental 
+Declaration of Mark L. Zuckerman, executed on Oct. 11, 1996 
+("Zuckerman Decl.") at J 7 (lodged with the Clerk). Indeed, Hong 
+Kong has processed over 400 such applications since January 
+1994. Opp. Cert. at 24. Further, if Hong Kong were concerned 
+about IV processing by the U.S. Consulate, it had and has the 
+power to stop it because the boat people cannot be released from 
+detention to attend consular interviews without the HKG's 
+cooperation. 
+
+Nor is there (or was there ever) any danger that IV processing 
+will discourage voluntary repatriation.'” As a result of § 633, the 
+only persons entitled to IV processing under the decision below 
+are those whose visas became current before September 30, 1996, 
+the effective date of IIRA. There are 35 such individuals out of a 
+total remaining camp population of 11,500. Zuckerman Decl. at 
+2. It defies common sense to suggest that the 99.7% of the camp 
+population who are not in this closed group are influenced in their 
+decision to remain in detention by IV processing for the handful of 
+people who are. Opp. Cert. at 25-27. 
+
+
+As the Department is aware, the HKG is determined to clear 
+the camps before the Colony reverts to the control of Communist 
+China on July 1, 1997, and is forcing boat people to return to 
+Vietnam at a rate of 600 to 750 per month. The rate of additional 
+"voluntary" repatriation is now 600 to 700 per month and consists 
+
+
+10. The Department has never produced anything but self-serving litigation 
+affidavits to support its claim that IV processing reduces voluntary repatriation. 
+The statistical evidence flatly contradicts this claim. Opp. Cert. at 25-26. 
+
+
+10 
+
+
+largely of those who have been notified that if they do not 
+repatriate by a fixed time, they will be subject to imminent forced 
+repatriation. Zuckerman Decl. at {{ 3-4. It is absurd to suggest 
+that their decision to "voluntarily" repatriate to Vietnam will be 
+influenced one way or another by the decision below. In fact, the 
+United Nations High Commissioner for Refugees recently notified 
+the Department that it does not object to [V processing in Hong 
+Kong of the 35 IV beneficiaries whose visa petitions had become 
+current prior to September 30, 1996 and does not believe that such 
+processing will have any adverse effect on voluntary repatriation. 
+Id. at { 6. 
+
+
+Vacatur is inappropriate in this case. As discussed supra, § 
+633 does not retroactively make lawful the Department's policy 
+before September 30, 1996, which the D.C. Circuit held was 
+unlawful under § 1152(a)(1) as it then provided. While the 
+enactment of § 633 may raise a question about the nature of the 
+relief now available to respondents to remedy that past violation of 
+law, the statute says nothing about whether the decision below was 
+incorrect. If, in light of ITRA, the decision below no longer raises 
+issues of important federal law that should be settled by this Court, 
+see Sup. Ct. R. 10, the appropriate course is to dismiss the writ and 
+allow the decision below to stand, as it would have had certiorari 
+not been granted. See Triangle Improv. Council v. Ritchie, 402 
+U.S. 497, 498-99 (1971) (Harlan, J., concurring); Rice v. Sioux 
+City Memorial Park Cemetery, Inc., 349 U.S. 70, 75-76 (1955)."" 
+
+
+CONCLUSION 
+
+
+The Court should consider the case on the merits and affirm. 
+In the alternative, the Court should dismiss the writ of certiorari as 
+improvidently granted. 
+
+
+11. Dismissal of the writ also would be fairer to respondents than vacatur, 
+because it is likely to result in a quicker disposition by the court below, which 
+would not be burdened by the Department's inevitable effort to relitigate the 
+issues that were decided against it the last time around. 
+
+
+1] 
+
+
+Robert B. Jobe 
+
+LAW OFFICES OF ROBERT JOBE 
+360 Pine Street 
+
+3rd Floor 
+
+San Francisco, CA 94104 
+(415) 956-5513 
+
+
+October 1996 
+
+
+Respectfully submitted, 
+
+
+William R. Stein 
+Counsel of Record 
+Daniel Wolf 
+M. Kathleen O’ Connor 
+Roberta Koss 
+HUGHES HUBBARD & REED LLP 
+1300 I Street, N.W. 
+Washington, DC 20005 
+(202) 408-3600 
+
+
+Counsel for Respondents 
+
+

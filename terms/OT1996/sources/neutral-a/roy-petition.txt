@@ -1,0 +1,1321 @@
+_— PIL @ 1 
+
+
+\ 
+\ 952025 JUN 17 1996 
+No. 
+
+
+ale Ar ruc ™co 
+OFFICE OF frie CLERK 
+
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+OCTOBER TERM, 1995 
+
+
+THE PEOPLE OF THE STATE OF CALIFORNIA 
+
+and 
+
+DANIEL E. LUNGREN, 
+
+ATTORNEY GENERAL OF THE STATE OF CALIFORNIA, 
+Petitioners, 
+
+
+KENNETH DUANE ROY, Respondent. 
+
+
+ON PETITION FOR WRIT OF CERTIORARI TO THE 
+UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT 
+
+
+— 
+
+
+PETITION FOR WRIT OF CERTIORARI 
+
+
+DANIEL E. LUNGREN 
+Attorney General 
+GEORGE WILLIAMSON 
+Chief Assistant Attorney General 
+ROBERT R. ANDERSON 
+Senior Assistant Attorney General 
+ARNOLD O. OVEROYE 
+Senior Assistant Attorney General 
+EDMUND D. McMURRAY 
+Supervising Deputy Attorney General 
+MARGARET GARNAND VENTURI 
+Supervising Deputy Attorney General 
+Counsel of Record 
+
+1300 I St., Suite 125 
+
+P.O. Box 944255 
+
+Sacramento, CA 94244-2550 
+
+Telephone: (916) 324-5252 
+Counsel for Petitioners j 
+
+
+CCOr Y 
+
+
+i —————————————————————————————— 
+
+
+QUESTION PRESENTED 
+
+
+Whether federal Due Process requires, on 
+federal collateral review of state instructional errors 
+related to an element of a criminal offense, that the 
+prosecution meet a higher standard for harmlessness akin 
+to that urged by the concurring opinion in Carella v. 
+California, 491 U.S. 376, 105 L.Ed.2d 218, 109 S.Ct. 2419 
+(1989), rather than the "substantial and injurious effect" 
+standard dictated by Brecht v. Abrahamson, 507 U.S. 619, 
+123 L.Ed.2d 353, 113 S.Ct. 1710 (1993). 
+
+
+TABLE OF CONTENTS 
+
+
+OPINION BELOW 
+JURISDICTION 
+
+
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS 
+
+
+STATEMENT OF THE CASE 
+
+
+REASONS FOR GRANTING THE PETITION 
+
+
+ARGUMENT 
+
+
+I. THE MAJORITY OPINION 
+IMPROPERLY GRAFTS THE 
+CARELLA STANDARD ON TO THE 
+BRECHT STANDARD FOR 
+HARMLESS ERROR REVIEW, 
+CONFLICTS WITH OPINIONS 
+FROM THE FIRST AND SEVENTH 
+CIRCUITS AND, THUS, 
+AGGRAVATES THE SPLIT IN 
+CIRCUIT OPINIONS 
+
+
+Il. THE MAJORITY EN BANC 
+OPINION OF THE COURT OF 
+APPEALS IS WRONG 
+
+
+Ill. THE QUESTION PRESENTED IS 
+IMPORTANT 
+
+
+CONCLUSION 
+
+
+10 
+
+
+1] 
+
+
+1] 
+
+
+16 
+
+
+25 
+
+
+Cases 
+
+
+Arizona v. Fulminante, 
+499 U.S. 279, 307, 113 L.Ed. 2d 302, 
+111 S.Ct 1246 (1991) 13, 16 
+
+
+Brecht v. Abrahamson, 
+
+507 U.S. 619, 123 L.Ed.2d 353, 
+113 S.Ct. 1710 (1993) i, 6, 10-18, 24 
+Carella v. California, 
+
+491 U.S. 376, 105 L.Ed.2d 218, 
+
+109 S.Ct. 2419 (1989) i, 4, 6, 10, 12, 13, 18, 19, 24 
+
+
+Chapman v. California, 
+386 U.S. 18, 17 L.Ed.2d 705, 
+87 S.Ct 824 (1967) 3, 4, 18 
+
+
+Cuevas v. Washington, 
+36 F.3d 612 (7th Cir. 1994) 10, 12-14, 16 
+
+
+Duncan v. Henry, 
+___ US. __, 130 L.Ed.2d 865, 
+115 S.Ct 887 (1995) 16, 17 
+
+
+Kontakis v. Beyer, 
+19 F.3d 110 (3d Cir. 1994), 
+rehg. en banc, denied (1994), 
+cert. den. sub nom. Kontakis v. Morton, 
+US. __, 130 L.Ed.2d 143, 
+115 S.Ct. 215 (1994) 14, 23 
+
+
+TABLE OF AUTHORITIES, CONT'D TABLE OF AUTHORITIES, CONT'D 
+
+Kotteakos v. United States, People v. Kobrin, 
+328 U.S. 750, 90 L.Ed 1557, 11 Cal.4th 416, 45 Cal.Rptr.2d 895, 
+66 S.Ct 1239 (1946) 17 903 P.2d 1027 (1995) 14, 16 
+Libby v. Duvail, People v. Roy, 
+19 F.3d 733 (ist Cir. 1994) 10, 12, 13 207 Cal.App.3d 642, 
+
+255 Cal.Rptr. 214 (1989) 2 
+Miranda v. Arizona, 
+384 U.S. 436, 16 L.Ed.2d 694, People v. Watson, 
+86 S.Ct 1602 (1966) 11 46 Cal.2d 818 (1956) 16 
+O'Neal v. McAninch, Rosa v. Peters, 
+__ US. __, 130 L.Ed.2d 947, 36 F.3d 625 (7th Cir. 1994) 13 
+115 S.Ct 992 (1995) 6, 11, 12, 16-19, 24 
+
+Roy v. Gomez, 
+Peck v. United States, 55 F.3d. 1483 (9th Cir. 1995) 1, 21 
+73 F.3d 1220 (2d Cir. 1995) 14 
+
+Roy v. Gomez, 
+People v. Beeman, 66 F.3d 254 (9th Cir. 1995) 1 
+35 Cal.3d 547, 199 Cal.Rptr. 60, 
+674 P.2d 1318 (1984) 4-6, 19, 20, 23 Roy v. Gomez, 
+
+81 F.3d 863 (9th Cir. 1996) l 
+People v. Dyer, 
+45 Cal.3d 26, 246 Cal.Rptr 209, United States v. Marder, 
+753 P.2d 1 (1988), 48 F.3d 564 (1st Cir. 1995) 14 
+cert. den. sub nom. Dyer v. California, 
+488 U.S. 934, 102 L.Ed.2d 347, United States v. Raether, 
+109 S.Ct. 330 4, 20, 23 82 F.3d 192 (8th Cir. 1996) 14 
+People v. Harris, 
+
+
+9 Cal.4th 407, 37 Cal.Rptr.2d 200, 
+886 P.2d 1193 (1994) 14, 23 
+
+
+TABLE OF AUTHORITIES, CONT’D 
+
+
+Constitutional Provisions 
+
+
+California Constitution 
+art. VI, § 13 
+
+
+United States Constitution 
+Fifth Amendment 
+Sixth Amendment 
+Fourteenth Amendment 
+
+
+Statutes 
+
+
+28 United States Code 
+§ 1254(1) 
+§ 2254 
+
+
+California Penal Code 
+§ 31 
+§ 187 
+§ 189 
+§ 190.2, subd. (a)(3) 
+§ 190.2, subd. (a)(17)(i) 
+§ 211 
+§ 12022, subd. (b) 
+
+
+2, 16 
+
+
+> Nm NN 
+
+
+NNN NN WN 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES, CONTD 
+
+
+Court Rules 
+Rules of the Supreme Court of the United States 
+
+
+rule 10 
+
+
+Other Authorities 
+California Jury Instructions - Criminal ("“CALJIC") 
+
+
+2.01 
+2.02 
+3.00 
+3.01 
+3.31 
+3.34 
+3.35 
+4.25 
+5.30 
+8.21 
+8.27 
+8.31 
+8.77 
+8.79 
+8.80 
+8.81.17 
+8.83 
+8.83.1 
+17.16 
+17.45 
+901 
+
+
+» 
+
+wa 
+
+- 
+Su ww 
+
+
+ed 
+awe www Ww Ww 
+
+
+ww 
+- 
+
+
+ba 
+
+— 
+
+ou 
+woewweS8uwe 
+
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+
+OCTOBER TERM, 1995 
+No. 
+
+
+THE PEOPLE OF THE STATE OF CALIFORNIA 
+and 
+DANIEL E. LUNGREN, 
+ATTORNEY GENERAL OF THE STATE OF CALIFORNIA, 
+Petitioners, 
+
+
+Vv. 
+
+
+KENNETH DUANE ROY, Respondent. 
+
+
+OPINION BELOW 
+
+
+Petitioners respectfully petition for a writ of 
+certiorari to review the April 15, 1996, en banc decision 
+of the United States Court of Appeals for the Ninth 
+Circuit reversing, on collateral habeas review, a state 
+court judgment and conviction of respondent Kenneth 
+Duane Roy for first degree murder. The majority and 
+dissenting opinions (App. A) are reported as Roy v. 
+Gomez, 81 F.3d 863 (9th Cir. 1996). The September 26, 
+1995, order granting respondent’s petition for rehearing 
+and suggestion for rehearing en banc (App. B) is 
+reported at 66 F.3d 254. The reversed and superseded 
+June 9, 1995, opinion of the three judge panel of the 
+Ninth Circuit denying habeas relief (App. C) is reported 
+at 55 F.3d. 1483. The May 10, 1994, order and opinion 
+of the United Stated District Court Eastern District of 
+California (App. D) and the March 5, 1993, 
+
+
+memorandum of Findings and Recommendations of the 
+district court magistrate judge (App. E) are unreported. 
+The state Supreme Court’s November 21, 1988, denial of 
+respondent's petition for state habeas review (App. F) 
+also is not reported. The state Court of Appeal 
+remittitur of May 9, 1989 (App. G) is not reported nor 
+are the state Supreme Court order of May 4, 1989, 
+denying petitioners’ and respondent's petitions for review 
+and denying depublication (App. H) and the state Court 
+of Appeal February 22, 1989, order denying rehearing 
+(App. I). The majority and dissenting opinions of the 
+California Court of Appeal, Third Appellate District, 
+Case No. C000992 (App. J) are reported in part as 
+People v. Roy, 207 Cal.App.3d 642, 255 Cal.Rptr. 214 
+(1989). 
+
+
+URISDICTION 
+
+
+The Court of Appeals for the Ninth Circuit 
+entered its en banc judgment on April 15, 1996. 
+App. A. The Ninth Circuit has issued a stay of mandate 
+to June 21, 1996. The jurisdiction of this Court is 
+invoked pursuant to Title 28, United States Code, section 
+1254(1), and Rule 10 of the Rules of the Supreme Court 
+of the United States. 
+
+
+CON N O NS 
+
+
+The Due Process Clauses of the Fifth, Sixth and 
+Fourteenth Amendments to the United States 
+Constitution (App. K); article VI, section 13 of the 
+California Constitution (App. L); California Penal Code 
+sections 31, 187, 189, 211, 190.2(a)(3) and (a)(17)(i), and 
+12022(b) (App. M); California Jury Instructions - 
+
+
+Criminal (CALJIC), as given at respondent’s trial, Nos. 
+2.01 (1979), 2.02 (1979), 3.00 (amended by 4.25), 3.01 
+(1980), 3.31 (1980), 3.34 (1979), 3.35, 5.30, 8.21, 8.27 
+(1979), 8.77 (1979), 8.79, 8.80 (1981), 8.81.17 (1980), 
+8.83, 8.83.1, 901, 17.16 (1977) and 17.45 (App. N). 
+
+
+STATEMENT OF THE CASE 
+
+
+Follow:ng affirmance by the California courts of 
+review of his 1983 convictions by jury trial in People v. 
+Roy, Butte County Superior Court, Case No. 76386, for 
+aiding and abetting his companion, Jesse McHargue, in 
+the robbery-felony murder and robbery of Arch Mannix 
+and for second degree murder for respondent’s actual 
+killing of James Clark with a knife,* respondent sought 
+
+
+1. The jury acquitted respondent of robbing Clark. The jury 
+also found true a robbery-felony murder special circumstance which 
+mandated imposition of a life without parole sentence, but this 
+finding was reversed by the state Court of Appeal (App. J) on direct 
+appeal because it found the instructions "fused guilt and penalty 
+theories" such that the instructions as a whole "placied] the 
+relationship of the robbery to the killing in the identical posture for 
+purposes of culpability, under a felony murder theory, and penalty 
+as a special circumstance." App. J at 14. Petitioners’ state petition 
+for review of that part of the decision was denied. App. H. The 
+state Coun of Appeal also affirmed in a split decision the 
+underlying first degree felony murder and second degree murder 
+convictions after applying the Chapman harmless error test. See 
+Chapman v. California, 386 U.S. 18, 17 L.Ed.2d 705, 87 S.Ct 824 
+(1967) ("Chapman"). Respondent's petition for review of that 
+holding was denied. App. H. Reversal of the special circumstance 
+finding required remand for resentencing, and respondent received 
+a minimum state prison term of 46 years as follows: five years for 
+robbery of Mannix plus one year for being armed with a knife in 
+that robbery plus fifteen years to life for the second degree murder 
+of Clark plus twenty-five years to life for the first degree murder of 
+Mannix. App. O. It is respondent’s confinement pursuant to his 
+
+
+a writ of habeas corpus in the United States District 
+Court, Eastern District of California, pursuant to Title 28 
+of the United States Code, section 2254. Challenging 
+only his first degree, robbery-felony murder conviction for 
+killing Mannix and the underlying robbery, respondent 
+claimed the state court erred in finding instructional 
+error under People v. Beeman, 35 Cal.3d 547, . 199 
+Cal.Rptr. 60, 674 P.2d 1318 (1984) harmless beyond a 
+reasonable doubt and concluding that respondent had not 
+been deprived of due process and a fair trial. Under 
+Beeman, a case decided after respondent’s convictions, 
+aiding and abetting instructions are inadequate unless the 
+instructions inform the jury that the offense of aiding and 
+abetting requires an intent to facilitate the criminal 
+offense aided. Beeman at 560. The jury here was not 
+so instructed. Thus, error occurred under the due 
+process clause of the United States Constitution. See 
+App. K and Carella v. California, 491 U.S. 376, 105 
+L.Ed.2d 218, 109 S.Ct. 2049 (1989) ("Carella"). 
+However, the jurors were instructed that to 
+convict they must find respondent was liable for the 
+natural and probable consequences of acts he knowingly 
+aided or encouraged, that he acted with knowledge of 
+McHargue’s unlawful purpose (i.e., robbery); that, if it 
+found first degree murder, it must also determine 
+whether it was committed during a robbery and that the 
+robbery was not merely incidental to the commission of 
+
+
+conviction for the Mannix murder and robbery that is at issue in 
+this case. 
+
+
+2. Beeman subsequently was criticized by People v. Dyer, 45 
+Cal.3d 26, 246 Cal.Rptr 209, 753 P.2d 1 (1988), cert. den. sub nom. 
+Dyer v. California, 488 U.S. 934, 102 L.Ed.2d 347, 109 S.Ct. 330, 
+which held that Beeman error is not reversible per se, but on direct 
+appeal is subject to a Chapman beyond-a-reasonable-doubi harmless 
+
+
+error analysis. See Chapman at 24. 
+
+
+the murder* See App. N, CALJIC Nos. 3.00 as 
+amended by No. 4.25, 3.01, 8.27 (1979), 8.80 (1981), 
+8.81.17 (1980) as given by the trial court and to the jury 
+in writing. See also, App. J at 11-14. Petitioners 
+contend that these instructions, the evidence before the 
+jury and the jury’s factual findings rendered this error 
+harmless. 
+
+Respondent has contended in federal court, as 
+he did throughout the state appellate proceedings, see, 
+e.g., respondent’s state habeas petition, paras. 10(a) and 
+10(b), that the Beeman error was not harmless because 
+it deprived him of the right to jury trial and a finding on 
+proof beyond a reasonable doubt as to the intent 
+element of aiding and abetting. The magistrate judge 
+recommended denial of the writ, finding the error 
+harmless. App. E. The district court judge agreed and 
+denied the writ. App. D. In a two to one decision a 
+three judge panel of the Ninth Circuit also agreed and 
+found the error harmless. App. C. The Ninth Circuit 
+
+
+3. Significantly, the jury was also instructed that to find the 
+robbery-felony murder special circumstance allegation true, as it did, 
+see n. 1, ante p. 3, it must find beyond a reasonable doubt that 
+respondent “intentionally aided, abetted, counseled, commanded, 
+induced, solicited, requested or assisted the actual killer... ." App. 
+N, CALJIC No. 8.80; CT 875-76. The Court of Appeal reversed the 
+special circumstance because it decided that a hyper-technical 
+reading of the language of the felony-murder special circumstance 
+instruction taken in context with the instructions as a whole "fused" 
+the guilt and death-eligibility theories such that the jury could have 
+found respondent intentionally aided a robbery but did not intend 
+the killing that occurred during its commission. Intentional killing 
+is required for a special circumstance finding, but not for an aiding 
+and abetting a first degree felony-murder finding. For the latter, the 
+only intent requirement is the intent to aid the underlying robbery 
+offense. Beeman at 560, 561. See also, App. J, Court of Appeal 
+opinion at 16, 18-19, 21-22, 25-26, 34; App. C, three judge panel 
+opinion at 9, n. 2. 
+
+
+then granted respondent’s request for rehearing and 
+suggestion for rehearing en banc. Apps. C, B. On April 
+15, 1996, in another split decision (eight to three), the 
+majority opinion of the en banc panel reversed the 
+district court, relying on its own hybrid standard of 
+review culled from three opinions of this Court. First 
+the majority found that, were the case before it on direct 
+review, the error would not be harmless beyond a 
+reasonable doubt under the factors considered in the 
+concurring opinion of Justice Scalia in Carella. 
+Therefore, the majority concluded that, under what it 
+described as the "stricter standard for harmless error in 
+habeas cases" mandated by Brecht v. Abrahamson, 507 
+US. 619, 123 L.Ed.2d 353, 113 S.Ct. 1710 (1993) 
+("Brecht"), it could not be certain the jury found the 
+"misdescribed" element of intent. Accordingly, the 
+majority held that "a conscientious[*] judge can only be 
+‘in grave doubt as to the harmlessness of the error’ 
+O'Neal, 115 S.Ct at 995[*], and relief must be granted." 
+Thus, the majority effectively reversed respondent's 
+conviction of the first degree murder and the robbery of 
+Mannix. His conviction for second degree murder of 
+Clark remains intact. App. A at 7. 
+
+
+4. The majority’s lifting of this one phrase from O'Neal is 
+curious given that all of the state Supreme Court judges, two of the 
+State Court of Appeal judges, the federal magistrate judge, the 
+district court judge, two of the Ninth Circuit three judge panel 
+members and three of the en banc panel members found the 
+Beeman error harmless. One would think that the majority would 
+at least credit each of these judges as having been "conscientious" 
+in their decisions. Also of note, the opinion of the three judge 
+panel was penned by an Eighth Circuit judge sitting by designation. 
+Thus, this case itself essentially reflects the split among the circuits. 
+See App. B at 4. 
+
+
+5. O'Neal v. McAninch, ___ US. __, 130 L.Ed.2d 947, 115 
+S.Ct 992 (1995) ("O'Neal"). 
+
+
+Based on the jury findings, the killing of Mannix 
+occurred right after respondent by his own admission had 
+stabbed Clark to death, and both deaths occurred during 
+two virtually contemporaneous robberies. See App. A at 
+21-22 (dis. opn., Wallace, Cir. J.) The record discloses 
+that on the night of September 13, 1981, respondent, his 
+companion, McHargue, and the two victims, Clark and 
+Mannix, were out driving together in Mannix’s truck. 
+Sometime just before 11:15 p.m., a passerby, Maria 
+Smart, saw the truck straddling a ditch. RT 2050, 2564. 
+She asked two men standing by the truck if they needed 
+help. RT 2469. One man, later identified as McHargue, 
+said no they had made a call and pointed down the road. 
+RT 2473, 2482. As Mrs. Smart left in her car, she saw 
+a shirtless man, who appeared to be hurt, lying on the 
+ground moving only his hands. As she drove away, the 
+two other men were standing over him. RT 2469-76. 
+
+Sometime later, law enforcement officers 
+spotted the truck at the same place; one of them 
+recognized the truck as belonging to Mannix. RT 2051, 
+5054-58. It was in the ditch about five and a half feet 
+above water that was twelve inches deep in the ditch. 
+The body of Clark was lying on the other side of the 
+ditch. RT 2057, 2626, 2057-58. It was wet and muddy 
+and had a puncture wound in mid-chest with a small 
+pool of blood. RT 2058. Clark died from a single stab 
+wound through the heart. His jean’s pocket had been 
+turned inside out and there was a large amount of dirt 
+on his face and various body surfaces. RT 2690, 2693- 
+94. 
+
+Another body, that of Mannix, was under the 
+truck and was submerged in the water. He was shirtless, 
+his pants had been pulled down to his knees, and his 
+wallet and papers were spread on the ground at the rear 
+of the truck. RT 2063-64, RT 2390, 2669. The wallet 
+was empty although Mannix had had a large amount of 
+
+
+cash just the week before. RT 2207, 2637. Mannix had 
+been stabbed in the heart and abdomen and had been 
+drowned; either act could have killed him. RT 2698-01. 
+Post-mortem stab wounds were inflicted above and on 
+his left hip. RT 2711-12. The wounds were consistent 
+with those made by a buck knife. RT 2725. Both 
+victims had a high blood alcohol level (.19 percent for 
+Mannix and .27 percent for Clark). RT 2819. 
+
+About 3 o’clock the next morning, investigating 
+officers found respondent and McHargue at a restaurant 
+where they had been for two hours. RT 2069-72, 2668- 
+69. Each of them carried a buck knife. RT 2072-73, 
+2139. Respondent’s pants were wet up to the calf. RT 
+2285-86. His backpack was wet and muddy, and 
+Mannix’s moccasins and vest, both soaking wet, were 
+found inside it. RT 2275, 2424, 2452, 2662. McHargue’s 
+backpack was also very wet, his hands were muddy, and 
+his pants were completely wet. RT 2448-49, 2450. After 
+respondent’s arrest, Mannix’s watch and key ring with 
+keys were found among respondent’s belongings, and he 
+had a blue wallet with $170.53 in it. RT 2314, 2318-19, 
+2326, 2666. 
+
+Roy admitted he stabbed Clark and claimed 
+Clark had started hassling him. RT 2182-83. As to 
+victim Mannix, respondent gave several stories. He told 
+arresting officers that, after stabbing Clark, he turned 
+around and Mannix was already in the ditch and that he 
+(respondent) walked away. RT 2183-84. While in jail 
+prior to trial, respondent told inmate William Hudspeth 
+that, after he and McHargue met Mannix and another 
+man (Clark), they planned to rob them, take the truck, 
+and "to take them out," meaning kill them. RT 3118, 
+3120, 3123-24. He related how McHargue had trouble 
+with Mannix so he, respondent, pulled Mannix off 
+McHargue and stabbed him in the lower part of the 
+body and then pushed Mannix’s head under water to 
+
+
+make sure he was dead. RT 3127. He admitted taking 
+the victims’ money and clothing. RT 3128-29. 
+Respondent also told Hudspeth he intended to plead 
+self-defense and claim that he and McHargue had been 
+robbed. RT 3131. 
+
+Respondent told another jail inmate, Sidney 
+Hall, that he stabbed Clark after Clark had hit him with 
+a stick. RT 3200-01. He again admitted that he helped 
+McHargue hold Mannix under water, RT 3203-04, but 
+later retracted the drowning part of his story. RT 3204. 
+Respondent told Halli that a woman had driven by and 
+stopped at the crime scene. RT 3219. 
+
+At trial respondent did not testify; but, by 
+relying on statements made to investigating officers, he 
+claimed self-defense in the killing of Clark and denied 
+killing Mannix. Respondent also argued that mental 
+impairment from alcohol, lack of intelligence and 
+deficiency or disease caused him to reasonably believe in 
+the need for self defense and called two experts, trying 
+to establish his mental limitations. CT 5708, 5710, 5715, 
+5717-19. Both experts opined that respondent had some 
+brain dysfunction. One opined that he lacked the 
+capacity "to form a clear and deliberate intent to kill a 
+human being" and did not have the capacity to harbor 
+implied malice. RT 3577-78, 3641, 4282-83. The other 
+acknowledged that nothing in the test results indicated 
+that respondent could not form an intent to kill. RT 
+3657. The prosecution presented evidence contesting the 
+defense experts’ findings. RT 4426-27. 
+
+
+NTING ON 
+Certiorari should be granted because the Ninth 
+
+
+Circuit majority en banc opinion, as the dissent in this 
+case points out (App. A at 20-21), conflicts with 
+
+
+10 
+
+
+decisions of the First and Seventh Circuits, see Libby v. 
+Duvall, 19 F.3d 733 (ist Cir. 1994) and Cuevas v. 
+Washington, 36 F.3d 612, 620, & n. 17 (7th Cir. 1994). 
+Other circuit court opinions and California state court 
+opinions conflict as well, as is more fully discussed below. 
+
+Furtaermore, the majority opinion is patently 
+wrong; and, by wrongly interpreting the Brecht standard 
+of harmless error in tandem with the concurring opinion 
+in Carella, the opinion grafts onto the Brecht standard 
+the beyond a reasonable doubt standard applicable only 
+to direct review cases. The Ninth Circuit’s error will 
+have a significant impact if certiorari is not granted. 
+Rather than settling the conflict on whether a harmless 
+error review is proper and, if so, what standard of 
+prejudice is to be applied on federal collateral review in 
+cases involving state instructional error related to an 
+element of a criminal offense, this case confuses the 
+issue further and will do nothing to abate the 
+proliferation of conflicting decisions in the Ninth circuit 
+or any other court. Accordingly, the need for certiorari 
+is acute. 
+
+
+1] 
+
+
+ARGUMENT 
+
+
+THE MAJORITY OPINION IMPROPERLY 
+GRAFTS THE CARELLA STANDARD ON 
+TO THE BRECHT STANDARD FOR 
+HARMLESS ERROR REVIEW, 
+CONFLICTS WITH OPINIONS FROM THE 
+FIRST AND SEVENTH CIRCUITS AND, 
+THUS, AGGRAVATES THE SPLIT IN 
+CIRCUIT OPINIONS 
+
+
+A series of cases from this Court has 
+established the standard for evaluating prejudice on 
+federal habeas collateral review of state court error, 
+among them Brecht and O'Neal. However, the circuit 
+and district courts in split decisions are disputing whether 
+or not and how Brechf and O’Neal should govern 
+evaluation of jury instruction errors related to an 
+elements of a criminal offense. The instant case well 
+demonstrates the confusion in lower courts because the 
+state Court of Appeal, the three judge circuit panel and 
+the en banc circuit panel all rendered split decisions on 
+this very issue. Some circuit court opinions, like the 
+Ninth Circuit majority opinion in this case, have grafted 
+onto the Brecht federal habeas harmless error standard 
+the narrower method for determining prejudice on direct 
+review of federal cases defined by Justice Scalia in his 
+
+
+6. Brecht found harmless the improper use of an accused post- 
+Miranda silence for impeachment. See Miranda v. Arizona, 384 U.S. 
+436, 16 L.Ed.2d 694, 86 S.Ct 1602 (1966). O'Neal dealt with the 
+effect of “possible jury ‘confusion’ arising out of a trial court 
+instruction about the state of mind necessary for conviction 
+combined with a related statement by a prosecutor.” Brecht at 622- 
+23; O'Neal at 994. 
+
+
+12 
+
+
+concurring opinion in Carella. Thus, what is evolving in 
+the circuit and district courts is a higher, hybrid-standard 
+for a finding of harmlessness for instructional error on 
+collateral review. This is in direct contradiction of this 
+Court’s mandates in Brecht and O'Neal. 
+
+As the dissenting judge noted upon the Seventh 
+Circuit’s reversal of a grant of habeas relief in Cuevas v. 
+Washington: This “approach may well result in a 
+determination of harmless error in substantially fewer 
+instances than the usual ‘trial error’ situation." Jd. at 624 
+(dis. opn., Ripple, Cir. J.). Such an increase in 
+overturning state convictions on collateral review clearly 
+opposes this Court’s intent as stated in Brecht at 637. 
+
+For example, in Libby v. Duvall, 19 F.3d 753, 
+the lead, concurring and dissenting opinions of a divided 
+three judge panel of the First Circuit urged three 
+different standards for evaluating the prejudicial effect of 
+instructional error. The case exemplifies why review by 
+this Court is necessary. 
+
+Having determined that the overall jury charge 
+did not adequately explain the element of malice, the 
+lead opinion determined the error harmless under Brechi 
+and rejected the habeas applicant’s claim that the Carella 
+concurrence method of analyzing harmless error should 
+be applied. The lead opinion conceded that there was 
+evidence upon which the jury "might conceivably have" 
+provided a basis for the jury to have concluded the 
+prosecution had not proven its case and that the 
+instructional error (a conclusive presumption) tended to 
+deter the jury from considering that evidence. 
+Nevertheless, it found, after a review of the record 
+evidence, that it was “extremely unlikely that the jury 
+would have relied on the evidence and returned a verdict 
+of manslaughter." Libby at 740. Thus it found the error 
+did not have "substantial and injurious effect or influence 
+on the jury’s verdict" and found it harmless. Jd. A 
+
+
+13 
+
+
+concurring judge affirmed under Brecht, but shared the 
+dissenting justice’s belief that the "Carella concurrence 
+articulates compelling grounds for more narrowly 
+confining ‘harmless error’ review of a jury instruction 
+mandating a conclusive presumption." Libby at 740 
+(conc. opn., Cyr, Cir. J.). The dissenting judge found the 
+conclusive presumption instruction to be prejudicial 
+under the Carella framework for determining 
+harmlessness of the instructional error because the jury 
+was “at least reasonably likely” to have improperly found 
+malice. Libby ai 743, 744 (dis. opn., Stahl, Cir. J.). The 
+approach of the en banc majority in this case was 
+essentially that of the Libby dissent. 
+
+In a split decision in Rosa v. Peters, 36 F.3d 625 
+(7th Cir. 1994), the majority of the three judge panel, in 
+analyzing instructional error described as an explicit 
+misdirection of the jury, opined, as did the dissent in this 
+case, that the error was harmless under Brecht. Rose at 
+631-32. However, the dissent, like the en banc 
+majority in the instant case, found that “allowing the 
+approach urged by Justice Scalia in Carella to survive 
+Brecht is compatible with the principle of judicial 
+restraint and federalism re-emphasized in that opinion." 
+Rosa at 637-38 (dis. opn., Ripple, Cir. J.). 
+
+Another majority of a three judge panel of the 
+Seventh Circuit found, like the dissent in this case, that 
+the Brecht test for harmless error requires a habeas court 
+to evaluate to some extent the probability of outcome if 
+the case were tried under proper instructions. See 
+Cuevas v. Washington, 36 F.3d at 621. However, the 
+dissenting opinion in Cuevas labeled instructional error a 
+hybrid somewhere between "structural" and "trial" error, 
+see Arizona v. Fulminante, 499 U.S. 279, 307, 113 L.Ed. 
+2d 302, 111 S.Ct 1246 (1991), and argued that the 
+beyond-a-reasonable-doubt approach of Carella survives 
+Brecht and is the appropriate method of determining 
+
+
+14 
+
+
+harmlessness on federal habeas review of a state court 
+judgment. Cuevas at 625 (dis. opn., Ripple, Cir. J.). 
+This is the approach taken by the Ninth Circuit en banc 
+majority in this case. 
+
+The con usion of the foregoing cases is reflected 
+in cases from other circuits and on direct appeal as well. 
+See Peck v. United States, 73 F.3d 1220, 1228 (2d Cir. 
+1995) (reversal required unless the jury actually found 
+knowledge element despite the failure to instruct that 
+knowledge of illegality of structuring accounts is required 
+for intent finding). See also United States v. Marder, 48 
+F.3d 564, 573 (ist Cir. 1995) (noting two different modes 
+of harmless error analysis exist in the circuit courts where 
+a jury instruction misdefines or omits and element of an 
+offense); Kontakis v. Beyer, 19 F.3d 110, 117-118 (3d Cir. 
+1994), rehg. en banc, denied (1994), cert. den. sub nom. 
+Kontakis v. Morton, ___ US. __, 130 L.Ed.2d 143, 115 
+S.Ct. 215 (1994) (no harm under Brecht because of the 
+overwhelming evidence that shooting was a purposeful 
+act even given possibility the jury instruction may have 
+kept the jury from considering mental disease and defect 
+evidence). 
+
+The same confusion exists in the California state 
+courts. Compare People v. Harris, 9 Cal.4th 407, 37 
+Cal.Rptr.2d 200, 886 P.2d 1193 (1994) (improper 
+instruction on "immediate presence" element of robbery 
+harmless beyond a reasonable doubt) with People v. 
+Kobrin, 11 Cal.4th 416, 45 Cal.Rptr.2d 895, 903 P.2d 
+1027 (1995) (dicta suggests reversible per se standard 
+applies to improper instruction to consider perjurious 
+statements material). Contra, United States v. Raether, 82 
+F.3d 192, 194 (8th Cir. 1996) (directed finding on 
+materiality of making false statements is “trial error" 
+subject to harmless error analysis). The Court should 
+grant certiorari to review these important conflicts in 
+
+
+15 
+
+
+applying Brecht and resolve the confusion among the 
+circuit and state courts of review. 
+
+
+16 
+
+
+THE MAJORITY EN BANC OPINION OF 
+THE COURT OF APPEALS IS WRONG 
+
+
+Furthermore, certiorari should be granted 
+because the majority opinion of the en banc panel is 
+patently wrong. Although the opinion correctly concludes 
+that instructional error is trial error?, it applies an 
+improper standard in finding that error not harmless. In 
+Brecht, this Court established that a less onerous 
+standard applies to trial errors upon federal collateral 
+review. Jd. at 637-38. Thus, only if a state court error 
+"had substantial and injurious effect or influence in 
+determining the jury’s verdict," will a federal court be 
+justified in overturning the state court judgment. Jd. In 
+Duncan v. Henry, this Court described the Brecht 
+standard as "somewhat similar" to the Watson® standard 
+used by California courts. Duncan v. Henry, _ US. 
+__, __, 130 L.Ed.2d 865, 868, 115 S.Ct 887, 888 (1995); 
+see also, id. at 890 and n.1, last two paragraphs (dis. 
+opn., Stevens, J.). | Therefore, where it can be 
+
+
+7. See Arizona v. Fulminante, 499 U.S. at 306, and cases cited 
+therein (“trial error’--error which occurs during the presentation of 
+the case to the jury--includes errors arising from infirm jury 
+instructions). See, ¢.g., O'Neal at 995 (confusing instruction on state 
+of mind necessary for conviction subject to harmless error test). Bur 
+see, Cuevas v. Washington, 36 F.3d at 625 (dis. opn., Ripple, Cir. J.) 
+(instructional error is a hybrid between "structural" and "triai” error); 
+People v. Kobrin, 11 Cal.4th at 428 & n.8 (leaving open the question 
+whether instructional error omitting an element of the crime could 
+be harmless error, but strongly suggesting that it cannot be). 
+
+
+8. People v. Watson, 46 Cal.2d 818, 836 (1956), held that under 
+the California Constitution, the harmlessness of trial error is 
+measured by a more-probable-than-not standard. See App. L; Cal. 
+Const., art. VI, § 13 (misdirection of the jury reversible only upon 
+a "miscarriage of justice”). 
+
+
+17 
+
+
+determined that, absent the error complained of, it is not 
+"reasonably probable" that the defendant would have 
+been acquitted, the error cannot have “had substantial 
+and injurious effect or influence in determining the jury’s 
+verdict." Jd. Finally, in O’Neal the Court clarified that 
+if, after "pondering all that happened,” a reviewing court 
+finds the error itself had substantial influence or if one 
+is left in doubt, the conviction cannot stand. O’Neal at 
+995, citing Kotteakos v. United States, 328 U.S. 750, 
+764-65, 90 L.Ed 1557, 1566-67, 66 S.Ct 1239, 1248 
+(1946). The "risk of doubt" is on the state.* O’Neal at 
+998. That means that in the narrow circumstance where 
+in the mind of the reviewing judge, "the matter is so 
+evenly balanced that he feels himself in virtual equipoise 
+as to the harmlessness of the error,” it should grant 
+relief. O’Neal at 994, 999. However, barring that 
+circumstance of "virtual equipoise," it remains that 
+federal habeas relief must be denied where it is 
+reasonably probably that the state court error did not 
+affect the result. Duncan v. Henry, 113 S.Ct at 888; 
+Brecht at 637-638. 
+
+The above principles are simply stated and lend 
+themselves to simple application. Conversely, the 
+majority’s opinion conflates these principles such that its 
+application of them is so complex as to _dety 
+comprehensible explanation, let alone _ consistent 
+application. Nevertheless, it is necessary to attempt to 
+explain the decision in order to highlight its fallacies. 
+
+As the dissent states, "[t}he majority pays lip- 
+service to the exclusive, less onerous, standard that the 
+
+
+9. This Court chose this terminology rather than "burden of 
+proof" because, as this Court explained, the issue on review Is not 
+one of shifting of burdens based on evidence as is the case in the 
+trial court, but it is one of determining whether or not the error 
+itself was "likely" to have been harmful. O'Neal at 998. 
+
+
+18 
+
+
+Court in Brecht said we should apply to trial errors when 
+our review is collateral. [However,] the majority 
+erroneously looks to the Carella concurrence for the 
+standard of review in habeas corpus cases, and .. . its 
+error is compounded by its misapplication of Brecht and 
+[O'Neal] .. ..". App. A at 17. Although the majority 
+correctly states, and the dissent agrees, that on collateral 
+review the Brecht standard supplants the Chapman 
+beyond a reasonable doubt standard, the majority 
+rationalizes around the Brecht decision. App. A at 15, 
+17. The majority incorrectly states that the O’Neal 
+decision, rather than clarifying that the risk of doubt in 
+close cases is with the prosecution, established an 
+alternative standard to that of Brecht for relief on 
+collateral review. App. A at 15. ("[RJelief is also 
+appropriate if the record . . . leaves the judge in ‘grave 
+doubt’. ..." Italics added.) 
+
+With this interpretation of O’Neal in mind, the 
+majority performed its own beyond a reasonable doubt 
+analysis following guidelines described in the Carella 
+concurrence, a case addressing the beyond a reasonable 
+doubt standard for direct review of instructional error. 
+According to the majority opinion in this case, under the 
+Carella concurrence guidelines instructional error can be 
+harmless only where the jury "necessarily found" the facts 
+which support the conviction. Carella at 271. The 
+majority then holds that "[w]hen the reviewing court is 
+unable to conclude the jury necessarily found an element 
+that was omitted from the instruction, it is unable to 
+gauge the effect of the error on the jury’s verdict." App. 
+A at 15-16. Then having circumvented the Brecht 
+analysis altogether, the majority concluded that, under 
+the O’Neal test, where it is possible, or not beyond a 
+reasonable doubt, that the jury "could have found" 
+different facts or may not have "necessarily found" all the 
+facts as Carella dictates, ‘a conscientious judge can only 
+
+
+19 
+
+
+be ‘in grave doubt as to the harmlessness of the 
+error,’ .. ., and relief must be granted." App. A at 15, 
+16 citing O’Neal at 995. 
+
+By thus following its own enigmatic line of 
+reasoning, rather than straightforwardly applying the 
+simple principles of this Court’s controlling decisions, the 
+majority essentially holds that whenever Beeman 
+instructional error occurs, it is reversible per se.“ At 
+the very least, the "majority holds that in every case 
+involving a jury instruction not satisfying the Carella 
+concurrence, ‘in the judge’s mind, the matter is [must be, 
+will be] so evenly balanced that he feels himself in virtual 
+equipoise as to the harmlessness of the error.” App. A 
+at 20, citing O’Neal at 994. That is simply not the 
+standard for collateral review. 
+
+Here, there can be no doubt, certainly no 
+"grave doubt," that had the omitted Beeman clause been 
+given (i.e., an instruction that, in addition to acting to aid 
+Mannix with knowledge of Mannix’s purpose of robbery, 
+respondent acted with the intent to aid in the robbery), 
+the jury would have rendered the same verdicts. The 
+jury found the killing of Mannix was committed to carry 
+out or advance a robbery or to facilitate escape or avoid 
+detection. See App. N, CALJIC No. 8.81.17 (1991 rev.), 
+CT 878. This is evidenced by the jury’s true finding on 
+the robbery-felony murder special circumstance 
+allegation. See App. O, CALJIC Nos. 8.80, 8.81.17; CT 
+875-76, 878. The jury also found that respondent aided 
+Mannix while Mannix was committing the robbery with 
+
+
+10. As the dissent explains, the majority holds "that whenever 
+a jury instruction contains an element that has been misdescribed 
+or omitted and the jury did not actually find the facts supporting 
+the missing element, a judge can never know whether the error had 
+a ‘substantial and injurious effect or influence in determining the 
+jury’s verdict’ as required by Brecht .. ..". App. A at 17. 
+
+
+20 
+
+
+knowledge of his (McHargue’s) unlawful purpose and 
+that respondent’s aid amounted to more than mere 
+presence at the scene and mere knowledge the crime 
+was being committed. See App. N, CALJIC No. 3.01; 
+CT 826. 
+
+Furthermore, although the CALJIC No. 3.01 
+instruction here lacked the Beeman clause, it has long 
+been recognized by California courts that its absence 
+does not entirely remove the question of mental state 
+under California’s aiding and abetting law from the jury’s 
+consideration. People v. Dyer, 45 Cal.3d at 61. The 
+parties still will recognize that mental state is at issue 
+and have an imperative to put before ine jury any 
+evidence that the defendant acted without the requisite 
+intent. Jd. Thus, the record as made in cases of 
+Beeman error can be assumed to be no different than 
+the record would have been had the missing instruction 
+been given. Dyer at 61. So it is in this case, and 
+respondent never has contended otherwise. 
+
+In addition, as applied to the facts in a 
+particular case, even without the Beeman clause, the 
+aiding and abetting instruction may convey to the jury 
+the intent required because in the circumstances of the 
+case, as in the instant case, the instruction (CALJIC No. 
+3.01 as given here) contains a legally adequate criterion 
+of intent under the California law of aiding and abetting. 
+App. J at 39, Court of Appeal Opinion. 
+
+As noted in petitioners’ "STATEMENT," ante 
+pp. 8-9, respondent presented expert evidence that 
+mental deficiency prevented him from forming the intent 
+to kill and argued that, given his mental limitations and 
+intoxication, he acted in a reasonable belief of a need for 
+self defense in killing Clark. The only evidence to 
+support his theories, apart from expert opinion, was 
+testimony about conflicting hearsay stories respondent 
+gave to the police and two fellow inmates about his 
+
+
+21 
+
+
+participation in the crimes. The jury found respondent 
+guilty of the second degree murder of Clark+, guilty of 
+the robbery of Mannix, and guilty of the felony-robbery 
+murder of Mannix, despite his claims of self-defense, 
+mental deficiency, and inability to form intent. Thus, the 
+jury clearly rejected these defenses. 
+
+In summary, the jury did not believe that 
+respondent acted in self-defense, did believe he had the 
+capacity to form intent, and did believe that he 
+knowingly and purposefully aided McHargue in the 
+robbery of Mannix and so found beyond a reasonable 
+doubt. "No rational juror could find that [respondent] 
+aided McHargue, knowing what McHargue’s purpose 
+was, without also finding that [respondent] intended to 
+aid McHargue in his purpose." App. D at 9, District 
+Court Opinion; App. C at 9, Roy v. Gomez, 55 F.3d 
+1483; App. J. 
+
+The en banc majority opined, however, that the 
+jury could have, if properly instructed, found that 
+respondent knowingly and purposefully aided McHargue, 
+not because he intended to assist him in the robbery, but 
+merely to help McHargue defend himself against the 
+victim Mannix. App. A at 13. However, this argument 
+was never advanced by the defense. See CT 5666 et 
+seq., closing argument. Moreover, the jury was not 
+instructed on defense of a third person (Mannix) or on 
+"just helping" Mannix as a defense theory. 
+
+
+11. To find second degree murder under California law, the 
+jury had to find that Clark’s murder was an “unlawful killing of a 
+human being as the direct causal result of an act involving a high 
+degree of probability that it will result in death, which act is done 
+jor a base, antisocial purpose and with wanton disregard for human 
+life by which is meant an awareness of a duty imposed by law not 
+to commit such acts followed by the commission of the forbiden 
+[sic] act despite that awareness." CT 855, CALJIC No. 8.31 as 
+given, italics added. 
+
+
+22 
+
+
+In support of its hypothetical, possible jury 
+finding, the majority relies on testimony of two inmates, 
+who related what respondent had told them about the 
+killings, and claims their testimony indicates that 
+respondent "realized McHargue was ‘getting the worst of 
+it’ in his fight with Mannix, and went to McHargue’s 
+assistance. .. . to prevent Mannix from defeating 
+McHargue." App. A at 13. However, in the same 
+conversations, respondent told one of these inmates that 
+he and Mannix had planned to rob and kill the victims 
+(RT 3118, 3120, 3123-24), that McHargue had trouble 
+with Mannix so he (respondent) helped him by stabbing 
+Mannix and pushing his head under water and that he 
+then took Mannix’s money and clothing. RT 3128-29. 
+Respondent also told the other inmate that he stabbed 
+Clark after Clark hit him with a stick; and, although he 
+later retracted it, respondent also told this inmate that he 
+helped McHargue hold Mannix under water. (RT 3200- 
+04.) Respondent had earlier’ told officers he walked 
+away before Mannix was killed. RT 2182-84. 
+
+Thus, in order to make the hypothetical finding 
+concocted by the majority, the jury would have had to 
+disbelieve all the other testimony of these inmates, 
+focused on minor hearsay testimony, and, unassisted by 
+any instruction or defense argument, come up with the 
+theory that respondent was merely “helping” McHargue 
+defend himself irrespective of amy contradictions or 
+conflicting evidence and inferences. 
+
+In sum, given the evidence, "there is not even 
+a reasonable probability that [respondent] did not assist 
+McHargue with the intent to further the robbery of 
+Mannix." App. C at 22. Most assuredly, given the 
+evidence, the instructions actually given, the defense 
+arguments, the recognition that mental state was in issue 
+and presentation of all the evidence on that point, and 
+the notable intent actually and ordinarily conveyed when 
+
+
+23 
+
+
+one acts to aid a perpetrator knowing his criminal 
+purpose; the omission of the Beeman clause from the 
+aiding and abetting instruction could not have had a 
+"substantial and injurious effect or influence in 
+determining the jury’s verdict." Therefore, the Ninth 
+Circuit en banc majority acted improvidently in granting 
+respondent habeas relief. Cf. Kontakis v. Beyer, 19 F.3d 
+at 117-118; People v. Harris, 9 Cal.4th at 428-30; People 
+v. Dyer, 45 Cal.3d at 63-65. This Court should grant 
+certiorari to correct the Ninth Circuit’s error. 
+
+
+24 
+
+
+THE QUESTION PRESENTED IS 
+IMPORTANT 
+
+
+This case, as well as the federal circuit and state 
+cases cited (see Arg. I, ante pp. 11-13) demonstrate the 
+difficulty some courts and some judges have in accepting 
+the less onerous Brecht standard for harmless error on 
+collateral review. Given the trend for some to attempt 
+to circumvent that standard as shown by these cases, the 
+confusion will only proliferate. 
+
+The need for guidance from this Court is acute, 
+and this case presents in a pristine form a timely and 
+rare opportunity for this Court to address misconceptions 
+about how the rule in Brecht is to be applied to 
+instructional error on collateral review; whether Brechi 
+replaces on such review the beyond-a-reasonable-doubt 
+guidelines delineated by the concurrence in Carella or 
+whether Carella circumscribes or supplements the Brechr 
+standard; how the circuits, mainly the Ninth Circuit, 
+compound the confusion about the Carella standard by 
+misapplying it; and how O’Neal modifies either or both 
+of these standards, if at all. The majority opinion in the 
+case at hand is erroneous and contradicts the majority 
+opinions of the state Court of Appeal and the lower 
+federal courts, which reviewed the record and found the 
+error harmless. The issue addressed is undoubtedly 
+important for it impacts every federal collateral review of 
+error in criminal jury trial instructions, especially 
+instructions related to the elements of a criminal offense. 
+
+
+25 
+
+
+CONCLUSION 
+
+
+An irreconcilable conflict exists among the 
+federal and district courts, and some state courts as well, 
+on a fundamental issue of federal law impacting virtually 
+every criminal jury trial in the United States. This case 
+presents the perfect instrument for resolving these 
+conflicts. For all the reasons discussed above, petitioners 
+respectfully urge that this Court grant certiorari and 
+resolve the important issues of law presented herein. 
+
+
+Dated: June 13, 1996. 
+
+
+Respectfully submitted, 
+
+
+DANIEL E. LUNGREN 
+
+Attorney General 
+
+GEORGE WILLIAMSON 
+
+Chief Assistant Attorney General 
+ROBERT R. ANDERSON 
+
+Senior Assistant Attorney General 
+ARNOLD O. OVEROYE 
+
+Senior Assistant Attorney General 
+EDMUND D. McMURRAY 
+Supervising Deputy Attorney General 
+
+
+Liviu ALemand 1 U2 
+
+
+MARGARET GARNAND VENTURI 
+
+
+Supervising Deputy Attorney General 
+Counsel of Record 
+
+
+Counsel for Petitioners 
+
+
+MGV:bam 
+SA94FA0015 
+
+

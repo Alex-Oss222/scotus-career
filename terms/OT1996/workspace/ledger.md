@@ -1,7 +1,7 @@
 # OT1996 Term Working Ledger
 
-No current-term Canonical Decision Record or Admitted Source Record exists. The commitment-order ledger therefore has zero entries and advances no chronology cursor. Workspace preparation is not a Court action, source admission or terminal closure.
+Generated from canonical Records in the explicitly supplied preservation order. Git execution is prohibited for this Run; no Git commitment order or commit identity is verified. Records control if this index conflicts with them.
 
-The carried legal cutoff is July 1, 1996, after the complete OT1995 final-day group. Opening validation is complete. The user's October 11, 2026 removal of twelve prior-term pending matters is an [opening inventory reconciliation](continuity.md#opening-docket-reconciliation), not a Court action, source admission or terminal closure; it creates no ledger entry. The [manifest](manifest.md) contains 153 open planned matters, including the 58 already-granted lower-court cases in Standing State; it is not a list of completed decisions.
-
-Rebuild this ledger from authoritative Records after a Run with `python tools/rebuild_ledger.py OT1996`. There are no OT1996 Record links, corrections, votes or results to enter at opening.
+| Preservation order | Effective date | Case and dockets | Event | Result | Version / lineage | Git verification | Record |
+|---:|---|---|---|---|---|---|---|
+| 1 | 1996-09-30 | IIRIRA §633; Pub. L. No. 104-208, Division C, Title VI, 110 Stat. 3009-701. | Admitted noncase statutory source; 1996-09-30. | Admit the enacted immigrant-visa procedures and locations amendment; case-specific meaning and temporal reach remain for adjudication. | Initial OT1996 source admission; supersedes no adjudication. Durably written October 12, 2026; Git verification and commitment reserved to the operator under the express no-Git instruction. | Git verification deferred | [record](../records/IIRIRA_Section_633_Admitted_Source_1996-09-30.md) |
