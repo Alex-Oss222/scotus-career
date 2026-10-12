@@ -1,0 +1,73 @@
+# United States v. Sahhar — lower-court source copy
+
+Source: https://openjurist.org/56/f3d/1026
+Court: Ninth Circuit, May 26, 1995; 56 F.3d 1026. Web-tool text mechanically copied; source line labels retained. Only original opinion paragraphs and case metadata included; later-citation metadata excluded.
+
+L0: Public-domain · open source
+L1: 
+L2: Menu
+L3: 
+L4: cite0†OpenJurist ›cite1†Volume 56 ›cite2†F.3d ›Page 1026
+L5: 
+L6: 56 F.3d 1026
+L7: 
+L8: Docket Nos. 94-50186, 94-50356.
+L9: # United States v. Sahhar
+L10: 
+L11: cite3†Ninth Circuit Court of Appeals L12: 
+L13: Argued and Submitted Sept. 14, 1994.
+L14: 
+L15: Decided May 26, 1995.
+L16: 
+L17: cite3†Ninth Circuit Court of Appeals · decided 1995-05-26
+L50: 
+L51: cite18†¶2 Carlton F. Gunn, Sr. Deputy Federal Public Defender, Los Angeles, CA, for defendant-appellee.
+L52: 
+L53: cite19†¶3 Before: FEINBERG,cite20†* SCHROEDER and KOZINSKI, Circuit Judges.
+L54: 
+L55: cite21†* L56: 
+L57: cite22†¶4 Honorable Wilfred Feinberg, Senior United States Circuit Judge for the Second Circuit, sitting by designation.
+L58: 
+L59: cite23†¶5 SCHROEDER, Circuit Judge:
+L60: cite24†¶6 The United States appeals the district court’s ruling on the constitutionality of John George Sahhar’s confinement under cite25†18 U.S.C. § 4246 . That statute provides for the continued hospitalization of a person who has been charged with a federal offense but not tried because of a continuing mental disease or defect.
+L61: The district court ruled cite25†§ 4246 is unconstitutional as applied to a defendant who has remained committed for longer than the maximum period of custody authorized for the crime for which he was indicted. The government argues that the indefinite commitment of a dangerous, mentally ill person is not constitutionally infirm, because it serves substantial federal regulatory interests. We reverse and remand for the district court to invoke the statutory preference for a state’s assumption of custody.
+L62: cite26†¶7 BACKGROUND
+L63: cite27†¶8 Sahhar was arrested on September 9, 1987, and indicted on September 18,1987, for making a threat against the President in violation of cite28†18 U.S.C. § 871(a) , a crime carrying a maximum penalty of five years. On cite29†*1028 November 16, 1987, the district court found him incompetent to stand trial and committed him to the custody of the Attorney General pursuant to cite30†18 U.S.C. § 4241(a) .
+L64: On July 29, 1988, the court found that Sahhar suffered from a mental illness or defect and that it appeared improbable he would ever be competent to stand trial. Except for a brief commitment to the Arizona State Hospital, he has been in federal custody, without trial, ever since his arrest. At present, he remains hospitalized in the custody of the Attorney General at the United States Medical Center for Federal Prisoners in Springfield, Missouri.
+L65: cite31†¶9 In an earlier appeal, Sahhar challenged the constitutionality of the statutory involuntary commitment scheme as violative of due process and equal protection. In cite32†United States v. Sahhar , cite32†917 F.2d 1197 (1990), cert. denied, cite33†499 U.S. 963 , cite34†111 S.Ct. 1591 , cite35†113 L.Ed.2d 655 (1991) (Sahhar I), we held that the procedural provisions satisfied due process concerns. cite35†Id. at 1206-08.
+L66: In upholding the statute against the equal protection challenge, we noted that cite25†§ 4246 ’s classification was substantially related to the important federal concerns of protecting society from dangerous criminal defendants and controlling and treating dangerous persons within the federal criminal justice system who are incompetent to stand trial. See id. at 1203. We further noted that Congress has a “substantial interest in enacting legislation targeting those accused of federal crimes.” Id.
+L67: Sahhar I emphasized the regulatory as opposed to the punitive purpose of federal commitment. Id. at 1205-06.
+L68: cite36†¶10 By October of 1993, Sahhar had been detained for more than five years, a period of time that exceeded the maximum prison term permissible under cite28†18 U.S.C. § 871(a) . For that reason he instituted these proceedings, filing a motion seeking his discharge from custody and dismissal of the indictment. Though Sahhar remained dangerous and mentally ill, he contended that his due process and equal protection rights were violated by his continued detention.
+L69: The district court agreed, and ordered the indictment dismissed and the defendant released. The district court acknowledged that the government’s “substantial interest” in the control and treatment of incompetent, dangerous persons within the federal criminal justice system justified the initial federal commitment of Sahhar, but it found that because he had been committed for longer than the maximum sentence, those original substantial interests would no longer support ongoing commitment.
+L70: It stayed the release order pending this appeal. The government has not appealed the district court’s dismissal of the indictment.
+L71: cite37†¶11 DISCUSSION
+L72: cite38†¶12 The district court’s conclusions that cite25†§ 4246 violates equal protection and due process as applied to Sahhar are reviewed de novo. See cite39†United States v. Harding , cite40†971 F.2d 410, 412 (9th Cir.1992), cert. denied, — U.S. -, cite41†113 S.Ct. 1025 , cite42†122 L.Ed.2d 170 (1993) (challenges to the constitutionality of a statute are reviewed de novo).
+L73: As we noted in Sahhar I, the standard of review to be employed in determining the constitutionality of involuntary commitment statutes is an unresolved question. See Sahhar I at 1201. Because we conclude that the result in this case would be the same under either the rational basis or heightened scrutiny standard, we need not resolve the question here.
+L74: cite43†¶13 Under either a due process or equal protection challenge to an involuntary commitment statute, the principal focus is, as both the district court and the parties recognize, upon the governmental interest at stake. If that interest continues to be substantial, the dictates of equal protection are satisfied even under a heightened scrutiny standard of review.
+L75: Correspondingly, if a classification passes equal protection muster under heightened scrutiny, then, for purposes of due process, the nature and duration of commitment would necessarily bear a “reasonable relation to the purpose for which the individual is committed.” cite9†Jackson v. Indiana , cite44†406 U.S. 715, 738 , cite45†92 S.Ct. 1845, 1858 , cite9†32 L.Ed.2d 435 (1972).
+L76: cite46†¶14 The statutory scheme expressly provides for potentially indefinite commitment of a hospitalized defendant whose sentence in the underlying criminal action is about to expire or against whom “all criminal charges have cite47†*1029 been dismissed solely for reasons related to the mental condition of the person.” See cite48†18 U.S.C.
+L77: § 4246(a) .cite49†1 Stressing this language, the government contends that the indefinite commitment authorized by this statute is unrelated to the punitive purposes served by a criminal sentence.
+L78: It therefore argues that the same federal regulatory interests that justified initiation of cite25†§ 4246 proceedings— treating Sahhar’s mental illness and protecting him and society from his potential dangerousness — justify continued commitment until these concerns are met, regardless of whether the defendant has been committed for a period longer than he could have been incarcerated if convicted. Sahhar I supports the government’s position.
+L79: cite50†¶15 The district court nevertheless concluded that substantial federal governmental interests were no longer served by the federal government’s maintenance of custodianship over Sahhar longer than he could have been imprisoned if convicted. In so holding, the district court misapprehended the nature of those interests. Sahhar I justified civil commitment of a dangerous and mentally ill person because he was in federal custody, not because he was in pretrial custody.
+L80: The fact that an indictment is no longer in place is irrelevant to the governmental interests at stake: “the control and treatment of dangerous persons within the federal criminal justice system who are incompetent to stand trial.” Sahhar I at 1203. Sahhar’s condition has not improved, and he remains incompetent to stand trial. The federal government’s interest therefore has not materially changed over time.
+L81: The district court erred in implicitly tying the continuing validity of appellant’s non-punitive cite25†§ 4246 commitment to the punitive objectives of the original criminal charge.
+L82: cite51†¶16 Our view is supported by the Supreme Court’s opinion in cite11†Jones v. United States , cite52†463 U.S. 354, 368 -69, cite53†103 S.Ct. 3043, 3051 -52, cite11†77 L.Ed.2d 694 (1983) (holding that an insanity acquittee may be detained indefinitely). In Jones, the Supreme Court found that the “petitioner clearly err[ed] in contending that an acquittee’s hypothetical maximum sentence provides the constitutional limit for his commitment.” cite11†Id. at 368, cite11†103 S.Ct. at 3052 .
+L83: In doing so, the Court noted that “[t]here simply is no necessary correlation between severity of the offense and length of time necessary for recovery.” cite11†Id. at 369, cite11†103 S.Ct. at 3052 . We are not unmindful of the fact that, unlike an insanity acquittee, Sahhar has never been found to have committed an act that constitutes a criminal offense.
+L84: As Jones makes clear, however, the justification for committing an insanity acquittee is not the fact that he committed a crime: “As he was not convicted, he may not be punished.” cite11†Id. at 369, cite11†103 S.Ct. at 3052 . Rather, “[h]is confinement rests on his continuing illness and dangerousness.” cite11†Id. Similarly, Sah-har’s confinement rests on his continuing illness and dangerousness.
+L85: cite54†¶17 We also address Sahhar’s concerns about the scope of the federal commitment statute. It is a truism that “[t]he passage of ... [§] 4246 was not intended to be an invasion of the general field of lunacy, which is reserved to the states.” cite55†United States v. Clark , cite56†617 F.2d 180, 184 n. 5 (9th Cir.1990). As we said in Sahhar I, the states have the principal responsibility for committing dangerous persons:
+L86: > Unlike most states, the federal government has chosen not to establish a comprehensive system of civil, commitment, reserving to local authorities the principal task of committing dangerous, mentally ill persons. cite25†Section 4246 thus is narrowly cite57†*1030 tailored to apply only to a particular concern of the federal government: dangerous persons charged with federal crimes but found incompetent to stand trial.
+L87: 
+L88: cite58†¶18 Sahhar I, 917 F.2d at 1203 (citations omitted).
+L89: cite59†¶19 cite25†Section 4246 does not authorize wholesale, continuous federal detention of dangerous persons who have once been charged with a federal crime. The statutory scheme embodies a clear preference that a state assume responsibility. cite60†Section 4246(d) provides that “[t]he Attorney General shall make all reasonable efforts to cause ... a State to assume ...
+L90: responsibility.” If the State continues to refuse assumption of such responsibility, the statute provides that “[t]he Attorney General shall continue periodically to exert all reasonable efforts to cause such a State to assume such responsibility for the person’s custody, care, and treatment.” cite61†18 U.S.C. § 4246(d)(2) .
+L91: It is thus clear that the statute’s authorization for indefinite federal commitment is a conditional one, contingent upon whether a state has declined to accept custody of the federal detainee.
+L92: cite62†¶20 In this case, while federal charges were still pending Sahhar was conditionally released to Arizona State Hospital, but he was returned to federal custody after he assaulted and injured a fellow inmate. The state of Arizona has not been called upon to deal with Sahhar following the dismissal of federal charges. Arizona may see its interests quite differently now that it is clear the federal government does not intend to try Sahhar.
+L93: cite63†¶21 Accordingly, we must remand for the district court to determine whether the statutory preference for the state’s acceptance of custody can be effectuated. Only in the event of Arizona’s refusal to accept custody of Sahhar will the federal statutory scheme require his continued federal commitment pursuant to cite61†§ 4246(d)(2) .
+L94: cite64†¶22 We therefore reverse the district court’s judgment and remand for the district court to inquire into what Arizona’s “response” is to the “reasonable efforts” of the Attorney General “to cause” Arizona to assume responsibility for Sahhar. See cite60†18 U.S.C. § 4246(d) .
+L95: 
+L96: cite65†¶23 REVERSED AND REMANDED FOR FURTHER PROCEEDINGS.
+L97: 
+L98: cite66†1 L99: cite67†¶24 . cite68†Section 4241 provides that, after being committed to the custody of the Attorney General, a defendant can be hospitalized for up to four months to determine if a substantial probability exists he will attain mental capacity in the foreseeable future to permit the trial to proceed. Id.at § (d)(1).
+L100: It also provides that he may be hospitalized for an additional reasonable period of time until his condition improves so he can be tried or the pending charges against him are disposed of according to law, whichever is earlier. Id.at § (d)(2). If the defendant’s mental condition does not improve, and charges are dismissed for that reason, cite25†§ 4246 provides for a hearing and, if he remains dangerous, federal commitment, unless a state is willing to assume responsibility.
+L101: The upshot of this statutory scheme is that if a state continually refuses to accept for treatment in a proper facility an individual who remains dangerous, his federal detention may be indefinite, even though criminal charges against him have been dismissed.
+

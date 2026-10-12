@@ -1,0 +1,217 @@
+
+
+
+ 
+  
+  
+  
+
+	
+	
+	
+	
+    
+    
+    
+    
+    
+    
+    
+    Atherton v. Federal Deposit Insurance Corporation, 519 U.S. 213 (1997).
+ 
+ 
+
+    
+    
+	
+		
+			
+LII
+			 
+			
+Supreme Court		 
+		
+	
+
+
+ 
+
+
+
+Atherton v. Federal Deposit Insurance Corporation (95-928), 519 U.S. 213 (1997).
+
+Opinion 
+ [ Breyer ]Concurrence 
+ [ O'Connor ]Syllabus 
+  
+HTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect version
+
+ 
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See United States v. Detroit Timber & Lumber
+ Co., 200
+ U.S. 321, 337.
+ 
+ 
+
+SUPREME COURT OF THE UNITED STATES
+ 
+ 
+
+Syllabus
+
+ATHERTON v. FEDERAL
+ DEPOSIT INSURANCE CORPORATION, as receiver for CITY
+ 
+  SAVINGS, F. S. B.
+ 
+ 
+
+certiorari to the united states
+ court of appeals for the third circuit
+ 
+ 
+
+No. 95-928.
+ Argued November 4, 1996 -- Decided
+ January 14, 1997
+ 
+ 
+
+
+ 
+ 
+
+After City Federal Savings Bank, a federally chartered, federally insured
+ savings association, went into receivership, the Resolution Trust Corporation
+ (RTC), which has since been replaced as receiver by respondent Federal
+ Deposit Insurance Corporation (FDIC), brought this action in City Federal's
+ name against several of its officers and directors, claiming that they
+ had acted (or failed to act) in ways that led City Federal to make bad
+ loans, and that these actions (or omissions) were unlawful because they
+ amounted to gross negligence, simple negligence, and breaches of fiduciary
+ duty. The defendants moved to dismiss under 12
+ U.S.C. § 1821(k), which states, in relevant part: "A director
+ or officer of [a federally insured bank] may be held personally liable
+ for monetary damages in any [RTC initiated] civil action . . . for gross
+ negligence [or] similar conduct . . . that demonstrates a greater disregard
+ of a duty of care (than gross negligence) . . . . Nothing in this paragraph
+ shall impair or affect any right of the [RTC] under other applicable
+ law." (Emphasis added.) In dismissing all but the gross negligence claims,
+ the District Court agreed with the defendants that, by authorizing actions
+ for gross negligence or more seriously culpable conduct, the statute intended
+ to forbid actions based upon less seriously culpable conduct, such as simple
+ negligence. Reversing, the Third Circuit interpreted §1821(k) as simply
+ offering a safeguard against state legislation that had watered down applicable
+ state standards of care--below a gross negligence benchmark. As so interpreted,
+ the statute did not prohibit actions resting upon stricter standard of
+ care rules--whether originating in state law (which the Circuit found applicable
+ to state chartered banks) or in federal common law (which the Circuit found
+ applicable to federally chartered banks). Noting City Federal's federal
+ charter, the Circuit concluded that the Government could pursue any claims
+ for negligence or breach of fiduciary duty available as a matter of federal
+ common law.
+ 
+ 
+
+Held: State law sets the standard
+ of conduct for officers and directors of federally insured savings institutions
+ as long as the state standard (such as simple negligence) is stricter than
+ that of §1821(k). The federal statute nonetheless sets a "gross negligence"
+ floor, which applies as a substitute for state standards that are more
+ relaxed. Pp. 3-18.
+ 
+ 
+
+(a) There is no federal common
+ law that would create a general standard of care applicable to this case
+ absent §1821(k). The federal common law corporate governance standard
+ enunciated in cases such as Briggs v. Spaulding, 141
+ U.S. 132, applied to federally chartered banks, but does not survive
+ this Court's later decision in Erie R. Co. v. Tompkins, 304
+ U.S. 64, 78. Normally, a federal court may fashion federal common law
+ rules only upon a specific showing that the use of state law will create
+ a significant conflict with, or threat to, some federal policy or interest.
+ See, e.g., O'Melveny & Myers v. FDIC, 512
+ U.S. 79, 87. The basic arguments that the FDIC implicitly or explicitly
+ raises--(1) its invocation of the need for "uniformity" in fiduciary responsibility
+ standards for federally chartered banks; (2) its suggestion that a federal
+ common law standard must be applied simply because the banks in question
+ are federally chartered; (3) its analogy to the conflict of laws "internal
+ affairs doctrine" to support its contention that courts should look to
+ federal law to find the applicable standard of care; and (4) its reliance
+ on federal Office of Thrift Supervision opinions applying the Briggs
+ standard to federal savings bank directors and officers--do not point to
+ a significant conflict with, or threat to, a federal interest that would
+ be caused by the application of state law standards of care. The Court
+ notes that here, as in O'Melveny, the FDIC is acting only as a receiver
+ of a failed institution; it is not pursuing the Government's interest as
+ a bank insurer--an interest likely present whether the insured institution
+ is state, or federally, chartered. The federal need here is far weaker
+ than was present in the few and restricted instances in which this Court
+ has created a federal common law. Thus, state law (except as modified by
+ §1821(k)) provides the applicable rules for decision. Pp. 3-12.
+ 
+ 
+
+(b) Section 1821(k)'s "gross negligence" standard provides only
+ a floor; it does not stand in the way of a stricter state law standard
+ making directors and officers liable for conduct, such as simple negligence,
+ that is less culpable than gross negligence. For one thing, the statutory
+ savings clause's language, read literally, preserves the applicability
+ of stricter state standards when it says that "[n]othing [here]in . . .
+ shall impair . . . any [RTC] right . . . under other applicable
+ law." (Emphasis added.) For another, §1821(k)'s background as a whole--its
+ enactment at a time of failing savings associations, large federal payments
+ to insured bank depositors, and recent state law changes designed to limit
+ pre-existing officer and director negligence liability--supports a reading
+ of the statute as an effort to preserve the Government's ability to recover
+ federal insurance funds by creating a standard of care floor. The legislative
+ history, insofar as it is relevant, supports this conclusion. The petitioner's
+ argument that §1821(k) displaces federal common law by applying a
+ uniform "gross negligence" standard for federally chartered, but not state
+ chartered, savings banks fails in light of the statute's language and history,
+ this Court's conclusion that federal common law is inapplicable, and the
+ fact that Congress did not separate its consideration of the two types
+ of institutions. Pp. 13-18.
+ 
+ 
+
+57 F. 3d 1231,
+ vacated and remanded.
+ 
+ 
+
+Breyer, J., delivered the opinion
+ of the Court, in which Rehnquist, C. J., and Stevens, Kennedy, Souter,
+ and Ginsburg, JJ., joined, and in which O'Connor, Scalia, and Thomas, JJ.,
+ joined, except to the extent the opinion relies on legislative history.
+ O'Connor, J., filed an opinion concurring in part and concurring in the
+ judgment, in which Scalia and Thomas, JJ., joined.
+ 
+ 
+
+
+ 
+ 
+
+
+ 
+
+

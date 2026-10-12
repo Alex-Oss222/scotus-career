@@ -1,0 +1,3079 @@
+No. 95-928 3 
+
+
+IN THE 
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+JOHN W. ATHERTON, JR., 
+
+
+. Petitioner, 
+
+
+FEDERAL DEPOSIT INSURANCE CORPORATION, 
+AS RECEIVER FOR CITY SAVINGS, F.S.B., 
+Respondent 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Third Circuit 
+
+
+BRIEF FOR PETITIONER 
+
+
+RONALD W. STEVENS” 
+GILBERT C. MILLER 
+
+BRUCE H. NIELSON 
+KIRKPATRICK & LOCKHART LLP 
+1800 Massachusetts Avenue, N.W. 
+Washington, D.C. 20036 
+
+(202) 778-9000 
+
+
+June 27, 1996 *Counsel of Record 
+
+
+i 
+QUESTIONS PRESENTED 
+
+
+1. Whether, in suits for money damages brought by the Res- 
+olution Trust Corporation (RTC) against directors or officers of 
+failed federally chartered depository institutions, the gross negli- 
+gence standard of 12 U.S.C. § 1821(k) (1994), enacted as part of 
+the Financial Institutions Reform, Recovery, and Enforcement 
+Act of 1989, Pub. L. No. 101-73, 103 Stat. 183 (FIRREA), sup- 
+plants any federal common law simple negligence standard that 
+may have pre-dated FIRREA. 
+
+
+2. Whether, even if § 1821(k) does not supplant federal com- 
+mon law, federal courts are nevertheless precluded from apply- 
+ing any federal common law standard of liability to the conduct 
+of directors and officers of federally chartered depository institu- 
+tions in light of O'Melveny & Myers v. FDIC, 114 S. Ct. 2048 
+(1994). 
+
+
+TABLE OF CONTENTS 
+
+
+ey eg) ) 
+TABLE OF AUTHORITIES Dew D eds a eee be bees 
+ST EEE 
+Techie ssbb bee ss¢ cesscccce 
+
+
+1.. The Applicable Statutory Framework... ......... 
+ee 
+SUMMARY OF ARGUMENT.................. 
+AS chs 556 obese s ceccesecs 
+
+
+I. The Gross Negligence Standard Of § 1821(k) 
+Displaces Any Pre-existing Federal Common 
+Law Simple Negligence Standard ........... 
+
+
+A. When Congress “Speaks Directly” To An 
+Issue Previously Governed By Federal 
+Common Law, That Common Law Is 
+CU PEEMUeh Shc oppo Ge eecece 
+
+
+B. In § 1821(k), Congress “Spoke Directly” 
+To The Issue Of The Standard Of 
+Liability Applicable To Directors And 
+Officers Of Federally Chartered 
+Depository Institutions.............. 
+
+
+C. Section 1821(k) Clearly Applies To 
+Federally Chartered Depository 
+Institutions Such As City Federal ...... 
+
+
+14 
+
+
+D. The Legislative History Of § 1821(k) 
+Demonstrates That Congress Intended To 
+Establish A Gross Negligence Federal 
+Standard Of Liability............... 25 
+
+
+Il. In Any Event, There Is No Federal Common 
+Law Claim For Ordinary Negligence 
+Applicable To Officers And Directors Of 
+Federally Chartered Depository Institutions... 32 
+A. There Is No Established Federal 
+Common Law Standard of Liability... . . 32 
+B. O'Melveny Confirms That There Is No 
+Federal General Common Law........ 34 
+C. The Rights And Obligations Of The 
+United States Are Not At Issue In This 
+2 PPPPPPeTTTTT TiC. Te TTC TT 37 
+D. Congress Has Not Authorized The 
+Creation Of A Uniform Federal Common 
+Law Standard Of Liability ........... 38 
+E. There Is No Basis For The Interstitial 
+Use Of Federal Common Law In This 
+¢ BPPPTTTTETITPITLETr ire ri ere 39 
+F. The Fact That City Federal Was Federally 
+Chartered Does Not Give Rise To A 
+“Significant Conflict Between Some 
+Federal Policy Or Interest And The Use 
+STU ekneeeescecves awewes 39 
+ED 6 6 0 b5-0000006 20k es b0ee KEES eb. “ae 
+
+
+TABLE OF AUTHORITIES 
+
+
+i ME ico cccccccncnvenbeccse: 
+
+
+American Nat'l Red Cross v. Labor Relations 
+Comm'n, 363 Mass. 525, 296 N.E.2d 214 
+Dees caeateneehesaunaeasenesec 
+
+
+Astoria Fed. Sav. & Loan Ass'n v. Solimino, 
+See es DUNE nccceacescobeses 
+
+
+Atherton v. Anderson, 99 F.2d 883 (6th Cir. 
+DD 6ansanetedenceceeusnewenec 
+
+
+“PREP Rea ENE a ee ? 
+
+
+Bangor Punta Opers. Inc. v. Bangor & 
+Aroostook R. Co., 417 U.S. 703 (1974) ... 
+
+
+Bowerman v. Hamner, 250 U.S. 504 (1919) . 
+
+
+Boyle v. United Technologies Corp., 
+Se Ge PD A cecvenasedheees 
+
+
+Briggs v. Spaulding, 141 U.S. 132 (1891) ... 
+Burks v. Lasker, 441 U.S. 471 (1979) ..... 
+
+
+Business Roundtable v. SEC, 
+905 F.2d 406 (D.C. Cir. 1990) ......... 
+
+
+California Fed. Sav. & Loan Ass'n v. Guerra, 
+Se Gk SE Cocececeedecwen: 
+
+
+City Fed. Sav. & Loan Ass'n v. Crowley, 
+393 F. Supp. 644 (E.D. Wis. 1975) ...... 
+
+
+43 
+
+
+48 
+
+
+16, 19, 21-22 
+
+
+35 
+
+
+47 
+
+
+35 
+13, 33, 34 
+
+
+42, 48 
+8, 13, 32-34 
+42 
+
+
+45 
+
+
+47 
+
+
+Vv 
+
+
+City of Milwaukee v. Illinois, 451 U.S. 304 7, 9, 10, 15, 16, 
+
+
+Dcinstaénadeeeba cual aces est 19, 20 
+Clarke v. Securities Indus. Ass'n, 479 U.S. 
+
+PE cae db5660060506000800% 31 
+Conso.idated Rail Corp. v. Gottshall, 
+
+See ey Gs SUED bcc cescvecccess 39 
+
+
+Cummings v. National R.R. Passenger Corp., 
+514 Pa. 230, 523 A.2d 338, cert. denied, 
+
+
+Ge CED ce pucconencesens 47 
+DelCostello v. International Bhd. of 
+
+Teamsters, 462 U.S. 151 (1983)......... 36 
+Divall Insured Income Fund Ltd. 
+
+Partnership v. Boatmen’s First Nat'l Bank, 
+
+69 F.3d 1398 (8th Cir. 1995) .......... 43 
+D. Ginsberg & Sons v. Popkin, 285 U.S. 204 
+
+DCE suuat sendin cwese dues ae tc 21 
+Dimuzio v. RTC, 68 F.3d 777 (3d Cir. 1995) 43 
+D'Oench, Duhme & Co. v. FDIC, 
+
+See ee ee ct boedetcensccus 43 
+Edgar v. MITE Corp., 457 U.S. 624 (1982) . 13, 46 
+Erie R. Co. v. Tompkins, 304 U.S. 64 (1938) 13, 34, 45 
+
+
+FDIC vy. Abel, 92 Civ. 9175 (JFK), 1995 
+U.S. Dist. LEXIS 18159 (S.D.N.Y. Dec. 5, 
+
+
+"SRE ae pails GEER aS 46 
+FDIC vy. Appling, 992 F.2d 1109 (10th Cir. 
+SY Ja cuwanCaueesuceaudxkeuees 35 
+
+
+FDIC v. Bates, 42 F.3d 369 (6th Cir. 1994) . 10, 14, 21, 28 
+
+
+vi 
+
+
+FDIC vy. Bierman, 2 F.3d 1424 (7th Cir. 
+I a ie ae Bn 
+
+
+FDIC v. Cohen, 95 Civ. 683 (LLS), 1996 
+U.S. Dist. LEXIS 2247 (S.D.N.Y. Feb. 28, 
+GIRS eeieg Sn aaa 
+
+
+FDIC v. Mason, 115 F.2d 548 (3d Cir. 1940) 
+
+
+FDIC v. Raffa, 882 F. Supp. 1236 (D. Conn. 
+(RY a OG pet pee 
+
+
+Fidelity Fed. Sav. & Loan Ass'n v. de la 
+Cuesta, 458 U.S. 141 (1982)........... 
+
+
+First Nat'l City Bank v. Banco Para el 
+Comercio Exterior, 462 U.S. 611 (1983) . . . 
+
+
+Florida Lime & Avocado Growers, Inc. v. 
+ee A eee 
+
+
+Goldman v. First Nat'l Bank, 985 F.2d 1113 
+Cn sc sesdeeontsece tudes 
+
+
+Hines v. Davidowitz, 312 U.S. 52 (1941) ... 
+
+
+Hirras v. National R.R. Passenger Corp., 
+44 F.3d 278 (Sth Cir. 1995) ........... 
+
+
+Hoehn v. Crews, 144 F.2d 665 (10th Cir. 
+1944), affd sub nom. Garber v. Crews, 324 
+De SEE a'ccecodé debredcuséveds 
+
+
+Isbrandtsen Co. v. Johnson, 343 U.S. 779 
+Dts ied vén counere ceeee see eees 
+
+
+Kaiser Aluminum & Chem. Corp. v. 
+Bonjorno, 494 U.S. 827 (1990) ......... 
+
+
+Kamen v. Kemper Fin. Servs., Inc., 
+Fe PEON weet cccceecsinnnes 
+
+
+35 
+
+
+Vii 
+Louisiana Pub. Serv. Comm'n v. FCC, 
+PS ee ee 
+
+
+Michelsen v. Penney, 135 F.2d 409 (2d Cir. 
+ee eee Peet Tee 
+
+
+Mobil Oil Corp. v. Higginbotham, 
+436 US. GIB (1978) . 0... eee ees 
+
+
+Motorcity of Jacksonville, Ltd. v. Southeast 
+Bank N.A., 83 F.3d 1317 (11th Cir. 1996) . 
+
+
+Mountain States Tel. & Tel. Co. v. Pueblo of 
+Santa Ana, 472 U.S. 237 (1985) ........ 
+
+
+Murphy v. FDIC, 61 F.3d 34 (D.C. Cir. 
+Se aa 
+
+
+New Jersey v. New York, 283 U.S. 336 (1931) 
+
+
+Northwest Airlines, Inc. v. Transport Workers 
+Union, 451 U.S. 77 (1981)... .......... 
+
+
+O'Melveny & Myers v. FDIC, 114 S. Ct. 2048 
+DAseneeaneeceeeteb ewe weae ss 
+
+
+Patterson v. Shumate, 504 U.S. 753 (1992). . 
+
+
+Reconstruction Fin. Corp. v. Beaver County, 
+ae UD. BPO CURED nc ccc ccccvecccce 
+
+
+Rettig v. Arlington Heights Fed. Sav. & Loan 
+Ass'n, 405 F. Supp. 819 (N.D. Ill. .475) .. 
+
+
+Rice v. Santa Fe Elevator Corp., 331 U.S. 
+218, rev'd on other grounds sub nom. Rice 
+v. Board of Trade, 331 U.S. 247 (1947) ... 
+
+
+RTC v. Camhi, 861 F. Supp. 1121 (D. Conn. 
+Se oa eae cetae tine ee a waneus 
+
+
+16, 19 
+
+
+45 
+
+
+Vili 
+
+
+RTC v. Chapman, 29 F.3d 1120 (7th Cir. 
+a, TOU EL CEC RET CE UT 
+
+
+BE cv dieew iat eweuvielecicess 
+RTC v. Frates, 52 F.3d 295 (10th Cir. 1995) . 
+
+
+RTC v. Gallagher, 10 F.3d 416 (7th Cir. 
+FOUND cheese edivedeeeeeesereress 
+
+
+SR aes ee 
+
+
+RTC v. Gladstone, 895 F. Supp. 356 (D. 
+WG I ic vac ceneccesibcdeccs: 
+
+
+RTC v. Gregor, 872 F. Supp. 1140 
+(E.D.N.Y. 1994)... 0.0.0. cee eee, 
+
+
+RTC v. Hess, 820 F. Supp. 1359 (D. Utah 
+MOE ve pGebeneueseeuvecteepes ws 
+
+
+RTC v. Kennelly, 57 F.3d 819 (9th Cir. 1995) 
+
+
+RTC v. Miramon, 22 F.3d 1357 (Sth Cir. 
+CETTE eT ee eT eee ere 
+
+
+Texas Indus., Inc. v. Radcliff Materials, Inc., 
+eee eee 
+
+
+United States v. Brosnan, 363 U.S. 237 
+Re ee oe ee eee 
+
+
+United States v. Kimbell Foods, Inc.., 
+a a PP dee swe sa sd 
+
+
+United States v. Little Lake Misere Land Co., 
+ee a so oe eae hk She es 
+
+
+United States v. Menasche, 348 U.S. 528 
+Sar ee re a eee 
+
+
+43, 45, 46 
+
+
+47 
+
+10, 14 
+
+10, 11, 14, 19, 
+21, 28, 31 
+
+47 
+
+
+45 
+
+
+43 
+
+
+10, 14, 19, 21, 
+
+
+26, 30 
+
+
+36 
+
+
+45 
+
+
+12, 42, 48 
+
+
+48 
+
+
+21 
+
+
+ix 
+United States v. Ron Pair Enters., Inc., 
+eee Ee 
+United States v. Texas, 507 U.S. 529 (1993) . 
+United States v. Yazell, 382 U.S. 341 (1966) . 
+Varity Corp. v. Howe, 116 S. Ct. 1065 (1996) 
+
+
+Wallis v. Pan Am. Petrol. Corp., 384 U.S. 63 
+hab sedate ier be teres cowes 
+
+
+Washington Bancorp. v. Said, 812 F. Supp. 
+Se as SUE 5 hbk sp éve obese 
+
+
+Wheeldin v. Wheeler, 373 U.S. 647 (1963) .. 
+
+
+Wichita Royalty Co. v. City Nat'l Bank, 
+See a EE 6 06.6 i's waced ed eoes 
+
+
+Constitution, Statutes and Regulations: 
+
+
+Se I Oe, Ce A AL 
+
+
+Comprehensive Environmental Response, 
+Compensation, and Liability Act of 1980, 
+Pub. L. No. 96-510, 94 Stat. 2767: 
+
+
+42 U.S.C. § 9608(d)(2) (1994) ........ 
+
+
+Emergency Planning and Community 
+Right-to-Know Act of 1986, Pub. L. No. 
+99-499, 100 Stat. 1613: 
+
+
+42 U.S.C. § 11046(g) (1994).......... 
+
+
+Employee Retirement Income Security Act 
+of 1974, Pub. L. No. 93-406, 88 Stat. 829: 
+
+
+29 U.S.C. § 1104(a)(1)(B) (1994) ...... 
+
+
+40) 
+
+
+22 
+
+
+38 
+
+
+x 
+
+
+Employers’ Liability Act, 45 U.S.C. 
+§§ 51-60 (1994): 
+
+
+4B UBL. OSE oc cc ccvesnsvecsencs 38 
+
+
+Financial Institutions Reform, Recovery, 
+and Enforcement Act of 1989, Pub. L. No. 
+
+
+SUES, WA ee, TE... cc cc ieee nese 2, 29 
+12 U.S.C. § 1441a(b)(3) (1994) ....... 4 
+12 U.S.C. § 1441a(b)(4) ............ 17 
+12 U.S.C. § 1441a(m)(1) .......-.-. 2 
+ahr e as 4 
+ee Be vivcc rescence oun 4 
+ee od SE ere 4 
+12 U.S.C. § 1464(d)(2)(E)ii) ... 6... . 4 
+I a a wea es was 4 
+I ii wais pases ndsces 4 
+12 US.C. §§ 1811-1834b 2... 0... 15 
+le rer 17 
+ie OD nc cis eens ckwes 24 
+Re Oe: cae wea kauacas 9, 24 
+er SO oy ancesneneaes 4 
+I NN aia Ge beds ees 4 
+i BO ie os hide eee 31 
+Ne. oi etisdadnkenss 4 
+
+
+12 U.S.C. § 1821(k) 
+FIRREA § 401(a) 
+
+
+“2 = ee wre Se Se See Se he 
+
+
+Hazardous and Solid Waste Amendments 
+of 1984, Pub. L. No. 98-616, 98 Stat. 3221: 
+42 U.S.C. § 6991b(d)(3) (1994) 
+
+
+Home Owners’ Loan Act of 1933, 48 Stat. 
+128: 
+
+
+12 U.S.C. § 1461-1468c (1994)... 22... 
+12 U.S.C. §§ 1461-1470 (1988) 
+12 U.S.C. § 1464(d) 
+12 U.S.C. § 1464(0) 
+
+
+Se e8 8682880 8 @ 6 6 6 8 @ 
+
+
+Labor-Management Relations Act, 1947, 
+61 Stat. 136: 
+
+
+29 U.S.C. § 185(a) (1994) ........... 
+National Housing Act, 48 Stat. 1246 (1934): 
+12 U.S.C. §§ 1724-17301 (repealed 1989) . 
+12 U.S.C. § 1725(a) (repealed 1989)... . 
+12 U.S.C. § 1726(a) (repealed 1989)... . 
+12 U.S.C. § 1729(c) (repealed 1989)... . 
+
+
+Racketeer Influenced and Corrupt 
+
+
+Organizations Act, 18 U.S.C. §§ 1961-1968 
+| PEELE Tee eee Pee Ce eee 
+
+
+Resource Conservation and Recovery Act 
+of 1976, Pub. L. No. 94-580, 90 Stat. 2795: 
+
+
+42 U.S.C. § 6924(t)(3) (1994) 
+
+
+2s © 8.8 © 6 & 
+
+
+passim 
+
+
+22 
+
+
+15 
+
+
+38 
+
+
+31 
+
+
+” 
+
+
+ef 
+
+
+Xil 
+Rules of Decision Act, 28 U.S.C. § 1652 
+| Pa ae ae ae ee 
+Securities Act of 1933, 48 Stat. 74: 
+15 U.S.C. § T7k(a) (1994) .........-- 
+ht a) ee ioe a 
+
+
+Securities Exchange Act of 1934, 48 Stat. 
+881: 
+
+
+1S U.S.C. § TEh (IDBS) . ww ee eens 
+12 C.FR. §§ 545.1-.142 (1989).......... 
+Legislative History: 
+135 Cong. Rec. (daily ed. Apr. 19, 1989): 
+DN Savi peeecaretesedacnees 
+ED wks dD bb ec ednekenusacen 
+
+
+135 Cong. Rec. $6907, $6934 (daily ed. 
+Sere ae 
+
+
+H.R. 1278, 101st Cong., Ist Sess. (1989). . . 
+
+
+H.R. Conf. Rep. No. 222, 101st Cong., Ist 
+Sess. (1989), reprinted in 1989 
+ib tse S @ .. Serer rrr ere ee 
+
+
+H.R. Rep. No. 54, 101st Cong., 
+ist Sess. pt. 1 (ISDS)... eee eee. 
+
+
+36 
+
+
+38 
+38 
+
+
+38 
+
+
+Xill 
+
+
+Prosecuting Fraud in the Thrift Industry: 
+Hearings on H.R. 1278 Before the 
+Subcomm. on Criminal Justice of the House 
+Comm. on the Judiciary, 10\st Cong., 1st 
+ar FES Cathe ates h 4a 6 
+
+
+0S CEES Ts RS RS a 
+
+
+S. Rep. No. 19, 101st Cong., Ist Sess. 
+(double star print 1989) ............. 
+
+
+Miscellaneous: 
+
+
+David B. Fischer, Bank Director Liability 
+Under FIRREA: A New Defense for 
+Directors and Officers of Insolvent 
+Depository Institutions — Or a Tighter 
+Noose?, 39 UCLA L. Rev. 1703 (1992)... 
+
+
+27, 31 
+
+
+27, 34 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (Pet. App. A2-A50) is 
+reported at 57 F.3d 1231. The decision of the United States 
+District Court for the District of New Jersey (Pet. App. 
+A57-A67) is not reported. 
+
+
+JURISDICTION 
+
+
+The court of appeals issued its decision on June 23, 1995 
+(Pet. App. A2-A5U). A timely petition for rehearing with request 
+for rehearing en banc was denied on September 14, 1995 (Pet. 
+App. A55-A56). The judgment of the court of appeals was issued 
+on September 22, 1995 (Pet. App. A51-A53). The petition for a 
+writ of certiorari was filed on December 12, 1995, and was 
+granted on April 15, 1996. 116 S. Ct. 1415 (1996). The jurisdic- 
+tion of this Court rests on 28 U.S.C. § 1254(1). 
+
+
+STATUTORY PROVISION INVOLVED 
+
+
+12 U.S.C. § 1821(k) (1994): 
+
+
+Liability of directors and officers. A director or officer of an 
+insured depository institution may be held personally liable for 
+monetary damages in any civil action by, on behalf of, or at the 
+request or direction of the Corporation, which action is prose- 
+cuted wholly or partially for the benefit of the Corporation— 
+
+
+(1) acting as conservator or receiver of such institution, 
+
+
+(2) acting based upon a suit, claim, or cause of action 
+purchased from, assigned by, or otherwise conveyed by such 
+receiver or conservator, or 
+
+
+(3) acting based upon a suit, claim, or cause of action 
+purchased from, assigned by, or otherwise conveyed in 
+whole or in part by an insured depository institution or its 
+affiliate in connection with assistance provided under sec- 
+tion 1823 of this title, 
+
+
+for gross negligence, including any similar conduct or conduct 
+that demonstrates a greater disregard of a duty of care (than 
+
+
+2 
+
+
+gross negligence) including intentional tortious conduct, as such 
+terms are defined and determined undier applicable State law. 
+Nothing in this paragraph shall impair or affect any right of the 
+Corporation under other applicable law. 
+
+
+STATEMENT OF THE CASE 
+
+
+In 1989, Congress enacted § 212(k)) of the Financial Institu- 
+tions, Reform, Recovery, and Enforcement Act of 1989 (FIR- 
+REA), codified at 12 U.S.C. § 1821(k) (§ 1821(k) or 
+Section 1821(k)), which provides that a director or officer of an 
+insured depository institution may be eld personally liable for 
+money damages in a suit brought by the RTC' as receiver of such 
+institution “for gross negligence” or “conduct that demonstrates 
+a greater disregard of a duty of care (thian gross negligence ).” A 
+“savings clause” of § 1821(k) provides that nothing in § 1821(k) 
+shall impair or affect any right of the RIC under “other applica- 
+ble law.” 
+
+
+This case presents for review a diviided decision by a three- 
+judge panel of the Third Circuit in winich the majority held that 
+(i) § 1821(k) has no applicability to federally chartered deposi- 
+tory institutions; (ii) because off the savings clause, § 1821(k) 
+does not displace allegedly pre-existing federal common law 
+claims against directors and officers of federally chartered 
+institutions; (iii) state law has no applicability to federally 
+chartered institutions; and (iv) therefore, the RTC may only 
+assert federal common law claims against the directors and 
+officers of federally chartered institutions. 
+
+
+The majority's position, rejected by four other federal cir- 
+cuits, shuld be reversed because it is in clear conflict with deci- 
+sions of this Court, most particularly, the Court's recent decision 
+in O'Melveny & Myers v. FDIC, 114 S. Ct. 2048 (1994). 
+
+
+' Pursuant to 12 U.S.C. § 1441a(m)(1) (1994), the RTC ceased to exist 
+on December 31, 1995, and was succeeded in all its capacities by the 
+Federal Deposit Insurance Corporation (FDIC) on that date. Accordingly, 
+the FDIC has been substituted for the RTC as the respondent in this case 
+
+
+3 
+
+
+1. The Applicable Statutory Framework 
+
+
+Before and after the enactment of FIRREA in 1989, both 
+the states and the federal government granted charters permit- 
+ting institutions to conduct business as savings associations and 
+savings banks, i.e., institutions whose charters traditionally 
+required or encouraged longer term deposits than conventional 
+banks and greater investment in home mortgages and related 
+loans.’ Before FIRREA, state chartered savings associations 
+were authorized, but not required, to obtain federal insurance of 
+their deposit accounts from the Federal Savings and Loan Insur- 
+ance Corporation (FSLIC) pursuant to Title IV of the National 
+Housing Act, 12 U.S.C. §§ 1724-1730i (repealed 1989). The 
+FSLIC was a federal agency under the direction of the Federal 
+Home Loan Bank Board (FHLBB), 12 U.S.C. § 1725(a) 
+(repealed 1989), which promulgated regulations on behalf of the 
+FSLIC. State chartered savings associations that obtained 
+FSLIC insurance of deposits became subject to a degree of 
+federal regulation. 
+
+
+In contrast to state chartered savings associations, federally 
+chartered savings associations before FIRREA were chartered 
+and regulated by the FHLBB under the Home Owners’ Loan 
+Act of 1933 (HOLA). 12 U.S.C. §§ 1461-1470 (1988). These 
+institutions were required to have federal deposit insurance, 
+generally through the FSLIC. 12 U.S.C. § 1726(a) (repealed 
+1989).° By virtue of their federal charters, federal savings 
+associations were subject to greater regulation by the FHLBB of 
+their lending, investment, deposit-taking, branching and general 
+business operations than were state chartered institutions. See, 
+eg, 12 C.ER. §§ 545.1-.142 (1989). These savings associations 
+
+
+? In the interest of brevity, the term “savings association” used through- 
+out the rest of this brief will include both savings associations and savings 
+banks. 
+
+
+‘ An exception not relevant here allowed certain institutions that had 
+converted from state to federal charters to retain the FDIC insurance they 
+held when they operated under state charters. See 12 U.S.C. § 1464(0) 
+(1988); § 1726(a) (repealed 1989). 
+
+
+4 
+
+
+were also subject to the regulations governing all FSLIC-insured 
+institutions. 
+
+In the event of receivership of any FSLIC-insured deposi- 
+tory institution before FIRREA, the FSLIC was required to be 
+appointed receiver of a federal savings association, 12 U.S.C. 
+§ 1464(d) (1988), and under most circumstances generally could 
+be appointed receiver of a state chartered savings association as 
+
+
+well, 12 U.S.C. § 1729(c) (repealed 1989). 
+
+
+FIRREA abolished both the FSLIC and the FHLBB. FIR- 
+REA § 401(a), 103 Stat. at 354. After FIRREA, the deposits of 
+all federally insured savings associations, whether chartered 
+under state or federal law, became insured by the FDIC. 12 
+U.S.C. §§ 1814, 1815. FIRREA created the Office of Thrift 
+Supervision (OTS) within the Department of the Treasury, 12 
+U.S.C. § 1462a, and gave the Director of OTS authority to char- 
+ter and regulate federal savings associations. 12 U.S.C. 
+§§ 1463(a), 1464(a). The OTS also was granted direct statutory 
+responsibility to regulate certain aspects of the operations of all 
+savings associations, whether chartered under state or federal 
+law, including in particular, their compliance with required capi- 
+tal and liquidity levels. 12 U.S.C. §§ 1464(t), 1465. 
+
+
+In the event of receivership, FIRREA required the RTC to 
+be appointed receiver of any savings association, whether 
+chartered under state or federal law, until the termination of the 
+RTC on December 31, 1995. Since that time, the FDIC has been 
+required to be appointed such receiver. See 12 U.S.C. 
+§§ 1441a(b)(3), 1464(d)(2)(E)(ii). FIRREA also enacted provi- 
+sions expanding upon the authority of the RTC and FDIC as 
+receiver beyond the authority previously contained in the appli- 
+cable statutes relating to the FDIC, including through the enact- 
+ment of § 1821(k). 12 U.S.C. § 1821. 
+
+
+2. The Proceedings Below 
+Petitioner, John W. Atherton, Jr., was a former director and 
+officer of City Federal Savings Bank (City Federal), a federally 
+
+
+5 
+
+
+chartered, federally insured savings bank that was headquar- 
+tered in Bedminster, New Jersey. City Federal was declared 
+insolvent by the OTS in December 1989, at which time the RTC 
+was appointed as receiver of City Federal. (First Am. Compl. 
+79 5, 6, 14.) 
+
+
+The RTC, in its capacity as receiver of City Federal and for 
+City Federal’s successors in receivership and conservatorship, 
+brought this civil action for money damages against petitioner 
+and other former directors and/or officers of City Federal in 
+1993. The RTC alleged that petitioner and the other former City 
+Federal directors and officers were liable for breaching their 
+duty of care in connection with losses incurred by City Federal on 
+three real estate acquisition, development and construction 
+loans City Federal made in the mid-1980s. The loans went into 
+default in the late 1980s during the nationwide collapse of the 
+commercial real estate market. The RTC did not assert that any 
+of the defendants engaged in any fraud, self dealing, conflict of 
+interest, unjust enrichment or other breach of their duty of loy- 
+alty. Rather, the RTC claimed only that the defendants failed to 
+discharge properly their duty of care as directors and officers of 
+City Federal in connection with their consideration, approval 
+and oversight of the three subject loans. (/d. 1% 70-72.) 
+
+The RTC’s original complaint, filed in April 1993, and its 
+first amended complaint, filed two months later, alleged in a 
+single count claims for negligence, gross negligence and breach 
+of fiduciary duty under both state and federal common law. (/d. 
+7% 71-72.) Neither pleading asserted any claim against the 
+defendants predicated on the statutory standard of liability con- 
+tained in § 1821(k). 
+
+
+Petitioner and other defendants below moved to dismiss 
+the RTC’s first amended complaint on grounds that § 1821(k) 
+established gross negligence as the exclusive standard of liability 
+in suits against former directors and officers of failed federally 
+chartered depository institutions. The RTC chose to concede 
+that state law was not applicable because City Federal was a 
+federally chartered institution. However, the RTC argued that 
+
+
+6 
+
+
+the last sentence of § 1821(k), the so-called “savings clause,” 
+preserved the right for the RTC to proceed against the defend- 
+ants under “federal common law,” which the RTC asserted 
+establishes an “ordinary” or “simple” negligence standard of 
+liability. 
+
+On November 15, 1993, the district court granted the 
+defendants’ motions and dismissed the RTC’s first amended 
+complaint to the extent it alleged claims based other than upon 
+§ 1821(k). (Pet. App. A58-A64.) The district court held that 
+§ 1821(k) established a uniform federal gross negligence stan- 
+dard of liability in cases involving federally chartered institutions 
+and displaced any claims under federal common law. (/d. at 
+A62-A64.) The district court also held that the RTC had with- 
+drawn its state law claims. (/d. at A64.) 
+
+
+The RTC then filed a second amended complaint that 
+asserted claims against the defendants based solely on § 1821(k). 
+The RTC also moved to certify the district court’s ruling on the 
+standard of liability issue for immediate appeal to the United 
+States Court of Appeals for the Third Circuit pursuant to 28 
+U.S.C. § 1292(b). The district court granted the RTC’s motion 
+(id. at A65), and, on May 18, 1994, the court of appeals granted 
+the RTC’s request for permission to appeal (id. at A68). In its 
+appeal, the RTC did not challenge or seek review of the district 
+court’s ruling that the RTC had withdrawn its state law claims. 
+
+
+On June 23, 1995, a divided panel of the court of appeals 
+reversed the district court. 57 F.3d 1231, Pet. App. Al-AS0. The 
+
+
+majority opinion states: 
+
+
+We hold that Congress [in enacting Sec- 
+tion 1821(k)] did not . . . supplant federal common law 
+holding directors and officers liable for conduct less 
+culpable than gross negligence. . . . [W]e will reverse 
+the district court’s order and direct the court to permit 
+the RTC to pursue any claims for negligence or breach 
+of fiduciary duty available as a matter of federal com- 
+mon law. 
+
+
+~——— me 
+
+
+> 
+
+
+57 F.3d at 1249, Pet. App. A37 (footnote omitted). The majority 
+opinion, 57 F.3d at 1244, Pet. App. A27-A28, purports to follow 
+the Court’s instruction in City of Milwaukee v. Illinois, 451 U.S. 
+304 (1981), that the dispositive question regarding whether Con- 
+gress has displaced a federal common law claim is “whether the 
+legislative scheme ‘spoke directly to a question’ [previously 
+addressed by federal common law},” id. at 315 (paraphrasing 
+Mobil Oil Corp. v. Higginbotham, 436 U.S. 618, 625 (1978)). The 
+majority, however, immediately proceeds to disregard entirely 
+the first sentence of § 1821(k), establishing a gross negligence 
+standard, and concludes that Congress evidenced a clear intent 
+to preserve any pre-existing federal common law claim for sim- 
+ple negligence based solely upon the majority's reading, in isola- 
+tion, of the last sentence of § 1821(k), the “savings clause.” /d. at 
+1237-38, 1245, Pet. App. A27-30, A37. 
+
+
+The savings clause states that “[nJothing in this paragraph 
+shall impair or affect any right of the Corporation under other 
+applicable law.” 12 U.S.C. § 1821(k). I* follows, however, the 
+first sentence of § 1821(k), which states in pertinent part that 
+“{a] director or officer of an insured depository institution may 
+be held personally liable . . . in any civil action by. . . the Cor- 
+poration . . . for gross negligence, including . . . conduct that 
+demonstrates a greater disregard of a duty of care (than gross 
+negligence) .. . .” Id. The Third Circuit majority reads the 
+savings clause, without regard to the preceding sentence of 
+§ 1821(k), as preserving for the RTC the right to assert claims 
+against directors and officers of federally chartered depository 
+institutions under federal common law. 57 F.3d at 1245, Pet. 
+App. A37. 
+
+
+The majority purports to find support for its interpretation 
+of the savings clause in the legislative history of FIRREA. /d. at 
+1238-42, 1245, Pet. App. A28-33, A37. The majority concludes 
+that, in adopting § 1821(k), Congress intended to do no more 
+than preempt so-called “insulating” statutes that had been 
+enacted by various states in recent years and that established a 
+higher standard of care than gross negligence, e.g., intentional 
+
+
+8 
+
+
+misconduct, for directors and officers of depository institutions 
+chartered in those states. Jd. at 1242, Pet. App. A31. 
+
+
+To avoid the inevitable conclusion that in the first sentence 
+of § 1821(k) Congress “spoke directly” to the standard of liability 
+issue regarding officers and directors of federally chartered insti- 
+tutions, the majority, based on its aforementioned reading of the 
+statute’s legislative history, concludes “that Congress did not 
+intend § 1821(k) to apply to federally-chartered depository insti- 
+tutions” and that “the RTC cannot proceed under § 1821(k) in 
+the City Federal action.” /d. at 1249 n.17, Pet. App. A37 (empha- 
+sis in Original). 
+
+
+The majority assumes that there existed prior to FIRREA a 
+federal common law claim against directors and officers of feder- 
+ally chartered institutions derived from Briggs v. Spaulding, 141 
+U.S. 132 (1891), and its progeny, but leaves it to the district court 
+to decide whether such claim is for simple negligence or gross 
+negligence. 57 F.3d at 1247, n.16, Pet. App. A32. 
+
+
+In a forceful opinion concurring in part* and dissenting in 
+relevant part, Circuit Judge Mansmann argues that the major- 
+ity’s conclusion conflicts with the plain language of § 1821(k). 57 
+
+
+* In the court of appeals, this cage was consolidated with RTC +. 
+Schuster, a case involving claims by the RTC as receiver of United Savings 
+and Loan of Trenton, New Jersey (United Savings), against former direc- 
+tors and officers of United Savings. 57 F.3d at 1234-35, Pet. App. A7-A9. 
+United Savings was a state chartered depository institution, and the RTC 
+sued the defendants in Schuster for negligence and breach of fiduciary duty 
+under New Jersey law. Jd. The defendants in Schuster filed a motion for 
+dismissal and summary judgment as to the RTC’s claims on grounds that 
+§ 1821(k) preempted the RTC’s state law claims. /d. The district court in 
+Schuster denied the motion, holding that § 1821(k) did not preempt the 
+state law claims, and the Third Circuit panel, including Judge Mansmann, 
+unanimously affirmed the district court. /d. To petitioner's knowledge, the 
+defendants in Schuster did not file a petition for a writ of certiorari regard- 
+ing the circuit court’s ruling in that case. In this case, whether the savings 
+clause preempts state law claims is not an issue. As noted above, in the 
+district court below, the RTC chose to withdraw the state law claims it had 
+
+
+(footnote continues) 
+
+
+9 
+
+
+F.3d at 1249-55, Pet. App. A38-A44 (Mansmann, J., concurring 
+in part and dissenting in relevant part). Judge Mansmann 
+observes that § 1821(k), by its clear terms, applies to every 
+“insured depository institution,” a term defined in 12 U.S.C. 
+§ 1813(c)(2) to include all depository institutions, whether feder- 
+ally or state chartered, the deposits of which are insured by the 
+FDIC. 57 F.3d at 1251, Pet. App. A40. 
+
+
+Citing this Court’s decision in City of Milwaukee, 451 U.S. 
+304, Judge Mansmann concludes that Congress “spoke directly” 
+to the issue of the standard of liability for directors and officers 
+of federally chartered depository institutions when Congress 
+enacted § 1821(k). Jd. at 1252, Pet. App. A44. As a result, Judge 
+Mansmann states that she would have held, as the Fifth, Sixth, 
+Seventh and Tenth Circuits have previously held, that federal 
+common law “must yield” to § 1821(k) in cases such as this. /d. at 
+1249, Pet. App. A38. 
+
+
+Following the decision by the court of appeals, petitioner 
+and other defendants below sought rehearing, with a suggestion 
+of a rehearing en banc. The court of appeals denied the petition 
+for rehearing on September 14, 1995. Pet. App. A55-A56. Since 
+the filing of the petition for a writ of certiorari on December 12, 
+1995, five of the six original petitioners have settled with the 
+RTC, or the FDIC as the RTC’s successor, and have withdrawn 
+as petitioners, leaving John W. Atherton, Jr., as the sole remain- 
+ing petitioner. 
+
+
+(footnote continued) 
+
+asserted against the petitioner and the other defendants in this case. The 
+district court ruled that the RTC had withdrawn its state law claims (Pet. 
+App. A64), and the RTC did not appeal from that ruling. 
+
+
+10 
+
+
+SUMMARY OF ARGUMENT 
+
+
+I. Because federal common law is always “subject to the 
+paramount authority of Congress,” New Jersey v. New York, 
+283 U.S. 336, 348 (1938), the determinative question regarding 
+whether a congressional statute displaces a pre-existing federal 
+common law rule is “whether [Congress] ‘spoke directly to [the] 
+question’ ” previously governed by such rule. City of Milwaukee v. 
+Illinois, 451 U.S. 304, 315 (1981) (paraphrasing Mobil Oil Corp. v. 
+Higginbotham, 436 U.S. 618, 625 (1978)). In § 1821(k), Congress 
+“spoke directly” to the applicable standard of liability in suits by 
+the RTC against the directors and officers of failed federally 
+chartered savings associations. Thus, § 1821(k) provides that 
+directors and officers of “insured depository institution[s}” — a 
+statutory term defined to include both federally chartered and 
+state chartered savings associations such as City Federal — shall 
+be liable for “gross negligence, including . . . conduct that dem- 
+onstrates a greater disregard of duty of care (than gross negli- 
+gence)... .” There is no legitimate basis for federal judges to 
+decide that directors and officers of federally chartered deposi- 
+tory institutions should be liable under a purported pre-existing 
+federal common law simple negligence standard when Congress 
+has provided in § 1821(k) that they may be liable for gross 
+negligence or greater disregard of a duty of care. 
+
+
+Four federal courts of appeals have decided that § 1821(k) 
+supplants any pre-existing federal common law simple negli- 
+gence standard. RTC v. Frates, 52 F.3d 295, 297 (10th Cir. 1995); 
+FDIC v. Bates, 42 F.3d 369, 373 (6th Cir. 1994); RTC v. Miramon, 
+22 F.3d 1357, 1364 (Sth Cir. 1994); RTC v. Gallagher, 10 F.3d 416, 
+424 (7th Cir. 1993). Only the Third Circuit majority concludes 
+otherwise based upon its reading of the savings clause of 
+§ 1821(k). The majority interprets the phrase “other applicable 
+law” in the savings clause to embrace “all” applicable law, 
+including any pre-existing federal common law claims for simple 
+negligence. 57 F.3d at 1237-38, 1245, Pet. App. A28-31, A37 
+
+
+me eee a 
+
+
+Ot mt lll St ay el 
+
+
+11 
+
+
+(emphasis in original). The majority’s position is fatally defective 
+for two overriding reasons. 
+
+
+First, in the process of violating elementary rules of statu- 
+tory construction, the majority renders the substantive provision 
+of § 1821(k), articulating the gross negligence standard, a nullity 
+insofar as federally chartered institutions are concerned. It 
+defies reason that Congress, in the first sentence of § 1821(k), 
+would authorize a statutory cause of action for gross negligence 
+or greater against federally chartered institutions “and in the next 
+sentence to eviscerate that standard by allowing actions under 
+federal common law for simple negligence.” Gallagher, 10 F.3d at 
+420. In an apparent attempt to avoid the incongruity of this 
+result, the majority adopts the wholly untenable position that 
+§ 1821(k) simply does not apply to federally chartered institu- 
+tions. That conclusion, however, was too much even for the 
+respondent to accept. It concedes that § 1821(k) clearly applies 
+to federally chartered institutions. See Br. for the Resp. in Opp. 
+at 12. 
+
+
+Second, in addition to misreading the plain wording and 
+meaning of § 1821(k), the Third Circuit majority also mis- 
+characterizes the legislative history of that provision. According 
+to the majority, § 1821(k) had but a single purpose, to wit, to 
+preempt state “insulating” statutes that exonerated directors 
+and officers from liability even for conduct that was grossly 
+negligent. 57 F3d at 1242, Pet. App. A30. The legislative history 
+clearly establishes, however, that Congress had more than one 
+concern in enacting § 1821(k). Overcoming the effect of state 
+insulating statutes was one such concern. Respect for federalism 
+principles was another concern, which caused Congress not to 
+seek to preempt state laws that allowed directors and officers to 
+be sued for simple negligence. But undeniably a third concern of 
+Congress that informed § 1821(k) was Congress’s understanding 
+that imposing too strict a federal liability standard on directors 
+and officers would discourage qualified individuals from serving 
+
+
+12 
+
+
+as such in the financial institution industry. Accordingly, in draft- 
+ing § 1821(k), Congress sought to address each of these con- 
+cerns: by permitting the RTC to sue for simple negligence in 
+those states that allowed such suits, by allowing it to sue for gross 
+negligence in those states that had adopted “insulating” statutes, 
+and by allowing it to sue for gross negligence in the case of any 
+federally chartered savings association. 
+
+
+Il. In any event, there is no federal corumon law standard of 
+liability that the federal courts may properly apply to the conduct 
+of directors and officers of federally chartered savings associa- 
+tions because none of the extraordinary circumstances that jus- 
+tify the application of federal common law are present here. 
+Such circumstances exist only when there is “ ‘a significant con- 
+flict between some federal policy or interest and the use of state 
+law.” O'Melveny & Myers v. FDIC, 114 S. Ct. 2048, 2055 (1994) 
+(quoting Wallis v. Pan Am. Petrol. Corp., 384 U.S. 63, 68 ( 1966)). 
+No such “significant conflict” is present here. Thus, no “rights of 
+the United States arising under nationwide federal programs,” 
+United States v. Kimbell Foods, Inc., 440 U.S. 715, 726 (1979), are 
+at issue. O'Melveny, 114 S. Ct. at 2055. Nor has Congress any- 
+where authorized federal courts to apply any federal common 
+law standards of liability to the directors and officers of federally 
+chartered depository institutions. Moreover, because the gov- 
+erning statute for federal savings associations not in receivership, 
+HOLA, is comprehensive, but does not even tangentially touch 
+on the subject of director or officer liability, there is no basis for 
+the interstitial use of federal common law in this case. As the 
+Court made clear in O'Melveny: “Nor would we adopt a court- 
+made rule to supplement federal statutory regulation that is 
+comprehensive and detailed; matters left unaddressed in such a 
+scheme are presumably left subject to the disposition provided 
+by state law.” 114 S. Ct. at 2054. 
+
+
+The fact that City Federal was federally chartered does not 
+justify the application of any uniform federal common law stan- 
+dard in determining the liability of its directors and officers. A 
+federal charter does not create a need for uniformity regarding 
+
+
+13 
+
+
+an issue that falls squarely within two traditional areas of state 
+law (torts and corporation law). This is particularly so here, 
+where, in the context of a comprehensive legislative scheme, 
+Congress in § 1821(k) voiced its preference for the use of “appli- 
+cable State law” to define “gross negligence.” Congress thereby 
+clearly evidenced its view that there does not exist any overriding 
+federal policy in favor of a uniform federal standard of liability, 
+except to the extent expressly provided for in § 1821(k). See 
+Reconstruction Fin. Corp. v. Beaver County, 328 U.S. 204, 209 
+(1946) (where part of regulatory scheme relies on state law, 
+“assumption” that uniformity is necessary cannot be made). 
+
+
+Nothing in the Court’s earlier decisions in Briggs v. Spauld- 
+ing, 141 U.S. 132 (1891), or Bowerman v. Hamner, 250 U.S. 504 
+(1919), requires a different conclusion. Those decisions, which 
+respondent claims established a federal common law simple neg- 
+ligence standard for the directors and officers of depository insti- 
+tutions, were decided long before Erie R. Co. v. Tompkins, 304 
+U.S. 64, 78 (1938), which declared that “[t]here is no federal 
+general common law,” a principle reaffirmed in O'Melveny, 114 
+S. Ct. at 2053. Moreover, there has been no consensus in the 
+federal courts that Briggs or Bowerman establish a simple negli- 
+gence standard. Indeed, the respondent in this very case admits 
+that “[t]he content of the federal common law standard. . . is 
+not clearly established.” Br. for the Resp. in Opp. at 16-17. 
+Accordingly, it cannot plausibly be argued that federal common 
+law should be applied to the directors and officers of federally 
+chartered institutions to assure that the liability standards for all 
+such directors and officers will be uniform. It never has been. 
+
+
+Despite several lower court cases holding the contrary, the 
+internal affairs doctrine, which provides that the law of the state 
+of incorporation normally determines issues relating to the inter- 
+nal affairs of a corporation, has no application here. Not only is 
+the doctrine a conflict of laws principle that properly applies only 
+where a choice must be made between the laws of two or more 
+states, Edgar v. MITE Corp., 457 U.S. 624, 645 (1982), application 
+
+
+14 
+
+
+of the doctrine to the liability of directors and officers of feder- 
+ally chartered associations is inconsistent with O'Melveny, as a 
+number of recent federal court cases have recognized. 
+
+
+For the foregoing reasons, as explained in further detail 
+hereafter, petitioner respectfully submits that the only claims 
+that the RTC or FDIC should be able to assert against the 
+directors and officers of failed federally chartered savings 
+associations are (1) claims for gross negligence under § 1821(k), 
+or (2) claims for simple negligence under state law if the applica- 
+ble state recognizes such claims.* 
+
+
+ARGUMENT 
+
+
+I. THE GROSS NEGLIGENCE STANDARD OF § 1821(k) 
+DISPLACES ANY PRE-EXISTING FEDERAL COMMON 
+LAW SIMPLE NEGLIGENCE STANDARD 
+
+
+As shown in Part II of this brief, no federal common law 
+negligence claim lay against the petitioner even before, much 
+less after, the adoption of FIRREA. The Court does not have to 
+make that determination, however, because, in any event, the 
+gross negligence standard of § 1821(k) displaces any pre-existing 
+federal common law simple negligence standard. The courts of 
+appeals for the Fifth, Sixth, Seventh and Tenth circuits, correctly 
+applying long-established precedents of this Court, have so ruled 
+in unanimous opinions. RTC v. Frates, 52 F.3d 295, 297 (10th Cir. 
+1995); FDIC v. Bates, 42 F.3d 369, 373 (6th Cir. 1994); RTC vy. 
+Miramon, 22 F.3d 1357, 1364 (Sth Cir. 1994); RTC v. Gallagher, 
+10 F.3d 416, 424 (7th Cir. 1993). At the circuit court level, only 
+the divided Third Circuit decision under review herein has 
+reached a contrary conclusion. 
+
+
+> In this case, of course, the RTC’s state law claims have been with- 
+drawn, so it may proceed only under § 1821(k). 
+
+
+15 
+
+
+A. When Congress “Speaks Directly” To An Issue 
+Previously Governed By Federal Common Law, That 
+Common Law Is Displaced 
+
+
+This Court has “always recognized that federal common 
+law is ‘subject to the paramount authority of Congress.’ ” City of 
+Milwaukee v. Illinois, 451 U.S. 304, 313 (1981) (quoting New 
+Jersey v. New York, 283 U.S. 336, 348 (1931)). Because of federal- 
+ism concerns, “the appropriate analysis in determining if federal 
+statutory law governs a question previously the subject of federal 
+common law is not the same as that employed in deciding if 
+federal law pre-empts state law.” Jd. at 316. When considering 
+State law preemption, this Court assumes “that the historic 
+police powers of the States were not to be superseded by the 
+Federal Act unless that was the clear and manifest purpose of 
+Congress.” Jd. (internal quotation marks omitted). By contrast, 
+when the question is whether congressional legislation displaces 
+federal common law, “[s]uch concerns are not implicated in the 
+same fashion. . . , and accordingly the same sort of evidence of 
+a clear and manifest purpose is not required.” Jd. at 316-17. The 
+Court assumes “that it is for Congress, not federal courts, to 
+articulate the appropriate standards to be applied as a matter of 
+federal law.” Id. at 317. 
+
+
+Congress has enacted an extensive series of Statutory provi- 
+sions applicable to federally chartered Savings associations and 
+to the RTC (and FDIC) as receiver of such Savings associations. 
+See, e.g., 12 U.S.C. §§ 1461-1468c, 1811-1834b. Under this statu- 
+tory scheme, first the FHLBB, and since the adoption of FIR- 
+REA, the OTS, were granted “plenary authority” by Congress to 
+regulate the operations of federally chartered Savings associa- 
+tions. 12 U.S.C. § 1464(a); Fidelity Fed. Sav. & Loan Ass'n v. de la 
+Cuesta, 458 U.S. 141, 144 (1982). This “comprehensive program” 
+of statutory provisions by itself “strongly Suggests that there is no 
+room for courts to attempt to improve on that program with 
+federal common law.” City of Milwaukee, 451 U.S. at 319. 
+
+
+The Third Circuit majority “reject[s]” the argument that 
+any federal common law standard of director and officer liability 
+
+
+16 
+
+
+“was supplanted because of the scope of FIRREA.” 57 F.3d at 
+1247, Pet. App. A33. The majority argues that in City of Milwau- 
+kee, express language in the subject act’s legislative history 
+demonstrated the establishment of a “comprehensive program,” 
+but that no such language exists in FIRREA itself or in its 
+legislative history. Jd. The majority overlooks its own description 
+of FIRREA as “a massive 371-page legislative package,” id. at 
+1239, the legislative history of FIRREA stating that the statute’s 
+delineation of RTC rights as receiver is “comprehensive,” H.R. 
+Rep. No. 54, 101st Cong., 1st Sess., pt. I, at 415 (1989), and this 
+Court’s description of FIRREA as “comprehensive legislation,” 
+O'Melveny & Myers v. FDIC, 114 S. Ct. 2048, 2054 (1994). 
+
+
+More fundamentally, Congress does not have to “address 
+every issue” of an area previously governed by federal common 
+law, Mobil Oil Corp. v. Higginbotham, 436 U.S. 618, 625 (1978), 
+nor must it have “affirmatively proscribed the use of federal 
+common law,” to abrogate its application. City of Milwaukee, 451 
+U.S. at 315; accord United States v. Texas, 507 U.S. 529, 534 
+(1993); Astoria Fed. Sav. & Loan Ass'n v. Solimino, 501 U.S. 104, 
+108-109 (1991) (there is no requirement of “clear statement” or 
+“strict construction”). Rather, whenever Congress “speak[s} 
+directly” to the matter previously addressed by federal common 
+law, such federal common law is displaced. Texas, 507 U.S. at 
+534; City of Milwaukee, 451 U.S. at 315; Northwest Airlines, Inc. v. 
+Transport Workers Union, 451 U.S. 77, 95 n.34 (1981); Mobil Oil, 
+436 U.S. at 625. Congress did just that in § 1821(k).° 
+
+
+® The “speak directly” test is satisfied by the “natural meaning” of a 
+statutory provision, /sbrandtsen Co. v. Johnson, 343 U.S. 779, 783 (1952), by 
+a statutory listing of powers that omits the power claimed to exist under the 
+common law, id. at 789, by a statutory provision that would be rendered 
+“superfluous” by continued application of a common law rule, Astoria, 501 
+U.S. at 112, or by an “implication” after application of the traditional tools 
+of statutory interpretation, id. at 110. Each of these is present here. See 
+
+
+infra pp. 17-21. 
+
+
+17 
+
+
+B. In § 1821(k), Congress “Spoke Directly” To The 
+Issue Of The Standard Of Liability Applicable To 
+Directors And Officers Of Federally Chartered 
+Depository Institutions 
+
+
+In determining whether Congress “spoke directly” to the 
+standard of liability that governs suits brought by the RTC 
+against officers and directors of failed federally chartered depos- 
+itory institutions in § 1821(k), the guiding principle is that “{t}he 
+starting point for the interpretation of a statute ‘is the language 
+of the statute itself. Absent a clearly expressed legislative inten- 
+tion to the contrary, that language must ordinarily be regarded as 
+conclusive.’ Ka‘ser Aluminum & Chem. Corp. v. Bonjorno, 494 
+U.S. 827, 835 (1990) (quoting Consumer Product Safety Comm'n 
+v. GTE Sylvania, Inc., 447 U.S. 102, 108 (1980)). 
+
+
+. Section 1821(k) is in two parts: a substantive provision con- 
+tained in the first sentence of § 1821(k) and a so-called “savings 
+clause” set forth in the second sentence. In its first sentence, 
+§ 1821(k) provides in pertinent part that 
+
+
+[a] director or officer of an insured depository institu- 
+tion may be held personally liable for monetary dam- 
+ages in any civil action by . . . the Corporation! . . . 
+acting as conservator or receiver of such institution, 
+. . . for gross negligence, including any similar conduct 
+or conduct that demonstrates a greater disregard of a 
+
+
+’ The term “Corporation” as used in § 1821(k) refers to the FDIC. 12 
+U.S.C. § 1811(a) (1994). While § 1821(k) by its terms applies only to 
+actions brought by the FDIC as conservator or receiver of failed insured 
+depository institutions, the RTC is vested with “the same powers and rights 
+to carry out its duties with respect to institutions [for which it is appointed 
+conservator or receiver] as the [FDIC] has under” § 1821(k) and other 
+sections of the Federal Deposit Insurance Act. 12 U.S.C. 
+§ 1441a(b)(4)(A) (1994). 
+
+
+18 
+
+
+duty of care (than gross negligence) including inten- 
+tional tortious conduct, as such terms are defined and 
+determined under applicable State law. 
+
+
+The savings clause provides that “[nJothing in this paragraph 
+shall impair or affect any right of the Corporation under other 
+applicable law.” 
+
+
+The first sentence of § 1821(k) “speak|s] directly,” and with 
+unmistakable clarity, to the standard of liability that governs civil 
+actions such as this one, i.e., money damage suits by the RTC 
+against the directors and officers of failed federally insured 
+depository institutions.’ It provides that directors and officers 
+“may be held personally liable . . . for gross negligence, includ- 
+ing . . . conduct that demonstrates a greater disregard of a duty 
+of care (than gross negligence) . . . .” (emphasis added). While 
+not explicitly stating that directors and officers may not also be 
+found liable for simple negligence, that conclusion flows inexora- 
+bly from the plain wording of the first sentence of § 1821(k); 
+otherwise there would have been no reason for Congress to 
+specify that directors and officers may be liable for gross negli- 
+gence “including . . . conduct that demonstrates a greater disre- 
+gard of a duty of care (than gross negligence).” Jd. (emphasis 
+added). 
+
+
+In its brief opposing the petition for certiorari, the FDIC 
+argues that if the first sentence of § 1821(k) were intended to 
+restrict the RTC from suing for simple negligence, “it would 
+most naturally have provided that the [RTC] ‘may (and may 
+only)’ sue for gross (or greater) negligence.” Br. for the Resp. in 
+Opp. at 9. But the use of the additional words “and may only” 
+would have been entirely superfluous. By providing that direc- 
+tors and officers may be liable for “gross negligence, including 
+
+. conduct that demonstrates a greater disregard of a duty of 
+
+
+® As will be discussed, infra pp. 22-25, and contrary to the holding of the 
+
+
+majority below, 0 a et et re arate 
+to both federal and state chartered “insured depository institution(s},"" and 
+
+
+the FDIC has so conceded, see Br. for the Resp. in Opp. at 12. 
+
+
+19 
+
+
+care” (emphasis added), it was unnecessary to add that they may 
+not be liable for conduct demonstrating a lesser disregard of a 
+duty of care. 
+
+Because the substantive provision of § 1821(k) “speak(s] 
+directly” to the question previously addressed by a purported 
+body of federal common law, namely, the appropriate liability 
+standard to be applied in suits brought by the RTC against 
+directors and officers of failed federally insured depository insti- 
+tutions, any such preexisting federal common law standard is 
+displaced. Texas, 507 U.S. at 534; Astoria, 501 U.S. at 108; City of 
+Milwaukee, 451 U.S. at 315; Northwest Airlines, 451 U.S. at 
+95 n.34; Mobil Oil, 436 U.S. at 625. There is no legitimate basis 
+for federal judges to decide that directors and officers should be 
+liable, under federal common law, for simple negligence when 
+Congress has provided, as a matter of federal statutory law, that 
+they should be liable for gross negligence or greater. As the Fifth 
+Circuit accurately observed in RTC v. Miramon, “It is difficult to 
+conceive how Congress could more clearly ‘speak directly’ to the 
+issue of the standard of care for personal liability of directors and 
+officers of federally-insured depository institutions.” 22 F.3d 
+1357, 1361 (Sth Cir. 1994). See also RTC v. Gallagher, 10 F.3d 416, 
+420 (7th Cir. 1993) (“It is hard to imagine a more definitive 
+statement by Congress that a gross negligence standard of liabil- 
+ity applies to cases brought by the RTC against officers and 
+directors of failed financial institutions.”’). 
+
+The majority opinion correctly identifies “ ‘the language of 
+the statute itself’” as the appropriate “ ‘starting point’” for 
+interpreting whether § 1821(k) displaces any preexisting federal 
+common law claim for simple negligence. 57 F.3d at 1237, Pet. 
+App. Al3 (quoting Kaiser Aluminum, 494 U.S. at 835). Rather 
+than proceeding to read § 1821(k) in its entirety, however, the 
+majority opinion instead completely disregards the first, substan- 
+tive provision of the statute, and asserts that “(t]he disposition of 
+these appeals turns on the breadth of § 1821(k)’s last sentence,” 
+the so-called “savings clause.” Jd. As noted above, that clause 
+provides that “(njothing in this paragraph shall impair or affect 
+
+
+20 
+
+
+any right of the Corporation under other applicable law.” 
+12 U.S.C. § 1821(k). According to the majority, the savings 
+clause, read in isolation, manifests Congress’s intent to preserve 
+the RTC’s ability to seek recovery from directors and officers 
+under all “other applicable law” including federal common law.? 
+
+
+* The majority opinion predicates its reading of the savings clause on 
+two arguments: (1) elsewhere in FIRREA, when Congress wanted to limit 
+its reference to the laws of a particular jurisdiction, it did so with specific 
+language; and (2) the majority’s reading of the savings clause is consistent 
+with this Court’s decision in Patterson v. Shumate, 504 U.S. 753, 759 (1992), 
+where the phrase “applicable nonbankruptcy law” was interpreted to 
+encompass “any relevant nonbankruptcy law, including federal law such as 
+ERISA.” 57 F.3d at 1238, Pet. App. Al4. The Court in Patterson, however, 
+noted that “the plain language of the [statute] is our determinant,” 504 
+U.S. at 757, and found in that case that no other language in the subject 
+statute suggested that the phrase “applicable nenbankruptcy law” referred 
+only to state laws, id at 758. In the absence of any such other language, the 
+Court in Patterson found corroborative support for a broad reading of 
+phrase at issue in the fact that elsewhere in that statute Congress had 
+expressly referenced state law when it sought to so limit the scope of 
+applicable laws. /d. at 758-59. Patterson might be an apt precedent for the 
+majority's reliance on other provisions in FIRREA expressly referencing 
+State law if the savings clause of § 1821(k) is read in total isolation, as the 
+majority in fact reads it. But the savings clause does not constitute all of 
+§ 1821(k); rather, it follows the first sentence of that section, and its scope 
+must be informed by the plain meaning of the language used in that first 
+sentence, see United States v. Ron Pair Enters., Inc., 489 U.S. 235, 242 n.5 
+(1989) (courts should not read bankruptcy statute “in an unnatural way 
+page . that is inconsistent with the remainder” of the statute). Because the 
+first sentence of § 1821(k) “speak(s] directly” to the issue of the standard of 
+liability applicable to directors and officers of federally chartered deposi- 
+tory institutions, any pre-existing federal common law standard is dis- 
+placed. See City of Milwaukee, 451 U.S. at 315-16. Thus, unlike the statute 
+in Patterson, § 1821(k) does contain specific language that “suggests that 
+the phrase [‘other applicable laws’] refers. . . exclusively to state law.” 504 
+U.S. at 758 (emphasis in original). Under these circumstances, the fact that 
+elsewhere in FIRREA Congress refers expressly to state laws is not suffi- 
+cient to override Congress's clear displacement of federal common law by 
+virtue of having “spoke{n] directly” to the issue of director and officer 
+liability in § 1821(k) itself. Long-established rules of statutory construction 
+
+(footnote continues) 
+
+
+21 
+
+
+57 F.3d at 1237, Pet. App. A13. In so ruling, however, the major- 
+ity effectively renders the first sentence of § 1821(k) a nullity, at 
+least insofar as federally chartered institutions (which allegedly 
+are subject to federal common law) are concerned. 
+
+
+If the majority’s reading of the savings clause is adopted, it 
+perforce leads to the conclusion that by enacting § 1821(k), 
+Congress gave the RTC a choice: the RTC could sue a director or 
+officer of a failed federally chartered depository institution for 
+gross negligence under the first sentence of § 1821(k) or, alterna- 
+tively, by virtue of the savings clause, the RTC could sue for 
+simple negligence under federal common law. But offering the 
+RTC this election would be nonsensical. As the Fifth Circuit so 
+cogently remarked in Miramon, “Why would the RTC ever bring 
+an action under section 1821{k), where it would have to prove 
+gross negligence, when it could bring an action under the federal 
+common law and only be required to prove simple negligence?” 
+22 F.3d at 1361. See also Gallagher, 10 F.3d at 420 (“It is illogical 
+that Congress intended in one sentence to establish a gross 
+negligence standard of liability and in the next sentence to evis- 
+cerate that standard by allowing actions under federal common 
+law for simple negligence.”); FDIC v. Bates, 42 F.3d 369, 372 (6th 
+Cir. 1994) (“If the court reads the savings clause to preserve 
+simple negligence claims, then the gross negligence standard 
+explicitly articulated in the savings clause is redundant, meaning- 
+less surplusage.”). It is, of course, an “ ‘elementary canon of 
+construction that a statute should be interpreted so as not to 
+render one part inoperative.’ Mountain States Tel. & Tel. Co. v. 
+Pueblo of Santa Ana, 472 U.S. 237, 249 (1985) (quoting Colautti v. 
+Franklin, 439 U.S. 379, 392 (1979)). See also Astoria, 501 U.S. at 
+
+
+(footnote continued) 
+
+require courts to read statutes in a manner that affords internal consis- 
+tency, Louisiana Pub. Serv. Comm'n v. FCC, 476 U.S. 355, 370 (1986), 
+avoids rendering superfluous any parts thereof, Astoria, 501 U.S. at 112; 
+United States v. Menasche, 348 U.S. 528, 538-39 (1955), and recognizes that 
+specific language controls general language, D. Ginsberg & Sons v. Popkin, 
+285 U.S. 204, 208 (1932). 
+
+
+22 
+
+
+112 (“[W]e construe statutes, where possible, so as to avoid 
+rendering superfluous any parts thereof.”’). 
+
+
+C. Section 1821(k) Clearly Applies To Federally 
+Chartered Depository Institutions Such As City 
+Federal 
+
+
+If it had been Congress’s intent that the directors and 
+officers of federally chartered depository institutions should be 
+liable for simple negligence under pre-existing federal common 
+law — and, therefore, its intent that federal common law be 
+embraced within the phrase “other applicable law” in the savings 
+clause — then Congress could have achieved that result in at 
+least two different ways: (1) merely by excluding federally 
+chartered institutions from the coverage of § 1821(k) or (2) by 
+drafting a savings clause that expressly preserved “federal com- 
+mon law” claims, as it has done in other comprehensive federal 
+statutory schemes.'® The Third Circuit majority, apparently cog- 
+nizant of at least the first alternative, and in an attempt both to 
+side-step the “speak directly” test and to achieve logical consis- 
+tency between the first sentence of § 1821(k) and the majority's 
+expansive interpretation of the savings clause, baldly declares 
+that § 1821(k) does not apply to federally chartered depository 
+institutions. The majority thus states, “Congress did not intend 
+to address the liability standards applicable to directors and 
+officers of federally chartered institutions in enacting § 1821(k), 
+
+
+'0 See, e.g, Comprehensive Environmental Response, Compensation, 
+and Liability Act of 1980, 42 U.S.C. § 9608(d)(2) (1994) (“Nothing in this 
+subsection shall be construed to limit any other State or Federal statutory, 
+contractual, or common law liability of a guarantor . . . .”); Emergency 
+Planning and Community Right-to-Know Act of 1986, 42 U.S.C. 
+§ 11046(g) (1994) (“Nothing in this section shall restrict or expand any 
+right which any person (or class of persons) may have under any Federal or 
+State statute or common law to seek enforcement of any requirement or to 
+seek any other relief. . . .”); Hazardous and Solid Waste Amendments of 
+1984, 42 U.S.C. § 6991b(d)(3) (1994) (“Nothing in this subsection shall be 
+construed to limit any other State or Federal statutory, contractual or 
+common law liability of a guarantor . . . .”); Resource Conservation and 
+Recovery Act of 1976, 42 U.S.C. § 6924(t)(3) (1994) (same). 
+
+
+23 
+
+
+but rather enacted the provision for the purpose of preempting 
+State insulating statutes.” 57 F.3d at 1246, Pet. App. A31. 
+
+
+According to the majority, § 1821(k) was “a reaction to the 
+enactment by various states, during the middle and late 1980s, of 
+lenient director liability statutes that protected directors from 
+gross negligence claims by limiting their liability to instances of 
+reckless, willful and wanton boardroom misconduct.” /d. at 1239, 
+Pet. App. A16. Thus, according to the majority, Congress's sole 
+purpose in enacting § 1821(k) was to permit the RTC, when 
+suing the directors or officers of a state chartered institution, to 
+proceed under the gross negligence standard of § 1821(k) in 
+those states that had enacted insulating statutes and, as permit- 
+ted by the savings clause, to proceed under simple negligence 
+standards in those states that had not enacted insulating statutes 
+and otherwise followed simple negligence standards. /d. at 1242, 
+Pet. App. A34 (“[T]he legislative history [of Section 1821(k)] 
+reflects an effort to ensure that directors and officers of state- 
+chartered institutions . . . not escape liability to the RTC under 
+the shield of certain state laws that had effectively insulated them 
+even from claims based on their grossly negligent or reckless 
+conduct.”’). 
+
+
+The majority’s position suffers from two fatal defects: (1) it 
+ignores and is at odds with the plain meaning of the terms used in 
+§ 1821(k) as defined elsewhere in FIRREA; and (2) it errone- 
+ously concludes that Congress had only one purpose in mind 
+(preempting state insulating statutes) in adopting § 1821(k). 
+
+
+The first fatal flaw in the Third Circuit majority’s position, 
+as Judge Mansmann’s dissent correctly recognizes, 57 F.3d at 
+1251, Pet. App. A41-A42, is that § 1821(k), by its own terms, 
+quite evidently is intended to apply to RTC suits against directors 
+and officers of federally chartered institutions as well as those of 
+state chartered institutions. Thus, § 1821(k) provides that the 
+RTC may bring an action against a director or officer of an 
+“insured depository institution.” The term “insured depository 
+institution” is defined in FIRREA as “any bank or savings asso- 
+ciation the deposits of which are insured by the [FDIC].” 
+
+
+24 
+
+
+12 U.S.C. § 1813(c)(2). The term “savings association” is defined 
+in FIRREA to include “any Federal savings association” and 
+“any State savings association.” 12 U.S.C. § 1813(b)(1)(A), (B). 
+The term “Federal savings association” is defined to include 
+“any Federal savings association or Federal savings bank which is 
+chartered under [12 U.S.C. § 1464].” 12 U.S.C. § 1813(b)(2)." 
+Moreover, the statutory definitions in FIRREA contain separate 
+definitions for ‘Federal depository institution” and “State 
+depository institution.” 12 U.S.C. § 1813(c)(4), (5). The former 
+term is defined to include “any Federal savings association” 
+which, as indicated, is defined as any federally chartered savings 
+association or savings bank. 12 U.S.C. § 1813(c)(4). If, as the 
+Third Circuit majority ruled, Congress intended the gross negli- 
+gence standard of § 1821(k) to apply only to directors or officers 
+of state chartered institutions, it would have referred in 
+§ 1821(k) to insured “State depository institution|s],” not to 
+“insured depository institution{s],” a term that embraces federal 
+as well as state depository institutions. Significantly, in opposing 
+the certiorari petition herein, the FDIC candidly acknowledged 
+the Third Circuit majority’s fundamental error. It stated, ““We 
+agree with petitioners that [Section 1821(k)] should be read to 
+apply to federally chartered institutions.” Br. for the Resp. in 
+Opp. at 12. 
+
+
+Since there is no question but that § 1821(k) applies to 
+federally chartered as well as state chartered institutions, the 
+task of statutory interpretation is to reconcile the first sentence 
+of § 1821(k) with the savings clause so that both are given coher- 
+ent meanings that are applicable to both types of institutions. See 
+
+
+'! City Federal, whose fuli name at the time of its receivership in 
+December 1989 was City Federal Savings Bank, was insured by the FDIC 
+and was a federal savings bank chartered under 12 U.S.C. § 1464. (First 
+Am. Compl. 4 5.) Therefore, City Federal was clearly a “Federal savings 
+bank” referred to in 12 U.S.C. § 1813(b)(2), a “Federal savings associa- 
+tion” as defined in 12 U.S.C. § 1813(b)(2), a “savings association” as 
+defined in 12 U.S.C. § 1813(b)(1)(A), and an “insured depository institu- 
+tion” as defined in 12 U.S.C. § 1813(c)(2) and as used in § 1821(k). 
+Accordingly, § 1821(k) clearly applies to the RTC’s suit against petitioner, 
+a former director and officer of City Federal. 
+
+
+iO 
+
+
+ee 
+
+
+: 
+: 
+7 
+5 
+4 
+- 
+
+
+25 
+
+
+Ron Pair, 489 U.S. at 242 n.5. We submit this is achieved by ruling 
+that, in the case of a federally chartered institution, the RTC may 
+sue directors and officers for gross negligence, as the first sen- 
+tence of § 1821(k) provides, and that the RTC may not alterna- 
+tively sue them for simple negligence under federal common law 
+because (1) the first sentence of § 1821(k) implicitly precludes a 
+suit for simple negligence under § 1821(k) itself, and (2) the 
+savings clause cannot be read to permit a federa: common law 
+simple negligence claim without nullifying the application of the 
+first sentence of § 1821(k) to federally chartered institutions. In 
+the case of a state chartered institution, the first sentence of 
+§ 1821(k) can be read to permit the RTC to sue its directors and 
+officers for gross negligence even in those states that have 
+enacted insulating statutes and the savings clause can be read to 
+allow the RTC to sue for simple negligence in those states that 
+have adopted a simple negligence standard." 
+
+
+D. The Legislative History Of § 1821(k) Demonstrates 
+That Congress Intended To Establish A Gross 
+Negligence Federal Standard Of Liability 
+
+
+As noted above, the majority’s reading of the legislative 
+history of § 1821(k) also suffers from a fatal defect, ie., the 
+failure to recognize that the language of the statute reflects a 
+congressional effort to harmonize several competing concerns; it 
+does not reflect a single legislative purpose. A fair reading of all 
+
+
+'2 The above interpretation assumes arguendo that a federal common 
+law claim for simple negligence against directors and officers of a federally 
+chartered depository institution existed before FIRREA. As demonstrated 
+in Part II, that is not the case. Rather, the cause of action available to such 
+an institution against its directors and officers prior to the institution’s 
+placement into conservatorship or receivership is under state law. Accord- 
+ingly, the correct reading of the first sentence of § 1821(k) is that in the case 
+of both a federally chartered and a state chartered savings association, the 
+RTC may sue its directors and officers for gross negligence even though the 
+applicable state law would otherwise require a higher standard, and the 
+savings clause should be read as allowing the RTC to sue for simple 
+negligence in those relatively few states that have adopted a simple negli- 
+gence standard. 
+
+
+26 
+
+
+the legislative history of § 1821(k) supports the construction of 
+that statute adopted by the Fifth, Sixth, Seventh and Tenth Cir- 
+cuits as well as by Judge Mansmann in her dissent below. 
+
+
+In enacting § 1821(k), Congress had at least three concerns. 
+First, as the majority correctly observes, Congress attributed at 
+least part of the savings and loan debacle of the 1980s to director 
+and officer malfeasance and concluded that state insulating stat- 
+utes, in those states that had enacted them, stood as an obstacle 
+to recovery even from directors and officers who had been 
+grossly negligent in the performance of their duties. 57 F.3d at 
+1238-39, Pet. App. A15-A16. Accordingly, one of the purposes of 
+establishing a gross negligence standard in § 1821(k), as 
+explained by the Senate bill’s floor manager, Senator Riegle, was 
+to preempt state laws that established a higher duty of care. 135 
+Cong. Rec. $4278-79 (daily ed. Apr. 19, 1989); see also RTC v. 
+Miramon, 22 F.3d 1357, 1363 n.9 (Sth Cir. 1994). 
+
+
+In its recitation of the legislative history of § 1821(k), how- 
+ever, the Third Circuit majority simply disregards the fact that 
+there was a second substantial concern that informed the draft- 
+ing of that provision. While there clearly was a recognition in 
+Congress that state insulating statutes may have gone too far in 
+exonerating grossly negligent directors and officers of failed 
+depository institutions, there undeniably was also a recognition, 
+among legislators and others, that if liability standards were 
+made too stringent, qualified persons would be dissuaded from 
+serving. As one student of the history of § 1821(k) has observed: 
+
+
+[Despite the reports of scandalous excesses by 
+individual bank and thrift directors, a number of legis- 
+lators and financial experts worried that an excessively 
+zealous federal crackdown against directors of deposi- 
+tory institutions might ultimately harm the public inter- 
+est by scaring away from the banks and thrifts some of 
+their most qualified and honest managers — just the 
+sort of leaders who were now most needed to revive 
+and salvage those institutions. 
+
+
+) 
+| 
+; 
+
+
+27 
+
+
+David B. Fischer, Bank Director Liability Under FIRREA: A New 
+Defense for Directors and Officers of Insolvent Depository Institu- 
+tions — Ora Tighter Noose?, 39 UCLA L. Rev. 1703, 1709 (1992) 
+(footnote omitted).'? 
+
+
+This concern explains, at least in part, why the standard of 
+liability in § 1821(k) was set at gross negligence rather than 
+simple negligence. The Senate’s initial bill, reported from the 
+Senate Banking Committee to the full Senate on April 13, 1989, 
+would have allowed the RTC to bring claims not only for “gross 
+negligence” and “willful misconduct” but also for “any cause of 
+action available at common law” including ordinary “negli- 
+gence.” S. 774, 101st Cong., 1st Sess. § 214(n) (1989). Within the 
+week, however, Senators Riegle and Garn introduced a manag- 
+ers’ amendment to the bill that eliminated all reference to “any 
+cause of action available at common law” and “negligence.” 
+Under the amended language, directors and officers could only 
+be found liable in suits by the RTC for “gross negligence or 
+intentional tortious conduct.” 135 Cong. Rec. $4452. 
+
+
+In the course of the floor debate on the managers’ amend- 
+ment, Senator Sanford, a member of the Senate Banking Com- 
+mittee from which the bill originated, made clear that, at least in 
+his mind, the change in the bill from a simple negligence to a 
+gross negligence standard was critical from the perspective of 
+attracting qualified individuals to serve as directors and officers 
+of depository institutions. He stated: 
+
+
+Mr. President, I would like to thank the distinguished 
+managers of the bill, Senator Riegle and Senator Garn, 
+for including in the managers’ amendment modifica- 
+tions to the bill regarding directors and officers liability 
+
+
+'3 See also Prosecuting Fraud in the Thrift Industry: Hearings on H.R. 1278 
+Before the Subcomm. On Criminal Justice of the House Comm. On the 
+Judiciary, 101st Cong., 1st Sess. 98-99 (1989) (testimony of John K_ Villa, 
+banking attorney and author); id. at 278-79 (testimony of Edward L. 
+Yingling, executive director of government relations, American Bankers’ 
+Association). 
+
+
+28 
+
+
+insurance contracts, surety bond, and financial institu- 
+tion bond contracts, and provisions relating to State laws 
+affecting the liability of officers and directors of financial 
+institutions. 
+
+
+I believe that these changes are essential if we are 
+to attract qualified officers and directors to serve in our 
+financial institutions. 
+
+
+Id. at $4276. 
+
+
+Courts of appeals that have held § 1821(k) displaces federal 
+common law have also read the legislative history of that provi- 
+sion as manifesting a congressional intent, in part, to adopt a 
+liability standard that would not discourage qualified individuals 
+from serving as directors and officers of financial institutions. 
+For example, the Seventh Circuit stated in RTC v. Gallagher: 
+
+
+Congress was aware that the proposed simple negli- 
+gence standard might make it difficult for financial 
+institutions to attract high quality officers and 
+directors. .. . 
+
+
+. . . Senator Sanford’s contemporaneous under- 
+standing of the managers’ amendment as establishing a 
+federal gross negligence standard of liability necessary 
+to enable financial institutions to attract quality officers 
+and directors supports our interpretation of the plain 
+language of § 1821(k). 
+
+
+10 F.3d 416, 422-23 (7th Cir. 1993). See also FDIC v. Bates, 42 
+F.3d 369, 373 (6th Cir. 1994) (“[C]omments during the debate 
+reflected concern that authorizing a claim under simple negli- 
+gence would keep qualified people from seeking or retaining 
+positions as officers and directors.”).'* 
+
+
+'* The change in the standard of care from simple to gross negligence 
+reflected in part the third concern of Congress regarding § 1821(k), ie., 
+that Congress not preempt all state laws establishing duties of care for 
+
+
+(footnote continues) 
+
+
+: 
+i 
+: 
+: 
+4 
+: 
+; 
+: 
+| 
+
+
+29 
+
+
+The Third Circuit majority disputes that § 1821(k) “mani- 
+fest[s] Congressional intent to adopt a uniform gross negligence 
+standard of care for directors and officers of bankrupt federally 
+insured depository institutions.” 57 F.3d at 1242, Pet. App. A23. 
+But it is clear from the Senate floor debate that at least some 
+Senators, including one of the floor managers of the Senate bill, 
+perceived § 1821(k) as establishing a uniform federal standard of 
+care and that such standard was gross negligence. Thus, Senator 
+Garn, one of the bill’s managers, stated on April 19, 1989, after 
+the language of the bill had been changed to eliminate reference 
+to ordinary negligence, “/W]e impose on directors and officers of 
+[a] federally insured financial institution a standard of care they 
+owe to the institution and its shareholders.” 135 Cong. Rec. 
+$4281 (daily ed. Apr. 19, 1989) (emphasis added). Senator Roth 
+similarly observed that the amended bill “sets a standard of care 
+owed to the financial institution because it is federally insured.” 
+Id. (emphasis added). Senator Roth added, “I think it is impor- 
+tant to point out that the standard of care imposed is owed to the 
+institution and its shareholders. . . . [W]e are talking about the 
+standard of care owed to an institution that enjoys Federal 
+Deposit Insurance.” Jd. (emphasis added). 
+
+
+The House version of § 1821(k), H.R. 1278, 101st Cong., Ist 
+Sess. § 212(k) (1989), which passed after the Senate version and 
+is the version that eventually became law, preserved the Senate’s 
+removal of the simple negligence standard. See Pub. L. No. 
+101-73, § 212(k), 103 Stat. 183, 243 (1989). The House-Senate 
+Conference Report, which represents the final statement of 
+terms agreed upon by both houses of Congress, confirms that 
+
+
+(footnote continued) 
+
+
+directors and officers. Thus, in introducing the managers’ amendment, 
+Senator Riegle explained: 
+
+
+The reported bill totally preempted State law in this area with 
+respect to suits brought by the FDIC against bank directors or 
+officers. However, in light of the State law implications raised by this 
+provision, the managers’ amendment scales back the scope of this 
+preemption. 
+
+135 Cong. Rec. $4278-4279. 
+
+
+30 
+
+
+Congress decided upon a gross negligence standard for 
+§ 1821(k): 
+
+
+Title II preempts State law with respect to claims 
+brought by the FDIC in any capacity against officers or 
+directors of an insured depository institution. The pre- 
+emption allows the FDIC to pursue claims for gross 
+negligence or any conduct that demonstrates a greater 
+disregard of a duty of care, including intentional tor- 
+tious conduct. 
+
+
+H.R. Conf. Rep. No. 222, 101st Cong. Ist Sess. 398 (1989), 
+reprinted in 1989 U.S.C.C.A.N. 432, 437. 
+
+
+The Third Circuit majority gives far more weight to the 
+report of the Senate Banking Committee (Banking Committee 
+Report), published in the Congressional Record on June 19, 1989, 
+than to the House-Senate Conference Report. According to the 
+majority, the Banking Committee Report “makes clear that 
+§ 1821(k) did not disturb any claims, available as a matter of state 
+or federal law, that would hold directors and officers liable for 
+conduct less culpable than gross negligence.” 57 F.3d at 1241, 
+Pet. App. A20. The Banking Committee Report stated: 
+
+
+This subsection does not prevent the FDIC from pursu- 
+ing claims under State law or under other applicable 
+Federal law, if such law permits the officers or directors 
+of a financial institution to be sued (1) for violating a 
+lower standard of care, such as simple negligence, or 
+(2) on an alternative theory such as breach of contract 
+or breach of fiduciary duty. 
+
+
+S. Rep. No. 19, 101st Cong., Ist Sess. 318 (double star print 
+1989). 
+
+
+The Banking Committee Report is of only limited utility in 
+interpreting congressional intent. See, e.g., RTC v. Miramon, 22 
+F.3d 1357, 1362 (Sth Cir. 1994) (“[E]xamination of all of the 
+legislative history, and scrutiny of the sequence of events leading 
+up to the bill’s passage, calls into question the conclusion of [the 
+Banking Committee] report.”). In the first place, it is not clear 
+
+
+ee ee 
+
+
+31 
+
+
+that the authors of the Banking Committee Report, when refer- 
+ring to “other applicable Federal law,” had in mind federal 
+common law. They nowhere specifically so state. But even if 
+that is what they intended, their intent was not made clear to the 
+Senate when it voted on and passed the amended bill, S. 774, 
+101st Cong., Ist Sess. § 214(n) (1989). That vote took place on 
+April 19, 1989, but the Banking Committee Report was not 
+published until two months later, 135 Cong. Rec. $6907, $6934 
+(daily ed. June 19, 1989). In Clarke v. Securities Industry Ass'n, 
+479 U.S. 388, 407 (1987), the Court refused to “attach substantial 
+weight” to a statement placed in the Congressional Record by a 
+sponsor of an act ten days after the law was passed. 
+
+
+It is true, as the Third Circuit majority points out, that the 
+Banking Committee Report was available some six weeks before 
+§ 1821(k) was finally enacted into law in early August 1989. 57 
+F.3d at 1241, Pet. App. A20. But it is not at all clear, given the 
+timing of its issuance, that the Report accurately reflected the 
+views of the members of the Senate, much less those of House 
+members, when final votes were cast. The House-Senate Confer- 
+ence Report does not suffer from these infirmities and is entitled 
+to greater weight. It nowhere suggests that the RTC may pursue 
+a claim for simple negligence but, on the contrary, indicates that 
+it may “pursue claims for gross negligence or any conduct that 
+demonstrates a greater disregard of a duty of care, including 
+intentional tortious conduct.” H.R. Conf. Rep. No. 222 at 398. 
+
+
+Although the legislative history of § 1821(k) is limited and 
+not entirely free from ambiguity, it strongly suggests that Con- 
+gress intended to limit the liability of directors and officers of 
+depository institutions to gross negligence except, in deference 
+
+
+“ws It is just as likely that “other applicable Federal law” referred to the 
+administrative enforcement provisions of FIRREA, see, ¢.g., 12 U.S.C. 
+§ 1818, and/or to other federal statutes that might be used as a basis for 
+suits against bank officers and directors, e.g, the Racketeer Influenced and 
+Corrupt Organizations Act, 18 U.S.C. §§ 1961-1968 (1994). That is what 
+the court concluded in Gallagher, 10 F.3d at 420: “A better reading of the 
+savings clause is that it was drafted to preserve the RTC’s ability to take 
+other regulatory actions based on simple negligence.” . 
+
+
+32 
+
+
+to principles of federalism, in those cases where a lesser standard 
+of care is imposed under the law of a particular state. Nothing in 
+the legislative history demonstrates that Congress, in enacting 
+the final version of § 1821(k), intended that the directors and 
+officers of federally chartered institutions should be subject to a 
+simple negligence standard under federal common law. 
+
+
+The Court's analysis should begin where City of Milwaukee, 
+Northwest Airlines and Mobil Oil begin, and with what the major- 
+ity below ignored, the substantive language of § 1821(k). 
+Because § 1821(k) “speak{s] directly” to the standard of liability 
+applicable to directors and officers of federally chartered institu- 
+tions, and because it imposes a gross negligence standard, it 
+should be deemed to supplant any federal common law simple 
+negligence standard that may have existed before FIRREA. The 
+Court's analysis need proceed no further. 
+
+
+ll. IN ANY EVENT, THERE IS NO FEDERAL COMMON 
+LAW CLAIM FOR ORDINARY NEGLIGENCE 
+APPLICABLE TO OFFICERS AND DIRECTORS OF 
+FEDERALLY CHARTERED DEPOSITORY 
+INSTITUTIONS 
+
+
+If this Court should determine that § 1821(k) does not 
+create a gross negligence standard of liability that supplants any 
+pre-existing federal common law simple negligence standard, 
+then, alternatively, we ask the Court to rule that no such federal 
+common law standard existed prior to the adoption of FIRREA, 
+nor does any such standard now exist; rather, the liability of 
+directors and officers of federally chartered depository institu- 
+tions should be determined as a matter of state law, not federal 
+common law. 
+
+
+A. There Is No Established Federal Common Law 
+Standard Of Liability 
+
+
+Respondent contends that “the federal common law stan- 
+dard of liability for officers and directors of federally chartered 
+depository institutions is ordinary negligence” and relies for that 
+proposition on two decisions of this Court, Briggs v. Spaulding, 
+
+
+33 
+
+
+141 U.S. 132 (1891), and Bowerman v. Hamner, 250 U.S. 504 
+(1919). Br. for the Resp. in Opp. at 17. The Third Circuit major- 
+ity similarly notes that “the Supreme Court first articulated a 
+common law standard of care for directors and officers of feder- 
+ally chartered depository institutions over 100 years ago in 
+Briggs .. . .” 57 F.3d at 1247 n.16, Pet. App. A32."* 
+
+
+. We dispute that Briggs and Bowerman intended to create an 
+ordinary negligence liability standard for officers and directors 
+(regardless of whether viewed as a federal or state common law 
+standard). Rather, we believe those cases hold bank directors 
+and officers liable only for gross negligence. In Briggs, the 
+Supreme Court considered whether two directors of a federally 
+chartered bank could be held liable for losses caused by unlawful 
+loans made by its officers that the directors failed to discover. La 
+dismissing claims by the bank's receiver, the Court stated, in a 
+passage relied upon by the RTC as establishing a federal com- 
+mon law simple negligence standard of liability, that the “degree 
+of care” required of bank directors “is that which ordinarily 
+prudent and diligent men would exercise under similar circum- 
+stances ....” Briggs, 141 U.S. at 152. But in a subsequent, critical 
+passage, the Court elaborated as follows: 
+
+
+[W]e hold that directors must exercise ordinary 
+care and prudence in the administration of the affairs 
+of a bank, and that this includes something more than 
+officiating as figure-heads. They are entitled under the 
+law to commit the banking business, as defined, to their 
+duly-authorized officers, but this does not absolve them 
+from the duty of reasonable supervision, nor ought they 
+to be permitted to be shielded from liability because of 
+want of knowledge of wrong-doing, if that ignorance is 
+the result of gross inattention .. . . 
+
+
+'© The majority stated, however, that “[g]iven our conclusion that 
+§ 1821(k) does not address the liability of directors and officers of federally 
+chartered institutions, we need not discern whether the federal common 
+law standard is one of ordinary or gross negligence.” /d. 
+
+
+34 
+
+
+Id. at 165-66 (emphasis added). 
+
+
+In short, “it is evident that the Court [in Briggs] was not 
+applying the heightened standard of care simple negligence envi- 
+sions.” Washington Bancorp. v. Said, 812 F. Supp. 1256, 1266 
+(D.D.C. 1993). Similarly, in Bowerman, a bank director was held 
+personally liable for bank losses because he never attended a 
+single director’s meeting during the bank’s entire 52 year exis- 
+tence, did not exercise even “slight care” in the discharge of his 
+responsibilities, and “deliberately avoided acquiring knowledge 
+of [the bank’s] affairs and wholly abdicated the duty of supervi- 
+sion and control which rested upon him as a director.” 250 U.S. 
+at 509, 510-11. The Court concluded that “in this case we have 
+
+
+the gross negligence of the appellant.” Jd. at 511. See generally 
+Fischer, 39 UCLA L. Rev. at 1712-26. 
+
+
+B. O’Melveny Confirms That There Is No Federal 
+General Common Law 
+
+
+Even if Briggs and Bowerman did in fact create a simple 
+negligence standard of liability, they no longer settle the issue of 
+whether there is a federal common law ordinary negligence stan- 
+dard upon which the RTC may predicate a claim against the 
+petitioner because those cases were decided well before the 
+Court’s decision in Erie, which declared that “[t}here is no fed- 
+eral general common law.” 304 U.S. at 78. 
+
+
+The Erie admonition was recently reaffirmed by a unani- 
+mous Court in O'Melveny & Myers v. FDIC, 114 S. Ct. 2048 
+(1994). There, the FDIC as receiver of a failed state chartered, 
+federally insured savings and loan association brought state law 
+causes of action for professional negligence and breach of fiduci- 
+ary duty against a law firm that had represented the institution. 
+Id. at 2052. The law firm moved for summary judgment on 
+grounds that, inter alia, under state law, the knowledge of the 
+conduct of the institution’s officers must be imputed to the insti- 
+tution and to the FDIC as its receiver, and that, because of the 
+imputed knowledge, the FDIC was estopped from pursuing its 
+claims against the law firm. Jd. The FDIC countered that a 
+
+
+ee OR EN RE TT a Sth ea. neti 
+
+
+. ee ee eee 
+
+
+35 
+
+
+federal common law rule, not state law, determined the imputa- 
+tion question. Jd. The Court disagreed. Jd. at 2052-56. It deter- 
+mined that there was no explicit federal statutory provision that 
+displaced applicable state law, id. at 2054; that given the compre- 
+hensiveness of FIRREA, there was no justification for creating 
+federal common law exceptions to supplement it, id.; and that, 
+apart from FIRREA, the use of state law would not produce a 
+conflict with any identifiable federal policy or interest, id. at 
+2055-56. Accordingly, the Court concluded that “this is not one 
+of those extraordinary cases in which the judicial creation of a 
+federal rule of decision is warranted.” Jd. at 2056. 
+
+No decision of this Court subsequent to Erie has recognized 
+the existence of a federal common law claim for negligence 
+against the directors or officers of any insured depository institu- 
+tion.'? There have heen lower federal court decisions post-Erie 
+that have relied on Briggs and Bowerman to recognize a federal 
+common law claim for breach of the duty of care against direc- 
+tors and officers of federally chartered depository institutions. 
+See, e.g., FDIC v. Bierman, 2 F.3d 1424, 1432 (7th Cir. 1993); 
+FDIC v Appling, 992 F.2d 1109, 1113-14 (10th Cir. 1993); Hoehn 
+v. Crews, 144 F.2d 665, 672 (10th Cir. 1944), aff'd on other grounds 
+sub nom. Garber v. Crews, 324 U.S. 200 (1945); Michelsen v. 
+Penney, 135 F.2d 409, 419 (2d Cir. 1943); FDIC v. Mason, 115 F.2d 
+548, 551 (3d. Cir 1940); Atherton v. Anderson, 99 F.2d 883, 887 
+(6th Cir. 1938). These cases, however, merely assume that the 
+application of federal common law is appropriate. None engages 
+in the type of analysis that the Court’s more recent decisions — 
+particularly O'Melveny — have deemed essential before deciding 
+to apply a federal common law rule in lieu of a state law rule.'* 
+
+
+'’ The Court has cited Briggs only once since Erie, in a footnote in a 
+dissenting opinion in Bangor Punta Opers. Inc. v. Bangor & Aroostook R. 
+Co., 417 U.S. 703, 721 n.1 (1974) (Marshall, J., dissenting). Since Erie, the 
+Court has never cited Bowerman. 
+
+'S The Third Circuit majority acknowledged that Briggs was decided 
+prior to Erie, but citing Bierman and Appling concluded that “the Briggs 
+articulation of the standard of care apparently continues to apply as a 
+matter of federal common law.” 57 F.3d at 1247, n.16, Pet. App. A32. 
+
+
+36 
+
+
+Although, as O’Melveny indicates, the creation of federal 
+common law is reserved for “extraordinary cases,” 114 S. Ct. at 
+2056, the Court has recognized the need and authority of federal 
+courts to create federal common law in a “few and restricted” 
+instances, Wheeldin v. Wheeler, 373 U.S. 647, 651 (1963). Such 
+instances exist only when there is “a significant conflict between 
+some federal policy or interest and the use of state law.” Wallis v. 
+Pan Am. Petrol. Corp., 384 U.S. 63, 68 (1966). As the Court said 
+in O'Melveny, “Our cases uniformly require the existence of such 
+a conflict as a precondition for recognition of a federal rule of 
+decision.” 114 S. Ct. at 2055. In this way, the court grants proper 
+deference to Congress’s paramount authority to promulgate laws 
+and to the requirements of federalism and the Rules of Decision 
+Act, 28 U.S.C. § 1652, that state law be applied unless there is a 
+clear and overriciing federal basis for employing a judicially cre- 
+ated, contrary federal rule. 
+
+
+Setting aside specialty areas that have no conceivable bear- 
+ing here,'? federal common law may be created where (1) “the 
+rights and obligations of the United States” are implicated, Texas 
+Indus., 451 U.S. at 641; (2) there is “some congressional authori- 
+zation to formulate substantive rules of decision,” id.; or 
+(3) “rules . . . may be necessary to fill in interstitially or other- 
+wise effectuate the statutory patterns enacted in the large by 
+Congress,” DelCostello v. International Bhd. of Teamsters, 462 
+U.S. 151, 160 (1983). None of these rationales for creating a 
+uniform federal common law rule of decision are present here, 
+nor does the fact that this case involves the assertion of claims 
+against a former director and officer of a federally chartered 
+institution otherwise give rise to “a significant conflict between 
+
+
+'9 Federal common law may be created, inter alia, in cases that involve 
+“interstate and international disputes implicating the conflicting rights of 
+States or our relations with foreign nations, and admiralty cases.” Texas 
+Indus., Inc. v. Radcliff Materials, Inc., 451 U.S. 630, 641 (1981) (footnote 
+omitted). 
+
+
+oe a 
+
+
+37 
+
+
+some federal policy or interest and the use of state law.”’*° Wallis, 
+384 U.S. at 68. 
+
+
+C. The Rights And Obligations Of The United States 
+Are Not At Issue In This Case 
+
+
+The rights and obligations of the United States are in no 
+way implicated by this case. In O'Melveny, the FDIC cited United 
+States v. Kimbell Foods, 440 U.S. 715, 726 (1979), for the proposi- 
+tion that “ ‘federal law governs questions involving the rights of 
+the United States arising under nationwide federal programs.’ ” 
+114 S. Ct. at 2053. The Court made clear, however, that “the 
+FDIC is not the United States, and even if it were we would be 
+begging the question to assume that it was asserting its own rights 
+rather than, as receiver, the rights of [the failed institution].” Jd. 
+(emphasis in original). Similarly, here, the United States is not a 
+party to the case and neither the RTC, nor the FDIC as its 
+successor, is the United States. The RTC instituted suit against 
+petitioner in its capacity as receiver of City Federal and seeks to 
+recover only on behalf of the failed institution, not on behalf of 
+the United States. 
+
+
+20 The court below stated, “The defendants concede that before receiv- 
+ership City Federal. . . had a right to bring an action against them under 
+federal common law.” 57 F.3d at 1245, Pet. App. A28. Petitioner respect- 
+fully submits that the court is in error on this point. Petitioner’s brief to the 
+Third Circuit expressly argued that the RTC’s position regarding the exis- 
+tence of a federal common law simple negligence standard of liability was 
+incorrect because the Briggs and Bowerman cases upon which such argu- 
+ment was based “were decided long before Erie,” and do not “ ‘create a 
+federal common law claim, as to being grounded in a state law 
+claim.’ Br. of Appellees at 21 (quoting FDIC v. Gonzalez-Gorrondona, 
+833 F. Supp. 1545, 1550 (S.D. Fla. 1993)). However, even if the defendants 
+are deemed to have made such a concession below, this Court “is not 
+limited to the particular legal theories advanced by the parties, but rather 
+retains the independent power to identify and apply the proper construc- 
+tion of governing law.” Kamen v. Kemper Fin. Servs., Inc., 500 U.S. 90, 99 
+(1991). 
+
+
+38 
+
+
+D. Congress Has Not Authorized The Creation Of A 
+Uniform Federal Common Law Standard Of 
+Liability 
+Nowhere has Congress, explicitly or even by implication, 
+authorized federal courts to create federal common law causes 
+of action or standards of liability for the directors and officers of 
+federally chartered depository institutions. HOLA is a compre- 
+hensive federal statute that governs the activities of federally 
+chartered savings associations that are not in receivership. 
+Nowhere in that statute is there any mention of director or 
+officer liability issues, much less any indication that Congress 
+intended federal courts to create federal rules of decision gov- 
+erning the liability of directors and officers of federally chartered 
+depository institutions. HOLA stands in sharp contrast to fed- 
+eral statutory schemes that specifically provide causes of action 
+and duties of care regarding the conduct of entities and individu- 
+als in the context of such schemes.*' The only federal statute of 
+which we are aware that speaks to the question of the liability of 
+
+
+2! There are a number of such statutes. For example, the Labor-Man- 
+agement Relations Act, 1947 provides that “suit(s] for violation of con- 
+tracts between an employer and a labor organization representing 
+employees . . . may be brought in any district court of the United States 
+having jurisdiction of the parties .. . .”” 29 U.S.C. § 185(a) (1994). The 
+federal securities laws provide that purchasers of securities from issuers 
+who have made untrue statements of material fact or omitted to state 
+material facts may sue such issuers. Securities Act of 1933, 15 U.S.C. 
+§§ 77k(a), 77/ (1994); Securities Exchange Act of 1934, 15 U.S.C. § 78) 
+(1994). The Employee Retirement Income Security Act of 1974 (ERISA) 
+provides that an ERISA plan “fiduciary shall discharge his duties with 
+respect to a plan. . . with the care, skill, prudence, and diligence . . . that 
+a prudent man acting in a like capacity and familiar with such matters 
+would use in the conduct of an enterprise of a like character and with like 
+aims... .” 29 U.S.C. § 1104(a)(1)(B) (1994). The federal Employers’ 
+Liability Act (FELA) provides, “Every common carrier by railroad while 
+engaging incommerce . . . shall be liable in damages to any person suffer- 
+ing injury while he is employed by such carrier in such commerce . . . for 
+such injury or death resulting in whole or in part from the negligence of any 
+of the officers, agents, or employees of such carrier. . .” 45 U.S.C. § 51 
+(1994). 
+
+
+39 
+
+
+directors and officers of federally chartered savings associations 
+is § 1821(k). Nothing in § 1821(k), however, nor in any other part 
+of FIRREA, authorizes federal courts to create liability rules for 
+such directors and officers. 
+
+
+E. There Is No Basis For The Interstitial Use Of 
+Federal Common Law In This Case 
+
+
+There are no interstices to be filled in any federal statute 
+that would justify the creation of federal common law liability 
+standards for directors and officers of federally chartered depos- 
+itory institutions. As indicated, the applicable statute, HOLA, 
+simply does not address the issue of director or officer liability. 
+Therefore, there are no details to be “fleshed out” in the statu- 
+tory scheme that would justify the creation of federal common 
+law on this basis. This stands in sharp contrast to other federal 
+statutory schemes where Congress has addressed a particular 
+issue and where the Court has approved judicial rulemaking to 
+fill in interstitially the statutory pattern that Congress enacted. 
+See, e.g., Varity Corp. v. Howe, 116 S. Ct. 1065, 1070 (1996) (courts 
+may develop a federal common law of rights and obligations for 
+employee benefit plans regulated under ERISA); Consolidated 
+Rail Corp. v. Gottshall, 114 S. Ct. 2396, 2410 (1994) (adopting a 
+“common-law zone of danger test as delimiting the proper scope 
+of an employer’s duty under FELA to avoid subjecting its 
+employees to negligently inflicted emotional injury”). 
+
+
+F. The Fact That City Federal Was Federally Chartered 
+Does Not Give Rise To A “Significant Conflict 
+Between Some Federal Policy Or Interest And The 
+Use Of State Law” 
+
+
+The only significant remaining question is whether federal 
+common law liability standards must be applied in lieu of state 
+law standards simply by virtue of the fact that City Federal was 
+federally chartered rather than state chartered. Some lower 
+court decisions, particularly those rendered before O'Melveny, 
+have held that because federally chartered savings associations 
+are subject to comprehensive federal regulation “ ‘from [their] 
+cradle to [their] corporate grave,’” Fidelity Fed. Sav. & Loan 
+
+
+40 
+
+
+Ass'n v. de la Cuesta, 458 U.S. 141, 145 (1982) (quoting People v. 
+Coast Fed. Sav. & Loan Ass'n, 98 F. Supp. 311, 316 (S.D. Cal. 
+1951)), federal law alone governs their internal affairs, including 
+the issue of director and officer liability. See, e.g., RTC v. Hess, 
+820 F. Supp. 1359, 1362 (D. Utah 1993) (“[F]ederal law exclu- 
+sively governs the internal affairs of federal savings and loan 
+associations .. . .”); City Fed. Sav. & Loan Ass'n v. Crowley, 393 F. 
+Supp. 644, 655 (E.D. Wis. 1975) (“[A] state court adjudicating 
+{the fiduciary duties of directors of a federal savings and loan} 
+would have to apply federal common law rules rather than the 
+laws of its own staie.”); Rettig v. Arlington Heights Fed. Sav. & 
+Loan Ass'n, 405 F. Supp. 819, 826 (N.D. Ill. 1975) (“{O]nly 
+federal law may be applied to questions involving [fiduciary 
+duties of federal savings and loan directors].’’). 
+
+
+We respectfully suggest that these and similar cases have 
+been wrongly decided. It is, of course, indisputable that federally 
+chartered savings associations have been subject to extensive 
+federal regulation both under the terms of HOLA and the regu- 
+lations promulgated pursuant thereto by the FHLBB (prior to 
+FIRREA) and the OTS (since FIRREA). Indeed, this Court has 
+indicated that, while it was in existence, the FHLBB’s authority 
+to regulate federally chartered savings associations was virtually 
+unlimited. Fidelity Fed., 458 U.S. at 144. Accordingly, when 
+HOLA or regulations promulgated thereunder by the FHLBB or 
+OTS address a particular question pertaining to federally 
+chartered savings associations, any conflicting state rule is per- 
+force preempted.” Yet, despite the breadth of HOLA and the 
+
+
+22 The preemption doctrine is rooted in the Supremacy Clause, U.S. 
+Const. art. VI, cl. 2. If Congress intends, either explicitly or implicitly, to 
+displace state law completely, the federal statute or regulation will super- 
+sede the state rule. Rice v. Santa Fe Elevator Corp., 331 U.S. 218, 230, rev'd 
+on other grounds sub nom., Rice v. Board of Trade, 331 U.S. 247 (1947). 
+Where Congress has not completely displaced state regulation in a particu- 
+lar area, federal law may still preempt state law where “compliance with 
+both federal and state [law] is a physical impossibility,” Florida Lime & 
+Avocado Growers, Inc., v. Paul, 373 U.S. 132, 142-43 (1963), or where the 
+
+(footnote continues) 
+
+
+41 
+
+
+regulations thereunder governing federal savings associations, 
+one will search them in vain for a single provision that addresses 
+the standard of director or officer liavility for breach of the duty 
+of care. There can be no “significant conflict,” O'Melveny, 114 S. 
+Ct. at 2055, between the use of state law standards of liability for 
+directors and officers of federally chartered institutions and any 
+identifiable federal policy or interest respecting such standards 
+because HOLA and the regulations thereunder simply do not 
+address the issue. 
+
+
+Indeed, the fact that HOLA and the FHLBB and OTS 
+regulations create a “comprehensive scheme” of federal regula- 
+tion of federally chartered institutions itself precludes creation 
+of supplementary federal common law causes of action or stan- 
+dards of liability respecting directors and officers of federally 
+chartered savings associations in lieu of state law causes of action 
+and standards of liability that would otherwise apply. This point 
+was made decisively in O'Melveny. The Court acknowledged that 
+if there is “an explicit federal statutory provision,” then of course 
+state law is displaced. O'Melveny, 114 S. Ct. at 2054. But state law 
+does not have to give way to judge-made federal common law 
+merely where, as here, the federal scheme is comprehensive: 
+“Nor would we adopt a court-made rule to supplement federal 
+statutory regulation that is comprehensive and detailed; matters 
+left unaddressed in such a scheme are presumably left subject to the 
+disposition provided by state law.”’ Id. (emphasis added). 
+
+
+Indeed, the Court recognized in O'Melveny that FIRREA 
+constitutes “comprehensive legislation.” Jd. at 2054. Accord- 
+ingly, the Court ruled that this gives courts no authority to “sup- 
+plement” FIRREA with common law exceptions to the statutory 
+scheme. /d. In like manner, the fact that HOLA and the regula- 
+tions promulgated by the FHLBB and OTS constitute a compre- 
+hensive federal regulatory scheme for federally chartered savings 
+
+
+(footnote continued) 
+
+
+State rule is “an obstacle to the accomplishment and execution of the full 
+purposes and objectives of Congress,” Hines v. Davidowitz, 312 U.S. 52, 67 
+(1941). 
+
+
+42 
+
+
+associations precludes federal courts from “supplement{ing]’’ 
+that scheme with federal common law rules respecting the liabil- 
+ity of directors and officers of such associations for ordinary 
+negligence. It is noteworthy that the Court has declined to autho- 
+rize the creation of federal common law in other contexts where 
+the federal regulatory scheme undeniably has been comprehen- 
+sive. See, e.g., Kamen v. Kemper Fin. Servs., Inc., 500 U.S. 90, 
+97-100 (1991) (refusing to adopt a federal common law rule of 
+demand futility in an action founded on the Investment Com- 
+pany Act of 1940); Burks v. Lasker, 441 U.S. 471, 480-86 (1979) 
+(refusing to adopt a federal common law rule respecting termi- 
+nation of derivative actions by directors under the Investment 
+Company Act of 1940 and the Investment Advisers Act of 1940); 
+United States v. Kimbell Foods, Inc., 440 U.S 715, 718 (1979) 
+(refusing to adopt a federal common law rule of lien priority for 
+federal loan programs, holding that “a national rule is unneces- 
+sary to protect the federal interests underlying the loan 
+programs’’). 
+
+
+The fact that Congress has clearly shown an interest in the 
+regulation of federally chartered savings associations, as evi- 
+denced by the provisions of HOLA that govern the powers and 
+operations of such associations, cannot be read as authorization 
+for federal courts to apply federal common law in this area. The 
+Court soundly rejected the FDIC’s argument in O'Melveny “that 
+FIRREA as a whole, by demonstrating the high federal interest 
+in this area, confirms the courts’ authority to promulgate [fed- 
+eral] common law.” 114 S. Ct. at 2054. See also Boyle v. United 
+Technologies Corp., 487 U.S. 500, 507 (1988) (determination that 
+“procurement of equipment by the United States is an area of 
+uniquely federal interest does not . . .end the inquiry” into 
+whether state law applies; “[d]isplacement [of state law and its 
+replacement by federal common law rules] will occur only where, 
+as we have variously described, a ‘significant conflict’ exists 
+between an identifiable ‘federal policy or interest and the [opera- 
+tion] of state law,’ or the application of state law would ‘frustrate 
+specific objectives’ of federal legislation” (quoting Wallis, 384 
+U.S. at 68, and Kimbell Foods, 440 U.S. at 728)). 
+
+
+43 
+
+
+It may be suggested that O'Melveny is inapposite because 
+the Court there was asked to create a new federal common law 
+rule of decision regarding imputation of knowledge whereas 
+here the Court is merely being asked to permit the application of 
+“well established” federal common law to claims against direc- 
+tors and officers of federally chartered institutions. Cf, Motorcity 
+of Jacksonville, Ltd. v. Southeast Bank N.A., 83 F.3d 1317 (11th 
+Cir. 1996) (holding that O’Melveny did not apply to the “previ- 
+ously-established and longstanding federal common-law 
+D’Oench doctrine”).” But cf. DiVall Insured Income Fund Ltd. 
+Partnership v. Boatmen’s First Nat'l Bank, 69 F.3d 1398, 1402 (8th 
+Cir. 1995) (relying on O'Melveny to hold that the D'Oench doc- 
+trine was preempted by FIRREA); Murphy v. FDIC, 61 F.3d 34, 
+38 (D.C. Cir. 1995) (same).** The plain fact is, however, that, 
+despite the venerable age of Briggs, the federal common law 
+respecting the liability standards for directors and officers of 
+federally chartered depository institutions is anything but ‘well 
+established.” As noted above, it is at least arguable that Briggs 
+and Bowerman both articulate a gross negligence standard of 
+liability. See supra pp. 32-34. Cases since Briggs have reached no 
+consensus on what the federal common law standard, if any, 
+should be.**> The FDIC is hardly in a position to deny this. It has 
+candidly, and accurately, admitted that “[t}he content of the 
+federal common law standard. . . is not clearly established.” Br. 
+for the Resp. in Opp. at 16-17. Indeed, so little “well established” 
+
+
+23 The “federal common-law D’Oench doctrine” was announced by the 
+Court in D’Oench, Duhme & Co. v. FDIC, 315 U.S. 447 (1942). The doc- 
+trine “prevents plaintiffs from asserting as either a claim or defense against 
+the FDIC oral agreements or ‘arrangements.’ ”’ Adams v. Zimmerman, 73 
+F.3d 1164, 1168 (1st Cir. 1996) (quoting Timberland Design, Inc. v. First Serv. 
+Bank for Sav., 932 F.2d 46, 48-50 (ist Cir. 1991)). 
+
+
+24 Other circuit courts have suggested, in dicta, that the federal common 
+law D’Oench doctrine did not survive FIRREA and O'Melveny. Dimuzio v. 
+RTC, 68 F.3d 777, 780 (3d Cir. 1995); RTC v. Kennelly, 57 F.3d 819, 822 n.3 
+(9th Cir. 1995). 
+
+
+25 See RTC v. Chapman, 29 F.3d 1120, 1127 (7th Cir. 1994) (Posner, J., 
+dissenting) (“[I]t is also unclear . . . just what the federal common law 
+rule is. . . . [T]he cases are all over the lot.”). 
+
+
+44 
+
+
+is the federal common law standard, even in 1996, that the court 
+below found it necessary to remand the case to the district court 
+to determine initially what standard of liability applies under 
+federal common law. 57 F.3d at 1247 n.16, 1249, Pet. App. A32, 
+A37. 
+
+
+For this same reason, it is implausible to argue that federal 
+common law should be applied to the directors and officers of 
+federally chartered institutions to assure that the liability stan- 
+dards for all such directors and officers will be uniform. The 
+federal courts have had over a century since Briggs to develop a 
+uniform common law standard and they have not done so yet. 
+Unless this Court itself establishes a standard unequivocally, 
+there is no reason to believe that federal common law standards 
+will be any more uniform than state law standards. With thirteen 
+federal circuit courts and hundreds of federal district courts, 
+there can certainly be as much diversity at the federal court level 
+as there is among the states. 
+
+
+Moreover, Congress and the regulators have given no indi- 
+cation that they regard achieving uniformity to be an important 
+federal policy. HOLA has been in existence for more than 50 
+years and has been amended many times. Yet Congress has never 
+seen fit to articulate a uniform standard of liability for directors 
+and officers of federally chartered savings associations. The fail- 
+ure of Congress and the FHLBB or OTS to create any statutory 
+provisions or rules respecting director or officer liability — in the 
+face of the lack of any uniformity in federal court decisions and 
+given innumerable opportunities to establish uniformity — 
+strongly suggests that uniformity in the standards governing 
+director or officer liability has not been considered to be a signif- 
+icant federal policy interest. 
+
+
+Indeed, in § 1821(k) itself Congress has provided that the 
+term “gross negligence” shall be “defined and determined under 
+applicable State law.” That indicates that Congress had no aver- 
+sion to the use of state law in resolving director aid officer 
+liability questions for federally chartered institutions and, 
+indeed, had an obvious preference for the application of state 
+
+
+45 
+
+
+law to federal common law in this instance. After all, Congress 
+could have set forth its own definition of “gross negligence” or 
+could have specified that the federal courts shall define the term. 
+Of course, by specifying that state law should be consulted for 
+the definition of gross negligence for § 1821(k) purposes, Con- 
+gress necessarily recognized that there may be a lack of uniform- 
+ity in definitions. That obviously not only did not bother 
+Congress; it is the result that Congress consciously chose. See 
+Reconstruction Fin. Corp. v. Beaver County, 328 U.S. 204, 209 
+(1946) (where part of regulatory scheme relies on state law, 
+“assumption” that uniformity is necessary cannot be made).*° 
+
+
+In the past few years, several courts have ruled that state 
+law is inapplicable to the directors and officers of federally 
+chartered institutions by virtue of the so-called “internal affairs” 
+doctrine. See, e.g., RTC v. Chapman, 29 F.3d 1120, 1122-24 (7th 
+Cir. 1994); RTC v. Gladstone, 895 F. Supp. 356, 363 (D. Mass. 
+1995); RTC v. Camhi, 861 F. Supp. 1121, 1126 (D. Conn. 1994). 
+That doctrine holds that “the law of the state of incorporation 
+normally determines issues relating to the internal affairs of a 
+corporation.” First Nat'l City Bank v. Banco Para el Comercio 
+Exterior, 462 U.S. 611, 621 (1983). Courts that rely on the doc- 
+trine to deny the applicability of state law to director or officer 
+liability contend that, just as the law of the state of incorporation 
+
+
+26 It is noteworthy in this respect that this Court has refused to fashion a 
+federal rule of decision regarding an issue that falls within an area tradi- 
+anally governed by state law. See United States v. Yazell, 382 U.S. 341, 352 
+(1966) (“Both theory and the precedents of this Court teach us solicitude 
+for state interests .. . ."’); United States v. Brosnan, 363 U.S. 237, 242 (1960), 
+Beaver County, 328 U.S. at 210 (courts should apply state law to issues that 
+are “deeply rooted in state traditions, customs, habits, and laws’). 
+
+The standard of director and officer liability at issue in this case falls 
+squarely within two traditional areas of state law: tort law and corporation 
+law. Tort law is among the most fundamental areas of state law. See Ene R 
+Co. v. Tompkins, 304 U.S. 64, 78 (1938). Similarly, issues of corporate law 
+are traditionally a matter of state law. See Business Roundtable v. SEC, 905 
+F.2d 406, 412 (D.C. Cir. 1990) (vacating an SEC rule that would “overturn 
+or at least impinge severely on the tradition of state regulation of corporate 
+law”). 
+
+
+49 
+
+
+resetves issues relating to the internal affairs of a state chartered 
+corporation, so federal law should control the internal affairs of 
+a federally chartered depository institution. Chapman is the 
+leading case espousing application of the internal affairs doc- 
+trine to federally chartered savings associations. 29 F.3d 1120. 
+The Seventh Circuit there held that the RTC had no assertable 
+state law claim against ihe directors and officers of a federally 
+chartered savings association because, while “there is no federal 
+corporate code,” the “[fjederal courts have no less authority to 
+shape a common law for federal corporations than state courts 
+have had to devise a common law for firms incorporated in their 
+jurisdictions.” Jd. at 1123. 
+
+
+We submit that application of the internal affairs doctrine 
+in the present context is inappropriate. The doctrine is a conflict 
+of laws principle that properly applies where a choice must be 
+made between the laws of two or more states. Edgar v. MITE 
+Corp., 457 U.S. 624, 645 (1982). The doctrine has no application 
+here, where the “choice” is between the application of state law 
+or federal common law rules of decision. O'Melveny provides the 
+guidelines for determining how that choice is to be made. 
+Remarkably, even though Chapman was decided shortly after 
+O'Melveny, the Seventh Circuit never mentions O'Melveny in its 
+opinion. A number of recent cases have recognized, however, 
+that application of the internal affairs doctrine to the liability of 
+directors and officers of federally chartered associations is incon- 
+sistent with O'Melveny. Accordingly, they have ruled that state 
+law, not federal common law, governs such liability. See, e.g., 
+FDIC v. Cohen, 95 Civ. 683 (LLS), 1996 U.S. Dist. LEXIS 2247, 
+at “27 (S.D.N.Y. Feb. 28, 1996) (federal law does not govern the 
+liability of the directors of a federally chartered bank “because 
+the creation of a federal common law is disfavored”); FDIC v. 
+Abel, 92 Civ. 9175 (JFK), 1995 U.S. Dist. LEXIS 18159, at *15 
+(S.D.N.Y. Dec. 5, 1995) (“[S}tate law claims may be brought 
+against directors and offices of federally-chartered banks . . . .”’); 
+FDIC v. Raffa, 882 F. Supp. 1236, 1244 (D. Conn. 1995) (“[T}he 
+mere fact that a financial institution is federally chartered does 
+not immunize that institution from state law.”); RTC v. Gregor, 
+
+
+47 
+
+
+872 F. Supp. 1140, 1146 (E.D. N.Y. 1994) (in light of O'Melveny, 
+pre-FIRREA state law provides the applicable standard of care 
+for directors and officers of federally chartered institutions); 
+RTC v. Fiala, 870 F. Supp. 962, 969 (E.D. Mo. 1994) (“The Court 
+finds the state/federal distinction . . . nonsensical.”). See also 
+RTC v. Gibson, 829 F. Supp. 1103, 1109 n.2 (W.D. Mo. 1993) 
+(“There is nothing to suggest that officers and directors of feder- 
+ally chartered institutions are only subject to federal causes of 
+action.”). 
+
+Indeed, the Court has already made clear that state law can 
+apply to the internal affairs of a federally chartered savings 
+association. In California Fed. Sav. & Loan Ass'n v. Guerra, 479 
+U.S. 272 (1987), the Court affirmed the application of a state 
+employment discrimination law to a federally chartered savings 
+association that had failed to reinstate an employee returning 
+from pregnancy disability leave to the job she had previously 
+held. Cf Wichita Royalty Co. v. City Nat'l Bank, 306 U.S. 103 
+(1939) (applying state law to tort claim by depositor against 
+directors of national bank). Other courts have reached similar 
+results. See, e.g., Goldman v. First Nat'l Bank, 985 F.2d 1113, 1121 
+(1st Cir. 1993) (state law claim by former employee of national 
+bank for breach of employment contract); Austin v. Altman, 332 
+F.2d 273, 276 (2nd Cir. 1964) (in action by shareholders of 
+national bank against bank directors for various alleged impro- 
+prieties in connection with the organization of the bank, the 
+court held the case was not “a federal matter merely because the 
+bank is chartered under federal law’”).’’ 
+
+
+2? Other courts have applied state laws to employment disputes and 
+other internal affairs of other federally chartered entities such as Amtrak 
+and the American Red Cross. See, ¢.g., Hirras v. National R.R. Passenger 
+Corp., 44 F.3d 278 (Sth Cir. 1995) (holding that an Amtrak employee may 
+proceed with state law negligent infliction of emotional distress claim 
+against Amtrak where the elements of the claim are factual questions that 
+pertain to the conduct of the employee and the employer); Cummings v. 
+National R.R. Passenger Corp., 514 Pa. 230, 523 A.2d 338 (state law breach 
+of employment contract claim by an Amtrak employee against Amtrak), 
+
+(footnote continues) 
+
+
+48 
+
+
+In accordance with the authorities discussed above, we sub- 
+mit that state law claims for negligence apply to the directors and 
+officers of federally chartered savings associations of their own 
+force. But, even if it were the case that federal law governs the 
+issue of the standard of liability of directors and officers of 
+federally chartered institutions in the first instance, that “does 
+not much advance the ball.” O'Melveny, 114 S. Ct. at 2053. As the 
+Court in O'Melveny noted, application of federal law “includes 
+federal adoption of state-law rules.” Jd. See also Boyle, 487 U.S. 
+at 508 n.3; Kimbell Foods, 440 U.S. at 726; United States v. Little 
+Lake Misere Land Co., 412 U.S. 580, 594 (1973). It is only when a 
+“significant conflict” exists between the application of such state 
+law rules of decision and an identifiable federal policy that any 
+basis exists for the creation of « uniform federal common law 
+rule of decision. O'Melveny, 114 S. Ct. at 2055; Boyle, 487 U.S. at 
+508; Wallis, 384 U.S. at 68. As demonstrated above, no such 
+“significant conflict” exists in this case. 
+
+
+Accordingly, there never was before the enactment of 
+§ 1821(k), and there is not now, any justification for the creation 
+or application of a uniform federal common law rule of decision 
+regarding the standard of liability for directors and officers of 
+federally chartered savings associations. Any claims that the 
+RTC or FDIC may have against the directors and officers of 
+federally chartered savings associations are assertable only 
+under § 1821(k) for gross negligence or under state law for 
+simple negligence in the applicable states recognizing a simple 
+negligence standard of liability. 
+
+
+(footnote continued) 
+
+cert. denied, 484 U.S. 852 (1987); American Nat'l Red Cross v. Labor Rela- 
+tions Comm'n, 363 Mass. 525, 296 N.E.2d 214 (1973) (applying Massachu- 
+setts law to regulate the labor practices of the local Red Cross chapter). 
+
+
+49 
+
+
+CONCLUSION 
+
+
+The judgment of the court of appeals should be reversed. 
+
+
+June 27, 1996 
+
+
+Respectfully submitted, 
+
+
+RONALD W. STEVENS* 
+GILBERT C. MILLER 
+
+BRUCE H. NIELSON 
+KIRKPATRICK & LOCKHART Lip 
+1800 Massachusetts Avenue, N.W. 
+
+
+Washington, D.C. 20036 
+(202) 778-9000 
+
+
+*Counsel of Record 
+
+

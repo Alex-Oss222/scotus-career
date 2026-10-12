@@ -1,0 +1,577 @@
+FILED 
+
+
+In The CLORK 
+
+
+P Supreme Court, U.S. 
+
+
+a , 
+
+
+Supreme Court of the United States 
+October Term, 1995 
+
+
+° 
+JOHNNY LYNN OLD CHIEF, 
+Petitioner, 
+v. 
+UNITED STATES, 
+Respondent. 
+
+
+° 
+
+
+On Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Ninth Circuit 
+
+
+¢ 
+
+
+REPLY BRIEF FOR PETITIONER 
+¢ 
+
+
+ANTHONY R. GALLAGHER 
+Federal Defender for the District 
+of Montana 
+
+
+*DanieL DONOVAN 
+Assistant Federal Defender 
+
+
+Federal Defenders of Montana 
+#9 Third Street North, Suite 302 
+P. O. Box 3547 
+
+Great Falls, Montana 59403-3547 
+(406) 727-5328 
+
+Counsel for Petitioner 
+
+
+*Counsel of Record 
+
+
+TABLE OF CONTENTS 
+
+
+pe BPP PPT TTT TTTTT Tee 
+
+
+I. 
+
+
+I. 
+
+
+III. 
+
+
+EE nh 0 Bb bird dics cba pied car coder ces 
+Fe oink o'00b ch bbb dee ccc cdecreces 
+
+
+A. 
+
+
+Evidence of the Nature of the Prior Felon 
+Conviction is Immaterial and, thus, Inad- 
+missible in a Felon in Possession of a Fire- 
+
+
+The Rule Adopted by the First Circuit in 
+Tavares Does Not Prevent the Government 
+from Making a Full Presentation of Proof of 
+the Crime of Felon in Possession of a Fire- 
+DUE Oe ede s bd csr ekalles sesssencdesccceescece 
+
+
+Although the Prosecutor Did Not Present 
+the Nature of Old Chief’s Prior Assault 
+Conviction in an Inflammatory Manner, the 
+Prosecutor’s Soft Sell Approach Nonethe- 
+less Created Undue Prejudice............. 
+
+
+seer: TeTT TTT rrrrree 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+CASEs: 
+Shannon v. United States, 114 S.Ct. 2419 (1994)........ 2 
+United States v. Bagley, 473 U.S. 667 (1985) ........... 4 
+United States v. Grinkiewicz, 873 F.2d 253 (11th Cir. 
+IGOD).. ov ccccceccsecceeeesas saps sm nnn 5 
+
+
+United States v. Hall, 653 F.2d 1002 (5th Cir. 1981)...3, 4 
+United States v. Jones, 67 F.3d 320 (D.C. Cir 1995) .... 10 
+United States v. Tavares, 21 F.3d 1 (1st Cir. 1994) (en 
+
+
+PONE) . oc ccccccccesescueensussune eeneneene 7, 8 
+United States v. Wacker, 72 F.3d 1453 (10th Cir. 
+
+i) Peer rr 7 
+STATUTES: 
+18 USC. § S2MOMAB). .. cccccsccvcessscnsnepeanneneee 5 
+18 USC. § SAMaMh)....cseccssdeveuveunes 1, 4, 5, 6, 7, 8 
+RUuLEs: 
+Ped. R. Bwid. O68 ...ccccscsecccessueeeuunneeeee 3, 6 
+Fed. BR. Bvid. GBB. .cccccveseccseecnssineeneeane 1 
+Fed. R. Bvid. GOOG) .. oo cccccvcecsesseannnnneeaee 7,8 
+Fed. R. Bvid. GOR .. cccccscccuvecsesseceeee 7, 8 
+
+
+OrHER AUTHORITIES: 
+E. Cleary, McCormick on Evidence § 185 (3d ed. 
+
+
+1 Louisell and Mueller, Federal Evidence (1st ed. 
+
+
+1977) § 9S pe. CUBGID. «06 i.cucescndsvnemsenenenen 3 
+
+
+1 Weinstein’s Evidence, { 401[U3], at 401-11 (1980)..... 4 
+
+
+1 
+
+
+I. INTRODUCTION: CONCESSIONS BY THE GOV- 
+ERNMENT 
+
+
+The government makes three significant concessions. 
+First, the government concedes that it may be required to 
+stipulate to a defendant's status as a felon in a § 922(g)(1) 
+case: “Consistent with those principles, where a defen- 
+dant offers an unconditional stipulation, coupled with an 
+adequate proposed jury charge, the trial court should 
+consider the availability of the stipulation as one of the 
+many factors in the Rule 403 balancing process.” Brief for 
+the United States at 28. The government agrees that Peti- 
+tioner Old Chief made an “unconditional” stipulation. Id. 
+at 29. Although the government now argues that Old 
+Chief's proposed jury instruction was “inadequate,” the 
+government never advanced this argument in the lower 
+courts, particularly in the district court when defense 
+counsel would have been more than happy to revise the 
+jury instruction to take into account the government's 
+concerns. 
+
+
+Second, the government agrees that Old Chief's prior 
+assault con™»ction created the danger of unfair prejudice: 
+“Admission of evidence of the prior assault conviction 
+presented the potential that the jury might improperly 
+surmise that, having committed an assault in the past, 
+petitioner was more likely to have done so again.” Brief 
+for the United States at 30. Despite this concession, and 
+like the trial court, the government failed to employ the 
+Rule 403 balancing process. Contrary to the government's 
+contention, the trial court never held “that the potential for 
+unfair prejudice from the introduction of petitioner's 
+
+
+prior judgment did not substantially outweigh the proba- 
+tive value of that evidence.” Id. at 29-30. The trial court 
+simply ruled that “[i]f he [the provec: tor] doesn’t want to 
+stipulate, he doesn’t have to.” J.A. at 16. At a minimum, 
+the trial court should have engage’ in a 403 balancing. By 
+failing to engage in a balancing test, the trial court abused 
+its discretion. Despite its best efforts, the government has 
+failed to establish that the nature of Old Chief’s prior 
+felony conviction was “highly probative evidence,” or 
+even probative at all, in comparison to its prejudicial 
+effect. 
+
+
+Third, although it criticizes Old Chief’s proposed 
+jury instructions and even contends that defense counsel 
+“invited error”, the government admits that “(t]he 
+instructions at issue [concerning Rules 404(b) and 609] 
+were largely inapplicable because petitioner did not tes- 
+tify at trial, and because evidence of his prior offense was 
+not introduced under Rule 404.” Brief for the United 
+States at 31-32. If jurors are assumed to follow their 
+instructions (Shannon v. United States, id. at 32), the jury 
+had to be confused because they were not properly and 
+carefully instructed. Defense counsel was not given the 
+opportunity to object to the trial court’s instructions until 
+after they were read to the jury. If the stipulation 
+requested by Old Chief had been accepted by the govern- 
+ment, there would have been no confusion at all. Having 
+rejected the stipulation and insisted that the jury hear 
+about the prior assault conviction, the government cannot 
+now complain of hypothetical juror confusion. The gov- 
+ernment cannot rectify the trial court’s abuse of discre- 
+tion. 
+
+
+Il. ARGUMENT 
+
+
+A. Evidence of the Nature of the Prior Felony Con- 
+viction is Immaterial and, thus, Inadmissible in 
+a Felon in Possession of a Firearm Case 
+
+
+In defining “relevant evidence,” Fed. R. Evid. 401 
+contains two separate elements. The government's asser- 
+tion that “information about the nature of petitioner’s 
+prior offense was *** relevant to show that he was 
+previously convicted of a covered crime” (Brief for the 
+United States at 11) misconstrues the meaning of relevant 
+evidence because the government ignores the materiality 
+prong of the definition of relevancy. Rule 401 codifies in a 
+single standard the two separate relevancy requirements 
+of probative worth and materiality. See 1 Louisell and 
+Mueller, Federal Evidence (1st ed. 1977) § 95 pp. 672-673. 
+The name and nature of a prior conviction do not show 
+anything about whether the prior conviction was punish- 
+able by a term of imprisonment exceeding one year. The 
+specific name and nature of the prior offense are there- 
+fore immaterial to the issue of whether the accused had 
+been convicted of a crime punishable by a term of 
+
+
+imprisonment exceeding one year. 
+The Fifth Circuit in United States v. Hall, 653 F.2d 
+
+
+1002, 1005 (Sth Cir. 1981), has clearly explained the two 
+components of relevancy under Rule 401: 
+
+
+The essential prerequisite of admissibility is rel- 
+
+
+4 
+
+
+two distinct requirements: (1) The evidence 
+must be probative of the proposition it is offered 
+to prove, and (2) the proposition to be proved 
+must be one that is of consequence to the deter- 
+mination of the action. McCormick on Evidence 
+§ 185, at 435 (2d Ed. 1972); 1 Weinstein’s Evi- 
+dence 401[03], at 401-13 (1980); 22 Wright & 
+Graham, Federal Practice and Procedure: Evi- 
+dence § 5162, at 18 (1978). Whether a proposi- 
+tion is of consequence to the determination of 
+the action is a question that is governed by the 
+substantive law. Simply stated, the proposition 
+to be proved must be part of the hypothesis 
+governing the case - a matter that is in issue, or 
+probative of a matter that is in issue, in the 
+litigation. McCormick on Evidence, supra, § 185, 
+at 434; 1 Weinstein’s Evidence, supra, { 401([03]. 
+
+
+See also, United States v. Bagley, 473 U.S. 667, 703 fn. 5 
+(1985) (Marshall, J., dissenting) (“If the evidence is 
+offered to help prove a proposition which is not a matter 
+in issue, the evidence is immaterial.” quoting E. Cleary, 
+McCormick on Evidence § 185 (3d ed. 1984)). For the name 
+and nature of the prior felony conviction to be relevant in 
+a § 922(g)(1) prosecution, the government must establish 
+that they are of consequence to the determination of the 
+action. 
+
+
+Whether evidence is of consequence to the deter- 
+mination of the action (materiality) depends on “the ele- 
+ments of the offenses charged and the relevant defenses 
+(if any) raised to defeat criminal liability.” Hall, 653 at 
+1005, citing 1 Weinstein’s Evidence, | 401[03], at 401-11 
+(1980). The matter in controversy or element in issue in a 
+§ 922(g)(1) case is whether the accused previously had 
+been convicted of a crime punishable by a term of 
+
+
+imprisonment exceeding one year. The statute does not 
+specify that a particular kind of offense is required to 
+prove guilt. The name and nature of the prior conviction 
+are simply not of consequence to a determination of this 
+element. The name and nature of the prior conviction are 
+thus immaterial and, therefore, irrelevant. See Petitioner's 
+Opening Brief at 10-15. 
+
+
+The government contends that the name and nature 
+of a prior conviction are relevant because some prior 
+convictions are excludable from § 922(g)(1) by 18 U.S.C. 
+§ 921(a)(20). However, Old Chief’s prior felony assault 
+conviction is not excludable by § 921(a)(20). Furthermore, 
+as the government establishes, wheth_; a particular con- 
+viction is excluded by § 921(a)(20) is a question of law 
+and is a decision to be made by the trial judge. Brief for 
+the United States at 20 fn. 12; See also, United States v. 
+Grinkiewicz, 873 F.2d 253, 258 (11th Cir. 1989). More 
+importantly, the trial court in Old Chief’s case instructed 
+the jury, as a matter of law, that his predicate felony is a 
+crime punishable by imprisonment for a term exceeding 
+one year: 
+
+With respect to the first element set forth above, 
+
+I instruct you that the offense of Assault Result- 
+
+ing in Serious Bodily Injury is a crime in the 
+
+federal courts of the United States punishable 
+
+by imprisonment for more than one year. 
+
+
+J.A. 34. With this instruction, the only remaining question 
+was whether Old Chief had been convicted of said 
+offense - an issue which Old Chief could not disprove 
+and which he conceded. Thus, with a minor change in the 
+instruction given, the trial court could easily have elimi- 
+nated the prejudice to Old Chief by excluding from the 
+
+
+instructions any reference to the name and nature of the 
+prior assault conviction. The following instruction would 
+have eliminated unfair prejudice and would not have 
+impeded the government's case at all: 
+
+
+With respect to the first element set forth above, 
+I instruct you that the Defendant, Johnny Lynn 
+Old Chief, has been convicted of a crime in the 
+federal courts of the United States punishable 
+by imprisonment for more than one year. 
+
+
+This, of course, would not have eliminated all prejudice 
+because, having denied Old Chief's motion in limine, the 
+trial court allowed the prosecutor to tell the jury that Old 
+Chief had been convicted of a prior assault. 
+
+
+In sum, evidence of the name and nature of Old 
+Chief’s prior conviction was neither necessary, material, 
+strictly in terms of Rule 401, nor relevant. 
+
+
+B. The Rule Adopted by the First Circuit in Tav- 
+ares does not Prevent the Government from 
+Making a Full Presentation of Proof of the 
+Crime of Felon in Possession of a Firearm 
+
+
+Having failed to explain why evidence of the nature 
+of the prior felony conviction was material or necessary 
+in Old Chief’s case, or why such evidence is material or 
+necessary in any § 922(g)(1) case, the government raises 
+the alarm that a ruling by this Court in favor of Old Chief 
+“would allow criminal defendants to stipulate away all 
+but the most hotly contested aspect of the charged 
+offense, leaving juries to resolve abstract, isolated ques- 
+tions, rather than the defendant’s innocence or guilt.” 
+Brief for the United States at 23. Despite its best efforts to 
+
+
+demonstrate that a rule eliminating evidence of the 
+nature of a prior conviction in a § 922(g)(1) case would be 
+the end of the world for government prosecutors,’ a 
+careful review of the rule proposed by Old Chief, as 
+adopted and explained by the First Circuit in United 
+States v. Tavares, 21 F.3d 1, 3-6 (1st Cir. 1994) (en banc), 
+allays this parade of horribles to the level of the boy who 
+cried wolf. The rule in no way leads to the result sug- 
+gested by the government. 
+
+
+The Tavares court articulated the rule as follows: the 
+government is required to accept a defendant's stipula- 
+tion as to the defendant's status as a felon in a § 922(g)(1) 
+prosecution and is prohibited from introducing evidence 
+about the nature of the prior felony unless the trial court 
+finds that the probative value of such evidence is not 
+substantially outweighed by the danger of unfair preju- 
+dice. 21 F.3d at 5. This rule would not limit the govern- 
+ment from presenting the name, nature and details of a 
+prior felony conviction when such information has “rele- 
+vance independent of simply proving prior felony status 
+*** ” such as when such evidence is admissible under 
+Rule 404(b) or Rule 609. Lnited States v. Wacker, 72 F.3d 
+
+
+1 “[A] cold stipulation can deprive [the government] of the 
+legitimate moral force of [its] evidence” (Brief for the United 
+States at 24); it would “impair the effectiveness of the 
+prosecution’s case” (Ibid,); it would leave “the jury to resolve a 
+seemingly abstract proposition” (Id. at 25); “ * * * a naked 
+admission might * * * rob the evidence of much of its fair and 
+legitimate weight” (Id. at 24); it would “lead to substantial jury 
+confusion in a wide variety of criminal prosecutions” (Id. at 26); 
+and would allow a defendant to “require the government to 
+stipulate to [a defendant's] intent *** ” (Ibid.). 
+
+
+1453, 1473 (10th Cir. 1995). In adopting the rule from 
+Tavares, the Tenth Circuit recognized that, under the rule, 
+“* * * the prosecution retains broad discretion to intro- 
+duce the underlying circumstances of a crime when those 
+
+
+circumstances are truly relevant to the prosecution of the 
+case.” (Ibid.) 
+
+
+The narrow scope of the Tavares rule precludes it 
+from being applied to any situations outside the status as 
+a felon element in § 922(g)(1) cases. Unless the 403 bal- 
+ancing test is met, that is, unless the probative value of 
+evidence is substantially outweighed by the danger of 
+unfair prejudice, the government is not restricted from 
+introducing evidence of the intent (mens rea) or actions of 
+defendant (actus reus). The rule does not restrict the 
+application of Rules 404(b) and 609. As stated by the First 
+Circuit, the right of the government to present a full 
+picture of the offense is “in no fashion weakened by 
+requiring a stipulation to establish the defendant's status 
+as a felon *** [t]he predicate crime is significant only to 
+demonstrate status, and a fuil picture of that offense is, 
+even if not prejudicial, beside the point.” 21 F.3d at 4. 
+Finally, the prosecution cannot “ordinarily” be forced to 
+accept a stipulation if it “prefers to introduce a judgment 
+of conviction properly redacted.” Id. at 5. 
+
+
+9 
+
+
+C. Although the Prosecutor Did Not Present the 
+Nature of Old Chief’s Prior Assault Conviction 
+in an Inflammatory Manner, the Prosecutor’s 
+Soft Sell Approach Nonetheless Created Undue 
+Prejudice 
+
+
+The government suggests that presenting evidence of 
+the nature of Old Chief’s prior felony was minimally 
+prejudicial because its offer “was not inflammatory and 
+did not reveal the facts underlying the prior offense.” 
+Brief for the United States at 30-31. At the same time, the 
+government admits that “[a]Jdmission of evidence of the 
+prior assault conviction presented the potential that the 
+jury might improperly surmise that, having committed 
+assault in the past, petitioner was more likely to have 
+done so again.” Id. at 30. The government cannot escape 
+the similarities between the two offenses. The prior con- 
+viction was for assault resulting in serious bodily injury; 
+the current charge was assault with a dangerous weapon. 
+The prior conviction was relatively recent, having 
+occurred in the same federal court in 1989. 
+
+
+The prosecutor did not need more for the jury to 
+make improper use of the nature and name of Old Chief's 
+prior conviction. Even if it was a “soft sell,” it was an 
+effective one. The jury was repeatedly reminded of the 
+prior felony assault throughout the trial.2 Compare, 
+
+
+2 The government argues that the defense somehow 
+waived the right to argue that the trial court should have 
+considered remedies other than stipulation because Old Chief 
+did not move to redact the judgment of conviction. Brief for the 
+United States at 33. However, once the trial court denied the 
+motion in limine, thereby allowing statements, testimony and 
+
+
+10 
+
+
+United States v. Jones, 67 F.3d 320, 324 (D.C. Cir. 1995). 
+(“[A]lthough the district court gave limiting instructions, 
+the nature of the prior felony was repeatedly brought to 
+the jury’s attention by the judge and the prosecutor.”) 
+The obvious did not need to be stated: If you have any 
+doubt about whether Old Chief assaulted Anthony Calf 
+Looking with this gun, well, you know he has assaulted 
+other(s) before — if he did it before, he must have done it 
+again. 
+
+
+Finally, the government points out how fair and just 
+it was because it “introduced evidence of only one prior 
+conviction.” Brief of the United States at 31. Was it mere 
+coincidence that the one prior conviction selected by the 
+government was highly similar in nature to the new 
+assault count? The United States exalts form over sub- 
+stance! 
+
+
+This Court must read between the lines of the gov- 
+ernment’s brief. There is nothing there which in any way 
+justifies introducing evidence of the nature of Old Chief's 
+prior conviction. The refusal to stipulate revealed that the 
+prosecution believed the judgment and conviction had 
+prejudicial value, and it rendered nonexistent any other- 
+wise legitimate interest the government might have had 
+in wanting the jury to know about Old Chief’s prior 
+assault. See Petitioner’s Opening Brief at 43. 
+
+
+evidence of Old Chief’s prior assault, a mere redaction of the 
+judgment of conviction would not have prevented the jury from 
+learning of the prior assault. It was mentioned at least five 
+separate times during the trial including twice in the jury 
+instructions which were both read, and submitted in writing, to 
+the jury. Petitioner’s Opening Brief at 5-6. 
+
+
+11 
+
+
+Ill. CONCLUSION 
+
+
+For the foregoing reasons, and those stated in our 
+Opening Brief, the judgment of the United States Court of 
+Appeals for the Ninth Circuit must be reversed and the 
+case remanded with instructions to grant a new trial. 
+
+
+Respectfully submitted, 
+
+
+ANTHONY R. GALLAGHER 
+Federal Defender for the District 
+of Montana 
+
+
+*DaniEL DONOVAN 
+Assistant Federal Defender 
+
+
+Federal Defenders of Montana 
+#9 Third Street North, Suite 302 
+P. O. Box 3547 
+
+Great Falls, Montana 59403-3547 
+(406) 727-5328 
+
+Counsel for Petitioner 
+
+
+*Counsel of Record 
+
+

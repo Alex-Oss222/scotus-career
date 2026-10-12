@@ -1,0 +1,915 @@
+supreme Court, U.S. 
+ae Se 
+
+
+rc 
+
+
+~ 
+
+
+No. 95-1723 
+
+
+NOV 18 1996 
+
+
+In The 
+
+
+Supreme Court of 
+
+
+CLERK 
+
+
+the United States 
+
+
+October Term, 1996 
+
+
+° 
+
+
+TOM GRIMMETT, AS 
+
+
+TRUSTEE FOR THE 
+
+
+BANKRUPTCY ESTATE OF VINCENT SIRAGUSA, 
+
+
+and JOANNE 
+
+
+SIRAGUSA, 
+
+
+Petitioners, 
+
+
+PATRICIA L. BROWN, PATRICIA L. BROWN, LTD., 
+and BECKLEY, SINGLETON, DELANOY, 
+JEMISON & LIST, CHTD., 
+
+
+Respondents. 
+
+
+¢ 
+
+
+On Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Ninth Circuit 
+
+
+¢ 
+
+
+REPLY BRIEF FOR PETITIONERS 
+
+
+¢ 
+
+
+Erven T. Netson 
+
+ALVERSON, TAYLOR, 
+Mortensen & NELSON 
+
+3821 West Charleston 
+Blvd. 
+
+Las Vegas, Nevada 89102 
+
+(702) 384-7000 
+
+
+RANDALL M. RuMPH 
+BARRY SHINEHOUSE 
+
+RumrpuH & Peyton 
+
+302 East Carson Avenue 
+Las Vegas, Nevada 89101 
+(702) 388-4466 
+
+
+Daviv B. SmitH 
+
+ENGusH & SMITH 
+
+526 King Street, Suite 213 
+Alexandria, Virginia 22314 
+(703) 548-8911 
+
+
+RicHArRD A. SAUBER* 
+MicHaet L. WALDMAN 
+JONATHAN S. ARONIE 
+Davip B. WiseMAN 
+Friep, Frank, Harris, 
+SHriver & JACOBSON 
+1001 Pennsylvania 
+Avenue, N.W. 
+Suite 900 
+Washington, DC 
+20004-2505 
+(202) 639-7000 
+
+
+~™ Counsel of Record 
+
+
+COCKLE LAW BRIEF PRINTING CO. (800) 225-6964 
+OR CALL COLLECT (402) 442-2831 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+
+
+I. PETITIONER’S RICO ACTION DID NOT 
+ACCRUE IN 1989, NOR IS IT MOOT.......... 
+
+
+Il. THE “INJURY AND PATTERN DISCOVERY” 
+ACCRUAL RULE IS REQUIRED BY THE CIVIL 
+RICO STATUTE AND BY GENERAL PRINCI- 
+PE OES bo kn cae cecvducdeedeecesees 
+
+
+EE Si SC CRG wage Wubesatedsis 4660 6600 0% 0 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+Agency Holding Corp. v. Malley-Duff & Associates, 
+
+inc., 483 U.S. 1463 (1967)... .c0scncceuueueneee 8, 9, 13 
+Agristor Financial Corp. v. Van Sickle, 967 F.2d 233 
+
+(6th Cig. 1992). ....cessscesceuusba eu een 14 
+Association of Commonwealth Claimants v. Moylan, 
+
+71 F.3d 1396 (Sth Cie. 1995). .0cccccsccnueeueeneeee 14 
+Bailey v. Glover, 88 U.S. 342 (1874) .............5005. 11 
+Bankers Trust Co. v. Rhoades, 859 F.2d 1096 (2d Cir. 
+
+1988), cert. denied, 490 U.S. 1007 (1989)..... 1, 3, 4, 14 
+Caproni v. Prudential Securities, Inc., 15 F.3d 614 
+
+(Gth Cir. 1994)... ...ecccenecsvcseee sue sue 15 
+Flintkote Co. v. Lysfjord, 246 F.2d 368 (9th Cir.), cert. 
+
+denied, 355 U.S. 835 (1957) TOCCeCCreCrrrr errr ee eee 7 
+Granite Falls Bank v. Henrikson, 924 F.2d 150 (8th 
+
+Cie. 1991) ....cccnccccscceseseseusen ee anna 13 
+H.]. Inc. v. Northwestern Bell Telephone Co., 492 U.S. 
+
+229 (19GD) . ww cccvccccesccesctseee see ee ean aE 11 
+
+
+Havens Realty Corp. v. Coleman, 455 U.S. 363 (1982) .... 11 
+Holmberg v. Armbrecht, 327 U.S. 392 (1946)........... 10 
+
+
+Imagineering, Inc. v. Kiewit Pacific Co., 976 F.2d 1303 
+(9th Cir. 1992), cert. denied, 507 U.S. 1004 (1993) ...2, 6 
+
+
+Keystone Ins. Co. v. Houghton, 863 F.2d 1125 (3d Cir. 
+|) PI 9 
+
+
+Klehr v. A.O. Smith Corp., 87 F.3d 231 (8th Cir. 
+i.) 15 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+McCool v. Strata Oil Co., 972 F.2d 1452 (7th Cir. 
+I eEDGadeGHedeceveseccccccccces 12, 13, 14 
+Rodriguez v. Banco Central, 917 F.2d 664 (Ist Cir. 
+ERE eUacbtepbcerccccccccccccscccs 14 
+Schrag v. Dinges, 150 F.R.D. 664 (D. Kan. 1994), 
+aff'd, 73 F.3d 374 (10th Cir. 1995) ....... 66660 e ee. 15 
+Sedima S.P.R.L. v. Imrex Co., 473 U.S. 479 (1985) ...... 2 
+Siragusa v. Siragusa, 843 P.2d 807 (Nev. 1992)....... 1,2 
+United States v. Bornstein, 423 U.S. 303 (1976)......... 7 
+United States v. Kubrick, 444 U.S. 111 (1979)......... 12 
+United States v. Turkette, 452 U.S. 576 (1981)......... 10 
+StaruTes AND RuLes 
+Ena Gad ew ecdeccesoccccccsecccccccecees 7 
+eet eu cae vecccesccccccvcccesccccccess 6 
+can sececcsccbocccocccscccccccccececece 5 
+sae esesecesecscceccoscvcccossccccecs 5 
+sab ebobceserccecersccecesceresccess 6, 7 
+TD cna casccbcccccccseccccccccsscecces: 2 
+TTD ssccavcccvcsesccccccccccccscceccecs 3 
+Src beesceseuccccceccvcccccccccosccss 10 
+LE i OY | rr ere eee eee 10 
+
+
+Tees ccs ccceccseceescees 10 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+OD GRC. B CR cc nc nccccccbcesdanccabetuesaeansua 10 
+BD SEE. B Gita ncccctecsvexesned denevsdsveunaieres 10 
+OB CRG. GB Be oh cc ttcncccéccooncnésinasesounne y 
+OD BEE. BH Te 0 cn vevbcdiccadeeccsnks coatennsentt 7 
+, Se KG ree eee 2 
+Miscrtt ANBOUS 
+2 Calvin W. Corman, Limitation of Actions § 1.11.1 
+SED « 0ccndetsecesd durbeeeteceeaddsnuresedesceeusas 12 
+54 C.J.S. Limitations of Actions § 87 (1987)........... 12 
+
+
+I. PETITIONERS’ RICO ACTION DID NOT ACCRUE 
+IN 1989, NOR IS IT MOOT 
+
+
+Both Respondents present several arguments which 
+merely serve to re-emphasize one of Petitioners’ principal 
+points: until Joanne Siragusa is compelled to accept less 
+than 100% of her pre-existing debt she has not suffered 
+concrete RICO damage. In attempting to evade the logic 
+of Bankers Trust Co. v. Rhoades, 859 F.2d 1096 (2d Cir. 
+1988), cert. denied, 490 U.S. 1017 (1989), Respondents can- 
+not agree amongst themselves as to the time of Joanne’s 
+RICO injury. Respondent Brown argues that Joanne knew 
+of her potential injury in 1989 so the limitations period 
+has already run. Respondent Beckley, Singleton argues 
+that Joanne may have been injured as a result of her 1994 
+settlement with her husband but inexplicably concludes 
+that the RICO case is moot. Neither position has merit. 
+
+
+1. As detailed in Petitioners’ initial brief, the var- 
+ious divorce proceedings between Joanne and Vincent 
+Siragusa, summarized by the Supreme Court of Nevada 
+in Siragusa v. Siragusa, 843 P.2d 807 (Nev. 1992), resulted 
+in Vincent's substantial indebtedness to Joanne in terms 
+of both alimony and property settlement obligations. At 
+the time Vincent filed for Chapter 7 bankruptcy protec- 
+tion, on November 10, 1987, these obligations included 
+both arrearages and future payments. Id. at 809. 
+
+
+Respondent Brown urges that Joanne’s RICO injury 
+occurred when she filed her Adversary Complaint in 
+Bankruptcy Court in 1989, yet she tacitly admits that 
+Joanne, at best, had suffered only “potential damage.” 
+Respondent Brown Answering Brief at 23 (emphasis 
+
+
+added). As Petitioner explained in her initial Brief, “an 
+
+
+attempt, even a successful attempt, to subvert an under- 
+lying security interest . . . is not itself a RICO injury 
+unless and until the debt that is being secured is ‘lost.’ ” 
+Petitioners’ Brief at 20. 
+
+
+Respondent urges that Joanne was aware of her 
+potential injury when she learned that her payments from 
+Vincent were in jeopardy. Specifically, Respondent Brown 
+suggests that Joanne became “aware of the extent of 
+potential damage by May of 1989.” Respondent Brown 
+Answering Brief at 23. However, being aware of the 
+potential damage is not sufficient to meet the injury 
+requirement mandated by this Court in Sedima S.P.R.L. v. 
+Imrex Co., 473 U.S. 479 (1985), a requirement charac- 
+terized by the Ninth Circuit as an injury that amounts to 
+a “concrete financial loss.” Imagineering, Inc. v. Kiewit Pacific 
+Co., 976 F.2d 1303, 1310 (9th Cir. 1992) (emphasis added), 
+cert. denied, 507 U.S. 1004 (1993). 
+
+
+Respondent Brown also points to Vincent's prelimi- 
+nary discharge on May 4, 1988, as another point when 
+Joanne would have known the extent of her potential 
+damage. Respondent Brown's Brief at 24. Yet again this 
+event did not cause Joanne a RICO injury because she 
+was not at that point compelled to accept less than 100% 
+of her pre-existing debt and because the determination of 
+Vincent's legal obligation was not final. The preliminary 
+discharge was granted on May 4, 1988, as an automatic 
+statutory requirement because none of the creditors 
+objected to Vincent's filing within the time allotted. See 
+Siragusa v. Siragusa, 843 P.2d at 809; see also 11 U.S.C. 
+§ 727(a); Fed. R. Bankr. P. 4004. 
+
+
+Such a discharge, however, remains subject to revoca- 
+tion for one year by a creditor or Trustee upon proof that 
+the discharge was obtained by fraud and the moving 
+party did not know of the fraud at the time of discharge. 
+11 U.S.C. § 727(e). Less than a year later, on May 2, 1989, 
+Joanne and the Trustee filed their adversary complaint in 
+Bankruptcy Court seeking revocation of Vincent's dis- 
+charge for fraud. (J.A. 186). From that point on, Joanne 
+and the Trustee sought to untangle the defendants’ var- 
+ious fraudulent transfers and to effect the return of the 
+property to the Bankruptcy Estate. As the Second Circuit 
+recognized in Bankers Trust, a RICO cause of action can- 
+not be said to have accrued in such a situation. 
+
+
+Notably, Respondent Brown's Answering Brief is 
+silent with respect to the Second Circuit's decision in 
+Bankers Trust, 859 F.2d 1096. The defrauded creditor in 
+Bankers Trust faced nearly the exact same circumstances 
+as Joanne has faced in the instant case. Moreover, the 
+creditor in Bankers Trust already had accepted a Chapter 
+11 Reorganization Plan, agreed to receive only 17.5% of 
+its debt, and agreed to relieve the debtor of its remaining 
+debt obligation. Id. at 1098. When it learned of evidence 
+of fraudulent transfers, the creditor moved in Bankruptcy 
+Court to revoke the reorganization plan on the ground 
+that it had been obtained by fraud. Id. at 1099. 
+
+
+The reopened Bankruptcy Proceeding meant that the 
+creditor's debt had not been finally “lost,” and the ques- 
+tion of a RICO injury was, therefore, found to be specula- 
+tive. Id. at 1106. In light of these facts, the court held as 
+follows: 
+
+
+[Ajfter the claims . . . are dealt with by the 
+bankruptcy court — through recovery of all or 
+part of [the fraudulently transferred corporate] 
+assets, an order of abandonment, or some other 
+final disposition of the lost-debt claims - [plain- 
+tiff’s] injury will be ascertainable, an action as to 
+the injury will accrue, and [plaintiff] will then 
+have four years to bring a civil RICO action to 
+recover the damages it has suffered in this area, 
+subject of course to the normal rules and pro- 
+cedures governing such claims. 
+
+
+Bankers Trust, 859 F.2d at 1106. In short, the Second Cir- 
+cuit concluded that the creditor had not yet suffered a 
+RICO injury since the Bankruptcy Proceeding was still 
+open and the Trustee was attempting to recover fraudu- 
+lently transferred assets. 
+
+
+2. Respondent Beckley, Singleton argues that two 
+settlements within the Bankruptcy Proceeding have ren- 
+dered the RICO case moot or have fully compensated 
+Joanne for her RICO injury. Neither assertion is correct. 
+
+
+Respondent asserts that a settlement between Joanne, 
+the Trustee, and Vincent, renders moot Petitioner's RICO 
+case. Respondent Beckley, Singleton Brief at 2-3. This 
+argument, however, ignores the clear terms of the Settle- 
+ment Agreement — a Settlement Agreement that Respon- 
+dents Beckley, Singleton, Delanoy, Jemison & List 
+themselves attached to their brief as an appendix. 
+
+
+In the summer of 1994, Joanne and the Trustee 
+entered into a comprehensive settlement agreement with 
+Vincent that, subsequently, was approved by the Bank- 
+ruptcy Court. Respondent Beckley, Singleton Brief, 
+Appendix pp. 1-53. Vincent agreed to pay Joanne 
+
+
+$160,000 toward his alimony arrearage obligations and 
+agreed to pay to the Bankruptcy Estate $40,000 toward its 
+claims in the Adversary Proceeding. In return, Joanne 
+released any personal claims against Vincent (other than 
+future alimony claims), and the Bankruptcy Estate 
+released its claims against Vincent. As part of the agree- 
+ment, Vincent agreed to have his preliminary discharge 
+revoked. App. at 20, 21. 
+
+
+The Settlement Agreement, however, explicitly pre- 
+served Joanne’s right to receive payment against the 
+Bankruptcy Estate for her pre-existing debts, as follows: 
+
+
+B. The Releases by Joanne shall not extend or 
+operate with respect to any claims by Joanne 
+against the Bankruptcy Estate, including with- 
+out limitation Joanne’s Proof of Claim, all of 
+which such claims by Joanne shall survive 
+against the Bankruptcy Estate. 
+
+
+App. at 17. Moreover, the settlement explicitly preserved 
+both Joanne’s and the Estate’s rights to proceed against 
+the Respondents, by providing that the releases “shall not 
+extend to or operate in favor of [the Respondents].” App. 
+at 16. 
+
+
+In short, the settlement left Joanne in much the same 
+position she had been in since Vincent filed his Chapter 7 
+Bankruptcy petition in 1987. Vincent's personal obliga- 
+tion to Joanne may have been extinguished, but Joanne’s 
+right to collect from Vincent's Bankruptcy Estate on the 
+pre-existing debt remained. At the moment of Vincent's 
+filing, a Bankruptcy Estate was created comprised of all 
+of Vincent's property, “wherever located and by whom- 
+ever held... .” 11 U.S.C. § 541. A Trustee was then 
+appointed to “collect and reduce to money the property 
+of the estate.” 11 U.S.C. § 704. This money ultimately 
+
+
+would be distributed to those creditors who had filed 
+timely proofs of claim. 11 U.S.C. §§ 501, 726. Joanne’s 
+settlement with Vincent left her awaiting payment of her 
+pre-existing debt from the funds collected by the Trustee 
+belonging to the Bankruptcy Estate.' 
+
+
+3. Respondent Brown contends that because Joanne 
+and the Bankruptcy Estate have received settlement 
+funds from Vincent and from others in an amount that 
+may exceec the value of Joanne’s property settlement, hei 
+potential loss has been fully recovered and, thus, she has 
+suffered no concrete injury. Respondent Brown Answer- 
+ing Brief at 28-30. Consequently, Respondents argue, 
+Joanne is unable to maintain a RICO cause of action. 
+
+
+It is impossible at this point to determine whether the 
+two settlements referenced by Respondents cover Joa- 
+nne’s injury. As discussed supra, the settlement with Vin- 
+cent had two components: payment to Joanne for alimony 
+arrearages and a payment into the Bankruptcy Estate. The 
+adversary complaint against Vincent which was settled 
+included several state and federal causes of action and 
+requests for relief, including one for punitive damages 
+and one for costs. (JA 210, 216). The settlement with other 
+
+
+' Joanne’s non-alimony release of Vincent in the 1994 
+Settlement Agreement, far from rendering the RICO case moot, 
+may in fact represent the first incidence of the type of “concrete 
+financial loss” necessary to maintain the RICO action. 
+Imagineering, 976 F.2d at 1310. If Joanne can demonstrate in the 
+RICO action that Vincent's inability to pay her more than the 
+settlement amount was as a result of the Respondents’ 
+racketeering activity, then the accrual of her RICO cause of 
+action began at the earliest in 1994 at the time of the settlement. 
+
+
+defendants in the adversary complaint proceeding, refer- 
+enced in Respondent Brown's Brief at 29 but not placed 
+into the record, suffers from some of the same attributes: 
+some of the funds were paid to the Bankruptcy Estate 
+based on various causes of action and requests for relief. 
+
+
+The effect of either settlement on Joanne’s RICO 
+claim cannot at this point be determined. At this point it 
+is impossible to determine how much Joanne will receive 
+from Vincent's Bankruptcy Estate once the expenses of 
+the estate are paid, 11 U.S.C. § 330, and in conjunction 
+with distributions to any other creditors, 11 U.S.C. § 726. 
+
+
+Second, since Joanne’s RICO damages will be trebled 
+pursuant to 18 U.S.C. § 1964(c), any previously received 
+payments deemed to be compensatory, whether from 
+direct settlements or from the estate, will be subtracted 
+from the trebled amount. See, e.g., United States v. Born- 
+stein, 423 U.S. 303, 314 (1976); Flintkote Co. v. Lysfjord, 246 
+F.2d 368, 397 (9th Cir.), cert. denied, 355 U.S. 835 (1957). 
+Thus, Respondents’ argument that Joanne has at this 
+point been fully compensated for her RICO injury is 
+without merit. 
+
+
+Il. THE “INJURY AND PATTERN DISCOVERY” 
+ACCRUAL RULE IS REQUIRED BY THE CIVIL 
+RICO STATUTE AND BY GENERAL PRINCIPLES 
+OF ACCRUAL 
+
+
+Respondents and their amici cite numerous judicial 
+opinions discussing the purposes served by statutes of 
+limitations. Yet there is no dispute that RICO has a statute 
+of limitations and that the limitations period is four 
+
+
+years. See Agency Holding Corp. v. Malley-Duff & Associ- 
+ates, Inc., 483 U.S. 143 (1987). Rather, the issue before the 
+Court here is when does the statute of limitations period 
+begin to run. As to this accrual question, the Respon- 
+dents’ discussion of statutes of limitations adds nothing. 
+
+
+In their briefs, the Respondents completely ignore 
+the civil RICO statute itself because the language and 
+structure of the statute plainly argue for an accrual rule 
+where the limitations period does not begin to run until a 
+plaintiff knows or should have known both her injury and 
+that her injury was the result of a pattern of racketeering. 
+The Respondents also fail to discuss the accrual rules 
+adopted by this Court and the lower courts in federal 
+fraud and continuing violations cases, even though civil 
+RICO actions closely resemble these types of cases. 
+Respondents, instead, argue that this Court should be 
+guided by the antitrust rule for accrual. The accrual rule 
+developed under the Clayton Act is an anomaly unique to 
+antitrust law and does not even contain the “discovery” 
+requirement applied in all other federal statutes. Because 
+having the limitations period run upon discovery of 
+injury and a pattern of racketeering is the only rule 
+consistent with the RICO statute and the circumstances 
+faced by civil RICO plaintiffs, the decision of the court of 
+appeals should be reversed. 
+
+
+1. It is striking that Respondents and their amici do 
+not even attempt to address the language and structure of 
+RICO. The reason for this omission is clear: the language 
+and structure of the statute compel the “injury and pat- 
+tern discovery” rule. The crux of a civil RICO cause of 
+action is that a plaintiff must demonstrate a series of 
+
+
+predicate acts constituting a pattern of racketeering activ- 
+ity. “[T]he heart of any RICO complaint is the allegation 
+of a pattern of racketeering.” Agency Holding Corp., 483 
+U.S. at 154 (emphasis in original). The “pattern of rack- 
+eteering” concept was the new approach to fighting orga- 
+
+
+nized criminal activity which lies at the core of the RICO 
+statute. 
+
+
+Contrary to the concern about “stale claims” 
+expressed by Respondents, the RICO statute also pro- 
+vides that courts accept evidence relating to racketeering 
+activity that is up to ten years in the past. 18 U.S.C. 
+§ 1961(5) of the RICO statute defines a “pattern of rack- 
+eteering activity” as at least two predicate acts of rack- 
+eteering activity, “the last of which occurred within ten 
+years .. . after the commission of a prior act of racketeer- 
+ing.” Congress plainly believed that attacking criminal 
+activity took precedence over a defendant’s concern 
+about stale evidence. The restrictive “injury discovery” 
+accrual rule conflicts with Congress’ clear intent to allow 
+plaintiffs to introduce evidence relating to older remote 
+acts. “It would be inconsistent with this breadth of defini- 
+tion for us to state that we will look to the past ten years 
+to see if a civil RICO claim exists but if we find ten years 
+of racketeering activity, all related and all perpetrated by 
+the same defendants, we will provide a remedy only to 
+those who were victimized within the past four years.” 
+
+
+Keystone Ins. Co. v. Houghton, 863 F.2d 1125, 1132-33 (3d 
+Cir. 1988). 
+
+
+In enacting RICO, Congress also understood that the 
+criminal activity that the statute was attacking would be 
+difficult to root out. The statute, through its “enterprise” 
+
+
+10 
+
+
+element and other provisions, was aimed at the infiltra- 
+tion of legitimate businesses for criminal ends. See United 
+States v. Turkette, 452 U.S. 576, 591 (1981). For this reason, 
+the statute listed numerous fraud-related crimes as the 
+predicate acts constituting a pattern of racketeering? In 
+the typical RICO case, a plaintiff must uncover not one, 
+but at least two, underlying frauds which are part of a 
+pattern and which are being perpetrated by a seemingly 
+legitimate business or union. Given the difficulty inherent 
+in developing such a civil RICO claim, the “injury and 
+pattern discovery” rule is superior in that it provides a 
+less restrictive standard for victims of RICO schemes and 
+links the accrual of the action to discovery of the RICO 
+pattern. 
+
+
+2. Respondents and their amici also fail to explain 
+why the accrual rule for federal fraud cases is not the 
+most appropriate rule here. As noted above, most RICO 
+actions are based on fraud as the predicate acts. In addi- 
+tion, the prototypical RICO scheme is in essence a com- 
+plex fraudulent scheme whereby a legitimate business or 
+union enterprise is infiltrated and operated for illicit 
+ends. The federal fraud accrual rule therefore is highly 
+relevant to the civil RICO context. The federal fraud 
+accrual rule is not “injury discovery.” Rather, in federal 
+fraud cases, the limitations period commences only after 
+the plaintiff discovered or should have discovered the 
+fraud itself. See Holmberg v. Armbrecht, 327 U.S. 392, 397 
+
+
+2 See 18 U.S.C. § 664 (embezzlement from pension and 
+welfare funds); 18 U.S.C. §§ 891-894 (extortionate credit 
+transactions); 18 U.S.C. § 1341 (mail fraud); 18 U.S.C. § 1343 
+(wire fraud); 18 U.S.C. § 1954 (unlawful welfare fund 
+payments). 
+
+
+11 
+
+
+(1946) (and cases cited at Pet. Br. 31-32, 37)3 A compara- 
+ble rule would require that the limitations period begin to 
+run only after the civil RICO plaintiff had or should have 
+discovered the RICO violation, i.e., the pattern of predi- 
+cate acts constituting the RICO offense. 
+
+
+Respondents and their amici also never address this 
+Court's prior decision in Havens Realty Corp. v. Coleman, 
+455 U.S. 363 (1982). In Havens Realty, the Court ruled that 
+a pattern of “continuing violations” of the Fair Housing 
+Act should be treated differently than one discrete act of 
+discrimination. Id. at 380. As a result, the Havens Realty 
+Court and various courts of appeals have applied an 
+expansive view of accrual for such continuing violations. 
+See Pet. Br. 37-39. Because civil RICO with its pattern 
+requirement also is a “continuing violation” statute, see 
+H.J. Inc. v. Northwestern Bell Telephone Co., 492 U.S. 229, 
+240-42 (1989), the “injury and pattern discovery” rule is 
+similarly more appropriate than the restrictive rule 
+adopted by the court of appeals here. 
+
+
+3. Respondent: and their amici err in suggesting 
+that the civil RICO statute should be governed by the 
+accrual rule for cntitrust claims under the Clayton Act. 
+This argument for the Clayton Act accrual rule is 
+grounded on a flawed premise. According to this argu- 
+ment, “fundamental statute-of-limitations principles com- 
+pel adoption of the Clayton Act accrual rule, which 
+
+
+*“[T}he decided weight of authority is in favor of the 
+proposition that where the party injured by the fraud remains in 
+ignorance of it without any fault or want of diligence or care on 
+his part, the bar of the statute does not begin to run until the 
+fraud is discovered.” Bailey v. Glover, 88 U.S. 342, 348 (1874). 
+
+
+12 
+
+
+embodies no ‘discovery’ requirement.” Am. Honda Br. 2. 
+Yet, contrary to the contentions of Respondents and their 
+amici, see id. at 3-10, the fundamental principle adopted 
+by the federal courts in interpreting federal statutes is the 
+very “discovery rule” that the Clayton Act rejected. That 
+the “discovery” rule is the general rule for all federal 
+statutes is stated clearly in the same treatises from which 
+Respondents and their amici so selectively cite: 
+
+
+The general rule applicable to federal statutes of 
+limitations is that the limitations period begins 
+to run when the claimant discovers or in the 
+exercise of reasonable diligence should have dis- 
+covered the acts constituting the alleged viola- 
+tion. 
+
+
+54 C.J.S. Limitations of Actions § 87, at 125 (1987). See also 2 
+Calvin W. Corman, Limitation of Actions § 1.11.1, at 134 n.3 
+(1991); Pet. Br. 39 n.19. As a commentator heavily relied 
+on by amici (Am. Honda Br. 4-5) states about the use of 
+the discovery rule, 
+
+[t]his approach to the time of accrual of private 
+
+
+civil RICO actions . . . applies the general fed- 
+eral rule of accrual (that is, the discovery rule). 
+
+
+Corman, supra, § 6.5.5 at 449. Thus, even though the 
+Clayton Act's accrual rule lacks a discovery rule, “[e]very 
+court that has considered an accrual rule for civil RICO 
+has adopted some sort of discovery rule.” McCool v. Strata 
+Oil Co., 972 F.2d 1452, 1465 (7th Cir. 1992). 
+
+
+In addition, the Clayton Act accrual rule does not 
+require that the plaintiff have knowledge of the factual 
+predicate of his claim. See Pet. Br. 34-36 (discussing United 
+States v. Kubrick, 444 U.S. 111 (1979) and subsequent 
+lower court decisions requiring this knowledge). Nor 
+
+
+13 
+
+
+does the Clayton Act accrual rule require that the plaintiff 
+have knowledge of who inflicted the injury. Pet. Br. 36-37 
+(same). Accordingly, the restrictive Clayton Act accrual 
+rule is aberrant, conflicting with general federal accrual 
+principles. As such, it is an inappropriate model for the 
+civil RICO statute.* See also Granite Falls Bank v. Henrikson, 
+924 F.2d 150, 152-53 (8th Cir. 1991). 
+
+
+4. Respondents and their amici also promise that 
+the anomalous and indefensible outcomes arising under 
+an “injury discovery” rule can be prevented by assorted 
+tolling principles. According to this view, courts will 
+intervene to avoid bad results through some conglomera- 
+tion of equitable tolling, fraudulent concealment, separate 
+accrual and other doctrines. However, there is little 
+agreement among the lower courts as to how and when 
+these doctrines are to be applied.® To relegate the parties 
+
+
+* Respondents and their amici point to Agency Holding 
+Corp., where the Court looked to the Clayton Act's four year 
+statute of limitations for the civil RICO limitations period. 
+However, respondents have put forward no explanations as to 
+why the Clayton Act accrual rules also must be borrowed. In 
+fact, the Agency Holding Court plainly concluded that the 
+limitations period and the accrual rule were not integrally tied 
+together when it expressly declined to reach the accrual issue. In 
+Agency Holding, the Court chose between the multiple state 
+statute of limitations and the Clayton Act’s four-year limitations 
+period and ruled that a uniform four-year period was fair and 
+reasonable. Here, the Clayton Act accrual rule is unduly 
+restrictive and contrary to general federal accrual principles. 
+
+
+* See, e.g., McCool v. Strata Oil, 972 F.2d at 1465 (noting that 
+only some of the courts of appeals apply the “separate accrual” 
+rule to civil RICO claims and declining to decide whether some 
+form of equitable tolling “delay[s] the running of the RICO 
+limitations period while a victim diligently investigates the 
+
+
+14 
+
+
+and courts in civil RICO lawsuits to these vague doctrines 
+is fundamentally unfair and a recipe for disaster. More- 
+over, reliance on these various tolling and other doctrines 
+as a primary means of resolving accrual issues defeats the 
+very. goal of uniformity and predictability which this 
+Court sought to achieve in Agency Holding, 483 U.S. at 
+154. 
+
+
+5. Finally, Respondents and their amici maintain 
+that the “injury and pattern discovery” rule should be 
+rejected because it would allow a plaintiff “to slumber on 
+his rights without investigating whether the defendant 
+has committed a pattern of racketeering activity.” 
+Respondent Beckley, Singleton Brief at 13. This argument 
+misconstrues the rule advocated by Petitioners. Under 
+the “injury and pattern discovery” rule, the action begins 
+to accrue “as soon as the plaintiff discovers, or reasonably 
+should have discovered, both the existence and source of his 
+injury and that the injury is part of a pattern.” Association 
+of Commonwealth Claimants v. Moylan, 71 F.3d 1398, 1402 
+(8th Cir. 1995) (emphasis added). Therefore, if a civil 
+RICO plaintiff sits on her rights or is otherwise less than 
+diligent in investigating and bringing her action, the 
+courts will dismiss the action on limitations grounds 
+since the injury and pattern “reasonably should have 
+been discovered” with the statutory period. See, e.g., Agri- 
+stor Financial Corp. v. Van Sickle, 967 F.2d 233, 240-42 (6th 
+
+
+possible existence and extent of a pattern of racketeering”); 
+Rodriguez v. Banco Central, 917 F.2d 664, 667 (Ist Cir. 1990) 
+(declining to resolve applicability of tolling rules to civil RICO 
+accrual); Bankers Trust, 859 F.2d at 1104 (stating, without 
+explanation, that “the standard tolling exceptions apply”). 
+
+
+15 
+
+
+Cir. 1992) (dismissing civil RICO action because plaintiff 
+should have discovered injury and pattern within statu- 
+tory period); Caproni v. Prudential Securities, Inc., 15 F.3d 
+614, 619-20 (6th Cir. 1994) (same); Klehr v. A.O. Smith 
+Corp., 87 F.3d 231, 238-39 (8th Cir. 1996) (same); Schrag v. 
+Dinges, 150 F.R.D. 664, 679 (D. Kan. 1994), aff'd, 73 F.3d 
+374 (10th Cir. 1995) (same). 
+
+
+In the instant case, it is clear that Petitioners were not 
+slumbering on their rights. Joanne Siragusa aggressively 
+pursued Vincent Siragusa for the monies rightfully due 
+her, bringing numerous actions in state court and in the 
+federal bankruptcy court. However, despite all of her 
+efforts, not until December 1990 did Joanne Siragusa first 
+learn that Dr. Heeren also had been the victim of various 
+related fraudulent reorganizations and that attorney 
+Patricia Brown had been a principal architect of these 
+unlawful schemes. Joanne Siragusa filed her civil RICO 
+lawsuit within four years of learning that hers was not an 
+isolated case but instead was part of a pattern of rack- 
+eteering activity engaged in by Patricia Brown and 
+others. It would be grossly unfair, as well as contrary to 
+the language, structure and policies of the civil RICO 
+statute, to apply the restrictive accrual rule of the court 
+below. Instead, this Court should adopt the “injury and 
+pattern discovery” accrual rule which would allow 
+Joanne Siragusa to obtain redress for her injuries and 
+which would prevent Respondent's conduct from going 
+unpunished. 
+
+
+16 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons and those stated in our 
+opening brief, the judgment of the court of appeals 
+
+
+should be reversed. 
+
+
+Respectfully submitted, 
+
+
+Erven T. Neison 
+
+ALVERSON, TAYLOR, 
+Mortensen & NELSON 
+
+3821 West Charleston Blvd. 
+
+Las Vegas, Nevada 89102 
+
+(702) 384-7000 
+
+
+RANDALL M. Rumpx 
+Barry SHINEHOUSE 
+
+Rumpex & Peyton 
+
+302 East Carson Avenue 
+Las Vegas, Nevada 89101 
+(702) 388-4466 
+
+
+Davip B. SmitH 
+
+ENGusH & SMITH 
+
+526 King Street, Suite 213 
+Alexandria, Virginia 22314 
+(703) 548-8911 
+
+
+RicHarp A. SAuBeErR* 
+MicHaet L. WALDMAN 
+JONATHAN S. ARONIE 
+Daviv B. Wiseman 
+Friep, Frank, Harris, 
+
+Suriver & JACOBSON 
+1001 Pennsylvania 
+
+Avenue, N.W. 
+Suite 900 
+Washington, DC 20004-2505 
+(202) 639-7000 
+
+
+* Counsel of Record 
+
+

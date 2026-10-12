@@ -1,0 +1,189 @@
+
+
+
+ 
+  
+  
+  
+
+	
+	
+	
+	
+    
+    
+    
+    
+    
+    
+    
+    Walters v. Metropolitan Educational Enterprises, Inc., 519 U.S. 202 (1997).
+ 
+ 
+
+    
+    
+	
+		
+			
+LII
+			 
+			
+Supreme Court		 
+		
+	
+
+
+ 
+
+
+
+Walters v. Metropolitan Educational Enterprises, Inc. (95-259), 519 U.S. 202 (1997).
+
+Syllabus 
+  Opinion 
+ [ Scalia ]
+HTML version
+WordPerfect versionHTML version
+WordPerfect version
+
+ 
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See United States v. Detroit Timber & Lumber
+ Co., 200
+ U.S. 321, 337.
+ 
+ 
+
+SUPREME COURT OF THE UNITED STATES
+ 
+ 
+
+Syllabus
+
+WALTERS v. METROPOLITAN
+ EDUCATIONAL ENTERPRISES, INC., et al.
+ 
+ 
+
+certiorari to the united states
+ court of appeals for the seventh circuit
+ 
+ 
+
+No. 95-259.
+ Argued November 6, 1996 -- Decided
+ January 14, 1997
+ 
+ 
+
+[n.*]
+ 
+ 
+
+
+ 
+ 
+
+In 1990, petitioner Walters was fired by respondent Metropolitan Educational
+ Enterprises, Inc., soon after she filed an employment discrimination charge
+ against it under Title VII of the Civil Rights Act of 1964. Petitioner
+ Equal Employment Opportunity Commission (EEOC) sued Metropolitan, alleging
+ that the firing violated Title VII's antiretaliation provision. After Walters
+ intervened, Metropolitan filed a motion to dismiss for lack of subject
+ matter jurisdiction, claiming that it was not an "employer" covered by
+ Title VII because, at the time of the alleged retaliation, it was not "a
+ person . . . who has fifteen or more employees for each working day in
+ each of twenty or more calendar weeks in the current or preceding calendar
+ year." 42 U.S.C.
+ § 2000e(b). The parties have stipulated that Metropolitan failed
+ to satisfy the 15 employee threshold in 1989; that, during most of 1990,
+ it had between 15 and 17 employees on its payroll on each working day;
+ and that, during 1990, there were only nine weeks in which it was actually
+ compensating 15 or more employees on each working day. The District Court
+ dismissed the case, relying on Circuit precedent to the effect that employees
+ may be counted for §2000e(b) purposes only on days on which they actually
+ performed work or were being compensated despite their absence. The Seventh
+ Circuit affirmed.
+ 
+ 
+
+Held: The ultimate touchstone
+ under §2000e(b) is whether an employer has employment relationships
+ with 15 or more individuals for each working day in 20 or more weeks during
+ the year in question. Pp. 3-10.
+ 
+ 
+
+(a) The "payroll method"--which
+ looks to whether the employer has an employment relationship with the employee
+ on the day in question, as is most readily demonstrated by the individual's
+ appearance on the employer's payroll--represents the fair reading of the
+ statutory language. That method embodies the ordinary, contemporary, common
+ meaning of "has [an] employe[e]." While the phrase "for each working day"
+ suggests the possibility of a test based on whether an employee is actually
+ at work on a given day, such a test would be impossible to administer and
+ reflects an improbable reading of the statute. The method advocated by
+ Metropolitan, which focuses on whether an employer is compensating the
+ employee on the day in question, is not a plausible reading of the statutory
+ criterion of whether the employer "has" the employee. Pp. 3-6.
+ 
+ 
+
+(b) The payroll approach does not render superfluous the statutory
+ qualification "for each working day." Without this phrase, one would not
+ be sure whether to count part week employees toward the statutory minimum.
+ Nor is it dispositive that the payroll method produces some strange consequences
+ with regard to Title VII's coverage, since Metropolitan's approach produces
+ unique peculiarities of its own. The latter approach would also turn the
+ coverage determination into an incredibly complex and expensive factual
+ inquiry, whereas, under the payroll method, all one needs to know about
+ a given employee for a given year is whether he started or ended employment
+ during that year and, if so, when. He is counted as an employee for each
+ working day after arrival and before departure. Pp. 6-9.
+ 
+ 
+
+(c) Under the payroll method, Metropolitan was an "employer" for
+ purposes of petitioners' retaliatory discharge claim. P. 10.
+ 
+ 
+
+60 F. 3d 1225,
+ reversed and remanded.
+ 
+ 
+
+Scalia, J., delivered the opinion
+ for a unanimous Court. 
+ 
+ 
+Notes 
+* Together
+ with No. 95 779, Equal Employment Opportunity Commission v. Metropolitan
+ Educational Enterprises, Inc., et al., also on certiorari to the same
+ court.
+ 
+ 
+
+
+ 
+ 
+
+
+ 
+
+

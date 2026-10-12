@@ -1,0 +1,129 @@
+Christian J. Gros, San Antonio, TX, Joseph R. Messa, for appellant.
+
+Thomas A. Spieczny, El Paso, TX, for appellee.
+
+Appeal from the  L41: 
+Before JONES and DeMOSS, Circuit Judges, and SHAW , District Judge.
+
+EDITH H. JONES, Circuit Judge:
+
+ L47: The principal issue in this case is whether a jury verdict for the plaintiff in a Title VII sexual harassment case may be supported only by evidence of a few written jibes, at women police officers generally and the plaintiff in particular, published in the police association newsletter. We hold that such evidence, rife as it is with  overtones, will not suffice and so reverse the judgment.
+
+BACKGROUND
+
+ L52: After six years on duty with the El Paso Police Department as a patrol officer and detective, Sylvia DeAngelis became the first female sergeant in October, 1987. Within a few months of promotion, she was satirized by an anonymous writer in The Silver Badge, a newsletter of the El Paso Municipal Police Officers Association (the Association), an organization similar to a police officers union. The author's nom de plume was R.U. Withmi.
+He wrote as a patrol officer with nearly 20 years' experience "combatin' crime." His monthly column criticized, in an irreverent and colloquial manner, groups including superior officers, "rear echelon" officers ("REMF's"), bureaucrats, and "weenie boys." R.U. Withmi lashed out at changing times in the police department while longing for the good old days. The incursion of females into the department, a quintessential element of modernization, did not escape his sharp pen.
+ L55: 
+This lawsuit arises from several of his columns, published between November 1987 and February 1990, that derogatorily referred to policewomen. About a thousand copies of The Silver Badge were printed monthly and distributed at a minimum to 700 police officer members of the Association.
+
+ L59: Publication of the columns angered more than two dozen female police officers, who asked the police chief and officers of the Association to stifle R.U. Withmi. The police chief, despite his discomfiture, had no direct authority over the Association, and the Association, after a vote of the membership in early 1990, rejected their leaders' advice to require that R.U. Withmi unmask himself.
+
+ L62: Peculiarly, although specifically offered the opportunity, none of the policewomen ever chose to write a response to R.U. Withmi for The Silver Badge. The record mentions no boycott of the Association or its newsletter, no challenge to the officers' election. Sergeant DeAngelis' Title VII claims are before this court.DISCUSSION
+
+ L65: DeAngelis secured jury findings that (1) R.U. Withmi's articles subjected her to harassment, creating a hostile and sexually abusive working environment, and (2) a reference in one of the columns to her "E-I-E-I-O" [ ] complaint amounted to retaliation for exercise of her Title VII rights. The jury awarded Sergeant DeAngelis $10,000 in compensatory damages and $50,000 punitive damages. L66: 
+ L68: The Association has appealed on several grounds, the most compelling of which are sufficiency of evidence of liability and the assertion that, if this verdict is upheld, the  free speech rights of R.U. Withmi have been abridged. These issues must be discussed together.
+
+ L71: In reviewing a jury verdict, we abide by the standard set forth in  ,  (5th Cir.1969) (en banc). We consider the evidence in the light most favorable to the party defending the verdict, and we will reverse only when reasonable minds in the exercise of impartial judgment could not have arrived at that verdict.  ,  (5th Cir.1995).
+
+ L74: To establish an actionable claim of sexual harassment in the workplace, a plaintiff must demonstrate:
+
+ L77: 
+(1) That she belongs to protected class; (2) that she was subject to unwelcome sexual harassment; (3) that the harassment was based on sex; (4) that the harassment affected a "term, condition or privilege of employment"; and (5) that the employer either knew or should have known of the harassment and failed to take prompt remedial action.
+
+ L81: See  ,  -20 (5th Cir.1986), cert. denied,  ,  ,  (1987). The Supreme Court recently affirmed that sexually discriminatory verbal intimidation, ridicule and insults may be sufficiently severe or pervasive to alter the conditions of the victim's employment and create an abusive working environment that violates Title VII.  , cite40†114 S.Ct.
+367, 370 -71,  (1993) (citing  ,  ,  ,  (1986)).
+ L84: 
+ ,  (5th Cir.1993).
+
+ L88: A claim for a sexually hostile working environment is not a trivial matter. Its purpose is to level the playing field for women who work by preventing others from impairing their ability to compete on an equal basis with men. One must always bear this ultimate goal in mind. A hostile environment claim embodies a series of criteria that express extremely insensitive conduct against women, conduct so egregious as to alter the conditions of employment and destroy their equal opportunity in the workplace.
+Any lesser standard of liability, couched in terms of conduct that sporadically wounds or offends but does not hinder a female employee's performance, would not serve the goal of equality. In fact, a less onerous standard of liability would attempt to insulate women from everyday insults as if they remained models of Victorian reticence.
+A lesser standard of liability would mandate not equality but preference for women: it would create incentives for employers to bend over backwards in women's favor for fear of lawsuits. Now that most American women are working outside the home, in a broad range of occupations and with ever-increasing responsibility, it seems perverse to claim that they need the protection of a preferential standard.
+The careful, heightened phrasing of a hostile environment claim, enforceable where working conditions have palpably deteriorated because of sexually hostile conduct, aims to enforce equality, not preference.
+ L93: To test whether Sergeant DeAngelis' evidence satisfied the standard of liability, we return to the separate criteria for a hostile environment claim: (1) Sexually discriminatory intimidation, ridicule and insults, which are (2) sufficiently severe or pervasive that they (3) alter the conditions of employment and (4) create an abusive working environment. Harris, --- U.S. at ----,  (citing  ,  ,  ,  (1986)).
+Harris added:
+ L96: 
+Conduct that is not severe or pervasive enough to create an objectively hostile or abusive work environment--an environment that a reasonable person would find hostile or abusive--is beyond Title VII's purview.
+
+ L100: 
+ In determining whether a working environment is "hostile" or "abusive", all the circumstances must be considered, including
+
+ L104: the frequency of the discriminatory conduct; its severity; whether it is physically threatening or humiliating, or a mere offensive utterance; and whether it unreasonably interferes with an employee's work performance.
+
+ L107: 
+ at ----,  . The test is an objective one, not a standard of offense to a "reasonable woman." See Harris, --- U.S. at ----,  .
+
+ L111: Lacking any other evidence of sexual discrimination or harassment, DeAngelis stakes her case on R.U. Withmi's columns and their effects. We will summarize each column that was offered at trial as critical of Sergeant DeAngelis or women police officers in general. Each column bore this disclaimer:
+
+ L114: R.U. Withmi is a senior level patrol officer whose article appears monthly. It does not represent the official position of the EPMPOA [the Association] but presents a humorous satirical view by the author. Written comments to the editor are welcome.
+
+ L117: 
+One must infer that because the R.U. Withmi column appeared monthly in The Silver Badge, and the challenged articles appeared over a course of 30 months, none of the twenty articles not offered in evidence at the trial court was hostile to women.
+ L120: 1. December 1987--Well-low and BE-hold!!, the Holiday Season is here! It seems like just the other day we got a new Chief and them 87 low bid police cars had just arrived. As the new year fast approaches these here parts and we all git just a little older, I has begun to get a lil' nostalgic in my old age a remeberin' when things was a little different.
+It is my opinion that we here are in a new age of patrolmen, patrolwoman, defectowoman, sergeant dingy woman and now thanks to the appeal process, patrol other! I just think a people are changing and we are getting a new generation of patrolmen in as few as five years! I remember the good ol' days when finding the criminal was more important to the patrolmen then keeping your hair in place! I wonder how far back you remember? I remember these things, let's see if you do ... Remember when? ...
+Do you remember when there were no women workin' the streets? (Ah yes, those were the good days! ... Sorry gals, truth hurts!) ...
+ L124: 
+2. February 1988--I never thought I would make the newspaper El Paso Rag, an E-I-E-I-O complaint or be blasted out of my socks by our Presidente himself!
+
+ L128: 
+3. March 1988-- ... only REAL MEN wear them ole wool pants! You don't see any of the "jefes" with a bottle of hair spray on their Sam Browns! ... And I don't EVEN want to start up against the "girls" so my Commandante Presidente don't get "scared" again with his poison pen!
+
+ L132: 4. August 1988--I was surprised to think they were also training some good lookin' K-9s up there but I was told those were the female recruits! I swear!, complete with collars! Oh well, my mistake!
+
+ L135: 5. October 1988--I understand I done rustled the feathers of a few Female Recruit Officers and their "Daddys" up there on the "HILL." Well, ole' RU's a so sorry because I sometimes get carried away with tellin' things they way it is. Don't worry, I think I was wrong because the public will treat you with all the "respect" you deserve IF you get out there, and they will never call you names other than "officer." And wherever you answer the call, you will always get the cooperation you deserve.
+And no one will call you names to your face. So, life will be a bowl of cherries on the streets and everythin' you've been told is the truth ...
+ L138: 
+6. January 1989-- ... now the patrol stations have to pull out a FULL DUTY policeMAN from the field to do the desk work! ... I just want a car that works, and a supervisor with some sense ... and a female officer that places her ability before her gender and IA out of my way!
+
+ L142: 7. February 1989-- ... with just one whack of the pluma we had musical supervisors all over the City.... Chances are purty darn good that we all probably know who the real problem was. But no names these days because of them  Fed boys!
+
+ L145: 
+8. July 1989--Anyway, fly that flag, be glad yore American, have a job, are male, and workin' patrol.
+
+ L149: 9. February 1990--We had a hell-uva BS session at shift meeting (a place REMF's know nuthin' about!) regarding women in combat.... Physically, the police broads just don't got it! Different standards or not, on the real streets the crooks don't fight women different than men! Why shoot, a guy weighing 140 pounds is just a lil' bird to me, but a fit to fight police broad of 140 pounds ain't just around that often! Someone tell me I'm wrong! L150: 
+ L152: 10. April 1990--My academy Joe weenie partner dun informed me that this here bits o truth I writes each months just plain gots alotta folks supportin' it!
+
+ L155: Sergeant DeAngelis acknowledged that only the first column directly referred to her--as Sergeant "dingy woman," evidently a shorthand expression for "dingbat." She asserts that the column concerning her "E-I-E-I-O complaint" ridiculed her as well as  . Another column singled her out as one of the few officers to carry a flashlight on her belt in the daytime.
+And she believes that the reference to musical supervisors in the February 1989 column implied that her troubles caused a shift around the police department. All of the other columns, DeAngelis conceded, refer to women in general, as was brought home to the police department and the Association by the uproar of many female police officers at their appearance.
+ L158: Whether the four columns that refer to DeAngelis, taken alone or in conjunction with the other six columns appearing at irregular intervals in two and a half years, amounted to severe or pervasive sexually discriminatory intimidation, ridicule or insults depends in part upon their context. The R.U. Withmi column did not represent a boss's demeaning harangue, or a sexually charged invitation, or a campaign of vulgarity perpetrated by co-workers: the column attempted clumsy, earthy humor. R.U.
+Withmi intended to be a curmudgeon, the police department's Archie Bunker or Homer Simpson, who eyed with suspicion all authority figures, academy-trained officers, police dispatchers, newfangled procedures and gear--whatever had changed from the old days. Misogyny naturally came with R.U.'s territory, although, against the backdrop of his other barbs, it can hardly be called an obsession.
+In any event, much of his humor lacked volatility: his reference to a police officer as a "policeMAN" or his exhortation to "be glad you're male ...", for instance, hardly rank in the firmament of sexist vilification.
+ L162: On occasion, the column was forced to acknowledge criticism and apologize in its way to its victims such as the dispatchers, female recruits, and the " 'Daddys' up there on the Hill." The column's severest attack on women--which compared police work to R.U.'s combat experiences in Viet Nam--may be read to include self-criticism: it notes that a hush fell over the room when this subject was discussed. That column did not refer to DeAngelis. R.U. Withmi columns ceased being published sometime during 1990.
+ L164: We conclude that these columns are the equivalent of the "mere utterance of an ... epithet which engenders offensive feelings in an employee." Meritor Savings,  ,  . Consequently, they were not severe or pervasive enough to create an objectively hostile or abusive work environment. Harris, --- U.S. at ----,  .
+Four printed derogatory references to Sergeant DeAngelis at irregular intervals in two and a half years do not evince sufficient hostility toward her as a matter of law.
+ L167: Our conclusion is fortified by DeAngelis' extremely weak evidence of the impact of those articles. She testified that on two specific occasions following the publication of the first article, junior officers behaved insubordinately to her. On both occasions, her reprimands against the subordinates were upheld. She surmised that these supervision problems, as well as other incidents of disrespect for her authority, were inspired by the R.U. Withmi columns.
+She testified subjectively that the appearance of the articles caused her great humiliation, destroyed her self-confidence, deterred her from applying for a promotion to lieutenant, and caused her to be the brunt of "dingy woman" comments. There was no other testimony supporting DeAngelis' belief that the articles impaired her performance. Her performance ratings remained good. When she complained to the police chief and others in command, they responded supportively.
+They, as well as the board of the Association, tried to suppress the R.U. Withmi column, or discontinue its anonymity. The Association-President Breitinger wrote a letter to The Silver Badge defending the female officers.
+ L171: Further, judged by the "totality of the circumstances" set out in Harris, this case is hardly as compelling as many reported Title VII sexually hostile environment claims. First, DeAngelis was subjected to no overtly discriminatory professional treatment. She was not a victim of ridicule before her promotion to become the first woman sergeant in the police department. See Harris, --- U.S. at ----,  ; cite75†Andrews v.
+City of Philadelphia ,  (3d Cir.1990) (derogatory and sexual remarks and conduct against female police officer). Second, no physical or sexual advances were made on DeAngelis, as has been characteristic of many hostile environment claims. See, e.g.,  ,  (5th Cir.1989) (female employee was repeatedly sexually groped and propositioned); cite78†Carr v. Allison Gas Turbine Div. Gen.
+Motors ,  (7th Cir.1994) (co-workers of female tinsmith cut her overalls and accompanied exposure of themselves with lewd sexual innuendos);  ,  (E.D.Okla.1985) (female police officer subjected to lewd and vulgar sexual comments and innuendos, and discriminatory employment action). Third, DeAngelis was not preyed upon by a superior whose actions could be interpreted as an abuse of power against a subordinate employee. Harris, --- U.S.
+at ----,  ;  ,  (5th Cir.1986), cert. denied,  ,  ,  (1987). She was herself in a command position. Fourth, apart from the claimed impact of the articles, there is no evidence of an atmosphere of sexual inequality or sexually demeaning treatment within the El Paso Police Department, her employer.
+On the contrary, representatives of the police department testified that they were embarrassed about and exhorted against the R.U. Withmi columns. Chief Scagno twice distributed memoranda throughout the police department condemning the R.U. Withmi columns. L176:  L177: Because we have concluded that insufficient evidence supports DeAngelis' claim of a sexually harassing work environment, we do not reach the difficult question whether Title VII may be violated by expressions of opinion published in the R.U. Withmi columns in the Association's newsletter. Where pure expression is involved, Title VII steers into the territory of the  .
+It is no use to deny or minimize this problem because, when Title VII is applied to sexual harassment claims founded solely on verbal insults, pictorial or literary matter, the statute imposes content-based, viewpoint-discriminatory restrictions on speech. See Eugene Volokh, Freedom of Speech and Workplace Harassment, 39 U.C.L.A.L.Rev. 1791 (1992); Kingsley R. Browne, Title VII as Censorship: Hostile Environment Harassment and the  , 52 Ohio St.L.J. 481 (1991).
+Whether such applications of Title VII are necessarily unconstitutional has not yet been fully explored. But see  ,  (M.D.Fla.1991). The Supreme Court's offhand pronouncements are unilluminating. L180:  L181: Matching the infirmity of appellee's hostile sexual environment verdict is the retaliation finding, supported only by R.U. Withmi's reference to an "E-I-E-I-O" complaint and a report on her  complaint among the Association minutes routinely published in The Silver Badge. DeAngelis also asserts as proof of "retaliation" an article in The Silver Badge that reported the Association's intention to sue her for damages if her lawsuit against the Union proved groundless.
+A retaliation claim requires, in addition to proof of the plaintiff's protected activity, an adverse employment action, and a causal connection between the adverse action and the protected activity.  v. J.M. Huber Corp.,  (5th Cir.1991). No matter how vehemently DeAngelis denounces these articles, they did not amount to an "adverse employment action" under any reasonable meaning of that term. The jury verdict lacks foundation.
+CONCLUSION
+
+ L186: Title VII cannot remedy every tasteless joke or groundless rumor that confronts women in the workplace. For DeAngelis, the price of success as the police department's first woman sergeant included transitory ribbing by R.U. Withmi. The newsletter columns, however, were not so frequent, pervasive or pointedly insulting to DeAngelis as to create an objectively hostile working environment.
+The totality of circumstances do not prove that her working conditions were disadvantaged because she was mentioned in four R.U. Withmi columns. Likewise, three printed references to her  complaint do not constitute retaliation under Title VII. L188:  L189: 
+The judgment of the district court is therefore REVERSED and RENDERED for the Association.
+
+ L193: 
+Chief Judge of the Western District of Louisiana, sitting by designation
+
+ L197: 
+We reject the Association's assertion that it is not a labor organization subject to Title VII.  L199: 
+ L201: Except perhaps a brief anonymous editorial from "I.N. Wifya" which expressed disgust and disagreement with R.U. Withmi on a variety of issues including remarks about the attractiveness of the new female recruits
+
+ L204: Although the events that gave rise to this case predate the  , which first permitted award of compensatory and punitive damages in Title VII claims, the Association as appellant has never asserted the non-retroactivity of those provisions. But see  , cite95†114 S.Ct.
+1483, 1508 ,  (1994) (holding that provisions of the  creating a right to recover compensatory and punitive damages under Title VII do not apply to cases pending on appeal when statute was enacted)
+ L207: 
+This column spawned the class action lawsuit in state court by 22 women police
+
+ L211: After unsuccessfully attempting to publish a letter in The Silver Badge condemning the columns, Chief Scagno distributed his letter to all personnel. Chief Scagno wrote, "I feel all these attacks have been totally one-sided, and in some cases chauvinistic, and racist.... Basically, in regards to the column by R.U.
+Withmi, instead of bringing important things to light for officers as an article such as this should, the column has become derisive and nothing more than a public platform for the author's personal opinions and prejudices."
+ L214: 
+We do not mean that sexual propositions, quid pro quo overtures, discriminatory employment actions against women or " " involve the  L216: 
+ L218: The Court's pronouncement in R.A.V., that "sexually derogatory 'fighting words,' among other words, may produce a violation of Title VII's general prohibition against sexual discrimination in employment practices" does not mean that Title VII trumps  speech rights. Rather, as the next sentence in R.A.V. explains, conduct not targeted on the basis of its expressive content may be regulated. R.A.V. v. City of St. Paul, Minnesota, --- U.S. ----, ---- - ----, cite101†112 S.Ct.
+2538, 2546 -47,  (1992). Citing R.A.V., the Court in  ,  ,  (1993) reiterated that conduct not targeted on the basis of its expressive content may be regulated by Title VII. However, application of Title VII to the "conduct" in the case sub judice would do precisely that--regulate speech on the basis of its expressive content
+ L221: 
+Because we reverse the underlying findings of liability, we also vacate the award of punitive damages

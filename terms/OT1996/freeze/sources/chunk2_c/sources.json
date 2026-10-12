@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Atherton_lower",
+    "url": "https://openjurist.org/57/f3d/1231",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "name": "Grimmett_lower",
+    "url": "https://openjurist.org/75/f3d/506",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "name": "Abebe_Jira_lower",
+    "url": "https://openjurist.org/72/f3d/844/abebe-jira-v-negewo",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "name": "Ammann",
+    "url": "https://openjurist.org/828/f2d/4",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "name": "ATS_1994",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title28/html/USCODE-1994-title28-partIV-chap85-sec1350.htm",
+    "bytes": 44172,
+    "status": "saved"
+  },
+  {
+    "name": "FDIC_1994",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title12/html/USCODE-1994-title12-chap16-sec1821.htm",
+    "bytes": 232284,
+    "status": "saved"
+  },
+  {
+    "name": "RICO_1994",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title18/html/USCODE-1994-title18-partI-chap96-sec1964.htm",
+    "bytes": 4318,
+    "status": "saved"
+  }
+]

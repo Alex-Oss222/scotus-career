@@ -1,0 +1,1251 @@
+Supreme Court, U.S. 
+7) FILED | 
+atl 
+AUG RO 1996 : 
+No. 95-928 
+T : 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+OCTOBER TERM, 1995 
+
+
+JOHN W. ATHERTON, JR.., 
+Petitioner, 
+
+
+V. 
+
+
+FEDERAL DEPOSIT INSURANCE CORPORATION, 
+AS RECEIVER FOR CITY SAVINGS, F.S.B., 
+
+
+Respondent. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Third Circuit 
+
+
+REPLY BRIEF FOR PETITIONER 
+
+
+RONALD W. STEVENS" 
+GILBERT C. MILLER 
+BRUCE H. NIELSON 
+
+
+KIRKPATRICK & LOCKHART Lip 
+1800 Massachusetts Avenue, N.W. 
+Washington, D.C. 20036 
+
+(202) 778-9000 
+
+
+*Counsel of Record 
+
+
+August 30, 1996 
+
+
+TABLE OF CONTENTS 
+PAGE 
+Tees CS FAERIE 9 ccc tiowenccvccces ii 
+SUMMARY OF ARGUMENT ...............55:. 1 
+pe FPL ERLE ELIE LLL 2 
+
+
+Il. 
+
+
+Ill. 
+
+
+PETITIONER HAS ADEQUATELY RAISED 
+THE ISSUE OF THE APPLICABILITY OF 
+FEDERAL COMMON LAW ..............5.. 2 
+
+
+FEDERAL COMMON LAW SHOULD NOT 
+APPLY MERELY BECAUSE CITY FEDERAL 
+WAS FEDERALLY CHARTERED ........... 3 
+
+
+THE GROSS NEGLIGENCE STANDARD OF 
+
+§ 1821(k) DISPLACES ANY PRE-EXISTING 
+FEDERAL COMMON LAW SIMPLE 
+
+NEGLIGENCE STANDARD ............... 16 
+
+
+GP Ses cbs eek eessceecepeecevenses 20 
+
+
+ii 
+TABLE OF AUTHORITIES 
+
+
+CASES 
+AmeriFirst Bank v. Bomar, 757 F. Supp. 1365 
+hh MED 6560 obo es seee.00 pencese 
+
+
+Anderson Nat'l Bank v. Luckett, 321 U.S. 233 
+DE REGRGEECE COG ROS COKE Soe resecoe 
+
+
+Austin v. Altman, 332 F.2d 273 (2d Cir. 1964)... 
+
+
+Bank of Am. Nat'l Trust & Sav. Ass'n v. Ryan, 
+207 Cal. App. 2d 698, 24 Cal. Rptr. 739 (1962) 
+
+
+Borgsmiller v. Burroughs, 187 lll. App. 3d 1, 542 
+N.E.2d 1281 (1989), appeal denied, 128 Ill. 2d 
+661, 548 N.E.2d 1066 (1990) ............. 
+
+
+Boyle v. United Technologies Corp., 487 U.S. 500 
+DG ch. eee h aah eee aenee seces + 
+
+
+Burks v. Lasker, 441 U.S. 471 (1979) ......... 
+Caspari v. Bohlen, 114 S. Ct. 948 (1994) ...... 
+
+
+Clearfield Trust Co. v. United States, 318 U.S. 363 
+Torr Teen e rT ETE eee 
+
+
+Country Nat'l Bank v. Mayer, 788 F. Supp. 1136 
+Pe eh cc eee bb ese benee sees 
+
+
+Curiale v. Reissman, 798 F. Supp. 141 (S.D.N.Y. 
+EET ST ET eee CEE REE ETE 
+
+
+Cuyler v. Sullivan, 446 U.S. 335 (1980) ....... 
+
+
+Department of Rev. v. ACF Indus., Inc., 114 S. 
+DP cc cbeeneadekbveeeccec : 
+
+
+Erie R. Co. v. Tompkins, 304 U.S. 64 (1938).... 
+
+
+FDIC y. Abel, 92 Civ. 9175 (JFK), 1995 U.S. 
+Dist. LEXIS 18159 (S.D.N.Y. Dec. 5, 1995). . . 
+
+
+FDIC v. Bates, 42 F.3d 369 (6th Cir. 1994)... .. 
+
+
+FDIC v. Raffa, 882 F. Supp. 1236 (D. Conn. 
+DCC eh tthe Sasebs secre vedvonces 
+
+
+FDIC vy. Stahl, 89 F.3d 1510 (11th Cir. 1996) ... 
+
+
+PAGE 
+
+
+14 
+
+
+14, 16 
+1, 14, 19 
+
+
+CASES 
+Fidelity Fed. Sav. & Loan Ass'n v. de la Cuesta, 
+DC sccceeeeebecees sec 
+
+
+First Nat'l Bank y. Hall, 143 Ga. App. 300, 238 
+i eg eae 
+
+
+First Nat'l Bank v. Missouri, 263 U.S. 640 (1924) 
+Herrmann v. Edwards, 238 U.S. 107 (1915) .... 
+Howard v. Lyons, 360 U.S. 593 (1959)........ 
+
+
+"san Sec. Litig., 654 F. Supp. 1449 (D.N.J. 
+
+
+Kamen v. Kemper Fin. Servs., Inc., 500 U.S. 90 
+Di htemmessetsenteeceeetdunes ces 
+
+
+Lebron v. National R.R. Passenger Corp., 115 S. 
+Dh éscebneeceeseeeonscceces 
+
+
+Manvel v. First Nat'l Bank, 638 F.2d 32 (Sth Cir. 
+i aaeh Aa nO ce was 6 e's enea eles a 
+
+
+Morast v. Lance, 807 F.2d 926 (11th Cir. 1987). . 
+
+
+O'Melveny & Myers v. FDIC, 114 S. Ct. 2048 
+pt iP aE a a a 
+
+
+Patterson v. Shumate, 504 U.S. 753 (1992) ..... 
+
+
+Reconstruction Fin. Corp. v. Beaver County, 328 
+Ds £6 6hh0ee0 06 daéeoest 
+
+
+RTC v. Chapman, 29 F.3d 1120 (7th Cir. 1994) . 
+RTC v. Everhart, 37 F.3d 151 (4th Cir. 1994) ... 
+
+
+RTC v. Fiala, 870 F. Supp. 962 (E.D. Mo. 
+eee pec cee unas kc 
+
+
+RTC v. Frates, 52 F.3d 295 (10th Cir. 1995) .... 
+RTC v. Gallagher, 10 F.3d 416 (7th Cir. 1993) . . 
+
+
+RTC v. Gibson, 829 F. Supp. 1103 (W.D. Mo. 
+DPR GGROeEGEddedeebebheeesece ices: 
+
+
+RTC v. Gregor, 872 F. Supp. 1140 (E.D.N.Y. 
+SG nO S666 0000s bbb 600 6d c'cdcéces 
+
+
+13 
+13 
+
+
+1, 4, 6, 7, 11 
+
+
+19 
+
+
+CASES 
+RTC v. Heiserman, 839 F. Supp. 1457 (D. Colo. 
+Nc a ve ccccccesacdenaboniiedslte 
+
+
+RTC v. Miramon, 22 F.3d 1357 (Sth Cir. 1994) . . 
+
+
+RTC v. Rahn, 854 F. Supp. 480 (W.D. Mich. 
+BE «occ oddvodeeoket seUseseeNs oc 
+
+
+RTC v. Shuck, Civ. Act. No. 93-12057-WGY, 
+1995 U.S. Dist. LEXIS 4314 (D. Mass. Mar. 
+Ah Mes 464d donk do Gee edna dade’ ce 
+
+
+GED b vc ccsensteeonnccseseedewnesss 
+United States v. Brosnan, 363 U.S. 237 (1960). . . 
+
+
+United States v. Kimbell Foods, Inc., 440 U.S. 715 
+SEA ncn coscachabaaactavatvenncet at 
+
+
+United States v. Little Lake Misere Land Co., 412 
+Se SUE 6c ccvccdctsdtacencecs 
+
+
+United States v. Yazell, 382 U.S. 341 (1966) .... 
+
+
+Whittemore v. Amoskeag Nat'l Bank, 134 U.S. 
+SE CUED cocccccececcesececcnvceces 
+
+
+12 
+
+
+v 
+STATUTES AND REGULATION PAGF 
+12 U.S.C. § 35 (1994) .. 0.20... eee eee ee 15 
+he cvisisicuricccccces: 15 
+12 U.S.C. § 1464(i), (0)... 2.0... eee ee 15 
+12 U.S.C. § 1813(b)(2), (3) .. 2... ee ee eee 18 
+12 U.S.C. § 1813(c)(2)..... 0. ee eee ee eee 18 
+re 7 
+nn ccc cccceccucnces 7 
+EE 9 
+12 U.S.C. § 1818(b)(6)(A) .........0.--0-. 9, 10 
+12 U.S.C. § 1821(d)(2)(A)(i) .... 2 ee eee 3, 6, 17, 18 
+ID bc dob oe o6 oi ccccsess. passim 
+
+
+Home Owners’ Loan Act of 1933, ch. 64, 48 
+Stat. 128 (codified as amended in scattered 
+
+
+sections of 12 U.S.C.) ..:............0-. 5 
+61 Fed. Reg. 4849 (1996) (to be codified at 12 
+
+CER. § 7.2000(b)) . 0... e cece cece eee 10, 15 
+MISCELLANEOUS 
+SR ote les ees iehs.. 2 
+
+
+Ronald W. Stevens & Bruce H. Nielson, The 
+
+
+Gross Negligence Regardless of Whether 
+§ 1821(k) Preempts Federal Common Law, 
+13 Ann. Rev. Banking L. 169 (1994) ........ 9 
+
+
+SUMMARY OF ARGUMENT 
+
+
+It is petitioner’s position that, when the FDIC in its capacity 
+as conservator or receiver of a failed federally chartered savings 
+association sues the former directors and officers of that associa- 
+tion for breach of their duty of care, it may assert a federal claim 
+for gross negligence under 12 U.S.C. § 1821(k) or, if available, it 
+may assert a state claim for simple negligence under the law of 
+the state where the association has its principal place of business. 
+The FDIC acknowledges that it has a § 1821(k) claim; but, in 
+stark contrast to the position it has taken in other cases includ- 
+ing, most recently, FDIC v. Stahl, 89 F.3d 1510 (11th Cir. 1996), 
+the FDIC now argues that state law claims will not lie against the 
+directors and officers of federally chartered associations because 
+of the internal affairs doctrine pursuant to which courts resolve 
+conflicts-of-'aw issues in cases involving the relations among or 
+between a corporation, its directors, officers and shareholders, 
+by applying the law of the state in which the corporation is 
+incorporated. The FDIC maintains that in the case of a federally 
+chartered association, it may not only sue officers and directors 
+under § 1821(k) but that federal judges may also apply a simple 
+negligence liability standard as a matter of federal common law. 
+
+
+The FDIC fails to satisfy either of the two necessary precondi- 
+tions to the application of federal common law. It has identified 
+neither any unique federal interest that would warrant the appli- 
+cation of a federal common law liability standard nor any signifi- 
+cant conflict between any such federal interest and the use of 
+applicable state law liability standards for directors and officers. 
+Even where a unique federal interest exists, the presence of such 
+a conflict is “uniformly require{[d] . . . as a precondition for 
+
+ition of a federal rule of decision.” O'Melveny & Myers v. 
+FDIC, 114 §. Ct. 2048, 2055 (1994). The internal affairs doctrine 
+is not an impediment to the maintenance of state law breach of 
+duty claims against the directors and officers of federally 
+chartered institutions. This Court and many lower courts (often 
+at the FDIC’s own urging) have recognized that federal law is 
+not the exclusive source of law respecting the internal affairs of 
+corporations merely because they are federally chartered. And, 
+in any event, § 1821(k) supplants any federal common law simple 
+negligence liability standard that otherwise might exist. 
+
+
+2 
+ARGUMENT 
+
+
+I. PETITIONER HAS ADEQUATELY RAISED THE ISSUE 
+OF THE APPLICABILITY OF FEDERAL COMMON LAW 
+
+
+The FDIC suggests that the Court may not wish to address 
+the issue of whether federal common law governs the liability of 
+directors and officers of federally chartered savings institutions 
+because petitioner allegedly first raised that issue in his opening 
+brief. (FDIC Br. 7, 9-12.) The FDIC’s position is factually mis- 
+guided. The second of the Questions Presented in the Petition 
+for a Writ Of Certiorari (Petition) is “[w)hether the court of 
+appeals erred in concluding that Section 1821(k) . . . has no 
+application whatsoever to [FDIC] actions against officers and 
+directors of failed federally chartered FDIC insured institutions, 
+and that the liability of officers and directors of such institutions is 
+instead governed exclusively by ‘federal common law.’ (Pet. i (last 
+emphasis added).) This directly raises the issue of the applicabil- 
+ity of federal common law. At the least, the issue is “fairly 
+included” in the question presented. See Sup. Ct. R. 14.1(a). 
+
+To leave no doubt, immediately following the second of the 
+Questions Presented, the following statement appears: “[T]he 
+decision of the court of appeals is in irreconcilable conflict 
+with . . . (iii) this Court’s well-established prior rulings con- 
+cerning the creation and application of ‘federal common law,’ 
+including especially this Court’s recent decision in O'Melveny & 
+Myers v. FDIC .. . .” (Pet. i.) Moreover, the second of the 
+“Reasons For Granting The Writ” is that “the [court of 
+appeals’s] conclusion that ‘federal common law,’ instead of Sec- 
+tion 1821(k), supplies the applicable law in this case violates this 
+Court’s longstanding rules respecting the creation and applica- 
+tion of such judge-made law . . . .” (Pet. 8.) And the entire 
+section II of the Petition (Pet. 16-20) is devoted to the following 
+subject: “The Third Circuit’s Decision Is In Direct Conflict With 
+This Court’s Prior Rulings Respecting The Application Of ‘Fed- 
+eral Common Law,’ And Particularly Its Recent Decision In 
+
+O'Melveny & Myers v. FDIC.” (Pet. 16.) Petitioner has thus amply 
+raised the issue of the applicability of federal common law. 
+
+
+Even if the Petition had only presented the question whether 
+§ 1821(k) supplants a federal common law liability standard, it 
+
+
+3 
+
+
+would still be appropriate for the Court to first ascertain whether 
+such a standard exists.! In Lebron v. National Railroad Passenger 
+Corp., the Court considered whether Amtrak is a government 
+actor rather than a private entity even though petitioner there 
+“did not raise [the] point below; indeed, he expressly disavowed 
+it in both the District Court and the Court of Appeals.” 115 S. Ct. 
+961, 964 (1995).? The Court reasoned that the question of pri- 
+vate-entity status was a “prior question” that needed to be 
+addressed even if not raised in the certiorari petition. Jd. at 966. 
+Similarly, whether a federal common law liability standard for 
+directors and officers of federally chartered savings institutions 
+even exists is a “prior question” to whether § 1821(k) supplants 
+it. See also Caspari v. Bohlen, 114 S. Ct. 948, 953 (1994); Cuyler v. 
+Sullivan, 446 U.S. 335, 342 n.6 (1980). 
+
+
+ll. FEDERAL COMMON LAW SHOULD NOT APPLY 
+MERELY BECAUSE CITY FEDERAL WAS FEDERALLY 
+CHARTERED 
+
+
+The FDIC contends that, under 12 U.S.C. 
+§ 1821(d)(2)(A)(i), it “stands in City Federal’s shoes and pos- 
+sesses the right to assert City Federal’s federal common-law 
+claims against its former officers and directors.” (FDIC Br. 28.) 
+City Federal, however, had no such claims. Corporate negligence 
+and breach of fiduciary duty claims are matters of state, not 
+
+
+ee ad ey to rule in the FDIC’s favor, the 
+Court would have to both that a federal common law liability 
+“Teast damnanmand Eernaheaielictamedies 
+
+
+2 The FDIC chides petitioner for gh re 
+the applicability of fodeeal eoammon iow OPDSC 0-10) Ristee that a 
+tho chstsist court lovel, potitionss assumed tho existence of 0 federal com- 
+
+
+govern 
+Appellees 21.) The Petition takes the same position. -ii, 8-10, 16-20. 
+Thus, petitioner’s contention is not “new. DAC Be iL)” ) 
+
+
+4 
+
+
+federal, law.? The fact that City Federal was federally chartered 
+does not alter this conclusion. This is especially so where, as in 
+this case, (i) Congress has enacted a comprehensive scheme 
+governing federally chartered savings associations but has not 
+included a federal standard of director and officer liability; 
+(ii) the FDIC has failed to identify any “uniquely federal inter- 
+est” that would be served by the application of a uniform federal 
+common law rule of decision, see Boyle v. United Technologies 
+Corp., 487 U.S. 500, 507 (1988); (iii) the FDIC has not identified 
+any “significant conflict” between any federal interest and the 
+application of state law liability standards for directors and 
+officers, see O'Melveny & Myers v. FDIC, 114 S. Ct. 2048, 2055 
+(1994); (iv) the federal agency that has regulatory authority over 
+federal savings associations — the Office of Thrift Supervision 
+(OTS) — has refrained from promulgating any regulations 
+establishing a uniform standard of liability; and (v) the agency 
+that regulates national banks — the Office of the Comptroller of 
+the Currency (OCC) — has expressly authorized the use of state 
+law standards with respect to corporate governance of such 
+banks. 
+
+
+The FDIC cites the Court’s 1891 opinion in Briggs v. Spaulding 
+for the proposition that “[w]hen Congress enacted the National 
+Bank Act in 1864 and [the Home Owners’ Loan Act] in 
+1933, . . . it was firmly established at general common law that 
+those directors and officers would owe a fiduciary duty of care to 
+the institutions, the breach of which would be redressable by the 
+institutions.” (FDIC Br. 21.) Accordingly, asserts the FDIC, 
+“Congress not unreasonably left it to the courts, applying com- 
+mon law, to enforce those duties.” (/d.) As the FDIC concedes, 
+however, Briggs was decided before the Court’s pronouncement 
+in Erie R. Co. v. Tompkins that “[t]here is no federal general 
+
+
+3 The standard of director and officer liability falls squarely within two 
+traditional areas of state law: tort law, Erie R. Co. v. Tompkins, 304 U.S. 64, 
+78 (1938), and corporation law, Burks v. Lasker, 441 U.S. 471, 478 (1979). 
+This Court has consistently refused to fashion a federal rule of decision 
+regarding an issue that falls within an area traditionally governed by state 
+law. See United States v. Yazell, 382 U.S. 341, 352 (1966); United States v. 
+Brosnan, 363 U.S. 237, 242 (1960); Reconstiuction Fin. Corp. v. Beaver 
+
+2 b 
+
+
+5 
+
+
+common law,” 304 U.S. 64, 78 (1938). Thus, granting the exis- 
+tence of a general common law duty of care owed by directors 
+and officers of federal savings associations prior to the enact- 
+ment of the Home Owners’ Loan Act of 1933 (HOLA) does not 
+resolve the issue of whether the courts are to apply state law 
+standards of liability or to create a uniform federal standard. 
+
+
+The FDIC has not identified any existing federal statute or 
+regulation either defining the standard of liability for directors or 
+officers of federally chartered savings associations or explicitly 
+authorizing courts to do so. The comprehensive federal statute 
+that governs the creation, operation and regulation of such 
+associations, HOLA, is silent on the matter. See ch. 64, 
+48 Stat. 128 (codified as amended in scattered sections of 12 
+U.S.C.). The FDIC acknowledges that “Congress has not 
+expressly defined the duties owed by officers and directors of 
+federally chartered depository institutions.” (FDIC Br. 21.) See 
+also Curiale v. Reissman, 798 F. Supp. 141, 148 (S.D.N.Y. 1992) 
+(“Although HOLA and other statutes and extensive federal reg- 
+ulations define many aspects of the constraints on and operation 
+and obligations of federal savings institutions, they neither 
+define the duties of savings bank directors nor grant federal 
+jurisdiction over disputes involving those duties.”’). 
+
+When statutory authority is absent, federal courts generally 
+may apply federal common law only when some “uniquely fed- 
+eral interest” is present. Boyle, 487 U.S. at 507. Such an interest 
+is one “of peculiarly federal concern,” id. at 505, in which “the 
+interests of the United States will be directly affected,” id. at 507. 
+The Court found uniquely federal interests in Boyle because the 
+application of state tort law in resolving death or injury claims of 
+military personnel could directly affect the interests of the 
+United States in its military procurement programs. /d. at 
+510-13. The Court has also found uniquely federal interests in 
+cases involving: the rights and liabilities of the United States 
+under nationwide programs involving the lending of federal 
+funds by federal agencies, United States v. Kimbell Foods, Inc., 
+440 U.S. 715, 726-27 (1979); the rights and obligations of the 
+United States under contracts entered into pursuant to authority 
+conferred by federal statute, United States v. Little Lake Misere 
+Land Co., 412 U.S. 580, 594 (1973); the civil liability of federal 
+
+
+6 
+
+
+officials for actions taken in the course of their duties, Howard v. 
+Lyons, 360 U.S. 593, 597 (1959); and the rights and duties of the 
+United States on commercial paper issued by it, Clearfield Trust 
+Co. v. United States, 318 U.S. 363, 366 (1943). The common 
+ingredient in all of these cases is that an interest of the United 
+States — generally a financial one — is directly involved and 
+would be immediately affected by the outcome of the litigation. 
+
+There simply are no unique federal interests that justify the 
+creation or application of federal common law liability standards 
+for directors and officers of federally chartered savings associa- 
+tions. Although City Federal was federally chartered and regu- 
+lated, it was a privately owned business corporation. “Where 
+‘litigation is purely between private parties and does not touch 
+the rights and duties of the United States,’ . . . federal law does 
+not govern.” Boyle, 487 U.S. at 506 (quoting Bank of Am. Nat'l 
+Trust & Sav. Ass’n v. Parnell, 352 U.S. 29, 33 (1956));* see also 
+O'Melveny, 114 S. Ct. at 2055 (“The rules of decision at issue 
+here do not govern the primary conduct of the United States or 
+any of its agents or contractors, but affect only the FDIC’s rights 
+and liabilities, as receiver, with respect to primary conduct on the 
+part of private actors that has already occurred.”). Had City 
+Federal sued petitioner for breach of duty in a New Jersey court, 
+no federal agency or official would have been a party to the suit 
+or had any direct stake in its outcome. The FDIC has made no 
+showing that any rights, interests or obligations of the United 
+States would be affected in the least if state law, rather than 
+federal common law, were applied in such cases. 
+
+
+It is, of course, true that the FDIC insures the deposit 
+accounts of federally insured savings associations and that, if 
+such an institution becomes insolvent, the interests of the FDIC 
+are directly affected. But, under § 1821(d)(2)(A)(i), upon which 
+the FDIC here relies, the FDIC steps into the shoes of the 
+association and asserts any claims the association could have 
+
+
+* In Boyle, the Court determined that federal common law applied 
+despite the fact that the suit involved private parties. But there, the United 
+States had a strong interest in the potential liability of government contrac- 
+tors because it would affect not only the government’s ability to enter into 
+contracts but also the prices of the equipment purchased. 487 U.S. at 
+510-13. 
+
+
+7 
+
+
+asserted when it was solvent. With respect to those claims — to 
+which the FDIC asserts federal common law should be 
+applied — the FDIC would have had no direct financial interest. 
+See O'Melveny, 114 S. Ct. at 2055. Nor would any other financial 
+interests of the United States be implicated. There being no such 
+affected interests, the predicate for the application of federal 
+common law to such claims simply does not exist. The FDIC’s 
+reliance on Kimbell Foods and Clearfield Trust (FDIC Br. 19-20), 
+in which the financial interests of the United States were directly 
+involved and would have been affected by the outcome, is thus 
+
+
+wholly misplaced. 
+
+Moreover, the FDIC acts as insurer of deposits in both feder- 
+ally and state chartered institutions. 12 U.S.C. §§ 1814, 1815. If 
+the FDIC’s role as insurer were a sufficient “uniquely federal 
+interest” to require application of a federal common law stan- 
+dard of liability for officers and directors of federally insured 
+institutions, such a standard would have to be applied to both 
+state and federally chartered institutions, a result that the FDIC 
+does not seek and that this Court rejected in O’Melveny. 114 S. 
+Ct. at 2055. 
+
+
+Under Boyle, if, as in this case, a unique federal interest can- 
+not be identified, that ends the inquiry as to whether federal 
+common law should be applied; it may not be. Thus, plaintiff’s 
+claims arise, if at all, under state law.’ But even where a unique 
+federal interest is identified — and the precondition for applying 
+federal common law has been satisfied — state law still will be 
+displaced by a uniform federal common law rule of decision 
+“only where . . . a ‘significant conflict’ exists between an iden- 
+tifiable ‘federal policy or interest and the [operation] of state 
+law,’ or the application of state law would ‘frustrate specific 
+objectives’ of federal legislation.” Boyle, 487 U.S. at 507 (cita- 
+tions omitted); see also O’Melveny, 114 S. Ct. at 2055 (“Our cases 
+
+
+5 If a unique federal interest does not exist, then, absent an applicable 
+constitutional provision or federal statute or regulation, the controversy is 
+not governed by federal law. State law applies of its own force and not 
+simply as a “federal rule of decision.” In the instant case, this distinction is 
+significant because the FDIC has waived any state law claims it otherwise 
+may have had. 
+
+
+8 
+
+
+uniformly require the existence of such a conflict as a precondi- 
+tion for recognition of a federal rule of decision.”). The FDIC 
+does not demonstrate that the application of state law here 
+would create any “significant conflict” between any identifiable 
+federal policy or interest or would frustrate specific objectives of 
+federal legislation. No such policies, interests or objectives are 
+mentioned. 
+
+
+The only conflict even suggested by the FDIC is one that 
+allegedly might arise between state law and the standards of 
+liability applied by the OTS, the chartering authority of federal 
+Savings associations, in administrative enforcement proceedings. 
+(FDIC Br. 22-27.) The FDIC contends that in two such proceed- 
+ings applying an ordinary care standard of liability, the OTS 
+“spoke[] authoritatively respecting the duty of care owed by 
+directors and officers to federal savings associations.” (Jd. at 
+24-25.) The FDIC’s attempt to manufacture a conflict on this 
+basis, however, is deficient for several reasons. 
+
+
+First, the FDIC fails to mention that both proceedings it cites 
+involved state-chartered associations and, therefore, have no 
+direct bearing on liability standards for directors and officers of 
+federally chartered associations. The reference to an ordinary 
+care standard in administrative enforcement actions relating to 
+state-chartered institutions simply fails to demonstrate any fed- 
+eral policy or interest in having that standard, or indeed any 
+standard, applied nationwide as federal common law in civil suits 
+involving federally chartered institutions. The FDIC cites no 
+authority for any such proposition.® Second, the decisions of the 
+OTS in the cited proceedings were not based on a failure of the 
+directors therein to satisfy a “simple negligence” standard. 
+
+
+© The FDIC notes that “(t]he OTS has also published substantial infor- 
+ean reap eh ayegpeten pape pont opener Megas doy 
+four memoranda that purport 2 savings associations, regard- 
+less of charter. (FDIC Br. 351 25 n.21.) t, those memoranda were never 
+promulgated as regulations, and they were published in 1992, 1990, 1989 
+and 1987, respectively. The last of the three loans that give rise to the 
+allegations against petitioner was made in 1986. (Second Am. Compl. 
+99 38, $6, 72,14.) Accordingly, the informal guidelines, even if otherwise 
+constituting applicable law (which the FDIC nowhere establishes), can 
+ove ab eee bene. 
+
+
+9 
+
+
+Rather, they involved conduct that failed the statutory standards 
+established by Congress in 12 U.S.C. § 1818 (or its predecessor), 
+which requires, at a minimum, a showing that the director or 
+officer was “unjustly enriched” or demonstrated “a reckless dis- 
+regard for law or any applicable regulation,” 12 U.S.C. 
+§ 1818(b)(6)(A). Thus, the holdings of those decisions do not 
+conflict with petitioner’s position. Third, to the extent the agency 
+dicta cited by the FDIC from the OTS cases espouse a standard 
+of liability for directors or officers beyond that in 12 U.S.C. 
+§ 1818, the authority of the OTS to set such a standard in those 
+proceedings is questionable.’ 
+
+It is difficult to argue — and the FDIC does so only half- 
+heartedly (e.g., FDIC Br. 8, 27) — that there is a federal interest 
+in ensuring that directors and officers of federally chartered 
+associations are subject to a uniform standard of liability. If such 
+an interest exists, it is difficult to understand why Congress or the 
+OTS or its predecessor, the Federal Home Loan Bank Board 
+(FHLBB), have never bothered to establish such a uniform stan- 
+dard, by law or regulation.* Clearly, the FHLBB had, and the 
+OTS has, “plenary authority” over federally chartered savings 
+associations. Fidelity Fed. Sav. & Loan Ass’n v. de la Cuesta, 458 
+U.S. 141 (1982). Yet, in the 63 years since the enactment of 
+HOLA, they never have promulgated any regulation that even 
+purports to establish liability standards for directors and officers 
+of such associations. In any event, the FDIC’s suggestion that 
+application of state law standards of liability, rather than a single 
+
+
+7 Indeed, many states apply a gross negligence standard of liability for 
+directors and officers rather than the “ordinary care” standard the FDIC 
+indicates the OTS would apply. See Ronald W. Stevens & Bruce H. Nielson, 
+The Standard of Care for Directors and Officers of Federally Chartered Depos- 
+itory Institutions: It’s Gross Negligence Regardless of Whether § 1821(k) 
+Preempts Federal Common Law, 13 Ann. Rev. Banking L. 169, 194-218 
+ee ee ee 
+to directors and officers). 
+
+8 Congress obviously does not share the FDIC’s concern that the stan- 
+dard of liability for federally chartered savings associations must be uni- 
+form and, therefore, must avoid application of state law standards of 
+liability. As petitioner observed in his opening brief (Br. 44), in § 1821(k) 
+Congress that the term “gross negligence” shall be “defined and 
+determined under applicable state law.” 
+
+
+10 
+
+
+federal standard of simple negligence, “would undermine the 
+OTS’s ability to implement its own coherent and uniform regula- 
+tory policy” with respect to federal savings associations (FDIC 
+Br. 27) is not well taken. 
+
+This is true for two reasons in addition to the above. First, the 
+OTS will retain the ability to bring enforcement actions under 12 
+U.S.C. § 1818(b)(6)(A) to impose remedies of the type sought in 
+this case (i.e., compensation for losses) against directors and 
+officers of any savings association, regardless of its charter, based 
+on the standard set forth in that statute. Thus, uniformity based 
+on that standard can be achieved. More significantly, to the 
+extent that Congress has addressed a need for uniformity in the 
+standard of liability applied to directors and officers in cases like 
+this seeking compensation for losses, it imposes liability not for 
+simple negligence, but where the director or officer has been 
+“unjustly enriched” or acted with “reckless disregard for law or 
+any applicable regulation or prior order.” 12 U.S.C. 
+§ 1818(b)(6)(A). Thus, not only will the OTS retain the ability to 
+achieve uniformity, but the uniform standard Congress has 
+enacted with respect to OTS administrative proceedings seeking 
+compensation for losses, as here, is not the simple negligence 
+standard the FDIC seeks to have applied in this case. 
+
+Moreover, if uniformity were an important federal interest in 
+corporate governance matters for federally chartered depository 
+institutions, then it is virtually incomprehensible that the 
+OCC — the federal chartering authority for national banks — 
+would have issued a regulation this year “that provides national 
+banks with maximum flexibility to structure their corporate gov- 
+ernance procedures,” 61 Fed. Reg. 4849, 4854 (1996), by autho- 
+rizing such banks “[t]o the extent not inconsistent with 
+applicable Federal banking statutes or regulations, or bank 
+safety and soundness, . . . to follow the governance 
+procedures of the law of the state in which the main office of the 
+bank is located, the law of the state in which the holding 
+company of the bank is incorporated, the Delaware General 
+Corporation Law, . . . or the Model Business i 
+Act...,” id. at 4866 (to be codified at 12 C.ER. § 7.2000(b)). The 
+OCC obviously believes that, so long as each national bank is 
+subject to some settled law, it is not significant that the law may 
+
+
+11 
+
+
+vary for institutions, and their directors and officers, from state 
+to state, or indeed from institution to institution. 
+
+The FDIC quotes Kimbell Foods for the proposition that, 
+when “ ‘Congress has not spoken in an area comprising issues 
+substantially related to an established purpose of government 
+operation . . . [then] Clearfield directs federal courts to fill the 
+interstices of federal legislation.’ " (FDIC Br. 21-22.) The 
+authority to fill interstices, however, does not imply a power to 
+add entirely new substantive provisions to a statutory scheme 
+that Congress did not see fit to include. This is particularly true 
+for a comprehensive statutory scheme such as HOLA. As the 
+Court stated in O'Melveny: “(|M]atters left unaddressed in such a 
+scheme are presumably left subject to the disposition provided 
+by state law.” 114 S. Ct. at 2054; see also Kamen v. Kemper Fin. 
+Servs., Inc., 500 U.S. 90, 98 (1991) (“[A] court should endeavor 
+to fill the interstices of federal remedial schemes with uniform 
+federal rules only when the scheme in question evidences a 
+distinct need for nationwide legal standards .. . .”). 
+
+
+Not otherwise able to meet the criteria for applying federal 
+common law that Boyle and O'Melveny pronounce, the FDIC 
+urges that federal common law should apply to federally 
+chartered savings associations for no other reason than that they 
+are federally chartered. Drawing on the Seventh Circuit's split 
+decision in RTC v. Chapman, the FDIC asserts: “Just as the 
+internal affairs of a state-chartered corporation are governed by 
+the law of the chartering State, so federal law governs the inter- 
+nal affairs of federally chartered institutions.” (FDIC Br. 18.)° 
+While various district courts have reached that conclusion 
+(FDIC Br. 14 n.9), and one circuit court (the Seventh Circuit) 
+has done so, this Court has never suggested that federally 
+chartered institutions are subject to federal common law rather 
+than state law merely by virtue of their federal charters. 
+
+
+*° The FDIC fails to mention, however, that the federal rule of decision 
+that Chapman ied is the gross negligence standard of § 1821(k). See 29 
+F.3d 1120, 1123 Cir. 1994). The Seventh Circuit reasoned that it was 
+unnecessary for federal courts to “devise federal common law” liability 
+standards because has laid down the law” in enacting the gross 
+
+
+negligence standard in § 1821(k). Jd 
+
+
+12 
+
+
+Quite the contrary. The Court has made clear that national 
+banks, which operate under a federal charter,'® “are subject to 
+the laws of a State in respect of their affairs unless such laws 
+interfere with the purposes of their creation, tend to impair or 
+destroy their wftieency as federal agencies or conflict with the 
+paramount law of the United States.” First Nat'l Bank v. Missouri, 
+263 U.S. 640, 656 (1924); see also Anderson Nat'l Bank v. Luckett, 
+321 U.S. 233, 248 (1944) (“[N]ational banks are subject to state 
+laws, unless those laws infringe the national banking laws or 
+impose an undue burden on the performance of the banks’ 
+functions.”’). 
+
+This is true not only for matters affecting the dealings of 
+national banks with third parties but for matters affecting the 
+internal affairs of such banks. Especially persuasive in this regard 
+is the Court’s decision in Herrmann v. Edwards, 238 U.S. 107 
+(1915). There the internal affairs of a national bank were 
+
+unquestionably at issue, yet it was determined that there was no 
+federal cause of action merely because the national bank had a 
+federal charter. Jd. at 116. Herrmann involved a suit by share- 
+holders of a national bank against its directors for breach of trust 
+
+
+Federal question . . . , a mere assertion of liability on the part 
+of directors for wrongs for which they might be responsible at 
+common law, afford[s] no basis for jurisdiction,” id. at 112; see 
+also Whittemore v. Amoskeag Nat'l Bank, 134 U.S. 527, 530 (1890) 
+(holding that federal courts have no jurisdiction over a suit by 
+
+
+13 
+
+
+Herrmann and Whittemore both clearly stand for the proposi- 
+tion that federal law does not apply to the internal affairs of a 
+federally chartered depository institution merely because of the 
+source of its charter. The FDIC is thus quite mistaken when it 
+asserts, with respect to national banks, that “this Court has never 
+suggested that state law controls matters relating to their inter- 
+nal corporate governance,” (FDIC Br. 18). State law governs the 
+internal affa.rs of such institutions so long as it does not conflict 
+with the laws of the United States or impose an undue burden on 
+the performance of the institution’s functions. 
+
+
+At the lower federal court and state court levels, a number of 
+cases have similarly ruled that national banks are subject to state 
+law in matters affecting their internal affairs. '' Even more to the 
+point, a significant number of cases — particularly those decided 
+post-O’Melveny — have held that the directors and officers of 
+
+
+district court did not have subject matter jurisdiction [of a suit by a bank 
+
+
+pape ee 1981) (characterizing shareholder suit 
+
+
+against 
+federal law); Country Bank v. Mayer, 788 F. Supp. 1136, 1141-42 (ED. 
+
+
+Cal 1992) CN Jockin in the (Notional Bank Act} ccepeste  condllet vith o 
+state’s demand and requirement in the context of a shareholder 
+
+
+14 
+
+rejected application of the internal affairs doctrine.'? Particularly 
+noteworthy, in light of the FDIC’s position herein, is the Elev- 
+enth Circuit’s recent decision in FDIC v. Stahl, 89 F.3d 1510 (11th 
+Cir. 1996). At the express urging of the FDIC, the court there 
+applied state law as the applicable standard of liability for direc- 
+tors and officers of a federally chartered savings association. The 
+court dismissed out-of-hand, as “without merit” and “not war- 
+rant[ing]} discussion,” the contention of the directors and officers 
+that the internal affairs doctrine required the exclusive applica- 
+tion of federal law. Jd. at 1515 n.10. 
+
+
+institutions and that “a number of courts have 
+applied state law.” (FDIC Br. 14 & n.9.) Certainly, of the more recent 
+cases, more have been decided to s than to the 
+
+
+against a federally chartered bank.”), RTC v. Williams, F. Supp. 1415, 
+
+
+to be without merit.”); FDIC v. 882 F. 1236, 1244 (D. Conn. 
+1995) ( mere fact that [ is federally chartered does not immu- 
+nize [ 8 officers and directors] from state law.”); RTC 
+v. Gregor, 872 F. Supp. 1140, 1146 (E.D.N.Y. 1994) state 
+
+
+i 
+
+
+: 
+i 
+(3 
+7 
+ER 
+B 
+
+Hs 
+
+
+i 
+F 
+[ 
+: 
+$ 
+i 
+3 
+4 
+. 
+a 
+
+
+15 
+
+
+been criticized and was in the FDIC's view erroneously applied.’ 
+The FDIC also argued, again in complete opposition to its posi- 
+tion herein, that the “argument that only federal law governs this 
+case . . . is wrong.” Given the almost exact correspondence 
+between the facts of Stahi and the instant case, petitioner finds it 
+difficult to understand how the FDIC there could have found the 
+dispositive, and the argument that only federal law governs fed- 
+erally chartered institutions there “wrong” and here right. 
+The FDIC suggests in this case that the internal affairs doc- 
+trine should be applied to ensure that, where associations are 
+engaged in multi-state lending activities, their directors and 
+officers will not be subject to conflicting state fiduciary require- 
+ments. (FDIC Br. 15.) That potential complication is easily obvi- 
+ated, however, by applying the law of the state where the 
+association has its principal place of business." It is not necessary 
+to resort to federal common law to achieve that result. Indeed, 
+doing so creates two different standards of liability for directors 
+and officers of financial institutions within the same state (even 
+on the same block) depending on the source of the institution’s 
+charter. That seems neither equitable nor effective given the 
+ease with which an institution may convert back and forth 
+between state and federal charters. 12 U.S.C. §§ 35, 214a, 
+
+
+1464(i), (0). 
+
+
+3 re RAE 821.005 « Stahl, 89 F.3d 1510 
+ay . 1996) (emphasis added). 
+Id. at 1. 
+
+15 See, e.g, Country Nat'l Bank v. Mayer, 788 F. Supp. at 1141 (applying 
+state law of national bank’s principal place of business to determine 
+demand and futility requirements); Jn re Orfa Sec. Litig., 654 F. Supp. 1449, 
+1455 (D.NJ. 1987) (applying law of principal place of business rather than 
+
+
+law of state of obligations of 
+officer); sce also 61 Fed. Reg. 4 1866 (1996) (to be codified at 12 CF 
+gov- 
+
+
+R. § 7.2000(b)) ( national banks “to follow the corporate 
+ernance procedures of the law of the state in which the main office of the 
+bank is located”); RTC v. Everhart, 37 F.3d 151, 154 (4th Cir. 1994) (“This 
+case well illustrates the difficulty of determining the rule of decision if 
+federal law, the law of the chartering jurisdiction, is applied instead of the 
+law of the S & Us principal place of business.”). 
+
+
+16 
+
+
+It is, moreover, difficult to take the FDIC’s protestations of 
+the need for uniformity and the exclusive application of federal 
+law seriously when the FDIC and its predecessor, the Resolution 
+Trust Corporation (RTC), have so routinely urged lower federal 
+courts to apply state law against the directors and officers of 
+federally chartered institutions.’* If they truly believed that 
+application of state law was inimical to the federal 
+scheme as a policy matter, they surely would not have argued 
+time and again — merely to gain a tactical advantage in a part‘c- 
+ular case — th _.ate law liability standards are applicable. 
+
+
+Finally, as a policy matter, petitioner questions the wisdom of 
+federalizing all internal corporate disputes that may arise with 
+respect to federally chartered institutions. In the banking and 
+thrift areas alone, there are literally thousands of such institu- 
+tions. The real possibility exists, were the FDIC’s federal com- 
+mon law position accepted, that an entire body of federal 
+corporate common law would have to be developed in the vari- 
+ous federal circuits and that, for federally chartered institutions, 
+this Court would have to assume the role the Supreme Court of 
+Delaware now assumes with respect to state-chartered 
+
+
+corporations. 
+
+
+Ill. THE GROSS NEGLIGENCE STANDARD OF § 1821(k) 
+DISPLACES ANY PRE-EXISTING FEDERAL COMMON 
+LAW SIMPLE NEGLIGENCE STANDARD 
+
+
+Even if it were determined that City Federal could have 
+asserted a federal common law claim for simple negligence 
+against petitioner, the FDIC’s right to assert that claim as City 
+Federal’s receiver would be supplanted by § 1821(k). Sec- 
+tion 1821(k) authorizes the FDIC to sue, as receiver, “for gross 
+
+
+'© In addition to Stahl, see RTC v. Chapman, 29 F.3d at 1122 (“According 
+to the RTC, it may recover from [the federally chartered savings associa- 
+tion’s} directors and officers for simple negligence under Illinois law.”’), 
+RTC v. Shuck, 1995 U.S. Dist. LEXIS 4314, lt ei a eg 
+it is entitled to recovery under . n O02 Rt Seep at 1258 Cote PU 
+gence standard.”), and FDIC v. Raffa, 882 F. Supp at 1238 FDIC 
+contends tha the ofcers and decor of the federal chartered saving 
+ee . in violation of applicable 
+
+
+17 
+
+
+negligence . . . or conduct that demonstrates a greater disre- 
+gard of a duty of care” than gross negligence. It does not autho- 
+
+
+rize suits for simple negligence. 
+
+
+The FDIC contends that § 1821(k) “is not the primary source 
+of the FDIC’s authority to pursue civil actions against officers 
+and directors” but that “[iJnstead, the FDIC’s authority derives 
+
+i from its long-standing right as receiver, now codified at 
+12 U.S.C. 1821(d)(2)(A)(i), to succeed a Pkg 50) Re 
+possessed by the depository institution.” . 31- t is 
+true that the FDIC, as receiver, succeeds to the claims of the 
+insolvent institution and derives its authority, in the first 
+instance, from § 1821(d)(2)(A)(i). But it is also true that in 
+asserting claims as a receiver, the FDIC is limited by the terms of 
+§ 1821(k). Thus, § 1821(k) expressly provides that a director or 
+officer “may be held personally liable for monetary damages in 
+any civil action by . . . [the FDIC] . . . (1) acting as conserva- 
+tor or receiver of such institution . . . for gross negligence... .” 
+(Emphasis added.) In short, if, arguendo, the institution had a 
+federal common law claim for simple negligence, and § 1821(k) 
+did not exist, then under § 1821(d)(2)(A)(i), the FDIC, as 
+receiver for the institution, would step into its shoes and could 
+officers. But § 1821(k) does exist, and it provides that, when the 
+FDIC asserts a claim “acting as conservator or receiver of such 
+institution,” it may sue directors and officers of a federally 
+chartered institution “for gross negligence . . . or conduct that 
+demonstrates a greater disregard of a duty of care... .” 
+Although it may wish to, the FDIC cannot treat 
+§ 1821(d)(2)(A)(i) and § 1821(k) as if they existed independently 
+of one another. 
+
+In a similar vein, the FDIC argues that § 1821(k) “empowers 
+the FDIC, at a minimum, to sue for gross negligence, while 
+preserving the FDIC’s right, in addition, to assert any federal 
+common-law claims to which it may succeed as receiver —— 
+Br. 30 (emphasis in original).) But the undeniable is that 
+§ 1821(k) applies to the directors and officers of any “insured 
+depository institution,” including federally chartered associa- 
+tions like City Federal. Congress simply could not have had any 
+rational purpose in “empower[ing]” the FDIC to bring gross 
+
+
+18 
+
+
+negligence claims against the directors and officers of federally 
+chartered associations if, as the FDIC maintains, the FDIC all 
+along had the right — standing in the shoes of insolvent institu- 
+tions under § 1821(d)(2)(A)(i) — to assert simple negligence 
+claims under federal common law. The FDIC admits as much 
+when it states: “It is true that Section 1821(k)’s authorization of 
+suits for gross negligence may not afford the FDIC any practical 
+advantage insofar as federally chartered institutions are con- 
+cerned, because the FDIC already has the ability to sue officers 
+and directors of federally chartered institutions for negligence 
+under federal common law.” (FDIC Br. 35.) 
+
+The only logical way out of this conundrum, consistent with 
+the FDIC’s position, is to assume that Congress acted mindlessly 
+when it included within the scope of § 1821(k) “insured deposi- 
+tory institutions” — a term that includes federally chartered 
+associations — rather than limiting § 1821(k) to state chartered 
+institutions only. That is unlikely, however, since “insured depos- 
+itory institution” is an expressly defined term in FIRREA, 12 
+U.S.C. § 1813(c)(2), as are the terms “Federal savings associa- 
+tion” and “State savings association,” 12 U.S.C. § 1813(b)(2), 
+(3). Absent firmer evidence to the contrary — and the FDIC 
+offers none — it should be assumed that Congress employed the 
+broader term “insured depository institution” because it 
+intended § 1821(k) to apply to federally chartered institutions, as 
+well as to state chartered institutions, in a meaningful fashion. 
+Section 1821(k) applies meaningfully to federaily chartered insti- 
+tutions only if it is interpreted as the Fifth, Sixth, Seventh and 
+Tenth Circuits have done — as authorizing suits for gross negli- 
+gence, not offering a meaningless option to the FDIC to sue, as it 
+may please, for gross negligence under § 1821(k) or simple negli- 
+gence under federal common law.'? 
+
+This interpretation necessarily requires that the term “other 
+applicabl@ law” in the savings clause of § 1821(k) not be read to 
+
+
+cue a ae 
+standard of § 1821(k) 
+
+
+Sms 
+spn Prates, 52 F.3d "297 (lth Cit. 1995), TIC Bones, 42 734.369, 
+
+
+373 (6th Cir. 1994), RTC « Mewmon, 22 F530 1357, 1364 (Sth Cir. 1994), 
+and RTC v. Gallagher, 10 F.3d 416, 424 (7th Cir. 1993). 
+
+
+19 
+
+
+embrace federal common law. Otherwise, the first sentence of 
+§ 1821(k), authorizing suits for gross negligence or conduct more 
+culpable than gross negligence, is effectively eviscerated insofar 
+as pt chartered institutions are concerned. It is, of course, 
+
+“ ‘elementary canon of construction that a statute should be 
+imaged sO as not to render one part inoperative.’ ” 
+ment of Rev. v. ACF Indus., Inc., 114 S. Ct. 843, 848 (1994) 
+(quoting Mountain States Tel. & Tel Co. v. Pueblo of Santa Ana, 
+472 U.S. 237, 249 (1985)). Accordingly, the better reading of the 
+savings clause is that the reference to “other applicable law” 
+preserves applicable state law actions with lesser liability stan- 
+dards than gross negligence. That is precisely what the FDIC 
+successfully argued before the Eleventh Circuit in FDIC v. Stahl. 
+The court there observed: 
+
+
+While § 1821(k) provides that a director may be held 
+liable for gross negligence, the FDIC contends that Con- 
+gress enacted the last sentence of the statute to permit 
+courts to decide whether to apply state law to federally 
+chartered financial institutions. We reach the same con- 
+clusion. That is, we find that the “saving language” in the 
+last sentence of the statute enables claims under “other 
+applicable law,” i.e., state law for simple negligence, to 
+survive the enactment of FIRREA. 
+
+
+89 F.3d 1510, 1515 (11th Cir. 1996). 
+
+
+The FDIC relies on the Court’s opinion in Patterson v. Shu- 
+mate for the proposition that “other applicable law” means ail 
+law, including federal common law. (FDIC Br. 33-34.) The Court 
+ruled in Patterson that the nonbankruptcy 
+law” appearing in § 541(c)(2) of the Bankruptcy Code was not 
+limited to state law, as petitioner contended, but encompassed 
+“any relevant nonbankruptcy law, including federal law such as 
+ERISA.” 504 U.S. 753, 759 (1992). Patterson is inapplicable 
+because there was no suggestion that interpreting “applicable 
+
+law” to embrace federal law, including ERISA 
+ee ee eee or any other provision, of 
+the Bankruptcy Code meaningless, in whole or in part. That is 
+simply not the case here. If “other applicable law” in the savings 
+clause of § 1821(k) is interpreted to include federal common law 
+
+
+20 
+claims for simple negligence, then the first sentence of § 1821(k) 
+is rendered utterly meaningles: insofar as federally chartered 
+institutions are concerned. 
+
+
+CONCLUSION 
+The judgment of the court of appeals should be reversed. 
+Respectfully submitted, 
+
+
+RONALD W. STEVENS* 
+GILBERT C. MILLER 
+BRUCE H. NIELSON 
+
+
+KIRKPATRICK & LOCKHART LLP 
+1800 Massachusetts Avenue, N.W. 
+Washington, D.C. 20036 
+(202) 778-9000 
+*Counsel of Record 
+August 30, 1996 
+
+

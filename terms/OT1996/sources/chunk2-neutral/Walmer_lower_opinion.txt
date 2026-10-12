@@ -1,0 +1,180 @@
+52 F3d 851 Walmer v. United States Department of Defense | OpenJurist (https://openjurist.org/52/f3d/851/walmer-v-united-states-department-of-defense)
+citeturn42search0 [wordlim: 200] Published: 31.5 years ago; Crawled: 3 months ago; # 52 F. 3d 851 - Walmer v.United States Department of Defense### 52 F3d 851 Walmer v.
+
+# 52 F. 3d 851 - Walmer v. United States Department of Defense
+
+### 52 F3d 851 Walmer v. United States Department of Defense
+
+52 F.3d 851
+
+67 Fair Empl.Prac.Cas. (BNA) 802
+
+Joyce L. WALMER, Plaintiff-Appellant,
+v.
+UNITED STATES DEPARTMENT OF DEFENSE and Department of the
+Army, Defendants-Appellees.
+
+No. 93-3377.
+
+United States Court of Appeals,
+Tenth Circuit.
+
+April 4, 1995.
+
+Jeffrey L. Baxter (Jeffrey E. Goering with him, on the brief), of Chapman, Waters & Baxter, Leavenworth, KS, for plaintiff-appellant.
+
+Michael A. Vatis, Dept. of Justice, Washington, DC (Frank W. Hunger, Asst. Atty. Gen., Randall K. Rathbun, U.S. Atty., Anthony J. Steinmeyer, Robert A. Van Kirk, Attys., Dept. of Justice, Washington, DC, LTC., Nolon J. Benson, Jr., CPT., Tara O. Hawk, of counsel, U.S. Army, Arlington, VA, on the brief), for defendants-appellees.
+
+Before BALDOCK, McKAY, and EBEL, Circuit Judges.
+
+BALDOCK, Circuit Judge.
+
+1
+
+Plaintiff Joyce L. Walmer appeals the district court's denial of her motion for a preliminary injunction. We exercise jurisdiction pursuant to 28 U.S.C. Sec. 1292(a)(1) and we affirm.
+
+2
+
+Plaintiff has served in the United States Army since 1979, and held the rank of major at the time of the discharge proceedings at issue here. In January 1992, Ms. Pamela O'Brien informed the Army that she and Plaintiff had been involved in a homosexual relationship while Plaintiff was in the Army. The Army's Criminal Investigation Unit investigated the allegations pursuant to Army Regulation ("AR") 635-100 p 5-16. Based on the investigation, Lieutenant General Shoffner, the Commanding General at Fort Leavenworth, initiated discharge proceedings against Plaintiff. Subsequently, General Shoffner issued a memorandum to Plaintiff requesting her "to show cause for retention on active duty under the provisions for [sic] paragraph 5-11a(6) and (8), AR 635-100 because of misconduct, moral or professional dereliction." The memorandum informed Plaintiff that the discharge proceedings were based on: (1) homosexual acts between 1983 and 1991; (2) knowingly marrying a person of the same sex; (3) use of marijuana; and (4) conduct unbecoming an officer.
+
+3
+
+Pursuant to AR 635-100, Plaintiff elected to appear before a Board of Inquiry ("BOI") and submit rebuttal in lieu of resignation or discharge. Both military and civilian counsel represented Plaintiff during the BOI proceedings. The government presented its case through stipulations of fact and expected testimony. Plaintiff, her military and civilian counsel, and the government's representative reviewed and signed the stipulations submitted by the government. Specifically, Plaintiff acknowledged that she had in the past engaged in homosexual acts with Ms. O'Brien, and that she did not qualify for an exception to the provision which requires mandatory separation for an officer who engages in homosexual acts set forth in AR 635-100 p 5-56.1
+
+4
+
+During the BOI hearing, the president of the BOI determined on the record that Plaintiff had read and discussed the stipulation with counsel before signing it. Additionally, Plaintiff stated to the president that she knew she was admitting she had performed homosexual acts by signing the stipulation, and that the BOI would be required to recommend a discharge under AR 635-100 p 5-56. At the conclusion of the hearing, the president of the BOI found that Plaintiff had committed homosexual acts based upon the evidence presented, and recommended that the Army honorably discharge her.
+
+5
+
+On December 3, 1992, a Board of Review reviewed the BOI's action and recommended that the Army honorably discharge Plaintiff. On December 22, 1992, the Office of the Secretary of the Army reviewed and approved the BOI's recommendation, and scheduled January 14, 1993 as Plaintiff's discharge date.
+
+6
+
+Shortly before her discharge, Plaintiff filed a complaint in the district court against Defendants, alleging violations of the Fifth Amendment to the U.S. Constitution, and Article I, Section 9 of the U.S. Constitution.2 Additionally, Plaintiff sought a temporary restraining order to restrain Defendants from separating her from the Army. Subsequently, the district court granted Plaintiff's motion for a temporary restraining order, and later extended it five times.
+
+7
+
+On March 3, 1993 Plaintiff filed the instant motion for a preliminary injunction pending the resolution of a jury trial on the merits. In support of her motion for preliminary injunction, Plaintiff alleged: (1) AR 635-100 impermissibly discriminates against homosexuals in violation of the Equal Protection Clause of the Fourteenth Amendment, applicable against the United States under the Due Process clause of the Fifth Amendment to the U.S. Constitution, and (2) AR 635-100 constitutes a bill of attainder in violation of Article I, Section 9 of the U.S. Constitution.
+
+8
+
+On October 15, 1993, the district court issued an order denying Plaintiff's motion for a preliminary injunction on the grounds she was unlikely to succeed on the merits. See Walmer v. U.S. Dep't of Defense, 835 F.Supp. 1307, 1315-16 (D.Kan.1993). Specifically, the district court ruled that Plaintiff's equal protection challenge to AR 635-100 was foreclosed under Rich v. Secretary of the Army, 735 F.2d 1220 (10th Cir.1984).3 Additionally, the district court held that AR 635-100 did not constitute a bill of attainder because it: (1) was not a legislative act but a military policy promulgated by the executive branch, and (2) did not inflict punishment within the meaning of the bill of attainder clause. Thus, the district court concluded that Plaintiff had failed to demonstrate that she had a likelihood of success on the merits of her equal protection and bill of attainder challenges to AR 635-100.4 Consequently, the district court denied Plaintiff's motion for a preliminary injunction. However, the district court ordered that the temporary restraining order previously entered would remain in effect for sixty days so that Plaintiff could file a notice of appeal and seek a stay pending appeal. Walmer, 835 F.Supp. at 1316. This appeal followed.5
+
+9
+
+On appeal, Plaintiff contends the district court erred by denying her motion for a preliminary injunction. Specifically, Plaintiff argues the district court erred by (1) relying on Rich to conclude her equal protection challenge to AR 635-100 lacked merit, and (2) ruling that AR 635-100 was not a bill of attainder.
+
+10
+
+"We review a district court's grant or denial of a preliminary injunction for abuse of discretion." Oil, Chemical & Atomic Workers Int'l v. Amoco Oil, 885 F.2d 697, 703 (10th Cir.1989). Our review requires that we examine whether the district court committed an error of law or relied on clearly erroneous fact findings. See Hartford House, Ltd. v. Hallmark Cards, Inc., 846 F.2d 1268, 1270 (10th Cir.), cert. denied, 488 U.S. 908, 109 S.Ct. 260, 102 L.Ed.2d 248 (1988).
+
+11
+
+In order to obtain preliminary injunctive relief, the moving party must establish:
+
+12
+
+(1) the movant will suffer irreparable injury unless the injunction issues;
+
+13
+
+(2) the threatened injury to the movant outweighs whatever damage the proposed injunction may cause the opposing party;
+
+14
+
+(3) that the injunction, if issued, would not be adverse to the public interest; and
+
+15
+
+(4) substantial likelihood that the movant will succeed on the merits.
+
+16
+
+Lundgrin v. Claytor, 619 F.2d 61, 63 (10th Cir.1980); see also SCFC ILC, Inc. v. Visa USA, Inc., 936 F.2d 1096, 1098 (10th Cir.1991). We have adopted a modified likelihood of success requirement in the Tenth Circuit. See City of Chanute v. Kansas Gas and Elec. Co., 754 F.2d 310, 314 (10th Cir.1985). If the movant has satisfied the first three requirements for a preliminary injunction, the movant may establish likelihood of success by showing questions going to the merits so serious, substantial, difficult and doubtful, as to make the issues ripe for litigation and deserving of more deliberate investigation.cite13†6 Id.
+
+17
+
+Plaintiff first contends the district court erred by relying on Rich to conclude she had failed to demonstrate a likelihood of success on the merits of her equal protection challenge to AR 635-100. Specifically, Plaintiff maintains that the district court should not have held that Rich foreclosed her equal protection challenge, but should have adopted the active rational basis review set forth in Pruitt v. Cheney, 963 F.2d 1160, 1165 (9th Cir.1991), cert. denied, --- U.S. ----, 113 S.Ct. 655, 121 L.Ed.2d 581 (1992) which requires the Army to establish on the record a rational basis to justify AR 635-100. We disagree.
+
+18
+
+In Rich, we rejected an equal protection challenge to the Army's policy of discharging homosexuals and concluded that homosexuality did not constitute a suspect classification. Rich, 735 F.2d at 1229. Further, we held that "even if heightened scrutiny were required in reviewing the Army Regulations because they restrict a fundamental right, the classification is valid in light of the Army's demonstration of a compelling governmental interest in maintaining the discipline and morale of the armed forces." Id. (citations omitted); see also Jantz v. Muci, 976 F.2d 623, 630 (10th Cir.1992), cert. denied, --- U.S. ----, 113 S.Ct. 2445, 124 L.Ed.2d 662 (1993) (reaffirming Rich and holding that classifications which disparately affect homosexuals require rational basis review).
+
+19
+
+We conclude the district court did not commit an error of law or an abuse of discretion in ruling that Plaintiff failed to establish a likelihood of success on the merits of her equal protection challenge to AR 635-100. The district court ruled that "whether we should apply the active rational basis test or the traditional rational basis test need not be decided. Under either test, plaintiff cannot prevail because of Tenth Circuit precedent, which is binding on this court." Walmer, 835 F.Supp. at 1313. Specifically, we ruled in Rich that a compelling governmental interest supported the military policy requiring discharge of homosexuals.7 Rich, 735 F.2d at 1229.
+
+20
+
+On this record, Plaintiff has failed to put on any evidence of a change in military policy, or in the relationship between the military policy and its legitimate objectives, which would distinguish Plaintiff's case from Rich. While Plaintiff will have the opportunity to develop such a factual record at trial, the district court correctly concluded that she has not done so here. In light of Rich, the district court did not err by refusing to apply Pruitt to require the Army to demonstrate on the record a rational basis to support AR 635-100. Thus, we conclude that the district court did not err by ruling that Plaintiff had not shown questions going to the merits so serious, substantial, difficult, and doubtful as to make her equal protection attack on AR 635-100 ripe for litigation and deserving of more deliberate investigation. See City of Chanute, 754 F.2d at 314.
+
+21
+
+Plaintiff next contends that the district court erred by ruling that she had failed to demonstrate a likelihood of success on the merits of her claim that AR 635-100 amounts to an unconstitutional bill of attainder under Article I, Section 9 of the U.S. Constitution. We disagree.
+
+22
+
+Article I, Section 9 provides, "[n]o Bill of Attainder ... shall be passed." U.S. Const. art. I, Sec. 9, cl. 3. A bill of attainder is " 'a law that legislatively determines guilt and inflicts punishment upon an identifiable individual without provision of the protections of a judicial trial.' " Selective Serv. Sys. v. Minnesota Pub. Interest Research Group, 468 U.S. 841, 846-47, 104 S.Ct. 3348, 3351-52, 82 L.Ed.2d 632 (1984) (emphasis added) (quoting Nixon v. Administrator of Gen. Servs., 433 U.S. 425, 468, 97 S.Ct. 2777, 2802-03, 53 L.Ed.2d 867 (1977)); see also United States v. Patzer, 15 F.3d 934, 942 (10th Cir.1993). The bulk of authority suggests that the constitutional prohibition against bills of attainder applies to legislative acts, not to regulatory actions of administrative agencies. See Korte v. Office of Personnel Management, 797 F.2d 967, 972 (Fed.Cir.1986) ("The clause is a limitation on the authority of the legislative branch ... [not] the executive branch."); Marshall v. Sawyer, 365 F.2d 105, 111 (9th Cir.1966), cert. denied, 385 U.S. 1006, 87 S.Ct. 713, 17 L.Ed.2d 545 (1967) ("[T]he fact that [regulatory documents] were not legislative acts deprives them of status as bills of attainder in the constitutional sense."); cf. Dehainaut v. Pena, 32 F.3d 1066, 1070-71 (7th Cir.1994) (noting that "the Supreme Court has not directly ruled either way on the applicability of the attainder ban to actions of executive and administrative agencies, and an argument can be made for analyzing each case functionally rather than structurally").
+
+23
+
+In the instant case, the district court ruled that the military policy on homosexuality embodied in AR 635-100 was not a legislative act "but rather a compilation of Army Regulations implementing Department of Defense Directives." Walmer, 835 F.Supp. at 1314. Thus, the district court held that AR 635-100 was not a bill of attainder because it was not a legislative act.
+
+24
+
+Plaintiff has failed to argue on appeal that AR 635-100 is a legislative act. Rather, Plaintiff contends "that traditional analysis should be dissolved," Aplt's Brief at 17, and we should find the regulatory actions of the military subject to the bill of attainder constraint of Article I, Section 9. Because this is a novel contention that has not been adopted in this Circuit, we agree that the district court correctly determined that Plaintiff had not established a likelihood of success on the merits of her bill of attainder challenge to AR 635-100,8 because she failed to show questions going to the merits so serious, substantial, difficult, and doubtful as to make the issue ripe for litigation and deserving of more deliberate investigation. See City of Chanute, 754 F.2d at 314.
+
+25
+
+Based upon our review of the relevant law and the record, we conclude the district court did not abuse its discretion or commit an error of law in determining that Plaintiff had failed to establish a likelihood of success on the merits in support of her equal protection and bill of attainder challenges to AR 635-100. Accordingly, we AFFIRM the district court's denial of Plaintiff's motion for a preliminary injunction and dissolve the stay pending appeal which was previously entered by this court.
+
+26
+
+AFFIRMED.
+
+1
+
+Plaintiff expressly acknowledged the truth of the following facts set forth in Government Exhibit # 9, Stipulation of Fact:
+
+1
+
+That on 12 January 1992, Pamela O'Brien reported to the Army that MAJ Joyce L. Walmer and Pamela O'Brien had engaged in a homosexual relationship. MAJ Joyce L. Walmer admits that she has in the past engaged in homosexual acts with Ms. O'Brien
+
+3
+
+That MAJ Joyce L. Walmer does not satisfy the criteria in paragraphs 5-51a(1) through (5), AR 635-100, and is not entitled to an exception to the mandatory separation of an officer for homosexual acts as set out in the cited paragraph and paragraph 5-56, AR 635-100
+
+5
+
+That Ms. O'Brien made other allegations of misconduct as mentioned in the initiation of the elimination memorandum. However, there is no evidence presented regarding these other allegations, these other allegations were not referred to this Board, and will play no part in these proceedings
+
+Aplt.App. at 27.
+
+2
+
+Plaintiff also asserted in her complaint that the Army's discharge procedure violated the Administrative Procedure Act. Plaintiff abandoned this claim, however, at the hearing on her motion for preliminary injunction
+
+3
+
+In Rich, we rejected an equal protection challenge to the military policy requiring discharge of homosexuals. Rich, 735 F.2d at 1229
+
+4
+
+Because the district court concluded that Plaintiff failed to establish that she had a likelihood of success on the merits, it did not address whether she had satisfied the other mandatory requirements for obtaining a preliminary injunction
+
+5
+
+On December 10, 1993 Plaintiff filed a motion for a stay pending appeal which we granted on December 14, 1993. Subsequently, we continued the stay on April 26, 1994 until further order of this court
+
+6
+
+We assume Plaintiff has met the first three requirements for a preliminary injunction only for purposes of our inquiry into whether she has satisfied our modified likelihood of success standard
+
+7
+
+In Rich, the military discharged the plaintiff pursuant to AR 635-200 for fraudulently denying his homosexuality in response to questions during his enlistment process. Rich, 735 F.2d at 1223. This regulation "permits dismissal for fraudulent entry which is defined as the procurement of entry 'through any deliberate material misrepresentation, omission, or concealment which if known, might have resulted in rejection.' " Id. (quoting AR 635-200 ch. 14 p 14-5 (1973))
+
+8
+
+Because we conclude that the district court correctly found that Plaintiff was unlikely to successfully advance her argument that the Bill of Attainder Clause applies to non-legislative acts, we do not address the district court's ruling that AR 635-100 did not inflict punishment within the meaning of Article I, Section 9 of the U.S. Constitution

@@ -1,0 +1,264 @@
+
+
+
+ 
+  
+  
+  
+
+	
+	
+	
+	
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+  
+ 
+ Old Chief v. United States, 519 U.S. 172 (1997)
+ 
+ 
+ 
+ 
+ 
+
+    
+    
+	
+		
+			
+LII
+			 
+			
+Supreme Court		 
+		
+	
+
+
+ 
+
+
+
+Old Chief v. United States (95-6556), 519 U.S. 172 (1997)
+
+Dissent 
+ [ O'Connor ]Opinion 
+ [ Souter ]Syllabus 
+  
+HTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect version
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+  (Bench Opinion)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+
+
+ 
+ 
+ 
+   NOTE: Where it is feasible, a syllabus (headnote) will be released, as is 
+ being done in connection with this case, at the time the opinion is issued.  
+ The syllabus constitutes no part of the opinion of the Court but has been 
+ prepared by the Reporter of Decisions for the convenience of the reader.  
+ See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+Syllabus
+
+
+ 
+ 
+ 
+ OLD CHIEF v. UNITED STATES
+
+
+ 
+ 
+ 
+     certiorari to the united states court of appeals for 
+ the ninth circuit
+
+
+ 
+ 
+ 
+     No. 95-6556.    Argued October 16, 1996 -- Decided January 7, 1997
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+    After a fracas involving at least one gunshot, petitioner, Old Chief, was 
+ charged with, inter alia, violating 18 U.S.C. § 922(g)(1), which prohibits possession of a firearm by anyone with a prior felony conviction.  
+ He offered to stipulate to §922(g)(1)'s prior conviction element, arguing 
+ that his offer rendered evidence of the name and nature of his prior 
+ offense--assault causing serious bodily injury--inadmissible because 
+ its "probative value [was] substantially outweighed by the danger of 
+ unfair prejudice . . . ," Fed. Rule Evid. 403.  The Government refused 
+ to join the stipulation, however, insisting on its right to present its 
+ own evidence of the prior conviction, and the District Court agreed.  
+ At trial, the Government introduced the judgment record for the prior 
+ conviction, and a jury convicted Old Chief.  In affirming the conviction, the Court of Appeals found that the Government was entitled 
+ to introduce probative evidence to prove the prior offense regardless 
+ of the stipulation offer.
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Held:  A district court abuses its discretion under Rule 403 if it spurns 
+ a defendant's offer to concede a prior judgment and admits the full 
+ judgment record over the defendant's objection, when the name or 
+ nature of the prior offense raises the risk of a verdict tainted by 
+ improper considerations, and when the purpose of the evidence is 
+ solely to prove the element of prior conviction.  Pp. 5-21.
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     (a) Contrary to Old Chief's position, the name of his prior offense 
+ as contained in the official record is relevant to the prior conviction 
+ element.  That record made his §922(g)(1) status "more probable . . . 
+ than it [would have been] without the evidence," Fed. Rule Evid. 401; 
+ and the availability of alternative proofs, such as his admission, did 
+ not affect its evidentiary relevance, see Advisory Committee's Notes 
+ on Fed. Rule Evid. 401, 28 U. S. C. App., p. 859.  Pp. 5-7.
+
+
+ 
+ 
+ 
+  (b) As to a criminal defendant, Rule 403's term "unfair prejudice" 
+ speaks to the capacity of some concededly relevant evidence to lure 
+ the factfinder into declaring guilt on an improper basis rather than 
+ on proof specific to the offense charged.  Such improper grounds 
+ certainly include generalizing from a past bad act that a defendant 
+ is by propensity the probable perpetrator of the current crime.  Thus, 
+ Rule 403 requires that the relative probative value of prior conviction 
+ evidence be balanced against its prejudicial risk of misuse.  A judge 
+ should balance these factors not only for the item in question but also 
+ for any actually available substitutes.  If an alternative were found 
+ to have substantially the same or greater probative value but a lower 
+ danger of unfair prejudice, sound judicial discretion would discount 
+ the value of the item first offered and exclude it if its discounted 
+ probative value were substantially outweighed by unfairly prejudicial 
+ risk.  Pp. 7-13.
+
+
+ 
+ 
+ 
+  (c) In dealing with the specific problem raised by §922(g)(1) and its 
+ prior conviction element, there can be no question that evidence of the 
+ name or nature of the prior offense generally carries a risk of unfair 
+ prejudice whenever the official record would be arresting enough to 
+ lure a juror into a sequence of bad character reasoning.  Old Chief 
+ sensibly worried about the prejudicial effect of his prior offense.  His 
+ proffered admission also presented the District Court with alternative, 
+ relevant, admissible, and seemingly conclusive, evidence of the prior 
+ conviction.  Thus, while the name of the prior offense may have been 
+ technically relevant, it addressed no detail in the definition of the 
+ prior conviction element that would not have been covered by the 
+ stipulation or admission.  Pp. 13-14.
+
+
+ 
+ 
+ 
+  (d) Old Chief's offer supplied evidentiary value at least equivalent 
+ to what the Government's own evidence carried.  The accepted rule 
+ that the prosecution is entitled to prove its case free from any defendant's option to stipulate the evidence away has virtually no application when the point at issue is a defendant's legal status.  Here, the 
+ most the jury needed to know was that the conviction admitted fell 
+ within the class of crimes that Congress thought should bar a convict 
+ from possessing a gun.  More obviously, the proof of status went to 
+ an element entirely outside the natural sequence of what Old Chief 
+ was charged with thinking and doing to commit the current offense.  
+ Since there was no cognizable difference between the evidentiary 
+ significance of the admission and the official record's legitimately 
+ probative component, and since the functions of the competing evidence were distinguishable only by the risk inherent in the one and 
+ wholly absent from the other, the only reasonable conclusion was that 
+ the risk of unfair prejudice substantially outweighed the conviction 
+ record's discounted probative value.  Thus, it was an abuse of discretion to admit the conviction record when the defendant's admission 
+ was available.  Pp. 15-21.
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     56 F. 3d 75, reversed and remanded.
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      Souter, J., delivered the opinion of the Court, in which Stevens, 
+ Kennedy, Ginsburg, and Breyer, JJ., joined.  O'Connor, J., filed a 
+ dissenting opinion, in which Rehnquist, C. J., and Scalia and 
+ Thomas, JJ., joined.
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+
+
