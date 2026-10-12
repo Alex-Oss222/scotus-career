@@ -348,7 +348,7 @@ Eligibility for qualified immunity is denied to these guards, and the question w
 
 # SECTION I — NEUTRAL MODELING PACKET
 
-**Merits docket status: GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
+**Merits docket status: SIM COURT GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
 
 ## A. CASE, RECORD, AND POSTURE
 
@@ -458,7 +458,7 @@ The Fourth Circuit affirmed termination. It held that §3626(b)(2) permissibly c
 
 # SECTION I — NEUTRAL MODELING PACKET
 
-**Merits docket status: GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
+**Merits docket status: SIM COURT GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
 
 ## A. CASE, RECORD, AND POSTURE
 
@@ -562,7 +562,7 @@ The historical Supreme Court denied certiorari on March 31, 1997, in Michigan Do
 
 # SECTION I — NEUTRAL MODELING PACKET
 
-**Merits docket status: GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
+**Merits docket status: SIM COURT GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
 
 ## A. CASE, RECORD, AND POSTURE
 
@@ -1282,7 +1282,7 @@ Stone's existing source-participation limitation remains his preserved proposal.
 
 # SECTION I — NEUTRAL MODELING PACKET
 
-**Merits docket status: GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
+**Merits docket status: SIM COURT GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
 
 ## A. CASE, RECORD, AND POSTURE
 

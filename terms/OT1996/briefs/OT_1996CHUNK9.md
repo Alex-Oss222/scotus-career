@@ -10,7 +10,7 @@ October Term 1996 • 11 matters • 5 granted lower-court merits cases • 1997
 
 # SECTION I — NEUTRAL MODELING PACKET
 
-**Merits docket status: GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
+**Merits docket status: SIM COURT GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
 
 ## A. CASE, RECORD, AND POSTURE
 
@@ -117,7 +117,7 @@ The Sixth Circuit reversed the personal-jurisdiction dismissal and remanded. It 
 
 # SECTION I — NEUTRAL MODELING PACKET
 
-**Merits docket status: GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
+**Merits docket status: SIM COURT GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
 
 ## A. QUESTIONS PRESENTED
 
@@ -189,7 +189,7 @@ The Federal Circuit reversed the noninfringement judgment and remanded under the
 
 # SECTION I — NEUTRAL MODELING PACKET
 
-**Merits docket status: GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
+**Merits docket status: SIM COURT GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
 
 ## A. CASE, RECORD, AND POSTURE
 
@@ -299,7 +299,7 @@ The Second Circuit dismissed the direct petition under §440(a), assuming the or
 
 # SECTION I — NEUTRAL MODELING PACKET
 
-**Merits docket status: GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
+**Merits docket status: SIM COURT GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
 
 ## A. CASE, RECORD, AND POSTURE
 
@@ -405,7 +405,7 @@ This records the historical lower-court disposition only. It does not establish 
 
 # SECTION I — NEUTRAL MODELING PACKET
 
-**Merits docket status: GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
+**Merits docket status: SIM COURT GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
 
 ## A. QUESTIONS PRESENTED
 

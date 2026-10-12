@@ -853,7 +853,7 @@ Stone's proposed structural extension and severance remain preparation. His mand
 
 # SECTION I — NEUTRAL MODELING PACKET
 
-**Merits docket status: GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
+**Merits docket status: SIM COURT GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
 
 ## A. CASE, RECORD, AND POSTURE
 
@@ -981,7 +981,7 @@ The historical Ninth Circuit disposition covered both Allan Mussari and Donald S
 
 # SECTION I — NEUTRAL MODELING PACKET
 
-**Merits docket status: GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
+**Merits docket status: SIM COURT GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
 
 ## A. CASE, RECORD, AND POSTURE
 
@@ -1085,7 +1085,7 @@ On March 24, 1998, the historical Supreme Court unanimously affirmed in Cohen v.
 
 # SECTION I — NEUTRAL MODELING PACKET
 
-**Merits docket status: GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
+**Merits docket status: SIM COURT GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
 
 ## A. QUESTIONS PRESENTED
 
@@ -1188,7 +1188,7 @@ That later rule, including its affirmative defense and disposition, is compariso
 
 # SECTION I — NEUTRAL MODELING PACKET
 
-**Merits docket status: GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
+**Merits docket status: SIM COURT GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
 
 ## A. QUESTIONS PRESENTED
 

@@ -10,7 +10,7 @@ October Term 1996 • 12 matters • 5 granted lower-court merits cases • 1997
 
 # SECTION I — NEUTRAL MODELING PACKET
 
-**Merits docket status: GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
+**Merits docket status: SIM COURT GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
 
 ## A. CASE, RECORD, AND POSTURE
 
@@ -113,7 +113,7 @@ On March 4, 1998, the historical Supreme Court unanimously reversed and remanded
 
 # SECTION I — NEUTRAL MODELING PACKET
 
-**Merits docket status: GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
+**Merits docket status: SIM COURT GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
 
 ## A. CASE, RECORD, AND POSTURE
 
@@ -327,7 +327,7 @@ The following clarification is user-approved except for the preserved source res
 
 # SECTION I — NEUTRAL MODELING PACKET
 
-**Merits docket status: GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
+**Merits docket status: SIM COURT GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
 
 ## A. CASE, RECORD, AND POSTURE
 
@@ -746,7 +746,7 @@ Mississippi’s lawful federal-registration duty survives even though state-only
 
 # SECTION I — NEUTRAL MODELING PACKET
 
-**Merits docket status: GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
+**Merits docket status: SIM COURT GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
 
 ## A. CASE, RECORD, AND POSTURE
 
@@ -1207,7 +1207,7 @@ Stone’s approved remand should require the same separate identification of rig
 
 # SECTION I — NEUTRAL MODELING PACKET
 
-**Merits docket status: GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
+**Merits docket status: SIM COURT GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
 
 ## A. CASE, RECORD, AND POSTURE
 

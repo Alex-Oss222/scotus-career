@@ -10,7 +10,7 @@ October Term 1996 • 12 matters • 4 granted lower-court merits cases • 1997
 
 # SECTION I — NEUTRAL MODELING PACKET
 
-**Merits docket status: GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
+**Merits docket status: SIM COURT GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
 
 ## A. QUESTIONS PRESENTED
 
@@ -84,7 +84,7 @@ The Second Circuit affirmed dismissal on reasonableness grounds after finding th
 
 # SECTION I — NEUTRAL MODELING PACKET
 
-**Merits docket status: GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
+**Merits docket status: SIM COURT GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
 
 ## A. QUESTIONS PRESENTED
 
@@ -264,7 +264,7 @@ The approved single-hire rule is a proposed application of Monell, Pembaur, and 
 
 # SECTION I — NEUTRAL MODELING PACKET
 
-**Merits docket status: GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
+**Merits docket status: SIM COURT GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
 
 ## A. CASE, RECORD, AND POSTURE
 
@@ -709,7 +709,7 @@ Stone applies the received Anderson-Burdick framework and the simulated Burdick 
 
 # SECTION I — NEUTRAL MODELING PACKET
 
-**Merits docket status: GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
+**Merits docket status: SIM COURT GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
 
 ## A. CASE, RECORD, AND POSTURE
 
