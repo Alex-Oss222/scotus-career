@@ -2,7 +2,7 @@
 
 **+ = one of the 58 expressly listed simulated grants.** For those entries, the docket shown is the lower court’s own docket or, where so labeled, the historical petition’s; it is not a historical Supreme Court identifier. Stone approval status is stated separately in Section II.
 
-153 matters: 148 MERITS, 3 APPLICATION, 1 ORIGINAL and 1 CERTIORARI; thirteen chunks (12, 12, 11, 12, 12, 12, 12, 12, 11, 12, 12, 12 and 11 matters in chunks 1–13). Listed applications and petition-stage events: In re Gaydos, In re Vey and Vey v. Clinton (filing relief); Lords Landing Village Condominium Council of Unit Owners v. Continental Insurance Co. (petition-stage GVR consideration). The comprehensive supplied list controls membership, with Abrams v. Johnson / United States v. Johnson (Shaw-line deletion) and Sanusi excluded. Consolidated companions count once.
+153 matters: 149 MERITS, 3 APPLICATION and 1 ORIGINAL; thirteen chunks (12, 12, 11, 12, 12, 12, 12, 12, 11, 12, 12, 12 and 11 matters in chunks 1–13). Listed applications and petition-stage events: In re Gaydos, In re Vey and Vey v. Clinton (filing relief). The comprehensive supplied list controls membership, with Abrams v. Johnson / United States v. Johnson (Shaw-line deletion) and Sanusi excluded. Consolidated companions count once.
 
 | No. | Chunk | Caption | Docket(s) | Event date | Event type | Category | Area of law |
 |---:|---:|---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | 101 | 9 | Arkansas v. Farm Credit Services of Central Arkansas | 95-1918 | 1997-06-02 | Argued appellate merits | MERITS | Federal courts; state tax; federal instrumentalities |
 | 102 | 9 | Boggs v. Boggs | 96-79 | 1997-06-02 | Argued appellate merits | MERITS | ERISA; survivor rights; community property |
 | 103 | 9 | De Buono v. NYSA-ILA Medical and Clinical Services Fund | 95-1594 | 1997-06-02 | Argued appellate merits | MERITS | ERISA preemption, state taxation, employee benefits, and federalism |
-| 104 | 9 | Lords Landing Village Condominium Council of Unit Owners v. Continental Insurance Co. | 96-1033 | 1997-06-02 | Petition-stage possible GVR | CERTIORARI | Insurance; state law; GVR |
+| 104 | 9 | Lords Landing Village Condominium Council of Unit Owners v. Continental Insurance Co. | 96-1033 | 1997-06-02 | Petition-stage possible GVR | MERITS | Insurance; state law; GVR |
 | 105 | 9 | McMillian v. Monroe County | 96-542 | 1997-06-02 | Argued appellate merits | MERITS | Section 1983; municipal policymaker |
 | 106 | 9 | Saratoga Fishing Co. v. J.M. Martinac & Co. | 95-1764 | 1997-06-02 | Argued appellate merits | MERITS | Maritime products liability; economic loss |
 
