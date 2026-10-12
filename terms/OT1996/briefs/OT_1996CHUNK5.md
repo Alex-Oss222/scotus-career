@@ -910,7 +910,7 @@ Compulsory attendance and knowledge of private abuse do not by themselves establ
 * **Version:** OT1996 supplemental draft 1.0
 - **Approval Status:** User-approved Stone position, including the stated reasoning and lawful conditional alternatives, October 11, 2026. This is not a Court holding.
 * **Current-Through Baseline:** March 10, 1997, subject to same-term and Standing State revalidation.
-* **Conditions:** This approved position answers the granted questions in Section I. Any earlier effective same-term holding in *Uhlrig* must be incorporated before use.
+* **Conditions:** The exact Standing State grant wording was not supplied. Any narrower grant controls, and any earlier effective same-term holding in *Uhlrig* must be incorporated before use.
 
 ## B. JUDGMENT AND REMEDY
 
@@ -1173,63 +1173,30 @@ Each path must address both deductions within the presented question, respect th
 
 # SECTION II — STONE POSITION SUPPLEMENT
 
-**Current approval status:** All Stone answers, reasoning, proposed dispositions and stated conditional fallbacks in this supplement are approved by the user. The user's latest Hubert instruction establishes the primary materiality analysis and the narrower fallback below. They are Stone’s positions for the simulation, not Court decisions. Approval does not establish missing evidence, participation or an intervening Court holding.
+**Current approval status:** All Stone answers, reasoning, proposed dispositions and stated conditional fallbacks in this supplement are approved by the user on October 11, 2026. They are Stone’s positions for the simulation, not Court decisions. Approval does not establish missing evidence, participation or an intervening Court holding.
 
 ## A. STATUS
 
-* **Version:** OT1996 Hubert — approved materiality analysis and fallback.
-* **Approval Status:** Proposed to the Court and user-approved, including both grounds for affirmance below.
-* **Current-Through Baseline:** July 1, 1996 inherited simulated law, plus law effective for the March 18, 1997 event and any authenticated earlier-effective same-term decision.
-* **Scope:** Answer the granted question for both marital and charitable deductions. Keep qualification, valuation, expense deductibility and the burden on the disputed adjustment distinct.
+* **Version:** OT1996 supplemental draft 1.0
+* **Approval Status:** proposed to the Court and user-approved
+* **Current-Through Baseline:** March 18, 1997 (historical), subject to same-term revalidation.
+* **Conditions:** Proposed from the supplied sources. Revalidate the final grant scope, participation, and any earlier effective same-term holding before use.
 
 ## B. JUDGMENT AND REMEDY
 
-* **Stone's Controlled Judgment or Disposition:** Affirm the judgment of the Eleventh Circuit, leaving the Tax Court's determination of the disputed deductions in place.
-* **Stone's Remedy and Remand Position:** No recomputation or evidentiary remand on this record. The Commissioner did not establish a preserved alternative materiality basis for reversal. Both the primary position and the approved fallback support the same affirmance.
+* **Stone's Controlled Judgment or Disposition:** Affirm the judgment of the Eleventh Circuit.
+* **Stone's Remedy and Remand Position:** Leave the Tax Court’s result in place on this record. Do not announce a categorical immunity for expenses charged to income or a universal calculation formula.
 
-## C. PRIMARY POSITION — MATERIAL LIMITATIONS ON QUALIFYING INCOME INTERESTS
+## C. ISSUE POSITIONS
 
-### 1. Governing construction
+### Issue 1: No automatic dollar-for-dollar reduction on this record
 
-Under 26 U.S.C. §2056 and the then-effective Treasury Regulation §20.2056(b)-4(a), authority to charge administration expenses against postmortem income creates a material limitation when the anticipated burden substantially diminishes the economic value of the surviving spouse's right to income. The regulation requires attention to the effect of material limitations; it does not make every exercise of allocation authority an automatic dollar-for-dollar reduction of the marital deduction.
-
-Stone reads materiality as substantial economic effect assessed in context under this regulation. A charge's mere relevance to value does not resolve whether its effect is substantial in relation to the qualifying interest. Equating every income charge with a material limitation would erase the distinction between a limitation and a material one. Conversely, permission under the will or state fiduciary law to use income does not establish that the limitation is immaterial. State law identifies the rights transferred; federal tax law determines the consequences for their deductible value.
-
-### 2. Method of assessing materiality
-
-The court should identify the expected amount and duration of the expense charges, assess their significance relative to the income reasonably attributable to the qualifying interest, and examine the nature and extent of the spouse's beneficial rights. These considerations give content to the existing regulatory inquiry. They are not a separate equitable exception to the tax statute.
-
-The comparison must address the income and rights belonging to the qualifying bequest. The size of the estate as a whole cannot substitute for that inquiry. A temporary diversion can have a materially different effect on an interest consisting only of income than on an interest valued as equivalent to ownership of the underlying property. Neither form of interest receives an automatic exemption; the expected burden must be assessed in its own circumstances.
-
-No fixed percentage, minimum dollar amount or mechanical numerical threshold governs. The inquiry uses evidence about amount, duration and beneficial rights to determine substantial economic effect. Once a material limitation is established, its effect must be reflected in the net value of the qualifying interest under the applicable valuation principles. Hubert used date-of-death valuation, and Stone preserves that controlling valuation date. He does not impose a universal present-value subtraction formula or hold that the amount of expenses later paid necessarily equals the deduction adjustment.
-
-### 3. Regulatory authority and inherited simulated precedent
-
-The completed simulated *Thomas Jefferson University v. Shalala* decision gives an agency's own-regulation interpretation controlling weight unless plainly erroneous or inconsistent with the regulation. It also requires examination of the actual agency ground and genuine inconsistency; a court cannot substitute its preferred reading merely because that reading is reasonable. Stone applies that limit here: treating every income charge as dispositive fails, in his view, to give independent effect to the regulation's requirement of a material limitation and its direction to account for that limitation's effect. His conclusion rests on inconsistency with those operative terms, not on a general rejection of regulatory deference.
-
-Revenue Ruling 93-48's treatment of interest on deferred estate taxes supplies a supporting analogy against treating every income burden as material. Its express subject is interest; it does not itself settle the treatment of all administration expenses, supply the exclusive definition of materiality or silently displace the different treatment retained in Revenue Ruling 73-98. Stone therefore grounds the proposed construction in the statute and regulation and explains the economic comparison directly. He does not attribute his more specific formulation to an already completed simulated tax holding.
-
-The completed simulated *Smiley v. Citibank* decision permits adequately explained interpretation within delegated ambiguity while preserving statutory limits and the distinction between an authoritative agency interpretation and an unsupported litigation rationale. It does not supply a tax formula or permit the Court to cure a failure of proof. Treasury remains free to address unresolved measurement questions through lawful exercise of its authority. Stone relies on the sources operative for this case; a future regulatory choice supplies no present rule.
-
-### 4. Application to Hubert and the charitable deduction
-
-The estate paid approximately $500,000 of administration expenses from principal and approximately $1.5 million from postmortem income. It already reduced the deductions for the principal-funded amount. The remaining dispute concerns the income-funded expenses, not whether the trusts qualify in the first instance; the Commissioner stipulated to qualification.
-
-The Tax Court found no material limitation on the record before it. Stone does not infer from the estate's size that $1.5 million is inherently insubstantial, or announce that this amount must be immaterial in another estate. The Commissioner pursued automatic reduction and did not present and maintain an alternative showing that the expense burden was quantitatively material in this bequest's circumstances. Tax Court Rule 142(a) placed the burden of proving this disputed adjustment on the Commissioner because the administration-expense challenge was omitted from the original deficiency notice. That case-specific allocation does not shift the ordinary deduction burden in every estate-tax dispute.
-
-Once the categorical argument is rejected, the Commissioner has not supplied a preserved and established alternative basis for overturning the Tax Court's finding. The Court should not construct the missing comparison, supply additional facts or order a new opportunity to litigate that omitted theory. Affirmance follows from the regulatory construction and the allocation of proof on the actual record.
-
-The same disposition applies to the charitable deduction under §2055 on the question presented, consistent with the parties' treatment of the two deductions. Stone does not merge the distinct qualification requirements of §§2055 and 2056 or decide charitable interests materially different from those presented here.
-
-## D. APPROVED NARROWER FALLBACK
-
-If the Court leaves the more detailed method of assessing materiality open, Stone independently accepts the following narrower ground as lawful and sufficient: allocating administration expenses to postmortem income does not automatically require a dollar-for-dollar reduction of the marital deduction. A material limitation on the spouse's right to income must be taken into account in valuing the qualifying interest. Its materiality depends on the economic significance of the limitation in the circumstances of the bequest; neither allocation authority nor actual payment from income establishes materiality in every case.
-
-On this record the Commissioner did not establish an alternative ground for disturbing the Tax Court's finding under the burden applicable to this adjustment. Stone would therefore affirm on this ground as well, with the same disposition of the charitable deduction on the question presented. This fallback reserves the definitive measurement method and any universal quantitative threshold. It retains the governing material-limitation principle and the record-specific reason for affirmance.
-
-## E. LIMITS AND RESERVED QUESTIONS
-
-Under either approved position, a demonstrated material burden must affect the net deductible value. Expenses charged directly against qualifying principal retain their established treatment; neither §642(g)'s separate rules nor the requirement that property qualify for the relevant deduction is displaced. No universal safe harbor for income-funded expenses, fixed numerical threshold, prescribed actuarial formula or general reversal of tax burdens is adopted. Further measurement issues await a record and legal sources that require their resolution.
+* **Threshold and Merits Reach:** Stone reaches the tax construction necessary to resolve the deficiency but narrows the decision to the asserted categorical treatment and the record actually litigated.
+* **Question Stone Resolves:** Whether the Commissioner established that the deductions had to be reduced merely because administration expenses were paid from postmortem income attributable to the residuary shares.
+* **Stone's Legal Position:** Apply the statute, regulations, governing property interests, and ordinary burden rules. Stone adopts a material-burden inquiry only to the extent supported by the existing regulatory language; he does not create a free-floating equitable tax test. The opinion rests on the ground common to the competing readings, that a reduction of the deduction requires a material limitation on the qualifying interest, and it does not decide whether the deductions are measured as of the date of death or whether postmortem events may bear on their valuation.
+* **Stone's Proposed Holding:** Payment of administration expenses from postmortem income attributable to marital or charitable property does not by itself require a dollar-for-dollar reduction of the estate-tax deductions. A reduction requires a legally material diminution or limitation of the qualifying property interest under the governing instruments, state law, and applicable regulations; the Commissioner did not establish reversible error on this record. The Court does not decide whether the deduction is fixed as of the date of death.
+* **Essential Reasoning and Record Application:** The taxable estate and qualifying interests are anchored to the property passing from the decedent, while postmortem income and fiduciary administration are treated through separate Code provisions. The regulations make limitations on the beneficial interest relevant, but they do not clearly command that every dollar of later income used for expenses reduce the deduction by the same amount. The Commissioner litigated a categorical position and did not develop a record or alternative calculation demonstrating material diminution under the Tax Court’s approach. Stone will not manufacture that showing or rewrite the regulations. The Commissioner remains able to promulgate a clearer prospective rule within statutory authority.
+* **Boundary or Reserved Question:** Stone does not hold that charging expenses to income can never reduce a deduction. A governing instrument or actual administration that materially depletes or limits what passes to the spouse or charity may require adjustment. Section 642(g), principal-funded expenses, valuation disputes, and a properly preserved calculation method remain governed by their own provisions. Stone neither adopts nor rejects the date-of-death valuation theory, and the holding rests on materiality alone.
 
 # SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
