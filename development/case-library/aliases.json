@@ -1,0 +1,13 @@
+{
+  "_about": "Hand-kept short names, keyed by matter (term-No.). 'add' makes a word or two-word name stand for the decision even when the tool would not choose it; 'remove' stops a name the tool chose.",
+  "OT1991-88": {
+    "add": [
+      "Lujan"
+    ]
+  },
+  "OT1994-55": {
+    "add": [
+      "Travelers"
+    ]
+  }
+}
