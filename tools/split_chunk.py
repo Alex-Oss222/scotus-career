@@ -12,17 +12,26 @@ from pathlib import Path
 
 CASE_RE = re.compile(r"^##\s+(.+?)\s*$", re.M)
 SECTION_RE = re.compile(r"^###\s+SECTION\s+(I|II|III)\b.*$", re.M)
+# Briefs from OT1996 forward may put each case and its sections one level higher:
+# "# 1. Caption" and "# SECTION I — ...", with "## A." headings inside a section.
+TOP_CASE_RE = re.compile(r"^#\s+(\d+\.\s+.+?)\s*$", re.M)
+TOP_SECTION_RE = re.compile(r"^#\s+SECTION\s+(I|II|III)\b.*$", re.M)
 SECTION_COMMENT_RE = re.compile(r"<!--\s*(BEGIN|END)_SECTION\s+(I|II|III)\s*-->")
 
-def parse_cases(text: str):
-    matches = list(CASE_RE.finditer(text))
+def layout(text: str):
+    if TOP_CASE_RE.search(text) and TOP_SECTION_RE.search(text):
+        return TOP_CASE_RE, TOP_SECTION_RE
+    return CASE_RE, SECTION_RE
+
+def parse_cases(text: str, case_re=CASE_RE):
+    matches = list(case_re.finditer(text))
     for i, m in enumerate(matches):
         start = m.start()
         end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
         yield m.group(1).strip(), text[start:end].rstrip() + "\n"
 
-def split_case(name: str, block: str):
-    ms = list(SECTION_RE.finditer(block))
+def split_case(name: str, block: str, section_re=SECTION_RE):
+    ms = list(section_re.finditer(block))
     labels = [m.group(1) for m in ms]
     if labels.count("I") != 1 or labels.count("II") != 1 or labels.count("III") != 1:
         raise ValueError(f"{name}: expected exactly one live SECTION I, II, and III; found {labels}")
@@ -57,12 +66,17 @@ def main():
     ap.add_argument("--check", action="store_true")
     args = ap.parse_args()
     text = args.brief.read_text(encoding="utf-8")
-    title_end = text.find("\n## ")
+    case_re, section_re = layout(text)
+    if case_re is CASE_RE:
+        title_end = text.find("\n## ")
+    else:
+        first = case_re.search(text)
+        title_end = first.start() - 1 if first else -1
     preamble = text[:title_end].rstrip() + "\n\n" if title_end >= 0 else ""
     neutral_parts, stone_parts, comparator_parts = [], [], []
     count = 0
-    for name, block in parse_cases(text):
-        n, s, c = split_case(name, block)
+    for name, block in parse_cases(text, case_re):
+        n, s, c = split_case(name, block, section_re)
         neutral_parts.append(n); stone_parts.append(s); comparator_parts.append(c); count += 1
     if not count:
         raise SystemExit("no case blocks found")
