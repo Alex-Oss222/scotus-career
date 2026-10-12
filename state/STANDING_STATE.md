@@ -3,7 +3,7 @@
 **Opening October Term:** 1996  
 **Last completed October Term:** 1995
 **Processed through:** July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events.
-**Edition:** October 11, 2026
+**Edition:** October 7, 2026
 **State posture:** Opening of October Term 1996, before its first supplied event.
 **Controlled Justice:** Alex-Lamar Stone-Zsela, Chief Justice, Chief Justice line.
 
