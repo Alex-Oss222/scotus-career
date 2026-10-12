@@ -1,0 +1,1219 @@
+Source: https://www.govinfo.gov/content/pkg/STATUTE-108/pdf/STATUTE-108-Pg4279.pdf
+
+PUBLIC LAW 103-414—OCT. 25 1994 
+108 STAT. 4279 
+Public Law 103-414 
+103d Congress 
+An Act 
+To amend title 18, United States Code, to make clear a telecommunications carrier's 
+duty to cooperate in the interception of communications for law enforcement 
+piirposes, and for other purposes. 
+Be it enacted by the Senate and House of Representatives of 
+the United States of America in Confess 
+assembled, 
+TITLE I—INTERCEPTION OF DIGITAL 
+AND OTHER COMMUNICATIONS 
+SEC. 101. SHORT TITLE. 
+This title may be cited as the "Communications Assistance 
+for Law Enforcement Act". 
+SEC. 102. DEFINrnONS. 
+For purposes of this title— 
+(1) The terms defined in section 2510 of title 18, United 
+States Code, have, respectively, the meanings stated in that 
+section. 
+(2) The term "call-identifying information" means diaMng 
+or signaling information that identifies the origin, direction, 
+destination, or termination of each commiinication generated 
+or received by a subscriber by means of any equipment, facihty, 
+or service of a telecommunications carrier. 
+(3) The term "Commission" means the Federal Communica-
+tions Commission. 
+(4) The term "electronic messaging services" means soft-
+ware-based services that enable the sharing of data, images, 
+sound, writing, or other information among computing devices 
+controlled by &e senders or recipients of the messages. 
+(5) The term "govemmenf means the government of the 
+United States and any agency or instrumentality thereof, the 
+District of Columbia, any commonwealth, territory, or posses-
+sion of the United States, and any State or poUtical subchvision 
+thereof authorized by law to conduct electronic surveiUfince. 
+(6) The term "information services"— 
+(A) mezins the offering of a capabiHty for generating, 
+acquiring, storing, transforming, processing, retrieving, 
+utilizing, or making available information via telecommuni-
+cations; and 
+(B) includes— 
+Oct. 25, 1994 
+[H.R. 4922] 
+Communications 
+Assistance for 
+Law 
+Enforcement 
+Act. 
+47 u s e 1001 
+note. 
+47 u s e 1001. 
+
+
+108 STAT. 4280 
+PUBLIC LAW 103-414—OCT. 25, 1994 
+(i) a service that permits a customer to retrieve 
+stored information fh)m, or file information for storage 
+in, information storage faciHties; 
+(ii) electronic publishing; and 
+(iii) electronic messaging services; but 
+(C) does not include any capability for a teleconununi-
+cations carrier's internal management, control, or operation 
+of its telecommimications network. 
+(7) The term "telecommimications support services" means 
+a product, software, or service used by a telecommunications 
+carrier for the internal signaling or switching functions of its 
+telecommunications network. 
+(8) The term "teleconmiunications carrier"— 
+(A) means a person or entity engaged in the trans-
+mission or switching of wire or electronic conmiunications 
+as a common carrier for hire; and 
+(B) includes— 
+(i) a person or entity engaged in providing conuner-
+cial mobile service (as denned in section 332(d) of 
+the Communications Act of 1934 (47 U.S.C. 332(d))); 
+or 
+(ii) a person or entity engaged in providing wire 
+or electronic conmiunication switching or transmission 
+service to the extent that the Conmiission finds that 
+such service is a replacement for a substantial portion 
+of the local telephone exchange service and that it 
+is in the pubHc interest to deem such a person or 
+entity to be a telecommunications carrier for purposes 
+ofthis 
+titie;but 
+(C) does not include— 
+(i) persons or entities insofar as they are engaged 
+in providing information services; and 
+(ii) any class or category of teleconmiunications 
+carriers that the Commission exempts by rule after 
+consultation with the Attorney General. 
+47 use 1002. 
+SEC. 103. ASSISTANCE CAPABILITY REQUIREMENTS. 
+(a) CAPABIUTY REQUIREMENTS.—Except as provided in sub-
+sections (b), (c), and (d) of this section and sections 108(a) and 
+109(b) £ind (d), a telecommunications csirrier shall ensure that its 
+equipment, facilities, or services that provide a customer or sub-
+scriber with the abiUty to originate, terminate, or direct commimica-
+tions are capable of— 
+(1) expeditiously isolating and enabling the government, 
+pursuant to a court order or other lawful authorization, to 
+intercept, to the exclusion of any other communications, all 
+wire and electronic communications carried by the carrier 
+within a service area to or from equipment, facilities, or services 
+of a subscriber of such carrier concurrentiy with their trans-
+mission to or from the subscriber's equipment, facility, or serv-
+ice, or at such later time as may be acceptable to the 
+government; 
+(2) expeditiously isolating and enabling the government, 
+pursuant to a court order or other lawful authorization, to 
+access call-identifying information that is resisonably available 
+to the carrier— 
+
+
+PUBLIC LAW 103-414—OCT. 25 1994 
+108 STAT. 4281 
+(A) before, during, or immediately after the trans-
+mission of a wire or electronic conmiunication (or at such 
+later time as may be acceptable to the government); and 
+(B) in a manner that allows it to be associated with 
+the communication to which it pertains, 
+except that, with regard to information acquired solely pursuant 
+to the authority for pen registers and trap and trace devices 
+(as defined ia section 3127 of title 18, United States Code), 
+such caU-identlftdng information shall not include any informa-
+tion that may disclose the physical location of the subscriber 
+(except to the extent that the location may be determined 
+from the telephone niunber); 
+(3) delivering intercepted conmiunications and call-identify-
+ing information to the government, pursuEint to a court order 
+or other lawful authorization, in a format such that they may 
+be transmitted by means of equipment, facilities, or services 
+procured by the government to a location other than the prem-
+ises of the csirrier; and 
+(4) facUitating authorized communications interceptions 
+and access to call-identifying information unobtrusively and 
+with a minimum of interference with any subscriber's tele-
+conmiunications service and in a manner that protects— 
+(A) the privacy and security of communications and 
+caU-identifving information not authorized to be inter-
+cepted; £uia 
+(B) information regarding the govemmenfs intercep-
+tion of commimications and access to call-identifying 
+information. 
+(b) LIMITATIONS.— 
+(1) DESIGN OF FEATURES AND SYSTEMS CONFIGURATIONS.— 
+This title does not authorize any law enforcement agency or 
+officer— 
+(A) to require any specific design of equipment, facih-
+ties, services, features, or system configurations to be 
+adopted by any provider of a wire or electronic commimica-
+tion service, any manufacturer of telecommunications 
+equipment, or any provider of telecommunications support 
+services; or 
+(B) to prohibit the adoption of any equipment, facility, 
+service, or feature by any provider or a wire or electronic 
+communication service, any manufacturer of telecommuni-
+cations equipment, or any provider of telecommunications 
+support services. 
+(2) INFORMATION SERVICES; PRIVATE NETWORKS AND INTER-
+CONNECTION SERVICES AND FACILITIES.—The requirements of 
+subsection (a) do not apply to— 
+(A) information services; or 
+(B) equipment, facilities, or services that support the 
+trEinsport or switching of conmiunications for private net-
+works or for the sole purpose of interconnecting tele-
+communications carriers. 
+(3) ENCRYPTION.—A telecommunications carrier shall not 
+be responsible for decrypting, or ensuring the government's 
+abihty to decrypt, any communication encr3T)ted by a subscriber 
+or customer, unless the encryption was provided by tlie carrier 
+and the carrier possesses the information necessary to decrypt 
+the communication. 
+
+
+108 STAT. 4282 
+PUBLIC LAW 103-414—OCT. 25, 1994 
+(c) EMERGENCY OR EXIGENT CIRCUMSTANCES.—In emergency 
+or exigent circumstances (including those described in sections 2518 
+(7) or (ll)(b) and 3125 of title 18, United States Code, and section 
+1805(e) of title 50 of such Code), a carrier at its discretion may 
+comply with subsection (a)(3) by allowing monitoring at its premises 
+if that is the only means of accomplishing the interception or 
+access. 
+(d) MOBILE SERVICE ASSISTANCE REQUIREMENTS.—A tele-
+communications carrier that is a provider of commercial mobile 
+service (as defined in section 332(a) of the Conmiunications Act 
+of 1934) offering a feature or service that allows subscribers to 
+redirect, hand off, or assign their wire or electronic commu nications 
+to another service area or another service provider or to utiHze 
+facilities in another service area or of another service provider 
+shall ensure that, when the carrier that had been providing assist-
+ance for the interception of wire or electronic communications or 
+access to call-identifying information pursuant to a court order 
+or lawful authorization no longer has access to the content of 
+such communications or caU-identifying information within the serv-
+ice area in which interception has been occurring as a result of 
+the subscriber's use of such a feature or service, information is 
+made available to the government (before, during, or immediately 
+after the transfer of such communications) identifying the provider 
+of a wire or electronic communication service that has acquired 
+access to the conmiunications. 
+47 use 1003. 
+SEC. 104. NOTICES OF CAPACITY REQUIREMENTS. 
+(a) NOTICES OF MAXIMUM AND ACTUAL CAPACITY REQUIRE-
+MENTS.— 
+Federal 
+(1) IN GENERAL.—Not later than 1 year after the date 
+™?hi Winn 
+o^ enactment of this title, after consulting with State and local 
+law enforcement agencies, telecommunications carriers, provid-
+ers of telecommunications support services, and manufacturers 
+of telecommunications equipment, and after notice and com-
+ment, the Attorney General shall publish in the Federal Reg-
+ister and provide to appropriate telecommunications industry 
+associations and standara-setting organizations— 
+(A) notice of the actual nuniber of communication inter-
+ceptions, pen re^sters, and trap and trace devices, rep-
+resenting a portion of the maximum capacity set forth 
+under subparagraph (B), that the Attorney General esti-
+mates that government agencies authorized to conduct elec-
+tronic surveillance may conduct and use simultaneously 
+by the date that is 4 years after the date of enactment 
+of this title; and 
+(B) notice of the maximum capacity required to 
+accommodate all of the communication interceptions, pen 
+registers, and trap and trace devices that the Attorney 
+General estimates that government agencies authorized 
+to conduct electronic surveillance may conduct and use 
+simultaneously after the date that is 4 years after the 
+date of enactment of this titie. 
+(2) BASIS OF NOTICES.—^The notices issued under paragraph 
+( 1 ) -
+(A) may be based upon the type of equipment, type 
+of service, number of subscribers, type or size or carrier, 
+nature of service area, or any other measure; and 
+publication. 
+
+
+PUBLIC LAW 103-414—OCT. 25 1994 
+108 STAT. 4283 
+(B) shall identify, to the maximum extent practicable, 
+the capacity required at specific geographic locations. 
+(b) COMPLIANCE WITH CAPACITY NOTICES.— 
+(1) INITIAL CAPACITY.—Within 3 years after the pubUcation 
+by the Attorney General of a notice of capacity requirements 
+or within 4 years after the date of enactment of this title, 
+whichever is longer, a telecommunications carrier shall, subject 
+to subsection (e), ensure that its systems are capable of— 
+(A) accommodating simultaneously the mraiber of 
+interceptions, pen registers, and trap and trace devices 
+set form in the notice under subsection (a)(1)(A); and 
+(B) expanding to the maximum capacity set forth in 
+the notice under subsection (a)(1)(B). 
+(2) EXPANSION TO MAXIMUM CAPACITY.—After the date 
+described in paragraph (1), a telecommunications carrier shall, 
+subject to subsection (e), ensure that it can acconunodate 
+expeditiously any increase in the actual number of conmiunica-
+tion interceptions, pen registers, and trap and trace devices 
+that authorized agencies may seek to conduct and use, up 
+to the maximum capacity requirement set forth in the notice 
+imder subsection (a)(1)(B). 
+(c) 
+NOTICES OF INCREASED MAXIMUM CAPACITY REQUIRE-
+MENTS.— 
+(1) NOTICE.—^The Attorney General shall periodically pub- 
+Federal 
+lish in the Federal Register, after notice and comment, notice 
+r?^?^®!' 
+- 
+' 
+° 
+: 
+.x_ 
+. 
+.. 
+' 
+. 
+publication. 
+of any necessary increases m the maximum capacity require-
+ment set forth in the notice under subsection (a)(1)(B). 
+(2) COMPLIANCE.—^Within 3 years after notice of increased 
+maximum capacity requirements is published under paragraph 
+(1), or within such longer time period as the Attorney Greneral 
+may specify, a telecommunications carrier shall, subject to sub-
+section (e), ensure that its systems are capable of expanding 
+to the increased maximum capacity set forth in the notice. 
+(d) CARRIER STATEMENT.—Within 180 days after the publication 
+by the Attorney General of a notice of capacity requirements pursu-
+ant to subsection (a) or (c), a telecommunications carrier shall 
+submit to the Attorney General a statement identifying any of 
+its systems or services that do not have the capacity to accommodate 
+simultaneously the number of interceptions, pen registers, and trap 
+and trace devices set forth in the notice under such subsection. 
+(e) REIMBURSEMENT REQUIRED FOR COMPLL^NCE.—The Attorney 
+Greneral shall review the statements submitted under subsection 
+(d) and may, subject to the availability of appropriations, agree 
+to reimburse a telecommunications carrier for costs directiy associ-
+ated with modifications to attain such capacity requirement that 
+are determined to be reasonable in accordance with section 109(e). 
+Until the Attorney Greneral agrees to reimburse such carrier for 
+such modification, such carrier shaU be considered to be in compli-
+ance with the capacity notices under subsection (a) or (c). 
+SEC. 105. SYSTEMS SECURITY AND INTEGRITY. 
+47 USC 1004. 
+A telecommunications carrier shall ensure that any interception 
+of communications or access to call-identifying information effected 
+within its switching premises can be activated only in accordance 
+with a court order or other lawftd authorization and with the 
+affirmative intervention of an individual officer or employee of 
+
+
+108 STAT. 4284 
+PUBLIC LAW 103-414—OCT. 25, 1994 
+the carrier acting in accordance witii regulations prescribed by 
+tiie Commission. 
+47 use 1005. 
+SEC. 10& COOPERATION OF EQUIPMENT MANUFACTURERS AND 
+PROVIDERS OF TELECOMMUNICATIONS SUPPORT SERV-
+ICES. 
+(a) CONSULTATION.—^A telecommunications carrier shall consult, 
+as necessary, in a timely feshion with manufacturers of its tele-
+commimications transmission and switching equipment and its 
+providers of teleconununications support services for the purpose 
+of ensuring that current and planned equipment, facilities, and 
+services comply with the capability reqturements of section 103 
+and the capacity requirements identified by the Attorney General 
+under section 104. 
+(b) COOPERATION.—Subject to sections 104(e), 108(a), and 109 
+(b) £uid (d), a manufacturer of telecommunications transmission 
+or switching equipment and a provider of telecommunications sup-
+port services smll, on a reasonably timely basis and at a reasonable 
+charge, make available to the telecommunications carriers using 
+its equipment, facilities, or services such features or modifications 
+as are necessary to permit such carriers to comply with tiie capabil-
+ity requirements of section 103 and tiie capacity requirements 
+identLned by the Attorney General imder section 104. 
+47 use 1006. 
+SEC. 107. TECHNICAL REQUIREMENTS AND STANDARDS; EXTENSION 
+OF COMPLIANCE DATE. 
+(a) SAFE HARBOR.— 
+(1) CONSULTATION.—^To ensure the efficient and industry-
+wide implementation of the assistance capabiHty requirements 
+under section 103, the Attorney General, in coordination witi^i 
+other Federal, State, and local law enforcement agencies, shall 
+consult with appropriate associations and standard-setting 
+organizations oi the telecommunications industry, with rep-
+resentatives of users of telecommunications equipment, facili-
+ties, and services, and with State utihty commissions. 
+(2) COMPLIANCE UNDER ACCEPTED STANDARDS.—A tele-
+communications CEurier shall be found to be in compliance 
+with the assistance capability requirements under section 103, 
+and a manufacturer of telecommunications transmission or 
+switching equipment or a provider of telecommunications sup-
+port services shall be found to be in compliance with section 
+106, if the carrier, manufacturer, or support service provider 
+is in compUance with publicly available technical requirements 
+or standards adopted by an industry association or standard-
+setting organization, or by the Commission under subsection 
+(b), to meet the requirements of section 103. 
+(3) ABSENCE OF STANDARDS.—^The absence of technical 
+requirements or standards for implementing the assistance 
+capabUity requirements of section 103 shall not— 
+(A) preclude a telecommunications carrier, manufac-
+turer, or telecommunications support services provider fix)m 
+deploying a technology or service; or 
+(B) reheve a carrier, maniifacturer, or telecommuni-
+cations support services provider of the oljHgations imposed 
+by section 103 or 106, as applicable. 
+(b) COMMISSION AUTHORITY.—If industry associations or stand-
+ard-setting organizations fail to issue technical requirements or 
+standards or if a Government agency or any other person believes 
+
+
+PUBLIC LAW 103-414—OCT. 25 1994 
+108 STAT. 4285 
+that such requirements or standards are deficient, the agency or 
+person may petition the Commission to establish, by rule, technical 
+requirements or standards that— 
+(1) meet the assistance capabUity requirements of section 
+103 by cost-effective methods; 
+(2) protect the privacy and security of communications not 
+authorized to be intercepted; 
+(3) minimize the cost of such compliance on residential 
+ratepayers; 
+(4) serve the policy of the United States to encourage 
+the provision of new technologies and services to the public; 
+and 
+(5) provide a reasonable time and conditions for compliance 
+with and the transition to any new standard, including defining 
+the obUgations of telecommunications carriers under section 
+103 during any transition period. 
+(c) EXTENSION OF COMPLIANCE DATE FOR EQUIPMENT, FACIU-
+TiES, AND SERVICES.— 
+(1) PETITION.—^A telecommimications carrier proposing to 
+install or deploy, or having installed or deployed, any equip-
+ment, facility, or service prior to the effective date of section 
+103 may petition the Commission for 1 or more extensions 
+of the deadline for complying with the assistance capability 
+requirements under section 103. 
+(2) GROUNDS FOR EXTENSION.—^The Commission may, after 
+consultation with the Attorney General, grant an extension 
+under this subsection, if the Commission determines that 
+compliance with the assistance capability requirements under 
+section 103 is not reasonably achievable through apphcation 
+of technology available within the compHance period. 
+(3) LENGTH OF EXTENSION.—^An extension under this sub-
+section shall extend for no longer than the earlier of— 
+(A) the date determined by the Commission as nec-
+essary for the carrier to comply with the assistance capabil-
+ity requirements under section 103; or 
+(B) the date that is 2 years after the date on which 
+the extension is granted. 
+(4) APPUCABIUTY OF EXTENSION.—^An extension under this 
+subsection shall apply to only that part of the carrier's business 
+on which the new equipment, facility, or service is used. 
+SEC. 108. ENFORCEMENT ORDERS. 
+47 USC 1007. 
+(a) GROUNDS FOR ISSUANCE.—^A court shall issue an order 
+enforcing this title under section 2522 of title 18, United States 
+Code, only if the coiut finds that— 
+(1) alternative technologies or capabihties or the faciUties 
+of another carrier are not reasonably available to law enforce-
+ment for implementing the interception of commiinications or 
+access to call-identifying information; and 
+(2) compliance with the requirements of this title is reason-
+ably achievable through the apphcation of available technology 
+to the equipment, fecihty, or service at issue or would have 
+been reasonably achievaole if timely action had been taken. 
+(b) TIME FOR COMPLIANCE.—^Upon issuing an order enforcing 
+this title, the court shall specify a reasonable time and conditions 
+for compl3dng with its order, considering the good faith efforts 
+to comply in a timely manner, any effect on the carrier's, manufac-
+
+
+108 STAT. 4286 
+PUBLIC LAW 103-414—OCT. 25, 1994 
+turer's, or service provider's ability to continue to do business, 
+the degree of culpability or delay in undertaking efforts to comply, 
+and such other matters as justice may require. 
+(c) LIMITATIONS.—^An order enforcing tius title may not— 
+(1) require a telecommunications carrier to meet the 
+Government's demand for interception of communications and 
+acquisition of call-identifying information to any extent in 
+excess of the capacity for which the Attorney General has 
+agreed to reimburse such carrier; 
+(2) require any telecommunications carrier to comply with 
+assistance capabiUty requirement of section 103 if the Commis-
+sion has determinea (pursuant to section 109(b)(1)) that compli-
+ance is not reasonably achievable, imless the Attorney General 
+has agreed (pursuant to section 109(b)(2)) to pay the costs 
+described in section 109(bX2)(A); or 
+(3) require a telecommunications carrier to modify, for the 
+piUT)ose of complying with the assistance capability require-
+ments of section 103, any equipment, facihty, or service 
+deployed on or before January 1,1995, unless— 
+(A) the Attorney Greneral has agreed to pay the tele-
+communications carrier for all reasonable costs directiy 
+associated with modifications necessaiy to bring tie equip-
+ment, facility, or service into compliance with those require-
+ments; or 
+(B) the equipment, facility, or service has been replaced 
+or significantly upgraded or otherwise undergoes mjgor 
+modification. 
+47 u s e 1008. 
+SEC. 109. PAYMENT OF COSTS OF TELECOMMUNICATIONS CARRIERS 
+TO COMPLY WITH CAPABILHY REQUIREMENTS. 
+(a) EQUIPMENT, FACILITIES, AND SERVICES DEPLOYED ON OR 
+BEFORE JANUARY 1, 1995.—The Attorney General may, subject 
+to the availabiUtir of appn^riations, agree to pay telecommuni-
+cations carriers for all reascoiable costs directiy associated with 
+the modifications performed by carriers in connection with equip-
+ment, facilities, and services installed or deployed on or before 
+January 1, 1995, to establish the capabiUties necessary to comply 
+with section 103. 
+(b) EQUIPMENT, FACILITIES, AND SERVICES DEPLOYED AFTER 
+JANUARY 1,1995.— 
+(1) 
+I^TERMINATIONS 
+OF 
+REASONABLY ACHIEVABLE.—The 
+Commission, on petition fi*om a teleconmiunications carrier or 
+any other interested person, and after notice to the Attorney 
+General, shall determine whether compliance with the assist-
+ance capabiUty requirements of section 103 is reasonably 
+achievable witn respect to any equipment, facility, or service 
+installed or deployed after Januaiy 1, 1995. The Conmiission 
+shall make such determination within 1 year after the date 
+such petition is filed. In making such determination, the 
+Commission shall determine whether compUance would impose 
+significant difficulty or expense on the carrier or on the users 
+ofthe carrier's systems and shall consider the following factors: 
+(A) The effect on puWic safety and national security. 
+(B) The effect on rates for basic residential telephone 
+service. 
+(C) The need to protect the privacy and security of 
+communications not authorized to be Intercepted. 
+
+
+PUBLIC LAW 103-414—OCT. 25 1994 
+108 STAT. 4287 
+(D) The need to achieve the capabiHty assistance 
+requirements of section 103 by cost-effective methods. 
+(E) The effect on the nature and cost of the equipment, 
+faciUty, or service at issue. 
+(F) The effect on the operation of the equipment, facil-
+ity, or service at issue. 
+(G) The policy of the United States to encourage the 
+provision of new technologies and services to the pubUc. 
+(H) The financial resources of the telecommimications 
+carrier. 
+(I) The effect on competition in the provision of tele-
+communications services. 
+(J) The extent to which the design and development 
+of the equipment, facihty, or service was initiated before 
+January 1, 1995. 
+(K) Such other factors as the Commission determines 
+are appropriate. 
+(2) COMPENSATION.—If compliance with the assistance 
+capability requirements of section 103 is not reasonably achiev-
+able with respect to equipment, facilities, or services deployed 
+after January 1,1995— 
+(A) the Attorney General, on application of a tele-
+communications carrier, may agree, subject to the avEiilabil-
+ity of appropriations, to pay the telecommunications carrier 
+for the additional reasonable costs of making compUance 
+with such £issistance capability requirements resisonably 
+achievable; sind 
+(B) if the Attorney General does not agree to pay 
+such costs, the telecommunications carrier shall be deemed 
+to be in compliance with such capabiUty requirements. 
+(c) ALLOCATION OF FUNDS FOR PAYMENT.—The Attorney Gen-
+eral shall Edlocate funds appropriated to carry out this titie in 
+accordance with law enforcement priorities determined by the Attor-
+ney General. 
+(d) FAILURE TO MAKE PAYMENT WITH RESPECT TO EQUIPMENT, 
+FACILITIES, AND SERVICES DEPLOYED ON OR BEFORE JANUARY 1, 
+1995.—If a carrier has requested payment in accordance with proce-
+dures promulgated pursuant to subsection (e), and the Attorney 
+General has not agreed to pay the telecommunications carrier for 
+all reasonable costs directiy associated with modifications necessary 
+to bring any equipment, facility, or service deployed on or before 
+January 1, 1995, into compUance with the assistance capability 
+requirements of section 103, such equipment, faciUty, or service 
+shall be considered to be in compliance with the assistance capabil-
+ity requirements of section 103 until the equipment, facihty, or 
+service is replaced or significantiy upgraded or omerwise undergoes 
+major modification. 
+(e) COST CONTROL REGULATIONS.— 
+(1) IN GENERAL.—The Attorney General shall, after notice 
+£ind comment, establish regulations necessary to effectuate 
+timely and cost-efficient payment to telecommunications car-
+riers imder this titie, imder chapters 119 and 121 of titie 
+18, United States Code, and under the Foreign InteUigence 
+Surveillance Act of 1978 (50 U.S.C. 1801 et seq.). 
+(2) CONTENTS OF REGULATIONS.—The Attorney General, 
+after consultation with the Commission, shgill prescribe regula-
+tions for purposes of determining reasonable costs under this 
+
+
+108 STAT. 4288 
+PUBLIC LAW 103-414—OCT. 25, 1994 
+title. Such regulations shall seek to minimize the cost to the 
+Federal Government and shall— 
+(A) permit recovery from the Federal Grovemment of— 
+(i) the direct costs of developing the modifications 
+described in subsection (a), of providing the capabiUties 
+requested under subsection (b)(2), or of providing the 
+capacities requested under section 104(e), but omy to 
+the extent that such costs have not been recovered 
+from any other governmental or nongovernmental 
+entity; 
+(ii) the costs of training personnel in the use of 
+such capabilities or capacities; and 
+(iii) the direct costs of deploying or installing such 
+capabilities or capacities; 
+(B) in the case of any modification that may be used 
+for £inv purpose other than lawfiiUy authorized electronic 
+surveiUance by a law enforcement agency of a government, 
+permit recovery of only the incremental cost of making 
+the modification suitable for such law enforcement pur-
+poses; and 
+(C) maintain the confidentiahty of trade secrets. 
+(3) SUBMISSION OF CLAIMS.—Such regulations shall require 
+any telecommunications carrier that the Attorney Greneral has 
+agreed to pay for modifications pursuant to this section and 
+that has installed or deployed such modification to submit 
+to the Attorney General a claim for payment that contains 
+or is accompanied by such information as the Attorney General 
+may require. 
+47 use 1009. 
+SEC. 110. AUTHORIZATION OF APPROPRIATIONS. 
+There are authorized to be appropriated to carry out this title 
+a total of $500,000,000 for fiscal years 1995, 1996, 1997, and 1998. 
+Such sums are authorized to remain available until expended. 
+47 use 1001 
+SEC. 111. EFFECTIVE DATE. 
+(a) IN GENERAL.—Except as provided in subsection (b), this 
+title shall take effect on the date of enactment of this Act. 
+(b) ASSISTANCE CAPABIUTY AND SYSTEMS SECURITY AND INTEG-
+RITY REQUIREMENTS.—Sections 103 and 105 of this title shall take 
+effect on the date that is 4 years after the date of enactment 
+of this Act. 
+47 use 1010. 
+SEC. 112. REPORTS. 
+(a) REPORTS BY THE ATTORNEY GENERAL.— 
+(1) IN GENERAL.—On or before November 30, 1995, and 
+on or before November 30 of each year thereaftjer, the Attorney 
+General shall submit to Congress and make available to the 
+pubhc a report on the amounts paid during the preceding 
+nscal year to telecommunications carriers under sections 104(e; 
+and 109. 
+(2) 
+CONTENTS.—^A report under paragraph (1) shall 
+include— 
+(A) a detailed accounting of the amounts paid to each 
+carrier and the equipment, faciHty, or service for which 
+the amounts were paid; and 
+(B) projections of the amounts expected to be paid 
+in the current fiscal year, the carriers to which payment 
+
+
+PUBLIC LAW 103-414—OCT. 25 1994 
+108 STAT. 4289 
+is expected to be made, and the equipment, facilities, or 
+services for which payment is expected to be made, 
+(b) REPORTS BY THE COMPTROLLER GENERAL.— 
+(1) PAYMENTS FOR MODIFICATIONS.—On or before April 1, 
+1996, and every 2 years thereafter, the Comptroller General 
+of the United States, after consultation with the Attorney Gen-
+eral and the telecommunications industry, shall submit to the 
+Congress a report— 
+(A) describing the type of equipment, facilities, and 
+services tliat have been Drought into compliance under 
+this title; and 
+(B) reflecting its analysis of the reasonableness and 
+cost-effectiveness of the payments made by the Attorney 
+General to telecommunications carriers for modifications 
+necessary to ensure comphance with this titie. 
+(2) COMPLIANCE COST ESTIMATES.—A report under para-
+graph (1) shall include the findings and conclusions of the 
+Comptroller General on the costs to be incurred by tele-
+communications carriers to comply with the assistance capabil-
+ity requirements of section 103 after the effective date of such 
+section 103, including projections of the amounts expected to 
+be incurred and a description of the equipment, facilities, or 
+services for which they are expected to be inciured. 
+TITLE II—AMENDMENTS TO TITLE 18, 
+UNITED STATES CODE 
+SEC. 201. COURT ENFORCEMENT OF COMMUNICATIONS ASSISTANCE 
+FOR LAW ENFORCEMENT ACT. 
+(a) COURT ORDERS UNDER CHAPTER 119.—Chapter 119 of titie 
+18, United States Code, is amended by inserting after section 2521 
+the following new section: 
+'^§ 2522. Enforcement of the Communications Assistance for 
+Law Enforcement Act 
+"(a) ENFORCEMENT BY COURT ISSUING SURVEILLANCE ORDER.— 
+If a court authorizing an interception under this chapter, a State 
+statute, or the Foreign InteUigence Surveillance Act of 1978 (50 
+U.S.C. 1801 et secj.) or authorizing use of a pen register or a 
+trap and trace device under chapter 206 or a State statute finds 
+that a telecommunications carrier has failed to comply with the 
+requirements of the Communications Assistance for Law Enforce-
+ment Act, the court may, in accordance with section 108 of such 
+Act, direct that the carrier comply forthwith and may direct that 
+a provider of support services to the carrier or the manufacturer 
+of the carrier's transmission or switching equipment ftimish forth-
+with modifications necessary for the carrier to comply. 
+"(b) 
+ENFORCEMENT UPON APPLICATION BY ATTORNEY GEN-
+ERAL.—The Attorney General may, in a civil action in the appro-
+priate United States district court, obtain an order, in accordance 
+with section 108 of the Conmiunications Assistance for Law Enforce-
+ment Act, directing that a teleconmiunications carrier, a manufac-
+turer of telecommunications transmission or switching equipment, 
+or a provider of telecommunications support services comply with 
+such Act. 
+**(c) CIVIL PENALTY.— 
+
+
+108 STAT. 4290 
+PUBLIC LAW 103-414—OCT. 25, 1994 
+"(1) IN GENERAL.—A court issuing an order under this 
+section against a telecommunications carrier, a manufacturer 
+of telecommunications transmission or switching equipment, 
+or a provider of teleconmiunications support services may 
+impose a civil penalty of up to $10,000 per day for each day 
+in violation after the issuance of the order or after such ftiture 
+date as the court may specify. 
+"(2) CONSIDERATIONS.—In determining whether to impose 
+a civil penalty and in determining its amount, the court shall 
+take into account— 
+"(A) the nature, circimistances, and extent of the viola-
+tion; 
+"(B) the violator's abiUty to pay, the violator's good 
+faith efforts to comply in a timely manner, any effect on 
+the violator's ability to continue to do business, the degree 
+of culpability, and the length of any delay in undertaking 
+efforts to comply; and 
+"(C) such other matters as justice may require. 
+"(d) DEFINITIONS.—^As used in this section, the terms defined 
+in section 102 of the Commimications Assistance for Law Enforce-
+ment Act have the meanings provided, respectively, in such 
+section.". 
+(b) CONFORMING AMENDMENTS.— 
+(1) Section 2518(4) of titie 18, United States Code, is 
+amended by adding at the end the following new sentence: 
+"Pursuant to section 2522 of this chapter, an order may also 
+be issued to enforce the assistance capabiHty and capacity 
+requirements under the Commimications Assistance for Law 
+Enforcement Act.". 
+18 use 3124. 
+(2) Section 3124 of such titie is amended by adding at 
+the end the following new subsection: 
+"(f) 
+COMMUNICATIONS ASSISTANCE ENFORCEMENT ORDERS.— 
+Pursuant to section 2522, an order may be issued to enforce tiie 
+assistance capabiHty and capacity requirements under the Commu-
+nications Assistance for Law Enforcement Act". 
+(3) The table of sections at the beginning of chapter 119 
+of title 18, United States Code, is amended by inserting after 
+the item pertaining to section 2521 the following new item: 
+"2522. Enforcement of the Communications Assistance for Law Enforcement Act.". 
+SEC. 202. CORDLESS TELEPHONES. 
+(a) DEFINITIONS.—Section 2510 of titie 18, United States Code, 
+is amended— 
+(1) in paragraph O), by striking ", but such term does 
+not include and all that foUows tnrough "base unit"; and 
+(2) in paragraph (12), by striking siibparagraph (A) and 
+redesignating subparagraphs (B), (C), and (D) as subparagraphs 
+(A), (B), and (C), respectively. 
+(b) PENALTY.—Section 2511 of titie 18, United States Code, 
+is amended— 
+(1) in subsection (4)(b)(i) by inserting "a cordless telephone 
+conununication that is transmitted between the cordless tele-
+phone handset and the base unit," after "cellular telephone 
+communication,"; and 
+(2) in subsection (4)(b)(ii) by inserting "a cordless telephone 
+conmiunication that is transmitted between the cordless tele-
+
+
+PUBLIC LAW 103-414—OCT. 25 1994 
+108 STAT. 4291 
+phone handset and the base unit," after "cellular telephone 
+communication,". 
+SEC. 203. RADIO-BASED DATA COMMUNICATIONS. 
+Section 2510(16) of title 18, United States Code, is amended— 
+(1) by striking "or^ at the end of subparagraph (D); 
+(2) by inserting "or^ at the end of subparagraph (E); and 
+(3) by inserting after subparagraph (E) the following new 
+subparagraph: 
+"(F) an electronic conmiunication;". 
+SEC. 204. PENALTIES FOR MONITORING RADIO COMMUNICATIONS 
+THAT ARE TRANSMITTED USING MODULATION TECH-
+NIQUES WITH NONPUBLIC PARAMETERS. 
+Section 2511(4)(b) of title 18, United States Code, is amended 
+by striMng "or encrypted, then" and inserting ", encrypted, or 
+transmitted using modulation techniques the essential parameters 
+of which have been withheld from tne pubHc with the intention 
+of preserving the privacy of such communication, then". 
+SEC. 205. TECHNICAL CORRECTION. 
+Section 2511(2)(a)(i) of titie 18, United States Code, is amended 
+by striking "used in the transmission of a wire conmiunication" 
+and inserting "used in the transmission of a wire or electronic 
+communication". 
+SEC. 206. FRAUDULENT 
+ALTERATION 
+OF 
+COMMERCIAL 
+MOBILE 
+RADIO INSTRUMENTS. 
+(a) OFFENSE.—Section 1029(a) of titie 18, United States Code, 
+is amended— 
+(1) by striking "or" at the end of paragraph (3); and 
+(2) by inserting afl»r paragraph (4) the following new para-
+graphs: 
+"(5) knowiogly and with intent to defraud uses, produces, 
+traffics in, has control or custody of, or possesses a tele-
+communications instrument that has been modified or altered 
+to obtain unauthorized use of telecommimications services; or 
+"(6) knowingly and with intent to defraud uses, produces, 
+traffics in, has control or custody of, or possesses— 
+"(A) a scanning receiver; or 
+"(B) hardware or software used for altering or modify-
+ing telecommunications instruments to obtsdn unauthorized 
+access to telecommunications services,". 
+(b) PENALTY.—Section 1029(c)(2) of titie 18, United States Code, 
+is amended by striking "(a)(1) or (a)(4)" and inserting "(a) (1), 
+(4), (5), or (6)". 
+(c) DEFINITIONS.—Section 1029(e) of titie 18, United States 
+Code, is amended— 
+(1) in paragraph (1) by inserting "electronic serial niunber, 
+mobile identification nunmer, personal identification nmnber, 
+or other teleconmiunications service, equipment, or instrument 
+identifier," after "account nimiber,"; 
+(2) by striking "and" at the end of paragraph (5); 
+(3) by striking the period at the end of paragraph (6) 
+and inserting "; and"; and 
+(4) by adding at the end the following new paragraph: 
+79-194 O—95—26 : QL 3 Part 5 
+
+
+108 STAT. 4292 
+PUBLIC LAW 103-414—OCT. 25, 1994 
+"(7) the term 'scanning receiver' means a device or appara-
+tus that can be used to intercept a wire or electronic commu-
+nication in violation of chapter 119.". 
+SEC. 207. TRANSACTIONAL DATA. 
+(a) DISCLOSURE OF RECORDS.—Section 2703 of title 18, United 
+States Code, is amended— 
+(1) in subsection (c)(1)— 
+(A) in subparagraph (B)— 
+(i) by striking clause (i); and 
+(ii) Dy redesignating clauses (ii), (iii), and (iv) as 
+clauses (i), (ii), and (iii), respectively; and 
+(B) by adding at the end the following new subpara-
+graph: 
+"(C) A provider of electronic communication service or remote 
+computing service shall disclose to a governmental entity the name, 
+address, telephone toll billing records, telephone number or other 
+subscriber nimiber or identity, and length or service of a subscriber 
+to or customer of such service and the types of services the sub-
+scriber or customer utilized, when the governmental entity uses 
+an administrative subpoena authorized by a Federal or State statute 
+or a Federal or State grand jury or trial subpoena or any means 
+available under subparagraph (B)."; and 
+(2) by amending the first sentence of subsection (d) to 
+read as follows: **A court order for disclosure under subsection 
+(b) or (c) may be issued by any court that is a cotu*t of competent 
+jurisdiction described in section 3126(2)(A) and shall issue only 
+if the govemmentsd entity offers specific and articulable facts 
+showing that there are reasonable grounds to believe that the 
+contents of a wire or electronic communication, or the records 
+or other information sought, are relevant and material to an 
+ongoing criminal investigation.". 
+(b) PEN REGISTERS AND TRAP AND TRACE DEVICES.—Section 
+3121 of title 18, United States Code, is amended— 
+(1) by redesignating subsection (c) as subsection (d); and 
+(2) by inserting after subsection (b) the following new sub-
+section: 
+"(c) LIMITATION.—^A government agency authorized to install 
+and use a pen register under this chapter or under State law 
+shall use technology reasonably available to it that restricts the 
+recording or decoding of electronic or other impulses to the diahng 
+and signaling information utiUzed in call processing.". 
+SEC. 208. AUTHORIZATION FOR ACTING DEPUTY ATTORNEYS GEN-
+ERAL IN THE CRIMINAL DIVISION TO APPROVE CERTAIN 
+COURT APPLICATIONS. 
+Section 2516(1) of title 18, United States Code, is amended 
+by inserting "or acting Deputy Assistant Attorney General" after 
+"Deputy Assistant Attorney General". 
+TITLE III—AMENDMENTS TO THE 
+COMMUNICATIONS ACT OF 1934 
+SEC. 301. COMPLIANCE COST RECOVERY. 
+Title II of the Communications Act of 1934 is amended by 
+inserting after section 228 (47 U.S.C. 228) the following new section: 
+
+
+PUBLIC LAW 103-414—OCT. 25 1994 
+108 STAT. 4293 
+"SEC. 229. COMMUNICATIONS ASSISTANCE FOR LAW ENFORCEMENT 
+ACT COMPLIANCE. 
+"(a) IN GENERAL.—^The Commission shall prescribe such rules 
+Regulations, 
+as are necessary to implement the requirements of the Communica-
+tions Assist£ince for Law Enforcement Act. 
+"(b) SYSTEMS SECURITY AND INTEGRITY.—The rules prescribed 
+pursuant to subsection (a) shall include rules to implement section 
+105 of the Communications Assistance for Law Enforcement Act 
+that require conmion carriers— 
+"(1) to establish appropriate poHcies and procedures for 
+the supervision and control of its officers and employees— 
+"(A) to require appropriate authorization to activate 
+interception of communications or access to call-identifying 
+information; and 
+"(B) to prevent any such interception or access without 
+such authorization; 
+/^ 
+"(2) to maintain secure and accurate records of any inter-
+ception or access with or without such authorization; and 
+"(3) to submit to the Commission the poUcies and proce-
+diu«s adopted to comply with the requirements established 
+imder paragraphs (1) and (2). 
+"(c) COMMISSION REVIEW OF COMPLIANCE.—The Commission 
+shEill review the poUcies and procedures submitted under subsection 
+(b)(3) and shsdl order a common carrier to modify any such poUcy 
+or procedure that the Commission determines does not comply 
+with Commission regulations. The Conmiission shall conduct such 
+investigations as may be necessary to insure compliance by common 
+CEirriers with the requirements of the regulations prescribed under 
+this section. 
+"(d) PENALTIES.—For purposes of this Act, a violation by an 
+officer or employee of any pohcy or procedure adopted by a common 
+carrier pursuant to subsection (b), or of a rule prescribed by tiie 
+Commission pursuant to subsection (a), shall be considered to be 
+a violation by the csirrier of a rule prescribed by the Commission 
+pursuant to this Act 
+"(e) 
+COST RECOVERY FOR COMMUNICATIONS ASSISTANCE FOR 
+LAW ENFORCEMENT ACT COMPLIANCE.— 
+"(1) PETITIONS AUTHORIZED.—A common carrier may peti-
+tion the Commission to adjust charges, practices, classifications, 
+and regulations to recover costs expended for making modifica-
+tions to equipment, facihties, or services pursuant to the 
+requirements of section 103 of the Commimications Assistance 
+for Law Enforcement Act 
+"(2) COMMISSION AUTHORITY.—The Commission may grant, 
+with or without modification, a petition under paragraph (1) 
+if the Commission determines that such costs are reasonable 
+and that permitting recovery is consistent with the pubhc 
+interest The Commission may, consistent with maintaining 
+just and reasonable charges, practices, classifications, and regu-
+lations in connection with the provision of interstate or foreign 
+communication by wire or radio by a common carrier, allow 
+carriers to adjust such charges, practices, classifications, and 
+regulations in order to carry out the purposes of tiiis Act. 
+"(3) JOINT BOARD.—^The Commission shall convene a Fed-
+eral-State joint board to recommend appropriate changes to 
+part 36 of the Commission's rules wim respect to recovery 
+
+
+108 STAT. 4294 
+PUBLIC LAW 103-414—OCT. 25, 1994 
+of costs pursuant to charges, practices, classifications, and regu-
+lations under the jurisdiction of the Commission.". 
+SEC. 302. RECOVERY OF COST OF COMMISSION PROCEEDINGS. 
+The schedule of application fees in section 8(g) of the Commu-
+nications Act of 1934 (47 U.S.C. 158(g)) is amended by inserting 
+under item 1 of the matter pertaining to common carrier services 
+the following additional subitem: 
+"d. Proceeding under section 109(b) of the Communications Assist-
+ance for Law Enforcement Act 
+5,000". 
+SEC. 303. CLERICAL AND TECHNICAL AMENDMENTS. 
+(a) AMENDMENTS TO THE COMMUNICATIONS ACT OF 1934.— 
+The Communications Act of 1934 is amended— 
+47 use 154. 
+(1) in section 4(f)(3), by striking "overtime exceeds beyond" 
+and inserting "overtime extends beyond"; 
+47 use 155. 
+(2) in section 5, by redesignating subsection (f) as sub-
+47 use 158. 
+(3) in section 8(d)(2), by striking "payment of a" and insert-
+ing 'payment of an"; 
+(4) in the schedule contained in section 8(g), in item IS. 
+under the heading "EQUIPMENT APPROVAL SERVICES/EXPERI-
+MENTAL RADIO" by striking "Additional Charge" and inserting 
+"Additional AppUcation Fee"; 
+47 use 159. 
+(5) in section 9(f)(1), by inserting before the second sentence 
+the following: 
+"(2) INSTALLMENT PAYMENTS.—"; 
+(6) in the schedule contained in section 9(g), in the item 
+pertaining to interactive video data services under the private 
+radio bureau, insert "95" after "47 C.F.R. Partf'; 
+47 use 220. 
+(7) in section 220(a>— 
+(A) by inserting "(1)" after "(a)"; and 
+(B) by adding at the end the following new paragraph: 
+Regulations. 
+"(2) The Commission shall, by rule, prescribe a uniform system 
+of accounts for use by telephone companies. Such uniform system 
+shall require that each common carrier shall maintain a system 
+of accounting methods, procedures, and techniques (including 
+accounts and supporting records and memoranda) which shall 
+ensure a proper Eillocation of all costs to and among telecommuni-
+cations services, facUities, and products (and to and among classes 
+of such services, faciUties, and products) which are developed, manu-
+factured, or offered by such common carrier."; 
+(8) in section 220(b), by striking "clasess" and inserting 
+"classes"-
+47 use 223. 
+(9) in section 223(b)(3), by striking "defendant restrict 
+access" and inserting "defendant restricted access"; 
+47 use 226. 
+(10) in section 226(d), by striking paragraph (2) and 
+redesignating paragraphs (3) and (4) as paragraphs (2) and 
+(3), respectively; 
+47 use 227. 
+(11) in section 227(b)(2)(C), by striking "paragraphs" and 
+inserting "paragraph"; 
+(12) in section 227(e)(2), by striking "national datebase" 
+and inserting "national database ; 
+47 use 228. 
+(13) in section 228(c), by redesignating the second para-
+graph (2) and paragraphs (3) through (6) as paragraphs (3) 
+through (7), respectively; 
+(14) in section 228(c)(6)(D), by striking "conservation" and 
+inserting "conversation"; 
+
+
+PUBLIC LAW 103-414—OCT. 25 1994 
+108 STAT. 4295 
+(15) in section 308(c), by striking "May 24, 1921" and 47USC308. 
+inserting "May 27, 1921"; 
+(16) in section 309(c)(2XF), by striking "section 325(b)" 47USC309. 
+and inserting "section 325(c)"; 
+(17) in section 309(i)(4)(A), by striking "Communications 
+Technical Amendments Act of 1982" and inserting "Commimica-
+tions Amendments Act of 1982"; 
+(18) in section 331, by amending the heading of such section 47 use 331. 
+to read as follows: 
+"VERY HIGH FREQUENCY STATIONS AND AM RADIO STATIONS"; 
+(19) in section 358, by striking "(a)"; 
+47 use 356. 
+(20) in part III of titie III— 
+(A) by inserting before section 381 the following 47 use 381. 
+heading: 
+"VESSELS TRANSPORTING MORE THAN SIX PASSENGERS FOR HIRE 
+REQUIRED TO BE EQUIPPED WITH RADIO TELEPHONE"; 
+(B) by inserting before section 382 the following 
+47 use 382. 
+heading: 
+"VESSELS EXCEPTED FROM RADIO TELEPHONE REQUIREMENT"; 
+(C) by inserting before section 383 the following 
+47 use 383. 
+heading: 
+"EXEMPTIONS BY COMMISSION"; 
+(D) by inserting before section 384 the following 
+47 use 384. 
+heading: 
+"AUTHORITY OF COMMISSION; OPERATIONS, INSTALLATIONS, AND 
+ADDITIONAL EQUIPMENT"; 
+(E) by inserting before section 385 the following 
+47 use 385. 
+heading: 
+"INSPECTIONS"; and 
+(F) by inserting before section 386 the following 
+47 use 386. 
+heading: 
+"FORFEITURES"; 
+(21) in section 410(c), by striking ", as referred to in sections 
+47 USC 410. 
+202(b) and 205(f) of the Interstate Commerce Act,"; 
+(22) in section 613(b)(2), by inserting a comma after "pole" ^7 use 533. 
+find 
+fljtt^i* IT TIP 
+(23) in section 624(d)(2XA), by inserting "of aft«r "viewing"; 47 USC 544. 
+(24) in section 634(h)(1), by striking "section 602(6X1)" 47 USC 554. 
+and inserting "section 602(7XA)"; 
+(25) in section 705(d)(6), by striking "subsection (d)" and 
+47 use 605. 
+inserting "subsection (e)"; 
+(26) in section 705(e)(3)(A), by striking "paragraph (4) of 
+subsection (d)" and inserting "paragraph (4) of this subsection"; 
+(27) in section 705, by redesignating subsections (f) and 
+(g) (as added by Public Law 100-667) as subsections (g) and 
+(h);and 
+
+
+108 STAT. 4296 
+PUBLIC LAW 103-414—OCT. 25, 1994 
+47 use 605. 
+(28) in section 705(h) (as so redesignated), by striking "sub-
+section (f)" and inserting "subsection (g)". 
+(b) AMENDMENTS TO THE COMMUNICATIONS SATELLITE ACT OF 
+1962.—^The Communications Satellite Act of 1962 is amended— 
+47 use 733. 
+(1) in section 303(a)— 
+(A) by striking "section 27(d)" and inserting "section 
+327(d)"* 
+(B)'by striking "sec. 29-911(d)" and inserting "sec. 29-
+327(d)"; 
+(C) by striking "section 36" and inserting "section 336"; 
+and 
+(D) by striking "sec. 29-916d" and inserting "section 
+29-336(d)"; 
+47 use 734. 
+(2) in section 304(d), by striking "paragraphs (1), (2), (3), 
+(4), and (5) of section 310(a)" and inserting "subsection (a) 
+and paragraphs (1) through (4) of subsection (b) of section 
+310"; and 
+(3) in section 304(e)— 
+(A) by striking "section 45(b)" and inserting "section 
+345(b)"; and 
+(B) by striking "sec. 29-920(b)" and inserting "sec. 29-
+345(b)"; and 
+47 use 751,752. 
+(4) in sections 502(b) and 503(a)(1), by striking "the 
+Communications Satellite Corporation" and inserting "the 
+communications satellite corporation established pursuant to 
+title III of this Act". 
+(c) AMENDMENT TO THE CHILDREN'S TELEVISION ACT OF 1990.— 
+Section 103(a) of the Children's Television Act of 1990 (47 U.S.C. 
+303b(a)) is amended by striking "noncommerical" and inserting 
+"noncommercial". 
+(d) AMENDMENTS TO THE TELECOMMUNICATIONS AUTHORIZATION 
+ACT OF 1992.—Section 205(1) of the Telecommunications Authoriza-
+47 use 318. 
+tion Act of 1992 is amended— 
+(1) by inserting an open parenthesis before "other than"; 
+and 
+(2) by inserting a comma after "stations)". 
+(e) CONFORMING AMENDMENT.—Section 1253 of the Omnibus 
+Budget Reconciliation Act of 1981 is repealed. 
+47 use 701 note. 
+(f) STYLISTIC CONSISTENCY.—The Communications Act of 1934 
+and the Communications Satellite Act of 1962 are amended so 
+that the section designation and section heading of each section 
+of such Acts shall be in the form and typeface of the section 
+designation and heading of this section. 
+SEC. 304. ELIMINATION OF EXPIRED AND OUTDATED PROVISIONS. 
+(a) AMENDMENTS TO THE COMMUNICATIONS ACT OF 1934.— 
+The Communications Act of 1934 is amended— 
+47 use 157. 
+(1) in section 7(b), by striking "or twelve months after 
+the date of the enactment of this section, if later" both places 
+it appears; 
+47 use 212. 
+(2) in section 212, by striking "After sixty days from the 
+enactment of this Act it shall" and inserting "It shall"; 
+47 use 213. 
+(3) in section 213, by striking subsection (g) and redesignat-
+ing subsection (h) as subsection (g); 
+47 use 214. 
+(4) in section 214, by striking "section 221 or 222" and 
+inserting "section 221"; 
+47 use 220. 
+(5) in section 220(ID), by striking ", as soon as practicable,"; 
+
+
+PUBLIC LAW 103-414—OCT. 25 1994 
+108 STAT. 4297 
+(6) by striking section 222; 
+47 USC 222. 
+(7) in section 224(b)(2), by striking "Within 180 days from 47 USC 224. 
+the date of enactment of this section the Commission" and 
+inserting "The Commission"; 
+(8) in 226(e), by striking "within 9 months after the date 
+47 USC 226. 
+of enactment of this section,"; 
+(9) in section 309(i)(4)(A), by striking "The commission, 47 USC 309. 
+not later than 180 days after the date of the enactment of 
+the Communications Technical Amendments Act of 1982, shall," 
+and inserting "The Commission shall,"; 
+(10) by striking section 328; 
+47 USC 328. 
+(11) in section 413, by striking ", within sixty days after 
+47 USC 413. 
+the taking effect of this Act,"; 
+(12) in section 624(dX2XB)— 
+47 USC 544. 
+(A) by striking out "(A)"; 
+(B) by inserting "of* after "restrict the viewing"; and 
+(C) by striking subparagraph (B); 
+(13) by striking sections 702 and 703; 
+47 USC 602, 703. 
+(14) in section 704— 
+47 USC 604. 
+(A) by strikinjg subsections (b) and (d); and 
+(B) by redesignating subsection (c) as subsection (b); 
+(15) in section 705(g) (as redesignated by section 304(25)), 47 use 605. 
+by striking "within 6 months after the date of enactment of 
+the SateUite Home Viewer Act of 1988, the Federal Communica-
+tions Commission" and inserting "The Commission"; 
+(16) in section 710(0— 
+47 USC 610. 
+(A) by striking the first and second sentences; and 
+(B) in the third sentence, by striking "Thereafter, the 
+Commission" and inserting "The Commission"; 
+(17) in section 712(a), by striking ", within 120 days after 
+47 USC 612. 
+the effective date of the SateUite Home Viewer Act of 1988,"; 
+and 
+(18) by striking section 713. 
+47 use 613. 
+(b) AMENDMENTS TO THE COMMUNICATIONS SATELUTE ACT OF 
+1962.—The Communications Satellite Act of 1962 is amended— 
+(1) in section 201(a)(1), by striking "as expeditiously as 47 USC 721. 
+possible,"; 
+(2) by striking sections 301 smd 302 and inserting the 
+following: 
+"SEC. 301. CREATION OF CORPORATION. 
+47 USC 731. 
+"There is authorized to be created a communications satellite 
+corporation for profit which wiU not be an agency or establishment 
+of me United States Government. 
+"SEC. 302. APPLICABLE LAWS. 
+47 USC 732. 
+"The corporation shall be subject to the provisions of this Act 
+and, to the extent consistent with this Act, to the District of Colimi-
+bia Business Corporation Act. The right to repeal, alter, or amend 
+this Act at any time is expressly reserved."; 
+(3) in section 304(a), by striking "at a price not in excess 
+47 use 734. 
+of $100 for each share and"; 
+(4) in section 404r- 
+47 USC 744. 
+(A) by striking subsections (a) and (c); and 
+(B) by redesignating subsection (b) as section 404; 
+(5) in section 503— 
+47 USC 752. 
+(A) by striking paragraph (2) of subsection (a); and 
+
+
+108 STAT. 4298 
+PUBLIC LAW 103-414—OCT. 25, 1994 
+(B) by redesignating paragraph (3) of subsection (a) 
+as paragraph (2) of such subsection; 
+(C) by stirikin^ subsection (b); 
+(D) in subsection (g)— 
+(i) by sticking "subsection (c)(3)" and inserting 
+"subsection (b)(3)"; and 
+(ii) by stiiking tiie last sentence; and 
+(E) by redesignating subsections (c) through (h) as 
+subsections (b) through (g), respectively; 
+47 use 754-756. 
+(5) by striking sections 505, 506, and 507; and 
+47 use 757. 
+(6) by redesignating section 508 as section 505. 
+Approved October 25, 1994. 
+LEGISLATIVE HISTORY—H.R. 4922: 
+eONGRESSIONAL REeORD, Vol. 140 (1994): 
+Oct. 4, 5, considered and passed House. 
+Oct. 6, considered and passed Senate. 

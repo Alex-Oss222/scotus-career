@@ -1,0 +1,49 @@
+# Yang — additive authoritative neutral repair
+
+**Status:** Fresh neutral validation complete for the identified statutory repair. This additive handoff governs over the Yang eligibility shorthand and categorical delayed-review assertion retained in the earlier neutral packet. Existing frozen files remain unchanged. It supplies no Justice commitment, jurisdictional holding, preferred disposition, or Court event.
+
+**Event and cutoff:** INS v. Yueh-Shaio Yang, No. 95-938; scheduled November 13, 1996. Legal sources must be effective by that date. Retrieval and validation occurred October 12, 2026.
+
+**Scope and isolation:** Read with the Yang sections of [clean A](OT_1996CHUNK1_NEUTRAL_A.md) and [A additions](OT_1996CHUNK1_NEUTRAL_A_ADDITIONS.md), the [fresh validation entrypoint](OT_1996CHUNK1_NEUTRAL_VALIDATED.md), [sanitized projection](../workspace/neutral-projection.md), and relevant [A entering law](../entering-law/OT_1996CHUNK1_A.md). This validator received no comparator, commitments, reconciliation, current-matter Supreme Court disposition, Stone supplement, original brief, runtime packet, Record, or audit. General model knowledge is not represented as erased. No Git command was run, no locked directory was read or searched, and only this additive handoff and its Askin counterpart were written.
+
+## Verified statutory qualifications
+
+The [source correction](YANG_TRANSITION_CORRECTION.md) accurately completes former INA §241(a)(1)(H). Eligibility requires the specified family relationship to a citizen or lawful permanent resident, possession of an immigrant visa or equivalent document, and admissibility at entry except for the grounds under §1182(a)(5)(A) and §1182(a)(7)(A) that directly resulted from the fraud or misrepresentation. Those two exceptions concern labor certification and immigrant documentation; the causal condition applies to them. They are not an exception for every admissibility defect.
+
+The exclusion for an alien described in §1251(a)(4)(D), concerning Nazi persecution or genocide, is separate. The waiver is discretionary. Its consequential clause operates when a waiver is granted and also waives deportation based on inadmissibility grounds at entry directly resulting from the fraud or misrepresentation. Eligibility, the exclusion, the scope of an actually granted waiver, and permissible discretionary considerations are distinct questions. The agency accepted eligibility here; completion of the statute creates no new eligibility dispute.
+
+The Government petition's printed pages 2–4 reproduce these provisions. That reproduction contains explanatory brackets and OCR defects and is not certified as a typographically exact official Code transcription. No long primary-source text has been retyped into this handoff.
+
+## Corrected transition architecture
+
+Read the original [§306](sources/IIRIRA_306_text.txt) and [§309](sources/IIRIRA_309_text.txt) together with [Public Law 104-302](sources/PLAW_104_302_text.txt). The original section files alone are not the statute as corrected at this event.
+
+- Section 309(a) generally commences Title III-A on April 1, 1997. Its express exceptions are §309 itself and §§303(b)(2), 306(c), 308(d)(2)(D), and 308(d)(5).
+- Public Law 104-302 §2, approved October 11, 1996 but expressly effective September 30, 1996, changes §306(c)(1)'s main applicability instruction to the operation supplied by §309, while retaining a separate exception for new §242(g). It changes §309(c)(1)'s description to proceedings before the general effective date and removes §309(c)(4)'s restriction to the case described in paragraph (1).
+- Corrected §309(c)(1), subject to its succeeding provisions, preserves proceedings and judicial review without the new amendments for the described pre-effective-date proceedings. Paragraphs (2) and (3) provide limited agency elections; neither an election nor its necessary predicates may be invented here.
+- Corrected §309(c)(4) concerns a final exclusion or deportation order entered more than thirty days after September 30, 1996. Its discretionary-decision list is INA §§212(c), 212(h), 212(i), 244, and 245. It does not list former §241(a)(1)(H). The supplied 1995 administrative/judicial posture does not establish a newly entered final order after the transition trigger. The scheduled November 1996 Supreme Court event is not that administrative trigger.
+- New permanent §242(a)(2)(B)(i) separately lists §§212(h), 212(i), 240A, 240B, and 245. Clause (ii) separately concerns other decisions or actions whose authority the INA specifies to be discretionary, except granting §208(a) relief. Neither the permanent list nor its broader clause can be silently substituted for the transitional list.
+- Section 306(c)(1) retains §242(g)'s reach to claims from past, pending, or future exclusion, deportation, or removal proceedings. Section 242(g) identifies decisions or actions to commence proceedings, adjudicate cases, or execute removal orders, and preserves its exception for review provided in §242. Its text and its relationship to the corrected saving rules require construction.
+- Section 306(c)(2) separately protects judgments and orders under former §106, as amended by AEDPA §440, against invalidation or compelled reconsideration by paragraph (1). Section 306(d)'s criminal-offense technical amendment is effective as if included in AEDPA. The supplied record establishes no covered Yang criminal conviction. Agency findings of fraud do not themselves supply a criminal-review-bar predicate.
+
+## Supported threshold paths; none selected
+
+**Preserved-review path.** The existing proceedings and 1995 judgment support applying the old review channel under corrected §309, without the permanent discretionary restriction or a newly triggered transitional list. A temporal construction may distinguish §242(g)'s retrospective range of proceedings from the date on which the new jurisdictional provision begins operating. On that construction, the past/pending/future words do not alone make it operative before the general effective date. This route must answer §309(a)'s express §306(c) exception and the corrected §306(c)(1) exception; saying merely that IIRIRA is delayed does not answer them.
+
+**Earlier-operation objection.** The express §309(a) exception and §306(c)(1)'s separate treatment of §242(g) support the competing construction that this restriction can operate before April 1, 1997 and reach a pending claim. That argument must still establish that this particular scope-of-waiver-discretion claim arises from one of the three identified decisions or actions, reconcile preserved judicial review and §306(c)(2), and address the review exception in §242(g). The words concerning adjudicating cases cannot be assumed either to cover every immigration legal question or to exclude this one without construction.
+
+**Independent scope question.** Even if §242(g) is already operative, the modeler must distinguish the legal limits on waiver discretion from the decision or action to adjudicate a case and explain the significance of that distinction under the enacted text. Conversely, a jurisdictional objection must address why the legal challenge falls within the restriction despite the saved proceeding. These are newly articulated analytical possibilities, not claims that a party filed an unrecovered argument. No later Supreme Court construction supplies the answer.
+
+Resolve the supported threshold inquiry before selecting a merits path. A threshold disposition supplies no merits holding. If review remains available, the existing broad-discretion, qualifying-fraud distinction, and waiver-purpose paths remain available on the recovered agency reasons. Neither this repair nor the entering-law analogies authorize the Court to reweigh the equities or direct a waiver. NCIR remains a statutory-boundary analogy; Smiley/Good Samaritan preserve explained-change and reliance limits without establishing that the BIA changed a binding policy here.
+
+## Source map and precise limits
+
+| Source checked | What it establishes; limit |
+|---|---|
+| Complete saved IIRIRA §§306 and 309, linked above | Original enacted provisions and their complete qualification structure; must be read with the technical correction. |
+| [Official Public Law 104-302](https://www.govinfo.gov/content/pkg/PLAW-104publ302/html/PLAW-104publ302.htm), read in full and compared with saved text | The three technical changes and their September 30 effective command; no judicial construction of their overlap. |
+| [Clean Government petition](../sources/neutral-a/yang-petition.txt), printed pp. 1–4 | June 22, 1995 lower judgment, October 5 rehearing denial, asserted §1254(1) channel, and reproduced waiver qualifications. It is a filing, not a Court ruling. |
+| Frozen Yang neutral sections and source correction | Recovered BIA balancing, accepted eligibility, lower remand and supported merits alternatives. This validator did not repeat full merits-brief or joint-appendix research. |
+| Relevant A entering-law register entries | Existing statutory-discretion, administrative-change, and temporal-construction law; no Yang decision or jurisdictional construction. |
+
+The identified transition text gap and abbreviated eligibility qualifications are repaired. Remaining questions about §242(g)'s operative date, scope, and reconciliation with savings provisions are legal questions for independent modeling, not missing-document defaults. No new final order, agency election, conviction, removal, waiver, or litigant failure is established. A proposed outcome depending on an unrecovered later procedural event, an exact disputed form entry, or a binding-policy change requires its own source. Subject to those bounded limits and ordinary effective-law revalidation, this material is ready for a fresh independent modeling context.

@@ -1,0 +1,86 @@
+{
+  "legal_cutoff": "1996-11-04",
+  "edition": "United States Code, 1994 Edition, Supplement I (1995), Title 28 appendix; rules as amended to January 16, 1996",
+  "copy_method": "PyMuPDF page.get_text(), then literal substring boundaries; no manual retyping, dehyphenation, punctuation correction, or whitespace normalization. Bracketed page-boundary labels are editorial.",
+  "rule_pages_one_based": {
+    "FRAP43": [
+      42
+    ],
+    "FRCP25": [
+      115,
+      116
+    ],
+    "edition_headings": [
+      3,
+      47
+    ]
+  },
+  "sources": [
+    {
+      "path": "USCODE-1995-title28-appendix.pdf",
+      "url": "https://www.govinfo.gov/content/pkg/USCODE-1995-title28/pdf/.pdf",
+      "bytes": 2844226,
+      "sha256": "d9fb41c43579b1647d26b5381940d274dffa11b19ed96f4dec47cf1c66ffb2f4"
+    },
+    {
+      "path": "USCODE-1995-title28-mods.xml",
+      "url": "https://www.govinfo.gov/metadata/pkg/USCODE-1995-title28/mods.xml",
+      "bytes": 6368954,
+      "sha256": "ec55206fae90ddc5c5204e0a73dbfb5dbabf04fbfc57ad88075444c02fe1ecb7"
+    },
+    {
+      "path": "FRAP-1996-amendments-517US1255.pdf",
+      "url": "https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-BackMatter-3.pdf",
+      "bytes": 199330,
+      "sha256": "ed55c56cb75fe6565f2ee550632f457c840fc2b021b012b71f37cd650e3d1a60"
+    },
+    {
+      "path": "FRCP-1996-amendments-517US1277.pdf",
+      "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep517/usrep5171277/usrep5171277.pdf",
+      "bytes": 81973,
+      "sha256": "6deb7764be708a586aae198a1adaa02af974b3ac44b4de3e52570bc51671da72"
+    }
+  ],
+  "derived": [
+    {
+      "path": "FRAP43-1996-operative-full-rule-and-notes.txt",
+      "bytes": 4285,
+      "sha256": "bfd49f0d31e43809a29f5c539795035baf15b5a7737f67da2c3beeafb863c59f"
+    },
+    {
+      "path": "FRAP43c-1996-operative-exact-extract.txt",
+      "bytes": 954,
+      "sha256": "6b5121255cb9ac47eadb72a5613311875812a3699a9b65d535fc24cf35f20eea"
+    },
+    {
+      "path": "FRCP25-1996-operative-full-rule-and-notes.txt",
+      "bytes": 14935,
+      "sha256": "7858c01bb24b761696e4b1497bd692e102a0738b23c84312a8316f563a38f8f9"
+    },
+    {
+      "path": "FRCP25d-1996-operative-exact-extract.txt",
+      "bytes": 843,
+      "sha256": "e6a7e20b3f8932584dfd17327fd66f8cd68728e3901ca4f07a6465731603ae20"
+    },
+    {
+      "path": "USCODE-1995-rule-edition-pages.txt",
+      "bytes": 8945,
+      "sha256": "21ad5c2f59f0f4c5af9c61098356a4257e6fcdef8d540b7e169bd7a1a9efa41a"
+    },
+    {
+      "path": "FRAP-1996-amendments-517US1255-full-text.txt",
+      "bytes": 8977,
+      "sha256": "3325bda10915b6af4d7d88d199a892aed71fc22edb8e023d2f73509b4c986bf7"
+    },
+    {
+      "path": "FRCP-1996-amendments-517US1277-full-text.txt",
+      "bytes": 4107,
+      "sha256": "0453f3d277ba08d5c8d027278cc134a31e2fa9eacde50dcbdc623edf212b9107"
+    },
+    {
+      "path": "copy_officer_rule_sources.py",
+      "bytes": 3195,
+      "sha256": "839e4d211bcbf43c98f066d4e39bfb7fb99f3396bff04110895e780e8ad7ae4e"
+    }
+  ]
+}

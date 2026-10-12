@@ -1,0 +1,5462 @@
+Saprems Gourt, U.s. 
+n \ FILBD 
+
+
+952025 JUN 17 19% 
+No. 
+
+
+SSS Tt ohhh htSSCSSS:SCS—S—S 
+
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+OCTOBER TERM, 1995 
+
+
+THE PEOPLE OF THE STATE OF CALIFORNIA 
+and 
+DANIEL E. LUNGREN, 
+ATTORNEY GENERAL OF THE STATE OF CALIFORNIA, 
+Petitioner, 
+
+
+V. 
+
+
+KENNETH DUANE ROY, Respondent. 
+
+
+ON PETITION FOR WRIT OF CERTIORARI TO THE 
+UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT 
+
+
+> 
+
+
+oO APPENDIX 
+O 
+O 
+
+
+DANIEL E. LUNGREN 
+Attorney General 
+GEORGE WILLIAMSON 
+Chief Assistant Attorney General 
+ROBERT R. ANDERSON 
+Senior Assistant Attorney General 
+EDMUND D. McMURRAY 
+Supervising Deputy Attorney General 
+MARGARET VENTURI 
+Supervising Deputy Attorney General 
+Counsel of Record 
+
+1300 I St., Suite 125 
+
+P.O. Box 944255 
+
+Sacramento, CA 94244-2550 
+
+Telephone: (916) 324-5252 
+Counsel for Petitioner 
+
+
+ia 
+————_ — 
+
+
+TABLE OF APPENDICES 
+Document 
+
+
+Opinion following hearing en banc 
+Order for hearing en banc 
+Opinion of three judge panel 
+
+
+Order and memorandum of findings 
+of district court 
+
+
+Findings and Recommendations of 
+magistrate judge 
+
+
+State Supreme Court order denying 
+habeas relief 
+
+
+Remittitur to superior court 
+State Supreme Court order denying review 
+
+
+Court of Appeal order denying rehearing 
+
+
+State Court of Appeal opinion 
+
+
+Relevant United States Constitutional 
+Amendments 
+
+
+Relevant California Constitution section 
+Relevant California Penal Code sections 
+
+
+Relevant California Jury 
+Instructions - Criminal (CALJIC) 
+
+
+=. O 
+
+
+Document Appendix 
+
+
+Second Amended Abstract of 
+
+Judgment under which respondent 
+
+is being held by the California 
+
+Department of Corrections O 
+
+
+PEN 
+
+
+i. ey. Pe a ee 
+
+
+ow 
+
+
+FOR PUBLICATION 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+KENNETH DUANE ROY 
+
+
+) 
+Petitioner-Appellant, ) No. 94-15994 
+) 
+v. ) D.C. No. 
+) CV-89-01643-DFL 
+JAMES GOMEZ; JOHN VAN DE) 
+KAMP; and WILLIAM MERKLE, ) OPINION 
+
+
+et al., ) 
+
+
+Appeal from the United States District Court 
+for the Eastern District of California 
+David F. Levi, District Judge, Presiding 
+Argued and Submitted 
+November 30, 1995--San Francisco, California 
+
+
+Filed April 15, 1996 
+
+
+Before: Procter Hug, Jr., Chief Judge, James R. 
+Browning,J. Clifford Wallace, Betty B. Fletcher, Harry 
+Pregerson, Cecil F. Poole, Stephen Reinhardt, Cynthia 
+
+Holcolmb Hall, David R. Thompson, Pamela Ann 
+Rymer,and Thomas G. Nelson, Circuit Judges 
+
+
+Opinion by Judge Browning; Partial Concurrence and 
+Partial Dissent by Judge Wallace 
+
+
+SUMMARY 
+
+
+Criminal Law and Procedure/Jury Instructions/ 
+Criminal Acts 
+
+
+Sitting en banc, the court of appeals reversed a district 
+court judgment and remanded. The court held that an 
+error in omitting California’s specific intent requirement 
+from an aiding and abetting jury instruction could not be 
+deemed harmless, where it could not be said that the 
+jury necessarily found the required intent. 
+
+
+The bodies of James Clark and Archie Mannix were 
+found near a truck. Both were stabbed, and Mannix had 
+drowned. Appellant Kenneth Roy and Jesse McHargue 
+were located nearby, and each had some of Mannix’s 
+property in his possession. Roy told police that the 
+killings occurred after a fight involving the four men. 
+
+
+Roy was charged with murder and robbery. A 
+jailhouse informant testified that Roy told him that Roy 
+and McHargue planned to take Clark and Mannix to the 
+country, rob and kill them, and steal the truck. Another 
+jailhouse informant testified that Roy told him that Roy 
+stabbed Clark during a fight, and Roy tried to help 
+McHargue, who was fighting with Mannix. The state took 
+the murder case to the jury on two theories, arguing that 
+Roy was guilty of first-degree murder because the killings 
+were premeditated and were committed during the 
+course of a felony (the robbery of Clark and Mannix). 
+
+
+The jury was given an aiding and abetting instruction 
+that stated that a person aids and abets commission of 
+a crime if, with knowledge of the perpetrator’s unlawful 
+purpose, he aids, promotes, encourages or instigates by 
+act or advice the crime’s commission. 
+
+
+The jury found Roy guilty of second-degree murder of 
+Clark and made a "special circumstance" finding that 
+Roy used a knife to kill Clark. The jury acquitted Roy of 
+robbing Clark. The jury found Roy guilty of robbery and 
+
+
+first-degree murder of Mannix, with a _ "special 
+circumstance" finding that Roy had not used a knife to 
+kill Mannix. 
+
+
+After Roy’s case was tried, the California Supreme 
+Court held in People v. Beeman, 674 P.2d 1318 (Cal. 
+1984), that an instruction that was identical to the one 
+given in Roy’s case was flawed because an aiding and 
+abetting conviction requires proof that the defendant 
+intended to encourage or facilitate the offense with which 
+
+
+the principal was charged. 
+
+
+Roy appealed his convictions of robbery and 
+first-degree murder of Mannix. On direct appeal, Roy 
+contended that the state trial court erred in failing to 
+instruct the jury on the specific intent element of aiding 
+and abetting identified in Beeman. The California court 
+of appeal concluded that error occurred, but was 
+harmless beyond a reasonable doubt. The California 
+Supreme Court denied relief on collateral review. 
+
+
+Roy filed a federal habeas petition raising the Beeman 
+issue. The district court denied the petition, holding that 
+the omission from the instruction of the specific intent 
+requirement was error, but the error was harmless 
+beyond a reasonable doubt. The court determined that 
+no rational juror could find Roy aided McHargue, 
+knowing McHargue’s purpose, without also finding Roy 
+intended to aid McHargue in his purpose. A panel of the 
+court of appeals affirmed. En banc review was granted. 
+
+
+[1] Roy’s conviction of first-degree murder of Mannix 
+necessarily reflected a conclusion by the jury that Roy 
+was guiltyof felony murder of Mannix in the course of 
+aiding and abetting McHargue’s robbery of Mannix. 
+
+
+[2] The Ninth Circuit has held that omission of the 
+specific intent element from jury instructions in a trial on 
+a charge of aiding and abetting under California law 
+deprives the defendant of his constitutional right to have 
+a jury find the existence of each element of the charged 
+offense beyond a reasonable doubt. The Ninth Circuit 
+has also held that Beeman error is subject to 
+harmless-error analysis. [3] Failure to men‘ion an 
+element of a crime does not completely remove from the 
+jury’s consideration the evidence relating to that element; 
+it simply fails to alert the jurors that they must 
+consider it. Even though an element of the offense is not 
+specifically mentioned, it remains possible that the jury 
+made the necessary finding. The omission is harmless, 
+however, only if review of the facts found by the jury 
+establishes that the jury necessarily found the omitted 
+element. 
+
+
+[4] On the record in this case, it was uncertain 
+whether the jury necessarily found beyond a reasonable 
+doubt that Roy intended to facilitate McHargue’s robbery 
+of Mannix. Although there was evidence from which a 
+jury could have found that Roy intended to facilitate 
+Mannix’s robbery, there were no findings from which it 
+could be concluded that the jury actually did so. [5] 
+Because it could not be said that the jury necessarily 
+found that Roy acted with the intention of assisting 
+McHargue in the robbery of Mannix, the error in 
+the aiding and abetting instruction could not be deemed 
+harmless. 
+
+
+[6] Reversal was required in this case under the 
+relevant line of cases. When a reviewing court is unable 
+to conclude the jury necessarily found an element that 
+was omitted from instructions, it is unable to gauge the 
+effect of the error on the verdict. 
+
+
+mo el 
+
+
+te eh - 
+
+
+Circuit Judge Wallace, with whom Circuit Judges Hall 
+and Rymer joined, concurred and dissented, disagreeing 
+with the majority’s method of harmless-error analysis and 
+its conclusion that the error was harmful. 
+
+
+COUNSEL 
+
+
+Hill C. Snellings, Blackmon & Drozd, Sacramento, 
+California, for the petitioner-appellant. 
+
+
+Margaret Venturi, Supervising Deputy Attorney General, 
+Sacramento, California, for the respondents-appellees. 
+
+
+OPINION 
+
+
+BROWNING, Circuit Judge: 
+
+
+This is an appeal from the denial of a petition for 
+habeas corpus. Petitioner Kenneth Duane Roy challenges 
+his state court convictions of robbery and first-degree 
+murder for aiding and abetting a felony murder. He 
+contends the state trial court erred by failing to instruct 
+the jury on the specific intent that is a necessary element 
+of aiding and abetting under California law. The district 
+court agreed, but held the error harmless. A divided 
+panel of this court affirmed. We granted en banc review, 
+and now reverse. 
+
+
+1. 
+A. 
+
+
+Petitioner Kenneth Duane Roy and his friend Jesse 
+McHargue met Archie Mannix and James Clark outside 
+
+
+a liquor store in Gridley, California. The four began 
+drinking beer. Several hours later, a Gridley police 
+officer saw Mannix’s truck narrowly miss a utility pole as 
+it backed up in the store’s parking lot. The officer 
+stopped the truck and called another officer to assist. 
+Mannix and Clark were both intoxicated. McHargue and 
+Roy appeared to be sober, but neither had a driver's 
+license. The officers told the men not to drive the truck 
+and left. Two hours later, the truck was gone. The 
+officers found it nose down in a ditch, with the bodies of 
+Clark and Mannix nearby. Both had been stabbed. 
+Mannix, whose body was partially submerged in the 
+ditch, had drowned. Both were partially stripped and 
+their pockets turned out. Mannix’s wallet and papers 
+were scattered on the ground. The officers located Roy 
+and McHargue at a nearby restaurant, their clothes wet 
+and muddy. Each was carrying a buck knife. Each had 
+some of Mannix’s property in his possession. Roy told 
+police the killings occurred after McHargue lost control 
+of the truck while making a turn, the truck went into the 
+ditch, and Clark became angry and struck Roy. 
+According to Roy, a fight ensued, Roy against Clark and 
+eee against Mannix. Roy stabbed Clark and killed 
+
+
+Roy was charged with two counts of murder and two 
+counts of robbery. At trial, Marie Smart testified she was 
+driving home when she saw the truck in the ditch and 
+stopped to offer assistance. Two men were standing over 
+Mannix, who was lying on the ground and appeared to 
+be hurt. McHargue told her help had been summoned. 
+A pathologist testified that Mannix’s fatal stab wound 
+could have been made by either McHargue’s or Roy’s 
+knife. Roy’s knife bore traces of blood that could have 
+come from either Roy or Mannix but not from Clark. 
+
+
+William Hudspeth, a jailhouse informant, testified Roy 
+told Hudspeth that Roy and McHargue planned to take 
+Clark and Mannix to the country, rob and kill them, and 
+steal the pickup truck. McHargue had trouble subduing 
+Mannix and Roy came to McHargue’s aid, pulling 
+Mannix away, stabbing Mannix and holding his head 
+under water until he was dead. According to Hudspeth, 
+Roy and McHargue then took the truck and drove back 
+
+
+toward Gridley. 
+
+
+Another jailhouse informant, Sidney Hall, testified Roy 
+told him that after the truck went into the ditch, Clark 
+hit Roy with a stick. A fight followed, and Roy stabbed 
+Clark. Roy saw McHargue was "getting the worst of it” 
+in his fight with Mannix, and “went over to help" 
+McHargue. 
+
+
+The state took the murder case to the jury on two 
+theories, arguing Roy was guilty of first-degree murder 
+(1) because the killings were premeditated and (2) 
+because they were committed during the course of a 
+felony, the robbery of Clark and Mannix. The jury found 
+Roy guilty of second-degree murder of Clark and made 
+a “special circumstance" finding, for purposes of 
+sentencing, that Roy had used a knife to kill Clark. The 
+jury acquitted Roy of robbing Clark. The jury found Roy 
+guilty of robbery and first-degree murder of Mannix, with 
+a "special circumstance” finding that Roy had not used a 
+knife to kill Mannix. Roy challenges his convictions of 
+robbery andfirst-degree murder of Mannix. 
+
+
+B. 
+
+
+[1] The jury’s decision to convict Roy of second-degree 
+murder of Clark indicates the jury rejected the state’s 
+theory that the defendants planned the crime. The jury 
+also rejected the state’s contention that Roy stabbed 
+Mannix by finding Roy did not use a knife against 
+Mannix. Thus Roy’s conviction of first-degree murder of 
+Mannix necessarily reflected a conclusion by the jury that 
+Roy was guilty of felony murder of Mannix in the course 
+of aiding and abetting the robbery of Mannix by 
+McHargue. 
+
+
+The jury was given an aiding and abetting instruction 
+which stated that "[a] person aids and abets the 
+commission of a crime if, with knowledge of the unlawful 
+purpose of the perpetrator of the crime, he aids, 
+promotes, encourages or instigates by act or advice the 
+commission of such crime." This instruction allowed the 
+jury to convict Roy if he provided "knowing aid"--that is, 
+if he knew of McHargue’s intention to rob Mannix and 
+took some action that had the effect of furthering the 
+robbery. After Roy’s case was tried, the California 
+Supreme Court held in People v. Beeman, 674 P.2d 1318 
+(Cal. 1984), that an instruction identical to the one given 
+in Roy’s case was flawed because an aiding and abetting 
+conviction requires proof not merely of "knowing aid" but 
+also that the defendant intended to encourage or 
+facilitate the offense with which the principal was charged.” 
+
+
+1. According to Beeman, an appropriate aiding and abetting 
+instruction would tell the jury that a person aids and abets the 
+commission of a crime when he, “acting with (1) knowledge of the 
+unlawful purpose of the perpetrator, and (2) the intent or purpose 
+of committing, encouraging or facilitating the commission of the 
+offense, (3) by act or advice aids, promotes, encourages or instigates, 
+
+
+A Ne cs ellen het ~~ 
+
+
+On direct appeal, Roy contended the state trial court 
+erred by failing to instruct the jury on the specific intent 
+element of aiding and abetting identified in Beeman. The 
+California court of appeal concluded error had occurred 
+but was harmless beyond a reasonable doubt. The 
+California Supreme Court denied relief on collateral 
+review, and Roy then filed this federal habeas petition 
+raising the Beeman issue. In denying the petition, the 
+district court held the omission from the instruction of 
+the specific intent requirement was error, but agreed with 
+the state courts that the error was harmless beyond a 
+reasonable doubt because "[n]o rational juror could find 
+that Roy aided McHargue, knowing what McHargue’s 
+purpose was, without also finding that Roy intended to 
+aid McHargue in his purpose.” A divided panel of this 
+court affirmed. Roy v. Gomez, 55 F.3d 1483 (9th Cir. 
+1995). 
+
+
+II. 
+
+
+[2] We have held that omission of the specific intent 
+element from jury instructions in the trial of a charge of 
+aiding and abetting under California law deprives the 
+defendant of his constitutional right to have a jury find 
+the existence of each element of the charged offense 
+beyond a reasonable doubt. Martinez v. Borg, 937 F.2d 
+422, 423 (9th Cir. 1991); see In re Winship, 397 US. 358, 
+364 (1970) (due process requires proof beyond a 
+reasonable doubt of all elements of the charged offense). 
+We also held in Martinez that Beeman error is subject to 
+harmless-error analysis. Martinez, 937 F.2d at 425. The 
+panel agreed on both points. Roy, 55 F.3d at 1485-86. 
+
+
+the commission of the crime.” Beeman, 674 P.2d at 1326. 
+
+
+10 
+
+
+The panel divided, however, 48 to whether the error was 
+harmless. 
+
+
+A. 
+
+
+To determine whether the Beeman error was harmless, 
+we apply the analysis developed by Justice Scalia in his 
+concurring opinion in Carella v. California, 491 U.S. 263 
+(1989). See Martinez, 937 F.2A at 425.* 
+
+
+Carella involved a conclusiv® Presumption that relieved 
+the state of its burden of proef with regard to the intent 
+element of embezzlement. Justice Scalia explained that 
+use of such a presumption covld be harmless only in the 
+"rare situations" when the ‘¢viewing court could be 
+confident that the error played no part in the jury's 
+verdict. Carella, 491 U.S. at 270 (Scalia, J., concurring) 
+
+
+(quoting Connecticut v. Johnso", 460 U.S. 73, 87 (1983)). 
+
+
+Stated shortly, such an error '8 harmless under Carella 
+only if no rational jury could find the predicate facts 
+forming the basis for the Ption without also 
+finding the presumed fact. Carella, 491 US. at 271 
+(Scalia, J., concurring). In @pplying Carella to an 
+instruction omitting an eleme#t Of the offense, we have 
+treated the omitted element 25 the "presumed fact" and 
+considered whether a rational JUry could have found the 
+remaining elements of the off¢nse without also finding 
+the omitted element. Martinez 937 F.2d at 424; see also 
+=— States v. Parmelee, 42 F.3d 387, 393 (7th Cir. 
+) 
+
+
+2. Decisions prior to Martinez While not framed in terms of 
+Carella, nonetheless applied essentia'Y the same analysis to Beeman 
+error. See Leavitt v. Vasquez, 875 .2d 260, 261 (9th Cir. 1989); 
+Willard v. California, 812 F.2d 461, ©4 (9h Cir. 1987). 
+
+
+1] 
+
+
+Pointing to our recent en banc decision in United 
+States v. Gaudin, Roy argues we may no longer apply 
+harmless error analysis to Beeman error. In Gaudin, the 
+district court instructed the jury that an element of the 
+crime was established as a matter of law. We held that 
+"such an error cannot be harmiess." United States v. 
+Gaudin, 28 F.3d 943, 951 (%h Cir. 1994) (en banc) 
+("When proof of an element has been completely 
+removed from the jury’s determination, there can be no 
+inquiry into what evidence the jury considered to 
+establish that element because the jury was precluded 
+from considering whether the element existed at all."), 
+aff'd, 115 S. Ct. 2310 (1995). Relying on this language, 
+some subsequent panel decisions have held omission of 
+an element of a crime from jury instructions requires 
+automatic reversal. See United States v. Hove, 52 F.3d 
+233, 235-36 (9th Cir. 1995); United States v. Stein, 37 F.3d 
+1407, 1410 (9th Cir. 1994). 
+
+
+[3] The error in Gaudin differs in a crucial respect 
+from omission of an element of the crime from jury 
+instructions. When a court instructs the jury that an 
+element of the crime has been established as a matter of 
+law, proof of that element of the crime is removed from 
+the jury’s purview. Failure to mention an element of the 
+crime, in contrast, does not “completely remove[ |" from 
+the jury’s consideration the evidence relating to that 
+element; it simply fails to alert the jurors they must 
+consider it. See Gaudin, 28 F.3d at 951; United States v. 
+Whitmore, 24 F.3d 32, 36 (9th Cir. 1994) (omission of 
+knowledge element did not bar jury from considering 
+defendant’s mental state); People v. Dyer, 45 Cal.3d 26, 
+64 (Cal. 1988) (Beeman error “is not the type of 
+instructional error that wholly prevents the jury from 
+
+
+12 
+
+
+considering” the defendant's intent)” Even though an 
+element of the offense is not specifically mentioned, it 
+remains possible the jury made the necessary finding. 
+Review for harmless error is appropriate, but it is the 
+type of review discussed in Carella* That is, the 
+omission is harmless only if review of the facts found by 
+the jury establishes that the jury necessarily found the 
+omitted element.* 
+
+
+3. To the extent prior cases equate these two distinct 
+Situations, such cases are disapproved. Hove, 52 F.3d at 235-36 
+(applying Gaudin where judge omitted willfulness element); Stein, 37 
+F.3d at 1410 (applying Gaudin where judge omitted knowledge 
+element). But see Harmon v. Marshall, 57 F.3d 763 (9th Cir. 1995) 
+(applying Gaudin in a “structural error” case where the judge 
+omitted all elements of the charged crime). 
+
+
+4. The instructional error in this case may be described eith 
+er as the omission of an element (specific intent) or as the 
+misdescription of an element (intent). In fact, we have sometimes 
+characterized a Beeman error as omission of an element, see 
+Martinez, 937 F.2d at 424-25 (9th Cir. 1991), and sometimes as the 
+
+of an element, see Hart v. Stagner, 935 F.2d 1007, 
+1012 (9th Cir. 1991). Whether we characterize the error as an 
+omission or misdescription of an element, we must still apply 
+Carella harmless error analysis. See Carella, 491 U.S. at 270 (Scalia, 
+J., concurring) (“[MJisdescription of an element of the offense . 
+deprives the jury of its factfinding role, and must be analyzed 
+similarly [to a conclusive presumption]"). 
+
+
+5. Refusal to impose a rule of per se reversal comports with 
+earlier holdings that omission of an element is harmless if the 
+element is not at issue in the case, see Hart, 935 F.2d at 1012-13, or 
+if convictions on other counts establish the missing element. See 
+United States v. Williams, 935 F.2d 1531, 1536 (8th Cir. 1991) 
+(omission of intent element from one count harmless where intent 
+was defined elsewhere in jury instructions). 
+
+
+13 
+
+
+[4] On the record in this case, we cannot be certain 
+
+
+there was evidence from which a jury could have found 
+that Roy intended to facilitate Mannix’s robbery, there 
+were no findings from which we could conclude the jury 
+
+
+reviewed the case, to determine which interpretation ion of 
+
+
+14 
+
+
+the evidence was correct. We are not free to evaluate 
+the evidence and postulate what the jury would have 
+found had it been properly instructed. "[T]he question is 
+not whether guilt may be spelt out of a record, but 
+whether guilt has been found by a jury according to the 
+procedure and standards appropriate for criminal trials." 
+Carella, 491 U.S. at 269 (Scalia, J., concurring) (emphasis 
+added) (quoting Bollenbach v. United States, 326 U.S. 
+607, 614 (1946). Because we cannot say the jury 
+necessarily found Roy acted with the intention of 
+assisting McHargue in the robbery of Mannix, the error 
+in the aiding and abetting instruction cannot be deemed 
+harmless.” 
+
+
+C. 
+
+
+The state argues relief is not warranted because Roy 
+has not shown the error had a substantial or injurious 
+effect on the jury’s verdict, as required when the error is 
+raised in collateral i See Brecht v. 
+Abrahamson, 113 S. Ct. 1710 (1993). We disagree. 
+
+
+On direct appeal, relief is granted for constitutional 
+error unless the state demonstrates the error was 
+harmless beyond a reasonable doubt. See Chapman v. 
+California, 386 U.S. 18, 
+
+24 (1967). As Justice Scalia said in Carella, the Chapman 
+test 
+
+
+7. The state court’s determination that the error was harmiess 
+does not affect our analysis. Whether an error is harmless is not a 
+factual determination entitled to the statutory presumption of 
+correctness under 28 U.S.C. § 2254(d). Lawson v. Borg, 60 F.3d 608, 
+612 (9th Cir. 1995). We review de novo the district court's 
+determination that the erroneous instruction was harmless error. /d.; 
+see Calderon v. Prunty, 59 F.3d 1005, 1008 (9th Cir. 1995). 
+
+
+15 
+
+
+can be met only if the reviewing court can tell what the 
+jury 
+
+actually found, since only then can the court conclude 
+“beyond a reasonable doubt,’ Chapman v. California, 386 
+U.S. 18, 24 (1967), that the jury found the facts 
+necessary to support the conviction.” Carella, 491 U.S. at 
+271. The Chapman standard is inapplicable on collateral 
+review, however. In Brecht, the Court adopted a stricter 
+standard for harmless error in habeas cases, holding 
+relief is warranted on collateral attack only if the error 
+“had substantial and injurious effect or influence in 
+determining the jury's verdict.” Brecht, 113 S. Ct. at 1714 
+(quoting en United States, 328 US. 750, 776 
+(1946)); see Hegler v. Borg, 50 F.3d 1472, 1477 (9th Cir. 
+1995). More recently, the Supreme Court has held relief 
+is also appropriate if the record on collateral review 
+leaves the judge in "grave doubt" as to the effect of the 
+constitutional error. See O’Neal v. McAninch, 115 S. Ct. 
+992, 994-95 (1995). Relief was granted in O’Neal because 
+the record was "so evenly balanced that a conscientious 
+judge is in grave doubt as to the harmlessness of the 
+error." O’Neal, 115 S. Ct. at 995. In such circumstances, 
+"the uncertain judge should treat the error, not as if it 
+were harmless, but as if it affected the verdict (i.e., as if 
+it had a ‘substantial and injurious effect or influence in 
+determining the jury’s verdict’)." Id. at 994. 
+
+
+[6] We are unable to conclude under Carella that the 
+jury necessarily found the missing element; if this case 
+were before us on direct review, the error would not be 
+harmless beyond a reasonable doubt, our analysis would 
+be at an end, and we would be required to reverse the 
+conviction. Because this case reaches us on habeas, 
+however, we must determine whether reversal is required 
+under the Brecht/O’Neal line of cases. We believe it is. 
+When the reviewing court is unable to conclude the jury 
+
+
+16 
+
+
+necessarily found an element that was omitted from the 
+instructions, it is unable to gauge the effect of the error 
+on the jury’s verdict. In this situation, a conscientious 
+judge can only be "in grave doubt as to the harmlessness 
+of the error," O’Neal, 115 S. Ct. at 995, and relief must 
+be granted. 
+
+
+ITI. 
+
+
+Roy’s due process rights were violated when he was 
+convicted under an aiding and abetting instruction that 
+omitted California’s requirement that the defendant have 
+the specific intent to assist in the commission of the 
+crime. Because a rational jury could have found Roy’s 
+actions had the effect of assisting McHargue in the 
+robbery of Mannix, but Roy did not intend his actions to 
+have that effect, we are unable to say the jury necessarily 
+found the required intent. Under Carella, Brecht, and 
+O'Neal, we cannot say the violation of Roy’s due process 
+rights was harmless error. 
+
+
+REVERSED and REMANDED. 
+
+
+WALLACE, Circuit Judge, with whom Circuit J udges 
+Hall and Rymer join, concurring and dissenting: 
+
+
+I agree with the majority that omitting or 
+misdescribing an element of an offense is subject to 
+harmless-error review. However, I cannot agree either 
+with the method of harmless-error analysis the majority 
+employs or with its conclusion that the error was 
+harmful. I respectfully dissent. 
+
+
+17 
+
+
+The majority holds that whenever a jury instruction 
+contains an element that has been misdescribed or 
+omitted and the jury did not actually find the facts 
+supporting the missing element, a judge can never know 
+whether the error had a "substantial and injurious effect 
+or influence in determining the jury’s verdict" as required 
+by Brecht v. Abrahamson, 113 S. Ct. 1710, 1714 (1993) 
+(Brecht) (internal quotation omitted). See maj. op. at 
+4687. By equating error under Carella v. California, 491 
+U.S. 263, 271 (1989) (Scalia, J., concurring) (Carella 
+concurrence), with error under Brecht, the majority pays 
+lip-service to the exclusive, ‘less onerous, standard that 
+the Court in Brecht said we should apply to trial errors 
+when our review is collateral. I believe the majority 
+erroneously looks to the Carella concurrence for the 
+standard of review in habeas corpus cases, and that its 
+error is compounded by its misapplication of Brecht and 
+O’Neal v. McAninch, 115 S. Ct. 992, 995 (1995) (O’Neal). 
+
+
+I agree with the majority that Brecht’s less onerous 
+standard completely supplants Chapman's harmless-error 
+test when we review collaterally. Maj. op. at 4688; Brecht, 
+113 S. Ct. at 1721-22. I also agree that the Carella 
+concurrence explained how the Chapman harmiess-error 
+test is to be applied on direct appeal when the error 
+involves a jury instruction. Maj. op. at 4688-89. But from 
+these two premises I conclude that because Carella was 
+derived from Chapman, Brecht must supplant Carella 
+when we review a jury instruction error collaterally. 
+
+
+Brecht « icitly requires us to apply its standard of 
+review fs anh “whether habeas relief must be 
+granted because of constitutional error of the trial type." 
+Brecht, 113 S. Ct. at 1722; see also id. at 1729 (O’Connor, 
+
+
+18 
+
+
+J. dissenting) (Court’s holding applies "to any trial error 
+asserted on habeas"); O’Neal, 115 S. Ct. at 994 (Brecht 
+"sets forth the standard normally applied by a federal 
+habeas court in deciding whether or not .. . 
+constitutional ‘trial’ error is harmless"). Misdescription of 
+an element of an offense is trial error. See Arizona v. 
+Fulminante, 499 U.S. 279, 306-07 (1991) (jury instruction 
+containing an unconstitutional conclusive presumption is 
+trial error). We should therefore apply Brecht -- and 
+Brecht alone -- to determine whether the Beeman error 
+had a "substantial and injurious effect or influence in 
+determining the jury’s verdict." Brecht, 113 S. Ct. at 1714 
+(internal quotation omitted). 
+
+
+We must also apply Brecht rather than the Carella 
+concurrence because doing so would be faithful to the 
+Court’s insistence that a "less onerous harmless-error 
+standard on habeas promotes the considerations 
+underlying our habeas jurisprudence." Jd. at 1714. Yet by 
+effectively choosing to apply the Carella concurrence 
+instead of Brecht, the majority implicitly engages in a 
+balancing that the Court has already done. Brecht already 
+balanced the stricter Chapman harmless-error standard 
+against policies discouraging habeas corpus relief and 
+concluded that a standard less onerous than Chapman 
+was more appropriate in all habeas corpus cases 
+involving trial error. The result of Brecht’s balance is 
+clear: providing “habeas relief merely because there is a 
+reasonable possibility that trial error contributed to the 
+verdict is at odds with the historic meaning of habeas 
+corpus -- to afford relief to those whom society has 
+grievously wronged." /d. at 1721 (citations and internal 
+quotations omitted). At the very least, Brecht requires a 
+reviewing court to ask whether a petitioner suffered 
+"actual prejudice.” Jd. at 1722. 
+
+
+19 
+
+
+The strict Carella concurrence standard, of course, 
+asks not whether there is a “reasonable probability that 
+trial error contributed to the verdict," but whether a 
+rational jury necessarily found certain facts. The Carella 
+concurrence explained that Chapman's "harmless beyond 
+a reasonable doubt" standard may not substitute a judge’s 
+findings for a rational jury’s findings. Under the Carella 
+concurrence, an error may be harmful on direct review 
+even if there is a reasonable probability, or a strong 
+probability, or a near-certain probability that the error 
+had absolutely no effect on the outcome. But the 
+Supreme Court has told us that in these situations we 
+may not disturb state convictions collaterally. Simply put, 
+a oe a 
+grievously wronged" every habeas corpus petitioner w 
+Ge clans das & tnahd wie Ge Cad 
+concurrence. 
+
+
+I have even more difficulty following the majority's 
+attempt to blend Carella, Brecht, and O'Neal. See maj. 
+op. at 4688-89. By first applying the stricter approach in 
+Carella, the opinion eliminates the effect of Brecht’s “less 
+onerous standard” of review. Brecht, 113 S. Ct. at 
+1721-22. Brecht requires the reviewing court to determine 
+whether the error had a substantial or injurious effect on 
+the outcome. Brecht also requires such a court to review 
+the record in order to determine an error’s effect. The 
+Carella concurrence, of course, does not permit this 
+thorough review of the record. Thus, if the majority 
+actually were "to determine whether reversal is required 
+under the Brecht/O’Neal" line of cases, maj. op. at 4689, 
+it must thoroughly review the record. Instead, the 
+majority applies only the Carella concurrence, limiting 
+inquiry to whether the jury necessarily found the 
+uninstructed element. The majority insists that in every 
+case in which a jury has not actually found the missing 
+
+
+20 
+
+
+element, a reviewing court is never able to determine 
+whether the instruction error had a substantial and 
+injurious effect. Maj. op. at 4689. Clearly, a judge’s 
+ability to determine an error’s effect is foreclosed unless 
+the judge thoroughly reviews each case’s record with its 
+individual circumstances. This is what Brecht requires. 
+This is what the majority rejects. 
+
+
+I cannot understand how we can know that the 
+“unusual” and “narrow” circumstance in O’Neal, 115 S. 
+Ct. at 994, 995 -- which occurs when a judge is in grave 
+doubt as to whether an error had a substantial and 
+injurious effect -- will always exist when jury instructions 
+are harmful under the Carella concurrence. A judge need 
+only reach the "grave doubt" issue in O’Neal after being 
+
+unable to decide whether an error had a substantial and 
+
+injurious effect. Id. at 994. The majority holds that in 
+every case involving a jury instruction not satisfying the 
+Carella concurrence, "in the judge’s mind, the matter is 
+so evenly balanced that he feels himself in virtual 
+equipoise as to the harmlessness of the error." Jd. But 
+O’Neal requires each individual judge reviewing a habeas 
+petition to ask, "Do I, the judge, think that the error 
+substantially influenced the jury’s decision?" Jd. at 995. 
+The majority mandates the answer to that question for 
+every judge in our circuit. Maj. op. at 4689. 
+
+
+In addition, the majority creates intercircuit conflict by 
+refusing to apply Brecht instead of the Carella 
+concurrence when reviewing collaterally jury instruction 
+errors. See Libby v. Duval, 19 F.3d 733, 739-40 (1st Cir.) 
+(holding that Brechi’s record-review applies to 
+instructional errors reviewed on habeas corpus and that 
+Carella was inapplicable in the habeas corpus context), 
+cert. denied, 115 S. Ct. 314 (1994); Cuevas v. Washington, 
+
+
+21 
+
+
+36 F.3d 612, 620 & n.17 (7th Cir. 1994) (applying Brecht 
+to instruction error on habeas corpus review). 
+
+
+I] 
+
+
+I would therefore apply the standard set forth in 
+Brecht and ask whether the district court’s failure to 
+include specific intent in the aiding and abetting robbery 
+jury instruction had a substantial and injurious effect on 
+the jury’s verdict. The majority searched the record and 
+contends that a rational jury could have found that Roy 
+assisted McHargue in the robbery of Mannix, but also 
+could have found that Roy did not intend his actions to 
+have that effect. Maj. op. at 4687, 4689-90. However, 
+given the evidence that the jury actually heard, this latter 
+possibility does not establish the substantial and injurious 
+effect that Brecht requires. 
+
+
+The jury found Roy guilty of second degree murder of 
+Clark, guilty of aiding and abetting the robbery of 
+Mannix by McHargue, and guilty of the felony murder of 
+Mannix, with robbery as the underlying felony. The 
+aiding and abetting instruction actually given required the 
+jury to find that Roy aided in the commission of the 
+robbery offense by McHargue. The instruction also 
+required the jury to find that when Roy provided this 
+aid, he did so with the actual knowledge of McHargue’s 
+unlawful purpose. Given what the jury actually found and 
+the evidence in the -record supporting Roy’s specific 
+intent to further the robbery, I would hold the Beeman 
+error harmless under Brecht. The error did not have a 
+substantial and injurious effect on the jury’s verdict. 
+
+
+I certainly do not have the grave doubt that the 
+majority holds I necessarily must. Roy admitted stabbing 
+Clark. Mannix’s shirtless body was found submerged in 
+
+
+22 
+
+
+water under his truck. Mannix died either from being 
+stabbed or drowned. Mannix’s wallet was found with one 
+dollar in it. Upon his arrest, Roy’s pants were wet from 
+the calf down. Police found $170 and Mannix’s 
+wristwatch among Roy’s possessions. Roy told Hall that 
+he “helped” McHargue when McHargue and Mannix 
+were fighting. Hudspeth testified that Roy admitted a 
+plan to rob Clark and Mannix and admitted robbing 
+both. Hall testified that Roy admitted helping McHargue 
+with Mannix. From this I would conclude that there is 
+not even a reasonable probability that Roy did not assist 
+McHargue with the intent to further the robbery of 
+Mannix. Therefore, Roy’s habeas corpus petition should 
+be denied. 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+KENNETH DUANE ROY 
+
+
+Petitioner-Appellant, No. 94-15994 
+
+
+D.C. No. 
+CV-89-01643-DFL 
+
+
+v. 
+
+
+ed 
+
+
+JAMES GOMEZ: JOHN VAN DE) 
+KAMP: and WILLIAM MERKLE, ) ORDER 
+
+
+et al, ) 
+ees 
+
+
+Filed September 26, 1995 
+Before: WALLACE, Chief Judge. 
+
+Upon the vote of a majority of nonrecused 
+regular active judges of this court, it is ordered that this 
+case be reheard by the en banc court pursuant to Circuit 
+
+
+Rule 35-3. 
+
+
+FOR PUBLICATION 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+KENNETH DUANE ROY 
+
+
+Petitioner-Appellant, No. 94-15994 
+
+
+D.C. No. 
+CV-89-01643-DFL 
+
+
+Vv. 
+
+
+JAMES GOMEZ; JOHN VAN DE) 
+KAMP: and WILLIAM MERKLE, ) OPINION 
+et al, ) 
+
+
+Respondents-Appellees. ) 
+
+
+Appeal from the United States District Court 
+for the Eastern District of California 
+David F. Levi, District Judge, Presiding 
+Argued and Submitted 
+April 14, 1995--San Francisco, California 
+
+
+Filed June 9, 1995 
+
+
+Before: Floyd R. Gibson*, Alfred T. Goodwin and 
+Procter Hug, Jr., Circuit Judges 
+Opinion by Judge Goodwin; Dissent by Judge Hug 
+
+
+The court of appeals affirmed a district court 
+judgment. The court held that the district court did not 
+
+
+err in finding that an error in instructing a jury on the 
+
+
+“Honorable Floyd R. Gibson, United States Circuit Judge for the 
+Eighth Circuit, sitting by designation. 
+
+
+intent requirement for aiding and abetting was harmless 
+beyond a reasonable doubt. 
+
+
+After the bodies of Archie Mannix and James Clark 
+were found, appellant Kenneth Roy and Jesse McHargue 
+consented to a search of their backpacks. McHargue’s 
+pack yielded Mannix’s moccasins and his vest. A search 
+of Roy produced a watch later identified as having 
+belonged to Mannix, Roy was charged with two counts of 
+robbery and two counts of first degree murder. 
+
+
+At trial, Roy did not testify, but the jury heard 
+testimony from two jailmates who swore Roy had told 
+them of his participation in the killing of Clark and 
+Mannix. The state’s case was structured on two theories 
+to support first degree murder: premeditation and felony 
+murder. Roy’s counsel put on expert evidence in an 
+effort to prove that Roy’s mental capacity was impaired. 
+This evidence was introduced to show the jury that Roy 
+was unable to form any intent at all. The state put on 
+evidence to the contrary. 
+
+
+The jury found Roy guilty of second degree murder 
+for killing Clark, but found him not guilty of robbing 
+Clark. The jury answered a special verdict "no" on the 
+question whether Roy used his knife, but found him 
+guilty of first degree murder in the killing of Mannix. 
+
+
+In instructing the jury, the trial court committed a 
+Beeman error by failing to tell the jury that an aider and 
+abettor (Roy), must not only know the unlawful purpose 
+of the accomplice (McHargue), but must intend to 
+encourage or facilitate the commission of the offense--in 
+this case the robbery of Mannix. On direct appeal, the 
+California court of appeal affirmed the felony murder 
+verdict on the theory of aiding and abetting in the 
+
+
+robbery of Mannix. The court found that the Beeman 
+
+
+error was harmless beyond a reasonable doubt, and the 
+state supreme court denied post conviction relief. 
+
+
+Roy petitioned for a writ of habeas corpus in the 
+district court. The court found the Beeman error 
+harmless beyond a reasonable doubt. Roy appealed the 
+denial of hi: habeas petition, contending that because the 
+trial court’s instruction did not conform to the 
+requirement of People v. Beeman, the jury was permitted 
+to convict him without finding an element of the crime. 
+
+
+[1] In this case, the only rational way the jury could 
+have found Roy guilty on a felony murder theory was by 
+making a preliminary predicate factual finding that Roy 
+intended to help McHargue rob Mannix, while knowing 
+that McHargue intended to rob Mannix. [2] Whether or 
+not the Beeman instruction had been given, on the 
+evidence in this case, no jury could fail to find that Roy 
+intended to aid McHargue in subduing and robbing 
+Mannix. There was no other rational explanation of the 
+physical evidence and the testimony about Roy’s 
+admitted participation in the robberies and murders that 
+could be consistent with the verdict. [3] The only rational 
+route which the jury could have followed to reach the 
+verdict it reached in this case had to include the implicit 
+finding that Roy intended to help McHargue, knowing 
+McHargue’s purpose. That verdict was supported by 
+evidence and was completely rational. 
+
+
+Circuit Judge Hug dissented, noting that the jury did 
+not find that Roy intended 10 aid in the robbery. 
+
+
+COUNSEL 
+
+
+Hill C. Snellings, Blackmon & Drozd, Sacramento, 
+California, for the petitioner-appellant. 
+
+
+Margaret Venturi, Deputy Attorney General, Sacramento, 
+California for the respondents-appellees. 
+
+
+OPINION 
+GOODWIN, Circuit Judge: 
+
+
+Kenneth Duane Roy appeals the denial of his habeas 
+corpus petition challenging his 1983 California conviction 
+for first degree murder and robbery. Roy’s principal 
+point on appeal is that because the Superior Court’s 
+instruction did not conform to the requirements of People 
+v. Beeman, 35 Cal. 3d 547 (1984), the jury was permitted 
+to convict him without finding an element of the crime. 
+
+
+Carella v. California, 491 U.S. 376 (1989) (Justice Scalia 
+concurring). 
+
+
+FACTS 
+
+
+On September 13, 1981, Kenneth Roy and one Jesse 
+McHargue, while hitch hiking near Gridley, California, 
+met Archie Mannix and James Clark outside a 
+store and began drinking beer with them. A Gi."lxy 
+police officer observed the foursome in a pickup truck. 
+
+
+The officer stopped the truck and advised the four not 
+to drive. 
+
+
+found on bushes, and papers, not otherwise described, 
+were found scattered near the truck. Roy and McHargue 
+were not present, but were found about 3 a.m. in a 
+nearby restaurant. Both men were wearing wet and 
+
+
+muddy clothing. 
+
+
+Roy and McHargue were informed of their Miranda 
+rights and consented to a search of their backpacks. 
+McHargue’s pack yielded Mannix’s wet moccasins and his 
+vest. After the two men were arrested, a search of Roy 
+
+a Buck knife, $ 170.52 in cash, and a watch 
+later identified as having belonged to Mannix. Roy was 
+charged with two counts of robbery and two counts of 
+first degree murder. 
+
+
+At trial, Roy did not testify, but the jury heard 
+testimony from two jail inmates who swore Roy had told 
+them of his participation in the killing of Clark and 
+Mannix. 
+
+
+The state’s case was structured on two theories to 
+support first degree murder: premeditation and felony 
+murder. The prosecutor argued that Roy and McHargue 
+planned to drive to a remote location, rob and kill both 
+victims, and steal their pickup truck. The prosecution 
+argued that the physical evidence, the testimonial 
+evidence that the victims had money and the defendants 
+had none, and the testimony about admissions Roy 
+
+
+allegedly made to jailed informers proved that Roy killed 
+Clark while McHargue was struggling with Mannix, and 
+that after Roy had killed Clark, Roy helped McHargue 
+rob and kill Mannix. The evidence was sufficient to take 
+both theories to the jury. The state also sought a verdict 
+of special circumstances, based on the use of knives in 
+the stabbing deaths of the two victims, but this issue was 
+eliminated in state court proceedings. 
+
+
+The jury found Roy guilty of second degree murder 
+for killing Clark, but found him not guilty of robbing 
+Clark. The jury answered a special verdict "no" on the 
+question whether Roy used his knife, but found him 
+guilty of first degree murder in the killing of Mannix. 
+
+
+Rcy now argues, and we agree, that the verdict of 
+second degree murder of Clark eliminates the theory of 
+premeditation in Roy’s conviction of first-degree murder. 
+The validity of Roy’s first degree murder conviction in 
+the killing of Mannix thus depends on felony murder in 
+the course of aiding and abetting the robbing of Mannix. 
+
+
+INSTRUCTIONS 
+
+
+The trial court instructed the jury orally and in 
+writing,” inter alia, "[t}o find that the special 
+circumstance, referred to in these instructions as murder 
+in the commission of robbery, is true, it must be proved: 
+[1] That the murder was committed while the defendant 
+was engaged in or was an accomplice in the commission 
+of a robbery. [2] That the murder was committed in 
+order to carry out or advance the commission of the 
+
+
+1. The appeal has not challenged minor differences between 
+instructions as read to the jury and those sent into the jury room 
+in written form. 
+
+
+crime of robbery. . . . In other words, the special 
+circumstance referred to. . .is not established if 
+the. . .robbery was merely incidental to the commission 
+of the murder." 
+
+
+The jury was also instructed "if a human being is 
+killed by any one of several persons engaged in the 
+perpetration of, or attempt to perpetrate, the crime of 
+robbery, all persons who. . .with knowledge of the 
+unlawful purpose of the perpetrator of the crime 
+aid. . .its commission, are guilty of murder of the first 
+degree, whether the killing is intentional, or accidental." 
+CALJIC No. 8.27 (1979). 
+
+
+The jury was further instructed that one "who aids and 
+abets is not only guilty of the particular crime that to his 
+knowledge his confederates are contemplating 
+committing, but he is also liable for the natural and 
+reasonable or probable consequences of any act that he 
+knowingly aided or encouraged." CALJIC No. 300 as 
+amended by CALJIC No. 4.25. 
+
+
+CALJIC No. 301 as given, reads: "A person aids and 
+abets the commission of a crime if, with knowledge of 
+the unlawful purpose of the perpetrator of the crime, he 
+aids, promotes, encourages or instigates by act or advice 
+the commission of such crime." 
+
+
+The Beeman error in the above instruction consisted 
+in the failure of the court to tell the jury that an aider 
+and abettor (Roy) must not only know the unlawful 
+purpose of the accomplice (McHargue), but must intend 
+to encourage or facilitate the commission of the offense-- 
+in this case the robbery of Mannix. See Beeman, 35 Cal. 
+3d at 561. (Beeman had not been decided when the case 
+was tried.) 
+
+
+On direct appeal, the California court of appeal 
+affirmed the felony murder verdict on the theory of 
+aiding and abetting in the robbery of Mannix. The court 
+of appeal found the Beeman error harmless beyond a 
+reasonable doubt, and the state supreme court denied 
+post conviction relief in 1989. 
+
+
+The petition for habeas corpus in the district court fol- 
+lowed. The district court again found the Beeman error 
+harmless beyond a reasonable doubt, saying: "No rational 
+juror could find that Roy aided McHargue, knowing what 
+McHargue’s purpose was, without also finding that Roy 
+intended to aid McHargue in his purpose.” We agree. 
+
+
+DISCUSSION 
+
+
+The appeal advances the argument that because no 
+Beeman instruction was given on intent, an essential 
+element of the crime, Carella, requires a new trial. We 
+have in the § 2254 cases collected in Martinez v. Borg, 
+937 F.2d 422, 424 (9th Cir. 1991), refused to find the 
+Beeman error harmless beyond a reasonable doubt. But 
+the teaching of the Carella line of cases tells us to look 
+to what the jury actually decided, not what we, as judges, 
+believe the jury would have decided if they had been 
+properly instructed. We have held that if jury instructions 
+omit an element of the offense, (in this case, specific 
+intent) constitutional error results. See Martinez. 
+
+
+[1] If the jury returned a verdict from which it could 
+be said that the jury actually made the essential 
+predicate fact finding, then we affirm. Here, the only 
+rational way the jury could have found Roy guilty on a 
+felony murder theory was by making a preliminary 
+predicate factual finding that Roy intended to help 
+McHargue rob Mannix, while knowing that McHargue 
+
+
+intended to rob Mannix. It is therefore necessary for us 
+to review the record, the instructions as a whole, and the 
+verdict, to determine whether the jury, despite the 
+' instruction, had to find every material 
+element of the offense in order to return the verdict it 
+returned. 
+
+
+the jury could have found that he knew 
+Mclenpes intended to rob Manni and helped him do 
+so without necessarily finding that Roy intended to assist 
+in the robbery. Roy, as noted, did not testify. His counsel 
+put on expert evidence in an effort to prove that Roy's 
+mental capacity was impaired by intoxication, as well as 
+by his inherent immaturity and lack of mental acuity. 
+This evidence was introduced to show the jury that Roy 
+was unable to form any intent at all, much less an intent 
+to help McHargue rob Mannix. The state put on 
+evidence to the contrary. The jury was entitled to 
+disbelieve Roy’s experts. 
+
+
+[2] Whether or not the Beeman instruction had been 
+given, on the evidence in this case, no jury could fail to 
+find that Roy intended to aid McHargue in subduing and 
+robbing Mannix” There was no other rational 
+
+
+3 Hypothetical and imaginary scenarios perhaps may 
+vi chalied txoneet that Roy did not intend to help 
+
+
+2. It was not necessary that the jury find that Roy intended to 
+help McHargue kill Mannix Such a finding could have found 
+evidence, but was not requested, because aiding in 
+the robbery of Mannix which resulted in his death was a sufficient 
+
+
+finding to support Roy's felony murder verdict. 
+
+
+10 
+
+
+McHargue rob Mannix. But the jury had before it the 
+defense evidence that attempted to cast doubt on Roy’s 
+capacity to form any intent, criminal or otherwise, and 
+the jury obviously did not believe that evidence. We 
+conclude, as did the California courts and the District 
+Court, that the only rational route which the jury could 
+have followed to reach the verdict it reached in this case 
+had to include the implicit finding that Roy intended to 
+help McHargue, knowing McHargue’s purpose. That 
+verdict was supported by evidence, and was completely 
+rational. Hegler v. Borg, 1995 U.S. App. Lexis 6113 
+(quoting O’Neal v. McAninch, 115 S. Ct. 992, 995 (1995), 
+"Only if the record demonstrates the jury’s decision was 
+substantially influenced by the trial error or there is 
+“grave doubt" about whether an error affected a jury in 
+this way’ will [Roy] be entitled to habeas relief."). 
+
+
+AFFIRMED 
+
+
+HUG, Circuit Judge, Dissenting: 
+
+
+The majority recognizes that under Supreme Court 
+and Ninth Circuit precedent we must only look to what 
+the jury actually decided in determining an essential 
+element of a crime not what we as judges believe the jury 
+would have decided if it had been properly instructed. See 
+Carella v. California, 491 U.S. 263, 268-69 (1989) (Scalia, 
+J., concurring); Yates v. Evatt, 500 U.S. 391, 404 (1991); 
+Sullivan v. Louisiana, 113 S. Ct. 2078, 2082 (1993); 
+Martinez v. Borg, 937 F.2d 422, 424 (9th Cir. 1991). 
+However, the majority fails to apply that law to this case. 
+
+
+The majority acknowledges that there was a "Beeman" 
+error in the trial court’s failure to instruct the jury that, 
+
+
+12 
+
+
+second degree murder for the murder of Clark. 
+
+
+FILED 
+MAY 10 1994 
+Clerk, U.S. District Court 
+Eastern District of California 
+/s/ Deputy 
+
+
+IN THE UNITED STATES DISTRICT COURT 
+
+
+FOR THE EASTERN DISTRICT OF CALIFORNIA 
+
+
+KENNETH D. ROY, Civ. S-89-1643-DFL-PAN 
+Petitioner, ORDER 
+v. 
+JAMES GOMEZ, et al., 
+
+
+Respondents. 
+
+
+Petitioner Kenneth D. Roy, a state prisoner 
+represented by counsel, seeks a writ of habeas corpus 
+under 28 U.S.C. § 2254. The magistrate judge issued 
+findings and recommendations on March 5, 1993, 
+recommending that the petition be denied. The court 
+heard oral argument on July 30, 1993, on petitioner’s 
+objections to the findings and recommendations. The 
+
+
+court has deferred rendering a decision in this case 
+
+
+because of the grant of en banc hearing in United 
+States v. Gaudin, 997 F.2d 1267, en banc review 
+granted, 5 F.3d 374 (9th Cir. 1993), a case on which 
+petitioner places some considerable reliance. No 
+decision has been forthcoming in Gaudin, however, and 
+it appears unwise to defer decision any further in this 
+case.~ 
+
+The facts of the case are well stated in the 
+findings and recommendations. Roy contends that the 
+aiding and abetting instruction given at trial was 
+defective under People v. Beeman, 35 Cal.3d 547 
+(1984), which was decided after Roy’s trial but before 
+his conviction became final. In Beeman, the California 
+Supreme Court found that the aiding and abetting 
+
+
+instruction in CALJIC No. 3.01--which was the 
+
+
+1. If the en banc court finds that harmless error analysis may 
+be applied then Gaudin will provide no support for petitioner. On 
+the other hand, if the en banc court accepts the approach of the 
+panel in Gaudin, the decision is not likely to address cases involving 
+the court of instruction error alleged here. 
+
+
+instruction given by the trial court here*--was 
+adequate because it did not expressly instruct the jury 
+that an aider and abettor must have the intent to 
+encourage or facilitate the commission of the offense. 
+The court suggested that an appropriate aiding and 
+
+
+abetting instruction would include an additional clause 
+
+
+on intent: 
+
+
+a person aids and abets the commission 
+of a crime when he or she, acting with 
+(1) knowledge of the unlawful purpose of 
+the perpetrator, and (2) the intent or 
+
+re 
+epee ape liitating th ~— f the off 
+(3) by actor advice aids, promotes, — 
+encourages or instigates, the commission 
+of the crime. 
+
+
+Id. at 561 (emphasis added). 
+Following state court precedents subsequent to 
+
+
+Beeman, the court of appeal found that the 
+
+
+2. The was instructed that "[a] person aids and abets the 
+ccmmtatan a8 2 ctme 2 oth (ii taactotgp of te calantl 
+purpose of the perpetrator of the crime he [2] aids, promotes, 
+encourages or instigates by act or advice the commission of such 
+crime.” Findings and recommendations at 11. 
+
+
+"instruction found wanting in Beeman (CALJIC No. 
+3.01 [1980]) and given here, may convey the required 
+intent to the jury because in the circumstances of the 
+case it contains a legally adequate criterion of intent." 
+People v. Roy, No. C000992, slip. op. at 25 (Cal. Ct. 
+App. January 27, 1989) ("Roy II"). The court 
+reasoned that if the defendant did not intend his 
+actions or if the defendant, intending his actions, did 
+not know that his acts would aid the principal, then 
+the failure to include an instruction as required by 
+Beeman would be fatal. Absent such circumstances, 
+however, it was adequate if the jury were instructed 
+that it must find that the defendant acted with 
+
+
+knowledge of the principal’s unlawful purpose and 
+
+
+provided aid or encouragement to commit the offense. 
+
+
+Id. at 26-28. After reviewing all of the different 
+possible factual circumstances under which the jury 
+
+
+could have convicted Roy, the court of appeal found 
+
+
+no circumstance in which the challenged instruction 
+could have prejudiced the defendant.* 
+
+In habeas corpus cases involving Beeman error, 
+the Ninth Circuit uses and approach similar to that 
+used by the California court of appeal here. In 
+Willard v. California, 812 F.2d 461 (9th Cir. 1987), the 
+court found that the absence of an instruction on 
+specific intent was harmless beyond a reasonable doubt 
+because intent was not at issue in the case, and the 
+jury could not have convicted “without also finding that 
+[defendant] had the requisite intent." Id. at 465. In 
+Leavitt v. Vasquez, 875 F.2d 260 (9th Cir. 1989), the 
+court followed Willard by applying harmless error 
+
+
+analysis and used the test for harmless error suggested 
+
+
+3. “Under the circumstances of this case, the assistance to 
+McHargue by defendant in the perpetration of the robbery, with 
+defendant’s knowledge of McHargue’s purpose, unambiguously 
+reveals defendant’s awareness of the importance of his acts in 
+advancing the robbery. In the absence of evidence establishing some 
+contrary intent, no other inference is permissible from that act. 
+
+
+Roy Il, at 30. 
+
+
+_ by Justice Scalia’s concurring opinion in Carella vy. 
+California, 491 U.S. 263, 109, S. Ct. 2419 (1989). 
+Under the Scalia test, harmless error may be found: 
+
+When the predicate facts relied upon in the 
+instruction, or other facts necessarily found by 
+the jury, are so closely related to the ultimate 
+
+_ fact to be presumed that no rational jury could 
+find those facts without also finding that 
+ultimate fact, making those findings functionally 
+equivalent to finding the element required to be 
+presumed. 
+
+
+Id. at 2423. The Willard court held that in the 
+particular circumstances of the case the jury’s finding 
+that the defendant gave aid with knowledge of the 
+principal’s criminal purpose was the functional 
+equivalent of finding that defendant acted with the 
+requisite specific intent to facilitate the principal’s 
+crime. 
+
+In Martinez v. Borg, 937 F.2d 422 (9th Cir. 
+1991), the court again used the harmless error analysis 
+suggested by Justice Scalia: 
+
+
+In applying the Scalia test to this case, we 
+examine the findings made by the jury. The 
+error is harmless if no rational jury would have 
+made these findings without also finding that 
+[petitioner] had the specific intent to aid the 
+murder and attempted murder. 
+Id. at 425. The court found that the Beeman error 
+was not harmless in this case because there was 
+evidence at trial that the defendant did not have the 
+specific intent to aid the commission of the offense. 
+The court’s analysis of the evidence also suggested that 
+the jury could have convicted without finding that 
+
+
+when Martinez assisted the principal he understood the 
+
+
+principal’s crimiral purpose.* 
+
+
+i. 
+‘i 
+1 
+iF 
+| 
+
+
+2 
+
+Hi 
+VS 
+ALG 
+nH rr 
+v5 F 
+HUE 
+Me 
+ti gfe 
+seilaweesi 
+
+
+a 
+
+
+Finally, in Hart v. Stagner, 935 F.2d 1007 (9th 
+Cir. 1991), the court again looked to "the predicate 
+facts the jury must have found to convict [the 
+defendant) under the instructions it was given” and 
+then determined whether "the jury must have 
+necessarily found the element on which the jury 
+instructions were incorrect." Id. at 1012. In view of 
+the facts of the case, the court concluded that no 
+rational jury could have found that defendant knew of 
+the principal’s criminal purpose but acted without an 
+intent to aid in the commission of the crime. Id. The 
+court noted that the defense at trial was not one of 
+lack of intent. Id. at 1013. 
+
+The jury in this case found Roy guilty of second 
+degree murder of Clark, guilty of aiding and abetting 
+the robbery of Mannix by McHargue, and guilty of the 
+felony murder of Mannix, with robbery as the 
+
+
+underlying felony. The aiding and abetting instruction 
+
+
+9 
+
+
+aided in the commission of the robbery offense and 
+that when he provided this aid he did so with 
+knowledge of McHargue’s unlawful purpose. As both 
+the magistrate judge and court of appeal have 
+explained in some detail, the jury's findings that Roy 
+assisted McHargue’s robbery of Mannix knowing 
+McHargue’s purpose are the functional equivalent of a 
+finding of specific intent. No rational juror could find 
+that Roy aided McHargue, knowing what McHargue’s 
+purpose was, without also finding that Roy intended to 
+aid McHargue in his purpose. This kind of "knowing 
+aid,” in the language of the court of appeals, is 
+synonymous with specific intent, at least when there is 
+no contrary evidence suggesting that the acts were 
+involuntary or that specific intent was otherwise 
+lacking. Here Roy did not argue that he lacked the 
+
+
+intent to aid McHargue except to the extent that he 
+
+
+10 
+
+
+contended that because of diminished capacity he 
+lacked the ability to form intent, a contention rejected 
+by the jury in its conviction of Roy for the murder of 
+Clark. The factual scenarios suggested by petitioner in 
+which he may have assisted McHargue to rob Mannix, 
+without intending to do so, ignore that the jury was 
+required to find that when Roy acted to give aid to 
+McHargue, he did so with knowledge of McHargue’s 
+unlawful purpose. This case is not fairly 
+
+Beeman error that occurred here was harmless beyond 
+a reasonable doubt. 
+
+Petitioner also argues that the harmless error 
+approach is itself error because the removal of an 
+element from the jury’s consideration can never be 
+harmless but amounts to an impermissible directed 
+verdict for the state. As the discussion above 
+
+
+demonstrates, it is well established that claims of 
+
+
+11 
+
+
+Beeman error are evaluated under a harmless error 
+standard. The court in United States v. Gaudin, 997 
+F.2d 1267 (9th Cir. 1993), does not purport to alter 
+this approach In Gaudin the district court erroneously 
+removed the question of materiality from the jury by 
+instructing it that the alleged false statements were 
+material as a matter of law. The court found that 
+harmless error analysis could not be applied in this 
+circumstance because the element of materiality had 
+been "completely removed" from the jury’s 
+consideration. Id. at 1272. In these circumstances, 
+unlike Martinez and Justice Scalia’s approach, "there 
+can be no inquiry into what evidence the jury 
+considered to establish that element, because the jury 
+was precluded from considering the element at all." 
+Id. By contrast, here intent was not completely 
+removed from the jury’s consideration. Rather, the 
+jury was not instructed, or was imperfectly instructed, 
+
+
+12 
+
+
+on intent to aid and abet.*. For these reasons, 
+Gaudin does not apply here. Moreover, Gaudin does 
+not question the continued use of the well established 
+harmless error analysis in cases involving Beeman 
+error. Indeed, Gaudin expressly relies upon Martinez. 
+
+
+See also Hennessy v. Goldsmith, 929 F.2d 511 (9th Cir. 
+
+
+1991). 
+
+Nor does Sullivan v. Louisiana, 113 S. Ct. 2078 
+(1993), suggest that harmless error review should not 
+apply to the instructional error here. In Sullivan the 
+Court reaffirmed the appropriateness of such review to 
+cases involving instructions incorporating mandatory 
+presumptions. Beeman error is a similar kind of error 
+because the jury finds--or is presumed to find--the 
+
+
+requisite intent by finding knowing aid. The Court 
+
+
+5. AS suggested by the court of appeal in its decision, the 
+instruction that was given, requiring a finding of "knowing aid,” is 
+a sufficient implicit instruction on the requisite intent in the 
+circumstances. In this sense, the element of intent was presented 
+to the jury for consideration without the word “intent.” 
+
+
+13 
+
+
+reaffirmed that when the jury finds facts "so closely 
+related to the ultimate fact to be presumed that no 
+rational jury could find those facts without also finding 
+that ultimate fact" then harmless error may be found 
+because "the presumption played no significant role in 
+the finding of guilt beyond a reasonable doubt." Id. at 
+2082. However, when as in Sullivan, the reasonable 
+doubt instruction is defective, such that all of the jury’s 
+fact findings are unreliable, there can be no harmless 
+error analysis because there are no jury findings from 
+which to ask what further a reasonable jury must find. 
+Sullivan has no bearing on the continued use of 
+harmless error analysis to cases involving Beeman 
+error. If anything, it affirms the continued validity of 
+that approach. 
+
+The court adopts the findings and 
+recommendations submitted by the magistrate judge 
+
+
+14 
+
+
+and reject petitioner’s objections. The petition for 
+habeas corpus is DENIED. 
+IT IS SO ORDERED. 
+
+
+Dated: _9 May 1994 
+
+
+Ls/ 
+DAVID F. LEVI 
+United States District Judge 
+
+
+q > 
+wy » rhe oe -y is aS es fate ; =< - 
+SOG TRE PO ep TO 
+
+
+FILED 
+MAR 5 1995 
+Clerk, U.S. District Court 
+Eastern District of California 
+/s/ Deputy 
+
+
+IN THE UNITED STATES DISTRICT COURT 
+
+
+FOR THE EASTERN DISTRICT OF CALIFORNIA 
+
+
+KENNETH D. ROY, 
+Petitioner, 
+v. 
+JAMES GOMEZ, et al., 
+
+
+Respondents. 
+
+
+Civ. S-89-1643-DFL-PAN 
+
+
+FINDINGS AND 
+RECOMMENDATIONS 
+
+
+Petitioner Roy, a state prisoner 
+
+
+proceeding in forma pauperis and pro se, seeks a writ 
+
+
+of habeas corpus pursuant to 28 U.S.C. § 2254. This 
+
+
+proceeding was referred to me by Local Rule 302 
+
+
+pursuant to 28 USC. § 636(b)(1). 
+
+
+Roy and McHargue were hitchhiking near 
+
+
+Gridley when they met the victims, Clark and Mannix, 
+
+
+who had a truck. That night, Clark and Mannix were 
+
+
+found dead near their truck, which was wrecked in a 
+water-filled ditch; Clark was stabbed once and Mannix 
+was stabbed seven times. When Roy and McHargue 
+were found, they both had knives, their pants were 
+wet, Mannix’s belongings were found in Roy’s pockets 
+and McHargue’s wet backpack. A Butte County jury 
+found Roy (1) guilty of second degree murder of 
+Clark, (2) not guilty of robbing Clark, (3) not guilty of 
+using a knife in the murder of Mannix but (4) guilty of 
+aiding and abetting the first degree murder and 
+robbery of Mannix armed with but not using a knife.” 
+
+
+3 
+: 
+li 
+=& 
+28 
+ig 
+
+
+BR 
+
+
+Cal.App.3d 642, 644 (1989) ("Roy I"); Clerk’s Tr. (“CT”) at 760, 
+765-66. In a sworn declaration, the 
+
+
+or statement occurring during the course of the jury's deliberations 
+
+
+emotions as influencing the juror to assent to or dissent 
+verdict or concerning the juror’s mental processes in connection 
+therewith. However, Rule 606(b) does not prohibit admission of a 
+juror’s affidavit to clarify an ambiguous verdict or to correct a 
+
+
+judgment to reflect the intent of the jury. United States v. Stauffer, 
+
+
+The state presented alternative theories. 
+First, the state contended that Roy and McHargue 
+planned to rob and kill the victims. Alternatively, the 
+state contended that the killing occurred during the 
+commission of robbery. 
+
+Since the jury found Roy guilty of only 
+second degree murder of Clark and not guilty of 
+robbing Clark, the California Court of Appeal inferred 
+that the jury found that Roy did not plan to murder 
+either victim, i.e., it rejected the state’s first theory thus 
+leaving the theory that the killings occurred during the 
+commission of robbery. 
+
+Under California law, Roy might be 
+corvicted of felony-murder if Mannix’s death was 
+
+
+unintentional but nonetheless a natural, reasonable or 
+
+
+922 F.2d 508, Sil, 513-14 (9th Cir. 1990); McCollough v. 
+937 F.2d 1167, 1172, (6th Cir. 1991); J. 
+
+
+Weinstein & M. Berger, Weinstein's Evidence § 606[04] at p. 606-30 
+(1992). Here, because the jury was instructed on several theories 
+of first degree murder, a juror affidavit clarifying the specific theory 
+relied upon is admissible. 
+
+
+probable consequence of robbery. But Roy could be 
+
+found guilty of the special circumstance of a murder in 
+the course of a robbery, which finding exposed Roy to 
+the death penalty, only if Roy acted with the intent to 
+aid in the killing. 
+
+The California Court of Appeal found 
+that the evidence supported reasonable inferences by 
+the jury that two simultaneous fights ensued following 
+the wreck of Mannix’s truck; that Roy fought Clark 
+while McHargue fought Mannix; that Roy 
+independently fatally injured Clark and McHargue 
+mortally injured Mannix; that thereafter, McHargue 
+dragged or struggled with Mannix to the ditch where 
+McHargue drowned Mannix; and that Roy’s only 
+participation in the offenses against Mannix was taking 
+Mannix’s property or assisting McHargue so to do. 
+Roy |, slip op. at 20. 
+
+
+The jury was not instructed that it must 
+find that Roy intended to aid the killing of Mannix in 
+order to be found guilty of the charged special 
+circumstance and, accordingly, the court of appeal 
+reversed that finding. 
+
+On remand from the court of appeal, the 
+trial court resentenced Roy to a minimum prison term 
+of 46 years. People v. Roy, No. C007071, slip op. at 2 
+(Cal. Ct. App. Sept. 24, 1990) ("Roy II”). 
+
+Now Roy argues that his felony-murder 
+conviction must also be reversed because the jury was 
+not instructed that to be guilty as an aider and abetter, 
+Roy must have intended to aid and abet McHargue. 
+People v. Beeman, 35 Cal.3d 547 (1984). 
+
+Facts 
+
+Roy and McHargue went to a liquor 
+store in Gridley were they met James Clark and 
+Archie Mannix. The men conversed and drank beer 
+
+
+together near Mannix’s truck. Mannix bought two six- 
+packs of beer with a ten dollar bill. Rep.’s Tr. ("RT") 
+at 2218-19, 2222-23. Later, Mannix bought more beer. 
+RT at 2227. 
+
+About 9:00 p.m., police officers stopped 
+Mannix’s truck, McHargue was driving, and Roy, 
+Mannix and Clark were inside. Mannix was wearing a 
+western-style vest with long straps and knee-high 
+leather moccasins. RT at 2042, 2392. There were two 
+backpacks in the truck. RT at 2043, 2393. The 
+Officers saw the four men again at the liquor store 
+before 11:00 p.m. RT at 2050, 2088, 2396. 
+
+About 11:15 p.m., Marie Koehler Smart 
+saw two men standing by the side of the truck which 
+was in a ditch. Smart spoke to McHargue while the 
+other man stood near her car. RT at 2471. 
+McHargue told Smart that they had already called for 
+help. RT at 2473. As Smart turned to depart, she 
+
+
+saw another person laying on the ground by the side of 
+the truck; the person appeared to be injured but was 
+moving. RT at 2474-75. Smart saw McHargue and 
+the other man walk back to where the man was lying 
+and stand over him. RT at 2476. 
+
+Police arrived about 1:30 a.m. RT at 
+2050-51, 2054, 2061, 2096. They found skid marks 
+measuring approximately 50-100 feet behind the truck. 
+RT at 2077-78, 2635. Clark’s body was lying across the 
+ditch, on his back. RT at 2057-58, 2404-05. Clark was 
+fully clothed, his shirt was unbuttoned, he was wet and 
+muddy, had no vital signs, and had a puncture wound 
+in the middle of his chest. RT at 2058, 3283. Mannix’s 
+body was found under the truck, submerged in water; 
+his clothing except for his pants had been removed, his 
+pants were pulled down to his knees, and his 
+moccasins were gone. RT at 2063-64, 2406-07. 
+
+
+There was about twelve inches of water 
+in the ditch. RT at 2621, 2632. The truck was about 
+five and a half feet above the water in the ditch. RT 
+at 2626. There were scattered papers and a wallet, 
+containing Mannix’s drivers license and one dollar, in 
+the brush near the truck. RT at 2628, 2637, 2645. 
+The papers were dry. RT at 3305. A dime lay near 
+Clark’s body. RT at 2630-31. 
+
+About 3:00 p.m., officers found 
+McHargue and Roy at a restaurant. RT at 2069, 
+2071-72, 2094. They had been there for two hours. 
+RT at 2968-69. Both men had buck knives. RT at 
+2072-73, 2501. Roy’s pant legs were wet from the calf 
+down. RT at 2285-86. McHargue’s pants were 
+completely wet from the knees down, possibly from the 
+waist down, and his shoes were muddy. RT at 2448- 
+49, 2450. McHargue’s backpack was very wet and 
+
+
+contained Mannix’s brown knee-high moccasins and a 
+
+
+brown vest with long straps which were soaking wet. 
+RT at 2424-25, 2451. | 
+
+Roy first denied he was with Mannix and 
+Clark when the truck went into the ditch. RT at 2173. 
+An officer noticed that Roy’s backpack was wet and 
+muddy and its contents were wet. RT at 2176. Roy 
+then adinitted that he and McHargue were with 
+Mannix and Clark at the accident scene. RT at 2293. 
+Roy stated that McHargue was driving the truck, lost 
+control on Block Road, went into a ditch and wrecked 
+the truck. KT at 2179-81, 2293. Roy stated that he 
+and Clark climbed out of the passenger window, went 
+through the ditch onto the bank, that Clark was 
+jumping up and down on the embankment and 
+shouting, and that Clark struck Roy in the chest and 
+stomach. RT at 2181-82, 2293. Roy stated that he 
+removed his buck knife, stabbed Clark once in the 
+
+
+chest because Clark was attacking him, Clark fell on 
+
+
+10 
+
+
+his back, and Toy then told Clark "he was sorry he 
+had to do that." RT at 2182-83, 2194. Roy stated that 
+he then went to where McHargue was standing and 
+saw that Mannix was in the ditch. RT at 2183-84. 
+
+Roy did not know how Mannix got into the ditch, did 
+not know what Mannix and McHargue had been doing, 
+and denied being involved in the altercation with 
+Mannix. RT at 2184, 2294-95, 2303. Roy denied 
+taking anything from Clark or Mannix. RT at 2302. 
+Roy stated that he and McHargue then walked back 
+into town. RT at 2302. Among Roy’s possessions, 
+police found $170.53 cash and Mannix’s wristwatch. 
+
+RT at 2309-10, 2666-68. 
+
+One of the pockets on Clark’s pants was 
+turned inside out. RT 2690. Clark died from a stab 
+wound to his heart. RT at 2696. 
+
+Mannix suffered multiple scratches on his 
+
+
+body and several stab wounds. RT at 2699-2700, 2711. 
+
+
+11 
+
+
+Mannix was stabbed once in the left chest through the 
+heart, once in the abdomen, and five times above his 
+left hip and on the hip. RT at 2700, 2711-13. Mannix 
+also drowned. RT at 2701. Either the drowning by 
+itself or the stab would by itself could have killed 
+Mannix. RT at 2701. 
+
+The stab wounds found on Mannix and 
+Clark were consistent with the buck knives taken from 
+Roy and McHargue, however, a pathologist could not 
+determine which knife inflicted which wounds. RT at 
+2725-26, 2730. 
+
+Williams Hudspeth met Roy while the 
+two were confined at the Butte County Jail. RT at 
+3084. Hudspeth testified that Roy said that when he 
+and McHargue arrived in Gridley they wanted to sell 
+blood in order to get some money because neither had 
+money. RT at 3091. Roy said that he and McHargue 
+
+
+planned to rob the men they were drinking beer with 
+
+
+12 
+
+
+in Gridley and take their truck and Roy mentioned 
+that they would have to "take them out, meaning 
+Archie Mannix and the other person in the pickup." 
+RT at 3123-24. Hudspeth explained that to take 
+someone out means to kill them. RT at 3126. Roy 
+said that he and McHargue took the younger man out 
+and that he was the "easy one," then they worked on 
+the bigger man who McHargue was having a hard time 
+with. RT at 3126-27. Roy said that he stabbed the 
+bigger man in the lower part of the body and, because 
+he was not sure if he was dead, Roy and McHargue 
+shoved his head in the water; after that Roy and 
+McHargue left in the truck. RT at 3127, 3135-36. 
+Roy said he and McHargue took the two men’s 
+money, between $150 and $160, some clothes, and a 
+vest Roy wanted. RT at 3128-29. Hudspeth also 
+stated that Roy said the pickup truck was stuck off the 
+
+
+side of the road, so he and McHargue started walking 
+
+
+13 
+
+
+back towards town when another vehicle picked them 
+up. RT at 3133. 
+
+Joy Hudspeth, William Hudspeth’s wide, 
+testified that she received letters from William 
+Hudspeth, who was in the state prison system, 
+discussing his forthcoming testimony and stating "Can 
+you imagine on the stand I have to look at him. I've 
+got to kill a guy. That hurts. Hope he gets double 
+life instead. Very hard. What I’m going through.” 
+RT at 3510, 3512-15, 3536. Hudspeth also stated "I 
+hope Mattly comes through for me on his promise." 
+RT at 3537. The district attorney’s name was Mattly. 
+RT at 1. Hudspeth subsequently testified in rebuttal 
+that the "promise" referred to was to be taken out of 
+the California State prison system into another state 
+prison for his safety. RT at 4508. Hudspeth testified 
+that state prisoners who testify jeopardize their safety. 
+RT at 4508-09. Hudspeth hoped that Mattly could get 
+
+
+14 
+
+
+him a job. RT at 4512. Hudspeth testified that 
+Mattly never made him any promises to get him to 
+testify. RT at 4509. 
+
+Sidney Hall also met Roy while the two 
+were confined at the Butte County Jail. RT at 3196. 
+Hall testified Roy said that when he arrived in Gridley 
+he had a little money. RT at 3214. Roy said that 
+Clark and Mannix were mad because the truck was 
+wrecked and that Clark hit Roy in the head with a 
+stick. RT at 3200-01, 3217. Roy said that he killed 
+Clark by stabbing him with a buck knife. RT at 3200- 
+01, 3259. Roy said that McHargue and Mannix were 
+fighting, that McHargue was "getting the worst end of 
+it," and that Roy went over to help McHargue. RT at 
+3203. Roy did not say how he helped McHargue with 
+Mannix. RT at 3203. Roy said that Mannix had to 
+die because he was a witness and that he was stabbed 
+
+
+and drowned, but Roy later retracted the statement 
+
+
+15 
+
+
+and said that it was not so. RT at 3203-04. Roy 
+never said that he stabbed Mannix. RT at 3266. Roy 
+said that after the deaths, McHargue took a vest and 
+some high-top moccasins, and Roy and McHargue 
+walked back to Gridley. RT at 3218-19. Roy also said 
+that he did not take anything from Clark or Mannix. 
+RT at 3240, 3258. 
+
+A criminalist tested Roy’s buck knife and 
+found ABO type A blood near the base of the blade. 
+RT at 2908-09. Mannix was ABO type A and Clark 
+was ABO type O. RT at 2807-10, 2910-11. The 
+criminalist could not determine that the type A blood 
+found on Roy’s knife was Mannix’s blood. RT at 2963. 
+A forensic serologist performed a blood test on blood 
+taken from Roy and determined that Roy is ABO type 
+A. RT at 3764. 
+
+A psychologist opined that Roy has 
+
+
+"borderline intellectual functioning or borderline 
+
+
+16 
+
+
+intellectual retardation," and "substantial and significant 
+brain damage or neurological impairment." RT at 
+3576-77, 3642-43. A board certified psychiatrist 
+testified that Roy did not have the capacity to form a 
+clear and deliberate intent to kill a human being on 
+September 14, 1981. RT at 4279-80. He also opined 
+that Roy did not have a normal capacity to weigh and 
+consider the question of killing a human being. RT 
+4281. 
+
+A psychiatrist testified that neither 
+psychiatrist nor psychologists have the expertise to 
+decide whether an individual is capable of forming the 
+intent to kill. RT at 4426. 
+
+Discussion 
+
+Roy contends that the trial court’s failure 
+to instruct the jury that intent is an element of aiding 
+an abetting was harmful constitutional error because it 
+
+
+relieved the state of its burden of proving all elements 
+
+
+17 
+
+
+of the offense beyond a reasonable doubt. Roy also 
+contends that the omission resulted in an 
+unconstitutional directed verdict against Roy, depriving 
+him of a jury trial upon an element of the offense 
+charged.” 
+
+Due Process protects the accused against 
+conviction except upon proof beyond a reasonable 
+
+
+doubt of every fact necessary to constitute the crime 
+
+
+2. See Martinez v. ghee hte be, 
+"In Carella {y. California] . . . Justice Scalia reasoned 
+sen ied GEA Ts Iemmprngeiate ta Go cunnen of tenmngiets 
+jury instructions because it substitutes the appellate court's findings 
+of fact for the jury’s and is akin to an impermissible directed 
+verdict.") Respondents contend that Roy’s claim that the trial court 
+directed a verdict in violation of his right to a jury trial is 
+unexhausted. Answer at 30. Roy’s habeas petition to the California 
+
+
+18 
+
+
+with which he is charged. In re Winship, 397 U.S. 358, 
+364, 90 S.Ct. 1068, 1073 (1970). Failure to properly 
+instruct a jury regarding an element*of a charged 
+crime is a constitutional error that deprives the 
+defendant of due process unless the error is harmless. 
+Hennessy v. Goldsmith, 929 F.2d 511, 514 (9th Cir. 
+1991). 
+
+The jury was instructed that "[a] person 
+aids and abets the commission of a crime if with [1] 
+knowledge of the unlawful purpose of the perpetrator 
+of the crime he [2] aids, promotes, encourages or 
+instigates by act or advice the commission of such 
+crime.” RT at 5780. 
+
+After Roy’s trial, but before his 
+conviction became final, the California Supreme Court 
+
+
+held that when the defendant’s intent is ambiguous, an 
+
+
+The substantive elements of a criminal offense are defined 
+law. 
+
+
+3. 
+by state law. See Jackson v. Virginia, 443 U.S. 307, 324 n.16, 99 
+S.Ct. 2781, 2792 n.16 (1979). 
+
+
+19 
+
+
+aiding and abetting conviction requires "proof that an 
+aider and abettor rendered aid with an intent or 
+purpose of either committing, or of encouraging or 
+facilitating commission of, the target offense. People v. 
+Beeman, 35 Cal.3d at 551. 
+
+In Beeman, the defendant was convicted 
+of aiding and abetting robbery upon the testimony of 
+others that he was extensively involved in planning the 
+crime, drew a floor plan of the scene, and possessed 
+part of the loot. Beeman testified that two days 
+before the robbery, he told the others that he wanted 
+nothing to do with it and that he furnished the floor 
+plan for an innocent purpose. The jury was instructed 
+that a person aids and abets the commission of a 
+crime if, with knowledge of the unlawful purpose of 
+the perpetrator of the crime, he aids, promotes, 
+encourages or instigates by act or advice the 
+commission of such crime. The California Supreme 
+
+
+20 
+
+
+Court held that an aider and abettor must act with 
+knowledge of the perpetrator’s criminal purpose and 
+intent; otherwise conviction is allowed if the defendant, 
+knowing of the perpetrator’s unlawful purpose, 
+negligently or accidentally aided the crime. 
+
+The United States Court of Appeals for 
+the Ninth Circuit has held that "Beeman" error is 
+constitutional error when it precludes the jury from 
+finding each element of the crime beyond a reasonable 
+doubt. Martinez v. Borg, 937 F.2d 422, 423 (9th Cir. 
+1991).* In that case, the defendant was convicted of 
+
+
+aiding and abetting the second degree murder of one 
+
+
+4. The error is harmless, however, if no rational jury would 
+have made its findings without also finding that the defendant had 
+the specific intent to aid the crimes committed by the perpetrator. 
+Martinez, 937 F.2d at 423, 424. Yates v. Evatt, 111 S.Ct. 1884 
+
+
+standing alone. 111 S.Ct. at 1893. Yates has no application to a 
+case involving Beeman error, where an element of the offense is 
+
+
+omitted. See Martinez, 937 F.2d at 424. If an instruction omits an 
+element, a court cannot weigh the evidence considered by the jury 
+in accordance with the omitted element. 
+
+
+21 
+
+
+peace officer and of the attempted murder of another. 
+The evidence was that the murder weapon was usually 
+carried by defendant but that the perpetrator suddenly 
+shot the officers from a car window at point-blank 
+range. The court found that the jury could have found 
+that defendant aided the murder by supplying the 
+murder weapon without necessarily finding that 
+appellant intended the gun to be used to kill the 
+officers. Because the court could not determine that 
+the jury necessarily found specific intent in order to 
+reach its verdict, the instruction omission was not 
+harmless. Id. at 425-26. 
+
+Absence of a Beeman instruction, 
+however, does not necessarily remove the issue of 
+intent from the jury’s consideration. Only when the 
+defendant’s act is not intended, e.g., it is involuntary, 
+or if the defendant, intending the act, did not know 
+
+
+that it would aid the perpetrator’s criminal venture, is 
+
+
+22 
+
+
+the Beeman instruction required.» That was the case 
+in Martinez but it is not the case here. 
+McHargue and Roy hitchhiked to 
+
+
+Gridley. Mannix paid for beer and owned a truck. 
+
+
+McHargue and another man were seen standing over a» 
+
+
+shirtless, living, wounded man. Roy admitted stabbing 
+Clark. Mannix’s shirtless body was found submerged 
+in water under his truck. Mannix died either from 
+being stabbed or drowned. Mannix’s wallet was found 
+with one dollar in it. Upon his arrest, Roy’s pants 
+were wet from the calf down. Police found $170 and 
+Mannix’s wristwatch among Roy’s possessions. Roy at 
+first denied being with Mannix and Clark when the 
+truck went into the ditch but then admitted being 
+
+
+there. Roy told Hall that he "helped" McHargue when 
+
+
+5. See Hart v. Stagner, 935 F.2d 1012-13 (Beeman error 
+harmless when defense was not lack of intent, but that Hart was not 
+present during crimes); Cf. Martinez, 937 F.2d at 425 n.2; Willard 
+y. California, 812 F.2d 461, 646 (9th Cir. 1987) (Beeman error 
+harmless where intent is not a live issue at trial). 
+
+
+23 
+
+
+McHargue and Mannix were fighting. Type A blood 
+was found on Roy’s knife; Roy and Mannix had type A 
+blood. Hudspeth testified that Roy admitted a plan to 
+rob Clark and Mannix and admitted robbing both. 
+Hall testified that Roy admitted helping McHargue 
+with Mannix. 
+
+Roy did not argue that he did not intend 
+to aid and abet McHargue. Roy’s statement to the 
+police was that he did not know how Mannix got into 
+the ditch, did not know what Mannix and McHargue 
+had been doing, and denied being in the altercation 
+with Mannix. RT at 2184, 2294-95, 2303. Defense 
+counsel argued that Mannix received dollar bills in 
+change for the beer, that Roy did not have any dollar 
+bills in his wallet, that there was no evidence the 
+money in Roy’s \. ‘Wet came from Mannix or Clark, 
+that Roy earned that money, that McHargue gave the 
+wristwatch to Roy after McHargue killed Mannix, and 
+
+
+24 
+
+
+that Roy did not have Mannix’s keys. RT at 5695- 
+5700, 5709-10. 
+
+The record shows that the jury could not 
+have reached its verdict of aiding and abetting without 
+also finding that Roy had specific intent to aid and 
+abet the robbery of Mannix; i.e., that Roy knew the 
+full extent of McHargue’s criminal purpose to rob 
+Mannix, and Roy gave aid or eussumgement with the 
+intent or purpose of facilitating McHargue’s 
+commission of the crime. See Beeman, 35 Cal.3d at 
+560. 
+
+There is no ambiguity here as there was 
+in Martinez and the instruction given did not remove 
+the issue of intent from the jury’s consideration or 
+result in a directed verdict. 
+
+Roy contends that intent was a live issue 
+because of expert testimony on Roy’s mental 
+
+
+limitations, his lack of capacity to form the requisite 
+
+
+25 
+
+
+intent for murder, and because Roy tendered a 
+diminished capacity defense.“ However, the jury 
+convicted Roy of the second degree murder of Clark. 
+In California, second degree murder requires proof of 
+malice aforethought and is a specific intent crime. Cal. 
+Penal Code §§ 187-189; People v. Gorshen, 51 Cal.2d 
+716, 732 (1959). The jury was instructed that if Roy’s 
+mental capacity was diminished--from mental illness, 
+mental defect, intoxication or other cause--to the extent 
+that there was a reasonable doubt whether Roy was 
+able to form the mental states constituting either 
+express or implied malice aforethought, the jury could 
+not find him guilty of second degree murder. RT at 
+
+
+5797-98. Because the jury convicted Roy of the 
+
+
+30 251 Pansies, Valen 175 Colnup.ae 705 792 n.7 
+34 Cal.3d 251 (1983 ’ 
+(1985), People v, Moby, 150 Cal.App 34 705 (1984), California law 
+provided that “evidence of diminished mental capacity, whether 
+caused by intoxication, trauma, or disease, can be used to show that 
+a defendant did not have a mental state essential to an 
+offense.” People v. Conley, 64 Cal. 2d 310, 316 (1966); see People 
+v. Saille, 54 Cal.3d 1103 (1991). 
+
+
+26 
+
+
+second degree murder of Clark, they necessarily 
+rejected Roy’s diminished capacity defense. 
+
+I find that there was no federal 
+constitutional error in the trial court’s jury instructions. 
+Accordingly, it is 
+
+RECOMMENDED that the petition for 
+a writ of habeas corpus be denied. 
+
+These findings and recommendations are 
+submitted to the Honorable David F. Levi pursuant to 
+28 U.S.C. § 636(b)(1)(C). Any party may file written 
+objections to these findings and recommendations 
+pursuant to Fed. R. Civ. P. 72(b) and L.R. 305(b) 
+within ten days after service. 
+
+
+Dated: _ Mar -4 1993 
+
+
+Ls/ 
+UNITED STATES MAGISTRATE JUDGE 
+
+
+‘ 
+a  * eRe A 
+
+
+ORDER DENYING WRIT OF HABEAS CORPUS 
+$012052 
+
+
+IN THE SUPREME COURT OF 
+THE STATE OF CALIFORNIA 
+
+
+IN BANK 
+
+
+IN RE KENNETH ROY 
+ON 
+
+
+HABEAS CORPUS 
+
+
+ss 
+
+
+Petition for writ of habeas corpus DENIED. 
+
+
+SUPREME COURT 
+FILED NOV. 21, 1989 
+
+
+Robert Wandruff, Clerk 
+Deputy 
+
+
+Ss 
+
+
+Chief Justice 
+
+
+Cr §) ney ey Oe ae ee > yee 
+
+
+IN THE 
+
+
+COURT OF APPEAL OF 
+THE STATE OF CALIFORNIA 
+
+
+IN AND FOR THE 
+THIRD APPELLATE DISTRICT 
+
+
+PEOPLE OF THE STATE 
+OF CALIFORNIA 
+Plaintiff and Respondent 
+
+
+VS. 3 Crim. C000992 
+Butte 76386 
+KENNETH DUANE ROY 
+Defendant and Appellant 
+
+
+REMITTITUR TO COUNTY CLERK 
+
+
+I, ROBERT L. LISTON, Clerk of the Court of Appeal of the 
+State of California for the Third Appellate District, do 
+hereby certify that the attached is a true and correct copy 
+of the original opinion entered in the above entitled cause 
+that has now become final. 
+
+
+WITNESS my hand and the seal of the Court affixed at my 
+Office this 9th day of May, 1989. 
+
+
+ROBERT L. LISTON, Clerk 
+
+
+By: /s/ 
+SEAL Deputy 
+
+
+Receipt of the original remittitur in the above case is hereby 
+acknowledged. 
+
+
+Dated: County Clerk 
+
+
+By: 
+Deputy 
+
+
+ce: see Mailing List 
+
+
+ORDER DENYING REVIEW 
+
+
+AFTER JUDGMENT BY 
+THE COURT OF APPEAL 
+
+
+3rd District, No. C000992 
+$009253 
+
+
+IN THE SUPREME COURT OF 
+THE STATE OF CALIFORNIA 
+
+
+IN BANK 
+
+
+PEOPLE 
+v. 
+
+
+KENNETH DUANE ROY 
+
+
+Appellant’s and Respondent’s petitions for review 
+DENIED. The request for an order directing 
+depublication of the opinion in the above-entitled cause 
+is DENIED. 
+
+
+Ls/ 
+Chief Justice 
+
+
+SUPREME COURT 
+
+Filed May 4, 1989 
+
+Robert Wandruff, Clerk 
+Deputy 
+
+
+IN THE 
+
+
+COURT OF APPEAL OF 
+THE STATE OF CALIFORNIA 
+
+
+IN AND FOR THE 
+
+
+THIRD APPELLATE DISTRICT 
+
+
+PEOPLE OF THE STATE 
+OF CALIFORNIA 
+Plaintiff and Respondent 
+
+
+vs. 3 Crim. C000992 
+Butte 76386 
+
+
+KENNETH DUANE ROY 
+Defendant and Appellant 
+
+
+By the Court: 
+Appellant’s petition for rehearing is denied. 
+
+
+Dated: February 22, 1989 
+
+
+EVANS, Acting P.J. 
+
+
+ce: see Mailing List 
+
+
+FILED FEB 22 1989 
+COURT OF APPEAL - THIRD DISTRICT 
+
+
+Robert L. Liston, Clerk 
+Deputy 
+
+
+FILED JAN 27 1989 
+COURT OF APPEAL - THIRD DISTRICT 
+
+
+Robert L. Liston, Clerk 
+Deputy 
+(SEE DISSENTING OPINION) 
+
+
+CERTIFIED FOR PARTIAL PUBLICATION 
+
+
+THE COURT OF APPEAL 
+OF THE STATE OF CALIFORNIA 
+
+
+IN AND FOR THE THIRD APPELLATE DISTRICT 
+
+
+(Butte) 
+THE PEOPLE, C000992 
+Plaintiff and Respondent, (Super. Ct. 
+No. 76386) 
+
+
+Vv. 
+
+
+KENNETH DUANE ROY, 
+
+
+Ne ee ee eee ee ee” 
+
+
+Defendant and Appellant. 
+
+
+APPEAL from a judgment of the Superior 
+Court of Butte County, Loyd H. Mulkey, Jr., Judge. 
+Reversed in part, affirmed in part and remanded for 
+resentencing or retrial. 
+
+
+Frank O. Bell, Jr., State Public Defender, 
+under appointment by the Court of Appeal and Julia 
+Cline Newcomb, Deputy State Public Defender, for 
+Defendant and Appellant. 
+
+
+ec eee 
+
+
+John K. Van de Kamp, Attorney General, 
+Robert D. Marshall and Cynthia G. Besemer, Deputy 
+
+
+Attorneys General, for Plaintiff and Respondent. 
+Defendant Kenneth Roy was convicted of 
+the first degree murder of Archie Mannix (Pen. Code, § 
+187"; count II) and his robbery (§ 211; count IV) after 
+a jury trial and was found to have possessed but not to 
+have used a knife during these offenses (§ 12022, subd. 
+(b); counts II and [V). He was also convicted of the 
+second degree murder of James Clark (§ 187; count I) 
+and of personally using a knife during that killing 
+(§ 12022, subd. (b)), but was acquitted of his robbery (§ 
+211; count III). The Mannix murder formed the basis of 
+two special circumstances findings, (1) that it was 
+committed during the commission of a robbery (§ 190.2, 
+subd. (a\(17)(i); count I) and (2) that it was one of two 
+
+
+offenses of murder in the first or second degree (§ 190.2, 
+
+
+1. Unless otherwise noted, all further references will be to 
+the Penal Code. 
+
+
+subd. (a)(3); count II).* Penalties were imposed of life 
+imprisonment without possibility of parole for the 
+murder-robbery of Mannix (count II), 15 years to life for 
+the murder of Clark (count I), plus a one-year 
+enhancement for use of a weapon (count I), and five 
+years for the Mannix robbery (count IV). Defendant 
+appeals contending the court made instructional errors. 
+
+We shall strike the special circumstance 
+findings and vacate the sentence predicated upon them. 
+In all other respects we shall affirm the judgment. In 
+the ‘published portion of this opinion*® we find the 
+special circumstance findings infirm for the reason that 
+the jury reasonably could have read the instructions, as 
+
+
+given, argued and applied to the evidence, to authorize 
+
+
+2. Defendant was also charged with kidnapping Clark and 
+Mannix for purposes of robbery (counts I and VI, § 209, subd. (b)) 
+and robbing Clark (count III, § 211). Defendani’s motion to strike 
+the two kidnapping charges was granted October 26, 1983, and the 
+jury found him not guilty of the robbery charge. 
+
+
+3. The Reporter of Decisions is directed to publish the 
+opinion except for parts II and Ii! of the Discussion. 
+
+
+the aggravated punishment for defendant on the ground 
+he aided and abetted the robbery of Mannix, the natural 
+and probable consequence of which was his killing by 
+another (McHargue).. That reading violates section 
+190.2, subdivision (b), which precludes imposition of the 
+special circumstance for aiders and abettors of a felony 
+murder who intend the commission of the felony but not 
+the killing. (See People v. Anderson (1987) 43 Cal.3d 
+1104.) In the unpublished portion of the opinion we 
+hold (a) it was harmless error to give CALJIC No. 3.01 
+(1980) as it preceded People v. Beeman (1984) 35 Cal.3d 
+547 and (b) it was harmless error to fail to give CALJIC 
+No. 5.17 sua sponte relating to an honest but 
+
+
+unreasonable belief in the necessity of self defense.* 
+
+
+4. Our dissenting colleague does not disagree with these 
+holdings, although he feels it necessary to discuss them anyway, from 
+his own vantage point, as part of "a homogenized discussion” of the 
+issues tendered in the published portion of this opinion. 
+
+
+FACTUAL AND PROCEDURAL BACKGROUND 
+
+
+On September 13, 1981, defendant and a 
+friend, Jesse McHargue, were hitchhiking near Gridley. 
+In Griuiey, they went to a liquor store where they met 
+the victims, Clark and Mannix. The men struck up a 
+conversation and drank beer together near Mannix’s 
+truck. | 
+
+At approximately 9 p.m. that evening, 
+Gridley Police Officer Stan Massey saw Mannix’s truck 
+backing up near the liquor store, almost hitting a utility 
+pole and some signs. He stopped the truck to talk to 
+the driver, McHargue. The four men were occupants. 
+Defendant and McHargue appeared to be sober, but 
+neither had a driver’s license. Because Mannix and 
+Clark were visibly intoxicated, Officer Massey advised all 
+four men not to drive. Massey noticed two backpacks in 
+
+
+the bed of the truck. 
+
+
+At approximately 11:15 p.m. that same 
+night, as Marie Koehler Smart drove through the 
+intersection of Block Road and Evans-Reimer Road, 
+near Gridley, she noticed two silhouettes and also saw a 
+truck in the ditch. Smart turned her car around so it 
+was heading south on Block Road and then stopped with 
+her high beams illuminating the area where the week 
+
+
+was resting. She saw two men standing on the bank to 
+
+
+the left side of the truck. When she asked if they 
+
+
+needed help, the two men approached the car. One of 
+the men, later identified as McHargue, went up to the 
+car window and told Smart they had summoned help. 
+As Smart made a U-turn to leave, she noticed a man 
+lying on the ground to the left side of the truck at the 
+location she had first observed McHargue and his 
+companion. The man was shirtless and appeared to be 
+hurt; he moved his hands "up towards his stomach, then 
+
+
+back down." Smart saw McHargue and the other man 
+
+
+walk back over to where the man was lying and stand 
+over him. 
+
+Early the next morning, officers found 
+Mannix’s truck "nosed" into a_ six-foot-deep ditch. 
+Although there were 12 inches of water in the ditch, no 
+part of the truck was submerged because both ends 
+rested on the opposite walls of the steeply sloped ditch. 
+The front end rested against the south bank. 
+Fifty-feet-long skid marks were found on "Block Road 
+south." Clark’s body was found in an empty field on the 
+south side of the ditch in front of the pickup. His 
+clothing was wet and muddy. One of his pants pockets 
+was turned inside out and his shirt was open. A dime 
+was found about four feet from his foot. Mannix’s body 
+was found in the ditch partially under the truck. His 
+body was partly submerged in the water. The only 
+clothing remaining on his body was a pair of pants pulled 
+
+
+down to his thighs. Both men had stab wounds. 
+
+
+Blood was found on the blackberry bushes 
+on the embankment directly behind the truck above the 
+spot where Mannix’s body was discovered. A wallet and 
+some papers were found scattered 10 to 15 feet down 
+the road, east of the truck. The wallet and papers were 
+dry. Mannix’s shirt was later found in the ditch. 
+
+After the bodies were discovered, Officers 
+Massey and Dustin commenced a search for defendant 
+and McHargue and found them in a restaurant. Both 
+men were carrying buck knives. McHargue’s pants were 
+completely wet, either from the thighs or the waist down. 
+Defendant’s pantlegs were wet to the calf. After they had 
+been informed of their Miranda rights, defendant and 
+McHargue authorized a search of their backpacks. In 
+McHargue’s backpack, Mannix’s water-soaked moccasins 
+and vest were found. Defendant’s backpack and its 
+
+
+contents were also wet. 
+
+
+Defendant at first denied being in the truck 
+with Mannix and Clark, claiming he and McHargue left 
+the two men at the liquor store. During questioning, he 
+admitted being in the truck when McHargue lost control 
+while making a turn. Defendant said that after he and 
+Clark left the truck, Clark began hitting him; defendant 
+then stabbed Clark once in the chest. Defendant said he 
+then told Clark he “was sorry he had to do that." He 
+retrieved his backpack and crossed the ditch to the place 
+where McHargue was standing. At that point, he said, 
+Mannix was already in the ditch. 
+
+After defendant’s arrest, Mannix’s watch 
+was found among defendant’s personal belongings. He 
+also had $170 in his wallet. 
+
+The medical examiner testified that Clark 
+died from a single stab wound to the chest and that 
+Mannix had multiple stab wounds and scratches on his 
+
+
+body and had drowned. Mannix was stabbed in the left 
+
+
+10 
+
+
+chest, in the upper left portion of his abdomen, and five 
+times on his lower left flank. The cause of death was 
+either the stab wound to the chest or the drowning. The 
+examiner also testified that five wounds to the lower 
+flank were inflicted after death. 
+
+Sidney Hall, a county jail inmate with 
+defendant, testified that defendant told him Clark and 
+Mannix "got mad" after McHargue wrecked the truck 
+when he took a turn too quickly and ended up in the 
+ditch. He admitted stabbing Clark after Clark hit him in 
+the head with a stick. Defendant said that Mannix and 
+McHargue were also fighting and, seeing that McHargue 
+“was getting the worst of it," defendant went over to help 
+him. Defendant did not say in what manner.* 
+
+Another jail inmate, William Hudspeth, 
+
+
+testified that defendant admitted to him that he and 
+
+
+5. Hall said that defendant at one point told him Mannix 
+had to die because he was a witness and that he was stabbed and 
+drowned, but defendant later retracted the statement. 
+
+
+11 
+
+
+McHargue planned to rob and kill both Clark and 
+Mannix, that they "went on with their plans” and killed 
+Clark first because he was the "easy one." Defendant 
+then assisted McHargue who was having a “hard time" 
+with Mannix. Hudspeth testified that defendant admitted 
+coming up from behind, stabbing Mannix in the lower 
+part of the body, pulling him off McHargue, stabbing 
+him again in the abdomen, and then shoving his head in 
+the water to make certain he was dead. Defendant said 
+that they took between $150 and $160 from the two 
+men; as well as Mannix’s vest. After the incident, they 
+got in the pickup and left. 
+
+Evidence was presented by the prosecution 
+that a small stain of dried blood found on the base of 
+the blade of defendant’s knife was ABO type A blood, 
+
+
+matching that of Mannix’s blood type. Clark’s blood 
+
+
+type is ABO type O. 
+
+
+12 
+
+
+The defense introduced’ evidence that 
+defendant’s blood type is also ABO type A. Defendant's 
+witness, a forensic serologist, testified that if the antigens 
+from the saliva or perspiration of an individual with one 
+blood type are mixed with the blood of another, an 
+incorrect reading of the blood type may result. 
+
+The jury returned verdicts as previously set 
+forth. | 
+
+DISCUSSION 
+I 
+
+The prosecution tendered alternative 
+theories of criminal responsibility; that defendant was 
+guilty of the first degree murders of both Mannix and 
+Clark either because (a) the killings were premeditated 
+or (b) they occurred during the commission of a robbery. 
+
+As to the first theory, the People argued 
+that defendant and McHargue had a plan to take the 
+
+
+two victims “out in the boonies, and to kill them, to rob 
+
+
+13 
+
+
+them, take their pickup and proceed north." Consistent 
+with this plan, defendant pounded Clark to the ground, 
+took money out of his pocket, and then thrust the knife 
+in his chest. The district attorney theorized that, because 
+McHargue was having difficulty with Mannix, defendant 
+came to his assistance and inflicted the fatal thrust to 
+Mannix’s chest. According to the prosecutor, the 
+evidence established that, based on the similarity between 
+the fatal wounds to both victims, they were inflicted by 
+the same person, i.e., defendant. 
+
+The prosecutor argued alternatively that the 
+facts supported a finding of first degree murder under a 
+felony mur“r theory. According to him, defendant and 
+McHargue took Mannix and Clark out in the isolated 
+area in order to rob them, as supported by the fact that 
+defendant was found with $170 and Mannix’s watch and 
+McHargue with Mannix’s vest and moccasins. He argued: 
+
+
+"[I}f you find this . . . killing took place while the 
+
+
+14 
+
+
+perpetrator, the defendant . . . was committing a 
+robbery, and intended to rob these people, that is to 
+take their property, and permanently depreive [sic] the 
+people of their property from their immediate possession 
+by force or fear, and a killing resulted, that’s also murder 
+in the first degree.” 
+
+It can be inferred that the jury found that 
+defendant did not plan the murder or the robbery of 
+either Clark or Mannix, since it returned a second 
+degree murder verdict in the Clark killing and found 
+defendant not guilty of the robbery charge with respect 
+to Clark. It also can be inferred that the jury concluded 
+that defendant did not kill Mannix by stabbing, since it 
+found that defendant did not use a knife in connection 
+
+
+with his murder. Accordingly, it can be inferred that the 
+jury rejected the prosecutor’s argument that defendant 
+planned the robberies or killings. That left the felony 
+murder argument as a likely candidate for the finding of 
+
+
+15 
+
+
+culpability. On this point the jury was instructed that 
+defendant was responsible for the first degree felony 
+murder of Mannix if he aided and abetted his robbery 
+and was liable for the special circumstance if the murder 
+occurred during the commission of the robbery. 
+
+The Mannix murder also formed the basis 
+of two special circumstances findings; that it was 
+committed during the commission of a robbery (§ 190.2, 
+subd. (a)(17)(i)) and that it was one of two murders in 
+the first or second degree (§ 190.2, subd. (a)(3)). The 
+jury was not given instructions which distinguished 
+between the scienter required for findings of felony 
+murder and special circumstance. If the jury found, 
+pursuant to the instructions, that defendant was guilty of 
+the felony murder of Mannix on the theory he aided and 
+abetted the robbery of which the Mannix killing was an 
+unintentional but natural and reasonable or probable 
+
+
+consequence, it is inconceivable that it separately found 
+
+
+ne 
+
+
+16 
+
+
+that defendant intended that McHargue kill Mannix, a 
+finding necessary, as we shall show, to the valid 
+imposition of a special circumstance penalty. 
+
+For reasons which we next detail, we wil) 
+conclude that the jury reasonably could have been led by 
+instructional error to fuse the standards of criminal 
+responsibility and liability for the special circumstance 
+resulting in improper special circumstances findings. 
+
+A. 
+
+People v. Anderson, supra, 43 Cal.3d at pp. 
+1138-1148, upholding Carlos v. Superior Court (1983) 35 
+Cal.3d 131 on this point*, holds that "[t}he court must 
+
+
+the victim in (at least) one of the multiple murders and that must 
+Se o fast Gunes under, oo epactiied to exttion 1902, eabdhtsien 
+(b) (and the special circumstance instruction given here). (43 Cal.3d 
+at pp. 1149-1150.) Here, there is . 
+
+
+17 
+
+
+instruct on intent to kill as an element of the 
+felony-murder special circumstance when there is 
+evidence from which the jury could find (see People v. 
+Flannel (1985) 25 Cal.3d 668, 684-685 [160 Cal.Rptr. 84, 
+603 P.2d 1]) that the defendant was an aider and abetter 
+rather than the actual killer." (Anderson, supra, 43 
+Cal.3d at p. 1147.) 
+
+The jury was not so instructed. The special 
+circumstance instruction given here, CALJIC No. 8.80 
+(1981), preceded the 1984 revision (CALJIC No. 8.80), 
+which, following Carlos, supra, explicitly now provides 
+that the accomplice must have “intended to aid in the 
+killing of a human being... ." (Emphasis added.) 
+Rather, the jury was instructed in terms which invited the 
+fusion of the distinct standards of guilt and special 
+circumstance. That could occur because the guilt and 
+
+
+special circumstance issues are tried simultaneously (§ 
+
+
+18 
+
+
+190.1, subd. (a)) on the same evidence (§ 190.4, subd. 
+(a)). 
+
+The jury was given an original and 
+amended version of the instruction on the standards to 
+be applied in determining defendant’s liability for the 
+special circumstance arising from the Mannix murder. 
+The jury was told in the instruction read to it that "[i)f 
+you find the defendant in this case guilty of a willful, 
+deliberate, premeditated murder of the first degree, you 
+must then determine if murder was committed” [inter 
+alia} {ijn the commission of a robbery.” (Emphasis 
+added.) If that restriction had been allowed to remain, 
+the issue here considered would have been foreclosed. 
+However, the jury instruction was amended after the 
+reading. 
+
+In the instructions sent to the jury room, 
+the premeditation restriction was deleted and the jury 
+
+
+was told that: “If you find the defendant . . . guilty of 
+
+
+19 
+
+
+murder of the first degree, you must then determine if 
+murder was committed .. . in the commission of a 
+robbery and/or [he] was convicted . . . of more than one 
+offense of murder in the first or second degree. 
+If .. . Roy, was not the actual killer, it must be proved 
+beyond a reasonable doubt that he intentionally aided, 
+abetted . . . the actual killer in the commission of the 
+murder in the first degree before you are permitted to 
+find the alleged special circumstance of that first degree 
+murder to be true... .". (CALJIC No. 8.80 (1981), 
+emphasis added.) "[T]he murder in the first degree” 
+refers to the Mannix murder and, in the circumstances of 
+this case, necessarily encompasses the felony murder 
+theory of culpability. 
+
+The reason for the modification is that the 
+district attorney, Mr. Mattly, wished the instruction to be 
+
+
+amended to include the felony murder theory of 
+
+
+20 
+
+
+culpability. This is revealed in the colloquy which 
+followed the reading of the instruction to the jury in the 
+unamended form. "The Court: This was their [the 
+defendant's] instruction? [1] Mr. Mattly: Yes. So all you 
+need to do is you can give this [amended] one, send it in 
+[to the jury in printed form] but all you need to do is 
+this: ‘If you find the defendant in this case guilty’ what 
+you would do is you would strike, I think, ‘of a willful, 
+deliberate, premeditated murder.” The court then said: 
+"That is to be included as it is now modified by you 
+gentlemen in the instructions to be delivered to the jury? 
+[1] Mr. Kenkel: Yes. [1] Mr. Mattly: Yes." That was 
+done. The modified form, showing the striking of the 
+"willful" language appears in the record. From these 
+events it is clear that the prosecution was pursuing a 
+felony murder theory and the jury was unmistakably 
+
+
+informed by the change in instructions that premeditation 
+
+
+21 
+
+
+was not required for the imposition of the special 
+circumstance. 
+
+That was emphasized by a_ second 
+(unamended) instruction which provided: "To find that 
+the special circumstance, referred to in these instructions 
+as murder in the commission of robbery, is true, it must 
+be proved: [1.] That the murder was committed while the 
+defendant was engaged in or was an accomplice in the 
+commission of a robbery. [{] 2. That the murder was 
+committed in order to carry out or advance the 
+commission of the crime of robbery.... In other 
+words, the special circumstance referred to . . . is not 
+established if the . . . robbery was merely incidental to 
+the commission of the murder." (CALJIC No. 8.81.17 
+(1980).) The fusion of guilt and penalty theories was 
+further emphasized by two other instructions which told 
+the jury, in identical words with respect to guilt and 
+penalty instructions, first, that "first degree felony murder 
+
+
+22 
+
+
+based on robbery . . . is not established if the robbery 
+was merely incidental to the commission of any 
+homicide" and, second, that "the special circumstance .. . 
+is not established if the... robbery was merely 
+incidental to the commission of the murder." These 
+instructions place the relationship of the robbery to the 
+killing in the identical posture for purposes of culpability, 
+under a felony murder theory, and penalty as a special 
+ciscumstance. 
+
+To expand on this point, the first 
+instruction (as amended) refers to "the murder of the 
+first degree," i.e., the Mannix murder, and informs the 
+jury that if it finds defendant guilty of that murder it 
+must determine whether it "was committed . . . in the 
+commission of a robbery and [that] 
+
+[i]f defendant . . . was not the actual killer, it must be 
+
+
+proved . . . that he intentionally aided, abetted . . . the 
+
+
+23 
+
+
+actual killer in the commission of [that] murder... ." 
+The second instruction tells the jury that if the murder 
+was “in the commission of robbery" "it must be proved 
+[inter alia) the defendant . . . was an accomplice in the 
+commission of a robbery." (Emphasis added.) The words 
+"aided, abetted" and "accomplice" are not defined in the 
+special circumstance instructions. The definitions of 
+these terms are to be found only in the instructions on 
+the issue of guilt. 
+
+There, the jury was instructed that "{iJf a 
+human being is killed by any one of several persons 
+engaged in the perpetration of, or attempt to perpetrate, 
+the crime of robbery, all persons who . . . with 
+knowledge of the unlawful purpose of the perpetrator of 
+the crime aid . . . its commission, are guilty of murder of 
+ihe first degree, whether the killing is intentional, 
+unintentional, or accidental." (CALJIC No. 8.27 (1979), 
+
+
+emphasis added.) It was also instructed that the 
+
+
+id 
+
+
+24 
+
+
+"unlawful killing of a human being, whether intentional, 
+unintentional or accidental, which occurs as a result of 
+the commission of or attempt to commit the crime of 
+robbery, and where there was in the mind of the 
+perpetrator the specific intent to commit such crime, is 
+murder of the first degree." (CALJIC No. 8.21.) The 
+jury was further instructed that "[o]ne who aids and abets 
+is not only guilty of the particular crime that to his 
+knowledge his confederates are contemplating 
+committing, but he is also liable for the natural and 
+reasonable or probable consequences of any act that he 
+knowingly aided or encouraged." (CALJIC No. 3.00 
+(amended by CALJIC No. 4.25.) These instructions 
+made clear that the aider and abettor of a felony murder 
+need not intend the killing. 
+
+It bears repetition that the jury was 
+instructed on the relationship of the Mannix murder to 
+
+
+the Mannix robbery in identical terms in both the guilt 
+
+
+25 
+
+
+and penalty instructions, that “first degree felony murder 
+based on robbery . . . is not established if the robbery 
+was merely incidental to the commission of any 
+homicide" and that "the special circumstance ; . . is not 
+established if the . . . robbery was merely incidental to 
+the commission of the murder." 
+
+In sum, the jury was told that it could find 
+defendant guilty of the first degree felony murder of 
+Mannix if he intended his act of assistance to aid the 
+robbery and the killing was the natural and probable 
+product of the robbery, whether he intended that result 
+or not. It was also told that if that murder were 
+committed in the commission of a robbery a special 
+circumstance finding is warranted. By any account of the 
+instructions, a concrete link was forged between the guilt 
+and special circumstance instructions. Indeed it is 
+inconceivable that the jury, having found defendant guilty 
+
+
+of the first degree murder of Mannix on the theory that 
+
+
+26 
+
+
+it unintentionally resulted from an intended robbe, 
+would not sens concluded that the murder occurr 4 
+during the commission of a robbery, justifying . 
+imposition of the special circumstance. 
+| The explicit fusion of guilt and peni, 
+instructions permits, indeed invites, the violation of ‘ 
+standard set down in People v. Anderson, supra. 
+B. 
+A contrary conclusion is suggested by, . 
+recent case of People v. Warren (1988) 45 Cal.3d 9, 
+It held that the trial court did not have to instruct), 
+jury that the accomplice must intend the killing beci.. 
+"all the evidence shows that the defendant either act jy 
+killed the victim or was not involved in the crime a,» 
+...." (Id, at p. 487.) 
+Notwithstanding this dispositive holding, 
+court in dictum went on to say that the instructio: on 
+
+
+special circumstances correctly stated the law and W144 
+
+
+27 
+
+
+not have misled a reasonable jury into believing that an 
+intent to rob sufficed for the special circumstance. That 
+instruction provided that the jury could impose the 
+special circumstance if “the defendant was . . . a person 
+who intentionally aided, abetted . . . the actual killer in 
+the commission of murder in the first degree.” (Warren, 
+45 Cal.3d at p. 487.) The court observed that “in the 
+context of this case the challenged instructions might 
+conceivably be construed in a different manner. In 
+delivering its charge the court defined first degree felony 
+murder: “The unlawful killing of a human being, whether 
+intentional, unintentional or accidental, which occurs as 
+a result of the commission of . . . the crime of robbery, 
+and where there was in the mind of the perpetrator the 
+specific intent to commit the crime of robbery, is murder 
+of the first degree.” (Ibid.) The court concluded, 
+however, that “the instructions . . . would not be so 
+
+
+construed by a reasonable juror [for] one could 
+
+
+understand the charge as requiring an intent to rob and 
+nothing more only if [a jury] parsed it in a hypertechnical 
+manner.” (Id. at p. 488.) We are not told in what 
+manner the jury would correctly “parse” the instruction. 
+We are told that the court was convinced that the jury 
+would not have linked the standards for guilt and special 
+circumstance. 
+
+However, that was said in the context of a 
+case in which "all the evidence shows that the defendant 
+either actually killed the victim or was not involved in 
+the crime at all... ." (45 Cal3d at p. 487.) 
+Accordingly, there was no factual predicate by which to 
+reach the issue of reasonableness nor to determine 
+whsther tha jury could have made the linkage cn the 
+facts of the case. That circumstance led three concurring 
+justices to remark that the observation by the majority 
+
+
+opinion is dictum. (Jd. at p. 490.) Dictum is not 
+
+
+29 
+
+
+binding as a holding. (See, e.g., People v. Milner (1988) 
+45 Cal.3d 227, 237.) 
+
+In any event, Warren is distinguishable on 
+its facts and instructions. The sole, generalized 
+instruction on the standards for the special circumstance 
+finding considered in Warren did not explicitly link the 
+criteria for that determination to the standards for the 
+felony murder. In this case, the linkage is explicitly 
+made in the instructions. That linkage is supported by 
+the evidence adduced and the manner in which the case 
+was argued and presented to the jury. 
+
+C. 
+
+Based on the evidence presented to it, the 
+jury could reasonably have inferred that two simultaneous 
+fights ensued following the wreck of Mannix’s truck by 
+McHargue; defendant fought Clark while McHargue 
+fought Mannix. The jury could have found that the 
+lower part of defendant’s pants became wet when he got 
+
+
+30 
+
+
+out of the truck, when he fought with Clark, and/or when 
+he crossed back across the ditch after killing Clark. The 
+possibly fatally, but still alive when defendant came over 
+to the location of the Mannix/McHargue altercation. 
+The jury may have believed that at that point defendant 
+either personally robbed Mannix of some of his personal 
+possessions or assisted McHargue in his taking of 
+Mannix’s property. It is a further permissible inference 
+from the evidence that McHargue then either dragged 
+Mannix to the ditch and drowned him or that Mannix 
+was able to muster up his last bit of strength and 
+continued to fight McHargue in the ditch. The fact that 
+McHargue’s pants were wet up to his thighs or waist 
+would support a conclusion that McHargue personally 
+drowned Mannix. The finding by the jury that defendant 
+did not use a knife during the commission of the offense 
+
+
+against Mannix reveals that the jury rejected the theory 
+
+
+31 
+
+
+that defendant inflicted the fatal stab wounds on Mannix. 
+Thus, it is reasonable to conclude that the jury inferred 
+that defendant's only participation in the offenses relating 
+to Mannix was his taking of Mannix’s personal property 
+while he was still alive or his assistance in McHargue’s 
+taking of the property. 
+D. 
+
+That leads us to consider siatee the 
+instructional error was harmless. 
+
+As we have observed, Anderson holds that 
+"{t]he court must instruct on intent to kill as an element 
+of the felony-murder special circumstance when there is 
+evidence from which the jury could find (see People v. 
+Flannel (1985) 25 Cal.3d 668, 684-685 [160 Cal.Rptr. 84, 
+603 P.2d 1]) that the defendant was an aider and abettor 
+rather than the actual killer." (Anderson, supra, 43 
+Cal.3d at p. 1147.) This applies to both felony murder 
+
+
+32 
+
+
+and multiple murder grounds of special circumstance. 
+(See Anderson, supra, at pp. 1147 and 1149-1150.) 
+Until recently the California Supreme Court 
+has had no occasion to discuss the standard for harmless 
+error applicable to a failure to give the intent instruction 
+required by Anderson. That is so because in each case 
+in which the issue was tendered the court determined 
+that the instruction was not required because the issue of 
+aiding and abetting was not before the jury. This 
+determination was variously founded (a), as in People v. 
+Anderson, supra, on the ground there was no evidence 
+warranting a finding that the defendant was an aider and 
+abettor of a felony murder (See People v. Hamilton 
+(1988) 45 Cal.3d 351, 363-364 and People v. Warren, 
+supra, 45 Cal.3d at p. 487; People v. Coleman (1988) 46 
+Cal.3d 749, 779; (b) it was undisputed or conceded or 
+uncontradicted that the defendant was the actual killer 
+
+
+(See People v. Babbitt (1988) 45 Cal.3d 660, 708; People 
+
+
+33 
+
+
+v. Keenan (1988) 46 Cal.3d 478, 503; People v. 
+McDowell (1988) 46 Cal.3d 551, 566); (c) the issue did 
+
+
+not arise because the jury was not instructed on an aider 
+
+
+_ and abettor theory (People v. Melton (1988) 44 Cal.3d 
+
+
+713, 747, fn. 12; see also People v. Bunyard (1988) 45 
+Cal.3d 1189, 1241); and (d) the jury returned a special 
+verdict that the killing was premeditated. (See People v. 
+Miranda (1987) 44 Cal.3d 57, 89; People v. Boyde (1988) 
+46 Cal.3d 212, 243.) 
+
+However, these cases do imply that if there 
+is evidence from which the jury could perinissibly have 
+inferred that the defendant was an aider and abettor of 
+the felony murder the Anderson instruction is mandatory. 
+That is the apparent holding of People v. Garrison (Jan. 
+5, 1989, S004354) __—~Cal.3d __._ It held that because 
+"thaws wen ovtdense Geni Wedth © jury could have based 
+its verdict on an accomplice theory, the court erred in 
+
+
+failing to instruct that the jury must find that defendant 
+
+
+ay 
+
+
+34 
+
+
+intended to aid another in the killing of a human being." 
+(Id., at p. ___ [typed opn. pp. 59-60; fn. omitted.) 
+Garrison held that such an error is subject 
+to the Chapman standard of harmless error, relying upon 
+People v. Odle (1988) 45 Cal.3d 386, 410-415. Under 
+Chapman v. California (1967) 386 U.S. 18, 24 [17 
+L.Ed.2d 705, 710-711], "before a federal constitutional 
+error can be held harmless, the court must be able to 
+declare a belief that it was harmless beyond a reasonable 
+doubt." That standard cannot be satisfied, i.c., such a 
+belief cannot be declared, where, as in this case, an 
+inference can be drawn from the record that the jury 
+found that the defendant was liable for the special 
+circumstance on the ground that he intentionally aided a 
+robbery but did not intend the killing that occurred 
+during its commission. If the jury could have made such 
+
+
+a finding it (obviously) cannot be said that the error (the 
+
+
+35 
+
+
+failure to preclude such a possibility by a a 
+instruction) was harmless beyond a reasonable doubt. 
+In Garrison the court concluded that the 
+error was harmless on the theory that "the failure to 
+instruct on intent was necessarily resolved adversely to 
+defendant under other, properly given instructions. (See 
+People v. Sedeno [1974] 10 Cal.3d 703.)" (___ Cal.3d 
+at __ [typed opn. pp. 60-61].) "In such cases the 
+issue should not be deemed to have been removed from 
+the jury’s consideration since it has been resolved in 
+another context, and there can be no prejudice to the 
+defendant. since the evidence that would support a 
+finding that only [in this case] the lesser offense was 
+committed has been rejected by the jury." (Sedceno, 
+supra, at p. 721.) In other words, it cannot be said, 
+viewed from the vantage point of all of the instructions 
+
+
+given and the evidence adduced, that the jury could have 
+
+
+36 
+
+
+drawn an adverse inference from the erroneous 
+instruction. 
+
+As we have shown in great detail, that is 
+not the case here. Considering all of the instructions the 
+jury could have drawn the conclusion that defendant was 
+liable for the special circumstance on the theory he aided 
+and abetted the Mannix robbery without intending that 
+Mannix be killed. 
+
+Accordingly, the special circumstance 
+findings must be reversed. 
+
+II 
+Defendant next argues that reversible error 
+
+
+resulted from the giving of CALJIC Nos. 3.00’, 3.01%, 
+
+
+37 
+
+
+and 8.27,” jury instruction relating to the theory that he 
+aided and abetted the robbery of Mannix Those 
+instructions implicate not only the robbery conviction but 
+also the first degree murder conviction to the extent it 
+was based on a felony murder theory. Citing People v. 
+Beeman (1984) 35 Cal.3d 547, defendant contends the 
+instructions failed to explicitly inform the jury that the 
+offense of aiding and abetting requires an intent to 
+facilitate the criminal offense aided. He argues that this 
+error compels reversal because the intent issue was 
+
+
+completely removed from the jury’s consideration. 
+
+
+7. CALJIC No. 3.00 includes as principals in a crime: 
+"Those who, with knowledge of the unlawful 
+purpose of the person who directly and actively 
+commits or attempts to commit the crime, aid and 
+abet in its commission or attempted commission." 
+
+
+8. CALJIC No. 3.01 (1980), as given here reads: 
+"A person aids and abets the commission of a 
+crime if, with knowledge of the unlawful purpose of 
+the perpetrator of the crime, he aids, promotes, 
+encourages or instigates by act or advice the 
+
+
+commission of such crime." 
+See Footnote 9 next page. 
+
+
+9. CALJIC No. 8.27 (1979), as given reads: 
+
+"If a human being is killed by any one of several 
+persons engaged in the perpetration of, or attempt 
+to perpetrate, the crime of robbery, all persons who 
+either directly and actively commit the act 
+constituting such crime or who with knowledge of 
+the unlawful purpose of the perpetrator of the 
+crime aid, promote, encourage, or instigate by act 
+or advice its commission, are guilty of murder of 
+the first degree, whether the killing is intentional, 
+unintentional, or accidental.” 
+
+
+38 
+
+
+We agree that the challenged instructions 
+do not include, as suggested in People v. Beeman, supra, 
+a clause making explicit the requirement that an aider 
+and abettor must have an intent to facilitate or 
+encourage the offense committed by the perpetrator.” 
+(Beeman, supra, 35. Cal.3d at p. 561.) However, as we 
+shall explain, the jury instructions as given could not have 
+misled the jury to defendant’s prejudice. (Chapman v. 
+California, supra, 386 US. at p. 24 [17 L.Ed.2d at pp. 
+710-711}; see People v. Dyer (1988) 45 Cal.3d 26, 59-64.) 
+
+The absence of the explicit Beeman clause 
+does not necessarily result in the removal of intent from 
+jury consideration, such as when intent is not put in 
+
+
+issue, is conceded, or is covered by other instructions. 
+
+
+perpetrator, and the intent or 
+eer rng, or facilitating the commission of the offense, (3) by act 
+or advice aids, promotes, encourages or instigates, the commission 
+
+
+39 
+
+
+(People v. Garcia (1984) 36 Cal.3d 539; see also People 
+v. Ramos (1984) 37 Cal.3d 136, 146-147; People v. 
+Caldwell (1984) 36 Cal.3d 210, 223-224; People v. Allen 
+(1985) 165 Cal.App.3d 616, 628-629.) Moreover, as we 
+recently discussed in People v. Rogers (1985) 172 
+Cal.App.3d 502, as applied to the facts of a particular 
+case, the instruction found wanting in Beeman (CALJIC 
+No. 3.01 [1980]) and given here, may convey the required 
+intent to the jury because in the circumstances of the 
+
+
+case it contains a legally adequate criterion of intent. 
+
+
+That is the case here. 
+
+
+As we explained in Rogers, supra, the 
+defect in CALJIC No. 3.01 exposed by Beeman is the 
+“failure to ambiguously articulate the requirement that 
+the defendant simultaneously know both the perpetrator’s 
+unlawful purpose and that his act of aid would facilitate 
+that purpose." (Rogers, supra, 172 Cal.App.3d at p. 
+
+
+509.) Borrowing the phrase from People v. Patrick 
+
+
+40 
+
+
+(1981) 126 Cal.App.3d 952, 967, we referred to this du; 
+knowledge as “knowing aid.” We stated that ambiguiti, 
+in the instruction "are significant if the defendant’s ¢ 
+was not intended (e.g., f it were involuntary) or if te 
+defendant, intending the act, did not know that it wojg 
+aid the perpetrator’s criminal venture." (Ibid.; «p, 
+omitted; emphasis in original. ) As we next explain, asjn 
+Rogers, neither of these conditions is tendered iN his 
+case. 
+
+"That someone knowingly aided a crimpg| 
+offense is ordinarily descriptive of an intention to achive 
+that which the actor knows will be achieved by his ac of 
+aid. Indeed, if a defendant testifies that he knowijgly 
+aided the perpetrator of a crime, the quesion 
+immediately arises, what else could the defendant sa, or 
+show that would dissuade us from believing that it was 
+his intent to facilitate the offense? At the least this 
+
+
+circumstance calls for an explanation which would défeat 
+
+
+41 
+
+
+the intention thus ascribed. Although the defendant has 
+no formal burden of defeasance, he is at risk of a 
+conviction if, in this circumstance, he does not raise a 
+reasonable doubt of his intent by the production of 
+evidence negating the ascribed intention. [Citation] [1] 
+. . » [T]he appropriateness of knowing aid as a criterion 
+of intent, and hence (absent its circumstantial 
+ambiguities) the appropriateness of CALJIC No. 3.01, is 
+dependent upon the facts of the case. CALJIC No. 3.01 
+[1980] conveys the required intent unless a contrary 
+inference of intent is a material issue in this case." 
+(Rogers, supra, at p. 512.) 
+
+We set forth in Rogers examples of what 
+counts as a material issue of contrary intent. In such 
+cases the evidence defeases the intent ordinarily 
+conveyed by knowing aid. In Hicks v. U.S. (1893) 150 
+U.S. 442 [37 L.Ed 1137], an instruction required the jury 
+
+
+to conclude from the mere utterance of words that had 
+
+
+42 
+
+
+the effect of encouraging the perpetrator to commit an 
+offense, that the utterer intended them to be understood 
+as such. In that case, the defendant had testified that his 
+words were intended to dissuade the perpetrator. The 
+jury instruction thus prevented the jury from considering 
+the defendant’s testimony and thus removed the issue of 
+intention. 
+
+People v. Bolanger (1886) 71 Cal. 17 
+presents a second example of evidence defeasing the 
+intent of knowing aid. bp Oss cone chasm ates 
+as an accomplice stated that he intended to participate 
+in the larceny charged against the perpetrator but had 
+feigned complicity for the purpose of defecting thieves. 
+His defense was that he intended to frustrate the 
+criminal purpose notwithstanding knowledgeable aid. In 
+such circumstances the ordinary inference cannot be 
+
+
+derived from such a criterion. 
+
+
+43 
+
+
+Beeman, supra, 35 Cal.3d 547, presents 
+another example. Beeman admitted that he aided his 
+friends’ commission of a robbery and was aware of their 
+perpetration. He testified, however, that he did not 
+believe that they would go through with it and did not 
+want to be involved, thus attempting to negate the intent 
+embedded in the conjunction of his acts of aid and his 
+awareness of the criminal venture. (See also People v. 
+Yarber (1979) 90 Cal.App.3d 895 [where an act of oral 
+copulation by female defendant on male defendant was 
+followed by an act of oral copulation of male defendant 
+by minor, Mary S. the jury should have been specifically 
+instructed of the requirement that the female defendant 
+had the purpose of aiding the perpetrator in the section 
+288a offense; the court noted that her act of oral 
+copulation was subject to two equally strong inferences, 
+one of which was that she did the act for her own 
+
+
+as 
+
+
+purposes without regard for whether Mary S. followed 
+suit].) 
+
+We turn to the evidence in the present 
+case and consider the factual possibilities in order to 
+determine whether the alleged instructional error could 
+have prejudiced defendant. The first possible scenario is 
+defendant’s version that Clark started the fight with him 
+and he ultimately responded by stabbing Clark. He then 
+crossed over to where McHargue was standing. At that 
+point, defendant claimed, Mannix was already in the 
+ditch. Defendant's version could not have satisfied the 
+requirements under CALJIC No. 3.01 as given, i.e., that 
+an aider and abettor have knowledge of the perpetrator’s 
+unlawful purpose and aid in the commission of the 
+crime. Based on the instructions given, it is clear the 
+jury rejected defendant’s version of the events. A second 
+factual scenario is one presented by the prosecutor. 
+
+
+Under one of his theories, defendant and McHargue 
+
+
+45 
+
+
+took Mannix and Clark out to an isolated area to kill 
+them and rob them. Inmate Hudspeth testified that 
+defendant told him that he and McHargue planned to 
+kill and rob both men and that after defendant killed 
+Clark he assisted McHargue, stabbing Mannix twice. 
+Because the jury returned a second degree murder 
+verdict as to Clark, found defendant not guilty of the 
+robbery of Clark, and found defendant did not personally 
+use a knife with respect to Mannix, the jury could not 
+have believed the facts to be such. They disbelieved 
+Hudspeth’s testimony. 
+
+A third factual candidate is that supporting 
+the felony-murder theory. According to the testimony of 
+eyewitness Marie Koehler Smart, defendant and 
+
+
+ii 
+
+
+46 
+
+
+McHargue were both standing on the ditch bank over 
+the obviously injured Mannix. Inmate Hall testified that 
+defendant said that after stabbing Clark he went over to 
+assist McHargue who was fighting with Mannix. The 
+manner of assistance was not revealed. The jury was 
+instructed that in order to find defendant guilty as an 
+aider and abettor of the robbery, it had to find 
+defendant (1) had knowledge of the unlawful purpose of 
+the perpetrator and (2) aided, promoted, encouraged, 
+etc. the commission of the crime. No evidence was 
+present to counter an intent to facilitate the offense, i.c., 
+to show that defendant did not so intend. Thus, the 
+intent conveyed by knowing aid was not defeased. As 
+we said in Rogers, supra, 172 Cal.App.3d at p. 514, "It 
+would be absurd to say that [one defendant] knowingly 
+
+
+contributed to the force and fear imposed by [the other 
+
+
+47 
+
+
+defendant] upon the victim in the course of the robbery 
+but is not culpable as an aider and abettor of the 
+robbery." Under the circumstances of this case, the 
+assistance to McHargue by defendant in the Perpetration 
+of the robbery, with defendant’s knowledge of 
+McHargue’s purpose, unambiguously reveals defendant’s 
+awareness of the importance of his acts in advancing the 
+robbery. In other absence of evidence establishing some 
+contrary intent, no other inference is permissible from 
+the act. 
+
+Thus, under these facts, as in Rogers, 
+supra, "CALJIC No. 3.01 (1980) adequately conveyed the 
+required element of intention to the jury.” (Rogers, 
+supra, at p. 514.) Consequently, defendant could not 
+have been prejudiced by the giving of the instructions 
+challenged here. 
+
+
+48 
+
+
+Ill 
+
+Defendant next contends that the court 
+committed prejudicial error by failing sua sponte to give 
+CALJIC No. 5.17 which defines an honest but reasonable 
+belief in the necessity to defend oneself and that, as 
+a consequence, the second degree murder conviction of 
+Clark must be reversed. We disagree. 
+
+“It is settled that in criminal cases, even in 
+the absence of a request, the trial court must instruct on 
+the general principles of law relevant to the issues raised 
+by the evidence. [Citations.] The general principles of 
+law governing the case are those principles closely and 
+openly connected with the facts before the court, and 
+
+
+which are necessary for the jury’s understanding of the 
+
+
+13. CALJIC No. 5.17 provides: "A person who kills another 
+person in the honest but unreasonable belief in the necessity to 
+defend against imminent peril to life or great bodily injury kills 
+unlawfully, but does not harbor malice aforethought and cannot be 
+found guilty of murder. This would be so even though a reasonable 
+man in the same situation seeing and knowing the same facts would 
+not have had the same belief. Such an honest but unreasonable 
+belief is not a defense to the crime of [voluntary [or] [involuntary] 
+
+
+manslaughter.” 
+
+
+49 
+
+
+case.’ [Citation.]" (People v. Wickersham (1982) 32 
+
+Cal.3d 307, 323.) In People v. Flannel, supra, 25 Cal.3d 
+at pp. 682-683, the court held that the unreasonable 
+belief rule does not invoke such a general principle and 
+that the instruction should be given if the other 
+requirements for a sua sponte instruction are met. 
+However, "the duty to give instructions, sua sponte. ... 
+arises only it if appears that the defendant is relying on 
+such a defense, or if there is substantial evidence 
+supportive of such a defense and the defense is not 
+inconsistent with the defendant’s theory of the case." 
+(People v. Sedeno, supra 10 Cal.3d at p. 716.) 
+
+Under the facts of this case, the court 
+should have given CALJIC No. 5.17 and erred in failing 
+to do so. However, the error was harmless, because "the 
+factual question posed by the omitted instruction was 
+necessarily resolved adversely to the defendant under 
+
+
+other, properly given instructions." (Sedeno, 10 Cal.3d at 
+
+
+50 
+
+
+p. 721.) The jury was adequately instructed that an 
+honest but unreasonable belief in self-defense can negate 
+malice by the court’s reading of CALJIC No. 8.40* 
+(voluntary manslaughter - defined) and No. 8.50. 
+CALJIC No. 8.50 provides: "The distinction between 
+murder and manslaughter is that murder requires malice 
+while manslaughter does not. [7] When the act causing 
+the death, though unlawful, is done [in the heat of 
+passion or is excited by a sudden quarrel such as 
+amounts to adequate provocation] [in the honest but 
+unreasonable belief in the necessity to defend against 
+imminent peril to life or great bodily injury the offense 
+
+
+is manslaughter. In such a case, even if an intent to kill 
+
+
+14. CALJIC No. 840 (1979) provides: "The crime of 
+voluntary manslaughter is the unlawful killing of a human being 
+without malice aforethought when there is an intent to kill. [1] 
+There is no malice aforethought if the killing occurred upon a 
+sudden quarrel or heat of passion, for] [in the honest but 
+unreasonable belief in the necessity to defend oneself against 
+imminent peril to life or great bodily injury]. [%] In order to prove 
+the commission of the crime of voluntary manslaughter, each of 
+following elements must be proved: 1. That a human being 
+killed, 2. That the killing was unlawful, and 3. That the killing 
+done with the intent to kill." 
+
+
+51 
+
+
+exists, the law is that malice, which is an essential 
+element of murder, is absent. [1] To establish that a 
+killing is murder and not manslaughter, the burden is on 
+the state to prove beyond a reasonable doubt each of 
+the elements of murder and that the act which caused 
+the death was not done in the [heat of passion or upon 
+a sudden quarrel] [in the honest, even though 
+unreasonable belief in the necessity to defend against 
+imminent peril to life or great bodily injury]." The jury, 
+having found defendant guilty of second degree murder, 
+obviously rejected the manslaughter theory and thereby 
+found that he did not act pursuant to an honest, but 
+unreasonable belief in the necessity to defend himself. 
+Disposition 
+The judgment of sentence predicated upon 
+
+
+the special circumstance findings is reversed. The 
+
+
+judgment is affirmed in all other respects. The case is 
+
+
+remanded for resentencing or retrial on the issue of 
+
+
+52 
+
+
+special circumstances at the option of the prosecuting 
+
+
+attorney. (CERTIFIED FOR PARTIAL 
+PUBLICATION.) 
+
+
+BLEASE » oe 
+
+
+I concur: 
+
+
+I respectfully dissent; my dissent is directed 
+to the published portion of the opinion only. However, 
+my view of the entire case requires a homogenized 
+discussion of the separate issues. I do concur, as will be 
+discerned from the foilowing discussion, with the balance 
+of the majority opinion wn the issues there addressed. 
+
+The majority and I differ on the meaning 
+and effect of five recent Supreme Court decisions dealing 
+with Beeman“-type error (People v. Anderson (1987) 43 
+Cal.3d 1104, 1138-1148; People v. Dyer. (1988) 45 Cal.3d 
+26, 59-65; People v. Odle (1988) 45 Cal.3d 386, 410-416; 
+People v. Warren (1988) 45 Cal.3d 471, 486-488; People 
+v. Keenan (1988) 46 Cal.3d 478, 503-504). The effect of 
+the majority opinion would effectively circumvent the 
+clear import of People v. Anderson in overruling the 
+decision of Carlos v. Superior Court (1983) 35 Cal.3d 
+
+
+131, and to ignore the clear and unambiguous statement 
+
+
+1. People v. Beeman (1984) 35 Cal.3d 547. 
+
+
+that the use of former CALJIC No. 3.01 which contains 
+the Beeman-type error is to be treated as Chapmén 
+error.” (People v. Dyer, supra, at pp. 59-65.) 
+
+In addressing the issues specifically raised 
+by the defendant in this dissent, I will illustrate what | 
+believe to be an attempt by the majority opinion, 
+particularly in its published portion, to obfuscate the 
+clear meaning of the cited Supreme Court decisions, 
+supra, and their application to a case such as this, in 
+which the absence of an instruction on specific intent to 
+kill in the felony-raurder circumstance by an aider and 
+abettor is asserted as reversible error. 
+
+I 
+
+Defendant contends the court committed 
+
+prejudicial error by failing to sua sponte give CALJIC 
+
+
+No. 5.17 which defines an honest but unreasonable belief 
+
+
+2. Chapman v. California (1967) 386 U.S. 18, 24 [17 L.Bd.2d 
+705, 710-711]. 
+
+
+in the necessity to defend,* and that as a consequence, 
+the second degree murder conviction (Clark) must be 
+reversed. I disagree. 
+
+“It is settled that in criminal cases, even in the 
+absence of a request, the trial court must instruct on the 
+general principles of law relevant to the issues raised by 
+the evidence. [Citations.] The general principles of law 
+governing the case are those principles closely and 
+openly connected with the facts before the court, and 
+which are necessary for the jury’s understanding of the 
+case.’ ([Citation.]" (People v. Wickersham (1982) 32 
+Cal.3d 307, 323.) 
+
+The Supreme Court in People v. Flannel 
+(1979) 25 Cal3d 668, 682-683, held that the 
+
+
+3. CALJIC NO. 5.17 (Sth ed. 1 provides: "A pers 
+seni austen Guten i tie teeet oe Gee ene 
+the necessity to defend against imminent peril to life or great bodily 
+injury, kills unlawfully, but does not harbor malice aforethought and 
+cannot be found guilty of murder. This would be so even though 
+a reasonable man in the same situation seeing and knowing the 
+same facts would not have had the same belief. Such an honest but 
+unreasonable belief is not a defense to the crime of [voluntary] [or] 
+
+
+[involuntary] manslaughter.” 
+
+
+unreasonable belief rule should be considered a general 
+principle for purposes of jury instruction, and in cases 
+not yet tried, the court should give the instruction sua 
+sponte if the other requirements for such an instruction 
+are met. "[{TJhe duty to give instructions, sua sponte, . . . 
+arises only if it appears that the defendant is relying on 
+such a defense, or if there is substantial evidence 
+supportive of such a defense and the defense is not 
+inconsistent with the defendant’s theory of the case." 
+(People v. Sedeno (1974) 10 Cal.3d 703, 716.) 
+
+Under the facts of this case, the court 
+should have given CALJIC No. 5.17 and erred in failing 
+to do so. However, the error was harmless, because “the 
+factual question posed by the omitted instruction was 
+necessarily resolved adversely to the defendant under 
+other, properly given instructions." (Sedeno, supra, 10 
+Cal.3d at p. 721.) The jury was adequately instructed 
+
+
+that an honest but unreasonable belief in self-defense 
+
+
+can negate malice by the court’s reading of CALJIC Nos. 
+8.40 (1979 Re-revision)* (voluntary manslaughter - 
+defined) and 8.50 (1980 Revision). CALJIC No. 8.50 
+provides: “The distinction between murder and 
+
+
+manslaughter is that murder requires malice while 
+
+
+that malice, which is an essential element of murder, is 
+absent. [1] To establish that a killing is murder and not 
+manslaughter, the burden is on the state to prove beyond 
+a reasonable doubt each of the elements of murder and 
+that the act which caused the death was not done in the 
+[heat of passion or upon a sudden quarrel] [in the 
+honest, even though unreasonable, belief in the necessity 
+to defend against imminent peril to life or great bodily 
+injury].". Under the circumstances, the jury obviously 
+found that defendant did not act pursuant to an honest, 
+but unreasonable belief in the necessity to defend, and 
+found him guilty of murder in the second degree. 
+II 
+
+Defendant argues the court committed 
+reversible error by utilizing former CALJIC Nos. 3.00, 
+3.01, and 8.27. He cites to People v. Beeman, supra, 35 
+Cal.3d 547, and contends he was denied due process 
+because the jury was not informed that to find him guilty 
+
+
+as an aider and abettor they must find that he 
+specifically intended to encourage or facilitate the 
+criminal act. He also argues the court erred by failing 
+to instruct the jury that they must find intent to kill in 
+order to find him guilty of felony murder. 
+
+He grounds his contentions on Carlos v. 
+Superior Court, supra, 35 Cal.3d 131, which has recently 
+been overruled by People v. Anderson, supra, 43 Cal.3d 
+1104. Anderson holds "intent to kill is not an element of 
+the felony-murder special circumstance [§ 190.2, subd. 
+(a)(17)}; but when the defendant is an aider and abetter 
+rather than the actual killer, intent must be proved.” 
+(Pp. 1138-1139.) Accordingly, I conclude that to the 
+extent the jury found defendant to have been the actual 
+
+
+. Special circumstance finding 
+is not infirm. (See People v. Anderson, supra, 43 Cal.3d at p. 1149 
+
+
+jury found defendant to have been an aider and abetter 
+rather than the actual killer, however, I believe the jury, 
+contrary to defendant's assertion, was properly instructed 
+that it had to find defendant intended to kill, as follows: 
+"If defendant Kenneth Duane Roy was not the actual 
+killer, it must be proved beyond a reasonable doubt that 
+he intentionally aided, abetted, counseled, commanded, 
+induced, solicited, requested or assisted the actual killer 
+in the commission of the murder in the first degree 
+before you are permitted to find thea 
+circu.nstance of that first degree murder to 
+the defendant Kenneth Duane Roy.” This instruction is 
+in the language of section 190.2, subdivision (b), which 
+Anderson found unambiguous on the point: "Section 
+190.2(b) . . . declares that the felony-murder aider and 
+
+
+abetter is eligible for the death penalty [or for life 
+
+
+v. Turner (1984) 37 Cal.3d 302, to the extent it 
+of 
+
+
+imprisonment without the possibility of parole] if intent 
+to kill is proved... . ([Gjiven realistic reading the 
+Statutory requirement that the aider and abetter 
+intentionally aid, abet, counsel, command, induce, solicit, 
+request, or assist any acts in the commission of first 
+degree murder -- even when applied to felony murder -- 
+is mot ambiguous: the aider and abetter must 
+intentionally aid in a killing.” (43 Cal.3d at p. 1145, 
+emphasis in original.) I would find no error in the 
+special circumstance instructions given in this case. 
+Moreover, since People v. Garcia (1984) 36 
+Cal.3d 539, and People v. Anderson, supra, 43 Cal.3d 
+1104, the California Supreme Court, in a series of cases 
+involving use of former CALJIC No. 3.01, as modified, 
+in accordance with People v. Yarber (1979) 90 
+Cal.App.3d 895, has held that Beeman-type error is to be 
+treated as Chapman error. (See People v. Dyer, supra, 
+45 Cal.3d at pp. 59-65; People v. Odle, supra, 45 Cal.3d 
+
+
+10 
+
+
+at pp. 410-416; People v. Warren, supra, 45 Cal.3d at pp. 
+486-488; People v. Keenan, supra, 46 Cal.3d at pp. 
+503-504.) The Chapman test is whether we can 
+determine beyond a reasonable doubt that the error did 
+not affect the verdict. Here, defendant argues the trial 
+court erred in instructing the jury based on CALJIC Nos. 
+3.01, 3.00, and 8.27, claiming the error withheld the 
+intent to kill issue from the jury and thus required setting 
+aside its findings and convictions of second degree 
+murder against Clark and first degree murder against 
+Mannix. 
+
+Defendant claims he had no intent to kill 
+either Clark or Mannix; that he was defending himself 
+against Clark. The jury obviously rejected that defense 
+and convicted him of second degree murder. Implicit in 
+the jury’s verdict is a finding that defendant had the 
+intent to kill. The jury also resolved the intent. issue 
+
+
+adversely to defendant on the first degree murder 
+
+
+11 
+
+
+conviction of Mannix. In addition to the instructions on 
+the intent to kill, the court also read the instruction on 
+aiding and abetting. Although the latter instruction 
+contained the Beeman flaw, it informed the jury that 
+defendant’s state of mind was relevant to the aiding an 
+abetting question. Former CALJIC No. 3.01 provides, 
+"A person aids and abets the commission of a crime if, 
+with knowledge of the unlawful purpose of the 
+perpetrator of the crime, he aids, promotes, encourages 
+Or instigates by act or advice the commission of such 
+crime. . . ." (Emphasis added.) The issue raised 
+encompasses Beeman-type error, that is, whether on the 
+whole record the court is convinced beyond a reasonable 
+doubt that it is not reasonably possible the jury would 
+have not found intent by the defendant to kill Mannix 
+either as the actual killer or as an aider and abetter. 
+
+
+Applying the Chapman standard, I would conclude the 
+
+
+evidence in this instance compels the conclusion that the 
+
+
+12 
+
+
+instructional errors were harmless beyond a reasonable 
+
+
+doubt. 
+
+
+Concerning the murder of Archie Mannix 
+for which defendant was convicted of murder in the first 
+degree, the defense was denial, putting the Pengte to 
+their proof. A stab wound to the heart and drowning 
+were concurrent causes of Mannix’s death. The jury 
+verdict that, as to the murder of Mannix, the defendant 
+was armed with but did not personally use a knife 
+necessarily implies that, if the jury believed the defendant 
+was the actual killer, he killed Mannix by drowning. If 
+the jury believed defendant was not the actual killer, the 
+verdict implies he aided and abetted his partner, 
+McHargue, in the stabbing and/or the drowning. In 
+either event, the evidence shows overwhelmingly 
+defendant’s intent to cause Mannix’s death. 
+
+Additionally, Sidney Hall was an inmate 
+
+
+with defendant at Butte County jail. Hall testified that 
+
+
+13 
+
+
+defendant admitted killing Clark (the other murder 
+victim) after Clark had hit him over the head with a 
+stick. McHargue and Mannix were fighting. McHargue 
+was "getting the worst end of it," so defendant went to 
+his aid. Defendant told Hall "that Mannix had to die 
+because he was a witness, and that he was stabbed and 
+drowned -- held under the water." Defendant also told 
+Hall that a woman drove by and stopped. McHargue 
+went to talk to her, but defendant "was too far away and 
+he didn’t think she could identify him at all." Defendant 
+
+
+iater denied to Hall any involvement in Mannix’s killing.* 
+
+
+6. William Hudspeth, another inmate at the 
+defendant, also testified for the People. ee cantint Gen etna 
+admitted his and McHargue’s plan to rob and kill both Clark and 
+Mannix. He also admitted to Hudspeth that he had stabbed 
+Mannix. Hudspeth’s testimony should be disregarded, however, 
+because the jury obviously disbelieved it. The verdict of second 
+degree murder as to Clark, as well as the acquittal of the charge of 
+robbery as to Clark, reflects the jury's belief that there was no 
+plan" to rob and kill him. Further, the finding that, as to Mannix, 
+defendant did not personally use a knife reflects the jury’s belief 
+Coe SNS Wes Got Ge Gunes aie eaeely teGiens te tnt 
+
+
+14 
+
+
+The woman who drove by and stopped was 
+Marie Smart. She was driving by the scene and observed 
+a truck in a ditch and two silhouettes. She stopped, with 
+her car’s headlights,‘which were on high beam, shining 
+directly onto the truck. To the left side of the truck she 
+observed two men standing. She asked if they needed 
+any help, and they both approached the car. One of the 
+men, later identified as McHargue, went to Smart’s car 
+window and told her they had already summoned help. 
+(Smart was unable to identify defendant as the second 
+man, who had approached to about two feet from the 
+car but did not come to the window.) As she turned her 
+car around to leave, Smart noticed a man lying on the 
+ground, to the left side of the truck and at the location 
+she first observed McHargue and the other man 
+standing. The man lying on the ground was shirtless and 
+appeared to he hurt, moving his hands up toward his 
+
+
+stomach and back down again. As Smart was leaving the 
+
+
+15 
+
+
+scene, McHargue and the other man returned to their 
+original positions, standing over the apparently disabled 
+man on the ground and doing nothing. When Mannix’s 
+body was discovered by authorities, his torso was bare.” 
+Dr. Pierce Rooney, a forensic pathologist, 
+testified that Mannix had suffered a nonfatal stab wound 
+to his abdomen. Mannix had also suffered a mortal stab 
+wound to his heart and considerable drowning, each of 
+which was a cause of Mannix’s death. Death from the 
+type of stab wound to the heart suffered by Mannix 
+would, in the ordinary case, occur within a few minutes 
+if not instantaneously. 
+} Defendant and McHargue were eventually 
+detained for questioning. Defendant did not respond 
+when informed that Clark and Mannix had been 
+
+
+discovered, dead. Defendant initially denied being with 
+
+
+7. Smart’s testimony, coming as it did from a disinterested 
+witness, must have been most Indeed, during 
+Se ee ey YS pay ays. be 
+
+
+16 
+
+
+them when the truck ran into the ditch. But when 
+informed that his story did not jibe with McHargue’s, 
+defendant admitted he and McHargue were with Clark 
+and Mannix when the truck ran into the ditch. 
+Defendant admitted stabbing Clark after Clark had 
+allegedly struck defendant. Defendant denied any 
+knowledge about what happened to Mannix, stating only 
+that when he (defendant) turned around after stabbing 
+Clark, Mannix was already in the ditch.” Defendant 
+said he and McHargue then walked back to town After 
+giving his statement, defendant was arrested. Among the 
+items found in defendant’s possession were a watch with 
+dried blood and dirt on it and a key ring with sx keys, 
+both of which items were identified as Mannix’s. 
+
+
+Defendant also had a wallet containing $170.5:. One 
+
+
+week before the homicide, Mannix was observe< with a 
+
+
+8. Defendant also told Dr. Globus, the defense pychiatrist, 
+that he was aware Mannix had ended up dead in the |itch, but 
+defendant denied actually killing him. 
+
+
+17 
+
+
+large sum of money in his wallet, including tens and 
+hundreds. Mannix’s wallet and scattered documents, but 
+no money, were found near his body. 
+Applying the Chapman test, the recited 
+
+evidence from the record demonstrates to me, beyond a 
+reasonable doubt, that the Beeman error could not have 
+affected the verdict. (See People v. Dyer, supra, 45 
+
+Cal.3d at pp. 64-65; see also People v. Garrison (Jan. 5, 
+
+1989, S004354) __Cal.3d_, __ [typed opn. pp. 33- 
+25).) 
+
+
+I would affirm the judgment. (CERTIFIED 
+FOR PUBLICATION.) 
+
+
+—EVANS _ , Acting P.J. 
+
+
+— -— ——r oe, 
+
+
+UNITED STATES CONSTITUTION 
+FIFTH AMENDMENT 
+
+
+"No person shall be held to answer for a Capital, 
+or otherwise infamous crime, unless on a presentment or 
+indictment of a Grand Jury, except in cases arising in the 
+land or naval forces, or in the Militia, when in actual 
+service in time of War or public danger; nor shall any 
+person be subject for the same offense to be twice put 
+in jeopardy of life or limb; nor shall be compelled in any 
+criminal case to be a witness against himself, nor be 
+deprived of life, liberty, or property, without due process 
+of law; nor shall private property be taken for public use 
+without just compensation." 
+
+
+SIXTH AMENDMENT 
+
+
+"In all criminal prosecutions, the accused shall 
+enjoy the right to a speedy and public trial, by an 
+impartial jury of the State and district wherein the crime 
+shall have been committed, which district shall have been 
+previously ascertained by law, and to be informed of the 
+nature and cause of the accusation; to be confronted 
+with the witnesses against him; to have compulsory 
+process for obtaining witnesses in his favor, and to have 
+the assistance of counsel for his defense." 
+
+
+FOURTEENTH AMENDMENT - 
+
+
+"Section 1. All persons born or naturalized in 
+the United States and subject to the jurisdiction thereof, 
+are citizens of the United States and of the state wherein 
+they reside. No state shall make or enforce any law 
+which shall abridge the privileges or immunities of 
+citizens of the United States; nor shall any state deprive 
+any person of life, liberty, or property, without due 
+process of law; nor deny to any person within its 
+jurisdiction the equal protection of the laws.” 
+
+
+ee 
+
+
+CONSTITUTION OF 
+THE STATE OF CALIFORNIA 
+
+
+ARTICLE VI, SECTION 13 
+
+
+"No judgment shall be set aside, or new trial 
+granted, in any cause, on the ground of misdirection of 
+the jury, or of the improper admission or rejection of 
+evidence, or for any error as to any matter of pleading, 
+or for any error as to any matter of procedure, unless, 
+after an examination of the entire cause, including the 
+evidence, the court shall be of the opinion that the error 
+complained of has resulted in a miscarriage of justice." 
+
+
+APPENDIX M 
+
+
+CALIFORNIA PENAL CODE 
+
+
+SECTION 31 
+
+
+"Who are principals. Al] persons concerned in the 
+commission of a crime, whether it be felony or 
+misdemeanor, and whether they directly commit the act 
+constituting the offense, or aid and abet in_ its 
+commission, or, not being present, have advised and 
+encouraged its commission, and all persons counseling, 
+advising, or encouraging children under the age of 
+fourteen years, lunatics or idiots, to commit any crime, or 
+who, by fraud, contrivance, or force, occasion the 
+drunkenness of another for the purpose of causing him 
+to commit any crime, or who, by threats, menaces, 
+command, or coercion, compel another to commit any 
+crime, are principals in any crime so committed." 
+[Enacted 1872.] 
+
+
+SECTION 187 
+
+
+"Murder defined. (a) Murder is the unlawful 
+killing of a human being, or a fetus, with malice 
+aforethought. 
+
+"(b) This section shall not apply to any person 
+who commits an act which results in the death of a fetus 
+if any of the following apply: 
+
+"(1) The act compiled with the Therapeutic 
+
+Abortion Act, Chapter 11 (commencing with 
+
+Section 25950) of Division 20 of the Health and 
+
+Safety Code. 
+
+"(2) The act was committed by a holder of a 
+
+physician’s and surgeon’s certificate, as defined in 
+
+the Business and Professions Code, in a case 
+where, to a medical certainty, the result of 
+childbirth would be death of the mother of the 
+fetus or where her death from childbirth, although 
+
+
+not medically certain, would be substintially 
+certain or more likely than not. 
+"(3) The act was solicited, aided, abettd, or 
+consented to by the mother of the fetus. 
+"(c) Subdivision (b) shall not be agree 
+ibit the prosecution of any person under an o 
+Sa of law." [As amended by Stats. 1970, cl 1311, 
+
+
+§ 1.) 
+SECTION 189 
+
+
+"(Degrees of murder.] All murder Wich is 
+es by means of a destructive dejce or 
+explosive, poison, lying in wait, torture, or by ary other 
+kind of willful, deliberate, and premeditated kijng, or 
+which is committed in the perpetration of, or attmpt to 
+perpetrate, arson, rape, robbery, burglary, mayem, or 
+any act punishable under Section 288, is murde of the 
+first degree; and all other kinds of murders ar of the 
+
+ee. 
+er in this section "destructive devie" shall 
+mean any destructive device as defined in Sectio 12301, 
+and “explosive” shall mean any explosive as déined in 
+Section 12000 of the Health and Safety Code. 
+[As amended by Stats. 1970, ch. 771, § 3.] 
+
+
+SECTION 190.2, SUBDIVISIONS (a)(3) and ()(17)(i) 
+
+
+"(Mandatory penalty upon ipecial 
+findings.) (a) The penalty for a defendant foud guilty 
+of murder in the first degree shall be eath or 
+confinement in state prison for a term “4 life Whout ” 
+
+ibility of parole in any case in which one Oimore o 
+is hone special circumstances has been chéged and 
+specially found under Section 190.4, to be true 
+
+"(3) The defendant has in this proceeing been 
+
+convicted of more than one offense of jurder in 
+
+the first or second degree. 
+
+
+"(17) The murder was committed while the 
+
+defendant was engaged in or was an accomplice 
+
+in the commission of, attempted commission of, or 
+
+the immediate flight after committing or 
+attempting to commit the following felonies 
+
+"(i) Robbery in violation of Section 211." 
+
+(Subdivisions (a) 1, 2, 4-16, (17)(ii-ix), 18, 19 and (b) 
+
+have been omitted.) [As adopted by initiative 
+
+
+November 7, 1978.] 
+
+
+SECTION 211 
+
+
+"Robbery defined. Robbery is the felonious taking 
+of personal property in the possession of at.cher, from 
+his person or immediate presence, and against his will, 
+accomplished by means of force or fear.” 
+
+[Enacted 1872] 
+
+
+SECTION 12022, SUBDIVISION (b) 
+
+
+"(b) Any person who personally uses a deadly or 
+dangerous weapon in the commission or attempted 
+commission of a felony shall, upon conviction of such 
+felony or attempted felony, in addition and consecutive 
+to the punishment prescribed for the felony or attempted 
+felony of which he has been convicted, be punished by 
+an additional term of one year, unless use of a deadly or 
+dangerous weapon is an element of the offense of which 
+he was convicted." 
+
+
+[As amended by Stats. 1977, ch. 165, § 91, effective June 
+29, 1977.] 
+
+
+CALIFORNIA JURY INSTRUCTIONS - 
+CRIMINAL (CALJIC) 
+
+
+(Written instructions as given in this case with brackets, 
+“eletions, corrections, etc., omitted.) 
+
+
+2.01 (CT 801) 
+
+
+“However, a finding of guilt as to any crime 
+may not be based on circumstantial evidence unless the 
+proven circumstances are not only (1) consistent with the 
+theory that the defendant is guilty of the crime, but (2) 
+cannot be reconciled with any other rational conclusion. 
+
+"Further, each fact which is essential to 
+complete a set of circumstances necessary to establish 
+the defendant's guilt must be proved beyond a 
+reasonable doubt. In other words, before an inference 
+essential to establish guilt may be found to have been 
+proved beyond a reasonable doubt, each fact or 
+circumstance upon which such inference necessarily rests 
+must be proved beyond a reasonable doubt. 
+
+"Also, if the circumstantial evidence as to 
+any particular count is susceptible of two reasonable 
+interpretations, one of which points to the defendant’s 
+guilt and the other to his innocence, it is your duty to 
+adopt that interpretation which points to the defendant’s 
+innocence, and reject that interpretation which points to 
+his guilt. 
+
+"If, on the other hand, one interpretation 
+of such evidence appears to you to be reasonable and 
+the other interpretation to be unreasonable, it would be 
+your duty to accept the reasonable interpretation and to 
+reject the unreasonable." 
+
+
+/s/_ 
+Judge of the Superior Court 
+
+
+2.02 (CT 794) 
+
+
+"The specific intent or mental state with 
+which an act is done may be shown by the circumstances 
+
+
+surrounding the commission of the act. But you may _ 
+
+
+not find the defendant guilty of the offense charged in 
+Counts I, I, Il] and IV, unless the proved circumstances 
+not only are consistent with the theory that he had the 
+required specific intent or mental state but cannot be 
+reconciled with any other rational conclusion. 
+
+"Also, if the evidence as to any such 
+specific intent or mental state is susceptible of two 
+reasonable interpretations, one of which points to the 
+existence of the specific intent or mental state and the 
+other to the absence of the specific intent or mental 
+state, it is your duty to adopt that interpretation which 
+points to the absence of the specific intent or mental 
+state. If, on the other hand, one interpretation of the 
+evidence as to such specific intent or mental state 
+
+
+appears to you to be reasonable and the other. 
+
+
+interpretation to be unreasonable, it would be your duty 
+to accept the reasonable interpretation and to reject the 
+
+
+unreasonable.” 
+
+
+3.00 (CT 824) 
+
+
+"The person concerned in the commission 
+or attempted commission of a crime who are regarded 
+by law as principals in the crime thus committed or 
+attempted and equally guilty thereof include: 
+
+"1. Those who directly and actively commit 
+or attempt to commit the act constituting the crime, or 
+
+"2. ‘Those who, with knowledge of the 
+unlawful purpose of the person who directly and actively 
+commits or attempts to commit the crime, aid and abet 
+in its commission or attempted commission. 
+
+"One who aids and abets is not o il 
+of the particular crime that to his “tone angered 
+confederates are contemplating committing, but he is also 
+liable for the natural and reasonable or probable 
+consequences of any act that he knowingly aided or 
+encouraged. 
+
+| "If the evidence shows that the defendant 
+was intoxicated at the time of the alleged offense, the 
+jury should consider his state of intoxication in 
+determining if defendant had such knowledge. 
+
+"If from all the evidence you have a 
+reasonable doubt whether defendant had such knowledge 
+by reason of a state of intoxication, you must give the 
+defendant the benefit of that doubt and find that he did 
+not have such knowledge." 
+
+
+Judge 
+
+
+3.01 (CT 826) 
+
+
+"A person aids and abets the commission 
+of a crime if, with knowledge of the unlawful purpose of 
+the perpetrator of the crime, he aids, promotes, 
+encourages or instigates by act or advice the commission 
+
+
+of such crime. 
+"Mere presence at the scene of the crime 
+
+
+which does act itself assist the commission of the crime 
+does not amount to aiding and abetting. 
+
+"Mere’ knowledge that a crime is being 
+committed and the failure to prevent it does not amount 
+to aiding and abetting." 
+
+
+Ls/_ 
+Judge of the Superior Court 
+
+
+3.31 (CT 828) 
+
+
+"In each of the crimes charged in Counts 
+I, Il, Ill, and IV, of the information, namely, murder and 
+robbery there must exist a union or joint operation of act 
+or conduct and a certain specific intent in the mind of 
+the perpetrator and unless such specific intent exists the 
+crime to which it relates is not committed. 
+
+"The specific intent required is included in 
+the definitions of the crimes charged." 
+
+
+3.34 (CT 829) 
+
+
+"The intent with which an act is done is 
+
+
+shown as follows: 
+"By the circumstances attending the act, the 
+
+
+manner in which it is done, the means used, and the 
+soundness of mind and discretion of the person 
+
+
+committing the act." 
+
+
+/s/__ 
+
+
+Judge of the Superior Court 
+
+
+5.30 (CT 838) 
+
+
+It is lawful for a person who is being" 
+assaulted to defend himself from attack if, as a 
+reasonable person, he has grounds for believing and does 
+believe that bodily injury is about to the inflicted upon 
+him. In doing so he may use all force and means which 
+he believes to be reasonably necessary and which would 
+appear to a reasonable person, in the same or similar 
+circumstances, to be necessary to prevent the injury 
+which appears to be imminent." 
+
+
+—lsL_ 
+Judge of the Superior Court 
+
+
+8.21 (CT 851) 
+
+
+"The unlawful killing of a human being, 
+whether intentional, unintentional or accidental, which 
+occurs as a result of the commission of or attempt to 
+commit the crime of robbery, and where there was in the 
+mind of the perpetrator of the specific intent to commit 
+such crime, is murder of the first degree. 
+
+"The specific intent to commit robbery and 
+the commission or attempt to commit such crime must 
+be proved beyond a reasonable doubt." 
+
+
+SL 
+Judge of the Superior Court 
+
+
+8.27 (CT 853) 
+
+
+"If a human being is killed by any one of 
+several persons engaged in the perpetration of, or 
+attempt to perpetrate, the crime of robbery, all persons 
+who either directly and actively commit the act 
+constituting such crime or who with knowledge of the 
+unlawful purpose of the perpetrator of the crime aid, 
+promote, encourage, or instigate by act or advice whether 
+the killing is intentional, unintentional, or accidental." 
+
+
+— Si 
+Judge of the Superior Court 
+
+
+8.77 (CT 872-873) 
+
+
+"If you find from the evidenc that at the 
+time the alleged crime was committed,the dfendant had 
+substantially reduced mental capacity, whethr caused by 
+mental illness, mental defect, if any, thi diminished 
+capacity had on the defendant's ability toorm any of 
+the specific mental states that are essentiaejements of 
+murder and voluntary manslaughter. 
+
+"Thus, if you find that the gefendant’s 
+mental capacity was diminished to the exnt that you 
+have a reasonable doubt whether he did, jaturely and 
+meaningfully, premeditatc, deliberate, anctg jj], you 
+cannot find him guilty of a wilful, dtherate and 
+premeditated murder of the first degree. 
+
+"Also, if you find that th¢ gefendant’s 
+mental capacity was diminished to the €%nt that you 
+have a reasonable doubt whether he waspble to form 
+the mental states constituting either exprg or implied 
+malice aforethought, you cannot find ly guilty of 
+murder of either the first or second degre 
+
+"If you have a reasonab doubt (1) 
+whether he was able to form an intentionnjawfully to 
+kill a human being, or (2) whether he wagware of the 
+duty imposed on him not to commit acts,pich involve 
+the risk of grave injury or death, or (3) Vether he did 
+act despite that awareness, you CannOting that he 
+harbored express malice. 
+
+"Further, if you have reasonyje doubt (1) 
+whether his acts were done for a ba anti-social 
+purpose, or (2) whether he was awaltof the duty 
+imposed on him not to commit acts wh) jnvolve the 
+risk of grave injury or death, or (3) whetr he did act 
+despite that awareness, you cannot find th he harbored 
+implied malice. 
+
+"Furthermore, if you find thias a result of 
+mental illness, mental defect, or intoxicaty his mental 
+capacity was diminished to the extent tt he neither 
+harbored malice aforethought nor had antent to kill at 
+the time the alleged crime was committ, yoy cannot 
+
+
+find him guilty of either murder 
+
+
+manslaughter." 
+
+
+/s/ 
+
+
+Or 
+
+
+voluntary 
+
+
+8.79 (CT 874) 
+
+
+"Before the defendant may be found guilty 
+of the unlawful killing of a human being as a result of 
+the commission or attempt to commit the crime of 
+robbery, you must take all the evidence into 
+consideration and determine therefrom if, at the time of 
+the commission or attempt to commit such crime, the 
+defendant was suffering from some abnormal mental or 
+physical condition, intent to commit such crime. 
+
+"If from all the evidence you have a 
+reasonable doubt whether the defendant was capable of 
+forming such specific intent, you must give the defendant 
+the benefit of that doubt and find that he did not have 
+
+
+such specific intent." 
+
+
+8.80 (CT 875-876) 
+
+
+"If you find the defendant in this case guilty 
+of murder of the first degree, you must then determine 
+if murder was committed under one or more of the 
+following special circumstances: in the commission of a 
+robbery and/or the defendant was convicted in this case 
+of more than oiie offense of murder in the first or 
+second degree. 
+
+"A special circumstance must be proved 
+beyond a reasonable doubt. 
+
+"If you have a reasonable doubt as to 
+whether a special circumstance is true, it is your duty to 
+find that it is not true. 
+
+"If defendant Kenneth Duane Roy, was not 
+the actual killer, it must be proved beyond a reasonable 
+doubt that he intentionally aided, abetted, counseled, 
+commanded, induced, solicited, requested or assisted the 
+actual killer in the commission of the murder in the first 
+degree before you are permitted to find the alleged 
+special circumstance of that first degree murder to be 
+true as to defendant, Kenneth Duane Roy. 
+
+"You must decide separately each special 
+circumstance charged in this case. If you cannot agree 
+upon your finding as to all of the special circumstances 
+but can agree as to one or more of them, you must 
+make your finding as to the one or more upon which 
+you do agree. 
+
+"In order to find the special circumstance 
+charged in this case to be true or untrue, you must agree 
+unanimously. 
+
+"You will include in your verdict on a form 
+that will be supplied your finding as to whether the 
+special circumstance is or is not true.” 
+
+
+/s/ 
+
+
+8.81.17 (CT 878) 
+
+
+"To find that the special circumstance, 
+referred to in these instructions as murder in the 
+commission of robbery, is true, it must be proved: 
+
+"la. That the murder was committed while 
+the defendant was engaged in or was an accomplice in 
+
+
+the commission of a robbery. 
+"2. That the murder was committed in 
+
+
+order to carry out or advance the commission of the 
+crime of robbery or to facilitate the escape therefrom or 
+to avoid detection. In other words, the special 
+circumstance referred to in these instructions is not 
+established if the attempted robbery was merely 
+incidental to the commission of the murder." 
+
+
+Ls/_ 
+Judge of the Superior Court 
+
+
+8.83 (CT 879) 
+
+
+"You are not permitted to find the special 
+circumstances charged in this case to be true based on 
+circumstantial evidence unless the proved facts are not 
+only (1) consistent with the theory that the special 
+circumstances are true, but (2) cannot be reconciled with 
+any other rational conclusion. Each fact which is 
+essential to complete a set of facts necessary to establish 
+the truth of the special circumstances must be proved 
+beyond a reasonable doubt. 
+
+"Also, if the circumstantial evidence is 
+susceptible of two reasonable interpretations, one of 
+which points to the truth of the special circumstances 
+and the other to their untruth, it is your duty to adopt 
+the interpretation which points to their untruth, and 
+reject the interpretation which points to their truth. If, 
+on the other hand, one interpretation of such evidence 
+appears tO you to be reasonable and the other 
+interpretation to be unreasonable, it would be your duty 
+to accept the reasonable interpretation and to reject the 
+unreasonable." 
+
+
+ls/__ 
+Judge of the Superior Court 
+
+
+8.83.1 (CT 880) 
+
+
+"The mental state with which an act is done 
+may be manifested by the facts surrounding its 
+commission. You may not find the special circumstances 
+charged in this case to be true unless the proved facts 
+not only are consistent with the theory that the 
+defendant had the required mental state but cannot be 
+reconciled with any other rational conclusion. 
+
+"Also, if the evidence as to the required 
+mental state is susceptible of two _ reasonable 
+interpretations, one of which points to the existence 
+thereof and the other to the absence thereof, you must 
+adopt that interpretation which points to its absence. If, 
+on the other hand, one interpretation of the evidence as 
+to the required mental state appears to you to be 
+reasonable and the other interpretation to be 
+unreasonable, it would be your duty to accept the 
+reasonable interpretation and to reject the unreasonable." 
+
+
+Isl 
+Judge of the Superior Court 
+
+
+17.16 (CT 896) 
+
+
+"It is charged in Counts 1, 2, 3, and 4, that 
+in the commission of the crime therein described, the 
+defendant Kenneth Duane Roy personally used a deadly 
+or dangerous weapon. 
+
+"A deadly or dangerous weapon means any 
+weapon, instrument or object that is capable of being 
+used to inflict great bodily injury or death. 
+
+"The term ‘used a deadly or dangerous 
+weapon, as used in this instruction, means to display 
+such a weapon in an intentionally menacing manner or 
+intentionally to strike or hit a human being with it. 
+
+"If you find such defendant guilty of the 
+crime thus charged, it then will be your duty to 
+determine whether or not such defendant personally used 
+a deadly or dangerous weapon in the commission of such 
+crime. 
+
+"Such defendant may be found to have 
+personally used a deadly or dangerous weapon at the 
+time of the commission of the crime charged only if the 
+proof shows beyond a reasonable doubt that such 
+defendant personally used such a weapon at such time. 
+
+"You will include a finding on that question 
+in your verdict, using a form that will be supplied for 
+
+
+that purpose.” 
+
+
+ls 
+Judge of the Superior Court 
+
+
+17.45 (CT 901) 
+
+
+"The written instructions now being given 
+you will be made available in the jury room during your 
+deliberations if you so request. They must not be 
+defaced in any way. 
+
+"You will find that the instructions may be 
+either printed, typewritten or handwritten. Some of the 
+printed or typewritten instructions may be modified by 
+typing or handwriting. Blanks in the printed instructions 
+may be filled in by: typing or handwriting. Also, portions 
+of printed or typewritten instructions may have been 
+deleted by lining out. 
+
+"You are not to be concerned with the 
+reasons for any modifications that have been made. 
+Also, you must disregard any deleted part of an 
+instruction and not speculate either what it was or what 
+is the reason for its deletion. 
+
+"Every part of an instruction whether it is 
+printed, typed or handwritten is of equal importance. 
+You are to be governed only by the instruction in its 
+final wording whether printed, typed or handwritten." 
+
+
+Ls/ 
+
+
+Judge of the Superior Court 
+
+
+. APPENDIX O 
+
+
+DECLARATION OF B.D. CHASTAIN 
+I, BARBARA DAWN CHASTAIN, declare as follows: 
+
+
+1. I am a Correctional Case Records Supervisor for 
+the California Department of Corrections at the California State 
+Prison at Folsom, Represa, California. I have been employed in this 
+Capacity since March 1988. 
+
+
+2. In my capacity as a Correctional Case Records 
+Supervisor I am responsible for the supervision of staff which 
+calculate release dates and conduct audits on inmate files within this 
+facility. 
+
+
+3. The Second Amended Abstract of Judgment dated 
+December 26, 1990, Butte County case number 76386, is the 
+judgment under which Kenneth Duane Roy is currently incarcerated 
+by the California Department of Corrections. However, based on the 
+Department’s calculations, the credits shown on the Abstract of 
+Judgment are incorrect since those credits were previously applied at 
+the time of the original sentencing (see attached letter dated 1-22-90 
+from this Department to Butte County Superior Court.) 
+
+
+I declare under penalty of perjury that to the best of my 
+knowledge the foregoing is true and correct. 
+
+
+DATED: __7-5-91 _/s/ 
+BARBARA DAWN CHASTAIN 
+
+
+- aus OS. 200 
+Rent on Tan w caveat 
+a 
+comma’ 10 via Pas + GASES. trae Co Con 
+x 
+tiller _ ti. Hecberts —s oe I. fren _- 
+‘ Oe © 8s eee © Oe eee Re a = 
+ame a a ate = 
+le eee _ i{ 
+| 
+| 
+
+
+-——_— eee 2 ee + ee create 
+
+
+OO Cat ag 
+Pine, Pee. 
+SP 400055 Cuneo . 
+
+
+oe ~— nom 
+
+
+eT se 
+
+
+OP A A Aa a a 
+
+
+cheetah tk ny 
+7 Pa EA ce! - 
+
+
+ww 
+
+
