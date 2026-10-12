@@ -2,7 +2,7 @@
 
 **Opening October Term:** 1996  
 **Last completed October Term:** 1995
-**Processed through:** July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events, and the October 7, 1996 orders denying certiorari in Jones v. ABC-TV and the three Shieh petitions.
+**Processed through:** July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events.
 **Edition:** October 11, 2026
 **State posture:** Opening of October Term 1996, before its first supplied event.
 **Controlled Justice:** Alex-Lamar Stone-Zsela, Chief Justice, Chief Justice line.
@@ -53,11 +53,10 @@ The order effective August 3, 1994 governs at the OT1996 opening.
 
 ## 4. Docket of Cases Brought Up
 
-One matter carried forward from OT1995 and the 58 sim-granted lower-court cases in the OT1996 inventory are on the docket at the OT1996 opening. The questions in the sim-granted cases follow the table.
+The 58 sim-granted lower-court cases in the OT1996 inventory are on the docket at the OT1996 opening. The questions in the sim-granted cases follow the table.
 
 | Case or matter | Court below and judgment | Why on the docket | Stage at opening | Source |
 |---|---|---|---|---|
-| *Wood v. Bartholomew*, No. 94-1419 | Ninth Circuit, 34 F.3d 870 (1994); reversed denial of habeas relief. | Plenary grant left open in OT1995. | Certiorari granted; full briefing and oral argument remain pending; no argument date or merits event supplied. | October 10, 1995 Record |
 | *Hopwood v. Texas*, Fifth Circuit Nos. 94-50569; 94-50664 | Fifth Circuit, 78 F.3d 932 (1996); district court, 861 F. Supp. 551 (W.D. Tex. 1994). | Sim-granted lower-court case in the OT1996 inventory. | Granted — to be heard on the merits. | User instruction; OT1996 case index No. 6. |
 | *Tyler Murray v. Montrose County School District RE-1J*, Tenth Circuit Nos. 93-1466; 93-1474 | Tenth Circuit, 51 F.3d 921 (1995). | Sim-granted lower-court case in the OT1996 inventory. | Granted — to be heard on the merits. | User instruction; OT1996 case index No. 8. |
 | *In re Askin*, Fourth Circuit No. 94-5428 | Fourth Circuit, 47 F.3d 100 (1995). | Sim-granted lower-court case in the OT1996 inventory. | Granted — to be heard on the merits. | User instruction; OT1996 case index No. 10. |
