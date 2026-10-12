@@ -2,8 +2,8 @@
 
 **Opening October Term:** 1996  
 **Last completed October Term:** 1995
-**Processed through:** July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events.
-**Edition:** October 7, 2026
+**Processed through:** July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events, and the October 7, 1996 orders denying certiorari in Jones v. ABC-TV and the three Shieh petitions.
+**Edition:** October 11, 2026
 **State posture:** Opening of October Term 1996, before its first supplied event.
 **Controlled Justice:** Alex-Lamar Stone-Zsela, Chief Justice, Chief Justice line.
 
@@ -53,22 +53,11 @@ The order effective August 3, 1994 governs at the OT1996 opening.
 
 ## 4. Docket of Cases Brought Up
 
-Twelve matters carried forward from OT1995 and the 58 sim-granted lower-court cases in the OT1996 inventory are on the docket at the OT1996 opening. The questions in the sim-granted cases follow the table.
+One matter carried forward from OT1995 and the 58 sim-granted lower-court cases in the OT1996 inventory are on the docket at the OT1996 opening. The questions in the sim-granted cases follow the table.
 
 | Case or matter | Court below and judgment | Why on the docket | Stage at opening | Source |
 |---|---|---|---|---|
-| *Wyoming v. Oklahoma*, No. 112, Original; 502 U.S. 437 (1992) | Original action; no lower-court judgment. | Inherited original action carried forward from OT1995. | Declaratory judgment and injunction issued; jurisdiction retained for implementation. | January 22, 1992 Record |
-| *United States v. Louisiana* (Alabama and Mississippi Boundary Case), No. 9, Original; 507 U.S. 7 (1993) | Original action; no lower-court judgment. | Inherited original action carried forward from OT1995. | Supplemental decree entered; jurisdiction retained to effectuate and supplement the decree and the parties' rights. | February 22, 1993 Record |
-| *Delaware v. New York*, No. 111, Original; 507 U.S. 490 (1993) | Original action; exceptions to the Special Master's report. | Inherited original action carried forward from OT1995. | Remanded to the Special Master to identify intermediary debtors, determine creditors' addresses and recommend a decree; no final allocation or decree entered. | March 30, 1993 Record |
-| *Nebraska v. Wyoming*, No. 108, Original | Original action; exceptions to the Special Master's report. | Inherited original action carried forward from OT1995. | Admitted claims remain before Special Master Olpin for evidence and recommended findings; their liability and any required substantial injury remain undecided. | May 30, 1995 Record |
-| *Kansas v. Colorado*, No. 105, Original | Original action; exceptions to the Special Master's liability report overruled. | Inherited original action carried forward from OT1995. | Liability resolved; compensable depletion and remedy remain before Special Master Littleworth; no final remedial decree entered. | May 15, 1995 Record |
 | *Wood v. Bartholomew*, No. 94-1419 | Ninth Circuit, 34 F.3d 870 (1994); reversed denial of habeas relief. | Plenary grant left open in OT1995. | Certiorari granted; full briefing and oral argument remain pending; no argument date or merits event supplied. | October 10, 1995 Record |
-| *Louisiana v. Mississippi et al.*, No. 121, Original; 516 U.S. 122 (1995) | Original boundary action; no lower-court judgment. | Original action left open in OT1995. | Decree entered; original jurisdiction retained for implementation and enforcement. | December 4, 1995 Record |
-| *Jones v. ABC-TV*, No. 95-7186; 516 U.S. 363 (1996) | Eighth Circuit, No. 95-2785; August 8, 1995 summary affirmance of the district court's June 14 dismissal. | Financial-leave motion and certiorari petition left open in OT1995. | Financial-leave motion and certiorari petition remain pending; no decision date or refiling direction set. | February 26, 1996 Record |
-| *United States v. Maine et al.* (Massachusetts Boundary Case), No. 35, Original; 516 U.S. 365 (1996) | Original boundary action; no lower-court judgment. | Original action left open in OT1995. | Supplemental decree entered; jurisdiction retained to effectuate and supplement the decree and the parties' rights. | February 26, 1996 Record |
-| *Shieh v. Kakita*, No. 95-7587 | Ninth Circuit, No. 95-55563; October 27, 1995 affirmance of denial of judgment vacatur in C.D. Cal. No. CV-93-6547. | Separate certiorari petition left open in OT1995. | Individual financial leave granted; certiorari remains pending for ordinary independent consideration without prepayment. | April 1, 1996 Record |
-| *Shieh v. United States Court of Appeals for the Ninth Circuit*, No. 95-7588 | Ninth Circuit, No. 95-80348; December 13, 1995 prospective prefiling order. | Separate certiorari petition left open in OT1995. | Individual financial leave granted; certiorari remains pending for ordinary independent consideration without prepayment. | April 1, 1996 Record |
-| *Shieh v. Krieger*, No. 95-7589 | Ninth Circuit, No. 95-55566; October 27, 1995 affirmance of denial of judgment vacatur in C.D. Cal. No. CV-93-7310. | Separate certiorari petition left open in OT1995. | Individual financial leave granted; certiorari remains pending for ordinary independent consideration without prepayment. | April 1, 1996 Record |
 | *Hopwood v. Texas*, Fifth Circuit Nos. 94-50569; 94-50664 | Fifth Circuit, 78 F.3d 932 (1996); district court, 861 F. Supp. 551 (W.D. Tex. 1994). | Sim-granted lower-court case in the OT1996 inventory. | Granted — to be heard on the merits. | User instruction; OT1996 case index No. 6. |
 | *Tyler Murray v. Montrose County School District RE-1J*, Tenth Circuit Nos. 93-1466; 93-1474 | Tenth Circuit, 51 F.3d 921 (1995). | Sim-granted lower-court case in the OT1996 inventory. | Granted — to be heard on the merits. | User instruction; OT1996 case index No. 8. |
 | *In re Askin*, Fourth Circuit No. 94-5428 | Fourth Circuit, 47 F.3d 100 (1995). | Sim-granted lower-court case in the OT1996 inventory. | Granted — to be heard on the merits. | User instruction; OT1996 case index No. 10. |
