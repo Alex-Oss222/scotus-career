@@ -1,0 +1,59 @@
+Robinson v. Shell Oil Co., 519 U.S. 337 (1997). LII Supreme Court Robinson v. Shell Oil Co. (95-1376), 519 U.S. 337 (1997). Syllabus Opinion [ Thomas ] HTML version WordPerfect version HTML version WordPerfect version NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See United States v. Detroit Timber & Lumber
+ Co., 200
+ U.S. 321 , 337. SUPREME COURT OF THE UNITED STATES Syllabus ROBINSON v. SHELL
+ OIL CO. certiorari to the united states
+ court of appeals for the fourth circuit No. 95-1376 .
+ Argued November 6, 1996 -- Decided February 18, 1997 After he was fired by respondent, petitioner filed an employment discrimination
+ charge with the Equal Employment Opportunity Commission (EEOC) under Title
+ VII of the Civil Rights Act of 1964. While that charge was pending, petitioner
+ applied for a job with another company, which contacted respondent for
+ an employment reference. Claiming that respondent gave him a negative reference
+ in retaliation for his having filed the EEOC charge, petitioner filed suit
+ under §704(a) of Title VII, which makes it unlawful "for an employer
+ to discriminate against any of his employees or applicants for employment"
+ who have availed themselves of Title VII's protections. The District Court
+ dismissed the action, and the en banc Fourth Circuit affirmed, holding
+ that the term "employees" in §704(a) refers only to current employees
+ and therefore petitioner's claim was not cognizable under Title VII. Held: Because the term "employees,"
+ as used in §704(a) of Title VII, includes former employees, petitioner
+ may sue respondent for its allegedly retaliatory postemployment actions.
+ Pp. 3-9. (a) Consideration of the statutory
+ language, the specific context in which it is used, and the broader context
+ of Title VII as a whole leads to the conclusion that the term "employees"
+ in §704(a) is ambiguous as to whether it excludes former employees.
+ First, there is no temporal qualifier in §704(a) such as would make
+ plain that it protects only persons still employed at the time of the retaliation.
+ Second, §701(f)'s general definition of "employee" likewise lacks
+ any temporal qualifier and is consistent with either current or past employment.
+ Third, a number of other Title VII provisions, including §§706(g)(1),
+ 717(b), and 717(c), use the term "employees" to mean something more inclusive
+ or different than "current employees." That still other sections use the
+ term to refer unambiguously to a current employee, see, e.g., §703(h),
+ §717(b), at most demonstrates that the term may have a plain meaning
+ in the context of a particular section--not that it has the same meaning
+ in all other sections and in all other contexts. Once it is established
+ that "employees" includes former employees in some sections, but not in
+ others, the term standing alone is necessarily ambiguous and each section
+ must be analyzed to determine whether the context gives the term a definite
+ meaning. Pp. 3-8. (b) A holding that former employees are included within §704(a)'s
+ coverage is more consistent with the broader context provided by other
+ Title VII sections and with §704(a)'s primary purpose of maintaining
+ unfettered access to Title VII's remedial mechanisms. As noted, several
+ sections of the statute plainly contemplate that former employees will
+ make use of Title VII's remedial mechanisms. These include §703(a),
+ which prohibits discriminatory "discharge." Insofar as §704(a) expressly
+ protects employees from retaliation for filing a "charge," and a charge
+ under §703(a) alleging unlawful discharge would necessarily be brought
+ by a former employee, it is far more consistent to include former employees
+ within the scope of "employees" protected by §704(a). This interpretation
+ is supported by the arguments of petitioner and EEOC that exclusion of
+ former employees from §704(a) would undermine Title VII's effectiveness
+ by allowing the threat of postemployment retaliation to deter victims of
+ discrimination from complaining to EEOC, and would provide a perverse incentive
+ for employers to fire employees who might bring Title VII claims. Pp. 8-9. 70 F. 3d 325 ,
+ reversed. Thomas, J., delivered the opinion
+ for a unanimous Court.

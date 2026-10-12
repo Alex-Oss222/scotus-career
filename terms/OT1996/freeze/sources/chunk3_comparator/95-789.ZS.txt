@@ -1,0 +1,81 @@
+California Division of Labor Standards Enforcement v. Dillingham Construction, 519 U.S. 316 (1997) LII Supreme Court California Division of Labor Standards Enforcement v. Dillingham Construction (95-789), 519 U.S. 316 (1997) Concurrence [ Scalia ] Syllabus Opinion [ Thomas ] HTML version WordPerfect version HTML version WordPerfect version HTML version WordPerfect version NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See United States v. Detroit Timber & Lumber
+ Co., 200
+ U.S. 321 , 337. SUPREME COURT OF THE UNITED STATES Syllabus CALIFORNIA DIVISION OF LABOR
+ STANDARDS ENFORCEMENT et al. v. DILLINGHAM CONSTRUCTION,
+ N. A., INC., et al. certiorari to the united states
+ court of appeals for the ninth circuit No. 95-789 .
+ Argued November 5, 1996 -- Decided February 18, 1997 California requires a public works project contractor to pay its workers
+ the prevailing wage in the project's locale, but allows payment of a lower
+ wage to participants in a state approved apprenticeship program. After
+ respondent Dillingham Construction subcontracted some of the work on its
+ state contract to respondent Arceo, doing business as Sound Systems Media,
+ the latter entered a collective bargaining agreement that included an apprenticeship
+ wage scale and provided for affiliation with an apprenticeship committee
+ that ran an unapproved program. Sound Systems Media thereafter relied on
+ that committee for its apprentices, to whom it paid the apprentice wage.
+ Petitioner California Division of Apprenticeship Standards issued a notice
+ of noncompliance to both Dillingham and Sound Systems Media, charging that
+ paying the apprentice wage, rather than the prevailing journeyman wage,
+ to apprentices from an unapproved program violated the state prevailing
+ wage law. Respondents sued to prevent petitioners from interfering with
+ payment under the subcontract, alleging, inter alia, that §514(a)
+ of the Employee Retirement Income Security Act of 1974 (ERISA) pre-empted
+ enforcement of the state law. The District Court granted petitioners summary
+ judgment, but the Ninth Circuit reversed, holding that the apprenticeship
+ program was an "employee welfare benefit plan" under ERISA §3(1),
+ and that the state law "relate[d] to" the plan and was therefore superseded
+ under §514(a). Held: California's prevailing
+ wage law does not "relate to" employee benefit plans, and thus is not pre-empted
+ by ERISA. Pp. 6-17. (a) A state law "relate[s]
+ to" a covered employee benefit plan for §514(a) purposes if it (1)
+ has a "connection with" or (2) "reference to" such a plan. E.g., District
+ of Columbia v. Greater Washington Bd. of Trade, 506
+ U.S. 125 , 129. A law has the forbidden reference where it acts immediately
+ and exclusively upon ERISA plans, as in Mackey v. Lanier Collection
+ Agency & Service, Inc., 486
+ U.S. 825 , or where the existence of such plans is essential to its
+ operation, as in, e.g., Greater Washington Bd. of Trade, supra, and Ingersoll Rand Co. v. McClendon, 498
+ U.S. 133 . To determine whether a state law has a connection with ERISA
+ plans, this Court looks both to ERISA's objectives as a guide to the scope
+ of the state law that Congress understood would survive, New York State
+ Conference of Blue Cross & Blue Shield Plans v. Travelers Ins.
+ Co., 514 U. S. ___, ___, and to the nature of the law's effect on ERISA
+ plans, id., at ___. Where federal law is said to pre-empt state
+ action in fields of traditional state regulation, this Court assumes that
+ the States' historic police powers are not superseded unless that was Congress'
+ clear and manifest purpose. E.g., id., at ___. Pp. 6-8. (b) Because it appears that approved apprenticeship programs need
+ not be ERISA plans, the California law does not make "reference to" such
+ plans. On its face, the law seems to allow the lower apprentice wage only
+ to a contractor who acquires apprentices through a "joint apprenticeship
+ committee"--an apprenticeship program sponsored by the collective efforts
+ of management and organized labor. To comport with federal law, the expenses
+ of such a committee must be defrayed out of monies placed into a separate
+ fund, the existence of which triggers ERISA coverage. However, applicable
+ regulations make clear that the class of apprenticeship program sponsors
+ who may provide approved apprentices under California law is broad enough
+ to include a single employer who defrays the costs of its program out of
+ general assets. An employee benefit program so funded, and not paid
+ for through a separate fund, is not an ERISA plan. See, e.g., Massachusetts v. Morash, 490
+ U.S. 107 , 115. The California law is indifferent to the funding, and,
+ thus, to the ERISA coverage, of apprenticeship programs; accordingly, it
+ makes no "reference to" ERISA plans. Pp. 8-11. (c) Nor does the California law have a "connection with" ERISA
+ plans. In every relevant respect, that law is indistinguishable from the
+ New York statute upheld in Travelers, supra. As with the New York
+ statute, the Court discerns no congressional intent to pre-empt the areas
+ of traditional state regulation with which the California law is concerned.
+ 514 U. S., at ___. And, like the New York statute, the California prevailing
+ wage law does not bind ERISA plans--legally or as a practical matter--to
+ anything. It merely provides some measure of economic incentive to apprenticeship
+ programs to comport with the State's apprenticeship standards by authorizing
+ lower wage payments to workers enrolled in approved apprenticeship programs.
+ Cf. id., at ___. This Court could not hold the California law superseded
+ based on so tenuous a relation without doing grave violence to the presumption
+ that Congress does not intend the pre-emption of state laws in traditionally
+ state regulated areas. Pp. 11-17. 57 F. 3d 712 ,
+ reversed and remanded. Thomas, J., delivered the opinion
+ for a unanimous Court. Scalia, J., filed a concurring opinion, in which
+ Ginsburg, J., joined.

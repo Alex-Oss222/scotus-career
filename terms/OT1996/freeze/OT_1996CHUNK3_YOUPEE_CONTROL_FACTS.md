@@ -1,0 +1,8 @@
+# Youpee — limited objective record extraction
+
+For fresh neutral validation under Engine §14. No Supreme Court outcome, holding, rationale, vote, authorship, joinder or private position is supplied. Retrieved October 12, 2026.
+
+- **One recipient per existing interest:** The published factual recitation reports that William Youpee's will devised each disputed fractional interest to a single descendant. Its description is that the existing fractions remained, with no single interest divided among multiple recipients. Source: 519 U.S. 234, 241–42; [official Reports](https://www.supremecourt.gov/opinions/boundvolumes/519bv.pdf#page=411). This is a judicial recitation of the will's operation, not a reconstruction of the will or a statement that the underlying probate file has been obtained.
+- **Tribal-code qualification:** The published account reports that tribal codes governing the disposition of these escheatable interests apparently had not been developed, citing oral-argument transcript pages 42–43. Source: 519 U.S. 234, 245; [official Reports](https://www.supremecourt.gov/opinions/boundvolumes/519bv.pdf#page=415). Preserve the source's qualification: the account does not independently establish that no tribe anywhere had adopted a code. No operative alternative code is identified for this estate in the recovered account. Control has not read the underlying transcript and does not certify its contents independently.
+
+These supported public recitations supply the requested factual limits without turning an unavailable underlying document into a litigant default. The original will and transcript would be needed if a contrary specific account becomes material.

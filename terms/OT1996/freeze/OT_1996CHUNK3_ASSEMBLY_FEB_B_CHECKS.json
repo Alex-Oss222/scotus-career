@@ -1,0 +1,32 @@
+[
+  {
+    "record": "General_Motors_v_Tracy_merits_1997-02-18.md",
+    "explanation_words": [
+      102,
+      223,
+      109
+    ],
+    "projection_blocks": 11,
+    "holding_identity": "exact",
+    "sha256": "09833edbc410b4789d282d41e2aa371b220af6a76f87d50c7e38061c1fb3ee4e"
+  },
+  {
+    "record": "Ingalls_Shipbuilding_v_Director_OWCP_merits_1997-02-18.md",
+    "explanation_words": [
+      219,
+      191
+    ],
+    "projection_blocks": 11,
+    "holding_identity": "exact",
+    "sha256": "9c1fb9e13c2105dfaf7e1d7428482043b0c2d52107dbb2fffd4896a267f6e827"
+  },
+  {
+    "record": "Robinson_v_Shell_Oil_merits_1997-02-18.md",
+    "explanation_words": [
+      242
+    ],
+    "projection_blocks": 11,
+    "holding_identity": "exact",
+    "sha256": "13b5cb0e38cce4ffbcbae646ba7b9387187e9895d9b664ada12a51182432e98b"
+  }
+]

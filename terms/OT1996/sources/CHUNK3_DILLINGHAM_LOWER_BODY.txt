@@ -1,0 +1,314 @@
+Primary lower-court opinion body; script-copied web text. Source: https://openjurist.org/57/f3d/712
+Later-site header analytics, treatment status and footer omitted. L numbers are retrieval line coordinates, not reporter pages.
+
+L42: Richard N. Hill, Littler, Mendelson, Fastiff, Tichy & Mathiason, San Francisco, CA, for plaintiffs-appellants.
+L43: Ramon Yuen-Garcia, Dept. of Labor Standards Enforcement and John M. Rea, Dept. of Indus. Relations, San Francisco, CA, for defendants-appellees.
+L44: 
+L45: Appeal from the United States District Court for the Northern District of California.
+L46: 
+L47: Before: CANBY, and BRUNETTI, Circuit Judges, and JONES,* District Judge.
+L48: 
+L49: BRUNETTI, Circuit Judge:
+L50: 
+L51: ¶1
+L52: The issue presented in this case is whether ERISA preempts the application of a state prevailing wage law that requires payment of prevailing wages to employees in apprenticeship programs that have not received state approval but allows the payment of lower apprenticeship wages to employees participating in state approved programs. We hold that it does.
+L53: 
+L54: I. CALIFORNIA APPRENTICESHIP REGULATIONS
+L55: 
+L56: ¶2
+L57: As described by the district court, California's administrative framework for regulating apprenticeships is complex. Rules and regulations establishing minimum standards of wages, hours and working conditions for apprentices are created by the California Apprenticeship Council ("CAC") which is located within the Division of Apprenticeship Standards ("DAS").
+L58: The California Code of Regulations provides that "[a]pprenticeship programs shall be established by written standards approved by the Chief of DAS" and sets forth a detailed list of program standards that must be covered before the program is approved. Cal.Code Regs. tit. 8, Sec. 212.
+L59: ¶3
+L60: 
+L61: The CAC exercises approval authority over apprenticeship programs pursuant to the Fitzgerald Act, 29 U.S.C. Sec. 50 and its implementing regulations, 29 C.F.R. Secs. 29.1-29.13. The federal regulations establish criteria under which a state agency may be recognized as the appropriate agency for registering local apprenticeship programs for federal purposes. 29 C.F.R. Sec. 29.12.
+L62: 
+L63: ¶4
+L64: Section 1771 of the California Labor Code requires state public works contractors to pay their employees "prevailing wages."1
+L65: 
+L66: ¶5
+L67: Contractors who are awarded public works projects agree to pay prevailing wages to all their construction employees at the journeyman level in specified trades. Public works contractors that employ apprentices can pay them an amount lower than the prevailing journeyman wage so long as those apprentices are part of an approved apprenticeship program under California Labor Code section 1777.5.2
+L68: 
+L69: ¶6
+L70: Until employees on a public works project are enrolled in an apprenticeship program whose training and education standards meet state-established minimums, the prevailing wage statute requires that they be paid at higher, journeyman rates.
+L71: 
+L72: II. FACTS AND PROCEEDINGS
+L73: 
+L74: ¶7
+L75: Dillingham Construction was awarded a state public works contract to construct a detention facility in Sonoma County. The detention facility project was a public works project within the meaning of California Labor Code Sec. 1720. Dillingham Construction subcontracted electric work to Sound Systems Media, a sole proprietorship of Manuel Arceo. Arceo was a member of the International Brotherhood of Electric Workers ("IBEW").
+L76: 
+L77: ¶8
+L78: When Sound Systems began work on the job, it paid its employees in accordance with the collective bargaining agreement between the IBEW Local 202 and the National Electric Contractors Association which included a scale for apprentice electronic technicians and required Sound Systems to make contributions to the Northern California Sound and Communications Joint Apprenticeship Training Committees ("JATC"), a state approved JATC. JATCs are the source of the apprentices and provide for their training.
+L79: However, after the job began, the IBEW Local 202 withdrew its representation of Sound System's electronics technician employees, leaving Sound Systems without a collective bargaining agreement to establish compensation. About a month after the IBEW's withdrawal, Sound Systems joined the Northern California Electrical Sound Communications Association ("NCESCA"), a multi-employer association of electrical contractors.
+L80: NCESCA signed a collective bargaining agreement with the National Electronic Systems Technicians Union ("NESTU") which provided wage scales for all employees, including apprentices and covered Sound Systems' electronic technicians. NESTU was associated with the Electronic and Communications JATC, a new JATC which had not been approved by the State when Sound Systems began relying on it for apprentices.
+L81: (State approval was later received but is not retroactive.) Sound Systems paid its employees in compliance with this collective bargaining agreement. In some instances, the rates under the collective bargaining agreement were less than the state prevailing wage rates.
+L82: ¶9
+L83: 
+L84: After an investigation, the California Division of Labor Standards Enforcement issued a Notice Withholding Payment from Dillingham Construction with Sonoma County due to Sound System's failure to pay some of its workers prevailing wage rates in violation of California Labor Code Sec. 1771. Dillingham Construction is liable for the acts of its subcontractors under California Labor Code Sec. 1775.
+L85: 
+L86: ¶10
+L87: Dillingham does not dispute that Sound Systems paid some of its workers less than the prevailing wages for journeymen, but claims that those workers were "apprentices" and that Sound Systems was entitled to pay them less than journeyman prevailing wage rates pursuant to the NESTU collective bargaining agreement. However, it is uncontested that the "apprentices" did not come from a state approved JATC.
+L88: 
+L89: ¶11
+L90: In this action, the plaintiffs Dillingham Construction and Sound Systems Media (collectively referred to as "Dillingham") sought a declaratory judgment that the enforcement of California's journeyman prevailing wage rate pursuant to California Labor Code sections 1773-1777.1 was preempted by the National Labor Relations Act ("NLRA "), 29 U.S.C. Secs. 151-158 and the Employee Retirement Income Security Act ("ERISA"), 29 U.S.C. Secs.
+L91: 1001-1461, and that by attempting to enforce it, the State interfered with rights established under federal labor law, in violation of 42 U.S.C. Sec. 1983 .
+L92: ¶12
+L93: 
+L94: On cross motions for summary judgment, the district court held that the California prevailing wage law is not preempted by the NLRA or ERISA and granted summary judgment in favor of the Division of Labor Standards Enforcement, the County of Sonoma, and the Division of Apprentice Standards (collectively referred to as "the State").
+L95: 
+L96: ¶13
+L97: A grant of summary judgment is reviewed de novo. Hydrostorage Inc. v. Northern Cal. Boilermakers Local Joint Apprenticeship Comm. , 891 F.2d 719, 726 (9th Cir.1989), cert. denied, 498 U.S. 822 , 111 S.Ct. 72 , 112 L.Ed.2d 46 (1990). The parties agree that there are no disputed issues of material fact. Therefore, we need only determine whether the district court correctly applied the relevant law. Id.
+L98: 
+L99: ¶14
+L100: The district court had jurisdiction pursuant to 28 U.S.C. Sec. 1331 . The appeal was timely, and we have jurisdiction under 28 U.S.C. Sec. 1291 . We reverse.
+L101: 
+L102: III. DISCUSSION
+L103: 
+L104: A. Estoppel
+L105: 
+L106: ¶15
+L107: The state argues that because Dillingham voluntarily agreed to perform the contract in conformity with the requirements of the state prevailing wage law and apprenticeship standards, it is estopped from challenging the state laws on constitutional grounds. This issue was not raised before the district court and we refuse to consider it for the first time on appeal. International Union of Bricklayers v. Martin Jaska , Inc., 752 F.2d 1401, 1404 (9th Cir.1985).
+L108: 
+L109: B. ERISA Preemption
+L110: 
+L111: ¶16
+L112: We first consider the issue of ERISA preemption. "ERISA is a comprehensive remedial statute designed to protect the interests of employees in pension and welfare plans , and to protect employers from conflicting and inconsistent state and local regulation of such plans." Electrical Joint Apprenticeship Committee v. MacDonald , 949 F.2d 270, 272 (9th Cir.1991), cert. denied, --- U.S. ----, 112 S.Ct. 2991 , 120 L.Ed.2d 869 (1992) (quotations and citations omitted).
+L113: 
+L114: ¶17
+L115: We have addressed the issue of ERISA preemption in relation to state apprenticeship programs in Hydrostorage, 891 F.2d 719 , and MacDonald, 949 F.2d 270 .
+L116: 
+L117: ¶18
+L118: In Hydrostorage, the plaintiff was awarded a public works contract to construct a water storage tank for a county water district. The California Apprenticeship Council found the plaintiff in violation of California Labor Code section 1777.5, which required a contractor on a public works project to apply for a certificate of approval from a JATC, employ apprentices at a specified ratio and contribute to an appropriate fund.
+L119: An administrative order was issued barring Hydrostorage from future public works contracts. The district court held that enforcement of the order was preempted by ERISA but the court did not strike down section 1777.5 as a whole, but only its application. We affirmed.
+L120: ¶19
+L121: In MacDonald, we held that ERISA preempted Nevada's enforcement of its prevailing wage statute. Like California's prevailing wage law, Nevada requires payment of prevailing wages on state public works projects but allows lower apprentice wages to be paid to apprentices from programs approved by the Nevada State Apprenticeship Council. In MacDonald, the plaintiff was required to pay prevailing wages to apprentices employed from an apprenticeship program which had received federal but not state approval.
+L122: We found this application of Nevada's prevailing wage statute to be preempted by ERISA because the Federal Bureau of Apprenticeship and Training had already authorized the apprenticeship program at issue, yet the state asserted jurisdiction over and withheld approval of the same program pursuant to its own statutes and regulation.
+L123: ¶20
+L124: These cases do not address the specific issue presented here of whether ERISA preempts the application of a state prevailing wage law that requires payment of prevailing wages to employees in apprenticeship programs that have not received state approval but allows the payment of lower apprenticeship wages to employees participating in state approved programs. However, the Tenth Circuit addressed this issue in National Elevator Industry, Inc. v. Calhoon , 957 F.2d 1555 (10th Cir.), cert.
+L125: denied, --- U.S. ----, 113 S.Ct. 406 , 121 L.Ed.2d 331 (1992). Relying in part on Hydrostorage and MacDonald, the Tenth Circuit concluded that ERISA does preempt this application of a state prevailing wage law.
+L126: ¶21
+L127: In the case at hand, the district court followed the three part analysis we established in Hydrostorage. First, it found that Sound System's apprenticeship program constituted an "employee benefit plan" under ERISA. Next, it held that the California approval scheme for apprenticeship programs "related to" the employee benefit plan and thus fell under ERISA's preemption clause.
+L128: Finally, the court concluded that the application of the California approval scheme was saved from preemption by the ERISA savings clause, 29 U.S.C. Sec. 1144(d) . We address each of these findings in turn.1. An ERISA "employee welfare benefit plan "
+L129: ¶22
+L130: 
+L131: ERISA governs "employee benefit plans," which are statutorily defined as plans that are either an "employee welfare benefit plan," an "employee pension benefit plan," or both. 29 U.S.C. Sec. 1002(3) ; Massachusetts v. Morash , 490 U.S. 107, 113 , 109 S.Ct. 1668, 1671 -72, 104 L.Ed.2d 98 (1989).
+L132: 
+L133: ¶23
+L134: 
+L135: 29 U.S.C. Sec. 1002(1) defines an ERISA employee welfare benefit plan as:
+L136: 
+L137: ¶24
+L138: any plan, fund, or program which was heretofore or is hereafter established or maintained by an employer or by an employee organization, or by both, to the extent that such plan, fund, or program was established or is maintained for the purpose of providing for its participants or their beneficiaries ... apprenticeship or other training programs....
+L139: 
+L140: ¶25
+L141: 
+L142: 29 U.S.C. Sec. 1002(1) (emphasis added).
+L143: 
+L144: ¶26
+L145: The district court concluded that the program Sound Systems purported to establish through the Electronic and Communications JATC was an "apprenticeship or other training program" within the meaning of 29 U.S.C. Sec. 1002(1) . We agree.
+L146: 
+L147: ¶27
+L148: This conclusion is consistent with our analysis in Hydrostorage that an apprenticeship program established for the purpose of providing apprenticeship training falls within the plain meaning of section 1002(1) 's definition of "employee welfare benefit plan." Hydrostorage, 891 F.2d at 728; see also MacDonald, 949 F.2d at 272 (reaching the same conclusion without explanation).
+L149: 
+L150: 2. ERISA's preemption clause
+L151: 
+L152: ¶28
+L153: 
+L154: ERISA contains a very broad preemption clause which provides:
+L155: 
+L156: ¶29
+L157: Except as provided in subsection (b) of this section, the provisions of this subchapter and subchapter III of this chapter shall supercede any and all state laws insofar as they may now or hereafter relate to any employee benefit plan described in section 1003(a) of this title and not exempt under section 1003(b) of this title.
+L158: 
+L159: ¶30
+L160: 
+L161: 29 U.S.C. Sec. 1144(a) (emphasis added).
+L162: 
+L163: ¶31
+L164: ERISA's preemptive scope was intended by Congress to be as broad as its language suggests. Shaw v. Delta Air Lines, Inc. , 463 U.S. 85, 98 , 103 S.Ct. 2890, 2900 -01, 77 L.Ed.2d 490 (1983) (citing H.R.Conf.Rep. No. 93-1280 p. 383 (1974) U.S.Code Cong. & Admin.News 1974 pp. 4639, 5038, 5162). The Supreme Court has noted that "[t]he pre-emption clause is conspicuous for its breadth.
+L165: It establishes as an area of exclusive federal concern the subject of every state law that 'relate[s] to' an employee benefit plan covered by ERISA." FMC Corp. v. Holliday , 498 U.S. 52, 58 , 111 S.Ct. 403, 407 , 112 L.Ed.2d 356 (1990).
+L166: ¶32
+L167: 
+L168: The phrase "relates to" has also been broadly defined by the Court.
+L169: 
+L170: ¶33
+L171: "A law 'relates to' an employee benefit plan, in the normal sense of the phrase, if it has a connection with or reference to such a plan." Under this "broad common-sense meaning," a state law may "relate to" a benefit plan, and thereby be pre-empted, even if the law is not specifically designed to affect such plans, or the effect is only indirect. Pre-emption is also not precluded simply because a state law is not consistent with ERISA's substantive requirements.
+L172: 
+L173: ¶34
+L174: Ingersoll-Rand Co. v. McClendon , 498 U.S. 133, 139 , 111 S.Ct. 478, 483 , 112 L.Ed.2d 474 (1990) (citations omitted).
+L175: 
+L176: ¶35
+L177: 
+L178: Our additional requirement, set out in Hydrostorage, 891 F.2d at 729 , that a state law "purport to regulate" or "attempt to reach" the terms and conditions of an employee welfare benefit plan in order for it to be preempted was rejected by the Court in Ingersoll-Rand, where it noted:
+L179: 
+L180: ¶36
+L181: Had Congress intended to restrict ERISA's pre-emptive effect to state laws purporting to regulate plan terms and conditions, it surely would not have done so by placing the restriction in an adjunct definition section while using the broad phrase 'relate to' in the pre-emption section itself.... Moreover, our precedents foreclose this argument. In Mackey the Court held ERISA pre-empted a Georgia garnishment statute that excluded from garnishment ERISA plan benefits. Mackey [v.
+L182: Lanier Collection Agency & Serv. Inc., 486 U.S. 825, 828 -29 n. 2, 108 S.Ct. 2182, 2184 -85 n. 2, 100 L.Ed.2d 836 (1988) ]. Such a law clearly did not regulate the terms or conditions of ERISA-covered plans, and yet we found pre-emption.
+L183: ¶37
+L184: 
+L185: Ingersoll-Rand, 498 U.S. at 141 -42, 111 S.Ct. at 484 ; see also, National Elevator, 957 F.2d at 1557 n. 1.
+L186: 
+L187: ¶38
+L188: 
+L189: However, the Court has made clear that there are some limits to the scope of ERISA preemption. "Some state actions may affect employee benefit plans in too tenuous, remote, or peripheral a manner to warrant a finding that the law 'relates to' the plan." Shaw, 463 U.S. at 100 n. 21, 103 S.Ct. at 2901 n. 21.
+L190: 
+L191: ¶39
+L192: We must determine whether the state's enforcement of its prevailing wage law against Dillingham "relates to" an ERISA plan. This is the correct inquiry because Dillingham challenges the state's effort to enforce its prevailing wage law. The district court considered instead whether the California apprenticeship approval requirements "related to" an ERISA plan.
+L193: 
+L194: ¶40
+L195: In Hydrostorage we held that section 1777.5, requiring compliance with a state-approved ERISA plan, was specifically designed to affect employee benefit plans. 891 F.2d at 730 . See Mackey, 486 U.S. at 829 , 108 S.Ct. at 2185 ("[W]e have virtually taken it for granted that state laws which are 'specifically designed to affect employee benefit plans' are pre-empted under Sec. 514(a).").
+L196: 
+L197: ¶41
+L198: The state argues that wage rate regulation is not preempted by ERISA. According to the state, the payment of wages is a traditional area of state regulation and is not an employee welfare benefit plan under ERISA. See Morash, 490 U.S. at 119 , 109 S.Ct. at 1675 . A similar argument was rejected in National Elevator, 957 F.2d at 1561 .
+L199: The Tenth Circuit pointed out that while the payment of wages alone does not give rise to an employee benefit plan, an apprenticeship training program is an employee benefit plan for purposes of ERISA. Id. Therefore, as long as the prevailing wage law "relates to" an employee benefit plan, it need not constitute an employee benefit plan by itself.
+L200: ¶42
+L201: 
+L202: The state argues that Hydrostorage should be differentiated because in Hydrostorage, the state mandated participation in an approved ERISA plan, while here the application of the prevailing wage law only encourages participation in an approved plan.
+L203: 
+L204: ¶43
+L205: In National Elevator, the Tenth Circuit recognized this argument but found that like the statute in Hydrostorage, the application of a state's prevailing wage law to allow payment of lower apprenticeship wages to employees in approved apprenticeship programs "has the effect, and possibly the aim" of encouraging participation in state approved ERISA plans while discouraging participation in unapproved ERISA plans. National Elevator, 957 F.2d at 1559 .
+L206: 
+L207: ¶44
+L208: Given the Supreme Court's broad reading of ERISA's preemption clause we agree with the Tenth Circuit's conclusion that:
+L209: 
+L210: ¶45
+L211: If a state is permitted to use a prevailing wage scheme to single out certain ERISA plans over other ERISA plans, the potential for abuse is great--a state could avoid ERISA's preemption provision and covertly disturb or alter ERISA plans.... We hold that [the state's] ruling applying the state's prevailing wage law does "relate to" an employee benefit plan because the ruling's effects ... are not "tenuous, remote, or peripheral." See Shaw, 463 U.S. at 100 n. 21, 103 S.Ct. at 2901 n. 21.
+L212: ¶46
+L213: 
+L214: Id. at 1561 .
+L215: 
+L216: ¶47
+L217: 
+L218: We conclude that the application of California's prevailing wage law in this case "relates to" an ERISA plan and thus falls under ERISA's preemption clause.
+L219: 
+L220: 3. ERISA's savings clause
+L221: 
+L222: ¶48
+L223: 
+L224: Federal laws and regulations issued under them are saved from ERISA preemption by the statute's "savings clause," which provides:
+L225: 
+L226: ¶49
+L227: Nothing in this subchapter shall be construed to alter, amend, modify, invalidate, impair, or supersede any of the laws of the United States ... or any rule or regulation issued under such law.
+L228: 
+L229: ¶50
+L230: 
+L231: 29 U.S.C. Sec. 1144(d) .
+L232: 
+L233: ¶51
+L234: In Shaw, the Supreme Court held that a state law prohibiting discrimination in employee benefit plans on the basis of pregnancy was saved from ERISA preemption to the extent that it prohibited conduct unlawful under Title VII. Shaw, 463 U.S. at 102, 103 S.Ct. at 2902-03. However, this conclusion was based on the Court's finding that Title VII's enforcement scheme depended in part on state laws and that Title VII expressly preserves nonconflicting state laws. Id. at 101-102, 103 S.Ct. at 2902-2903.
+L235: ¶52
+L236: 
+L237: The Court noted that "ERISA's structure and legislative history ... caution against applying [the savings clause] too expansively," and stated:
+L238: 
+L239: ¶53
+L240: While [the savings clause] may operate to exempt provisions of state laws upon which federal laws depend for their enforcement, the combination of Congress' enactment of an all-inclusive pre-emption provision and its enumeration of narrow specific exceptions to that provision makes us reluctant to expand [the savings clause] into a more general savings clause.
+L241: 
+L242: ¶54
+L243: 
+L244: Id. at 104, 103 S.Ct. at 2903.
+L245: 
+L246: ¶55
+L247: The issue presented in this case is whether a finding that the challenged application of California's prevailing wage law is preempted by ERISA would impair a federal law. The state argues that a finding of ERISA preemption would impair the federal Fitzgerald Act, which provides:
+L248: 
+L249: ¶56
+L250: The Secretary of Labor is authorized and directed to formulate and promote the furtherance of labor standards necessary to safeguard the welfare of apprentices, to extend the application of such standards by encouraging the inclusion thereof in contracts of apprenticeship, to bring together employers and labor for the formulation of programs of apprenticeship, to cooperate with State agencies engaged in the formulation and promotion of standards of apprenticeship....
+L251: 
+L252: ¶57
+L253: 29 U.S.C. Sec. 50 (emphasis added).
+L254: 
+L255: ¶58
+L256: Pursuant to this enabling act, federal regulations have been promulgated at 29 C.F.R. Sec. 29.1-29.13 (1988). These regulations "provide a 'detailed regulatory scheme defining apprenticeship programs and their requirements and establish a review, approval, and registration process for proposed apprenticeship programs administered by State Apprenticeship Councils under the aegis of the U.S. Dept. of Labor.' " Hydrostorage, 891 F.2d at 731 (quoting Siuslaw Concrete Const. Co. v. Washington , Dept.
+L257: of Trans., 784 F.2d 952, 956 (9th Cir.1986)).
+L258: ¶59
+L259: However, unlike Title VII, the Fitzgerald Act does not rely on state laws for enforcement and includes no clause "preserving" nonconflicting state laws. In Hydrostorage, we held the preemption of the state's attempt to enforce its apprenticeship standards did not impair the Fitzgerald Act or the regulations promulgated under it. We adopted the district court's reasoning, noting that "the regulations [under the Fitzgerald Act] relate only to eligibility for federal registration.
+L260: Neither [the regulations] nor the Act itself contemplate enforcement mechanisms." Hydrostorage, 891 F.2d at 731 .
+L261: ¶60
+L262: The state argues that Hydrostorage should be read narrowly in light of our analysis in MacDonald where we noted that the federal regulations promulgated under the Fitzgerald Act provide "for a dual system of approval and recognition so that either" a federal or state apprenticeship council can approve an apprenticeship program for federal purposes. MacDonald, 949 F.2d at 273 .
+L263: The court in MacDonald held that the state's refusal to approve an apprenticeship program, pursuant to its own statutes and regulation, which had already been federally approved, went beyond the requirements of the Fitzgerald Act and was therefore not saved from ERISA preemption.
+L264: However, the state reads MacDonald as implying that state apprenticeship standards are established under the Fitzgerald Act and that unless they require compliance with independent state standards apart from those set forth in the federal regulations under the Fitzgerald Act, they are saved from preemption.
+L265: ¶61
+L266: We do not read MacDonald this broadly. As the Tenth Circuit concluded in National Elevator, the Fitzgerald Act "does not depend upon states to enforce its provisions; in fact, there is nothing in [the Fitzgerald Act] for the states to enforce. [The Fitzgerald Act] merely seeks to facilitate development of apprenticeship programs--it does not mandate apprenticeship programs or seek to discourage other training programs." National Elevator, 957 F.2d at 1562 .
+L267: We conclude that even if the application of the prevailing wage law is in the furtherance of the objectives of the Fitzgerald Act, it is not an enforcement mechanism of federal law, and to the extent that its enforcement in this case is preempted by ERISA, federal law is not impaired. Therefore, the state's application of its prevailing wage law in this case is preempted by ERISA.
+L268: ¶62
+L269: 
+L270: Because we find ERISA preemption, we do not address the NLRA preemption issue.
+L271: 
+L272: C. Proprietary Function of the State
+L273: 
+L274: ¶63
+L275: 
+L276: The State argues that its actions in this case should be exempt from preemption both because it is acting as a market participant and because it is acting in its proprietary function rather than as a regulator in requiring Dillingham to pay prevailing wages.
+L277: 
+L278: ¶64
+L279: We rejected a similar market participant argument in Hydrostorage. Although the underlying contract was a public works contract, we found that:
+L280: 
+L281: ¶65
+L282: California in this case is not acting merely as a "market participant" rather than a regulator. The state's involvement does not end with the awarding of the contract. Section 1777.5 is aimed at regulating contractors who work on public contracts. The Division [of Apprenticeship Standards], part of a state agency, monitors and enforces violations of section 1777.5. This amounts to regulation, not merely "market participation."
+L283: 
+L284: ¶66
+L285: 
+L286: 891 F.2d at 730.
+L287: 
+L288: ¶67
+L289: Hydrostorage relied in part on Wisconsin Dept. of Industry, Labor & Human Relations v. Gould , 475 U.S. 282 , 106 S.Ct. 1057 , 89 L.Ed.2d 223 (1986).
+L290: In Gould, the Supreme Court held that a state statute debarring three-time violators of the NLRA from doing business with the state was preempted by the NLRA. The Court rejected a market participant argument, stating: "the 'market participant' doctrine reflects the particular concerns underlying the Commerce Clause, not any general notions regarding the necessary extent of state power in areas where Congress has acted....
+L291: What the Commerce Clause would permit the States to do in the absence of the NLRA is ... an entirely different question from what States may do with the Act in place." Id. at 289-90, 106 S.Ct. at 1062-63.
+L292: ¶68
+L293: The state argues that Associated Builders & Contractors, Inc. v. City of Seward , 966 F.2d 492 (9th Cir.1992), cert. denied, --- U.S. ----, 113 S.Ct. 1577 , 123 L.Ed.2d 146 (1993) narrows Hydrostorage and our interpretation of Gould. In City of Seward, the court applied Gould, but found that the City was acting purely as a market participant when it required the winning bidder on a public works project to comply with a work-preservation clause in the City's contract.
+L294: The work-preservation clause limited bidding on the project to contractors who agreed to enter an agreement with a union representing workers at a city-owned electric utility. The court stated:
+L295: ¶69
+L296: 
+L297: the City of Seward, unlike the State of Wisconsin in Gould ... was not driven by regulatory concerns, but by legitimate management concerns that may lead any employer, public or private, to agree to a work preservation clause.
+L298: 
+L299: ¶70
+L300: 
+L301: Id. at 496 .
+L302: 
+L303: ¶71
+L304: The state also contends that the recent Supreme Court case of Building & Construction Trades Council of the Metropolitan District v. Associated Builders & Contractors of Mass./Rhode Island, --- U.S. ---- , 113 S.Ct. 1190 , 122 L.Ed.2d 565 (1993), supports its argument that no preemption should be found if a state is acting as a proprietor rather than as a regulator. In Associated Builders, a state agency hired a private firm to work as its project manager in its clean up of Boston Harbor.
+L305: The firm negotiated an otherwise lawful prehire collective bargaining agreement which required (among other things) that all employees agree to be bound by the terms of the agreement and agree to become union members. The purpose of the agreement was to provide stability over the life of the project.
+L306: The Court held that the NLRA did not preempt the agreement because the state was acting as a proprietor or owner of the construction project and its acts were not tantamount to regulation or policy making. Id. at ----, 113 S.Ct. at 1196.
+L307: ¶72
+L308: When we say that the NLRA pre-empts state law, we mean that the NLRA prevents a State from regulating within a protected zone, whether it be a zone protected and reserved for market freedom, see [Lodge 76, Intern. Ass'n of ] Machinists [and Aerospace Workers, AFL-CIO, v. Wisconsin Employment Relations Commission, 427 U.S. 132 , 96 S.Ct. 2548 , 49 L.Ed.2d 396 (1976) ], or for NLRB jurisdiction, see [San Diego Bldg. Trades Council v. Garmon , 359 U.S. 236 , cite15†79 S.Ct.
+L309: 773 , 3 L.Ed.2d 775 (1959) ]. A State does not regulate however, simply by acting within one of these protected areas. When a State owns and manages property ... it must interact with private participants in the marketplace. In so doing, the State is not subject to pre-emption by the NLRA , because pre-emption doctrines apply only to state regulation.
+L310: ¶73
+L311: 
+L312: Id. (emphasis added).
+L313: 
+L314: ¶74
+L315: Both City of Seward and Associated Builders are NLRA cases. The NLRA contains no preemption clause. As the Court recognized in Associated Builders, a state's actions are only subject to preemption under the NLRA if it is regulating in a protected zone. Id. ERISA, on the other hand, contains a broad preemption clause under which any state law which "relates to" an employee benefit plan is preempted. See, e.g., Ingersoll-Rand, 498 U.S. at 139, 111 S.Ct. at 483.
+L316: 
+L317: ¶75
+L318: Additionally, these cases do not undermine the validity of our finding in Hydrostorage that the state in that case was not acting as a market participant. In Hydrostorage, we specifically found that the state was not acting merely as a market participant but that its enforcement of conditions of apprenticeship was aimed at regulating contractors who work on public contracts. This case is similar to Hydrostorage.
+L319: The state's application of its prevailing wage law to require that apprentices in programs not approved by the state be paid higher wages than those in state-approved programs has the "effect and possibly the aim" of encouraging participation in a state-approved ERISA plan. National Elevator, 957 F.2d at 1559. Therefore, we conclude that the state's action in enforcing its prevailing wage law in this case goes beyond that of a mere market participant and is preempted by ERISA.
+L320: D. Damages Under 42 U.S.C. Sec. 1983
+L321: 
+L322: ¶76
+L323: Dillingham argues that it is entitled to an award of damages under 42 U.S.C. Sec. 1983 because the state has deprived it of a federal right secured by the NLRA. Since we base reversal on a finding of ERISA preemption, we do not reach the issue of whether a finding of NLRA preemption would entitle Dillingham to recover damages under 42 U.S.C. Sec. 1983 . Additionally, we hold that Dillingham is not entitled to attorney's fees under 【162†42 U.S.C. Sec.
+L324: 1988 because Dillingham has shown no right under section 1983 in ERISA which it has sought to enforce.
+L325: ¶77
+L326: 
+L327: REVERSED.
+L328: 
+L329: *
+L330: 
+L331: Honorable Robert E. Jones, United States District Judge for the District of Oregon, sitting by designation
+L332: 
+L333: 1
+L334: 
+L335: Section 1771 provides in part:
+L336: 
+L337: .. not less than the general prevailing rate of per diem wages for work of a similar character in the locality in which the public work is performed ... shall be paid to all workers employed on public works.
+L338: This section is applicable only to work performed under contract, and is not applicable to work carried out by a public agency with its own forces....
+L339: 
+L340: Cal.Labor Code Sec. 1771.
+L341: 
+L342: 2
+L343: 
+L344: Section 1777.5 provides in part:
+L345: 
+L346: Nothing in this chapter shall prevent the employment of properly registered apprentices upon public works.
+L347: Every such apprentice shall be paid the standard wage paid to apprentices under the regulations of the craft or trade at which he or she is employed, and shall be employed only at the work of the craft or trade to which he or she is registered.
+L348: Only apprentices, as defined in Section 3077, who are in training under apprenticeship standards and written apprenticeship agreements ... are eligible to be employed on public works. The employment and training of each apprentice shall be in accordance with the apprenticeship standards and apprentice agreements under which he or she is training.
+L349: When the contractor to whom the contract is awarded by the state ... employs workers in any apprenticeable craft or trade, the contractor and subcontractor shall apply to the joint apprenticeship committee ... for a certificate approving the contractor or subcontractor under the apprenticeship standards.... However, approval ... shall be subject to the approval of the Administrator of Apprenticeship.
+L350: 
+L351: Cal.Labor Code Sec. 1777.5.
+

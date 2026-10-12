@@ -1,0 +1,99 @@
+General Motors Corp. v. Tracy, Tax Comm'r of Ohio, 519 U.S. 278 (1997). LII Supreme Court General Motors Corp. v. Tracy, Tax Comm'r of Ohio (95-1232), 519 U.S. 278 (1997). Concurrence [ Scalia ] Syllabus Dissent [ Stevens ] Opinion [ Souter ] HTML version WordPerfect version HTML version WordPerfect version HTML version WordPerfect version HTML version WordPerfect version (Bench Opinion) NOTE: Where it is feasible, a syllabus (headnote) will be released, as is 
+ being done in connection with this case, at the time the opinion is issued.  
+ The syllabus constitutes no part of the opinion of the Court but has been 
+ prepared by the Reporter of Decisions for the convenience of the reader.  
+ See United States v. Detroit Timber & Lumber Co., 200 U.S. 321 , 337. SUPREME COURT OF THE UNITED STATES Syllabus GENERAL MOTORS CORP. v. TRACY, TAX COMMISSIONER OF OHIO certiorari to the supreme court of ohio No. 95-1232 .    Argued October 7, 1996 -- Decided February 18, 1997 Ohio imposes general sales and use taxes on natural gas purchases from 
+ all sellers, whether in state or out of state, that do not meet its 
+ statutory definition of a "natural gas company."  Ohio's state regulated 
+ natural gas utilities (generally termed "local distribution companies" 
+ or LDCs) satisfy the statutory definition, but the State Supreme Court 
+ has determined that producers and independent marketers generally 
+ do not.  LDC gas sales thus enjoy a tax exemption inapplicable to gas 
+ sales by other vendors.  The very possibility of non exempt gas sales 
+ reflects an evolutionary change in the natural gas industry's structure.  
+ Traditionally, nearly all sales of natural gas directly to consumers 
+ were by LDCs, and were therefore exempt from Ohio's sales and use 
+ taxes.  As a result of congressional and regulatory developments, 
+ however, a new market structure has evolved in which consumers, 
+ including large industrial end users, may buy gas from producers and 
+ independent marketers rather than from LDCs, and pay pipelines 
+ separately for transportation.  Indeed, during the tax period in question, petitioner General Motors Corporation (GMC) bought virtually 
+ all the gas for its plants from out of state independent marketers, 
+ rather than from LDCs.  Respondent Tax Commissioner applied the 
+ general use tax to GMC's purchases, and the State Board of Tax 
+ Appeals sustained that action.  GMC argued on appeal, inter alia, that denying a tax exemption to sales by marketers but not LDCs 
+ violates the Commerce and Equal Protection Clauses.  The Supreme 
+ Court of Ohio initially concluded that the tax regime does not violate 
+ the Commerce Clause because Ohio taxes natural gas sales at the 
+ same rate for both in state and out of state companies that do not 
+ meet the statutory definition of "natural gas company."  The court 
+ then stepped back to hold, however, that GMC lacked standing tobring a Commerce Clause challenge, and dismissed the equal protection claim as submerged in GMC's Commerce Clause argument. Held: 1.  GMC has standing to raise a Commerce Clause challenge.   
+ Cognizable injury from unconstitutional discrimination against interstate commerce does not stop at members of the class against whom 
+ a State ultimately discriminates.  Customers of that class may also 
+ be injured, as in this case where the customer is liable to pay the tax 
+ and as a result presumably pays more for gas purchased from out of state producers and marketers.  See Bacchus Imports, Ltd. v. Dias, 468 U.S. 263 , 267.  Pp. 6-7. 2.  Ohio's differential tax treatment of natural gas sales by public 
+ utilities and independent marketers does not violate the Commerce 
+ Clause.  Pp. 7-33. (a) Congress and this Court have long recognized the value of 
+ state regulated monopoly arrangements for gas sales and distribution 
+ directly to local consumers.  See, e.g., Panhandle Eastern Pipe Line 
+ Co. v. Michigan Pub. Serv. Comm'n, 341 U.S. 329 .  Even as congressional and regulatory developments resulted in increasing opportunity 
+ for a consumer to choose between gas sold by marketers and gas 
+ bundled with state mandated rights and benefits as sold by LDCs, two 
+ things remained the same: Congress did nothing to limit the States' 
+ traditional autonomy to authorize and regulate local gas franchises, 
+ and those franchises continued to provide bundled gas to the vast 
+ majority of consumers who had neither the capacity to buy on the 
+ interstate market nor the resilience to forgo the reliability and protection that state regulation provided.  To this day, all 50 States recognize the need to regulate utilities engaged in local gas distribution.  
+ Pp. 8-18. (b) Any notion of discrimination under the Commerce Clause 
+ assumes a comparison of substantially similar entities.  When the 
+ allegedly competing entities provide different products, there is a 
+ threshold question whether the companies are indeed similarly situated for constitutional purposes.  If the difference in products means 
+ that the entities serve different markets, and would continue do so 
+ even if the supposedly discriminatory burden were removed, eliminating the burden would not serve the dormant Commerce Clause's 
+ fundamental objective of preserving a national market for competition 
+ undisturbed by preferential advantages conferred by a State upon its 
+ residents or resident competitors.  Here, the LDCs' bundled product 
+ reflects the demand of a core market--typified by residential customers to whom stability of rate and supply is important--that is neither 
+ susceptible to competition by the interstate sellers nor likely to be 
+ served except by the regulated natural monopolies that have historically supplied its needs.  So far as this noncompetitive market is 
+ concerned, competition would not be served by eliminating any tax 
+ differential as between sellers, and the dormant Commerce Clause has 
+ no job to do.  On the other hand, eliminating the tax differential at 
+ issue might well intensify competition between LDCs and marketers 
+ for the noncaptive market of bulk buyers like GMC, which have no 
+ need for bundled protection.  Thus, the question here is whether the 
+ existence of competition between marketers and LDCs in the noncaptive market requires treating the entities as alike for dormant Commerce Clause purposes.  A number of reasons support a decision to 
+ give the greater weight to the distinctiveness of the captive market 
+ and the LDCs' singular role in serving that market, and hence to 
+ treat marketers and LDCs as dissimilar for Commerce Clause purposes.  Pp. 18-25. (c) First and most important, this Court has an obligation to 
+ proceed cautiously lest it imperil the LDCs' delivery of bundled gas 
+ to the noncompetitive captive market.  Congress and the Court have 
+ recognized the importance of not jeopardizing service to this market. Panhandle Eastern Pipe Line Co. v. Michigan Pub. Serv. Comm'n, 
+ supra. State regulation of gas sales to consumers serves important 
+ health and safety interests in fairly obvious ways, in that requirements of dependable supply and extended credit assure that individual 
+ domestic buyers are not frozen out of their houses in the cold months.  
+ The legitimate state pursuit of such interests is compatible with the 
+ Commerce Clause, Huron Portland Cement Co. v. Detroit, 362 U.S. 440 , 443-444, and such a justification may be weighed in the process 
+ of deciding the threshold question addressed here.  Second, the Court 
+ lacks the expertness and the institutional resources necessary to 
+ predict the economic effects of judicial intervention invalidating Ohio's 
+ tax scheme on the LDCs' capacity to serve the captive market.  See, e.g., Fulton Corp. v. Faulkner, 516 U. S. ___, ___.  Thus, the most the 
+ Court can say is that modification of Ohio's tax scheme could subject 
+ LDCs to economic pressure that in turn could threaten the preservation of an adequate customer base to support continued provision of 
+ bundled services to the captive market.  Finally, should intervention 
+ by the National Government be necessary, Congress has both the 
+ power and the institutional competence to decide upon and effectuate 
+ any desirable changes in the scheme that has evolved.  For a half century Congress has been aware of this Court's conclusion in Panhandle Eastern Pipe Line Co. v. Public Serv. Comm'n of Ind., 332 U.S. 507 , that the Natural Gas Act of 1938 exempts state regulation 
+ of in state retail gas sales from the dormant Commerce Clause, and 
+ since that decision has only reaffirmed the States' power in this 
+ regard.  Pp. 25-32. (d) GMC's argument that Ohio's tax regime facially discriminates 
+ because the sales and use tax exemption would not apply to sales by 
+ out of state LDCs is rejected.  Ohio courts might extend the challenged exemption to out of state utilities if confronted with the question, and this Court does not deem a hypothetical possibility of favoritism to constitute discrimination transgressing constitutional commands. Associated Industries of Mo. v. Lohman, 511 U.S. 641 , 654.  
+ Pp. 32-33. 3.  Ohio's tax regime does not violate the Equal Protection Clause.  
+ The differential tax treatment of LDC and independent marketer sales 
+ does not facially discriminate against interstate commerce, and there 
+ is unquestionably a rational basis for Ohio's distinction between these 
+ two kinds of entities.  Pp. 33-34. 73 Ohio St. 3d 29 , 652 N. E. 2d 188 , affirmed. Souter, J., delivered the opinion of the Court, in which Rehnquist, 
+ C. J., and O'Connor, Scalia, Kennedy, Thomas, Ginsburg, and 
+ Breyer, JJ., joined.  Scalia, J., filed a concurring opinion.  Stevens, 
+ J., filed a dissenting opinion.

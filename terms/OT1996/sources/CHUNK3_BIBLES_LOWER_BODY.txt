@@ -1,0 +1,92 @@
+Primary lower-court opinion body; script-copied web text. Source: https://openjurist.org/83/f3d/1168/oregon-natural-desert-association-v-bibles
+Later-site header analytics, treatment status and footer omitted. L numbers are retrieval line coordinates, not reporter pages.
+
+L40: Frank W. Hunger, United States Department of Justice, Washington, D.C., for defendant-appellant.
+L41: 
+L42: Michael Axline, Deborah Mailander, Western Environmental Law Center, Eugene, Oregon, for plaintiff-appellee.
+L43: 
+L44: Appeal from the United States District Court for the District of Oregon ; Malcolm F. Marsh, District Judge, Presiding. D.C. No. CV-93-00895-MFM.
+L45: 
+L46: Before SCHROEDER, REINHARDT and FERNANDEZ, Circuit Judges.
+L47: 
+L48: SCHROEDER, Circuit Judge:
+L49: 
+L50: ¶1
+L51: This is a Freedom of Information Act suit brought by an Oregon non-profit association, interested in desert preservation, against the Oregon Director of the Bureau of Land Management ("BLM"). The suit requests the names and addresses of persons who receive the BLM's newsletter. The newsletter provides information about the BLM's activities and plans affecting the Oregon desert.
+L52: Plaintiff, the Oregon Natural Dessert Association ("ONDA"), according to its complaint, made its Freedom of Information Act ("FOIA") request to learn to whom the government was directing "selected" information about the high desert, so that ONDA could provide those persons with more complete information.
+L53: ¶2
+L54: The BLM originally refused to release any portion of the list, invoking exemption 6 of the Freedom of Information Act, which protects files whose disclosure would constitute "a clearly unwarranted invasion of privacy." 5 U.S.C. § 552(a)(6)(C)(b)(6) . The ONDA appealed that decision to the Department of the Interior.
+L55: The Department of the Interior concluded that the names and addresses of organizations should be released, but that the names and addresses of private individuals were protected by exemption 6. The ONDA then filed this action in the District Court for the District of Oregon, to obtain the complete list.
+L56: ¶3
+L57: 
+L58: The district court agreed with ONDA that disclosure of the list would not constitute a clearly unwarranted invasion into the privacy of individuals who "have already opened their mail boxes to the receipt of information about BLM activities." The district court ordered the BLM to release all the names and addresses, but stayed its order pending the BLM's appeal to this court. We now affirm.
+L59: 
+L60: ¶4
+L61: 
+L62: The FOIA mandates broad disclosure of government documents:
+L63: 
+L64: ¶5
+L65: [E]ach agency, upon any request for records which (A) reasonably describes such record and (B) is made in accordance with published rules stating the time, place, fees (if any), and procedures to be followed, shall make the records promptly available to any person.
+L66: 
+L67: ¶6
+L68: 5 U.S.C. § 552(a)(3) . The FOIA request must be granted unless the information requested falls within one of the nine statutory exemptions set forth in 5 U.S.C. § 552(b) . The government has the burden of establishing that an exemption applies, and exemptions are construed narrowly. See, e.g., Dept. of Air Force v. Rose , 425 U.S. 352, 361 -62, 96 S.Ct. 1592, 1599 -1600, 48 L.Ed.2d 11 (1976); Multnomah County Medical Soc. v. Scott , 825 F.2d 1410, 1413 (9th Cir.1987).
+L69: ¶7
+L70: The FOIA's privacy exemption 6 applies to "personnel and medical files and similar files the disclosure of which would constitute a clearly unwarranted invasion of personal privacy." 5 U.S.C. § 552(b)(6) . Although a list of names and addresses like the one at issue in this case is clearly not a "medical" or "personnel" file, the provision for "similar" files is broad enough to encompass government records containing information about particular individuals. See cite27†United States Dept. of State v.
+L71: Washington Post Co. , 456 U.S. 595, 602 n. 4, 102 S.Ct. 1957, 1962 n. 4, 72 L.Ed.2d 358 (1982). We have recognized that a government list of names and addresses meets the threshold requirement of exemption 6. See, e.g., Minnis v. United States Dept. of Agriculture , 737 F.2d 784, 786 (9th Cir.1984), cert. denied, 471 U.S. 1053 , cite32†105 S.Ct.
+L72: 2112 , 85 L.Ed.2d 477 (1985); Van Bourg, Allen, Weinberg & Roger For and on Behalf of Carpet, Linoleum and Soft Tile Workers Union, Local 1288 v. N.L.R.B., 728 F.2d 1270 (9th Cir.1984).
+L73: ¶8
+L74: 
+L75: The relevant question is thus whether the disclosure of this mailing list would constitute a "clearly unwarranted invasion of personal privacy." We know from an early Supreme Court decision under FOIA that resolving this question involves balancing the individual's right of privacy against the goal of FOIA to "open agency action to the light of public scrutiny." Air Force v. Rose , 425 U.S. at 372 , 96 S.Ct. at 1604 .
+L76: 
+L77: ¶9
+L78: This Circuit historically has considered four factors in this balancing: (1) the plaintiff's interest in disclosure; (2) the public's interest in disclosure; (3) the degree of invasion of personal privacy; and (4) the availability of alternative means of obtaining the requested information. F.L.R.A. v. United States Dept. of Navy, Navy Resale & Services Support Office, Field Support Office, Auburn, Washington, 958 F.2d 1490, 1494 (9th Cir.1992), withdrawn on rehearing, cite40†F.L.R.A. v.
+L79: United States Dept. of Navy , 22 F.3d 898 , (9th Cir.1994); Minnis, 737 F.2d at 786 . The district court in this case considered all of the factors. The parties do not dispute that outside of ONDA's FOIA request, there are no alternative means to obtain the requested information. Additionally, the parties agree that the district court was required to consider the second and third factors; that is, the public's interest in disclosure and the degree of invasion of personal privacy.
+L80: ¶10
+L81: The BLM points out, however, that under recent Supreme Court cases, we should no longer consider the first factor, i.e. the plaintiff's particular interest in the requested information, as militating for or against disclosure. This change is mandated by the Supreme Court's intervening decision in United States Dept. of Defense v. F.L.R.A., --- U.S. ---- , 114 S.Ct. 1006 , 127 L.Ed.2d 325 (1994). See generally cite43†Schiffer v.
+L82: F.B.I. , 78 F.3d 1405, 1409 -10 (9th Cir.1996) (plaintiff's particular interest may not be considered in analyzing exemption 7(C), a provision similar to exemption 6 that applies if the disclosure of law enforcement files would constitute an unwarranted invasion of privacy).
+L83: In DOD, the Court denied a union's FOIA request for a list of government employees in the union's own bargaining unit, even though the union requested the list to further federal labor policies as embodied in the federal labor statutes. In ruling that the list of government employees was protected by exemption 6, the Supreme Court held that the only relevant interest in disclosure is the public's interest in understanding government operations or activities. Id. at ----, 114 S.Ct. at 1012 .
+L84: The Court's analysis focused upon the language of its earlier decision in United States Dept. of Justice v. Reporters Committee for Freedom of the Press , 489 U.S. 749, 773 , 109 S.Ct. 1468, 1481 , 103 L.Ed.2d 774 (1989), where the Court explained that FOIA's "basic policy ...
+L85: indeed focuses on the citizen's right to be informed about what their government is up to." Eliminating the plaintiff's particular interest from the exemption 6 equation, the Supreme Court in DOD disagreed with the decisions in this Circuit and in the Fifth Circuit that had considered the union's particular interest and had granted the union's FOIA request. See F.L.R.A. v. Department of Navy , 958 F.2d 1490 ; F.L.R.A. v. Department of Defense , 975 F.2d 1105 (5th Cir.1992).
+L86: ¶11
+L87: In this case, the district court issued its decision before the Supreme Court's decision in DOD, and it therefore considered ONDA's individualized interest in the disclosure of the BLM news mailing list, in addition to the general public interest in knowing "what their government is up to." Although the BLM contends that the district court's consideration of ONDA's particular interest requires us to reverse, the district court did not find that ONDA's interest in disclosure was material.
+L88: Rather, the district court concluded that there was no interest furthered by disclosure beyond the general public interest in knowing what the government is doing, as embodied in "FOIA's general presumption against withholding information." The district court's consideration of the plaintiff's interest does not require reversal because it did not affect the district court's decision in this case.
+L89: ¶12
+L90: ONDA argues persuasively on appeal that in addition to the overarching presumption favoring disclosure, which was relied upon by the district court, there is also a substantial public interest in knowing to whom the government is directing information, or as ONDA characterizes it, "propaganda," so that those persons may receive information from other sources that do not share the BLM's self-interest in presenting government activities in the most favorable light.
+L91: We agree and therefore conclude that there is more than a minimal public interest served by disclosure in this case.
+L92: ¶13
+L93: We next must consider whether this public interest in disclosure is outweighed by the invasion of privacy that would result from disclosure of the list. The BLM has argued that dissemination of its mailing list would cause the persons listed to be flooded with unsolicited mail. Yet the district court aptly observed that these individuals are already on a mailing list, on which the majority of the individuals asked to be placed, in order to receive mailings about BLM activities.
+L94: As the district court concluded, the privacy interests implicated in the case are minimal in light of the mailings already received by the individuals and the similar subject matter of the mailings likely to be received as a result of the disclosure.
+L95: ¶14
+L96: The Supreme Court's decision in DOD fully supports the district court's analysis, which measures the privacy interest at stake in terms of the nature and likelihood of probable contacts stemming from the particular disclosure. DOD further supports the district court's conclusion that in this case the invasion of privacy would be minimal.
+L97: The Supreme Court in DOD looked to the practical effect of the disclosure, considering the types of mailings and other contacts or solicitations that the listed employees were likely to receive if their names and addresses were disseminated. The Court said that the DOD employees had a "nontrivial privacy interest in nondisclosure, and in avoiding the influx of union-related mail, and, perhaps union related telephone calls or visits that would follow from disclosure." 510 U.S. at ----, cite54†114 S.Ct.
+L98: at 1015 . The employees in that case had chosen not to provide the union with their addresses. In this case, the persons on the BLM's mailing list have, for the most part, affirmatively indicated their interest in receiving mailings on subjects related to ONDA's interest in this case. Furthermore, recipients of the BLM news are unlikely to be targeted for the same type of aggressive, high stakes personal contact that the Court was wary of in DOD.
+L99: In short, the effect of disclosure is much smaller than in DOD.
+L100: ¶15
+L101: For similar reasons, we disagree with the BLM's position that our decision in Minnis militates in favor of the BLM's position in this case. In Minnis, we held that disclosure of a list of persons who had applied for government permission to river raft would have resulted in unwarranted invasion of their privacy. 737 F.2d at 787 -88.
+L102: In that case, the public interest in disclosure was less than in this case, for the individuals applying to use the river were not persons whom the government had targeted to receive information about government operations. Further, the privacy interests were greater, for the individuals were not already on a mailing list and would likely, as a result of disclosure, become the targets of unwarranted commercial solicitation.
+L103: Our concerns about privacy interests in Minnis were not dissimilar from those expressed by the Supreme Court in DOD about unsolicited contacts from unwelcome sources.
+L104: ¶16
+L105: 
+L106: Because the privacy interests at stake are minimal, and because there is a significant public interest in knowing with whom the government has chosen to communicate and in providing those persons with additional information, we conclude that disclosure of the mailing list would not result in a clearly unwarranted invasion of privacy. The decision of the district court is AFFIRMED.
+L107: 
+L108: FERNANDEZ, Circuit Judge, dissenting:
+L109: 
+L110: ¶17
+L111: Once again we are asked to bridle at and practically ignore the FOIA teachings of the United States Supreme Court. See United States Dep't of Defense v. FLRA , 510 U.S. 487 , ----, 114 S.Ct. 1006, 1012 , 127 L.Ed.2d 325 (1994); United States Dep't of Justice v. Reporters Comm. for Freedom of the Press , 489 U.S. 749, 771 -73, 109 S.Ct. 1468, 1481 , 103 L.Ed.2d 774 (1989). Once again we are asked to allow curiosity and gain to trump privacy.
+L112: We should decline the invitations.
+L113: ¶18
+L114: One thing is certain. The information that a mailing list will give the public about what the government is up to is minuscule or nil, most likely the latter. That the BLM is sending out mailers is a fact well known, and if any person wishes to know what is in the mailers he need only ask for them. However, it tells us nothing about government when we discover that the mailer went to John Doe in New York or Billy Rowe in Los Angeles.
+L115: ONDA does not really want to check on the government; it wants to contact the people on the list.
+L116: ¶19
+L117: Another certainty is that a list does convey more information about the recipient than a mere name and address. The proof of the pudding is in the eating, and ONDA desires this pudding so that it can feed upon information about the people who have allowed their names to be put on the list. It takes no sophisticate to perceive that the list will at least tell others that these are people who are interested in what happens to land that is controlled by the policies and doings of the BLM.
+L118: If all somebody wanted were a bunch of names and addresses that conveyed no information about the individuals on the list, that person could do a random selection from the telephone book. Just as a list of people who seek to travel on a river conveys information about them, the list in question conveys information about the people on it. See Minnis v. United States Dep't of Agric. , 737 F.2d 784, 787 (9th Cir.1984), cert. denied, 471 U.S. 1053 , 105 S.Ct. 2112 , 85 L.Ed.2d 477 (1985).
+L119: And just as a list of employees conveys information about them, so too does this list convey information. As I have pointed out before, the weight to be given to the privacy interest of individuals, who are on a list, seems to vary from judge to judge, but I continue to believe that "everyone agrees that it has some weight." FLRA v. United States Dep't of Navy, 958 F.2d 1490, 1498 (9th Cir.1992) (Fernandez, J., dissenting), withdrawn, 22 F.3d 899 (1994).
+L120: Certainly the weight it has outweighs the nonexistent weight of the interest in public disclosure.
+L121: ¶20
+L122: Nor, of course, does the claimed purity of ONDA's motives make a bit of difference. If ONDA can get the list, anyone can. Perhaps ONDA simply wants to send what it deems to be "correcting" information to those who receive BLM information. Perhaps it would also like to do some fund-raising. Perhaps it wishes to enlist others into its efforts to save the land. Other people may want to use the list for other purposes which are either more or less edifying.
+L123: None of that makes any difference because if ONDA is "entitled to break the seal of privacy and throw open the doors of this adytum, the doors will be opened to everyone." Id. Whether the requester's desires are driven by "news, need, or nebbiness," the information will be made available to him. Id. Opening the list to the world is an improper invasion of privacy for which there is no public need and no excuse.
+L124: ¶21
+L125: 
+L126: Thus, I respectfully dissent.
+L127: 
+

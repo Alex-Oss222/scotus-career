@@ -1,0 +1,104 @@
+Ingalls Shipbuilding, Inc. v. Director, Office of Workers' Compensation, 519 U.S. 248 (1997) LII Supreme Court Ingalls Shipbuilding, Inc. v. Director, Office of Workers' Compensation (95-1081), 519 U.S. 248 (1997) Other [ Scalia ] Syllabus Opinion [ O'Connor ] HTML version WordPerfect version HTML version WordPerfect version HTML version WordPerfect version NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See United States v. Detroit Timber & Lumber
+ Co., 200
+ U.S. 321 , 337. SUPREME COURT OF THE UNITED STATES Syllabus INGALLS SHIPBUILDING, INC.,
+ et al. v. DIRECTOR, OFFICE OF WORKERS' COMPENSATION
+ PROGRAMS, DEPARTMENT OF LABOR, et al. certiorari to the united states
+ court of appeals for the fifth circuit No. 95-1081 .
+ Argued November 12, 1996 -- Decided February 18, 1997 While working for petitioner Ingalls as a shipfitter, Jefferson Yates
+ was exposed to asbestos. After he was diagnosed as suffering from asbestosis
+ and related conditions, he filed a claim for disability benefits under
+ the Longshore and Harbor Workers' Compensation Act ("LHWCA" or "Act").
+ Ingalls admitted compensability and eventually settled with Mr. Yates,
+ who, in the meantime, had sued the manufacturers and suppliers of the asbestos
+ products that were allegedly present in his workplace when he contracted
+ asbestosis. Before his death, he settled with some of these defendants,
+ each of whom required releases from respondent Yates, Mr. Yates' wife,
+ even though she was not a party to the litigation. None of these predeath
+ settlements was approved by Ingalls. After Mr. Yates' death, Mrs. Yates
+ filed a claim for death benefits under the Act. Ingalls contested the claim
+ under Act §33(g)(1), which states: "If the person entitled to compensation
+ . . . enters into a settlement with a third person . . . for an amount
+ less than the compensation to which the person . . . would be entitled
+ under this [Act], the employer shall be liable for compensation . . . only
+ if written approval of the settlement is obtained from the employer . .
+ . before the settlement is executed." The Administrative Law Judge (ALJ)
+ ruled for Mrs. Yates, and the Benefits Review Board (Board) affirmed, holding
+ that, at the time she executed the predeath settlements, she was not a
+ "person entitled to compensation" under §33(g)(1) because her husband
+ still lived, and, therefore, her right to death benefits had not yet vested.
+ The Fifth Circuit agreed and affirmed. The court also rejected Ingalls'
+ argument that the Director, Office of Workers' Compensation Programs, lacked
+ standing to participate as a respondent in the appeal of a Board decision. Held: 1. Before an injured worker's
+ death, the worker's spouse is not a "person entitled to compensation" for
+ death benefits within §33(g)'s meaning, and does not forfeit the right
+ to collect death benefits under the Act for failure to obtain the worker's
+ employer's approval of settlements entered into before the worker's death.
+ Section 33(g)(1)'s plain language reveals two salient points. First, the
+ use of the present tense ( i. e., "enters") indicates that the "person
+ entitled to compensation" must be so entitled at the time of settlement. Estate of Cowart v. Nicklos Drilling Co., 505
+ U.S. 469 , 475. Second, the ordinary meaning of the word "entitle" indicates
+ that the "person entitled to compensation" must at the very least be qualified
+ to receive compensation. Id., at 477. Thus, the relevant inquiry
+ in this case is whether Mrs. Yates satisfied the prerequisites for obtaining
+ death benefits under the Act at the time she signed the releases contained
+ in the predeath settlements. Taken together, §9 of the Act, which
+ governs the distribution of death benefits, and §2, which contains
+ relevant definitions, indicate that a surviving spouse qualifies for death
+ benefits only if: (i) the survivor's deceased worker spouse dies from a
+ work related injury; (ii) the survivor is married to the worker spouse
+ at the time of death; and (iii) the survivor is either living with the
+ worker spouse, dependent upon the worker spouse, or living apart from the
+ worker spouse because of desertion or other justifiable cause at the time
+ of death. It is impossible to ascertain whether these prerequisites have
+ been met at any time prior to the death of the injured worker. The Court
+ therefore rejects the argument that a person seeking death benefits under
+ the Act can satisfy the prerequisites for those benefits at any earlier
+ time-- e. g., when the worker is initially injured or when the worker
+ enters into a predeath settlement. Because Mrs. Yates' husband was alive
+ at the time she signed the releases, she was not a "person entitled to
+ compensation" at that time and was therefore not obligated to seek Ingalls'
+ approval to preserve her entitlement to statutory death benefits. Ingalls'
+ arguments to the contrary--that §33(g)(1) effectively brings any person
+ who "would be entitled" to compensation within its purview, and that strict
+ adherence to the section's plain language is at odds with the Act's underlying
+ policy of avoiding double recovery--are unpersuasive. Pp. 5-12. 2. Although the Act itself does not speak to the issue, the right
+ to appear as a respondent before the courts of appeals is conferred upon
+ the Director, OWCP, by Federal Rule of Appellate Procedure 15(a), which,
+ in pertinent part, states: "Review of an order of an administrative . .
+ . board . . . must be obtained by filing with the clerk of a court of appeals
+ . . . [the appropriate form]. . . . In each case, the agency must be
+ named respondent." (Emphasis added.) The Court declines to adopt the
+ narrower reading of Rule 15(a) set forth in Parker v. Director,
+ OWCP, 75 F. 3d 929, 934 (CA4), and McCord v. Benefits Review
+ Board, 514 F. 2d 198, 200 (CADC). Where a single overarching agency
+ has two subagencies that wear the hats of, respectively, litigator/enforcer
+ and adjudicator, the "agency" that must be named as a respondent under
+ Rule 15(a) is the overarching agency, which is free to designate its enforcer/litigator
+ as its voice before the courts of appeals. It is not necessary that the
+ overarching agency have absolute veto power over the decisions of its adjudicator,
+ so long as it has substantial control over those decisions. By statute
+ and regulation, the LHWCA adjudicative and enforcement/litigation functions
+ of the Department of Labor are divided between the ALJs and the Board on
+ the one hand, and the Director on the other, and the Secretary of Labor
+ has named the Director as the Department's designated litigant in the courts
+ of appeals. The Department is thus the "agency" for Rule 15(a) purposes,
+ and the Court concludes that the Director may be named as a respondent
+ in the courts of appeals. Although the Director does not always have the
+ right to appeal as a petitioner to those courts, Director, Office of
+ Workers' Compensation Programs v. Newport News Shipbuilding &
+ Dry Dock Co., 514 U. S. ___, ___, this does not result in a "lopsided"
+ representation scheme whereby the Director can appear only in defense of
+ the Board's decisions. The Director, even as a respondent, is free to argue
+ on behalf of the petitioner, see Director, Office of Workers' Compensation
+ Programs v. Perini North River Associates, 459
+ U.S. 297 , 301, and to challenge the Board's decision. Pp. 12-20. 65 F. 3d 460 ,
+ affirmed. O'Connor, J., delivered the
+ opinion for a unanimous Court with respect to Parts I and II, and the opinion
+ of the Court with respect to Part III, in which Rehnquist, C. J., and Stevens,
+ Kennedy, Souter, Ginsburg, and Breyer, JJ., joined. Scalia, J., filed an
+ opinion concurring in part and dissenting in part, in which Thomas, J.,
+ joined.

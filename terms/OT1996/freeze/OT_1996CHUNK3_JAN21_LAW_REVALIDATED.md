@@ -1,0 +1,34 @@
+# OT1996 chunk 3 — January 21 entering-law revalidation
+
+Prepared October 12, 2026 in the existing independent Youpee/Curtis modeling context. In-world cutoff: January 21, 1997. This supplemental receipt preserves `OT_1996CHUNK3_COMMITMENTS_JAN21.md` unchanged; it is not a Court action or historical reconciliation.
+
+## Result
+
+The final January 14 holdings in **Chamber of Commerce v. Reich**, **Castano v. American Tobacco Co.**, and **In re Deuel** do not alter any frozen Youpee or Curtis component, sufficient ground, proposed remedy, or Justice-specific join boundary. The eight non-Stone commitments for each matter are retained. The pending January 14 relevance check identified in the original handoff is complete.
+
+## Authorized source and separation
+
+The only newly opened substantive source was `../entering-law/CHUNK3_AFTER_JAN14_neutral-projection.md`. Its public holdings, precedent treatment, resulting law, and procedural consequences for the three January 14 decisions were read. Each decision's stated common authority includes all nine Justices; no distinct new published noncontrolling position relevant to these matters appears in the projection. Record hyperlinks were not opened. No continuity file, raw Record, Stone material, comparator, reconciliation, private control file, or private-directory material was received or read. No Git command was run.
+
+The earlier authorized neutral packets, fresh factual corrections, entering-law slices, and already checked public positions continue to supply the underlying Youpee/Curtis record. The new decisions operate before January 21, while the uncoordinated January 21 matters still use a common baseline and do not supply one another's law.
+
+## Concrete relevance determinations
+
+**Reich — prospective officer relief and the limit of delegated procurement authority.** Its first holding distinguishes federal-question jurisdiction, traditional prospective officer equity, and section 702's nonmonetary immunity waiver, preserving other review and remedial limits. That distinction is compatible with Youpee's review of existing declaratory/injunctive protection against the Secretary. It does not displace Irving's standing or succession analysis, create a new compensation claim, identify a review-preclusion statute for this estate, or require the Court to formulate a different probate disposition. Reich's substantive holding construes the Procurement Act together with the NLRA; it changes neither Congress's authority to address Indian-land fractionation nor the Fifth Amendment limit on the particular means used. Its instruction to fit an injunction to the responsible officer and the actual defect is consistent with the seven affirmers' confined relief and Stevens's distinct takings reversal. No new remedy ground is added to either side.
+
+Reich supplies no constitutional parental exclusion right, school-notification duty, or religious-burden rule for Curtis. Its rule against treating an executive label as statutory authority is not a universal requirement that school officials prove a compelling interest before a constitutional interference is established. All eight Curtis commitments already examine the actual program rather than accept the school's characterization as conclusive.
+
+**Castano — actual Rule 23 prerequisites and a confined opportunity for reconsideration.** The decision concerns certification, predominance, superiority, representation, state-law variation, and the existing nationwide tobacco class. Neither Youpee nor Curtis presents a Rule 23 certification dispute. Its demand for supported claims-and-proof analysis does not impose new takings elements, a new constitutional burden on parents, or a trial-plan requirement in either matter. Its rejection of a categorical tort-maturation prerequisite supplies no independent command to remand every novel constitutional question.
+
+Castano's procedural discipline is already respected: Youpee's commitments use the supported probate and statutory facts, preserve the qualified tribal-code account, and distinguish the real co-owner option from its sufficiency. Curtis's commitments keep the junior-high pre-receipt counseling condition intact, treat expert affidavits as legally immaterial only under the adopted threshold ground, and identify remand as the supported alternative if a contrary infringement rule made justification material. No existing factual gap becomes a reason to impose a new hearing or to infer litigant default. All Associates' new Castano joins therefore create no changed premise for their frozen positions.
+
+**Deuel — supported obviousness grounds, actual claim scope, and limited patent relief.** Its section 103 rules and separate treatment of sequence and genus claims do not govern property succession, parental liberty, or free exercise. Its refusal to let applicants' failure to disprove unsupported agency assumptions discharge the Office's initial burden does not establish a universal burden rule outside patent examination. Youpee's commitments already distinguish the legislated rebuttable income presumption from a conclusive backward-looking test, and the reported absence of rebuttal from proof that the constitutional claim fails. Deuel supplies no reason to invalidate that statutory presumption independently or to invent missing valuation evidence.
+
+For Curtis, Deuel supplies no missing constitutional interest and no public-health finding. The commitment to affirm on the stated threshold grounds does not depend on an unsupported assumption that the program is necessary, effective, or harmless. Its reservations about individual counseling content remain intact. Deuel's allowance for independently proper later examination, without a mandatory reopening, likewise does not require a remand where the supplied constitutional record permits the bounded resolution already selected.
+
+## Preserved commitments and readiness
+
+- **Youpee:** O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer retain affirmance on the shared, confined Irving ground. Stevens retains reversal on his amended-option and contextual ground. All eight avoid deciding a broad Lucas category and preserve their recorded remedial and source limits.
+- **Curtis:** All eight retain affirmance on parental liberty, free exercise, and the requested exclusion/notification requirements, confined to the program presented. No universal coercion-only rule, independent RFRA ruling, public-health factual finding, or affirmative right to receive the resource is added.
+
+The original independent handoff may proceed to separate historical reconciliation with this receipt. Stone compatibility, final Court votes, opinion assignment and final topology remain outside this modeling context. No affected component requires remodeling on account of the three January 14 decisions.
