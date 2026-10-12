@@ -343,10 +343,10 @@ The following clarification is user-approved except for the preserved source res
 - **Requested Supreme Court Judgment and Relief:** Edmond asks the Court to reverse and sustain the seal as historical civic symbolism. The resident plaintiffs seek affirmance and an injunction against official use.
 - **Material Facts and Record:** Edmond adopted the circular seal in 1965 after a local contest. Three quadrants depict secular civic subjects, while the fourth displays a Christian cross. The City placed the seal on signs, flags, police and firefighter uniforms, vehicles, property stickers, utility bills, stationery, newsletters, and in the council chambers. The plaintiffs are non-Christian residents and workers who challenged the City's own pervasive use, not a private display in an open forum.
 - **Preservation, Threshold, and Vehicle Matters:** Standing is supported by the plaintiffs' residence, work, repeated exposure, and request for prospective relief. The official-capacity claim and municipal injunction are distinct from individual damages and qualified immunity.
-- **Relevant Dates:** Tenth Circuit decided October 17, 1995; historical certiorari denied May 13, 1996; simulated Supreme Court argument December 2, 1996; scheduled merits-review event March 31, 1997.
+- **Relevant Dates:** Tenth Circuit decided October 17, 1995; simulated Supreme Court argument December 2, 1996; scheduled merits-review event March 31, 1997.
 - **Companion or Consolidated Matters:** None.
 - **Known Participation Matter:** None identified.
-- **Public Sources:** Robinson v. City of Edmond, 68 F.3d 1226 (10th Cir. 1995), for the dockets, panel, seal, municipal-use record, and judgment; City of Edmond v. Robinson, No. 95-879, 517 U.S. 1201 (1996), for the certiorari treatment.
+- **Public Sources:** Robinson v. City of Edmond, 68 F.3d 1226 (10th Cir. 1995), for the dockets, panel, seal, municipal-use record, and judgment.
 
 ## B. LAW ENTERING THE CASE
 
