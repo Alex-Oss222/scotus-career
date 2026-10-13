@@ -1,0 +1,6 @@
+{
+  "tool": "tools/rebuild_ledger.py",
+  "git_commands_executed": 0,
+  "cached_existing_rows": 72,
+  "method": "Run original main with git_added replaced by prior-ledger order and provenance; new Record uncommitted. No provenance verified."
+}

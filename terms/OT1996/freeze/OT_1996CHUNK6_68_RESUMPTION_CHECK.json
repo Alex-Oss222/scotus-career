@@ -1,0 +1,22 @@
+{
+  "non_git_exit_code": 0,
+  "git_commands_executed": 0,
+  "deferred_git_object_identifiers": [
+    "1056244",
+    "1278633",
+    "1301712",
+    "88d34e4",
+    "9d5688a",
+    "A40385013",
+    "A40385014",
+    "A40386004",
+    "A40386007",
+    "A40386013",
+    "cceeded",
+    "e0abdfd",
+    "ef97686"
+  ],
+  "deferred_count": 25,
+  "original_checker_sha256": "326c640d289d5d64df847ed573cc5999289cf691fa9a92bb814389cdb0508ca7",
+  "method": "Original check_term main; git_object_exists bypassed and all subprocess Git commands forbidden. No assertion of Git-object existence."
+}

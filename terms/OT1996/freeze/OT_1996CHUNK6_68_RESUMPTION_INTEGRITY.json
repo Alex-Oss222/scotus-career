@@ -1,0 +1,59 @@
+{
+  "protected_file_count": 133,
+  "changed_existing_files": [
+    "terms/OT1996/records/Blessing_v_Freestone_merits_1997-04-21.md",
+    "terms/OT1996/records/Chandler_v_Miller_merits_1997-04-15.md",
+    "terms/OT1996/records/New_Mexico_Department_of_Human_Services_v_Joseph_A_merits_1997-04-21.md",
+    "terms/OT1996/render-inputs/OT_1996CHUNK6.md",
+    "terms/OT1996/workspace/continuity.md",
+    "terms/OT1996/workspace/ledger.md",
+    "terms/OT1996/workspace/manifest.md",
+    "terms/OT1996/workspace/neutral-projection.md"
+  ],
+  "new_records": [
+    "terms/OT1996/records/In_re_Vey_financial_leave_1997-04-14.md"
+  ],
+  "later_record_checks": {
+    "terms/OT1996/records/Blessing_v_Freestone_merits_1997-04-21.md": {
+      "only_authorized_entering_note_changed": true,
+      "public_projection_unchanged": true
+    },
+    "terms/OT1996/records/Chandler_v_Miller_merits_1997-04-15.md": {
+      "only_authorized_entering_note_changed": true,
+      "public_projection_unchanged": true
+    },
+    "terms/OT1996/records/New_Mexico_Department_of_Human_Services_v_Joseph_A_merits_1997-04-21.md": {
+      "only_authorized_entering_note_changed": true,
+      "public_projection_unchanged": true
+    }
+  },
+  "inventory_events": 153,
+  "chunk6_events": 12,
+  "render_input_records": [
+    "Ingebretsen_v_Jackson_Public_School_District_merits_1997-03-19.md",
+    "Oncale_v_Sundowner_Offshore_Services_Inc_merits_1997-03-19.md",
+    "Lambert_v_Wicklund_summary_review_1997-03-31.md",
+    "Robinson_v_City_of_Edmond_merits_1997-03-31.md",
+    "Turner_Broadcasting_System_Inc_v_FCC_merits_1997-03-31.md",
+    "United_States_v_Lanier_merits_1997-03-31.md",
+    "Young_v_Fordice_merits_1997-03-31.md",
+    "Opuku_Boateng_v_California_merits_1997-04-07.md",
+    "In_re_Vey_financial_leave_1997-04-14.md",
+    "Chandler_v_Miller_merits_1997-04-15.md",
+    "Blessing_v_Freestone_merits_1997-04-21.md",
+    "New_Mexico_Department_of_Human_Services_v_Joseph_A_merits_1997-04-21.md"
+  ],
+  "total_records": 73,
+  "frozen_handoff_hashes_verified": {
+    "OT_1996CHUNK6_68_NEUTRAL.md": "83ea1913d1eb8be2b004ec59ef8ad0c0b0080c0fb355090ab2cca5a387905a21",
+    "OT_1996CHUNK6_68_COMMITMENTS.md": "b3a785d2307d8f6c5e59de43dbd50027a5a597d89df402840d4b27b73ce2729e",
+    "OT_1996CHUNK6_68_RECONCILED.md": "15dc747cd95134cf7a3bfe14b1388228ea1c237d0570429b88f97e8d4ee8f61c",
+    "OT_1996CHUNK6_68_FINANCIAL_NEUTRAL.md": "efe69e45b7963ec5876731e8f8a68adaebc777dc6374708d0f22e5d43c7985cb",
+    "OT_1996CHUNK6_68_FINANCIAL_COMMITMENTS.md": "9ba8e0d8c49511ff1fcb811a402882c08f3b7d11c6ba48dbc8e58699a91dba29",
+    "OT_1996CHUNK6_68_FINANCIAL_RECONCILED.md": "cbe798751e6c2705d8bb64d51d51f8ef9f091b62a43152ef2bd917562d63dea1",
+    "OT_1996CHUNK6_68_PREPARATION_RECEIPT.md": "8e53a09f8ed4483efd1a9cc6f501ee92ce9eb9162a180feeb0717a3427515657"
+  },
+  "errors": [],
+  "git_commands_executed": 0,
+  "note": "Git-object existence and commitment remain for operator; no public output is modified."
+}
