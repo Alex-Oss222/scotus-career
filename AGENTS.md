@@ -132,6 +132,8 @@ The user may designate a matter for special consideration. Its Run and Render fo
 
 Designated: *Planned Parenthood of Southeastern Pennsylvania v. Casey*, OT1991 (version 1.5, September 15, 2026; Stone’s complete six-step framework adopted as a five-Justice controlling majority — Stone, Blackmun, Stevens, O’Connor, Souter — at the user’s direct authority, per the record’s “Version 1.5 assembly” section). Extended holdings: the framework retaining protected choice; the standard governing previability regulation after the decision; stare decisis; spousal notice.
 
+Designated: *Clinton v. Jones*, OT1996 (designated by the user on October 13, 2026). Extended holdings: no temporary immunity from a federal civil action for unofficial conduct before taking office; official-act immunity turns on function, not presidential status; the standard for case-specific accommodation in place of a categorical term-long stay.
+
 ## Close protocol
 
 Term close runs only after every manifest item is completed, corrected, or expressly carried forward. It is staged so that no single context must hold the whole term; each pass is its own task, committed before the next. Records control; renders are cross-checks only. Do not change any adjudication during close — a defect goes back to a correction record.
