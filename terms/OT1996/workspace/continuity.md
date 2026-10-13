@@ -6,9 +6,9 @@ All three opening trackers identify **Last completed October Term: 1995**, proce
 
 The [manifest](manifest.md) preserves all 153 supplied inventory events and the opening decision admitting 58 lower-court additions with no prior-term carryover. Completed rows reflect only canonical Records. Uncoordinated same-day events use a common entering-law baseline; navigation order creates no dependency. The initial divergence is October 7, 1991.
 
-Current completed-Court-event cursor: **1997-05-12**. Coverage: **82 Court events and 3 admitted sources**. The next open inventory row is:
+Current completed-Court-event cursor: **1997-05-12**. Coverage: **83 Court events and 3 admitted sources**. Brown remains open for reargument under the April 28 order; its completed calendar event is carried forward without a new event date. The next unprocessed inventory row is:
 
-| 1997-04-28 | OT_1996CHUNK7 | Board of County Commissioners of Bryan County v. Brown | 95-1100 | MERITS | Argued appellate merits | Stopped: Missing Stone instruction whether to support or decline further argument on Monell; no supported majority for a judgment or further-consideration order. | Historical decision-date planning anchor | 1997-04-28 | Listed appellate matter; merits intake to verify | Common opening prerequisites |
+| 1997-05-12 | OT_1996CHUNK8 | Reno v. Bossier Parish School Board / Price v. Bossier Parish School Board | 95-1455; 95-1508 | MERITS | Argued appellate merits | Open | Historical decision-date planning anchor | 1997-05-12 | Listed appellate matter; merits intake to verify | Common opening prerequisites |
 
 The January 14 peers in chunk 3—Chamber of Commerce v. Reich, Castano, and In re Deuel—use the common pre-January-14 baseline. Atherton, Grimmett, Abebe-Jira, and Walters do not become their intervening law by processing order. Each later event must still receive any earlier-effective current-term holding it actually implicates. The remaining February 26 peers in chunk 5 likewise use the common pre-February-26 baseline: Wells does not become their intervening law through processing order. The February 18 inventory peers in chunk 4 - Uhlrig, Brockamp, Legi-Tech, and Ehrlich - use the common pre-February-18 baseline; the February 18 decisions in this chunk do not become intervening law by processing order.
 
@@ -96,6 +96,7 @@ The May 12 peers across chunks 7 and 8 share the law effective before May 12; th
 | 1997-04-21 | Kadic v. Karadzic; Doe v. Karadzic; Second Circuit Nos. 94-9035 and 94-9069. | Affirm the reversal of dismissal and remand both actions, 7–2; all nine support the common jurisdictional, justiciability, surviving official-torture/TVPA, immunity and qualified procedural grounds. | [Record](../records/Kadic_and_Doe_v_Karadzic_merits_1997-04-21.md) |
 | 1997-04-21 | Metropolitan Life Insurance Co. v. Robertson-Ceco Corp.; Second Circuit No. 95-7370; companion petition identifiers 96-306 and 96-472. | Reversal and remand, six votes; Stone-Zsela would vacate and remand; Ginsburg and Breyer would affirm. All nine leave the discovery limit undisturbed. | [Record](../records/Metropolitan_Life_v_Robertson_Ceco_merits_1997-04-21.md) |
 | 1997-04-21 | New Mexico Department of Human Services v. Joseph A. and Josephine A.; Tenth Circuit No. 94-2160, 69 F.3d 1081; separate Supreme Court docket unassigned | Tenth Circuit affirmed, 9–0; decree-termination vacatur and remand for reviewable findings stand. | [Record](../records/New_Mexico_Department_of_Human_Services_v_Joseph_A_merits_1997-04-21.md) |
+| 1997-04-28 | Board of County Commissioners of Bryan County v. Brown, No. 95-1100. | Restored to the calendar for reargument; no merits ruling. Matter remains open and carried forward. | [Record](../records/Board_of_County_Commissioners_of_Bryan_County_v_Brown_reargument_1997-04-28.md) |
 | 1997-04-28 | Pic-A-State Pennsylvania, Inc. v. Reno; Third Circuit No. 95-7137; no separate Supreme Court docket assigned. | Affirmed, 9–0; federal declaratory and prospective injunctive relief denied. | [Record](../records/Pic_A_State_Pennsylvania_v_Reno_merits_1997-04-28.md) |
 | 1997-04-28 | Richards v. Wisconsin; No. 96-5955. | Affirmed, 9–0, on particularized destruction risk; categorical felony-drug exception rejected. | [Record](../records/Richards_v_Wisconsin_merits_1997-04-28.md) |
 | 1997-04-28 | Strate v. A-1 Contractors; No. 95-1872. | Affirmed unanimously as to the reviewed jurisdictional claim; conforming-relief reservation adopted 8–1. | [Record](../records/Strate_v_A_1_Contractors_merits_1997-04-28.md) |
@@ -3722,6 +3723,22 @@ Authority: [Record](../records/Metropolitan_Life_v_Robertson_Ceco_merits_1997-04
 From April 21, 1997, the Court's general-jurisdiction law expressly permits a reasonable multiyear assessment and requires examination of the cumulative quality and regularity of contacts. The complete credited Robertson course is sufficient at this prima-facie stage. Six Justices adopt an independent, demanding constitutional fairness inquiry after adequate general contacts; seven conclude that this particular combination of ordinary domestic inconvenience and unrelatedness fails it. The Court establishes no numerical threshold, registration-consent rule, mandatory filing-year limit, incorporation-or-headquarters-only rule, automatic attribution of every independent dealer, or categorical immunity from fairness review. Remaining factual adjudication and ordinary venue, transfer, service, limitations, and merits rules retain their work.
 
 
+### 1997-04-28 — Board of County Commissioners of Bryan County v. Brown, No. 95-1100.
+
+Authority: [Record](../records/Board_of_County_Commissioners_of_Bryan_County_v_Brown_reargument_1997-04-28.md).
+
+#### Holdings
+
+The order decides no merits question. The municipal hiring issue and the separate training and state-law grounds remain unresolved by this Court.
+
+#### Precedent Treatment
+
+The order changes no precedent.
+
+#### Law After Decision
+
+Existing municipal-liability law remains in force. Restoration for reargument establishes no new rule governing hiring, municipal fault, causation, or remedies.
+
 ### 1997-04-28 — Pic-A-State Pennsylvania, Inc. v. Reno; Third Circuit No. 95-7137; no separate Supreme Court docket assigned.
 
 Authority: [Record](../records/Pic_A_State_Pennsylvania_v_Reno_merits_1997-04-28.md).
@@ -5171,6 +5188,16 @@ Authority: [Record](../records/Metropolitan_Life_v_Robertson_Ceco_merits_1997-04
 The case returns through the Second Circuit for further proceedings with the present constitutional dismissal removed. Properly presented factual, service, limitations, venue, transfer, and merits questions remain subject to their ordinary requirements. The Court does not reopen United Dominion's separate judgment or require a new hearing on questions the present record resolves.
 
 
+### 1997-04-28 — Board of County Commissioners of Bryan County v. Brown, No. 95-1100.
+
+Authority: [Record](../records/Board_of_County_Commissioners_of_Bryan_County_v_Brown_reargument_1997-04-28.md).
+
+The case is restored to the calendar for reargument.
+
+The order neither affirms nor vacates the Fifth Circuit's judgment. It leaves the existing judgment and monetary allocations unaltered and directs no remand, new trial, or stay. No merits mandate issues.
+
+The case remains pending for reargument. This order sets no reargument date, supplemental-briefing requirement, or deadline.
+
 ### 1997-04-28 — Pic-A-State Pennsylvania, Inc. v. Reno; Third Circuit No. 95-7137; no separate Supreme Court docket assigned.
 
 Authority: [Record](../records/Pic_A_State_Pennsylvania_v_Reno_merits_1997-04-28.md).
@@ -5235,14 +5262,12 @@ The case returns to the Eleventh Circuit for the unresolved procedural-default d
 
 ## 6. Blockers and Revalidation Needs
 
-Chunk 7 has 11 completed Court events and 1 stopped matters.
+Chunk 7 has 12 completed Court events and no stopped matter. Brown remains open for reargument and is carried forward under its April 28 order; no merits disposition, briefing direction or reargument date is supplied. The separate Gaydos certiorari submission and Vey original petition retain their previously recorded open postures. No new deadline or terminal action is inferred.
 
-- Board of County Commissioners of Bryan County v. Brown: Missing Stone instruction whether to support or decline further argument on Monell; no supported majority for a judgment or further-consideration order.
+The dependency review of all nine pre-existing Records dated April 28 or later found no material change to any result or reasoning; only the entering-law notes identified in [the review](../freeze/OT_1996CHUNK7_74_DEPENDENCY_REVIEW.md) were corrected. Uncoordinated same-day cases retain their common entering-law baseline.
 
-Each stopped matter remains open; no Court action, precedent, opinion assignment or mandate is inferred. The separate Gaydos certiorari submission and Vey original petition retain their previously recorded open postures. No new deadline or terminal action is inferred.
-
-Records and frozen handoffs are saved for operator verification and commitment. Git provenance remains unverified under the express no-Git instruction. Opening Engine/AGENTS hashes predate the expressly authorized October 13 revision; that difference is not an unresolved conflict. Uncoordinated same-day cases retain their common entering-law baseline. Source, doctrine and exact Stone-choice gaps must be addressed at the affected stage before a dependent matter proceeds.
+Records and frozen handoffs are saved for operator verification and commitment. Git provenance remains unverified under the express no-Git instruction. Opening Engine/AGENTS hashes predate the expressly authorized October 13 revision; that difference is not an unresolved conflict. The bounded Run validation and its actual limits are recorded in [the validation receipt](../freeze/OT_1996CHUNK7_74_RUN_VALIDATION.md).
 
 ## 7. Source and Research Cutoff
 
-The Records above supply exact legal, source, remedy and participation limits. Each retains its own event-date cutoff; the current Court-law cursor is 1997-05-12. No later historical follow-on action is inferred. Current law is copied from bounded Public Projections. Published noncontrolling positions are copied from each Record's expressly public continuity account or selected separate-writing block. Neither private Stone material nor the audit annex supplies this law. Foundation and state trackers remain unchanged. Final validation and its actual limits are recorded in the chunk 7 validation receipt when complete.
+The Records above supply exact legal, source, remedy and participation limits. Each retains its own event-date cutoff; the current Court-law cursor is 1997-05-12. No later historical follow-on action is inferred. Current law is copied from bounded Public Projections. Published noncontrolling positions are copied from each Record's expressly public continuity account or selected separate-writing block. Neither private Stone material nor the audit annex supplies this law. Foundation and state trackers remain unchanged. The bounded Brown assembly and integration checks, including deferred Git verification, are recorded in the linked Run validation receipt.

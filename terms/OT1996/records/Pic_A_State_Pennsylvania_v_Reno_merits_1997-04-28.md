@@ -9,7 +9,7 @@ On certiorari under 28 U.S.C. §1254(1) to the Third Circuit, 76 F.3d 1294 (Febr
 
 Stone's approved fixed core affirms, reaches the concrete and ripe pre-enforcement challenge, treats the actual knowing commercial interstate procurement transmission as interstate commerce itself, and accepts only the express agreement-based congressional authorization against dormant-Commerce objections. No aggregation holding, remote interstate-history proxy, independent state-law validation or broader constitutional permission is attributed to him. He joins all three holdings, their enacted boundaries and the affirmance. No standing fallback or separate writing is required; his limits appear in the Court's opinion.
 
-Entering law: the supplied slice preserves actual Lopez, Harris, Bishop/Stokes, Hale, Robertson and American Life League, plus current Tracy and Bennett. The earlier-effective Kadic/Doe and Metropolitan holdings do not change any premise, as the rolling-law review establishes. Same-day Brown has no completed event and creates no law; assignment order does not make same-day peers substantive antecedents.
+Entering law: the supplied slice preserves actual Lopez, Harris, Bishop/Stokes, Hale, Robertson and American Life League, plus current Tracy and Bennett. The earlier-effective Kadic/Doe and Metropolitan holdings do not change any premise, as the rolling-law review establishes. Brown's same-day reargument order supplies no entering law for this uncoordinated decision and creates no merits holding; assignment order does not make same-day peers substantive antecedents.
 
 ## Form, final compatibility and assignment
 

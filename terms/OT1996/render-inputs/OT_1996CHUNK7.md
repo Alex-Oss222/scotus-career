@@ -1,9 +1,6 @@
 # OT_1996CHUNK7 Render Input
 
-**October Term:** 1996. **Completed events:** 11. **Chronological range:** 1997-04-21 through 1997-05-12.
-
-**Stopped matters:**
-- Board of County Commissioners of Bryan County v. Brown: Missing Stone instruction whether to support or decline further argument on Monell; no supported majority for a judgment or further-consideration order.
+**October Term:** 1996. **Completed events:** 12. **Chronological range:** 1997-04-21 through 1997-05-12.
 
 <!-- source-record: Kadic_and_Doe_v_Karadzic_merits_1997-04-21.md -->
 ## Event
@@ -284,6 +281,55 @@ The case returns through the Second Circuit for further proceedings with the pre
 The full lower majority opinion, dissent, and footnotes are reported at [84 F.3d 560](https://static.case.law/f3d/84/html/0560-01.html). International Shoe, 326 U.S. 310; Perkins, 342 U.S. 437; Helicopteros, 466 U.S. 408; Burger King, 471 U.S. 462; Asahi, 480 U.S. 102; and Keeton, 465 U.S. 770 provide the jurisdictional authorities at the scopes stated above. Crane, 814 F.2d 758, and United Electrical v. 163 Pleasant Street, 960 F.2d 1080, supply the stated separate-writing distinctions.
 
 The lower opinion reports approximately $4 million of multiyear Vermont sales but describes that interval inconsistently. That discrepancy does not support a year-by-year series; the Court relies on the sustained aggregate course and the separately reported 1993 figure. The prima-facie record credits averments after discovery rather than finding every disputed fact finally proved. The action was submitted on the merits following the Court's grant.
+
+---
+
+<!-- source-record: Board_of_County_Commissioners_of_Bryan_County_v_Brown_reargument_1997-04-28.md -->
+## Event
+
+Board of County Commissioners of Bryan County v. Brown, No. 95-1100. Reargument order, April 28, 1997. Argued November 5, 1996. On writ of certiorari to the United States Court of Appeals for the Fifth Circuit, 67 F.3d 1174.
+
+The case concerns whether a final policymaker's single hiring decision can establish the County's own policy, fault, and causal responsibility under 42 U.S.C. §1983 for the constitutional injury caused by the hired deputy. The Fifth Circuit sustained County liability on the federal hiring ground; separate federal training and state negligent-hiring and negligent-training grounds were not resolved in its operative opinion.
+
+## Participation
+
+All nine members of the Court participated.
+
+## Public Action
+
+The case is restored to the calendar for reargument.
+
+## Judgment & Remedy
+
+The order neither affirms nor vacates the Fifth Circuit's judgment. It leaves the existing judgment and monetary allocations unaltered and directs no remand, new trial, or stay. No merits mandate issues.
+
+## Opinion Topology
+
+No opinion or separate statement accompanies the order. No individual vote or tally is announced.
+
+## Holdings
+
+The order decides no merits question. The municipal hiring issue and the separate training and state-law grounds remain unresolved by this Court.
+
+## Precedent Treatment
+
+The order changes no precedent.
+
+## Law After Decision
+
+Existing municipal-liability law remains in force. Restoration for reargument establishes no new rule governing hiring, municipal fault, causation, or remedies.
+
+## Separate Writings
+
+None.
+
+## Procedure After Action
+
+The case remains pending for reargument. This order sets no reargument date, supplemental-briefing requirement, or deadline.
+
+## Source Notes
+
+The operative decision below is Brown v. Bryan County, 67 F.3d 1174 (5th Cir. 1995), which withdrew the earlier opinion at 53 F.3d 1410. The district court's September 20, 1993 judgment and the jury's separate verdict findings establish the judgment and alternative grounds described above; this order does not resolve their merits.
 
 ---
 

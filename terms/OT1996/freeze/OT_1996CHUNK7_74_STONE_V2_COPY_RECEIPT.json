@@ -1,0 +1,11 @@
+{
+  "source": "terms\\OT1996\\runtime\\OT_1996CHUNK7_STONE.md",
+  "source_sha256": "c10d1161832cc1c81a6f5806cf1ecd70c542f71e2ebc3cc8bfb6a676a01c9fa5",
+  "character_interval": [
+    8171,
+    12401
+  ],
+  "copy": "terms\\OT1996\\runtime\\OT_1996CHUNK7_74_STONE_V2.md",
+  "copy_sha256": "0d64e3487ecedfc956db0e5d2dcb0ef37288e966737b0ada87355475bf1591f1",
+  "method": "Mechanical substring copy of matter 74 from regenerated section-homogeneous runtime; original single-matter Version 1 handoff preserved."
+}

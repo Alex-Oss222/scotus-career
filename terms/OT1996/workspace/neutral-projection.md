@@ -4,9 +4,9 @@ All three opening trackers identify **Last completed October Term: 1995**, proce
 
 The [manifest](manifest.md) preserves all 153 supplied inventory events and the opening decision admitting 58 lower-court additions with no prior-term carryover. Completed rows reflect only canonical Records. Uncoordinated same-day events use a common entering-law baseline; navigation order creates no dependency. The initial divergence is October 7, 1991.
 
-Current completed-Court-event cursor: **1997-05-12**. Coverage: **82 Court events and 3 admitted sources**. The next open inventory row is:
+Current completed-Court-event cursor: **1997-05-12**. Coverage: **83 Court events and 3 admitted sources**. Brown remains open for reargument under the April 28 order; its completed calendar event is carried forward without a new event date. The next unprocessed inventory row is:
 
-| 1997-04-28 | OT_1996CHUNK7 | Board of County Commissioners of Bryan County v. Brown | 95-1100 | MERITS | Argued appellate merits | Stopped: Missing Stone instruction whether to support or decline further argument on Monell; no supported majority for a judgment or further-consideration order. | Historical decision-date planning anchor | 1997-04-28 | Listed appellate matter; merits intake to verify | Common opening prerequisites |
+| 1997-05-12 | OT_1996CHUNK8 | Reno v. Bossier Parish School Board / Price v. Bossier Parish School Board | 95-1455; 95-1508 | MERITS | Argued appellate merits | Open | Historical decision-date planning anchor | 1997-05-12 | Listed appellate matter; merits intake to verify | Common opening prerequisites |
 
 The January 14 peers in chunk 3—Chamber of Commerce v. Reich, Castano, and In re Deuel—use the common pre-January-14 baseline. Atherton, Grimmett, Abebe-Jira, and Walters do not become their intervening law by processing order. Each later event must still receive any earlier-effective current-term holding it actually implicates. The remaining February 26 peers in chunk 5 likewise use the common pre-February-26 baseline: Wells does not become their intervening law through processing order. The February 18 inventory peers in chunk 4 - Uhlrig, Brockamp, Legi-Tech, and Ehrlich - use the common pre-February-18 baseline; the February 18 decisions in this chunk do not become intervening law by processing order.
 
@@ -3679,6 +3679,22 @@ Authority: [Record](../records/Metropolitan_Life_v_Robertson_Ceco_merits_1997-04
 From April 21, 1997, the Court's general-jurisdiction law expressly permits a reasonable multiyear assessment and requires examination of the cumulative quality and regularity of contacts. The complete credited Robertson course is sufficient at this prima-facie stage. Six Justices adopt an independent, demanding constitutional fairness inquiry after adequate general contacts; seven conclude that this particular combination of ordinary domestic inconvenience and unrelatedness fails it. The Court establishes no numerical threshold, registration-consent rule, mandatory filing-year limit, incorporation-or-headquarters-only rule, automatic attribution of every independent dealer, or categorical immunity from fairness review. Remaining factual adjudication and ordinary venue, transfer, service, limitations, and merits rules retain their work.
 
 
+### 1997-04-28 — Board of County Commissioners of Bryan County v. Brown, No. 95-1100.
+
+Authority: [Record](../records/Board_of_County_Commissioners_of_Bryan_County_v_Brown_reargument_1997-04-28.md).
+
+#### Holdings
+
+The order decides no merits question. The municipal hiring issue and the separate training and state-law grounds remain unresolved by this Court.
+
+#### Precedent Treatment
+
+The order changes no precedent.
+
+#### Law After Decision
+
+Existing municipal-liability law remains in force. Restoration for reargument establishes no new rule governing hiring, municipal fault, causation, or remedies.
+
 ### 1997-04-28 — Pic-A-State Pennsylvania, Inc. v. Reno; Third Circuit No. 95-7137; no separate Supreme Court docket assigned.
 
 Authority: [Record](../records/Pic_A_State_Pennsylvania_v_Reno_merits_1997-04-28.md).
@@ -5061,6 +5077,16 @@ Authority: [Record](../records/Metropolitan_Life_v_Robertson_Ceco_merits_1997-04
 The case returns through the Second Circuit for further proceedings with the present constitutional dismissal removed. Properly presented factual, service, limitations, venue, transfer, and merits questions remain subject to their ordinary requirements. The Court does not reopen United Dominion's separate judgment or require a new hearing on questions the present record resolves.
 
 
+### 1997-04-28 — Board of County Commissioners of Bryan County v. Brown, No. 95-1100.
+
+Authority: [Record](../records/Board_of_County_Commissioners_of_Bryan_County_v_Brown_reargument_1997-04-28.md).
+
+The case is restored to the calendar for reargument.
+
+The order neither affirms nor vacates the Fifth Circuit's judgment. It leaves the existing judgment and monetary allocations unaltered and directs no remand, new trial, or stay. No merits mandate issues.
+
+The case remains pending for reargument. This order sets no reargument date, supplemental-briefing requirement, or deadline.
+
 ### 1997-04-28 — Pic-A-State Pennsylvania, Inc. v. Reno; Third Circuit No. 95-7137; no separate Supreme Court docket assigned.
 
 Authority: [Record](../records/Pic_A_State_Pennsylvania_v_Reno_merits_1997-04-28.md).
@@ -5125,4 +5151,4 @@ The case returns to the Eleventh Circuit for the unresolved procedural-default d
 
 ## Scope and cutoff
 
-Use only events effective before the matter being modeled; same-day peer order creates no intervening holding. Each Record retains its event-date research cutoff. Coverage is 82 Court events and three admitted sources through 1997-05-12. This projection contains public law, published separate positions and public procedure only. Remaining inventory entries are pending, with no outcome inferred.
+Use only events effective before the matter being modeled; same-day peer order creates no intervening holding. Each Record retains its event-date research cutoff. Coverage is 83 Court events and three admitted sources through 1997-05-12. This projection contains public law, published separate positions and public procedure only. Remaining inventory entries are pending, with no outcome inferred.
