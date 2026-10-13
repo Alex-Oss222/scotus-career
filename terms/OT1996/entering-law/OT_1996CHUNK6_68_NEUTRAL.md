@@ -1,0 +1,84 @@
+# 68. In re Vey
+
+# SECTION I — NEUTRAL MODELING PACKET
+
+## A. CASE, RECORD, AND POSTURE
+
+- **Case Name:** In re Vey
+* **Citation or Docket:** 520 U.S. 303 (1997); No. 96-8005
+* **October Term:** 1996
+- **Entry Stage and Event:** Court-directed motion for leave to proceed in forma pauperis accompanying an original habeas-corpus petition seeking to vacate convictions. No plenary merits grant or Circuit Justice route is established.
+* **Simulated Event Date:** April 14, 1997 (historical)
+* **Question Presented:** Whether the particular current paper and financial showing support leave to proceed without prepayment, and whether supported applicant-specific, category-specific abuse and the inadequacy of individual treatment warrant a prospective condition. Reported filing totals do not themselves establish frivolousness or repetition of claims.
+* **Question Granted:** No plenary grant. The matter concerns disposition of the pending in forma pauperis motion and protection of the Court’s original docket from repetitive abuse.
+* **Court and Judgment Under Review:** No lower-court judgment is under review in this original filing. Vey sought extraordinary relief directly from the Supreme Court.
+- **Relief Requested:** Eileen Vey seeks IFP treatment and a writ of habeas corpus vacating convictions entered thirteen years earlier. The immediate event concerns the fee motion and prospective extraordinary-writ filing conditions; deciding that event does not grant habeas merits review.
+* **Threshold, Preservation, and Vehicle Matters:** Rule 39.8 permits denial of in forma pauperis status for a frivolous or malicious petition. The Court also possesses authority to protect its docket through a tailored prospective order. Any restriction must leave a realistic avenue for nonfrivolous access and should not extend beyond the demonstrated abuse.
+* **Companion or Related Matters:** None identified as a separate matter requiring adjudication.
+- **Participation Matter:** Official opinion checked: no historical case-specific nonparticipation is recorded. The term-effective simulation roster applies with Stone as Chief Justice; no case-specific exclusion or vote is inferred beyond the controlling participation record.
+
+## B. LAW, APPLICATION, LAWFUL PATHS, AND UNCERTAINTY
+
+### Verified filing law and presentation route
+
+The paired entering-law slice supplies the inherited Holdings and Standards and Tests and the effective current-term Gaydos decision of December 2, 1996. Simulated *Zatko v. California* (November 4, 1991) permits a discretionary Rule 39.8 denial only on demonstrated frivolousness of the pending submission, with extreme abuse supporting the exercise of that discretion. It supplies a present-paper fee remedy, not a future filing ban. Simulated *Martin v. District of Columbia Court of Appeals; Martin v. McDermott* (November 2, 1992) requires assessment of each current paper: earlier failures cannot replace a finding that this petition is frivolous or malicious. Its lead motion was granted because a particular argument was arguable; the distinct companion motion was denied on identified defects while retaining a paid route. Those are different holdings, not a categorical grant or denial rule.
+
+For a future restriction, *Martin*, *Day*, both distinct *Sassower* prospective rulings, *Anderson*, and *Shieh and companions* (April 1, 1996) require an applicant-specific and category-specific basis plus a supported connection to the inadequacy of treating particular papers. Retaining a paid route makes a condition narrower but does not supply its missing justification. Neither a universal warning prerequisite, a numerical threshold, exhaustion of every conceivable alternative, nor an absolute prohibition of future conditions is Court law. *Shieh*'s unanimous rule controls; Stone's separate stronger presumption is only his noncontrolling position. *McDonald*, *Sindram*, and *In re Demos* retain supported targeted extraordinary-writ authority within their actual scopes; they cannot establish another person's abuse by analogy alone.
+
+Financial eligibility under Rule 39.1 remains separate. The motion and required affidavit or declaration must establish actual inability to prepay unless an applicable statutory-counsel exception is established. *Shieh* permits assessment and particular clarification of that evidence; it creates no irrebuttable affidavit rule. *Jones v. ABC-TV* prevents defects in underlying claims from automatically disposing of a distinct current challenge to access or review. *Denton* permits identifying clearly baseless factual allegations without resolving genuine disputes through ordinary disbelief, but supplies no complete Rule 39.8 test.
+
+This motion is directed to the Court. The simulation's full-Court referral rule for Circuit Justice stay, injunction, or other interim applications does not create a chambers route, an interim-relief standard, or a plenary merits grant here. Rule 39.8, the actual underlying petition's separate jurisdictional requirements, Rules 33 and 38, and the independent prospective-control showing govern. A denial of financial leave alone neither denies the petition nor authorizes an automatic disposition after a cure date. Any current cure date is part of a proposed order until actually adopted. No historical same-term order or earlier prepared packet is simulated law.
+
+### Application to this original habeas request
+
+Vey seeks to vacate thirteen-year-old convictions by an original writ of habeas corpus. Under 28 U.S.C. § 2241 and Rule 20.4, original habeas remains distinct from financial leave; the petitioner must establish the Court's jurisdiction, exceptional circumstances warranting its discretionary action, and why adequate relief cannot be obtained in another form or court, with applicable exhaustion and statutory restrictions separately addressed. The fee motion neither opens plenary review nor establishes custody, exhaustion, the invalidity of the convictions, or satisfaction of any successive-application rule.
+
+The control-extracted source reports eleven certiorari petitions, twelve extraordinary-writ petitions and two bail applications over six and one-half years. That aggregate mixes three filing categories. It is relevant to inquiry but cannot itself prove this habeas petition frivolous or demonstrate that individual treatment failed in the extraordinary-writ category. Subsequent recovery of the actual current petition and attachments supersedes the original petition-content gap; its particular allegations and their limits appear in the fresh validation section below. Historical judicial characterizations do not replace examination of that paper.
+
+A future condition on all extraordinary writs reaches criminal habeas as well as civil requests. *Anderson* and the extraordinary-writ component of *Sassower* demand a justified fit to that breadth. *Shieh* confirms the separate applicant/category/individual-treatment inquiry; its noncriminal-certiorari application is not a categorical criminal-habeas prohibition. The completed Gaydos decision independently applies the particular-paper and future-category inquiries without adopting a categorical ban on supported prospective controls.
+
+
+## C. DECISION-MATERIAL POSITIONS AND AVAILABLE PATHS
+
+Vey seeks financial leave and original habeas relief from her convictions. The recovered petition supplies specific current allegations, but the scanned paper does not supply a current financial declaration. Her request must be separated from the Court's independent inquiry into a prospective restriction. Mixed-category filing totals establish neither an automatic current-paper denial nor the full scope of a future condition. The source gap concerning financial particulars proves neither inability nor ability to pay, and neither absence of required papers from the Court's file nor litigant default.
+
+A Rule 39.8 denial is available if the complete current paper is shown frivolous or malicious; an adequate financial showing with an arguable paper supports leave without satisfying Rule 20.4 or granting habeas. A terminal financial-eligibility determination requires its own supported facts; an operator research gap does not authorize a new in-world production order. The Court may decline a new prospective condition on the supplied record or impose a supported targeted condition after satisfying the inherited applicant/category/inadequacy requirements. A condition on all extraordinary writs must account for its criminal-habeas reach; no historical noncriminal limitation is presumed. A fee-only ruling does not decide the writ, vacate convictions, or create a plenary grant.
+
+## E. SOURCES
+
+* [In re Vey, 520 U.S. 303](https://www.govinfo.gov/app/details/USREPORTS-520/USREPORTS-520-303) (official historical report).
+* [Oyez docket summary, No. 96-8005](https://www.oyez.org/cases/1996/96-8005).
+* Supreme Court Rules 33.1, 38, and 39.8; Martin v. District of Columbia Court of Appeals.
+
+- **Verified primary case source:** [Official U.S. Reports — record, procedural history and identifiers](https://www.supremecourt.gov/opinions/boundvolumes/520bv.pdf#page=398). The historical outcome is segregated in Section III.
+
+- **Procedural Category:** Court-directed IFP motion / filing-control question
+
+- **Event Type:** Application/financial motion (scheduled consideration)
+
+- **Area of Law:** Original habeas; IFP; filing restrictions
+
+- **Earlier Same-Term Decisions:** Gaydos, December 2, 1996, enters through the paired neutral authority slice. Refresh any materially affected law from earlier-effective chunk-6 adjudications; same-day order alone creates no intervening law.
+
+- **Current Through:** July 1, 1996, authoritative October 7, 2026 OT1995 close (116 Court events and ten admitted sources), plus applicable event-date noncase law. Historical later decisions and prepared OT1996 positions do not enter as holdings.
+
+- **Authority provenance:** [Inherited-law manifest](OT_1996_MANIFEST.md); [Holdings](sources/OT_1996_REFERENCE_HOLDINGS.md); [Standards and Tests](sources/OT_1996_REFERENCE_STANDARDS_AND_TESTS.md). Court holdings govern at their recorded scope; separate writings and proposed positions do not.
+
+## F. FRESH NEUTRAL VALIDATION OF RECOVERED CURRENT PETITION
+
+Sources: ../sources/chunk6-neutral-control/VEY_CURRENT_PETITION_djvu.txt, read in full, with the corresponding scanned PDF available for image verification; Internet Archive item https://archive.org/details/micro_IA40386013_0974 . The catalog labels the item as a certiorari petition, but the actual paper is captioned as an extraordinary habeas petition or, alternatively, a second supplemental paper in No. 95-9203. The operative event remains the supplied No. 96-8005 filing; the alternate caption is not an invented additional docket event. The scan includes the current petition, a two-page Third Circuit staff letter, and a district reopening motion. The control-extracted report in ../runtime/OT_1996CHUNK6_VEY_SOURCE_FACTS.md supplies the event identity and historical filing counts without the present Supreme Court outcome or rationale. Those reported earlier historical Supreme Court outcomes are not silently admitted as in-world rulings.
+
+The petition identifies third-degree-murder and unlicensed-firearm convictions. Vey alleges that she remains on state parole after imprisonment; that she has repeatedly exhausted state review; that insanity, justification arising from abuse and fear for her life, and an exception to the firearm law defeat the convictions; and that new evidence includes brain injury, bipolar illness, lead-related effects, amnesia, and record or physical-evidence tampering. It also alleges counsel abandonment and compelled testimony. These are the petitioner's assertions, not verified medical facts, exhaustion findings, or established constitutional violations. The supposed firearm exception's text and applicability are not authenticated by her reference to it.
+
+The attached reopening motion identifies a particular claimed discrepancy: her psychiatrist's statement allegedly said that she did not know right from wrong, while the prosecutor's material stated the contrary and the magistrate accepted it without resolving the conflict. She alleges she was denied access to the records. This is more specific than a bare assertion that no court ever considered any evidence, but the scan supplies neither competing psychiatric document, the pertinent trial record, nor a finding of falsification. Liberal reading and assessment of the complete paper must preserve that distinction. Neither ordinary disbelief nor the assertion that evidence was unchallenged adjudicates its truth.
+
+The petition identifies Third Circuit No. 97-3025 concerning attempted reopening of Western District of Pennsylvania No. 90-35. The attached staff letter's first page is dated January 27, 1997; its second-page header prints January 27, 1996. Both identify No. 97-3025. The letter states that the notice of appeal will be treated as a certificate-of-appealability application and submitted to a panel, describes optional supporting and opposing submissions, and makes further briefing conditional on a certificate. It grants or denies no certificate and establishes no April 14 status, compliance, or default. The petition therefore identifies an ongoing ordinary avenue alongside its assertion that no other adequate court is available; the availability and adequacy inquiry is not answered solely by the length or number of past filings.
+
+The petition requests release from the convictions and mandamus/prohibition requiring that all charges be dropped. It invokes §§2241, 2242, 2254 and 1651 and refers to appellate routes. Under the operative **Supreme Court original habeas after an authorization-review bar** entry, effective in Felker on June 28, 1996, retained original jurisdiction, the exceptional-circumstances showing, exhaustion or another statutory satisfaction, and inadequate alternative relief remain separate. Section 1651 supplies no independent jurisdiction; circuit authorization is not a prerequisite to filing an original Supreme Court petition. The attachment concerns a certificate-of-appealability application, not an identified §2244(b)(3) authorization decision. No jurisdictional bar governing the latter is automatically transplanted. The current petition alone does not establish a custody defect, exhaustion failure, adequate alternative relief, an exceptional entitlement, or the truth of its convictions challenge.
+
+For Rule 39.8, the strongest supported applicant position asks the Court to consider the particular reopening/record-access contention separately from repeated unsuccessful merits assertions. The strongest screening position asks whether the complete current grounds have an arguable legal and factual basis for the relief sought, rather than treating a long filing history as a substitute for that inquiry. Rule 20's exceptional original-writ threshold is more demanding than nonfrivolousness: failure of the former need not prove failure of the latter. These are analytical paths, not invented respondent papers or proposed votes. Prospective control still requires evidence tying this applicant's actual abuse to the specified category and inadequacy of individual treatment; neither this paper nor the mixed counts supplies undocumented prior claim contents or prior failed narrower measures.
+
+Financial source limit: the petition says that she lacked money to proceed in the earlier No. 95-9203 matter and cannot reproduce its voluminous appendix. No separate current Form 4 affidavit or §1746 declaration is present in the recovered scan. That narrow archival observation supports no finding that required financial material is missing from the Court's file, no financial default, and no new deadline. Under Jones, Shieh and Gaydos, actual means require a separate supported determination. The present-content and prospective-control questions can be modeled from the recovered material, and the original-channel limitations can be assessed separately; a grant or denial specifically premised on current financial eligibility remains source-limited.
+
+In-world cutoff: April 14, 1997. No new fact, compliance assumption, deadline expiration, default, completed appellate action, or routine procedural reconstruction is adopted. No same-matter historical Supreme Court disposition or private position was consulted in this fresh validation.
+

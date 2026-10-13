@@ -1,0 +1,3043 @@
+No. 95-992 
+
+
+IN THE 
+
+
+Supreme Court Of The Anite 
+October Term, 1995 
+
+
+TURNER BROADCASTING SYSTEM, INC.. ez ai. 
+Appellants, 
+
+
+V. 
+
+
+FEDERAL COMMUNICATIONS COMMISSION, ez a/., 
+Appellees. 
+
+
+ON APPEAL FROM THE UNITED STATES 
+DISTRICT COURT FOR THE 
+DISTRICT OF COLUMBIA 
+
+
+Brief for Appellant 
+Time Warner Entertainment Company, L.P. 
+
+
+BRIAN CONBOY ROBERT D. JOFFE* 
+THEODORE CASE WHITEHOUSE STUART W. GOLD 
+WILLKIE FARR & GALLAGHER ROWAN D. WILSON 
+
+
+Three Lafayette Center CRAVATH, SWAINE & MOORE 
+1155 21st Street, N.W. Worldwide Plaza 
+(Suite 6000) 825 Eighth Avenue 
+Washington, DC 20036-3384 New York, N.Y. 10019 
+(202) 328-8000 (212) 474-1000 
+Counsel for Appellant 
+Time Warner Entertainment 
+Company, L.P. 
+
+
+April 26, 1996 *Counsel of Record 
+
+
+— 
+— a 
+
+
+QUESTION PRESENTED 
+
+
+Whether Congress, consistent with the First Amendment, 
+may require all cable operators to carry local broadcast 
+stations in preference to all other programming in the absence 
+of evidence that the economic health of the local broadcasting 
+system is in genuine jeopardy or in need of the protection 
+afforded by forced cable carriage. 
+
+
+il 
+PARTIES TO THE PROCEEDING 
+
+Appellants:” 
+
+Atlanta Interfaith Broadcasters, Inc. 
+
+A&E Television Networks 
+
+Black Entertainment Television, Inc. 
+
+Daniels Cablevision, Inc. 
+
+Discovery Communications, Inc. 
+
+E! Entertainment Television, Inc. 
+
+
+Lifetime Entertainment Services 
+International Family Entertainment, Inc. 
+The Learning Channel, Inc. 
+
+National Cable Satellite Corporation d/b/a C-SPAN 
+National Cable Television Association, Inc. 
+National Interfaith Cable Coalition, Inc. 
+QVC, Inc. 
+
+Time Warner Entertainment Company, L.P. 
+The Travel Channel, Inc. 
+
+Turner Broadcasting System, Inc. 
+
+USA Networks 
+
+
+Appellees: 
+Association of America’s Public Television Stations 
+
+
+* Appellant Time Warner Entertainment Company, L.P.’s (“Time 
+Warmer” or “TWE”) Rule 29.6 disclosure statement is set forth in the 
+Appendix to the Jurisdictional Statement at 147a-148a. 
+
+
+ll 
+
+
+International Television Broadcasting, Inc. 
+Morningstar Communications 
+
+National Association of Broadcasters 
+
+National Council of Senior Citizens 
+
+National Rural Telecommunications Cooperative 
+Office of Communication of the United Church of 
+
+
+TV 58 St. Louis, Inc. 
+United States of America 
+Zantech, Inc. 
+
+
+iv 
+TABLE OF CONTENTS 
+Page 
+ne sen on wok ot sige cane i 
+PARTIES TO THE PROCEEDING ............. ii 
+TABLE OF AUTTRRURIUMES 2c ccc cece cee cess Vii 
+Gee ey, taken $06 ube ue domhwieee l 
+PED ts CaS EVs Wen beet teste be l 
+CONSTITUTIONAL AND STATUTORY 
+FR <0 « 6.0 bees 0.6.2 ecie een l 
+POO ST ed ee l 
+i EN 26 bah CER Ch Kes ce ceaces l 
+B. The First Turner Opinion ............. 2 
+C. The Decision On Remand ............. 4 
+Summary Of The Argument .................. 8 
+REE co onnkéd ios Henenebekaseoewess « 12 
+I. MUST-CARRY DOES NOT FURTHER A 
+SUBSTANTIAL GOVERNMENTAL 
+INTEREST BECAUSE THE LOCAL 
+BROADCASTING SYSTEM IS NOT IN 
+GENUINE JEOPARDY ................. 12 
+A. The Local Broadcasting System 
+Thrived In The Absence Of Must-Carry.... 12 
+1. Significant entry occurred ........... 13 
+2. Broadcast stations had strong 
+financial performance .............. 15 
+3. Broadcast television advertising 
+revenues grew steadily ............. 16 
+
+
+Il. 
+
+
+5. Broadcast stations elect 
+retransmission consent in large 
+
+
+B. Cable Operators Voluntarily Carry The 
+Vast Majority Of Broadcast Stations ...__ . 
+
+
+C. The Few Broadcast Stations Denied 
+Carriage In The Absence Of Must- 
+
+
+MUST-CARRY CANNOT BE UPHELD 
+ON THE GROUND THAT IT 
+PROMOTES THE SPEECH OF A SMALL 
+NUMBER OF MARGINAL 
+a a eae 
+
+
+A. The Defendants Improperly 
+Reformulated Their Burden Below ...... . 
+
+B. Congress Cannot Favor Marginal 
+Broadcasters Without Establishing A 
+
+
+vi Vii 
+
+
+Page TABLE OF AUTHORITIES 
+B. The Must-Carry Provisions Do Not 
+
+Protect Even Marginal Broadcast cae nes Page(s) 
+
+Stations In A Direct And Material Way.... 38 ‘ania Project, Inc. v. Ragland, 
+
+THE MUST-CARRY PROVISIONS set edd Re 47 
+
+IMPOSE A SUBSTANTIAL BURDEN ON Aurora Cable Communications, Inc. \. 
+
+THE PROTECTED SPEECH OF CABLE Jones Intercable, Inc., 720 F. Supp. 600 
+
+OPERATORS AND PROGRAMMERS ...... 39 of a ee 47 
+Brooke Group Ltd. v. Brown & Willi 
+
+A. Must-Carry Severely Restricts The roup rown illiamson 
+
+Seneiel Ehemation Of Codie aa... 3 Tobacco Corp., 113 S. Ct. 2578 (1993) .. . 29 
+B. Cable Operators Cannot Meet Their Brown Shoe Co. v. United States, 370 US. 
+
+sest-Conep Gitianiens Theat ARRAS a lean 29 
+
+“Unused” Channels .................. 41 Buckley v. Valeo, 424 U.S. 1 (1976) ........ 11, 31 
+C. Must-Carry Substantially Burdens Century Communications Corp. v. FCC, 
+
+Programmers’ First Amendment Rights .... 43 835 F.2d 292 (D.C. Cir. 1987), clarified, 
+
+D. ieley iat Meal taleieaniae 837 F2d 517, cert. denied, 486 US. 
+: 1032 (1988) ........ 
+
+The First Amendment Harm To Cable .... 44 ai ame (han he abana 2 
+THERE ARE LESS RESTRICTIVE Inc., 113 S. Ct. 1505 (1993) one 35 
+Aileen ee. lll Se ee ese fee: 
+NONETHELESS EFFECTIVE wet. ae 45 Edenfield Vv. Fane, 507 U.S. 761 (1993) banbee 3, 10, 27 
+\. Sei 4s Elrod v. Burns, 427 U.S. 347 (1976) ....... 4 
+
+R FCC v. Sanders Bros. Radio Station, 309 
+2, SRE In OS Sa x 9+ - -- 46 SS ana 29 
+THE LOW POWER CARRIAGE Int'l Soc'y for Krishna . ra 
+OBLIGATIONS AND MARKET « Lee. 112 ‘ery ane, a 
+MODIFICATION PROVISIONS ARE : errene ce 
+CORI cs os cuttin xetnann coon: 47 ee een. Inc. v. 
+Virginia, 435 U.S. 829 (1978) .......... 
+_THE DISTRICT COURT HAD . (1978) 12 
+Midland Telecasting Co. v. Midessa 
+JURISDICTION OVER TIME 
+WARNER’S TAKINGS CLAIM ........... 48 Television Co., 617 F.2d 1141 (Sth Cir.), 
+va cert. denied, 449 U.S. 954 (1980) ........ 46 
+Cents «oc ciinncntittes < Mieintls a aa nis ty ; ani 
+
+
+th EE Siecud Lodhubsaweseocs 27 
+
+
+Vill 
+
+
+Quincy Cable TV, Inc. v. FCC, 768 F.2d 
+1434 (D.C. Cir. 1985), cert. denied, 476 
+Ua FOND CONE sce sé woes Snes ees 
+
+
+Riley v. National Fed'n of the Blind of 
+N.C., Inc., 487 U.S. 781 (1988) ......... 
+
+
+Rubin v. Coors Brewing Co., 115 S. Ct. 
+SSE GOODE 0 co Nab hans 65s Code ced 
+
+
+Ruckelshaus v. Monsato Corp., 467 U.S. 
+PP GN 6 6h etebh cede iuce eae camer 
+
+
+Sable Communications of Cal., Inc. v. 
+eco 4s BS ee 
+
+
+Simon & Schuster, Inc. v. Members of the 
+New York State Criminal Victims Bd., 
+Fas CED osha Be coos bb su 
+
+
+Sunbelt Television, Inc. v. Jones Intercable, 
+Inc., 795 F. Supp. 333 (C.D. Cal. 1992) ... 
+
+
+Turner Broadcasting Sys., Inc. v. FCC, 114 
+De GR ee co hékewasuceeevases 
+
+
+Turner Broadcasting Sys., Inc. v. FCC, 819 
+F. Supp. 32 (D.D.C. 1993) ............. 
+
+
+Turner Broadcasting Sys., Inc. v. FCC, 910 
+F. Supp. 734 (D.D.C. 1995) ........... 
+
+
+United States v. O’Brien, 391 U.S. 367 
+Gs 0.0 ¢ 00s pecesndetebacheasnan 
+
+
+United States v. National Treasury 
+Employees Union, 115 S.Ct. 1003 
+
+
+47 
+
+
+United States v. Southwestern Cable Co.. 
+ME Ns BU os cic cn cccccce, 
+
+
+Ward v. Rock Against Racism, 491 US. 
+OOPS Ps bee Tig a 
+
+
+WLIG-TV, Inc. v. Cablevision Sys. Corp., 
+879 F. Supp. 229 (E.D.N.Y. 1994) ....... 
+
+
+Statutes 
+
+Ng 
+28 U.S.C. § 1346(a(2) ................. 
+an lal i aaa 
+kt ee ae 
+tina aa ea 
+47 U.S.C. § 521, note 2(a) .............. 
+47 U.S.C. § 521, note 2(b) .............. 
+ce 
+RRR ea Ra 
+oe Ot oy eee 
+Fs 
+
+
+Miscellaneous 
+
+
+H.R. Rep No. 628, 102d Cong, 2d 
+Pot aeELatackbhoevieckie. 
+
+
+In Re Appl. of Univision Holdings, Inc., 
+7 F.C.C. Red. 6672 (1992) ............. 
+
+
+Page(s) 
+
+
+l 
+
+49 
+
+48 
+
+17, 18 
+29 
+
+22, 28, 30 
+29 
+
+2 
+
+5, 15, 47 
+2 
+
+48, 49 
+
+
+OPINION BELOW 
+
+
+The opinion of the three-judge district court is reported 
+at 910 F. Supp. 734 (D.D.C. 1995). It is reprinted in the 
+Appendix to the Jurisdictional Statement at la-112a.! 
+
+
+JURISDICTION 
+
+
+The judgment of the district court was entered 
+December 20, 1995. J.S. 153a. A timely notice of appeal was 
+filed in the district court on behalf of all Plaintiffs on 
+December 21, 1995. J.S. 149a-152a. This Court. pursuant to 
+28 U.S.C. § 1253, noted probable jurisdiction on February 20, 
+1996. 
+
+
+CONSTITUTIONAL AND 
+STATUTORY PROVISIONS 
+
+
+The First Amendment to the United States Constitution 
+provides in part: “Congress shall make no law . . . abridging 
+the freedom of speech, or of the press”. The Fifth Amendment 
+to the United States Constitution provides in part: “(Nor shall 
+private property be taken for public use without just 
+compensation”. Sections 4 and 5 of the Cable Television 
+Consumer Protection and Competition Act of 1992 (the “1992 
+Cable Act” or “Act”), Pub. L. No. 102-385, 106 Stat. 1460 
+(1992), 47 U.S.C. §§ 534, 535, are reprinted at J.S. 113a- 
+143a. 
+
+
+STATEMENT 
+A. Introduction. 
+
+
+This case presents a First and Fifth Amendment challenge 
+to Sections 4 and 5 of the 1992 Cable Act—the so-called 
+“must-carry” provisions. Those provisions impose the most 
+
+
+' Appellants’ Jurisdictional Statement is cited as “JS. _”. The 
+Joint Appendix is cited as “J.A.__”. 
+
+
+ee 
+
+
+2 
+
+
+far-reaching must-carry regime known to date.* Section 4 of 
+the Act requires virtually every cable operator in the Nation 
+to set aside up to one-third of its limited channel capacity for 
+the benefit of “local commercial television stations”, defined 
+to include all full power television broadcasters. 47 U.S.C. 
+§ 534 (b), (h)(1)(A). Section 5 requires virtually every cable 
+operator to set aside up to three channels for the benefit of 
+local “noncommercial educational television stations” and to 
+continue carrying al! such stations whose signals were carried 
+prior to March 29, 1990. Jd. § 535(b), (c). 
+
+
+Plaintiffs’ constitutional challenge to Sections 4 and 5 was 
+originally heard by a three-judge district court, which upheld 
+must-carry by a 2 to | vote. Zurner Broadcasting Sys., Inc. 
+v. FCC, 819 F. Supp. 32 (D.D.C. 1993). 
+
+
+B. The First Turner Opinion. 
+
+
+In 1994, when first reviewing Plaintiffs’ First Amendment 
+challenge to the must-carry provisions, a unanimous Supreme 
+Court held that cable operators and programmers are full- 
+fledged First Amendment speakers and that must-carry 
+restricts their speech. Turner Broadcasting Sys., Inc v. FCC, 
+114.S. Ct. 2445, 2456 (1994). After reviewing the Act and its 
+various findings, a five-Justice majority held that must-carry 
+was content-neutral because “Congress’ overriding objective 
+was not to favor programming of a particular subject matter, 
+
+
+2 Prior to the 1992 Cable Act, the Federal Communications 
+Commission (“FCC”) had promulgated narrower must-carry rules. Those 
+rules were struck down on First Amendment grounds. Quincy Cable TV. 
+Inc. v. FCC, 768 F.2d 1434, 1454-63 (D.C. Cir. 1985), cert. denied, 476 
+U.S. 1169 (1986) (finding the governmental interest unsubstantiated and 
+the rules overinclusive under intermediate First “pr teary In 
+the wake of Quincy, the FCC promulgated still narrower so- 
+called “Century rules”), which were again struck down as violating the 
+First Amendment. Century Communications Corp. v. FCC, 835 F.2d 292, 
+304 (D.C. Cir. 1987), clarified, 837 F.2d 517, cert. denied, 486 U.S. 1032 
+(1988). 
+
+
+3 
+
+
+viewpoint or format, but rather to preserve access to free 
+television programming for the 40 percent of Americans 
+without cable”. /d. at 2461. Those Justices. therefore, 
+subjected must-carry to intermediate First Amendment 
+scrutiny, which requires Defendants to demonstrate that 
+(1) the must-carry provisions further a substantial 
+governmental interest that is unrelated to the suppression of 
+free expression and (2) those provisions are narrowly tailored 
+to further that interest. /d. at 2469-7] (citing Edenfield \. 
+Fane, 507 U.S. 761, 767-68 (1993)). Four Justices dissented 
+on the grounds that the provisions should be analyzed under 
+strict First Amendment scrutiny (with three Justices convinced 
+that must-carry could not survive even intermediate scrutiny). 
+
+
+Based upon the record before the Court, seven Justices 
+found that Defendants had not met their burden under 
+intermediate First Amendment scrutiny. In assessing the 
+Government’s asserted interest, the four-Justice plurality noted 
+the “paucity of evidence indicating that broadcast television 
+is in jeopardy”. Jd. at 2472. The plurality “ound that the 
+Government “must do more than simply ‘posit the existence 
+of the disease sought to be cured’””—namely, the threat posed 
+to the viability of the free, over-the-air broadcasting system 
+by cable television. /d. at 2470 (citation omitted). Rather, the 
+Government must demonstrate that the threat to the 
+broadcasting system is “real, not merely conjectural”, and that 
+if the system is in jeopardy, that must-carry “alleviates that 
+harm in a direct and material way”, without burdening 
+substantially more speech than is necessary. /d. (citations 
+omitted). The plurality therefore vacated the decision below 
+and ordered a remand for further development of the record 
+“before passing upon the constitutional validity of the 
+challenged provisions”. Jd. at 2472. 
+
+
+3 Justice Stevens would have affirmed the district court, but lest no 
+disposition command a majority, ity, concurred in the judgment remanding for 
+
+
+4 
+
+
+The plurality instructed the district court to develop the 
+record regarding: (1) whether “the economic health of local 
+broadcasting is in genuine jeopardy and in need of the 
+protections afforded by must-carry”, id at 2470, and 
+(2) whether the must-carry provisions “burden substantially 
+more speech than is necessary to ensure the viability of 
+broadcast television”, id. (quoting Ward v. Rock Against 
+Racism, 491 U.S. 781, 799 (1989)). The plurality stated that 
+the latter inquiry requires findings regarding two subsidiary 
+issues: (1) “the actual effects of must-carry on the speech of 
+cable operators and cable programmers” and (2) “the 
+availability and efficacy of ‘constitutionally acceptable less 
+restrictive means’”. /d. at 2472 (citation omitted). For each 
+issue, the Court placed the burden of proof on the 
+Government. /d. at 2470. 
+
+
+C. The Decision On Remand. 
+
+
+In May of 1995, after almost one year of discovery, the 
+parties filed cross motions for summary judgment. The three- 
+judge district court granted summary judgment to Defendants, 
+but split three ways. Judge Sporkin upheld must-carry. 
+Notwithstanding this Court’s direction to do so, id., Judge 
+Sporkin disclaimed any need to examine the “economic health 
+of the broadcasting industry as a whole”. J.S. 9a n.11. He 
+found the relevant inquiry to be whether “the health of those 
+broadcasters protected by the must-carry provisions would be 
+in jeopardy without the provisions”. /d. Having so defined the 
+governmental interest at stake, Judge Sporkin concluded that 
+Defendants satisfied the first prong of intermediate scrutiny 
+because they produced evidence “substantial” enough for 
+Congress to draw a “reasonable inference” that cable 
+operators would drop “significant” numbers of stations and 
+that the economic fortune of each such station would 
+
+
+further proceedings. Jd. at 2475. 
+
+
+5 
+
+
+subsequently deteriorate. J.S. 9a-18a.4 Judge Sporkin also held 
+that must-carry did not impose a significant burden on the 
+speech of cable operators because many of the broadcast 
+stations carried pursuant to must-carry were carried by cable 
+operators prior to the enactment of those provisions. J.S. 19a. 
+Finally, he examined five less restrictive alternatives. but 
+rejected each, stating that “it is clear they are not in any 
+respect as effective” as must-carry. J.S. 23a.° 
+
+
+Judge Williams found must-carry unconstitutional. He 
+stated that this Court’s “mandate” required Defendants to 
+show that the “economic health of local broadcasting” is in 
+genuine jeopardy. J.S. 42a, 46a-47a. He concluded that the 
+harm purportedly addressed by must-carry was not “real” 
+under Turner because “(t]he parties agree that there is no 
+threat to the continued viability of broadcast television, either 
+now in existence or looming on the horizon”. J.S. 40a. He 
+found that Defendants conceded that point and that the 
+
+
+* To support that conclusion, Judge Sporkin almost exclusively cited 
+materials that had been available to this Court pre-remand, including a 
+carriage survey by the FCC and testimony by an FCC commissioner. JS. 
+9a-13a. Although this Court invited the parties to submit “additional 
+evidence” on remand that was not before Congress (and the parties did 
+So), Judge Sporkin cited only two quotes from cable executives and made 
+a reference to a “slew of notable experts” and their credentials without 
+mentioning or evaluating what they said. J.S. 12a-14a. He did not mention 
+any of the evidence introduced by Plaintiffs that was available to Congress 
+or that Plaintiffs submitted to the three-judge court. 
+
+
+* Although this Court noted that two provisions of the Act permit 
+the FCC to grant must-carry privileges upon request to otherwise ineligible 
+stations under standards that raised an issue regarding the “content-neutral 
+or content-based character” of the provisions (47 U.S.C. 
+$§ 534(h)(1 (Ci), (bX 2B)), 114 S.Ct at 2460 n6, and those 
+provisions were challenged by Plaintiffs, Judge Sporkin never discussed 
+or ruled on the former provision. He found that the other was “very close 
+to content-based legislation triggering strict scrutiny” but “[did} not cross 
+the line”. J.S. 29a. See infra at pp. 47-48. 
+
+
+6 
+
+
+evidence developed on remand confirmed it. J.S. 50a-6la. 
+Whatever interest there is in preventing anticompetitive 
+behavior, Judge Williams found must-carry “plainly not a 
+remedy narrowly tailored to any such risk”. J.S. 73a. 
+
+
+Judge Williams observed that only if the governmental 
+interest at stake were either the “maximum growth of 
+broadcast, or enhancement of precisely the stations that would 
+elect must-carry against the will of cable operators— 
+interpretations of Turner’s mandate that are manifestly 
+implausible—{could} the posited harms be viewed as real 
+rather than conjectura!”. J.S. 72a-73a. If the congressional 
+interest were the former (the “maximum growth of 
+broadcast’), Judge Williams found that it was so “intuitive[ly] 
+obvious[ ]” that must-carry would help some stations some 
+of the time that this Court would not have remanded the case. 
+J.S. 62a-63a. If the interest were the latter (to protect those 
+stations who invoke it), he found that the Government had 
+failed to demonstrate the importance of that interest, 
+concluding that “({a]ll defendants have demonstrated is that, 
+all else being equal, forced cable carriage is at least of some 
+benefit to the broadcast stations so carried. But this alone can 
+vindicate Congress’s interest only if we take the valid interest 
+to be, circularly, maximum possible expansion for broadcast”. 
+J.S. 66a-67a. 
+
+
+With respect to the harm caused to the First Amendment 
+rights of cable operators and programmers by must-carry, 
+Judge Williams found it undisputed that at least between 7% 
+and 13% of available channels on cable systems nationwide 
+were now commandeered by government fiat for the benefit 
+of broadcasters. J.S. 91a. He concluded that the First 
+Amendment harm was the same regardless of whether a 
+broadcaster invoked must-carry to force its way onto 4 cable 
+system or invoked must-carry to prevent its removal. /d. 
+Moreover, Judge Williams found that according to 
+Defendants’ own data, the majority of cable operators do not 
+
+
+- 
+
+
+have unused channel capacity, J.S. 90a-91a: thus “[e}very 
+benefit to a broadcast station (through being added or being 
+sheltered against removal) is matched by an injury to a cable 
+operator (in lost choice and possibly lost revenue) and 
+programmer (through being dropped or, thanks to a 
+broadcaster’s must-carry entitlement, not added)”. JS. 924 
+(emphasis in original). 
+
+Turning to the issue of less restrictive alternatives. Judge 
+Williams accepted two such alternatives as effectively 
+furthering the Government's interest while burdening less 
+speech. With respect to the first alternative—“the ‘A/B’ or 
+input selector switch”, J.S. 96a—Judge Williams found that 
+Defendants’ main objection was that consumers might not 
+want to “get up” to use it. J.S. 106a.° That objection, Judge 
+Williams concluded, hardly justified the harm caused to cable 
+operators and programmers by must-carry. With respect to the 
+second alternative—“genuinely non-discriminatory 
+entitlements to carriage at regulated rates”, J.S. 96a—Judge 
+Williams posited that, as with other regulated industries, 
+Congress could correct a perceived market “distortion” by 
+regulating rates for access such that broadcasters could 
+compete “on equal terms” with all other programmers. 
+J.S. 98a-100a. He also observed that “[i}f carriage generates 
+for broadcasters the enormous incremental revenues that 
+defendants claim, it is especially odd to find them disparaging 
+the idea that they should pay any of the costs of access to this 
+bonanza”. J.S. 100a.’ 
+
+
+. Judge Williams also noted that this objection was contrary to the 
+FCC's position when defending the Century rules. JS. 103a-104a n.28 
+(“cable subscribers [would] become accustomed to using off-the-air 
+reception on an equal basis with cable service” after a transitional period) 
+(citations omitted). 
+
+v Judge Sporkin dismissed Time Warner's takings claim, stating that 
+Time Warmer could reassert the claim before “the appropriate forum” 
+JS. 28a. 
+
+
+8 
+
+
+Judge Jackson believed a trial was necessary to resolve 
+various fact issues. J.S. 33a. He stated, however, that “{wJere 
+I to follow my own predisposition as a minority of one | 
+would nevertheless prevail by stalemate, which should not be. 
+Thus, obliged to choose between two forcefully argued but 
+contradictory analyses”, he decided to cast his vote with 
+Judge Sporkin, even though he agreed with Judge Williams 
+regarding the nature of the governmental interest at stake— 
+preservation of the local broadcasting system. /d. 
+
+
+Summary Of The Argument 
+
+
+The central question directed by this Court to the district 
+court—“‘whether the Government has adequately shown that 
+the economic health of local broadcasting is in genuine 
+jeopardy and in need of the protections afforded by must- 
+carry’——must be answered with a definitive “no”. Turner, 114 
+S. Ct. at 2470. The undisputed record below establishes that 
+at the time must-carry was enacted (1) the local broadcasting 
+system was in excellent financial condition and had 
+experienced impressive growth in the absence of must-carry; 
+and (2) cable operators voluntarily carried virtually all 
+broadcast stations that had any measurable viewership. 
+Moreover, post enactment, most broadcast stations actually 
+demanded compensation from cable operators for the right to 
+carry the stations’ programming rather than exercise their 
+must-carry rights. Faced with that indisputable evidence, 
+Defendants and their own experts simply conceded below that 
+there was no threat to the well-being of the free, local 
+broadcasting system. Thus, the Government failed to show 
+what this Court had asked it to prove and must-carry must be 
+struck down under intermediate First Amendment scrutiny. 
+
+Prior to the remand proceeding, which demonstrated that 
+there was no threat to the broadcasting system, Defendants 
+agreed that the interest purportedly served by must-carry was 
+the protection of the broadcasting system and that they bore 
+the burden of showing that the system was at risk. In 1992, 
+
+
+9 
+
+
+Defendants argued that absent must-carry, cable operators 
+would exercise their editorial discretion in such a way as to 
+present a serious threat to the viability of the local 
+broadcasting system.® In 1994, the Government argued to this 
+Court that the substantial governmental interest underlying 
+must-carry was the “preserv(ation] [of] the local broadcast 
+industry”. Brief for the Fed. Appellees at 39 (Dec. 7, 1993) 
+(“Gov't App. Br.”).? The Government told this Court that 
+Congress intended to prevent the “devastation [that would be] 
+wrought upon the broadcast industry” without must-carry. 
+Transcript of Oral Argument at 40, in Turner (answers of 
+Solicitor General) (Jan. 12, 1994). 
+
+Rather than adhering to their prior representations and this 
+Court’s remand instructions, Defendants did an abrupt about- 
+face: They disclaimed any obligation on remand to show that 
+the broadcasting system is in jeopardy.'® Instead, Defendants 
+
+
+. See, e.g., National Association of Broadcasting (“NAB”) Corrected 
+Mem. in Opp. to Pl. Mo. for Pre. Inj. at 14 (Nov. 24, 1992) (“risks of 
+anticompetitive harm are so substantial, Congress concluded, that ‘the 
+economic viability of free local broadcast television and its ability to 
+remedial legislation”) (citing congressional findings); NAB Opp. to PI. Mo. 
+for a T.R.O. at 10-11 (Dec. 2, 1992) (stating that cable’s carriage behavior 
+“placed broadcasting’s future in jeopardy” and “could deprive the 40% of 
+American households without cable of the opportunity to receive video 
+programming at all’) (emphasis added). 
+
+
+S See, e.g., Corrected Mem. of the Gov. in Opp. to Pl. Mo. for SJ. 
+at 7 (June 21, 1995) (“Gov't Opp. Br.”) (“Congress did not contemplate, 
+as plaintiffs contend, that the entire broadcast industry is in jeopardy”): 
+Opp. of NAB and INTV to Pl. Mo. for S.J. at 18 (June 16, 1995) (“NAB 
+Opp. Br.”) (“Must-carry was not enacted to prevent the disappearance of 
+free local broadcast television”). 
+
+
+10 
+
+
+argued that must-carry is intended to promote the widest 
+possible dissemination of speech by improving the economic 
+fortunes of the few marginal stations that arguably need the 
+protections provided by forced carriage (mainly UHF stations 
+with no viewership).'’ This Court should reject Defendants’ 
+bald attempt to evade their burden under First Amendment 
+scrutiny. Defendants cannot satisfy any level of First 
+Amendment scrutiny by inventing some hypothetical 
+governmental interest that they stand a better chance of 
+proving. Edenfield v. Fane, 507 U.S. 761, 768 (1993); 
+Simon & Schuster, Inc. v. Members of the New York State 
+Criminal Victims Bd., 502 U.S. 105, 120 (1991). Contrary to 
+Defendants’ assertions, this Court did not find the interest at 
+stake to be naked favoritism for a little watched, eleventh or 
+twelfth broadcast station in a community (which has its own 
+over-the-air means of reaching an audience) at the expense 
+of a cable programmer (which lacks an over-the-air outlet). 
+
+After four years of litigation and three judicial decisions, 
+there should be no dispute regarding the governmental interest 
+at stake. Congress claimed to have enacted must-carry to 
+protect the local broadcasting system for the benefit of the 
+40% of Americans who cannot afford or do not want cable 
+television, not to protect marginal broadcasters who do not 
+attract viewership because of their poor programming and 
+related lack of adequate financial resources. Accordingly, 
+Judge Sporkin erred as a matter of law in crediting the new 
+interest manufactured by Defendants below. 
+
+
+In any event, the interest now put forth by Defendants, 
+unlike the interest recognized by this Court, is fundamentally 
+illegitimate under the First Amendment and properly subject 
+to review under strict scrutiny. This new interest is naked 
+
+
+'' See, e.g, NAB Opp. Br. at 22 (“must-carry will principally 
+protect those broadcast stations most at risk under a system of pure private 
+ordering”); Noll Dep. at 17-18, 60 (J.A. 446-47, 450). 
+
+
+protectionism—"the more the better” interest in improving the 
+lot (and thus enhancing the voice) of one class of speakers at 
+the expense of another. This Congress cannot do. Buckley vy. 
+Valeo, 424 U.S. 1, 48-49 (1976). By abandoning any pretense 
+that the local broadcasting system is in genuine jeopardy, 
+Defendants have also abandoned the “content-neutral”, 
+intermediate scrutiny underpinnings of must-carry—a position 
+that would require the application of strict scrutiny under the 
+First Amendment, which must-carry certainly could not 
+survive. 
+
+
+The must-carry provisions are also constitutionally infirm 
+because they are overbroad. They grant each broadcast station. 
+including financially strong ones, the right to force its way 
+onto cable systems. The record establishes that a substantial 
+number of stations (including powerful and highly profitable 
+network affiliates) have exercised must-carry rights, many to 
+expand greatly the reach of their over-the-air television signal. 
+Likewise, the must-carry provisions apply irrespective of 
+whether a cable system has engaged in anticompetitive 
+behavior or whether a broadcast station has ever been the 
+object of anticompetitive conduct with respect to cable 
+carriage. There simply is no “fit” between the must-carry 
+provisions and the interests that have been asserted. 
+
+
+The undisputed facts below more than substantiate that 
+must-carry imposes a substantial burden on the First 
+Amendment rights of both cable operators and programmers. 
+The number of programming sources seeking carriage far 
+outstrips the number of available channels on virtually every 
+cable system in the Nation. Very few cable operators have 
+unused channel capacity, and when such capacity exists, it is 
+filled quickly. Thus, cable operators must choose from among 
+a wide variety of programming sources to fill their finite 
+channel capacity and create the most desirable package of 
+programming for their viewers. The must-carry provisions 
+directly override those editorial choices and foreclose limited 
+
+
+12 
+
+
+channel capacity that could otherwise go to cable 
+programmers. This governmental restriction on cable 
+operators’ and programmers’ speech is true First Amendment 
+injury. As such, it raises grave constitutional concerns, unlike 
+the economic harm allegedly suffered by a few marginal 
+broadcasters. 
+
+
+Faced with overwhelming evidence that must-carry neither 
+furthers a substantial governmental interest ner is narrowly 
+tailored to advance any such interest, Defendants argued 
+below for undue deference to Congress, claiming that as long 
+as Congress can find some selection of facts—even anecdotal, 
+unreliable facts—to support its “findings”, then an Article III 
+court need look no further. That is at best “rational basis 
+review”—a standard this Court has already unanimously 
+rejected. Turner, 114 S. Ct. at 2456-58. This Court has plainly 
+held that Federal courts must exercise “independent judgment” 
+of the facts and be the ultimate arbiter of constitutionality 
+itself. See Sable Communications of Cal., Inc. v. FCC, 492 
+U.S. 115, 129 (1989); Landmark Communications, Inc. v. 
+Virginia, 435 U.S. 829, 843-44 (1978). Thus, the facts relied 
+upon by Judge Sporkin below—unfounded speculation and 
+conjecture by an FCC Commissioner, industry insiders, and 
+a “slew of notable experts”—cannot justify the burden placed 
+by must-carry on the First Amendment activities of cable 
+operators and programmers. 
+
+Argument 
+
+
+I. MUST-CARRY DOES NOT FURTHER A 
+SUBSTANTIAL GOVERNMENTAL INTEREST 
+BECAUSE THE LOCAL BROADCASTING 
+SYSTEM IS NOT IN GENUINE JEOPARDY. 
+
+
+A. The Local Broadcasting System Thrived In The 
+Absence Of Must-Carry. 
+
+
+The economic health of the local broadcasting system is 
+not in genuine jeopardy or in need of the protections afforded 
+
+
+13 
+
+
+by must-carry. As Defendants’ lead expert, Dr. Roger Noll, 
+testified: “I do not believe that ‘must-carry’ in the current 
+environment is properly characterized as something that has 
+to do with the viability of the entire industry”. Noll Dep. at 
+156 (J.A. 453-54). That conclusion was corroborated by 
+Defendants’ other expert Dr. Harry Shooshan: “So do you 
+need must-carry to support the health of the broadcasting 
+industry as [a] whole today, no”. Shooshan Dep. at 79 
+(J.A. 478).!? Although those concessions are dispositive, the 
+broadcast industry’s performance during the seven-year period 
+in which there were nc must-carry requirements—following 
+the District of Columbia Court of Appeals’ decision in 
+Quincy, 768 F.2d 1434, striking down the FCC’s must-carry 
+rules (July 19, 1985) until the date Congress passed the 1992 
+Cable Act (October 5, 1992)—demonstrates that the 
+broadcasting system is not threatened by the carriage 
+decisions of cable operators. Rather than being jeopardized, 
+broadcasting thrived in the absence of must-carry. The 
+undisputed facts lead to only one conclusion: The problem 
+Congress believed it was addressing with must-carry did not 
+in fact exist. 
+
+
+1. Significant entry occurred. It is uncontested that the 
+number of television stations in operation markedly increased 
+between 1985 and 1992. During that period, the total number 
+of television stations in operation increased from 1,235 to 
+1,506 stations—an increase of 22%. Besen Decl., Exh. 5 
+(compiling data from 7V & Cable Factbook (1995)) 
+
+
+'2 See also Noll Dep. at 79 (J.A. 453) (“I do not believe that over- 
+the-air broadcasting is going to disappear because of the absence of ‘must- 
+carry’); Goodman Dep. at 129-30 (J.A. 340) (corporate representative of 
+the NAB testifying that “[a]s of 1989 the TV industry as a whole looking 
+at gross numbers was not in an economic decline”, and “broadcast 
+television is still the dominant form of TV"—“by a significant margin”). 
+
+
+14 
+
+
+(J.A. 852-53).'> The total number of commercial stations 
+increased from 919 to 1,138 stations (an increase of nearly 
+24%), and the total number of noncommercial stations 
+increased from 316 stations to 368 stations (an increase of 
+nearly 16.5%). Jd. The total number of VHF commercial and 
+noncommercial stations increased from 643 stations to 679 
+stations, and the total number of UHF commercial and 
+noncommercial stations increased from 592 stations to 827 
+stations. Jd. Even the number of UHF independent stations— 
+the only stations that, according to Defendants, face true peril 
+without must-carry (see infra at p. 26}—grew more during the 
+non-must-carry period than any other subcategory of stations: 
+from 246 to 409 stations. /d. Attach. D, Exh. D-2 (compiling 
+data from TV & Cable Factbook (1995)) (J.A. 929).! 
+
+
+‘3 Over the period 1981 to 1991, the broadcast industry witnessed 
+a 39% expansion of its total number of stations. Defendants claim that 
+despite these increases, the broadcast industry is still in “serious economic 
+jeopardy” because the rate of increase in the number of broadcasters 
+slowed during this period. As Judge Williams recognized, “the decline in 
+growth rate is so modest, and persisting growth so robust, there can be no 
+real claim that the numbers prefigure an eventual leveling off of the actual 
+number of stations . . . much less a decline”. J.S. 58a-59a. Defendants also 
+have no answer for the fact that throughout the 1970s, with must-carry in 
+force, there were almost identical rates of increase for broadcasters. See 
+
+
+J.S. 58a, Graph #4. 
+
+
+'4 Not one of the Nation’s approximately 200 television ADIs had 
+fewer commercial broadcast television stations available in 1992 than in 
+1981. Jd. Exh. 11 (J.A. 861-69). Only 5 of the Nation’s ADIs had fewer 
+commercial broadcast television stations available in 1992 than in 1987; 
+and only 2 ADIs had fewer non-commercial television stations. In all but 
+one of those seven instances, the decrease consisted of only one station 
+leaving the air. Moreover, in those seven markets, there were, on average, 
+6.7 broadcast stations remaining after the decrease. /d. (J.A. 861-69, 
+871-79). 
+
+ADIs (“areas of dominant influence”’) are continuous, non-overlapping 
+geographic areas that define, according to their creator, the Arbitron 
+Company, television markets based on households’ measurable television 
+
+
+15 
+
+
+Continuous market entry in terms of new broadcast television 
+stations plainly reflects investor-held evaluations of a 
+prosperous industry. /d. (J.A. 783).'> 
+
+
+2. Broadcast stations had strong financial 
+performance. The undisputed record below indicates that the 
+viability of the average individual television station was not 
+in any economic jeopardy absent must-carry requirements. 
+Based on the NAB’s annual financial survey of commercial 
+television stations, the average television station in every 
+category analyzed by the NAB was profitable in 1992— 
+indeed, highly so. NAB, The Television Industry: 1994 
+Market-by-Market Review (J.A. 275-80).'© Although the exact 
+margin varies depending on the size of the ADI grouping, the 
+cash flow margin in 1992 for the average VHF affiliate 
+ranged between 31.8% and 40.6%, id. App. B at 1 (J.A. 277), 
+
+
+viewing patterns. See All Parties’ Joint Statement of Undisputed Facts 
+"| 38-45 (May 26, 1995) (“Stipulated Facts”). In the 1992 Cable Act. 
+Congress incorporated the “ADI” into the eligibility criteria of the must- 
+carry provisions. See 47 U.S.C. § 534(h)(1). 
+
+
+'S Defendants’ expert Mr. Tom Meek examined the data by parsing 
+it on a quarterly basis from 1985-1992 (representing 28 quarterly periods). 
+He could find only one quarter during that seven-year period (the first 
+quarter of 1990) in which there was a decrease in the total number of 
+stations on the air—the decrease being an admittedly “de minimis” total 
+of two stations. See Meek Dep. at 394-95 (J.A. 444-45). Even then, 
+Mr. Meek acknowledged that the entire year of 1990 witnessed 18 new 
+commercial stations signing on-air. Meek Expert Rep. (J.A. 358). The 
+Association of Independent Television Stations’ corporate representative, 
+Mr. Popham, could not identify any year in which he thought the number 
+of operating stations had declined. See Popham Dep. at 84 (J.A. 346). 
+
+
+'© The survey reports 1992 cash flow margins (the percentage by 
+which revenues exceed operating costs) for average commercial stations 
+grouped by station type (network affiliate or independent, VHF or UHF) 
+and by the size of the station’s ADI. Since the first must-carry elections 
+were not made until the summer of 1993, 1992 cash flow margins 
+represent the last full year prior to the imposition of forced carriage. 
+
+
+16 
+
+
+and the cash flow margin in that year for the average VHF 
+independents ranged from 18.4% to 27.5%, id. App. B at 3 
+(J.A. 279). The financial results for UHF stations were 
+similar. In 1992, the cash flow margin for the average UHF 
+affiliate ranged from a low of 18.6% to 31.1%, id. App. B 
+at 2 (J.A. 278), and the cash flow margin for the average 
+UHF independent ranged from a low of 15.6% to over 28.2%, 
+id. App. B. at 4 (J.A. 280). In 1991, Dr. Mark Fratrik, the 
+NAB’s Economic Research Director, had reported similar 
+findings about the health of individual stations.’ 
+
+
+3. Broadcast television advertising revenues grew 
+steadily. Between 1985 and 1992, the aggregate figures for 
+television advertising revenues reflect strong economic 
+performance for the broadcast industry across the board. For 
+example, broadcast advertising revenues on the three networks 
+increased from just over $8.31 billion in 1985 to $9.46 billion 
+in 1991. TV & Cable Factbook (1993) (J.A. 213). During the 
+same period of time, the advertising typically sold by 
+individual stations—national and local spot—was growing, 
+and at rates even greater than network advertising growth. 
+National broadcast spot advertising increased from $6 billion 
+to $7.1 billion, and local spot broadcast advertising increased 
+from $5.7 billion to $7.6 billion. Jd (J.A. 211). The 
+broadcasting industry itself characterized these revenues as 
+“healthy”.'® Moreover, Judge Williams charted the growth in 
+
+
+'7 NAB, Economic Research Director Memorandum Re: Results 
+from Television Financial Survey (July 19, 1991) (J.A. 117-18) (1990 was 
+a “growth year for television”; the average network (ABC, CBS or NBC) 
+affiliate had $15.9 million in revenues and pretax proiits of $3.6 million; 
+and the average independent station had revenues /arger than those 
+experienced by network affiliates, totaling $16 million in 1990). 
+
+\8 NAB, Advertising Revenues Per Television Household: A Market 
+by Market Analysis (1990) (J.A. 67) (concluding that for the period of 
+1985-1989, total television advertising increased 26.4% per household with 
+or without cable television, national spot advertising increased 23.3%, and 
+
+
+17 
+
+
+advertising revenues for broadcast stations in constant dollars 
+and found that broadcast’s overall gain in gross advertising 
+revenues from 1981 to 1991 was $3.7 billion. J.S. 5Qa-Sla.' 
+
+
+4. A major new network emerged. During the time 
+period that Defendants contend the broadcasting system was 
+in peril because of the absence of must-carry, a fourth major 
+network was born—the Fox Broadcasting System (“Fox”). 
+From its debut in 1986, Fox enjoyed meteoric growth. It drew 
+96 stations nationwide to its affiliate ranks in its first year of 
+operation. Within a few years of launch, Fox had achieved 
+cable carriage on 92% of the Nation’s cable systems. 
+Salhaney Dep., Exh. 18 (J.A. 513). By 1992, there were 140 
+Fox affiliates—nearly entirely comprised of stations formerly 
+from the independent ranks—which provided Fox with over- 
+the-air coverage of more than 95% of the Nation’s television 
+households. /d. Exh. 30 (J.A. 514). And Fox affiliates 
+overwhelmingly elected retransmission consent in 1993 
+(negotiating a carriage agreement with the operator as 
+opposed to forced carriage under must-carry). NAB, 7V Today 
+(July 19, 1993) (J.A. 248-49). The rise of a major 
+broadcasting network in a period without must-carry 
+demonstrates the absence of any relationship between forced 
+carriage and the health of the broadcasting industry as a 
+whole. 
+
+
+5. Broadcast stations elect retransmission consent in 
+large numbers. The extent to which broadcast stations have 
+exercised their mghts under Section 6 of the Act, the 
+retransmission consent provisions, demonstrates their overall 
+health. Those provisions prohibit cable operators from 
+carrying the signals of commercial broadcast stations without 
+
+
+local advertising increased 36.1%). 
+
+
+'9 Judge Williams also found that trends in cable advertising suggest 
+that must-carry has little influence on the competition for advertising 
+between broadcast and cable. J.S. 52a-54a. 
+
+
+18 
+
+
+their consent. 47 U.S.C. § 325(b). A broadcast station must 
+make an election between must-carry rights and 
+retransmission consent (i.¢.. a retransmission consent election 
+foregoes all must-carry rights). /d. § 325(b)(4). In 1993, more 
+than 80% of all commercial broadcast stations (including 90% 
+of stations affiliated with one of the four networks) elected 
+“retransmission consent”, instead of the must-carry provisions, 
+with respect to at least one cable system and thereby forced 
+cable operators to negotiate terms for the right to carry a 
+broadcast signal. Stipulated Facts {fj 120-21. 
+
+
+B. Cable Operators Voluntarily Carry The Vast 
+Majority Of Broadcast Stations. 
+
+
+Contrary to Defendants’ claim that huge numbers of 
+broadcast stations are at risk, the undisputed record establishes 
+that cable operators voluntarily carry virtually all broadcast 
+stations with any measurable viewership. Defendants concede 
+that, on average, cable operators voluntarily carry the first 6 
+to 7 stations in each ADI. See Defendants’ Fact Response 4 7; 
+Gov't Opp. Br. at 16.2! The evidence also demonstrates that: 
+
+
+20 It was undisputed that of those commercial stations alleged to be 
+victims of adverse carriage actions, over 20% elected retransmission 
+consent on cable systems serving most of the cable households in their 
+ADIs. TWE Broadcast Station Rebuttal (June 16, 1995) (J.A. 2275). 
+
+
+21 A Federal Trade Commission (“FTC”) analysis of Defendants’ 
+pre-1992 data reveals that, on average, cable operators carried 8 out of 9 
+available broadcast stations, that “most cable systems voluntarily carry all 
+of their former must-carry stations”, and that “[mJost episodes of non- 
+carriage appear to have involved distantly-located (and duplicated) network 
+signals and relatively low-rated commercial independent stations”. Reply 
+Comments of the Staff of the Bureau of Economics and the San Francisco 
+Regional Office of the Federal Trade Commission, MM Docket No. 90-4 
+(Nov. 26, 1991) (“FTC Staff Study”) (J.A. 160-61, 168). The FTC Staff 
+Study relied on the data from the 1988 FCC survey, that was relied upon 
+by Defendants below and found inconclusive by this Court in 1994. See 
+Cable System Broadcast Signal Carriage Survey Report, FCC Staff Report, 
+Policy & Rules Division of the Mass Media Bureau (Sept. 1, 1988) (“1988 
+
+
+19 
+
+
+* 90% of all local stations with any reportable ratings 
+in non-cable households are carried by cable systems. 
+
+
+* The average cable subscriber receives local broadcast 
+Stations accounting for about 98% of all viewership 
+of local stations by non-cable households. 
+
+
+- A significant percentage of local stations that had no 
+reportable viewership also were carried voluntarily. 
+Besen Decl. (J.A. 778-79, 797-811). 
+
+
+Those facts alone definitively establish that the millions of 
+Americans who do not subscribe to cable will not lose the 
+benefits of a free-over-the air local broadcasting system in the 
+absence of must-carry.? 
+
+
+Defendants’ own evidence also demonstrates that, when 
+a broadcast station cannot obtain carriage on cable systems 
+within an ADI, two facts tend to exist: (1) the broadcast 
+station is in a community that is served by an above-average 
+number of broadcast stations; and (2) the broadcast station has 
+particularly low viewership ratings in its local community.”> 
+
+
+FCC Carriage Survey”) (J.A. 36); 114 S.Ct. at 2471 (deeming 
+questionable the evidentiary weight to be given to the survey). The FCC’s 
+data also revealed that 70% of stations had no instances of non-carriage 
+by any cable system and 80% of cable systems had no instances of non- 
+carriage of any station. FTC Staff Study (J.A. 167-69). 
+
+
+22 Moreover, when Defendants offer figures such as “____ drops”, 
+it must be remembered th: usually . ach drop involves one cable system 
+dropping the station among an average of 53 systems within the ADI. 
+Stipulated Facts 4%] 39-45, 136; Defendants’ Joint Response to Plaintiffs’ 
+Joint Statement of Undisputed Facts Established by the Record 4 16 
+(Aug. 22, 1995) (“Defendants’ Fact Response”). 
+
+
+23 Dertouzos Reb. Decl. at Table A-3 (J.A. 1905) (finding that in 
+communities with less than 3 stations, 100% are carried; less than 4, 94% 
+are carried; less than 5, 90% are carried; less than 7, 86% are carried; 8 
+to 11, 79% are carried; 12 or greater, 72% are carried); Noll Dep. at 60-63 
+(J.A. 450-52) (absence of must-carry would lead to dropping of stations 
+
+
+20 
+
+
+Thus, communities with a relatively small number of 
+broadcast stations are not benefited by must-carry because 
+cable operators within those communities carry all of the 
+available broadcast stations. Likewise, in communities where 
+a broadcast station is more at risk of being dropped by a cable 
+operator (because there are a plethora of stations), cable 
+operators in those communities already carry a large number 
+of broadcast stations.”4 
+
+
+C. The Few Broadcast Stations Denied Carriage In 
+The Absence Of Must-Carry Did Not 
+Deteriorate To A Substantial Degree. 
+
+
+If a substantial number of stations had been dropped or 
+denied carriage in the absence of must-carry and those 
+stations had incurred serious injury, the aggregate trends in 
+the industry would reflect the problem. As shown by the 
+foregoing, they do not. Even those few stations that might 
+have some difficulty obtaining carriage without must-carry— 
+which Defendants identified as the least watched independent 
+UHF broadcast stations (see infra at p. 26)—have not 
+significantly deteriorated because of the carriage decisions of 
+cable operators. The record shows that the number of 
+independent UHF stations during the period without must- 
+
+
+with “lowest audience ratings”; carriage of such stations does not attract 
+subscribers); McLaughlin Aff. (J.A. 2183-84) (citing Defendants’ evidence 
+showing stations most likely to benefit from must-carry were niche 
+stations—home shopping, foreign language or religious stations—with 
+minimal viewership); FTC Staff Study (J.A. 172-74) (finding stations 
+identified in 1988 FCC Carriage Survey had low viewership ratings). 
+24 As Judge Williams found: 
+“It is only those areas in which the airwaves are relatively busy— 
+areas in which concern about the health of local broadcasting would 
+be at a minimum—that cable carriage becomes an issue. Where 
+stations are few and the loss of any one theoretically significant, the 
+defendants’ figures indicate that cable carries the signals voluntarily.” 
+J.S. 72a. 
+
+
+2! 
+
+
+carry grew from 246 to 409 and those stations experienced 
+healthy profit margins. See supra at pp. 14-16. Such growth 
+is waony, inconsistent with an industry in genuine economic 
+
+
+jeopardy.** 
+
+
+Although conceding that the number of UHF stations grew 
+in the absence of must-carry, Defendants contended that those 
+stations would have enjoyed even greater growth with must- 
+carry because, as their lead expert posited, cable television 
+allows UHF stations to expand their market by overcoming 
+their natural “handicap”"—namely, their inferior broadcast 
+signal.7° To the extent that cable television enables most UHF 
+stations to overcome their own natural limitations, that does 
+not mean that those stations are “weakened” by cable 
+operators when they are denied carriage. Rather, they are in 
+the very position they occupy in a world without cable 
+television. As the record shows, UHF stations enjoy healthy 
+growth even when left to compete without the subsidy 
+provided by forced cable carriage.” 
+
+
+- Judge Sporkin deemed it “obvious” that any broadcast station 
+“denied access to the cable system in its local market would suffer 
+financial harm and possible ruin” J.S. 15a (emphasis added). Not only was 
+there no evidence to support that observation, but Judge Sporkin ignored 
+undisputed evidence showing that a broadcast station on average has 
+approximately 53 cable systems within its ADI. See supra at p. 19 n.22. 
+
+
+26 See Noll Decl. § 40 (J.A. 1027-28) (“When viewers subscribed 
+to cable, the UHF stations were received with greater clarity, and 
+sometimes on a valued lower channel number.”); Dertouzos Decl. © 31 
+(J.A. 972) (describing UHF handicap). 
+
+
+27 Moreover, out of the roughly 300 stations identified by 
+Defendants as suffering harm from adverse carriage actions, only fifteen 
+actually left the air. But even for these, causation is suspect at best. One 
+of these left the air because it was hit by a tornado; another because of 
+transmitter damage. See TWE Broadcast Station Rebuttal (J.A. 2384, 
+2401). Three others went off the air, respectively, because of an FCC 
+order; because the station was sold and came back under a new name: and 
+because the station was never licensed. /d. (J.A. 2297, 2355, 2420-21). 
+
+
+22 
+
+
+D. The Local Broadcasting System Is Not At Risk 
+Of Some Future Harm. 
+
+
+Confronted with the undisputed evidence that the local 
+broadcasting system has thrived in the absence of must-carry, 
+Defendants asserted below that Congress made a “predictive 
+judgment” that the local broadcasting system would suffer 
+economic peril in the future from possible actions of cable 
+operators. The First Amendment rights of cable operators and 
+programmers cannot be abridged merely on the basis of 
+speculation about the future conduct of cable operators. 
+United States v. National Treasury Employees Union, 115 
+S. Ct. 1003, 1017 (1995) (citation omitted) (“a ‘reasonable’ 
+burden on expression requires justification far stronger than 
+
+
+mere speculation about serious harms”); Turner, 114 S. Ct. . 
+
+
+at 2470 (holding that the “recited harms” must be “real” not 
+merely “conjectural”’). In other words, Congress cannot restrict 
+speech based on an assumption about a future problem that 
+is not grounded upon some concrete evidence indicating that 
+the perceived problem will in fact become real. The 
+undisputed evidence regarding the health of the broadcasting 
+industry in the absence of must-carry definitively disproves 
+Congress’ “predictive judgment” that cable operators have 
+certain inherent incentives to harm the local broadcasting 
+system. 
+
+Even if the Court looks beyond that undisputed evidence, 
+Congress’ prediction of impending doom for the broadcasting 
+industry is based on assumptions having absolutely no 
+grounding in fact. Congress speculated, for instance, that 
+because cable operators compete with broadcasters in selling 
+advertising time, they have an incentive to drop broadcasters, 
+and will act on that incentive with such frequency that the 
+local broadcasting system is in genuine jeopardy. 47 U.S.C. 
+§ 521, notes 2(a)(15), (16). The record convincingly 
+demonstrates that such a prediction was baseless. 
+
+
+First, the record below is undisputed that (1) revenues 
+
+
+23 
+
+
+from subscribers, not advertisers, are the overwhelming source 
+of revenue in the cable business—indeed, by about a 25:1 
+margin, Paul Kagan Assocs., Cable TV Investor (June 23. 
+1992) (J.A. 196), Kagan Media Index (Feb. 24. 1995) 
+(J.A. 318); and (2) local broadcast programming accounts for 
+approximately two-thirds of total cable viewing hours, S. Rep. 
+No. 92, 102d Cong., Ist. Sess. 35 (1991); McLaughlin Aff. 
+4 22 (J.A. 2182); Clouston Supp. Aff. § 2 (J.A. 1785-86). 
+If cable operators dropped broadcast stations with any 
+significant viewership, they would risk losing subscribers and 
+thus subscriber revenues. Haring Decl. 4 37 (J.A. 1106).?° It 
+is not logical to suggest cable operators will risk their 
+overwhelming source of revenues—subscribership—for the 
+speculative possibility that their modest advertising revenues 
+
+
+28 See Besen Decl. (J.A. 793) (advertising revenues “account for 
+about 4% of total cable system revenues”) (citing Paul Kagan, The Cable 
+TV Financial Data Book 6 (1994) (1993 cable advertising revenues were 
+$984 millon) and Television Bureau of Advertising, Trends in Television 
+i (1994) (1993 broadcast station advertising revenues were $16.2 
+billion). Defendants’ lead expert agrees that “advertising sold by both 
+cable networks and cable systems still accounts for only a few percent of 
+total television advertising”. Noll Decl. € 14 (J.A. 1006). Even by 2002, 
+a leading industry analyst estimates that advertising revenues will not 
+exceed 6% of total cable revenues. Paul Kagan Assocs., Cable TV 
+Advertising (June 22, 1993) (J.A. 235). 
+
+
+°° The FTC Staff Study, analyzing the data compiled in the 1988 
+FCC Carnage Survey, concluded that the drops which did occur were not 
+related to any incentives for advertising dollars. FTC Staff Study 
+(J.A. 179-80) (“First, most systems did not deny carriage to any of their 
+former must-carry stations, indicating either that cable market power in 
+advertising market is absent, or that the likely decrease in audience size 
+and profits from carriage denial is large relative to any anticompetitive 
+gains in advertising revenue. Second, when carriage denial did occur, it 
+often involved stations that either did not sell advertising or that accounted 
+for only a trivial share of the total television advertising market.”). 
+
+
+24 
+
+
+will increase in a significant way.” 
+
+
+Second, Defendants’ evidence indicates that the 
+broadcasters actually threatened with being dropped in the 
+absence of must-carry are the /east-watched sations, precisely 
+those that are most unattractive to advertisers.-’ If cable 
+operators truly had an overriding incentive to win advertising 
+dollars by dropping broadcasters, then they would drop 
+stations with significant viewership (ie., the network 
+affiliates). Defendants concede, however, that virtually all 
+such significant broadcast competitors of cable are voluntarily 
+carried by cable operators and thus do not need must-carry. 
+See infra at p. 26. Defendants’ theory also makes no sense 
+with respect to noncommercial stations, which do not sell any 
+advertising. 
+
+
+Third, it is undisputed that broadcast television has 
+inherent competitive advantages in attracting advertising that 
+will not be altered in the foreseeable future. Stipulated Facts 
+€* 100-05, 107.>2 Also, significant technical difficulties and 
+
+
+30 The undisputed testimony in the record also establishes that cable 
+operators pay scant attention to potential advertising revenues in making 
+programming line-up decisions. See, e.g., Dressler Aff. { 12 (J.A. 1088), 
+Zipin Aff. ¢ 7 (J.A. 1172-73). 
+
+
+3! See, e.g., Noll Dep. at 17-18 (J.A. 446-47); id. at 60 (J.A. 450) 
+(absence of must-carry would lead to dropping of stations of “relatively 
+low audience rating”); id. at 221-22 (J.A. 458) (the less popular a station 
+the more important is must-carry to its welfare); id. at 307-08 (cable 
+stations”); FTC Staff Study (J.A. 160-61) (“Most episodes of non-carriage 
+appear to have involved distantly-located (and duplicated) network signals 
+would be consistent with competitively-determined carriage decisions, and 
+motivated by anticompetitive considerations.”). 
+
+32 See NAB, Television in Transition (Jan. 30, 1990) (3.A. 82-83) 
+(“{b}roadcast TV is the only means of rapidly delivering large blocs of 
+
+
+25 
+
+
+expenses limit cable operators’ ability to sell advertising on 
+all but the most popular cable channels. Zipin Aff. # 10-13 
+(J.A. 1173-74); see also Kinley Aff. 9) 11-13 (J.A. 1131-32) 
+(smaller operators do not sell advertising because of expense). 
+
+
+Fourth, Time Warner pays more than twice as much in 
+carriage fees to cable programming networks than it takes in 
+from advertising insertions on those networks. Zipin Aff. § 8 
+(J.A. 1173). Accordingly, cable operators have a substantial 
+disincentive to carry cable programming services over 
+broadcast television stations that provide similar 
+programming. /d. 
+
+
+Finally, even if a cable operator were inclined to drop a 
+broadcast station to capture that station’s advertising revenues, 
+it could not easily do so. Defendants simply assume, for 
+instance, that advertisers on the dropped broadcast stations 
+will now advertise on cable channels for which the cable 
+operator sells advertising, as opposed to another broadcast 
+station or similar competitor. See Zipin Aff. 4 4 (J.A. 1172). 
+Defendants offer nothing to support that dubious assumption. 
+In fact, Defendants’ evidence on remand indicates that, when 
+a broadcast station loses viewers, other broadcast stations— 
+not cable operators—are the beneficiaries.>° 
+
+
+consumers who can be reached in a variety of program environments 
+suited to achieving maximum involvement and impact”); Zipin Aff. § 18 
+(J.A. 1175) (“TV stations reach the audience in their whole [ADI], while 
+cable systems reach only a limited number of subscribers”). 
+
+
+33 Noll Dep. at 78-79 (J.A. 453) (“[iJt seems to me that if there’s 
+three UHF independents in a city and one is dropped and two aren’t, the 
+two that aren’t dropped benefit’’). 
+
+
+26 
+
+
+Il. MUST-CARRY CANNOT BE UPHELD ON THE 
+GROUND THAT IT PROMOTES THE SPEECH 
+OF A SMALL NUMBER OF MARGINAL 
+BROADCASTERS. 
+
+
+A. The Defendants Improperly Reformulated 
+Their Burden Below. 
+
+
+Faced with the overwhelming evidence developed on 
+remand that the broadcasting system is thriving and that there 
+is no future threat to it, Defendants attempted to shrink the 
+governmental interest purportedly advanced by must-carry, 
+arguing now that must-carry is simply intended to protect 
+certain weak, financially marginal, independent UHF stations 
+with minimal viewership.°* According to Defendants, must- 
+carry is intended to ensure cable carriage of every guch 
+broadcaster, thereby fostering a diverse mix of speech. 
+
+
+Defendants have retreated to an indefensible position. 
+
+
+34 See Noll Dep. at 18 (J.A. 446) (“My expectation would be on the 
+order of 25, 30 percent of the stations that are UHF independents would 
+be significantly affected by being dropped”); id. at 183 (J.A. 458) (“[iJt’s 
+the 25 percent of UHF independent channels”); Defendants’ Fact Response 
+{ 66 (“{I}t is not the health of the average independent station that is at 
+issue here”); id. § 65 (network affiliates “are largely irrelevant to an 
+evaluation of must-carry”); id. | 73 (“a general statistic referring to the 
+entire industry is irrelevant, given the marginal financial condition of UHF 
+independents (the stations most often denied carriage absent must-carry)’’). 
+
+35 Defendants’ Fact Response 11 (“Whether there were ‘at least 
+nine other operating broadcast stations’ in the ADI in which these 
+unconsented adverse carriage actions occurred is irrelevant. The must-carry 
+rules promote, inter alia, the dissemination of information from a 
+multiplicity of sources.”); Gov't Opp. Br. at 6, 13 (must-carry protects 
+“financially weak stations” to ensure “the widest possible dissemination 
+of speech from diverse and antagonistic sources”) (emphasis in 
+original); Public Broadcaster Opp. Mem. to Pl. Mo. for S.J. at 24 
+(June 16, 1995) (Congress aimed to provide “universal access” to all 
+public stations). 
+
+
+27 
+
+
+Defendants cannot satisfy their burden under heightened 
+scrutiny by articulating an interest that was not advanced by 
+Congress, but rather manufactured during litigation. See 
+Edenfield, 507 U.S. at 768 (holding that a party cannot satisfy 
+First Amendment scrutiny “if it appears that the stated 
+interests are not the actual interests served by the 
+restriction”).*© That principle is particularly applicable where 
+(as here) a party attempts to offer the effects of a statute as 
+the governmental interest at stake. See Simon & Schuster, 502 
+U.S. at 120 (disapproving attempt to “take[] the effect of the 
+statute and posit[{] that effect as the State’s interest”).°’ 
+Indeed, Defendants’ position is quite ironic given that they 
+have defended this legislation on the grounds that it contains 
+detailed findings and purposes, none of which mention 
+Defendants’ newfound interest. Defendants simply cannot 
+make up a governmental interest, but rather must defend 
+must-carry based upon Congress’ intended interest. 
+
+
+Congress’ stated justification for the must-carry provisions 
+was that the economic health of the local broadcasting system 
+was in jeopardy, not that a subset of individual broadcasters 
+required forced carriage to improve their profitability.°* 
+
+
+3© See Turner, 114 S. Ct. at 2470 (incorporating the standard from 
+Edenfield for the first prong of scrutiny under United States v. O'Brien, 
+391 U.S. 367 (1968)); Mississippi Univ. for Women v. Hogan, 458 U.S. 
+728, 730 (1982). 
+
+
+37 By equating the effects of must-carry with its purpose, Defendants 
+not only hope to evade their burden under the “substantial interest” prong 
+of First Amendment scrutiny, but also seek to make must-carry “appear” 
+self-evidently narrowly tailored. Simon & Schuster, 502 U.S. at i20 
+(holding such an approach could “sidestep judicial review of almost any 
+Statute, because it makes all statutes look narrowly tailored’). 
+
+
+38 In striking down the previous must-carry rules under the First 
+Amendment, the Quincy court explicitly noted the Government’s asserted 
+interest: “the distinction is critical, the rules seek to protect local 
+broadcasting and not local broadcasters”. Quincy, 768 F.2d at 1460 
+
+
+28 
+
+
+Congress expressly predicted that, in the absence of must- 
+carry, “the economic viability of free local broadcast 
+television and its ability to originate quality local 
+programming will be seriously jeopardized”, 47 U.S.C. § 521, 
+note 2(a)(16), “especially for viewers who are unable to 
+afford other means of receiving programming”, id. § 521, 
+note 2(a)(12). Likewise, the Act states that must-carry “is 
+necessary to serve the goals contained in section 307(b) of the 
+Communications Act of 1934 of providing a fair, efficient, 
+and equitable distribution of broadcast services”. 47 U.S.C. 
+§ 521, note 2(a)(9). The meaning of Section 307(b) has been 
+clarified by Congress and this Court: “The Commission has 
+concluded, and Congress has agreed, that these 
+[Section 307(b)]} obligations require for their satisfaction the 
+creation of a system of local broadcasting stations, such that 
+‘all communities of appreciable size (will) have at least one 
+television station as an outlet for local self-expression””. 
+United States v. Southwestern Cable Co., 392 U.S. 157, 173- 
+
+
+74 (1968) (citation omitted).°*? 
+
+
+Congress’ intent could not be more clear: It justified must- 
+carry as vital to the preservation of the allocation system 
+created by Congress and administered by the FCC for the 
+benefit of non-cable viewers—the goal of which is to ensure 
+that every community has access to a minimum amount of 
+television broadcast service. That purpose is consistent with 
+the longstanding policy of the Communications Act to 
+encourage competition, not to protect individual broadcasters 
+
+
+(citations omitted) (emphasis in original). 
+
+39 See also Turner, 114 S. Ct. at 2469 (“Congress designed this 
+system of allocation to afford each community of appreciable size an over- 
+the-air source of information and an outlet for exchange on matters of 
+local concern”) (emphasis added). 
+
+
+29 
+
+
+from competition.*? Congress did not enact must-carry to 
+force a cable operator to provide its viewers with every 
+available broadcast station in an ADI, making the eleventh or 
+twelfth station just as important as the fourth.*! 
+
+
+The legislative history of the 1992 Cable Act also reveals 
+that the purpose of must-carry is nothing less than the 
+preservation of the system of broadcast television, not 
+individual stations. The Senate Report could not be more 
+clear. See S. Rep. at 36 (purpose is preventing “our system 
+of free broadcasting” from being “replaced by a system which 
+requires consumers to pay for television service”); id. at 42 
+(“absent legislative action, the free local off-air broadcast 
+system is endangered”); id. at 60 (“governmental interests at 
+issue here involve the preservation of the system of local 
+television broadcasting”). The House Report is to the same 
+effect: “The governmental interests at issue here involve the 
+
+
+40 See 47 U.S.C. § 521(6) (purpose of Act is to “promote 
+competition”); id. § 521, note 2(b)(2) (intent to “rely on the market place, 
+to the maximum extent feasible”); FCC v. Sanders Bros. Radio Station, 
+309 U.S. 470, 475 (1940) (“it is not the purpose of the Act to protect a 
+licensee against competition but to protect the public”; a broadcaster must 
+“survive or succumb according to his ability to make his 
+attractive to the public”); Jn Re Appl. of Univision Holdings, Inc., 7 F.C.C. 
+Red. 6672, 6680 (1992) (stating that “it is not the purpose of the 
+{Communications} Act to protect a licensee against competition but to 
+protect the public”). Indeed, Congress’ stated interest is analogous to the 
+well-established principle that the antitrust laws do not protect competitors, 
+but rather competition. See Brooke Group Ltd. v. Brown & Williamson 
+Tobacco Corp., 113 S. Ct. 2578, 2588-89 (1993) (“It is axiomatic that the 
+antitrust laws were passed for ‘the protection of competition, not 
+competitors”) (quoting Brown Shoe Co. v. United States, 370 U.S. 294, 
+320 (1962)). 
+
+
+*! See S. Rep. at 60 (“Whether the access of cable subscribers to 
+any particular viewpoint or the preservation of any individual television 
+station might be placed at risk in the absence of signal carriage regulations 
+
+
+is not the issue”’). 
+
+
+30 
+
+
+preservation of the system of local television broadcasting and 
+access to local television stations’ programming for 
+subscribers to cable television and the substantial minority of 
+consumers who cannot or do not subscribe to cable 
+television”. H.R. Rep. No. 628, 102d Cong., 2d Sess. 65 
+(1992) (emphasis added).*” 
+
+
+This Court stated, based upon its “review of the Act and 
+its various findings”, that “Congress’ overriding objective in 
+enacting must-carry was ... to preserve access to free 
+television programming for the 40 percent of Americans 
+without cable”. 114 S. Ct. at 2461 (emphasis added). The 
+Court expressly noted that Defendants were in agreement: “In 
+defending the factual necessity for must-carry, the 
+Government relies in principal part on Congress’ legislative 
+finding that, absent mandatory carriage rules, the continued 
+viability of local broadcast television would be ‘seriously 
+jeopardized’”. Jd. at 2470 (citing 47 USC. § 521, 
+note 2(a)(16)). Throughout its opinion, Pe Court used 
+different formulations of this same interest.*? Thus, the Court 
+
+
+42 Congress also stated that its interest in diverse speech was not 
+an end in itself, but rather was advanced by preserving the local 
+broadcasting system: 
+
+“The almost 40 percent of American television households which do 
+
+not have cable service will, as a consequence, be deprived of local 
+
+program service and the diverse voices that existing local television 
+stations provide. They will either lose this diversity entirely or be 
+forced to become cable subscribers, effectively losing the benefits of 
+
+the system of free local broadcasting”. S. Rep. at 59; H.R. Rep. at 64. 
+
+
+43 See, e.g., 114 S. Ct. at 2455 (“the economic viability of free local 
+broadcast television ... will be seriously jeopardized”); id. at 2461 
+(“Congress sought to avoid the elimination of broadcast television”); id. 
+(“the provisions are designed to guarantee the survival of a medium that 
+has become a vital part of the Nation’s communication system, and to 
+ensure that every individual with a television set can obtain access to free 
+television programming”); id. at 2467 (“Congress granted must-carry 
+privileges to broadcast stations on the belief that the broadcast television 
+
+
+31 
+
+
+remanded for a determination of “whether the Government 
+has adequately shown that the economic health of local 
+broadcasting is in genuine jeopardy and in need of the 
+protections afforded by must-carry”. /d. 
+
+
+Defendants’ abnegation of any responsibility to meet that 
+standard—indeed, their abnegation of their own formulation 
+of the governmental interest at stake when previously before 
+this Court (see supra at p. 9)—is extraordinary. Conceding 
+that the burden must-carry imposes on the speech of others 
+cannot be justified as necessary to preserve the benefits of the 
+local broadcasting system for the millions of Americans who 
+cannot afford or do not want cable television, Defendants now 
+defend must-carry as a welfare scheme for those few 
+individual broadcast stations not carried precisely because the 
+marketplace for speech has deemed their programming less 
+valuable than countless other alternatives, including cable 
+programming and other broadcast stations. Defendants thus 
+defend must-carry, as Judge Sporkin did, on a single 
+protectionist interest: It serves the interest of assisting those 
+marginal broadcasters that invoke its protections. This Court 
+should reject this eleventh-hour reformulation of the interest 
+at stake. 
+
+
+B. Congress Cannot Favor Marginal Broadcasters 
+Without Establishing A Compelling Interest In 
+Such Favoritism, Which It Cannot. 
+
+
+Even if the Court considers Defendants’ newly-invented 
+interest, we submit that restricting the speech of all cable 
+operators and programmers for the purpose of promoting the 
+speech of a handful of marginal broadcast stations is “wholly 
+foreign to the First Amendment”. Buckley, 424 U.S. at 48-49. 
+A unanimous Court in Turner held “that laws favoring some 
+speakers over others demand strict scrutiny when the 
+
+
+industry is in economic peril”). 
+
+
+32 
+
+
+legislature’s speaker preference reflects a content preference”. 
+114 S. Ct. at 2467. Under that principle, a law must be 
+subject to strict First Amendment scrutiny where (as here) it 
+seeks to create a diverse mix of speech by favoring a few 
+undervalued speakers—the small number of marginal, 
+financially weak broadcasters—at the expense of other 
+speakers—the cable programmers who are displaced by 
+broadcasters electing carriage under must-carry. 
+
+
+In holding that the must-carry provisions are content- 
+neutral, this Court, at Defendants’ urging, placed particular 
+~ emphasis on Congress’ claimed interest in preserving the free 
+over-the-air broadcasting system for the 40% of this Nation 
+without cable television. The majority stressed that although 
+the must-carry provisions posit the “widespread dissemination 
+of information” as a value, 114 S. Ct. at 2470, they seek to 
+achieve that value by preserving the viability of the 
+broadcasting system, not by favoring certain undervalued 
+broadcasters at the expense of other speakers. Jd. at 2461; see 
+also Quincy, 768 F.2d at 1460 (describing goal of protecting 
+individual broadcasters through a must-carry regime as 
+“fundamentally illegitimate”). By elevating one of the 
+purported benefits of the local broadcasting system (the 
+widespread dissemination of diverse speech) into an end in 
+itself, Defendants now justify must-carry on content-based 
+grounds. If Defendants’ claimed interest is to be considered, 
+the most exacting First Amendment scrutiny is triggered. 
+
+
+Defendants simply cannot explain why Congress has a 
+compelling interest in forcing cable operators to carry little- 
+
+
+“4 See also Int’! Soc'y for Krishna Consciousness, Inc. v. Lee, 112 
+S. Ct. 2711, 2716-17 (1992) (Kennedy, J., concurring in part) (holding 
+por . - in the market place of ideas) 
+not by authorizing government intervention in te) . 
+Riley v. National Fed'n of the Blind of N.C., Inc., 487 U.S. 781, 790-91 
+(1988) (same). 
+
+
+33 
+
+
+watched, marginal broadcasters at the expense of competing 
+cable programmers without referring to the content of speech. 
+For instance, the NAB argued in its motion to affirm that 
+Congress enacted must-carry to "increase{] the likelihood" that 
+noncable households will have access to “religious stations. 
+foreign language stations, educational programming, and other 
+services that serve special needs". NAB’s Mo. to Aff. at 22 
+(Jan. 22, 1996). In the court below, Defendants argued that 
+“[t]o promote a multiplicity of information sources for those 
+Americans who do not subscribe to cable, Congress may 
+protect broadcast stations with limited but perhaps specialized 
+audiences”. Defendants’ Fact Response § 28. Similarly, the 
+Government argued that Congress could force cable operators 
+to carry little watched broadcast stations at the expense of 
+cable programmers because the “central principle underlying 
+the must-carry rules” is that “‘even the lowest rated stations 
+. attract audiences that are as large or larger than most 
+cable networks". Gov’t Opp. Br. at 43 (quoting Noll Reb. 
+Decl. 4 11).4° That “central principle” offered below— 
+promoting the speech of those broadcasters the Government 
+deems more worthy of an audience at the expense of cable 
+programmers—is undeniably content-based. 
+
+
+*° See also Defendants’ Fact Response § 171 (“purpose of the must- 
+carry requirements is to promote the quality of programming service that 
+broadcasters can provide”); NAB Opp. Br. at 9 (citing legislative history 
+from the House Report noting that the purpose of must-carry is to a 
+promote “a broad array of views and programs” from sources 
+“antagonistic” to cable operators). 
+
+
+a In effect, because over-the-air broadcast stations are already one 
+of the beneficiaries of governmental approval of their speech through the 
+license allocation and renewal procedures, must-carry conveys yet another 
+affirmation of the value the government finds in their programming—one 
+that is inherently content-based. 
+
+
+34 
+
+
+C. Defendants’ Newly Claimed Interest Does Not 
+Address A Real Problem. 
+
+
+Defendants and Judge Sporkin failed to explain what 
+problem Congress was purportedly redressing by enacting a 
+law that discriminates against virtually every cable 
+programmer and operator merely to give marginal 
+broadcasters (often the eleventh or twelfth broadcast station 
+in an ADI) a competitive advantage, particularly where the 
+broadcaster (unlike the disfavored cable programmer) may 
+broadcast its programming over-the-air. There clearly is no 
+such “substantial” governmental interest. All Defendants have 
+offered as a problem is conjecture that there is a lack of 
+diversity. However, they never explain why cable subscribers 
+in each community must have access to the maximum number 
+of broadcast stations possible—a number that varies from ADI 
+to ADI so that viewers in New York City have access to 2] 
+stations while those in Kansas City, Missouri have only 9. 
+
+
+In any event, the record below indicates that diversity is 
+not lacking in the video programming market. Cable operators 
+exercise their editorial discretion to provide as diverse a 
+package of speech as possible in order to attract as many 
+viewers as possible. Ironically, the must-carry provisions 
+actually reduce the diversity of speech available to the public 
+by forcing cable operators to carry unwatched broadcasters 
+at the expense of cable programmers. Congress certainly does 
+not promote diversity when it gives a minority of marginal 
+broadcasters a license to override every cable operator’s 
+editorial decisions. 
+
+Ill. THE MUST-CARRY PROVISIONS ARE NOT 
+NARROWLY TAILORED TO FIT ANY OF THE 
+INTERESTS POSITED BY DEFENDANTS. 
+
+
+A. The Must-Carry Provisions Are Overbroad. 
+
+
+The must-carry provisions also must be struck down 
+because they are ill-tailored to advance either Defendants’ 
+
+
+35 
+
+
+newly invented interest (improving the health of a small 
+number of financially weak broadcasters) or Congress’ stated 
+interest (preserving the viability of the broadcasting system). 
+Defendants conceded below that most broadcast stations, 
+including network affiliates, do not need the protections 
+purportedly provided by must-carry.*’ Yet, the must-carry 
+provisions endow every local broadcast station with a right 
+to mandatory carriage without regard to whether the viability 
+of the particular station is at issue. Even the most financially 
+healthy stations can—and do—elect carriage through must- 
+carry. That fact makes must-carry grossly overbroad. 
+
+
+The undisputed record shows that network affiliates and 
+other profitable broadcast stations are electing must-carry 
+status in large numbers. An NAB survey establishes that the 
+vast majority of network affiliates—77.9% of ABC affiliates, 
+79.4% of CBS affiliates, 74.5% of Fox affiliates, and 74.3% 
+of NBC affiliates—have forced carriage on at least one cable 
+system within each of the over 200 ADIs in the Nation. NAB, 
+1993 Cable System Election Survey (J.A. 208). The same 
+NAB survey also establishes that almost all independent 
+commercial stations—94.7%—have made at least one must- 
+carry election in each ADI they cover. /d.** 
+
+
+The data submitted by Defendants’ expert Meek 
+corroborate the NAB’s survey. Meek’s data indicate that, from 
+
+
+*” Defendants’ Fact Response { 7 (without must-carry “cable 
+operators carried ‘most’ broadcast television stations”, including “network 
+affiliates”). 
+
+“ Where a statute’s effects are not consistent with Congress’ stated 
+objective, the statute cannot be considered narrowly tailored. See, e.g. 
+Rubin v. Coors Brewing Co., 115 S.Ct. 1585, 1593 (1995) (“the 
+wrationality of this unique and puzzling regulatory framework” ensures 
+that the labeling ban fails to achieve its purported end); City of 
+Cincinnati v. Discovery Network, Inc., 113 S. Ct. 1505, 1510 (1993) 
+(invalidating ban on certain newsracks because City failed to meet its 
+“burden to establish a ‘reasonable fit’ between” ends and means). 
+
+
+36 
+
+
+1993 to 1994, 115 ABC affiliates, 107 CBS affiliates and 108 
+NBC affiliates were added to cable systems within their ADIs 
+under must-carry. Meek Decl. #J 107-11, Exh. U. If Meek’s 
+data are cross-referenced with the financial data collected for 
+the NAB from nearly every television station by Price 
+Waterhouse, the data reveal that scores of highly profitable 
+network affiliates—some with revenues in excess of 
+$120 million—have utilized must-carry to force their way 
+onto cable systems. See Revenue Charts, TWE Opp. Mem. to 
+Def. Mo. for S.J. at 8-17 (June 16, 1995) (“TWE Opp. Br.”) 
+(J.A. 2235-41) (incorporating data from /993 Price 
+Waterhouse Television Financial Surveys). Similarly, the 
+record demonstrates that many independent commercial 
+stations with strong profits have elected must-carry. /d. Thus, 
+far from preserving the viability of the local broadcasting 
+system (or even the weakest broadcasters), the must-carry 
+provisions provide a financial windfall to already prosperous 
+broadcasters. *” 
+
+
+Moreover, must-carry sweeps within its mantle virtually 
+all cable operators and dispenses benefits to virtually all 
+broadcast stations without regard to whether a particular cable 
+operator engaged in an anticompetitive act or whether a 
+particular broadcast station was harmed by such an act. Such 
+a blunderbuss approach is clearly overbroad. Indeed, the facts 
+
+
+49 In many instances, financially healthy broadcast stations use must- 
+carry to compel carriage on systems located beyond their signal's natural 
+reach. For example, 107 CBS affiliates demanded must-carry on 217 cable 
+systems; however, 188 of those 217 instances of forced carriage (87%) 
+were on cable systems located further than 35 miles from the CBS 
+affiliate. Cf Meek. Decl. Exhibit U (all added commercial stations within 
+an ADI) with Exhibit V (all such stations with 35 miles of a cable 
+operator). See also Klein Aff. *¥ 27, 28 (J.A. 1143-44); Meek Dep. at 169 
+(J.A. 442-43) (broadcasters use microwave relay to reach other markets). 
+Thus, the must-carry provisions allow profitable broadcast stations to 
+compel carriage in distant locations not even conceivably material to their 
+economic health. 
+
+
+37 
+
+
+below demonstrate that most cable systems do not engage in 
+anticompetitive behavior, but rather carry the vast majority of 
+broadcast stations and nearly all stations with any measurable 
+viewership. See supra at pp. 18-20. 
+
+
+There plainly is no fit between must-carry and 
+Defendants’ conjectured concerns with vertical integration in 
+the cable industry. Judge Williams recognized that must-carry 
+imposes the same restrictions on both vertically integrated and 
+non-vertically integrated cable operators, although the latter 
+clearly do not have the incentives that Defendants hypothesize 
+vertically integrated operators do. J.S. at 96a-98a. Thus. “for 
+the class of non-vertically integrated cable operators, must- 
+carry levels a playing field that was not tilted to begin with”. 
+J.S. 97a (Williams J., dissenting). Similarly, a cable operator 
+who has invested in only one programming service must 
+nonetheless set-aside a substantial portion of its channels for 
+broadcast stations. “A ‘solution’ that preempts 20 channels in 
+order to provide ‘fair competition’ on one plainly burdens 
+more speech than is necessary”. /d. Finally, if vertical 
+integration were any problem to be redressed, must-carry is 
+hopelessly underinclusive by failing to protect independent 
+cable programmers in any way. Indeed, must-carry allegedly 
+protects one class of non-vertically integrated programmers 
+(broadcasters) by affirmatively harming another class of non- 
+vertically integrated programmers (independent cable 
+programmers). 
+
+
+ad Given this lack of fit, it is dubious that Congress even intended 
+to address vertical integration issues through must-carry. In fact, “[tJhe full 
+committee rejected must-carry as a remedy to speculative allegations of 
+program discrimination because, in its view, the must-carry remedy would 
+not properly address the alleged discrimination”. H.R. Rep. at 173 
+(additional views). 
+
+
+38 
+
+
+B. The Must-Carry Provisions Do Not Protect 
+Even Marginal Broadcast Stations In A Direct 
+And Material Way. 
+
+
+The must-carry provisions are ill-designed to protect even 
+marginal broadcast stations “in a direct and material way”. 
+Turner, 114 S.Ct. at 2470. Defendants have made no 
+showing that those local broadcast stations that allegedly need 
+the must-carry provisions experience any increase in 
+viewership even after they force their way onto cable systems. 
+The undisputed evidence demonstrates that they do not.*! The 
+point is quite simple: Television viewers do not want to watch 
+bad programming. As the Government stated to this Court in 
+1994: “{i]f a commercial station lacks an audience, it 
+eventually will fail, whether or not it is available to cable as 
+well as non-cable households”. Gov’t App. Br. at 41 n.28; see 
+also NAB Mo. to Aff. at 22 (Jan. 22, 1996) (must-carry could 
+only “increase the likelihood” that some stations may 
+survive). Thus, what is needed to address these stations’ 
+difficulties is a “must-watch” law, not a must-carry law. 
+
+
+Although this Court placed the burden on Defendants to 
+establish that stations actually suffered severe economic injury 
+as a result of cable operators’ behavior, nowhere have 
+Defendants made any systematic attempt to establish the 
+absence of must-carry as the cause of a marginal station’s 
+failure. Instead, they presented to the district court roughly 
+300 specific cases where a broadcaster was denied carriage 
+or moved to another channel by one or more of the cable 
+systems in its ADI, claiming that each was a casualty of a 
+
+
+5! Rather, the evidence demonstrated that these stations go from 
+being the least-watched local broadcast stations to being the least-watched 
+local broadcast stations on a cable systems. McLaughlin Aff. ¥¥ 2(b), 9-18 
+(J.A. 2171, 2175-79). There was no statistically significant increase in 
+these stations’ viewership after having been added to Time Warner’s 
+systems as a result of must carry elections. Jd. Exh. 5 (J.A. 2188). 
+
+
+39 
+
+
+cable operator’s anticompetitive behavior. The facts of each 
+particular circumstance are immaterial given the absence of 
+any genuine threat to the broadcasting system. See supra at 
+pp. 12-25. Nevertheless, Time Warner rebutted their claims 
+by investigating every one of the so-called “victims” of 
+adverse cable carriage. Time Warner discovered that, in fact, 
+from all of the approximately 300 alleged victims, only 15 
+commercial stations actually left the air and only 9 
+noncommercial stations actually alleged quantified financial! 
+harm that was not de minimis. 
+
+
+IV. THE MUST-CARRY PROVISIONS IMPOSE A 
+SUBSTANTIAL BURDEN ON THE PROTECTED 
+SPEECH OF CABLE OPERATORS AND 
+PROGRAMMERS. 
+
+
+A. Must-Carry Severely Restricts The Editorial 
+Discretion Of Cable Operators. 
+
+
+Cable operators undeniably engage in protected First 
+Amendment activity by selecting, editing, packaging, and 
+(increasingly) creating programming services to provide their 
+subscribers.”~ See Turner, 114 S. Ct. at 2456. To program its 
+channels, a cable operator may select programming from 
+among approximately 128 national cable networks, 40 
+regional cable networks, as well as any local broadcast 
+pay-per-view. Defendants’ Fact Response 4107. As of 
+October, 1994, 86% of the cable systems in the United States 
+
+
+‘2 TWE Broadcast Station Rebuttal (J.A. 2274-80); TWE Reply 
+Mem. in Support of Its Mo. for S.J., Exhs. A & B (June 30, 1995) 
+(J.A. 2243, 2255) (“Rebuttal Charts”). 
+
+
+°3 Cable operators are also programmers. They often create 
+programming services (e.g, Time Warner's NY1, a 24-hour news 
+programming service focusing on New York City) that provide as much 
+(if not more) programming responsive to local issues than broadcast 
+stations electing must-carry. Collins Aff. 4 4 (J.A. 217). 
+
+
+40 
+
+
+provided fewer than 54 channels of service to their 
+subscribers. Jd. 4 112. The cable operator’s goal is to fill its 
+limited channel capacity with a diverse package of 
+programming that appeals to the widest possible audience and 
+thus attracts the most subscribers. 
+
+
+The must-carry provisions directly override the editorial 
+discretion of cable operators by forcing them to dedicate finite 
+channel capacity to broadcast stations that they might not 
+otherwise carry—for the most part little watched UHF 
+stations. The most direct measure of that harm is the number 
+of all broadcast stations carried under the must-carry 
+requirements, whether or not those stations were added after 
+the implementation of must-carry. J.S. 9la (Williams, J., 
+dissenting). In terms of First Amendment harm, there is no 
+difference between a cable operator forced to carry a 
+broadcast station and a cable operator indefinitely prevented 
+from removing a broadcast station, just as there is no 
+difference between a newspaper forced to carry another 
+paper’s columnist and a newspaper forever prohibited from 
+removing that columnist.” 
+
+
+The must-carry provisions have clearly had a dramatic 
+impact on the editorial discretion of all cable operators. The 
+undisputed facts below indicate that between 7% and 13% of 
+the average cable operator’s channel capacity is occupied by 
+must-carry stations. J.S. 91a; see also Peterman Decl., Exh. 2 
+(J.A. 1152-54).55 In effect, the Government commanders at 
+
+
+54 The channel positioning requirements of must-carry also restrict 
+the ability of cable operators to create the package of programming they 
+believe will meet the needs of their subscribers. Ellis Aff. { 4 (J.A. 1091- 
+92); Gault Aff. 917 (J.A. 1097). Under the must-carry provisions, 
+broadcast stations literally force their way onto a cable operator’s basic 
+tier of service and claim the most desirable channel positions on a cable 
+system. 
+
+55 Even based on Defendants’ most conservative estimate, there are 
+
+
+4] 
+
+
+least that percentage of a cable operator’s speech on each 
+system and substitutes its own preferred speakers. As Judge 
+Williams recognized, “[t]his forced carriage—whether in the 
+form of a required addition to a cable system (requiring the 
+operator to eliminate programming) or a mandatory retention 
+(preventing the operator from adding new programming)—is 
+a tangible burden on operators’ speech”. J.S. 91a.>° 
+
+
+B. Cable Operators Cannot Meet Their Must- 
+Carry Obligations Through “Unused” Channels. 
+
+
+The record demonstrates that at any point in time the vast 
+majority of cable systems have no unused channel capacity, 
+and that where there is excess capacity, it is quickly filled. 
+The trend in the industry suggests that channel capacity will 
+remain finite for the foreseeable future. For example, the 
+average number of unused channels on Time Warner’s cable 
+systems in 1985 was approximately 1. 8 channels, but in 
+1992, it was approximately 0.4 channels.°’ As Defendants’ 
+expert conceded, those cable operators who do have unused 
+channel capacity do not leave it idle for long. See Noll Dep. 
+at 258 (J.A. 459). They quickly fill those channels with the 
+programming of their choice. Regardless of whether a 
+
+
+approximately 35,000 total cable channels occupied by must-carry stations. 
+J.S. 19a (500,000 cable channels); J.S. 91a (7% of channels occupied). 
+
+
+% The must-carry requirements have also placed a significant burden 
+on the editorial discretion of Time Warner's cable systems. The record 
+shows that nearly every Time Warner system (over 94%) carries one or 
+more broadcast stations pursuant to the must-carry provisions. Those 
+systems have had to drop programming on 74 channels and add 240 
+broadcast stations. On average, Time Warner cable systems are forced to 
+set aside 10% of their channel capacity for must-carry stations. Ellis Supp. 
+Aff. 4 4 (J.A. 1766). 
+
+57 TWE’s Third Supp. Resp. to Def. Inter. (Mar. 7, 1995) (J.A. 728). 
+In 1992, for example, there were absolutely no extra channels on 88% of 
+Time Warner’s cable systems. In 1994, 92.7% of its systems had no 
+unused channel capacity. Ellis Supp. Aff. 4 4 (J.A. 1766). 
+
+
+42 
+
+
+broadcast station is added to an open channel or to an 
+occupied channel that requires a programmer to be dropped, 
+cable operators are significantly injured by being required to 
+add broadcast stations that in their editorial discretion they 
+would not otherwise carry and by being constrained from 
+dropping other broadcast stations that have elected must- 
+carry. 
+
+Although channel capacity has been increasing, cable 
+operators will not be able to accommodate all programming 
+services and broadcast stations that request carriage because 
+of the basic problem of finite channel capacity. Defendants 
+wrongly suggest that enormous technological advances will 
+eliminate the problem. As the number of channels on cable 
+systems increases, the number of programmers competing for 
+carriage on those systems increases at a faster rate. Bigelow 
+Aff. 9.5 (J.A. 1053).°? For example, while channel capacity 
+
+
+58 Defendants offered a survey that indicated that 51% of the cable 
+systems have no excess capacity. See J.S. 90a (referring to Beta Research 
+Corp. survey, compiled from 152 informal telephone interviews, see 
+Plaintiffs’ Fact Response § 193). This contrasts with Plaintiffs’ survey by 
+Dr. Shapiro, which shows that two-thirds of cable systems in terms of 
+subscribers are channel-locked (i.e., have no available cable channels). 
+Shapiro Decl. ¥ 11 (J.A. 659-60). Yet, even if the Defendants’ survey were 
+accurate, it nonetheless establishes that the majority of cable operators 
+make editorial decisions in an environment of finite channel capacity. 
+Moreover, “any station carried involuntarily blocks the cable operator’s 
+intended use of the channel, forcing it to make changes in its anticipated, 
+if not current, programming selections”. J.S. 94a (Williams, J. dissenting), 
+see also Dressler Aff. 4 10-11 (J.A. 1087-88); Clouston Aff. 4 12 
+(J.A. 1059); Kinley Aff. 98 (J.A. 1130-31); Gault Aff. 94, 5, 16 
+(J.A. 1094-95, 1096-97). 
+
+
+59 And Defendants’ experts concede that the technological changes 
+needed to increase channel capacity will take an extended period of time 
+to implement and will not solve the finite capacity problem at any point 
+in the foreseeable future. See, e.g., Jackson Dep. at 120 (J.A. 470) 
+(widespread digital technology is 15-20 years away); Shooshan Dep. at 
+163 (J.A. 479) (responding to whether there are more cable programmers 
+
+
+43 
+
+
+increased nationally on average by approximately 14 channels 
+from 1985 to 1992, the number of cable programmers (which 
+does not include broadcast stations) during that time grew by 
+25 channels, making the shortage of available channels more 
+chronic than ever.®” Thus, even as channel Capacity increases, 
+cable operators must exercise editorial discretion and choose 
+from an ever-growing array of programmers and broadcasters 
+to fill a finite number of channels. 
+
+
+C. Must-Carry Substantially Burdens 
+Programmers’ First Amendment Rights. 
+
+
+Each time a cable channel is awarded to a broadcast 
+station by government fiat, a cable programmer or other 
+broadcaster is denied a potential venue for offering its speech 
+to cable viewers. The harm caused to cable programmers by 
+must-carry is real: 120 Time Warner cable systems alone 
+reported dropping, repositioning, or refusing to carry a cable 
+programming network because of the must-carry obligations.°! 
+Likewise, Time Warner has declined to launch or invest in 
+numerous new programming services because the must-carry 
+rules have tied-up channel capacity that otherwise would have 
+been committed to those programming services. Bigelow Aff. 
+qf] 2-3 (J.A. 1052-53). 
+
+
+than available channels: “I think that is true now; | think it was true in the 
+absence of must-carry and | think it is likely to be true well into the 
+future”’). 
+
+
+60 Shooshan Decl., Attach. T (J.A. 750); Stipulated Facts 4 137 
+(J.A. 1245-46); Bigelow Aff. ¥ 5 (J.A. 1053); see also Defendants’ Fact 
+Response {| 107 (noting the “dramatic increase” in the number of cable 
+programming networks since 1992). Moreover, as channel capacity 
+increases, new services will compete for that capacity, including telephony, 
+computer, and Internet services. 
+
+6! Gault Aff. $¥ 19-420; Cottingham Aff. ff 6-123; Ellis Aff. 
+9 6-178; Cutler Aff. %} 6-134. 
+
+
+44 
+
+
+D. Judge Sporkin Grossly Undervalued The First 
+Amendment Harm To Cable. 
+
+
+Judge Sporkin’s view that First Amendment injury is 
+substantial only if cable speakers are no longer “healthy and 
+expanding” (J.S. 18a) has never been the law. See Elrod v. 
+Burns, 427 U.S. 347, 373 (1976) (plurality) (“{t}he loss of 
+First Amendment freedoms, for even minimal periods of time, 
+unquestionably constitutes irreparable injury”). Judge Sporkin 
+also erred in limiting his inquiry to the number of must-carry 
+stations added and the number of cable programmers dropped 
+to make room for those stations. Yet even in so limited an 
+inquiry, he further erred in concluding that the must-carry 
+provisions have not significantly harmed the First Amendment 
+rights of cable operators and programmers. Whether the must- 
+carry provisions confiscate 10%, 8% or some smaller 
+percentage of the average cable operator’s channel capacity, 
+they nonetheless cause thousands of real and individual 
+infringements of speech. Judge Sporkin glossed over the fact 
+that cable operators and programmers are suffering a First 
+Amendment injury inflicted directly by Congress. That injury 
+cannot be weighed against the alleged nonconstitutional, 
+economic harm suffered by broadcasters in the private 
+marketplace for speech. The core principle underlying the 
+First Amendment is that public power—the State—poses the 
+greatest threat to speech. 
+
+
+By focusing on industry averages—such as the total 
+channel capacity of the Nation’s cable systems (500,000 
+channels}—Judge Sporkin’s First Amendment inquiry 
+obscures the harm caused by must-carry to particular cable 
+operators and programmers. As Judge Williams noted, the 
+percentages offered by the Defendants lump together the few 
+cable operators who may have dozens of vacant channels and 
+the vast majority of cable operators who do not. Yet, “dozens 
+of vacant channels on a handful of several-hundred-channel 
+systems are obviously of no use to a constrained system of 
+
+
+45 
+
+
+50 channels that is forced to carry, for example, six must- 
+carry stations (slightly under the weighted average)”. J.S. 91a 
+n.23 (Williams, J., dissenting). First Amendment rights belong 
+to actual cable operators and programmers, not the “average” 
+cable operator and programmer. 
+
+
+Vv. THERE ARE LESS RESTRICTIVE 
+ALTERNATIVES THAT ARE NONETHELESS 
+EFFECTIVE. 
+
+
+The record on remand indicates that there are less 
+restrictive alternatives for achieving Congress’ claimed 
+interest. The must-carry regime is therefore unconstitutional 
+on these grounds as well.® 
+
+
+1. Subsidies. If the local broadcasting system truly were 
+in economic peril, the Government could have advanced its 
+stated goals of preserving that system by directly subsidizing 
+
+
+62 Judge Sporkin’s analysis of the harm caused by the must-carry 
+provisions is at odds with other parts of his opinion. For instance, when 
+addressing the interests served by must-carry, Judge Sporkin credited the 
+Government’s anecdotes of the few marginal broadcasters who could not 
+obtain carriage on cable systems without must-carry. He disclaimed any 
+need to evaluate the harm suffered by the broadcast industry as a whole 
+in the absence of the must-carry provisions. When evaluating the harm 
+caused by the must-carry provisions to cable operators and programmers, 
+however, he focused on industry-wide percentages, not actual instances 
+of harm. 
+
+
+63 Judge Sporkin rejected each proposed less restrictive alternative 
+as “less effective” than must-carry. J.S. 22a-27a. Judge Sporkin, however, 
+was able to conclude that these alternatives were “less effective” only 
+because he adopted Defendants’ reformulation of the governmental interest 
+at stake—the maximum expansion of broadcasting. The problem with 
+Judge Sporkin’s approach is that it is essentially circular: If the 
+Government is permitted to expand or contract the purported governmental 
+interest at stake, then it can always boot-strap its way past the “less 
+restrictive alternative” test. Simon & Schuster, 502 U.S. at 120. Moreover, 
+Judge Sporkin never compared the harm caused by must-carry with its 
+alleged benefits. Thus, he looked to only one side of the test. 
+
+
+46 
+
+
+the speech of all or a few broadcasters, which would not have 
+curtailed the speech of cable operators and cable 
+programmers. Congress already subsidizes noncommercial 
+television stations. Indeed, the public broadcasters admit that 
+an increase in their congressional appropriation would have 
+neutralized the economic harm of the few carriage difficulties 
+non-primary educational stations have ever experienced. See 
+Downey Dep. at 132-33 (J.A. 343-44); Abbott Dep. at 169-70 
+(J.A. 510-11). Congress could simply “[p]rotect those 
+broadcasters that are put in danger of bankruptcy, without 
+unnecessarily restricting cable programmers in markets where 
+free broadcasting will thrive in any event”. 114 S. Ct. at 2480 
+(O’Connor, J., dissenting). As the record below demonstrates, 
+the number of broadcast stations that require the subsidy 
+provided by must-carry to stay in business is exceedingly 
+small. It is no answer to conclude, as Judge Sporkin did, that 
+such a scheme might be difficult to administer.°° 
+
+
+2. Direct Regulation of Competition. If anticompetitive 
+behavior in cable carriage is perceived to be a problem, more 
+vigorous enforcement of existing competition laws would be 
+obviously less restrictive on the cable industry’s speech (nan 
+broad-based must-carry requirements, because the protection 
+would be specifically targeted against alleged wrongdoers, not 
+every cable operator in the country.°© 
+
+
+64 As Judge Williams has noted before, “Congress is free to 
+subsidize favored speech if the market is too weak to sustain the quantity 
+that Congress seeks”. Turner, 819 F. Supp. at 62 (Williams, J., dissenting). 
+
+65 In any event, if there is difficulty providing funds to the 
+broadcasters in need, that cannot justify the government bestowing a 
+favored position on ali broadcast stations at the expense of ail cable 
+operators and programmers. 
+
+66 Antitrust actions can be, and have been, brought by broadcasters 
+against cable operators. See, e.g., Midland Telecasting Co. v. Midessa 
+Television Co., 617 F.2d 1141 (Sth Cir.), cert. denied, 449 U.S. 954 
+(1980); WLIG-TV, Inc. v. Cablevision Sys. Corp., 879 F. Supp. 229 
+
+
+47 
+
+
+VI. THE LOW POWER CARRIAGE OBLIGATIONS 
+AND MARKET MODIFICATION PROVISIONS 
+ARE CONTENT-BASED 
+
+
+This Court recognized in its earlier decision in this case 
+that two provisions within Section 4 of the Act may be 
+content-based, but reserved judgment so that the district court 
+could consider the issue first. 114 S. Ct. at 2460 n.6. The first 
+provision allows a low power broadcast station to qualify for 
+must-Carry in certain circumstances if the FCC determines, 
+among other things, that it “would address local news and 
+informational needs which are not being adequately served by 
+full power television broadcast stations”. 47 U.S.C. 
+§ 534(h)(2)(B). The second provision allows the FCC to alter 
+a television market to include a station, particularly where the 
+station “provides news coverage and issues of concern to such 
+community ... or coverage of sporting or other events of 
+interest to the community”. Jd. § 534(h)(1)(C)(ii)(III). On 
+remand, Plaintiffs argued that both provisions were content- 
+based restrictions on speech. Judge Sporkin upheld the first 
+on the ground that it was “viewpoint-neutral” and thus not 
+subject to strict scrutiny. J.S. 30a. He did not even address the 
+second provision. 
+
+
+Judge Sporkin was wrong to insist that strict scrutiny did 
+not apply (and wrong to ignore the market modification 
+provision entirely). As this Court’s precedents make clear, a 
+statute is content-based if it grants special rights to speakers 
+based on the type of speech they offer, regardless of the 
+viewpoint of that speech. Accordingly, the provisions at issue 
+here trigger strict scrutiny because they favor a particular type 
+of speech—for instance, local news and sports programming. 
+See, e.g., Arkansas Writers’ Project, Inc. v. Ragland, 481 U.S. 
+
+
+(E.D.N.Y. 1994); Sunbelt Television, Inc. v. Jones Intercable, Inc., 795 
+F. Supp. 333 (C.D. Cal. 1992); Aurora Cable Communications, Inc. v. 
+Jones Intercable, Inc., 720 F. Supp. 600 (W.D. Mich. 1989). 
+
+
+48 
+
+
+221, 229 (1987) (tax exemption of religious, professional, 
+trade and sports publications held content-based). Indeed, the 
+express terms of the statute plainly call for the FCC to make 
+content-related decisions when considering the eligibility of 
+low power stations for must-carry status and adjudicating 
+market modification petitions. The Government has never 
+articulated a compelling interest supporting either provision. 
+They must be stuck down. 
+
+
+Vil. THE DISTRICT COURT HAD JURISDICTION 
+OVER TIME WARNER’S TAKINGS CLAIM. 
+
+
+The undisputed evidence establishes that the Government 
+has confiscated approximately 10% of the capacity of Time 
+Warner’s cable systems by the must-carry provisions. Ellis 
+Supp. Aff. §§ 8-9 (J.A. 1767-68). The 1992 Cable Act 
+explicitly requires that any constitutional challenge to the 
+must-carry provisions—including a takings claim—dmust be 
+brought before the three-judge district court. 47 U.S.C. 
+§ 555(c)(1). That grant of exclusive jurisdiction would appear 
+to bar Time Warmer from bringing a Tucker Act claim in the 
+Court of Claims for compensation pursuant to 28 U.S.C. 
+§ 1491. Indeed, the Government insists that the three-judge 
+district court—not the Court of Claims—has jurisdiction over 
+Time Warner’s takings claim.®’ 
+
+
+Time Warner’s takings claim seeks injunctive relief 
+against the enforcement of must-carry. Although injunctive 
+relief is not appropriate “when a suit for compensation can 
+be brought against the sovereign subsequent to the taking”, 
+Ruckelshaus v. Monsanto Corp., 467 U.S. 986, 1016 (1984), 
+
+
+67 “On the basis of the language of [§ 555], and in recognition of 
+the fact that the House Committee specifically contemplated the possibility 
+that the must-carry provisions would be subject to challenges under the 
+Just Compensation clause, defendants interpret the Cable Act’s judicial 
+review provisions to grant this Court jurisdiction over these claims.” Gov. 
+Mem. in Supp. of Mo. to Dismiss at 44 n.36 (Feb. 12, 1993). 
+
+
+49 
+
+
+just compensation cannot be obtained here, because the injury 
+to Time Warner far exceeds the $10,000 jurisdictional cap in 
+the district court (28 U.S.C. § 1346(a)(2)). Nevertheless, the 
+district court dismissed Time Warner’s takings claim without 
+prejudice to be raised at another time. J.S. 28a. 
+
+
+Instead of squarely holding that Time Warner could (or 
+could not) seek compensation in the Court of Claims despite 
+the exclusive jurisdictional requirement of § 555(c)(1), the 
+district court engaged in a purely circular argument: If a 
+takings claim could be brought in the Court of Claims, then 
+such a claim “would not necessarily invalidate the 1992 Cable 
+Act in its totality”, J.S. 28a; therefore, injunctive relief would 
+not be proper, and resort to the three-judge court would not 
+be necessary. The court simply ignored the problem created 
+by the combination of the special jurisdictional provision of 
+§ 555(c)(1) and the $10,000 limit prescribed by 
+§ 1346(a)(2)}—which was the basis of Time Warner’s takings 
+claim. The district court did not hold that the Court of Claims 
+could, despite the special jurisdictional provision, award just 
+compensation to Time Warner, which holding would be 
+necessary to dismissing Time Warner’s request for injunctive 
+relief. Indeed, in dismissing Time Warner’s claim without 
+prejudice, the court provided that the claim could be refiled 
+“before the appropriate forum”, id., without any guidance 
+whatsoever about what that forum might be. 
+
+
+Finally, as a “more important” reason for its dismissal of 
+the takings claim, the court voiced its concern that “we do not 
+
+
+68 The court intimated, without holding, that Time Warner’s failure 
+to raise the takings claim before this Court may have waived it. /d. Time 
+Warner, however, pointed out that it had not appealed the takings issue 
+to this Court, because, as the district court had held, only the First 
+Amendment issues—and not the takings claim—were the subject of the 
+district court’s first decision. 819 F. Supp. at 56 (Sporkin, J., concurring); 
+id. at 67 n.10 (Williams, J., dissenting). Thus, the takings issue could not 
+have been appealed to this Court, and hence cannot have been waived. 
+
+
+50 
+want to dilute the issues the Supreme Court has asked us to 
+
+
+WILLKIE FARR & 
+GALLAGHER 
+Three Lafayette Center 
+1155 21st Street, NW New York, N.Y. 10019 
+i (212) 474-1000 
+Counsel for Appellant 
+Time Warner Entertainment 
+Company, L.P. 
+
+
+*Counsel of Record 
+
+
+_ 
+44" 
+
+
+10 OSE1 100 
+
+
+966T 3asnbny 
+
+
+SHMousitum “5 e2z0po 
+
+
+: ‘966T 3snBny jo Aep 
+
+38T STUI ISTT peyoejqje syq uo Pe IeoOTpuT se ‘ptedezd ehe3so0d ‘TTew 
+
+SSeTO-3SAtzZ 20 puey Aq ‘*a-7q ‘Aueduop JuSUUTeIISeIU_ TSsureM SUT] 
+
+queTTeddy 104 jetzg aya JO setdod se1zy2 peazes ueseq sAeY Peares 
+Sq 02 perztnbez setqized tte 3e43 PETITIAeD Aqezey st jr 
+
+
+SOTAISS JO SICSTITIISD 
+
+
+‘See TTeddy 
+‘“Te JS ‘NOISSIWNOD SNOILWDINNWWOD Twagag4 
+"A 
+‘SjueT Teddy -sjueaow 
+‘Te JS ‘*ONI ‘WHELSAS ONILSWoavoua YaNaAL 
+766-S6 “ON 
+
+
+S66T ‘WHSL 4eEqOLD0 
+SALVLS GHLINN 3HL 4O LUanood GWAadNS AHL NI 
+
+
+Teuueygo 
+
+Hutuzee] ey pue suotzeotunmmop Areaocostd 10ozJ TesuNoD 
+so000z oad ‘ucjbuTYysem 
+
+MN ‘@TOATS seuwoyuL suo 
+
+etepsAig 3 uTtTdeo 
+
+‘bsg ‘*ac ‘azeqneyl *5) 341eqTY 
+
+
+UOTZIVTOOSSY UOCTSTASTOL STQeD TeuoTIeN az0zZ TesuNocoD 
+Le00z oa ‘uoqbuTysem 
+
+¢zz e3TNS 
+
+MN ‘30023S W SPPZ 
+
+oquerzeL 3 AreJ 
+
+"bsg ‘III 22eqg aoqzeg °H 
+
+
+‘OUI ‘SUOTRZEIS UOTSTASTOL Juepuedepul Jo UoTIeToOOSSY 
+iszeqseopeorg JO woTIeToossy TeuoTAeN 10Z TesuNoD 
+so000z oa ‘uoczbutTysem 
+
+A0oTd Y3ZT 
+
+MN ‘30023S YQUeeRZITUL TO9 
+
+yOoTd ¥ AeuUeL 
+
+‘ar ‘stuug ‘°c 9s0onag 
+
+
+sreqseopeorig OF Tqnd 
+
+ZOZ woTzeI0dz0D «6feoTazes HbuyqQseopeorg OF TGQnad ‘suoTze3s8 
+UOTSTASTOL OTTIGNd S,BOTremy JO woTWZeToOOSsyY Joi TeSsUNoD 
+yrooz oda ‘uozbuTysem 
+
+MN ‘onueay eTueATAsuUed TOZT 
+
+butting 3 uoWZHuTACD 
+
+UTMIOD ‘J UATOIRD 
+
+
+yssoz oq ‘uojzSuTysem 
+
+zO9 wood 
+
+MN ‘300273S W 6T6T 
+
+UOTSSTUMOD SUOCTRJeOTUNMMIOD Te1eped 
+TesunoD TereueDy ey JO BOTIIO 
+Huoczzsuzy “WW TeTued 
+
+
+ocsoz oa ‘uozSutTysem 
+
+MN ‘30023S a2 106 
+
+VLOT wooy ‘UOTSTATG TTATO 
+
+eotysne jo jueujiedeg sejze3s pezTuNn 
+ATH *D eAOpOoSeUuL 
+
+azeTAL “uw uyor 
+
+
+SORPTTOEM SOUSAMET JO uot jue zgIv 
+
+ocsoz oa ‘uoZbuTYysem 
+
+MN ‘OnueseAY UOTANATASUOD ¥F 3e0e739S YWWUPSL 
+eotysne jo juemjizedeg seze3s peITtuNn 
+TerzeueyH AOBFTOTTIOS 
+
+I1r ‘sheq *s Aead 
+
+
+(#) 
+
+
+(#) 
+
+
+(s) 
+
+
+(#) 
+
+
+(s) 
+
+
+(s) 
+
+
+(#) 
+
+
+SATRIeIEdOOD SsUOCTIeTOUNUMOSSeTeL Terzny TeUCTIVEN IOZJ Tesunood 
+Toooz Sa ‘uojZbutTysem 
+
+M-O00S ®3TNS 
+
+MN ‘3°°23S 5D TOOT 
+
+ueuyoeH pue ASeTTSey 
+
+III ‘33022e5 *sS anyjI2Yv 
+
+
+“OUI ‘UWOTSTASTQeD sTetued r0zJ TesunoD 
+90002 da ‘uo jbuTYysem 
+
+MN ‘onusaAy eTUeATASUUeg 6T6T 
+ueuzeaerig ¥ pTIMAeY ‘eTOD 
+
+"ar ‘eTOD *d uyor 
+
+
+TITT-692L2 XL ‘uoqsnoy 
+
+TTTtT69 xOG *O “d 
+
+YIOM{ON HuTAseopeorg TeuoTjZeurequL 
+seTAoirg [ned 
+
+
+WOTZeToossy szeqseopeorg Aytunummoy r0Z Tesunood 
+€€9T-CO77Z WA ‘uo{QbuT Tay 
+
+006 e3TNS 
+
+SATAG XeJATeA YRAON OSEP 
+
+$330qd 3 tepeg ‘AoTeH 
+
+seuArg *¢ WETTTTM 
+
+
+9€002 Sa ‘uo ZbuTYysem 
+
+MN ‘30023S N TLLT 
+
+Sisyseopeoig JO uoTReTSOSSY TeUOCTIeEN 
+uueuneg * 7 AzueH 
+
+
+SYIOAION WSN ‘/*ourl ‘Teuueyd TeAReTL eu, {*our 
+‘MIOAQON DAO ‘fuUoTZeIOdIOD eYTTITeAWes STqQeD TeuoTIeEN {*oUTr 
+‘quemutejiejug Attwed [TeuotQeureqUI ‘{seoTAIeg AUemUTeR10eRUR 
+WOORTA FAV/3SIeeH {*OUL ‘UOTSTASTOL QUemMUTeRIeR4Ug jg {OUI 
+‘UOTSTASTOL JUSMUTeRIEQUT YOuTa ‘/YIOAQON QueMUTeRIeRUz 
+S32W 4 f/°TW 32a ‘*our weqsdkg Sutqyseopeorg zeuzny z03 Tesunos 
+poooz oa ‘uojzbutTysem 
+006 e3TNS 
+MN ‘oOnuesAy eTUuUeATASUUeg TOL 
+
+oedog pue AYSAOTS 
+‘staizeqg ‘uyod ‘UTAeT ‘Z3UTW 
+"bsg ‘zeTNOS *q eOnAgG 
+
+
+(s) 
+
+
+*our 4*09 
+Hhutqyseopeoig ue(zeys ‘yYIOAQION HuTyAseopeorig TeuoTIeUIERQUT 
+f*our ‘yoe3uez ‘/suot3eotunumop zeqsbutuzon {*oUr ‘stnoy 
+
+‘as 8S AL ‘etTbug erzpueg ‘*our ‘Sutqseopeorg woTSsTAeTeL 
+TeuctzeuzequI {*our ‘seqetoossy SuthSeq z0z TesunooD 
+STZTT AN ‘uATYOOIg 
+
+92 quewjrzedy 
+
+389023S YU37ZT 60S 
+
+Azized *L 329q048 
+
+
+szeqyseopeorg Aqyrtetoeds z0z TesunoD 
+L000z Da ‘uoZbuTYysem 
+
+poe e3TNs 
+
+MN ‘3e0293S UOSAezszJer SeWoOyuUL OOOT 
+eoTasne ¥ MST AO™¥ ASeQUeD UeoTIeUTY 
+Aew “Ww AqToo 
+
+
+"OUI ‘szeqSseopeorg YyTeszreqUI BeQUeTQW I0OZz TesuUNoD 
+9€002 Oa ‘uojQbuTYysem 
+
+oss e3TNS 
+
+MN ‘30023S W 0002 
+
+uoysuyor *H sewer 
+
+
+LTOOT AN ‘HA0K MON 
+30073S UQPP BSeA IT 
+uewky 3 Bremuesoy ‘AAeT 
+uewkyH *¢ ueydeqs 
+
+
+etpen AqtunumoD 10d eoUuURTITY 10Z3 TesunoD 
+so00z oa ‘uozbutTysem 
+
+OOTT e3TNS 
+
+MN ‘onuseAY 710A MON OSET 
+
+pruzetqon ¥ Tebetds 
+
+POOMIOH ‘N souwer 
+
+
+UoTRZeIOCdIOD VIPpeH eTOCOU_ 10Z TesuNoCD 
+
+s000z oa ‘uojzbuTysem 
+
+MN ‘30°23S 43ST TO06 
+
+pueH % UOCSATeUdOW ‘pzAeyUrE_ ‘qaesdttyl ‘r19uzreA 
+HrzeyooH “ua dt ttud 
+
+
+MI0OK AON JO ARTO ‘uoTIeTOOSsSY TeEeMCd OFTGnd uUeoTseUy 
+iseTqaunoD jo UuoTIeTOOSSY TeUOT IeN iszo0Aen JO eouezezUOD 
+*s°h {SeT3TO Jo enbeel] TeucT{IeN ‘SIOSTAPY pue srIe90TJJO 
+
+SUOTZIETOUNMMIOCD-SeTEeL JO UOTZPETOOSSY TeUCTIEN SUL 103 TesunoDd 
+Tozt-voooz oq ‘uozbuTYysem 
+
+MN ‘30023S Y3ZT SSS 
+
+azejua0gd ¥ prToulzy 
+
+330272e5 ‘Wy 22e°08 
+
+
+9OTTT AN ‘eT109SY¥ 
+3ee79S YUR9E CTI-PE 
+SSOTAISS WUSWUTeRI9eRUZ 
+WOORTA OAW/3S1e9H 
+AehuTTToL euer 
+
+
+yoooz oq ‘uojqbutysem 
+
+MN ‘30023S a T06 
+
+Hutyseopeoig OTTQNd 10g uotze1r0d105 
+yezowAS *g [Ned 
+
+
+SISEASeOpeorg JO UOTZReTOOSSY TBUCTIEN OY TOZ TEeSUNOCD JO 
+Socr6 WO ‘pzozueqs 
+
+ebuezpend uMoird 
+
+Tooyos MeT pzojyueys 
+
+URATTTINS “W USeTYUZeX 
+
+
+9£002 oa ‘uojbuTYysem 
+
+MN ‘30023S 4302 OOPT 
+
+eotly TeqTded TeuOTIeEN eYyQ JO UOoTUN 
+SOTAISATI TTATO ueoTscuy 
+
+zezqtds *q@ anyzav 
+
+
+‘our ‘*oD etqeo AQyzeqtI r0Z TesunoD 
+ZZOOT AN ‘H2I0A MON 
+
+enusAY PATUL 606 
+
+sreuzzed 3 SUTQUeASUOCD 
+
+azesseds “dad eTIsel 
+
+
+‘OUI ‘TeUOTReUITEZUI UOTPETOOSSY ETQeD sseTeITM OZ TESUNoD 
+90002 oa ‘uojzHuTYysemM 
+
+MN ‘30023S UR9T 888 
+
+zepuexety 3 puerqziepuTS 
+
+pueiqieputs “cf Tned 
+
+
+38Tazyo JO Yornyo pezfuN ey JO TOTFZBOFUNMMCD 
+
+JO eEOTZZJO {sUeZTITO AOTUeS JO TFOUNOD TVUCTIEN {eoTizeuy 
+Jo uotzerepea reumsu0D ‘/30ef0Td SSeDON VTPON 103 Tesunod 
+9¢002 oa ‘uozbuTysem 
+
+00% e3TNS 
+
+MN ‘30023S W 0002 
+
+q0eforg sseooy eTPOENW 
+
+ueuzazemyos Aec Merpuy 
+
+
+SATeIEdOCOD sUOTReOTUNMMOOSTOL Tend TVUCTIEN IOZ TesuUNoCD 
+Toooz oq ‘uozbuTYysemM 
+
+MN ‘30023S 5 TOOT 
+
+380m 00S e3TNS 
+
+ueuwyoeH 3 ASTTO 
+
+spzeyotu *@ uyor 
+
+
+pueg Ag (#) 
+
+
+‘our ‘*0D eTqeo Aqzeq;TI 10z TesunoD 
+9€002 oad ‘uoZbuTYysemM 
+
+MN ‘onueay ZNoOTWZOSeUUOD OSZT 
+
+sseig 3 ueuptTeg ‘SanqsutS 
+
+Z3TOM *S UPTY 
+
+
+q0eford sseooy BTPpen £qq5t1 
+
+3 zemoag pucmyoty ‘AoerD0meq suOTZBOTUNMMOD IOJ SOURTTTIY 
+fetpen Aqtunumod 10J eOURTIIN ‘WO ‘setebuy sor zo ARTS 
+isetoueby eTqed ©3838 JO UOTZIBTOOSSY TeUCTIEN I0Z Tesunod 
+9€002 oa ‘uozbuTysem 
+
+0Or eQTNS 
+
+MN ‘20023S Y36T SZ2T 
+
+@YOOAGTOH ¥ ASTTIW 
+
+uozeqg ueA yudesor 
+
+

@@ -1,0 +1,43 @@
+[
+  {
+    "matter": 66,
+    "path": "terms\\OT1996\\entering-law\\OT_1996CHUNK6_66_NEUTRAL.md",
+    "mechanical_removals": [],
+    "sha256": "bba8b8bf0623469c55adac2c93429080e3d72a451328b57d9f714c66b6ebe84a"
+  },
+  {
+    "matter": 67,
+    "path": "terms\\OT1996\\entering-law\\OT_1996CHUNK6_67_NEUTRAL.md",
+    "mechanical_removals": [],
+    "sha256": "440e45cae0e7ddf3a3097acee7d035acc2ef175b795846ec69dcf3f653790e6a"
+  },
+  {
+    "matter": 68,
+    "path": "terms\\OT1996\\entering-law\\OT_1996CHUNK6_68_NEUTRAL.md",
+    "mechanical_removals": [
+      "- **Material Record:** Over six and one-half years Vey submitted eleven certiorari petitions, twelve extraordinary-writ petitions, and two bail applications, all denied. The first fourteen IFP requests were granted; five later requests were denied under Rule 39.8. The current allegations rely on her own conclusory assertions. The underlying requested writ is criminal habeas, so the future extraordinary-writ condition cannot be described as historically limited to noncriminal matters.\n",
+      "- **Relevant Dates:** Court event April 14, 1997; historical deadline May 5, 1997 to pay the Rule 38 fee and submit a Rule 33.1-compliant current petition.\n",
+      "with five Rule 39.8 denials after fourteen grants of leave. ",
+      "The historical order's criminal reach supplies no simulated authority or evidentiary shortcut. "
+    ],
+    "sha256": "8588255b356262a795cd8bc573b61b5a788c5fc43de8f414f40105f33bd3fef5"
+  },
+  {
+    "matter": 69,
+    "path": "terms\\OT1996\\entering-law\\OT_1996CHUNK6_69_NEUTRAL.md",
+    "mechanical_removals": [],
+    "sha256": "4917b9c2e7f4e8d0178a792fb5dd33bf19ca4382a8ee189fbf4fcece14cdf90b"
+  },
+  {
+    "matter": 70,
+    "path": "terms\\OT1996\\entering-law\\OT_1996CHUNK6_70_NEUTRAL.md",
+    "mechanical_removals": [],
+    "sha256": "b92b1a2f21efb83e3d69affc50be5825e4ff98f8f58f39faa8cec013fd0fb0b3"
+  },
+  {
+    "matter": 71,
+    "path": "terms\\OT1996\\entering-law\\OT_1996CHUNK6_71_NEUTRAL.md",
+    "mechanical_removals": [],
+    "sha256": "8afb328ddec1ec0a8edb2bf57fb18620cd8dc624056c65ee861a26f022e36bda"
+  }
+]

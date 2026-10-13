@@ -1,0 +1,176 @@
+{
+  "status": "PASS",
+  "completed_events": 11,
+  "stopped_events": 1,
+  "maximum_ordinary_explanation_words": 227,
+  "new_Record_link_targets_checked": 0,
+  "public_projection_render_input_identity": true,
+  "controlling_holdings_and_all_published_separates_in_both_projections": true,
+  "public_workflow_leak_scan": "PASS",
+  "old_protected_files_unchanged": 93,
+  "workspace_files_updated": 4,
+  "current_court_events": 70,
+  "current_admitted_sources": 2,
+  "court_event_cursor": "1997-04-21",
+  "render_task_performed": false,
+  "git_commands_executed": 0,
+  "git_provenance_verified": false,
+  "stopped_blocker": "Current Rule 39.1 actual-means showing or applicable counsel-appointment exemption is not established by the available record; financial eligibility and the reserved petition remain unresolved.",
+  "records": [
+    {
+      "record": "Blessing_v_Freestone_merits_1997-04-21.md",
+      "event": "Merits decision; 1997-04-21; OT1996, chunk 6.",
+      "result": "Ninth Circuit vacated and remanded, 9–0; no individual programwide-compliance right; provision-specific claims and lawful relief remain.",
+      "record_sha256": "5e64b8d11aa9a9a64cf954851897895ce7ce3176b29e7e374a6e2d63532dd3b1",
+      "projection_sha256": "2ad0047544eb5c356881042a36311b8b000fcac74a938029978ead009376c2df",
+      "explanation_word_counts": [
+        86,
+        195,
+        98,
+        97,
+        227,
+        96
+      ]
+    },
+    {
+      "record": "Chandler_v_Miller_merits_1997-04-15.md",
+      "event": "Merits decision; 1997-04-15; OT1996, chunk 6.",
+      "result": "Eleventh Circuit reversed and remanded, 9–0; challenged candidate-testing requirement violates the Fourth Amendment.",
+      "record_sha256": "64e1f4f29a6a3dffa57f2916af6f3072c9bee52089be7a6b9d6817ee4d4853db",
+      "projection_sha256": "4a6cb0430d55e3b568ebf57d5c50aab36d5c4d2d509e9f6ee58c6d376183f308",
+      "explanation_word_counts": [
+        84,
+        190,
+        84
+      ]
+    },
+    {
+      "record": "Ingebretsen_v_Jackson_Public_School_District_merits_1997-03-19.md",
+      "event": "Merits decision; 1997-03-19; OT1996, chunk 6.",
+      "result": "Standing affirmed 9–0; injunction affirmed in part, vacated in part and remanded 7–2; intervention as of right denial affirmed 8–1; permissive intervention denial affirmed 9–0.",
+      "record_sha256": "a2d29359c05f7ee87ea4f3af8d150326b17fc3cc0632504767fb2a913972762a",
+      "projection_sha256": "fb0950db77ed850ff39e518156db7d37ea815b878b03617cf8b2cc1f69e43634",
+      "explanation_word_counts": [
+        93,
+        144,
+        93,
+        138,
+        95,
+        69
+      ]
+    },
+    {
+      "record": "Lambert_v_Wicklund_summary_review_1997-03-31.md",
+      "event": "Summary review; 1997-03-31; OT1996, chunk 6.",
+      "result": "Reverse the best-interests-wording ground, vacate that basis of the injunction and remand, 9–0.",
+      "record_sha256": "cf870e3d9714a59ff2b563671fcae8c37b783bfd504115ddb3e29cfaedf220c0",
+      "projection_sha256": "1ae05c3f0298f0ba993fe452b1eed9e9717e9d00a44f2001b8ab54fb334413dd",
+      "explanation_word_counts": [
+        131,
+        198
+      ]
+    },
+    {
+      "record": "New_Mexico_Department_of_Human_Services_v_Joseph_A_merits_1997-04-21.md",
+      "event": "Merits decision; 1997-04-21; OT1996, chunk 6.",
+      "result": "Tenth Circuit affirmed, 9–0; decree-termination vacatur and remand for reviewable findings stand.",
+      "record_sha256": "e8174ce18fc700859794b7b8ba374f965cc9c0242f007036b8cdc0394e5e5163",
+      "projection_sha256": "6f127813b2aaf3427c740b1c8af667190e5a689bfec7a14705bb4a5c26f9378a",
+      "explanation_word_counts": [
+        117,
+        99,
+        192,
+        92,
+        99
+      ]
+    },
+    {
+      "record": "Oncale_v_Sundowner_Offshore_Services_Inc_merits_1997-03-19.md",
+      "event": "Merits decision; 1997-03-19; OT1996, chunk 6.",
+      "result": "Reverse the categorical same-sex exclusion and remand affected claims, 9–0; independent Pippen/Johnson employer-status dismissal undisturbed.",
+      "record_sha256": "9e0e918b9862284dcc94996e9f8c93416802e1d680312f470bbefd9e3780aa36",
+      "projection_sha256": "a75f8fa00382782f8983c59457275f09c8685413a3bf3d216e8b992be5948bc7",
+      "explanation_word_counts": [
+        70,
+        83,
+        78,
+        101
+      ]
+    },
+    {
+      "record": "Opuku_Boateng_v_California_merits_1997-04-07.md",
+      "event": "Merits decision; 1997-04-07; OT1996, chunk 6.",
+      "result": "Ninth Circuit affirmed, 9–0; liability resolved and appropriate Title VII relief remains on remand.",
+      "record_sha256": "d6b066c0b92709dc743e5f80f4d37bc2a55d5f6b34915f2da757ae62a46b784f",
+      "projection_sha256": "cf43d901ecc8dd20633f144e31ebf28eef087512b856aad8da79ee5765cc0974",
+      "explanation_word_counts": [
+        65,
+        116,
+        169,
+        120,
+        97
+      ]
+    },
+    {
+      "record": "Robinson_v_City_of_Edmond_merits_1997-03-31.md",
+      "event": "Merits decision; 1997-03-31; OT1996, chunk 6.",
+      "result": "Affirm granted Establishment Clause merits judgment, 9–0; prospective relief below.",
+      "record_sha256": "bf951b65b228ce82746288842678775bf5bb47f0a3445dde529efac176e645aa",
+      "projection_sha256": "1afa4eae58daccec80f625c7780fd3f0279002a2f480e6d7fcaff6c7b0331ff9",
+      "explanation_word_counts": [
+        170,
+        97,
+        134,
+        165,
+        95
+      ]
+    },
+    {
+      "record": "Turner_Broadcasting_System_Inc_v_FCC_merits_1997-03-31.md",
+      "event": "Merits decision; 1997-03-31; OT1996, chunk 6.",
+      "result": "Affirm reviewed full-power must-carry core, 5–4; all nine decline separate low-power and market-modification classifications.",
+      "record_sha256": "e65c5bc0450829db989e3377a54815f2a13f8686ac5ef4dd7825fa4f43b084e0",
+      "projection_sha256": "9f4d98cb8f9a7bb1491b8de4f127b662dd7bebd83878a9af1cdc1708f0312a29",
+      "explanation_word_counts": [
+        152,
+        138,
+        170
+      ]
+    },
+    {
+      "record": "United_States_v_Lanier_merits_1997-03-31.md",
+      "event": "Merits decision; 1997-03-31; OT1996, chunk 6.",
+      "result": "Vacate the en banc Sixth Circuit judgment and remand, 9–0; no automatic restoration of convictions or sentence.",
+      "record_sha256": "efb3d9c55b975982e19c2b4a90193f005cd17631bb6fe41f09ae6dc58872e7ef",
+      "projection_sha256": "0bb0517c90efd9a849ae7d7d849c45c94c896aab728b8167609ae4dd35eef953",
+      "explanation_word_counts": [
+        84,
+        64,
+        87,
+        78,
+        113
+      ]
+    },
+    {
+      "record": "Young_v_Fordice_merits_1997-03-31.md",
+      "event": "Merits decision; 1997-03-31; OT1996, chunk 6.",
+      "result": "Reverse and remand, 9–0; covered discretionary changes may not be administered without §5 preclearance.",
+      "record_sha256": "f423b5970f1ce063fbce1ba56b9975b66e9c336f466a6235c1e1a46cf75ad151",
+      "projection_sha256": "ae40517200b2672ed92b3fc892117a09735d663ca3c05bb25494523a730cdde2",
+      "explanation_word_counts": [
+        82,
+        97,
+        94,
+        95,
+        121
+      ]
+    }
+  ],
+  "artifact_hashes": {
+    "render-inputs/OT_1996CHUNK6.md": "c567915f5846d8e0d718d19ecdd83dfd0906b7f2aa9a3e5c82e23669a7b19790",
+    "workspace/continuity.md": "4213cb63007ddc65f7e0dd771aec293b1ee73122a49840511704dcd635cf186a",
+    "workspace/ledger.md": "8d3c576d56baa9ccb8642aac083b07c0f3d9f6b6e41b4e574c800ee86ce7fc3a",
+    "workspace/manifest.md": "263eee2e1a023058bdaee7eec88700037cab6c9146b4e4739c14ac8dd1f719de",
+    "workspace/neutral-projection.md": "ae206eae092740b8b371656e527040ad77eb5849c1afcf29a3ffb0aa91bab301"
+  }
+}

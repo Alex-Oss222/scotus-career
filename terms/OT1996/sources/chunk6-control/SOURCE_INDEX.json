@@ -1,0 +1,134 @@
+{
+  "lambert": [
+    {
+      "url": "https://www.law.cornell.edu/supct/html/96-858.ZS.html",
+      "status": "HTTP Error 404: Not Found"
+    }
+  ],
+  "turner": [
+    {
+      "url": "https://www.law.cornell.edu/supct/html/95-992.ZS.html",
+      "file": "terms\\OT1996\\sources\\chunk6-control\\turner_95-992.ZS.html",
+      "bytes": 17381,
+      "status": "saved"
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/95-992.ZO.html",
+      "file": "terms\\OT1996\\sources\\chunk6-control\\turner_95-992.ZO.html",
+      "bytes": 95752,
+      "status": "saved"
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/95-992.ZC.html",
+      "file": "terms\\OT1996\\sources\\chunk6-control\\turner_95-992.ZC.html",
+      "bytes": 5742,
+      "status": "saved"
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/95-992.ZD.html",
+      "file": "terms\\OT1996\\sources\\chunk6-control\\turner_95-992.ZD.html",
+      "bytes": 71324,
+      "status": "saved"
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/95-992.ZC1.html",
+      "file": "terms\\OT1996\\sources\\chunk6-control\\turner_95-992.ZC1.html",
+      "bytes": 12565,
+      "status": "saved"
+    }
+  ],
+  "lanier": [
+    {
+      "url": "https://www.law.cornell.edu/supct/html/95-1717.ZS.html",
+      "file": "terms\\OT1996\\sources\\chunk6-control\\lanier_95-1717.ZS.html",
+      "bytes": 9033,
+      "status": "saved"
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/95-1717.ZO.html",
+      "file": "terms\\OT1996\\sources\\chunk6-control\\lanier_95-1717.ZO.html",
+      "bytes": 36770,
+      "status": "saved"
+    }
+  ],
+  "young": [
+    {
+      "url": "https://www.law.cornell.edu/supct/html/95-2031.ZS.html",
+      "file": "terms\\OT1996\\sources\\chunk6-control\\young_95-2031.ZS.html",
+      "bytes": 9105,
+      "status": "saved"
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/95-2031.ZO.html",
+      "file": "terms\\OT1996\\sources\\chunk6-control\\young_95-2031.ZO.html",
+      "bytes": 41296,
+      "status": "saved"
+    }
+  ],
+  "vey": [
+    {
+      "url": "https://www.law.cornell.edu/supct/html/96-8005.ZS.html",
+      "status": "HTTP Error 404: Not Found"
+    }
+  ],
+  "chandler": [
+    {
+      "url": "https://www.law.cornell.edu/supct/html/96-126.ZS.html",
+      "file": "terms\\OT1996\\sources\\chunk6-control\\chandler_96-126.ZS.html",
+      "bytes": 12574,
+      "status": "saved"
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/96-126.ZD.html",
+      "file": "terms\\OT1996\\sources\\chunk6-control\\chandler_96-126.ZD.html",
+      "bytes": 14074,
+      "status": "saved"
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/96-126.ZO.html",
+      "file": "terms\\OT1996\\sources\\chunk6-control\\chandler_96-126.ZO.html",
+      "bytes": 41611,
+      "status": "saved"
+    }
+  ],
+  "blessing": [
+    {
+      "url": "https://www.law.cornell.edu/supct/html/95-1441.ZS.html",
+      "file": "terms\\OT1996\\sources\\chunk6-control\\blessing_95-1441.ZS.html",
+      "bytes": 12134,
+      "status": "saved"
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/95-1441.ZC.html",
+      "file": "terms\\OT1996\\sources\\chunk6-control\\blessing_95-1441.ZC.html",
+      "bytes": 7136,
+      "status": "saved"
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/95-1441.ZO.html",
+      "file": "terms\\OT1996\\sources\\chunk6-control\\blessing_95-1441.ZO.html",
+      "bytes": 42997,
+      "status": "saved"
+    }
+  ],
+  "oncale_later_comparator": [
+    {
+      "url": "https://www.law.cornell.edu/supct/html/96-568.ZS.html",
+      "file": "terms\\OT1996\\sources\\chunk6-control\\oncale_later_comparator_96-568.ZS.html",
+      "bytes": 6169,
+      "status": "saved"
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/96-568.ZO.html",
+      "file": "terms\\OT1996\\sources\\chunk6-control\\oncale_later_comparator_96-568.ZO.html",
+      "bytes": 16803,
+      "status": "saved"
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/96-568.ZC.html",
+      "file": "terms\\OT1996\\sources\\chunk6-control\\oncale_later_comparator_96-568.ZC.html",
+      "bytes": 3620,
+      "status": "saved"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "non_git_exit_code": 0,
+  "git_commands_executed": 0,
+  "skipped_commit_existence_identifiers": [
+    "1056244",
+    "1278633",
+    "1301712",
+    "88d34e4",
+    "9d5688a",
+    "A40385013",
+    "A40385014",
+    "A40386007",
+    "cceeded",
+    "e0abdfd"
+  ],
+  "skipped_request_count": 20,
+  "original_checker_sha256": "326c640d289d5d64df847ed573cc5999289cf691fa9a92bb814389cdb0508ca7",
+  "note": "No assertion is made about existence of any referenced Git object."
+}

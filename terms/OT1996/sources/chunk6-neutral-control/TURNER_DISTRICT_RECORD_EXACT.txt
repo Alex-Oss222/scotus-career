@@ -1,0 +1,153 @@
+Control-extracted primary recitation of the remand record and district judges' positions only. No current Supreme Court outcome, author, lineup, or merits rationale is included. Source describes lower-court findings and competing evidentiary readings, not indisputable underlying truth.
+Source: https://www.law.cornell.edu/supct/html/95-992.ZO.html
+
+The District Court oversaw another 18 months of factual development
+
+ on remand "yielding a record of tens of thousands of pages" of evidence,
+
+ Turner Broadcasting v. FCC, 910 F. Supp. 734, 755 (DC 1995),
+
+ comprised of materials acquired during Congress' three years of pre-enactment
+
+ hearings, see Turner, supra, at 632-634, as well as additional expert
+
+ submissions, sworn declarations and testimony, and industry documents obtained
+
+ on remand. Upon consideration of the expanded record, a divided panel of
+
+ the District Court again granted summary judgment to appellees. 910 F.
+
+ Supp., at 751. The majority determined "Congress drew reasonable inferences"
+
+ from substantial evidence before it to conclude that "in the absence of
+
+ must carry rules, `significant' numbers of broadcast stations would be
+
+ refused carriage." Id., at 742. The court found Congress drew on
+
+ studies and anecdotal evidence indicating "cable operators had already
+
+ dropped, refused to carry, or adversely repositioned significant numbers
+
+ of local broadcasters," and suggesting that in the vast majority of cases
+
+ the broadcasters were not restored to carriage in their prior position.
+
+ Ibid. Noting evidence in the record before Congress and the testimony
+
+ of experts on remand, id., at 743, the court decided the noncarriage
+
+ problem would grow worse without must carry because cable operators had
+
+ refrained from dropping broadcast stations during Congress' investigation
+
+ and the pendency of this litigation, id., at 742-743, and possessed
+
+ increasing incentives to use their growing economic power to capture broadcasters'
+
+ advertising revenues and promote affiliated cable programmers. Ibid.
+
+ The court concluded "substantial evidence before Congress" supported the
+
+ predictive judgment that a local broadcaster denied carriage "would suffer
+
+ financial harm and possible ruin." Id., at 743-744. It cited evidence
+
+ that adverse carriage actions decrease broadcasters' revenues by reducing
+
+ audience levels, id., at 744-745, and evidence that the invalidation
+
+ of the FCC's prior must carry regulations had contributed to declining
+
+ growth in the broadcast industry. Id., at 744, and n. 34.
+
+ 
+
+ 
+
+
+
+The court held must carry to be narrowly tailored to promote the
+
+ Government's legitimate interests. It found the effects of must carry on
+
+ cable operators to be minimal, noting evidence that: most cable systems
+
+ had not been required to add any broadcast stations since the rules were
+
+ adopted; only 1.2 percent of all cable channels had been devoted to broadcast
+
+ stations added because of must carry; and the burden was likely to diminish
+
+ as channel capacity expanded in the future. Id., at 746-747. The
+
+ court proceeded to consider a number of alternatives to must carry that
+
+ appellants had proposed, including: a leased access regime, under which
+
+ cable operators would be required to set aside channels for both broadcasters
+
+ and cable programmers to use at a regulated price; use of so called A/B
+
+ switches, giving consumers a choice of both cable and broadcast signals;
+
+ a more limited set of must carry obligations modeled on those earlier used
+
+ by the FCC; and subsidies for broadcasters. The court rejected each in
+
+ turn, concluding that "even assuming that [the alternatives] would be less
+
+ burdensome" on cable operators' First
+
+ Amendment interests, they "are not in any respect as effective in achieving
+
+ the government's [interests]." Id., at 747. Judge Jackson would
+
+ have preferred a trial to summary judgment, but concurred in the judgment
+
+ of the court. Id., at 751-754.
+
+ 
+
+ 
+
+
+
+Judge Williams dissented. His review of the record, and particularly
+
+ evidence concerning growth in the number of broadcasters, industry advertising
+
+ revenues, and per station profits during the period without must carry,
+
+ led him to conclude the broadcast industry as a whole would not be " `seriously
+
+ jeopardized' " in the absence of must carry. Id., at 759-767. Judge
+
+ Williams acknowledged the Government had a legitimate interest in preventing
+
+ anticompetitive behavior, and accepted that cable operators have incentives
+
+ to discriminate against broadcasters in favor of their own vertically integrated
+
+ cable programming. Id., at 772, 775, 779. He would have granted
+
+ summary judgment for appellants nonetheless on the ground must carry is
+
+ not narrowly tailored. In his view, must carry constitutes a significant
+
+ (though "diminish[ing]," id., at 782) burden on cable operators'
+
+ and programmers' rights, ibid., and the Cable Act's must carry provisions
+
+ suppress more speech than necessary because "less restrictive" alternatives
+
+ exist to accomplish the Government's legitimate objectives. Id.,
+
+ at 782-789.
+
+ 
+
+ 
+
+
+

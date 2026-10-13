@@ -1,0 +1,77 @@
+# 64. Turner Broadcasting System, Inc. v. Federal Communications Commission
+
+# SECTION I — NEUTRAL MODELING PACKET
+
+## A. CASE, RECORD, AND POSTURE
+
+- **Case Name:** Turner Broadcasting System, Inc. v. Federal Communications Commission
+- **Citation or Docket:** 520 U.S. 180 (1997); No. 95-992
+- **October Term:** 1996
+- **Entry Stage and Event:** Argued merits case on direct appeal from a three-judge United States District Court for the District of Columbia after remand.
+- **Simulated Event Date:** March 31, 1997.
+- **Question Presented:** Whether the developed record establishes that the federal cable must-carry provisions materially advance important governmental interests and do not burden substantially more editorial discretion than necessary.
+- **Question Granted:** Whether the must-carry provisions satisfy the intermediate scrutiny prescribed in the simulated 1994 Turner decision.
+- **Legal Field:** First Amendment, cable regulation, legislative facts, and intermediate scrutiny.
+- **Court and Judgment Under Review:** The three-judge district court granted summary judgment for the Government and intervenors, holding that the expanded record supported Congress's predictions and the fit of must-carry.
+- **Requested Supreme Court Judgment and Relief:** Cable operators and programmers ask the Court to reverse and invalidate the provisions. The FCC and supporting broadcasters seek affirmance.
+- **Material Facts and Record:** The 1992 Cable Act requires cable systems to devote limited channel capacity to qualifying local broadcast stations. The remand record contains congressional materials, expert evidence, declarations, industry documents, and data on carriage and displacement. The divided district court's supporting and opposing readings, including a reservation about summary judgment, are set out in the fresh validation supplement below; none is treated as an undisputed underlying fact merely because a judge accepted it.
+- **Preservation, Threshold, and Vehicle Matters:** This direct appeal presents the merits left open by the earlier simulated decision. The Court must independently apply intermediate scrutiny while respecting adequately supported legislative predictions. Properly supported as-applied challenges remain outside the facial judgment.
+- **Relevant Dates:** First simulated Turner decision June 27, 1994; remand judgment, 910 F. Supp. 734 (D.D.C. 1995); argued October 7, 1996; decided March 31, 1997.
+- **Companion or Consolidated Matters:** Continuation of Turner Broadcasting System, Inc. v. FCC, 512 U.S. 622 (1994).
+- **Participation Matter:** Official opinion checked: no historical case-specific nonparticipation is recorded. The term-effective simulation roster applies with Stone as Chief Justice; no case-specific exclusion or vote is inferred beyond the controlling participation record.
+- **Public Sources:** Official U.S. Reports, 520 U.S. 180; Turner Broadcasting System, Inc. v. FCC, 910 F. Supp. 734 (D.D.C. 1995); congressional and remand evidentiary materials described in the opinions.
+
+## B. LAW ENTERING THE CASE
+
+- **Current Through:** July 1, 1996, authoritative October 7, 2026 OT1995 close (116 Court events and ten admitted sources), plus applicable event-date noncase law. Historical later decisions and prepared OT1996 positions do not enter as holdings.
+- **Earlier Same-Term Decisions:** The event-specific entering-law slice identifies no directly changing current-term holding for these granted issues. Its March 31, 1997 cutoff controls; same-day order alone creates no intervening law.
+- **Unresolved Same-Term Dependencies:** None identified. Any earlier listed matter that is later rendered before this event must be checked at revalidation.
+
+### Issue 1: Record support and fit of must-carry
+
+- **Controlling Simulated Law:** Turner Broadcasting System, Inc. v. FCC, 512 U.S. 622 (simulated 1994), classifies the general full-power core as content neutral and applies intermediate scrutiny. It recognizes the substantial interests and requires deferential but independent review at the expressly majority-supported level. Its specific explanation that the earlier record was insufficient was a plurality rationale, not a controlling factual finding; the remand judgment governs at its stated scope.
+- **Current Reusable Doctrine:** Cable must-carry classification and intermediate scrutiny requires an important or substantial interest unrelated to suppression and a reasonable fit that does not burden substantially more editorial discretion than necessary. Courts may respect adequately supported legislative predictions while independently reviewing burden and fit.
+- **Other Governing Law:** The First Amendment; 47 U.S.C. §§ 534 and 535; O'Brien and Ward; summary-judgment rules governing undisputed legislative and adjudicative facts.
+
+## F. VERIFIED SIMULATED-LAW APPLICATION
+
+### Scope and authority of the 1994 mandate
+
+The prior simulated Turner decision has five direct joins for content neutrality of the general full-power carriage duties and the stated intermediate standard. The importance of broadcast availability, diverse sources, and fair competition does not establish actual advancement or fit. Substantial deference to congressional prediction is supported at a limited common level, while the complete record-insufficiency explanation had only four joins. The remand separately left low-power local-programming criteria and market adjustment for consideration; neither was independently upheld. The new record must therefore be matched to the actual provisions now under review, and findings about typical capacity cannot automatically settle a materially different content-based application.
+
+- **Verified primary case source:** [Official U.S. Reports — record, procedural history and identifiers](https://www.supremecourt.gov/opinions/boundvolumes/520bv.pdf#page=275). The historical outcome is segregated in Section III.
+
+- **Procedural Category:** Argued appellate merits
+
+- **Event Type:** Merits (scheduled consideration)
+
+- **Area of Law:** First Amendment, cable regulation, legislative facts, and intermediate scrutiny
+
+- **Authority provenance:** [Inherited-law manifest](OT_1996_MANIFEST.md); [Holdings](sources/OT_1996_REFERENCE_HOLDINGS.md); [Standards and Tests](sources/OT_1996_REFERENCE_STANDARDS_AND_TESTS.md). Court holdings govern at their recorded scope; separate writings and proposed positions do not.
+
+- **Presentation route:** This matter is directed to the Court through the appellate or original-jurisdiction route stated above. It is not a newly invented Circuit Justice application.
+
+## G. FRESH NEUTRAL VALIDATION — COMPETING RECORD PATHS
+
+In-world cutoff: March 31, 1997. The paired authority slice, OT_1996CHUNK6_64_Turner_II.md, supplies the controlling Turner I holdings and **Cable-carriage rules and review of legislative predictions**, effective June 27, 1994. Its distinction among the full-power classification, general standard, limited common predictive-deference rule, and plurality insufficiency explanation must remain intact. Neither Stevens's agreement with the limited deference proposition nor his vote for remand is a join in the complete plurality rationale. The general full-power core and the distinct low-power/market provisions are not interchangeable.
+
+Source for the following neutral lower-proceeding recitation: ../sources/chunk6-neutral-control/TURNER_DISTRICT_RECORD_EXACT.txt, a control extraction from the primary opinion's account of 910 F. Supp. 734 (D.D.C. 1995), at 742–789. It excludes the present Supreme Court disposition, rationale, authorship, and lineup. This review consulted the sanitized extract, not the underlying present-matter Supreme Court opinion. Under Engine §14, it supports what the lower judges found or argued, rather than authenticating every underlying study as true.
+
+After eighteen months of additional development, the remand record contained tens of thousands of pages, including the pre-enactment hearings, expert submissions, sworn material, and industry documents. The district majority found substantial support for a prediction that significant numbers of stations would lose carriage. It relied on studies and examples of drops, refusals, adverse repositioning, and failure to restore stations, as well as evidence of increasing operator incentives to capture advertising and favor affiliated programmers. It accepted predictions that operators had restrained removals during the investigation and litigation, that noncarriage would reduce audience and revenue, and that affected stations could suffer serious financial harm. These are accepted lower evidentiary inferences, not present Court findings.
+
+On burden and fit, the district majority relied on evidence that most systems had added no broadcast stations under the new rules, that added must-carry stations occupied 1.2 percent of all cable channels, and that expanding capacity would reduce the burden. The 1.2 percent figure describes channels devoted to **added stations**, not every channel reserved or every editorial effect of the scheme. The majority considered leased access at regulated prices, A/B switches allowing reception of cable and broadcast signals, more limited former FCC-style rules, and broadcast subsidies; it concluded that even if less burdensome, those alternatives would not achieve the governmental interests as effectively. Intermediate scrutiny's rejection of a least-restrictive-means requirement does not make actual alternatives irrelevant.
+
+Judge Jackson concurred in the district judgment while expressing a preference for trial rather than summary judgment. Judge Williams dissented based on growth in station numbers, advertising revenue, and per-station profits during the no-must-carry period; he did not accept that the industry as a whole faced serious jeopardy. He nevertheless acknowledged the legitimate anticompetitive concern and operators' incentives to favor affiliated programming. He regarded the expressive burden as significant though diminishing and would have granted appellants summary judgment because less restrictive alternatives made the enacted scope insufficiently tailored. His objection is therefore not reduced to denial of every economic concern or to a demand that Congress protect no broadcaster until the whole industry collapses.
+
+The Government's supported path combines bottleneck incentives, threatened local service, and the majority's limited-burden and alternative-effectiveness findings. The challengers' supported path disputes the harm prediction and nationwide fit in light of the favorable industry evidence, particular editorial displacement, and available narrower measures. A distinct procedural path asks whether material disputes permit summary judgment or require further proceedings. These are legal alternatives for modeling, not commitments or findings adopted here. The Court may affirm within the supported scope, reverse on demonstrated constitutional insufficiency, or vacate for additional proceedings where material factual or provision-specific questions prevent final resolution. A broad disposition must identify the actual provision and ground; one cannot infer a blanket injunction, new quota, or mandatory trial solely from disagreement with the lower reasoning.
+
+Additional date-eligible primary source recovery resolves the lower-treatment question: 910 F. Supp. 734, 749–752, section C and conclusion, copied to ../sources/chunk6-neutral-control/TURNER_DISTRICT_RESERVED_COMPONENTS.txt from https://static.case.law/f-supp/910/html/0734-01.html . The lower court expressly treated low-power eligibility, quoted §534(h)(2)(B)'s local-news criterion, and also quoted §534(h)(1)(C)(ii)(III)'s community-interest language. It grouped the latter provision with low-power qualification rather than separately explaining market adjustment. That lower characterization does not rewrite the statutory categories or erase Turner I's distinct reservations.
+
+The district court regarded the provisions as close to content-based but sustained them using viewpoint neutrality, absence of a message-promoting motive, vulnerability of low-power broadcasting, and intermediate scrutiny. It also questioned whether these plaintiffs showed sufficient injury, because exclusion of some low-power stations reduced their mandatory carriage burden and voluntary carriage remained possible; it did not enter a separate categorical no-standing dismissal. It preserved specific applications causing clear injury. The order granted defendants summary judgment on remaining issues. Its takings dismissal was without prejudice, and it treated the separate religious challenge as already decided. Those ancillary dispositions do not automatically enlarge the present grant.
+
+This provides an actual competing reserved-component rationale for analysis: Turner I's controlling classification rule states that benign purpose and viewpoint neutrality do not by themselves neutralize a content-based operation, while the district court's injury and as-applied limits require separate attention. Any present adjudication of the low-power or market-adjustment question must identify the provision, preserved issue, applicable classification and record, instead of borrowing the full-power outcome. No new factual reconstruction, authoritative statutory text, party concession, or severance is adopted.
+
+The actual appeal submissions now supply a concrete scope dispute. Source: ../sources/chunk6-neutral-control/TURNER_APPEAL_SCOPE_EXACT.txt, mechanically extracted from the joint jurisdictional statement, Time Warner merits brief at 47–48, and federal appellees' concluding footnote, Internet Archive item https://archive.org/details/micro_IA40385013_0682 . The jurisdictional question asks whether, absent jeopardy to the health of free local broadcasting nationally or in particular markets, Congress may require all cable operators to prefer local stations over other programmers. Time Warner's separate section VI expressly attacks both the low-power and market-modification provisions as content based; it argues that viewpoint neutrality does not answer content selection, that the Government supplied no compelling justification, and that the district court did not separately address market modification. This last assertion is counsel's account, to be read alongside the actual district discussion rather than substituted for it. The Government objects that the separate low-power issue was omitted from the jurisdictional statement and is therefore outside the appeal; the quoted objection does not separately articulate a market-modification objection.
+
+Thus neither nonpreservation nor abandonment may be assumed merely from the initial summary. The supported fork is whether the distinct classification challenges fall within the actual supplied simulation grant and permissible scope of review, notwithstanding the narrower jurisdictional wording and the Government's objection. If outside, a general full-power judgment leaves their merits unadjudicated; if properly reached, their content criteria and applicable scrutiny require separate determination. The packet identifies the competing preservation arguments without deciding the scope question or importing a historical Supreme Court resolution.
+

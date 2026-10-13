@@ -1,0 +1,252 @@
+
+
+
+ 
+  
+  
+  
+
+	
+	
+	
+	
+    
+    
+    
+    
+    
+    
+    
+    Chandler v. Miller, 520 U.S. 305 (1997)
+ 
+ 
+
+    
+    
+	
+		
+			
+LII
+
+			 
+			
+Supreme Court
+		 
+		
+	
+
+
+ 
+
+
+
+Chandler v. Miller (96-126), 520 U.S. 305 (1997)
+Syllabus 
+  Dissent 
+ [ Rehnquist ]Opinion 
+ [ Ginsburg ]HTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect version
+
+
+ 
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See United States v. Detroit Timber & Lumber
+ Co., 200
+ U.S. 321, 337.
+ 
+ 
+
+
+SUPREME COURT OF THE UNITED STATES
+ 
+ 
+
+
+Syllabus
+
+
+CHANDLER et al.
+ v. MILLER, GOVERNOR OF GEORGIA, et al.
+ 
+ 
+
+certiorari to the united states
+ court of appeals for the eleventh circuit
+ 
+ 
+
+No. 96-126.
+ Argued January 14, 1997 -- Decided
+ April 15, 1997
+ 
+ 
+
+
+
+ 
+ 
+
+
+A Georgia statute requires candidates for designated state offices to
+ certify that they have taken a urinalysis drug test within 30 days prior
+ to qualifying for nomination or election and that the test result was negative.
+ Petitioners, Libertarian Party nominees for state offices subject to the
+ statute's requirements, filed this action in the District Court about one
+ month before the deadline for submission of the certificates. Naming as
+ defendants the Governor and two officials involved in the statute's administration,
+ petitioners asserted, inter alia, that the drug tests violated their
+ rights under the First, Fourth, and Fourteenth
+ Amendments to the United States Constitution. The District Court denied
+ petitioners' motion for a preliminary injunction and later entered final
+ judgment for respondents. Relying on this Court's precedents sustaining
+ drug testing programs for student athletes, Vernonia School Dist. 47J
+ v. Acton, 515 U. S. ___, ___, Customs Service employees, Treasury
+ Employees v. Von Raab, 489
+ U.S. 656, 659, and railway employees, Skinner v. Railway
+ Labor Executives' Assn., 489
+ U.S. 602, 608-613, the Eleventh Circuit affirmed. The court accepted
+ as settled law that the tests were searches, but reasoned that, as was
+ true of the drug testing programs at issue in Skinner and Von
+ Raab, the statute served "special needs," interests other than the
+ ordinary needs of law enforcement. Balancing the individual's privacy expectations
+ against the State's interest in the drug testing program, the court held
+ the statute, as applied to petitioners, not inconsistent with the Fourth
+ and Fourteenth
+ Amendments.
+ 
+ 
+
+
+Held: Georgia's requirement
+ that candidates for state office pass a drug test does not fit within the
+ closely guarded category of constitutionally permissible suspicionless
+ searches. Pp. 6-17.
+ 
+ 
+
+
+(a) It is uncontested that
+ Georgia's drug testing requirement, imposed by law and enforced by state
+ officials, effects a search within the meaning of the Fourth and Fourteenth
+ Amendments. The pivotal question here is whether the searches are reasonable.
+ To be reasonable under the Fourth
+ Amendment, a search ordinarily must be based on individualized suspicion
+ of wrongdoing. See Vernonia, 515 U. S., at ___. But particularized
+ exceptions to the main rule are sometimes warranted based on "special needs,
+ beyond the normal need for law enforcement." See Skinner, 489 U.
+ S., at 619. When such "special needs" are alleged, courts must undertake
+ a context specific inquiry, examining closely the competing private and
+ public interests advanced by the parties. See Von Raab, 489 U. S.,
+ at 665-666. In evaluating Georgia's ballot access, drug testing statute--a
+ measure plainly not tied to individualized suspicion--the Eleventh Circuit
+ sought to balance the competing interests in line with this Court's precedents
+ most immediately in point: Skinner, Von Raab, and Vernonia.
+ Pp. 6-10.
+ 
+ 
+
+
+(b) These precedents remain the guides for assessing the validity
+ of the Georgia statute despite respondents' invitation to apply a framework
+ extraordinarily deferential to state measures setting conditions of candidacy
+ for state office. No precedent suggests that a State's sovereign power
+ to establish qualifications for state offices diminishes the constraints
+ on state action imposed by the Fourth Amendment. Pp. 10-11.
+ 
+ 
+
+
+(c) Georgia's testing method is relatively noninvasive; therefore,
+ if the "special need" showing had been made, the State could not be faulted
+ for excessive intrusion. However, Georgia has failed to show a special
+ need that is substantial--important enough to override the individual's
+ acknowledged privacy interest, sufficiently vital to suppress the Fourth
+ Amendment's normal requirement of individualized suspicion. Respondents
+ contend that unlawful drug use is incompatible with holding high state
+ office because such drug use draws into question an official's judgment
+ and integrity; jeopardizes the discharge of public functions, including
+ antidrug law enforcement efforts; and undermines public confidence and
+ trust in elected officials. Notably lacking in respondents' presentation
+ is any indication of a concrete danger demanding departure from the Fourth
+ Amendment's main rule. The statute was not enacted, as repondents concede,
+ in response to any fear or suspicion of drug use by state officials. A
+ demonstrated problem of drug abuse, while not in all cases necessary to
+ the validity of a testing regime, see Von Raab, 489 U. S., at 673-675,
+ would shore up an assertion of special need for a suspicionless general
+ search program, see Skinner, 489 U. S., at 606-608, Vernonia,
+ 515 U. S., at___. In contrast to the effective testing regimes upheld in
+ Skinner, Von Raab, and Vernonia, Georgia's certification
+ requirement is not well designed to identify candidates who violate antidrug
+ laws and is not a credible means to deter illicit drug users from seeking
+ state office. The test date is selected by the candidate, and thus all
+ but the prohibitively addicted could abstain for a pretest period sufficient
+ to avoid detection. Respondents' reliance on this Court's decision in Von
+ Raab, which sustained a drug testing program for Customs Service officers
+ prior to promotion or transfer to certain high risk positions, despite
+ the absence of any documented drug abuse problem among Service employees,
+ 489 U. S., at 660, is misplaced. Hardly a decision opening broad vistas
+ for suspicionless searches, Von Raab must be read in its unique
+ context. Drug interdiction had become the agency's primary enforcement
+ mission. The covered posts directly involved drug interdiction or otherwise
+ required Customs officers to carry firearms, the employees would have access
+ to vast sources of valuable contraband, and officers had been targets of
+ and some had succumbed to bribery by drug smugglers. Moreover, it was not
+ feasible to subject the Customs Service employees to the kind of day to
+ day scrutiny that is the norm in more traditional office environments.
+ In telling contrast, the day-to-day conduct of candidates for public office
+ attracts attention notably beyond the norm in ordinary work environments.
+ What is left, after close review of Georgia's scheme, is that the State
+ seeks to display its commitment to the struggle against drug abuse. But
+ Georgia asserts no evidence of a drug problem among the State's elected
+ officials, those officials typically do not perform high risk, safety sensitive
+ tasks, and the required certification immediately aids no interdiction
+ effort. The need revealed is symbolic, not "special." The Fourth
+ Amendment shields society from state action that diminishes personal
+ privacy for a symbol's sake. Pp. 11-16.
+ 
+ 
+
+
+(d) The Court expresses no opinion on medical examinations designed
+ to provide certification of a candidate's general health or on financial
+ disclosure requirements, and it does not speak to drug testing in the private
+ sector, a domain unguarded by Fourth
+ Amendment constraints. Pp. 16-17.
+ 
+ 
+
+
+73 F. 3d 1543,
+ reversed.
+ 
+ 
+
+
+Ginsburg, J., delivered the
+ opinion of the Court, in which Stevens, O'Connor, Scalia, Kennedy, Souter,
+ Thomas, and Breyer, JJ., joined. Rehnquist, C. J., filed a dissenting opinion. 
+ 
+
+ 
+
+
+
+ 
+
+

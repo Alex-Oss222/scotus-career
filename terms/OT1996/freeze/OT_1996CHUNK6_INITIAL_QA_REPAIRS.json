@@ -1,0 +1,36 @@
+[
+  {
+    "record": "Robinson_v_City_of_Edmond_merits_1997-03-31.md",
+    "before_sha256": "3622931edf09b52992e87c21956a3e2ba503056921ee585bbe93df79e5a03e1d",
+    "after_sha256": "bf951b65b228ce82746288842678775bf5bb47f0a3445dde529efac176e645aa",
+    "initial_Run_QA_refinements": [
+      [
+        "Allegheny's treatment of permanent official religious identification supplies a boundary between permissible acknowledgment and the government's identification of itself with a faith.",
+        "Kennedy's separate writing in Allegheny identifies a boundary between permissible acknowledgment and permanent official religious identification. The Court now directly adopts that bounded distinction on the institutional-use facts here."
+      ],
+      [
+        "Applies contextual affiliation analysis in PartIII and the distinct permanent official-identification boundary in PartIV; no universal ban on governmental religious references follows.",
+        "Applies contextual affiliation analysis in PartIII and directly adopts the bounded permanent official-identification distinction from Kennedy's separate writing in PartIV; the present nine-Justice agreement supplies that holding's controlling force. No universal ban on governmental religious references follows."
+      ],
+      [
+        "The complete trial transcript is not supplied;",
+        "The published sources do not reproduce the complete trial transcript;"
+      ]
+    ],
+    "judgment_votes_and_joins": "unchanged",
+    "note": "Before chunk finalization; clarifies the existing adopted authority/source or operative statutory qualification. No prior-chunk adjudication changed."
+  },
+  {
+    "record": "Turner_Broadcasting_System_Inc_v_FCC_merits_1997-03-31.md",
+    "before_sha256": "e237cfc52641ea0cc8795eccebeec1d6aaf77946105c11e284caaa6026a2461c",
+    "after_sha256": "e65c5bc0450829db989e3377a54815f2a13f8686ac5ef4dd7825fa4f43b084e0",
+    "initial_Run_QA_refinements": [
+      [
+        "These are actual programming obligations, with primary video, audio and captions and the statute's technically feasible program-related material, positioning and availability duties, not merely reservation of empty channels.",
+        "These are actual programming obligations, including primary video, audio and captions. Commercial carriage includes technically feasible program-related blanking-interval or subcarrier material; educational carriage includes technically feasible program-related ancillary material necessary for disability access, education or language purposes. Other ancillary material remains discretionary. Positioning and availability duties also constrain operation; the law does not merely reserve empty channels."
+      ]
+    ],
+    "judgment_votes_and_joins": "unchanged",
+    "note": "Before chunk finalization; clarifies the existing adopted authority/source or operative statutory qualification. No prior-chunk adjudication changed."
+  }
+]

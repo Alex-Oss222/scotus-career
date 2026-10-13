@@ -1,0 +1,17 @@
+[
+  {
+    "record": "Turner_Broadcasting_System_Inc_v_FCC_merits_1997-03-31.md",
+    "change": "Repair two internal assignment-receipt paths expanded by a template-token collision; no substantive assignment or public text changed.",
+    "public_sha256": "a17986ccc321598ea6a61719c3c2afd0f1302bb6cc42b2c5e738b79daed512a9"
+  },
+  {
+    "record": "United_States_v_Lanier_merits_1997-03-31.md",
+    "change": "Repair two internal assignment-receipt paths expanded by a template-token collision; no substantive assignment or public text changed.",
+    "public_sha256": "29663c65e61e5895ebcbe7ff47a74e99658073704d1c81ea241eb74f02aa151a"
+  },
+  {
+    "record": "Young_v_Fordice_merits_1997-03-31.md",
+    "change": "Repair two internal assignment-receipt paths expanded by a template-token collision; no substantive assignment or public text changed.",
+    "public_sha256": "03dc5507cc1666642bd5735eadf1b282a79f6281f7715641a9ef5e962c450718"
+  }
+]

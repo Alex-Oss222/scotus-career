@@ -1,0 +1,280 @@
+{
+  "purpose": "Post-initial-QA refresh of source byte hashes; each actual preassignment count, eligibility input and topology remains unchanged. No opinion is reassigned. Original census files retained in ignored scratch.",
+  "checks": [
+    {
+      "matter": 60,
+      "counts": {
+        "Stone-Zsela": 4,
+        "Stevens": 5,
+        "O'Connor": 9,
+        "Scalia": 5,
+        "Kennedy": 5,
+        "Souter": 8,
+        "Thomas": 4,
+        "Ginsburg": 6,
+        "Breyer": 5
+      },
+      "last_counted_event": {
+        "date": "1997-03-19",
+        "case_name": "Ingebretsen v. Jackson Public School District",
+        "record": "Ingebretsen_v_Jackson_Public_School_District_merits_1997-03-19.md",
+        "lead_authors": [
+          "Ginsburg"
+        ]
+      },
+      "original_receipt_sha256": "437dca1f4818c05329e36d34e16358e110982fb6f67700f00a846a55023a7240",
+      "final_receipt_sha256": "e630820ad7725b40dbad093dee292dd8bafbb1d30b46d3ed528f1b8ea855bcbb",
+      "all_counts_classifications_authors_topologies_unchanged": true
+    },
+    {
+      "matter": 61,
+      "counts": {
+        "Stone-Zsela": 4,
+        "Stevens": 5,
+        "O'Connor": 9,
+        "Scalia": 5,
+        "Kennedy": 5,
+        "Souter": 8,
+        "Thomas": 4,
+        "Ginsburg": 5,
+        "Breyer": 5
+      },
+      "last_counted_event": {
+        "date": "1997-03-19",
+        "case_name": "Bennett v. Spear",
+        "record": "Bennett_v_Spear_merits_1997-03-19.md",
+        "lead_authors": [
+          "Scalia"
+        ]
+      },
+      "original_receipt_sha256": "7acd61b415ae909e0827acf6dec200f77e0f4f9ea509e9d566f8bc8022a9dc68",
+      "final_receipt_sha256": "99a77c9d72db3d97cd438cfbd4e696972a75c17638ead9c651d47abe6e01f2a2",
+      "all_counts_classifications_authors_topologies_unchanged": true
+    },
+    {
+      "matter": 62,
+      "counts": {
+        "Stone-Zsela": 4,
+        "Stevens": 5,
+        "O'Connor": 9,
+        "Scalia": 5,
+        "Kennedy": 5,
+        "Souter": 8,
+        "Thomas": 5,
+        "Ginsburg": 6,
+        "Breyer": 5
+      },
+      "last_counted_event": {
+        "date": "1997-03-19",
+        "case_name": "Oncale v. Sundowner Offshore Services, Inc",
+        "record": "Oncale_v_Sundowner_Offshore_Services_Inc_merits_1997-03-19.md",
+        "lead_authors": [
+          "Thomas"
+        ]
+      },
+      "original_receipt_sha256": "f447f267278c92d0c5335a4fdcbada79b6dfa460596b5431e0824b480a47c544",
+      "final_receipt_sha256": "8430f7c46fc0236d7dd922ddfce350fd234458c03ea19a5724e2f7ce6a49572f",
+      "all_counts_classifications_authors_topologies_unchanged": true
+    },
+    {
+      "matter": 63,
+      "counts": {
+        "Stone-Zsela": 4,
+        "Stevens": 5,
+        "O'Connor": 9,
+        "Scalia": 5,
+        "Kennedy": 5,
+        "Souter": 8,
+        "Thomas": 5,
+        "Ginsburg": 6,
+        "Breyer": 5
+      },
+      "last_counted_event": {
+        "date": "1997-03-19",
+        "case_name": "Oncale v. Sundowner Offshore Services, Inc",
+        "record": "Oncale_v_Sundowner_Offshore_Services_Inc_merits_1997-03-19.md",
+        "lead_authors": [
+          "Thomas"
+        ]
+      },
+      "original_receipt_sha256": "f45895004c0d0665ea703efa8485283e2169d6624d4d3263bb2195503c3c88ba",
+      "final_receipt_sha256": "4a25bcabae711a65bfeffb42e75d53032a36d2f46973d8f818fa11751e29dfcc",
+      "all_counts_classifications_authors_topologies_unchanged": true
+    },
+    {
+      "matter": 64,
+      "counts": {
+        "Stone-Zsela": 4,
+        "Stevens": 5,
+        "O'Connor": 9,
+        "Scalia": 5,
+        "Kennedy": 5,
+        "Souter": 8,
+        "Thomas": 5,
+        "Ginsburg": 6,
+        "Breyer": 6
+      },
+      "last_counted_event": {
+        "date": "1997-03-31",
+        "case_name": "Robinson v. City of Edmond",
+        "record": "Robinson_v_City_of_Edmond_merits_1997-03-31.md",
+        "lead_authors": [
+          "Breyer"
+        ]
+      },
+      "original_receipt_sha256": "b684258bf382def46262fb93a1809e7834cf4220355422633268b64683bc27e7",
+      "final_receipt_sha256": "14e2c5c68b252b04d5275f79eeedd41a0808c6a62d3c2f8cb61033f9004e99ed",
+      "all_counts_classifications_authors_topologies_unchanged": true
+    },
+    {
+      "matter": 65,
+      "counts": {
+        "Stone-Zsela": 4,
+        "Stevens": 5,
+        "O'Connor": 9,
+        "Scalia": 5,
+        "Kennedy": 6,
+        "Souter": 8,
+        "Thomas": 5,
+        "Ginsburg": 6,
+        "Breyer": 6
+      },
+      "last_counted_event": {
+        "date": "1997-03-31",
+        "case_name": "Turner Broadcasting System, Inc. v. Federal Communications Commission",
+        "record": "Turner_Broadcasting_System_Inc_v_FCC_merits_1997-03-31.md",
+        "lead_authors": [
+          "Kennedy"
+        ]
+      },
+      "original_receipt_sha256": "846d1e7124c420aa66e0b06be6f63547e9df24ffaa7585be8d2eed5ad8601ba4",
+      "final_receipt_sha256": "b41a121af359b116bc8d27cbabae1b2903913e559bdb1e762484fd22ca3aaaae",
+      "all_counts_classifications_authors_topologies_unchanged": true
+    },
+    {
+      "matter": 66,
+      "counts": {
+        "Stone-Zsela": 5,
+        "Stevens": 5,
+        "O'Connor": 9,
+        "Scalia": 5,
+        "Kennedy": 6,
+        "Souter": 8,
+        "Thomas": 5,
+        "Ginsburg": 6,
+        "Breyer": 6
+      },
+      "last_counted_event": {
+        "date": "1997-03-31",
+        "case_name": "United States v. Lanier",
+        "record": "United_States_v_Lanier_merits_1997-03-31.md",
+        "lead_authors": [
+          "Stone-Zsela"
+        ]
+      },
+      "original_receipt_sha256": "71d63e348f164556b69d660b1a21b97aaf70c56c2c61b280b458b6d1d0b69ac4",
+      "final_receipt_sha256": "35d5af5a40f35c5b3f9f2a7ddc347ce3848e68888065bd39896f378d3e66d3f0",
+      "all_counts_classifications_authors_topologies_unchanged": true
+    },
+    {
+      "matter": 67,
+      "counts": {
+        "Stone-Zsela": 5,
+        "Stevens": 6,
+        "O'Connor": 9,
+        "Scalia": 5,
+        "Kennedy": 6,
+        "Souter": 8,
+        "Thomas": 5,
+        "Ginsburg": 6,
+        "Breyer": 6
+      },
+      "last_counted_event": {
+        "date": "1997-03-31",
+        "case_name": "Young v. Fordice",
+        "record": "Young_v_Fordice_merits_1997-03-31.md",
+        "lead_authors": [
+          "Stevens"
+        ]
+      },
+      "original_receipt_sha256": "eb3aad4320bbae52f264c586acd1105ce68417023680255c44e59ff0138af36c",
+      "final_receipt_sha256": "1771cca313d09c5707f0269b1a81956be45bb38669c2845a3f5d39bb4e8ec3ab",
+      "all_counts_classifications_authors_topologies_unchanged": true
+    },
+    {
+      "matter": 69,
+      "counts": {
+        "Stone-Zsela": 6,
+        "Stevens": 6,
+        "O'Connor": 9,
+        "Scalia": 5,
+        "Kennedy": 6,
+        "Souter": 8,
+        "Thomas": 5,
+        "Ginsburg": 6,
+        "Breyer": 6
+      },
+      "last_counted_event": {
+        "date": "1997-04-07",
+        "case_name": "Opuku-Boateng v. California",
+        "record": "Opuku_Boateng_v_California_merits_1997-04-07.md",
+        "lead_authors": [
+          "Stone-Zsela"
+        ]
+      },
+      "original_receipt_sha256": "850444ba384f662e088989cabc2b1a3d4708070123d2720f3b4843564a9d6ad2",
+      "final_receipt_sha256": "51f80211232e5a6dcb6988e5f2b1e7e0d053b053993d42150d66bb614ef68805",
+      "all_counts_classifications_authors_topologies_unchanged": true
+    },
+    {
+      "matter": 70,
+      "counts": {
+        "Stone-Zsela": 6,
+        "Stevens": 6,
+        "O'Connor": 9,
+        "Scalia": 6,
+        "Kennedy": 6,
+        "Souter": 8,
+        "Thomas": 5,
+        "Ginsburg": 6,
+        "Breyer": 6
+      },
+      "last_counted_event": {
+        "date": "1997-04-15",
+        "case_name": "Chandler v. Miller",
+        "record": "Chandler_v_Miller_merits_1997-04-15.md",
+        "lead_authors": [
+          "Scalia"
+        ]
+      },
+      "original_receipt_sha256": "673bc9bf366257e7518a4fee79b5f18d3285066f73666af6bc28ba4d7ab93cf8",
+      "final_receipt_sha256": "095e1ac96893073143f6d04ec3a55a8230ec9133e6736a379c925db7327a882c",
+      "all_counts_classifications_authors_topologies_unchanged": true
+    },
+    {
+      "matter": 71,
+      "counts": {
+        "Stone-Zsela": 6,
+        "Stevens": 7,
+        "O'Connor": 9,
+        "Scalia": 6,
+        "Kennedy": 6,
+        "Souter": 8,
+        "Thomas": 5,
+        "Ginsburg": 6,
+        "Breyer": 6
+      },
+      "last_counted_event": {
+        "date": "1997-04-21",
+        "case_name": "Blessing v. Freestone",
+        "record": "Blessing_v_Freestone_merits_1997-04-21.md",
+        "lead_authors": [
+          "Stevens"
+        ]
+      },
+      "original_receipt_sha256": "e1c48b0af8b1eaeeee523a0917780d5ad58d15035f67f8a0fc7f837e60839a72",
+      "final_receipt_sha256": "9dd140c8ba270315e93754130044e116904ca541f62346f2b8a1f3a8662d30d2",
+      "all_counts_classifications_authors_topologies_unchanged": true
+    }
+  ]
+}

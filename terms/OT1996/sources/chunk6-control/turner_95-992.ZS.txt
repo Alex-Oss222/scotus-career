@@ -1,0 +1,335 @@
+
+
+
+ 
+  
+  
+  
+
+	
+	
+	
+	
+    
+    
+    
+    
+    
+    
+    
+    Turner Broadcasting System, Inc. v. F.C.C., 520 U.S. 180 (1997)
+ 
+ 
+
+    
+    
+	
+		
+			
+LII
+
+			 
+			
+Supreme Court
+		 
+		
+	
+
+
+ 
+
+
+
+Turner Broadcasting System, Inc. v. F.C.C. (95-992), 520 U.S. 180 (1997)
+Opinion 
+ [ Kennedy ]Concurrence 
+ [ Stevens ]Syllabus 
+  Dissent 
+ [ O'Connor ]Concurrence 
+ [ Breyer ]HTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect version
+
+
+ 
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See United States v. Detroit Timber & Lumber
+ Co., 200
+ U.S. 321, 337.
+ 
+ 
+
+
+SUPREME COURT OF THE UNITED STATES
+ 
+ 
+
+
+Syllabus
+
+
+TURNER BROADCASTING SYSTEM,
+ INC., et al. v. FEDERAL COMMUNICATIONS COMMISSION
+ et al.
+ 
+ 
+
+appeal from the united states
+ district court for the district of columbia
+ 
+ 
+
+No. 95-992.
+ Argued October 7, 1996 -- Decided
+ March 31, 1997
+ 
+ 
+
+
+
+ 
+ 
+
+
+Sections 4 and 5 of the Cable Television Consumer Protection and Competition
+ Act of 1992 (Cable Act) require cable television systems to dedicate some
+ of their channels to local broadcast television stations. In Turner
+ Broadcasting System, Inc. v. FCC, 512
+ U.S. 622 (Turner), this Court held these so called "must carry"
+ provisions to be subject to intermediate First
+ Amendment scrutiny under United States v. O'Brien, 391
+ U.S. 367, 377, whereby a content neutral regulation will be sustained
+ if it advances important governmental interests unrelated to the suppression
+ of free speech and does not burden substantially more speech than necessary
+ to further those interests. However, because a plurality considered the
+ record as then developed insufficient to determine whether the provisions
+ would in fact alleviate real harms in a direct and material way and would
+ not burden substantially more speech than necessary, the Court remanded
+ the case. After 18 months of additional factfinding, the District Court
+ granted summary judgment for the Government and other appellees, concluding
+ that the expanded record contained substantial evidence supporting Congress'
+ predictive judgment that the must carry provisions further important governmental
+ interests in preserving cable carriage of local broadcast stations, and
+ that the provisions are narrowly tailored to promote those interests. This
+ direct appeal followed.
+ 
+ 
+
+
+Held: The judgment is
+ affirmed.
+ 
+ 
+
+
+910 F. Supp. 734,
+ affirmed.
+ 
+ 
+
+
+Justice Kennedy delivered the
+ opinion of the Court with respect to all but a portion of Part II-A-1,
+ concluding that the must carry provisions are consistent with the First
+ Amendment:
+ 
+ 
+
+
+1. The record as it now stands supports Congress' predictive judgment
+ that the must carry provisions further important governmental interests.
+ Pp. 6-13, 25-31.
+ 
+ 
+
+
+(a) This Court decided in Turner, 512 U. S., at 662, and
+ now reaffirms, that must carry was designed to serve three interrelated,
+ important governmental interests: (1) preserving the benefits of free,
+ over the air local broadcast television, (2) promoting the widespread dissemination
+ of information from a multiplicity of sources, and (3) promoting fair competition
+ in the television programming market. Protecting noncable households from
+ loss of regular broadcasting service due to competition from cable systems
+ is important because 40 percent of American households still rely on over
+ the air signals for television programming. See, e.g., id., at 663.
+ Moreover, there is a corresponding governmental purpose of the highest
+ order in ensuring public access to a multiplicity of information sources,
+ ibid., and the Government has an interest in eliminating restraints
+ on fair competition even when the regulated parties are engaged in protected
+ expressive activity, ibid. The parties' attempts to recast these
+ interests in forms more readily proved--i.e., the Government's claim
+ that the loss of even a few broadcast stations is critically important
+ and appellants' assertions that Congress' interest in preserving broadcasting
+ is not implicated absent a showing that the entire industry would fail,
+ and that its interest in assuring a multiplicity of information sources
+ extends only as far as preserving a minimum amount of broadcast service--are
+ inconsistent with Congress' stated interests in enacting must carry. Pp.
+ 6-11.
+ 
+ 
+
+
+(b) Even in the realm of First
+ Amendment questions where Congress must base its conclusions upon substantial
+ evidence, courts must accord deference to its findings as to the harm to
+ be avoided and to the remedial measures adopted for that end, lest the
+ traditional legislative authority to make predictive judgments when enacting
+ nationwide regulatory policy be infringed. See, e.g., Turner, 512
+ U. S., at 665 (plurality opinion). The courts' sole obligation is to assure
+ that, in formulating its judgments, Congress has drawn reasonable inferences
+ based on substantial evidence. Id., at 666. Pp. 11-13.
+ 
+ 
+
+
+(c) The must carry provisions serve important governmental interests
+ "in a direct and effective way." Ward v. Rock Against Racism,
+ 491
+ U.S. 781, 800. Congress could reasonably conclude from the substantial
+ body of evidence before it that attaining cable carriage would be of increasing
+ importance to ensuring broadcasters' economic viability, and that, absent
+ legislative action, the free local off air broadcast system was endangered.
+ Such evidence amply indicated that: a broadcast station's viability depends
+ to a material extent on its ability to secure cable carriage and thereby
+ to increase its audience size and revenues; broadcast stations had fallen
+ into bankruptcy, curtailed their operations, and suffered serious reductions
+ in operating revenues as a result of adverse carriage decisions by cable
+ systems; stations without carriage encountered severe difficulties obtaining
+ financing for operations; and the potentially adverse impact of losing
+ carriage was increasing as the growth of "clustering"--i.e., the
+ acquisition of as many cable systems in a given market as possible--gave
+ multiple system operators centralized control over more local markets.
+ The reasonableness of the congressional judgment is confirmed by evidence
+ assembled on remand that clearly establishes the importance of cable to
+ broadcast stations and suggests that expansion in the cable industry was
+ harming broadcasting. Although the record also contains evidence to support
+ a contrary conclusion, the question is not whether Congress was correct
+ as an objective matter, but whether the legislative conclusion was reasonable
+ and supported by substantial evidence. Turner, supra, at 665-666.
+ Where, as here, that standard is satisfied, summary judgment is appropriate
+ regardless of whether the evidence is in conflict. Cf., e.g., American
+ Textile Mfrs. Institute, Inc. v. Donovan, 452
+ U.S. 490, 523. Pp. 25-31.
+ 
+ 
+
+
+2. The must carry provisions do not burden substantially more
+ speech than is necessary to further the governmental interests they promote.
+ See e.g., Turner, supra, at 662. Appellants say must carry's burden
+ is great, but significant evidence adduced on remand indicates the vast
+ majority of cable operators have not been affected in a significant manner.
+ This includes evidence that: such operators have satisfied their must carry
+ obligations 87 percent of the time using previously unused channel capacity;
+ 94.5 percent of the cable systems nationwide have not had to drop any programming;
+ the remaining 5.5 percent have had to drop an average of only 1.22 services
+ from their programming; operators nationwide carry 99.8 percent of the
+ programming they carried before must carry; and broadcast stations gained
+ carriage on only 5,880 cable channels as a result of must carry. The burden
+ imposed by must carry is congruent to the benefits it affords because,
+ as appellants concede, most of those 5,880 stations would be dropped in
+ its absence. Must carry therefore is narrowly tailored to preserve a multiplicity
+ of broadcast stations for the 40 percent of American households without
+ cable. Cf., e.g., Ward, 491 U. S., at 799, n. 7. The possibilities
+ that must carry will prohibit dropping a broadcaster even if the cable
+ operator has no anticompetitive motives or if the broadcaster would survive
+ without cable access are not so prevalent that they render must carry substantially
+ overbroad. This Court's precedents establish that it will not invalidate
+ the preferred remedial scheme merely because some alternative solution
+ is marginally less intrusive on a speaker's First
+ Amendment interests. In any event, a careful examination of each of
+ appellants' suggestions--a more limited set of must carry obligations modeled
+ on those earlier used by the Federal Communications Commission; use of
+ so called A/B switches, giving consumers a choice of both cable and broadcast
+ signals; a leased access regime requiring cable operators to set aside
+ channels for both broadcasters and cable programmers to use at a regulated
+ price; subsidies for broadcasters; and a system of antitrust enforcement
+ or an administrative complaint procedure--reveals that none of them is
+ an adequate alternative to must carry for achieving the Government's aims.
+ Because it has received only the most glancing attention from the District
+ Court and the parties, prudence dictates that this Court not reach appellants'
+ challenge to the Cable Act provision requiring carriage of low power stations
+ in certain circumstances. Pp. 31-42.
+ 
+ 
+
+
+Justice Kennedy, joined by The Chief Justice, Justice Stevens,
+ and Justice Souter, and by Justice Breyer in part, concluded in Part II-A-1
+ that the expanded record contains substantial evidence to support Congress'
+ conclusion that enactment of must carry was justified by a real threat
+ to local broadcasting's economic health. The harm Congress feared was that
+ broadcast stations dropped or denied cable carriage would be at a serious
+ risk of financial difficulty, see Turner, 512 U. S., at 667, and
+ would deteriorate to a substantial degree or fail altogether, id.,
+ at 666. The evidence before Congress, as supplemented on remand, indicated,
+ inter alia, that: cable operators had considerable and growing market
+ power over local video programming markets in 1992; the industry's expanding
+ horizontal and vertical integration would give cable operators increasing
+ ability and incentive to drop, or reposition to less viewed channels, independent
+ local broadcast stations, which competed with the operators for audiences
+ and advertisers; significant numbers of local broadcasters had already
+ been dropped; and, absent must carry, additional stations would be deleted,
+ repositioned, or not carried in an attempt to capture their local advertising
+ revenues to offset waning cable subscription growth. The reasonableness
+ of Congress' predictive judgment is also supported by additional evidence,
+ developed on remand, indicating that the percentage of local broadcasters
+ not carried on the typical cable system is increasing, and that the growth
+ of cable systems' market power has proceeded apace, better enabling them
+ to sell their own reach to potential advertisers, and to deny broadcast
+ competitors access to all or substantially all the cable homes in a market
+ area. Pp. 13-25.
+ 
+ 
+
+
+Justice Breyer, although agreeing that the statute satisfies the intermediate
+ scrutiny standard set forth in United States v. O'Brien,
+ 391
+ U.S. 367, 377, rested his conclusion not upon the principal opinion's
+ analysis of the statute's efforts to promote fair competition, but rather
+ upon its discussion of the statute's other two objectives. He therefore
+ joined the opinion of the Court except insofar as Part II-A-1 relies on
+ an anticompetitive rationale. Pp. 1-4.
+ 
+ 
+
+
+Kennedy, J., announced the
+ judgment of the Court and delivered the opinion of the Court, except as
+ to a portion of Part II-A-1. Rehnquist, C. J., and Stevens and Souter,
+ JJ., joined that opinion in full, and Breyer, J., joined except insofar
+ as Part II-A-1 relied on an anticompetitive rationale. Stevens, J., filed
+ a concurring opinion. Breyer, J., filed an opinion concurring in part.
+ O'Connor, J., filed a dissenting opinion, in which Scalia, Thomas, and
+ Ginsburg, JJ., joined.
+ 
+ 
+
+
+
+ 
+ 
+
+
+
+ 
+
+

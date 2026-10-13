@@ -1,0 +1,190 @@
+
+
+
+ 
+  
+  
+  
+
+	
+	
+	
+	
+    
+    
+    
+    
+    
+    
+    
+    United States v. Lanier, 520 U.S. 259 (1997).
+ 
+ 
+
+    
+    
+	
+		
+			
+LII
+
+			 
+			
+Supreme Court
+		 
+		
+	
+
+
+ 
+
+
+
+United States v. Lanier (95-1717), 520 U.S. 259 (1997).
+Syllabus 
+  Opinion 
+ [ Souter ]HTML version
+WordPerfect versionHTML version
+WordPerfect version
+
+
+ 
+
+ 
+  
+ 
+ 
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See United States v. Detroit Timber & Lumber
+ Co., 200
+ U.S. 321, 337.
+ 
+ 
+
+
+SUPREME COURT OF THE UNITED STATES
+ 
+ 
+
+
+Syllabus
+
+
+UNITED STATES v. LANIER
+ 
+ 
+
+certiorari to the united states
+ court of appeals for the sixth circuit
+ 
+ 
+
+No. 95-1717.
+ Argued January 7, 1997 -- Decided
+ March 31, 1997
+ 
+ 
+
+
+
+ 
+ 
+
+
+Respondent Lanier was convicted under 18
+ U.S.C. § 242 of criminally violating the constitutional rights
+ of five women by assaulting them sexually while he served as a state judge.
+ The jury had been instructed, inter alia, that the Government had
+ to prove as an element of the offense that Lanier had deprived the victims
+ of their Fourteenth
+ Amendment due process right to liberty, which included the right to
+ be free from sexually motivated physical assaults and coerced sexual battery.
+ The en banc Sixth Circuit set aside the convictions for lack of any notice
+ to the public that §242 covers simple or sexual assault crimes. Invoking
+ general interpretive canons and Screws v. United States,
+ 325
+ U.S. 91 (plurality opinion), the court held that §242 criminal
+ liability may be imposed only if the constitutional right said to have
+ been violated is first identified in a decision of this Court, and only
+ when the right has been held to apply in a factual situation "fundamentally
+ similar" to the one at bar. The court regarded these combined requirements
+ as substantially higher than the "clearly established" standard used to
+ judge qualified immunity in civil cases under 42
+ U.S.C. § 1983.
+ 
+ 
+
+
+Held: The Sixth Circuit
+ employed the wrong standard for determining whether particular conduct
+ falls within the range of criminal liability under §242. Section 242's
+ general language prohibiting "the deprivation of any rights . . . secured
+ . . . by the Constitution" does not describe the specific conduct it forbids,
+ but--like its companion conspiracy statute, 18
+ U.S.C. § 241--incorporates constitutional law by reference. Before
+ criminal liability may be imposed for violation of any penal law, due process
+ requires "fair warning . . . of what the law intends." McBoyle v.
+ United States, 283
+ U.S. 25, 27. The touchstone is whether the statute, either standing
+ alone or as construed by the courts, made it reasonably clear at the time
+ of the charged conduct that the conduct was criminal. Section 242 was construed
+ in light of this due process requirement in Screws, supra. The Sixth
+ Circuit erred in adding as a gloss to this standard the requirement that
+ a prior decision of this Court have declared the constitutional right at
+ issue in a factual situation "fundamentally similar" to the one at bar.
+ The Screws plurality referred in general terms to rights made specific
+ by "decisions interpreting" the Constitution, see 325 U. S., at 104; no
+ subsequent case has confined the universe of relevant decisions to the
+ Court's opinions; and the Court has specifically referred to Court of Appeals
+ decisions in defining the established scope of a constitutional right under
+ §241, see Anderson v. United States, 417
+ U.S. 211, 223-227, and in enquiring whether a right was "clearly established"
+ when applying the qualified immunity rule under §1983 and Bivens
+ v. Six Unknown Fed. Narcotics Agents, 403
+ U.S. 388, see, e.g., Mitchell v. Forsyth, 472
+ U.S. 511, 533. Nor has this Court demanded precedents applying the
+ right at issue to a "fundamentally similar" factual situation at the level
+ of specificity meant by the Sixth Circuit. Rather, the Court has upheld
+ convictions under §241 or §242 despite notable factual distinctions
+ between prior cases and the later case, so long as the prior decisions
+ gave reasonable warning that the conduct at issue violated constitutional
+ rights. See, e.g., United States v. Guest, 383
+ U.S. 745, 759, n. 17. The Sixth Circuit's view that due process under
+ §242 demands more than the "clearly established" qualified immunity
+ test under §1983 or Bivens is error. In effect that test is
+ simply the adaptation of the fair warning standard to give officials (and,
+ ultimately, governments) the same protection from civil liability and its
+ consequences that individuals have traditionally possessed in the face
+ of vague criminal statutes. As with official conduct under §1983 or
+ Bivens, liability may be imposed under §242 if, but only if,
+ in the light of pre-existing law the unlawfulness of the defendant's conduct
+ is apparent. Pp. 4-13.
+ 
+ 
+
+
+73 F. 3d 1380,
+ vacated and remanded.
+ 
+ 
+
+
+Souter, J., delivered the opinion
+ for a unanimous Court.
+ 
+ 
+
+
+
+ 
+ 
+
+
+
+ 
+
+

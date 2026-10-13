@@ -1,0 +1,2296 @@
+IN THE 
+
+
+Supreme Court 
+
+
+of the Gnited States 
+
+
+OCTOBER TERM, 1995 
+
+
+TURNER BROADCASTING SYSTEM, INC., e¢ al., 
+
+
+Appellants, 
+
+
+V. 
+
+
+FEDERAL COMMUNICATIONS COMMISSION, et al., 
+
+
+Appellees. 
+
+
+On from the United States District Court 
+or the District of Columbia Circuit 
+
+
+BRIEF FOR APPELLANTS 
+DISCOVERY COMMUNICATIONS, INC. 
+AND THE LEARNING CHANNEL 
+
+
+Of Counsel: 
+
+
+JUDITH A. MCHALE 
+
+MARK HOLLINGER 
+
+DIANE L. HOFBAUER 
+DISCOVERY 
+
+COMMUNICATIONS, INC. 
+
+7700 Wisconsin Avenue 
+Bethesda, MD 20814 
+(301) 986-1999 
+
+
+April 26, 1996 
+
+
+ALBERT G. LAUBER, JR. * 
+PETER VAN N. LOCKWOOD 
+CAPLIN & DRYSDALE, CHTD. 
+One Thomas Circle, NW 
+Suite 1100 
+Washington, DC 20005 
+(202) 862-5000 
+
+
+* Counsel of Record 
+
+
+PRESS OF BYRON S. ADAMS 
+
+
++ WASHINGTON, D.C. # 1-800-347-8208 
+
+
+i 
+
+
+QUESTION PRESENTED 
+
+
+Whether, in the absence of any jeopardy to the health of 
+the overall system of free, local broadcast television (nationally 
+or in particular markets), the First Amendment permits 
+Congress to impose on all cable operators a requirement of 
+mandatory carriage of local broadcast stations in preference to 
+
+
+all other programmers. 
+
+
+il 
+PARTIES TO THE PROCEEDINGS 
+
+
+Plaintiffs: 
+
+
+Atlanta Interfaith Broadcasters, Inc. 
+
+A&E Television Networks 
+
+Black Entertainment Television, Inc. 
+Daniels Cablevision, Inc. 
+
+Discovery Communications, Inc. 
+
+E! Entertainment Television, Inc. 
+
+Lifetime Entertainment Services 
+International Family Entertainment, Inc. 
+The Learning Channel 
+
+National Cable Satellite Corporation d/b/a C-Span 
+National Cable Television Association, Inc. 
+National Interfaith Cable Coalition, Inc. 
+QVC, Inc. 
+
+Time Warner Entertainment Company, L.P. 
+The Travel Channel, Inc. 
+
+Turner Broadcasting System, Inc. 
+
+USA Networks 
+
+
+Defendants: 
+
+
+Association of America’s Public Television Stations 
+Association of Independent Television Stations, Inc. 
+
+
+Community Broadcasters Association 
+Consumer Federation of America 
+
+The Corporation for Public Broadcasting 
+Sandra Engle 
+
+Federal Communications Commission 
+
+
+The International Association of Machinists and Aerospace 
+
+
+Workers, AFL-CIO 
+
+
+Appellants’ Rule 29.6 disclosure statements are set forth at J.S. App. 
+
+
+144a. 
+
+
+International Television Broadcasting, Inc. 
+Morningstar Communications 
+
+National Association of Broadcasters 
+
+National Council of Senior Citizens 
+
+National Rural Telecommunications Cooperative 
+Office of Communication of the United Church of Christ 
+Paging Associates, Inc. 
+
+The Public Broadcasting Service 
+
+Sherjan Broadcasting Co., Inc. 
+
+Triplett & Associates, Inc. 
+
+TV 14, Inc. 
+
+TV 58 St. Louis, Inc. 
+
+United States of America 
+
+Zantech, Inc. 
+
+
+iv 
+TABLE OF CONTENTS 
+
+Page 
+I i 
+PARTIES TO THE PROCEEDINGS ................ il 
+ee SEED wp ccccvectccanpassesenes vi 
+EE rrr ry | 
+EEE cnnsnanencacacdsdéneansarbanenel l 
+CONSTITUTIONAL AND STATUTORY PROVISIONS 2 
+0, PrerrrTr Ti Tr ree 2 
+INTRODUCTION AND SUMMARY OF ARGUMENT 2 
+
+
+ARGUMENT: 
+
+
+I. THE MUST-CARRY PROVISIONS HAVE 
+ADVERSELY AFFECTED PLAINTIFFS’ 
+EXERCISE OF THEIR FIRST AMENDMENT 
+PEED cccvccoscetcasestoncedncdcckaetned. 5 
+
+
+Il. DEFENDANTS HAVE FAILED TO PROVE A 
+SUBSTANTIAL GOVERNMENTAL INTEREST .. 8 
+
+
+A. The Government’s Actual Interest, Far From 
+Being “Substantial,” Is Illegitimate ........... x 
+
+
+The Absence Of Must-Carry ............ 11 
+
+
+2. The Governmental Interest Urged By The 
+Public Broadcasters Is Illegitimate ...... 14 
+
+
+ee oe OT Rw RE tee 
+
+
+ew 
+
+
+Vv 
+
+
+Ill. “SWITCH-AND-ANTENNA” CAPABILITY IS A 
+CONSTITUTIONALLY ACCEPTABLE, LESS 
+RESTRICTIVE ALTERNATIVE TO ANY MUST- 
+PUTT TT TT TOTTI TTT ee 17 
+
+
+A. The FCC And The D.C. Circuit Have 
+Previously Approved Switch-And-Antenna 
+Capability As A Less Restrictive Alternative . .. . . 19 
+
+
+Be BIS ov ce ccccccscccccs 19 
+2. The FCC's Response To Quincy ........ 20 
+3. The Century Decision ................. 22 
+
+
+B. Expert Testimony And Practical Experience 
+Prove The Feasibility Of The Switch-And- 
+EE sake ncbdsdedsececcces 24 
+
+
+1. Switching To Off-Air Reception ......... 24 
+2. Reception Of Off-Air Signals Via Antenna. 26 
+3. Practical Experience With A/B Switches .. 28 
+
+
+C. Congress’s Dismissal Of The Switch-And- 
+Antenna Alternative Was Not Supported By 
+
+
+“Substantial Evidence” ..............200: 32 
+1. Evidence Cited By Congress ........... 35 
+2. Evidence Cited By Judge Sporkin ....... 41 
+ST codec eed deal casaseesbueskbeseens aa 
+
+
+vi 
+TABLE OF AUTHORITIES 
+Page 
+
+
+CASES: 
+
+
+Century Communications Corp. v. FCC, 835 
+F.2d 292 (1987), cert. denied, 486 U.S.1032 
+CORED cccssnandtecsctensstenss 4, 22, 23, 24, 31, 37 
+
+
+Quincy Cable TV, Inc. v. FCC, 768 F.2d 1434 (1985), 
+cert.denied, 476 U.S. 1169 (1986) ..... 4, 7, 10, 19, 20 
+
+
+Red Lion Broadcasting Co. v. FCC, 395 U.S. 367 
+IOS a ae 7 
+
+
+Simon & Schuster, Inc. v. New York State Criminal 
+Victims Board, 502 U.S. 105 (1991) .......... 10, 11 
+
+
+Turner Broadcasting System, Inc. v. FCC, 114 S. Ct. 
+Ec cesectesacdnccccdcescocsace 8, 10, 31 
+
+
+CONSTITUTION, STATUTES, & REGULATIONS: 
+
+
+CG, Gee BT Ec ccccccccccvcccccess passim 
+
+
+Cable Television Consumer Protection and 
+Competition Act of 1992, Pub. L. No. 102-385, 106 
+Stat. 1500: 
+
+
+SE a, Rea Stee Siveucddduas 15 
+SE eee ee ee eee s 
+teil, bata ans abibectiniie 15, 35 
+ERAN pe aerate 325: 36 
+iA edaapanaelh = Etat sere t 5,1 15 
+ar ae eri ad ila 15 
+iru el Prd Sled Bo Slee 15 
+ee TO conaenimaiian 1 
+Ee men ee 17 
+
+
+vii 
+
+
+Table of Authorities continued 
+Page 
+SF CPR. GB US.TIS GS USTIT . ww ccc ccc cccces 38 
+ad chao sekeéen vee 39 
+MISCELLANEOUS: 
+
+
+H.R. Rep. 102-628, 102d Cong., 2d Sess. (1992) . 37, 39 
+S. Rep. 102-92, 102d Cong., 2d Sess. (1992) . 37, 38, 39 
+
+
+“Cable TV Consumer Protection Act of 1989,” Hearing 
+before the Subcomm. on Communications of the Senate 
+Commerce Comm. (101-702), March 29,1990 ...... 42 
+
+
+“Must Carry,” Hearing before the Subcomm. on 
+Communications of the Senate Commerce Comm. 
+i. 2 4 &  & eee 38 
+
+
+FCC, First Annual Report to Congress Assessing the 
+Status of Competition in the Market for Cable 
+Television and Other Video Programming Services, 
+59 Fed. Reg. 64657, 64659 (1994) ........... 29, 30 
+
+
+Amendment of Part 76 of the Commission's Rules 
+Concerning Carriage of Television Broadcast 
+Signals by Cable Television Systems, 1 FCC Red. 
+864 (1986), reconsidered in part, 2 FCC Red. 3593 
+(1987) . .20, 21, 22, 23, 25, 26, 27, 31, 37, 38, 39, 41, 42 
+
+
+Dg. cc ncecccecessecs 29 
+Paul Kagan & Assoc., Marketing New Media, Feb. 
+Re ee eee EoD ae een ae 30 
+
+
+Warren's Cable Regulation Monitor, Nov. 29, 1993 .. 29 
+
+
+eg le le AO St 
+
+
+TS lms Pipes a 
+
+
+IN THE 
+
+
+Supreme Court of the Anited States 
+
+
+OCTOBER TERM, 1995 
+
+
+No. 95-992 
+
+
+TURNER BROADCASTING SYSTEM, INC., ef al., 
+Appellants, 
+Vv. 
+
+
+FEDERAL COMMUNICATIONS COMMISSION, ef ai, 
+Appellees. 
+
+
+On Appeal from the United States District Court 
+for the District of Columbia 
+
+
+BRIEF FOR APPELLANTS 
+DISCOVERY COMMUNICATIONS, INC. 
+AND THE LEARNING CHANNEL 
+
+
+OPINION BELOW 
+
+
+The opinion of the district court (J.S. App. la-112a) is 
+reported at 910 F. Supp. 734. 
+JURISDICTION 
+
+
+The district court’s judgment (J.S. App. 153a) was entered 
+on December 20, 1995. The notice of appeal and the juris- 
+dictional statement were filed on December 21, 1995 (J.S. App. 
+149a), and this Court noted probable jurisdiction on February 
+20, 1996. Jurisdiction rests on 28 U.S.C. § 1253. 
+
+
+2 
+
+
+CONSTITUTIONAL AND STATUTORY PROVISIONS 
+
+
+The First Amendment to the United States Constitution 
+provides in pertinent part: “Congress shall make no law * * * 
+abridging the freedom of speech, or of the press.” Relevant 
+provisions of the Cable Television Consumer Protection and 
+Competition Act of 1992 (“the 1992 Cable Act” or “the Act”), 
+are reprinted at J.S. App. 113a-143a. 
+
+
+STATEMENT 
+
+
+Discovery Communications, Inc., and The Learning Channel 
+concur in the other appellants’ statement of the case. 
+
+
+INTRODUCTION AND SUMMARY OF ARGUMENT 
+
+
+Appellants submit this separate brief to emphasize two 
+points. First, section 5 of the 1992 Cable Act, which affords a 
+
+
+must-carry preference to public broadcasters, is 
+unconstitutional under any level of First Amendment scrutiny. 
+Second, sections 4 and 5 are both unconstitutional under the 
+“narrow tailoring” prong of the O’Brien test because switch- 
+and-antenna capacity represents a workable less restrictive 
+alternative to must-carry. 
+
+
+A. In enacting must-carry, Congress has mandated that 
+cable operators prefer one set of speakers (television 
+broadcasters) over another set of speakers (cable programmers), 
+without regard to the viewing preferences of cable subscribers 
+or the editorial decisions of the operators themselves. In the 
+parties’ initial appearance before this Court, defendants sought 
+to justify this discrimination on a ground that was, at least in 
+theory, substantial: preserving the existing system of free over- 
+the-air television for the 40% of TV viewers who do not 
+subscribe to cable. 
+
+On remand, defendants conceded that the local broadcast- 
+ing system is in no jeopardy from cable and that the public’s 
+access to “free TV” is not at risk. Defendants accordingly 
+
+
+3 
+
+
+urged, and Judge Sporkin adopted, a new rationale for must- 
+carry: enhancing the financial well-being of the relatively small 
+subset of broadcasters — generally, little-watched UHF and 
+third-tier public stations in heavily-saturated markets — that 
+actually elect must-carry. As Judge Williams has shown, this 
+new rationale is not the objective Congress posited, and it is 
+both circular and fundamentally illegitimate. 
+
+
+The public broadcasters made the same strategic retreat as 
+the Government and the commercial broadcasters, although 
+their new rationale has a slightly different spin. The evidence 
+on remand indisputably established that (1) the public 
+broadcasting system is in excellent financial health and grew at 
+a strong rate in the absence of must-carry; and (2) the vast 
+majority of public stations would be carried by cable operators 
+without government intervention. Indeed, the public 
+broadcasters could not identify a single station that has failed, 
+gone dark, or suffered cognizable harm from an adverse 
+Carriage decision. 
+
+Faced with this evidence, the public broadcasters 
+abandoned any pretense of proving systemic harm, asserting 
+instead a congressional objective to promote “universal access” 
+to public television. By “universal access,” they mean carriage 
+of each and every, present or future, public station on all cable 
+systems, at the expense of competing cable networks (like 
+Discovery and TLC) that offer similar documentary and 
+educational programming. This theory is a more candid 
+version of the “more is better” rationale that infects defendants’ 
+submission generally. But as articulated by the public 
+broadcasters, it is essentially content-based, for it rests on the 
+assertion that public programming is “different” or “better” and 
+thus worthy of maximum public support. 
+
+At the end of the day, the public broadcasters have not 
+
+
+shown, and do not contend, that must-carry is necessary to 
+preserve the health of the public broadcast system — that is, the 
+
+
+4 
+
+
+ability of public stations to present a diverse mix of 
+programming to over-the-air viewers nationwide. Rather, they 
+seek mandatory carriage on cable systems in order to expand 
+their reach to viewers who are unable to receive their signals, 
+or who receive them poorly, thus realizing more fully their goal 
+of “universal access.” In demanding “universal access” to 
+cable viewers at the expense of competing cable programmers, 
+the public broadcasters are seeking a subsidy that Congress 
+cannot grant consistently with the First Amendment. 
+
+
+B. Even if the defendants could identify a legitimate and 
+substantial governmental interest, a means of achieving it 
+without discriminating against cable programmers is readily 
+available — education of cable subscribers in the acquisition 
+and use of an inexpensive input-selector (“A/B”) switch. 
+Together with a receiving antenna, this switch enables cable 
+subscribers to receive broadcast stations not carried on their 
+cable system to the same extent such stations are available to 
+their neighbors who do not subscribe to cable. 
+
+
+The availability of switch-and-antenna capability as a 
+preferable alternative to must-carry rules was recognized by the 
+D.C. Circuit in Quincy Cable TV, Inc. v. FCC, 768 F.2d 1434 
+(1985), cert. denied, 476 U.S. 1169 (1986), adopted by the FCC 
+in its 1986 and 1987 Reports reinstating a more limited set of 
+“interim” must-carry rules, and embraced again by the D.C. 
+Circuit when rejecting those interim rules in Century 
+Communications Corp. v. FCC, 835 F.2d 292 (1987), cert. 
+denied, 486 U.S. 1032 (1988). Prior approval of switch-and- 
+antenna capability by the FCC and a unanimous D.C. Circuit 
+surely creates a prima facie case that it is an acceptable 
+alternative to any must-carry scheme. 
+
+
+As Judge Williams explains, the evidence on remand over- 
+whelmingly confirms this conclusion. Switching from cable to 
+off-air reception is a simple exercise entailing no significant 
+cost, in time or money, for the viewer. Thousands of cable 
+
+
+ee ee 
+
+
+- ee ee 
+
+
+ee ee Peewee 
+
+
+5 
+
+
+subscribers successfully used A/B switches in 1993 to watch 
+broadcasters dropped from cable during a “retransmission 
+consent” dispute. And A/B switches are used effortlessly by 
+millions of subscribers to DBS and other distribution services. 
+
+
+Defendants oppose switch-and-antenna capacity as an 
+alternative to must-carry for two main reasons. They contend 
+that some cable subscribers may be too lazy or disinterested to 
+acquire A/B switches; and they urge that, even with an A/B 
+switch, some subscribers may be unable to receive a broadcast 
+signal because of distance or terrain obstacles. However, as 
+Judge Williams points out, possible consumer lethargy cannot 
+be a legitimate basis for impairing cable programmers’ First 
+Amendment rights. And while broadcasters may have a fair 
+claim to Government assistance to ensure their access to 
+viewers they can reach over-the-air (which is all that their 
+broadcast license entitles them to), commandeering cable 
+channels to extend broadcast signals to viewers they could not 
+otherwise reach stands on a wholly different footing. This 
+latter objective, which underlies all the defendants’ submis- 
+sions below, is a fundamentally illegitimate preference for the 
+financial interests of broadcasters over the First Amendment 
+rights of competing cable speakers. 
+
+ARGUMENT 
+
+
+I. THE MUST-CARRY PROVISIONS HAVE 
+ADVERSELY AFFECTED PLAINTIFFS’ 
+EXERCISE OF THEIR FIRST AMENDMENT 
+RIGHTS 
+
+
+Discovery Communications, Inc. (“DCT”) is a cable pro- 
+grammer: it creates video programming and distributes that 
+material through cable systems nationwide. It currently 
+operates two major programming networks: The Discovery 
+Channel and The Learning Channel. Both are dedicated to the 
+provision of high-quality documentary and educational 
+
+
+6 
+
+
+programming aimed at people who watch television to broaden 
+their understanding of the world. 
+
+
+The Discovery Channel (“Discovery”) was founded in 
+1985 and is now a well-established basic cable network with 
+more than 63 million subscribers. In a November 1994 survey, 
+Discovery ranked first among basic cable networks in terms of 
+perceived value and importance to viewers. J.A. 984. DCI 
+acquired The Learning Channel (“TLC”) in early 1991, 
+invested more than $40 million to upgrade its programming, 
+and relaunched it in October 1991. J.A. 984-985. In a Novem- 
+ber 1994 survey, TLC ranked first among mid-sized cable 
+networks in terms of perceived value and importance to 
+viewers. Similarly, in a December 1994 survey of cable 
+executives, TLC ranked first among emerging cable networks 
+in terms of the overall appeal of its programming. J.A. 985. 
+
+
+TLC incurred operating losses in 1991, 1992, 1993, and 
+1994. It is now carried on about 20% of U.S. cable systems 
+and has about 32.4 million paying subscribers. As a start-up 
+network, TLC usually competes for one of the last available 
+channels (if any) on a cable system. In order to achieve 
+financial viability, it is essential that TLC increase its 
+subscribership by obtaining carriage on additional cable 
+systems. J.A. 985. 
+
+
+The must-carry provisions have harmed TLC, and to a 
+lesser extent Discovery, in a variety of ways. TLC and 
+Discovery suffer First Amendment injury whenever a cable 
+system not now carrying them is forced to add a must-carry 
+broadcaster. Whether or not Discovery and TLC would enjoy 
+a certainty of carriage absent the must-carry law, the addition 
+of each marginal broadcaster reduces the number of slots for 
+which Discovery and TLC may compete. This discriminatory 
+impairment of cable programmers’ ability to reach an audience 
+constitutes First Amendment injury per se. 
+
+
+i ee oh at OD ee ae ee eet one =a 
+
+
+te ee ee 
+
+
+7 
+
+
+Apart from this generic harm, TLC can trace harmful 
+effects on at least 31 specific cable systems directly to the 
+must-carry law. These are systems that, because of the must- 
+Carry provisions: (a) have been unable to launch TLC; (b) have 
+been forced to drop TLC; (c) have been unable to extend TLC 
+full-time carriage from current part-time carriage; (d) have been 
+forced to demote TLC from full-time to part-time carriage; or 
+(e) have been forced to delay launching TLC for significant 
+periods of time. Executives of these 31 cable systems have 
+confirmed that they had no available channel capacity at the 
+relevant time, and that, but for obligations imposed by must- 
+carry, TLC would have enjoyed full-time carriage on each 
+system for the past several years. J.A. 985-986, 989-997. 
+
+
+As a result of these adverse actions, TLC has lost, or failed 
+to secure, approximately 1,800,000 full-time subscribers since 
+October 1992. J.A. 987. The loss of these subscribers has 
+compromised TLC’s ability to reach its desired audience and 
+exercise its First Amendment rights. No less impaired are the 
+First Amendment rights of TLC’s prospective viewers. By 
+forcing cable systems to discriminate against TLC’s 
+programming — which is uniformly highly valued by viewers 
+— in favor of marginal and little-watched broadcasters, 
+Congress has treated cable subscribers’ viewing preferences as 
+irrelevant. “This conscious disregard of subscribers’ viewing 
+preferences is difficult, if not impossible, to reconcile with 
+[this] Court’s repeated admonition that the interests of viewers 
+should be considered ‘paramount’ in the First Amendment 
+calculus.” Quincy Cable TV, Inc. v. FCC, 768 F.2d 1434, 1453 
+(D.C. Cir. 1985), cert. denied, 476 U.S. 1169 (1986), quoting 
+Red Lion Broadcasting Co. v. FCC, 395 U.S. 367, 390 (1969). 
+
+
+By causing TLC to lose subscribers, the must-carry law has 
+also inflicted economic harm. As a result of non-carriage or 
+reduced carriage on the 31 cable systems described above, TLC 
+has forfeited up to $1.75 million annually in gross revenues 
+
+
+8 
+
+
+since 1992. This revenue loss stems from a combination of 
+reduced advertising income and foregone license fees. J.A. 
+986-988. 
+
+
+Il. DEFENDANTS HAVE FAILED TO PROVE A 
+SUBSTANTIAL GOVERNMENTAL INTEREST 
+
+
+A. The Government’s Actual Interest, Far From 
+Being “Substantial,” Is Illegitimate 
+
+
+When initially before this Court, the Government’s defense 
+of must-carry rested on the submission that, absent the statute, 
+“the economic viability of free local broadcast television * * * 
+will be seriously jeopardized” (Act § 2(a)(16)). This Court 
+took defendants at their word. “[I]n applying O’Brien 
+scrutiny,” Justice Kennedy stated, “we must first ask whether 
+the Government has adequately shown that the economic health 
+of local broadcasting is in genuine jeopardy and in need of the 
+protections afforded by must-carry.” Turner Broadcasting 
+System, Inc. v. FCC, 114 S.Ct. 2445, 2470 (1994). 
+
+
+Put to the proof, defendants on remand completely 
+changed their characterization of the “governmental interest” 
+alleged to support must-carry. They explicitly abandoned any 
+contention that the system of local broadcasting is at risk, or 
+that must-carry is needed to ensure the existence of “free TV” 
+for viewers who do not subscribe to cable. Instead, defendants 
+posited a more modest objective, newly coined to match their 
+evidentiary showing: “protection of financially weak stations” 
+with a view to ensuring “the widest possible dissemination of 
+information from diverse and antagonistic sources.” Govt. 
+Opp. Br. 6, 13; NAB Opp. Br. 61, 63-64, 69; Pub. Opp. Br. 7, 
+24. 
+
+
+Defendants on remand offered varied formulations of this 
+new theme. The public broadcasters said that Congress aimed 
+to promote “universal access” to all public stations. Pub. Opp. 
+Br. 24. At times, NAB contended that Congress legislated “to 
+
+
+9 
+
+
+prevent a material reduction in the diversity of [broadcast] 
+programming” or in “the quality of broadcast service.” NAB 
+Opp. Br. 18-19, 69. At other times, NAB asserted that 
+Congress could permissibly legislate “to maintain, or even 
+enhance, the quantity and quality of local broadcasting 
+— Id. at 61, 64 (emphasis add- 
+
+
+Missing from all these formulations was any contention 
+that the system of local broadcasting is at risk. Indeed, 
+defendants could concede the system’s perpetual health and 
+still advance the argument they made below — that must-carry 
+encourages entry of more stations, helps those stations offer 
+more programming, enables that programming to be of higher 
+quality, and thus promotes “the widest possible dissemination 
+of information.” Govt. Opp. Br. 13 (emphasis original). 
+Reduced to its essentials, defendants’ justification for must- 
+carry was simply that “more is better.” 
+
+
+Judge Sporkin largely accepted defendants’ eleventh-hour 
+submissions concerning this supposed “governmental interest.” 
+He deemed it irrelevant that “the economic health of the broad- 
+casting industry as a whole is not in genuine jeopardy.” J.S. 
+App. 8a-9a n.11 (emphasis added). “The relevant inquiry,” he 
+said, concerns the health “of those broadcasters protected by 
+the must-carry provisions,” that is, the relatively small number 
+of stations that actually elect must-carry instead of demanding 
+payment for retransmission consent. 
+
+
+Defendants have retreated to an indefensible position, and 
+Judge Sporkin followed them there. The governmental interest 
+that defendants now assert is not the interest that Congress 
+identified, and it is certainly not the interest whose genuineness 
+and substantiality this Court required the Government to 
+demonstrate on remand. Under defendants’ revisionist view, 
+must-carry seeks merely to enhance the prosperity of some 
+individual broadcasters — existing stations with minimal 
+
+
+10 
+
+
+viewership, and potential new entrants that find guaranteed 
+cable carriage advantageous in securing investment financing. 
+But it cannot plausibly be contended that maximizing the 
+fortunes of every would-be broadcaster is necessary to preserve 
+the health of the /ocal broadcast system. By many measures, 
+this country’s economic “system” is now in good health. But 
+the system’s strength does not hinge on the permanent financial 
+viability »* every single entrepreneur. 
+
+As compared with the interest that the Government 
+advance is trivial or worse. The Government theoretically has 
+a substantial interest in preserving the system of free, over-the- 
+air broadcasting from destructive, anticompetitive action. But 
+that interest is not implicated here because the systemic risk 
+that Congress hypothesized is “merely conjectural,” not real. 
+Turner, 114 S.Ct. at 2470. In effect, must-carry is a mere form 
+of wealth redistribution — a subsidy for marginal individual 
+broadcasters, funded by a tax on cable speakers and their 
+subscribers. The desire to effect such a wealth transfer does not 
+constitute a “substantial government interest” justifying 
+infringement of First Amendment rights. “Indeed,” as the D.C. 
+Circuit has previously held, “were the individual broadcasters 
+themselves the object of [must-carry’s] favors, the objective 
+itself would be fundamentally illegitimate.” Quincy Cable TV, 
+supra, 768 F.2d at 1460. 
+
+
+In any event, this Court should hold the Government to the 
+standard that Congress enunciated. The must-carry law is 
+unconstitutional because the system of local broadcasting is not 
+in jeopardy. Defendants’ new-found “governmental interest” 
+is a transparent attempt to turn the effect of must-carry into its 
+purpose. This Court has previously refused to allow parties to 
+evade their burden under First Amendment scrutiny by equating 
+the effects of the statute with the governmental interest at stake. 
+Simon & Schuster, Inc. v. New York State Criminal Victims Bd., 
+
+
+ll 
+
+
+502 U.S. 105, 120 (1991) (disapproving attempt to “take[] the 
+effect of the statute and posit{] that effect as the State’s 
+interest”). 
+B. The Public Broadcasters Have Not Shown A 
+Substantial Governmental Interest 
+
+
+In this brief, we rely largely on our co-plaintiffs’ submis- 
+sions to show the error of defendants’ assertions concerning the 
+health of broadcasting generally. We will, however, address 
+certain allegations of harm advanced by the public broad- 
+casters. Discovery and TLC produce educational and 
+documentary programming that is highly valued by viewers. 
+Public stations pride themselves on offering similar fare, and 
+they compete directly with Discovery and TLC for viewers. 
+
+1. The Public Broadcasting System Thrived 
+In The Absence Of Must-Carry 
+
+Public broadcasting has enjoyed continuous growth since 
+its inception, with the number of public stations increasing 
+every year since 1953. J.A. 834-835, 851-853. From 1985 to 
+1992 — a period without must-carry rules — the number of 
+public TV stations increased from 316 to 368. J.A. 329, 852- 
+853. Public broadcasters’ member revenues during these years 
+grew faster than rate of inflation.’ Thus, the public 
+broadcasting industry was generally healthy and growing. See 
+also Public Television Service and Structure Analysis (prepared 
+for APTS) (May 1991), J.A. 2112-2113. 
+
+
+' See, e.g., Public Television in the Information Age (prepared for the 
+Association of America’s Public Television Stations (“APTS”)) (July, 1994) 
+(J.A. 2129-2130, 2133-2134); Viewer and Listener Membership Income for 
+Public Television and Radio Grantees - Fiscal Year 199], CPB Research 
+Notes (Sept. 1992) (J.A. 199); Public Broadcasting Income - Fiscal Year 
+1993 (Dec. 1994) (J.A. 313-314); APTS, Critical System Objectives for 
+Public Television - 1992 Status Report (Oct. 1992) (J.A. 2115-2116). 
+
+
+12 
+
+
+The public broadcasters concede that there was no evi- 
+dence before Congress that a single public station has ever gone 
+bankrupt, ceased operations, or turned in its license. Pub. Br. 
+39 n.53. The president of APTS in deposition testimony stated 
+that no public station has ever gone dark. J.A. 328-329. 
+Defendants in their briefs below identified no public station 
+that is now, or has ever been, in serious financial difficulty. 
+And they offer no theory explaining why public stations should 
+be a target of future anticompetitive conduct: noncommercial 
+broadcasters do not sell advertising and thus do not compete 
+with cable operators for advertising dollars. The bottom line is 
+that the public broadcasting system, as of 1992, was perfectly 
+healthy and in no jeopardy from cable. Any jeopardy it 
+currently faces arises, not from cable, but from an increasingly 
+cost-conscious Congress. 
+
+On remand, APTS compiled a “master list” showing that 
+a total of 63 public stations had been dropped by cable systems 
+on 130 occasions between 1985 and 1992. J.A. 1184-1185, 
+1199-1212. This compilation disclosed markedly fewer drops 
+than APTS had alleged in earlier submissions to Congress, 
+which Judge Sporkin credited. See J.S. App. 12a (citing 1987 
+APTS study).’ In any event, defendants did not contend that 
+these editorial decisions of cable operators had harmed the 
+public broadcast system in any way. Defendants’ own lead 
+expert testified that only the least watched 15% of 
+noncommercial stations experienced carriage problems in the 
+
+
+2 Dr. Bernadette McGuire, APTS’s Director of Planning and Research, 
+reexamined the data that APTS submitted to Congress and concluded that 
+“quite a few” of the stations claimed to have been dropped “hadn't been 
+dropped at all”. See J.A. 360-361. A 1991 APTS survey, finding only 12 
+public stations dropped by cable systems within a 50-mile radius, concluded 
+that “drops and shifts of public television stations * * * are not occurring 
+with great frequency.” APTS, Harm to PTV Stations from Cable System 
+Shifts and Drops (Aug. 1991), J.A. 121-125. 
+
+
+13 
+
+
+absence of must-carry, and those stations were usually the third 
+noncommercial station in markets with more than two such 
+stations. J.A. 450-452, 453, 458. Public TV stations occupy 
+approximately 16,500 cable channels nationwide, and the 130 
+drops set out in the APTS master list comprise less than 1% of 
+this total.’ 
+
+The public broadcasters presented no factual evidence to 
+quantify the financial harm they allegedly experienced from 
+cable drops. In a half-hearted effort to estimate such harm, they 
+presented a “hypothetical model” constructed by one of their 
+employees. J.A. 1038-1042. Using a variety of assumptions, 
+this model argued that a station’s loss of cable carriage may 
+result in lower viewership, which in turn may result in lost 
+viewer contributions, which taken cumulatively with other sta- 
+tions’ losses may damage the entire public television system. 
+J.A. 1043-1047. This argument is precisely the sort of 
+conjecture that this Court has deemed insufficient to meet 
+defendants’ burden of proof. Turner, 114 S.Ct. at 2470 
+(“recited harms [must be] real, not merely conjectural”). And 
+the public broadcasters’ hypothetical model is undermined by 
+
+
+> A broadcast station will typically be carried by numerous cable 
+systems within the geographical reach of its signal; a “drop” refers to its 
+removal from any one of those systems. The harm occasioned by a drop 
+must be assessed in light of this fact. For example, if a station carried by 25 
+cable systems reaching 250,000 subscribers is dropped by one system 
+having only 5,000 subscribers, the harm experienced by that broadcaster will 
+be minuscule, especially since the station will continue to reach 100% of its 
+over-the-air audience. Overall, there are about 355,000 cable channels 
+occupied by programming in the United States. J.A. 694. Approximately 
+20%, or 71,000, of those channels are occupied by broadcast stations. J.A. 
+1152-1154. Since there are approximately 1,550 broadcast stations, on 
+average each broadcast station is carried by about 45 cable systems. In 
+rough terms, therefore, the Nation’s 368 public TV stations occupy about 
+16,500 channels. See J.A. 853. 
+
+
+14 
+
+
+the facts: as explained above, public stations’ viewership and 
+revenue during 1985-1992 steadily increased each year without 
+must-carry. 
+2. The Governmental Interest Urged By The 
+Public Broadcasters Is Illegitimate 
+
+
+Confronted with the evidence below and the concessions 
+of their own experts, the public broadcasters ultimately dis- 
+avowed any obligation to show that their economic health is 
+“seriously jeopardized.” Pub. Br. 15 n.10, 40-41; see Pub. 
+Reply Br. 37 (“Congress did not assume that the entire public 
+television system was in jeopardy without must-carry”). This 
+new stance marked a sharp contrast with their earlier 
+submissions to this Court, in which they urged the necessity of 
+must-carry to “preserve the institution of local public 
+broadcasting.” Brief of Public Broadcasters in No. 93-44, at i 
+(stating question presented). 
+
+The public broadcasters’ new theory on remand started 
+with the premise that Congress, having appropriated taxpayer 
+funds to support public television, wished to encourage 
+“universal access” to it. Pub. Br. 11, 14, 19-20. From that 
+premise, they reasoned that the Government may act to prevent 
+public stations from losing any viewers, since the goal of 
+“universal access” will then be realized more completely. In 
+order to “promot[e] the widespread dissemination of multiple 
+sources of information,” the public broadcasters posited a 
+substantial governmental interest in “[e)nsuring that ail 
+Americans * * * have access to all of their local public 
+television stations and that all of these stations remain 
+financially viable.” Jd. at 58-59 (emphasis added). 
+
+This rationale is a more candid version of the 
+fundamentally illegitimate “more is better” rationale that infects 
+must-carry generally. As articulated by the public broadcasters, 
+
+moreover, this rationale is essentially content-based. Despite 
+
+
+15 
+
+
+their mantra of “universal access,” they have never explained 
+why some communities must have five public stations when 
+others have two, or wy that fifth station should have priority 
+over any cable programming seeking access to the same 
+channel, regardless of viewer interest.‘ After all, it is the 
+interests of the viewers, not the broadcast stations, that 
+Congress said it was protecting. See Act § 2(a)(1), (17) & (19). 
+
+_The closest the public broadcasters came to a rationale for 
+“universal access” was the suggestion that public broadcasting 
+is “different” and uniquely deserving of public support. See 
+Pub. Br. 16-19; Pub. Reply Br. 44, 45 n.64. As producers of 
+high-quality educational and documentary programming, 
+Discovery and TLC strongly dispute the notion that noncom- 
+mercial programming is “better” in any sense of the word. But 
+the conclusion the public broadcasters seek to draw from this 
+premise — preferential access to cable, justified by the 
+allegedly superior content of their speech — in any event is 
+incompatible with the First Amendment. 
+
+Equally problematic is the public broadcasters’ invocation 
+of “diversity.” Unlike the governmental interest that Congress 
+identified and the Government previously advanced, the 
+“diversity” goal proffered by the public broadcasters has no 
+principled limits. “Diversity” is a highly subjective and an 
+infinitely expandable concept. However “diverse” public 
+programming is now, it is presumably capable of becoming 
+“more diverse” if existing stations expand or improve their 
+programming and new public stations enter thé market. Taken 
+to its logical extreme, the public broadcasters’ argument would 
+justify any infringement of speech under the O’Brien test, so 
+
+
+* For cable systems with more than 36 channels, the Act requires carriage 
+Ca eins lead ells tersteusmn, cxsey Gam whem prgemmning 
+substantially duplicates that of another public station already being carried. 
+Act §§ 5(b\(1) & 5(e) ” 
+
+
+16 
+
+
+long as the ultimate effect was to enhance public television's 
+well-being. | 
+
+The public broadcasters’ “diversity” argument Is 
+essentially a euphemism for “discrimination. . Public broad- 
+casters have an alternative medium, wholly distinct from cable, 
+for distributing their speech. Unlike Discovery and TLC, they 
+enjoy a license to transmit their signals over the air 7 granted 
+to them for free — and they also receive sbstantial public 
+financing. The public broadcasters have not explained how 
+“diversity” is enhanced by enforced cable carriage of every 
+public station at the expense of cable programmers like 
+Discovery and TLC, which likewise offer high-quality 
+documentary and educational programming. 
+
+
+“[A]part from content-based paeans to the quality of its 
+programming,” the only argument the public broadcasters make 
+to support their claim to preferential carriage is that “the public 
+is already subsidizing public television and is entitled to protect 
+its investment.” J.S. App. 102a (Williams, J., dissenting), see 
+Pub. Br. 20. Judge Williams showed the error of this 
+contention. The public broadcasters have cited no precedent, 
+and we know of none, for the proposition that Congress can 
+discriminate against one group of speakers in order “to enhance 
+the value of a previously granted subsidy” to a competing group 
+of speakers (J.S. App. 102a). This argument plainly proves too 
+much: if such bootstrapping were sufficient, the ome = 
+could always satisfy the “substantial interest” prong o 
+O’Brien at as to any action that advantaged a favored 
+speaker, simply by subsidizing that speaker, then using the 
+subsidy to justify discriminatory treatment of the speaker’s 
+competitors. 
+
+
+In sum, the public broadcasters have not shown, and do not 
+contend, that must-carry is necessary to preserve the health of 
+the public broadcast system — that is, the ability of public 
+stations to present a diverse mix of programming to over-the- 
+
+
+oo. ee se 
+
+
+17 
+
+
+air viewers nationwide. Rather, they seek mandatory carriage 
+on cable systems in order to expand their reach to viewers who 
+are unable to receive their signals, or who receive them poorly, 
+thus realizing more fully their goal of “universal access.” This 
+objective is plain on the face of the statute: if a cable system 
+operates in an area where no public signal is available over-the- 
+air, it must import and carry the signal of at least one public 
+station from another community. 47 U.S.C. § 535(b\(3)(B). In 
+demanding “universal access” to cable viewers at the expense 
+of competing cable programmers, the public broadcasters are 
+seeking a preference that Congress cannot grant consistently 
+with the First Amendment. 
+
+
+II. “SWITCH-AND-ANTENNA” CAPABILITY IS A 
+CONSTITUTIONALLY ACCEPTABLE, LESS 
+RESTRICTIVE ALTERNATIVE TO ANY 
+MUST-CARRY REGIME 
+
+
+Broadcast television, by its nature, requires that viewers 
+install antennas to receive signals over-the-air. Americans for 
+decades have used receiving antennas to watch television 
+without the benefit of cable service, and approximately 38% of 
+the public today does not subscribe to cable. J.A. 763-764: see 
+H.R. Rep. 102-628, 102d Cong., 2d Sess. 30 (1992) (noting that 
+cable passed 95% of households in 1992, while only 60% sub- 
+scribed). At least 36 million U.S. households are currently 
+using antennas to view television off-the-air. J.A. 764. 
+
+
+The advent of cable created the potential for impairing 
+subscribers’ off-air reception capacity, since antennas were 
+often disconnected from the back of the TV set when cable was 
+installed. It has always been recognized, however, that a 
+simple switch — called an “input selector” or “A/B switch” — 
+permits the antenna to remain in place and thus enables a cable 
+subscriber to alternate at will between cable and off-air 
+reception of broadcast signals. By use of this switch, a cable 
+subscriber is free to choose “between cable’s offerings and all 
+
+
+18 
+
+
+the television programming that would have been available to 
+the viewer if cable had never been installed.” J.S. App. 103a 
+(Williams, J., dissenting). 
+
+We submit that switch-and-antenna capability — and any 
+measures that Congress reasonably believes would encourage 
+consumers’ convenient use of it — represents a constitutionally 
+permissible, less restrictive alternative to any must-carry 
+regime. There is no justification for impairing cable speakers’ 
+First Amendment rights if subscribers can readily view off-air 
+any broadcasters that cable systems decline to carry. 
+
+In the pages that follow, we will first show that the FCC 
+and the D.C. Circuit have previously approved switch-and- 
+antenna capability as a constitutionally-preferable alternative to 
+must-carry. Second, we will show that the evidence on remand 
+— including expert testimony, practical experience in the cable 
+industry, and successful use of A/B switches in such alternative 
+distribution technologies as DBS and MMDS — confirms that 
+the Commission and the D.C. Circuit were correct in embracing 
+this option. Third, we will show that Judge Sporkin erred in 
+discerning “substantial evidence” to support Congress’s rejec- 
+tion of A/B switches in the 1992 Act. As Judge Williams 
+correctly concluded in his dissent (J.S. App. 41a), the evidence 
+overwhelmingly demonstrates that 
+
+
+Every cable household can secure as good access to 
+over-the-air television as it had before adopting cable 
+simply by (1) retaining or acquiring the sort of 
+antennae that the uncabled 40% of households 
+necessarily use, and (2) operating either an input 
+selector switch on their “remote” or an “A/B” switch 
+that can be acquired at a local hardware store for a 
+trivial sum. 
+
+
+ee eee ee eS 
+
+
+19 
+
+
+A. The FCC And The D.C. Circuit Have 
+Previously Approved Switch-And-Antenna 
+Capability As A Less Restrictive Alternative 
+
+
+1. The Quincy Decision. In an opinion written by Judge 
+Wright and joined by Judge (now Justice) Ginsburg and Judge 
+Bork, the court of appeals unanimously held the FCC’s original 
+must-carry rules unconstitutional. Quincy Cable TV, supra, 
+768 F.2d 1434. The FCC’s defense of those rules rested on the 
+assumption that “cable subscribers would cease to view local 
+television signals unless such signals were carried by the cable 
+system” (768 F.2d at 1441). But “connection of the cable,” the 
+court noted, “typically has no direct effect at all on receipt of 
+UHF signals.” And while the cable was usually attached to the 
+receiver's VHF input terminal, the FCC acknowledged that “an 
+inexpensive switch (the ‘A/B switch’) would enable a viewer 
+to alternate between cable and off-air VHF signals.” The court 
+thus observed that, “in principle, a cable subscriber with little 
+or no effort could still view local broadcasts even without the 
+benefit of the must-carry rules” (ibid.). 
+
+
+When first issuing must-carry rules in 1965, the FCC had 
+cited possible impediments to successful use of A/B switches. 
+See 768 F.2d at 1441 (citations omitted). But “[ijn the two 
+decades since the rules’ original promulgation,” the FCC had 
+never reexamined what the court described as “the admittedly 
+speculative links in [its] chain of reasoning” (id. at 1457). The 
+court thus held that must-carry could survive First Amendment 
+scrutiny only if the FCC provided support for the two assump- 
+tions that were “the linchpins of its analysis” (ibid.): 
+
+
+(1) that without protective regulations cable 
+subscribers would cease to view locally available 
+over-the-air television either because they would 
+disconnect their antennas or because the inconve- 
+nience of switching would deter them; and (2) that 
+even if some cable subscribers did abandon local 
+
+
+20 
+
+
+television, they would do so in sufficient numbers to 
+affect the economic vitality of local broadcasting. 
+
+
+2. The FCC’s Response To Quincy. Following notice- 
+and-comment rulemaking, the FCC reconsidered its earlier 
+pronouncements and adopted a “two-part regulatory program 
+that eventually will eliminate the need for cable television 
+mandatory signal carriage regulation.” See Amendment of Part 
+76 of the Commission's Rules Concerning Carriage of 
+Television Broadcast Signals by Cable Television Systems, | 
+FCC Red. 864 (1986), ¥ 1 (“1986 Report”), reconsidered in 
+part, 2 FCC Red. 3593 (1987) (“1987 Report”). The first part 
+of this program “require[d] cable systems to offer subscribers 
+input selector switches for use with antennas and to conduct a 
+consumer education program concerning * * * the need for 
+maintaining off-the-air reception capability.” The second part 
+consisted of interim must-carry rules designed to “provide an 
+orderly transition to a new environment.” 1986 Report { 1. 
+
+
+The FCC concluded that use of antennas, coupled where 
+necessary with A/B switches, did indeed offer the best long- 
+term method of ensuring viewers’ access to local broadcasters 
+that cable systems do not voluntarily carry. It found that an 
+AJB switch is a “low-cost item” whose “installation costs will 
+be minimal” (1986 Report § 215). It also noted the “relatively 
+low cost and simple installation of indoor antennas,” available 
+in set-top and more sensitive attic designs; such antennas 
+permit consumers “to receive signals of acceptable quality” 
+even in locations where outdoor antennas are too costly or 
+prohibited (J 166). The FCC considered a variety of technical 
+objections to A/B switches, such as possible signal leakage or 
+“ghosting” caused by improper switch installation or by 
+inadequate isolation between components. But the 
+Commission found these objections “overstated” and conclud- 
+ed that such problems could easily be solved by equipment 
+redesigns pursuant to FCC-mandated standards (f¥J 142, 165). 
+
+
+Pe a Te oe 
+
+
+ed 
+
+
+a 
+
+
+21 
+
+
+While judging switch-and-antenna capability the best long- 
+term solution, the Commission believed that most cable 
+subscribers in 1986 were “unaware of the need to receive 
+broadcast signals off-the-air and [were] unprepared to do so” 
+(1986 Report § 135). The FCC found this state of affairs to be 
+“a direct result of the former must-carry rules,” which had 
+created a “misperception” on consumers’ part that “broadcast 
+signals will always be available as part of their basic cable 
+service” (fj 46, 121-122). Because the must-carry rules 
+“required cable systems to carry all available off-the-air 
+broadcast television signals,” cable subscribers previously “had 
+no reason to be familiar with an input selector device for 
+choosing between cable and off-the-air” reception. [bid 
+
+
+To correct this consumer misapprehension, the 
+Commission required cable systems to supply their customers 
+with “input selector switches that will enable reception of 
+broadcast signals by means of an antenna,” thereby “leaving the 
+subscriber in the same position to receive off-the-air signals as 
+before cable installation” (1986 Report 4] 136, 140). The 
+Commission noted that consumers had already “become 
+familiar with switching between alternative program sources 
+through the use of VCRs,” and it concluded that they “will 
+accept cable/broadcast input switching as simply another 
+program source option” ({ 164). The FCC also required cable 
+operators to “implement a consumer education program to 
+inform their subscribers of the purpose of, and need for, 
+maintaining off-the-air reception capability” (J 136).° 
+
+
+. Under the consumer education rules, cable systems were required to 
+provide subscribers annually: (1) a list of any local broadcasters not carried 
+by the system; (2) notice that subscribers could obtain access to such 
+broadcasters by use of an antenna and A/B switch; and (3) a description of 
+the function of an A/B switch (1986 Report { 141). Cable systems were also 
+forbidden to suggest that subscribers dismantle their antennas (J 140). 
+
+
+22 
+
+
+To provide an “orderly transition” during a five-year period 
+of consumer acclimatization, the FCC promulgated interim 
+must-carry rules. The Commission found “no need or 
+justification * * * for imposing must carry requirements for [a 
+longer] period,” concluding that they “are neither desirable nor 
+sustainable as long-term solutions to the problem of cable 
+subscribers’ access to broadcast signals” (1986 Report 4 138). 
+
+
+In response to petitions for reconsideration filed by 
+broadcast and cable parties, the FCC in 1987 reaffirmed its 
+policy of encouraging widespread installation of A/B switches. 
+1987 Report ¥ 1. It concluded that “the information currently 
+before us with respect to switch costs, technical performance, 
+consumer convenience, switch compatibility with other equip- 
+ment, and use of antennas for off-the-air reception is more than 
+sufficient to support” the practicality of A/B switches ( 54). 
+
+
+3. The Century Decision. \n an opinion written by 
+Judge Wald and joined by Judges Mikva and McGowan, the 
+court of appeals held that the Commission’s revised must-carry 
+rules were likewise unconstitutional. Century Communications 
+Corp. v. FCC, 835 F.2d 292 (1987), clarified, 837 F.2d 517, 
+cert. denied, 486 U.S. 1032 (1988). The court agreed with the 
+FCC that switch-and-antenna capability represents a feasible, 
+constitutionally-preferable solution to the carriage issue. But 
+the court discerned no justification even for interim must-carry 
+rules, notwithstanding the FCC’s assertion that they were 
+needed “to keep local broadcasts accessible to viewers while 
+the new switch-and-antenna technology takes hold” (835 F.2d 
+at 300). 
+
+
+According to the court, “[t]he lone item of ‘hard’ record 
+evidence” that the FCC cited to support an interim must-carry 
+regime was a 1986 study commissioned by NAB from the 
+ELRA Group (835 F.2d at 300-301). The court found various 
+methodological flaws in the study and questioned the FCC’s 
+wisdom in placing sole reliance on data supplied by NAB, an 
+
+
+23 
+
+
+interested party (id. at 301-302). But even if the study were 
+taken at face value, the court held that it “provide[d] only the 
+spongiest of foundations” for interim must-carry rules (id. at 
+302). 
+
+
+The court also rejected the FCC’s submission that “viewer 
+lethargy” and “consumer ignorance” about A/B switches 
+justified an interim must-carry regime. The court observed that 
+many cable systems, desiring to increase channel capacity, offer 
+service on dual cables, which requires subscribers to “‘employ 
+switching devices to select between the two cables.” 835 F.2d 
+at 302, quoting 1986 Report 4 164. The FCC acknowledged 
+that consumers have “accepted this switching arrangement and 
+do not find it inconvenient.” /bid. 
+
+More generally, the court refused to “accept, without 
+evidence to the contrary, the sluggish profile of the American 
+consumer that the Commission’s argument necessarily 
+presupposes” (835 F.2d at 302): 
+
+In a culture in which even costly items like the video- 
+
+cassette recorder, the cordless telephone, the compact- 
+
+disc player, and the home computer have spread like 
+wildfire, it begs incredulity to simply assume that con- 
+sumers are so unresponsive that within a span of five 
+years they would not manage to purchase an 
+inexpensive hardware-store switch upon learning that 
+
+it could provide access to a considerable storehouse of 
+
+new television stations and shows. 
+
+
+Finally, the court held that the FCC’s interim must-carry 
+regime would be invalid in any event because of its “lengthy 
+duration” (835 F.2d at 303-304). “It is wholly unclear to us,” 
+the court stated, “why it should take five years to inform 
+consumers that with the installation of a $7.50 switch and a 
+television antenna they can view more local channels” (id. at 
+304). The court also expressed skepticism that “eny consumer 
+
+
+24 
+
+
+education campaign will have much impact so long as viewers 
+can continue to rely on must-carry to get their fix of local 
+broadcasts” (ibid.). “Opting for a five-year interim period,” in 
+the court’s view, “merely delays the inevitable, but almost 
+certainly brief, period during which TV owners will learn of, 
+purchase, and install the necessary equipment” (ibid.). 
+
+B. Expert Testimony And Practical Experience 
+Prove The Feasibility Of The Switch-And- 
+Antenna Alternative 
+
+Prior approval of switch-and-antenna capability by both the 
+
+FCC and a unanimous D.C. Circuit surely creates a prima facie 
+case that it is a constitutionally acceptable, less restrictive alter- 
+native to a must-carry scheme. The evidence introduced on 
+remand overwhelmingly confirms that conclusion. The 
+evidence shows that switching from cable to off-air reception 
+of TV signals is a simple exercise that entails no significant 
+cost, in time or money, for the viewer. With a minimum of 
+effort, cable subscribers can watch — in precisely the same 
+manner as they did before cable existed — any broadcast sta- 
+tions that their cable system chooses not to carry. 
+
+
+1. Switching To Off-Air Reception. Although a cable 
+subscriber can switch to antenna reception by manually 
+reconnecting wires on the back of the TV set, the most 
+convenient way to do so is by activating an “input selector” or 
+“A/B” switch. “The record shows that most cable-ready TV 
+receivers now on the market have built-in input selector 
+switches operable by remote control.” J.S. App. 104a 
+(Williams, J., dissenting). As a rule, therefore, cable 
+subscribers would have to acquire stand-alone A/B switches for 
+use only with older or less-expensive TV sets. 
+
+When needed, stand-alone A/B switches are readily 
+available at modest cost from a wide variety of electronics and 
+hardware stores, including such national retail chains as Radio 
+
+
+25 
+
+
+Shack and Circuit City. J.A. 1221. All A/B switches currently 
+marketed are high-isolation switches intended specifically for 
+use with cable television. The packaging usually bears the 
+following label: “This device is verified to comply with FCC 
+rule Part 15 for use with cable television service.” J.A. 1221. 
+
+Stand-alone A/B switches come in various shapes and 
+sizes and offer a variety of features. The simplest A/B switch 
+is a mechanical device, operated manually by pushing a button 
+on the switch. J.A. 1222-1223. High-quality switches of this 
+sort (including gold-plated models) are available from Radio 
+Shack for $6.99 and $7.99. J.A. 772, 1222. “[I}t would seem 
+that anyone who could afford cable could also afford the $10 
+for an A/B switch for use with an old television set.” J.S. App. 
+
+
+104a (Williams, J., dissenting). 
+
+
+For slightly more money, consumers can purchase 
+sophisticated A/B switches that offer greater convenience and 
+performance options. See 1987 Report {] 82 & 89 (noting 
+availability of “switch options with premium features,” 
+including “multiple source input switches” and “remote control 
+switches”). Stand-alone A/B switches operable by remote 
+control are available for about $40. J.A. 1774. Radio Shack 
+offers a high-isolation three-position A/B switch, operable by 
+remote control, that allows switching between cable, off-air, 
+and a third reception source (such as a video-disc player or 
+VCR). J.A. 1224. One manufacturer offers a “VCR Interface 
+Switch,” listed at $25, that accommodates signal inputs from 
+cable, antenna, and a VCR and allows full flexibility among 
+viewing, taping, and play-back of previously taped video 
+material. J.A. 1230. 
+
+Stand-alone A/B switches are easy to install. Normal 
+installation takes a few minutes and can readily be done by the 
+consumer, without tools, using instructions enclosed in the 
+package. J.A. 1222-1225. The FCC concluded in 1987 that 
+“those who contend that consumers cannot properly install 
+
+
+26 
+
+
+switches present no credible evidence to support their claim.” 
+1987 Report § 51. Plaintiffs’ expert on remand confirmed the 
+correctness of that conclusion today, testifying that improper 
+switch installation is a “statistically meaningless” problem. 
+J.A. 508, 1779-1780. 
+
+Switching from cable to off-air reception is convenient 
+and easy to do. In the vast majority of cases, it involves 
+pushing one button on an A/B switch or remote control pad. 
+J.A. 1225. In some cases, the viewer may need to push a 
+second button, referred to as the “tuning mode” or “ca- 
+ble/normal” switch. Use of the tuning-mode switch is neces- 
+sary when a viewer wishes to receive off-air UHF signals and 
+does not use a set-top converter (descrambling device) in 
+usually required for non-cable-ready sets, are now used in about 
+70% of cable homes. That percentage will likely rise in the 
+future, so that few cable subscribers would ever need to operate 
+a tuning-mode switch. J.A. 1226-1229, 1242-1244. In any 
+event, use of this switch, when necessary, is convenient; 
+roughly 80% of cable-ready receivers permit switching of the 
+tuning mode by remote control. J.A. 1228. 
+
+
+A/B switches now on the market are reliable and free of 
+technological defects. J.A. 1234. Historically, some concern 
+was expressed about possible “signal leakage” from A/B 
+switches, which could cause unacceptable radiation of cable 
+signals or picture-quality degradation. However, as a result of 
+stringent technical standards issued by the FCC in November 
+1987, as well as manufacturers’ improvements in switch and 
+receiver design, A/B switches now on the market will not cause 
+picture-quality problems. J.A. 1234, 1236-1240, 1780. 
+Defendants’ expert admitted that he had no reason to believe 
+
+
+that signal leakage is a real problem today. J.A. 440. 
+
+
+2. Reception Of Off-Air Signals Via Antenna. A 
+receiving antenna is always needed to receive television signals 
+
+
+27 
+
+
+off-the-air, whether or not the viewer subscribes to cable. J.A. 
+763, 773. Approximately 36 million households — almost 
+one-third of all U.S. television households — rely solely on 
+antennas to watch television. Many cable households also rely 
+on antennas for second or third TV sets not connected to cable. 
+J.A. 763-764, 773. 
+
+
+There are three main types of antenna: “master” antennas, 
+“indoor” antennas, and “outdoor” antennas. J.A. 764. “Mas- 
+ter” antennas are mounted on apartment buildings and 
+condominium complexes to feed broadcast signals to individual 
+dwelling units. They are used where, for convenience or 
+aesthetic reasons, it is impractical for residents to install their 
+own outdoor antennas. J.A. 764. 
+
+“Indoor” antennas typically consist of a wire loop for the 
+UHF band and familiar “rabbit ears” for the VHF band. J.A. 
+764. These set-top antennas enable most households within a 
+station’s Grade A contour — typically, within 30-45 miles of 
+the transmitter — to receive high-quality broadcast signals. 
+J.A. 762-764; 1986 Report § 166. NAB itself recently noted 
+that “more than 50% of all TV sets in the U.S. depend on set- 
+top antennas to receive TV programming.” See J.A. 767-768. 
+
+
+“Outdoor” antennas may be mounted within an attic, for 
+convenience or aesthetic reasons, or attached to a mast beside 
+a dwelling. J.A. 765; 1986 Report 4 166 (attic antennas “give 
+additional off-the-air reception capability”). “Outdoor” 
+antennas enable most households within a station’s Grade B 
+contour — typically, within 55-60 miles of the transmitter — 
+to receive high-quality broadcast signals. J.A. 762-763, 765. 
+
+Antenna reception provides much better picture quality 
+now than it did 30 years ago, owing to improvements in TV 
+receivers and antenna design. Because of increased tuner 
+sensitivity, modern receivers can present high-quality pictures 
+— both in the UHF and VHF ranges — despite relatively low 
+
+
+28 
+
+
+signal inputs from the antenna. J.A. 766. Amplifiers are now 
+available to boost the antenna signal, permitting use of indoor 
+antennas where outdoor antennas would once have been 
+required. J.A. 766. The efficiency or “gain” of outdoor 
+antennas has been enhanced by design improvements and the 
+use of better transformers. J.A. 765. And further improve- 
+ments in antenna design can be expected in the future. Noting 
+that “there is a large installed base of TV sets that rely on over- 
+the-air reception,” the NAB recently awarded a contract for 
+development of an “Improved Set-Top Antenna.” J.A. 767- 
+768. 
+
+
+Television receiving antennas are readily available from 
+department stores, discount appliance stores, and electronics or 
+hardware stores throughout the United States, including such 
+national chains as Sears, Circuit City, Home Depot, and The 
+Wiz. J.A. 768. Good-quality indoor antennas are priced under 
+$20; high-quality amplified indoor antennas cost about $50; 
+attic antennas cost about $40; outdoor antennas range in price 
+from $15 (for a UHF-only antenna) to $100 (for a “multi-use 
+amplified omni-directional” antenna); and separate amplifiers 
+for use with indoor or outdoor antennas cost $20 to $30. J.A. 
+766, 770-772. Outdoor antennas can be selected and installed 
+by the consumer with little difficulty. J.A. 768-770. Retailers 
+that sell outdoor antennas often offer installation also, with 
+charges commonly ranging between $50 and $150. J.A. 768, 
+770. 
+
+
+3. Practical Experience With A/B Switches. Actual 
+experience since enactment of the must-carry law shows that 
+antenna selector switches provide a workable of 
+ensuring cable subscribers’ access to local broadcast stations. 
+As Judge Williams noted below, “[t]he 1992 Cable Act in fact 
+precipitated a controlled experiment in consumer 
+resourcefulness.” J.S. App. 105a. The statute gave broad- 
+casters a choice between mandatory carriage on cable systems 
+
+
+29 
+
+
+(“must-carry”) and negotiating with cable systems for payment 
+in exchange for carriage (“retransmission consent”). Most 
+stations that did not elect must-carry successfully negotiated 
+retransmission-consent payments. However, “[i}n late 1993 the 
+three major television network local affiliates were unable to 
+reach agreement on retransmission consent with a TCI cable 
+system in Corpus Christi, Texas, resulting in a three-month 
+span in which ABC, CBS, and NBC were all absent from 
+cable.” J.S. App. 105a (Williams, J., dissenting). To assist 
+subscribers in obtaining off-air access to network programming 
+during this period, TCI distributed 40,000 A/B switches to 
+subscribers in early October 1993. J.A. 1240. 
+
+
+It is obvious that the switches so distributed were correctly 
+installed by subscribers who needed them, and that the switches 
+functioned properly. “Before the dispute the networks collec- 
+tively captured a 70% share of the total cable audience; after a 
+month off cable (and with distribution of A/B switches), they 
+had a share of 67%-69% of the total cable audience.” J.S. App 
+105a (Williams, J., dissenting). “I think we surprised a lot of 
+young people,” said one station owner. “They didn’t know 
+there were other ways to watch TV than through the cable.” 
+Warren's Cable Regulation Monitor, Nov. 29, 1993, at 7; 
+Cable World, Nov. 8, 1993, at 12. The Corpus Christi experi- 
+ence shows that substantial numbers of A/B switches can be 
+installed properly in a short period of time, without meaningful 
+damage to broadcast stations’ viewership. 
+
+The fact that other media outlets depend heavily on 
+antenna-selector switches to provide access to local broadcast 
+programming provides further evidence of the switches’ 
+practical utility. One such industry is the direct broadcast 
+satellite (“DBS”) industry, which currently has three major 
+providers: Primestar, DirecTV and USSB. See FCC, First 
+Annual Report to Congress Assessing the Status of Competition 
+
+
+30 
+
+
+in the Market for Cable Television and Other Video 
+Programming Services, 59 Fed. Reg. 64657, 64659 (1994). 
+
+
+Subscribers to DBS service “must use an A/B switch to 
+retain access to any local broadcast stations, because the DBS 
+feed does not include them.” J.S. App. 106a (Williams, J., 
+dissenting). DBS providers send programming directly to 
+customers’ earth-station antennas; because they offer a single, 
+nationwide programming line-up, they cannot carry broadcast 
+stations in each local market. For that reason, many DBS 
+subscribers maintain antennas and switch as desired between 
+satellite and local broadcast reception. Depending on the 
+service provider, this switching capacity may be furnished as 
+part of the satellite receiver or through a stand-alone A/B 
+switch. J.A. 1241. The three DBS services had 1.53 million 
+customers in 1994, and there were projected to be 2.26 million 
+DBS customers in 1995. Paul Kagan & Associates, Marketing 
+New Media, Feb. 20, 1995, at 4. 
+
+
+Another industry that relies heavily on A/B switches is 
+terrestrial point-to-multi-point microwave (“MMDS” or 
+“wireless cable”). Because MMDS service has limited channel 
+capacity — 24 to 33 channels are typical — operators usually 
+carry few, if any, local broadcast stations. As is true for DBS 
+customers, MMDS subscribers commonly maintain their own 
+local off-air reception capability and use A/B switches to select 
+microwave or off-air reception as they wish. J.A. 1241-1242. 
+MMDS providers served 430,000 subscribers in 1994 and were 
+projected to serve 620,000 subscribers in 1995. Paul Kagan & 
+Associates, Marketing New Media, Feb. 20, 1995, at 4. 
+
+
+In short, about two million of the nation’s television house- 
+holds were served in 1994 — and about three million of those 
+households were expected to be served in 1995 — by distri- 
+bution services that carry few, if any, local broadcast TV 
+stations. Some form of A/B switch is required in each of these 
+homes to obtain access to local broadcasts, and each of these 
+
+
+31 
+
+
+homes must maintain or install an adequate receiving antenna. 
+The rapid growth of these alternative distribution services 
+shows that consumers are ready, willing and able to achieve 
+switch-and-antenna capacity. And if the need for switches and 
+antennas can readily be accommodated by these emerging 
+technologies, there is no reason to believe it cannot be 
+accommodated by the broadcasting industry as well.° 
+
+
+Recent experience with A/B switches and antennas 
+“indicates that consumers themselves are quite capable of 
+adopting these measures when they think the extra [broadcast] 
+programs are worthwhile.” J.S. App. 108a n.30 (Williams, J., 
+dissenting). This suggests that market forces alone would 
+suffice to ensure the continued health of local broadcasting. 
+However, “[iJf Congress feared that consumers were 
+insufficiently aware of such switches,” it could, without violat- 
+ing anyone’s First Amendment rights, “devise a promotional 
+solution tailored to that end” (ibid.). See Turner, 114 S.Ct. at 
+2480 (O’Connor, J.) (“Congress can encourage the creation of 
+new media, * * * or even simple devices that would let people 
+easily switch from cable to over-the-air broadcasting”). One 
+example would be a consumer-education program of the sort 
+the FCC successfully implemented in 1987. Another example 
+would be equipment standards for television manufacturers 
+designed to make switching as effortless as possible — é.g.,a 
+requirement that most receivers contain built-in A/B switches 
+operable by remote control. The Century court saw merit in 
+such a proposal. See 835 F.2d at 304 n.6, citing 1986 Report 
+
+
+{7 174-175 & 1987 Report ¥ 56. Indeed, Congress adopted 
+similar requirements in the 1992 Act, which requires the FCC 
+
+
+. Indeed, the growth of these new distribution services partially accounts 
+for consumers’ recent propensity to purchase antennas. “[F]rom 1993 to 
+1994 there was a 51% increase in the sales of indoor antennas (from 3.5 
+million units to 5.3 million units).” J.S. App. 107a (Williams, J., dissent- 
+ing). 
+
+
+32 
+
+
+to issue rules concerning “consumer electronics equipment 
+compatibility.” 47 U.S.C. § 544a(c). 
+
+
+In sum, the evidence establishes that switch-and-antenna 
+capability — and any measures that Congress reasonably 
+believes would encourage consumers’ convenient use of it — 
+represents a constitutionally permissible, less-restrictive 
+alternative to a must-carry regime. And as Judge Williams 
+noted, the availability of A/B switches points up a more basic 
+defect in the Government’s proof. By enabling cable 
+subscribers to watch any broadcaster their cable system does 
+not carry, switch-and-antenna capacity “undermine[s] the claim 
+that the continuation of over-the-air television is in any way in 
+jeopardy or that cable operators have a ‘bottleneck’ over provi- 
+sion of video services to cable subscribers (a foundation of any 
+claim of anticompetitive behavior).” J.S. App. 103a. 
+
+
+C. Congress’s Dismissal Of The Switch-And- 
+Antenna Alternative Was Not Supported By 
+“Substantial Evidence” 
+
+
+Judge Sporkin’s discussion of A/B switches, occupying 
+two pages in his opinion (J.S. App. 23a-25a), is cursory at best. 
+He catalogs six items of evidence introduced by defendants, 
+wholly ignoring contrary findings by the FCC and the D.C. 
+
+- Circuit, as well as voluminous evidence introduced by plaintiffs 
+which showed defendants’ submissions to be misleading, 
+outdated, and unreliable. With no analysis whatever, Judge 
+Sporkin asserts that there was “substantial evidence” from 
+which Congress “could reasonably conclude that these switches 
+do not represent an equally effective alternative.” J.S. App. 
+23a. 
+
+As our co-plaintiffs explain in greater detail, Judge 
+Sporkin’s “equally effective” test is legally erroneous. Judge 
+Sporkin was able to find switch-and-antenna capacity “less 
+effective” only because he had already posited, as the 
+
+
+33 
+
+
+governmental interest underlying must-carry, the conferral of 
+maximum economic benefits on the particular broadcasters 
+electing it. Judge Sporkin’s approach, moreover, looks only to 
+one side of the equation — the effectiveness of the means 
+chosen by the Government — ignoring the fact that the option 
+deemed “more effective” imposes dramatically more severe 
+restraints on protected speech. 
+
+
+_ Apart from legal error, Judge Sporkin’s discussion of A/B 
+switches fails on its own terms. The evidence on remand over- 
+whelmingly demonstrates that A/B switches “work” in a 
+technical sense and that switch-and-antenna capability is easily 
+within the means of viewers who can afford cable. As Judge 
+Williams explains (J.S. App. 104a-109a), defendants’ argument 
+on remand — reduced to its essentials — consisted of two 
+propositions. First, defendants contended that some unquan- 
+tified number of cable subscribers would be too ignorant or too 
+lazy to acquire and use A/B switches and antennas to view 
+broadcast stations not carried on their cable system. Second, 
+defendants urged that an additional unquantified number of 
+cable subscribers may either lose access to, or receive a poorer 
+quality picture from, dropped broadcasters because of terrain or 
+man-made obstacles that affect cable subscribers in the same 
+manner that these obstacles affect their neighbors who do not 
+subscribe to cable. 
+
+
+These arguments cannot possibly satisfy defendants’ 
+burden of proof, for three main reasons. First, the 
+constitutional rights of cable speakers cannot legitimately be 
+impaired because of the possibility that some cable subscribers 
+may be unwilling to make the modest effort needed to view 
+broadcast programming off-the-air. By use of A/B switches, 
+cable subscribers have the ability to receive such programming 
+at a cost not significantly greater than the cost non-cable 
+viewers must incur to see the same programming. If cable 
+subscribers demur to this modest effort, it can only be because 
+
+
+34 
+
+
+they have no desire to watch the broadcasters that their cable 
+systems decline to carry. If that is so, it is hard to understand 
+how noncarriage of such stations could jeopardize the health of 
+the local broadcast system. And in any event, “government- 
+mandated carriage seems a rather astonishing solution to a 
+problem now redefined as consumers’ occasional need to ‘get 
+up”” from their chairs to flick a switch. J.S. App. 106a 
+(Williams, J., dissenting). 
+
+Second, protecting the public’s interest in “free TV” — by 
+definition — means preserving the ability of TV households to 
+view broadcasts they can receive over-the-air. It is undeniably 
+true, as Congress found and defendants urged below, that 
+mountains, skyscrapers, and other obstacles impair off-air 
+reception in certain locations by blocking transmission of 
+broadcast signals. But possible obstruction of over-the-air 
+signals by natural and man-made impediments is an immutable 
+characteristic of the broadcast medium; it has been a fact of life 
+for broadcasting since its birth. The existence of these 
+obstacles does not constitute a “harm” to broadcasting that 
+Congress could legitimately seek to cure by impairing First 
+Amendment rights: the health of the broadcast industry, as a 
+matter of law, is simply not affected by viewers’ inability to 
+view inherently non-viewable signals. Commandeering cable 
+channels to extend broadcast stations’ reach to viewers who 
+cannot otherwise receive their signals, or who receive them 
+poorly, is a fundamentally illegitimate preference for the 
+financial interests of broadcasters over the First Amendment 
+rights of cable speakers. 
+
+Third, even if one were to assume the legitimacy of the 
+preceding two propositions, defendants below made absolutely 
+no showing about the magnitude of these problems. 
+Defendants bear the burden of proving that switch-and-antenna 
+capability — which does not impair anyone’s First Amendment 
+rights — fails adequately to serve the interests Congress 
+
+
+35 
+
+
+legitimately seeks to protect. Defendants below made no effort 
+to show that substantial numbers of consumers would be af- 
+flicted by supposed technological inertia, especially if Congress 
+and the FCC took active steps to encourage use of A/B Switch- 
+es. Nor did defendants quantify the proportion of cable house- 
+holds that would suffer from reception problems despite use of 
+an appropriate antenna; “from all that appears, [weak-signal 
+areas] may represent a very small fraction of the country.” J.S. 
+App. 109a (Williams, J., dissenting). In short, while it may be 
+assumed that broadcasters would lose some viewers after being 
+dropped from cable, defendants have not proven that they 
+would lose a sufficient number of viewers to endanger their 
+own survival, much less to jeopardize the health of the entire 
+broadcast system. 
+
+
+In the pages that follow, we will first show the insubstant- 
+iality of the evidence that Congress itself cited in rejecting the 
+switch-and-antenna option. We will then show that the 
+evidence cataloged by Judge Sporkin, to the extent it differs, 
+does nothing to redeem this poor legislative showing. 
+
+1. Evidence Cited By Congress. Section 2(a) of the Act 
+sets forth legislative “findings” designed to cure the flaws 
+discerned by the D.C. Circuit in the government’s prior justifi- 
+cations for must-carry. Two of these “findings” concern the 
+a alternative specifically. Section 2(a)(17) 
+States 
+
+
+Consumers who subscribe to cable television often do 
+so to obtain local broadcast signals which they 
+otherwise would not be able to receive, or to receive 
+improved signals. Most subscribers to cable 
+television systems do not or cannot maintain antennas 
+to receive broadcast television services, do not have 
+input selector switches to convert from a cable to 
+antenna reception system, or cannot otherwise receive 
+broadcast television services. 
+
+
+36 
+
+
+Section 2(a)(18) states that 
+
+
+Cable television systems are often the single most 
+
+efficient distribution system for television 
+
+programming. A government mandate for a substan- 
+
+tial societal investment in alternative distribution 
+
+systems for cable subscribers, such as the ‘A/B’ input 
+
+selector antenna system, is not an enduring or feasible 
+method of distribution and is not in the public interest. 
+
+As Judge Williams explains, the italicized portions of these 
+findings — which reject switch-and-antenna capacity “on the 
+ground that cable in many cases enhances broadcast stations’ 
+signals or even brings them into areas they could not otherwise 
+reach” — are illegitimate as a matter of law. “[N]either the en- 
+hancement of television options for cable subscribers, nor 
+extending broadcast’s reach to cable subscribers in otherwise 
+signal-deprived areas, was embraced by [this] Court in Turner 
+as an interest substantial enough to justify must-carry.” J.S. 
+App. 108a (Williams, J., dissenting). Congress’s stated (and 
+only permissible) purpose was to preserve the health of local 
+broadcasting, not to improve upon its physical limitations at 
+cable’s expense. 
+
+The remainder of Congress’s “findings” are conclusory 
+assertions about the supposedly insuperable barriers posed by 
+the need for switches and antennas. As Judge Williams 
+explains, the undisputed evidence on remand belies these asser- 
+tions. “Neither switch nor antenna is so mysterious, costly or 
+unworkable as to be beyond the means of a private citizen who 
+values access to a program at the price of a diminutive capital 
+investment and the ongoing cost of pushing the switch when 
+necessary.” J.S. App. 108a. 
+
+In the 1992 Committee Reports, Congress cited four items 
+of evidence to support its rejection of the switch-and-antenna 
+alternative. First, it relied on the 1986 study, commissioned by 
+
+
+37 
+
+
+NAB from the ELRA Group, which concluded that cable sub- 
+scribers rarely used A/B switches while prior must-carry rules 
+were in effect. See S. Rep. 102-92, 102d Cong., 2d Sess. 45 & 
+n.116 (1992), citing ELRA Group, Inc., “Outdoor Antennas, 
+Reception of Local Television Signals and Cable Television” 
+(Jan. 28, 1986), J.A. 20-22. This is the same study that the 
+Century court in 1987 termed “the spongiest of foundations” 
+for must-carry, describing it as “a melange of disparate facts 
+and findings” tainted by “survey imperfections.” 835 F.2d at 
+301-302; see pages 22-23, supra. The ELRA study’s core 
+finding was that in 1985 “only about 10% of subscribers pres- 
+ently switch back and forth between cable and antennas” (835 
+F.2d at 301). But this finding provided no logical support for 
+expensive, or difficult to install. “More likely,” the court 
+explained, “the absence of such equipment from most homes 
+reflects the obvious reality that, so long as the government 
+requires cable companies to offer local broadcasting through 
+the must-carry regime, such supplemental equipment is unnec- 
+essary” (ibid.). Absent must-carry, said the court, “[c]ommon 
+sense suggests that consumers who want to receive an off-the- 
+air channel will quickly observe that they need to purchase (or 
+reconnect) antennas should their cable system cease offering 
+their favorite broadcast stations” (ibid). 
+
+The second item of evidence cited by Congress consisted 
+of comments that NAB submitted to the FCC in December 
+1986, seeking reconsideration of the Commission’s 1986 
+Report. See S. Rep. 102-92, at 45 & n.115 (citing NAB 
+comments); H.R. Rep. 102-628, at 54 & n.60 (same). These 
+comments alleged a variety of technical problems with A/B 
+switches and raised convenience and cost objections to them. 
+See 1987 Report ff 10-12 (summarizing NAB objections). In 
+its opinion on reconsideration, the FCC exhaustively analyzed 
+these objections and found most of them to have no factual 
+
+
+38 
+
+
+support (1987 Report #9 50-57). However, the FCC did find 
+merit in concerns that poor isolation between the “A” and “B” 
+sides of the switch could cause signal leakage or “ghosting” 
+(F952 & 92-93). The Commission accordingly announced its 
+intention to convene a separate rulemaking to consider 
+technical standards for A/B switches (§ 94). In that later 
+rulemaking, completed in November 1987, the FCC pro- 
+pounded more stringent performance standards for antenna- 
+by a factor of 100 (from 60dB to 80dB). See 47 CFR §§ 15.115 
+& 15.117; J.A. 1232, 1234-1235. In short, of all the technical 
+problems that NAB alleged in 1986, the FCC had already 
+remedied the sole problem that it found to have any factual 
+basis — potential signal leakage — a full five years before the 
+Cable Act was passed. See page 26, supra. Congress’s 
+reliance in 1992 on NAB’s stale charges was thus entirely mis- 
+placed. 
+
+The third item of evidence on which Congress relied in 
+rejecting the switch-and-antenna option was testimony 
+delivered by Edward Fritts, president of NAB, and Preston 
+Padden, then president of INTV, at a 1989 committee hearing. 
+See S. Rep. 102-92, at 45 & n.114, citing “Must Carry,” 
+Hearing before the Subcomm. on Communications of the 
+Senate Commerce Comm. (101-427), Oct. 25, 1989 (“Must- 
+Carry Hearing”), at 39, 80. But this testimony adds nothing to 
+the “evidence” discussed above. Fritts relied on the 1986 
+ELRA study. See Must-Carry Hearing, at 39. And Fritts and 
+Padden both relied on NAB’s petition for reconsideration of the 
+FCC’s 1986 Report. See Must-Carry Hearing, at 39, 80. Both 
+witnesses, in short, were simply regurgitating arguments that 
+the NAB had made back in 1986 — arguments that the FCC 
+
+
+39 
+
+
+and the Century court had exhaustively considered and reject- 
+ed.’ 
+
+The final piece of evidence on which Congress relied in 
+rejecting the switch-and-antenna alternative was a 1991 survey 
+by Mark Fratrick, NAB’s in-house economist, which purported 
+to update the ELRA study’s results. See H.R. Rep. 102-628, at 
+54 & nn. 62, 63, citing Fratrick, “A/B Switch Availability and 
+Use,” Sept. 23, 1991, J.A. 128-133. Having been drafted by 
+NAB's in-house economist, the Fratrick survey is unlikely to 
+have been biased in cable systems’ favor. Yet far from 
+supporting Congress’s conclusion that “consumers are not 
+willing to use A/B switches” (H.R. Rep. )02-628, at 54), the 
+Fratrick survey supports the opposite conclusion. 
+
+The Fratrick survey estimated that, as of 1991, 33% of 
+cable households had one or more TV sets connected to cable 
+and an antenna; that 48% of such households had A/B 
+switches; and that 38% of households with A/B switches had 
+used them. J.A. 131. While Congress viewed these results as 
+actually show a substantial increase in consumers’ switch-and- 
+antenna capability between 1986 and 1991. The ELRA study, 
+for example, estimated that only 1% of cable households had an 
+outdoor antenna and an A/B switch. J.A. 21, 22. This 
+improvement in consumers’ switch-and-antenna capability 
+between 1986 and 1991 is quite remarkable: the evidence on 
+
+
+; Congress in 1992 also noted the FCC’s finding that some cable systems 
+had encouraged subscribers to take down their antennas, thus preventing 
+reception of off-air signals. S. Rep. 102-92, at 45; H.R. Rep. 102-628, at 
+54. This too is ancient history. The FCC did observe this behavior by cable 
+systems in ]986 (1986 Report #¥ 121, 168). Since 1987, however, cable 
+coed w mahusivo&bGioelr vecepen capably. dos 1500 Raper ee 
+
+i } . See 1986 140; 
+47 CFR § 76.66 (1991). — 
+
+
+40 
+
+
+tarily carried more than 95% of broadcast signals, so that 
+subscribers’ need to acquire switches and antennas was not 
+very urgent. This improvement is a clear tribute to the efficacy 
+of the FCC’s consumer-education program." 
+
+In sum, the evidence on which Congress relied in 1992 to 
+support rejection of the switch-and-antenna alternative cannot, 
+by any stretch of the imagination, be termed “substantial 
+evidence.” This is not a case in which Congress sought out 
+independent experts to provide objective and dispassionate 
+testimony on a technical subject. Rather, Congress relied 
+almost exclusively on data submitted by NAB and INTV — 
+interested parties and consistent opponents of A/B switches as 
+an alternative to must-carry. Most of this “evidence” dated 
+back to 1986; had previously been considered by the FCC and 
+the D.C. Circuit; and had been found by both to have no factual 
+basis. The NAB’s objections were neither timely nor fresh: to 
+the extent they had merit in 1986, they had been mooted by 
+1992 as a result of technological improvements or subsequent 
+FCC action. The one bit of new “evidence” — the 1991 
+Fratrick survey — was tainted by survey imperfections that 
+cause it to understate consumers’ sw.ich-and-antenna 
+
+
+* Because of the way the Fratrick survey was conducted, it understates the 
+extent to which cable subscribers actually switch between cable and off-air 
+reception. The ELRA study revealed that only 15% of subscribers who 
+alternated between cable and off-air reception in 1985 used A/B switches to 
+do so; the other 85% manually reconnected wires on the back of the TV set 
+or used some other method. J.A. 21. The Fratrick survey, however, 
+neglected to ask subscribers about reconnecting wires or other methods of 
+switching to off-air reception. Rather, it asked simply, “On how many sets 
+do you have a switch that allows you to switch back and forth between the 
+cable and an outside or set-top antenna?” and “Have you ever used that 
+switch?” J.A. 133. This obvious survey imperfection — the ELRA survey, 
+which Fratrick was purporting to update, specifically asked (in question 21) 
+about reconnecting wires and other methods of switching — seriously im- 
+pugns the reliability of the Fratrick survey’s results. 
+
+
+4] 
+
+
+capability. Yet even those biased results show that switch-and- 
+antenna capacity was much more widespread in 1992 than it 
+was in 1987, when the Commission and the Century court ap- 
+proved it as a constitutionally-preferable alternative to must- 
+carry. 
+
+2. Evidence Cited By Judge Sporkin. We have already 
+discussed one piece of evidence cataloged by Judge Sporkin 
+(J.S. App. 24a-25a) — the 1991 consumer survey by Mark 
+Fratrick, NAB’s in-house economist, which Congress also 
+cited. Judge Sporkin also lists a 1987 petition for 
+reconsideration filed with the FCC alleging a “risk of signal 
+degradation and signal leakage” from A/B switches (J.S. App. 
+24a & n.47). As we have explained previously, to the extent 
+signal leakage was a risk in 1987, the problem has been cured 
+by subsequent FCC rulemaking; defendants’ expert admitted 
+that signal leakage is not a problem in the real world today. See 
+pages 26 & 38, supra. In citing these 1987 objections, 
+therefore, Judge Sporkin was making a mere debater’s point. 
+As is true elsewhere, he made no effort to find out whether the 
+objections on which he relied had any current validity. 
+
+Judge Sporkin next cites a 1986 NCTA study contending 
+that “the costs entailed by A/B switches ‘far outweigh the 
+benefits.” J.S. App. 24a & n.48. This study accompanied 
+NCTA’s petition for reconsideration of the FCC’s 1986 Report, 
+which the cable industry did oppose on financial grounds. That 
+was because the 1986 Report would have mandated universal 
+installation of A/B switches — regardless of subscribers’ need 
+or desire for them — with all material and labor costs borne by 
+the cable operator (1986 Report 4 140). Cable operators 
+objected that a “universal installation” requirement would 
+impose capital costs in excess of $1 billion, with much of this 
+money simply being wasted. See id. § 10. 
+
+The FCC agreed with these submissions. It accordingly 
+revised its rules to require that cable operators simply offer A/B 
+
+
+42 
+
+
+switches to their customers, then install switches for those who 
+wanted them. The final rules also permitted operators to charge 
+for the labor and material costs of installation (except where 
+switches were added as part of a new customer hook-up). See 
+1987 Report ¥¥ 80-84. These revisions relieved cable opera- 
+tors’ concerns that A/B switch rules would impose 
+unreasonably large capital costs. See J.A. 1781-1782." 
+
+Judge Sporkin also cites two items of evidence introduced 
+by defendants on remand. The first is the report of Eldon 
+Haakinson, who testified that use of A/B switches may entail 
+“complexity” and “viewer inconvenience.” J.S. App. 25a & 
+n.49. Mr. Haakinson’s qualifications as an expert on this 
+subject are suspect,’ and his discussion of A/B switches 
+derives almost entirely from material prepared by others. See 
+J.A. 601-602, 605, 607-611. In any event, his hearsay 
+assertions do not represent “substantial evidence.” They are 
+
+
+* — Judge Sporkin attempts to create the impression that the cable industry 
+after 1987 continued to oppose A/B switches by quoting out of context a 
+statement by James Mooney, then-president of NCTA, in a 1990 committee 
+hearing. J.S. App. 23a-24a & n.46. In fact, Mr. Mooney testified that 
+“NCTA does not have major substantive problems with mandating 
+electronic switches in television sets.” He further testified that “the cable 
+industry would probably welcome electronic A/B/C switches if the broadcast 
+industry pursues its [retransmission consent] proposal.” “Cable TV 
+Consumer Protection Act of 1989,” Hearing before the Subcomm. on 
+Communications of the Senate Commerce Comm. (101-702), Mar. 29, 
+1990, at 108. 
+
+
+‘© Mr. Haakinson is an expert in the physics of television and radio signal 
+transmission, i.¢., the propagation characteristics of radio waves emitted 
+from broadcast transmitter towers. As he states in his declaration (J.A. 581), 
+his expertise is limited to “the field of telecommunications propagation.” 
+His curriculum vitae reveals no experience in the field of consumer elec- 
+tronics. See J.A. 386-392, 580-581. Of the 32 publications he has authored, 
+not a single one deals with A/B switches, television receivers, or other 
+consumer-electronics issues. See J.A. 581. 
+
+
+43 
+
+
+controverted by the prior findings of the FCC and the D.C. 
+
+
+Circuit, as well as by the testimony of David Large, an undisputed 
+expert on the subject of A/B switches and cable electronics. 
+
+
+Finally, Judge Sporkin relies on a 1993 survey finding that 
+“68% of consumers find A/B switches ‘fairly or very inconve- 
+nient.”” J.S. App. 25a & n.50. In his dissent (J.S. App. 104a- 
+106a), Judge Williams shows the error of this reliance. The 
+survey canvassed subscriber reactions to the Corpus Christi 
+retransmission consent dispute (discussed at pages 28-29 
+above). About 80% of the subscribers who found A/B switches 
+“inconvenient” did so on the ground that they “[h]ad to get up” 
+to operate the switch (J.S. App. 106a). However, if the 
+networks had remained off cable for an extended period — all 
+three were in fact restored to carriage after just six weeks — 
+any subscriber could have purchased a remote-controlled A/B 
+switch at modest cost to obviate such “inconvenience.” See 
+J.A. 1774. In any event, the key point is that, despite the sup- 
+posed “inconvenience,” TCI’s subscribers in fact installed and 
+used their switches successfully, with the result that the broad- 
+casters experienced no meaningful ratings decline while off 
+cable. The Corpus Christi experience thus confirms the 
+correctness of the FCC’s and the D.C. Circuit’s conclusions 
+that cable subscribers can and will use A/B switches to watch 
+non-carried broadcast stations they desire to view. 
+
+
+44 
+
+
+CONCLUSION oC 
+
+
+For these reasons, the judgment of the three-judge district 
+court should be reversed, and sections 4 and 5 of the 1992 
+Cable Act should be declared unconstitutional. 
+
+
+Respectfully submitted, 
+
+
+ALBERT G. LAUBER, JR. * 
+Of Counsel: PETER VAN N. LOCKWOOD 
+CAPLIN & DRYSDALE, CHTD. 
+JUDITH A. MCHALE One Thomas Circle, NW 
+MARK HOLLINGER Suite 1100 
+DIANE L. HOFBAUER Washington, DC 20005 
+DISCOVERY (202) 862-5000 
+COMMUNICATIONS, INC. 
+7700 Wisconsin Avenue 
+Bethesda, MD 20814 Hast 
+
+
+(301) 986-1999 * Counsel of Record 
+
+
+Dated: April 26, 1996 
+
+

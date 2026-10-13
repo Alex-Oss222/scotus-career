@@ -1,0 +1,1492 @@
+{
+  "before_event": {
+    "date": "1997-04-21",
+    "case": "Blessing v. Freestone"
+  },
+  "rule": "Engine section 8; event date then alphabetical case name; authors independently read from each actual Record's Opinion Topology",
+  "scope_limit": "Assignment-only; same-date inclusion establishes no entering-law priority. Existing assignments remain as made.",
+  "source_limit": "Filesystem Records; Git existence/commitment checks deferred under the express no-Git instruction. No prior tally supplies any author or credit.",
+  "counted_opinions": 58,
+  "author_credits": 58,
+  "counts": {
+    "Stone-Zsela": 6,
+    "Stevens": 6,
+    "O'Connor": 9,
+    "Scalia": 6,
+    "Kennedy": 6,
+    "Souter": 8,
+    "Thomas": 5,
+    "Ginsburg": 6,
+    "Breyer": 6
+  },
+  "last_counted_event": {
+    "date": "1997-04-15",
+    "case_name": "Chandler v. Miller",
+    "record": "Chandler_v_Miller_merits_1997-04-15.md",
+    "lead_authors": [
+      "Scalia"
+    ]
+  },
+  "records": [
+    {
+      "record": "IIRIRA_Review_Transition_Admitted_Source_1996-09-30.md",
+      "record_sha256": "9d11ced9d4007073383898217dfa2ba4154cb4ab987dd9ee0f2b1254753c2313",
+      "case_and_dockets": "IIRIRA §§306 and 309, Pub. L. No. 104-208, Division C, Title III-A, as amended by Pub. L. No. 104-302 §2, 110 Stat. 3657.",
+      "case_name": "IIRIRA §§306 and 309, Pub. L. No. 104-208, Division C, Title III-A, as amended by Pub. L. No. 104-302 §2, 110 Stat. 3657",
+      "event_and_date": "Admitted statutory review-and-transition source; effective 1996-09-30; technical correction enacted October 11, 1996.",
+      "date": "1996-09-30",
+      "counted": false,
+      "classification_reason": "Admitted source; no judicial lead opinion.",
+      "lead_authors": [],
+      "named_topology_authors_before_exclusion": [],
+      "opinion_table_author_evidence": [],
+      "opinion_topology_sha256": "5b8c523816c0f5f171ad7a849b89475258d560e8e3a8476cb24670b26a034b37",
+      "form_evidence": []
+    },
+    {
+      "record": "IIRIRA_Section_633_Admitted_Source_1996-09-30.md",
+      "record_sha256": "2231cd31083102d78403f0439d8c8b3ec8490f9a45a225ca76a232ca1255a98c",
+      "case_and_dockets": "IIRIRA §633; Pub. L. No. 104-208, Division C, Title VI, 110 Stat. 3009-701.",
+      "case_name": "IIRIRA §633",
+      "event_and_date": "Admitted noncase statutory source; 1996-09-30.",
+      "date": "1996-09-30",
+      "counted": false,
+      "classification_reason": "Admitted source; no judicial lead opinion.",
+      "lead_authors": [],
+      "named_topology_authors_before_exclusion": [],
+      "opinion_table_author_evidence": [],
+      "opinion_topology_sha256": "2525c8face6753a06dbd595303a803c86f1f641aa597b1a5e8c35778aeee72c2",
+      "form_evidence": []
+    },
+    {
+      "record": "Department_of_State_v_Legal_Assistance_for_Vietnamese_Asylum_Seekers_post_grant_remand_1996-10-21.md",
+      "record_sha256": "3a2f4a16a7bbe237f708d305b34ab124614de1fb40e50cb8572f2cc6ac28e603",
+      "case_and_dockets": "Department of State v. Legal Assistance for Vietnamese Asylum Seekers, Inc.; No. 95-1521",
+      "case_name": "Department of State v. Legal Assistance for Vietnamese Asylum Seekers, Inc",
+      "event_and_date": "Post-grant vacatur and remand; 1996-10-21; October Term 1996.",
+      "date": "1996-10-21",
+      "counted": true,
+      "classification_reason": "Signed lead following argument on the merits docket; statutory remand does not make it a summary disposition.",
+      "lead_authors": [
+        "Stevens"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Stevens"
+      ],
+      "opinion_table_author_evidence": [
+        "Justice Stevens delivers the opinion of the Court"
+      ],
+      "opinion_topology_sha256": "0c1fa06426f384ac2b50a8961af844decf473b8c43d2b1c9ec128c7daae18ffe",
+      "form_evidence": []
+    },
+    {
+      "record": "California_v_Roy_summary_review_1996-11-04.md",
+      "record_sha256": "b3d4af19f4d5c49d839ae9f601600ebf5bfad292583f3c56f2ec65d605568a0f",
+      "case_and_dockets": "California v. Roy, No. 95-2025; October Term 1996, chunk 1.",
+      "case_name": "California v. Roy",
+      "event_and_date": "Summary merits disposition, 1996-11-04; certiorari granted, judgment vacated and remanded.",
+      "date": "1996-11-04",
+      "counted": false,
+      "classification_reason": "Summary disposition; excluded even if a named Justice delivers the lead.",
+      "lead_authors": [],
+      "named_topology_authors_before_exclusion": [
+        "Souter"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court, Part I | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Rejects the party-status objection and reaches the questions | Existing official appellate party and the confined succession/identification rationale |",
+        "| Opinion of the Court, Part II | Souter | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Common classification and governing burden | Trial-error reviewability and Chapman for this preserved personal-intent category |",
+        "| Opinion of the Court, Part III | Souter | O'Connor, Kennedy, Thomas, Breyer | Vacatur and remand | Qualified actual-verdict method, application limits, preservation and remand directions |"
+      ],
+      "opinion_topology_sha256": "c9b661b70f664bac0eb86a21791b4e129ccb5a5bd306eeec267ae1d8886ecf98",
+      "form_evidence": []
+    },
+    {
+      "record": "Lopez_v_Monterey_County_merits_1996-11-06.md",
+      "record_sha256": "c3c30b7e0bce34020ca8ebb88383a3e1e5eb26d026c9fd6f7dd0eeaf2dc4c156",
+      "case_and_dockets": "Lopez v. Monterey County; No. 95-1201",
+      "case_name": "Lopez v. Monterey County",
+      "event_and_date": "Merits; 1996-11-06; October Term 1996.",
+      "date": "1996-11-06",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Kennedy"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Kennedy"
+      ],
+      "opinion_table_author_evidence": [
+        "Justice Kennedy delivers the opinion of the Court"
+      ],
+      "opinion_topology_sha256": "6e7941e5f631635fc2c8650007614d1c84ecfbea3dbffcc0586d93be1de7eb73",
+      "form_evidence": []
+    },
+    {
+      "record": "INS_v_Yueh_Shaio_Yang_merits_1996-11-13.md",
+      "record_sha256": "7b8085bb1795281e3a6d299e27f25d6692fb962b38553a04cc8eb4a039f3c551",
+      "case_and_dockets": "INS v. Yueh-Shaio Yang, No. 95-938; October Term 1996.",
+      "case_name": "INS v. Yueh-Shaio Yang",
+      "event_and_date": "Merits decision, 1996-11-13; argued 1996-10-15.",
+      "date": "1996-11-13",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Souter"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Souter"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer in full; Stone-Zsela in Parts II and III and the disposition | Part I supplies the eight-Justice review rationale; Parts II and III state the unanimous permissible-factor and policy rules. |"
+      ],
+      "opinion_topology_sha256": "70924e87a2b80c914c5e38bd08abf09d5d3235aaa584ffe2f4732d77e2227d24",
+      "form_evidence": []
+    },
+    {
+      "record": "Ohio_v_Robinette_merits_1996-11-18.md",
+      "record_sha256": "a817289e988375d2ae3bb7725c4a4bdd6036d1a82e5595a8afcfc4680f875ab9",
+      "case_and_dockets": "Ohio v. Robinette; No. 95-891",
+      "case_name": "Ohio v. Robinette",
+      "event_and_date": "Merits; 1996-11-18; October Term 1996.",
+      "date": "1996-11-18",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "O'Connor"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "O'Connor"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court | O'Connor | Scalia, Kennedy, Souter, Thomas, Breyer | Reversal and remand | Entire opinion: Parts I–IV |"
+      ],
+      "opinion_topology_sha256": "b033dffc507ef96e62eda6ef5314b9750094b1ad23ec231a16bacc99362d1386",
+      "form_evidence": []
+    },
+    {
+      "record": "Hopwood_v_Texas_merits_1996-11-25.md",
+      "record_sha256": "9bd899b1334cca54618605b1483603a4384e5719e118b4916e0c639f7e90a840",
+      "case_and_dockets": "Hopwood v. Texas; Fifth Circuit No. 94-50664, 78 F.3d 932; no invented Supreme Court docket; OT1996, chunk 1, matter 6.",
+      "case_name": "Hopwood v. Texas",
+      "event_and_date": "Merits decision, 1996-11-25, supplied term-calendar scheduling premise; October Term 1996.",
+      "date": "1996-11-25",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "O'Connor"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "O'Connor"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court, Part I | O’Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Nine-Justice narrow actual-process invalidity and equal-competition injury; state strict scrutiny. |",
+        "| Opinion of the Court, Part II | O’Connor | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | Six-Justice affirmative educational-diversity rule and actual Bakke treatment. Kennedy concurs only in vacating the categorical direction. |",
+        "| Opinion of the Court, Part III | O’Connor | Stone-Zsela, Stevens, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight-Justice continuing-duty/unit rule and claim-linked further inquiry. Scalia does not join. |",
+        "| Opinion of the Court, Parts IV-A, IV-B and IV-C | O’Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight-Justice causation/preponderance rule; Title VI intent; complete punitive standard and bounded denial. Stone-Zsela agrees with the respective dispositions only. |",
+        "| Opinion of the Court, Parts IV-D and V | O’Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Nine-Justice source-specific remedial reservations, retained broad-injunction refusal and limits on future-program directions. |"
+      ],
+      "opinion_topology_sha256": "adee66a8903599da1b15499745193ede382f598a1828acb84dcf9ce8e596814f",
+      "form_evidence": []
+    },
+    {
+      "record": "In_re_Gaydos_filing_and_writ_disposition_1996-12-02.md",
+      "record_sha256": "399dcb72dc42164b28033e06de6f2efaa39cfaec511995804447a82c66d9a2a8",
+      "case_and_dockets": "In re Maria Luisa Costell Gaydos; No. 96-5831.",
+      "case_name": "In re Maria Luisa Costell Gaydos",
+      "event_and_date": "Financial-leave and extraordinary-writ disposition; 1996-12-02; October Term 1996, chunk 1.",
+      "date": "1996-12-02",
+      "counted": false,
+      "classification_reason": "Ordinary procedural action/DIG; excluded from signed plenary lead accounting.",
+      "lead_authors": [],
+      "named_topology_authors_before_exclusion": [],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court, Part I | Per curiam | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Financial eligibility and current-paper screening |",
+        "| Opinion of the Court, Part II | Per curiam | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Reasons for denying extraordinary and original relief; the Chief Justice agrees with the disposition only |",
+        "| Opinion of the Court, Part III-A | Per curiam | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Extraordinary-writ prospective condition |",
+        "| Opinion of the Court, Part III-B | Per curiam | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Noncriminal-certiorari prospective condition; the Chief Justice agrees with the disposition only |"
+      ],
+      "opinion_topology_sha256": "d510a9e5e60ca6bd1de775fbb47d4377852cab0c8d99d641b047d17455e5a645",
+      "form_evidence": []
+    },
+    {
+      "record": "Tyler_Murray_v_Montrose_County_School_District_merits_1996-12-02.md",
+      "record_sha256": "19642bff3171221127cb04fcd63e2633cfdbd59166bd69980c6674482e87b2db",
+      "case_and_dockets": "Tyler Murray v. Montrose County School District RE-1J; Tenth Circuit Nos. 93-1466 and 93-1474; no Supreme Court docket assigned.",
+      "case_name": "Tyler Murray v. Montrose County School District RE-1J",
+      "event_and_date": "Threshold disposition after merits argument; 1996-12-02; October Term 1996, chunk 1.",
+      "date": "1996-12-02",
+      "counted": true,
+      "classification_reason": "Signed lead completing plenary merits review on a threshold ground; counted regardless of assigner.",
+      "lead_authors": [
+        "Scalia"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Scalia"
+      ],
+      "opinion_table_author_evidence": [
+        "Scalia delivers the opinion of the Court"
+      ],
+      "opinion_topology_sha256": "c54019b66b746beab558b0922ea044b18ddb44bd5b3094addabaa3824e5a48fe",
+      "form_evidence": []
+    },
+    {
+      "record": "United_States_v_Jose_summary_review_1996-12-02.md",
+      "record_sha256": "495f8098a8b08b80af6a7562ce0719b14f0cd891748594f0c33fbb3ce68c2e4a",
+      "case_and_dockets": "United States v. Jose; No. 95-2082.",
+      "case_name": "United States v. Jose",
+      "event_and_date": "Summary appellate disposition; 1996-12-02; October Term 1996, chunk 1.",
+      "date": "1996-12-02",
+      "counted": false,
+      "classification_reason": "Summary disposition; excluded even if a named Justice delivers the lead.",
+      "lead_authors": [],
+      "named_topology_authors_before_exclusion": [],
+      "opinion_table_author_evidence": [],
+      "opinion_topology_sha256": "4ab68ac71b8091e00468ef169c9946e57f89b153e7c0e42189e5346d49cb650b",
+      "form_evidence": []
+    },
+    {
+      "record": "Humane_Society_v_Babbitt_merits_1996-12-09.md",
+      "record_sha256": "3b7987020469314e8e925a400d21e631a4ec3c0b63b89c5b17ffc1f25a1883c1",
+      "case_and_dockets": "Humane Society v. Babbitt; D.C. Circuit No. 93-5339; District of Columbia No. 92-cv-0952; no Supreme Court docket assigned.",
+      "case_name": "Humane Society v. Babbitt",
+      "event_and_date": "Jurisdictional disposition after merits hearing; 1996-12-09; October Term 1996, chunk 1.",
+      "date": "1996-12-09",
+      "counted": true,
+      "classification_reason": "Signed lead completing plenary merits review on a threshold ground; counted regardless of assigner.",
+      "lead_authors": [
+        "Souter"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Souter"
+      ],
+      "opinion_table_author_evidence": [
+        "Souter delivers the opinion of the Court"
+      ],
+      "opinion_topology_sha256": "52fbc2d222d719b9753261b12f49d67cf1a42d3ea34254e6b9d3e3acedb75ac8",
+      "form_evidence": []
+    },
+    {
+      "record": "In_re_Askin_merits_1996-12-09.md",
+      "record_sha256": "dee42d9657575f18055b33e7708e2d17e03d56442095d504c3d8b4074b79145d",
+      "case_and_dockets": "In re Askin; Fourth Circuit No. 94-5428, 47 F.3d 100; no separate Supreme Court docket supplied; October Term 1996.",
+      "case_name": "In re Askin",
+      "event_and_date": "Merits decision, 1996-12-09; argued 1996-10-08.",
+      "date": "1996-12-09",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Scalia"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Scalia"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court | Scalia | Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer in full | Parts I through V and the bounded implementing remand; eight-Justice controlling rationale throughout. |"
+      ],
+      "opinion_topology_sha256": "0a777dcadad4618146a0d668fcb53a0802728da1aa504e414c1c3a16b3d4974d",
+      "form_evidence": []
+    },
+    {
+      "record": "Caterpillar_v_Lewis_merits_1996-12-10.md",
+      "record_sha256": "a23edf092db827ef6848d5a3bbac78c7e337716abe63f4a9700896b62b75c688",
+      "case_and_dockets": "Caterpillar Inc. v. Lewis; No. 95-1263.",
+      "case_name": "Caterpillar Inc. v. Lewis",
+      "event_and_date": "Merits decision; 1996-12-10; October Term 1996, chunk 1.",
+      "date": "1996-12-10",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "O'Connor"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "O'Connor"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court, Parts I–II | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Earlier preserved removal error and actual pretrial jurisdiction; unanimous reasoning |",
+        "| Opinion of the Court, Part III | O'Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Reasons for returning the five undecided appellate issues; the Chief Justice agrees with that disposition only |"
+      ],
+      "opinion_topology_sha256": "c766fc071819680f1f80aba89a1b6a9382219fbedfdeca879d586d60e889d3cd",
+      "form_evidence": []
+    },
+    {
+      "record": "Ogilvie_v_United_States_merits_1996-12-10.md",
+      "record_sha256": "57e4f3e93dc685229c2a6f62a2ba97a7e50bdcd2174d1402db346cba61d688c7",
+      "case_and_dockets": "O'Gilvie v. United States; Nos. 95-966 and 95-977",
+      "case_name": "O'Gilvie v. United States",
+      "event_and_date": "1996-12-10; October Term 1996, chunk 2.",
+      "date": "1996-12-10",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Stevens"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Stevens"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court, Part I | Stevens | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Father's appeal is timely; all nine reach its tax merits. |",
+        "| Opinion of the Court, Parts II–III and mandate | Stevens | Stone-Zsela, Kennedy, Souter, Ginsburg, Breyer | Tax inclusion, children's receipt rule and affirmance of both judgments. |"
+      ],
+      "opinion_topology_sha256": "797a8fb452584a175bc680ae21407088e5c5d6541ba35104c3b4dfe7eae9c0a8",
+      "form_evidence": []
+    },
+    {
+      "record": "Greene_v_Georgia_summary_review_1996-12-16.md",
+      "record_sha256": "69f1443ceb320ae6fa5e69acfcd3fd7901fe9fbd3352d7bcd9f16cc02a38d125",
+      "case_and_dockets": "Greene v. Georgia; No. 96-5369",
+      "case_name": "Greene v. Georgia",
+      "event_and_date": "1996-12-16; October Term 1996, chunk 2.",
+      "date": "1996-12-16",
+      "counted": false,
+      "classification_reason": "Summary disposition; excluded even if a named Justice delivers the lead.",
+      "lead_authors": [],
+      "named_topology_authors_before_exclusion": [],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court, Part I | Per curiam | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Long/Evans reviewability explanation; Stone-Zsela agrees to reach the source question without joining this explanation. |",
+        "| Opinion of the Court, Part II | Per curiam | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Source-of-review holding and limits; Georgia's lawful deference choices remain open. |",
+        "| Opinion of the Court, Part III | Per curiam | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Formal reversal and remand. |"
+      ],
+      "opinion_topology_sha256": "e59196e5646bc0a32b8ad547f45d7a5243c5cb06671f749172816b3a354009f8",
+      "form_evidence": []
+    },
+    {
+      "record": "MLB_v_SLJ_merits_1996-12-16.md",
+      "record_sha256": "b67f09077eff71855995ef1ef2fbc2775ebed8bf21f106cb2cd59299233e01b4",
+      "case_and_dockets": "M.L.B. v. S.L.J.; No. 95-853",
+      "case_name": "M.L.B. v. S.L.J",
+      "event_and_date": "1996-12-16; October Term 1996, chunk 2.",
+      "date": "1996-12-16",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "O'Connor"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "O'Connor"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court, Part I and mandate | O'Connor | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | Bounded access rule, due-process/equality rationale, adequate-record qualification and reversal/remand. |",
+        "| Opinion of the Court, Part II | O'Connor | Stevens, Souter, Ginsburg, Breyer | Prospective burden on the State to establish a sufficient alternative after a colorable need for a full transcript; Stone-Zsela does not join this additional proposition. |"
+      ],
+      "opinion_topology_sha256": "5f7cf338c04d2cac7eab30820d4e74828e6c74a5611d60cb2d62690c3495cbf6",
+      "form_evidence": []
+    },
+    {
+      "record": "United_States_v_Sahhar_merits_1996-12-16.md",
+      "record_sha256": "9e4e8b42723817749f3e01b39b33ee1c14ebccb19e633f5a9610c324f469e2ff",
+      "case_and_dockets": "United States v. Sahhar; Ninth Circuit Nos. 94-50186 and 94-50356; separate Supreme Court docket unassigned",
+      "case_name": "United States v. Sahhar",
+      "event_and_date": "1996-12-16; October Term 1996, chunk 2.",
+      "date": "1996-12-16",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Souter"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Souter"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court, Parts I and III | Souter | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | No automatic criminal-sentence cap, continuing lawful predicates, state-placement duties and bounded affirmance/remand. |",
+        "| Opinion of the Court, Parts II, IV and V | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Separate equality analysis, precise statutory categories, initial commitment and discharge burdens, release and review mechanisms. |"
+      ],
+      "opinion_topology_sha256": "5b6609f2097324b79eefc4cb27ac9b27e6ccd4182f8b40b127afeabcc6ea6748",
+      "form_evidence": []
+    },
+    {
+      "record": "DeAngelis_v_El_Paso_Association_merits_1997-01-06.md",
+      "record_sha256": "cb94d6d11e56fe85ce14e78af5c97c514d46c92b38d32d7549455a97e9776091",
+      "case_and_dockets": "DeAngelis v. El Paso Municipal Police Officers' Association; Fifth Circuit No. 93-8700, 51 F.3d 591; no separate Supreme Court docket supplied",
+      "case_name": "DeAngelis v. El Paso Municipal Police Officers' Association",
+      "event_and_date": "Merits decision, 1997-01-06; October Term 1996, chunk 2, matter 17.",
+      "date": "1997-01-06",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "O'Connor"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "O'Connor"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court, Part I | O'Connor | Scalia, Kennedy, Souter, Thomas, Breyer | Statutory hostile-environment insufficiency; six direct joins |",
+        "| Opinion of the Court, Part II | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Retaliation insufficiency; unanimous |"
+      ],
+      "opinion_topology_sha256": "9583f44fa69fa00743978a2d09ead0b3cfa9ef7af3a7df05eb900d48550e12e3",
+      "form_evidence": []
+    },
+    {
+      "record": "Watts_and_Putra_summary_review_1997-01-06.md",
+      "record_sha256": "d75be7f5e4cb4c55a88ce9c4a49ea659b7672cc8e2f7d4d8842465bf399b3e87",
+      "case_and_dockets": "United States v. Watts; United States v. Putra; No. 95-1906, one Rule 12.4 petition concerning two Ninth Circuit judgments",
+      "case_name": "United States v. Watts",
+      "event_and_date": "Summary review, 1997-01-06; October Term 1996, chunk 2, matter 18.",
+      "date": "1997-01-06",
+      "counted": false,
+      "classification_reason": "Summary disposition; excluded even if a named Justice delivers the lead.",
+      "lead_authors": [],
+      "named_topology_authors_before_exclusion": [],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court | Per curiam | Stone-Zsela, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Seven Justices join the complete bounded ordinary-use rule, constitutional analysis and separate remands |"
+      ],
+      "opinion_topology_sha256": "1f6499a58f2931be00591e12f681753265cce416d530aded73b75ec8edc128bc",
+      "form_evidence": []
+    },
+    {
+      "record": "Old_Chief_v_United_States_merits_1997-01-07.md",
+      "record_sha256": "b9f59c591d93699fee3c18bca65e6053bcd16c890d758ab129fa13f3b286f229",
+      "case_and_dockets": "Old Chief v. United States; No. 95-6556",
+      "case_name": "Old Chief v. United States",
+      "event_and_date": "Merits decision, 1997-01-07; October Term 1996, chunk 2, matter 19.",
+      "date": "1997-01-07",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Ginsburg"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Ginsburg"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court, Part I | Ginsburg | Stone-Zsela, Stevens, Kennedy, Souter, Breyer | Rule 403 error, adequate-status-proof limits and reversal of the no-error appellate judgment; six direct joins |",
+        "| Opinion of the Court, Part II | Ginsburg | Stevens, Kennedy, Souter, Breyer | Harmlessness remand and its conditional trial consequences; five direct joins |"
+      ],
+      "opinion_topology_sha256": "975c4fe543c15a16ec1093ca0ac630b3b9e0be375c47b28df28474317db66a38",
+      "form_evidence": []
+    },
+    {
+      "record": "Walmer_v_Department_of_Defense_merits_1997-01-13.md",
+      "record_sha256": "9ab49b0afe80d82533993235983e0af9c5160dacbd6000426b4a7cff96b2b3e2",
+      "case_and_dockets": "Walmer v. Department of Defense; Tenth Circuit No. 93-3377, 52 F.3d 851; no separate Supreme Court docket supplied",
+      "case_name": "Walmer v. Department of Defense",
+      "event_and_date": "Merits decision, 1997-01-13; October Term 1996, chunk 2, matter 20.",
+      "date": "1997-01-13",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "O'Connor"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "O'Connor"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court, Part I | O'Connor | Scalia, Kennedy, Thomas, Breyer | Ordinary rational-basis application and affirmance of the equality-based preliminary denial; five direct joins |",
+        "| Opinion of the Court, Part II | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Executive regulation lacks the legislative predicate for attainder; unanimous, punishment reserved |"
+      ],
+      "opinion_topology_sha256": "a0a5583edf39ae9fefa1fec73c3b64852fee8293ac7d3db343489fd504c02993",
+      "form_evidence": []
+    },
+    {
+      "record": "Abebe_Jira_v_Negewo_merits_1997-01-14.md",
+      "record_sha256": "66277c3cdcdb264770746357a4ffbaeec820d187c4269fa20f20b55c86e9ce14",
+      "case_and_dockets": "Abebe-Jira v. Negewo, No. 95-8873; Eleventh Circuit No. 93-9133.",
+      "case_name": "Abebe-Jira v. Negewo",
+      "event_and_date": "Merits decision — 1997-01-14; October Term 1996, chunk 2.",
+      "date": "1997-01-14",
+      "counted": true,
+      "classification_reason": "Signed lead at the Record's authorized submission for merits consideration; no oral-argument date invented.",
+      "lead_authors": [
+        "Stevens"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Stevens"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court | Stevens | O'Connor, Kennedy, Souter, Ginsburg and Breyer | Affirmance of both damages components | Parts I–V in full |",
+        "| Same opinion | Stevens | Stone-Zsela | Affirmance of both damages components | Parts I–III and V; Part IV's punitive authority and deliberate-personal-torture application, excluding its equivalently reckless aggravation formulation |",
+        "| Same opinion | Stevens | Scalia and Thomas | Agreement on distinct jurisdiction and political-question conclusions; disagreement with damages judgment | Parts I and V only |"
+      ],
+      "opinion_topology_sha256": "2fd4dd3b8d7da3e319fd8a34738e430ced2d25d66567d108f159222db1a6f6ff",
+      "form_evidence": []
+    },
+    {
+      "record": "Atherton_v_FDIC_merits_1997-01-14.md",
+      "record_sha256": "18c26a1b1835012f2127c471e3524121bc774a3580cfa20b287cdd2a6df5f1cb",
+      "case_and_dockets": "Atherton v. Federal Deposit Insurance Corporation, No. 95-928.",
+      "case_name": "Atherton v. Federal Deposit Insurance Corporation",
+      "event_and_date": "Merits decision — 1997-01-14; October Term 1996, chunk 2.",
+      "date": "1997-01-14",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Scalia"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Scalia"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court | Scalia | Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer | Vacatur and remand | Parts I–IV |",
+        "| Same opinion | Scalia | Stone-Zsela | Vacatur and remand; agrees to reach the merits | Parts II–IV; does not join Part I's procedural explanation |"
+      ],
+      "opinion_topology_sha256": "4e998aa086d453b135e1a0c3993762a2aa7f7aad823231200515974566ccb9ca",
+      "form_evidence": []
+    },
+    {
+      "record": "Castano_v_American_Tobacco_Co_merits_1997-01-14.md",
+      "record_sha256": "b8f6833a711020131aaeadd2c51b65ad8ec033bf29a3d6890b6782ef93cbe23a",
+      "case_and_dockets": "Castano v. American Tobacco Co.; Fifth Circuit No. 95-30725; 84 F.3d 734; interlocutory appeal under 28 U.S.C. §1292(b).",
+      "case_name": "Castano v. American Tobacco Co",
+      "event_and_date": "Merits decision — 1997-01-14 — October Term 1996, chunk 3.",
+      "date": "1997-01-14",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Ginsburg"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Ginsburg"
+      ],
+      "opinion_table_author_evidence": [
+        "Justice Ginsburg delivers the Opinion of the Court"
+      ],
+      "opinion_topology_sha256": "0357c941a75d33858b78c05bd72097bf3ee8dc38371499c13cc4e70f34eda7d0",
+      "form_evidence": []
+    },
+    {
+      "record": "Chamber_of_Commerce_v_Reich_merits_1997-01-14.md",
+      "record_sha256": "049ff3c52fcd6ea14c67079d459eb9db452ddfa411ec97af8ceef39516894513",
+      "case_and_dockets": "Chamber of Commerce v. Reich; D.C. Circuit No. 95-5242; 74 F.3d 1322; no Supreme Court docket number assigned.",
+      "case_name": "Chamber of Commerce v. Reich",
+      "event_and_date": "Merits decision — 1997-01-14 — October Term 1996, chunk 3.",
+      "date": "1997-01-14",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Kennedy"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Kennedy"
+      ],
+      "opinion_table_author_evidence": [
+        "Justice Kennedy delivers the Opinion of the Court"
+      ],
+      "opinion_topology_sha256": "21a6cd328eb1672a3cc90c87467be64ebabbf0055de8cb161ad8b924bc4a1d16",
+      "form_evidence": []
+    },
+    {
+      "record": "Grimmett_v_Brown_certiorari_dismissal_1997-01-14.md",
+      "record_sha256": "0ad5ed8a48acc14696df262ac483517120d4e0db5e772b2181a0d9a9af482338",
+      "case_and_dockets": "Grimmett v. Brown, No. 95-1723.",
+      "case_name": "Grimmett v. Brown",
+      "event_and_date": "Dismissal of certiorari as improvidently granted — 1997-01-14; October Term 1996, chunk 2.",
+      "date": "1997-01-14",
+      "counted": false,
+      "classification_reason": "Ordinary procedural action/DIG; excluded from signed plenary lead accounting.",
+      "lead_authors": [],
+      "named_topology_authors_before_exclusion": [],
+      "opinion_table_author_evidence": [],
+      "opinion_topology_sha256": "24ad1c4856776246371610d9eb65e984a4c48c7940219e34440b3f2bb676864f",
+      "form_evidence": []
+    },
+    {
+      "record": "In_re_Deuel_merits_1997-01-14.md",
+      "record_sha256": "875e5e3a271f9609194488ee15dd798870c01e90722536e94207b23adf2db8f3",
+      "case_and_dockets": "In re Deuel; Federal Circuit No. 94-1202; 51 F.3d 1552; application 07/542,232; no Supreme Court docket number assigned.",
+      "case_name": "In re Deuel",
+      "event_and_date": "Merits decision — 1997-01-14 — October Term 1996, chunk 3.",
+      "date": "1997-01-14",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "O'Connor"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "O'Connor"
+      ],
+      "opinion_table_author_evidence": [
+        "Justice O'Connor delivers the Opinion of the Court"
+      ],
+      "opinion_topology_sha256": "af21b5b4bf8b4cb508d2073c007b02a70d54b1ba43f78ad2fc7c17903c717645",
+      "form_evidence": []
+    },
+    {
+      "record": "Walters_v_Metropolitan_Educational_Enterprises_merits_1997-01-14.md",
+      "record_sha256": "a3345454b4fbd2470f866dac75794f94d956057590da4c61dace7c9d6cfe6f0e",
+      "case_and_dockets": "Walters v. Metropolitan Educational Enterprises, Inc., No. 95-259; Equal Employment Opportunity Commission v. Metropolitan Educational Enterprises, Inc., No. 95-779.",
+      "case_name": "Walters v. Metropolitan Educational Enterprises, Inc",
+      "event_and_date": "Merits decision — 1997-01-14; October Term 1996, chunk 2.",
+      "date": "1997-01-14",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Souter"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Souter"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer | Retaliation reversal/remand and undisturbed promotion dismissal | Parts I–IV in full |",
+        "| Same opinion | Souter | Stone-Zsela | Same component dispositions | Parts I–II and Part IV's retaliation reversal/remand ground; disposition-only agreement with Part III and Part IV's promotion component |"
+      ],
+      "opinion_topology_sha256": "ea8291f2403eb19609a123a39297348d221b985c00b0fb689e207b1753918150",
+      "form_evidence": []
+    },
+    {
+      "record": "Babbitt_v_Youpee_merits_1997-01-21.md",
+      "record_sha256": "8e29ec51ad1a1febb4fd2e322526e6a399d4cc97339076e80ce4f0dc94268b22",
+      "case_and_dockets": "Babbitt v. Youpee, No. 95-1595; OT1996.",
+      "case_name": "Babbitt v. Youpee",
+      "event_and_date": "Merits decision, 1997-01-21; argued 1996-12-02.",
+      "date": "1997-01-21",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "O'Connor"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "O'Connor"
+      ],
+      "opinion_table_author_evidence": [
+        "Justice O'Connor delivers the opinion of the Court"
+      ],
+      "opinion_topology_sha256": "2856f382ddc3e02ba21a762fb9f8106a51605603e06c881477f08a5adeeb791b",
+      "form_evidence": []
+    },
+    {
+      "record": "Curtis_v_School_Committee_of_Falmouth_merits_1997-01-21.md",
+      "record_sha256": "0bf73d879fa1fa924493ebb1a4ef7cddad42dbe8f9672c86d46c952b1a75fdd3",
+      "case_and_dockets": "Elizabeth G. Curtis v. School Committee of Falmouth; historical petition identifier No. 95-617; no separate merits docket assigned; OT1996.",
+      "case_name": "Elizabeth G. Curtis v. School Committee of Falmouth",
+      "event_and_date": "Merits decision, 1997-01-21; argued 1996-11-04.",
+      "date": "1997-01-21",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Souter"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Souter"
+      ],
+      "opinion_table_author_evidence": [
+        "Justice Souter delivers the opinion of the Court"
+      ],
+      "opinion_topology_sha256": "8cfa3ecef2950966c5831953f41b1b2170bb70451a9bf46a820f3abac5f86387",
+      "form_evidence": []
+    },
+    {
+      "record": "ProCD_v_Zeidenberg_merits_1997-01-27.md",
+      "record_sha256": "e990d810bdee7760137b03633bcafe37c5ce4839c62f0a79676ba1856b03422a",
+      "case_and_dockets": "ProCD, Inc. v. Zeidenberg; Seventh Circuit No. 96-1139, 86 F.3d 1447; District Court judgment, 908 F. Supp. 640. No separate Supreme Court docket number assigned.",
+      "case_name": "ProCD, Inc. v. Zeidenberg",
+      "event_and_date": "Merits decision, 1997-01-27; October Term 1996, chunk 3, inventory entry 30.",
+      "date": "1997-01-27",
+      "counted": true,
+      "classification_reason": "Signed lead after the Record's authorized ordinary merits-review sequence; precise Supreme Court argument date remains unspecified.",
+      "lead_authors": [
+        "Ginsburg"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Ginsburg"
+      ],
+      "opinion_table_author_evidence": [
+        "Justice Ginsburg delivers the Opinion of the Court"
+      ],
+      "opinion_topology_sha256": "6128d849b3575e20ea60df1fc125dc1395b61419bb9ec145333c2e762d104b74",
+      "form_evidence": []
+    },
+    {
+      "record": "Bibles_v_Oregon_Natural_Desert_Association_summary_review_1997-02-18.md",
+      "record_sha256": "dfbea56474af62f649313f2092b9c2ae74969e38466acb504fe7fc2a3ee63e69",
+      "case_and_dockets": "Bibles v. Oregon Natural Desert Association; No. 96-713; OT1996, chunk 3, matter 31.",
+      "case_name": "Bibles v. Oregon Natural Desert Association",
+      "event_and_date": "Reasoned summary merits disposition; 1997-02-18.",
+      "date": "1997-02-18",
+      "counted": false,
+      "classification_reason": "Summary disposition; excluded even if a named Justice delivers the lead.",
+      "lead_authors": [],
+      "named_topology_authors_before_exclusion": [],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court | Unsigned | No roll call announced; Chief Justice Stone-Zsela expressly joins the controlling explanation | Supports vacatur and remand | Exclusion of advocacy access and preservation of the actual Exemption 6 balance; Stone-Zsela does not join vacatur |"
+      ],
+      "opinion_topology_sha256": "9e54e0e6a03e4e5d305357bb6d88f3e4e9f0d79214bb3f3fe4281a2d2487f6c3",
+      "form_evidence": []
+    },
+    {
+      "record": "California_Division_of_Labor_Standards_Enforcement_v_Dillingham_merits_1997-02-18.md",
+      "record_sha256": "aa3afc7627f08ca4976f581daaff735efe26faff41ba320f187a760674f1b846",
+      "case_and_dockets": "California Division of Labor Standards Enforcement v. Dillingham Construction, N.A., Inc.; No. 95-789; OT1996, chunk 3, matter 32.",
+      "case_name": "California Division of Labor Standards Enforcement v. Dillingham Construction, N.A., Inc",
+      "event_and_date": "Merits decision; 1997-02-18; argued 1996-11-05.",
+      "date": "1997-02-18",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Souter"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Souter"
+      ],
+      "opinion_table_author_evidence": [
+        "Justice Souter writes the opinion of the Court"
+      ],
+      "opinion_topology_sha256": "c1f998a8c0e60bd68937056b85c7d24a9325dab100d8b39f048bad87a35d20ae",
+      "form_evidence": []
+    },
+    {
+      "record": "Ehrlich_v_City_of_Culver_City_DIG_1997-02-18.md",
+      "record_sha256": "162a5cbfb1b3b98bb048f73b09a9b061aa157bb35a48c80911dd93af602cd594",
+      "case_and_dockets": "Ehrlich v. City of Culver City; California Supreme Court No. S033642; historical petition identifier 96-238; no separately assigned Supreme Court docket is established. October Term 1996, chunk 4, inventory No. 39.",
+      "case_name": "Ehrlich v. City of Culver City",
+      "event_and_date": "Dismissal of writ of certiorari as improvidently granted; 1997-02-18.",
+      "date": "1997-02-18",
+      "counted": false,
+      "classification_reason": "Ordinary procedural action/DIG; excluded from signed plenary lead accounting.",
+      "lead_authors": [],
+      "named_topology_authors_before_exclusion": [],
+      "opinion_table_author_evidence": [],
+      "opinion_topology_sha256": "92250dbbb8ccf4cb5d989a4e29602e2e2e9f2bba94767c054d041fb3088146c2",
+      "form_evidence": []
+    },
+    {
+      "record": "FEC_v_Legi_Tech_merits_1997-02-18.md",
+      "record_sha256": "36d31a1783339eedf178f5eb4ec93c30d991beeb9c69237a8ab6e279728ad939",
+      "case_and_dockets": "Federal Election Commission v. Legi-Tech, Inc.; D.C. Circuit Nos. 94-5379 and 95-5085, 75 F.3d 704; no separate Supreme Court docket supplied.",
+      "case_name": "Federal Election Commission v. Legi-Tech, Inc",
+      "event_and_date": "Merits decision — 1997-02-18; October Term 1996, chunk 4, matter 38.",
+      "date": "1997-02-18",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Thomas"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Thomas"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court, Parts I and II | Thomas | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer | Actual lawful cure, retroactivity and remedy, and affirmance |"
+      ],
+      "opinion_topology_sha256": "81c01fa292d177c08df14ca459a58d277a7698909c468d384d4df563602f059c",
+      "form_evidence": []
+    },
+    {
+      "record": "General_Motors_v_Tracy_merits_1997-02-18.md",
+      "record_sha256": "09833edbc410b4789d282d41e2aa371b220af6a76f87d50c7e38061c1fb3ee4e",
+      "case_and_dockets": "General Motors Corp. v. Tracy; No. 95-1232.",
+      "case_name": "General Motors Corp. v. Tracy",
+      "event_and_date": "Merits decision; 1997-02-18; October Term 1996, chunk 3.",
+      "date": "1997-02-18",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Souter"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Souter"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court, Part I | Souter | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Unanimous purchaser-standing rule |",
+        "| Opinion of the Court, Parts II and III | Souter | O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Commerce Clause and equal-protection grounds for affirmance |"
+      ],
+      "opinion_topology_sha256": "e3bc7995f760294a88e6e95a4644ebee037c2a08cd162c9718d5aabecf590140",
+      "form_evidence": []
+    },
+    {
+      "record": "Ingalls_Shipbuilding_v_Director_OWCP_merits_1997-02-18.md",
+      "record_sha256": "9c1fb9e13c2105dfaf7e1d7428482043b0c2d52107dbb2fffd4896a267f6e827",
+      "case_and_dockets": "Ingalls Shipbuilding, Inc. v. Director, Office of Workers' Compensation Programs; No. 95-1081.",
+      "case_name": "Ingalls Shipbuilding, Inc. v. Director, Office of Workers' Compensation Programs",
+      "event_and_date": "Merits decision; 1997-02-18; October Term 1996, chunk 3.",
+      "date": "1997-02-18",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "O'Connor"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "O'Connor"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court, Part I | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Unanimous compensation holding |",
+        "| Opinion of the Court, Part II | O'Connor | Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg, Breyer | Seven-Justice respondent-status holding |"
+      ],
+      "opinion_topology_sha256": "2da3b94effa6afcce229c3cd879558399e9b9ffb21291c2c1d0019d5d0ecc687",
+      "form_evidence": []
+    },
+    {
+      "record": "Robinson_v_Shell_Oil_merits_1997-02-18.md",
+      "record_sha256": "13b5cb0e38cce4ffbcbae646ba7b9387187e9895d9b664ada12a51182432e98b",
+      "case_and_dockets": "Robinson v. Shell Oil Co.; No. 95-1376.",
+      "case_name": "Robinson v. Shell Oil Co",
+      "event_and_date": "Merits decision; 1997-02-18; October Term 1996, chunk 3.",
+      "date": "1997-02-18",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Souter"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Souter"
+      ],
+      "opinion_table_author_evidence": [
+        "Souter delivers the Opinion of the Court"
+      ],
+      "opinion_topology_sha256": "802e80778f03dbf9ba2dc60963f0061f753848b7673a1e1da28f44a79e6339c3",
+      "form_evidence": []
+    },
+    {
+      "record": "Uhlrig_v_Harder_merits_1997-02-18.md",
+      "record_sha256": "90abc9a61d5531638593bd491d45641d0f4e6c362e5e767d7b96cbe13271452f",
+      "case_and_dockets": "Uhlrig v. Harder; Tenth Circuit No. 94-3190, 64 F.3d 567; no separate Supreme Court docket supplied.",
+      "case_name": "Uhlrig v. Harder",
+      "event_and_date": "Merits decision — 1997-02-18; argued 1996-11-05; October Term 1996, chunk 4, matter 36.",
+      "date": "1997-02-18",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Breyer"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Breyer"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court | Breyer | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Qualified-immunity rule and application alone; affirms on the estate's supported favorable account |"
+      ],
+      "opinion_topology_sha256": "66c4d709ba519be75699e93d7525335db6df6891761209f4ed47ea61c6e8133a",
+      "form_evidence": []
+    },
+    {
+      "record": "United_States_v_Brockamp_merits_1997-02-18.md",
+      "record_sha256": "25ccb98f15494e8f45fc9d76f89562bb0ffd28d8037aa4d630a6d968ba1399d3",
+      "case_and_dockets": "United States v. Brockamp and United States v. Scott; No. 95-1225, one petition embracing Ninth Circuit judgments reported at 67 F.3d 260 and 70 F.3d 120.",
+      "case_name": "United States v. Brockamp and United States v. Scott",
+      "event_and_date": "Merits decision — 1997-02-18; argued 1996-12-03; October Term 1996, chunk 4, matter 37.",
+      "date": "1997-02-18",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Breyer"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Breyer"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court, Parts I and II and Part III's Scott disposition | Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Filing, independent amount rule and Scott reversal/remand |",
+        "| Opinion of the Court, Part III's deposit-remand explanation | Breyer | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Preserves Brockamp's deposit alternative; Stone-Zsela agrees with this component's disposition without joining its reasons |"
+      ],
+      "opinion_topology_sha256": "d5b0158099b7aedccc6fdf0e527b4a78331642081780a23e1f1a7b606e1b6dbb",
+      "form_evidence": []
+    },
+    {
+      "record": "Auer_v_Robbins_merits_1997-02-19.md",
+      "record_sha256": "c60da4ebe3ef7390d6c16c9c365d2e1dff1b95f033d44a96e0d7cc5ec3281e44",
+      "case_and_dockets": "Auer v. Robbins; No. 95-897.",
+      "case_name": "Auer v. Robbins",
+      "event_and_date": "Merits decision — 1997-02-19; argued 1996-12-10; October Term 1996, chunk 4, matter 40.",
+      "date": "1997-02-19",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Kennedy"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Kennedy"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court, Parts I and III | Kennedy | Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Non-arm status and governing controlling-weight interpretation; the Chief Justice does not join these grounds |",
+        "| Opinion of the Court, Parts II, IV and V | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Validity, practical-exposure construction/application, correction and conditional affirmance |"
+      ],
+      "opinion_topology_sha256": "c954d72138521a9d4f48c07bbbbbbf306ea43db08f63ff5748321e391de694c0",
+      "form_evidence": []
+    },
+    {
+      "record": "Lynce_v_Mathis_threshold_1997-02-19.md",
+      "record_sha256": "af33d7ca751e71cb268e864d9d6e3e92d1df5ff41084b8bb5d83c5057289eb96",
+      "case_and_dockets": "Lynce v. Mathis, No. 95-7452; October Term 1996, chunk 4, inventory No. 41.",
+      "case_name": "Lynce v. Mathis",
+      "event_and_date": "Signed threshold decision, vacatur and remand; 1997-02-19.",
+      "date": "1997-02-19",
+      "counted": true,
+      "classification_reason": "Signed threshold lead expressly following plenary briefing and argument.",
+      "lead_authors": [
+        "Thomas"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Thomas"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court | Thomas | Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer | Supports threshold-only vacatur and remand | Entire threshold opinion, including the exact concession, intervening-law and remedial limits; no Ex Post Facto merits holding |"
+      ],
+      "opinion_topology_sha256": "6a17897d90fded9ee3dede2669dab725991b7e7efd4786f3a643a591a08023ff",
+      "form_evidence": [
+        "**Form first:** The case receives a signed, reasoned threshold opinion following plenary briefing and argument.",
+        "**Category and effect on counts:** This signed lead completes plenary merits-docket review after full briefing and November 4 argument; its threshold outcome does not turn it into an ordinary procedural order."
+      ]
+    },
+    {
+      "record": "Maryland_v_Wilson_merits_1997-02-19.md",
+      "record_sha256": "06b82c1356974b9774fd6a56744a2ca33b53bde62b0dcb945e2a40b5896cdf34",
+      "case_and_dockets": "Maryland v. Wilson; No. 95-1268; OT1996, chunk 4.",
+      "case_name": "Maryland v. Wilson",
+      "event_and_date": "Merits decision; 1997-02-19; argued 1996-12-11.",
+      "date": "1997-02-19",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Thomas"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Thomas"
+      ],
+      "opinion_table_author_evidence": [
+        "Justice Thomas delivers the Opinion of the Court"
+      ],
+      "opinion_topology_sha256": "27eb26d36541809eff13ff00499a16d32d0e070b2729588830a5ed92b55755f6",
+      "form_evidence": []
+    },
+    {
+      "record": "Regents_v_Doe_merits_1997-02-19.md",
+      "record_sha256": "f29a474b26073b42ef3c3c15a05874cb607483ba14a9036a06747f803e1d2616",
+      "case_and_dockets": "Regents of the University of California v. Doe; No. 95-1694; OT1996, chunk 4.",
+      "case_name": "Regents of the University of California v. Doe",
+      "event_and_date": "Merits decision; 1997-02-19; argued 1996-12-02.",
+      "date": "1997-02-19",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Stone-Zsela"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Stone-Zsela"
+      ],
+      "opinion_table_author_evidence": [
+        "Chief Justice Stone-Zsela delivers the Opinion of the Court"
+      ],
+      "opinion_topology_sha256": "f3a6c33a143654b3a7a84aacebc94a75a44183c10d177bc81c4f84dbfd1f70e2",
+      "form_evidence": []
+    },
+    {
+      "record": "Schenck_v_Pro_Choice_Network_merits_1997-02-19.md",
+      "record_sha256": "467941525f107b9f5fcc8e7b4ee0a7c304862323fe19176b952e4d4af7bfb978",
+      "case_and_dockets": "Schenck v. Pro-Choice Network of Western New York; No. 95-1065; OT1996, chunk 4.",
+      "case_name": "Schenck v. Pro-Choice Network of Western New York",
+      "event_and_date": "Merits decision; 1997-02-19; argued 1996-10-16.",
+      "date": "1997-02-19",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Stone-Zsela"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Stone-Zsela"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court in full | Stone-Zsela | Stevens, O'Connor, Souter and Ginsburg | Full five-Justice coalition: Stone-Zsela, Stevens, O'Connor, Souter and Ginsburg; all controlling portions |",
+        "| Court opinion's responsible-party, notice and actual-concert coverage boundary | Stone-Zsela | Breyer, Scalia, Kennedy and Thomas additionally | All nine join this boundary; agreement does not resolve whether the fixed or mobile restrictions are sufficiently tailored |",
+        "| Court opinion's fixed-access and in-zone counseling holdings | Stone-Zsela | Breyer additionally | Six direct joins sustaining those components |",
+        "| Court opinion's moving-person, moving-vehicle and dependent-removal holdings | Stone-Zsela | Scalia, Kennedy and Thomas additionally | Eight direct joins invalidating mobile relief and removing the dependent distance |"
+      ],
+      "opinion_topology_sha256": "f2f6e982d6d029c35f67a4aa56340db8ecafe5ce118905b34068077713eb0aa6",
+      "form_evidence": []
+    },
+    {
+      "record": "Brown_v_Hot_Sexy_Safer_Productions_merits_1997-02-24.md",
+      "record_sha256": "561038c793e52baba7e5427424af3bad26ce43f6c1db9f8e2786e3adbd2d9d64",
+      "case_and_dockets": "Brown v. Hot, Sexy & Safer Productions, Inc.; First Circuit No. 95-1275, 68 F.3d 525; no separate Supreme Court merits docket assigned; OT1996, chunk 4.",
+      "case_name": "Brown v. Hot, Sexy & Safer Productions, Inc",
+      "event_and_date": "Merits decision; 1997-02-24; argued 1996-11-06.",
+      "date": "1997-02-24",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Ginsburg"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Ginsburg"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court | Ginsburg | Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer | All nine join the three granted holdings and affirmance; no controlling merits ruling on distinct ungranted claims |"
+      ],
+      "opinion_topology_sha256": "8e60e0959e6c5052a3fe3598bf0e23d3d9ce25f78e0721c1ef202da69bf80b53",
+      "form_evidence": []
+    },
+    {
+      "record": "Dunn_v_CFTC_merits_1997-02-25.md",
+      "record_sha256": "4a9298aadec8d81481b655893aecf0a6335d82cd54a4e6cdde5eb0e1ad9c8ca6",
+      "case_and_dockets": "Dunn v. Commodity Futures Trading Commission; No. 95-1181.",
+      "case_name": "Dunn v. Commodity Futures Trading Commission",
+      "event_and_date": "Merits decision — 1997-02-25; argued 1996-11-13; October Term 1996, chunk 4, matter 46.",
+      "date": "1997-02-25",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Scalia"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Scalia"
+      ],
+      "opinion_table_author_evidence": [
+        "Justice Scalia delivers the Opinion of the Court"
+      ],
+      "opinion_topology_sha256": "fe596129e918358c4efac0fcaa6a0fc25b80660d6594f6b6db3f8e0c35b01016",
+      "form_evidence": []
+    },
+    {
+      "record": "Andrade_v_Mayfair_Management_Inc_merits_1997-02-26.md",
+      "record_sha256": "ce78cd967a374668cf48fb6d545a6b8c1c6b115554de7ea095eafcda1f9d5ee4",
+      "case_and_dockets": "Andrade v. Mayfair Management, Inc.; Fourth Circuit No. 95-2476; 88 F.3d 258.",
+      "case_name": "Andrade v. Mayfair Management, Inc",
+      "event_and_date": "Merits decision, 1997-02-26.",
+      "date": "1997-02-26",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Breyer"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Breyer"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court | Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg | All holdings and the judgment in full. |"
+      ],
+      "opinion_topology_sha256": "e0e7489972f3db432a1ca09e0612b3511303088e68cbbb2f4d6f4b5fc8136a3c",
+      "form_evidence": []
+    },
+    {
+      "record": "In_re_Rhone_Poulenc_Rorer_merits_1997-02-26.md",
+      "record_sha256": "9ab8d9d5ff5828bd399e1d24d5079b1ef0e672146a5fcc8c005b5070bb0d5691",
+      "case_and_dockets": "In re Rhone-Poulenc Rorer; Seventh Circuit No. 94-3912; 51 F.3d 1293.",
+      "case_name": "In re Rhone-Poulenc Rorer",
+      "event_and_date": "Merits decision, 1997-02-26; OT1996, chunk 5, inventory 49.",
+      "date": "1997-02-26",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Stone-Zsela"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Stone-Zsela"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Entire opinion and judgment. |"
+      ],
+      "opinion_topology_sha256": "17cbdb28f1b461a0d7d904e573f009f4a690bb688aa56bc60195ae4cbf0dfc6b",
+      "form_evidence": []
+    },
+    {
+      "record": "United_States_v_Wells_merits_1997-02-26.md",
+      "record_sha256": "5948e595b188d5db16bbc9e74e397da1c9b0af8329738b4cfce8cf1175964899",
+      "case_and_dockets": "United States v. Wells; No. 95-1228; respondents Jerry E. Wells and Kenneth R. Steele.",
+      "case_name": "United States v. Wells",
+      "event_and_date": "Merits decision — 1997-02-26; argued 1996-11-04; October Term 1996, chunk 4, matter 47.",
+      "date": "1997-02-26",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Thomas"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Thomas"
+      ],
+      "opinion_table_author_evidence": [
+        "| Court opinion, Part I: statutory reviewability | Thomas | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Unanimous bounded decision to reach the issue |",
+        "| Court opinion, Part II: no added materiality element and vacatur | Thomas | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight direct joins; Stevens opposes |",
+        "| Court opinion, Part III: acquittals and independent-issue limits | Thomas | All nine Justices | Stevens joins these limits while retaining his different new-trial route |"
+      ],
+      "opinion_topology_sha256": "f07efb79cd78341bb0b873752d95c8c706422df94a0e89e323b093cda24b6f53",
+      "form_evidence": []
+    },
+    {
+      "record": "Adams_v_Robertson_DIG_1997-03-03.md",
+      "record_sha256": "2633275e3fcffb620976e6f131d7dfbc9dcfc60a74753b8216c7b03609a1309e",
+      "case_and_dockets": "Adams v. Robertson; No. 95-1873.",
+      "case_name": "Adams v. Robertson",
+      "event_and_date": "Dismissal of certiorari after argument; 1997-03-03; OT1996, chunk 5, inventory 50.",
+      "date": "1997-03-03",
+      "counted": false,
+      "classification_reason": "Ordinary procedural action/DIG; excluded from signed plenary lead accounting.",
+      "lead_authors": [],
+      "named_topology_authors_before_exclusion": [],
+      "opinion_table_author_evidence": [],
+      "opinion_topology_sha256": "923585fa6a3ebb895b436adb1e17b4ef63d7b7c059417b6774a106b32b767f9a",
+      "form_evidence": []
+    },
+    {
+      "record": "Arizonans_for_Official_English_v_Arizona_merits_1997-03-03.md",
+      "record_sha256": "bf236f92a6bba6dd0dd2093efdda8af293cf66ff08e0a752e135374e40dad9d6",
+      "case_and_dockets": "Arizonans for Official English v. Arizona; No. 95-974.",
+      "case_name": "Arizonans for Official English v. Arizona",
+      "event_and_date": "Merits decision, 1997-03-03; OT1996, chunk 5, inventory 51.",
+      "date": "1997-03-03",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Stevens"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Stevens"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court | Stevens | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Entire opinion and judgment. |"
+      ],
+      "opinion_topology_sha256": "29c2faa9d62879665f8ce281059b8df1907364beadf2172cc0fe1badba8fdae6",
+      "form_evidence": []
+    },
+    {
+      "record": "United_States_v_Gonzales_merits_1997-03-03.md",
+      "record_sha256": "376c2be0a9f5b5d526ad355993b8feee16d5d3b4353224e8c111e34e378fd148",
+      "case_and_dockets": "United States v. Gonzales; No. 95-1605.",
+      "case_name": "United States v. Gonzales",
+      "event_and_date": "Merits decision, 1997-03-03; OT1996, chunk 5, inventory 52.",
+      "date": "1997-03-03",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Kennedy"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Kennedy"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court | Kennedy | Stone-Zsela, O'Connor, Scalia, Souter, Thomas and Ginsburg | All holdings and the vacatur/remand judgment. |"
+      ],
+      "opinion_topology_sha256": "6860dbde52976f229ae5dc9ed4aa48e756090c46b0736209d4ead81ce26df527",
+      "form_evidence": []
+    },
+    {
+      "record": "Warner_Jenkinson_Co_v_Hilton_Davis_Chemical_Co_merits_1997-03-03.md",
+      "record_sha256": "c3c4bbb385ac38011e1a5cb487e2f6fa88c5541bd5471ce0294e3e78f2fcd81c",
+      "case_and_dockets": "Warner-Jenkinson Co. v. Hilton Davis Chemical Co.; No. 95-728.",
+      "case_name": "Warner-Jenkinson Co. v. Hilton Davis Chemical Co",
+      "event_and_date": "Merits decision, 1997-03-03; OT1996, chunk 5, inventory 53.",
+      "date": "1997-03-03",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Ginsburg"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Ginsburg"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court | Ginsburg | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer in full; Stone-Zsela except the objective-intent proposition | Eight direct joins on objective intent; nine on all other propositions, including the old-prosecution qualification, and the judgment. |"
+      ],
+      "opinion_topology_sha256": "afe49b9df0d07e67fa0363223131973f13e9e96043188631bae004526adef0d1",
+      "form_evidence": []
+    },
+    {
+      "record": "Wright_v_MetroHealth_Medical_Center_merits_1997-03-03.md",
+      "record_sha256": "6fbbdc1b31605ecf0e17456817bbd484648bc278f4037c360206bcedf067f0d0",
+      "case_and_dockets": "Wright v. MetroHealth Medical Center; Sixth Circuit No. 94-3548; 58 F.3d 1130.",
+      "case_name": "Wright v. MetroHealth Medical Center",
+      "event_and_date": "Merits decision, 1997-03-03; OT1996, chunk 5, inventory 54.",
+      "date": "1997-03-03",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Breyer"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Breyer"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court | Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg | Both federal holdings, corrected record application and limited affirmance. |"
+      ],
+      "opinion_topology_sha256": "3f253502bf23e27c5ab8cc9bc979a5cb15b13e733001bd979f535d4eaf581ea2",
+      "form_evidence": []
+    },
+    {
+      "record": "Nabozny_v_Podlesny_merits_1997-03-10.md",
+      "record_sha256": "30ba386b7e69c906c683fca9146da092df1bf6e552a1dfc364073fa1c2e4b015",
+      "case_and_dockets": "Nabozny v. Podlesny; Seventh Circuit No. 95-3634, 92 F.3d 446; no separate Supreme Court merits docket supplied.",
+      "case_name": "Nabozny v. Podlesny",
+      "event_and_date": "Merits decision; 1997-03-10; OT1996, chunk 5.",
+      "date": "1997-03-10",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Stone-Zsela"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Stone-Zsela"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Supports every judgment component | Whole opinion |"
+      ],
+      "opinion_topology_sha256": "76434768ca78425d3364f36e6661b2d3cd66d527038eaafc8903b3b0e476bf74",
+      "form_evidence": []
+    },
+    {
+      "record": "Brown_v_Polk_County_merits_1997-03-17.md",
+      "record_sha256": "2f0529c0f0e8e7314d0e92175ae4fd26780c6a6fea72c594d99cc38d66c4f58f",
+      "case_and_dockets": "Brown v. Polk County; Eighth Circuit No. 93-3313, 61 F.3d 650 (en banc); no separate Supreme Court merits docket supplied.",
+      "case_name": "Brown v. Polk County",
+      "event_and_date": "Merits decision; 1997-03-17; OT1996, chunk 5.",
+      "date": "1997-03-17",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Stevens"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Stevens"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court | Stevens | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Affirms reviewed judgment | Parts I–IV |",
+        "| Same opinion, constitutional, accommodation and remedial portions | Stevens | Stone-Zsela | Affirms reviewed judgment | Parts I, II and IV; supports Part III’s disposition without joining its reasons |"
+      ],
+      "opinion_topology_sha256": "48285d084e381b7be10836fd5be3030884cd503eb215fd43af1998cd78aa2068",
+      "form_evidence": [
+        "**Opinion form:** These eight direct joins permit a signed common opinion at the specified scope."
+      ]
+    },
+    {
+      "record": "Commissioner_v_Estate_of_Hubert_merits_1997-03-18.md",
+      "record_sha256": "beea4b0e55ba02dce67805f6841908142a1476d11495bdcc183c3c40a778be4c",
+      "case_and_dockets": "Commissioner v. Estate of Hubert; No. 95-1402.",
+      "case_name": "Commissioner v. Estate of Hubert",
+      "event_and_date": "Merits decision; 1997-03-18; OT1996, chunk 5.",
+      "date": "1997-03-18",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Kennedy"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Kennedy"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court | Kennedy | Stone-Zsela, Stevens, O'Connor, Souter, Thomas, Ginsburg | Affirms both deductions | Whole confined opinion; material limitation and case-specific burden, without a valuation-date-only rule |"
+      ],
+      "opinion_topology_sha256": "e2a041e9e5890496f95d7aff895543a77022e5b6678e3ca742279aa13bda7e85",
+      "form_evidence": []
+    },
+    {
+      "record": "Young_v_Harper_merits_1997-03-18.md",
+      "record_sha256": "85c52a781b47bde5a6c915411a6dad6b0b8f0cab006d4c02e1c2cd89b1574d2c",
+      "case_and_dockets": "Young v. Harper; No. 95-1598.",
+      "case_name": "Young v. Harper",
+      "event_and_date": "Merits decision; 1997-03-18; OT1996, chunk 5.",
+      "date": "1997-03-18",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Breyer"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Breyer"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court | Breyer | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Supports timely review and affirmance | Parts I–IV in full |",
+        "| Same opinion, merits and remedy | Breyer | Stone-Zsela | Supports affirmance | Parts II–IV; agrees with the timely-review resolution without joining Part I’s rationale |"
+      ],
+      "opinion_topology_sha256": "2fe6fc6028d45426698dae56db48a34a4065ab4582043f0e1516619ee51fbe8c",
+      "form_evidence": []
+    },
+    {
+      "record": "Bennett_v_Spear_merits_1997-03-19.md",
+      "record_sha256": "e5051898e4835dbd8e8c1a966427e60b2f2b0209be93b7d00dadd1634db8ce18",
+      "case_and_dockets": "Bennett v. Spear; No. 95-813.",
+      "case_name": "Bennett v. Spear",
+      "event_and_date": "Merits decision; 1997-03-19; OT1996, chunk 5.",
+      "date": "1997-03-19",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Scalia"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Scalia"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court | Scalia | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer | Reverses reviewed dismissal and remands | Whole opinion; NEPA dismissal outside review |"
+      ],
+      "opinion_topology_sha256": "012288fc8a7003c5fbf2c629724a30e39d3656f0a61be1afa9b1c693c4a70466",
+      "form_evidence": []
+    },
+    {
+      "record": "Ingebretsen_v_Jackson_Public_School_District_merits_1997-03-19.md",
+      "record_sha256": "a2d29359c05f7ee87ea4f3af8d150326b17fc3cc0632504767fb2a913972762a",
+      "case_and_dockets": "Ingebretsen v. Jackson Public School District; court-of-appeals No. 94-60631.",
+      "case_name": "Ingebretsen v. Jackson Public School District",
+      "event_and_date": "Merits decision; 1997-03-19; OT1996, chunk 6.",
+      "date": "1997-03-19",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Ginsburg"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Ginsburg"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court | Ginsburg | Stevens, O'Connor, Souter, Breyer throughout; other joins below | Controlling portions supporting each judgment component | I standing; II sponsorship; III school pressure; IV relief; V-A intervention as of right; V-B permissive intervention |",
+        "| Same opinion, partial joins | Ginsburg | Stone-Zsela | Supports standing and injunction judgment; dissents from V-A judgment; agrees only with V-B judgment | I, II and IV; no III or V reasons |",
+        "| Same opinion, partial joins | Ginsburg | Kennedy | Supports every judgment component | I, III, IV and V; no II |",
+        "| Same opinion, partial joins | Ginsburg | Scalia, Thomas | Supports standing and intervention; dissents from retained injunction and graduation extension | I, V, and IV's independently stated protection of private speech and lawful provisions; no II, III or retained-restraint application |"
+      ],
+      "opinion_topology_sha256": "423245867f817df1d66a7bdb189bfdceffaa4b79374850bd64336e2db8b9ae5a",
+      "form_evidence": []
+    },
+    {
+      "record": "Oncale_v_Sundowner_Offshore_Services_Inc_merits_1997-03-19.md",
+      "record_sha256": "9e0e918b9862284dcc94996e9f8c93416802e1d680312f470bbefd9e3780aa36",
+      "case_and_dockets": "Oncale v. Sundowner Offshore Services, Inc.; court-of-appeals No. 95-30510.",
+      "case_name": "Oncale v. Sundowner Offshore Services, Inc",
+      "event_and_date": "Merits decision; 1997-03-19; OT1996, chunk 6.",
+      "date": "1997-03-19",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Thomas"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Thomas"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court | Thomas | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer | Unanimous reversal in relevant part and remand | All holdings and limitations |"
+      ],
+      "opinion_topology_sha256": "5f95029a08c260d3f1dc537d51f5c4f87a1c14ac2a20df04bd67069598d5a3e7",
+      "form_evidence": []
+    },
+    {
+      "record": "Lambert_v_Wicklund_summary_review_1997-03-31.md",
+      "record_sha256": "cf870e3d9714a59ff2b563671fcae8c37b783bfd504115ddb3e29cfaedf220c0",
+      "case_and_dockets": "Lambert v. Wicklund; No. 96-858.",
+      "case_name": "Lambert v. Wicklund",
+      "event_and_date": "Summary review; 1997-03-31; OT1996, chunk 6.",
+      "date": "1997-03-31",
+      "counted": false,
+      "classification_reason": "Summary disposition; excluded even if a named Justice delivers the lead.",
+      "lead_authors": [],
+      "named_topology_authors_before_exclusion": [],
+      "opinion_table_author_evidence": [],
+      "opinion_topology_sha256": "cceeee91293a1e92c4da566577df5a218c5feee02bf9945410077d01347bcd06",
+      "form_evidence": []
+    },
+    {
+      "record": "Robinson_v_City_of_Edmond_merits_1997-03-31.md",
+      "record_sha256": "bf951b65b228ce82746288842678775bf5bb47f0a3445dde529efac176e645aa",
+      "case_and_dockets": "Robinson v. City of Edmond; lower-court Nos. 94-6237 and 95-6008.",
+      "case_name": "Robinson v. City of Edmond",
+      "event_and_date": "Merits decision; 1997-03-31; OT1996, chunk 6.",
+      "date": "1997-03-31",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Breyer"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Breyer"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court | Breyer | Stevens, O'Connor, Souter, Ginsburg throughout; other joins below | Affirms | I personal standing; II government attribution; III contextual effects; IV independent official-identification ground; V relief |",
+        "| Same opinion, partial join | Breyer | Stone-Zsela | Supports the entire judgment; agrees only with Part I's disposition | II–V; no added ground on I |",
+        "| Same opinion, partial joins | Breyer | Scalia, Kennedy, Thomas | Supports the entire judgment on the narrower merits ground | I, II, IV and V; no III |"
+      ],
+      "opinion_topology_sha256": "f5c998949d0b0b08cfb87abc6429a3a195dcd8e0c9187d79773b1417450ccb18",
+      "form_evidence": []
+    },
+    {
+      "record": "Turner_Broadcasting_System_Inc_v_FCC_merits_1997-03-31.md",
+      "record_sha256": "e65c5bc0450829db989e3377a54815f2a13f8686ac5ef4dd7825fa4f43b084e0",
+      "case_and_dockets": "Turner Broadcasting System, Inc. v. Federal Communications Commission; No. 95-992.",
+      "case_name": "Turner Broadcasting System, Inc. v. Federal Communications Commission",
+      "event_and_date": "Merits decision; 1997-03-31; OT1996, chunk 6.",
+      "date": "1997-03-31",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Kennedy"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Kennedy"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court | Kennedy | Stone-Zsela, Stevens, Souter, Breyer | Supports full-power affirmance | I scope; II preservation/diversity advancement; III fit and summary disposition |",
+        "| Same opinion, partial joins | Kennedy | O'Connor, Scalia, Thomas, Ginsburg | Agree with scope; dissent from core judgment | I only; no II or III |"
+      ],
+      "opinion_topology_sha256": "aa7d86a16b56b2443ee00dc824b42c1677f9fab3aca63f7bfb0e06ac127c3d0e",
+      "form_evidence": []
+    },
+    {
+      "record": "United_States_v_Lanier_merits_1997-03-31.md",
+      "record_sha256": "efb3d9c55b975982e19c2b4a90193f005cd17631bb6fe41f09ae6dc58872e7ef",
+      "case_and_dockets": "United States v. Lanier; No. 95-1717.",
+      "case_name": "United States v. Lanier",
+      "event_and_date": "Merits decision; 1997-03-31; OT1996, chunk 6.",
+      "date": "1997-03-31",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Stone-Zsela"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Stone-Zsela"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Unanimous vacatur and remand | All controlling propositions and limits |"
+      ],
+      "opinion_topology_sha256": "7d4c06e46bc35bc7e9b43379e6edd5c09b1bd7d6a90fca40bc8b506e3cf3ec52",
+      "form_evidence": []
+    },
+    {
+      "record": "Young_v_Fordice_merits_1997-03-31.md",
+      "record_sha256": "f423b5970f1ce063fbce1ba56b9975b66e9c336f466a6235c1e1a46cf75ad151",
+      "case_and_dockets": "Young v. Fordice; No. 95-2031.",
+      "case_name": "Young v. Fordice",
+      "event_and_date": "Merits decision; 1997-03-31; OT1996, chunk 6.",
+      "date": "1997-03-31",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Stevens"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Stevens"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court | Stevens | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Unanimous reversal and remand | All holdings and qualifications |"
+      ],
+      "opinion_topology_sha256": "a0d7f56763841ad47809da1f178005bf93fc5a61dec954b40525169177a619e7",
+      "form_evidence": []
+    },
+    {
+      "record": "Opuku_Boateng_v_California_merits_1997-04-07.md",
+      "record_sha256": "d6b066c0b92709dc743e5f80f4d37bc2a55d5f6b34915f2da757ae62a46b784f",
+      "case_and_dockets": "Opuku-Boateng v. California; Ninth Circuit No. 94-16542, 95 F.3d 1461; separate Supreme Court docket unassigned",
+      "case_name": "Opuku-Boateng v. California",
+      "event_and_date": "Merits decision; 1997-04-07; OT1996, chunk 6.",
+      "date": "1997-04-07",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Stone-Zsela"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Stone-Zsela"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | For the unanimous judgment | Entire opinion; every holding below |"
+      ],
+      "opinion_topology_sha256": "2f341d8db5421296f380fb3402b0d18f0fed0ab8c80e1e091e8543fbceccfe02",
+      "form_evidence": []
+    },
+    {
+      "record": "Chandler_v_Miller_merits_1997-04-15.md",
+      "record_sha256": "64e1f4f29a6a3dffa57f2916af6f3072c9bee52089be7a6b9d6817ee4d4853db",
+      "case_and_dockets": "Chandler v. Miller, No. 96-126",
+      "case_name": "Chandler v. Miller",
+      "event_and_date": "Merits decision; 1997-04-15; OT1996, chunk 6.",
+      "date": "1997-04-15",
+      "counted": true,
+      "classification_reason": "Signed lead in a plenary merits decision; the actual opinion topology supplies the author.",
+      "lead_authors": [
+        "Scalia"
+      ],
+      "named_topology_authors_before_exclusion": [
+        "Scalia"
+      ],
+      "opinion_table_author_evidence": [
+        "| Opinion of the Court | Scalia | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer | For the unanimous judgment | Entire opinion; every holding below |"
+      ],
+      "opinion_topology_sha256": "0f11000e35cf31bd80817213573beb696bb88fb509c213ffde80670c02a06882",
+      "form_evidence": []
+    }
+  ],
+  "records_at_or_after_cutoff_excluded": [
+    "Blessing_v_Freestone_merits_1997-04-21.md",
+    "New_Mexico_Department_of_Human_Services_v_Joseph_A_merits_1997-04-21.md"
+  ],
+  "engine_sha256": "505a2d5e30e461c4b945dd2e7bd962ff6c117ede64914321f90014aff3b3428c",
+  "helper_sha256": "2ec437af809a96fdbf5fc0d453c87408d59a4e0d9ae3249da3b46a2d3689932b"
+}

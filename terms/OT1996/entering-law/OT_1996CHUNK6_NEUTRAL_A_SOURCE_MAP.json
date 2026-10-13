@@ -1,0 +1,157 @@
+[
+  {
+    "case": "60_Oncale",
+    "date": "1997-03-19",
+    "slice": "terms\\OT1996\\entering-law\\OT_1996CHUNK6_60_Oncale.md",
+    "neutral_packet": "terms\\OT1996\\entering-law\\OT_1996CHUNK6_60_Oncale_NEUTRAL.md",
+    "bytes": 44418,
+    "sha256": "f275278b0f5a8ae1aee57e3c7752ca491d9d3b774d2e01b372c9298ba89661dd",
+    "state_selections": {
+      "labor-and-employment": [
+        "St. Mary's Honor Center v. Hicks",
+        "Harris v. Forklift Systems"
+      ]
+    },
+    "standards": [
+      "Rejected employment explanations and circumstantial discrimination proof",
+      "Hostile employment conditions without a psychological-injury prerequisite"
+    ],
+    "current_term": [
+      "Andrade v. Mayfair",
+      "Brown v. Hot, Sexy",
+      "Nabozny v. Podlesny"
+    ],
+    "readiness": "fresh neutral validation required",
+    "supplement": "terms/OT1996/freeze/OT_1996CHUNK6_NEUTRAL_A_SUPPLEMENT.md"
+  },
+  {
+    "case": "61_Ingebretsen",
+    "date": "1997-03-19",
+    "slice": "terms\\OT1996\\entering-law\\OT_1996CHUNK6_61_Ingebretsen.md",
+    "neutral_packet": "terms\\OT1996\\entering-law\\OT_1996CHUNK6_61_Ingebretsen_NEUTRAL.md",
+    "bytes": 82945,
+    "sha256": "282bd769a7e1e5a158e750bf4566859e3dcff384a820f67515dcac6c7848d805",
+    "state_selections": {
+      "first-amendment": [
+        "Lee v. Weisman",
+        "Religious viewpoints in a school forum",
+        "Religious neutrality in public school government",
+        "Private religious displays in public forums",
+        "Private student publications and religious viewpoints"
+      ],
+      "federal-courts": [
+        "Lujan v. Defenders"
+      ]
+    },
+    "standards": [
+      "Official graduation worship and independent religious pressure",
+      "Private religious viewpoints in public forums and printing benefits",
+      "Concrete personal interests and procedural citizen-suit standing"
+    ],
+    "current_term": [
+      "Brown v. Hot, Sexy",
+      "Brown v. Polk County"
+    ],
+    "readiness": "ready with specified OCR cross-reference limit",
+    "supplement": "terms/OT1996/freeze/OT_1996CHUNK6_NEUTRAL_A_SUPPLEMENT.md"
+  },
+  {
+    "case": "62_Lambert",
+    "date": "1997-03-31",
+    "slice": "terms\\OT1996\\entering-law\\OT_1996CHUNK6_62_Lambert.md",
+    "neutral_packet": "terms\\OT1996\\entering-law\\OT_1996CHUNK6_62_Lambert_NEUTRAL.md",
+    "bytes": 66765,
+    "sha256": "71cef4c9debac0bec9759d97f0307dece13ef80867f010d18a7abe140fae3e24",
+    "state_selections": {
+      "civil-rights": [
+        "Minor consent and independent authorization",
+        "Reproductive liberty and constitutional precedent",
+        "Abortion access and provision-specific review",
+        "Reproductive liberty and parental involvement"
+      ],
+      "federal-courts": [
+        "Scope of prospective relief for abortion requirements"
+      ]
+    },
+    "standards": [
+      "Protected choice and the six-step standard for previability regulation",
+      "One-parent informed consent with an independent judicial bypass"
+    ],
+    "current_term": [],
+    "readiness": "fresh neutral validation required",
+    "supplement": "terms/OT1996/freeze/OT_1996CHUNK6_NEUTRAL_A_SUPPLEMENT.md"
+  },
+  {
+    "case": "63_Robinson_Edmond",
+    "date": "1997-03-31",
+    "slice": "terms\\OT1996\\entering-law\\OT_1996CHUNK6_63_Robinson_Edmond.md",
+    "neutral_packet": "terms\\OT1996\\entering-law\\OT_1996CHUNK6_63_Robinson_Edmond_NEUTRAL.md",
+    "bytes": 59474,
+    "sha256": "811c13714c3c35ba55863ebc02875d3810b4679e9ecdcd7cfecf762068714349",
+    "state_selections": {
+      "first-amendment": [
+        "Lee v. Weisman",
+        "Religious neutrality in public school government",
+        "Private religious displays in public forums",
+        "Private student publications and religious viewpoints"
+      ],
+      "federal-courts": [
+        "Lujan v. Defenders"
+      ]
+    },
+    "standards": [
+      "Official graduation worship and independent religious pressure",
+      "Private religious viewpoints in public forums and printing benefits"
+    ],
+    "current_term": [
+      "Brown v. Polk County"
+    ],
+    "readiness": "await actual March19 Ingebretsen public delta",
+    "supplement": "terms/OT1996/freeze/OT_1996CHUNK6_NEUTRAL_A_SUPPLEMENT.md"
+  },
+  {
+    "case": "64_Turner_II",
+    "date": "1997-03-31",
+    "slice": "terms\\OT1996\\entering-law\\OT_1996CHUNK6_64_Turner_II.md",
+    "neutral_packet": "terms\\OT1996\\entering-law\\OT_1996CHUNK6_64_Turner_II_NEUTRAL.md",
+    "bytes": 18116,
+    "sha256": "a417dafd897194ddc48672afd01c44789d7f82dc607df13f0c7ad781cbe4ca33",
+    "state_selections": {
+      "first-amendment": [
+        "Cable carriage and editorial expression"
+      ]
+    },
+    "standards": [
+      "Cable-carriage rules and review of legislative predictions"
+    ],
+    "current_term": [],
+    "readiness": "fresh neutral validation required",
+    "supplement": "terms/OT1996/freeze/OT_1996CHUNK6_NEUTRAL_A_SUPPLEMENT.md"
+  },
+  {
+    "case": "65_Lanier",
+    "date": "1997-03-31",
+    "slice": "terms\\OT1996\\entering-law\\OT_1996CHUNK6_65_Lanier.md",
+    "neutral_packet": "terms\\OT1996\\entering-law\\OT_1996CHUNK6_65_Lanier_NEUTRAL.md",
+    "bytes": 50160,
+    "sha256": "ea11604c82dff342ef07c12b7f267a2f1aed6f53447f83a087f99a10ab2fcb0b",
+    "state_selections": {
+      "civil-rights": [
+        "Qualified-immunity review",
+        "Personal supervisory wrongdoing and conduct-time immunity",
+        "Affirmative danger and conduct-time qualified immunity",
+        "Municipal liability and public employment"
+      ]
+    },
+    "standards": [
+      "Relevant precedent in appellate qualified-immunity review",
+      "Knowing supervisory acquiescence in school-authority sexual abuse"
+    ],
+    "current_term": [
+      "Uhlrig v. Harder",
+      "Nabozny v. Podlesny"
+    ],
+    "readiness": "ready for legal-standard scope; count-specific expansion requires original record",
+    "supplement": "terms/OT1996/freeze/OT_1996CHUNK6_NEUTRAL_A_SUPPLEMENT.md"
+  }
+]

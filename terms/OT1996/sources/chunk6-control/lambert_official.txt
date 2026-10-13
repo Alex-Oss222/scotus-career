@@ -1,0 +1,438 @@
+PDF PAGE 1
+520us1$41Z 05-14-98 09:56:54 PAGES OPINPGT
+292 OCTOBER TERM, 1996
+Syllabus
+LAMBERT, GALLATIN COUNTY ATTORNEY v.
+WICKLUND et al.
+on petition for writ of certiorari to the united
+states court of appeals for the ninth circuit
+No. 96–858. Decided March 31, 1997
+Montana’s Parental Notice of Abortion Act permits a court to waive the
+requirement that one parent be notiﬁed before a minor has an abortion
+if, inter alia, notiﬁcation is not in the minor’s best interests. The Fed-
+eral District Court declared the Act unconstitutional because the judi-
+cial bypass mechanism does not authorize waiver of the notice require-
+ment whenever the abortion itself is in the minor’s best interest. The
+Ninth Circuit afﬁrmed, basing its conclusion entirely on its earlier deci-
+sion that Nevada’s identical bypass requirement was inconsistent with
+Bellotti v. Baird, 443 U. S. 622, and Ohio v. Akron Center for Repro-
+ductive Health, 497 U. S. 502.
+Held: The Act’s judicial bypass provision sufﬁciently protects a minor’s
+right to an abortion. The Ninth Circuit’s holding to the contrary is in
+direct conﬂict with this Court’s precedents. The principal opinion in
+Bellotti explained the four criteria that a parental consent statute by-
+pass provision must meet to be constitutional, and this Court explicitly
+held that the Ohio statute at issue in Akron met the second Bellotti
+requirement: that the minor be allowed to show that the desired abor-
+tion would be in her best interests. The Ohio statute was indistin-
+guishable in any relevant way from the statute at issue here, and, thus,
+the Montana law also meets the second Bellotti requirement. Akron’s
+context, the Ohio statute’s language, and Akron’s concurring opinion all
+make clear that requiring a minor to show that parental notiﬁcation is
+not in her best interests is equivalent to requiring her to show that
+abortion without notiﬁcation is in her best interests. Contrary to re-
+spondents’ argument, the Montana statute does not draw a distinction
+between requiring a minor to show that parental notiﬁcation is not in
+her best interests and requiring her to show that an abortion (without
+notiﬁcation) is in her best interests, and respondents cite no Montana
+state-court decision suggesting that the statute permits a court to sepa-
+rate these questions.
+Certiorari granted; 93 F. 3d 567, reversed.
+
+PDF PAGE 2
+520us1$41H 05-14-98 09:56:54 PAGES OPINPGT
+293Cite as: 520 U. S. 292 (1997)
+Per Curiam
+Per Curiam.
+Before a minor has an abortion in Montana, one of her
+parents must be notiﬁed. A waiver, or “judicial bypass,” of
+the notiﬁcation requirement is allowed if the minor can con-
+vince a court that notiﬁcation would not be in her best inter-
+ests. The Court of Appeals for the Ninth Circuit struck
+down Montana’s parental notiﬁcation law as unconstitutional,
+holding that the judicial bypass did not sufﬁciently protect
+the right of minors to have an abortion. Because the Ninth
+Circuit’s holding is in direct conﬂict with our precedents, we
+grant the petition for a writ of certiorari and reverse.
+In 1995, Montana enacted the Parental Notice of Abortion
+Act. The Act prohibits a physician from performing an
+abortion on a minor unless the physician has notiﬁed one of
+the minor’s parents or the minor’s legal guardian 48 hours in
+advance. Mont. Code Ann. § 50–20–204 (1995). 1 However,
+an “unemancipated” minor 2 may petition the state youth
+court to waive the notiﬁcation requirement, pursuant to the
+statute’s “judicial bypass” provision. § 50–20–212 (quoted in
+full in an appendix to this opinion). The provision gives the
+minor a right to court-appointed counsel, and guarantees ex-
+peditious handling of the minor’s petition (since the petition
+is automatically granted if the youth court fails to rule on
+1 Section 50–20–204 provides in relevant part: “A physician may not per-
+form an abortion upon a minor or an incompetent person unless the physi-
+cian has given at least 48 hours’ actual notice to one parent or to the legal
+guardian of the pregnant minor or incompetent person of the physician’s
+intention to perform the abortion. . . . If actual notice is not possible after
+a reasonable effort, the physician or the physician’s agent shall give alter-
+nate notice as provided in 50–20–205.” Section 50–20–205 provides for
+notice by certiﬁed mail. The notice requirement does not apply if “a med-
+ical emergency exists and there is insufﬁcient time to provide notice.”
+§ 50–20–208(1).
+2 “ ‘Emancipated minor’ means a person under 18 years of age who is or
+has been married or who has been granted an order of limited emancipa-
+tion by a cour t.... ” § 5 0 – 2 0 – 203(3).
+
+PDF PAGE 3
+520us1$41H 05-14-98 09:56:54 PAGES OPINPGT
+294 LAMBERT v. WICKLUND
+Per Curiam
+the petition within 48 hours from the time it is ﬁled). §§ 50–
+20–212(2)(a), (3). The minor’s identity remains anonymous,
+and the proceedings and related documents are kept con-
+ﬁdential. § 50–20–212(3).
+If the court ﬁnds by clear and convincing evidence that
+any of the following three conditions are met, it must grant
+the petition and waive the notice requirement: (i) the minor
+is “sufﬁciently mature to decide whether to have an abor-
+tion”; (ii) “there is evidence of a pattern of physical, sexual,
+or emotional abuse” of the minor by one of her parents, a
+guardian, or a custodian; or (iii) “the notiﬁcation of a parent
+or guardian is not in the best interests of the [minor].”
+§§ 50–20–212(4), (5) (emphasis added). It is this third condi-
+tion which is at issue here.
+Before the Act’s effective date, respondents—several phy-
+sicians who perform abortions, and other medical person-
+nel—ﬁled a complaint seeking a declaration that the Act was
+unconstitutional and an order enjoining its enforcement.
+The District Court for the District of Montana, addressing
+only one of respondents’ arguments, held that the Act was
+unconstitutional because the third condition set out above
+was too narrow. According to the District Court, our prece-
+dents require that judicial bypass mechanisms authorize
+waiver of the notice requirement whenever “the abortion
+would be in [the minor’s] best interests,” not just when “noti-
+ﬁcation would not be in the minor’s best interests.” App.
+to Pet. for Cert. 17a (emphasis in original) (citing Bellotti v.
+Baird, 443 U. S. 622, 640–642 (1979) (plurality opinion)).
+Three days before the Act was to go into effect, the District
+Court enjoined its enforcement.
+The Court of Appeals afﬁrmed, stating that it was bound
+by its prior decision in Glick v. McKay, 937 F. 2d 434 (CA9
+1991). See Wicklund v. Salvagni, 93 F. 3d 567, 571–572
+(CA9 1996). Glick struck down Nevada’s parental notiﬁca-
+tion statute which, like Montana’s statute here, allowed a
+minor to bypass the notiﬁcation requirement if a court deter-
+
+PDF PAGE 4
+520us1$41H 05-14-98 09:56:54 PAGES OPINPGT
+295Cite as: 520 U. S. 292 (1997)
+Per Curiam
+mined that the notiﬁcation would not be in the minor’s best
+interests. The court’s conclusion was based on its analysis
+of our decisions in Bellotti v. Baird, supra, and Ohio v.
+Akron Center for Reproductive Health, 497 U. S. 502 (1990).
+In Bellotti, we struck down a statute requiring a minor to
+obtain the consent of both parents before having an abortion,
+subject to a judicial bypass provision, because the judicial
+bypass provision was too restrictive, unconstitutionally bur-
+dening a minor’s right to an abortion. 443 U. S., at 647 (plu-
+rality opinion); id., at 655–656 ( Stevens, J., concurring in
+judgment). The Court’s principal opinion explained that a
+constitutional parental consent statute must contain a by-
+pass provision that meets four criteria: (i) allow the minor to
+bypass the consent requirement if she establishes that she is
+mature enough and well enough informed to make the abor-
+tion decision independently; (ii) allow the minor to bypass
+the consent requirement if she establishes that the abortion
+would be in her best interests; (iii) ensure the minor’s ano-
+nymity; and (iv) provide for expeditious bypass procedures.
+Id., at 643–644 (plurality opinion). See also Akron, 497
+U. S., at 511–513 (restating the four requirements).
+In Akron, we upheld a statute requiring a minor to notify
+one parent before having an abortion, subject to a judicial
+bypass provision. We declined to decide whether a parental
+notiﬁcation statute must include some sort of bypass provi-
+sion to be constitutional. Id., at 510. Instead, we held that
+this bypass provision satisﬁed the four Bellotti criteria re-
+quired for bypass provisions in parental consent statutes,
+and that a fortiori it satisﬁed any criteria that might be re-
+quired for bypass provisions in parental notiﬁcation statutes.
+Critically for the case now before us, the judicial bypass pro-
+vision we examined in Akron was substantively indistin-
+guishable from both the Montana judicial bypass provision
+at issue here and the Nevada provision at issue in Glick.
+See 497 U. S., at 508 (summarizing Ohio Rev. Code Ann.
+§ 2151.85 (1995)). The judicial bypass provision in Akron al-
+
+PDF PAGE 5
+520us1$41H 05-14-98 09:56:54 PAGES OPINPGT
+296 LAMBERT v. WICKLUND
+Per Curiam
+lowed a court to waive the notiﬁcation requirement if it de-
+termined by clear and convincing evidence “that notice is not
+in [the minor’s] best interests” (not thatan abortion is in her
+best interests). 497 U. S., at 508 (emphasis added) (citing
+§ 2151.85(A)(4)). And we explicitly held that this provision
+satisﬁed the second Bellotti requirement, that “the proce-
+dure must allow the minor to show that, even if she cannot
+make the abortion decision by herself, ‘the desired abortion
+would be in her best interests.’ ” 497 U. S., at 511 (quoting
+Bellotti, supra, at 644).
+Despite the fact that Akron involved a parental notiﬁca-
+tion statute, and Bellotti involved a parental consent stat-
+ute; 3 despite the fact that Akron involved a statute virtually
+identical to the Nevada statute at issue in Glick; and despite
+the fact that Akron explicitly held that the statute met all
+of the Bellotti requirements, the Ninth Circuit in Glick
+struck down Nevada’s parental notiﬁcation statute as incon-
+sistent with Bellotti:
+“Rather than requiring the reviewing court to consider
+the minor’s ‘best interests’ generally, the Nevada statute
+requires the consideration of “best interests” only with
+respect to the possible consequences of parental notiﬁ-
+cation. The best interests of a minor female in obtain-
+ing an abortion may encompass far more than her inter-
+ests in not notifying a parent of the abortion decision.
+Furthermore, in Bellotti, the court expressly stated,
+‘[i]f,all things considered, the court determines that an
+abortion is in the minor’s best interests, she is entitled
+to court authorization without any parental involve-
+ment.’ Bellotti, 443 U. S. at 648 (emphasis added).
+Therefore, the Nevada statute impermissibly narrows
+3 See Bellotti, 443 U. S., at 654, n. 1 ( Stevens, J., concurring in judg-
+ment) (“[T]his case [does not] determin[e] the constitutionality of a statute
+which does no more than require notice to the parents, without affording
+them or any other third party an absolute veto”).
+
+PDF PAGE 6
+520us1$41H 05-14-98 09:56:54 PAGES OPINPGT
+297Cite as: 520 U. S. 292 (1997)
+Per Curiam
+the Bellotti ‘best interests’ criterion, and is unconstitu-
+tional.” 937 F. 2d, at 439.
+Based entirely on Glick, the Ninth Circuit in this case af-
+ﬁrmed the District Court’s ruling that the Montana statute
+is unconstitutional, since the statute allows waiver of the no-
+tiﬁcation requirement only if the youth court determines
+that notiﬁcation—not the abortion itself—is not in the mi-
+nor’s best interests. 93 F. 3d, at 572.
+As should be evident from the foregoing, this decision sim-
+ply cannot be squared with our decision in Akron. The Ohio
+parental notiﬁcation statute at issue there was indistinguish-
+able in any relevant way from the Montana statute at issue
+here. Both allow for judicial bypass if the minor shows that
+parental notiﬁcation is not in her best interests. We asked
+in Akron whether this met the Bellotti requirement that the
+minor be allowed to show that “the desired abortion would
+be in her best interests.” We explicitly held that it did.
+497 U. S., at 511. Thus, the Montana statute meets this re-
+quirement, too. In concluding otherwise, the Ninth Circuit
+was mistaken.
+Respondents (as did the Ninth Circuit in Glick) place great
+emphasis on our statement in Akron, that “[t]he statute re-
+quires the juvenile court to authorize the minor’s consent
+where the court determines that the abortion is in the mi-
+nor’s best interest.” 497 U. S., at 511 (emphasis added) (cit-
+ing Ohio Rev. Code Ann. § 2151.85(C)(2) (Supp. 1988)). But
+since we had clearly stated that the statute actually required
+such authorization only when the court determined that noti-
+ﬁcation would not be in the minor’s best interests, it is
+wrong to take our statement to imply that the statute said
+otherwise. Rather, underlying our statement was an as-
+sumption that a judicial bypass procedure requiring a minor
+to show that parental notiﬁcation is not in her best interests
+is equivalent to a judicial bypass procedure requiring a minor
+to show that abortion without notiﬁcation is in her best in-
+
+PDF PAGE 7
+520us1$41H 05-14-98 09:56:54 PAGES OPINPGT
+298 LAMBERT v. WICKLUND
+Per Curiam
+terests, as the context of the opinion, the statutory language,
+and the concurring opinion all make clear. 4
+Respondents, echoing the Ninth Circuit in Glick, claim
+that there is a constitutionally signiﬁcant distinction be-
+tween requiring a minor to show that parental notiﬁcation is
+not in her best interests, and requiring a minor to show that
+an abortion (without such notiﬁcation) is in her best inter-
+ests. See Brief in Opposition 12–13; 937 F. 2d, at 438–439.
+But the Montana statute draws no such distinction, and re-
+spondents cite no Montana state-court decision suggesting
+that the statute permits a court to separate the question
+whether parental notiﬁcation is not in a minor’s best interest
+from an inquiry into whether abortion (without notiﬁcation)
+is in the minor’s best interest. As with the Ohio statute in
+Akron, the challenge to the Montana statute here is a facial
+one. Under these circumstances, the Ninth Circuit was in-
+correct to assume that Montana’s statute “narrow[ed]” the
+Bellotti test, 937 F. 2d, at 439, as interpreted in Akron.
+4 See 497 U. S., at 517 (“if she can demonstrate that her maturity or best
+interests favor abortion without notifying one of her parents”); id., at 522
+(Stevens, J., concurring in part and concurring in judgment) (“Although
+it need not take the form of a judicial bypass, the State must provide an
+adequate mechanism for cases in which the minor is mature or notice
+would not be in her best interests” (emphasis added)); Ohio Rev. Code
+Ann. § 2151.85(C)(2) (1994) (“[I]f the court ﬁnds, by clear and convincing
+evidence,... that the notiﬁcation of the parents, guardian, or custodian of
+the [minor] otherwise is not in the best interest of [the minor], the court
+shall issue an order authorizing the [minor] to consent to the performance
+or inducement of an abortion without the notiﬁcation of her parents,
+guardian, or custodian”). See also Hodgson v. Minnesota, 497 U. S. 417,
+497 (1990) (Kennedy, J., concurring in judgment in part and dissenting in
+part) (interpreting Minnesota judicial bypass procedure which requires
+minor to show that “an abortion ... without notiﬁcation of her parents,
+guardian, or conservator would be in her best interests,” Minn. Stat.
+§ 144.343(6) (1988) (emphasis added), as authorizing exemption from stric-
+tures of parental notiﬁcation scheme in “those cases in whic h... notiﬁca-
+tion of the minor’s parents is not in the minor’s best interests” (empha-
+sis added)).
+
+PDF PAGE 8
+520us1$41H 05-14-98 09:56:54 PAGES OPINPGT
+299Cite as: 520 U. S. 292 (1997)
+Appendix to Per Curiam opinion
+Because the reasons given by the District Court and the
+Ninth Circuit for striking down the Act are inconsistent with
+our precedents, we grant the petition for a writ of certiorari
+and reverse the judgment of the Ninth Circuit.
+It is so ordered.
+APPENDIX TO PER CURIAM OPINION
+Mont. Code Ann. § 50–20–212 (1995):
+“(1) The requirements and procedures under this section
+are available to minors and incompetent persons whether or
+not they are residents of this state.
+“(2) (a) The minor or incompetent person may petition the
+youth court for a waiver of the notice requirement and may
+participate in the proceedings on the person’s own behalf.
+The petition must include a statement that the petitioner is
+pregnant and is not emancipated. The court may appoint a
+guardian ad litem for the petitioner. A guardian ad litem is
+required to maintain the conﬁdentiality of the proceedings.
+The youth court shall advise the petitioner of the right to
+court-appointed counsel and shall provide the petitioner with
+counsel upon request.
+“(b) If the petition ﬁled under subsection (2)(a) alleges
+abuse as a basis for waiver of notice, the youth court shall
+treat the petition as a report under 41–3–202. The provi-
+sions of Title 41, chapter 3, part 2, apply to an investigation
+conducted pursuant to this subsection.
+“(3) Proceedings under this section are conﬁdential and
+must ensure the anonymity of the petitioner. All proceed-
+ings under this section must be sealed. The petitioner may
+ﬁle the petition using a pseudonym or using the petitioner’s
+initials. All documents related to the petition are conﬁden-
+tial and are not available to the public. The proceedings on
+the petition must be given preference over other pending
+
+PDF PAGE 9
+520us1$41H 05-14-98 09:56:54 PAGES OPINPGT
+300 LAMBERT v. WICKLUND
+Appendix to Per Curiam opinion
+matters to the extent necessary to ensure that the court
+reaches a prompt decision. The court shall issue written
+ﬁndings of fact and conclusions of law and rule within 48
+hours of the time that the petition is ﬁled unless the time is
+extended at the request of the petitioner. If the court fails
+to rule within 48 hours and the time is not extended, the
+petition is granted and the notice requirement is waived.
+“(4) If the court ﬁnds by clear and convincing evidence
+that the petitioner is sufﬁciently mature to decide whether
+to have an abortion, the court shall issue an order authoriz-
+ing the minor to consent to the performance or inducement of
+an abortion without the notiﬁcation of a parent or guardian.
+“(5) The court shall issue an order authorizing the peti-
+tioner to consent to an abortion without the notiﬁcation of a
+parent or guardian if the court ﬁnds, by clear and convincing
+evidence, that:
+“(a) there is evidence of a pattern of physical, sexual, or
+emotional abuse of the petitioner by one or both parents, a
+guardian, or a custodian; or
+“(b) the notiﬁcation of a parent or guardian is not in the
+best interests of the petitioner.
+“(6) If the court does not make a ﬁnding speciﬁed in sub-
+section (4) or (5), the court shall dismiss the petition.
+“(7) A court that conducts proceedings under this section
+shall issue written and speciﬁc ﬁndings of fact and conclu-
+sions of law supporting its decision and shall order that a
+conﬁdential record of the evidence, ﬁndings, and conclusions
+be maintained.
+“(8) The supreme court may adopt rules providing an ex-
+pedited conﬁdential appeal by a petitioner if the youth court
+denies a petition. An order authorizing an abortion without
+notice is not subject to appeal.
+“(9) Filing fees may not be required of a pregnant minor
+who petitions a court for a waiver of parental notiﬁcation or
+appeals a denial of a petition.”
+
+PDF PAGE 10
+520us1$41I 05-14-98 09:56:54 PAGES OPINPGT
+301Cite as: 520 U. S. 292 (1997)
+Stevens, J., concurring in judgment
+Justice Stevens , with whom Justice Ginsburg and
+Justice Breyer join, concurring in the judgment.
+We assumed in Ohio v. Akron Center for Reproductive
+Health, 497 U. S. 502 (1990) (Akron II), that a young woman’s
+demonstration that an abortion would be in her best interest
+was sufﬁcient to meet the requirements of the Ohio statute’s
+judicial bypass provision. In my view, that case requires
+us to make the same assumption here. Whether that is a
+necessary showing is a question we need not reach.
+In Akron II, we upheld a statute authorizing a judicial
+bypass of a parental notice requirement on the understand-
+ing that Ohio Rev. Code Ann. § 2151.85(C)(2) (1995) required
+the juvenile court to authorize the procedure whenever it
+determined that “the abortion is in the minor’s best inter-
+est,” 497 U. S., at 511. Given the fact that the relevant text
+of the Montana statute at issue in this case, Mont. Code Ann.
+§ 50–20–212(5)(b) (1995), is essentially identical to the Ohio
+provision, coupled with the fact that the Montana Attorney
+General has advised us that “the best interests standard in
+§ 50–20–212(5)(b) [is] either identical to or substantively in-
+distinguishable from the best interests” provision construed
+in Akron II, Pet. for Cert. 7, it is surely appropriate to as-
+sume that the Montana provision also requires the court to
+authorize the minor’s consent whenever the abortion is in
+her best interests. So understood, the Montana statute is
+plainly constitutional under our ruling in Akron II. Be-
+cause the Court of Appeals erroneously construed the stat-
+ute in a manner that caused that court to hold the statute
+unconstitutional, I agree with the majority that the judg-
+ment below should be reversed.*
+*Our reading of the statute in Akron II appropriately recognized that
+the two inquiries at issue here—whether an abortion is in a young wom-
+an’s best interest, and whether notifying a minor’s parents of her desire
+to obtain an abortion is in her best interest—are sometimes linked. For
+example, if a judge ﬁnds after careful assessment of all the circumstances
+
+PDF PAGE 11
+520us1$41I 05-14-98 09:56:54 PAGES OPINPGT
+302 LAMBERT v. WICKLUND
+Stevens, J., concurring in judgment
+While a showing that an abortion is in a young woman’s
+best interest is therefore sufﬁcient to satisfy the Montana
+judicial bypass provision as we understood an analogous
+statute in Akron II, I do not think the Court need address
+whether the Montana statute can be properly understood to
+make such a demonstration a necessary requirement. My
+colleagues suggest that the statute requires a minor “to
+show that abortion without notiﬁcation is in her best inter-
+ests,” ante, at 297–298 (emphasis deleted). To the extent
+this language indicates that a young woman must demon-
+strate both that abortion is in her best interest and that noti-
+ﬁcation is not, I think that question is best left for another
+day. I note, however, that the plain language of the statute
+makes passably clear that a showing that notiﬁcation is not
+in the minor’s best interest is alone sufﬁcient. See Mont.
+Code Ann. § 50–20–212(5)(b) (1995) (“The court shall issue an
+order authorizing the petitioner to consent to an abortion
+without the notiﬁcation of a parent . . . if the court ﬁnds, by
+clear and convincing evidence, that . . . the notiﬁcation of a
+parent...i sn o ti nt h e best interests of the petitioner”).
+Although I therefore do not agree with all of the Court’s
+reasoning, I concur in the majority’s view that the judgment
+of the Court of Appeals must be reversed.
+that the abortion a young woman seeks would be in her best interest, and
+determines that notifying her parents is both opposed by the young
+woman and would likely cause her to be deterred from pursuing the
+treatment decision that would serve her best, then parental notiﬁcation
+is assuredly not in her best interest. Under such circumstances, the
+proper course for the trial judge would be to permit the abortion with-
+out notiﬁcation.

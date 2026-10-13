@@ -1,0 +1,89 @@
+Primary filing excerpts mechanically copied from Internet Archive micro_IA40385013_0682, files 02 (joint jurisdictional statement), 19 (Time Warner merits brief, pp47–48), and 24 (Federal Appellees brief, concluding footnote). These are actual questions and party submissions, not any Supreme Court resolution. Prior Supreme Court descriptions in the briefs are historical party descriptions; actual simulated Turner I controls. No current Supreme Court outcome, rationale, authorship or lineup is included.
+
+## Joint jurisdictional statement: question presented
+
+QUESTION PRESENTED 
+
+
+Whether, in the absence of any jeopardy to the health 
+of the overall system of free, local broadcast television 
+(nationally or in particular markets), the First Amend- 
+ment permits Congress to impose on all cable operators 
+a requirement of mandatory carriage of local broadcast 
+stations in preference to all other programmers. 
+
+
+(i) 
+
+
+ii iii 
+
+
+
+
+## Time Warner: separate content-based challenges
+
+VI. THE LOW POWER CARRIAGE OBLIGATIONS 
+AND MARKET MODIFICATION PROVISIONS 
+ARE CONTENT-BASED 
+
+
+This Court recognized in its earlier decision in this case 
+that two provisions within Section 4 of the Act may be 
+content-based, but reserved judgment so that the district court 
+could consider the issue first. 114 S. Ct. at 2460 n.6. The first 
+provision allows a low power broadcast station to qualify for 
+must-Carry in certain circumstances if the FCC determines, 
+among other things, that it “would address local news and 
+informational needs which are not being adequately served by 
+full power television broadcast stations”. 47 U.S.C. 
+§ 534(h)(2)(B). The second provision allows the FCC to alter 
+a television market to include a station, particularly where the 
+station “provides news coverage and issues of concern to such 
+community ... or coverage of sporting or other events of 
+interest to the community”. Jd. § 534(h)(1)(C)(ii)(III). On 
+remand, Plaintiffs argued that both provisions were content- 
+based restrictions on speech. Judge Sporkin upheld the first 
+on the ground that it was “viewpoint-neutral” and thus not 
+subject to strict scrutiny. J.S. 30a. He did not even address the 
+second provision. 
+
+
+Judge Sporkin was wrong to insist that strict scrutiny did 
+not apply (and wrong to ignore the market modification 
+provision entirely). As this Court’s precedents make clear, a 
+statute is content-based if it grants special rights to speakers 
+based on the type of speech they offer, regardless of the 
+viewpoint of that speech. Accordingly, the provisions at issue 
+here trigger strict scrutiny because they favor a particular type 
+of speech—for instance, local news and sports programming. 
+See, e.g., Arkansas Writers’ Project, Inc. v. Ragland, 481 U.S. 
+
+
+(E.D.N.Y. 1994); Sunbelt Television, Inc. v. Jones Intercable, Inc., 795 
+F. Supp. 333 (C.D. Cal. 1992); Aurora Cable Communications, Inc. v. 
+Jones Intercable, Inc., 720 F. Supp. 600 (W.D. Mich. 1989). 
+
+
+48 
+
+
+221, 229 (1987) (tax exemption of religious, professional, 
+trade and sports publications held content-based). Indeed, the 
+express terms of the statute plainly call for the FCC to make 
+content-related decisions when considering the eligibility of 
+low power stations for must-carry status and adjudicating 
+market modification petitions. The Government has never 
+articulated a compelling interest supporting either provision. 
+They must be stuck down. 
+
+
+Vil. 
+
+## Government: preservation objection
+
+Time Warner also contends (Br. 47-48) that the district court erred in 
+upholding the 1992 Cable Act’s separate must-carry provisions for low- 
+power broadcast stations. See 47 U.S.C. 534(c); J.S. App. 29a-30a. That 
+issue, too, was not presented in the jurisdictional statement and is 
+therefore not properly before the Court.

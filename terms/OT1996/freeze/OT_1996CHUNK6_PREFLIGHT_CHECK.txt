@@ -1,0 +1,24 @@
+DEFERRED GIT PROVENANCE CHECKS
+ - terms\OT1996\records\Abebe_Jira_v_Negewo_merits_1997-01-14.md: commit existence SKIPPED (not checked): 1056244
+ - terms\OT1996\records\Andrade_v_Mayfair_Management_Inc_merits_1997-02-26.md: commit existence SKIPPED (not checked): 1278633
+ - terms\OT1996\records\Atherton_v_FDIC_merits_1997-01-14.md: commit existence SKIPPED (not checked): cceeded
+ - terms\OT1996\records\Auer_v_Robbins_merits_1997-02-19.md: commit existence SKIPPED (not checked): A40385013
+ - terms\OT1996\records\California_v_Roy_summary_review_1996-11-04.md: commit existence SKIPPED (not checked): A40385013
+ - terms\OT1996\records\Department_of_State_v_Legal_Assistance_for_Vietnamese_Asylum_Seekers_post_grant_remand_1996-10-21.md: commit existence SKIPPED (not checked): A40385013
+ - terms\OT1996\records\Ehrlich_v_City_of_Culver_City_DIG_1997-02-18.md: commit existence SKIPPED (not checked): 9d5688a
+ - terms\OT1996\records\Ehrlich_v_City_of_Culver_City_DIG_1997-02-18.md: commit existence SKIPPED (not checked): 88d34e4
+ - terms\OT1996\records\Ehrlich_v_City_of_Culver_City_DIG_1997-02-18.md: commit existence SKIPPED (not checked): e0abdfd
+ - terms\OT1996\records\INS_v_Yueh_Shaio_Yang_merits_1996-11-13.md: commit existence SKIPPED (not checked): A40385013
+ - terms\OT1996\records\In_re_Gaydos_filing_and_writ_disposition_1996-12-02.md: commit existence SKIPPED (not checked): A40385014
+ - terms\OT1996\records\Lopez_v_Monterey_County_merits_1996-11-06.md: commit existence SKIPPED (not checked): A40385013
+ - terms\OT1996\records\Lynce_v_Mathis_threshold_1997-02-19.md: commit existence SKIPPED (not checked): 9d5688a
+ - terms\OT1996\records\Lynce_v_Mathis_threshold_1997-02-19.md: commit existence SKIPPED (not checked): 88d34e4
+ - terms\OT1996\records\Lynce_v_Mathis_threshold_1997-02-19.md: commit existence SKIPPED (not checked): e0abdfd
+ - terms\OT1996\records\Lynce_v_Mathis_threshold_1997-02-19.md: commit existence SKIPPED (not checked): A40385013
+ - terms\OT1996\records\Ohio_v_Robinette_merits_1996-11-18.md: commit existence SKIPPED (not checked): A40385013
+ - terms\OT1996\records\Uhlrig_v_Harder_merits_1997-02-18.md: commit existence SKIPPED (not checked): A40386007
+ - terms\OT1996\records\United_States_v_Brockamp_merits_1997-02-18.md: commit existence SKIPPED (not checked): A40385013
+ - terms\OT1996\records\Wright_v_MetroHealth_Medical_Center_merits_1997-03-03.md: commit existence SKIPPED (not checked): 1301712
+PASS: OT1996 non-Git checks. Git provenance remains unverified.
+
+Git commands executed: 0. Commit-existence requests skipped: 20; unique identifiers: 10.
