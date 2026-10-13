@@ -1,0 +1,21 @@
+{
+  "scope": "Young v. Harper only, #58, independent modeling; no comparator or current Stone position supplied",
+  "event_date": "1997-03-18",
+  "source_sha256": {
+    "freeze/OT_1996CHUNK5_NEUTRAL_B_PACKET.md": "a6173227d4b47de9c94a5f1c754efa0928eff8c7c4f0961d53a32a78f2f6860d",
+    "freeze/OT_1996CHUNK5_NEUTRAL_PREFLIGHT_TEN.md": "3dfe865b2d5e495eaf911acc7273d94a156770a90c055c4ff72df620c08816f4",
+    "entering-law/OT_1996CHUNK5_STANDARDS.md": "c570e08c2895c4b97c92245d07c415ca9444df78a7954d38972bf67b61df7788",
+    "freeze/OT_1996CHUNK5_YOUNG_SOURCE_VALIDATED.md": "4e6b176b014d2b90bf73e3f35ee5836070626b0e2fc89f8088626f97fdf1c480",
+    "entering-law/OT_1996CHUNK5_58-YOUNG.md": "a0e14fe2124461a942d0ac828d39406e6100e93fc3c3ba686e18307d179e2539",
+    "entering-law/OT_1996CHUNK5_58-YOUNG_CURRENT.md": "8ca6f967f931501a56ab96e3063a68a686b8c03ba482e7c8377fcc6338efcdfd"
+  },
+  "selected_young_packet_sha256": "3bfa59ae6fef853a770b641530b81ca257de5782a076d7942050ba902cba8aca",
+  "selected_sandin_standard_sha256": "f7bd4f7afef982d40cc1a9c1e4635042471d10e4f3e4ec43dff36d76633d4ac5",
+  "neutral_handoff_sha256": "ccd85c35de5b8c7797872c7d1d6bab79d2a5bbd2c5fb750477025c276c19a0f4",
+  "qualified_record": "Use apparently uneventful months, simultaneous parole recommendation, original rules silence about later denial, later August 1991 procedure, and expressly accepted late rehearing exactly as validated.",
+  "scope_incidents": [
+    "An initial erroneous section regex displayed earlier neutral B matters and adjacent preflight rows, but no current Stone, comparator, prior Young draft, or excluded Young outcome. Exact heading offsets were then used.",
+    "The expressly authorized CURRENT slice includes the prior published Lynce Chief Justice concurrence. It supplies no Young position and was not used for Young modeling; governing Lynce threshold law is separately identified."
+  ],
+  "no_git_operations": true
+}

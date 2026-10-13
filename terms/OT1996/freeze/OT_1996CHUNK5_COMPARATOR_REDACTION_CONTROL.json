@@ -1,0 +1,8 @@
+{
+  "input": "terms\\OT1996\\runtime\\OT_1996CHUNK5_COMPARATOR.md",
+  "input_sha256": "a99cfcd8c3b7a47cb4c93441c13f60d93575034a0f21ec6e4017cef85edc3dc6",
+  "output": "terms\\OT1996\\tmp\\OT_1996CHUNK5_COMPARATOR_REDACTED.md",
+  "output_sha256": "582a7cd4155507b7f70fb8e65ba9d643d27c86c0faff61ead0fa5f9845224feb",
+  "operation": "Delete one sentence disclosing current private Stone proposal from Rhone lower-court comparator paragraph. No comparator judgment/reasoning/lineup altered; runtime untouched.",
+  "reason": "Physical separation of reconciliation from Stone under Engine section 3.C."
+}

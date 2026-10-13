@@ -1,0 +1,60 @@
+{
+  "scope": "Current-Run assembly validation before generated chunk handoff; not a correction of a prior completed event.",
+  "prevalidation_sha256": "26523be396f3e9e4c57bf8f4f3f957fa4d59df3f7f0fdd386343c35469955be9",
+  "final_sha256": "c3c4bbb385ac38011e1a5cb487e2f6fa88c5541bd5471ce0294e3e78f2fcd81c",
+  "record": "Warner_Jenkinson_Co_v_Hilton_Davis_Chemical_Co_merits_1997-03-03.md",
+  "draft_preserved": "tmp/WARNER_PREVALIDATION_JOIN_DRAFT.md",
+  "changes": [
+    {
+      "old": "**Version / lineage:** Initial adjudication; supersedes no completed event. Repository verification and commit are reserved to the operator under the no-Git instruction.",
+      "new": "**Version / lineage:** Initial adjudication, completed through current-Run assembly validation; supersedes no prior completed event. Validation removed an unsupported Chief Justice join on objective intent before the chunk handoff, preserving his express reservation and leaving judgment, author and operative Court rule unchanged. The local validation receipt preserves the prevalidation draft hash. Git verification and repository commit remain reserved to the operator.",
+      "occurrences": 1
+    },
+    {
+      "old": "All nine support reversal/remand and join every governing proposition. No separate writing or judgment-only vote is needed at the final common scope.",
+      "new": "All nine support reversal/remand. The eight Associates join the whole opinion; Stone joins all governing propositions except the statement that bad intent is unnecessary, which he expressly reserves. His concurrence in part and in the judgment records that limit. Every governing proposition retains a direct majority.",
+      "occurrences": 1
+    },
+    {
+      "old": "His fixed core reserves a categorical foreseeable-but-unclaimed-substitute bar and broader unnecessary allocation questions. He joins the full opinion without a fallback or new choice.",
+      "new": "His fixed core reserves a categorical foreseeable-but-unclaimed-substitute bar, broader unnecessary allocation questions, and intent-based infringement. The last reservation is preserved as a withheld join to the objective-intent proposition; no source narrows it to willfulness, enhanced damages or a separate claim. He joins the rest of the opinion and the judgment. The standing fallback cannot supply a reason on an expressly reserved issue and is unused. No new Stone choice is invented.",
+      "occurrences": 1
+    },
+    {
+      "old": "Each final join is full. No Associate commitment changes",
+      "new": "Each Associate final join is full. No Associate commitment changes",
+      "occurrences": 1
+    },
+    {
+      "old": "one signed plenary opinion, with the old-prosecution caution in the common explanation, no separate writing and one reversal/remand.",
+      "new": "one signed plenary opinion, with the old-prosecution caution in the common explanation, a limited Chief Justice concurrence preserving his intent reservation, and one reversal/remand.",
+      "occurrences": 1
+    },
+    {
+      "old": "Eligible authors, each supporting every governing proposition in full: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. Minimum eligible count: 3. Balance pool: Stone-Zsela, Stevens, Scalia, Kennedy, Thomas, Ginsburg, Breyer. The Chief joins the judgment coalition and assigns Ginsburg. Ginsburg supplies the precise old-prosecution accommodation on which her and Kennedy's full joins depend: consider whether a further opportunity is proper without eliminating the patentee burden or requiring automatic reopening. Her authorship offers a concrete advantage in expressing that qualification faithfully while carrying the other seven enforceable-boundary positions. Stone, at count 3, is the strongest alternative for separating the legal estoppel gate from factual infringement; Breyer, also at 3, supports practical consideration. Both can write the rule, but Ginsburg's recorded objection defines the exact accommodation and makes her the preferred expansion author within the pool despite one additional prior lead. The accommodation changes no substantive rule or vote through authorship.",
+      "new": "Eligible authors, each supporting every governing proposition in full: Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Stone's express intent reservation makes him ineligible to deliver this entire opinion; his judgment membership still makes him the assigner. Minimum eligible count: 3. Balance pool: Stevens, Scalia, Kennedy, Thomas, Ginsburg and Breyer. The Chief assigns Ginsburg. She supplies the precise old-prosecution accommodation on which her and Kennedy's full joins depend: consider whether a further opportunity is proper without eliminating the patentee burden or requiring automatic reopening. Her authorship offers a concrete advantage in stating that qualification faithfully with the enforceable claim boundary. Breyer, at count 3, is the strongest eligible alternative because his frozen practical reservation also supports fair consideration of an old prosecution record. Ginsburg's recorded objection defines the exact accommodation and supports the rebuttable expansion preference within the pool despite her one additional prior lead. Stone can carry the other propositions but cannot be compared as an eligible whole-opinion author by disregarding his reservation. The opinion is not divided because eight eligible authors can carry the whole.\n\nCurrent-Run final validation corrected the earlier draft's attribution of the intent proposition to Stone. Recounting the same actual preceding opinion tables gives the unchanged counts above, and Ginsburg remains within the corrected eligible pool. Her assignment, delivered scope and credit remain unchanged; no author lost the necessary coalition and no reassignment is made. The eight Associates' frozen commitments, their controlling intent rule and every judgment vote remain unchanged. This correction requires no new non-Stone commitment or historical-reconciliation ground. The [validation receipt](../freeze/OT_1996CHUNK5_WARNER_JOIN_VALIDATION.json) identifies the draft and final hashes; no prior completed Record is altered.",
+      "occurrences": 1
+    },
+    {
+      "old": "Justice Ginsburg's Opinion of the Court is joined in full by the other eight participating Justices. All three holdings below, including the contextual treatment of older prosecution records, command nine votes.",
+      "new": "Justice Ginsburg's Opinion of the Court is joined in full by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer. Stone-Zsela joins all propositions except the statement that bad intent is not an element, which therefore has eight direct joins; he reserves that issue. Every other proposition below, including the contextual treatment of older prosecution records, has nine direct joins.",
+      "occurrences": 2
+    },
+    {
+      "old": "No separate writing is published.",
+      "new": "Chief Justice Stone-Zsela concurs in part and in the judgment. He joins the Court's opinion except its statement that bad intent is not an element of infringement under the doctrine of equivalents. He reserves intent-based infringement and supports the element-specific remand and the patentee's explanatory burden without deciding that issue. No other Justice joins this reservation.",
+      "occurrences": 2
+    },
+    {
+      "old": "| Opinion of the Court | Ginsburg | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer | Entire opinion, including the contextual old-prosecution qualification, and judgment. |",
+      "new": "| Opinion of the Court | Ginsburg | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer in full; Stone-Zsela except the objective-intent proposition | Eight direct joins on objective intent; nine on all other propositions, including the old-prosecution qualification, and the judgment. |\n| Concurrence in part and in the judgment | Stone-Zsela | No other Justice | Reserves intent-based infringement; joins the rest of the Court's opinion and the remand. |",
+      "occurrences": 1
+    }
+  ],
+  "judgment": "9-0 reverse/remand unchanged",
+  "author": "Ginsburg unchanged",
+  "court_intent_rule": "Eight Associate joins unchanged",
+  "chief": "Express reservation preserved; no fallback",
+  "counts": "All preceding and downstream lead-author credits unchanged",
+  "git": "No Git command or verification"
+}

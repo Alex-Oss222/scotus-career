@@ -1,0 +1,3 @@
+LOCAL NON-GIT CHECKS PASSED: OT1996; 0 warning(s)
+DEFERRED: Git object existence checks for 10 distinct referenced identifiers; no Git command ran and no Git verification or commitment is claimed.
+The checker does not require output renders for newly generated Render Inputs; Render is a separate task.

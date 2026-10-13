@@ -1,0 +1,96 @@
+
+
+ United States v. Gonzales, 520 U.S. 1 (1997).
+
+LII
+
+Supreme Court
+
+United States v. Gonzales (95-1605), 520 U.S. 1 (1997).
+
+Opinion 
+ [ O'Connor ]Syllabus 
+ Dissent 
+ [ Stevens ]Dissent 
+ [ Breyer ]
+
+HTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect version
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See United States v. Detroit Timber & Lumber
+ Co., 200
+ U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+Syllabus
+
+UNITED STATES
+ v. 
+GONZALES
+ et al.
+
+certiorari to the united states
+ court of appeals for the tenth circuit
+
+No. 95-1605.
+ Argued December 11, 1996 -- Decided
+ March 3, 1997
+
+All three respondents were convicted in New Mexico courts and sentenced
+ to prison terms on state charges arising from the use of guns by two of
+ them to hold up undercover officers during a drug sting operation. After
+ they began to serve their state sentences, respondents were convicted on
+ various drug and related federal charges connected to the sting operation,
+ and of using firearms during those crimes in violation of 18
+ U.S.C. § 924(c). In ordering their imprisonment, the District
+ Court directed that the portion of their federal sentences attributable
+ to the drug convictions run concurrently with their state sentences, with
+ the remaining 60 month sentences required by §924(c) to run consecutively
+ to both. Among other rulings, the Tenth Circuit vacated the firearms sentences
+ on the ground that they should have run concurrently with the state prison
+ terms. The court found §924(c)'s language to be ambiguous, resorted
+ to the legislative history, and held that a §924(c) sentence may run
+ concurrently with a previously imposed, already operational state sentence,
+ but not with another federal sentence.
+
+Held: Section §924(c)'s
+ plain language--i.e., "the sentence . . . under this subsection
+ [shall not] run concurrently with any other term of imprisonment"
+ (emphasis added)--forbids a federal district court to direct that the section's
+ mandatory 5 year firearms sentence run concurrently with any other prison
+ term, whether state or federal. Read naturally, the section's word "any"
+ has an expansive meaning that is not limited to federal sentences, and
+ so must be interpreted as referring to all "term[s] of imprisonment," including
+ those imposed by state courts. Cf., e.g., United States v. Alvarez
+ Sanchez, 511
+ U.S. 350, 358. Unlike the Tenth Circuit, this Court sees nothing remarkable
+ (much less ambiguous) about Congress' decision, in drafting §924(c),
+ to prohibit concurrent sentences instead of simply mandating consecutive
+ ones. Moreover, given the straightforward statutory command, there is no
+ reason to resort to legislative history. Connecticut Nat. Bank v.
+ Germain, 503
+ U.S. 249, 254. Indeed, the legislative history excerpt relied upon
+ by the Tenth Circuit only muddies the waters. Contrary to that court's
+ interpretation, §924(c)'s prohibition applies only to the section's
+ mandatory firearms sentence, and does not limit a district court's normal
+ authority under §3584(a) to order that other federal sentences run
+ concurrently with or consecutively to other state or federal prison terms.
+ Pp. 3-10.
+
+65 F. 3d 814,
+ vacated and remanded.
+
+O'Connor, J., delivered the
+ opinion of the Court, in which Rehnquist, C. J., and Scalia, Kennedy, Souter,
+ Thomas, and Ginsburg, JJ., joined. Stevens, J., filed a dissenting opinion,
+ in which Breyer, J., joined. Breyer, J., filed a dissenting opinion, in
+ which Stevens, J., joined.
+

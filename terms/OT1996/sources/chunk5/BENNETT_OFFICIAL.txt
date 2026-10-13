@@ -1,0 +1,1210 @@
+154
+OCTOBER TERM, 1996
+Syllabus
+BENNETT et al. v. SPEAR et al.
+certiorari to the united states court of appeals for
+the ninth circuit
+No. 95–813.
+Argued November 13, 1996—Decided March 19, 1997
+The Endangered Species Act of 1973 (ESA) requires the Secretary of the
+Interior to specify animal species that are “threatened” or “endangered”
+and designate their “critical habitat,” 16 U. S. C. §1533, and requires
+federal agencies to ensure that any action they authorize, fund, or carry
+out is not likely to jeopardize a listed species or adversely modify its
+critical habitat, §1536(a)(2).
+If an agency determines that a proposed
+action may adversely affect such a species, it must formally consult with
+the Fish and Wildlife Service, which must provide it with a written
+statement (the Biological Opinion) explaining how the proposed action
+will affect the species or its habitat.
+§1536(b)(3)(A).
+If the Service
+concludes that such action will result in jeopardy or adverse habitat
+modiﬁcation, §1536(a)(2), the Biological Opinion must outline any “rea-
+sonable and prudent alternatives” that the Service believes will avoid
+that consequence, §1536(b)(3)(A).
+If the Biological Opinion concludes
+that no jeopardy or adverse habitat modiﬁcation will result, or if it offers
+reasonable and prudent alternatives, the Service must issue a written
+statement (known as the Incidental Take Statement) specifying the
+terms and conditions under which an agency may take the species.
+§1536(b)(4).
+After the Bureau of Reclamation notiﬁed the Service that
+the operation of the Klamath Irrigation Project might affect two endan-
+gered species of ﬁsh, the Service issued a Biological Opinion, concluding
+that the proposed long-term operation of the project was likely to jeop-
+ardize the species and identifying as a reasonable and prudent alterna-
+tive the maintenance of minimum water levels on certain reservoirs.
+The Bureau notiﬁed the Service that it would operate the project in
+compliance with the Biological Opinion.
+Petitioners, irrigation districts
+receiving project water and operators of ranches in those districts, ﬁled
+this action against respondents, the Service’s director and regional di-
+rectors and the Secretary, claiming that the jeopardy determination and
+imposition of minimum water levels violated §1536, and constituted an
+implicit critical habitat determination for the species in violation of
+§1533(b)(2)’s requirement that the designation’s economic impact be con-
+sidered.
+They also claimed that the actions violated the Administrative
+Procedure Act (APA), which prohibits agency actions that are arbitrary,
+capricious, an abuse of discretion, or otherwise not in accordance with
+
+155
+Cite as: 520 U. S. 154 (1997)
+Syllabus
+law.
+5 U. S. C. §706(2)(A).
+The District Court dismissed the com-
+plaint, concluding that petitioners lacked standing because they asserted
+“recreational, aesthetic, and commercial interests” that did not fall
+within the zone of interests sought to be protected by the ESA.
+The
+Court of Appeals afﬁrmed, holding that the “zone of interests” test—
+which requires that a plaintiff’s grievance arguably fall within the zone
+of interests protected or regulated by the statutory provision or consti-
+tutional guarantee invoked in the suit—limits the class of persons who
+may obtain judicial review not only under the APA, but also under the
+ESA’s citizen-suit provision, 16 U. S. C. §1540(g); and that only plaintiffs
+alleging an interest in the preservation of endangered species fall
+within the zone of interests protected by the ESA.
+Held: Petitioners have standing to seek judicial review of the Biological
+Opinion.
+Pp. 161–179.
+(a) The Court of Appeals erred in concluding that petitioners lacked
+standing under the zone-of-interests test to bring their claims under the
+ESA’s citizen-suit provision.
+The test is a prudential standing require-
+ment of general application, see, e. g., Allen v. Wright, 468 U. S. 737, 751,
+that applies unless expressly negated by Congress.
+By providing that
+“any person may commence a civil suit,” §1540(g)(1) negates the test.
+The quoted phrase is an authorization of remarkable breadth when
+compared with the language Congress ordinarily uses.
+The Court’s
+readiness to take the term “any person” at face value is greatly aug-
+mented by the interrelated considerations that the legislation’s overall
+subject matter is the environment and that §1540(g)’s obvious purpose
+is to encourage enforcement by so-called “private attorneys general.”
+See Trafﬁcante v. Metropolitan Life Ins. Co., 409 U. S. 205, 210–211.
+The “any person” formulation applies to all §1540(g) causes of action,
+including actions against the Secretary asserting overenforcement
+of §1533; there is no textual basis for saying that the formulation’s
+expansion of standing requirements applies to environmentalists alone.
+Pp. 161–166.
+(b) Three alternative grounds advanced by the Government—(1) that
+petitioners fail to meet Article III standing requirements; (2) that
+§1540(g) does not authorize judicial review of the types of claims peti-
+tioners advanced; and (3) that judicial review is unavailable under the
+APA—do not support afﬁrmance.
+Petitioners’ complaint alleges an in-
+jury in fact that is fairly traceable to the Biological Opinion and redress-
+able by a favorable judicial ruling and, thus, meets Article III standing
+requirements at this stage of the litigation.
+Their §1533 claim is clearly
+reviewable under §1540(g)(1)(C), which authorizes suit against the Sec-
+retary for an alleged failure to perform any nondiscretionary act or duty
+
+156
+BENNETT v. SPEAR
+Syllabus
+under §1533.
+Their §1536 claims are obviously not reviewable under
+subsection (C), however.
+Nor are they reviewable under subsection
+(A), which authorizes injunctive actions against any person “who is al-
+leged to be in violation” of the ESA or its regulations.
+Viewed in the
+context of the entire statute, subsection (A)’s reference to any ESA
+“violation” cannot be interpreted to include the Secretary’s maladminis-
+tration of the Act.
+The §1536 claims are nonetheless reviewable under
+the APA.
+The ESA does not preclude such review, and the claim that
+petitioners will suffer economic harm because of an erroneous jeopardy
+determination is plainly within the zone of interests protected by §1536,
+the statutory provision whose violation forms the basis for the com-
+plaint, see Lujan v. National Wildlife Federation, 497 U. S. 871.
+In
+addition, the Biological Opinion constitutes ﬁnal agency action for APA
+purposes.
+It marks the consummation of the agency’s decisionmaking
+process, Chicago & Southern Air Lines, Inc. v. Waterman S. S. Corp.,
+333 U. S. 103, 113.
+It is also an action from which “legal consequences
+will ﬂow,” Port of Boston Marine Terminal Assn. v. Rederiaktiebolaget
+Transatlantic, 400 U. S. 62, 71, because the Biological Opinion and ac-
+companying Incidental Take Statement alter the legal regime to which
+the Bureau is subject, authorizing it to take the endangered species if
+(but only if) it complies with the prescribed conditions.
+Franklin v.
+Massachusetts, 505 U. S. 788, and Dalton v. Specter, 511 U. S. 462, distin-
+guished.
+Pp. 166–179.
+63 F. 3d 915, reversed and remanded.
+Scalia, J., delivered the opinion for a unanimous Court.
+Gregory K. Wilkinson argued the cause for petitioners.
+With him on the briefs was William F. Schroeder.
+Deputy Solicitor General Kneedler argued the cause for
+respondents.
+With him on the brief were Acting Solicitor
+General Dellinger, Assistant Attorney General Schiffer,
+Malcolm L. Stewart, Anne S. Almy, Robert L. Klarquist,
+and Evelyn S. Ying.*
+*Briefs of amici curiae urging reversal were ﬁled for the State of Cali-
+fornia et al. by Daniel E. Lungren, Attorney General of California, Rod-
+erick E. Walston, Chief Assistant Attorney General, Charles W. Getz IV,
+Assistant Attorney General, and Linus Masouredis, Deputy Attorney
+General, and by the Attorneys General for their respective States as
+follows: Bruce M. Botelho of Alaska, Grant Woods of Arizona, Winston
+Bryant of Arkansas, Gale A. Norton of Colorado, Margery S. Bronster of
+
+157
+Cite as: 520 U. S. 154 (1997)
+Opinion of the Court
+Justice Scalia delivered the opinion of the Court.
+This is a challenge to a biological opinion issued by the
+Fish and Wildlife Service in accordance with the Endangered
+Species Act of 1973 (ESA), 87 Stat. 884, as amended, 16
+U. S. C. §1531 et seq., concerning the operation of the Kla-
+math Irrigation Project by the Bureau of Reclamation, and
+the project’s impact on two varieties of endangered ﬁsh.
+The question for decision is whether the petitioners, who
+have competing economic and other interests in Klamath
+Project water, have standing to seek judicial review of the
+biological opinion under the citizen-suit provision of the
+ESA, §1540(g)(1), and the Administrative Procedure Act
+(APA), 80 Stat. 392, as amended, 5 U. S. C. §701 et seq.
+I
+The ESA requires the Secretary of the Interior to promul-
+gate regulations listing those species of animals that are
+“threatened” or “endangered” under speciﬁed criteria, and
+Hawaii, Alan G. Lance of Idaho, Carla J. Stovall of Kansas, Jeremiah W.
+Nixon of Missouri, Joseph P. Mazurek of Montana, Don Stenberg of Ne-
+braska, Betty D. Montgomery of Ohio, Jan Graham of Utah, and Darrell
+V. McGraw, Jr., of West Virginia; for the State of Texas by Dan Morales,
+Attorney General, Jorge Vega, First Assistant Attorney General, and Ja-
+vier P. Guajardo and Sam Goodhope, Special Assistant Attorneys Gen-
+eral; for the American Farm Bureau Federation et al. by Timothy S.
+Bishop, Michael F. Rosenblum, John J. Rademacher, Richard L. Krause,
+and Nancy N. McDonough; for the American Forest & Paper Association
+et al. by Steven P. Quarles, Clifton S. Elgarten, Thomas R. Lundquist,
+and William R. Murray; for the American Homeowners Foundation et al.
+by Nancie G. Marzulla; for the Association of California Water Agencies
+et al. by Thomas W. Birmingham, Clifford W. Schulz, Janet K. Goldsmith,
+and William T. Chisum; for the National Association of Home Builders of
+the United States et al. by Glen Franklin Koontz, Thomas C. Jackson,
+and Nick Cammarota; for the Nationwide Public Projects Coalition et al.
+by Lawrence R. Liebesman and Kenneth S. Kamlet; for the Paciﬁc Legal
+Foundation et al. by Robin L. Rivett and M. Reed Hopper; and for the
+Washington Legal Foundation et al. by Daniel J. Popeo, Paul D. Kamenar,
+and Craig S. Harrison.
+
+158
+BENNETT v. SPEAR
+Opinion of the Court
+to designate their “critical habitat.”
+16 U. S. C. §1533.
+The ESA further requires each federal agency to “insure
+that any action authorized, funded, or carried out by such
+agency . . . is not likely to jeopardize the continued existence
+of any endangered species or threatened species or result in
+the destruction or adverse modiﬁcation of habitat of such
+species which is determined by the Secretary . . . to be criti-
+cal.”
+§1536(a)(2).
+If an agency determines that action it
+proposes to take may adversely affect a listed species, it
+must engage in formal consultation with the Fish and Wild-
+life Service, as delegate of the Secretary, ibid.; 50 CFR
+§402.14 (1995), after which the Service must provide the
+agency with a written statement (the Biological Opinion) ex-
+plaining how the proposed action will affect the species or
+its habitat, 16 U. S. C. §1536(b)(3)(A).
+If the Service con-
+cludes that the proposed action will “jeopardize the contin-
+ued existence of any [listed] species or threatened species or
+result in the destruction or adverse modiﬁcation of [critical
+habitat],” §1536(a)(2), the Biological Opinion must outline
+any “reasonable and prudent alternatives” that the Service
+believes will avoid that consequence, §1536(b)(3)(A).
+Addi-
+tionally, if the Biological Opinion concludes that the agency
+action will not result in jeopardy or adverse habitat modiﬁ-
+cation, or if it offers reasonable and prudent alternatives to
+avoid that consequence, the Service must provide the agency
+with a written statement (known as the Incidental Take
+Statement) specifying the “impact of such incidental taking
+on the species,” any “reasonable and prudent measures that
+the [Service] considers necessary or appropriate to minimize
+such impact,” and setting forth “the terms and conditions . . .
+that must be complied with by the Federal agency . . . to
+implement [those measures].”
+§1536(b)(4).
+The Klamath Project, one of the oldest federal reclamation
+schemes, is a series of lakes, rivers, dams, and irrigation
+canals in northern California and southern Oregon.
+The
+project was undertaken by the Secretary of the Interior
+
+159
+Cite as: 520 U. S. 154 (1997)
+Opinion of the Court
+pursuant to the Reclamation Act of 1902, 32 Stat. 388, as
+amended, 43 U. S. C. §371 et seq., and the Act of Feb. 9, 1905,
+33 Stat. 714, and is administered by the Bureau of Reclama-
+tion, which is under the Secretary’s jurisdiction.
+In 1992,
+the Bureau notiﬁed the Service that operation of the project
+might affect the Lost River Sucker (Deltistes luxatus) and
+Shortnose Sucker (Chasmistes brevirostris), species of ﬁsh
+that were listed as endangered in 1988, see 53 Fed. Reg.
+27130–27133 (1988).
+After formal consultation with the Bu-
+reau in accordance with 50 CFR §402.14 (1995), the Service
+issued a Biological Opinion which concluded that the “ ‘long-
+term operation of the Klamath Project was likely to jeopar-
+dize the continued existence of the Lost River and shortnose
+suckers.’ ”
+App. to Pet. for Cert. 3.
+The Biological Opinion
+identiﬁed “reasonable and prudent alternatives” the Service
+believed would avoid jeopardy, which included the mainte-
+nance of minimum water levels on Clear Lake and Gerber
+reservoirs.
+The Bureau later notiﬁed the Service that it
+intended to operate the project in compliance with the Bio-
+logical Opinion.
+Petitioners, two Oregon irrigation districts that receive
+Klamath Project water and the operators of two ranches
+within those districts, ﬁled the present action against the
+director and regional director of the Service and the Secre-
+tary of the Interior.
+Neither the Bureau nor any of its ofﬁ-
+cials is named as defendant.
+The complaint asserts that the
+Bureau “has been following essentially the same procedures
+for storing and releasing water from Clear Lake and Gerber
+reservoirs throughout the twentieth century,” id., at 36; that
+“[t]here is no scientiﬁcally or commercially available evidence
+indicating that the populations of endangered suckers in
+Clear Lake and Gerber reservoirs have declined, are declin-
+ing, or will decline as a result” of the Bureau’s operation of
+the Klamath Project, id., at 37; that “[t]here is no commer-
+cially or scientiﬁcally available evidence indicating that the
+restrictions on lake levels imposed in the Biological Opinion
+
+160
+BENNETT v. SPEAR
+Opinion of the Court
+will have any beneﬁcial effect on the . . . populations of suck-
+ers in Clear Lake and Gerber reservoirs,” id., at 39; and that
+the Bureau nonetheless “will abide by the restrictions im-
+posed by the Biological Opinion,” id., at 32.
+Petitioners’ complaint included three claims for relief that
+are relevant here.
+The ﬁrst and second claims allege that
+the Service’s jeopardy determination with respect to Clear
+Lake and Gerber reservoirs, and the ensuing imposition of
+minimum water levels, violated §7 of the ESA, 16 U. S. C.
+§1536.
+The third claim is that the imposition of minimum
+water elevations constituted an implicit determination of
+critical habitat for the suckers, which violated §4 of the
+ESA, 16 U. S. C. §1533(b)(2), because it failed to take into
+consideration the designation’s economic impact.1
+Each of
+the claims also states that the relevant action violated the
+APA’s prohibition of agency action that is “arbitrary, capri-
+cious, an abuse of discretion, or otherwise not in accordance
+with law.”
+5 U. S. C. §706(2)(A).
+The complaint asserts that petitioners’ use of the reser-
+voirs and related waterways for “recreational, aesthetic and
+commercial purposes, as well as for their primary sources of
+irrigation water,” will be “irreparably damaged” by the ac-
+tions complained of, App. to Pet. for Cert. 34, and that the
+restrictions on water delivery “recommended” by the Biolog-
+ical Opinion “adversely affect plaintiffs by substantially re-
+ducing the quantity of available irrigation water,” id., at 40.
+In essence, petitioners claim a competing interest in the
+water the Biological Opinion declares necessary for the pres-
+ervation of the suckers.
+The District Court dismissed the complaint for lack of
+jurisdiction.
+It concluded that petitioners did not have
+1 Petitioners also raised a fourth claim: that the de facto designation of
+critical habitat violated the National Environmental Policy Act of 1969, 83
+Stat. 853, as amended, 42 U. S. C. §4332(2)(C), because it was not preceded
+by preparation of an environmental assessment.
+The Court of Appeals’
+dismissal of that claim has not been challenged.
+
+161
+Cite as: 520 U. S. 154 (1997)
+Opinion of the Court
+standing because their “recreational, aesthetic, and commer-
+cial interests . . . do not fall within the zone of interests
+sought to be protected by ESA.”
+Id., at 28.
+The Court of
+Appeals for the Ninth Circuit afﬁrmed.
+Bennett v. Plenert,
+63 F. 3d 915 (1995).
+It held that the “zone of interests” test
+limits the class of persons who may obtain judicial review
+not only under the APA, but also under the citizen-suit provi-
+sion of the ESA, 16 U. S. C. §1540(g), and that “only plaintiffs
+who allege an interest in the preservation of endangered
+species fall within the zone of interests protected by the
+ESA,” 63 F. 3d, at 919 (emphasis in original).
+We granted
+certiorari.
+517 U. S. 1102 (1996).
+In this Court, petitioners raise two questions: ﬁrst,
+whether the prudential standing rule known as the “zone of
+interests” test applies to claims brought under the citizen-
+suit provision of the ESA; and second, if so, whether petition-
+ers have standing under that test notwithstanding that the
+interests they seek to vindicate are economic rather than
+environmental.
+In this Court, the Government has made no
+effort to defend the reasoning of the Court of Appeals.
+In-
+stead, it advances three alternative grounds for afﬁrmance:
+(1) that petitioners fail to meet the standing requirements
+imposed by Article III of the Constitution; (2) that the ESA’s
+citizen-suit provision does not authorize judicial review of
+the types of claims advanced by petitioners; and (3) that judi-
+cial review is unavailable under the APA because the Biolog-
+ical Opinion does not constitute ﬁnal agency action.
+II
+We ﬁrst turn to the question the Court of Appeals found
+dispositive: whether petitioners lack standing by virtue of
+the zone-of-interests test.
+Although petitioners contend
+that their claims lie both under the ESA and the APA, we
+look ﬁrst at the ESA because it may permit petitioners to
+recover their litigation costs, see 16 U. S. C. §1540(g)(4), and
+because the APA by its terms independently authorizes re-
+
+162
+BENNETT v. SPEAR
+Opinion of the Court
+view only when “there is no other adequate remedy in a
+court,” 5 U. S. C. §704.
+The question of standing “involves both constitutional lim-
+itations on federal-court jurisdiction and prudential limita-
+tions on its exercise.”
+Warth v. Seldin, 422 U. S. 490, 498
+(1975) (citing Barrows v. Jackson, 346 U. S. 249 (1953)).
+To
+satisfy the “case” or “controversy” requirement of Article
+III, which is the “irreducible constitutional minimum” of
+standing, a plaintiff must, generally speaking, demonstrate
+that he has suffered “injury in fact,” that the injury is “fairly
+traceable” to the actions of the defendant, and that the injury
+will likely be redressed by a favorable decision.
+Lujan v.
+Defenders of Wildlife, 504 U. S. 555, 560–561 (1992); Valley
+Forge Christian College v. Americans United for Separa-
+tion of Church and State, Inc., 454 U. S. 464, 471–472 (1982).
+In addition to the immutable requirements of Article III,
+“the federal judiciary has also adhered to a set of prudential
+principles that bear on the question of standing.”
+Id., at
+474–475.
+Like their constitutional counterparts, these “ju-
+dicially self-imposed limits on the exercise of federal jurisdic-
+tion,” Allen v. Wright, 468 U. S. 737, 751 (1984), are “founded
+in concern about the proper—and properly limited—role of
+the courts in a democratic society,” Warth, supra, at 498; but
+unlike their constitutional counterparts, they can be modiﬁed
+or abrogated by Congress, see 422 U. S., at 501.
+Numbered
+among these prudential requirements is the doctrine of par-
+ticular concern in this case: that a plaintiff’s grievance must
+arguably fall within the zone of interests protected or regu-
+lated by the statutory provision or constitutional guarantee
+invoked in the suit.
+See Allen, supra, at 751; Valley Forge,
+supra, at 474–475.
+The “zone of interests” formulation was ﬁrst employed in
+Association of Data Processing Service Organizations, Inc.
+v. Camp, 397 U. S. 150 (1970).
+There, certain data proces-
+sors sought to invalidate a ruling by the Comptroller of the
+Currency authorizing national banks to sell data processing
+
+163
+Cite as: 520 U. S. 154 (1997)
+Opinion of the Court
+services on the ground that it violated, inter alia, §4 of the
+Bank Service Corporation Act of 1962, 76 Stat. 1132, which
+prohibited bank service corporations from engaging in “any
+activity other than the performance of bank services for
+banks.”
+The Court of Appeals had held that the banks’
+data-processing competitors were without standing to chal-
+lenge the alleged violation of §4.
+In reversing, we stated
+the
+applicable
+prudential
+standing
+requirement
+to
+be
+“whether the interest sought to be protected by the com-
+plainant is arguably within the zone of interests to be pro-
+tected or regulated by the statute or constitutional guar-
+antee in question.”
+Data Processing, supra, at 153.
+Data
+Processing, and its companion case, Barlow v. Collins, 397
+U. S. 159 (1970), applied the zone-of-interests test to suits
+under the APA, but later cases have applied it also in suits
+not involving review of federal administrative action, see
+Dennis v. Higgins, 498 U. S. 439, 449 (1991); Boston Stock
+Exchange v. State Tax Comm’n, 429 U. S. 318, 320–321, n. 3
+(1977); see also Note, A Defense of the “Zone of Interests”
+Standing Test, 1983 Duke L. J. 447, 455–456, and nn. 40–49
+(1983) (cataloging lower court decisions), and have speciﬁ-
+cally listed it among other prudential standing requirements
+of general application, see, e. g., Allen, supra, at 751; Valley
+Forge, supra, at 474–475.
+We have made clear, however,
+that the breadth of the zone of interests varies according
+to the provisions of law at issue, so that what comes within
+the zone of interests of a statute for purposes of obtaining
+judicial review of administrative action under the “ ‘generous
+review provisions’ ” of the APA may not do so for other pur-
+poses, Clarke v. Securities Industry Assn., 479 U. S. 388,
+400, n. 16 (1987) (quoting Data Processing, supra, at 156).
+Congress legislates against the background of our pruden-
+tial standing doctrine, which applies unless it is expressly
+negated.
+See Block v. Community Nutrition Institute, 467
+U. S. 340, 345–348 (1984).
+Cf. Associated Gen. Contractors
+of Cal., Inc. v. Carpenters, 459 U. S. 519, 532–533, and n. 28
+
+164
+BENNETT v. SPEAR
+Opinion of the Court
+(1983).
+The ﬁrst question in the present case is whether the
+ESA’s citizen-suit provision, set forth in pertinent part in the
+margin,2 negates the zone-of-interests test (or, perhaps more
+accurately, expands the zone of interests).
+We think it does.
+The ﬁrst operative portion of the provision says that “any
+person may commence a civil suit”—an authorization of re-
+markable breadth when compared with the language Con-
+2 “(1) Except as provided in paragraph (2) of this subsection any person
+may commence a civil suit on his own behalf—
+“(A) to enjoin any person, including the United States and any other
+governmental instrumentality or agency (to the extent permitted by the
+eleventh amendment to the Constitution), who is alleged to be in violation
+of any provision of this chapter or regulation issued under the authority
+thereof; or
+.
+.
+.
+.
+.
+“(C) against the Secretary where there is alleged a failure of the Secre-
+tary to perform any act or duty under section 1533 of this title which is
+not discretionary with the Secretary.
+“The district courts shall have jurisdiction, without regard to the amount
+in controversy or the citizenship of the parties, to enforce any such provi-
+sion or regulation, or to order the Secretary to perform such act or duty,
+as the case may be. . . .
+“(2)(A) No action may be commenced under subparagraph (1)(A) of
+this section—
+“(i) prior to sixty days after written notice of the violation has been
+given to the Secretary, and to any alleged violator of any such provision
+or regulation;
+“(ii) if the Secretary has commenced action to impose a penalty pursu-
+ant to subsection (a) of this section; or
+“(iii) if the United States has commenced and is diligently prosecuting
+a criminal action . . . to redress a violation of any such provision or
+regulation.
+.
+.
+.
+.
+.
+“(3)(B) In any such suit under this subsection in which the United
+States is not a party, the Attorney General, at the request of the Secre-
+tary, may intervene on behalf of the United States as a matter of right.
+“(4) The court, in issuing any ﬁnal order in any suit brought pursuant
+to paragraph (1) of this subsection, may award costs of litigation (including
+reasonable attorney and expert witness fees) to any party, whenever the
+court determines such award is appropriate.”
+16 U. S. C. §1540(g).
+
+165
+Cite as: 520 U. S. 154 (1997)
+Opinion of the Court
+gress ordinarily uses.
+Even in some other environmental
+statutes, Congress has used more restrictive formulations,
+such as “[any person] having an interest which is or may be
+adversely affected,” 33 U. S. C. §1365(g) (Clean Water Act);
+see also 30 U. S. C. §1270(a) (Surface Mining Control and
+Reclamation Act) (same); “[a]ny person suffering legal
+wrong,” 15 U. S. C. §797(b)(5) (Energy Supply and Environ-
+mental Coordination Act); or “any person having a valid legal
+interest which is or may be adversely affected . . . whenever
+such action constitutes a case or controversy,” 42 U. S. C.
+§9124(a) (Ocean Thermal Energy Conversion Act).
+And in
+contexts other than the environment, Congress has often
+been even more restrictive.
+In statutes concerning unfair
+trade practices and other commercial matters, for example,
+it has authorized suit only by “[a]ny person injured in his
+business or property,” 7 U. S. C. §2305(c); see also 15 U. S. C.
+§72 (same), or only by “competitors, customers, or subse-
+quent purchasers,” §298(b).
+Our readiness to take the term “any person” at face value
+is greatly augmented by two interrelated considerations:
+that the overall subject matter of this legislation is the envi-
+ronment (a matter in which it is common to think all persons
+have an interest) and that the obvious purpose of the par-
+ticular provision in question is to encourage enforcement by
+so-called “private attorneys general”—evidenced by its elim-
+ination of the usual amount-in-controversy and diversity-of-
+citizenship requirements, its provision for recovery of the
+costs of litigation (including even expert witness fees), and
+its reservation to the Government of a right of ﬁrst refusal
+to pursue the action initially and a right to intervene later.
+Given these factors, we think the conclusion of expanded
+standing follows a fortiori from our decision in Trafﬁcante
+v. Metropolitan Life Ins. Co., 409 U. S. 205 (1972), which held
+that standing was expanded to the full extent permitted
+under Article III by §810(a) of the Civil Rights Act of 1968,
+82 Stat. 85, 42 U. S. C. §3610(a) (1986 ed.), that authorized
+
+166
+BENNETT v. SPEAR
+Opinion of the Court
+“[a]ny person who claims to have been injured by a discrimi-
+natory housing practice” to sue for violations of the Act.
+There also we relied on textual evidence of a statutory
+scheme to rely on private litigation to ensure compliance
+with the Act.
+See 409 U. S., at 210–211.
+The statutory lan-
+guage here is even clearer, and the subject of the legislation
+makes the intent to permit enforcement by everyman even
+more plausible.
+It is true that the plaintiffs here are seeking to prevent
+application of environmental restrictions rather than to im-
+plement them.
+But the “any person” formulation applies to
+all the causes of action authorized by §1540(g)—not only to
+actions against private violators of environmental restric-
+tions, and not only to actions against the Secretary asserting
+underenforcment under §1533, but also to actions against the
+Secretary asserting overenforcement under §1533.
+As we
+shall discuss below, the citizen-suit provision does favor envi-
+ronmentalists in that it covers all private violations of the
+ESA but not all failures of the Secretary to meet his admin-
+istrative responsibilities; but there is no textual basis for
+saying that its expansion of standing requirements applies
+to environmentalists alone.
+The Court of Appeals therefore
+erred in concluding that petitioners lacked standing under
+the zone-of-interests test to bring their claims under the
+ESA’s citizen-suit provision.
+III
+The Government advances several alternative grounds
+upon which it contends we may afﬁrm the dismissal of peti-
+tioners’ suit.
+Because the District Court and the Court of
+Appeals found the zone-of-interests ground to be dispositive,
+these alternative grounds were not reached below.
+A re-
+spondent is entitled, however, to defend the judgment on any
+ground supported by the record, see Ponte v. Real, 471 U. S.
+491, 500 (1985); Matsushita Elec. Industrial Co. v. Epstein,
+516 U. S. 367, 379, n. 5 (1996).
+The asserted grounds were
+
+167
+Cite as: 520 U. S. 154 (1997)
+Opinion of the Court
+raised below, and have been fully briefed and argued here;
+we deem it an appropriate exercise of our discretion to con-
+sider them now rather than leave them for disposition on
+remand.
+A
+The Government’s ﬁrst contention is that petitioners’ com-
+plaint fails to satisfy the standing requirements imposed by
+the “case” or “controversy” provision of Article III.
+This
+“irreducible constitutional minimum” of standing requires:
+(1) that the plaintiff have suffered an “injury in fact”—an
+invasion of a judicially cognizable interest which is (a) con-
+crete and particularized and (b) actual or imminent, not con-
+jectural or hypothetical; (2) that there be a causal connection
+between the injury and the conduct complained of—the in-
+jury must be fairly traceable to the challenged action of the
+defendant, and not the result of the independent action of
+some third party not before the court; and (3) that it be
+likely, as opposed to merely speculative, that the injury will
+be redressed by a favorable decision.
+Defenders of Wild-
+life, 504 U. S., at 560–561.
+Petitioners allege, among other things, that they currently
+receive irrigation water from Clear Lake, that the Bureau
+“will abide by the restrictions imposed by the Biological
+Opinion,” App. to Pet. for Cert. 32, and that “[t]he restric-
+tions on lake levels imposed in the Biological Opinion ad-
+versely affect [petitioners] by substantially reducing the
+quantity of available irrigation water,” id., at 40.
+The Gov-
+ernment contends, ﬁrst, that these allegations fail to satisfy
+the “injury in fact” element of Article III standing because
+they demonstrate only a diminution in the aggregate amount
+of available water, and do not necessarily establish (absent
+information concerning the Bureau’s water allocation prac-
+tices) that petitioners will receive less water.
+This conten-
+tion overlooks, however, the proposition that each element
+of Article III standing “must be supported in the same way
+as any other matter on which the plaintiff bears the burden
+
+168
+BENNETT v. SPEAR
+Opinion of the Court
+of proof, i. e., with the manner and degree of evidence re-
+quired at the successive stages of the litigation.”
+Defenders
+of Wildlife, supra, at 561.
+Thus, while a plaintiff must “set
+forth” by afﬁdavit or other evidence “speciﬁc facts” to sur-
+vive a motion for summary judgment, Fed. Rule Civ. Proc.
+56(e), and must ultimately support any contested facts with
+evidence adduced at trial, “[a]t the pleading stage, general
+factual allegations of injury resulting from the defendant’s
+conduct may sufﬁce, for on a motion to dismiss we ‘presum[e]
+that general allegations embrace those speciﬁc facts that
+are necessary to support the claim.’ ”
+Defenders of Wild-
+life, supra, at 561 (quoting Lujan v. National Wildlife Fed-
+eration, 497 U. S. 871, 889 (1990)).
+Given petitioners’ allega-
+tion that the amount of available water will be reduced and
+that they will be adversely affected thereby, it is easy to
+presume speciﬁc facts under which petitioners will be in-
+jured—for example, the Bureau’s distribution of the reduc-
+tion pro rata among its customers.
+The complaint alleges
+the requisite injury in fact.
+The Government also contests compliance with the second
+and third Article III standing requirements, contending that
+any injury suffered by petitioners is neither “fairly trace-
+able” to the Service’s Biological Opinion, nor “redressable”
+by a favorable judicial ruling, because the “action agency”
+(the Bureau) retains ultimate responsibility for determining
+whether and how a proposed action shall go forward.
+See
+50 CFR §402.15(a) (1995) (“Following the issuance of a bio-
+logical opinion, the Federal agency shall determine whether
+and in what manner to proceed with the action in light of its
+section 7 obligations and the Service’s biological opinion”).
+“If petitioners have suffered injury,” the Government con-
+tends, “the proximate cause of their harm is an (as yet un-
+identiﬁed) decision by the Bureau regarding the volume of
+water allocated to petitioners, not the biological opinion
+itself.”
+Brief for Respondents 22.
+This wrongly equates
+injury “fairly traceable” to the defendant with injury as to
+
+169
+Cite as: 520 U. S. 154 (1997)
+Opinion of the Court
+which the defendant’s actions are the very last step in the
+chain of causation.
+While, as we have said, it does not suf-
+ﬁce if the injury complained of is “ ‘th[e] result [of] the inde-
+pendent action of some third party not before the court,’ ”
+Defenders of Wildlife, supra, at 560–561 (emphasis added)
+(quoting Simon v. Eastern Ky. Welfare Rights Organization,
+426 U. S. 26, 41–42 (1976)), that does not exclude injury
+produced by determinative or coercive effect upon the action
+of someone else.
+By the Government’s own account, while the Service’s Bio-
+logical Opinion theoretically serves an “advisory function,”
+51 Fed. Reg. 19928 (1986), in reality it has a powerful coer-
+cive effect on the action agency:
+“The statutory scheme . . . presupposes that the biologi-
+cal opinion will play a central role in the action agency’s
+decisionmaking process, and that it will typically be
+based on an administrative record that is fully adequate
+for the action agency’s decision insofar as ESA issues
+are concerned. . . . [A] federal agency that chooses to
+deviate from the recommendations contained in a biolog-
+ical opinion bears the burden of ‘articulat[ing] in its ad-
+ministrative record its reasons for disagreeing with the
+conclusions of a biological opinion.’
+51 Fed. Reg. 19,956
+(1986).
+In the government’s experience, action agencies
+very rarely choose to engage in conduct that the Service
+has concluded is likely to jeopardize the continued exist-
+ence of a listed species.”
+Brief for Respondents 20–21.
+What this concession omits to say, moreover, is that the ac-
+tion agency must not only articulate its reasons for disagree-
+ment (which ordinarily requires species and habitat investi-
+gations that are not within the action agency’s expertise),
+but that it runs a substantial risk if its (inexpert) reasons
+turn out to be wrong.
+A Biological Opinion of the sort ren-
+dered here alters the legal regime to which the action agency
+is subject.
+When it “offers reasonable and prudent alterna-
+
+170
+BENNETT v. SPEAR
+Opinion of the Court
+tives” to the proposed action, a Biological Opinion must in-
+clude a so-called “Incidental Take Statement”—a written
+statement specifying, among other things, those “measures
+that the [Service] considers necessary or appropriate to mini-
+mize [the action’s impact on the affected species]” and the
+“terms and conditions . . . that must be complied with by the
+Federal agency . . . to implement [such] measures.”
+16
+U. S. C. §1536(b)(4).
+Any taking that is in compliance with
+these terms and conditions “shall not be considered to be
+a prohibited taking of the species concerned.”
+§1536(o)(2).
+Thus, the Biological Opinion’s Incidental Take Statement
+constitutes a permit authorizing the action agency to “take”
+the endangered or threatened species so long as it respects
+the Service’s “terms and conditions.”
+The action agency is
+technically free to disregard the Biological Opinion and pro-
+ceed with its proposed action, but it does so at its own peril
+(and that of its employees), for “any person” who knowingly
+“takes” an endangered or threatened species is subject to
+substantial civil and criminal penalties, including imprison-
+ment.
+See §§1540(a) and (b) (authorizing civil ﬁnes of up to
+$25,000 per violation and criminal penalties of up to $50,000
+and imprisonment for one year); see also Babbitt v. Sweet
+Home Chapter, Communities for Great Ore., 515 U. S. 687,
+708 (1995) (upholding interpretation of the term “take” to
+include signiﬁcant habitat degradation).
+The Service itself is, to put it mildly, keenly aware of the
+virtually determinative effect of its biological opinions.
+The
+Incidental Take Statement at issue in the present case be-
+gins by instructing the reader that any taking of a listed
+species is prohibited unless “such taking is in compliance
+with this incidental take statement,” and warning that “[t]he
+measures described below are nondiscretionary, and must be
+taken by [the Bureau].”
+App. 92–93.
+Given all of this, and
+given petitioners’ allegation that the Bureau had, until issu-
+ance of the Biological Opinion, operated the Klamath Project
+in the same manner throughout the 20th century, it is not
+
+171
+Cite as: 520 U. S. 154 (1997)
+Opinion of the Court
+difﬁcult to conclude that petitioners have met their burden—
+which is relatively modest at this stage of the litigation—of
+alleging that their injury is “fairly traceable” to the Service’s
+Biological Opinion and that it will “likely” be redressed—
+i. e., the Bureau will not impose such water level restric-
+tions—if the Biological Opinion is set aside.
+B
+Next, the Government contends that the ESA’s citizen-suit
+provision does not authorize judicial review of petitioners’
+claims.
+The relevant portions of that provision provide that
+“any person may commence a civil suit on his own
+behalf—
+“(A) to enjoin any person, including the United States
+and any other governmental instrumentality or agency
+. . . who is alleged to be in violation of any provision
+of this chapter or regulation issued under the authority
+thereof; or
+.
+.
+.
+.
+.
+“(C) against the Secretary [of Commerce or the Inte-
+rior] where there is alleged a failure of the Secretary to
+perform any act or duty under section 1533 of this title
+which is not discretionary with the Secretary.”
+16
+U. S. C. §1540(g)(1).
+The Government argues that judicial review is not available
+under subsection (A) because the Secretary is not “in viola-
+tion” of the ESA, and under subsection (C) because the Sec-
+retary has not failed to perform any nondiscretionary duty
+under §1533.
+1
+Turning ﬁrst to subsection (C): that it covers only viola-
+tions of §1533 is clear and unambiguous.
+Petitioners’ ﬁrst
+and second claims, which assert that the Secretary has vio-
+lated §1536, are obviously not reviewable under this provi-
+sion.
+However, as described above, the third claim alleges
+
+172
+BENNETT v. SPEAR
+Opinion of the Court
+that the Biological Opinion implicitly determines critical
+habitat without complying with the mandate of §1533(b)(2)
+that the Secretary “tak[e] into consideration the economic
+impact, and any other relevant impact, of specifying any
+particular area as critical habitat.”
+This claim does come
+within subsection (C).
+The Government seeks to avoid this result by appealing
+to the limitation in subsection (C) that the duty sought to be
+enforced not be “discretionary with the Secretary.”
+But the
+terms of §1533(b)(2) are plainly those of obligation rather
+than discretion: “The Secretary shall designate critical habi-
+tat, and make revisions thereto, . . . on the basis of the best
+scientiﬁc data available and after taking into consideration
+the economic impact, and any other relevant impact, of speci-
+fying any particular area as critical habitat.”
+(Emphasis
+added.)
+It is true that this is followed by the statement
+that, except where extinction of the species is at issue, “[t]he
+Secretary may exclude any area from critical habitat if he
+determines that the beneﬁts of such exclusion outweigh the
+beneﬁts of specifying such area as part of the critical habi-
+tat.”
+Ibid. (emphasis added).
+However, the fact that the
+Secretary’s ultimate decision is reviewable only for abuse of
+discretion does not alter the categorical requirement that,
+in arriving at his decision, he “tak[e] into consideration the
+economic impact, and any other relevant impact,” and use
+“the best scientiﬁc data available.”
+Ibid.
+It is rudimen-
+tary administrative law that discretion as to the substance
+of the ultimate decision does not confer discretion to ig-
+nore the required procedures of decisionmaking.
+See SEC
+v. Chenery Corp., 318 U. S. 80, 94–95 (1943).
+Since it is
+the omission of these required procedures that petition-
+ers complain of, their §1533 claim is reviewable under
+§1540(g)(1)(C).
+2
+Having concluded that petitioners’ §1536 claims are not
+reviewable under subsection (C), we are left with the ques-
+
+173
+Cite as: 520 U. S. 154 (1997)
+Opinion of the Court
+tion whether they are reviewable under subsection (A),
+which authorizes injunctive actions against any person “who
+is alleged to be in violation” of the ESA or its implementing
+regulations.
+The Government contends that the Secretary’s
+conduct in implementing or enforcing the ESA is not a “vio-
+lation” of the ESA within the meaning of this provision.
+In
+its view, §1540(g)(1)(A) is a means by which private parties
+may enforce the substantive provisions of the ESA against
+regulated parties—both private entities and Government
+agencies—but is not an alternative avenue for judicial review
+of the Secretary’s implementation of the statute.
+We agree.
+The opposite contention is simply incompatible with the
+existence of §1540(g)(1)(C), which expressly authorizes suit
+against the Secretary, but only to compel him to perform a
+nondiscretionary duty under §1533.
+That provision would
+be superﬂuous—and, worse still, its careful limitation to
+§1533 would be nulliﬁed—if §1540(g)(1)(A) permitted suit
+against the Secretary for any “violation” of the ESA.
+It is
+the “ ‘cardinal principle of statutory construction’ . . . [that]
+[i]t is our duty ‘to give effect, if possible, to every clause and
+word of a statute’ . . . rather than to emasculate an entire
+section.”
+United States v. Menasche, 348 U. S. 528, 538
+(1955) (quoting NLRB v. Jones & Laughlin Steel Corp., 301
+U. S. 1, 30 (1937), and Montclair v. Ramsdell, 107 U. S. 147,
+152 (1883)).
+Application of that principle here clearly re-
+quires us to conclude that the term “violation” does not in-
+clude the Secretary’s failure to perform his duties as admin-
+istrator of the ESA.
+Moreover, the ESA uses the term “violation” elsewhere in
+contexts in which it is most unlikely to refer to failure by the
+Secretary or other federal ofﬁcers and employees to perform
+their duties in administering the ESA.
+Section 1540(a), for
+example, authorizes the Secretary to impose substantial civil
+penalties on “[a]ny person who knowingly violates . . . any
+provision of [the ESA],” and entrusts the Secretary with the
+power to “remi[t] or mitigat[e]” any such penalty.
+We know
+
+174
+BENNETT v. SPEAR
+Opinion of the Court
+of no precedent for applying such a provision against those
+who administer (as opposed to those who are regulated by)
+a substantive law.
+Nor do we think it likely that the statute
+meant to subject the Secretary and his ofﬁcers and employ-
+ees to criminal liability under §1540(b), which makes it a
+crime for “[a]ny person [to] knowingly violat[e] any provision
+of [the ESA],” or that §1540(e)(3), which authorizes law en-
+forcement personnel to “make arrests without a warrant for
+any violation of [the ESA],” was intended to authorize war-
+rantless arrest of the Secretary or his delegates for “know-
+ingly” failing to use the best scientiﬁc data available.
+Finally, interpreting the term “violation” to include any
+errors on the part of the Secretary in administering the ESA
+would effect a wholesale abrogation of the APA’s “ﬁnal
+agency action” requirement.
+Any procedural default, even
+one that had not yet resulted in a ﬁnal disposition of the
+matter at issue, would form the basis for a lawsuit.
+We are
+loathe to produce such an extraordinary regime without the
+clearest of statutory direction, which is hardly present here.
+Viewed in the context of the entire statute, §1540(g)
+(1)(A)’s reference to any “violation” of the ESA cannot be
+interpreted to include the Secretary’s maladministration of
+the ESA.
+Petitioners’ claims are not subject to judicial re-
+view under §1540(g)(1)(A).
+IV
+The foregoing analysis establishes that the principal stat-
+ute invoked by petitioners, the ESA, does authorize review
+of their §1533 claim, but does not support their claims based
+upon the Secretary’s alleged failure to comply with §1536.
+To complete our task, we must therefore inquire whether
+these §1536 claims may nonetheless be brought under the
+Administrative Procedure Act, which authorizes a court to
+“set aside agency action, ﬁndings, and conclusions found to
+be . . . arbitrary, capricious, an abuse of discretion, or other-
+wise not in accordance with law,” 5 U. S. C. §706.
+
+175
+Cite as: 520 U. S. 154 (1997)
+Opinion of the Court
+A
+No one contends (and it would not be maintainable) that
+the causes of action against the Secretary set forth in the
+ESA’s citizen-suit provision are exclusive, supplanting those
+provided by the APA.
+The APA, by its terms, provides a
+right to judicial review of all “ﬁnal agency action for which
+there is no other adequate remedy in a court,” §704, and
+applies universally “except to the extent that—(1) statutes
+preclude judicial review; or (2) agency action is committed to
+agency discretion by law,” §701(a).
+Nothing in the ESA’s
+citizen-suit provision expressly precludes review under the
+APA, nor do we detect anything in the statutory scheme
+suggesting a purpose to do so.
+And any contention that
+the relevant provision of 16 U. S. C. §1536(a)(2) is discretion-
+ary would ﬂy in the face of its text, which uses the impera-
+tive “shall.”
+In determining whether the petitioners have standing
+under the zone-of-interests test to bring their APA claims,
+we look not to the terms of the ESA’s citizen-suit provision,
+but to the substantive provisions of the ESA, the alleged
+violations of which serve as the gravamen of the complaint.
+See National Wildlife Federation, 497 U. S., at 886.
+The
+classic formulation of the zone-of-interests test is set forth
+in Data Processing, 397 U. S., at 153: “whether the interest
+sought to be protected by the complainant is arguably within
+the zone of interests to be protected or regulated by the
+statute or constitutional guarantee in question.”
+The Court
+of Appeals concluded that this test was not met here, since
+petitioners are neither directly regulated by the ESA nor
+seek to vindicate its overarching purpose of species preser-
+vation.
+That conclusion was error.
+Whether a plaintiff’s interest is “arguably . . . protected
+. . . by the statute” within the meaning of the zone-of-
+interests test is to be determined not by reference to the
+overall purpose of the Act in question (here, species preser-
+vation), but by reference to the particular provision of law
+
+176
+BENNETT v. SPEAR
+Opinion of the Court
+upon which the plaintiff relies.
+It is difﬁcult to understand
+how the Ninth Circuit could have failed to see this from our
+cases.
+In Data Processing itself, for example, we did not
+require that the plaintiffs’ suit vindicate the overall purpose
+of the Bank Service Corporation Act of 1962, but found it
+sufﬁcient that their commercial interest was sought to be
+protected by the anticompetition limitation contained in §4
+of the Act—the speciﬁc provision which they alleged had
+been violated.
+See Data Processing, supra, at 155–156.
+As
+we said with the utmost clarity in National Wildlife Federa-
+tion, “the plaintiff must establish that the injury he com-
+plains of . . . falls within the ‘zone of interests’ sought to be
+protected by the statutory provision whose violation forms
+the legal basis for his complaint.”
+497 U. S., at 883 (em-
+phasis added).
+See also Air Courier Conference v. Postal
+Workers, 498 U. S. 517, 523–524 (1991) (same).
+In the claims that we have found not to be covered by the
+ESA’s citizen-suit provision, petitioners allege a violation of
+§7 of the ESA, 16 U. S. C. §1536, which requires, inter alia,
+that each agency “use the best scientiﬁc and commercial data
+available,” §1536(a)(2).
+Petitioners contend that the avail-
+able scientiﬁc and commercial data show that the continued
+operation of the Klamath Project will not have a detrimental
+impact on the endangered suckers, that the imposition of
+minimum lake levels is not necessary to protect the ﬁsh, and
+that by issuing a Biological Opinion which makes unsubstan-
+tiated ﬁndings to the contrary the defendants have acted
+arbitrarily and in violation of §1536(a)(2).
+The obvious pur-
+pose of the requirement that each agency “use the best scien-
+tiﬁc and commercial data available” is to ensure that the
+ESA not be implemented haphazardly, on the basis of specu-
+lation or surmise.
+While this no doubt serves to advance
+the ESA’s overall goal of species preservation, we think it
+readily apparent that another objective (if not indeed the
+primary one) is to avoid needless economic dislocation
+
+177
+Cite as: 520 U. S. 154 (1997)
+Opinion of the Court
+produced by agency ofﬁcials zealously but unintelligently
+pursuing their environmental objectives.
+That economic
+consequences are an explicit concern of the ESA is evidenced
+by §1536(h), which provides exemption from §1536(a)(2)’s
+no-jeopardy mandate where there are no reasonable and pru-
+dent alternatives to the agency action and the beneﬁts of the
+agency action clearly outweigh the beneﬁts of any alterna-
+tives.
+We believe the “best scientiﬁc and commercial data”
+provision is similarly intended, at least in part, to prevent
+uneconomic (because erroneous) jeopardy determinations.
+Petitioners’ claim that they are victims of such a mistake
+is plainly within the zone of interests that the provision
+protects.
+B
+The Government contends that petitioners may not obtain
+judicial review under the APA on the theory that the Biolog-
+ical Opinion does not constitute “ﬁnal agency action,” 5
+U. S. C. §704, because it does not conclusively determine the
+manner in which Klamath Project water will be allocated:
+“Whatever the practical likelihood that the [Bureau]
+would adopt the reasonable and prudent alternatives
+(including the higher lake levels) identiﬁed by the Serv-
+ice, the Bureau was not legally obligated to do so.
+Even
+if the Bureau decided to adopt the higher lake levels,
+moreover, nothing in the biological opinion would con-
+strain the [Bureau’s] discretion as to how the available
+water should be allocated among potential users.”
+Brief for Respondents 33.
+This confuses the question whether the Secretary’s action
+is ﬁnal with the separate question whether petitioners’ harm
+is “fairly traceable” to the Secretary’s action (a question
+we have already resolved against the Government, see Part
+III–A, supra).
+As a general matter, two conditions must be
+satisﬁed for agency action to be “ﬁnal”: First, the action must
+
+178
+BENNETT v. SPEAR
+Opinion of the Court
+mark the “consummation” of the agency’s decisionmaking
+process, Chicago & Southern Air Lines, Inc. v. Waterman
+S. S. Corp., 333 U. S. 103, 113 (1948)—it must not be of a
+merely tentative or interlocutory nature.
+And second, the
+action must be one by which “rights or obligations have been
+determined,” or from which “legal consequences will ﬂow,”
+Port of Boston Marine Terminal Assn. v. Rederiaktiebola-
+get Transatlantic, 400 U. S. 62, 71 (1970).
+It is uncontested
+that the ﬁrst requirement is met here; and the second is met
+because, as we have discussed above, the Biological Opinion
+and accompanying Incidental Take Statement alter the legal
+regime to which the action agency is subject, authorizing it
+to take the endangered species if (but only if) it complies
+with the prescribed conditions.
+In this crucial respect the
+present case is different from the cases upon which the Gov-
+ernment relies, Franklin v. Massachusetts, 505 U. S. 788
+(1992), and Dalton v. Specter, 511 U. S. 462 (1994).
+In the
+former case, the agency action in question was the Secretary
+of Commerce’s presentation to the President of a report tab-
+ulating the results of the decennial census; our holding that
+this did not constitute “ﬁnal agency action” was premised on
+the observation that the report carried “no direct conse-
+quences” and served “more like a tentative recommendation
+than a ﬁnal and binding determination.”
+505 U. S., at 798.
+And in the latter case, the agency action in question was
+submission to the President of base closure recommendations
+by the Secretary of Defense and the Defense Base Closure
+and Realignment Commission; our holding that this was not
+“ﬁnal agency action” followed from the fact that the recom-
+mendations were in no way binding on the President, who
+had absolute discretion to accept or reject them.
+511 U. S.,
+at 469–471.
+Unlike the reports in Franklin and Dalton,
+which were purely advisory and in no way affected the legal
+rights of the relevant actors, the Biological Opinion at issue
+here has direct and appreciable legal consequences.
+*
+*
+*
+
+179
+Cite as: 520 U. S. 154 (1997)
+Opinion of the Court
+The Court of Appeals erred in afﬁrming the District
+Court’s dismissal of petitioners’ claims for lack of jurisdic-
+tion.
+Petitioners’ complaint alleges facts sufﬁcient to meet
+the requirements of Article III standing, and none of their
+ESA claims is precluded by the zone-of-interests test.
+Peti-
+tioners’ §1533 claim is reviewable under the ESA’s citizen-
+suit provision, and petitioners’ remaining claims are review-
+able under the APA.
+The judgment of the Court of Appeals is reversed, and
+the case is remanded for further proceedings consistent with
+this opinion.
+It is so ordered.

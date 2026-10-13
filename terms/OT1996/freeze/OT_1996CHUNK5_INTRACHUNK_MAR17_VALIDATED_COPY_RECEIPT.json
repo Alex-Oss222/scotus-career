@@ -1,0 +1,62 @@
+{
+  "before": "1997-03-17",
+  "sources": [
+    {
+      "record": "Andrade_v_Mayfair_Management_Inc_merits_1997-02-26.md",
+      "date": "1997-02-26",
+      "case": "Andrade v. Mayfair Management, Inc.; Fourth Circuit No. 95-2476; 88 F.3d 258.",
+      "sha256": "ce78cd967a374668cf48fb6d545a6b8c1c6b115554de7ea095eafcda1f9d5ee4",
+      "projection_sha256": "0f411dd3db2df341346caac6180ecafb7202e9d4cb6c2b0aff82ffd90fa525b4"
+    },
+    {
+      "record": "In_re_Rhone_Poulenc_Rorer_merits_1997-02-26.md",
+      "date": "1997-02-26",
+      "case": "In re Rhone-Poulenc Rorer; Seventh Circuit No. 94-3912; 51 F.3d 1293.",
+      "sha256": "9ab8d9d5ff5828bd399e1d24d5079b1ef0e672146a5fcc8c005b5070bb0d5691",
+      "projection_sha256": "4ac996a01682654f1206e4a836c6ef22ddc9cc21c8ee643c7b6f09584def8b7e"
+    },
+    {
+      "record": "Adams_v_Robertson_DIG_1997-03-03.md",
+      "date": "1997-03-03",
+      "case": "Adams v. Robertson; No. 95-1873.",
+      "sha256": "2633275e3fcffb620976e6f131d7dfbc9dcfc60a74753b8216c7b03609a1309e",
+      "projection_sha256": "323b8c02b11c871f95382f37edde9db618dcdb9e244600b5b26feb0debf4a396"
+    },
+    {
+      "record": "Arizonans_for_Official_English_v_Arizona_merits_1997-03-03.md",
+      "date": "1997-03-03",
+      "case": "Arizonans for Official English v. Arizona; No. 95-974.",
+      "sha256": "bf236f92a6bba6dd0dd2093efdda8af293cf66ff08e0a752e135374e40dad9d6",
+      "projection_sha256": "c2d33d8bfbd4e09eaab21e9e8541e6ef86dc36f17f7cb9f5a5f1d5f6ac8c38bd"
+    },
+    {
+      "record": "United_States_v_Gonzales_merits_1997-03-03.md",
+      "date": "1997-03-03",
+      "case": "United States v. Gonzales; No. 95-1605.",
+      "sha256": "376c2be0a9f5b5d526ad355993b8feee16d5d3b4353224e8c111e34e378fd148",
+      "projection_sha256": "305b5b0c0f2cc1a6a6d4c4e36cfa46a634a079ed626b54f5adc02e01f8b2d58e"
+    },
+    {
+      "record": "Warner_Jenkinson_Co_v_Hilton_Davis_Chemical_Co_merits_1997-03-03.md",
+      "date": "1997-03-03",
+      "case": "Warner-Jenkinson Co. v. Hilton Davis Chemical Co.; No. 95-728.",
+      "sha256": "c3c4bbb385ac38011e1a5cb487e2f6fa88c5541bd5471ce0294e3e78f2fcd81c",
+      "projection_sha256": "5ed2497ebe21dca8984ae628ab0069f0ce79bb7cec7ece662453607aba53b8fc"
+    },
+    {
+      "record": "Wright_v_MetroHealth_Medical_Center_merits_1997-03-03.md",
+      "date": "1997-03-03",
+      "case": "Wright v. MetroHealth Medical Center; Sixth Circuit No. 94-3548; 58 F.3d 1130.",
+      "sha256": "6fbbdc1b31605ecf0e17456817bbd484648bc278f4037c360206bcedf067f0d0",
+      "projection_sha256": "7ede3f94d3c8dbf950ef7648f7c6caf83ac468225fa653e504b54c7884ae4f28"
+    },
+    {
+      "record": "Nabozny_v_Podlesny_merits_1997-03-10.md",
+      "date": "1997-03-10",
+      "case": "Nabozny v. Podlesny; Seventh Circuit No. 95-3634, 92 F.3d 446; no separate Supreme Court merits docket supplied.",
+      "sha256": "30ba386b7e69c906c683fca9146da092df1bf6e552a1dfc364073fa1c2e4b015",
+      "projection_sha256": "f397f9492b43f011adffca3f6ed9b12798a6b54c3ab09485e50044c6baf19619"
+    }
+  ],
+  "output": "OT_1996CHUNK5_INTRACHUNK_MAR17_VALIDATED.md"
+}

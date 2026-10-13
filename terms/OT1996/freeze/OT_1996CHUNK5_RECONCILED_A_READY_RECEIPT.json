@@ -1,0 +1,104 @@
+﻿{
+    "scope":  "Reconciliation A ready matters 48,49,51,52,53. Wright excluded pending clean remedy/policy correction. No Stone exposure; no Git operation.",
+    "retrieval_date":  "2026-10-13",
+    "hashes":  [
+                   {
+                       "path":  "terms/OT1996/freeze/OT_1996CHUNK5_NEUTRAL_A.md",
+                       "sha256":  "f2fe9b4e8df0948c9b7f1be4af116a973c8f7bb0ca2a93fa98255faa97c29174"
+                   },
+                   {
+                       "path":  "terms/OT1996/freeze/OT_1996CHUNK5_NEUTRAL_A_ARIZONANS_SUPPLEMENT.md",
+                       "sha256":  "d04ce4411d269115e45f71c8e5fe9a1b97db1b170e7ad1b00139d655cf2b47d3"
+                   },
+                   {
+                       "path":  "terms/OT1996/freeze/OT_1996CHUNK5_COMMITMENTS_A.md",
+                       "sha256":  "fd72ed6c5cf22df81181c0ab4f352e4086b697a027aefd92a20863642051a5a6"
+                   },
+                   {
+                       "path":  "terms/OT1996/tmp/OT_1996CHUNK5_NEUTRAL_A_BASE.md",
+                       "sha256":  "1e485d16199c334eca54007cf4bd4d1b0c9ba188acef242816aea2ab5d8f6321"
+                   },
+                   {
+                       "path":  "terms/OT1996/tmp/OT_1996CHUNK5_COMPARATOR_EARLY.md",
+                       "sha256":  "e9407b3c84c9954e41950d73d624fbb296c226fc023f4e40924c2835f8abfc2d"
+                   },
+                   {
+                       "path":  "terms/OT1996/freeze/OT_1996CHUNK5_COMPARATOR_VERIFICATION.md",
+                       "sha256":  "81304cffdb776f55ba4920fd25687e103b41a3cff6890a067c12e69d704554e3"
+                   },
+                   {
+                       "path":  "terms/OT1996/sources/chunk5/ANDRADE_LOWER.txt",
+                       "sha256":  "a5425ec71c660033905053e7f4d5b518503750c64af06a373d06224f7496b51b"
+                   },
+                   {
+                       "path":  "terms/OT1996/sources/chunk5/RHONE_LOWER.txt",
+                       "sha256":  "f1c294636cc16bdccc824b152246c89ab05a0a304967f38bf4db3a42d3fbaa99"
+                   },
+                   {
+                       "path":  "terms/OT1996/sources/chunk5/WRIGHT_LOWER.txt",
+                       "sha256":  "5adde9107ac1109ab045488971402fcbc30785f854fc254bf60402759b475f2f"
+                   },
+                   {
+                       "path":  "terms/OT1996/sources/chunk5/95-1605.ZO.txt",
+                       "sha256":  "88c6b6c5a5cd982f0f508fbdc23c81ed03f797f2b5f835009ad126f8b9df25e3"
+                   },
+                   {
+                       "path":  "terms/OT1996/sources/chunk5/95-1605.ZD.txt",
+                       "sha256":  "cf476f25d55f101727a90426a3bbee382e39407a25702c3f5581a26352ae5b07"
+                   },
+                   {
+                       "path":  "terms/OT1996/sources/chunk5/95-1605.ZD1.txt",
+                       "sha256":  "afdb28a893bffcf31cd57faa887fadee98ddc2636cca8d076f6039a57fcc50db"
+                   },
+                   {
+                       "path":  "terms/OT1996/sources/chunk5/95-728.ZO.txt",
+                       "sha256":  "7d020a4084ad8633fd7e4a1bc6bdc94b14ecd0b50d79a5a644756d0fbd5e59dd"
+                   },
+                   {
+                       "path":  "terms/OT1996/sources/chunk5/95-728.ZC.txt",
+                       "sha256":  "efb2d276f9736861b29d862c5548f97284bed061797c57e1f6cf518af4d9924d"
+                   },
+                   {
+                       "path":  "terms/OT1996/sources/chunk5/95-974.ZO.txt",
+                       "sha256":  "e79e335005209449d75d8a0e71bfff5fdd95b7aae58f5e0075ae69b874682cc4"
+                   },
+                   {
+                       "path":  "terms/OT1996/entering-law/OT_1996CHUNK5_49-RHONE_CURRENT.md",
+                       "sha256":  "45f82409bfbbe47216c9a7bb41ff81a394b2e3df2ef16caf32e24664d519825a"
+                   },
+                   {
+                       "path":  "terms/OT1996/entering-law/OT_1996CHUNK5_52-GONZALES.md",
+                       "sha256":  "28d9aa91fb9a44099db238441c149894330cafb8d31a6ace1891a2a958e519fb"
+                   },
+                   {
+                       "path":  "terms/OT1996/entering-law/OT_1996CHUNK5_52-GONZALES_CURRENT.md",
+                       "sha256":  "ec3d8e519abf153c1b0a0159960bbb479ada3fc9eada0b242e95650539e370ad"
+                   },
+                   {
+                       "path":  "terms/OT1996/entering-law/OT_1996CHUNK5_53-WARNER_CURRENT.md",
+                       "sha256":  "31df19cebda585134701c64f87b06260edc99c5781bd64237f14b4863546e621"
+                   },
+                   {
+                       "path":  "terms/OT1996/freeze/OT_1996CHUNK5_RECONCILED_A_READY.md",
+                       "sha256":  "28f44812b54e282d0d8f8979a409592ec3becc7b6948be27d72acfbc1b80806b"
+                   },
+                   {
+                       "path":  "terms/OT1996/runtime/OT_1996CHUNK5_RECONCILED_A_READY.md",
+                       "sha256":  "28f44812b54e282d0d8f8979a409592ec3becc7b6948be27d72acfbc1b80806b"
+                   }
+               ],
+    "reading_status":  {
+                           "wright":  "Full saved lower text read. Corrective extract routed to clean preflight; no reconciliation commitment finalized",
+                           "official":  "Topology cross-check inherited from COMPARATOR_VERIFICATION, not newly independently claimed here",
+                           "rhone":  "All saved main text read; saved tail incomplete. Complete Rovner notes read from OpenJurist primary reproduction, including notes1-3",
+                           "cornell":  "Full individual main opinions for 51/52/53, every separate writing for 52/53, footnotes and Arizonans appendix read",
+                           "entering_law":  "Exact frozen commitments and authorized source references; direct review of Gonzales Witte/Deal/Dunn, Warner Deuel, Rhone Castano, Arizonans selected law. Source receipt does not claim unconsulted source entirety.",
+                           "andrade":  "Full saved lower text read; FindLaw primary-text cross-check at attribution/discharge"
+                       },
+    "web_crosschecks":  [
+                            "https://openjurist.org/51/f3d/1293",
+                            "https://caselaw.findlaw.com/court/us-4th-circuit/1278633.html",
+                            "https://caselaw.findlaw.com/court/us-6th-circuit/1301712.html"
+                        ],
+    "structural_check":  "Five ready sections; eight named Associate rows each; runtime byte-identical; Gonzales six vacate/remand and two affirm discretion."
+}

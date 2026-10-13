@@ -1,0 +1,24 @@
+﻿{
+    "status":  "independent commitments frozen",
+    "matter":  "Young v. Harper",
+    "event_date":  "1997-03-18",
+    "freeze":  "terms/OT1996/freeze/OT_1996CHUNK5_COMMITMENTS_YOUNG.md",
+    "runtime":  "terms/OT1996/runtime/OT_1996CHUNK5_COMMITMENTS_YOUNG.md",
+    "sha256":  "7EA3A88443E4C928E9ED1BC0DC71B99FB15A166334E68C678DF98F93B18A3A40",
+    "runtime_identical":  true,
+    "modeled_justices":  [
+                             "Stevens",
+                             "O\u0027Connor",
+                             "Scalia",
+                             "Kennedy",
+                             "Souter",
+                             "Thomas",
+                             "Ginsburg",
+                             "Breyer"
+                         ],
+    "assignment_performed":  false,
+    "comparator_read":  false,
+    "current_stone_read":  false,
+    "previous_young_commitment_read":  false,
+    "no_git_operations":  true
+}

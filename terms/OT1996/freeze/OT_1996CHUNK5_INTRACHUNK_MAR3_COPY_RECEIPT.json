@@ -1,0 +1,20 @@
+{
+  "before": "1997-03-03",
+  "sources": [
+    {
+      "record": "Andrade_v_Mayfair_Management_Inc_merits_1997-02-26.md",
+      "date": "1997-02-26",
+      "case": "Andrade v. Mayfair Management, Inc.; Fourth Circuit No. 95-2476; 88 F.3d 258.",
+      "sha256": "ce78cd967a374668cf48fb6d545a6b8c1c6b115554de7ea095eafcda1f9d5ee4",
+      "projection_sha256": "0f411dd3db2df341346caac6180ecafb7202e9d4cb6c2b0aff82ffd90fa525b4"
+    },
+    {
+      "record": "In_re_Rhone_Poulenc_Rorer_merits_1997-02-26.md",
+      "date": "1997-02-26",
+      "case": "In re Rhone-Poulenc Rorer; Seventh Circuit No. 94-3912; 51 F.3d 1293.",
+      "sha256": "84580aa6410b6436a7a91a6907fa3f65799cd4242ca066d3f8b4f3771175f47d",
+      "projection_sha256": "37a4255863bdf7626d574d20c375711049d0e1d41c3833aee282ed2a0dca067d"
+    }
+  ],
+  "output": "OT_1996CHUNK5_INTRACHUNK_MAR3.md"
+}

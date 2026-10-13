@@ -1,0 +1,29 @@
+{
+  "status": "four matters reconciled and frozen; Brown excluded pending fresh neutral/model return",
+  "scope": [
+    55,
+    57,
+    58,
+    59
+  ],
+  "sha256": "07678590de0bac9d381dfd82e871b7eebea0faf2d717b90f742faae901492014",
+  "runtime_identical": true,
+  "current_stone_read": false,
+  "git_operations": false,
+  "reconciled_associate_counts": {
+    "Nabozny": {
+      "affirm_reviewed_components": 8
+    },
+    "Hubert": {
+      "affirm": 6,
+      "reverse_remand_measure_reserved": 2
+    },
+    "Young": {
+      "affirm": 8
+    },
+    "Bennett": {
+      "reverse_reviewed_claims_NEPAdismissal_undisturbed": 8
+    }
+  },
+  "source_reading_limit": "Full Cornell current opinions and all notes; full lower Nabozny/Brown; official extract targeted checks and existing full-volume verification receipt; not a second full bound-volume reading."
+}

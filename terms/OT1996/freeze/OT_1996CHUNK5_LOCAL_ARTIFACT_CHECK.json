@@ -1,0 +1,283 @@
+{
+  "protected_files_checked": 76,
+  "new_records": [
+    {
+      "record": "Adams_v_Robertson_DIG_1997-03-03.md",
+      "sha256": "2633275e3fcffb620976e6f131d7dfbc9dcfc60a74753b8216c7b03609a1309e",
+      "opening": [
+        "**Case and dockets:** Adams v. Robertson; No. 95-1873.",
+        "**Event and date:** Dismissal of certiorari after argument; 1997-03-03; OT1996, chunk 5, inventory 50.",
+        "**Result:** Writ dismissed as improvidently granted; all nine Justices support dismissal internally. The published per curiam action states no roll-call tally. Stone-Zsela concurs in the judgment on his distinct approved preservation ground.",
+        "**Version / lineage:** Initial adjudication; supersedes no completed event. Repository verification and commit are reserved to the operator under the no-Git instruction."
+      ],
+      "public_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    {
+      "record": "Andrade_v_Mayfair_Management_Inc_merits_1997-02-26.md",
+      "sha256": "ce78cd967a374668cf48fb6d545a6b8c1c6b115554de7ea095eafcda1f9d5ee4",
+      "opening": [
+        "**Case and dockets:** Andrade v. Mayfair Management, Inc.; Fourth Circuit No. 95-2476; 88 F.3d 258.",
+        "**Event and date:** Merits decision, 1997-02-26.",
+        "**Result:** Vacated on hostile-environment employer attribution and remanded, 9-0; constructive discharge remains outside review.",
+        "**Version / lineage:** Initial adjudication; supersedes no completed event. Git verification and repository commitment are reserved to the operator under the no-Git instruction."
+      ],
+      "public_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    {
+      "record": "Arizonans_for_Official_English_v_Arizona_merits_1997-03-03.md",
+      "sha256": "bf236f92a6bba6dd0dd2093efdda8af293cf66ff08e0a752e135374e40dad9d6",
+      "opening": [
+        "**Case and dockets:** Arizonans for Official English v. Arizona; No. 95-974.",
+        "**Event and date:** Merits decision, 1997-03-03; OT1996, chunk 5, inventory 51.",
+        "**Result:** Both lower merits judgments vacated; action dismissed as moot on remand, 9-0.",
+        "**Version / lineage:** Initial adjudication; supersedes no completed event. Repository verification and commit are reserved to the operator under the no-Git instruction."
+      ],
+      "public_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    {
+      "record": "Bennett_v_Spear_merits_1997-03-19.md",
+      "sha256": "e5051898e4835dbd8e8c1a966427e60b2f2b0209be93b7d00dadd1634db8ce18",
+      "opening": [
+        "**Case and dockets:** Bennett v. Spear; No. 95-813.",
+        "**Event and date:** Merits decision; 1997-03-19; OT1996, chunk 5.",
+        "**Result:** Reverse dismissal of the reviewed ESA/APA claims and remand, 9\u20130; leave the unchallenged NEPA dismissal undisturbed.",
+        "**Version / lineage:** Initial Canonical Decision Record for this event; supersedes no completed adjudication. Written under the user-authorized no-Git workflow; no Git commitment is claimed."
+      ],
+      "public_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    {
+      "record": "Brown_v_Polk_County_merits_1997-03-17.md",
+      "sha256": "2f0529c0f0e8e7314d0e92175ae4fd26780c6a6fea72c594d99cc38d66c4f58f",
+      "opening": [
+        "**Case and dockets:** Brown v. Polk County; Eighth Circuit No. 93-3313, 61 F.3d 650 (en banc); no separate Supreme Court merits docket supplied.",
+        "**Event and date:** Merits decision; 1997-03-17; OT1996, chunk 5.",
+        "**Result:** Affirm the reviewed en banc judgment, 9\u20130; the statutory religious-discharge liability determination remains closed and the separate constitutional and statutory tracks return only for appropriate relief.",
+        "**Version / lineage:** Initial Canonical Decision Record for this event; supersedes no completed adjudication. Written under the user-authorized no-Git workflow; no Git commitment is claimed."
+      ],
+      "public_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    {
+      "record": "Commissioner_v_Estate_of_Hubert_merits_1997-03-18.md",
+      "sha256": "beea4b0e55ba02dce67805f6841908142a1476d11495bdcc183c3c40a778be4c",
+      "opening": [
+        "**Case and dockets:** Commissioner v. Estate of Hubert; No. 95-1402.",
+        "**Event and date:** Merits decision; 1997-03-18; OT1996, chunk 5.",
+        "**Result:** Affirm the Eleventh Circuit and the reviewed Tax Court result, 7\u20132; Scalia and Breyer dissent and would reverse and remand for calculation of a required reduction.",
+        "**Version / lineage:** Initial Canonical Decision Record for this event; supersedes no completed adjudication. Written under the user-authorized no-Git workflow; no Git commitment is claimed."
+      ],
+      "public_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    {
+      "record": "In_re_Rhone_Poulenc_Rorer_merits_1997-02-26.md",
+      "sha256": "9ab8d9d5ff5828bd399e1d24d5079b1ef0e672146a5fcc8c005b5070bb0d5691",
+      "opening": [
+        "**Case and dockets:** In re Rhone-Poulenc Rorer; Seventh Circuit No. 94-3912; 51 F.3d 1293.",
+        "**Event and date:** Merits decision, 1997-02-26; OT1996, chunk 5, inventory 49.",
+        "**Result:** Reversed and remanded with instructions to deny mandamus, 9-0.",
+        "**Version / lineage:** Initial adjudication; supersedes no completed event. Repository verification and commit are reserved to the operator under the no-Git instruction."
+      ],
+      "public_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    {
+      "record": "Nabozny_v_Podlesny_merits_1997-03-10.md",
+      "sha256": "30ba386b7e69c906c683fca9146da092df1bf6e552a1dfc364073fa1c2e4b015",
+      "opening": [
+        "**Case and dockets:** Nabozny v. Podlesny; Seventh Circuit No. 95-3634, 92 F.3d 446; no separate Supreme Court merits docket supplied.",
+        "**Event and date:** Merits decision; 1997-03-10; OT1996, chunk 5.",
+        "**Result:** Affirm the Seventh Circuit on all reviewed components, 9\u20130; surviving equal-protection claims return for ordinary proceedings; due-process dismissal stands.",
+        "**Version / lineage:** Initial Canonical Decision Record for this event; supersedes no completed adjudication. Written under the user-authorized no-Git workflow; no Git commitment is claimed."
+      ],
+      "public_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    {
+      "record": "United_States_v_Gonzales_merits_1997-03-03.md",
+      "sha256": "376c2be0a9f5b5d526ad355993b8feee16d5d3b4353224e8c111e34e378fd148",
+      "opening": [
+        "**Case and dockets:** United States v. Gonzales; No. 95-1605.",
+        "**Event and date:** Merits decision, 1997-03-03; OT1996, chunk 5, inventory 52.",
+        "**Result:** Vacated and remanded on \u00a7924(c) state-term concurrency, 7-2; Stevens and Breyer dissent.",
+        "**Version / lineage:** Initial adjudication; supersedes no completed event. Repository verification and commit are reserved to the operator under the no-Git instruction."
+      ],
+      "public_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    {
+      "record": "Warner_Jenkinson_Co_v_Hilton_Davis_Chemical_Co_merits_1997-03-03.md",
+      "sha256": "c3c4bbb385ac38011e1a5cb487e2f6fa88c5541bd5471ce0294e3e78f2fcd81c",
+      "opening": [
+        "**Case and dockets:** Warner-Jenkinson Co. v. Hilton Davis Chemical Co.; No. 95-728.",
+        "**Event and date:** Merits decision, 1997-03-03; OT1996, chunk 5, inventory 53.",
+        "**Result:** Reversed and remanded for element-specific equivalence and prosecution-history analysis, 9-0.",
+        "**Version / lineage:** Initial adjudication, completed through current-Run assembly validation; supersedes no prior completed event. Validation removed an unsupported Chief Justice join on objective intent before the chunk handoff, preserving his express reservation and leaving judgment, author and operative Court rule unchanged. The local validation receipt preserves the prevalidation draft hash. Git verification and repository commit remain reserved to the operator."
+      ],
+      "public_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    {
+      "record": "Wright_v_MetroHealth_Medical_Center_merits_1997-03-03.md",
+      "sha256": "6fbbdc1b31605ecf0e17456817bbd484648bc278f4037c360206bcedf067f0d0",
+      "opening": [
+        "**Case and dockets:** Wright v. MetroHealth Medical Center; Sixth Circuit No. 94-3548; 58 F.3d 1130.",
+        "**Event and date:** Merits decision, 1997-03-03; OT1996, chunk 5, inventory 54.",
+        "**Result:** Affirmed on the granted federal questions, 9-0; ungranted Ohio-law dispositions left undisturbed.",
+        "**Version / lineage:** Initial adjudication; supersedes no completed event. Repository verification and commit are reserved to the operator under the no-Git instruction."
+      ],
+      "public_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    {
+      "record": "Young_v_Harper_merits_1997-03-18.md",
+      "sha256": "85c52a781b47bde5a6c915411a6dad6b0b8f0cab006d4c02e1c2cd89b1574d2c",
+      "opening": [
+        "**Case and dockets:** Young v. Harper; No. 95-1598.",
+        "**Event and date:** Merits decision; 1997-03-18; OT1996, chunk 5.",
+        "**Result:** Affirm the Tenth Circuit\u2019s judgment, 9\u20130; eight Associates adopt review-timing rationale, all nine adopt protected-liberty and revocation-process holdings.",
+        "**Version / lineage:** Initial Canonical Decision Record for this event; supersedes no completed adjudication. Written under the user-authorized no-Git workflow; no Git commitment is claimed."
+      ],
+      "public_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    }
+  ],
+  "errors": [],
+  "scope": "Local artifact verification only; no Git invocation or object check."
+}

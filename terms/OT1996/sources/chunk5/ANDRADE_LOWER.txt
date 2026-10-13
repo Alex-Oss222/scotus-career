@@ -1,0 +1,78 @@
+
+
+ Andrade v. Mayfair Management, Inc. (88 F.3d 258, 1996)
+
+ Library / Case Law / F3D / Volume 88 / Andrade v. Mayfair Management, Inc. (88 F.3d 258, 1996)
+
+Andrade v. Mayfair Management, Inc. (88 F.3d 258, 1996)
+
+United States Court of Appeals for the Fourth Circuit 1996-06-27
+
+Citations
+
+88 F.3d 258
+
+Full opinion text
+
+Affirmed by published opinion. Judge NIEMEYER wrote the opinion, in which Judge MURNAGHAN and Senior Judge YOUNG joined.
+
+OPINION
+
+NIEMEYER, Circuit Judge:
+
+Doreen M. Andrade filed this action against her employer, Mayfair Ghent, Inc., and others, alleging claims under Title VII of the Civil Rights Act of 1964, 42 U.S.C. § 2000e et seq., and under state law. Her claims are based on her contention that her supervisor, Patrick J. Keating, created a sexually hostile work environment. The district court submitted to the jury Andrade’s claims that Mayfair Ghent had violated Title VII by sexually harassing her and that Keating had sexually assaulted her, and dismissed as a matter of law the remaining claims, including a claim for constructive discharge. The jury returned a verdict in Andrade’s favor on the sexual harassment claim, awarding her $25,-000 in damages, but in Keating’s favor on the sexual assault claim. Following the entry of judgment on the verdict, the district court granted Mayfair Ghent’s renewed motion for judgment as a matter of law, relying principally on the ground that Andrade had failed to present evidence that Mayfair Ghent had actual or constructive knowledge of the existence of a sexually hostile work environment.
+
+On appeal Andrade contends that the district court erred (1) in setting aside the jury verdict and entering judgment as a matter of law in favor of Mayfair Ghent on her sexual harassment claim and (2) in not submitting to the jury her claim for constructive discharge. Finding no error, we affirm the district court’s judgment.
+
+I
+
+Andrade worked as a cook for Mayfair Ghent for slightly more than five months during the summer and fall of 1993. She quit her work there on November 22, 1993.
+
+Mayfair Ghent operates an assisted living facility in Norfolk, Virginia, that houses roughly 30 individuals who cannot care for themselves, principally because of illness. As “administrator,” Patrick Keating managed the facility, supervising a staff of nine employees whom he had the authority to hire and fire. Keating, in turn, reported to Larry Goldman, who is a vice president, director, and stockholder of Mayfair Ghent.
+
+Andrade contends that while she worked at the Mayfair Ghent facility, Keating sexually harassed her. She testified at trial that Keating had told her and other employees off-color jokes of a sexual nature; that he used a folded dish towel or cucumber as a sex organ to imitate sexual acts; and that he had directed sexual comments to her, including that he would like to sleep with her. She also testified that he had put his hand in her blouse pocket to touch her breast; that he had brushed against her in tight situations; and that at the end of each day he would “smack [her] on the rear-end” with a newspaper, saying, “have a nice day.” Other witnesses corroborated much of what Andrade related.
+
+Andrade claimed that Keating’s conduct upset her, causing her headaches and difficulty eating and sleeping. But she acknowledged at trial that she had not complained to anyone at Mayfair Ghent about Keating’s conduct. Andrade only confided in Angi-nette Smith, a coworker, whom she authorized to write a letter on her behalf to Larry Goldman.
+
+Smith’s handwritten, six-page letter, is dated November 22, 1993, the day Andrade quit work, and complains about three topics of concern to Smith: (1) “Mr. Keating has trouble with communicating w/staff and residents],” (2) “Mr. Keating is against the resident’s smoking in this facility,” and (3) Keat-ing over-schedules employees, preventing Smith from getting proper rest between shifts. In the discussion of Keating’s smoking regulations, Smith wrote: “Mr. Keating doesn’t inter-act with the residents, he makes nasty jokes, he sexually harasses a cook. I have heard these remarks myself along with others talking.” Smith later indicated that the cook she referred to was An-drade.
+
+Smith delivered the letter, which was not addressed to any particular person, to “a heavy-set woman” who worked at another assisted care facility in Portsmouth, Virginia, that was operated by a corporation related to Mayfair Ghent. The record does not indicate, however, whether the letter was ever delivered to Keating, Goldman, or any other Mayfair Ghent representative. The district court refused to admit the letter into evidence.
+
+Keating, who is 64 and Irish, admitted to telling some “off-color” jokes, which he characterized as basic Irish humor, and to having shown a group of employees a “bar-trick” which involved folding a dish towel into a sex organ, but he denied the remainder of the conduct alleged by Andrade. ' He testified that in November 1993, when Andrade received a call at work that one of her children was in the hospital, he invited Andrade to take a leave from work to visit her child. When Andrade did not return to work, Keat-ing asked another employee to contact An-drade and inform her that he would hold her job open for a short time. However, An-drade never returned to work. Keating testified that he first learned of Andrade’s complaint of sexual harassment when he received a document from the Equal Employment Opportunity Commission (EEOC) several months later.
+
+II
+
+At the close of the evidence, the district court granted Mayfair Ghent’s motion for judgment as a matter of law on Andrade’s constructive discharge claim without submitting it to the jury. And after judgment was entered on the jury verdict, the court also granted Mayfair Ghent’s motion for judgment as a matter of law, setting aside the jury’s verdict awarding Andrade $25,000 on the sexual harassment claim. We review those rulings de novo to determine whether the evidence, when viewed in the light most favorable to Andrade, would have permitted a reasonable jury to render a verdict in her favor. See Benesh v. Amphenol Corp., 52 F.3d 499, 502 (4th Cir.1995).
+
+Title VII of the Civil Rights Act of 1964, 42 U.S.C. § 2000e, prohibits sexual harassment that is “sufficiently severe or pervasive ‘to alter the conditions of [the victim’s] employment and create an abusive working environment.’” See Meritor Sav. Bank, FSB v. Vinson, 477 U.S. 57, 67, 106 S.Ct. 2399, 2405, 91 L.Ed.2d 49 (1986) (quoting Henson v. City of Dundee, 682 F.2d 897, 904 (11th Cir.1982)). Where an employer itself engages in or acquiesces in illegal sexual harassment, it may be held liable under Title VII. See Garber v. Saxon Business Prod., Inc., 552 F.2d 1032 (4th Cir.1977) (per curiam). We have also held that “in situations where a proprietor, partner or corporate officer participates personally in the harassing behavior,” the illegal conduct will be deemed to be that of the employer. See Katz v. Dole, 709 F.2d 251, 255 (4th Cir.1983).
+
+An employer may also be held liable under limited agency principles for employee conduct that creates a hostile work environment. See Meritor, 477 U.S. at 72, 106 S.Ct. at 2408. Addressing employer liability under Title VII for sexual harassment by a supervisor, the Supreme Court in Meritor recognized that while “Congress wanted courts to look to agency principles for guidance,” it also intended “to place some limits on the acts of employees for which employers under Title VII are to be held responsible.” Id. Thus, the Meritor Court admonished lower courts that “employers are [not] automatically liable for sexual harassment by their supervisors.” Id.
+
+Consistent with the Supreme Court’s decision in Meritor, which directs lower courts to adapt agency principles to define employer liability under Title VII, we have established, through a long line of precedent, that an employer is liable for a sexually hostile work environment created by a supervisor or other employee only if the employer knew or should have known of the illegal conduct and failed to take prompt and adequate remedial action. See Spicer v. Virginia Dep’t of Corrections, 66 F.3d 705, 710 (4th Cir.1995) (en banc); Paroline v. Unisys Corp., 900 F.2d 27, 28 (4th Cir.1990) (en banc) (per curiam) (adopting Paroline v. Unisys Corp., 879 F.2d 100, 113-15 (4th Cir.1989) (Wilkinson, J., dissenting)); Swentek v. USAIR, Inc., 830 F.2d 552, 558 (4th Cir.1987); Katz, 709 F.2d at 255-56; see also Amirmokri v. Baltimore Gas and Elec. Co., 60 F.3d 1126, 1130-32 (4th Cir.1995) (applying rule to Title VII claim of national origin harassment); Dennis v. County of Fairfax, 55 F.3d 151, 155-56 (4th Cir.1995) (applying rule to claim of racial harassment under 42 U.S.C. § 1981 and Title VII). “Drawing upon that settled law,” we explained further in Dennis, “where an employer implements timely and adequate corrective measures after harassing conduct has come to its attention, vicarious liability should be barred regardless of the specific motivation for the wrongdoing or the particular cause of action.” Id. at 156.
+
+Our precedent rests on the presumption that illegal sexual harassment is an illegitimate corporate activity, beyond the scope of supervisors’ employment. See generally Restatement (Second) of Agency § 219; cf. Jamison v. Wiley, 14 F.3d 222, 237 (4th Cir.1994) (applying Virginia law to sexual assault and battery claims); Davis v. United States Steel Corp., 779 F.2d 209, 211 (4th Cir.1985) (applying South Carolina law to assault and battery and intentional infliction of emotional distress claims arising out of alleged sexual misconduct); Rabon v. Guardsmark, Inc., 571 F.2d 1277, 1279 (4th Cir.) (applying South Carolina law to sexual assault), cert. denied, 439 U.S. 866, 99 S.Ct. 191, 58 L.Ed.2d 176 (1978). And this presumption is in accord with the law of other circuits. See, e.g., Gary v. Long, 59 F.3d 1391, 1398 (D.C.Cir.) (harassing supervisor acts outside the scope of employment in creating hostile environment, and employer is not liable where it has adopted policies and implemented measures condemning sexual harassment), cert. denied, — U.S. -, 116 S.Ct. 569, 133 L.Ed.2d 493 (1995); Bouton v. BMW of North America, Inc., 29 F.3d 103, 107 (3rd Cir.1994) (sexual harassment outside scope of employment and liability for supervisor’s sexual harassment may only be imputed to employer where supervisor exercises actual authority in harassing plaintiff or plaintiffs belief that supervisor has apparent authority to do so is reasonable); Steele v. Offshore Shipbuilding, Inc., 867 F.2d 1311, 1316 (11th Cir.1989) (in hostile environment case, supervisor “acts outside ‘the scope of actual or apparent authority to hire, fire, discipline, or promote’ ” and employer is liable only if it knew or should have known of the harassment and failed to take prompt remedial action).
+
+In this case, Andrade argues that Keating’s sexual harassment is automatically imputable to Mayfair Ghent because Keating was the facility administrator and was Andrade’s supervisor with authority to hire and fire all employees at the facility. But, as the record reveals, Andrade knew that Larry Goldman was the corporate officer to whom Keating reported and to whom she should complain about Keating’s conduct. Indeed, Andrade ultimately alleged that she intended to complain to Goldman through Smith’s letter. Although a supervisor for Mayfair Ghent, Keating was not a proprietor, partner, or corporate officer, and his conduct can be imputed to Mayfair Ghent only if Mayfair Ghent knew or should have known of it and failed to take prompt and adequate remedial action.
+
+Andrade argues that Smith’s letter notified Mayfair Ghent of Keating’s alleged harassment and that the district court erred in refusing to admit it into evidence. An-drade provided no foundation, however, that anyone at Mayfair Ghent ever received the letter. Moreover, because Smith wrote her letter the very day that Andrade quit work, the letter could not establish that Mayfair Ghent had notice and failed to take prompt and adequate remedial action. This conclusion is consistent with Andrade’s testimony at trial that she had not informed anyone at Mayfair Ghent about Keating’s alleged harassment. And there was no testimony from any other witness that any responsible person at Mayfair Ghent had ever been informed of Keating’s alleged sexual harassment before Andrade quit her job and filed her EEOC complaint.
+
+Because there is no record evidence that Mayfair Ghent had actual or constructive knowledge of a sexually hostile work environment, the district court properly entered judgment as a matter of law for Mayfair Ghent.
+
+Ill
+
+Andrade also contends that the district court erred in dismissing her constructive discharge claim. To make out a claim for constructive discharge, a plaintiff must prove, in addition to a hostile work environment, (1) the “deliberateness of the employer’s action” and (2) the “intolerability of the working conditions.” Bristow v. Daily Press, Inc., 770 F.2d 1251, 1255 (4th Cir.1985), cert. denied, 475 U.S. 1082, 106 S.Ct. 1461, 89 L.Ed.2d 718 (1986). “Deliberateness exists only if the actions complained of “were intended by the employer as an effort to force the employee to quit.’ ” Id. (quoting EEOC v. Federal Reserve Bank of Richmond, 698 F.2d 633, 672 (4th Cir.1983), rev’d on other grounds, 467 U.S. 867, 104 S.Ct. 2794, 81 L.Ed.2d 718 (1984)).
+
+At trial, Andrade testified that when she left her job, she did not think Keating wanted her to quit. Pearl Tann, a fellow Mayfair Ghent employee, similarly testified that Keating had asked her to find out whether Andrade planned to return to work and whether Andrade wanted Keating to hold her job for her. According to Tann, Andrade did not return to work because she did not have a baby-sitter. In the same vein, Keating testified that he had offered, through Tann, to reserve Andrade’s position for a short time, but that Andrade had indicated that “she wasn’t coming back.” We agree with the district court that this undisputed testimony precludes Andrade’s claim for constructive discharge.
+
+Andrade argues for the first time on appeal that the jury could have found a constructive discharge on the theory that Keat-ing wanted to keep her around so that he could continue to “perpetrate and execute his lascivious acts” on her. Because this theory was not presented to the court below and, in any event, is not supported by any evidence in the record, we reject it.
+
+In light of our disposition of issues that we have discussed, we need not reach Andrade’s other assignments of error. Accordingly, the judgment of the district court is
+
+AFFIRMED.
+
+ Case data from CAP; generated_at 
+
+Official source: Caselaw Access Project — verify the citation there.
+
+⚖ Informational only — not legal advice. Verify against the official source. Public-domain sources (Caselaw Access Project · govinfo · National Archives). About & provenance →
+

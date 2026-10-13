@@ -1,0 +1,154 @@
+
+
+ Bennett v. Spear, 520 U.S. 154 (1997).
+
+LII
+
+Supreme Court
+
+Bennett v. Spear (95-813), 520 U.S. 154 (1997).
+
+Opinion 
+ [ Scalia ]Syllabus 
+
+HTML version
+WordPerfect versionHTML version
+WordPerfect version
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See United States v. Detroit Timber & Lumber
+ Co., 200
+ U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+Syllabus
+
+BENNETT et al.
+
+ v. 
+SPEAR et al.
+
+certiorari to the united states
+ court of appeals for the ninth circuit
+
+No. 95-813.
+ Argued November 13, 1996 -- Decided
+ March 19, 1997
+
+The Endangered Species Act of 1973 (ESA) requires the Secretary of the
+ Interior to specify animal species that are "threatened" or "endangered"
+ and designate their "critical habitat," 16
+ U.S.C. § 1533 and requires federal agencies to ensure that any
+ action they authorize, fund, or carry out is not likely to jeopardize a
+ listed species or adversely modify its critical habitat, §1536(a)(2).
+ If an agency determines that a proposed action may adversely affect such
+ a species, it must formally consult with the Fish and Wildlife Service,
+ which must provide it with a written statement (the Biological Opinion)
+ explaining how the proposed action will affect the species or its habitat.
+ §1536(b)(3)(A). If the Service concludes that such action will result
+ in jeopardy or adverse habitat modification, §1536(a)(2), the Biological
+ Opinion must outline any "reasonable and prudent alternatives" that the
+ Service believes will avoid that consequence, §1536(b)(3)(A). If the
+ Biological Opinion concludes that no jeopardy or adverse habitat modification
+ will result, or if it offers reasonable and prudent alternatives, the Service
+ must issue a written statement (known as the "Incidental Take Statement")
+ specifying the terms and conditions under which an agency may take the
+ species. §1536(b)(4). After the Bureau of Reclamation notified the
+ Service that the operation of the Klamath Irrigation Project might affect
+ two endangered species of fish, the Service issued a Biological Opinion,
+ concluding that the proposed long term operation of the project was likely
+ to jeopardize the species and identifying as a reasonable and prudent alternative
+ the maintenance of minimum water levels on certain reservoirs. The Bureau
+ notified the Service that it would operate the project in compliance with
+ the Biological Opinion. Petitioners, irrigation districts receiving project
+ water and operators of ranches in those districts, filed this action against
+ respondents, the Service's director and regional directors and the Secretary,
+ claiming that the jeopardy determination and imposition of minimum water
+ levels violated §1536, and constituted an implicit critical habitat
+ determination for the species in violation of §1533(b)(2)'s requirement
+ that the designation's economic impact be considered. They also claimed
+ that the actions violated the Administrative Procedure Act (APA), which
+ prohibits agency actions that are arbitrary, capricious, an abuse of discretion,
+ or otherwise not in accordance with law. 5
+ U.S.C. § 706(2)(A). The District Court dismissed the complaint,
+ concluding that petitioners lacked standing because they asserted "recreational,
+ aesthetic, and commercial interests" that did not fall within the zone
+ of interests sought to be protected by the ESA. The Court of Appeals affirmed,
+ holding that the "zone of interests" test--which requires that a plaintiff's
+ grievance arguably fall within the zone of interests protected or regulated
+ by the statutory provision or constitutional guarantee invoked in the suit--limits
+ the class of persons who may obtain judicial review not only under the
+ APA, but also under the ESA's citizen suit provision, 16
+ U.S.C. § 1540(g); and that only plaintiffs alleging an interest
+ in the preservation of endangered species fall within the zone of
+ interests protected by the ESA.
+
+Held: Petitioners have
+ standing to seek judicial review of the Biological Opinion. Pp. 5-24.
+
+(a) The Court of Appeals erred
+ in concluding that petitioners lacked standing under the zone of interests
+ test to bring their claims under the ESA's citizen suit provision. The
+ test is a prudential standing requirement of general application, see,
+ e.g., Allen v. Wright, 468
+ U.S. 737, 751, that applies unless expressly negated by Congress. By
+ providing that "any person may commence a civil suit," §1540(g)(1)
+ negates the test. The quoted phrase is an authorization of remarkable breadth
+ when compared with the language Congress ordinarily uses. The Court's readiness
+ to take the term "any person" at face value is greatly augmented by the
+ interrelated considerations that the legislation's overall subject matter
+ is the environment and that §1540(g)'s obvious purpose is to encourage
+ enforcement by so called "private attorneys general." See Trafficante
+ v. Metropolitan Life Ins. Co., 409
+ U.S. 205, 210-211. The "any person" formulation applies to all §1540(g)
+ causes of action, including actions against the Secretary asserting over
+ enforcement of §1533; there is no textual basis for saying that the
+ formulation's expansion of standing requirements applies to environmentalists
+ alone. Pp. 5-11.
+
+(b) Three alternative grounds advanced by the Government--(1)
+ that petitioners fail to meet Article III standing requirements; (2) that
+ §1540(g) does not authorize judicial review of the types of claims
+ petitioners advanced; and (3) that judicial review is unavailable under
+ the APA--do not support affirmance. Petitioners' complaint alleges an injury
+ in fact that is fairly traceable to the Biological Opinion and redressable
+ by a favorable judicial ruling and, thus, meets Article III standing requirements
+ at this stage of the litigation. Their §1533 claim is clearly reviewable
+ under §1540(g)(1)(C), which authorizes suit against the Secretary
+ for an alleged failure to perform any nondiscretionary act or duty under
+ §1533. Their §1536 claims are obviously not reviewable under
+ subsection (C), however. Nor are they reviewable under subsection (A),
+ which authorizes injunctive actions against any person "who is alleged
+ to be in violation" of the ESA or its regulations. Viewed in the context
+ of the entire statute, subsection (A)'s reference to any ESA "violation"
+ cannot be interpreted to include the Secretary's maladministration of the
+ Act. The §1536 claims are nonetheless reviewable under the APA. The
+ ESA does not preclude such review, and the claim that petitioners will
+ suffer economic harm because of an erroneous jeopardy determination is
+ plainly within the zone of interests protected by §1536, the statutory
+ provision whose violation forms the basis for the complaint, see Lujan
+ v. National Wildlife Federation, 497
+ U.S. 871. In addition, the Biological Opinion constitutes final agency
+ action for APA purposes. It marks the consummation of the agency's decisionmaking
+ process, Chicago & Southern Air Lines, Inc. v. Waterman S.
+ S. Corp., 333
+ U.S. 103, 113. It is also an action from which "legal consequences
+ will flow," Port of Boston Marine Terminal Assn. v. Rederiaktiebolaget
+ Transatlantic, 400
+ U.S. 62, 71, because the Biological Opinion and accompanying Incidental
+ Take Statement alter the legal regime to which the Bureau is subject, authorizing
+ it to take the endangered species if (but only if) it complies with the
+ prescribed conditions. Franklin v. Massachusetts, 505
+ U.S. 788, and Dalton v. Specter, 511
+ U.S. 462, distinguished. Pp. 11-23.
+
+63 F. 3d 915,
+ reversed and remanded.
+
+Scalia, J., delivered the opinion
+ for a unanimous Court.
+

@@ -1,0 +1,17 @@
+{
+  "input": "terms\\OT1996\\runtime\\OT_1996CHUNK5_NEUTRAL.md",
+  "input_sha256": "81d5134be92544cbf6c500dcb62ae2028bcb38b63eb84c132cc24874ad147ef7",
+  "output": "terms\\OT1996\\tmp\\OT_1996CHUNK5_NEUTRAL_REDACTED.md",
+  "output_sha256": "979961ecbcd6881cc052b28ea544fa6e8356c54ad1a0637bd92d5938ac60412a",
+  "changes": [
+    {
+      "old": "Argued merits case in which the Court later identified a state-court preservation defect and dismissed the writ as improvidently granted.",
+      "new": "Argued merits case."
+    },
+    {
+      "old": "The due-process judgment may be affirmed under Stone’s proposed narrow evaluation of the affirmative-deprivation claim, without attributing that merits rule to Pinder. ",
+      "new": ""
+    }
+  ],
+  "scope": "Mechanical deletion of two overt excluded-material leaks; no substantive neutral validation by control. Original runtime untouched. Fresh neutral validation required before modeling affected matters."
+}

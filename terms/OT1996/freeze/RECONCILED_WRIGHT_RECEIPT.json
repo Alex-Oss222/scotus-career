@@ -1,0 +1,30 @@
+﻿{
+    "scope":  "Wright reconciliation after fresh clean neutral repair and independent limited reconsideration",
+    "research_cutoff":  "1997-03-03",
+    "private_stone_exposure":  false,
+    "git_operation":  false,
+    "source_verification":  "Complete saved lower opinion including notes read; relevant procedural/policy primary-text reproduction cross-check via FindLaw. No original employment or court filings claimed newly recovered.",
+    "checks":  "Expected model SHA-256 matched; eight Associate rows; runtime byte-identical; federal affirmance separated from nonreview of Ohio merits dispositions.",
+    "hashes":  [
+                   {
+                       "path":  "terms/OT1996/freeze/OT_1996CHUNK5_WRIGHT_NEUTRAL_REPAIR.md",
+                       "sha256":  "0aa5b2c3f6ee408275c9792eb1540baa2d5f864bcfb3a24b825250704405eaa7"
+                   },
+                   {
+                       "path":  "terms/OT1996/freeze/OT_1996CHUNK5_COMMITMENTS_WRIGHT_REPAIR.md",
+                       "sha256":  "2a4932dbbf0b4363b72dd6ef683f8d06dd4bd45700f41e0b405356c9b923df21"
+                   },
+                   {
+                       "path":  "terms/OT1996/sources/chunk5/WRIGHT_LOWER.txt",
+                       "sha256":  "5adde9107ac1109ab045488971402fcbc30785f854fc254bf60402759b475f2f"
+                   },
+                   {
+                       "path":  "terms/OT1996/freeze/RECONCILED_WRIGHT.md",
+                       "sha256":  "c68e486667d4c9b9da4558883abbd661b6ec6c8cfe57049cf7353774c7422a90"
+                   },
+                   {
+                       "path":  "terms/OT1996/runtime/RECONCILED_WRIGHT.md",
+                       "sha256":  "c68e486667d4c9b9da4558883abbd661b6ec6c8cfe57049cf7353774c7422a90"
+                   }
+               ]
+}

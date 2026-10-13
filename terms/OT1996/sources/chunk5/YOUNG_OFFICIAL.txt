@@ -1,0 +1,517 @@
+143
+OCTOBER TERM, 1996
+Syllabus
+YOUNG et al. v. HARPER
+certiorari to the united states court of appeals for
+the tenth circuit
+No. 95–1598.
+Argued December 9, 1996—Decided March 18, 1997
+Oklahoma’s Preparole Conditional Supervision Program (preparole or Pro-
+gram) took effect whenever the state prisons became overcrowded and
+authorized the conditional release of prisoners before their sentences
+expired.
+The Pardon and Parole Board (Board) determined who could
+participate in it, and an inmate could be placed on preparole after serv-
+ing 15% of his sentence.
+An inmate was eligible for parole only after
+one-third of his sentence had elapsed, and the Governor, based on the
+Board’s recommendation, decided to grant parole.
+Program partici-
+pants and parolees were released subject to similar constraints.
+Upon
+reviewing respondent’s criminal record and prison conduct, the Board
+simultaneously recommended him for parole and released him under
+the Program.
+At that time, he had served 15 years of a life sentence.
+After he spent ﬁve apparently uneventful months outside the peniten-
+tiary, the Governor denied him parole, whereupon he was ordered to,
+and did, report back to prison.
+Despite his claim that his summary
+reincarceration deprived him of liberty without due process in violation
+of the Fourteenth Amendment, he was denied habeas relief by, succes-
+sively, the state trial court, the Oklahoma Court of Criminal Appeals,
+and the Federal District Court.
+The Tenth Circuit reversed, holding
+that preparole was sufﬁciently like parole that a Program participant
+was entitled to the procedural protections set forth in Morrissey v.
+Brewer, 408 U. S. 471.
+Held: The Program, as it existed when respondent was released, was
+equivalent to parole as understood in Morrissey.
+Morrissey’s descrip-
+tion of the “nature of the interest of the parolee in his continued liberty”
+could just as easily have applied to respondent while he was on prepa-
+role.
+In compliance with state procedures, he was released from prison
+before the expiration of his sentence.
+See 408 U. S., at 477.
+He kept
+his own residence; he sought, obtained, and maintained a job; and he
+lived a life generally free of the incidents of imprisonment.
+See id., at
+481–482.
+Although he was not permitted to use alcohol, to incur other
+than educational debt, or to travel outside the county without permis-
+sion, and he was required to report regularly to a parole ofﬁcer, similar
+limits on a parolee’s liberty did not in Morrissey render such liberty
+beyond procedural protection.
+Id., at 478.
+Some of the factors as-
+
+144
+YOUNG v. HARPER
+Opinion of the Court
+serted by petitioners to differentiate the Program from parole under
+Meachum v. Fano, 427 U. S. 215, 228—that preparole had the purpose
+of reducing prison overcrowding, and that a preparolee continued to
+serve his sentence and receive earned credits, remained within the cus-
+tody of the Department of Corrections, and was aware that he could
+have been transferred to a higher security level if the Governor denied
+parole—do not, in fact, appear to distinguish the two programs at all.
+Other differences identiﬁed by petitioners—that participation in the
+Program was ordered by the Board, while the Governor conferred pa-
+role; that escaped preparolees could be prosecuted as though they had
+escaped from prison, while escaped parolees were subject only to parole
+revocation, and that a preparolee could not leave Oklahoma under any
+circumstances, while a parolee could leave the State with his parole
+ofﬁcer’s permission—serve only to set preparole apart from the speciﬁc
+terms of parole as it existed in Oklahoma, but not from the more general
+class of parole identiﬁed in Morrissey.
+The Program appears to have
+differed from parole in name alone.
+Pp. 147–153.
+64 F. 3d 563, afﬁrmed.
+Thomas, J., delivered the opinion for a unanimous Court.
+Sandra D. Howard, Assistant Attorney General of Okla-
+homa, argued the cause for petitioners.
+With her on the
+briefs were W. A. Drew Edmondson, Attorney General, and
+Jennifer B. Miller, Assistant Attorney General.
+Margaret Winter, by appointment of the Court, 518 U. S.
+1015, argued the cause for respondent.
+With her on the
+brief were Marjorie Rifkin, Elizabeth Alexander, Micheal
+Salem, and Steven R. Shapiro.*
+Justice Thomas delivered the opinion of the Court.
+This case presents the narrow question whether a program
+employed by the State of Oklahoma to reduce the overcrowd-
+*A brief of amici curiae urging reversal was ﬁled for the State of Ne-
+vada et al. by Frankie Sue Del Papa, Attorney General of Nevada, and
+Anne Cathcart, Senior Deputy Attorney General, joined by the Attorneys
+General for their respective States as follows: Daniel E. Lungren of Cali-
+fornia, Gale A. Norton of Colorado, Margery S. Bronster of Hawaii, Alan
+G. Lance of Idaho, Joseph P. Mazurek of Montana, and Dennis C. Vacco of
+New York.
+
+145
+Cite as: 520 U. S. 143 (1997)
+Opinion of the Court
+ing of its prisons was sufﬁciently like parole that a person in
+the program was entitled to the procedural protections set
+forth in Morrissey v. Brewer, 408 U. S. 471 (1972), before he
+could be removed from it.
+We hold that the program, as it
+appears to have been structured at the time respondent was
+placed on it, differed from parole in name alone, and afﬁrm
+the decision of the Court of Appeals for the Tenth Circuit.
+I
+As pertinent to this case, Oklahoma operated two pro-
+grams under which inmates were conditionally released from
+prison before the expiration of their sentences.
+One was pa-
+role, the other was the Preparole Conditional Supervision
+Program (preparole or Program).
+The Program was in ef-
+fect whenever the population of the prison system exceeded
+95% of its capacity.
+Okla. Stat., Tit. 57, §365(A) (Supp.
+1990).
+An inmate could be placed on preparole after serving
+15% of his sentence, §365(A)(2), and he was eligible for pa-
+role when one-third of his sentence had elapsed, §332.7(A).
+The Pardon and Parole Board (Board) had a role in the place-
+ment of both parolees and preparolees.
+The Board itself de-
+termined who could participate in the Program, while the
+Governor, based on the Board’s recommendation, decided
+whether a prisoner would be paroled.
+As we describe fur-
+ther in Part II, infra, participants in the Program were
+released subject to constraints similar to those imposed on
+parolees.
+In October 1990, after reviewing respondent Ernest Eu-
+gene Harper’s criminal record and conduct while incar-
+cerated, the Pardon and Parole Board simultaneously rec-
+ommended him for parole and released him under the
+Program.
+At that time, respondent had served 15 years of
+a life sentence for two murders.
+Before his release, re-
+spondent underwent orientation, during which he reviewed
+the “Rules and Conditions of Pre-Parole Conditional Super-
+vision,” see App. 7, and after which he executed a document
+
+146
+YOUNG v. HARPER
+Opinion of the Court
+indicating that he “underst[ood] that being classiﬁed to com-
+munity level depend[ed] upon [his] compliance with each of
+these expectations,” id., at 6.
+He spent ﬁve apparently un-
+eventful months outside the penitentiary.
+Nonetheless, the
+Governor of Oklahoma denied respondent parole.
+On March
+14, 1991, respondent was telephoned by his parole ofﬁcer,
+informed of the Governor’s decision, and told to report back
+to prison, which he did later that day.
+Respondent ﬁled a petition for a writ of habeas corpus in
+state court complaining that his summary return to prison
+had deprived him of liberty without due process.
+The state
+trial court denied relief and the Oklahoma Court of Crimi-
+nal Appeals afﬁrmed.
+852 P. 2d 164 (1993).
+The Court of
+Criminal Appeals concluded that respondent’s removal from
+the Program impinged only upon an interest in his “degree
+of conﬁnement,” an interest to which the procedural protec-
+tions set out in Morrissey did not attach.
+852 P. 2d, at 165.
+The court found “[d]ispositive of the issue” the fact that re-
+spondent “was not granted parole by the Governor of Okla-
+homa.”
+Ibid.
+The court noted that the Board had adopted
+a procedure under which preparolees subsequently denied
+parole remained on the Program, and had their cases re-
+viewed within 90 days of the denial for a determination
+whether they should continue on preparole.
+According to
+the court, “such a procedure gives an inmate sufﬁcient notice
+when he is placed in the program that he may be removed
+from it when the governor exercises his discretion and de-
+clines to grant parole.”
+Ibid.
+Respondent fared no better in District Court on his peti-
+tion for relief under 28 U. S. C. §2254.
+But the Tenth Cir-
+cuit reversed.
+64 F. 3d 563 (1995).
+It determined that pre-
+parole “more closely resembles parole or probation than even
+the more permissive forms of institutional conﬁnement” and
+that “[d]ue process therefore mandates that program partici-
+pants receive at least the procedural protections described
+in Morrissey.”
+Id., at 566–567.
+Petitioners sought certio-
+
+147
+Cite as: 520 U. S. 143 (1997)
+Opinion of the Court
+rari on the limited question whether preparole “is more simi-
+lar to parole or minimum security imprisonment; and, thus,
+whether continued participation in such program is protected
+by the Due Process Clause of the Fourteenth Amendment.”
+Pet. for Cert. i.
+We granted certiorari, 517 U. S. 1219 (1996),
+and, because we ﬁnd that preparole as it existed at the time
+of respondent’s release was equivalent to parole as under-
+stood in Morrissey, we afﬁrm.1
+II
+“The essence of parole is release from prison, before the
+completion of sentence, on the condition that the prisoner
+abide by certain rules during the balance of the sentence.”
+Morrissey, 408 U. S., at 477.
+In Morrissey, we described
+the “nature of the interest of the parolee in his continued
+liberty”:
+“[H]e can be gainfully employed and is free to be with
+family and friends and to form the other enduring at-
+tachments of normal life.
+Though the State properly
+subjects him to many restrictions not applicable to other
+citizens, his condition is very different from that of con-
+ﬁnement in a prison. . . . The parolee has relied on at
+1 Respondent contends that the petition for certiorari was ﬁled out of
+time, and that we are thus without jurisdiction.
+We disagree.
+A timely
+ﬁled petition for rehearing will toll the running of the 90-day period for
+ﬁling a petition for certiorari until disposition of the rehearing petition.
+Missouri v. Jenkins, 495 U. S. 33, 46 (1990).
+The petition for certiorari
+was ﬁled within 90 days of the denial of rehearing.
+Although the petition
+for rehearing was ﬁled two days late, the Tenth Circuit granted petitioners
+“leave to ﬁle a late petition for rehearing and suggestion for rehearing en
+banc,” as it had authority to do.
+See Fed. Rule App. Proc. 40(a).
+More-
+over, after granting petitioners leave to ﬁle the petition for rehearing, the
+Tenth Circuit treated it as timely and no mandate issued until after the
+petition was denied.
+See Fed. Rule App. Proc. 41(a).
+In these circum-
+stances, we are satisﬁed that both the petition for rehearing and the subse-
+quent petition for certiorari were timely ﬁled.
+
+148
+YOUNG v. HARPER
+Opinion of the Court
+least an implicit promise that parole will be revoked only
+if he fails to live up to the parole conditions.”
+Id., at
+482.
+This passage could just as easily have applied to respondent
+while he was on preparole.
+In compliance with state proce-
+dures, he was released from prison before the expiration of
+his sentence.
+He kept his own residence; he sought, ob-
+tained, and maintained a job; and he lived a life generally
+free of the incidents of imprisonment.
+To be sure, respond-
+ent’s liberty was not unlimited.
+He was not permitted to
+use alcohol, to incur other than educational debt, or to travel
+outside the county without permission.
+App. 7–8.
+And he
+was required to report regularly to a parole ofﬁcer.
+Id., at
+7.
+The liberty of a parolee is similarly limited, but that did
+not in Morrissey, 408 U. S., at 478, render such liberty be-
+yond procedural protection.
+Petitioners do not ask us to revisit Morrissey; they merely
+dispute that preparole falls within its compass.
+Our inquiry,
+they argue, should be controlled instead by Meachum v.
+Fano, 427 U. S. 215 (1976).
+There, we determined that the
+interest of a prisoner in avoiding an intrastate prison trans-
+fer was “too ephemeral and insubstantial to trigger proce-
+dural due process protections as long as prison ofﬁcials have
+discretion to transfer him for whatever reason or for no rea-
+son at all.”
+Id., at 228; see also Sandin v. Conner, 515 U. S.
+472, 487 (1995).
+Petitioners contend that reincarceration of
+a preparolee was nothing more than a “transfe[r] to a higher
+degree of conﬁnement” or a “classiﬁcation to a more super-
+vised prison environment,” Brief for Petitioners 18, which,
+like transfers within the prison setting, involved no liberty
+interest.
+In support of their argument that preparole was merely a
+lower security classiﬁcation and not parole, petitioners iden-
+tify several aspects of the Program said to render it different
+from parole.
+Some of these do not, in fact, appear to distin-
+guish the two programs.
+Others serve only to set preparole
+
+149
+Cite as: 520 U. S. 143 (1997)
+Opinion of the Court
+apart from the speciﬁc terms of parole as it existed in Okla-
+homa, but not from the more general class of parole identiﬁed
+in Morrissey.
+None of the differences—real or imagined—
+supports a view of the Program as having been anything
+other than parole as described in Morrissey.
+We ﬁrst take up the phantom differences.
+We are told at
+the outset that the purposes of preparole and parole were
+different.
+Preparole was intended “to reduce prison over-
+crowding,” while parole was designed “to help reintegrate
+the inmate into society.”
+Reply Brief for Petitioners 10.
+This alleged difference is less than it seems.
+Parole could
+also be employed to reduce prison overcrowding, see Okla.
+Stat., Tit. 57, §332.7(B) (Supp. 1990).
+And the Program’s
+requirement that its participants work or attend school be-
+lies the notion that preparole was concerned only with mov-
+ing bodies outside of teeming prison yards.
+In fact, in their
+brief below, petitioners described the Program as one in
+which the Department of Corrections “places eligible in-
+mates into a community for the purpose of reintegration into
+society.”
+Brief for Appellees in No. 95–5026 (CA10), p. 7,
+n. 2.
+We are also told that “an inmate on the Program continues
+to serve his sentence and receives earned credits . . . ,
+whereas a parolee is not serving his sentence and, if parole
+is revoked, the parolee is not entitled to deduct from his sen-
+tence time spent on parole.”
+Reply Brief for Petitioners 11.
+Our review of the statute in effect when respondent was re-
+leased, however, reveals that a parolee was “entitled to a
+deduction from his sentence for all time during which he has
+been or may be on parole” and that, even when parole was
+revoked, the Board had the discretion to credit time spent
+on parole against the sentence.
+Okla. Stat., Tit. 57, §350
+(Supp. 1990).
+Petitioners next argue that preparolees, unlike parolees,
+remained within the custody of the Department of Correc-
+tions.
+This is said to be evidenced by respondent’s having
+
+150
+YOUNG v. HARPER
+Opinion of the Court
+had to report to his parole ofﬁcer weekly and to provide the
+ofﬁcer with a weekly itinerary.
+Reply Brief for Petitioners
+13.
+We are at a loss to explain why respondent’s regular
+visits to his parole ofﬁcer rendered him more “in custody”
+than a parolee, who was required to make similar visits.
+See App. to Brief for Respondent 28a.
+Likewise, the provi-
+sion that preparolees “be subject to disciplinary proceedings
+as established by the Department of Corrections” in the
+event that they “violate any rule or condition during the pe-
+riod of community supervision,” Okla. Stat., Tit. 57, §365(E)
+(Supp. 1990), did not distinguish their “custodial” status from
+that of parolees, who were also subject to the department’s
+custody in the event of a parole violation.
+See Reply Brief
+for Petitioners 13.
+Petitioners, for their ﬁnal nonexistent distinction, argue
+that, because a preparolee “is aware that he may be trans-
+ferred to a higher security level if the Governor, through his
+discretionary power, denies parole,” he does not enjoy the
+same liberty interest as a parolee.
+Brief for Petitioners 20.
+Preparole, contend petitioners, was thus akin to a furlough
+program, in which liberty was not conditioned on the partici-
+pant’s behavior but on extrinsic events.
+By this reasoning,
+respondent would have lacked the “implicit promise” that his
+liberty would continue so long as he complied with the condi-
+tions of his release, Morrissey, 408 U. S., at 482.
+Respond-
+ent concedes the reasoning of petitioners’ argument as it
+relates to furloughs, but challenges the premise that his par-
+ticipation in the Program was conditioned on the Governor’s
+decision regarding parole.
+In support of their assertion that a preparolee knew that
+a denial of parole could result in reincarceration, petitioners
+rely—as they have throughout this litigation—on a proce-
+dure promulgated in August 1991, nearly ﬁve months after
+respondent was returned to prison.
+See Pardon and Parole
+Board Procedure No. 004–011 (1991), App. to Pet. for Cert.
+
+151
+Cite as: 520 U. S. 143 (1997)
+Opinion of the Court
+56a.2
+The Court of Criminal Appeals also relied on this pro-
+vision, but because it was not in effect when respondent was
+released, it has little relevance to this case.
+Nor have we been presented with any other evidence to
+substantiate this asserted limitation on respondent’s release.
+The closest petitioners come is to direct us to the orientation
+form reviewed with respondent upon his release.
+Item 9 of
+that orientation form says: “Reviewed options available in
+the event of parole denial.”
+App. 5.
+Mindful of Procedure
+No. 004–011, as amended after respondent was reincarcer-
+ated, it is possible to read this item as indicating that re-
+spondent was told his participation in the Program could be
+terminated if parole were denied.
+But the mere possibility
+of respondent’s having been so informed is insufﬁcient to
+overcome his showing of the facially complete, written
+“Rules and Conditions of Pre-Parole Conditional Super-
+vision,” App. 7–9, which said nothing about the effect of a
+parole denial.
+Counsel for the State also claims that at the time respond-
+ent was participating in the Program, preparolees were al-
+ways reincarcerated if the Governor denied them parole.
+Tr. of Oral Arg. 8.
+In the absence of evidence to this ef-
+fect—and the State points to none—this assertion is insufﬁ-
+cient to rebut the seemingly complete rules and conditions
+of respondent’s release.
+On the record before us, therefore,
+the premise of petitioners’ argument—that respondent’s con-
+tinued participation was conditioned on extrinsic events—is
+illusory, and the analogy to furlough inapposite.3
+2 The version of Procedure No. 004–011 in effect when respondent was
+placed on the Program was silent as to a parole denial’s effect.
+See App.
+to Pet. for Cert. 43a–52a.
+The procedure was amended again in 1994,
+and now provides that “[i]nmates denied parole by the Governor while on
+[preparole] will remain on the program, unless returned to higher security
+by due process.”
+App. to Brief for Respondent 38a.
+3 Equally illusory is the argument, which petitioners made for the ﬁrst
+time in this Court, that the Board had authority to reimprison a prepa-
+rolee for any reason or for no reason.
+The written rules and conditions
+
+152
+YOUNG v. HARPER
+Opinion of the Court
+Petitioners do identify some actual differences between
+preparole and Oklahoma’s version of parole, but these do no
+better at convincing us that preparole was different from
+parole as we understood it in Morrissey.
+As petitioners
+point out, participation in the Program was ordered by the
+Board, while the Governor conferred parole.
+In this regard,
+preparole was different from parole in Oklahoma; but it was
+no different from parole as we described it in Morrissey.
+See 408 U. S., at 477–478.
+In addition, preparolees who “es-
+cape[d]” from the Program could be prosecuted as though
+they had escaped from prison, see Okla. Stat., Tit. 57,
+§365(F) (Supp. 1990), while it appears that parolees who “es-
+caped” from parole were subject not to further prosecution,
+but to revocation of parole, see Reply Brief for Petitioners
+11.
+That the punishment for failure to abide by one of the
+conditions of his liberty was potentially greater for a prepa-
+rolee than for a parolee did not itself diminish that liberty.
+Petitioners also note that a preparolee could not leave Okla-
+homa under any circumstances, App. 7, while a parolee could
+leave Oklahoma with his parole ofﬁcer’s permission, App. to
+Brief for Respondent 27a.
+This minor difference in a re-
+leased prisoner’s ability to travel did not, we think, alter the
+fundamentally parole-like nature of the Program.4
+III
+We conclude that the Program, as it existed when respond-
+ent was released, was a kind of parole as we understood pa-
+of respondent’s release identify no such absolute discretion, and petitioners
+point to nothing to support their contention.
+4 A comparison of the conditions of preparole of which respondent was
+informed, App. 7–9, and those of which a roughly contemporary parolee
+would have been informed, App. to Brief for Respondent 27a–30a, reveals
+that—except for the travel and “escape” provisions—the two sets of condi-
+tions were essentially identical.
+
+153
+Cite as: 520 U. S. 143 (1997)
+Opinion of the Court
+role in Morrissey.5
+The judgment of the Tenth Circuit is
+therefore afﬁrmed.
+It is so ordered.
+5 The Program appears to be different now.
+We have no occasion to
+pass on whether the State’s amendments to the Program, adopted since
+respondent was reincarcerated, render the liberty interest of a present-
+day preparolee different in kind from that of a parolee.

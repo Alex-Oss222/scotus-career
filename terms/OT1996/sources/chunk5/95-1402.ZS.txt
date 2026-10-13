@@ -1,0 +1,201 @@
+
+
+ C.I.R. v. Estate of Hubert, 520 U.S. 93 (1997)
+
+LII
+
+Supreme Court
+
+C.I.R. v. Estate of Hubert (95-1402), 520 U.S. 93 (1997)
+
+Concurrence 
+ [ O'Connor ]Syllabus 
+ Dissent 
+ [ Scalia ]Dissent 
+ [ Breyer ]Opinion 
+ [ Kennedy ]
+
+HTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect version
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See United States v. Detroit Timber & Lumber
+ Co., 200
+ U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+Syllabus
+
+COMMISSIONER OF INTERNAL REVENUE
+
+ v. 
+ESTATE OF HUBERT, DECEASED, C & S SOVRAN TRUST CO.
+ (GEORGIA) N. A., CO EXECUTOR
+
+certiorari to the united states
+ court of appeals for the eleventh circuit
+
+No. 95-1402.
+ Argued November 12, 1996 -- Decided
+ March 18, 1997
+
+The executors of decedent Hubert's substantial estate filed a federal
+ estate tax return about a year after his death. Subsequently, petitioner
+ Commissioner of Internal Revenue issued a notice of deficiency, claiming
+ underreporting of federal estate tax liability caused by the estate's asserted
+ entitlement to marital and charitable deductions. While the estate's redetermination
+ petition was pending in the Tax Court, interested parties settled much
+ of the litigation surrounding the estate that had begun after Hubert's
+ death. The agreement divided the estate's residue principal, assumed to
+ be worth $26 million on the date of death, about equally between marital
+ trusts and a charitable trust. It also provided that the estate would pay
+ its administration expenses either from the principal or the income of
+ the assets that would comprise the residue and the corpus of the trusts,
+ preserving the executors' discretion to apportion such expenses. The estate
+ paid about $500,000 of its nearly $2 million of administration expenses
+ from principal and the rest from income. It then recalculated its tax liability,
+ reducing the marital and charitable deductions by the amount of principal,
+ but not the amount of income, used to pay the expenses. The Commissioner
+ concluded that using income for expenses required a dollar for dollar reduction
+ of the deductions. The Tax Court disagreed, finding that no reduction was
+ required by reason of the executors' power, or the exercise of their power,
+ to pay administration expenses from income. The Court of Appeals affirmed.
+
+Held: The judgment is
+ affirmed.
+
+63 F. 3d 1083, affirmed.
+
+Justice Kennedy, joined by
+ The Chief Justice, Justice Stevens, and Justice Ginsburg, concluded that
+ a taxpayer does not have to reduce the estate tax deduction for marital
+ or charitable bequests by the amount of the administration expenses that
+ were paid from income generated during administration by assets allocated
+ to those bequests. Pp. 4-16.
+
+(a) Hubert's executors used the standard date of death valuation
+ to determine the value of property included in the gross estate for estate
+ tax purposes. The parties agree that, for purposes of the question presented,
+ the charitable, 26
+ U.S.C. § 2055 and marital, §2056, deduction statutes should
+ be read to require the same answer, notwithstanding differences in their
+ language. Since the marital deduction statute and regulation speak in more
+ specific terms on this question than the charitable deduction statute,
+ this plurality concentrates on the marital provisions, but the holding
+ here applies to both deductions. Pp. 4-5.
+
+(b) The marital deduction statute allows deduction for qualifying
+ property only to the extent of the property's "value." So when the executors
+ use date of death valuation for gross estate purposes, the deduction's
+ value will be limited by that value. Marital deduction "value" is "net
+ value," determined by the same principles as if the bequest were a gift
+ to the spouse, 26
+ CFR § 20.2056(b)-4(a), i.e., present value as of the controlling
+ valuation date, §25.2523(a)-1(e); see also §§20.2056(b)-4(d),
+ 20.2055-2(f)(1). Although the question presented is not controlled by these
+ provisions' exact terms, it is natural to apply the present value principle
+ here. Thus, assuming it were necessary for valuation purposes to take into
+ account that income, this would be done by subtracting from the value of
+ the bequest, computed as if the income were not subject to administration
+ expense charges, the present value (as of the controlling valuation date)
+ of the income expected to be used to pay administration expenses. Cf. Ithaca
+ Trust Co. v. United States, 279
+ U.S. 151. There is no dispute the entire interests transferred in trust
+ here qualify for the marital and charitable deductions; the question before
+ the Court is one of valuation. Pp. 5-9.
+
+(c) Only material limitations on the right to receive income are
+ taken into account when valuing the property interest passing to the surviving
+ spouse. 26
+ CFR § 20.2056(b)-4(a). A provision requiring or allowing administration
+ expenses to be paid from income "may" be deemed a "material limitation"
+ on the spouse's right to income. For example, where the amount of the corpus,
+ and the expected income from it, are small, the amount of the estate's
+ anticipated administration expenses chargeable to income may be material
+ as compared with the anticipated income used to determine the assets' date
+ of death value. Whether a limitation is material will also depend in part
+ on the nature of the spouse's interest in the assets generating income.
+ An obligation to pay administration expenses from income is more likely
+ to be material where the value of the trust to the spouse is derived solely
+ from income, but is less likely to be material where, as here, the marital
+ property is valued as being equivalent to a transfer of the fee. Pp. 10-12.
+
+(d) The Tax Court found that, on the facts presented, the trustee's
+ discretion to pay administration expenses out of income was not a material
+ limitation on the right to receive income. There is no reason to reverse
+ for the Tax Court's failure to specify the facts it considered relevant
+ to the materiality inquiry. The anticipated expenses could have been thought
+ immaterial in light of the income the trust corpus could have been expected
+ to generate. P. 12.
+
+(e) This approach to the valuation question is consistent with
+ the language of 26
+ U.S.C. § 2056(b), as interpreted in United States v. Stapf,
+ 375
+ U.S. 118, 126, in which the Court held that the marital deduction should
+ not exceed the "net economic interest received by the surviving spouse."
+ There is no basis here for the Commissioner's argument that the reduction
+ she seeks is necessary to avoid a "double deduction" for administration
+ expenses in violation of 26
+ U.S.C. § 642(g). Moreover, assuming that the marital deduction
+ statute's legislative history would have relevance here, it does not support
+ the Commissioner's position. Pp. 13-16.
+
+Justice O'Connor, joined by Justice Souter and Justice Thomas,
+ concluded that the relevant sources point to a test of quantitative materiality
+ to determine whether allocation of administrative expenses to postmortem
+ income reduces marital and charitable deductions, and that test is not
+ met by the unusual factual record in this case. Pp. 1-12.
+
+(a) Neither the Tax Code itself nor its legislative history supplies
+ guidance on the question whether allocation of administrative expenses
+ to postmortem income reduces the marital deduction always, sometimes, or
+ not at all. However, the Commissioner's regulations and revenue rulings
+ can be relied on to decide this issue. Title 26
+ CFR § 20.2056(b)-4(a) directs the reader to ask whether the executor's
+ right to allocate administrative expenses to the marital bequest's postmortem
+ income is a "material limitation" upon the spouse's "right to income from
+ the property," such that "account must be taken of its effect." Because
+ the executor's power is undeniably a "limitation" on the spouse's right
+ to income, the case hinges on whether that limitation is "material." In
+ Revenue Ruling 93-48, the Commissioner ruled that §20.2056(b)-4(a)'s
+ marital deduction is not "ordinarily" reduced when an executor allocates
+ interest payments on deferred federal estate taxes to the spousal bequest's
+ postmortem income. Such interest and the administrative expenses at issue
+ here are so similar that they should be treated the same under §20.2056(b)-4(a).
+ The Commissioner's treatment of interest in the Revenue Ruling also indicates
+ that some, but not all, financial obligations will reduce the marital deduction.
+ Thus, by virtue of the Ruling, the Commissioner has created a quantitative
+ materiality rule for §20.2056(b)-4(a). This rule is consistent with
+ the example set forth in §20.2056(b)-4(a), and the Commissioner's
+ expressed preference for such a construction is entitled to deference.
+ Pp. 2-10.
+
+(b) The proper measure of materiality has yet to be decided by
+ the Commissioner. In the absence of guidance from the Commissioner, the
+ Tax Court's approach is as consistent with the Code as any other test,
+ and provides no basis for reversal. Here, the Commissioner's litigation
+ strategy effectively preempted the Tax Court from finding the $1.5 million
+ diminution in postmortem income material under a quantitative materiality
+ test, for she argued that any diversion of postmortem income was
+ material and never presented any evidence or argued that this diminution
+ was quantitatively material. Her failure to offer proof of materiality
+ left the Tax Court with little choice but to reach its carefully crafted
+ conclusion that the amount was not quantitatively material on the facts
+ before it. Pp. 10-12.
+
+Kennedy, J., announced the
+ judgment of the Court and delivered an opinion, in which Rehnquist, C.
+ J., and Stevens and Ginsburg, JJ., joined. O'Connor, J., filed an opinion
+ concurring in the judgment, in which Souter and Thomas, JJ., joined. Scalia,
+ J., filed a dissenting opinion, in which Breyer, J., joined. Breyer, J.,
+ filed a dissenting opinion.
+

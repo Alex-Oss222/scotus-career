@@ -1,0 +1,22 @@
+{
+  "records": [
+    "Andrade_v_Mayfair_Management_Inc_merits_1997-02-26.md",
+    "In_re_Rhone_Poulenc_Rorer_merits_1997-02-26.md",
+    "Adams_v_Robertson_DIG_1997-03-03.md",
+    "Arizonans_for_Official_English_v_Arizona_merits_1997-03-03.md",
+    "United_States_v_Gonzales_merits_1997-03-03.md",
+    "Warner_Jenkinson_Co_v_Hilton_Davis_Chemical_Co_merits_1997-03-03.md",
+    "Wright_v_MetroHealth_Medical_Center_merits_1997-03-03.md",
+    "Nabozny_v_Podlesny_merits_1997-03-10.md",
+    "Brown_v_Polk_County_merits_1997-03-17.md",
+    "Commissioner_v_Estate_of_Hubert_merits_1997-03-18.md",
+    "Young_v_Harper_merits_1997-03-18.md",
+    "Bennett_v_Spear_merits_1997-03-19.md"
+  ],
+  "court_events": 59,
+  "admitted_sources": 2,
+  "cursor": "1997-03-19",
+  "next_open_row": "| 1997-03-19 | OT_1996CHUNK6 | Oncale v. Sundowner Offshore Services, Inc. + | Fifth Circuit No. 95-30510 | MERITS | Authorized simulation lower-court merits grant | Open | Assigned preparation date | 1997-03-19 | Granted \u2014 to be heard on the merits | Common prerequisites; Standing State \u00a74 questions and neutral merits record |",
+  "uncompleted_chunk_rows": [],
+  "method": "Exact source-copy of bounded Public Projection fields into cumulative workspace."
+}
