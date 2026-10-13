@@ -58,16 +58,17 @@ Affirm the Second Circuit's reversal of dismissal and remand of both Kadic and D
 
 # SECTION II — STONE POSITION SUPPLEMENT
 
-**Current approval status:** All Stone answers, reasoning, proposed dispositions and stated conditional fallbacks in this supplement are approved by the user on October 11, 2026. They are Stone’s positions for the simulation, not Court decisions. Approval does not establish missing evidence, participation or an intervening Court holding.
+**Current approval status:** All Stone answers, reasoning, proposed dispositions and stated conditional fallbacks in this supplement are approved by the user on October 11, 2026; the reargument vote in Part B was added and approved by the user on October 13, 2026 (Version 2). They are Stone’s positions for the simulation, not Court decisions. Approval does not establish missing evidence, participation or an intervening Court holding.
 
 ## A. STATUS
 
-- **Approval Status:** Source-designated approved position, preserved subject to the express precedent conflicts identified below. This packet does not enter a Court decision.
+- **Approval Status:** Version 2, approved by the user on October 13, 2026, preserved subject to the express precedent conflicts identified below. This packet does not enter a Court decision.
 
 ## B. JUDGMENT, REASONING, AND REMEDY
 
 - **Stone's Controlled Judgment or Disposition:** Affirm the Fifth Circuit's judgment.
 - **Stone's Remedy and Remand Instruction:** The jury's municipal-liability judgment remains in force. No ruling is made on individual-officer qualified immunity, which is not before the Court, or on any theory not included in the municipal judgment under review.
+- **Reargument:** If no disposition commands a majority, Stone votes to restore the case to the calendar for reargument. His view that the Fifth Circuit's judgment should be affirmed, for the reasons in Issue 1, is unchanged; at this stage it is stated in no opinion.
 
 ### Issue 1: Municipal liability for a final policymaker's single hire
 
