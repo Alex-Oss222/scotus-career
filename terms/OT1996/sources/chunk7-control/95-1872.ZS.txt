@@ -1,0 +1,185 @@
+
+
+    Strate v. A-1 Contractors, 520 U.S. 438 (1997).
+
+LII
+
+Supreme Court
+
+Strate v. A-1 Contractors (95-1872), 520 U.S. 438 (1997). 
+
+Syllabus 
+  Opinion 
+ [ Ginsburg ]
+
+HTML version
+WordPerfect versionHTML version
+WordPerfect version
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See United States v. Detroit Timber & Lumber
+ Co., 200
+ U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+Syllabus
+
+STRATE, ASSOCIATE TRIBAL JUDGE,
+ TRIBAL COURT OF THE THREE AFFILIATED TRIBES OF THE FORT BERTHOLD INDIAN
+ RESERVATION, et al. v. A-1 CONTRACTORS et al.
+
+certiorari to the united states
+ court of appeals for the eighth circuit
+
+No. 95-1872.
+ Argued January 7, 1997 -- Decided
+ April 28, 1997
+
+Vehicles driven by petitioner Fredericks and respondent Stockert collided
+ on a portion of a North Dakota state highway that runs through the Fort
+ Berthold Indian Reservation. The 6.59 mile stretch of highway within the
+ reservation is open to the public, affords access to a federal water resource
+ project, and is maintained by North Dakota under a federally granted right
+ of way that lies on land held by the United States in trust for the Three
+ Affiliated Tribes and their members. Neither driver is a member of the
+ Tribes or an Indian, but Fredericks is the widow of a deceased tribal member
+ and has five adult children who are also members. The truck driven by Stockert
+ belonged to his employer, respondent A-1 Contractors, a non Indian owned
+ enterprise with its principal place of business outside the reservation.
+ At the time, A-1 was under a subcontract with LCM Corporation, a corporation
+ wholly owned by the Tribes, to do landscaping within the reservation. The
+ record does not show whether Stockert was engaged in subcontract work at
+ the time of the accident. Fredericks filed a personal injury action in
+ Tribal Court against Stockert and A-1, and Fredericks' adult children filed
+ a loss of consortium claim in the same lawsuit. The Tribal Court ruled
+ that it had jurisdiction over Fredericks' claim and therefore denied respondents'
+ motion to dismiss, and the Northern Plains Intertribal Court of Appeals
+ affirmed. Respondents then commenced this action in the Federal District
+ Court against Fredericks, her adult children, the Tribal Court, and Tribal
+ Judge Strate, seeking a declaratory judgment that, as a matter of federal
+ law, the Tribal Court lacked jurisdiction to adjudicate Fredericks' claims;
+ respondents also sought an injunction against further Tribal Court proceedings.
+ Relying particularly on National Farmers Union Ins. Cos. v. Crow
+ Tribe, 471
+ U.S. 845, and Iowa Mut. Ins. Co. v. LaPlante, 480
+ U.S. 9, the District Court dismissed the action, determining that the
+ Tribal Court had civil jurisdiction over Fredericks' complaint against
+ respondents. The en banc Eighth Circuit reversed, concluding that the controlling
+ precedent was Montana v. United States, 450
+ U.S. 544, and that, under Montana, the Tribal Court lacked subject
+ matter jurisdiction over the dispute.
+
+Held: When an accident
+ occurs on a public highway maintained by the State pursuant to a federally
+ granted right of way over Indian reservation land, a civil action against
+ allegedly negligent nonmembers falls within state or federal regulatory
+ and adjudicatory governance; absent a statute or treaty authorizing the
+ tribe to govern the conduct of nonmembers driving on the State's highway,
+ tribal courts may not exercise jurisdiction in such cases. This Court expresses
+ no view on the governing law or proper forum when an accident occurs on
+ a tribal road within a reservation. Pp. 4-20.
+
+(a) Absent express authorization
+ by federal statute or treaty, tribal jurisdiction over nonmembers' conduct
+ exists only in limited circumstances. In Oliphant v. Suquamish
+ Tribe, 435
+ U.S. 191, the Court held that tribes lack criminal jurisdiction over
+ non Indians. Later, in Montana v. United States, the Court
+ set forth the general rule that, absent a different congressional direction,
+ Indian tribes lack civil authority over the conduct of nonmembers on non
+ Indian land within a reservation, subject to exceptions relating to (1)
+ the activities of nonmembers who enter consensual relationships with the
+ tribe or its members and (2) nonmember conduct that threatens or directly
+ affects the tribe's political integrity, economic security, health, or
+ welfare. 450 U. S., at 564-567. Pp. 4-7.
+
+(b) Montana controls this case. Contrary to petitioners'
+ contention, National Farmers and Iowa Mutual do not establish
+ a rule converse to Montana's. Neither case establishes that tribes
+ presumptively retain adjudicatory authority over claims against nonmembers
+ arising from occurrences anywhere within a reservation. Rather, these cases
+ prescribe a prudential, nonjurisdictional exhaustion rule requiring a federal
+ court in which tribal court jurisdiction is challenged to stay its hand,
+ as a matter of comity, until after the tribal court has had an initial
+ and full opportunity to determine its own jurisdiction. See 471 U. S.,
+ at 857; 480 U. S., at 20, n. 14; see also id., at 16, n. 8. This
+ exhaustion rule, as explained in National Farmers, 471 U. S., at
+ 855-856, reflects the more extensive jurisdiction tribal courts have in
+ civil cases than in criminal proceedings and the corresponding need to
+ inspect relevant statutes, treaties, and other materials in order to determine
+ tribal adjudicatory authority. National Farmers' exhaustion requirement
+ does not conflict with Montana, in which the Court made plain that
+ the general rule and exceptions there announced govern only in the absence
+ of a delegation of tribal authority by treaty or statute. See 450 U. S.,
+ at 557-563. Read in context, the Court's statement in Iowa Mutual, 480
+ U. S., at 18, that "[c]ivil jurisdiction over [the] activities [of non
+ Indians on reservation lands] presumptively lies in the tribal courts,"
+ addresses only situations in which tribes possess authority to regulate
+ nonmembers' activities. As to nonmembers, a tribe's adjudicative jurisdiction
+ does not exceed its legislative jurisdiction, absent congressional direction
+ enlarging tribal court jurisdiction. Pp. 7-13.
+
+(c) It is unavailing to argue, as petitioners do, that Montana
+ does not govern this case because the land underlying the accident scene
+ is held in trust for the Three Affiliated Tribes and their members. Petitioners
+ are correct that Montana and the cases following its instruction--Brendale
+ v. Confederated Tribes and Bands of Yakima Nation, 492
+ U.S. 408, and South Dakota v. Bourland, 508
+ U.S. 679--all involved alienated, non Indian owned reservation land.
+ However, the right of way North Dakota acquired for its highway renders
+ the 6.59 mile stretch here at issue equivalent, for nonmember governance
+ purposes, to such alienated, non Indian land. The right of way was granted
+ to facilitate public access to a federal water resource project, forms
+ part of the State's highway, and is open to the public. Traffic on the
+ highway is subject to the State's control. The granting instrument details
+ only one specific reservation to Indian landowners, the right to construct
+ necessary crossings, and the Tribes expressly reserved no other right to
+ exercise dominion or control over the right of way. Rather, they have consented
+ to, and received payment for, the State's use of the stretch at issue,
+ and so long as that stretch is maintained as part of the State's highway,
+ they cannot assert a landowner's right to occupy and exclude. Pp. 13-16.
+
+(d) Petitioners refer to no treaty or federal statute authorizing
+ the Three Affiliated Tribes to entertain highway accident tort suits of
+ the kind Fredericks commenced against A-1 and Stockert. Nor have they shown
+ that Fredericks' tribal court action qualifies under either of the exceptions
+ to Montana's general rule. The tortious conduct alleged by Fredericks
+ does not fit within the first exception for "activities of nonmembers who
+ enter consensual relationships with the tribe or its members, through commercial
+ dealing, contracts, leases, or other arrangements," 450 U. S., at 565,
+ particularly when measured against the conduct at issue in the cases cited
+ by Montana, id., at 565-566, as fitting within the exception, Williams
+ v. Lee, 358
+ U.S. 217, 223; Morris v. Hitchcock, 194
+ U.S. 384; Buster v. Wright, 135 F. 947, 950; and Washington
+ v. Confederated Tribes of Colville Reservation, 447
+ U.S. 134, 152-154. This dispute is distinctly nontribal in nature,
+ arising between two non Indians involved in a run of the mill highway accident.
+ Although A-1 was engaged in subcontract work on the reservation, and therefore
+ had a "consensual relationship" with the Tribes, Fredericks was not a party
+ to the subcontract, and the Tribes were strangers to the accident. Montana's
+ second exception, concerning conduct that "threatens or has some direct
+ effect on the political integrity, the economic security, or the health
+ or welfare of the tribe," 450 U. S., at 566, is also inapplicable. The
+ cases cited by Montana as stating this exception each raised the
+ question whether a State's (or Territory's) exercise of authority would
+ trench unduly on tribal self government. Fisher v. District Court
+ of Sixteenth Judicial Dist. of Mont., 424
+ U.S. 382, 386; Williams, 358 U. S., at 220; Montana Catholic
+ Missions v. Missoula County, 200
+ U.S. 118, 128-129; and Thomas v. Gay, 169
+ U.S. 264, 273. Opening the Tribal Court for Fredericks' optional use
+ is not necessary to protect tribal self government; and requiring A-1 and
+ Stockert to defend against this commonplace state highway accident claim
+ in an unfamiliar court is not crucial to the Tribes' political integrity,
+ economic security, or health or welfare. Pp. 16-20.
+
+76 F. 3d 930, affirmed.
+
+Ginsburg, J., delivered the
+ opinion for a unanimous Court.
+

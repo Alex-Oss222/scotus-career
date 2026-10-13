@@ -1,0 +1,165 @@
+{
+  "full_read_direct": {
+    "02": {
+      "pdf_pages": 37,
+      "complete_contiguous_display_ranges": [
+        [
+          1,
+          10
+        ],
+        [
+          11,
+          20
+        ],
+        [
+          21,
+          30
+        ],
+        [
+          31,
+          37
+        ]
+      ],
+      "word_count": 15800,
+      "derived_json_sha256": "dc7353c7f02a3727022516dd11aa1f866d874f58394f51d81e6e1d401d248a45"
+    },
+    "04": {
+      "pdf_pages": 72,
+      "complete_contiguous_display_ranges": [
+        [
+          1,
+          10
+        ],
+        [
+          11,
+          20
+        ],
+        [
+          21,
+          30
+        ],
+        [
+          31,
+          40
+        ],
+        [
+          41,
+          50
+        ],
+        [
+          51,
+          60
+        ],
+        [
+          61,
+          72
+        ]
+      ],
+      "word_count": 32240,
+      "derived_json_sha256": "47e826eabd34dd0e86584664ebc5ae0a084da39e90ce55b93884e2555e99e003"
+    },
+    "06": {
+      "pdf_pages": 30,
+      "complete_contiguous_display_ranges": [
+        [
+          1,
+          10
+        ],
+        [
+          11,
+          15
+        ],
+        [
+          16,
+          20
+        ],
+        [
+          21,
+          25
+        ],
+        [
+          26,
+          30
+        ]
+      ],
+      "truncated_attempt": [
+        11,
+        20
+      ],
+      "remedy": "Both halves of that attempted range reread completely in separate [11,15] and [16,20] outputs without truncation.",
+      "word_count": 18559,
+      "derived_json_sha256": "02ecac3720e0be7717667d501da4188d47ae89c76f66b9049717a7a01ca3430b"
+    }
+  },
+  "inherited_full_read": [
+    "05",
+    "07"
+  ],
+  "additional_partial_direct": {
+    "05": "saved TXT physical pages 1-8 only"
+  },
+  "source_files": [
+    {
+      "name": "micro_IA40385013_0686 02. Petition for Writ of Certiorari.pdf",
+      "bytes": 10514005,
+      "sha256": "43848da15570aeec562b48b540fc4de8fbbaded1e05f7fd817940630cd6fa560"
+    },
+    {
+      "name": "micro_IA40385013_0686 02. Petition for Writ of Certiorari.txt",
+      "bytes": 140578,
+      "sha256": "82c557b5debda9282513a0e5045b1bda206cd8f3c1b3659e417cfe5a72c37ca7"
+    },
+    {
+      "name": "micro_IA40385013_0686 04. Joint Appendix.pdf",
+      "bytes": 18407907,
+      "sha256": "c8208c815233ff8839828463e9f9e508f69de6c723fb87b374d5d13132788999"
+    },
+    {
+      "name": "micro_IA40385013_0686 04. Joint Appendix.txt",
+      "bytes": 264534,
+      "sha256": "3ec40d9939904bb7a44056f374e06cb88eae1b842f118933a9419a1147925c77"
+    },
+    {
+      "name": "micro_IA40385013_0686 05. Petitioners Brief.pdf",
+      "bytes": 6774648,
+      "sha256": "cb18a1c9276a0d04f329691729c16539f509e2c97291d50d1717540947523838"
+    },
+    {
+      "name": "micro_IA40385013_0686 05. Petitioners Brief.txt",
+      "bytes": 83925,
+      "sha256": "bb80c757decdc76dc6386aafe7350c3c5478c2977f8cb9d9c0aeb619a5b432da"
+    },
+    {
+      "name": "micro_IA40385013_0686 06. Respondents Brief.pdf",
+      "bytes": 9089492,
+      "sha256": "606dc982a5f9cf2a9c96c797a11616c202c56039f96d8b488db5b3e10d0aead0"
+    },
+    {
+      "name": "micro_IA40385013_0686 06. Respondents Brief.txt",
+      "bytes": 154659,
+      "sha256": "9ab1f4c1b314d41492671833eacda6285836cb1386c3961c2400314bbcf0aab0"
+    },
+    {
+      "name": "micro_IA40385013_0686 07. Reply Brief.pdf",
+      "bytes": 3265226,
+      "sha256": "7c6d7c95091a9ca019d9dd87cac2d83e76eacfa50bf8153b07ddd2618b49845d"
+    },
+    {
+      "name": "micro_IA40385013_0686 07. Reply Brief.txt",
+      "bytes": 39845,
+      "sha256": "0169f7069b75b39bca69225facf427439fc18c39d537b48573a3b194e626b8d8"
+    }
+  ],
+  "embedded_exact_spans": [
+    {
+      "key": "interrogatories",
+      "chars": 695,
+      "sha256": "a630ad9666dbe4dc321a82c1df126d42fe2e6a936f7c36a0206774daab57f7b5"
+    },
+    {
+      "key": "municipal_charge",
+      "chars": 2400,
+      "sha256": "517836f85033ce053fe9d278390c0a40948173ed0e013b7e43ad2c9467abf0de"
+    }
+  ]
+}

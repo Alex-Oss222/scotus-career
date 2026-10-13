@@ -1,0 +1,23 @@
+{
+  "coverage": {
+    "08": "All 22 PDF pages and all reflow text: [0,35000), [35000,47000), [47000,57823).",
+    "09": "All 15 PDF pages and all reflow text: [0,25000), [25000,44929). PDF pages 10-12 (printed 10-15) additionally visually read to recover missing OCR lines."
+  },
+  "copies": [
+    {
+      "label": "Respondent merits, substantive text",
+      "start": 5131,
+      "end": 57691,
+      "sha256": "a9311d6e242871a49d3d3f744b8164bc2bbc6f37852a39e041fdcbd41dff02a2"
+    },
+    {
+      "label": "Petitioner reply, substantive text",
+      "start": 5796,
+      "end": 44598,
+      "sha256": "54b7b1af99dfbc784ceddadc981768df3fafb155bfc095f7f8ab96b23abaa114"
+    }
+  ],
+  "output": "terms\\OT1996\\sources\\chunk7-neutral-b\\Papai_respondent_reply_extracts.md",
+  "output_sha256": "151421484dd809f7dfa84b31ac800898c312dc8f2426f457f7244ff76d1c1ed4",
+  "limitations": "Other three core filings covered by separate source reader. Original saved PDF bytes control OCR; chronology disputed, no party assertion treated as adjudicated."
+}

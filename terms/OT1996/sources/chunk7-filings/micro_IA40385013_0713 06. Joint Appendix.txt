@@ -1,0 +1,2472 @@
+          (5)                     Supreme Court, Ws
+
+No. 95-1621                        io ee
+
+                                    NOV 12 {99%
+
+                               J  CLERK                   |
+
+In THE
+
+Supreme Court of the Mnited States
+
+OCTOBER TERM, 1996
+
+HARBOR TUG AND BARGE COMPANY,
+
+=                              Petitioner,
+
+JOHN PAPAI, ET UX,
+                            Respondent.
+
+On Writ of Certiorari to the
+
+United States Court of Appeals                               |
+for the Ninth Circuit
+
+JOINT APPENDIX
+
+ERIc DANOFF                    THOMAS J. BOYLE
+   Counsel of Record              Counsel of Record
+
+GRAHAM & JAMES LLP             LAW OFFICES OF
+One Maritime Plaza, Suite 300     THOMAS J. BOYLE
+San Francisco, CA 94111
+(415) 954-0200                 57 Post Street, 8th Floor
+                               San Francisco, CA 94104
+RICHARD K. WILLARD
+                               (415) 434-4546
+PETER LICHTENBAUM
+STEPTOE & JOHNSON LLP          Counsel for Respondent
+1330 Connecticut Avenue, N.W.
+Washington, D.C. 20036
+(202) 429-3000
+
+Counsel for Petitioner
+
+        PETITION FOR CERTIORARI FILED APRIL 9, 1996
+              CERTIORARI GRANTED OCTOBER 1, 1996
+
+BEST AVAILABLE COPY}
+                     TABLE OF CONTENTS
+
+Relevant Docket Entries in the United States District
+Court for the Northern District of California
+Docket Entries Nos. 1-36 in the United States District
+Court for the Northern District of California
+Complaint for Personal Injuries and Damages Under
+the Jones Act and the General Maritime Law; Loss of
+
+Declaration of Eric Danoff in Support of Defendant’s
+Motion for Summary Judgment ................-------.-----..--
+Defendant's Statement of Undisputed Facts
+Declaration of Marina V. Secchitano in Opposition to
+Motion for Summary Judgment -.............---.- ”
+First Amended Complaint for Personal Injuries and
+Damages Under Section Five of the Longshoremen’s
+
+Excerpts from Harbor Tug and Barge and Inland-
+boatman’s Union of the Pacific Deckhands Agreement...
+
+   The following opinions and orders of the United States
+Court of Appeals for the Ninth Circuit, the U.S. District
+Court for the Northern District of California, and the U.S.
+Department of Labor and relevant statutes have been omitted
+in printing this Joint Appendix because they appear on the
+following pages in the appendix to the printed Petition for
+Certiorari:
+
+      Opinion of the United States Court of Appeals,
+    ii
+
+    TABLE OF CONTENTS—Continued                                                   IN THE UNITED STATES DISTRICT COURT
+                                                                               FOR THE NORTHERN DISTRICT OF CALIFORNIA
+                                                                         Page
+
+Order Of The District Court Granting Partial Sum-
+
+mary Judgment to Defendant Harbor Tug and
+
+Barge Company, dated May 29, 1990 .......
+
+Order Of The District Court, Denial of Reconsider-                                           No. C-90-0111-CAL
+
+ation and Statement of Grounds for Immediate                                                 JOHN PAPAI, JOANNA PAPAI,
+
+Appeal 28 U.S.C. §1292(b), dated August 17,                                                  -                  Plaintiffs,
+
+RE  MAE,  eitiaiiit oe
+
+Order Of The District Court Confirming Sum-                                             Harpor Tuc & BARGE COMPANY,
+mary Adjudication that Plaintiff John Papai Was                                                                                  Defendant.
+Not A Seaman, dated April 6, 1992 _.........
+
+Judgment of the District Court in Favor of De-                                               DOCKET ENTRIES
+
+fendant Harbor Tug and Barge Company, dated
+
+TIE TIIIET csncxrcnisecscubesensisadhbidbbatnecbntabenstomiicconsticens
+
+Decision and Order of the United States Depart-                                 DATE    NR.  PROCEEDINGS
+
+ment of Labor, dated August 27, 1992 ........0000000...                        1/12/90   1 COMPLAINT (Summons(es) issued) (tl)
+
+                                                                               2/12/90        {Entry date 04/23/91]
+
+                                                                               5/24/90   6 ANSWER by defendant Harbor Tug &
+                                                                                              Barge C to complaint [1-1] (tl) [Entry date
+                                                                               6/19/90        04/23/91)
+
+                                                                               9/14/90  20 FIRST AMENDED COMPLAINT [1-1] by
+                                                                                              plaintiff John Papai, plaintiff Joanna Papai;
+                                                                                              jury demand (tl) [Entry date 04/23/91]
+
+                                                                                        24 ANSWER by defendant Harbor Tug &
+                                                                                              Barge C to first amended complaint [20-1]
+                                                                                              (tl) [Entry date 04/23/91]
+
+                                                                                        84 ORDER by Judge Charles A. Legge dismiss-
+
+                                                                                              ing case pending the resolution of the interim
+
+                                                                                              appeal from the partial summary judgment
+
+                                                                                              granted in favor of defendants & against
+                                                                                              plaintiffs on 8/17/90, all further proceedings
+                                                                                              are stayed & the clerk is directed to remove
+                                                                                              this case from active list (cc: all counsel)
+
+                                                                                              (Date Entered 9/19/90) (tl) [Entry date
+                                                                                              04/23/91]
+ DATE     NR.  PROCEEDINGS                                    DATE    NR.  PROCEEDINGS
+4/18/91                                                      1/28/92
+4/19/91   35 CLERK’S NOTICE; Status conference 5/            1/28/92       trial conference 7/30/92 at 3:00pm;  Trial
+5/1/91          10/91 @ 11:00 am (tl) [Entry date 04/23/     1/28/92       8/31/92 at 8:00pm and to lift stay   (mp)
+5/3/91          91]                                          2/14/92       {Entry date 01/08/92]
+5/10/91                                                      2/14/92
+          36 ORDER by Judge Charles A. Legge Case            2/14/92       MOTION by defendant Harbor Tug & Barge
+5/17/91         reopened (cc: all counsel) (Date Entered     3/19/92       C to confirm summary adjudication that
+                4/23/91) (tl) [Entry date 04/23/91]          8/19/92       plaintiff John Papai was not a seaman with
+7/8/91                                                                     Notice set for 2/28/92 at 9:30am (mp)
+7/12/91   37 STATUS REPORT by plaintiff John Papai,                        {En datt e 0r 1/3y 0]92)
+12/23/91        plaintiff Joanna Papai (tl) [Entry date 05/
+12/26/91       06/91)                                                       MEMORANDUM by defendant Harbor Tug
+1/3/92                                                                      & Barge C in support of motion to confirm
+          88 STATUS REPORT by defendant Harbor                              summary adjudication that plaintiff John
+                Tug & Barge C (tl) [Entry date 05/07/91]                    Papai was not a seaman [46-1] (mp) [Entry
+                                                                            date 01/30/92]
+          39 MINUTES: (C/R none); Status conference
+                                                                            RECEIVED Order (defendant Harbor Tug
+                held.; Status conference continued to 7/12/                 & Barge C) re: [46-1] (mp) [Entry date
+
+                91 @ 11:00am;, referring case to Magistrate                01/30/92]
+
+                for settlement (tl) [Entry date 05/16/91]                   STATEMENT of undisputed facts by plain-
+                                                                            tiff John Papai, plaintiff Joanna Papai (as)
+               LETTER dated 5/15/91 from Thomas Boyle                       {Entry date 02/18/92]
+               from John Papai, Joanna Papai re: settle-
+               ment conference before Judge Zirpoli @                 49 MEMORANDUM by plaintiff John Papai,
+               11:00am on 5/29/91. (tl) [Entry date 05/                    plaintiff Joanna Papai in opposition to de-
+               21/91)                                                       fendants points and authorities in support
+
+          41 STATUS CONFERENCE STATEMENT by                                 of motion to confirm summary adjudication
+
+                defendant Harbor Tug & Barge C (tl)                         (as) [Entry date 02/18/92]
+                 {Entry date 07/05/91]
+
+          42 MINUTES: (C/R none); Status conference                        DECLARATION by Thomas J. Boyle on
+                set for 1/3/92 @ 11:00am (tl) [Entry date                  behalf of plaintiff John Papai, plaintiff
+                07/16/91]                                                  Joanna Papai (as) [Entry date 02/18/92]
+
+          43 STATUS CONFERENCE STATEMENT by                           51 REPLY by defendant Harbor Tug & Barge
+               plaintiff (mp) [Entry date 12/26/91]                         C to response to motion to confirm summary
+                                                                            adjudication that plaintiff John Papai was
+          44 STATUS CONFERENCE STATEMENT by
+                defendant Harbor Tug & Barge (mp) [Entry                    not a seaman [46-1] (mp) [Entry date
+
+                date 12/27/91]                                              03/20/92}
+
+               MINUTES: (C/R not reported) Status con-                     DECLARATION by Eric Danoff on behalf
+                                                                           of defendant Harbor Tug & Barge C re
+               ference held; Discovery cutoff 5/30/92; Pre-
+                                                                     ——
+
+ DATE    NR.  PROCEEDINGS                                    DATE    NR.  PROCEEDINGS
+                                                            8/14/92
+3/27/92       motion to confirm summary adjudication that   8/17/92  61 SCHEDULING ORDER by Mag. Judge
+4/1/92        plaintiff John Papai was not a seaman [46-1]                 Phyllis J. Hamilton: stimnt conf statement
+4/1/92        (mp) [Entry date 03/20/92]                    8/17/92        due 8/20/92 (cc: all counsel) (ab) [Entry
+4/6/92                                                                     date 08/17/92]
+               MINUTES: (C/R Ray Linkerman) granting        8/17/92
+6/29/92        motion to confirm summary adjudication that                MOTION by plaintiff John Papai, plaintiff
+7/31/92       plaintiff John Papai was not a seaman [46-1]  8/19/92       Joanna Papai for leave to file amended com-
+8/3/92         (mp) [Entry date 04/01/92]                   8/19/92       plaint to substitute defendants with Notice
+8/18/92                                                     8/19/92       set for 8/21/92 at 11:00 am (mcl) [Entry
+         54 DESIGNATION OF EXPERT WIT-                      8/20/92       date 08/18/92]
+               NESS(ES) submitted by plaintiffs (mp)
+               [Entry date 04/06/92]                                      MEMORANDUM by plaintiff John Papai,
+                                                                          plaintiff Joanna Papai in support of motion
+              DESIGNATION OF            EXPERT     WIT-                   for leave to file amended complaint to sub-
+              NESS(ES) submitted     by defendant  (mp)                   stitute defendants [62-1] (mcl) [Entry date
+              [Entry date 04/06/92]
+                                                                          08/18/92]
+
+              ORDER by Judge Charles A. Legge grant-                      DECLARATION by Thomas J. Boyle on be-
+              ing motion to confirm summary adjudication                  half of plaintiff John Papai, plaintiff Joanna
+              that plaintiJfofhn Papai was not a seaman                   Papai re motion for leave to file amended
+              {46-1} (Date Entered: 4/8/92) (ce: all                      complaint to substitute defendants [62-1]
+              counsel) (mp) [Entry date 04/08/92]                         (mcl) [Entry date 08/18/92]
+
+         57 CLERK’S NOTICE; Pretrial! conference re-                      RESPONSE by defendant to motion for
+                                                                          leave to file amended complaint. (pg) [Entry
+               set 8/13/92 at 3:00pm (mp) [Entry date                     date 08/20/92]
+               07/01/92}
+
+              PRETRIAL STATEMENT by plaintiff John                        DECLARATION by Tana Shipman on be-
+                                                                          half of defendant re response [65-1] (pg)
+              Papai, plaintiff Joanna Papai (mp) [Entry                   {Entry date 08/20/92]
+              date 08/04/92]
+
+              PRETRIAL CONFERENCE STATEMENT                          67 DECLARATION by Robert L. Clinton on
+              by defendant Harbor Tug & Barge (mp)                         behalf of defendant re response [65-1] (pg)
+              {Entry date 08/05/92]
+                                                                            {Entry date 08/20/92]
+
+              TRIAL MINUTES: (C/R Larry White)                            REPLY MEMORANDUM by plaintiff John
+              pretrial conf held 8/13/92; All motions                     Papai, plaintiff Joanna Papai to response to
+              hearing 8/21/92 11:00 a.m.; Trial 8/31/92                   motion for leave to file amended complaint
+              1:30 p.m., referring case to Magistrate for                 to substitute defendants [62-1] (mcl) [Entry
+              settlement (ab) [Entry date 08/17/92]                       date 08/21/92]
+                                                             oo
+
+                                           6                                        7
+
+                                      _——  PROCEEDINGS                   i                                                 ——————  eee
+
+ DATE    NR.                                                              DATE NR.  PROCEEDINGS
+8/21/92
+8/25/92       MINUTES: (C/R Carl Pline) denying plain-                   9/3/92    79 TRIAL MINUTES: (C/R Ray Linkerman) ;
+8/25/92                                                                                   Trial continued to 9/8/92 @ 1:30 PM; wit-
+8/27/92        tiff’s motion for leave to file amended com-              9/8/92          ness Joanna Papai; Ann Wilson; Devin Gos-
+8/31/92        plaint to substitute defendants [62-1] (mcl)              9/8/92          lin (Irc) [Entry date 09/10/92}
+8/31/92                                                                  9/9/92
+              {Entry date 08/25/92)                                      9/10/92   78 MEMORANDUM by plaintiff re: eviden-
+8/31/92                                                                  9/16/92         tiary issues (Irc) [Entry date 09/10/92]
+8/31/92  71 MINUTES before Mag. Judge Hamilton                           9/17/92
+ 9/1/92        8/24/92: (C/R none) ; case not settled; Set-              9/18/92   81 TRIAL MINUTES: (C/R Ray Linkerman)
+ 9/2/92        tlement conf (mag) continued to 8/25/92 at                11/2/92         Trial HELD further trial 9/9/92 (ab) [En-
+               4:00 pm (mcl) [Entry date 09/03/92]                       11/4/92         try date 09/15/92]
+
+               MINUTES before Mag. Judge Hamiltion:                      11/9/92          TRIAL MINUTES: (C/R Ray Linkerman)
+               (C/R none) case not settled (mcl) [Entry                  11/10/92        Trial HELD further trial 9/10/92 1:30 p.m.
+                                                                                         (ab) (Entry date 09/15/92]
+               date 09/03/92]
+                                                                                         TRIAL MINUTES: (C/R Ray Linkerman)
+         70 NOTICE and request for allowance of lien                                     Trial HELD further trial 9/15/92 1:30 p.m.
+               by defendant Harbor Tug & Barge C (mcl)                                   (ab) [Entry date 09/15/92]
+               [Entry date 09/02/92)
+                                                                                          TRIAL MINUTES: (C/R Ray Linkerman)
+         73 TRIAL briefs submitted by plaintiff John                                     Trial HELD 9/16/92 continued 9/17/92
+               Papai, plaintiff Joanna Papai (mcl) [Entry                                 1:30 p.m. (ab) [Entry date 09/25/92]
+               date 09/08/92]
+                                                                                         TRIAL MINUTES: (C/R Ray Linkerman)
+         74 DECLARATION by Thomas J. Boyle on                                            Trial concluded 9/17/92 (ab) [Entry dete
+               behalf of plaintiff John Papai, plaintiff                                 09/25/92]
+               Joanna Papai in opposition to defendant’s
+               calling Don Dawson as a witness at trial                                  EXHIBIT AND DESIGNATION OF WIT-
+                (mcl) [Entry date 09/03/92]                                              NESS(ES) (ab) [Entry date 09/25/92)
+
+         75 TRIAL briefs submitted by defendant                                          RECEIVED Proposed Order (plaintiffs)
+               Harbor Tug & Barge C (mcl) [Entry date                                    permitting filing of briefs in excess of twenty-
+                                                                                         five pages (tmn) [Entry date 11/04/92]
+               09/03/92]
+                                                                                   87 ORDER by Judge Charles A. Legge permit-
+         76 TRIAL MINUTES: (C/B Raymond Linker-                                          ting filing of briefs in excess of twenty-five
+                man) further trial; witnesses: Albert Mi-                               pages (Date Entered: 11/6/92) (cc: all
+                lani, John Papai (mcl) [Entry Date 09/09/                                counsel) (tmn) [Entry date 11/06/92]
+               92)
+                                                                                         POST TRIAL BRIEF FILED by plaintiffs
+                TRIAL MINUTES: (C/R Raymond Linker-                                      (tmn) [Entry date 11/18/92]
+                man) further trial; witnesses: Mr. Low,
+                John Papai (mcl) [Entry date 09/09/92]                                   POST-TRIAL BRIEF FILED by defendant
+                                                                                          (tmn) [Entry date 11/16/92]
+                TRIAL MINUTES: (C/R Ray Linkerman)
+                Trial continued to 9/3/92 @ 1:30 PM; wit-
+                nesses Scott Dye; Perin Parastaues (irc)
+                {Entry date 09/10/92]
+
+                                                                 e we n
+                                                                                     9
+
+DATE’ NR.  PROCEEDINGS                                     DATE      NR.             PROCEEDINGS
+
+11/12/92  90 CLERK’S NOTICE Final arguments of             11/27/92  101 REPORTER’S TRANSCRIPT; Date of
+                Trial set for 12/15/92 at 2:30 p.m. (tmn)
+                [Entry date 11/17/92]                      12/9/92           ceedings: 9/17/92 (C/R: Raymond Linker.
+
+                                                           12/17/92         man) (tmn) [Entry date 12/01/92]
+
+11/16/92  91 POST-TRIAL BRIEF FILED by defendant           12/21/92  102 Amended notice and REQUEST by defend-
+                                                           12/28/92
+                 (tmn) (Entry date 11/19/92]                              ant for allowance of lien (tmn
+                                                                          12/10/92}     enn) Ciatey Cate
+11/16/92   RECEIVED Post trial reply brief by plaiffs
+                                                                     103 MINUTES: (C/R Carl Pline) Trial
+           (tmn) [Entry date 11/19/92]                                                                                      -
+
+11/16/92  92 POST TRIAL REPLY BRIEF submitted by                          cluded; court finds in favor of tiedies
+                                                                          (tmn) [Entry date 12/18/92]
+                plaintiffs (vg) [Entry date 11/20/92]
+
+11/27/92        REPORTER’S TRANSCRIPT; Date of pro-                       RECEIVED Judgment submitted b y defend-
+11/27/92        ceedings: 8/31/92 (C/R: Raymond Linker-                   ant (tmn) [Entry date 12/22/92]
+                                                                                                              7
+                man) (tmn) [Entry date 12/01/92]
+                                                                     104 JUDGMENT: by Judge Charles A. Legge
+          94 REPORTER’S TRANSCRIPT; Date of pro-
+                ceedings: 9/1/92 (C/R: Raymond Linker-                       [20-1] dismissing amended complaint;
+
+                man) (tmn) [Entry date 12/01/92]                            awarding defendants cost of suit; appeal
+                                                                            ian pn (Date Entered: 12/29/
+11/27/92  95 REPORTER’S TRANSCRIPT; Date of pro-
+                                                                             9/ea/eec:n all counsel) (tmn) ) [[EEntry date
+                ceedings: 9/2/92 (C/R: Raymond Linker-
+                man) (tmn) [Entry date 12/01/92]           1/5/93    105 BILL OF COSTS in the amount of $3 577.07
+                                                           1/20/93
+11/27/92   REPORTER’S TRANSCRIPT; Date of pro-                               submitted by defendant re judgment [104-2]
+           ceedings: 9/3/92 (C/R: Raymond Linker-                            (tmn) [Entry date 01/07/93]
+           man) (tmn) [Entry date 12/01/92]
+                                                                     106 NOTICE OF APPEAL by plaintiff from
+11/27/92  97 REPORTER’S TRANSCRIPT; Date of pro-                             Dist. Court decision judgment of 12/28/92
+                ceedings: 9/8/92 (C/R: Raymond Linker-                       = not paid (tmn) [Entry date 01/21/
+                man) (tmn) [Entry date 12/01/92]
+                                                           1/21/93        Docket fee notification form and case ii nfor-
+
+11/27/92   REPORTER’S TRANSCRIPT; Date of pro-                            mation sheet to USCA [106-1] (tmn)  =
+           ceedings: 9/9/92 (C/R: Raymond Linker-
+           man) (tmn) [Entry date 12/01/92]
+
+11/27/92   REPORTER’S TRANSCRIPT; Date of pro-
+           ceedings: 9/10/92 (C/R: Raymond Linker-
+           man) (tmn) [Entry date 12/01/92]
+
+11/27/92  100 REPORTER’S TRANSCRIPT; Date of pro-
+                  ceedings: 9/16/92 (C/R: Raymond Linker-
+                  man) (tmn) [Entry date 12/01/92]
+                              19                                                          ll
+
+                              PROCEEDINGS                          DATE        Sooo
+                                                                 1990
+ DATE     NR.                                                    5/4/90   No.             PROCEEDINGS
+1990                                                             5/4/90
+1/12/90   1 COMPLAINT: Issued Summons                            5/10/90  14 Plaintiffs’ memo in opposition to motion for
+1/12/90                                                          5/11/90
+1/12/90   2 ORDER setting status conference for 4/13/            5/18/90        summary judgment, 5-18-90 @ 9:30am.
+                                                   CAL
+1/12/90        90 at 11 a.m.                                    5/22/90   15 —Declaration of Marina V. Secchitano in
+                                                                5/24/90
+2/2/90    3 Plaintiff’s Certificate that the damages sought     5/29/90         opposition to motion for summary judgment.
+
+2/12/90        in the complaint exceed $150,000 exclusive       6/8/90    16 Defendant’s status conference statement, 5-
+8/7/90                                                                          18-90 @ 11:00am.
+4/12/90       of any punitive or exemplary award that           6/12/90
+4/12/90       might be entered, and of interests and costs.     6/19/90   17 Defendant’s reply brief in support of motion
+4/12/90                                                         6/26/90         for summary judgment, 5-18-90 @ 11:00am.
+          4 Clerk’s notice to counsel re: Matter removed
+ 4/12/90                                                                  18 MINUTES: (c/r Candace Francis) Defend-
+ 4/12/90      from Mandatory Arbitration under Local
+ 4/12/90      Rule 500.                                                        ant’s motion for summary judgment—
+
+ 5/3/90   5 Plaintiff’s proof of service of Summons and                        granted. Status conference not held. Case
+              Complaint and supporting documents; Order
+              setting status conference EXECUTED as                            continued to 6-8-9090 @ 11:00am. Plaintiffs
+              to Harbor Tug & Barge Co. on 1/23/90 at
+              11:45 a.m. by personal service.                                  should file an amended complaint by 5-31-
+                                                                               90.
+                                                                                                               CAL
+
+          6 Deft’s ANSWER TO COMPLAINT.                                   19 Plaintiff’s further status conference state-
+                                                                                ment, 6-8-90 @ 9:30am.
+
+          7 Notice that status conference reset from                           Plaintiff's FIRST AMENDED       COMP-
+                                                                               PLAINT, Jury trial demanded.
+               4-13-90 to 5-11-90 11:00am.         Clerk
+
+          8 Defendant’s notice of motion & motion for                     21 ORDER: Plaintiff’s causes of action are dis-
+              summary judgment, 5-11-90 @ 9:30am.                               missed with prejudice. Plaintiffs are granted
+
+           9 —Points & authorities in support of #8.                           till 5-31-90 to amend their complaint. Status
+                                                                               conference set for 6-8-90.
+          10 —Declaration of Eric Danoff in support of                                                         CAL
+                #8.
+                                                                               MINUTES: (c/r none) Status conference
+          11 —Statement of undisputed facts.                                   held. Defendant should move to dismiss or
+                                                                               file an answer by 6-30-90 & plaintiff should
+               —RECEIVED: proposed          order  granting                    move for reconsideration by 6-30-90. CAL
+
+               summary judgment.                                               Plaintiff’s certificate of service by counsel of
+                                                                               first amended complaint.
+          12 Notice from clerk, defendant’s motion for
+                summary judgment has been reset to 5-18-                  24 Defendant’s  ANSWER           TO  FIRST
+
+                90 @ 9:30am.                                                   AMENDED COMPLAINT.
+
+          13 Plaintiffs’ status conference statement, 5-18-               25 Plaintiffs’ motion for reconsideration re sea-
+                90 @ 9:30am.                                                    man status, 7-27-90 @ 9:30am.
+
+                                                             —
+                                                                            ——
+
+                           12                                                                                                      13
+
+ DATE    No                PROCEEDINGS                                                  eGu0cQq0q030o_eo—0@+——€eR0e  SSS
+
+1990                                                                                     DATE No.                               PROCEEDINGS
+6/27/90
+6/28/90                                                                                 1990
+7/17/90
+7/27/90  26 —Memo in support of #25.                                                                                 ceedings in this action are stayed & the clerk
+8/3/90
+         27 Clerk’s notice that plaintiff’s motion for re-                                                           is directed to remove this case from the ac-
+8/10/90        consideration noticed for 7-27-90 is reset to
+8/21/90        8-3-90 @ 9:30am.                                                                                      tivelist.               CAL
+
+8/20/90                                                                                                              ENTERED:            9-19-90, copies mailed to par-
+9/14/90
+         28 Defendant’s notice of deposition of Marina                                                               ties, clerk.
+               V. Secchitano, 7-9-90 @ 2:00pm.
+                                                                                        1991
+
+             Defendant’s brief in response to plaintiff’s                               4/18/91  85                  Clerk’s notice setting status conference for
+             motion for reconsideration, 8-3-90 @ 9:30                                                               5/10/91 @ 11:00am.
+             am.
+                                                                                        4/19/91 86                   ORDER: This action is to be restored to the
+
+         30 Plaintiff’s Reply to defendant’s brief in op-                                                            active civil list.      CAL
+
+               position, 8-3-90 @ 9:30am.
+
+         31 MINUTES: (c/r Judith Dudeck) Plaintiff’s
+
+               motion for reconsideration—denied. Plain-
+
+               tiff & defendant has requested & the court
+
+               grants & certifies an interlocutory appeal.
+                                                                       CAL
+
+             RECEIVED: Plaintiffs’ order of denial of
+
+             reconsideration & statement of grounds for
+
+             immediate appeal.
+
+         32 ORDER: The motion for reconsideration is
+
+             denied & that plaintiffs’ causes of action re-
+
+             main dismissed with prejudice. All proceed-
+
+             ings herein be stayed for 10 days from the
+
+             date of entry of this order.  CAL
+
+             ENTERED:      8-21-90, copies mailed to par-
+             ties, clerk.
+
+         33 Plaintiffs’ proof of service re order of denial
+
+               of motion for reconsideration.
+
+         34 ORDER: Pending the resolution of the in-
+
+               terim appeal from the partial summary judg-
+
+               ment granted in favor of defendants &
+
+               against plaintiffs on 8-17-90, all further pro-
+
+                                                                            ci ct 2 tt
+                   14                                                                 15
+                           [Filed Jan. 12, 1990]
+                                                                        3. At all relevant times, defendants, and each of them,
+   UNITED STATES DISTRICT COURT
+NORTHERN DISTRICT OF CALIFORNIA                                         owned, managed, operated and controlled the vessel, M/V
+
+                                                             mT eA e S  POINT BARRON, (hereinafter referred to as the vessel)
+
+                                                                        and used the vessel in navigation and commerce in naviga-
+
+                                                                        tion waters.
+
+       C 90 0111 CAL                                                       4. At all relevant times, plaintiff JOHN PAPAI was
+                                                                        employed by defendants as a deck hand of the vessel,
+                                                                        and was in service of the vessel.
+
+JouHN  PapPat,  JOANNA  PAPAI,                                             5. On or about March 13, 1989, while acting within
+                              Plaintiffs,
+                Vv.                                                     the scope of his maritime employment, plaintiff JOHN
+                                                                        PAPAI was caused to suffer serious personal injuries as
+HARBOR TUG AND BARGE COMPANY,
+                                      Defendants.                       the direct proximate result of the negligence of defendants,
+                                                                        defendants’ employees, agents and representatives, and the
+                                                                        unseaworthiness of the vessel, in that defendants and the
+                                                                        vessel :
+
+COMPLAINT FOR PERSONAL INJURIES AND                                        (a) failed to furnish plaintiff JOHN PAPAI with a rea-
+  DAMAGES UNDER THE JONES ACT AND                                       sonably safe place to work;
+        THE GENERAL MARITIME LAW;
+                LOSS OF CONSORTIUM                                         (b) failed to furnish plaintiff JOHN PAPAI with rea-
+
+                                                                        sonably safe, suitable and/or proper equipment to perform
+
+                                                                        ordered tasks;
+
+DEMAND FOR JURY TRIAL                                                      (c) failed to provide plaintiff JOHN PAPAI with effi-
+                                                                        cient able-bodied help so as to safely perform ordered
+         (Local Rule 200-4)                                             tasks;
+
+     CLAIMS UNDER THE JONES ACT AND THE                                    (d) placed plaintiff JOHN PAPAI in an unsafe position
+                GENERAL MARITIME LAW                                    under the conditions existing at the time and place of the
+                                                                        aforementioned injury;
+   1. Jurisdiction: This action arises under the Jones Act,
+                                                                           (e) failed to adequately inspect and ensure the proper
+46 USC §§ 688 et. seq., and the general maritime law, as                operation of the vessel’s men and machinery so as to ob-
+                                                                        viate the risk of injury to their employees;
+hereinafter more fully appears.
+                                                                            (f) failed to properly maintain the vessel's equipment
+   2. Plaintiff, JOHN PAPAI is a seaman and proceeds                    in good working order so as to obviate the risk of injury
+                                                                        to their empioyees;
+without prepaying fees of costs, or furnishing security
+therefor, under 28 USC § 1619.                                             (g) failed to instruct plaintiff JOHN PAPAI as to the
+                                                                        safe and proper manner in which to perform his tasks;
+                                   16                                                            17
+
+   (h) failed to provide timely and adequate medical care,       10. At all material times herein, and at present, the
+                                                             plaintiffs JOHN PAPAI and JOANNA PAPAI were hus-
+treatment and maintenance and cure;                          band and wife.
+
+   (i) failed to operate the vessel in a safe manner, which      11. Under the general maritime law, incident to plain-
+did render the vessel’s attendant gear, tackle and ap-       tiff JOHN PAPAI’s claims for damages under the Jones
+pliances unseaworthy;                                        Act and the doctrine of unseaworthiness the plaintiff
+                                                             JOANNA PAPAL is likewise entitled and empowered to
+   (j) failed to provide plaintiff JOHN PAPAI with a safe    recover loss of cure, discomfort and society, support and
+place to work, a safe vessel and competent crew, which       enjoyment of her husband, proximately caused by de-
+did render the vessel’s attendant gear, tackle and appli-    fendants’ negligence and the unseaworthiness of their
+ances unseaworthy;                                           vessel.
+
+   (k) had the knowledge and ability to control and cor-         12. In her own right, plaintiff JOANNA PAPAI, seeks
+rect said unseaworthy conditions prior to the occurrence     damages against defendants, and each of them, incident
+of the injury; and                                           to recovery by plaintiff of a sum in excess of $500,000.00
+                                                             which sum represents a fair and reasonable estimate of
+    (1) otherwise breached their duties owed to plaintiff    the monetary value of the loss of care, comfort, society
+JOHN PAPAI under the circumstances.                          and support and enjoyment which JOANNA PAPAI has
+                                                             endured as a result of the injury to her husband JOHN
+   6. As a direct and proximate result of the foregoing,     PAPAL.
+plaintiff JOHN PAPAI has suffered and will continue to
+suffer general damages; wage loss; hospital and medical         WHEREFORE, plaintiff prays judgment against de-
+expenses; loss of earning capacity; and inability to lead a
+normal life.                                                 fendants and each of them as follows:
+
+   7. At all relevant times, because of plaintiff JOHN           1. For general damages in a sum according to proof
+PAPAI’s service upon the said vessel, defendants had and     and in excess of $1,000,000.00;
+continue to have a duty to provide plaintiff with the ex-
+penses of his maintenance and cure from the time of his         2. For medical expenses, past and future, according to
+disability to maximum medical care.                          proof;
+
+    8. At all relevant times defendant(s) was/were guilty       3. For loss of earnings, past and future, according to
+of malice, fraud and oppression and plaintiff JOHN           proof;
+PAPAI should recover, in addition to actual damages,
+                                                                4. For maintenance and cure benefits according to
+damages to make an example of and punish defendant(s).       proof;
+
+          CLAIMS FOR LOSS OF CONSORTIUM                         5. For interest at the rate prescribed by law upon all
+                                                             sums Owing as maintenance and cure and for reasonable
+   9. Plaintiff JOHN PAPAI hereby refers to and incorpo-     attorney’s fees on said amounts;
+rates herein by this reference each and every allegation
+contained in paragraphs one through eight of this com-
+plaint as though fully set forth at length.
+                            18                                                                      19
+
+   6. For damages for loss of consortium on behalf of                      UNITED STATES DISTRICT COURT
+plaintiff, JOANNA PAPAI, in a sum in excess of                          NORTHERN DISTRICT OF CALIFORNIA
+$500,000.00;
+
+7. For costs of suit; and,
+
+   8. For such other and further relief as the court may                (Caption Omitted in Printing)
+deem just and proper.
+
+DATED:                                                                                           Date: May 11, 1990
+                                                                                                   Time: 9:30 a.m.
+        SULLIVAN, JOHNSON, BoyLe & NuRIK
+                                                                                            Courtroom: Judge Legge
+                   /s/ Thomas J. Boyle                        i i eee
+                           Tuomas J. BoyLe                   «ce tte n      DECLARATION OF ERIC DANOFF IN SUPPORT
+                         Attorneys for Plaintiff                                       OF DEFENDANT'S MOTION FOR
+                           JOHN PAPAI                         a                               SUMMARY JUDGMENT
+                           JOANNA PAPAI
+                                                                           I, Eric Danoff, am an attorney with Graham & James,
+                JURY TRIAL DEMANDED                                     counsel for defendant HARBOR TUG AND BARGE
+Plaintiffs hereby demand trial by jury.                                 COMPANY. My business address is One Maritime Plaza,
+                                                                        Suite 300, San Francisco, California. On March 7, 1990,
+                           SULLIVAN, JOHNSON, BoyLe & Nurik             I took the deposition of plaintiff JOHN PAPAI. Attached
+                                                                        hereto are copies of pages from the transcript of that
+        /s/ Thomas J. Boyle                                             deposition.
+               Tuomas J. BoYLe
+              Attorneys for Plaintiff                                      Executed at San Francisco, California, on April 12,
+              JOHN PAPAlI                                               1990.
+              JOANNA PaPAI
+                                                                           I declare under penalty of perjury that the foregoing is
+                                                                        true and correct.
+
+                                                                        Dated: April 12, 1990.
+
+                                                                                                        GRAHAM & JAMES
+
+                                                                        By: /s/ Eric Danoff
+                                                                                    Eric DANOFF
+                                                                                     Attorney for Defendant
+                                                                                        Harbor Tug and Barge Company
+                            20                                                                 21
+
+   UNITED STATES DISTRICT COURT                                       How long did you work for DHEW?
+NORTHERN DISTRICT OF CALIFORNIA                                       Three years.
+                                                                      Until about 1972?
+(Caption Omitted in Printing)                                         Yes.
+                                                                      What was your job during those three years?
+DEPOSITION OF JOHN D. PAPAI                                            Mail clerk.
+                                                                       Was that here in San Francisco?
+*  *  +           *                                                    Yes.
+                                                                       What did you do as a mail clerk?
+   March 7, 1990                                                       Just sorted mail, wrap packages and distribute
+
+*  *  ok          *                                          E>POPOPOPOPO
+
+[10] Q. After 1968 when you finished with San Fran-                    After working for the Department of Health, Edu-
+                                                             cati on and Welfare, what was your next job?
+cisco State, did you then begin working?
+          Yes.                                                         Part owner of a bar.
+          What was your first job?                                     Did that begin in 1972?
+          I believe it was the post office.                            Yes.
+          Was this in 1968?                                            What bar was that?
+          I don’t really remember.                                     Called Paradise Cafe.
+          Would it have been ’68 or '69?                               In what city?
+          Either one or the other.                                     San Francisco.
+          What—-how—-strike that. How long did you work                How long—strike that.
+
+S2srOth>e Opo>st Oof>fic0e?>                                   POPInOaPddiOtiPon OtPo EbeiOng an owner, did you work in
+
+           A year.                                           the bar?
+          What was your job there?                                     Yes.
+                                                                       Was that your full-time job, working in the [12]
+           Mail clerk.
+                                                             ba
+           Was that here in San Francisco?                             Yes.
+                                                                       You had no other outside employment.
+           Yes.                                                        No.
+          What was your next job?                                      How long did you work in the bar?
+                                                                       That particular bar, five years.
+           Hum. I believe it was Health, Education and Wel-            So that would be until about 1977?
+S                                                                      That’s correct.
+                                                                       What work did you do in the bar?
+  OPFO>IPs OthPatOt>he Department of Health, Education and             Managing, bartending.
+                                                                       You did both?
+Welfare?
+                                                             >OrOUho-hruho. rororsor®
+           Yes.
+          So you worked for the Federal Government?
+          Yes.
+          What year did you begin that work?
+
+   POPIObe?lieve—let me see. I believe it was [11] '69.
+                        22                                                                         23
+
+Q. Is your answer yes?                                       ]16} Q. And where did you begin working as a bar-
+A. Yes.                                                      tender?
+Q. Off the record.
+                                                                       Coffee Gallery.
+(Discussion off the record.)                                          Was that Coffee Gallery or Galleria?
+                                                                       Gallery.
+   MR. DANOFF: | Back on the record.                                  G-a-l-l-e-r-y?
+   Q. I understand what a bartender does, but what did                 Correct.
+                                                                       Where is that; San Francisco?
+the manager do; did that mean keeping books and hiring                 Yes.
+                                                                       How long did you work at the Coffee Gallery?
+people or what?                                                        About a year.
+   A. Hiring people, firing people, inventory, daily banks.            Were you strictly a bartender there?
+                                                                       Yes.
+   Q. Im sorry.                                                        Did you do any management of any sort?
+   A. Daily bank is, we have to have cash for the bank.               I did inventory.
+                                                                       Did you do any other management function there?
+*  *                        *  *                                       No.
+                                                                       Were you an owner of that?
+[15] Q. Was there a formal bankruptcy proceeding of                    No.
+                                                                       Were you a member of a bartenders’ union?
+any sort?                                                              No.
+   A. No. The Federal Government got us for back                       Then what was your next job?
+                                                                       Bartender again at the Fresno Hotel Saloon.
+taxes.                                                                 This is beginning in about 1980 then?
+          So you just gave them the bar and that was that?             Yes.
+                                                                      Q. Until when?
+  >A. Yes.                                                             Oh, boy. About either ’83 or ’84.
+                                                                       Would you repeat the name of the bar?
+   Q. What was your next job then after that?                          Fresno Hotel Saloon.
+                                                                       Was that in San Francisco?
+   A. Bartender again.                                                 Yes.
+                                                                       What was your job there?
+   Q. Beginning in 1977?                                               Bartender.
+                                                                       Were you an owner at all?
+   A No. It was more like *79 or ’78.                                  No.
+                                                                       Did you have any management function at all?
+   7 Did you take some significant time off between
+                                                               POPNoO. POPOPOPL=POPOPOPOPOPOPOPOP
+the time the Paradise Cafe closed down—
+   A. About—
+   Q. —and the time you went back to work?
+   A. About a year.
+   Q. And what did you do generally during that year?
+    A. Just odd jobs.
+    Q. In the San Francisco area?
+    A. Yes.
+    Q. So you had no full-time employment?
+    A. No.
+    Q. Then you became a bartender, I believe you said,
+
+in 1978 or °79?
+    A. Ibelieve °79.
+                              24                                                                  25
+
+         Not even inventory?                                      Q. What did you do for Red and White Catering?
+                                                              {19} A. Catering and bartending.
+         No.
+                                                                  Q. Was Red and White—who owned or operated Red
+         Strictly bartender?                                  and White Catering?
+
+         Yes.                                                     A. Mario Garcia.
+         Were you a member of a union?                           Q. Were you an owner at all of Red and White Cater-
+                                                              ing?
+         No.                                                     A. No.
+         Have you been a member of a bartenders’ union?          Q. You said you did bartending and catering—
+                                                                 A. Correct.
+         Yes.                                                    Q. —work.
+                                                                 What kind of bartending did you do? Was this—I
+          Which union was that?          Restaurant  Employ-  don’t know what this company does.
+                                                                 A. Sometimes private parties and sometimes just reg-
+  P.OPHoOtelPOEmPplOoyPeeOs—Hotel and                         ular bay runs.
+                                                                 Q. So this is on board ship?
+ees, Local 2, the one here in the city.                          A. Yes.
+   Q. When did you join that?                                    Q. Were—was all of your work for Red and White
+                                                              Catering aboard ship—
+A. It was—lI believe that was 1986.                              A. Yes.
+Q. Okay. So we haven't got there yet in [18] se-                 Q —rather than on the shore?
+                                                                 A. Correct.
+quence.                                                          Q. Was this catering on the Red and White fleet?
+                                                                 A. Yes.
+A. No. Correct.                                                  Q. And was all your work on the San Francisco Bay?
+Q. Okay. After you left the Fresno Hotel Saloon,                 A. Sometimes up in the delta.
+                                                              — > Okay. But not outside the Golden Gate?
+what was your next job?
+                                                                    . No.
+A. Red and White Catering.                                      | Q. What kind of boats did you work on—first of all,
+                                                              did you work on one boat or more than one?
+   Q. What year did you begin working for Red and
+                                                                 A. All the boats.
+White Catering?                                                  Q. How many were there?
+                                                                 A. I believe they have eight.
+   A. I believe it was 1983?                                     Q. Had then or have now? What I’m asking is what
+   Q. You said earlier you left the Fresno Hotel Saloon       they had then. Let's go off the record.
+
+in 1983 or 1984. Does that help you remember when                        (Discussion off the record.)
+
+you joined Red and White Catering?                                      (Record read back by the reporter.)
+
+A. Must have been °83 then.
+Q. How long did you work for Red and White Cater-
+
+ing?
+
+A. I believe it was two years.
+
+   Q. Until 1985.
+   A. Yes. Oh, wait a minute. They went out of busi-
+ness in—was it "84? Must have been ’85; I’m not sure.
+   Q. By the way, do you have any records of your
+employment history so we could get these dates more
+
+precisely?
+
+A. Not with me, no.
+
+Q. Do you have some at home?
+
+A. Yes.
+                      26                                       27
+
+THE WITNESS:          Eight, I believe.                  Q. There was no laps of membership?
+MR. DANOFF:           Q. What kind of boats were these?  A. I don't understand.
+
+A. Ferry boats.                                          *  *      *  *
+Q. What ports did the ferry boats go at while you
+                                                         [24] A. Only Red and White Catering.
+worked aboard.                                              Q. What did you do for Red and White  Catering
+
+A. You mean—                                             exactly?
+                                                            A. Bartending and catering.
+Q. They called it San Francisco or where else?
+
+A. San Francisco for me.                                    Q. What does catering mean; what did you do as a
+                                                         caterer?
+Q. Were they all party boats, or were they actually
+                                                            A. Stocked the boat with food and tables, set it up,
+real ferry—                                              present the food, serve the food, then break it down and
+                                                         take it off the boat.
+A. They did both.
+                                                            Q. So part of the job was set up—
+Q. And you worked on them in both runs—                     A. Yes.
+                                                            Q. —of the tables and the food?
+A. And parties.                                             A. Yes.
+                                                            Q. Part of it was serving the food?
+Q. You mentioned that Mario Garcia, I thought you           A. Yes.
+                                                            Q. Part of it was cleanup afterward?
+[21] said, owned Red and White Catering. Did I under-       A. Yes.
+                                                            Q. Did you cook during this period?
+stand you correctly?                                        A. Yes.
+                                                            Q. Did you also do other kinds of food preparation,
+A. Yes.                                                  slicing, dicing—
+                                                            A. Yes.
+Q. Was Red and White Catering in your understand-           Q. —and all that?
+                                                            A. Yes.
+ing a separate company from the company that owned the      Q. Did you cook hot meals?
+                                                            A. Not cook, just warmed it up.
+boats?                                                   [25] Q. Did you ever join a union for cooks?
+                                                            A. No.
+A. Yes.                                                     Q. At any time?
+                                                            A. No.
+Q. So your employer was the company Red and White           Q. Have you ever been a member of any union other
+                                                         than the I.B.E.—or the I.B.U. and the—TI forget the name
+Catering, not the boat owner, as far as you understood.  of the other bartenders’ union; I’m not sure. What was the
+                                                         name of that other union?
+A. That’s correct.                                          A. Hotel—what was it? Hotel and Restaurant.
+
+Q. Were you a member of a union during that period?
+
+A. Yes.
+
+Q. Which union?
+
+A. Inland Boatman’s Union.
+
+Q. I call that the 1.B.U.; do you understand that to
+
+be the Inland Boatman’s Union?
+
+A. Yes.
+
+Q. Have you been a member of the Inland Boatman’s
+
+Union since?
+
+A. I still am.
+
+Q. Have you always been a member since the first
+
+time you joined?
+
+A. Yes.
+                                      28                                                  29
+
+   Q. And you said you joined Local 2?                       Q. Was there any management function as far as you
+   A. That’s Local 2, yeah.                              understood it to your job at Red and White Catering?
+_Q. By the way, is there a local for the 1.B.U.?
+   A. No.                                                   A. No.
+   Q. Did you join the Hotel and Restaurant Workers’        Q. What was your job after leaving Red and White
+                                                         Catering?
+Union while you were working for Red and White Cater-       A. Went down to the union hall.
+                                                            Q. This is—
+ing?                                                     [27] A. LB.U.
+   A. No.                                                   Q. Was this beginning in 1987?
+                                                            A. Yes.
+   Q. After you left Red and White Catering”                Q. Have you had any full-time employment since
+   A. That's right.                                      leaving Red and White Catering?
+   Q. Have you been a member of any other union other       A. Just out of the hall, out of 1.B.U. hall.
+                                                            Q. When you—strike that
+than those two?                                             Where is the I.B.U. hall?
+   A. No.                                                   A. 501 Army Street.
+                                                            Q. San Francisco?
+   Q. Who was your immediate superior at Red and            A. Yes.
+White Catering; who gave you your instructions, and to      Q. You say you have no permanent employment other
+whom did you report about your work?                     than out of the hall. My question is, have you worked
+                                                         for any one company, whether you got the job through the
+   A. Elizabeth.                                         hall or not, for, say, two months or more since 1987.
+   Q. Do you remember her last name?                     Beginning of °87?
+[26] A. No.                                                 A. lIhad 40 days of Golden Gate.
+   Q. What was her title?
+   A. Supervisor.                                            (Discussion off the record.)
+
+  Q. And she also was an employee of—as far as you          MR. BOYLE: That's all. She just wanted you to
+                                                         repeat the words you said, not an explanation.
+understood it—Red and White Catering?
+                                                            MR. DANOFF: Q. Golden Gate is the Golden
+   A. That’s right.                                      Gate Transit District?
+
+  Q. So Mr. Garcia was not your immediate supervisor?       A. That's correct.
+                                                            Q. What did you do for the Golden Gate Bridge or
+   A. No.                                                Transit District?
+   Q. Did you take any instructions from the ship's         A. During the 40 days?
+captain or the boat’s captain or crew while you were     [28] Q. Yes.
+catering?                                                   A. Maintenance on the docking area at the San
+   A. Not normally, no.                                  Francisco ferry terminal.
+
+   Q. So if they had a problem, they would talk to
+Elizabeth or somebody else above Elizabeth in the heir-
+
+archy?
+   A. Oh, sure.
+
+   Q. Have you explained then everything you've done
+for Red and White Catering as far as kinds of work?
+
+    A. That and bartending.
+                                   30                          31
+
+   Q. Was this in 1988?                                  there’s a whole block of “C” cards. And every three
+                                                         months, you have to re-throw your card in, and you go
+   A. Yes.                                               to the bottom of the list. So towards the bottom of the
+   Q. What do you mean by maintenance; is that paint-    three-month period, you're pretty high on the list of “C”
+
+ing or cleanup or what?                                  cards. And when they have a job on the board, you throw
+   A. Chipping. Chipping and painting.
+   Q. Was this job on the dock itself rather than on     your card in, and if your number is highest, you get that
+                                                         job
+boats?
+   A. Yes.                                                  Q. Now if I understand you correctly, if someone
+   Q. So you did not work for the Golden Gate Bridge     with an “A” card or “B” card wanted the job, they would
+                                                         get it?
+District on boats, correct?
+   A. During that Friday period, that’s correct.             A. That's correct.
+   Q. Since, say, January Ist, 1987, and other than the
+                                                         *  *      *  *
+Golden Gate Bride District work, have you worked for
+any other employer for more than a month?                w Q. And they use the I.B.U.?
+                                                                   Yes.
+   A. No.
+   Q. So your jobs have been all shorter than one month            And you had some of those jobs?
+other than one job?                                                Uh-huh.
+   A. That's correct.
+   Q. What kinds of jobs have you had out of the I.B.U.            And your answer is yes?
+hall?
+   A. Deck hand and maintenance.                                   What kind of work did you do as a longshoreman?
+   Q. When you use the term “deck hand,” what do you               What they call lashing, sometimes fish meal.
+mean by that?                                                     What does fish meal involve?
+[29] A. Docking boats, throwing lines.                            Shoveling fish meal, dried fish.
+   Q. You mean you stand on the doac nd k throw the               Okay. Anything else?
+lines to the boat, or you stand on the boat and throw             Steel working.
+the lines to the dock?                                             Discharging or loading steel?
+   A. Stand on the boat and jump off the boat and put             Discharging.
+the line on the dock.
+    Q. And by maintenance, what do you mean?              O>. OWePreOyPouOw>oOrPkOio>nnOgth>e Osh>ipsS, Yor were you
+   A. More or less chipping rust and painting.
+    Q. Now to get a job out of the 1.B.U. hall, do you   working on the shore?
+have to appear there in person?                             A. Mostly on the ships; sometimes on the shore.
+    A. Yes.
+    Q. Why don you’ext plain to me the sequenofcheow        A. Not that I know of—I don't know the name, be-
+you get a job out of the I.B.U. hall.                    cause all the checks came from the same company.
+    A. Okay. Well, every three months—I have a “C”
+card, okay? Every three months, everybody goes and
+                                   32                            33
+
+   Q. Did the checks come from the Pacific Maritime                 —different places?                         allow
+Association?                                                         Yes.                                     1L.B.U.
+[33] A. That's it.                                                  How long did you do that?
+                                                                     About three months.
+   Q. Okay. But was there a particular stevedore com-               What year was that?
+pany who was involved in the work you were doing as a
+longshoreman?                                                        I believe it was °87.
+                                                                     But you worked strictly as a bartender?
+   A. Yeah, there were different companies, yes, but they
+all seemed to be under Pacific Maritime.                             Yes.
+
+   Q. But you didn’t work for one particular stevedore       O.FOIfP—sOtrPikOe ?thPat.O
+company?
+                                                              Do you have any records anywhere that would
+   A. No, I don’t think so. No.                            you to list for us the jobs you had through the
+   Q. Okay. So if I understood you correctly, you did
+deckhand and maintenance work on boats?                    from January 1987 on?
+   A. Uh-huh.                                                 A. Payroll stubs.
+   Q. This is from January 1987 until now.                    Q. You do have those payroll stubs at home?
+   A. Correct.                                                A. I believe so, yeah.
+   Q. You did maintenance work on shore for the Golden
+Gate Bridge District?                                      *  *      *  *
+   A. Yes.
+   Q. You did longshoring, some on shore and some on       [37] A. Are you talking about being a deckhand or a
+ships, for companies affiliated with the Pacific Maritime  bartender?
+Association, right?
+   A. That's correct.                                         Q. A bartender.
+   Q. Did you do any other kind of employment begin-          MR. BOYLE: You were asking from January 1,
+ning January 1987 until now?                               "87 on.
+   A. Yes. I was with that Local 2 for three or four          MR. DANOFF: Strike that. I stand corrected.
+months.                                                       Q. From the period January 1987 on, did you ever
+   Q. Local 2 is the Hotel and Restaurant Workers’         work as a bartender aboard a boat?
+[34] Union?                                                   A. No.
+                                                              Q. So you were strictly a deckhand and a maintenance
+          Yes.                                             worker?
+          What work did you do through Local 2?               A. That's correct.
+          Bartending.                                         Q. Was any of that work at night?
+          On shore side?
+          Yes.                                                A. Yes.
+         For what entity?                                     Q. You used the word relief a couple of times; would
+          Through the union.                               you explain what a relief job is?
+          Does that mean you worked for various—              A. It’s somebody who has a regular job; they have
+                                                           to take a day off, I expect, or is sick; you’re the one that
+  POPYeOs.POPO?P                                           fills in for them.
+                                                              Q. So you would relieve permanent deckhands or
+                                                           permanent maintenance hands on the boat for—
+                                                              A. On some occasions.
+                           34                                                              35
+
+Q. Were most of your jobs out of the I.B.U. hall             Q. Did you say that you worked on that boat three
+                                                          or four times you think?
+for one day?
+                                                             A. Yes.
+A. Sometimes they were a couple days; sometimes              Q. And it was all maintenance work?
+
+[38] three days, mostly one day.                             A. That's right.
+                                                             Q. In other words, the boat was always tied to
+Q. On those jobs that were more than one day, was         the dock—
+                                                             A. Yes.
+it just by chance that you went back the second day and      Q. —when you worked on it?
+                                                             A. Yes.
+got the same boat, or were you actually given a two- or      Q. Have you been aboard the Point Barrow other
+                                                          than to do that maintenance work?
+three-day job?                                               A. No.
+                                                             Q. When you worked on the Point Barrow, on all
+A. Sometimes a two- or three-day job.                     the occasions you worked on it, did you always sleep
+                                                          ashore?
+Q. But normally speaking, it was a one-day job?              A. Yes.
+                                                             Q. And you got all those jobs out of the union [42]
+A. Yes.                                                   hall.
+                                                             A. Yes.
+Q. The work you did as a deckhand and maintenance            Q. The job that you got for the March 13, 1989
+                                                          work, was that a single-day job, or was that going to be
+man, was some of that work done while the boats were      more than one day?
+                                                             A. I believe it was one day.
+moving on the water and some done while it was tied to       Q. And then so you were planning to go back to the
+                                                          union hall the next day to see what else was available?
+the dock?                                                    A. Yes.
+                                                             Q. Did you work at all on March 12, 1989, the day
+A. The maintenance was while it was tied to the dock,     before the accident?
+                                                             A. No.
+and deckhand was when it was moving.                         Q. Did you work on March 11th?
+                                                             A. No.
+Q. I couldn't tell from the payroll stubs; I don’t           Q. How would you decide what days you were going
+                                                          to go into the union hall to get a job?
+think they say; can you tell me generally speaking what      A. I went everyday.
+                                                             Q. So on the two days before March 13, you went
+percentage of your work since January '87 has been deck-  in, but you were not high enough on the list?
+                                                             A. Well, the 12th was Sunday, and the IIth was
+hand work and what percentage of your work out of the     Saturday, so the hall is closed.
+
+I.B.U. hall has been maintenance work?
+
+A. Id say 70 percent deckhand.
+
+Q. Seven zero?
+
+A. 70 percent deckhand.
+
+Q. And was most of that work done while the boats
+
+were moving on the water?
+
+A. Yes.
+
+                ~  *              x  *
+
+[41] Q. —the three days immediately preceding the
+accident?
+
+   A. That's correct.
+   Q. Was your work on the Point Barrow before the
+accident date maintenance work—
+   A. Yes.
+   Q. —trather than deckhand work?
+   A. That's true.
+                       36                                                                       37
+
+   Q. Okay. Let’s go back to the Friday.        Did you                No.
+work on the Friday?                                                   So in that case, there’s no log, right?
+                                                                       True.
+   A. No.
+                                                               OF. OSPorhOow do you, in that case, in the case of the
+                *  *       *  a
+                                                             Point Barrow in the days before your accident when you
+{50} Q. Is it your understanding that the employer,          worked on that tug, how did you verify you worked and
+Prospecive employer, call the union hall, says, I need
+three men to do maintenance work, and then the union          ot paid?
+gets three men and sends them out?                           ° i reported to Don Dawson.
+
+   A. Yes.                                                             Don Dawson in your understanding was who?
+                                                                       Port captain.
+   Q. And to show that you're one of the three men                     He was a shoreside guy?
+the union has sent out, you give the employer a dispatch               Yes. I believe so.
+slip?                                                                  Where was his office?
+                                                                      On the premises.
+A. Not really.                                                         The premises are what, by the way?
+                                                                       The home dock in Alameda.
+   Q.   Well, what paper do you present so that they  know
+you're  legitimately sent out by the union?                    OPOAFndPOtPhaOt?’sP—wOas that where the Point Barrow
+         Usually they have your name already, so—
+   A.    Do you keep the dispatch slip then?                 [52] was tied up every time you worked on it as a main-
+   Q.                                                        tenance worker?
+
+A. (Witness shakes head negatively.)                            A. Ye.
+                                                                Q. And there was an office shoreside there on the
+   Q. But you're given it by the union to show that          dock?
+you're one of the three men selected?                           A. Yes.
+                                                                Q. And Mr. Dawson was there in each case?
+   A. Yes.                                                      A. Yes.
+                                                                Q. So at the end of the day, except on the day when
+   Q. Now at the end of the day, what piece of paper is      you were injured, what would you do to verify to Mr.
+generated to show that you worked for that day?              Dawson that, yes, you’d worked that day?
+
+          Usually logged on the captain’s report.               A. He knew we were there. And at the end of the
+          And then does he give you something?               day, we reported to him saying we were done.
+
+        No.                                                     Q. Did you get some sort of receipt or time sheet?
+                                                                A. Yes.
+          How do you get paid normally?         log and the
+                                                or whatever     Q. Did you keep those?
+  POPYOou> be sure your name is on the
+                                                                A. I believe so.
+hours are correct. At the end of the week,
+the time period is, they issue you the checks.                  Q. So you think you have those at home?
+[51] Q. They send it to you in the mail?
+                                                                A. Yes.
+   A. No, usually you go down to get it.
+   Q. At the company or the union hall?
+   A. The company.
+
+   Q. Now in the case of the Point Barrow, when you
+
+worked on it as a maintenance worker, was there a cap-
+
+tain aboard the ship?
+
+A. That day you mean?
+                       38                                                   39
+
+      What is the piece of paper called?  and a signature.     Q. Have you ever been sued in a lawsuit?                     injury
+      I don’t know.                                            A. No.
+                                                               Q. Have you ever filed a claim for a personal
+      What generally did it have on it?                     before?
+                                                               A. No.
+POPTOhe time, the boat you worked on                           Q. Okay. Let's go off the record.)
+
+         *          *      *  *
+
+{57} Q. By that I'll include not a formal interview.        (Discussion off the record.)
+
+But somebody asking you what happened, and what time           MR. DANOFF: Q. After the injury that you had
+was it, and where were you, what were you doing, those      on the Point Barrow in March 1989, you went to the
+kinds of questions; have you ever answered those kind       Merritt-Peralta Hospital. And do you remember the name
+of questions about this accident?                           of the doctor you saw?
+
+A. Other than Mr. Boyle, No.                                   A. NoI , don’t.
+                                                            Q. Did you h o a n v l e y yo se u e g t o h n a e t b d a o c c k tor to t t h h a a t t d o o n c e tor t ? ime, or
+   Q. Approximately how many companies have you
+worked for sailing out of—or strike that—getting jobs          A. Just that one time.
+out of the 1.B.U. hall since January ’87?                      Q. What did that doctor say to you about your injury?
+                                                               A. She really didn’t have a diagnosis that I remember.
+   A. Red and White, Golden Gate, Harbor Tug, and           But she wanted me to come back, I think, in a couple,
+                                                            three days.
+the longshore.
+
+   Q.    But the longshore jobs, putting those aside, and            ok  *                *  *
+putting  Golden Gate Bridge District job aside, because I
+though   you said you were shoreside during that job.       [82] Q. After your operation, at what point did your
+         Just for that one particular job.                  knee stop hurting wa w s he it n a w y e o e u k w l e a r te e r, j a us m t on si t t h tin l g ate o r r , o n r ot wh a a c t t ? ive;
+   A.    You've also worked on their farries?
+   Q.    At the decking, yes.                                  A. A couple months, I guess.
+                                                               Q. After the—strike that.
+   A.                                                          At the time of the accident was there anybody else
+                                                            on the boat.
+   Q. So the companies you worked for basically were
+Red and White, Harbor Tug and Barge and the Golden
+Gate Bridge District.
+
+A. That’s correct.
+
+   Q. When you worked on the Point Barrow on oc-                              A. On the boat, no.
+casions other than the day you had your accident, you
+said you were doing maintenance work, but what kind of      ——7E
+maintenance work was it?
+                                                                             Q. Was there anybody shoreside near the boat?
+[58] A. Chipping rust and painting.
+   Q. So that’s all the work you've done on the Point                         A. Not that I saw.
+                                                                              Q. Where was Mr. Lowe, if you know?
+Barrow basically is chipping rust and painting.                               A. He was on the other side of the dock.
+   A. That's correct.                                                         Q. Ona different boat?
+
+Q. Have you ever filed a lawsuit before?                    A. Yes.
+
+A. No.                                                         Q. So you were by yourself on the boat at the time
+
+                                                            of the accident?
+
+                                                            A. Yes.
+                          40                                                                                  41
+
+Q. By yourself on the Point Barrow?          .                                Q. Yes.
+                                                                              A. Waitress.
+A. Yes.                                                                       Q. When was the last time she worked as a waitress?
+Q. Do you know or have any reason to believe that                             A. Before the baby was born, so I suspect it was ’86.
+                                                                              Q. Had she worked in any other occupations other
+anyone saw you fall?                                       ee             than being a waitress?
+                                                          talO a aya l t      A. Post office, nailing redwood planter boxes, selling
+A. Idon’t know.                                                           crystal. That's all | can really remember.
+                                                                              Q. Okay. Now let’s go ahead and take our break.
+Q. Did Mr. Lowe say he saw you fall?
+                                                                              (Brief recess taken.)
+A. No.
+                                                                              MR. DANOFF: Q. I believe you testified that the
+                *     *       *  *                                        day of the accident, March 13, 1989, that morning you
+                                                                          got the job out of the union hall, right?
+[84] Q. Was there anyone else working on that other
+                                                                              A. I believe it was off standby.
+boat?                                                                        Q. What is standby?
+                                                                              A. Well, if there’s nothing at the hall for that [91]
+A. With Mr. Lowe?                                                         particular time, you get on the standby list, which means
+                                                                          if a company needs you, either Golden Gate or Red and
+Q. Yes.                                                                   White or Harbor Tug needs you, say, for a morning shift
+                                                                          or a later shift that day, they can give you a call.
+   A. Yes.                                           .                       Q. Is it your recollection that the accident was on a
+   Q. What was the name of the other boat?       besides                  Monday?
+                                                                             A. It was on a Monday.
+   A. Sea King.                                                              Q. Then did you go down to the union hall that
+   Q. Did you talk to any of those other people                           morning?
+Mr. Lowe who were on the Sea King?                                           A. No.
+
+A. No.                                                                       Q. Did you call down to the union hall?
+Q. So you don’t know whether they saw your accident                          A. No.
+                                                                             Q. How did you know there were no jobs available
+or not.                                          /                        directly out of the hall?
+                                                                             A. I didn’t because I was on the job.
+A. That’s correct.                                                           Q. Did you get the job for the Point Barrow on the
+Q. How was the Point Barrow docked at the titme of                        preceding Friday?
+                                                                             A. No, it was—somebody from Harbor Tug and
+your accident?                                                            Barge called. I suspect it was Sunday night.
+
+A. Portside to the dock.
+
+Q. And you were working at the front of the house,
+
+correct?
+
+A. Yes.                                             .
+
+Q. How was the Sea King docked?
+A. I believe portside to the dock on the other side.
+
+                *     *       *  *
+
+{90} Q. How old is your wife?
+
+         45.
+          Had she ever worked for a living?
+
+          Yes.
+          And what was her occupation?
+
+  POPThOePmost recent?
+                                                           :
+
+                             42                            : 43
+
+Q. That’s not—lI confess to being confused here.           4
+
+A. Okay.                                                   7L Q. Now let's li a m l i l t the ou c r asu q a u l e s st o i n on t s he s to tan t d he by c l a is s t u ? als. Are|
+
+Q. You say there’s a standby list.                         ’  A. Well, there's a standby list for each company, so
+
+A. Yes.                                                       some choose to go to one company over another.
+                                                           I  Q. What standby list were you on?
+Q. And is that a list of people who are [.B.U. mem-
+
+bers?                                                         A. I was on Harbor Tug, I believe.
+
+[92] A. That's correct.                                       Q. Were you also on the Golden Gate Bridge standby
+
+   Q. And what is your understanding about POW some-          A. No.
+
+one like Harbor Tug and Barge gets a workér off the
+
+standby list?                                                    Q. Were you on any other standby list?
+
+A. They call them up on the telephone.  ads                   A. I ma h y ave h c a a v l e led b m e e en as w o e n ll. Red and White: they could
+Q. How many people are on the standby Hist; is the
+                                                                 Q. When somebody calls from the Standby list, the
+whole union on the standby list?                              company just calls directly?
+  A. No. Some of the members go out on jobs, and
+                                                                 A. To the house.
+then the other ones, you get on the standby list. ;
+                                                                 Q. Do you recollect for sure that’s how you were
+  Q. Okay. So that those people who got @ job on              hired on March 13th?
+
+Friday were not on the standby list?
+
+A. Yes, they’re eligible as well.                             A. Yes.
+
+Q. Is the hall closed on Saturday and Sunday?                 Q. Do you know who called you?
+                                                              A. No.
+   A. That’s correct.
+                                                              [94] Q. Do you remember what they said when they
+  Q. I thought you said that the only people on the           called you?
+standby list are the people who have not gotten jobs from
+
+the hall.                                                     We have a job for you.
+
+A. I was mistaken then.                                       Anything else?
+
+   MR. BOYLE: No. You asked if tke entire 1.B.U.              Just information where to go and what time.
+                                                              And what time did you go to the job on Monday?
+was on the standby list. And he saié there are people         I believe it was 8:00 o'clock.
+that have jobs that aren’t on the sandby list. Not the        8:00 a.m.?
+entire I.B.U. are; they are people Who have steady jobs,
+
+all kinds of variation.                                       A.m., yes.
+
+  MR. DANOFF: Q. Le*’ talk about people who                             And where did you go?
+
+don’t have steady jobs.                                         POPHoOmePODoPck,O>Alameda.             before.  I take
+   I take it there are people who have steady [93] jobs
+                                                                 © . That’s the same place you worked
+and they go there everyday.                                   it, when working on the Point Barrow?
+
+A. Yes.                                                          A. Yes.
+QO. The other people are called what?
+                                                                 Q. Had you worked at all that Friday, Saturday or
+MR. BOYL®: Casuals.                                           Sunday preceding?
+MR. DANOFF: Q. You were a casual?
+A. Twat’s correct.                                            A. No.
+                                   44                                                45
+
+          When was the next previous job that you had?     Q. You mentioned you said he was your friend; did
+          I believe the 4th of March, I believe.
+          Approximately nine days before the accident?     you sociwaithlhi im zateall?
+          I believe so. I'm not absolutely certain.
+         Do you remember what that job was on the 4th?     A. No.
+
+  POPIFt OwPasOa maintenancjeob. I don’t remembeerx-          MR. BOYLE: It says Sea Fox on here for the 3rd
+                                                           of March.
+actly what boat it was on.
+   Q. You don’t remember which boat or which com-          THE WITNESS: That shobue clorrdect.
+
+pany?                                                      MR. DANOFF: Q. Does that—
+
+[95] A. Actually, you can look it up yourself.             A. Make sense?
+   MR. BOYLE: We can look it up on here.
+   THE WITNESS: It will give you all the particulars,      Q. —<cotonyoufr ro ecor llecmtion?
+
+because they list by boat.                                 A. Yes.
+   MR. DANOFF: Q. Okay.
+   A. It would be the last page, I believe.                   Q. All right. When you got to the home docks and
+   Q. Did you know that your job would be a main-          talked to Mr. Dawson, what did he say?
+
+er we aaa 13th when you went there?                        A. We were going to paint. We were going to be
+          Yes.
+          Rather than a deckhand job.                      painting.
+          Yes.                                                Q. You used the term “we,” was there anyone else?
+          You knew the boat would be tied up.
+          Yeah, I guess.                                   A. I was with Edwin Lowe.
+          And you understood you were going to do chip-
+                                                              Q. So the two of you started together out on the
+pFinog >‘aond>praionti>ng?                                 same boat?
+
+    A. I believe it was—yes.                               A. That's correct.
+   Q. Now when you arrived at the home dock, did
+you Meet with anyone, or did anyone give you instructions     Q. Did Mr. Lowe start work at the same time you
+about what do do?                                          did, about 8:00 o'clock?
+    A. Don Dawson.
+    Q. Had you known Don Dawson before?                    A. Yes.
+    A. Just working with him in maintenance at home
+dock?                                                      Q. When—didMr. Dawson say anything else?
+    Q. Did you know him outside of a work context at
+all?                                                       [97] A. Just to start painting.
+    A. No.
+ [96] ©. Did you know Mr. Lowe outside of a work           Q. Did he tell you where to paint?
+context at all?
+    A. No.                                                 A. Yes, we had to paint the red lead primer paint.
+
+                                                           We had to paint over that with white paint.
+
+                                                           Q. Was there any particular part of the ship?
+
+                                                           A. Premut ch t allyover.
+
+                                                           4 a                       an an gay
+
+                                                           . Yes.
+
+                                                           Q. And approwx hatitm imeadit d ye oulacy tually
+
+                                                           begin painting?
+
+                                                              A. Well, we had to get the paint, I suppose. I really
+                                                           can't remember. I wouldn't think it was more than 20
+                                                           minutes.
+
+                                                           Q. So now we're at 8:20 in the morning?
+
+                                                           A. I believe so.
+                          46                                                       47
+
+  Q. How long did you and Mr. Lowe paint in the             [99] Q. So Mr. Dawson came by at about 10:00?
+morning?
+                                                               A. I don’t really remember, actually. I think I re-
+   A. We—I suspect about 11:30 or noon.                     member him coming just to see the progress of the work.
+
+   Q. Did you then take a lunch break?                         Q. Don’t guess. If you remember, say so; if you don't
+                                                            remember—
+   A. I did. Mr. Lowe had been called to work on the
+                                                               A. I don’t remember.
+Sea Ki
+
+Q. When was he called to work on the Sea King?                 Q. You do remember him coming, though, to get Mr.
+
+A. Before noon.                                             Lowe or ask Mr. Lowe if he wanted to move over to the
+Q. Wes Gare cule SONS Date Sees mae oe                      Sea King?
+                          f on the Point Barrow
+re paintin                                                  A. That's correct.
+ets oda porary bit more and then [98]
+dectio d take e ld unch.                                       Q. And was there any other discussion with Mr.
+Q. So the sequence was, you and Mr. Lowe began              Dawson at that time?
+painting together on the Point Barrow, then the late morn-
+ing he went off to the Sea King, and you painted alone         Well, yes. I asked him, “Am I going to be working
+for a short period and then took a lunch break.             aloann d he e sa? id ” “Yes.” And I said, “ShouIlcdon-
+A. To the best of myrecollection.                           tinue working on the ladder?” He said, “Finish it.”
+Q. How long was your lunch break?
+                                                               Q. What were you actually finishing? What were you
+A. Haaln f hour.
+Q. So did you then go back and start painting again         painting in the morning?
+
+in the afternoon?                                              A. Painting all the red lead paint; the primer, we
+                                                            were painting white over that.
+A. Yes.
+                                                               Q. Was it on the house that you were painting, or
+Q. This time you were by yourself?                          were you painting the deck, or what were you painting?
+
+A. Yes.                                                        A. Mostly the house.
+Q. And you continued to paint by yourself until the
+                                                               Q. Now you've referred to the ladder; was it the same
+time of the accident?                                       ladder that you were using when you fell later in the day?
+
+   A. That's correct.                                          A. Yes.
+
+   Q. When would the workday have ended had you not                  *          *      x  *
+had an accident?
+                                                            [105] Q. So as far as you know, you were the only
+A. I believe 4:30.                                          one aboard that tug after the lunch break at all.
+
+Q. Was anybody—did you—strike that.              _             A. That's correct.
+
+i           speak with Mr. Dawson at any time                  Q. So was it your decision then in what order to paint?
+Bayh — discussion with him at about 8:00 in the                A. I thought Id finish up the housing.
+                                                               Q. But in terms of exactly where to paint at any
+morning?                                                    given hour, was that left up to you?
+
+   A. Ibelhi e cae me v by e around 10: to 0 see0how        A. Yes.
+
+we were doing. And he came back later. That’s when he
+asked Edwin if he wanted to go on the Sea King.
+                                     48                                                           49
+
+   Q. Was it your job to paint until the day was over,         in other words, were you keeping any sort of a log your-
+or was it your job to finish the house, however, long that     self?
+took?
+                                                                  A. No.
+   A. Just finish the painting.                                   Q. No?
+   Q. Well, were you going to stay later than 4:00 if             A. For that day?
+the house was not finished or later than 4:30?
+   A. That would have depended on Dawson.                      *  *  *                             *
+   Q. Do you know when the tug boat was scheduled to
+                                                               {109} Q. Were there ladders available on the Sea King?
+leave?                                                            A. Idon’t know.
+   A. No.                                                         Q. Now I want you to—strike that.
+   Q. Do you know if the tug boat was scheduled to                If | understood your earlier testimony correctly, you
+
+leave?                                                         were coming down the ladder—
+   A. Yes—do I know what? I'm sorry.                              A. Yes.
+   Q. Did you know when it was scheduled to leave?                Q. -—when you fell?
+                                                                  A. Yes.
+   A. I didn’t know.
+   Q. Once the day was over, had you not been injured,            Q. And you believe you were two or three rungs from
+then is it your understanding you would have [106] gone        the deck, from the bottom of the ladder.
+home; you might have received a call; you might not from
+the standby list, and if not, you’d go back to the union hall     A. Yes.
+the next day?
+   A. That's correct.                                             Q. And in detail now, exactly how did you fall; where;
+   Q. So there was no commitment you'd be back at the          what happened?
+Point Barrow the following day?
+                                                                  A. The ladder is a little bit towards the starboard
+           Oh, no, no.                                         side; | was working around the housing.
+          Is my statement correct?
+                                                                  Q. Let’s place the ladder more specifically. Where in
+         That’s correct.                                       relation to the house was the ladder?
+          Were you on a straight time or an overtime rate?
+          Straight time.                                          A. Off center to the starboard side.
+         The vessel’s engines were idle—                          Q. Toward the forward starboard side?
+          That’s correct.                                         A. No. Forward portside, I’m sorry. Forward port-
+          —during that entire day?                             side.
+          Yes.                                                    Q. So it’s on the forward port—
+                                                                  A. Yes.
+ O.>OTh>ereO>werOe >noO>ships—permanent ship’s officers or        Q. —-side of the house?
+
+a crew aboard?                                                    A. (Witness nods head affirmatively.)
+   A. No.
+   Q. Were you keeping any sort of record of your time;        *  +  ~                             o
+
+were you just going at the end of the day, say, I worked—      [112] Q. To another spot to paint      a different  area?
+                                                                  A. That's correct.                  you notice   the boat
+
+                                                                  Q. As you were coming down, did
+                                                               rock or whip or roll?
+
+                                                                  A. No.
+                           50                                    51
+
+          Did the ladder move, or did your foot slip?         Q. I asked that question poorly.                it left
+          I believe the ladder moved.                         Were you going to sail away on the vessel when  work-
+                                                           after it was finished?
+          So you believe?                                     A. No.
+          Well, I don’t really remember.                      Q. You were planning to go back and continue
+                                                           ing on a periodic basis through the union?
+  OFODFidreit happen so fast that you're really not sure      A. That’s correct.
+
+what happened?                                             *  *      *  *
+   A. That's correct.
+   MR. BOYLE: Wait a minute. You said you be-              [Proof of Service Omitted]
+
+lieved the ladder moved. Don’t talk yourself out of what-
+
+ever it is you believe.
+   MR. DANOFF: Well, believing and remembering are
+
+somewhat different.
+   THE WITNESS: Yeah. Well, I do remember it mov-
+
+ing on the top part where the wood hit the metal.
+   MR. DANOFF: Q. Where the wood of the ladder
+
+hit the metal of the house?
+
+   A. That’s right.
+   Q. Which direction did it move?
+   A. I believe it was moving towards portside.
+
+      *                 *      *   *
+
+[118] Q. Okay.                     point where   it was
+   A. And it was sawed off at the  rung at the  time of
+
+split, I believe.
+   Q. Okay. So there was no split
+
+your accident?
+         Rung?
+          Rung.
+
+Yeah. No, the rung seemed okay.
+
+Was your pay by the hour—
+
+Yes.
+
+—on this job.
+
+          Yes.
+
+ O>OI>tarke>Oit>wOhe>n the vessel was going to sail to
+
+wherever it was going to sail, you were not going to go
+on it, correct?
+
+A. I don't believe so.
+                            52                                                                                       53
+
+   UNITED STATES DISTRICT COURT                                                         I. STATEMENT OF UNDISPUTED FACTS
+NORTHERN DISTRICT OF CALIFORNIA
+                                                                                     Plaintiff John Papai was injured while painting aboard
+[Caption Omitted in Printing]                                                     the tug PT. MARROW (the “Tug”), which was docked
+                                                                                  at Alameda. The accident occurred on March 13, 1989.
+   Date: May 11, 1990
+     Time: 9:30 a.m.                                                                  Papai was not a permanent employee of HTB. He
+                                                                                  worked at various maritime related jobs for various com-
+Courtroom: Judge Legge                                                            panies. He obtained his maritime jobs through the Inland
+                                                                                  Boatman’s Union (IBU) hiring hall. (Papai, 27-28.) Since
+DEFENDANT'S STATEMENT OF UNDISPUTED FACTS                     NRS eR EE           the hiring hall is closed on Saturday and Sunday, the IBU
+                                                                                  sends HTB a standby list of members to call over the
+   Defendant HARBOR TUG AND BARGE COMPANY                        ~e               weekend for jobs on the following Monday. On Sunday,
+(HTB), pursuant to Local Rule 220-7, submits the fol-           EeawlalkelEeeton  March 12, Papai was on this list. HTB called him then
+lowing statement of material facts not in dispute. This                           and asked him to work the following day, and Papai
+is submitted in connection with HTB’s Motion for Sum-                             agreed. (Papai, 90-94.) The job was for one day only
+mary Judgment scheduled for May 11, 1990. References                              (Papai, 42, 105-106.)
+to “Papai” are to the deposition of plaintiff John Papai,
+taken March 7, 1990.                                                                 On Monday morning, March 13, at about 8:00 a.m.,
+                                                                                  Papai arrived at the HTB Dock in Alameda. (Papai, 94.)
+Dated: April 12, 1990.                                                            HTB’s Port Captain, Don Dawson, was Papai’s supervisor
+                                                                                  that day. (Papai, 51-52, 95.) Dawson told Papai and
+                        GRAHAM & JAMES                                            Edwin Low, a co-worker, to paint the “house” (the super-
+                                                                                  structure) on the Tug. (Papai, 96-97.) The house had
+                        By: /s/ Eric Danoff                                       already received a prime coat of paint, so their job was
+                                                                                  to put on the finish coat of paint. (Papai, 97, 99.)
+                                      Eric DANOFF
+                                     Attorneys for Defendant                         The Tug was tied to the dock. (Papai, 84.) The Tug
+                                                                                  was unmanned; no officers or crew members were aboard
+                                          HARBOR TUG AND                          that day. (Papai, 51, 105-106.) The Tug was “dead” in
+                                             BARGE COMPANY                        the water; its engines were not running during the day.
+                                                                                  (Papai, 106.)
+
+                                                                                     Papai and Low went to the Tug and began painting.
+                                                                                  They received no specific directions about how to do the
+                                                                                  work. (Papai, 96-97.) Dawson came by a couple of times
+                                                                                  during the morning. (Papai, 98-99.)
+
+                                                                                     In the late morning, Dawson asked Low to shift over
+                                                                                  and work on another tug across the dock. (Papai, 99.)
+                                                                                  Low did so, and thereafter Papai worked alone. (Papai,
+                                                                                  97.)
+                                   54                                                           55
+
+   After a lunch break from about noon to 1230, Papai           The jobs Papai had during the 1987-March 1989
+returned to the Tug and resumed painting alone. (Papai,
+97-98.) No one else was aboard the Tug that afternoon.      period consisted mostly of maintenance work, deck hand
+(Papai, 82, 98.)
+                                                            work, and longshoring work. Maintenance work consisted
+   At about 3:30 p.m., Papai was painting at the forward    of chipping rust and painting. This was done while boats
+side of the house. He was using a portable ladder. He
+claims that as he was climbing down the ladder, the         were tied to a dock. (Papai, 29.) Deck hand work con-
+ladder “moved”, causing him to fall off and injure his
+knee. (Papai, 109, 112.)                                    sisted mainly of manning the lines on boats during dock-
+                                                            ing and undocking. That was was done on boats that were
+   Papai began working in 1968. Between 1968-1972 he
+worked as a mail clerk for the federal government. (Papai,  working. (Papai, 28-29.) Longshoring work consisted
+10-11.) From 1972-1977 he owned and managed a bar.          of helping to load and discharge vessels that were docked.
+(Papai, 11-12.) From 1979-1983 he worked as a bar-          (Papai, 32-33.) He also did some shoreside bartending
+tender at various shoreside establishments. (Papai, 15-     during this period. (Papai, 33-34.) During the 1987-
+17.) From about 1983-1986 he worked for Red & White         March 1989 period Papai lived, ate and slept at home.
+Catering, which performed catering services for party
+boats and ferry boats. He worked aboard the boats but           In 1989, before the date of his accident, Papai had
+lived at home. The catering company that employed him
+did not own or operate the boats. His supervisor on that    worked for HTS a total of thirteen (13) days. (Papai,
+                                                            Ex. 1.) The last time was about nine (9) days before
+job worked for the caterer, not the boat owners, and he     the accident. (Papai, 94, 96.) Each time Papai had
+did not take any instructions from the boats’ captains or   worked on the Tug, he had performed maintenance work
+crew. His job was to help stock the boat with food, set     only, not deck and hand work. (Papai, 57-58.) The
+up, serve the food, and clean up afterward. (Papai, 18-
+                                                            Tug always was tied to the dock when Papai had worked
+21, 24-26.)
+                                                            on it. (Papai, 41, 51-52.) The job Papai had on the day
+   Beginning in 1987, Papai began getting jobs out of the   of his accident was a one day job. (Papai, 42.) Papai
+IBU hiring hall in San Francisco. (Papai, 18-21, 24-26).    was not going to sail with the Tug; he was to go back
+From then until the date of the accident Papai worked at    to the IBU hiring hall the next day to see if he could get
+various jobs for various employers. Most of the jobs        another job. (Papai, 118.) Papai was paid hourly, in-
+were for one day, but some were for two or three days.
+(Papai, 37-38.) The longest job he had was for 40 days      cluding on the day he was injured. (Papai, 50.)
+working for the Golden Gate Transit District. That job
+consisted of chipping rust and painting on the dock at the                        [Proof of Service Omitted]
+
+S.F. Ferry Terminal. (Papai, 27-28.) Usually, however,
+once Papai finished a job for the day, he would go back
+to the IBU hiring hall the next day to put in for another
+job. He worked as a “casual.” (Papai, 93.)
+                                56                       -_~~                               57
+           UNITED STATES DISTRICT COURT
+       NORTHERN DISTRICT OF CALIFORNIA                         were aboard the POINT BARROW because Mr. Papai
+
+                  [Caption Omitted in Printing]                and Mr. Low were serving as deck hands on March 13,
+
+                       Date: May 18, 1990                      1989, in place of the two deck hands, which is the total
+                            Time: 9:30 a.m.
+                                                               caoomapolnement of deck hands fOr a tug such as thi: s when i:t
+                      Courtroom: Judge Legge
+                                                               7. There is no such document as “ship’s articles”
+    DECLARATION OF MARINA V. SECCHITANO IN
+                                                               a tug such as the POINT BARROW.         ae         oe
+                OPPOSITION TO MOTION FOR
+                     SUMMARY JUDGMENT                             8. The fact that the engines of a tug suc
+                                                               POINT BARROW were nvt running rm “~ thee
+   I, MARINA V. SECCHITANO, declare under penalty
+                                                               March 13, 1989, while it was tied to the dock does not
+of perjury as follows:
+   1. I am the Regional Director, Inlandboatman’s Union        mean that this tug was “dead in the water” or somehow
+
+of the Pacific, of which the plaintiff JOHN PAPAL is a         withdrawn from navigation. These engines often are not
+
+member.                                                        mod_— the tug actually gets underway on its own
+
+   2. I dispatched Mr. Papai to the POINT BARROW               9. I have no reason to believe that the enggiines of the
+                                                               tug POINT BARROW or any related equi t
+to work as a deck hand on March 13, 1989.                      operable on March 13, 1989.
+   3. A copy of the dispatch slip is attached hereto as                                         ee
+
+Exhibit B.                                                     10. The circumstances under which Mr. . PapPaapiai was dis-
+   4. Mr. Papai was specifically dispatched as a deck          patched to the POINT BARROW are in no way similar to
+                                                               those discussed in the cases of Baker v. Pacific Far East
+hand to replace one of the deck hands more regularly           Lines, and Buna v. Pacific Far East Li  toot f
+
+assigned to the POINT BARROW.                                                                               in de-
+                                                               fendant’s motion.                     ines, cited
+    5. I have no reason to believe that the POINT BAR-
+                                                                  11. Specifically, Mr. Papai was not dispatc
+ROW was either unmanned or non-navigational on March           March 13, 1989, to be a member of any en merece a
+                                                               repair gang; he was dispatched to the tug POINT BAR-
+13, 1989.                                                      ROW to be a deckhand in this tug’s operational crew and
+                                                               to spend his time aboard that tug performing work rou-
+    6. The fact that no permanent officers or crew mem-        tinely done by its deck hands, which includes the paint-
+                                                               ing of the tug’s deck house.
+bers were aboard does not mean that no crew members
+                                                                . 12. The circumstances under which Mr. . PaPpapaaii was
+                                                               dispatched to the POINT BARROW did not el de-
+                                                               fendant with the option of assigning him to work shore-
+                                                               side; shoreside jobs are dispatched differently.
+                                   58
+
+   13. Personnel specifically dispatched to shoreside jobs
+do not accrue union deck hand seniority and are neither
+
+paid nor classifaisededck hands.
+   Executed at San Francisco, California, on Aprii 30,
+
+1990.
+
+                                 /s/ Marina V. Secchitano
+
+                                             MARINA V. SECCHITANO
+
+                 [Certificate of Service Omitted]
+5 9           57 Te
+
+          28028 d181Dva BHL 4O NOINN S.N3WLVOGONVINI
+
+                 oa
+                 BUYIN NOSIAIC                  HOLVddSIiISC        VAT
+
+     e e         ee a            --— >  -—_—=—    a -
+
+                       0890-028  CO©GISN(V81U9)d       ‘1BBUNLVSS   ‘} 108 ARUY
+                                                                                            WATT. <i
+                       NOBIAIC BNIUVIN            dns HOLVdSid
+
+                                          “Teoes
+
+                                                a
+
+          OS0ZE        =:91dIDVd BHL 4O NOINN S.NaWAYOSONVINI
+                                                  diis HOLVdSid
+                       NOSIAIC BNINVIN                                                      wea
+
+                       “iar | -
+                                          © CIBIONNVVE U ‘1BdBYi'' V34NS6Hd0O.21INL0N3¢NW§
+
+                       4.        anNiuve        AME UA wren         "earns
+                o9s0-0ce (giv) © OOSINVS E ‘N 132UV 18 UAWd UV LOS
+
+   - OISIDVd JHL JO NOINN S.NAWLVOSONVINI
+
+    NOSIAIG SNIUWYN d@mISHOLVdSIQ = MT
+
+-—-_  _  + or ee «©
+
+         esec-ece (sin) © OO8ISwvud
+      31dIDVd BHL IO NOINN S.NAZWLVOGGNVINI
+      NOSIAIG BNIVVHE  dms HOLVdSid
+
+                                                                    “a “tee -
+
+                                                                    ’
+
+gee                    (si)© OOsIMVOS ‘N ABBv ULSuANdY LCS
+
+a~-SidiOVd 3HL dO NOINN S.NZWLVOGONVINI
+
+Cy... NOSIAIG8         dI1S HOLVdSIG
+
+Dy tte “eg
+      = 9650-028 (Sin) © ODSIDNWVSV‘U123dU1* /~UV 108
+      te OVd 3HL JO NOINN S.NA2YV     , ONV INI
+
+         Ore    Maree  Oe ee ee
+                                                  ww a &                                                                hTwy &           MEOARS ea                         oaPaes.
+
+poe ed ‘i ier:ag) knit is
+
+aenTe                                Re                  opy1a0b0eh9YdPsvente Gay VISIPv7 SAST=SHSOPRI BS
+
+                                                                                              277o “was oo// H/qjPerso
+
+                                                                                                                                                                      w —— FT OT s a2.
+                                      CKO Le                                   = - eayn 4 2 =7 4 bi 9 " 9 h 7 i 9 ~H22¥ W
+
+                                     .
+
+                                                                                                                                                a                          sank
+
+                                     ——_— ——-— -                   +    — w=                                                                                                          inane
+
+S07oA A'S                                                                                                                                aati :
+
+                                  Bae Sa, FO OO econ in et
+                                     “—Bgsrrwwidsg FD eS” ews LyT << words ZS
+                                  MvWemFei e f e > VostuW wIIOW TF 4 L O LO “ C om F” m OP FULI = T OO “61
+
+   +p)*7 vowdd?H 09 w,'y3 ms em = Vouty oe
+                                                  sales —eeve                                                                                   wesw ns
+
+                                                                                                                                 lee oo <, VATSA *                                    nat
+
+- -                                                         +8@*"          “*“-                            .                 See magn ISN                                  | |worl
+               -                                                                                - -            -
+                             __—          _--     _ .                                                                      bi'h] HIvvW
+
+                                               *  .                                                                                                                              ' .
+
+                                                                                                                                      *  a  ~~  -——-te-  oe ow o- - oo“ =             -_—_—_
+
+                                                                                                                        .  _--*  oF                                                                     .
+
+                                  .               or     --             .
+
+-
+
+                                     . .               ——-         _—-     *-                        o-“-         -
+
+                                                      -            -—-         *.*                                   —
+
+                                                                                                                                                                                 '
+
+                                                                                                                        - “456 — “hla —                  —_—               — i-
+
+   “ise ompwig Lpaa Mas GETS=Ovey / 2
+                                     ons Favsa                                                                                   eV)
+                                                63
+
+                       UNITED STATES DISTRICT COURT
+                    NORTHERN DISTRICT OF CALIFORNIA
+
+                                 [Caption Omitted in Printing]
+
+                  FIRST AMENDED COMPLAINT FOR PERSONAL
+                INJURIES AND DAMAGES UNDER SECTION FIVE
+             OF THE LONGSHOREMEN’S AND HARBOR WORKERS’
+
+                   COMPENSATION ACT; LOSS OF CONSORTIUM
+
+                  CLAIMS UNDER THE LONGSHOREMEN’S
+             AND HARBOR WORKERS’ COMPENSATION ACT
+
+                     AND THE GENERAL MARITIME LAW
+                 1. Jurisdiction: This action arises under Section Five
+              of the Longshoremen’s and Harbor Workers’ Compensa-
+             tion Act and the general maritime law, as hereinafter more
+              fully appears.
+                 2. At all relevant times, defendant owned, managed,
+            operated and controlled the vessel, M/V POINT BAR-
+
+               ROW, (hereinafter referred to as “the vessel”) and used
+              the vessel in navigation and commerce in navigational
+             waters.
+
+                 3. At all relevant times, plaintiff JOHN PAPAI was
+             employed by defendant as a deck hand of the vessel,
+             and was in service of the vessel.
+
+                 4. On or about March 13, 1989, while acting within
+             the scope of his maritime employment, plaintiff JOHN
+e e Oe e d PAPAI was caused to suffer serious personal injuries as
+             the direct proximate result of the negligence of defendant,
+             defendant’s employees, agents and representatives, and the
+
+et4bpeS+6eee6sete
+                                   64                                                            65
+
+unsafe condition of the vessel, in that defendant and the          4. As a direct and proximate result of the foregoing,
+vessel :                                                        plaintiff JOHN PAPAI has suffered and will continue to
+                                                               suffer general damages; wage loss; hospital and medical
+      a) failed to furnish plaintiff JOHN PAPAI with a         expenses; loss of earning capacity; and inability to lead a
+       reasonably safe place to work;                          normal life.
+
+       b) failed to furnish plaintiff JOHN PAPAI with              5. At all pertinent times defendant was guilty of
+       reasonably safe, suitable and/or proper equipment to    malice, fraud and oppression and plaintiff JOHN PAPAI
+       perform ordered tasks;                                  should recover, in addition to actual damages, damages to
+                                                               make an example of and punish defendant.
+       c) failed to provide plaintiff JOHN PAPAI with
+       efficient able-bodied help so as to safely perform               CLAIMS FOR LOSS OF CONSORTIUM
+       ordered tasks;
+                                                                   6. Plaintiff JOANNA PAPAI hereby refers to and
+       d) placed plaintiff JOHN PAPAI in an unsafe posi-       incorporates herein by this reference each and every alle-
+       tion under the conditions existing at the time and      gation contained in paragraphs one through five of this
+       place of the aforementioned injuries;                   Amended Complaint, as though fully set forth at length.
+
+       e) failed to adequately inspect and ensure the proper      7. At all material times herein, and at present, plain-
+       operation of the vessel’s men and machinery so as to    tiffs JOHN and JOANNA PAPAI were husband and wife.
+       obviate the risk of injury to its employees;
+                                                                  8. Under the general maritime law, incident to plain-
+       f) failed to properly maintain the vessel’s equip-      tiff JOHN PAPAI’s claims for damages under Section
+       ment in good working order so as to obviate the risk    Five of the Longshoremen’s and Harbor Workers’ Com-
+       of injury to its employees;                             pensation Act, plaintiff JOANNA PAPAI is likewise en-
+                                                               titled and empowered to recover loss of care, comfort and
+       g) failed to instruct plaintiff JOHN PAPAI as to the    society, support and enjoyment of her husband, proxi-
+       safe and proper manner in which to perform her          mately caused by defendant’s negligence and the unsafe
+        tasks;                                                 conditions of its vessel.
+
+       h) failed to operate the vessels in a safe manner,         9. In her own right, plaintiff JOANNA PAPAI, seeks
+       which did render the vessels and their attendant gear,  damages against defendant, incident to recovery by plain-
+       tackle and appliances unsafe;                           tiff JOHN PAPAI, in a sum in excess of $500,000.00,
+                                                               which sum represents a fair and reasonable estimate of the
+       i) failed to provide plaintiff JOHN PAPAI with a        monetary value of the loss of care, comfort, society, en-
+       safe place to work, safe vessel and competent crew,     joyment and support which JOANNA PAPAI has endured
+        which did render the vessel and its attendant gear,    as a result of the injury to her husband JOHN PAPAI.
+        tackle, and appliances unsafe;
+                                                                  WHEREFORE, plaintiff prays judgment against de-
+        j) had the knowledge, ability and control to correct   fendants and each of them, as follows:
+       said unsafe conditions prior to the occurrence of the
+        injury; and
+
+        k) otherwise breached their duties owed to plaintiff
+        JOHN PAPAI under the circumstances.
+                               66                                                                67
+                                                                         UNITED STATES DISTRICT COURT
+   (1) for general damages in a sum according to proof               NORTHERN DISTRICT OF CALIFORNIA
+
+  and in excess of $1,000,000.00;                                              [Caption Omitted in Printing}
+
+   (2) for medical expenses, past and future, according                           Date: February 28, 1992
+  to proof;                                                                             Time: 9:30 a.m.
+   (3) for loss of earnings, past and future, according
+   to proof;                                                                      Courtroom: Judge Legge
+
+   (4) for damages for loss of consortium on behalf                     DECLARATION OF THOMAS J. BOYLE
+                                                                I, Thomas J. Boyle, am an attorney with SULLIVAN,
+  of plaintiffs JOANNA PAPAI, in a sum inexcess of
+                                                             JOHNSON & BOYLE, 100 Pine Street, 27th Floor, San
+  $500,000.00;
+                                                             Francisco, California, attorneys for Plaintiffs John Papai
+   (6) for such other and further relief as the Court        and Joanna Papai. On July 9, 1990 I attended the deposi-
+   may deem just and proper.                                 tion of Marina V. Secchitano. Attached hereto are copies
+
+                              SULLIVAN, JOHNSON & BOYLE      of pages from the transcript of that deposition.
+
+                    /s/ Thomas J. Boyle                         I declare under penalty of perjury, under the laws of
+                            THOMAS J. BOYLE
+                            Attorneys for Plaintiffs         the State of California, that the foregoing is true and
+                                John Papai and Joanna Papai
+                                                             correct to the best of my knowledge.
+                 JURY TRIAL DEMANDED                            Executed in San Francisco, California on February 14,
+Plaintiffs hereby demand trial by jury.
+                                                             1992.
+                               SULLIVAN, JOHNSON & BOYLE                                      /8/ Thomas J. Boyle
+
+                    /s/ Thomas J. Boyle                                                                   Tuomas J. Boye
+                             THOMAS J. BOYLE
+                             Attorneys for Plaintiffs
+                                John Papai and Joanna Papai
+                            68                                                        69
+   UNITED STATES DISTRICT COURT
+NORTHERN DISTRICT OF CALIFORNIA                                       Q. Are the IBU dispatch slips attacashEexhdibit
+                                                                   B in your handwriting?
+
+               {Caption Omitted in Printing]                          Q. Now, Mr. Papai has stated that his work on March
+                                                                   13, which was a Monday, started at 8:00 a.m. and that
+DEPOSITION OF MARINA V. SECCHITANO                                 he received a phone call on Sunday night from HTB to
+                        July9,1990                                 coom n Moe nday.
+
+               *          *  *       *                                Is your infor anymdia ffertentifroom nthat?
+
+[14] Q. What did you review?                                          A. Yes.
+
+I think everything in my file here.                                   Q. What is your understaasntdo ihonw gMr. Papai
+                                                                   was dispatched for the job on March 13?
+Did you do that to help prepare for this deposition?
+                                                                      A. The dispatch slip indicates that he was telephoned
+                                                                   at 8:45 March 13th to go to work as a deckhand as soon
+                                                                   as possible.
+
+                                                                      Q. Is there a list prepared for Harbor Tug and Barge
+                                                                   —-strike that.
+
+Yes.                                                               During a weekday other than Monday, if Harbor Tug
+
+May I see what's in your file, please?                         ——  and Barge wants an IBU member to come out and work,
+
+          Sure.                                                    how is it that a worker is assigned?
+
+  OFPTOherfoirrst thing in the file is something called Deck-                  A. I don’t understhte qauenstdion.
+
+hands Agreement. What is your understanding as to what         m—-es
+
+                                                                                *  *      *                        *
+
+this is, this agreement?                                           [45] Q. Is there some category of IBU members that
+                                                                   are shoreside and a different category that are non-
+A. I don’t understand the question.                                shoreside?
+
+Q. You have the Deckhands Agreement in the John
+
+Papai file. What is it about this agreement that is rele-
+
+vant, in your mind, to John Papai’s case?
+
+   A. The section where it refers to maintenance,to                A. Yes.
+
+what compensation will be paid someone working under
+
+that labor agreement.                                              Q. What is the shoreside category?
+
+Q. Can you tell me what section that is?                           A. Terminal attendant for Golden Gate Ferry.
+                                                                   Q. Is that the only shoreside—
+A. Maintenance and cure.
+
+Q. So article 12. Is this the article that you were                =. a keeper for Harbor Tours.
+
+referring to?                                                      re those the people who are                         qualified
+
+A. Yes.                                                            deckhands?                                      se             stir
+
+               *          *  *       *                             A. Correct.
+
+[21] Q. Attached to the declaration as Exhibit B are               ie, Can somebody who is qualified to be a deckhand
+                                                                   be, if they want to be, assigned to a shoreside job?
+some records. What do you call these records?
+   A. IBU dispatch slips.                                             A. I don’t understand the question.
+      70                                                                                   71
+
+   Q. If Mr. Papai said, I want the next available shore-                         EXCERPTS FROM
+side job, I'm willing to wait, could he be assigned to that       HARBOR TUG AND BARGE COMPANY
+job if his card came up?
+                                                                                           AND
+   A. I'm still not clear on what you mean. Could you        INLANDBOATMAN’S UNION OF THE PACIFIC
+rephrase that. I generally don’t understand.
+                                                                           DECKHANDS AGREEMENT
+*  *      *  *
+
+[54] Q. Is there any union rule that makes a distinc-        *  *  *  *
+tion between a deckhand and deckhand maintenance man?
+                                                             TOWBOAT AGREEMENT
+   A. Qualified, I think is the term.
+   Q. Qualified what?                                        PREAMBLE: The rules contained herein constitute
+   A. If you ask for someone to do maintenance, as the       agreements made by and between HARBOR TUG AND
+employer, we are obligated to send you someone that          BARGE COMPANY, herein referred to as the “Em-
+can do maintenance.                                          ployer”, and the INLANDBOATMEN’S UNION OF
+
+          Maintenance can be painting?                       THE PACIFIC, ILWU, MARINE DIVISION, herein re-
+          Can be. It’s in the agreement.                     ferred to as the “Union”, prescribing duties, wages, hours,
+                                                             manning and other terms and conditions of employment
+          Can be chipping?                                   on vessels of the Employer:
+          Can be.
+          Can be splicing?                                   WITNESSETH:
+          Can be. All things that you don’t need to know     GENERAL RULES
+
+aSt PGoOld>enOG>atOe Ferry per se or Harbor Tours per se.    Article 1, Union Shop, Seniority & Method of Employ-
+
+   Q. If Harbor Tug and Barge calls in and wants a           ment
+deckhand to do maintenance and somebody on the A
+list has seniority and has his card in and wants the job,       By separate agreement the Employer and the Union
+do you do any further investigation as to whether that       have agreed to and established terms providing for Union
+                                                             Security and Method of Employment procedures.
+person can splice rope or do other things?
+   A. We ask them.
+
+*  *      *  *
+
+                                                             Article 2. Equal Opportunity
+
+                                                                During the term of this Agreement neither party shall
+                                                             discriminate against any employee or applicant for em-
+                                                             ployment because of race, color, sex, age, religion, na-
+                                                             tional origin, handicap, or status as a disabled veteran
+                                                             or Vietnam era veteran. This nondiscrimination policy
+                                                             shall include, but not be limited to, the following: em-
+                                                             ployment, promotion, upgrading, transfer, layoff, demo-
+                                   72                                 73
+
+tion, termination, rates of pay, forms of compensation,        made by either party hereto, insofar as this Agreement is
+recruitment advertising and selection for training.            concerned, the parties have agreed to and do hereby agree
+                                                               that no provision or term of this Agreement may be
+   The Employer shall not discriminate against any em-         amended, modified, changed, altered or waived except by
+ployee for his or her activity in behalf of or membership      a written document executed by the parties hereto.
+in the Union.
+                                                               ok  *      *  *
+Article 3. Compliance with Law
+                                                               Article 11. Disability Pension and Health and Welfare
+    (a) The Employer and the Union agree that in the           Contributions
+event any provision or provisions of this Agreement are
+held to be void as being in contravention of any laws,            If an employee becomes disabled and the disability is
+rules or regulations, nevertheless, the remainder of this      occupational (occurring on the job) the Employer agrees
+Agreement will remain in full force and effect, and the        to continue paying his Pension and Health and Welfare
+parties shall immediately meet to negotiate new provisions     Plan contributions for a period of up to one (1) yew
+to replace the void provisions. It is further agreed that      of bona fide disability.
+each article of this Agreement is separate and distinct
+and would have been entered into without regard for any           In no case will the Employer pay more than the maxi-
+other article.                                                 mum straight time monthly hours.
+
+    (b) It is mutually agreed that the Employer and the        Article 12. Maintenance and Cure
+Union will comply fully with all provisions of all Federal
+laws, State and local laws, and Presidential Executive            (a) Crew members are entitled to maintenance and
+Orders, all to the end that no person shall improperly be      cure, on account of injury or illness incurred in the ser-
+excluded from participation in, or be denied the benefits      vice of the vessel, and shall be paid maintenance at the
+of full access to, the procedures of Article 1 of this Agree-  rate of twenty-two dollars ($22.00) per day. Except in
+ment, or be otherwise subjected to discrimination.             hardship cases, the Employer shall not be required to
+                                                               make payments under this rule more often than semi-
+Article 4. Agreement May Not Be Amended Except by              monthly.
+Written Document
+                                                                  Under the above provision, wages, maintenance and
+   The parties realize that not infrequently, after agree-     cure shall be paid promptly on presentation of a medical
+ments similar in part to this Agreement have been exe-         record indicating generally the nature of the illness or
+cuted, one party thereto will contend that the othe: pzerty    injury.
+has at some time during negotiations agreed to amend,
+modify, change, alter or waive one or more provisions of          Wages, maintenance and cure shall not be withheld in
+the Agreement, or that by the action or inaction of such       any case merely because the claimant has also submitted
+other party, the Agreement has been amended, modified,         a claim for damages or has filed suit therefor or is taking
+changed or altered in some respect. With this realization      steps to that end.
+in mind and in order to prevent such contention being
+                                                                  If the disability is caused by injury received in the ser-
+                                                               vice of the employer, and all weekly disability benefits
+                                                               have been exhausted, and proof of termination of these
+                        74                                                                        75
+
+benefits has been provided to the company by the em-           ceive a seven and one-half percent (742%) pay increase.
+ployee, than the rate at which maintenance is paid shall       This new rate will remain in effect through the subsequent
+be increased to thirty-five ($35) dollars per day.             750 hours of work. At the conclusion of this second 750
+                                                               hours of work, the individual will be paid as a fully Quali-
+7K                  ok      bs  *                              fied Deckhand.
+
+   (i) Employee may be granted leaves of absence lim-             Those individuals not having the required 750 hours
+ited, except in case of physical disability, to six months in  with a CMC tugboat company but having like experience
+any year, without loss of seniority. Retention of seniority    will be considered on a case by case basis.
+during a longer leave of absence may be arranged by
+agreement between the Employer and the Union. Leaves               (b) In addition to wages stipulated herein, soaps,
+of absence will not be granted to employee to work in          towels, linens weekly when required, and other essential
+other industries or companies unless mutually agreed to
+between the Employer and the Union. Any leaves of ab-          supplies within reason, will be provided.
+sence shall be reduced to writing with an approved copy
+sent to the Union.                                                (c) Where subsistence is not furnished, employees
+                                                               classified herein will be paid subsistence of seven dollars
+Article 23. Wages                                              ($7.00) for work exceeding four (4) hours or fifteen
+                                                               ($15.00) for work exceeding eight (8) hours. Subsis-
+   (a) The minimum basic rates of pay shall not be less        tence allowance shall not exceed fifteen dollars ($15.00)
+than the following:                                            in any twenty-four (24) hour period.
+
+Classifications     9/15/87     9/15/90  9/15/91                  When subsistence is furnished on the boats, reasonable
+                                                               grocery orders will be filled as ordered. Shortages will
+Qualified D/H Cook  Hourly      Hourly   Hourly                be made up within twenty-four (24) hours. No dated
+                                                               food shall be given that will expire during the shift.
+S.T. Hourly Rate      $16.41     $16.90  $17.41
+Qualified D/H                                                     (d) In order to be employed as a qualified deckhand,
+S.T. Hourly Rate        $15.86  $16.34    $16.83               he or she must provide, if requested to do so to the satis-
+                                                               faction of the Employer, that he or she:
+   Employees hired into the Qualified Deckhand classifi-
+cation on or after ratification of this agreement with less           1. Has good knowledge of vessels lines and towing
+than 750 hours of work with a CMC tugboat company                          winch, the placement, use and names of same.
+within the preceding two (2) years, will receive fifteen
+percent (15%) reduction in the published wage rate for                2. Has fair knowledge of splicing lines.
+the qualified deckhand. That fifteen percent (15%) re-
+duction shall remain in effect for the first 750 hours                3. Isa satisfactory helmsman and lookout.
+worked in the qualified deckhand classification.
+                                                                      4. Can satisfactorily chip, scale and care for the
+    Upon completion of the first 750 hours of work in the                  metal parts of a vessel.
+Qualified Deckhand classification, the employee shall re-
+                                                                      5. Can satisfactorily paint when requested and do
+                                                                           the necessary cleaning chores upon completion
+                                                                           for the day.
+76                                                                   77
+
+6. Can properly care for and use tools.                        (2. hours worked on the employee’s designated days
+
+7. Can do such other things required of a deckhand                  off;
+     in order to work safely.
+                                                               (3) all hours worked on the 7th day.
+
+   Any person who is classified as a qualified deckhand        *  *      *  *
+shall not be reduced in rating.
+                                                                  (c) Employees shall not be required  to work Thanks-
+   (e) Casual employees will be paid twelve (12) hours         giving Day, Christmas Day, or New       Year’s Day, and
+                                                               will not be discriminated against for   refusal to work
+straight time when working on twenty-four (24 hour
+                                                               these days.
+boats. Overtime will be paid for hours worked in excess
+                                                               Article 30. Maintenance Work and Duties
+of twelve (12) hours. When a casual is replacing a
+regular employee as a vacation or sick relief he/she              (a) During the time on duty the deckhand’s duties
+shall be entitled to the same guarantee as the regular
+employee replaced. Any employee who has less than              shall consist of tying up and letting go as required by
+one (1) year company seniority shall receive vacation          the operation and normal maintenance work on the boat
+pay for each and every hour worked or paid for as              shall be performed during the hours of eight (8:00)
+follows:                                                       a.m. to four (4:00) p.m. No maintenance work shall
+
+Take the existing monthly wage and multiply it times           be required on Sundays or holidays.
+
+twelve (12) months, divide the result by twenty-six               (b) Deckhands will be required to perform mainte-
+
+(26) weeks, divide the result by two thousand                  nance work in the engine room.
+
+seventy-six (2,076) hours. This figure equals the                  (c) Sanitary work shall be performed as needed any
+hourly rate of vacation pay in cents. (Round to the            time, but no unessential sanitary work shall be required
+                                                               on Sundays or holidays, or at night that could be deferred
+nearest full cent.) The total accumulated vacation             until the next day.
+
+pay shall not exceed the amount of vacation pay for               It is the considered opinion of all parties that each
+a regular Deckhand in any twelve (12) month                    employee should adequately maintain his/her vessel
+period.                                                        within these limits. All employees shall share equally in
+
+    (f) a Deckhand/Cook, when carried      aboard, will work   this responsibility.
+
+as a swing person, performing duties       as required. The       (d) The on-watch deckhand shall conduct a check of
+duties of this position will include, but  not be limited to,
+                                                               the engine room status a minimum of two (2) times each
+cooking, storing of the vessel, deck       maintenance and     watch while underway for vessel safety reasons and re-
+
+repair.                                                        port same to the operator.
+
+Article 24. Overtime                                           *  *      *  x
+
+   (a) Overtime at time-and-a-half the regular straight-
+time rate shall be paid for:
+
+      (1) hours worked in excess of 12 hours a day;
+                         78                                                                                             79
+          Letter of Understanding—1
+                                                                                              Letter of Understanding—4
+                  to the Agreement
+                      Between                                                                                    to the Agreement
+
+       Harbor Tug and Barge Company                                                                                     Between
+                        and the
+                                                                                              Harbor Tug and Barge Company
+    Inlandboatmen’s Union of the Pacific,
+     Marine Division of the International                                                                               and the
+Longshoremen’s and Warehousemen’s Union
+                                                                                              Inlandboatmen’s Union of the Pacific,
+               San Francisco Region
+                                                                                              Marine Division of the International
+
+                                                                                              Longshoremen’s and Warehousemen’s Union
+
+                                                           eaaoR ao iiaEt a teNHnnheESeee OE                     San Francisco Region
+
+The above parties agree as follows:                                                           The above parties agree as follows:
+
+   During the term of the Agreement, it is agreed the                                            During the term of the Agreement, a dispatch proce-
+Union will refer applicants, who have not previously been
+employed by Harbor Tug and Barge Company, for inter-                                          dure for other than 7-day-on/7-day-off vessel Deckhands
+view prior to his/her being dispatched for work through                                       will be developed and established. The Deckhand unit
+
+the Union’s Hiring Hall.                                                                      will decide upon the dispatch procedure to be placed in
+                                                                                              effect and the date of its implementation.
+Signed for the Emplover:  Signed for the Union:
+                                                                                                 It is understood that the procedure currently in effect
+By /s/ [Illegible]        By /s/ [Illegible}                                                  will continue until such time as a new procedure is
+Date 7/8/88               Date 7/8/88                                                         developed and placed in effect.
+
+                                                                                              Signed for the Employer:      Signed for the Union:
+
+                                                                                              By ‘s’ [Hlegible]             By /s/ [Tilegible]
+                                                                                              Date 7/8/88                   Date 7/8/88
+                                   80                                    IN THE UNITED STATES DISTRICT COURT
+           UNITED STATES DISTRICT COURT                              FOR THE NORTHERN DISTRICT OF CALIFORNIA
+        NORTHERN DISTRICT OF CALIFORNIA
+                                                                                    [Caption Omitted in Printing]
+                   [Caption Omitted in Printing]
+                                                                           San Francisco, California
+                      Date: February 28, 1992                                  December 16, 1992
+                            Time: 9:30 a.m.
+                                                                           COURT'S RULINGS
+                    Courtroom: Judge Legge
+                                                                             EXCERPTED TRANSCRIPT OF PROCEEDINGS
+PLAINTIFF’S STATEMENT OF UNDISPUTED FACTS                            Berore THe HONORABLE CHARLES A. Leace, JUDGE
+
+   Defendant and the Inland Boatman’s Union of the                         *  *             *                 *
+
+Pacific (IBU) are parties to a Deckhands Agreement,                  {2} THE CLERK: Calling Civil 90-0111, John  Papai
+                                                                     et al., v. Harbor Tug and Barge, et al.      a
+(Secchitano Deposition page 14 line 22) which requires               Counsel, state your appearances.
+                                                                     7 ae
+that all HTB deckhands be members of the IBU (2)                           “—. as Boyle for Plaintiffs.
+at 8:05 a.m. on March 13, 1989, a representative of
+                                                                              ric Danoff of Graham & J
+HTB telephoned the IBU hiring hall, requesting two                   the Defendant Harbor Tug and Barge.
+                                                                     THY COURT: All right.                       sa
+deckhands to perform maintenance that day on HTB's
+                                                                        THE COURT: All right.
+tug, Point Barrow, at the Home Dock in Alameda (Sec-                    The case has been tried over a period of several days
+                                                                     A 7 Assen ot~~ |without a jury. And then post-trial
+chitano Deposition page 21 lines 15-17) and that uader                  And | read the deposition of Captain Mc Isaac that
+                                                                     was submitted to me. I've, of course, heard the evidence.
+the union contract, maintenance, including painting, 1s              And I've gone back and reviewed my notes of the evi-
+
+an integral part of the of the duties of a deckhand, (Sec-           e denece. heAnd I have reviewed the exhibibiitts which have been
+
+chitano Deposition page 54 lines 3-23).
+   Papai, an IBU member works exclusively non-shoreside
+
+had already worked for defendant as a deckhand of 12
+previous occasions in 1989. (Secchitano Deposition page
+
+45 lines 5-7).
+
+                                          SULLIVAN, JOHNSON & Boyle
+
+                           /s/ Thomas J. Boyle
+
+                                       THOMAS J. BOYLE
+                                   82                                                               83
+
+   I'm prepared to rule at this time on the liability              So it’s really Mr. Papai’s testimony that has to estab-
+question.
+                                                                lish that ~~ was something the matter with the ar-
+   Now. first of all, the legal framework in which we find      rangements that he was given, and in essence to prove
+ourselves.
+                                                                that the ladder slipped. And he did say that during his
+   The case initially started out as a seaman’s case. I
+                                                                we me
+made a determination ezsty in the case that | did not
+believe Mr. Papai was a seez.ian, and hence not entitled to        So I think that the question really in determining lia-
+
+the Jones Act [3] and doctrine of unseaworthiness benefits.     bil is aisetarcy h for corroboration, and oes eee for
+    So the action—and that is a conclusion which I re-          credibility.
+
+affirm. And of course is a subject which Mr. Papai is              On the issue of corrobo werreaalt ly ihaovenonly one
+free to take up with the Court of Appeals.
+                                                                thing—and ‘maybe not even that—that nate Mr.
+   The legal issues, therefore, in this case in the trial be-
+                                                                — version, and that is the trial testimony of Mr.
+fore me are framed under Section 905(b) of the Long-
+                                                                   However, Mr. Low, as a witness, I don’t think has
+shore and Harbor Workers’ Act, and general principles of        great deal of credibility. I think his demeanor on the
+                                                                witness stand was such that he’s—can be kind of led into
+negligence.                                                     saying whatever anybody on either side of the case wants
+                                                                him to say at the moment.
+    And it's of course clear that the plaintiff bears the bur-
+den of proof by a preponderance of the evidence.                _And indeed his testimony in the trial was inconsistent
+                                                                with the testimony of Mr. Michel, dealing with Mr.
+    A few other legal matters.                                  Michel’s interview with Mr. Low back in 1989.
+                                                                Pe. gee Byar cy na that is, the other evidence
+    I think that the defendant’s duties as the operator of      we cou              to for corroborisartealilyotnot,ally
+
+ the tug are governed by the principles set forth by the        against Mr. Papai.  °
+
+ U.S. Supreme Court in the Scindia, S-c-i-n-d-i-a, decision.    That is, the record at the time establishes the exact
+                                                                contrary of what Mr. Papai wants to establish and testify
+    And I believe that the defense is correct that the de-      to at [5] trial: his stat toe Dawm sone : hn is t stats ements
+ fendant here can be liable only as the operator or the tug.    to Clinton; the formal—formal injury report, which I
+                                                                recognize is not prepared by Mr. Papai, but obviously the
+ And if things were done in its capacity as the employer        1. ee of it was attempting to relate what he was
+ of Mr. Papai, rather than his operator, there can’t be
+ liability.                                                        We don’t have any instances in which Mr. Papai, other
+
+    With respect to the OSHA standards, I think everybody       ythwanhoandthe witness stand, sayyss the ladder sliipped or was
+
+ now agrees that the OSHA standards are relevant to de-         The accident report he gives to his doctor says that
+                                                                ee      aeSep, tee a tees ae
+ termining the question of duty of care. Not necessarily
+ controlling, no per se rule; and, of course, they do not       According to Michel, Low said that Papai slipped
+                                                                and hit his knee on a rung while climbing down the ladder.
+ answer the question of who has the duty to comply with         His deposition testimony is equivocal, in the sense he
+ the standard of care.                                          says he doesn’t really remember what happened.
+
+    Now, what happened?
+     We have no evidence of what—of how the accident oc-
+ curred, and what occurred there, other than Mr. Papai’s
+  [4] testimony. That is, it’s a somewhat unusual case in
+  which there is nobody at the scene. Even Mr. Low comes
+  along a bit later.
+                                     84                                                       85
+
+   I realize that’s in the context of quite a bit of other     I also believe that Mr.—that the defense has [7] es-
+testimony.
+                                                               tablisthhaet dMr. Papai did have some choices. He may
+   And there is the fact that the ladder remained upright,
+for whatever weight that might have.                           perhaps not be the type of person to avail himself of those
+
+   What I’m saying is that the search for corroboration        choices, particularly when it may put him in a confronta-
+
+produces none. And indeed produces a lot of matters            tional position with his employer, but I think he did
+
+inconsistent with Mr. Papai’s statements at trial about        have choices as to what tools and what equipment to use.
+how the accident occurred.
+                                                               And that he, as much as anyone else, made the choice of
+   Dealing with the general subject of credibility, I think
+Mr. Papai is an honest and straightforward person. But         which ladder and which equipment to use and how to go
+I do have some questions about his statements in connec-
+tion with the case; the general question of credibility,       about using it.
+totally apart [6] from the—well, I shouldn’t say “apart”;
+I've already recited the matters where I believe Mr.           So for all those reasons I am finding that Mr. Papai
+Papai’s statement at trial was inconsistent with his other
+testimony.                                                     has not sustained his burden of proof on the issue of
+
+    In addition, I find it difficult to fathom that Mr. Papai  negligence, either under 905 of the Act, or under general
+in going to a doctor and seeking treatment for his knee,
+and compensation for his knee injury, doesn’t disclose         negligence principles.
+the fact of his prior operation on the same knee.
+                                                               So the question of liability must be determined in favor
+    I also think his testimony regarding what he was do-
+ing in trying to look for a job and get himself retrained      of the defense, and against the plaintiff.
+was really straining credibility also.
+                                                               So I then need not proceed to questions dealing with
+    Mr. Papai is an intelligent person. He’s—he has a
+                                                               the medical or economic aspects of damages.
+gift of intelligence that’s above standard, above level. I
+                                                               So I will direct that judgment be entered in favor of
+believe there are a lot of positions that are open and
+                                                               the defendant. And ask that .. . the defendant submit a
+available for him, if he would pursue the effort of finding    proposed form of order, and a proposed form—well I
+                                                               guess just a proposed form of judgment is all we need,
+ them.                                                         And state on the record—state in the judgment that I
+    The fact is that the whole case, the liability case, the   have given the reasons for my . . . conclusions and
+                                                               findings and judgment on the record in open court.
+causation, the damages, the medical, the other, just seems
+ to have been pushed to the utmost limit by Mr. Papai,            So in the event that Mr. Papai appeals the court of
+
+ and perhaps by his counsel, without really a lot of solid     appeals will have my comments in one place.
+ evidence—or much solid evidence to back it up.
+                                                                  I might say, Mr. Boyle, I think you did all you could.
+    So I am finding by a prepondoef rthae nevcideence          [8] I can’t conceive a better presentation or . . . a more
+ that Mr. Papai has not sustained his burden of proof on
+ liability; that the ladder did not slip, but that Mr. Papai   vigorous prosecution of it, but I just don’t think the evi-
+
+ was instead injured by slipping, or missing a rung, or        dence was able to sustain it.
+       . improperly stepping down, however you want to
+                                                               But I think you did as good a job as         ibly  could.
+ frame it.                                                                                                        Judge
+                                                               MRS. PAPAI: (From audience a
+
+                                                               - THE COURT: Yes, ma’am.
+
+                                                               MRS. PAPAI: .. . my husband is probabl
+
+                                                               the most honest men—                        ng going
+
+                                                               MR. BOYLE: Mrs. Papai—
+
+                                                               MRS. PAPAI: —God ever created—
+                                 86
+
+   MR. BOYLE: —1I dont—
+   MRS. PAPAI: —and he is not someone to tell lies—
+   MR. BOYLE: Mrs. Papai, I don’t want you to—
+   THE COURT: Wejl ust l a s, econd.
+   MRS. PAPAnI ot s. omeo— ne h whoe wou’ ld s be able
+to figure out what you need to hear—
+   THE COURT: Ma’am—
+   MRS. PAPAI: And he just didn’t know what to tell
+you.
+   He told me that night that he came home the ladder
+went out from under him.
+   And I don’t care what you people in suits say.
+   (Mrs. Papai leaving courtroom.)
+   MR. BOYLE: Sorry, Your Honor.
+[9] THE COURT: Well, that’s quite all right, Mr.
+
+  MR. DANOFF:yoTu,hYoaurnHoknor.
+           [CertoifRfepiorcteraOtmiteted]
+

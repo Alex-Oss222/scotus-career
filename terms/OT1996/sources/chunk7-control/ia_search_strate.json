@@ -1,0 +1,28 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 14,
+    "params": {
+      "query": "collection:us-supreme-court AND (identifier:95-1872 OR title:Strate)",
+      "qin": "collection:us-supreme-court AND (identifier:95-1872 OR title:Strate)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 50,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 2,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40386004_1133",
+        "title": "Di Lauro v. Ver Strate, 519 U.S. 864 (1996) (No. 96-64)"
+      },
+      {
+        "identifier": "micro_IA40385013_0769",
+        "title": "Strate v. A-1 Contractors, 520 U.S. 438 (1997) (No. 95-1872)"
+      }
+    ]
+  }
+}

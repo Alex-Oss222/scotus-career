@@ -1,0 +1,869 @@
+                       No. Gi  Supreme Court, =
+
+                       In The                                                          =a
+
+Supreme Court of the An
+
+                       >
+
+                                October Term, 1995
+
+THE BOARD OF THE COUNTY COMMISSIONERS OF
+BRYAN COUNTY, OKLAHOMA,
+
+                                                                          Petitioner,
+                                       vs.
+
+                          JILL BROWN, et ai.,
+
+                                                                      Respondents.
+
+          On Writ of Certiorari to the United States Court
+                      of Appeals for the Fifth Circuit
+
+BRIEF FOR PETITIONER
+
+           WALLACE B. JEFFERSON
+              Counsel of Record
+
+           SHARON E. CALLAWAY
+           CROFTS, CALLAWAY & JEFFERSON
+           A Professional Corporation
+
+             Attorneys for Petitioner
+                 1655 Frost Bank Tower
+                 100 West Houston Street
+                 San Antonio, Texas 78205-1457
+               (210) 246-5627
+
+CArgelsi               (800) 3 APPEAL + (800) 5 APPEAL + (800) BRIEF 21
+
+        ervices, inc.
+
+                                                                                       aN )\
+                                           i
+
+                   QUESTIONS PRESENTED
+
+      1. Does the United States Constitution impose liability on
+a County fora single hiring decision that comports with state law
+in every respect, when there is no evidence that the County's
+hiring practice in the past has resulted in the deprivation of a
+citizen's constitutional rights?
+
+     2. Does the hiring of a Reserve Deputy who has one
+misdemeanor conviction for assault and battery and traffic
+violations establish a causative link (amounting to deliberate
+indifference) between the decision to hire him and his
+subsequent use of force during the course of an arrest?
+
+     3. Are federalism concerns implicated by an opinion which
+imposes liability on a County for hiring a deputy with one
+misdemeanor assault and battery conviction and other minor
+offenses, when the State of Oklahoma proscribes only the hiring
+of individuals with felony records?
+                                        ii                                                 Contents
+                      TABLE OF CONTENTS
+                                                                                                                                        Page
+                                                                           Page
+Questions Presented ...........ccceececcecees 75                                 Principles of Federalism Limit Municipal
+                                                                                 Liability For Singular Hiring Decision Which
+te ven ne due besée ae                                                           Comports With Constitutionall y- Valid State Law.
+
+                                                                                                                                                           14
+
+ee week ben ces ef
+
+                                                                                 Argument                                               15
+
+Opinions and Judgment Below .............+6+....
+
+                                                                                 There Is No Municipal Liability For A County's
+
+a                                                                                Hiring Decision, Which Comports With Valid
+
+                                                                                 State Law, Without Evidence Of Similar Incidents
+
+Constitutional and Statutory Provisions Involved .                               Or An Affirmative Link Between The Hiring And
+
+                                                                                 The Constitutional Deprivation. .............          15
+
+TG  a PPPTTTTTTET Ey ce                                                                    Respondent Has Conceded Absence of
+
+A. FactsoftheCase. ......cccccccccscees Pita                                               “Custom” of Inadequate Hiring. .........     16
+
+1. Stacy Burns’ Background. ......... a a                                                  There Is No Evidence that Bryan County
+
+                                                                                           Adopted a “Policy” of Inadequate Screening.
+
+2. BryanCounty’s Hiring and Training of Stacy                                              |                                            17
+
+       rn cas capes To                                                                     Respondent Failed to Prove Causation for
+
+    Todd Brown's Evasion of the Police                                                     Inadequate Screening. .................      21
+    Checkpoint: Deputy Sheriff Morrison and
+    Reserve Deputy Burns’ Pursuit of the Vehicle.                                          Respondent's Inadequate Hiring Claim Fails
+
+                                                                                           Under City of Canton v. Harris. ..........   22
+
+   B. Course and Disposition of Proceedings Below. .                                       The Fifth Circuit’s Superseded Opinion
+Summary ofthe Argument ...............--5. Poe
+                                                                                           Correctly Analyzed Respondent's Failure-to-
+   I. The Fifth Circuit’s Opinion Contravenes Monell.
+                                                                                           SE, Shdee sodccsscieveeccocece               24
+              iv                                                   v
+
+              Contents                                                                                Contents
+                                                                                                                                              Page
+                                                             Page
+                                                                   Brown v. Bryan County, OK, 67 F.3d 1174 (Sth Cir. 1995)
+Il. Monell’s Rejection Of Respondeat Superior                           Juabtodessencbboebetsbodeadaneetés 10, 12, 13, 25, 26, 30
+
+Liability Embodies This Court’s Concern That
+
+PrinciplesOfFederalism Ens A Pru oper r Bae lance
+
+Between Hold A Mi unin cipg ality Accountable For                  City of Canton v. Harris, 489 U.S.378(1989) ....5,22,23,24
+
+Violating Constitutional Rights, While Preserving
+
+States’ Authority To Administer Their Own Laws                     City of Newport v. Fact Concerts, Inc., 453 U.S. 247
+
+Unencumbered By Excessive Federal-Court                            ED cidodd coccpecedcccenccécccedsenconcses                 18
+
+EE, -s., Ccvedédccseucdedddendecauss                         26
+
+                                                             32    City of St. Louis v. Praprotnik, 485 U.S. 112(1988) ....   20
+
+CORGINEED 6 cckc cocdesccctoedévchdodddtéeoeddsés
+
+                                                                   D.T. by M.T. v. Indep. School Dist. No. 16, 894 F.2d 1176
+
+                                                                   (10th Cir.), cert. denied, 498 U.S.879(1990) ......        23
+
+              TABLE OF CITATIONS
+
+Cases Cited:                                                       Graham v. Sauk Prairie Police Comm'n, 915 F.2d 1085
+                                                                      SE ccradenddcddacdudeddsccsecscoccese 22,23
+
+Adickes v. S.H. Kress & Co., 398 U.S. 144(1970) .....        16    Gregory v. Ashcroft, 501 U.S.452(1991) ............        30
+
+Aldinger v. Howard, 427 U.S.1(1976) .............-.          28    Haworth v. Central Nat. Bank, 769 P.2d 740 (1989) ....     20
+
+Auriemma v. Rice, 957 F.2d 397 (7th Cir. 1992) .......       20    Hoss v. State, 738 P.2d 958 (Okla. Ct. App. 1987) .....    21
+
+Benavides v. County of Wilson, 955 F.2d 968 (Sth Cir.),            Jeft v. Dallas Independent School District, 491 U.S.701
+                                                                      GUEEED cevecoccccsepecesissceeedadatétaccties 20, 28
+cert. denied, 506 U.S.824(1992) .........020005-             22
+
+Bennett v. Slidell, 728 F.2d 762 (Sth Cir. 1984) (en banc),        J.H. By D.H. v. West Valley City, 840 P.2d 115 (Utah 1992) 2
+   cert. denied, 472 U.S. 1016(1985) ...............
+
+Brown v. Bryan County, OK, 53 F.3d 1410 (Sth Cir. 1995)            Mitchum v. Foster, 407 U.S.225 (1972) .........645.        26
+     pccccccccecoubesosceteccesooossesesesnseese 9, 10,25
+                 vi                                                                         vii
+
+                 Contents                                                                   Contents
+
+                                                            Page                                                          Page
+
+Monell v. Dept. of Social Services of New York, 436 U.S.          Okla. Stat. Ann. Tit. 70, §3311(d)(2)(b)(c) ..........  20
+   GRDRIGTED occ cctdcvcccecscocdés 12, 14, 16, 17, 26,27,28
+
+                                                                  United States Constitution Cited:
+
+Monroe v. Pape, 365 U.S.167(1961) .......-. eee 14,28
+
+                                                                  EE  Ba de dena, oda tacéceddens 1,8
+
+Oklahoma City v. Tuttle, 471 U.S. 808 (1985) ....... 17,21,23
+
+                                                                  i   thts ded disccbuchsvacebessecheos                           8
+
+Owen v. City of Independence, 445 U.S.622(1980) ...         18
+
+                                                                  I   dk inn ca Utkin bandas chkiesen                             8
+
+Pembaur v. City of Cincinnati, 475 U.S. 469(1986) .17,18,19
+
+Rizzo v. Goode, 423 U.S. 362 (1976) ..........645: 15, 29,31      FourteenthAmendment .......................... 8,26
+
+                                                                  Other Authorities Cited:
+
+Taylor v. Beckham, 178 U.S.548 (1900) .............         30
+
+United States v. Lopez, 514U.S.__, 115S.Ct. 1626 ...29,30,31      Act of April 20, 1871, ch. 22,17 Stat.13 .............  26
+
+                                                                  Cong. Globe, 42d Cong., Ist Sess.,804(1871) ........ 27,28
+
+Statutes Cited:
+
+WBUBL. § IBSAA) ... ce cvcccccccccsccccscccccsecs              1  Eric Foner, Reconstruction: America’s Unfinished
+                                                                  Revolution, 1863-1877, 456 (New York, Harper & Row
+                                                                  SUED Sebabvewvudnucibesstetaciveduess¥ecetess
+                                                                                                                          27
+
+42U.S.C.§ 1983 ...... 1,8,9, 12, 14, 15, 16, 18, 20, 21, 26, 31
+
+Okla. Stat. Tit. 70 §3311 2.0c. cce6 ce . cec. e e. ee eee     2  The Federalist No. 45, pp. 292-293 (C. Rossiter ed. 1961) ™
+
+Okla. Stat. Ann. Tit. 70,§ 3311(D)(2) ...............       14    The FederalisNto. 46, p.298(C. Rossitered. 1961) ... 28, 30,31
+
+Okla. Stat. Ann. Tit. 70,§ 3311(d)(2)(a) ..........4.- 16, 20
+
+Okla. Stat. Ann. Tit. 70, §3311(d)(2)(b) .......--6.. 20, 22
+                                     1
+
+            OPINIONS AND JUDGMENT BELOW
+
+     The opinion of the court of appeals (App. 3a) is reported at
+67 F.3d 1174. A superseded opinion of the court of appeals is
+reported at 53 F.3d 1410. The opinion of the district court
+
+(App. 30a) is unreported.
+
+                 STATEMENT OF JURISDICTION
+
+     The judgment of the court of appeals was entered on October
+23, 1995. Petitioner's Petition for Rehearing of Substituted
+Opinion and Petitioner's Suggestion for En Banc Consideration
+were denied by written order on November 29, 1995. (App. 1a).
+The jurisdiction of this Court is invoked under 28 U.S.C.
+§ 1254(1).
+
+           CONSTITUTIONALAND STATUTORY
+                    PROVISIONS INVOLVED
+
+      The Fourth Amendment of the United States Constitution
+provides:
+
+            The right of the people to be secure in their
+            persons, houses, papers, and effects, against
+            unreasonable searches and seizures, shall not
+            be violated, and no Warrants shall issue, but
+            upon probable cause, supported by Oath or
+            affirmation, and particularly describing the
+           place to be searched, and the persons or
+            things to be seized.
+
+     42 U.S.C. § 1983 provides, in relevant part:
+
+            ... Every person who, under color of any
+           statute, ordinance, regulation, custom, or
+           usage, of any State or Territory or the District
+                                 2                                                               3
+
+      of Columbia, subjects, or causes to be                                This section shall also be applicable to
+      subjected, any citizen of the United States or                        all reserve peace officers in the State of
+      other person within the jurisdiction thereof to                       Oklahoma, and
+      the deprivation of any rights, privileges or
+      immunities secured by the Constitution and                      c. such person possesses a high school
+      laws, shall be liable to the party injured in an                      diploma or a GED equivalency
+      action at law, suit in equity, or other proper                        certificate. ...
+      proceeding for redress.
+                                                                             STATEMENT OF THE CASE
+Oklahoma Statute Title 70, § 3311 (West 1994) provides:
+                                                         A. Facts of the Case
+      No person shall be certified as a police or
+      peace officer in this state unless the                   1. Stacy Burns’ Background.
+      employing agency has reported to the
+      Council that:                                            Stacy Burns graduated from high school in Durant,
+                                                         Oklahoma in May, 1988, approximately one month after his 18th
+      a. the Oklahoma State Bureau of                    birthday. (J.A. 85a).' Forthe next several months, Burns worked
+            Investigation and the Federal Bureau of      at Collier Brothers Furniture and Home Furniture Company and
+            Investigation have reported that such        attended a college course at Southeastern State University. (J.A.
+            person has norecord of aconviction of a      86a, 87a). By the beginning of 1989, Burns had enrolled full-
+            felony or crime involving moral              time at the Norman, Oklahoma campus of the University of
+             turpitude,                                  Oklahoma, in Clayton County. (J.A. 87a).
+
+      b. such person has undergone                             In September of 1989, while Burns was driving across the
+            psychological evaluation.... The             university campus, he came upon a fraternity pledge class. (J.A.
+            psychological instrument utilized shall      89a-90a). One of the members of the pledge class hit Burns’ car.
+            be evaluated by a psychologist licensed      Burns stopped his car, got out, and confronted the students,
+            by the State of Oklahoma, and the            several of whom began pushing Burns. He responded in kind.
+            employing agency shall certify to the        (J.A. 90a). There are no other details in the record regarding this
+            Council that the evaluation was              fraternity fracas. The record does suggest, however, that police
+            conducted in accordance with this            officers were called to the scene. (J.A. 43a, 8la, 100a). The
+            provision and that the employee/             record does not reveal whether members of the pledge class were
+            applicant is suitable to serve as a peace    charged with any criminal offense.
+            officer in the State of Oklahoma... .
+                                                                1. Appendix to the Petition for Writ of Certiorari will be designated as
+                                                         (App. ___). “J.A.” refers to the Joint Appendix. References to the trial transcript
+                                                         will be designated as (Tr. __).
+                                                   4                                                                    5
+
+     As a result of this encounter, Burns pleaded guilty to a                   they carried out police business. (Tr. 579).’ Calclazier and
+number of misdemeanors, including assault and battery, public
+drunkenness, and possession of a false identification. (J.A.41a-                Howell gave Burns general instructions on law enforcement and
+43a, 90a, 121a). Although he also pleaded guilty to several traffic             particular instruction on how to detect drunk drivers, on proper
+offenses, it is unclear whether they were related to the campus                 procedures to conduct an investigatory stop, and on methods of
+incident or were the result of previous infractions. (J.A. 80a-83a,             placing a suspect under the officer's custody and control. (Tr.
+88a-90a).                                                                       580). In addition, Burns learned radio dispatch signals employed
+                                                                                by the Bryan County dispatcher and studied law enforcement
+      2. Bryan County's Hiring and Training of Stacy Burns.                     techniques provided by the Law Enforcement Training Network
+                                                                                (“LETN”), a closed-circuit television program used as an
+      In May, 1991, Burns formally applied for a Reserve Deputy                 instructional tool for law enforcement officers. (Tr. 579).
+position with Bryan County, Oklahoma. (J.A.45a-46a). Burns’
+background did not disqualify him from law-enforcement                                Sheriff Moore prohibited Burns from driving a vehicle or
+employment,’ therefore, the decision to hire him was left to the                from carrying a revolver. (J.A. 95a, 117a-118a). In addition,
+discretion of B.J. Moore, Bryan County’s Sheriff. Moore had                     Burns was not authorized to make forcible arrests unless he was
+passing familiarity with Burns, who is the son of Moore's                       accompanied by a supervising deputy. (J.A. 117a).
+nephew. (J.A. 110a). Moore knew, for example, that Burns had
+received several traffic tickets and that Burns had been arrested                     3. Todd Brown's Evasion of the Police Checkpoint: Deputy
+for being in actual physical control of a motor vehicle while                   Sheriff Morrison and Reserve Deputy Burns’ Pursuit of the
+intoxicated. (J.A. 114a). Although he had obtained a copy of                    Vehicle.
+Burns’ driving record and a report from the National Crime
+Information Center (“NCIC”), Moore did not know that Burns                            In the early morning hours of May 12, 1991, Todd Brown
+had pleaded guilty to assault and battery or public drunkenness.                and his wife, Jill Brown, were traveling in her 1979 Chevrolet
+(J.A. 115a).                                                                    pickup truck from Grayson County, Texas to their home in Bryan
+                                                                                County, Oklahoma. (Tr. 131). At 1:30 a.m., they crossed the
+      In accordance with state law, Burns enrolled in the Council               Denison dam and entered Oklahoma, just north of the Texas-
+on Law Enforcement Education and Training (“CLEET”)                             Oklahoma border. (Tr. 589). When Todd Brown saw he was
+program and began receiving instruction there on May 6, 1991.                   approaching a police checkpoint near the high-crime area of
+(J.A. 74a). In addition to this training, Burns rode with certified             Cartwright, Oklahoma, he abruptly reversed direction and
+Peace Officer Earl Howell and Special Deputy Joe Calclazier as                  headed south across the Denison dam back into Texas. (J.A.
+                                                                                11la). (Tr. 433, 590, 692). Although Todd Brown stated that he
+        2. Indeed, Otto Schweizer, Brown's expert witness on hiring standards,  avoided the checkpoint because he had been “harassed” by
+agreed that Bryan County complied with Oklahoma State statutes governing        police in the past, the record suggests he may have been worried
+the hiring of Stacy Burns. (J.A. 47a-48a, 50a).
+                                                                                       3. Schweizer agreed that the State of Oklahoma permits sheriff
+                                                                                departments to allow reserve deputy sheriffs to accompany certified peace
+                                                                                officers as they carry out law-enforcement duties. (J.A. 55a-56a).
+                                       6                                                                         7
+
+that the police would discover the loaded rifle in the cab of the     stop, Morrison and Burns placed their lives on the line. They
+truck or the revolver concealed in a pocket of Jill Brown’s front     emerged from their vehicle and ordered the occupants to get out
+seat. (Tr. 48-49, 101, 134, 449).                                     of the truck. (Tr. 49, 441). Although Brown concedes that Officer
+                                                                      Morrison may have ordered her to get out of the vehicle, she
+     Deputy Sheriffs Robert Morrison and Joe Calclazier and           excuses any disobedience by claiming that, if Officer Morrison
+Reserve Deputy Stacy Burns were manning the police                    made such a command, she “didn’t hear it.” (Tr. 106).* Burns
+checkpoint when they observed Brown’s vehicle make a U-turn           came around to the passenger door and ordered Brown to get out.
+and travel in the opposite direction. (Tr. 433, 590, 692).            (Tr. 625). At trial (if not on appeal) Brown conceded that she
+According to the officers, the Browns’ truck fishtailed, its tires    leaned forward, hands outstretched, when instructed by Burns to
+squealing, and left the checkpoint at a high rate of speed toward     exit the truck. (Tr. 54, 595, 597, 627, 714).
+the Denison dam. (Tr. 433, 589-90, 692, 697). Todd Brown's
+testimony on the subject was purely subjective: he “didn’t                  Brown’s forward lean, which occurred after the deputies
+believe” his tires squealed; they “weren't intended to.” (Tr. 135).   had chased the truck four miles down a lonely road in the dead of
+He “didn’t think” his pickup fishtailed, although he                  night and after Jill Brown had twice refused to comply with
+acknowledged that his front tires “kind of slide around some.”        direct orders, caused Reserve Deputy Burns to react with what all
+(Tr. 136). With respect to the speed of his turn, he surmised that    experts described as the “lowest level of force” an officer can
+it “would be normal I would suppose.” Did he leave at a high rate     employ short of purely oral persuasion. (Tr. 391-921, 505-06,
+of speed? “I wouldn’t have thought so. Pretty much just normal.”      509-10). Burns seized Brown's arm at the wrist and elbow,
+(Tr. 135-36).                                                         extracted her from the vehicle, and placed her on the ground. (Tr.
+                                                                      595-97, 627). After a scuffle, Officer Morrison was finally able
+      The contrary evidence — and the only evidence that              to place handcuffs on Todd Brown. (Tr. 442-43). The officers
+explains the officers’ pursuit and the participation of the Texas     removed the loaded rifle and the concealed revolver from the
+Highway Patrol — was direct, descriptive and definite. (Tr. 433,      truck after they had secured its occupants. (Tr. 48-49, 101, 449).
+589-90, 692, 697). There was direct evidence that Officer
+Morrison could not have caught the Browns without achieving                 Jill Brown testified that she attempted to obey Burns’
+speeds in excess of 100 miles per hour. (Tr. 435). Uncontradicted     commands. She testified that, although she leaned forward, her
+evidence established that Morrison and Burns informed the             hands outstretched, she was not “reaching” for anything at the
+Bryan County dispatcher of their pursuit. (Tr. 442, 593). The         time she was extracted from the vehicle. (Tr. 52,54). As aresult
+record also establishes that Todd Brown proceeded nearly three-       of the incident, Brown claims she suffered serious and disabling
+quarters of a mile after he first observed the pursuing patrol car’s  injuries to her knees. (Tr. 52-54, 261, 267-68).
+emergency lights. (Tr. 45, 141-42). The pursuit finally ended in
+Grayson County, Texas, approximately 4 miles south of the                   4. Todd Brown heard one of the officers say “Get out and put your hands
+police checkpoint. (Tr. 45, 436-37, 610).                             on the hood.” (Tr. 185). Officer Morrison testified that he ordered the
+                                                                      occupants to get out of the truck. (Tr. 442-43). Stacy Burns testified that he
+      After Officer Morrison finally forced the Brown vehicle to      ordered Jill Brown to get out of the truck. (Tr. 625).
+B. Course and Disposition of Proceedings Below                                                               9
+
+      Jill Brown commenced this suit under 42 U.S.C. § 1983                 The jury also answered interrogatories concerning Bryan
+                                                                     County. (App. 40a-41a). With respect to liability under section
+alleging that Bryan County, Oklahoma, Stacy Burns, Robert             1983, the jury found as follows:
+Morrison, and B.J. Moore were guilty of violating her
+constitutional rights. Brown alleged that Stacy Burns’ actions in                 1. ... that the hiring policy of Bryan
+forcibly removing her from the pickup truck and handcuffing her                         County in the case of Stacy Burns was
+during the investigatory stop amounted to excessive force that                          so inadequate as to amount to deliberate
+deprived her of rights under the Fourth, Fifth, Eighth and                              indifference to the constitutional needs
+Fourteenth Amendments to the United States Constitution.                                of the plaintiff;
+Plaintiff's Third Amended Complaint. (R. 648).
+                                                                                  2. ... that the training policy of Bryan
+     Brown alleged that Bryan County violated the Constitution                          County in the case of Stacy Burns was
+either by: (1) hiring Burns, or (2) failing to adequately train                         $0 inadequate as to amount to deliberate
+Burns. The district court granted summary judgment in favor of                           indifference to the constitutional needs
+Moore and Morrison, but denied Burns’ and the County's motion                           of the plaintiff.
+for summary judgment. (J.A. 19a-29a). The case was tried to a
+jury. Bryan County moved for judgment as a matter of law at the      (Emphasis added).
+close of Brown’s case and renewed its motion at the close of all
+of the evidence. (J.A. 58a) (App. 30a). Both motions were                  The jury assessed a total of $765,300 in actual damages;
+denied. (J.A. 70a) (App. 35a). In addition to numerous other         $87,500 in attorneys fees; and $20,000 in exemplary damages,
+grounds, Bryan County objected to the court's charge on the          for a total award of $872,500. (App. 41a-44a). Finding no
+basis that the evidence conclusively established compliance          evidence of loss of income in the past or loss of earning capacity
+with applicable state law with regard to the hiring of Stacy Burns,
+that there can be no county liability under section 1983 for one     in the future, the court rendered judgment against Brown for
+isolated hiring decision, and that the jury interrogatories, which
+assumed Bryan County had adopted a “policy” of hiring Burns,         those amounts. (App. 34a). The district court entered judgment
+was erroneous. (J.A. 128a-132a). Those objections were denied.       against Burns and the County for the $711,302 in actual
+(J.A. 132a).                                                         damages; $87,500 in attorneys fees; and $20,000 in punitive
+                                                                     damages. (App. 36a-37a). The district court did not award
+      The jury found that Stacy Burns arrested Jill Brown without    Brown any recovery against defendants Morrison and Moore.
+probable cause; that Stacy Burns employed excessive force; that      Burns and the County appealed the judgment. (R. 981).
+Stacy Burns falsely imprisoned Brown; and that Stacy Burns was
+not entitled to the defense of qualified immunity. (App. 38a-             There are two reported Fifth Circuit opinions. In the first
+                                                                     opinion, which was superseded by the second, the court found
+40a).                                                                “no evidence that Sheriff Moore did anything less than that
+                                                                     which is required by [state] law” and concluded that “we do not
+                                                                     find the training practices inadequate.” Brown v. Bryan County,
+                                      10                            municipal policy’ of which Monell, Pembaur, or Tuttle speaks.”
+                                                                    Id. at 1185 (internal citations omitted). Judge Emilio Garza
+OK, 53 F.3d 1410, 1425 (Sth Cir. 1995). The court observed that     articulated the basis for his dissent as follows:
+Brown's failure to adduce evidence of other similar incidents or
+widespread misbehavior in the force precluded recovery under                    I do not agree, therefore, with the majority's
+                                                                                implicit reasoning [explicitly stated in
+the inadequate training claim. /d. Nevertheless, the court found                Gonzalez v. Ysleta Indep. Sch. Dist.,996 F.2d
+                                                                               745 (Sth Cir. 1993)) that any “distinction
+sufficient evidence to support what it variously termed Brown's                between policies that are themselves
+“negligent-hiring,” “inadequate screening” or “wrongful                        unconstitutional and those that cause
+hiring” claim. According to the court, a section 1983 plaintiff                constitutional violations” is “metaphysical.”
+need not prove similar incidents in order to recover against a                 . . . The majority incorrectly, in my opinion,
+county for its decision to hire an individual whose character is
+“deficient.” Jd. at 1421-1425.                                                follows our opinion in Gonzalez in holding
+
+     On rehearing, the Fifth Circuit expunged its analysis of the              that Sheriff Moore's single decision created
+“inadequate training” claa nd i affm irmed the judgment solely on              municipal liability, without reconciling the
+the basis that the county's “inadequate screening” of Reserve                  Supreme Court's instruction in Tuttle that a
+Deputy Burns was deliberately indifferent to the public's                      jury must have “considerably more proof
+welfare and the direct cause of Brown's injuries. Brown v. Bryan               than the single incident” before it can find
+County, OK, 67 F.3d 1174, 1185 (Sth Cir. 1995). In its opinion,
+                                                                                causation. ...
+the Fifth Circuit acknowledged: “[i}t is certainly true that the
+                                                                               I do not believe that the Court in Pembaur
+Sheriff had conducted adequate background checks on other
+deputies and assured himself that they were certified before                    intended to suggest that any and every act by
+putting them on the street. . .” /d. at 1185 n. 22. The court also
+                                                                               a final municipal policymaker constitutes,
+agreed that the law of the State of Oklahoma did not disqualify                without more, “municipal policy.” Sheriff
+                                                                               Moore's deliberate indifference may have
+Stacy Burns from serving as a reserve deputy. /d. at 1184 n. 20.              caused the constitutional violation in a “but
+Nevertheless, the court wrote that Burns’ background evidenced                for” sense, but it did not directly “order” or
+a “deficient character,” a “propensity for violence,” and a                   “authorize” the violation. Where the
+“disregard for the law,” all of which precluded his employment.               policymaker’s decision does not directly
+Id. The Fifth Circuit concluded that the County's “single action              “order” or “authorize” the constitutional
+of hiring Burns without an adequate review of his background                  violation, something more than a single
+directly caused the constitutional violations of which Mrs.                   decision is required in order to find that this
+Brown now complains.” /d. at 1185.                                            decision in fact constitutes “municipal
+
+      Judge Emilio Garza dissented from the majority's opinion
+and judgment with respect to Bryan County. In Judge Emilio
+Garza’s view, “one inadequate background investigation, even
+
+by a municipal policymaker, is not the ‘unconstitutional
+                                      12                                                                    13
+
+            policy,” such that we can hold the county                      First, Respondent has conceded the absence of any pattern
+            liable. ...                                              of constitutional violations. Indeed, the record is clear that Jill
+                                                                     Brown's claim is the only claim made against the Bryan County
+Judge Emilio Garza would have reversed the judgment as to            Sheriff's Department alleging any kind of police misconduct.
+Bryan County. /d. at 1186-87.                                        The record is plain that “Sheriff Moore had conducted adequate
+                                                                     background checks on other deputies and assured himself that
+              SUMMARY OF THE ARGUMENT                                they were certified before putting them on the street. . .” Brown
+                                                                     v. Bryan County, OK, 67 F.3d at 1185.
+I. The Fifth Circuit’s Opinion Contravenes Monell.
+                                                                           Second, it is obvious that Bryan County did not order Stacy
+     Of the numerous opinions issued by this Court since the         Burns to violate Jill Brown’s constitutional rights. Therefore,
+landmark decision of Monell v. Dept. of Social Services of the       Brown's claim of municipal liability rests on the premise that
+City of New York, 436 U.S. 658 (1978), not one has questioned        Bryan County adopted a policy which officially sanctioned
+the fundamental tenet, borne of both statutory construction and      hiring a person it knew, to a moral certainty, would deprive
+adherence to principles of federalism, that section 1983 does not    citizens of rights guaranteed by the United States Constitution.
+subject municipalities to respondeat superior liability for torts    That premise is indefensible.
+committed by their employees. If there is to be municipal
+liability under that section, it must occur one of two ways: (1)          No one has ever questioned that Bryan County's hiring
+when the municipality is aware of, yet remains consciously           policy — whether with respect to Stacy Burns or any other peace
+indifferent to, a pattern of constitutional violations arising from  officer or reserve deputy — conformed with the State of
+the municipality's customary practices; or (2) when the              Oklahoma’s minimum standards for employment. The state's
+municipality itself adopts a policy which either:                    statute prohibits hiring individuals with felony convictions, but
+                                                                     there is no prohibition with regard to misdemeanors. (J.A. 47a-
+           a. directly causes the deprivation of a                   48a, 50a, 72a). In addition, there was no evidence whatsoever
+                  citizen’s constitutional rights by                 that hiring individuals with misdemeanor records resulted in the
+                  ordering subordinates to violate the               deprivation of any citizens’ constitutional rights. It is not per se
+                  constitution, see Pembaur, 475 U.S. at             unconstitutional to hire such persons, because there is neither
+                  484;or                                             psychiatric nor anecdotal evidence that hiring an individual with
+                                                                     one misdemeanor conviction for assault and battery would
+           b. inevitably causes the deprivation of                   inevitably result in that individual's trampling on constitutional
+                  constitutional rights, because it is clear         rights while employed as a reserve deputy.
+                  to a moral certainty that execution of the
+                  policy will have that result. Canton, 489               In the absence of notice that compliance with the state’s
+                  U.S. at 390 n. 10.                                 minimum hiring standards inevitably results in its employees’
+                                                                     violation of constitutional rights, there is no showing of a
+Neither circumstance was raised by the evidence in this case.
+                                      14                                                                    15
+
+constitutionally-prohibited “policy” and thus no basis for           concepts of federalism dictate that the State of Oklahoma's
+recovery under section 1983. The lower court’s relaxation of         qualifying standards for police service should control. See Rizzo
+Respondent's burden, on the ground that such a hiring choice         v. Goode, 423 U.S. 362, 378-380 (1976). In the absence of a
+“cannot be tolerated,” is tantamount to driving a stake into the     pattern of constitutional deprivations arising from the adoption
+heart of Monell by applying the doctrine of respondeat superior      of a particular hiring standard, there is no constitutional basis for
+in the context of section 1983 claims against municipalities.        holding a County liable for personnel choices that conform to
+                                                                     State requirements and which, in and of themselves, do not
+     The lower court’s opinion should therefore be reversed          violate any constitutional provision or federal statute.
+because itclearly rests on respondeat superior liability, in direct
+contravention of Monell.                                                   In this case, the Fifth Circuit crafted a minimum hiring
+                                                                     standard — apparent nowhere in the United States Constitution
+II. Principles of Federalism Limit Municipal Liability for           — which a County cannot disturb without subjecting itself to
+Singular Hiring Decision Which Comports With                         liability under section 1983. The court's substitution of a federal
+Constitutionally-Valid State Law.                                    hiring standard for Oklahoma's, without articulating any
+                                                                     reasoned basis for such, will “engage the federal courts in an
+     “The issue in the present case concerns directly a basic        endless exercise of second-guessing municipal [hiring]
+problem of American federalism: the relation of the Nation to the    programs” which, as this Court has recognized, “implicate(s]
+States in the critically important sphere of municipal law           serious questions of federalism.” Canton v. Harris, 489 U.S.
+administration. In this aspect, it has significance approximating    378, 392 (1989).
+constitutional dimension.” Monroe v. Pape, 365 U.S. 167, 222
+(1961) (Frankfurter, J., dissenting in part). Noless than Monroe,                                   ARGUMENT
+this case turns on a distribution of power, pitting a state's
+authority to determine the eligibility of candidates for ublic                                                                                                                                       I.
+employment, against the federal government’s power to veto
+that determination, even when the determination itself does not           THERE IS NO MUNICIPAL LIABILITY FOR A
+offend any constitutional provision.                                 COUNTY’S HIRING DECISION, WHICH COMPORTS
+                                                                     WITH VALID STATE LAW, WITHOUT EVIDENCE OF
+     There is no State law precluding Bryan County from              SIMILAR INCIDENTS OR AN AFFIRMATIVE LINK
+employing Stacy Burns; indeed, the State of Oklahoma vests in        BETWEEN THE HIRING AND THE CONSTITUTIONAL
+its counties the discretion to hire individuals who have had minor   DEPRIVATION.
+skirmishes with the law. Okla. Stat. Ann. Tit. 70, §3311(D)(2)
+(West 1994). Where the hiring decision is not itself                      It is well-settled that a municipality’ may not be held liable
+unconstitutional and no federal law governs the hiring decision,     under section 1983 solely because it employs an individual later
+
+                                                                            5. Petitioner employs the term “municipality” as synonymous with the
+                                                                     term “county.”
+                                       16                                                                     17
+
+found to have deprived a citizen of rights secured by the United       was abusive to, or utilized excessive force on, any citizen. (J.A.
+States Constitution. Monell v. Dept. of Social Services of New         112a). In fact, there had never been any complaint against the
+York, 436 U.S. 658, 691 (1978). Only when a municipality's             Bryan County Sheriff's department during Sheriff Moore's
+execution of a policy or custom inflicts a constitutional injury       tenure. /d. With the sole exception of Respondent’s complaints,
+may the government as an entity be held responsible under              Stacy Burns had never been accused of using excessive force.
+section 1983. /d.                                                      (Tr. 581). Under these circumstances, it is not surprising that
+                                                                       Respondent would concede she has no evidence of an offensive
+     Respondent has conceded (as she must) the absence of any          custom. Respondent's Brief in Opposition at 20.
+evidence of an offending “custom.” Respondent's Brief in
+Opposition at 20. As for “policy,” the record establishes              2. There Is No Evidence that Bryan County Adopted a
+conclusively that Bryan County’s hiring conformed with the             “Policy” of Inadequate Screening.
+State of Oklahoma's overriding policy, defined by statute,
+regarding the employment of reserve deputies and peace                       A municipal “policy” is a “statement, ordinance, regulation,
+officers. Okla. Stat. Ann. Tit. 70, §3311(d)(2)(a) (West 1994).        or decision officially adopted and promulgated by [the
+(J.A. 47a-48a, 50a, 112a). The state’s policy, which no one has        municipality's] officers.” Monell, 436 U.S. at 690. This Court
+suggested offends the Constitution, has not been shown to give         has observed that a deliberate single act by a nonpolicymaker
+rise to a systematic deprivation of rights. Thus, the Fifth Circuit's  does not constitute a policy sufficient to create municipal
+holding imposes liability on Bryan County solely because it            liability. Oklahoma City v. Tuttle, 471 U.S. 808, 824 (1985).
+hired Stacy Burns.                                                     Moreover, one may not infer a policy of inadequate police
+                                                                       training based on evidence of a “single incident” of police
+                    \                                                  misconduct. /d. As Justice Brennan noted in his concurring
+                                                                       opinion in Tuttle: “[t)o infer the existence of a city policy from
+1. Respondent Has Conceded Absence of “Custom” of                      the isolated misconduct of a single, low-level officer, and then to
+Inadequate Hiring.                                                     hold the city liable on the basis of that policy, would amount to
+                                                                       permitting precisely the theory of strict respondeat superior
+     A municipal “custom” presupposes a “persistent and                liability rejected in Monell.” 471 U.S. 808, 831 (1985). As a
+widespread practice” that has become “so permanent and well-           result of these concerns, the definition of “policymaker” is
+settled as to constitute a “custom or usage with the force of law.”    limited to those persons authorized to create final “municipal
+Monell, 436 U.S. at 690, quoting Adickes v. S.H. Kress & Co., 398      policy.”
+U.S. 144, 167 (1970). Amunicipality thus becomes accountable
+for acquiescing in a “custom” only when it knowingly tolerates              This Court initially examined the nature of a final
+a pattern or practice of unconstitutional conduct. Evidence that       policymaker in Pembaur v. City of Cincinnati, 475 U.S. 469
+one employee on one occasion violated one individual’s                 (1986). In the context of a _ policymaker’s single
+constitutional rights does not constitute custom.
+                                                                              6. In Pembaur, a County Prosecutor directed County Sheriffs to enter a
+     In the present case, the only “pattern” is of compliance with                                                                                                 (Cont'd)
+the law governing employment of law enforcement personnel.
+With the exception of the present case, the County had not
+received complaints alleging that an officer or reserve deputy
+                                      18                                                                               19
+
+unconstitutional act, Justice Brennan, writing for the plurality,                           ...the County Sheriff may have the
+observed that under appropriate conditions, official policy may                             discretion to hire and fire employees without
+be created when an authorized decisionmaker embarks upon a                                  also being the county official responsible for
+“course of action tailored to a particular situation and not                                establishing county employment policy. If
+intended to control decisions in later situations.” /d. at 481; see                         this were the case, the Sheriff's decisions
+Owen v. City of Independence, 445 U.S. 622 (1980) (city                                     respecting employment would not give rise
+council’s discharge of employee without pretermination                                      to municipal liability, although similar
+hearing); City of Newport v. Fact Concerts, Inc., 453 U.S. 247
+(1981) (city council’s cancellation of concert license based on                              decisions with respect to law enforcement
+content of performance). The official with this final authority is
+one who not only has “discretion in the exercise of particular                              practices, over which the Sheriff is the
+functions” but “must also be responsible for establishing final                             official policymaker, would give rise to
+government policy respecting such activity before the                                       municipal liability. Instead, if county
+municipality can be held liable.” Pembaur, supra at 482-83; see
+also Bennett v. Slidell, 728 F.2d 762, 769 (Sth Cir. 1984) (en                               employment policy was set by the Board of
+banc), cert. denied, 472 U.S. 1016 (1985) (policymaking                                      County Commissioners, only that body’s
+authority is more than having the final say-so, as a matter of                              decisions would provide a basis for county
+practice).
+                                                                                           liability. This would be true even if the Board
+     Justice Brennan stressed that “[m)unicipal liability attaches                         left the Sheriff discretion to hire and fire
+only where the decisionmaker possesses final authority to                                  employees and the Sheriff exercised that
+establish municipal policy with respect to the action ordered.                             discretion in an unconstitutional manner; the
+The fact that a particular official — even a policymaking official
+— has discretion in the exercise of particular functions does not,                          decision to act unlawfully would not be a
+without more, give rise to municipal liability based on an
+exercise of that discretion.” Pembaur, supra at 481-82                                     decision of the Board. However, if the Board
+(emphasis added). It is clear from the opinion, however, that a                            delegated its power to establish final
+“policymaker” may have final discretion within his sphere of                               employment policy to the Sheriff, the
+operation, yet remain incapable of establishing final                                      Sheriff's decisions would represent county
+governmental policy. Justice Brennan could have been writing
+about this case when he set forth the following hypothetical:                               policy and could give rise to municipal
+
+(Cont'd)                                                                                   liability.
+medical center without the benefit of a search warrant in order to “get the
+witnesses.” Jd. at 473. The Court held that the municipality was liable under  Id. at 484 n. 12. In our case, Bryan County stipulated only that:
+section 1983 based on the “final policymaker's” unconstitutional decision on   “At all times relevant hereto, Defendant Moore was the policy
+that single occasion.                                                          maker for Bryan County regarding the Sheriff's Department.”
+                                                                               (J.A. 30a). Like the fictional sheriff in the first part of Justice
+                                                                               Brennan's hypothetical, Bryan County's stipulation says
+                                                                               nothing about the source of final policymaking authority with
+                                                                               respect to employment practices. Moreover, there is no evidence
+                                                                               that Bryan County’s Board of Commissioners delegated to
+                                                                               Sheriff Moore the power to establish final employment policy.
+                                       20                                                                                     21
+
+As aresult, there is no basis for section 1983 liability against the                    3. Respondent Failed to Prove Causation for Inadequate
+County based on the adoption of a final hiring policy.                                  Screening.
+
+      More importantly, the record here establishes that Sheriff                             Consistent with its refusal to impose municipal liability
+Moore's hiring of Burns was in conformity with explicit                                 based on respondeat superior, this Court has recognized that a
+employment policy promulgated by the State of Oklahoma. (J.A.                           section 1983 plaintiff must establish an “affirmative link”
+48a, 50a). Oklahoma law provides the minimum hiring standards                           between the alleged “policy” and the claimed constitutional
+for peace officers and reserve deputies.’ Neither Sheriff Moore                         injury. Tuttle, 471 U.S. at 823. According to Respondent, the
+nor Bryan County had the authority to override those                                    “affirmative link” here is the hiring of an individual with a
+requirements. See Auriemma v. Rice, 957 F.2d 397, 400-01 (7th                           “lengthy criminal record,” which, she claims, evidences a
+Cir. 1992) (superintendent's authority to make final decision on                        deliberate indifference to the rights of those with whom Burns
+demotion did not create authority to make personnel “policy”                            would come into contact. It is important, then, to review the
+because the superintendent had no power to countermand                                  constituent elements of Burns’ record.
+specific statute). Since Sheriff Moore’s discretionary hiring act
+was in compliance with Oklahoma law, which is itself                                         The offenses to which Burns pleaded guilty arose from a
+constitutional, that statute (and not Sheriff Moore’s individual                        college fight. (J.A. 90a). Stacy Burns was 19 years old. The
+hiring decisions) represents the relevant hiring policy. See City                       record reflects that he was confronted by a group from a
+of St. Louis v. Praprotnik, 485 U.S. 112 (1988) (whether official                       fraternity pledge class, that the fight was initiated by one or more
+has policymaking authority is question of state law)*; Haworth                          members of that class, and that a shoving match ensued. (J.A.
+v. Central Nat. Bank, 769 P.2d 740, 743 (1989) (“Oklahoma                               89a-90a). Apparently, the police were summoned and Burns was
+statutes contain several provisions reflecting the state’s direct                       charged, but not convicted, of resisting arrest. (J.A. 43a, 81a,
+intervention and control over law enforcement officers”).                               100a). At the same time he pleaded guilty to misdemeanor
+                                                                                        assault and battery arising out of the fight, Burns entered plea
+       7. Okla. Stat. Ann. Tit. 70, § 3311(d)(2)(a) (West 1994) provides that           agreements relating to traffic offenses, presentation of false
+“[n)o person shall be certified as a police or peace officer in this state unless. . .  identification, and for being in “Actual Physical Control”
+such person has no record of aconviction of a felony or crime involving moral           (“APC”) of a motor vehicle while intoxicated. (J.A. 90a). See
+turpitude.” In addition, Oklahoma provides for psychological testing and                Hoss v. State, 738 P.2d 958 (Okla. Ct. App. 1987).°
+educational requirements (high school diploma or G.E.D. equivalency
+certificate). Okla. Stat. Ann. Tit. 70, § 3311(d)(2)(b)(c) (West 1994). “Any                  There was no psychiatric or psychological testimony
+person found not to be suitable for employment or certification by the Council          establishing that Burns’ misdemeanor convictions for the
+{on Law Enforcement Education and Training) shall not be employed .. .”                 college fight or driving offenses would directly lead to his using
+Okla. Stat. Ann. Tit. 70, § 3311(d)(2)(b).                                              excessive force as a Reserve Deputy. Analysis of psychological
+                                                                                        test results is, in fact, utilized by the agency appointed by the
+       8. Although Praprotnik was a plurality decision, the Court adopted its
+analysis in Jett v. Dallas Independent School District, 491 U.S.701 (1989) and                  9. Respondent's own expert characterizes misdemeanors as “minor”
+expressly held that the question of who holds policymaking authority is one of          infractions. (Tr. 338).
+state law properly determined by the District Court. /d. at 737.
+                                       22                                                                  23
+
+ State of Oklahoma to evaluate the fitness of Reserve Deputy         National Crime Information Center (NCIC) report or State
+ candidates. The statute expressly provides that CLEET retains       criminal report not deliberately indifferent); D.T. by M.T. v.
+                                                                     Indep. School Dist. No. 16,894 F.2d 1176, 1179, 1193-94 (10th
+ discretion to veto employment of “[a]ny person found not to be      Cir.), cert. denied, 498 U.S. 879 (1990) (no deliberate
+                                                                     indifference when policymaker follows state hiring procedure
+ suitable for employment or certification by the Council . . .”      and relies on state certification to ensure that teacher lacked
+                                                                     criminal record); J.H. By D.H. v. West Valley City, 840 P.2d 115,
+ Okla. Stat. Ann. Tit. 70 § 3311(d)(2)(b) (West 1994). There is no   120-21 (Utah 1992) (no deliberate indifference where
+                                                                     municipality followed normal hiring procedures).
+evidence that Burns’ employment was precluded by CLEET.
+                                                                           In order for municipal liability to attach to a facially
+      Given the minor nature of Burns’ offenses, Respondent has      constitutional policy, the policymaker must have actual or
+failed to demonstrate that Burns’ background should have             constructive notice that the policy's application will inevitably
+alerted Bryan County that he would, toa “moral certainty” exert      and to a moral certainty lead to constitutional violations. City of
+more force than necessary when effecting an arrest. See City of      Canton, supra at 390 n. 10. This is the touchstone of deliberate
+Canton v. Harris, 489 U.S. 378, 390 n.10, 396 (1989)(municipal       indifference. In addition, the policy must be soclosely related to
+liability for inadequate training would require either pattern of    the ultimate injury that it can be said that the municipality
+similar incidents or proof that adoption of policy would, to a       actually caused the constitutional violation. /d. at 391. In this
+“moral certainty,” result in violation of constitutional rights).    case, the evidence is clear that Bryan County, in hiring Burns,
+Nothing in his background compels the conclusion that, despite       transgressed no State law, violated no federal statute, offended
+training, supervision, psychological evaluations and testing,        no constitutional provision.
+Burns would inevitably commit acts of unprovoked or excessive
+violence in contravention of the United States Constitution.               In resolving a municipality's liability for inadequate
+                                                                     training, this Court has suggested a pragmatic approach. The
+4. Respondent’s Inadequate Hiring Claim Fails Under City of          Court, for example, has explained that a claim of inadequate
+Canton v. Harris.                                                    training will not succeed on a mere showing that an otherwise
+                                                                     sound program has been negligently administered on one
+      Those courts which have addressed claims of municipal          vecasion. City of Canton, 489 U.S. at 391. Itis also insufficient
+                                                                     to show that an enhanced policy would have prevented the
+liability based on inadequate hiring policies have followed the      injury -causing conduct, because that is virtually self-evident. /d.
+inadequate training paradigm of City of Canton v. Harris.            Finally, the Court has observed that there are times that even
+Moreover, they have rejected the imposition of liability under       adequately trained officers make mistakes; “the fact that they do
+circumstances where a municipality follows accepted hiring           says little about the training program or the legal basis for
+procedures of State or county law or relies on objectively           holding the city liable.” /d.
+reasonable criteria in reaching hiring decisions. See Benavides
+v. County of Wilson, 955 F.2d 968, 974-75 (Sth Cir.), cert. denied,        These same principles should pertain here. See Graham v.
+506 U.S. 824 (1992) (reliance on fit-to-work letter without          Sauk Prairie Police Comm'n, supra, 915 F.2d at 1100-1103.
+further investigation of mental disorders of officers not            Proof that Sheriff Moore deviated from otherwise
+deliberately indifferent); Graham v. Sauk Prairie Police
+Comm'n, 915 F.2d 1085, 1096-97 (7th Cir. 1990) (police chief
+reliance on physician’s return to work letter without obtaining
+                                      24                                                                    25
+
+unimpeachable hiring practices does not remotely suggest                          while he worked as a Reserve Deputy. As
+deliberate indifference. As this Court stated in Tuttle:                          there is no evidence that Sheriff Moore did
+                                                                                  anything less than that which is required by
+            . .. where the policy relied upon is not itself                       law, we do not find the training practices
+            unconstitutional, considerably more proof                             inadequate. See Benavides v. County of
+            than the s.ngle incident will be necessary in                         Wilson, 955 F.2d 968, 973 (Sth Cir.), cert.
+            every cass toestablish both the requisite fault                       denie_d_ U,.S. __ , 113 S.Ct. 79, 121 L. Ed.
+            on the partofthe municipality, and the causal                         2d 43 (1992). Although Mrs. Brown's expert
+            connection between the “policy” and the                               urged that additional instructional programs
+            constitutional deprivation.                                           were necessary to supplement the CLEET
+                                                                                  course and on-the-job training, there is no
+Id. 471 U.S. at 824; see also City ofCanton v. Harris, 489 U.S. at                evidence suggesting that the training
+432-33 (O'Connor, J., concurring). There is noreason todeviate                    standard required by law was inadequate to
+from that standard in this case. Respondent has not shown that                    enable the deputies to deal with “usual and
+Bryan County adopted a “policy” of inadequate screening and,                      recurring situations” typically faced by
+moreover, has failed to prove it was foreordained that a person                   peace officersS.ee id. In addition, failure-to-
+with one misdemeanor conviction for assault and battery would                     train cases — unlike the negligent-hiring
+violate a citizen's constitutional rights despite the training,                    cases — specifically require more than a
+supervision, psychological evaluation, and threaotf termination                   single instance of injury or an isolated case of
+that are part and parcel of the hiring decision itself.                            one poorly trained employee before
+                                                                                  municipal liability can attach. ... As Mrs.
+5. The Fifth Circuit’s Superseded Opinion Correctly                               Brown claims that only Burns was
+Analyzed Respondent’s Failure-to-Train Theory.                                    inadequately trained and cites neither to
+                                                                                  other similar incidents nor widespread
+      In her response to Bryan County's Petition for Writ of                      misbehavior, her claim alleging inadequate
+Certiorari, Respondent suggested that the District Court's                        training must fail.
+judgment was supported by the jury's finding on inadequate
+training. Respondent's Brief in Opposition at 14-15. Respondent       Brown v. Bryan County, OK, 53 F.3d 1410, 1424-25 (Sth Cir.
+failed to mention, however, that the Fifth Circuit, in its prior      1995) (“Brown 1”), superseded by, Brown v. Bryan County OK,
+opinion, concluded that her inadequate training claim failed as       67 F.3d 1174 (Sth Cir. 1995)(“Brown IT’). The court's prior
+a matterof law. In reaching that result, the Fifth Circuit correctly  analysis of inadequate training was correct, as demonstrated
+reasoned that:                                                        above; its error was in failing to apply that same analysis to
+                                                                      Brown's “negligent-hiring” claims. Contrary to Brown's
+             A review of the record reveals that Sheriff              suggestatipoagnes | 4-15 of her Brief inOppositthieoconur,t s
+             Moore had enrolled Burns in the state-                   purging of that analysis in the second opinion does not establish
+             mandated Council on Law Enforcement
+            Education and Training (CLEET) program
+                                      26                                                                                 27
+
+an independent ground for affirmance. See Brown II, supra at                       civil rights." Jd. at691-92. Judgments in such actions were to be
+1178 (declining to address Bryan County's challenge to                             enforceable through a “lien. . . upon all moneys in the treasury
+inadequate training).                                                              of such county, city, or parish, as upon the other property
+                                                                                   thereof.” Cong Globe, 42d Cong, Ist Sess, 663, 755 (1871). The
+                                   Il.                                             Opposition to that amendment came not only from those hostile
+                                                                                   to the interposition of federal courts into previously sacrosanct
+     MONELL’S REJECTION OF RESPONDEAT                                              State activity, but also from proponents of the original Civil
+SUPERIOR LIABILITY EMBODIES THIS COURT’S                                           Rights Act of 1866.
+CONCERN THAT PRINCIPLES OF FEDERALISM
+ENSURE A PROPER BALANCE BETWEEN HOLDINGA                                                 For example, Senator Lyman Trumbull, who was chairman
+MUNICIPALITY ACCOUNTABLE FOR VIOLATING                                             of the Judiciary Committee and instrumental in passage of the
+CONSTITUTIONAL RIGHTS, WHILE PRESERVING                                            1866 Civil Rights Act, was one of the most outspoken critics of
+STATES’ AUTHORITY TO ADMINISTER THEIR OWN                                          the proposal. Eric Foner, Reconstruction: America’s Unfinished
+LAWS UNENCUMBERED BY EXCESSIVE FEDERAL -                                           Revolution, 1863-1877, 456 (New York, Harper & Row 1988).
+COURT INTERFERENCE.                                                                The proposal, he urged, asserted “principles never before
+                                                                                   exercised on the part of the United States at any rate.” Cong
+      Before anything else can be said about the interrelationship                 Globe, 42d Cong, Ist Sess, 758 (1871). Likewise,
+between section 1983 and principles of federalism, Petitioner                      Representative Blair condemned the sweeping nature of the
+hastens to acknowledge that the Civil Rights Act of 1871,"°
+drastically “altered the relationship between the States and the                   proposal:
+Nation with respect to the protection of federally created civil
+rights.” Mitchum v. Foster, 407 U.S. 225, 242 (1972). Its                                      The proposition known as the Sherman
+draftsmen intended, and largely achieved, a profoundly                                         amendment — and to that I shall confine
+enhanced federal power to protect citizens from unconstitutional                               myself in the remarks which I may address to
+action under color of state law. Jd. It did not go so far, however,                            the House — is entirely new. It is altogether
+as to strip States of authority to promulgate perfectly                                        without a precedent in this country. Congress
+constitutional legislation pertaining to the day-to-day                                        has never asserted or attempted to assert, so
+administration of their own affairs. Monell, 436 U.S. at 693-95.                               far as I know, any such authority. That
+                                                                                               amendment claims the power in the General
+      Proponents of the “Sherman Amendment” to the Civil                                       Government to go into the States of this
+Rights Act of 1871 wanted to make municipalities directly liable                               Union and lay such obligations as it may
+for mob violence against the enjoyment or exercise of federal                                  please upon the municipalities, which are the
+                                                                                               creations of the States alone.
+        10. What is now section 1983 was enacted as section | of “AnActto Enforce
+the Provisions of the Fourteenth Amendment to the Constitution of the United              11. Athorough canvassing of the legislative history of the 187! Act is
+States and For Other Purposes,” Act of April 20, 1871ch.,22, 17 Stat. 13.          contained in Monell, supra.
+                                      28                                                                  29
+
+Id. Mr. Poland, House Manager of the Conference Committee                 Second, in areas (as here) where State laws are not
+Report, stated that: “the House had solemnly decided that in their  themselves unconstitutional, the bulwark of federalism
+judgment Congress had no constitutional power to impose any         promotes, rather than hinders, accountability of the State
+obligation upon county and town organizations, the mere             government to its citizens. Recently, Justice Kennedy observed
+instrumentality for the administration of State law.” Cong          that if encroachment on the balance between the national and
+Globe, 42d Cong, Ist Sess, 804 (1871).                              State power were left unchecked, “the boundaries between the
+                                                                    spheres of federal and state authority would blur and political
+      Of course, the legislative history surrounding enactment of   responsibility would become illusory.” United States v. Lopez,
+the Act of 1871 has been studied extensively by this Court in       514 U.S. __, __, 115 S. Ct. 1624, 1638 (1995) (Kennedy, J.,
+prior opinions. Monroe v. Pape, 365 U.S. 167 (1961); Aldinger       concurring).
+v. Howard, 427 U.S. 1 (1976); Monell v. Dept. ofSocial Services
+of New York, 436 U.S. 658 (1978); Jett v. Dallas Independent             In our case, there is no constitutional impediment to
+School District, 491 U.S. 701 (1989). It is offered here to         Oklahoma's decision to vest its counties with authority to
+emphasize three points which are critical to the disposition of     employ whom it chooses as reserve deputies, within express
+this case.                                                          limits provided by statute. That policy, in and of itself, is not the
+                                                                    proper subject of federal court intervention. In a very similar
+      First, in the extraordinary climate engendered by the         context, this Court has rejected the proposition that federal
+North’s triumph over the South in the aftermath of the Civil War    courts have authority to order local government agencies to
+— ata time of vastly expanded federal prerogative vis a vis state   implement procedures, acceptable to the court, for handling
+sovereignty — the Reconstruction-era Congress recognized that       citizens’ complaints about the conduct of their law enforcement
+its reach did not exceed the limits imposed by the United States    agencies. Rizzo, supra, 423 U.S. at 380.
+Constitution as an institutional restraint on Congress’ authority
+to impose upon the States extra-constitutional obligations.               If a federal court may legitimately conclude that Stacy
+Indeed, Congressional recognition of the wisdom of limiting raw     Burns’ misdemeanors “preclude” his employment
+federal power evidenced loyalty to the Founding Fathers’ plans      notwithstanding State law to the contrary, why should it not be
+for the polity.                                                     entitled to forbid the hiring of any applicant with a history of
+                                                                    misdemeanor arrests?” Or, as Respondent suggests, why should
+     The Founding Fathers expressed concern that “ambitious         it not have the power also to preclude Bryan County from hiring
+encroachments of the federal government on the authority of         applicants who profess ideas the court finds inappropriate?
+State governments would not excite the opposition of a single       Respondent's Brief in Opposition at 11.
+State, or of a few States only. They would be signals of general
+alarm.” The Federalist No. 46, p.298 (C. Rossitered. 1961). At            Such decisions are left to the States precisely because it is
+least in part, the Founders’ struggle to preserve a national        “essential to the independence of the States, and to their peace
+government presupposed fidelity to States’ retention of control     and tranquility, that their power to prescribe the qualifications of
+over their own internal affairs.                                    their own officers. . . should be exclusive, and free from external
+                                       30                                                                    31
+
+interference, except so far as plainly provided by the                 46, p.298(C. Rossitered. 1961) (“. . .itis only within a certain
+Constitution of the United States.” Gregory v. Ashcroft, 501 U.S.      sphere that the federal power can, in the nature of things, be
+452,460 (1991), quoting Taylor v. Beckham, 178 U.S. 548, 570-          advantageously administered”). As noted above, this is not the
+571 (1900).                                                            first time this Court has faced the question. In Rizzo, the district
+                                                                       court’s injunction was held to violate principles of federalism
+      Third, the expanded scope of federal oversight of State          precisely because it interfered with “the internal disciplinary
+personnel decisions envisioned by the lower court would be             affairs of the state agency.” 423 U.S. at 380. In the case sub
+virtually impossible to administer. Under the lower court’s            judice, the effect of the lower court’s holding is to place a shadow
+reasoning, federal juries and judges would become super-               injunction on the State of Oklahoma’s statutory qualifications
+legislators, empowered to craft minimum qualifications for             for reserve deputy and peace officer employment, which
+State employees that exceed those enacted by State legislatures.       countermands Oklahoma’s ability to exercise its own judgment
+What had been an essentially political decision regarding a            in anareato which it lay claim “by right of history and expertise.”
+State’s allocation of resources for the selection, training and        United States v. Lopez, supra, 514 U.S. at__, 115S.Ct. at 1641
+evaluation of law-enforcement personnel, would devolve intoad          (Kennedy, J., concurring).
+hoc determinations by courts that certain yet-to-be-identified
+classes of applicants are “unfit” for service.                               By substituting its own minimum standards for those
+                                                                       enacted by the State of Oklahoma, the Fifth Circuit has placed
+      How are States to predict which components of a police           itself in the position of “final policymaker” with respect to hiring
+applicant’s prior background would survive a federal court’s           decisions. Such a result signals a drastic departure from this
+litmus test for service? The Fifth Circuit's opinion provides no       Court’s settled jurisprudence rejecting respondeat superior
+guidance. We are told that a “propensity for violence” and             liability for local government units and would precipitate federal
+“disregard for the law” bar law enforcement service, but where         court intervention in the day-to-day promulgation and
+is the limiting principle in the “standard”? Brown II, supra at        enforcement of State policy.
+1183. Federalism concerns are greatest when a federal court’s
+intervention in State affairs can neither be justified as a matter of        This Court has appropriately answered these questions ina
+constitutional principle nor limited by defined boundaries. See        manner that is consistent with principles of federalism. When it
+United States v. Lopez, 514U.S.at__, 115 S.Ct. at 1626, quoting        is established that the State’s policies are unconstitutional in and
+The FederalisNto. 45, pp. 292-293 (C. Rossiteerd. 1961) (“[t)}he
+powers delegated by the proposed Constitutional to the federal         of themselves, or (if constitutional) would inevitably result in
+government are few and defined. Those which are to remain in
+the State governments are numerous and indefinite.”).                  constitutional deprivations, then the authority of the federal
+
+      This third point is especially troublesome precisely because     court, through the remedial mechanism of section 1983, is
+it foreshadows a wholly inefficient federal oversight over State
+administration of basic law enforcement. See The Federalist No.        appropriately enlisted. Absent those conditions, federal
+                                                                        intervention is an unwarranted intrusion into the prerogative of
+
+                                                                        agencies to exercise the discretionary authority entrusted to
+                                                                        them by the State.
+                                32
+
+                     CONCLUSION
+
+The decision of the court of appeals should be reversed.
+
+                      Respectfully submitted,
+
+                      WALLACE B. JEFFERSON
+                      Counsel of Record
+                      SHARON E. CALLAWAY
+                      CROFTS, CALLAWAY & JEFFERSON
+                      A Professional Corporation
+                     Attorneys for Petitioner
+                      1655 Frost Bank Tower
+                        100 West Houston Street
+                      San Antonio, Texas 78205-1457
+                      (210) 246-5627
+

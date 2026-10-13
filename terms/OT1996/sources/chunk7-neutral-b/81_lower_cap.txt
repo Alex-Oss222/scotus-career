@@ -1,0 +1,192 @@
+
+  
+    INTER-MODAL RAIL EMPLOYEES ASSOCIATION; Thomas Franks; Charles Jones; Thomas J. Martin; Hoyt Jarrard; Robert Stein, Plaintiffs-Appellants, v. The ATCHISON, TOPEKA and SANTA FE RAILWAY COMPANY; In-Terminal Services, Division of Mi-Jack Products, Inc., An Illinois Corp., Defendants-Appellees. INTER-MODAL RAIL EMPLOYEES ASSOCIATION; Thomas Franks; Charles Jones; Thomas J. Martin; Hoyt Jarrard; Robert Stein, Plaintiffs-Appellants, v. The ATCHISON, TOPEKA and SANTA FE RAILWAY COMPANY; Santa Fe Terminal Services, Inc., Defendants-Appellees.
+
+
+    Nos. 93-56400, 94-55188.
+
+
+    United States Court of Appeals, Ninth Circuit.
+
+
+    Argued and Submitted March 6, 1995.
+
+
+    Decided March 27, 1996.
+
+
+    
+      *349Richard E. Schwartz and James E. Parrot, Richard Schwartz & Associates Ltd., St. Louis, Missouri, for plaintiffs appellants.
+
+
+    Ronald W. Novotny, Hill Farrer & Burrill, Los Angeles, California, for defendants-ap-pellees The Atchison, Topeka and Santa Fe Railway Company and Santa Fe Terminal Services, Inc.
+
+
+    Robert L. Zaletel, Keck, Mahin & Cate, San Francisco, California, for defendant-ap-pellee In-Terminal Services.
+
+
+    Before: JAMES R. BROWNING and ROBERT R. BEEZER, Circuit Judges, and ANCER L. HAGGERTY,* District Judge.
+
+
+    
+      *
+       Honorable Ancer L. Haggerty, District Judge, United States District Court for the District of Oregon, sitting by designation.
+
+
+    
+  
+  
+    OPINION
+
+
+    PER CURIAM:
+
+
+    Inter-Modal Rail Employees Association and five of its members, plaintiffs below, appeal the dismissal of their complaint under the Employee Retirement Income Security Act of 1974 (“ERISA”) and the Federal Employer’s Liability Act (“FELA”) for failure to state a claim on which relief could be granted. In a related appeal, plaintiffs challenge an award of attorneys fees based on the premature filing by plaintiffs of an earlier notice of appeal.
+
+
+    I.
+
+
+    Defendant Atchison, Topeka and Santa Fe Railway Company transferred certain cargo handling work from a wholly-owned subsidiary, defendant Santa Fe Terminal Services, *350Inc., to an independent corporation, defendant In-Terminal Services Division of Mi-Jack Products, Inc.1 The Association represents former employees of Santa Fe Terminal Services who lost their jobs as a result of the transfer. The complaint alleges (1) defendants violated Section 510 of ERISA by conspiring to transfer the work from Santa Fe Terminal Services to In-Terminal Services for the express purpose of depriving members of the Association of pension and welfare benefits;2 and (2) Santa Fe Railway Company and Santa Fe Terminal Services violated FELA by improperly exposing members of the Association to harmful levels of noise and toxic chemicals.3
+    
+
+
+    To establish the individualized damages sought in both the ERISA and FELA claims, each employee member would have to participate in the lawsuit. United Union of Roofers, Waterproofers & Allied Trades No. 40 v. Insurance Corp. of America, 919 F.2d 1398, 1400 (9th Cir.1990). The Association therefore lacks standing to bring suit on these claims on the members’ behalf. Id. However, plaintiffs requested that if the Association were found not to be a proper party to act on behalf of its members, the named individual members be certified as representatives of a class to proceed with the action on behalf of members of the Association.
+
+
+    II.
+
+
+    ERISA4
+    
+
+
+    As employees of Santa Fe Terminal Services, the individual plaintiffs were entitled to retirement benefits under the Railroad Retirement Act of 1974, and to pension, health and welfare benefits under collective bargaining agreements with the Teamsters Union. As a result of their discharge, plaintiffs lost their Railroad Retirement Act benefits and suffered a substantial reduction in Teamster benefits. Plaintiffs allege defendants “entered into a wrongful conspiracy” to transfer the work from Santa Fe Terminal Services to In-Terminal Services “for the express purpose of avoiding” payment of contributions to the Railroad Retirement Fund and minimizing payments for Teamster benefits.5
+    
+
+
+    A. Teamster Benefits
+
+
+    1. Teamster Pension Benefits
+
+
+    Plaintiffs clearly stated a claim under section 510 of ERISA, which “protects plan *351participants from termination motivated by an employer’s desire to prevent a pension from vesting.” Ingersoll-Rand v. McClendon, 498 U.S. 133, 143, 111 S.Ct. 478, 485, 112 L.Ed.2d 474 (1990). Defendants contend that an incidental or consequential loss of future, unaccrued pension benefits is not actionable; but, as plaintiffs correctly note, questions of motivation and intent are not to be resolved at the pleading stage.
+
+
+    2. Teamster Welfare Benefits
+
+
+    Plaintiffs’ claim of interference with their welfare benefits was properly dismissed. It is the law of this circuit that section 510 “does not prohibit an employer from altering the package of medical benefits that it provides its employees, but only from interfering with an employee’s use of the benefits provided.” DeVoll v. Burdick Painting, Inc., 35 F.3d 408, 411 (9th Cir.1994).6 Unlike pension benefits, welfare benefits do not vest. See 29 U.S.C. § 1051(1); Joanou v. Coca-Cola Company, 26 F.3d 96, 98 (9th Cir.1994); West v. Greyhound Corp., 813 F.2d 951, 954 (9th Cir.1987). Accordingly, employers “remain free to unilaterally amend or eliminate such plans without considering the employees’ interests.” DeVoll, 35 F.3d at 411 (quoting Joanou, 26 F.3d at 98); see also Joan Vogel, Containing Medical and Disability Costs by Cutting Unhealthy Employees: Does Section 510 of ERISA Provide a Remedy?, 62 Notre Dame L.Rev. 1024, 1060 (1987) (noting that “[a]n employer can deprive employees of benefits and avoid liability under section 510 simply by terminating the medical and disability benefit plan entirely,” rather than selectively terminating the coverage of individual employees). As we held in West v. Greyhound Corp., 813 F.2d at 955, no action lies under section 510 for an employer’s refusal to hire employees of its predecessor because the employees insist upon maintenance of previous benefit levels; existence of a present “right” is prerequisite to section 510 relief, and employees have no present “right” to future, anticipated welfare benefits. Id. at 954.
+
+
+    B. Railroad Retirement Act Benefits
+
+
+    Plaintiffs’ claim of interference with benefits due them under the Railroad Retirement Act of 1974 was also properly dismissed. Section 1003(b) of ERISA excludes from coverage any “governmental plan,” defined as including “any plan to which the Railroad Retirement Act of 1935 or 1937 applies.” See 29 U.S.C. § 1002(32). Plaintiffs argue that because Section 1002(32) does not refer to the Railroad Retirement Act of 1971, railroad retirement plans under the 1974 Act are not excluded from coverage by ERISA.7 We conclude that all Railroad Retirement Act plans are exempt from ERISA. This construction is required to accomplish Congress’ purpose and is not precluded by the inadvertent failure to specifically identify the 1974 statute in section 1003.
+
+
+    ERISA was adopted to meet a perceived need for minimum federal standards to govern private pension plans. See 29 U.S.C. § 1001(a); H.R.Rep. No. 807, 93rd Cong., 2nd Sess., reprinted in 1974 U.S.C.C.A.N. 4670, 4676-81; H.R.Rep. No. 533, 93rd Cong. 2nd Sess., reprinted in 1974 U.S.C.C.A.N. 4639, 4640-46. It is reasonable to assume plans under the 1935 and 1937 Railroad Retirement Acts were excluded from ERISA because such plans were already subject to independent federally administered statutory controls and were not plagued by the problems affecting private pension plans. This is equally true of plans adopted under the 1974 Railroad Retirement Act.
+
+
+    
+      *352The benefit and contribution levels in plans under the 1974 Act are prescribed by that Act and regulations issued under it, see 20 C.F.R. § 200.1 et seq., and are administered by the Railroad Retirement Board, an independent executive agency, see 45 U.S.C. § 231 et seq., just as are plans issued under 'the two earlier revisions. Indeed, the 1974 Act added to the financial stability of Railroad Retirement Act plans and strengthened government controls over such plans, thus further diminishing any need for ERISA coverage. See S.Rep. No. 1163, 93rd Cong., 2nd Sess., reprinted in 1974, U.S.C.C.A.N. 5702, 5702-14; U.S. Railroad Retirement Board v. Fritz, 449 U.S. 166, 169, 101 S.Ct. 453, 456, 66 L.Ed.2d 368 (1980).
+
+
+    Failure to add a specific reference to the 1974 Railroad Retirement Act in section 1003 of ERISA was understandable. ERISA was enacted six weeks before the Railroad Retirement Act of 1974. See P.L. 93-406, 83 Stat. 832 (1974); P.L. 93-445, 88 Stat. 1305 (1974). Section 1002(32) of ERISA listed only the 1935 and 1937 Railroad Retirement Acts because they were the only Railroad Retirement Acts then in existence. Conversely, the 1974 Railroad Retirement Act was omitted not because of a deliberate decision that plans under the 1974 Act were not to be exempt from ERISA, but simply because the 1974 Railroad Retirement Act was not yet law.
+
+
+    Nor is it surprising that the need to anticipate passage of the 1974 Railroad Retirement Act and include a specific reference to that Act in ERISA would be overlooked. As Judge Dorsey pointed out in the only reported decision on the subject,8 the 1974 Railroad Retirement Act “codified and absorbed and superseded the Railroad Retirement Acts of 1935 and 1937.” Cornelio v. Consolidated Rail Corp., 585 F.Supp. 490, 491 (D.Conn.1984). Consequently, “[t]he 1935 and 1937 Acts do not now exist as pure and separate legislative acts. They were absorbed into the 1974 enactment and now constitute one statute.” Id. at 493; See also Historical Note, Subchapter IV, Railroad Retirement Act of 1974, 45 U.S.C. § 231. In this context, the need to identify the most recent version of what was legislatively regarded as a single railroad retirement program would not have been obvious. Moreover, if the original Railroad Retirement Act and its two revisions are regarded as distinct, and section 1002(32) is “taken literally,” ERISA “would exempt plans under statutes no longer existent, but not plans under the only [Railroad Retirement Act] now in the United States Code,” a result that would “attribute to Congress a legislative non sequitur without rational explanation.” Cornelio, 585 F.Supp. at 491.
+
+
+    The statutoiy language does not explicitly bar a reading of section 1002(32) that excludes from ERISA retirement plans under the 1974 Railroad Retirement Act. In view of the continuing nature of the Railroad Retirement Act program, it is not unreasonable to emphasize the reference to “the Railroad Retirement Act” in section 1002(32), rather than the reference to particular revisions, especially in light of the additional reference to funding through contributions fixed by “that Act.” This reference to funding characterizes plans under all three Railroad Retirement Acts. Furthermore, in the legislative history dealing with exemption provisions in ERISA, Congress made no distinction between the various Railroad Retirement Acts, simply noting that plans under a Railroad Retirement Act were exempt from ERISA’s coverage. H.R.Rep. No. 533, 93rd Cong., 2nd Sess. reprinted in 1974 U.S.C.C.A.N. 4639, 4713; H.R. Conf. Rep. 1280, 93rd Cong., 2nd Sess, reprinted in 1974 U.S.C.C.A.N. 5038, 5043.
+
+
+    Although admittedly not inescapable, a construction of section 1003 that exempts all Railroad Retirement Act plans accords with the clear purpose of Congress and avoids anomalous results.
+
+
+    III.
+
+
+    FELA
+
+
+    The district court granted defendants’ Rule 12(b)(6) motion as to plaintiffs’ FELA claims against Santa Fe Railway Company and Santa Fe Terminal Services for damages for work-related illnesses and injuries, holding that there can be no class actions under *353FELA as a matter of law. The court did not consider the propriety of class certification under Federal Rule of Civil Procedure 23.
+
+
+    We know of no absolute legal bar to class certification of FELA claims.9 The fact that the Employer’s Liability Act, 45 U.S.C. § 53, provides for reduction of damages in proportion to each employee’s contributory negligence does not preclude class certification, though it may suggest certification is not desirable in some cases or that bifurcation may be required on the issue of damages. See, e.g., Fed.R.Civ.P. 23(c)(4) (providing for partial class certification). The district court may well decide to deny class certification after analysis of the law and facts in light of the appropriate legal criteria, see Nelsen v. King County, 895 F.2d 1248, 1249 (9th Cir.1990); Price v. Lucky Stores, Inc., 501 F.2d 1177, 1179 (9th Cir.1974), but it did not do so here. Instead, the court preempted consideration of the issue on an appropriate record by dismissing the FELA count under Rule 12(b)(6) before answer or discovery. This was improper. Cf. Gillibeau v. City of Richmond, 417 F.2d 426, 432 (9th Cir.1969) (motion to dismiss for failure to state a claim is not a proper means of testing compliance with the pleading requirements of Rule 23).
+
+
+    IV.
+
+
+    Attorneys Fees
+
+
+    The district court awarded Santa Fe Railway Company and Santa Fe Terminal Services attorneys fees against plaintiffs’ attorneys under 28 U.S.C. § 1927 for filing a premature notice of appeal. Fee awards under section 1927 must be based upon a finding that the attorney acted recklessly or in bad faith. Estate of Bias v. Winkler, 792 F.2d 858, 860 (9th Cir.1986); Lone Ranger Television, Inc. v. Program Radio Corp., 740 F.2d 718, 720 (9th Cir.1984). The district court issued a tentative ruling denying fees on the ground that plaintiffs had acted mistakenly but neither recklessly nor in bad faith. The same day, at a hearing plaintiffs’ counsel was unable to attend, the court granted the award. The court gave no explanation for its change of position and made no finding of recklessness or bad faith. Remand for appropriate findings is therefore required. See Barnd v. City of Tacoma, 664 F.2d 1339, 1343 (9th Cir.1982). Cf. Kanarek v. Hatch, 827 F.2d 1389, 1390-91 (9th Cir.1987) (district court’s statements embodied implicit determination that motion had been submitted recklessly or in bad faith).
+
+
+    * * * * :¡: *
+
+
+    Dismissal of the ERISA count is affirmed except as to the allegations with respect to Teamster pension benefits. Dismissal of the FELA claims is reversed and remanded for reconsideration of the propriety of class treatment. The award of attorneys fees is vacated and remanded for factual findings on the issue of recklessness or bad faith.
+
+
+    
+      1
+      . Also named as a defendant is Santa Fe Pacific Corporation, alleged to have "exercised day-today management control over the affairs of its wholly-owned subsidiary, defendant [Santa Fe Railway Company].”
+
+
+    
+    
+      2
+      . 29 U.S.C. § 1140 provides:
+
+
+      It shall be unlawful for any person to discharge, fine, suspend, expel, discipline, or discriminate against a participant or beneficiary [of an ERISA plan] for exercising any right to which he is entitled ... or for the purpose of interfering with the attainment of any right to which such participant may become entitled under the plan....
+    
+    
+      3
+      . 45 U.S.C. § 51 provides:
+
+
+      Every common carrier by railroad while engaging in commerce between any of the several States ... shall be liable in damages to any person suffering injury while he is employed by such carrier in such commerce ... for such injury ... resulting in whole or in part from the negligence of any of the officers, agents, or employees of such carrier....
+    
+    
+      4
+      . At oral argument, defendants raised for the first time a statute of limitations defense to plaintiffs' ERISA claims. We decline to consider the issue. Rothman v. Hospital Seivice of Southern California, 510 F.2d 956, 960 (9th Cir.1975) ("It is a well-established principle that in most instances an appellant may not present arguments in the Court of Appeals that it did not properly raise in the court below.”).
+
+
+    
+    
+      5
+      .We reject In-Terminal Services’s argument that section 510 does not support a cause of action against a non-employer for conspiring with an employer to interfere with ERISA-pro-tected benefits. We held in Tingey v. Pixley-Richards West, Inc., 953 F.2d 1124, 1132 n. 4 (9th Cir.1992), that section 510 provides a cause of action against an insurer who "coerces an employer to fire an employee.” We noted that section 510 imposes liability on "any person,” not just "any employer,” and rejected contentions that the statute's use of such terms as "discharge, fine, suspend, expel, discipline, [and] discriminate” suggests direct punitive action by one in a position to exercise control over the terms of employment. See id.; 29 U.S.C. § 1140. We see no basis for distinguishing a coercive insurer from a successor such as In-Terminal who conspires with an employer to interfere with ERISA-protected rights. But see Byrd v. MacPapers, Inc., 961 F.2d 157, 161 (11th Cir.1992).
+
+
+    
+    
+      6
+      . Other circuits have reached a contrary conclusion. See Seaman v. Arvida Realty Sales, 985 F.2d 543, 546 (11th Cir.1993) ("The validity of a § 510 claim does not hinge upon whether the benefits involved are vested but upon the purpose of the discharge.”); Tolle v. Carroll Touch, Inc., 977 F.2d 1129, 1134 (7th Cir.1992) ("[T]he emphasis of a Section 510 action is to prevent persons and entities from taking actions which might cut off or interfere with a participant’s ability to collect present or future benefits or which punish a participant for exercising his or her rights under an employee benefit plan.").
+
+
+    
+    
+      7
+      . Defendants also argue that a retirement plan under the Railroad Retirement Act is not an “employee benefit plan" within the meaning of § 1003(b). Because the definition of "governmental plan” in § 1003(b) explicitly includes "any plan to which the Railroad Retirement Act of 1935 or 1937” applies, § 1003(b) necessarily contemplates that Railroad Retirement Act plans are “employee benefit plan[s]” within the coverage of the exemption.
+
+
+    
+    
+      8
+      . The absence of litigation may help explain the failure of Congress to amend § 1002(32) of ERISA during the twenty years since it was adopted.
+
+
+    
+    
+      9
+      . McDonnell Douglas Corp. v. United States District Court, 523 F.2d 1083, 1085-87 (9th Cir.1975), merely held that certification was precluded under subdivisions (b)(1) and (b)(2) of Rule 23 for individual tort claimants seeking compensatory damages. As this court recognized in In re Northern Dist. of California, Dalkon Shield IUD Prods. Liab. Litig., 693 F.2d 847, 852-56 (9th Cir.1982), however, class treatment under subdivision (b)(3) may be proper for appropriately limited classes of tort plaintiffs.
+
+
+    
+  

@@ -1,0 +1,80 @@
+Source: terms\OT1994\output\OT_1994CHUNK8.md
+
+### Oklahoma Tax Commission v. Chickasaw Nation, No. 94-771
+
+Merits decision, June 14, 1995
+
+#### Chronology and Posture
+
+Argued April 24, 1995. On writ of certiorari to the Tenth Circuit, which barred the reviewed fuel tax on tribal retail sales and exempted tribal members’ wages even when they lived outside Indian country. The fuel-incidence and member-income questions are separate.
+
+All nine Justices participate: Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+#### Judgment
+
+Tenth Circuit affirmed on motor-fuels tax, 9–0; reversed on off-country-resident tribal-wage exemption, 5–4; remanded.
+
+| Component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
+|---|---|---|---|---|
+| Reviewed fuel tax | Affirmed bar, 9–0 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | No opposing vote | Reviewed retailer-incidence tax unenforceable against Tribe |
+| Off-country-resident tribal wages | Reversed exemption, 5–4 | Stone-Zsela, Scalia, Kennedy, Thomas, Ginsburg | Stevens, O’Connor, Souter, Breyer | Remand for ordinary tax law and residence/source predicates |
+
+#### Opinion Topology
+
+| Writing | Author | Joined by | Relationship and scope |
+|---|---|---|---|
+| Opinion of the Court, fuel and preservation | Ginsburg | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Fuel judgment and declined late argument |
+| Opinion of the Court, income | Ginsburg | Stone-Zsela, Scalia, Kennedy, Thomas | Off-country-resident income judgment and treaty construction |
+| Partial dissent | Breyer | Stevens, O’Connor, Souter | Joins fuel ruling; would affirm the treaty income exemption |
+
+#### Controlling Propositions and Authority
+
+##### Legal incidence of the reviewed motor-fuels tax
+
+**Controlling proposition:** Without clear congressional authorization, Oklahoma cannot enforce a tax whose legal incidence falls on the Tribe or tribal members for Indian-country sales. Under the reviewed statute’s payment, remittance and credit arrangement, incidence falls on the tribal retailer, so the fuel tax is barred in that application.
+
+**Authority:** Ginsburg’s Opinion of the Court, joined by all eight other Justices; nine Justices support the fuel-incidence rule and application.
+
+**Controlling explanation:** The Court holds that legal incidence must be identified before a State relies on economic pass-through or collection machinery. Moe and Potawatomi distinguish a direct tax on an immune tribe from collection of a valid tax on nonmembers. Yakima requires attention to the particular tax Congress authorized; Attea permits reasonable collection controls for valid nonmember taxes, not taxation of the Tribe itself. Here distributors remit on retailers’ behalf, receive credits for retailer taxes they cannot collect, and receive an exemption for the distributor’s own sale. Comparable consumer liability or a mandatory pass-through does not appear in that arrangement. These features support the lower court’s reasonable construction that the retailer bears legal liability; they are not an express statutory declaration naming incidence. The late Hayden-Cartwright argument was not presented below or in the petition and will not be decided first here. A tax lawfully shifted to non-Indians would still require its own federal-preemption and collection analysis.
+
+**Precedent treatment:**
+
+- Moe v. Confederated Salish and Kootenai Tribes; Oklahoma Tax Commission v. Citizen Band Potawatomi Indian Tribe: distinguish immune tribal incidence from valid nonmember taxation and collection.
+- County of Yakima v. Confederated Tribes: applies tax-specific congressional authorization, without transferring one tax’s permission to another.
+- Department of Taxation v. Milhelm Attea & Bros.: preserves reasonable controls for valid nonmember taxes; supplies no tribal-incidence tax authority.
+
+##### Resident taxation and the surviving treaty promise
+
+**Controlling proposition:** Oklahoma may apply its generally applicable income tax to members residing outside Indian country who earn wages from tribal work in Indian country; the Treaty of Dancing Rabbit Creek does not exempt that employee income. Members residing and earning tribal income in Indian country retain the ordinary protection under McClanahan and Sac and Fox.
+
+**Authority:** Ginsburg’s income portion, joined by Stone-Zsela, Scalia, Kennedy and Thomas; five Justices adopt the off-country-resident treaty construction.
+
+**Controlling explanation:** The Court holds that the treaty’s protection of the Nation’s government does not immunize the income of every member residing outside Indian country. Mescalero supplies ordinary state authority over off-reservation activity absent contrary federal law. McClanahan and Sac and Fox preserve the distinct protection tied to member residence and income in Indian country. Article IV protects jurisdiction over persons and property within the Nation’s western limits and guarantees that state laws will not govern the Nation. Read as a whole, that territorial governmental promise does not prohibit the nondiscriminatory taxation of an off-country resident simply because the Tribe pays the salary. Graves supplies the distinction between taxing an employee’s income and directly taxing the employer. The favorable Indian treaty canon cannot remove the promise’s geographic context. The Court relies on the surviving treaty’s meaning, not implied repeal at statehood. It leaves nonmember wages, nontribal-source income and an independent unpressed infringement claim outside the decision.
+
+**Precedent treatment:**
+
+- McClanahan v. Arizona State Tax Commission; Oklahoma Tax Commission v. Sac and Fox Nation: retain the residence-and-source protection within Indian country, including statutory Indian country beyond formal reservation labels.
+- Mescalero Apache Tribe v. Jones: applies ordinary off-reservation state authority absent contrary federal law.
+- Graves v. New York ex rel. O’Keefe: distinguishes employee income taxation from taxation of government as employer.
+
+Article IV’s retained council authority is conditioned on consistency with the federal Constitution, treaties and laws; Congress’s laws within its constitutional Indian-affairs authority remain expressly permitted. The Court does not decide Hayden-Cartwright authorization, a replacement tax, amounts, refunds, actual individual residence or an independent unpressed Williams infringement theory.
+
+#### Precedent Treatment and Current-Law Effect
+
+No broad off-country immunity or universal authorization of non-Indian-incidence taxes follows.
+
+The reviewed retailer-incidence fuel tax is barred. The treaty does not bar the generally applicable income tax on the specified off-country resident wages. Indian-country residence/source protection remains. Proposed bills are not an enacted replacement; a later incidence shift requires independent analysis.
+
+#### Separate Positions Relevant to the Decision
+
+Breyer, joined by Stevens, O’Connor and Souter, agrees with the fuel holding but dissents on income. The treaty’s protection of the Nation and its descendants, read with its history and the favorable-construction canon, protects members’ wages for tribal-government work performed in Indian country despite commuter residence. Taxing that payroll burdens the protected government and its expenditures. The dissent does not revive universal intergovernmental employee immunity or exempt all off-country activities; it rests on this treaty and the member, employer and work-location nexus.
+
+#### Source Notes
+
+Tenth Circuit, 31 F.3d 964; the reviewed Oklahoma motor-fuels provisions; Treaty of Dancing Rabbit Creek, Article IV; Records and Briefs collection, No. 94-771, including respondent’s merits filing and April 18 supplement. Proposed legislation is not treated as enacted law.
+
+#### Mandate, Remedy, and Stage
+
+The Tenth Circuit is affirmed on the reviewed fuel tax and reversed on the specified off-country-resident wage exemption. The case is remanded for application of these separate rulings. Oklahoma may not enforce the reviewed fuel tax against the Tribe or tax covered tribal wages of members residing in Indian country; off-country-resident wages may be taxed subject to ordinary law. No tax sum, refund or individual residence finding is entered.
+
+**End of entry: Oklahoma Tax Commission v. Chickasaw Nation, merits decision, June 14, 1995.**

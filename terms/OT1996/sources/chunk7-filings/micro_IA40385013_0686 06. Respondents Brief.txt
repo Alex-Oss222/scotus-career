@@ -1,0 +1,1410 @@
+VE At hste
+       a aes
+
+                              ‘COCKELAWOns
+
+                                                                                                                                                                                                                                                                      . We
+                      QUESTIONS PRESENTED
+
+1. Whether compliance with state law minimum require-
+ments for hiring (and training) police officers insulates a
+municipality from § 1983 liability even when a jury reason-
+ably decides that a municipal policymaker’s particular hiring
+and training decisions were so inadequate as to amount to
+deliberate indifference to citizens’ constitutional rights?
+
+2. Whether, as a matter of law, to establish municipal lia-
+bility under § 1983, a plaintiff must establish at least two
+deliberately indifferent hiring decisions (or two deliberately
+indifferent training decisions) by a municipal policymaker,
+before she can recover for the particular constitutional depri-
+vation she suffered as a direct result of official municipal
+deliberate indifference?
+
+3. Whether, as a matter of law, a § 1983 plaintiff must
+demonstrate prior incidents of police excessive force, even
+when unnecessary to establish that a deliberately indifferent
+official action taken by the municipality itself directly caused
+her particular constitutional injury?
+      TABLE OF CONTENTS                                               TABLE OF CONTENTS - Continued
+                                                            Page
+                                                                                                                                           Page
+
+QUESTIONS PRESENTED. .................cccceeee i                  Ill. PROVING MULTIPLE INCIDENTS OF EXCES-
+                                                                         SIVE POLICE FORCE IS NOT AN ELEMENT -
+EE EP GURUTEED coc cncccrsccscccccccvccceces ii                          MUCH LESS AN INDISPENSABLE ELEMENT
+                                                                         ~ OF BEUNGCIPAL PAULT ..... cc cccccccccess 34
+
+TABLE OF AUTHORITIES ................ceseeeees iv                 A. The Language of § 1983 Plainly Imposes Lia-
+                                                                        bility for Causing a Single Deprivation....... 35
+STATEMENT OF THE CASE ............cccseceeees I
+
+SUMMARY OF ARGUMENT ..................6555: 8                     B. A Requirement That § 1983 Plaintiffs
+
+cece  cde s cava bGbaee cee ceccecceeess 12                             Always Prove “Multiple Incidents” Would
+                                                                        Change the Substantive Definition of a Con-
+                                                                        ST EE 05 6 be 04Gd0n a éeednsedecees 38
+
+I. IMPOSING LIABILITY DESPITE MUNICIPAL                           C. This Court’s Precedent Demonstrates That
+                                                                        Proof of Prior Similar Deprivations Is Not
+COMPLIANCE WITH STATE LAW IS                                            An Absolute Requirement of § 1983 Munici-
+                                                                        rr is 604 0eehede06sdecedesneeseee< 4|
+EXPRESSLY AUTHORIZED BY § 1983 AND
+
+IMPLICATES NO FEDERALISM CONCERNS
+
+OTHER THAN THOSE SUBSUMED BY                                      IV. IN LIGHT OF THE EXISTING BARRIERS TO
+                                                                         ESTABLISHING MUNICIPAL FAULT UNDER
+§ 1983°S BASIC ALTERATION OF OUR FED-                                    § 1983, MUNICIPALITIES HARDLY NEED
+                                                                         THE BENEFIT OF THE ARBITRARY DOC-
+Cc    ccs CN seen duet rorscccceseeces 12                                TRINE(S) AT ISSUE IN ORDER TO AVOID
+                                                                         UNDESERVED LIABILITY.............-006:. 46
+II. MUNICIPAL FAULT UNDER § 1983 CAN BE
+                                                                  EE  6 Sed e6abceceeueedeecesstesécscscesces 50
+     BASED ON A SINGLE OFFICIAL MUNICIPAL
+     DECISION, MADE BY A POLICYMAKER
+     WITHIN HIS SPHERE OF POLICYMAKING
+     AUTHORITY, SO LONG AS THAT MUNICI-
+     PAL DECISION IS DELIBERATELY INDIF-
+     FERENT TO CITIZENS’ CONSTITUTIONAL
+     NEEDS AND DIRECTLY CAUSES THE PAR-
+     TICULAR CONSTITUTIONAL DEPRIVATION
+     PORTENDED BY THE MUNICIPALITY'S
+
+      DELIBERATE INDIFFERENCE............-.. 17
+
+A. Municipal “Policy” — Official Action by the
+     BIE BOOGIE. cece cc ccc cccccsteces 19
+
+B. Municipal Deliberate Indifference ......... 28
+
+C. Municipal Causation ................5+5:: 32
+iv
+
+TABLE OF AUTHORITIES                                                         TABLE OF AUTHORITIES - Continued
+                                                        Page                                                                                   Page
+
+Supreme Court Cases                                             Feperat Circurr Courr Cases
+Carey v. Piphus, 435 U.S. 247 (1978).......... 25, 33, 38       Brown v. Bryan County, 67 F.3d 1174 (Sth Cir. 1995). . . passim
+
+Chicago v. Robbins, 2 Black 418, 17 L.Ed. 298 (1863) .... 41
+
+City of Canton v. Harris, 489 U.S. 378 (1989)..... passim       FeperaL  Statutes  AND Lecis-ative History
+                                                                _ |         SS     Seene
+City of St. Louis v. Praprotnik, 485 U.S. 112 (1988) .... 47                                                eee    passim
+
+Estelle v. Gamble, 429 U.S. 97 (1976) ................ 44       Bgl                a I od a i                      13, 39
+
+Ex parte Virginia, 100 U.S. 339, 25 L.Ed. 676 (1880) .... 13
+
+Howlett v. Rose, 496 U.S. 356 (1990)................. 14        Cong. Globe, 42d Cong. Ist Sess., App. 68 (1871)..... 36
+
+Imbler v. Pachtman, 424 U.S. 409 (1976).............. 38        State Cases
+                                                                Barrett v. Malden R. Co., 3 Allen, 101................ 40
+Lugar v. Edmonson Oil Co., 457 U.S. 922 (1982)...... 20
+                                                                Mason v. Keeling, 12 Modern 332 (1700).............. 40
+Mitchum v. Foster, 407 U.S. 225 (1972).... 13, 14, 15, 22
+                                                                Rider v. White, 65 N.Y. 54 (1875) ...........00000055. 39
+Monell v. New York City Dept. of Social Services, 436
+                                                                Thayer v. Boston, 19 Pickering 511, 31 Am. Dec. 157
+en                                                     passim      Dt Uincvs seen auddasdsdéudnesddedatskn6eesda 41
+
+Monroe v. Pape, 365 U.S. 167 (1961) .. 12, 13, 14, 33, 38, 44   Van Leuven v. Lyke, | N.Y. 515 (Ct. App. N.Y. 1848) .... 39
+
+Newport v. Fact Concerts, Inc., 453 U.S. 247 (1981) 21, 48
+
+Oklahoma City v. Tuttle, 471 U.S. 808 (1985)... 33, 37, 44, 45
+
+Owen v. City of Independence, 445 U.S. 622 (1980)
+  pesbunadbeseoaedacenaeeebanesbens 21, 25, 38, 41, 43, 44
+
+Patsy v. Board of Regents of Florida, 457 U.S. 496              TREATISES AND JOURNALS
+   Gs 0nd dswens ouetdcusicdnceddencswd@éecnncd 13, 14          Prosser & Keaton, Torts, § 2 (Sth Ed. 1984)........... 39
+
+Pembaur v. Cincinnati, 475 U.S. 469 (1986)....... passim        T. Shearman & A. Redfield, Negligence, § 120 (1869) 25, 41
+
+Rizzo v. Goode, 423 U.S. 362 (1976).................. 16        T. Shearman & A. Redfield, Negligence, §§ 10, 190
+
+Seminole Tribe of Florida v. Florida, 116 S.Ct. 1114            RE       8 Diag ot atin sprévawhdndeoeus 33, 40
+   Seen edn cdanbecsadecnadduetneuadsesecesincsewees 16
+                                                                R. Traynor, Lawbreakers, Courts, and Law-Abiders,
+United States v. Lopez, 115 S.Ct. 1624 (1995) ......... 16         4! Journal of the State Bar of California 458 (July-
+West v. Atkins, 487 U.S. 42 (1988)...............0.... 44          EE SEE We a dhedietwe C8446 cCe6 es evtbsonedoes 49
+                                       STATEMENT OF THE CASE
+
+                            Bryan County’s Statement of Facts reads as if the jury
+                     had resolved all contested fact issues in its favor. The verdict
+                     in favor of Jill Brown, however, indicates that the jury simply
+                     did not accept Petitioner's version of the traffic incident, or
+                     its position that the hiring and training of Stacy Burns was
+                     adequate in light of the duties he was assigned.
+
+                            Throughout its Brief, Bryan County consistently unders-
+                     tates the volume of evidence showing that it acted with
+                     deliberate indifference when its undisputed official policy-
+                     maker on matters of hiring and training police officers,'
+                     Sheriff B.J. Moore, decided to employ his nephew, Stacy
+                     Burns, to be a reserve officer. At the time Bryan County hired
+                     him to be a law enforcement officer, Burns had a lengthy
+                     criminal record of arrests and convictions: Assault (two
+                     counts), Resisting Arrest, Public Drunkenness, Driving While
+
+                              ' “Undisputed,” that is, until now. For the first time in any court,
+                       Petitioner now claims that Sheriff Moore was not its “final” policymaker.
+                          (P. Br., 19). Pretrial, the County stipulated that “[a}t all times relevant
+                       hereto, Defendant [Sheriff] Moore was the policymaker for Bryan County
+                     regarding the Sheriff's Department,” J.A. 30, and additionally took the
+                       position that its Board of County Commissioners “did not participate in any
+                       policy decisions with regard to the conduct and operation of the office of
+                       the Bryan County Sheriff.” J.A. 32. The Joint Pre-Trial Order lists 61!
+                       contested issues of fact and 8 contested issues of law, but the Sheriff's
+                       policymaking authority was not among them. R. 3/856-63. (partially
+                       reproduced at J.A. 31-32). In Bryan County's opening statement, it stated,
+                       “We agree that the Sheriff made the policy insofar as the Sheriff's
+                       Department was concerned.” Tr. 24. The Sheriff's testimony also
+                       acknowledged that he was the decisionmaker for the County regarding the
+                       Sheriff's Department. J.A. 114. Moreover, the County made no objection
+                       to the portion of the jury charge that stated, “Sheriff B.J. Moore is an
+                       official whose acts constitute final, official policy of Bryan County,
+                       Oklahoma.J”.A. 12T2 he C. ounty never raised the issue on appeal and the
+                       Fifth Circuit noted that it had been waived. Brown v. Bryan County, 67 F.3d
+                       at 1182 n.17. Neither did Bryan County raise this dead issue in its Petition
+                       for Writ of Certiorari.
+
+AI A C DI Tr e i aEeOSTTAn i a L i g
+                                          2                                                                             3
+
+Intoxicated, False Identification, Driving While License Sus-                    University of Central Oklahoma and a veteran of 20 years in
+pended, and nine moving traffic violations. J.A. 40-43, 88-91.                   law enforcement, several years as a field training officer and
+Sheriff Moore was aware of Burns’ lengthy criminal history.                      several more as a police chief, Tr. 297-302, testified to Burns’
+J.A. 45-46, 111, 114-15. Nevertheless, when Sheriff Moore                        unfitness for police work. According to Dr. Schweizer, Burns
+acquired Burns’ rap sheet, he did not read it carefully. J.A.                    was unfit to be a police officer because of excessive convic-
+114-15. Moore admitted on cross-examination that he did not                      tions and an arrest record that showed a blatant disregard for
+notice the assault conviction, did not notice the resisting                      the law, and a potential for “abusing the public or using
+arrest, did not notice the public drunkenness, and did not                       excessive force.” Tr. 316. Even Defendants’ own expert
+notice the false identification. J.A. 115. While being pressed                   repeatedly expressed “concern” about Burns’ fitness and con-
+about his alleged failure to notice these crimes, Moore                          ceded that it was doubtful that he would have hired Burns.
+excused his inattention with the explanation: “He had a long                     J.A. 78-84. In the face of this damaging testimony, Bryan
+record.” J.A. 115.2 Sheriff Moore admittedly made no further                     County clung desperately to its position that state law mini-
+inquiry into the disposition of any of the charges or convic-                    mum requirements did not absolutely disqualify Burns. J.A.
+tions, and made no attempt to determine whether Burns was                        49-50.3
+currently on probation. J.A. 115-16. If he had, he would have
+discovered that there was an outstanding warrant for Burns’                            Stacy Burns testified that, prior to beginning work as a
+arrest for violating conditions of probation. J.A. 41-43,                        reserve officer, he had no experience as a law enforcement
+102-03. Burns not only failed to pay fines and failed to                         officer. J.A. 94. Despite that lack of experience, and his
+perform community service, he also violated his probation by                     criminal history, Bryan County Sheriff's Department provided
+continuing to commit crimes including the assault, the public                    no formal departmental training to Burns. J.A. 93-94. Indeed,
+drunkenness, the driving while license suspended, and the                        the County had no formal training program at all. J.A. 47,
+false identification. J.A. 42-43. Despite Sheriff Moore's                        93-94, 116-17; Tr. 327-31.4 Bryan County's reliance on the
+awareness that Burns had a long criminal record, despite the                     training Burns allegedly received at Oklahoma’s state training
+absence of a background investigation which would have shed                      program (known as CLEET) is wholly disingenuous. Burns
+additional light on Burns’ character, and despite Moore's                        did not even apply for classes until May 6, 1991, a scant 6
+knowledge that Burns would be making forcible arrests prior                      days prior to his use of excessive force against Jill Brown.
+to receiving any meaningful training, Moore made the deci-                       J.A. 74-75. Because the classes were held only three days a
+sion to hire Burns, and did so pursuant to his status as the
+decisionmaker for Bryan County. J.A. 114.                                              3 Sheriff Moore's assertion at trial that he received Burns’ lengthy
+                                                                                 record but did not fully read it demonstrates how disingenuous it is for
+      Plaintiff's law enforcement expert, Dr. Otto Schweizer, a                  Petitioner to argue that Sheriff Moore was relying on state law minimums
+professor of criminal justice and police administration at The                   that absolutely disqualified only felons. How could Sheriff Moore “rely”
+                                                                                 on the fact that Burns was not a felon if Moore did not even bother to read
+      2 Of course, as the Fifth Circuit noted, it is possible that the jury did  the whole record?
+not believe Sheriff Moore when he professed ignorance of some of the
+more serious details of his nephew's record. 67 F.3d at 1184. Indeed,                  4 Although Burns stated in his deposition that he had received no
+Moore also testified that he did not consider a history of misdemeanor           training at all through Bryan County, formal or otherwise, he did assert at
+arrests and convictions to be a “criminal record,” J.A. 115, explaining that     trial that he had viewed one or more television programs broadcast on a
+he did not believe that “assault and battery would stop anybody from being       state law enforcement training channel. Tr. 579, 601. Burns also testified
+a good police officer... .” J.A. 111.                                            that he had ridden with his grandfather, Reserve Deputy Calclazier,
+                                                                                 “several” times in civilian clothes prior to being hired. Tr. 579.
+                                                        4                                5
+
+week, Tr. 578, Burns had at most three sessions of CLEET                                 roadblock in Oklahoma shortly after crossing the Texas state
+training prior to injuring Jill Brown.5 Burns’ general lack of
+training was also reflected in the absence of any specific                               line, turned around and drove back into Texas, and was
+instruction regarding situations likely to arise while conduct-
+ing a “state line” road block. To wit, Burns received no                         r * en  stopped by Bryan County officers shortly thereafter on a side
+training regarding roadblock procedures, J.A. 94; Tr. 605,
+679-680, no training regarding pursuit across state lines, J.A.                          road that led to his mother’s house. On about every other fact
+94, and no training regarding his authority to arrest in Texas.
+J.A. 95. Moreover, he received no supervision during the                                 issue there was conflicting testimony — both as to what
+incident involving Jill Brown, J.A. 95-96, and no instructions
+during the pursuit. Tr. 609. Despite this absence of training,                           occurred prior to the traffic stop,© and what occurred after the
+experience, and supervision, Sheriff Moore authorized Burns
+to make forcible arrests. J.A. 96. Burns apparently enjoyed                              stop. Jill Brown testified that, after the stop, she heard two
+this authority since, of his first thirteen arrests, he forced the
+arrestee to the ground at least five times, Tr. 628, a record of                         commands to get out of the vehicle, was doing exactly what
+force that law enforcement expert Schweizer characterized as
+“unusually high and excessive.” Tr. 394.                                                 Burns told her to do, and was not slow to respond. Tr. 53-54,
+
+      Although not basically relevant to the municipal liability                         94. After starting to exit the vehicle with her hands in the air,
+issues raised in its brief, Bryan County includes in its fact
+statement a lengthy one-sided description of the events on                               Burns grabbed her by the left arm, spun her around, and
+May 12, 1991, apparently to suggest that Officer Burns did
+not really subject Jill Brown to excessive force. But Bryan                              “threw” her to the ground. Tr. 52-53.? She was not able to
+County’s version of the events immediately preceding and
+during the traffic stop in which Jill Brown was injured was                              break her fall as one hand was in the air and Burns had hold
+hotly disputed at trial; and, as the Fifth Circuit ruled, there
+was plenty of evidentiary support for the jury’s decision to                             of the other. Tr. 53. Ms. Brown landed on the pavement, knees
+believe plaintiff's version of the events. 67 F.3d 1174,
+1178-81. What was not in dispute is that Todd Brown saw a                                first, with Burns’ knees in her back. Tr. 54-55. She testified
+
+      5 Indeed, there was evidence introduced on which the jury could have               that, prior to being thrown to the ground, she was not slow to
+based a finding that Burns had not attended any CLEET classes prior to his
+attack on Jill Brown. After claiming in his deposition that he had received              respond to any commands, did not reach for anything, or do
+several months of CLEET training prior to May 12, 1991 (the Jill Brown
+incident), Burns suffered a memory loss at trial (regarding the number of                anything that would lead Burns to believe she was reaching
+CLEET classes he had attended) after plaintiff established that he had not
+even applied for CLEET training until May 6, 1991. Tr. 516, 577, 600, 608.                     © Mr. Brown testified that he was familiar with the checkpoint, and
+Moreover, the jury was familiar with Burns’ record, which revealed a                     chose not to go through it because he had been unnecessarily detained there
+disregard both for the law and for truthfulness (the false identification); and          on prior occasions for up to fifteen minutes. Tr. 134. (Indeed, Jill Brown
+he also admitted lying during his deposition. J.A. 91.                                   and her husband had previously complained to Oklahoma officials about
+                                                                                         these roadblocks near the Texas border, complaining about unnecessary
+                                                                                         delays and being hassled by the deputies. Tr. 41-42, 134.). Mr. Brown
+                                                                                         decided to turn around and spend the night at his mother’s home, which
+                                                                                         was a few miles back across the border in Texas. Tr. 134, 138. When
+                                                                                         turning around, his tires did not squeal and did not throw any gravel. Tr.
+                                                                                         135. He neither turned around, nor came out of the turn, nor drove back
+                                                                                         toward Texas, at a high rate of speed. Tr. 136-37. After crossing the dam
+                                                                                         into Texas, he turned off the main road, taking his normal route to his
+                                                                                         mother’s house. Tr. 138-39. After he realized the police were following
+                                                                                         him, he pulled off the road at the first available safe opportunity. Tr.
+                                                                                         142-43.
+
+                                                                                               ? Petitioner characterized this as the “lowest level of force” available.
+                                                                                         (P. Br., 7). That description, however, referred to a properly executed arm-
+                                                                                         bar takedown, not spinning someone around and throwing them hard to the
+                                                                                         pavement. Tr. 392, 541. Moreover, there was no need to use any degree of
+                                                                                         force on Jill Brown. Tr. 347-48.
+                                          6                                                                                7
+
+for anything. Tr. 54-55. (Given Burns’ lengthy criminal                         injuries (from the excessive force) were proximately caused
+record, which revealed a disturbing disregard for the law, and                  by the deliberate indifference of Bryan County’s official poli-
+given that Burns admitted previously lying under oath, J.A.                     cymaker. /d. The Fifth Circuit affirmed the jury's verdict of
+91, it is hardly surprising that the jury rejected his version of               municipal liability, finding that the jury’s verdict was sup-
+the events.)® The Fifth Circuit found sufficient evidence to                    ported by the evidence. Brown v. Bryan County, 67 F.3d 1174,
+support the jury's finding that Burns used excessive force. 67
+F.3d at 1180.9 As a result of Stacy Burns’ actions, Jill Brown                  1185 (Sth Cir. 1995). The Fifth Circuit’s affirmance was
+has had four operations, two on each knee, and will require
+additional surgery, eventually culminating in total knee                        properly deferential to the jury’s resolution of conflicting
+replacements. Tr. 261, 267-72.                                                  evidence, and its analysis was, accordingly, very fact-inten-
+                                                                                sive. Jd. at 1178-85. Contrary to Petitioner’s assertions, the
+      At trial, Jill Brown established the three elements neces-                Fifth Circuit never created absolute federal minimums for a
+sary to demonstrate that Bryan County was sufficiently at                       state’s employment of law enforcement officers. See id. A fair
+fault for its employee’s constitutional tort to justify the impo-               reading of the Fifth Circuit’s opinion reveals that it held only
+sition of § 1983 municipal liability: 1) a municipal “policy,”                  that, based on the particularly egregious evidence presented
+pursued with 2) deliberate indifference, which 3) proximately                   in this case, the jury could reasonably find that Bryan
+caused the constitutional deprivation. First, Bryan County                      County’s policymaker acted with deliberate indifference when
+conceded that Sheriff Moore was the County’s official policy-                   hiring Burns, id. at 1183-85, and that such deliberate indif-
+maker with exclusive and final policymaking authority                           ference directly caused the constitutional deprivations (exces-
+regarding the hiring and training of county law enforcement                     sive force, unlawful arrest) suffered by Jill Brown. /d. at
+officers including Officer Burns. J.A. 30, 32. Second, the                      1185.!°
+jury’s verdict expressly found that the County, through its
+policymaker on matters of hiring and training, was deliber-                           10 Bryan County did not raise a challenge in its Petition for Writ of
+ately indifferent to Jill Brown’s constitutional rights, both                   Certiorari to the inadequate training portion of Jill Brown's verdict, which
+with respect to the improper hiring and inadequate training of                  the Fifth Circuit left undisturbed and undiscussed, stating early in its
+Burns. J.A. 135. Third, the jury found that Jill Brown’s                        opinion, “[flor efficiency’s sake, we will address only those points that we
+                                                                                believe merit review.” 67 F.3d at 1178. (Petitioner’s reliance on a
+      8 When Jill Brown cried out upon being thrown to the pavement,            withdrawn opinion that had initially reversed the training verdict is
+Todd Brown attempted to check on his wife's condition and was repeatedly        extraordinary; and common sense would, in any event, suggest that the
+punched. While being beaten, Mr. Brown says he exclaimed, “This is just         opinion was withdrawn precisely because the court thought its training
+like L.A., huh, boys,” to which Burns responded, “No, this is a hell of a lot   reversal was erroneous.) Analysis of Jill Brown’s “bad training” claim
+worse.” Tr. 150. Burns later returned to where Jill Brown lay on the            simply requires a straightforward application of Canton. Canton expressly
+pavement, arms handcuffed behind her back, and jerked her up by the chain       envisioned that deliberate indifference could be established based on a
+between the cuffs. Tr. 57.                                                      failure to train a particular officer. 489 U.S. at 390-91. (In any event,
+                                                                                Plaintiff established at trial that Bryan County had no departmental training
+      ° The Fifth Circuit also found sufficient evidence to support the jury's  program. J.A. 47, 93-94, 116-17; Tr. 327-31.) Additionally, Canton
+finding of false arrest and false imprisonment. 67 F.3d at 1180-81. Jill        emphasized that municipal deliberate indifference does not depend on
+Brown had committed no crime, yet, after being slammed to the pavement,         multiple incidents of constitutional deprivations when the training
+she remained handcuffed there for approximately one hour, during which          inadequacy relates to those recurring constitutional obligations (such as
+tume she was never informed why she was being detained. /d. And no              avoiding excessive force) that police officers are certain to confront. 489
+charges were ever brought against her. /d. at 1181.                             U.S. at 390 n.10; see also 489 U.S. at 396 (O’Connor., J., concurring in
+                                                                                part). Therefore, regardless of what this Court does with the “bad hiring”
+                                          8                                                                    9
+
+                    SUMMARY OF ARGUMENT                             it did, in an attempt to persuade the jury that it was not
+                                                                    “deliberately indifferent.” The jury in the present case, how-
+      Section 1983's language, by addressing persons acting         ever, was more persuaded with plaintiff's specific and
+“under color of [state] law,” expressly forecloses a municipal      egregious evidence of municipal deliberate indifference, than
+“defense” to liability based on municipal compliance with           with Bryan County’s evidence of accidental bare-bones com-
+state law. Indeed, one of the primary aims of § 1983 was to         pliance with generic state law minimums. The Fifth Circuit’s
+provide a remedy when state law was inadequate to protect           fact-intensive inquiry merely upheld the jury’s finding of
+federal constitutional rights. Bryan County’s view, if              deliberate indifference and in no way crafted federal mini-
+accepted, would permit states to insulate their governmental        mum hiring standards as Petitioner claims.
+subdivisions from § 1983 liability by passing easy-to-meet
+minimum requirements covering all the typical duties that                 Municipal fault under § 1983 is established by proving:
+municipalities perform. Since those state law minimums often        1) an official municipal “policy,” which includes an official
+will not be adequate to protect federal constitutional rights,      decision by a final policymaker on a matter within the policy-
+Petitioner's view would effectively “repeal” § 1983. Although       maker’s sphere of authority; 2) that the official municipal
+this Court in City of Canton v. Harris, 489 U.S. 378, 392           action (or inaction) showed deliberate indifference to citi-
+(1989), expressed concern about “federal court second-guess-        zens’ constitutional rights; and 3) that the municipality’s
+ing” of local training decisions, the Court alleviated those        deliberately indifferent official action directly caused the
+concerns by requiring plaintiffs to prove municipal “deliber-       plaintiff’s constitutional injury. See Monell v. New York Dept.
+ate indifference,” a standard of proof met by Jill Brown both       of Social Services, 436 U.S. 658, 694 (1978); Pembaur v.
+with respect to her “bad hiring” and “bad training” claims.         Cincinnati, 475 U.S. 469, 480 (1986); City of Canton vy.
+Any remaining federalism concerns implicated by this case           Harris, 489 U.S. 378, 388-91 (1989). Together, these three
+surely are attributable to § 1983 itself rather than the particu-   requirements constitu the fundamental components of civil
+lar application of § 1983 to Bryan County’s official employ-        or criminal fault: 1) conduct, including an act or omission; 2)
+ment and training decisions regarding Officer Burns.                a culpable mental state; and 3) causation of the injury. The
+Moreover, it is disingenuous for Bryan County to argue that         point of this Court’s decisions in Monell, Pembaur, and Can-
+Sheriff Moore was relying on state laws that absolutely dis-        ton is to ensure that municipalities are liable for constitu-
+qualified only felons, since Moore admitted on the witness          tional torts committed by municipal employees only when a
+stand that he did not fully read Burns’ lengthy criminal            § 1983 plaintiff establishes that the municipality itself is at
+history. In any event, Petitioner has failed to explain how this    fault. Thus, when a plaintiff proves official municipal con-
+lawsuit is a threat to facially constitutional state laws when it   duct, a municipal culpable mental state of deliberate indif-
+neither challenges nor frustrates Oklahoma’s minimum quali-         ference, and municipal causation of the constitutional injury,
+fications to be a police officer. Unless Oklahoma state law         it is appropriate for the municipality and not just its employee
+mandates the hiring of all non-felon applicants, § 1983's           to shoulder the blame for the plaintiff's constitutional injury.
+application to inadequate hiring decisions surely complements
+state law. Finally, nothing in § 1983 prevented Bryan County              Because Jill Brown proved all three components of
+from putting on evidence of compliance with state law, which        municipal fault, this case in no way involves an application of
+                                                                    respondeat superior. First, Bryan County conceded at trial
+claim, the “bad training” verdict must be upheld unless this Court  that Sheriff Moore was its exclusive official policymaker
+substantially retracts its opinion in Canton.                       regarding matters of hiring and training police officers. This
+
+                                                                    Court has ruled that a single decision by a municipal policy-
+                                                                    maker on a matter that is within his sphere of policymaking
+                                          10                       redefine fault, but it would require an interpretation of Mon-
+                                                                   ell’s “policy” requirement that is completely cut loose from
+authority is an official municipal action (or “policy”). Pem-      its Monell moorings — the rejection of respondeat superior.
+baur, 475 U.S. at 480-81. Therefore, Moore’s decisiOn to hire      Moreover, Bryan County's “multiple fault” doctrine would
+                                                                   require this Court to overrule Pembaur's common sense view
+Burns despite a lengthy criminal record revealing lawlessness      that municipal power is not just within the province of legis-
+                                                                   lative bodies and not just manifested by standard rules of
+and violence, and his further decision to authorize Burns to       operation. See 475 U.S. at 480-81. Rather, official municipal
+                                                                   power can be exercised by policymaking officials (like a
+make forcible arrests prior to receiving any meaningful train-     Sheriff) and can be exercised in a case-specific fashion. /d.
+                                                                   Indeed, Canton expressly envisioned liability based on the
+ing, were decisions made by the municipality itsélf, Addi-         inadequate training of specific officers, 489 U.S. at 390-91,
+tionally, because of the certainty that police officers will face  and Bryan County does not dispute that Canton should also
+                                                                   govern “bad hiring” claims.
+recurring constitutional obligations regarding the usé of force,
+the jury reasonably decided that Bryan County's decisionmak-             Second, Bryan County argues that its deliberate indif-
+                                                                   ference caused constitutional deprivations on only one occa-
+ing was so inadequate as to amount to municipal deliberate         sion. Such a “multiple incidents” requirement has no basis in
+indifference to citizens’ constitutional rights. See Canton, 489
+                                                                   statutory language, contradicts much of this Court's prece-
+U.S. at 390 & n.10. Finally, it is difficult to conceive of a      dent, and literally would change the substantive definition of
+
+constitutional deprivation more “closely related t0” Bryan         a constitutional tort. Canton's “deliberate indifference” stan-
+                                                                   dard of municipal mental culpability already ensures that a
+County's deliberately indifferent decisionmaking tham exces-       municipality will have sufficient notice to provide it an
+
+sive force. Indeed, it was the extreme threat of precisely that    opportunity to avoid liability. Because of Canton, there may
+
+constitutional injury that made the County’s decisiems about       be some cases where a § 1983 plaintiff needs to introduce
+Burns “deliberately indifferent.” In sum, Jill Brow® estab-        evidence of prior similar deprivations in order to prove
+lished deliberately indifferent official municipal decisionmak-    municipal deliberate indifference to citizens’ constitutional
+                                                                   rights. But to require proof of “multiple incidents” as a matter
+ing that directly caused the most natural constitutional           of law, even in those cases where a plaintiff can otherwise
+deprivation imaginable under the circumstances. That ts
+municipal fault. In no way, shape, or form, is this @ case of      demonstrate that her constitutional injury directly resulted
+                                                                   from deliberately indifferent official actions taken by the
+respondeat superior.                                               municipality itself, is wholly arbitrary. In those cases — where
+
+      Stripped of its illusory federalism and responde@! supe-     the municipality has sufficient notice to avoid the injury and,
+rior concerns, this case is revealed as nothing mofe than a        consequently, sufficient notice to be deemed “deliberately
+                                                                   indifferent” — an unyielding “multiple incidents” requirement
+municipal desire for a “preference” — a preference supported       would free municipalities from their own municipal fault
+by neither statutory language, this Court’s precedent, Common
+law tort principles, or common sense. This preference would        rather than shield them from respondeat superior. And in
+be unavailable to natural “persons” in § 1983 litigation, just     “bad hiring” cases, it would mean that only post-employment
+as it is unavailable to any defendant — whether natura! person,    notice is relevant; pre-employment notice would not count, no
+private corporation, or municipal corporation — in amy other       matter how clearly it portends a particular constitutional
+
+tort law context. This “preference” would require plaintiffs to
+
+establish multiple constitutional torts (but only when suing
+
+municipalities and only when suing under § 1983!) This
+“multiple torts” requirement takes two forms: 1) multiple
+
+instances of municipal deliberate indifference, and 2) multiple
+incidents of similar constitutional deprivations.
+
+     First, Bryan County argues that it was only at fault once
+
+— it engaged in “bad hiring” and “bad training” oMly with
+respect to Officer Burns. This argument would mot only
+                                          12                                                                13
+
+deprivation. Canton has already answered this question in               Viewed in light of the historical background and legisla-
+“bad training” cases, by recognizing that municipal fault does    tive purposes of the Civil Rights Act of 1871, Bryan County's
+not depend on multiple incidents when the municipal training      federalism concerns are wholly illusory. As this Court recog-
+deficiency relates to those recurring constitutional obligations  nized in Patsy v. Board of Regents of Fla., 457 U.S. 496, 503
+— such as avoiding excessive force — that police officers will    (1982), “[t}he Civil Rights Act of 1871, along with the Four-
+certainly face. 489 U.S. at 390 n.10; see also 489 U.S. at 396    teenth Amendment it was enacted to enforce, were crucial
+(O'Connor, J., concurring in part). If municipalities inher-      ingredients in the basic alteration of our federal system
+ently are on notice of such recurring constitutional needs        accomplished during the Reconstruction Era.” The Fourteenth
+when training police officers, the same must be true when         Amendment was, of course, a direct restriction of state power,
+hiring those officers. And when Bryan County hired Officer        and it expressly empowered Congress “to enforce by appro-
+Burns, it had notice not only of those constitutional obliga-     priate legislation the provisions of this article.” In Ex parte
+tions regarding the use of force that confront police officers    Virginia, 100 U.S. 339, 346-47, 25 L.Ed. 676 (1880), the
+in recurring situations, it had notice that Burns was partic-     Supreme Court observed that the power given to Congress by
+ularly unfit to perform those obligations, at least without       the Fourteenth Amendment was, necessarily, the power to
+substantial training. This is simply not a case where proof of    enforce its prohibitions “against state action, however put
+multiple incidents is necessary to show municipal fault.          forth, whether that action be executive, legislative or judi-
+                                                                  cial.” And because the people of the States, by amending the
+                              ARGUMENT                            Constitution, so empowered Congress, laws passed in pur-
+                                                                  suance of that enforcement power constitute “no invasion of
+I. IMPOSING LIABILITY DESPITE MUNICIPAL                           state sovereignty.” /d. Section 1983 is just such a law: “[t}he
+     COMPLIANCE WITH STATE LAW IS EXPRESSLY                       very purpose of § 1983 was to interpose the federal courts
+     AUTHORIZED BY § 1983 AND IMPLICATES NO                       between the States and the people, as guardians of the peo-
+     FEDERALISM CONCERNS OTHER THAN THOSE                         ple’s federal rights.” Mitchum v. Foster, 407 U.S. 225, 242
+     SUBSUMED BY § 1983'S BASIC ALTERATION OF                     (1972). In examining the legislative history of § 1983's prede-
+     OUR FEDERAL SYSTEM.                                          cessor, this Court found three main aims: |) “it might, of
+                                                                  course, override certain kinds of state laws”; 2) “it provided a
+      This Court has never doubted that actions consistent with   remedy where state law was inadequate”; and 3) “it pro-
+                                                                  vide[d] a federal remedy where the state remedy, though
+state law are within the scope of § 1983; indeed, this Court      adequate in theory, was not available in practice.” Monroe,
+                                                                  365 U.S. at 173-174. Indeed, opponents of the legislation
+once considered whether the scope of § 1983 is limited to         voiced federalism concerns virtually identical to those voiced
+action taken consistently with state law. See Monroe v. Pape,     in Bryan County's brief: “It overrides the reserved powers of
+365 U.S. 167, 172 (1961). By imposing liability for federal
+constitutional violations caused by persons acting “under         the States,” and, it “absorb[s] the entire jurisdiction of the
+color of state law,” § 1983 expressly forecloses any argument
+that a municipality is insulated from liability simply because    States over their local and domestic affairs.” Jd. at 174.
+its actions are authorized by, or not inconsistent with, state
+law. Bryan County’s view stands § 1983 on its head —- a                 In essence, Bryan County’s federalism concerns are more
+citizen’s federal constitutional rights would become subser-      attributable to § 1983 itself than to the particular application
+vient to, and revocable at the whim of, rather than protected     of § 1983 to this case. Time and again, this Court has
+from, persons acting under color of state law.                    recognized the primacy of federal law in its § 1983 jurispru-
+                                                                  dence, even when doing so has authorized substantial federal
+                                         14                                                                           1S
+
+incursions into essentially state-oriented affairs. Relying on                    Bryan County's view of § 1983 would effectively
+the Supremacy Clause, this Court unanimously ruled that state               “repeal” it. A state could protect its governmental subdivi-
+law immunities are not relevant in § 1983 litigation because                sions from § 1983 liability simply by passing easy-to-meet
+they would frustrate the enforcement of federal law. Howlett                minimum standards at the state level that govern all the
+v. Rose, 496 U.S. 356, 375 (1990). Additionally, although the               typical activities subdivisions perform. So long as the munici-
+“exhaustion of state remedies” doctrine rests primarily on                  pality formally met state law minimum requirements - e.¢.,
+federal-state comity concerns, this Court has effectively sus-              hiring a police officer with a high school diploma and no
+pended that doctrine in the § 1983 context. Monroe, 365 U.S.                felony record — the governmental subdivision effectively
+at 183 (§ 1983 plaintiffs not required to exhaust state judicial
+remedies); Patsy, 457 U.S. at 516 (§ 1983 plaintiffs not                    would be insulated from § 1983 liability. A municipality
+required to exhaust state administrative remedies). This Court
+has even recognized that § 1983 authorizes federal “interfer-               literally could ignore an applicant's assertion during an inter-
+ence” with law suits being tried in state court. Mitchum v.                 view that, “I want to be a police officer because I enjoy
+Foster, 407 U.S. 225, 242 (1972) (federal courts may enjoin                 physical confrontations,” or “I love gun play,” or “I want to
+state court proceedings in § 1983 actions).                                 rough up some minorities,” so long as the candidate met the
+                                                                            state’s generic minimum requirements. Yet, from the time of
+      Each of the aforementioned cases involved federal-state               § 1983’s enactment until today, it has been beyond dispute
+comity concerns far more significant than a federal jury                    that state law minimums do not necessarily constitute suffi-
+finding fault with a County Sheriff's hiring decision, despite              cient protection of federal constitutional rights. Indeed,
+its accidental bare-bones compliance with generic state law                 § 1983 was designed to address just such disparities. Mit-
+minimums.'' Moreover, although we agree that § 1983 does                    chum, 407 U.S. at 242.
+not strip states of their authority to promulgate facially con-
+stitutional legislation, Jill Brown’s lawsuit neither challenges                  Recognizing that meeting state minimums does not insu-
+nor frustrates Oklahoma’s minimum officer qualifications.                   late municipalities from § 1983 liability is not to say that
+Indeed, unless Oklahoma state law mandates that all non-                    compliance with those minimums is wholly irrelevant to Can-
+felon applicants be hired, in which case even a brief interview             ton’s “deliberate indifference” standard. Yet, nowhere does
+of that “qualified” applicant would seemingly frustrate state               Bryan County contend that it was somehow prevented from
+law, § 1983's application to deliberately indifferent municipal             putting on evidence of those state law requirements or arguing
+hiring decisions provides a complement to state law. And that,              to the jury that meeting those requirements demonstrated the
+after all, was the primary purpose of § 1983 — to provide                   absence of “deliberate indifference.” Indeed, the record indi-
+federal protection of constitutional rights in situations where             cates otherwise. (E.g., J.A. 49-50, 72-73). The jury’s finding
+state law, either in theory or in practice, does not do the trick.          of deliberate indifference, however, indicates that the jury -
+Mitchum, 407 U.S. at 242; Monroe, 365 U.S. at 173-74.                       as was its prerogative — was more influenced by the specific
+                                                                            evidence surrounding Officer Burns’ particular unfitness for
+      '! Given Sheriff Moore's assertion that he did not fully read his     the job of police officer, than by the County's evidence that
+nephew's record due to its length, J.A. 115, and given his alleged          hiring Burns was not expressly precluded by generic state law
+unfamiliarity with the details of that record, id., it is extremely         minimums.
+disingenuous for Petitioner to argue that Sheriff Moore hired Burns in
+reliance on state laws that absolutely disqualified only felons. How could        Throughout its brief, Bryan County repeatedly mis-
+he have known that the record contained no felonies?                        characterizes the Fifth Circuit's opinion, and thereby mis-
+                                                                            characterizes the nature of the issue involved in this case. See
+                                                                            P. Br., p.15 (accusing the Fifth Circuit of “craft{ing] a mini-
+                                                                            mum hiring standard”); p.29 (implying that the Fifth Circuit
+                                         16                                                                                17
+
+held that Burns’ misdemeanors “precluded” his employment,                        Harris, 489 U.S. 378, 392 (1989), which is cited, at p.15, for
+thereby effectively permitting federal courts to “forbid” the                    the proposition that imposing municipal liability based on
+hiring of any applicant with a misdemeanor record), p.31 (the                    police hiring decisions would “engage the federal courts in an
+Fifth Circuit “substituted its own minimum hiring stan-                          endless exercise of second-guessing municipal [hiring] pro-
+dards”). An honest reading of the Fifth Circuit's opinion,                       grams.” But Petitioners have completely neglected to mention
+however, reveals that it neither crafted minimum federal hir-                    how Canton alleviated the problem of “endless federal court
+ing standards nor held that municipalities are precluded from                    second-guessing” — by requiring § 1983 plaintiffs to demon-
+hiring officers with a misdemeanor record. The only “stan-                       strate municipal deliberate indifference. And the federal dis-
+dards” applied by the Fifth Circuit were this Court's settled                    trict court in the present case required plaintiff to prove
+standards for § 1983 municipal liability; and all the Fifth                      deliberate indifference in support of both her “bad hiring” and
+Circuit “held” was that the evidence presented in this particu-                  “bad training” claims.
+lar case was sufficient for a jury to conclude that Sheriff
+Moore’s decision to hire Burns amounted to deliberate indif-                     Il. MUNICIPAL FAULT UNDER § 1983 CAN BE
+ference to citizens’ constitutional right to be free from exces-                        BASED ON A SINGLE OFFICIAL MUNICIPAL
+sive force. 67 F.3d at 1183-85. That holding is fact-specific,                          DECISION, MADE BY A POLICYMAKER WITHIN
+appropriately deferential to the jury’s resolution of conflicting                       HIS SPHERE OF POLICYMAKING AUTHORITY,
+evidence, and in no way erects rigid federal qualifications for                        SO LONG AS THAT MUNICIPAL DECISION IS
+state officers that “forbid” or “preclude” the hiring of all                            DELIBERATELY INDIFFERENT TO CITIZENS’
+officers who have committed misdemeanors.                                              CONSTITUTIONAL NEEDS AND DIRECTLY
+                                                                                       CAUSES THE PARTICULAR CONSTITUTIONAL
+      Finally, Bryan County repeatedly cites three cases in                            DEPRIVATION PORTENDED BY THE MUNICI- —
+support of its federalism argument, two of which have nothing                          PALITY’S DELIBERATE INDIFFERENCE.
+to do with this case.'? The third case is City of Canton v.
+                                                                                       When a non-policymaking municipal employee, such as a
+      '2 First, Bryan County relies heavily on U.S. v. Lopez, 115 S.Ct. 1624     police officer, deprives a citizen of her constitutional rights
+(1995), surely destined to become the citation of choice for any situation       and incurs § 1983 liability, that liability is not automatically
+where one’s client simply doesn’t like the implications of a federal law. The    imputed to the municipality via a theory of respondeat supe-
+problem with applying Lopez to § 1983 is that Lopez involved a federal law       rior. Monell, 436 U.S. at 691. In other words, the employee's
+passed pursuant to the Commerce Clause, id. at 1626, while the present           constitutional tort does not “belong” to the municipal
+case involves a federal law passed pursuant to Congress’ Fourteenth              employer simply because of the employer-employee relation-
+Amendment power. That distinction has not gone unnoticed in recent               ship. Instead, a § 1983 plaintiff must clearly demonstrate
+federalism circles. See Seminole Tribe of Florida v. Florida, 116 S.Ct. 1114     municipal fault — i.e., municipal responsibility for the consti-
+(1996). Second, Bryan County relies on Rizzo v. Goode, 423 U.S. 362              tutional tort committed by its employee. According to this
+(1976), where the Court held that a district court erred in granting an          Court’s rulings in Monell, Pembaur, and Canton, municipal
+injunctive order directing the Philadelphia Police Commissioner to draft “a      fault requires: |) a municipal “policy,” which means an offi-
+comprehensive program for dealing adequately with civilian complaints”           cial exercise of municipal power by the municipality, includ-
+to be formulated according to the district court's detailed “guidelines” for     ing an official decision by a municipal policymaker on a
+revising police manuals and rules of procedure. /d. at 369. Thus, Rizzo          matter within his final policymaking authority; 2) that the
+involves a district court's injunctive “takeover” of the internal operations of  municipality’s exercise of official municipal power evince,
+a city police department, readily distinguishable from a jury's imposition of    under the circumstances, a deliberate indifference to citizens’
+compensatory damages based on a finding of municipal fault.
+                                          18                                                                19
+
+constitutional rights; and 3) a direct causal connection          imposition of liability is consistent with Monell and Canton
+between the municipality's deliberately indifferent exercise of   and does not rest on respondeat superior. Then, Part III of the
+official municipal power and its employee's deprivation of        Argument will demonstrate that a requirement that plaintiffs,
+plaintiff's constitutional rights. See Monell, 436 U.S. at 694;   as a matter of law, always show multiple incidents involving
+Pembaur v. Cincinnati, 475 U.S. 469, 480 (1986); City of          excessive force, even in cases where municipal fault is other-
+                                                                  wise clearly established, amounts to nothing more than an
+Canton v. Harris, 489 U.S. 378, 388-391 (1989).                   arbitrary “every cop gets one free bite” rule.
+
+      These three requirements are hardly mystical — they               A. Municipal “Policy” — Official Action by the
+merely represent the three most basic requirements of either                   Municipality Itself.
+civil or criminal fault: 1) conduct, including an act or omis-
+sion; 2) culpable mental state, and 3) proximate causation of           It is well settled that an isolated exercise of municipal
+the injury. The point of this Court’s decisions in Monell and     power by a policymaking official acting within his sphere of
+Canton was to assure that those three fundamentals of fault       policymaking authority can constitute municipal action that
+were actually attributable to the municipality and not simply     properly gives rise to § 1983 municipal liability. Monell, 436
+thrust upon it due to the unexpected tortious conduct of an       U.S. at 694; Pembaur, 475 U.S. at 480-81. Therefore, Bryan
+employee and the legal fiction of respondeat superior. Thus,      County’s suggestion that municipal liability for faulty hiring
+Moneli’s “policy” requirement effectively requires municipal      requires the plaintiff to show a consistent or widespread
+conduct — i.e., an official exercise of municipal power; Can-     practice of faulty hiring is not only illogical (as it would
+ton’s “deliberate indifference” standard is the requisite         require her to prove the faulty hiring of officers who had
+municipal culpable mental state; and Canton’s requirement of      nothing to do with the deprivation of her constitutional
+a close causal connection between the municipality’s deliber-     rights), but rests on a view of Monell’s “policy” requirement
+ate indifference and its employee’s subsequent infliction of      that is completely divorced from its Monell foundations and,
+constitutional injury assures municipal causation. When these     consequently, a view that was expressly rejected by this Court
+three aspects of municipal fault are established — municipal      in Pembaur. 475 U.S. at 480-81.
+conduct, municipal culpable mental state, and municipal cau-
+sation of the constitutional injury — it is appropriate for the         Use of the term “policy,” or “official policy,” as a
+municipality, and not just its employee, to shoulder the blame    requirement for the imposition of municipal liability under
+for the constitutional deprivation suffered by plaintiff. This    § 1983 has its origins in Monell’s rejection of respondeat
+Court’s § 1983 jurisprudence requires plaintiffs to jump no       superior. 436 U.S. at 690-94. As the Court recognized later in
+additional hurdles. And to impose any further requirements        Pembaur, its statement of the conclusion in Monell “juxta-
+would not only be arbitrary in light of centuries-old principles  poses the policy requirement with imposing liability on the
+for attribution of fault, but would require a reading of Monell   basis of respondeat superior.” 475 U.S. at 480 n.8 (citing
+and Canton that is divorced from their primary source of          Monell, 436 U.S. at 694). “Thus, [t]he ‘official policy’
+legitimacy — i.e., ensuring that § 1983 municipal liability is    requirement was intended to distinguish acts of the munici-
+not based on respondeat superior.                                 pality from acts of employees of the municipality.” Pembaur,
+                                                                  at 479 (emphasis in original). The Court’s ruling in Monell
+      This section of the Argument (II.), by demonstrating that   ensured that municipal liability is restricted to action for
+plaintiff met existing Supreme Court requirements for § 1983      which the municipality is actually responsible. /d. at 479-80.
+municipal liability — municipal “policy,” municipal “deliber-
+ate indifference,” ard municipal “causation” of the constitu-     In essence, the Monell requirement ensures that there will be
+tional injury — will seveal a case of municipal fault, where the
+                                          20                                                                                21
+
+a municipal actus reus, so that municipal liability may only be                   surprisingly, Monell’s municipal action requirement may take
+predicated on acts that are acts “of the municipality” — i.e.,                    the form of a single municipal decision, made by a municipal
+“acts which the municipality has officially sanctioned or                         policymaker, and tailored to a particular situation. Pembaur,
+ordered.” /d. at 480. See also Canton, 489 U.S. at 394                            at 480-81. The Court in Pembaur explained that there was no
+(O'Connor, J., concurring in part) (emphasizing that munici-                      doubt that a municipality could be liable under § 1983 for a
+pal fault comes from “the acts or omissions of the city itself’)                  single decision by its legislative body. /d. at 480, citing Owen
+(emphasis in original). Thus, the municipal “policy” require-                     v. City of Independence, 445 U.S. 622 (1980); and Newport v.
+ment is significant precisely because, and only because, it
+ensures that municipalities are subject to liability only when                    Fact Concerts, Inc., 453 U.S. 247 (1981). And the Court in
+an official exercise of municipal power, by the municipality,
+causes a deprivation of constitutional rights.'> Not                              Monell expressly envisioned other non-legislative policymak-
+                                                                                  ing officials “whose acts or edicts may fairly be said to
+       'S It should be evident from the context in which the term “policy”        represent official policy.” Monell, 436 U.S. at 694. Thus, no
+was employed in Monell, as well as the Court's interpretation of “policy” in      matter whether municipal policymaking authority rests with
+Pembaur, that there is nothing magical about the term “policy.” That term         legislative officials, executive officials, or judicial officials, a
+has no basis in statutory text, and this Court has thus far avoided               single decision by the policymaker(s) ultimately in charge of
+interpreting it in such a way that it takes on a life of its own, cut loose from  that area of a municipality’s affairs is an action properly
+its “no respondeat superior’ moorings in Monell. Indeed, the closest              attributable to the municipality itself under Monell.
+analogy to “policy” found in the statutory text is the requirement that
+persons act “under color of [state] law, statute, ordinance, regulation,                Moreover, although “official policy” often refers to for-
+custom, or usage.” The Court in Monell expressly made this analogy when           mal rules that establish fixed plans of action to be taken
+it recognized that the statutory language plainly imposes liability on a          consistently and over time, the Court in Pembaur recognized
+government [i.e. “person”] that “under color of some official policy,”            that a government (or a governmental policymaker) fre-
+causes an employee to violate another's constitutional rights. 436 U.S., at       quently chooses a course of action tailored to a particular
+692 (emphasis added). This suggests that Monell saw the term “policy” as          situation and not intended to control decisions in later situa-
+little more than the state (or local) power or authority that a § 1983            tions. 475 U.S. at 481. According to the Court, “[i]f the
+defendant must act “under color of.” Of course, this Court has interpreted        decision to adopt that particular course of action is properly
+the “under color of state law” requirement to be virtually synonymous with        made by that government’s authorized decisionmakers, it
+the state action requirement. Lugar v. Edmonson Oil Co., 457 U.S. 922, 929        surely represents an act of official government ‘policy’ as that
+(1982). But all official activity, whether performed by the municipality          term is commonly understood.” Jd. Where such “decisions to
+itself, or by its employees, is clothed in “state action.” The key, then, to      adopt a particular course of action” are made by those who
+municipal liability under Monell, is who is acting under color of state law       establish municipal policy, Monell’s requirement of municipal
+(the municipality itself? or, merely a municipal employee who has no              fault is satisfied because “the municipality is equally respon-
+authority to act as the municipality?), not whether that action can fit some      sible whether that action is to be taken only once or to be
+made-up definition of “policy.” In other words, it is the requirement of          taken repeatedly.” Jd. To deny compensation to the victim of
+official action under color of state law by the municipality itself that avoids   such municipal fault would, according to Pembaur, be con-
+respondeat superior, and not whether that official action is an official          trary to the fundamental purpose of § 1983. /d.'*
+municipal “policy,” as opposed to an official municipal “act,” official
+municipal “decision,” official municipal “order,” “ruling,” “plan,” “edict,”            14 Even the dissenters in Pembaur did not quibble with the majority's
+“standard,” etc. See Monell, at 690 (“decision”) and 694 (“edicts or acts”).      conclusion that a single decision by a municipal policymaker within the
+                                                                                  scope of his policymaking authority may be an act that is sufficiently an act
+                                         22                                                                             23
+
+      The prevailing Pembaur view of Monell’s “policy”                           recurring situations with municipal decisions choosing a one-
+requirement makes good sense. It addresses the Monell con-                       time course of action tailored to a particular situation, Pem-
+cern about respondeat superior by ensuring the presence of a                     baur did no more than recognize that legislative power is
+municipal act rather than basing municipal fault solely on the                   occasionally tailored, executive power frequently tailored,
+conduct of non-policymaking municipal employees. It prop-                        and judicial power virtually always tailored, to situation-
+erly recognizes that governmental power is not vested solely                     specific matters. The Pembaur view therefore treats munici-
+in legislative bodies, because § 1983 protects persons from                      pal “persons” consistently with other § 1983 “persons,” not
+deprivations of constitutional rights taken under color of state                 only by rejecting respondeat superior and making liability
+law, “whether that action be executive, legislative, or judi-                    “personal”, but by imposing liability for one-time actions so
+                                                                                 long as those actions are under color of state law and subject
+cial.” Mitchum v. Foster, 407 U.S. 225, 242 (1972). By                           another to (or cause another to be subjected to) a constitu-
+equating municipal decisions designed to control common                          tional deprivation. And that is certain.y consistent with com-
+                                                                                 mon law tort principles that impose liability for a single
+of the municipality to support municipal fault. The dissent, however,            wrongful act that causes harm, so long as that wrongful act is
+essentially believed that a County Prosecutor's five-word response to a          attributable to the person being sued.
+single question over the phone lacked the dignity to be “official policy.”
+475 U.S. at 499 (Powell, J., dissenting). Although this may have read more             In the present case, Bryan County’s liability was prem-
+into Monell’s use of the word “policy” than intended, it is certainly true that  ised not merely on Officer Burns’ use of excessive force, but
+the Prosecutor’s “go in and get them” response to the Deputy Sheriffs in         rather on deliberately indifferent municipal acts that directly
+Pembaur did not involve the deliberative process that typically                  caused Jill Brown to be subjected to a deprivation of her
+characterizes an official municipal act, and was far short of the deliberative   constitutional right to be free from such force. Because that
+process normally employed by municipal policymakers when officially              deprivation of constitutional rights is fairly attributable to
+acting for the municipality (indeed, acting as the municipality) on matters      actions taken by the municipality itself, this case squarely
+such as hiring, firing, or training.                                             involves an “official policy” as that term was used in Monell
+                                                                                 and Pembaur.
+      More importantly, the dissenters emphasized that the Prosecutor’s “go
+in and get them,” although authorizing the forcible entry that was at the              Bryan County stipulated at trial that Sheriff Moore was
+heart of the Pembaur litigation, was advice that was consistent with federal     the County’s policymaker on matters of hiring and training
+constitutional law at the time. /d. at 492-96. The forcible entry was            police officers. J.A. 30. The County now claims, for the first
+unconstitutional only in lighf of a subsequent Supreme Court holding that        time in any court, that it never stipulated that Sheriff Moore
+was retroactively applied to the § 1983 suit in Pembaur. Id. at 492-93. It is,   was its “final” policymaker. P. Br., 19. This belated attempt to
+therefore, difficult to fault the Prosecutor’s advice. But it is important to    raise a dead issue depends on a revisionist view of the record.
+remember that Pembaur was decided three years before Canton imposed              Not only did the County stipulate that “[aJt all times relevant
+its deliberate indifference requirement. It is unquestionable that the           hereto, Defendant [Sheriff] Moore was the policymaker for
+Prosecutor’s “go in and get them” was not deliberately indifferent given the     Bryan County regarding the Sheriff’s Department,” J.A. 30,
+legal environment in which that decision was made. Thus, any harshness in        the County additionally took the position that its Board of
+the Pembaur result was attributable not to the absence of an official            County Commissioners “did not participate in any policy
+municipal act (or “policy”), but rather to the absence of any municipal          decisions with regard to the conduct and operation of the
+culpable mental state. The Court avoided respondeat superior, but                office of the Bryan County Sheriff.” J.A. 32. Thus, Sheriff
+arguably imposed “strict liability” (liability in the absence of a culpable      Moore was not merely a policymaker, but the policymaker on
+mental state). An application of Canton’s standard of mental culpability         matters of hiring and training officers. Moreover, the County
+would ameliorate that problem.
+                                          24                                                               25
+
+made no objection to the portion of the jury chafge that            undercut § 1983's primary purposes — deterrence of constitu-
+stated, “Sheriff B.J. Moore is an official whose acts cOMstitute    tional deprivations caused by those acting under color of state
+final, official policy of Bryan County, Oklahoma.” J-A. 122.        law, and compensation of the injured victims of those consti-
+The Fifth Circuit correctly found that Bryan County’s failure       tutional torts. Foreseeable constitutional torts that munici-
+                                                                    palities (or their policymakers) could readily avoid would go
+to object to that portion of the jury charge waived the issue.      undeterred and uncompensated. Such bizarre results go far
+                                                                    beyond Monell’s rejection of respondeat superior and, in
+67 F.3d at 1182 n.17. Bryan County never raised this dead           effect, throw the “constitutional tort baby” out with the
+                                                                    “respondeat superior bath water.”
+issue in its Petition for Writ of Certiorari, and it is simply too
+                                                                          Not only would Bryan County's view create an arbitrary
+late now to breathe life into it. Thus, Sheriff Moore § hiring      loophole to liability for some constitutional torts demonstra-
+                                                                    bly attributable to municipal fault, but it flies in the face of
+and training decisions were the decisions of the municipality       centuries-old tort principles. This Court has emphasized that
+                                                                    § 1983 creates a species of tort liability, Carey v. Piphus, 435
+itself on which municipal fault can properly be based. He was       U.S. 247, 253 (1978), and often interprets § 1983 in light of
+                                                                    those common law tort principles that governed suits against
+the County when acting in this area of County busin€SS. And         municipal corporations at the time of § 1983's passage. See,
+                                                                    e.g., Owen v. City of Independence, 445 U.S. 622, 638-643
+respondeat superior (“let the master answer”) is in "© Way          (1980). According to a leading nineteenth century treatise, “A
+                                                                    municipal corporation is liable to the same extent as an
+implicated by imposing municipal liability based on WFON8S          individual for any act done by the express authority of the
+perpetrated by the master himself in areas within the Master's      corporation, or a branch of its government, empowered to act
+                                                                    for it upon the subject to which the particular act relates... . ”
+domain.                                                             T. Shearman & A. Redfield, Negligence, § 120, p. 139 (1869).
+                                                                    Thus, municipal corporations were treated much like natural
+      Bryan County nevertheless argues that Sheriff Moore's         individuals, and liability could be based on a “particular act.”
+                                                                    Bryan County cannot point to a single principle of tort law
+deliberate choice to employ one bad apple cannot bé 4 “pol-         that would let a culpable defendant — whether a natural
+                                                                    individual or a corporate entity — set up a defense merely by
+icy” absent a decision to employ other similarly bad apples.        pleading, “But my culpable injurious acts were a deviation
+                                                                    from my typical behavior.” “I drove 70 mph through a school
+This argument not only contradicts Pembaur, it undercuts            zone with children present and killed one, but I don't usually
+                                                                    drive 70 mph through there.” “Our Board, despite its know!l-
+Monell’s holding that a municipality is a “person” subject to       edge that unwitting workers would be exposed to dangerously
+                                                                    high levels of radiation, authorized the plant to remain open,
+§ 1983 liability so long as there is municipal fault. Under         but it was a one-time deal.”'5
+
+Bryan County’s view, a municipality would have to bé @ least              'S Of course, a municipal decision to pin a badge on a lawless
+twice faulty before it could be regarded as liable. A «nunicipal    individual is much less a “one-time deal” than the aforementioned
+policymaker, as in this case, could deliberately pix! @ badge on    illustrations, because the public danger will be ongoing and indefinite. In
+
+a relative with a past history of violence and d*Stegard for the
+
+law, authorize him to make forcible arrests Prior t© FSSSSVENG
+
+any meaningful training, and avoid liabit#ty when that officer
+
+inevitably uses excessive force, so lor'8 4S the municipality's
+
+deliberate indifference was restric*®d to one bad apple. A
+school district could deliberately employ a known pedophile
+
+to be an elementary school seacher and, so long as hiring
+
+pedophiles was not custorfy practice, avoid responsibility
+
+for the teacher’s first (hat highly foreseeable) sexual assault
+of a child. When sch deliberately indifferent municipal
+
+actions subject citizens to a constitutional deprivation
+
+(indeed, the ex~*t deprivation one would expect given the
+extreme risk consciously taken), there is clearly municipal
+
+ fault. To n«vertheless let the municipality off the hook would
+                                       26                                                                               27
+                                                                              the specific duties of specific officers, so may it vary accord-
+      This Court’s opinion in Canton expressly envisions                      ing to the specific characteristics of an officer. The nature and
+municipal liability based on one poorly trained employee, so                  degree of training needed by a rookie cop might vary from
+long as that poor training is both the result of deliberate                   that needed by a veteran who is simply switching duties. Even
+indifference and the cause of the constitutional deprivation.                 two rookie officers may have different needs depending on
+489 U.S. at 387-391. When first characterizing the issue and                  municipal awareness of background or personality traits (e.¢.,
+its resolution, the Court recognized that there are “limited
+circumstances” where “the city is liable if the employee has                 hot-headedness, aggressiveness, timidity). Just like training,
+not been adequately trained and the constitutional wrong has
+been caused by that failure to train. /d. at 387 (emphasis                    the adequacy of municipal decisions regarding employment
+added). One of those limited circumstances is present where                   status may depend on the particular officer as well as that
+“a failure to train reflects a ‘deliberate’ or ‘conscious’ choice            officer's particular duties. Whether to hire, whether to termi-
+by a municipality — a ‘policy’ as defined by our prior cases,”               nate, whether to suspend, whether supervision is necessary
+id. at 389, and that conscious choice is “deliberately indif-                and to what degree, whether a probationary period with lim-
+ferent” to citizens’ constitutional rights. /d. In defining delib-
+erate indifference, the Court explained, at 390 (emphasis                    ited duties is required, are necessarily case-specific deter-
+added),
+                                                                             minations that simply exceed the reach of rigid formulas.'®
+       it may happen that in light of the duties assigned to                       Not only are case-specific decisions necessarily a promi-
+       specific officers or employees the need for more or
+       different training is so obvious, and the inadequacy                  nent feature of a municipality's approach to hiring and train-
+       so likely to result in the violation of constitutional                ing, but that is particularly true in small counties where there
+       rights, that the policymakers of the city can reason-                 may be just a handful of officers, no two of which are
+       ably be said to have been deliberately indifferent to                 similarly situated in terms of experience, duties, and behav-
+       the need.                                                             ior. County “policy” in such places will be exercised, vir-
+                                                                             tually out of necessity, in a case-by-case fashion. Requiring
+      The Court, therefore, expressly recognized that the                    anything akin to standard operating procedure in order to
+nature and degree of training required to avoid deliberate                  establish municipal fault is not only illogical given the inher-
+indifference may vary according to the particular duties of                 ent case-specific nature of many important municipal deci-
+particular officers. Depending on whether the municipality is               sions, but it would effectively permit policymakers to conduct
+training an undercover officer, an investigator, a traffic offi-            deliberately indifferent ad hoc experiments subjecting labora-
+cer, a jailer, or a new desk sergeant, meeting the need will                tory-rat-like citizens to the foreseeable shock of a constitu-
+require different types of training tailored to the officer's               tional deprivation. As long as no two experiments are the
+duties. And just as “adequate training” may vary according to               same, and each experiment is terminated after shocking its
+
+other words, hiring a lawless individual has consequences not just on the         oe Indeed, blind pursuit ofsome pre-set standard operating procedure
+day employment begins, but every day thereafter unul employment ts
+terminated. In any event, to require that a final policymaker's deliberate  municipal policymakers would inevitably result in decisionmaking that is
+decision on an important matter within his sphere of authority must itself
+set down standard operating procedure, or create some ongoing condition,    either too general ortoo simplistic, and would surely constitute deliberate
+quite clearly overrules Pembaur’s common sense view of how official
+goverpon wermiseexnerctised.                                                indifference inits own right. Thus, itisironic that Bryan County so
+
+                                                                            forcefully argued (and still argues) its adherence to state law minimum
+
+                                                                            standard operating procedure that Bryan County claims isa necessary basis
+
+                                                                            for municipal fault.
+                                            28                                                                  29
+ first victim, there can be no municipal liability under the view
+ espoused by Bryan County.                                           been violated by a municipal employee, a § 1983 plaintiff will
+                                                                     be able to point to something that the municipality “could
+        On the other hand, liability for Case-specific municipal     have done” to prevent the incident. See Canton, 489 U.S. at
+ exercises of power poses no threat of undeserved municipal          392. If a plaintiff could recover from a municipality merely
+ liability. Municipalities are not responsible for a policy-         by showing that a police officer committed a constitutional
+ maker's decisions on matters that fall outside his policymak-       tort that could have been avoided had the municipality
+ ing authority. A Sheriff may be the “master” on matters             imposed better training and supervision, such a lax standard
+ central to law enforcement, but not the “master” regarding          of fault would practically resurrect the respondeat superior
+ other exercises of discretion, such as the firing of a secretary,   theory of liability rejected in Monell. Id. To avoid such de
+ or budgetary decisions regarding the number of officers or the     facto respondeat superior, the Court beefed up the municipal
+ amount of sophisticated equipment the County can afford.            fault requirement in § 1983 “bad training” suits, holding that
+ The Sheriff's discretionary decisions on these latter matters.      such claims yield municipal liability only when the munici-
+ if truly outside the Sheriff's sphere of authority to act as the    pality’s failure to train reflects deliberate indifference to the
+ County, will not be attributable to the County. Moreover, the       constitutional rights of those persons with whom the police
+ Sheriff"s acts and omissions are not attributable to the County     will come into contact. Canton, at 388, 392. The munici-
+ unless those acts or omissions reflect a conscious exercise of      pality’s deliberate indifference, or the deliberate indifference
+ official municipal power. Thus, if the Sheriff decides to run a    of a municipal policymaker whose sphere of authority
+caution light at a dangerous intersection on his way to or from      includes hiring and training certain municipal employees,
+ work, that decision is certainly not a municipal decision.         ensures that shortcomings in hiring or training are sufficiently
+ Indeed, even when a final policymaker is unquestionably            attributable to municipal culpability. Jd. at 389. (Although
+engaged in a conscious exercise of municipal power on a             Canton is a “bad training” case, its requirement tha’ $ 1983
+matter over which he is the municipality's “master,” a case-        plaintiffs prove municipal deliberate indifference in order to
+specific decision will only be an adequate basis for municipal      establish municipal fault logically applies to “bad hiring”
+fault if the decision was deliberately indifferent under the        cases.)'’ With respect to a failure to urain, the Court in Canton
+circumstances and directly caused the constitutional depriva-
+tion. Thus, if the policymaker has done a generally adequate               7 It could, however, be argued that “bad hiring” claims do not pose
+job (for example, in hiring or training), it will take more than    the same problems as “bad training” claims and, therefore, do not require a
+an accidental or even negligent slip-up to create municipal         showofidelnibegrate indifference. A “bad training” claim can always be
+fault. And even when there is municipal deliberate indif-           fashioned so as to create a direct causal connection between the alleged
+ference, it will be exceedingly difficult to prove causation        failure to adequately train (or adequately supervisea)nd the employee's
+except in those rare circumstances, such as the present case,       deprivation of plaintiff's constitutional rights. (E.g., “Your police officers
+where the municipality is deliberately indifferent specifically     did not recognize the difference between diabetic shock and drunkenness?
+in regard to the particular constitutional deprivation alleged.     You should have trained them specifically regarding those distinctions,
+                                                                    therefore, the failure to do so proximately caused the deprivation of life”)
+      B. Municipal Deliberate Indifference.                         It is that ease of manufacturing a direct causal connection between a
+      Canton’s “deliberate indifference” standard is also a by-     municipal failure to train and an employee's subsequent deprivation that
+product of Monell’s rejection of respondeat superior. In vir-       poses the threat of de facto respondeat superior. On the other hand, itis
+tually every case where a person's constitutional rights have       very difficult tofashion a bad hiring claim so as tocreate that direct causal
+                                                                    connection; “but for cause” will usually be present in a bad hiring claim,
+                                           30                                         31
+
+ explained that its standard is met when “the need for more or                        reveals that the present case involves the very “certainty” the
+ different training is so obvious, and the inadequacy so likely
+ to result in the violation of constitutional rights, that the                        Court was talking about. See 489 U.S. at 390 n.10. According
+ policymakers of the city can reasonably be said to have been
+ deliberately indifferent to the need.” /d. at 390. That is                           to the Court, because policymakers “know to a moral cer-
+ precisely the degree of municipal fault that the District Court
+ required Jill Brown to prove in support of both her “bad                             tainty that police officers will have to make judgments about
+ hiring” and “bad training” theories of § 1983 municipal lia-
+ bility, J.A. 123; and she met those heightened proof require-                        using force, the need to train is “so obvious” that failure to do
+ ments, winning the jury verdict on both theories. J.A. 135.
+                                                                                      so can constitute “deliberate indifference” to citizens’ consti-
+       Bryan County’s argument that Canton requires plaintiffs
+to demonstrate “to a moral certainty” that the municipal                              tutional rights. /d. Indeed, the Court used this illustration to
+actions complained of would lead to a constitutional depriva-
+tion is very misleading. First, a “certainty” that a deprivation                a ee  demonstrate when a municipality has notice of the public’s
+will occur is arguably a higher standard than “deliberate
+indifference” to the constitutional rights of citizens with                           constitutional needs even prior to a pattern of constitutional
+whom the officer will come into contact.'* Second, the dis-
+cussion in which the Court talks about “moral certainty”                              deprivations. /d. This “moral certainty” that police will have
+
+but proximate cause will exist only in those rare cases, like the present one,        to make judgments about the use of force in recurring situa-
+where the municipality has pre-employment notice of some specific
+tendency to commit a particular deprivation, and it is that particular                tions is just as “certain” at the time municipal policymakers
+deprivation that occurs. (E.g., note the absurdity of arguing, in the above
+parenthetical illustration, “You should have hired only those officers who            are hiring officers as when they are training (or not training)
+are able to recognize the difference between diabetic shock and
+drunkenness.”’).                                                                      them. Therefore, hiring in disregard of that “moral certainty”
+
+       18 While “deliberate indifference” is a classic statement of                   is surely as “deliberately indifferent” to citizens’ constitu-
+recklessness, “certainty” would virtually require a plaintiff to demonstrate
+that a municipality intended by its official municipal actions to cause               tional rights as a failure to train for those situations. In any
+constitutional deprivations. That would have been quite an overreaction to            event, Jill Brown proved that Bryan County's final policy-
+the Canton concern that “failure to train” claims, unless accompanied by
+proof of a culpable municipal mental state, could result in de facto                  maker on matters of hiring and training police officers was
+respondeat superior.
+                                                                                      deliberately indifferent in both respects — his decision to hire
+      Even if “deliberate indifference” and “moral certainty” somehow                 Burns despite a lengthy record revealing a general disregard
+describe the same standard, the judge's instructions required the jury to             for law and order; and his decision to authorize Burns to make
+find “deliberate indifference” as defined in Canton's text. J.A. 123. Only if         forcible arrests prior to receiving any meaningful training.
+the Supreme Court was faking everybody out with its repeated references
+to “deliberate indifference,” and hiding the real standard (“moral                          Finally, Bryan County argues that the municipality can-
+certainty’’) in a footnote, does Bryan County's argurnent have any weight.            not be deliberately indifferent regarding its official hiring and
+                                                                                      training decisions regarding one officer. But, as previously
+                                                                                      shown, Canton expressly envisioned municipal liability based
+                                                                                      on the inadequate training of specific officers. Indeed, by
+                                                                                      giving examples of when the unsatisfactory training of a
+                                                                                      particular officer will not suffice to impose liability on a
+                                                                                      municipality, 489 U.S. at 390-91, the Court implicitly demon-
+                                                                                      strated when the unsatisfactory training (or hiring) of a partic-
+                                                                                      ular officer will suffice. According to Canton, if a poorly
+                                                                                      trained officer accidentally or negligently slips through the
+                                                                                      cracks of a sound training program, the requisite municipal
+                                                                                      fault (deliberate indifference) is not present. /d. Additionally,
+                                                                                      even when more or better training of the officer would have
+                                                                                      avoided the injury, if his training was nevertheless adequate
+                                                                                      to enable him “to respond properly to the usual and recurring
+                                                                                      situations with which officers must deal,” id. at 391, then,
+                                          32                                                                              33
+
+once again, there is clearly no municipal deliberate indif-                     the injury,” ” “actually cause” the injury, or be the “moving
+ference. And even if an officer is inadequately trained, the                    force behind the constitutional violation.” /d. at 389, 391. See
+injury may not have been avoidable even with good train-                        also Oklahoma City v. Tuttle, 471 U.S. 808, 823 (1985)
+ing,'? or may not be “closely related to” the training defi-                    (“affirmative link”). Plainly, regardless of choice of terminol-
+ciency. /d. Not only are these illustrations cast in terms of a                 ogy, “closely related to,” “moving force,” and “affirmative
+singular officer or employee, but they describe situations                      link” are all references to the traditional tort standard of
+patently unlike the present case. By proving that Bryan
+County’s decision to hire Burns, and its subsequent decision                    proximate cause. Because § 1983 was intended to create a
+to authorize Burns to make forcible arrests with virtually no
+training, were deliberately indifferent to the constitutional                   species of tort liability, Carey v. Piphus, 435 U.S. 247, 253
+duties faced by police officers in recurring situations, Jill                   (1978), this Court has emphasized that § 1983 “should be read
+Brown plainly demonstrated that Burns did not merely “acci-                     against the background of tort liability that makes [defen-
+dentally or negligently” slip through the cracks of “adequate”                  dants}] responsible for the natural consequences of [their]
+County hiring and training decisions. The deliberate indif-                     actions.” Monroe v. Pape, 365 U.S. at 187. At the time of
+ference, of course, shows less than “adequacy” and more than                    Congress’ passage of the Civil Rights Act of 1871, the practi-
+“negligence.” Nor is this a case where the hiring and training                  cal construction of “proximate cause” by the courts was “a
+was less than perfect but nevertheless adequate to enable a                     cause from which a man of ordinary experience and sagacity
+proper response “to the usual and recurring situations with                     could foresee that the result might probably ensue.” T. Shear-
+which officers must deal.” And finally, the next section (II.C.)                man & A. Redfield, Negligence, § 10, p.11 (2d Ed. 1870).
+will demonstrate that the constitutional deprivations suffered
+by Jill Brown were “closely related to” the identified hiring                         The present case does not present difficult causation
+and training inadequacies. Therefore, this is precisely the type                issues. As the Fifth Circuit ruled, there was sufficient evi-
+of case where Canton envisioned municipal liability for con-                    dence in support of the jury finding that the municipal policy-
+stitutional deprivations caused by the deliberately indifferent                 maker's deliberately indifferent decisions directly caused the
+municipal training (or hiring) of a particular officer.                         deprivation of Jill Brown’s constitutional rights. 67 F.3d at
+                                                                                1185. A Sheriff (the official County policymaker on matters
+      C. Municipal Causation.                                                   of hiring and training police officers) decides to hire a rela-
+                                                                                tive with a lengthy criminal record, and admits that he neither
+      To establish municipal liability, § 1983 plaintiffs must, of              read the record carefully (“it was real long”), nor made any
+course, demonstrate that the constitutional deprivation suf-                    further inquiry; he gives this “lawless” individual a badge,
+fered was caused by the municipality’s deliberately indif-                      and authorizes him to make forcible arrests prior to receiving
+ferent official municipal acts or omissions. Canton, at 391. In                 any formal departmental training or any other meaningful
+explaining this causation requirement, this Court stated that                   training. Whether this Court’s description of causation in
+the identified municipal deficiency must be “closely related to                 Canton refers to “proximate cause” or some previously
+                                                                                unknown version of causation that would uniquely apply to
+       19 Given the deliberately indifferent municipal decision to hire Burns,  municipal liability under § 1983, it is sheer torture of the
+it certainly would have done Bryan County little good to argue that Burns       English language to argue that the wrongly employed and
+was so prone to violence that even good training could not have avoided his     poorly trained officer’s use of excessive force against Jill
+use of excessive force on Jill Brown.                                           Brown was somehow not “closely related to,” “directly
+                                                                                caused by,” “affirmatively linked to,” a “foreseeable result
+                                                                                of”, or a “natural consequence of” the policymaker’s deliber-
+                                                                                ately indifferent wrongs.
+                                          34                                                                35
+
+      This is plainly a case where the County's deliberately      terminate employment, to suspend and/or rehabilitate the offi-
+indifferent exercises of official County power were the “mov-     cer, or to provide further training and supervision tailored to
+ing force” of the constitutional deprivations. Indeed, the        the particular officer’s problem. And in the absence of notice
+extreme risk that an applicant with a lengthy record of law-      triggering such a municipal duty, the “first victim” could not
+lessness will use excessive force against a citizen was pre-      successfully argue that the municipality’s failure to take
+cisely the risk that made the County’s decision to hire him       remedial steps was a conscious municipal decision or “pol-
+“deliberately indifferent” to the constitutional rights of those  icy,” much less that the municipal omission was deliberately
+citizens with whom the officer would come into contact. This      indifferent to the need, or that the municipal inaction was the
+is not a case where the municipality hired an individual with a   proximate cause of the constitutional injury (given the offi-
+propensity toward violence who unforeseeably enforced the         cer’s unforeseeable intervening use of excessive force).
+law in a racially discriminatory manner. Nor is this a case of
+employing a former member of the KKK who unforeseeably                  But in a case like the present one, where the municipality
+molests a juvenile detainee. Nor is this a case of employing      had notice of the officer's character deficiency prior to
+someone with a history of sexual assaults who, upon being         employment, and where that character deficiency (propensity
+delegated the discretion to hire and fire, unforeseeably fires    toward violence and general disregard for the law) is one that
+someone based on protected First Amendment activity.              especially portends a likely use of excessive force (the classic
+Rather, this is a case where the constitutional deprivation       product of a police officer's violent or lawless disregard for
+perpetrated by the municipal employee is precisely the depri-     another’s legal rights), then both the municipal obligation and
+vation most highly risked by the municipality’s deliberate        the public need are obvious long before the officer uncon-
+indifference.                                                     stitutionally injures his first victim. No matter whether the
+                                                                  municipality’s “notice” comes from pre-employment behav-
+Ill. PROVING MULTIPLE INCIDENTS OF EXCES-                         ior, post-employment off-duty behavior, or a post-employ-
+       SIVE POLICE FORCE IS NOT AN ELEMENT -                      ment deprivation, the municipality's obligation to take
+        MUCH LESS AN INDISPENSABLE ELEMENT -                      corrective measures surely must arise at the time it is put on
+       OF MUNICIPAL FAULT.                                        notice. Certainly not before, but certainly not at some arbi-
+                                                                  trary later time.
+      A victim of excessive police force who has vividly dem-
+onstrated that her constitutional injury proximately resulted           A “multiple incidents” requirement is not only wholly
+from a deliberately indifferent exercise of official municipal    unnecessary to establish municipal fault in cases such as Jill
+power should not, additionally, have to demonstrate that other    Brown’s, it sorely lacks even the barest legal foundation. It
+persons not party to her lawsuit have suffered similar past       would blatantly rewrite § 1983's express language, effect a
+deprivations. Such a requirement would be wholly arbitrary,       sea-change in the substantive definition of a constitutional
+and contribute not one iota to plaintiff's demonstration of       tort, and contradict a wealth of Supreme Court precedent.
+municipal fault. This is not a case where a police officer's
+propensity for employing excessive force came to the atten-             A. The Language of § 1983 Plainly Imposes Liability
+tion of municipal policymakers only after his first use of                    for Causing a Single Deprivation.
+excessive force. In such a case, the municipality would have
+no “notice” of that officer's propensity until after that first         Bryan County’s suggestion that victims of constitutional
+incident. Consequently, there would be no municipal duty to       torts must demonstrate multiple incidents of similar depriva-
+                                                                  tions in order to recover from a municipality flies directly in
+                                                                  the face of § 1983’s plain language, and would effectively
+                                          36                                                                                             37
+
+rewrite the statute to impose different requirements for suing                                as multiple incidents of similar deprivations — would engraft
+a municipality-“person” and suing other “persons.” As previ-                                  an artificial and extra-statutory barrier to municipal liability
+ously noted, one of the purposes of Monell’s rejection of                   ae melDeea,tee. t on top of the already imposing barriers erected in Monell and
+respondeat superior was to treat municipal-“persons” the                                      Canton to protect municipalities from undeserved liability.
+same as other “persons,” who must themselves, under color of
+state law, subject others (or cause others to be subjected) to a                                     The language in the controlling § 1983 municipal lia-
+constitutional deprivation. Monell, 436 U.S. at 691-92. Noth-                                 bility cases, like the statutory language, expressly envisions
+ing in Monell, and nothing in the language, purposes, or                                      municipal liability — so long as municipal fault is established
+legislative history of § 1983 supports according municipality-                                in accordance with Monell and Canton — for a single constitu-
+“persons” a preferred position over other “persons” defending                                 tional violation perpetrated by one of its employees. See, e.g.,
+§ 1983 suits. And it is beyond dispute that natural “persons,”                                Monell, 436 U.S. at 694 (municipality is responsible when it
+such as Officer Burns, need only cause a single deprivation in                                “inflicts the injury” or is “the moving force of the constitu-
+order to incur liability.                                                                       tional violation.” (emphasis added); Canton at 389 (“the con-
+                                                                                              stitutional violation” and “a constitutional deprivation”), and
+      The legislative history of § 1983 indicates that Congress                               at 391 (deficiency in training must “be closely related to the
+specifically intended a liberal and beneficent construction of                                ultimate injury”) (emphasis added); Oklahoma City v. Tuttle,
+§ 1983. Monell, at 684.29 Not that a liberal construction is                                  471 U.S. 808, 823 (“there must be an affirmative link between
+necessary, because the language of § 1983 is plain — it                                       the policy and the particular violation alleged”) and at 824
+authorizes recovery for a “deprivation” (singular). 42 U.S.C.                                   (“the incident,” “the constitutional deprivation”) (emphasis
+§ 1983. And a municipality bears fault for that singular                                        added).
+deprivation so long as the plaintiff can establish municipal
+action (under Monell and Pembaur), municipal deliberate                                              All of the preceding references in the singular to “inci-
+indifference (under Canton), and municipal causation (also                                    dent,” “vioiat:on,” “deprivation,” and “injury” are surely not
+under Canton). To impose any additional requirement — such                                    an accident. As noted previously, there may be cases where
+                                                                                              multiple incidents involving a particular deprivation are nec-
+      20 Representative Shellabarger, the first Congressman to explain the                    essary to trigger the municipal notice that creates a municipal!
+function of § | of the Civil Rights Act, described how the courts should                      obligation to take remedial action, such that the failure to do
+interpret it:                                                                                 so constitutes deliberate indifference, foreseeably resulting in
+                                                                                              a later actionable similar deprivation. And, of course, where
+       This act is remedial, and in aid of the preservation of human                          there is no affirmative exercise of municipal power — no
+       liberty and human rights. All statutes and constitutional                              conscious, deliberate municipal decision to take some action
+       provisions authorizing such statutes are liberally and                                 or not take some action — a plaintiff’s theory of liability will
+       beneficently construed. It would be most strange and, in                               normally be based on a municipal “custom” of tolerating
+       civilized law, monstrous were this not the rule of interpretation.                     constitutional deprivations or, at least, acquiescing in a cata-
+       As has been again and again decided by your own Supreme                                lytic environment conducive to constitutional deprivations.
+       Court of the United States, and everywhere else there is wise                          Such a theory will, of course, require proof of widespread
+       judicial interpretation, the largest latitude consistent with the                      practices or multiple incidents of constitutional deprivations.
+       words employed is uniformly given in construing such statutes                          Nevertheless, that some theories of municipal fault in some
+       and constitutional provisions as are meant to protect and                              cases will require proof of multiple incidents hardly supports
+       defend and give remedies for their wrongs to all the people.                           a conclusion that plaintiffs must, as a matter of law, always
+                                                                                              prove prior incidents of excessive force in order to establish
+Cong. Globe, 42d Cong. Ist Sess., App. 68 (1871).
+                                          38                                  en                                            39
+
+municipal liability.2! Indeed, such a “multiple incidents”                        law, that plaintiffs prove prior similar defendant-caused inju-
+requirement would undermine § 1983's goal of deterring                            ries suffered by other individuals. Indeed, the primary pur-
+avoidable injury-producing municipal deliberate indifference,                     pose of tort law is to compensate the victim of a civil wrong
+and ensure that many deserving plaintiffs go uncompensated,                       for the damage suffered, at the expense of the wrongdoer.
+even when they can readily demonstrate municipal fault with-
+out pointing to “multiple incidents.”                                             Prosser & Keeton, Torts § 2, p.7 (Sth ed. 1984). Given that
+
+      B. A Requirement That § 1983 Plaintiffs Always                              essential underlying policy of tort law, it is hardly surprising
+             Prove “Multiple Incidents” Would Change the                          that no case or principle can be found requiring wrongly
+            Substantive Definition of a Constitutional Tort.                      injured plaintiffs to establish additional injuries, at other
+                                                                                  times, in other places, to other persons.2? A victim of a
+      This Court has often emphasized that Congress intended                      reckless driver may recover for her injuries without pointing
+§ 1983 to create a species of tort liability. E.g., Carey v.                      to other victims of defendant's prior reckless driving inci-
+Piphus, 435 U.S. 247, 253 (1978). Therefore, § 1983 should                        dents. A victim of an explosion caused by reckless corporate
+be interpreted against the background of tort liability, Monroe                   activity, such as a Board of Directors’ decision to keep a plant
+                                                                                  open despite knowledge of a dangerous gas leak, need not
+v. Pape, 365 U.S. 167, 187 (1961), and in harmony with                            prove that there have been other victims of other explosions
+                                                                                  caused by other gas leaks consciously ignored by other reck-
+general tort defenses. /mbler v. Pachtman, 424 U.S. 409, 418                      less Board decisions.?° Similarly, victims of municipal delib-
+(1976). Thus, in Owen v. City of Independence, 445 U.S. 622,                      erate indifference should not have to uncover other prior
+638-643 (1980), the Court denied municipalities qualified                         victims of municipal deliberate indifference.
+immunity based on the good faith of their agents after deter-
+mining that such a defense was unavailable at common law in                             The common law doctrine most resembling Bryan
+damage suits against municipal corporations.                                      County's “multiple incidents” argument is the archaic “every
+                                                                                  dog gets one free bite.” Of course, in the present case, Bryan
+      Just as the Court in Owen “searche[d] in vain” for men-                     County was not dealing with a police dog, but a human being
+tion of municipal qualified imraunity, id. at 641, so would the                   who had done a sufficient amount of living to accumulate a
+Court today search in vain for a common law tort principle —                      track record (indeed, a lengthy one) of aggressive and lawless
+whether the defendant is a natural person, a private corpora-                     behavior. Even with dogs at common law, there was an excep-
+tion, or a municipal corporation — that requires, as a matter of                  tion to the “one-bite” rule when the owner had knowledge of
+                                                                                  a dangerous propensity unique to that particular animal. See,
+      2! An absolute requirement of “multiple” incidents also contravenes         e.g., Rider v. White, 65 N.Y. 54 (1875); Van Leuven v. Lyke, |
+the settled Monell-Pembaur doctrine that official municipal action — even if      N.Y. 515 (Ct. App. N.Y. 1848). And by the time Congress
+not “customary” — will support municipal fault. Quite clearly, an official        passed the Civil Rights Act of 1871, it was settled that acts of
+municipal decision tailored to a specific matter may proximately cause a          aggression brought to the notice of the owner need not be
+non-“customary” constitutional tort. If that official municipal action was
+executed with deliberate indifference and proximately caused a                          22 It is also not surprising that plaintiffs have never been legally
+constitutional deprivation, there is obviously municipal fault under Canton.      required to establish two wrongs, or a pattern, series, or standard practice
+To require that the constitutional deprivation itself be “customary” would        of, similar wrongs. See I1.A. of Argument.
+take a type of municipal fault that Monell, Pembaur, and Canton welcomed
+into § 1983's front door, and kick it out the back.                                     23 Nor could the Board successfully argue lack of notice prior to the
+                                                                                  first explosion.
+                                       40                                           41
+
+precisely similar to that which was the basis of the suit;                          injures a person, it is hardly surprising that the body of tort
+rather, it was necessary only that the facts brought to the                         law — whether in this century or the last — provides no defense
+owner's notice “should indicate a disposition to commit inju-                       for the owner to claim, “But it was the only bad dog in my
+ries substantially like those which form the basis of the claim                     whole pack,” or, “But it was the first bad incident since |
+against the owner.” T. Shearman & A. Redfield, Negligence,                          bought him.” Neither should this Court reshape the definition
+§ 190, p.231 (2d Ed. 1870).7* Indeed, corporations that kept                        of § 1983's constitutional tort to give municipalities a sim-
+dogs were equally chargeable with notice of vicious propen-                         ilarly arbitrary defense.
+sity as an individual. Barrett v. Malden R. Co., 3 Allen, 101.
+In the present case, the municipality had notice of the very                        This Court, in both Monell and Owen, relied heavily on
+character deficiencies (aggressive behavior, general disregard
+for the law) that are particularly predictive of excessive force.                   common law in deciding to treat municipal corporations like
+That notice of such character deficiencies occurred pre-
+employment gave the municipality the advantage of an option                         private corporations and natural persons. Monell, at 687 (“by
+— superior to training and supervision — that would have
+eliminated the known public risk: “Don’t give him a badge!”                         1871, it was well understood that corporations should be
+But even given the decision to employ him, the municipality's
+deliberate indifference was magnified by its failure to provide                     treated as natural persons for virtually all purposes of consti-
+or require any meaningful training prior to setting him loose
+on the public authorized to make forcible arrests. It is as if an                   tutional and statutory analysis”); Owen, at 640 (“as a general
+individual purchased a full grown dog, aware of its aggressive
+past behavior and the lack of success of prior efforts at                           rule, it was understood that a municipality's tort liability in
+rehabilitation, and then, instead of keeping that dog on a short
+leash during a probationary period involving close supervi-                         damages was identical to that of private corporations and
+sion until the successful completion of obedience school, set
+that dog loose upon the public, specifically authorizing public                     individuals”). Just as private corporations and natural persons
+contact. When that dog subsequently attacks and severely
+                                                                                    have never enjoyed a “single incident” defense, neither have
+      24 The most probable reason that a formal “one-bite” rule gave way
+to a less arbitrary “knowledge of propensities” view is the amount of court         municipal corporations, as implicitly evidenced by a leading
+time spent arguing over what constituted a prior similar bite. Is biting
+another animal like biting a person? Is biting cows like biting sheep? See          nineteenth century treatise: “A municipal corporation is liable
+Mason v. Keeling (12 Modern 332) (1700) (Gould, J.). Thus, the
+arbitrariness of an “every ‘law dog’ gets one bite” rule would hardly be            to the same extent as an individual for any act done by the
+offset by ease of application. One can foresee municipalities creatively
+searching for distinctions of previous officer “bites.” Is using excessive          express authority of the corporation, or of a branch of its
+force against an uncooperative arrestee sufficiently like an unprovoked use
+of excessive force against a drunken, yet cooperative, driver? Is the use of        government, empowered to act for it upon the subject to
+excessive force in a high stress drug raid sufficiently like a use of excessive
+force during a white collar fraud sting operation?                                  which the particular act relates... . ” T. Shearman & A.
+
+                                                                                 :  Redfield, Negligence § 120, p.139 (1869) (emphasis added).
+
+                                                                                 ;  A review of nineteenth century cases will show no dearth of
+
+                                                                                    municipal liability based on one-time wrongs. See, e.g.,
+
+                                                                                    Thayer v. Boston, 19 Pickering 511, 31 Am. Dec. 157 (Mass.
+
+                                                                                    1837) (tort action against municipality based on unique injury
+
+                                                                                    caused by one obstruction of one passageway in front of one
+
+                                                                                    warehouse); Chicago v. Robbins, 2 Black 418, 17 L.Ed. 298
+
+                                                                                    (1863) (city liable for one injury to one person who fell one
+
+                                                                                    time into one hole in one sidewalk).
+
+                                                                                          C. This Court’s Precedent Demonstrates That Proof
+                                                                                                of Prior Similar Deprivations Is Not An Absolute
+                                                                                                Requirement of § 1983 Municipal Liability.
+
+                                                                                          In City of Canton v. Harris, this Court ruled that a
+                                                                                    municipality's failure to train represents “city policy” when
+                                          42                           43
+
+“in light of the duties assigned to specific officers or               in disregard of those clear constitutional duties that police
+employees the need for more or different training is so                will face in recurrent situations is as “deliberately indifferent”
+obvious, and the inadequacy so likely to result in the violation       to the rights of those citizens with whom police will come
+of constitutional rights, that the policymakers of the city can        into contact as any subsequent failure to adequately train
+reasonably be said to have been deliberately indifferent to the        them in the exercise of those duties. And, just as Canton
+need.” 489 U.S. at 390. In explanation of how that standard            acknowledged that deliberate indifference to such obviously
+might be met, the Court contrasted a scenario of municipal             recurring constitutional duties may be established prior to any
+inaction in light of repeated police deprivations of constitu-         unconstitutional incidents in “bad training” cases, the same
+tional rights (i.e., “multiple incidents”) with a scenario where,      has to be true in “bad hiring” cases. Any distinction between
+even before incidents of unconstitutionality, policymakers             the two would have some bizarre consequences. For one, such
+“know to a moral certainty” that their police officers will            a distinction would create a preference for municipal omis-
+confront certain recurring law enforcement situations, such as         sion cases (deliberately indifferent failure to train) over
+making forcible arrests. /d. at 390 n.10; see also 489 U.S. at         municipal commission cases (deliberately indifferent decision
+396 (O'Connor, J., concurring in part). With respect to using          to employ). Secondly, such a distinction would create a pref-
+force, the need to train “can be said to be ‘so obvious’ that          erence for cases based on indirect evidence of deliberate
+failure to do so could properly be characterized as ‘deliberate        indifference (based on a failure to respond to prior uncon-
+indifference’ to constitutional rights.” 489 U.S. at 390 n.10.         stitutional incidents) over cases based on direct evidence of
+Thus, the Court’s analysis in Canton effectively distinguished         deliberate indifference (the Sheriff's deliberate closing of his
+between a failure to train police officers to recognize some           eyes to his relative-applicant’s lengthy criminal history).
+particular medical ailment and the failure to train police
+regarding the use of force. While notice of a need to train (in        Although Canton is most closely on point, this Court has
+order to avoid constitutional deprivations) may be absent in
+the medical case prior to an incident where that medical               never seriously questioned the proposition that one constitu-
+ailment went undetected, a municipality can hardly complain
+that it lacked notice that police would confront situations            tional deprivation is enough. Thus, this Court has envisioned
+requiring them to determine whether to use force, how much
+force to apply, and how to apply that force so as to avoid             municipal liability for a single deprivation in those cases
+unnecessary infliction of serious injury.
+                                                                       where a municipality has directly authorized the deprivation.
+      The analysis in Canton clearly supports municipal lia-
+bility in the present case — expressly so on the “bad training”        See, e.g., Owen v. City of Independence, 445 U.S. 622 (1980)
+claim, not only because it was “obvious” to the municipal
+policymaker that Officer Burns would be making forcible                (City Council’s case-specific one-time discharge of one
+arrests, J.A. 96, but additionally because of the municipality's
+notice that Burns was prone to aggressive and lawless behav-       a.  Police Chief without a hearing); Pembaur v. Cincinnati, 475
+ior. But Canton’s reasoning also applies to a “bad hiring” or
+“bad personnel decision” claim; at the time of the employ-             U.S. 469 (1986) (County policymaker’s case-specific “go in
+ment decision, municipal policymakers also have notice of
+those recurring situations that police officers will obviously         and get them,” resulting in one unconstitutional warrantless
+confront, such as choices regarding the use of force. To hire
+                                                                       entry of one barred door with one axe). And while those cases
+
+                                                                       involved direct municipal authorizations of constitutional
+
+                                                                       deprivations, Canton forecloses any distinction between those
+
+                                                                       municipal actions which themselves violate constitutional
+
+                                                                       rights and those municipal actions that, through deliberate
+
+                                                                       indifference, directly result in an employee's subsequent vio-
+
+                                                                       lation of constitutional rights. 489 U.S. at 386-87. Indeed, the
+
+                                                                       language of § 1983 simply permits no distinction to be drawn
+
+                                                                       between direct municipal authorization of unconstitutional
+
+                                                                       activity and deliberately indifferent official municipal actions
+                                          44                                                                                45
+
+that “subject [persons] or cause [them] to be subjected” to a                     could infer each of the elements of municipal liability solely
+constitutional deprivation.                                                       based on evidence of the municipal employee's constitutional
+                                                                                  tort, the efforts of the Court in Monell (and later in Canton) -
+      A single deprivation has always been enough to support                      to set standards for municipal liability that ensure municipal
+§ 1983 recovery against natural “persons” as well. See, e.g.,                     fault and not just municipal employee fault — would have been
+                                                                                  in vain. Indeed, if municipal liability could be based solely on
+Estelle v. Gamble, 429 U.S. 97 (1976) (case-specific medical                      proof of a single incident of excessive force perpetrated by a
+                                                                                  municipal employee, without more — without proof of any
+mistreatment by prison personnel of one prisoner with one                         official action taken by a municipal policymaker, without
+back injury); Monroe v. Pape, 365 U.S. 167 (1961) (police                         proof of that policymaker’s deliberate indifference, and with-
+officers’ case-specific breaking into one family’s home_on                        out proof that the policymaker’s deliberate indifference
+one early morning occasion, making plaintiffs stand naked in                      caused the constitutional deprivation — municipal liability
+one living room during one ransacking of house). Single                           would be based on respondeat superior, which the Court in
+incidents have been sufficient even in cases involving private                    Monell expressly rejected. Thus, the Court in Tuttle was
+natural “persons.” See, e.g., West v. Atkins, 487 U.S. 42                         simply ensuring the continued vitality of Monell; the Court in
+(1988) (private doctor deliberately indifferent to one pris-                      no way ruled, or even implied, that § 1983 plaintiffs must, as
+oner’s medical needs based on mistreatment of one once-torn                       a matter of law, prove multiple incidents involving constitu-
+Achilles tendon). And any distinction between natural “per-                       tional violations in order to recover from a municipality.
+sons” and municipal corporation “persons” has no basis in                         Indeed, the Court in Tuttle expressly approved of municipal
+§ 1983's statutory text, and contradicts this Court's recogni-                    liability based on a single incident of unconstitutional activ-
+tion that common law at the time of § 1983's passage treated                      ity, if proof of the single incident is accompanied by proof of
+municipal corporations just like private corporations and nat-                    the requisite fault on the part of the municipality, and proof of
+ural persons. Monell, 436 U.S. at 687; Owen, 445 U.S. at 640.                     the causal connection between the municipal fault and the
+                                                                                  constitutional deprivation. Tuttle, at 824. In sum, the “single
+      Despite all the preceding (and overwhelming) evidence                       incident” phrase in Tuttle simply does not bear the load that
+that § 1983 does not have a multiple unconstitutional incident                    Petitioner attempts to place on it. And, unlike Tuttle, the
+                                                                                  judge’s instructions in the present case clearly did not permit
+requirement, Petitioner relies, at P. Br. 24, on a solitary phrase                the jury to infer the existence of all of the elements of
+in Oklahoma City v. Tuttle taken wholly out of context. In                        municipal liability (or any of those elements) solely from the
+Tuttle, the trial judge’s instructions to the jury permitted a                    incident involving Burns’ excessive force against Jill Brown.
+finding of municipal liability without any substantial proof of                   J.A. 122-23. Rather, Jill Brown was required to prove — and
+
+municipal fault. 471 U.S. at 821, 824. Those instructions           | did prove — that deliberately indifferent official municipal
+required proof only of the constitutional deprivation (exces-       | decisions directly caused her to suffer excessive force and
+sive force by a police officer) and permitted the jury to infer
+from that single incident of excessive force all the elements                     other constitutional deprivations at the hands of Officer
+of municipal liability — 1) the “policy,” such as a decision by                   Burns. That is precisely the showing of municipal fault
+a policymaker in charge of police training, 2) the “deliberate                    required by Monell and Canton.
+indifference” by that policymaker in choosing an inadequate
+course of action in training matters, and 3) the direct causal
+connection between the deliberately indifferent municipal
+decision and the municipal employee's constitutional tort. 471
+U.S. at 821. If a plaintiff could recover from a municipality
+merely by introducing proof of an employee's constitutional
+violation, without more, and have a jury instructed that it
+                                          46                                  47
+
+IV. IN LIGHT OF THE EXISTING BARRIERS TO                                      And why? Municipalities simply do not need this type of
+       ESTABLISHING MUNICIPAL FAULT UNDER
+       § 1983, MUNICIPALITIES HARDLY NEED THE                                 arbitrary barrier to § 1983 liability. The sensible barriers to
+       BENEFIT OF THE ARBITRARY DOCTRINE(S) AT
+       ISSUE IN ORDER TO AVOID UNDESERVED LIA-                                undeserved municipal liability already imposed by Monell
+       BILITY.
+                                                                              and Canton are high indeed. Monell ensures that municipal
+      Wrong is wrong. Unless, it is argued, the wrongdoer is a
+municipality. Then, according to Bryan County's view, it                   | liability truly will be based on municipal fault, and not merely
+takes at least two wrongs to make a wrong. A municipality                                   upon respondeat superior’s automatic attribution to the
+must be twice faulty, such as by hiring two known bad apples,                               municipality of employee-perpetrated constitutional depriva-
+in double deliberate indifference to citizens’ constitutional                               tions. 436 U.S. at 691. Although Pembaur recognizes that the
+rights, setting both of those bad apples loose on the public,
+authorizing both to make forcible arrests prior to meaningful                 power to act for and bind the municipality may be vested in
+training (a second dose of double deliberate indifference),                | power may be exercised in a case-specific fashion, 475 U.S.
+thereby subjecting citizens to subsequent deprivations on at                  certain individuals as well as boards, and that municipal
+least two separate occasions. This proposed “one wrong is not
+enough” doctrine is not only contrary to those notions of fault               at 480-81, Pembaur and its progeny ensure that municipal
+instilled in us as preschoolers,?> this brief has demonstrated             | power by the official(s) whose sphere of ultimate authority:
+that it is contrary to the express language of § 1983, to its                 liability may be based only on official municipal exercises of
+underlying purposes, to long-settled tort principles of respon-
+sibility which form the backdrop of § 1983's constitutional                | heart of the litigation. Pembaur, 475 U.S. at 481-83 (plu-
+tort, and to this Court's holdings and rationales in Monell,                  includes that aspect of municipal business which is at the
+Pembaur, and Canton. Moreover, the proposed “one munici-
+pal constitutional tort is not enough” rule would treat munici-               rality); City of St. Louis v. Praprotnik, 485 U.S. 112, 123
+pal-“persons” differently than natural “persons,” contrary to
+both good common sense and good legal sense, and would                        (1988) (plurality).2© Furthermore, Canton’s deliberate indif-
+have other bizarre results. Bryan County’s view literally
+would permit municipalities knowingly to put “time bombs”                     ference standard ensures that municipal fault cannot be based
+on our streets and in our schools, and then deny to the victims
+of the first post-employment explosions of those “bombs” the                  on a poorly trained employee who accidentally or negligently
+opportunity for § 1983 recovery from the municipality, even
+though the municipality might be the only possible source of                  slips through the cracks of generally adequate municipal
+compensation and even though the municipality is demonstra-
+bly at fault.                                                                 decisionmaking. 489 U.S. at 390-91. Applying that deliberate
+
+      25 How many of us, when our parents said, “Don't,” tried to do what     indifference standard ensures that municipalities will be no
+was forbidden just once, and were punished for our efforts?
+                                                                              more vulnerable to undeserved liability in “bad hiring” cases
+
+                                                                              than in “bad training” cases, and also alleviates any federal-
+
+                                                                              ism concerns about federal court second-guessing of munici-
+
+                                                                              pal training or hiring. /d. at 392. Finally, Canton’s causation
+
+                                                                              requirement ensures that even a deliberately indifferent
+
+                                                                              municipal exercise of official power will not create municipal
+
+                                                                                    26 Moreover, Praprotnik allows municipalities to reduce the risk of
+                                                                              liability based on deliberately indifferent exercises of municipal power by
+                                                                              supervisory employees, even those supervisors with policymaking
+                                                                              capacity, simply by retaining ultimate veto power in a “Board.” 485 U.S. at
+                                                                              127 (plurality). In that way, municipalities can effectively separate and
+                                                                              insulate the “final power” from those employees who are most likely to
+                                                                              have the awareness of facts sufficient to give rise to the “deliberate
+                                                                              indifference” that may directly cause a particular constitutional
+                                                                              deprivation.
+                                          48                                              49
+
+liability unless it directly results in the precise constitutional             whole history of tort law — a view of fault that would uniquely
+violation portended by its deliberate indifference. Jd. at 391.                apply to municipal corporations, and only in § 1983 cases.
+
+      One need only spend a few days in the Federal Reporters                  But this case is not just about Jill Brown. It is about
+researching the last decade of § 1983 municipal liability cases
+to understand just how thoroughly municipalities have already                  whether § 1983 provides a meaningful remedy to those who
+been shielded from liability. What one will find is that, about
+three times a decade, in any given circuit, a § 1983 plaintiff                 suffer constitutional injuries due to deliberate municipal
+will actually win a sizable verdict (in excess of $50,000)
+against a municipality and survive appellate scrutiny.2”? Even                 selection of the lawless to be law enforcers. Denying Peti-
+in those rare plaintiff victories, the size of damage awards is
+rarely disastrous because punitive damages are not recover-                    tioner’s arbitrary loophole to municipal liability will not only
+able from the municipality. Newport v. Fact Concerts, Inc.,
+453 U.S. 247 (1981).                                                           benefit those whose constitutional injuries are fairly attributa-
+
+      Given the already imposing barriers to § 1983 municipal                  ble to municipal fault, it will benefit society by encouraging
+liability, and the dearth of plaintiff victories, Monell is fast
+becoming an “attractive nuisance,” holding out to constitu-                    something more than “deliberate indifference” from those
+tionally injured citizens an increasingly illusory promise of
+recovery from what is often the only source of adequate                        who hand out badges, and, in the long run, it will promote law
+compensation. The door to municipal liability under § 1983
+has been left open just a crack — a crack through which                        enforcement itself. Due to recent publicity generated by vid-
+deserving plaintiffs who truly can show municipal fault can
+still squeeze. Jill Brown is such a person. To deprive her of                  eotapes of police beatings and audiotapes of police racism, it
+victory would not be due to an absence of municipal fault, as
+this is patently not a case that depends on respondent supe-                   is hardly surprising that we are currently in an era of increas-
+rior, rather, to deprive her of the jury’s verdict would require
+an arbitrary definition of fault previously unknown in the                     ing community distrust of police. Unfortunately, this has a
+
+       27 This “survey” was found by pulling every case in the Federal         substantial impact on the ability of good police officers
+Reporters since late 1985 (through the June 15, 1996 Shephard’s Citator)
+that cited Monell. (covering from 778 F.2d through 78 F.3d) While thi«         (surely the vast majority) to do their jobs safely and effec-
+survey is hardly scientific, it surely produces a representative sample of
+cases. Fewer than 70 cases were found where plaintiffs won an “ultimate        tively: “The great advantage of police compliance with the
+victory” (winning a jury verdict and “keeping” it) against a municipality.
+Several won only injunctive relief or nominal damages. Several others          law is that it helps to create an atmosphere conducive to a
+were remanded for a determination of damages or simply failed to note the
+amount won. Of the 47 cases that provided information on damages, 15           community respect for officers of the law that in turn serves
+involved amounts less than $50,000, 18 involved damages from
+                                                                               to promote their enforcement of the law.” R. Traynor, Law-
+$50,000-$200,000, and only 14 involved damage awards greater than
+                                                                               breakers, Courts, and Law-Abiders, 41 Journal of the State
+$200,000.
+                                                                               Bar of California 458, 478 (July-August 1966). Of course, an
+
+                                                                            | environment of community distrust of law enforcement, and
+                                                                            :  the attendant lack of public confidence therein, was precisely
+                                                                            :
+                                                                            ‘  the type of environment that motivated Congress to enact
+
+                                                                               what is now § 1983. This Court can help to alleviate such
+
+                                                                               distrust simply by rejecting Petitioner's arbitrary views of
+
+                                                                               municipal liability that have nothing at all to do with true
+
+                                                                               “fault,” and keeping the door to § 1983 municipal liability
+
+                                                                               open (just a crack) for those plaintiffs like Jill Brown who can
+
+                                                                               demonstrate that municipal fault caused their constitutional
+
+                                                                               injuries.
+                        50
+
+CONCLUSION
+
+      For all the foregoing reasons, the holding of the Fifth
+Circuit should be affirmed.
+
+                                             Respectfully submitted,
+
+Brian J. Serr               J. Kermrr Hii
+
+P.O. Box 97288              Counsel of Record
+
+Waco, Texas 76798-7288      Duke WALKER
+(817) 755-3611              Hut, Exvurs, Wacker, Hit
+
+                               AND SHEA
+                            P.O. Box 1191
+
+                            1800 Teague Drive,
+
+                               Suite 300
+                            Sherman, Texas 75090
+                            (903) 892-6121
+
+                            (903) 893-6120 (Telecopier)
+
+Attorneys for Respondent
+

@@ -1,0 +1,11 @@
+{
+  "matter": 79,
+  "source": "OT_1996CHUNK7_STONE.md",
+  "source_sha256": "bfec352414ab856f9b8bb56e22dae7fff6339e6fd2826c606dc6dd0765511e7a",
+  "character_interval": [
+    30394,
+    35522
+  ],
+  "copy_sha256": "e55b7477a061e934ecf0ec6a9c2fe1f3f92fb1df58be2d2947fc4ce8233446d0",
+  "reconciled_freeze_sha256": "47baf33c3205d9515948a8fc8baa7178bf8c939b048dc976f30ea4ca36ac9617"
+}

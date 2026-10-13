@@ -1,0 +1,110 @@
+
+
+    Richards v. Wisconsin, 520 U.S. 385 (1997).
+
+LII
+
+Supreme Court
+
+ Richards v. Wisconsin (96-5955), 520 U.S. 385 (1997). 
+
+Syllabus 
+  Opinion 
+ [ Stevens ]
+
+HTML version
+WordPerfect versionHTML version
+WordPerfect version
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See United States v. Detroit Timber & Lumber
+ Co., 200
+ U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+Syllabus
+
+RICHARDS v. WISCONSIN
+
+certiorari to the supreme court
+ of wisconsin
+
+No. 96-5955.
+ Argued March 24, 1997 -- Decided
+ April 28, 1997
+
+In Wilson v. Arkansas, 514
+ U.S. 927, this Court held that the Fourth Amendment incorporates the
+ common law requirement that police knock on a dwelling's door and announce
+ their identity and purpose before attempting forcible entry, recognized
+ that the flexible reasonableness requirement should not be read to mandate
+ a rigid announcement rule that ignores countervailing law enforcement interests,
+ id., at 934, and left it to the lower courts to determine the circumstances
+ under which an unannounced entry is reasonable. Id., at 936. Officers
+ in Madison, Wisconsin obtained a warrant to search petitioner Richards'
+ hotel room for drugs and related paraphernalia, but the magistrate refused
+ to give advance authorization for a "no knock" entry. The officer who knocked
+ on Richards' door was dressed, and identified himself, as a maintenance
+ man. Upon opening the door, Richards also saw a uniformed officer and quickly
+ closed the door. The officers kicked down the door, caught Richards trying
+ to escape, and found cash and cocaine in the bathroom. In denying Richards'
+ motion to suppress the evidence on the ground that the officers did not
+ knock and announce their presence before forcing entry, the trial court
+ found that they could gather from Richards' strange behavior that he might
+ try to destroy evidence or escape and that the drugs' disposable nature
+ further justified their decision not to knock and announce. The State Supreme
+ Court affirmed, concluding that Wilson did not preclude the court's
+ pre-Wilson per se rule that police officers are never required
+ to knock and announce when executing a search warrant in a felony drug
+ investigation because of the special circumstances of today's drug culture.
+
+Held:
+
+1. The Fourth
+ Amendment does not permit a blanket exception to the knock and announce
+ requirement for felony drug investigations. While the requirement can give
+ way under circumstances presenting a threat of physical violence or where
+ officers believe that evidence would be destroyed if advance notice were
+ given, 514 U. S., at 936, the fact that felony drug investigations may
+ frequently present such circumstances cannot remove from the neutral scrutiny
+ of a reviewing court the reasonableness of the police decision not to knock
+ and announce in a particular case. Creating exceptions to the requirement
+ based on the culture surrounding a general category of criminal behavior
+ presents at least two serious concerns. First, the exception contains considerable
+ overgeneralization that would impermissibly insulate from judicial review
+ cases in which a drug investigation does not pose special risks. Second,
+ creating an exception in one category can, relatively easily, be applied
+ to others. If a per se exception were allowed for each criminal
+ activity category that included a considerable risk of danger to officers
+ or destruction of evidence, the knock and announce requirement would be
+ meaningless. The court confronted with the question in each case has a
+ duty to determine whether the facts and circumstances of the particular
+ entry justified dispensing with the requirement. A "no knock" entry is
+ justified when the police have a reasonable suspicion that knocking and
+ announcing their presence, under the particular circumstances, would be
+ dangerous or futile, or that it would inhibit the effective investigation
+ of the crime. This standard strikes the appropriate balance between the
+ legitimate law enforcement concerns at issue in the execution of search
+ warrants and the individual privacy interests affected by no knock entries.
+ Cf. Maryland v. Buie, 494
+ U.S. 325, 337. Pp. 5-9.
+
+2. Because the evidence in this case establishes that the decision
+ not to knock and announce was a reasonable one under the circumstances,
+ the officers' entry into the hotel room did not violate the Fourth
+ Amendment. That the magistrate had originally refused to issue a no
+ knock warrant means only that at the time the warrant was requested there
+ was insufficient evidence for a no knock entry. However, the officers'
+ decision to enter the room must be evaluated as of the time of entry. Pp.
+ 9-11.
+
+201 Wis. 2d 845, 549
+ N. W. 2d 218, affirmed.
+
+Stevens, J., delivered the
+ opinion for a unanimous Court. 
+

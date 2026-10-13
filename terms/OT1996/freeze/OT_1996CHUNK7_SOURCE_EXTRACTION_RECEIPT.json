@@ -1,0 +1,55 @@
+[
+  {
+    "matter": 82,
+    "source": "terms\\OT1996\\sources\\chunk7-control\\96-203.ZO.txt",
+    "output": "terms\\OT1996\\freeze\\OT_1996CHUNK7_82_SOURCE_FACTS_UNVALIDATED.md",
+    "ranges": [
+      [
+        "In the late 1980",
+        "After Johnson was convicted"
+      ],
+      [
+        "Because Johnson had failed",
+        "Due to the conflict"
+      ]
+    ]
+  },
+  {
+    "matter": 80,
+    "source": "terms\\OT1996\\sources\\chunk7-control\\95-1621.ZO.txt",
+    "output": "terms\\OT1996\\freeze\\OT_1996CHUNK7_80_SOURCE_FACTS_UNVALIDATED.md",
+    "ranges": [
+      [
+        "Respondent John Papai was painting",
+        "After his alleged injury"
+      ],
+      [
+        "After his alleged injury",
+        "The Court of Appeals for the Ninth Circuit"
+      ]
+    ]
+  },
+  {
+    "matter": 83,
+    "source": "terms\\OT1996\\sources\\chunk7-control\\96-5658.ZO.txt",
+    "output": "terms\\OT1996\\freeze\\OT_1996CHUNK7_83_SOURCE_FACTS_UNVALIDATED.md",
+    "ranges": [
+      [
+        "On February 5, 1983",
+        "After the Florida courts"
+      ],
+      [
+        "The Florida Supreme Court rejected Lambrix",
+        "After the Florida Supreme Court entered judgment"
+      ],
+      [
+        "The State of Florida raised that point",
+        "A State's procedural rules"
+      ],
+      [
+        "Lambrix's conviction became final",
+        "Thus, our first"
+      ]
+    ]
+  }
+]

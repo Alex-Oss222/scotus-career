@@ -1,0 +1,83 @@
+Source: terms/OT1992/output/OT_1992CHUNK9.md
+
+### South Dakota v. Bourland, No. 91-2051
+
+Merits disposition, 1993-06-14
+
+#### Chronology and Posture
+
+Argued 1993-03-02; decided 1993-06-14. On writ of certiorari to Eighth Circuit, 949 F.2d 984: treaty authority sustained on 104,420 former trust acres; separate inquiry on approximately 18,000 formerly non-Indian fee acres remanded.
+
+The question presented is whether the acquisition and public-recreation statutes abrogated treaty-derived regulation of non-Indian hunting and fishing, and what residual authority remains.
+
+The 1868 Fort Laramie Treaty reserved lands for Sioux use and occupation. The Flood Control Act of 1944 authorized the water project and public recreation. The Cheyenne River Act of 1954 transferred specified tribal interests for the project, provided compensation, and reserved stated access, hunting, and fishing rights for the Tribe or its members. The Government also acquired former non-Indian fee lands. The Tribe enforced hunting and fishing rules on the acquired area; South Dakota challenged its authority over non-Indians. The dispute distinguishes ownership, access, treaty-based regulation, and the different histories of the two land categories.
+
+All nine Justices participated at argument and decision: Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, and Thomas.
+
+#### Judgment
+
+Reversed and remanded, 6–3.
+
+| Component | Disposition | Supporting Justices | Other Justices / position | Remedy |
+|---|---|---|---|---|
+| Treaty-derived authority and residual inquiry | Reversed and remanded; 6–3 | White, Stevens, O’Connor, Scalia, Kennedy, Thomas | Stone-Zsela, Blackmun, Souter | Reject treaty-derived exclusion as the sufficient regulatory source; consider unresolved Montana exceptions and any properly established federal authorization. Preserve distinct land histories; no universal exclusive-state-jurisdiction declaration. |
+
+#### Opinion Topology
+
+| Writing / author | Joined by | Scope | Judgment relationship |
+|---|---|---|---|
+| Thomas | White, Stevens, O’Connor, Scalia, Kennedy | Opinion of the Court | Supports reversal |
+| Blackmun | Souter | Dissent on treaty and inherent authority | Would affirm former-trust-land ruling |
+| Stone-Zsela | No joiners | Separate treaty-ground dissent | Would affirm and preserve fee-land remand |
+
+#### Controlling Propositions and Authority
+
+##### Acquisition displaces exclusion-derived regulation
+
+**Controlling proposition:** The Flood Control Act and Cheyenne River Act displaced the treaty right of exclusive occupation on the taken former trust lands and the non-Indian hunting-and-fishing regulation derived from that exclusion right. Retained tribal access and personal hunting-and-fishing privileges do not themselves preserve authority to license or regulate non-Indian public users.
+
+**Authority:** Thomas’s Opinion of the Court, supported on this holding by White, Stevens, O’Connor, Scalia, Kennedy, Thomas, controls by a majority of 6 Justices.
+
+**Controlling explanation:** The Court holds that Congress’s treatment of these lands supplies the clear indication required by Dion. The Fort Laramie Treaty originally protected exclusive use and occupation, including control of non-Indian access. Congress acquired the project lands, authorized public recreation under federal management, settled the rights taken, and retained shoreline access and hunting and fishing subject to the regulations governing corresponding public uses without retaining exclusion of the public. Montana explains the relationship between exclusive occupation and the regulatory authority claimed from it; Brendale confirms the importance of the land’s legal status. Tribal use rights remain meaningful without carrying power to condition the public access Congress provided. Menominee does not compel the opposite result, because this conclusion rests on the particular acquisition and access enactments together, not an assumption that every federal project extinguishes treaties. The Court requires no particular verbal formula for abrogation. It does not decide reservation boundaries, tribal criminal jurisdiction or every possible regulation on acquired acreage.
+
+**Precedent treatment:**
+
+- Dion, 476 U.S.734 — clear congressional choice required, without an invariable express-words requirement.
+- Montana, 450 U.S.544 — exclusion-derived authority and effects of alienation applied.
+- Brendale, 492 U.S.408 — land-specific setting considered without inventing a universal rule from its fracture.
+- Menominee, 391 U.S.404 — protection against casual implied abrogation preserved; particular enactments distinguished.
+
+##### Residual authority remains a distinct inquiry
+
+**Controlling proposition:** Loss of treaty-based exclusion does not decide whether a Montana exception or properly established federal authorization permits particular regulation. Remand preserves the exceptions for consensual commercial dealings, contracts, leases or other arrangements with the Tribe or its members, and for conduct threatening or directly affecting tribal political integrity, economic security, health or welfare, within Montana’s limits. General inherent sovereignty alone does not restore the abrogated regulatory power.
+
+**Authority:** Thomas’s Opinion of the Court, supported on this holding by White, Stevens, O’Connor, Scalia, Kennedy, Thomas, controls by a majority of 6 Justices.
+
+**Controlling explanation:** The Court holds that the source rejected today must not be confused with every possible source of tribal civil authority. Montana generally limits regulation of nonmembers on non-Indian land but identifies two exceptions requiring attention to actual relationships and conduct. The court of appeals relied on treaty-based control for the former trust acreage while preserving a separate inquiry for formerly non-Indian fee land. The district court found neither exception satisfied on either land category, but the court of appeals did not review those findings for the former trust lands; that review remains. The Corps-regulation theory was not raised below, was omitted from the Government’s brief and conflicted with record evidence of the Corps’ view. The Court declines deference to that undeveloped litigating position. The State therefore receives no declaration that every non-Indian activity throughout the reservation is exclusively subject to state law. Any claimed authorization and concrete conflict with superior federal rules must be assessed on their own terms. Remand permits that inquiry without reviving the displaced exclusion right or collapsing the two land categories into a single historical ownership premise. No result on those undeveloped questions is directed.
+
+**Precedent treatment:**
+
+- Montana, 450 U.S.544 — both consensual-relationship and serious tribal-interest exceptions expressly retained.
+- United States v. Wheeler, 435 U.S.313 — retained internal tribal powers do not themselves establish nonmember regulation after the abrogation found here.
+
+#### Precedent Treatment and Current-Law Effect
+
+Treaty-derived control is removed as a sufficient source on the taken former trust lands. Residual authority remains unresolved; no general state exclusivity or boundary ruling.
+
+#### Separate Positions Relevant to the Decision
+
+Blackmun, joined by Souter, dissents. Dion requires evidence that Congress considered the disputed treaty right and chose abrogation. Building a dam and assuring recreation can coexist with conservation regulation; loss of absolute exclusion does not prove loss of every incident of territorial sovereignty. Wheeler and Indian-law construction principles support retention absent congressional action or necessary incompatibility. The compensation settlement does not identify every surrendered governmental power. Superior federal project law remains controlling.
+
+Stone-Zsela separately dissents on the treaty ground. He would sustain compatible hunting-and-fishing regulation on former trust land because public acquisition removes exclusive possession without clearly removing this distinct power. He does not require express words in every statute, treat retained personal privileges as a new delegation, or decree exclusive tribal control of access. He preserves the fee-land Montana inquiry and adjudication of concrete conflicts with federal access requirements.
+
+#### Source Notes
+
+[Official U.S. Reports source and record account](https://tile.loc.gov/storage-services/service/ll/usrep/usrep508/usrep508679/usrep508679.pdf); [judgment below](https://static.case.law/f2d/949/html/0984-01.html). These sources support identity, argument and decision dates, lower proceedings, factual posture and cited historical texts. The reporter citation identifies the source location. No verbatim decisional quotation is supplied.
+
+#### Mandate, Remedy, and Stage
+
+Supreme Court merits review is complete. Reject treaty-derived exclusion as the sufficient regulatory source; consider unresolved Montana exceptions and any properly established federal authorization. Preserve distinct land histories; no universal exclusive-state-jurisdiction declaration. Ordinary mandate procedure applies; no special issuance date, stay, retained Supreme Court proceeding or subsequent filing is established.
+
+**End of entry: South Dakota v. Bourland, merits disposition, 1993-06-14.**
+
+---

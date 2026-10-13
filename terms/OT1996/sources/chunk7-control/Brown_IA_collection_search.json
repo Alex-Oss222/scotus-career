@@ -1,0 +1,62 @@
+[
+  {
+    "query": "collection:us-supreme-court AND \"95-1100\"",
+    "url": "https://archive.org/advancedsearch.php?q=collection%3Aus-supreme-court+AND+%2295-1100%22&fl%5B%5D=identifier&fl%5B%5D=title&rows=30&output=json",
+    "response": {
+      "responseHeader": {
+        "status": 0,
+        "QTime": 186,
+        "params": {
+          "query": "collection:us-supreme-court AND (text:&quot;95-1100&quot; OR text:&quot;95-1100&quot; OR text__reviews:&quot;95-1100&quot;)",
+          "qin": "collection:us-supreme-court AND &quot;95-1100&quot;",
+          "fields": "identifier,title",
+          "wt": "json",
+          "rows": 30,
+          "start": 0
+        }
+      },
+      "response": {
+        "numFound": 1,
+        "start": 0,
+        "docs": [
+          {
+            "identifier": "micro_IA40385013_0686",
+            "title": "Board of the County Commissioners v. Brown, 517 U.S. 1154 (1996) (No. 95-1100)"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "query": "collection:us-supreme-court AND title:(\"Bryan\" AND \"Brown\")",
+    "url": "https://archive.org/advancedsearch.php?q=collection%3Aus-supreme-court+AND+title%3A%28%22Bryan%22+AND+%22Brown%22%29&fl%5B%5D=identifier&fl%5B%5D=title&rows=30&output=json",
+    "response": {
+      "responseHeader": {
+        "status": 0,
+        "QTime": 279,
+        "params": {
+          "query": "collection:us-supreme-court AND title:(&quot;Bryan&quot; AND &quot;Brown&quot;)",
+          "qin": "collection:us-supreme-court AND title:(&quot;Bryan&quot; AND &quot;Brown&quot;)",
+          "fields": "identifier,title",
+          "wt": "json",
+          "rows": 30,
+          "start": 0
+        }
+      },
+      "response": {
+        "numFound": 2,
+        "start": 0,
+        "docs": [
+          {
+            "identifier": "micro_IA40385004_1472",
+            "title": "Brown v. Bryan, 431 U.S. 954 (1977) (No. 76-1329)"
+          },
+          {
+            "identifier": "per_scotus_1871_438",
+            "title": "The United States, and Francis S. Lyon, James Crawford, William H. Ross, James D. Browder, John Collins, Bryan Whitfield, James F. Griffin, Amelia Gorgas, and Willie G. Winn, Plaintiffs in Error, vs. Thomas C. Brown Gray Huckabee, Caswell C. Huckabee"
+          }
+        ]
+      }
+    }
+  }
+]

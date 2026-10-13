@@ -1,0 +1,229 @@
+{
+  "scope": "Local initial-assembly validation of matters 80-83; no Render, workspace, ledger, manifest, infrastructure or Git operation. Root retains substantive QA and global integration.",
+  "records": [
+    {
+      "matter": 80,
+      "path": "terms/OT1996/records/Harbor_Tug_and_Barge_v_Papai_merits_1997-05-12.md",
+      "bytes": 55790,
+      "sha256": "30be8ea0502c98db23c1ec3ab6b856d6f8fef6838930a28873d75c367ffe4ea7",
+      "first_four_labels": "pass",
+      "eleven_public_blocks": "pass",
+      "internal_public_holdings_identity": "pass",
+      "internal_public_holdings_byte_identity": "pass",
+      "holdings_body_sha256": "27eb0e9450dcae46f41f4489ebe80c28d89c5bcf9dc87283d18e6503dfec94b4",
+      "full_public_separate_writings_in_internal_continuity": "pass",
+      "controlling_explanation_word_counts": [
+        186,
+        287,
+        243
+      ],
+      "ordinary_explanation_ceiling": 350,
+      "local_links": "pass",
+      "placeholder_and_public_workflow_scan": "pass",
+      "lead_author": "Souter",
+      "actual_topology_evidence": [
+        "| Opinion of the Court | Souter | O'Connor, Scalia, Kennedy and Thomas throughout; Stone-Zsela in Parts I–II; Stevens, Ginsburg and Breyer in Part III | Parts I–II support reversal of status reopening; Part III returns the unresolved vessel appeal | Parts I–II: fleet and status; Part III: independent appeal. Six joins to Parts I–II, eight to Part III. |"
+      ],
+      "assignment_recount_path": "terms/OT1996/freeze/OT_1996CHUNK7_80_ASSIGNMENT_RECOUNT.json",
+      "assignment_recount_sha256": "800b7d53887bef9c978758781a9d4bff816eefb25eac4c0507955f0d1aa26c88",
+      "assignment_recount_reverified_against_current_tables": "pass",
+      "post_assignment_counts": {
+        "Stone-Zsela": 6,
+        "Stevens": 7,
+        "O'Connor": 9,
+        "Scalia": 7,
+        "Kennedy": 8,
+        "Souter": 9,
+        "Thomas": 8,
+        "Ginsburg": 7,
+        "Breyer": 7
+      }
+    },
+    {
+      "matter": 81,
+      "path": "terms/OT1996/records/Inter_Modal_Rail_Employees_v_Atchison_merits_1997-05-12.md",
+      "bytes": 25567,
+      "sha256": "9bb23e5bcfbc9f6bf3669916fb8973989dcd183bc56722707041736933ed73f3",
+      "first_four_labels": "pass",
+      "eleven_public_blocks": "pass",
+      "internal_public_holdings_identity": "pass",
+      "internal_public_holdings_byte_identity": "pass",
+      "holdings_body_sha256": "bbfdc2ee3be5c1d2eff2429ec81c816931b4b10525f5ad1b120403cb24ec38ac",
+      "full_public_separate_writings_in_internal_continuity": "pass",
+      "controlling_explanation_word_counts": [
+        249,
+        202
+      ],
+      "ordinary_explanation_ceiling": 350,
+      "local_links": "pass",
+      "placeholder_and_public_workflow_scan": "pass",
+      "lead_author": "Ginsburg",
+      "actual_topology_evidence": [
+        "| Opinion of the Court | Ginsburg | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer throughout; Stone-Zsela in Part I | Part I supplies the unanimous coverage rule; Part II supports the eight-Justice vacatur | Part I: statutory coverage and limits. Part II: remand, reservations and unaffected claims. |"
+      ],
+      "assignment_recount_path": "terms/OT1996/freeze/OT_1996CHUNK7_81_ASSIGNMENT_RECOUNT.json",
+      "assignment_recount_sha256": "13fe56058b228e2fa48d7ad714c6375323fbfe440f282ae96b5c5a5c3d4b4899",
+      "assignment_recount_reverified_against_current_tables": "pass",
+      "post_assignment_counts": {
+        "Stone-Zsela": 6,
+        "Stevens": 7,
+        "O'Connor": 9,
+        "Scalia": 7,
+        "Kennedy": 8,
+        "Souter": 9,
+        "Thomas": 8,
+        "Ginsburg": 8,
+        "Breyer": 7
+      }
+    },
+    {
+      "matter": 82,
+      "path": "terms/OT1996/records/Johnson_v_United_States_merits_1997-05-12.md",
+      "bytes": 29930,
+      "sha256": "57c37b024f1ddde41b5fdc7bb18da303d1f27689caff2f3aa40b55c659ec814f",
+      "first_four_labels": "pass",
+      "eleven_public_blocks": "pass",
+      "internal_public_holdings_identity": "pass",
+      "internal_public_holdings_byte_identity": "pass",
+      "holdings_body_sha256": "c68b0f5ef1c1f6c2ae3a0cabf83154a03b10c54236b7c103dd9106a2cfcf760f",
+      "full_public_separate_writings_in_internal_continuity": "pass",
+      "controlling_explanation_word_counts": [
+        158,
+        147,
+        108,
+        277
+      ],
+      "ordinary_explanation_ceiling": 350,
+      "local_links": "pass",
+      "placeholder_and_public_workflow_scan": "pass",
+      "lead_author": "Stone-Zsela",
+      "actual_topology_evidence": [
+        "| Opinion of the Court | Stone-Zsela | Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer throughout; Scalia in Parts I and IV | Affirms through the independent fourth condition | I: error/forfeiture; II: intervening-law plainness; III: assumption and classification reservation; IV: discretionary refusal to correct. |"
+      ],
+      "assignment_recount_path": "terms/OT1996/freeze/OT_1996CHUNK7_82_ASSIGNMENT_RECOUNT.json",
+      "assignment_recount_sha256": "da44a7a3658a7cc83f8c03240894fd9fd117ceb2ed4ef56389d3291f8b8430b5",
+      "assignment_recount_reverified_against_current_tables": "pass",
+      "post_assignment_counts": {
+        "Stone-Zsela": 7,
+        "Stevens": 7,
+        "O'Connor": 9,
+        "Scalia": 7,
+        "Kennedy": 8,
+        "Souter": 9,
+        "Thomas": 8,
+        "Ginsburg": 8,
+        "Breyer": 7
+      }
+    },
+    {
+      "matter": 83,
+      "path": "terms/OT1996/records/Lambrix_v_Singletary_merits_1997-05-12.md",
+      "bytes": 57696,
+      "sha256": "dcac44374c15198571269c8a503fa8b6edfd01567dd3f59354eabfbb53f71dc7",
+      "first_four_labels": "pass",
+      "eleven_public_blocks": "pass",
+      "internal_public_holdings_identity": "pass",
+      "internal_public_holdings_byte_identity": "pass",
+      "holdings_body_sha256": "75d65b3dc52b4111d068cb3aca6f148862b7755e4805638466d7048118df2f3d",
+      "full_public_separate_writings_in_internal_continuity": "pass",
+      "controlling_explanation_word_counts": [
+        176,
+        295,
+        222,
+        291
+      ],
+      "ordinary_explanation_ceiling": 350,
+      "local_links": "pass",
+      "placeholder_and_public_workflow_scan": "pass",
+      "lead_author": "Stevens",
+      "actual_topology_evidence": [
+        "| Opinion of the Court in its respective Parts | Stevens | Souter, Ginsburg and Breyer throughout; Scalia, Kennedy and Thomas in I; O'Connor in II and III; Stone-Zsela in III-A | I decides to reach Teague; II rejects the new-rule bar; III-A orders common vacatur/default remand; III-B adds the binding old-rule instruction | Seven direct joins to I; five to II and III-B; six to III-A; no five join every Part. |"
+      ],
+      "assignment_recount_path": "terms/OT1996/freeze/OT_1996CHUNK7_83_ASSIGNMENT_RECOUNT.json",
+      "assignment_recount_sha256": "eddcc9fef216301f3f7ddb1e702e00b063ee0c7a5d8c854d2f5e31fba772e621",
+      "assignment_recount_reverified_against_current_tables": "pass",
+      "post_assignment_counts": {
+        "Stone-Zsela": 7,
+        "Stevens": 8,
+        "O'Connor": 9,
+        "Scalia": 7,
+        "Kennedy": 8,
+        "Souter": 9,
+        "Thomas": 8,
+        "Ginsburg": 8,
+        "Breyer": 7
+      }
+    }
+  ],
+  "inputs": [
+    {
+      "path": "terms/OT1996/runtime/OT_1996CHUNK7_80_RECONCILED.md",
+      "bytes": 48359,
+      "sha256": "64d3e742838943f6d8801c036182d5d9c529824e57e7eb0b7fe276ed182c2e3e",
+      "freeze_runtime_identity": "pass"
+    },
+    {
+      "path": "terms/OT1996/runtime/OT_1996CHUNK7_80_STONE.md",
+      "bytes": 3671,
+      "sha256": "2aa8e9af7123acaef23c04a1fc51f4f848df8006d4614a841d5f514d68bebce8",
+      "scope": "Observed released exact runtime Stone bytes; no raw-brief or locked Stone access. Root controls release provenance."
+    },
+    {
+      "path": "terms/OT1996/runtime/OT_1996CHUNK7_81_RECONCILED.md",
+      "bytes": 17109,
+      "sha256": "63f44cef198d4eae691da6f57eee668d1a68f5606027f5a724b6134b1b6cd2ba",
+      "freeze_runtime_identity": "pass"
+    },
+    {
+      "path": "terms/OT1996/runtime/OT_1996CHUNK7_81_STONE.md",
+      "bytes": 2681,
+      "sha256": "a5fdf915268f8b650c814fdb953095db372b358a7c0a7251e1c792890892f328",
+      "scope": "Observed released exact runtime Stone bytes; no raw-brief or locked Stone access. Root controls release provenance."
+    },
+    {
+      "path": "terms/OT1996/runtime/OT_1996CHUNK7_82_RECONCILED.md",
+      "bytes": 22277,
+      "sha256": "05bdeb5c298b3f94c669af8ac3f9eca5e0b281ef9b1144d56ba4d5a762050132",
+      "freeze_runtime_identity": "pass"
+    },
+    {
+      "path": "terms/OT1996/runtime/OT_1996CHUNK7_82_STONE.md",
+      "bytes": 3914,
+      "sha256": "599440f2da36d5454b89d5bb7606e725fa09f18f317283fa01547e4ed29b9595",
+      "scope": "Observed released exact runtime Stone bytes; no raw-brief or locked Stone access. Root controls release provenance."
+    },
+    {
+      "path": "terms/OT1996/runtime/OT_1996CHUNK7_83_RECONCILED.md",
+      "bytes": 58531,
+      "sha256": "7ea28bbd7bd7ac5257191ecabccdc611d03b7345093b2d85df0eee75cdcd8c6d",
+      "freeze_runtime_identity": "pass"
+    },
+    {
+      "path": "terms/OT1996/runtime/OT_1996CHUNK7_83_STONE.md",
+      "bytes": 3046,
+      "sha256": "53f16764cd83ad51308240e513f0353338ffe796e7b28f65ec4a607ff7f21fc8",
+      "scope": "Observed released exact runtime Stone bytes; no raw-brief or locked Stone access. Root controls release provenance."
+    },
+    {
+      "path": "terms/OT1996/freeze/OT_1996CHUNK7_83_MANDATE_RECONCILIATION_AUDIT.md",
+      "bytes": 28754,
+      "sha256": "28d4456587f08a8b93eafdd9616c2e5f373d19265b43fe876642b3c526d5275b",
+      "freeze_runtime_identity": "pass"
+    }
+  ],
+  "same_day_law": "All four use the common pre-May-12 baseline; earlier May-12 Records affect assignment counts only.",
+  "matter_80_mechanical_statutory_copy": "Entire source annex body is unchanged within internal Record annex.",
+  "final_assignment_counts": {
+    "Stone-Zsela": 7,
+    "Stevens": 8,
+    "O'Connor": 9,
+    "Scalia": 7,
+    "Kennedy": 8,
+    "Souter": 9,
+    "Thomas": 8,
+    "Ginsburg": 8,
+    "Breyer": 7
+  },
+  "qualifying_opinions_after_83": 71,
+  "status": "PASS: local deterministic checks; root substantive QA/global checks remain separate."
+}

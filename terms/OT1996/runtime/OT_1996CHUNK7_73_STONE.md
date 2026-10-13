@@ -1,0 +1,26 @@
+# 73. Kadic v. Karadzic; Doe v. Karadzic
+
+# SECTION II — STONE POSITION SUPPLEMENT
+
+**Current approval status:** All Stone answers, reasoning, proposed dispositions and stated conditional fallbacks in this supplement are approved by the user on October 11, 2026. They are Stone’s positions for the simulation, not Court decisions. Approval does not establish missing evidence, participation or an intervening Court holding.
+
+## A. POSITION STATUS
+
+User-approved Stone position as of October 11, 2026. Approval covers the answers, reasoning, proposed disposition and stated conditions below. This is Stone's position for consideration by the Court, not a Court holding or a completed judgment.
+
+## B. ANSWERS AND APPLICATION
+
+**Question 1 — permit these claims to proceed under a confined construction of §1350.** Stone would affirm rejection of categorical dismissal based on the defendant's nonstate status. He reads §1350's reception of law-of-nations torts against its common-law adjudicative setting as authorizing recognition of a narrow civil action for sufficiently determinate and obligatory norms of personal responsibility. The statute's jurisdictional wording is not an express damages cause; its historical statutory function supplies his proposed domestic authority for this received action. A grave wrong alone supplies neither that authority nor jurisdiction. This is the same proposed statutory reasoning he approved in Abebe-Jira, independently stated here because neither packet has become a Court holding.
+
+That construction respects Suter's demand for an identified source and Central Bank's bounded received-action method. It does not convert Central Bank's securities assistance standard into the rule of command responsibility. The specific prohibition, the recognized basis for attributing responsibility to this defendant, causation and the claimed remedy each require their own support. At this stage the well-pleaded allegations are sufficient to defeat a categorical no-state/no-jurisdiction dismissal; the Court should not find the atrocities or Karadzic's participation proved.
+
+**Question 2 — reject a universal state-action condition while preserving each offense's elements.** Stone would recognize that genocide can impose personal duties without official status and that the fundamental war-crimes rules applicable to parties to an armed conflict can bind an insurgent organization and responsible individuals. Common Article 3's minimum protections would be defeated by treating the absence of diplomatic recognition as permission to attack protected civilians. The allegations of a campaign against a protected population and conflict-related atrocities must, however, satisfy the particular offense's intent and contextual elements. Ordinary private assault does not become genocide merely because it is brutal.
+
+For standalone torture or summary execution outside a proved genocide or war-crimes setting, Stone preserves the applicable official-action requirement. The alleged exercise of territorial governmental power and cooperation with an existing government require factual examination under the relevant norm; diplomatic nonrecognition alone does not decide functional color of law. He would not declare Srpska a diplomatically recognized state, dispense with TVPA conditions or invent a free-standing federal action for every private abuse. His Master commitment against legal validation of peremptory abuse does not create an action or defeat an immunity by itself.
+
+**Question 3 — reject categorical political-question or foreign-affairs abstention dismissal.** Determining whether an individual committed a legally specified international tort does not require choosing Bosnia's government, fixing borders or setting the United States' diplomatic response. Unlike the particular Senate procedure in simulated Nixon, no identified constitutional commitment assigns adjudication of these personal tort elements exclusively to a political branch. The norm-specific inquiries above supply judicial standards. The actual United States Statement of Interest disclaims a political-question obstacle, reinforcing rather than replacing the Court's independent Baker inquiry. The State Department's invitee letter identifies no service immunity; Stone would not invent future head-of-state recognition as a present defense. The act-of-state argument was not preserved below, so he would not revive it as an additional ground for dismissal. A properly presented immunity or abstention rule retains its own source and conditions in a case that actually presents it; generalized diplomatic sensitivity supplies none here.
+
+## C. PRECISE PROPOSED DISPOSITION
+
+Affirm the Second Circuit's reversal of dismissal and remand of both Kadic and Doe actions. Permit the adequately pleaded genocide and war-crimes claims to proceed without a categorical state-action bar; permit development of the alleged official-action basis for claims that require it. Reject the presented categorical political-question objection. Leave personal responsibility, proof, remaining claim-specific defenses, alternative statutory requirements and relief for ordinary adjudication. No damages, class certification, civil command-responsibility formula or general §1331 cause is awarded by this disposition.
+

@@ -1,0 +1,70 @@
+# OT1996 chunk 7, matter 79 — validated neutral handoff
+
+## Identity, channel, chronology and scope
+
+Doe v. Southeastern Pennsylvania Transportation Authority, 72 F.3d 1133; Third Circuit No. 95-1559. The authorized granted merits docket supplies review under 28 U.S.C. §1254(1), with January 13, 1997 scheduled argument and May 5, 1997 decision-event date. These Supreme Court schedule facts are supplied simulation premises, not a recovered historical disposition. No separate merits docket is invented. The Third Circuit argued October 11 and decided December 28, 1995.
+
+The three supplied questions concern constitutional confidentiality of prescription information, the justification for a government employer's acquisition of identified information to administer benefits, and limited internal disclosure. They do not themselves grant review of a distinct immunity, municipal-attribution, damages-sufficiency or Rule 59 issue. The appellate judgment reversed Doe's $125,000 compensatory judgment and directed judgment for SEPTA and Judith Pierce. Doe seeks reversal and restoration of his recovery; defendants seek affirmance. Reversal on constitutional coverage alone would not necessarily dispose of a preserved alternative appellate issue that the Third Circuit did not reach.
+
+All nine current Justices are seated: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. No case-specific nonparticipation is established. Six qualified participants constitute a quorum; ordinary appellate majority and equal-division rules apply. Participation at submission and decision remains subject to objective new information.
+
+## Supported facts and their status
+
+The complete reported lower opinion, including the concurrence and dissent, is the factual source. This is review of a denied Rule 50 motion after a plaintiff's verdict, not a pleading-stage decision. Supported evidence and reasonable inferences favor Doe; courts independently determine the constitutional rule and legal sufficiency without substituting credibility choices.
+
+SEPTA is a public transportation authority and self-insured employer. Its 1992 Rite-Aid contract made Rite Aid the prescription provider. Costs above 115% of the estimate triggered penalties, while costs at or below 90% triggered rebates. Pierce, Chief Administrative Officer, was responsible for containing those costs. Her stated purposes included detecting benefits fraud and drug abuse, checking generic substitution, examining fertility and smoking-cessation drug costs, and assessing whether the reports permitted an audit. Those are supported asserted purposes, not conclusive findings that every later use of identifiers served them.
+
+Doe was HIV-positive and had developed AIDS by trial. Before using the benefit to fill Retrovir prescriptions in 1991, he asked Dr. Press, his supervisor and head of SEPTA's Medical Department, whether employee names were reviewed with drugs. Press said he knew of named review only for suspected narcotics abuse. Doe continued using the plan after the Rite-Aid change and received no notice that confidentiality might change.
+
+In November 1992 Pierce requested utilization reports but did not request employee names. Rite Aid used its standard form, which included names or dependents, physician code, dispense date, drug, days supplied and cost for purchases costing at least $100 per employee in the preceding month. Pierce realized that the reports revealed medications but reviewed them with benefits director Aufschauer without then requesting encoding. They consulted a Physicians' Desk Reference about unfamiliar drugs. Pierce asked staff physician Van de Beek about Retrovir and Doe's other drugs without naming Doe. He already knew Doe's condition and medications from Doe and inferred the person involved. When he objected to diagnosis through prescriptions, Pierce ended the conversation and instructed him not to discuss it.
+
+Pierce then brought the report to Press, asked whether it could support an audit and whether he knew whether highlighted persons were HIV-positive. Press testified the highlighted drugs were all HIV/AIDS-related; he already knew Doe's condition from Doe. He expressed concern about the names and lacked the expertise or resources to audit. General Counsel Kilcur asked Pierce whether names were necessary; she said they were not, destroyed the report and directed future reports without names.
+
+New knowledge by Pierce and Aufschauer is established. The two physicians already knew. No evidence establishes general publication, disclosure to all coworkers, or Pierce's creation of a broadly circulated workplace AIDS list. Doe feared wider access; that fear is not proof of dissemination. The earlier packet's statement that Pierce disclosed the condition in workplace discussions beyond benefits review is withdrawn as an overstatement. Whether the actual access and use exceeded a constitutionally permissible administrative purpose remains the issue.
+
+Doe had voluntarily informed several trusted coworkers to explain absences, but not Pierce; limited disclosure does not establish universal consent. He remained employed, later received an upgrade and promotion, and claimed no economic deprivation or personal discrimination. He testified to depression, medication, perceived social distancing and changed interactions. Absence of economic loss is relevant to the actual injury and remedy but is not, under entering law, an automatic constitutional bar.
+
+The jury awarded $125,000 for emotional distress. The trial judge rejected the principal Rule 50, new-trial and reduction requests but entered judgment against the failure-to-train theory; that ruling was not appealed. The appellate opinion notes agreement that Pierce acted as a SEPTA policymaker in the relevant conduct. No new municipal-attribution defect, immunity defense or unresolved defense is inferred from silence. The appellate court expressly did not reach whether Doe's testimony sufficed to prove emotional-distress damages.
+
+## Lower reasoning and competing paths
+
+The majority treated prescription information as constitutionally protected and applied the Third Circuit's seven Westinghouse considerations: kind of record; information contained; potential harm from later disclosure; harm to the generating relationship; safeguards; need for access; and a statutory mandate, policy or other public interest favoring access. It regarded the actual intrusion as limited and the public employer's cost and misuse monitoring as weightier. It treated initial receipt as inadvertent, emphasized limited recipients and destruction, and directed judgment for defendants.
+
+Greenberg concurred in judgment and with qualifications in the opinion. He criticized factual descriptions favorable to Pierce, considered the communication to Press a disclosure despite his prior knowledge, distinguished damages from violation, and found possible employer-relationship injury and inadequate safeguards. He nevertheless thought the need for utilization information outweighed the interest. Lewis joined those first-five-factor qualifications but dissented: identifiers were concededly unnecessary, need for utilization data did not establish need for named HIV data, and the verdict had sufficient support. These are competing lower-court legal views, not Supreme Court rules or additional jury findings.
+
+Supported analytical alternatives, without attribution to an unproduced filing:
+
+* Affirm through a confined no-violation application: even assuming a protected medical-confidentiality interest, inadvertent receipt followed by limited benefits-administration review and restricted internal communication may fall within legitimate governmental use. Strongest objection: favorable inferences permit intentional research into identified illness despite admitted irrelevance of names; a generalized interest in cost data may not justify that distinct invasion.
+* Reverse or vacate the constitutional judgment through a confined extension of Sheets to deliberate, unjustified access or disclosure of identified intimate medical information. The administrative need must be assessed at the level of the information actually used, while avoiding a universal least-restrictive-means duty. Strongest objection: Sheets involved intentional public dissemination after limited entrustment; this case involves an employer administering benefits, no public release, accidental initial receipt and a prompt change in reporting.
+* Decline that extension because existing constitutional sources do not establish the asserted right against this internal use. That ground must acknowledge Sheets's binding public-disclosure holding and Whalen's separate reservation, and cannot claim no constitutional confidentiality protection exists anywhere.
+
+A supported narrower disposition may assume rather than decide the broad existence of a medical-confidentiality right. A new standard requiring factual findings the jury was not asked to make may require remand; the packet supplies no verdict form or complete instructions proving that every possible new criterion was found. No outcome rests on a supposed failure to produce those documents.
+
+## Entering law and date-eligible anchors
+
+[Reading slice](../entering-law/OT_1996CHUNK7_79_READING.md) was built with `build_entering_law.py` and supplemented by verbatim selected Holdings and authorized public projections. Its authority is the cited sources, not the derivative file.
+
+Whalen, 429 U.S. 589, upheld safeguarded mandatory identified-drug reporting on the record presented; it distinguished decisional autonomy from avoiding disclosure and expressly reserved unwarranted disclosures and systems lacking comparable safeguards. It did **not** adopt Westinghouse's seven-factor rule, establish a damages action for every medical disclosure, or require demonstrated indispensability. Brennan's compelling-interest discussion is a concurrence; Stewart disputed a general informational guarantee. The Third Circuit's characterization of Whalen as already deciding a general medical-record right must therefore not be imported as Supreme Court law.
+
+Sheets (April 29, 1996) controls only intentional official disclosure causing public dissemination of objectively intimate marital/family information entrusted for a limited investigation without adequate justification. Its seven-Justice rule and Rule 50 holding, including their reservations, are copied in the slice. Standard: **Official dissemination of intimate marital and family information**; present operation effective Sheets, 1996-04-29. A broader medical acquisition/internal-use rule remains to be decided. Hodge (October 23, 1995) granted individual immunity for 1989–1990 confidential retention and left constitutional merits open.
+
+Current-term Uhlrig (February 18, 1997) preserves conduct-time immunity's distinct, particularized inquiry without a mandatory merits-first sequence; it supplies no medical-confidentiality rule. Chandler (April 15, 1997) rejects candidacy as waiver of bodily-search protection and requires supported special need for its particular urinalysis program. It is a Fourth Amendment decision, not adoption of a medical-record due-process test. These cases cannot retrospectively establish notice at Pierce's 1992 conduct. No current-term holding in the reviewed neutral projection replaces Sheets with a universal informational-privacy balance. Refresh this packet if an earlier-effective intervening event materially changes that premise.
+
+| Justice | Own eligible writing or join and the fork it supports examining |
+|---|---|
+| Stevens | Authored Whalen and the simulated Sheets majority; safeguarded collection and actual unjustified disclosure remain distinct. |
+| O'Connor | Joined Sheets's confined right and authored Hodge's immunity opinion; coverage, application and conduct-time notice remain separate. |
+| Scalia | Sheets dissent, joined by Thomas, disputed the constitutional source while accepting supported intimate injury and intentional disclosure; Hodge join does not decide merits. |
+| Kennedy | Joined both Sheets holdings and Hodge; extension to nonpublic medical use requires its own justification and cannot be presumed from that join. |
+| Souter | Joined Sheets and Hodge; objective intimacy, source, purpose and the preservation of safeguarded administration are material. |
+| Thomas | Joined Scalia's Sheets dissent and Hodge; a demonstrated constitutional guarantee is required, without converting lack of economic loss into a categorical bar. |
+| Ginsburg | Joined Sheets's confidentiality and favorable-evidence holdings and Hodge; actual recipient scope and legal versus factual review matter. |
+| Breyer | Joined Sheets and Hodge; authored Uhlrig's current-term immunity opinion, which preserves favorable facts while separating notice from merits. |
+
+These are research anchors and limits, not proposed votes or commitments.
+
+## Source status, corrections and readiness
+
+Full lower opinion and every separate writing were read from `sources/chunk7-neutral-b/79_lower_cap.txt`, with corresponding CAP HTML metadata and text checked. Full Whalen, including footnotes and separate writings, was read from `sources/chunk7-neutral-recovery/Whalen_prediv.txt` (CAP United States Reports text, https://static.case.law/us/429/html/0589-01.html). Prior-term Sheets public entry and current neutral-projection sections were read; no private Stone, comparator, current Record or ledger was used. No claim is made to have recovered the original trial transcript, jury instructions, appellate briefs or verdict form. The lower opinion adequately supports the described legal and factual alternatives; any remedy requiring a new factual premise must obtain that premise rather than infer it.
+
+Research cutoff: May 5, 1997; legal baseline includes only earlier-effective authorized law. Ready for fresh independent modeling within the supplied grant and these limits. Preparation changes no Court action or current law.

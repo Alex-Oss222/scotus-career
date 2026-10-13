@@ -1,0 +1,29 @@
+[
+  {
+    "source": "terms\\OT1996\\sources\\chunk7-filings\\micro_IA40385013_0686 05. Petitioners Brief.txt",
+    "source_sha256": "bb80c757decdc76dc6386aafe7350c3c5478c2977f8cb9d9c0aeb619a5b432da",
+    "interval": [
+      13806,
+      35729
+    ],
+    "copy_sha256": "507c77a4acc737d7592485fd252404940be913437c878637b64f5b9aeb75ea2c"
+  },
+  {
+    "source": "terms\\OT1996\\sources\\chunk7-filings\\micro_IA40385013_0686 05. Petitioners Brief.txt",
+    "source_sha256": "bb80c757decdc76dc6386aafe7350c3c5478c2977f8cb9d9c0aeb619a5b432da",
+    "interval": [
+      35744,
+      68971
+    ],
+    "copy_sha256": "1a56fe32d2767372564d1c18dd6ab7b0ff99b15fdd8391e6ae2677720d09910c"
+  },
+  {
+    "source": "terms\\OT1996\\sources\\chunk7-filings\\micro_IA40385013_0686 07. Reply Brief.txt",
+    "source_sha256": "0169f7069b75b39bca69225facf427439fc18c39d537b48573a3b194e626b8d8",
+    "interval": [
+      4884,
+      35372
+    ],
+    "copy_sha256": "8fdb94a843645a94746af6a2720d3cd74b2018b91ce5979a4c967d38913f7771"
+  }
+]

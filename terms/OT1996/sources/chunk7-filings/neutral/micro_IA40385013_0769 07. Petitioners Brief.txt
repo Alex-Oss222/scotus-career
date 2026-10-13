@@ -1,0 +1,1001 @@
+                    QUESTIONS PRESENTED
+
+      1. Did the Court of Appeals err in applying the rule of
+Montana yv. United States, 450 U.S. 544 (1981), that the
+inherent sovereign civil regulatory jurisdiction of Indian
+tribes over the activities of non-Indians has been generally
+divested as to lands alienated from Indian title by Congress,
+to a question of tribal adjudicatory jurisdiction over a civil
+tort action between two non-Indians arising on a state high-
+way crossing Indian trust land within an Indian reservation,
+rather than applying the rule of Jowa Mutual Ins. Co. v.
+LaPlante, 480 U.S. 9 (1987), that Tribes have retained their
+civil jurisdiction over non-Indian conduct on Indian land
+unless that jurisdiction has been expressly limited by Con-
+
+gress?
+
+      2. Assuming arguendo that the Montana rule applies,
+does the Tribal Court of the Three Affiliated Tribes of the
+Fort Berthold Indian Reservation nevertheless have civil
+jurisdiction over a personal injury claim brought by a non-
+Indian resident of the Reservation with strong ties to the
+Tribe, against a non-Indian contractor that had a subcontract
+with the Tribe’s corporation to perform work on the Reserva-
+tion, to recover for damages suffered in an automobile acci-
+dent on a state highway on a federal right-of-way crossing
+Indian trust land on the Reservation?
+
+TABLE OF CONTENTS                                                   TABLE OF CONTENTS - Continued
+                                                      Page                                                                           Page
+
+QUESTIONS PRESENTED ......2sicccissestsneeueen i            B. Williams v. Lee, Merrion, National Farmers
+                                                                  Union, and lowa Mutual establish that Congress
+TABLES OF CONTENTS ......crcccevdvuneeeuel ii                     has not generally divested tribal civil jurisdic-
+                                                                  tion over the conduct of non-Indians on Indian
+TABLES OF AUTIOORITERS ... os. sccctcceseenkennaee v
+                                                            C. Montana, Brendale, and Bour land are consistent
+OPTIONS BELOW... 00 .600cccaesceunnenene I                        with a finding of tribal jurisdiction in this case
+                                                                  because those cases involved congressional
+FURS TIS oo sist ccccstvcesessesaneee I                           divestment of tribal jurisdiction.............. hs)
+
+STATUTES INVOLVED. ....50cccssencessewiee l                 D. 25 U.S.C. § 323, under which the State was
+
+STATEMENT OF THER CAGE .......ccccscucnsuneeee 2                  granted an easement to improve and maintain a
+                                                                  highway across Indian trust land within the Res-
+A. HmteeGestien ....sscecssesetacensanene 2                       ervation, does not divest the Tribe of its civil
+                                                                  jurisdiction over the activities of non-Indians on
+B. Proceedings in the Tribal Courts and in the Fed-               PEE GEGS6 Gee deeds teccetncccccccce: 19
+      oral Distiet Coutt ...6 2060 cesenseanceeeeee 4
+                                                                   1. Since the highway remains Indian land, the
+C. Proceedings in the United States Court of Appeals                    Tribe retains jurisdiction over non-Indian
+      fer he Bighth Cissell........0csssnaneeeeeee 5                    activities on the highway................ 19
+
+i. TRe Sheee Sadee Fund... .iiscocispeeee 5                       2. Even assuming arguendo that the right-of-
+                                                                        way for Highway 8 takes the highway out
+2. The Be Bane Cages... 6cccssessee eee 6                               of the category of Indian land, tribal adjudi-
+                                                                        catory jurisdiction remains............... 22
+SUMMARY OF ARGUMENT ....................... 6
+                                                                        a. The presumption of tribal civil adjudi-
+ARISUBGEING . . oo 0000000ee6e 00n6e gmen  8                                  catory jurisdiction applies even where
+                                                                              Indian title has been alienated........ 23
+I. THE TRIBE’S INHERENT SOVEREIGNTY GIVES
+     IT JURISDICTION OVER THIS CIVIL COURT                              b. The existence of tribal court jurisdic-
+     ACTION ARISING BETWEEN TWO NON.                                          tion concurrent with the state courts
+     INDIANS ON INDIAN LAND................... 8                              does not pose the compliance problems
+                                                                              of conflicting regulatory schemes.....
+A. The Tribe retains sovereignty over conduct
+      occurring within its territory unless divested of
+      such authority by Congress.................. 8
+
+                                                   iv                                       TABLE OF AUTHORITIES
+                                                                                                                                                    Page
+                TABLE OF CONTENTS -— Continued
+                                                                                Page  Cases
+                                                                                      Allen v. McCurry, 449 U.S. 90 (1980)................. 23
+Il. ASSUMING ARGUENDO THAT THE MONTANA
+   RULE APPLIES, THERE IS A CONSENSUAL                                                Brendale v. Confederated Tribes and Bands, 492 U.S.
+   RELATIONSHIP AND / OR A DIRECT EFFECT IN                                              Ge EG G6 Séseeeevineddddewee 7, 15, 17, 18, 24, 29
+   THIS CASE SUFFICIENT FOR THE TRIBE TO
+   EXERCISE ADJUDICATORY JURISDICTION ..... 26                                        Bruce H. Lien Co. v. Three Affiliated Tribes, 93 F.3d
+
+      A. Montana contemplates that reasonably foresee-                                SE    GS vn oghoudencesedenwemmedetesse 3
+             able acts stemming from a consensual relation-
+             ship will be subject to tribal jurisdiction ..... 26                     Burlington Northern R.R. Co. v. Blackfeet Tribe, 924
+
+      B. A-I's tortious conduct against a community                                   F.2d 899 (9th Cir. 1991), cert. denied, 505 US.
+            member on the Reservation threatens the Tribe's
+            economic security and political integrity... ... 28                       S656  eed6beckGs ceuédeesen <adinceve 7, 21, 22
+
+CONCLUSION                                                                            Cotton Petroleum Corp. v. New Mexico, 490 U.S. 163
+                                                                                         Sd chtvadul~abn6e6kientbtoukdanrdiceaneess xe 25
+
+                                                                                      Crider v. Zurich Insurance Co., 380 U.S. 39 (1965)... 29
+
+                                                                                      Davis v. Director, North Dakota Department of Trans-
+
+                                                                                         port, 467 N W.2d 420 (N.D. 1991). ................ 21
+
+                                                                                      Delaware Tribal Business Committee v. Weeks, 430
+                                                                                         Se Pech ELE. cn cus oneduteebnbadeeaéeswee66s 29
+
+                                                                                      Diamond Ring Trucking and Excavating v. Dawson,
+
+                                                                                         Civ. No. 11-94-A04-461A (Ft. Berth. Tr. Ct. 1995) .... 26
+
+                                                                                      Duro v. Reina, 495 U.S. 676 (1990)............. 9, 14, 15
+
+                                                                                      FMC v. Shoshone-Bannock Tribes, 905 F.2d 1311 (9th
+                                                                                         Cir. 1990), cert. denied, 499 U.S. 943 (1991)........ 28
+
+                                                                                      Fredericks v. Eide-Kirschmann Ford, Mercury, Lin-
+                                                                                         coln, Inc., 462 N.W.2d 164 (N.D. 1990)............. 25
+
+                                                                                      Gulf Offshore Co. v. Mobil Oil Corp., 453 U.S. 473
+                                                                                         Dt ties ie etd cdbbadddédseces shcukiddadsdiun tiea 24
+
+                                                                                      Hinshaw v. Mahler, 42 F.3d 1178 (9th Cir. 1994),
+                                                                                         cert. denied, 115 S.Ct. 485 (1994)........... 13, 14, 22
+
+          vi
+
+                                                                                     vii
+
+          TABLE OF AUTHORITIES - Continued                                           TABLE OF AUTHORITIES - Continued
+
+                                                                           Page                                                                       Page
+
+lowa Mutual Insurance Co. vy. LaPlante, 480 U.S. 9                               Three Affiliated Tribes v. Wold Engineering, 476 U.S.
+   FO richosiensuatbibiddeaddsee r(tieose passim                                    EE TRE IRAN al ar ED 25
+
+Keeton v. Hustler Magazine, Inc., 465 U.S. 770                                   U.S. ex rel. Morongo Band of Mission Indians vy. Rose,
+   PPE ic db ine cddcecb tibddae de d ccsneeds 30                                   34 F.3d 901 (9th Cir. 1994)........................ 18
+
+Merrion v. Jicarilla Apache Tribe, 455 US. 130                                   United States v. Finch, 548 F.2d 822 (9th Cir. 1976),
+   er+e ee ee 6, 10, 12, 17, 18, 29                                              vacated, 433 U.S.676(1977
+                                                                                                            2... 16
+Montana v. United States, 450 U.S. 544 (1981) .... passim
+                                                                                 United States v. Mitchell, 463 U.S. 206 aa             21
+
+Mountain States Telephone and Telegraph Co. vy.                                  United States v. Montana, 604 F.2d 1162 (9th Cir.
+   Pueblo of Santa Ana, 472 U.S. 237 Sbddécdéscs 21                                 WOU PN eRS hb ebhecdebetctucesicccbebthict.es:: 16
+
+National Farmers Union Insurance Cos. v. Crow                                    United States v. Wheeler, 435 U.S. 313 es eecee te 7)
+
+   Tribe, 471 U.S. 845 (1985)..................... passim                        Washington v. Confederated Tribes, 447 US. 134
+                                                                                    SUNN bhntbaesb odbibctéccakesdocécnac., 9, 12, 18, 25
+New Mexico v. Mescalero Apache Tribe, 462 U.S. 324
+   Sees 6 060-6snesheeueateneensescc 6, 12, 16, 17, 25                           White Mountain Apache Tribe v. Bracker, 448 US.
+                                                                                    _ . . . 2X hee helps Bes 1!
+North Valley Water Association v. Northern Improve-
+                                                                                 Williams v. Lee, 358 U.S. 217 (1959) ............. passim
+   ment Co., 415 N.W.2d 492 (N_D. ae ll ig 25
+
+Oliphant  v. Suquamish Indian Tribe, 435 US.  191                                Yellow Freight System, Inc. v. Donnelly, 494 U.S. 820
+   ns       Vatbenedie cdetienidensndss cea:    8, 13, 27                        AS  ween nceeece eF Cd oE ecod k Sue cheslts l... 24
+
+Preseault v. 1.C.C., 494 US. } Ee ee 21                                          Yellowstone County v. Pease, 96 F.3d 1169 (9th Cir.
+                                                                                    ieidbubhelbisshenaceneebaaboodcactck, 14, 22
+Quackenbush v. Allstate Insurance _—          ia
+OP Oe OU. Sey
+                                                  25
+                                                                                 Constitutions, Treaties, Statutes AND Copes
+Raaum v. Powers, 396 N.W.2d 306 (N.D. 1986)........ 25
+                                                                                 Treaotf yFort Laramie of Sept. 17, 1851, 11 Stat.749..___ 2
+Rice v. Rehner, 463 U.S. 713 ERE TTR rk eas 4
+                                                                                 GET Minabewdhiddsedcdcsskdasttcce.ceese 24
+
+POCO COC ESOS eee eoCOsEEDESEECCcceseceocesees 7, 9, 14, 26                      I   bad Need bkGiid i aasialy ol iSeee i 2, 11, 22
+
+                                                                                 ES, RL PC Se ee am, 20
+
+                        vill
+
+     TABLE OF AUTHORITIES — Continued                                                    TABLE OF AUTHORITIES — Continued
+                                                                       Page                                                                                 Page
+
+25 U.S.C. §§ 331-334, 339, 341, 342, 348, 349, 354,                          ADMINISTRATIVE MATERIALS
+   BE 86040006606 640s eee ssveesscvesepsteseureunas 11, 16
+                                                                             United States Department of Commerce, Bureau of
+, PFT BF                MPPTTTTITTTITTTITTIT 12                                 The Census, 1990 Census of Population.............. 3
+
+BB DBE. Ge GRIN 6 occ ccdecnccccccccsstccagcedns 3                           OE Ge Ee Mncolccacesocacedectebaveesocnons 20, 21
+
+fs ey © SPTri                           2                                    Court Rutes
+                                                                             een
+Be WR, Ge CRSA SU occ ccccccccevestvtcenenss 14, 26                                       code db eedens 6depenesceeeese 25
+
+Sp UE, BH Fee bhcoccccvctsadbassvvssacsedcroncanee 12                        MIsceLLANEOUS
+
+BD DGG. © GHBGIED . oc ccccccccccdesseasivveevevseeees i                     Felix S. Cohen, Handbook of Federal Indian Law
+                                                                                SE EE cc ct sna dep ides cedures taambebowae 9, 10, 15
+tie  | Perret ror 4, 26
+                                                                             Roger A. Cunningham, William B. Stoebuck, and
+BD Cis BH Cie cece cds cee dingedsdccanceaccesccies 13                          Dale A. Whitman, The Law of Property (2d ed.
+
+fA        erry TTTrrr i. 23                                                  L. Scott Gould, The Consent Paradigm: Tribal Sover-
+                                                                                eignty at the Millennium, 96 Colum. L. Rev. 809
+Act of March 3, 19°01, 31 Stat. 1083.................. 20                       i <ced scuaeaas heats O¥6 6eEs 6) 00s8ss $eeeseeses 11
+
+Act of Fob. S$, 1946. G2 Seat. 17.2...  ccc cccccccccnes 3                   Judge Robert E. Keeton, Part |; The Changing Lives
+                                                                                of Professionals in Law, 37 Ariz. L. Rev. 419
+Flood Control Act of 1944, 58 Stat. 887 .............. 18                       hs occeuche 6asdsban &b60 thane de ddees bees sab sud 29
+
+Cheyenne River Act of Sept. 3, 1954, 68 Stat. 1191 .... 18
+
+Const. and By-Laws of the Three Affiliated Tribes,
+   ee, Bis es Wns 2sndnddcdddhdombocusckssdeoteneese. 3
+
+Code of Laws of the Three Affiliated Tribes, Chaps.
+   So Dy Os ob 0b bcceasseccousousovesonceees pay oe, OO
+
+LectsLatTive MATERIALS
+
+                                       l
+
+                         OPINIONS BELOW
+
+      The en banc judgment and opinion and dissenting opin-
+ion of the Court of Appeals for the Eighth Circuit, entered
+February 16, 1996, are reported at 76 F.3d 930, and reprinted
+in the Joint Appendix, J.A. 91-138. The order of the Court of
+Appeals granting rehearing en banc entered on January 9,
+1995 is reprinted in the Appendix to the Petition for Cer-
+tiorari at page 49. The opinion and dissenting opinion of the
+three judge panel of the Court of Appeals, entered November
+29, 1994 and vacated by the granting of rehearing en banc,
+are reprinted at J.A. 68-90. The District Court’s memorandum
+and order, entered September 16, 1992, are unpublished a».
+reprinted at J.A. 54-67. The memorandum opinion of the
+Northern Plains Intertribal Court of Appeals, dated January 8,
+1992 is unpublished and reprinted at J.A. 26-37. The opinion
+and order of the Tribal Court of the Three Affiliated Tribes of
+the Fort Berthold Indian Reservation, filed on September 4,
+1991, is unpublished and reprinted at J.A. 19-25.
+
+                            JURISDICTION
+
+      Rehearing en banc by the Court of Appeals for the Eighth
+Circuit was granted by order of January 9, 1995. The en banc
+judgment and opinion and dissenting opinion of the Court of
+Appeals were entered on February 16, 1996. A petition for a
+writ of certiorari was filed with this Court on May 16, 1996,
+[Historical Supreme Court petition-treatment metadata omitted by control.]
+petition by order dated October 1, 1996.
+
+      This Court has jurisdiction to review the final en banc
+judgment of the Court of Appeals for the Eighth Circuit under
+28 U.S.C. § 1254/').
+
+                       STATUTES INVOLVED
+
+       The statutes involved are set out verbatim as follows:
+
+      A. 25 U.S.C. § 323. Rights-of-way for all purposes
+across any Indian lands:
+
+                                       2                                                                 3
+
+      The Secretary of the Interior be, and he is empowered to    2,396 are non-Indians. United States Department of Com-
+grant rights-of-way for all purposes, subject to such condi-      merce, Bureau of the Census, 1990 Census of Population.
+tions as he may prescribe, over and across any lands now or
+hereafter held in trust by the United States for individual            Pursuant to its Constitution, the Tribe has established a
+Indians or Indian tribes, communities, bands, or nations, or      Tribal Court as the judicial branch of its government. Const.
+any lands now or hereafter owned, subject to restrictions         and By-Laws of the Three Affiliated Tribes, Art. IV, Sec. 3.
+against alienation, by individual Indians or Indian tribes,       The Tribal Court is funded primarily under the Indian Self-
+communities, bands, or nations, including the lands belonging     Determination and Education Assistance Act, 25 U.S.C.
+to the Pueblo Indians in New Mexico, and any other lands
+heretofore or hereafter acqvired or set aside for the use and     §§ 450-450n, and is supplemented by tribal funds. The Tribal
+benefit of the Indians.
+                                                                  Court operates pursuant to a written code of laws adopted by
+      B. 18 U.S.C. § 1151. Indian country defined:                the Tribe and approved by the Secretary of the Interior. Code
+                                                                  of Laws of the Three Affiliated Tribes, Chap. 1, Secs. 1-3.6
+      Except as otherwise provided in sections 1154 and 1156
+of this title, the term “Indian Country,” as used in this chap-   (Tribal Business Council Resolution 82-192, Oct. 22, 1982).
+ter, means (a) all land within the limits of any Indian reserva-
+tion under the jurisdiction of the United States Government,      Appeals may be taken froin the Tribal Court to the Northern
+notwithstanding the issuance of any patent, and, including        Plains Intertribal Court of Appeals, which also receives fed-
+rights-of-way running through the reservation, (b) all depen-     eral funding under the Indian Self-Determination and Educa-
+dent Indian communities within the borders of the United          tion Assistance Act. See Bruce H. Lien Co. v. Three Affiliated
+States whether within the original or subsequently acqu red       Tribes, 93 F.3d 1412, 1416 n.7 (8th Cir. 1996).
+territory thereof, and whether within or without the limits of a
+State, and (c) all Indian allotments, the Indian titles to which        On November 9, 1990, there was a two-vehicle accident
+have not been extinguished, including rights-of-way running       on North Dakota Highway 8 within the exterior boundaries of
+through the same.                                                 the Reservation near the small community of Twin Buttes.
+                                                                  Highway 8 enters the southern boundary of the Reservation
+                      STATEMENT OF THE CASE                       several miles south of Twin Buttes. The authority for High-
+                                                                  way 8 to enter the Reservation is an easement granted by the
+       A. Introduction                                            Bureau of Indian Affairs to the North Dakota Highway
+                                                                  Department on May 8, 1970 pursuant to 25 U.S.C.
+      The Three Affiliated Tribes (Mandan, Hidatsa, and
+Arikara) of the Fort Berthold Indian Reservation are a feder-     §§ 323-328, Act of Feb. 5, 1948, 62 Stat. 17. On the Reserva-
+ally-recognized Indian tribe (the Tribe) which exercises its
+sovereignty under a constitution adopted pursuant to the          tion, Highway 8 crosses 6.59 miles of Indian trust land before
+                                                                  it ends at the shores of Lake Sakakawea. Highway 8 does not
+Indian Reorganization Act of 1934, 25 U.S.C. §§ 461-479,          cross any non-trust land within the Reservation.
+
+and approved by the Secretary of the Interior. The Tribe is             The drivers of the vehicles in the accident, Gisela Fre-
+located on the Fort Berthold Indian Reservation (the Reserva-     dericks and Lyle Stockert, are both non-Indians. Gisela Fre-
+tion) in west central North Dakota pursuant to the Treaty of      dericks is a long-time Reservation resident, the widow of
+Fort Laramie of Sept. 17, 1851, 11 Stat. 749, with the United     tribal member Kenneth Fredericks, and the mother of five
+States. The population of the Reservation includes 2,999          adult children who are tribal members. Lyle Stockert is an
+enrolled tribal members and 2,458 nonmembers, of whom             employee and part owner of A-1 Contractors, a non-Indian
+                                                                  subcontracting company located off the Reservation. Gisela
+                                                                  Fredericks was seriously injured in the accident and was
+                                                                  hospitalized for twenty-four days.
+
+                                                  4                                                                   5
+
+      At the time of the accident, Lyle Stockert was driving a                 court for North Dakota (J.A. 41-45). In addition to the Fre-
+company gravel truck. A-1 Contractors previously had                           dericks, the Tribal Court and the Tribal Court Judge (here-
+entered into a $12,490 subcontract on the Reservation with                     inafter collectively referred to as “the Tribal Defendants”)
+LCM Corporation, an entity wholly owned by the Tribe.                          were named as defendants (J.A. 41-42). The Tribal Defen-
+Under the subcontract, A-1 Contractors did excavating, berm-                   dants waived their immunity and consented to suit for the
+ing, and recompacting in connection with the construction of                   limited purpose of defending the federal law claims against
+the Twin Buttes tribal community center. All of A-1 Contrac-                   tribal jurisdiction in this case (J.A. 46-53).
+tors’ work under the subcontract was performed within the
+boundaries of the Reservation.                                                       On cross-motions for summary judgment, the Honorable
+                                                                               Patrick A. Conmy denied A-1’s motion and granted the Fre-
+      B. Proceedings in the Tribal Courts and in the Fed-                      dericks’ and Tribal Defendants’ motions (J.A. 54-67). The
+            eral District Court                                                district court based its decision largely on this Court’s deci-
+                                                                               sion in Jowa Mutual Ins. Co. v. LaPlante, 480 U.S. 9 (1987).
+      Mrs. Fredericks and her five adult children (hereinafter
+collectively referred to as “the Fredericks”), sued Lyle Stock-                      C. Proceedings in the United States Court of Appeals
+ert and A-1 Contractors (hereinafter collectively referred to as                            for the Eighth Circuit
+“A-1”")! in Tribal Court for damages for injuries allegedly
+sustained in the accident as a result of their negligence. Mrs.                             1. The Three Judge Panel
+Fredericks sought $1,000,000 for her personal injuries and
+medical expenses. Her children sought $1,000,000 for loss of                         A-1 appealed to the Court of Appeals for the Eighth
+consortium (J.A. 5-10).                                                        Circuit.3 A three-judge panel ruled 2-1 in favor of tribal court
+                                                                               jurisdiction over Mrs. Fredericks’ action (J.A. 68-90). The
+      A-1 moved to dismiss the action for lack of jurisdiction                 majority opinion was authored by Judge McMillian and joined
+under federal law (J.A. 11-18). The Tribal Court held that it                  by Judge Floyd R. Gibson. The majority upheld tribal court
+had jurisdiction under federal law over Mrs. Fredericks’                       jurisdiction under this Court’s decision in Jowa Mutual Ins.
+action. The Northern Plains Intertribal Court of Appeals                       Co. v. LaPlante, and, alternatively, under this Court’s decision
+affirmed and remanded the case to the Tribal Court for further                 in Montana v. United States, 450 U.S. 544 (1981). (J.A.
+proceedings (J.A. 26-37). No further proceedings have                          69-81). Judge Hansen dissented, on the grounds that /Jowa
+occurred against A-1 in this case in Tribal Court since the                    Mutual Ins. Co. v. LaPlante is inapplicable to this case, and
+remand.                                                                        that tribal jurisdiction in the case is unsustainable under
+                                                                               Montana v. United States (J.A. 81-90).
+      Under 28 U.S.C. § 1331, A-1l sought declaratory and
+injunctive relief from tribal jurisdiction in the federal district                    3 The issue of personal jurisdiction of the Tribal Court over A-1 was
+                                                                               raised in and reached by the Tribal Court (J.A. 24), the Tribal Court of
+      ' Also named, but later dismissed, was Continental Western               Appeals (J.A. 27), and the federal district court (J.A. 63). All of these
+Insurance Company, A-1's insurer on the subcontract activities (J.A.           courts found that the Tribal Court has personal jurisdiction over A-1.
+38-40). A punitive damages claim was dismissed when the insurance               Before the Court of Appeals, A-1 raised only the issue of subject matter,
+company was dismissed.                                                          not personal, jurisdiction (J.A. 92).
+
+      2 The Tribal Court expressly declined to reach or express any opinion
+as to its jurisdiction over the consortium claims by Mrs. Fredericks’
+children (J.A. 25). No other court has reached this issue in this litigation.
+
+                                              6                                     titi iatiaiati
+
+              2. The En Banc Court                                                                           7
+
+      The en banc Court of Appeals ruled 8-4 against tribal             This general rule is dispositive of this case. In those
+court subject matter jurisdiction over Mrs. Fredericks’ action    cases which have found against tribal civil jurisdiction over
+(J.A. 91-138). Judge Hansen authored the majority opinion         non-Indian activities, the Court has done so, consistent with
+which was joined by Chief Judge Richard S. Arnold, and            the doctrine of inherent sovereignty, only after finding a
+Judges Fagg, Bowman, Wollman, Magill, Loken, and Morris           congressional divestment of tribal sovereignty through the
+Shepard Arnold. The majority thought that Jowa Mutual Ins.        alienation of Indian land to non-Indians. E.g., Montana v.
+Co. v. LaPlante is inapplicable to this case, and that tribal     United States, 450 U.S. 544 (1981) (General Allotment Act);
+jurisdiction in the case is unsustainable under Montana vy.       Brendale v. Confederated Tribes and Bands, 498 U.S. 408
+United States (J.A. 91-114). Judges McMillian, Floyd R.           (1989) (General Allotment Act); South Dakota v. Bourland,
+Gibson, Beam, and Murphy dissented. Judge Beam wrote a            508 U.S. 679 (1993) (Flood Control Project Acts).
+concurring and dissenting opinion, in which he stated that he
+would uphold tribal jurisdiction in this case under Montana v.          The title to the land on which this case arose has not been
+United States, (J.A. 114-121). Judges Gibson and McMillian        alienated to non-Indians. Although the state maintains a high-
+wrote dissenting opinions, arguing that tribal jurisdiction       way over the land pursuant to an easement, the land remains
+should be upheld under both Jowa Mutual Ins. Co. v. LaPlante      Indian trust land. See Burlis gton Northern R.R. Co. v. Black-
+and Montana v. United States (J.A. 121-138). All four dissent-    feet Tribe, 904 F.2d 899 (9th Cir. 1991), cert. denied, 505
+ing Judges joined each of the dissenting opinions.                U.S. 1212 (1992) (absent express congressional provision
+                                                                  otherwise, tribe retains beneficial title to land underlying
+      The Tribe’s and the Fredericks’ Petition for a Writ of      railroad right-of-way).
+Certiorari to this Court followed on May 16, 1996.
+                                                                        But even if the easement affects the highway's status as
+                   SUMMARY OF ARGUMENT                            Indian land, in the area of adjudicatory jurisdiction that does
+                                                                  not amount to a congressional divestment of tribal sover-
+      I. The fundamental principle of Indian tribal sover-        eignty over non-Indian conduct. National Farmers Union Ins.
+eignty is that it is inherent. While it is subject to divestment  Cos. v. Crow Tribe, 471 U.S. 845 (1985) (in a tribal court case
+by Congress, it continues unless and until it has been            arising on non-Indian fee land, the Court holds that tribal
+divested. A Tribe’s sovereignty extends over its members and      jurisdiction is not automatically foreclosed); Jowa Mutual Ins.
+over its territory. Within its territory, a tribe’s sovereignty   Co. v. LaPlanie, 480 U.S. 9 (1987) (in a tribal court case
+encompasses the conduct of non-Indians as this Court has          arising on a federal highway, the Court holds that tribal
+recognized in a variety of contexts. E.g., Merrion v. Jicarilla   jurisdiction is presumptive). There are good reasons this is so.
+Apache Tribe, 455 U.S. 130 (1982) (taxation of oil and gas        Adjudicatory jurisdiction is less intrusive than regulatory
+severance); New Mexico v. Mescalero Apache Tribe, 462 U.S.        jurisdiction. In addition, adjudicatory jurisdiction can be con-
+324 (1983) (regulation of hunting and fishing); Williams v.       current with another sovereign whereas dual regulatory juris-
+Lee, 358 U.S. 217 (1959) (civil tribal court cases brought by     diction may create an unreconcilable conflict.
+non-Indians against Indians); National Farmers Union Ins.
+Cos. v. Crow Tribe, 471 U.S. 845 (1985) (civil tribal court             The proposition that a Tribe's court may hear a civil
+cases brought by Indians against non-Indians); accord lowa        action involving two non-Indians when one of the non-Indians
+Mutual Ins. Co. v. LaPlante, 480 U.S. 9 (1987).                   chooses to bring the case in tribal court is unremarkable.
+                                                                  Williams v. Lee, 358 U.S. 217 (1959), makes clear that there is
+                                                                  nothing inherently offensive about forcing non-Indians
+                                                                  involved in civil disputes on Indian land to appear in tribal
+                                                                  court. Santa Clara Pueblo v. Martinez, 436 U.S. 49 (1978),
+
+ee
+
+states that tribal courts are recognized as the fora for resolv-                                             9
+ing reservation-based civil disputes involving non-Indians.
+National Farmers and lowa Mutual show that tribal court                  The powers of Indian tribes are, in general, “inher-
+jurisdiction over non-Indian defendants in the civil area, as            ent powers of a limited sovereignty which has never
+opposed to the criminal area, see Oliphant v. Suquamish                  been extinguished.” F. Cohen, Handbook of Federal
+Tribe, 438 U.S. 191 (1978), is not inconsistent with overrid-             Indian Law 122 (1945) (emphasis in original).
+ing national interests.                                                   Before the coming of the Europeans, the tribes were
+                                                                          self-governing sovereign political communities. . . .
+      Il. Alternatively, assuming arguendo that the Tribe must            .... The sovereignty that the Indian tribes retain is
+meet the Montana “tribal interest test” to have jurisdiction over        of a unique and limited character. It exists only at
+this case, the Tribe can show either a consensual relationship           the sufferance of Congress and is subject to com-
+or a threat or effect on the Tribe sufficient to meet that test.         plete defeasance. But until Congress acts, the tribes
+                                                                          retain their existing sovereign powers.
+      Regarding the consensual relationship, A-1 Contractors
+and its employee were on the Reservation pursuant to a sub-        United States v. Wheeler, 435 U.S. 313, 322-23 (1978);
+contract with the Tribe's corporation to help build a tribal       accord Williams v. Lee, 358 U.S. 217, 223 (1959) (“If this
+community center. Montana does not limit tribal jurisdiction to    power is to be taken away from them, it is for Congress to do
+the “four corners” of the construction subcontract. Rather,        it”); Santa Clara Pueblo v. Martinez, 436 U.S. 49, 60 (1978)
+consensual relationship jurisdiction under Montana encom-          (“a proper respect both for tribal sovereignty itself and for the
+passes reasonably foreseeable consequences of the subcontract,     plenary authority of Congress in this area cautions that we
+such as an injury accident involving the company gravel truck.     tread lightly in the absence of clear indications of legislative
+                                                                   intent”).4
+      In addition, A-1’s tortious conduct against a member of
+the Reservation community threatens the Tribe economically               Absent congressional divestment, a tribe's inherent sov-
+with respect to provision of services to injured community         ereignty extends to both its members and its territory. “We
+members and their families on the Reservation. Tortious con-
+duct on the Reservation also threatens the Tribe politically with        * “This Court has found implicit divestiture of inherent sovereignty
+respect to determination of tort law on the Reservation.           necessary only “where the exercise of tribal sovereignty would be
+                                                                   inconsistent with the overriding interests of the National Government, as
+                               ARGUMENT                            when [1] the tribes seek to engage in foreign relations, [2] alienate their
+                                                                   lands to non-Indians without federal consent, or [3] prosecute non-Indians
+I. THE TRIBE’S INHERENT SOVEREIGNTY GIVES IT                       in tribal courts which do not accord the full protections of the Bill of
+    JURISDICTION OVER THIS CIVIL COURT ACTION                      Righ " St outsh . Dak” ota v.Bourla5n08dU,.S. 676999 (, 1993) (Souter, J.,
+     ARISING BETWEEN TWO NON-INDIANS ON                            dissenting), citing Washington v. Confederated Tribes, 447 U.S. 134,
+     INDIAN LAND                                                   153-154 (19s8 ee 0 als) o D; uro v. Rein49a5 ,U.S. 676 (1990) (tribes lack
+                                                                   criminal jurisdiction over Indians who are members of another tribe), cf.
+      A. The Tribe retains sovereignty over conduct occur-         Rice v. Rehner, 463 U.S. 713, 726 (1983) (liquor regulation).
+            ring witith s ti errn itory unless divested of such
+            authority by Congress                                        The precs ase,eon f coturse, involves tribal civil court jurisdictiona,n
+                                                                   area in which divestment must be congressionaEl..g., Jowa Mutual Ins. Co.
+      The fundamental principle of federal Indian law is that      v.LaPla4n80tUe.S,. 9, 18 (1987) (“In the absence of any indication that
+the sovereignty of Indian tribes is inherent and exists unless     Congress intended . . . to limit the jurisdiction of the tribal courts, we
+and until it has been divested by Congress.                        decline petitioner's invitation to hold that tribal sovereignty can be
+                                                                   impa in i thir s faeshidon”).
+
+                                          10                       Some of this land today remains owned by non-Indians. This
+
+have repeatedly recognized the Federal Government's long-          Court takes into account the effects of the allotment scheme
+standing policy of encouraging tribal self-government. This
+policy reflects the fact that Indian tribes retain “attributes of  on tribal sovereignty and tribal territorial jurisdiction. See
+sovereignty over both their members and their territory,” to       Montana v. United States, 450 U.S. 544, 561 (1981) (Mon-
+the extent that sovereignty has not been withdrawn by federal      tana) (“treaty rights with respect to reservation lands must be
+Statute or treaty.” Jowa Mutual Ins. Co. v. LaPlante, 480 U.S.     read in light of the subsequent alienation of those lands” by
+9, 14 (1987) (lowa Mutual) (citations omitted).                    Congress).
+
+       In Merrion v. Jicarilla Apache Tribe, 455 U.S. 130                 Despite the acts which opened up reservations and alien-
+                                                                   ated land within them, “[t)]he Court has repeatedly empha-
+(1982) (Merrion), the seminal case on tribal taxation of non-      sized that there is a significant geographic component to
+Indian activities within a reservation, the Court concluded
+that:                                                              tribal sovereignty. . . . " White Mountain Apache Tribe v.
+                                                                   Bracker, 448 U.S. 136, 151 (1980); see also L. Scott Gould,
+       “Indian tribes within ‘Indian country’ are a good
+      deal more than ‘private, voluntary organizations.’ ”         The Consent Paradigm: Tribal Sovereignty at the Millennium,
+      They “are unique aggregations possessing attributes          96 Colum. L. Rev. 809, 837 (1996) (“the historical presump-
+      of sovereignty over both their members and their             tion on which the doctrine of inherent sovereignty
+      territory.”
+                                                                   rest[s] . . . [is] that tribes have territorial sovereignty unless
+       ....[T)he Tribe's authority to tax non-Indians who
+      conduct business on the reservation does not simply          limited by treaty or acts of Congress”).
+      derive from the Tribe’s power to exclude such per-
+       sons, but is an inherent power necessary to tribal                B. Williams v. Lee, Merrion, National Farmers Union,
+       self-government and territorial management.                             and Jowa Mutual establish that Congress has not
+
+455 U.S. at 140-41 (citations omitted).                                       generally divested tribal civil jurisdiction over
+
+      In upholding tribal court jurisdiction over a contract                    the conduct of non-Indians on Indian land‘
+action that arose between a tribal member and a non-Indian on
+a reservation, the Court stated:                                         Williams v. Lee, the landmark case upholding tribal civil
+                                                                   jurisdiction over non-Indians on Indian land, was a lawsuit
+       It is immaterial that respondent is not an Indian. He       brought in state court by a non-Indian against a tribal member
+      was on the Reservation and the transaction with an           to collect a debt incurred on a reservation. 358 U.S. at
+       Indian took place there. The cases in this Court            217-218. This Court recognized that Congress has not gener-
+      have consistently guarded the authority of Indian            ally granted civil jurisdiction to the states over court cases
+      governments over their reservations.                         involving non-Indians on Indian land. Jd. at 218-222. The
+
+Williams v. Lee, 358 U.S. at 223 (citations omitted).                    > In this Brief, the term “Indian land” refers to land in which the Tribe
+                                                                   or tribal members have an interest. It does not include land owned in fee by
+      Largely due to now-discredited federal policies of the       non-Indians or oth.. land alienated from Indian title by Congress. See 18
+late nineteenth century such as allotment and sale of “sur-        U.S.C.§ 1151, as construed by this Court in accordance with other federal
+plus” Indian land, many Indian reservations have not               statutes, ¢.g., Montana, 450 U.S. at 557-566 (General Allotment Act, 25
+remained closed territories. During the allotment era, acts of     U.S.C. §§ 331-334, 339, 341, 342, 348, 349, 354, 381, generally divests
+Congress opened these reservations to homesteaders and in          tribal jurisdiction to regulate non-Indian activities on non-Indian fee land
+some instances patented in fee simple substantial acreage          wita rh esei rvatnion).
+within reservations to non-Indians. See generally Felix S.
+
+Cohen, Handbook of Federal Indian Law, 127-143 (1982 ed.).
+
+                                                                                a
+
+                                      12                                                                                      13
+
+Court noted that Public Law 280, 25 U.S.C. § 1322, provides                         arguing against tribal court jurisdiction to hear a reservation-
+                                                                                    based tort claim against non-Indians, the non-Indians in
+for limited state court jurisdiction over civil actions in Indian                   National Farmers urged the Court to extend to civil cases the
+country, but Arizona had not taken advantage of that provi-
+                                                                                    rule of Oliphant v. Suquamish Indian Tribe, 435 U.S. 191
+sion. 358 U.S. at 222-223. Since Congress had neither granted
+                                                                                    (1978), that tribal criminal powers over non-Indians have
+state jurisdiction nor divested tribal jurisdiction, the Court                      — generally and implicitly divested. The Court refused to
+held that inherent and exclusive jurisdiction is in the tribal
+courts. /d. at 223; cf. New Mexico v. Mescalero Apache Tribe,                        © so.
+462 U.S. 324 (1983) (in challenge to state’s authority to
+regulate the hunting and fishing of non-Indians on Indian                                  In Oliphant we . . . concluded that federal legislation
+land, Court holds that jurisdiction to regulate hunting and                               conferring jurisdiction on the federal courts to try
+fishing by non-Indians on Indian land is exclusive with the                               non-Indians for offenses committed in Indian Coun-
+                                                                                          try had implicitly preempted tribal jurisdiction.
+tribe).                                                                                    ... » For several reasons, however, the reasoning of
+                                                                                          Oliphant does not apply to this case
+      Williams v. Lee laid the foundation for a clear rule that                            . . » » [W]e conclude that the answer to the question
+tribes retain their inherent civil jurisdiction over the conduct                          whether a tribal court has the power to exercise
+of non-Indians on Indian land unless such jurisdiction has                                civil subject-matter jurisdiction over non-Indians in
+been expressly divested by Congress. Subsequent cases have                                a case of this kind is not automatically foreclosed,
+sustained inherent tribal jurisdiction over non-Indian conduct
+on Indian land against arguments that a particular federal                                 as an extension of Oliphant would require.
+statute has divested tribal jurisdiction.                                          471 U.S. at 853-856.
+
+      In Merrion, provisions of the Indian Mineral Leasing                                In Jowa Mutual, the Court rejected the argument that the
+Act, 25 U.S.C. §§ 396a-396g, and other federal energy legis-                       federal diversity jurisdiction statute, 28 U.S.C. § 1332,
+lation were alleged to have divested a tribe’s inherent sover-                     divested tribal authority to adjudicate a civil tort case arising
+eignty to impose a severance tax on oil and gas development                        on a reservation and involving a non-Indian defendant.
+activities conducted by non-Indians on Indian land. 455 U.S.
+at 149-152. The Court disagreed that these statutes were                                  Tribal authority over the activities of non-Indians
+“clear indications” of divestment and upheld the tribe's right                            on reservation lands is an important part of tribal
+to tax. Id. at 152;6 cf. Washington v. Confederated Tribes, 447                           sovereignty. Civil jurisdiction over such activities
+U.S. 134, 152 (1980) (tribes can tax cigarette purchases by                               presumptively lies in the tribal courts unless affir-
+nonmembers on Indian land because “federal law to date has                                matively limited by a specific treaty provision or
+not worked a divestiture of Indian taxing power”).                                        federal statute. “Because the Tribe retains all inher-
+                                                                                          ent attributes of sovereignty that have not been
+       National Farmers Union Ins. Cos. v. Crow Tribe, 471                                divested by the Federal Government, the proper
+ U.S. 845 (1985) (National Farmers), presented a non-statu-                               inference from silence . . . is that the sovereign
+                                                                                          power .. . remains intact.”
+ tory challenge to the civil jurisdiction of a tribal court. In                    480 U.S. at 18 (citations omitted).
+                                                                                         The district court in this case thus correctly held that
+      6 The Court in Merrion explicitly based tribal taxing power not on the       “(t}he law is clear that Tribal Courts have civil jurisdiction
+                                                                                   over non-Indians unless specifically limited by treaty or fed-
+ consent of the taxpayer, but on “the tribe's general authority, as sovereign,     eral statute. See Jowa Mutual Ins. Co. v. LaPlante, 480 U.S. 9
+ to control economic activity . . . and to defray the cost of providing
+ governmental servi..c.e"s455 U.S. at 137, 147.                                    (1987).” (J.A. 63); accord Hinshaw v. Mahler, 42 F.3d 1178,
+
+                                         14                                                                                15
+
+1181 (9th Cir. 1994), cert. denied, 115 S.Ct. 485 (1994)                                for example, resolve civil disputes involving non-
+(upholding tribal court jurisdiction over tort claims brought                           members, including non-Indians. . . . “The develop-
+by a tribal member against a non-Indian and arising out of an                           ment of principles governing civil jurisdiction in
+automobile accident on a federal highway running through an                             Indian country has been markedly different from the
+                                                                                        development of rules dealing with criminal jurisdic-
+Indian reservation, because “(t]he Tribes’ jurisdiction has not                         tion.”
+                                                                                 Duro v. Reina, 495 U.S. at 687-88, citing Felix S$. Cohen,
+been limited by treaty or statute ... ”); but cf. Yellowstone                    Handbook of Federal Indian Law 253 (1982 ed.). Clearly, the
+County v. Pease, 96 F.3d 1169, 1175-1176 (9th Cir. 1996)                         criminal cases do not alter the rule, hereinafter referred to as
+(explaining Hinshaw as being decided under the Montana                           “the Jowa Mutual rule,” that, absent divestment by Congress,
+rule, not the Jowa Mutual rule).                                                 tribes retain inherent civil jurisdiction over the conduct of
+                                                                                 non-Indians on Indian land.
+      The Court’s treatment of tribal civil jurisdiction is vastly
+different than its treatment of tribal criminal jurisdiction.’ In                       C. Montana, Brendale, and Bourland are consistent
+Oliphant the Court expressed grave concerns about the tre-
+mendous potential infringement on personal liberty posed by                                  with a finding of tribal jurisdiction in this case
+criminal jurisdiction. 435 U.S. at 210-212. The same concerns                                because those cases involved congressional divest-
+led the Court in Duro v. Reina, 495 U.S. 676 (1990), to                                      ment of tribal jurisdiction
+prohibit Indian tribes from trying and punishing Indians who                           Tribal jurisdiction in this case is consistent with Montana
+are members of another tribe. 495 U.S. at 693-94.8                              and its progeny, Brendale v. Confederated Tribes and Bands,
+
+       Williams v. Lee, however, makes clear that there is noth-                492 U.S. 408 (1989) (Brendale), and South Dakota vy. Bour-
+ing inherently offensive about forcing non-Indians to appear                    land, 508 U.S. 679 (1993) (Bourland). A-1 misreads these
+in tribal court civil actions. 358 U.S. at 223. A unanimous
+Court in National Farmers rejected a general divestment rule                    Cases as creating a general rule of divestiture regarding tribal
+for tribal civil court jurisdiction, 471 U.S. at 853-856.                       civil jurisdiction over non-Indian conduct anywhere on Indian
+“Although the criminal jurisdiction of the tribal courts is                     reservations. In effect, A-1 argues that these cases overrzie
+subject to substantial federal limitation, their civil jurisdiction             the Jowa Mutual rule cases. But there has been no such
+is not similarly restricted.” Jowa Mutual, 480 U.S. at 15.                      overruling, and a proper reading shows that Montana, Bren-
+                                                                                dale, and Bourland turned on this Court's findings that rele-
+        [O]ur decisions recognize broader retained tribal                       vant acts of Congress diminished the tribal civil regulatory
+       powers outside the criminal context. Tribal courts,                      jurisdiction over non-Indian activities on the non-Indian land
+                                                                                involved in those cases.
+       ’ Congress likewise has placed greater restrictions on tribal authority
+in criminal cases than in civil cases. The Indian Civil Rights Act of 1968,           For example, the tribal jurisdictional issue in Montana
+ 25 U.S.C. §§ 1301-1303, confers habeas corpus jurisdiction on federal          was regulation of hunting and fishing by non-Indians within a
+courts to review tribal incarcerations alleged to violate that Act, while the   reservation. 450 U.S. at 557-566. At the outset the Court
+ Act leaves tribal courts free from federal court review of civil cases. Santa  specifically separated the issue of the tribe’s authority to
+ Clara Pueblo v. Martinez, 436 U.S. at 61-72.                                   regulate the activities of non-Indians on Indian land from the
+                                                                                issue of tribal authority to regulate such activities on land
+       8 Duro has since been overturned by Congress to clarify that tribes      owned in fee by non-Indians.
+ may exercise some criminal jurisdiction over members of other tribes. 25
+ U.S.C. § 1301(2)-(4), Pub L. 101-511, Nov. 5, 1990, 104 Stat. 1893.                  The Court of Appeals held that the Tribe may pro-
+                                                                                      hibit nonmembers from hunting or fishing on land
+
+                                         16                                                                   17
+
+      belonging to the Tribe or held by the United States          title, tribal jurisdiction to regulate the activities of non-
+      in trust for the Tribe, and with this holding we can         Indians on such land remains only where the Montana “tribal
+      readily agree. We also agree with the Court of               interest test” is met. Montana, 450 U.S. at 565-566: see also
+      Appeals that if the Tribe permits nonmembers to
+      fish or hunt on such lands, it may condition their           infra, Part II of this Brief (discussing the tribal interest test)
+      entry by charging a fee or establishing bag and creel
+      limits. What remains is the question of the power of         Subsequent cases of this Court clarify that application of the
+      the Tribe to regulate non-Indian fishing and hunting         Montana rule turns on whether the activities sought to be
+      on reservation land owned in fee by nonmembers of            regulated take place on Indian land or on non-Indian land.
+      the Tribe.
+450 U.S. at 557 (citations omitted).                                     For example, one term after Montana, the Court in Mer-
+      The court of appeals in Montana had held that “the right     rion upheld tribal taxation of non-Indian activities conducted
+of Indians to control hunting, trapping and fishing on their       on Indian land without reference to the Montana rule. “The
+lands” through civil regulation was an inherent sovereign          Tribe has the inherent power to impose the severance tax on
+right confirmed in the tribe’s treaties and undiminished by        petitioners. . . . Because Congress may limit tribal sover-
+Congress. United States v. Montana, 604 F.2d 1162,                 eignty, we now review petitioners’ argument that Congress
+1166-1167 (9th Cir. 1979), citing United States v. Finch, 548      when it enacted two federal Acts governing Indians and
+F.2d 822 (9th Cir. 1976), vacated on other grounds, 433 U.S.       various pieces of federal energy legislation, deprived the
+676 (1977). This Court “readily agreed” with this holding.        Tribe of its authority to impose the severance tax.” 455 U.S
+450 U.S. at 557; see also New Mexico v. Mescalero Apache          at 149. As discussed above, the Court found no divestment
+Tribe, 462 U.S. at 344 (tribal authority to regulate non-Indian   and thus upheld tribal jurisdiction. Jd. at 149-152.
+hunting and fishing on Indian land is exclusive of state
+authority).                                                              In New Mexico v. Mescalero Apache Tribe, the state
+       On the separate issue in Montana of “the question of the   relied on Montana for its claimed jurisdiction to regulate
+power of the Tribe to regulate non-Indian fishing and hunting     hunting and fishing of non-Indians on Indian land. The Court
+on reservation land owned in fee by nonmembers of the             made quite clear the Montana rule's land basis.
+Tribe,” this Court reversed the court of appeals. 450 U.S. at
+ 557. The Court found that neither the tribe's inherent sover-           Our decision in Montana v. United States, supra
+eignty nor its treaties supported tribal regulation of non-              does not resolve this question. Unlike this case,
+ Indian hunting and fishing on the non-Indians’ fee land in that
+ case. Id. at 557-67. The Court determined that the General               Montana concerned lapds located within the reser-
+ Allotment Act, 25 U.S.C. §§ 331-334, 339, 341, 342, 348,
+ 349, 354, 381, effectuated a divestment of tribal sovereigniy           vation, but not owned by the Tribe or its members.
+ to regulate non-Indian hunting and fishing on land alienated            We held that the Crow Tribe could not as a general
+ to non-Indians. 450 U.S. at 559-560.                                    matter regulate hunting and fishing on those lands.
+       It is in this portion of Montana dealing with “lands no           But as to “land belonging to the Tribe or held by the
+ longer owned by the tribe,” 450 U.S. at 564, that the Court             United States in trust for the Tribe,” we “readily
+ articulates a rule, hereinafter referred to as “the Montana             agree(d]” that a Tribe may “prohibit nonmembers
+ rule,” that where Congress has alienated land from Indian
+                                                                         from hunting or fishing . . . [or] condition their
+
+                                                                        ae by charging a fee or establish bag and creel
+                                                                          imits.”
+
+                                                                  462 U.S. at 330-331 (alterations in origgiinnaall;; cictitaattiions and
+
+                                                                  footnote omitted).
+
+                                                                        The issue in Brendale was zoning of lands within a
+                                                                  reservation but owned in fee by non-Indians. 492 US. at
+
+                                          18                                                    19
+
+417-418, 428. The plurality in Brendale begins by stating            the Jowa  Mutual  rule  presuming tribal            jjumurreiisrsddeiiccttiion n whwehre  the
+that:                                                                                                    g tribal
+                                                                     land involved continues to be Indian
+       We analyzed the effect of the Allotment Act on an
+       Indian tribe’s treaty rights to regulate activities of           D. 25 U.S.C. § 323, under which the State was
+       nonmembers on fee land in Montana v. United
+       States. . . . In Montana, as in the present cases, the                 granted an easement to improve and maintain a
+       lands at issue had been alienated under the Allot-                     highway across Indian trust land within the Res-
+       ment Act, and the Court concluded that “[iJt defies
+       common sense to suppose that Congress would                            ervation, does not divest the Tribe of its civil
+       intend that non-Indians purchasing allotted lands                     jiunroisMdiacttioon over the activities s ofof non--Indians on
+       would become subject to tribal jurisdiction when
+       the avowed purpose of the allotment policy was the                      1. Since the highway remains Indian land, the
+       ultimate destruction of tribal government.”                                  Tribe retains jurisdiction over non-Indian
+Id. at 423 (alteration in original; citations omitted).                             activities on the highway
+       The plurality in Brendale went on to distinguish the Jowa
+Mutual rule cases such as Merrion and Washington v. Confed-             It is undisputed that the injury accident un        i
+erated Tribes by stating that they “did not involve the regula-      case took place on North Dakota Highway gt he me
+ tion of fee lands, as did Montana.” 492 U.S. at 427; accord         boundaries of the Tribe’s Reservation. Highway 8 first
+ U.S. ex rel. Morongo Band of Mission Indians v. Rose, 34 F.3d       entered the Reservation pursuant to a right-of-way granted b
+ 901, 906 (9th Cir. 1994) (“Strictly speaking, the Montana           the Bureau of Indian Affairs to the North Dakota Highway
+ exceptions are relevant only after the court concludes that         Department on May 8, 1970, under 25 U.S.C. §§ 323-328 hes
+ there has been a general divestiture of tribal authority over       of Feb. 5, 1948, 62 Stat. 17, entitled “Rights-of-Way Across
+ non-Indians by alienation of the land”).                            Indian Lands” (hereinafter the 1948 Act).
+        In Bourland, the Court determined that “[o]ur reading of
+ the relevant statutes persuades us that Congress has abrogated            Within the Reservation, Highway 8 crosses 6
+ the Tribe’s rights under the Fort Laramie Treaty to regulate        land held in trust by the federal sseendshte for a Salliecoe
+ hunting and fishing by non-Indians in the area taken for the        tribal members before it ends at the shores of Lake
+ Oahe Dam and Reservoir Project.” 508 U.S. at 687. The               Sakakawea. Highway 8 does not cross any land owned in fee
+ relevant statutes were the Flood Control Act of 1944, 58 Stat.      by non-Indians within the Reservation.
+ 887, and the Cheyenne River Act of Sept. 3, 1954, 68 Stat.
+  1191. 508 U.S. at 683-684. The Court in Bourland equated the          Section 323 of the 1948 Act provides that:
+ effect of these statutes with that of the General Allotment            The Secretary of the Interior be, and he is
+ Act. As in Montana and Brendale, the Court found that the              empowered to grant rights-of-way for all purposes
+ statutes in Bourland showed congressional intent to divest the         subject to such conditions as he may prescribe, over
+ tribe’s right to regulate the activities of non-Indians on land        and across any lands now or hereafter held in trust
+  which was no longer Indian land. /d. at 688-694.                      by the United States for individual Indians or Indian
+        Once it is realized that the Montana rule’s application is      tribes, communities, bands, or nations, or any lands
+  limited to instances where Congress has alienated land from           now or hereafter owned, subject to restrictions
+  Indian title, it follows that the Montana rule is consistent with     against alienation, by individual Indians or Indian
+
+                                                                     9  Even where land has been alienated, a different result is called for in:
+
+                                                                     the less obtrusive area of adjudicatory jurisdicti  j
+                                                                     subsection 2 of thisPartof thisBrief.”
+                                                                                                                         Poorer
+
+                                         20                                               21
+
+      tribes, communities, bands, or nations, including                       land.” 508 U.S. at 692 quoting Montana, 450 U.S. at 559-560
+      the lands belonging to the Pueblo Indians in New                        n.9. The effect of the right- of-way here on the Tribe's right to
+      Mexico, and any other lands heretofore or hereafter                     pect Acstmy‘mgger ce and the underlying land is
+      acquired or set aside for the use and benefit of the                    patnai snd  } effects of the |and alienatiionon ii n Mon-
+      Indians.
+25 U.S.C § 323.                                                                     Under the right-of-way in the present case, the State
+      Section 324 of the 1948 Act requires the consent of tribes              acquired an easement, which is a property right less than fee
+and individual Indians to the granting of a right-of-way across
+their lands. 25 U.S.C. § 324.!° Subsequent sections provide                   simple. '? The easement is specifically to improve and main-
+for payment and disposition of compensation to the Indian
+land owners; a savings clause for provisions of other federal                 tain Highway 8. This easement likely also includes rights
+statutes; applications for rights-of-way by federal agencies;                 reasonably related to this specific right, such as, for example
+and, agency administrative rule making authority. 25 U.S.C.                   the right to set vehicle weight limits on the highway. The
+§§ 325-328; see also 25 C.F.R. Part 169 (the 1948 Act's                       easement is subject to substantial federal law and regulation
+implementing regulations promulgated by the Bureau of
+Indian Affairs).                                                              United States v. Mitchell, 463 U.S. 206, 223 (1983) (noting
+      Nothing in the language of the 1948 Act expressly
+divests the Tribe of its civil jurisdiction over the conduct of               the comprehensive federal control over grants of rights-of-
+non-Indians.'! Under a strict application of the Jowa Mutual
+rule, that should end the inquiry and tribal jurisdiction in the              _ effectuated under the 1948 Act): see also 25 C.F.R. Part
+present case should be upheld. “Congress has the power to
+abrogate Indians’ treaty rights, though we usually insist that                      The land underlying the right-of-way remains Indian
+Congress clearly express its intent to do so.” Bourland, 508                  trust land. Burlington Northern R.R. Co. y. Blackfeet Tribe
+ U.S. at 687 (citations omitted).                                             924 F.2d 899, 902-904 (9th Cir. 1991), cert. denied, 505 U S.
+       The Court in Bourland explains, however, that “what is                 1212 (1992) (absent congressional provision otherwise,
+ relevant .. . is the effect of the land alienation . . . on Indian
+ treaty rights tied to Indian use and occupation of reservation               Indians retain beneficial title to land underlying railroad
+
+       10 This important provision distinguishes rights-of-way granted        right-of-way on reservation); accord Davis v. Director, North
+ under the 1948 Act from rights-of-way granted under earlier statutes such    Dakota Dep't of Transp., 467 N.W.2d 420, 422 (N.D. 1991)
+ as 25 U.S.C. § 311, Act of March 3, 1901, 31 Stat. 1083.
+                                                                                     '? See Grant of Easement for Right-of-Way from the Bureau of
+       11 The legislative history indicates that the purpose of the 1948 Act  SEE Ran toGioHest DehoteHighwey Department (May 8, 1970),
+ was primarily administrative. S. Rep. No. 823, 80th Congr., 2nd Sess.
+ (1948), reprinted in U.S.C.C.S. 1033-1037. The 1948 Act was intended to      tel oe en nm wih GeCoun, An casement is0 linia
+ address problems that had arisen due to scattered acts of Congress
+ governing various kinds of rights-of-way on various types of Indian land.                      property for a specific purpose. See gene
+ Under the 1948 Act, subject toIndian consent, the Secretary ofthe Interior   Cunningham, William B. Stoebuck, and Dale A. Olean tartowy
+ would have “authority to grant rights-of-way of any nature over the Indian
+ lands” described in the 1948 Act. Id. at 1036.                               Property, 436-437 (2d. ed. 1993). Usesreasonably relatteodthespecific
+
+                                                                              Purpose are permitted where such uses do not interfere unreasonably with
+                                                                              the underlying property, title towhich remains with the landowner when an
+                                                                              casement is granted. /d. at 459-461. When an easement terminates the
+                                                                              limited right ofuse granted tothe easement holder reverts tothelandowner
+
+                                                                              Preseaultv.I.C.4C9.4U,.S. 1, 9 (19T9he0se)pro.perty law principles
+
+                                                                              generally apply to rights-of-way granted across Indian lands. See. é.2.,
+
+                                                                              Mountain States Tel. and Tel. Co. v.Pueblo ofSanta Ana, 472 U.S. 237
+
+                                                                              (1985) — company which received right-of-way from tribe holds an
+
+                                      22                                                                   23
+
+(within Indian reservations, state highways are “Indian coun-                          a. The presumption of tribal civil adjudica-
+                                                                                             tory jurisdiction applies even where
+try” within the meaning of 18 U.S.C. § 1151).                                                Indian title has been alienated
+
+      The Tribe exerts jurisdiction over the highway. The Tribe           This Court's cases show that, even on non-Indian land
+regulates traffic offenses on the Reservation, including the        where Congress has limited tribal regulatory jurisdiction over
+civil offense of abandoned vehicles by any person on any type       non-Indian activities, tribal adjudicatory jurisdiction over
+of land within the Reservation. Code of Laws of the Three           civil actions against non-Indians remains.'3
+Affiliated Tribes, Chap. 4-A. The Tribe's Highway Ordinance
+regulates, inter alia, advertising signs and seasonal vehicle             In National Farmers this Court refused to foreclose tribal
+use on all highways on the Reservation. Code of Laws of the         court jurisdiction over a civil tort claim against non-indians
+Three Affiliated Tribes, Chap. 28, Secs. 1.02, 1.10, 1.11           which arose on “[fee] land owned by the State {of Montana]
+(Tribal Business Council Resolution 88-37-TL, Jan. 29,              within the boundaries of the Crow Indian Reservation.” 471
+1988).                                                              U.S. at 847 & 853-856. Previously, in Montana, the Court had
+                                                                    held that the Crow Tribe could not regulate the hunting and
+      Rights-of-ways such as Highway 8 are Indian land to           fishing of non-Indians on land owned in fee by the non-
+which the Jowa Mutual rule applies. See, e.g., Burlington           Indians within the Crow Reservation. 450 U.S. at 557-567.
+Northern R.R. Co. v. Blackfeet Tribe, 924 F.2d. at 904-905
+(upholding, in the absence of congressional divestment, the              In Jowa Mutual, the Court refused to find against tribal
+tribes’ right to tax non-Indian activities on railroad rights-of-
+way crossing Indian land within a reservation); see also            court jurisdiction over a civil tort claim against a non-Indian
+Hinshaw v. Mahler, 42 F.3d at 1179-1180, (absent congres-           which arose on a federal highway within an Indian reserva-
+sional divestment, upholding a tribal court’s authority to hear     tion. Brief for Petitioner at 2, Jowa Mutual, 480 U.S. 9: 480
+tort claims brought by a tribal member against a non-Indian         U.S. at 16-19. But in Bourland, where the federal government
+which arose on a federal highway running through a reserva-        had taken reservation land for a flood control project, this
+tion); but cf. Yellowstone County v. Pease, 96 F.3d at             Court held that the tribe had lost its general right to regulate
+ 1175-1176 (explaining Hinshaw as a Montana rule case, not         non-Indian activities on the taken land. 508 U.S. at 689.
+an lowa Mutual rule case).
+                                                                          This situation for tribes has parallels in federal preemp-
+             2. Even assuming arguendo that the right-of-way       tion of state sovereignty. Congress may preempt or limit state
+                   for Highway 8 takes the highway out of the      regulation of an area while leaving adjudication of claims in
+                                                                   that area to state courts. For example, state courts may hear
+                  category of Indian land, tribal adjudicatory     claims brought under federal civil rights laws. Allen v.
+                                                                   McCurry, 449 U.S. 90, 99-101 (1980). State and federal
+                   jurisdiction remains                            courts have concurrent jurisdiction to hear claims under the
+                                                                   Federal Employees Liability Act, 45 U.S.C. § 56, which
+       The Tribe maintains that the highway in the present case    governs, inter alia, occupational injuries on railroad rights-
+ is Indian land. Assuming arguendo, however, that this Court       of-way. Indeed, the general rule is that, unless Congress has
+ should disagree, the Tribe's court may nevertheless hear Mrs.
+ Fredericks’ action.                                                     13 For a broader discussion ofthe difference between tribal regulatory
+
+                                                                   and tribal adjudicatory jurisdictions, seegenerally Brief Amici Curiae of
+
+                                                                   the Assiniboine and Sioux Tribes of the Fort Peck Reservation, et al., in
+                                                                   supopf o Petr itiotners in this case.
+
+                                         24                                                                             25
+
+expressly preempted state adjudicatory jurisdiction as well as                          The compliance problems inherent in conflicting non-
+regulatory jurisdiction, state court jurisdiction remains. Yel-                   taxation regulatory schemes, e.g., New Mexico v. Mescalero
+low Freight Sys., Inc. v. Donnelly, 494 US. 820, 823-826                          Apache Tribe, 462 U.S. at 338 (individuals cannot comply
+(1990) (to give federal courts exclusive jurisdiction over                        with conflicting substantive hunting and fishing regulations
+federal cause of action, Congress must affirmatively divest                       emanating from two separate sovereigns), are not present in
+state courts of their presumptively concurrent jurisdiction).                     cases of adjudicatory jurisdiction. Three Affiliated Tribes v.
+                                                                                  Wold Eng'g, 476 U.S. 877 (1986) (state and tribe have con-
+      The adjudicatory jurisdiction of one sovereign is not per                  current jurisdiction over reservation-based civil court actions
+se inconsistent with the regulatory power of another sovereign
+within the forum sovereign’s territory. See, ¢.g., 16 U.S.C.                      brought by tribes against non-Indians).'5
+§ 457 (personal injury and wrongful-death actions involving
+events occurring within a national park or other place subject                          Concurrent tribal jurisdiction over a civi! action arising
+to the exclusive [regulatory] jurisdiction of the United States,                 on a reservation is consistent with several aspects of North
+within the exterior boundaries of any state, shall be main-                      Dakota law, including the general rule of plaintiff's choice of
+tained as if the place were under the [adjudicatory] jurisdic-                   forum, see, e.g., Raaum v. Powers, 396 N.W.2d 306 (N.D.
+tion of the state), cited in Gulf Offshore Co. v. Mobil Oil                       1986); the doctrine of forum non conveniens, see, e.g., North
+Corp., 453 U.S. 473, 480-481 (1981).                                              Valley Water Ass'n v. Northern Improvement Co., 415 N.W.2d
+                                                                                 492, 497 (N.D. 1987); and, the accordance of comity to the
+                   b. The existence of tribal court jurisdiction                 enforcement of tribal court judgements. Fredericks v. Eide-
+                                                                                 Kirschmann Ford, Mercury, Lincoln, Inc., 462 N.W.2d 164
+                           concurrent with the state courts does not             (N.D. 1990); accord N.D. S.Ct. Rule 7.2.'6
+                         pose the compliance problems of conflict-
+                                                                                       Moreover, the existence of a court’s jurisdiction does not
+                       ing regulatory schemes                                    necessarily command the exercise of that jurisdiction in every
+
+       The present case presents no conflict between competing                   case. See Quackenbush v. Allstate Ins. Co., ___ U.S. ___, 116
+ regulatory claims of a tribe and a state but rather a claim to
+ tribal adjudicatory jurisdiction concurrent with the State of                   S.Ct. 1712, 1720 (1996) (rule that federal courts have a
+ North Dakota.'* In contrast, the Montana rule cases all                         virtually unflagging obligation to exercise their jurisdiction is
+ involved competing and conflicting claims to regulatory juris-                  not an absolute rule). Many doctrines and rules of law are
+ diction. Montana, 450 U.S. at 564 n.13 (state and tribe sought                  available to litigants and courts to determine whether jurisdic-
+ competing jurisdiction over non-Indian hunting and fishing on                   tion will in fact be exercised in a particular case. These
+ non-Indian fee lands within a reservation); Brendale, 492 U.S.
+ at 414 (tribe and county both claimed authority to zone fee                           'S States and tribes may also have concurrent taxing jurisdiction over
+ lands owned by nonmembers of the tribe located within a                         the activities of non-Indians on Indian land. Washington v. Confederated
+                                                                                 Tribes, 447 U.S. at 154-159 (cigarette purchases); accord Cotton
+ reservation); Bourland, 508 U.S. at 685 (state and tribe regu-                  Petroleum Corp. v. New Mexico, 490 U.S. 163 (1989) (oil and gas
+
+ lated non-Indians in the “taken” land area of a reservation).                   severance).
+
+       '4 The district court below found that tribal court jurisdiction in this        '© For a broader discussion of tribal court full faith and credit law, see
+                                                                                 generally Brief Amicus Curiae of the Northern Plains Tribal Judges
+ case is“not exclusive,” presumably implying concurrent jurisdiction with        Associationin support of Petitiion ntheisrcasse.
+
+ the courts of North Dakota, J.A. 63-64.
+
+                                         26                                                                           27
+include, inter alia, issues of personal jurisdiction; '’ forum                 completely divested. 450 U.S. at 565-566.'® Such jurisdiction
+non conveniens; choice of law; rules of decision;'* comity;                    may exist if the “tribal interest test” is met. /d. This test is as
+and, abstention.                                                               follows
+
+      Finally, tribal courts are cognizant of the rule that “fed-                     To be sure, Indian tribes retain inherent sovereign
+eral law defines the outer boundaries of an Indian tribe's                            power to exercise some forms of civil jurisdiction
+power over non-Indians . . . [and that) a federal court may                           over non-Indians on their reservations, even on non-
+                                                                                      Indian fee lands. A tribe may regulate, through
+determine under § 1331 whether a tribal court has exceeded                            taxation licensing, or other means, the activities of
+                                                                                      nonmembers who enter consensual relationships
+the lawful limits of its jurisdiction.” National Farmers, 471                         with the tribe or its members, through commercial
+U.S. at 851, 853.                                                                    dealing, contracts, leases, or other arrangements. A
+                                                                                     tribe may also retain inherent power to exercise
+   . ASSUMING ARGUENDO THAT THE MONTANA                                              civil authority over the conduct of non-Indians on
+: RULE APPLIES, THERE IS A CONSENSUAL                                                fee lands within its reservation when that conduct
+                                                                                     threatens or has some direct effect on the political
+      RELATIONSHIP AND / OR A DIRECT EFFECT IN                                       integrity, the economic security, or the health or
+      THIS CASE SUFFICIENT FOR THE TRIBE TO                                          welfare of the tribe.
+      EXERCISE ADJUDICATORY JURISDICTION                                      450 U.S. at 565-566. (citations omitted).
+      The Montana rule is inapplicable to this case arising on                       Thus, a tribe has jurisdiction over non-Indians on non-
+Indian land and involving tribal adjudicatory jurisdiction                    Indian fee land where either: 1!) there is a “consensual rela-
+Even assuming, however, that the Montana rule applies, the                    tionship” between the non-Indian and the tribe or a member of
+Tribe has jurisdiction under that rule.                                       the tribe; or, 2) the tribe's political integrity, economic secu-
+                                                                              rity, or health and welfare are threatened or directly affected.
+       Montana teaches that inherent tribal jurisdiction over the             In this case both prongs of the test are met.
+
+activities of non-Indians on non-Indian fee land has not been                       A. Montana contemplates that reasonably foresee-
+                                                                                           able acts stemming from a consensual relationship
+     17 The Indian Civil Rights Act, 25 U.S.C. §§ 1301-1303, mandates                      will be subject to tribal jurisdiction
+
+that tribal governments accord, inter alia, due process and equal protection        It is undisputed that the $12,490 subcontract between A-!
+
+ to those persons who are subject to tribal jurisdiction. See Santa Clara     and LCM, a corporation wholly-owned by the Tribe, is a
+ Pueblo v. Martinez, 436 U.S. at 56-58, 60-63; see also Code of Laws of the   “consensual relationship” entered into on the Reservation. It
+ Three Affiliated Tribes, Chap. 1, Sec. 3.3 (personal jurisdiction).          is also undisputed that in performing its subcontract, A-|
+
+       18 The Tribe’s Code expressly permits the parties to stipulate to the        '9 This is in contrast to tribal criminal jurisdiction over non-Indians,
+                                                                              which has been completely divested and can only be restored by Congress.
+ application of state law in the absencoef relevant tribal law. Code of Laws
+                                                                              Oliphant, 435 U.S. at 211-212.
+ of the Three AffilTiriabets,eCdhap. 1, Sec. 2.5(4); see also DiamonRidng
+
+ Trucankd i Excn avagting v. Dawson, Civ. No. 11-94-A04-461A (Ft. Berth.
+
+ Tr. Ct. 1995) (tribal court looks to North Dakota re Pav senrcd
+
+ appropriate standard of review for summary disposition will recognize
+
+ the affirmative defense of accord and satisfaction as it is interpreted by
+ North Dakota law).
+
+                                         28                                                                   29
+                                                                    Buttes .?° A-I's conduct threatens the Tribe economically in
+participated in the building of the Twin Buttes tribal commu-       terms of its provision of services to injured residents of the
+nity center on the Reservation. A-1 argues that this consen-        Reservation, especially when the injuries happened on the
+sual relationship gives the Tribe jurisdiction only over            Reservation.
+disputes arising directly from the subcontract.
+                                                                           The State where the employee lives and where he
+      This view of the effect of a consensual relationship is too          was injured has a large and considerable interest in
+narrow. Montana holds that “Indian tribes retain inherent                  the event. “The State where the tort occurs certainly
+sovereign power . . . [to] . . . regulate, through taxation,               has a concern in the problems following in the wake
+licensing, or other means, the activities of nonmembers who                of the injury. The problems of medical care and of
+enter consensual relationships with a tribe or its members                 possible dependents are among these... . ” The
+through commercial dealing, contracts, leases, or other                    State where the employee lives has perhaps even a
+arrangements.” 450 U.S. at 565. Tribal jurisdiction is not                 larger concern, for it is there that he is expected to
+limited to the “four corners” of a consensual relationship. See           return, and it is on his community chat the impact of
+FMC vy. Shoshone-Bannock Tribes, 905 F.2d 1311, 1314-1315                 the injury is apt to be most keenly felt. Certainly
+                                                                          when the injury occurs in the home State of the
+(9th Cir. 1990), cert. denied, 499 U.S. 943 (1991) (non-Indian            employee, the interest of that State is at least com-
+                                                                          mensurate with the interest of the State in which an
+company located on non-Indian fee land within a reservation               injury occurs involving a nonresident. .. .
+is subject to tribal regulation of its employment practices        Crider v. Zurich Ins. Co., 380 U.S. 39, 41-42 (1965). Here,
+because of the company’s overall “substantial presence” on         the place where Mrs. Fredericks lives and where she was
+the reservation).                                                  injured are the same — the Reservation.
+                                                                     . A-1’s conduct also threatens the Tribe’s political integ-
+       At a bare minimum, Montana recognizes tribal jurisdic-      rity in terms of its sovereign right to determine the law of
+tion over the reasonably foreseeable consequences of a con-        torts on the Reservation. “ ‘[T]he advantages of a civilized
+sensual relationship. See FMC v. Shoshone-Bannock Tribes,          society’ . . . are assured by the existence of tribal govern-
+905 F.2d at 1315 (“FMC is of course correct that at some           ment.” Merrion, 455 U.S. at 137-138. “Tribal courts play a
+point the commercial relationship becomes so attenuated or         vital role in tribal self-government. . . . ” Jowa Mutual, 480
+ stale that Montana’s consensual relationship requirement          U.S. at 14. A Tribe's court’s role is critical particularly with
+ would not be met”). It was reasonably foreseeable that A-1's      respect to torts, an area of common law traditionally
+ employees might be involved in an accident while operating a      addressed through judicial fora. Judge Robert E. Keeton, Part
+ gravel truck on the Reservation.                                  I: The Changing Lives of Professionais in Law, 37 Ariz. L.
+
+       B. A-1’s tortious conduct against a community mem-                20 Gisela Fredericks is closely related to tribal members, a distinction
+             ber on the Reservation threatens the Tribe’s eco-     that has not gone unrecognized in tribal law and federal law. See Brendale,
+             nomic security and political integrity                492 U.S. at 438 (tribal law equated “close relatives of enrolled members”
+                                                                   with members for purposes of access to area of reservation closed to
+       As a result of the accident with A-1’s employee, Mrs.       nonmembers); Delaware Tribal Business Comm. v. Weeks, 430 U.S. 73, 86
+ Fredericks was seriously injured and hospitalized for twenty-
+ four days. Mrs. Fredericks is a long-time resident of the         (1977) (Congress equated “persons closely affiliated with tribes” with
+ Reservation. She is the widow of a tribal member and the
+ mother of five tribal members. She is very much a part of a       tribal members for purposes of judgment fund distribution).
+ tribal family and the Reservation community of Twin
+
+                     30
+
+Rev. 419 (1995) (“on the subject matter of tort law, courts
+
+come to mind as historically the principal lawmakers, using
+the common law process”).
+
+[I]t is beyond dispute that New Hampshire has a
+significant interest in redressing injuries that actu-
+ally occur with the State. “A state has an especial
+interest in exercising judicial jurisdiction over those
+who commit torts within its territory. This is
+because torts involve wrongful conduct which a
+state seeks to deter, and against which it attempts to
+afford protection, by providing that a tortfeasor
+shall be liable for damages which are the proximate
+result of his tort.”
+
+Keeton v. Hustler    Magazine, Inc., 465 U.S. 770, 776  (1984)
+(citation omitted).   The Tribe, no less than a state,  has an
+
+essential interest   in providing a court to hear tort  claims
+arising within its   territory and involving a member    of its
+community.
+
+                     CONCLUSION
+
+For the reasons stated above, the judgment of the Court
+
+of Appeals should be reversed.
+
+                     Respectfully submitted,                     pSr\e ,.aaoe+7h?ts)y -~
+
+                     Metopy L. McCoy          FuNpD
+                        Counsel of Record
+
+                     DonaLp R. WHARTON
+                     Native AMERICAN RiGHTts
+
+                     1506 Broadway
+
+                     Boulder, Colorado 80302
+                     (303) 447-8760
+
+                     Tuomas A. Dickson        58502
+                     Dicxson Law OrFFice
+                     P.O. Box 1896
+                     Bismarck, North Dakota
+                     (701) 222-4400
+
+                     Counsel for Petitioners
+
+November 12, 1996
+

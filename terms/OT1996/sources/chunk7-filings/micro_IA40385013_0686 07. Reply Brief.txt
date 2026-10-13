@@ -1,0 +1,444 @@
+                           a      f       Supreme Court, U.S.
+                           ( \0/
+                                           FILED
+                           Mo. 95-1100 7
+                                           AUG 26 1596
+
+                                    In The
+
+Supreme Court of the United States
+
+                          -_"
+
+                               October Term, 1995
+
+THE BOARD OF THE COUNTY COMMISSIONERS OF
+BRYAN COUNTY, OKLAHOMA,
+
+                                                                       Petitioner,
+                                      vs.
+
+                         JILL BROWN, et ai.,
+
+                                                              Respondents.
+
+           On Writ of Certiorari to the United States
+              Court of Appeals for the Fifth Circuit
+
+REPLY BRIEF FOR PETITIONER
+
+9483                           WALLACE B. JEFFERSON
+            ervices, inc.         Counsel of Record
+
+                               SHARON E. CALLAWAY
+                               CROFTS, CALLAWAY & JEFFERSON
+                               A Professional Corporation
+
+                                 Attorneys for Petitioner
+                                    1655 Frost Bank Tower
+                                     100 West Houston Street
+                                    San Antonio, Texas 78205-1457
+                                    (210) 246-5627
+
+                           (800) 3 APPEAL + (800) 5S APPEAL + (800) BRIEF 21
+              i
+
+              TABLE OF CONTENTS
+
+                                                         Page
+
+I. There ls NoEvidence That Bryan County Adopted
+     Unconstitutional Policy Of Inadequate Screening.
+
+A. Bryan County Has Consistently Argued That
+
+Oklahoma’s Laws, Rather Than Sheriff's
+
+Particular Hiring Decision, Represent
+
+County’s Final Employment Policy. ......                 2
+
+B. Bryan County Is Not Subject To Liability
+
+Under § 1983 For Isolated One-Time
+
+Decision To Hire A Particular Officer. ....              4
+
+II. Respondent Failed To Establish Requisite
+
+Causation Between County’s Hiring Of Stacy
+
+Burns And Alleged Constitutional Deprivation.
+
+eeSUeeUheeUeekObe dbbbbsocesbeedescceees                 7
+
+III. Section 1983 Does Not Permit Federal Courts To
+
+Overturn State Legislation Which Could
+
+“Theoretically” Result In Constitutional
+
+DE, sannudechoadaccceussbesesséce                        11
+
+PE cSonbducudéenddsteeUdneeddseeeveccucse                15
+
+              TABLE OF CITATIONS
+
+Cases Cited:
+
+Benavides v. County of Wilson, 955 F.2d 968 (Sth Cir.),
+
+cert. denied, 506 U.S. 824(1992) ................        6
+     il                                                                              iii
+
+Contents                                                                                                Contents
+                                                                     Oklahoma City v. Tuttle, 471 U.S. 808 (1985) .........
+                                                               Page                                                             Page
+                                                                                                                                5,11
+
+City of Springfield v. Kibbe, 480 U.S. 257 (1987) ...... 7,11        United States v. Lopez, 514 U.S.__, 115S.Ct. 1624(1995)
+                                                                          SUPP PPEUUEGEEBODEESSEG SE ceesccccccccccccce 13,14
+
+Daniels v. Williams, 474 U.S.327 (1986) ............           8     Wassum vy. City of Bellaire, 861 F.2d 453 (Sth Cir. 1988)
+
+                                                                     DUEUEMEEEUEEEEGUSEEScceccecccecesccccece                   6
+
+Fraire v. City ofArlington, 957 F.2d 1268 (Sth Cir.), cert.
+
+Ganted, FOO .S.FISCIGSS) scccccssovvcesueweva                  6     Statute Cited:
+
+Gregory v. Ashcroft, 501 U.S.452(1991) ...........4. 12,13           Nee cco ceccesccccecocccces passim
+
+Languirand vy. Hayden, 717 F.2d 220 (Sth Cir. 1983), cert.           United States Constitution Cited:
+
+denied, 467 U.S. 1215 (1984) ....cc. c c.ece.eens              6
+
+Martinez v. California, 444 U.S. 277 (1980) ..........         8     EE              Saga Scescccccccccccecscccccccs            6
+
+Monell v. Dept. of Social Services of New York, 436 U.S.
+   GSO CIDTED oc cccccccsscvcvscustuvesenaueeeuue 6,15
+
+Pembaur v. City of Cincinnati, 475 U.S. 469 (1986) ... 2,5,6
+
+Rankin v. City of Wichita Falls, Tex., 762 F.2d 444 (Sth Cir.
+
+BGBS) occccccecccsctsséscesusseuneeneae                        8
+
+Rizzo v. Goode, 423 U.S. 362 (1976) ..........-.405-           12
+
+San Antonio Independent School Dist. v. Rodriguez, 411
+
+UB. 1(SSTS) .cccccccccccsccesssesesnsanenennn                  13
+
+Stokes v. Bullins, 844 F.2d 269 (Sth Cir. 1988) ........       6
+     The arguments advanced by respondent cover a very large
+waterfront. She engages in a disquisition on the law of vicious
+dogs (Respondent's Brief at pp. 39-41), describes the
+psychological process by which pre-schoolers internalize the
+meaning of “fault” (p. 46) and reports results of a haphazard
+survey of “every case in the Federal Reporters since late 1985”
+announcing dollar amounts plaintiffs have retained on appeal in
+42 U.S.C. § 1983 cases against municipalities. (p.48n.27). That
+sort of rhetoric sheds little light on the scope of § 1983 liability
+in suits against municipalities.
+
+     When respondent speaks to the issue of municipal liability,
+she avoids the most conspicuous questions posed in the case: Is
+it unconstitutional policy for a sheriff to hire a reserve police
+cadet who has pleaded guilty tomisdemeanor assault for his role
+in a college-campus fight? Is it “obvious” that hiring a person
+with one misdemeanor assault would result in his subsequent
+violation of a citizen's constitutional rights? Was § 1983
+intended to vest federal courts with authority to veto State
+legislation governing qualifications of law enforcement
+personnel?
+
+     Respondent's case fails for three reasons. It fails because
+Bryan County’s hiring of Stacy Burns was not an
+unconstitutional “policy” with implicbeayontd itheosningsular
+hiring decision itself; therefore, the hiring of Burns cannot form
+the basis for holding Bryan County liable under § 1983. Second,
+there is no proof to a “moral certainty” (or even preponderance
+of evidence) that hiring an officer with one misdemeanor assault
+conviction would cause his subsequent use of unconstitutional
+force during the course of an arrest. Finally, it fails because
+federal courts should not be in the business of supplanting State
+laws governing personnel qualifications when there is no
+evidence that the State, or any of its agencies, has ever been
+placed on notice that conformity with State hiring standards
+necessarily portends the deprivation of constitutional rights.
+                                       2                                                                    3
+
+                                      I.                                             Pembaur thus made clear that municipal
+                                                                                 liability cannot hinge on the mere fact that the
+    THERE IS NO EVIDENCE THAT BRYAN COUNTY                                       sheriff, even in the role of “policymaker”,
+ADOPTED UNCONSTITUTIONAL POLICY OF                                               hires and fires employees. /d. at 483 n. 12.'
+INADEQUATE SCREENING.                                                            Since there is no evidence that Bryan
+                                                                                 County’s Board of Commissioners delegated
+A. Bryan County Has Consistently Argued That                                     its power to establish final employment
+Oklahoma’s Laws, Rather Than Sheriff’s Particular Hiring                         policy to the Sheriff, there is no basis for
+Decision, Represent County’s Final Employment Policy.                             § 1983 liability against the County with
+                                                                                 respect to its hiring policies.
+      Both respondent and her amicus curiae have accused Bryan
+County of raising the question of Sheriff Moore's authority to       (Appellants’ Brief at p. 22).
+enact final policy “for the first time in any court.” (Respondent's
+Brief at pp. | n. 1, 23-24); (NOW Amicus Brief at pp. 10-11).              In addition, the County’s objections to the district court’s
+They are both wrong.                                                 jury charge articulated why Sheriff Moore’s decision to hire
+                                                                     Burns could not have been County “policy” under § 1983. First,
+     In its main brief in the Fifth Circuit, Bryan County argued,    the County argued that the Sheriff's conformity with State law
+as it has here, that Sheriff Moore’s authority to hire Burns does    supported a good-faith defense to liability. (J.A. 124a). Second,
+not necessarily equate with authority to adopt final employment      Bryan County specifically objected to the court’s jury
+policy for the County. Bryan County's brief argued:                  instruction that Sheriff Moore’s hiring of Stacy Burns
+                                                                     constituted County “policy” and argued that there is noevidence
+            ... the Court clarified in Pembaur v. City of            of the adoption of any “policy” by the Sheriff. (J.A. 124a-125a,
+            Cincinnati, 475 U.S. 469 (1986) that                     130a). Bryan County requested the court to affirmatively
+           “(mJunicipal liability attaches only where                instruct the jury that the County had complied with all State
+           the decisionmaker possesses final authority               regulations regarding hiring and training. (J.A. 128a). Bryan
+           to establish municipal policy with respect to             County advanced these same arguments in its certiorari petition.
+           the action ordered. The fact that a particular            (Petition for Writ of Certiorari atpp. 6-7, 9-11, 17).
+           official — even a policymaking official —
+           has discretion in the exercise of particular                    The question of Sheriff Moore’s authority to make final
+           functidooesnnsot, witmohre,ogiu ve t rise to              employment policy for Bryan County has been preserved, was
+           municipal liability based on an exercise of               argued in the courts below, and is properly before this Court.
+           that discretion.” Jd. at 481-82 (emphasis
+            supplied).                                                      1. Footnote 12 is the same note quoted in the County's Brief for
+                                                                     Petitionaetrp. 19. That footnote demonstrates why Bryan County's
+                                                                     stipulation that Sheriff Moore was a policymaker for the sheriff's department
+                                                                     isnot proof that he had authority toestablish final county employment policy.
+                                                   4                                                                    5
+
+B. Bryan County Is Not Subject To Liability Under § 1983                         O’Connor agreed with Tuttle that “isolated misconduct of a
+For Isolated One-Time Decision To Hire A Particular Officer.                     single, low-level officer” would not support municipal liability.
+                                                                                 Id.,399-400, quoting Oklahoma City v. Tuttle, 471 U.S. 808,831
+      Respondent asserts that City of Canton v. Harris “expressly                (1985) (Brennan, J., concurring in part and concurring in
+envisions municipal liability based on one poorly trained                        judgment).
+employee.” (Respondent’s Brief at p. 26). Measured by the
+precise words and legal principles expressed in Canton, that                           In our case, the Fifth Circuit's opinion imposes liability for
+contention is remarkably misguided.                                              the “isolated misconduct” of a “particular” “low-level officer”
+                                                                                 who is alleged to have been “unsatisfactorily trained” or
+     In Canton, Justices White and O’Connor were precise in                      inadequately screened. Indeed, the jury questions relevant tothe
+stating what sort of proof would not support municipal liability.                County’s § 1983 liability are premised on Bryan County’s hiring
+Justice White did not mince words: “That a particular officer                    and training policies only as they relate to “the case of Stacy
+may be unsatisfactorily trained will not alone suffice to fasten                 Burns.” * (App. 40a-4(a)). Respondent has written many pages
+liability on the city, for the officer’s shortcomings may have                   of overwrought analysis of Canton, but in the end, Canton quite
+resulted from factors other than a faulty training program.” ”                   simply defeats her case.
+Canton, 489 U.S. at 390-391. As a predicate to municipal
+liability, Justice O’Connor embraced a construction of the term                        Moreover, Justices White and O’ Connor were not writing
+“deliberate indifference” as requiring proof of a pattern of                     on a clean slate. Their concurring opinions in the plurality
+violations from which a kind of “tacit authorization” by city                    decision of Pembaur v. City of Cincinnati, 475 U.S. 469 (1986)
+policymakers can be inferred.” * Jd. at 397. Further, Justice                    suggest that, for them, “policy” presupposes the enactment of a
+                                                                                 plan the effects of which have universal application throughout
+       2. Respondent cites the fact that Burns had employed the arm-bar          the governmental unit. In Pembaur, for example, Justices White
+technique in prior arrests as evidence that Burns “enjoyed” authority.           and O’Connor emphasized that the city and county's decision to
+Respondent's Brief at 4. However, the fact that no complaint had ever been       forcibly enter private property to serve capiases was “standard
+made about his use of force while on duty suggests strongly that Burns’          operating procedure,” rather than an ad hoc decision limited only
+training in the proper use of that technique served him, and the sheriff's       to “the case of Bertold Pembaur.” 475 U.S. at 485, 491. The
+department, well priorto Jill Brown's complaint. (Tr. 582-83, 628). Itcertainly  county’s “standard operating procedure” reverberated far
+could be argued that Burns’ history in that respect demonstrated ability to      beyond the particular instance involving Bertold Pembaur, and
+properly carry out law enforcement work without injury to himself or others.     therefore justified the plurality’s holding that the county’s
+                                                                                 “policy” created liability under § 1983.
+       3. The evidence in this case was undisputed that Bryan County had
+never had complaints or lawsuits filed against it in connection with its                4. Bryan County objected to the pointed references to Stacy Burns and
+employmentofReserve Deputies. (Tr. 652). Indeed, during Sheriff Moore's          asked the court to instruct the jury that “one incident of police misconduct or
+tenure, there had never been any complaint made against Bryan County's           one incident of violation of hiring and training policy cannot in and of itself
+Sheriff's Department alleging that officers or deputies were abusive to          constitute a policy and cannot grant the right to consider liability on the County
+citizens or otherwise engaged in misconduct. (J.A. 112a).                        in behaolffthe Plaintiff.” (J.A. 125a, 132a).
+                                       6                                                                      7
+
+      Another consideration makes Pembaur particularly                                                   II.
+inapposite. Whereas the forcible-entry decision in Pembaur
+“officially sanctioned or ordered” the violation of Pembaur’s           RESPONDENT FAILED TO ESTABLISH REQUISITE
+Fourth Amendment rights (475 U.S. at 480, 484), Sheriff             CAUSATION BETWEEN COUNTY’S HIRING OF
+Moore’s decision to hire Stacy Burns was not, by any stretch of     STACY BURNS AND ALLEGED CONSTITUTIONAL
+the imagination, “the functional equivalent of a decision by the    DEPRIVATION.
+city itself to violate the Constitution.” See Canton, 489 U.S. at
+395 (O’Connor, J., concurring in part and dissenting in part).           In respondent’s view, Canton envisions municipal liability
+Indeed, there is no evidence that Bryan County was even             based on evidence that the municipality failed to properly train
+constructively on notice that Stacy Burns would “likely” or         or hire one particular officer, even in the absence of evidence of
+“probably” commit an act of excessive force. At most, the           a pattern of deprivations sufficient to place the city on notice of
+evidence suggested a “potential disposition.” (Tr. 316; J.A. 43a).  the particular deficiency. (Respondent’s Brief at p.7,n. 10). As
+Obviously, if “potentiality” were the standard, municipalities      demonstrated above, however, that argument is contrary to
+would “potentially” be liable under § 1983 for each and every       Canton. Perhaps recognizing the defect in that approach,
+hiring decision made. We know, however, that § 1983 does not        respondent next moves to what becomes the central underlying
+create such respondeat superior liability. Monell v. Dept. of       theme of her brief — that § 1983 liability is the equivalent of
+                                                                    common law tort liability and should therefore be analyzed
+Social Services of New York, 436 U.S. 658, 691 (1978).              under the same principles.
+
+     In any event, it is telling that the circuits have not viewed       Respondent attempts to transform her suit against Bryan
+Pembaur as an invitation to expand the scope of municipal           County into a garden variety common law tort. Respondent’s
+liability in a manner that would engulf Monell. Evenrespondent      formula for municipal liability, however, ignores the last twenty
+— who professes to have canvassed every single federal circuit      years of § 1983 jurisprudence, which has established that § 1983
+decision discussing § 1983 municipal liability since 1985 —         is not a federal negligence statute. There is some irony in the fact
+Cannot point to a single case in which Pembaur was utilized to      that respondent initially recognizes this Court’s characterization
+hold that the one-time execution of a facially-constitutional       of causation standards in terms of “direct cause,” “closely-
+municipal policy properly results in municipal liability. There     related cause” or “affirmative link,” yet then equates causation
+are numerous cases, however, which hold the opposite.               under § 1983 with “the traditional standard of proximate cause.”
+Ironically, the court requiring the most exacting proof of          Respondent’s Brief at 33. Rather than speculate, the proper focus
+municipal fault has been the Fifth Circuit. See Fraire v. City of   should be on this Court’s own construction of § 1983
+Arlington, 957 F.2d 1268 (Sth Cir.), cert. denied, 506 U.S. 973     “causation.”
+(1992); Benavides v. County of Wilson, 955 F.2d 968 (Sth Cir.),
+cert. denied, 506 U.S. 824 (1992); Wassum v. City of Bellaire,           As a beginning point, Justice O’ Connor has observed that
+                                                                    “[t}he ‘causation’ requirement of § 1983 is a matter of statutory
+861 F.2d 453 (Sth Cir. 1988); Stokes v. Bullins, 844 F.2d 269 (Sth  interpretation rather than of common tort law.” City of
+                                                                    Springfield v. Kibbe, 480 U.S. 257, 269 (1987) (O’Connor, J.,
+Cir. 1988); Languirand v. Hayden, 717 F.2d 220 (Sth Cir. 1983),
+
+cert. denied, 467 U.S. 1215 (1984).
+                                       8                                                                       9
+
+dissenting from dismissal of writ of certiorari) (emphasis              (2) when the need for training is “plainly obvious” because of
+supplied). Consequently, even though § 1983 can properly be             frequent constitutional violations. /d. at390 n. 10. In addition, a
+described as a species of tort liability, it has a decidedly unique     “very close causal connection” is required in order to prevent
+pedigree. See Martinez v. California, 444 U.S. 277, 285 (1980);         federal imposition of “prophylactic” duties upon governments.
+Daniels v. Williams, 474 U.S. 327, 330 (1986). Itis particularly        Id. at 395 (O’ Connor, J., concurring).
+significant, then, that § 1983's lineage in this Court portrays
+causation as something more rigid, and less capable of a                     Assuming the Court even recognizes “hiring” decisions as
+negligence construction, than proximate cause. Indeed, it has           potentially subjecting municipalities to § 1983 liability, the
+been described as “the functional equivalent of a decision by the       evidentiary standards should at least approximate the dictates of
+city itself to violate the Constitution.” Canton, 489 U.S. at 395       Canton with respect to causation. Thus, municipal hiring
+(O'Connor, J., concurring in part and dissenting in part).              decisions would be reviewable under § 1983 if a particular hiring
+                                                                        practice results in a pattern of constitutional deprivations
+      Municipal liability under § 1983 has always been regarded         sufficient to put the municipality on notice of the deficiency.°
+with due deference to the fact that the authors of the Ku Klux          Alternatively, a single hiring decision could subject a
+Klan Act were antipathetic to the notion of municipal liability in      municipality to liability if it is clear to a moral certainty that a
+the first place. Thus, Canton reminds the reader that municipal         constitutional deprivation would result.® If neither a pattern nor
+liability cannot exist unless “the municipality itself causes the       a moral certainty is present, Canton does not authorize the
+constitutional violation at issue.” Jd. at 385 (emphasis in             imposition of municipal liability.
+original). That deference is not consistent with the general
+“foreseeability” component of proximate cause. Accordingly,                   Respondent asserts that neither deliberate indifference nor
+Bryan County’s liability under § 1983 must be measured by the           causation as described in Canton are required in the hiring
+proof required in Canton and not lesser standards of common law
+tort liability. See Rankin v. City of Wichita Falls, Tex., 762 F.2d            5. For example, although it is constitutional to hire color blind traffic-
+444, 448-49 n. 4 (Sth Cir. 1985) (different policies behind § 1983      control officers, experience may establish that such a hiring policy results in
+and common law tort liability support judicial reluctance to            a pattern of traffic fatalities. Once on notice of that consequence, a
+“conflate section 1983 liability with ordinary tort liability. . .”).   municipality's failure to take corrective measures could conceivably result in
+                                                                        liability under § 1983.
+     Under Canton, inadequate training sufficient to establish
+municipal liability requires proof that “in light of the duties                6. This situation might arise if a municipality hired an officer despite a
+assigned. . . the need for more or different training is so obvious,    psychiatric diagnosis of paranoid schizophrenia manifested by a history of
+and the inadequacy so likely to result in the violation of              violent attacks, resulting in serious physical injuries, which are certain to
+constitutional rights, that the policymakers of the city can            recur. In our case, there is no evidence that Stacy Burns, who took an “MMPI”
+reasonably be said to have been deliberately indifferent to the         test prior to his formal law enforcement training, suffered from any such
+need.” Canton, 489 U.S. at390. This degree of awareness arises          malediction. (Tr. 495-96, 578).
+either: (1) when the policymaker knows to a “moral certainty”
+that his failure to train will result in constitutional violations; or
+                                       10                                                                             1]
+
+context. In her view, proximate cause’ should replace direct                    vicarious liability “simply because the municipality hired one
+cause and deliberate indifference should be eliminated                          ‘bad apple.’ ” Tuttle, 471 U.S. at 821. Section 1983 is not a
+altogether. (Respondent’s Brief at pp. 29-30 n. 17, 18). She                    “federal good government act” for municipalities. Canton, 489
+further proposes that deliberate indifference, if retained as a                 U.S. at 396 (O’ Connor, J., concurring). Instead, liability must be
+requirement, should be defined in terms of “recklessness” and                   “predicated on the municipality’s own constitutional
+not “certainty.” (Respondent’s Brief at p. 30 n. 18). These lesser
+standards of liability are without support from § 1983 or the                   violations.” Kibbe, 480 U.S. at 268.°
+Constitution.
+                                                                                                                  Il.
+      This court has never held that a hiring decision, in itself, can
+subject a city to liability under § 1983. Clearly, providing for                    SECTION 1983 DOES NOT PERMIT FEDERAL
+municipal liability based on a single hiring decision so closely                COURTS TO OVERTURN STATE LEGISLATION
+approximates respondeat superior liability as to be virtually                   WHICH COULD “THEORETICALLY” RESULT IN
+indistinguishable. The Court’s concerns regarding municipal                     CONSTITUTIONAL DEPRIVATION.
+liability for inadequate training claims are only exacerbated
+when a municipality’s hiring decisions are called into question.                     If causation is relaxed to the point respondent advocates,
+Thus, there is even more reason to insist on a rigorous standard                States that currently do not disqualify police applicants on the
+for so-called inadequate hiring claims.*                                        ground of prior petty offenses will be compelled to re-evaluate
+                                                                                their policies — not because misdemeanor applicants are
+     Moreover, it is exactly this type of lax interpretation of the             somehow incapable of rendering superior law-enforcement
+municipal liability requirements that would permit back-door                    service, and not because a policy allowing counties to hire
+                                                                                applicants with misdemeanor backgrounds is unconstitutional
+       7. Liability would be authorized, under respondent's proximate cause     — but because a federal court has decided a county is
+theory, if the municipality has notice of a prospective employee's “tendency”   “precluded” from hiring an officer who pleaded guilty for his
+to commit a particular violation which subsequently occurs. However,            role in a college fight.'® Unquestionably, the Fifth Circuit's
+respondent's evidence falls short even if common law tort principles were to    holding has that effect.
+apply. Respondent's expert testified only that Burns’ had “a potential” for
+physical aggression. (Tr. 316; J.A. 43a). The same statement could be made             9. The court’s pronouncements arise from important State and local
+with respect to any candidate for law enforcement service. Indeed, physical     policy concerns. Adopting lesser State tort principles as suggested by
+aggression is, at least in some respect, a necessary component of law           respondent would move toward the federalization of State tort law under
+enforcement service.                                                            § 1983. Moreover, applying State tort concepts of proximate cause to 1983
+                                                                                actions would expose municipalities to overwhelming damage liability and
+       8. In the end, however, Canton's framework for causation may be          allow federal jury second guessing of purely constitutional municipal
+insufficient in the hiring context. One cannot contest that any constitutional  decisions concerning all manner of day-to-day administration. These federal
+injury would have been avoided if the decision to hire the offending employee   decisions based on civil rather than constitutional fault would cripple local
+had not been made. This inquiry ultimately devolves into but-for causation.     governments in the management of their affairs.
+This is precisely the nature of respondeat superior liability.
+                                                                                        10. The only evidence of Burns’ role in this fight was that he pushed
+                                                                                someone who had first pushed him. (J.A. 90a).
+                                       12                                                                   13
+
+      Far from rationalizing the Fifth Circuit’s nullification of                government more responsive by putting the
+Oklahoma’s personnel prerogatives, respondent actually                            States in competition for a mobile citizenry.
+embraces such “federal incursions intoessentially state-oriented
+affairs.” (Respondent's Brief at pp. 13-14). She argues that          Id. at 458. This federalist structure, properly construed, would
+§ 1983's primary purpose was to provide federal protection            recognize that the composition of law enforcement personnel is
+                                                                      properly a matter of State law until such time as the State, or its
+where State laws “either in theory or in practice, do not do the      agencies, are placed on notice that application of its law (in
+                                                                      practice rather than theory) results in the deprivation of
+trick.” Jd. at 14 (emphasis supplied). The italicized portion of      constitutional rights.
+that quote epitomizes the fundamental error in respondent's
+expansive view of the reach of raw federal power. It is not the role        In our case, the diversity of laws respecting the selection of
+of federal courts to examine theoretical applications of State law,   law enforcement personnel has been demonstrated in the
+isolate laws which potentially threaten federal rights, and then      appendix to the National Association of Counties’ amicus curiae
+exorcise them as a purely preemptive measure. See Rizzo v.            brief. Some States have no standotaherrs darse q,uite restrictive.
+Goode, 423 U.S. 362, 379-380 (1976). However, stripped of its         It is far from clear which is “best,” which more efficiently
+dramatic prose, respondent proposes that federal courts fill          dispenses effective law enforcement, or which more zealously
+                                                                      guards federal civil rights. It is clear, however, that the States’
+precisely that role as a “complement” to State law.                   right of experimentation — their ability to propose laws on
+                                                                      widely different theoretical premises — is secured by a proper
+(Respondent’s Brief at p. 14).                                        recognition of federalism. See San Antonio Independent School
+                                                                      Dist. v. Rodriguez, 411 U.S. 1, 49-50 (1973). That federalism
+      Nowhere does the Constitution empower federal courts to         secures this right is not undermined by the fact that any of these
+                                                                      State employment standards could theoretically result in the
+revise state laws which are theoretically flawed. Instead, our        hiring of officers who later commit acts violative of the
+system of federalism accommodates two seemingly                       Constitution.
+contradictory principles: it rejects the idea of absolute federal
+                                                                            Finally, respondent consigns United States v. Lopez, 514
+prerogative, yet celebrates constitutional supremacy. The real
+“trick” is to balance these twin towers of government. Gregory        U.S. __, 115 S.Ct. 1624 (1995) toa footnote and contends it has
+v. Ashcroft, 501 U.S. 452, 459 (1991). In Gregory, this Court
+                                                                      nothing to say about the interplay between State and Nation
+recognized the advantages of undertaking that balancing effort:       under § 1983 and the Constitution. Respondent is, of course,
+                                                                      correct in stating that Lopez “involved a federal law passed
+           This federalist structure of joint-sovereigns              pursuant tothe Commerce Clause.” (Respondent's Brief at p. 16
+           preserves to the people numerous                           n. 12). However, that is a decidedly stingy description of a
+           advantages. It assures a decentralized                     decision that has far-reaching implications where there is
+           government that will be more sensitive to the              equivalent tension between the domain of States and the realm of
+           diverse needs of a heterogeneous society; it
+           increases opportunity for citizen
+            involvement in democratic processes; it
+           allows for more’ innovation § and
+           experimentation in government; and it makes
+                                          14                                                               15
+
+the Nation. Justice Kennedy’s concurrence in Lopez articulates                                  CONCLUSION
+how federalism affects allocation of power between the States
+and Nation. That subject is not confined to commerce; indeed, it          Respondent accuses Bryan County of a litany of bad
+embraces the entire structure of our government.                     motives. She suggests that Bryan County filed a petition in this
+                                                                     Court simply because it “doesn’t like the implications of a
+      Whether reviewing a congressional act or acircuit opinion,     federal law” (Respondent's Brief at p. 16 n. 12); that Bryan
+“the federal balance is too essential a part of our constitutional   County is attemptto “irenpegal” § 1983 (pp. 15, 35-36); and that
+structure and plays too vital a role in securing freedom for us to   Bryan County is asking for a license to place “time bombs on our
+admit inability to intervene when one or the other level of          streets and in our schools.” (p. 46). Respondent’s resort to
+Government has tipped the scales too far.” Lopez,514 U.S. at__,      emotion, rather than reason, infects her analysis of Canton and
+115 S.Ct. at 1639 (Kennedy, J., concurring). There is reason to      blinds her to the centrality of federalism as it relates to the scope
+intervene here. The Fifth Circuit’s opinion elevates the federal     of § 1983 municipal liability.
+judiciary above democratic processes that resulted in
+Oklahoma’s adoption of hiring standards in the first place. If the        Bryan County is seeking nothing more than fidelity to
+citizens of Oklahoma determine that those standards are too lax,     Monell and Canton. The Court’s decisions in those cases
+whom do they hold accountable? The State can deny                    properly balance the federalism interests which caution against
+responsibility because the federal judiciary has now usurped the     federal courts’ usurpation of State laws that neither directly
+field. The local sheriff — the person most closely linked to the     violate constitutional principles nor would “obviously” result in
+people — can demur because he is twice-removed from the new          constitutional deprivations.
+federal role. In place of State and local accountability, the Fifth
+Circuit would substitute federal courts as the final arbiters of                            Respectfully submitted,
+personnel standards.
+                                                                                            WALLACE B. JEFFERSON
+     “The resultant inability to hold either branch of the                                  Counsel of Record
+government answerable to the citizens is more dangerous even                                SHARON E. CALLAWAY
+than devolving too much authority to the remote central power.”                             CROFTS, CALLAWAY & JEFFERSON
+Lopez, 514 U.S. at __, 115 S. Ct. at 1638-39 (Kennedy, J.                                   A Professional Corporation
+concurring).                                                                              Attorneys for Petitioner
+                                                                                             1655 Frost Bank Tower
+                                                                                               100 West Houston Street
+                                                                                            San Antonio, Texas 78205-1457
+                                                                                            (210) 246-5627
+

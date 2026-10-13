@@ -1,0 +1,1456 @@
+           |  Supreme Court, U. S.
+
+e,             FILED
+
+\o )            NOV 12 1996
+
+                             In THE
+
+SupCr ourteofm theeUnited States
+
+                  OCTOBER TERM, 1996
+
+HARBOR TUG AND BARGE COMPANY,
+                                            Petitioner,
+
+                                      Vv.
+
+   JOHN PAPAI and JOANNA PAPAI,
+                                    Respondents.
+
+       On Writ of Certioratortihe
+
+    United States Court of Appeals
+            for the Ninth Circuit
+
+     BRIEF FOR PETITIONER
+
+ERIC DANOFF
+Counsel of Record
+
+   GRAHAM & JAMES LLP
+   One Maritime Plaza, Suite 300
+   San Francisco, California 94111
+   (415) 954-0200
+
+RICHARD K. WILLARD                                       N.W.
+
+PETER LICHTENBAUM
+
+    STEPTOE & JOHNSON LLP
+
+   1330 Connecticut Avenue,
+   Washington, D.C. 20036
+    (202) 429-6202
+Attorneys for Petitioner
+
+WILSON - Epes Printinc Co., Inc. - 789-0096 - WASHINGTON, D.C. 20001
+
+ BEST AVAILABLE COPY}
+                    QUESTIONS PRESENTED
+
+   I. Can an injured land-based maritime worker sue for
+seaman remedies after an Administrative Law Judge has
+formally determined that he was an LHWCA worker and
+not a seaman at the time of the injury?
+
+   II. Is a claimant's status as a seaman to be determined
+by his work history with his employer at the time of the
+injury, or by his entire work history?
+                                       ii                   TABLE OF CONTENTS
+
+                    PARTIES TO THE ACTION                   QUESTIONS PRESENTED                 icteitaglicanaainn
+   Plaintiffs /Respondents:                                 EE                                  eeee cE
+
+       John Papai and Joanna Papai.                         CORPORATE DISCLOSURE   STATEMENT...
+                                                            TABLE OF AUTHORITIES           sanicctehaindiaeatiseeal _
+   Defendant/ Petitioner:
+      Harbor Tug and Barge Company.                         a                                  tidlicniciaabilindbiates
+
+          CORPORATE DISCLOSURE STATEMENT                    STATEMENT OF JURISDICTION             —                            to
+   Pursuant to Supreme Court Rule 29.6, petitioner Harbor                                                                      wrwwnuyroe
+Tug and Barge Company discloses that it formerly was a      CONSTITUTIONAL AND     STATUTORY         PROVI-
+California corporation, and that on August 1, 1992 it          SIONS INVOLVED.
+was merged into Crowley Marine Services, Inc., a Dela-
+ware corporation. Crowley Marine Services, Inc. (which      STATEMENT OF THE CASE
+has no subsidiaries that are not wholly owned) is a wholly
+owned subsidiary of Crowley Maritime Corporation, a         A. Statement Of Facts         SE i  TA oe
+California corporation.                                                                         siecsamninentonns
+                                                            [a
+
+                                                            2. Papai’s Work History...
+
+                                                            B. Procedural History Of The Case        en
+
+                                                            1. Papai’s Civil Action .........0...0.00000000000000000...
+
+                                                            2. Papai’s LHWCA Compensation Action
+
+                                                            3. The Appeal Of The Civil Action _.
+
+                                                            SUMMARY OF THE ARGUMENT
+
+                                                            I. THE FORMAL AWARD OF LHWCA COM-
+                                                                PENSATION BENEFITS SHOULD PRE-
+                                                                CLUDE FURTHER CLAIM TO SEAMAN
+                                                                TED inhrnsnnninninnincnsuiticcnsantnsctanietntiigmpmecczens a
+
+                                                            A. Seaman Remedies And LHWCA          Remedies
+                                                                 Are Mutually Exclusive
+
+                                                            1. Seaman Remedies (The Jones Act)
+
+                                                            ly CO
+
+                                                            3. Seaman Remedies And LHWCA Remedies
+                                                                 Are Mutually Exclusive.
+
+                                                                                   (ili)
+                    iv                                            v
+       OF CONTENTS—Continued
+TABLE                                                             TABLE OF CONTENTS—Continued
+
+B. Until A Claimant’s Status Is Determined, The        Page                                                                      Page
+     Claimant May Pursue Both LHWCA Reme-                 15
+     dies And Seaman Remedies Without Having              17              (2) The Employer's Credit In An
+     To Make An Election Of Remedies _............                              LHWCA Proceeding For Prior
+                                                          17                    Payment Of A Jones Act Award..
+                                                          19
+C. A Claimant Who Has Been Formally Awarded               19  D. Having Received A Formal Award Of
+     LHWCA Benefits Should Be Precluded From              21
+     Thereafter Pursuing Seaman Remedies .........                LHWCA Benefits, Papai Should Be Precluded
+
+                                                                   From Further Pursuing Seaman Remedies._.
+
+1. The Preponderant Authority Holds That                      Il. A CLAIMANT’S STATUS AS A SEAMAN
+
+A Formal Award Of LHWCA Benefits                              SHOULD BE BASED UPON HIS CONNEC-
+
+Precludes Further Claim To Seaman Rem-                        TION TO THE VESSEL TO WHICH HE IS
+
+TRS    REA eres: Teese es SE                                  ASSIGNED WHEN INJURED OR, IN CER-
+
+                                                              TAIN CIRCUMSTANCES, AN _ IDENTIFI-
+
+2. A Formal Award Of LHWCA Benefits                           ABLE GROUP OF VESSELS BELONGING
+
+Should Be Given Preclusive Effect                   :         kk  Fe                                                                             31
+
+a. To Uphold The Provisions And Intent                        A. To Be Considered A Seaman, The Claimant
+
+Of The LHWCA, A Formal Award Of                                   Must Have A Connection To A Vessel Or
+LHWCA Benefits Should Per Se Pre-
+clude Further Seaman Remedies. ____.                              Identifiable Group Of Vessels That Is Sub-
+
+                                                                  stantial In Both Duration And Nature. _..                                      31
+
+b. ALJ Awards Under the LHWCA Sat-                            B. Normally Seaman Status Is Based Upon The
+
+isfy The Requirements Of Adminis-                                 Claimant’s Relationship To The Vessel To
+
+trative Collateral Estoppel ..............                        Which He Is Assigned When The Injury
+
+(1) No Statutory Intent Precludes                                 Occurs. However Under Certain Circum-
+      The Application Of Administra-
+                                                                  stances The Fleet Seaman Doctrine Allows
+     tive Collateral Estoppel In This
+                                                                  Consideration Of The Claimant’s Relation-
+
+                                                                  ship To An Identifiable Group Of Vessels Be-
+
+     (2) The Bassett Case Does Not Ad-                            longing To The Claimant’s Employer...                                          32
+           dress Collateral Estoppel
+                                                              C. The Decision Of The Court Of Appeals Er-
+c. Allowing Two Proceedings About The
+     Same Injury Will Result In Inconsist-                        roneously Allows A Claimant’s Seaman
+     encies And Excessive Litigation
+                                                                  Status To Be Determined By His Work His-
+d. Allowing A Credit Against The Sec-
+     ond Recovery Does Not Cure The De-                           tory On All Vessels Of All His Employers...                                    37
+     ficiencies Of Allowing The Claimant
+     To Pursue Both Remedy Schemes To                         D. The Court Should Verify That Seaman Status
+     Conclusion
+                                                                  Must Be Based Upon The Claimant’s Work
+     (1) The Buplever’s Credit InA Sees
+            Act Case For Prior Payment Of                         Assignment When Injured.                                                       39
+            LHWCA Benefits
+                                                              E. The District Court Correctly ‘Sueretes
+
+                                                                  That Papai Did Not Have A Sufficiently Sub-
+
+                                                                  stantial Connection To The Tug To Be A
+
+                                                                  ERE Se eS ee Eee                                                               41
+
+                                                              CONCLUSION ................--.--.00-+-.. inahiniachinpstsighjnnccaitionmeenenntes
+                     vi                                                                      vii
+
+               TABLE OF AUTHORITIES                                        TABLE OF AUTHORITIES—Continued
+
+Cases Cited :                                       Page                                                                              Page
+
+Astoria Federal Sav. and Loan Ass'n v. Solimino,                       Morrison-Knudsen Const. v. Dir., Office of Wkrs.
+
+501 U.S. 104, 111 S.Ct. 2166, 115 L.Ed.2d 96                           Comp. Prog., 461 U.S. 624, 103 S.Ct. 2045, 76
+
+ERS            A pS EE Rea a Rae SS EC RS           22                 5                 Reeeen ees 20
+
+Bach v. Trident S.S. Co., 920 F.2d 322 (5th Cir.                       Reed v. S.S. Yaka, 373 U.S. 410, 83 S.Ct. 1349,
+
+1991), vacated and remanded, 500 U.S. 949, 111                         Cp                RE              AS el ee ee eee              12
+
+S.Ct. 2253, 114 L.Ed.2d 706, reinstated on re-                         Reeves v. Mobile Dredging & Pumping Co., Inc.,
+
+mand, 947 F.2d 1290 (5th Cir. 1991)                 34                 26 F.3d 1247 (3d Cir. 1994)... 34-36, 41
+
+Barrett v. Chevron, U.S.A. Inc., 781 F.2d 1067                         Rodriguezv. United States, 480 U.S. 522, 107 S.Ct.
+
+eee                                                 34, 38             1391, 94 L.Ed.2d 533 (1987).                                   24
+
+Board of Governors v. Dimension Fin. Corp., 474                        Roth v. McAllister Bros., Inc., 316 F.2d 143 (2nd
+
+U.S. 361, 106 S.Ct. 681, 88 L.Ed.2d 691 (1986) .. 24                   reeee ee                                                       19
+
+Braniff v. Jackson Ave.-Gretna Ferry, Inc., 280                        Seas ShippinCgo. v. Sieracki, 328 U.S. 85, 66 S.Ct.
+
+BQ             NY) _—_Ly_——                         32-33              872, 90 L.Ed. 1000 (1946) ..............-cccccccccccceeeees-.  14
+
+Bundens v. J.E. Brennerman Co., 46 F.3d 292                            Sharp v. Johnson Bros. Corp., 973 F.2d 423 (5th
+
+Se             ee                                   30                 NN RRA OPS Daten Soc 5 SI 17-18, 21, 27
+
+Campo v. Electro-Coal Transfer Corp., 970 F.2d                         South Chicago Coal & Dock Co. v. Bassett, 309 U.S.
+
+51 (5th Cir. 1992), reinstating on different                           251, 60 S.Ct. 544, 84 L.Ed. 732 (1940)... 14, 25-26, 41
+
+grounds, Campo v. Electro-Coal Transfer Corp.,                         Southwest Marine, Inc. v. Gizoni, 502 U.S. 81, 112
+
+955 F.2d 10 (5th Cir. 1990) ................................. 34       S.Ct. 486, 116 L.Ed.2d 405 (1991)... 5, 16-17, 43
+
+Chandris, Inc. v. Latsis, —— U.S. ——, “115 S.Ct.                       Swanson v. Marra Bros., Inc., 328 U.S. 1, 66 S.Ct.
+
+2172, 182 L.Ed.2d 314 (1995) ................................. passim  660, 90 L.Ed. 10465 (1966) ..................................... 14, 31
+
+Desper v. Starved Rock Ferry Co., 342 U.S. 187,                        Washington v. W.C. Dawison & Co., 264 U.S. 219,
+
+72 S.Ct. 216, 96 L.Ed. 205 (1952) ................. 38-39, 41          44 S.Ct. 302, 68 L.Ed. 646 (1924). ...................         13
+
+Figueroa v. Campbell Industries, 45 F.3d 311 (9th                      Statutes Cited :
+
+SS                   ee ee ee                       19                 I                 a                     ee                     2
+
+Fontenot v. AWI, Inc., 923 F.2d 1127 (5th Cir.                         ET                                TE Rn Oe CIRwe F 5
+
+ES Ce Se ee18-19, 27                                                   sUA6. 6e0e.................. rt ENTREE > re. 2,11, 14
+
+Hagens v. United Fruit Co., 135 F.2d 842 (2d Cir.                      i                     ES          os    23-24, 29-30
+
+RR                a      tec See ee ee              19                 TRE TRAE neon As .... passim
+
+Heise v. Fishing Co. of Alaska, 79 F.3d 903 (9th                       $3 U.S.C§ .908 .................. eT a
+
+     >         i         a             eee          39                 REESE EEScieediieas ee                                         7
+
+International Stevedoring Co. v. Haverty, 272 U.S.                     $3 U.S.C. § 928 ............ csinsaieaiiied AOE Ee aE: eee a 30
+
+50, 47 S.Ct. 19, 71 L.Ed. 157 (1926).               13                 $3 U.S.C. § 938 ................ Re ee wees                    30
+
+Jones & Laughlin Steel Corp. v. Pfeifer, 462 U.s.                      SR                    aE I TEES a       A a                    2,10
+                                                                                                                    a                    13
+523, 103 S.Ct. 2541, 76 L.Ed.2d 768 (1983).         12                 AcoftJune 10, 1922, ch.216, 42 t
+
+Massey v. Williams-McWilliams, Inc., 414 F.2d                          Longshoremen’s and Harbor Workers’ Compensa-
+
+FY                RE ee eee                         29                 tion Act Amendments of 1972, Pub. L. No. 92-
+                                                                       576, 86 Stat. 1251 (1972)........................... PR 14, 30
+McDermott Int'l, Inc. v. Wilander, 448 U.S. 337,
+
+111 S.Ct. 807, 112 L.Ed.2d 111 (1991)  5, 14-15, 26,                   Longshore and Harbor Workers Compensation Act
+
+                                                    42-43              Amendments of 1984, Pub. L. No. 98-426, 98
+
+                                                                       Stat. 1639 (1984) ........... CL                               23
+                             viii                                                                  In THE
+
+TABLE OF AUTHORITIES—Continued                                        Suprenw Court of the United States
+
+Legislative History Cited :                                                               OcTOBER TERM, 1996
+
+S. Rep. No. 94, 67th Cong., Ist Sess. (1921) ............
+
+H.R. Rep. No. 639, 67th Cong., 2d Sess. (1922)...                     No. 95-1621
+
+H.R. Rep. No. 92-1441, 92d Cong., 2d Sess. (1972).. 25, 27
+
+S. Rep. No. 1125, 92d Cong., 2d Sess. (1972)........                  HARBOR TUG AND BARGE COMPANY,
+
+H.R. Rep. No. 570, 98th Cong., Ist Sess., pt. 1                       .            Petitioner,
+
+EE                           Se Ce a! ne tN»
+
+S. Rep. No. 81, 98th Cong., Ist Sess. (1983) ............
+
+H.R. Conf. Rep. No. 1027, 98th Cong., 2nd Sess.                       JOHN PAPAi and JOANNA PAPAI,
+                                                                                                          Respondents.
+ESee EK
+                                                                          On Writ of Certiorari to the
+ER                                 ee ca ee                            United States Court of Appeals
+
+Davis) iat ee hh                                                               for the Ninth Circuit
+
+                                   eee eee ee eee ee ee ee eee ee ee
+
+Mink) iether                       ee ee eee ee eee eee eee           BRIEF FOR PETITIONER
+
+Other Authorities Cited:
+
+i                                                                                              OPINIONS BELOW
+
+EST ae ee a Re ee                                                        The opinion of the United States Court of Appeals for
+                                                                      the Ninth Circuit dated September 25, 1995, is reported
+8                         Re ee ee                                    at 67 F.3d 203 (Sth Cir. 1995) and is reproduced in
+                                                                      Appendix A to the Petition For Writ of Certiorari (Pet.
+Morrison, “The Fifth Circuit's Identifiable Fleet                     App.”), pp. la-19a. The Court of Appeals’ unreported
+                                                                      Order dated December 12, 1995, denying Haroor Tug
+Requirement For Seaman Status Under the Jones                         and Barge Company's petition for rehearing or rehearing
+                                                                      en banc is reproduced in Appendix B at Pet. App. pp.
+Act,” 31 Willamette L. Rev. 53 (1995) 00000...                        20a-2 la.
+
+Robertson, “The Law of Seaman Status Clarified,”                         The following unreported rulings of the District Court
+                                                                      are reproduced in the Appendices to the Petition: Order
+23 J. Mar. L. & Com. 1 (1992) ...........0000                         Granting Partial Summary Judgment To Defendant Har-
+                                                                      bor Tug and Barge Company, May 29, 1990, Appendix
+Schoenbaum, Admiralty and Maritime Law (od ed.                        C, Pet. App. pp. 22a-23a; Order Of Denial Of Reconsid-
+                                                                      eration And Statement Of Grounds For Immediate Ap-
+SUED cenncesiittinnsilihiansiniciMleasiinaineldNsEiEinlaieniedeahk    peal, August 17, 1990, Appendix D, Pet. App. pp. 24a-
+                                                                      25a; Order Confirming Summary Adjudication That Plain-
+                                                                      tiff Was Not A Seaman, Apri! 6, 1992, Appendix E, Pet.
+                                                                      App. pp. 26a-27a; and Judgment In Favor Of Defendant
+                                    2                                                          3
+
+Harbor Tug And Barge Company, December 28, 1992,           29-30.) He obtained his maritime jobs through the In-
+Appendix F, Pet. App. pp. 28a-29a.                         land Boatman’s Union (“IBU”) hiring hall. (J.A. 29-30.)
+                                                           The job he was performing on the day he was injured
+   The unreported Decision and Order of Administrative     was a one-day maintenance painting job. (J.A. 35, 48.)
+Law Judge Paul Mapes dated August 27, 1992, in Case
+No. 92-LHC-403, OWCP No. 13-85230, is reproduced in           On the morning of March 13, 1989, Papai arrived at
+Appendix G at Pet. App. pp. 30a-57a.                       the HTB Dock in Alameda. (J.A. 43.) Don Dawson of
+                                                           HTB, a shoreside port captain who was Papai’s super-
+                 STATEMENT OF JURISDICTION                 visor that day, told Papai and Edwin Low, a co-worker,
+                                                           to paint the “house” (the superstructure) on the Tug.
+   The decision of the United Staies Court of Appeals for  (J.A. 37-45.)
+the Ninth Circuit was issued on September 25, 1995. On
+October 6, 1995, Harbor Tug and Barge Company duly            The Tug was tied to the dock and was unmanned; no
+filed its Petition for Rehearing or Rehearing En Banc,     operational crew members were aboard that day. Papai
+which the Ninth Circuit denied by Order dated Decem-       did not take any orders from any Tug officers. (J.A. 36-
+ber 12, 1995. This Court granted the Petition For Writ     37, 39, 47-48.) The engines of the Tug were not running
+of Certiorari on October 1, 1996. The jurisdiction of      while Papai was aboard. (J.A. 48.)
+this Court is invoked under 28 U.S.C. § 1254(1).
+                                                              Papai and Low went to the Tug and began painting.
+             CONSTITUTIONAL AND STATUTORY                  In the late morning, Dawson asked Low to leave the Tug
+                       PROVISIONS INVOLVED                 and work on another HTB tug nearby. Low did so, and
+                                                           thereafter Papai worked alone. (J.A. 39-40, 45-47.)
+   The statutes involved in this case are: (i) 33 U.S.C.
+§ 902(3)(G), reproduced in Appendix H at Pet. App.            At about 3.30 p.m. Papai was painting the forward side
+p. 58a. This section is part of the Longshore and Harbor   of the house, using a portable ladder. He alleges that as
+Workers’ Compensation Act (“LHWCA”), 33 U.S.C.             he was climbing down, the ladder “moved,” causing him
+$§ 901 ef seqg.; (ii) 33 U.S.C. § 905(a), quoted in the    to fali and injure his knee. (J.A. 49-50.)
+brief; (iii) 46 U.S.C. § 688(a), the “Jones Act.” The
+relevant portion of § 688(a) is reproduced in Appendix H       2. Papai’s Work History.
+at Pet. App. p. 58a.
+                                                              Papai entered the work force in 1968. Between 1968
+                    STATEMENT OF THE CASE                  and 1972 he worked as a mail clerk for the federal gov-
+                                                           ernment. From 1972 through 1977 he owned and man-
+A. Statement Of Facts.                                     aged a bar. From 1979 to 1983 he worked as a bartender
+                                                           at various shoreside establishments. During the 1983-
+     1. The Accident.                                      1986 period, he worked for a company that performed
+                                                           catering services for party and ferry boats. He worked
+    Respondent John Papai (“Papai”) injured his knee       aboard the boats but did not live on them. The catering
+while painting aboard the tug PT. BARROW (the “Tug”),      company that employed him did not own or operate
+which was docked at Alameda, California. The Tug was       the vessels. His job was to help stock the vessels with
+operated by petitioner Harbor Tug and Barge Company        food, set up, serve the food, and clean up afterward.
+ (“HTB”).                                                   (J.A. 20-27.)
+
+    Papai was not a permanent employee of HTB and was         1“J.A.” references are to the Joint Appendix.
+ not permanently assigned to the Tug. He worked at vari-
+ous maritime related jobs for various companies. (J.A.
+                                              4                                                5
+
+   In 1987 Papai began to obtain short-term jobs out of    before starting that the work was a maintenance painting
+the IBU hiring hall in San Francisco, California. From     job rather than a seagoing deckhand job, and that the
+then until the date of the accident in March 1989 Lapai    Tug would remain tied to the dock. (J.A. 44.) Papai
+worked at various jobs for various employers. (J.A. 29-    was not going to sail with the Tug: he planned to return
+30.) Most of the jobs were for a single day, but some      to the IBU hiring hall the next day to bid for another
+were for two or three days. (J.A. 34.) The longest em-     job. (J.A. 35, 48, 50-51.)
+ployment Papai had while working out of the IBU hiring
+hall was for 40 days, during which he worked for the       B. Procedural History Of The Case.
+Golden Gate Transit District chipping rust and painting
+the dock at the San Francisco Ferry Terminal. (J.A. 29-        1. Papai’s Civil Action.
+30.) Usually, however, once Papai finished a job for the
+day, he returned to the IBU hiring hall the next day to       In January 1990 Papai filed his Complaint against HTB
+bid for another job. (J.A. 34.)                            in the U.S. District Court for the Northern District of
+                                                           California, seeking damages for personal injuries, and
+   The maritime jobs Papai had during the 1987-March       alleging causes of action for negligence under the Jones
+1989 period included maintenance jobs, seagoing deck-      Act (46 U.S.C. § 688) and for unseaworthiness under
+hand jobs, and longshoring jobs. Maintenance jobs con-     the general maritime law. (J.4. 14-18.) Papai could
+sisted of chipping rust and painting. This was done while  assert such causes of action only if he was a “seaman”
+the vessels were tied to a dock. Seagoing deckhand jobs    at the time of his accident. In Apri] 1990 HTB moved
+(which constituted the majority of his jobs) consisted     for summary adjudication that at the time of the accident
+mainly of manning the lines on working boats during dock-  Papai was not a seaman. The District Court (Judge
+ing and undocking. Longshoring jobs consisted of helping   Charles A. Legge) granted HTB’s Motion by Order dated
+to load and discharge vessels that were docked. (J.A.      May 29, 1990. (Pet. App. pp. 22a-23a.)
+30-32.) Papai also did some shoreside bartending during
+this period. (J.A. 32-33.)                                    In May 1990 Papai filed a First Amended Complaint
+                                                           against HTB for damages for personal injuries, assert-
+   From January |, 1989 until March 13, 1989, the date     ing a cause of action for negligence under § 905(b) of
+of the accident, Papai occasionally worked for HTB, for    the Longshore and Harbor Workers’ Compensation Act
+a total of thirteen days. He last worked for HTB about     (“LHWCA”), 33 U.S.C. §§ 901 et seg., and under gen-
+nine days before the accident, on a different tug. (J.A.   eral negligence principles. (J.A. 63-66.)
+44.) Although Papai had worked on the PT. BARROW
+a few times, he had performed only maintenance work,          In June 1990 Papai moved for reconsideration of the
+chipping rust and painting. (J.A. 34-35, 38.) During
+these prior jobs on the PT. BARROW, the Tug had            District Court’s determination that he was not a seaman.
+always been tied to the dock. (J.A. 34-35.) After each
+day's work on the Tug, Papai went home; he did not live    By Order dated August 17, 1990, the Court denied the
+on the Tug. (J.A. 35.)
+                                                           Motion and reaffirmed that Papai was not a seaman. (Pet.
+   Papai’s employment on the day of the accident was,
+like his prior work on the Tug, a one-day job. (J.A.       App. pp. 24a-25a.) Following two subsequent U.S. Su-
+35, 48.) Although his job title was “deckhand,” he knew
+                                                           preme Court decisions concerning seaman status,’ the Dis-
+
+                                                              2?McDermott Int'l, Inc. v. Wilander, 498 U.S. 337, 111 S.Ct. 807.
+                                                           112 L.Ed.2d 866 (1991), and Southwest Marine, Inc. v. Gizoni, 502
+                                                           U.S. 81, 112 S.Ct. 486, 116 L.Ed.2d 405 (1991).
+                                    6                                                          7
+
+trict Court asked for further briefing on the seaman          In his decision the ALJ addressed in detail the issue
+status issue. On April 6, 1992, following that briefing,   of Papai’s status as an LHWCA worker or as a seaman.’
+the District Court issued an order confirming that at the  In the LHWCA compensation action, Papai asserted that
+time of the accident Papai was not a seaman within the     he was an LHWCA worker rather than a seaman, and
+meaning of the Jones Act or the general maritime law.      that he therefore was entitled to compensation under the
+The Court found that Papai “did not have a ‘more or        LHWCA. HTB took the position in the LHWCA com-
+less permanent connection’ with the vessel on which he     pensation action that if Papai was a seaman, as he was
+was injured nor did he perform substantial work on the     asserting in the civil action, then he was excluded from
+vessel sufficient for seaman status.” (Pet. App. pp. 26a-  LHWCA coverage.
+
+27a.)                                                         The ALJ held that the evidence showed that Papai
+                                                           was aii LHWCA worker, not a seaman, and thus that
+   Trial was to the District Court without a jury in       Papai was entitled to LHWCA compensation benefits.’
+August-September 1992. The Court held that Papai had       (Pet. App. pp. 34a-37a.) On that basis the ALJ made
+failed to establish any negligence by HTB under either     a formal award of benefits to Papai. (Pet. App. pp. 54a-
+$905(b) of the LHWCA or under general negligence           55a.) Papai has received those benefits.
+principles. (J.A. 81-86.) The District Court therefore
+issued a Judgment in favor of HTB. (Pet. App. pp. 28a-        A decision by an ALJ in an LHWCA compensation
+29a.) Papai appealed to the Ninth Circuit Court of         case can be appealed to the Benefits Review Board
+Appeals.                                                   (“BRB”), and from the BRB to the Court of Appeals.
+                                                           33 U.S.C. § 921; 20 CFR Parts 801-2. Neither Papai
+    2. Papai’s LHWCA Compensation Action.                  nor HTB appealed the ALJ’s Decision and Order of
+                                                           August 27, 1992. Thus it became final and binding.
+   While Papai’s civil action was pending, his LHWCA
+compensation action also was underway. Soon after his          2. The AppealOf The Civil Action.
+injury, Papai had made a claim against HTB under the
+LHWCA for compensation and medical benefits. HTB              On September 25, 1995, the Court of Appeals below
+paid Papai those benefits on an interim basis. Papai and   (Judge Poole dissenting) reversed the District Court's
+HTB disputed several LHWCA compensation issues, how-       ruling on summary adjudication that Papai was not a sea-
+ever, including LHWCA coverage (which depended upon        man, and it held that a jury should have decided that
+Papai’s status as an LHWCA worker or a seaman).
+Members of the crew of a vessel (i.e., seamen) are ex-        3 The ALJ was aware of the District Court’s Orders re seaman
+cluded from LHWCA coverage and are not entitled to         status. However the ALJ considered these Orders to be interlocu-
+LHWCA benefits. 33 U.S.C. § 902(3)(G).                     tory in nature. Pet. App. p. 35a, fn. 2.
+
+   LHWCA compensation issues are determined by formal         *The ALJ, based upon the evidence presented at the LHWCA
+administrative trials before an Administrative Law Judge   hearing, found that all of Papai’s jobs were obtained through the
+(“ALJ”). On June 2, 1992, ALJ Paul Mapes held a            union hiring hall, that none of his jobs lasted more than two or
+formal trial in the LHWCA case. He received oral testi-    three days at a time, that he had a variety of different employers
+mony. deposition testimony, exhibits, and briefing by the  and worked on a variety of different ships, that he lived on shore
+parties. On August 27, 1992, the ALJ issued his written    and not on the ships, that (although he had worked aboard the
+Decision and Order. (Pet. App. pp. 30a-57a.)               Tug before) the job he was performing on the date of injury was
+                                                           of only one day’s duration, and that his assignment to any vessel
+                                                           or fleet of vessels was random, sporadic, and transitory. (Pet. App.
+                                                           p. 37a.)
+                                    8                             9
+
+issue. (67 F.3d 203, Pet. App. pp. la-19a.) The Court        assigned when the injury occurs. Under certain limited
+of Appeals also held that the ALJ's decision that Papai
+was an LHWCA worker and not a seaman did not bar             circumstances known as the Fleet Seaman Doctrine, how-
+Papai’s claim to seaman remedies in the civil action.
+                                                             ever, the claimant's relationship to several or all of the em-
+                   SUMMARY OF ARGUMENT
+                                                             ployer’s vessels may be considered. This doctrine has been
+      The Formal Award Of LHWCA Compensation
+       Benefits Should Preclude Further Claim To Seaman      applied when the claimant is a steady employee who regu-
+
+       Remedies.                                             larly performs seaman’s work for a specific employer on
+
+   The remedies for injured maritime workers covered         multiple vessels belonging to that employer, to none of
+
+by the LHWCA and those for seamen are mutually               which he has a permanent or substantial connection. The
+
+exclusive. While an injured maritime worker may pursue       Court of Appeals’ decision below greatly expands the sea-
+
+both remedies until a determination is made of his entitle-  man status test by allowing the trier of fact to consider the
+ment to LHWCA benefits, once he is formally awarded
+those benefits, the claimant should not be allowed to seek   claimant’s entire work history, including his connection with
+seaman remedies. This is mandated by § 905(a) of the
+LHWCA and supported by the Congressional intent as           all the vessels on which he has worked for all of his em-
+expressed in the legislative history. Also, the doctrine of
+administrative collateral estoppel precludes seaman rem-     ployers. The Court of Appeals’ opinion on this point,
+edies once an Administrative Law Judge has determined
+that a claimant is covered by the LHWCA. An admin-           which is based upon a misreading of dictum in the recent
+
+istrative determination of the claimant’s statUS as an       Supreme Court decision in Chandris, Inc. v. Latsis,
+LHWCA worker and not a seaman should be given bind-
+                                                             US.  , 115 S.Ct. 2172, 132 L.Ed. 2d 314 (1995),
+ing recognition. To preclude the claimant from seeking a
+second remedy comports with Congressional inteMt, avoids     has no basis in precedent. The Court of Appeals’ test
+unjust and inconsistent status determinations, and avoids
+duplicative judicial proceedings over the same subject       would make seaman status unpredictable because it would
+matter. In this case, the ALJ determined that Papai was
+an LHWCA worker, not a seaman, and granted him               be based upon virtually unlimited jury discretion to con-
+
+LHWCA benefits. Thus he should be precluded from             sider the claimant's past or subsequent sea service. The
+further seeking seaman remedies.
+                                                             special remedies appertaining to seaman status should be
+       A Claimant's Status As A Seaman Should Be Based
+       Upon His Connection To The Vessel To Which He         accorded to seamen in being, not to former or expectant
+       Is Assigned When Injured Or, In Certain’ Circum-
+                                                             seamen. Whether a claimant has seaman status should be
+      stances, An Identifiable Group Of Vessels Belonging
+                                                             limited to his connection to the vessel (or identifiable
+       To His Employer.
+                                                             group of vessels belonging to his employer) to which he is
+   A prerequisite for seaman status is that the Claimant
+have a substantial connection to the vessel to which he is   assigned when the injury occurs. Under this rule, the
+
+                                                             District Court below correctly concluded that Papai—
+
+                                                             who was working on a one-day maintenance painting job
+
+                                                             while the Tug was tied to the dock—did not have a suf-
+
+                                                             ficient connection to the Tug to be considered a seaman.
+
+                                                                  ARGUMENT
+
+                                                                 I. THE FORMAL AWARD OF LHWCA COMPENSA-
+                                                                     TION BENEFITS SHOULD PRECLUDE FURTHER
+                                                                     CLAIM TO SEAMAN REMEDIES.
+
+                                                                Congress has clearly stated its intention that LHWCA
+                                                             worker remedies and seaman remedies be mutually ex-
+                                                             clusive. This Court has recognized that principle. Where,
+                                                             as in this case, a final determination has been made that
+                                                             a worker is an employee covered by the LHWCA, that
+10                                                                                                    |
+
+finding should be given preclusive effect as to subsequent      whether the employer was at fault for the injury, so long
+claims to seaman remedies. The plain text of the LHWCA,         as the injury arises out of the worker’s employment. In
+its legislative history, and the policy underlying the statute  return for compelling the employer to pay the wage com-
+                                                                pensation and medical benefits regardless of fault, the
+all confirm that a formal award of LHWCA benefits pre-          LHWCA sets a schedule of benefits and grants the em-
+cludes further seaman remedies.                                 ployer immunity from tort liability for the injury. 33 U.S.C.
+                                                                § 905(a): 1 Schoenbaum, Admiralty and Maritime Law
+A. Seaman Remedies And   LHWCA  Remedies Are                    (2d ed. 1994), § 7-1, pp. 371-2. The LHWCA covers
+    Mutually Exclusive.                                         specified “empl asodey fineed e in s the”Act, which ex-
+                                                                pressly excludes “a master or member of a crew of any
+             1. Seaman Remedies (The Jones Act).                vessel.” 33 U.S.C. § 902(3).
+
+   The Jones Act, passed in 1920, provides a cause of ac-          Under the LHWCA, a formal award of benefits can be
+tion in negligence to any “seaman” injured in the course        achieved in either of two ways. The first is by way of
+                                                                a formal hearing before an ALJ, akin to a civil trial.”
+of his employment. 46 U.S.C. § 688(a). Under the                The second is by way of a formal settlement between
+general maritime law before 1920, an injured seaman             the parties, approved by an ALJ or the district director
+could seek damages from the shipowner only if the vessel's      of the Department of Labor, Office of Workers’ Compen-
+unseaworthiness caused the injuries. An injured seaman          sation Programs (““OWCP”). The requirements for this
+also was entitled (regardless of fault for the injury) to       kind of formal settlement are set forth in 33 U.S.C.
+                                                                § 908(i), and thus such a resolution is commonly known
+“maintenance” (subsistence) and “cure” (medical care)           as a “§8(i)” settlement. Under § 908(i), the parties
+until he recovered. However, the seaman could not sue           must submit the terms of the settlement to an ALJ or to
+for negligence. The Jones Act added a negligence cause          the district director * for approval, to ensure that the settle-
+of action against the employer to the seaman’s potential        ment is adequate in amount and not procured by duress.’
+remedies for injury. Chandris, Inc. v. Latsis, —— U.S.          Approval of the settlement constitutes an enforceable com-
+                                                                pensation award, and discharges the employer from further
+——, 115 S.Ct. 2172, 2183, 132 L.Ed. 2d 314, 328,
+(1995). If an employer is held liable for negligence un-           5 This is how Papai obtained his award.
+der the Jones Act or for unseaworthiness under the gen-
+eral maritime law, the injured seaman may recover for              * The district director was formerly known as the “deputy com-
+past wage loss, future wage loss, medical expenses, and         missioner.” 20 CFR 782.105.
+genera! damages for pain and suffering. | Schoenbaum,
+Admiralty and Maritime Law (2d ed. 1994), § 6-18, pp.              ™ The elaborate requirements for submitting a settlement for
+297-303.                                                        approval are set forth in 20 CFR §§ 702.241-243. The settlement
+                                                                application must contain a description of the incident, the nature
+             2. LHWCA Remedies.                                 of the injury, the medical care rendered, and the compensation paid.
+                                                                § 702.242(a). The application must contain a description of the
+   The LHWCA (33 U.S.C. § 901 ef seg.) was enacted              terms of the settlement, the reasons for the settlement, the issues
+in 1927 to provide a form of workers’ compensation in           in dispute, particulars about the claimant, the claimant’s work his-
+lieu of tort damages for land-based maritime workers,           tory, the claimant’s current medical] status, justification about the
+particularly longshoremen, but also others who perform          adequacy of the settlement amount, and the claimant’s need for
+shore-based work in connection with vessels. At the time        future medica! care. § 702.242(b).
+of its enactment such workers generally were excluded
+from state workers’ compensation coverage. The LHWCA
+requires an employer to provide wage compensation and
+medical benefits to an injured LHWCA worker regardless
+                                      12                                                                 13
+
+liability under the LHWCA for the subjects covered by                    As eurly as 1922, Congress expressed its intent to treat
+                                                                     land-based maritime workers differently from seamen. In
+the settlement. 33 U.S.C. § 908(i).                                  response to Supreme Court decisions that state workers’
+                                                                     compensation laws could not constitutionally apply to
+   In addition to the scheduled LHWCA compensation                   land-based maritime workers, Congress passed a law to
+benefits due from the employer, an injured LHWCA                     provide a remedy for those workers separate from the Jones
+worker has the right to sue third parties for negligence             Act, by extending state workers’ compensation coverage
+causing the injury. 33 U.S.C. §905(b). Such third                    to them.” Although the Supreme Court struck down the
+parties include the owner and operator of the vessel on              law,” the importance that Congress placed upon treating
+which the worker is injured. Under the “dual capacity                land-based maritime workers differently from seamen was
+doctrine,” an LHWCA worker can sue the shipowner                     clear. The legislative history states:
+even if the shipowner also is his employer, but he can sue
+the dual shipowner/employer only for negligence in its                      There is a clear distinction between the two classes,
+shipowner capacity, not for negligence in its employer                      seamen and landsmen . . . The distinctions are based
+capacity. Jones & Laughlin Steel Corp. v. Pfeifer, 462                      upon the fact of their employment, upon the separate
+U.S. 523, 529, fn. 6, 103 S.Ct. 2541, 76 L.Ed. 2d 768                       systems of law which have hitherto been applied to
+(1983); Reed v. S.S. Yaka, 373 U.S. 410, 83 S.Ct. 1349,                     them, and the character of employers... .”’
+10 L.Ed. 2d 448 (1963).*                                             The legislative history emphasizes that the special remedies
+                                                                     available to a seaman are “of great antiquity” and that this
+             3. Seaman Remedies And LHWCA Remedies Are               “marks him off very clearly from the landsman who works
+                  Mutually Exclusive.
+                                                                     in port.” *
+   The plain text of the LHWCA demonstrates that when
+an employer is liable under the LHWCA, that employer                    Two years after declaring unconstitutional the remedial
+may not be held liable under any other remedy scheme,                scheme that Congress adopted for land-based maritime
+including the Jones Act. LHWCA § 905(a) states:                      workers, the Supreme Court interpreted the term “sea-
+                                                                     man” in the Jones Act “to include stevedores employed
+      The liability of an employer prescribed in section             in maritime work on navigable waters.” Congress re-
+      904 of this title shall be exclusive and in place of all       sponded to this blurring of the line between seamen and
+      other liability of such employer to the employee. . .          land-based workers by enacting the LHWCA in 1927.
+       at law or in admiralty on account of such injury .. .         The LHWCA was adopted to provide an exclusive com-
+                                                                     pensation remedy for land-based maritime workers, ex-
+   A brief review of the LHWCA’'s history emphasizes the             cluding from its coverage “a master or member of a crew
+importance of the legislative policy underlying the ex-
+clusivity of the employer's liability. On several occasions             * Act of June 10, 1922, ch. 216, 42 Stat. 634.
+since the enactment of the Jones Act in 1920, Congress
+expressed its strongly-held belief that maritime workers                10 Washington v. W.C. Dawson & Co., 264 U.S. 219, 44 S. Ct. 302,
+covered by the LHWCA are not entitled to bring a Jones
+Act negligence action against their employer.                        68 L. Ed. 646 (1924).
+
+   * Thus Papai as an LHWCA worker was able to sue HTB for              1 §. Rep. No. 94, 67th Cong., Ist Sess. 2 (1921).
+negligence under § 905(b)—even though HTB was Papai’s em-
+ployer and paid him LHWCA benefits—in HTB’s capacity as the             2 Id. See also H.R. Rep. No. 639, 67th Cong., 2d Sess. 4 (1922)
+operator of the Tug. Following trial of Papai’s § 905(b) negligence  (“Congress has always in legislating distinguished between these
+claim, the court found that HTB was not negligent. (J.A. 81-86.)     port workers and seamen.” )
+
+                                                                        8 International Stevedoring Co. v. Haverty, 272 U.S. 50, 47 S.Ct.
+                                                                     19, 71 L.Ed. 157 (1926).
+                                      14                                                                  15
+
+of any vessel.” * As used in the LHWCA, that phrase                    between seamen and land-based maritime workers be
+has been interpreted as having the same meaning as the                 maintained:
+term “seaman” in the Jones Act.” Moreover, in enacting
+the LHWCA, Congress specifically rejected an amend-                           In reaching this conclusion, the Committee has noted
+ment to include seamen within the scope of the legisla-                       that the seaworthiness concept was developed by the
+tion.”                                                                        courts to protect seamen from the extreme hazards
+                                                                              incident to their employment which frequently re-
+   Twenty years later the Supreme Court allowed land-                         quires long sea voyages and duties of obedience to
+based maritime workers to assert the seaman’s claim of                       orders not generally required of other workers. The
+unseaworthiness against shipowners.’ Congress explicitly                      rationale which justifies holding the vessel absolutely
+overturned this decision in 1972.” Again, Congress ex-                        liable to seamen if the vessel is unseaworthy does not
+pressed its intent to preserve the distinct special remedies                  apply with equal force to longshoremen and other
+afforded to seamen, while treating land-based mari-                           non-seamen working on board a vessel while it is in
+time workers like other employees under typical work-
+ers’ compensation systems. The 1972 legislation elim-                        port.
+inated the unseaworthiness cause of action for land-based
+maritime workers. However, Congress allowed LHWCA                      S. Rep. No. 1125, 92d Cong., 2d Sess. 9-10 (1972).
+workers to assert negligence actions against the owners
+of ships on which they are injured, just as employees                     In recent decisions this Court has consistently recog-
+covered by a workers’ compensation system can sue                      nized that the LHWCA and the Jones Act are mutually
+premises owners or other third parties whose negligence                exclusive compensation regimes, since the Jones Act ap-
+causes a workplace injury. 33 U.S.C. § 905(b).                         plies only to a “seaman” and the LHWCA expressly
+                                                                       excludes “a master or member of a crew of any vessel,”
+   The legislative history of the 1972 amendments illus-               which is synonymous with “seaman.” '”
+trates the strong concern of Congress that the distinction
+                                                                          In summary, Congress has clearly stated its intent that
+   14 33 U.S.C. §§ 902(3) (G).                                         a claimant found to be an “employee” under the LHWCA
+                                                                       is entitled only to the remedies provided in that statutory
+   15 Swanson v. Marra Bros., Inc., 328 U.S. 1, 7-8, 66 S.Ct. 869,     scheme and is not entitled to the remedies accorded to a
+90 L.Ed. 1045 (1946). See also McDermott Int'l, Inc. v. Wilander,      seaman. The legislative history over more than seventy
+448 U.S. 337, 347, 111 S.Ct. 807, 112 L.Ed.2d 111 (1991) ; Chandris,   years demonstrates that this policy is based upon Con-
+115 S.Ct. at 21838, 132 L.Ed.2d at 329.                                gress’ deeply rooted belief that land-based maritime work-
+                                                                       ers are not subject to the same hazards as are seamen.
+   1669 Cong. Rec. 5410 (1927) (statement of Rep. Graham). Con-
+gress only considered including seamen within the LHWCA in                      B. Until A Claimant’s Status Is Determined, The
+order to respond to perceived constitutional issues raised by earlier               Claimant May Pursue Both LHWCA Remedies And
+Supreme Court decisions. Jd. The seamen themselves “bitterly op-
+posed” their inclusion in the bill. 69 Cong. Rec. 5414 (1927) (state-              Seaman Remedies Without Having To Make An
+ment of Rep. Davis). See also South Chicago Coal & Dock Co. v.
+Bassett, 309 U.S. 251, 266-7, 60 S.Ct. 544, 84 L.Ed. 732 (1940).                     Election Of Remedies.
+
+   17 Seas Shipping Co. v. Sieracki, 328 U.S. 85, 66 S.Ct. 872, 90        The mere receipt of LHWCA benefits, which may be
+L.Ed. 1099 (1946).                                                     paid voluntarily by an employer in the absence of an ALJ
+                                                                       hearing or § 8(i) settlement, does not in itself preclude
+   18 Longshoremen’s and Harbor Workers’ Compensation Act              seaman status. Therefore, a claimant may pursue both
+Amendments of 1972, Pub. L. No. 92-576, 86 Stat. 1261 (1972).
+                                                                          19McDermott Int'l ,Jnc., 448 U.S. at 347; Chandris, 115 S.Ct. at
+                                                                       2183, 132 L.Ed.2d at 329.
+                                   16                                                             17
+
+potential remedies—LHWCA and seaman (including the          to an election of remedies we do not believe Congress to
+Jones Act)—until his status is formally determined.         have intended.” 502 U.S. at 92, fn. 5.
+
+   The Supreme Court recently confirmed this in South-         In the case at bar, however, Papai is not subject to an
+west Marine, Inc. v. Gizoni, 502 U.S. 81, 112 S.Ct. 486     election of remedies, and the attendant risk of losing all
+116 L.Ed. 2d 405 (1991). In that case an injured rig-       remedies if he initially selected the wrong one. He pre-
+ging foreman’s employer voluntarily paid him LHWCA          vailed in the LHWCA proceeding and has received an
+benefits. Gizoni later sued the employer for negligence     award of LHWCA benefits.”
+under the Jones Act. The Court held in relevant part that
+the mere receipt of LHWCA benefits paid voluntarily by               Cc. A Claimant Who Has Been Formally Awarded
+an employer in the absence of a formal LHWCA award                        LHWCA Benefits Should Be Precluded From There-
+does not in itself preclude seaman status. 502 U.S. at 91.                after Pursuing Seaman Remedies.
+
+   Gizoni did not address the situation presented here,        Since the LHWCA and seaman remedy schemes are
+where the worker's status was litigated in the LHWCA        mutually exclusive, a formal award of LHWCA benefits
+proceeding and a formal award of LHWCA benefits was         should be sufficient to effectuate that exclusivity and pre-
+made. The Gizoni decision suggests that the Court would     clude further seaman remedies. To award LHWCA bene-
+have viewed this situation differently. Gizoni stated that  fits, an ALJ must find that the claimant is a covered
+an employee who receives voluntary LHWCA payments           worker, i.e., not a seaman.*’ This finding should be given
+without a formal award is not barred from subsequently      effect in a subsequent Jones Act action. To do so com-
+seeking relief under the Jones Act “because the question    ports with the Congressional intent expressed in the
+of coverage has never actually been litigated.” 502 U.S.    LHWCA, avoids unjust and inconsistent status determina-
+at 91. The implication is that if coverage had been liti-   tions, and avoids duplicative judicial proceedings over the
+gated, the employee could not later seek relief under the   same subject matter.
+Jones Act. In the case at bar, the question of coverage
+was litigated, so the principal rationale for the Gizoni                  1. The Preponderant Authority Holds That A
+decision on this point is absent.                                             Formal Award Of LHWCA Benefits Precludes
+                                                                              Further Claim To Seaman Remedies.
+    The Gizoni decision interpreted the statutory scheme
+as not intended to force the injured worker to make an         While the Supreme Court has not directly addressed
+initial election of remedies that could preclude any re-    the issue, the preponderant authority in the Courts of
+covery at all. For example, assume that a claimant sought   Appeals is that a formal award of LHWCA benefits—
+LHWCA benefits, and an ALJ thereafter denied those          whether as a result of an ALJ hearing or a § 8(i) settle-
+benefits on the ground that he was a seaman. If the         ment—preclvdes a further claim to seaman remedies. The
+strict rule of election of remedies applied, he would then
+be unable to pursue a Jones Act remedy because he had          2° The Court of Appeals opinion below allowed Papai to pursue
+previously elected to seek an LHWCA remedy. Obviously       seaman remedies even after a formal award of LHWCA benefits.
+this would be unfair. Thus, making a claimant choose        This was premised upon the notion that its decision was “extending
+between the potential right to an immediate workers’ com-   the reasoning of the Gizoni court to the next logical step. . . .”
+ pensation remedy and the Jones Act remedy to which         67 F.3d at 208, Pet. App. p. 12a. That premise must be rejected.
+ he may be entitled would “force injured maritime workers   A step it may be, but given LHWCA § 905(a), it is not a logical
+                                                            one.
+
+                                                               21 The ALJ explicitly so found in this case. See the Decision of
+                                                            ALJ Mapes, at Pet. App. 37a (“the claimant cannot be regarded
+                                                            as a member of the crew of any ship or fleet of ships.”)
+                                      18                          19
+
+most prominent case on the subject is Sharp v. Johnson            stone on the way to a jury award.  [Footnotes
+Bros. Corp., 973 F.2d 423 (Sth Cir. 1992). In that case           omitted.|
+the Fifth Circuit held that an ALJ order approving a
+                                                                  While we recognize that there are differences be-
+settlement of LHWCA benefits under § 8(i) precluded
+subsequent seaman remedies. The Sharp court empha-             —  tween the fact-finding processes in the administrative
+sized that while Congress did not intend that a claimant
+forfeit the right initially to pursue both remedies simul-        forum and in the judicial forum, we doubt that these
+taneously, Congress also did not intend that the claimant
+be able to pick and choose his ultimate recovery based            differences are sufficient to deprive an injured em-
+upon which remedy conferred upon him a larger award.
+The court noted that the LHWCA was not designed to                ployee of a fair opportunity to present the coverage
+create a mere safety net, guaranteeing workers a minimum
+award as they seek greater rewards in court. Rather,              issue before the Department. [Footnote omitted.|
+the Act is intended to benefit employers, too, giving them
+limited and predictable liability in exchange for conceding       As a result, a finding of LHWCA coverage sought
+their right to defend the claim on the ground of absence
+of fault. 973 F.2d at 425-7.                                      and obtained by the injured worker from the Depart-
+
+   The Fifth Circuit Court of Appeals explained its view          ment should preclude any subsequent action against
+of the principles underlying the preclusive effect of an
+ALJ's determination of a claimant's LHWCA status in               his employer for the same injury.
+Fontenot v. AWI, Inc., 923 F.2d 1127, 1132-1133 (Sth
+Cir. 1991):                                                          The Court of Appeals for the Second Circuit, too, has
+                                                                  held that a formal award of compensation under the
+       Permitting a trial court to redetermine issues decided     LHWCA precludes subsequent recovery of seaman reme-
+       by the administrative system effectively defeats the
+       purpose of the LHWCA. Instead of creating cer-             dies. Hagens v. United Fruit Co., 135 F.2d 842 (2d. Cir.
+       tainty for both employer and employee, permitting a
+       trial court to redetermine the coverage issue reintro-     1943).*
+       duces uncertainty for both. Instead of lowering the
+       cost of recovery for an injured worker, the worker         2. A Formal Award Of LHWCA         Benefits Should
+       must pay counsel both for representation on the                Be Given Preclusive Effect.
+       LHWCA claims and again in seeking a jury award.
+       Furthermore, if we permit a trial court and the                              a. To Uphold The Provisions And Intent Of The
+        Department [of Labor] to reach inconsistent determi-                             LHWCA, A Formal Award Of LHWCA Bene-
+       nations of the coverage issue, an injured worker may                              fits Should Per Se Preclude Further Seaman
+       receive both a jury trial and an LHWCA remedy, or                                 Remedies.
+       neither, despite the intention of Congress that he
+       receive one or the other. In enacting the LHWCA,              As related above, the LHWCA by its express terms is
+       Congress intended that it be the sole and exclusive        the exclusive liability of the employer for an injury under
+       remedy for workers within its scope, not a stepping        its coverage. 33 U.S.C. § 905(a). The legislative history
+                                                                  and court decisions interpreting the LHWCA confirm the
+                                                                  mutual exclusivity of LHWCA remedies and seaman reme-
+                                                                  dies. As a matter of law, therefore, the formal award of
+
+                                                                     *2 The Court of Appeals for the Ninth Circuit had followed the
+                                                                  rule of collateral estoppel on this point. Figueroa v. Campbell Indus.,
+                                                                  45 F.3d 311 (9th Cir. 1995). Cf. Roth v. McAllister Bros., Ine.,
+                                                                  316 F.2d 143 (2nd Cir. 1963), in which a tugboat operator had
+                                                                  prevailed in a New Jersey workers’ compensation proceeding on the
+                                                                  ground that the claimant was a seaman (and thus excluded from
+                                                                  compensation coverage). The court held that the tugboat operator
+                                                                  was estopped from arguing in a subsequent Jones Act action that
+                                                                  the plaintiff was not a seaman.
+                                   20                                                                                    21     status issue. This
+                                                                                      the ALJ will “actually litigate” the      a wholly unneces-
+LHWCA benefits, whether by an ALJ trial or § 8(i)                                     ie njece ts into the LHWCA prproceediing
+settlement, should per se preclude further seaman reme-
+dies. This conclusion is based upon the statutory inter-                                 The disputation will not end there, for i
+play of the two remedy schemes.™                                                      unimaginative claimant's attorney who pied poy
+                                                                                      way to argue to the court or jury in a subsequent Jones
+   This conclusion does not depend upon the application                               Act suit that the status issue was not “actually litigated”
+of the doctrine of administrative collateral estoppel. While                          for this purpose. Whether the issue of status was actuall
+this case could be decided upon the ground that collateral                            litigated in the LHWCA proceeding would be a snaiien
+estoppel applies, application of that doctrine is unneces-                            of fact in the subsequent Jones Act action. Evidence
+sary, for the plain meaning of § 905(a) and the expressed                             would have to be presented on this issue, which could
+Congressional intent is that a claimant who is awarded                                become a mini-trial on its own. Until the applicability of
+benefits under the LHWCA is precluded from seeking                                    collateral estoppel in -he second proceeding is determined,
+other remedies against his employer.                                                  etpheoceoputret and t~he a parties wililll be subjej ct to the full burden
+
+   One of the traditional elements of collateral estoppel is          ad              Thus the better rule is that § 905(a r
+that the issue in question be actually litigated. That often
+does not occur in an LHWCA proceeding, either because                                 seaman remedies, whether or not the ped nBrd rage—
+the employer concurs that the claimant is an LHWCA                                    lateral estoppel are met. The decision in Sharp v. Johnson
+worker, or the parties reach a § 8(i) settlement. The                                 Bros. Corp., 973 F.2d 423 (Sth Cir. 1992) points the
+LHWCA was intended to provide a prompt remedy to an                   er
+injured worker without the expense, uncertainty, and de-
+lay that tort actions entail.‘ Requiring actual litigation                            = There the Court of Appeals held that a formal
+of the status issue defeats this objective. If the only way                           HWCA award, even in the absence of actual litigation
+that an employer can protect itself from a subsequent                                 of the status issue, precludes further seaman remedies be-
+Jones Act claim is to litigate the claimant's status in the                           cause of the statutory text and purpose of the LHWCA
+LHWCA proceeding, the employer will be forced to de-                                  not because of collateral esto ppel. HTB re
+mand a hearing (rather than enter into a § 8(i) settle-                               to adopt that rule.
+ment) and take a position—perhaps contrary to its belief                                                   “e                      giiakiyro ven
+—that the claimant is a seaman, in order to ensure that
+                                                                                      b. ALJ Awards Under the LHWCA Satisfy The
+   23Although not directly at issue in this case, HTB accepts all                          Requirements Of Administrative Collateral
+the corollaries of the principle of mutual exclusivity: a) If the                         Estoppel.
+ALJ denies LHWCA coverage to the claimant because he is a
+seaman, the employer should be precluded from contesting the                          If the Court holds that LHWCA § 905
+claimant’s seaman status in a subsequent Jones Act claim. b) If the                   se preclude a further claim to Breda Aortex”
+trier of fact in a Jones Act action grants an award to the claimant,                  Papai should be precluded from those remedies on the
+                                                                                      basis of administrative collateral estoppel. The facts of
+the claimant should be precluded from thereafter seeking further                      Papai’s case meet even the most stringent possible require-
+                                                                                      ments of collateral estoppel: (1) The question of
+LHWCA remedies. c) If the trier of fact in a Jones Act action         L TltSA lieNES
+denies recovery for the reason that the claimant is not a seaman,
+the employer should be barred from asserting as a defense in a                        scaman/non-seaman status was presented to the ALJ:
+subsequent LHWCA proceeding that the claimant is a seaman.                            (2) The issue was actually litigated in the administrative
+                                                                                      proceeding; (3) Determination of the issue by the ALJ
+    24 Morrison-Knudsen Const. v. Dir., Office of Wkrs. Comp. Prog.,                  was necessary because if Papai was a seaman, then he
+
+461 U.S. 624, 636, 103 S.Ct. 2045, 76 L.Ed.2d 194 (1983).
+22                                                                                                   23
+
+was not entitled to LHWCA benefits; and (4) the ALJ                    The LHWCA contains no evident statutory purpose to
+                                                                    overcome the presumed application of administrative col-
+made an explicit finding of non-seaman status.                      lateral estoppel. Neither the statutory text, nor the legis-
+                                                                    lative history, nor the policies underlying the LHWCA
+The Supreme Court has held that administttive deter-                reveal any such intent. Indeed, these sources strongly
+sidtin fact should be binding. The Court hey yw                     confirm that Congress intended for the LHWCA and the
+reiterated this principle in Astoria Federal S@. @    es            Jones Act to be mutually exclusive, even where all the
+Ass'n v. Solimino, 501 U.S. 104, 111 S.Ct-. 2166, 1                 formal elements of collateral estoppel are not met.
+
+   d. 2d 96 (1991): “We have long favored application                  The text of the statute alone suffices on this point.
+ofL.E the common-law doctrine of collateral estoppel (vd to         Section 905(a) provides that the liability of an employer
+issues) and res judicata (as to claims) to those de -               under the LHWCA “shall be exclusive and in place of
+minations of administrative bodies that -paged attal                all other liability of such employer to the employee.” The
+finality.” 501 U.S. at 107. Pursuant to this —— 4.                  plain meaning of this provision is that if a worker is
+formal award of LHWCA benefits (whethe by an ood                    found to be covered by the LHWCA, the employer is not
+hearing or approval of a § 8(i) settlememt) 1 wi -                 to be subject to any other remedies, including the Jones
+LHWCA worker status is expressly found shO¥ rh                      Act.
+effect to preclude a subsequent claim to searM@n re les.
+                                                                       The only implication in the Act that collateral estoppel
+The Solimino decision listed the prerequisi¢s for admin-           arguably may not apply is in § 903(e), which allows a
+istrative collateral estoppel: the administ®@Uve Pca               credit to the employer against its liability under the
+must be acting in a judicial capacity resol'ViNg| - ~              LHWCA for amounts paid to the claimant pursuant to
+issues of fact properly before it that the ee as                   any other workers’ compensation law or the Jones Act.
+had an adequate opportunity to litigate. Sol > et                  Section 903(e) was added to the LHWCA in 1984 as part
+US. at 107, citing United States v. Utah wert} 5. a                of a package of amendments. Longshore and Harbor
+ing Co., 384 U.S. 394, 422, 86 S.Ct. 1545,          Le. -          Workers Compensation Act Amendments of 1984, Pub. L.
+                                                                   No. 98-426, 98 Stat. 1639 (1984). The main purpose
+642 (1966). LHWCA awards satisfy these requirements.
+                                                                   of section 903(e) was to address the interplay of the
+(1) No Statutory Intent Precludes The -y~
+                                                                   LHWCA with state workers’ compensation schemes. See
+     cation Of Administrative Collateral Es-                       H.R. Rep. No. 98-570, 98th Cong., Ist Sess., pt. 1,
+      toppel In This Case.                                         at 26 (1983). The legislative history is silent about why
+                                                                   the Jones Act was included.” By its own terms, § 903(e)
+   The Solimino case stated an exception to the ogee               provides an offset only when a claimant seeks an LHWCA
+                                                                   recovery after receiving a payment under the Jones Act:
+of administrative collateral estoppel. The Court not               it does not cover the situation presented in the present
+                                                                   case, where a Jones Act recovery is sought after payment
+that Congress legislates against a backgroun!4 bepew
+                                                                     ** See H.R. Rep. No. 570, 98th Cong., Ist Sess., pt. 1 (1983) and
+law adjudication principles, including colla\'® M —.
+                                                                   H.R. Conf. Rep. No. 1027, 98th Cong., 2nd Sess (1984), reprinted
+Thus courts may take it as given that Congt©Ss = egis-             in 1984 U.S.C.C.A.N. 2734, et seq. See also S. Rep. No. 81, 98th
+                                                                   Cong., 1st Sess. (1983).
+lated with an expectation that the principle ir apply
+
+unless a contrary statutory purpose is clearlly evident.
+
+  28 Solimino, 502 U.S. 104, 108. In Solimino, the ne yo
+
+the statute at issue in that case contained provis! 08 of 116-11.
+
+clear that collateral estoppel is not to apply.” 502 US.
+                                   24                                                                       25
+
+is made under the LHWCA. To argue that § 993(e)                          phasis in original).” The broad objective of the LHWCA
+                                                                         should not be read to overcome the text of § 905(a) and
+evidences a Congressional intent to overcome the collat-                 that section's legislative history, particularly when the is-
+eral estoppel effect of an LHWCA award requires a                        sue is whether Congress intended to overcome a common-
+chain of inference too weak to lift the firm anchor                      law presumption.”
+
+provided by the plain text of LHWCA § 905(a).”                                                 (2) The Bassett Case Does Not Address Col-
+                                                                                                     lateral Estoppel.
+    In summary, the statutory text of the LHWCA not only
+is devoid of intent to overcome the presumption of col-                     The process of appealing an LHWCA decision under-
+lateral estoppel, it is strongly supportive of that presump-             went a significant change in 1972. Before that year re-
+tion. The legislative history of the statute also supports              view of Department of Labor LHWCA decisions was by
+the conclusion that workers receiving a formal LHWCA                    way of injunction proceedings in the district courts. The
+award should be precluded from seaman remedies. Con-                     1972 Amendments to the LHWCA created the Benefits
+gress has repeatedly stated that LHWCA remedies are                     Review Board, which thereafter was to hear appeals of
+exclusive, not a stepping stone to a Jones Act jury trial.              ALJ and District Director decisions.”
+
+    The Court of Appeals decision in this case may have                     It was under this pre-1972 appeal process that the
+been influenced by the general objective of the LHWCA                   SupCor urt e decm idedeSouth Chicago Coal & Dock Co.
+to assist injured workers. The Supreme Court, however,                  v. Bassett, 309 U.S. 251, 60 S.Ct. 544, 84 L.Ed. 732
+has warned against interpreting the statutory scheme based               (1940). In that case a laborer fell from a vessel that
+upon a court’s understanding of the general statutory                   was supp coal l ty o ani othn er g vessel. The worker drowned.
+policy:                                                                 The deputy commissioner of the Department of Labor
+                                                                        awarded his widow benefits under the LHWCA. The
+       No legislation pursues its purposes at all costs. De-            employer sued in federal court to restrain the enforcement
+       ciding whether competing values will or will not be
+       sacrificed to the achievement of a particular objec-             tion of the ‘plain purpose’ of legislation at the expense of the terms
+       tive is the very essence of legislative choice—and ii
+       frustrates rather than effectuates legislative intent            of the statute itself takes no account of the processes of compromise
+       simplistically to assume that whatever furthers the              and, in the end, prevents the effectuation of congressional intent.”
+       statute’s primary objective must be the law.
+                                                                           ** For instance, assuming that Congress’ broad objective was to
+ Rodriguez v. United States, 480 U.S. 522, 525-6, 107 S.                protect injured employees, this policy could lead to different conclu-
+ Ct. 3191, 94 L.Ed. 2d 533 (1987) (per curiam) (em-
+                                                                        sions about whether to overcome the presumption of administrative
+    271f a payment is made in settlement of a Jones Act claim
+ without a finding of seaman status, then the claimant would stil!      collateral estoppel. Inconcos veri agesdt etee rmin natt ions could re-
+ be entitled to pursue an LHWCA remedy and the offset provided          sult in a worker having no remedy at all, if both tribunals (LHWCA
+ in § 903(e) would apply. Applying § 903(e) to that situation would     and court) rule against the claimant on status. Thus, this general
+ give that section effect, while maintaining consistency with the       statutory purpose does not support the conclusion that Congress
+ principle of mutual exclusivity of the remedies.                       intended to overcome the presumption of administrative collateral
+
+    28 See also Board of Governors v. Dimension Fin. Corp., 474 U.S.       * Longshoremen’s and Harbor Workers’ Compensation Act
+ 361, 373-74, 106 S. Ct. 681, 88 L.Ed. 2d 691 (1986): “Application      Amendments of 1972, Pub. L. No. 92-576, 86 Stat. 1251 (1972),
+ of ‘broad purposes’ of legislation at the expense of specific provi-   Section 15, codified at 33 U.S.C. § 921(b). See H.R. Rep. No. 1441,
+ sions ignores the complexity of the problems Congress is called        92d Cong., 2d Sess. (1972), reprinted in 1972 U.S.C.C.A.N. 4698,
+  upon to address and the dynamics of legislative action . . . Invoca-  et seq. The present LHWCA appeal! process is set forth in 33 U.S.C.
+                                                                        § 921.
+                                   26                                                                        27
+
+of the LHWCA award, contending that the decedent was                      case in a subsequent Jones Act lawsuit. This will result
+
+a seaman, and hence not covered by the LHWCA. The                         in inconsistencies and excessive litigation.
+
+District Court considered the status question de novo and                    Allowing inconsistent coverage determinations could re-
+                                                                          sult in a worker having no remedy at all. As noted by
+found that the decedent was a seaman. The Supreme                         the Fifth Circuit Court of Appeals in Fontenot, allow-
+Court held that the District Court erred in assessing the
+issue anew. The Court noted that seaman status turns                      ing inconsistent coverage determinations could result in
+on questions of fact, and that Congress in the LHWCA                      an LHWCA forum determination that a worker was a
+
+has confided such questions to the Department of Labor.                   seaman (hence denying recovery) and a Jones Act forum
+
+Hence the deputy commissioner's finding of status was                     determination that the worker was not a seaman (hence
+
+conclusive if there was evidence to support it. 309 U.S.                  denying recovery). Fontenot v. AWI, Inc., 923 F.2d
+                                                                          a 1127,e 1133s , fn.39 (Sth Cir. 1991 ). Thisi surely would
+at 257.
+    Bassett addresses the standard of review of a Depart-                    The legislative history of the LHWCA reflects Con-
+                                                                          gressional concern about excessive litigation.“ Allowing
+ment of Labor decision under the LHWCA, not whether
+                                                                          both LHWCA and Jones Act proceedings will excessively
+collateral estoppel should apply to a final decision. Bassett             consume the time and resources of the courts, the ALJs,
+
+does not provide authority for avoiding the application of                and the parties. The increase in attorney fees is patent.
+collateral estoppel through review by the courts of final
+Department of Labor LHWCA decisions.™                                     This does not affect employers only; while employers
+                                                                          must pay the attorney fees for a successful claimant un-
+    In this case, the ALJ determined that Papai was an                    der the LHWCA, the claimant must bear some or all of
+                                                                          the fee if his claim is unsuccessful. 33 U.S.C. § 928
+ LHWCA worker and not a seaman. The ALJ’s decision
+was not appealed, and therefore it is final. The issue                    Also, the LHWCA was intended to provide a benefit to
+now is not whether the ALJ was correct in that decision.
+ That is an issue of preclusion or collateral estoppel, not               employers, “giving them limited and predictable liability
+ the sufficiency of the evidence before the ALJ.                          in exchange for their giving up their ability to defend
+                                                                          tort actions.” Sharp v. Johnson Bros. Corp., 973 F.2d
+                  c. Allowing Two Proceedings About The Same
+                                                                          423, 426-7 (Sth Cir. 1992). These mutual benefitlsic
+                         Injury Will Result In Inconsistencies And
+                         Excessive Litigation.                            at the heart of the LHWCA. If claimants found to be
+                                                                          LHWCA workers can subject their employers to lengthy
+    If an award of LHWCA benefits is not given preclusive                 expensive Jones Act litigation, a basic underpinning of
+ effect, then the claimant will be able to re-litigate his                the LHWCA will be effectively abolished.”
+
+     21 In its McDermott Int'l, Inc. v. Wilander decision, the Court         % Similarly, , one jury may limit a claiman t to an LHWCA  rem-
+ confirmed this part of the Bassett decision, stating: “If there is       edy, while another jury may allow his co-worker (performing   vom
+ evidence to support the deputy commissioner's finding, it is con-        tical job duties) a Jones Act remedy too.
+ clusive.” 498 U.S. at 356. However, the Court jettisoned Bassett’s
+  arguable “aid in navigation” requirement for seaman status. 498         ™ See 118 Cong. Rec. , 36388 (1972) (statemen t of Rep. Mink);
+  U.S. at 353.                                                            ore Rep. No. 92-1441, 92d Cong., 2d Sess. 5 (1972) (“The ae
+                                                                          mittee heard testimony that much of the financial resources which
+     % To the extent that Bassett is read to allow an exception           could better be utilized to pay improved compensatio be
+  to the imposition of administrative collateral estoppel if no evidence  now being spent to defray litigation costs.”)
+  supports the administrative decision, that exception does not apply                                                    tenga
+  in this case. Indeed the contrary is the case here—the relevant
+  evidence overwhelmingly supports the finding that Papai was a land-        ** The Court of Appeals below was concerned that i
+
+  based worker covered by the LHWCA, not a seaman.                        clusion on the status issue would be a disincentivoen Gnaniou?s
+                                   28                                                           29
+
+   Therefore a formal award of LHWCA benefits—                                  (1) The Employer's Credit In A Jones Act
+                                                                                     SCaesneetiFeor Prior Payment Off LHW CA
+whether following an ALJ hearing or a § 8(i) settlement
+—should preclude further seaman remedies. Such a rule                    Courts have rarely addressed the credit an                         i
+would be clear, consistent, and easy to administer, would                to receive when he is found liable in a gy gale
+conserve the resources of the courts, the Department of                  but has already paid LHWCA benefits. The main au-
+                                                                         thority on the issue is Massey v. Williams-McWilliams
+Labor, and the parties, and would be in conformity with                  Inc., 414 F.2d 675, 679-80 (5th Cir. 1969). That case
+                                                                         allowed the credit to be applied only against Jones Act
+the principle of mutual exclusivity.                                     damages items that are comparable to the loss items com-
+                                                                         pensated by the LHWCA benefits, namely the claimant's
+                 d. Allowing A Credit Against The Second Recov-          lost past wages, medical payments, and maintenance, but
+                                                                         not against the claimant's Jones Act award for pain and
+                        ery Does Not Cure The Deficiencies Of Allow-     suffering or for loss of earning capacity subsequent to the
+                        ing The Claimant To Pursue Both Remedies         date of payment of the last com             ;
+                        Schemes To Conclusion.                           loosf fsuture earnings).             PRS NS th,
+
+   One reason why the Court of Appeals in this case                      Thus if the claimant recovers a lower
+allowed Papai to seek seaman remedies in addition to                     award under the Jones Act than he rel omehens =
+his LHWCA benefits was the belief that no harm would                     LHWCA,™ but also recovers a pain and suffering award
+be done: since HTB would receive a “credit” on the Jones                 the claimant will end up receiving a higher recovery
+Act award for what HTB had paid in LHWCA benefits,                       (LHWCA wage loss benefits plus Jones Act pain and
+HTB would not have to pay twice, and Papai would not                     suffering ) than either statutory scheme separately allowed
+                                                                         Exacerbating matters from the employer’s point of view
+receive a double recovery. (67 F.3d at 207, Pet. App.                    is that under the LHWCA the employer must pay a suc-
+pp. 10a-11a.) However the credit that an employer re-                    cessful claimant's attorney fee (33 U.S.C. § 928), against
+ceives in a Jones Act case is not necessarily equal to                   which  le te of :
+                                                                         the oo is given in the Jones Act case, no matter
+what the employer has paid in LHWCA benefits. Nor is
+                                                                                (2) The Employer's Credit       In An LHWCA
+the credit that the employer receives in an LHWCA pro-                                Proceeding For Prior      Payment Of A
+ceeding equal to what he has paid in a Jones Act case.
+The use of credits is not a cure for allowing concurrent                              Jones Act Award.
+remedy schemes.
+                                                                            LHWCA § 903(e) specifies that a credit is to be i given
+ part to vigorously litigate its defense in the LHWCA action in          -= employer for payment of a prior Jones Act A oe
+ order to bar the claimant from a subsequent Jones Act action. 67
+ F.8d at 207, Pet. App. p. lla. This makes two false assumptions:             nm an LHWCA worker recovers tort damages from a
+ (1) that a Jones Act claim is always worth more than an LHWCA           negligent third party under § 905(b), the LHWCA gives
+ remedy (the latter is more certain since not dependent upon em-         a credit to the employer for the claimant's net recovery
+ ployer fault), and (2) that the employer controls the order of pro-
+ ceedings (the claimant can drop or stay his LHWCA claim and             ** This could occur for several reason 8, one of which is that th
+                                                                         — 8 recovery in a Jones Act case, but not under the LHWCA.
+ test the Jones Act waters in court first). The Court of Appeals         s reduced by his comparative fault.
+                                                                                                                                            )
+ also was concerned that imposing a ban would result in subjecting
+ to suit an employer who immediately and voluntarily begins com-
+ pensation payments while immunizing from suit an employer who
+ forces his employee to seek compensation through litigation. /d.
+ The Court of Appeals has identified the wrong solution. This can
+ be cured by giving preclusive effect to a § 8(i) settlement, since the
+ employer can then make LHWCA payments without being subject
+
+ to a Jones Act suit.
+                                   30                          ruling that Papai was not   31               be reinstated,
+                                                               on the ground that Papai                     from seeking
+       the third party, meaning the recovery less all attor-                              a seaman should
+ay fees and soa sd 33 U.S.C. § 933(f). The only                seaman status.             is now precluded
+authority on the subject is that although § 903(e) pro-
+                                                               II. A CLAIMANT’S STATUS AS A SEAMAN SHOULD
+vides for a credit of “all amounts paid,” the credit should         BE BASED UPON HIS CONNECTION TO THE
+                                                                   VESSEL TO WHICH HE IS ASSIGNED WHEN
+—as in § 933(f)—include only the net amount (after                 INJURED OR, IN CERTAIN CIRCUMSTANCES,
+                                                                   AN IDENTIFIABLE GROUP OF VESSELS BE-
+deduction of attorney fees) that the claimant has received.        LONGING TO HIS EMPLOYER.
+
+Bundens v. J.E. Brennerman Co., 46 F.3d 292, 304, fn.          A. To Be Considered A Seaman, The Claimant Must
+                                                                   Have A Connection To A Vessel Or Identifiable
+24 (3d Cir. 1995).                                                 Group Of Vessels That Is Substantial In Both Dura-
+                                                                   tion And Nature.
+   Therefore the employer must pay the full Jones Act
+                                                               In Chandris, Inc. v. Latsis,  US.            , 115 S.Ct.
+award but—assuming a 33% contingency fee to the claim-         2172, 132 L.Ed. 2d 314 (1995), the Supreme Court
+                                                               noted that since its decision in Swanson v. Marra Broth-
+ant’s attorney—receives a credit for only two-thirds of it.    ers, Inc., 328 U.S. 1, 66 S.Ct. 869, 90 L.Ed. 1045
+Another way that the litigation-weary employer may view        (1946), the law has been clear that remedies under
+                                                               either the Jones Act or the general maritime law are
+the situation is that he has had to pay four sets of at-       available only to seamen, not to land-based maritime
+                                                               workers. Chandris, 115 S.Ct. at 2185, 132 L.Ed. 2d at
+torney fees: the claimant's attorney fee for the Jones Act     331. In Chandris the Court described the somewhat er-
+case (because the employer paid it but did not get a           ratic course that the precedents have steered in trying
+credit for it), the claimant's attorney fee in the LHWCA       to differentiate seamen from land-based maritime workers.
+case (per 33 U.S.C. $928), and the employer's own              A particularly vexing issue has been what employment-
+attorney fees in both cases.                                   related connection to a vessel in navigation is necessary
+                                                               for a maritime worker to qualify as a seaman. One funda-
+          D. Having Received A Formal Award Of LHWCA Ben-      mental principle underlying this issue is that a claimant's
+                                                               status does not depend upon the place where the in-
+             efits, Papai Should Be Precluded From Further     jury occurs but upon the nature of the claimant’s work
+                                                               and his relationship to the vessel. /d., 115 S.Ct. at 2186.
+               Pursuing Seaman Remedies.                       132 L.Ed. 2d at 332. Thus seamen may recover under
+                                                               the Jones Act or the general maritime law whether they
+    The ALJ—after formal hearing—determined that Papai         are injured on or off the ship, and land-based workers in-
+ was an LHWCA worker and not a seaman and granted              jured on a vessel in navigation remain covered by the
+ him a formal award of benefits. The issue now 1s not          LHWCA, not by seaman remedies. Jd. “It is therefore
+ whether the ALJ was correct in that decision. The ALJ's       well settled after decades of judicial interpretation that
+                                                               the Jones Act inquiry is fundamentally status-based: land-
+ decision was not appealed, and therefore it is final. The     based maritime workers do not become seamen because
+
+ issue now is the effect of that final ALJ decision, namely
+ whether it precludes Papai from seeking seaman remedies
+ thereafter.
+
+     Papai should be precluded from seeking further sea-
+ man remedies. The mutual exclusivity of the two remedy
+
+ schemes resulting from the text of 33 U.S.C. § 905(a)
+
+ mandates this result. Also, this case meets all the require-
+ ments of administrative collateral estoppel since the ALJ
+ was acting in a judicial capacity and resolved a disputed
+ issue of fact (Papai’s status) properly before it that the
+ parties actually litigated. Therefore the Court of Appeals
+ decision below should be reversed, and the District Court's
+                                   32                                        33
+
+they happen to be working on board a vessel when they           Jackson Ave.—Gretna Ferry, Inc., 280 F.2d 523 (Sth
+are injured...” Id.                                             Cir. 1960). In that case Braniff was a full-time employee
+                                                                of a ferry company, in charge of the maintenance and
+   Thus the prerequisite for seaman remedies is seaman
+status, and seaman status in turn is dependent upon the         repair of a number of ferry boats. He boarded each of
+nature of the claimant’s work and his relationship to the
+vessel. In Chandris the Court set forth the required con-       the ferries every day. He would spend varying amounts
+nection to a vessel for the claimant to have seaman status:     of time on them while they were operating, depending
+                                                                upon their maintenance and repair needs. He was not,
+           . a seaman must have a connection to a vessel        however, assigned to any particular ferry. The Fifth Cir-
+       in navigation (or to an identifiable group of such       cuit Court of Appeals recognized that “[t]he usual thing,
+       vessels) that is substantial in terms of both its dura-
+       tion and its nature. The fundamental purpose of          of course, is for a person to have a Jones Act seaman
+       this substantial connection requirement is to give
+       full effect to the remedial scheme created by Con-       Status in relation to a particular vessel.” 280 F.2d at
+       gress and to separate the sea-based maritime em-
+       ployees who are entitled to Jones Act protection from    528. The court ruled that a claimant nevertheless could
+       those land-based workers who have only a transitory      be a seaman if—assuming all other seaman status re-
+       or sporadic connection with a vessel in navigation,      quirements were met—the claimant’s work was on several
+       and therefore whose employment does not regularly        specified vessels instead of just the one on which he was
+       expose them to the perils of the sea.                    injured. /d.
+
+ 115 S.Ct. at 2190, 132 L.Ed. 2d at 337.                           A line of cases developed thereafter in the Fifth Cir-
+
+    The Court of Appeals decision in this case calls into       cuit refining this exception, which became known as the
+question whether this standard applies to the vessel to
+which the claimant is currently assigned or to all vessels      “Fleet Seaman Doctrine.” In general, the Doctrine has
+on which the claimant has worked.
+                                                                been applied only where the courts have considered it in-
+          B. Normally Seaman Status Is Based Upon The           appropriate to exclude from seaman status a maritime
+             Claimant’s Relationship To The Vessel To Which     worker who regularly performs seaman’s work for a spe-
+               He Is Assigned When The Injury Occurs. However   cific employer on a number of different vessels, to none
+               Under Certain Circumstances The Fleet Seaman     of which the worker has a “permanent” or even “sub-
+               Doctrine Allows Consideration Of The Claimant’s  stantial” connection. Courts have considered it unfair
+             Relationship To An Identifiable Group Of Vessels   to exclude from seaman status a worker who in all re-
+              Belonging To The Claimant’s Employer.             spects would be considered a seaman except that his em-
+                                                                ployer frequently moves him from vessel to vessel.
+    Chandris requires (as had prior law) that to be a sea-
+ man a claimant must have a connection to a vessel in              The Doctrine has a limitation: the claimant must have
+ navigation that is substantial in duration and nature.
+ Normally, the court considers the claimant’s relationship      a permanent or substantial connection to a fleet of vessels
+ only to the specific vessel to which he is assigned when
+ injured. However, an exception has developed to this           under common ownership or control.
+ rule. The seminal case for this exception is Braniff v.
+                                                                   By fleet we mean an identifiable group of vessels act-
+                                                                   ing together or under one control. [Footnote omit-
+                                                                —  —-_—____
+
+                                                                   *? The line of cases is described in Morrison, “The Fifth Circuit's
+                                                                Identifiable Fleet Requirement For Seaman Status Under the Jones
+                                                                Act,” 31 Willamette L. Rev. 53 (1995): see also Robertson, “The
+                                                                Law of Seaman Status Clarified,” 23 J. Mar. L. & Com. 1, 16-22
+                                                                (1992).
+                                     34                                  35
+
+      ted.] We reject the notion that fleet of vessels in      peals extensively and cogently discussed the history, pur-
+      this context means any group of vessels an employee      ae requirements of naa Fleet Seaman Doctrine.
+      happens to work aboard. Unless fleet is given its        BECKY BETH while it was worki gona ange was a maritime worker injured aboard the dredge
+                                                               lake. Because Jones Act coverage requires that the claim-
+       ordinary meaning, the fundamental distinction be-       ant's work be connected to a vessel on navigable waters,
+
+      tween members of a crew and transitory maritime          Reeves could not be considered a seaman if his status was
+                                                               determined by reference only to his work on the BECKY
+      workers such as longshoremen is totally obliterated.     SMITH. In his employment before his work on that
+                                                               dredge, however, Reeves had a long history as a dredge
+Barrett v. Chevron. U.S.A. Inc., 781 F.2d 1067, 1074           welder with a different employer, during which he clearly
+(5th Cir. 1986) (en banc). Accord, Bach v. Trident S.S.        was a seaman. His work on the BECKY SMITH was a
+                                                               —         nage through his maritime union while
+Co., 920 F.2d 322, 324-326 (Sth Cir. 1991), vacated
+and remanded, 500 U.S. 949, 111 S.Ct. 2253, 114 L.Ed.          € was temporarily laid off by his prior emplo
+                                                               which he had the right to seek Vien ae east
+2d 706, reinstated on remand, 947 F.2d 1290 (5th               able again. Reeves contended that his overall employ-
+                                                               ment history qualified him for seaman status. relying upon
+Cir. 1991). In Bach the court stated: “Dozens (per-            the Fleet Seaman Doctrine. The District Court granted
+                                                               summary   AjpupdegamlesntafftihramtedR.e*eves  was  not                  the
+haps hundreds) of seaman status cases have come before         Court of                                                 4 seaman,  and
+
+us, but we have never made an exception to the core re-           The Court of Appeals in Reeves analyzed the Fleet
+quirement that the injured worker show attachment to a         Seaman Doctrine in detail, reciting its development in the
+vessel or identifiable fleet of vessels.” 920 F.2d at 326.     Fifth Circuit, and finding it to be consistent with Supreme
+In Campo v. Electro-Coal Transfer Corp. 970 F.2d 51,           Court authority. Doc T t h r e ine R a e s e f v o e l s lows o : pinion summarized the
+52 (Sth Cir. 1992), reinstating on different grounds
+Campo v. Electro-Coal Transfer Corp., 955 F.2d 10 (Sth         As we stated above, traditionally a seaman’s status
+Cir. 1990), the Court of Appeals affirmed the District         is tied to a particular vessel, resulting in an employee
+Court’s directed verdict that Campo, who was injured on        losing his seaman status if he is assigned to a non-
+a barge while unrolling its cargo cover, was not a seaman.     navigable vessel, even if within the employer's fleet
+He spent most of his time dockside operating an un-            The Fleet Seaman Doctrine in our view applies to
+loading machine, but spent about 40°% of his time aboard
+various vessels performing typical deckhand functions to       an employee, one who is predominantly assigned by
+facilitate cargo operations. He worked for short periods
+aboard a large number of vessels doing this work. In deny-     his employer to a navigable vessel. but who occa-
+ing Campo’s contention that his seaman status should be
+considered in regard to his work on the “fleet” of vessels on     ** Reeves had a “substantial connection” to the BECKY BETH
+which he worked, the Court of Appeals noted that Campo         unlike Papai’s relationship to the Tug in this case. The cases are
+did not establish common control of the three groups of        analogous, however, on the point whether a worker who—when
+vessels that he contended were a fleet, and that he            injured during a work assignment in which he is not a seaman—
+was randomly assigned to vessels without regard to own-        can nevertheless be granted seaman status beca use of priior work
+ership or control of the vessels. The court stated: “It is     assignments.
+well established that a large number of variously owned
+and controlled vessels does not constitute a fleet.” 970
+
+F.2d at 53.
+
+    In Reeves v. Mobile Dredging & Pumping Co., Inc., 26
+F.3d 1247 (3d Cir. 1994), the Third Circuit Court of Ap-
+                     36                                                                            37
+
+sionally is assigned by that same empll© ver to non-                   Cc, The Decision Of The Court Of Appeals Erroneous
+navigable vessels. It would also apply to one who                      mee             Claimant's Seaman Status To Be —_
+
+is assigned to a number of navigable. vessels and                      =    y His Work H istory On All Vessels Of All
+spends some time on shore, as in Braniifl. The doc-
+                                                                   The majority opinion below (Judge Poole dissenting)
+trine protects the employee from losing|his status as           allows a claimant's Status as a seaman to be deter-
+a seaman when on temporary non-naviigable assign-               mined by his work history on all vessels of all his employ-
+                                                                ers. The opinion states that the standard to be used in
+ments or when assignments to a numP*t of vessels                determining seaman status shall be:
+
+preclude attachment to one.
+
+26 F.3d at 1256. [Emphasis in original.]                               In short, ; all the ciirretcumstances surroundi ing the work
+                                                                       performed by plaintiff for defendant as z deckhand
+   The Reeves opinion was careful to poin t out that the               prior to (and after, if any) the accident, as well as
+                                                                       — —- for gr employers during the rele-
+“fleet” to be considered is that of the claimat nt’s employer          ee ee eee                       sidered in making the
+when the claimant is injured.
+                                                                67 F.3d at 206, Pet. App. p. 8a.
+      The key to the Fleet Seaman Doctrin @ is that the
+                                                                The opinBOiR on does not define or explain the criitiical t
+       seaman maintain the employment relat tionship with       relevant time.” The trier of fact presumably er -
+                                                                sider  the :“relevant  time”  t ©  be the claimant's:  enti;re
+     the same employer. The term “fleet” refers to the
+     fleet of vessels owned by the employer,’ "° the fleet      ing
+
+      of vessels on which the employee has worked.
+
+26 F.3d at 1256.                                                                                                                work-
+
+                  #  *   *  *
+
+We agree with the en banc opinion in Parrett, that a            ‘This radical departure from           nt is
+fleet is an identifiable group of vessels acting —_—            misreading of the following aire dum te
+or under one control . . . The case 1@W Unitormiy               dris: [W]e see no reason to limit the seaman status
+rejects the claim that “fleet” means a‘!Y group of              inquiry . .. exclusively to an examination of the overall
+                                                                course y a worker's service with a particular employer.
+vessels an employee happens to work iboard. At a                s. 67 F.3d at 206, Pet. App. p. 7a, quoting Chandris,
+                                                                IS S.Ct. at 2191, 132 L.Ed. 2d at 339. The Court of
+minimum, the ships must take their diTcton nary                 Appeals Opinion seized upon the words “particular em-
+
+one identifiable central authority to conttute @ Meet.
+
+26 F.3d at 1257-8.                                              — and read that sentence to remove the limitation
+                                                                that status is based upon the claimant's work for his em-
+   The Supreme Court has not directly tddressed the             ployer at the time of the injury. However, that portion
+                                                                of the C handris opinion was addressing the need in some
+Fleet Seaman Doctrine. In Chandris, howev« er, this Cou;rt      cases to judge the claimant's connection to a vessel or fleet
+                                                                of vessels not on the overall course of the claimant's work
+favorably cited the Fifth Circuit formulation off the Doctrine  history with his employer, but only on the claimant's
+(115 S.Ct. at 2189, 132 L.Ed. 2d at 336-7), 224 adopted         current assignment with that employer. For instance. the
+                                                                Supreme Court posited, someone who worked for years
+its standard formulation by requiring that * claimant's         in a company’s shoreside headquarters but who is then
+
+status be determined by his connection to a! vessel or an
+“identifiable group of such vessels.” (115 g-Ct. at 2190,
+
+132 L.Ed. 2d at 337.)
+
+                                                                reassigned to its ship in a classic seaman’s job and is
+                                   38                                                                      39
+                                                                        while painting life preservers for use on a sight-seeing
+promptly injured is a seaman. Conversely, someone who                   boat that was laid up on shore for the winter. The boat
+is transferred to a desk job in the company’s office and                operated during the summer months. Deshpadeberen a
+is injured in the hallway is not entitled to seaman
+status on the basi of prior service at sea. 115 S.Ct. at                  A : probable or expectant seaman
+2191, 132 L.Ed. 2d at 339-40.
+                                                                        but seamen in being.” 342 U.S. at 190-1. To the same
+   It was in that context that the Supreme Court stated
+that it sees “no reason to limit the seaman status inquiry              effect see Heise v. Fishing Co. of Alaska, 79 F.3d 903
+exclusively to an examination of the overall course of a                (9th Cir. 1996) (injured land-based maintenance and
+worker's service with a particular employer.” The key                   repair worker not a seaman even though he expected to
+words in this sentence are “overall course,” not “particular            sail witt he h vessel when it returned to sea).
+employer.” This sentence narrowed the seaman status
+inquiry to the claimant's current assignment with a specific                  D. Sn ene Weeiiy Shut Gramen Giatas Hust
+employer at the time of his injury. The Court of Appeals                      Based Upon
+opi turn neditho e sen ntence upside down and interpreted                     When injured.  Claimant’s Work Assignment
+it as an instruction to greatly expand the seaman status
+inquiry by allowing consideration of the claimant’s work                One of the few certain elements of the seaman status
+history with all his employers.”                                        test over the years has been that the claimant's status is
+                                                                        edaak dice a
+   The seaman status test in the Court of Appeals deci-                                      en  an
+sion below also departs from precedent in extendintghe                  assi
+scope of the status inquiry to work performed after the                       when injured. In narrow circumstances, the
+accident. Its formulation of the seaman status test allows              Fleet Seaman Doctrine extended the analysis to include a
+the trier of fact to consider all the work performed by the             permanent employee's work on all his employer's vessels,
+claimant before “and after, if any” the accident. (67 F.3d              when he was regularly assigned to work on those vessels, but
+at 206, Pet. App. p. 8a.) Future or potential future eim-               was not assigned to work on any particular one of them.
+ployment at sea, however, should not change a claimant's                The Court of Appeals opinion now puts into play the
+status at the time of his injury. This would allow post-                claimant's work history for all employers during the (un-
+injury seagoing employment retroactively to turn a land-                defined and uncircumscribed) “relevant time.” This ap-
+based worker into a seaman.                                             proach makes seaman status essentially discretionary for
+                                                                        the jury, and consequently unpredictable. Such an open-
+   In Desper v. Starved Rock Ferry Co., 342 US. 187,                    ended standard contradicts the proper rule illustrated by
+72 S.Ct. 216, 96 L.Ed 205 (1952), Desper was killed                     the Supreme Court's hypothetical examples in Chandris.
+                                                                        There the Court postulated a situation in which a claimant
+   *%*°The Fifth Circuit Courtof Appeals has recognized that seaman     had workfoer ydears in an emplo shoy resiederof' fics e and
+status (including the application of the Fleet Seaman Doctrine)         was then reassigned to a ship in a classic seaman’s job, and
+should be analyzed relative to the claimant’s current work assign-      Stated that such a person should not be denied seaman
+ment. Barrett v. Chevron, U.S.A., Inc., 781 F.2d 1067, 1075-6 (5th      status if injured shortly after the reassignment. The stand-
+Cir. 1986). (“If the plaintiff receives a new work assignment before
+his accident in which either his essentia! duties or his work location
+is permanently changed, he is entitled to have the assessment of
+the substantiality of his vessel-related work made on the basis of
+his activities in his new job.”)
+                                   40                                                                   41
+                                                                        Using the language of Desper, HTB submits that—by
+ard that the Court of Appeals espoused below would allow             precedent and logic—seaman status should be accorded
+a jury to decide that such a claimant was not a seaman.             to seamen in being, not to former or expectant seamen.
+Indeed, if the claimant had worked only in a classic sea-            As the court stated in Reeves v. Mobile Dredging &
+man’s job with the employer, that standard would allow              Pumping Co., Inc.: “Because the Jones Act protects
+a jury to find that he was not a seaman at the time of              only seamen, the claimant must be a seaman at the time
+injury because for several years previously he had worked           of the injury—the fact that he was once a seaman and
+shoreside for other employers. Similarly, the Court in              that he or his employer intends for him to become a
+Chandris postulated a situation in which a maritime                 seaman once again will not suffice to cloak with seaman
+worker is transferred to a desk job in the company’s office         status the employee who has stepped out of seaman status,
+and is injured in the hallway, stating that he should not           regarodf hlowenseasr or rem in to imetoreplace. . . .”
+be able to claim seaman status on the basis of prior service        26 F.3d at 1257, fn.13.
+at sea. The Court of Appeals standard would allow the
+jury to decide that such a worker was a seaman.                              E. The District Court Correctly Determined That
+                                                                                 Papai Did Not HaveA Sufficiently Substantial Con-
+   In Chandris the Court noted the interests of employers                       nection To The Tug To Be A Seaman.
+and maritime workers alike in being able to predict who
+will be covered by the Jones Act and the LHWCA “be-                    Papai was aboard the Tug for a one-day (8 hour)
+fore a particular work day begins.” 115 S.Ct. at 2187,              maintenance painting job. The Tug was tied to the dock
+132 L.Ed. 2d at 334. While an employer can be expected
+to know a worker's history with his company, the em-                throughout the day and unmanned by operational crew.
+ployer cannot be expected to know that worker's history
+in other jobs with other employers.“ Thus predictability            He commuted from home to the jobsite, and he went back
+of the worker’s status will be impossible.                          home from the jobsite. Under the rule of Chandris v.
+                                                                   Latsis, this was not a sufficient connection with the Tug
+   The Court of Appeals opinion certainly will generate            for Papai to be a seaman. Indeed, he was exactly the
+more litigation, since workers who otherwise are clearly           type of land-based maritime worker that the Chandris case
+not seamen based upon their work assignment when                   excluded from seaman status."’
+injured now will be able to seek a jury determination
+that prior or subsequent work assignments should control              The Fleet Seaman Doctrine does not apply to Papai.
+the status issue. Similarly, employers may challenge the
+status of workers who clearly are seamen when injured,             That Doctrine concerns a maritime worker who is reg-
+by invoking prior or subsequent shoreside work. Even               ularly employed on vessels of a single employer, but
+the best-intentioned jury will have difficulty determining         who has no substantial connection to any particular vessel
+the “relevant time” to consider. This Court should adopt           of that employer. Papai was not a regular employee of
+the Third Circuit and Fifth Circuit formulation of the             HTB; he worked for several employers. Papai’s jobs with
+Fleet Seaman Doctrine, which constitutes a bright line
+rule that saves the time of the courts and the resources           HTB were transitory one or two day jobs that Papai ob-
+of the parties.
+                                                                   tained through the IBU hiring hall from time to time.
+   * Many maritime workers, like Papai in this case, are sent out
+from union hiring halls.                                              * In the District Court Papai argued that he should be considered
+                                                                   a seaman because his job title was “deckhand.” The Supreme Court
+                                                                   rejected an identical argument in South Chicago Coal & Dock Co.
+                                                                   v. Bassett, 309 U.S. 251, 260, 60 S.Ct. 544, 84 L.Ed. 732 (1940).
+                                                                   There the Court stated that crewmember status depends upon the
+                                                                   claimant’s actual duties, not his job title as deckhand.
+                                   42                                                            43
+
+Each of his jobs for HTB was self-contained, not con-         of reasonable dispute—Papai was a land-based worker
+tinuous. His work for HTB was sporadic and happen-            at the time of his injury. The Court of Appeals decision
+stance. Under such circumstances, the Fleet Seaman Doc-
+trine does not apply to Papai for his injury on the Tug.      below should be reversed, and the District Court's ruling
+The Supreme Court ruled in Chandris that if a maritime
+worker receives a new work assignment in which his            that Papai was not a seaman should be reinstated.
+essential duties are changed, the substantiality of his
+vessel-related work should be made on the basis of his                                      CONCLUSION
+activities in his new position. 132 L.Ed. 2d at 340, 115
+§.Ci. at 2191-2. Each of Papai’s jobs were discrete work         HTB submits that this Court should rule that a formal
+assignments, as was his one-day maintenance painting          award of LHWCA benefits—whether from an ALJ decision
+job when he was injured. His connection to the Tug            or a § 8(i) settlement—should preclude the recipient from
+should be considered in view of that one-day work a*:ign-     thereafter obtaining seaman remedies. Suacrulh e not
+                                                             only comports with the text and purpose of the LHWCA,
+ment only.                                                    it is fair, clear, and easy to administer. It will prevent
+                                                              unnecessary, duplicative litigation of the status issue. Un-
+   Even if Papai’s overall work history with HTB is con-     der this rule, the Court of Appeals decision should be
+sidered, he did not have a sufficiently substantial connec-  reversed, and Papai should be precluded from further
+tion to HTB’s vessels for seaman status. From January        pursuing seaman remedies.
+1, 1989 until the accident on March 13, 1989, Papai
+had worked a total of 13 days for HTB on various vessels.       HTB also submits that this Court should confirm
+His work was day to day, and he lived, ate, and slept at     that status as a seaman should be based upon a claim-
+home. In the words of Chandris, be was one of “those         ant’s connection to the vessel to which he is assigned
+land-based workers who have a transitory or sporadic con-    when the injury occurs. The only exveption should
+nection with a vessel in navigation, and therefore whose     be when a claimant is a steady employee who reg-
+employment does not regularly expose them to the perils      ularly performs seaman’s work for a specific employer
+of the sea.” 132 L.Ed. 2d at 337, 115 S.Ct. at 2190.         on multiple vessels belonging to that employer. Then
+                                                             consideration should be given to the claimant's connectior
+   While seaman status is a mixed question of law and        to those several vessels. This rule would comporwtith
+fact, it may be determined by summary judgment in ap-        the accepted view of seaman status and present a clear
+propriate circumstances. In McDermott Int'l v. Wilander,     guidtoethp e to riersot f fact. Under either the proposed
+the Court stated: “If reasonable persons, applying the       general rule or the exception, the Court of Appeals de-
+proper legal standard, could differ as to whether the        cision should be reversed, and the District Court’s ruling
+employee was a ‘member of a crew,’ it is a question for      that Papai was not a seaman should be reinstated.
+the jury. . . . Nonetheless, summary judgment or a di-
+rected verdict is mandated where the facts and the law          Definition of seaman status has been a judicial nemesis;
+will reasonably support only one conclusion.” 498 U.S.
+at 356.                                                      the frequent litigation and confusing results in status cases
+                                                             bear witness. The Supreme Court decisions in McDermott,
+   The District Court correctly granted summary judg-        Gizoni, and Chandris have helped to clear the fog. This
+ment on the seaman status issue. The facts do not admit
+                                                             case presents the opportunity to place clear channel mark-
+                                                             ers on two more criteria for seaman status.
+                    44
+                   Respectfully submitted,
+
+                   ERIC DANOFF                         >eio-<ere n:
+                   Counsel of Record
+                                                       iagenTPeaheehe)
+                      GRAHAM & JAMES LLP
+                      One Maritime Plaza, Suite 300
+                      San Francisco, California 94111
+                      (415) 954-0200
+
+                   RICHARD K. WILLARD           N.W.
+                   PETER LICHTENBAUM
+November 12, 1996
+                      STEPTOE & JOHNSON LLP
+                      1330 Connecticut Avenue,
+                      Washington, D.C. 20036
+                       (202) 429-6202
+
+                   Attorneys for Petitioner
+

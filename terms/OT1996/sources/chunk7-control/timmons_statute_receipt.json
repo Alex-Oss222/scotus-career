@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://www.revisor.mn.gov/statutes/1994/cite/204B.04/pdf",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.revisor.mn.gov/statutes/1994/cite/204B.06/pdf",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.revisor.mn.gov/statutes/1996/cite/204B.04/pdf",
+    "error": "<urlopen error [SSL: BAD_SIGNATURE] bad signature (_ssl.c:1081)>"
+  }
+]

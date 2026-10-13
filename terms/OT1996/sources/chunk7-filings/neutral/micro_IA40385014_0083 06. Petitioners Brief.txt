@@ -1,0 +1,2692 @@
+Supreme  Court of the United States
+
+            October Term, 1996
+                            +
+
+         STEINEY J. RICHARDS,
+
+                                                      Petitioner,
+                            v.
+
+          THE STATE OF WISCONSIN,
+
+                                                  Respondent.
+
+                                            °
+
+         On Writ Of Certiorari To The
+Supreme Court Of The State Of Wisconsin
+
+                               .
+
+               PETITIONER’S BRIEF
+
+                                        e
+
+                       Davip R. Karpe*
+                       P.O. Box 260218
+                       Madison, WI 53726
+                       (608) 255-2773
+
+                          *Counsel of Record
+
+                         JouHN Westey HA tt, Jr.
+                         523 West Third Street
+                         Little Rock, AR 72201
+                         (501) 371-9131
+
+                         Henry R. ScHuLtz
+                         First Assistant Public Defender
+                       125 South Jefferson Street
+                       Green Bay, WI 54301
+                         (414) 448-5433
+
+                Attorneys for Petitioner
+
+=r NeEeewere       Yeeory <a
+
+  Nee “xy ae be =
+
+       a
+-_
+
+         QUESTIONS PRESENTED FOR REVIEW
+
+     I. Does the Fourth Amendment, as interpreted by
+
+Wilson v. Arkansas, 115 S.Ct. 1914 (1995), permit a court to
+
+uphold police noncompliance with the rule of announce-
+ment without looking to the particular circumstances of
+the entry if the police have a warrant to search for drugs?
+
+     II. Does the Fourth Amendment, as interpreted by
+
+Wilson v. Arkansas, 115 S.Ct. 1914 (1995), permit a blanket
+
+exception to “knock-and-announce” if drugs are the
+object of a search warrant?
+
+                                          ii
+
+                          LIST OF PARTIES
+     All parties appear in the caption of the case on the
+cover page.
+
+    TABLE OF CONTENTS
+                                                     Page
+
+Questions Presented for Review ................... i
+
+PS  h EASE be eebeecdeccccesceccescceccess ii
+
+cnc ccccdsescececcoecscccecccecces iii
+
+Table of Authorities ...........66.. c.c.ec.e e.ee.ees v
+
+Citations of Opinions Below ..................6005. 1
+
+Basis for Jurisdiction ......... 2.6.2.6... 666. c eee ens 1
+
+Constitutional Provisions Involved ................. 1
+
+ER  Ub aes cbebevccdvccciccecccccccccce 2
+
+Statement of the Case .... 2.0... 66. c ccc eee eees 3
+
+Summary of the Argument ..................600055 14
+
+PITTI ooo sca vccccsccctecceccccccccccccccceccces 15
+
+I. “It is axiomatic that ‘physical entry into the
+    home is the chief evil against which the wording
+    of the Fourth Amendment is directed.’” Accord-
+    ingly, higher standards must apply............ 15
+
+A. There is a higher standard of privacy in the
+     cuewesSencconesetebseeseweceececccce 15
+
+B. A drug raid is a significant constitutional
+     GWG occ cccccssccccccscccccccscccccccccce 18
+
+C. The Wisconsin view is premised on a de
+     minimis, and, therefore, erroneous, view of
+     privacy interests in the home after a war-
+     rant issues. Even a drug raid suspect retains
+     rights during a search .................... 20
+
+iv
+
+TABLE OF CONTENTS - Continued
+                                                           Page
+
+Il. The knock-and-announce rule and the values it
+     SRGSUGOTRES oo ccc ccccccccccecccccceccesesocces 22
+
+A. The knock-and-announce rule in the
+     GUSTER GUE. occ vcccccscccccesccevvescs 22
+
+B. Wisconsin’s blanket rule .................. 25
+
+C. The Wisconsin court’s reasoning is based on
+      false assumptions of fact.................. 25
+
+Ill. Deference to “special needs” or “operational
+      necessities” in this area of law is bootstrapping.
+
+      The entire premise of judicial review of search
+      and seizure questions requires trial and appel-
+      late analysis of reasonableness................ 35
+
+A. Neither “special needs” nor “operational
+     necessities” support the blanket rule...... 35
+
+B. Deference to the police is a dangerous prop-
+
+     osition when knock-and-announce is at
+     SIDED 0 hicwe cdesedben ccdsvocebecedscbbcvtceee 38
+
+C. Deference to the police and “blanket rules”
+     are contrary to established law ........... 38
+
+D. The Wisconsin rule subverts judicial review
+      GS GURSSTIOUEEBR sos ic ceccccccccttisescces 44
+
+E. The standard should be reasonable suspi-
+     cion under Buie and “totality of the circum-
+     stances” om review. .............0eeeeeeees 44
+
+ee ee  et ee 45
+
+AGODA, 0 occ ccctepecscvcivevesvedessdedbévecece Al
+
+                         v
+
+TABLE OF AUTHORITIES
+
+Cases:
+Allen v. Martin, 10 Wend. 300 (N.Y.Sup.Ct.1833) ..... 23
+
+Alward v. State, 112 Nev. 141, 912 P.2d 243 (1996) .... 16
+
+Arizona v. Hicks, 480 U.S. 421 (1978) ......... 22, 36, 40
+
+£ ee Bf  ye FE,| RTT TTT eee 38
+
+Chimel v. California, 395 U.S. 752 (1969) ............. 22
+
+Dalia v. United States, 441 U.S. 238 (1979) ........... 40
+
+Daniels v. Williams, 474 U.S. 327 (1986).............. 32
+
+Franks v. Delaware, 438 U.S. 154 (1978) ........... 32, 40
+
+Griffin v. Wisconsin, 483 U.S. 868 (1987) .......... 36, 37
+
+Illinois v. Gates, 462 U.S. 213 (1983) .............. 39, 44
+
+Jenkins v. Wood, 81 F.3d 988 (10th Cir. 1996)..18, 26, 32
+
+Ker v. California, 374 U.S. 23 (1963)....... 19, 20, 23, 33
+
+Launock v. Brown, 2 B. & Ald. 592, 106 Eng. Rep.
+   Ge Ce Sede oid a dnc ndddccepeccscddccecusccesss 34
+
+Mahomed v. The Queen, 4 Moore 239, 13 Eng. Rep.
+   Be SD Feds ds dd 0b dose ventondcvcestececceces 23
+
+Malley v. Briggs, 475 U.S. 335 (1986)...............5. 39
+
+Mapp v. Ohio, 367 U.S. 643 (1961) ............---.45. 33
+
+Maryland v. Buie, 494 U.S. 325 (1990)
+  shone dsenedanesenannesensesesenes 17, 20, 21, 22, 41, 44
+
+Michigan v. Summers, 452 U.S. 692 (1981)..... 17, 41, 42
+
+Miller v. United States, 357 U.S. 301 (1957)....... passim
+
+vi
+
+TABLE OF AUTHORITIES - Continued
+                                                             Page
+
+New Jersey v. T.L.O., 469 U.S. 325 (1985)............. 35
+
+New York v. Harris, 495 U.S. 14 (1990)............... 17
+
+Ornelas v. United States, 116 S.Ct. 1657 (1996)........ 44
+
+Payton v. New York, 445 U.S. 573 (1980) .......... 17, 21
+
+Pennsylvania v. Mimms, 434 U.S. 106 (1977).......... 41
+
+People v. Brown, 1996 WL 743502 (N.Y.App.Div.,
+   BOD, FE, TG < obec cesecnerssnccscceyisvckdbuwessne 26
+
+People v. Gastelo, 67 Cal. 2d 586, 63 Cal. Rptr. 10,
+   Ge. See Ce Ge navantncnccetascanvecdneacenés 42
+
+People v. Krueger, 1996 WL 732035, 65 U.S.L.W.
+   ED Gi Glee. BR BGs < cccccncccccccccccssaccocs 43
+
+People v. Maddox, 46 Cal. 2d 301, 294 P.2d 6 (1956) .... 23
+
+Polk County v. Dodson, 454 U.S. 312 (1981)........... 32
+
+Read v. Case, 4 Conn. 166 (1822) ............2.00000 22
+
+       ‘s Case, 5 Co. Rep. 91a, 77 Eng. Rep. 194
+Ge BEG cence scecosectckdnscedhnsdptendcscenens 22
+
+Silverman v. United States, 365 U.S. 505 (1961) ....... 17
+
+Skinner v. Railway Labor Executive's Association, 489
+   U.S. 602 (1989) .......... peecenccadvecedoss ceccens 36
+
+Sledd v. Lindsay, 102 F.3d 282 (7th Cir. 1996)......... 26
+
+Soldal v. Cook County, 506 U.S. 56 (1992) ............ 16
+
+State v. Cleveland, 118 Wis. 2d 615, 348 N.W.2d 512
+
+| PPPPTTTITIT TTT  Tee 43
+
+    vii
+
+    TABLE OF AUTHORITIES - Continued
+                                                                 Page
+
+State v. Coleman, 199 Wis. 2d 174, 544 N.W.2d 912,
+   (Ct. App. 1996), aff'd, 206 Wis. 2d 198, 556
+   SE Pe Wa adasbnobd eseediedneects ccsb cces 28
+
+State v. Hall, 1997 WL 24508 (Wis. Jan. 8, 1997) ...... 9
+
+State v. Richards, 201 Wis. 2d 839, 549 N.W.2d 218
+   SU 6 Edd Goad ck eu scbtrccceb codes ¥edceteteuss passim
+
+State v. Seyferth, 134 Wis. 2d 354, 397 N.W.2d 666
+   S| PPPPPTTTTTTTTTT TTTITT T T TTTIeee 4
+
+State v. Stevens, 181 Wis. 2d 410, 511 N.W.2d 591
+   (1994), cert. denied, 115 S.Ct. 2245 (1995) ...... passim
+
+Stoner v. California, 376 U.S. 483 (1964).............. 16
+
+Tennessee v. Garner, 471 U.S. 1 (1985)................ 29
+
+Terry v. Ohio, 392 U.S. 1 (1968)...........0000000 40, 41
+
+United States v. Becker, 24 F.3d 1537 (9th Cir.1994).... 19
+
+United States v. Brignoni-Ponce, 422 U.S. 873 (1975) .... 36
+
+  United States v. Cortez, 449 U.S. 411 (1981) .......... 36
+
+"United States v. Gooch, 6 F.3d 673 (9th Cir.1994)...... 16
+
+United States v. James Daniel Good Real Property, 510
+
+Se  NEED bb Shales cad cbddsvesbidbobcoesescccs< 16
+
+United States v. Jeffers, 342 U.S. 48 (1951)............ 16
+
+United States v. Johnson, 333 U.S. 10 (1948) ....... 16, 39
+
+United States v. Leon, 468 U.S. 897 (1984)......... 38, 39
+
+                                     viii
+
+           TABLE OF AUTHORITIES - Continued
+                                                                         Page
+
+United States v. Lockett, 919 F.2d 585 (9th Cir.1990) .... 19
+United States v. Martinez-Fuerte, 428 U.S. 543 (1976) .... 15
+United States v. Place, 462 U.S. 696 (1983)............ 36
+United States v. Singer, 943 F.2d 758 (7th Cir. 1991) ..... 6
+United States v. Sokolow, 490 U.S. 1 (1989)........... 42
+Vernonia School Dist. 47] v. Acton, 115 S.Ct. 2385
+
+   SPU 6 Cop cadncdds cdbs000 csvdbhascbdvetedestéeceses 36
+Welsh v. Wisconsin, 466 U.S. 740 (1984).............. 17
+Wilson v. Arkansas, 115 S.Ct. 1914 (1995)......... passim
+Ybarra v. Illinois, 444 U.S. 85 (1979) ..0. ....ccc.ceues 42
+
+CONSTITUTIONAL PROVISIONS:
+
+U.S. Const. Amend. IV .........6666cceeeeeeeees passim
+
+Sn. nn, Tr. owns ene snd bacadenesennn 2
+
+STATUTES AND RULES:
+
+sii                  5, cd idseein dated nidcnd ones 24
+
+NG a icciseitstinishdiiinetsriieds 1
+
+i                    a 32
+
+iiss                 sini cscncnntbnitebstaed 4
+
+OA, i                is is iividensdencdes .
+
+Wis. Stats. § 139.95(2).........ccecccceceseceveeees 8, 11
+
+Wis. Stats. § 161.41(1m)(cm)4 .........-...00.0000. 8, 11
+
+SF Ia bid soscdsxcotuenbedesravees 2
+
+                        ix
+
+TABLE OF AUTHORITIES - Continued
+                                                             Page
+
+Way      BF UUM wvcccdcobedcccccveccccsccuscéits 2, 6
+Sy EY    OE EE vob doccisccecocceccdcccscceveneess 2
+Pees Dy  OP HNO ccc nccvccctoccccccccscccccesesenss 2
+Cee Ss   WP DU Webs edecvccedcorsboedcncécveocces 2
+Pee ES   WF PEED cSccecdcccccveredidsscoccnccces 9
+
+Treatises, Books, PERIODICALS, AND OTHER SCURCES:
+
+Adams, R.J. & McTernan, T.M., Street Survival:
+
+   Tactics for Armed Encounters 35 (1980)............. 25
+
+Allegro, Donald B., Note, Police Tactics, Drug Traf-
+  ficking, and Gang Violence: Why the No-Knock
+   Warrant Is An Idea Whose Time Has Come, 64
+
+   Notre Dame L.Rev. 552 (1989) ................. 18, 25
+
+“Boston Settles Death Suit,” National Law Journal
+
+(May 6, 1996)A8B......  0... cece cece cence eeeeeeeeee 32
+
+“Boston to Give Victim’s Widow $1 Million in
+  Wrongful Death Suit,” New York Times
+  Abstracts (April 25, 1996) 1996 WL 7503359....... 32
+
+Bovard, James, Lost Rights (1994)............0000005. 29
+
+Bovard, James, “Oops, You’re Dead: The Body
+  Count from No-Knock Drug Raids is Climbing,
+  Are You Next?” Playboy 50-51 (Dec. 1994)........ 29
+
+Butterfield, Fox, “Study Discounts the Role of
+  Drug Users in Gun-Related Crime,” The New
+  York Times (Oct. 8, 1995)A1 ........0cccceeeceeees 12
+
+Cuddihy, William J., The Fourth Amendment: Ori-
+
+   = and Original Meaning, 602-1791 (1990)
+
+    unpublished PhD dissertation, Claremont
+   SD TIE 6 viebore cb obec cecccdeddoscsiebedce 19
+
+                                                                                                                                      al
+
+                                           x
+
+    TABLE OF AUTHORITIES - Continued
+
+CBS News, 60 Minutes, Vol. XXV, No. 27 at 6-7
+
+   SO lb ME oa G haa ddh ondcuubins Wawesesdeses
+
+Hallinan, Joe, “Drug Wars: Fervor Often Injures
+the Innocent,” New Orleans (LA) Times-Picay-
+ff     § 35         jj|. Speer naintiee
+
+2 LaFave, Wayne R., Search and Seizure § 4.8(d)
+
+   Se Gt PE eine écudedcusbabeoeelk:
+
+Malcolm, Andrew H., “Violent Drug Raids
+   Against the Innocent Found Widespread,” The
+
+   New York Times (June 25, 1973)...............
+
+“Man Innocent of Police Murder During Drug
+
+   Raid,” United Press International (Aug. 17,
+   SEUEads 0h dnvs 0s60dangdscahmaeeealbsawdadsaasns
+
+Mitchell, Chip, “They Shot Daddy,” Isthmus
+
+   (Madison, WI) 1, 8-9 (June 30, 1995)....... 28,
+
+Ribadeneira, Diego “Flynn Forms Panel to Study
+Police Drug Unit’s Methods,” Boston Globe
+CR: BR, Te Dredd's
+                    c cokecnd Kabiaedle)n. os
+
+Serugss, Kathy “Official: Police Bullet Killed Boy,”
+   Atlan ta Constitution (Nov. 14, 1991)Al1.........
+
+116 Cong. Rec. 1159-62, 1163-77, 33639-666 (Jan.
+
+  RA, GHD Ts GIP sv aeadc ca chctectoieeticysc::
+120 Cong.Rec. 22882-906 (July 11, 1974)..........
+
+Story, J., Commentaries on the Constitution of the
+   United States, (2d ed.1851) .....c.cc.cc.uc.ccce
+
+US. a  of Justice, Uniform Crime Reports:
+
+Law Enforcement Officers Killed and Assaulted
+(UI on vcedencaccesces ee
+
+              CITATIONS OF OPINION BELOW
+
+     The March 3, 1994 opinion of the Wisconsin Court of
+
+Appeals in the direct appeal is unreported. (J.A. 73-75) It
+is listed in the table at 183 Wis. 2d 429, 516 N.W.2d 19
+
+(1994).
+
+      The petition for review was granted by the Wisconsin
+
+Supreme Court, the state’s highest court, and its opinion
+
+affirming the judgment was rendered June 12, 1996. State
+
+v. Richards, 201 Wis. 2d 839, 549 N.W.2d 218 (1996). (J.A.
+76-109)
+
+                                                   S
+
+                   BASIS FOR JURISDICTION
+
+      The jurisdiction of this court lies under 28 U.S.C.
+§ 1257(a). The judgment of the Wisconsin Supreme Court
+was entered June 12, 1996. The petition was filed Septem-
+ber 10, 1996, and it was granted January 3, 1997.
+
+                                              S
+
+     CONSTITUTIONAL PROVISIONS INVOLVED
+
+      The Fourth Amendment to the United States Consti-
+tution reads as follows:
+
+           The right of the people to be secure in their
+      persons, houses, papers, and effects, against
+     unreasonable searches and seizures, shall not be
+     violated, and no Warrants shall issue, but upon
+     probable cause, supported by Oath or affirma-
+      tion, and particularly describing the place to be
+      searched, and the persons or things to be seized.
+
+       The Fourteenth Amendment to the U.S. Constitution
+
+provides in § 1 that:
+       . . . [NJor shall any state deprive any person of
+
+       life, liberty, or property, without due process of
+       law,....
+
+                                                   o
+
+                 STATUTES INVOLVED
+    Wis. Stats. § 968.14 (1989-90):
+
+       Use of force
+
+            All necessary force may be used to execute a
+      search warrant or to effect any entry into any
+      building or property or part thereof to execute a
+      search warrant.
+
+      Other statutes on Wisconsin search warrants
+
+involved appear in Appendix A. They are:
+
+             (a) Searches and seizures, when autho-
+      rized; Wis. Stats. § 968.10 (1989-90);
+
+             (b) Search warrant provisions; Wis. Stats.
+      § 968.12 (1989-90);
+
+           (c) Property subject to seizure under
+
+      search warrants; Wis. Stats. § 968.13 (1989-90);
+
+      and
+
+            (d) Effect of technical irregularities; Wis.
+      Stats. § 968.22 (1989-90).
+
+                                                  S
+
+                                         3
+
+                        STATEMENT OF THE CASE
+         A. Introduction
+
+       The case involves Wisconsin’s drug case blanket
+
+ exception to the Fourth Amendment’s knock-and-
+ announce requirement of Wilson v. Arkansas, 115 S.Ct.
+ 1914 (1995).
+
+       Prior to Wilson, the Wisconsin Supreme Court held in
+
+ State v. Stevens, 181 Wis. 2d 410, 511 N.W.2d 591 (1994),
+
+ cert. denied, 115 S.Ct. 2245 (1995),) that the nature of the
+
+ “drug culture” permitted Wisconsin police to dispense
+ with the knock-and-announce requirement in drug cases.
+
+ Id. at 425, 511 N.W.2d at 596. The Wisconsin court stated,
+ in summary, id. at 424-25, 511 N.W.2d at 595:
+
+            We hold that when the police have a search
+      warrant, supported by probable cause, to search
+      a residence for evidence of delivery of drugs or
+      evidence of possession with intent to deliver
+      drugs (evidence of drug dealing), they neces-
+      sarily have reasonable cause to believe exigent
+
+       circumstances exist. Thus, in all such searches
+
+      the police are justified in dispensing with the
+      rule of announcement and making a no-knock
+      entry. (footnote omitted)
+     Richards’ appeal arrived first at the Wisconsin Court
+of Appeals where his conviction was affirmed based on
+Stevens. (J.A. 73-75) This decision is unreported and
+appears in the table at 183 Wis. 2d 429, 516 N.W.2d 19
+(1994).
+
+      ' Stevens was pending before this Court for several months,
+and the Court denied certiorari eight days after Wilson was
+decided.
+
+      Petitioner requested review in the Wisconsin
+ Supreme Court to determine whether Wilson affected its
+ ruling in Stevens. The Wisconsin Supreme Court granted
+ review and affirmed June 12, 1996, finding that the
+ knock-and-announce exception for evidence of drug deal-
+
+ ing was constitutional under Wilson. State v. Richards, 201
+
+ Wis. 2d 839, 549 N.W.2d 218 (1996). (J.A. 76-109)
+
+        B. Facts
+
+      This case arises from a drug raid on Room 138 of the
+
+ Ramada Inn in Madison, Wisconsin at 3:40 a.m.,2 Decem-
+
+ber 31, 1991. The officers did not knock-and-announce in
+making their entry.
+
+      According to the warrant application (J.A. 2-8), dur-
+
+ing the week of December 22, 1991, Officer Richard Pharo
+
+of the Dane County, Wisconsin Metro Narcotics Unit,3
+
+learned from a citizen informant that at least four black
+male drug dealers from Detroit were staying at Motel 6
+
+on Thierer Road in Madison. (Id. 4). The informant
+
+described one as being in his twenties, approximately 5'9"
+
+and well over 200 pounds. (Id. 5) Officer Bill Murphy and
+
+the management at Motel 6 confirmed that four black
+males were staying in at least two different rooms at
+Motel 6. These men frequently refused maid service, paid
+
+cash for their rooms, and made and received numerous
+
+     2 Wisconsin law permits a search warrant to be served at
+any time of day or night without specific authorization required
+
+for nig N h . t W t . i 2 m d e s 6 e 6 r 6 vic ( e. Ct. S A e p e p. S 1 t 9 at 8 e 6) v . . Se S y e f e ert F h e , d. 1 R 3 . 4 Cr W i i m s . . P. 2d 4 3 1 5 ( 4 c , )(1 3 ) 9 . 7
+
+     ° The drug unit actually has a longer name, but this is what
+Pharo called it in the affidavit for the search warrant. (J.A. 3)
+
+                                         5
+
+  phone calls. (Id.) In Pharo’s experience, these activities
+
+ were consistent with drug dealing. (Id.)
+      On December 28, 1991, Officer Murphy learned the
+
+ four men had checked out of their rooms at Motel 6. (Id.
+ 6) He removed from one of their abandoned rooms a box
+ of clear sandwich baggies. (Id.)
+
+       Detective Pharo learned that Steiney Richards was
+
+ the name of one of the men registered at Motel 6. (Id.)
+
+ Richards’ address was listed by the motel as 11415 Sor-
+
+ rello, Detroit, Michigan. (Id.) Murphy contacted the
+ Detroit Police Department and learned that a 5'9" 280
+
+ pound black male named Steiney Richards living at 11415
+
+Sorrento had been arrested in January 1991 in possession
+
+of 63 packets of cocaine. (Id.)
+
+       Detective Pharo went to the Ramada Inn and learned
+
+that Richards had checked into Room 138 in the early
+morning hours of December 28, 1991, paying cash in
+
+advance for the rent through January 4, 1992. (Id. 7)
+
+Richards gave an address this time of Laro 11415, Detroit.
+The management informed Detective Pharo that Richards
+
+had made at least 51 outgoing calls from the room. (/d.)
+
+     Pharo prepared an affidavit and search warrant for
+Richards’ hotel room based on all this as his probable
+cause. Pharo went to a judge to get his warrant signed.
+The judge specifically determined that the circumstances
+
+presented in the affidavit did not justify a “no-knock”
+
+warrant, so he struck the paragraph of the affidavit
+
+ requesting it and the clause of the warrant which would
+
+ have authorized it.* (Id. 7, 9, 42)
+
+      Pharo gathered other officers and went to Room 138
+
+ of the Ramada Inn. Pharo was dressed in a Ramada Inn
+
+ maintenance man’s shirt in a ruse to get in the room
+
+ without use of force. (Id. 27, 40) With him was an officer
+ in “full military uniform” (id. 38), two or three in uniform
+ (id. 39), and two plainclothes officers. (Id.) Some others
+were to hide in the room across the hall. (Id.)
+
+      The raid party came to the door and knocked. (Id. 38)
+Standing three or four feet to Pharo’s right was the officer
+in “full military uniform” and to his left the uniformed
+
+officers. (Id. 39) The peephole was covered. (Id. 46)
+
+      Richards asked “Who is it?”, and Pharo said “Mainte-
+
+nance man.” Apparently not understanding, Richards
+asked, “Who?”, and Pharo said again “Maintenance
+
+man.” (Id. 42, 46) Richards unlocked and opened the still-
+
+chained door about an inch or an inch and one-half and
+peeked out. (Id. 43) His field of vision permitted him to
+see Pharo and the officer in the military -uniform. (Id.
+38-39) When Richards felt the door being pushed in, he
+
+shut and locked it. (Id.)
+
+     Pharo testified that Richards had a look of surprise,
+
+which indicated to Pharo that Richards must have seen
+
+     * Wis. Stats. § 968.12 (1989-90) neither specifically
+authorizes nor prohibits no-knock warrants. No-knock warrants
+issued by Wisconsin state judges are valid. United States v.
+
+Singer, 943 F.2d 758, 759 n. 1 (7th Cir. 1991).
+
+     5 Who would not be “surprised” to encounter unexpected
+visitors in janitor and combat garb at the door at 3:40 a.m.?
+
+                                         7
+
+ the officer in the military uniform. (Id. 38, 40) Pharo said
+
+ as he reached for the doorknob, Richards shut the door
+
+ and locked it.® (Id. 39, 41) After a wait of about “two or
+
+ three seconds,” officers announced “police officers” and
+ began to kick the door down, but it did not give way
+
+ easily.” (Id. 39-41) Finally, the door gave way when an
+
+ officer rammed it with his shoulder (Id. 39). As the door
+
+ was opening, Pharo heard glass breaking. (Id.)
+
+      Pharo testified that during the break-in, officers said
+ they were police officers maybe twice. (Id. 39-40)® Rich-
+ards testified that he heard no one say anything about
+being a police officer until he was outside the window
+and an officer yelled “Police, freeze!” which he did. (Id. at
+
+47)
+
+      * Merely shutting the door does not prove that Richards
+
+knew what the people outside his door wanted. See Miller v.
+United States, 357 U.S. 301, 310 (1958):
+
+       But, first, the fact that petitioner attempted to close
+       the door did not of itself prove that he knew their
+       purpose to arrest him. It was an ambiguous act. It
+
+      could have been merely the expected reaction of any
+      citizen having this experience at that hour of the
+
+       morning, particularly since it does not appear that the
+
+      officers were in uniform. . . . and the answer “Police”
+      was spoken “in a low voice” and might not have been
+      heard by the petitioner so far as the officers could tell.
+     ” Anyone who has stayed in a hotel or motel in the last
+
+thirty years knows that they have heavy wooden fire resistant
+
+doors in metal frames. They will not easily give way.
+     * At the supplheeam rine g onn t Octa obel r 12, 1992, Pharo
+
+added that an officer said “Police; search warrant,”
+
+simul witt h tha e ban ng e of to he du oor s crasl hingyopen. (J.A.
+64-66).
+
+     During the search of Room 138, officers found hidden
+over the bathroom ceiling tile two plastic bags. One con-
+tained $3,000 in cash, and the other contained cocaine
+base, including about 120 small packets of rock cocaine.
+(Id. 20-21) Nothing was in plain view.
+
+     C. The Proceedings in the Trial Court
+
+     On February 4, 1992, petitioner was charged with
+drug offenses: one count of possession of cocaine with
+
+intent to deliver in violation of Wis. Stats.
+§ 161.41(1m)(cm)4 and one count of possession of cocaine
+
+without a tax stamp in violation of Wis. Stats. §§ 139.88 &
+139.95(2). (Id. 33)
+
+     Petitioner moved to suppress the search on the
+ground that the officers failed to knock-and-announce.
+(Id. 35-36) On September 9, 1992, the trial court held a
+suppression hearing, after which the court denied the
+motion, finding that the officers had cause to suspend
+
+anno(u Id. n 55) c The e triam l coe urt n fount d t. hat the
+
+issue turned on the circumstances confronted by the offi-
+cers at the time of execution of the warrant, and what the
+officers could reasonably believe under the circum-
+stances. (Id. 54) Further, the trial judge found that the fact
+that Richards had “bailed out the window” would “lead
+someone of a suspicious nature to beleive [sic] that
+maybe he did not want Detective Pharo, the maintenance
+man, to come in because he was aware that accompany-
+ing Detective Pharo, even if he was the maintenance man,
+
+was a uniformed officer.” (Id.) The trial court found that
+
+the officers properly identified themselves upon the fail-
+ure of the ruse to gain peaceable entry, “albtehait tthe
+
+                                         9
+
+ identification and the forced entry were close to each
+ other.” (Id. 55) Since this was a warrant to search for
+
+ drugs, easily flushed down the toilet, the trial court
+ found that the officers conducting the search were justi-
+ fied in not waiting longer following the identification of
+ themselves as police officers before knocking in the door.
+ (Id.) The police announced their identity before crossing
+ the threshold. (Id.) There was at least some opportunity
+ for Richards to open the door, but he “was too busy being
+
+ in the corner and then out the window.” (Id.). In conclu-
+
+ sion, the court declared the officers’ conduct reasonable
+ and the search legal. (Id. 55-56)
+
+      The prosecutor filed a motion to supplement the
+record on October 5, 1992, on the ground the record was
+incomplete because the officers allegedly did announce
+that they had a search warrant. (Id. 57) On October 12,
+
+ 1992, the court adduced further testimony from Detective
+Pharo, who testified that somebody said “search war-
+
+rant.” (Id. 64) On cross-examination, he admitted the
+
+announcement was simultaneous with the breaking. (Id.
+66) The trial court stated that the additional testimony
+
+did not change the ultimate conclusion. (Id. 69)
+
+     Immediately thereafter, petitioner then pled no con-
+test in a negotiated and conditional guilty plea® to thir-
+teen years imprits hiro teen n ym eare s onn t the;drug
+charge and three years concurrent on the tax stamp!
+charg(Ide..71)
+
+     * Conditional pleas are permitted in Wisconsin. Wis. Stats.
+
+§ 971.31(10).
+     © The Wisconsin Supreme Court ruled last month that the
+
+tax stamp statute is unconstitutional on self-incrimination
+groiu n Sn tatd e vs .Hall, 1997 WL 24508 (Wis. Jan. 8, 1997).
+
+                                       10
+
+      D. The Decision Being Reviewed
+
+     Petitioner appealed to the Wisconsin Court of
+Appeals contending that the search of his room was
+unconstitutional under State v. Stevens, 173 Wis. 2d 290,
+496 N.W.2d 201 (Ct.App.1992). (J.A. 73) While his case
+was pending, however, on February 4, 1994, the Wiscon-
+sin Supreme Court reversed the part of the appellate
+court opinion in Stevens he was relying on. State v.
+Stevens, 181 Wis. 2d 410, 511 N.W.2d 591 (1994), cert.
+denied, 115 S.Ct. 2245 (1995). So, on March 3, 1994, the
+Court of Appeals affirmed Richards’ conviction relying
+on the “ ‘blanket rule’ ” of Stevens dispensing with knock-
+and-announce under a “’drug house’ exception.” (J.A. 73,
+74) (The decision was not published. It appears in the
+table at 183 Wis. 2d 429, 516 N.W.2d 19 (1994).)
+
+     Petitioner sought review in the Wisconsin Supreme
+Court to consider whether the “blanket rule” of Stevens
+was constitutional under Wilson v. Arkansas, 115 S.Ct.
+1914 (1995). That court granted review, but reaffirmed
+Stevens under Wilson and held that today’s “drug culture”
+and the risks to police associated with executing search
+warrants permitted it to find that such a blanket rule was
+constitutional under Wilson. State v. Richards, 201 Wis. 2d
+839, 549 N.W.2d 218 (1996). (J.A. 76-109)
+
+     Unlike the trial court, the Wisconsin Supreme Court
+held that there had been no legal announcemesnumtm,a-
+rizing the facts thusly, 201 Wis. 2d at 843, 549 N.W.2d at
+220 (J.A. 78-79):
+
+           The dispositive facts for purposes of this
+      appeal can be stated succinctly: on December 31,
+      1991, police executed a search warrant for the
+
+                                        11
+
+       motel room of the defendant seeking evidence
+       of the felonious crime of Possession with Intent
+       to Deliver a Controlled Substance in violation of
+       Wis. Stat. § 161.41(1m) (1991-92). They did not
+       knock and announce prior to their entry. Drugs
+
+       were seized.
+             The circuit court denied Richards’ motion to
+
+       suppress. Richards subsequently entered pleas
+       of no contest to the felony of possession of
+       cocaine base with the intent to deliver, Wis. Stat.
+       § 161.41(1m), and a tax stamp violation, Wis.
+      Stat. § 139.95(2). The court found him guilty and
+
+       sentenced him to 13 years imprisonmoenntthe
+
+      possession with intent count and three years
+      concurrent imprisonment on the tax stamp
+      count. Richards appealed. The court of appeals
+      upheld the circuit court’s ruling, relying on
+
+      Further, id. at 844, 511 N.W.2d at 220 (J.A: 79-80):
+            Richards summa therissi ue zine onessen-
+
+      tence: “The blanket ‘drug house’ exception to
+
+       the ‘knock-and-announce’ rule violates the
+
+      Fourth Amendment's reasonableness require-
+      ment.” Richards contends that the U.S. Supreme
+
+       Court decision in Wilson forbids blanket rules
+
+      regarding search and seizure because the rea-
+
+       sonableness of each search must be examined on
+
+      a caseba- sisb . Thy e S- tatec..a.as rguee s that
+
+      Wilson does not forbid blanket rules and, under
+
+       Wilson, the blanket rule announced in Stevens in
+
+      still valid. We agree with the State.
+
+     The court found that there is a risk of violence any-
+time officers serve search warrants in felony drug deliv-
+ery cases, and this is a weighty public interest that
+
+                                       12
+
+overcomes the individual's right of privacy once a magis-
+
+trate has determined that a search warrant can issue.
+
+Indeed, the court determined that officers are at greater
+risk when they announce, particularly in drug cases. Id. at
+
+850-52, 549 N.W.2d at 223-24 (J.A. 85-87). The court
+
+quoted a New York Times article stating:
+           It is drug dealers, rather than drug users,
+
+      who use guns, Professor Decker said, because
+      they are usually carrying valuable quantities of
+      drugs and large amounts of money and need the
+      protection of a gun more than ordinary users.
+
+Fox Butterfield, “Study Discounts the Role of Drug Users
+in Gun-Related Crime,” The New York Times, Oct. 8,
+
+1995, at 36. Richards, supra, at 853, 549 N.W.2d at 224 (J.A.
+
+89). The court also quoted from crime statistics of officer-
+involved shootings. Id. at 854-44, 549 N.W.2d at 224-25
+(J.A. 90-93).
+
+     The court also held that the nature of drug cases
+makes its “blanket rule” amenable to apply to the
+destruction of evidence exception to the knock-and-
+
+announce requirement, id. at 856-57, 549 N.W.2d at 225
+
+(J.A. 92-93):
+
+           All of this points to the need for officers to
+
+      control the scene immedinaottonelylfoyr t,heir
+
+     own safety and the safety of others, but also to
+     seize evidence of felonious drug delivery. After
+     all, a search warrant commands officers to go to
+     a particular place to seize evidence of drugs and
+     drug paraphernalia. In Stevens, we
+     that the “easily disposable nature of narcotics
+     provides police with evidence sufficiteo nfotrm
+     a reasonable belief that no-knock entry is neces-
+     sary to prevent the destruction of evidence.”
+
+                                       13
+
+      Stevens, 181 Wis. 2d at 425. If officers must
+      knock-and-announce their authority and pres-
+      ence, they provide the occupants of the house
+      with the opportunity not only to arm them-
+      selves, but to dispose of evidence involving
+      drugs.
+
+           Allowing police to take command of the
+      situation is thus vital to the safe and effective
+
+      execution of a search warrant for evidence of
+
+      felonious drug delivery. Moreover, tive officers
+      executing a search warrant are in the best posi-
+      tion to decide how to take command of the
+      situation. In some cases, police officers undoubt-
+      edly decide that their safety, the safety of others,
+      and the effective execution of the warrant dic-
+      tate that they knock and announce; in other
+      cases, they might decide that such a procedure
+      would be counterproductive or even dangerous.
+     The court held that the issuance of a search warrant
+substantially dilutes the privacy interest in the home.
+““[W]here the police have a warrant to search the prop-
+erty, the residents retain only a very limited interest in
+privacy.’ Stevens, 181 Wis. 2d at 432.” Richards, supra, at
+858, 549 N.W.2d at 226 (J.A. 95).
+
+     Finally, id. at 860, 549 N.W.2d at 227 (J.A. 96-97):
+
+           When the risks of law enforcement change
+     radically, the rules by which courts regulate the
+     police should reflect those changes. Therefore,
+     we conclude that exigent circumstances are
+     always present in the execution of search war-
+     rants involving felonious drug delivery. The
+     public interests in these circumstances greatly
+     outweigh the minimal privacy interest of the
+     occupants of the dwelling for which a search
+
+                                         14
+
+     warrant has already been issued. Accordingly,
+      we re-affirm Stevens and conclude that police
+      are not required to adhere to the rule of
+      announcement when executing a search warrant
+      involving felonious drug delivery.
+
+     Thus, petitioner’s conviction was affirmed.
+
+                                                  S
+
+              SUMMARY OF THE ARGUMENT
+
+     I. “Physical entry into the home is the chief evil
+against which the wording of the Fourth Amendment is
+directed.” Therefore, the Fourth Amendment imposes the
+highest scrutiny.
+
+     Drug raids are significant events. Officers break
+down the door with battering rams, and they sometimes
+even throw in stun grenades. A multitude of police
+swarm in wearing bulletproof vests, their weapons drawn
+and pointed.
+
+     The Wisconsin Supreme Court's view is based on a de
+minimis view of this invasion of privacy, and this is fun-
+damentally and constitutionally wrong. The privacy
+interests in the knock-and-announce rule are much more
+than slightly advanced by announcement, contrary to the
+Wisconsin court's view.
+
+      Il. Wilson v. Arkansas, 115 S.Ct. 1914 (1995), held
+
+that the common law rule of announcement is a part of
+the Fourth Amendment. The “underlying command of
+the Fourth Amendment is always that searches and sei-
+zures be reasonable.” Id. at 1916.
+
+      The Wisconsin Supreme Court’s reasoning is based
+on false assumptions of fact. Drug dealers are not better
+
+                                          15
+
+armed and trained for assault than officers. The lower
+court relied on meaningless statistics regarding officer
+deaths. In fact, in the past 14 years, only 23 officers died
+in drug raids, none of whom died in Wisconsin. As many
+citizens died from gunfire in the course of such raids.
+Innocent persons suffer mistaken raids constantly, and
+sometimes they die. There are no real remedies for such
+police mistakes.
+
+                                                   S
+
+                              ARGUMENT
+
+I. “IT IS AXIOMATIC THAT ‘PHYSICAL ENTRY
+     INTO THE HOME IS THE CHIEF EVIL AGAINST
+     WHICH THE WORDING OF THE FOURTH
+     AMENDMENT IS DIRECTED.’” ACCORDINGLY,
+     HIGHER STANDARDS MUST APPLY.
+
+     A. There is a higher standard of privacy in the
+           home.
+
+     The resolution of the question in this case starts from
+the premise that this case involves a dwelling, and dwell-
+ings are entitled to the highest scrutiny under the Fourth
+Amendment, which provides that “[t]he right of the peo-
+ple to be secure in their . . . houses . . . shall not be
+violated.” “(T]he sanctity of private dwellings [is] ordi-
+narily afforded the most stringent Fourth Amendment
+protection.” United States v. Martinez-Fuerte, 428 U.S. 543,
+561 (1976).
+
+     The maxim that “every man’s home is his castle” is
+part of the common law and the Fourth Amendment.
+“From earliest days, the common law drastically limited
+the authority of law officers to break the door of a house
+to effect an arrest.” Miller v. United States, 357 U.S. 301,
+
+                                         16
+
+306-7 (1957). See Wilson v. Arkansas, 115 S.Ct. 1914,
+1916-17 (1995). The “right to maintain control over [one’s]
+home, and to be free from governmental interference, is a
+private interest of historic and continuing importance.”
+United States v. James Daniel Good Real Property, 510 U.S.
+43, 53-54 (1993) (bracketed material added).
+
+     Also, the Fourth Amendment protects more than just
+privacy. As Justice Story stated in his commentaries, the
+Fourth Amendment was designed to protect “personal
+security, personal liberty and private property.” J. Story,
+Commentaries On The Constitution Of The United States,
+§ 1902 (2d ed.1851). See Soldal v. Cook County, 506 U.S. 56,
+62 (1992) (the Fourth Amendment “protects property as
+well as privacy”).
+
+     It matters not that the place searched here was
+merely a motel room; the Fourth Amendment protects
+Room 138 at the Ramada Inn in Madison as much as it
+protects a fashionable home in Georgetown or Beverly
+Hills, or on Park Avenue in New York City. United States
+v. Johnson, 333 U.S. 10 (1948); United States v. Jeffers, 342
+U.S. 48 (1951); Stoner v. California, 376 U.S. 483 (1964). If it
+has walls and people can stay there,'! it is protected by
+the Fourth Amendment.
+
+      1! Even a tent has Fourth Amendment protection. United
+
+States v. Gooch, 6 F.3d 673, 677 (9th Cir.1994); Alward v. State, 112
+Nev. 141, 912 P.2d 243 (1996). And let us not forget the often
+
+quoted statement of William Pitt: “Every man’s house is his
+castle. The poorest man may in his cottage bid defiance to all the
+forces of the Crown. It may be frail; its roof may shake; the wind
+may blow through it; the storm may enter; the rain may enter;
+but the King of England cannot enter - all his force dares not
+cross the threshold of the ruined tenement!” See, e.g., Miller v.
+United States, 357 U.S. at 307 n.7.
+
+                                         17
+
+     As Payton v. New York, 445 U.S. 573, 589 (1980)
+
+instructs:
+
+      The Fourth Amendment protects the individ-
+      ua ‘s privacy in a variety of settings. In none is
+      the zone of privacy more clearly defined than
+      when bounded by the unambiguous physical
+      dimensions of an individual’s home - a zone
+      that finds its roots in clear and specific constitu-
+      tional terms: “The right of the people to be
+      secure in their . . . houses . . . shall not be
+      violated.” That language unequivocally estab-
+      lishes the proposition that “[a]t the very core [of
+      the Fourth Amendment] stands the right of a
+      man to retreat into his own home and there be
+      free from unreasonable governmental intru-
+      sion.” Silverman v. United States, 365 U.S. 505,
+      511 (1961). In terms that apply equally to sei-
+      zures of property and to seizures of persons, the
+      Fourth Amendment has drawn a firm line at the
+      entrance to the house. Absent exigent circum-
+      stances, that threshold may not reasonably be
+      crossed without a warrant. (bracketed material
+      added)
+
+Thus, the Court has repeatedly held that “It is axiomatic
+that ‘physical entry into the home is the chief evil against
+which the wording of the Fourth Amendment is directed.’ ”
+Welsh v. Wisconsin, 466 U.S. 740, 748 (1984) (quoting
+United States v. United States District Court, 407 U.S. 297,
+313 (1972)); Payton v. New York, supra, at 584-85; Michigan
+v. Summers, 452 U.S. 692, 700 n. 13 (1981); New York v.
+
+Harris, 495 U.S. 14, 18 (1990); Maryland v. Buie, 494 U.S.
+325, 341 (1990).
+
+                                          18
+
+     B. A drug raid is a significant constitutional event.
+
+      A drug raid is no small invasion of privacy. Often-
+times, a horde of officers enter with guns drawn, some-
+times even lobbing stun grenades in first, shouting at the
+occupants and usually threatening shooting or death as
+the penalty for non-compliance. See, e.g., Jenkins v. Wood,
+81 F.3d 988 (10th Cir. 1996). Everyone’s adrenaline is
+pumping. People get killed, citizens and police, both
+accidentally and on purpose. The invasion of a home by
+force like this is substantial; indeed, police argue that
+they must quickly and decisively secure the premises by
+an “unannounced dynamic entry” to protect themselves.
+They strive to catch the occupants off-guard and secure
+the premises before the occupants figure out what is
+happening. The state argued this below, and the Wiscon-
+sin court accepted it, referring to events occurring many
+years earlier and using a second-year law student's note
+as the impetus to justify dispensing with the common
+law. Richards, 201 Wis. 2d at 850, 549 N.W.2d at 223 (J.A.
+85-86) (Note, Donald B. Allegro, Police Tactics, Drug Traf-
+ficking, and Gang Violence: Why the No-Knock Warrant Is An
+Idea Whose Time Has Come, 64 Notre Dame L.Rev. 552
+(1989)); see also State v. Stevens, supra, at 420, 428-29, 511
+N.W.2d at 593, 597.
+
+     The officers strive for control, and it works, both at
+the time of the search and long after. Consider the com-
+ments of Judge Fernandez of the Ninth Circuit:
+
+            The fear of a smashing in of doors by gov-
+      ernment agents is based upon much more than a
+      concern that our privacy will be disturbed. It is
+      based upon concern for our safety and the
+      safety of our families. Indeed, the minions of
+
+                                          19
+
+      dictators do not kick in doors for the mere pur-
+      pose of satisfying some voyeuristic desire to
+      peer around and then go about their business.
+      Something much more malevolent and dan-
+      gerous is afoot when they take those actions. It
+      is that which strikes terror into the hearts of
+      their victims. The fourth amendment protects us
+      from that fear as much as it protects our pri-
+      > ee
+
+United States v. Becker, 24 F.3d 1537, 1540 (9th Cir.1994)
+(quoting United States v. Lockett, 919 F.2d 585, 592 (9th
+Cir.1990) (Fernandez, J., concurring)).!?
+
+      This Court has already recognized that the nature of
+the invasion in a drug raid is substantial and of no small
+consequence. Miller v. United States, supra, at 307-08; Ker v.
+California, 374 U.S. 23, 49-53 (1963) (Brennan, J., concur-
+ring in part and dissenting in part); Wilson v. Arkansas,
+supra, at 1916-17.
+
+      12 The concern that the Framers had with warrants
+embraced a concern with houses, which encapsulated sti!!
+
+deeper concerns. Many commentators on the proposed
+
+Constitution were deeply fearful of the manner in which the
+Constitution would permit federal power to invade their
+hearths. Open your front door, it was reasoned, and the extent
+of federal invasion will be infinite. The “daring brutality of the
+intruders will extend to the wife of thy bosom . . . the most
+delicate parts of our families . . . the most discrete
+recesses .. . private papers . . . private concerns.” William J.
+Cuddihy, The Fourth Amendment: Origins and Original Meaning,
+
+602-1791 (1990) (unpublished PhD dissertation, Claremont
+Graduate School) at 1546-47.
+
+                                      20
+
+    C. The Wisconsin view is premised on a de min-
+           imis, and, therefore, erroneous, view of privacy
+           interests in the home after a warrant issues.
+           Even a drug raid suspect retains rights during a
+           search.
+
+     The Wisconsin court considered the householder’s
+interest to be substantially devalued once a search war-
+rant issues. “Richards’ privacy interests are only slightly
+advanced by a knock and announce rule.” Richards, supra,
+at 857, 549 N.W.2d at 226 (J.A. 94). And, “ ‘where the
+police have a warrant to search the property, the residents
+retain only a very limited interest in privacy.’ ” Id. at 858,
+549 N.W.2d at 226 (J.A. 95) (quoting Stevens, supra, 181
+Wis. 2d at 432, 511 N.W.2d at 591). This evinces an atti-
+tude that one’s rights in property after a search warrant
+issues are de minimis at best. This is fundamentally and
+constitutionally wrong.
+
+      The right to knock-and-announce is not a right easily
+cast aside by stating that “privacy interests are only
+slightly advanced by a knock and announce rule.” Knock-
+and-announce is a valuable and important right that is
+supposed to protect both the lives of the participants to
+the search and privacy and property rights of the house-
+holder. After all, a person’s home is his castle. Wilson v.
+Arkansas, supra, at 1916; Maryland v. Buie, supra, at 329;
+Payton v. New York, supra, at 596; Ker v. California, supra, at
+47; Miller v. United States, supra, at 307.
+
+       In Wilson v. Arkansas this court held that the common
+law of knock-and-announce was a part of the Fourth
+Amendment and stated:
+
+                                       21
+
+            Our own cases have acknowledged that the
+      common law principle of announcement is
+      “embedded in Anglo-American law,” Miller v.
+      United States, 357 U.S. 301, 313, 78 S.Ct. 1190,
+       1198, 2 L.Ed.2d 1332 (1958), but we have never
+      squarely held that this principle is an element of
+      the reasonableness inquiry under the Fourth
+      Amendment. We now so hold. Given the long-
+      standing common-law endorsement of the prac-
+      tice of announcement, we have little doubt that
+      the Framers of the Fourth Amendment thought
+      that the method of an officer’s entry into a
+      dwelling was among the factors to be consid-
+      ered in assessing the reasonableness of a search
+      or seizure. Contrary to the decision below, we
+      hold that in some circumstances an officer's
+      unannounced entry into a home might be unrea-
+      sonable under the Fourth Amendment.
+
+Wilson v. Arkansas, supra, at 1918. Wilson creates a pre-
+
+sumption in favor of announcement, but Richards creates
+
+a presumption against it. Wilson must prevail.
+
+      The proper explanation of the constitutional event
+known as execution of a search or arrest warrant is much
+more limited than the Wisconsin court recognizes. As
+
+stated in Maryland v. Buie, 494 U.S. 325, 330 (1990):
+
+            “If there is sufficient evidence of a citizen's
+     participation in a felony to persuade a judicial
+      officer that his arrest is justified, it is constitu-
+     tionaily reasonable to require him to open his
+      doors to the officers of the law.” Payton v. New
+      York, 445 U.S. 573, 602-603 (1980).
+
+     A citizen “open|[s] his doors to the officers” and does
+not surrender all privacy to them. Once lawfully on the
+premises, the officers are entitled to conduct a search
+
+                                      22
+
+incident to arrest of the area in the house for officer
+protection and prevention of destruction of evidence; e.g.,
+Chimel v. California, 395 U.S. 752, 755-60 (1969); or a
+protective sweep to protect against attack from other
+possible confederates. Maryland v. Buie, supra. There is no
+carte blanche to search the whole house, everywhere and
+anywhere the officers want to go. Arizona v. Hicks, 480
+U.S. 421 (1978) (moving a stereo to record serial numbers
+during an emergency entry was impermissible).
+
+Il. THE KNOCK-AND-ANNOUNCE RULE AND THE
+      VALUES IT INCORPORATES.
+
+      A. The knock-and-announce rule in the Supreme
+            Court.
+
+      In 1995, this Court held in Wilson v. Arkansas, supra,
+that the seven century-old common law rule of knock-
+and-announce was a part of the Fourth Amendment. The
+Court explained where the presumption in favor of
+announcement would yield, id. at 1918-19:
+
+           Thus, because the common-law rule was
+      justified in part by the belief that announcement
+      generally would avoid “the destruction or
+      breaking of any house . . . by which great dam-
+      age and inconvenience might ensue,” Semayne’s
+      Case, [5 Co. Rep. 91a,] 91b, 77 Eng. Rep. [194,]
+      196 [(K.B. 1603)], courts acknowledged that the
+      presumption in favor of announcement would
+      yield under circumstances presenting a threat of
+      physical violence. See, e.g., Read v. Case, 4 Conn.
+
+       166, 170 (1822) (plaintiff who “had
+
+      resolved .. . to resist even to the shedding of
+      blood . .. was not within the reason and spirit of
+
+                                23
+
+the rule requiring notice”); Mahomed v. The
+Queen, 4 Moore 239, 247, 13 Eng. Rep. 293, 296
+(P.C.1843) (“While he was firing pistols at them,
+were they to knock at the door, and to ask him
+to be pleased to open it for them? The law in its
+wisdom only requires this ceremony to be
+observed when it possibly may be attended with
+some advantage, and may render the breaking
+open of the outer door unnecessary”). Similarly,
+courts held that an officer may dispense with
+announcement in cases where a prisoner
+escapes from him and retreats to his dwelling.
+See, e.g., ibid.; Allen v. Martin, 10 Wend. 300, 304
+
+(N.Y.Sup.Ct.1833). Proof of “demand and
+refusal” was deemed unnecessary in such cases
+
+because it would be a “senseless ceremony” to
+require an officer in pursuit of a recently
+escaped arrestee to make an announcement
+prior to breaking the door to retake him. Id., at
+304. Finally, courts have indicated that unan-
+nounced entry may be justified where police
+officers have reason to believe that evidence
+would likely be destroyed if advance notice
+were given. See Ker, 374 U.S., at 40-41, 83 S.Ct.,
+at 1633-1634 (plurality opinion); People v. Mad-
+dox, 46 Cal. 2d 301, 305-306, 294 P.2d 6, 9 (1956).
+
+     We need not attempt a comprehensive cata-
+log of the relevant countervailing factors here.
+For now, we leave to the lower courts the task of
+determining the circumstances under which an
+unannounced entry is reasonable under the
+Fourth Amendment. We simply hold that
+although a search or seizure of a dwelling might
+be constitutionally defective if police officers
+enter without prior announcement, law enforce-
+ment interests may also establish the rea-
+sonableness of an unannounced entry.
+
+                                      24
+
+The “ ‘underlying command of the Fourth Amendment is
+always that searches and seizures be reasonable.’ ” Wilson
+
+v. Arkansas, supra, at 1916 (quoting New Jersey v. T.L.O.,
+469 U.S. 325, 337 (1985)).
+
+      Wilson was hardly the first case to express the impor-
+
+tance of announcement. In Miller v. United States, 357 U.S.
+
+301, 313-14 (1957), the Court stated the importance of the
+values protected by the knock-and-announce require-
+
+ment:
+
+            We are duly mindful of the reliance that
+     society must place for achieving law and order
+      upon the enforcing agencies of the criminal law.
+      But insistence on observance by law officers of
+     traditional fair procedural requirements is, from
+      the long point of view, best calculated to con-
+      tribute to that end. However much in a particu-
+      lar case insistence upon such rules may appear
+      as a technicality that inures to the benefit of a
+      guilty person, the history of the criminal law
+      proves that tolerance of shortcut methods in law
+     enforcement impairs its enduring effectiveness.
+     The requirement of prior notice of authority and
+     purpose before forcing entry into a home is
+     deeply rooted in our heritage and should not be
+     given grudging application. Congress, codifying
+     a tradition embedded in Anglo-American law,
+      has declared in 18 U.S.C. § 3109 the reverence of
+     the law for the individual's right of privacy in
+     his house. Every householder, the good and the
+     bad, the guilty and the innocent, is entitled to
+      the protection designed to secure the common
+     interest against unlawful invasion of the house.
+     The petitioner could not be lawfully arrested in
+      his home by officers breaking in without first
+
+|
+
+                                                       25
+
+                     giving him notice of their authority and pur-
+                     pose. Because the petitioner did not receive that
+
+                        notice before the officers broke the door to
+                        invade his home, the arrest was unlawful, and
+
+                     the evidence seized should have been sup-
+                      pressed.
+
+                          B. Wisconsin’s blanket rule.
+
+                      Wisconsin's blanket rule is based on its belief that
+                officers should be able to excuse announcement in their
+                own discretion on two grounds: first, as a matter of
+               officer safety because suspects are often armed and a lot
+               of police officers get shot in “drug related matters” and,
+               secondly, as a matter of evidence preservation because
+               drugs are easily disposed of. Richards, supra, at 856-58,
+               549 N.W.2d at 225-26 (J.A. 92-95) (quoted supra in the
+                Statement of the Case).
+
+                      C. The Wisconsin court’s reasoning is based on
+                             false assumptions of fact.
+
+                             1. Drug dealers do not have “ballistically
+                                  superior weapons”
+
+                      The majority opinion in Richards, 201 Wis. 2d at
+                  855-56, 549 N.W.2d at 225-26 (J.A. 91-92), justifies its
+               conclusion in part on the rationale that police officers are
+                outgunned by drug dealers with “ballistically superior
+                  weapon{s],” citing R.J. Adams & T.M. McTernan, Street
+                  Survival: Tactics for Armed Encounters 35 (1980), a work
+               seventeen years old and cited in Note, Allegro, 64 Notre
+                Dame L.Rev. at 555.
+
+                                      26
+
+     Whatever the authors are referring to is not true
+today. Virtually every police department in America has
+been arming all its officers with 9mm, 10mm, and .40
+caliber semi-automatic weapons with 15 round clips. In
+addition, drug raids are often conducted with SWAT team
+assistance with military-style assault-type weaponry,
+including submachine guns and automatic weapons and
+stun grenades, battering rams, and Kevlar helmets and
+bulletproof vests. See, e.g., Sledd v. Lindsay, 102 F.3d 282,
+286 (7th Cir. 1996); Jenkins v. Wood, supra; People v. Brown,
+1996 WL 743502 (N.Y.App.Div., Dec. 31, 1996) (Mazzerelli,
+J., dissenting). Last, but not least, law enforcement offi-
+cers conducting drug raids are highly trained in securing
+the premises and neutralizing the occupants without vio-
+lence. The persons inside do not have the same weaponry
+and training.
+
+            2. The State’s statistics on officer deaths in
+                  drug cases do not translate to deaths in
+                  drug raids.
+
+     The U.S. Department of Justice keeps voluminous
+records of the numbers of police officers killed in the
+United States. The report, U.S. Department of Justice,
+Uniform Crime Reports: Law Enforcement Officers Killed and
+
+Assaulted, is annually published (hereafter, UCR (year)).
+The court below discussed shooting generally, relying on
+
+the reports of 1977-86 from a law review article referring
+to officers dying in “drug related matters.” Richards, 201
+Wis. 2d at 853-55 nn. 8-10, 549 N.W.2d at 223-25 nn. 8-10
+(J.A. 88-92).
+
+                                      27
+
+      This contention is fallacious. The number of officers
+killed in drug raids is not readily apparent. The tables in
+the UCRs show the number of officers killed each year in
+“drug related matters,” but are overinclusive. The sum-
+maries in the UCRs must be consulted for an accurate
+view.
+
+     Our analysis of the 1981-94 reports shows that the
+overwhelming majorities of felonious deaths of peace
+officers were unrelated to the execution of search war-
+rants for drugs.'° There is no significant statistical cor-
+relation between announcement or lack of announcement
+and the resulting deaths. Only 8 of 23 summaries ev on
+mention whether announcement occurred. The circum-
+stances of some killings show that the officer was shot on
+entry, but the greatest threat to officers was from being
+shot by assailants hidden inside and not from being shot
+on entry. The summaries are in Appendix B. At least one
+
+of the raids (Stockton, California, 1993), involved a tip
+
+there were drugs on the premises, but there were none.
+The police killed the occupant after he shot the officer.
+This shooting is discussed in James Bovard, Lost Rights
+
+236, at nn. 304-05 (1994). The summaries do not mention
+how many officers were shot serving warrants where no
+drugs were found.
+
+     For what it is worth, the UCRs show that no Wiscon-
+sin officer died executing a search warrant for drugs in
+
+     3 Officers seem to be at least as likely to be shot arranging
+a drug buy where no search is involved.
+
+                                      28
+
+that period. However, newspaper reports show that one
+unarmed citizen was shot by Wisconsin officers just since
+Stevens. See “They Shot Daddy,” infra.
+
+            3. Citizen deaths during drug raids.
+
+     The U.S. Department of Justice does not keep records
+of the number of citizens that die during drug raids.
+Other sources’ show that at least as many innocent citi-
+zens as police officers die during drug raids, not even
+mentioning drug dealers who die. Even when police offi-
+cers enter announcing their purpose, there often will be
+questions of whether the people inside could hear the
+self-servingly claimed shouts of “Police; search war-
+rant!”15
+
+     In Beaver Dam, Wisconsin on April 17, 1995, Scott
+Bryant, an unarmed accused marijuana dealer, was shot
+to death inside his home in the presence of his 7 year-old
+
+      14 Tragedy was barely averted in State v. Coleman, 199 Wis.
+2d 174, 176-78, 544 N.W.2d 912, 913-14 (Ct. App. 1996), aff'd, 206
+Wis. 2d 198, 556 N.W.2d 701 (1996), where Milwaukee officers
+executing a no-knock warrant yelled, “Police, search warrant!”
+as soon as they entered. They faced a householder with a gun
+who thought he was being robbed. The court held that a narrow
+defense of privilege existed to the charge of being a felon in
+possession of a firearm. The Wisconsin Supreme Court
+mentioned his surprise that the people breaking his door down
+were police officers, and, as soon as he realized they were the
+police, he dropped his gun and raised his hands. Coleman, 206
+Wis. 2d at 203, 556 N.W.2d at 703.
+
+      15 See State v. Coleman, supra. In addition, home invasion
+robberies sometime involve robbers impersonating police
+officers.
+
+                                       29
+
+son. The officer shot him immediately on entry during a
+drug raid. The prosecutor relied on Stevens in determin-
+ing that charges would not be filed against the officer.
+Chip Mitchell, “They Shot Daddy,” Isthmus (Madison,
+WI) 1, 8-9 (June 30, 1995).
+
+     As important as it is that police officers not die
+executing drug warrants, is it not just as important that
+citizens not die, either? Selling or possessing marijuana is
+not a crime of violence justifying deadly physical force.
+
+See Tennessee v. Garner, 471 U.S. 1 (1985). Yet, Wisconsin’s
+rule invites death. Scott Bryant, a non-violent citizen
+cloaked with the presumption of innocence, was need-
+lessly slaughtered in Wisconsin as a result of its blanket
+rule. How many more must die before the folly of the
+blanket exception is finally recognized?
+
+            4. Raiding the homes of innocent citizens.
+
+     It appears that the police often raid the wrong house
+either because they have bad information or because they
+are negligent.
+
+     Dozens of examples of erroneous no-knock drug
+raids were given and newspaper articles were reprinted
+in the Congressional Record when the federal no-knock
+law was repealed in 1974. 120 Cong.Rec. 22882-906 (July
+11, 1974). Several more recent examples appear in James
+Bovard, Lost Rights 234-39 (1994), and James Bovard,
+“Oops, You’re Dead: The Body Count from No-Knock
+Drug Raids is Climbing, Are You Next?”, Playboy 50-51
+(Dec.1994). For an earlier article, see Andrew H. Malcolm,
+
+                                      30
+
+“Violent Drug Raids Against the Innocent Found Wide-
+spread,” The New York Times (June 25, 1973) Al. See also
+CBS News, 60 Minutes, Vol. XXV, No. 27 at 6-7 (Mar. 28,
+1993). [Fortune 500 company executive, who had been
+sleeping, shot three times when police, without
+announcement, raided his home for drugs. None were
+found.] In a 1993 newspaper article, a DEA supervising
+agent admitted that the wrong places are raided continu-
+ally:
+
+           With alarming frequency, police in their
+      quest for drugs are raiding the homes of inno-
+      cent people.
+
+            “It happens every day in this business,”
+      said Capt. Art Binder of the Cumberland
+      County (N.C.) Sheriff's Department, whose own
+      officers recently raided two wrong house»
+      before hitting, on their third try, the right one.
+
+            Last year alone, police killed at least three
+      innocent people during errant drug searches,
+      wounded another and traumatized countless
+      more.
+
+           The survivors of these raids report months
+      of counseling, trouble with their children,['*]
+      and nightmares so intense that some have
+      moved just to get away from the memories .. .
+
+            After the New Mexico raid, Tom Smith, the
+      assistant special agent in charge of the DEA’s
+      Albuquerque office, said it was not unusual to
+      come up empty handed.
+
+           “It happens all the time,” he said.
+
+      16 It does not instill respect for law enforcement in children
+when law enforcement practices terrorize them.
+
+                                       31
+
+Joe Hallinan, “Drug Wars: Fervor Often Injures the Inno-
+cent,” New Orleans (LA) Times-Picayune (Sept. 26, 1993)
+A20 (footnote added). The numbers of erroneous raids
+even reported in the press may only be the tip of the
+iceberg because not every aggrieved citizen dares com-
+plain.
+
+     When the federal no-knock law was being repealed,
+many senators eloquently pronounced this law uncon-
+stitutional under the Fourth Amendment as inherently,
+unjustifiably dangerous to citizens and police officers
+alike. As Senator Nelson summed it up:
+
+            Mr. President, approximately 185 years ago,
+      Thomas Jefferson warned that “the natural pro-
+      gress of things is for liberty to yield and govern-
+      ment to gain ground.”
+
+            Unfortunately, that warning has proved
+      prophetic all too often. On too many occasions
+      government needs have been given priority over
+      individual liberties.
+
+            Nowhere is this more true than in the enact-
+      ment of the no-knock provisions of the Compre-
+      hensive Drug Abuse Prevention and Control Act
+      of 1970....
+
+120 Cong. Rec. at 22888-89.17
+
+     17 Similar opposition was stated when the federal no-knock
+law was adopted. 116 Cong.Rec. 1159-62, 1163-77, 33639-666.
+The arguments remain unchanged, only the names of the
+participants have changed. See, e.g., Sen. Sam Ervin of North
+Carolina criticizing this statute which “encourages the officer to
+emulate[] the actions of a burglar and [break] into a house
+without notice, concealing the fact that he has a search
+warrant...” Id. 1163.
+
+                                      32
+
+            5. What is the remedy for mistakes?
+
+     Are there any remedies for the citizenry of this nation
+from police mistakes?
+
+     Can a civil claim be made against police negligently
+raiding the wrong house or negligently killing the occu-
+pant? No. Negligence cannot form the basis of a 42 U.S.C.
+
+§ 1983 case. Daniels v. Williams, 474 U.S. 327 (1986); Polk
+County v. Dodson, 454 U.S. 312, 326 (1981). The police
+cannot be sued for negligence under most states’ laws,
+
+either. It is possible under the law of some states for a
+citizen to file a negligence claim,’® but they are few and
+far between. Officers can easily claim they relied in good
+faith on their informant to avoid liability,’ a standard
+this Court already requires trial courts to apply in the
+usually unsuccessful veracity challenges to affidavits
+
+under Franks v. Delaware, 438 U.S. 154, 171 (1978). This
+
+Court recognized long ago that alternative remedies
+are useless in enforcing the requirements of the
+
+      18 Rev. Accelyne Williams, a 75 year old black minister, was
+the subject of a groundless drug raid. After breaking down his
+door, the police chased him through the house to his bedroom,
+and handcuffed him. This provoked a heart attack which killed
+him. The police had obtained a no-knock warrant because their
+informant had told them they could expect armed resistance.
+His widow settled with the Boston Police Department for
+$1,000,000. “Boston to Give Victim’s Widow $1 Million in
+Wrongful Death Suit,” N.Y. Times Abstracts (Apr. 25, 1996) 1996
+
+WL 7503359; “Boston Settles Death Suit,” National Law Journal
+
+(May 6, 1996) A8.
+      19 See, e.g., Jenkins v. Wood, supra; Written testimony of
+
+Donald Carlson, U.S. Congress, House Government Operations
+Committee, Hearing on Asset Forfeiture (June 22, 1993).
+
+                                       33
+
+Fourth Amendment. Mapp v. Ohio, 367 U.S. 643, 652-53
+(1961).
+
+     Will the police officer be prosecuted for negligent
+homicide? It may be theoretically possible, but what pros-
+ecutor wants to charge the police in his or her jurisdiction
+for anything? See, e.g., Mitchell, “They Shot Daddy,”
+supra; Kathy Scruggs, “Officer: Police Bullet Killed Boy,”
+
+Atlanta Constitution (Nov. 14, 1991).
+
+     Yet, the police will certainly prosecute a homeowner
+defending himself. Some are acquitted or the charges are
+later dismissed. See, e.g., “Man Innocent of Police Murder
+during Drug Raid,” United Press International (Aug. 17,
+1989); Diego Ribadeneira, “Flynn Forms Panel to Study
+Police Drug Unit’s Methods,” Boston Globe (Apr. 14,
+
+1989) at 1.
+
+            6. Protection against mistakes.
+
+     The knock-and-announce rule is intended to protect
+against mistakes. In Ker v. California, 374 U.S. 23, 57-58
+(1963), Justice Brennan, writing for four Justices concur-
+ring and dissenting, said:
+
+            Beyond these constitutional considerations,
+      practical hazards of law enforcement militate
+      strongly against any relaxation of the require-
+      ment of awareness. First, cases of mistaken
+      identity are surely not novel in the investigation
+      of crime. The possibility is very real that the
+      police may be misinformed as to the name or
+     address of a suspect, or as to other material
+      information. That possibility is itself a good rea-
+      son for holding a tight rein against judicial
+
+                                      34
+
+      approval of unannounced police entries into pri-
+     vate homes. Innocent citizens should not suffer
+     the shock, fright or embarrassment attendant
+     upon an unannounced police intrusion. Second,
+     the requirement of awareness also serves to
+     minimize the hazards of the officers’ dangerous
+     calling. We expressly recognized in Miller v.
+      United States, supra, 357 U.S., at 313, n. 12, that
+     compliance with the federal notice statute “is
+     also a safeguard for the police themselves who
+     might be mistaken for prowlers and be shot
+     down by a fearful householder.” Indeed, one of
+     the principal objectives of the English require-
+     ment of announcement of authority and purpose
+     was to protect the arresting officers from being
+     shot as trespassers,” *** for if no previous
+     demand is made, how is it possible for a party
+     to know what the object of the person breaking
+     open the door may be? He has a right to con-
+      sider it as an aggression on his private property,
+      which he will be justified in resisting to the
+      utmost.” Launock v. Brown, 2 B. & Ald. 592, 594,
+      106 Eng. Rep. 482, 483 (1819).
+
+           These compelling considerations underlie
+      the constitutional barrier against recognition of
+     exceptions not predicated on knowledge or
+     awareness of the officers’ presence.
+
+     The Wisconsin rule has conducted balancing of indi-
+vidual liberty and the public need in advance, a priori,
+without regard to the potential facts, and it has left indi-
+
+vidual liberty wanting. Under the blanket exception, mis-
+takes of the police are tolerable, no matter how grievous
+they may be. Deference to the police cannot be this abso-
+
+lute under our form of government.
+
+                                      35
+
+Ill. DEFERENCE TO “SPECIAL NEEDS” OR “OPER-
+       ATIONAL NECESSITIES” IN THIS AREA OF
+       LAW IS BOOTSTRAPPING. THE ENTIRE PREM-
+       ISE OF JUDICIAL REVIEW OF SEARCH AND
+       SEIZURE QUESTIONS REQUIRES TRIAL AND
+       APPELLATE ANALYSIS OF REASONABLENESS.
+
+       A. Neither “special needs” nor “operational
+             necessities” support the blanket rule.
+
+             1. The holdings from this Court on “special
+                   needs.”
+
+     The court below did not mention this topic, but this
+Court likely will, so we address it now: If the Court
+adopts the blanket exception to knock-and-announce in
+drug cases, it would also have to create a new exception
+to the “special needs” exception to the probable cause
+and warrant requirement for what amounts to a question
+of execution of a search warrant.
+
+     The Court first addressed the “special needs” excep-
+tion in Fourth Amendment cases in New Jersey v. T.L.O.,
+469 U.S. 340, 351 (1985) (Blackmun, J., concurring), where
+the Court held that neither a warrant nor probable cause
+was necessary to conduct a search of a student where
+there was reasonable suspicion to believe that the student
+was in possession of contraband, considering the unique
+status that a school has with the children attending it.
+
+           Only in those exceptional circumstances in
+      which special needs, beyond the normal need
+      for law enforcement, make the warrant and
+      probable-cause requirement impracticable, is a
+      court entitled to substitute its balancing of inter-
+      ests for that of the Framers.
+
+                                      36
+
+     The Court has applied Justice Blackmun’s language
+repeatedly in finding exceptions to the warrant require-
+ment. See, e.g., Griffin v. Wisconsin, 483 U.S. 868, 873 (1987)
+(probationer searches); Skinner v. Railway Labor Executive's
+Association, 489 U.S. 602, 620 (1989) (urine testing of rail-
+road employees involved in accidents); Vernonia School
+
+Dist. 47] v. Acton, 115 S.Ct. 2385, 2391 (1995) (urine testing
+of student athletes).
+
+     Only Griffin involved a dwelling, and the Court held
+there that an informant’s tip that the probationer was in
+possession of a weapon was a sufficient basis to authorize
+a warrantless search under probation regulations requir-
+ing reasonable grounds to believe that the probationer
+was violating the law. Griffin, supra, at 875.
+
+     In two other cases, the Court has mentioned “opera-
+tional necessities” as a justification for a police seizure on
+less than probable cause. See Arizona v. Hicks, 480 U.S.
+321, 327 (1987):
+
+           We do not say, of course, that a seizure can
+      never be justified on less than probable cause.
+      We have held that it can —- where, for example,
+      the seizure is minimally intrusive and opera-
+      tional necessities render it the only practicable
+      means of detecting certain types of crime. See,
+
+      e.g., United States v. Cortez, 449 U.S. 411 (1981)
+
+      (investigative detention of vehicle suspected to
+      be transporting illegal aliens); United States v.
+
+       Brignoni-Ponce, 422 U.S. 873 (1975) (same);
+      United States v. Place, 462 U.S. 696, 709, and n. 9
+       (1983) (dictum) (seizure of suspected
+
+                                      37
+
+      drug dealer’s luggage at airport to permit expo-
+     sure to specially trained dog). No special opera-
+     tional necessities are relied on here, however -
+     but rather the mere fact that the items in ques-
+     tion came lawfully within the officer’s plain
+      view. That alone cannot supplant the require-
+     ment of probable cause.
+
+             2. How do they apply? Can they apply?
+
+     Here, the police obtained a warrant after satisfying a
+judge that there was probable cause for a search. So, on
+the one hand, probable cause has been shown. But, does
+that still permit them to nullify a basic constitutional
+protection and the requirement that all searches be rea-
+sonable without showing any specific articulable facts
+that they have a need to dispense with announcement?
+(The phrases “operational necessities” and “special
+needs” are seductive in this situation; but the Court
+should not be tempted.)
+
+     Remember that here a dwelling was involved, and
+only one case permitted a search of a dwelling on less
+than probable cause and with “special needs”: Griffin v.
+Wisconsin where the probationer was already on the street
+by the grace of the executive branch of state government
+and under its complete control. These historical facts of
+life of probationers made the use of a lesser standard of
+probable cause permissible.
+
+      For the “special needs” exception to apply, there has
+to be some existing relationship between the person con-
+ducting the search and the person to be searched. The
+“special needs” exception has never been extended to a
+
+                                      38
+
+purely criminal search. If the Court does so here, “rea-
+sonableness” will be a concept that will forever defy
+definition. And, if “reasonableness” can no longer be
+defined, then the courts will never be able to determine
+whether particular police conduct is lawful. And, if that
+happens, the “reasonableness” requirement of all
+searches and police activity will have been virtually read
+out of the law.
+
+       B. Deference to the police is a dangerous propo-
+
+                sition when knock-and-announce is at issue.
+
+     The Wisconsin rule defers to the police the question
+of reasonableness in drug searches. This is a dangerous
+proposition that goes far beyond anything this Court has
+ever approved. As the Court said in 1964, “If subjective
+good faith alone were the test, the protections of the
+Fourth Amendment would evaporate, and the people
+would be ‘secure in their persons, houses, papers, and
+effects’ only in the discretion of the police.” Beck v. Ohio,
+
+379 U.S. 89, 97 (1964) (quoted in United States v. Leon, 468
+U.S. 897, 915 n. 13 ((1984)) as a function belonging to a
+neutral and detached magistrate). What the state has
+
+done here gives the police absolute discretion to deter-
+mine how a householder will give up his or her privacy
+to a search warrant.
+
+       C. Deference to the police and “blanket rules”
+              are contrary to established law.
+
+      The Wisconsin blanket rule is contrary to established
+law and the genius of the reasonableness requirement.
+
+                                       39
+
+      This court has never sanctioned this kind of defer-
+ence in Fourth Amendment cases. In United States v. Leon,
+468 U.S. 897, 914 (1984), the Court held that even defer-
+ence to magistrates is not boundless. Deference to police
+is inappropriate because they are “ ‘engaged in the often
+competitive enterprise of ferreting out crime,’ ” id. (quot-
+ing United States v. Johnson, 333 U.S. 10, 14 (1948)).
+
+            Even if the warrant application was sup-
+      ported by more than a “bare bones” affidavit, a
+      reviewing court may properly conclude that,
+      notwithstanding the deference that magistrates
+      deserve, the warrant was invalid because the
+      magistrate’s probable cause determination
+      reflected an improper analysis of the totality of
+      the circumstances.
+
+Id. at 915. In adopting the “totality of circumstances” test
+for probable cause in Illinois v. Gates, 462 U.S. 213, 229
+
+(1983), the Court held:
+
+           Sufficient information must be presented to
+      the magistrate to allow that official to determine
+      probable cause; his action cannot be a bare rat-
+      ification of the bare conclusions of others. In
+      order to ensure that such an abdication of the
+      magistrate’s duty does not occur, courts must
+      continue to conscientiously review the suffi-
+      ciency of affidavits on which warrants are
+      issued.
+
+See Malley v. Briggs, 475 U.S. 335 (1986) (officer may be
+civilly liable for executing a warrant that could not justi-
+fiably be relied on).
+
+     As to the veracity of the officer applying for a war-
+rant, the Court has said that the officer’s statement of
+
+                                      40
+
+probable cause is open to challenge for knowing or reck-
+less falsity, holding that “a flat ban on impeachment of
+veracity could denude the probable cause requirement of
+all! meaning.” Franks v. Delaware, 438 U.S. 154, 155-56
+(1978).
+
+     Similarly, the Court has never held that the method
+of conducting a search is beyond judicial review, either.
+In Terry v. Ohio, 392 U.S. 1, 15 (1968), the Court held that
+
+     courts still retain their traditional responsibility
+      to guard against police conduct which is over-
+      bearing or harassing, or which entrenches upon
+      personal security without the objective evidenti-
+      ary justification which the Constitution requires.
+      When such conduct is identified, it must be
+      condemned by the judiciary and its fruits must
+      be excluded from evidence in criminal trials.
+
+“[A] search which is reasonable at its inception may
+
+violate the Fourth Amendment by virtue of its intolerable
+intensity and scope . . . The scope of the search must be
+‘strictly tied to and justified by’ the circumstances which
+rendered its initiation permissible.” Id. at 17-19. The
+Court sanctioned a limited patdown for weapons where a
+reasonably prudent officer would be warranted in the
+belief, based on “specific and articulable facts,” id. at 21,
+and not on a mere “inchoate and unparticularized suspi-
+cion or ‘hunch,’ ” id. at 27, “that he is dealing with an
+armed and dangerous individual.” Id.
+
+      Finally, “[t}he manner in which a warrant is executed
+is subject to later judicial review as to its reasonableness.”
+
+Dalia v. United States, 441 U.S. 238, 258 (1979). See also
+Arizona v. Hicks, supra, reviewing an overintensive search.
+
+                                   41
+
+     Perhaps the closest case of all is Maryland v. Buie, 494
+U.S. 325 (1990), the protective sweep case. There, the state
+argued for a blanket rule, which this Court rejected. Id. at
+334 n. 2. The Buie Court held that “specific and articulable
+facts” demonstrating a potential danger to the officer
+were required to be shown before officers could conduct
+a protective sweep. Id. at 334, 336, 337. Buie rejected
+essentially the same justification made here:
+
+           The State’s argument that no level of objec-
+      tive justification should be required because of
+      “the danger that inheres in the in-home arrest
+      for a violent crime,” Brief for Petitioner 23, is
+      rebutted by Terry v. Ohio, 392 U.S. 1 (1968), itself.
+     The State argues that “[o]fficers facing the life
+      threatening situation of arresting a violent crim-
+     inal in the home should not be forced to pause
+     and ponder the legal subtleties associated with a
+     quantum of proof analysis,” Brief for Petitioner
+     23. But despite the danger that inheres in on-
+     the-street encounters and the need for police to
+     act quickly for their own safety, the Court in
+     Terry did not adopt a bright-line rule authoriz-
+     ing frisks for weapons in all confrontational
+      encounters. Even in high crime areas, where the
+      possibility that any given individual is armed is
+     significant, Terry requires reasonable, individu-
+     alized suspicion before a frisk for weapons can
+     be conducted. That approach is applied to the
+     protective sweep of a house.
+
+           We reject the State’s attempts to analogize
+      this case to Pennsylvania v. Mimms, 434 U.S. 106
+
+      (1977) (per curiam), and Michigan v. Summers,
+      452 U.S. 692 (1981). The intrusion in Mimms -
+
+     requiring the driver of a lawfully stopped vehi-
+
+      cle to exit the car — was “de minimis,” 434 U.S., at
+
+                                      42
+
+      111. Summers held that a search warrant for a
+     house carries with it the authority to detain its
+     occupants until the search is completed. The
+     State contends that this case is the “mirror
+     image” of Summers and that the arrest warrant
+     carried with it the authority to search for per-
+     sons who could interfere with the arrest. In that
+     case, however, the search warrant implied a
+     judicial determination that police had probable
+     cause to believe that someone in the home was
+     committing a crime. Here, the existence of the
+     arrest warrant implies nothing about whether
+      dangerous third parties will be found in the
+      arrestee’s house. Moreover, the intrusion in
+     Summers was less severe and much less suscept-
+     ible to exploitation than a protective sweep. A
+      more analogous case is Ybarra v. Illinois, 444 U.S.
+      85 (1979), in which we held that, although
+     armed with a warrant to search a bar and bar-
+     tender, the police could not frisk the bar’s
+     patrons absent individualized, reasonable suspi-
+     cion that the person to be frisked was armed
+      and presently dangerous. Here, too, the reason-
+     able suspicion standard - “one of the relatively
+     simple concepts embodied in the Fourth
+     Amendment,” United States v. Sokolow, 490 U.S. 1
+      (1989) — strikes the proper balance between offi-
+     cer safety and citizen privacy.
+
+     The leading case?° on the so-called blanket rule in
+
+knock-and-announce is People v. Gastelo, 67 Cal. 2d 586,
+588-89, 63 Cal. Rptr. 10, 12, 432 P.2d 706, 708 (1967), where
+Justice Traynor held that the particularity clause was also
+
+violated by a blanket rule:
+
+      20 2 Wayne R. LaFave, Search and Seizure § 4.8(d), at 611 (3rd
+ed. 1996).
+
+                                          43
+
+             Under the Fourth Amendment, a specific
+       showing must always be made to justify any
+      kind of police action tending to disturb the secu-
+      rity of the people in their homes. Unannounced
+       forcible entry is in itself a serious disturbance of
+       that security and cannot be justified on a blanket
+      basis. Otherwise the constitutional test of rea-
+      sonableness would turn only on practical expe-
+      diency, and the amendment’s primary safeguard
+      - the requirement of particularity - would be
+      lost. Just as the police must have sufficiently
+      particular reason to enter at all, so must they
+      have some particular reason to enter in the man-
+      ner chosen.
+
+(Illinois recently rejected a blanket rule under Wilson and
+applicable state law. People v. Krueger, 1996 WL 732035, 65
+U.S.L.W. 2443 (Ill. Dec. 19, 1996)).
+
+     Wisconsin initially rejected the blanket rule in State v.
+Cleveland, 118 Wis. 2d 615, 631 n. 16, 348 N.W.2d 512, 521
+
+n. 16 (1984). The court said
+
+           The officer must have knowledge of specific
+      facts which indicate that this particular person
+      will conduct himself or herself in this manner
+      when confronted by police. In this case, how-
+      ever, there was no information that the defen-
+      dant was armed or had taken other security
+
+       precautions.
+
+Neither the Richards nor Stevens decisions explained the
+
+legal principles upon which the blanket rule can comport
+
+with the Fourth Amendment. Indeed, in Richards, supra,
+
+at 849 n. 6, 549 N.W.2d at 521 n. 6, (J.A. 85) the court
+
+states that its “holding is based on the assumption that
+drug dealers will have weapons and pose a danger to
+
+officers ... ” The Richards court also stated that “[p]olice
+
+                                         44
+
+officers face an unquantifiable risk of violence every time
+they go into a house to execute a search warrant.” Id. at
+850, 549 N.W.2d at 223 (J.A. 86). Therefore, the Wisconsin
+Supreme Court has abandoned the knock-and-announce
+rule based on “assumption[s]” that are in turn based on
+risks that are “unquantifiable.”
+
+       D. The Wisconsin rule subverts judicial review
+             of reasonableness.
+
+     It is the function of trial and appellate courts to
+determine reasonableness in every case, and no case has
+dispensed with it as this blanket rule does. Leon and Gates
+show that deference to the magistrate is not boundless;
+rather, judicial review enables the courts to determine
+whether probable cause existed for the search. It is the
+fundamental function of the courts to review executive
+action under the separation of powers principle. Accord-
+ingly, reasonableness is always subject to review. Wilson
+v. Arkansas, supra, at 1919; Ornelas v. United States, 116
+S.Ct. 1657, 1662 (1996).
+
+     If this Court adopts Wisconsin’s position on the blan-
+ket rule, Wilson and Buie become meaningless abstrac-
+tions.
+
+       E. The standard should be reasonable suspicion
+              under Buie and “totality of the circumstances”
+              on review
+
+      The rules of Buie and Gates should apply: Officers
+must be able to point to specific and articulable facts
+which justify their entering without announcement under
+
+                 45
+
+any of the recognized exceptions to kiiock-and-announce.
+The court can look to the “totality of the circumstances”
+to see whether the police action was justified.
+
+                                                  S
+
+                 CONCLUSION
+
+     The judgment of the Wisconsin Supreme Court
+
+should be reversed.
+
+                 Respectfully submitted,
+
+                 Davip R. Karpe*
+                 P.O. Box 260218
+                 Madison, WI 53726
+                 (608) 255-2773
+
+                 *Counsel of Record
+
+                 JoHN Westey Hatt, Jr.
+                 523 West Third Street
+                 Little Rock, AR 72201
+                 (501) 371-9131
+
+Dated  February              Henry R. ScHuttz
+                             First Assistant Public Defender
+                             125 South Jefferson Street
+
+                           Green Bay, WI 54301
+
+                             (414) 448-5433
+
+                 11, 1997 Attorneys for Petitioner
+
+¥                                                                                                                                                     .
+
+ o                                                                                                                                                 7         -
+         9
+                                                                                                                                                      “fe
+
+                                                                                   ip hea 2?«aN Fp yan aA i
+
+ue                                                                                                                                                                                                                                                                4         ae                     a              °                   >  .
+
+                                                                                            ha      s                         tor %             k                                                    =                      o—le’.
+
+                                                                                                                                                                                                                                                                        ~-                                                        #
+
+                                                                                                                                 «                                                                &                                                                                       4                                    .
+
+                                                                                                                                                                »                                                    }
+
+                                                                                                                                                                                                        .  \                                                                                                                             J
+
+                                                                                                                                                         ;            a
+
+   ¥
+
+                                                                                                                              wr          a                 =y
+
+      +
+
+;                                                                                           :                                                         ? <7               -_                                                                                                 ,                                        ’
+                                                                                                                                                                                                                                        r os
+
+                                                                                                                                                                                                                                 4                                      We                                                            ~
+
+                                                                                                                                                                                                                            -_                                               art ®                       c                     vin
+
+                                             .                         _            I oa 4 4                  . YY i a |                                        >
+
+                     »                                                                                                                                . 7.                                              ts                                                              ag"
+
+         -_                                                                                      *                               »        -                              *
+
+        Pe                                                                             © iis                                  as
+
+    -                                                                                            ~     a                         a           aoe                es                                                             os                              4          =s a4                       i)             ts                  a
+
+       2                                                       ~                       ee                                                                                                                                                                               n
+                                                                                       Ricbda.=. 248                                                                                                                                                                    £ Ore Rie
+          : :                                                                                                                                                wf ae                                       = |                       ; }                                                                      i                               :
+              ~'                                                                                                                                                                                        Cee                 af Seas                                                                   ci etre
+                                                     om        Sar                 awa a                  Ve                         artes Loa
+   or:                                                                                                                                                                                                  “1                                                  &
+                                                  d                                 aS                 -                             e =
+       Ca                                                                                       os SDS ie                                                                                                - a                      Y f                                               4              a rc
+                                                ‘                                                                                                                                                        ar                                                                                        Cy eA -ieee
+                                                                                :      :                  :                                  — vn ase                                                                                                                   a)                      -
+                                                                    :               ye meas Sit: a?                                                                                                                                                                     (Shae te
+
+                                                               ey               *                                                            t‘ e                                                                        ee sy dite <i “ah i =y
+
+                                                                                                                                                                                                                                                                                                                   |
+
+                                                                             tate                                                   4 (ms
+
+                                                            a             1     Aai +7 a LY = :                                                                                                             7 cr Eye ae? At!                                                                       7] 7 he
+
+                                                ee                                 aes atesee eT are crc oT
+
+                                                 ; .=                  qe lyx Twit< rah aoe wae * 3pes, ie Siege
+
+                                                wR TALS,               AM                 es                                         ete              aba i ’                                                           29     fe 2
+                                                                       (ARsap                   a cee                                        eet                                                            a               1                                           ee =)                      oee | eehe bey ge
+                                                          ay —
+                                                                                                       c                                              a”                                                                                                                    nae                                                   ths:
+
+                                                                       e            =               s                            =                          » Bia                                              -            > .% wel oa                                                   7           hn
+
+                                                                                                                              €                                                                                                                                      ,      '
+
+                                                                                       " a}      —                                           oy ee
+                                                                                                i> > )                                                                                                                                                                                       ;
+
+                                                                                                                                                                                               »
+
+                                                                                TRENE|Dla Aedle Pt Teeth
+
+                                                                                          Pan eee   4                                        _                     9                                                                3                                           “a                 %                     vy A>
+                                                                       Ties                                                   Vee hs                            fya-,                                                be
+
+                                                         .                         | oe P                                                                                                                                                                                                          ees
+                                                                                aa          fue                               gif are, | ion                                                                                ote Re                                              cE                                                ee
+
+                                                                                            by heey                                                   Pace ey                                                                                                                                                  ;
+
+                                                               bh!                 vs heared te) Sate’ TE ete ae Hake}
+
+                                                                             d            oe     Ty a                                              7 Ares |                                                                 Ry el eee                                           ‘i                 Ts                          aed a>. 9
+
+                                                                                   az .          ‘aA                                                           as :                                                         .       <=                                              “d                -                  ‘        ‘
+                                                                                                                                                                                                                     Wk Se od tae ol ee Lh
+                                                                                         7                                 7                        rape
+
+                                                                                                                                                                                                                                                                                                                            a     Ss
+
+                                                                                                    ri pee                                                                                              ey Aas NRG vgFo e; e4_                                                                                                    ®
+
+                                                                                                                          _                                                                                                    Ay                                       7.             .
+
+                                                phe                 ase                        Pele nee                                                         mae ene                                                                                        at or
+
+                                                                                            ;                                                                                                                                       *
+                                                                                                                                                                                                                  eee: ae ee trie =
+
+                                         Al
+
+                              APPENDIX A
+
+                      STATUTES INVOLVED
+
+Wis. Stats. § 968.10 (1989-90):
+
+       Searches and seizures; when authorized
+
+            A search of a person, object or place may be
+      made and things may be seized when the search
+      is made:
+
+             (1) Incident to a lawful arrest;
+
+             (2) With consent;
+
+             (3) Pursuant to a valid search warrant;
+
+            (4) With the authority and within the
+     scope of a right of lawful inspection;
+
+             (5) Pursuant to a search during an autho-
+
+      rized temporary questioning as provided in s.
+
+      968.25; or
+
+            (6) As otherwise authorized by law.
+
+Wis. Stats. § 968.12 (1989-90):
+
+       Search warrant
+
+           (1) Description and issuance. A search
+      warrant is an order signed by a judge directing a
+      law enforcement officer to conduct a search of a
+      designated person, a designated object or a des-
+      ignated place for the purpose of seizing desig-
+      nated property or kinds of property. A judge
+      shall issue a search warrant if probable cause is
+      shown.
+
+            (2) Warrant upon affidavit. A search war-
+      rant may be based upon sworn complaint or
+      affidavit, or testimony recorded by a phono-
+       graphic reporter or under sub. (3)(d), showing
+
+                                  A2
+
+probable cause therefor. The complaint, affidavit
+or testimony may be upon information and
+belief.
+
+     (3) Warrant upon oral testimony.
+
+      (c) Issuance. If the judge determines that
+there is probable cause for the warrant, the
+
+judge shall order the issuance of a warrant by
+directing the person requesting the warrant to
+sign the judge’s name on the duplicate original
+warrant. In addition, the person shall sign his or
+her own name on the duplicate original warrant.
+The judge shall immediately sign the original
+warrant and enter on the face of the original
+warrant the exact time when the warrant was
+ordered to be issued. The finding of probable
+cause for a warrant upon oral testimony shall be
+based on the same kind of evidence as is suffi-
+cient for a warrant upon affidavit.
+
+      (e) Contents. The contents of a warrant
+
+upon oral testimony shall be the same as the
+contents of a warrant upon affidavit.
+
+      (f) Entry of time of execution. The person
+who executes the warrant shall enter the exact
+time of execution on the face of the duplicate
+original warrant.
+
+      (4) Location of search. A search warrant
+
+may authorize a search to be conducted any-
+where in the state and may be executed pur-
+suant to its terms anywhere in the state.
+
+                                      A3
+
+Wis. Stats. § 968.13 (1989-90):
+
+      Search warrant; property subject to seizure
+
+             (1) A search warrant may authorize the
+      seizure of the following:
+
+             (a) Contraband, which includes without
+      limitation because of enumeration lottery
+
+     tickets, gambling machines or other gambling
+      devices, lewd, obscene or indecent written mat-
+      ter, pictures, sound recordings or motion picture
+      films, forged money or written instruments and
+      the tools, dies, machines or materials for making
+     them, and controlled substances, as defined in s.
+     961.01(4), and controlled substance analogs, as
+
+      defined in s. 961.01(4m), and the implements for
+      smoking or injecting them. Gambling machines
+
+     or other gambling devices possessed by a ship-
+     building business that complies with s. 945.095
+     are not subject to this section.
+
+           (b) Anything which is the fruit of or has
+      been used in the commission of any crime.
+
+            (c) Anything other than documents which
+      may constitute evidence of any crime.
+
+            (d) Documents which may constitute evi-
+
+     dence of any crime, if probable cause is shown
+
+      that the documents sre under the control of a
+
+     person who is reasonably suspected to be con-
+
+      cerned in the commission of that crime under s.
+      939.05(2).
+
+            (2) In this section, “documents” includes,
+
+     but is not limited to, books, papers, records,
+      recordings, tapes, photographs, films or com-
+     puter or electronic data.
+
+                                         A4
+
+Wis. Stats. § 968.22 (1989-90):
+
+      Effect of technical irregularities
+
+            No evidence seized under a search warrant
+      shall be suppressed because of technical irregu-
+      larities not affecting the substantial rig of the
+     defendant.
+
+                                      AS
+
+                              APPENDIX B
+     U.S. Department of Justice, Uniform Crime Reports:
+Law Enforcement Officers Killed and Assaulted (UCR
+(year)), analysis of annual summaries of officer killings in
+drug raids:
+
+     In 1994, one officer died during a drug raid at a Los
+Angeles Hotel. The officers knocked and announced, and
+an assailant hiding under the bed shot the officer in the
+course of the search. The SWAT team killed the assailant.
+UCR (1994) 45.
+
+     In 1993, two officers died in drug raids and one died
+in a “buy-bust” situation. The drug raid killings were in
+Stockton, California and Shreveport, Louisiana. In both
+descriptions, the element of surprise had nothing to do
+with the killing; the officers were killed well after
+announcement by persons coming from inside rooms
+away from the room where entry occurred. UCR (1993) at
+41, 47. The “buy-bust” was in New York City, and the
+summary says nothing about when or where the shooting
+occurred in relation to a drug raid. Id. 49.
+
+     In 1992, three officers died in drug raids. In Palm-
+dale, CA. an officer was killed inside the house after
+announcement. In E] Paso County, Colorado, the officer
+was shot on entry. An officer in Shreveport was killed in a
+drug raid where he was shot by a person hidden in a
+bedroom. UCR (1992) 42, 47.
+
+      In 1991, no officer died during a drug raid. UCR
+(1991).
+
+      In 1990, two officers were killed. In West Sacramento,
+California an officer was shot pursuing a drug suspect to
+
+                                         A6é
+
+a bedroom after entry. An FBI agent was killed in St.
+Louis, Missouri after opening a bedroom door inside; the
+officer and his assailant shot simultaneously. UCR (1990)
+23 & 30.
+
+     In 1989, there were two deaths. In San Joaquin
+County, California, the slain officer, standing at the back
+window trying to divert the attention of the occupants,
+was shot from inside. A Titusville, Florida officer was
+shot entering a bedroom after the initial entry. UCR
+(1989) 26, 27
+
+     In 1988, there were three deaths during drug raids.
+An officer in Los Angeles County, California was killed,
+apparently on entry. An officer in Wichita, Kansas, was
+killed after entry by a suspect hidden in kitchen. A Bos-
+ton, Massachusetts officer was killed by a suspect shoot-
+ing through the door after forcible entry was attempted
+
+and failed (whether announcement occurred is not men-
+
+tioned). UCR (1988) 24, 29, 31.
+
+     In 1987, one officer died during a drug raid in Ft.
+Pierce, Florida. He was killed after entry when he fired at
+a suspect first and his gun jammed; the suspect returned
+fire. UCR (1987) 25.
+
+     In 1986, there were no officer deaths during drug
+
+raids. UCR (1986).
+
+     In 1985, there was one officer death during a drug
+raid in Westville, New Jersey: an officer was shot dead by
+a person hidden inside after police handcuffed the first
+
+arrestee. UCR (1985) 33.
+
+     In 1984, one officer was killed in a drug raid. The
+attempted forcible entry in Longview, Texas failed
+
+                                         A7
+
+because the door was held by a chain. The assailant shot
+through the opening. UCR (1984) 24.
+
+      In 1983, five officers perished in drug raids. An offi-
+cer in Townsend, Georgia, was stabbed in the back. A
+Pine Lawn, Missouri officer announced his presence,
+entered, and was shot. An Alameda, California officer
+was shot by a suspect who was leaving through a win-
+dow trying to escape. A Los Angeles, California, officer
+was shot while entering through a window. In Pittsburgh,
+Pennsylvania, an officer was shot during a raid where the
+first officer entered by ruse and lost her gun to the
+occupants. When the others tried to enter to get her, one
+got shot. UCR (1983) 23, 24, 26, 27, 32.
+
+     In 1982, one officer was killed during a drug raid in
+San Joaquin County, California. There was announcement
+and refusal, but the forced entry failed. The assailant
+
+opened the door and shot him. UCR (1982) 26.
+
+     In 1981, one officer was killed during a drug raid in
+Tampa, Florida. After announcement and entry, there was
+
+gunfire from the bedroom. UCR (1981) 28.
+
+      The UCR (1995) will be published shortly.
+

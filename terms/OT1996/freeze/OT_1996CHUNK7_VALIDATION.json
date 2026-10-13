@@ -1,0 +1,164 @@
+{
+  "task": "Run October Term 1996, chunk 7",
+  "status": "Eleven completed Court events integrated; Brown remains stopped. Operator Git verification and commit deferred as instructed.",
+  "court_event_cursor": "1997-05-12",
+  "term_coverage": {
+    "court_records": 82,
+    "admitted_sources": 3,
+    "ledger_rows": 85
+  },
+  "chunk_coverage": {
+    "completed": 11,
+    "stopped": 1,
+    "new_admitted_sources": 1
+  },
+  "stopped": {
+    "matter": "Board of County Commissioners of Bryan County v. Brown",
+    "blocker": "Missing Stone instruction whether to support or decline further argument on Monell; no supported majority for a judgment or further-consideration order.",
+    "new_court_record": false
+  },
+  "checks": {
+    "reviewed_non_git_check_term_adapter": "PASS; zero warnings; Git-object loop skipped explicitly",
+    "artifact_validator": "PASS; eleven public blocks and exact generated projections, links, freeze/runtime identity, Stone copy receipts and unchanged governing inputs",
+    "local_assembly_receipts": "PASS; all eleven final Record hashes match their saved local receipts",
+    "manifest": "PASS; eleven completed and one exact stopped matter",
+    "root_substantive_review": "Complete for all eleven Records, including approved Stone compatibility, controlling coalitions, qualifications, remedies, assignment and chronology",
+    "independent_assignment_and_preservation": "terms/OT1996/freeze/OT_1996CHUNK7_ASSIGNMENT_AND_PRESERVATION_VALIDATION.md"
+  },
+  "limits": [
+    "No Git command was executed. Commit objects, repository history and working-tree status were not inspected or verified.",
+    "Physical freeze files are saved; repository commitment remains for the operator.",
+    "No public Render output was produced; Render is a separate task.",
+    "The protected-file baseline excludes new chunk-7 artifacts and the four workspace projections; its exact scope is disclosed in the independent receipt.",
+    "Context-boundary limitations and their handling are documented in the control receipt and scoped validation artifacts."
+  ],
+  "records": [
+    {
+      "path": "terms/OT1996/records/Kadic_and_Doe_v_Karadzic_merits_1997-04-21.md",
+      "bytes": 46511,
+      "sha256": "2cb6e3e47630c915feba62ea231acf8f42cd7d4587164a1d585767c9281908e9"
+    },
+    {
+      "path": "terms/OT1996/records/Metropolitan_Life_v_Robertson_Ceco_merits_1997-04-21.md",
+      "bytes": 43825,
+      "sha256": "eb3da42dde5a7744221e9a1266183bcd36506c9beb5426197f865adaf3025f8c"
+    },
+    {
+      "path": "terms/OT1996/records/Pic_A_State_Pennsylvania_v_Reno_merits_1997-04-28.md",
+      "bytes": 29317,
+      "sha256": "db85a79bcad6cec9d24751d33fd391092b41dc1d4c7838417c2a79627285facb"
+    },
+    {
+      "path": "terms/OT1996/records/Richards_v_Wisconsin_merits_1997-04-28.md",
+      "bytes": 32668,
+      "sha256": "a9c3efc1ee4a0511b228d0a8cb7e4414b964ca9c733ec257214f653892bebc7e"
+    },
+    {
+      "path": "terms/OT1996/records/Strate_v_A_1_Contractors_merits_1997-04-28.md",
+      "bytes": 38200,
+      "sha256": "8478316af7436aecd03f5a3ce922153244d6d8c58b96d450dcb2e6db60e68bd3"
+    },
+    {
+      "path": "terms/OT1996/records/Timmons_v_Twin_Cities_Area_New_Party_merits_1997-04-28.md",
+      "bytes": 38117,
+      "sha256": "80a8b84cf5a2fe60ffe8bc8c9ab96a14c067093b720080e1f7319155fa38c1b0"
+    },
+    {
+      "path": "terms/OT1996/records/Doe_v_SEPTA_merits_1997-05-05.md",
+      "bytes": 30526,
+      "sha256": "c05bfd58668aff21689c58c488cb578032ff9096414dd363e5c4436120d44d58"
+    },
+    {
+      "path": "terms/OT1996/records/Harbor_Tug_and_Barge_v_Papai_merits_1997-05-12.md",
+      "bytes": 55790,
+      "sha256": "30be8ea0502c98db23c1ec3ab6b856d6f8fef6838930a28873d75c367ffe4ea7"
+    },
+    {
+      "path": "terms/OT1996/records/Inter_Modal_Rail_Employees_v_Atchison_merits_1997-05-12.md",
+      "bytes": 25567,
+      "sha256": "9bb23e5bcfbc9f6bf3669916fb8973989dcd183bc56722707041736933ed73f3"
+    },
+    {
+      "path": "terms/OT1996/records/Johnson_v_United_States_merits_1997-05-12.md",
+      "bytes": 29930,
+      "sha256": "57c37b024f1ddde41b5fdc7bb18da303d1f27689caff2f3aa40b55c659ec814f"
+    },
+    {
+      "path": "terms/OT1996/records/Lambrix_v_Singletary_merits_1997-05-12.md",
+      "bytes": 57696,
+      "sha256": "dcac44374c15198571269c8a503fa8b6edfd01567dd3f59354eabfbb53f71dc7"
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "terms/OT1996/render-inputs/OT_1996CHUNK7.md",
+      "bytes": 187183,
+      "sha256": "bdf1e7d1aba0835ff717e2a162feb179b2fca100491521bf1865c708010b6878"
+    },
+    {
+      "path": "terms/OT1996/freeze/OT_1996CHUNK7_ASSIGNMENT_AND_PRESERVATION_VALIDATION.md",
+      "bytes": 11546,
+      "sha256": "ac8944bbea4f1e80bb1c910c6f303afe9c998d31b4b557749c33eb219e65b61c"
+    },
+    {
+      "path": "terms/OT1996/freeze/OT_1996CHUNK7_72_73_ASSEMBLY_VALIDATION.json",
+      "bytes": 1977,
+      "sha256": "d6e375a524dcbaedaee6b1992dd494a9100bd091aa805bf666282a93d7087927"
+    },
+    {
+      "path": "terms/OT1996/freeze/OT_1996CHUNK7_75_79_ASSEMBLY_VALIDATION.json",
+      "bytes": 10724,
+      "sha256": "ff2e8e0ea556fee6da44c571406d6457516294b1cc04b8c1f777d3b7fa81016f"
+    },
+    {
+      "path": "terms/OT1996/freeze/OT_1996CHUNK7_80_83_ASSEMBLY_VALIDATION.json",
+      "bytes": 10230,
+      "sha256": "1a7d8f7f8f78b30cec76427a4bc6d5ae12acfe463b70413ebf4775da370c4f11"
+    },
+    {
+      "path": "terms/OT1996/workspace/manifest.md",
+      "bytes": 54122,
+      "sha256": "c554dfad27faa2abc91d8eb9ebde51baa3fdb10862592a0dd779c1ccb79c924e"
+    },
+    {
+      "path": "terms/OT1996/workspace/ledger.md",
+      "bytes": 52494,
+      "sha256": "b46e2e13463a776673d1ce63a3682bc904028e274353a4b94642938b9036f48f"
+    },
+    {
+      "path": "terms/OT1996/workspace/continuity.md",
+      "bytes": 898711,
+      "sha256": "2dc72cb544af571dfc0c4c1e1c19c9404cc692020eee2bd43f3655ee0f4a409b"
+    },
+    {
+      "path": "terms/OT1996/workspace/neutral-projection.md",
+      "bytes": 868792,
+      "sha256": "20f4c603ee4d6ac7befd54544af9b157939f0e177cb7283b132fc696d291fd23"
+    },
+    {
+      "path": "terms/OT1996/freeze/OT_1996CHUNK7_COMMITMENTS.md",
+      "bytes": 293737,
+      "sha256": "03cae5398b49206b58b6bf26fcad4a3ea1e298351343cdd632fd153b9714d650"
+    },
+    {
+      "path": "terms/OT1996/freeze/OT_1996CHUNK7_RECONCILED.md",
+      "bytes": 400324,
+      "sha256": "38cf81e7edc200c5109fe7b3e6986749f1498b34f976ef76dc28a431db1a000e"
+    },
+    {
+      "path": "terms/OT1996/freeze/OT_1996CHUNK7_83_MANDATE_RECONCILIATION_AUDIT.md",
+      "bytes": 28754,
+      "sha256": "28d4456587f08a8b93eafdd9616c2e5f373d19265b43fe876642b3c526d5275b"
+    },
+    {
+      "path": "terms/OT1996/freeze/OT_1996CHUNK7_74_ASSEMBLY_STOP.md",
+      "bytes": 1769,
+      "sha256": "c47474ad3313a86c6db5d1fed072479bca3582fd7b731dd8c3435446d387fff1"
+    },
+    {
+      "path": "terms/OT1996/freeze/OT_1996CHUNK7_ROLLING_LAW_REVIEW.md",
+      "bytes": 5835,
+      "sha256": "6d4f0f2889875c29fba4255e6db42df891f9513ff1255002608765fcd9e53e7f"
+    }
+  ]
+}

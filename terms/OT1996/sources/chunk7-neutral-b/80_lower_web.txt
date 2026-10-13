@@ -1,0 +1,236 @@
+67 F.3d 203 - Papai v. Harbor Tug & Barge Co. — 67 F.3d 203 | OpenJurist (https://openjurist.org/67/f3d/203/papai-v-harbor-tug-and-barge-company)
+citeturn7view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn4view0","lineno":160}); Total lines: 431
+L108: 486】, cite37†116 L.Ed.2d 405 (1991)), and the district court reaffirmed that plaintiff was not a seaman on the basis that he did not have the necessary permanent connection with the vessel.
+L109: cite38†¶16 L110: 
+L111: After the district court granted summary judgment on plaintiff's cite24†Jones Act claim on May 29, 1990, plaintiff filed a compensation claim under the LHWCA against defendant as his employer. On June 2, 1992, a hearing was held before an Administrative Law Judge. The ALJ issued a written Decision and Order in favor of compensation for plaintiff on August 27, 1992. The August 27, 1992, Decision and Order was not appealed and is, thus, final.
+L112: 
+L113: cite39†¶17 L114: After a court trial in the matter before the district court, judgment was entered in favor of defendant and against plaintiffs on December 29, 1992. Plaintiffs filed their notice of appeal on January 20, 1993 challenging the district court's grant of summary judgment on the cite24†Jones Act claim and the judgment rendered after the court trial on the claim under Section Five of the LHWCA and common law negligence.
+L115: This court holds that it was error to grant summary judgment on plaintiff's cite24†Jones Act claim and that said claim is not rendered moot by reason of plaintiff's receipt of compensation benefits under the LHWCA.
+L116: II. JURISDICTION
+L117: 
+L118: cite40†¶18 L119: 
+L120: This court has subject matter jurisdiction pursuant to cite41†28 U.S.C. Sec. 1291 .
+L121: 
+L122: III. DISCUSSION
+L123: 
+L124: A. Seaman Status Under the cite24†Jones Act L125: 
+L126: cite42†¶19 L127: 
+L128: Seaman status, which is required for recovery under the cite24†Jones Act , is a mixed question of law and fact. Nevertheless, it may be determined by summary judgment in appropriate circumstances. Wilander, 498 U.S. at 355-56, 111 S.Ct. at 817-18.
+L129: 
+L130: cite43†¶20 L131: Formulation of the seaman status test was recently addressed by the Supreme Court in cite11†Chandris, Inc. v. Latsis, --- U.S. ---- , cite11†115 S.Ct. 2172 , cite44†132 L.Ed.2d 314 (1995):
+L132: 
+L133: cite45†¶21 L134: 
+L135: [W]e think that the essential requirements for seaman status are twofold. First, as we emphasized in Wilander, "an employee's duties must contribut[e] to the function of the vessel or to the accomplishment of its mission." ...
+L136: 
+L137: cite46†¶22 L138: Second, and most important for our purposes here, a seaman must have a connection to a cite47†vessel in navigation (or to an identifiable group of such vessels) that is substantial in terms of both its duration and its nature.
+L139: 
+L140: cite48†¶23 L141: 
+L142: … *
+L143: 
+L144: cite49†¶24 L145: In our views, "the total circumstances of an individual's employment must be weighed to determine whether he had a sufficient relation to the navigation of vessels and the perils attendant thereon." [Citation.] The duration of a worker's connection to a vessel and the nature of the worker's activities, taken together, determine whether a maritime employee is a seaman because the ultimate inquiry is whether the worker in question is a member of the vessel's crew or simply a land-based employee who happens to be working on the vessel at a given time.
+L146: cite50†¶25 L147: 
+L148: … *
+L149: 
+L150: cite51†¶26 L151: [S]eaman status is not merely a temporal concept, but we also believe that it necessarily includes a temporal element. A maritime worker who spends only a small fraction of his working time on board a vessel is fundamentally land-based and therefore not a member of the vessel's crews, regardless of what his duties are. Naturally, substantiality in this context is determined by reference to the period covered by the cite24†Jones Act plaintiff's maritime employment, rather than by some absolute measure.
+L152: cite52†¶27 L153: 
+L154: Id. at 2191.
+L155: 
+L156: cite53†¶28 L157: Thus, the inquiry is not whether plaintiff had a permanent connection with the vessel. The proper inquiry is whether plaintiff's relationship with a vessel (or group of vessels) was substantial in terms of duration and nature, which requires consideration of the total circumstances of his employment. Scrutiny of the "total circumstances" is, necessarily, fact specific. On one hand, the status of a worker may change by a change in work assignment.
+L158: One the other hand, it may be necessary to examine the work performed by the employee while employed by different employers during the relevant time period. As was stated by the Supreme Court in Chandris:
+L159: cite54†¶29 L160: 
+L161: [W]e see no reason to limit the seaman status inquiry ... exclusively to an examination of the overall course of a worker's service with a particular employer.... When a maritime worker's basic assignment changes, his seaman status may change as well.... If a maritime employee receives a new work assignment in which his essential duties are changed, he is entitled to have the assessment of the substantiality of his vessel-related work made on the basis of his activities in his new position.
+L162: cite55†¶30 L163: 
+L164: Id. at 2191-92.
+L165: 
+L166: cite56†¶31 L167: There would appear to be no reason that a group of employers who join together to obtain a common labor pool on which they draw by means of a union hiring hall (in this case, the Inland Boatman's Union hiring hall), should not be treated as a common employer for purposes of determining a maritime worker's seaman status.
+L168: If the type of work a maritime worker customarily performs would entitle him to seaman status if performed for a single employer, the worker should not be deprived of that status simply because the industry operates under a daily assignment rather than a permanent employment system.cite57†3 Under such circumstances, a maritime worker who regularly performs seaman's work is entitled to seaman status.
+L169: Moreover, in the case before us, the plaintiff actually worked for Harbor Tug and Barge Company on far more than a single occasion. As we have noted earlier, he worked for that company on a dozen occasions over the two and a half month period preceding his injury. This circumstance may in itself provide a sufficient connection.
+L170: cite58†¶32 L171: 
+L172: In short, all the circumstances surrounding the work performed by plaintiff for defendant as a deckhand prior to (and after, if any) the accident, as well as work performed for other employers during the relevant time should be considered in making the determination.
+L173: 
+L174: cite59†¶33 L175: It was error for cite18†the District Court to have granted summary judgment on plaintiff's cite24†Jones Act claim since issues of fact remained as to plaintiff's connection with the vessel.cite60†4 B. Effect of Receiving LHWCA Benefits on Seaman Status
+L176: 
+L177: cite61†¶34 L178: 
+L179: Given that the cite24†Jones Act and the LHWCA are mutually exclusive, the issue arises whether plaintiff's receipt of benefits under the LHWCA precludes him from being a seaman under the cite24†Jones Act .cite62†5 L180: 
+L181: cite63†¶35 L182: It is by now 'universally accepted' that an employee who receives voluntary payments under the LHWCA without a formal award is not barred from subsequently seeking relief under the cite24†Jones Act . [Citations omitted.]
+L183: 
+L184: cite64†¶36 L185: 
+L186: cite37†Southwest Marine, Inc. v. Gizoni , cite65†502 U.S. 81, 90 -92, cite66†112 S.Ct. 486, 493 -94.
+L187: 
+L188: cite67†¶37 L189: The distinction between Gizoni and the case at bar is that here plaintiff's LHWCA claim was fully adjudicated before the ALJ who rendered a final decision. That the LHWCA claim was never actually litigated was the basis for the Gizoni Court's holding that receipt of LHWCA benefits did not automatically preclude subsequent litigation under the cite24†Jones Act .
+L190: However, the Court went on to recognize further support for its holding, which is applicable here: "Moreover, the LHWCA clearly does not comprehend such a preclusive effect, as it specifically provides that any amounts paid to an employee for the same injury, disability, or death pursuant to the cite24†Jones Act shall be credited against any liability imposed by the LHWCA" Id., at 91-92, 112 S.Ct. at 494.
+L191: The Supreme Court further stated in a footnote addressing an equitable estoppel argument made by an amicus brief, "[w]here full compensation credit removes the threat of double recovery, the critical element of detrimental reliance does not appear. [Citations omitted.] Argument by amicus would force injured maritime workers to an cite68†election of remedies we do not believe Congress to have intended." Id., at 92, n. 5, 112 S.Ct. at 494, n. 5.
+L192: cite69†¶38 L193: In determining whether the prior litigation of plaintiff's LHWCA claim bars his subsequent cite24†Jones Act claim, we are mindful of the reasoning expressed by the Gizoni Court and are further concerned with the fairness in imposing such a bar where it could work a disincentive on the part of the employer to vigorously litigate its defense in the LHWCA action.
+L194: This is so because the parties are on the opposite sides of the seaman issue under the LHWCA as compared with their positions under the cite24†Jones Act . Furthermore, imposing such a bar would result in subjecting to suit an employer who immediately and voluntarily begins compensation payments while immunizing from suit an employer who forces his employee to seek compensation through litigation.
+L195: cite70†¶39 L196: 
+L197: As was recognized in The Law of Admiralty,
+L198: 
+L199: cite71†¶40 L200: The provision of compensation during [the] period [a cite24†Jones Act action is pending,] would serve the function of the traditional maritime remedy of maintenance and cure (which has always been thought of as supplemental to the damage recovery).
+L201: It is only because of a series of accidents in our legal history that the payment of medical expenses and a living allowance to an injured worker is thought to be entirely consistent with his damage recovery if the payment is called maintenance and cure but inconsistent with the damage recovery if it is called compensation.
+L202: cite72†¶41 L203: 
+L204: Grant Gilmore & Charles L. Black, Jr., The Law of Admiralty 435 (2d ed. 1975).
+L205: 
+L206: cite73†¶42 L207: 
+L208: Recognizing that a bar to relitigation would not serve the purpose for which it is usually employed since the parties are forced to take inconsistent positions under the cite24†Jones Act and the LHWCA and extending the reasoning of the Gizoni Court to the next logical step, we hold that plaintiff's litigation of his LHWCA claim does not bar his subsequent cite24†Jones Act claim.cite74†6 L209: 
+L210: IV. CONCLUSION
+L211: 
+L212: cite75†¶43 L213: Granting summary judgment on plaintiff's cite24†Jones Act claim was error. The determination of seaman status under the cite24†Jones Act involves consideration of both the duration and nature of the plaintiff's connection to the vessel, which necessitates an inquiry into all of the facts surrounding the plaintiff's employment. Furthermore, plaintiff's pursuit of his compensation claim under the LHWCA does not render his cite24†Jones Act claim moot.
+L214: Accordingly, the grant of partial summary judgment on plaintiff's cite24†Jones Act claim is reversed and this matter is remanded for further proceedings consistent herewith.
+L215: POOLE, Circuit Judge, dissenting:
+L216: 
+L217: cite76†¶44 L218: 
+L219: Because I cannot agree with my colleagues' construction of cite11†Chandris, Inc. v. Latsis, --- U.S. ---- , cite11†115 S.Ct. 2172 , cite11†132 L.Ed.2d 314 (1995), as it applies to this case, I respectfully dissent.
+L220: 
+L221: cite77†¶45 L222: This case hinges on the construction of the "connection to a vessel" requirement for defining seamen under the cite24†Jones Act . We are blessed to have as an aid a recent Delphic pronouncement, the Supreme Court's decision in Chandris. As the majority reads Chandris, "[t]he proper inquiry is whether plaintiff's relationship with a vessel (or group of vessels) was substantial in terms of duration and nature, which requires consideration of the total circumstances of his employment." See supra at 206.
+L223: So far, so good. We agree over what relationship a seaman must have--a relationship substantial in both duration and nature.
+L224: cite78†¶46 L225: 
+L226: But with what must a seaman have that relationship? It is here I believe my colleagues have sailed off course. Relying on Chandris, the majority concludes that "it may be necessary to examine the work performed by the employee while employed by different employers during the relevant time period." See supra at 206. In one stroke, perhaps without even fully realizing it, the majority vitiates the "connection to a vessel" requirement.
+L227: 
+L228: cite79†¶47 L229: * The line between LHWCA coverage and cite24†Jones Act coverage recognizes "the fundamental distinction between land-based and sea-based maritime employees." Chandris, --- U.S. at ----, 115 S.Ct. at 2185. "The latter, who owe their allegiance to a vessel and not solely to a land-based employer, are seamen." McDermott Int'l, cite80†Inc. v. Wilander , cite80†498 U.S. 337, 347 , cite81†111 S.Ct. 807, 813 , cite80†112 L.Ed.2d 866 (1991).
+L230: While all those who do the ship's work are eligible for seaman's status, the vessel connection requirement serves the critical function of "separat[ing] the sea-based maritime employees who are entitled to cite24†Jones Act protection from those land-based workers who have only a transitory or sporadic connection to a vessel in navigation, and therefore whose employment does not regularly expose them to the cite82†perils of the sea ." Chandris, --- U.S. at ----, 115 S.Ct. at 2190.
+L231: cite83†¶48 L232: It is not necessary that a seaman have allegiance only to a single vessel. Thirty-five years ago, the Fifth Circuit, the leading circuit on admiralty law, recognized that the cite24†Jones Act could still apply to a maritime worker who was " 'assigned permanently to' several specific vessels 'or perform(s) a substantial part of his work on the' several specified 'vessel(s).' " cite84†Braniff v. Jackson Ave.-Gretna Ferry, Inc. , cite85†280 F.2d 523, 528 (5th Cir.1960) (quoting 【86†Offshore Co. v.
+--------------------------------------------------------------------------------
+67 F.3d 203 - Papai v. Harbor Tug & Barge Co. — 67 F.3d 203 | OpenJurist (https://openjurist.org/67/f3d/203/papai-v-harbor-tug-and-barge-company)
+citeturn7view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn4view0","lineno":275}); Total lines: 431
+L242: cite93†¶51 L243: 
+L244: By fleet we mean an identifiable group of vessels acting together or under one control. We reject the notion that fleet of vessels in this context means any group of vessels an employee happens to work aboard. Unless fleet is given its ordinary meaning, the fundamental distinction between members of a crew and transitory maritime workers such as longshoremen is totally obliterated.
+L245: 
+L246: cite94†¶52 L247: cite95†Barrett v. Chevron, U.S.A., Inc. , cite95†781 F.2d 1067 (5th Cir.1986) (en banc) (footnote omitted); accord cite96†Bach v. Trident Steamship Co. , cite97†920 F.2d 322, 324 (5th Cir.), vacated and remanded, cite98†500 U.S. 949 , cite99†111 S.Ct. 2253 , cite100†114 L.Ed.2d 706 reaff'd on remand, cite96†947 F.2d 1290 (5th Cir.1991).
+L248: 
+L249: cite101†¶53 L250: The key to the Fleet Seaman Doctrine is that the seaman maintain the employment relationship with the same employer. The term 'fleet' refers to the fleet of vessels owned by the employer, not the fleet of vessels on which the employee has worked.
+L251: 
+L252: cite102†¶54 L253: 
+L254: cite103†Reeves v. Mobile Dredging & Pumping Co. , cite104†26 F.3d 1247, 1256 (3d Cir.1994).cite105†1 L255: 
+L256: cite106†¶55 L257: What inspires this departure? The following language from Chandris, which elsewhere clearly endorses the fleet doctrine: "On the other hand, we see no reason to limit the seaman status inquiry, as petitioners contend, exclusively to an examination of the overall course of a worker's service with a particular employer." --- U.S. at ----, cite107†115 S.Ct. at 2191 .
+L258: But as that opinion's subsequent discussion makes clear, the emphasis in this statement is on the words "overall course," not "particular employer." Chandris goes on to discuss the fact that it may sometimes be necessary to judge connection based not on the overall course of an employee's work with an employer, but based only on her latest or current assignment with that employer. cite104†Id. at ---- - ----, cite107†115 S.Ct. at 2191 -92.
+L259: cite108†¶56 L260: 
+L261: In short, nothing in Chandris' language permits us to abandon the requirement that a cite24†Jones Act seaman be substantially connected to, at the least, "an identifiable group" of vessels. Id. at ----, 115 S.Ct. at 2190. By so doing, we "totally obliterate[ ]" "the fundamental distinction between members of a crew and transitory maritime workers." Barrett, 781 F.2d at 1074.
+L262: 
+L263: II
+L264: 
+L265: cite109†¶57 L266: Applying the proper fleet requirement, I cannot agree that the district court erred in granting summary judgment on Papai's cite24†Jones Act claim. The district court did not explain its reasoning, but in my view, the ALJ who decided Papai's LHWCA claim had it right:
+L267: 
+L268: cite110†¶58 L269: Although some of the work performed by the claimant is the type of work that might be performed by a member of a ship's crew, the evidence also clearly indicates that at the time of the claimant's injury he was a "land-based" worker and therefore is entitled to seek a remedy for his injury under the Longshore Act [and prohibited from seeking a remedy under the cite24†Jones Act ].
+L270: For example, the claimant's testimony indicates that all of his jobs were obtained by going to a union hiring hall on a daily basis and waiting to be assigned work according to seniority. Tr. at 33. The claimant's testimony also indicates that none of his jobs lasted more than two or three days at a time, and that, as a result, he had a variety of different employers and worked on a variety of different ships. Tr. at 32, 33 and CX 16-18.
+L271: Since the claimant was not assigned to work on any particular ship, he lived on the shore, not on a ship. Tr. at 33. Although the claimant had worked aboard the P.T. Barrow before the date on which he was injured, the job the claimant was performing at the time of his injury was of only one day's duration. Tr. at 31, 66. It is obvious from these facts that the claimant's assignment to any particular vessel or fleet of vessels was random, sporadic and transitory.
+L272: Given this lack of any permanent connection to any vessel or fleet of vessels, it necessarily follows that the claimant cannot be considered as a member of the crew of any ship or fleet of ships [and thus, not a seaman].
+L273: cite111†¶59 L274: ALJ 8/27/92 Order at 5. Seaman's status is a mixed question of law and fact, but "summary judgment or a directed verdict is mandated where the facts and the law will reasonably support only one conclusion." Wilander, 498 U.S. at 356, 111 S.Ct. at 818. This is such a case. Because Papai's contact with any vessel or vessels could only be described as "transitory or sporadic," Chandris, --- U.S. at ----, 115 S.Ct.
+L275: at 2190, the district court correctly determined that Papai was not a seaman as a matter of law.
+L276: cite112†¶60 L277: As the Supreme Court has explained, "Traditional seaman's remedies ... have been 'universally recognized as ... growing out of the status of the seaman and his peculiar relationship to the vessel, and as a feature of the maritime law compensating or offsetting the special hazards and disadvantages to which they who go down to the sea in ships are subjected.'.... It is this distinction that Congress recognized in the LHWCA and the cite24†Jones Act ." Wilander, 498 U.S. at 354, 111 S.Ct.
+L278: at 817 (quoting cite113†Seas Shipping Co. v. Sieracki , cite113†328 U.S. 85, 104 , cite114†66 S.Ct. 872, 882 , cite113†90 L.Ed. 1099 (1946) (Stone, C.J., dissenting)). John Papai, who woke up in his own bed, arrived at the hiring hall to learn he was to paint the Point Barrow for a day, and was back in his own bed by night, cannot seriously be described as having that "peculiar relationship" with the Point Barrow or Harbor Tug's fleet so as to be entitled to cite24†Jones Act protection.
+L279: Because the majority believes that peculiar relationship to be no longer required, I respectfully dissent.
+L280: cite115†1 L281: 
+L282: Honorable Robert M. Takasugi, United States District Judge for the Central District of California, sitting by designation
+L283: 
+L284: cite116†2 L285: Because this is an appeal from the grant of summary judgment in favor of the defendant, the issue is whether genuine issues of material fact were remaining such that the grant of summary judgment was in error. As such, the facts relevant on appeal are not limited to those established and undisputed below but, rather, also include those facts that were sufficiently supported by evidence to raise a genuine issue of their existence.
+L286: Accordingly, the facts discussed herein include both those that were established and undisputed below as well as those that were sufficiently supported by evidence to be considered in dispute
+L287: cite117†3 L288: 
+L289: Under the dissent's view, a master, mate, or pilot who works on tug boats every day is not a seaman simply because he receives his assignments through a hiring hall from which a group of vessels have collectively agreed to obtain employees and he may be assigned to different vessels on a daily or weekly basis. We simply do not read the "group of vessels" doctrine so narrowly. In any event, the plaintiff in this case worked a substantial period of time for a particular vessel owner
+L290: 
+L291: cite118†4 L292: The negligence issue will therefore be decided under the cite24†Jones Act , which applies a standard more favorable to the claimant, see cite119†Ferguson v. Moore-McCormack Lines, Inc. , cite120†352 U.S. 521, 523 , cite121†77 S.Ct. 457, 458 , cite119†1 L.Ed.2d 511 (1957) (the defendant is liable if "even the slightest" negligence on the defendant's part caused the claimant's injury), and is a question for the jury to decide. See id. at 523-24, cite119†77 S.Ct. at 458 L293: 
+L294: cite122†5 L295: We take judicial notice of the August 27, 1992, Decision and Order of the ALJ. Defendant has supplied us with a copy and requests that we take judicial notice of said ruling pursuant to cite123†Rule 201 of the Federal Rules of Evidence . Although plaintiff disputes the propriety of taking judicial notice, he does not dispute that the ALJ issued the August 27, 1992, Decision and Order in his LHWCA compensation claim case and that the document supplied by defendant is a true copy thereof.
+L296: cite123†Rule 201 provides for judicial notice of adjudicative facts that are, inter alia, "capable of accurate and ready determination by resort to sources whose accuracy cannot reasonably be questioned." Such "[j]udicial notice may be taken at any stage of the proceeding," (cite123†Rule 201(f) ) including on appeal (cite124†United States v. Gonzalez , cite125†442 F.2d 698, 707 (2d Cir.1970), certiorari denied cite126†404 U.S. 845 , cite126†92 S.Ct. 146 , cite127†30 L.Ed.2d 81 (1971); cite128†Sinaloa Lake Owners Association v.
+L297: City of Simi Valley , cite129†882 F.2d 1398, 1403 n. 2 (9th Cir.1989), certiorari denied, cite130†494 U.S. 1016 , cite130†110 S.Ct. 1317 , cite131†108 L.Ed.2d 493 (1990); cite132†Bryant v. Carleson , cite133†444 F.2d 353, 357 -8 (9th Cir.), certiorari denied cite134†404 U.S. 967 , cite134†92 S.Ct. 344 , cite135†30 L.Ed.2d 287 (1971)); and is mandatory "if requested by a party and [the court is] supplied with the necessary information." cite123†Rule 201(d) L298: Judicial notice is properly taken of orders and decisions made by other courts or administrative agencies. cite132†Bryant v. Carleson , supra; Assembly of State of cite136†California v. U.S. Department of Commerce , cite137†797 F.Supp. 1554, 1558 -59 (E.D.Cal.), affirmed cite138†968 F.2d 916 (9th Cir.1992); cite139†Missouri Pacific Railroad Company v. United Transportation Union , General Committee of Adjustment, cite140†580 F.Supp.
+L299: 1490 (E.D.Mo.1984), affirmed cite139†782 F.2d 107 (8th Cir.1986), certiorari denied cite141†482 U.S. 927 , cite141†107 S.Ct. 3209 , cite142†96 L.Ed.2d 696 (1987).
+L300: Plaintiff's request for an opportunity to be heard on the propriety of taking judicial notice pursuant to cite123†Rule 201(e) has been sufficiently satisfied in that he has had the opportunity to address the matter in his reply brief and at oral argument.
+L301: 
+L302: cite143†6 L303: 
+L304: cite144†Figueroa v. Campbell Industries , cite144†45 F.3d 311 (9th Cir.1995), which involved a maritime worker whose LHWCA claim was compromised and settled before a cite24†Jones Act action was filed, reached the same result for different reasons
+L305: cite145†1 L306: Moreover, our recent decision in Gizoni cites with approval the Fifth Circuit's description of its fleet doctrine in cite146†Campo v. Electro-Coal Transfer Corp. , cite147†970 F.2d 51, 52 (5th Cir.1992). Gizoni, cite89†56 F.3d at 1141 . In explaining the fleet doctrine, Campo expressly rejects the approach the majority takes today.
+L307: Campo, cite148†970 F.2d at 52 (" 'We reject the notion that [a] fleet of vessels in this context means any group of vessels an employee happens to work aboard.' " (quoting Barrett, cite149†781 F.2d at 1074 ))
+L308: Share Print
+L309: 
+L310: Download
+L311: 
+L312: .txt PDF
+L313: 
+L314: Copy
+L315: 
+L316: [Button: URL][Button: Citation Link][Button: Bluebook]
+L317: 
+L318: Embed on your site
+L319: 
+L320: iframe Markdown Preview card Button
+L321: 
+L322: Hover to preview · click to copy the code
+L323: 
+L324: Cite on Wikipediacite150†Search Wikipedia →†en.wikipedia.org L325: 
+L326: Report a problem
+L327: 
+L328: What went wrong?
+L329: 
+L330: 10 to 2,000 characters. 0 so far, 2,000 left.
+L331: 
+L332: Your email (optional)[Input: Only if you would like a reply]
+L333: 
+L334: Website[Input]
+L335: We store your message, the page address, and your email only if you give it. We do not store your IP address.
+L336: 
+L337: [Button: Send][Button: Cancel ]
+L338: ### Status
+L339: 
+L340: Reversed by cite6†Harbor Tug and Barge Company v. Papai · cite151†Supreme Court of the United States L341: 
+L342: ### Court
+L343: 
+L344: cite4†Ninth Circuit Court of Appeals L345: 
+L346: ### Panel
+L347: 
+L348:   * cite152†Robert Mitsuhiro Takasugi L349: 
+L350: cite153†Majority opinion → L351: 
+L352:   * cite154†Cecil F. Poole L353: 
+L354:   * cite155†Stephen Roy Reinhardt L355: 
+L356: ### Parties
+L357: 
+L358:   * appellant:John PAPAI, Joanna Papai
+L359:   * appellee:HARBOR TUG AND BARGE COMPANY
+L360: ### Counsel
+L361: 
+L362:   * Thomas J. Boyle, Law Offices of Thomas J. Boyle, San Francisco, CA, for plaintiffs-appellants.
+L363: 
+L364:   * Eric Danoff, Graham & James, San Francisco, CA, for defendant-appellee.
+L365: ### In the law dictionary
+L366: 
+L367: Defined terms used in this case
+L368: 
+L369:   * cite156†election of remedies L370:   * cite157†hiring hall L371:   * cite158†perils of the sea L372:   * cite159†substantial connection L373:   * cite160†vessel in navigation L374: 
+L375: /67/f3d/203 · cite161†.json · Public domain
+L376: 
+L377: The empirical record of United States law. State and Federal court opinions, the U.S. Code, a multi-source dictionary, judges and courts - sourced from the public domain, analyzed in the open.
+L378: 
+L379: U.S. Government work · public domain · not legal advice
+L380: With special thanks to
+L381: 
+L382: Browse the record
+L383: 
+L384:   * cite162†Cases L385:   * cite163†Code L386:   * cite164†Law Dictionary L387:   * cite165†Federal Judges L388:   * cite166†Courts L389:   * cite167†Law Schools L390:   * cite168†Named Statutes L391:   * cite169†Founding Documents L392:   * cite170†Books L393:   * cite171†Citation Checker L394: 
+L395: For developers + AI agents
+L396: 
+L397:   * cite172†Developers & API L398:   * cite173†/llms.txt L399:   * cite174†JSON API L400: cite175†♥ Support OpenJurist L401: 
+L402: © 2026 OpenJurist♿ Accessibility
+L403: ## Accessibility
+L404: 
+L405: [Button: × ]
+L406: 
+L407: These preferences are saved in your browser.
+L408: 
+L409: Text size
+L410: 
+L411: [Button: A− ]100%[Button: A+ ]
+L412: 
+L413: High contrast Darker text, underlined links[Input]Readable font A wider, more legible typeface[Input]Reduce motion Minimise animations and transitions[Input]
+L414: 
+L415: [Button: Reset to defaults ] cite176†Accessibility statement L416: 
+L417: cite177†Contact cite178†Returns & Refunds cite179†Attributions cite180†Terms of Use cite181†Privacy Policy L418: 
+L419: Report a problem with this page
+L420: 
+L421: What went wrong?
+L422: 10 to 2,000 characters. 0 so far, 2,000 left.
+L423: 
+L424: Your email (optional)[Input: Only if you would like a reply]
+L425: 
+L426: Website[Input]
+L427: 
+L428: We store your message, the page address, and your email only if you give it. We do not store your IP address.
+L429: 
+L430: [Button: Send][Button: Cancel ]
+

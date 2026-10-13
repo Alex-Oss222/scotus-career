@@ -1,0 +1,147 @@
+
+
+    Lambrix v. Singletary, Secretary, Florida Dep't of Corrections, 520 U.S. 518 (1997)
+
+LII
+
+Supreme Court
+
+Lambrix v. Singletary, Secretary, Florida Dep't of Corrections (96-5658), 520 U.S. 518 (1997)
+
+Syllabus 
+  Dissent 
+ [ Stevens ]Dissent 
+ [ O'Connor ]Opinion 
+ [ Scalia ]
+
+HTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect version
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See United States v. Detroit Timber & Lumber
+ Co., 200
+ U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+Syllabus
+
+LAMBRIX v. SINGLETARY,
+ SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS
+
+certiorari to the united states
+ court of appeals for the eleventh circuit
+
+No. 96-5658.
+ Argued January 15, 1997 -- Decided
+ May 12, 1997
+
+In the sentencing phase of the trial at which petitioner Lambrix was
+ convicted on two counts of first degree murder, the Florida state court
+ jury rendered an advisory verdict recommending death sentences on both
+ counts. Finding numerous aggravating circumstances in connection with both
+ murders, and no mitigating circumstances as to either, the trial court
+ sentenced Lambrix to death on both counts. After his conviction and sentence
+ were upheld on direct and collateral review by the Florida courts, he filed
+ a habeas petition in the Federal District Court, which rejected all of
+ his claims. While his appeal was pending before the Eleventh Circuit, this
+ Court decided in Espinosa v. Florida, 505
+ U.S. 1079, that if the sentencing judge in a "weighing" State (i.e.,
+ a State such as Florida that requires specified aggravating circumstances
+ to be weighed against any mitigating circumstances at a capital trial's
+ sentencing phase) is required to give deference to a jury's advisory sentencing
+ recommendation, then neither the jury nor the judge is constitutionally
+ permitted to weigh invalid aggravating circumstances. Since one of Lambrix's
+ claims was that his sentencing jury was improperly instructed on the "especially
+ heinous, atrocious, or cruel" aggravator, Espinosa had obvious relevance
+ to his habeas petition. The Eleventh Circuit held its proceedings in abeyance
+ to permit Lambrix to present his Espinosa claim to the Florida Supreme
+ Court, which rejected the claim without considering its merits on the ground
+ that the claim was procedurally barred. Without even acknowledging the
+ procedural bar, the Eleventh Circuit denied relief, ruling that Espinosa
+ announced a "new rule" which cannot be applied retroactively on federal
+ habeas under Teague v. Lane, 489
+ U.S. 288.
+
+Held:
+
+1. Although the question whether
+ a federal court should resolve a claim of procedural bar before
+ considering a claim of Teague bar has not previously been presented,
+ the Court's opinions--most particularly, Coleman v. Thompson,
+ 501
+ U.S. 722--suggest that the procedural bar issue should ordinarily be
+ considered first. The Court nonetheless chooses not to resolve this case
+ on the procedural bar ground. Lambrix asserts several reasons why procedural
+ bar does not apply, the validity of which is more appropriately determined
+ by the lower federal courts, which are more familiar with the procedural
+ practices of the States in which they sit. Rather than prolong this litigation
+ by a remand, the Court proceeds to decide the question presented. Pp. 3-6.
+
+2. A prisoner whose conviction became final before Espinosa
+ is foreclosed from relying on that decision in a federal habeas proceeding.
+ Pp. 6-22.
+
+(a) To apply Teague, a federal habeas court must: (1) determine
+ the date on which the defendant's conviction became final; (2) survey the
+ legal landscape as it existed on that date to determine whether a state
+ court then considering the defendant's claim would have felt compelled
+ by existing precedent to conclude that the rule the defendant seeks was
+ constitutionally required; and (3) if not, consider whether the relief
+ sought falls within one of two narrow exceptions to nonretroactivity. Pp.
+ 6-8.
+
+(b) A survey of the legal landscape as of the date that Lambrix's
+ conviction became final shows that Espinosa was not dictated by
+ then existing precedent, but announced a "new rule" as defined in Teague.
+ It is significant that Espinosa, supra, at 1082, cited only a single
+ case in support of its central conclusion, Baldwin v. Alabama,
+ 472
+ U.S. 372, 382, and introduced that lone citation with a "cf."--an introductory
+ signal indicating authority that supports the point in dictum or by analogy.
+ Baldwin states, on the page that Espinosa cites, 472 U. S.,
+ at 382, that the defendant's Espinosa like argument "conceivably
+ might have merit" in circumstances not present in that case. The decisions
+ relied on most heavily by Lambrix--Godfrey v. Georgia, 446
+ U.S. 420; Maynard v. Cartwright, 486
+ U.S. 356; and Clemons v. Mississippi, 494
+ U.S. 738--do not dictate the result ultimately reached in Espinosa.
+ Rather, a close examination of the Florida death penalty scheme, in light
+ of cases such as Proffitt v. Florida, 428
+ U.S. 242, 253 (joint opinion); id., at 260-261 (White, J., concurring
+ in judgment); and Spaziano v. Florida, 468
+ U.S. 447, 451, 466, indicates that a reasonable jurist considering
+ the matter at the time Lambrix's sentence became final could have reached
+ a result different from Espinosa. That conclusion is confirmed by
+ Walton v. Arizona, 497
+ U.S. 639, 653-654. The fact that Espinosa was handed down as
+ a per curiam without oral argument is insignificant, since the decision
+ followed by just three weeks Sochor v. Florida, 504
+ U.S. 527, in which the identical issue was fully briefed and argued,
+ but could not be decided for jurisdictional reasons. Pp. 9-21.
+
+(c) Espinosa's new rule does not fall within either of
+ the exceptions to this Court's nonretroactivity doctrine. The first exception
+ plainly has no application, since Espinosa neither decriminalizes
+ a class of conduct nor prohibits the imposition of capital punishment on
+ a particular class of persons. E.g., Saffle v. Parks, 494
+ U.S. 484, 494-495. Lambrix does not contend that the second exception--for
+ watershed rules of criminal procedure implicating the criminal proceeding's
+ fundamental fairness and accuracy--applies to Espinosa errors, and
+ Sawyer v. Smith, 497
+ U.S. 227, 241-244, makes clear that it does not. Pp. 21-22.
+
+72 F. 3d 1500,
+ affirmed.
+
+Scalia, J., delivered the opinion
+ of the Court, in which Rehnquist, C. J., and Kennedy, Souter, and Thomas,
+ JJ., joined. Stevens, J., filed a dissenting opinion, in which Ginsburg
+ and Breyer, JJ., joined. O'Connor, J., filed a dissenting opinion.
+

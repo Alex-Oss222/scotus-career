@@ -1,0 +1,439 @@
+{
+  "sources": [
+    {
+      "source": "terms\\OT1996\\sources\\chunk7-filings\\micro_IA40385013_0713 02. Petition for Writ of Certiorari.pdf",
+      "source_sha256": "c72f2a911dcefad866d97ba1bb9366063176fdd182200a7341bd1d0fdfd2ba70",
+      "reflow": "tmp\\chunk7_Papai_02_reflow.txt",
+      "reflow_sha256": "1e4ee053a95691ca3992673a43484353456d9e27a56dad498d225ec10919e3ec",
+      "pages": 52,
+      "word_counts": [
+        92,
+        68,
+        78,
+        218,
+        305,
+        287,
+        321,
+        270,
+        552,
+        629,
+        527,
+        533,
+        544,
+        515,
+        537,
+        740,
+        633,
+        610,
+        595,
+        571,
+        542,
+        535,
+        177,
+        471,
+        468,
+        404,
+        681,
+        545,
+        509,
+        574,
+        530,
+        451,
+        170,
+        368,
+        326,
+        257,
+        233,
+        148,
+        654,
+        680,
+        680,
+        619,
+        618,
+        622,
+        713,
+        607,
+        647,
+        694,
+        633,
+        371,
+        133,
+        137
+      ],
+      "characters": 144843,
+      "method": "Every PDF word exactly once; landscape pages partitioned at page x midpoint by word center; original block/line/word sequence within each side; left before right.",
+      "durable_reflow": "terms\\OT1996\\sources\\chunk7-filings\\Papai_02_pyside_CONTROL.txt",
+      "read_intervals": [
+        [
+          0,
+          144843
+        ]
+      ],
+      "read_pdf_pages": [
+        1,
+        52
+      ],
+      "source_role": "petition, appendices containing complete lower opinions/orders and ALJ decision"
+    },
+    {
+      "source": "terms\\OT1996\\sources\\chunk7-filings\\micro_IA40385013_0713 06. Joint Appendix.pdf",
+      "source_sha256": "4ebc259a604571fa1d80ac6c56b637802100b0ccb3a006f25c40e41c18985bf7",
+      "reflow": "tmp\\chunk7_Papai_06_reflow.txt",
+      "reflow_sha256": "8835a47d7890188029ca6559104b939de60e3da5edadacb5d9a755e2fe17fd38",
+      "pages": 48,
+      "word_counts": [
+        137,
+        179,
+        265,
+        406,
+        374,
+        429,
+        351,
+        393,
+        268,
+        380,
+        491,
+        229,
+        321,
+        370,
+        446,
+        434,
+        438,
+        469,
+        424,
+        507,
+        504,
+        510,
+        463,
+        497,
+        482,
+        529,
+        454,
+        265,
+        431,
+        584,
+        468,
+        44,
+        73,
+        87,
+        197,
+        188,
+        518,
+        242,
+        431,
+        378,
+        562,
+        519,
+        476,
+        235,
+        326,
+        651,
+        672,
+        114
+      ],
+      "characters": 102997,
+      "method": "Every PDF word exactly once; landscape pages partitioned at page x midpoint by word center; original block/line/word sequence within each side; left before right.",
+      "durable_reflow": "terms\\OT1996\\sources\\chunk7-filings\\Papai_06_pyside_CONTROL.txt",
+      "read_intervals": [
+        [
+          0,
+          102997
+        ]
+      ],
+      "read_pdf_pages": [
+        1,
+        48
+      ],
+      "source_role": "Joint Appendix, including excerpts of depositions, contracts and trial rulings"
+    },
+    {
+      "source": "terms\\OT1996\\sources\\chunk7-filings\\micro_IA40385013_0713 07. Opposition Brief.pdf",
+      "source_sha256": "d743970a7070adb100d0dca67d6fc538c4e83fcfdb8574da165b14857748a16f",
+      "reflow": "tmp\\chunk7_Papai_07_reflow.txt",
+      "reflow_sha256": "1d08ce8505b7cbf729067449c2e1a19167a76bc1bd82fd4d85e7083dd1a13f3d",
+      "pages": 28,
+      "word_counts": [
+        110,
+        67,
+        214,
+        459,
+        640,
+        388,
+        609,
+        667,
+        684,
+        643,
+        679,
+        672,
+        654,
+        697,
+        654,
+        720,
+        673,
+        710,
+        717,
+        727,
+        667,
+        668,
+        693,
+        640,
+        649,
+        714,
+        649,
+        58
+      ],
+      "characters": 95301,
+      "method": "Every PDF word exactly once; landscape pages partitioned at page x midpoint by word center; original block/line/word sequence within each side; left before right.",
+      "durable_reflow": "terms\\OT1996\\sources\\chunk7-filings\\Papai_07_pyside_CONTROL.txt",
+      "read_intervals": [
+        [
+          0,
+          95301
+        ]
+      ],
+      "read_pdf_pages": [
+        1,
+        28
+      ],
+      "source_role": "BRIEF FOR PETITIONER (despite collection Opposition Brief label)"
+    }
+  ],
+  "excerpts": [
+    {
+      "source": "02",
+      "title": "Petition appendix 1a: lower-court caption and route",
+      "start": 59862,
+      "end": 60645,
+      "sha256": "beb7769c20f3cce4e0f15d556c950d3ece8bcb2330784f637aebed7cfaa0eade"
+    },
+    {
+      "source": "02",
+      "title": "Petition appendix 2a\u201319a: complete lower appellate merits opinion, footnotes and dissent",
+      "start": 60645,
+      "end": 88853,
+      "sha256": "ac32c6aff681fe234877af9d52f782d0697327a74d23ba6181f84b6d32a359a8"
+    },
+    {
+      "source": "02",
+      "title": "Petition appendix 22a\u201329a: complete district status orders and final judgment",
+      "start": 89941,
+      "end": 97264,
+      "sha256": "2b171a47a9d9631f9d58d7880deff14c86ba310e8b41580c3749c1ef428f478d"
+    },
+    {
+      "source": "02",
+      "title": "Petition appendix 32a\u201337a: ALJ hearing, issues, evidence, jurisdiction and status findings",
+      "start": 98210,
+      "end": 109890,
+      "sha256": "b2bec538318e3837698c77418506cbf75f5d907a51997e2c61e8dfeb2f29beb9"
+    },
+    {
+      "source": "02",
+      "title": "Petition appendix 54a\u201358a: ALJ ordered benefits, filing/service, and reproduced statutory fragments",
+      "start": 140847,
+      "end": 144843,
+      "sha256": "310d8a618bdc08d068f83f87b7e9ccb5fa8905c5f42d38f9edd7af6fbc786cfb"
+    },
+    {
+      "source": "06",
+      "title": "JA 30\u201339: general actual work; 70 percent testimony; prior Pt Barrow work; supervisor",
+      "start": 35652,
+      "end": 48064,
+      "sha256": "1508e2a1dd6701838e82b0bbd4a247bdd94c462dcc0698721c3f663f30dc2e62"
+    },
+    {
+      "source": "06",
+      "title": "JA 42\u201345: standby hiring account; immediate prior maintenance job corrected to Sea Fox March 3",
+      "start": 50323,
+      "end": 55277,
+      "sha256": "567cce79c762fa575d16bb38b7478fa7e38da94289556196bb9ede4814a555cc"
+    },
+    {
+      "source": "06",
+      "title": "JA 46\u201351: painting assignment, limits, engines, and accident testimony",
+      "start": 55277,
+      "end": 61631,
+      "sha256": "dc941cf1dccccbb51858f2269698d983e2bc16c05c849aef386f1d801d69cba2"
+    },
+    {
+      "source": "06",
+      "title": "JA 54\u201358: employer statement and complete contrary Secchitano declaration",
+      "start": 64136,
+      "end": 70227,
+      "sha256": "fbdd859faa54da0753174a749238eb99878741a6c501f619897c4719929c785a"
+    },
+    {
+      "source": "06",
+      "title": "JA 68\u201371: Secchitano deposition including dispatch time and qualifications (contract opening included)",
+      "start": 77814,
+      "end": 82358,
+      "sha256": "91b03e970a4c3231d7de0163279b7552ba25a62cc6d68096e0902a6b3f3b4b01"
+    },
+    {
+      "source": "06",
+      "title": "JA 72\u201379: reproduced contractual provisions and letters with their printed omissions",
+      "start": 82358,
+      "end": 93108,
+      "sha256": "5c4d2cacf4b442361caf92ba977afcfcb94494a07a10cee11f852736c31e0bfd"
+    },
+    {
+      "source": "06",
+      "title": "JA 80\u201386: respondent statement and complete excerpted district trial ruling",
+      "start": 93108,
+      "end": 102997,
+      "sha256": "223e320d35fa187b0b115a17b6d73d6f7c7e996330dbcf5253b1d75d440643b5"
+    },
+    {
+      "source": "07",
+      "title": "Petitioner merits 18\u201331: exclusivity, alternative preclusion, credits, limits and remedy (status-section opening included)",
+      "start": 42748,
+      "end": 71487,
+      "sha256": "ecdc9e3dd4d206aea314b5edc60189a67a0ffe65d700faecd71f1a31259b7e0d"
+    },
+    {
+      "source": "07",
+      "title": "Petitioner merits 38\u201343: changed-assignment argument, prior jobs, summary-judgment remedy",
+      "start": 83096,
+      "end": 94904,
+      "sha256": "3d8b9cb59cbde17bf36a639be7ca51287124ae74c6e0ed63b409e23a566305dc"
+    }
+  ],
+  "extract_file": "terms\\OT1996\\sources\\chunk7-neutral-b\\Papai_primary_extracts.md",
+  "extract_file_sha256": "ddd39ea8580bf95388d144dbae3dff15c768944e5103d6d197d84f7334a5da8d",
+  "every_excerpt_rechecked": true,
+  "visual_checks": {
+    "06": [
+      31,
+      33,
+      34,
+      35,
+      45,
+      46
+    ],
+    "07": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      24,
+      25
+    ],
+    "02": [
+      44,
+      50
+    ]
+  },
+  "note": "Full reflow coverage is a reader record, not automated legal validation. Source 06 is itself a printed selection of the underlying lower record; unsupplied deposition and hearing intervals are not claimed read.",
+  "statutes": [
+    {
+      "source": "terms\\OT1996\\sources\\chunk7-statutes\\USC33_902_1994.txt",
+      "source_sha256": "ec1e898a35cce2339843ab7c895203a828221a17d29535e1d702d7c95d98ed5e",
+      "read_intervals": [
+        [
+          0,
+          16240
+        ]
+      ],
+      "copied_interval": [
+        404,
+        8804
+      ],
+      "copied_sha256": "a2d141b68485065da8fbf89d118fc35bbde1c54ef04eaee96b25c195cdfc1007"
+    },
+    {
+      "source": "terms\\OT1996\\sources\\chunk7-statutes\\USC33_903_1994.txt",
+      "source_sha256": "b41a103b1fd9939953ab42613dc7ab9889708adababcdc86ce2d5e6a3f7329cd",
+      "read_intervals": [
+        [
+          0,
+          6447
+        ]
+      ],
+      "copied_interval": [
+        401,
+        3056
+      ],
+      "copied_sha256": "71717360c2fc5061ce5cfcfc2c9bc3472f0a1f0654093f4ce9dd144938b4c0b1"
+    },
+    {
+      "source": "terms\\OT1996\\sources\\chunk7-statutes\\USC33_905_1994.txt",
+      "source_sha256": "eded6fff8a363813478621d69c4aed82831304f2ecd3208687ee5374628f5bb0",
+      "read_intervals": [
+        [
+          0,
+          6163
+        ]
+      ],
+      "copied_interval": [
+        419,
+        4005
+      ],
+      "copied_sha256": "f688e3862d8df16a328ac985aceece4da9f62513047f8a976320b7339e32969d"
+    },
+    {
+      "source": "terms\\OT1996\\sources\\chunk7-statutes\\USC33_913_1994.txt",
+      "source_sha256": "2e39ae8529cf3b6185a3ff684ce8d1b259997cb58ba3a08084c5cd9c02537c93",
+      "read_intervals": [
+        [
+          0,
+          4509
+        ]
+      ],
+      "copied_interval": [
+        409,
+        3190
+      ],
+      "copied_sha256": "15440dc9d04b18bafdb7a1db02270a642d01d208c3d129efaf643b59fa416f1b"
+    },
+    {
+      "source": "terms\\OT1996\\sources\\chunk7-statutes\\USC33_921_1994.txt",
+      "source_sha256": "e7d959404cc8445b1f83552e9faba926859d8d3eafa95273afbab9c4cce057bd",
+      "read_intervals": [
+        [
+          0,
+          9544
+        ]
+      ],
+      "copied_interval": [
+        422,
+        6628
+      ],
+      "copied_sha256": "12a05c666532f2e415e5319c9a4074cfc326135de45268275db5b7365806b14d"
+    },
+    {
+      "source": "terms\\OT1996\\sources\\chunk7-statutes\\USC33_922_1994.txt",
+      "source_sha256": "7e3e95d3ae9c16d1ea030de986bdea0209cb5982013c0c5e0a88b23e053538ba",
+      "read_intervals": [
+        [
+          0,
+          3565
+        ]
+      ],
+      "copied_interval": [
+        415,
+        1996
+      ],
+      "copied_sha256": "a7730bee3e805f4a27c4c14db3863379c04415124d9b6c7da08fb48f938f6553"
+    }
+  ],
+  "statutory_extract_file": "terms\\OT1996\\sources\\chunk7-neutral-b\\Papai_statutory_extracts.md",
+  "statutory_extract_sha256": "acd5d8f8303f52a790317e641fe28ae766266161dab6bb96a44a871832e34853",
+  "inherited_root_handoffs": [
+    {
+      "path": "terms\\OT1996\\freeze\\OT_1996CHUNK7_80_RESPONDENT_REPLY_SOURCE_HANDOFF.md",
+      "sha256": "b726b85803132cc60e12dcf22de17f0a53dae777e59d2999c67148792b62977b",
+      "basis": "Root full-source reading and clean handoff; originals 08/09 not personally reread by assigned 02/06/07 reader."
+    },
+    {
+      "path": "terms\\OT1996\\sources\\chunk7-neutral-b\\Papai_respondent_reply_extracts.md",
+      "sha256": "151421484dd809f7dfa84b31ac800898c312dc8f2426f457f7244ff76d1c1ed4",
+      "basis": "Root full-source reading and clean handoff; originals 08/09 not personally reread by assigned 02/06/07 reader."
+    },
+    {
+      "path": "terms\\OT1996\\freeze\\OT_1996CHUNK7_80_ROOT_SOURCE_COPY_CONTROL.json",
+      "sha256": "d8abd4318923a229dfd4fdf7733489974b723236d6cb2cc51c875bf934ddb48c",
+      "basis": "Root full-source reading and clean handoff; originals 08/09 not personally reread by assigned 02/06/07 reader."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+
+  
+    TWIN CITIES AREA NEW PARTY, Appellant, v. Lou McKENNA, Director, Ramsey County Department of Property Records and Revenue; Joan Anderson-Growe, Secretary of State, State of Minnesota, Appellees.
+
+
+    No. 94-3417.
+
+
+    United States Court of Appeals, Eighth Circuit.
+
+
+    Submitted May 18, 1995.
+
+
+    Decided Jan. 5, 1996.
+
+
+    
+      *197Cornish F. Hitchcock, Washington, DC, argued (Kenneth E. Tilsen, David C. Vladeck, Joel Rogers and Sarah E. Siskind, on the brief), for appellant.
+
+
+    Mark B. Levinger, Asst. Attorney General, St. Paul, MN, argued, for appellees.
+
+
+    Before RICHARD S. ARNOLD, Chief Judge, and WOOD * and FAGG, Circuit Judges.
+
+
+    
+      *
+       The HONORABLE HARLINGTON WOOD, JR., United States Circuit Judge for the Seventh Circuit, sitting by designation.
+
+
+    
+  
+  
+    FAGG, Circuit Judge.
+
+
+    In this ease, we must decide whether Minnesota can constitutionally prevent a minor political party from nominating its chosen candidate on the ground the candidate is another party’s nominee, even though the candidate consents to the minor party’s nomination and the other party does not object. See Minn.Stat. § 204B.06 subd. 1(b) (1994); id. § 204B.04 subd. 2.
+
+
+    The facts are undisputed. In April 1994, the Twin Cities Area New Party, a legitimate minor political party under Minnesota law, see id. § 200.02 subd. 7, voted to nominate Andy Dawkins, the incumbent Democratic-Farm-Labor (DFL) state representative in House District 65A, as the New Party’s candidate for that office in the November 1994 general election. The New Party believed Dawkins would best represent and deliver the principles of the New Party’s platform. Dawkins, who faced no opposition in the upcoming DFL primary election and was thus ensured the DFL nomination, accepted the New Party’s nomination and signed an affidavit of candidacy for the New Party. See id. § 204B.06 (requiring all candidates to file affidavit of candidacy). The DFL did not object to the New Party’s nomination of Dawkins. The New Party prepared a nominating petition with the required number of signatures. Id. § 204B.03 (providing for minor party nomination through nominating petitions rather than primaries); see id. § 204B.07; id. § 204B.08.
+
+
+    When the New Party attempted to file Dawkins’s affidavit and the nominating petition, however, the Secretary of State’s office rejected them because Dawkins had filed an affidavit of candidacy for the DFL party, a major political party in Minnesota. Thus, Dawkins’s New Party affidavit did not state he had “no other affidavit on file as a candidate ... at the ... next ensuing general election,” as Minnesota law requires. Id. § 204B.06 subd. 1(b). Dawkins’s candidacy on the New Party ticket was also prohibited under a Minnesota statute that provides, with exceptions inapplicable here, “No individual who seeks nomination for any partisan ... office at a primary shall be nominated for the same office by nominating petition.” Id. § 204B.04 subd. 2.
+
+
+    After the rejection of its nominating petition, the Twin Cities Area New Party brought this action challenging the laws preventing Dawkins’s nomination, and the district court upheld the laws in granting summary judgment to Minnesota Secretary of State Joan Anderson-Growe, the official in charge of administering state elections, and Lou McKenna, a Minnesota county director in charge of county elections. Twin Cities Area New Party v. McKenna, 863 F.Supp. 988 (D.Minn.1994). The New Party appeals.
+
+
+    Although the New Party’s nomination of a candidate already nominated by a major political party may appear unconventional to many present-day voters, the practice dates back to nineteenth century politics. The practice, called “multiple party nomination” or “fusion,” is the nomination by more than *198one political party of the same candidate for the same office in the same general election. William R. Kirschner, Note, Fusion and the Associational Rights of Minor Political Parties, 95 Colum.L.Rev. 683, 687 (1995). A person who votes for a candidate nominated by multiple parties simply chooses between casting the vote on one party line or another. General election votes that the candidate receives on each party’s line are added together to decide the overall winner. Id. Thus, as without multiple party nomination, the person who receives the most votes wins the general election.
+
+
+    Multiple party nomination was widely practiced in state and national elections throughout the 1800s. Peter H. Argersinger, “A Place on the Ballot”: Fusion Politics and Antifusion Laws, 85 Am.Hist.Rev. 287, 288 (1980). Following the national emergence of a third party and its extensive fusion with a major party in the 1892 presidential campaign, the parties in power in state legislatures started to ban multiple party nomination in both state and national elections to squelch the threat posed by the opposition’s combined voting force. Id. at 302. Minnesota and about ten other states enacted the bans around 1900. Id. By preventing multiple party nomination, the bans ended the importance and existence of significant third parties. Id. at 303.
+
+
+    Although multiple party nomination is prohibited today, either directly or indirectly, in about forty states and the District of Columbia, the practice is still permitted in ten states, including New York. Kirschner, 95 Colum.L.Rev. at 685 nn. 13 & 14. Where multiple party nomination is allowed, the practice plays a significant role in modern elections. Many prominent national, state, and city leaders, including Ronald Reagan, John F. Kennedy, Franklin D. Roosevelt, Earl Warren, and Fiorello LaGuardia, have won significant elections at least partially because they appeared on the general election ballot as the candidate for a minor party in addition to a major party. Id. at 683 & n. 2. For example, in the 1980 presidential race in New York, Jimmy Carter received more votes as a Democrat than Ronald Reagan did as a Republican, but Reagan’s additional votes on the Conservative Party line allowed him to carry the state. Id.
+    
+
+
+    The legal standards that control our review are well-settled. A state’s broad power to regulate the time, place, and manner of elections does not eliminate the state’s duty to observe its citizens’ First Amendment rights to political association. Eu v. San Francisco County Democratic Cent. Com., 489 U.S. 214, 222, 109 S.Ct. 1013, 1019-20, 103 L.Ed.2d 271 (1989). To decide a state election law’s constitutionality, we first consider whether it burdens First Amendment rights. Id. If so, the state must justify the law with a corresponding interest. See id. When the burden on First Amendment rights is severe, the state’s interest must be compelling and the law must be narrowly tailored to serve the state’s interest. See id.; Norman v. Reed, 502 U.S. 279, 288-89, 112 S.Ct. 698, 704-06, 116 L.Ed.2d 711 (1992).
+
+
+    Minnesota’s statutes precluding multiple party nomination unquestionably burden the New Party’s core associational rights. Political parties enjoy freedom “to select a ‘standard bearer who best represents the party’s ideologies and preferences.’ ” Eu, 489 U.S. at 224, 109 S.Ct. at 1021 (quoted case omitted). Parties have the right “to select their own candidate.” Id. at 230, 109 S.Ct. at 1024 (quoting with approval Tashjian v. Republican Party of Conn., 479 U.S. 208, 235-36, 107 S.Ct. 544, 559-60, 93 L.Ed.2d 514 (1986) (Scalia, J., dissenting)). Parties also have an associational right to “broaden the base of public participation in and support for [their] activities.” Tashjian, 479 U.S. at 214, 107 S.Ct. at 548.
+
+
+    The burden on the New Party’s assoeia-tional rights is severe. The New Party cannot nominate its chosen candidate when the candidate has been nominated by another party despite having the candidate’s and the other party’s blessing. The State’s simplistic view that the New Party can just pick someone else does not lessen the burden on the New Party’s right to nominate its candidate of choice. See Norman, 502 U.S. at 289, 112 S.Ct. at 705-06 (law preventing group from using established political party’s name with party’s consent severely burdened group). *199As in Norman, the burden here is severe because Minnesota’s laws keep the NewParty from developing consensual political alliances and thus broadening the base of public participation in and support for its activities. History shows that minor parties have played a significant role in the electoral system where multiple party nomination is legal, but have no meaningful influence where multiple party nomination is banned. See Kir-sehner, 95 Colum.L.Rev. at 700-04. This is so because a party’s ability to establish itself as a durable, influential player in the political arena depends on the ability to elect candidates to office. And the ability of minor parties to elect candidates depends on the parties’ ability to form political alliances. When a minor party and a major party nominate the same candidate and the candidate is elected because of the votes cast on the minor party line, the minor party voters have sent an important message to the candidate and the major party, which gets attention for the minor party’s platform. By foreclosing a consensual multiple party nomination, Minnesota’s statutes force the New Party to make a no-win choice. New Party members must either cast their votes for candidates with no realistic chance of winning, defect from their party and vote for a major party candidate who does, or decline to vote at all.
+
+
+    Minnesota’s ban on multiple party nomination is broader than necessary to serve the State’s asserted interests, regardless of their importance. Minnesota asserts the statutes are necessary because without them, minor party candidates would just ride the coattails of major party candidates, disrupting the two-party political system as we know it. Minnesota is concerned about internal discord within the two major parties and major party splintering. The New Party responds that to avoid these problems, Minnesota need only require the consent of the candidate and the candidate’s party before the minor party can nominate the candidate. We agree. By merely rewriting the laws to require formal consent, Minnesota can address its concerns without suppressing the influence of small parties. Norman, 502 U.S. at 290, 112 S.Ct. at 706. Minnesota has no authority to protect a major party from internal discord and splintering resulting from its own decision to allow a minor party to nominate the major party’s candidate. Tashjian, 479 U.S. at 224, 107 S.Ct. at 553-54. The “State ... may not constitutionally substitute its own judgment for that of the [major] [p]arty.” Id. Minnesota’s interest in maintaining a stable political system simply does not give the State license to frustrate consensual political alliances. We realize “splintered parties and unrestrained factionalism may do significant damage to the fabric of government,” Storer v. Brown, 415 U.S. 724, 736, 94 S.Ct. 1274, 1282, 39 L.Ed.2d 714 (1974), but Minnesota’s concerns that all multiple party nominations would cause such ruin are misplaced. Indeed, rather than jeopardizing the integrity of the election system, consensual multiple party nomination may invigorate it by fostering more competition, participation, and representation in American politics. As James Madison observed, when the variety and number of political parties increases, the chance for oppression, factionalism, and non-skeptical acceptance of ideas decreases. Kirschner, 95 Colum.L.Rev. at 712 n. 213.
+
+
+    The State’s concerns about voter confusion can also be dealt with in less restrictive ways. The State worries that voters would be confused at the polls by seeing a candidate’s name on more than one party line. This confusion could be alleviated by simple explanations in the ballot directions to cast the ballot for the candidate on one party line or the other. The State also believes it would be difficult for the voters to understand where a candidate stands on issues when the candidate’s name appears twice on a ballot, and voters will be misled by party labels. The State undoubtedly has a legitimate interest in “ ‘fostering informed and educated expressions of the popular will in a general election.’” Tashjian, 479 U.S. at 220, 107 S.Ct. at 551 (quoting Anderson v. Celebrezze, 460 U.S. 780, 796, 103 S.Ct. 1564, 1573-74, 75 L.Ed.2d 547 (1983)). A consensual multiple party nomination informs voters rather than misleads them, however. If a major party and a minor party believe the same person is the best candidate and would best deliver on their platforms, multiple party nomination brings their political alliance into the open *200and helps the voters understand what the candidate stands for. See Norman, 502 U.S. at 290, 112 S.Ct. at 706 (misrepresentation easily avoided by requiring established political party’s formal consent to use of its name by likeminded candidates).
+
+
+    The Supreme Court has recognized that party labels “provide a shorthand designation of the views of party candidates on matters of public concern, [and] the identification of candidates with particular parties plays a role in the process by which voters inform themselves for the exercise of the franchise [to vote].” Tashjian, 479 U.S. at 220, 107 S.Ct. at 552. For example, a candidate’s ballot listing on the Right to Life Party ticket gives a voter more specific information about the candidate’s views than a ballot listing on a major party ticket alone. Essentially, Minnesota suggests multiple party nomination would confuse voters by giving them more information. The Supreme Court teaches, however, that courts must skeptically view a state’s claim that it is enhancing voters’ ability to make wise decisions by restricting the flow of information to them. Id. at 221, 107 S.Ct. at 552. Indeed, neither the record nor history reveal any evidence that multiple party nominations have ever caused any type of confusion among voters, in Minnesota or anywhere else. See Kirschner, 95 Colum.L.Rev. at 707-08 n. 176.
+
+
+    The State’s remaining concerns about multiple party nomination are simply unjustified in this ease. The potential problem of overcrowded ballots is already avoided by requiring a candidate to display a minimum level of support before being placed on the ballot. See Minn.Stat. § 204B.08. The State’s concern with “knowing how the winner will be determined” is not furthered by statutes preventing multiple party nomination in general elections. The winner is determined in the same way in general elections whether or not a fusion candidate is involved: the individual who receives the most votes wins. Electoral history shows there is nothing remarkable about awarding victory to a candidate who receives the most overall votes, just because the votes are cast on two lines rather than one. As noted earlier, this is how Ronald Reagan beat Jimmy Carter in the 1980 presidential race in New York.
+
+
+    On a final note, we recognize one federal court of appeals has addressed the constitutionality of laws preventing multiple party nomination. In Swamp v. Kennedy, 950 F.2d 383 (7th Cir.1991), cert. denied, 505 U.S. 1204, 112 S.Ct. 2992, 120 L.Ed.2d 870 (1992), two judges on a divided three-judge panel held Wisconsin’s statutes banning multiple party nomination did not burden a minor political party’s associational rights, and even if they did, the State’s interests justified the burden. Id. at 386. The other panelist believed the party’s rights were burdened and thought only the State’s compelling interest in maintaining the distinct identities of the political parties justified the laws. Id. at 386-88 (Fairchild, J., concurring). On the denial of rehearing en banc, Judges Ripple, Posner, and Easterbrook dissented because they believed the panel had deviated from the Supreme Court’s analysis in applying the controlling legal standards. Id. at 388-89. In any event, neither the majority nor the concurrence in Swamp decided whether Wisconsin’s law could have been more narrowly tailored with a consent requirement.
+
+
+    We hold Minn.Stat. §§ 204B.06 subd. 1(b) & 204B.04 subd. 2 are unconstitutional because the statutes severely burden the New Party’s associational rights and the statutes could be more narrowly tailored (with a consent requirement) to advance Minnesota’s interests. We do not reach the constitutionality of Minn.Stat. § 204B.04 subd. 1, which states, “No individual shall be named on any ballot as the candidate of more than one major political party,” because it is not involved in this case. We reverse the district court.
+
+
+  

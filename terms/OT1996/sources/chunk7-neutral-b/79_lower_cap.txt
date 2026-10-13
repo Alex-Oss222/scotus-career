@@ -1,0 +1,321 @@
+
+  
+    John DOE, a SEPTA employee, Appellee, v. SOUTHEASTERN PENNSYLVANIA TRANSPORTATION AUTHORITY (SEPTA), and Judith Pierce, individually and in her official capacity, Appellants.
+
+
+    No. 95-1559.
+
+
+    United States Court of Appeals, Third Circuit.
+
+
+    Argued Oct. 11, 1995.
+
+
+    Decided Dec. 28, 1995.
+
+
+    
+      *1134Clifford A. Boardman (argued), Philadelphia, PA, Yolanda Lollis, AIDS Law Project of Pennsylvania, Philadelphia, PA, for Appel-lee.
+
+
+    J. Freedley Hunsicker, Jr. (argued), Drinker, Biddle & Reath, Philadelphia, PA, for Appellants.
+
+
+    Before: GREENBERG, LEWIS and ROSENN, Circuit Judges.
+
+
+  
+  
+    OPINION OF THE COURT
+
+
+    ROSENN, Circuit Judge.
+
+
+    This appeal requires that we probe the depth and breadth of an employee’s conditional right to privacy in his prescription drug records. John Doe, an employee of the Southeastern Pennsylvania Transportation Authority (SEPTA),1 initiated this action under 42 U.S.C. § 1983 against his self-insured *1135employer, alleging that the defendants violated his right to privacy. Plaintiff claims that, in monitoring the prescription drug program put in place by SEPTA for fraud, drug abuse and excessive costs, the Chief Administrative Officer, Judith Pierce, and the Director of Benefits, Jacob Aufschauer, learned that John Doe had contracted Acquired Immunodeficiency Syndrome (AIDS). This, he alleges, invaded his right to privacy.
+
+
+    A jury found for the plaintiff and awarded him $125,000 in compensatory damages for his emotional distress. The trial court denied defendants’ motion under Rule 50 for judgment as a matter of law, or alternatively for a new trial. The court also denied defendants’ motion for a reduction in damages. The defendants timely appealed. We reverse.
+
+
+    I.
+
+
+    We set forth the facts as the jury could have found them in support of its verdict. Accordingly, all evidence and inferences therefrom must be taken in the light most favorable to the verdict winner. See Parkway Garage, Inc. v. City of Philadelphia, 5 F.3d 685, 691-92 (3d Cir.1993) (as amended on petition for rehearing). In 1990, Judith Pierce became the Chief Administrative Officer for SEPTA. Her responsibilities included containing the costs of SEPTA’s self-insured health program. In 1992, a bargaining agreement with Local Union 234 required SEPTA to provide, inter aha, prescription drugs for the employees. SEPTA entered into a contract with Rite-Aid Drug Store to be the sole provider for all of SEPTA’s prescription drug programs. As part of this contract, Rite-Aid provided SEPTA with an estimate of the yearly costs of this program. If, at the end of the year, the actual cost to Rite-Aid amounted to over 115% of that estimate, SEPTA would have to pay substantial penalties; however, if the actual cost was 90% or less of that estimate, SEPTA would be entitled to rebates. Pierce was responsible for monitoring those costs.
+
+
+    John Doe is a SEPTA employee. At all times relevant to this appeal, Doe was HIV-positive, and had contracted AIDS by the time of trial. In 1991, Doe began to take Retrovir for his condition. Retrovir is a prescription drug used solely to treat HIV. Before filling his prescription, Doe asked Dr. Richard Press, the head of SEPTA’s Medical Department and Doe’s direct supervisor, if he or anyone else reviewed employee names in association with the drugs the employees were taking. Doe wished to keep his condition a secret from his co-workers. Dr. Press assured Doe that he had only been asked to review names on prescriptions in cases of suspected narcotics abuse and knew of no other review that included names. After receiving this information, Doe filled his prescription through the employer’s health insurance. He continued to do so after SEPTA switched to Rite-Aid; he was never informed that this change might alter his confidentiality status.
+
+
+    In November of 1992, Pierce requested and received utilization reports from Rite-Aid. These reports were part of the contract between Rite-Aid and SEPTA. Pierce did not request the names of SEPTA employees in the reports, and Rite-Aid sent the reports in their standard format. They included statistics on the number of employees with five or more prescriptions dispensed in a one-month period, the top 25% by cost of drugs bought by SEPTA employees, and the report at issue here. ' This report listed employees who were filling prescriptions at a cost of $100 or more per employee in the past month. Each fine of the report included the name of an employee or dependent, a code to identify the prescribing doctor, the dispense date of the prescription, the name of the drug, the number of days supplied, and the total cost. Pierce called Aufschauer into her office, and the two of them reviewed the report. It was immediately apparent to Pierce that the reports would reveal employees’ medications; however, she reviewed them in the format as submitted. She did not at that time request Rite-Aid to redesign SEPTA’s reports to encode employees’ names.
+
+
+    Pierce stated that her purpose in reviewing the reports with Aufschauer was several-fold. First, she wanted to look for signs of fraud and drug abuse. She testified that in the past, some employees would purchase *1136prescription drugs under the SEPTA health plan in order to give them to an ill friend or relative who was not covered by SEPTA’s benefit package. Second, Pierce wanted to determine if Rite-Aid was fulfilling its promise to use generic rather than brand name drugs whenever possible. Third, although they were both covered in the Rite-Aid contract, Pierce wanted to determine the cost to SEPTA of fertility drugs and medications to help employees stop smoking, such as nicotine patches. Finally, Pierce wanted to determine whether the reports were in a summary form and whether they would permit an audit. Her review, however, focused almost entirely on the current report, which included employees’ names. She also testified that people who had seen this report, she, Aufsehauer, and Dr. Press “were very careful to maintain the confidentiality of the people.”
+
+
+    Pierce and Aufsehauer scanned the reports. When they came across a drug name neither one recognized, they would look it up in a Physician’s Desk Reference (PDR) that Pierce had. Pierce then called Dr. Louis Van de Beek, a SEPTA staff physician, and inquired about the drugs not listed in the PDR. She asked the doctor for what Retro-vir was used. When Dr. Van de Beek told her it was used in the treatment of AIDS, she inquired whether there was any other use for it. He told her no. She then asked about the three other medications that Doe was taking, and was informed that they were all AIDS medications as well. Pierce discreetly never mentioned Doe by name; however, Dr. Van de Beek was aware of Doe’s condition and Doe’s medications because Doe himself had disclosed this information to him. Therefore, Dr. Van de Beek deduced that Pierce was asking about Doe. He told her that if she were trying to diagnose employees’ conditions through prescriptions, he felt this was improper and possibly illegal. Pierce immediately ended the conversation and told him not to speak of the conversation to anyone.
+
+
+    Pierce then took the report to Dr. Press. She asked him if he would be able to perform an audit using the information in the report. Press noted that Pierce had highlighted certain lines on the report, including employees’ names and the drugs that each of those highlighted employees were taking. Press testified that the drugs highlighted were all HIV or AIDS-related. Pierce asked Press if he knew whether any of the people whose names were highlighted were HIV-positive. Press said that he was aware of Doe’s condition.. He then told Pierce that he was uncomfortable with the presence of the names on the report. He also told her that he had neither the expertise nor the resources to perform an audit.
+
+
+    Dr. Press then approached James Kilcur, the General Counsel of SEPTA, and expressed his concern about the names on the report. Kilcur called Pierce and asked her whether the names were necessary for her purposes. She replied that they were not and then destroyed the report. SEPTA then instructed Rite Aid to submit all future reports without names.
+
+
+    Dr. Van de Beek informed Doe of Pierce’s questions. He told Doe that Pierce had likely found out that Doe was HIV-positive. Doe claims he became upset at this news. He avers that he became more upset upon discovering from Dr. Press that Pierce had his name highlighted on a list because he didn’t know who had access to or had seen this “AIDS list” and only a few SEPTA employees knew of his HIV-status. He had told Press and Van de Beek, as well as his acting supervisor and the administrative assistant of his department that he had AIDS. He testified that these were all people he trusted to keep this information confidential, and he wanted to explain to them his need for periodic leaves of absence. He did not want Pierce to know of his condition.
+
+
+    After these incidents, Doe remained at SEPTA in his current position. He makes no claim of personal discrimination or of any economic deprivation. He later received a salary upgrade and promotion. However, he testified that he felt as though he were being treated differently. A proposal he had made for an in house employee assistance program met with scant interest; he felt that this was because of his HIV condition. In addition, an administrator who reported to Pierce did not call on Doe to assist in the same way that *1137he had called on Doe earlier. Doe testified that he felt as though there was less social chitchat, co-workers ate less of the baked goods he brought to the office to share, and that his work space seemed more lonely than before. He also became fearful of Pierce, who never told Doe that she knew of his illness. Doe alleges that he became depressed and requested a prescription for Zoloft, an antidepressant, from his physician. Later, another antidepressant called Elavil was added to the medications Doe was taking.
+
+
+    Doe filed suit in the United States District Court2 against Pierce in both her individual and official capacities, and against SEPTA. Defendants moved for summary judgment on the grounds that Doe had no right to privacy in the information contained in the Rite Aid report; that if he did have such a right it had not been violated because no disclosure had occurred; and that any interest Doe might have in the privacy of these records was outweighed by their legitimate interests in the information. These arguments were rejected by the district court, which denied then’ motion.
+
+
+    After a jury trial, defendants moved under Rule 50 for judgment as a matter of law, or, alternatively, for a new trial under Rule 59. They also moved for a reduction in damages on the grounds that Doe had not proved emotional distress as a result of defendants’ actions. The judge granted their motion as to plaintiffs failure to train claim,3 but in all other respects rejected the defendants’ motions.
+
+
+    II.
+
+
+    The issues raised here present questions of constitutional law. Because this case comes to us on appeal from an order denying a motion for judgment as a matter of law, our review is plenary. Epstein v. Kmart Corp., 13 F.3d 762 (3d Cir.1994); Cole v. Flick, 758 F.2d 124 (3d Cir.), cert. denied, 474 U.S. 921, 106 S.Ct. 253, 88 L.Ed.2d 260 (1985).
+
+
+    As a preliminary matter, this court must decide if a person’s medical prescription record is within the ambit of information protected by the Constitution. If there is no right to privacy, our inquiry stops. A § 1983 action cannot be maintained unless the underlying act violates a plaintiffs Constitutional rights. Minor annoyances do not make a federal case. When the underlying claim is one of invasion of privacy, the complaint must be “limited to those [rights of privacy] which are ‘fundamental’ or ‘implicit in the concept of ordered liberty’ ...” Paul v. Davis, 424 U.S. 693, 713, 96 S.Ct. 1155, 1166, 47 L.Ed.2d 405 reh’g. denied, 425 U.S. 985, 96 S.Ct. 2194, 48 L.Ed.2d 811 (1976), citing Palko v. Connecticut, 302 U.S. 319, 325, 58 S.Ct. 149, 152, 82 L.Ed. 288 (1937).
+
+
+    Medical records fall within this scope. The Supreme Court, in Whalen v. Roe, 429 U.S. 589, 97 S.Ct. 869, 51 L.Ed.2d 64 (1977), noted that the right to privacy encompasses two separate spheres. One of these is an individual’s interest in independence in making certain decisions. The other is an interest in avoiding disclosure of personal information. Whalen, at 599-600, 97 S.Ct. at 876-877. Medical records fall within the second category. Id. Therefore, the Court held that individuals do have a limited right to privacy in their medical records. Id. at 602, 97 S.Ct. at 878.
+
+
+    This court reinforced this holding through our decision in United States v. Westinghouse Elec. Corp., 638 F.2d 570 (3d Cir.1980). In that case, the federal government, through the Occupational Safety and Health Agency (OSHA), issued a subpoena duces tecum to an employer for its employees’ medical records in connection with an investigation of a potentially hazardous work area. The employer refused, asserting the privacy interests of its employees. This court held that, on balance, the interests of the govern*1138ment in the information outweighed these privacy interests; however, they recognized that such records were deserving of a level of constitutional protection. “There can be no question that an employee’s medical records, which may contain intimate facts of a personal nature, are well within the ambit of materials entitled to privacy protection.” Westinghouse, at 577.
+
+
+    The records at issue in Westinghouse included “results of routine testing, such as X-rays, blood tests, pulmonary function tests, hearing and visual tests.” Id. at 579. If these records are private, then so must be records of prescription medications. Since the Westinghouse decision fifteen years ago, medical science has improved and specialized its medications. It is now possible from looking at an individual’s prescription records to determine that person’s illnesses, or even to ascertain such private facts as whether a woman is attempting to conceive a child through the use of fertility drugs. This information is precisely the sort intended to be protected by penumbras of privacy. See Eisenstadt v. Baird, 405 U.S. 438, 450, 92 S.Ct. 1029, 1036, 31 L.Ed.2d 349 (1972) (“If the right of privacy means anything, it is the right of the individual ... to be free from unwanted governmental intrusions into matters so fundamentally affecting a person as the decision whether to bear or beget a child.”). An individual using prescription drugs has a right to expect that such information will customarily remain private. The district court, therefore, committed no error in its holding that there is a constitutional right to privacy in one’s prescription records.
+
+
+    III.
+
+
+    Such a right is not absolute, however. See Whalen v. Roe, 429 U.S. at 602, 97 S.Ct. at 878 (while individuals have a legitimate expectation of privacy in their prescription purchases of controlled substances, such right must be weighed against the state’s interest in monitoring the use of dangerously addictive drugs).
+
+
+    [Disclosures of private medical information to doctors, to hospital personnel, to insurance companies, and to public health agencies are often an essential part of modern medical practice even when the disclosure may reflect unfavorably on the character of the patient.
+    
+      Id. In addition, disclosure of private medical information is necessary for the pharmacy filing the prescriptions. The Court also cited examples of statutory reporting requirements relating to various diseases, child abuse, injuries caused by deadly weapons, certifications of fetal death, and the record-keeping requirements of Missouri abortion laws. Id. at 602 n. 29, 97 S.Ct. at 878 n. 29. As with many individual rights, the right of privacy in one’s prescription drug records must be balanced against important competing interests.
+
+
+    Before we can perform this balancing test, we must first assess whether, and to what extent, Pierce disclosed Doe’s prescription drug information. Obviously, no privacy violation would have taken place had the information from Rite-Aid come in encoded form. A self-insured employer has a right to monitor the use and cost of its health insurance plan. SEPTA’s status as a public authority substantially dependent on the public fisc and the rates the public must pay to use its facilities converts this right into a duty. Audits of drug information are essential to that end. In the aggregate, there is no competing privacy interest in those records. Doe would have no cause of action if all that had been disclosed were that an unknown number of people at SEPTA were purchasing Retrovir for the treatment of HIV-related illnesses. Therefore, such disclosure as occurred came only when Doe’s name was revealed with respect to his purchase of drugs under SEPTA’s prescription drug program.
+
+
+    Both Pierce and Aufschauer learned of Doe’s illness through the Rite-Aid report. Pierce’s initial discovery of the names on the report was inadvertent. She had not requested names from Rite-Aid and there is no evidence that she expected to find them when she opened their standard report. This alone would not be sufficient to prove a constitutional violation for disclosure.4 How*1139ever, Pierce then spent some time and effort researching the report with the names on it. She highlighted, for her research purposes, those names on the report whose medications she was unfamiliar with and which were expensive, including Doe’s, and called two SEPTA staff physicians to ask about medications she did not recognize. It was through this inquiry that Pierce learned about Doe’s condition. She did not know the uses of Retro-vir before she did this research.
+
+
+    Aufschauer learned of Doe’s condition through his work as Director of Benefits and Pierce’s subordinate. Pierce disclosed the information to him in the course of then-work. SEPTA argues that this disclosure was necessary, as Aufschauer also had reasons for needing this information. Aufs-chauer’s legitimate need for this information may affect whether the disclosure is an actionable one. It does not alter the existence of disclosure.
+
+
+    Nor can Pierce and Aufschauer be considered as a single unit for the purpose of determining disclosure. A disclosure occurs in the workplace each time private information is communicated to a new person, regardless of the relationship between the coworkers sharing that information. By analogy, district courts in this circuit have held that there is publication, such that a libel or slander is actionable, when the defamatory statement is disclosed only to the speaker’s agent. Elbeshbeshy v. Franklin Institute, 618 F.Supp. 170 (W.D.Pa.1985). Therefore, we hold that each person who learned of Doe’s condition constitutes a separate disclosure for the purposes of Doe’s invasion of privacy action.
+
+
+    To hold differently would lead us to a decision that Doe had waived his right to privacy by voluntarily disclosing his medical condition to co-workers at SEPTA. We are not faced with a situation where persons to whom Doe disclosed this information told others. Rather, Pierce and Aufschauer learned his condition completely independently of Doe’s disclosures. His decision to give private information to some co-workers does not give carte blanche to other coworkers to invade his privacy. See Laurence Tribe, American Constitutional Law, 2d ed., at 1391 (“[W]hat could be more commonplace than the idea that it is up to the individual to measure out information about herself selectively!?] .... [A] secret remains a secret even when shared with those whom one selects for one’s confidences.”)
+
+
+    However, we are not persuaded that the impingement on Doe’s privacy by the disclosure to SEPTA’s Chief Medical Officer, Dr. Press, amounts to a constitutional violation. Doe himself had already voluntarily informed Dr. Press of his condition. Dr. Press did not learn any new information from Pierce’s actions. Plaintiff asserts that Dr. Van de Beek, as well, learned of the information from Pierce. Van de Beek, like Dr. Press, had already heard of Doe’s condition from Doe himself. Moreover, Pierce did not disclose Doe’s name to Van de Beek. She asked him about medications, and he deduced who she was asking about based on his independent knowledge of Doe’s condition. It stretches any theory of liability far too thin to base an invasion of privacy on such conduct. Therefore, there was no disclosure to Dr. Van de Beek. Also, as a matter of law, the cursory disclosure Pierce made to Dr. Press, chief of SEPTA’s medical department, a physician, and largely responsible for the health of SEPTA’s employees, did not “amount to an impermissible invasion of privacy,” Whalen v. Roe, 429 U.S. at 602, 97 S.Ct. at 878, because John Doe had already provided him with this information. Pierce and Aufschauer are the only disclosures to be weighed and balanced.
+
+
+    IV.
+
+
+    As we noted earlier, an individual’s privacy interest in his or her prescription records is not an absolute right against disclosure. This interest must be weighed against the interests of the employer in obtaining the information. We apply an intermediate standard of review in making this determination. Fraternal Order of Police, Lodge 5 v. Philadelphia, 812 F.2d 105, 110 (3d Cir.1987) (hereafter FOP). FOP also *1140noted that the more stringent “compelling interest analysis” would be used when the intrusion on an individual’s privacy was severe. We are not faced with such a situation here. The intrusion upon Doe’s privacy was minimal at worst.
+
+
+    This court has previously enumerated the factors to be weighed in determining whether a given disclosure constitutes an actionable invasion of privacy in United States v. Westinghouse Electric Corp., 638 F.2d 570 (3d Cir.1980). In Westinghouse, the federal government, through OSHA, served a subpoena duces tecum on Westinghouse for its employees’ medical records in connection with an investigation concerning a possible health hazard in the workplace. Westinghouse, as employer, moved to quash the subpoena, asserting, jus tertii its employees’ rights of privacy in those records. Here, in contrast, SEPTA is the employer, who legitimately sought prescription information to ascertain whether there were abuses of its health program, either by the supplier or the consumer/employee. Moreover, the remedy sought for the alleged invasion here is damages rather than a quashing of a subpoena. However, the Westinghouse factors are still good law, and are equally applicable to this situation.
+
+
+    
+      Westinghouse mandates a consideration of seven different factors. They are: (1) the type of record requested; (2) the information it does or might contain; (3) the potential for harm in any subsequent noneonsensual disclosure; (4) the injury from disclosure to the relationship in which the record was generated; (5) the adequacy of safeguards to prevent unauthorized disclosure; (6) the degree of need for access; and (7) whether there is an express statutory mandate, articulated public policy, or other recognizable public interest favoring access. Westinghouse, 638 F.2d at 578. Although some of these factors may be in Doe’s favor, overall, we believe the balance weighs on the side of permitting the disclosures present here. There is a strong public interest of the Transportation Authority, and the many thousands of people it serves, in containing its costs and expenses by permitting this sort of research by authorized personnel. This interest outweighs the minimal intrusion, particularly given the lack of any economic loss, discrimination, or harassment actually suffered by plaintiff.
+
+
+    The type of record requested here was the first print-out of prescription medications furnished by SEPTA to its employees under its contract with the supplier, Rite-Aid. No particular format and no names were requested. The information which Pierce expected it to contain was nothing more than a record of the drugs on which SEPTA had spent over $100 in a given month per individual. However, Rite-Aid, on its own initiative, included in its format the names of each person taking those drugs. As discussed above, this inadvertently-received information is entitled to a measure of confidential protection.
+
+
+    In addition, we recognize the possible harm to Doe from disclosure. The district court of New Jersey, in Doe v. Borough of Barrington, 729 F.Supp. 376 (D.N.J.1990), recognized the social stigma, harassment, and discrimination that can result from public knowledge of one’s affliction with AIDS. Id. at 384, n. 8. It is unfortunate that public understanding of this disease has changed so little in the intervening years. ' Although AIDS hysteria may have subsided somewhat, there still exists a risk of much harm from non-consensual dissemination of the information that an individual is inflicted with AIDS.
+
+
+    This potential for harm, however, should not blind us to the absence of harm in this case. Despite Pierce’s disclosures to her subordinate, Aufschauer, and to Dr. Press that Doe had AIDS, SEPTA promoted him and still retains him in his responsible position. In Doe v. Borough of Barrington, a borough police officer, without justification, told the neighbors of a man suffering from AIDS that the entire family had AIDS. The neighbors reacted by organizing a protest, and trying to prevent the man’s children from attending public school. In that case, the court quite rightly held such conduct violated the plaintiffs’ privacy rights, and there was no competing interest to justify the disclosure.
+
+
+    By contrast, SEPTA had legitimate reasons for obtaining the prescription information from Rite-Aid. Pierce had requested *1141the information in Rite-Aid’s standard format; she did not request the names of any employees. She did not disclose the information relating to Doe except to Aufschauer, in connection with their review, and to Dr. Press, for purposes of an audit. Dr. Press, the Chief Medical Officer, already knew of Doe’s condition through Doe’s voluntary disclosure. Moreover, Pierce destroyed the first report. Under these circumstances, we cannot conclude that Westinghouse factor (3) would impose liability on SEPTA. Although the factor appears to address potential harm, such potential harm must be measured within the context of the disclosure that actually occurred. The potential for harm from a different disclosure of this information, under different circumstances, as in Westinghouse, is not germane here.
+
+
+    The record was generated from the relationship between Doe and Rite-Aid, through his filling of the prescription. It is difficult to see how this relationship is affected by Rite-Aid’s subsequent generating of reports to Doe’s employer. Doe is no doubt aware that insurance companies and providers such as Medicare and Medicaid routinely receive information from drugstores about prescriptions charged to them by the insured. Self-insured employers have the same rights as those providers to similar information. Pierce did not expect that SEPTA would be given access to the names of employees filling prescriptions; however, the harm from this to the Doe-Rite-Aid relationship is nonexistent. Once Pierce realized the potential for harm inherent in a report with names, she instructed Rite-Aid that the format for all future reports should be without names. Rite-Aid agreed to comply. Rite-Aid’s relationship with SEPTA employees will continue unchanged.
+
+
+    Judge Greenberg is of the opinion that the “injury from disclosure” would seem to apply to the relationship between Doe and his employer, not between Doe and Rite-Aid. Thus, he believes that the injury from disclosure to the relationship in which the record was generated could obviously be much greater, if the relevant relationship is between the employer and employee. He concludes, therefore, that factor four may have weighed in favor of Doe in the jury’s analysis. However, it must be borne in mind that, even if the injury from disclosure was to the relationship between Doe and SEPTA, it is undisputed that he suffered no economic deprivation, nor any discrimination, nor harassment. It should also be noted that Judge Greenberg nonetheless believes that, because of our conclusion regarding Westinghouse factors six and seven, Doe cannot recover.
+
+
+    Factors six and seven strongly favor the defendants. Pierce had a genuine, legitimate and compelling need for the document she requested. Aufschauer, as Director of Benefits, also had a need for the document. Each had a responsibility and obligation to keep insurance costs down and to detect fraudulent and abusive behavior. The report was intended for that purpose. Employers have a legitimate need for monitoring the costs and uses of their employee benefit programs, especially employers who have fiscal responsibilities, as does SEPTA, to the public. As health care costs rise, as they have in recent years, and employers become obligated to expand employee coverage with greater protection for more illnesses and health conditions, health care costs become a major concern for employers as well as for Congress. Ten years ago, health insurance was not among the top concerns of small businesses; today it is number one. Note, “Health Care Cost^Containment and Small Businesses: The Self-Insurance Option,” 12 J.L. & Com. 333 (1993). In recent years many industrial strikes have been motivated by the cost of health benefits sought by employees. One of the best ways to monitor these costs is by performing audits on the use to which health plans are being put, and by closely monitoring the use of drugs.
+
+
+    Employers also have a right to ensure that their health plan is only being used by those who are authorized to be covered. Finally, the employers have a right to contain costs by requiring that employees use generic drugs rather than brand name when an adequate substitute exists. To accomplish these goals, employers must have access to reports from their prescription suppliers, and they must inspect and audit those reports. That is precisely what Pierce and Aufschauer were *1142engaged in, and this was a legitimate function of their positions. They had a legitimate need for access to information from the drug supplier, and they carefully controlled its use.
+
+
+    Because SEPTA is an agency subsidized by the state and federal government, its operating costs are substantially borne by the public who use its facilities and the taxpayers-who pay its subsidies. Keeping fares and taxes low, and preserving the public fisc are genuine, recognizable public interests. Therefore, Pierce’s need for access, factor six of Westinghouse, also articulates a recognizable public policy encouraging access, as noted in factor seven.
+
+
+    As Chief Administrative Officer for SEPTA, Pierce had responsibility for health costs. Her ability over a period of three years to successfully reduce prescription drug and dental costs by a combined total of over $42,000,000 gives us some idea of the immensity of her task and the money at stake. The new contract between SEPTA and Rite-Aid gave strong financial incentives to cut costs if possible. There can be no serious argument that Pierce could do this monitoring without being able to audit reports of the actual costs and the drugs purchased.- It is true that the names of the individual employees were unnecessary for this purpose.5 It is equally true that Pierce did not request such names, nor did she disclose those names, or any of the information contained in the report, in anything other than a legitimate manner. Except for Dr. Press, who had the information directly from Doe, the only other person to whom Pierce disclosed the information was Aufsehauer. As they requested only information for which they had a legitimate and compelling need, and used the information received in a legitimate, careful and confidential manner, it cannot be said that they violated Doe’s right to privacy merely because the first report from Rite-Aid contained unnecessary, unrequested information in which he had a privacy interest.
+
+
+    Factor five, however, requires a slightly more complex analysis. It requires us to weigh “the adequacy of safeguards to prevent unauthorized disclosure.” As discussed above, there was no unauthorized disclosure. However, as SEPTA was unaware that they would receive such confidential information, and this was their first experience under the Rite-Aid contract, there were no safeguards in place.
+
+
+    In FOP, supra, the Philadelphia police department required applicants to the Special Investigative Unit (SIU) to complete questionnaires, which asked for extremely private information. Police officers sought an injunction against its use. One grouping of questions focused on the medical history of the applicant and his family, asking for such information as physical disabilities, prescription drug use, and past psychological histories. FOP, 812 F.2d at 112. Although noting that, in most cases, this private information was irrelevant to the selection of SIU forces, the court also recognized that in some eases, these questions would reveal information essential to the police department. Id. at 113. Therefore, the court permitted the City to ask these questions of all applicants.
+
+
+    However, the court expressed concern with the absence of protection of this information. It noted -that “there is no statute or regulation that penalizes officials with confidential information from disclosing it.” Id. at 118. As a result, the court remanded to the district court with directions to continue the injunction until the “City, the Commissioner, or other appropriate official establishes written, explicit and binding rules that contain adequate safeguards against unnecessary disclosure of the confidential information ...” Id.
+    
+
+
+    Were the case before us now also a request for an injunction, and had SEPTA *1143requested the broad information required by the Philadelphia police department, we might have similar concerns. This case, however, is a suit for damages and the information disclosed did not have- the breadth requested by the Philadelphia SIU. Doe did not attempt to enjoin further dissemination by SEPTA, although he is still employed by it. Indeed, such a suit would have been moot at its inception. SEPTA has established an adequate safeguard against a recurrence of unnecessary disclosure by requesting that Rite-Aid no longer send such confidential information. Should such information become necessary at some future time, for instance, should names be needed for a more extensive investigation as a result of an initial audit, it can be expected that “written, explicit and binding rules” would be promulgated before such information is requested. But it is an unnecessary burden to require that they be announced when the employer has no knowledge that it will be in receipt of the sort of information that requires these safeguards. Unlike the defendant in FOP, Pierce and SEPTA did not request such information as would put them on notice that they would need to pre-arrange for its confidential handling. Thus, we perceive no violation of the Westinghouse fifth factor.
+
+
+    We hold that a self-insured employer’s need for access to employee prescription records under its health insurance plan, when the information disclosed is only for the purpose of monitoring the plans by those with a need to know, outweighs an employee’s interest in keeping his prescription drug purchases confidential. Such minimal intrusion, although an impingement on privacy, is insufficient to constitute a constitutional violation. The district court should have granted defendants’ Rule 50 motion for judgment as a matter of law.
+
+
+    V.
+
+
+    In light of the conclusion we reach that the defendants did not violate plaintiffs right of privacy, we need not decide whether the plaintiffs testimony alone of his diagnosis and subjective impressions can support a finding of damages for emotional distress.6
+      See Spence v. Board of Education of Christina School District, 806 F.2d 1198, 1201 (3d Cir.1986).
+
+
+    VI.
+
+
+    SEPTA demonstrated important interests in the prescription information furnished by its supplier, and disclosed such information only to people with a right to know. This outweighs the minimal intrusion into Doe’s privacy. The district court erred in its analysis of the Westinghouse factors, and should have granted defendant’s motion for judgment under Rule 50.
+
+
+    Accordingly, the judgment of the district court will be reversed, and the matter will be remanded to the district court for entry of judgment for the defendants as a matter of law. Each side to bear its own costs.
+
+
+    
+      1
+      . SEPTA is a public transportation authority operating mass transportation facilities in the five-county Philadelphia metropolitan area. It operates subways, railroads, buses, and trackless trolleys and maintains stations, depots, and other installations. See Transport Workers' Local 234 v. SEPTA, 863 F.2d 1110, 1113 (3d Cir.1989). SEPTA receives much of its operating funds from state and federal subsidies. It is an agency of the Commonwealth of Pennsylvania. Id., at 1113. The parties agree that all actions taken by Pierce relevant to this matter were part of her job as a policy-maker at SEPTA. Therefore, Doe’s suit is proper under Section 1983.
+
+
+    
+    
+      2
+      . Doe also filed a related suit against Rite-Aid and its employees in a Philadelphia Court of Common Pleas. That case was settled late in 1994, when Rite-Aid agreed to modify its billing procedures in the state of Pennsylvania in order to prevent these disclosures in the future. See 22 BNA Pension and Benefits Reporter 33 (Jan. 2, 1995).
+
+
+    
+    
+      3
+      . This ruling is not before us, as it has not been appealed.
+
+
+    
+    
+      4
+      . We need not discuss in this case any possible violation on the part of Rite-Aid for preparing *1139such a report. See supra, n. 2.
+
+
+    
+    
+      5
+      . There may be situations not before us now where an employer who pays for prescriptions or benefits for employees or their dependents may need to know the identity of a person obtaining the prescriptions or benefits. After all, an employer might need this information to determine whether the person obtaining the prescriptions or benefits was eligible for them, or if the person was even an employee. Of course, such need to know would have to comply with the employee's right of privacy as well.
+
+
+    
+    
+      6
+      . Plaintiff admits that he suffered no economic damages or physical injury from SEPTA's actions. He was not fired or demoted. Emotional distress, therefore, is Doe’s only possible basis for recovery.
+
+
+    
+  
+  
+    GREENBERG, Circuit Judge,
+
+
+    concurring.
+
+
+    Although I agree with Judge Rosenn’s conclusions, I have a few reservations about his opinion that I note here.
+
+
+    First, regarding our standard of review: as Judge Rosenn indicates, after a jury verdict, the court cannot substitute its view of the evidence for that of the jury; accordingly, all evidence and inferences therefrom must be taken in the light most favorable to the verdict winner. See Parkway Garage, Inc. v. City of Philadelphia, 5 F.3d 685, 691-92 (3d Cir.1993) (as amended on petition for rehearing). In addition, we have noted that a court of appeals in exercising plenary review over an order granting or denying a motion for judgment as a matter of law must apply the same standard as did the district court. Lightning Lube, Inc. v. Witco Corp., 4 F.3d 1153, 1166 (3d Cir.1993); Lippay v. Christos, 996 F.2d 1490, 1496 (3d Cir.1993). We recently outlined the relevant standard:
+
+
+    In deciding whether to grant a motion for JNOV, the trial court must view the evidence in the light most favorable to the *1144non-moving party, and determine whether the record contains the ‘minimum quantum of evidence from which a jury might reasonably afford relief.’ Keith v. Truck Stops Corp., 909 F.2d 743, 745 (3d Cir.1990) (citations omitted). The court may not weigh the evidence, determine the credibility of witnesses or substitute its version of the facts for that of the jury. Blair v. Manhattan Life Ins. Co., 692 F.2d 296, 300 (3d Cir.1982). The court may, however, enter judgment notwithstanding the verdict if upon review of the record, it can be said as a matter of law that the verdict is not supported by legally sufficient evidence. Neville Chem. Co. v. Union Carbide Corp., 422 F.2d 1205, 1210 (3d Cir.), cert. denied, 400 U.S. 826, 91 S.Ct. 51, 27 L.Ed.2d 55 (1970).
+    
+      Parkway Garage, 5 F.3d at 691-92.
+
+
+    I join in Judge Rosenn’s opinion because I believe that, even viewed in the light most favorable to Doe, the verdict winner in the district court, the facts of this case cannot, as a matter of law, support the jury’s verdict. I support this holding because factors six and seven of the balancing test announced in United States v. Westinghouse Elec. Corp., 638 F.2d 570, 578 (3d Cir.1980), namely SEPTA’s need for access to the prescription information and “whether there is an express statutory mandate, articulated public policy, or other recognizable public interest militating toward access,” outweigh Doe’s limited privacy interests in the information. It is here that, in my view, the district court in its opinion denying SEPTA’s post-trial motions for judgment as a matter of law or for a new trial misapplied the Westinghouse balancing test. The court decided that, because Pierce “never articulated a need to know what Doe’s medications were used for or a reason that she did not put the report aside or black out the names when she saw them,” and because there was testimony that “the names of the individual employees were irrelevant to the issues they were examining,” the jury reasonably could have found factor six to weigh in favor of a violation of Doe’s privacy right. See Doe v. SEPTA, et al., No. 93-5988, slip op. at 19, 1995 WL 334290 (E.D.Pa. June 1, 1995). Likewise, because “the financial need to control prescription benefit costs ... does not include a need to have the names of employees linked with their medications, at least until an abuse of the benefit has been established,” the district court decided that the jury also could have found factor seven to weigh in Doe’s favor. See id. slip op. at 20.
+
+
+    However, the district court’s emphasis on SEPTA’s need to have the names of employees linked with their medications was misplaced. The focus of factors six and seven-of the Westinghouse balancing test in this case should not be on appellants’ need to have the names of employees linked with their medications, but instead should be on their need to have access to prescription utilization data in the first place. As Judge Rosenn’s opinion notes, it is essential in this era of escalating health care costs that self-insured employers be able to review their benefits programs for proper usage, cost-cutting possibilities, and fraud and abuse, among other factors. Thus, I agree with his conclusions.
+
+
+    However, I do not believe that Judge Ro-senn’s opinion reflects the facts of the case in the light most favorable to Doe. For example, in describing Pierce’s actions with respect to the Rite-Aid report, he states that she highlighted the names on the report whose medications she was unfamiliar with “for her research purposes,” see majority opinion at 1139, and that she “discreetly never mentioned Doe by name” to Dr. Van de Beek. Id. at 5. Yet, Pierce’s motivations for highlighting the names of the employees, in particular Doe’s, was a primary factual issue in the case, as was her possible carelessness. Clearly, Doe did not claim that Pierce highlighted the names merely for her research purposes, nor would he have described her behavior as “discreet.” The jury’s verdict for Doe, then, might reflect its agreement with his assertions that her motivations, as well as her conduct, were improper. In any case, it does not seem that Judge Rosenn’s opinion paints the issue in the light most favorable to a verdict for Doe. Although I regard this point as somewhat academic because of my analysis of the Westinghouse factors, it is worth noting because of our clear mandate to view the facts in the most favorable light to the verdict-winner in re*1145viewing a denial of a motion for judgment as a matter of law.
+
+
+    More substantively, I do not agree with Judge Rosenn’s analysis regarding Pierce’s contact with Dr. Press. While it is true that Dr. Press did not acquire any new information from Pierce’s actions, the focus of an inquiry into an alleged violation of the constitutional right to privacy should be on whether there was a disclosure. As an initial matter, Pierce showed Dr. Press the highlighted list containing Doe’s name and prescription information. Pierce did not know whether Dr. Press had any prior knowledge regarding Doe’s condition; nevertheless, she presented the information to Press. The constitutional right to privacy is intended to prevent certain disclosures. Thus, ordinarily individuals have the power to determine to whom they disclose their most personal matters. Here, Pierce impinged on Doe’s right with the disclosure to Press in the same way that she did so with respect to the disclosure to Aufschauer. As Judge Rosenn’s opinion states, “[a] disclosure occurs in the workplace each time private information is communicated to a new person.... ” Majority opinion at 1139.
+
+
+    Yet Doe himself already had informed Dr. Press voluntarily of his condition. Pierce’s disclosure to Press, then, should not lead to Doe’s recovery of damages, since the disclosure left Doe in the same position as before it occurred. This issue is one of damages alone, however, and does not affect the existence of a disclosure to Press. Thus, the court must weigh this disclosure as well as those involving Pierce and Aufschauer in order to determine whether a constitutional violation occurred. Accordingly, in my view it is not enough simply to state that because no damages were incurred there could not have been a violation of Doe’s privacy right. In the end, though, the existence of a third disclosure in the case does not alter my analysis of the Westinghouse factors and therefore does not change my ultimate conclusion that we should reverse the judgment of the district court.
+
+
+    I also want to make a clear distinction between an impingement into privacy rights that is justified according to the Westinghouse factors, and an unconstitutional violation of the right to privacy. We have held that questions seeking personal medical information included in a police department questionnaire for use in selecting applicants for a special investigations unit “[did] not unconstitutionally impinge upon the applicants’ privacy interests.” Fraternal Order of Police v. Philadelphia, 812 F.2d 105, 114 (3d Cir.1987) (footnote omitted). We also have held that the strong public interest in facilitating the research and investigations of a government agency into a potentially hazardous work area “justiffied] [the] minimal intrusion into the privacy which surrounds ... employees’ medical records-” Westinghouse, 638 F.2d at 580. However, in neither case did we deny that an intrusion into privacy interests occurred. Likewise, here we do not deny that Pierce’s disclosures impinged upon Doe’s privacy interests in his prescription information. We do find, however, that the disclosures were justified according to the Westinghouse balancing test because of SEPTA’s strong interest in having access to utilization review data from its prescription drug program. Thus, although there was an impingement into Doe’s privacy rights, there was not here an unconstitutional violation of those rights.
+
+
+    Finally, regarding specific applications of the Westinghouse factors: Westinghouse factor four, “the injury from disclosure to the relationship in which the record was generated,” would seem to me to apply to the relationship between Doe and SEPTA, not the relationship between Doe and Rite-Aid, as Judge Rosenn’s opinion states. The relationship between Doe and his employer underlies the prescription benefits package in the first place; were it not for that benefits package, Doe would not have filled his prescription at Rite-Aid, nor would his name have been on the Rite-Aid report. In this regard, the injury from disclosure to “the relationship in which the record was generated” obviously could be much greater if the relevant relationship is that between Doe and his employer and not the Doe-Rite-Aid relationship. Thus, the factor may have weighed more heavily in favor of Doe in the jury’s analysis than Judge Rosenn’s opinion indicates. Nev*1146ertheless, because of my conclusions regarding Westinghouse factors six and seven, I still believe that Doe cannot recover for the disclosures made in this case.
+
+
+    
+      Westinghouse factor five, “the adequacy of safeguards to prevent unauthorized disclosure,” also could have weighed more heavily in favor of Doe in the jury’s analysis than Judge Rosenn indicates. While it is true that Pierce and SEPTA did not request such information as would put them on notice that they would need to pre-arrange for its confidential handling, it would not have been unreasonable for the jury to conclude that SEPTA should have had some sort of policy regarding the confidentiality of employee medical information that would have put Pierce on notice of the sensitivity of the information she received. Moreover, it also would have been reasonable for the jury to •expect Pierce to act more carefully with the information regardless of the existence of an official SEPTA policy, especially because of her high executive level in the company, in addition to her experience as a former government attorney. Thus, although factor five does not change my ultimate conclusion in the case, perhaps it weighed more heavily in favor of Doe, at least in the jury’s consideration, than Judge Rosenn’s opinion would suggest.
+
+
+    I make one final point. As Judge Rosenn notes, SEPTA did not request the names of its employees obtaining prescription drugs. Consequently, the case has been decided on the assumption that it did not need the names. Nevertheless, I do not understand that there is any legal impediment to an employer who pays for prescriptions or other benefits for employees and their dependents insisting on knowing the identity of the person obtaining the prescriptions or benefits. After all, an employer might need this information to determine whether the person obtaining the prescriptions or benefits was eligible for them. Judge Rosenn makes this important point, majority opinion n. 5, and I particularly want to emphasize it. In accordance with the foregoing comments, I join in Judge Rosenn’s opinion with the caveats I have stated and join in the judgment of the court.
+
+
+  
+  
+    LEWIS, Circuit Judge,
+
+
+    concurring and dissenting.
+
+
+    I agree with and join in that part of Judge Greenberg’s concurring opinion which pertains to the first five Westinghouse elements. However, because I believe that there was more than a “minimum quantum” of evidence from which the jury in Doe’s case could reasonably conclude that his constitutional right to privacy had been violated, I respectfully dissent. See Parkway Garage, Inc. v. City of Philadelphia, 5 F.3d 685, 691 (3d Cir.1993).
+
+
+    Because my disagreement with the majority rests primarily with its analysis of the sixth and seventh Westinghouse factors, I will focus my discussion on those elements.
+
+
+    With respect to the sixth factor, which addresses the degree of need for access to the information, I note initially that at Doe’s trial, Ms. Pierce, the SEPTA administrator responsible for auditing the company’s health benefits plan, testified that for her purposes the employee names on the Rite-Aid printout were irrelevant. In fact, the district court specifically noted that “it was undisputed that the names on the report were unnecessary for Pierce’s review of the Rite Aid report.” (J. Yohn’s Memorandum at 6, 16-17). While it is true that SEPTA could have legitimately requested these names for auditing purposes, the fact is that in this case it neither required nor requested such information.1 Thus, the jury had no factual basis upon which to conclude that SEPTA needed its employees’ names in order effectively to audit its health plan.
+
+
+    I disagree that “[t]he focus of factors six and seven of the Westinghouse balancing test in this case should not be on appellant’s need to have the names of employees linked with their medications, but instead should be on their need to have access to prescription utilization data in the first place.” (Concurring Op. at 1144). First, I am aware of no *1147authority which suggests that this broad approach is the correct way in which to frame the issue. Second, the jury’s finding that Pierce had no need for the names on the Rite-Aid printout is not inconsistent with the principle that SEPTA may have had a legitimate need for access to prescription utilization data. Thus, because in my view the record clearly establishes that for purposes of auditing its prescription drug program with Rite-Aid, SEPTA did not necessarily need a printout that indicated by name what prescription drugs particular employees were taking, I cannot agree that the verdict was “not supported by legally sufficient evidence.” As Judge Greenberg notes in his concurring opinion, the Parkway Garage standard requires the trial court, and us, to “view the evidence in the light most favorable to the non-moving party, and determine whether the record contains the ‘minimum quantum of evidence from which a jury might reasonably afford relief.’ Keith v. Truck Stops Corp., 909 F.2d 743, 745 (3d Cir.1990) (citations omitted),” and to avoid ‘“weigh[ing] the evidence, determining] the credibility of witnesses or substituting] [our] version of the facts for that of the jury.’ Blair v. Manhattan Life Insurance Co., 692 F.2d 296, 300 (3d Cir.1982).” (Concurring Op. at 1144). Accordingly, we must adhere to the Parkway Garage standard and allow the appropriate measure of deference to the jury’s findings. For the above reasons, I do not believe that the majority has done so with regard to the sixth Westinghouse factor.
+
+
+    With respect to the seventh Westinghouse factor, I agree that there is an important public interest in allowing companies such as SEPTA, which administer their own health plans, to have access to the prescription drug records of their employees. (Maj.Op. at 1141). In general, I would agree that such employers have a legitimate need for this information. Nevertheless, I do not believe that this interest, standing alone, is sufficient to overcome the other Westinghouse factors, which in this case weigh largely in Doe’s favor. Moreover, in my view, the majority places a disproportionate emphasis on factor seven, so much so that the remaining elements of the balancing test become practically irrelevant to its analysis. To my knowledge, we have never suggested that the seventh Westinghouse factor is the most significant consideration in our analysis. Accordingly, because under the highly deferential Parkway Garage standard there clearly is sufficient evidence in the record to support the jury’s verdict in favor of Doe, once again I believe we are bound to affirm the district court’s order.
+
+
+    Finally, I am concerned that the majority’s decision on the issue of SEPTA’s liability appears to be influenced, at least in part, by the fact that Doe was neither fired, harassed nor demoted. {See Maj.Op. at 1140 (“This potential for harm, however, should not blind us to the absence of harm in this ease.”)). I do not understand how or why this point is at all relevant to our legal analysis of the liability issue. In my view, the nature and extent of harm Doe suffered as a result of the disclosure that occurred is a damages rather than a liability issue. Moreover, as I understand the logic of the majority position, even if Doe had suffered a more direct harm in this case (say, for instance, on the job harassment), SEPTA’s actions still would not have constituted a violation of Doe’s limited privacy right against disclosure, because this right was outweighed by the strong public interest favoring SEPTA’s access to prescription drug information for auditing purposes. Again, I disagree.
+
+
+    But I am particularly troubled by the potential implications of the majority’s position. I hope I am wrong, but I predict that the court’s decision in this case will make it far easier in the future for employers to disclose their employees’ private medical information, obtained during an audit of the company’s health benefits plan, and to escape constitutional liability for harassment or other harms suffered by their employees as a result of that disclosure.
+
+
+    For the above reasons, I respectfully concur and dissent.
+
+
+    
+      1
+      . The first Westinghouse factor is the “type of record requested.” In this case, SEPTA did not request that the printout from Rite-Aid include employee names. As a result, I believe that this element of the balancing test does not weigh in Doe's favor.
+
+
+    
+  

@@ -1,0 +1,7 @@
+# Brown petitioner-side full-reading receipt
+
+Control read the complete saved UTF-8 petitioner merits brief (05) and reply (07), including cover, questions, contents, authorities, facts, argument, footnotes and conclusion. For display only, whitespace runs were collapsed; no nonwhitespace source text was discarded. The two-column PDF spreads produce some interleaving in pdftotext. Control followed both columns' arguments and does not certify that counsel's combined damages recital resolves the actual judgment; the separate source reader verifies the original judgment.
+
+Petitioner merits normalized reading intervals: [0,30000) and [30000,60773), exhausting 60773 characters. Reply normalized interval: [0,30252), exhausting 30252 characters. All three tool outputs completed without truncation. The source hashes and normalized lengths are preserved in `tmp/chunk7_Brown_root_reading_receipt.json`; the exact source-copy receipt is `OT_1996CHUNK7_74_ROOT_SOURCE_COPY_CONTROL.json`.
+
+Substantive handoff: `OT_1996CHUNK7_74_PETITIONER_SOURCE_HANDOFF.md`. Script-copied material passages: `sources/chunk7-neutral-a/Brown_petitioner_extracts.md`. Control did not infer the absence of a fact from a search. The source reader separately covers petition, joint appendix and respondent merits, and must distinguish those direct reads from these inherited full reads. No Stone supplement was opened in this source work. Control has previously read the comparator and cannot serve as fresh neutral validation or modeling for Brown.

@@ -1,0 +1,69 @@
+
+  
+    Cary Michael LAMBRIX, Petitioner, v. Harry K. SINGLETARY, etc., Respondent.
+
+
+    No. 81941.
+
+
+    Supreme Court of Florida.
+
+
+    June 16, 1994.
+
+
+    Rehearing Denied Sept. 8, 1994.
+
+
+    Steven M. Goldstein, Sp. Counsel, Volunteer Lawyers’ Resource Center of Florida, Inc., Tallahassee, and Robert Josefsberg of Podhurst, Orseck & Josefsberg, Miami, for petitioner.
+
+
+    Robert A. Butterworth, Atty. Gen., Richard B. Martell, Chief, Capital Appeals, Talla*848hassee, and Robert J. Krauss, Asst. Atty. Gen., Tampa, for respondent.
+
+
+  
+  
+    PER CURIAM.
+
+
+    Cary Michael Lambrix, a prisoner under sentence of death, petitions this Court for a writ of habeas corpus. We have jurisdiction pursuant to article V, section 3(b)(9), Florida Constitution, and find that Lambrix is not entitled to relief.
+
+
+    Lambrix was initially convicted of two counts of murder and sentenced to death in 1984. The convictions and sentences were affirmed by this Court in Lambrix v. State, 494 So.2d 1143 (Fla.1986). We have also rejected three collateral postconviction claims from Lambrix. See Lambrix v. Dugger, 529 So.2d 1110 (Fla.1988) (habeas petition); Lambrix v. State, 534 So.2d 1151 (Fla.1988) (appeal of trial court’s denial of a 3.850 motion for postconviction relief); Lambrix v. State, 559 So.2d 1137 (Fla.1990) (appeal of trial court’s denial of a petition for a writ of habeas corpus). Subsequent to these claims, the United States District Court denied Lambrix’s habeas petition, Lambrix v. Dugger, No. 88-12107-Civ-Zloch (S.D.Fla. May 12, 1992), but the Eleventh Circuit directed Lambrix to return to this Court to settle any unresolved issues stemming from the United States Supreme Court’s decision in Espinosa v. Florida, — U.S. -, 112 S.Ct. 2926, 120 L.Ed.2d 854 (1992). Lambrix v. Dugger, No. 92-4539 (11th Cir. Mar. 3, 1993). This proceeding is a result of that directive.
+
+
+    In Espinosa, the United States Supreme Court held that it was error to instruct a jury “that it was entitled to find as an aggravating factor that the murder of which it has found [a defendant] guilty was ‘especially wicked, evil, atrocious or cruel’ ” because this instruction was unconstitutionally vague and because it failed to provide sufficient guidance to the senteneer for determining the existence of the aggravating factor. 112 S.Ct. at 2927-29. In addressing this type of Espino-sa claim, we have recently held that a defendant must do two things in order to preserve the claim for postconviction review. First, the defendant must attack “the instruction itself, either by submitting a limiting instruction or making an objection to the instruction as worded.” Beltran-Lopez v. State, 626 So.2d 163, 164 (Fla.1993), cert. denied, — U.S. -, 114 S.Ct. 2122, 128 L.Ed.2d 678 (1994); see also Atwater v. State, 626 So.2d 1325 (Fla.1993), cert. denied, — U.S. -, 114 S.Ct. 1578, 128 L.Ed.2d 221 (1994). Second, the defendant must also pursue the objection on appeal. Chandler v. Dugger, 634 So.2d 1066 (Fla.1994); James v. State, 615 So.2d 668 (Fla.1993).
+
+
+    In the instant case, Lambrix properly raised and preserved his Espinosa objection at trial. The record reveals that, although Lambrix failed to object specifically to the vagueness of the instruction on the heinous, atrocious or cruel aggravating factor, he did request a limiting instruction based on the definition of the aggravator found in State v. Dixon, 283 So.2d 1 (Fla.1973), cert. denied, 416 U.S. 943, 94 S.Ct. 1950, 40 L.Ed.2d 295 (1974). However, Lambrix did not raise the issue of the trial court’s failure to include this special instruction on his direct appeal and, consequently, Lambrix’s Espinosa claim is procedurally barred. Cf. Henderson v. Singletary, 617 So.2d 313 (Fla.) (claim was proceedurally barred because it was not raised on appeal even though the defendant had preserved the issue at trial by both objecting to the instruction and requesting an expanded instruction), cert. denied, — U.S. -, 113 S.Ct. 1891, 123 L.Ed.2d 507 (1993).
+
+
+    Because appellate counsel failed to anticipate the United States Supreme Court decision in Espinosa and raise the Espinosa claim on direct appeal, Lambrix next argues that appellate counsel was ineffective. Although this present ineffective assistance of counsel claim is based on a different issue, Lambrix has already raised numerous claims alleging ineffective assistance of appellate counsel in a previous habeas petition. See Lambrix v. Dugger, 529 So.2d 1110 (Fla.1988). Because ineffective assistance of counsel claims have been considered and rejected in a previous petition, Lambrix is procedurally barred from raising such claims again in a subsequent habeas petition. See Aldridge v. State, 503 So.2d 1257 (Fla.1987) (defendant procedurally barred from raising an ineffective assistance of counsel claim when such a claim has been raised previously *849even though the current claim is based on a different issue). Furthermore, even if this issue was not procedurally barred, we find that appellate counsel was not ineffective under the test set out in Strickland v. Washington, 466 U.S. 668, 104 S.Ct. 2052, 80 L.Ed.2d 674 (1984), because this Court would have rejected Lambrix’s Espinosa claim on direct appeal.1
+      See Henderson, 617 So.2d at 317 (“[T]he failure to raise a claim that would have been rejected at the time of the appeal does not amount to deficient performance.”).
+
+
+    We find that the remaining issues raised by Lambrix are also procedurally barred.2 The petition for a writ of habeas corpus is denied.
+
+
+    It is so ordered.
+
+
+    GRIMES, C.J., OVERTON, SHAW and HARDING, JJ., and McDONALD, Senior Justice, concur.
+
+
+    KOGAN, J., concurs in result only.
+
+
+    
+      1
+      . The claim would have been rejected because the trial court used the standard jury instruction on the “heinous, atrocious or cruel” aggravating factor and because the United States Supreme Court had not yet rendered its Espinosa decision.
+
+
+    
+    
+      2
+      . Lambrix has also raised the following claims: (1) invalid aggravating circumstances were presented to Lambrix’s jury including "cold, calculated and premeditated," "committed during a robbery," and “pecuniary gain,” (2) Lambrix’s death sentence is unconstitutional because this Court has failed to apply a consistent limiting construction of the "especially heinous" aggravating factor, (3) ineffective assistance of counsel, and (4) the State failed to prove premeditation beyond a reasonable doubt.
+
+
+    
+  

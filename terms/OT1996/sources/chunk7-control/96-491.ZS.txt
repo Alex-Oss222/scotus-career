@@ -1,0 +1,98 @@
+
+
+    Inter Modal Rail Employees Association v. Atchison, Topeka & Santa Fe Railway, 520 U.S. 510 (1997)
+
+LII
+
+Supreme Court
+
+Inter Modal Rail Employees Association v. Atchison, Topeka & Santa Fe Railway (96-491), 520 U.S. 510 (1997)
+
+Syllabus 
+  Opinion 
+ [ O'Connor ]
+
+HTML version
+WordPerfect versionHTML version
+WordPerfect version
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See United States v. Detroit Timber & Lumber
+ Co., 200
+ U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+Syllabus
+
+INTER MODAL RAIL EMPLOYEES
+ ASSOCIATION et al. v. ATCHISON, TOPEKA &
+ SANTA FE RAILWAY CO. et al.
+
+certiorari to the united states
+ court of appeals for the ninth circuit
+
+No. 96-491.
+ Argued March 17, 1997 -- Decided
+ May 12, 1997
+
+As employees of respondent Santa Fe Terminal Services, Inc. (SFTS),
+ a wholly owned subsidiary of respondent The Atchison, Topeka and Santa
+ Fe Railway Co. (ATSF), the individual petitioners were entitled, among
+ other things, to pension, health, and welfare benefits under SFTS Teamsters
+ Union collective bargaining agreements. The resulting benefit plans were
+ subject to the Employee Retirement Income Security Act of 1974 (ERISA).
+ Ultimately ATSF bid the work being done by petitioners to respondent In
+ Terminal Services (ITS) and terminated SFTS employees who declined to continue
+ employment with ITS. The ITS Teamsters pension and welfare benefit plans
+ were less generous than the SFTS Teamsters plans. Petitioners filed suit,
+ alleging that the terminations violated §510 of ERISA, which makes
+ it unlawful to "discharge . . . a [plan] participant . . . for the purpose
+ of interfering with the attainment of any right to which such participant
+ may become entitled under the plan." (Emphasis added.) The District
+ Court granted respondents' motion to dismiss. Concluding that §510
+ only prohibits interference with the attainment of rights that are capable
+ of "vesting, " the Court of Appeals reinstated petitioners' claim for interference
+ with pension benefits, but affirmed the dismissal of their claim
+ for interference with welfare benefits, which do not vest.
+
+Held: The Court of Appeals'
+ holding that §510 bars interference only with vested rights is contradicted
+ by §510's plain language, whose use of the word "plan" all but forecloses
+ that position. ERISA defines "plan" to include an "employee welfare benefit
+ plan," 29 U.S.C.
+ § 1002(3), even though welfare plans are exempted from its stringent
+ vesting requirements, see §1051(1). Had Congress intended to confine
+ §510's protection to "vested" rights, it could have easily substituted
+ "pension plan" for "plan" or "nonforfeitable right" for "any right." The
+ flexibility an employer enjoys to unilaterally amend or eliminate its welfare
+ benefit plan, see Curtiss Wright Corp. v. Schoonejongen,
+ 514
+ U.S. 73, 78, does not justify a departure from §510's plain language.
+ Such flexibility helps employers avoid the complicated administration and
+ increased cost of vested plans, and encourages them to offer more generous
+ benefits at the outset, since they can reduce benefits should economic
+ conditions sour. Section 510 counterbalances this flexibility by requiring
+ employers to follow a plan's formal amendment process, thus ensuring that
+ employers do not "circumvent the provision of promised benefits." Ingersoll
+ Rand Co. v. McClendon, 498
+ U.S. 133, 143. Any tension that might exist between an employer's amendment
+ power and a participant's §510 rights is the product of a careful
+ balance of competing interests, not the type of "absurd or glaringly unjust"
+ result, Ingalls Shipbuilding, Inc. v. Director, Office of Workers'
+ Compensation Programs, 519 U. S. ___, ___, that would warrant departure
+ from §510's plain language. On remand, the Court of Appeals should
+ have the first opportunity to evaluate respondents' remaining arguments,
+ including their argument that petitioners were eligible to receive welfare
+ benefits under the SFTS Teamsters plan at the time they were discharged
+ and, thus, cannot state a §510 claim. Pp. 4-7.
+
+80 F. 3d 348,
+ vacated and remanded.
+
+O'Connor, J., delivered the
+ opinion for a unanimous Court.
+

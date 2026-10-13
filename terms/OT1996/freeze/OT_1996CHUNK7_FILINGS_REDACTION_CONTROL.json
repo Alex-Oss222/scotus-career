@@ -1,0 +1,81 @@
+[
+  {
+    "source": "terms\\OT1996\\sources\\chunk7-filings\\micro_IA40385013_0769 02. Petitioners Brief.txt",
+    "output": "terms\\OT1996\\sources\\chunk7-filings\\neutral\\micro_IA40385013_0769 02. Petitioners Brief.txt",
+    "redacted": []
+  },
+  {
+    "source": "terms\\OT1996\\sources\\chunk7-filings\\micro_IA40385013_0769 06. Joint Appendix.txt",
+    "output": "terms\\OT1996\\sources\\chunk7-filings\\neutral\\micro_IA40385013_0769 06. Joint Appendix.txt",
+    "redacted": [
+      {
+        "line": 73,
+        "text": "                      Certiorari Granted"
+      }
+    ]
+  },
+  {
+    "source": "terms\\OT1996\\sources\\chunk7-filings\\micro_IA40385013_0769 07. Petitioners Brief.txt",
+    "output": "terms\\OT1996\\sources\\chunk7-filings\\neutral\\micro_IA40385013_0769 07. Petitioners Brief.txt",
+    "redacted": [
+      {
+        "line": 243,
+        "text": "within 90 days of February 16, 1996. This Court granted the"
+      }
+    ]
+  },
+  {
+    "source": "terms\\OT1996\\sources\\chunk7-filings\\micro_IA40385013_0769 09. Unknown title.txt",
+    "output": "terms\\OT1996\\sources\\chunk7-filings\\neutral\\micro_IA40385013_0769 09. Unknown title.txt",
+    "redacted": [
+      {
+        "line": 235,
+        "text": "The tribal judge concluded she did, though no facts were            tion to hear the matter. (J.A. at 91-138) This Court granted"
+      }
+    ]
+  },
+  {
+    "source": "terms\\OT1996\\sources\\chunk7-filings\\micro_IA40385013_0769 10. Reply Brief.txt",
+    "output": "terms\\OT1996\\sources\\chunk7-filings\\neutral\\micro_IA40385013_0769 10. Reply Brief.txt",
+    "redacted": []
+  },
+  {
+    "source": "terms\\OT1996\\sources\\chunk7-filings\\micro_IA40385014_0083 02. Petition for Writ of Certiorari.txt",
+    "output": "terms\\OT1996\\sources\\chunk7-filings\\neutral\\micro_IA40385014_0083 02. Petition for Writ of Certiorari.txt",
+    "redacted": [
+      {
+        "line": 1336,
+        "text": "Further, certiorari should be granted because there"
+      },
+      {
+        "line": 1441,
+        "text": "certiorari should be granted. Officer and householder"
+      }
+    ]
+  },
+  {
+    "source": "terms\\OT1996\\sources\\chunk7-filings\\micro_IA40385014_0083 05. Joint Appendix.txt",
+    "output": "terms\\OT1996\\sources\\chunk7-filings\\neutral\\micro_IA40385014_0083 05. Joint Appendix.txt",
+    "redacted": [
+      {
+        "line": 48,
+        "text": "         Certiorari Granted January 3, 1997"
+      }
+    ]
+  },
+  {
+    "source": "terms\\OT1996\\sources\\chunk7-filings\\micro_IA40385014_0083 06. Petitioners Brief.txt",
+    "output": "terms\\OT1996\\sources\\chunk7-filings\\neutral\\micro_IA40385014_0083 06. Petitioners Brief.txt",
+    "redacted": []
+  },
+  {
+    "source": "terms\\OT1996\\sources\\chunk7-filings\\micro_IA40385014_0083 07. Respondents Brief.txt",
+    "output": "terms\\OT1996\\sources\\chunk7-filings\\neutral\\micro_IA40385014_0083 07. Respondents Brief.txt",
+    "redacted": []
+  },
+  {
+    "source": "terms\\OT1996\\sources\\chunk7-filings\\micro_IA40385014_0083 08. Reply Brief.txt",
+    "output": "terms\\OT1996\\sources\\chunk7-filings\\neutral\\micro_IA40385014_0083 08. Reply Brief.txt",
+    "redacted": []
+  }
+]

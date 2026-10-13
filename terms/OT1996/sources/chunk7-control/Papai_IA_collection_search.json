@@ -1,0 +1,58 @@
+[
+  {
+    "query": "collection:us-supreme-court AND \"95-1621\"",
+    "url": "https://archive.org/advancedsearch.php?q=collection%3Aus-supreme-court+AND+%2295-1621%22&fl%5B%5D=identifier&fl%5B%5D=title&rows=30&output=json",
+    "response": {
+      "responseHeader": {
+        "status": 0,
+        "QTime": 98,
+        "params": {
+          "query": "collection:us-supreme-court AND (text:&quot;95-1621&quot; OR text:&quot;95-1621&quot; OR text__reviews:&quot;95-1621&quot;)",
+          "qin": "collection:us-supreme-court AND &quot;95-1621&quot;",
+          "fields": "identifier,title",
+          "wt": "json",
+          "rows": 30,
+          "start": 0
+        }
+      },
+      "response": {
+        "numFound": 1,
+        "start": 0,
+        "docs": [
+          {
+            "identifier": "micro_IA40385013_0713",
+            "title": "Harbor Tug & Barge Co. v. Papai, 520 U.S. 548 (1997) (No. 95-1621)"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "query": "collection:us-supreme-court AND title:(\"Harbor\" AND \"Papai\")",
+    "url": "https://archive.org/advancedsearch.php?q=collection%3Aus-supreme-court+AND+title%3A%28%22Harbor%22+AND+%22Papai%22%29&fl%5B%5D=identifier&fl%5B%5D=title&rows=30&output=json",
+    "response": {
+      "responseHeader": {
+        "status": 0,
+        "QTime": 108,
+        "params": {
+          "query": "collection:us-supreme-court AND title:(&quot;Harbor&quot; AND &quot;Papai&quot;)",
+          "qin": "collection:us-supreme-court AND title:(&quot;Harbor&quot; AND &quot;Papai&quot;)",
+          "fields": "identifier,title",
+          "wt": "json",
+          "rows": 30,
+          "start": 0
+        }
+      },
+      "response": {
+        "numFound": 1,
+        "start": 0,
+        "docs": [
+          {
+            "identifier": "micro_IA40385013_0713",
+            "title": "Harbor Tug & Barge Co. v. Papai, 520 U.S. 548 (1997) (No. 95-1621)"
+          }
+        ]
+      }
+    }
+  }
+]

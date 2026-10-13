@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://archive.org/download/micro_IA40385014_0083/micro_IA40385014_0083%2002.%20Petition%20for%20Writ%20of%20Certiorari.pdf",
+    "path": "terms\\OT1996\\sources\\chunk7-filings\\micro_IA40385014_0083 02. Petition for Writ of Certiorari.pdf",
+    "bytes": 12712285,
+    "sha256": "31f3d318d06eb613bc28aea95ac79ed6c4a9c85077f52fef7973ce1257282bb9",
+    "extracted": true
+  },
+  {
+    "url": "https://archive.org/download/micro_IA40385014_0083/micro_IA40385014_0083%2005.%20Joint%20Appendix.pdf",
+    "path": "terms\\OT1996\\sources\\chunk7-filings\\micro_IA40385014_0083 05. Joint Appendix.pdf",
+    "bytes": 15861912,
+    "sha256": "1aae636942c7758f29794308929401fcbdab1281a68f0459cb73a2063f43d76e",
+    "extracted": true
+  },
+  {
+    "url": "https://archive.org/download/micro_IA40385014_0083/micro_IA40385014_0083%2006.%20Petitioners%20Brief.pdf",
+    "path": "terms\\OT1996\\sources\\chunk7-filings\\micro_IA40385014_0083 06. Petitioners Brief.pdf",
+    "bytes": 9659991,
+    "sha256": "166ce7fbb62abb30236c2ab3169fb026a10ea75c411b62a2292d9fce3cd78307",
+    "extracted": true
+  },
+  {
+    "url": "https://archive.org/download/micro_IA40385014_0083/micro_IA40385014_0083%2007.%20Respondents%20Brief.pdf",
+    "path": "terms\\OT1996\\sources\\chunk7-filings\\micro_IA40385014_0083 07. Respondents Brief.pdf",
+    "bytes": 11602818,
+    "sha256": "bb5541f7dc73828a970eda2d9112c298d951a775426cc718b7d9e54d1aed5d77",
+    "extracted": true
+  },
+  {
+    "url": "https://archive.org/download/micro_IA40385014_0083/micro_IA40385014_0083%2008.%20Reply%20Brief.pdf",
+    "path": "terms\\OT1996\\sources\\chunk7-filings\\micro_IA40385014_0083 08. Reply Brief.pdf",
+    "bytes": 4282791,
+    "sha256": "0b03b6ea7fe7be03a160ef2cfbc2244d1f528f580e4948cb81cfa3cd254fa2e4",
+    "extracted": true
+  },
+  {
+    "url": "https://archive.org/download/micro_IA40385013_0769/micro_IA40385013_0769%2002.%20Petitioners%20Brief.pdf",
+    "initial_attempt_error": "HTTP Error 500: Internal Server Error",
+    "path": "terms\\OT1996\\sources\\chunk7-filings\\micro_IA40385013_0769 02. Petitioners Brief.pdf",
+    "bytes": 18946218,
+    "sha256": "3e3dc61ccb88a1757e0135a9d55e35c276aa5c8450a13c9d35c334db9c0d505f",
+    "extracted": true,
+    "retry": "Recovered in second request"
+  },
+  {
+    "url": "https://archive.org/download/micro_IA40385013_0769/micro_IA40385013_0769%2006.%20Joint%20Appendix.pdf",
+    "path": "terms\\OT1996\\sources\\chunk7-filings\\micro_IA40385013_0769 06. Joint Appendix.pdf",
+    "bytes": 20766957,
+    "sha256": "ee24fe10205139a54c87599e1d610be909aa1996d2c9b3fd02d33bcfa70cbd29",
+    "extracted": true
+  },
+  {
+    "url": "https://archive.org/download/micro_IA40385013_0769/micro_IA40385013_0769%2007.%20Petitioners%20Brief.pdf",
+    "path": "terms\\OT1996\\sources\\chunk7-filings\\micro_IA40385013_0769 07. Petitioners Brief.pdf",
+    "bytes": 6513849,
+    "sha256": "f7da6dc6229767907907db1bee8755eb06ea4bc1ac08ae187b3fb63a0d6195e3",
+    "extracted": true
+  },
+  {
+    "url": "https://archive.org/download/micro_IA40385013_0769/micro_IA40385013_0769%2009.%20Unknown%20title.pdf",
+    "path": "terms\\OT1996\\sources\\chunk7-filings\\micro_IA40385013_0769 09. Unknown title.pdf",
+    "bytes": 7933081,
+    "sha256": "6e7cc24910ad387e2a738016f0fabf7e6b7fe08e4ee19c793be89c85336cedd3",
+    "extracted": true
+  },
+  {
+    "url": "https://archive.org/download/micro_IA40385013_0769/micro_IA40385013_0769%2010.%20Reply%20Brief.pdf",
+    "path": "terms\\OT1996\\sources\\chunk7-filings\\micro_IA40385013_0769 10. Reply Brief.pdf",
+    "bytes": 3770805,
+    "sha256": "1b794898fde839b01ab691fac2d6f799d4c6e42c570b291d6a126767dbe1c34c",
+    "extracted": true
+  }
+]

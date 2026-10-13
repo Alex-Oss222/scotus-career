@@ -1,0 +1,278 @@
+
+  
+    John PAPAI, Joanna Papai, Plaintiffs-Appellants, v. HARBOR TUG AND BARGE COMPANY, Defendant-Appellee.
+
+
+    No. 93-15132.
+
+
+    United States Court of Appeals, Ninth Circuit.
+
+
+    Argued and Submitted May 9, 19S4.
+
+
+    Decided Sept. 25, 1995.
+
+
+    
+      *204Thomas J. Boyle, Law Offices of Thomas J. Boyle, San Francisco, CA, for plaintiffs-appellants.
+
+
+    Eric Danoff, Graham & James, San Francisco, CA, for defendant-appellee.
+
+
+    Before: POOLE and REINHARDT, Circuit Judges, and TAKASUGI,1 District Judge.
+
+
+    
+      1
+      . Honorable Robert M. Takasugi, United States District Judge for the Central District of California, sitting by designation.
+
+
+    
+  
+  
+    Opinion by Judge TAKASUGI; Dissent by Judge POOLE.
+
+
+    TAKASUGI, District Judge:
+
+
+    This ease arises from a knee injury sustained by plaintiff John Papal while in the course and scope of his employment for defendant Harbor Tug and Barge Company on board the tug Point Barrow. Plaintiff appeals the granting of a partial summary judgment and a subsequent judgment for the defendant after a court trial. Because we hold that summary judgment was granted in error, we do not reach plaintiffs challenge to the court’s findings made at trial.
+
+
+    This appeal raises two issues:
+
+
+    1. What factors are relevant to the determination of seaman status under the Jones Act, 46 U.S.CApp. §§ 688, et seq., in terms of the requirement that the claimant have a substantial connection with the vessel; and
+
+
+    2. Whether plaintiffs receipt of compensation benefits under the Longshoremen’s and Harbor Workers’ Compensation Act (“LHWCA”) precludes him from also recovering as a seaman under the Jones Act.
+
+
+    I. BACKGROUND
+
+
+    A. Facts2
+    
+
+
+    Plaintiff worked at various maritime related jobs for various companies and obtained his maritime jobs through the hiring hall of the Inland Boatman’s Union of the Pacific (“IBU”). He was not a permanent employee of defendant. Defendant along with other companies is a party to a Deckhands Agreement with the IBU pursuant to which the vessels obtain their deckhands through the union. Apparently, there was no permanent crew on any of the vessels and assignments were made on a day-to-day basis.
+
+
+    Plaintiff had worked for defendant as a deckhand on twelve previous occasions in 1989, and on March 13, 1989, plaintiff was *205dispatched by the IBU hiring hall to perform maintenance for one day on defendant’s tug Point Barrow, under the supervision of defendant’s Port Captain.
+
+
+    Plaintiff was injured when he fell from a ladder while painting the vessel.
+
+
+    B. Procedural History
+
+
+    In January 1990, plaintiff John Papai filed his complaint against defendant Harbor Tug and Barge seeking damages under the Jones Act, 46 U.S.C.App. §§ 688, et seq., and for unseaworthiness under general maritime law. His wife, plaintiff Joanna Papai, sued for loss of consortium.
+
+
+    Defendant moved for summary judgment on the ground that plaintiff John Papai was not a seaman within the meaning of the Jones Act and general maritime law. The district court granted the motion on May 29, 1990.
+
+
+    Pursuant to leave of court, plaintiffs filed a first amended complaint under Section Five of the LHWCA and for loss of consortium.
+
+
+    In denying reconsideration on the summary judgment, the court certified the question under 28 U.S.C. § 1292(b) for interlocutory appeal, which was denied by the Ninth Circuit on October 30, 1990. The subject was then rebriefed and reargued to the district court in light of two recent Supreme Court decisions (McDermott International, Inc. v. Wilander, 498 U.S. 337, 111 S.Ct. 807, 112 L.Ed.2d 866 (1991); Southwest Marine, Inc. v. Gizoni, 602 U.S. 81, 112 S.Ct. 486, 116 L.Ed.2d 405 (1991)), and the district court reaffirmed that plaintiff was not a seaman on the basis that he did not have the necessary permanent connection with the vessel.
+
+
+    After the district court granted summary judgment on plaintiff’s Jones Act claim on May 29, 1990, plaintiff filed a compensation claim under the LHWCA against defendant as his employer. On June 2,1992, a hearing was held before an Administrative Law Judge. The ALJ issued a written Decision and Order in favor of compensation for plaintiff on August 27, 1992. The August 27, 1992, Decision and Order was not appealed and is, thus, final.
+
+
+    After a court trial in the matter before the district court, judgment was entered in favor of defendant and against plaintiffs on December 29, 1992. Plaintiffs filed their notice of appeal on January 20, 1993 challenging the district court’s grant of summary judgment on the Jones Act claim and the judgment rendered after the court trial on the claim under Section Five of the LHWCA and common law negligence. This court holds that it was error to grant summary judgment on plaintiffs Jones Act claim and that said claim is not rendered moot by reason of plaintiffs receipt of compensation benefits under the LHWCA.
+
+
+    II. JURISDICTION
+
+
+    This court has subject matter jurisdiction pursuant to 28 U.S.C. § 1291.
+
+
+    III. DISCUSSION
+
+
+    A. Seaman Status Under the Jones Act
+
+
+    Seaman status, which is required for recovery under the Jones Act, is a mixed question of law and fact. Nevertheless, it may be determined by summary judgment in appropriate circumstances. Wilander, 498 U.S. at 355-56, 111 S.Ct. at 817-18.
+
+
+    Formulation of the seaman status test was recently addressed by the Supreme Court in Chandris, Inc. v. Latsis, — U.S. -, 115 S.Ct. 2172, 132 L.Ed.2d 314 (1995):
+
+
+    [W]e think that the essential requirements for seaman status are twofold. First, as we emphasized in Wilander, “an employee’s duties must contribut[e] to the function of the vessel or to the accomplishment of its mission.” ...
+    Second, and most important for our purposes here, a seaman must have a connection to a vessel in navigation (or to an identifiable group of such vessels) that is substantial in terms of both its duration and its nature.
+    * * * * * *
+    In our views, “the total circumstances of an individual’s employment must be weighed to determine whether he had a sufficient relation to the navigation of vessels and the perils attendant thereon.” *206[Citation.] The duration of a worker’s connection to a vessel and the nature of the worker’s activities, taken together, determine whether a maritime employee is a seaman because the ultimate inquiry is whether the worker in question is a member of the vessel’s crew or simply a land-based employee who happens to be working on the vessel at a given time. ******
+    [S]eaman status is not merely a temporal concept, but we also believe that it necessarily includes a temporal element. A maritime worker who spends only a small fraction of his working time on board a vessel is fundamentally land-based and therefore not a member of the vessel’s crews, regardless of what his duties are. Naturally, substantiality in this context is determined by reference to the period covered by the Jones Act plaintiffs maritime employment, rather than by some absolute measure.
+    Id. at 2191.
+
+
+    Thus, the inquiry is not whether plaintiff had a permanent connection with the vessel. The proper inquiry is whether plaintiffs relationship with a vessel (or group of vessels) was substantial in terms of duration and nature, which requires consideration of the total circumstances of his employment. Scrutiny of the “total circumstances” is, necessarily, fact specific. On one hand, the status of a worker may change by a change in work assignment. One the other hand, it may be necessary to examine the work performed by the employee while employed by different employers during the relevant time period. As was stated by the Supreme Court in Chandris:
+    
+
+
+    [W]e see no reason to limit the seaman status inquiry ... exclusively to an examination of the overall course of a worker’s service with a particular employer_ When a maritime worker’s basic assignment changes, his seaman status may change as well- If a maritime employee receives a new work assignment in which his essential duties are changed, he is entitled to have the assessment of the substantiality of his vessel-related work made on the basis of his activities in his new position.
+    Id. at 2191-92.
+
+
+    There would appear to be no reason that a group of employers who join together to obtain a common labor pool on which they draw by means of a union hiring hall (in this ease, the Inland Boatman’s Union hiring hall), should not be treated as a common employer for purposes of determining a maritime worker’s seaman status. If the type of work a maritime worker customarily performs would entitle him to seaman status if performed for a single employer, the worker should not be deprived of that status simply because the industry operates under a daily assignment rather than a permanent employment system.3 Under such circumstances, a maritime worker who regularly performs seaman’s work is entitled to seaman status. Moreover, in the case before us, the plaintiff actually worked for Harbor Tug and Barge Company on far more than a single occasion. As we have noted earlier, he worked for that company on a dozen occasions over the two and a half month period preceding his injury. This circumstance may in itself provide a sufficient connection.
+
+
+    In short, all the circumstances surrounding the work performed by plaintiff for defendant as a deckhand prior to (and after, if any) the accident, as well as work performed for other employers during the relevant time should be considered in making the determination.
+
+
+    It was error for the District Court to have granted summary judgment on plaintiffs Jones Act claim since issues of fact remained as to plaintiffs connection with the vessel.4
+    
+
+
+    
+      *207B. Effect of Receiving LHWCA Benefits on Seaman Status
+
+
+    Given that the Jones Act and the LHWCA are mutually exclusive, the issue arises whether plaintiffs receipt of benefits under the LHWCA precludes him from being a seaman under the Jones Act.5
+    
+
+
+    It is by now ‘universally accepted’ that an employee who receives voluntary payments under the LHWCA without a formal award is not barred from subsequently seeking relief under the Jones Act. [Citations omitted.]
+    
+      Southwest Marine, Inc. v. Gizoni, 502 U.S. 81, 90-92, 112 S.Ct. 486, 493-94.
+
+
+    The distinction between Gizoni and the case at bar is that here plaintiffs LHWCA claim was fully adjudicated before the ALJ who rendered a final decision. That the LHWCA claim was never actually litigated was the basis for the Gizoni Court’s holding that receipt of LHWCA benefits did not automatically preclude subsequent litigation under the Jones Act. However, the Court went on to recognize further support for its holding, which is applicable here: “Moreover, the LHWCA clearly does not comprehend such a preclusive effect, as it specifically provides that any amounts paid to an employee for the same injury, disability, or death pursuant to the Jones Act shall be credited against any liability imposed by the LHWCA” Id., at 91-92, 112 S.Ct. at 494. The Supreme Court further stated in a footnote addressing an equitable estoppel argument made by an amicus brief, “[w]here full compensation credit removes the threat of double recovery, the critical element of detrimental reliance does not appear. [Citations omitted.] Argument by amicus would force injured maritime workers to an election of remedies we do not believe Congress to have intended.” Id., at 92, n. 5, 112 S.Ct. at 494, n. 5.
+
+
+    In determining whether the prior litigation of plaintiffs LHWCA claim bars his subsequent Jones Act claim, we are mindful of the reasoning expressed by the Gizoni Court and are further concerned with the fairness in imposing such a bar where it could work a disincentive on the part of the employer to vigorously litigate its defense in the LHWCA action. This is so because the parties are on the opposite sides of the seaman issue under the LHWCA as compared with their positions under the Jones Act. Furthermore, imposing such a bar would result in subjecting to suit an employer who immediately and voluntarily begins compensation payments while immunizing from suit an employer who forces his employee to seek compensation through litigation.
+
+
+    
+      *208As was recognized in The Law of Admiralty,
+    
+
+
+    The provision of compensation during [the] period [a Jones Act action is pending,] would serve the function of the traditional maritime remedy of maintenance and cure (which has always been thought of as supplemental to the damage recovery). It is only because of a series of accidents in our legal history that the payment of medical expenses and a living allowance to an injured worker is thought to be entirely consistent with his damage recovery if the payment is called maintenance and cure but inconsistent with the damage recovery if it is called compensation.
+    Grant Gilmore & Charles L. Black, Jr., The Law of Admiralty 435 (2d ed. 1975).
+
+
+    Recognizing that a bar to relitigation would not serve the purpose for which it is usually employed since the parties are forced to take inconsistent positions under the Jones Act and the LHWCA and extending the reasoning of the Gizoni Court to the next logical step, we hold that plaintiffs litigation of his LHWCA claim does not bar his subsequent Jones Act claim.6
+    
+
+
+    IV. CONCLUSION
+
+
+    Granting summary judgment on plaintiffs Jones Act claim was error. The determination of seaman status under the Jones Act involves consideration of both the duration and nature of the plaintiffs connection to the vessel, which necessitates an inquiry into all of the facts surrounding the plaintiffs employment. Furthermore, plaintiffs pursuit of his compensation claim under the LHWCA does not render his Jones Act claim moot. Accordingly, the grant of partial summary judgment on plaintiffs Jones Act claim is reversed and this matter is remanded for further proceedings consistent herewith.
+
+
+    
+      2
+      . Because this is an appeal from the grant of summary judgment in favor of the defendant, the issue is whether genuine issues of material fact were remaining such that the grant of summary judgment was in error. As such, the facts relevant on appeal are not limited to those established and undisputed below but, rather, also include those facts that were sufficiently supported by evidence to raise a genuine issue of their existence. Accordingly, the facts discussed herein include both those that were established and undisputed below as well as those that were sufficiently supported by evidence to be considered in dispute.
+
+
+    
+    
+      3
+      . Under the dissent’s view, a master, mate, or pilot who works on tug boats every day is not a seaman simply because he receives his assignments through a hiring hall from which a group of vessels have collectively agreed to obtain employees and he may be assigned to different vessels on a daily or weekly basis. We simply do not read the “group of vessels” doctrine so narrowly. In any event, the plaintiff in this case worked a substantial period of time for a particular vessel owner.
+
+
+    
+    
+      4
+      . The negligence issue will therefore be decided under the Jones Act, which applies a standard more favorable to the claimant, see Ferguson v. Moore-McCormack Lines, Inc., 352 U.S. 521, *207523, 77 S.Ct. 457, 458, 1 L.Ed.2d 511 (1957) (the defendant is liable if “even the slightest” negligence on the defendant's part caused the claimant's injury), and is a question for the jury to decide. See id. at 523-24, 77 S.Ct. at 458.
+
+
+    
+    
+      5
+      . We take judicial notice of the August 27, 1992, Decision and Order of the ALJ. Defendant has supplied us with a copy and requests that we take judicial notice of said ruling pursuant to Rule 201 of the Federal Rules of Evidence. Although plaintiff disputes the propriety of taking judicial notice, he does not dispute that the ALJ issued the August 27, 1992, Decision and Order in his LHWCA compensation claim case and that the document supplied by defendant is a true copy thereof. Rule 201 provides for judicial notice of adjudicative facts that are, inter alia, "capable of accurate and ready determination by resort to sources whose accuracy cannot reasonably be questioned.” Such "[¡judicial notice may be taken at any stage of the proceeding," (Rule 201(f)) including on appeal (United States v. Gonzalez, 442 F.2d 698, 707 (2d Cir.1970), certiorari denied 404 U.S. 845, 92 S.Ct. 146, 30 L.Ed.2d 81 (1971); Sinaloa Lake Owners Association v. City of Simi Valley, 882 F.2d 1398, 1403 n. 2 (9th Cir.1989), certiorari denied, 494 U.S. 1016, 110 S.Ct. 1317, 108 L.Ed.2d 493 (1990); Bryant v. Carleson, 444 F.2d 353, 357-8 (9th Cir.), certiorari denied 404 U.S. 967, 92 S.Ct. 344, 30 L.Ed.2d 287 (1971)); and is mandatory "if requested by a party and [the court is] supplied with the necessary information." Rule 201(d).
+
+
+      Judicial notice is properly taken of orders and decisions made by other courts or administrative agencies. Bryant v. Carleson, supra; Assembly of State of California v. U.S. Department of Commerce, 797 F.Supp. 1554, 1558-59 (E.D.Cal.), affirmed 968 F.2d 916 (9th Cir.1992); Missouri Pacific Railroad Company v. United Transportation Union, General Committee of Adjustment, 580 F.Supp. 1490 (E.D.Mo.1984), affirmed 782 F.2d 107 (8th Cir.1986), certiorari denied 482 U.S. 927, 107 S.Ct. 3209, 96 L.Ed.2d 696 (1987).
+
+
+      Plaintiffs request for an opportunity to be heard on the propriety of taking judicial notice pursuant to Rule 201(e) has been sufficiently satisfied in that he has had the opportunity to address the matter in his reply brief and at oral argument.
+
+
+    
+    
+      6
+      . Figueroa v. Campbell Industries, 45 F.3d 311 (9th Cir.1995), which involved a maritime worker whose LHWCA claim was compromised and settled before a Jones Act action was filed, reached the same result for different reasons.
+
+
+    
+  
+  
+    POOLE, Circuit Judge,
+
+
+    dissenting:
+
+
+    Because I cannot agree with my colleagues’ construction of Chandris, Inc. v. Latsis, — U.S. -, 115 S.Ct. 2172, 132 L.Ed.2d 314 (1995), as it applies to this case, I respectfully dissent.
+
+
+    This case hinges on the construction of the “connection to a vessel” requirement for defining seamen under the Jones Act. We are blessed to have as an aid a recent Delphic pronouncement, the Supreme Court’s decision in Chandris. As the majority reads Chandris, “[t]he proper inquiry is whether plaintiffs relationship with a vessel (or group of vessels) was substantial in terms of duration and nature, which requires consideration of the total circumstances of his employment.” See supra at 206. So far, so good. We agree over what relationship a seaman must have — a relationship substantial in both duration and nature.
+
+
+    But with what must a seaman have that relationship? It is here I believe my colleagues have sailed off course. Relying on Chandris, the majority concludes that “it may be necessary to examine the work performed by the employee while employed by different employers during the relevant time period.” See supra at 206. In one stroke, perhaps without even fully realizing it, the majority vitiates the “connection to a vessel” requirement.
+
+
+    I
+
+
+    The line between LHWCA coverage and Jones Act coverage recognizes “the fundamental distinction between land-based and sea-based maritime employees.” Chandris, — U.S. at -, 115 S.Ct. at 2185. “The latter, who owe their allegiance to a vessel and not solely to a land-based employer, are seamen.” McDermott Int’l, Inc. v. Wilander, 498 U.S. 337, 347, 111 S.Ct. 807, 813, 112 L.Ed.2d 866 (1991). While all those who do the ship’s work are eligible for seaman’s status, the vessel connection requirement serves the critical function of “separat[ing] the sea-based maritime employees who are entitled to Jones Act protection from those land-based workers who have only a transitory or sporadic connection to a vessel in navigation, and therefore whose employment does not regularly expose them to the perils of the *209— U.S. at -, 115 S.Ct. sea.” Chandris, at 2190.
+
+
+    It is not necessary that a seaman have allegiance only to a single vessel. Thirty-five years ago, the Fifth Circuit, the leading circuit on admiralty law, recognized that the Jones Act could still apply to a maritime worker who was “ ‘assigned permanently to’ several specific vessels ‘or perform(s) a substantial part of his work on the’ several specified “vessel(s).’” Braniff v. Jackson Ave-Gretna Ferry, Inc., 280 F.2d 523, 528 (5th Cir.1960) (quoting Offshore Co. v. Robison, 266 F.2d 769, 779 (5th Cir.1959)). “Under the fleet doctrine, one can acquire ‘seaman’ status through permanent assignment to a group of vessels under common ownership or control.” Gizoni v. Southwest Marine, Inc., 56 F.3d 1138, 1141 (9th Cir.1995). The Fifth Circuit’s “fleet doctrine” is now the law of this circuit; we recently expressly adopted it in Gizoni. Id.
+    
+
+
+    In my view, Chandris approves of and adopts the fleet doctrine as well. After canvassing the circuit courts’ law and discussing the fleet doctrine with approval, — U.S. at -, 115 S.Ct. at 2189, Chandris requires that “a seaman must have a connection to a vessel in navigation (or to an identifiable group of such vessels) ...” — U.S. -, 115 S.Ct. at 2190 (emphasis added). This is exactly how the Fifth Circuit has phrased the doctrine: “The key is that there must be a relationship between the claimant and a specific vessel or identifiable group of vessels.” Guidry v. Continental Oil Co., 640 F.2d 523, 529 (5th Cir.1981). Thus, according to the Supreme Court, a seaman need not owe allegiance to a single vessel; it is enough that he is substantially connected to “an identifiable group.” Although Gizoni did not use the precise “identifiable group” language in adopting the Fifth Circuit’s fleet doctrine, it presumably incorporated the same concepts. See Gizoni 56 F.3d at 1141 (interpreting fleet doctrine as requiring permanent assignment to a group of vessels under common ownership or control, and citing several Fifth Circuit cases with approval).
+
+
+    In the majority’s view, however, that group may be identified simply as those vessels on which a sailor sails, not just those of a particular employer or controlling entity. See supra at 206 (“[A]ll the circumstances surrounding the work performed by plaintiff for defendant ... as well as work performed for other employers during the relevant time should be considered in making the [seaman] determination.”). This renders the “identifiable group” or “fleet” requirement a nullity. The majority’s position has been expressly rejected by each of the other circuits which have adopted the fleet doctrine:
+
+
+    By fleet- we mean an identifiable group of vessels acting together or under one control. We reject the notion that fleet of vessels in this context means any group of vessels an employee happens to work aboard. Unless fleet is given its ordinary meaning, the fundamental distinction between members of a crew and transitory maritime workers such as longshoremen is totally obliterated.
+    
+      Barrett v. Chevron, U.S.A, Inc., 781 F.2d 1067 (5th Cir.1986) (en banc) (footnote omitted); accord Bach v. Trident Steamship Co., 920 F.2d 322, 324 (5th Cir.), vacated and remanded, 500 U.S. 949, 111 S.Ct. 2253, 114 L.Ed.2d 706 reaff'd on remand, 947 F.2d 1290 (5th Cir.1991).
+
+
+    The key to the Fleet Seaman Doctrine is that the seaman maintain the employment relationship with the same employer. The term ‘fleet’ refers to the fleet of vessels owned by the employer, not the fleet of vessels on which the employee has worked.
+    
+      Reeves v. Mobile Dredging & Pumping Co., 26 F.3d 1247, 1256 (3d Cir.1994).1
+    
+
+
+    What inspires this departure? The following language from Chandris, which elsewhere clearly endorses the fleet doctrine: “On the other hand, we see no reason to limit the seaman status inquiry, as petitioners eon-*210tend, exclusively to an examination of the overall course of a worker’s service with a particular employer.” — U.S. at -, 115 S.Ct. at 2191. But as that opinion’s subsequent discussion makes clear, the emphasis in this statement is on the words “overall course,” not “particular employer.” Chan-iris goes on to discuss the fact that it may sometimes be necessary to judge connection based not on the overall course of an employee’s work with an. employer, but based only on her latest or current assignment with that employer. Id. at - - -, 115 S.Ct. at 2191-92.
+
+
+    In short, nothing in Chandris’ language permits us to abandon the requirement that a Jones Act seaman be substantially connected to, at the least, “an identifiable group” of vessels. Id. at -, 115 S.Ct. at 2190. By so doing, we “totally obliterate[ ]” “the fundamental distinction between members of a crew and transitory maritime workers.” Barrett, 781 F.2d at 1074.
+
+
+    II
+
+
+    Applying the proper fleet requirement, I cannot agree that the district court erred in granting summary judgment on Papai’s Jones Act claim. The district court did not explain its reasoning, but in my view, the ALJ who decided Papai’s LHWCA claim had it right:
+
+
+    Although some of the work performed by the claimant is the type of work that might be performed by a member of a ship’s crew, the evidence also clearly indicates that at the time of the claimant’s injury he was a “land-based” worker and therefore is entitled to seek a remedy for his injury under the Longshore Act [and prohibited from seeking a remedy under the Jones Act]. For example, the claimant’s testimony indicates that all of his jobs were obtained by going to a union hiring hall on a daily basis and waiting to be assigned work according to seniority. Tr. at 33. The claimant’s testimony also indicates that none of his jobs lasted more than two or three days at a time, and that, as a result, he had a variety of different employers and worked on a variety of different ships. Tr. at 32, 33 and CX 16-18. Since the claimant was not assigned to work on any particular ship, he lived on the shore, not on a ship. Tr. at 33. Although the claimant had worked aboard the P.T. Barrow before the date on which he was injured, the job the claimant was performing at the time of his injury was of only one day’s duration. Tr. at 31, 66. It is obvious from these facts that the claimant’s assignment to any particular vessel or fleet of vessels was random, sporadic and transitory. Given this lack of any permanent connection to any vessel or fleet of vessels, it necessarily follows that the claimant cannot be considered as a member of the crew of any ship or fleet of ships [and thus, not a seaman].
+    ALJ 8/27/92 Order at 5. Seaman’s status is a mixed question of law and fact, but “summary judgment or a directed verdict is mandated where the facts and the law will reasonably support only one conclusion.” Wilander, 498 U.S. at 356, 111 S.Ct. at 818. This is such a ease. Because Papai’s contact with any vessel or vessels could only be described as “transitory or sporadic,” Chandris, — U.S. at -, 115 S.Ct. at 2190, the district court correctly determined that Papai was not a seaman as a matter of law.
+
+
+    As the Supreme Court has explained, “Traditional seaman’s remedies ... have been ‘universally recognized as ... growing out of the status of the seaman and his peculiar relationship to the vessel, and as a feature of the maritime law compensating or offsetting the special hazards and disadvantages to which they who go down to the sea in ships are subjected.’_ It is this distinction that Congress recognized in the LHWCA and the Jones Act.” Wilander, 498 U.S. at 354, 111 S.Ct. at 817 (quoting Seas Shipping Co. v. Sieracki, 328 U.S. 85, 104, 66 S.Ct. 872, 882, 90 L.Ed. 1099 (1946) (Stone, C.J., dissenting)). John Papai, who woke up in his own bed, arrived at the hiring hall to learn he was to paint the Point Barrow for a day, and was back in his own bed by night, cannot seriously be described as having that “peculiar relationship” with the Point Barrow or Harbor Tug’s fleet so as to be entitled to Jones Act protection. Because the majori*211ty believes that peculiar relationship to be no longer required, I respectfully dissent.
+
+
+    
+      1
+      . Moreover, our recent decision in Gizoni cites with approval the Fifth Circuit's description of its fleet doctrine in Campo v. Electro-Coal Transfer Corp., 970 F.2d 51, 52 (5th Cir.1992). Gizoni, 56 F.3d at 1141. In explaining the fleet doctrine, Campo expressly rejects the approach the majority takes today. Campo, 970 F.2d at 52 (" ‘We reject the notion that [a] fleet of vessels in this context means any group of vessels an employee happens to work aboard.' ” (quoting Barrett, 781 F.2d at 1074)).
+
+
+    
+  

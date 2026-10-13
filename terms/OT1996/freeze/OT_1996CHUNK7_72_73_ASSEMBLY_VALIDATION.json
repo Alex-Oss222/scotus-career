@@ -1,0 +1,76 @@
+{
+  "73": {
+    "record": "Kadic_and_Doe_v_Karadzic_merits_1997-04-21.md",
+    "sha256": "2cb6e3e47630c915feba62ea231acf8f42cd7d4587164a1d585767c9281908e9",
+    "header": "pass",
+    "public_blocks": [
+      "Event",
+      "Participation",
+      "Public Action",
+      "Judgment & Remedy",
+      "Opinion Topology",
+      "Holdings",
+      "Precedent Treatment",
+      "Law After Decision",
+      "Separate Writings",
+      "Procedure After Action",
+      "Source Notes"
+    ],
+    "explanation_word_counts": [
+      103,
+      189,
+      132,
+      137,
+      97,
+      117,
+      105,
+      123
+    ],
+    "lead_author": "Ginsburg",
+    "frozen_input_hashes": "pass",
+    "public_workflow_scan": "pass"
+  },
+  "72": {
+    "record": "Metropolitan_Life_v_Robertson_Ceco_merits_1997-04-21.md",
+    "sha256": "eb3da42dde5a7744221e9a1266183bcd36506c9beb5426197f865adaf3025f8c",
+    "header": "pass",
+    "public_blocks": [
+      "Event",
+      "Participation",
+      "Public Action",
+      "Judgment & Remedy",
+      "Opinion Topology",
+      "Holdings",
+      "Precedent Treatment",
+      "Law After Decision",
+      "Separate Writings",
+      "Procedure After Action",
+      "Source Notes"
+    ],
+    "explanation_word_counts": [
+      111,
+      194,
+      123,
+      156,
+      81
+    ],
+    "lead_author": "Thomas",
+    "frozen_input_hashes": "pass",
+    "public_workflow_scan": "pass"
+  },
+  "arithmetic": {
+    "73_new_actions": 7,
+    "72_reversal": 6,
+    "72_vacatur": 1,
+    "72_affirmance": 2,
+    "72_contacts_application": 7,
+    "72_independent_fairness": 6,
+    "72_discovery_rationale": 8,
+    "72_whole_opinion_pool": [
+      "Kennedy",
+      "Thomas"
+    ],
+    "scope": "Checks explicit human-adjudicated sets; does not decide law or joins"
+  },
+  "provenance": "No Git commands run. Scoped first assembly received only authorized matter72/73 Stone after their reconciled freezes."
+}

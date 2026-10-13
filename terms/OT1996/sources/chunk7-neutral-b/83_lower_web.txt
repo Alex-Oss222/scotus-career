@@ -1,0 +1,212 @@
+72 F.3d 1500 - Lambrix v. Singletary — 72 F.3d 1500 | OpenJurist (https://openjurist.org/72/f3d/1500/lambrix-v-k-singletary)
+citeturn6view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn4view1","lineno":80}); Total lines: 324
+L35: ## How this case has been cited
+L36: 
+L37: Cited by 42 later decisions (1 by the Supreme Court) — most recently October 2017 · most notably cite12†Lambrix v. Singletary (1997), cite13†United States v. Scott (2005)
+L38: 
+L39: 20 federal appellate · 7 state decisions
+L40: 
+L41: Later decisions citing this case, by decade. The current decade is in progress, and our corpus holds fewer opinions from the most recent years, so the latest bars are undercounted — not a real decline.
+L42: 
+L43: cite14†View the full empirical analysis of this case → L44: Robert C. Josefsberg, Podhurst, Orseck, Josefsberg, Eaton, Meadow, Olin & Perwin, P.A., Miami, Florida, Matthew Lawry, Volunteer Lawyers' Resource Center of Florida, Inc., Tallahassee, Florida, for appellant.
+L45: 
+L46: Robert J. Krauss, Assistant Attorney General, Tampa, Florida, Carol M. Dittmar, Asst. Atty. General, Tampa, Florida, for appellee.
+L47: 
+L48: Appeal from the cite15†United States District Court for the Southern District of Florida. L49: 
+L50: Before KRAVITCH, HATCHETT and ANDERSON, Circuit Judges.
+L51: ANDERSON, Circuit Judge:
+L52: 
+L53: I. BACKGROUND AND PROCEDURAL HISTORY
+L54: 
+L55: cite16†¶1 L56: Cary Michael Lambrix was indicted on two counts of first-degree murder in connection with the 1983 killings of Clarence Moore and Aleisha Bryant.cite17†1 At Lambrix's first trial, the jury was unable to reach a verdict and a mistrial was declared. At his second trial, the jury found Lambrix guilty and recommended the death penalty on both counts.
+L57: The trial judge found 5 aggravating circumstances in regard to the murder of Moore, 4 aggravating circumstances in regard to the murder of Bryant, and no mitigating circumstances with respect to either victim.cite18†2 Thus, in accordance with the jury's recommendation, the trial judge imposed two sentences of death upon Lambrix.
+L58: cite19†¶2 L59: The convictions and sentences were affirmed by the Florida Supreme cite20†Court. Lambrix v. State , cite20†494 So.2d 1143 (Fla.1986). The Florida Supreme Court subsequently rejected challenges to Lambrix's conviction and sentence in three separate post-conviction proceedings. cite21†See Lambrix v. Dugger , cite21†529 So.2d 1110 (Fla.1988) (denial of habeas petition alleging ineffective assistance); cite22†Lambrix v.
+L60: State , cite22†534 So.2d 1151 (Fla.1988) (appeal of trial court's denial of a 3.850 motion for post-conviction relief); cite23†Lambrix v. State , cite23†559 So.2d 1137 (Fla.1990) (appeal of trial court's denial of petition for writ of habeas corpus). Lambrix then petitioned the district court for a writ of habeas corpus pursuant to cite24†28 U.S.C. Sec. 2254 . The district court denied the petition, cite21†Lambrix v. Dugger , No. 88-12107-Civ-Zloch (S.D.Fla. May 12, 1992), and Lambrix appeals.
+L61: cite25†¶3 L62: While this appeal was pending, the United States Supreme Court handed down cite26†Espinosa v. Florida , cite26†505 U.S. 1079 , cite26†112 S.Ct. 2926 , cite26†120 L.Ed.2d 854 (1992). The Espinosa decision had significant ramifications for Lambrix's claims that his sentencing jury was inadequately instructed on the "heinous, atrocious and cruel" ("HAC") and "cold, calculated and premeditated" ("CCP") aggravating factors.
+L63: The state pointed out that the state courts had not had a fair opportunity to address the substance of Lambrix's claims as significantly transformed by Espinosa. Thus, on the state's motion, we stayed this appeal to permit Lambrix to present his Espinosa claims to the Florida state courts. cite21†Lambrix v. Dugger , No. 92-4539 (11th Cir. Mar. 3, 1993). On June, 16, 1994, the Florida Supreme Court denied relief on Lambrix's Espinosa claims. cite27†Lambrix v. Singletary , cite27†641 So.2d 847 (Fla.1994).
+L64: Lambrix's motion for rehearing was also denied. Because there is no longer reason to hold this proceeding in abeyance, we now address Lambrix's claims on appeal from the district court's denial of his habeas petition.
+L65: cite28†¶4 L66: 
+L67: Lambrix raises a host of issues. We discuss Lambrix's Espinosa claims, and his claims that he was denied effective assistance of counsel at the penalty phase of his second trial and on appeal, that his second trial subjected him to double jeopardy, and that he was denied the right to testify on his own behalf. We affirm with respect to these claims. The remaining claims are without merit and warrant no discussion.cite29†3 L68: 
+L69: II. DISCUSSION
+L70: 
+L71: A. Jury Instructions
+L72: 
+L73: cite30†¶5 L74: Lambrix asserts that the sentencing jury's consideration of the "cite31†especially heinous, atrocious or cruel " ("HAC") and "cold, calculated and premeditated" ("CCP") aggravating factors violated the cite32†Eighth Amendment because the jury was not given sufficient guidance concerning the application of these factors. See cite33†Maynard v. Cartwright , cite34†486 U.S. 356, 359 , cite35†108 S.Ct. 1853, 1856 , cite33†100 L.Ed.2d 372 (1988), and cite36†Godfrey v. Georgia , cite37†446 U.S. 420, 428 -29, cite38†100 S.Ct.
+L75: 1759, 1765 , cite36†64 L.Ed.2d 398 (1980). We assume arguendo that the jury was not given sufficient guidance on these factors.cite39†4 However, the trial judge reweighed the aggravating and mitigating factors, and sentenced Lambrix to death. The state argues that the trial judge is presumed to know and apply the law in the narrow construction as required by Florida Supreme Court cases.
+L76: Thus, the state argues that the sentencing judge's proper reweighing of the HAC and CCP factors cured any error in the jury's consideration of these factors. Under Espinosa, we now know that the sentencing judge's reweighing of aggravating factors is insufficient to cure constitutional defects in the sentencing jury's consideration of those factors. cite40†505 U.S. at 1081 -82, cite26†112 S.Ct. at 2928 -29. However, on facts identical in all relevant respects to this case, the en banc court in cite41†Glock v.
+L77: Singletary ,cite42†5 held that Espinosa's holding--i.e., a sentencing judge's proper reweighing does not cure the constitutional error--is a new rule which cannot be applied retroactively under cite9†Teague v. Lane , cite9†489 U.S. 288 , cite9†109 S.Ct. 1060 , cite9†103 L.Ed.2d 334 (1989). Thus, because Lambrix's conviction became final before the Espinosa decision announced the new rule, Lambrix's Espinosa claim is Teague-barred. Teague, cite43†489 U.S. at 310 , cite9†109 S.Ct. at 1075 .
+L78: cite44†¶6 L79: 
+L80: B. Ineffective assistance of counsel at sentencing
+L81: 
+L82: cite45†¶7 L83: Lambrix asserts that he received ineffective assistance during the sentencing phase of his trial because counselcite46†6 failed to investigate and present mitigating evidence of Lambrix's alcoholism and drug dependence, and evidence that Lambrix had been subject to sexual and physical abuse as a child. Claims of ineffective assistance during the penalty phase of a capital case are subject to the two-prong analysis laid out by the United States Supreme Court in cite8†Strickland v. Washington , cite8†466 U.S.
+L84: 668 , cite8†104 S.Ct. 2052 , cite8†80 L.Ed.2d 674 (1984). To make out a successful claim, Lambrix must show (1) that his counsel's performance was deficient, and (2) that the deficient performance prejudiced the defense. cite47†466 U.S. at 687 , cite8†104 S.Ct. at 2064 . Because we find that counsel's performance was not deficient, we do not address whether the alleged errors in counsel's representation prejudiced Lambrix.
+L85: cite48†¶8 L86: Counsel's performance is deficient if counsel fails to make a reasonable investigation for possible mitigating evidence in preparation for the penalty phase of a capital trial. cite49†Thompson v. Wainwright , cite50†787 F.2d 1447, 1451 (11th Cir.1986), cert. denied, cite51†481 U.S. 1042 , cite52†107 S.Ct. 1986 , cite53†95 L.Ed.2d 825 (1987). This is not a case where counsel failed to make an investigation altogether, Cf.
+L87: Thompson, cite50†787 F.2d at 1451 (counsel failed to conduct any investigation of defendant's background for possible mitigating evidence), or where counsel made only a desultory or cursory effort to find mitigating evidence. Cf. cite54†Armstrong v. Dugger , cite55†833 F.2d 1430, 1433 (11th Cir.1987) (counsel's investigation consisted of consultation with probation officer and one interview with defendant and parents).
+L88: Counsel undertook substantial effort to find mitigating evidence, enlisting the aid of an independent investigator, and interviewing Lambrix and at least five members of Lambrix's immediate family. Counsel consulted Dr. Whitman, a mental health professional who had conducted a psychological evaluation of Lambrix to determine Lambrix's competence to stand trial. Counsel also reviewed various prison records. At some point, counsel uncovered evidence of Lambrix's alcohol and drug dependence.
+L89: However, Lambrix argues that counsel's investigation was inadequate because counsel failed to discover further evidence of chemical dependence, and counsel failed to uncover any evidence whatsoever of sexual and physical abuse and neglect. We turn first to Lambrix's claim that counsel was ineffective for failure to discover and present evidence of alcohol and drug use, and then address the similar claim with respect to physical and sexual abuse.
+L90: cite56†¶9 L91: Lambrix argues that counsel's investigation was inadequate because counsel failed to uncover a wealth of additional available evidence of alcoholism and drug use. We disagree.
+L92: After an evidentiary hearing, the district court found that counsel was aware of Lambrix's history of alcohol abuse; however, the district court also found counsel's failure to present evidence of chemical dependence at sentencingcite57†7 was the result of counsel's tactical decision to downplay the evidence of chemical dependency in order to focus on evidence of Lambrix's good character.
+L93: As the district court noted, counsel could have reasonably determined that evidence of chemical dependence would be detrimental rather than beneficial in the sentencing phase, and that such evidence would undermine counsel's apparent strategy of painting the crime as a mere aberration in the life of a generally upstanding individual.
+L94: cite58†¶10 L95: After a reasonable tactical decision has made further investigation into a particular matter unnecessary, an attorney is not deficient in his duty to make a "reasonable investigation" by failing to further investigate that matter. See Strickland, cite59†466 U.S. at 691 , cite60†104 S.Ct. at 2066 ("[C]ounsel has a duty to make reasonable investigations or make a reasonable decision that makes particular investigations unnecessary.") (emphasis added).
+L96: Lambrix argues that counsel's failure to present more evidence of alcohol and drug dependency could not have been a tactical decision because counsel testified in a 1990 deposition that his tactic would have been to offer mitigating evidence of chemical dependency if such evidence had been available.
+L97: However, our reading of the deposition transcript reveals that counsel at this point was not testifying from specific recollection of Lambrix's trial, but as to counsel's penalty phase strategy as a general matter. The deposition testimony does not expressly state why, in Lambrix's particular case, counsel chose not to present chemical dependency evidence when counsel was aware that such evidence was available.
+L98: cite61†¶11 L99: After a careful review of the record, we have no firm conviction that the district court erred in finding that counsel made a tactical decision not to present such evidence. See cite62†Crawford v. Western Elec. Co., Inc. , cite62†745 F.2d 1373, 1377 (11th Cir.1984) (Under the clearly erroneous standard, a "district court's factual findings must be allowed to stand unless the reviewing court is left with a definite and firm impression that a mistake has been made.").
+L100: The strong presumption that counsel's actions were the result of sound trial strategy, Strickland, cite63†466 U.S. at 689 , cite8†104 S.Ct. at 2065 , the reasonableness of the strategy actually adopted by counsel as revealed in the record, and the weakness of the contrary evidence, all support the district court's finding that counsel made a tactical decision.
+L101: Thus, we hold that counsel's reasonable investigation and his reasonable tactical decision to downplay chemical dependence made further investigation into evidence of drug and alcohol abuse unnecessary.
+L102: cite64†¶12 L103: Lambrix also argues that counsel's investigation was inadequate because counsel failed to learn of Lambrix's childhood experiences of sexual abuse, physical abuse, and neglect.
+L104: Lambrix proffers the affidavits of family members and friends, including some of the witnesses that counsel called during sentencing, who swear they would have been happy to testify as to Lambrix's abused childhood if they had only been asked.cite65†8 However, when counsel conducted the penalty phase investigation, there is no indication that Lambrix or Lambrix's relatives gave counsel reason to believe that such evidence might exist. Cf. cite66†Jackson v.
+L105: Herring , cite67†42 F.3d 1350, 1367 (11th Cir.1995) (ineffective assistance where counsel had evidence that certain mitigating circumstances might exist but failed to investigate further); cite68†Middleton v. Dugger , cite69†849 F.2d 491, 493 (11th Cir.1988) (ineffective assistance where defendant informed counsel that mitigating evidence existed and counsel failed to investigate).
+L106: Moreover, although there was ample extant documentary evidence of Lambrix's alcohol and drug problems, Lambrix does not point us to any documentary evidence of Lambrix's abuse or neglect that would have been readily available to counsel at the time. Cf.
+L107: Middleton, cite70†849 F.2d at 494 (counsel on notice of mitigating evidence when readily available records from various reform schools, family court, youth services, and prison health services chronicled defendant's childhood of brutal treatment, neglect, physical, sexual and drug abuse, low I.Q. and mental illness). In fact, in his interview with Dr. Whitman, Lambrix denied any physical or sexual abuse by his parents.cite71†9 L108: cite72†¶13 L109: Although counsel has the obligation to conduct a reasonable investigation even if the defendant is reluctant to cooperate, cite73†Blanco v. Singletary , cite74†943 F.2d 1477, 1503 (11th Cir.1991), cert. denied, cite75†504 U.S. 943, 946 , cite76†112 S.Ct. 2282, 2290 , cite77†119 L.Ed.2d 207, 213 (1992), counsel cannot be held responsible for failing to find mitigating evidence if, after a reasonable investigation, nothing has put the counsel on notice of the existence of that evidence. cite78†Funchess v.
+L110: Wainwright , cite79†772 F.2d 683, 689 (11th Cir.1985) (counsel not ineffective for failure to discover defendant's history of psychological problems when defendant did not tell attorney of any past psychological problems), cert. denied, cite80†475 U.S. 1031 , cite81†106 S.Ct. 1242 , cite82†89 L.Ed.2d 349 (1986); cite83†Collins v. Francis , cite84†728 F.2d 1322, 1349 (11th Cir.) (counsel not ineffective for failing to investigate witnesses in mitigation when defendant failed to make their presence known to counsel), cert.
+L111: denied, cite85†469 U.S. 963 , cite86†105 S.Ct. 361 , cite86†83 L.Ed.2d 297 (1984).
+L112: cite87†¶14 L113: As noted above, we conclude that counsel's investigation for the penalty phase was fairly extensive and certainly was not constitutionally deficient. Even after an extensive investigation, including interviews with witnesses who were in the household at the time of the alleged abuse and neglect, counsel had no indication that evidence of abuse existed. We therefore cannot hold counsel responsible for failure to uncover such evidence.
+L114: Thus, Lambrix has not shown that counsel's performance was deficient during the penalty phase.
+L115: cite88†¶15 L116: 
+L117: C. Ineffective assistance of appellate counsel
+L118: 
+L119: cite89†¶16 L120: Lambrix argues his appellate counselcite90†10 was ineffective because counsel challenged only the guilt phase of Lambrix's second trial, and did not challenge the death sentences on appeal. Specifically, Lambrix asserts that counsel should have argued that three of the aggravating factors found by the trial court were not present: HAC, CCP and pecuniary gain.cite91†11 We apply the same two-prong test to Lambrix's challenge to the effectiveness of appellate counsel. See cite92†Atkins v.
+L121: Singletary , cite93†965 F.2d 952, 960 (11th Cir.1992) (applying Strickland test to challenge of counsel's effectiveness on appeal), cert. denied, --- U.S. ----, cite94†115 S.Ct. 2624 , cite95†132 L.Ed.2d 865 (1995). Because counsel's representation was not deficient, we find that representation was not ineffective without addressing whether Lambrix was prejudiced.
+L122: cite96†¶17 L123: Lambrix asserts that counsel's failure to raise sentencing issues on appeal was due to counsel's inexperience and ignorance. The record simply does not support Lambrix's claim. Although this was counsel's first death penalty appeal, the record shows that counsel diligently uncovered issues worthy of appeal and adequately presented those issues to the court. Counsel reviewed the record and trial transcript and consulted with Lambrix's trial attorneys to determine what issues might be raised.
+L124: In addition, counsel consulted a Public Defender's Association manual on death penalty practice and obtained sample appellate briefs prepared for prior death penalty cases before the Florida Supreme Court. In all, counsel spent over 146 hours preparing for the appeal, including 75 hours researching and writing the appellate brief. Counsel specifically recalls reviewing the penalty phase portion of the transcript and discussing potential penalty phase issues with Lambrix's trial attorneys.
+L125: Counsel asserts that he did not raise sentencing issues on appeal because there were simply no meritorious sentencing issues to be raised. Because the record adequately supports all three of the aggravating factors that Lambrix now argues counsel should have challenged, we concur.cite97†12 Thus, it is clear that counsel's failure to raise sentencing issues was not out of ignorance, but was the product of an informed belief that there were no meritorious sentencing issues. See cite98†Alvord v.
+L126: Wainwright , cite99†725 F.2d 1282, 1291 (11th Cir.) (failure to brief issues reasonably considered to be without merit not ineffective assistance), cert. denied, cite86†469 U.S. 956 , cite86†105 S.Ct. 355 , cite86†83 L.Ed.2d 291 (1984). Therefore, we find that Lambrix has failed to show that he received ineffective assistance from appellate counsel.
+L127: D. Double Jeopardy
+L128: 
+L129: cite100†¶18 --------------------------------------------------------------------------------
+72 F.3d 1500 - Lambrix v. Singletary — 72 F.3d 1500 | OpenJurist (https://openjurist.org/72/f3d/1500/lambrix-v-k-singletary)
+citeturn6view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn4view1","lineno":192}); Total lines: 324
+L152: Lambrix argues that we should hold that he was also denied the right to testify at his second trial. He asserts that he was still feeling coerced not to testify because the second trial commenced only two months after a mistrial was declared in the first, and he was being represented by the same attorney. However, there is simply no evidence in the record that Lambrix was coerced not to testify in his second trial.
+L153: Two months is sufficient time for Lambrix and counsel to discuss a new trial strategy which would permit Lambrix to testify on his own behalf, or for Lambrix to request other counsel who would allow him to exercise this right. Without evidence that Lambrix was subject to continued coercion, we cannot assume that Lambrix's apparent acquiescence to a trial strategy in which he did not testify was anything but voluntary.
+L154: cite126†¶24 L155: Lambrix also argues that his counsel did not inform him that he had the right to testify at his second trial, and did not make him aware that the ultimate decision on whether to exercise that right belonged to him. Under cite127†United States v. Teague , cite128†953 F.2d 1525, 1534 (11th Cir.1992), a defense attorney renders ineffective assistance if he fails to adequately inform his client of the right to testify, and that failure prejudices the defense.
+L156: Lambrix's claim that he was unaware of his right to testify is dubious considering the evidence he has adduced concerning his attempt to assert that right in his first trial. Moreover, after receiving an evidentiary hearing on this issue before the district court, Lambrix adduced no evidence supporting his allegation that counsel failed to adequately inform him of the right to testify.
+L157: Therefore, Lambrix has simply failed to show that some action or inaction by counsel deprived him of "the ability to choose whether or not to testify in his own behalf." cite129†Id. L158: III. CONCLUSION
+L159: 
+L160: cite130†¶25 L161: 
+L162: For the foregoing reasons, we affirm the district court's denial of Lambrix's cite24†28 U.S.C. Sec. 2254 habeas petition.
+L163: 
+L164: cite131†¶26 L165: 
+L166: AFFIRMED.
+L167: 
+L168: cite132†1 L169: 
+L170: A summary of facts surrounding the murders can be found in cite20†Lambrix v. State. cite133†494 So.2d 1143, 1145 (Fla.1986)
+L171: 
+L172: cite134†2 L173: The trial judge found the following aggravating circumstances with respect to Moore and Bryant: (1) the capital felonies were committed by a person under a sentence of imprisonment (Lambrix had committed the crimes while a fugitive from Lakeland Community Correctional Center where he was serving two years in the Florida State Prison System.); (2) the defendant was previously convicted of another capital felony (The judge found that, under cite135†King v. State , cite136†390 So.2d 315, 320 -21 (Fla.1980), cert.
+L174: denied, cite137†450 U.S. 989 , cite138†101 S.Ct. 1529 , cite138†67 L.Ed.2d 825 (1981), Lambrix's conviction of Moore's murder was a previous conviction with respect to Bryant's murder and vice-versa.); (3) the capital felonies were especially heinous, atrocious and cruel; and (4) the capital felonies were homicides and were committed in a cold, calculated, and premeditated manner without any pretense of moral or legal justification. The judge also found that the murder of Moore was committed for pecuniary gain
+L175: cite139†3 L176: Lambrix also asserts on appeal: (1) ineffective assistance of counsel during the guilt phase; (2) the trial court erred in refusing to grant a change in venue; (3) the trial court's limitation of cross-examination of some witnesses denied Lambrix his right to confront witnesses against him; (4) the trial court erred in failing to give a jury instruction on voluntary intoxication; and (5) the sentencing court made miscellaneous erroneous rulings and instructions which deprived Lambrix of a fair and reliable sentencing proceeding
+L177: cite140†4 L178: The jury was instructed that two of the aggravating circumstances which they could consider were whether the "crime for which the defendant is to be sentenced was especially wicked, atrocious, or cruel," and that the "crime for which the defendant is to be sentenced was committed in a cold, calculated and premeditated manner without any pretense of moral or legal justification." The only other instruction pertaining to either of these aggravating circumstances was given subsequently when the trial judge stated to the jury: "If the evidence shows beyond a reasonable doubt that the death was caused by one or more numerous wounds to the decedent, you may be justified in finding that the killing was especially heinous, atrocious or cruel."
+L179: cite141†5 L180: 
+L181: cite142†65 F.3d 878 (11th Cir.1995) (en banc)
+L182: 
+L183: cite143†6 L184: 
+L185: Although two attorneys collaborated on Lambrix's defense at trial, one was primarily responsible for the guilt phase and the other for the penalty phase. Thus "counsel" in this section of the opinion refers to the attorney who represented Lambrix during the penalty phase
+L186: 
+L187: cite144†7 L188: Counsel barely touched the subject of chemical dependency during sentencing. The only evidence of chemical dependence presented at the sentencing hearing was on cross-examination of state witness Polly Moore, the secretary of Lakeland Community Correctional Center. Counsel asked Moore if she was aware of records that indicated that Lambrix "drank steadily and had a dependence on alcohol."
+L189: 
+L190: cite145†8 L191: The district court refused to hear this, or any, evidence of sexual and physical abuse. As originally brought to the state courts, and before the district court below, Lambrix's claim that he received ineffective assistance during the penalty phase was based solely upon counsel's failure to uncover and present drug and alcohol dependency evidence.
+L192: For the first time at the evidentiary hearing before the district court, Lambrix attempted to claim that counsel's performance was also deficient for failure to discover available evidence of sexual and physical abuse and neglect. Reasoning that this was an attempt to raise an entirely new factual theory which significantly altered Lambrix's ineffective assistance claim, the district court refused to hear the sexual and physical abuse evidence. See cite146†Footman v.
+L193: Singletary , cite146†978 F.2d 1207, 1211 (11th Cir.1992) ("[A] habeas petitioner may not present instances of ineffective assistance of counsel in his federal petition that the state court has not evaluated previously."). Because we dispose of Lambrix's ineffective assistance claim on other grounds, we do not address Lambrix's claim that the district court erred in failing to permit a "full and fair" hearing on the sexual and physical abuse evidence
+L194: cite147†9 L195: 
+L196: There is no evidence that Lambrix ever denied the sexual abuse that he now alleges by a neighbor. However, during the sentencing hearing, Lambrix's brother portrayed the particular neighbor as a good influence in Lambrix's life, i.e., as an elderly person who Lambrix occasionally helped out with work around the house and yard. Thus, counsel had no indication that this particular neighbor might have abused Lambrix
+L197: 
+L198: cite148†10 L199: 
+L200: Lambrix was represented by a different attorney on appeal than at trial
+L201: cite149†11 L202: In his habeas petition to the district court, Lambrix also alleged that his appellate counsel's performance was deficient for the following reasons: (1) failure to challenge trial court's denial of change of venue; (2) failure to challenge Lambrix's absence during cite150†critical stages of the trial; (3) failure to challenge trial court's denial of a requested voluntary intoxication instruction; and (4) failure to challenge "under sentence of imprisonment" aggravating factor.
+L203: Because Lambrix does not reassert these claims on appeal, they are deemed abandoned. See cite151†Rogero v. Noone , cite152†704 F.2d 518, 520 n. 1 (11th Cir.1983)
+L204: cite153†12 L205: 
+L206: Moreover, because Espinosa had yet to be decided, there was also no indication that a challenge to the constitutionality of the jury instructions on the HAC and CCP factors would be successful
+L207: 
+L208: cite154†13 L209: 
+L210: In cite10†Bonner v. City of Prichard , cite155†661 F.2d 1206, 1209 (11th Cir.1981) (en banc), this court adopted as binding precedent all of the decisions of the former Fifth Circuit handed down prior to the close of business on September 30, 1981
+L211: 
+L212: Share Print
+L213: 
+L214: Download
+L215: 
+L216: .txt PDF
+L217: 
+L218: Copy
+L219: [Button: URL][Button: Citation Link][Button: Bluebook]
+L220: 
+L221: Embed on your site
+L222: 
+L223: iframe Markdown Preview card Button
+L224: 
+L225: Hover to preview · click to copy the code
+L226: 
+L227: Cite on Wikipediacite156†Search Wikipedia →†en.wikipedia.org L228: 
+L229: Report a problem
+L230: 
+L231: What went wrong?
+L232: 
+L233: 10 to 2,000 characters. 0 so far, 2,000 left.
+L234: 
+L235: Your email (optional)[Input: Only if you would like a reply]
+L236: 
+L237: Website[Input]
+L238: 
+L239: We store your message, the page address, and your email only if you give it. We do not store your IP address.
+L240: [Button: Send][Button: Cancel ]
+L241: ### Panel
+L242: 
+L243:   * AN
+L244: 
+L245: ANDERSON
+L246: 
+L247:   * cite157†Joseph Woodrow Hatchett L248: 
+L249:   * cite158†Phyllis A. Kravitch L250: 
+L251: ### Parties
+L252: 
+L253:   * appellant:Cary Michael LAMBRIX, Petitioner-
+L254:   * appellee:Harry K. SINGLETARY, Respondent-
+L255: ### Counsel
+L256: 
+L257:   * Robert C. Josefsberg, Podhurst, Orseck, Josefsberg, Eaton, Meadow, Olin & Perwin, P.A., Miami, Florida, Matthew Lawry, Volunteer Lawyers’ Resource Center of Florida, Inc., Tallahassee, Florida, for appellant.
+L258: 
+L259:   * Robert J. Krauss, Assistant Attorney General, Tampa, Florida, Carol M. Dittmar, Asst. Atty. General, Tampa, Florida, for appellee.
+L260: ### In the law dictionary
+L261: 
+L262: Defined terms used in this case
+L263: 
+L264:   * cite159†critical stages L265:   * cite160†especially heinous, atrocious or cruel L266:   * cite161†manifest necessity L267: 
+L268: /72/f3d/1500 · cite162†.json · Public domain
+L269: 
+L270: The empirical record of United States law. State and Federal court opinions, the U.S. Code, a multi-source dictionary, judges and courts - sourced from the public domain, analyzed in the open.
+L271: 
+L272: U.S. Government work · public domain · not legal advice
+L273: 
+L274: With special thanks to
+L275: 
+L276: Browse the record
+L277:   * cite163†Cases L278:   * cite164†Code L279:   * cite165†Law Dictionary L280:   * cite166†Federal Judges L281:   * cite167†Courts L282:   * cite168†Law Schools L283:   * cite169†Named Statutes L284:   * cite170†Founding Documents L285:   * cite171†Books L286:   * cite172†Citation Checker L287: 
+L288: For developers + AI agents
+L289: 
+L290:   * cite173†Developers & API L291:   * cite174†/llms.txt L292:   * cite175†JSON API L293: cite176†♥ Support OpenJurist L294: 
+L295: © 2026 OpenJurist♿ Accessibility
+L296: ## Accessibility
+L297: 
+L298: [Button: × ]
+L299: 
+L300: These preferences are saved in your browser.
+L301: 
+L302: Text size
+L303: 
+L304: [Button: A− ]100%[Button: A+ ]
+L305: 
+L306: High contrast Darker text, underlined links[Input]Readable font A wider, more legible typeface[Input]Reduce motion Minimise animations and transitions[Input]
+L307: 
+L308: [Button: Reset to defaults ] cite177†Accessibility statement L309: 
+L310: cite178†Contact cite179†Returns & Refunds cite180†Attributions cite181†Terms of Use cite182†Privacy Policy L311: 
+L312: Report a problem with this page
+L313: 
+L314: What went wrong?
+L315: 10 to 2,000 characters. 0 so far, 2,000 left.
+L316: 
+L317: Your email (optional)[Input: Only if you would like a reply]
+L318: 
+L319: Website[Input]
+L320: 
+L321: We store your message, the page address, and your email only if you give it. We do not store your IP address.
+L322: 
+L323: [Button: Send][Button: Cancel ]
+

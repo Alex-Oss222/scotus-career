@@ -1,0 +1,111 @@
+
+
+    Johnson v. United States, 520 U.S. 461 (1997).
+
+LII
+
+Supreme Court
+
+Johnson v. United States (96-203), 520 U.S. 461 (1997).
+
+Opinion 
+ [ Rehnquist ]Syllabus 
+
+HTML version
+WordPerfect versionHTML version
+WordPerfect version
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See United States v. Detroit Timber & Lumber
+ Co., 200
+ U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+Syllabus
+
+JOHNSON v. UNITED
+ STATES
+
+certiorari to the united states
+ court of appeals for the eleventh circuit
+
+No. 96-203.
+ Argued February 25, 1997 -- Decided
+ May 12, 1997
+
+Petitioner Johnson testified before a federal grand jury, investigating,
+ inter alia, the disposition of proceeds from her boyfriend's alleged
+ drug trafficking, that she had obtained tens of thousands of dollars to
+ improve her home from a box of cash given her late mother by one Talcott.
+ Subsequently, she was charged with violating 18
+ U.S.C. § 1623 which proscribes "knowingly mak[ing] any false material
+ declaration" under oath before a grand jury. At her trial, it was revealed
+ that her boyfriend had negotiated the purchase of her home and had an interest
+ in a corporation whose checks had been used to help pay for the property,
+ and that Talcott had died several years before the time he allegedly gave
+ her mother the money. Johnson did not object when, in accordance with then
+ extant Circuit precedent, the judge instructed the jury that materiality
+ was a question for him to decide, and that he had determined that her statements
+ were material. Johnson was convicted of perjury, but before her appeal,
+ this Court ruled, in United States v. Gaudin, 515 U. S. ___,
+ that the materiality of a false statement must be decided by a jury rather
+ than a trial judge. On appeal, Johnson's claim that her conviction was
+ invalid under Gaudin was reviewed by the Eleventh Circuit pursuant
+ to Federal Rule of Criminal Procedure 52(b), which allows plain errors
+ affecting substantial rights to be noticed even though no objection has
+ been made. Following the analysis outlined in United States v. Olano,
+ 507
+ U.S. 725, the court assumed arguendo that the District Court's
+ failure to submit materiality to the jury constituted "error" that was
+ "clear or obvious." However, it concluded that any such error did not affect
+ "substantial rights" because its independent review of the record showed
+ that there was "overwhelming" evidence of materiality and that no reasonable
+ juror could conclude that Johnson's false statements about the money's
+ source were not material to the grand jury's investigation.
+
+Held: The trial court's
+ action in this case was not "plain error" of the sort which an appellate
+ court may notice under Rule 52(b).
+
+(a) Since §1623's text
+ leaves no doubt that materiality is an element of perjury, Gaudin
+ dictates that materiality in this case be decided by the jury, not the
+ court. Johnson's failure to timely assert that right before the trial court
+ ordinarily would result in forfeiture of the right pursuant to Rule 30.
+ However, Rule 52(b) mitigates Rule 30 and, contrary to Johnson's argument,
+ governs her direct appeal. The Olano test for applying Rule 52(b)
+ requires that there be (1) error, (2) that is plain, and (3) that affects
+ substantial rights. If these three conditions are met, an appellate court
+ may exercise its discretion to notice a forfeited error, but only if (4)
+ the error seriously affects the fairness, integrity, or public reputation
+ of judicial proceedings. Pp. 4-5.
+
+(b) The first prong of Olano is satisfied here, as Gaudin
+ must be applied to Johnson's case on direct review. See Griffith
+ v. Kentucky, 479
+ U.S. 314, 328. The second prong is met as well. In a case such as this--where
+ the law at the time of trial was settled and clearly contrary to the law
+ at the time of appeal--it is sufficient that the error be plain at the
+ time of appellate consideration. Even assuming that the third prong is
+ also satisfied, a court must still determine whether the forfeited error
+ meets the fourth prong before it may exercise its discretion to correct
+ the error. In this case the fourth question must be answered in the negative.
+ Materiality was essentially uncontroverted at trial and has remained so
+ on appeal. Johnson has presented no plausible argument that her false statement
+ under oath--lying about the source of the money she used to improve her
+ home--was somehow not material to the grand jury investigation. It would
+ be the reversal of her conviction, not the failure to notice the error,
+ that would seriously affect the fairness, integrity, or public reputation
+ of judicial proceedings. Pp. 5-9.
+
+82 F. 3d 429,
+ affirmed.
+
+Rehnquist, C. J., delivered
+ the opinion of the Court, which was unanimous except insofar as Scalia,
+ J., did not join Parts II-B and II-C. 
+
