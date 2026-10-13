@@ -4,9 +4,9 @@ All three opening trackers identify **Last completed October Term: 1995**, proce
 
 The [manifest](manifest.md) preserves all 153 supplied inventory events and the opening decision admitting 58 lower-court additions with no prior-term carryover. Completed rows reflect only canonical Records. Uncoordinated same-day events use a common entering-law baseline; navigation order creates no dependency. The initial divergence is October 7, 1991.
 
-Current completed-Court-event cursor: **1997-02-26**. Coverage: **45 Court events and 2 admitted sources**. The next open inventory row is:
+Current completed-Court-event cursor: **1997-02-26**. Coverage: **47 Court events and 2 admitted sources**. The next open inventory row is:
 
-| 1997-02-18 | OT_1996CHUNK4 | Ehrlich v. City of Culver City + | California Supreme Court No. S033642; historical petition 96-238 | MERITS | Authorized simulation lower-court merits grant | Open; no completed Court action | Assigned preparation date | 1997-02-18 | Granted — to be heard on the merits | Common prerequisites; Standing State §4 questions and neutral merits record |
+| 1997-02-26 | OT_1996CHUNK5 | Andrade v. Mayfair Management, Inc. + | Fourth Circuit No. 95-2476 | MERITS | Authorized simulation lower-court merits grant | Open | Assigned preparation date | 1997-02-26 | Granted — to be heard on the merits | Common prerequisites; Standing State §4 questions and neutral merits record |
 
 The January 14 peers in chunk 3—Chamber of Commerce v. Reich, Castano, and In re Deuel—use the common pre-January-14 baseline. Atherton, Grimmett, Abebe-Jira, and Walters do not become their intervening law by processing order. Each later event must still receive any earlier-effective current-term holding it actually implicates. The remaining February 26 peers in chunk 5 likewise use the common pre-February-26 baseline: Wells does not become their intervening law through processing order. The February 18 inventory peers in chunk 4 - Uhlrig, Brockamp, Legi-Tech, and Ehrlich - use the common pre-February-18 baseline; the February 18 decisions in this chunk do not become intervening law by processing order.
 
@@ -1987,6 +1987,22 @@ No qualifying assessment agreement, special-period tax item or mitigation circum
 
 The applicable §6511 filing and amount provisions independently reject the asserted nonstatutory incapacity and extraordinary-inability extension. Courts must distinguish actual return filing from a return's due date and filing timeliness from the separate amount recoverable. Express statutory adjustments retain their own conditions; none is established here. The decision supplies no universal jurisdictional classification, no later disability amendment and no adjudication of a separate fraud, inducement, recoupment or constitutional claim.
 
+### 1997-02-18 - Ehrlich v. City of Culver City; California Supreme Court No. S033642; historical petition identifier 96-238; no separately assigned Supreme Court docket is established. October Term 1996, chunk 4, inventory No. 39.
+
+Authority: [Record](../records/Ehrlich_v_City_of_Culver_City_DIG_1997-02-18.md).
+
+#### Holdings
+
+The dismissal creates no Supreme Court merits or jurisdictional holding. The Court does not decide whether the art component could be separately reviewed under Cox Broadcasting Corp. v. Cohn, whether nexus and rough proportionality extend to the monetary conditions presented, the validity of the art program, or the construction of the Mitigation Fee Act.
+
+#### Precedent Treatment
+
+No precedent is applied, distinguished, limited or overruled in a published explanation.
+
+#### Law After Decision
+
+The dismissal changes no governing Supreme Court rule. Existing limits and reservations concerning monetary exactions and generally applicable development conditions remain unresolved by this proceeding.
+
 ### 1997-02-19 - Auer v. Robbins; No. 95-897.
 
 Authority: [Record](../records/Auer_v_Robbins_merits_1997-02-19.md).
@@ -2052,6 +2068,41 @@ The lower opinion quoted both conditions and required reimbursement, but its for
 #### Law After Decision
 
 The Board may be subjected to these FLSA proceedings without deciding the State's own immunity. Salary basis remains a valid component of the public executive/administrative exemption. Practical exposure, actual deductions and correction are distinct inquiries, and every stated regulatory exception retains its conditions. The own-regulation controlling-weight rule remains law; the Chief Justice's proposed replacement receives no additional join. A correction-dependent exemption requires both reimbursement and the future promise, secured through the present mandate. Duties and the former district award are not reopened.
+
+### 1997-02-19 - Lynce v. Mathis, No. 95-7452; October Term 1996, chunk 4, inventory No. 41.
+
+Authority: [Record](../records/Lynce_v_Mathis_threshold_1997-02-19.md).
+
+#### Holdings
+
+**Holding and operative rule:** Before a favorable habeas merits adjudication on Lynce's sole Ex Post Facto claim, the lower courts must determine the actual exhaustion predicate and the scope and legal effect of the State's qualified futility concession. The election to pursue only the cancellation claim neither creates a mixed petition from hypothetical additional theories nor by itself establishes exhaustion, express waiver, or the absence or ineffectiveness of available state corrective process.
+
+**Authority:** Thomas's Opinion of the Court, joined in full by Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer. These eight Justices adopt the same threshold rule, explanation and limited remand. The Chief Justice joins the judgment only and writes separately. No aggregation of distinct rationales is needed.
+
+**Controlling explanation:** Section 2254 requires exhaustion or an established absence or ineffectiveness of state corrective process before habeas relief may be granted. Granberry v. Greer establishes that exhaustion does not remove appellate power, but its discretionary holding concerned a State that omitted the district-court defense. Florida expressly raised that defense and refused waiver. Duckworth v. Serrano prevents clear constitutional error or efficiency alone from supplying the missing statutory predicate.
+
+The State nevertheless affirmatively accepted futility for the common cancellation issue concerning prisoners still in custody, distinguished Lynce's prior release as potentially creating additional reincarceration claims, and later confirmed that he pursued only the Ex Post Facto claim. This supports a substantial claim-specific exception argument. But the district answer already identified that sole claim while retaining its custody qualification, available-procedure account and nonwaiver position. The later election does not conclusively resolve those limits, and counsel's legal characterization cannot alter the statute.
+
+California Department of Corrections v. Morales supplies a concrete intervening reason to reconsider the older Florida decisions that treated overcrowding credits as merely procedural. Morales protects a demonstrated offense-date opportunity for meaningful release consideration; it rejects the procedural label as sufficient while retaining the prisoner's ultimate punishment-increase burden. The older adverse precedents therefore do not conclusively establish that state consideration would now be ineffective. The remaining comparison between Florida's offense-date and later credit laws also may give state proceedings meaningful work. This does not establish that relief in state court is necessarily available or that each accounting detail requires separate exhaustion.
+
+Rose v. Lundy concerns claims actually asserted, so conceivable additional theories cannot manufacture a mixed petition. The Court returns the actual statutory question for decision without resolving the constitutional merits. The lower courts may accept a legally sufficient claim-specific exception; they must not order a state-court detour regardless of what the qualified concession means.
+
+**Limits and questions not reached:** No constitutional violation, statutory continuity, protected-credit amount, release date or entitlement to restoration is decided. Neither a Florida procedural default nor cause and prejudice is established. The State's assertion that every other possible theory is foreclosed remains an argument, not a preclusion holding. The decision does not decide the 1996 amendment's general application to this already-pending proceeding: it rests on no relevant difference between versions and adopts no implied-waiver theory. Permission to deny a claim despite nonexhaustion does not authorize a favorable grant on an assumed predicate. The Court neither requires new filings nor treats the source record as missing litigation conduct.
+
+#### Precedent Treatment
+
+- Granberry v. Greer, 481 U.S. 129 (1987): applies its distinction between appellate power and exhaustion, while distinguishing its omitted district defense; it does not authorize automatic waiver or unrestricted disregard of an expressly maintained defense.
+- Duckworth v. Serrano, 454 U.S. 1 (1981): applies the rejection of merits clarity and judicial economy as independent excuses; unavailable or ineffective state process remains a distinct statutory possibility.
+- Rose v. Lundy, 455 U.S. 509 (1982): preserves its actual mixed-petition rule without creating claims the prisoner did not pursue or treating election as exhaustion of the remaining claim.
+- California Department of Corrections v. Morales, decided April 25, 1995: recognizes its binding meaningful-opportunity protection as intervening law relevant to claimed futility. Its merits rule, claimant burden, limited substitute-substantiation requirement and remedy remain unchanged; it does not itself decide Florida credit continuity or excuse exhaustion.
+- Cavanaugh v. Roller, decided November 30, 1993: retains its meaningful-opportunity protection and opportunity-only remedy. Its civil-rights route does not remove habeas exhaustion from a demand for restored credits and shorter custody.
+- Engle v. Isaac, 456 U.S. 107 (1982): its refusal to equate predicted futility with cause for procedural default cautions against automatic reliance on adverse precedent; no default or cause-and-prejudice holding is made here.
+- Schall v. Martin, 467 U.S. 253 (1984): the cited account of a lower court's futility conclusion supplies no universal Supreme Court exception for first presentation after adverse precedent.
+- Weaver v. Graham, 450 U.S. 24 (1981): no new Court application to Florida's canceled credits is made; its merits relevance appears only in the Chief Justice's noncontrolling concurrence.
+
+#### Law After Decision
+
+The governing change in this proceeding is a required determination of the actual exhaustion predicate and the qualified concession before a favorable merits adjudication. No general adverse-precedent exception, automatic waiver, mandatory rejection of concession-based exceptions or requirement to pursue hypothetical additional claims is created. The existing Ex Post Facto rules remain unchanged. The Court establishes neither continuity between the 1983, 1987 and 1988 Florida credit systems nor a protected number of days. The Chief Justice's conditional views do not supply an alternative Court holding.
 
 ### 1997-02-19 - Maryland v. Wilson; No. 95-1268; OT1996, chunk 4.
 
@@ -2561,6 +2612,16 @@ In his view, delegation to prescribe an exemption differs from the judicial resp
 
 His proposed change would preserve lawful delegated policy choices, operative regulatory text, ordinary reasoned-decisionmaking requirements, review of the agency's actual ground and the earlier decisions' independent substantive holdings. He would not reopen TJU's completed reimbursement judgment or declare its actual construction substantively wrong. Statute-specific allocations of authority require separate examination. Concrete reliance involving settled transactions, compensation arrangements and fairly communicated obligations deserves weight; an administrative preference for controlling deference is not itself that reliance. This record identifies no concrete reliance requiring a different result where independent interpretation reaches the same salary construction and correction mechanism. He makes no finding about reliance across other programs, authorizes no general reopening, and leaves distinct retrospective-liability claims to their applicable notice, finality and remedial rules. This proposed doctrinal change is noncontrolling.
 
+### 1997-02-19 - Lynce v. Mathis, No. 95-7452; October Term 1996, chunk 4, inventory No. 41.
+
+Authority: [Record](../records/Lynce_v_Mathis_threshold_1997-02-19.md).
+
+Chief Justice Stone-Zsela concurs in the judgment; no other Justice joins his writing. He agrees that exhaustion comes first and that the Court should not decide the Ex Post Facto merits on this record. His following view is conditional on the courts lawfully reaching those merits and decides nothing for the Court.
+
+Applying Weaver v. Graham, which protects a legally available means of reducing confinement, and California Department of Corrections v. Morales, which protects meaningful mandatory reconsideration without requiring proof that the lost hearing certainly would have produced parole, he would hold that Florida violated the Ex Post Facto Clause when retrospective cancellation of release credits already awarded and used to release Lynce lengthened his confinement. The objective operation of the credit system determines the punishment effect; its original overcrowding purpose does not negate the actual return to prison. Florida used the credits to calculate and end imprisonment, then applied an offense-based cancellation backward and reincarcerated Lynce. That direct increase is more than the lost opportunity protected in Morales despite the Board's initial individualized prediction. A credit determining lawful release forms part of the effective measure of confinement; describing it as administrative does not erase its effect.
+
+This position does not freeze every prison-administration rule, protect credits never awarded or lawfully unavailable at the offense date, or bar prospective changes that do not increase punishment for completed conduct. If the merits are reached, he would have the district court determine the protected amount under the correct temporal analysis, order release if the lawful sentence has expired, and recalculate any remaining confinement without the unconstitutional retrospective cancellation. He does not demand certainty that an omitted hearing would have yielded release. Those conditional merits and remedial views impose no present credit award or release command.
+
 ### 1997-02-19 - Maryland v. Wilson; No. 95-1268; OT1996, chunk 4.
 
 Authority: [Record](../records/Maryland_v_Wilson_merits_1997-02-19.md).
@@ -2793,11 +2854,23 @@ Authority: [Record](../records/United_States_v_Brockamp_merits_1997-02-18.md).
 
 Both cases return for proceedings consistent with the statutory ruling. Scott's adjudicated incapacity remains accepted for this legal decision, but cannot support the refund and dependent interest; his rejected request for earlier interest is not reopened. Brockamp's disputed incapacity no longer requires the tolling trial ordered below, while her preserved deposit alternative remains available for ordinary appellate consideration. The Court makes no deposit finding, diligence/default finding or fixed refund award.
 
+### 1997-02-18 - Ehrlich v. City of Culver City; California Supreme Court No. S033642; historical petition identifier 96-238; no separately assigned Supreme Court docket is established. October Term 1996, chunk 4, inventory No. 39.
+
+Authority: [Record](../records/Ehrlich_v_City_of_Culver_City_DIG_1997-02-18.md).
+
+Supreme Court review on this writ ends. The state judgment and its directions for reconsideration of the recreation charge remain operative. No new hold, evidentiary production requirement or return condition is imposed by this dismissal.
+
 ### 1997-02-19 - Auer v. Robbins; No. 95-897.
 
 Authority: [Record](../records/Auer_v_Robbins_merits_1997-02-19.md).
 
 The judgment is affirmed with this Court's enforceable correction condition. On return, the lower courts must give effect to actual reimbursement and a future-compliance promise before disposing of the affected salary-basis claim on a corrected-exemption ground. Without performance that ground remains unavailable, and compensation consequences require lawful determination. No completed cure, express earlier remand or implementation schedule is presumed. The uncontested duties ruling remains intact; the Court neither restores the former $9,284 district award nor orders a general new evidentiary inquiry.
+
+### 1997-02-19 - Lynce v. Mathis, No. 95-7452; October Term 1996, chunk 4, inventory No. 41.
+
+Authority: [Record](../records/Lynce_v_Mathis_threshold_1997-02-19.md).
+
+The case returns through the Eleventh Circuit for the focused exhaustion determination under the ordinary applicable certificate and habeas procedures. The courts must assess the sole claim, the actual submissions, the governing law and any legally sufficient statutory exception before a favorable merits adjudication. No fixed deadline, new production order, mandatory state-court detour regardless of an exception, credit award or release date is prescribed. Supreme Court review concludes on this remand; the habeas proceedings remain unresolved below.
 
 ### 1997-02-19 - Maryland v. Wilson; No. 95-1268; OT1996, chunk 4.
 

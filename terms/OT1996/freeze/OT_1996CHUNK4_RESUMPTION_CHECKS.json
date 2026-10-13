@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "existing_files_hashed": 848,
+  "existing_records_public_substance_preserved": 47,
+  "court_events": 47,
+  "admitted_sources": 2,
+  "chunk4_events": 12,
+  "new_records": [
+    "Ehrlich_v_City_of_Culver_City_DIG_1997-02-18.md",
+    "Lynce_v_Mathis_threshold_1997-02-19.md"
+  ],
+  "changed_existing_files": [
+    "terms/OT1996/records/Brown_v_Hot_Sexy_Safer_Productions_merits_1997-02-24.md",
+    "terms/OT1996/records/Dunn_v_CFTC_merits_1997-02-25.md",
+    "terms/OT1996/records/United_States_v_Wells_merits_1997-02-26.md",
+    "terms/OT1996/render-inputs/OT_1996CHUNK4.md",
+    "terms/OT1996/workspace/continuity.md",
+    "terms/OT1996/workspace/ledger.md",
+    "terms/OT1996/workspace/manifest.md",
+    "terms/OT1996/workspace/neutral-projection.md"
+  ],
+  "git_verification": "deferred; no Git command invoked"
+}

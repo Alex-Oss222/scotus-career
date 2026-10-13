@@ -1,0 +1,32 @@
+[
+  {
+    "record": "Brown_v_Hot_Sexy_Safer_Productions_merits_1997-02-24.md",
+    "receipt_section": "N3",
+    "replacements": 3,
+    "before_sha256": "a81129def1240d2900df8c48c33a8cc4926cbb1a4b99bca923947df8e985ac65",
+    "after_sha256": "561038c793e52baba7e5427424af3bad26ce43f6c1db9f8e2786e3adbd2d9d64",
+    "public_projection": "byte-identical",
+    "opening_labels": "unchanged",
+    "assignment_statements": "unchanged"
+  },
+  {
+    "record": "Dunn_v_CFTC_merits_1997-02-25.md",
+    "receipt_section": "N4",
+    "replacements": 3,
+    "before_sha256": "989406a0c4f9ff684e33987cd88f9264fddef466876167ee22fb9de3759df233",
+    "after_sha256": "4a9298aadec8d81481b655893aecf0a6335d82cd54a4e6cdde5eb0e1ad9c8ca6",
+    "public_projection": "byte-identical",
+    "opening_labels": "unchanged",
+    "assignment_statements": "unchanged"
+  },
+  {
+    "record": "United_States_v_Wells_merits_1997-02-26.md",
+    "receipt_section": "N5",
+    "replacements": 3,
+    "before_sha256": "0224f03947c3456fb3b548745f71e41c2ba4fc0516f5caf46bc05e0cdb34046a",
+    "after_sha256": "5948e595b188d5db16bbc9e74e397da1c9b0af8329738b4cfce8cf1175964899",
+    "public_projection": "byte-identical",
+    "opening_labels": "unchanged",
+    "assignment_statements": "unchanged"
+  }
+]
