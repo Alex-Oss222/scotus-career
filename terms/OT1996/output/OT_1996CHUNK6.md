@@ -14,6 +14,7 @@ All nine Justices participated in each completed event.
 | 1997-03-31 | United States v. Lanier | Merits decision | Vacated; count-specific appellate review under the proper fair-warning rule. |
 | 1997-03-31 | Young v. Fordice | Merits decision | Reversed; covered changes and submission status to be identified and nonuse enforced. |
 | 1997-04-07 | Opuku-Boateng v. California | Merits decision | Affirmed; liability remains resolved and appropriate Title VII relief remains below. |
+| 1997-04-14 | In re Vey | Financial-leave and prospective-filing-control decision | Financial leave granted; no new prospective condition; underlying writ requests remain pending. |
 | 1997-04-15 | Chandler v. Miller | Merits decision | Reversed; declaratory and appropriate prospective relief against candidate testing. |
 | 1997-04-21 | Blessing v. Freestone | Merits decision | Vacated; actual provision-specific claims and operative law to be assessed on remand. |
 | 1997-04-21 | New Mexico Department of Human Services v. Joseph A. and Josephine A. | Merits decision | Affirmed; decree retained while adequate findings on termination are made below. |
@@ -671,6 +672,81 @@ The case returns for the appropriate relief contemplated by the Ninth Circuit's 
 
 ---
 
+### In re Vey, No. 96-8005
+
+Financial-leave and prospective-filing-control decision, April 14, 1997
+
+#### Chronology and Posture
+
+On a motion for leave to proceed without prepayment accompanying an original habeas petition seeking to vacate thirteen-year-old convictions, with alternative mandamus or prohibition requests directing that all charges be dropped. The questions decided concern current financial eligibility, Rule 39.8 treatment of this paper and a proposed new condition on future extraordinary-writ filings. No lower-court judgment is under review through this motion; no oral argument or plenary merits grant is established.
+
+#### Public Action
+
+The motion for leave to proceed without prepayment of the docketing fee and costs is granted. The Court declines the proposed new fee-and-form condition on all future extraordinary-writ petitions. The original habeas petition and alternative writ requests are not decided by this order.
+
+There is no lower-court judgment or mandate to affirm, reverse, vacate or remand. The order announces no separate procedural vote tally.
+
+#### Opinion Topology
+
+Per curiam opinion, joined in full by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Part I addresses current financial eligibility; Part II addresses the complete current paper and resulting financial grant; Part III addresses the proposed prospective condition. This common coalition adopts every holding, explanation, application and limit below.
+
+#### Controlling Propositions and Authority
+
+##### Financial eligibility
+
+**Holding and operative rule:** Vey's Rule 39.1-compliant current motion and proper affidavit or declaration establish inability to prepay the docketing fee and costs. That present showing establishes financial eligibility without making every financial assertion conclusive or supplying entitlement to the requested writ.
+
+**Authority:** Part I of the per curiam opinion, joined throughout by the complete coalition identified in Opinion Topology; the same participating majority adopts this holding, explanation and limits.
+
+**Controlling explanation:** Shieh requires assessment of actual present means and permits particular clarification when warranted. Vey has made the required showing, and no conflicting financial fact supplies a reason for further clarification or denial. Jones distinguishes unknown particulars from a supported determination; its reservation does not govern a showing that establishes present inability. Gaydos likewise grants financial leave on adequate current means while assessing the complete paper separately. No particular income, asset or expense finding is necessary here. Financial eligibility alone answers neither Rule 39.8 nor original jurisdiction, exceptional circumstances, custody, exhaustion or entitlement to relief.
+
+##### Complete current paper
+
+**Holding and operative rule:** Rule 39.8 permits denial when the particular petition is frivolous or malicious; unsuccessful earlier filings and failure to establish extraordinary-writ entitlement do not alone establish that predicate. Vey's specific record-access and reopening contention is arguable on this showing, and no independent malice is established, so the Court declines Rule 39.8 denial and grants the motion on the separately established financial eligibility.
+
+**Authority:** Part II of the same per curiam opinion, joined throughout by the complete opinion coalition.
+
+**Controlling explanation:** Martin requires particular-paper assessment and preserves both its arguable-paper grant and its supported companion denial. Anderson, Jones, Shieh and Gaydos require separate attention to concrete access or reopening content despite obstacles to other relief. Vey alleges conflicting psychiatric accounts of whether she knew right from wrong, reliance on the prosecutor's account without resolving the discrepancy, and denied record access. That specific contention is more than a general assertion that the convictions were wrong; the available materials do not conclusively answer it. Denton's distinction between clearly baseless allegations and ordinary disbelief informs screening without importing its entire former statutory regime into Rule 39.8. The contrary argument that the broad allegations establish no right to vacatur does not resolve this distinct contention. No falsification, withheld records, constitutional violation or reopening entitlement is found, and unchallenged evidence is not declared conclusive. Rule 39.8 remains discretionary on its supported predicate; merely using access language creates no immunity.
+
+##### Prospective extraordinary-writ condition
+
+**Holding and operative rule:** A prospective fee-and-form condition requires demonstrated applicant-specific abuse, justified fit to the filing category restricted, and support for the inadequacy of treating particular papers. This record does not supply those predicates for a new condition on all of Vey's future extraordinary-writ petitions, including criminal habeas petitions, and the Court declines the condition.
+
+**Authority:** Part III of the same per curiam opinion, joined throughout by the complete opinion coalition.
+
+**Controlling explanation:** Anderson and Sassower's distinct extraordinary-writ holding require a supported connection between abuse, category and inadequate individual treatment; Martin, Shieh and Gaydos preserve that separate inquiry. The reported eleven certiorari petitions, twelve extraordinary-relief petitions and two bail applications over six and one-half years mix different categories. Those totals identify neither the contents or repetition of the relevant claims nor why individual treatment is inadequate. This paper supplies no missing connection. Retaining a paid route would narrow the condition but would not justify it. McDonald, Sindram and In re Demos retain targeted-control authority on supported records; findings about other applicants cannot supply Vey's predicates. The Court adopts no numerical threshold, universal warning requirement, obligation to exhaust every conceivable lesser measure or categorical immunity. No existing valid restriction is rescinded.
+
+#### Precedent Treatment
+
+- **Shieh v. Kakita and companions, April 1, 1996:** Applies actual-means assessment, concrete-content screening and the independent applicant/category/inadequacy requirement. Particular financial clarification remains permissible on a supported record; Stone-Zsela's separate stronger presumption remains noncontrolling.
+- **Jones v. ABC-TV, February 26, 1996:** Distinguishes its unestablished financial particulars and applies its separate financial, complete-paper and future-control inquiries; defects in other claims do not automatically defeat an independent access contention.
+- **In re Maria Luisa Costell Gaydos, December 2, 1996:** Applies its bounded financial grant and separate prospective analysis. Its distinct original-writ disposition supplies no disposition of Vey's petition.
+- **Martin v. District of Columbia Court of Appeals and Martin v. McDermott, November 2, 1992:** Applies the particular-paper and separate prospective inquiries; the arguable-paper grant and supported companion denial retain their scopes.
+- **In re Anderson, May 2, 1994:** Applies the separation of financial permission from writ entitlement and the independent showing for future extraordinary-writ controls.
+- **In re Sassower, October 12, 1993:** Applies its distinct extraordinary-writ holding; a noncriminal-certiorari ruling does not itself resolve the broader category.
+- **Denton v. Hernandez, May 4, 1992:** Uses its distinction between clearly baseless allegations and ordinary disbelief without importing the entire former section 1915(d) regime into Rule 39.8 or deciding the amended statute's operation.
+- **Zatko v. California, November 4, 1991:** Preserves discretionary denial on demonstrated particular-paper frivolousness and its supported abuse setting; that complete-paper predicate is not established here.
+- **In re McDonald, 489 U.S. 180 (1989):** Preserves targeted extraordinary-writ controls on a supported record without transferring another applicant's abuse findings to Vey.
+- **In re Sindram, 498 U.S. 177 (1991):** Preserves targeted extraordinary-writ authority; retaining another filing route does not supply missing justification.
+- **In re Demos, 500 U.S. 16 (1991):** Preserves targeted extraordinary-writ authority on its own record, distinct from later civil-certiorari decisions.
+- **Felker v. Turpin, June 28, 1996:** Preserves the distinction between retained original habeas authority and entitlement to a writ. This financial order decides no jurisdictional, successive-application or original-writ issue.
+
+#### Law After Decision
+
+The existing financial, current-paper and prospective-control rules apply without a new general test. Vey may proceed on this petition without prepaying the docketing fee and costs; no new prospective condition issues. Financial leave supplies neither a plenary grant nor an underlying writ disposition. Rule 39.8 on its supported predicates, lawful targeted controls, ordinary form, service and timeliness rules, and separate jurisdictional and substantive requirements remain in force.
+
+#### Source Notes
+
+The [petition and attachments](https://archive.org/details/micro_IA40386013_0974) support the description of the asserted psychiatric-document discrepancy and record-access contention. The competing psychiatric documents and relevant trial record are not supplied, and no allegation is found true. The attached Third Circuit staff letter treats the notice of appeal in No. 97-3025 as a certificate application and describes conditional further procedure; it grants or denies no certificate and establishes no April 14 appellate status. Its first page is dated January 27, 1997 and its second-page header January 27, 1996. Supreme Court Rules 39.1 and 39.8 govern the financial motion; Rule 20 and governing original-writ law remain independently applicable to the unresolved petition.
+
+#### Mandate, Remedy, and Stage
+
+The financial motion and proposed new condition are resolved. The original habeas and alternative mandamus/prohibition requests remain pending for separate ordinary consideration under the governing Rules. This order grants no writ, release, vacatur, hearing, return, transfer, new appellate remedy or plenary merits review, and decides no certificate of appealability. It imposes no payment-cure date, refiling duty, default consequence or new deadline and vacates no existing valid restriction. Further disposition of the underlying requests requires a separate lawful Court action; none is prescribed or presumed here.
+
+**End of entry: In re Vey, financial-leave and prospective-filing-control decision, April 14, 1997.**
+
+---
+
 ### Chandler v. Miller, No. 96-126
 
 Merits decision, April 15, 1997
@@ -876,8 +952,3 @@ The existing remand proceeds with the decree retained unless lawfully terminated
 
 ---
 
-## Workflow Blockers
-
-| Case or matter | Exact blocker |
-|---|---|
-| In re Vey, No.96-8005 | Current Rule 39.1 actual-means showing or applicable counsel-appointment exemption is not established by the available record; financial eligibility and the reserved petition remain unresolved. |
