@@ -1,0 +1,2831 @@
+[
+  {
+    "id": 7414615,
+    "name": "PRO-CHOICE NETWORK OF WESTERN NEW YORK, Buffalo GYN Women Services, Erie Medical Center, Paul J. Davis, M.D., Shalom Press, M.D., Barnett Slepian, M.D., Plaintiffs-Appellees, v. Rev. Paul SCHENCK, Dwight Saunders, Defendants-Appellants, Project Rescue Western New York, Operation Rescue, James L. Evans, Rev., Ted Cadwallader, Rev., David Anderson, Jeffrey Baran, Brian Bayley, Bonnie Behn, Ronald Breymeier, Gilbert Certo, Scott Chadsey, Kim Day, Constance Debo, Mark Dent, Wayne Dent, Paul Diemert, Joan Giangreco, Delores Glaser, Carmelina Golba, Kevin Golba, Linda Hall, Nancy Hall, Thomas Hall, Daniel Hamlin, Rev., James Handyside, Pamela Huffnagle, Donna Johanns, Eric Johns, Neal Kochis, Paulette Likoudis, Charles McGuire, Christopher Morrow, Annemarie Nice, Nicholas Pukalo, Carla Rainero, Thomas Riley, Patricia Ostrander, Linda Ross, David Smith, Mark Sterlace, Joyce Strigel, John Thomann, John Tomasello, Paul Waldmiller, Jr., Nancy Walker, Leonard Winter, Horace Wolcott, John Does, Jane Doe, the last two names being fictitious names, the real names of said defendants being presently unknown to plaintiffs, said fictitious names being intended to designate organizations or persons who are members of defendant organizations and others acting in concert with any of the defendants who are engaging in, or intend to engage in the conduct complained herein, Project Life of Rochester, Gerald Crawford, David Long, Defendants",
+    "name_abbreviation": "Pro-Choice Network of Western New York v. Schenck",
+    "decision_date": "1995-09-28",
+    "docket_number": "No. 1215; Docket 92-7302",
+    "first_page": "377",
+    "last_page": "411",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "67 F.3d 377"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "2d Cir.",
+      "id": 8778,
+      "name": "United States Court of Appeals for the Second Circuit"
+    },
+    "jurisdiction": {
+      "id": 39,
+      "name_long": "United States",
+      "name": "U.S."
+    },
+    "cites_to": [
+      {
+        "cite": "491 U.S. 781",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          6219515
+        ],
+        "weight": 5,
+        "year": 1989,
+        "pin_cites": [
+          {
+            "page": "791"
+          },
+          {
+            "page": "2753"
+          },
+          {
+            "page": "791"
+          },
+          {
+            "page": "2753",
+            "parenthetical": "determining whether the regulations were \"narrowly tailored to serve a significant governmental interest\""
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/491/0781-01"
+        ]
+      },
+      {
+        "cite": "34 F.3d 130",
+        "category": "reporters:federal",
+        "reporter": "F.3d",
+        "opinion_index": 0
+      },
+      {
+        "cite": "418 U.S. 298",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          6172836
+        ],
+        "weight": 3,
+        "year": 1974,
+        "pin_cites": [
+          {
+            "page": "303",
+            "parenthetical": "plurality opinion"
+          },
+          {
+            "page": "2717",
+            "parenthetical": "plurality opinion"
+          },
+          {
+            "parenthetical": "plurality opinion"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/418/0298-01"
+        ]
+      },
+      {
+        "cite": "112 L.Ed.2d 528",
+        "category": "reporters:federal",
+        "reporter": "L. Ed. 2d",
+        "year": 1990,
+        "opinion_index": 0
+      },
+      {
+        "cite": "111 S.Ct. 516",
+        "category": "reporters:federal",
+        "reporter": "S. Ct.",
+        "year": 1990,
+        "opinion_index": 0
+      },
+      {
+        "cite": "498 U.S. 984",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          6521986,
+          6522819,
+          6522598,
+          6522665,
+          6522219,
+          6522159,
+          6522452,
+          6522294,
+          6522358,
+          6522104,
+          6522746,
+          6522045,
+          6522526
+        ],
+        "year": 1990,
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/498/0984-01",
+          "/us/498/0984-13",
+          "/us/498/0984-10",
+          "/us/498/0984-11",
+          "/us/498/0984-05",
+          "/us/498/0984-04",
+          "/us/498/0984-08",
+          "/us/498/0984-06",
+          "/us/498/0984-07",
+          "/us/498/0984-03",
+          "/us/498/0984-12",
+          "/us/498/0984-02",
+          "/us/498/0984-09"
+        ]
+      },
+      {
+        "cite": "903 F.2d 146",
+        "category": "reporters:federal",
+        "reporter": "F.2d",
+        "case_ids": [
+          10533370
+        ],
+        "pin_cites": [
+          {
+            "page": "158"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/f2d/903/0146-01"
+        ]
+      },
+      {
+        "cite": "505 U.S. 672",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          1480771
+        ],
+        "weight": 3,
+        "year": 1992,
+        "pin_cites": [
+          {
+            "parenthetical": "applying \"reasonableness\" standard appropriate to government limitations of speech in nonpublic fora"
+          },
+          {
+            "page": "2708",
+            "parenthetical": "applying \"reasonableness\" standard appropriate to government limitations of speech in nonpublic fora"
+          },
+          {
+            "parenthetical": "applying \"reasonableness\" standard appropriate to government limitations of speech in nonpublic fora"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/505/0672-01"
+        ]
+      },
+      {
+        "cite": "485 U.S. 312",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          13521
+        ],
+        "weight": 7,
+        "year": 1988,
+        "pin_cites": [
+          {
+            "page": "322"
+          },
+          {
+            "page": "1164"
+          },
+          {
+            "parenthetical": "emphasis in original"
+          },
+          {
+            "page": "322"
+          },
+          {
+            "page": "1164"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/485/0312-01"
+        ]
+      },
+      {
+        "cite": "877 F.2d 1120",
+        "category": "reporters:federal",
+        "reporter": "F.2d",
+        "case_ids": [
+          10540260
+        ],
+        "pin_cites": [
+          {
+            "page": "1124-25"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/f2d/877/1120-01"
+        ]
+      },
+      {
+        "cite": "2 F.3d 484",
+        "category": "reporters:federal",
+        "reporter": "F.3d",
+        "case_ids": [
+          1883017
+        ],
+        "pin_cites": [
+          {
+            "page": "486-88"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/f3d/2/0484-01"
+        ]
+      },
+      {
+        "cite": "886 F.2d 1339",
+        "category": "reporters:federal",
+        "reporter": "F.2d",
+        "case_ids": [
+          10538683
+        ],
+        "weight": 4,
+        "pin_cites": [
+          {
+            "page": "1364"
+          },
+          {
+            "page": "1343"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/f2d/886/1339-01"
+        ]
+      },
+      {
+        "cite": "410 U.S. 113",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          11957048
+        ],
+        "weight": 3,
+        "year": 1973,
+        "pin_cites": [
+          {
+            "page": "150"
+          },
+          {
+            "page": "725"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/410/0113-01"
+        ]
+      },
+      {
+        "cite": "505 U.S. 377",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          1481163
+        ],
+        "weight": 3,
+        "year": 1992,
+        "pin_cites": [
+          {
+            "page": "2542, 2544"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/505/0377-01"
+        ]
+      },
+      {
+        "cite": "106 L.Ed.2d 636",
+        "category": "reporters:federal",
+        "reporter": "L. Ed. 2d",
+        "year": 1989,
+        "opinion_index": 0
+      },
+      {
+        "cite": "110 S.Ct. 23",
+        "category": "reporters:federal",
+        "reporter": "S. Ct.",
+        "year": 1989,
+        "opinion_index": 0
+      },
+      {
+        "cite": "492 U.S. 937",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          6318272,
+          6317852
+        ],
+        "year": 1989,
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/492/0937-02",
+          "/us/492/0937-01"
+        ]
+      },
+      {
+        "cite": "67 F.3d 359",
+        "category": "reporters:federal",
+        "reporter": "F.3d",
+        "case_ids": [
+          7414579
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/f3d/67/0359-01"
+        ]
+      },
+      {
+        "cite": "828 F.Supp. 1018",
+        "category": "reporters:federal",
+        "reporter": "F. Supp.",
+        "case_ids": [
+          3825900
+        ],
+        "weight": 2,
+        "pin_cites": [
+          {
+            "page": "1027"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/f-supp/828/1018-01"
+        ]
+      },
+      {
+        "cite": "506 U.S. 263",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          11925246
+        ],
+        "weight": 3,
+        "year": 1993,
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/506/0263-01"
+        ]
+      },
+      {
+        "cite": "28 U.S.C. \u00a7 1292",
+        "category": "laws:leg_statute",
+        "reporter": "U.S.C.",
+        "pin_cites": [
+          {
+            "page": "(a)(1)"
+          }
+        ],
+        "opinion_index": 0
+      },
+      {
+        "cite": "468 U.S. 288",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          11338073
+        ],
+        "weight": 6,
+        "year": 1984,
+        "pin_cites": [
+          {
+            "page": "293"
+          },
+          {
+            "page": "3069"
+          },
+          {
+            "page": "298"
+          },
+          {
+            "page": "3069"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/468/0288-01"
+        ]
+      },
+      {
+        "cite": "487 U.S. 474",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          1774764
+        ],
+        "weight": 6,
+        "year": 1988,
+        "pin_cites": [
+          {
+            "page": "481"
+          },
+          {
+            "page": "2500"
+          },
+          {
+            "parenthetical": "upholding ban on residential sidewalk picketing given government interest in protecting captive listener's right to privacy in his home"
+          },
+          {
+            "parenthetical": "upholding ban on residential sidewalk picketing given government interest in protecting captive listener's right to privacy in his home"
+          },
+          {
+            "parenthetical": "upholding ban on residential sidewalk picketing given government interest in protecting captive listener's right to privacy in his home"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/487/0474-01"
+        ]
+      },
+      {
+        "cite": "129 L.Ed.2d 922",
+        "category": "reporters:federal",
+        "reporter": "L. Ed. 2d",
+        "year": 1994,
+        "opinion_index": 0
+      },
+      {
+        "cite": "115 S.Ct. 23",
+        "category": "reporters:federal",
+        "reporter": "S. Ct.",
+        "year": 1994,
+        "opinion_index": 0
+      },
+      {
+        "cite": "114 S.Ct. 2516",
+        "category": "reporters:federal",
+        "reporter": "S. Ct.",
+        "case_ids": [
+          39742
+        ],
+        "weight": 28,
+        "year": 1994,
+        "pin_cites": [
+          {
+            "page": "2523"
+          },
+          {
+            "page": "2523-24"
+          },
+          {
+            "page": "2524"
+          },
+          {
+            "page": "2525"
+          },
+          {
+            "page": "2524"
+          },
+          {
+            "page": "2526",
+            "parenthetical": "finding significant the government's interest in protecting the psychological and physical well-being of abortion patients"
+          },
+          {
+            "page": "2526"
+          },
+          {
+            "page": "2526",
+            "parenthetical": "protecting \"a woman's freedom to seek lawful medical or counseling services\""
+          },
+          {
+            "page": "2526"
+          },
+          {
+            "page": "2527"
+          },
+          {
+            "page": "2521-22"
+          },
+          {
+            "page": "2521"
+          },
+          {
+            "page": "2527"
+          },
+          {
+            "page": "2526"
+          },
+          {
+            "page": "2527"
+          },
+          {
+            "page": "2525"
+          },
+          {
+            "page": "2529",
+            "parenthetical": "internal quotes omitted"
+          },
+          {
+            "page": "2522"
+          },
+          {
+            "page": "2526"
+          },
+          {
+            "page": "2526"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/512/0753-01"
+        ]
+      },
+      {
+        "cite": "799 F.Supp. 1417",
+        "category": "reporters:federal",
+        "reporter": "F. Supp.",
+        "case_ids": [
+          3816163
+        ],
+        "weight": 19,
+        "pin_cites": [
+          {
+            "page": "1424"
+          },
+          {
+            "page": "1427"
+          },
+          {
+            "page": "1425"
+          },
+          {
+            "page": "1427"
+          },
+          {
+            "page": "1426"
+          },
+          {
+            "page": "1428"
+          },
+          {
+            "page": "1433"
+          },
+          {
+            "page": "1433"
+          },
+          {
+            "page": "1433"
+          },
+          {
+            "page": "1423-27"
+          },
+          {
+            "page": "1423"
+          },
+          {
+            "page": "1423-24"
+          },
+          {
+            "page": "1433-34",
+            "parenthetical": "citation omitted"
+          },
+          {
+            "page": "1427"
+          },
+          {
+            "page": "1434"
+          },
+          {
+            "page": "1436"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/f-supp/799/1417-01"
+        ]
+      },
+      {
+        "cite": "N.Y. Executive Law \u00a7 296",
+        "category": "laws:leg_act",
+        "reporter": "N.Y.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "N.Y. Civil Rights Law \u00a7 40",
+        "category": "laws:leg_act",
+        "reporter": "N.Y.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "42 U.S.C. \u00a7 1985",
+        "category": "laws:leg_statute",
+        "reporter": "U.S.C.",
+        "pin_cites": [
+          {
+            "page": "(3)"
+          }
+        ],
+        "opinion_index": 0
+      },
+      {
+        "cite": "96 L.Ed. 1068",
+        "category": "reporters:federal",
+        "reporter": "L. Ed.",
+        "year": 1952,
+        "pin_cites": [
+          {
+            "parenthetical": "Douglas, J., dissenting"
+          }
+        ],
+        "opinion_index": 1
+      },
+      {
+        "cite": "343 U.S. 451",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          11340137
+        ],
+        "weight": 2,
+        "year": 1952,
+        "pin_cites": [
+          {
+            "page": "468",
+            "parenthetical": "Douglas, J., dissenting"
+          },
+          {
+            "page": "823",
+            "parenthetical": "Douglas, J., dissenting"
+          }
+        ],
+        "opinion_index": 1,
+        "case_paths": [
+          "/us/343/0451-01"
+        ]
+      },
+      {
+        "cite": "307 U.S. 496",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          6140933
+        ],
+        "weight": 3,
+        "year": 1939,
+        "pin_cites": [
+          {
+            "page": "515-16",
+            "parenthetical": "Roberts, J."
+          },
+          {
+            "page": "963-64",
+            "parenthetical": "Roberts, J."
+          },
+          {
+            "parenthetical": "Roberts, J."
+          }
+        ],
+        "opinion_index": 1,
+        "case_paths": [
+          "/us/307/0496-01"
+        ]
+      },
+      {
+        "cite": "315 U.S. 568",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          374637
+        ],
+        "weight": 3,
+        "year": 1942,
+        "pin_cites": [
+          {
+            "page": "572"
+          },
+          {
+            "page": "769"
+          }
+        ],
+        "opinion_index": 1,
+        "case_paths": [
+          "/us/315/0568-01"
+        ]
+      },
+      {
+        "cite": "308 U.S. 147",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          6138221
+        ],
+        "weight": 3,
+        "year": 1939,
+        "pin_cites": [
+          {
+            "page": "162",
+            "parenthetical": "acknowledging right to distribute literature \"to one willing to receive it\""
+          },
+          {
+            "page": "151",
+            "parenthetical": "acknowledging right to distribute literature \"to one willing to receive it\""
+          },
+          {
+            "parenthetical": "acknowledging right to distribute literature \"to one willing to receive it\""
+          }
+        ],
+        "opinion_index": 1,
+        "case_paths": [
+          "/us/308/0147-01"
+        ]
+      },
+      {
+        "cite": "475 U.S. 1",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          6196252
+        ],
+        "weight": 3,
+        "year": 1986,
+        "pin_cites": [
+          {
+            "page": "8",
+            "parenthetical": "\"By protecting those who wish to enter the marketplace of ideas ..., the First Amendment protects the public's interest in receiving information.\""
+          },
+          {
+            "page": "907",
+            "parenthetical": "\"By protecting those who wish to enter the marketplace of ideas ..., the First Amendment protects the public's interest in receiving information.\""
+          },
+          {
+            "parenthetical": "\"By protecting those who wish to enter the marketplace of ideas ..., the First Amendment protects the public's interest in receiving information.\""
+          }
+        ],
+        "opinion_index": 1,
+        "case_paths": [
+          "/us/475/0001-01"
+        ]
+      },
+      {
+        "cite": "397 U.S. 728",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          12058121
+        ],
+        "weight": 5,
+        "year": 1970,
+        "pin_cites": [
+          {
+            "page": "736",
+            "parenthetical": "\"[T]he right of every person 'to be let alone' must be placed in the scales with the right of others to communicate.\""
+          },
+          {
+            "page": "1490",
+            "parenthetical": "\"[T]he right of every person 'to be let alone' must be placed in the scales with the right of others to communicate.\""
+          },
+          {
+            "parenthetical": "\"[T]he right of every person 'to be let alone' must be placed in the scales with the right of others to communicate.\""
+          },
+          {
+            "page": "738"
+          },
+          {
+            "page": "1491",
+            "parenthetical": "\"[N]o one has a right to press even 'good' ideas on an unwilling recipient.\""
+          }
+        ],
+        "opinion_index": 1,
+        "case_paths": [
+          "/us/397/0728-01"
+        ]
+      },
+      {
+        "cite": "274 U.S. 357",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          81088
+        ],
+        "weight": 3,
+        "year": 1927,
+        "pin_cites": [
+          {
+            "page": "375-76",
+            "parenthetical": "Brandeis, J., concurring"
+          },
+          {
+            "page": "648",
+            "parenthetical": "Brandeis, J., concurring"
+          },
+          {
+            "parenthetical": "Brandeis, J., concurring"
+          }
+        ],
+        "opinion_index": 1,
+        "case_paths": [
+          "/us/274/0357-01"
+        ]
+      },
+      {
+        "cite": "403 U.S. 15",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          12026621
+        ],
+        "weight": 5,
+        "year": 1971,
+        "pin_cites": [
+          {
+            "page": "24"
+          },
+          {
+            "page": "1787"
+          },
+          {
+            "page": "26"
+          },
+          {
+            "page": "1788"
+          }
+        ],
+        "opinion_index": 1,
+        "case_paths": [
+          "/us/403/0015-01"
+        ]
+      },
+      {
+        "cite": "384 U.S. 214",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          12043574
+        ],
+        "weight": 3,
+        "year": 1966,
+        "pin_cites": [
+          {
+            "page": "218-19",
+            "parenthetical": "\"major purpose\" of the First Amendment is to protect free discussion of governmental affairs"
+          },
+          {
+            "page": "1436-37",
+            "parenthetical": "\"major purpose\" of the First Amendment is to protect free discussion of governmental affairs"
+          },
+          {
+            "parenthetical": "\"major purpose\" of the First Amendment is to protect free discussion of governmental affairs"
+          }
+        ],
+        "opinion_index": 1,
+        "case_paths": [
+          "/us/384/0214-01"
+        ]
+      },
+      {
+        "cite": "376 U.S. 254",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          379234
+        ],
+        "weight": 3,
+        "year": 1964,
+        "pin_cites": [
+          {
+            "page": "276",
+            "parenthetical": "\"broad consensus\" that restraint upon criticism of government and public officials is \"inconsistent with the First Amendment\""
+          },
+          {
+            "page": "724",
+            "parenthetical": "\"broad consensus\" that restraint upon criticism of government and public officials is \"inconsistent with the First Amendment\""
+          },
+          {
+            "parenthetical": "\"broad consensus\" that restraint upon criticism of government and public officials is \"inconsistent with the First Amendment\""
+          }
+        ],
+        "opinion_index": 1,
+        "case_paths": [
+          "/us/376/0254-01"
+        ]
+      },
+      {
+        "cite": "93 L.Ed. 513",
+        "category": "reporters:federal",
+        "reporter": "L. Ed.",
+        "year": 1949,
+        "pin_cites": [
+          {
+            "parenthetical": "plurality opinion"
+          }
+        ],
+        "opinion_index": 1
+      },
+      {
+        "cite": "336 U.S. 77",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          3936243
+        ],
+        "weight": 4,
+        "year": 1949,
+        "pin_cites": [
+          {
+            "page": "87",
+            "parenthetical": "plurality opinion"
+          },
+          {
+            "page": "453",
+            "parenthetical": "plurality opinion"
+          },
+          {
+            "page": "86-87"
+          },
+          {
+            "page": "453",
+            "parenthetical": "A visitor cannot \"insert a foot in the door and insist on a hearing,\" and a passer-by may be \"offered a pamphlet in the street but cannot be made to take it.\""
+          }
+        ],
+        "opinion_index": 1,
+        "case_paths": [
+          "/us/336/0077-01"
+        ]
+      },
+      {
+        "cite": "250 U.S. 616",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          3684158
+        ],
+        "weight": 3,
+        "year": 1919,
+        "pin_cites": [
+          {
+            "page": "630",
+            "parenthetical": "Holmes, J., dissenting"
+          },
+          {
+            "page": "22",
+            "parenthetical": "Holmes, J., dissenting"
+          },
+          {
+            "parenthetical": "Holmes, J., dissenting"
+          }
+        ],
+        "opinion_index": 1,
+        "case_paths": [
+          "/us/250/0616-01"
+        ]
+      },
+      {
+        "cite": "505 U.S. 672",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          1480771
+        ],
+        "weight": 3,
+        "year": 1992,
+        "pin_cites": [
+          {
+            "parenthetical": "\"risk[] of duress\" presents an \"appropriate target of regulation\""
+          },
+          {
+            "page": "2708",
+            "parenthetical": "\"risk[] of duress\" presents an \"appropriate target of regulation\""
+          },
+          {
+            "parenthetical": "\"risk[] of duress\" presents an \"appropriate target of regulation\""
+          }
+        ],
+        "opinion_index": 1,
+        "case_paths": [
+          "/us/505/0672-01"
+        ]
+      },
+      {
+        "cite": "485 U.S. 312",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          13521
+        ],
+        "weight": 3,
+        "year": 1988,
+        "pin_cites": [
+          {
+            "page": "322"
+          },
+          {
+            "page": "1164"
+          }
+        ],
+        "opinion_index": 1,
+        "case_paths": [
+          "/us/485/0312-01"
+        ]
+      },
+      {
+        "cite": "67 F.3d 359",
+        "category": "reporters:federal",
+        "reporter": "F.3d",
+        "case_ids": [
+          7414579
+        ],
+        "pin_cites": [
+          {
+            "page": "371"
+          }
+        ],
+        "opinion_index": 1,
+        "case_paths": [
+          "/f3d/67/0359-01"
+        ]
+      },
+      {
+        "cite": "487 U.S. 474",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          1774764
+        ],
+        "weight": 7,
+        "year": 1988,
+        "pin_cites": [
+          {
+            "page": "484-85, 486"
+          },
+          {
+            "page": "2502-03, 2503"
+          },
+          {
+            "page": "486"
+          },
+          {
+            "page": "486"
+          },
+          {
+            "page": "484-85"
+          },
+          {
+            "page": "2502-03"
+          }
+        ],
+        "opinion_index": 1,
+        "case_paths": [
+          "/us/487/0474-01"
+        ]
+      },
+      {
+        "cite": "114 S.Ct. 2516",
+        "category": "reporters:federal",
+        "reporter": "S. Ct.",
+        "case_ids": [
+          39742
+        ],
+        "weight": 5,
+        "year": 1994,
+        "pin_cites": [
+          {
+            "page": "2527"
+          },
+          {
+            "page": "2528",
+            "parenthetical": "\"The First Amendment does not demand that patients at a medical facility undertake Herculean efforts to escape the cacophony of political protests.\""
+          },
+          {
+            "page": "2526"
+          },
+          {
+            "page": "2527"
+          }
+        ],
+        "opinion_index": 1,
+        "case_paths": [
+          "/us/512/0753-01"
+        ]
+      },
+      {
+        "cite": "799 F.Supp. 1417",
+        "category": "reporters:federal",
+        "reporter": "F. Supp.",
+        "case_ids": [
+          3816163
+        ],
+        "weight": 4,
+        "pin_cites": [
+          {
+            "page": "1424"
+          },
+          {
+            "page": "1425"
+          }
+        ],
+        "opinion_index": 1,
+        "case_paths": [
+          "/f-supp/799/1417-01"
+        ]
+      },
+      {
+        "cite": "114 S.Ct. 2516",
+        "category": "reporters:federal",
+        "reporter": "S. Ct.",
+        "case_ids": [
+          39742
+        ],
+        "weight": 3,
+        "year": 1994,
+        "pin_cites": [
+          {
+            "page": "2526"
+          },
+          {
+            "page": "2526",
+            "parenthetical": "public safety, the free flow of traffic on public sidewalks and property rights of all citizens"
+          }
+        ],
+        "opinion_index": 2,
+        "case_paths": [
+          "/us/512/0753-01"
+        ]
+      },
+      {
+        "cite": "498 U.S. 852",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          6397219,
+          6395875,
+          6396614,
+          6396395,
+          6397037,
+          6395789,
+          6396686,
+          6395631,
+          6396273,
+          6395994,
+          6397339,
+          6396477,
+          6396158
+        ],
+        "year": 1990,
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/498/0852-12",
+          "/us/498/0852-03",
+          "/us/498/0852-09",
+          "/us/498/0852-07",
+          "/us/498/0852-11",
+          "/us/498/0852-02",
+          "/us/498/0852-10",
+          "/us/498/0852-01",
+          "/us/498/0852-06",
+          "/us/498/0852-04",
+          "/us/498/0852-13",
+          "/us/498/0852-08",
+          "/us/498/0852-05"
+        ]
+      },
+      {
+        "cite": "480 U.S. 917",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          1131559,
+          1131371,
+          1131180,
+          1131533,
+          1131294,
+          1131311,
+          1131571,
+          1131092,
+          1131253,
+          1131573,
+          1131068,
+          1131326
+        ],
+        "year": 1987,
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/480/0917-04",
+          "/us/480/0917-09",
+          "/us/480/0917-07",
+          "/us/480/0917-01",
+          "/us/480/0917-11",
+          "/us/480/0917-06",
+          "/us/480/0917-05",
+          "/us/480/0917-12",
+          "/us/480/0917-10",
+          "/us/480/0917-03",
+          "/us/480/0917-08",
+          "/us/480/0917-02"
+        ]
+      },
+      {
+        "cite": "450 U.S. 913",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          6211072,
+          6210369,
+          6211685,
+          6211464,
+          6211979,
+          6212268,
+          6210160,
+          6211283,
+          6210579,
+          6210815
+        ],
+        "year": 1981,
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/450/0913-05",
+          "/us/450/0913-02",
+          "/us/450/0913-08",
+          "/us/450/0913-07",
+          "/us/450/0913-09",
+          "/us/450/0913-10",
+          "/us/450/0913-01",
+          "/us/450/0913-06",
+          "/us/450/0913-03",
+          "/us/450/0913-04"
+        ]
+      },
+      {
+        "cite": "505 U.S. 123",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          1481018
+        ],
+        "weight": 3,
+        "year": 1992,
+        "pin_cites": [
+          {
+            "page": "134",
+            "parenthetical": "\"Listeners' reaction to speech is not a content-neutral basis for regulation.\""
+          },
+          {
+            "page": "2403",
+            "parenthetical": "\"Listeners' reaction to speech is not a content-neutral basis for regulation.\""
+          },
+          {
+            "parenthetical": "\"Listeners' reaction to speech is not a content-neutral basis for regulation.\""
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/505/0123-01"
+        ]
+      },
+      {
+        "cite": "994 F.2d 989",
+        "category": "reporters:federal",
+        "reporter": "F.2d",
+        "case_ids": [
+          10516618
+        ],
+        "pin_cites": [
+          {
+            "page": "993"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/f2d/994/0989-01"
+        ]
+      },
+      {
+        "cite": "473 U.S. 788",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          6206353
+        ],
+        "weight": 3,
+        "year": 1985,
+        "pin_cites": [
+          {
+            "page": "817",
+            "parenthetical": "Blackmun, I., dissenting"
+          },
+          {
+            "page": "3457",
+            "parenthetical": "Blackmun, I., dissenting"
+          },
+          {
+            "parenthetical": "Blackmun, I., dissenting"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/473/0788-01"
+        ]
+      },
+      {
+        "cite": "461 U.S. 171",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          11298296
+        ],
+        "weight": 3,
+        "year": 1983,
+        "pin_cites": [
+          {
+            "page": "177"
+          },
+          {
+            "page": "1706"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/461/0171-01"
+        ]
+      },
+      {
+        "cite": "408 U.S. 104",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          1782877
+        ],
+        "weight": 3,
+        "year": 1972,
+        "pin_cites": [
+          {
+            "page": "116",
+            "parenthetical": "\"Of course, where demonstrations turn violent, they lose their protected quality as expression under the First Amendment.\""
+          },
+          {
+            "page": "2303",
+            "parenthetical": "\"Of course, where demonstrations turn violent, they lose their protected quality as expression under the First Amendment.\""
+          },
+          {
+            "parenthetical": "\"Of course, where demonstrations turn violent, they lose their protected quality as expression under the First Amendment.\""
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/408/0104-01"
+        ]
+      },
+      {
+        "cite": "431 U.S. 678",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          1976
+        ],
+        "weight": 3,
+        "year": 1977,
+        "pin_cites": [
+          {
+            "page": "701"
+          },
+          {
+            "page": "2024"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/431/0678-01"
+        ]
+      },
+      {
+        "cite": "761 F.2d 105",
+        "category": "reporters:federal",
+        "reporter": "F.2d",
+        "case_ids": [
+          29494
+        ],
+        "pin_cites": [
+          {
+            "page": "111-13"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/f2d/761/0105-01"
+        ]
+      },
+      {
+        "cite": "112 L.Ed.2d 112",
+        "category": "reporters:federal",
+        "reporter": "L. Ed. 2d",
+        "year": 1990,
+        "opinion_index": 3
+      },
+      {
+        "cite": "111 S.Ct. 146",
+        "category": "reporters:federal",
+        "reporter": "S. Ct.",
+        "year": 1990,
+        "opinion_index": 3
+      },
+      {
+        "cite": "900 F.2d 551",
+        "category": "reporters:federal",
+        "reporter": "F.2d",
+        "case_ids": [
+          10532720
+        ],
+        "pin_cites": [
+          {
+            "page": "556-57"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/f2d/900/0551-01"
+        ]
+      },
+      {
+        "cite": "749 F.2d 113",
+        "category": "reporters:federal",
+        "reporter": "F.2d",
+        "case_ids": [
+          633150
+        ],
+        "pin_cites": [
+          {
+            "page": "121-23"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/f2d/749/0113-01"
+        ]
+      },
+      {
+        "cite": "130 L.Ed.2d 418",
+        "category": "reporters:federal",
+        "reporter": "L. Ed. 2d",
+        "year": 1994,
+        "opinion_index": 3
+      },
+      {
+        "cite": "115 S.Ct. 511",
+        "category": "reporters:federal",
+        "reporter": "S. Ct.",
+        "year": 1994,
+        "opinion_index": 3
+      },
+      {
+        "cite": "27 F.3d 834",
+        "category": "reporters:federal",
+        "reporter": "F.3d",
+        "case_ids": [
+          10530644
+        ],
+        "pin_cites": [
+          {
+            "page": "844"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/f3d/27/0834-01"
+        ]
+      },
+      {
+        "cite": "94 L.Ed.2d 687",
+        "category": "reporters:federal",
+        "reporter": "L. Ed. 2d",
+        "year": 1987,
+        "opinion_index": 3
+      },
+      {
+        "cite": "107 S.Ct. 1371",
+        "category": "reporters:federal",
+        "reporter": "S. Ct.",
+        "year": 1987,
+        "pin_cites": [
+          {
+            "page": "1372"
+          }
+        ],
+        "opinion_index": 3
+      },
+      {
+        "cite": "801 F.2d 602",
+        "category": "reporters:federal",
+        "reporter": "F.2d",
+        "case_ids": [
+          10547506
+        ],
+        "pin_cites": [
+          {
+            "page": "606-08"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/f2d/801/0602-01"
+        ]
+      },
+      {
+        "cite": "93 L.Ed. 1131",
+        "category": "reporters:federal",
+        "reporter": "L. Ed.",
+        "year": 1949,
+        "opinion_index": 3
+      },
+      {
+        "cite": "337 U.S. 1",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          572361
+        ],
+        "weight": 2,
+        "year": 1949,
+        "pin_cites": [
+          {
+            "page": "4"
+          },
+          {
+            "page": "895"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/337/0001-01"
+        ]
+      },
+      {
+        "cite": "447 U.S. 530",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          6186434
+        ],
+        "weight": 3,
+        "year": 1980,
+        "pin_cites": [
+          {
+            "page": "542"
+          },
+          {
+            "page": "2336"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/447/0530-01"
+        ]
+      },
+      {
+        "cite": "463 U.S. 60",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          6191045
+        ],
+        "weight": 4,
+        "year": 1983,
+        "pin_cites": [
+          {
+            "page": "78",
+            "parenthetical": "Rehnquist, J., concurring"
+          },
+          {
+            "page": "2886",
+            "parenthetical": "Rehnquist, J., concurring"
+          },
+          {
+            "parenthetical": "Rehnquist, J., concurring"
+          },
+          {
+            "page": "71"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/463/0060-01"
+        ]
+      },
+      {
+        "cite": "112 S.Ct. 2709",
+        "category": "reporters:federal",
+        "reporter": "S. Ct.",
+        "case_ids": [
+          1480822
+        ],
+        "weight": 2,
+        "year": 1992,
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/505/0830-01"
+        ]
+      },
+      {
+        "cite": "925 F.2d 576",
+        "category": "reporters:federal",
+        "reporter": "F.2d",
+        "case_ids": [
+          1789064
+        ],
+        "pin_cites": [
+          {
+            "page": "586"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/f2d/925/0576-01"
+        ]
+      },
+      {
+        "cite": "418 U.S. 405",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          6173167
+        ],
+        "weight": 3,
+        "year": 1974,
+        "pin_cites": [
+          {
+            "page": "412",
+            "parenthetical": "per curiam"
+          },
+          {
+            "page": "2731",
+            "parenthetical": "per curiam"
+          },
+          {
+            "parenthetical": "per curiam"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/418/0405-01"
+        ]
+      },
+      {
+        "cite": "422 U.S. 205",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          9566
+        ],
+        "weight": 5,
+        "year": 1975,
+        "pin_cites": [
+          {
+            "page": "209",
+            "parenthetical": "emphasis added"
+          },
+          {
+            "page": "2272",
+            "parenthetical": "emphasis added"
+          },
+          {
+            "parenthetical": "emphasis added"
+          },
+          {
+            "page": "212"
+          },
+          {
+            "page": "2274"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/422/0205-01"
+        ]
+      },
+      {
+        "cite": "39 UCLA L.Rev. 1791",
+        "category": "journals:journal",
+        "reporter": "UCLA L. Rev.",
+        "year": 1992,
+        "pin_cites": [
+          {
+            "page": "1832-43",
+            "parenthetical": "arguing captive audience doctrine should not apply to listeners outside their homes"
+          }
+        ],
+        "opinion_index": 3
+      },
+      {
+        "cite": "115 S.Ct. 2371",
+        "category": "reporters:federal",
+        "reporter": "S. Ct.",
+        "case_ids": [
+          1564170
+        ],
+        "weight": 2,
+        "year": 1995,
+        "pin_cites": [
+          {
+            "parenthetical": "upholding ban on lawyer direct-mail solicitations to accident victims and their relatives"
+          },
+          {
+            "parenthetical": "upholding ban on lawyer direct-mail solicitations to accident victims and their relatives"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/515/0618-01"
+        ]
+      },
+      {
+        "cite": "394 U.S. 576",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          6177444
+        ],
+        "weight": 3,
+        "year": 1969,
+        "pin_cites": [
+          {
+            "page": "592",
+            "parenthetical": "\"It is firmly settled that under our Constitution the public expression of ideas may not be prohibited merely because the ideas are themselves offensive to some of their hearers.\""
+          },
+          {
+            "page": "1365",
+            "parenthetical": "\"It is firmly settled that under our Constitution the public expression of ideas may not be prohibited merely because the ideas are themselves offensive to some of their hearers.\""
+          },
+          {
+            "parenthetical": "\"It is firmly settled that under our Constitution the public expression of ideas may not be prohibited merely because the ideas are themselves offensive to some of their hearers.\""
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/394/0576-01"
+        ]
+      },
+      {
+        "cite": "476 U.S. 747",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          12915
+        ],
+        "weight": 3,
+        "year": 1986,
+        "pin_cites": [
+          {
+            "page": "814",
+            "parenthetical": "O'Connor, J., dissenting"
+          },
+          {
+            "page": "2206",
+            "parenthetical": "O'Connor, J., dissenting"
+          },
+          {
+            "parenthetical": "O'Connor, J., dissenting"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/476/0747-01"
+        ]
+      },
+      {
+        "cite": "485 U.S. 46",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          13322
+        ],
+        "weight": 4,
+        "year": 1988,
+        "pin_cites": [
+          {
+            "page": "55"
+          },
+          {
+            "page": "881"
+          },
+          {
+            "page": "56"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/485/0046-01"
+        ]
+      },
+      {
+        "cite": "67 L.Ed.2d 337",
+        "category": "reporters:federal",
+        "reporter": "L. Ed. 2d",
+        "year": 1981,
+        "opinion_index": 3
+      },
+      {
+        "cite": "101 S.Ct. 1352",
+        "category": "reporters:federal",
+        "reporter": "S. Ct.",
+        "year": 1981,
+        "opinion_index": 3
+      },
+      {
+        "cite": "621 F.2d 471",
+        "category": "reporters:federal",
+        "reporter": "F.2d",
+        "case_ids": [
+          482349
+        ],
+        "pin_cites": [
+          {
+            "page": "482"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/f2d/621/0471-01"
+        ]
+      },
+      {
+        "cite": "312 U.S. 287",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          359143
+        ],
+        "weight": 9,
+        "year": 1941,
+        "pin_cites": [
+          {
+            "page": "293"
+          },
+          {
+            "page": "555"
+          },
+          {
+            "page": "292-93"
+          },
+          {
+            "page": "554-55"
+          },
+          {
+            "page": "298"
+          },
+          {
+            "page": "557",
+            "parenthetical": "holding an injunction banning picketing was \"justified only by the violence that induced it and only so long as it counteracts a continuing intimidation\""
+          },
+          {
+            "page": "294-96"
+          },
+          {
+            "page": "555-56",
+            "parenthetical": "upholding injunction on peaceful picketing \"to prevent future coercion\" because the protesting \"was set in a background of violence\" which was \"neither episodic nor isolated\""
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/312/0287-01"
+        ]
+      },
+      {
+        "cite": "458 U.S. 886",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          636531
+        ],
+        "weight": 25,
+        "year": 1982,
+        "pin_cites": [
+          {
+            "page": "921"
+          },
+          {
+            "page": "3430"
+          },
+          {
+            "page": "915-20"
+          },
+          {
+            "page": "3426-29",
+            "parenthetical": "discussed infra, Part II"
+          },
+          {
+            "page": "916"
+          },
+          {
+            "page": "3427",
+            "parenthetical": "demanding \"precision of regulation\" in injunctions prohibiting constitutionally protected activity"
+          },
+          {
+            "page": "933"
+          },
+          {
+            "page": "3436"
+          },
+          {
+            "page": "916"
+          },
+          {
+            "page": "3427"
+          },
+          {
+            "page": "902"
+          },
+          {
+            "page": "3420"
+          },
+          {
+            "parenthetical": "footnote omitted"
+          },
+          {
+            "page": "3420"
+          },
+          {
+            "page": "904"
+          },
+          {
+            "page": "3421",
+            "parenthetical": "quotation omitted"
+          },
+          {
+            "page": "893"
+          },
+          {
+            "page": "3415"
+          },
+          {
+            "page": "933-34"
+          },
+          {
+            "page": "3436"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/458/0886-01"
+        ]
+      },
+      {
+        "cite": "393 U.S. 175",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          11312044
+        ],
+        "weight": 3,
+        "year": 1968,
+        "pin_cites": [
+          {
+            "page": "184",
+            "parenthetical": "instructing courts to tailor injunctive relief \"as precisely as possible to the exact needs of the ease\""
+          },
+          {
+            "page": "353",
+            "parenthetical": "instructing courts to tailor injunctive relief \"as precisely as possible to the exact needs of the ease\""
+          },
+          {
+            "parenthetical": "instructing courts to tailor injunctive relief \"as precisely as possible to the exact needs of the ease\""
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/393/0175-01"
+        ]
+      },
+      {
+        "cite": "402 U.S. 415",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          11733776
+        ],
+        "weight": 3,
+        "year": 1971,
+        "pin_cites": [
+          {
+            "page": "419",
+            "parenthetical": "\"This Court has often recognized that the activity of peaceful pamphleteering is a form of communication protected by the First Amendment.\""
+          },
+          {
+            "page": "1577",
+            "parenthetical": "\"This Court has often recognized that the activity of peaceful pamphleteering is a form of communication protected by the First Amendment.\""
+          },
+          {
+            "parenthetical": "\"This Court has often recognized that the activity of peaceful pamphleteering is a form of communication protected by the First Amendment.\""
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/402/0415-01"
+        ]
+      },
+      {
+        "cite": "447 U.S. 455",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          6185876
+        ],
+        "weight": 3,
+        "year": 1980,
+        "pin_cites": [
+          {
+            "page": "466-67",
+            "parenthetical": "\"Public-issue picketing, an exercise of ... basic constitutional rights in their most pristine and classic form, has always rested on the highest rung of the hierarchy of First Amendment values.\""
+          },
+          {
+            "page": "2293",
+            "parenthetical": "\"Public-issue picketing, an exercise of ... basic constitutional rights in their most pristine and classic form, has always rested on the highest rung of the hierarchy of First Amendment values.\""
+          },
+          {
+            "parenthetical": "\"Public-issue picketing, an exercise of ... basic constitutional rights in their most pristine and classic form, has always rested on the highest rung of the hierarchy of First Amendment values.\""
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/447/0455-01"
+        ]
+      },
+      {
+        "cite": "626 So.2d 664",
+        "category": "reporters:state_regional",
+        "reporter": "So. 2d",
+        "case_ids": [
+          7489109
+        ],
+        "weight": 3,
+        "pin_cites": [
+          {
+            "page": "667"
+          },
+          {
+            "page": "678",
+            "parenthetical": "quoting injunction"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/so2d/626/0664-01"
+        ]
+      },
+      {
+        "cite": "460 U.S. 37",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          6189226
+        ],
+        "weight": 3,
+        "year": 1983,
+        "pin_cites": [
+          {
+            "page": "45"
+          },
+          {
+            "page": "954"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/460/0037-01"
+        ]
+      },
+      {
+        "cite": "307 U.S. 496",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          6140933
+        ],
+        "weight": 2,
+        "year": 1939,
+        "pin_cites": [
+          {
+            "page": "964"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/307/0496-01"
+        ]
+      },
+      {
+        "cite": "315 U.S. 568",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          374637
+        ],
+        "weight": 3,
+        "year": 1942,
+        "pin_cites": [
+          {
+            "page": "574"
+          },
+          {
+            "page": "770"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/315/0568-01"
+        ]
+      },
+      {
+        "cite": "308 U.S. 147",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          6138221
+        ],
+        "weight": 3,
+        "year": 1939,
+        "pin_cites": [
+          {
+            "page": "163"
+          },
+          {
+            "page": "151"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/308/0147-01"
+        ]
+      },
+      {
+        "cite": "397 U.S. 728",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          12058121
+        ],
+        "weight": 3,
+        "year": 1970,
+        "pin_cites": [
+          {
+            "parenthetical": "upholding statute that allowed householder to remove name from junk mail lists"
+          },
+          {
+            "parenthetical": "upholding statute that allowed householder to remove name from junk mail lists"
+          },
+          {
+            "parenthetical": "upholding statute that allowed householder to remove name from junk mail lists"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/397/0728-01"
+        ]
+      },
+      {
+        "cite": "403 U.S. 15",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          12026621
+        ],
+        "weight": 3,
+        "year": 1971,
+        "pin_cites": [
+          {
+            "page": "21",
+            "parenthetical": "reversing conviction based on display of profanity in public courthouse, as those unsettled by speaker's message \"could effectively avoid further bombardment of their sensibilities simply by averting their eyes\""
+          },
+          {
+            "page": "1786",
+            "parenthetical": "reversing conviction based on display of profanity in public courthouse, as those unsettled by speaker's message \"could effectively avoid further bombardment of their sensibilities simply by averting their eyes\""
+          },
+          {
+            "parenthetical": "reversing conviction based on display of profanity in public courthouse, as those unsettled by speaker's message \"could effectively avoid further bombardment of their sensibilities simply by averting their eyes\""
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/403/0015-01"
+        ]
+      },
+      {
+        "cite": "93 L.Ed. 513",
+        "category": "reporters:federal",
+        "reporter": "L. Ed.",
+        "year": 1949,
+        "pin_cites": [
+          {
+            "parenthetical": "upholding ban on amplified sound trucks in residential neighborhoods"
+          }
+        ],
+        "opinion_index": 3
+      },
+      {
+        "cite": "336 U.S. 77",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          3936243
+        ],
+        "weight": 2,
+        "year": 1949,
+        "pin_cites": [
+          {
+            "parenthetical": "upholding ban on amplified sound trucks in residential neighborhoods"
+          },
+          {
+            "parenthetical": "upholding ban on amplified sound trucks in residential neighborhoods"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/336/0077-01"
+        ]
+      },
+      {
+        "cite": "418 U.S. 298",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          6172836
+        ],
+        "weight": 5,
+        "year": 1974,
+        "pin_cites": [
+          {
+            "page": "307",
+            "parenthetical": "Douglas, J., concurring"
+          },
+          {
+            "page": "2719",
+            "parenthetical": "Douglas, J., concurring"
+          },
+          {
+            "parenthetical": "Douglas, J., concurring"
+          },
+          {
+            "page": "307"
+          },
+          {
+            "page": "320-21"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/418/0298-01"
+        ]
+      },
+      {
+        "cite": "112 L.Ed.2d 528",
+        "category": "reporters:federal",
+        "reporter": "L. Ed. 2d",
+        "year": 1990,
+        "opinion_index": 3
+      },
+      {
+        "cite": "111 S.Ct. 516",
+        "category": "reporters:federal",
+        "reporter": "S. Ct.",
+        "year": 1990,
+        "opinion_index": 3
+      },
+      {
+        "cite": "498 U.S. 984",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          6521986,
+          6522819,
+          6522598,
+          6522665,
+          6522219,
+          6522159,
+          6522452,
+          6522294,
+          6522358,
+          6522104,
+          6522746,
+          6522045,
+          6522526
+        ],
+        "year": 1990,
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/498/0984-01",
+          "/us/498/0984-13",
+          "/us/498/0984-10",
+          "/us/498/0984-11",
+          "/us/498/0984-05",
+          "/us/498/0984-04",
+          "/us/498/0984-08",
+          "/us/498/0984-06",
+          "/us/498/0984-07",
+          "/us/498/0984-03",
+          "/us/498/0984-12",
+          "/us/498/0984-02",
+          "/us/498/0984-09"
+        ]
+      },
+      {
+        "cite": "903 F.2d 146",
+        "category": "reporters:federal",
+        "reporter": "F.2d",
+        "case_ids": [
+          10533370
+        ],
+        "pin_cites": [
+          {
+            "page": "158"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/f2d/903/0146-01"
+        ]
+      },
+      {
+        "cite": "505 U.S. 672",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          1480771
+        ],
+        "year": 1992,
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/505/0672-01"
+        ]
+      },
+      {
+        "cite": "485 U.S. 312",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          13521
+        ],
+        "weight": 5,
+        "year": 1988,
+        "pin_cites": [
+          {
+            "page": "318",
+            "parenthetical": "stating that law prohibiting display of certain signs \"operates at the core of the First Amendment\""
+          },
+          {
+            "page": "1162",
+            "parenthetical": "stating that law prohibiting display of certain signs \"operates at the core of the First Amendment\""
+          },
+          {
+            "parenthetical": "stating that law prohibiting display of certain signs \"operates at the core of the First Amendment\""
+          },
+          {
+            "page": "322"
+          },
+          {
+            "page": "321"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/485/0312-01"
+        ]
+      },
+      {
+        "cite": "505 U.S. 377",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          1481163
+        ],
+        "weight": 3,
+        "year": 1992,
+        "pin_cites": [
+          {
+            "page": "381-82",
+            "parenthetical": "\"The First Amendment generally prevents government from proscribing speech ... because of disapproval of the ideas expressed.\""
+          },
+          {
+            "page": "2542",
+            "parenthetical": "\"The First Amendment generally prevents government from proscribing speech ... because of disapproval of the ideas expressed.\""
+          },
+          {
+            "parenthetical": "\"The First Amendment generally prevents government from proscribing speech ... because of disapproval of the ideas expressed.\""
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/505/0377-01"
+        ]
+      },
+      {
+        "cite": "491 U.S. 781",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          6219515
+        ],
+        "weight": 5,
+        "year": 1989,
+        "pin_cites": [
+          {
+            "page": "791"
+          },
+          {
+            "page": "2758"
+          },
+          {
+            "page": "791"
+          },
+          {
+            "page": "2753"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/491/0781-01"
+        ]
+      },
+      {
+        "cite": "67 F.3d 359",
+        "category": "reporters:federal",
+        "reporter": "F.3d",
+        "case_ids": [
+          7414579
+        ],
+        "weight": 4,
+        "pin_cites": [
+          {
+            "page": "370-371"
+          },
+          {
+            "page": "370"
+          },
+          {
+            "page": "370"
+          },
+          {
+            "page": "371-72"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/f3d/67/0359-01"
+        ]
+      },
+      {
+        "cite": "487 U.S. 474",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          1774764
+        ],
+        "weight": 3,
+        "year": 1988,
+        "pin_cites": [
+          {
+            "page": "487",
+            "parenthetical": "upholding ordinance banning picketing outside private residences"
+          },
+          {
+            "page": "2504",
+            "parenthetical": "upholding ordinance banning picketing outside private residences"
+          },
+          {
+            "parenthetical": "upholding ordinance banning picketing outside private residences"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/487/0474-01"
+        ]
+      },
+      {
+        "cite": "114 S.Ct. 2516",
+        "category": "reporters:federal",
+        "reporter": "S. Ct.",
+        "case_ids": [
+          39742
+        ],
+        "weight": 21,
+        "year": 1994,
+        "pin_cites": [
+          {
+            "page": "2524"
+          },
+          {
+            "page": "2525"
+          },
+          {
+            "page": "2525",
+            "parenthetical": "instructing courts to pay \"close attention to the fit between the objectives of an injunction and the restrictions it imposes on speech\""
+          },
+          {
+            "page": "2527-28",
+            "parenthetical": "finding failure of first injunction a factor justifying buffer zone"
+          },
+          {
+            "page": "2524"
+          },
+          {
+            "page": "2525"
+          },
+          {
+            "page": "2529",
+            "parenthetical": "quoting injunction"
+          },
+          {
+            "page": "2529"
+          },
+          {
+            "parenthetical": "citation omitted"
+          },
+          {
+            "page": "2529"
+          },
+          {
+            "page": "2529",
+            "parenthetical": "\"The 'consent' requirement alone invalidates this provision.\""
+          },
+          {
+            "page": "2526",
+            "parenthetical": "'We think a standard requiring that an injunction 'burden no more speech than necessary exemplifies 'precision of regulation.' \""
+          },
+          {
+            "page": "2526"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/us/512/0753-01"
+        ]
+      },
+      {
+        "cite": "799 F.Supp. 1417",
+        "category": "reporters:federal",
+        "reporter": "F. Supp.",
+        "case_ids": [
+          3816163
+        ],
+        "weight": 12,
+        "pin_cites": [
+          {
+            "page": "1424"
+          },
+          {
+            "page": "1423"
+          },
+          {
+            "page": "1434"
+          },
+          {
+            "page": "1434"
+          },
+          {
+            "page": "1440",
+            "parenthetical": "emphasis added"
+          },
+          {
+            "page": "1440"
+          },
+          {
+            "page": "1434"
+          },
+          {
+            "page": "1434"
+          }
+        ],
+        "opinion_index": 3,
+        "case_paths": [
+          "/f-supp/799/1417-01"
+        ]
+      },
+      {
+        "cite": "96 L.Ed. 919",
+        "category": "reporters:federal",
+        "reporter": "L. Ed.",
+        "weight": 2,
+        "year": 1952,
+        "pin_cites": [
+          {
+            "parenthetical": "Black, J., dissenting"
+          }
+        ],
+        "opinion_index": 4
+      },
+      {
+        "cite": "343 U.S. 250",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          11339036
+        ],
+        "weight": 2,
+        "year": 1952,
+        "pin_cites": [
+          {
+            "page": "285",
+            "parenthetical": "Black, J., dissenting"
+          },
+          {
+            "page": "745",
+            "parenthetical": "Black, J., dissenting"
+          }
+        ],
+        "opinion_index": 4,
+        "case_paths": [
+          "/us/343/0250-01"
+        ]
+      },
+      {
+        "cite": "93 L.Ed. 1131",
+        "category": "reporters:federal",
+        "reporter": "L. Ed.",
+        "year": 1949,
+        "pin_cites": [
+          {
+            "parenthetical": "citations omitted"
+          }
+        ],
+        "opinion_index": 4
+      },
+      {
+        "cite": "337 U.S. 1",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          572361
+        ],
+        "weight": 2,
+        "year": 1949,
+        "pin_cites": [
+          {
+            "page": "4-5",
+            "parenthetical": "citations omitted"
+          },
+          {
+            "page": "896",
+            "parenthetical": "citations omitted"
+          }
+        ],
+        "opinion_index": 4,
+        "case_paths": [
+          "/us/337/0001-01"
+        ]
+      },
+      {
+        "cite": "418 U.S. 298",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          6172836
+        ],
+        "weight": 6,
+        "year": 1974,
+        "pin_cites": [
+          {
+            "page": "302"
+          },
+          {
+            "page": "2717"
+          },
+          {
+            "page": "303"
+          },
+          {
+            "page": "303"
+          },
+          {
+            "page": "302-03"
+          }
+        ],
+        "opinion_index": 4,
+        "case_paths": [
+          "/us/418/0298-01"
+        ]
+      },
+      {
+        "cite": "903 F.2d 146",
+        "category": "reporters:federal",
+        "reporter": "F.2d",
+        "case_ids": [
+          10533370
+        ],
+        "pin_cites": [
+          {
+            "page": "158",
+            "parenthetical": "same"
+          }
+        ],
+        "opinion_index": 4,
+        "case_paths": [
+          "/f2d/903/0146-01"
+        ]
+      },
+      {
+        "cite": "67 F.3d 359",
+        "category": "reporters:federal",
+        "reporter": "F.3d",
+        "case_ids": [
+          7414579
+        ],
+        "pin_cites": [
+          {
+            "page": "372-374",
+            "parenthetical": "2d Cir.1994"
+          }
+        ],
+        "opinion_index": 4,
+        "case_paths": [
+          "/f3d/67/0359-01"
+        ]
+      },
+      {
+        "cite": "487 U.S. 474",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          1774764
+        ],
+        "weight": 6,
+        "year": 1988,
+        "pin_cites": [
+          {
+            "page": "481"
+          },
+          {
+            "page": "2500"
+          },
+          {
+            "page": "484-85"
+          },
+          {
+            "page": "2502-03"
+          },
+          {
+            "page": "481"
+          }
+        ],
+        "opinion_index": 4,
+        "case_paths": [
+          "/us/487/0474-01"
+        ]
+      },
+      {
+        "cite": "114 S.Ct. 2516",
+        "category": "reporters:federal",
+        "reporter": "S. Ct.",
+        "case_ids": [
+          39742
+        ],
+        "weight": 5,
+        "year": 1994,
+        "pin_cites": [
+          {
+            "page": "2527"
+          },
+          {
+            "page": "2522",
+            "parenthetical": "public sidewalks are public fora"
+          }
+        ],
+        "opinion_index": 4,
+        "case_paths": [
+          "/us/512/0753-01"
+        ]
+      },
+      {
+        "cite": "799 F.Supp. 1417",
+        "category": "reporters:federal",
+        "reporter": "F. Supp.",
+        "case_ids": [
+          3816163
+        ],
+        "opinion_index": 4,
+        "case_paths": [
+          "/f-supp/799/1417-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 3721,
+      "char_count": 136610,
+      "ocr_confidence": 0.7,
+      "pagerank": {
+        "raw": 1.8497117278467958e-07,
+        "percentile": 0.7233386965803797
+      },
+      "sha256": "84d60c21766548147f07a6e3732bbe4ced39b4de7bcf18e893cce49792b0bca8",
+      "simhash": "1:b7466f2faf9baef7",
+      "word_count": 21527
+    },
+    "last_updated": "2024-02-27T18:36:08.581937+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0377-01",
+    "first_page_order": 457,
+    "last_page_order": 491
+  }
+]

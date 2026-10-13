@@ -1,0 +1,877 @@
+[
+  {
+    "id": 7413068,
+    "name": "John DOE, Ph.D., and all others similarly situated, Plaintiffs-Appellants, v. LAWRENCE LIVERMORE NATIONAL LABORATORY, John Nuckolls, Director, Defendants, and The Regents of the University of California, Defendant-Appellee",
+    "name_abbreviation": "Doe v. Lawrence Livermore National Laboratory",
+    "decision_date": "1995-09-11",
+    "docket_number": "No. 93-16792",
+    "first_page": "771",
+    "last_page": "778",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "65 F.3d 771"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "9th Cir.",
+      "id": 8826,
+      "name": "United States Court of Appeals for the Ninth Circuit"
+    },
+    "jurisdiction": {
+      "id": 39,
+      "name_long": "United States",
+      "name": "U.S."
+    },
+    "cites_to": [
+      {
+        "cite": "102 L.Ed.2d 51",
+        "category": "reporters:federal",
+        "reporter": "L. Ed. 2d",
+        "year": 1988,
+        "opinion_index": 0
+      },
+      {
+        "cite": "109 S.Ct. 75",
+        "category": "reporters:federal",
+        "reporter": "S. Ct.",
+        "year": 1988,
+        "opinion_index": 0
+      },
+      {
+        "cite": "488 U.S. 826",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          1495014,
+          1494054,
+          1493096,
+          1493290,
+          1494126,
+          1493264,
+          1493140,
+          1494420,
+          1495286,
+          1495543,
+          1494456,
+          1493786,
+          1493343
+        ],
+        "year": 1988,
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/488/0826-11",
+          "/us/488/0826-08",
+          "/us/488/0826-05",
+          "/us/488/0826-12",
+          "/us/488/0826-07",
+          "/us/488/0826-06",
+          "/us/488/0826-09",
+          "/us/488/0826-02",
+          "/us/488/0826-03",
+          "/us/488/0826-10",
+          "/us/488/0826-04",
+          "/us/488/0826-01",
+          "/us/488/0826-13"
+        ]
+      },
+      {
+        "cite": "537 A.2d 652",
+        "category": "reporters:state_regional",
+        "reporter": "A.2d",
+        "year": 1988,
+        "opinion_index": 0
+      },
+      {
+        "cite": "109 N.J. 319",
+        "category": "reporters:state",
+        "reporter": "N.J.",
+        "case_ids": [
+          1375730
+        ],
+        "year": 1988,
+        "opinion_index": 0,
+        "case_paths": [
+          "/nj/109/0319-01"
+        ]
+      },
+      {
+        "cite": "491 U.S. 58",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          6210401
+        ],
+        "weight": 3,
+        "year": 1989,
+        "pin_cites": [
+          {
+            "page": "70"
+          },
+          {
+            "page": "2312"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/491/0058-01"
+        ]
+      },
+      {
+        "cite": "1992 WL 690295",
+        "category": "reporters:specialty_west",
+        "reporter": "WL",
+        "year": 1992,
+        "opinion_index": 0
+      },
+      {
+        "cite": "512 F.Supp. 889",
+        "category": "reporters:federal",
+        "reporter": "F. Supp.",
+        "case_ids": [
+          3260003
+        ],
+        "weight": 4,
+        "pin_cites": [
+          {
+            "page": "901-02"
+          },
+          {
+            "page": "895"
+          },
+          {
+            "page": "895",
+            "parenthetical": "emphasis added"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/f-supp/512/0889-01"
+        ]
+      },
+      {
+        "cite": "127 L.Ed.2d 434",
+        "category": "reporters:federal",
+        "reporter": "L. Ed. 2d",
+        "year": 1994,
+        "opinion_index": 0
+      },
+      {
+        "cite": "114 S.Ct. 1126",
+        "category": "reporters:federal",
+        "reporter": "S. Ct.",
+        "year": 1994,
+        "opinion_index": 0
+      },
+      {
+        "cite": "998 F.2d 931",
+        "category": "reporters:federal",
+        "reporter": "F.2d",
+        "case_ids": [
+          10516063
+        ],
+        "pin_cites": [
+          {
+            "page": "940"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/f2d/998/0931-01"
+        ]
+      },
+      {
+        "cite": "504 F.Supp. 1349",
+        "category": "reporters:federal",
+        "reporter": "F. Supp.",
+        "case_ids": [
+          4185040
+        ],
+        "weight": 2,
+        "pin_cites": [
+          {
+            "page": "1351-54"
+          },
+          {
+            "page": "1352-54",
+            "parenthetical": "examining the pertinent factors as they relate to the University in order to determine whether the University is entitled to Eleventh Amendment immunity, rather than blindly asserting immunity"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/f-supp/504/1349-01"
+        ]
+      },
+      {
+        "cite": "293 U.S. 245",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          3933080
+        ],
+        "weight": 3,
+        "year": 1934,
+        "pin_cites": [
+          {
+            "page": "257"
+          },
+          {
+            "page": "201"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/293/0245-01"
+        ]
+      },
+      {
+        "cite": "682 F.2d 1344",
+        "category": "reporters:federal",
+        "reporter": "F.2d",
+        "case_ids": [
+          538992
+        ],
+        "weight": 2,
+        "pin_cites": [
+          {
+            "page": "1350"
+          },
+          {
+            "page": "1350"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/f2d/682/1344-01"
+        ]
+      },
+      {
+        "cite": "885 F.2d 1439",
+        "category": "reporters:federal",
+        "reporter": "F.2d",
+        "case_ids": [
+          10536356
+        ],
+        "weight": 3,
+        "pin_cites": [
+          {
+            "page": "1443"
+          },
+          {
+            "page": "1443"
+          },
+          {
+            "page": "1442-43"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/f2d/885/1439-01"
+        ]
+      },
+      {
+        "cite": "143 Cal.Rptr. 276",
+        "category": "reporters:state",
+        "reporter": "Cal. Rptr.",
+        "weight": 2,
+        "year": 1978,
+        "pin_cites": [
+          {
+            "page": "279"
+          }
+        ],
+        "opinion_index": 0
+      },
+      {
+        "cite": "77 Cal.App.3d 130",
+        "category": "reporters:state",
+        "reporter": "Cal. App. 3d",
+        "case_ids": [
+          2011360
+        ],
+        "year": 1978,
+        "opinion_index": 0,
+        "case_paths": [
+          "/cal-app-3d/77/0130-01"
+        ]
+      },
+      {
+        "cite": "72 Cal.Rptr. 756",
+        "category": "reporters:state",
+        "reporter": "Cal. Rptr.",
+        "year": 1968,
+        "pin_cites": [
+          {
+            "page": "762-68"
+          }
+        ],
+        "opinion_index": 0
+      },
+      {
+        "cite": "266 Cal.App.2d 864",
+        "category": "reporters:state",
+        "reporter": "Cal. App. 2d",
+        "year": 1968,
+        "opinion_index": 0
+      },
+      {
+        "cite": "3 F.3d 1289",
+        "category": "reporters:federal",
+        "reporter": "F.3d",
+        "case_ids": [
+          10517586
+        ],
+        "pin_cites": [
+          {
+            "page": "1292"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/f3d/3/1289-01"
+        ]
+      },
+      {
+        "cite": "104 L.Ed.2d 663",
+        "category": "reporters:federal",
+        "reporter": "L. Ed. 2d",
+        "year": 1989,
+        "opinion_index": 0
+      },
+      {
+        "cite": "109 S.Ct. 2102",
+        "category": "reporters:federal",
+        "reporter": "S. Ct.",
+        "year": 1989,
+        "opinion_index": 0
+      },
+      {
+        "cite": "490 U.S. 1081",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          605376,
+          606048,
+          605155,
+          605251,
+          605731,
+          605355,
+          605259,
+          605104,
+          605778,
+          605522,
+          605554,
+          605656,
+          605466,
+          605595
+        ],
+        "year": 1989,
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/490/1081-04",
+          "/us/490/1081-02",
+          "/us/490/1081-07",
+          "/us/490/1081-08",
+          "/us/490/1081-14",
+          "/us/490/1081-03",
+          "/us/490/1081-05",
+          "/us/490/1081-10",
+          "/us/490/1081-06",
+          "/us/490/1081-13",
+          "/us/490/1081-01",
+          "/us/490/1081-09",
+          "/us/490/1081-11",
+          "/us/490/1081-12"
+        ]
+      },
+      {
+        "cite": "861 F.2d 198",
+        "category": "reporters:federal",
+        "reporter": "F.2d",
+        "case_ids": [
+          10525755
+        ],
+        "pin_cites": [
+          {
+            "page": "201"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/f2d/861/0198-01"
+        ]
+      },
+      {
+        "cite": "950 F.2d 1419",
+        "category": "reporters:federal",
+        "reporter": "F.2d",
+        "case_ids": [
+          10528231
+        ],
+        "weight": 6,
+        "pin_cites": [
+          {
+            "page": "1423"
+          },
+          {
+            "page": "1424"
+          },
+          {
+            "page": "1425-26"
+          },
+          {
+            "page": "1426"
+          },
+          {
+            "page": "1423"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/f2d/950/1419-01"
+        ]
+      },
+      {
+        "cite": "278 U.S. 194",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          3906561
+        ],
+        "weight": 3,
+        "year": 1929,
+        "pin_cites": [
+          {
+            "page": "199"
+          },
+          {
+            "page": "106"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/278/0194-01"
+        ]
+      },
+      {
+        "cite": "103 L.Ed.2d 859",
+        "category": "reporters:federal",
+        "reporter": "L. Ed. 2d",
+        "year": 1989,
+        "opinion_index": 0
+      },
+      {
+        "cite": "109 S.Ct. 1557",
+        "category": "reporters:federal",
+        "reporter": "S. Ct.",
+        "year": 1989,
+        "opinion_index": 0
+      },
+      {
+        "cite": "489 U.S. 1090",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          12089921,
+          12089800,
+          12089837,
+          12090030,
+          12089874,
+          12089973,
+          12090075
+        ],
+        "year": 1989,
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/489/1090-04",
+          "/us/489/1090-01",
+          "/us/489/1090-02",
+          "/us/489/1090-06",
+          "/us/489/1090-03",
+          "/us/489/1090-05",
+          "/us/489/1090-07"
+        ]
+      },
+      {
+        "cite": "858 F.2d 1394",
+        "category": "reporters:federal",
+        "reporter": "F.2d",
+        "case_ids": [
+          10536202
+        ],
+        "weight": 3,
+        "pin_cites": [
+          {
+            "page": "1395"
+          },
+          {
+            "page": "1396"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/f2d/858/1394-01"
+        ]
+      },
+      {
+        "cite": "28 U.S.C. \u00a7 1291",
+        "category": "laws:leg_statute",
+        "reporter": "U.S.C.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "42 U.S.C. \u00a7 1983",
+        "category": "laws:leg_statute",
+        "reporter": "U.S.C.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "83 L.Ed.2d 803",
+        "category": "reporters:federal",
+        "reporter": "L. Ed. 2d",
+        "year": 1985,
+        "opinion_index": 1
+      },
+      {
+        "cite": "105 S.Ct. 810",
+        "category": "reporters:federal",
+        "reporter": "S. Ct.",
+        "year": 1985,
+        "opinion_index": 1
+      },
+      {
+        "cite": "469 U.S. 1127",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          12087975,
+          12088015,
+          12087889,
+          12088091,
+          12087932
+        ],
+        "year": 1985,
+        "opinion_index": 1,
+        "case_paths": [
+          "/us/469/1127-03",
+          "/us/469/1127-04",
+          "/us/469/1127-01",
+          "/us/469/1127-05",
+          "/us/469/1127-02"
+        ]
+      },
+      {
+        "cite": "735 F.2d 1139",
+        "category": "reporters:federal",
+        "reporter": "F.2d",
+        "case_ids": [
+          581249
+        ],
+        "pin_cites": [
+          {
+            "page": "1147-48"
+          }
+        ],
+        "opinion_index": 1,
+        "case_paths": [
+          "/f2d/735/1139-01"
+        ]
+      },
+      {
+        "cite": "862 F.2d 1352",
+        "category": "reporters:federal",
+        "reporter": "F.2d",
+        "case_ids": [
+          1825493
+        ],
+        "pin_cites": [
+          {
+            "page": "1353-54"
+          }
+        ],
+        "opinion_index": 1,
+        "case_paths": [
+          "/f2d/862/1352-01"
+        ]
+      },
+      {
+        "cite": "650 F.2d 205",
+        "category": "reporters:federal",
+        "reporter": "F.2d",
+        "case_ids": [
+          1240253
+        ],
+        "weight": 2,
+        "pin_cites": [
+          {
+            "page": "206"
+          }
+        ],
+        "opinion_index": 1,
+        "case_paths": [
+          "/f2d/650/0205-01"
+        ]
+      },
+      {
+        "cite": "460 U.S. 719",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          6199239
+        ],
+        "weight": 3,
+        "year": 1983,
+        "opinion_index": 1,
+        "case_paths": [
+          "/us/460/0719-01"
+        ]
+      },
+      {
+        "cite": "660 F.2d 1345",
+        "category": "reporters:federal",
+        "reporter": "F.2d",
+        "case_ids": [
+          390941
+        ],
+        "pin_cites": [
+          {
+            "page": "1349"
+          }
+        ],
+        "opinion_index": 1,
+        "case_paths": [
+          "/f2d/660/1345-01"
+        ]
+      },
+      {
+        "cite": "491 U.S. 58",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          6210401
+        ],
+        "weight": 3,
+        "year": 1989,
+        "pin_cites": [
+          {
+            "page": "71"
+          },
+          {
+            "page": "2312"
+          }
+        ],
+        "opinion_index": 1,
+        "case_paths": [
+          "/us/491/0058-01"
+        ]
+      },
+      {
+        "cite": "885 F.2d 1439",
+        "category": "reporters:federal",
+        "reporter": "F.2d",
+        "case_ids": [
+          10536356
+        ],
+        "pin_cites": [
+          {
+            "page": "1443"
+          }
+        ],
+        "opinion_index": 1,
+        "case_paths": [
+          "/f2d/885/1439-01"
+        ]
+      },
+      {
+        "cite": "3 F.3d 1289",
+        "category": "reporters:federal",
+        "reporter": "F.3d",
+        "case_ids": [
+          10517586
+        ],
+        "weight": 2,
+        "pin_cites": [
+          {
+            "page": "1292"
+          }
+        ],
+        "opinion_index": 1,
+        "case_paths": [
+          "/f3d/3/1289-01"
+        ]
+      },
+      {
+        "cite": "104 L.Ed.2d 663",
+        "category": "reporters:federal",
+        "reporter": "L. Ed. 2d",
+        "year": 1989,
+        "opinion_index": 1
+      },
+      {
+        "cite": "109 S.Ct. 2102",
+        "category": "reporters:federal",
+        "reporter": "S. Ct.",
+        "year": 1989,
+        "opinion_index": 1
+      },
+      {
+        "cite": "490 U.S. 1081",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          605376,
+          606048,
+          605155,
+          605251,
+          605731,
+          605355,
+          605259,
+          605104,
+          605778,
+          605522,
+          605554,
+          605656,
+          605466,
+          605595
+        ],
+        "year": 1989,
+        "opinion_index": 1,
+        "case_paths": [
+          "/us/490/1081-04",
+          "/us/490/1081-02",
+          "/us/490/1081-07",
+          "/us/490/1081-08",
+          "/us/490/1081-14",
+          "/us/490/1081-03",
+          "/us/490/1081-05",
+          "/us/490/1081-10",
+          "/us/490/1081-06",
+          "/us/490/1081-13",
+          "/us/490/1081-01",
+          "/us/490/1081-09",
+          "/us/490/1081-11",
+          "/us/490/1081-12"
+        ]
+      },
+      {
+        "cite": "861 F.2d 198",
+        "category": "reporters:federal",
+        "reporter": "F.2d",
+        "case_ids": [
+          10525755
+        ],
+        "pin_cites": [
+          {
+            "page": "201"
+          }
+        ],
+        "opinion_index": 1,
+        "case_paths": [
+          "/f2d/861/0198-01"
+        ]
+      },
+      {
+        "cite": "950 F.2d 1419",
+        "category": "reporters:federal",
+        "reporter": "F.2d",
+        "case_ids": [
+          10528231
+        ],
+        "weight": 3,
+        "pin_cites": [
+          {
+            "page": "1423"
+          },
+          {
+            "page": "1425, n. 3"
+          }
+        ],
+        "opinion_index": 1,
+        "case_paths": [
+          "/f2d/950/1419-01"
+        ]
+      },
+      {
+        "cite": "103 L.Ed.2d 859",
+        "category": "reporters:federal",
+        "reporter": "L. Ed. 2d",
+        "year": 1989,
+        "opinion_index": 1
+      },
+      {
+        "cite": "109 S.Ct. 1557",
+        "category": "reporters:federal",
+        "reporter": "S. Ct.",
+        "year": 1989,
+        "opinion_index": 1
+      },
+      {
+        "cite": "489 U.S. 1090",
+        "category": "reporters:federal",
+        "reporter": "U.S.",
+        "case_ids": [
+          12089921,
+          12089800,
+          12089837,
+          12090030,
+          12089874,
+          12089973,
+          12090075
+        ],
+        "year": 1989,
+        "opinion_index": 1,
+        "case_paths": [
+          "/us/489/1090-04",
+          "/us/489/1090-01",
+          "/us/489/1090-02",
+          "/us/489/1090-06",
+          "/us/489/1090-03",
+          "/us/489/1090-05",
+          "/us/489/1090-07"
+        ]
+      },
+      {
+        "cite": "858 F.2d 1394",
+        "category": "reporters:federal",
+        "reporter": "F.2d",
+        "case_ids": [
+          10536202
+        ],
+        "weight": 2,
+        "pin_cites": [
+          {
+            "page": "1395"
+          },
+          {
+            "page": "1396"
+          }
+        ],
+        "opinion_index": 1,
+        "case_paths": [
+          "/f2d/858/1394-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 1014,
+      "char_count": 27070,
+      "ocr_confidence": 0.672,
+      "pagerank": {
+        "raw": 1.0462306861044515e-07,
+        "percentile": 0.5521128838013336
+      },
+      "sha256": "8cb09bbaf50816f078725d79761a0b481e9e289906a1611ac39254ad7c188ef3",
+      "simhash": "1:88d93b7bc8ab9efe",
+      "word_count": 4338
+    },
+    "last_updated": "2024-02-27T19:46:02.805499+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0771-01",
+    "first_page_order": 835,
+    "last_page_order": 842
+  }
+]

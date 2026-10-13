@@ -1,0 +1,142 @@
+Source: https://www.law.cornell.edu/supct/html/95-1268.ZS.html
+
+window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+  
+	gtag('config', 'G-PDVVHXRDE6');
+window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+Maryland v. Wilson, 519 U.S. 408 (1997).
+LII
+Supreme Court
+Maryland v. Wilson (95-1268), 519 U.S. 408 (1997).
+Syllabus
+Dissent
+[ Stevens ]
+Dissent
+[ Kennedy ]
+Opinion
+[ Rehnquist ]
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See
+United States
+v.
+Detroit Timber & Lumber
+ Co.,
+200
+ U.S. 321
+, 337.
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+MARYLAND
+v.
+WILSON
+certiorari to the court of
+ special appeals of maryland
+No.
+95-1268
+.
+ Argued
+December 11, 1996
+-- Decided
+February 19, 1997
+After stopping a speeding car in which respondent Wilson was a passenger,
+ a Maryland state trooper ordered Wilson out of the car upon noticing his
+ apparent nervousness. When Wilson exited, a quantity of cocaine fell to
+ the ground. He was arrested and charged with possession of cocaine with
+ intent to distribute. The Baltimore County Circuit Court granted his motion
+ to suppress the evidence, deciding that the trooper's ordering him out
+ of the car constituted an unreasonable seizure under the
+Fourth
+ Amendment
+. The Maryland Court of Special Appeals affirmed, holding
+ that the rule of
+Pennsylvania
+v.
+Mimms,
+434
+ U.S. 106
+, that an officer may as a matter of course order the driver
+ of a lawfully stopped car to exit his vehicle, does not apply to passengers.
+Held:
+An officer making a
+ traffic stop may order passengers to get out of the car pending completion
+ of the stop. Statements by the Court in
+Michigan
+v.
+Long,
+463
+ U.S. 1032
+, 1047-1048
+(Mimms
+"held that police may order
+persons
+out of an automobile during a [traffic] stop" (emphasis added)), and by
+ Justice Powell in
+Rakas
+v.
+Illinois,
+439
+ U.S. 128
+, 155, n. 4
+(Mimms
+held "that
+passengers
+. .
+ . have no Fourth Amendment right not to be ordered from their vehicle,
+ once a proper stop is made" (emphasis added)), do not constitute binding
+ precedent, since the former statement was dictum, and the latter was contained
+ in a concurrence. Nevertheless, the
+Mimms
+rule applies to passengers
+ as well as to drivers. The Court therein explained that the touchstone
+ of
+Fourth
+ Amendment
+analysis is the reasonableness of the particular governmental
+ invasion of a citizen's personal security, 434 U. S., at 108-109, and that
+ reasonableness depends on a balance between the public interest and the
+ individual's right to personal security free from arbitrary interference
+ by officers,
+id.,
+at 109. On the public interest side, the same
+ weighty interest in officer safety is present regardless of whether the
+ occupant of the stopped car is a driver, as in
+Mimms,
+see
+id.,
+at 109-110, or a passenger, as here. Indeed, the danger to an officer from
+ a traffic stop is likely to be greater when there are passengers in addition
+ to the driver in the stopped car. On the personal liberty side, the case
+ for passengers is stronger than that for the driver in the sense that there
+ is probable cause to believe that the driver has committed a minor vehicular
+ offense, see
+id.,
+at 110, but there is no such reason to stop or
+ detain passengers. But as a practical matter, passengers are already stopped
+ by virtue of the stop of the vehicle, so that the additional intrusion
+ upon them is minimal. Pp. 2-6.
+106 Md. App. 24
+,
+664
+ A. 2d 1
+, reversed and remanded.
+Rehnquist, C. J., delivered
+ the opinion of the Court, in which O'Connor, Scalia, Souter, Thomas, Ginsburg,
+ and Breyer, JJ., joined. Stevens, J., filed a dissenting opinion, in which
+ Kennedy, J., joined. Kennedy, J., filed a dissenting opinion.

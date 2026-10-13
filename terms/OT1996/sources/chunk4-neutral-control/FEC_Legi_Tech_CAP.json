@@ -1,0 +1,446 @@
+{
+  "id": 802,
+  "name": "FEDERAL ELECTION COMMISSION, Appellant, v. LEGI-TECH, INC., Appellee",
+  "name_abbreviation": "Federal Election Commission v. Legi-Tech, Inc.",
+  "decision_date": "1996-02-16",
+  "docket_number": "Nos. 94-5379, 95-5085",
+  "first_page": "704",
+  "last_page": "709",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "75 F.3d 704"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C. Cir.",
+    "id": 8770,
+    "name": "United States Court of Appeals for the District of Columbia Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2 U.S.C. \u00a7 438",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "(a)(4)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "824 F.2d 1253",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        4331099,
+        1730492
+      ],
+      "pin_cites": [
+        {
+          "page": "1257"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/263/0273-01",
+        "/f2d/824/1253-01"
+      ]
+    },
+    {
+      "cite": "685 F.2d 547",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3634579,
+        525732
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "574-75"
+        },
+        {
+          "page": "564"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/222/0097-01",
+        "/f2d/685/0547-01"
+      ]
+    },
+    {
+      "cite": "778 F.2d 850",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1526850,
+        3603982
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/778/0850-01",
+        "/us-app-dc/250/0229-01"
+      ]
+    },
+    {
+      "cite": "62 F.3d 1484",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5709126,
+        7418335
+      ],
+      "pin_cites": [
+        {
+          "page": "1489"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/314/0152-01",
+        "/f3d/62/1484-01"
+      ]
+    },
+    {
+      "cite": "59 F.3d 1281",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        179208,
+        5868301
+      ],
+      "pin_cites": [
+        {
+          "page": "1288"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/59/1281-01",
+        "/us-app-dc/313/0293-01"
+      ]
+    },
+    {
+      "cite": "115 S.Ct. 1745",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        1339528
+      ],
+      "weight": 5,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "1751"
+        },
+        {
+          "parenthetical": "emphasis added; emphasis in original"
+        },
+        {
+          "page": "1751"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/514/0749-01"
+      ]
+    },
+    {
+      "cite": "807 F.2d 414",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1649661
+      ],
+      "pin_cites": [
+        {
+          "page": "417-18"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/807/0414-01"
+      ]
+    },
+    {
+      "cite": "810 F.2d 968",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1635336
+      ],
+      "pin_cites": [
+        {
+          "page": "973"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/810/0968-01"
+      ]
+    },
+    {
+      "cite": "46 L.Ed.2d 659",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "96 S.Ct. 612",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "690-92"
+        },
+        {
+          "page": "693"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "424 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "weight": 2,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "142"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 F.3d 137",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5866930,
+        10522642
+      ],
+      "pin_cites": [
+        {
+          "page": "139-40"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/307/0270-01",
+        "/f3d/28/0137-01"
+      ]
+    },
+    {
+      "cite": "876 F.2d 186",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10530058,
+        3469236
+      ],
+      "pin_cites": [
+        {
+          "page": "189"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/876/0186-01",
+        "/us-app-dc/278/0001-01"
+      ]
+    },
+    {
+      "cite": "376 U.S. 254",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        379234
+      ],
+      "weight": 3,
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/376/0254-01"
+      ]
+    },
+    {
+      "cite": "402 U.S. 313",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11733536
+      ],
+      "weight": 3,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "350"
+        },
+        {
+          "page": "1453-54"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/402/0313-01"
+      ]
+    },
+    {
+      "cite": "388 U.S. 130",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6167825
+      ],
+      "weight": 3,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "142-43"
+        },
+        {
+          "page": "1984-85"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/388/0130-01"
+      ]
+    },
+    {
+      "cite": "794 F.Supp. 1344",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        9052555
+      ],
+      "pin_cites": [
+        {
+          "page": "1353"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/794/1344-01"
+      ]
+    },
+    {
+      "cite": "509 U.S. 86",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        355584
+      ],
+      "weight": 6,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "2517"
+        },
+        {
+          "page": "2519-20"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/509/0086-01"
+      ]
+    },
+    {
+      "cite": "115 S.Ct. 537",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        1335080
+      ],
+      "weight": 2,
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/513/0088-01"
+      ]
+    },
+    {
+      "cite": "6 F.3d 821",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3723793,
+        10513117
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "827-28"
+        },
+        {
+          "page": "826-27",
+          "parenthetical": "the non-voting ex officio members' presence only had the potential for influence, like an alternate juror"
+        },
+        {
+          "page": "824"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/303/0362-01",
+        "/f3d/6/0821-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 905,
+    "char_count": 17651,
+    "ocr_confidence": 0.704,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 2.1236759363190673e-05
+    },
+    "sha256": "a3976dfbd21bdac3234e7c888fb529dcfd0fbb80baf785f34050b15f346102cb",
+    "simhash": "1:b647c3687e6d2fb2",
+    "word_count": 2786
+  },
+  "last_updated": "2024-02-27T23:16:59.023807+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before: EDWARDS, Chief Judge, SILBERMAN and GINSBURG, Circuit Judges."
+    ],
+    "parties": [
+      "FEDERAL ELECTION COMMISSION, Appellant, v. LEGI-TECH, INC., Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "SILBERMAN, Circuit Judge:\nThe Federal Election Commission appeals the district court\u2019s dismissal of its civil enforcement proceeding against Legi-Tech, Inc. The district court determined that Federal Election Comm\u2019n v. NRA Political Victory Fund, 6 F.3d 821 (D.C.Cir.1993), cert. dismissed, \u2014 U.S.-, 115 S.Ct. 537, 130 L.Ed.2d 439 (1994), in which we held that the presence of two congressional officers as ex officio members of the Commission violated the Constitution, required dismissal in this case as well. We disagree and therefore reverse.\nI.\nLegi-Tech marketed a computerized database service called the Campaign Contribution Tracking System (CCTS), which provided on-line subscribers with information on file with the FEC. Several of CCTS\u2019 subscribers used this information to solicit contributions, allegedly in violation of \u00a7 438(a)(4)\u2019s prohibition on using information obtained from the FEC\u2019s files for the purpose of soliciting contributions. After an investigation initiated in 1986, the FEC found probable cause to believe Legi-Tech had violated \u00a7 438(a)(4), and attempted conciliation as required by statute. 2 U.S.C. \u00a7 437g(a)(4) (1985). When settlement failed, the FEC filed a civil enforcement action seeking declaratory and injunctive relief and monetary penalties.\nWhole the parties\u2019 cross-motions for summary judgment were pending, we decided NRA, 6 F.3d 821, holding that the presence of the two congressional officers as non-voting ex officio members of the FEC violated the Constitution and that the FEC therefore had no authority to bring the enforcement action. We also determined, however, that the ex officio provision was severable. Id. at 827-28. Four days after our opinion issued, the FEC voted to reconstitute itself, excluding the ex officio members from all proceedings. A few weeks later the General Counsel submitted recommendations. on all pending proceedings to the Commission and, after three days of deliberation, the reconstituted FEC voted to find probable cause that LegiTech had violated \u00a7 438(a)(4) and to authorize the General Counsel to continue this litigation.\nLegi-Tech brought NRA to the district court\u2019s attention as supplemental authority and moved for dismissal. The district court granted the motion without prejudice to the FEC\u2019s ability to initiate a new proceeding. The court determined that it was required to impose the same remedy as in NRA under applicable retroactivity doctrine, see Harper v. Virginia Dep\u2019t of Taxation, 509 U.S. 86, -, 113 S.Ct. 2510, 2517, 125 L.Ed.2d 74 (1993), and that the FEC could not \u201ccircumvent\u201d Harper\u2019s mandate through its reconstitution and ratification of its former actions.\nII.\nThe FEC argues that Legi-Tech waived its separation of powers claim by failing to plead it as an affirmative defense pursuant to Fed.R.Civ.P. 8(c), in the answer to the complaint, or at least in the opposition to the motion for summary judgment. Although the defense was raised prior to a ruling from the district court, Legi-Tech never moved formally to amend its answer. Legi-Tech \u2014 relying only on a Mississippi district court decision, United States v. Mississippi Vocational Rehab, for the Blind, 794 F.Supp. 1344, 1353 (S.D.Miss.1992) \u2014 contends that the unconstitutional composition of the FEC is not actually an affirmative defense under Rule 8(c) because it is not listed therein and it does not fall within the general category of any \u201cmatter constituting an avoidance or affirmative defense.\u201d In any event, its failure to plead the defense is excused under Curtis Publishing Co. v. Butts, 388 U.S. 130, 142-43, 87 S.Ct. 1975, 1984-85, 18 L.Ed.2d 1094 (1967), because the NRA decision was a new rule of law. To which the FEC responds that Curtis Publishing did not change the general rule that a defense is waived unless it is foreclosed by precedent. See Blonder-Tongue Labs., Inc. v. University of Illinois Found., 402 U.S. 313, 350, 91 S.Ct. 1434, 1453-54, 28 L.Ed.2d 788 (1971). Curtis Publishing was a special case because the Supreme Court\u2019s opinion in New York Times Co. v. Sullivan, 376 U.S. 254, 84 S.Ct. 710, 11 L.Ed.2d 686 (1964), was so novel, was such a break with prior jurisprudence, that it was equivalent to overturning a precedent.\nWe think Legi-Tech\u2019s analysis is faulty; its assertion that the FEC is unconstitutionally composed cannot be regarded as anything other than an affirmative defense against an enforcement proceeding. As such, it must be raised in the pleading. See Dole v. Williams Enter. Inc., 876 F.2d 186, 189 (D.C.Cir.1989); cf. LaRouche v. FEC, 28 F.3d 137, 139-40 (D.C.Cir.1994) (finding a defense waived when not raised in the initial appellate brief but only in the reply brief, when there were no special circumstances to justify departure from the general waiver rule). And we agree with the Commission that the Curtis Publishing exception was based on the creation of an entirely new constitutional right in New York Times. Here, not only is there no precedent adverse to Legi-Tech\u2019s separation of powers defense, but its defense was foreshadowed in Buckley v. Valeo, 424 U.S. 1, 96 S.Ct. 612, 46 L.Ed.2d 659 (1976). In Buckley, the Supreme Court held that the presence of unconstitutionally appointed voting members exercising-wide-ranging powers, including enforcement responsibility, violated separation of powers principles, but it did not address the issue of whether the presence of non-voting ex officio members was also unconstitutional. Id. at 137-40, 96 S.Ct. at 690-92. Legi-Tech therefore should have raised the issue in its answer, and certainly, at minimum, should have moved to amend its answer after we decided NRA.\nNevertheless, waiver is not automatic. The district court has substantial discretion under Fed.R.Civ.P. .15 to allow a party to amend its pleadings and to introduce authority or evidence at a later time. See, e.g., Expertise, Inc. v. Aetna Finance Co., 810 F.2d 968, 973 (10th Cir.1987) (an affirmative defense is not waived by the failure to plead it in the answer when the issue was included in the pre-trial order); Lucas v. United States, 807 F.2d 414, 417-18 (5th Cir.1986) (no waiver of affirmative defense if the issue were raised in sufficient time to allow the other party to respond fully); 5 Charles A. Wright & Arthur R. Miller, Federal Practice and Procedure \u00a7 1278 (1990 & Supp. 1995). Absent any prejudice to the FEC\u2014 and we see none\u2014it was not an abuse of discretion for the district court to consider Legi-Tech\u2019s submission of our opinion in NRA although designated only as supplemental authority, as the functional equivalent of a motion to amend the pleadings to include the separation of powers claim.\nIII.\nIt is common ground between the parties that, assuming Legi-Tech properly placed its defense in issue, the retroactivity doctrine of Harper, 509 U.S. 86, 113 S.Ct. 2510, requires the application of NRA to this case. The disputed issue is whether application of NRA dictates the same remedial result\u2014dismissal of the suit. Legi-Tech argues that it does. Separation of powers is a structural constitutional defect that makes the FEC\u2019s entire investigation and decision to file suit void ab initio. Legi-Tech therefore does not have to show any specific prejudice to warrant dismissal. The FEC\u2019s later ratification of the probable cause finding and the civil enforcement action, as a matter of principle, cannot cure such a constitutional violation; a vote at the end of the administrative process does not remove the taint from the entire sequence of decisions. Even if such a cure were possible, it is argued, the FEC\u2019s' \u201crubberstamp\u201d of its prior decisions did not represent a real fresh deliberation. The FEC therefore must redo the statutorily required procedures in their entirety\u2014i.e., decide whether to initiate an investigation, investigate, decide whether to find probable cause that a violation occurred, attempt conciliation, and institute suit. Legi-Tech thus contends that dismissal of the case, as in NRA is the appropriate remedy. As might be expected, the FEC resists that course, which it claims unnecessary, in part because of concern that the statute of limitations might bar reinitiation of the suit.\nThe Harper retroactivity doctrine, although it requires the same legal rule as in NRA to be applied in.this case, does not inevitably require the same remedy. The FEC correctly notes that Harper itself did not impose the same remedy as the case it followed. 509 U.S. at---, 113 S.Ct. at 2519-20. In Reynoldsville Casket Co. v. Hyde, \u2014 U.S. -, -, 115 S.Ct. 1745, 1751, 131 L.Ed.2d 820 (1995), the Supreme Court explained that retroactivity does not always dictate the same remedy (or result) in the second case, as when a court finds:\n1) an alternative way of curing the constitutional violation, or 2) a previously existing, independent legal basis (having nothing to do with retroactivity) for denying relief, or 3) ... a well-established general legal rule that trumps the new rule of law, which general rule reflects both reliance interests and other significant policy justifications, or 4) a principle of law, such as that of \u201cfinality\u201d present in the Teague context, that limits the principle of retroactivity itself.\nId. (emphasis added; emphasis in original). See also National Fuel Gas Supply Corp. v. F.E.R.C., 59 F.3d 1281, 1288 (D.C.Cir.1995). Here, as the FEC points out, the constitutional violation, which obliged us to dismiss the case in NRA, has been remedied \u2014 or at least the FEC purported to remedy the defect. The question before us then is whether the remedy was effective, thus falling within Hyde\u2019s exception for an \u201calternative way of curing the constitutional violation.\u201d If the remedy adequately addressed the prejudice to Legi-Tech from the constitutional violation, then dismissal is neither necessary nor appropriate, and certainly is not compelled by NRA\nLegi-Tech\u2019s contention that the FEC\u2019s reconstitution and ratification is not an effective remedy because separation of powers is a \u201cstructural\u201d constitutional defect that necessarily voids all prior decisions is overstated. In Buckley, 424 U.S. at 142, 96 S.Ct. at 693, the Supreme Court accorded de facto validity to all FEC proceedings and allowed the FEC to continue to function pending congressional action, despite the more severe nature of the violation \u2014 the presence of unconstitutionally appointed voting members. A fortiori, the presence of non-voting ex officio members does not, as a matter of constitutional compulsion, void all prior FEC actions.\nLegi-Tech argues alternatively that this is the type of violation for which prejudice must be presumed. To be sure, Legi-Tech was prejudiced, in the same manner as the NRA, when the FEC brought suit. But that does not resolve the question presented here; the relevant issue is the degree of continuing prejudice now, after the FEC\u2019s reconstitution and ratification, and whether that degree of prejudice \u2014 if it exists \u2014 requires dismissal. Legi-Tech contends the remedy was not adequate, so the FEC must repeat the entire administrative process and, only thereafter, may it bring suit. The FEC naturally asserts that- its actions completely eliminated any prejudice to Legi-Tech. ,We are willing to assume that no matter what course was followed \u2014 other than a dismissal with prejudice (which not even Legi-Tech dares request) \u2014 some effects of the unconstitutional structure of the FEC are to be presumed to have impacted on the action. Nevertheless, it seems to us that there really is no ideal solution to the remedial problem in this case. Even were the Commission to return to square one \u2014 assuming the statute of limitations was not a bar \u2014 it is virtually inconceivable that its decisions, would differ in any way the second time from that which occurred the first time. AL. Pharma, Inc. v. Shalala, 62 F.3d 1484, 1489 (D.C.Cir.1995); American Fed\u2019n of Gov\u2019t Employees v. Federal Labor Relations Auth., 778 F.2d 850, 862 n. 19 (D.C.Cir.1985) (citing cases for the proposition that remand to the agency is an unnecessary formality where the outcome is clear). After all, there had been no significant change in the membership of the Commission when the district court dismissed the suit, and surely the Commissioners would have every incentive to show that they had not been \u201cinfluenced\u201d by the unconstitutional presence of the ex officio members.\nLegi-Tech may well be right in arguing that the Commission\u2019s \u201creview\u201d of the ease after NRA was decided was nothing more than a \u201crubberstamp.\u201d But we cannot, as Legi-Tech argues, examine the internal deliberations of the Commission, at least absent a contention that one or more of the Commissioners were actually biased. Cf. Professional Air Traffic Controllers Org. v. Federal Labor Relations Auth., 685 F.2d 547, 574-75 (D.C.Cir.1982) (ordering an extensive inquiry into ex parte contacts with Members of the agency based on allegations of extensive \u201cbehind-the-scenes machinations\u201d). No such claim is raised here. We must bear in mind that we have no statutory authority to review the FEC\u2019s decision to sue (as compared, under this unique statute, to a decision not to sue, see 2 U.S.C. \u00a7 437g(a)(8) (1985)). In any event, forcing the Commission to start at the beginning of the administrative process, given human nature, promises no more detached and \u201cpure\u201d consideration of the merits of the case than the Commission\u2019s ratification decision reflected.\nUnder the circumstances, and bearing in mind the discretion the judiciary employs in the selection of remedies, we think much the better course is to take the FEC\u2019s post-reconstitution ratification of its prior decisions at face value and treat it as an adequate remedy for the NRA constitutional violation. Cf. Andrade v. Regnery, 824 F.2d 1253, 1257 (D.C.Cir.1987) (no legally cognizable harm to employees from unconstitutionally appointed administrator\u2019s development of reduction-in-force plan, when administrator was constitutionally appointed at time of plan\u2019s implementation). It might be said\u2014 although Legi-Tech has not \u2014 that we should defer to the district judge\u2019s discretion in this regard. But, she did not purport to exercise her remedial discretion; she seems to have considered a dismissal as required. In any event, we must assume that a number of other cases present the same issue, and we doubt the propriety of different district judges arriving at different remedial choices in the aftermath of NRA.\u2019\n* * * * * *\nThe district court\u2019s grant of Legi-Teeh\u2019s motion to dismiss is therefore\nReversed.\n.\"[A]ny information copied from [FEC] reports or statements may not be sold or used by any person for the purpose of soliciting contributions or for commercial purposes, other than using the name and address of any political committee to solicit contributions from such committee.\u201d 2 U.S.C. \u00a7 438(a)(4) (1985). After a civil enforcement action, several of CCTS\u2019 subscribers entered into a consent order with the FEC admitting that they had knowingly and willfully violated the Act.\n. We granted judgment for the defendant (by reversing the district court\u2019s judgment without remanding).\n. Legi-Tech does not dispute that if it waived the separation of powers claim, the waiver would constitute an independent ground for denying retroactive application of NRA. See Reynoldsville Casket Co. v. Hyde,-U.S.-,-, 115 S.Ct. 1745, 1751, 131 L.Ed.2d 820 (1995).\n. The FEC also argues, with some force, that the Commission's actions here were only voidable, not void, because the ex officio members could not vote even though they may have influenced the voting Commissioners. As a voidable decision, prejudice must be shown. See Professional Air Traffic Controllers Org. v. Federal Labor Relations Auth., 685 F.2d 547, 564 (D.C.Cir.1982) (holding that illegal ex parte contacts with an agency only make agency action voidable, so prejudice must be shown); NRA, 6 F.3d at 826-27 (the non-voting ex officio members\u2019 presence only had the potential for influence, like an alternate juror).\n. It cites in support our statement in NRA that a litigant does not have to show less favorable treatment from the unconstitutionally composed FEC. 6 F.3d at 824. But that statement was made in the context of a standing analysis, not in the discussion of the appropriate remedy. And as noted below, the issue is not whether LegiTech was prejudiced by the original suit, which it undoubtedly was, but whether, given the FEC\u2019s remedial actions, there is sufficient remaining prejudice to warrant dismissal.\n. We therefore need not consider the FEC's further argument that dismissal is inappropriate because of the de facto officer doctrine.\n. At least one district judge has already done so. See FEC v. NRA, No. 85-1018 (D.D.C. Aug. 1, 1995) (memorandum and order denying motion to reconsider summary judgment for the FEC after the FEC's reconstitution).",
+        "type": "majority",
+        "author": "SILBERMAN, Circuit Judge:"
+      }
+    ],
+    "attorneys": [
+      "Richard B. Bader, Washington, DC, Associate General Counsel, Federal Election Commission, argued the cause, for appellant, with whom Lawrence M. Noble, General Counsel, and David B. Kolker, Attorney, were on the briefs. Vivien Clair, entered an appearance.",
+      "Rex S. Heinke, Los Angeles, CA, argued the cause, for appellee, with whom Alicia J. Bentley and Julia A. Dahlberg, Washington, DC, were on the brief. Phillip H. Rudolph, Washington, DC, entered an appearance."
+    ],
+    "corrections": "",
+    "head_matter": "FEDERAL ELECTION COMMISSION, Appellant, v. LEGI-TECH, INC., Appellee.\nNos. 94-5379, 95-5085.\nUnited States Court of Appeals, District of Columbia Circuit.\nArgued Dec. 18, 1995.\nDecided Feb. 16, 1996.\nRichard B. Bader, Washington, DC, Associate General Counsel, Federal Election Commission, argued the cause, for appellant, with whom Lawrence M. Noble, General Counsel, and David B. Kolker, Attorney, were on the briefs. Vivien Clair, entered an appearance.\nRex S. Heinke, Los Angeles, CA, argued the cause, for appellee, with whom Alicia J. Bentley and Julia A. Dahlberg, Washington, DC, were on the brief. Phillip H. Rudolph, Washington, DC, entered an appearance.\nBefore: EDWARDS, Chief Judge, SILBERMAN and GINSBURG, Circuit Judges."
+  },
+  "file_name": "0704-01",
+  "first_page_order": 756,
+  "last_page_order": 761
+}

@@ -1,0 +1,235 @@
+Source: https://www.law.cornell.edu/supct/html/95-1065.ZS.html
+
+window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+  
+	gtag('config', 'G-PDVVHXRDE6');
+window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+Schenck v. Pro Choice Network, 519 U.S. 357 (1997).
+LII
+Supreme Court
+(95-1065),
+Opinion
+[ Rehnquist ]
+Other
+[ Scalia ]
+Other
+[ Breyer ]
+Syllabus
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See
+United States
+v.
+Detroit Timber & Lumber
+ Co.,
+200
+ U.S. 321
+, 337.
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+SCHENCK et al.
+v.
+PRO CHOICE NETWORK OF WESTERN NEW YORK et al.
+certiorari to the united states
+ court of appeals for the second circuit
+No.
+95-1065
+.
+ Argued
+October 16, 1996
+-- Decided
+February 19, 1997
+Respondents, upstate New York abortion doctors and clinics and an organization
+ dedicated to maintaining access to abortion services, filed a complaint
+ in the District Court seeking to enjoin petitioners, other individuals,
+ and three organizations from engaging in blockades and other illegal conduct
+ at the clinics. The record shows that, before the complaint was filed,
+ the clinics were subjected to numerous large scale blockades in which protesters
+ marched, stood, knelt, sat, or lay in clinic parking lot driveways and
+ doorways, blocking or hindering cars from entering the lots, and patients
+ and clinic employees from entering the clinics. In addition, smaller groups
+ of protesters consistently attempted to stop or disrupt clinic operations
+ by, among other things, milling around clinic doorways and driveway entrances,
+ trespassing onto clinic parking lots, crowding around cars, and surrounding,
+ crowding, jostling, grabbing, pushing, shoving, and yelling and spitting
+ at women entering the clinics and their escorts. On the sidewalks outside
+ the clinics, protesters called "sidewalk counselors" used similar methods
+ in attempting to dissuade women headed toward the clinics from having abortions.
+ The local police were unable to respond effectively to the protests due,
+ in part, to the fact that the defendants harassed them verbally and by
+ mail. The District Court issued a temporary restraining order (TRO), and
+ later, after the protests and sidewalk counseling continued, a preliminary
+ injunction. As relevant here, injunction provisions banned "demonstrating
+ within fifteen feet . . . of . . . doorways or doorway entrances, parking
+ lot entrances, driveways and driveway entrances of [clinic] facilities"
+ ("fixed buffer zones"), or "within fifteen feet of any person or vehicle
+ seeking access to or leaving such facilities" ("floating buffer zones").
+ Another provision allowed two sidewalk counselors inside the buffer zones,
+ but required them to "cease and desist" their counseling if the counselee
+ so requested. In its accompanying opinion, the District Court,
+inter
+ alia,
+rejected petitioners' assertion that the injunction violated
+ their
+First
+ Amendment
+right to free speech. The en banc Court of Appeals affirmed.
+Held:
+The injunction provisions
+ imposing "fixed buffer zone" limitations are constitutional, but the provisions
+ imposing "floating buffer zone" limitations violate the
+First
+ Amendment
+. Pp. 12-26.
+(a) Because
+Madsen
+v.
+Women's Health Center, Inc.,
+512
+ U.S. 753
+, bears many similarities to this case and because many of
+ the parties' arguments depend on the application of
+Madsen
+here,
+ the Court reviews that decision. In
+Madsen,
+the Court said that
+ "standard time, place, and manner analysis is not sufficiently rigorous"
+ for evaluating content neutral
+injunctions
+that restrict speech,
+ and held, instead, that the test is "whether the challenged provisions
+ . . . burden no more speech than necessary to serve a significant government
+ interest."
+Id.,
+at 765. Pp. 12-14.
+(b) Petitioners' argument that no significant governmental interests
+ support the injunction at issue is rejected. Given the factual similarity
+ between this case and
+Madsen,
+the Court concludes that the governmental
+ interests underlying the injunction there--ensuring public safety and order,
+ promoting the free flow of traffic on streets and sidewalks, protecting
+ property rights, and protecting a woman's freedom to seek pregnancy related
+ services, 512 U. S., at 767-768--also underlie the injunction here, and
+ in combination are certainly significant enough to justify an appropriately
+ tailored injunction to secure unimpeded physical access to the clinics.
+ Pp. 15-17.
+(c) The floating buffer zones are struck down because they burden
+ more speech than is necessary to serve the relevant governmental interests.
+ Such zones around people prevent defendants--except for sidewalk counselors
+ tolerated by the targeted individual--from communicating a message from
+ a normal conversational distance or handing out leaflets on the public
+ sidewalks. This is a broad prohibition, both because of the type of speech
+ restricted and the nature of the location. Leafletting and commenting on
+ matters of public concern are classic forms of speech that lie at the heart
+ of the
+First
+ Amendment
+, and speech in public areas is at its most protected on public
+ sidewalks, a prototypical example of a traditional public forum. See,
+e.g.,
+ Boos
+v.
+Barry,
+485
+ U.S. 312
+, 322. Although a record of abusive conduct sometimes makes
+ a prohibition on classic speech in limited parts of a public sidewalk permissible,
+ see,
+e.g.,
+Madsen, supra,
+at 769-770, the Court need not
+ decide whether the governmental interests involved would ever justify a
+ separation zone measured by the distance between targeted individuals and
+ protesters, since the fact that this broad speech prohibition "floats"
+ renders it unsustainable on this record. Protesters on the public sidewalks
+ who wish to communicate their message to a targeted individual and to remain
+ as close as possible (while maintaining an acceptable conversational distance)
+ must move as the individual moves, maintaining 15 feet of separation. But
+ this would be difficult to accomplish at,
+e.g.,
+one of the respondent
+ clinics which is bordered by a 17 foot wide sidewalk. The lack of certainty
+ as to how to remain in compliance with the injunction leads to a substantial
+ risk that much more speech will be burdened than the injunction by its
+ terms prohibits. There may well be other ways to both effect the desired
+ separation and yet provide certainty (so that speech protected by the injunction's
+ terms is not burdened). Because the Court strikes down the floating zones
+ around people, it does not address the constitutionality of the "cease
+ and desist" provision respecting those zones. The floating buffer zones
+ around vehicles also fail the
+Madsen
+test. Such zones would restrict
+ the speech of those who simply line the sidewalk or curb in an effort to
+ chant, shout, or hold signs peacefully. Nothing in the record or the District
+ Court's opinion contradicts the commonsense notion that a more limited
+ injunction--
+e.g.,
+one that keeps protesters away from driveways
+ and parking lot entrances and off the streets--would be sufficient to ensure
+ that drivers are not confused about how to enter the clinic and are able
+ to gain access to its driveways and parking lots safely and easily. Pp.
+ 17-21.
+(d) The fixed buffer zones around the clinic doorways, driveways,
+ and driveway entrances are upheld. That these zones are necessary to ensure
+ that people and vehicles can enter or exit the clinic property or parking
+ lots is demonstrated by evidence in the record showing that, both before
+ and after the TRO issued, protesters purposefully or effectively blocked
+ or hindered people from entering and exiting the doorways and from driving
+ up to and away from the entrances and in and out of the lots; that sidewalk
+ counselors followed and crowded people right up to the doorways (and sometimes
+ beyond) and then tended to stay in the doorways, shouting at the individuals
+ who had managed to get inside; and that defendants' harassment of the local
+ police made it far from certain that the police would be able to quickly
+ and effectively counteract protesters who blocked doorways or threatened
+ the safety of entering patients and employees. Deference is due the District
+ Court's reasonable assessment that 15 feet is the proper distance to ensure
+ access. See
+Madsen, supra,
+at 769-770. Petitioners' various arguments
+ against the fixed buffer zones--that other, unchallenged injunction provisions
+ are sufficient to ensure access to the clinics; that the District Court
+ should first have tried a "non speech restrictive" injunction; that there
+ is no extraordinary record of pervasive lawlessness here; and that the
+ injunction's term "demonstrating" is vague--are rejected. Also rejected
+ is petitioners' contention that the "cease and desist" provision limiting
+ the sidewalk counselors exception in connection with the fixed buffer zone
+ violates the
+First
+ Amendment
+. This limitation must be assessed in light of the fact that
+ the entire exception for counselors was an effort to enhance petitioners'
+ speech rights. Moreover, the "cease and desist" provision is not content
+ based simply because it allows a patient to terminate a protester's right
+ to speak when the patient disagrees with the message being conveyed. Counselors
+ remain free to espouse their message outside the 15-foot zone, and the
+ condition on their freedom to espouse it within the zone is the result
+ of their own previous harassment and intimidation of patients. Pp. 21-26.
+67 F. 3d 377, affirmed in part,
+ reversed in part, and remanded.
+Rehnquist, C. J., delivered
+ the opinion for a unanimous Court with respect to Parts I and II-A, the
+ opinion of the Court with respect to Part II-C, in which Stevens, O'Connor,
+ Scalia, Kennedy, Souter, Thomas, and Ginsburg, JJ., joined, and the opinion
+ of the Court with respect to Parts II-B and II-D, in which Stevens, O'Connor,
+ Souter, Ginsburg, and Breyer, JJ., joined. Scalia, J., filed an opinion
+ concurring in part and dissenting in part, in which Kennedy and Thomas,
+ JJ., joined. Breyer, J., filed an opinion concurring in part and dissenting
+ in part.

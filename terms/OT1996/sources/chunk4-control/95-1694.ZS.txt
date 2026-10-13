@@ -1,0 +1,103 @@
+Source: https://www.law.cornell.edu/supct/html/95-1694.ZS.html
+
+window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+  
+	gtag('config', 'G-PDVVHXRDE6');
+window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+Regents of the University of California v. Doe, 519 U.S. 425 (1997).
+LII
+Supreme Court
+Regents of the University of California v. Doe (95-1694), 519 U.S. 425 (1997).
+Opinion
+[ Stevens ]
+Syllabus
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See
+United States
+v.
+Detroit Timber & Lumber
+ Co.,
+200
+ U.S. 321
+, 337.
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+REGENTS OF THE UNIVERSITY
+ OF CALIFORNIA et al.
+v.
+DOE
+certiorari to the united states
+ court of appeals for the ninth circuit
+No.
+95-1694
+.
+ Argued
+December 2, 1996
+-- Decided
+February 19, 1997
+Respondent Doe, a New York citizen, sued the University of California
+ and others, alleging,
+inter alia,
+that the University had agreed
+ to employ him at a laboratory it operates pursuant to a contract with the
+ federal Department of Energy, and that it had wrongfully breached its agreement
+ with him upon determining that he could not obtain a required security
+ clearance. Relying on Circuit precedent holding that the University is
+ "an arm of the state," the District Court concluded that the
+Eleventh
+ Amendment
+barred Doe from maintaining his breach of contract action
+ in federal court. In reversing, the Ninth Circuit held that liability for
+ money judgments is the single most important factor in determining whether
+ an entity is an arm of the State, and gave decisive weight to the terms
+ of the University's agreement with the Energy Department, under which the
+ Department, not the State, is liable for any judgment rendered against
+ the University in its performance of the contract.
+Held:
+The fact that the Federal
+ Government has agreed to indemnify a state instrumentality against litigation
+ costs, including adverse judgments, does not divest the state agency of
+Eleventh
+ Amendment
+immunity. Nothing in this Court's opinions supports the notion
+ that the presence or absence of a third party's undertaking to indemnify
+ a state agency should determine whether it is the kind of entity that should
+ be treated as an arm of the State. Just as with the arm of the State inquiry,
+ see,
+e.g., Hess
+v.
+Port Authority Trans Hudson Corp.
+,
+513
+ U.S. 30
+, 51-52, it is the entity's potential legal liability for judgments,
+ rather than its ability or inability to require a third party to reimburse
+ it, or to discharge the liability in the first instance, that is relevant
+ in determining the underlying
+Eleventh
+ Amendment question
+. Accordingly, the Court rejects Doe's principal
+ contention--that the Amendment does not apply to this litigation because
+ any damages award would be paid by the Energy Department, and therefore
+ have no impact upon California's treasury. Because the question on which
+ certiorari was granted does not encompass Doe's alternative argument attacking
+ the Ninth Circuit cases holding the University to be an arm of the State,
+ the Court declines to address that argument. Pp. 4-7.
+65 F. 3d 771
+,
+ reversed.
+Stevens, J., delivered the
+ opinion for a unanimous Court.

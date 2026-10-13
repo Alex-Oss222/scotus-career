@@ -1,0 +1,131 @@
+Source: https://www.law.cornell.edu/supct/html/95-897.ZS.html
+
+window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+  
+	gtag('config', 'G-PDVVHXRDE6');
+window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+Auer v. Robbins, 519 U.S. 452 (1997).
+LII
+Supreme Court
+Auer v. Robbins (95-897), 519 U.S. 452 (1997).
+Syllabus
+Opinion
+[ Scalia ]
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See
+United States
+v.
+Detroit Timber & Lumber
+ Co.,
+200
+ U.S. 321
+, 337.
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+AUER et al.
+v.
+ROBBINS
+ et al.
+certiorari to the united states
+ court of appeals for the eighth circuit
+No.
+95-897
+.
+ Argued
+December 10, 1996
+-- Decided
+February 19, 1997
+Petitioners, St. Louis police sergeants and a lieutenant, sued respondent
+ police commissioners for overtime pay under the Fair Labor Standards Act
+ of 1938 (FLSA). Respondents argued that petitioners were "bona fide executive,
+ administrative, or professional" employees exempted from overtime pay requirements
+ by
+29 U.S.C. §
+ 213
+(a)(1). Under the Secretary of Labor's regulations, that exemption
+ applies to employees paid a specified minimum amount on a "salary basis,"
+ which requires that the "compensation . . . not [be] subject to reduction
+ because of variations in the quality or quantity of the work performed."
+ Petitioners claimed that they did not meet this test because, under the
+ terms of the Police Department Manual, their compensation could theoretically
+ be reduced (though this was not the department's general practice) for
+ a variety of disciplinary infractions related to the "quality or quantity"
+ of their work. Both the District Court and the Eighth Circuit disagreed
+ with that assertion, holding that the salary basis test was satisfied as
+ to all petitioners.
+Held:
+1. The "no disciplinary deductions"
+ element of the salary basis test reflects a permissible reading of the
+ FLSA as it applies to public sector employees. It is not apparent that
+ the Secretary's interpretation of §213(a)(1) is rendered unreasonable,
+ as applied to public sector employees, by the absence of other (non salary
+ reduction) means of discipline, or by the peculiar needs of "quasi military"
+ law enforcement organizations. The Secretary's approach must therefore
+ be sustained, given §213(a)(1)'s grant of broad authority to the Secretary
+ to "defin[e] and delimi[t]" the statutory exemption's scope. See
+Chevron
+ U. S. A. Inc.
+v.
+Natural Resources Defense Council, Inc.,
+467
+ U.S. 837
+, 842-843. Respondents' procedural objection to the Secretary's
+ failure to amend the disciplinary deduction rule in the wake of
+Garcia
+v.
+San Antonio Metropolitan Transit Authority,
+469
+ U.S. 528
+, cannot be raised in the first instance in this lawsuit, but
+ must be presented initially in a petition to the Secretary for amendatory
+ rulemaking under the Administrative Procedure Act,
+5
+ U.S.C. § 553
+(e). Pp. 3-6.
+2. The Secretary has reasonably interpreted the salary basis test
+ to be met when an employee's compensation may not "as a practical matter"
+ be adjusted in ways inconsistent with the test. The standard is violated,
+ the Secretary says, if there is either an actual practice of making deductions
+ or an employment policy that creates a "significant likelihood" of them.
+ Because the regulation's critical phrase "subject to" comfortably bears
+ the meaning the Secretary assigns, his interpretation of his own test is
+ not "plainly erroneous," and thus is controlling.
+Robertson
+v.
+Methow
+ Valley Citizens Council,
+490
+ U.S. 332
+, 359. The Secretary's interpretation is not rendered unworthy
+ of deference by the fact that it is set forth in an
+amicus
+brief;
+ it is not a position adopted in response to litigation, and there is no
+ reason to suspect that it does not reflect the Secretary's fair and considered
+ judgment. Nor does the rule requiring that FLSA exemptions be narrowly
+ construed against employers apply here; that rule governs judicial interpretation
+ of statutes and regulations, and does not limit the Secretary's power to
+ resolve ambiguities in his own regulations. Pp. 6-10.
+3. The regulations entitle employers to preserve the exempt status
+ of employees who have been subjected to pay deductions inconsistent with
+ the salary basis test by reimbursing those employees and promising to comply
+ with the test in the future, so long as the deductions in question were
+ either inadvertent or made for reasons other than lack of work. Pp. 10-11.
+65 F. 3d 702
+,
+ affirmed.
+Scalia, J., delivered the opinion
+ for a unanimous Court.

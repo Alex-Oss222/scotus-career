@@ -1,0 +1,151 @@
+Source: https://www.law.cornell.edu/supct/html/95-7452.ZS.html
+
+window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+  
+	gtag('config', 'G-PDVVHXRDE6');
+window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+Lynce v. Mathis, 519 U.S. 443 (1997)
+LII
+Supreme Court
+Lynce v. Mathis (95-7452), 519 U.S. 443 (1997)
+Concurrence
+[ Thomas ]
+Syllabus
+Opinion
+[ Stevens ]
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See
+United States
+v.
+Detroit Timber & Lumber
+ Co.,
+200
+ U.S. 321
+, 337.
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+LYNCE
+v.
+MATHIS,
+ SUPERINTENDENT, TOMOKA CORRECTIONAL INSTITUTION, et al.
+certiorari to the united states
+ court of appeals for the eleventh circuit
+No.
+95-7452
+.
+ Argued
+November 4, 1996
+-- Decided
+February 19, 1997
+Beginning in 1983 the Florida Legislature enacted a series of statutes
+ authorizing the award of early release credits to prison inmates when the
+ state prison population exceeded predetermined levels. In 1986 petitioner
+ received a 22 year prison sentence on a charge of attempted murder. In
+ 1992 he was released based on the determination that he had accumulated
+ five different types of early release credits totaling 5,668 days, including
+ 1,860 days of "provisional credits" awarded as a result of prison overcrowding.
+ Shortly thereafter, the state attorney general issued an opinion interpreting
+ a 1992 statute as having retroactively canceled all provisional credits
+ awarded to inmates convicted of murder and attempted murder. Petitioner
+ was therefore rearrested and returned to custody. He filed a habeas corpus
+ petition alleging that the retroactive cancellation of provisional credits
+ violated the
+Ex Post-Facto
+Clause. Relying on precedent rejecting
+ this argument on the ground that the sole purpose of these credits was
+ to alleviate prison overcrowding, the District Court dismissed the petition.
+ The Court of Appeals denied a certificate of probable cause.
+Held:
+The 1992 statute
+ canceling provisional release credits violates the
+Ex Post-Facto
+Clause. Pp. 6-16.
+(a) This Court rejects respondents'
+ contention that the cancellation of petitioner's provisional credits did
+ not violate the Clause because the credits had been issued as part of administrative
+ procedures designed to alleviate prison overcrowding and were therefore
+ not an integral part of petitioner's punishment. To fall within the
+ex
+ post-facto
+prohibition, a law must be retrospective and "disadvantage
+ the offender affected by it,"
+Weaver
+v.
+Graham,
+450
+ U.S. 24
+, 29, by,
+inter alia,
+increasing the punishment for the
+ crime, see
+Collins
+v.
+Youngblood,
+497
+ U.S. 37
+, 50. The operation of the 1992 statute was clearly retrospective,
+ and a determination that it disadvantaged petitioner by increasing his
+ punishment is supported by
+Weaver
+v.
+Graham,
+450 U. S., at
+ 36, in which the Court held that retroactively decreasing the amount of
+ gain time awarded for an inmate's good behavior violated the
+Ex Post-Facto
+Clause. Because
+Weaver
+and subsequent cases focused on whether the
+ legislature's action lengthened the prisoner's sentence without examining
+ the subjective purposes behind the sentencing scheme, see,
+e.g., id.,
+at 33, the fact that the generous gain time provisions in Florida's 1983
+ statute were motivated more by the interest in avoiding overcrowding than
+ by a desire to reward good behavior is not relevant to the essential
+ex
+ post-facto
+inquiry.
+California Dept. of Corrections
+v.
+Morales,
+514 U. S. ___, ___, distinguished. Respondents are foreclosed by
+Weaver,
+450 U. S., at 32, to the extent they argue that overcrowding gain time
+ is not in some technical sense part of the sentence. Their further argument
+ that petitioner could not reasonably have expected to receive any overcrowding
+ credits when he entered his guilty plea is singularly unpersuasive, given
+ the facts that he was actually awarded 1,860 days and that those credits
+ were retroactively cancelled as a result of the 1992 statute. Pp. 6-14.
+(b) The Court disagrees with respondents' argument that petitioner
+ is not entitled to relief because his provisional overcrowding credits
+ were awarded pursuant to statutes enacted after the date of his offense
+ rather than pursuant to the 1983 statute. Although the overcrowding statute
+ in effect at the time of his crime was slightly modified in subsequent
+ years, its basic elements remained the same, and the changes do not affect
+ his core
+ex post-facto
+claim. However, the differences in the statutes
+ may have affected the precise amount of release time he received. Because
+ this point was not adequately developed earlier in the proceeding, and
+ because it may not in any event affect petitioner's entitlement to release,
+ the Court leaves it open for further consideration on remand. Pp. 14-16.
+Reversed and remanded.
+Stevens, J., delivered the
+ opinion of the Court, in which Rehnquist, C. J., and O'Connor, Kennedy,
+ Souter, Ginsburg, and Breyer, JJ., join. Thomas, J., filed an opinion concurring
+ in part and concurring in the judgment, in which Scalia, J., joined.

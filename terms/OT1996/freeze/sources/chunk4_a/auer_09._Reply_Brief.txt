@@ -1,0 +1,1083 @@
+a ge 
+
+
+Supreme Coturt, U.S. 
+E 
+
+
+D 
+
+
+as NOV 12 1996 
+
+
+No. 95-897 ~— 
+ieeesiitiamiaamiasiaanal iiiiiaaiasinalaninenigne 
+
+
+i ld 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+OCTOBER TERM, 1996 
+
+
+FRANCIS BERNARD AUER, et ail., 
+
+
+Petitioners, 
+v. 
+
+
+DAVID A. ROBBINS, et al., 
+
+
+Respondents. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Eighth Circuit 
+
+
+REPLY BRIEF FOR PETITIONERS 
+
+
+* Counsel of Record 
+
+
+MICHAEL T. LEIBIG * 
+
+CARLA M. SIEGEL 
+
+LAUREN F. SINGER 
+
+ZWERDLING, PAUL, LEIBIG, 
+KAHN, THOMPSON & WOLLY 
+
+10640 Page Avenue, Suite 200 
+
+Fairfax, Virginia 22030 
+
+(703) 934-2675 
+
+
+201 South Central, Suite 103 
+Clayton, Missouri 631005 
+
+
+wll 
+
+
+TABLE OF CONTENTS 
+
+
+TABLE OF AUTHORITIES ............26-. ii 
+I. THE POLICE BOARD’S BURDEN ...... l 
+The Basics of the Burden. ............. 1 
+The Core Agreement Requirement. ....... 4 
+i. DEFERENCE TO DOL’S FLSA 
+
+
+REGULATIONS AND NOT TO SOLICITOR 
+GENERAL’S FACTUAL APPLICATION .. 7 
+
+
+Deference to 29 C.F.R. §§541.5d and 118(a). 9 
+
+
+No Deference To Solicitor General’s Factual 
+
+
+De - sebeedeeseneoonceceses 12 
+THE ELEVENTH AMENDMENT. ..... 13 
+The Board Is Not An Arm of the State. ... 13 
+
+
+The Court’s Financial 
+
+
+Pn Geo 6 ok aed ee seen oe 14 
+The Minority’s State Control Test. ...... 17 
+SE WEEE ce cedcciweaeivdade 18 
+
+
+CARMI cb ceresecdeevcsecectede 20 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cann Bo 90 2ote ean ek 
+SAC ee eee ‘ 
+TET ere , 
+UL Mon ....... ae 
+Vv ’ 
+438 U.S. 206 (196® .... 66s nen eee 12 
+<0. ST es 
+TET EE ; 
+70 Oe eee 
+23 U8 4 ee ; 
+ii 
+
+
+Gunter v. Atlantic C. L. R. Co., 
+EE a ee 19 
+Hackett v. Lane County, 
+
+Se Be Ge, BOOED 2 nc ccc cee ees 7 
+Hartman v. Arlington County, 
+
+720 F. Supp. 1227 (E.D. Va. 1989), 
+
+aff'd, 903 F.2d 290 (4th Cir. 1990) ............ 7 
+ _- 
+
+EE 13, 14, 17, 18 
+john H k Mut. Life Ins. C Harris T & Sav 
+Bank, 
+
+rn eee cn SQN) .........-.: 2 
+Lake Country Estates v. Tahoe Planning Agency, 
+EE Ee 14 
+Marti 6 ‘onal Saf | Health Revi 
+ES 8 
+642 S.W. 2d 907 (Mo. 1992) ...... 2.2.2.5... 15 
+Mitchell v. Lublin. McGoughy 4 | 
+Eee 2 
+
+
+iii 
+
+
+Mt. Healthy City Board of Ed. v. Doyle, 
+
+
+GCE, TOGO unc seciesscd 2 14, 16, 18 
+re preeeerreeeeeeE 
+1 ee . 
+Petty v. Tennessee-Missouri Bridg« \° »mpany, 
+
+SD UR. BEG kOe edie Hk kcObs regan 19 
+1 1 yy ere seni : 
+Meek WEED 2isaiecks cnhscacee ; 
+S17 US, 116 S.C1. 1114, 134 L.Ed 24 252 (1996) 13 
+SOUR OGM cercscccosccaccail £12 
+Buse ........ekaen ' 
+1-1 yy SER iene Sr 9 
+
+iv 
+
+
+United Parcel Servi Mitchell, 
+Ce Ge OS c Ge Fes ee eee ost sET G6 l 
+Y Guiliani 
+
+
+slip op. 95-7561 (2d Cir. 1996), cert. pending, 96-152 . 7 
+
+
+Statutes and Other Authorities: 
+
+ee I oo SO So Sh ee EO 4 
+Ges OR 6a 6 bt ow hévoe ea esis passim 
+Par, nD. 666 ce Geb 6 bee 6 es passim 
+nn. i 66 6 ibe 0 oes 66's wie 18 
+i PD”. «6 6 6\c 0 0 6 66 e 0 6% 17 
+Pn. A 6 66 6c ba Sb 64% ws 17 
+ES EE ne 18 
+DI MD « ovceeesneeteewns os 18 
+EE oe oral d 6 Nie ete 18 
+nD. ok o's o's'6'e ee 66s % OWS 18 
+ET TET Te eee 15 
+CN Ee eee 18 
+§84.190 R.S. Mo. (1995) ............... 15, 16 
+EE re rer 15 
+NR ee rn 18 
+
+
+° ist Court’s Canons of 
+Eskridge and Frickey, "The Rehnquist 
+Statutory Construction,” 108 Harv. L. Rev. 97, 105 
+
+
+oi as tae 
+GE: . os opi dus 655 SERS Corrs 8h" 
+Morrison and Commanger, "Progressism in Politics, 
+Growth of the American Republic (1961) ..--+--- 18 
+
+
+vi 
+
+
+INTRODUCTION 
+
+The central issues in the case have been thoroughly 
+briefed.’ The St. Louis Sergeants’ and Lieutenants’ 
+("Sergeants") reply is limited to three points: (1) the 
+employer failed to carry its burden of proving by clear, 
+affirmative and unmistakable evidence, that the Sergeants 
+are exempt under any of the proposed constructions of the 
+salary basis regulations; (2) the Department of Labor's 
+legislative regulations and formal interpretations are due 
+deference, but the Solicitor General’s arguments on the 
+application of those regulations to the facts are not; and 
+(3) the Eleventh Amendment does not apply to this case.’ 
+
+
+I. The Police Board’s Burden. 
+
+The Board argues that this Court should reverse 
+settled law by sustaining the holding that Sergeants are 
+exempt and by imposing the burden of proving non- 
+exempt status on the employee. 
+
+
+The Basics of the Burden. This Court long ago 
+settled the question of whether an employer could assert 
+entitlement to an exemption merely by treating a class of 
+
+
+' The "window of correction” is discussed fully in the 
+opening brief. The window should not be open after the initiation of 
+litigation. The Police Board has not, to this day, made an 
+unambiguous promise to comply with the application salary basis tesi 
+and disciplinary docking rule in the future. Pet. Brf. at 43-45; and n. 
+14, below. 
+
+
+? Tenth Amendment issues addressed by amici, but not raised 
+by the Respondents, are not before the Court. See, United Parcel 
+Service v. Mitchell, 451 U.S. 50, 60 n.2 (1981). 
+
+
+1 
+
+
+employees as exempt and, thereafter, insisting that the 
+employees bear the burden of proving they are covered. 
+The Police Board’s presumption that employees are 
+
+exempt absent evidence to the contrary has things 
+backwards. An employer may overcome the presumption 
+of FLSA coverage only by clear, affirmative and 
+unmistakable evidence of exempt status. See, Arnold v. 
+Ben Kanowsky, Inc., 361 U.S. 388 (1960); Corning Glass 
+Works v. Brennan, 417 U.S. 188 (1974); Citicorp Indus. 
+Credit, Inc. v. Brock, 483 U.S. 27, 33-35 (1987); and Pet. 
+
+
+Brf. at 21-23. 
+
+
+The burden rests with the Police Board for many 
+reasons: (1) the FLSA is a remed’ statute’; (2) a basic 
+canon of statutory construction dictates a narrow 
+interpretation of statutory exemptions‘; (3) broad FLSA 
+coverage is essential to accomplish Congress’ FLSA 
+goals*; (4) the FLSA exemption claim is an affirmative 
+defense; (5) the only explicit determination of salary status 
+was by summary judgment in which all facts and 
+inferences must be viewed in light most favorable to the 
+
+
+> See, Phillips v. Walling, 324 U.S. 490 (1945); Mitchell v. 
+Lublin, McGoughy & Assoc., 358 U.S. 207, 211 (1959). 
+
+
+* See, John Hancock Mut. Life Ins. Co. v. Harris Trust & 
+Sav. Bank, 114 S. Ct. 517, 527-29 (1993); Citicorp Indus. Credit, Inc. 
+v. Brock, 483 U.S. 27, 33-35 (1987)(FLSA); and Eskridge and 
+Frickey, “The Rehnquist Court's Canons of Statutory Construction,” 
+
+
+108 Harv. L. Rev. 97, 105 (1994). 
+
+
+> Tony and Susan Alamo Foundation v. Secretary of Labor, 
+471 U.S. 290, 296 (1985). 
+
+
+Sergeants? and (6) the Court of Appeals’ review was 
+without trial court factual findings. 
+
+
+No matter how the applicable regulations are 
+construed, the Police Board presented no evidence either at 
+summary judgment or trial that the Sergeants were not 
+He e impermissible disciplinary suspension. Pet. Brf 
+at 6-16. | 
+
+
+| Rather, the Board seeks to burden the Sergeants 
+with an obligation to come forward with evidence that they 
+are non-exempt. With full access to all personnel and their 
+personnel files, the Board presented no evidence of a core 
+§$541.118(a) agreement guaranteeing no reduction in 
+compensation. The Manual's disciplinary docking rules 
+are not ambiguous, secret, uncommunicated, or 
+
+
+* Celotex Corp. v. Catrett, 477 U.S. 317 (1986). 
+
+
+” The Police Board and the United States attempt to 
+
+. ‘ ‘ parlay s 
+determination on summary judgment that Lieutenant Delgado was not 
+subject fo part day docking into a determination with regard to the 
+disciplinary docking rule. Resp. Brf. at 17 and U.S. Brf. at 11. The 
+district court judge :aade no finding that Lieutenant Delgado's 
+compensation was guaranteed against disciplinary docking. Qui 
+Opposite. iatiatihmasemite wecne 
+7.004(a)(1) subjected Delgado to possible impermissible penalties. 
+Thus, while it is technically true that Delgado was found to be 
+salaried on summary judgment, that finding was in the context in 
+which the Court also concluded as a matter of law that lack of an 
+agreement guaranteeing non-reduced compensation and an express 
+provision subjecting an employee to potential reductions did not 
+endanger salary status. The district court also improperly placed the 
+related burden on the employee. Pet. Brf. at 8 and n. 6. 
+
+
+3 
+
+
+hypothetical. It states expressly that all commissioned 
+officers, including Sergeants are “subject to" offending 
+disciplinary suspensions. All sergeants know clearly that 
+they can and will be disciplined for the listed offenses.“ 
+Their compensation is not guaranteed but contingent on the 
+avoidance of Manual violations. 
+
+
+The Board presented no documentary evidence of 
+a policy or practice preventing impermissible suspensions. 
+The Sergeants prevail even if the record were silent on the 
+question of suspensions. In the face of the employer's 
+telling silence, however, the employees offered significant 
+evidence of disciplinary suspensions. That evidence is set 
+forth in the Sergeants’ opening brief at 9-16 and 41-42.” 
+
+
+The Core Agreement Requirement. The core 
+provision of the salary basis test in 29 C.F.R. § 
+541.118(a) states that "an employee will be considered to 
+
+
+* Note that the United States Brief states “if an employer 
+effectively communicates that work violations will result in deductions 
+of less than one week’s [pay period] pay, the absence of actual 
+deductions would not be dispositive.” at 22. 
+
+
+* Like the Board, the United States and The League of Cities 
+attempt to shift the burden of proving coverage. The United States 
+suggests that once an employer asserts 4 claim of exemption, “it would 
+be reasonable to conclude that the employer will enforce its 
+disciplinary rules in a way which 1s consistent with that intent” even 
+absent evidence that it has done so. U.S. Brf. at 25. The League 
+suggests that “the Police department is entitled to a presumption that 11 
+will discipline in a manner that is consistent with preserving the FLSA 
+exemption.” League Brief at 24. This improperly places the burden 
+on the employee. 
+
+
+ao 
+
+
+wee sabe 
+
+
+be paid on a salaried basis within the meaning of the 
+regulations if under his employment agreement he regularly 
+receives" a predetermined amount of compensation "which 
+amount is not subject to reduction..." (emphasis added. )° 
+No core § 541.118(a) agreement exists. The Police Board 
+admitted in its opposition to certiorari that "any Sergeant or 
+Lieutenant was ‘subject to' a deduction from his 
+predetermined biweekly compensation" for disciplinary 
+pew Resp. Opp. Cert. at 7. The Board's own Chief of 
+to management witnesses, and FRCP 30(b)(6) designees 
+pe d that the Sergeants’ compensation was subject to 
+iplinary docking. (Pet. Brf. at 41-42: Pet. App. at 102a, 
+217a-219a; and J.A. 13-14, 49-57, 60-64, 76 and 85-88)."' 
+
+
+The regulation is so constructed that subsection (5)' 
+disciplinary docking and subsection (6)'s window of sh 
+correction come into play only if and when an employer has 
+a § 541.118(a) core agreement. The subsections require 
+analysis only when an employer, despite a core agreement 
+makes a deduction--and then only to test whether the 3 
+deduction is excuseable for safety reasons or 
+
+
+10 The Chamber of Commerce amici recc iia 
+agreement provision, but seem to claim it is not a requirement 
+Chamber of Commerce Brf. at 10. 
+
+
+'' Both the Board and the U.S. 
+disregard evidence in the record of at aa 
+argument should be ignored. While a party may waive an issue not 
+raised below, a party does not waive the right to refer to evidence 
+Supporting its position on an issue raised below by failing to present an 
+exhaustive analysis of all record evidence in a petition for Certiorari. 
+
+
+5 
+
+
+inadvertance.'* This case never came to the point which 
+would require full analysis of the subsections on discipline 
+relating to safety or correction for inadvertence.” 
+
+
+The Police Board never met its burden of 
+establishing by clear, affirmative and unmistakable evidence 
+its affirmative defense -- indeed, it has presented nc 
+evidence -- that the Sergeants’ employment agreement 
+protects their compensation from reduction, that Sergeants 
+were not subject to disciplinary docking for part of a pay 
+period, or even that the Guzy deduction was unique. 
+Conversely, the evidence demonstrates that as a practical 
+matter everyone understood that Sergeants and Lieutenants 
+were "subject to" impermissible deduction. To this day, 
+the Police Board has never claimed, except by carefully 
+limited, incomplete and guarded statements in appellate 
+advocacy, that Sergeants were not subject to disciplinary 
+suspension.'* Without at least some evidence of an 
+
+
+'2 The United States’ construction of the subsections supports 
+this construction. U.S. Brf. at 22. 
+
+
+‘> The United States continues to imply that the applicable 
+provision in the Missouri Code provides an alternative to a § 541.118(a) 
+core agreement when it provides that "St. Louis police sergeants receive 
+a yearly salary." See U.S. Brief at 10. (emphasis added). However, 
+Missouri Code § 84.160 does not provide that sergeants shall receive a 
+set salary. It provides only that “the board of police commissioners 
+may authorize maximum amounts of compensation” set forth in a table. 
+(J. A. at 17.) This does not meet the core agreement requirement. 
+
+
+'* The Board's counsel states that the Board will “continue its 
+existing practice” with regard to disciplinary deductions. Resp. Br. at 
+
+
+agreement to such a guarantee, the Police Board’s counsel 
+cannot be heard to argue that the Board met its burden on 
+the salary basis test. 
+
+
+Il. DEFERENCE TO DOL’S FLSA REGULATIONS 
+AND NOT TO SOLICITOR GENERAL’S FACTUAL 
+APPLICATION 
+The Department of Labor’s FLSA salary basis 
+regulations in 29 C.F.R. §§ 541.5d and 541.118 are 
+
+
+p. 6, see also p. 33. This is misleading. First, these statements are not 
+followed by any cite to the record of an existing practice. Second, 
+counsel's statements are carefully crafted to avoid stating what the 
+“existing” practice is. Instead, at page 6, the counsel invites a new 
+dispute over the scope of “maior safety violations” and at page 33 
+avoids saying what the “existing practice” is to which they are 
+committed. Counsel did state in opposition to certiorari that the 
+Board's practice allowed deduction. Resp. Opp. Cert. at 7. Finally, 
+these statements are undermined by the fact that all the employer 
+would have been required to do to meet its burden is establish on the 
+record an express policy that the employees work under an agreement 
+which guarantees that their regular compensation is not subject to 
+disciplinary deductions. In recent Courts of Appeals decisions, publi. 
+employers demonstrated the ease of revising the policy by presentuny 
+evidence of their written policies which affirmatively state that the 
+employees will not be subject to improper deductions. See, Hackett v. 
+Lane County, 91 F.3d 1289 (9th Cir. 1996); Yourman v. Guiliani, slip 
+op. 95-7561 (2d Cir. 1996), cert. pending, 96-152 (Opp. to Cert. at 5- 
+6. The actual judgment against New York, which covers a four and 
+one half year period, in the Yourman case is for less than one quarter 
+the severely exaggerated amount New York claims it will owe each 
+year. See, Yourman Opp. Cert. at 7, n.9.); Hartman v. Arlington 
+County, 720 F. Supp. 1227, 1229 (E.D. Va. 1989), aff'd, 903 F.2d 
+290 (4th Cir. 1990); and Colorado Statute §24-50-118(3)(a} (1996) 
+(state’s change in policy cited in amicus brief for Wisconsin, er al., 
+State App. at 124.) 
+
+
+islati ulations entitled to substantial deference. 
+Per dneuel Resources Defense Council, Inc. , 467 
+U.S. 837 (1984).'* A rejection of such deference would 
+challenge the wisdom of Congress’ policy choices in 
+charging the DOL with delimiting FLSA exemptions and 
+the wisdom of the DOL in doing PAE ee canes 
+i inion letters are also en 
+rr mena wp we v. Swift and Co., 323 U.S. 134 
+(1944). If an agency applies its regulations to the facts of 
+a case through administrative adjudication, the outcome 
+must be sustained unless arbitrary and capricious. 
+However, the Solicitor General’s amicus effort to apply 
+
+
+'S As long as an “agency's interpretation of its own | 
+regulations does not violate the Constitution or a federal statute, it 
+must be given ‘controlling weight unless it is plainly erroneous or 
+inconsistent with the regulation.’" Stinson v. United States, 508 U.S. 
+36, 45 (1993)(string citation omitted, emphasis supplied), see also. 
+Rust v. Sullivan, 500 U.S. 173, 186 (1991); Martin v. Occupational 
+Safety and Health Review Commission, 499 U.S. 144, 150 (1991)("It 
+is well established "that an agency’s construction of its own regulations 
+is entitled to substantial deference.’. . . [T)he sovigaing count wel 
+give effect to the agency's interpretation so long as It Is reasonable. *™) 
+(citations omitted). The United States urges deference for these same 
+reasons. See, U.S. Brf. at 16, n. 4. 
+
+
+‘© "When a challenge to an agency construction of a statutory 
+provision, fairly conceptualized, really centers on the wisdom of the 
+agency’s policy, rather than whether it is a reasonable choice within a 
+gap left open by Congress, the challenge must fail. eae eee. 
+federal judges -- who have no constituency -- have a duty to respect | 
+legitimate policy choices made by those who do. The responsibilities 
+for assessing the wisdom of such policy choices and resolving the 
+struggle between competing views of the public interest are not judicial 
+ones.” Chevron, 467 U.S. at 866. 
+
+
+the salary basis regulations to the facts of this case is 
+entitled to no deference. No DOL investigation, regulatory 
+hearing or enforcement activity ever occurred within the 
+St. Louis Police Department. Neither the Secretary of the 
+Labor nor the Solicitor has special familiarity with the 
+facts here. 
+
+
+Thus, the United States’ support of Petitioners’ 
+position that the salary basis test and disciplinary docking 
+rules are valid as applied to state and local government 
+deserves substantial deference; while the United States’ 
+support of Respondents’ position that the Petitioners were 
+not subject to impermissible disciplinary deduction and 
+that Respondents may correct the allegedly “unique and 
+single" improper deduction in this case by reimbursing the 
+affected employee and promising to comply with the salary 
+basis rule in the future deserves no deference. See, United 
+States’ Motion for Divided Argument (October, 1996). 
+
+
+Deference to 29 C.F.R. §§ 541.5d and 118(a). 
+Congress expressly delegated to the Secretary of Labor the 
+authority to “define and delimit" from time to time the 
+executive, administrative and professional exemptions (or 
+the “white collar" exemptions) of the FLSA. 29 U.S.C. 
+§213. As such, the DOL’s regulations defining and 
+delimiting the “white collar" exemption, including 29 
+C.F.R. §§ 541.5d and 118(a), must be enforced unless 
+they are “arbitrary, capricious, or manifestly contrary to 
+the statute." Chevron, 467 U.S. at 843-844. Therefore. 
+the St. Louis Police Board’s suggestion that the salary 
+basis regulation is invalid as applied to public safety 
+employees is wholly without merit. "A reviewing court is 
+not free to set aside those regulations simply because it 
+would have interpreted the statute in a different manner." 
+Batterton v. Francis, 432 U.S. 416, 425 (1977): see also. 
+
+
+Chevron, 467 U.S. at 843, n.11 
+
+
+This Court must reject the Police Board’s 
+contention that the legislative regulation is invalid in the 
+public sector for at least nine reasons: 
+
+
+1. The FLSA salary basis test is a reasonable 
+exemption standard and effective enforcement component 
+of the national hours of work standard. Pet. Brf. at 31- 
+33. 
+
+2. The FLSA disciplinary docking rule is a 
+reasonable exemption standard and a true measure of 
+salaried status. Pet. Brf. 33-36. 
+
+3. No less than six times, Congress has considered 
+and rejected amendments to the FLSA which would have 
+eliminated the salary basis test from the public sector. See, 
+North Haven Bad. of Ed. v. Bell, 456 U.S. 512, 535 
+(1982); Pet. Brf. at 27-28, n.21, n.22, and n.23. 
+
+4. In enacting the 1985 FLSA Public Sector 
+Amendments, Congress specifically tailored the Act to 
+public agencies, but in no way altered the long standing 
+DOL exemption rules, including the salary basis test and 
+the salary docking rules. This is “persuasive evidence that 
+the interpretation is the one intended by Congress." NLRB 
+v. Aerospace Co. Div. of Textron, 416 US. 267, 274-275 
+(1974); see, Pet. Brf. 27-28. 
+
+5. Since the 1985 FLSA Public Employee 
+Amendments, Congress three times has amended the Act 
+to alter the application of the salary basis test without 
+adjusting its application to public safety employees. See, 
+The Computer Programmers Provisions, P.L. 101-583, 
+104 Stat. 2871 (Nov. 15, 1990); The Family and Medical 
+Leave Act, P.L. 103-3, 107 Stat. 6 (February 5, 1993); 
+The Court Reporter Amendment, P.L. 104-26, 109 Stat. 
+264 (September 6, 1995); and Pet. Brf. at 26-27. 
+
+
+10 
+
+
+6. The same salary basis test that applies to public 
+employees in state and local government is applied — 
+Federal Government to its own employees, including 
+police sergeants in the Uniform Division of the Secret 
+Service. Amshey v. United States, 26 CL. Ct. 582 (Fed. 
+CL. C.. 1992) (the National League of Cities amici cite 35 
+Ct. CL. 358, as vacating the Amshey decision. However, 
+only the portion of the Court’s Order requiring a specific 
+form ty was oe on the basis of a 
+settlement. application of the original decision 
+the fact that Uniform Division sergeants and ee 
+are subject to the salary basis test is uncontested by the 
+Treasury Department in currently pending Court of Claims 
+litigation, Abbott v. United States, Case No. 94-651C 
+(Judge Robert J. Yock)(Fed. CL. Ct.). 
+
+7. In 1995, Congress applied the FLSA, including 
+the salary basis test and the disciplinary docking rule, to 
+its own employees. The Congressional Accountability Act 
+of —- 104-1, 109 Stat.3); Pet. Brf. at 26. 
+
+«8. DOL knowingly and expressly rejected 
+public employees’ anti-disciplinary docking soma 
+during its 1991-92 rule making process on “public 
+oy roamed = ry basis test. 57 Fed. Reg. 
+
+ug , ; Pet. Brf. ‘ 
+no ) rf. at n. 24 and Pet. App. 
+
+9. Neither the Police Board nor their amici 
+supporters explain why public employers are any more 
+likely than private employers to subject truly exempt 
+employees to disciplinary suspensions without pay. No 
+State Constitutional requirements or unique problems of 
+public accountability mandate that such penalties be among 
+the tools in public employers’ disciplinary arsenal.’ 
+
+
+'’ In fact, there is an inescapable inconsistency between the 
+argument that all public safety employees must be subyect to this 
+
+
+11 
+
+
+No Deference To Solicitor General’s Factual Analysis. 
+The Solicitor General is entitled to no deference for his 
+factual conclusions about a case in which the DOL is not a 
+party, for which DOL has not been involved prior to the 
+Supreme Court level, and for which DOL has played no 
+role as an agency adjudicator. 
+
+
+When the DOL’s factual interpretations are not 
+reached as a result of an adversarial hearing proceeding, 
+"[(tJhey do not constitute an interpretation of the Act or a 
+standard for judging actual situations which binds" the 
+courts. Skidmore, 323 U.S. at 139. In fact, this Court 
+has specifically refused to grant deference under Chevron 
+"to agency litigating positions that are wholly unsupported 
+by regulations, rulings or administrative practice.” Bowen 
+v. Georgetown, 408 U.S. 204, 212 (1988). Further, this 
+Court has refused deference to the Solicitor General's 
+interpretation enunciated in litigation because "’Congress 
+has delegated to the administrative official and not to 
+appellate counsel the responsibility for elaborating and 
+enforcing statutory commands.’" /d. (citations omitted). 
+
+
+The Solicitor General is attempting to apply 
+interpretations to facts in a tortured effort to reach a 
+litigation position. “Deference to what appears to be 
+nothing more than an agency's convenient litigating 
+position would be entirely inappropriate." Bowen, 488 
+U.S. at 213. The Solicitor’s entire factual argument 
+
+
+should be ignored. 
+
+
+particular form of discipline and the Police Board's claim that it docs 
+not subject sergeants to it. 
+
+
+12 
+
+
+fl. THE ELEVENTH AMENDMENT. 
+
+This is not a case in which the Court should 
+address the Eleventh Amendment. The Police Board 
+asserts for the first time that it is not subject to suit in 
+federal court. Contrary to the Board’s claim, Seminole 
+Tribe of Florida v. Florida, 517 U.S. __, 116 S. Ct. 
+1114 (1996) does not hold that federal courts have no 
+jurisdiction in a case such as this. The Police Board is not 
+a State Government within the meaning of the Eleventh 
+Amendment. This case does not invoke the specter of 
+federal court jurisdiction or control over the treasury of 
+one of the 50 states. The Sergeants are not “citizens of 
+another state or a foreign government" within the mez xing 
+of the Eleventh Amendment. If immunity is at issue, it is 
+not the developing Eleventh Amendment variety, but more 
+traditional Article [I] immunity. The Sergeants seek a 
+judgment solely against the Police Board. The Police 
+Board waived immunity. 
+
+
+The Board Is Not An Arm of the State. In 
+support of their claim that the true party in interest is 
+Missouri, the Police Board points to (a) the amended 
+complaint’s statement that it is the “governing state agency 
+authority for the St. Louis Police Department,” (b) the 
+Missouri Code provision that establishes the Board, and 
+(c) the Governor’s power to appoint the members of the 
+Board. Resp. Brf. at 7-10. However, these are 
+insufficient to confer “State” status for Eleventh 
+Amendment purposes. 
+
+
+This Court has consistently held that the Eleventh 
+Amendment does not deprive the federal courts of 
+jurisdiction over suits against political subdivisions. 
+"[C]ities and counties do not enjoy Eleventh Amendment 
+immunity." Hess v. Port Authority Trans-Hudson Corp. 
+
+
+13 
+
+
+115 S. Ct. 394, 404 (1994). This is true even though 
+political subdivisions exercise a “slice of state power." 
+Lake Country Estates v. Tahoe Planning Agency, 440 U.S. 
+391, 401-02 (1979). See, also, Mt. Healthy City Board of 
+Ed. v. Doyle, 429 U.S. 274, 280-81 (1977); County of 
+Lincoln v. Luning, 133 U.S. 529 (1890). 
+
+
+The Court’s Financial Responsibility Test. 
+Political subdivisions are protected by the amendment only 
+if a money judgment against them would have the same 
+consequence as a judgment against the State itself. This is 
+the holding of Hess. In that case, this Court expressly 
+rejected the two arguments made by the Board here: That 
+the Board is an arm of the State because (1) it is created 
+by State law, and (2) the Governor appoints its members. 
+As this Court pointed out, “ultimate control of every state- 
+created entity resides with the State, for the State may 
+destroy or reshape any unit it creates. ‘[PJolitical 
+subdivisions exist solely at the whim and behest of their 
+State,’ yet cities and counties do not enjoy Eleventh 
+Amendment immunity." Hess, 115 S.Ct. at 404 (citations 
+omitted). "[RJendering control dispositive,” this Court 
+reasoned, “does not home in on the impetus for the 
+Eleventh Amendment: the prevention of federal court 
+judgments that must be paid out of a State's treasury." /d. 
+
+
+Notably absent from the Police Board's brief is any 
+discussion of financial responsibility. The Missouri Code 
+rests financial responsibility for the police department, not 
+with the State, but with the City of St. Louis. The Police 
+Board must “pass upon all claims presented against them 
+for the expenses incurred in the discharge of their duties. . 
+. and such claims and salary rolls. . . shall be duly audited 
+and paid by the proper disbursing officer or officers of 
+Said cities. . . out of any moneys in the city treasury...” 
+
+
+14 
+
+
+§84.210 R.S. Mo. (1995) (emphasis added). The Code 
+further provides that “[i}t is the duty of the municipal 
+assembly or common council of the cities to make the 
+necessary appropriation for the expenses of the 
+maintenance of the police force in the manner herein 
+provided. .. ." §84.160 R.S. Mo. (J.A. at 18). The 
+Board must prepare an annual estimate of expenses to 
+provide to the City. The City is “required to set apart and 
+appropriate the amount so certified, payable out of the 
+revenue of said cities. . . " '* Once the appropriation is 
+made, the Board does nor have the authority to transfer 
+funds appropriated for one line item to another without the 
+prior approval of the Municipal Board of Estimate and 
+Apportionment. §84.210 R.S. Mo. (1995). Finally, the 
+Board is vested with the authority to provide themselves 
+with offices, furniture and employees as well as to adopt a 
+common seal. The fiscal responsibility for these items is 
+not a burden of the State, but is the responsibility of the 
+City. If the Mayor or Council “refuse to set aside and 
+
+
+appropriate the revenue necessary to carry out the 
+
+
+* A state court has ruled that the Board is a “state agency” 
+for the purposes of the Hancock Amendment, State Constitutional! 
+Amendment 21, (Missouri's version of unfunded mandate protection). 
+The Amendment provides that once the Board certifies its budget for 
+the year, if the city refuses to fund the budget for “new activities” 
+certified by the Board, the Board may not sue the city. Missouri v. 
+Zych, 642 S.W. 2d 907 (Mo. 1992). Nothing in this ruling detracts 
+from the Code provisions mandating the city treasury as responsible 
+for funding the police department, its salaries and claims against it. 
+All that is prevented is the Board's creating unfunded mandates for the 
+city. The Hancock Amendment does not open the state treasury to 
+demands resulting from employee compensation judgments ayainst the 
+Board. The Hess Court recognized the Port Authority was not a State 
+agency for Eleventh Amendment purposes, despite state court rulings 
+describing it as a state agency. 115 S. Ct. at 403. 
+
+
+15 
+
+
+provisions of section 84.010 to 84.340," the Board may 
+
+
+apply to the circuit court to compel City appropriations. 
+§84.190 R.S. Mo. (1995). 
+
+
+On summary judgment, the trial judge noted that 
+the Board is “solely financed by a municipality." (Pet. 
+App. yp. at 69a). The trial judge clearly recognized that the 
+City and not the State would be responsible for any 
+judgment. See Post-Trial Hearing Trans. at 7, 19, 38-39, 
+and 49; see also testimony of the Board’s Deputy Chief 
+and a F.R.C.P. 30(b)(6) designee. (J.A. at 70 and 82). 
+
+
+In the Hess case, the Port Authority did receive 
+some of its funding from the State, but the Court found 
+there was no statutory requirement that the state fund the 
+Authority as it was structured to be self-sustaining. In Mr. 
+Healthy City Board of Ed. v. Doyle, 429 U.S. 274 
+
+
+(1977), this Court also refused to find the Board an arm of 
+
+
+the State although it received “a significant amount of 
+money from the State." /d. at 280. Looking to the 
+governing statutes on balance, the Court found that it was 
+more like a county or city despite from where the 
+revenues came. Similarly, as discussed below, even if the 
+State treasury point is left aside, on balance, the Missouri 
+Code reveals that the Board operates as an independent 
+entity answering on occasion to the City and never to the 
+State. It functions much more like a City than an arm of 
+the State. 
+
+
+Here, however, there is no evidence of any monies 
+coming from the State. Under the statutory framework, 
+any judgment in this case will not be paid out of the State 
+treasury. Thus, under this Court’s holding in Hess, the 
+Board is not entitled to Eleventh Amendment immunity. 
+
+
+16 
+
+
+The Minority’s State Control Test. It is not 
+necessary to rest solely on the "State Treasury" factor to 
+find that the Police Board is not an arm of the State. The 
+Police Board fairs no better under the control test. Justice 
+O’Connor, writing for the dissent, stated that the 
+appropriate test is the degree of control the State retains in 
+oversight of the entity. Hess, 115 S. Ct. at 411 
+(O’Connor, J., dissenting; (emphasis added)). The dissent 
+pointed to the fact that the Governors appointed the 
+members in Hess, that the Governors had veto power over 
+the decisions of the Port Authority, that the Port Authority 
+was required to report annually to the State legislatures 
+and that the State legislatures were required to approve 
+changes in any rules or new projects. /d. at 411-12. 
+
+
+In this case, the Governor of Missouri appoints 
+four of five members of the Board. However, that is 
+where the State control ends. The State Code mandates 
+the basic authority for the Board. Neither the State 
+legislature nor the Governor have control or oversight 
+over the operation of the Board. Neither the Governor 
+nor the State legislature have veto or approval power over 
+any decisions of the Board. 
+
+
+The creation of, and authority of, the Board falls 
+under the heading “Cities, Towns and Villages” in the 
+Missouri Code. The Board is comprised of five members. 
+The fifth is the Mayor of St. Louis. §84.020 R.S. Mo. 
+(1995). The Board, and not the Governor, determine who 
+shall be President, and each officer of the Board. /d. The 
+Board determines who the Treasurer will be. The 
+Treasurer can only be removed from that position by the 
+Board. §84.050 R.S. Mo. (1995). The Code expressly 
+states that the Board is authorized to declare emergencies 
+and that its authority “shall not be subject to review by 
+
+
+17 
+
+
+any other power." §84.110 R.S. Mo. (1995). Similarly, 
+the Board is vested with the exclusive authority to remove 
+a police officer. §§84.120 and 84.150 R.S. Mo. (1995). 
+The Board has the authority to hire police officers in 
+excess of the number authorized by statute with the 
+approval of the Municipal Board of Estimate and 
+Apportionment. §§84.100 and 84.150 R.S. Mo. (1995). 
+The Board has the exclusive authority to make all rules 
+and regulations necessary for the “appointment, 
+employment, uniforming, discipline, trial and government 
+of the police." §84.170 R.S. Mo. (1995). Moreover, the 
+State has its own police force whose salaries are set in 
+accordance with other state employees. See, §§43.010- 
+030 R.S. Mo. (1995).'* 
+
+
+The Board was created in the Progressive Era to 
+address muckraker’s exposure of corruptiun by politicians 
+within the City Police Department. The reformer’s goal 
+was to take politics, whether at the State or City level, out 
+of policing. Direct citizen, not State Government, control 
+was the progressive reform model.” Suit against the 
+members of the St. Louis Police Board of Commissioners 
+cannot be construed as an “affront to the dignity” of 
+Missouri. Hess 115 S.Ct. at 401 and 406. 
+
+
+Immunity Waived. The St. Louis Police Board 
+members have waived any immunity. The Board admitted 
+jurisdiction of the federal district court in its answers to 
+
+
+'* The legislature has created a similar board in the Kansas 
+City Police Department. §$84.360 R.S. Mo. (1995). See, Mt. 
+Healthy, 429 U.S. at 280. 
+
+*® morrison and Commanger, “Progressism in Politics,” 
+Growth of the American Republic (1961) at 470. 
+
+
+18 
+
+
+the complaint and amended complaint. Obviously, mere 
+appearance to defend a case does not waive immunity or 
+prevent this Court from reviewing the matter. Ford Motor 
+Co. v. Treasury Department, 323 U.S. 460, 467 (1945). 
+Fiowever, the Police Board members have done more than 
+tail to raise the issue in the lower courts. The Board 
+expressly conceded jurisdiction of the federal courts in this 
+case. 
+
+
+The Board initially filed a Motion to Dismiss for 
+Lack of Jurisdiction which complained of lack of 
+jurisdiction to hear claims against Board members in their 
+individual capacity. It expressly “concede[d] the 
+jurisdiction of this Court to hear the claims stated by 
+Plaintiffs under the FLSA against them in their official 
+Capacities as members of the Board of the Police 
+Commissioners." 
+
+
+In as much as the Police Board appeared in Federal 
+Court and affirmatively pled that there was jurisdiction to 
+hear a case against the Board members in their official 
+capacity, they have waived any immunity claim that may 
+have attached. *' See, Gunter v. Atlantic C. L. R. Co., 
+
+
+| Immunity is also waived when the state appears in federal 
+court and consents to court orders awarding damages or other 
+retroactive relief if its position on the merits is reyected by the court. 
+Toll v. Moreno, 458 U.S. 1, 17-18 (1982); see also, Rotunda and 
+Nowak, Treatise on Constitutional Law Substance and Procedure, 
+§2.12 (West Publishing, 1996). As the Board stated in the Eighth 
+Circuit and most recently to this Court it is “committed to reimbursing 
+[Guzy] for the two (2) days pay” if the courts finally judge the Police 
+Board to have violated the law. Res. Brf. at 32. Similarly, the Police 
+Board stipulated to a Consent Judgment against it in the tral court of 
+$9,248. (Aug. 1994). 
+
+
+19 
+
+
+200 U.S. 273 (1906); Petty v. Tennessee-Missouri Bridge 
+Company, 359 U.S. 275 (1959). 
+
+
+CONCLUSION 
+
+
+For all of the foregoing reasons, this Court should 
+reverse the judgment below. 
+
+
+* Counsel of Record 
+
+
+Respectfully submitted, 
+
+
+Michael T. Leibig* 
+
+Carla M. Siegel 
+
+ZWERDLING, PAUL, LEIBIG, 
+KAHN, THOMPSON & WOLLY, 
+10640 Page Avenue, Suite 200 
+Fairfax, Virginia 22030 
+
+(703) 934-2675 
+
+
+Robert Koster 
+
+KING, WEICK, HOCKENSMITH 
+& SHEBY 
+
+12801 Flushing Meadow 
+
+St. Louis, Missouri 63105 
+
+
+Rudolfo Rivera 
+
+FORTUS, ANDERSON & 
+RIVERA 
+
+201 South Central, Suite 103 
+Clayton, Missouri 63105 
+
+
+20 
+
+
+77 
+
+

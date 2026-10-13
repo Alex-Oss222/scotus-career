@@ -1,0 +1,1653 @@
+{
+  "id": 7414133,
+  "name": "Ronald C. BROWN, et al., Plaintiffs-Appellants, v. HOT, SEXY AND SAFER PRODUCTIONS, INC., et al., Defendants-Appellees",
+  "name_abbreviation": "Brown v. Hot, Sexy & Safer Productions, Inc.",
+  "decision_date": "1995-10-23",
+  "docket_number": "No. 95-1275",
+  "first_page": "525",
+  "last_page": "541",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "68 F.3d 525"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "1st Cir.",
+    "id": 8809,
+    "name": "United States Court of Appeals for the First Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "498 U.S. 1067",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6559331,
+        6559176,
+        6559145,
+        6559517,
+        6559383,
+        6559479,
+        6559549,
+        6559277,
+        6559311,
+        6559442,
+        6559219,
+        6559415,
+        6559194,
+        6559357
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "concluding that \"Zinermon holds only that predictable deprivations of liberty and property which flow from authorized conduct are compensable under § 1983\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/498/1067-07",
+        "/us/498/1067-02",
+        "/us/498/1067-01",
+        "/us/498/1067-13",
+        "/us/498/1067-09",
+        "/us/498/1067-12",
+        "/us/498/1067-14",
+        "/us/498/1067-05",
+        "/us/498/1067-06",
+        "/us/498/1067-11",
+        "/us/498/1067-04",
+        "/us/498/1067-10",
+        "/us/498/1067-03",
+        "/us/498/1067-08"
+      ]
+    },
+    {
+      "cite": "494 U.S. 1082",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5541,
+        4924,
+        5388,
+        4781,
+        4942,
+        4911,
+        4912,
+        5081,
+        5180,
+        4913,
+        5524,
+        5049,
+        5372
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "discussing the \"settled appellate rule that issues adverted to in a perfunctory manner, unaccompanied by some effort at developed argumentation, are deemed waived\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/494/1082-09",
+        "/us/494/1082-06",
+        "/us/494/1082-02",
+        "/us/494/1082-12",
+        "/us/494/1082-01",
+        "/us/494/1082-11",
+        "/us/494/1082-10",
+        "/us/494/1082-03",
+        "/us/494/1082-07",
+        "/us/494/1082-13",
+        "/us/494/1082-05",
+        "/us/494/1082-04",
+        "/us/494/1082-08"
+      ]
+    },
+    {
+      "cite": "430 U.S. 651",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12126861
+      ],
+      "weight": 3,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "672",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "1413",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/430/0651-01"
+      ]
+    },
+    {
+      "cite": "504 U.S. 910",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11736419,
+        11736071,
+        11735655,
+        11736140,
+        11736270,
+        11736015,
+        11736208,
+        11735568,
+        11735822,
+        11736341,
+        11735738,
+        11735963,
+        11735900
+      ],
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/504/0910-13",
+        "/us/504/0910-08",
+        "/us/504/0910-02",
+        "/us/504/0910-09",
+        "/us/504/0910-11",
+        "/us/504/0910-07",
+        "/us/504/0910-10",
+        "/us/504/0910-01",
+        "/us/504/0910-04",
+        "/us/504/0910-12",
+        "/us/504/0910-03",
+        "/us/504/0910-06",
+        "/us/504/0910-05"
+      ]
+    },
+    {
+      "cite": "922 F.2d 370",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10542686
+      ],
+      "pin_cites": [
+        {
+          "page": "378"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/922/0370-01"
+      ]
+    },
+    {
+      "cite": "132 L.Ed.2d 866",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that prison officials were shielded from monetary damages because their acts did not constitute violation of clearly established rights under the Smith standard and the defendants could not be responsible for violations created by the change in the law"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 S.Ct. 2625",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that prison officials were shielded from monetary damages because their acts did not constitute violation of clearly established rights under the Smith standard and the defendants could not be responsible for violations created by the change in the law"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "827 F.2d 1058",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1754010
+      ],
+      "pin_cites": [
+        {
+          "page": "1078-81"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/827/1058-01"
+      ]
+    },
+    {
+      "cite": "112 L.Ed.2d 846",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "concluding that \"Zinermon holds only that predictable deprivations of liberty and property which flow from authorized conduct are compensable under § 1983\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 S.Ct. 783",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "concluding that \"Zinermon holds only that predictable deprivations of liberty and property which flow from authorized conduct are compensable under § 1983\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "910 F.2d 1387",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10540920
+      ],
+      "pin_cites": [
+        {
+          "page": "1402"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/910/1387-01"
+      ]
+    },
+    {
+      "cite": "943 F.2d 1406",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1856042
+      ],
+      "pin_cites": [
+        {
+          "page": "1413"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/943/1406-01"
+      ]
+    },
+    {
+      "cite": "195 A.D.2d 46",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1136051
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "266"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/195/0046-01"
+      ]
+    },
+    {
+      "cite": "381 U.S. 479",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6172057
+      ],
+      "weight": 3,
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "482"
+        },
+        {
+          "page": "1680-81"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/381/0479-01"
+      ]
+    },
+    {
+      "cite": "114 S.Ct. 367",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        232972
+      ],
+      "weight": 2,
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/510/0017-01"
+      ]
+    },
+    {
+      "cite": "682 F.2d 897",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        539065
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "902"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/682/0897-01"
+      ]
+    },
+    {
+      "cite": "477 U.S. 57",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6203537
+      ],
+      "weight": 6,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "64-65"
+        },
+        {
+          "page": "2404-05"
+        },
+        {
+          "page": "67"
+        },
+        {
+          "page": "64-65"
+        },
+        {
+          "page": "2404-05",
+          "parenthetical": "1986"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0057-01"
+      ]
+    },
+    {
+      "cite": "864 F.2d 881",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10533308
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "899"
+        },
+        {
+          "page": "899"
+        },
+        {
+          "page": "898-901"
+        },
+        {
+          "page": "898"
+        },
+        {
+          "page": "897"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/864/0881-01"
+      ]
+    },
+    {
+      "cite": "503 U.S. 60",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6220380
+      ],
+      "weight": 3,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "73-75"
+        },
+        {
+          "page": "1037"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/503/0060-01"
+      ]
+    },
+    {
+      "cite": "968 F.2d 1373",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10519477
+      ],
+      "pin_cites": [
+        {
+          "page": "1374-76"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/968/1373-01"
+      ]
+    },
+    {
+      "cite": "461 U.S. 95",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11298204
+      ],
+      "weight": 3,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "104-06, 111"
+        },
+        {
+          "page": "1666-67, 1670"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/461/0095-01"
+      ]
+    },
+    {
+      "cite": "468 U.S. 737",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11340114
+      ],
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "751"
+        },
+        {
+          "page": "3324"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/468/0737-01"
+      ]
+    },
+    {
+      "cite": "113 S.Ct. 2217",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        11787
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "2226-27",
+          "parenthetical": "citing Smith, 494 U.S. at 872, 110 S.Ct. at 1596-97"
+        },
+        {
+          "parenthetical": "citing Smith, 494 U.S. at 872, 110 S.Ct. at 1596-97"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/508/0520-01"
+      ]
+    },
+    {
+      "cite": "844 F.Supp. 1538",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        11943419
+      ],
+      "pin_cites": [
+        {
+          "page": "1542"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/844/1538-01"
+      ]
+    },
+    {
+      "cite": "844 F.Supp. 1056",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        11938074
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/844/1056-01"
+      ]
+    },
+    {
+      "cite": "851 F.Supp. 377",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3877469
+      ],
+      "pin_cites": [
+        {
+          "page": "380"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/851/0377-01"
+      ]
+    },
+    {
+      "cite": "1994 U.S.Dist. LEXIS 10027",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "1994 WL 383590",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 F.3d 68",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10505528
+      ],
+      "pin_cites": [
+        {
+          "page": "69"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/26/0068-01"
+      ]
+    },
+    {
+      "cite": "49 F.3d 1476",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7418402
+      ],
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "1479-80"
+        },
+        {
+          "page": "1481-82"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/49/1476-01"
+      ]
+    },
+    {
+      "cite": "2 L.Ed. 479",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        1427682
+      ],
+      "weight": 2,
+      "year": 1806,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/7/0239-01"
+      ]
+    },
+    {
+      "cite": "114 S.Ct. 1483",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        1147362
+      ],
+      "weight": 6,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "1499"
+        },
+        {
+          "page": "1500"
+        },
+        {
+          "page": "1500"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/511/0244-01"
+      ]
+    },
+    {
+      "cite": "494 U.S. 872",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        4852
+      ],
+      "weight": 9,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "882-85"
+        },
+        {
+          "page": "872"
+        },
+        {
+          "page": "881-82"
+        },
+        {
+          "page": "1601-02"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/494/0872-01"
+      ]
+    },
+    {
+      "cite": "108 L.Ed.2d 944",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "discussing the \"settled appellate rule that issues adverted to in a perfunctory manner, unaccompanied by some effort at developed argumentation, are deemed waived\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 S.Ct. 1814",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "discussing the \"settled appellate rule that issues adverted to in a perfunctory manner, unaccompanied by some effort at developed argumentation, are deemed waived\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "895 F.2d 1",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10526539
+      ],
+      "pin_cites": [
+        {
+          "page": "17"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/895/0001-01"
+      ]
+    },
+    {
+      "cite": "959 F.2d 323",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10520723
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "341"
+        },
+        {
+          "page": "340"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/959/0323-01"
+      ]
+    },
+    {
+      "cite": "468 U.S. 517",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11339213
+      ],
+      "weight": 7,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "533"
+        },
+        {
+          "page": "3203"
+        },
+        {
+          "page": "533"
+        },
+        {
+          "page": "3203-04"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/468/0517-01"
+      ]
+    },
+    {
+      "cite": "490 U.S. 454",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        605334
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "460",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "1908",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/490/0454-01"
+      ]
+    },
+    {
+      "cite": "451 U.S. 527",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6188807
+      ],
+      "weight": 10,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "537"
+        },
+        {
+          "page": "1913-14"
+        },
+        {
+          "page": "527"
+        },
+        {
+          "page": "1909"
+        },
+        {
+          "page": "541"
+        },
+        {
+          "page": "1916"
+        },
+        {
+          "page": "527"
+        },
+        {
+          "page": "1909"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/451/0527-01"
+      ]
+    },
+    {
+      "cite": "494 U.S. 113",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5347
+      ],
+      "weight": 18,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "125",
+          "parenthetical": "quoting Parrott v. Taylor, 451 U.S. 527, 537, 101 S.Ct. 1908, 1913-14, 68 L.Ed.2d 420 (1981)"
+        },
+        {
+          "parenthetical": "quoting Parrott v. Taylor, 451 U.S. 527, 537, 101 S.Ct. 1908, 1913-14, 68 L.Ed.2d 420 (1981)"
+        },
+        {
+          "parenthetical": "quoting Parrott v. Taylor, 451 U.S. 527, 537, 101 S.Ct. 1908, 1913-14, 68 L.Ed.2d 420 (1981)"
+        },
+        {
+          "page": "130"
+        },
+        {
+          "page": "985"
+        },
+        {
+          "page": "128-30"
+        },
+        {
+          "page": "984-86"
+        },
+        {
+          "page": "129"
+        },
+        {
+          "page": "985",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "130"
+        },
+        {
+          "page": "985-86",
+          "parenthetical": "quotation omitted"
+        },
+        {
+          "page": "131-32"
+        },
+        {
+          "page": "986-87"
+        },
+        {
+          "page": "136"
+        },
+        {
+          "page": "989"
+        },
+        {
+          "page": "138"
+        },
+        {
+          "page": "990"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/494/0113-01"
+      ]
+    },
+    {
+      "cite": "438 U.S. 726",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1769229
+      ],
+      "weight": 3,
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/438/0726-01"
+      ]
+    },
+    {
+      "cite": "478 U.S. 675",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6211457
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "685",
+          "parenthetical": "cited for the proposition that \"[a] high school assembly or classroom is no place for a sexually explicit monologue directed towards an unsuspecting audience of teenage students\""
+        },
+        {
+          "page": "3165",
+          "parenthetical": "cited for the proposition that \"[a] high school assembly or classroom is no place for a sexually explicit monologue directed towards an unsuspecting audience of teenage students\""
+        },
+        {
+          "parenthetical": "cited for the proposition that \"[a] high school assembly or classroom is no place for a sexually explicit monologue directed towards an unsuspecting audience of teenage students\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/478/0675-01"
+      ]
+    },
+    {
+      "cite": "406 U.S. 205",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6170178
+      ],
+      "weight": 12,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "232-33"
+        },
+        {
+          "page": "1541-42"
+        },
+        {
+          "page": "232-33"
+        },
+        {
+          "page": "1541-42"
+        },
+        {
+          "page": "232-33"
+        },
+        {
+          "page": "1542"
+        },
+        {
+          "page": "1543"
+        },
+        {
+          "page": "233-34"
+        },
+        {
+          "page": "1542-43"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/406/0205-01"
+      ]
+    },
+    {
+      "cite": "321 U.S. 158",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        302055
+      ],
+      "weight": 3,
+      "year": 1944,
+      "pin_cites": [
+        {
+          "page": "166"
+        },
+        {
+          "page": "442"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/321/0158-01"
+      ]
+    },
+    {
+      "cite": "268 U.S. 510",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        13076
+      ],
+      "weight": 11,
+      "year": 1925,
+      "pin_cites": [
+        {
+          "page": "535"
+        },
+        {
+          "page": "573-74"
+        },
+        {
+          "page": "534-35"
+        },
+        {
+          "page": "573-74"
+        },
+        {
+          "page": "534-36"
+        },
+        {
+          "page": "573-74"
+        },
+        {
+          "page": "535"
+        },
+        {
+          "page": "573-74"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/268/0510-01"
+      ]
+    },
+    {
+      "cite": "302 U.S. 319",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6140617
+      ],
+      "weight": 4,
+      "year": 1937,
+      "pin_cites": [
+        {
+          "page": "325"
+        },
+        {
+          "page": "151-52"
+        },
+        {
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/302/0319-01"
+      ]
+    },
+    {
+      "cite": "410 U.S. 113",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11957048
+      ],
+      "weight": 5,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "152"
+        },
+        {
+          "page": "726"
+        },
+        {
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/410/0113-01"
+      ]
+    },
+    {
+      "cite": "621 F.2d 607",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        482235
+      ],
+      "pin_cites": [
+        {
+          "page": "613"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/621/0607-01"
+      ]
+    },
+    {
+      "cite": "817 F.2d 650",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1671011
+      ],
+      "pin_cites": [
+        {
+          "page": "655"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/817/0650-01"
+      ]
+    },
+    {
+      "cite": "977 F.2d 37",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10511682
+      ],
+      "pin_cites": [
+        {
+          "page": "43-44"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/977/0037-01"
+      ]
+    },
+    {
+      "cite": "53 F.3d 423",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        572951
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "427"
+        },
+        {
+          "page": "427"
+        },
+        {
+          "page": "424-27"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/53/0423-01"
+      ]
+    },
+    {
+      "cite": "96 L.Ed. 183",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1952,
+      "opinion_index": 0
+    },
+    {
+      "cite": "342 U.S. 165",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        640823
+      ],
+      "weight": 5,
+      "year": 1952,
+      "pin_cites": [
+        {
+          "page": "172"
+        },
+        {
+          "page": "209-10"
+        },
+        {
+          "page": "172"
+        },
+        {
+          "page": "210"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/342/0165-01"
+      ]
+    },
+    {
+      "cite": "262 U.S. 390",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6141776
+      ],
+      "weight": 18,
+      "year": 1923,
+      "pin_cites": [
+        {
+          "page": "399"
+        },
+        {
+          "page": "626-27"
+        },
+        {
+          "page": "400"
+        },
+        {
+          "page": "627"
+        },
+        {
+          "page": "399"
+        },
+        {
+          "page": "626"
+        },
+        {
+          "page": "402"
+        },
+        {
+          "page": "627-28"
+        },
+        {
+          "page": "399"
+        },
+        {
+          "page": "626"
+        },
+        {
+          "page": "403"
+        },
+        {
+          "page": "628"
+        },
+        {
+          "page": "399-400"
+        },
+        {
+          "page": "627"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/262/0390-01"
+      ]
+    },
+    {
+      "cite": "365 U.S. 167",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6165001
+      ],
+      "weight": 3,
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "171-72"
+        },
+        {
+          "page": "475-76"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/365/0167-01"
+      ]
+    },
+    {
+      "cite": "927 F.2d 3",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1797422
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "6"
+        },
+        {
+          "page": "6"
+        },
+        {
+          "page": "5"
+        },
+        {
+          "page": "7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/927/0003-01"
+      ]
+    },
+    {
+      "cite": "474 U.S. 327",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204748
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "331"
+        },
+        {
+          "page": "665"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/474/0327-01"
+      ]
+    },
+    {
+      "cite": "987 F.2d 1",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10507731
+      ],
+      "pin_cites": [
+        {
+          "page": "7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/987/0001-01"
+      ]
+    },
+    {
+      "cite": "500 U.S. 226",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6221077
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "232"
+        },
+        {
+          "page": "1793"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/500/0226-01"
+      ]
+    },
+    {
+      "cite": "49 F.3d 837",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7416653
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "844"
+        },
+        {
+          "page": "844"
+        },
+        {
+          "page": "844",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/49/0837-01"
+      ]
+    },
+    {
+      "cite": "483 U.S. 635",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        28199
+      ],
+      "weight": 6,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "640"
+        },
+        {
+          "page": "3039"
+        },
+        {
+          "page": "639-40"
+        },
+        {
+          "page": "3038-39"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/483/0635-01"
+      ]
+    },
+    {
+      "cite": "457 U.S. 800",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6194865
+      ],
+      "weight": 5,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "818"
+        },
+        {
+          "page": "2738"
+        },
+        {
+          "page": "818"
+        },
+        {
+          "page": "2738"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/457/0800-01"
+      ]
+    },
+    {
+      "cite": "42 U.S.C. § 1983",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "20 U.S.C. § 1681",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "993 F.2d 962",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10516920
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "971"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/993/0962-01"
+      ]
+    },
+    {
+      "cite": "118 L.Ed.2d 545",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 S.Ct. 1939",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "950 F.2d 13",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10520789
+      ],
+      "pin_cites": [
+        {
+          "page": "22"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/950/0013-01"
+      ]
+    },
+    {
+      "cite": "836 F.2d 659",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10545127
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/836/0659-01"
+      ]
+    },
+    {
+      "cite": "924 F.2d 1161",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10546807
+      ],
+      "pin_cites": [
+        {
+          "page": "1165"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/924/1161-01"
+      ]
+    },
+    {
+      "cite": "14 F.3d 697",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10527789
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "700"
+        },
+        {
+          "page": "700"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/14/0697-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. § 1367",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(c)"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 2213,
+    "char_count": 56489,
+    "ocr_confidence": 0.695,
+    "pagerank": {
+      "raw": 1.7672032847859175e-06,
+      "percentile": 0.9938143111818488
+    },
+    "sha256": "cfb777da327ef8adc1e35985d80c5460c8a9c98a532ab468de336ec052370d4f",
+    "simhash": "1:7a4b917061eb5787",
+    "word_count": 8893
+  },
+  "last_updated": "2024-02-27T17:51:33.821842+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before TORRUELLA, Chief Judge, STAHL, Circuit Judge, and DOMÍNGUEZ, District Judge."
+    ],
+    "parties": [
+      "Ronald C. BROWN, et al., Plaintiffs-Appellants, v. HOT, SEXY AND SAFER PRODUCTIONS, INC., et al., Defendants-Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "TORRUELLA, Chief Judge.\nThe plaintiffs are two minors and their parents. The minors allege that they were compelled to attend an indecent AIDS and sex education program conducted at their public high school by defendant Hot, Sexy and Safer Productions (“Hot, Sexy, and Safer”). Plaintiffs allege, inter alia, that the compelled attendance deprived the minors of their privacy rights and their right to an educational environment free from sexual harassment. The district court granted the defendants’ motion to dismiss under Federal Rule of Civil Procedure 12(b)(6). We affirm.\nBACKGROUND\nThe plaintiffs are Chelmsford High School students Jason P. Mesiti (“Mesiti”) and Shannon Silva (“Silva”), and their parents Ronald and Suzanne Brown (“the Browns”), and Carol and Richard Dubreuil (“the Du-breuils”). The plaintiffs’ complaint alleges the following facts, which we take as true for purposes of this appeal. On April 8, 1992, Mesiti and Silva attended a mandatory, school-wide “assembly” at Chelmsford High School. Both students were fifteen years old at the time. The assembly consisted of a ninety-minute presentation characterized by the defendants as an AIDS awareness program (the “Program”). The Program was staged by defendant Suzi Landolphi (“Lan-dolphi”), contracting through defendant Hot, Sexy, and Safer, Inc., a corporation wholly owned by Landolphi.\nPlaintiffs allege that Landolphi gave sexually explicit monologues and participated in sexually suggestive skits with several minors chosen from the audience. Specifically, the complaint alleges that Landolphi: 1) told the students that they were going to have a “group sexual experience, with audience participation”; 2) used profane, lewd, and lascivious language to describe body parts and excretory functions; 8) advocated and approved oral sex, masturbation, homosexual sexual activity, and condom use during promiscuous premarital sex; 4) simulated masturbation; 5) characterized the loose pants worn by one minor as “erection wear”; 6) referred to being in “deep sh — ” after anal sex; 7) had a male minor lick an oversized condom with her, after which she had a female minor pull it over the male minor’s entire head and blow it up; 8) encouraged a male minor to display his “orgasm face” with her for the camera; 9) informed a male minor that he was not having enough orgasms; 10) closely inspected a minor and told him he had a “nice butt”; and 11) made eighteen references to orgasms, six references to male genitals, and eight references to female genitals.\nPlaintiffs maintain that the sexually explicit nature of Landolphi’s speech and behavior humiliated and intimidated Mesiti and Silva. Moreover, many students copied Landolphi’s routines and generally displayed overtly sexual behavior in the weeks following the Program, allegedly exacerbating the minors’ harassment. The complaint does not allege that either of the minor plaintiffs actually participated in any of the skits, or were the direct objects of any of Landolphi’s comments.\nThe complaint names eight co-defendants along with Hot, Sexy, and Safer, and Landol-phi, alleging that each played some role in planning, sponsoring, producing, and compelling the minor plaintiffs’ attendance at the Program. In March 1992, defendant Judith Hass (“Hass”), then chairperson of the Chelmsford Parent Teacher Organization (the “PTO”), initiated negotiations with Hot, Sexy, and Safer. Hass and defendant Michael Gilchrist, M.D., also a member of the PTO, as well as the school physician, viewed a promotional videotape of segments of Lan-dolphi’s past performances and then recommended the Program to the school administration. On behalf of defendant Chelmsford School Committee (the “School Committee”), Hass executed an agreement with Hot, Sexy, and Safer, and authorized the release of $1,000 of Chelmsford school funds to pay Landolphi’s fee.\nThe complaint also names as defendants two other members of the School Committee, Wendy Marcks and Mary E. Frantz, as well as the Superintendent and Assistant Superintendent of the Chelmsford Public Schools, Richard H. Moser, and David S. Troughton, and the Principal of Chelmsford High School, George J. Betses. Plaintiffs allege that all the defendants participated in the decisions to hire Landolphi, and to compel the students to attend the Program. All the defendants were physically present during the Program.\nA school policy adopted by the School Committee required “[p]ositive subscription, with written parental permission” as a prerequisite to “instruction in human sexuality.” The plaintiffs allege, however, that the parents were not given advance notice of the content of the Program or an opportunity to excuse their children from attendance at the assembly.\nThe district court granted defendants’ motion to dismiss plaintiffs’ complaint, pursuant to Federal Rule of Civil Procedure 12(b)(6), for failure to state a claim upon which relief may be granted, and also dismissed the state law claims under the supplemental jurisdiction principles of 28 U.S.C. § 1367. The district court deferred entry of final judgment, giving plaintiffs leave to file an amended complaint curative of the deficiencies by February 10, 1995. Plaintiffs failed to do so, and final judgment was entered on March 3, 1995, dismissing their claims.\nSTANDARD OF REVIEW\nWe exercise de novo review over a district court’s dismissal of a claim under Rule 12(b)(6). Vartanian v. Monsanto Co., 14 F.3d 697, 700 (1st Cir.1994); Kale v. Combined Ins. Co. of America, 924 F.2d 1161, 1165 (1st Cir.1991). We accept the allegations of the complaint as true, and determine whether, under any theory, the allegations are sufficient to state a cause of action in accordance with the law. Vartanian, 14 F.3d at 700; Knight v. Mills, 836 F.2d 659 (1st Cir.1987). Although our review is plenary, an appeal is not an opportunity to conjure new arguments not raised before the district court. McCoy v. Massachusetts Inst. of Tech., 950 F.2d 13, 22 (1st Cir.1991), cert. denied, 504 U.S. 910, 112 S.Ct. 1939, 118 L.Ed.2d 545 (1992). In addition, “[bjecause only well pleaded facts are taken as true, we will not accept a complainant’s unsupported conclusions or interpretations of law.” Washington Legal Found, v. Massachusetts Bar Found., 993 F.2d 962, 971 (1st Cir.1993) (citations omitted). We may affirm a district court’s dismissal order under any independently sufficient grounds. Id.\nDISCUSSION\nThe plaintiffs seek both declaratory and monetary relief, alleging that the school sponsored program deprived the minor plaintiffs of: (1) their privacy rights under the First and Fourteenth Amendments; (2) their substantive due process rights under the First and Fourteenth Amendments; (3) their procedural due process rights under the Fourteenth Amendment; and (4) their First Amendment rights under the Free Exercise Clause (in conjunction with a deprivation of the parent plaintiffs’ right to direct and control the upbringing of their children). Plaintiffs also allege that the Program created a sexually hostile educational environment in violation of Title IX of the Education Amendments of 1972, 20 U.S.C. § 1681 et seq.\nAs an initial matter, we briefly address defendants’ assertion of the defense of qualified immunity. Plaintiffs seek monetary damages under 42 U.S.C. § 1983, and defendants assert the affirmative defense of qualified immunity, which shields public officials performing discretionary functions from liability for civil damages “insofar as their conduct does not violate clearly established statutory or constitutional rights of which a reasonable person would have known.” Harlow v. Fitzgerald, 457 U.S. 800, 818, 102 S.Ct. 2727, 2738, 73 L.Ed.2d 396 (1982). A right is “clearly established” if, at the time of the alleged violation, “[t]he contours of the right [are] sufficiently clear that a reasonable official would understand that what he is doing violates that right.” Anderson v. Creighton, 483 U.S. 635, 640, 107 S.Ct. 3034, 3039, 97 L.Ed.2d 523 (1987). “[T]he relevant question is whether a reasonable official could have believed his actions were lawful in light of clearly established law and the information the official possessed at the time of his allegedly unlawful conduct.” Singer v. Maine, 49 F.3d 837, 844 (1st Cir.1995) (citations omitted).\nThe Supreme Court has explained that: “A necessary concomitant to the determination of whether the constitutional right asserted by a plaintiff is ‘clearly established’ at the time the defendant acted is the determination of whether the plaintiff has asserted a violation of a constitutional right at all.” Siegert v. Gilley, 500 U.S. 226, 232, 111 S.Ct. 1789, 1793, 114 L.Ed.2d 277 (1991). Therefore, “before even reaching qualified immunity, a court of appeals must ascertain whether the appellants have asserted a violation of a constitutional right at all.” Watterson v. Page, 987 F.2d 1, 7 (1st Cir.1993); Singer, 49 F.3d at 844. Thus, as a predicate to the objective reasonableness inquiry, “a plaintiff must establish that a particular defendant violated the plaintiffs federally protected rights.” Singer, 49 F.3d at 844 (citations omitted).\nAccordingly, we first address each of the plaintiffs’ claims to determine whether it states a cause of action under federal law. If any of the claims meet this threshold requirement, we will then proceed to the issue of qualified immunity.\nI. Privacy Rights and Substantive Due Process\nThe Fourteenth Amendment provides that “[n]o State shall ... deprive any person of life liberty or property without due process of law.” U.S. Const, amend XIV. The substantive component of due process protects against “certain government actions regardless of the fairness of the procedures used to implement them.” Daniels v. Williams, 474 U.S. 327, 331, 106 S.Ct. 662, 665, 88 L.Ed.2d 662 (1986). See also Pittsley v. Warish, 927 F.2d 3, 6 (1st Cir.1991) (comparing substantive due process to procedural due process) (citing Monroe v. Pape, 365 U.S. 167, 171-72, 81 S.Ct. 473, 475-76, 5 L.Ed.2d 492 (1961)). There are two theories under which a plaintiff may bring a substantive due process claim. Under the first, a plaintiff must demonstrate a deprivation of an identified liberty or property interest protected by the Fourteenth Amendment. Pittsley, 927 F.2d at 6 (citing Meyer v. Nebraska, 262 U.S. 390, 399, 43 S.Ct. 625, 626-27, 67 L.Ed. 1042 (1923)). Under the second, a plaintiff is not required to prove the deprivation of a specific liberty or property interest, but, rather, he must prove that the state’s conduct “shocks the conscience.” Id. at 6 (quoting Rochin v. California, 342 U.S. 165, 172, 72 S.Ct. 205, 209-10, 96 L.Ed. 183 (1952)). Plaintiffs contend that compelling the minors’ attendance at the Program constitutes a substantive due process violation under both tests.\nA. Conscience Shocking Behavior\nPlaintiffs’ claim that the defendants engaged in conscience shocking behavior when they compelled the minor plaintiffs to attend the Program. The Supreme Court set the standard for analyzing claims of conscience shocking behavior in Rochin. In that case, the Court held that the government could not use evidence obtained by pumping a defendant’s stomach against his will because the state actor’s conduct was so egregious that it “shock[ed] the conscience” and offended even “hardened sensibilities.” Rochin, 342 U.S. at 172, 72 S.Ct. at 210. The Court explained that the stomach pumping employed by the state was “too close to the rack and screw to permit of constitutional differentiation.” Id.\nSimilarly, we have found “conscience shocking” conduct only where the state actors engaged in “extreme or intrusive physical conduct.” Souza v. Pina, 53 F.3d 423, 427 (1st Cir.1995); Harrington v. Almy, 977 F.2d 37, 43-44 (1st Cir.1992) (reasonable fact-finder could find “conscience shocking” conduct where a police officer charged with child abuse was required to take a penile plethysmograph as a condition of his reinstatement). See also García v. Miera, 817 F.2d 650, 655 (10th Cir.1987) (corporal punishment of students may “shock the conscience” if it “caused injury so severe, was so disproportionate to the need presented, and was so inspired by malice or sadism ... that it amounted to a brutal and inhumane abuse of official power”) (quoting Hall v. Tawney, 621 F.2d 607, 613 (4th Cir.1980)).\nAlthough we have not foreclosed the possibility that words or verbal harassment may constitute “conscious shocking” behavior in violation of substantive due process rights, see Souza, 53 F.3d at 427; Pittsley, 927 F.2d at 6, our review of the caselaw indicates that the threshold for alleging such claims is high and that the facts alleged here do not rise to that level.\nIn Souza, the plaintiff alleged that the prosecutor had caused the suicide of her son by conducting press conferences in which he encouraged the media to link the son to a string of serial murders. The plaintiff further alleged that the prosecutor knew of her son’s suicidal tendencies and should have known that he would take his own life as a result of the accusations. Although we “pause[d] to make clear that we do not condone the conduct alleged by Souza,” we nevertheless found that the conduct was not “conscience shocking.” Souza, 53 F.3d at 424-27.\nIn Pittsley, police officers told two young children — ages four and ten — that “if we ever see your father on the street again, you’ll never see him again.” Pittsley, 927 F.2d at 5. When the police subsequently arrested the children’s father, they “use[d] vulgar language” and refused to let the children give their father a hug and kiss goodbye. Id. In affirming the directed verdicts for defendants, we explained: “As despicable and wrongful as it may have been, the single threat made by the officers is not sufficient to ‘shock the conscience.’” Id. at 7.\nThe facts alleged at bar are less severe than those found insufficient in Souza and Pittsley. The minor teenagers in this case were compelled to attend a sexually explicit AIDS awareness assembly without prior parent approval. While the defendants’ failure to provide opt-out procedures may have displayed a certain callousness towards the sensibilities of the minors, their acts do not approach the mean-spirited brutality evinced by the defendants in Souza and Pittsley. We accordingly hold that the acts alleged here, taken as true, do not constitute conscience shocking and thus fail to state a claim under Rochin.\nB. Protected Liberty Interests\nThe Supreme Court has held that the Fourteenth Amendment encompasses a privacy right that protects against significant government intrusions into certain personal decisions. See Roe v. Wade, 410 U.S. 113, 152, 93 S.Ct. 705, 726, 35 L.Ed.2d 147 (1973). This right of privacy “has some extension to activities relating to marriage, procreation, contraception, family relationships, and child rearing and education.” Id. (citations omitted). Nevertheless, the Supreme Court has explained that only those rights that “can be deemed ‘fundamental’ or ‘implicit in the concept of ordered liberty are included in this guarantee of personal privacy.” Id. (quoting Palko v. Connecticut, 302 U.S. 319, 325, 58 S.Ct. 149, 151-52, 82 L.Ed. 288 (1937)). Regulations limiting these “fundamental rights” may be justified “only by a ‘compelling state interest’ ... [and] must be narrowly drawn to express only the legitimate interests at stake.” Id. (citations omitted).\n1. Right to Rear Children\nParent-plaintiffs allege that the defendants violated their privacy right to direct the upbringing of their children and educate them in accord with their own views. This, they maintain, is a constitutionally protected “fundamental right” and thus can only be infringed upon a showing of a “compelling state interest” that cannot be achieved by any less restrictive means.\nThe genesis of the right claimed here can be found in Meyer v. Nebraska, 262 U.S. 390, 43 S.Ct. 625, 67 L.Ed. 1042 (1923), and Pierce v. Society of Sisters, 268 U.S. 510, 535, 45 S.Ct. 571, 573-74, 69 L.Ed. 1070 (1925). In Meyer, the Court struck down a state law forbidding instruction in certain foreign languages in part because it arbitrarily interfered with the “right of parents” to procure such instruction for their children. Meyer, 262 U.S. at 400, 43 S.Ct. at 627. In so holding, the Court stated:\nWhile this Court has not attempted to define \"with exactness the liberty [guaranteed by the due process clause of the Fourteenth Amendment], the term has received much consideration and some of the included things have been definitely stated. Without doubt, it denotes not merely freedom from bodily restraint but also the right of the individual to contract, to engage in any of the common occupations of life, to acquire useful knowledge, to marry, to establish a home and bring up children, to worship God according to the dictates of his own conscience, and generally to enjoy those privileges long recognized at common law as essential to the orderly pursuit of happiness by free men.\nId. at 399, 43 S.Ct. at 626.\nTwo years later the Court in Pierce struck down a state statute requiring public school attendance — and thus precluding attendance at parochial schools — because it “unreasonably interfere[d] with the liberty of parents or guardians to direct the upbringing and education of children under their control.” 268 U.S. at 534-35, 45 S.Ct. at 573-74. The Meyer and Pierce decisions have since been interpreted by the Court as recognizing that, under our Constitutional scheme, “the custody, care and nurture of the child reside first in the parents.” Prince v. Massachusetts, 321 U.S. 158, 166, 64 S.Ct. 438, 442, 88 L.Ed. 645 (1944); see Wisconsin v. Yoder, 406 U.S. 205, 232-33, 92 S.Ct. 1526, 1541-42, 32 L.Ed.2d 15 (1972).\nNevertheless, the Meyer and Pierce cases were decided well before the current “right to privacy” jurisprudence was developed, and the Supreme Court has yet to decide whether the right to direct the upbringing and education of one’s children is among those fundamental rights whose infringement merits heightened scrutiny. We need not decide here whether the right to rear one’s children is fundamental because we find that, even if it were, the plaintiffs have faded to demonstrate an intrusion of constitutional magnitude on this right.\nThe Meyer and Pierce cases, we think, evince the principle that the state cannot prevent parents from choosing a specific educational program — whether it be religious instruction at a private school or instruction in a foreign language. That is, the state does not have the power to “standardize its children” or “foster a homogenous people” by completely foreclosing the opportunity of individuals and groups to choose a different path of education. Meyer, 262 U.S. at 402, 43 S.Ct. at 627-28, discussed in, Tribe, supra, § 15-6 at 1319. We do not think, however, that this freedom encompasses a fundamental constitutional right to dictate the curriculum at the public school to which they have chosen to send their children. See Rotunda & Nowak, supra, § 18.28 n. 25. We think it is fundamentally different for the state to say to a parent, “You can’t teach your child German or send him to a parochial school,\" than for the parent to say to the state, “You can’t teach my child subjects that are morally offensive to me.” The first instance involves the state proscribing parents from educating their children, while the second involves parents prescribing what the state shall teach their children. If all parents had a fundamental constitutional right to dictate individually what the schools teach their children, the schools would be forced to cater a curriculum for each student whose parents had genuine moral disagreements with the school’s choice of subject matter. We cannot see that the Constitution imposes such a burden on state educational systems, and accordingly find that the rights of parents as described by Meyer and Pierce do not encompass a broad-based right to restrict the flow of information in the public schools.\n2. Right to be Free from Offensive Speech\nThe minor plaintiffs maintain that the defendants’ conduct violated their privacy right to be free from “exposure to vulgar and offensive language and obnoxiously debasing portrayals of human sexuality.” Plaintiffs cite no cases — and we have found none— indicating that such a fundamental privacy right exists. Rather, they attempt to extract the claimed privacy right from the Supreme Court’s First Amendment cases which uphold the state’s limited power to regulate or discipline speech to protect minors from offensive or vulgar speech. See Bethel Sch. Dist. No. 403 v. Fraser, 478 U.S. 675, 685, 106 S.Ct. 3159, 3165, 92 L.Ed.2d 549 (1986) (cited for the proposition that “[a] high school assembly or classroom is no place for a sexually explicit monologue directed towards an unsuspecting audience of teenage students”); FCC v. Pacifica Found., 438 U.S. 726, 98 S.Ct. 3026, 57 L.Ed.2d 1073 (1978). We agree with the district court that these cases “do not create a private cause of action against state officials for exposure” to patently offensive language.\nII. Procedural Due Process\nThe plaintiffs’ third claim alleges that their procedural due process rights under the Fourteenth Amendment were violated when the defendants compelled the minor plaintiffs to attend the Program without giving the parents advance notice and an opportunity to opt out of attending.\n“In procedural due process claims, the deprivation by state action of a constitutionally protected interest in ‘life, liberty, or property’ is not in itself unconstitutional; what is unconstitutional is the deprivation of such an interest without due process of law.” Zinermon v. Burch, 494 U.S. 113, 125, 110 S.Ct. 975, 108 L.Ed.2d 100 (1990) (quoting Parrott v. Taylor, 451 U.S. 527, 537, 101 S.Ct. 1908, 1913-14, 68 L.Ed.2d 420 (1981)). Application of this prohibition requires a well settled two-stage analysis. We first decide whether the asserted individual interests are encompassed within the Fourteenth Amendment’s protection of “life, liberty or property.” If protected interests are implicated, we then must decide what procedures constitute “due process of law.” Ingraham v. Wright, 430 U.S. 651, 672, 97 S.Ct. 1401, 1413, 51 L.Ed.2d 711 (1977) (citations omitted). Protected liberty interests may arise from two sources — the Due Process Clause itself and the laws of the states. Kentucky Dept. of Corrections v. Thompson, 490 U.S. 454, 460, 109 S.Ct. 1904, 1908, 104 L.Ed.2d 506 (1989) (citations omitted).\nThe liberty preserved from deprivation without due process includes the right “generally to enjoy those privileges long recognized at common law as essential to the orderly pursuit of happiness by free men.” Meyer, 262 U.S. at 399, 43 S.Ct. at 626. As previously discussed, however, the liberty protected by the Fourteenth Amendment does not encompass a right to be free from exposure to speech which one regards as offensive. Thus, the plaintiffs’ asserted liberty interest, if one exists, must derive from state law.\nThe plaintiffs contend that state law and the School Committee’s policy on “Sex Education” (the “Sex Education Policy”) confers a protected liberty interest, and that the defendants’ actions deprived them of it without due process. Specifically, the complaint alleges that the defendants failed to follow the school’s Sex Education Policy, which provides:\nThe Committee believes that the public schools can best transmit information on human sexuality to students in the context of the health education continuum. Therefore, information and instructional tools appropriate to the age group will be used to include instruction in human sexuality in the curricular offerings on health. Positive subscription, with written parental permission, mil be a prerequisite to enrolling.\n(Emphasis added.) The complaint further alleges that the parents were not given advance notice of the contents of the Program or an opportunity to opt out.\nDefendants concede for the purposes of their motion that the Sex Education Policy confers a liberty interest in freedom from exposure to the content of the Program and in being afforded an opportunity to opt out. They argue, however, that the plaintiffs still fail to state a claim because the violation of the Sex Education Policy was a “random and unauthorized” act within the confines of the Parratt-Hudson doctrine. Hudson v. Palmer, 468 U.S. 517, 104 S.Ct. 3194, 82 L.Ed.2d 393 (1984); Parratt, 451 U.S. at 527, 101 S.Ct. at 1909. The plaintiffs maintain that their claim is more akin to that stated in Zinermon, and is thus outside the scope of the Parratt-Hudson doctrine.\nIn Parrott, a state prisoner brought a § 1983 action because prison employees had negligently lost materials he had ordered by mail. The Supreme Court ruled that the prisoner’s post-deprivation tort remedy was all the process that was due because the state could not have provided any predepri-vation procedural safeguard to address the risk of this kind of random and unauthorized deprivation. Parrott, 451 U.S. at 541, 101 S.Ct. at 1916. As the Court explained, “the loss is not a result of some established state procedure and the State cannot predict precisely when the loss will occur. It is difficult to conceive of how the State could provide a meaningful hearing before the deprivation takes place.” Id. In Hudson, the Supreme Court extended this reasoning to intentional deprivations of property, explaining that “[t]he state can no more anticipate the random and unauthorized intentional conduct of its employees than it can similar negligent conduct.” Hudson, 468 U.S. at 533, 104 S.Ct. at 3203.\nParratt and Hudson preclude § 1983 claims for the “random and unauthorized” conduct of state officials because the state cannot “anticipate and control [such conduct] in advance.” Zinermon, 494 U.S. at 130,110 S.Ct. at 985. In addition, the Court has made clear that unauthorized deprivations of property by state employees do not constitute due process violations under the Fourteenth Amendment so long as meaningful postdeprivation remedies are available. Id. at 128-30, 110 S.Ct. at 984-86. Moreover, the Court has emphasized that “no matter how significant the private interest at stake and the risk of its erroneous deprivation, the State cannot be required constitutionally to do the impossible by providing predeprivation process.” Id. at 129, 110 S.Ct. at 985 (citations omitted). Therefore, “the proper inquiry under Parratt is whether the state is in a position to provide for predeprivation process.” Id. at 130, 110 S.Ct. at 985-86 (quotation omitted).\nZinermon involved a due process claim against the state doctors who admitted the plaintiff Burch as a “voluntary” mental patient. Burch alleged that he was incompetent at the time of his admission and should have been afforded the protections provided by the involuntary placement procedure. Although the Court found that Parratt-Hud-son doctrine applied to deprivations of liberty, it nevertheless concluded that Burch had failed to state a viable § 1983 claim. Id. at 131-32, 110 S.Ct. at 986-87.\nThe court found that Burch’s claim was not controlled by Parratt and Hudson for three basic reasons. First, the Court explained that the timing of Burch’s deprivation of liberty was more predictable than in Parratt and Hudson. As the Court explained, “it is hardly unforeseeable that a person requesting treatment for mental illness might be incapable of informed consent.” Id. at 136, 110 S.Ct. at 989. Thus, “[a]ny erroneous deprivation will occur, if at all, at a specific, predictable point in the admission process.” Id. Second, the Court found that the state could have provided meaningful predeprivation process and possibly averted the deprivation Burch alleged. Third, the Court found that because the state had delegated the hospital officials broad authority to “effect the very deprivation complained of here,” their conduct could not be characterized as “unauthorized” in the same sense as the destruction of the prisoners’ property in Parratt and Hudson.\nThe Parratt-Hudson-Zinermon trilogy “requires that courts scrutinize carefully the assertion by state officials that their conduct is ‘random and unauthorized’ ... where such a conclusion limits the procedural due process inquiry under § 1983 to the question of the adequacy of state postdeprivation remedies.” Lowe v. Scott, 959 F.2d 323, 341 (1st Cir.1992). Our examination here leads us to agree with the district court that the plaintiffs’ claim falls within the Parratt-Hudson doctrine.\nThe plaintiffs have not alleged any facts that would bring their claim within the scope of Zinermon. They point to no facts suggesting that the state could have predicted the defendants’ failure to give the required notice and opt-out opportunity, nor do they suggest any reasonable additional predepri-vation procedures which would have meaningfully reduced the risk of the due process violation alleged.\nThe plaintiffs contend that the deprivation cannot be characterized as “random and unauthorized” because the performance was planned well in advance. This contention ignores both the nature of the deprivation and the relevant caselaw. The deprivation alleged here is not the staging of the Program itself, but rather the defendants’ failure to follow the procedures mandated by the Sex Education Policy. Moreover, the Supreme Court has established that the Par-ratt-Hudson doctrine applies to both negligent and intentional tortious acts of state actors, explaining that “it would be absurd to suggest that the State hold a hearing to determine whether a [state official] should engage in such conduct.” Hudson, 468 U.S. at 533,104 S.Ct. at 3203-04. That reasoning is applicable here. The plaintiffs have not alleged any facts from which a court could reasonably infer that any defendant was vested with “the power and authority to ef-feet the very deprivation complained of here.” Zinermon, 494 U.S. at 138,110 S.Ct. at 990. Rather, the Sex Education Policy states that “[p]ositive subscription, with parental permission, will be a prerequisite to enrolling,” and, accordingly, vested no discretion in school officials. We therefore conclude that the failure to follow the Sex Education Policy was a “random and unauthorized” act within the confines of the Parrath-Hudson doctrine.\nThe second stage of a Parratt-Hudson analysis looks to whether the state has provided adequate postdeprivation remedies. Lowe, 959 F.2d at 340 (discussing Parratt, 451 U.S. at 527, 101 S.Ct. at 1909). The plaintiffs did not argue to the district court that the state remedies were inadequate, relying instead on their belief that Zinermon was controlling. On appeal, they do no more than state baldly that “[n]o post-deprivation procedures can undo the damaging influences which were impressed on the students during the performance.” Accordingly, we deem this point waived for appellate review, see United States v. Zannino, 895 F.2d 1, 17 (1st Cir.), cert. denied, 494 U.S. 1082, 110 S.Ct. 1814, 108 L.Ed.2d 944 (1990) (discussing the “settled appellate rule that issues adverted to in a perfunctory manner, unaccompanied by some effort at developed argumentation, are deemed waived”), and therefore find that the plaintiffs have failed to state a procedural due process claim.\nIII. Free Exercise Clause\nPlaintiffs’ fourth claim seeks both monetary and declaratory relief, alleging that the defendants’ endorsement and encouragement of sexual promiscuity at a mandatory assembly “imping[ed] on their sincerely held religious values regarding chastity and morality,” and thereby violated the Free Exercise Clause of the First Amendment.\nIn Employment Div., Oregon Dep’t of Human Resources v. Smith, 494 U.S. 872, 110 S.Ct. 1595, 108 L.Ed.2d 876 (1990), the Supreme Court addressed a free exercise challenge to a facially neutral and generally applicable criminal statute. The Court held that the compelling interest test did not apply to free exercise challenges to “generally applicable prohibitions of socially harmful conduct.” Id. at 882-85, 110 S.Ct. at 1601-04. The Court explained that the First Amendment was not offended by neutral, generally applicable laws, unless burdening religion was the object of the law. Id. at 878-82, 110 S.Ct. at 1599-1602.\nIn 1994, Congress enacted the Religious Freedom Restoration Act (“RFRA”), 42 U.S.C. § 2000bb, in response to the Supreme Court’s decision in Smith. RFRA states, in relevant part:\n(a) In General — Government shall not substantially burden a person’s exercise of religion even if the burden results from a rule of general applicability, except as provided in subsection (b) of this section.\n(b) Exception — Government may substantially burden a person’s exercise of religion only if it demonstrates that application of the burden to the person—\n(1) is in furtherance of a compelling governmental interest; and\n(2) is the least restrictive means of furthering that compelling governmental interest.\nId. RFRA states that it was enacted to bring the law back to its pre-Smith state. Id.\nThe plaintiffs’ Free Exercise challenge raises two complex constitutional issues. The threshold issue is whether the Free Exercise Clause even applies to public education. If indeed the Free Exercise Clause applies to the plaintiffs’ claim, the question would then be whether their free exercise rights were violated by the compulsory attendance at the Program. Because the Program was staged in 1992, and RFRA was enacted in 1994, however, a cause of action under RFRA exists only if the statute applies retroactively. For the reasons stated below, we conclude that RFRA does not apply retroactively to plaintiffs’ claim for monetary damages.\nThe Supreme Court has explained that courts should “decline[ ] to give retroactive effect to statutes burdening private rights unless Congress ha[s] made clear its intent.” Landgraf v. USI Film Products, — U.S.-,-, 114 S.Ct. 1483, 1499, 128 L.Ed.2d 229 (1994). Such an intent will not be inferred where the statute “lacks ‘clear, strong, and imperative’ language requiring retroactive application.” Id. (citing United States v. Heth, 7 U.S. (3 Cranch) 399, 413, 2 L.Ed. 479 (1806)). “The presumption against statutory retroactivity has consistently been explained by reference to the unfairness of imposing new burdens on persons after the fact.” Id. at-, 114 S.Ct. at 1500.\nRFRA states that it “applies to all Federal and State law, whether statutory or otherwise, and whether adopted before or after the enactment of this Act.” 42 U.S.C. § 2000bb. The statute was enacted to “restore the compelling interest test” and provide judicial relief to persons “whose religious exercise has been burdened in violation of this section.” Id. While RFRA clearly provides access to declaratory and injunctive relief against all laws burdening the free exercise of religion, we think it lacks the “clear, strong, and imperative” language necessary to create a retroactive cause of action for monetary damages.\nWe have found no decisions in which a plaintiff was awarded damages under RFRA for conduct occurring before the statute’s enactment. Rather, the decisions in which RFRA has been found retroactive considered only the issue of whether to grant injunctive relief, as opposed to an award of monetary damages. See, e.g., Werner v. McCotter, 49 F.3d 1476, 1479-80 (10th Cir. 1995); Browrir-El v. Harris, 26 F.3d 68, 69 (8th Cir.1994) (dicta); Boone v. Commissioner of Prisons, No. 93-5074, 1994 WL 383590, 1994 U.S.Dist. LEXIS 10027 (E.D.Pa. July 21, 1994); Rust v. Clarke, 851 F.Supp. 377, 380 (D.Neb.1994) (dicta); Allah v. Menei, 844 F.Supp. 1056, 1061 at n. 15 (E.D.Pa.1994); Lawson v. Dugger, 844 F.Supp. 1538, 1542 (S.D.Fla.1994). Equitable relief, however, is prospective rather than retroactive, even when it applies to conduct occurring before a statute’s enactment. See Landgraf, — U.S. at-, 114 S.Ct. at 1500. We therefore find that the cases purportedly addressing retro-activity do not support a finding that Congress intended to create a retroactive cause of action for monetary damages under RFRA. Accordingly, the plaintiffs’ claim must be addressed under Smith, the law in effect at the time of the defendants’ actions.\nThe Supreme Court has explained that a “law that is neutral and of general applicability need not be justified by a compelling governmental interest even if the law has the incidental effect of burdening a particular religious practice.” Church of the Lukumi Babalu Aye, Inc. v. City of Hialeah, -U.S.-,-, 113 S.Ct. 2217, 2226-27, 124 L.Ed.2d 472 (1993) (citing Smith, 494 U.S. at 872, 110 S.Ct. at 1596-97). The plaintiffs do not allege, nor is it apparent from their claim, that the compulsory attendance at the Program was anything but a neutral requirement that applied generally to all students. Cfi Id. (where city ordinance violated Free Exercise clause because it targeted the ritual slaughter of animals only by religious groups).\nRather, plaintiffs allege that their case falls within the “hybrid” exception recognized by Smith for cases that involve “the Free Exercise Clause in conjunction with other constitutional protections.” Smith, 494 U.S. at 881 & n. 1, 110 S.Ct. at 1601 & n. 1. The most relevant of the so-called hybrid cases is Wisconsin v. Yoder, 406 U.S. 205, 232-33, 92 S.Ct. 1526, 1541-42, 32 L.Ed.2d 15 (1972), in which the Court invalidated a compulsory school attendance law as applied to Amish parents who refused on religious grounds to send their children to school. In so holding, the Court explained that\nPierce stands as a charter of the rights of parents to direct the religious upbringing of their children. And, when combined with a free exercise claim of the nature revealed by this record, more than merely a “reasonable relation to some purpose within the competency of the State” is required to sustain the validity of the State’s requirement under the First Amendment.\nId. at 232-33, 92 S.Ct. at 1542 (discussing Pierce, 268 U.S. 510, 45 S.Ct. 571). We find that the plaintiffs allegations do not bring them within the sweep of Yoder for two distinct reasons.\nFirst, as we explained, the plaintiffs’ allegations of interference with family relations and parental prerogatives do not state a privacy or substantive due process claim. Their free exercise challenge is thus not conjoined with an independently protected constitutional protection. Second, their free exercise claim is qualitatively distinguishable from that alleged in Yoder. As the Court in Yoder emphasized:\nthe Amish in this case have convincingly demonstrated the sincerity of their religious beliefs, the interrelationship of belief with their mode of life, the vital role that belief and daily conduct play in the continued survival of Old Order Amish communities and their religious organization, and the hazards presented by the State’s enforcement of a Statute generally valid as to others.\nId. at 235, 92 S.Ct. at 1543. Here, the plaintiffs do not allege that the one-time compulsory attendance at the Program threatened their entire way of life. Accordingly, the plaintiffs’ free exercise claim for damages was properly dismissed.\nThe plaintiffs also seek a declaratory judgment concerning the alleged infringement of their Free Exercise Rights. The standing requirement of Article III necessitates that the claimant “allege personal injury fairly traceable to the defendant’s allegedly unlawful conduct and likely to be addressed by the requested relief.” Allen v. Wright, 468 U.S. 737, 751, 104 S.Ct. 3315, 3324, 82 L.Ed.2d 556 (1984). The Supreme Court has made clear that past exposure to harm will not in and of itself confer standing upon a litigant to obtain equitable relief “[a]bsent a sufficient likelihood that he will again be wronged in a similar way.” City of Los Angeles v. Lyons, 461 U.S. 95, 104-06, 111, 103 S.Ct. 1660, 1666-67, 1670, 75 L.Ed.2d 675 (1983). See also American Postal Workers Union v. Frank, 968 F.2d 1373, 1374-76 (1st Cir.1992). Here, the plaintiffs do not allege (nor does it appear) that they are likely to again be subject to school activities that allegedly violate their Free Exercise Rights. We accordingly lack jurisdiction over the claim for declaratory relief and conclude that it also was properly dismissed.\nIV. Sexual Harassment\nThe plaintiffs’ fifth claim alleges that the defendants engaged in sexual harassment by creating a sexually hostile environment, in violation of Title IX of the Education Amendments of 1972. Title IX provides in relevant part:\nNo person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance-\n20 U.S.C. § 1681. Because the relevant caselaw under Title IX is relatively sparse, we apply Title VII caselaw by analogy. See Franklin v. Gwinnett County Pub. Schs., 503 U.S. 60, 73-75, 112 S.Ct. 1028, 1037, 117 L.Ed.2d 208 (1990); Lipsett v. University of Puerto Rico, 864 F.2d 881, 899 (1st Cir.1988).\nTitle VII, and thus Title IX, “strike at the entire spectrum of disparate treatment of men and women,” including conduct having the purpose or effect of unreasonably interfering with an individual’s performance or creating an intimidating, hostile or offensive environment. Meritor Sav. Bank, FSB v. Vinson, 477 U.S. 57, 64-65, 106 S.Ct. 2399, 2404-05, 91 L.Ed.2d 49 (1986); Lipsett, 864 F.2d at 899. As the Supreme Court explained:\nSexual harassment which creates a hostile or offensive environment for members of one sex is every bit the arbitrary barrier to sexual equality at the workplace that racial harassment is to racial equality. Surely, a requirement that a man or woman run a gauntlet of sexual abuse in return for the privilege of being allowed to work and make a living can be as demeaning and disconcerting as the harshest of racial epithets.\nMeritor, 477 U.S. at 67, 106 S.Ct. at 2405 (quoting Henson v. Dundee, 682 F.2d 897, 902 (1982)).\nThe elements a plaintiff must prove to succeed in such type of sexual harassment claim are: (i) that he/she is a member of a protected class; (ii) that he/she was subject to unwelcome sexual harassment; (iii) that the harassment was based upon sex; (iv) that the harassment was sufficiently severe or pervasive so as to alter the conditions of plaintiffs education and create an abusive educational environment; and (v) that some basis for employer liability has been established. Id. at 66-73, 106 S.Ct. at 2405-09. See also Harris v. Forklift Sys. Inc., — U.S. -, 114 S.Ct. 367, 126 L.Ed.2d 295 (1993); Lipsett, 864 F.2d at 898-901.\nTitle IX is violated “[w]hen the [educational environment] is permeated with ‘discriminatory intimidation, ridicule, and insult’ that is ‘sufficiently severe or pervasive to alter the conditions of the victim’s employment and create an abusive ... environment.’ ” Harris, — U.S. at-, 114 S.Ct. at 370 (quoting Meritor, 477 U.S. at 64-65, 106 S.Ct. at 2404-05 (1986)); Lipsett, 864 F.2d at 898. While a court must consider all of the circumstances in determining whether a plaintiff has established that an environment is hostile or abusive, it must be particularly concerned with (1) the frequency of the discriminatory conduct; (2) its severity; (3) whether it is physically threatening or humiliating rather than a mere offensive utterance; and (4) whether it unreasonably interferes with an employee’s work performance. See Harris, — U.S. at-, 114 S.Ct. at 371. Although the presence or absence of psychological harm or an unreasonable effect on work performance are relevant, no single factor is required. See id.\nThe Court has explained that the relevant factors must be viewed both objectively and subjectively. See id. at-, 114 S.Ct. at 370. If the conduct is not so severe or pervasive that a reasonable person would find it hostile or abusive, it is beyond Title IX’s purview. See id. Similarly, if the plaintiff does not subjectively perceive the environment to be abusive, the conduct has not actually altered the conditions of her employment, and there is no Title IX violation. See id. Thus, the court must consider not only the actual effect of the harassment on the plaintiff, but also the effect such conduct would have on a reasonable person in the plaintiffs position.\nTurning to the case at bar, we find that the facts alleged here are insufficient to state a claim for sexual harassment under a hostile environment theory. The plaintiffs’ allegations are weak on every one of the Harris factors, and when considered in sum, are clearly insufficient to establish the existence of an objectively hostile or abusive environment. First, plaintiffs cannot claim that the offensive speech occurred frequently, as they allege only a one-time exposure to the comments.\nWe also think that the plaintiffs’ allegations do not establish that Landolphi’s comments were so severe as to create an objectively hostile environment. This finding is based on both the context and content of her remarks. The remarks were given to the entire ninth and tenth grades at what the defendants labelled an “AIDS awareness program.” Significantly, the plaintiffs do not allege that they were required to participate in any of the offensive skits or that they were the direct objects of Landolphi’s sexual comments.\nMoreover, during his introductory remarks, defendant Gilchrist advised students that the purpose of the Program was to educate them about the dangers of sexual activity, stating:\nWe [ ] see young people in their twenties who are infected with the AIDS virus.... It means they caught the virus when they were in high school, and will be dead before they are thirty years old. That’s why the doctors are scared, and they want you to hear the message.\nNow, sometimes to hear a message, it takes a special messenger. And today, we have a very special messenger, who uses probably one of the most effective forms of communication — humor. I want you to listen carefully. Enjoy it, but also remember, the message.\nSimilarly, Landolphi stated in her opening remarks that “[wje’re going to talk about AIDS, but not in the usual way.” These prefaces framed the Program in such a way that an objective person would understand that Landolphi’s allegedly vulgar sexual commentary was intended to educate the students about the AIDS virus rather than to create a sexually hostile environment.\nThese introductions also belie the plaintiffs’ claim that Landolphi’s speech was physically threatening and humiliating, rather than a mere offensive utterance. Landol-phi’s remarks were not directed specifically at the plaintiffs and were couched in an attempt to use humor to educate the students on sex and the AIDS virus. In this context, while average high school students might have been offended by the graphic sexual discussions alleged here, Landolphi’s remarks could not reasonably be considered physically threatening or humiliating so as to create a hostile environment.\nSimilarly, the plaintiffs’ allegations establish that the Program did not significantly alter their educational environment from an objective standpoint. The Program consisted of two ninety-minute sex-education presentations, and although the plaintiffs allege that “coarse jesting, sexual innuendo, and overtly sexual behavior took place for the weeks following the Program,” they fail to explain how the coarse jesting and overtly sexual behavior “create[d] an atmosphere so infused with hostility toward members of one sex that [it] alter[ed] the [educational environment] for them.” Lipsett, 864 F.2d at 897. In fact, they allege that the offensive behavior was visited on “those students,” regardless of gender, “who were not inclined to accept ‘the message’ about human sexuality.” If anything, then, they allege discrimination based upon the basis of viewpoint, rather than on the basis of gender, as required by Title IX. We therefore find that their claim under Title IX fails.\nCONCLUSION\nWe have considered the other claims of the plaintiffs and find them similarly without merit.\nAffirmed.\n. 28 U.S.C. § 1367(c) gives a court discretion to \"decline to exercise supplemental jurisdiction over a [state law] claim [where] the district court has dismissed all claims over which it has original jurisdiction.”\n. The complaint also alleges five state law claims which are irrelevant for purposes of this appeal.\n. Section 1983 provides a remedy against any person who, under color of state law, deprives a citizen of his or her constitutional rights. 42 U.S.C. § 1983.\n. A penile plethysmograph assesses a person's sexual profile by the placement of a gauge on the subjects’ penis while he views various sexually explicit slides of both adults and children.\n. The issue is muddled because the Meyer and Pierce cases were decided on the grounds that the \"statute as applied is arbitrary and without reasonable relation to any end within the competency of the state.” Meyer, 262 U.S. at 403, 43 S.Ct. at 628; Pierce, 268 U.S. at 534-36, 45 S.Ct. at 573-74. Indeed, the opinions indicate that something less than the current “compelling state interest” test was then used to evaluate a substantive due process challenge involving one of the listed liberty interests: \"The established doctrine is that this liberty may not be interfered with, under the guise of protecting the public interest, by legislative action which is arbitrary or without reasonable relation to some purpose within the competency of the State to effect.” Meyer, 262 U.S. at 399-400, 43 S.Ct. at 627; see also Pierce, 268 U.S. at 535, 45 S.Ct. at 573-74.\nMoreover, it should be noted that these cases were decided in the 1920’s, before the Bill of Rights was incorporated into the Fourteenth Amendment, and would probably be decided today on First Amendment grounds. Rotunda & Nowak, Treatise on Constitutional Law: Substance and Procedure, § 21.7 (2d ed. 1992); Laurence H. Tribe, American Constitutional Law, § 15-6 at 1319-20 (1988) (suggesting that they reflect the First Amendment’s limit on the state’s ability to \"contract the spectrum of available knowledge”) (quoting Griswold v. Connecticut, 381 U.S. 479, 482, 85 S.Ct. 1678, 1680-81, 14 L.Ed.2d 510 (1965)).\n. Plaintiffs claim that Alfonso v. Fernández, 195 A.D.2d 46, 606 N.Y.S.2d 259 (2 Dept.1993), supports their position that they have a fundamental right to preclude the schools from teaching subjects that they find objectionable. The court in Alfonso did hold that the parental right to direct the upbringing of their children was fundamental and that it was violated by a program providing for condom distribution at a public high school. However, the court’s holding specifically distinguished the condom distribution program from exposure \"to talk or literature on the subject of sexual behavior,\" finding that the latter claim would “falter in the face of the public school’s role in preparing students for participation in a world replete with complex and controversial issues.” Id. 606 N.Y.S.2d at 266.\n. The Supreme Court has explained that a special situation pertains where a free exercise challenge is brought in conjunction with a substantive due process challenge involving the right of parents to direct the upbringing of their children. See Employment Div. v. Smith, 494 U.S. 872, 881-82, 110 S.Ct. 1595, 1601-02, 108 L.Ed.2d 876 (1990); Wisconsin v. Yoder, 406 U.S. 205, 233-34, 92 S.Ct. 1526, 1542-43, 32 L.Ed.2d 15 (1972). We therefore analyze this \"hybrid right” along with their free exercise challenge. See infra.\n. The plaintiffs also maintain that Mass.Ann. Laws ch. 71, § 1 (1995) confers a protected liberty interest. That statute grants a right to opt out from “instruction on disease” to students whose “sincerely held religious beliefs” conflict with such instruction. Defendants assume for the purposes of this appeal that Mass.Gen.L. ch. 71, § 1 is an alternative source for the claimed liberty interest.\n. Other circuits have interpreted the doctrine similarly. See Caine v. Hardy, 943 F.2d 1406, 1413 (5th Cir.1991) (en banc) (\"Zinermon thus requires a hard look at a Parratt/Hudson defense to determine whether the state officials’ conduct, under all the circumstances, could have been adequately foreseen and addressed by procedural safeguards.”); Easter House v. Felder, 910 F.2d 1387, 1402 (7th Cir.1990) (en banc), cert. denied, 498 U.S. 1067, 111 S.Ct. 783, 112 L.Ed.2d 846 (1991) (concluding that \"Zinermon holds only that predictable deprivations of liberty and property which flow from authorized conduct are compensable under § 1983\").\n. As the district court noted, although three defendants were members of the School Committee (which adopted the Sex Education Policy), the plaintiffs do not allege that these defendants, either individually or as a group, were authorized to circumvent a policy adopted and enacted by the School Committee as a whole.\n. At least one federal judge has argued that the Free Exercise Clause does not restrict the \"prerogative of school boards to set curricula,” concluding that school boards’ authority in such matters is bounded only by the Establishment Clause. Mozert v. Hawkins County Board of Education, 827 F.2d 1058, 1078-81 (6th Cir.1987) (Boggs, J., concurring).\n. Even assuming that RFRA created a retroactive cause of action for monetary damages, the plaintiffs' free exercise claim would nevertheless be analyzed under Smith because all the defendants' with the possible exception of the School Committee are protected by qualified immunity from monetary damages.\nAs we explained above, qualified immunity shields public officials from pecuniary liability unless they violated constitutional or statutory norms that were \"clearly established” at the time of the violation. Anderson v. Creighton, 483 U.S. 635, 639-40, 107 S.Ct. 3034, 3038-39, 97 L.Ed.2d 523 (1987); Harlow, 457 U.S. at 818, 102 S.Ct. at 2738.\nBecause the Program was staged in 1992, the standard set forth in Smith (rather than the less rigorous RFRA standard) must be employed to determine whether the defendants violated a clearly established right when they compelled the minor plaintiffs’ attendance at the Program. See Werner v. McCotter, 49 F.3d 1476, 1481-82 (10th Cir.), cert. denied-U.S. -, 115 S.Ct. 2625, 132 L.Ed.2d 866 (1995) (holding that prison officials were shielded from monetary damages because their acts did not constitute violation of clearly established rights under the Smith standard and the defendants could not be responsible for violations created by the change in the law); see also Young v. Lane, 922 F.2d 370, 378 (7th Cir.1991) (applying qualified immunity to damage claims for alleged free exercise deprivations).\n. We do not hold that a one-time episode is per se incapable of sustaining a hostile environment claim. The frequency of the alleged harassment is a significant factor, but only one of many to be considered in determining whether the conduct was \"sufficiently severe or pervasive\" that a reasonable person would find that it had rendered the environment hostile or abusive.",
+        "type": "majority",
+        "author": "TORRUELLA, Chief Judge."
+      }
+    ],
+    "attorneys": [
+      "John L. Roberts, Springfield, MA, for appellant.",
+      "John Foskett, Boston, MA, with whom Deutsch Williams Brooks DeRensis Holland & Drachman, P.C., Paul F. Degnan, Nancy Kirk, Kirby & Associates, Boston, MA, Mary L. Bonauto, Bennett H. Klein, Gay & Lesbian Advocates & Defenders, Boston, MA, Nei-la J. Straub, Salem, MA, and Straub & Meyers were on joint brief for appellees Chelms-ford School Committee, Wendy Marcks, Mary E. Frantz, Richard H. Moser, David S. Troughton, George J. Betses, Suzanne Lan-dolphi and Hot, Sexy & Safer Productions, Inc.; Frances S. Cohen, Boston, MA, with whom Monica L. Phillips, Hill & Barlow, Sarah Wunsch and Massachusetts Civil Liberties Union Foundation were on brief for appellees Michael Gilchrist and Judith Hass."
+    ],
+    "corrections": "",
+    "head_matter": "Ronald C. BROWN, et al., Plaintiffs-Appellants, v. HOT, SEXY AND SAFER PRODUCTIONS, INC., et al., Defendants-Appellees.\nNo. 95-1275.\nUnited States Court of Appeals, First Circuit.\nHeard Aug. 1, 1995.\nDecided Oct. 23, 1995.\nJohn L. Roberts, Springfield, MA, for appellant.\nJohn Foskett, Boston, MA, with whom Deutsch Williams Brooks DeRensis Holland & Drachman, P.C., Paul F. Degnan, Nancy Kirk, Kirby & Associates, Boston, MA, Mary L. Bonauto, Bennett H. Klein, Gay & Lesbian Advocates & Defenders, Boston, MA, Nei-la J. Straub, Salem, MA, and Straub & Meyers were on joint brief for appellees Chelms-ford School Committee, Wendy Marcks, Mary E. Frantz, Richard H. Moser, David S. Troughton, George J. Betses, Suzanne Lan-dolphi and Hot, Sexy & Safer Productions, Inc.; Frances S. Cohen, Boston, MA, with whom Monica L. Phillips, Hill & Barlow, Sarah Wunsch and Massachusetts Civil Liberties Union Foundation were on brief for appellees Michael Gilchrist and Judith Hass.\nBefore TORRUELLA, Chief Judge, STAHL, Circuit Judge, and DOMÍNGUEZ, District Judge.\nOf the District of Puerto Rico, sitting by designation."
+  },
+  "file_name": "0525-01",
+  "first_page_order": 631,
+  "last_page_order": 647
+}

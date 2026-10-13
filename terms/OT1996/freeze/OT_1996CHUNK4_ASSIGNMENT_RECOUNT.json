@@ -1,0 +1,236 @@
+{
+  "review": "Mechanical source tally only; eligibility, pool, form and reason require legal review.",
+  "new_events": [
+    {
+      "record": "FEC_v_Legi_Tech_merits_1997-02-18.md",
+      "date": "1997-02-18",
+      "case": "Federal Election Commission v. Legi-Tech, Inc.; D.C. Circuit Nos. 94-5379 and 95-5085, 75 F.3d 704; no separate Supreme Court docket supplied.",
+      "new": true,
+      "counted": true,
+      "authors": [
+        "Thomas"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 0,
+        "Stevens": 3,
+        "O'Connor": 8,
+        "Scalia": 3,
+        "Kennedy": 2,
+        "Souter": 6,
+        "Thomas": 0,
+        "Ginsburg": 3,
+        "Breyer": 0
+      },
+      "last_counted": "California_Division_of_Labor_Standards_Enforcement_v_Dillingham_merits_1997-02-18.md"
+    },
+    {
+      "record": "Uhlrig_v_Harder_merits_1997-02-18.md",
+      "date": "1997-02-18",
+      "case": "Uhlrig v. Harder; Tenth Circuit No. 94-3190, 64 F.3d 567; no separate Supreme Court docket supplied.",
+      "new": true,
+      "counted": true,
+      "authors": [
+        "Breyer"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 0,
+        "Stevens": 3,
+        "O'Connor": 9,
+        "Scalia": 3,
+        "Kennedy": 2,
+        "Souter": 8,
+        "Thomas": 1,
+        "Ginsburg": 3,
+        "Breyer": 0
+      },
+      "last_counted": "Robinson_v_Shell_Oil_merits_1997-02-18.md"
+    },
+    {
+      "record": "United_States_v_Brockamp_merits_1997-02-18.md",
+      "date": "1997-02-18",
+      "case": "United States v. Brockamp and United States v. Scott; No. 95-1225, one petition embracing Ninth Circuit judgments reported at 67 F.3d 260 and 70 F.3d 120.",
+      "new": true,
+      "counted": true,
+      "authors": [
+        "Breyer"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 0,
+        "Stevens": 3,
+        "O'Connor": 9,
+        "Scalia": 3,
+        "Kennedy": 2,
+        "Souter": 8,
+        "Thomas": 1,
+        "Ginsburg": 3,
+        "Breyer": 1
+      },
+      "last_counted": "Uhlrig_v_Harder_merits_1997-02-18.md"
+    },
+    {
+      "record": "Auer_v_Robbins_merits_1997-02-19.md",
+      "date": "1997-02-19",
+      "case": "Auer v. Robbins; No. 95-897.",
+      "new": true,
+      "counted": true,
+      "authors": [
+        "Kennedy"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 0,
+        "Stevens": 3,
+        "O'Connor": 9,
+        "Scalia": 3,
+        "Kennedy": 2,
+        "Souter": 8,
+        "Thomas": 1,
+        "Ginsburg": 3,
+        "Breyer": 2
+      },
+      "last_counted": "United_States_v_Brockamp_merits_1997-02-18.md"
+    },
+    {
+      "record": "Maryland_v_Wilson_merits_1997-02-19.md",
+      "date": "1997-02-19",
+      "case": "Maryland v. Wilson; No. 95-1268; OT1996, chunk 4.",
+      "new": true,
+      "counted": true,
+      "authors": [
+        "Thomas"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 0,
+        "Stevens": 3,
+        "O'Connor": 9,
+        "Scalia": 3,
+        "Kennedy": 3,
+        "Souter": 8,
+        "Thomas": 1,
+        "Ginsburg": 3,
+        "Breyer": 2
+      },
+      "last_counted": "Auer_v_Robbins_merits_1997-02-19.md"
+    },
+    {
+      "record": "Regents_v_Doe_merits_1997-02-19.md",
+      "date": "1997-02-19",
+      "case": "Regents of the University of California v. Doe; No. 95-1694; OT1996, chunk 4.",
+      "new": true,
+      "counted": true,
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 0,
+        "Stevens": 3,
+        "O'Connor": 9,
+        "Scalia": 3,
+        "Kennedy": 3,
+        "Souter": 8,
+        "Thomas": 2,
+        "Ginsburg": 3,
+        "Breyer": 2
+      },
+      "last_counted": "Maryland_v_Wilson_merits_1997-02-19.md"
+    },
+    {
+      "record": "Schenck_v_Pro_Choice_Network_merits_1997-02-19.md",
+      "date": "1997-02-19",
+      "case": "Schenck v. Pro-Choice Network of Western New York; No. 95-1065; OT1996, chunk 4.",
+      "new": true,
+      "counted": true,
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 1,
+        "Stevens": 3,
+        "O'Connor": 9,
+        "Scalia": 3,
+        "Kennedy": 3,
+        "Souter": 8,
+        "Thomas": 2,
+        "Ginsburg": 3,
+        "Breyer": 2
+      },
+      "last_counted": "Regents_v_Doe_merits_1997-02-19.md"
+    },
+    {
+      "record": "Brown_v_Hot_Sexy_Safer_Productions_merits_1997-02-24.md",
+      "date": "1997-02-24",
+      "case": "Brown v. Hot, Sexy & Safer Productions, Inc.; First Circuit No. 95-1275, 68 F.3d 525; no separate Supreme Court merits docket assigned; OT1996, chunk 4.",
+      "new": true,
+      "counted": true,
+      "authors": [
+        "Ginsburg"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 2,
+        "Stevens": 3,
+        "O'Connor": 9,
+        "Scalia": 3,
+        "Kennedy": 3,
+        "Souter": 8,
+        "Thomas": 2,
+        "Ginsburg": 3,
+        "Breyer": 2
+      },
+      "last_counted": "Schenck_v_Pro_Choice_Network_merits_1997-02-19.md"
+    },
+    {
+      "record": "Dunn_v_CFTC_merits_1997-02-25.md",
+      "date": "1997-02-25",
+      "case": "Dunn v. Commodity Futures Trading Commission; No. 95-1181.",
+      "new": true,
+      "counted": true,
+      "authors": [
+        "Scalia"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 2,
+        "Stevens": 3,
+        "O'Connor": 9,
+        "Scalia": 3,
+        "Kennedy": 3,
+        "Souter": 8,
+        "Thomas": 2,
+        "Ginsburg": 4,
+        "Breyer": 2
+      },
+      "last_counted": "Brown_v_Hot_Sexy_Safer_Productions_merits_1997-02-24.md"
+    },
+    {
+      "record": "United_States_v_Wells_merits_1997-02-26.md",
+      "date": "1997-02-26",
+      "case": "United States v. Wells; No. 95-1228; respondents Jerry E. Wells and Kenneth R. Steele.",
+      "new": true,
+      "counted": true,
+      "authors": [
+        "Thomas"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 2,
+        "Stevens": 3,
+        "O'Connor": 9,
+        "Scalia": 4,
+        "Kennedy": 3,
+        "Souter": 8,
+        "Thomas": 2,
+        "Ginsburg": 4,
+        "Breyer": 2
+      },
+      "last_counted": "Dunn_v_CFTC_merits_1997-02-25.md"
+    }
+  ],
+  "final_counts": {
+    "Stone-Zsela": 2,
+    "Stevens": 3,
+    "O'Connor": 9,
+    "Scalia": 4,
+    "Kennedy": 3,
+    "Souter": 8,
+    "Thomas": 3,
+    "Ginsburg": 4,
+    "Breyer": 2
+  }
+}

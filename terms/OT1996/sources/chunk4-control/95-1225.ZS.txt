@@ -1,0 +1,113 @@
+Source: https://www.law.cornell.edu/supct/html/95-1225.ZS.html
+
+window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+  
+	gtag('config', 'G-PDVVHXRDE6');
+window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+U.S. v. Brockamp, Administrator of the Estate of Mcgill, Deceased, 519 U.S. 347 (1997)
+LII
+Supreme Court
+U.S. v. Brockamp, Administrator of the Estate of Mcgill, Deceased (95-1225), 519 U.S. 347 (1997)
+Syllabus
+Opinion
+[ Breyer ]
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See
+United States
+v.
+Detroit Timber & Lumber
+ Co.,
+200
+ U.S. 321
+, 337.
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+UNITED STATES
+v.
+BROCKAMP,
+ administrator of the ESTATE OF McGILL, DECEASED
+certiorari to the united states
+ court of appeals for the ninth circuit
+No.
+95-1225
+.
+ Argued
+December 3, 1996
+-- Decided
+February 18, 1997
+[n.*]
+After the taxpayer in each of these cases paid the Internal Revenue
+ Service money he did not owe, he (or his representative) submitted an administrative
+ refund claim several years past the end of the applicable filing period
+ set forth in §6511 of the Internal Revenue Code of 1986. Each taxpayer
+ asked the court to extend the statutory period for an "equitable" reason,
+ namely that he had a mental disability (senility or alcoholism) that caused
+ the delay. Such a reason is not mentioned in §6511, but, in both cases,
+ the Ninth Circuit read the statute as if it contained an implied "equitable
+ tolling" exception. It then applied equity principles to each case, found
+ that those principles justified tolling the statutory period, and permitted
+ the actions to proceed.
+Held:
+Congress did not intend
+ the "equitable tolling" doctrine to apply to §6511's time (and related
+ amount) limitations for filing tax refund claims. The taxpayers misplace
+ their reliance on
+Irwin
+v.
+Department of Veterans Affairs,
+498
+ U.S. 89
+, 94-96. Even assuming, as they contend, that a tax refund suit
+ and a private restitution suit are sufficiently similar to warrant asking
+Irwin
+'s negatively phrased question--Is there good reason to believe
+ that Congress did
+not
+want the equitable tolling doctrine to apply
+ in a suit against the Government?--there are strong reasons for answering
+ that question in the Government's favor. Section 6511 sets forth its time
+ limitations in a highly detailed technical manner, reiterates them several
+ times indifferent ways, imposes substantive limitations, and sets forth
+ explicit exceptions to its basic time limits that do not include "equitable
+ tolling." To read such tolling into these provisions would require one
+ to assume an implied tolling exception virtually every time a number appears
+ in §6511, and would require the tolling of that section's substantive
+ limitations on the amount of recovery--a kind of tolling for which there
+ is no direct precedent. There are no counter indications of congressional
+ intent. Reading "equitable tolling" into the statute could create serious
+ administrative problems by forcing the IRS to respond to, and perhaps litigate,
+ large numbers of late claims. That fact suggests that, at the least, Congress
+ would likely have wanted to decide explicitly whether, or just where and
+ when, to expand the statute's limitations periods, rather than delegate
+ to the courts a generalized power to do so wherever it appears that equity
+ so requires. The taxpayers' counter rebuttal, consisting primarily of a
+ historical analysis of the tax refund provisions, actually helps the Government's
+ argument. Pp. 2-7.
+67 F. 3d 260
+and
+70 F. 3d 120
+, reversed.
+Breyer, J., delivered the opinion
+ for a unanimous Court.
+Notes
+*
+Together
+ with
+United States
+v.
+Scott,
+also on certiorari to the same
+ court.

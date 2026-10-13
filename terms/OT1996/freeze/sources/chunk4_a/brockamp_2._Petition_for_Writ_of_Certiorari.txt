@@ -1,0 +1,4214 @@
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+UNITED STATES OF AMERICA, PETITIONER 
+D. 
+
+
+MARIAN BROCKAMP, ADMINISTRATOR OF THE 
+ESTATE OF STANLEY B. MCGILL 
+
+
+UNITED STATES OF AMERICA, PETITIONER 
+vv. 
+
+
+NICHOLAS T. ScoTT 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+Drew S. Days, III 
+Solicitor General 
+LORETTA C. ARGRETT 
+Assistant Attorney General 
+LAWRENCE G. WALLACE 
+Deputy Solicitor General 
+KENT L. JONES 
+Assistant to the Solicitor 
+General 
+GILBERT S. ROTHENBERG 
+BRIDGET M. ROWAN 
+Attorneys 
+Department of Justice 
+Washington, D.C. 20520 
+(202) 514-2217 
+
+
+— — — — 
+
+
+QUESTION PRESENTED 
+
+
+Whether the doctrine of equitable tolling may be 
+applied to enlarge or suspend the statutory periods 
+that limit (i) the time in which a claim for refund of 
+income taxes may be filed (26 U.S.C. 6511(a)) and (ii) 
+the amount of any recovery upon a timely filed claim 
+(26 U.S.C. 6511(b)). 
+
+
+(I) 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+EL 1 
+, T 2 
+Statutory provisions involve 2 
+Statement: 
+A. Uiiited States v. Brocka@mp mg 4 
+V 10 
+Reasons for granting the petitioeor˖ nnn 11 
+V — — 21 
+r — 1a 
+. 17a 
+D TT Salina enreensnntuensncncncenccceee 3la 
+r siasatiastrintestiteisiensteenaceeenssasenenecesecseccesscncesccnsee 35a 
+e /7§/·ym/ —L——k —j— — 60a 
+TABLE OF AUTHORITIES 
+Cases: 
+American Pipe & Construction Co. v. Utah, 414 
+r 19 
+Bowen v. City of New York, 476 U.S. 467 (1986) ..... 19 
+Bull v. United States, 295 U.S. 247 (1935) .............. 15 
+Burnett v. New York Central R. R., 380 US. 42. 
+1 — 19 
+Capital Tracing, Inc. v. United States, 63 F 3d 859 
+EEE 18 
+Central Bank v. First Interstate Bank, 114 8. Ct. 
+r 18 
+First Alabama Bank, NVA. ». United States, 981 
+e 16 
+Girouard v. United States, 328 U.S. 61 (1946) ........ 18 
+Hallstrom v. Tillamook County, 498 U.S. 20 
+— eee 20 
+Honda v. Clark, 386 U.S. 484 (167 19 
+Irwin v. Department of Veterans Affairs, 498 US. 
+. 7, 12, 14, 17, 19 
+
+
+(IIT) 
+
+
+V 
+Cases—Continued: Page 
+
+J Liberty Glass Co., 332 U.S. 524 (1947) : 
+ones v. y 0., de US. 024 (1947) ....... 18 
+
+Kingston Products Corp. v. United States, 368 F.2d owe — 338 of Limitations, ‘ 
+fy: S00 2 ee 16 Ww — rr 
+
+Kreiger v. United States, 539 F.2d 317 (3d Cir. wa oe of (4th od. 1916) ............. * 
+— SHG RT PE 13, 14 
+
+Lampf, Pleva, Lipkind, Prupis & Petigrow v. 
+Gilbertson, 501 U.S. 350 (1991) q 12, 16 1 
+
+Miller v. United States, 38 F 3d 473 (9th Cir. 
+GEG) — — — 13 
+
+
+Oropallo v. United States, 994 F 2d 25 (ist Cir. 
+1993), cert. denied, 114 S. Ct. 705 (1994) ... 7, 8, 11, 12, 18 
+Republic Petroleum Corp. v. United States, 613 
+
+
+yt ff i). 3 a_i 16 
+Rosser v. United States, 9 F.3d 1519 (11th Cir. 
+SEED ccenesncrensednecininiliisnnninietetinatiititiiatedtactinieitiianiia 16 
+
+
+United States v. Dalm, 494 U.S. 596 (1990). 8, 11, 15, 17 
+Vintilla v. United States, 931 F.2d 1444 (11th Cir. 
+
+2 ee nN 9, 11, 16, 17 
+Webb v. United States: 
+
+850 F. Supp. 489 (E.D. Va. 1994), aff'd, 66 F.3d 691 
+
+
+1 —— . 8 9 
+
+66 F.3d 691 (4th Cir. 1995s 11, 13, 14, 15, 16, 18 
+Statutes: 
+Internal Revenue Code (26 U.S.C.): 
+
+1111 K 17 
+2 w ONY het passim 
+—— — 6. 8. 11. 12. 13. 15. 18 
+— 6, 7, 8, 12, 13, 15, 18-19 
+UU eS ae a 12, 16 
+DO RD — — 12 
+11;*˙ — — — 7. 12 
+$ 6511(d) (1988 & Supp. V 1988 16, 17 
+4. —A — — 4. 6. 11 
+
+
+In the Supreme Court of the United States 
+
+
+OctTower Term, 1995 
+
+
+No. 
+
+
+UNITED STATES OF AMERICA, PETITIONER 
+v. 
+
+
+MARIAN BROCKAMP, ADMINISTRATOR OF THE 
+ESTATE OF STANLEY B. Mea, 
+
+
+UNITED STATES OF AMERICA, PETITIONER 
+. 
+
+
+NICHOLAS T. Scorr 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+The Solicitor General, on behalf of the United 
+States of America, petitions for a writ of certiorari to 
+review the judgments of the United States Court of 
+Appeals for the Ninth Circuit in these two cases. See 
+Rule 12.4 of the Rules of this Court. 
+
+
+OPINIONS BELOW 
+1. The opinion of the court of appeals in United 
+States v. Brockamp (App., infra, la-16a) is reported at 
+67 F.3d 260. The opinion of the district court (App. 
+infra, 17a-30a) is reported at 859 F. Supp. 1283. 
+
+
+(1) 
+
+
+2 
+
+
+2. The opinion of the court of appeals in United 
+States v. Scott (App., infra, 3la-34a) is unreported, but 
+the decision is noted at 70 F.3d 120 (Table). The 
+opinions of the district court (App., infra, 35a-59a, 
+60a-76a) are reported at 795 F. Supp. 1028 and 847 F. 
+Supp. 1499. 
+
+JURISDICTION 
+
+The judgments of the court of appeals in United 
+States v. Brockamp (App., infra, la) and United 
+States v. Scott (App., infra, 3la) were entered on 
+October 5, 1995. On December 27, 1995, Justice 
+O’Connor extended the time within which to file a 
+petition for a writ of certiorari to and including 
+February 2, 1996. The jurisdiction of this Court is 
+invoked under 28 U.S.C. 1254(1). 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+1. Section 6511 of the Internal Revenue Code, 26 
+U.S.C, 6511, provides in relevant part: 
+
+
+(a) Period of limitation on filing claim.— 
+Claim for credit or refund of an overpayment of 
+any tax imposed by this title in respect of which 
+tax the taxpayer is required to file a return shall 
+be filed by the taxpayer within 3 years from the 
+time the return was filed or 2 years from the time 
+the tax was paid, whichever of such periods 
+expires the later, or if no return was filed by the 
+taxpayer, within 2 years from the time the tax 
+was paid. Claim for credit or refund of an overpay- 
+ment of any tax imposed by this title which is 
+required to be paid by means of a stamp shall be 
+filed by the taxpayer within 3 years from the time 
+the tax was paid. 
+
+
+(b) Limitation on allowance of credits and 
+refunds.— 
+
+
+(1) Filing of claim within prescribed 
+period.—-No credit or refund shall be allowed or 
+made after the expiration of the period of 
+limitation prescribed in subsection (a) for the 
+filing of a claim for credit or refund, unless a 
+claim for credit or refund is filed by the 
+taxpayer within such period. 
+
+
+(2) Limit on amount of credit or 
+refund.— 
+
+
+(A) Limit where claim filed within 
+3-year period.—If the claim was filed by 
+the taxpayer during the 3-year period pre- 
+scribed in subsection (a), the amount of the 
+credit or refund shall not exceed the portion 
+of the tax paid within the period, im- 
+mediately preceding the filing of the claim, 
+equal to 3 years plus the period of any 
+extension of time for filing the return. If 
+the tax was required to be paid by means of 
+a stamp, the amount of the credit or refund 
+shall not exceed the portion of the tax paid 
+within the 3 years immediately preceding 
+the filing of the claim. 
+
+(B) Limit where claim not filed 
+within 3-year period.—lIf the claim was 
+not filed within such 3-year period, the 
+amount of the credit or refund shall not 
+exceed the portion of the tax paid during the 
+2 years immediately preceding the filing of 
+the claim. 
+
+
+1 
+
+
+(C) Limit if no claim filed. If no 
+claim was filed, the credit or refund shall 
+not exceed the amount which would be 
+allowable under subparagraph (A) or (B), as 
+the case may be, if claim was filed on the 
+date the credit or refund is allowed. 
+
+
+„ 
+
+
+2. Section 7422(a) of the Internal Revenue Code, 26 
+U.S.C. 7422(a), provides: 
+
+
+No suit prior to filing claim for refund.—No 
+suit or proceeding shall be maintained in any 
+court for the recovery of any internal revenue tax 
+alleged to have been erroneously or illegally 
+assessed or collected, or of any penalty claimed to 
+have been collected without authority, or of any 
+sum alleged to have been excessive or in any 
+manner wrongfully collected, until a claim for 
+refund or credit has been duly filed with the 
+Secretary, according to the provisions of law in 
+that regard, and the regulations of the Secretary 
+established in pursuance thereof. 
+
+
+STATEMENT 
+
+
+A. United States v. Brockamp 
+
+
+1. Respondent Marian Brockamp is the admini- 
+strator and sole beneficiary of the estate of her 
+father, Stanley McGill. In 1984, Mr. McGill trans- 
+mitted $7000 to the Internal Revenue Service in 
+payment of income taxes for 1983. At the same time, 
+Mr. McGill submitted a request for an extension of 
+time for the filing of his return. He did not, however, 
+thereafter file an income tax return or a claim for 
+refund for the 1983 tax year. In 1984, McGill was 93 
+
+
+5 
+
+
+years old. According to respondent, he was “senile” 
+and “mentally deranged” at that time (App., infra, 
+18a-19a). 
+
+Mr. McGill died in 1988. After respondent was 
+appointed administrator of his estate, she wrote the 
+IRS to request a refund of the taxes that he paid for 
+1983. She stated that “her father had been senile and 
+had mistakenly sent a check for $7,000 instead of 
+$700” to the IRS (App., infra, 19a). Respondent sub- 
+mitted an income tax return for Mr. McGill for the 
+1983 tax year which indicated that his liability for 
+taxes for that year was $427 (ibid.). 
+
+The IRS denied the requested refund. The Service 
+noted that the taxes were paid “more than three years 
+prior to her claim” (App., infra, 19a) and that the 
+requested refund was therefore barred by Section 
+6511 of the Internal Revenue Code, 26 U.S.C. 6511. 
+
+2. Respondent thereafter commenced this tax re- 
+fund action in federal district court on behalf of the 
+estate. She contended (i) that the doctrine of 
+equitable tolling applies to the limitation periods for 
+income tax refunds under Section 6511 and (ii) that 
+the claimed mental incompetency of Mr. McGill is a 
+sufficient basis for equitable tolling to apply.“ 
+
+
+' Respondent also contended that the $7000 payment 
+made by Mr. McGill was only a “deposit”—and not a payment 
+of taxes—and was therefore not subject to the limitation 
+periods of Section 6511 (App., infra, 22a). The district court 
+rejected that contention, noting that At here is no evidence 
+that the check was intended as a deposit” (id. at 23a). The 
+court of appeals reversed the district court on other grounds 
+and therefore did not find it necessary to address respondent's 
+contention that the payment was a deposit.“ See id. at Sa n. 
+(Fernandez, J., dissenting). 
+
+
+6 
+
+
+The district court concluded that the doctrine of 
+equitable tolling does not apply to the statutory 
+limitations upon tax refund actions set forth in 
+Section 6511 of the Code. The court first noted (App., 
+infra, 20a) that Section 7422(a) of the Code specifies 
+that courts may not exercise jurisdiction over a tax 
+refund suit unless “a claim for refund or credit has 
+been duly filed with the Secretary, according to the 
+provisions of law in that regard” (26 U.S.C. 7422(a)). 
+The court observed that the applicable “provisions of 
+law” are contained in Section 6511(a), which provides 
+that a claim for refund must be filed (26 U.S.C. 
+6511(a)) 
+
+
+within 3 years from the time the return was filed 
+or 2 years from the time the tax was paid, 
+whichever of such periods expires the later, or if 
+no return was filed by the taxpayer, within 2 years 
+from the time the tax was paid. 
+
+
+Because the refund claim submitted by respondent 
+fell outside these statutory periods, the district court 
+concluded that it lacked jurisdiction over the suit 
+under Section 7422(a) (App., infra, 21a, 29a-30a). 
+
+The court further noted that, “[iJn addition to the 
+time limitations of Section 6511(a), Section 6511(b) 
+limits the amount of a refund recoverable by a 
+claimant” (App., infra, 21a (emphasis added)): 
+
+
+Specifically, if a person files a timely claim within 
+the three-year period mentioned in Section 
+6511(a), the amount of a refund is limited to 
+
+
+the portion of the tax paid within the period, 
+immediately preceding the filing of the claim, 
+equal to 3 years plus the period of any 
+extension of time for filing the return. 
+
+
+7 
+
+
+26 U.S.C. § 6511(b)(2)(A). If, however, a claim was 
+not timely filed within the three-year period 
+mentioned in Section 6511(a), the amount of 
+
+
+refund shall not exceed the portion of the tax 
+paid during the 2 years immediately pre- 
+ceding the filing of the claim. 
+
+
+26 U.S.C. § 6511 (b)(2)(B). * * * 
+
+
+The court explained that the provisions of Section 
+6511(b) that establish substantive limitations on the 
+amount of any refund—even on a timely filed claim— 
+are not subject to the doctrine of equitable tolling 
+(App., infra, 21a-22a, 27a-28a). 
+
+The district court noted that in Jrwin v. Depart- 
+ment of Veterans Affairs, 498 U.S. 89 (1990), this 
+Court “recognized that the courts have traditionally 
+declined to apply equitable principles in cases against 
+the government because waivers of sovereign immu- 
+nity are to be strictly construed” (App., infra, 25a, 
+citing 498 U.S. at 96-99). In Jrwin, however, the 
+Court “changed its approach to the issue of equitable 
+tolling against the government and held that” (App., 
+infra, 25a, quoting 498 U.S. at 95-96) 
+
+
+the same rebuttable presumption of equitable toll- 
+ing applicable to suits against private defendants 
+should also apply to suits against the United 
+States. 
+
+
+Several lower courts thereafter relied on Jrwin to 
+“extend[{] the doctrine of equitable tolling to tax 
+refund cases” (App., infra, 25a-27a, citing cases). The 
+district court concluded, however, that those deci- 
+sions were not correct. The court noted that in 
+Oropallo v. United States, 994 F.2d 25 (1993), cert. 
+denied, 114 S. Ct. 705 (1994), the First Circuit (in a 
+
+
+8 
+
+
+per curiam opinion joined by then-Judge Breyer) 
+concluded that the “rebuttable presumption” that 
+equitable tolling applies to suits against the govern- 
+ment is inapplicable to tax refund suits because the 
+“limitations imposed by Sections 6511(a) and (b) are 
+fundamentally inconsistent with the doctrine of 
+equitable tolling” (App., infra, 27a, citing 994 F.2d at 
+30-31). The district court also noted that in United 
+States v. Dalm, 494 U.S. 596 (1990), this Court held 
+that an equitable claim for recovery of a tax overpay- 
+ment was not exempt from the limitation periods of 
+Section 6511 (App., infra, 28a-29a, citing 494 U.S. at 
+610). 
+
+Applying the reasoning of Oropallo and Dalm, the 
+district court held that the periods of limitation on 
+refund claims and refund recoveries under Sections 
+651l(a) and (b) are not subject to the doctrine of 
+equitable tolling. Because the refund claim in this 
+case was filed outside those periods of limitation, the 
+court entered judgment for the government (App., 
+infra, 29a-30a). 
+
+3. The court of appeals reversed (App., infra, la- 
+8a), with Judge Fernandez dissenting (id. at 8a-16a). 
+The majority opinion stated that this Court’s decision 
+in Irwin “effectively limited the Dalm decision” and 
+“requires that, in the absence of congressional action, 
+statutes of limitation are, as a general rule, presumed 
+to be subject to equitable tolling in suits against the 
+United States” (id. at 5a). The court found nothing in 
+the text or history of Section 6511 to indicate “any 
+intention [by Congress] that equitable tolling should 
+not apply to § 6511” (ibid.). The court therefore con- 
+cluded that “the statute of limitations provided in 
+§ 6511 may be equitably tolled” (ibid.). 
+
+
+9 
+
+
+The court noted that, in contexts not involving tax 
+refund claims, “several post-Jrwin courts have held 
+that mental incompetence will toll statutes of limita- 
+tion in suits against the government” (App., infra, 7a, 
+citing cases). The court stated that it agreed with 
+those decisions because (id. at 8a) 
+
+
+plrineiples of equity mandate that when mental 
+incompetence precludes a person from asserting 
+his rights during the proper time period, he should 
+not be precluded from later seeking redress for his 
+injuries. 
+Because a “triable issue of fact [exists] as to Mr. 
+McGill’s mental incompetence,” the court of appeals 
+reversed the decision of the district court and re- 
+manded for further proceedings (ibid.). 
+
+Judge Fernandez dissented from the decision of the 
+court of appeals because “the principles of equitable 
+tolling cannot be applied to § 6511” (App., infra, 9a, 
+10a): 
+
+
+[Allthough Irwin creates a rebuttable presump- 
+tion of equitable tolling in most areas, Dalm 
+effectively rebuts that presumption because in it 
+the Supreme Court determined that principles of 
+equity would not be applied to toll § 6511. 
+
+
+2 Judge Fernandez noted that several other courts have 
+held that equitable tolling cannot apply to Section 6511. See 
+App., infra, 10a-lla, citing Vintilla v. United States, 931 F. 2d 
+1444, 1446-1447 (11th Cir. 1991); Webb v. United States, 850 F. 
+Supp. 489, 491-493 (E.D. Va. 1994), aff d, 66 F.3d 691 (4th Cir. 
+1995). The majority opinion in Brockamp did not address 
+those conflicting decisions. 
+
+
+10 
+
+
+Judge Fernandez further noted that (id. at 13a) 
+
+
+[als Oropallo, 994 F.2d at 27, pointed out, in addi- 
+tion to the limitations periods imposed by § 
+6511(a), subsection (b) of § 6511 places limits on the 
+amount of any refund a claimant may receive. 
+Under § 6511(b)’s provisions, [respondent] would 
+not be able to collect any refund even if her suit 
+were allowed to go forward under subsection (a) 
+because the gap between the time that her father 
+made the payments to the IRS and the time that 
+she filed the refund claim is too great. 
+
+
+B. United States v. Scott 
+
+
+1. Respondent Nicholas Scott made payments of 
+$30,096 for his 1984 tax liability. In 1989, respondent 
+filed a tax return for 1984 claiming that he had no tax 
+liability for 1984 and requesting a refund of the 
+amounts he had previously paid. The Internal Rev- 
+enue Service denied the requested refund because it 
+was untimely under Section 6511 of the Code (App., 
+infra, 32a). 
+
+Respondent then commenced this tax refund suit in 
+federal district court. The court concluded that the 
+doctrine of equitable tolling applies in tax refund 
+suits and that the limitations of Section 6511 should 
+be tolled in this case because respondent “was an 
+alcoholic whose alcoholism rendered him mentally 
+incompetent and unable to file a tax return from 
+January 1985 through November 1989” (App., infra, 
+33a). The court therefore entered judgment for 
+respondent. 
+
+2. The court of appeals affirmed, relying wholly 
+upon the decision entered on the same day by the 
+same panel in United States v. Brockamp (App., infra, 
+
+
+11 
+
+
+a. 34a)." See pages 8-9, supra. Judge Fernandez 
+again dissented, for the reasons set forth in his dis- 
+sent in the Brockamp case (App., infra, 34a). 
+
+
+REASONS FOR GRANTING THE PETITION 
+
+
+The decisions entered by the Ninth Circuit in 
+Brockamp and Scott conflict with the decision of the 
+First Circuit in Oropallo v. United States, 994 F.2d 
+25 (1993), cert. denied, 114 S. Ct. 705 (1994), of the 
+Fourth Circuit in Webb v. United States, 66 F.3d 691 
+(1995), and of the Eleventh Circuit in Vintilla v. 
+United States, 931 F.2d 1444 (1991). By holding that 
+the doctrine of equitable tolling may be applied to 
+suspend or enlarge the limitations upon tax refund 
+suits established by Congress in Section 6511 of the 
+Internal Revenue Code, the Ninth Circuit decisions 
+have created a conflict among the circuits on a recur- 
+ring issue of substantial administrative importance. 
+
+1. Section 6511(a) of the Internal Revenue Code 
+requires that a refund claim be filed within three 
+years from the filing of the return or within two 
+years from the time the tax was paid. 26 U.S.C. 
+6511(a). Compliance with that requirement is a con- 
+dition of the government's waiver of its sovereign 
+immunity. See 3 U.S.C. 7422(a); United States v. 
+Daim, 494 U.S. at 608 (citing cases). Moreover, “{i}n 
+addition to the time limitations of Section 6511(a), 
+Section 6511(b) limits the amount of a refund re- 
+coverable” on even a timely refund claim by specify- 
+ing that any such recovery is limited to the amount of 
+taxes paid in the three-year period preceding the 
+
+
+*  Brockamp and Scott were consolidated for argument in 
+the Ninth Circuit, and the decisions were entered by the same 
+panel on the same day. 
+
+
+12 
+
+
+filing of a claim for refund made within three years of 
+the return (26 U.S.C. 6511(b\2XA)) or, if no return 
+was filed, the two-year period preceding the filing of 
+the claim (26 U.S.C. 651 IWA (App., infra, 21a). 
+
+a. In Oropallo v. United States, the First Circuit 
+held that these statutory limitations on recovery in 
+tax refund cases “may not be equitably tolled.” 994 
+F.2d at 31. The court noted that Section 6511 con- 
+tains more than a simple statute of limitations upon 
+the filing of a refund claim (in Section 6511(a)); it also 
+contains, in Section 6511(b), a substantive “limit on 
+[the] amount of credit or refund” that may be paid on 
+even a timely refund claim. 994 F.2d at 30, quoting 26 
+U.S.C. 6511(b)2) (caption). The court observed that 
+the substantive limitations on recovery in Section 
+6511(b) establish “more clearly than a simple limita- 
+tions period would that Congress intended to 
+establish an outside limit on the recovery of refunds.” 
+994 F. 2d at 30 n.7. 
+
+
+which can be recovered, section 6511(b\2)A) lestab. 
+lishes] a ‘period of repose inconsistent with tolling“ 
+994 Fd at 31, quoting Lampf, Pleva, Lipkind, 
+
+
+13 
+
+
+b. In Webb v. United States, the Fourth Circuit 
+also held that the “rebuttable presumption” of 
+equitable tolling in suits against the government does 
+not apply to tax refund suits. 66 F.3d at 699. Webb 
+involved an elderly taxpayer who had been victimized 
+by the fraud of her advisors and whose refund claim 
+was first advanced by the administrator of her estate. 
+The Fourth Circuit noted that, prior to this Court's 
+decision in Irwin, “there would seemingly be no 
+question” that equitable tolling was inapplicable to 
+tax refund suits (id. at 694): 
+
+
+would be sufficiently elastic to allow stale claims against the 
+
+
+government. For example, a taxpayer theoretically could keep 
+the limitations period of Section lle open indefinitely 
+
+
+tions on the amount recoverable under Section 6511(b) express 
+a policy of finality and repose that is inconsistent with equitable 
+tolling. 
+
+The Ninth Circuit concluded in Miller v. United States, 
+38 F.3d 473 (1994), that the three-year rule of Section 651 l(a) is 
+
+
+Ninth Circuit in this case. 
+Prior to win, courts had rejected efforts to apply 
+doctrine of equitable tolling to tax refund 
+
+
+14 
+
+
+Because a statute of limitations is a condition on 
+the government's waiver of sovereign immunity 
+and thus must be “strictly observed,” Block [v. 
+North Dakota, 461 U.S. 273, 287 (1983)], courts 
+have traditionally declined to permit equitable 
+considerations to toll statutes of limitations in 
+cases against the United States. See, eg. 
+Soriano v. United States, 352 U.S. 270 (1957). 
+
+
+After Irwin was decided, however, the lower courts 
+have been “divided * * * as to whether the 
+rebuttable presumption of equitable tolling applies in 
+tax refund cases” (66 F.3d at 696). 
+
+In Webb, the court explained that equitable tolling 
+does not apply to tax refund suits for two essential 
+reasons. First, the court noted that Irwin extends 
+the rebuttable presumption of equitable tolling to 
+suits against the government only when such tolling 
+principles were already in place for similar suits 
+against private parties. The court stated that, in 
+Irwin, the Court sought to achieve “[ejqual treat- 
+ment of private and government defendants” by 
+ensuring that equitable tolling applies to suits 
+against the government “in the same way that it is 
+applicable to private suits” (66 F.3d at 696-697, 
+quoting Irwin v. Department of Veterans Affairs, 
+498 U.S. at 95 (emphasis added by court of appeals)). 
+The Fourth Circuit explained that, “{ujnlike tort 
+actions or em-ployment disputes, however, tax refund 
+cases cannot be brought against private litigants, nor 
+are they even comparable to suits that can be brought 
+against private litigants” (66 F.3d at 697). Noting 
+statutes of limitation applicable to suits against the government 
+
+
+are conditions attached to the sovereign’s consent to be sued 
+and must be strictly construed.” Id. at 320. 
+
+
+15 
+
+
+that taxes “are the life-blood of government” (id. at 
+698, quoting Bull v. United States, 295 U.S. 247, 259 
+(1935)), the court concluded that any assumption that 
+equitable tolling should apply to Sections 6511(a) and 
+(b) would not be based upon a realistic assessment of 
+legislative intent. The court therefore held that 
+“Irwin's rebuttable presumption of equitable tolling 
+is not applicable in tax refund suits” (66 F.3d at 699). 
+
+Second, the court held in Webb that “le]ven if 
+Irwin's presumption of equitable tolling were appli- 
+cable in tax refund suits, the taxpayers would still not 
+prevail here because that presumption is, in all 
+events, rebuttable and has effectively been rebutted 
+here” (66 F.3d at 699). In particular, the Fourth 
+Circuit agreed with the analysis of the First Circuit 
+in Oropallo that the combined time limitations of 
+Sections 6511 U and (b) are “inconsistent with 
+
+
+16 
+
+
+‘inconsistent with tolling’” (66 F.3d at 700, quoting 
+Lampf, Pleva, Lipkind, Prupis & Petigrow v. 
+Gilbertson, 501 U.S. at 363, and Orupallo v. United 
+States, 994 F. 2d at 30).’ 
+
+c. In Vintilla v. United States, 981 F.2d at 1446- 
+1447, the Eleventh Circuit also concluded that the 
+doctrine of equitable tolling does not apply to tax 
+refund suits.” The court first noted that it had long 
+held that “general principles of equity may not 
+override statutory requirements for timely filing of 
+tax refund claims.” Id. at 1446, quoting Republic 
+Petroleum Corp. v. United States, 613 F.2d 518, 527 
+(5th Cir. 1980), quoting Kingston Products Corp. v. 
+United States, 368 F.2d 281, 288 (Ct. Cl. 1966). The 
+court stated that its prior decisions were confirmed 
+by this Court's explanation in Dalm of “the reasoning 
+behind strict adherence to the limitations period in 
+tax refund suits” (931 F.2d at 1446). See also note 6, 
+supra. In particular, the court noted that Seetior 
+6511 contains a detailed scheme, with only limited 
+exceptions, that limits recovery against the United 
+States.” The court applied the reasoning of this 
+
+
+Judge Russell dissented in Webb. In his view, Inke 
+any statute of limitations, § 65110 b ) can be equitably tolled in 
+appropriate circumstances” (66 F 3d at 705). 
+
+
+* In two subsequent decisions, the Eleventh Circuit 
+
+
+See Rosser v. United States, 9 Fd 1519, 1523 
+
+(1993); First Alabama Bank, N.A. v. United States, 981 F.2d 
+1226, 1228 (1993). 
+
+Section 6511(d) of the Code extends the filing period for 
+
+claims for refund with respect to specific types of income tax 
+
+deductions and credits, none of which are involved in these 
+
+
+17 
+
+
+Court in Dalm, where the Court stated that a judicial 
+broadening of the specific statutory exceptions from 
+the limitations of Section 6511 “would be * little 
+more than [an] overriding [of] Congress’s judgment as 
+to when equity requires that there be an exception to 
+the limitations bar.” 931 F.2d at 1446-1447, quoting 
+United States v. Dalm, 494 U.S. at 610.“ 
+
+d. By contrast with these decisions of the First, 
+Fourth and Eleventh Circuits, the Ninth Circuit held 
+in Brockamp and Scott that Irwin “requires that, in 
+the absence of congressional action, statutes of limi- 
+tations are, as a general rule, presumed to be subject 
+to equitable tolling in suits against the United 
+States” (App., infra, 5a; see id. at 33a). Finding no 
+evidence in the text or history of Section 6511 to 
+
+
+cases. See 26 U.S.C. 6511(d) (1988 & Supp. V 1993). Congress 
+has also afforded relief from the limitations periods of Section 
+6511 in the so-called “mitigation provisions” of the Code, 26 
+U.S.C. 1311-1314. Those narrowly drawn provisions permit 
+otherwise untimely claims to be advanced in situations 
+involving inconsistent treatment of the same item in separate 
+tax years and in a various other specified contexts. See ibid. 
+In Vintilla, the court noted that Irwin was decided only 
+nine months after Dalm and did not purport to alter, or even 
+
+
+abrogate the requirement of “strict adherence to the limita- 
+
+
+tions period in tax refund suits (931 F.2d at 1446 & 1447 n.1). 
+The court also observed that /rwin had stated that the 
+principles of apply “in situations where the 
+
+
+18 
+
+
+establish “any intention [by Congress] that equitable 
+tolling should not apply to § 6511,” the court 
+concluded that the limitations contained in Section 
+6511(a) and (b) “may be equitably tolled” (App., infra, 
+Ha). In so holding, the court expressly disagreed 
+with the contrary analysis and conclusion of the 
+First Circuit in Oropallo v. United States, 994 F. 2d at 
+29-31. See App., infra, 5a-7a n. I; note 4, supra.” 
+
+In dissent, Judge Fernandez stated that he agreed 
+with the analysis adopted by the First Circuit in 
+Oropallo and would hold that equitable tolling is 
+inapplicable to tax refund suits under Section 6511(a). 
+He also noted that, under the provisions of Section 
+6511(b), a taxpayer whose claim is not filed within 
+
+
+The fact that, after Jrwin was decided, Congress “has 
+done nothing” (App., infra, 5a) to resolve whether the doctrine 
+of equitable tolling applies to tax refund statutes does not 
+support the view that equitable tolling applies to those statutes. 
+In Irwin, this Court, in adopting a rebuttable presumption, 
+obviously did not purport to resolve that issue for every statute 
+and also did not place on Congress the burden of thereafter 
+reviewing the entire United States Code to specify which 
+statutes are, and which are not, subject to equitable tolling. As 
+this Court has observed, “ [ijt is at best treacherous to find in 
+congressional silence alone the adoption of a controlling rule of 
+law.” Girouard v. United States, 328 U.S. 61, 69 (1946). See 
+also Central Bank v. First Interstate Bank, 114 8. Ct. 1439, 
+1452-1453 (1994) (rejecting notion that congressional inaction in 
+the face of prior judicial pronouncements is indicative of 
+congressional acquiescence in those prior pronouncements); 
+Jones v. Liberty Glass Co., 332 U.S. 524, 533-534 (1947) (same). 
+
+2 The court of appeals did not cite its earlier decision in 
+Capital Tracing, Inc. v. United States, 63 F.3d 859 (1995), 
+which concluded that the doctrine of equitable tolling applies in 
+a wrongful he vy suit brought against the government under 26 
+U.S.C. 7429. In Webb, the Fourth Circuit stated that it “d[id) 
+not find Capital Tracing persuasive” (66 F.3d at 698 n.3). 
+
+
+19 
+
+
+three years of her return or within two years of the 
+payment of the tax “would not be able to collect any 
+refund even if her suit were allowed to go forward 
+under [Section 6511(a)]” (App., infra, 13a). Judge 
+Fernandez noted that this substantive restriction on 
+the amount of refund for a timely claim is not subject 
+to the principles of equitable tolling (id. at 14a-15a).” 
+
+
+Whether viewed as a substantive rule of law limiting the 
+amount of a tax refund, or as a “statute of repose” that is not 
+subject to equitable tolling, Section 6511(b) of the Code ex- 
+presses a clear intent to restrict the amount of any tax refund 
+to that sum paid within the time periods that Congress 
+specified. This substantive limitation on the “amount” of 
+recovery is not subject to equitable modification by the courts. 
+The doctrine of equitable tolling is confined, by its terms, to 
+statutes of limitations. Suspension of a statute of limitations, 
+historically, could be sought when the plaintiff suffered a legal 
+disability that rendered a timely suit impossible. The dis- 
+abilities that constituted a basis for tolling were generally 
+limited to conditions such as childhood, insanity and imprison- 
+ment. See Developments in the Law—Statutes of Limitations, 
+63 Harv. L. Rev. 1177, 1229-1237 (1950); 2 Wood, Limitation of 
+Actions 1069-1217 (4th ed. 1916). In an appropriate case, the 
+doctrine of equitable tolling enables a plaintiff to obtain relief 
+from the strict application of the statutory deadline for 
+bringing his suit or claim. It has not, however, been extended 
+to alter the substantive terms of the statute under which the 
+plaintiff seeks relief. As this Court observed in Irin, it is the 
+“(t]ime requirements in lawsuits between private litigants” that 
+are subject to the doctrine of equitable tolling. 498 U.S. at 95 
+(emphasis added). In each instance that this Court considered 
+the doctrine, that premise has governed. See, e. g., Burnett v. 
+New York Central R.R., 380 U.S. 424, 426 (1965); Honda v. 
+Clark, 386 U.S. 484 (1967); American Pipe & Con-struction Co. 
+v. Utah, 414 U.S. 538, 558-559 (1974); Bowen v. City of New 
+York, 476 U.S. 467, 480 (1986). When a statutory condition 
+other than a period of limitations for a filing requirement was 
+at stake—such as limits on the amount of money recoverable— 
+
+
+20 
+
+
+- 21 
+2. The conflict among the circuits created by the 
+decision in this case concerns a recurring question of CONCLUSION 
+substantial administrative importance. Many tax- The petition for a writ of certiorari should be 
+
+
+payers undoubtedly suffer—or can later be claimed to granted. 
+have suffered—from diminished mental capacity to 8 
+some degree or another through age, disease, trauma Respectfully submitted. 
+
+
+or a multitude of other causes. The decisions of the 
+Drew S. Days, III 
+
+
+Ninth Circuit in the present cases provide a manifest Solicitor G ; 
+opportunity for recurring litigation of factual E 
+disputes involving the eireumstances that lead to Assistant Attorney General 
+untimely tax refund claims. As the substantial LAWRENCE G. WALLACE 
+volume of post-/rwin decisions concerning claims of Deputy Solicitor General 
+equitable tolling in tax refund cases reflects, the KENT L. JONES 
+legal issue presented in this case has already been the Assistant to the Solicitor 
+; ey General 
+
+subject of frequent litigation. 
+
+In the absence of a decision by this Court resolving — * —— 
+the conflict among the courts of appeals, the treat- Attorneys 
+ment afforded to taxpayers who claim an equitable 
+tolling of the statutory limitations upon tax refunds JANUARY 1996 
+
+
+will differ based solely upon geographic happenstance. 
+Resolution of this recurring issue is needed to avoid 
+continuing uncertainty and to assure even-handed 
+application of the revenue laws. 
+
+
+this Court has made clear that equitable tolling does not * 
+provide the claimant with relief from the statutory conditions. 
+See Hallstrom v. Tillamook County, 493 U.S. 20, 27 (1989) 
+(pre-lawsuit notification requirement not subject to equitable 
+tolling). 
+
+
+APPENDIX A 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+No. 94-56424 
+D.C. No. CV-93-04601-RSWL 
+
+
+MARIAN BROCKAMP, ADMINISTRATOR AND 
+SOLE RESIDUARY BENEFICIARY OF THE 
+ESTATE OF STANLEY B. MCGILL, DECEASED, 
+PLAINTIFF-APPELLANT 
+
+
+V. 
+
+
+UNITED STATES OF AMERICA, 
+DEFENDANT-APPELLEE 
+
+
+Appeal from the United States District Court 
+for the Centra! District of California 
+
+
+[Filed Oct. 5, 1995] 
+
+
+Before FLETCHER, WIGGINS, and FERNAN- 
+DEZ, Circuit Judges. 
+Ronald S.W. Lew, District Judge, Presiding. 
+
+
+(la) 
+
+
+2a 
+
+
+OPINION 
+WIGGINS, Circuit Judge: 
+
+
+Marian Brockamp, the administrator and sole 
+beneficiary of the estate of her father, Stanley B. 
+McGill, brought an action for a refand of his April 
+1984 income tax overpayment. The district court 
+granted summary judgment in favor of the United 
+States, holding that the suit was precluded by the 
+statute of limitations. We reverse and remand for 
+further proceedings on Mr. McGill’s mental incom- 
+petence. 
+
+BACKGROUND 
+
+
+In April 1984, Mr. McGill, who was 93 years old 
+at the time, mailed a check to the Internal Revenue 
+Service (“IRS”) for $7,000, along with an applica- 
+tion for an automatic extension of time to file his 
+1983 income tax return. He made no indication of 
+his reason for sending the $7,000. Despite his ex- 
+tension request, Mr. McGill never filed an income 
+tax return for 1983. More than two years later, on 
+July 15, 1986, the IRS transferred the $7,000 from 
+Mr. McGill’s account into an “Excess Collection Ac- 
+count.” 
+
+Mr. McGill died intestate on November 7, 1988 
+at the age of 98. During the administration of his 
+estate, Mrs. Brockamp discovered the $7,000 pay- 
+ment and requested a refund. In a letter to the IRS, 
+Mrs. Brockamp characterized her father as “senile” 
+and stated that he had mistakenly sent the check 
+for $7,000 rather than $700. On March 27, 1991, 
+Mrs. Brockamp filed a tax return for Mr. McGill’s 
+1983 tax liability. The IRS asessed $427 in taxes, 
+and refused Mrs. Brockamp’s refund request, based 
+
+
+3a 
+
+
+on the statute of limitations provided in I. R. C. 
+§ 6511. 
+
+On August 3, 1993, Mrs. Brockamp filed suit 
+against the United States seeking the return of the 
+money paid by Mr. McGill. She argued that (1) 
+the $7,000 check was a “deposit,” rather than a pay- 
+ment, and therefore was not subject to the time limi- 
+tations of § 6511, and (2) even if the $7,000 was a 
+payment, her refund claim was not barred because 
+the statute of limitations imposed by § 6511 was 
+equitably tolled due to Mr. McGill’s mental incom- 
+petence. The district court rejected both arguments. 
+It concluded that the $7,000 was a payment, that 
+equitable tolling never applies to tax refund cases, 
+and, therefore, that the claim was barred by the 
+statute of limitations. We conclude that equitable 
+tolling can apply to tax refund cases, and we there- 
+fore reverse. We remand to the district court for a 
+determination of Mr. McGill’s mental capacity dur- 
+ing the relevant time frame. 
+
+
+DISCUSSION 
+
+
+I. STANDARD OF REVIEW 
+
+
+A district court’s construction and interpretation 
+of the Internal Revenue Code is reviewed de novo. 
+Miller v. United States, 38 F.3d 473, 475 (9th Cir. 
+1994). 
+
+
+II. MERITS 
+
+
+A. Tax Refund Claims are Subject to Equitable 
+Tolling 
+
+
+I R. C. § 6511(a) provides that a claim for refund 
+of an overpayment must be filed within three years 
+
+
+4a 
+
+
+from the time the return was filed, or, if no return 
+was filed, within two years from the date the tax 
+was paid. The court lacks jurisdiction over a claim 
+that does not satisfy § 6511. United States v. Dalm, 
+494 U.S. 596, 602 (1989). Mrs. Brockamp obviously 
+cannot meet the two year deadline, as the tax was 
+paid in April 1984, and she did not file her refund 
+claim until March 1991. Nor can she meet the three 
+year deadline, because taxpayers who file returns 
+more than two years after their taxes are paid can- 
+not take advantage of the three year period follow- 
+ing the filing of a return. Miller v. United States, 38 
+F.3d 473, 475 (9th Cir. 1994). Therefore, § 6511 
+bars Mrs. Brockamp’s claim unless equitable tolling 
+applies to lift that bar. 
+
+
+The government relies on United States v. Dalm to 
+support its position that the principles of equitable 
+tolling cannot be applied to § 6511. In Dalm, the 
+Supreme Court considered whether equitable recoup- 
+ment could serve as an independent basis for fed- 
+eral jurisdiction where the statutory requirements 
+of § 6511 were not satisfied. The Court held that 
+the doctrine could not be applied to toll § 6511. Dalm, 
+494 U.S. at 611. 
+
+Nine months later, however, in Irwin v. Veterans 
+Admin., 489 U.S. 89 (1990), the Supreme Court de- 
+clared a new, general rule holding that “the same 
+rebuttable presumption of equitable tolling applica- 
+ble to suits against private defendants should also 
+apply to suits against the United States. Congress, of 
+course, may provide otherwise if it wishes to do so.” 
+Id. at 95-96 (Title VII action). In Irwin, the court 
+changed its method of evaluating the availability of 
+equitable tolling. Specifically, the court stated: 
+
+
+Sa 
+
+
+The continuing effort on our part to decide each 
+case on an ad hoc basis, as we appear to have 
+done in the past, would have the disadvantage of 
+continuing unpredictability without the corre- 
+sponding advantage of greater fidelity to the in- 
+tent of Congress. We think that this case affords 
+us an opportunity to adopt a more general rule 
+to govern the applicability of equitable tolling in 
+suits against the government. 
+Id. at 95 (emphasis added). We believe that this 
+language effectively limited the Dalm decision de- 
+scribed above. Irwin requires that, in the absence 
+of congressional action, statutes of limitations are, as 
+a general rule, presumed to be subject to equitable 
+tolling in suits against the United States. 
+
+
+Congress has never expressed any intention that 
+equitable tolling should not apply to § 6511. The spe- 
+cific language of the statute does not speak to the 
+application of equitable tolling principles. Addition- 
+ally, since the Supreme Court decided Irwin four 
+years ago, Congress has done nothing to indicate that 
+equitable tolling does not apply to § 6511. Further- 
+more, as the court in Johnsen v. United States noted, 
+the legislative history of § 6511 “is absolutely devoid 
+of any indication that Congress intended to preclude 
+such equitable tolling in tax refund actions.” 758 F. 
+Supp. 834, 835-36 (E.D.N.Y. 1991), quoted in Scott 
+v. United States, 795 F. Supp. 1028 (D.Haw. 1992). 
+We hold that in the absence of congressional action 
+that indicates to the contrary, the statute of limita- 
+tions provided in § 6511 may be equitably tolled.’ 
+
+
+The Supreme Court, in Lampf, Pleva, Lipkind, Prupis & 
+Petigrow v. Gilbertson, 501 U.S. 350, 363 (1991), held that 
+the one-and-three-year structure of §§ 9e) and 10(b) of the 
+Securities Exchange Act of 1934 was “fundamentally incon- 
+
+
+fa 
+
+
+We think that the facts as alleged by Mrs. Broc- 
+kamp demonstrate why equitable tolling should ap- 
+ply in some tax cases. In this instance, it would be 
+
+
+sistent” with the “venerable principle” of equitable tolling, 
+despite acknowledging that time limits are “customarily” 
+subject to such tolling. Jd. That is, the Court noted that 
+§9(e)’s one-year provision required only that suit be filed 
+within one year “after the discovery of the facts constituting 
+the violation” and, consequently, set no real limit on when suit 
+could be brought. Therefore, the three-year period also de- 
+scribed served as a definitive “cutoff.” Jd. The Court rea- 
+soned that this cutoff clearly meant to place an outside limit 
+on the open-ended one-year provision, and was convincing 
+evidence of congressional intent. Accordingly, the Court held 
+that “tolling principles do not apply to that period.” Id. 
+
+The First Circuit subsequently relied upon Lampf in hold- 
+ing that equitable tolling could not apply in tax cases. See 
+Oropallo v. United States, 994 F.2d 25 (ist Cir.1993). The 
+Oropallo court noted that in the First Circuit, § 6511(a)’s 
+time limitations are “totally illusory.” Id. at 30. It therefore 
+reasoned that the open-ended § 6511(a) was analogous to the 
+open-ended one-year provision of §9(e). The court then rea- 
+soned that the three-year “cut-off” provision of § 6511 (b) wae 
+analogous to the three-year provision of 59 (e), in that both 
+were definitive cut-offs meant to close the door on open-ended 
+provisions. Id. at 31. Therefore, the court concluded that 
+§ 6511, like the Securities Exchange Act, could not be equi- 
+tably tolled. Id. at 29-30. 
+
+Our circuit, however, has defined § 6511 (a) in such a way 
+that it is not, as it is in the First Circuit, an open-ended 
+provision analagous to § 9(e): 
+
+
+A two-year period for filing a claim is mandated by sec- 
+tion 6511 (a) in this case. 
+
+
+To hold that the filing of a return more than two years 
+after payment of taxes invokes the three-year period of 
+§ 6511(a) would reward strategic behavior on the part 
+of the taxpayers and create a discrepancy in limitations 
+
+
+7a 
+
+
+unconscionable to allow the government to retain 
+money that it concedes it was not owed, and may 
+have only received due to a 93 year-old man’s senil- 
+ity. We find Irwin to be controlling and hold that, 
+in the absence of congressional action, the principle 
+of equitable tolling applies to tax refund claims. 
+
+
+B. Mental Incompetence Tolls the Statute of Lim- 
+itations 
+
+In a prior case, we expressly left open the question 
+of whether mental incompetence can toll a statute 
+of limitations. See Atkins v. Union Pac. R.R., 685 
+F.2d 1146, 1148 (9th Cir. 1982). We have held, 
+however, that where “extraordinary circumstances 
+beyond plaintiffs’ control [make] it impossible to file 
+the claims on time,” equitable tolling applies. Seattle 
+Audubon Soc’y v. Robertson, 931 F.2d 590, 595 (9th 
+Cir. 1991). Recently, several post-Jrwin courts have 
+held that mental incompetence will toll statutes of 
+limitation in suits against the government. See, e. g., 
+Nunnally v. MacCausland, 996 F.2d 1, 4-5 (1st Cir. 
+1993); Wiltgen v. United States, 813 F. Supp. 1387, 
+1394-95 (N. D. Iowa 1992); Johnsen v. United States, 
+758 F. Supp. 834, 835-36 (E.D.N.Y. 1991). We now 
+
+
+periods that was not intended by the Internal Revenue 
+Code. 
+
+
+Miller, 38 F.3d at 475-76. Because in this circuit § 6511(a)’s 
+time limitation is not, as it is in the First Circuit, “totally 
+illusory,” § 6511(b) is not analogous to the three-year provi- 
+sion of § 9(e), either. In this circuit § 6511(b) does not close 
+the door on an open-ended provision, as it does in the First 
+Circuit. Because in this circuit §6511(a) and (b) are not 
+analagous to the one- and three-year provisions of § 9(e), we 
+are not constrained, as was Oropallo, to conclude that Lamp/ 
+precludes equitable tolling in tax cases. 
+
+
+ee 2 a. 
+
+
+join those courts and hold that mental incompetence 
+constitutes a ground for equitable tolling. Principles 
+of equity mandate that when mental incompetence 
+precludes a person from asserting his rights during 
+the proper time perod, he should not be precluded 
+from later seeking redress for his injuries. 
+
+Viewing the facts of this case in the light most 
+favorable to Mrs. Brockamp, there is a triable issue 
+of fact as to Mr. McGill’s mental incompetence. If 
+Mr. McGill is found to have been mentally incom- 
+petent when he made the overpayment, tolling will 
+allow Mrs. Brockamp to satisfy the statute of limi- 
+tations provided in § 6511. 
+
+
+CONCLUSION 
+
+
+We hold that equitable tolling principles apply to 
+tax refund cases. Further, we hold that mental in- 
+competence can be a ground for tolling a statute of 
+limitations. Accordingly, we reverse the district 
+court’s grant of summary judgment in favor of the 
+government, and remand for further proceedings re- 
+garding Mr. McGill’s mental competency. 
+
+
+FERNANDEZ, Circuit Judge, dissenting: 
+
+
+Under 26 U.S.C. §6511(a), Brockamp’s claim for 
+a refund of her father’s 1983 taxes was untimely. 
+See Miller v. United States, 38 F.3d 473, (9th Cir. 
+1994). Brockamp argues that even so the doctrine of 
+equitable tolling should operate to relieve her from 
+the time limitations of § 6511." 
+
+
+Another serious issue lurks in this case. Brockamp asserts 
+that the amount paid to the government was a “deposit” rather 
+than a “payment.” Because the issue is not addressed by the 
+majority and need not be, there is no reason for me to spill 
+ink over it. 
+
+
+9a 
+
+
+The Supreme Court has held that “the same re- 
+buttable presumption of equitable tolling applicable 
+to suits against private defendants should also ap- 
+ply to suits against the United States.” Jrwin v. 
+Veterans Admin., 498 U.S. 89, 95-96, 111 S. Ct. 453, 
+457, 112 L. Ed. 2d 435 (1990) (Title VII action). 
+At the same time, the Court has recognized that 
+equitable tolling is traditionally extended only “spar- 
+ingly,” in two limited circumstances not at issue 
+here.“ Id. at 96, 111 S. Ct. at 457-58; see also Scholar 
+v. Pacific Bell, 963 F.2d 264, 267-68 (9th Cir.) (not- 
+ing that equitable tolling is available in “extreme 
+cases” and has been applied “sparingly”), cert. 
+denied, ——-U.S. ——, 113 S. Ct. 196, 121 L. Ed. 2d 
+139 (1992). 
+
+Sparing or not, the principles of equitable tolling 
+cannot be applied to § 6511. In United States v. 
+Dalm, 494 U.S. 596, 110 S. Ct. 1361, 108 L. Ed. 2d 
+548 (1990), decided nine months before Irwin, the 
+Supreme Court held that the doctrine of equitable re- 
+coupment could not be applied to toll § 6511. The 
+Court was not willing to allow that equitable doc- 
+trine to, in effect, extend the time that a taxpayer 
+would have to apply for a refund of taxes. It ap- 
+provingly pointed out that in the earlier case of Bull 
+v. United States, 295 U.S. 247, 259, 55 S. Ct. 695, 
+699, 79 L. Ed. 1421 (1935), it had made it clear 
+that even reliance on an inconsistent assessment by 
+the Commissioner would not serve to “toll the statute 
+
+
+Those circumstances are “where the claimant has actively 
+pursued his judicial remedies by filing a defective pleading 
+during the statutory period, or where the complainant has 
+been induced or tricked by his adversary’s misconduct into 
+allowing the filing deadline to pass.“ Id. at 96, 111 S. Ct. at 
+458 (footnotes omitted). 
+
+
+10a 
+
+
+of limitations.” 494 U.S. at 607, 110 S. Ct. at 1367. 
+If the equitable recoupment principle was to apply at 
+all, it had to be on a ground other than tolling. 
+
+The Court’s holding applies with equal force to the 
+present attempt to toll the statute of limitations on 
+equitable grounds. Here, as there, the jurisdictional 
+bar of § 6511 would have to be lifted. See id. at 608, 
+110 S. Ct. at 1868. As the Court said, “unless a claim 
+for refund of a tax has been filed within the time 
+limits imposed by § 6511(a), a suit for refund, re- 
+gardless of whether the tax is alleged to have been 
+‘erroneously,’ ‘illegally,’ or ‘wrongfully collected,’ may 
+not be maintained in any court.” Jd. at 602, 110 S. 
+Ct. at 1365 (citations omitted). Moreover, Daim 
+was an appealing taxpayer. She had not failed to pay 
+her taxes or to file a return. But she was going to 
+oe required to pay twice. That was after the govern- 
+ment had even assessed penalties and interest with 
+respect to the gift taxes that it nearly conceded need 
+not have been paid at all because what it really 
+wanted was income taxes for the transaction. As the 
+dissent said, the Court, in effect, held that the statute 
+of limitations could not be tolled “by Government 
+conduct that [the] Court [had] censured as ‘im- 
+moral’ and tantamount to ‘a fraud on the taxpayer’s 
+rights.’” Id. at 612, 110 S. Ct. at 1370 (Stevens, J., 
+dissenting); see also Kolom v. United States, 791 
+F.2d 762, 768 (9th Cir. 1986). 
+
+Thus, although Irwin creates a rebuttable pre- 
+sumption of equitable tolling in most areas, Dalm ef- 
+fectively rebuts that presumption because in it the 
+Supreme Court determined that principles of equity 
+would not be applied to toll § 6511. Other courts have 
+recognized that. See, e.g., Vintilla v. United States, 
+931 F.2d 1444, 1446-47 & n.1 (11th Cir. 1991) (hold- 
+
+
+lla 
+
+
+ing that, together, Irwin and Dalm bar equitable toll- 
+ing of § 6511(a)); Webb v. United States, 850 F. 
+Supp. 489, 491-93 (E.D.Va. 1994) (invoking Dalm 
+and Irwin to hold that equitable tolling is inapplica- 
+ble in tax refund cases) 
+
+A different approach was taken in Oropallo v. 
+United States, 994 F.2d 25 (1st Cir. 1993) (per cu- 
+riam), cert. denied, —— U.S. ——, 114 S. Ct. 705, 
+126 L. Ed. 2d 671 (1994). The First Circuit held 
+that the provisions of § 6511 cannot be equitably 
+tolled, but it arrived at that conclusion by analogiz- 
+ing § 6511 to the provisions of the Securities Ex- 
+change Act of 1934 at issue in Lampf, Pleva, Lip- 
+kind, Prupis & Petigrow v. Gilbertson, 501 U.S. 350, 
+111 S. Ct. 2773, 115 L. Ed. 2d 321 (1991). Even 
+though under Irwin a rebuttable presumption of 
+equitable tolling applied, the Court in Lampf held 
+that the structure of the statutes at issue made clear 
+that Congress intended to foreclose resort to equity 
+to stretch the statutes’ time limitations. Lampf, 501 
+U.S. at 363-64, 111 S. Ct. at 2782. 
+
+In Oropallo, the First Circuit rested upon an anal- 
+ogy to Lampf instead of an analysis of Dalm because 
+it believed that Irwin had “changed [the Supreme 
+Court’s] approach to the issue of equitable tolling in 
+suits against the government” from what it had been 
+at the time of Dalm. 994 F.2d at 29. Lampf, accord- 
+ing to Oropallo, “altered” “the relevant analysis” yet 
+again. Id. 
+
+
+* But see First Interstate Bank v. United States, 874 F. 
+Supp. 286 (D. Nev. 1994) (appeal pending); Wiltgen v. United 
+States, 813 F. Supp. 1387 (N. D. Iowa 1992) ; Johnsen v. United 
+States, 758 F. Supp. 834 (E.D.N.Y. 1991), in which the courts 
+held that under /rwin, equitable tolling applies to § 6511 (a). 
+
+
+— — 
+
+
+12a 
+
+
+However, given that the three cases were decided 
+within thirteen months of each other, I believe that 
+they should be read together if they can be recon- 
+ciled.* Lampf expressly recognizes the rebuttable pre- 
+sumption principle of Irwin but holds that “the equi- 
+table tolling doctrine is fundamentally inconsistent” 
+with the provisions of the Securities Exchange Act at 
+issue. 501 U.S. at 363, 111 S. Ct. at 2782. Thus, 
+Lampf and Irwin are compatible. Likewise, Lampf, 
+Irwin and Dalm can be reconciled. Although Dalm 
+does not use rebuttable presumption language, it rec- 
+ognizes, as was the case with the statutes in Lampf 
+and their raison d’etre, that equitable tolling prin- 
+ciples are inconsistent with the foundational under- 
+pinnings of the Internal Revenue Code. See Webb, 
+850 F. Supp. at 492 (applying Dalm broadly). That 
+is because tax laws are “technical laws which are not 
+subject to general principles of equity.” Oropallo, 
+994 F.2d at 28 n.3 (citing Lewyt Corp. v. Commis- 
+sioner, 349 U.S. 237, 249, 75 S. Ct. 736, 744, 99 L. 
+Ed. 1029 (1955), and Ewing v. United States, 914 
+F.2d 499, 501 (4th Cir. 1990), cert. denied, 500 U.S. 
+905, 111 S. Ct. 1683, 114 L. Ed. 2d 78 (1991)). 
+
+
+The view that Irwin and Dalm complement each other—as 
+opposed to the assumption in Oropallo that Irwin superseded 
+Dalm— is also supported by the fact that in Dalm, Chief Jus- 
+tice Rehnquist and Justices Kennedy, White, Blackmun, O’Con- 
+nor, and Scalia were in the majority, while Justices Stevens, 
+Marshall and Brennan dissented. In Irwin, Justice Marshall 
+joined the majority (in a concurrence), Justice Stevens again 
+dissented, and Justice Souter, who had replaced Justice Bren- 
+nan, did not take part in the decision. For Jrwin to truly have 
+been intended to render Dalm obsolete (an unlikely proposi- 
+tion particularly given that Irin makes no mention of Dalm), 
+six justices would have had to have changed their positions 
+in the space of nine months. 
+
+
+Za 
+
+
+Finally, when Congress has included specific ex- 
+ceptions in a statute of limitations, we should not 
+readily read additional ones into it. See Rylewicz v. 
+Beaton Servs., Ltd., 888 F.2d 1175, 1181 (7th Cir. 
+1989) (holding [pre-Jrwin] that equitable tolling can- 
+not apply to the Fair Credit Reporting Act because 
+Congress explicitly delineated certain exceptions to 
+its statute of limitations, equitable tolling not among 
+them); ef. Dalm, 494 U.S. at 610, 110 S. Ct. at 1369; 
+Parks Sch. of Business, Inc. v. Symington, 51 F.3d 
+1480, 1484 (9th Cir. 1995). Section 6511(c) con- 
+tains an exception to the limitations period for those 
+who negotiate an agreement for an extension of time 
+with the IRS. Moreover, §§ 1311-1314 contain cer- 
+tain narrow “mitigation provisions” that extend the 
+limitations period in some circumstances. Because 
+Congress has specifically provided exceptions to the 
+time requirements of subsections 6511(a) and (b), 
+we should be chary of reading others into them, in- 
+cluding equitable tolling. 
+
+In short, because, as recognized by the Supreme 
+Court in Dalm, equitable principles are inconsistent 
+with the statutory scheme of the Internal Revenue 
+Code, I need not resort to a Lampf-style analysis in 
+order te conclude that the district court should be 
+affirmed. Nonetheless, Oropallo’s elucidation of §6511 
+compared with the statutes at issue in Lampf does 
+provide further support for my conclusion. 
+
+As Oropallo, 994 F.2d at 27, pointed out, in addi- 
+tion to the limitations periods imposed by § 6511(a), 
+subsection (b) of § 6511 places limits on the amount 
+of any refund a claimant may receive. Under § 6511 
+(b)’s provisions, Brockamp would not be able to 
+collect any refund even if her suit were allowed to 
+go forward under subsection (a) because the gap 
+
+
+14a 
+
+
+between the time that her father made the payments 
+to the IRS and the time that she filed the refund 
+claim is too great. 
+
+Brockamp argues, however, that equitable tolling 
+should also be applied to § 6511(b), which would 
+then allow her to collect the full amount of the re- 
+fund that she claims she is owed. Oropallo, 994 F.2d 
+at 30, likened the interaction of subsections 6511(a) 
+and (b) to the “l-and-3-year-structure” of the pro- 
+visions at issue in Lampf, which required that an ac- 
+tion under the Securities Exchange Act be brought 
+within one year after the discovery of facts consti- 
+tuting the cause of action and in no event later than 
+three years after the accrual of the cause of action. 
+See 15 U.S.C. § 78i(e). The three-year provision in 
+Lampf was found by the Court to be “a period of 
+repose inconsistent with tolling.” 501 U.S. at 363, 
+111 S. Ct. at 2782. As Oropallo recognized, the pro- 
+visions of § 6511(b) also operate as a period of re- 
+pose and impose an outside limit on recovery. See 
+generally Oropallo, 994 F.2d at 28-31. The provisions 
+of § 6511(b) were intended by Congress “to prevent 
+a taxpayer from extending the time for filing a claim 
+for the entire tax by making small payments from 
+time to time.” Snyder v. United States, 616 F.2d 
+1187, 1188 (10th Cir. 1980) (emphasis added) (cit- 
+ing S. Rep. No. 398, 68th Cong., Ist Sess. 33 
+(1924)). In other words, even though the subsec- 
+tion “clearly operates like à statute of limitations,” 
+it more clearly imposes a period of repose so that the 
+government may finally have closure as to particular 
+tax returns. Oropallo, 994 F.2d at 30 n.7. I cannot 
+say it better than the Court did in Rothensies v. Elec- 
+tric Battery Co., 329 U.S. 296, 301, 67 S. Ct. 271, 
+273, 91 L. Ed. 296 (1946) : - 
+
+
+15a 
+
+
+It probably would be all but intolerable, at 
+least Congress has regarded it as ill-advised, to 
+have an income tax system under which there 
+would never come a day of final settlement and 
+which required both the taxpayer and the Gov- 
+ernment to stand ready forever and a day to 
+produce vouchers, prove events, establish values 
+and recall details of all that goes into an in- 
+come tax contest. Hence a statute of limitation 
+is an almost indispensable element of fairness 
+as well as of practical administration of an in- 
+come tax policy. 
+
+
+Brockamp presents the appealing argument that 
+her aged father mistakenly remitted way too much 
+money when he applied for an extension of time to 
+file his income tax return for 1983. Basically, she 
+argues that it is unfair to apply the statute of limi- 
+tations to her. It is true that every statute of limita- 
+tions has at least a tinge of unfairness because it can 
+preclude the collection of past debts and the assertion 
+of just claims against a person who should give the 
+plaintiff recompense. That is why in a somewhat 
+gentler era than ours Hoffman wrote, “I will never 
+plead the Statute of Limitations when based on the 
+mere efflux of time; for if my client is conscious that 
+he owes the debt, and has no other defense than the 
+legal bar, he shall never make me a partner in his 
+Knavery.” 2 David Hoffman, A Course of Legal 
+Study 751 Resolution XII (2d ed. 1836). Thus, I am 
+not unsympathetic. 
+
+However, in the Internal Revenue Code Congress 
+has attempted to create a tesselated scheme which 
+assures that the government will receive needed rev- 
+enues and that those receipts can, after a time, be 
+
+
+l6a 
+
+
+counted upon as it supplies services to the nation. 
+Considering the complexity of the design, perfection 
+cannot be expected. Considering the vast extent of 
+the design and the numbers of people affected by it, 
+the special thoughts, intentions, needs, and circum- 
+stances of each taxpayer cannot always be accom- 
+modated. So it is here. 
+Therefore, I respectfully dissent. 
+
+
+17a 
+APPENDIX B 
+
+
+UNITED STATES DISTRICT COURT 
+CENTRAL DISTRICT CALIFORNIA 
+
+
+No. CV 93-4601-RSWL (Sx) 
+
+
+MARIAN BROCKAMP, ADMINISTRATOR AND 
+SoLE RESIDUARY BENEFICIARY OF THE 
+ESTATE OF STANLEY B. McGILL, 
+PLAINTIFF 
+
+
+v. 
+
+
+UNITED STATES OF AMERICA, 
+DEFENDANT 
+
+
+[Filed July 26, 1994] 
+
+
+ORDER 
+LEW, District Judge. 
+
+
+Plaintiff Marian Brockamp and Defendant United 
+States of America each move for summary judgment 
+regarding Plaintiff’s action for recovery of a federal 
+income tax refund. The central issue in this case is 
+whether the doctrine of equitable tolling applies to 
+tax refund cases. After reviewing the arguments 
+presented by both parties, this Court holds that equit- 
+able tolling does not apply in Plaintiff’s case. Accord- 
+
+
+18a 
+
+
+ingly, Plaintiff’s motion for summary judgment is 
+DENIED and Defendant’s motion for summary judg- 
+ment is GRANTED. 
+
+
+I. BACKGROUND 
+
+
+Plaintiff, Marian Brockamp, is the administrator 
+and sole beneficiary of the estate of her father, Stan- 
+ley B. McGill. On or about April 15, 1984, Stanley 
+McGill mailed to the Internal Revenue Service (IRS) 
+a check for $7,000 accompanied by an application for 
+automatic extension of time (Form 4868) to file his 
+1983 income tax return. At the time, Mr. McGill 
+was 93 years old and, according to Plaintiff, men- 
+tally deranged.” ' Mr. McGill did not indicate on the 
+check or elsewhere the purpose of the $7,000 check. 
+Despite Mr. McGill’s request for an extension of time, 
+he never filed an income tax return for the 1983 tax- 
+able year.“ On July 15, 1986, more than two years 
+after receiving the $7,000 check, the IRS transferred 
+the funds from Mr. McGill’s account into an “Excess 
+Collection Account.” 
+
+
+Mr. McGill died intestate on November 7, 1988 
+at the age of 98. His daughter, Plaintiff Marian 
+Brockamp, was appointed administrator of his estate 
+on January 4, 1989. During the administration of 
+the estate, Mrs. Brockamp discovered the $7,000 pay- 
+ment to the IRS and subsequently requested a refund. 
+
+
+In a letter to the IRS. Plaintiff also characterized Mr. 
+McGill as “senile.” 
+
+
+* Because Mr. McGill did not file a return or another request 
+for an extension of time, the IRS sent him delinquency notices 
+on December 15, 1984 and February 18, 1985. There is no 
+indication in the record that Mr. McGill responded to these 
+notices. 
+
+
+19a 
+
+
+In a handwritten letter dated March 13, 1991, Mrs. 
+Brockamp asked the IRS to refund the money be- 
+cause her father had been senile and had mistakenly 
+sent a check for $7,000 instead of $700. On March 
+27, 19$1, Mrs. Brockamp also filed a tax return for 
+Mr. McGill’s 1983 tax liability and the IRS assessed 
+$427.00 in taxes. On August 8, 1991, the IRS re- 
+jected Mrs. Brockamp’s request for a refund. The 
+IRS stated that she was not entitled to a refund be- 
+cause the $7,000 payment was made more than three 
+years prior to her claim. 
+
+On August 3, 1993, Mrs. Brockamp filed suit 
+against the United States seeking return of the funds 
+paid to the IRS by Mr. McGill. Plaintiff moves for 
+summary judgment against the United States by 
+arguing that the $7,000 check was a deposit as a 
+matter of law and should be returned to Mr. McGill’s 
+estate. Defendant, however, argues that the check 
+was not a deposit but a payment and the applicable 
+statute of limitations had run when Mrs. Brockamp 
+filed a claim for a refund. In addition, Defendant 
+contends that because the statute of limitations for 
+Plaintiff’s claim has expired and the doctrine of equi- 
+table tolling does not apply in this type of case, the 
+Court must grant its own motion for summary 
+judgment. 
+
+II. DISCUSSION 
+
+
+A. SUMMARY JUDGMENT 
+
+
+Summary judgment is appropriate when there is 
+no genuine issue of material fact and the moving 
+party is entitled to judgment as a mater of law. Fed. 
+R.Civ.P. 56. Where the moving party does not have 
+the burden of proof at trial on a dispositive issue, the 
+moving party may meet its burden for summary 
+
+
+20a 
+
+
+judgment by showing an “absence of evidence” to sup- 
+port the non-moving party’s case. Celotex v. Catrett, 
+477 U.S. 317, 325, 106 S.Ct. 2548, 2554, 91 L.Ed.2d 
+265 (1986). The non-moving party, on the other 
+hand, is required by FRCP 56(e) to go beyond the 
+pleadings and designate specific facts showing that 
+there is a genuine issue for trial. Id. at 324, 106 S.Ct. 
+at 2553. The non-moving party can meet this re- 
+quirement by presenting affidavits, depositions, an- 
+swers to interrogatories or admissions on file. Id. 
+Conclusory allegations unsupported by factual alle- 
+gations, however, are insufficient to create a triable 
+issue of fact so as to preclude summary judgment. 
+Exxon Corp. v. Fed. Trade Comm’n, 663 F.2d 120, 
+127 (D.C.Cir.1980). Furthermore, a non-moving 
+party who has the burden of proof at trial must pre- 
+sent enough evidence that a “fair-minded jury could 
+return a verdict for the (opposing party) on the 
+evidence presented.” Anderson v. Liberty Lobby, 477 
+U.S. 242, 255, 106 S.Ct. 2505, 2512, 91 L.Ed.2d 202 
+(1986). 
+
+
+B. JURISDICTION AND 26 U.S.C. § 6511 
+
+
+Federal district courts have jurisdiction over suits 
+against the United States “for the recovery of any 
+internal-revenue tax alleged to have been erroneously 
+or illegally assessed or collected. ... . ” 28 U.S.C. 
+§ 1346(a)(1). A district court may not entertain 
+a suit, however, unless “a claim for refund or credit 
+has been duly filed with the Secretary, according to 
+the provisions of law in that regard, and the regula- 
+tions of the Secretary established in pursuance 
+thereof.” 26 U.S.C. 57422 (a); see also Miller v. 
+United States, 949 F.2d 708, 712 (4th Cir.1991) 
+(stating that jurisdictional prerequisite is not waiv- 
+
+
+21a 
+
+
+able by the government). Most importantly, under 
+26 U.S.C. 5 6511 (a) a refund claim must be filed 
+within 3 years from the time the return was filed or 
+2 years from the time the tax was paid, whichever 
+of such periods expires the later, or if no return was 
+filed by the taxpayer, within 2 years from the time 
+the tax was paid. 26 U.S.C. 5 6511 (a). Thus, Sec- 
+tion 6511(a) distinguishes between taxpayers who 
+file returns and those who do not. See Oropallo v. 
+United States, 994 F.2d 25, 26 (Ist Cir.1993), cert. 
+denied, —— U.S. ——, 114 S.Ct. 705, 126 L.Ed.2d 
+671 (1994). Taxpayers who file returns have three 
+years from the time they filed their return or two 
+years from the time they paid their taxes to claim a 
+refund. Taxpayers who have not filed returns, on 
+the other hand, must file a claim for refund within 
+two years of the alleged overpayment. See 26 U.S.C. 
+§ 6511(a); Oropallo, 994 F.2d at 26. A refund cause 
+of action must be timely filed under one of the limita- 
+tions periods in Section 6511(a) for the district court 
+to obtain jurisdiction over the suit. See United States 
+v. Dalm, 494 U.S. 596, 607, 110 S.Ct. 1361, 1368, 108 
+L.Ed.2d 548. 
+
+In addition to the time limitations of Section 
+6511(a), Section 6511(b) limits the amount of a 
+refund recoverable by a claimant. Specifically, if a 
+person files a timely claim within the three-year 
+period mentioned in Section 6511(a), the amount of 
+a refund is limited to 
+
+
+the portion of the tax paid within the bina 
+immediately preceding the filing of the claim, 
+equal to 3 years plus the period of any extension 
+of time for filing the return. 
+
+
+oOo mn 
+
+
+22a 
+
+
+26 U.S.C. § 6511(b)(2)(A). If, however, a claim 
+was not timely filed within the three-year period men- 
+tioned in Section 6511(a), the amount of 
+
+
+refund shall not exceed the portion of the tax 
+paid during the 2 years immediately preceding 
+the filing of the claim. 
+
+
+26 U.S.C. § 6511(b)(2)(B). Thus, if a claim was 
+filed within three years of filing a return, Section 
+6511(b) explicitly forecloses any refund of taxes not 
+paid within the three-year period preceding the date 
+the claim for refund was filed. Section 6511(b) es- 
+tablishes an additional limitations period separate 
+from the three-year time limitation period in Section 
+6511(a). See Oropallo, 994 F.2d at 27; see also Mills 
+v. United States, 805 F.Supp. 448, 450 (E.D.Tex. 
+1992). In addition, if a return was not filed within 
+the three-year period described in Section 6511(a), 
+Section 6511(b) specifically precludes the refund of 
+payments made before the two years preceding the 
+date of the claim for refund. If, however, the remit- 
+tance is not considered a “payment,” the restrictions 
+mandated under Sections 6511(a) and 6511(b) (2) 
+do not apply. 
+
+
+C. WHETHER MR. MCGILL’S CHECK WAS 
+A PAYMENT OR DEPOSIT 
+
+
+Plaintiff contends that the $7,000 check sent to the 
+IRS is a “deposit” and is therefore not subject to the 
+limitations period codified in Section 651l(a). Pri- 
+marily, Plaintiff argues that because the IRS never 
+made an assessment of the taxes owed by Mr. McGill, 
+the $7,000 check was treated as a deposit and is not 
+subject to Section 6511(a). Plaintiff's argument, 
+however, is unavailing. Although the mere transfer 
+
+
+23a 
+
+
+of money by a taxpayer is insufficient to classify the 
+remittance as a payment, see United States v. Du- 
+buque Packing Co., 233 F.2d 453, 459 (8th Cir.1956) 
+(not every transfer of money by a taxpayer to a 
+Federal tax authority will constitute a ‘payment’... 
+Some further act is necessary”), Mr. McGill’s check 
+was accompanied by an application for extension of 
+time to file his 1983 tax return. Absent a designation 
+by the taxpayer, a remittance with an application for 
+extension of time to file a return is deemed a pay- 
+ment. See 26 U.S.C. §615l(a) (“Except as other- 
+wise provided.. . when a return of tax is required 
+.. the taxpayer shall “pay such tax.. at the time 
+and place fixed for filing the return (determined 
+without regard to any extension of time for filing 
+the return).“); Ehle v. United States, 720 F.2d 1096, 
+1097 (9th Cir.1983); Rose v. United States, 256 F.2d 
+223, 226 (3d Cir. 1958). In England v. United States, 
+760 F.Supp. 186 (D.Kan.1991), the court held that 
+as a matter of law, remittances accompanied with an 
+IRS Form 4868 application for extension are pay- 
+ments of estimated tax which are subject to the stat- 
+ute of limitations under Section 651l(a). But see 
+Risman v. Comm'r of Internal Revenue, 100 T. C. 191, 
+199, 1993 WL 72856 (U.S.T.C.1993) (criticizing 
+holding in England that filing of Form 4868 with re- 
+mittance is automatically deemed an estimated pay- 
+ment). Similarly, in the present case Mr. McGill 
+mailed a check for $7,000 accompanied with an ap- 
+plication for a filing extension. There is no evidence 
+that- the check was intended as a deposit. Under the 
+applicable IRS regulations, Mr. McGill was required 
+to submit an estimated tax payment in order to avoid 
+subsequent penalties. Thus, as the court in England 
+held, the remittance of a check along with a request 
+
+
+24a 
+
+
+for an extension of time is deemed a payment as a 
+matter of law. 
+
+
+D. WHETHER THE DOCTRINE OF EQUIT- 
+ABLE TOLLING APPLIES TO PLAIN- 
+TIFF’S CASE 
+
+
+As stated previously, a taxpayer must file a claim 
+for refund with the IRS within three years of the 
+date the return is filed or within two years of the 
+date the tax is paid, whichever is later. 26 U.S.C. 
+§ 6511(a). In the present case, Mr. McGill sent the 
+$7,000 check on or about April 15, 1984. Plaintiff 
+then filed a refund claim nearly seven years later 
+on March 13, 1991. Thus, Plaintiff’s claim for re- 
+fund was untimely because it was filed more than 
+two years after the alleged overpayment was made 
+by Mr. McGill.* 
+
+Although her claim was untimely, Plaintiff argues 
+that the statute of limitations imposed by Section 
+6511(a) was equitably tolled because of Mr. McGill’s 
+mental incapacity. Defendant, however, contends 
+that the prevailing case authority holds that equit- 
+able tolling is not applicable to tax refund cases and 
+therefore Plaintiff’s claim is barred by the statute of 
+limitations. Accordingly, Defendant contends that 
+
+
+At the time Plaintiff had filed the claim for refund, the 
+IRS had not received a return for Mr. McGill’s 1983 taxable 
+year. Plaintiff submitted a return several days after making 
+a claim for refund on March 27, 1991. Thus, the applicable 
+time period under Section 6511(a) is the two year limitation 
+for taxpayers who have not filed a tax return. Nevertheless, 
+if the court were to find the late filing of Mr. McGill’s tax 
+return as the operative date Section 6511(b) would still pre- 
+clude any recovery by Plaintiff. 
+
+
+25a 
+
+
+this Court is without subject matter jurisdiction over 
+Plaintiff’s claim for a refund. 
+
+In support of the position that equitable tolling is 
+applicable to her case, Plaintiff primarily relies on 
+the Supreme Court’s decision in Irwin v. Veterans 
+Affairs, 498 U.S. 89, 111 S.Ct. 453, 112 L.Ed.2d 435 
+(1990). In Irwin, the Supreme Court recognized 
+that the courts have traditionally declined to apply 
+equitable principles in cases against the government 
+because waivers of sovereign immunity are to be 
+strictly construed. Irwin, 498 U.S. at 96-99, 111 
+S.Ct. at 458-59; see Oropallo, 994 F.2d at 28; see, 
+e.g., Ellis v. United States, 229 Ct.Cl. 814 (1982); 
+Stepka v. United States, 196 F.Supp. 184, 185 
+(E.D.N.Y.1961). The Court in Irwin, however, 
+changed its approach to the issue of equitable tolling 
+against the government and held that 
+
+
+the same rebuttable presumption of equitable 
+tolling applicable to suits against private de- 
+fendants should also apply to suits against the 
+United States. 
+
+
+Irwin, 498 U.S. at 95-96, 111 S.Ct. at 457. Conse- 
+quently, the Court in Irwin adopted “a more general 
+rule to govern the applicability of equitable tolling 
+in suits against the Government.“ Id. 
+
+
+* The Supreme Court granted certiorari “to determine when 
+the 30-day period under [42 U.S.C. § 2000e-16(c)] begins to 
+run and to resolve the Circuit conflict over whether late-filed 
+claims [under § 2000e-16(c)] are jurisdictionally barred.” 
+Irwin, 498 U.S. at 92, 111 S.Ct. at 455. Thus, unlike the pres- 
+ent case, the case in Irwin involved a Title VII discrimination 
+suit. 
+
+
+26a 
+
+
+By relying on Irwin, several lower courts have ex- 
+tended the doctrine of equitable tolling to tax refund 
+cases. For example, in Scott v. United States, 795 
+F.Supp. 1028 (D.Haw.1992), the plaintiff filed a tax 
+refund suit after the IRS denied his request for a 
+refund. The IRS asserted that the claim was un- 
+timely under 26 U.S.C. § 6511. Id. at 1030. The 
+plaintiff conceded that the refund claim was untimely 
+but argued that his mental W equitably 
+tolled the statute of limitations. /d. e govern- 
+ment moved to dismiss the plaintiff's cause of action 
+by arguing that the court lacked subject matter juris- 
+diction over the case. Id. The district court, however, 
+_ denied the government’s motion and found that It he 
+Irwin Court recognized that the statute of limitations 
+may be equitably tolled even where the statute of 
+limitations is a prerequisite to federal court jurisdic- 
+tion... . Id. at 1031. Noting that Irwin involved 
+an untimely Title VII claim, the court in Scott never- 
+theless held that “the reasoning in [Irwin] applies 
+with equal force to untimely tax claims.” Id. at 1031. 
+
+In addition to the district court’s decision in Scott, 
+several other lower courts have extended the doctrine 
+of equitable tolling to tax cases. See, e.g., First Ala- 
+bama Bank v. United States, 981 F.2d 1226, 1228 
+(11th Cir.1993) (assuming under Irwin that “the 
+statute of limitations governing tax refund suits 
+may under some circumstances be equitably tolled”) ; 
+Wiltgen v. United States, 813 F.Supp. 1387 (N. D. 
+Iowa 1992) (relying on /rwin in applying equitable 
+tolling to tax refund claim); Johnsen v. United 
+States, 758 F.Supp. 834, 835 (E.D.N.Y.1991) 
+(same). Plaintiff relies on the Supreme Court’s state- 
+
+
+27a 
+
+
+ment in Irwin and the post-/rwin cases extending 
+the equitable tolling doctrine to tax cases in opposi- 
+tion to Defendant’s motion for summary judgment. 
+Despite these cases, however, the more recent weight 
+of authority rejects the application of equitable tolling 
+in tax refund cases. 
+
+
+E. Oropallo v. United States 
+
+
+In Oropallo vy. United States, 994 F.2d 25 (1st 
+Cir. 1993), cert. denied, —— U.S. ——, 114 S.Ct. 
+705, 126 L.Ed.2d 671 (1994), the First Circuit con- 
+ducted a thorough analysis of whether equitable toll- 
+ing applies to tax refund claims in light of Irwin and 
+the Supreme Court’s more recent decision in Lampf, 
+Pleva, Lipkind, Prupis & Petigrow v. Gilbertson, 501 
+U.S. 350, 111 S.Ct. 2773, 115 L.Ed.2d 321 (1991). 
+Recognizing that /rwin extended equitable principles 
+to cases against the government, the First Circuit 
+concluded that the Supreme Court’s decision in 
+Lampf, rejecting equitable tolling for suits under 
+the securities laws, altered the Court’s analysis. Oro- 
+pallo, 994 F.2d at 30-31. The Court in Oropallo 
+found that the limitations imposed by Sections 6511 
+(a) and (b) are fundamentally inconsistent with the 
+doctrine of equitable tolling. /d. Consequently, Oro- 
+pallo held that Section 6511(a), which limits re- 
+funds recoverable to the amount of tax paid in the 
+‘three-year period immediately preceding the filing of 
+a claim, may not be equitably tolled. Id. at 28. 
+
+In Oropallo, a taxpayer discovered he had overpaid 
+his taxes by $698.00 and sought a refund nearly 8 
+years later, which the IRS rejected as untimely. Id. 
+at 25. The taxpayer filed suit against the govern- 
+ment, arguing that the limitations period of Section 
+
+
+28a 
+
+
+6511 should be equitably tolled due to his incarcera- 
+tion and alleged carbon monoxide poisoning, which 
+rendered him incapacitated for several years subse- 
+quent to the tax overpayment. Id. The Court of Ap- 
+peals, however, rejected his claim, stating that “the 
+three-year period in section 6511(a) gives the tax- 
+payer ample time to file a refund claim, and there 
+is no need to toll that period.“ Id. at 30. The court 
+further found that, except in clearly unique situa- 
+tions which did not apply here, the limitations period 
+in Section 6511 have not heen equitably tolled. Id. 
+at 28. The time limitation of Section 6511 is ‘in- 
+flexible’ and so not tolled by the taxpayer’s mental 
+incompetency; there are only ‘rare exceptions’ to the 
+‘rigid prevailing rule[] that such statutes of limita- 
+tions cannot be extended in any circumstances,’ ¢.g., 
+the prisoner of war or fraud situation. Id. (quoting 
+Stepka v. United States, 196 F.Supp. 184, 185 
+(E.D.N.Y.1961) (finding that no exception to the 
+time limit should be made because of mental in- 
+competency ) ). 
+
+Oropallo is similar to the present case. Here, 
+Plaintiff discovered the tax over-payment and sought 
+a refund seven years later. Like the plaintiff in 
+Oropallo, Plaintiff here argues equitable tolling 
+should apply given her fathers incapacitation. Plain- 
+tiff’s argument that her father was “mentally de- 
+ranged and senile, however, fails to meet the “clearly 
+unique exception which may allow equitable tolling to 
+apply. Oropallo, 994 F.2d at 28. 
+
+
+F. Dalm v. United States 
+
+
+In United States v. Dalm, 494 U.S. 596, 110 S.Ct. 
+1361, 108 L.Ed.2d 548 (1990), the Supreme Court 
+
+
+29a 
+
+
+considered the issue of whether the doctrine of equi- 
+table tolling provided a jurisdictional basis for in- 
+dependent suits to recover a gift tax refund, after 
+che time for filing had expired. Holding that the dis- 
+trict court lacked jurisdiction over the refund suit, 
+the court stated: 
+
+
+[U]nless a claim for refund of a tax has 
+been filed within the time limits imposed by 
+§651l(a), a suit for refund, regardless of 
+whether the tax is alleged to have been ‘errone- 
+ously,’ ‘illegally,’ or ‘wrongfully collected“ 
+may not be maintained in any court. 
+
+
+Id. at 602, 110 S.Ct. at 1365 (citing United States 
+v. Kales, 314 U.S. 186, 193, 62 S.Ct. 214, 217, 86 
+L.Ed. 132 (1941)). The fact that a taxpayer does 
+not learn until after the limitations period has run 
+that the tax was paid in error, and that he or she has 
+ground upon which to claim a refund, does not op- 
+erate to lift the limitations bar. Dalm, 494 U.S. at 
+607-11, 110 S.Ct. at 1367-69. The court stated: 
+“were we to allow her to maintain a suit for refund 
+on the basis of equitable recoupment, we would be 
+doing little more than overriding Congress’ judgment 
+as to when equity requires that there be an exception 
+to the limitations bar.” Id. at 610, 110 S.Ct. at 1369. 
+
+
+The present case is also similar to Dalm, where 
+a taxpayer sought a gift tax refund seven years 
+later, even though she was required to file her claim 
+within three years of when the original return was 
+filed. In rejecting her claim, the Supreme Court 
+found that the doctrine of equitable recoupment will 
+not provide jurisdictional basis for independent suits 
+against the Government, after the time for filing a 
+
+
+ö 
+
+
+30a 
+
+
+refund claim has expired. Id. at 604-07, 110 S.Ct. 
+at 1365-67. Applying the Court’s analysis in Oro- 
+pallo and Dalm to the present case, this Court holds 
+that the doctrine of equitable tolling is inapplicable 
+and summary judgment in favor of Defendant is 
+appropriate. Accordingly, the Court hereby GRANTS 
+Defendant’s motion for summary judgment and DE- 
+NIES Plaintiff's motion for summary judgment. 
+
+The Court hereby incorporates Defendant’s State- 
+ment of Uncontroverted Facts and Conclusions of 
+Law. 
+
+
+IT IS SO ORDERED. 
+
+
+3la 
+APPENDIX C 
+Filed Oct. 5, 1995 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+No. 94-15321 
+
+
+D.C. No. CV-92-00011-ACK 
+NICHOLAS T. SCOTT, PLAINTIFF-APPELLEE 
+
+
+. 
+UNITED STATES OF AMERICA, DEFENDANT-APPELLANT 
+
+
+No. 94-15323 
+D.C. No. CV-92-00011-ACK 
+
+
+NICHOLAS T. Scorr, 
+PLAINTIFF-APPELLEE/YCROSS-APpPELLANT 
+
+
+V. 
+
+
+UNITED STATES OF AMERICA; 
+IRS, Director, 
+DEFENDANTS-APPELLANTS/CROSS-APPELLEES 
+
+
+Appeal from the United States District Court 
+for the District of Hawaii 
+Alan C. Kay, District Judge, Presiding 
+
+
+Argued and Submitted June 5, 1995 
+Pasadena, California 
+
+
+32a 
+
+
+MEMORANDUM * 
+
+
+Before: FLETCHER, WIGGINS, FERNANDEZ, 
+Circuit Judges 
+
+
+BACKGROUND 
+
+
+In the early 1980s, Nicholas Scott began to experi- 
+ence severe difficulties resulting from his alcohol 
+abuse, including multiple citations for driving under 
+the influence of alcohol and the loss of his job. He 
+turned over power of attorney for his financial af- 
+fairs to his father. In 1984, pursuant to the power 
+of attorney, Mr. Scott’s father made a number of 
+federal tax deposits on Mr. Scott’s behalf. Then, 
+after Mr. Scott revoked the power of attorney, he 
+himself made a final estimated tax payment in Jan- 
+uary 1985. Altogether, the payments made toward 
+Mr. Scott’s 1984 taxes totaled $30,096. In actuality, 
+Mr. Scott had no tax liability that year. 
+
+Mr. Scott filed tax returns for the 1984-88 tax 
+years on November 29, 1989 and claimed a refund of 
+$30,096 plus interest. The Internal Revenue Service 
+(“IRS”) disallowed Mr. Scott’s refund claim due to 
+the expiration of the statute of limitations for filing 
+a claim based on 26 U.S.C. § 6511. Mr. Scott subse- 
+quently filed the present action. 
+
+The district court made two key holdings in this 
+case. Assuming that Mr. Scott’s request for a re- 
+fund was barred by the statute of limitations con- 
+tained in the tax code, the court first ruled that 
+equitable tolling principles can apply to tax cases. 
+
+
+* This disposition is not appropriate for publication and 
+may not be cited to or by the courts of this circuit except as 
+provided by 9th Cir. R. 36-3. 
+
+
+33a 
+
+
+The district court then held that a taxpayer’s mental 
+incompetence could operate to toll the limitations 
+period for a tax refund claim during the time the 
+taxpayer was mentally incompetent. Accordingly, the 
+district court proceeded to a bench trial to determine 
+Mr. Scott’s competence. 
+
+At the bench trial, expert witnesses on behalf of 
+both the government and Mr. Scott testified that 
+alcoholism is a disease than can lead to mental in- 
+competence. The district court resultantly found that 
+Scott was an alcoholic whose alcoholism rendered him 
+mentally incompetent and unable to file a tax return 
+from January 1985 through November 1989. The 
+court thus ruled that the statute of limitations did 
+not bar Scott’s claim for the $30,096 refund. The 
+Government appeals. We have jurisdiction pursuant 
+to 28 U.S.C. § 1291, and we affirm. 
+
+
+DISCUSSION 
+
+
+In a similar case, argued before us at the same 
+time as this one, we held that equitable tolling can 
+apply to tax cases, and that mental incompetence 
+can provide a ground for such tolling. See Brockamp 
+v. United States, No. 94-56424, slip op. —— (9th 
+Cir. Oct. 5, 1995). Accordingly, these two holdings 
+
+
+of the district court are affirmed. 
+
+
+As to the district court’s factual finding that Mr. 
+Scott was mentally incompetent during the relevant 
+period, this finding was well supported. The district 
+court noted that the determination whether a par- 
+ticular taxpayer suffers from severe enough alcohol- 
+ism to toll the statute of limitations is to be made 
+on a case-by-case basis. The district court reviewed 
+extensive trial evidence, including expert reports, con- 
+
+
+34a 
+
+
+cerning Mr. Scott’s alcoholism and mental incompe- 
+tence. The court’s resultant finding, that Mr. Scott 
+was indeed mentally incompetent to the point that 
+he was unable to file a tax return during the relevant 
+period, was not clearly erroneous. See Campbell v. 
+Wood, 18 F.3d 662, 681 (9th Cir.) (en banc), cert. 
+denied, 114 8. Ct. 2125 (1994). 
+
+
+CONCLUSION 
+For the foregoing reasons, we AFFIRM the judg- 
+ment of the district court. 
+FERNANDEZ, Circuit Judge, dissenting: 
+
+
+I dissent for the reasons set forth in my dissenting 
+opinion in Brockamp v. United States, No. 94-56424, 
+slip op. at (9th Cir. —— 1995). 
+
+
+35a 
+APPENDIX D 
+
+
+UNITED STATES DISTRICT COURT 
+DISTRICT OF HAWAII 
+
+
+No. 92-00011 
+NICHOLAS T. SCOTT, PLAINTIFF 
+V. 
+UNITED STATES OF AMERICA, DEFENDANT 
+
+
+[Filed Nov. 19, 1993] 
+
+
+FINDINGS OF FACT AND CONCLUSIONS 
+OF LAW 
+KAY, Chief Judge. 
+
+
+THIS MATTER came before the Court for trial 
+on October 5, 1993 through October 7, 1993. Having 
+considered the testimony and other evidence pre- 
+sented, the Court enters its findings of fact and con- 
+clusions of law pursuant to Rule 52 of the Federal 
+Rules of Civil Procedure. 
+
+
+BACKGROUND 
+
+
+Plaintiff Nicholas T. Scott (“Scott”) brought this 
+action to recover an overpayment of federal income 
+taxes for 1984. On November 28, 1989, by filing a 
+tax return for the 1984 taxable year, Scott made 
+his refund claim to the Revenue 
+(“IRS”). The IRS refused Scott’s refund claim, as- 
+serting that the statute of limitations for filing it 
+
+
+36a 
+
+
+had expired. Scott contends that equitable tolling 
+principles prevent his refund claim from being time- 
+barred. He specifically argues that from the time 
+his 1984 tax return was due to the time he actually 
+filed that return, he suffered from severe alcoholism, 
+which caused him to be mentally incompetent and 
+incapable of filing a tax return. Thus, the central 
+issues in this case are whether Scott was incompe- 
+tent from the time his 1984 tax return was 
+due to the time he actually filed that return, and, 
+if so, whether his incompetency tolls the statute 0 
+limitations. : 
+
+As an initial matter, this Court holds that any 
+finding of fact which may be deemed, in whole or in 
+part, more properly a conclusion of law shall be 
+deemed as such, and any conclusion of law which 
+may be deemed, in whole or in part, more properly a 
+finding of fact shall be deemed as such. 
+
+
+FINDINGS OF FACT 
+
+
+A. Scott's Refund Claim 
+
+
+1. This is a federal income tax refund suit in- 
+volving an overpayment of taxes by Scott for the 
+calendar year 1984. 
+
+2. In 1984, after Scott received an inheritance, 
+he invested that money in a partnership known as 
+“Wine Horizons,” a business which operated a retail 
+wine store in Danville, California. 
+
+3. Prior to that time, around 1980, Scott gave a 
+power of attorney to his father, Gene Scott. Gene 
+Scott demanded the power of attorney when he 
+learned that Scott had failed to file and pay federal 
+income tax for previous years. 
+
+
+37a 
+
+
+4. During 1984, in accordance with the terms of 
+the power of attorney, Gene Scott made federal tax 
+deposits on Scott’s behalf. In December 1984 or Jan- 
+uary 1985, Gene Scott revoked the power of attorney 
+by tearing it up. At the time he tore up the power 
+of attorney, Gene Scott insisted that Scott make his 
+last estimated tax payment for 1984, which was due 
+in January 1985. Scott made the final payment in 
+a timely fashion. 
+
+5. Scott paid a total of $30,096.00 to the IRS for 
+application to his 1984 federal income taxes. 
+
+6. Scott had no tax liability for 1984. 
+
+7. Scott’s 1984 tax return was due on April 15, 
+1985. 
+
+8. Scott filed a tax return for the 1984 taxable 
+year on November 29, 1989. Through that tax re- 
+turn, Scott sought a refund of the $30,096.00, plus 
+interest. 
+
+9. The IRS denied the claim for refund, maintain- 
+ing that the statute of limitations for filing a refund 
+claim had expired. The United States cites the appli- 
+cable statute of limitations as 28 U.S.C. § 6511. 
+
+10. On January 8, 1992, shortly after the IRS 
+denied his claim, Scott filed this action to recover 
+the overpayment of the $30,096.00, plus interest. 
+Scott asserts that his refund claim is not time-barred 
+under equitable tolling principles because, from the 
+time his 1984 tax return was due to the time he 
+actually filed that return, he was mentally incom- 
+petent as a result of his alcoholism. 
+
+
+B. Scott’s Alcoholism 
+
+
+11. From the early 1980’s through at least early 
+November 1989, Scott was a severe alcoholic. Scott 
+
+
+38a 
+
+
+presented testimony from several witnesses chron- 
+icling his alcoholism. The evidence of Scott's alco- 
+holism is overwhelming. Below are examples of this 
+evidence: 
+
+
+(a) In the early 1980’s, Scott began drinking 
+large quantities of alcohol. Scott drank so heav- 
+ily that he began to suffer from blackouts on a 
+nearly daily basis, particularly in 1986 and 1987. 
+Also because of his heavy drinking, Scott’s father 
+held a power of attorney for him from around 
+1980 to January 1985. 
+
+(b) Scott's heavy drinking caused him to be 
+suspended from the California bar for failure to 
+pay his bar dues. 
+
+(e) Scott's heavy drinking resulted in several 
+failed relationships with women. 
+
+(d) In 1980, Scott was in a car accident be- 
+cause of his drinking. 
+
+(e) In 1981, Scott lost a job as an attorney 
+because of his drinking. 
+
+(f) From 1982 through 1986, Scott received 
+five citations from the State of California for 
+driving under the influence of alcohol (DUI). 
+The dates of the DUI violations include: (1) 
+October 22, 1982; (2) July 15, 1986; (3) July 
+18, 1986; (4) August 14, 1987; and (5) Janu- 
+ary 2, 1988. 
+
+(g) From 1984 to July 1987, the entire time 
+Scott operated Wine Horizons, Scott spent most 
+of his time buying wine for the store, engaging 
+in wine tasting sessions with his customers, and 
+drinking wine and vodka. Because wine was not 
+always strong enough for Scott, Scott would 
+fill a glass full of vodka and then add a few 
+
+
+39a 
+
+
+drops of wine to make the vodka appear to be 
+wine. 
+
+(h) Also during the entire time Scott operated 
+Wine Horizons, Scott paid no attention to bills 
+or operation of the books. These matters were 
+handled by others. Moreover, all partnership 
+documents, sales tax returns, and other docu- 
+ments were prepared by others. 
+
+(i) In 1985, Scott’s long-time girlfriend was 
+killed in a car accident, causing Scott to become 
+very depressed and to increase his alcohol intake 
+to even greater levels. 
+
+) In 1985, Scott's heavy drinking caused his 
+partner in Wine Horizons to walk out on him. 
+Even at the time the partnership agreement was 
+entered into in 1984, Scott and his partner added 
+an addendum to the agreement addressing the 
+partner’s concern over Scott’s potential incapac- 
+ity due to alcohol abuse. 
+
+(k) In January 1987, due to his alcoholic 
+state, Scott failed to pay the rent for his wine 
+store, Wine Horizons. As a result, he entered 
+into a stipulation with his landlord in which 
+Scott agreed to pay the rent owed on a certain 
+time frame, and, if he failed to do so, Scott’s 
+landlord was empowered to file an ex parte ap- 
+plication which would allow the landlord to ob- 
+tain a writ of execution on the entire inventory 
+of Wine Horizons. This stipulation was filed in 
+the Superior Court of the State of California, 
+County of Contra Costa on February 9, 1987. 
+
+
+Judgment was entered on the stipulation on 
+June 3, 1987. 
+
+
+40a 
+
+
+(1) In February 1987, Scott's landlord in- 
+sisted that David Green, an employee of Scott, 
+run the wine shop's operations because, due to 
+Scott's alcohol abuse, the landlord had little con- 
+fidence in Scott's competence to run it. 
+
+(m) Scott failed to pay the rent as specified 
+in the February 1987 stipulation with his land- 
+lord, and, on July 2, 1988, Scott received a notice 
+of default. The notice informed Scott that the 
+writ of execution on Wine Horizons’ inventory 
+would be executed on July 10, 1987 if Scott did 
+not pay the rent owed. 
+
+(n) Scott kept his personal collection of wines, 
+worth about $30,000.00, at Wine Horizons. His 
+personal collection was not part of Wine Hori- 
+zons’ inventory. Even though Scott knew that 
+his personal collection would be seized with Wine 
+Horizons’ inventory if he did not remove it from 
+the store, Scott did nothing to protect his per- 
+sonal collection because his alcoholic state made 
+him apathetic and uncaring about anything but 
+his next drink. Scott ignored the pleas of friends 
+urging him to protect his personal collection of 
+wine. 
+
+(o) When the writ of execution was executed 
+on July 10, 1987, Scott simply remained in the 
+store, drinking, as the sheriff took away the 
+inventory. 
+
+(p) With regards to the August 14, 1987 DUI 
+violation, Scott was sentenced to 30 days in 
+prison and 10 days at DUI school. Any person 
+showing up to the DUI school while intoxicated 
+would be thrown out of the school. Scott was 
+thrown out of the school because he showed up 
+
+
+4la 
+
+
+with alcohol on his breath. Scott served the 30 
+days of prison starting sometime in mid-August 
+1987 through sometime in mid-September 1987. 
+
+(q) After Scott was released from prison in 
+mid-September 1987, he attended the public sale 
+of Wine Horizons’ inventory. Scott believed the 
+wine was being sold to his landlord’s attorney 
+through a strawman and believed this to be ille- 
+gal. Nevertheless, Scott's alcoholic state pre- 
+vented him from objecting to the sale. 
+
+(r) Sometime after the public sale of Wine 
+Horizons’ inventory, Scott was evicted from the 
+building in which Wine Horizons had operated. 
+When he was evicted, Scott did not even attempt 
+to safeguard or rescue his business records. 
+
+(s) For Scott’s fourth and fifth DUI viola- 
+tions, Scott was incarcerated from about Novem- 
+ber 23, 1987 to September 1, 1988. When in- 
+earcerated during this period, Scott was a mem- 
+ber of an alcoholic rehabilitation program at 
+prison, known as the Deuce Program. As part 
+of this program, Scott was allowed supervised 
+releases from prison, normally for 48 hours 
+every two weeks. On January 2, 1988, the date 
+of Scott’s fifth DUI violation, Scott had been 
+released from prison on the order of a California 
+state judge so that he could help his girlfriend 
+move into a new apartment. Despite the fact 
+that Scott obtained an additional DUI while on 
+release, Scott was not removed from the Deuce 
+Program, and, was still allowed releases from 
+prison. During Scott’s 48-hour releases from 
+prison, Scott would drink continuously. 
+
+
+42a 
+
+
+(t) As soon as Scott was released from prison 
+in September 1988, Scott immediately became 
+intoxicated. 
+
+(u) Several days after his release from 
+prison, Scott’s sister urged him to pay his fed- 
+eral income taxes. At her continued insistence, 
+Scott finally obtained an accountant to prepare 
+the income tax returns. Scott obtained the ac- 
+countant sometime in January 1989, but, because 
+of his alcoholic state, did not get the necessary 
+documents to the accountant until shortly before 
+the 1984 tax return was filed in November 
+1989. 
+
+
+12. In addition to these examples, the expert testi- 
+mony in this case, discussed below, supports a finding 
+that Scott suffered from severe alcoholism from the 
+early 1980’s through at least early November 1989. 
+
+
+C. Scott's Mental Competency 
+1. Expert Testimony 
+
+
+13. Dr. Gerald McKenna, M.D., testified as an 
+expert witness for the United States. Both parties 
+agreed that Dr. McKenna is highly qualified to testify 
+about the subject of the effect of alcohol abuse on a 
+person’s mental competency. Dr. McKenna’s Cur- 
+riculum Vitae, expert report and expert testimony 
+support a finding that Dr. McKenna is an expert on 
+this subject. Based on the foregoing, this Court finas 
+that Dr. McKenna is an expert qualified to testify 
+about the effect of alcohol abuse on a person’s mental 
+competency. 
+
+14. Dr. Patrick Norman, M. D., testified as an ex- 
+pert witness for Scott. Both parties agreed that Dr. 
+Norman is highly qualified to testify about the sub- 
+
+
+43a 
+
+
+ject of the effect of alcohol abuse on a person’s mental 
+competency. Dr. Norman’s Curriculum Vitae, expert 
+report and expert testimony support a finding that 
+Dr. Norman is an expert on this subject. This Court 
+finds that Dr. Norman is an expert qualified to tes- 
+tify about the effect of alcohol abuse on a person’s 
+mental competency. 
+
+15. In forming their expert opinions, both Dr. 
+McKenna and Dr. Norman relied on the same evi- 
+dence that each party presented to the Court during 
+the trial on this matter, including, but not limited to, 
+the facts as described in Part B. 
+
+16. Dr. McKenna and Dr. Norman were in agree- 
+ment about Scott’s mental competency, an unusual 
+circumstance in this Court’s experience. They testi- 
+fied that: 
+
+
+(a) Alcohol is a drug which can lead to 
+mental incompetence if used in sufficient doses 
+and over a long enough period of time. The 
+degree of mental incompetence is directly related 
+to the dosage of alcohol and the length of time 
+over which high doses of alcohol have been con- 
+sumed. High doses of alcohol induce blackouts. 
+
+(b) Alcoholism is a disease, not a wrongful 
+or reprehensible act. 
+
+(e) Scott suffered from severe alcoholism from 
+the early 1980’s to at least early November 1989. 
+
+(d) Seott was mentally incompetent from, at 
+least, January 1985 through September 1987 and 
+September 1988 through November 1989, and, as 
+a result, did not have the mental capacity to file 
+his tax return during this period. 
+
+(e) As to Scott's mental condition while in 
+jail from September 1987 through September 
+1988, the experts testified to the following: 
+
+
+44a 
+
+
+(i) While both experts were not precisely 
+certain as to whether Scott was mentally in- 
+competent while in jail between September 
+1987 and September 1988, both of them 
+agreed that there is a residual impact from 
+alcohol abuse which delays the recovery of 
+cognitive abilities. They both further agreed 
+that it is not necessary to have alcohol in 
+your system to experience the residual im- 
+pact and to remain mentally incompetent. 
+
+(ii) Dr. Norman also’ testified about the 
+dry drunk syndrome where incompetence 
+from alcoholism is retained if the alcoholic 
+is not committed to rehabilitation. Dr. Me- 
+Kenna did not challenge Dr. Norman's tes- 
+timony regarding the dry drunk syndrome. 
+
+17. Based on this expert testimony concerning the 
+residual impact of alcohol abuse and the dry drunk 
+syndrome, and based on the fact that, when Scott was 
+released from the Deuce Program every two weeks, 
+Scott constantly drank during the release, this Court 
+finds that Scott also suffered from severe alcoholism 
+during his term in jail from September 1987 to Sep- 
+tember 1988, and, as a result, was mentally incom- 
+petent to file his tax return during this period. 
+
+
+2. United States’ Counter-Argument 
+
+
+18. The United States attempted to counter the 
+expert witnesses’ testimony that Scott was mentally 
+incompetent. Some af the -facts which the United 
+States highlighted to argue Scott was competent to 
+file a 1984 tax return include: 
+
+
+(a) In 1984, Scott executed a partnership 
+agreement to operate Wine Horizons. 
+
+
+45a 
+
+
+(b) In 1985, Scott entered into an agreement 
+dissolving the partnership so that he could op- 
+erate Wine Horizons on his own. 
+
+(c) During the time he operated Wine Hori- 
+zons, Scott filed state sales tax. 
+
+(d) Scott obtained an attorney to represent 
+him on his 1987 and 1988 DUI charges. 
+
+(e) Scott opened and closed his retail busi- 
+ness everyday. 
+
+(f) Scott paid his utilities and rent. 
+
+
+Court might otherwise find the United States’ argu- 
+
+
+46a 
+
+
+3. Findings On Scott’s Competency 
+22. Based on the testimony of both parties’ expert 
+witnesses and the facts as described in Part B, the 
+Court finds that: 
+
+
+(a) Scott was mentally incompetent from 
+January 1985 through early November 1989, 
+including the period in which Scott was in and 
+out of jail in 1987 and 1988. 
+
+(b) Scott did not have the capacity to file his 
+1984 tax return during the years of his incom- 
+petency, including the period in which Scott was 
+in and out of jail. 
+
+
+D. Damages 
+
+23. Scott and the United States have stipulated 
+that Scott made an overpayment of $30,096.00 on his 
+1984 taxes. 
+
+24. Scott and the United States have stipulated 
+that the interest on the $39,096.00 from November 
+
+
+25. Scott and the United States have stipulated 
+that the interest on the $30,096.00 from April 15, 
+1985 to October 5, 1993 brings the total to $64,873.00. 
+
+26. Scott and the United States have stipulated 
+that the amount awarded by the Court should con- 
+tinue to accrue interest from October 6, 1993. 
+
+27. Scott and the United States acknowledge that 
+
+
+47a 
+
+
+CONCLUSIONS OF LAW 
+
+
+1. Given that this Court has found that Seott was 
+mentally incompetent and could not file his 1984 fed- 
+eral income tax return during the period from Jan- 
+uary 1985 through early November 1989, the issue 
+becomes whether his incompetency will toll the statute 
+of limitations for tax refund cases. 
+
+2. The appropriate limitations period for tax re- 
+fund cases is set forth in 26 U.S.C. §§ 6511. 
+
+3. In Scott v. United States, 795 F.Supp. 1028 
+(D.Haw.1992) (Scott 1), this Court denied the 
+United States’ motion to dismiss Scott’s complaint. 
+This Court held that principles of equitable tolling 
+
+— 
+
+
+United States, 994 F.2d 25 (Ist Cir. 1993), which 
+held that equitable tolling principles do not i 
+tax refund cases, to request that this Court reconsider 
+its contrary holding in Scott J. 
+4. In holding that equitable tolling principles do 
+not apply in tax refund cases, ied on 
+Lampf, Pleva, Lipkind, Prupis & Petrigrow v. 
+Gilberston, 501 U.S. 350, 111 S.Ct. 2778, 115 L.Ed.2d 
+
+321 (1991). In Lampf, the United 
+considered whether to adopt a federal limita- 
+
+unde 
+
+
+48a 
+
+
+the Supreme Court acknowledged that time limits in 
+law suits are normally subject to equitable tolling. 
+Nevertheless, the Supreme Court found that section 
+78i(e) was not subject to equitable tolling because 
+equitable tolling is fundamentally inconsistent with 
+the 1-and-3-year structure. Lampf, 501 U.S. at ——, 
+111 S.Ct. at 2782. The Lampf Court explained the 
+effect of section 78i(e) as follows: (1) the 1-year 
+period makes tolling unnecessary because that period 
+begins only after the discovery of the facts constitut- 
+ing the violation, and (2) the 3-year period acted as 
+
+outside limit for which Congress intended that a 
+could bring an action. Jd. The Lampf Court 
+
+
+ER 
+f 
+i 
+1 
+a 
+i 
+it 
+Ee 
+
+
+Hh 
+if 
+ee 
+14 
+RF 
+1 
+8 
+
+
+49a 
+
+
+time after its due date and still be a return for pur- 
+poses of filing a claim within that three-year period. 
+Under that interpretation, the limitations period in 
+section 6511(a) is totally illusory.” Jd. Oropallo 
+then found section 6511(b)(2)(A)’s limit on the 
+amount of money a taxpayer can recover to be analo- 
+gous to section 78i(e)’s limit on the institution of a 
+cause of action, stating: “By imposing an ‘outside 
+limit’ or ‘cut-off’ on the amount of taxes which can 
+be recovered, section 6511(b)(2)(A) operates like 
+the three-year portion of the limitations period in 
+Lampf, and thus is a ‘period of repose inconsistent 
+with tolling.’ ” Id. at 31. 
+
+6. This Court disagrees with Oropallo's interpre- 
+tation of section 6511, and therefore finds this section 
+distinguishable from the limitations period in Lampf. 
+Because the Supreme Court’s principal rationale for 
+not applying equitable tolling in Lampf was the cut- 
+off provision of section 78i(e), this Court focuses on 
+Oropallo’s analysis of section 6511(b)(2)(A) as a 
+cutoff which is inconsisent with equitable tolling. 
+This Court disagrees with Oropallo’s finding that sec- 
+tion 6511(b) (2) (A)’s limit on the amount of money 
+a taxpayer can recover is similar to section 78i(e)’s 
+limit on bringing a case. The 3-year period in Lampf 
+provides that no “action shall be maintained to en- 
+
+
+brought... within years after such violation.” 
+15 U.S.C. 78i(e) (emphasis added). Thus, this 
+period is a total action brought outside the 
+
+
+refund shall not exceed the portion of the tax paid 
+
+
+50a 
+
+
+during the two years immediately preceding the filing 
+of the claim.” 26 U.S.C. § 6511(b)(2)(A). Unlike 
+section 78i(e), section 6511(b)(2)(A) in no way 
+prevents the bringing of a lawsuit, it simply limits 
+the amount of money the taxpayer can recover. Thus, 
+section 6511(b)(2)(A)’s period of repose is signifi- 
+cantly different than section 78i(e)’s period of repose 
+and is not inconsistent with equitable tolling. 
+
+7. In addition to finding section 6511 distinguish- 
+able from the limitations period in Lampf, this Court 
+disagrees with Oropallo on another basis. Oropallo 
+discussed section 6511(a), which requires a taxpayer 
+to file a refund claim within three years of filing a 
+return, or, if no return was filed, within two years 
+from the date the tax was paid. In discussing sec- 
+tion 6511(a), the Oropallo Court declared this section 
+to be analogous to the I- year period in section 78i(e), 
+stating: 
+
+
+In Lampf, the Supreme Court commented that 
+the one-year period for filing suit after discovery 
+of facts giving rise to the cause of action made 
+tolling unnecessary. What the Court obviously 
+meant was that once someone who has been de- 
+frauded knows the relevant facts, the l-year 
+period gives that person ample time in which to 
+sue and there is no need to toll the 1-year limita- 
+tions period. A similar state of knowledge re- 
+specting the right to a refund can be attributed 
+to individual calendar year taxpayers who file 
+income tax returns. The return contains ali the 
+information necessary to verify that there has 
+been an overpayment of taxes and that a refund 
+is due. Accordingly, the three-year period in sec- 
+tion 6511(a) gives the taxpayer ample time to 
+
+
+Sla 
+
+
+file a refund claim, and there is no need to toll 
+that period. 
+
+
+Oropallo, 994 F.2d at 30 (citations omitted). This 
+Court disagrees with Oropallo’s analysis of section 
+6511(a). If a taxpayer is mentally incompetent, that 
+taxpayer will not necessarily be able to evaluate a 
+tax return to determine whether a right to an over- 
+payment exists. Moreover, in this case no tax return 
+was prepared until 1989 due to Scott’s incompetency. 
+Furthermore, the tax return will not always have 
+all the information necessary to verify that there has 
+been an overpayment. Taxpayers must often examine 
+documents collateral to the tax return to determine 
+whether there has been an overpayment. Conse- 
+quently, this Court finds that section 6511(a) is not 
+analogous to Lampf’s 1-year limitations period in sec- 
+tion 78i(e). 
+
+8. Because this Court disagrees with Oropallo’s 
+interpretation of sections 6511 and finds the section 
+distinguishable from the limitations period considered 
+in Lampf, this Court declines to follow Oropallo and 
+adheres to its earlier decision in Scott I, which held 
+that section 6511 may be equitably tolled by mental 
+incompetence under the proper circumstances. The 
+Court discusses the rationale of the Scott J holding 
+in more detail below. 
+
+9. In Irwin v. Veterans Administration, the United 
+States Supreme Court stated: 
+
+
+Once Congress has made such a waiver [of 
+sovereign immunity to allow suits by citizens 
+against the government], we think that making 
+the rule of equitable tolling applicable to suits 
+against the Government, in the same way that 
+
+
+52a 
+
+
+it is applicable to private suits, amounts to little, 
+if any, broadening of the congressional waiver. 
+
+
+498 U.S. at 95, 111 S.Ct. at 457. The Supreme Court 
+then held “that the same rebuttable presumption of 
+equitable tolling applicable to suits against private 
+defendants should also apply to suits against the 
+United States.” Jd. The Ninth Circuit has noted the 
+rebuttable presumption established in Irwin in Seat- 
+tle Audubon Society v. Robertson, 931 F.2d 590, 595 
+(9th Cir.1991): “The [Irwin] Court held that when- 
+ever Congress waives the government’s sovereign im- 
+munity and permits suits against the government, 
+there is a rebuttable presumption that the doctrine 
+of equitable tolling applies.” In the case at bar, the 
+United States has presented insufficient evidence to 
+rebut the presumption that equitable tolling applies 
+against it in tax refund cases. 
+
+10. Further, while Irwin did not directly hold that 
+mental incompetency constitutes a ground for equi- 
+table tolling, Jrwin supports such a holding. The 
+Irwin Court noted that [federal courts typically 
+have extended equitable relief only sparingly,” and 
+then offered two examples of situations where equi- 
+table tolling applies: where the claimant has actively 
+pursued his judicial remedies but has filed a defective 
+pleading, and where claimant has been induced or 
+tricked by his adversary into allowing the filing dead- 
+line to pass. Irwin, 498 U.S. at 94-96, 111 S.Ct. at 
+457-58. The Supreme Court, however, did not intend 
+these examples to be an exhaustive listing of the 
+situations where equitable tolling applies. The Su- 
+preme Court used very broad language when discuss- 
+
+
+ing the extent to which equitable tolling applies to 
+
+
+the United States, holding that the same rebuttable 
+
+
+© 
+
+
+presumption ot equitable tolling which applies to suits 
+against private parties applies to suits against the 
+United States. Thus, under Irwin, mental incom- 
+petency tolls suits against the government to the 
+same extent that it tolls suits against private parties. 
+Furthermore, the Irwin Court’s use of the language, 
+“federal courts ... have extended” supports a finding 
+that Jrwin did not intend its examples to be an ex- 
+haustive listing. “Federal courts” includes the lower 
+federal courts as well as the Supreme Court, and 
+therefore lower federal court decisions, as well as 
+Supreme Court decisions, should be examined to de- 
+termine under what circumstances equitable tolling 
+applies. As discussed below, lower federal courts 
+have ruled that mental incompetency constitutes a 
+ground for equitable tolling, and therefore, under 
+Irwin, mental incompetency may toll a federal statute 
+of limitations. 
+
+11. The Ninth Circuit has not addressed whether 
+a federal statute of limitations may be equitably 
+tolled by mental incompetence. Indeed, in Atkins v. 
+Union Pacific Railroad Co., 685 F.2d 1146 (9th Cir. 
+1982), the Ninth Circuit explicitly left open the ques- 
+tion of whether a plaintiff’s mental incompetency 
+could toll the statute of limitations on the Federal 
+Employers’ Liability Act. After finding that the 
+plaintiff had not established facts sufficient to sup- 
+
+
+port a finding that he was mentally incompetent, the 
+Court stated: 
+
+
+Because we find no issue of fact, we need not 
+decide whether the plaintiff's incompetency will 
+ever toll the FELA statute of limitations. But 
+see, Brooks v. Southern Pacific Co., 105 Ariz. 
+442, 445, 466 P.2d 736, 739 (1970) (holding 
+
+
+S4a 
+
+
+that FELA statute of limitations is tolled by 
+incompetence ). 
+
+
+Id. at 1148 (citation in origina!). 
+
+
+12. The cases from other jurisdictions are divided 
+on the issue of whether mental incompetency will 
+toll the statute of limitations. One line of cases hold 
+that mental incompetency may not toll federal statute 
+of limitations. E. g., Harris v. Ford Motor Co., 635 
+F.Supp. 1472, 1473-74 (E.D.Mo.1986) (and cases 
+cited therein) (mental incompetency does not toll six 
+month statute of limitations for filing a hybrid § 301 
+LMRA fair representation claim). Most of the deci- 
+sions relied upon in Harris, however, involved claims 
+against the federal government and therefore are 
+called into question by Irwin. 
+
+13. Another line of cases finds that mental incom- 
+petency will toll federal statutes of limitations. E. g., 
+Nunnally v. MacCausland, 996 F.2d 1, 4-5 (1st Cir. 
+1993) (mental illness may toll 30-day filing period 
+set in Civil Service Reform Act, 5 U.S.C. § 7703); 
+Lopez v. Citibank, N.A., 808 F.2d 905, 906-07 (Ist 
+Cir.1987) (mental incompetency may toll Title VII 
+statute of limitations); Wiltgen v. United States, 
+813 F.Supp. 1387, 1395 (N.D.Iowa 1992) (mental 
+incompetence may toll statute of limitations in tax 
+refund actions); Johnsen v. United States, 758 
+F.Supp. 834, 835-36 (E.D.N.Y.1991) (same); 
+Llewellyn v. Celanese Corp., 693 F.Supp. 369, 379 
+(W.D.N.C.1988) (mental incompetency may toll Title 
+VII statute of limitations); Moody v. Bayliner Corp., 
+664 F. Supp. 232, 235 (E.D.N.C.1987) (same). 
+
+14. In Lopez, decided before the Irin decision, 
+the First Circuit held that while there in no abso- 
+lute rule of equitable tolling on the grounds of mental 
+
+
+55a 
+
+
+incompetency in Title VII cases, federal courts may 
+toll the applicable statute of limitations on a case-by- 
+case basis. The First Circuit initially acknowledged 
+the line of cases finding against such tolling. Lopez, 
+808 F.2d at 906. It distinguished these cases on the 
+basis that most involved suits against the United 
+States and concerned “considerations of sovereign 
+immunity.“ Jd. at 906-07. It then found that “an 
+even longer line of common law authority finds, in 
+insanity, a ground for tolling a limitations period.” 
+Id. at 907 (citing Developments in the Law-Statutes 
+of Limitations, 63 Harv.L.Rev. 1177, 1229 (195)). 
+Consequently, the Lopez Court found that mental in- 
+competency could equitably toll the statute of limi- 
+tations. The First Circuit has recently affirmed its 
+position in Lopez in a post-Irwin decision, Nunnally 
+v. MacCausland, 996 F.2d at 4-5. 
+
+15. In Char v. Matson Terminals, Inc., 817 F.Supp. 
+850, 854-55 (D.Haw.1992), this Court adopted the 
+reasoning of the Lopez line of cases. In accord with 
+Char, this Court once again adopts the reasoning of 
+the Lopez line of cases, especially in light of the fact 
+that the cases cited in Lopez for the position that 
+mental incompetency will not toll federal statutes of 
+limitations have been called into question by Irin. 
+Hence, this Court holds that, pursuant to Irwin v. 
+Veterans Administration, mental incompetency may 
+toll the statute of limitations in tax refund cases 
+when the appropriate circumstances are present. This 
+holding is supported by fundamental principles of 
+equity. Fundamental principles of equity mandate 
+that when a person suffers from a disease rendering 
+
+
+These cases have been called into question by Irwin. 
+
+
+56a 
+
+
+him mentally incompetent to assert his rights during 
+the period he was incapacitated, time limitations 
+should not operate to preclude him from seeking re- 
+
+
+dress for his injuries. 
+
+16. In Scott J, this Court declined to determine 
+whether alcoholism created the sort of mental in- 
+competency necessary for equitable tolling. Based on 
+the expert testimony in this case, this Court now 
+finds that the disease of alcoholism can create the 
+sort of mental incompetency necessary for equitable 
+tolling. The issue of whether a particular taxpayer 
+
+
+2 The Court notes that its holding that alcoholism may cre- 
+ate the type of mental incompetency to toll the statute of limi- 
+tations is supported by Hawaii state law. Haw.Rev.Stat. 
+§ 657-13 provides that a state statute of limitations is tolled 
+when a person is insane at the time the cause of action has 
+accrued. In Christian v. Waialua Agric. Co., 31 Haw. 817, 
+appeal dismissed, 52 F.2d 847 (9th Cir.1931), questioned on 
+other grounds, Sandstrom v. Larsen, 59 Haw. 491, 495, 583 
+P.2d 971, 975 (1978) (questioning Christian’s finding that the 
+Hawaii Supreme Court could independently review evidence 
+and make its own findings), the Hawaii Supreme Court stated: 
+
+
+In 32 C.J. 594 (§ 4), the author of the text says: In- 
+sanity’ is a broad, comprehensive, and generic term, of 
+ambiguous import, for all unsound and deranged condi- 
+tions of the mind. And it ordinarily implies every 
+degree of unsoundness of the mind, whether it is casual, 
+temporary, or permanent, [and] whether of a mild or 
+violent form; and it includes not only that derangement 
+of the mind produced by disease of the brain, such as is 
+recognized by law as a defense to crime, which is the 
+sole product of it, but it may also embrace conditions of 
+subverted reason, such as may be produced by intoxica- 
+tion. The word has been frequently used to designate all 
+
+
+S7a 
+
+
+suffers from severe enough alcoholism to cause men- 
+tal incompetency should be analyzed on a case-by- 
+case basis. See Lopez, 808 F.2d at 907 (equitable 
+tolling for mental incompetence is analyzed on a case- 
+by-case basis). The experts in this case have testified 
+that Scott’s alcoholism was sufficiently severe to cause 
+him to be mentally incompetent. Based on this expert 
+testimony and other evidence adduced, this Court has 
+found that Scott’s alcoholism caused him to be men- 
+tally incompetent and incapable of filing a tax return 
+from at least January 1985 through early November 
+1989. 
+
+17. The United States argues that this Court 
+should not apply equitable tolling in cases where 
+alcoholism has caused mental incompetency on policy 
+grounds that alcoholism results in staggering costs 
+on society and the Court should only apply equitable 
+principles when it is in society’s best interest, as 
+equity is “ ‘to live honestly, to harm nobody, to render 
+every man his due.“ United States’ Trial Brief, at 
+16 (quoting Justinian’s Inst. lib. 1, tit. 1, §3). The 
+experts in this case have testified that alcoholism is 
+a disease and not a wrongful or reprehensible act, 
+
+
+mental impairments and deficiencies formerly embraced 
+in terms ‘idiocy,’ ‘lunacy,’ and ‘unsoundness of mind.“ 
+
+
+Christian, 31 Haw. at 902 (emphasis added). Under the defi- 
+nition in Christian, alcoholism would constitute insanity or 
+mental incompetence which would allow for equitable tolling. 
+
+
+The Court also notes that the United States Supreme Court 
+case of Kendall v. Ewert, 259 U.S. 139, 42 S.Ct. 444, 66 L. Ed. 
+862 (1922), supports its holding that alcoholism may create 
+the type of mental incompetency to toll the statute of limita- 
+tions. In Kendall, the Supreme Court recognized that habitual 
+drunkards are not competent to transact business, even if they 
+have their sober moments. Id. at 146, 42 S.Ct. at 447. 
+
+
+58a 
+
+
+and therefore equitable principles may be applied to 
+cases where alcoholism causes mental incompetency. 
+
+18. In alternative to the /rwin principles discussed 
+above, this Court holds that the impossibility doctrine 
+discussed in Seattle Audubon and Forti v. Suarez- 
+Mason apply to toll the statute of limitations in the 
+case at bar. Seattle Audubon, 931 F.2d 590; Forti, 
+672 F.Supp. 1531 (N.D.Cal.1987). As stated in 
+Seattle Audubon, when “extraordinary circumstances 
+beyond plaintiffs’ control make it impossible to file 
+the claims on time,” equitable tolling applies. 931 
+F.2d at 595; Forti v. Suarez-Mason, 672 F.Supp. at 
+1550 (N.D.Cal.1987) (“Where extraordinary events 
+which are beyond plaintiff’s control prevent a plain- 
+tiff from bringing his claim, the limitations period 
+is tolled until the barrier caused by these events is 
+removed.“). Both experts have testified that Scott's 
+alcoholism, a disease, caused Scott to be mentally 
+incapable of filing his tax return. Thus, this Court 
+holds that Scott’s alcoholism constitutes extraordinary 
+circumstances beyond Scott's control“ which made 
+it impossible for him to file his tax return, and 
+therefore, under Seattle Audubon and Forti, the limi- 
+tations period in section 6511(a) was tolled during 
+Scott’s mental incompetency. The Court notes that 
+the United States has not shown that it has been 
+unjustly prejudiced by the tolling of the statute of 
+limitations. See Seattle Audubon, 931 F.2d at 597. 
+
+19. Given the above, Scott’s refund action is not 
+time-barred and he is entitled to a refund of his 
+
+
+In ruling that Scott's alcoholism constitutes extraordinary 
+circumstances beyond his control, this Court relies heavily 
+upon the expert testimony opining that alcoholism is a disease. 
+
+
+59a 
+
+
+overpayment of $30,096.00 for the 1984 taxable year. 
+Scott is also entitled to interest on the overpayment. 
+Under 26 U.S.C. § 6611, Scott is entitled to interest 
+from the date he filed his return. The Court declines 
+Scott’s invitation to use its equitable powers to allow 
+Scott interest from the date of the overpayment. 
+Hence, pursuant to the parties’ stipulation, interest 
+on the $30,096.00 from November 28, 1989 to Oc- 
+tober 5, 1993 brings the total to $41,327.00. The 
+Court also holds that the interest owed to Scott con- 
+tinues to accrue from October 6, 1993. 
+
+20. There being no just reason for delay, the 
+Court hereby directs entry of final judgment in favor 
+of Scott as specified above. 
+
+
+IT IS SO ORDERED. 
+
+
+60a 
+APPENDIX E 
+
+
+UNITED STATES DISTRICT COURT 
+DISTRICT OF HAWAII 
+
+
+Civ. No. 92-00011 ACK 
+NICHOLAS T. SCOTT, PLAINTIFF 
+v. 
+
+
+UNITED STATES OF AMERICA, ET AL., DEFENDANTS 
+
+
+[Filed June 4, 1992] 
+
+
+ORDER DENYING DEFENDANTS’ MOTION 
+TO DISMISS OR IN THE ALTERNATIVE 
+FOR SUMMARY JUDGMENT 
+
+
+KAY, Chief Judge. 
+I. INTRODUCTION 
+
+
+This case presents an issue of first impression in 
+the Ninth Circuit. The major issue presented is 
+whether the time limit restrictions for filing a tax 
+refund claim are subject to the doctrine of equitable 
+tolling. Based upon the following analysis of the 
+relevant authorities, the Court holds that tax refund 
+claims are subject to equitable tolling and that a 
+plaintiff’s mental incompetency operates to toll the 
+limitations period for the time that the plaintiff was 
+mentally incompetent. 
+
+
+6la 
+
+
+II. BACKGROUND 
+
+
+In 1984, Plaintiff Nicholas Scott’s (“Plaintiff”) 
+father timely filed a tax return on Plaintiff’s behalf 
+for that year. Plaintiff claims that his father over- 
+paid the amount of taxes due in 1984, which were 
+paid in piecemeal installments in 1984 and 1985. 
+Plaintiff seeks to have a portion of the alleged 1984 
+overpayment applied to his tax liabilities for the 
+years 1985, 1986, and 1988. Plaintiff admits that 
+he filed his returns for the 1984-1988 years on No- 
+vember 28, 1989. On January 8, 1992, after the IRS 
+disallowed his refund claim for the $30,096.00 over- 
+paid in the 1984 tax year, Plaintiff filed a complaint 
+seeking to apply the amount of his overpaid taxes to 
+his liabilities for the 1984, 1986, and 1988 tax years. 
+
+Both of the parties agree that the statute of limita- 
+tion for filing such a return has expired. See, Com- 
+plaint at 2 (“Plaintiff contends that the time limita- 
+tions contained in 26 U.S.C. Section 65ll(a) are 
+subject to the doctrine of Equitable Tolling’); see 
+also, Plaintiff’s Response at 2 (arguing that the 
+statute of limitations should be tolled). 26 U.S.C. 
+§ 6511(a) provides that a claim for credit or refund 
+must be filed within three years of the time the re- 
+turn was filed or two years from the date the tax 
+was paid. 
+
+In this case, Plaintiff made his last payment in 
+1985. Plaintiff filed his refund return on November 
+28, 1989, four years after the tax was paid. Under 
+the statute, Plaintiff is precluded from pursuing his 
+claim because he filed his refund more than two years 
+
+
+Whether Plaintiff in fact overpaid his taxes for 1984, and 
+by how much, is not before the Court on the instant motion. 
+
+
+62a 
+
+
+after the 1984 taxes were paid and more than three 
+years after the date of the 1984 return. 
+
+Defendant the United States America (“United 
+States” or “the government”) moves to dismiss on 
+the grounds that this Court lacks subject matter ju- 
+risdiction to hear a refund claim filed after the stat- 
+utory period under § 6511 (a) has elapsed or for 
+failure to state a claim upon which relief can be 
+granted or in the alternative, for summary judgment. 
+Plaintiff opposes, claiming that the doctrine of equi- 
+table tolling applies to vest this Court with jurisdic- 
+tion. Plaintiff claims that as a result of severe and 
+continuous alcoholism, he was mentally incompetent 
+for the period of time 1984-1990 warranting appli- 
+cation of the equitable tolling doctrine. Because the 
+only issues presented by the instant motions are ones 
+of law, and not of fact, the Court construes the gov- 
+ernment’s motions as a single motion to dismiss. 
+
+The narrow issue presented by this case, then, is 
+whether the time period for filing a claim for refund 
+under § 6511(a) may be extended under the doctrine 
+of equitable tolling. Since the doctrine does apply 
+to such claims, the Court must also determine if 
+mental incompetency may toll the statute of limita- 
+tions. Because the parties have not raised or briefed 
+the issue, the Court withholds ruling on the question 
+of whether Defendant was in fact mentally incompe- 
+tent for the relevant time period. Likewise, the Court 
+also expresses no opinion as to whether, as a 
+matter of law, alcoholism may give rise to mental 
+incompetency. 
+
+
+63a 
+
+
+III. DISCUSSION 
+
+
+A. STANDARD FOR MOTION TO DISMISS 
+
+
+Under Fed.R.Civ.P. 12, this Court must accept as 
+true the plaintiff’s allegations contained in the com- 
+plaint and view them in a light most favorable to the 
+plaintiff. See, Schewer v. Rhodes, 416 U.S. 232, 236, 
+94 S.Ct. 1683, 1686, 40 L.Ed.2d 90 (1974); Wile- 
+man Bros. & Elliott, Inc. v. Giannini, 909 F.2d 332, 
+334 (9th Cir.1990); Shah v. County of Los Angeles, 
+797 F.2d 743, 745 (9th Cir. 1986). Thus, the com- 
+plaint must stand unless it appears beyond doubt 
+that the plaintiff has alleged no facts that would 
+entitle him to relief. Conley v. Gibson, 355 U.S. 41, 
+45-46, 78 S.Ct. 99, 101-02, 2 L.Ed.2d 80 (1957); 
+Balistreri v. Pacifica Police Dept., 901 F.2d 696, 699 
+(9th Cir.1990). A complaint may be dismissed as a 
+matter of law for two reasons: (1) lack of a cog- 
+nizable legal theory or (2) insufficient facts under a 
+cognizable legal theory. Balistreri, 901 F.2d at 699; 
+Robertson v. Dean Witter Reynolds, Inc., 749 F.2d 
+530, 533-34 (9th Cir.1984). 
+
+
+In essence, as the Ninth Circuit has stated, “[t]he 
+issue is not whether a plaintiff’s success on the merits 
+is likely but rather whether the claimant is entitled 
+to proceed beyond the threshold in attempting to es- 
+tablish his claims.” De La Cruz v. Tormey, 582 F.2d 
+45, 48 (9th Cir.), cert. denied, 441 U.S. 965, 99 S.Ct. 
+2416, 60 L.Ed.2d 1072 (1979). The Court must de- 
+termine whether or not it appears to a certainty 
+under existing law that no relief can be granted 
+under any set of facts that might be proved in sup- 
+port of plaintiffs’ claims. /d. 
+
+
+64a 
+
+
+In his complaint and moving papers Plaintiff 
+claims to have been mentally incompetent as a result 
+of his severe alcoholism to such an extent that he 
+could not manage his business or day-to-day affairs. 
+Accordingly, the Court accepts as true, for the pur- 
+poses of this motion only, Plaintiff's allegation that 
+he was completely and continuously mentally incom- 
+petent for the relevant time period. 
+
+
+B. THE MERITS 
+
+
+1. Tax Refund Claims are Subject to Equitable 
+Tolling. 
+
+The government contends that statutes of limita- 
+tions covering suits against the United States are 
+prerequisites to federal court jurisdiction. E. g., 
+United States v. Mottaz, 476 U.S. 834, 106 S.Ct. 
+2224, 2229, 90 L.Ed.2d 841 (1986) (statute of lim- 
+itations defines extent of court’s jurisdiction). While 
+this contention is true as a general proposition, the 
+Supreme Court has recognized exceptions to strict 
+application of time-bar rules. In support of its mo- 
+tion to dismiss, the government cites numerous cases 
+all of which pre-date the Supreme Court’s recent de- 
+cision in Irwin v. Veterans Admin., 498 U.S. 89, 111 
+S.Ct. 453, 112 L.Ed.2d 435 (1990). The /rwin Court 
+recognized that the statute of limitations may be 
+equitably tolled even where the statute of limitations 
+is a prerequisite to federal court jurisdiction, render- 
+ing the cases cited by the government inapplicable. 
+
+In Irwin, the plaintiff filed an untimely civil action 
+under Title VII based on a claim that the Veterans 
+Administration unlawfully discharged plaintiff be- 
+cause of his race and physical disability. The plain- 
+
+
+65a 
+
+
+tiff, Irwin, failed to file suit within 30 days of re- 
+ceiving the EEOC’s notice rejecting his claim. Irwin 
+claimed that he failed to file because the EEOC letter 
+was sent to his attorney’s office while his attorney 
+was on vacation. As a result of his late receipt of 
+the letter, Irwin filed suit 44 days after the letter 
+arrived at his attorney’s office. 
+
+After finding that Irwin’s complaint was untimely, 
+the Court considered whether his error may be ex- 
+cused under equitable tolling principles. The Court 
+viewed this case as an opportunity to adopt “a gen- 
+eral rule to govern the applicability of equitable toll- 
+ing in suits against the Government.” Jrwin, 111 
+S.Ct. at 457. The Court stated: 
+
+
+Once Congress has made such a waiver [of sov- 
+ereign immunity to allow suits by citizens against 
+the government], we think that making the rule 
+of equitable tolling applicable to suits against 
+the Government, in the same way that it is ap- 
+plicable to private suits, amounts to little, if any, 
+broadening of the congressional waiver. 
+
+
+Id. The Court then held “that the same rebuttable 
+presumption of equitable tolling applicable to suits 
+against private defendants should also apply to suits 
+against the United States.” /d. 
+
+The Court went on to state that federal courts have 
+used equitable tolling only “sparingly.” Jd. The 
+Court then offered two non-exhaustive examples of 
+where the Court has previously recognized equitable 
+tolling: where the claimant has actively pursued his 
+judicial remedies but has filed a defective pleading 
+and where claimant has been induced or tricked by 
+his adversary into allowing the filing deadline to 
+pass. Id. at 457-8. 
+
+
+66a 
+
+
+The Court held that Irwin’s failure to timely file 
+was a result of excusable neglect. Id. at 458 (“[T]he 
+principles of equitable tolling . . . do not extend to 
+what is at best a garden variety claim of excusable 
+neglect.’’). 
+
+While Irwin involved an untimely Title VII claim, 
+the reasoning in that decision applies with equal force 
+to untimely tax claims. As in tax cases, the statute 
+of limitations applicable to Title VII cases has been 
+interpreted as a prerequisite to federal court juris- 
+diction. See, Irwin at 455. In Irwin, the Court held 
+that such late-filed claims are not jurisdictionally 
+barred when the doctrine of equitable tolling applies. 
+
+A recent District Court opinion from the Second 
+Circuit has applied Irin to facts similar to the in- 
+stant case. In Johnsen v. United States, 758 F.Supp. 
+834 (E.D.N.Y.1991), the Court held that under 
+Irwin, the plaintiff’s mental incompetency equitably 
+tolled the statute of limitation on a tax refund claim. 
+
+In 1983, the Multzmans overpaid their taxes by 
+approximately $25,000. They did not file a return 
+as the result of mental incompetency.’ After Plaintiff 
+Johnsen was appointed as Mrs. Multzman’s repre- 
+sentative, Johnsen filed a return on Mrs. Multzman’s 
+behalf and subsequently in 1989 filed an action for 
+refund of the overpaid taxes. Although both the 
+return and the complaint were untimely, the Court 
+held that the statute of limitations was tolled for the 
+period that Mrs. Multzman was mentally incompe- 
+tent. Johnsen, 758 F.Supp. at 836 (so holding “un- 
+
+
+2In the Johnsen case, the government stipulated, for pur- 
+poses of the motion, that Mrs. Multzman, her husband, and 
+her son were all mentally incompetent in 1983. 
+
+
+67a 
+
+
+der the authority of /rwin’’). The Court noted that 
+the legislative history of Section 6511 “is absolutely 
+devoid of any indication that Congress intended to 
+preclude such equitable tolling in tax refund actions.” 
+Id. at 835-6. 
+
+
+In this case, Plaintiff has alleged, and has offered 
+supporting affidavits, that he was totally and con- 
+tinually mentally incompetent to manage his affairs 
+during the time period 1984-1990. See, Complaint at 
+4-5; Plaintiff’s Response Memorandum at 2; Affi- 
+davits attached as exhibits 9 and 11 to Plaintiffs 
+Response Memorandum. While it may be unlikely 
+that Plaintiff will ultimately prevail in convincing 
+the Court that he was, in fact, mentally incompetent, 
+on a motion to dismiss the Court must draw all 
+reasonable inferences in his favor. In light of this 
+standard, this case is quite similar to Johnsen. That 
+is, Plaintiff alleges that he was mentally incompetent 
+to file his returns and institute a lawsuit during the 
+statutory period. Assuming for the purposes of this 
+motion that Plaintiff was incompetent, the principles 
+
+
+of equitable tolling should apply as under the Johnsen 
+case." 
+
+
+In support of its motion to dismiss, the United 
+States relies heavily upon United States v. Dalm, 
+494 U.S. 596, 110 S.Ct. 1361, 108 L.Ed.2d 548 reh. 
+denied, 495 U.S. 941, 110 S.Ct. 2195, 109 L.Ed.2d 
+523 (1990). The government contends that Dalm 
+stands for the proposition that equitable tolling does 
+not apply to tax refund cases. However, Dalm did 
+not discuss equitable tolling, but instead dealt 
+
+
+See also, the discussion on mental incompetency, infra. 
+
+
+68a 
+
+
+with the entirely distinct tax doctrine of equitable 
+recoupment. 
+
+In Dalm, Frances Dalm was appointed as the ad- 
+ministratrix to the estate of her former employer, 
+to whom she had been a loyal secretary for many 
+years. The former employer’s brother paid her over 
+$300,000 in addition to the money she received from 
+the estate. She declared the $300,000 as a gift for 
+taxation purposes. The IRS later determined that 
+th» $300,000 should have been reported as income 
+an. assessed a deficiency against Dalm. 
+
+Dalm brought suit against the IRS in Tax Court 
+for redetermination of the alleged deficiencies. After 
+two days of trial, Dalm and the IRS settled the case 
+for a svecified sum labeled as “income tax.“ At trial 
+Dalm did not claim to be entitled to a recoupment for 
+the “gift tax” she had previously paid. 
+
+Immediately after entering the settlement, Dalm 
+filed for a refund of the gift tax previously paid. 
+After the IRS denied the claim, Dalm filed suit. By 
+the time she filed her complaint, Dalm’s suit had 
+been barred by the statute of limitations, § 6511, for 
+six years. 
+
+
+The Court framed the issue in Dalm as follows: 
+
+
+The question presented is whether, the statute 
+of limitations long since having run, the doctrine 
+of equitable recoupment supports a separate suit 
+for refund of the earlier paid gift tax after 
+the taxpayer settled the Tax Court deficiency 
+
+
+proceeding and agreed to pay income tax on the 
+transaction. 
+
+
+Dalm 110 S. Ct. at 1363. As the Court explained, the 
+doctrine of equitable recoupment operates to allow a 
+
+
+69a 
+
+
+taxpayer, in certain specified circumstances, to re- 
+coup or offset any previously overpaid taxes against 
+his current taxes notwithstanding the fact that the 
+statute of limitation for filing a refund on the pre- 
+vious taxes has run. See id. at 1366. Significantly, 
+equitable recoupment may only be raised when there 
+is an ongoing lawsuit for an income tax deficiency. 
+See id. The Court stated that equitable recoupment 
+is in the nature of a defense arising out of some 
+feature of the transaction upon which the plaintiff’s 
+action is grounded.” Id. at 1366-7 (citation omitted; 
+emphasis supplied). 
+
+In refusing to apply equitable recoupment to Dalm’s 
+claim the Court summarized the doctrine as follows: 
+“a party litigating a tax claim in a timely proceed- 
+ing may, in that proceeding, seek recoupment of a 
+related, and inconsistent, but now time-barred tax 
+claim relating to the same transaction.” /d. at 1368. 
+The Court emphasized that Dalm was not raising 
+equitable recoupment as a defense, but rather as an 
+independent basis for jurisdiction. Id. (“[Wie have 
+not allowed equitable recoupment to be the sole basis 
+for jurisdiction.” ) 
+
+On the jurisdictional point, the Court stated that 
+although time-bar restrictions should not be con- 
+strued unduly restrictively, they should not be inter- 
+preted to extend the waiver of sovereign immunity 
+beyond that which Congress intended. Id. The Court 
+then stated that its previous holdings—that equitable 
+recoupment could be raised as a defense—did not 
+suspend the jurisdictional rules. To extend those 
+holdings to allow equitable recoupment as an inde- 
+pendent basis of jurisdiction, however, would imper- 
+missibly contravene Congress’s intent. 
+
+
+70a 
+
+
+The Court cited 26 U.S.C. §§ 1311-1314 as further 
+evidence of Congress’s intent not to extend equitable 
+recoupment. Those sections permit a taxpayer who 
+has been required to pay inconsistent taxes to seek a 
+refund otherwise barred by the statute of limitations, 
+i.e. § 6511(a). Sections 1311-1314 are exceptions to 
+§ 6511 in instances where a taxpayer has been re- 
+quired to pay inconsistent taxes. In this extremely 
+limited area of the tax code, Congress has spoken and 
+the Court reasoned that it should not override Con- 
+gress’s judgment to create an additional exception. 
+Id. at 1369. 
+
+The Dalm case is distinguishable from Irwin. In 
+Dalm the issue was very narrow: Whether the doc- 
+trine of equitable recoupment could serve as an in- 
+dependent basis for federal jurisdiction. Essential to 
+the Court’s analysis was the fact that Dalm could 
+have, but did not, raise that claim in the prevous 
+Tax Court litigation. Dalm at 1370. Irwin contem- 
+plates an entirely different situation. The Irwin 
+Court sought to soften the sometimes harsh effect of 
+statutes of limitations when they operate to deny a 
+litigant the opportunity to seek redress for an injury. 
+In Dalm, the plaintiff had such an opportunity but 
+failed to capitalize on it. Additionally, the Dalm 
+Court emphasized that Congress already provides 
+methods to mitigate the harsh rule of the statute of 
+limitations in certain limited tax matters, i.e. those 
+matters where the taxpayer is required to pay tax on 
+inconsistently taxable items (eg. “gift” and “in- 
+come”). Congress has not expressed such an intent 
+in the other areas of the tax code. Johnsen v. United 
+States, 758 F.Supp. at 835-836 (The legislative his- 
+tory of the statute of limitations “is absolutely devoid 
+
+
+71a 
+
+
+of any indication that Congress intended to preclude 
+such equitable tolling in tax refund actions.” (citing 
+to legislative history)). Thus, the holding in Dalm 
+was limited to the area of inconsistently taxable items 
+under §§ 1311-1314. 
+
+The dissenting opinion in Dalm further suggests 
+that the rule from the majority opinion has limited 
+application. Justice Stevens, writing for two other 
+Justices, stated that “[t]his is not a decision that will 
+be much celebrated or often cited.” Jd. at 1370 
+(Stevens, J., dissenting). He also noted that [few 
+cases are affected, and not a single brief amicus 
+curiae was filed.” Id. He concluded that the case 
+“has no apparent importance.” Jd. It can be inferred 
+from the dissent’s comments that the Court, and in- 
+deed other members of the legal community, did not 
+contemplate or intend that this case have the far- 
+reaching effect that the government claims it does. 
+
+Moreover, Irwin was decided by the same Court 
+only nine months after Dalm. Had the Court viewed 
+Dalm as a limit to Irwin, it likely would have so 
+stated. Indeed, if Dalm stood for the proposition that 
+equitable tolling does not apply to tax refund cases, 
+as the government asserts, the Irwin Court would 
+have cited Dalm as an example of how the federal 
+courts apply equitable tolling “only sparingly.” How- 
+ever, the Irwin Court does not even mention Dalm. 
+Because Dalm and Irwin dealt with different prin- 
+ciples, Dalm with the narrow issue of equitable re- 
+coupment and Irwin with the broad principle of equi- 
+table tolling, this Court will not apply Dalm to the 
+instant case. 
+
+The government also relies upon Vintilla v. United 
+States, 931 F.2d 1444 (11th Cir.1991), a case decided 
+after Irwin and Dalm. In Vintilla, the Eleventh Cir- 
+
+
+72a 
+
+
+cuit Court of Appeals applied Dalm and only cursorily 
+mentioned Irwin in a footnote. The Court stated that 
+“general principles of equity may not override statu- 
+tory requirements for timely filing of tax refund 
+claims.” Vintilla at 1446. The Court cited the lan- 
+guage in Dalm that time-bar provisions are not to be 
+construed unduly restrictively but courts must not 
+extend the waiver beyond that which Congress in- 
+tended. The Court then held that allowing equitable 
+tolling would do little more than override the judg- 
+ment of Congress in making exceptions to the tax 
+code statute of limitations. 
+
+However, in Dalm, the Court stated that, “Con- 
+gress has legislated a set of exceptions to limitations 
+prescribed by 55 7422 and 6511 (a) . . . known as 
+.. . 88 1311-1314.“ Dalm at 1369 (emphasis sup- 
+plied). These exceptions apply in very limited cir- 
+cumstances and were not intended as the exclusive 
+equitable exceptions for all types of claims. Indeed, 
+the Dalm Court stated that §§ 1311-1314 are limited 
+exceptions to the general statute of limitations, those 
+exceptions being relevant only to inconsistently taxed 
+items. Dalm at 1369 (§§ 1311-1314, “in specified 
+circumstances, permit a taxpayer who has been re- 
+quired to pay inconsistent taxes to seek a refund of 
+a tax the recovery of which is otherwise barred by 
+§§ 7422(a) and 6511(a).”) Thus, §§ 1311-1314 only 
+apply to the narrow circumstances of permitting 
+equitable recoupment for inconsistently taxed items 
+and do not contemplate other situations where equity 
+may require tolling of the general statute of limita- 
+tions period as described in §§ 7422 and 6511(a). 
+
+In a single footnote, the Vintilla Court saw fit to 
+dispose of Irwin with little, if any, analysis. In foot- 
+note 1, the Court quoted the language of Irwin that 
+
+
+73a 
+
+
+equitable tolling is applicable to the government to 
+the same extent as it applies to private parties. The 
+Court went on to state that [the Irwin Court made 
+no attempt to reconcile this language with the seem- 
+ingly contradictory language of Dalm.” Vintilla at 
+1447, n.-1. The Vintilla Court likewise made no such 
+attempt. The Court gave no basis whatsoever for 
+following Dalm instead of Irwin. The Court did how- 
+ever, list the two equitable tolling categories dis- 
+cussed in Irwin“ and went on to conclude, without 
+further discussion, that the plaintiffs did not fit into 
+these categories. /d. 
+
+In reaching its conclusion, tne Vintilla Court char- 
+acterized the equitable tolling categories in /rwin as 
+the only two instances in which equitable tolling is 
+warranted. The language of the /rwin decision does 
+not support that characterization. The /rwin Court 
+first noted that [federal courts typically have ex- 
+tended equitable relief only sparingly.” Irwin at 457. 
+The Court then listed instances where it, the Supreme 
+Court, has so extended equitable relief—the two cate- 
+gories discussed in Vintilla. Irwin at 457-458. The 
+Irwin Court’s language indicates that the Court did 
+not purport to list the only categories of equitable 
+tolling available to litigants, but rather simply stated 
+the two instances where the Court has had occasion 
+to consider equitable tolling principles. See, id. 111 
+S.Ct. at 458, n. 2 and n. 3 (citing only Supreme 
+Court opinions). 
+
+
+* As discussed above, the two categories discussed by the 
+Irwin Court are (1) where the claimant actively pursues his 
+judicial remedies by filing a defective pleading during the 
+statutory period and (2) where the claimant has been tricked 
+or induced by his adversary’s misconduct into allowing the 
+filing deadline to pass. /rwin at 458. 
+
+
+74a 
+
+
+As discussed below, the Circuit and District Courts 
+have extended equitable tolling to categories other 
+than those in Supreme Court opinions, one such cate- 
+gory being a plaintiff’s mental incompetency. Pre- 
+sumably, the Supreme Court did not overrule all cases 
+applying equitable tolling principles inconsistent with 
+the two categories the Court has previously consid- 
+ered. It makes better sense to read the Court’s opin- 
+ion in light of the lower federal court opinions on 
+the subject. This reading would account for the 
+Court's use of the language, “federal courts . . . have 
+extended.” Surely “federal courts” include the lower 
+federal courts as well as the Supreme Court. If the 
+Court had intended to limit equitable tolling to the 
+two narrow categories discussed in the Irwin opinon, 
+the Court would have so stated. Instead, however, 
+the Court used broad language in discussing the ex- 
+tent to which equitable tolling principles are appli- 
+cable in suit against the United States. The Court 
+held that “the same rebuttable presumption of equi- 
+table tolling applicable to suits against private de- 
+fendants should also apply to suits against the United 
+States.” Irwin, 111 S.Ct. at 457. Since courts have 
+applied equitable tolling principles other than the two 
+categories discussed in Irwin, the Irwin categories 
+must be read as non-exhaustive examples. Accord- 
+ingly, the Court finds that the categories listed by 
+the Court in /rwin are not exclusive. 
+
+The Court finds /rwin controlling and holds that 
+the principles of equitable tolling apply to tax refund 
+claims to the same extent that those principles apply 
+to private parties. In that regard, this Court’s hold- 
+ing is consistent with the Johnsen case. The instant 
+case is very similar to the Johnsen case given the fact 
+that on a motion to dismiss, the Court must accept 
+
+
+75a 
+
+
+as true Plaintiff's assertion that he was mentally in- 
+competent from 1984-1990. The Dalm case is dis- 
+tinguishable on its facts and on the law applied 
+therein. Because the government moves to dismiss 
+on jurisdictional grounds, claiming that the statute 
+of limitations may not be tolled as a matter of law, 
+the Court denies the government’s motion. 
+
+
+2. Mental Incompetency Tolls the Statute of Limi- 
+
+tations. 
+
+Neither of the parties have adequately briefed the 
+issue of whether, as a matter of law, mental incom- 
+petency may equitably toll the statute of limitations; 
+however, there is some federal case law on point. 
+The Ninth Circuit has recognized that a statute of 
+limitations may be equitably tolled when “extraordi- 
+nary circumstances beyond plaintiff[’s] control made 
+it impossible to file the claim[] on time.” Seattle 
+Audubon Society v. Robertson, 931 F.2d 590 (9th 
+Cir.1991). The Ninth Circuit has not yet considered 
+whether mental incompetency so tolls a statute of 
+limitations. Other courts, however, have held that 
+mental incompetency will equitably toll the statute of 
+limitations. The Johnsen case, supra, held that 
+mental incompetency tolls the statute of limitations 
+for filing a tax refund claim. Additionally, a District 
+Court in the Sixth Circuit has held that 
+
+
+as a matter of federal law, in [a] . . . suit be- 
+tween private parties, the period for filing a 
+charge with the [EEOC] may be tolled, in the 
+discretion of the Court, for that period of time 
+during which the claimant was adjudicated 
+mentally incompetent. 
+
+
+76a 
+
+
+Basset v. Sterling Drug, Inc., 578 F.Supp. 1244, 1248 
+(S. D. Ohio); compare, Lopez v. Citibank, N. A., 808 
+F.2d 905 (Ist Cir. 1987) (mental incompetency for 
+tolling purposes considered under a case-specific anal- 
+ysis rather than an absolute rule). Fundamental 
+principles of equity mandate that when a person suf- 
+fers from a disease rendering him mentally incom- 
+petent to assert his rights during the period he was 
+incapacitated, time limitations should not operate to 
+preclude him from seeking redress for his injuries. 
+
+In light of the Johnsen and Basset cases, the Court 
+finds that mental incompetency may, in appropriate 
+cases, toll the statute of limitations for filing a tax 
+refund action. 
+
+IV. CONCLUSION 
+
+
+The Court finds, under the authority of /rwin, that 
+equitable tolling principles apply to tax refund claims. 
+The Court also finds persuasive the Johnsen case, 
+which held that mental incompetency will equitable 
+toll the tax code statute of limitations for refund 
+claims. The Dalm decision dealt with the narrow 
+issue of equitable recoupment and therefore does not 
+apply here. Accordingly, the United States’ motion 
+to dismiss is denied. 
+
+
+MOTION DENIED. 
+
+

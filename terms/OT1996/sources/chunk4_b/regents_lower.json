@@ -1,0 +1,901 @@
+{
+  "id": 7413068,
+  "name": "John DOE, Ph.D., and all others similarly situated, Plaintiffs-Appellants, v. LAWRENCE LIVERMORE NATIONAL LABORATORY, John Nuckolls, Director, Defendants, and The Regents of the University of California, Defendant-Appellee",
+  "name_abbreviation": "Doe v. Lawrence Livermore National Laboratory",
+  "decision_date": "1995-09-11",
+  "docket_number": "No. 93-16792",
+  "first_page": "771",
+  "last_page": "778",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "65 F.3d 771"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "9th Cir.",
+    "id": 8826,
+    "name": "United States Court of Appeals for the Ninth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "102 L.Ed.2d 51",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 S.Ct. 75",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "488 U.S. 826",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1495014,
+        1494054,
+        1493096,
+        1493290,
+        1494126,
+        1493264,
+        1493140,
+        1494420,
+        1495286,
+        1495543,
+        1494456,
+        1493786,
+        1493343
+      ],
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/488/0826-11",
+        "/us/488/0826-08",
+        "/us/488/0826-05",
+        "/us/488/0826-12",
+        "/us/488/0826-07",
+        "/us/488/0826-06",
+        "/us/488/0826-09",
+        "/us/488/0826-02",
+        "/us/488/0826-03",
+        "/us/488/0826-10",
+        "/us/488/0826-04",
+        "/us/488/0826-01",
+        "/us/488/0826-13"
+      ]
+    },
+    {
+      "cite": "537 A.2d 652",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 N.J. 319",
+      "category": "reporters:state",
+      "reporter": "N.J.",
+      "case_ids": [
+        1375730
+      ],
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj/109/0319-01"
+      ]
+    },
+    {
+      "cite": "491 U.S. 58",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6210401
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "70"
+        },
+        {
+          "page": "2312"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/491/0058-01"
+      ]
+    },
+    {
+      "cite": "1992 WL 690295",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "512 F.Supp. 889",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3260003
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "901-02"
+        },
+        {
+          "page": "895"
+        },
+        {
+          "page": "895",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/512/0889-01"
+      ]
+    },
+    {
+      "cite": "127 L.Ed.2d 434",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "114 S.Ct. 1126",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "998 F.2d 931",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10516063
+      ],
+      "pin_cites": [
+        {
+          "page": "940"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/998/0931-01"
+      ]
+    },
+    {
+      "cite": "504 F.Supp. 1349",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        4185040
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1351-54"
+        },
+        {
+          "page": "1352-54",
+          "parenthetical": "examining the pertinent factors as they relate to the University in order to determine whether the University is entitled to Eleventh Amendment immunity, rather than blindly asserting immunity"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/504/1349-01"
+      ]
+    },
+    {
+      "cite": "293 U.S. 245",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3933080
+      ],
+      "weight": 3,
+      "year": 1934,
+      "pin_cites": [
+        {
+          "page": "257"
+        },
+        {
+          "page": "201"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/293/0245-01"
+      ]
+    },
+    {
+      "cite": "682 F.2d 1344",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        538992
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1350"
+        },
+        {
+          "page": "1350"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/682/1344-01"
+      ]
+    },
+    {
+      "cite": "885 F.2d 1439",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10536356
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1443"
+        },
+        {
+          "page": "1443"
+        },
+        {
+          "page": "1442-43"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/885/1439-01"
+      ]
+    },
+    {
+      "cite": "143 Cal.Rptr. 276",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "279"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "77 Cal.App.3d 130",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2011360
+      ],
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/77/0130-01"
+      ]
+    },
+    {
+      "cite": "72 Cal.Rptr. 756",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "762-68"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "266 Cal.App.2d 864",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "year": 1968,
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 F.3d 1289",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10517586
+      ],
+      "pin_cites": [
+        {
+          "page": "1292"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/3/1289-01"
+      ]
+    },
+    {
+      "cite": "104 L.Ed.2d 663",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 S.Ct. 2102",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "490 U.S. 1081",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        605376,
+        606048,
+        605155,
+        605251,
+        605731,
+        605355,
+        605259,
+        605104,
+        605778,
+        605522,
+        605554,
+        605656,
+        605466,
+        605595
+      ],
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/490/1081-04",
+        "/us/490/1081-02",
+        "/us/490/1081-07",
+        "/us/490/1081-08",
+        "/us/490/1081-14",
+        "/us/490/1081-03",
+        "/us/490/1081-05",
+        "/us/490/1081-10",
+        "/us/490/1081-06",
+        "/us/490/1081-13",
+        "/us/490/1081-01",
+        "/us/490/1081-09",
+        "/us/490/1081-11",
+        "/us/490/1081-12"
+      ]
+    },
+    {
+      "cite": "861 F.2d 198",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10525755
+      ],
+      "pin_cites": [
+        {
+          "page": "201"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/861/0198-01"
+      ]
+    },
+    {
+      "cite": "950 F.2d 1419",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10528231
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "1423"
+        },
+        {
+          "page": "1424"
+        },
+        {
+          "page": "1425-26"
+        },
+        {
+          "page": "1426"
+        },
+        {
+          "page": "1423"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/950/1419-01"
+      ]
+    },
+    {
+      "cite": "278 U.S. 194",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3906561
+      ],
+      "weight": 3,
+      "year": 1929,
+      "pin_cites": [
+        {
+          "page": "199"
+        },
+        {
+          "page": "106"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/278/0194-01"
+      ]
+    },
+    {
+      "cite": "103 L.Ed.2d 859",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 S.Ct. 1557",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "489 U.S. 1090",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12089921,
+        12089800,
+        12089837,
+        12090030,
+        12089874,
+        12089973,
+        12090075
+      ],
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/489/1090-04",
+        "/us/489/1090-01",
+        "/us/489/1090-02",
+        "/us/489/1090-06",
+        "/us/489/1090-03",
+        "/us/489/1090-05",
+        "/us/489/1090-07"
+      ]
+    },
+    {
+      "cite": "858 F.2d 1394",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10536202
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1395"
+        },
+        {
+          "page": "1396"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/858/1394-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. § 1291",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 U.S.C. § 1983",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "83 L.Ed.2d 803",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1985,
+      "opinion_index": 1
+    },
+    {
+      "cite": "105 S.Ct. 810",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1985,
+      "opinion_index": 1
+    },
+    {
+      "cite": "469 U.S. 1127",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12087975,
+        12088015,
+        12087889,
+        12088091,
+        12087932
+      ],
+      "year": 1985,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/469/1127-03",
+        "/us/469/1127-04",
+        "/us/469/1127-01",
+        "/us/469/1127-05",
+        "/us/469/1127-02"
+      ]
+    },
+    {
+      "cite": "735 F.2d 1139",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        581249
+      ],
+      "pin_cites": [
+        {
+          "page": "1147-48"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/735/1139-01"
+      ]
+    },
+    {
+      "cite": "862 F.2d 1352",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1825493
+      ],
+      "pin_cites": [
+        {
+          "page": "1353-54"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/862/1352-01"
+      ]
+    },
+    {
+      "cite": "650 F.2d 205",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1240253
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "206"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/650/0205-01"
+      ]
+    },
+    {
+      "cite": "460 U.S. 719",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6199239
+      ],
+      "weight": 3,
+      "year": 1983,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/460/0719-01"
+      ]
+    },
+    {
+      "cite": "660 F.2d 1345",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        390941
+      ],
+      "pin_cites": [
+        {
+          "page": "1349"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/660/1345-01"
+      ]
+    },
+    {
+      "cite": "491 U.S. 58",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6210401
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "71"
+        },
+        {
+          "page": "2312"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/491/0058-01"
+      ]
+    },
+    {
+      "cite": "885 F.2d 1439",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10536356
+      ],
+      "pin_cites": [
+        {
+          "page": "1443"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/885/1439-01"
+      ]
+    },
+    {
+      "cite": "3 F.3d 1289",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10517586
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1292"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/3/1289-01"
+      ]
+    },
+    {
+      "cite": "104 L.Ed.2d 663",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1989,
+      "opinion_index": 1
+    },
+    {
+      "cite": "109 S.Ct. 2102",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1989,
+      "opinion_index": 1
+    },
+    {
+      "cite": "490 U.S. 1081",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        605376,
+        606048,
+        605155,
+        605251,
+        605731,
+        605355,
+        605259,
+        605104,
+        605778,
+        605522,
+        605554,
+        605656,
+        605466,
+        605595
+      ],
+      "year": 1989,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/490/1081-04",
+        "/us/490/1081-02",
+        "/us/490/1081-07",
+        "/us/490/1081-08",
+        "/us/490/1081-14",
+        "/us/490/1081-03",
+        "/us/490/1081-05",
+        "/us/490/1081-10",
+        "/us/490/1081-06",
+        "/us/490/1081-13",
+        "/us/490/1081-01",
+        "/us/490/1081-09",
+        "/us/490/1081-11",
+        "/us/490/1081-12"
+      ]
+    },
+    {
+      "cite": "861 F.2d 198",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10525755
+      ],
+      "pin_cites": [
+        {
+          "page": "201"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/861/0198-01"
+      ]
+    },
+    {
+      "cite": "950 F.2d 1419",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10528231
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1423"
+        },
+        {
+          "page": "1425, n. 3"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/950/1419-01"
+      ]
+    },
+    {
+      "cite": "103 L.Ed.2d 859",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1989,
+      "opinion_index": 1
+    },
+    {
+      "cite": "109 S.Ct. 1557",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1989,
+      "opinion_index": 1
+    },
+    {
+      "cite": "489 U.S. 1090",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12089921,
+        12089800,
+        12089837,
+        12090030,
+        12089874,
+        12089973,
+        12090075
+      ],
+      "year": 1989,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/489/1090-04",
+        "/us/489/1090-01",
+        "/us/489/1090-02",
+        "/us/489/1090-06",
+        "/us/489/1090-03",
+        "/us/489/1090-05",
+        "/us/489/1090-07"
+      ]
+    },
+    {
+      "cite": "858 F.2d 1394",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10536202
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1395"
+        },
+        {
+          "page": "1396"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/858/1394-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1014,
+    "char_count": 27070,
+    "ocr_confidence": 0.672,
+    "pagerank": {
+      "raw": 1.0462306861044515e-07,
+      "percentile": 0.5521128838013336
+    },
+    "sha256": "8cb09bbaf50816f078725d79761a0b481e9e289906a1611ac39254ad7c188ef3",
+    "simhash": "1:88d93b7bc8ab9efe",
+    "word_count": 4338
+  },
+  "last_updated": "2024-02-27T19:46:02.805499+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before: CHOY, CANBY and T.G. NELSON, Circuit Judges."
+    ],
+    "parties": [
+      "John DOE, Ph.D., and all others similarly situated, Plaintiffs-Appellants, v. LAWRENCE LIVERMORE NATIONAL LABORATORY, John Nuckolls, Director, Defendants, and The Regents of the University of California, Defendant-Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by Judge CHOY; Dissent by Judge CANBY.\nCHOY, Circuit Judge:\nAppellant, Dr. John Doe, Ph.D. (“Doe”), on behalf of himself and all others similarly situated, appeals the district court’s dismissal of his breach of contract claim against the Regents of the University of California (“University”) and his § 1983 claim against John Nuckolls (“Nuckolls”), director of the Lawrence Livermore National Laboratory (“Laboratory”) which is owned by the United States Department of Energy (“Department”) and is operated by the University.\nDoe is a mathematical physicist who signed an employment contract with the Laboratory. Doe contends that the Laboratory wrongfully refused to perform the contract of employment by peremptorily determining that Doe could not obtain a security clearance from the Department. The district court dismissed Doe’s breach of' contract claim against the Laboratory and the University because it held that the Laboratory and the University, as arms of the state, were immune from suit in federal court under the Eleventh Amendment. Doe appeals the district court’s decision to grant Eleventh Amendment immunity to the University, as manager of the Laboratory.\nDoe also appeals the district court’s dismissal of his 42 U.S.C. § 1983 claim against Nuckolls, in his official capacity, and seeks reconsideration of his application for employment at the Laboratory without reference to security clearance matters. The district court dismissed the § 1983 claim because it determined that Nuckolls was not a “person” under § 1983 and thus was not liable for Doe’s claim which sought relief solely for a violation alleged to have occurred in the past.\nHaving jurisdiction under 28 U.S.C. § 1291, we reverse the district court’s dismissal of Doe’s breach of contract claim. We hold that the Eleventh Amendment does not immunize the University from suit in federal court because the University is not an “arm of the state” in this specific instance. We also reverse the dismissal of Doe’s § 1983 claim against Nuckolls, in his official capacity, because Nuckolls is a “person” under § 1983 and is liable to suit for retrospective relief. We need not address the issue of whether reconsideration of Doe’s employment constitutes prospective injunctive relief but remand to the district court for further proceedings in accordance with our holding.\nI\nDoe is a mathematical physicist who received his Ph.D. from Harvard University in 1981. The Laboratory is a facility operated by the University under contract with the Department. Although the University controls all employment matters at the Laboratory, the Department exclusively handles security clearances for Laboratory employees.\nDoe allegedly accepted the Laboratory’s written offer of employment as a physicist in mid-June, 1991. The employment offer included a salary of $6,100 per month and required Doe to obtain a “Q” security clearance from the Department in a reasonable period of time after he became an employee of the Laboratory. Doe alleges that shortly after he accepted the employment offer, the Laboratory attempted to withdraw the offer, claiming that Doe could not obtain the required security clearance from the Department.\nThe contract between the United States of America (“Government”) and the University for the management and operation of the Laboratory specifies that the Department, rather than the University, will pay the costs of any judgment rendered against the University in performing the contract, including all costs involved in litigation. Modification No. M205, Supplemental Agreement to Contract No. W-7405-ENG-48 (“Contract”).\nOn June 18, 1992, Doe filed his initial complaint against the University, its president, David Gardner (“Gardner”), the Laboratory, and its director, Nuckolls. The complaint contained a claim for breach of employment contract against the Laboratory, the University, Gardner, and Nuckolls. In addition, the complaint contained a § 1988 claim against the Laboratory, the University, and Nuckolls and Gardner, in their official capacities, alleging deprivation of due process of law because unqualified personnel at the Laboratory peremptorily determined eligibility for a “Q” security clearance in violation of federal security clearance regulations. Finally, the complaint contained a claim for failure to enforce security regulations. On October 22,1992, Doe amended his complaint to add allegations suing Nuckolls and three additional employees of the University, all in their individual capacities, for violation of § 1988.\nOn December 9, 1992, the defendants moved to dismiss Doe’s § 1983 claim on the ground that the University and the Laboratory, as arms of the State, and Gardner and Nuckolls, in their official capacities, are not “persons” within the meaning of § 1983. In addition, the defendants sought to dismiss the three newly-added University employees and Nuckolls, in his individual capacity, on the ground that the statute of limitation period had run. Finally, Gardner and Nuckolls moved to dismiss Doe’s breach of contract claim on the ground that neither was alleged to be party to the employment contract.\nOn February 5, 1993, the district court dismissed all claims against Gardner, the breach of contract claim against Nuckolls, and the § 1983 claim against the University, the Laboratory, the three University employees, and Nuckolls, in his official capacity. In its order, however, the district court noted that a plaintiff may assert a § 1983 claim against a state official, acting in her official capacity, if the plaintiff seeks prospective injunctive relief. Doe’s breach of contract claim against the University and the Laboratory, and his § 1983 claim against Nuckolls, in his individual capacity, survived.\nOn April 7, 1993, Doe filed a second amended complaint which contained two claims. The first claim, against the Laboratory and the University, alleged breach of employment contract. Doe also brought a § 1983 claim, seeking declaratory and prospective injunctive relief, against the University, the Laboratory, and Nuckolls, in his official and individual capacities. Finally, the second amended complaint added class action allegations.\nOn May 10,1993, the defendants moved to dismiss Doe’s breach of contract claim against the University and the Laboratory on the ground that they were immune from suit under the Eleventh Amendment. In addition, the defendants moved to dismiss Doe’s renewed § 1983 claim against the University and the Laboratory on the ground that neither is a “person” within the meaning of § 1983. Finally, the defendants moved to dismiss Doe’s § 1983 claim against Nuckolls, in his official capacity, insofar as the claim was based upon alleged past violations of law because Nuckolls is not a “person” for such retrospective § 1983 relief.\nOn June 24, 1993, the district court granted the motion to dismiss all aspects relevant to this appeal. The district court dismissed the breach of contract claim against the University and the Laboratory on Eleventh Amendment ground. The district court also dismissed the § 1983 claim against the University and the Laboratory, noting that the same claim already had been dismissed in its February 5, 1993 order. Finding that the relief Doe sought — reconsideration of his employment application — did not constitute prospective injunctive relief, the district court dismissed Doe’s § 1983 claim against Nuc-kolls in his official capacity. The district court entered a final judgment on September 16, 1993, and Doe timely filed a notice of appeal on September 22, 1993.\nII\nDoe contends that the district court erred when it dismissed his breach of employment contract claim against the University, as manager of the Laboratory, on the ground that the Eleventh Amendment of the United States Constitution grants the University immunity from suit in federal court. A determination of a state’s immunity from suit under the Eleventh Amendment is a question of law which is reviewed de novo. BV Eng’g v. University of Cal., L.A., 858 F.2d 1394, 1395 (9th Cir.1988), cert. denied, 489 U.S. 1090, 109 S.Ct. 1557, 103 L.Ed.2d 859 (1989).\nThe Eleventh Amendment provides:\nThe Judicial power of the United States shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the United States by Citizens of another State, or by Citizens or Subjects of any Foreign State.\nU.S. Const, amend. XI. The United States Supreme Court has extended the reach of the Eleventh Amendment to bar federal courts from presiding over any suit in which a state or “arm of the state” is a defendant. State Highway Comm’n v. Utah Constr. Co., 278 U.S. 194, 199, 49 S.Ct. 104, 106, 73 L.Ed. 262 (1929). However, “not all state-created or state-managed entities are immune from suit in federal court.... an entity may be organized or managed in such a way that it does not qualify as an arm of the state entitled to sovereign immunity.” Durning v. Citibank, N.A., 950 F.2d 1419, 1423 (9th Cir.1991).\nWe apply a five-factor analysis to determine whether the University, acting in a managerial capacity for the Laboratory, is an arm of the state and thus entitled to Eleventh Amendment immunity from suit in federal court. See Mitchell v. Los Angeles Community College Dist., 861 F.2d 198, 201 (9th Cir.1988) (considering the source of funding for California state colleges and universities to determine whether they are protected by Eleventh Amendment immunity), cert. denied, 490 U.S. 1081, 109 S.Ct. 2102, 104 L.Ed.2d 663 (1989). The five factors are:\n[1] whether a money judgment would be satisfied out of state funds, [2] whether the entity performs central governmental functions, [3] whether the entity may sue or be sued, [4] whether the entity has power to take property in its own name or only the name of the state, and [5] the corporate status of the entity.\nITSI TV Prods. v. Agricultural Ass’ns, 3 F.3d 1289, 1292 (9th Cir.1993).\nState liability for money judgment is the single most important factor in determining whether an entity is an arm of the state. Durning, 950 F.2d at 1424. We must evaluate “whether a judgment against the defendant entity under the terms of the complaint would have to be satisfied out of the limited resources of the entity itself or whether the state treasury would also be legally pledged to satisfy the obligation.” Id. We conclude that this factor weighs against granting the University Eleventh Amendment immunity from suit in federal court. The Contract makes clear that the Department, and not the State of California, is liable for any judgment rendered against the University in its performance of the Contract. ‘When a state entity is structured so that its obligations are its own special obligations and not general obligations of the state, that fact weighs against a finding of sovereign immunity under the arm of the state doctrine....” Id. at 1425-26.\nThe second factor, whether the University performs central government functions, weighs in favor of finding that the University is an arm of the state and granting it Eleventh Amendment immunity. In analyzing this factor, we look at the overall function of the University and not merely to the specific function it performs in relation to the Laboratory. See id. at 1426. We look to the way California law treats the University in order to assess whether the University performs central government functions. Id. at 1423. The California State Attorney General has stated that the University is “a branch of the state government equal and coordinate with the Legislature, the judiciary, and the executive.” 30 Ops.Cal.Att'y Gen. 162, 166 (1957). California case law also clearly recognizes the University as a branch of the state government. See Ishimatsu v. Regents of Univ. of Cal., 266 Cal.App.2d 864, 72 Cal.Rptr. 756, 762-68 (1968); Regents of Univ. of Cal. v. City of Santa Monica, 77 Cal.App.3d 130, 143 Cal.Rptr. 276, 279 (1978). Finally, the California Education Code defines the University’s mission, accords the University with exclusive jurisdiction over education in certain professions, and allocates to it the primary responsibility for “state-supported academic ... research.” Cal.Educ.Code § 66010.4(c) (West Supp.1995). The regulation of public education is an important central government function, thus the second factor weighs in favor of granting immunity to the University.\nThe University is not entitled to Eleventh Amendment immunity, however, because the remaining factors, in addition to the first and most important factor, weigh against a finding of immunity. The third factor weighs against immunity because the California Constitution grants the University “the power to sue and be sued.” Cal. Const, art. 9, § 9(f). The fourth factor, whether the entity may take property in its own name, also weighs against immunity. The University is vested “with the legal title and the management and disposition of the property of the university” and is given the “power to take and hold, either by purchase or by donation, ... all real and personal property for the benefit of the university.” Id. Finally, the fifth factor weighs against immunity because the California Constitution establishes a “corporation known as ‘The Regents of the University of California.’” Cal. Const, art. 9, § 9(a).\nThe district court erred when it relied upon Thompson v. City of L.A., 885 F.2d 1439, 1443 (9th Cir.1989) (holding that the University was immune from a civil rights suit in federal court where the State of California would have been ultimately responsible for payment of the judgment) and Jackson v. Hayakawa, 682 F.2d 1344, 1350 (9th Cir.1982) (stating in dictum, that the University was an instrumentality of the state), to rule that the University is always immune from suit in federal court.\nThe district court should have applied the five-factor analysis to this unique situation in which the Department, and not the State of California, pays for any judgment rendered against the University in its management of the Laboratory. It is true that the University has been granted Eleventh Amendment immunity in a number of cases. See, e.g., Hamilton v. Regents of the Univ. of Cal., 293 U.S. 245, 257, 55 S.Ct. 197, 201, 79 L.Ed. 343 (1934); Thompson, 885 F.2d at 1443; B.V. Eng’g, 858 F.2d at 1395 (citing Jackson, 682 F.2d at 1350); Vaughn v. Regents of the Univ. of Cal., 504 F.Supp. 1349, 1351-54 (E.D.Cal.1981). However, previous grants of immunity in contexts where the State of California is financially responsible for the University do not automatically translate into immunity in this unique situation. Vaughn, 504 F.Supp. at 1352-54 (examining the pertinent factors as they relate to the University in order to determine whether the University is entitled to Eleventh Amendment immunity, rather than blindly asserting immunity).\nThe University is an enormous entity which functions in various capacities and which is not entitled to Eleventh Amendment immunity for all of its functions. See, e.g. Genentech, Inc. v. Eli Lilly & Co., 998 F.2d 931, 940 (Fed.Cir.1993) (recognizing that Congress has abrogated the University’s immunity from suit in federal court for violation of patent law), cert. denied, — U.S. -, 114 S.Ct. 1126, 127 L.Ed.2d 434 (1994); In re Holoholo, 512 F.Supp. 889, 901-02 (D.Haw.1981) (finding that the University waived its Eleventh Amendment immunity by signing a government contract that contemplated possible suits against it in federal court and by entering into a federally regulated area), superseded by statute, not in relevant part, as stated in, Bator v. Judiciary, Adult Probation Div., 1992 WL 690295, 1992 U.S.Dist. Lexis 22214 (D.Haw. May 20, 1992). The source of funding in each situation, in addition to the four other factors for determining Eleventh Amendment immunity, must be examined closely to ascertain that the University is indeed functioning as an arm of the state.\nThe University argues that the district court in Holoholo, 512 F.Supp. at 895, held that the University is an arm of the state despite an indemnification provision similar to the one in the Contract in this case. The district court in that case held that “since the [University] depends upon appropriations by the California Legislature, any damages awarded against the [University] would, absent insurance or other indemnification, come from the state treasury.” Id. at 895 (emphasis added). In making that statement, the district court had not considered the specific indemnification provision in the contract between the University and the United States and later acknowledged that “the exact nature and extent of the indemnification are not elear[,]” but that the indemnification provision “could render the Eleventh Amendment inapplicable to these state defendants [including the University].” Id. at 899 n. 14.\nAfter applying the five-factor analysis, we find that the University, acting in a managerial capacity for the Laboratory, has not satisfied the burden of proving that it is entitled to Eleventh Amendment immunity. Because we hold that the University, in this specific instance, is not entitled to Eleventh Amendment immunity from suit in federal court, we need not address whether the University has waived or Congress has abrogated the University’s immunity. See BV Eng’g, 858 F.2d at 1396.\nIll\nDoe next contends that the district court erred when it dismissed his § 1983 claim against Nuckolls, in his official capacity. We have determined that the University is not protected by the Eleventh Amendment from suit in federal court because the University, in this particular instance, is not functioning as an arm of the state. Because we hold that the University is not an arm of the state in this instance, it is a “person” under § 1983. See Will v. Michigan Dep’t of State Police, 491 U.S. 58, 70, 109 S.Ct. 2304, 2312, 105 L.Ed.2d 45 (1989); see also Fuchilla v. Layman, 109 N.J. 319, 537 A.2d 652, 654 cert. denied, 488 U.S. 826, 109 S.Ct. 75, 102 L.Ed.2d 51 (1988). Nuckolls, acting as the director of the University-managed Laboratory, is therefore not a state official but a “person” who is fully hable under § 1983. See Thompson, 885 F.2d at 1442-43 (“only those governmental entities which are ‘persons’ within the meaning of § 1983 can be held hable under § 1983.”).\nBecause we hold that the University and Nuckolls, acting in his official capacity, are fully hable to suit under § 1983, we need not address the question of whether reconsideration of Doe’s employment by the Laboratory constitutes prospective injunctive rehef. Doe may sue both the University and Nuckolls in federal court regardless of whether the rehef he seeks constitutes prospective or retrospective rehef. We remand to the district court for further proceedings in accordance with our ruling. We deny Doe’s request for attorney’s fees because the defendants brought forth a legitimate argument on the basis of Eleventh Amendment immunity.\nREVERSED and REMANDED.\n. The Department, James Watkins (Secretary of Energy), and Richard Claytor (Assistant Secretary of Energy for Defense Programs) were also listed as defendants but were later dismissed with prejudice by stipulation on November 25, 1992.",
+        "type": "majority",
+        "author": "CHOY, Circuit Judge:"
+      },
+      {
+        "text": "CANBY, Circuit Judge,\ndissenting:\nWith all respect to the majority, I disagree with its conclusion that the Eleventh Amendment does not bar this action against the University and its officers acting in their official capacities.\nAs the majority opinion recognizes, we have previously held that the University of California is an arm of the California State Government entitled to Eleventh Amendment immunity from suit in federal court. E.g., Thompson v. City of Los Angeles, 885 F.2d 1439, 1443 (9th Cir.1989) (“It has long been established that UC is an instrumentality of the state for purposes of the Eleventh Amendment”); BV Engineering v. Univ. of Calif., Los Angeles, 858 F.2d 1394, 1395 (9th Cir.1988), cert. denied, 489 U.S. 1090, 109 S.Ct. 1557, 103 L.Ed.2d 859 (1989). In my view, these cases are controlling, and there is no call to reassess the status of the University in the absence of a change in its structure. If the University is the defendant, and judgment is sought against the University, the case may not be brought in federal court unless the immunity has been waived. BV Engineering, 858 F.2d at 1396.\nThe majority, however, does decide anew the question of the University’s immunity. In so doing, it reaches an incorrect result. The majority applies a five-factor test that originated in Mitchell v. Los Angeles Community College District, 861 F.2d 198, 201 (9th Cir.1988), cert. denied, 490 U.S. 1081, 109 S.Ct. 2102, 104 L.Ed.2d 663 (1989), and was repeated in Durning v. Citibank, N.A., 950 F.2d 1419, 1423 (9th Cir.1991), and ITSI TV Productions, Inc. v. Agricultural Associations, 3 F.3d 1289 (9th Cir.1993). The listed factors are:\n[1] whether a money judgment would be satisfied out of state funds, [2] whether the entity performs central governmental functions, [3] whether the entity may sue or be sued, [4] whether the entity has power to take property in its own name or only the name of the state, and [5] the corporate status of the entity.\nId. at 1292. The majority here agrees that factor [2] favors immunity; the University has long been recognized as performing functions of the central government. The majority states, however, that factors [3], [4], and [5] work against immunity, because the University may sue or be sued, may take property in its own name, and enjoys corporate status. But none of these three attributes of the University of California has changed since we held it to be entitled to Eleventh Amendment immunity. Once we have decided that the University is an arm of the Government of California for Eleventh Amendment purposes, the role that these structural factors play should be put to rest.\nThe crux of the majority’s decision, as its opinion states, lies in the first factor. “[T]he source from which the sums sought by the plaintiff must come is the most important single factor in determining whether the Eleventh Amendment bars federal jurisdiction.” Rutledge v. Arizona Bd. of Regents, 660 F.2d 1345, 1349 (9th Cir.1981), aff'd sub nom. Kush v. Rutledge, 460 U.S. 719, 103 S.Ct. 1483, 75 L.Ed.2d 413 (1983). In my view, however, this factor must be viewed as a legal, not an economic matter. “[T]he question is whether the state treasury is legally obligated.” Durning, 950 F.2d at 1425 n. 3.\nNo one has disputed that a judgment against the University of California is a legal obligation of the State of California. The majority opinion concludes, however, that the agreement of the United States to “indemnify and hold the University harmless against any ... judgment or liability” arising out of its management of the Laboratory changes the Eleventh Amendment analysis. But that contractual clause is a separate matter. A judgment in this case will be a legal liability of the State of California. The fact that California has a legal means of collecting an indemnity from the United States does not affect its primary liability for the judgment. Doe, if he wins his case, must execute his judgment against the State, not the United States.\nSeveral of our decisions establish that Eleventh Amendment immunity turns on the formal legal liability of the State, and not the economic impact of the judgment. In Markowitz v. United States, 650 F.2d 205, 206 (9th Cir.1981), we held that a State was entitled to Eleventh Amendment immunity even if it had liability insurance that would ultimately pay the judgment. It is true that part of our reasoning was that state funds pay the insurance premiums, id., but the same indirect economic consequences are present here. If the United States did not agree to indemnify the University, the University’s charge for managing the Laboratory would have to be higher. Lower receipts by the University are a form of insurance premium payment to the United States.\nConversely, the fact that a State volunteers to pay a judgment incurred by an agency does not create Eleventh Amendment immunity because the question is whether the state has a legal liability to pay the judgment. Durning, 950 F.2d at 1425, n. 3. Indeed, a suit against an individual officer does not become a suit against the State for Eleventh Amendment purposes even if a state statute provides that the officer may sue the State to recover indemnity. Blaylock v. Schwinden, 862 F.2d 1352, 1353-54 (9th Cir.1988); Demery v. Kupperman, 735 F.2d 1139, 1147-48 (9th Cir.1984), cert. denied, 469 U.S. 1127, 105 S.Ct. 810, 83 L.Ed.2d 803 (1985). The question is not who pays in the end; it is who is legally obligated to pay the judgment that is being sought. Here it is the State.\nOne difficulty with taking the federal indemnity agreement into account is that it is a judicial exercise that has no natural boundary. In deciding the threshold question of Eleventh Amendment immunity, we can determine from the pleadings before us and the state statutes whether the judgment that is sought would run against the State. It is far more difficult to determine whether the State, after such a judgment was rendered against it, would have rights of action against third parties that might lead it eventually to recoup the judgment. In this case, there is a relatively clear indemnity agreement, but does the United States have any defenses to a claim of indemnity? In the next case the State might not have the benefit of an indemnity agreement, but might have a common-law cause of action against a third party. Must we assess the State’s likelihood of success in order to decide the Eleventh Amendment question?\nI would avoid all of these difficulties, first, by relying on our established precedent holding that the University of California is entitled to Eleventh Amendment immunity. If I failed in that approach, I would hold that the first Mitchell factor rendered the University immune, because the judgment sought against it would be a legal liability of the State. The University officials being sued in their official capacity would then share in the Eleventh Amendment immunity of the State. Will v. Michigan Dep’t of State Police, 491 U.S. 58, 71,109 S.Ct. 2304, 2312, 105 L.Ed.2d 45 (1989). The result would be to affirm the judgment of the district court that the Eleventh Amendment bars it from entertaining this action.",
+        "type": "dissent",
+        "author": "CANBY, Circuit Judge,"
+      }
+    ],
+    "attorneys": [
+      "Richard Gayer, San Francisco, CA, for plaintiffs-appellants.",
+      "Douglas H. Barton, Hanson, Bridgett, Marcus, Vlahos & Rudy, San Francisco, CA, for defendants-appellees."
+    ],
+    "corrections": "",
+    "head_matter": "John DOE, Ph.D., and all others similarly situated, Plaintiffs-Appellants, v. LAWRENCE LIVERMORE NATIONAL LABORATORY, John Nuckolls, Director, Defendants, and The Regents of the University of California, Defendant-Appellee.\nNo. 93-16792.\nUnited States Court of Appeals, Ninth Circuit.\nArgued and Submitted March 15, 1995.\nDecided Sept. 11, 1995.\nRichard Gayer, San Francisco, CA, for plaintiffs-appellants.\nDouglas H. Barton, Hanson, Bridgett, Marcus, Vlahos & Rudy, San Francisco, CA, for defendants-appellees.\nBefore: CHOY, CANBY and T.G. NELSON, Circuit Judges."
+  },
+  "file_name": "0771-01",
+  "first_page_order": 835,
+  "last_page_order": 842
+}

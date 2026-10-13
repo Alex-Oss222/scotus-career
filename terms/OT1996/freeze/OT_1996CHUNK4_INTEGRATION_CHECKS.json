@@ -1,0 +1,9 @@
+{
+  "completed_records": 10,
+  "stopped_matters": 2,
+  "stage_parts_verified": 29,
+  "active_local_links_checked": 322,
+  "anchors_checked": 3,
+  "errors": [],
+  "git": "Not invoked; object verification and repository commitment remain deferred."
+}

@@ -1,0 +1,1461 @@
+Iu the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1996 
+
+
+FRANCIS BERNARD AUER, ET AL., PETITIONERS 
+
+
+v. 
+
+
+David A. ROBBINS, ET AL. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE EIGHTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+AS AMICUS CURIAE SUPPORTING AFFIRMANCE 
+
+
+WALTER DELLINGER 
+Acting Solicitor General 
+
+
+J. DAVITT MCATEER EDWIN S. KNEEDLER 
+Acting Solicitor of Labor Deputy Solicitor General 
+ALLEN H. FELDMAN IRVING L. GORNSTEIN 
+Associate Solicitor Assistant to the 
+NATHANIEL I. SPILLER Solicitor General 
+Deputy Associate Solicitor Department of Justice 
+Washington, D.C. 20530-0001 
+Senior Appellate Attorney 
+Department of Labor 
+Washington, D.C. 20210 
+
+
+QUESTIONS PRESENTED 
+
+
+Regulations promulgated by the Secretary of Labor 
+provide that employees are considered to be paid on a 
+“salary basis,” and therefore may be “executive,” “admin- 
+istrative,” or “professional” employees exempt from the 
+overtime requirements of the Fair Labor Standards Act of 
+1938, 29 U.S.C. 201 et seq., if they are paid a predeter- 
+mined amount, on a weekly or less frequent basis, that “is 
+not subject to reduction because of variations in the 
+quality or quantity of the work performed.” 29 C.F.R. 
+541.118(a). In addition, 29 C.F.R. 541.118(a)(6) pro- 
+vides a “window of correction” under which an employer 
+that has made a deduction from an employee’s pay that 
+would remove the employee from exempt status may 
+retroactively restore the employee’s exempt status by reim- 
+bursing the employee and promising to comply with the 
+salary basis rule in the future. The questions presented 
+are: 
+
+
+1. Whether the pay of a class of employees is “sub- 
+ject to” reduction within the meaning of 29 C.F.R. 
+541.118(a) when an employer has a written manual that 
+permits disciplinary suspensions of less than one week to 
+be imposed on members of the class, but no such suspen- 
+sion has ever been imposed except in one unique 
+circumstance. 
+
+2. Whether an employer may take advantage of the 
+window of correction to remedy a one-time disciplinary 
+deduction. 
+
+
+TABLE OF CONTENTS 
+
+
+I. The salary basis test, including its disciplinary 
+deduction rule, is a reasonable exercise of the 
+Secretary of Labor’s authority to define the Sec- 
+tion 18(a) (1) exemption ........ 
+
+Il. Petitioners were not “subject to” impermissible 
+disciplinary deductions within the meaning of 
+I a  nipeunsninnnes 
+
+
+III. The window of correction is open to respondents 
+to correct the single improper disciplinary deduc- 
+a AE ES 
+
+
+TABLE OF AUTHORITIES 
+Cases: 
+
+
+Abshire v. County of Kern, 908 F.2d 483 (9th Cir. 
+1990) , cert. denied, 498 U.S. 1068 (1991) .......... 
+Batterton Vv. Francis, 482 U.S. 416 (1977)............... 
+Brock v. Claridge Hotel & Casino, 846 F.2d 180 
+(3d Cir.), cert. denied, 488 U.S. 925 (1988)... 
+Garcia v. San Antonio Metropolitan Transit Au- 
+thority, 469 U.S. ES I 
+Jackson V. Kentucky, 892 F. Supp. 923 (E.D. Ky. 
+1995), appeals pending, Nos. 95-6283 & 95-6284 
+a ecsimusmenece 
+Kinney Vv. District of Columbia, 994 F.2d 6 (D.C. 
+GEE a ll a 
+Martin v. Malcolm Pirnie, Inc., 949 F.2d 611 (2d 
+
+
+Martin v. OSHRC, 499 U.S. 144 (1991) 0... 
+
+
+(II) 
+
+
+16 
+
+
+21 
+
+
+8 4 
+
+
+16 
+
+
+17 
+
+
+20 
+
+
+17 
+
+
+Cir. 1991), cert. denied, 506 U.S. 905 (1992)... 12, 28 
+
+
+IV 
+Cases—Continued : Page 
+Maryland v. Wirtz, 392 U.S. 183 (1968) ................. 4 
+McGuire V. City of Portland, 91 F.3d 1293 (9th Cir. 
+ee 20 
+Meringolo v. City of New York, 908 F. Supp. 160 
+ON KA AQ SS a a es 21 
+Merrill Lynch, Pierce, Fenner & Smith, Ine. V. 
+Curran, 456 U.S. 868 (1962) ................................ 19 
+Mourning Vv. Family Publications Serv., Inc., 411 
+FR fa er a oe 18 
+Mueller Vv. Reich, 54 F.3d 438 ‘(7th Cir. 1995), peti- 
+tion for cert. pending, No. 95-586 0... 20 
+National League of Cities v. Usery, 426 U.S. 833 
+0 ee 8 
+Paulitz v. City of Naperville, 781 F. Seve. 1368 
+I EEE are 21 
+Sullivan v. Zebley, 493 U.S. 521 (1990) ....... aia 16 
+Walling v. Yeakley, 140 F.2d 830 (10th Cir. 
+ET SS SE a ee ne 17 
+Statutes and regulations : 
+Education Amendments of 1972, Pub. L. No. 
+92-318, § 906, 86 Stat. S76 ........................-...........-. ~ 
+Fair Labor Standards Act of 1938, 29 U.S.C. 201 
+Ee 1 
+bo 8 el 8 
+§ 3(e) (2) (C), 29 U.S.C. 208 (e) (2) (C) 18 
+SOR ES EE x 
+§ 7(a) (1), 29 U.S.C. 207 (a) (1) —.................... 1 
+hi) 18 
+§ 18(a) (1), 29 U.S.C. 213(a) (1) ..................... passim 
+DQ BR TE TT 11 
+Fair Labor Standards Amendments of 1966, Pub. 
+L. No. 89-601, § 102, 80 Stat. 831-832 0... 7-8 
+Fair Labor Standards Amendments of 1974, Pub. 
+(CC (xy 8 
+
+
+Fair Labor Standards Amendments of 1985, Pub. 
+L. No. 99-150, 99 Stat. 787: 
+
+
+§§ 2-4, 99 Stat. 787-790... 8 
+§§ 2-5, 99 Stat. 787-790... nneneneeees 19 
+§§ 2-7, 99 Stat. 787-791 nn eeeneeenen ene 8, 19 
+BS CRD, Fa cecrncesecesensenesnecssssseesemerssssssese 8 
+
+
+v 
+Statutes and regulations—Continued : Page 
+29 C.F.R. 
+SEEN weauabeanlinaietamanteiatanetrsianimatpeationsaiideanntees 4, 5, 8, 11, 16 
+RRR he ole E ela 16 
+Section 541.1 (1938 Supp.) —.............. 2 
+EE eee 2,9 
+Section 541.1(e) (1940 Supp.) ........... 3 
+Section 541.1(f) (1949 Supp.) —......... 5 
+Section 541.2 (1938 Supp.) —............... 2 
+ES IR ES TSR ET Ca 2,9 
+Section 541.2(a) (1940 Supp.) .......... 4 
+Section 541.2(e) (1949 Supp.) ......... 5 
+! SE SS 2,9 
+Section 541.3(b) (1940 Supp.) .......... 4 
+Section 541.3(e) (1949 Supp.) _....... 5 
+Ye eee 9, 20, 25 
+8 ~< Se 5, 16 
+Section 541.118 (1949 Supp.) ............ 5 
+REL 16 
+Section 541.118(a) _.... .2, 5, 6, 10, 11, 14, 18, 
+21, 22, 25, 26 
+Section 541.118 (a) (2) — 7,23 
+Section 541.118(a) (3) — 0... 7, 23 
+Section 541.118 (a) (4)... 7 
+Section 541.118 (a) (5). 6, 23 
+Section 541.118 (a) (6)... 7, 12, 15, 23, 
+28, 29 
+Pt. 553: 
+Becton SEB.BB (EC)... n.n.cnncceccccncccccceceeeeee ~ 
+RE AE Sie ER. Ra a 18 
+Miscellaneous : 
+FS Ly ee 2 
+Nh eee 3,4 
+14 Fed. Reg. (1949) : 
+CS ee eee a eee 5 
+Sica icetne cee tictticntitieccincintlitmeatintaniinaeameetannes 6 
+19 Fed. Reg. (1954) 
+a 6 
+EA ES ae 16 
+Se ae eee 6 
+
+
+Miscellaneous—Continued Page 
+Ne 6 
+p. 4406 _........ siectsnmamacmneanmnatineatmunaiiatenttiiiins 6 
+56 Fed. Reg. (1991) : 
+wm, GE BGG GIG ancecscncsec sense cescccscescassccesesazscnscrencs 9,19 
+7+, —E—EEE d 
+57 Fed. Reg. (1992) : 
+ee 9,17 
+re en ea eee 19-20 
+EE 10 
+p. 37,668 scisiinasiectisiaieiiitetitaitinstmmtaemneniesn 9 
+p. 37,672 _...... sncestinsitentninthiantintetntmnatasieveit 9, 10 
+oe SE OE OO ccececcctarsntetectntciniapmeremmenenen 20 
+0 IO ccccscsesenscenntentdinrnsmninitiabitibammmnrnpeamenenes 10, 20 
+EEE 9 
+S. Rep. No. 159, 99th Cong., Ist Sess. (1985) ............ 19 
+United States Dep’t of Labor, Wage and Hour 
+Division, “Executive, Administrative, Profes- 
+
+
+sional . . . Outside Salesman” Redefined, Report 
+and Recommendations of the Presiding Officer 
+at Hearings Preliminary to Redefinition (1940) ..2, 3, 17 
+United States Dep’t of Labor, Wage and Hour 
+Division, Release No. A-9 (Aug. 24, 1944) —........ 4,5 
+United States Dep’t of Labor, Wage and Hour and 
+Public Contracts Division, “Report and Recom- 
+mendations on Proposed Revisions of Regule- 
+tions, Part 541, Defining the Terms “Executive” 
+“Administrative” “Professional” “Local Retail- 
+ing Capacity” “Outside Salesman” (1949) ......5, 17, 18 
+United States Dep’t of Labor, Wage and Hour and 
+Public Contracts Divisions, “Report and Recom- 
+mendations on Proposed Revision of Regulations, 
+Part 541, under the Fair Labor Standards Act 
+Defining the Terms “Executive” “Administra- 
+tive” “Professional” “Local Retailing Capacity” 
+“Outside Salesman” (1958) —.....-..-.......---cceeeeeeeeeee 7 
+United States Dep’t of Labor, Wage and Hour 
+Division, Wage & Hour Manual (BNA): 
+EB! 4 
+Salary Basis (Dec. 24, 1991) —..........-....--..... 29 
+
+
+In the Supreme Court of the United States 
+
+
+OcTOBER TERM, 1996 
+
+
+No. 95-897 
+FRANCIS BERNARD AUER, ET AL., PETITIONERS 
+
+
+v. 
+
+
+Davip A. ROBBINS, ET AL. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE EIGHTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+AS AMICUS CURIAE SUPPORTING AFFIRMANCE 
+
+
+INTEREST OF THE UNITED STATES 
+
+
+The Fair Labor Standards Act of 1938 (FLSA), 29 
+U.S.C. 201 et seq., contains an exemption from its over- 
+time requirements for “employee[s] employed in a bona 
+fide executive, administrative, or professional capacity.” 
+29 U.S.C. 213(a)(1). This case raises questions con- 
+cerning the interpretation of regulations issued by the 
+Secretary of Labor pursuant to his authority to “define[] 
+and delimit[]” (ibid.) the meaning of those terms. The 
+Secretary has a substantial interest in the correct interpre- 
+tation of his regulations. At the invitation of the Court, 
+the United States filed a brief as amicus curiae at the peti- 
+tion stage. 
+
+STATEMENT 
+
+1. Section 7(a)(1) of the FLSA, 29 U.S.C. 207(a)(1), 
+requires an employer to pay each of its employees “at a 
+rate not less than one and one-half times the regular rate 
+
+
+(1) 
+
+
+2 
+
+
+at which he is employed” for all hours worked in excess 
+of 40 hours in a week. Section 13(a)(1) of the Act, 29 
+U.S.C. 213(a)(1), provides an exemption from the re- 
+quirement of overtime pay for “any employee employed 
+in a bona fide executive, administrative, or professional 
+capacity * * * (as such terms are defined and delimited 
+from time to time by regulations of the Secretary [of 
+Labor]).” 
+
+Pursuant to the authority conferred on the Secretary to 
+define the scope of the exemption, the Secretary has prom- 
+ulgated regulations that provide that, in order to qualify 
+for executive, administrative, or professional status, an 
+employee must meet both a salary test and a duties test. 
+See 29 C.F.R. 541.1 (executive), 541.2 (administrative), 
+541.3 (professional). The salary test consists of two ele- 
+ments: (1) a requirement that the “exempt” employee 
+receive no less than a specified level of compensation; and 
+(2) a requirement that the compensation be paid “on a 
+salary basis.” This case concerns only the latter compo- 
+nent of the salary test: whether the pertinent employees 
+have been paid “on a salary basis” as defined by 29 
+C.F.R. 541.118(a). 
+
+a. The salary basis test has roots that reach back to 
+the enactment of the FLSA in 1938. In that year, the 
+Administrator of the Department of Labor’s Wage and 
+Hour Division issued regulations providing that, in order 
+to come within the Section 13(a)(1) exemption, executive 
+and administrative employees must perform duties of a 
+specified nature and be “compensated for [their] services 
+at not less than $30 * * * for a workweek.” 29 C.F.R. 
+541.1 (1938 Supp.); 3 Fed. Reg. 2518 (1938). A salary 
+requirement was not initially imposed for professional 
+employees. 29 C.F.R. 541.2 (1938 Supp.); 3 Fed. Reg. 
+2518 (1938). 
+
+In 1940, the Wage and Hour Division conducted hear- 
+ings on the regulations governing the Section 13(a)(1) 
+exemption, and the presiding hearing officer issued a re- 
+port recommending a salary basis test for all three classes 
+of exempt employees. United States Dep’t of Labor, Wage 
+
+
+3 
+and Hour Division, “Executive, Administrative, Profes- 
+sional . . . Outside Salesman” Redefined, Report and 
+
+
+Recommendations of the Presiding Officer at Hearings 
+Preliminary to Redefinition (1940) (1940 Report). In 
+that report, the presiding hearing officer noted that there 
+was “surprisingly wide agreement” among employers and 
+employees “that a salary qualification in the definition of 
+the term ‘executive’ is a valuable and easily applied index 
+to the ‘bona fide’ character of the employment.” /d. at 19. 
+The basis of that agreement was that “[t]he term ‘execu- 
+tive’ implies a certain prestige, status, and importance” 
+that is captured by a salary test. /bid. Also, because 
+“executive” employees are denied the protection of the 
+Act, “[ijt must be assumed that they enjoy compensatory 
+privileges,” including a salary “substantially higher” than 
+the minimum wages guaranteed under the Act. Ibid. The 
+report noted that “[t]he shortest pay period which can 
+properly be understood to be appropriate for a person em- 
+ployed in an executive capacity is obviously a weekly 
+pay period,” and it recommended a salary test for execu- 
+tives that would be satisfied if “the employee is guaranteed 
+a net compensation of not less than $30 a week ‘free and 
+clear.” Id. at 23 (emphasis added). The report also 
+concluded that the inclusion of a salary test was vital in 
+defining “administrative” and “professional” employees as 
+well. Id. at 26 (“[A] salary criterion constitutes the best 
+and most easily applied test of the employer's good faith 
+in claiming that the person whose exemption is desired 
+is actually of such importance to the firm that he is prop- 
+erly describable as an employee employed in a bona fide 
+administrative capacity.”); id. at 36 (“[I)n order to avoid 
+disputes, to assist in the effective enforcement of the act 
+and to prevent abuse, it appears essential * * * to include 
+a salary test in the definition [of professional].”). 
+
+Based on the presiding officer’s recommendation, the 
+Wage and Hour Division Administrator promulgated reg- 
+ulations providing that an exempt executive must be “com- 
+pensated for his services on a salary basis at not less than 
+$30 per week.” 29 C.F.R. 541.1(e) (1940 Supp.); 5 
+
+
+4 
+
+
+Fed. Reg. 4077 (1940) (emphasis added). The regula- 
+tions required that exempt administrative and professional 
+employees (except physicians and attorneys) must be paid 
+“on a Salary or fee basis at a rate of not less than $200 
+per month.” 29 C.F.R. 541.2(a) (administrative), 
+541.3(b) (professional) (1940 Supp.); 5 Fed. Reg. 4077 
+(1940) (emphasis added). 
+
+b. In 1944, the Wage and Hour Division issued Re- 
+lease No. A-9, which addressed the meaning of “salary 
+basis.” The Release stated that an employee will be con- 
+sidered to be paid on a salary basis if 
+
+
+under his employment agreement he regularly re- 
+ceives each pay period, on a weekly, biweekly, semi- 
+monthly, monthly or annual basis, a predetermined 
+amount constituting all or part of his compensation, 
+which amount is not subject to reduction because of 
+variations in the number of hours worked or in the 
+quantity or quality of the work performed during the 
+pay period. 
+
+
+Release No. A-9 (Aug. 24, 1944), reprinted in Wage & 
+Hour Manual (BNA) 719 (cum. ed. 1944-1945). The 
+Release further explained that, because “bona fide execu- 
+tive, administrative, and professional employees are nor- 
+mally allowed some latitude with respect to the time 
+spent at work,” such employees should generally be free 
+to go home early or occasionally take a day off without 
+a deduction in pay. /bid. Due to particular war-time 
+conditions, however, “disciplinary deductions * * * made 
+for unreasonable absences” were permissible. /bid. 
+
+In 1947, the Wage and Hour Division again conducted 
+hearings on the Part 541 regulations. After the hearing, 
+the presiding officer recommended retention of the “sal- 
+ary basis” test, stating: 
+
+
+The evidence at the hearing showed clearly that bona 
+fide executive, administrative, and professional em- 
+ployees are almost universally paid on a salary or 
+fee basis. Compensation on a salary basis appears 
+to have been almost universally recognized as the 
+
+
+5 
+
+
+only method of payment consistent with the status 
+implied by the term “bona fide” executive. Similarly, 
+payment on a salary (or fee) basis is one of the rec- 
+ognized attributes of administrative and professional 
+employment. 
+
+
+United States Dep't of Labor, Wage and Hour and Pub- 
+lic Contracts Divisions, Report and Recommendations on 
+Proposed Revisions of Regulations, Part 541, Defining the 
+Terms “Executive” “Administrative” “Professional” “Lo- 
+cal Retailing Capacity” “Outside Salesman” 24 (1949) 
+(1949 Report) (footnote omitted ). 
+
+The 1949 Report (at 24-26) recommended abandoning 
+the policy in Release No. A-9 that permitted disciplinary 
+deductions for unreasonable absences. The imposition of 
+such disciplinary deductions, the presiding officer con- 
+cluded, had been a war-time phenomcnon prompted by 
+temporary conditions that no longer existed. /d. at 25. 
+In the “rare instances” where discipline of exempt 
+employees was still found necessary, it was “usually 
+accomplished in other ways than by deduction from 
+salary.” Ibid. 
+
+Based on the presiding officer’s recommendations, the 
+Administrator in 1949 issued revised Part 541 regula- 
+tions that retained the “salary basis” criterion. 29 C.F.R. 
+541.1(f), 541.2(e), 541.3(e) (1949 Supp.); 14 Fed. 
+Reg. 7705 (1949). Shortly thereafter, the Administrator 
+published the first version of 29 C.F.R. 541.118 (1949 
+Supp.) in a new Subpart B, entitled “Interpretations.” 
+Section 541.118(a) provided as follows: 
+
+
+An employee will be considered to be paid on a sal- 
+ary basis within the meaning of the regulations in 
+Subpart A of this part, if under his employment 
+agreement he regularly receives each pay period on 
+a weekly, or less frequent basis, a predetermined 
+amount constituting all or part of his compensation, 
+which amount is not subject to reduction because 
+of variations in the number of hours worked in the 
+workweek or in the quality or quantity of the work 
+performed. The employee must receive his full salary 
+
+
+6 
+
+
+for any week in which he performs any work without 
+regard to the number of days or hours worked. 
+
+
+14 Fed. Reg. 7735 (1949). Those regulations did not 
+expressly authorize any deductions from compensation. 
+
+c. In 1954, the Administrator issued a revised Section 
+541.118(a) that remains in force today. That regulation 
+was adopted after being proposed for comment, see 19 
+Fed. Reg. 1321 (1954), and was issued pursuant to the 
+Administrator’s authority under Section 13(a)(1) of the 
+Act, see id. at 4405-4406. As in the 1949 regulation, an 
+employee is deemed to be paid on a salary basis if, un- 
+der the employment agreement, the employee “regularly 
+receives * * * a predetermined amount” of compensation 
+that “is not subject to reduction because of variations 
+‘4m the quality or quantity of the work performed.” 29 
+C.F.R. 541.118(a). A “salary basis” employee “must 
+receive his full salary for any week in which he performs 
+any work without regard to the number of days or hours 
+worked,” but need not be paid for any week in which he 
+performs no work. /bid. The new version of Section 
+541.118(a), however, added exceptions to that rule. One 
+exception is that an employer may impose penalties for 
+infractions of safety rules of major significance without 
+affecting an employee's salaried status. 29 C.F.R. 541.118 
+(a)(5). The proposed version of the new regulation 
+would have permitted deductions for “other major dis- 
+ciplinary reasons” as well. 19 Fed. Reg. 1321, 1322 
+(1954) (proposed Section 541.118(a)(5)). “On the 
+basis of the comments” received, however, the Administra- 
+tor deleted from the final regulation the authorization of 
+deductions for other major disciplinary reasons. Jd. at 
+4406. Penalties for infractions of work rules that are not 
+major safety rules are therefore governed by the general 
+salary basis test set forth in paragraph (a). Thus, an 
+employee suspended without pay for less than one week 
+for a violation of a rule that is not a major safety rule 
+would be classified as nonsalaried. On the other hand, 
+an otherwise salaried employee who is suspended without 
+
+
+7 
+
+
+pay for one full week for the violation of such a rule 
+would remain a salaried employee. 
+
+The salary basis regulation also permits deductions 
+from a salaried employee’s compensation to reflect ab- 
+sences of “a day or more” for personal reasons other 
+than sickness and accident (29 C.F.R. 541.118(a)(2)) 
+and to reflect absences for “a day or more” due to sickness 
+or disability if “made in accordance with a bona fide 
+plan, policy or practice of providing compensation for 
+loss of salary occasioned by both sickness and disability” 
+(29 C.F.R. 541.118(a)(3)). Docking an exempt em- 
+ployee’s pay for partial-day absences, however, is not per- 
+
+
+The regulation further provides, in a subsection com- 
+monly referred to as the “window of correction,” that an 
+employer who has made a deduction that runs afoul of the 
+salary basis rule may take corrective action to restore 
+retroactively the employee’s exempt status. 29 C.F.R. 
+541.118(a)(6) (quoted in full at p. 23, infra)? 
+
+2. a. As originally enacted, the FLSA did not apply 
+to state employees. In 1966, and again in 1972, Con- 
+gress extended FLSA coverage to certain state e . 
+Fair Labor Standards Amendments of 1966, Pub. L. No. 
+
+
+* Deductions may not be taken for employee absences caused by 
+jury duty, attendance as a witness, or temporary military leave. 
+The employer may, however, offset against an employee's salary any 
+
+
+sions, Report and Recommendations on Proposed Revision of Regu- 
+lations, Part 541, under the Fair Labor Standards Act Defining 
+the Terms “Executive” “Administrative” “Professional” “Local 
+Retailing Capacity” “Outside Salesman” 2, 3 (1968). 
+
+
+89-601, § 102, 80 Stat. 831-832 (hospitals, institutions, 
+schools, and railways or carriers); Education Amend- 
+ments of 1972, Pub. L. No. 92-318, § 906, 86 Stat. 375 
+(public preschools). In Maryland v. Wirtz, 392 U.S. 183 
+(1968), this Court upheld the constitutionality of the 
+1966 extension. 
+
+In 1974, Congress extended FLSA coverage to nearly 
+all public sector employees. Fair Labor Standard Amend- 
+ments of 1974, Pub. L. No. 93-259, 88 Stat. 55; see 
+29 U.S.C. 203(d) and (x). This Court held, however, 
+that the FLSA’s minimum wage and overtime provisions 
+could not constitutionally be applied to state employees 
+engaged in traditional governmental activities. See Na- 
+tional League of Cities v. Usery, 426 U.S. 833, 852 
+(1976). Approximately ten years later, National League 
+of Cities was overruled by Garcia v. San Antonio Metro- 
+politan Transit Authority, 469 U.S. 528 (1985). 
+
+In response to Garcia, Congress amended the FLSA to 
+address particular concerns of state and local governments 
+and to allow them relief from liability during a temporary 
+adjustment period. Fair Labor Standards Amendments 
+of 1985, Pub. L. No. 99-150, §§ 2-7, 99 Stat. 787-791. 
+The 1985 amendments contained special provisions on 
+compensatory time in lieu of overtime, special details, and 
+volunteers. Id. §§ 2-4, 99 Stat. 787-790. They also con- 
+tained an exemption for employees of the legislative 
+branch of States and their political subdivisions. Jd. § 5, 
+99 Stat. 790. The 1985 amendments, however, did not 
+make any changes to either the Section 13(a)(1) exemp- 
+tion or to the Secretary's Part 541 regulations implement- 
+ing the exemption. The Department’s regulations imple- 
+menting the 1985 amendments thereupon expressly made 
+the Part 541 regulations applicable to state and local gov- 
+ernments. 29 C.F.R. 553.32(c). 
+
+b. In light of its experience, the Department of Labor 
+has taken a series of steps that address the application 
+of the salary basis test to public employers. In January 
+1987, the Department issued an enforcement policy, stat- 
+ing that the Wage and Hour Division would not generally 
+deny a Section 13(a)(1) exemption for an otherwise 
+
+
+9 
+
+
+exempt public employee whose pay was reduced for ab- 
+sences of less than a day, if such reductions were required 
+by state or local law. See 57 Fed. Reg. 37,666, 37,668 
+(1992) (quoting policy). In September 1991, the De- 
+partment issued an interim final rule providing that pub- 
+lic employees could qualify as exempt under Section 13 
+(a)(1) even if they are subject to pay deductions for 
+periods of less than a day due to personal reasons, ill- 
+ness or injury when no leave is available. 56 Fed. Reg. 
+45,824-45,826 (1991). The rule was prompted by the 
+Department’s recognition that public employers are often 
+required by principles of public accountability to reduce 
+pay for partial<day absences. /d. at 45,825. That interim 
+rule became effective immediately, without notice and 
+comment, in order to spare public employers from “po- 
+tentially enormous and generally unexpected back wage 
+liabilities” to employees who would otherwise be exempt. 
+Ibid. 
+
+In August 1992, after notice and comment, the Depart- 
+ment issued a final regulation, 29 C.F.R. 541.5d, which 
+provides that a public employee who otherwise meets the 
+salary basis test shall not be disqualified from exemption 
+under 29 C.F.R. 541.1, 541.2 or 541.3 on the ground 
+that the employee “is paid according to a pay system 
+established by statute, ordinance, or regulation, or by a 
+policy or practice established pursuant to principles of 
+public accountability * * * which requires the public 
+agency employee’s pay to be reduced or such employee 
+to be placed on leave without pay for absences for per- 
+sonal reasons or because of illness or injury of less than 
+one work-day” under specified circumstances. See 57 
+Fed. Reg. 37,677 (1992). The effect of the regulation 
+is to preserve the exemption in most circumstances in 
+which the salary of state and local executive, professional, 
+or administrative employees is required to be reduced for 
+partial-day absences. In issuing that new regulation, the 
+Secretary noted that, while executive, administrative, and 
+professional employees in the private sector are nearly 
+always paid on a salary basis, id. at 37,672, public em- 
+ployers are normally subject to “principles of public ac- 
+
+
+10 
+
+
+countability” that prohibit paying employees for time not 
+worked, id. at 37,667. The Secretary also recognized that, 
+if the partial-day absence rule were applied to the public 
+sector, it could prevent state and local governments from 
+availing themselves of the overtime pay exemption for 
+executive, administrative, and professional employees, a 
+result that would be inconsistent with Congress’s intent. 
+Id. at 37,672. The Secretary therefore exempted public 
+employees from the partial-day absence rule. 
+
+At the same time, however, the Department retained 
+in effect for state and local employees the general rule 
+governing disciplinary deductions in 29 C.F.R. 541.118 
+(a), under which an employee loses salary basis status if 
+the employee’s pay is reduced for disciplinary suspension 
+(other than for violation of a major safety rule) of less 
+than a week. 57 Fed. Reg. 37,674 (1992). The Depart- 
+ment concluded that the comments it had received had 
+
+
+3. Petitioners are a group of police sergeants and one 
+police lieutenant employed by the St. Louis Police De- 
+partment. Pet. App. 6a, 36a. During the pertinent time 
+frame, state law has provided that St. Louis police ser 
+geants receive a yearly salary and has i that offi- 
+cers at the rank of sergeant or higher are allowed no 
+overtime pay. /d. at 6a & n.1, 43a-46a. 
+
+The St. Louis Board of Police Commissioners has issued 
+a Police Manual that specifies standards of conduct for 
+
+
+dis- 
+ciplinary suspensions of less than one week without pay. 
+See, e.g., id. at 148a (penalty for first offense of “[f)ail- 
+ing to properly patrol assigned beat” is “[rjeprimand to 
+5 days”). 
+
+
+the court of appeals held that all sergeants performed 
+
+
+thereby 
+isfying the duties component of the Section 13(a)(1) ex- 
+emption. /d. at 10a-35a. 
+
+
+quirement is not a safety rule of major significance, the 
+court concluded that the sergeant’s suspension without 
+
+
+14 
+
+
+Salary basis test against deductions for partial-day ab- 
+
+
+disciplinary deduction aspect of the rule. Public employ- 
+ers have a wide range of disciplinary options, such as 
+reprimands, restrictions on duties, and full-week suspen- 
+sions, that do not run afoul of the salary basis rule. 
+
+
+Il. Petitioners were not “subject to” disciplinary 
+ductions of less than one week’s pay within the meaning 
+of the first sentence of 29 C.F.R. 541.118(a). An em- 
+
+
+Because the test is a practical one, the most important 
+evidence bearing on whether a class of employees is “sub- 
+ject to” improper deductions would concern the extent to 
+which such deductions have actually occurred and the cir- 
+cumstances of those deductions. Where an employer ef- 
+fectively communicates to employees in a particular cate- 
+gory that deductions will be made for disciplinary suspen- 
+sions of less than one week, a showing of actual deductions 
+
+
+Under the correct interpretation of the regulations, 
+petitioners were not subject to improper disci iplinary de- 
+ductions. Although respondents’ written policy manual 
+facially authorizes improper deductions, respondents’ per- 
+
+
+terms of the “window of correction” regulation. 29 C.F.R. 
+541.118(a)(6). The window of correction is not open 
+
+
+16 
+
+
+the district court, respondents can do so by reimbursing 
+the one sergeant whose salary was reduced and promising 
+to comply with the Secretary’s salary basis regulations in 
+
+
+the future. 
+ARGUMENT 
+
+
+I. THE SALARY BASIS TEST, INCLUDING ITS DIS- 
+CIPLINARY DEDUCTION RULE, IS A REASON- 
+ABLE EXERCISE OF THE SECRETARY OF 
+LABOR’S AUTHORITY TO DEFINE THE SECTION 
+13(a)(1) EXEMPTION 
+
+
+Section 13(a)(1) of the FLSA exempts from the Act’s 
+overtime compensation requirements “any employee em- 
+ployed in a bona fide executive, administrative, or profes- 
+sional capacity * * * (as such terms are defined and de- 
+limited from time to time by regulations of the Secretary 
+of Labor, subject to-the provisions of [the Administrative 
+Procedure Act]).” 29 U.S.C. 213(a)(1) (emphasis 
+added). The Secretary’s regulations setting forth such 
+definitions and delimitations must be upheld so long as 
+they are not arbitrary, capricious, or manifestly unreason- 
+able. Sullivan v. Zebley, 493 U.S. 521, 528 (1990); 
+Batterton v. Francis, 432 U.S. 416, 425-426 (1977).* 
+
+Pursuant to Congress’s broad grant of authority to 
+“define[] and delimit[]” the scope of the exemption, the 
+Secretary's regulations have for more than 50 years pro- 
+vided that an employee must be paid on a salary basis in 
+order to come within the exemption. For more than 40 
+years, the regulations have contained the disciplinary de- 
+duction component of that rule, which provides that, to be 
+
+
+* Although the “salary basis” test (29 C.F.R. 541.118) appears in 
+the “interpretations” subpart (Subpart B) of Part 541, rather than 
+the “general regulations” subpart (Subpart A), that placement does 
+not affect the level of deference owed to the rule. Section 541.118 
+was promulgated pursuant to notice and comment rulemaking in 
+accordance with the statutory authorization in Section 13(a) (1). 
+See 19 Fed. Reg. 1821-1322 (1954). Moreover, an agency’s “power 
+authoritatively to interpret its own regulations is a component of 
+{its) delegated lawmaking powers.” Martin v. OSHRC, 499 U.S. 
+144, 161 (1991). 
+
+
+17 
+
+
+regarded as salaried, an employee must receive a prede- 
+termined salary that is no. “subject to” deductions of less 
+than one week’s pay for violations of work rules that are 
+not major safety rules. Those aspects of the Secretary’s 
+regulations constitute a reasonable exercise of the Secre- 
+tary’s authority to “define{] and delimit[{]” the scope of 
+the exemption from the FLSA’s overtime requirements. 
+A. As we have explained, based on evidence submitted 
+at hearings conducted by the Wage and Hour Division, 
+the Secretary determined that executive, administrative, 
+and professional employees are nearly universally paid on 
+a salary basis. See 57 Fed. Reg. 37,666 (1992) (describ- 
+ing history of salary basis regulations); 1949 Report 24. 
+That nearly universal practice reflects the widely held un- 
+derstanding that employees with the requisite status to be 
+bona fide executives, administrators, or professionals have 
+discretion to manage their time and are not answerable 
+for the number of hours worked or the number of tasks 
+performed. See Kinney v. District of Columbia, 994 F.2d 
+6, 11 (D.C. Cir. 1993); Brock v. Claridge Hotel & 
+Casino, 846 F.2d 180, 184 (3d Cir.), cert. denied, 488 
+U.S. 925 (1988). Such employees are not paid by the 
+hour or task, but for the general value of services per- 
+formed. Abshire v. County of Kern, 908 F.2d 483, 486 
+(9th Cir. 1990), cert. denied, 498 U.S. 1068 (1991). 
+In general, they receive a guaranteed amount of compen- 
+sation “free and clear.” See /940 Report 23. The Sec- 
+retary’s regulations therefore reasonably provide that, in 
+order to fall within the exemption, employees must be 
+paid on a “salary basis”—i.e., with limited exceptions, 
+
+
+pensation that is not reduced because of the quantity or 
+quality of work. See Walling v. Yeakley, 140 F.2d 830, 
+832-833 (10th Cir. 1944). 
+
+The rule against disciplinary deductions is an integral 
+component of the salary basis rule. Because one of the 
+marks of an exempt employee is the receipt of a prede- 
+termined amount of compensation, the Secretary reason- 
+ably decided that suspending an employee for violation 
+
+
+18 
+
+
+of a work rule, and docking the employee’s pay for the 
+suspension, is an indication that the employee lacks the 
+requisite status to qualify for exemption under Section 
+13(a)(1). The disciplinary deduction rule is also based 
+on the Secretary’s understanding, derived from Wage and 
+Hour Division hearings, that bona fide executive, admin- 
+istrative, and professional employees have sufficiently high 
+status and prestige that they are not generally disciplined 
+in the form of such deductions from compensation. 1949 
+Report 24-26.° 
+
+B. The Secretary has acted within his statutory au- 
+thority in applying the salary basis rule and the discipli- 
+nary deduction component of that rule to state and local 
+employers. When Congress extended the coverage of the 
+FLSA to almost all public employees, it sought to ac- 
+commodate the special concerns of state and local govern- 
+ments. Congress specifically exempted from overtime re- 
+quirements certain categories of state and local govern- 
+ment employees, such as elected officials, their personal 
+staff, and certain of their appointees and advisers. See 
+29 U.S.C. 203(e)(2)(C). Congress also created special 
+overtime rules for law enforcement personnel, who need 
+not be paid premium overtime compensation until they 
+have worked 171 hours over a period of 28 days. 29 
+U.S.C. 207(k); 29 C.F.R. 553.201. 
+
+After this Court’s decision in Garcia, Congress amended 
+the FLSA to accommodate still further “the particular 
+
+
+5 The line-drawing contained within the disciplinary deduction 
+rule is itself reasonable. Cf. Mourning v. Family Publications Serv., 
+Ine., 411 U.S. 356, 374 (1973) (lines drawn by agency in defining 
+a class subject to regulation may include “reasonable margin” to 
+ensure effective enforcement). The Secretary permits deductions 
+from the compensation of executive, administrative, and profes- 
+sional employees for violations of major safety rules as an accom- 
+modation to the strong public policy interests in compliance with 
+such rules. The Secretary does not consider unpaid disciplinary 
+suspensions of a full-week pay period to violate the salary basis 
+rule, because the Secretary has adopted a general policy, reflected 
+in 29 C.F.R. 541.118(a), not to question the salaried status of an 
+employee who receives no pay in a week in which the employee 
+performs no work. 
+
+
+19 
+
+
+needs and circumstances of the States and their political 
+subdivisions.” §S. Rep. No. 159, 99th Cong., Ist Sess. 
+7-8 (1985); see Fair Labor Standards Amendments of 
+1985, Pub. L. No. 99-150, §§ 2-7, 99 Stat. 787-791. In 
+particular, Congress deferred the effective date of certain 
+provisions of the FLSA; it added new provisions on com- 
+pensatory time in lieu of overtime, special details, and 
+volunteers; and it added an exemption for employees of 
+the legislative branch of States and their political sub- 
+divisions. Jd. §§ 2-5, 99 Stat. 787-790. 
+
+While Congress has carefully attended to the special 
+problems faced by state and local governments, it has not 
+modified either Section 13(a)(1) or the Secretary's sal- 
+ary basis test. Indeed, nothing in the text or legislative 
+history of the FLSA’s extension to state and local govern- 
+ment employees—or in the 1985 amendments—even re- 
+motely suggests that Congress intended to prohibit the 
+Secretary from implementing the Section 13(a)(1)} ex- 
+emption with the same salary ‘asis test and disciplinary 
+deduction rule that it had long applied to the private 
+sector. The absence of any such indication is significant, 
+because the applicable regulations were promulgated be- 
+fore Congress’s extension of the FLSA to state and local 
+employees. See Merrill Lynch, Pierce, Fenner & Smith, 
+Inc. Vv. Curran, 456 U.S. 353, 379 (1982) (Congress is 
+presumed to be aware of published regulations when it 
+extends a statute). The Secretary therefore retains his 
+full authority under Section 13(a)(1) to “define[{] and 
+delimit[] from time to time” the terms bona fide executive, 
+administrative, and professional employee, as they apply 
+to the public sector. | 
+
+C. In exercising that authority, the Secretary has been 
+sensitive to the possibility that differences between the 
+public and private sectors might call for differences in the 
+way in which the salary basis test should be applied to 
+those two sectors. In 1991 and 1992, in response to 
+concerns raised by state and local governments, the Sec- 
+retary exempted public employers from the partial-day 
+absence component of tne salary basis rule. 56 Fed. Reg. 
+45,824-45,826 (1991); 57 Fed. Reg. 37,666-37,677 
+
+
+20 
+
+
+(1992); 29 C.F.R. 541.5d. The Secretary determined that 
+principles of public accountability often prohibit public 
+employers from paying employees for time not worked, 
+and that applying the partial-day absence rule to such 
+employers would inappropriately prevent them from avail- 
+ing themselves of the Section 13(a)(1) exemption for 
+executive, administrative, and professional employees. 57 
+Fed. Reg. 37,672-37,673 (1992). 
+
+The evidence before the Secretary during the rulemak- 
+ing proceeding, however, did not establish a comparable 
+need for a change in the disciplinary deduction rule as ap- 
+plied to the public sector. 57 Fed. Reg. 37,674 (1992). 
+There was no evidence presented to the Secretary that 
+public accountability principles require public sector em- 
+ployers to impose particular forms of discipline, such as 
+unpaid suspensions of less than one week for minor in- 
+fractions, and that the salary basis regulation therefore 
+should be modified accordingly. Ibid. Indeed, the Sec- 
+retary noted that public employers have a wide range 
+of options for implementing discipline that would allow 
+them to preserve the exemption for particular classes of 
+employees. /bid. For example, nothing in the disciplinary 
+deduction rule precludes public employers from sanction- 
+ing violations of work rules through reprimands, tem- 
+porary reassignment of duties, full-week suspensions, or 
+termination. As those examples illustrate, state and local 
+employers remain free to enforce a system of graduated 
+sanctions for their employees’ job-related misconduct with- 
+out running afoul of the disciplinary deduction rule. 
+
+The Secretary did not rule out an eventual change in 
+the disciplinary deduction rule. 57 Fed. Reg. 37,674 
+(1992). He reasonably concluded, however, that the case 
+for a change had not been made in that proceeding. The 
+disciplinary deduction rule is therefore valid as applied to 
+the public sector. McGuire v. City of Portland, 91 F.3d 
+1293, 1295-1296 (9th Cir. 1996); Mueller v. Reich, 54 
+F.3d 438, 443 (7th Cir. 1995), petition for cert. pending, 
+No. 95-586 (filed Oct. 10, 1995); Jackson v. Kentucky, 
+892 F. Supp. 923, 933 (E.D. Ky. 1995), appeals pend- 
+ing, Nos. 95-6283 & 95-6284 (6th Cir., docketed Sept. 
+
+
+21 
+
+
+27, 1995); accord Meringolo v. City of New York, 908 
+F. Supp. 160, 168-169 (S.D.N.Y. 1995); Paulitz v. City 
+
+
+of Naperville, 781 F. Supp. 1368, 1372 n.8 (N 
+een pp n.8 (N.D. Il. 
+
+
+II. PETITIONERS WERE NOT “SUBJECT TO” IM- 
+PERMISSIBLE DISCIPLINARY DEDUCTIONS 
+WITHIN THE MEANING OF 29 C.F.R. 541.118(a) 
+
+
+Petitioners were paid a predetermined amount every 
+two weeks, and the district court found that there was 
+no police department procedure for deducting pay from 
+a sergeant or higher-ranking officer on an hour-by-hour 
+basis because that employee did not work a certain num- 
+ber of hours. Petitioners nonetheless contend that they 
+were non-salaried employees within the meaning of the 
+Secretary’s regulations, because they were “subject to” im- 
+proper disciplinary deductions and therefore “subject to 
+reduction because of variations in the quality or quantity 
+of the work performed” within the meaning of the first 
+sentence of 29 C.F.R. 541.118(a). 
+
+A. As we explained in our brief at the petition stage 
+(at 9-10), in the Secretary’s view, an employee who is 
+otherwise paid on a salaried basis does not lose that status 
+simply because he is theoretically “subject to” improper 
+disciplinary deductions. Rather, salaried status is lost 
+under the regulations only when employees are “subject 
+to” such disciplinary deductions as a practical matter. In 
+other words, either such deductions must actually be made 
+in practice, or there must be a significant likelihood that, 
+a ee ee the pertinent work rules, the 
+
+oyee wi isciplined in a manner i i 
+withthe Prat eal — er inconsistent 
+
+lat approach best furthers the s of the ex- 
+emption because it realistically peel gare an ho 
+ployer treats a class of employees as having the status 
+and guaranteed pay that the “salary basis” test measures, 
+and therefore as being “bona fide” executive, professional, 
+or administrative employees. While petitioners appear to 
+have advanced a different view before, they now agree 
+(Br. 38) that it is only when employees “as a practical 
+
+
+— 
+
+
+22 
+
+
+matter are subject to impermissible disciplinary suspen- 
+sions” that an employer’s compensation practices run 
+afoul of Section 541.118(a)’s disciplinary deduction rule. 
+
+B. Because the test is a practical one, the most im- 
+portant evidence bearing on whether a class of employees 
+is “subject to” improper deductions would concern the 
+extent to which such deductions have actually occurred 
+and the circumstances of those deductions. On the one 
+hand, for example, when there is evidence that improper 
+deductions have been taken with some frequency for vio- 
+lations of a work rule by employees having a particular 
+rank, it is fair to conclude that all employees in that 
+rank are “subject to” such deductions. On the other hand, 
+when such deductions have not occurred or have only oc- 
+curred in idiosyncratic or unusual circumstances, that 
+conclusion generally would not be warranted. See Brief 
+for the United States as Amicus Curiae 9-10. In addition, 
+if an employer effectively communicates that work-rule 
+violations will result in deductions of less than one week's 
+pay, the absence of actual deductions would not be dis- 
+positive. In those circumstances, the employees may be, 
+as a practical matter, “subject to” improper deductions. 
+In the usual case, however, actual experience will be the 
+best measure of whether a class of employees is “subject 
+to” improper deductions within the meaning of the first 
+sentence of Section 541.118(a).* 
+
+C. The remainder of the salary basis regulation sup- 
+ports that construction of the first sentence of Section 
+541.118(a). The second sentence of Section 541.118(a) 
+elaborates on the rule specified in the first sentence. It 
+provides that, “[s]ubject to [certain specified] exceptions 
+* * * the employee must receive his full salary for any 
+
+
+® Because this case involves only a single documented deduction, 
+it is not necessary to decide the extent to which actual deductions 
+must occur in order to conclude that a class of employees is “sub- 
+ject to” deductions. Nor is it necessary to decide the extent to 
+which an employer must inform his employees that work-rule viola- 
+tions will result in deductions of less than one week’s pay in order 
+to conclude that a particular class of employees is “subject to” 
+improper deductions. 
+
+
+23 
+
+
+week in which he performs any work without regard to 
+the number of days or hours worked” (emphasis added). 
+That portion of the regulation focuses directly on the 
+pay that an employee actually receives. The same is true 
+of the exceptions to the “full salary” requirement. For 
+example, Section 541.118(a)(2) provides that “[dJeduc- 
+tions may be made * * * when the employee absents him- 
+self from work for a day or more for personal reasons, 
+other than sickness or accident” (emphasis added). Sec- 
+tion 541.118(a)(3) provides that “[dJeductions may also 
+be made for absences of a day or more occasioned by 
+sickness or disability” (emphasis added). And Section 
+541.118(a)(5) provides that “{p]enalties imposed in good 
+faith for infractions of safety rules of major significance 
+will not affect the employee’s salaried status” (emphasis 
+added ). 
+
+The “window of correction” regulation, 29 C.F.R. 
+541.118(a)(6), confirms the importance of actual deduc- 
+tions in deciding whether employees are paid on a salary 
+basis. That regulation provides: 
+
+
+The effect of making a deduction which is not per- 
+mitted under these interpretations will depend upon 
+the facts in the particular case. Where deductions 
+are generally made when there is no work available, 
+it indicates that there was no intention to pay the 
+employee on a salary basis. In such a case the exemp- 
+tion would not be applicable to him during the entire 
+period when such deductions were being made. On 
+the other hand, where a deduction not permitted by 
+these interpretations is inadvertent, or is made for 
+reasons Other than lack of work, the exemption will 
+not be considered to have been lost if the employer 
+reimburses the employee for such deductions and 
+promises to comply in the future. 
+
+
+The “window of correction” regulation addresses the ef- 
+fect of actual deductions on salaried status, and it makes 
+
+
+~ Clear that such deductions result in a loss of the exemp- 
+
+
+tion when they demonstrate that the employer has no 
+intent to pay its employees on a salaried basis, and, there- 
+
+
+24 
+
+
+fore, to treat them as “bona fide” executive, professional, 
+or administrative personnel. That regulation is necessar- 
+ily premised on the understanding that actual deductions 
+(and any corrections thereof) ordinarily determine exempt 
+Status. 
+
+D. In the court below, and in their petition to this 
+Court, petitioners relied on two things to show that em- 
+ployees in the rank of sergeant were “subject to” discipli- 
+nary deductions: respondents’ police manual and the dis- 
+ciplining of a single sergeant. Neither is sufficient to show 
+that the entire class of sergeants was “subject to” discipli- 
+nary deductions. 
+
+1. Respondents’ policy manual facially authorizes the 
+imposition of improper disciplinary deductions, i.e., de- 
+ductions of less than one week’s pay for violations of work 
+rules that are not major safety rules. Pet. App. 142a, 
+147a-149a (listing the penalty for various violations as 
+reprimand to. five days). But as petitioners themselves 
+now appear to recognize, a written manual authorizing 
+improper deductions, without more, does not show that 
+the class of employees facially covered by the policy is 
+“subject to” such deductions. Petitioners give one exam- 
+ple of why that is so: a rule that is still on the books 
+may not be enforced at all. Pet. Br. 43. But there are 
+other reasons as well. For example, a personnel rule, al- 
+though broadly worded, may not have been intended for 
+application to a particular category of employees, and 
+analysis of actual deductions will make it clear that the 
+rule is not applied to them. Just as a written description 
+of an employees’ duties is not controlling in deciding 
+whether those employees have executive, administrative, 
+or professional duties, a written personnel manual is not 
+controlling in deciding whether employees are subject to 
+disciplinary deductions. 
+
+More significant, a personnel rule typically does not re- 
+quire a particular sanction for a violation of a rule; in- 
+stead, it usually gives discretion to those who administer 
+
+
+25 
+
+
+the policy to decide upon the appropriate sanction.’ As 
+previously discussed (p. 10, supra), work rules can be 
+enforced in a variety of ways that would not render a 
+class of employees non-salaried. For example, reprimands, 
+temporary reassignment of duties, full-week suspensions, 
+and termination are all consistent with the disciplinary 
+deduction rule. When those who administer a disciplinary 
+policy decide that a violation of a work rule should be 
+enforced against a particular class of employees in one of 
+those ways (or not at all), rather than through discipli- 
+nary deductions of less than one week's pay, the class of 
+employees would not be “subject to” improper disciplinary 
+deductions. 
+
+Those who administe: ‘he policy may enforce a work 
+rule without imposing disciplinary deductions of less than 
+one week’s pay, because they believe that different enforce- 
+ment mechanisms work better for different classes of em- 
+ployees. They may also decide that it is more important to 
+retain the exempt status of a particular class of employees 
+than it is to enforce the work rule through the sanction 
+of less than one week’s pay, rather than in some other 
+way. When a public employer has otherwise manifested 
+an intent to treat a class of employees as bona fide execu- 
+tive, professional, or administrative personnel, it ordinar- 
+ily would be reasonable to conclude that the employer will 
+enforce its disciplinary rules in a way that is consistent 
+with that intent. 
+
+In this case, respondents could enforce each of their 
+rules that authorizes a disciplinary deduction of less than 
+one week's pay in a way that is consistent with the disci- 
+plinary deduction rule. For example, although the penalty 
+
+
+By contrast, the state and local laws and policies governing 
+partial-day absences that do not result in a loss of the exemption 
+are those that require deduction from pay based on principles of 
+public accountability. See 29 C.F.R. 541.5d. The special provision 
+in Section 541.5d therefore was required to prevent a loss of exempt 
+status. When deductions of less than one week’s pay are required 
+by governing law or policy, it is clear that employees are “subject 
+to” reduction in pay within the meaning of Section 541.118(a). 
+
+
+26 
+
+
+for violating several rules is a reprimand to five-days’ sus- 
+pension, thereby creating a theoretical possibility of an 
+improper deduction of less than one week’s pay, Pet. App. 
+148a-149a, respondents could impose a reprimand or a 
+five-day suspension without violating the disciplinary de- 
+duction rule. Petitioners therefore err in relying on re- 
+spondents’ disciplinary manual to show that they are “sub- 
+ject to” improper deductions within the meaning of Section 
+541.118(a). 
+
+2. Petitioners have offered only one concrete example 
+of a sergeant (Sergeant Guzy) who was actually disci- 
+plined with a loss of less than one week’s pay. Pet. Br. 
+41. As the court of appeals correctly concluded, that de- 
+duction occurred under “unique circumstances.” Pet. 
+App. 10a. In that incident, which occurred two years 
+after suit was filéd, the police department charged a ser- 
+geant with a violation of the city residency requirement 
+and recommended that he be dismissed. /bid. Under an 
+agreement with the city, the sergeant waived his right to 
+a hearing and accepted, in lieu of dismissal, a two-day 
+suspension without pay. /bid. Thus, respondents sought 
+to implement a penalty that is consistent with the salary 
+basis rule (termination) and implemented an unpaid sus- 
+pension of less than one week only as the result of a 
+settlement with the employee. We agree with the court 
+of appeals that the “unique circumstances” surrounding 
+that deduction do not divest other employees of their sal- 
+aried status; that deduction does not show that the entire 
+class of sergeants was subject to improper deductions as 
+a practical matter. 
+
+E. Petitioners now seek to rely on other evidence to 
+support their contention that they were subject to im- 
+proper deductions. See Pet. Br. 41-42. For example, they 
+claim that there is evidence that additional sergeants were 
+actually subjected to disciplinary deductions of less than 
+one week’s pay for violations of non-major safety rules. 
+Petitioners, however, never brought that evidence to the 
+attention of the court of appeals or to the attention of 
+
+
+27 
+
+this Court at the petition stage.’ Instead, petitioners chose 
+to present a question that assumed that there were no 
+applications of respondents’ personnel ruies. See Pet. i 
+(emphasis added) (“Do * * * salary basis regulations 
+* * * which require the loss of exempt status when an 
+employee is ‘subject to’ nonsafety disciplinary suspension 
+Seen ann © pay pated sonty culy i coon of ertuat 
+suspension or 's interpretation that a personnel 
+rule subjecting employees to discipline alone result{s} in 
+loss of exempt status control the application of the rule?”). 
+Petitioners’ contention that there were additional examples 
+of disciplinary deductions is therefore not properly before 
+the Court. The same is true of petitioners’ reliance (Pet. 
+Br. 41) on testimony purporting to show that particular 
+witnesses understood that sergeants would be impermissi- 
+bly docked pay for disciplinary violations. Having failed 
+to raise that contention in the court of appeals or before 
+this Court at the petition stage, that contention is not 
+properly presented here. 
+
+
+Ill. THE WINDOW OF CORRECTION IS OPEN TO 
+RESPONDENTS TO CORRECT THE SINGLE IM- 
+a aS DEDUCTION IN THIS 
+
+
+_ Respondents may rectify the single discipli deduc- 
+tion of less than one week's pay in this case by satisfying 
+
+
+* In their brief before the court of appeals, petitioners’ argument 
+that respondents’ pay practices ran afoul of the disciplinary deduc- 
+tion rule focused on the deduction from the pay of Sergeant Guzy. 
+Brief of Appellants/Cross-Appellees 44; Reply Br. of Appellants / 
+Cross-Appellees 21. They also asserted in that brief that “sergeants 
+
+
+there were any other actual deductions, while respondents repre- 
+sented as “fact[] that two hundred and eighty-eight (288) of the 
+two hundred and eighty-nine (289) [pletitioners had never been 
+subjected to any alleged improper deduction from their salaries 
+during the fourteen (14) year period prior to trial that they were 
+paid on a salary basis.” Br. in Opp. 13. Petitioners did not file 
+a reply brief to refute that factual assertion. 
+
+
+28 
+
+
+the terms of the “window of correction” regulation. Under 
+that requlation, the effect of making an improper deduc- 
+tion “depend{s] upon the facts in the particular case.” 29 
+C.F.R. 541.118(a)(6). When the deductions indicate 
+that there was “no intention to pay the employees on a 
+salary basis,” the exemption is not applicable. Ibid. But 
+“where a deduction not permitted by these interpretations 
+is inadvertent, or is made for reasons other than lack of 
+work, the exemption will not be considered to have been 
+lost if the employer reimburses the employee for such 
+deductions and promises to comply in the future,” /bid. 
+The court of appeals interpreted that provision to “allow| | 
+employers to treat otherwise eligible employees as salaried, 
+regardless of the employer’s one-time or unintentional 
+failure to adhere to § 541.118(a)’s requirements.” Pet. 
+App. 9a (quoting Martin v. Malcolm Pirnie, Inc., 949 
+F.2d 611, 616 (2d Cir. 1991), cert. denied, 506 U.S. 905 
+(1992) (emphasis added by court below)). At the same 
+time, the court concluded that the window of correction 
+“is not available if the employer has a settled policy of 
+making improper deductions.” /d. at 10a. 
+
+That interpretation is consistent with the Secretary's 
+construction of the “window of correction” provision. 
+The Department of Labor’s Wage and Hour Division is- 
+sued an opinion letter on December 24, 1991, stating: 
+
+The effect of making impermissible disciplinary 
+deductions from “salaried” employees is discussed in 
+§ 541.118[(a)](6). Where a one-time disciplinary 
+deduction is made, the exemption will not be consid- 
+ered to have been lost in all workweeks if the em- 
+ployer reimburses the employee for such deduction 
+and agrees to not take any such impermissible deduc- 
+tion in the future. Where disciplinary deductions not 
+permitted by the Regulations occur on a regular and 
+recurring basis (e.g., because of an employer's pol- 
+icy), we would question whether such employees, 
+including all of those in the “class” or “category” of 
+employees affected by such deductions, are actually 
+paid on a salary basis and the exemption may be 
+denied in all workweeks. 
+
+
+29 
+
+
+Salary Basis, Wage & Hour Manual (BNA) 99:5257 (em- 
+phases omitted ). 
+
+
+As petitioners note (Pet. Br. 43), respondents have 
+not yet fulfilled all the conditions for invoking the window 
+of correction. Accordingly, once the case returns to the 
+district court, respondents must reimburse the one ser- 
+
+
+Respectfully submitted 
+WALTER DELLINGER 
+Acting Solicitor General 
+
+J. DAVITT MCATFER EDWIN S. KNEEDLER 
+
+Acting Soliciior of Labor Deputy Solicitor General 
+ALLEN H. FELDMAN IRVING L. GORNSTEIN 
+
+Associate Solicitor Assistant to the 
+NATHANIEL I. SPILLER Solicitor General 
+
+Deputy Associate Solicitor 
+MARK 8S. FLYNN 
+
+Senior Appellate Attorney 
+
+Department of Labor ‘ 
+OCTOBER 1996 
+
+® 6. 8. sovenwent revere orrice, 1907 417722 «8640197 
+
+

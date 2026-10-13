@@ -1,0 +1,38 @@
+[
+  {
+    "file": "OT_1996CHUNK4_COMMITMENTS_A.md",
+    "sha256": "8bfe9e55cbb69562727fc2155e086838da9338ac00f5c71eeee5e1603a581dc3"
+  },
+  {
+    "file": "OT_1996CHUNK4_COMMITMENTS_BROCKAMP.md",
+    "sha256": "79e0bbcdbec92aac2b183c1620a6d179efb9595d8d9c8fea2eb6cef4eb9c8e30"
+  },
+  {
+    "file": "OT_1996CHUNK4_COMMITMENTS_B.md",
+    "sha256": "788e8df2284fedc1a41ce0b43b31bbf5aabef2414938a6064d45b1f5ecc32b6d"
+  },
+  {
+    "file": "OT_1996CHUNK4_COMMITMENTS_A_SOURCE_REVALIDATION.md",
+    "sha256": "cafe712c59a6f5b08c0edae871a9292cb4bb776005ab5e056455f6967921ff04"
+  },
+  {
+    "file": "OT_1996CHUNK4_COMMITMENTS_B_FEB18_REVALIDATION.md",
+    "sha256": "91e027d1acd46c60f270352d5f62c8aa6e20ff06d733fde49ecbe5c2960f2d21"
+  },
+  {
+    "file": "OT_1996CHUNK4_COMMITMENTS_B_AUER_REVALIDATION.md",
+    "sha256": "0c73c66844b28a9e4dd2abce9fdb7fa4071ce8c454d3b29a4c55f7e2c3b99188"
+  },
+  {
+    "file": "OT_1996CHUNK4_COMMITMENTS_B_FEB19_REVALIDATION.md",
+    "sha256": "b2a530a521807de36cc277d128adf4b064ca3434de12c5c47be37123a1b7c2b4"
+  },
+  {
+    "file": "OT_1996CHUNK4_COMMITMENTS_B_FEB24_REVALIDATION.md",
+    "sha256": "439dabb06b271e68e9eaac7ac3d011d0bb1d2c0d427e88fb80530a9327c39e4d"
+  },
+  {
+    "file": "OT_1996CHUNK4_COMMITMENTS_B_FEB25_REVALIDATION.md",
+    "sha256": "8b2279de6d3a082268c43908bfe321b8c4e78671421ebe7a6c3811edc301c2ca"
+  }
+]

@@ -1,0 +1,184 @@
+Source: https://www.law.cornell.edu/supct/html/95-1228.ZS.html
+
+window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+  
+	gtag('config', 'G-PDVVHXRDE6');
+window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+United States v. Wells, 519 U.S. 482 (1997).
+LII
+Supreme Court
+United States v. Wells (95-1228), 519 U.S. 482 (1997).
+Opinion
+[ Souter ]
+Syllabus
+Dissent
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See
+United States
+v.
+Detroit Timber & Lumber
+ Co.,
+200
+ U.S. 321
+, 337.
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+UNITED STATES
+v.
+WELLS
+ et al.
+certiorari to the united states
+ court of appeals for the eighth circuit
+No.
+95-1228
+.
+ Argued
+November 4, 1996
+-- Decided
+February 26, 1997
+An indictment charged respondents with,
+inter alia,
+knowingly
+ making false and "material" statements to a federally insured bank in violation
+ of
+18 U.S.C. §
+ 1014
+. At the trial's end, the District Court instructed the jury, at
+ the Government's behest, that withholding a "material fact" made a statement
+ or representation false and that materiality of an allegedly false statement
+ was for the judge, not the jury, to determine. The jury convicted respondents,
+ the court treated their statements as material, and they appealed. This
+ Court then decided, in
+United States
+v.
+Gaudin,
+515 U. S.
+ ___, that if materiality is an element of §1011, it is a question
+ for the jury. When the Eighth Circuit requested supplemental briefing on
+Gaudin'
+s applicability in this case, respondents argued that materiality
+ is an element of §1014 on which they were entitled to a jury's determination;
+ the Government argued, for the first time, that materiality is not an element
+ under §1014, so that no harm had been done when the trial judge dealt
+ with the issue. The Eighth Circuit agreed with respondents, vacated their
+ convictions and sentences, and remanded the case for a new trial.
+Held:
+1. Respondents' preliminary arguments
+ do not block this Court from reaching the question on which the writ of
+ certiorari was granted. Although the Government proposed jury instructions
+ to the effect that materiality is an element of §1014, Federal Rule
+ of Criminal Procedure 30 and the doctrines of "law of the case" and "invited
+ error" do not prevent the Government from taking the contrary position
+ here. Although the indictment charged respondents with submitting material
+ false statements, the "law of the case" doctrine does not prevent the Government
+ from arguing here that materiality is not an element of §1014. While
+ the Government failed to argue in its initial briefs submitted to the Court
+ of Appeals that materiality is not an element of §1014, it did so
+ in its supplemental filings, and thus the "invited error" doctrine could
+ not prevent the Government from taking the opposite position here. Pp.
+ 4-7.
+2. Materiality of falsehood is not an element of the crime of
+ knowingly making a false statement to a federally insured bank under §1014.
+ Pp. 7-18.
+(a) The falsehood's materiality--
+i.e.,
+its "natural tendency
+ to influence, or capa[bility] of influencing, the decision of the . . .
+ body to which it was addressed,"
+Kungys
+v.
+United States,
+485
+ U.S. 759
+, 770--would not be an element of §1014 under the first
+ criterion in the statutory interpretation hierarchy, a natural reading
+ of the full text, see
+United States
+v.
+American Trucking Assns.,
+ Inc.,
+310
+ U.S. 534
+, 542-543. The section's text--which criminalizes "knowingly
+ mak[ing] any false statement or report . . . for the purpose of influencing
+ in any way the action" of a federally insured bank "upon any application,
+ advance, . . . commitment, or loan"--nowhere says that a material fact
+ must be the subject of the false statement or so much as mentions materiality.
+ To the contrary, its terms cover "any" false statement that meets the statute's
+ other requirements, and the term "false statement" carries no general suggestion
+ of influential significance, see
+e.g., Kungys,
+supra,
+at
+ 781. Nor have respondents come close to showing that at common law the
+ term "false statement" acquired any implication of materiality that came
+ with it into §1014. See,
+e.g., Nationwide Mut. Ins. Co.
+v.
+Darden,
+503
+ U.S. 318
+, 322. Finally, statutory history confirms the natural reading
+ of §1014. When Congress enacted U. S. C. §1014, it consolidated
+ into one section three prior provisions that had included an explicit materiality
+ requirement, and ten that did not, and Congress enacted other provisions
+ that included express materiality requirements. The most likely inference
+ is that Congress did not intend materiality to be an element of §1014.
+United States
+v.
+Shabani,
+513
+ U.S. 10
+, 13-14. In addition, Congress enacted §1014 after
+Kay
+v.
+United States,
+303
+ U.S. 1
+, which stands in the way of any assumption that Congress might
+ have understood §1014 to contain an implicit materiality requirement.
+ Pp. 7-13.
+(b) Respondents' arguments for affirmance--that Congress has ratified
+ decisions holding materiality to be a §1014 element by repeatedly
+ amending the statute without rejecting those decisions; that the failure
+ of the 1948 Reviser's Note to §1014 to mention the section's omission
+ of the materiality element contained in three of its thirteen predecessor
+ statutes means that Congress must have overlooked the issue; that materiality
+ must be read into the statute to avoid the improbability that Congress
+ intended to impose substantial criminal penalties on relatively trivial
+ or innocent conduct; and that the rule of lenity must be applied here--are
+ unavailing to change the straightforward reading of §1014. Pp. 13-17.
+(c) Since respondents' further arguments--that because the instruction
+ taking materiality from the jury probably left the impression that respondents'
+ statements as alleged were material, the instructions influenced the jury
+ in passing on the falsity and purpose elements; and that because the indictment
+ alleged materiality, any ruling that materiality need not be shown in this
+ case would impermissibly "amend" the indictment contrary to the
+Fifth
+ Amendment
+--were neither raised in respondents' briefs before, nor passed
+ on by, the Eighth Circuit, it is left to that court on remand to take up
+ the propriety of raising them now and to address them if warranted. Pp.
+ 17-18.
+63 F. 3d 745
+,
+ vacated and remanded.
+Souter, J., delivered the opinion
+ of the Court, in which Rehnquist, C. J., and O'Connor, Scalia, Kennedy,
+ Thomas, Ginsburg, and Breyer, JJ., joined. Stevens, J., filed a dissenting
+ opinion.

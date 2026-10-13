@@ -1,0 +1,52 @@
+Source: https://www.law.cornell.edu/supct/html/95-1181.ZC.html
+
+window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+  
+	gtag('config', 'G-PDVVHXRDE6');
+window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+Dunn v. Commodity Futures Trading Commission, 519 U.S. 465 (1997).
+LII
+Supreme Court
+Dunn v. Commodity Futures Trading Commission (95-1181), 519 U.S. 465 (1997).
+Opinion
+[ Stevens ]
+Concurrence
+[ Scalia ]
+Syllabus
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+No.
+95-1181
+WILLIAM C. DUNN and DELTA CONSULTANTS, INC., PETITIONERS
+v.
+COMMODITY FUTURES TRADING COMMISSION et al.
+on writ of certiorari to the united states court of appeals for the
+ second circuit
+[
+February 25, 1997
+]
+Justice Scalia , concurring
+ in part and concurring in part
+I agree with the Court that "the purposes underlying the Treasury Amendment
+ are most properly fulfilled by giving effect to the plain meaning of the
+ language as Congress enacted it,"
+ante
+, at 9, which includes options
+ to buy or sell foreign currency. This principle is contradicted, however,
+ by the Court's extensive discussion of legislative history, see
+ante
+,
+ at 6, n. 8, 8-9, 14, as though that were necessary to confirm the "plain
+ meaning of the language," or (worse) might have power to overcome it. I
+ join all except those portions of the opinion, which achieve nothing useful
+ and sow confusion in the law.

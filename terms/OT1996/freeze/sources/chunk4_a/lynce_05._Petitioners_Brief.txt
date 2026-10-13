@@ -1,0 +1,2737 @@
+— 
+
+
+sii upreme Court, U.S. 
+er ert soe 
+No. 95-7452 JUL 12 1996 
+ee, | 
+In THE | 
+Supreme Court of the Anited States 
+
+
+OCTOBER TERM, 1996 
+
+
+KENNETH LYNCE, 
+Petitioner, 
+Vv. 
+
+
+HAMILTON MATHIS, ROBERT BUTTERWORTH, 
+Respondents. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Eleventh Circuit 
+
+
+BRIEF OF PETITIONER 
+
+
+Of Counsel: a H. JaY STEVENS 
+
+
+CARTER G. PHILLIPS JOEL T. REMLAND * 
+
+PauL A. HEMMERSBAUGH Federal Public Defender 
+SIDLEY & AUSTIN Middle District of Florida 
+1722 Eye Street, N.W. 80 N. Hughey Avenue 
+
+
+Washington, D.C. 20006 Suite 417 
+(202) 736-8000 Orlando, FL 32801 
+
+
+(407) 648-6338 
+Counsel for Petitioner 
+
+
+July 12, 1996 * Counsel of Record 
+
+
+QUESTION PRESENTED 
+
+
+Whether the retroactive application of amended Florida 
+penal statute § 944.277. (1992) violates the Ex Post Facto 
+Clause of the United States Constitution by withdrawing 
+early release credits previously awarded to petitioner under 
+the pre-amendment version of the statute, where that with- 
+drawal was based solely upon petitioner’s 1985 offense of 
+conviction. 
+
+
+TABLE OF CONTENTS 
+
+
+CONSTITUTIONAL AND STATUTORY PROVI- 
+
+
+STATEMENT OF THE CASE... sis 
+SUMMARY OF ARGUMENT... 
+
+
+I. THE 1992 AMENDMENT TO § 944.277 (the 
+“1992 Act”), WHICH RETROACTIVELY 
+WITHDREW PROVISIONAL RELEASE 
+CREDITS FROM FLORIDA PRISONERS 
+AFTER THOSE CREDITS WERE AWARDED, 
+VIOLATED THE EX POST FACTO CLAUSE 
+BY INCREASING PETITIONER’S PUNISH- 
+MENT FOR CRIMES AFTER THEIR COM- 
+SS Se aes 
+
+
+A. As Applied to Petitioner, the 1992 Act Vio- 
+lated the Ex Post Facto Clause by Increasing 
+Retroactively the Punishment for His Crime 
+After Its Commission and Returning Him to 
+Prison for an Additional Five aaa 
+
+
+B. Morales’ Refinement of the Lindsey-W eaver- 
+Miller Rule Does Not Change the Result in 
+aaa at icles ieasees ; 
+
+
+10 
+
+
+10 
+
+
+12 
+
+
+16 
+
+
+iv 
+TABLE OF CONTENTS—Continued 
+
+
+C. Provisional Release Credits and Other Early 
+Release Credits Are an Integral Part of the 
+Punishment Attached to Petitioner’s Crime 
+and a Critical Determinant of the Length of 
+
+
+D. The Retroactive Offense-Based Exclusions 
+Created by the 1992 Act Undermine the Fun- 
+damental Interests the Ex Post Facto Clause 
+Is Designed to Protect... 
+
+
+E. At the Time of His Plea and Sentencing, 
+Petitioner Reasonably Should Have Expected 
+That He Would Benefit from the Award of 
+Provisional Release Credits te 
+
+
+II. THE COURT BELOW ERRONEOUSLY CHAR- 
+ACTERIZED § 944.277 AS A PROCEDURAL 
+ST snatvewtere~tedineainienieeine eee ——— 
+
+
+A. The 1992 Act Is Not a Procedural Law, Be- 
+cause It Increased the Punishment Attached 
+to Certain Crimes ae OE Se 
+
+
+B. Florida’s Purpose in Adopting the 1992 Act 
+Is Irrelevant to the Determination of Whether 
+the Statute Is Procedural... pene ee 
+
+
+ES REESE 
+
+
+19 
+
+
+32 
+
+
+v 
+
+
+TABLE OF AUTHORITIES 
+
+
+CASES Page 
+Arnold Vv. Cody, 951 F.2d 280 (10th Cir. 1991)... 15 
+— Vv. Attorney General, 81 F.3d 1235 (3d Cir. 
+
+RR EE ete eee 8 ellie AN eels cae aaa 33 
+Beazell v. Ohio, 269 U.S. 167 (1925)... 10, 30 
+Calamia V. Singletary, 115 S. Ct. 1995 (1995) 29 
+Calder v. Bull, 3 U.S. (3 Dall.) 386 EN 10, 11 
+California Dep’t of Corrections Vv. Morales, 115 
+
+TS kil ea ai lal aR passim 
+
+
+IR aid Re ao ts cell 1, 22, 32 
+Eady Vv. Florida, 622 So. 2d 61 (Fla. Ist Dist, Ct. 
+
+ii ASSES, a i li ill ll 29 
+Griffin V. Singletary, 688 So. 2d 500 (Fla. 1994) 7 
+
+
+U.S. 827 (1990) - eriahtinnignein 25 
+Landgraf v. USI Film Prods., 114 S. Ct. 1483 
+ST ° sbibeetumsssiimenitese. . 14, 25 
+
+
+Lindsey v. Washington, 301 U.S. 397 (1987) 9, 12, 13. 16 
+Malloy v. South Carolina, 237 U.S. 180 (1915) 4 
+Miller v. Florida, 482 U.S. 423 (1987) passim 
+
+
+Papasan V. Allain, 478 U.S. 265 (1986) Tak 2 
+Raske Vv. Martinez, 876 F.2d 1496 (11th Cir.), 
+
+cert. denied, 493 U.S. 993 (1989) 27, 28 
+Schall v. Martin, 467 U.S. 253 (1984) 7 
+Warden V. Marrero, 417 U.S. 653 (1974) 12,19 
+Weaver Vv. Graham, 450 U.S.24 (1981) ts passim 
+
+
+CONSTITUTIONS, STATUTES AND RULES 
+
+
+U.S. Const. art. I, § 10, el. 1 a 
+
+
+vi 
+TABLE OF AUTHORITIES—Continued 
+
+Page 
+
+The Correctional Reform Act of 1988, 1983 Fla. 
+
+Laws ch. 83-131 (codified in part at § 944.598, 
+I 20, 21 
+§ 775.082, Fla. Stat. (1985)... 20 
+§ 921.001, Fla. Stat. (1968)... ttti‘Ct~S 21 
+§ 921.001, Fla. Stat. (1985) _. latealatecieemad deel 21 
+$§ 921.001-921.005, Fla. Stat. (1985) . ES SAE Sed 20 
+§ 921.001, Fla. Stat. (Supp.1988). sts 5, 22 
+§ 921.001, Fla. Stat. (Supp.1992) i tts 5 
+§ 944.276, Fla. Stat. (1965)... tti(i‘;C;CCCS 4 
+§ 944.275, Fla. Stat. (1987)... sts 22, 23 
+§ 944.275, Fla. Stat. (1993). tsi 27 
+§ 944.276, Fla. Stat. (1987)... 3,4 
+§ 944.277, Fla. Stat. (Supp.1988). i tits passim 
+§ 944.277, Fla. Stat. (1989) ssw aeiaiadinl pat Ms 4, 23 
+§ 944.277, Fla. Stat. (Supp.1992).. 4,5, 18 
+§ 944.278, Fla. Stat. (1998)... = tti‘Cts—CS 3 
+§ 944.598, Fla. Stat. (1983). PMD: oh 3 
+§ 944.598, Fla. Stat. (1985)... tti‘—tiCsS 3 
+§ 944.598, Fla. Stat. (Supp.1986).. ss —s 3 
+Fila. R. Crim. P. 3.701(b) (5) (1988, 1985)... 21 
+
+Fla. R. Crim. P. 3.701 (1985) (reprinted in The 
+
+Florida Bar: Amendment to Rules of Criminal 
+
+Procedure (3.701, 3.988—Sentencing Guidelines), 
+468 So. 2d 220 (Fla. 1985)) ..——ss—sCtstéi‘“—sSCS 21 
+
+OTHER AUTHORITIES 
+
+Senate Staff Analysis and Economic Impact State- 
+ment for SB 644 (May 24,1983) .s—s—tsi—S— 20 
+
+Senate Staff Analysis and Economic Impact State- 
+ment for SB 3A (Feb. 4, 1987)... —is—s—sS 20 
+
+Senate Staff Analysis and Economic Impact State- 
+ment for SB 210 (rev. Mar. 7, 1989) sss 21 
+
+
+Corrections Overcrowding Task Force, Final Re- 
+port and Recommendations (1983) (“COTF Re- 
+IES ane era Aer. ele 21 
+Mark Dykstra, Apart from the Crowd: Flerida’s 
+New Prison Release Program, 14 Fla. St. U. L. 
+I I ici 28 
+
+
+vii 
+TABLE OF AUTHORITIES—Continuved 
+
+
+The Federalist No. 44 (James Madison) == 
+The Federalist No. 84 (Alexander Hamilton) _ 
+Samuel Jacobson, Sentencing Guidelines, 57 Fla. 
+I 
+Jim Smith, Fla. Att’y Gen., A Major Revision of 
+the System is Needed (in Jacobson, Sentencing 
+Guidelines (1983)) PE Sk SS 
+Wilda L. White, “New State Policy Shatters Freed 
+Convict’s New Life,” Miami Herald 1A —_ 8, 
+RS BOS Rey Re ee a Oe Ee eee 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1996 
+
+
+No. 95-7452 
+
+
+KENNETH LyYNCE, 
+» Petitioner, 
+HAMILTON MATHIS, ROBERT BUTTERWORTH, 
+Respondents. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Eleventh Circuit 
+
+
+BRIEF OF PETITIONER 
+
+
+OPINIONS BELOW 
+
+
+The order of the court of appeals denying petitioner’s 
+Application for a Certificate of Probable Cause (J.A. 66) 
+is unreported. The orders of the district court denying 
+petitioner’s Petition for Writ of Habeas Corpus and Ap- 
+plication for a Certificate of Probable Cause (J.A. 64, 65) 
+are unreported. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on 
+October 16, 1995. J.A. 66. The petition for writ of 
+certiorari was filed on January 10, 1996 and was granted 
+on May 13, 1996. This Court has jurisdiction under 28 
+U.S.C. § 1254(1). 
+
+
+2 
+
+
+CONSTITUTIONAL AND 
+STATUTORY PROVISIONS INVOLVED 
+
+
+1. The Ex Post Facto Clause of the United States 
+Constitution, Article I, Section 10, clause 1, provides in 
+pertinent part: “No State shall . . . pass any. . . ex post 
+facto law... .” 
+
+
+2. The provisions of § 944.277, Fla. Stat. (Supp. 
+1992) are set out in Appendix A. The provisions of 
+§§ 921.001, 944.275, 944.276, 944.277, 944.278, and 
+944.598, Fla. Stat., in all of their relevant versions, as 
+well as § 775.082, Fla. Stat. (1985) and Fla. R. Crim. P. 
+3.701 (1985), are lodged under separate cover with the 
+Court. 
+
+
+STATEMENT OF THE CASE 
+
+
+1. On April 14, 1986, petitioner Kenneth Lynce 
+pleaded nolo contendere to attempted first degree murder 
+and other offenses and was sentenced to 22 years in 
+Florida state prison. J.A. 3, 33, 53.’ 
+
+
+Between 1983 and 1993, Florida statutes authorized 
+the Florida Department of Corrections to make over- 
+crowding “early release” credits available to eligible in- 
+mates upon an executive finding that the prisons had 
+reached a specified percentage of lawful capacity. See 
+
+
+1 The crimes occurred on October 27, 1985. See Lodged Docu- 
+ments at 144-45. Petitioner was charged on April 7, 1986 and 
+sentenced on April 14, 1986. /d. Petitioner has lodged with the 
+Court copies of public documents containing facts subject to 
+judicial notice, but not included in the Joint Appendix. See Papasan 
+v. Allain, 478 U.S. 265, 268 n.1 (1986) (Court may take notice of 
+items in public record). The documents lodged with the Court are 
+cited as “Lodg. Doc. ——.” 
+
+Later, in 1993, petitioner pleaded nolo contendere to a separate 
+offense and was sentenced to serve 4 years concurrent with his 
+22-year term. However, the 22-year term controls the duration of 
+his incarceration. See J.A. 34. There is no dispute that, with his 
+1860 days of provisional] release credits, petitioner would be entitled 
+to immediate release. See J.A. 34, 50-52. 
+
+
+3 
+
+
+§ 944.598, Fla. Stat. (1983); § 944.276, Fla. Stat. 
+(1987); § 944.277, Fla. Stat. (Supp. 1988). On the 
+date of his offense, petitioner was statutorily eligible for 
+early release credits conditioned on good behavior and 
+prison overcrowding, which at that time were called emer- 
+gency gain-time. § 944.598, Fla. Stat. (1985).?_ During 
+his incarceration, petitioner became successively eligible 
+under Florida law for early release credits that supplanted 
+but were the substantial equivalent of emergency gain- 
+time, including “administrative gain-time,”* and “provi- 
+sional release credits.”* When awarded, these credits re- 
+duced the actual time an inmate was required to serve 
+in prison, i.e., the time was “credited” against the prison 
+sentence pronounced by the sentencing judge. Inmates 
+maintained their eligibility for overcrowding-related credits 
+through good behavior.® 
+
+
+2“Emergency gain time” was only available if Florida prison 
+population reached a threshold percentage of capacity. See § 944.598, 
+Fla. Stat. (1985) (Lodg. Doc. 27). Because the Florida prison 
+population did not exceed the statutory trigger percentage, the 
+Department of Corrections did not award emergency gain time 
+to any inmate between 1983 and 1986. 
+
+
+* See § 944.276, Fla. Stat. (1987) (Lodg. Doc. 17). 
+
+
+* See § 944.277, Fla. Stat. (Supp. 1988) (Lodg. Doc. 19). From 
+the perspective of the recipient, there was no relevant distinction 
+among the different types of overcrowding credits. All such credits 
+were awarded conditional on the inmate’s good behavior and an 
+executive finding that the prison system was approaching its lawful 
+capacity. See § 944.598, Fla. Stat. (Supp. 1986) (Lodg. Doc. 29) ; 
+§ 944.276, Fla. Stat. (1987); § 944.277, Fla. Stat. (Supp. 1988). 
+As part of a major revision of the Florida sentencing system in 
+1998, the Florida legislature repealed § 944.277. See 1998 Fla. 
+Laws ch. 93-406. Florida thus no longer uses provisional credits 
+as an early release mechanism. See § 944.278, Fla. Stat. (1993), 
+(Lodg. Doc. 16). 
+
+
+® Inmates could obtain emergency credits if they were receiv- 
+ing “gain-time,” which in turn depended on good behavior. See 
+§ 944.598(2), Fla. Stat. (1985) (Lodg. Doc. 27). Inmates were 
+eligible for administrative gain-time and provisional credits as 
+
+
+4 
+
+
+Beginning in 1987, the Florida Legislature created a 
+series of new offense-based exclusions from eligibility for 
+early release credits." A 1989 amendment to § 944.277 
+added an exclusion for inmates convicted of murder of- 
+fenses, including petitioner's crime of attempted murder.” 
+The 1989 amendment, and subsequent amendments con- 
+taining the same exclusion enacted in 1990 and 1991, 
+were applied prospectively only. The 1992 amendment 
+at issue in this case, effective July 6, 1992, contained the 
+same offense-based exclusion. See § 944.277(1)(i), Fla. 
+Stat. (Supp. 1992) (App. A).” The Florida Secretary of 
+Corrections initially interpreted the 1992 amendment, like 
+the earlier amendments to § 944.277(1), to apply only 
+
+
+prospectively. 
+
+
+2. As the result of crowded prison conditions and 
+Petitioner’s good behavior, the Secretary of Corrections, 
+
+
+long as they were earning “incentive gain-time.” See § 944.276(1), 
+Fla. Stat. (1987); § 944.277(1), Fla. Stat. (Supp. 1988). Awards 
+of incentive gain-time required that the inmate take positive action 
+beyond mere observance of prison rules, such as holding a prison 
+job. See § 944.275(4) (b), Fla. Stat. (1985) (Lodg. Doc. 13). 
+
+
+* The 1987 law providing for administrative gain-time, § 944.276, 
+excluded from eligibility inmates serving mandatory minimums 
+for certain felonies and convicted sex offenders who had not suc- 
+cessfully completed a treatment program. The 1988 law creating 
+provisional release credits, § 944.277, excluded habitual offenders, 
+inmates serving mandatory minimums for drug and capital offenses, 
+and inmates convicted of certain felonies in connection with an 
+attempted or completed sexual assault. 
+
+
+* See § 944.277(1) (i), Fla. Stat. (1989) (Lodg. Doe. 21). 
+
+
+* See 1992 Op. Att’y Gen. Fla. 92-96 at 288 (December 29, 1992) 
+(App. B). 
+
+
+* Petitioner’s initial brief was somewhat imprecise in describing 
+the chronology in 1992. See Pet. for Cert. at 2. The 1992 amend- 
+ment to § 944.277(1) (i) was effective on July 6, 1992. Petitioner 
+was released from prison on October 1, 1992. J.A. 50. The opinions 
+of the Florida Attorney General prescribing the retroactive applica- 
+tion of the 1992 amendment to § 944.277(1) were issued on Decem- 
+ber 29 & 31, 1992. See App. B & D. 
+
+
+5 
+
+
+acting pursuant to § 944.277, granted petitioner 1,860 
+days of “provisional release credits” toward early release 
+between 1988 and 1991. J.A. 50.” Based on those 
+credits, and on petitioner’s full satisfaction of all of the 
+Statutory requirements for award and maintenance of 
+early release credits, the State of Florida released peti- 
+tioner from prison pursuant to § 921.001(10)(d) (Supp. 
+1992) on his mandatory release date of October 1, 1992. 
+J.A. 50." 
+
+
+On December 29, 1992, the Florida Attorney General, 
+responding to the concerns of Florida legislators and state 
+Officials about the imminent release of a notorious sex 
+offender and murderer, issued an opinion Stating that the 
+offense-based exclusions contained in § 944.277(1), as 
+amended in 1992 (“the 1992 Act”), applied retroactively 
+to exclude from eligibility for provisional credits all in- 
+mates who committed such offenses prior to the law’s 
+enactment.” Two days later, in response to an inquiry 
+
+
+1© The Joint Appendix contains a typographical error, incorrectly 
+indicating that petitioner received 1360 days of provisional release 
+credits that were revoked pursuant to the 1992 Act. J.A. 62 (Glover 
+Affidavit). The actual number of provisional release credit days 
+awarded to petitioner was 1860, as indicated two pages earlier in 
+the same affidavit. /d. at 50. 
+
+
+" Florida law required the Secretary of Corrections to establish 
+a non-discretionary “provisional release date,” and to release peti- 
+tioner on that date. See §§ 944.277(3), (5), 921.001(10) (d), Fla. 
+Stat. (Supp. 1988) (Lodg. Doc. 12, 19-20). Florida further re- 
+quired that prisoners convicted on or after J uly 1, 1988 be released 
+to probation or supervised release. See § 944.277 (5), Fla. Stat. 
+(Supp. 1992). Prisoners who committed offenses before J uly 1, 
+1988—including petitioner—were released unconditionally. See id.: 
+Judgment and Sentence, State of Florida v. Kenneth R. Lynce, 
+Orange Cty. CR 85-6173 (April 14, 1986) (Lodg. Doc. 146-50) 
+(imposing no supervised or conditional release terms). 
+
+
+12 See 1992 Op. Att’y Gen. Fla. 92-96 (December 29, 1992) (App. 
+B). The opinion refers to sex offender Donald G. McDougall sev- 
+eral times. See id. The rationale for the retroactive application 
+of amended § 944.277 was that prior amendments in 1990 and 1991 
+had expressly provided for prospective application, while the 1992 
+amendment was silent on this matter. Jd. at 287-89. 
+
+
+6 
+
+
+from the Department of Corrections, the Attorney General 
+directed the Department to cancel all credits previously 
+earned by inmates now deemed covered by the 1992 ex- 
+clusions, reasoning that the award of provisional release 
+credits was “strictly an administrative mechanism to re- 
+lieve prison overcrowding.” ™ 
+
+
+Pursuant to this executive agency re-interpretation of 
+the 1992 Act, the Department of Corrections revoked the 
+1,860 days of provisional credit previously awarded to 
+petitioner. J.A. 51. Because petitioner had been released 
+from prison several months earlier, the Department sought 
+a warrant for his rearrest. J.A. 51. On May 17, 1993, 
+the sentencing court issued an Order for Execution of 
+Sentence Imposed and Retaking of Prisoner. J.A. 5]. 
+Petitioner was arrested on June 8, 1993 and returned to 
+prison. J.A. 51. The retroactive cancellation of peti- 
+tioner’s credits pushed his release date back to May 19, 
+1998. J.A. 52. 
+
+
+3. On August 18, 1994, petitioner filed a petition 
+for a writ of habeas corpus alleging, inter alia, that the 
+retroactive application to him of amended § 944.277(1) 
+violated the prohibition against ex post facto laws set 
+forth in Article I, Section 10, clause 1 of the United 
+States Constitution. J.A. 2-29. Petitioner argued that the 
+revocation of all provisional release credits previously 
+awarded to him and his resultant re-incarceration was an 
+unconstitutional increase in punishment for a crime after 
+its commission. J.A. 22-25. 
+
+
+On March 14, 1995, a United States Magistrate Judge 
+for the Middle District of Florida, relying on the Eleventh 
+Circuit’s opinion in Hock v. Singletary, 41 F.3d 1470 
+(11th Cir. 1995), cert. denied, 116 S. Ct. 715 (1996), 
+recommended that the petition be denied and dismissed 
+with prejudice on the ground that the 1992 Act was 
+adopted merely as a means to relieve prison overcrowding 
+
+
+18 See Letter to Secretary Singletary (Dec. 31, 1992) (App. D). 
+
+
+7 
+
+
+and was, therefore, not subject to the prohibitions of the 
+Ex Post Facto Clause. J.A. 53-60. The United States 
+District Court for the Middle District of Florida adopted 
+the Report and Recommendation and dismissed the peti- 
+tion on May 10, 1995. J.A. 64." Petitioner subsequently 
+filed with the district court an Application for a Certificate 
+of Probable Cause, which the court denied on June 16, 
+1995. J.A. 65. 
+
+
+4. The United States Court of Appeals for the Elev- 
+enth Circuit denied without comment petitioner's renewed 
+Application for a Certificate of Probable Cause by Order 
+dated October 16, 1995. J.A. 66. 
+
+
+On Jan. 10, 1996, petitioner filed with this Court a 
+petition for writ of certiorari. On May 13, 1996, the 
+Court granted certiorari. J.A. 67. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+This case involves an inmate who served the full time 
+prescribed by Florida law for his crime, was released from 
+custody unconditionally, and then, based on a belated 
+interpretation of a new state statute, was reincarcerated 
+by the State of Florida for an additional five years for 
+the same offense. Respondents used the 1992 Act to 
+strip petitioner of early release credits previously awarded 
+
+
+14 Respondents initially argued in district court for the dismissal 
+of Mr. Lynce’s habeas corpus petition on the ground that he had 
+failed to exhaust state law remedies. Respondents conceded, how- 
+ever, that with respect to the central question of the retroactive can- 
+cellation of early release credits, exhaustion would be futile. See 
+Respondent’s Answer to Petition for Writ of Habeas Corpus (J.A. 
+86). Indeed, the Florida Supreme Court had recently held constitu- 
+tional the retroactive application of § 944.277 (1992) to withdraw 
+provisional release credits already awarded, see Griffin v. Singletary, 
+638 So. 2d 500, 501-02 (Fla. 1994), see also Dugger v. Rodrick, 584 
+So. 2d 2 (Fla. 1991), cert. denied sub nom. Rodrick v. Singletary, 
+502 U.S. 1087 (1992), and there was no reason to believe that the 
+court would change its position. See Petition for Writ of Habeas 
+Corpus (J.A. 12-14); see also Schall v. Martin, 467 U.S. 253, 261 
+(1984). 
+
+
+and reimprison him, thereby retroactively increasing the 
+punishment for his crime. The 1992 Act, as applied to 
+petitioner, is an unconstitutional ex post facto law, be- 
+cause it directly increased the punishment for his crime, 
+several years after its commission. 
+
+
+A long line of cases from this Court has established 
+that laws that retroactively increase punishment are pro- 
+hibited by the Ex Post Facto Clause. This foundational 
+principle is rooted in the Framers’ concern—based on 
+their own experience—that in the absence of an absolute 
+and unequivocal prohibition, state and federal govern- 
+ments would be free to modify crimes and their punish- 
+ments without fair warning or notice to potential offend- 
+ers, and to enact arbitrary or vindictive retroactive legisla- 
+tion targeting disfavored groups. Respondents’ application 
+of the 1992 Act ignored that prohibition, in an exercise 
+of precisely the governmental excesses the Ex Post Facto 
+Clause is designed to prevent. 
+
+
+The central feature of punishment for a felony is the 
+actual length of incarceration. Under Florida law, a pris- 
+oner’s “real sentence,” i.e., the actual duration of his in- 
+carceration, is determined by the interaction of the 
+nominal sentence imposed by the sentencing judge pursu- 
+ant to sentencing guidelines and several statutorily pre- 
+scribed types of early release credits. By nullifying early 
+release credits previously awarded to petitioner, the 1992 
+Act directly increased his punishment, lengthening his 
+actual term of incarceration by more than five years. 
+
+
+Unlike changes to procedures this Court has upheld as 
+having only a conjectural effect on actual punishment, 
+the increased punishment meted out to petitioner was a 
+direct and certain result of the application of the 1992 
+Act. Petitioner completed his sentence and was released 
+unconditionally in October 1992, nearly three months 
+before the Florida Attorney General’s opinion. Petition- 
+er’s re-incarceration by the Florida Department of Correc- 
+tions in June of 1993 was based solely on his 1985 offense 
+
+
+9 
+
+
+of conviction.” Thus, the re-imprisonment of petitioner 
+for an additional five years for the same conduct ‘was the 
+direct and concrete result of the retroactive application 
+of the 1992 Act. 
+
+Exempting the retroactive cancellation of provisional 
+release credits from the proscription of the Ex Post Facto 
+Clause would flatly contravene established precedent from 
+this Court. The Court has consistently refused to allow 
+the retroactive application of laws changing sentencing 
+formulas, and mechanisms determinative of actual sen- 
+tence length, to the detriment of persons who committed 
+crimes prior .o the enactment of the new sentencing laws. 
+See, e.g., Miller v. Florida, 482 U.S. 423 (1987); Weaver 
+v. Graham, 450 U.S. 24 (1981); Lindsey v. Washington, 
+301 U.S. 397 (1937). The 1992 Act, as applied to 
+petitioner, retroactively changed the formula for calculat- 
+ing his term of incarceration. Indeed, in applying the 
+1992 Act, respondents went much further by actually 
+revoking previously awarded credits, which resulted in the 
+imposition of a longer term of incarceration not only after 
+the commission of the crime, but also after sentence had 
+been imposed and fully served. 
+
+
+This Court has held that whether a given statutory 
+change constitutes an ex post facto violation is a matter 
+of degree. It would be irrational to find that, while the 
+retroactive application of a new formula for calculating 
+an Offender’s initial sentencing range offends the Consti- 
+tution, a law which operates retroactively to increase a 
+sentence after it is imposed and served somehow falls 
+outside the protection of the Ex Post Facto Clause. 
+
+
+Moreover, given the mounting overcrowding crisis in 
+Florida’s prisons in 1986, it was rational for Mr. Lynce 
+
+
+%® As previously noted, supra note 1, shortly after his reincarcera- 
+tion in 1998, petitioner pleaded nolo contendere to an independent 
+new charge based on conduct after his October 1992 release, and 
+was sentenced to four years to be served concurrently with the 
+renewed sentence (for his 1985 crime) at issue in this case. 
+
+
+10 
+
+
+(and for similarly situated accused offenders) to factor 
+the availability of these credits into his decision to plead 
+nolo contendere to the charge of attempted murder. Thus, 
+the 1992 Act also violated petitioner’s interest in notice 
+and fair warning and his reasonable expectation at the 
+time of his plea and sentencing, based on the law in 
+effect in 1986, that there existed a strong likelihood that 
+early release credits based on prison overcrowding would 
+shorten his prison term. 
+
+The 1992 Act is not a procedural law. The sine qua 
+non of a purely procedural law for purposes of ex post 
+facto analysis is the lack of effect on the quantum of pun- 
+ishment attached to the crime. The 1992 Act changed 
+the quantum of punishment attached to a particular crime 
+by excluding a selected group of offenders from eligibility 
+for future credits and by canceling the credits they had 
+already earned under the prior law. Whether the former 
+law was enacted as a matter of administrative convenience 
+is irrelevant—the 1992 Act is a substantive penal statute, 
+fully subject to the requirements and prohibitions of the 
+Ex Post Facto Clause. 
+
+
+ARGUMENT 
+
+
+I. THE 1992 AMENDMENT TO § 944.277 (the “1992 
+Act”), WHICH RETROACTIVELY WITHDREW 
+PROVISIONAL RELEASE CREDITS FROM FLOR- 
+IDA PRISONERS AFTER THOSE CREDITS WERE 
+AWARDED, VIOLATED THE EX POST FACTO 
+CLAUSE BY INCREASING PETITIONER’S PUN- 
+ISHMENT FOR CRIMES AFTER THEIR COM- 
+MISSION. 
+
+
+The Ex Post Facto Clause of the United States Consti- 
+tution prohibits laws that retroactively increase the pun- 
+ishment attached to a crime. California Dep't of Correc- 
+tions V. Morales, 115 S. Ct. 1597, 1601 (1995): Collins 
+v. Youngblood, 497 U.S. 37, 42 (1990); Beazell v. Ohio, 
+269 U.S. 167, 169 (1925); Calder v. Bull, 3 U.S. (3 
+Dall.) 386, 390-92 (1798). It has been established 
+
+
+reason for increasing the punishment, or the label it 
+affixes to the law effecting that change. See, e.g., Young- 
+blood, 497 U.S. at 43; Weaver, 450 U.S. at 31. 
+
+
+However, the Court has held that not every law that 
+retroactively “disadvantages” an offender violates the 
+
+
+not violate the Ex Post Facto Clause if it is merely “pro- 
+cedural.” See Dobbert v. Florida, 432 U.S. 282, 293-94 
+(1977). To violate the constitutional prohibition, a law 
+must “produce a sufficient risk of increasing the measure 
+of punishment attached to the covered crimes.” Morales, 
+115 S. Ct. at 1603. Although this Court has not enunci- 
+
+
+** Justice Chase, writing for the Court in Calder, eloquently 
+described the Framers’ historical and contemporary concerns, and 
+the policies underlying the Ex Post Facto Clause, concluding that 
+the Clause was one of the great principles of our social compact. 
+
+) at 388-390. Calder identified four categories 
+Ex Post Facto Clause, two of which are 
+
+
+12 
+
+
+ated a precise formula for determining how large this risk 
+must be, Morales made clear that laws creating only a 
+“speculative, attenuated risk” of increasing punishment do 
+not violate the Ex Post Facto Clause. /d. at 1603. 
+
+
+A. As Applied to Petitioner, the 1992 Act Violated the 
+Ex Post Facto Clause by Increasing Retroactively 
+the Punishment for His Crime After Its Commission 
+and Returning Him to Prison for an Additional 
+Five Years. 
+
+
+The central question in an ex post facto analysis of 
+changes to laws affecting criminal sentences is not whether 
+a prisoner’s original sentence technically has been in- 
+creased by a retroactive law, but whether an important 
+statutory determinant of the actual length of his sentence 
+has been altered to his detriment. See Weaver, 450 U.S. 
+at 32; Lindsey v. Washington, 301 U.S. 397, 401-02 
+(1937). Accordingly, this Court has held that the deter- 
+minants of early release are properly considered part of 
+the punishment of a crime. See Weaver, 450 U.S. at 32: 
+Warden Vv. Marrero, 417 U.S. 653, 662-63 (1974)." 
+
+
+The three most closely analogous ex post facto deci- 
+sions of this Court compel the conclusion that the appli- 
+cation of the 1992 Act to petitioner retroactively increased 
+his punishment, in violation of the Ex Post Facto Clause 
+and the interests it protects. In Lindsey v. Washington, 
+301 U.S. 397 (1937), the Court considered a statute that 
+
+
+*T From a practical standpoint, laws directly influencing a prison- 
+er’s date of release are an integral part of the punishment for 
+crimes, because they are a significant factor in both a defendant's 
+plea decision and in a judge’s calculation of the sentence to be 
+imposed. See Weaver 450 U.S. at 32; Marrero, 417 U.S. at 658. 
+Marrero also noted that “a repealer of parole eligibility previously 
+available to imprisoned offenders would clearly present the serious 
+question under the ez post facto clause . . . of whether it imposed a 
+‘greater or more severe punishment than was prescribed by law at 
+the time of the . . . offense.” /d. at 663 (emphasis in origina!) 
+(quoting Rooney v. North Dakota, 196 U.S. 319, 325 (1905) ). 
+
+
+ral 
+ae 
+F 
+e228 
+fis 
+A 
+u 
+
+
+were committed. See id. at 400-01. The 
+the argument that the new law was consti- 
+because it was possible that the sentencing court 
+have imposed the statutory maximum under the old 
+, which would result in the same prison sentence 
+ired by the new statute. Jd. The Court emphasized 
+t the constitutional transgression of the statute was 
+the detrimental change in the possible penalty for a crime 
+already consummated. See id. at 401. 
+
+
+Reaffirming the basic principle of Lindsey, the Court 
+held in Weaver and in Miller v. Florida, 482 U.S. 423 
+
+
+HeEei 
+: 
+
+
+4 
+
+
+Clause. The offending statute in Weaver retroactively re- 
+duced the number of days, i.e., “early release credits,” 
+
+
+prison rules. See Weaver, 450 U.S. at 26-28. As applied, 
+the statute at issue in Weaver had the prohibited effect 
+of retroactively increasing the minimum sentence that the 
+petitioner could have received under the law in place at 
+the time of his crime. See id. at 33-35. Similarly, in 
+Miller, the statute in question altered the formula for 
+calculating the petitioner's presumptive sentencing range 
+by increasing the number of sentencing “points” assigned 
+to his offense after he committed the crime. See Miller, 
+482 U.S. at 425-27. The Court struck down the retro- 
+active application of this law as an unconstitutional ex 
+post facto increase in petitioner’s punishment. See id. 
+at 435-36. 
+
+
+14 
+
+
+In Morales, 115 S. Ct. at 1601, the Court made clear 
+the continued vitality of the Lindsey-Weaver-Miller 
+“trilogy” when it distinguished the procedural change at 
+issue in the case at bar from the ex post facto violations 
+found in the trilogy." The Court reaffirmed the core 
+principle of the trilogy, citing the cases for the propo- 
+sition “that a legislature may not stiffen the ‘standard of 
+punishment’ applicable to crimes that have already been 
+committed” by “changing the sentencing range applicable 
+to covered crimes. . . .” Morales, 115 S. Ct. at 1601, 
+1602. Legislative “adjustments to mechanisms surround- 
+ing the sentencing process”—like early release credits— 
+are evaluated under the same standard. /d. at 1603 n.4. 
+
+
+Based on the standards established in Lindsey, Miller 
+and Weaver, this is not even a close case. If the Florida 
+Legislature had merely declared that, from ihe effective 
+date of the 1992 Act forward, petitioner and similarly 
+situated prisoners would no longer be eligible to receive 
+provisional release credits, this case would be essentially 
+on all fours with Weaver. See Morales, 115 S. Ct. at 
+1601 (Ex Post Facto Clause prohibits retroactive statutes 
+having “the purpose and effect of enhancing the range of 
+available prison terms. . .”)."® 
+
+
+8 As described in greater detail, infra, Morales involved a state 
+statute that reduced the presumptive frequency of parole hearings 
+for persons convicted of homicide, but retained identical substan- 
+tive standards governing a prisoner’s eligibility for parole. Morales, 
+115 8. Ct. at 1602. The Court held that because the statutory 
+change was a mechanical change creating no significant risk of 
+increased punishment, it did not transgrese the boundaries set by 
+the Ex Post Facto Clause. /d. at 1608. 
+
+
+There can be no question that the 1992 Act is a retroactive 
+law. This Court recently stated that a law is retroactive if “the 
+new provision attaches new legal consequences to events completed 
+before its enactment.” Landgraf v. USI Film Prods., 114 8. Ct. 
+1483, 1499 (1994). This inquiry requires a court to determine 
+the nature of the legal change and the degree of connection be- 
+tween this change and relevant past events. Jd. At the time of 
+
+
+15 
+
+
+Because the 1992 Act, as applied, did not stop at can- 
+celing petitioner’s eligibility for the future award of cred- 
+its, the retroactive punishment inflicted on petitioner was 
+more egregious than those held unconstitutional in Lind- 
+sey, Weaver and Miller. Respondents applied the 1992 
+Act to withdraw 1,860 days of early release credits al- 
+ready awarded to him under a prior statute, resulting in 
+the retroactive “re-calculation” of his release date after 
+he had been released from prison. Thus, as a direct and 
+immediate result of the application of the 1992 Act, peti- 
+tioner was re-arrested and returned to prison to serve more 
+than five additional years. It is difficult to envision a 
+more clear example of a sta.ute that “[made] more bur- 
+densome the punishment for a crime, after its commis- 
+sion... .” Youngblood, 497 U.S. at 52.” 
+
+
+his conviction, petitioner was eligible for all types of early release 
+credits. The 1992 Act rendered him ineligible for provisional 
+credits and resulted in the cancellation of credits already held. 
+Thus, the 1992 Act changed the legal consequences of a crime 
+committed in 1985. Moreover, the immediate withdrawal of credits 
+previously earned demonstrates that there was a direct and sub- 
+stantial connection between the legal change and petitioner’s past 
+crime. 
+
+
+* The conclusion that the application of the 1992 Act to peti- 
+tioner violates the Ex Post Facto Clause is supported by Arnold v. 
+Cody, 951 F.2d 280 (10th Cir. 1991). There, the Tenth Circuit 
+invalidated a statute which denied inmates continued ability to 
+acquire early release credits available under prior law. Jd. The 
+statute at issue in Arnold provided for selective withdrawal of 
+eligibility for “overcrowding” early release credits. See id. at 
+281. Critical to the Arnold court’s holding was its finding that 
+credits earned for good behavior were indistinguishable from 
+credits acquired as the result of prison overcrowding. Jd. at 288. 
+Arnold lends support to the conclusion that laws changing eligibility 
+standards for prison overcrowding credits are indistinguishable 
+from the law reducing good behavior credits which this Court held 
+invalid in Weaver. Moreover, the fact that the 1992 Act was used 
+to strip petitioner of provisional credits previously awarded (rather 
+than simply deny him future eligibility) suggests that this law 
+lies even further toward the unconstitutional end of the spectrum 
+
+
+16 
+
+
+Whether the statutory change in the punishment for a 
+crime is accomplished by a change to the nominal sentence 
+imposed by the sentencing judge, as in Lindsey, or by 
+adjusting a related determinant of a prisoner’s “real” 
+punishment, as in Weaver, is of no legal relevance. See 
+Lindsey, 301 U.S. at 401; Weaver, 450 U.S. at 35-36. 
+The 1992 Act had the direct and undeniable effect of 
+increasing petitioner's punishment after his crime had 
+been consummated. Therefore, the Act violated the clear 
+command of the Constitution, as consistently enforced in 
+every Ex Post Facto Clause decision rendered by this 
+Court from Calder through Lindsey to Morales. 
+
+
+B. Morales’ Refinement of the Lindsey-Weaver-Miller 
+Rule Does Not Change the Result in This Case. 
+
+
+Although the Court’s recent decision in Morales re- 
+focused the ex post facto analysis in some respects, the 
+retroactive increase in punishment effected by the 1992 
+Act is just as clearly prohibited today as it was before 
+Morales. In Morales, the Court simply clarified that, in 
+order to show an ex post facto violation, an offender 
+must show the retroactive harm was more than some 
+ambiguous “disadvantage,” or the mere denial of an 
+uncertain “opportunity” to take advantage of early release 
+provisions. Morales, 115 S. Ct. at 1602 n.3. Instead, a 
+statutory change violates the ex post facto prohibition if 
+it “alters the definition of criminal conduct or increases 
+the penalty by which a crime is punishable.” /d. (citing 
+Youngblood, 497 U.S. at 41). Morales also made clear 
+that the application of the Ex Post Facto Clause is a 
+matter of degree and that small “mechanical” changes 
+producing only a slight or speculative risk of increasing 
+
+
+than the offending law in Arnold. See Morales, 115 S. Ct. at 
+1608 (whether given retroactive statute violates Ex Post Facto 
+Clause is matter of degree). 
+
+
+17 
+
+
+a prisoner’s term of confinement do not fall within the 
+constitutional prohibition. Jd. at 1602-03.” 
+
+
+The respondent in Morales was a twice-convicted mur- 
+derer. At the time respondent committed the second 
+murder, California statutes provided for annual parole 
+suitability hearings. /d. at 1600. After the second mur- 
+der, but before respondent was sentenced, California 
+changed its law to provide that, after a multiple murderer’s 
+initial parole suitability hearing, future hearings could 
+be deferred for up to three years if the parole board 
+found that it was unreasonable to expect that the prisoner 
+would be found suitable for parole in the intervening 
+years. Id. The substantive standards for determination 
+of eligibility for parole were identical to those in effect at 
+the time of the offense. /d. at 1602-03. The Court re- 
+jected the respondent’s challenge to the change in the 
+frequency of parole hearings, finding the slight risk that 
+such a change might increase his actual term of confine- 
+ment too speculative, attenuated and conjectural, and thus 
+insufficient to warrant invalidation under the Ex Post 
+Facto Clause. /d. at 1604-05. 
+
+
+As applied to petitioner, the 1992 Act unquestionably 
+“produce[d] a sufficient risk of increasing the measure of 
+punishment attached to the covered crimes.” /d. at 1603. 
+Far from the “speculative and attenuated” connection 
+presented in Morales, the link between the withdrawal of 
+provisional release credits from petitioner and the sub- 
+stantial lengthening of his prison term was clear, direct, 
+
+
+71 Examples of sentencing and parole law changes falling outside 
+the protections of the Ex Post Facto Clause cited in Morales in- 
+cluded changes to the membership of parole boards, changes to the 
+hours of prison law libraries, restrictions on a defendant’s time to 
+speak before a senten-'ng judge, and page limits on a defendant’s 
+objections to presentex. reports or petitions for pardon. Jd. at 
+1603. None of these :emotely approaches in severity the direct 
+lengthening of a sentence by five years after a full sentence had 
+been lawfully served. 
+
+
+and certain. Id. The “risk” of increased punishment for 
+petitioner’s crime resulting from the application of the 
+1992 Act was 100%. Cf. id. As the direct and certain 
+result of the retroactive application of the 1992 Act, the 
+State of Florida increased petitioner’s punishment over 
+that prescribed by the law in effect at the time of his 
+crime, reimprisoning him for an additional five years. 
+
+
+Moreover, unlike the statute at issue in Morales, the 
+1992 Act contained absolutely no features to reduce the 
+risk that the statute would increase petitioner’s punish- 
+ment. The statute challenged in Morales afforded pro- 
+tections that minimized the risk that a prisoner would 
+serve a longer time in prison than he would have served 
+under the prior law. See id. at 1603-05. First, the statute 
+applied to a class of prisoners with only a remote possi- 
+bility of release on parole. See id. at 1603. Second, the 
+parole board was required to make a specific finding for 
+each prisoner at his mandatory initial hearing that the 
+likelihood of release on parole was effectively nil. See id. 
+at 1604. Finally, the parole board retained discretion to 
+tailor the frequency of subsequent hearings to the circum- 
+stances of the particular prisoner. See id. The existence 
+of these protections meant that “the practical effect of a 
+hearing postponement [was] not significant.” Jd. at 1605. 
+
+
+By contrast, the 1992 Act was an unadorned offense- 
+based exclusion from eligibility for early release credits. 
+See § 944.277, Fla. Stat. (Supp. 1992) (App. A). The 
+Florida Attorney General discovered authority to cancel 
+petitioner’s early release credits not in the language of the 
+1992 Act, but rather in implied legislative intent.” Any 
+protective features would necessarily emanate from the 
+
+
+2 The Attorney General reasoned that since past amendments 
+had expressly provided for prospective application of § 944.277, 
+the lack of any such directive in the 1992 Act suggested a legisla- 
+tive intent for it to apply retrospectively. See 1992 Op. Att’y Gen. 
+Fla. 92-96 at 287-89 (Dec. 29, 1992) (App. B). 
+
+
+19 
+
+
+same source. The Attorney General apparently did not 
+discern any intent by the Florida Legislature to limit in 
+any way the power of the Department of Corrections to 
+withdraw previously awarded credits. See Letter to Sec- 
+retary Singletary (Dec. 31, 1992) (App. D). The ab- 
+sence of any protective or mitigating features in the 1992 
+Act similar to those in the law upheld in Morales re- 
+inforces the conclusion that the increase in punishment 
+imposed by Florida is proscribed by the Ex Post Facto 
+Clause. 
+
+
+C. Provisional Release Credits and Other Early Release 
+Credits Are an Integral Part of the Punishment 
+Attached to Petitioner’s Crime and a Critical Deter- 
+minant of the Length of His Incarceration. 
+
+
+This Court has established that statutory “adjustments” 
+to a prison sentence are part and parcel of the punishment 
+imposed. See Weaver, 450 U.S. at 32; Warden v. Marrero, 
+417 U.S. 653, 658 (1974); see also Morales, 115 S. Ct. 
+at 1603 n.4 (adjustments to “mechanisms surrounding the 
+sentencing process” are subject to same ex post facto anal- 
+ysis as other statutory changes). Penal laws that add or 
+subtract time from an inmate’s period of incarceration 
+need not be “in some technical sense part of the sentence” 
+to be an essential determinant of the actual punishment 
+for crimes. Weaver, 450 U.S. at 32 (citing Lindsey, 301 
+U.S. at 402-03); cf. Marrero, 417 U.S. at 662-63 (parole 
+is an element of punishment). 
+
+
+Early release credits were an integral component of 
+Florida’s structured sentencing system as it existed during 
+the period relevant to this case.™ Beginning in 1983, 
+
+
+*8 Implicit in the Court’s opinion in Morales is the principle that 
+a statute would violate the Ex Post Facto Clause if it operated 
+directly to deny a prisoner parole under circumstances in which 
+he would clearly have been granted parole under the statute in 
+effect at the time he committed the crime. See generally Morales, 
+115 S. Ct. 1597. Early release credit, or “gain-time” is as integral 
+to the punishment for a crime in Florida as parole had been under 
+
+
+20 
+
+
+Florida imposed prison sentences under a “real offense” 
+sentencing guidelines system. Under this system, the stat- 
+utes defining the criminal offense provide only the extreme 
+outer limits of the sentence that lawfully could be im- 
+posed.* However, under ordinary circumstances, the sen- 
+tence actually pronounced by the judge is determined by 
+application of a sentencing matrix established by the 
+Florida Sentencing Guidelines. See generally §§ 921.001- 
+921.005, F'a. Stat. (1985) (Lodg. Doc. 9-10). At the 
+time petitioner committed his crime, the “real time” served 
+by a person convicted of a crime in Florida, i.e., the time 
+he actually served in prison, was determined by the inter- 
+action of the guideline sentence pronounced by the sen- 
+tencing judge and several types of “gain-time” or early 
+
+
+the traditional sentencing system in place in Florida prior to 1983. 
+The legislative history of the Florida Correctional Reform Act of 
+1988, 1983 Fla. Laws ch. 83-131, demonstrates that “gain-time” in 
+all of its forms was intended to function as the substitute for 
+parole within the framework of structured sentencing. Under the 
+new early release regime, “[p]jersons convicted on or after the 
+effective date of the act [would] no longer be eligible for parole 
+and [would] have their release governed by expiration, gain-time, 
+or clemency.” See Senate Staff Analysis and Economic Impact 
+Statement for SB 644 at p. 2 (May 24, 1983) (emphasis added) 
+(Lodg. Doc. 39). The legislative history of the 1987 law creating 
+administrative gain-time also demonstrates the Legislature’s intent 
+that gain-time would supplant parole as the primary mechanism 
+for shortening an inmate’s term of confinement: “With the crea- 
+tion of the Sentencing Guidelines by the 1983 Legislature and the 
+elimination of parole for inmates sentenced after Oct. 1, 1983, 
+gain-time accumulation is virtually the exclusive method of re- 
+lease from confinement.” See Senate Staff Analysis and Economic 
+Impact Statement for SB 3A at p. 1 (Feb. 4, 1987) (Lodg. Doc. 
+46). When this new provision for overcrowding-related early re- 
+lease credits was enacted, it was clear that “nondiscretionary re- 
+lease device[s]” were as instrumental as parole had been in 
+“determin[ing] the actual length of sentence to be served.” See 
+id. 
+
+
+24 The statute prescribing the outer limit of petitioner’s sentence 
+was § 775.082, Fla. Stat. (1985) (Lodg. Doc. 2). 
+
+
+21 
+
+
+release credits.” The guideline statute in effect at the 
+time of petitioner’s offense and conviction provided, in 
+part, that an offender “shall be released from incarcera- 
+tion . . . [uJpon expiration of his sentence as reduced by 
+accumulated gain-time.” §921.001(8)(b), Fila. Stat. 
+(1985) (emphasis added) (Lodg. Doc. 10). 
+
+
+State law plainly provides that early release gain-time 
+was an integral part of the punishment imposed for peti- 
+tioner’s offense. The sentencing guidelines promulgated 
+by the Florida Supreme Court provides as follows: 
+
+
+[t]he sentence imposed by the sentencing judge 
+should reflect the length of time to be served, short- 
+ened only by the application of gain-time. 
+
+
+Fla. R. Crim. P. 3.701(b)(5) (1985) (reported in The 
+Florida Bar: Amendment to Rules of Criminal Procedure 
+(3.701, 3.988—Sentencing Guidelines), 468 So. 2d 220, 
+222 (Fla. 1985)) (Lodg. Doc. 32). 
+
+
+* Early release credits in the form of “emergency gain-time” 
+were created at the same time as Florida’s sentencing guidelines 
+and accompanied the abolition of parole and other major sentencing 
+reforms. See The Correctional Reform Act of 1983, 1983 Fla. Laws 
+ch. 83-131 (codified in part at § 944.598, Fla. Stat. (1983)) (Lodg. 
+Doc. 26) ; see also § 921.001(3), (7), Fla. Stat. (1988) (Lodg. Doc. 
+7-8). Under pre-1983 indeterminate sentencing, parole and gain- 
+time had been used for early release to target limited penal re- 
+sources. See, e.g., Senate Staff Analysis and Economic Impact 
+Statement for SB 210 at p. 1 (rev. Mar. 7, 1989) (Lodg. Doc. 48- 
+49); Corrections Overcrowding Task Force, Final Report and 
+Recommendations 65 (1983) (“COTF Report”) (Lodg. Doc. 109). 
+The new guidelines and the abolition of parole gave rise to another 
+early release mechanism to replace parole. See, e.g., Samuel Jacob- 
+son, Sentencing Guidelines, 57 Fla. Bar J. 234, 236 (1983); Jim 
+Smith, Fla. Att’y Gen., A Major Revision of the System is Needed, 
+at 208-09 (in Jacobson, Sentencing Guidelines (1983)); COTF Re- 
+port at 68-70. Gain-time, including emergency gain-time and its 
+successors, replaced parole as the primary limitation on the dura- 
+tion of the new guidelines sentences. See, e.g., Fla. R. Crim. P. 
+3.701(b) (5) (1988, 1985) (Lodg. Doc. 32). 
+
+
+22 
+
+
+In 1988, when the Legislature created provisional re- 
+lease credits, it also amended the sentencing statute to 
+provide that a prisoner “shall be released from incarcera- 
+tion” on the occurrence of one of four events, includ- 
+ing “attain{ment] [of] the provisional release date.” 
+§ 921.001(10), Fla. Stat. (Supp. 1988). A prisoner's 
+“provisional release date” is the date determined by the 
+length of the sentence imposed by the sentencing judge, 
+as reduced by early release credits, including “gain-time” 
+and provisional release credits. See § 944.277(3), Fla. 
+Stat. (Supp. 1992) (App. A) (provisional release date) ; 
+see also § 944.275(3), Fla. Siat. (1987) (Lodg. Doc. 
+17) (tentative release date). 
+
+
+Respondents apparently concede that early release 
+credits awarded for good behavior and diligent labor are 
+an integral part of the punishment for crimes under 
+Florida law and, therefore, cannot be withdrawn without 
+violating the Ex Post Facto Clause. See Dugger Vv. 
+Rodrick, 584 So. 2d 2 (Fla. 1991) (cited with approval 
+in 1992 Op. Att'y Gen. Fla. 92-96 (Dec. 29, 1992) (App. 
+B)), cert. denied sub nom. Rodrick v. Singletary, 502 
+U.S. 1037 (1992). Indeed, the Florida Attorney General 
+recently opined that a rule denying good behavior and 
+incentive credits may be applied only prospectively and 
+that credits previously awarded may not be withdrawn. 
+See Op. Att’y Gen. Fla. 96-22 (March 20, 1996) (Lodg. 
+Doc. 61-64). However, Respondents contend that early 
+release credits awarded based on the same criteria, but 
+available only during periods of prison overcrowding, are 
+so different in kind that they are exempt from the require- 
+ments of the Ex Post Facto Clause. Opp. to Pet. for 
+Cert. 5-9. 
+
+
+Neither the law nor the practical operation of the Flor- 
+ida penal system supports such a distinction between 
+provisional credits and good behavior credits. It is un- 
+reasonable and logically inconsistent to acknowledge that 
+good behavior credits reduce punishment, while simultane- 
+
+
+= Ss 
+
+
+23 
+
+
+ously maintaining that provisional credits are merely “ad- 
+ministrative” and do not affect significantly the punish- 
+ment attached to a crime.” Under Florida law, “gain- 
+time” and “incentive gain-time” credits are awarded for 
+various types of good behavior. See § 944.275, Fla. Stat. 
+(1987) (Lodg. Doc. 17). Provisional release credits 
+were additional credits awarded for good behavior when 
+prisons were overcrowded. § 944.277, Fla. Stat. (Supp. 
+1988, 1989) (Lodg. Doc. 19-20, 21-22). Thus, provi- 
+sional credits and good behavior credits are identical ex- 
+cept that the former only became available if Florida 
+prisois approached their lawful capacity. Effectively, 
+prior to the 1992 Act Respondents could award a certain 
+quantity of “good behavior” early release credits and then, 
+in the event prison population reached a certain level, 
+they could award additional, indistinguishable credits to 
+ee eee as Se Oe Ge Cea 
+credits. 
+
+
+Respondents can offer no principled basis to distinguish 
+between provisional release credits and other types of 
+early release credits for purposes of ex post facto analysis. 
+
+
+*° The judge who sentenced petitioner apparently held the com- 
+mon sense view that early release credits were part of the petition- 
+er’s sentence, and that the different types of credits are indistin- 
+guishable from the standpoint of punishment. In his sentencing 
+order, Judge Walter Komanski recommended that, “[i]n imposing 
+the above sentence, .. .” the Department of Corrections should make 
+available “credit Good/Gain-time.” Lodg. Doc. 150. This brief 
+entry on the “SENTENCE” form suggests that, in the sentencing 
+judge’s mind, both good behavior credits and al! other varieties of 
+gain-time played essentially the same role in the contemporary 
+Florida penal system. 
+
+
+** Provisional release credits could be awarded when prisons 
+reached 97.5% of their lawful capacity. § 944.277, Fla. Stat. (Supp. 
+1988) (Lodg. Doc. 19). When the prison population reached that 
+trigger level, inmates who satisfied the requirements for “incentive 
+gain-time” were eligible for an award of provisional release credits, 
+subject to offense-based exclusions. There were no other precondi- 
+tions for the award of provisional release credits. 
+
+
+24 
+
+
+Accordingly, the retroactive withdrawal of provisional re- 
+lease credits violates the Ex Post Facto Clause. 
+
+
+D. The Retroactive Offense-Based Exclusions Created 
+by the 1992 Act Undermine the Fundamental! Inter- 
+ests the Ex Post Facto Clause Is Designed to 
+Protect. 
+
+
+At least three important public policies underlie the 
+Ex Post Facto Clause: (1) to restrain government from 
+enacting arbitrary and vindictive legislation, see Miller v. 
+Florida, 482 U.S. 423, 429 (1987); Weaver, 450 US. at 
+29: Malloy v. South Carolina, 237 U.S. 180, 183 (1915); 
+(2) to give the public fair warning of and permit reliance 
+on the criminal law, see Miller, 482 U.S. at 430; Weaver, 
+450 U.S. at 28; and (3) to maintain the separation of 
+powers, see Weaver, 450 U.S. at 29 n.10. Respondents’ 
+application of the 1992 Act to petitioner flouts each of 
+
+
+Most significantly, the retroactive application of the 
+1992 Act to re-imprison petitioner exemplifies arbitrary 
+and vindictive government treatment of a selected group 
+of citizens in service of political expedience. It is clear 
+from the Florida Attorney General’s opinion that his novel 
+interpretation of the 1992 Act was prompted by concerns 
+expressed by certain elected officials about the impending 
+release of Donald McDougall, an infamous murderer and 
+child abuser who had accumulated provisional release 
+credits pursuant to statute.“ Without any clear textual 
+support, the Florida Attorney General adopted an inter- 
+pretation of the 1992 Act that not only precluded future 
+acquisition of provisional credits by those convicted of 
+
+
+28 See 1992 Op. Att’y Gen. Fla. 92-96 at 283 (December 29, 1992) 
+(App. B) (“[{T]here is great concern in Central Florida regarding 
+the impending release of Donald Glenn McDougall who was con- 
+victed of second degree murder and aggravated child abuse.”) ; 
+see also Letter to Attorney General Butterworth (Dec. 30, 1992) 
+(App. C). 
+
+
+* See Letter to Secretary Singletary (Dec. 31, 1992) (App. D 
+. $1, . D). 
+This Court recently reaffirmed the principle that, absent clear con- 
+
+
+Clause demonstrates the Framers’ concern that the “{Legislature’s 
+responsivity to political pressures pose(d] a risk that it [would +e 
+tempted to use retroactive legislation as a means of retribution 
+against unpopular groups or individuals.” Landgraf, 114 S. Ct. 
+at 1497. The Florida Attorney General failed to apply the pre- 
+sumption against retroactivity to the 1992 Act when he implied 
+a legislative intent to withdraw early release credits previously 
+granted to selected classes of inmates who committed crimes prior 
+to the 1992 enactment. See 1992 Op. Att’y Gen. Fla. 92-96 (Dec. 
+29, 1992) (App. B) ; Letter to Secretary Singletary (Dec. 31, 1992) 
+(App. C). The Ex Post Facto Clause is intended to prevent this 
+unfair method of governance. Indeed, without constitutional re- 
+pera ne pn rg legislation, the “Legislature’s unmatched 
+
+wou w it to sweep away settled expectat - 
+|! we individualized consideration.” ~eermne ae 
+‘ a ° 
+
+
+" Ses Wilda L. White, “New State Policy Shatters Freed Con- 
+vict’s New Life,” Miami Herald 1A (Aug. 3, 1993) (Lodg. Doe. 
+
+
+152) (89 released prisoners re-imprisoned after revocation 
+visional credits). ~* ge 
+
+
+26 
+
+
+tives. There was an undeniable, strong temptation under 
+the circumstances for the government to fail to meet the 
+high standard of restraint and respect for the rights of 
+unpopular minorities required by the Ex Post Facto 
+Clause. Viewed in this light, the response of the Florida 
+legislative and executive branches to the passions and 
+concerns of their constituents was understandable. Of 
+course, whether a government action was an understand- 
+able response to constituent pressure is not the constitu- 
+tional test. Because that response retroactively imposed 
+greater punishment on a selected group of citizens, it vio- 
+lates the Ex Post Facto Clause. 
+
+
+The application of the 1992 Act also violated basic 
+separation of powers principles by granting to the Legisla- 
+ture the power to determine the retroactive effect of penal 
+laws, thereby usurping the role of the judiciary and the 
+executive. See Weaver, 450 US. at 29 n.10. Finally, 
+as demonstrated in the following section, the application 
+of the 1992 Act frustrated petitioner's reasonabie expecta- 
+tions and reliance on the law in effect at the time of his 
+conduct and at the time of his plea and sentencing, by 
+changing the law retroactively and without fair warning. 
+Cf. id. at 28-29. 
+
+
+E. At the Time of His Plea and Sentencing, Petitioner 
+Reasonably Should Have Expected That He Would 
+Benefit from the Award of Provisional Release 
+
+
+Credits. 
+
+
+Several decisions of this Court note that the Ex Post 
+Facto Clause also protects a prisoner’s reliance in plea 
+bargaining on his reasonable expectations regarding pun- 
+ishment and his right to fair notice and warning regarding 
+changes in the law governing punishment. See Weaver, 
+450 U.S. at 32; cf. Morales, 115 S. Ct. at 1604. In deny- 
+ing petitioner’s habeas request, the district court relied 
+primarily on the opinion of the Eleventh Circuit in Hock 
+v. Singletary, 41 F.3d 1470 (11th Cir. 1995), cert. 
+
+
+27 
+
+
+denied, 116 S. Ct. 715 (1996)." Hock held that the 
+retroactive denial of “control release”™ credits to previ- 
+ously eligible inmates did not violate the Ex Post Facto 
+Clause, in part because the expectation of early release 
+due to prison overcrowding was too conjectural. 41 F.3d 
+at 1472-73. The court reasoned that, unlike “gain-time” 
+early release credits for good behavior, see Weaver, 450 
+U.S. at 32, “control release” credits were contingent on 
+future overcrowding and, therefore, a prisoner could not 
+reasonably rely on the potential award of such credits in 
+ae bargaining decisions. See Hock, 41 F.3d at 
+
+
+*! See Order of the United States District Court Dismissing 
+Petition (J.A. 64); Report and Recommendations of United States 
+Magistrate Judge (J.A. 58-59). 
+
+
+® The “control release” statute, § 947.146(2), Fla. Stat., was en- 
+acted in 1989 and provided for another category of early release 
+credits to maintain the prison population at or below 99 percent 
+of lawful capacity. See Hock, 41 F.3d at 1472-73. 
+
+
+* This analysis flatly contradicts that court's r decision in 
+Raske v. Martinez, 876 F.2d 1496 (11th Cir.), a denied, 498 
+U.S. 993 (1989), where it held that a law resulting in the retro- 
+active denial of “incentive gain-time” violated the Ex Post Facto 
+Clause. “Incentive gain-time” is a type of early release credit 
+awarded for exceptionally diligent work and good deeds. See, ¢.g., 
+§ 944.275 (4) (b)-(c), Fla. Stat. (1998) (Lodg. Doc. 15). This 
+Court has previously recognized that the award of incentive gain- 
+time “is purely discretionary, contingent on both the wishes of 
+the correctional authorities and special behavior by the inmate, 
+such as saving a life or diligent performance in an academic 
+program.” Weaver, 450 U.S. at 35. The Raske court noted that 
+“the [Florida Corrections] department decides in its sole discre- 
+tion whether the prisoner has behaved well enough or worked dili- 
+gently enough to earn gain-time” and that “the opportunity to earn 
+incentive gain-time is dependent on the grace of the legisiature 
+and the availability of jobs...” 876 F.2d at 1499-1500 (emphasis 
+added). Despite the fact that an inmate’s acquisition of incentive 
+gain-time is contingent on legislative and executive decisions and 
+other circumstances outside of the inmate’s ability to contro! or 
+even influence, the Eleventh Circuit held that the retroactive denial 
+of those early release credits violated the Ex Post Facto Clause. /d. 
+In so holding, the court found irrelevant to the ex post facto 
+
+
+28 
+
+
+If the prospect of possible acquisition of early release 
+credits for good behavior is not too speculative to under- 
+gird reasonable expectations of early release, neither is 
+the award of provisional credits due to prison over- 
+crowding. Cf. Weaver, 450 U.S. at 24 (invalidating 
+Florida law that retroactively reduced amount of “gain- 
+time” early release credits a prisoner could earn). More- 
+over, while the award of administrative and provisional 
+release credits was indeed contingent on prison over- 
+crowding, thé burgeoning Florida prison population at 
+the time of petitioner’s plea and sentencing made the 
+award of these credits a near certainty. To the extent 
+that it was rational for petitioner and his lawyer to con- 
+sider the possibility of early release for good behavior, 
+see id. at 32, it was equally rational for them to factor 
+into their calculations the probability of acquiring pro- 
+visional credits.” Thus, the retroactive application of the 
+
+
+inquiry the question of the likelihood that an inmate would obtain 
+early release due to the award of incentive gain-time. /d. at 1500. 
+
+
+% Since 1980, the Florida Department of Corrections had been 
+under court order to reduce the Florida prison population. See 
+Costello v. Wainwright, 489 F. Supp. 1100 (M.D. Fla. 1980). Less 
+than a month before petitioner pleaded nolo contendere and was 
+sentenced, the number of inmates in Florida’s state prisons exceeded 
+98 percent of capacity, the statutory trigger for authorization of 
+provisional release credits. See Mark Dykstra, Apart from the 
+Crowd: Florida’s New Prison Release Program, 14 Fla. St. U. L. 
+Rev. 779 (1986). Writing in 1986, Dykstra stated thet “[the) 
+prison population problem in Florida is an issue that wil' not go 
+away.” Id. at 809. 
+
+
+%5 Petitioner’s choices over the six months between late 1985 
+and early 1986, encompassing his crime, plea, and sentencing for 
+attempted murder, were made against a backdrop of penal law and 
+a corrections system that relied heavily on statutorily-prescribed 
+early release credits to reduce prisoners’ actual time of incarcera- 
+tion. In combination with statutory provisions defining the applica- 
+ble sentence for the crime, petitioner could reasonably vonsider the 
+availability of early release credits as an important element of his 
+assessment of the possible punishment and in his decision to plead 
+
+
+29 
+
+
+1992 Act closed a previously available avenue of early 
+release, and defeated Mr. Lynce’s reasonable expectations, 
+without the constitutionally required fair warning. /d. at 
+28-31. 
+
+
+Il. THE COURT BELOW ERRONEOUSLY CHARAC- 
+TERIZED § 944.277 AS A PROCEDURAL LAW. 
+
+
+The district court’s order denying Mr. Lynce’s petition 
+for a writ of habeas corpus relied almost exclusively on 
+the Eleventh Circuit’s decision in Hock v. Singletary, 41 
+F 470 (11th Cir. 1995), cert. denied, 116 S. Ct. 715 
+( . The Eleventh Circuit affirmed the district court 
+without opinion, apparently relying on Hock as well.” In 
+Hock, the Eleventh Circuit held that laws rendering a 
+convicted murderer retroactively ineligible for control re- 
+lease did not violate the Ex Post Facto Clause. See id. 
+at 1471-73. In a short opinion, the court reasoned that 
+the Ex Post Facto Clause was not implicated because the 
+control release law was “procedural” in nature and, there- 
+fore, did not affect the quantum of punishment attached 
+to the crime.” See id. at 1472. This holding was errone- 
+ous. 
+
+
+nolo contendere. Cf. Eady vy. Florida, 622 So. 2d 61 (Fla. ist Dist. 
+Ct. App. 1993) (per curiam) (misinformation provided by counsel 
+regarding effect of provisional release credits on length of incar- 
+ceration constitutes ineffective assistance of counsel). 
+
+
+%6 The Eleventh Circuit decided Hock several months before this 
+Court’s Morales decision. Therefore, Hock did not benefit from 
+this Court’s most recent teaching on the Ex Post Facto Clause. 
+This Court recently vacated a decision of the Florida Supreme 
+Court involving similar issues, and remanded the case to the 
+Florida Supreme Court for further consideration in light of 
+Morales. See Calamia v. Singletary, 115 S. Ct. 1995 (1995) (mem.). 
+Hock, in turn, relied in large part on pre-Morales decisions of the 
+Florida Supreme Court. It is not clear that the Eleventh Circuit 
+or the Florida Supreme Court would reach the same conclusion 
+regarding the issues presented in Hock after Morales. 
+
+
+8? The court alternatively held that control release was too con- 
+tingent on prison overcrowding to support a reasonable expectation 
+of reduced punishment. See Hock, 41 F.3d at 1472-73. 
+
+
+—- 
+
+
+30 
+
+
+A. The 1992 Act Is Not a Procedural Law, Because It 
+Increased the Punishment Attached to Certain 
+Crimes. 
+
+
+To be sure, the protections of the Ex Post Facto Clause 
+were not intended “to limit the legislative control of . . . 
+modes of procedure which do not affect matters of sub- 
+stance.” Beazell v. Ohio, 269 U.S. 167 (1925). In the 
+ex post facto context, this Court has assigned the word 
+“procedural” a clear meaning: procedural changes are 
+those that produce “no change in the quantum of punish- 
+ment attached to the crime.” Dobbert v. Florida, 432 
+U.S. 282, 294 (1977). In stark contrast, the 1992 Act 
+directly resulted in the arrest and re-incarceration of peti- 
+tioner and the addition of several years to his punishment. 
+This undeniable increase in punishment attached to peti- 
+tioner’s crime precludes characterization of the 1992 Act 
+as merely procedural. See id. at 293-94. 
+
+
+The substantive nature of the 1992 Act is even more 
+clear when it is compared with laws which this Court has 
+found to be procedural. The statute in Beazell presents 
+a clear example of a procedural law. There, the Court 
+held that a law authorizing for the first time the joint 
+trial of persons jointly indicted for a felony was proce- 
+dural, because it affected only the manner in which the 
+trial would be conducted and not the definition of the 
+crime or the extent of the punishment. See Beazell, 269 
+U.S. at 170. Collins v. Youngblood, 497 U.S. 37 (1990), 
+presented a challenge to a statute authorizing an appellate 
+court to reform the defective judgment of a trial court 
+by deleting a fine not authorized by statute, without grant- 
+ing an entirely new trial as required by prior law. In 
+holding that the law was procedural, the Court stated 
+that “it is logical to think that the term [“procedural”] 
+refers to changes in the procedures by which a criminal 
+case is adjudicated, as opposed to changes in the sub- 
+stantive law of crimes.” /d. at 45. Finally, the Court in 
+Dobbert held that a law that altered the division of labor 
+between judge and jury in capital trials was procedural, 
+
+
+31 
+
+
+because it “simply altered the methods employed in deter- 
+mining whether the death penalty was to be imposed; 
+there was no change in the quantum of punishment at- 
+tached to the crime.” 432 U.S. at 293-94. 
+
+
+By contrast, statutes that retroactively enhance the 
+severity of a crime for purposes of determining its pun- 
+ishment are not procedural. In unanimously striking 
+down a retroactive change in the Florida sentencing 
+guidelines, this Court distinguished the case before it 
+from Dobbert: 
+
+
+The 20% increase in points for sexual offenses in 
+no wise alters the method to be followed in determin- 
+ing the appropriate sentence; it simply inserts a larger 
+number into the same equation. 
+
+Miller v. Florida, 482 U.S. 423, 433-34 (1987). 
+
+
+Likewise, in the instant case, the 1992 Act left un- 
+touched the procedures for determining wvhether inmates 
+not excluded by the statute would be granted provisional 
+release credits. The award of such credits remained con- 
+tingent on maintaining the same behavior record necessary 
+for good behavior credits and upon the size of the prison 
+population. However, the 1992 Act changed the legal 
+consequences and quantum of punishment attached to par- 
+ticular crimes. Those convicted of attempted murder 
+were declared ineligible for provisional credits based on 
+the nature of their crimes. This result is the same as if 
+(as in Miller), the legislature had assigned more “offense 
+points” to attempted murder and retroactively excluded 
+those inmates from eligibility for early release credits on 
+the basis of their increased offense points. In the early 
+release context, it is difficult to imagine a clearer example 
+of a substantive change in the penal law. 
+
+
+32 
+
+
+B. Florida’s Purpose in Adopting the 1992 Act Is Irrele- 
+vant to the Determination of Whether the Statute 
+Is Procedural. 
+
+
+The Eleventh Circuit’s conclusion in Hock that changes 
+in the laws governing “control release” credits are pro- 
+cedural rests on the premise that overcrowding credit 
+statutes and amendments were enacted solely to address 
+an “administrative problem.” Hock, 41 F.3d at 1472. 
+This premise is doubtful and, even if correct, does not 
+determine whether the law is procedural.” Relying heav- 
+ily on the Florida Supreme Court’s opinion in Dugger Vv. 
+Rodrick, 584 So. 2d 2, 4 (Fla. 1991), cert. denied sub 
+nom. Rodrick v. Singletary, 502 U.S. 1037 (1992), the 
+Hock court emphasized that the purpose of the control 
+release statute was to “address the administrative problem 
+of prison overcrowding, not to confer a benefit on the 
+prison population.” Hock, 41 F.3d at 1472. However, 
+the fact that a penal law was enacted for administrative 
+convenience has never been held to insulate it from the 
+
+
+88 Morales indicates that the motivation of the enacting legisla- 
+ture is irrelevant to the ex post facto inquiry. See id. at 1605. 
+However, even if legislative motivation were relevant, it is doubt- 
+ful that the Florida Legislature’s intent in amending § 944.277 was 
+limited to its administrative concerns regarding prison overcrowd- 
+ing. Any inquiry into legislative intent properly must focus on 
+the changes effected by the 1992 amendment, i.e., the expansion of 
+the list of offense-based exclusions. The motivation of the Legisla- 
+ture in enacting the origina! early release credits program estab- 
+lished by § 944.277 is immaterial to this assessment. While the 
+Florida Attorney General erroneously opined that “(t]he statute 
+is not tied to inmate conduct” to support his claim that the 1992 
+Act was purely administrative, in the very next sentence he referred 
+to the “legislative intent” evident in the 1992 amendment “to 
+remove [inmates convicted of murder offenses} from the pool of 
+eligible inmates.” Letter to Secretary Singletary (Dec. 31, 1992) 
+(App. D). Because the 1992 Act rendered selected inmates ineligible 
+for early release credits on the basis of their crimes, any argu- 
+ment that the Florida Legislature enacted the Act purely out of 
+administrative convenience and without regard for substantive 
+issues of punishment stretches credulity. 
+
+
+33 
+
+
+requirements of the Ex Post Facto Clause. This Court 
+has never wavered from the principle that penal provi- 
+sions, even when “accorded by the grace of the legis- 
+lature,” are unconstitutional if they operate to increase 
+punishment retroactively. See, e.g., Weaver, 450 US. at 
+30-31. The Court’s opinion in Morales makes clear that 
+the proper focus of the inquiry is on the actual effect of 
+the law on the prisoner’s punishment, not on the legis- 
+
+
+lature’s motivation for enacting the la 
+115 S. Ct. at 1605." s ae cone 
+
+
+Incarceration is punishment, and longer incarcerati 
+Is greater punishment. By eithdeiiilite 1,860 dies ef 
+Provisional credits from Mr. Lynce, the 1992 Act en- 
+hanced his punishment by lengthening his term of incar- 
+ceration. The clear import of the Court’s ex post facto 
+decisions is that a statute retroactively effecting such a 
+substantial change in punishment is unconstitutional. Con- 
+trary to the command of the Ex Post Facto Clause. the 
+1992 Act had the intent and effect of singling out a group 
+of offenders—a group that included the Petitioner—and 
+increasing the punishment attached to their crimes after 
+those crimes had been committed. 
+
+
+*® The Third Circuit understands Morales to stand for the propo- 
+sition that the only relevant inquiry is into the effect of the new 
+law on punishment. See Artway Vv. Attorney General, 81 F.3d 1235 
+1260-61 (8d Cir. 1996) (“The opinion . . . [in Morales] spends 
+the bulk of its analysis examining the effect of the legislative 
+change on Morales. . . . In doing so, it concedes that a measure 
+
+
+effectively extending a sentence of imprisonment constitutes pun- 
+
+
+ishment, presumably regardless of the legislature’ a 
+(internal citation omitted). asiiature’s motivetion.”) 
+
+
+34 
+
+
+CONCLUSION 
+
+
+The judgment of the court of appeals should be re- 
+versed and the Petition for Writ of Habeas Corpus should 
+
+
+be granted. 
+Respectfully submitted. 
+
+
+Of Counsel: H. JAY STEVENS 
+CARTER G. PHILLIPS JOEL T. REMLAND * 
+
+
+PAUL A. HEMMERSBAUGH Federal Public Defender 
+Middle District of Florida 
+SIDLEY & AUSTIN 
+1722 Eye Street, N.W. 80 N. Hughey Avenue 
+Washington, D.C. 20006 Suite 417 
+(202) 736-8000 Orlando, FL 32801 
+(407) 648-6338 
+Counsel for Petitioner 
+
+
+July 12, 1996 * Counsel of Record 
+
+
+a 
+x 
+
+
+la 
+APPENDIX A 
+1992 SUPPLEMENT TO FLORIDA STATUTES 1991 
+
+
+944.277 Provisional credits.— 
+
+
+1. Whenever the inmate population of the correctional 
+system reaches 98 percent of lawful capacity, the 
+Secretary of Corrections shall certify to the Gov- 
+ernor that such condition exists. When the Governor 
+acknowledges such condition in writing, the secretary 
+may grant up to 60 days of provisional credits 
+equally to each inmate who is earning incentive gain- 
+time, except to an inmate who: 
+
+
+a. Is serving a sentence which includes a mandatory 
+minimum provision for a capital offense or drug 
+trafficking offense and has not served the number 
+of days equal to the mandatory minimum term 
+less any jail-time credit awarded by the court; 
+
+
+Is serving the mandatory minimum portion of a 
+sentence enhanced under s. 775.087(2); 
+
+
+c. ‘Is convicted, or has been previously convicted, 
+of committing or attempting to commit sexual 
+
+
+1 Note.— 
+
+
+A. Section 3, ch. 90-186 provides that “[a] person who is con- 
+victed, or has been previously convicted, of committing prior to the 
+effective date of this act a lewd or indecent assault or act specified 
+in section 944.277(1)(c), Florida Statutes, is eligible for provi- 
+sional credits. However, a person who is convicted or has been 
+previously convicted, of committing or attempting to commit a 
+lewd or indecent assault or act as a result of masturbating in 
+public, exposing the sexual organs in a perverted manner, or non- 
+consensual handling or fondling of the sexual organs of another 
+person is not eligible for provisional credits.” 
+
+B. Section 19, ch. 90-337, provides that “[e)ffective July 1, 1990, 
+an inmate convicted of a lewd or indecent act not listed in 
+8. 944.277(1) (c), Florida Statutes, shal] receive retroactive benefit 
+of all provisional credit awards made during the service of his 
+sentence, provided that he is not otherwise ineligible for, or 
+excluded from, receiving such an award.” Chapter 90-337 was 
+signed into law on July 3, 1990. 
+
+
+2a 
+
+
+battery, incest, or any of the following lewd or 
+indecent assaults or acts: masturbating in public; 
+exposing the sexual organs in a perverted man- 
+ner; or nonconsensual handling or fondling of 
+the sexual organs of another person; 
+
+
+. Is convicted, or has been previously convicted, 
+of committing or attempting to commit assault, 
+aggravated assault, battery, or aggravated bat- 
+tery, and a sex act was attempted or completed 
+during commission of the offense; 
+
+
+. Is convicted, or has been previously convicted, 
+of committing or attempting to commit kidnap- 
+ping, burglary, or murder, and the offense was 
+committed with the intent to commit sexual bat- 
+tery or a sex act was attempted or completed 
+during commission of the offense; 
+
+
+. Is convicted, or has been previously convicted, 
+of committing or attempting to commit false im- 
+prisonment upon a child under the age of 13 
+and, in the course of committing the offense, the 
+inmate committed aggravated child abuse; sexual 
+battery against the child; or a lewd, lascivious, 
+or indecent assault or act upon or in the presence 
+of the child; 
+
+
+. Is sentenced, or has previously been sentenced, or 
+has been sentenced at any time under s. 775.084, 
+or has been sentenced at any time in another 
+jurisdiction as a habitual offender; 
+
+
+. Is convicted, or has been previously convicted, 
+of committing or attempting to commit assault, 
+aggravated assault, battery, aggravated battery, 
+kidnapping, manslaughter, or murder against an 
+officer as defined in s. 943.10(1), (2), (3), (6), 
+(7), (8), or (9); or against a state attorney or 
+
+
+3a 
+
+
+assistant state attorney; or against a justice or 
+judge of a court described in Article V of the 
+State Constitution; or against an officer, judge, 
+or state attorney employed in a comparable posi- 
+tion by any other jurisdiction; or 
+i. Is convicted, or has been previously convicted, of 
+committing or attempting to commit murder in 
+the first, second, or third degree under s. 782.041 
+(1), (2), (3), or (4); or has ever been con- 
+victed of any degree of murder in another juris- 
+Retlen: of 
+j. Is serving a concurrent sentence in another state 
+or federal jurisdiction. 
+In making provisional credit eligibility determinations, the 
+department may rely on any document leading to or gen- 
+erated during the curse of the criminal proceedings in- 
+volving the inmate, including, but not limited to, any 
+presentence or postsentence investigation or any informa- 
+tion contained in arrest reports relating to circumstances 
+of the offense. 
+
+2. The secretary’s authority to grant provisional credits 
+in increments not exceeding 60 days will continue 
+until the inmate population of the correctional system 
+reaches 97.5 percent of lawful capacity, at which 
+time the authority granted to the secretary will cease, 
+and the secretary shall notify the Governor in writing 
+of the cessation of such authority. 
+
+
+3. At such time as provisional credits are granted, the 
+Department of Corrections shall establish a provi- 
+sional release date for each eligible inmate incar- 
+cerated, which will be the tentative release date less 
+any provisional credits granted. 
+
+
+4. Any eligible inmate who is incarcerated on the 
+effective date of an award of provisional credits shall 
+receive such credits. Any inmate who is under any 
+
+
+4a 
+
+
+type of release program of the department is not 
+eligible for an award of provisional credits. 
+
+
+. Any inmate who is serving one or more sentences 
+
+
+of imprisonment imposed as a result of an offense 
+that occurred on or after July 1, 1988, who receives 
+30 or more days of provisional credits, and who is 
+not required to be released only under conditional 
+release supervision pursuant to ss. 944.291 and 
+947.1405 must be released into the provisional re- 
+lease supervision program on his provisional release 
+date, unless such inmate is also serving a sentence 
+for an offense that occurred before July 1, 1988. 
+The department shall contract with public or private 
+organizations for the delivery of basic support serv- 
+ices while an inmate is in the provisional release 
+supervision program. Support services shall include, 
+but not be limited to, substance abuse counseling, 
+temporary housing, family counseling, and employ- 
+ment support programs. Inmates who are released 
+into the provisional release supervision program are 
+not eligible for any additional gain-time. If an in- 
+mate has received a term of probation, community 
+control supervision, conditional release supervision, 
+or control release supervision to be served after his 
+release from incarceration, the period of probation, 
+community control supervision, conditional release 
+supervision, or control release supervision must be 
+substituted for the period of supervision under the 
+
+
+provisional release supervision program. 
+
+
+. The terms and conditions of provisional release su- 
+
+
+pervision must be specified in writing, and a copy 
+must be given to the inmate at the time of his re- 
+lease from incarceration. If the inmate’s conviction 
+was for a controlled substance violation, the condi- 
+tions shall include a requirement that the inmate 
+submit to random substance abuse testing intermit- 
+
+
+5a 
+
+
+tently through the term of supervision, upon the 
+direction of the correctional probation officer as de- 
+fined in s. 943.10(3). The term of supervision must 
+be equal to the number of provisional credits ac- 
+crued, but may not exceed 90 days unless extended 
+as provided in subsection (7). 
+
+
+. If an inmate violates any term or condition of pro- 
+
+
+visional release supervision, the Department of Cor- 
+rections may take any of the following action: 
+
+
+a. Continue provisional release supervision. 
+
+
+b. Extend the term of supervision not to exceed 
+the total number of provisional credits the in- 
+mate has accumulated. 
+
+
+c. Terminate the provisional release supervision and 
+return the inmate to prison. If an inmate is 
+returned to prison, credits accumulated as of the 
+date of release to the provisional release super- 
+
+
+vision program may be canceled as prescribed by 
+department rule. 
+
+
+. If an inmate absconds from provisional release su- 
+
+
+pervision, the Department of Corrections may issue a 
+warrant for his arrest as provided by s. 944.405. The 
+failure of an inmate to report to the designated 
+parole and probation office within 10 days after his 
+release from incarceration constitutes a violation of 
+the provisional release supervision program and will 
+
+
+result in issuance of a warrant for arrest of the 
+inmate. 
+
+
+. The Department of Corrections shall adopt rules 
+
+
+to implement the provisional release supervision 
+program. 
+
+
+History.—s. 5, ch. 88-122; s.4, ch. 89-100; s.5, ch. 
+89-526; s. 5, ch. 89-531; s. 2, ch. 90-77; s. 1, ch. 90-186; 
+s. 14, ch. 90-337; s. 14, ch. 91-280; s. 12, ch. 92-310. 
+
+
+6a 
+APPENDIX B 
+
+
+{Relevant Excerpts Only—Full Document 
+Lodged with the Court] 
+
+
+AGO 92-96—DECEMBER 29, 1992 
+
+
+CORRECTIONS, DEPARTMENT OF—INMATES— 
+GAIN-TIME 
+
+
+AWARD OF PROVISIONAL CREDITS 
+TO INMATES CONVICTED OF 
+CERTAIN OFFENSES 
+
+
+To: The Honorable Gary Siegel, Senator, District 12; 
+The Honorable Norman R. Wolfinger, State At- 
+torney, Eighteenth Judicial Circuit; Mr. Harry 
+K. Singletary, Jr., Secretary, Department of 
+Corrections 
+
+
+You recognize that there is great concern in Central 
+Florida regarding the impending release of Donald Glenn 
+McDougall who was convicted of second degree murder 
+and aggravated child abuse. The Department of Correc- 
+tions has calculated provisional release credits under 
+s. 944.277, F.S. (1992 Supp.), for McDougall which 
+would dramatically reduce the time he must serve under 
+his original sentence.’ There is concern, however, that 
+the provisions of s. 944.277, F.S. (1992 Supp.) were not 
+intended to operate to permit the early release of con- 
+victed felons such as McDougall. You, therefore, ask my 
+opinion regarding the interpretation of s. 944.277, F.S. 
+(1992 Supp. ). 
+
+
+While your concern regarding the impending release 
+of McDougall prompted your inquiries to this office, the 
+
+
+1 This office has been advised by the Department of Corrections 
+that since January 1991, the provisions of s. 947.146, F.S., creating 
+a controlled release program, have been used to regulate the prison 
+population. However, McDougall’s scheduled release is based upon 
+a calculation of provisional credits pursuant to s. 944.277, F-.S. 
+
+
+7a 
+
+
+questions you pose are general in nature and may be 
+substantially stated as follows: 
+
+
+QUESTIONS: ... 
+
+
+* a * * 
+
+
+3. Does s. 944.277(1)(i), F.S. (1992 Supp.), pro- 
+hibit provisional credits being awarded to an inmate 
+convicted of murder? 
+
+
+SUMMARY:... 
+
+
+* * a * 
+
+
+3. Section 944.277(1)(i), F.S. (1992 Supp.), pro- 
+hibits provisional credits being awarded to an inmate 
+who has been convicted of murder, regardless of when 
+such conviction occurred. 
+
+
+AS TO QUESTION 3: 
+
+
+Section 944.277(1)(i), F.S. (1992 Supp.), prohibits 
+the awarding of provisional credits to an inmate who has 
+been convicted of murder.* The prohibition was added 
+to s. 944.277 by Ch. 89-100, Laws of Florida. In so 
+amending the statute, the Legislature did not set forth 
+the entire text of subsection (1) but only the newly 
+created paragraphs (h) and (i) as amendments to that 
+subsection.” Section 6 of Ch. 89-100 provided that the 
+act took effect January 1, 1990, and would apply to 
+offenses committed on or after the effective date. The 
+Division of Statutory Revision, in compiling the 1989 
+Florida Statutes, appended a footnote to s. 944.277(1) (h) 
+and (i), recognizing that the provisions of those para- 
+
+
+* See, s. 944.277(1) (i), F.S. (1992 Supp.), prohibiting the award 
+of provisional credits to an inmate who: 
+
+
+Is convicted, or has been previously convicted, or committing 
+or attempting to commit murder in the first, second, or third 
+degree under s. 728.04(1), (2), (3), or (4); or has ever been 
+convicted of any degree of murder in another jurisdiction. . 
+
+
+* See, s. 4, Ch. 89-100, Laws of Florida. 
+
+
+graphs applied only to offenses committed on or after 
+January 1, 1990. 
+
+Section 944.277(1), F.S. 1989, was amended by Ch. 
+90-186, Laws of Florida, which set forth the entire text 
+of the subsection. Section 4 of Ch. 90-186, Laws of Flor- 
+ida, stated that the act “shall take effect October 1, 1990, 
+and shall apply to offenses committed on or after the effec- 
+tive date.” The reference to s. 944.277(1) in the 1991 
+Florida Statutes notes that subsection (1) applies to of- 
+fenses committed on or after October 1, 1990; the foot- 
+note to paragraphs (h) and (i) which had been contained 
+in the 1989 Florida Statutes was deleted. 
+
+
+The 1992 Legislature again amended subsection (1) 
+of s. 944.277, F.S., setting forth the entire text of the 
+subsection in s. 12, Ch. 92-310, Laws of Florida. In pre- 
+scribing an effective date, however, the act contained no 
+restriction on the subsection’s application to offenses com- 
+mitted after a certain date. The 1992 Supplement to the 
+Florida Statutes does not recognize any such limitation for 
+any provision of subsection (1). 
+
+
+As noted supra, s. 944.277, F.S., establishes the pro- 
+cedures to be used by the Department of Corrections to 
+reduce the prison population and is not a substantive 
+matter of punishment or reward. Statutes relating to 
+remedies or procedures operate retrospectively.‘ Thus, 
+absent a limitation, s. 944.277, F.S., as a procedural stat- 
+ute, applies retroactively. The courts have expressly Tec- 
+ognized that the statute may be retroactively applied. 
+It was thus necessary for the Legislature in 1989 and 
+1990 to impose a limitation in order for the provisions 
+of subsection (1) to operate prospectively only." 
+
+
+* Fogg v. Southeast Bank, N.A., 473 So.2d 1352 (4.D.C.A. Fla., 
+1985). 
+5 See, Dugger v. Rodrick, supra. 
+
+
+® Cf. Dominquez v. State, 17 F.L.W. D1853, 1854 (1 D.C.A. Fla., 
+filed July 29, 1992), recognizing that in order for the statute to be 
+
+
+9a 
+
+
+Such a limitation, however, was not imposed with the 
+amendment of subsection (1) in 1992, and absent such 
+a limitation, the provisions of that subsection would apply 
+retroactively. Such a construction is consistent with the 
+position which appears to have been taken by the Division 
+of Statutory Revision, which is responsible for facilitating 
+the correct and proper interpretation of the Florida 
+Statutes.’ 
+
+
+Accordingly, I am of the opinion, until legislatively or 
+judicially determined otherwise, that s. 944.277(1)(i), 
+F.S. (1992 Supp.), prohibits provisional credits being 
+awarded to an inmate who has been convicted of murder, 
+regardless of when such offense occurred. 
+
+
+* * x ok 
+
+
+In summary, therefore, inasmuch as McDougall was 
+convicted of murder in the second degree, he would appear 
+to be precluded from receiving provisional credits pur- 
+suant to s. 944.277(1)(i), F.S. (1992 Supp.). More- 
+over, if the Secretary of Corrections determines that Mc- 
+Dougall was convicted of aggravated child abuse with 
+battery or aggravated battery as an element of that of- 
+fense and that a sex act was attempted or committed 
+during the commission of that offense, he would be pre- 
+cluded from receiving provisional credits pursuant to 
+s. 944.277(1)(d), F.S. (1992 Supp. ). 
+
+
+applied prospectively only, a specific proviso for offenses occurring 
+after a certain date was needed. I am not unmindful that in that 
+case the court held erroneous the interpretation given by the De- 
+partment of Corrections that s. 944.277(1) (i) excluded murderers 
+from receiving provisional credits who had committed any criminal 
+offense after January 1, 1990, and had a prior murder conviction. 
+The court stated that the statute disqualified murderers who com- 
+mitted a murder after January 1, 1990. The court, however, was 
+interpreting the provisions of s. 944.277, F.S. 1989, and not the 
+subsequent amendments to the statute in 1990 and 1992. and, thus, 
+the court’s decision would appear to be of limited application. 
+
+
+7 See, s. 11.242, F.S. 
+
+
+10a 
+
+
+APPENDIX C 
+
+
+[FLORIDA DEPARTMENT OF CORRECTIONS 
+LETTERHEAD] 
+
+
+December 30, 1992 
+
+
+The Honorable Robert A. Butterworth 
+Attorney General 
+
+Office of the Attorney General 
+
+The Capitol 
+
+Tallahassee, Florida 32399-1050 
+
+
+Dear General Butterworth: 
+
+
+The Department of Corrections has reviewed the opinion 
+issued on December 29 in response to the questions sub- 
+mitted by the Department, Senator Siegel and State At- 
+torney Wolfinger. A portion of the opinion issued in 
+response to a question which I understand was submitted 
+by State Attorney Wolfinger raises additional questions 
+which require clarification before the Department may 
+fully determine the impact of the opinion and apply it 
+appropriately. 
+
+As you are aware, the specific question relating to the 
+possible retrospective exclusion of murders under the 
+amendments to Section 944.277(1)(i) and later statu- 
+tory enactments was not initiated by the Department, due 
+to the opinion of the First District Court of Appeal in 
+Dominquez v. State, 17 F.L.W. D1853 (Fla. Ist DCA, 
+July 29, 1992). The opinion issued on December 29 
+indicates that the Dominquez opinion has limited appli- 
+cation. The Department has not seen the question sub- 
+mitted by State Attorney Wolfinger and, therefore, did 
+not have benefit of the information, if any, accompanying 
+the question. Thus, the Department does not know the 
+full foundation upon which the opinion may be based. 
+For this reason, the Department submits the questions 
+at the end of this letter in connection with the opinion 
+
+
+lla 
+
+
+issued on December 29 to be sure of the full import of 
+the opinion prior to its application. 
+
+
+Preliminarily, I note the following. In two places within 
+the opinion, you state that the Department has “calcu- 
+lated” provisional release credits under s. 944.277 (see 
+page 1 and footnote 1). The Department was contacted 
+yesterday by defense counsel who represent offenders in 
+this area of the law regarding this language and whether 
+the opinion would require the voiding of provisional 
+credits. They argue that the Department has not merely 
+calculated provisional credits but has granted and awarded 
+a total of 1860 credits between July 1, 1988 and January 
+18, 1991; the date of the last award of credits following 
+implementation of control release under s. 947.146. The 
+application of these credits was made under s. 944.277(4). 
+
+
+The initial summary of the opinion, the final paragraph 
+of the response to questions three, and the closing para- 
+graph of the opinion all indicate that the amendments to 
+s. 944.277(1)(i) now preclude the award of provisional 
+credits under that section; however, the opinion does not 
+make clear whether credits previously granted are subject 
+to being voided or whether the retrospective effect of the 
+amendments is accomplished through the denial of future 
+credits to all inmates who formerly were eligible for pro- 
+visional credits. The final summary paragraph of the 
+opinion indicates that “inasmuch as McDougall was con- 
+victed of murder in the second degree, he would appear 
+to be precluded from receiving provisional credits pursu- 
+ant to s. 944.277(1)(i), F.S. (1992 Supp.).” Since all 
+the awards of provisional credits granted and applied to 
+reduce Mr. McDougall’s overall release date were made 
+on or prior to January 18, 1991, the only way to preclude 
+the release of McDougall’ and other similarly situated 
+offenders is to void credits previously granted. 
+
+
+'The Department notes that McDougall’s credits have already 
+been voided on the basis of other portions of the opinion issued on 
+December 29, 1992, related to his conviction for aggravated child 
+abuse. 
+
+
+12a 
+
+
+Defense counsel also pointed out that while the decisions 
+of The Supreme Court of Florida in Dugger v. Rodrick, 
+584 So.2d 2 (Fla. 1991), cert. denied, 112 S.Ct. 885 
+(1992), and Dugger v. Grant, 17 F.L.W. S744 (Fla., De- 
+cember 10, 1992),’ confirm that the early release mech- 
+anism under Section 944.277 is remedial in nature and 
+do not create any substantive or procedural “liberty” due 
+process rights, these decisions do not appear to specifically 
+address whether an inmate may have a vested right to 
+retain credits which have already been granted and ap- 
+plied to his release date. See, § 944.277(4), Fla. Stat. 
+(1991) (“{a]ny eligible inmate who is incarcerated on 
+the effective date of an award of provisional credits shall 
+receive such credits”); cf. Waldrup v. Dugger, 562 So.2d 
+687, 694-695 (Fla. 1990) (gaintime statutes do not cre- 
+ate vested rights until gain-time actually is awarded). 
+Furthermore, defense counsel contend that the only stat- 
+utory authority given the Department to void or cancel 
+credits appears in s. 944.277(7)(c). The Department ad- 
+vised defense counsel that a clarification of the opinion 
+was to be requested as to the question of cancellation of 
+the credits and that these concerns would be brought to 
+your attention. 
+
+
+With this background, the Department now seeks clarifi- 
+cation of the opinion issued on December 29, 1992: 
+
+
+Do the 1992 amendments to s. 944.277(1) as dis- 
+cussed in Question Three of the December 29 opin- 
+ion require that the Department void or cancel pro- 
+visional credits previously given to offenders now 
+excluded by s. 944.277(1) (i)? 
+
+
+If so, is the cancellation or credits limited only to 
+those offenders who were in custody on July 6, 1992, 
+the effective date of the 1992 amendments, or must 
+the cancellation be extended to those released prior 
+
+
+2 The Department notes that the Grant decision is not yet final 
+as a motion for rehearing has been filed and remains pending. 
+
+
+13a 
+
+
+to that date but still under supervision by the De- 
+partment on that date? 
+
+
+If cancellation of credits extends to those offenders 
+still under supervision on July 6, 1992, and an 
+offender has since completed supervision, must that 
+offender be returned to custody to complete service 
+= a sentence remaining after cancellation of 
+credits’ 
+
+
+If cancellation of credits is mandated for all offenders 
+in custody on July 6, 1992, and the Department re- 
+leased an offender affected by s. 944.277(1)(i) for 
+expiration of sentence or to supervision on or after 
+July 6, 1992, because of application of provisional 
+release credits prior to January 19, 1991, must that 
+offender be returned to custody to serve the balance 
+
+
+of the sentence remaining after cancellation of 
+credits? 
+
+
+Is an offender who must be returned to custody 
+following cancellation of credits entitled to credit for 
+time out of custody under the principles of Sutton vy. 
+Department of Corrections, 531 So.2d 1009 (Fla. 
+St. DCA 1988) and Carson v. State, 489 So.2d 1236 
+(Fla. 2d DCA 1986). 
+
+
+On December 31, 1992, the Department is scheduled to 
+release offenders impacted by s. 944.277(1)(i) who pre- 
+viously received provisional credits under earlier eligibility 
+periods. 
+
+Because of these impending releases, the Department re- 
+
+
+spectfully asks that your office give expedited considera- 
+tion to this clarification request. 
+
+
+Sincerely, 
+/s/ 
+
+
+Harry K. Singletary, Jr. 
+Secretary 
+
+
+cc: Louis A. Vargas, General Counsel 
+
+
+l4a 
+APPENDIX D 
+
+
+[STATE OF FLORIDA LETTERHEAD] 
+December 31, 1992 
+
+
+Mr. Harry K. Singletary, Jr. 
+Secretary 
+
+Department of Corrections 
+
+2601 Blairstone Road 
+Tallahassee, Florida 32399-2500 
+
+
+Dear Secretary Singletary: 
+
+
+In light of this office’s opinion in AGO 92-96, you ask 
+additional questions about the department’s responsibili- 
+ties under s. 944.277 F.S. (1992 Supp.). Your questions 
+may be summarized as follows: 
+
+
+1) In light of the 1992 amendments to s. 944.277 
+(1), F.S. (1992 Supp.), are inmates convicted of 
+murder who are currently in the custody of the De- 
+partment of Corrections eligible for release regardless 
+of when the administrative calculation of provisional 
+credits pursuant to s. 944.277 was made? 
+
+
+2) Must the Department of Corrections recommit 
+inmates convicted of murder who have been released 
+after July 6, 1992, by the department based in part 
+on the department’s calculation of provisional 
+credits? 
+As your questions are interrelated, they will be answered 
+together. 
+As discussed in AGO 92-96, the Legislature, with the 
+1992 amendment of s. 944.277(1), F.S., has manifested 
+its intent that murderers are precluded from receiving pro- 
+visional credits, regardless of when such conviction oc- 
+curred. While you have referred to s. 944.277(4), FS. 
+(1992 Supp.), which states that eligible inmates shall re- 
+
+
+lieve prison overcrowding and is permissive rather 
+than mandatory.’ The statute is procedural only. As the 
+Court made clear in the broad language of its recent deci- 
+
+
+may be withdrawn, modified or denied by s t 
+islation.* Calculation of provisional ok povereyt 4 
+does not preclude the Legislature from modifying the 
+statute to prohibit the release of certain offenders under 
+this program since the exclusive purpose of the program 
+is to relieve prison overcrowding. The statute is not tied 
+to inmate conduct. 
+
+
+The amendment of the statute in 1992 manifests a legisla- 
+tive intent to remove these offenders from the pool of 
+eligible inmates. Therefore, I am of the opinion that an 
+inmate who has been convicted of murder and is in cus- 
+tody on or after July 6, 1992, is no longer eligible for 
+release based upon an administrative calculation of provi- 
+sional credits pursuant to s. 944.277, F.S. (1992 Supp.), 
+regardless when such calculation was made. 
+
+
+While I am not aware of, nor have you drawn my atten- 
+tion to, any Florida court decision which compels the 
+department to recommit inmates released after July 6, 
+
+
+* See, e.g., Dugger v. Rodrick, 584 So.2d 2 (Fla. 1991), cert. 
+denied, 112 S.Ct. (1992). 
+
+
+217 F.L.W. 8744, 746 (Fla., filed December 10, 1992), pet. for 
+rehearing pending. 
+
+* Dugger v. Rodrick, supra, in which the Court held that the 
+retroactive application of the inmate population control statute, 
+as a procedural rather than substantive law, is not an ex post facto 
+law, even though it may work to the disadvantage of the prisoner. 
+
+
+16a 
+
+
+1992, the department retains jurisdiction over a prema- 
+turely released prisoner so long as his sentence has not 
+expired.* The department as an administrative agency, 
+however, must act in accordance with statutory directives.° 
+The early release of an inmate without statutory authority 
+does not excuse the inmate from serving the balance of 
+his or her sentence and he or she may be recommitted by 
+prison authorities unless judicially or legislatively deter- 
+mined otherwise.° 
+
+
+I trust that the above comments may be of some assistance 
+
+
+to the Department of Corrections in meeting its statutory 
+duties. 
+
+
+Sincerely, 
+/s/ 
+
+
+Robert A. Butterworth 
+Attorney General 
+
+
+*See, Carson v. State, 489 So.2d 1236 (2 D.C.A. Fla. 1986) 
+(when an inmate is released or discharged from prison by mistake, 
+he may be recommitted if his sentence would not have expired had 
+he remained in confinement). When an inmate is released from 
+prison by mistake, his sentence continues to run in the absence of 
+some fault on his part. Sutton v. Department of Corrections, 531 
+So.2d 1009 (1 D.C.A. Fla., 1988). Thus an inmate recommitted by 
+the department is entitled to credit for the time he spent at liberty. 
+
+
+5 See, e.g., Schiffman v. Department of Professional Regulation, 
+Board of Pharmacy, 581 So.2d 1375 (1 D.C.A. Fia., 1991) (admin- 
+istrative agency has only that authority which the Legislature has 
+conferred by statute); City of Cape Coral v. GAC Utilities, Inc., 
+281 So. 2d 498 (Fla. 1978). 
+
+
+* See, e.g., Johnson v. State, 561 So.2d 1254 (2 D.C.A. Fla., 1990) 
+(fact an inmate was mistakenly released from custody before 
+serving a prison sentence did not terminate that sentence) ; Green 
+v. Christiansen, 732 F.2d 1397, 1400 (9 Cir. 1984). 
+
+

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 7408169,
+    "name": "COMMODITY FUTURES TRADING COMMISSION, Plaintiff-Appellee, v. William C. DUNN and Delta Consultants, Inc., Defendants-Appellants, Delta Options, Ltd. and Nopkine Co., Ltd., Defendants",
+    "name_abbreviation": "Commodity Futures Trading Commission v. Dunn",
+    "decision_date": "1995-06-23",
+    "docket_number": "No. 856, Docket 94-6197",
+    "first_page": "50",
+    "last_page": "54",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "58 F.3d 50"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "2d Cir.",
+      "id": 8778,
+      "name": "United States Court of Appeals for the Second Circuit"
+    },
+    "jurisdiction": {
+      "id": 39,
+      "name_long": "United States",
+      "name": "U.S."
+    },
+    "cites_to": [
+      {
+        "cite": "17 C.F.R. \u00a7 32.4",
+        "category": "laws:admin_compilation",
+        "reporter": "C.F.R.",
+        "pin_cites": [
+          {
+            "parenthetical": "limited exemption for commodity options \"offered by a person which has a reasonable basis to believe that the option is offered to a producer, processor, commercial user or merchant ... solely for purposes related to its business as such\""
+          }
+        ],
+        "opinion_index": 0
+      },
+      {
+        "cite": "128 L.Ed.2d 192",
+        "category": "reporters:federal",
+        "reporter": "L. Ed. 2d",
+        "year": 1994,
+        "opinion_index": 0
+      },
+      {
+        "cite": "114 S.Ct. 1540",
+        "category": "reporters:federal",
+        "reporter": "S. Ct.",
+        "year": 1994,
+        "opinion_index": 0
+      },
+      {
+        "cite": "8 F.3d 966",
+        "category": "reporters:federal",
+        "reporter": "F.3d",
+        "case_ids": [
+          10514048
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/f3d/8/0966-01"
+        ]
+      },
+      {
+        "cite": "803 F.2d 1242",
+        "category": "reporters:federal",
+        "reporter": "F.2d",
+        "case_ids": [
+          1629692
+        ],
+        "weight": 2,
+        "pin_cites": [
+          {
+            "page": "1248-49"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/f2d/803/1242-01"
+        ]
+      },
+      {
+        "cite": "7 U.S.C. \u00a7 2",
+        "category": "laws:leg_statute",
+        "reporter": "U.S.C.",
+        "pin_cites": [
+          {
+            "page": "(ii)"
+          }
+        ],
+        "opinion_index": 0
+      },
+      {
+        "cite": "88 Stat. 1389",
+        "category": "laws:leg_session",
+        "reporter": "Stat.",
+        "opinion_index": 0
+      }
+    ],
+    "analysis": {
+      "cardinality": 754,
+      "char_count": 13671,
+      "ocr_confidence": 0.663,
+      "pagerank": {
+        "raw": 1.6160854785376654e-07,
+        "percentile": 0.6864508316894151
+      },
+      "sha256": "2024ad850d1f56500e2a50f36fb1bb44794afee5af5913479975e1d9ab6b81de",
+      "simhash": "1:19e7e7a1cd343b5f",
+      "word_count": 2112
+    },
+    "last_updated": "2024-02-28T00:05:51.952661+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0050-01",
+    "first_page_order": 108,
+    "last_page_order": 112
+  }
+]

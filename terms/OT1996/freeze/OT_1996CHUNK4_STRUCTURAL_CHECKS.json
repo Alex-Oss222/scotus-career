@@ -1,0 +1,78 @@
+{
+  "protected_files_checked": 89,
+  "new_records": 10,
+  "records": [
+    {
+      "case": "Federal Election Commission v. Legi-Tech, Inc.; D.C. Circuit Nos. 94-5379 and 95-5085, 75 F.3d 704; no separate Supreme Court docket supplied.",
+      "date": "1997-02-18",
+      "result": "Affirm the D.C. Circuit judgment reversing dismissal without prejudice; the enforcement action may continue, 9–0.",
+      "file": "FEC_v_Legi_Tech_merits_1997-02-18.md",
+      "sha256": "36d31a1783339eedf178f5eb4ec93c30d991beeb9c69237a8ab6e279728ad939"
+    },
+    {
+      "case": "Uhlrig v. Harder; Tenth Circuit No. 94-3190, 64 F.3d 567; no separate Supreme Court docket supplied.",
+      "date": "1997-02-18",
+      "result": "Affirm the reviewed individual-capacity summary judgment, 9–0; eight Justices rest solely on qualified immunity, and Stone-Zsela concurs in the judgment on constitutional merits.",
+      "file": "Uhlrig_v_Harder_merits_1997-02-18.md",
+      "sha256": "90abc9a61d5531638593bd491d45641d0f4e6c362e5e767d7b96cbe13271452f"
+    },
+    {
+      "case": "United States v. Brockamp and United States v. Scott; No. 95-1225, one petition embracing Ninth Circuit judgments reported at 67 F.3d 260 and 70 F.3d 120.",
+      "date": "1997-02-18",
+      "result": "Reverse both tolling-based appellate judgments and remand, 9–0; Brockamp's preserved deposit alternative remains open.",
+      "file": "United_States_v_Brockamp_merits_1997-02-18.md",
+      "sha256": "25ccb98f15494e8f45fc9d76f89562bb0ffd28d8037aa4d630a6d968ba1399d3"
+    },
+    {
+      "case": "Auer v. Robbins; No. 95-897.",
+      "date": "1997-02-19",
+      "result": "Affirm, 9–0, subject to actual reimbursement and a promise of future compliance before the affected salary-basis claim is disposed of on a corrected-exemption ground; eight Justices retain controlling own-regulation interpretation, while Stone-Zsela proposes a different interpretive rule.",
+      "file": "Auer_v_Robbins_merits_1997-02-19.md",
+      "sha256": "c60da4ebe3ef7390d6c16c9c365d2e1dff1b95f033d44a96e0d7cc5ec3281e44"
+    },
+    {
+      "case": "Maryland v. Wilson; No. 95-1268; OT1996, chunk 4.",
+      "date": "1997-02-19",
+      "result": "Reverse and remand, 6–3.",
+      "file": "Maryland_v_Wilson_merits_1997-02-19.md",
+      "sha256": "06b82c1356974b9774fd6a56744a2ca33b53bde62b0dcb945e2a40b5896cdf34"
+    },
+    {
+      "case": "Regents of the University of California v. Doe; No. 95-1694; OT1996, chunk 4.",
+      "date": "1997-02-19",
+      "result": "Reverse and remand on the indemnification question, 9–0.",
+      "file": "Regents_v_Doe_merits_1997-02-19.md",
+      "sha256": "f29a474b26073b42ef3c3c15a05874cb607483ba14a9036a06747f803e1d2616"
+    },
+    {
+      "case": "Schenck v. Pro-Choice Network of Western New York; No. 95-1065; OT1996, chunk 4.",
+      "date": "1997-02-19",
+      "result": "Affirm fixed access relief and its counseling condition, 6–3; invalidate moving-person/vehicle restrictions and remove their dependent retreat operation, 8–1; remand.",
+      "file": "Schenck_v_Pro_Choice_Network_merits_1997-02-19.md",
+      "sha256": "467941525f107b9f5fcc8e7b4ee0a7c304862323fe19176b952e4d4af7bfb978"
+    },
+    {
+      "case": "Brown v. Hot, Sexy & Safer Productions, Inc.; First Circuit No. 95-1275, 68 F.3d 525; no separate Supreme Court merits docket assigned; OT1996, chunk 4.",
+      "date": "1997-02-24",
+      "result": "Affirm dismissal on the three granted federal questions, 9–0; collateral dismissals remain undisturbed.",
+      "file": "Brown_v_Hot_Sexy_Safer_Productions_merits_1997-02-24.md",
+      "sha256": "a81129def1240d2900df8c48c33a8cc4926cbb1a4b99bca923947df8e985ac65"
+    },
+    {
+      "case": "Dunn v. Commodity Futures Trading Commission; No. 95-1181.",
+      "date": "1997-02-25",
+      "result": "Reversal and remand, 9–0, on the Treasury Amendment's exclusion of the off-exchange currency options; no final fraud judgment or blanket dismissal of independent claims.",
+      "file": "Dunn_v_CFTC_merits_1997-02-25.md",
+      "sha256": "989406a0c4f9ff684e33987cd88f9264fddef466876167ee22fb9de3759df233"
+    },
+    {
+      "case": "United States v. Wells; No. 95-1228; respondents Jerry E. Wells and Kenneth R. Steele.",
+      "date": "1997-02-26",
+      "result": "Vacatur and remand of the appellate new-trial judgment on the two appealed convictions, 8–1; statutory reviewability has nine votes; Stevens retains materiality and would affirm the new-trial judgment. The two acquittals remain untouched.",
+      "file": "United_States_v_Wells_merits_1997-02-26.md",
+      "sha256": "0224f03947c3456fb3b548745f71e41c2ba4fc0516f5caf46bc05e0cdb34046a"
+    }
+  ],
+  "errors": [],
+  "git": "Not run; provenance and commitment deferred"
+}
