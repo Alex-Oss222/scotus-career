@@ -6,6 +6,7 @@
 |---|---|---|---|
 | 1997-04-21 | Kadic v. Karadzic; Doe v. Karadzic | Merits decision | Affirmed and remanded; both actions return for claim-specific proceedings. |
 | 1997-04-21 | Metropolitan Life Insurance Co. v. Robertson-Ceco Corp. | Merits decision | Reversed and remanded; the constitutional dismissal is removed. |
+| 1997-04-28 | Board of County Commissioners of Bryan County v. Brown | Reargument order | Restored to the calendar for reargument; existing judgment and monetary allocations remain unaltered. |
 | 1997-04-28 | Pic-A-State Pennsylvania, Inc. v. Reno | Merits decision | Affirmed; this federal declaratory and prospective-injunction action ends. |
 | 1997-04-28 | Richards v. Wisconsin | Merits decision | Affirmed on the particular entry; conviction and denial of suppression stand. |
 | 1997-04-28 | Strate v. A-1 Contractors | Merits decision | Rejection of tribal jurisdiction affirmed; federal action returns for conforming relief. |
@@ -16,7 +17,7 @@
 | 1997-05-12 | Johnson v. United States | Merits decision | Affirmed; conviction-sustaining judgment remains in force. |
 | 1997-05-12 | Lambrix v. Singletary | Merits decision | Espinosa-claim disposition vacated; default inquiry returns under a binding old-rule determination. |
 
-All nine Justices participated in each completed event, at argument or submission and at decision.
+All nine Justices participated in each merits decision, at argument or submission and at decision.
 
 ## Decisions and Dispositions
 
@@ -269,6 +270,46 @@ The lower opinion reports approximately $4 million of multiyear Vermont sales bu
 The case returns through the Second Circuit for further proceedings with the present constitutional dismissal removed. Properly presented factual, service, limitations, venue, transfer, and merits questions remain subject to their ordinary requirements. The Court does not reopen United Dominion's separate judgment or require a new hearing on questions the present record resolves.
 
 **End of entry: Metropolitan Life Insurance Co. v. Robertson-Ceco Corp., merits decision, April 21, 1997.**
+
+---
+
+### Board of County Commissioners of Bryan County v. Brown, No. 95-1100
+
+Reargument order, April 28, 1997
+
+#### Chronology and Posture
+
+Argued November 5, 1996. On writ of certiorari to the United States Court of Appeals for the Fifth Circuit, 67 F.3d 1174.
+
+The case concerns whether a final policymaker's single hiring decision can establish the County's own policy, fault, and causal responsibility under 42 U.S.C. §1983 for the constitutional injury caused by the hired deputy. The Fifth Circuit sustained County liability on the federal hiring ground; separate federal training and state negligent-hiring and negligent-training grounds were not resolved in its operative opinion.
+
+All nine members of the Court participated.
+
+#### Public Action
+
+The case is restored to the calendar for reargument.
+
+No opinion or separate statement accompanies the order. No individual vote or tally is announced.
+
+#### Limits and Questions Not Reached
+
+The order decides no merits question. The municipal hiring issue and the separate training and state-law grounds remain unresolved by this Court.
+
+#### Precedent Treatment and Current-Law Effect
+
+The order changes no precedent. Existing municipal-liability law remains in force. Restoration for reargument establishes no new rule governing hiring, municipal fault, causation, or remedies.
+
+#### Source Notes
+
+The operative decision below is Brown v. Bryan County, 67 F.3d 1174 (5th Cir. 1995), which withdrew the earlier opinion at 53 F.3d 1410. The district court's September 20, 1993 judgment and the jury's separate verdict findings establish the judgment and alternative grounds described above; this order does not resolve their merits.
+
+#### Mandate, Remedy, and Stage
+
+The order neither affirms nor vacates the Fifth Circuit's judgment. It leaves the existing judgment and monetary allocations unaltered and directs no remand, new trial, or stay. No merits mandate issues.
+
+The case remains pending for reargument. This order sets no reargument date, supplemental-briefing requirement, or deadline.
+
+**End of entry: Board of County Commissioners of Bryan County v. Brown, reargument order, April 28, 1997.**
 
 ---
 
@@ -1107,8 +1148,3 @@ The case returns to the Eleventh Circuit for the unresolved procedural-default d
 
 ---
 
-## Workflow Blockers
-
-| Case or matter | Exact blocker |
-|---|---|
-| Board of County Commissioners of Bryan County v. Brown | Missing Stone instruction whether to support or decline further argument on Monell; no supported majority for a judgment or further-consideration order. |
