@@ -1,0 +1,80 @@
+{
+  "durable_write_order": [
+    "Reno_v_Bossier_Parish_School_Board_merits_1997-05-12.md",
+    "Reyes_Hernandez_v_INS_merits_1997-05-12.md",
+    "United_States_v_Ortiz_and_Hurtado_merits_1997-05-12.md",
+    "Camps_Newfound_Owatonna_v_Town_of_Harrison_merits_1997-05-19.md",
+    "Edmond_v_United_States_merits_1997-05-19.md",
+    "Edwards_v_Balisok_merits_1997-05-19.md"
+  ],
+  "checks": [
+    {
+      "record": "Reno_v_Bossier_Parish_School_Board_merits_1997-05-12.md",
+      "sha256": "1c688a3db3e31b51d59fcb10d013809f9bc1af47ae6fb8634fc75efc9e388d73",
+      "projection_blocks": 11,
+      "holdings_identical": true,
+      "explanation_word_counts": [
+        114,
+        142,
+        138
+      ]
+    },
+    {
+      "record": "Reyes_Hernandez_v_INS_merits_1997-05-12.md",
+      "sha256": "d215a1d46bc192661644e7a519464ced6c13e8f1c1270d49edda690ead6d3a36",
+      "projection_blocks": 11,
+      "holdings_identical": true,
+      "explanation_word_counts": [
+        248,
+        216,
+        109,
+        115
+      ]
+    },
+    {
+      "record": "United_States_v_Ortiz_and_Hurtado_merits_1997-05-12.md",
+      "sha256": "d466406b2b22ef22435a9ad13b67b6bf509d8c5253dd40e70174857a7e0cd03a",
+      "projection_blocks": 11,
+      "holdings_identical": true,
+      "explanation_word_counts": [
+        226,
+        227
+      ]
+    },
+    {
+      "record": "Camps_Newfound_Owatonna_v_Town_of_Harrison_merits_1997-05-19.md",
+      "sha256": "5f11898aac5b6eb0949bf876a90a545e50d1cb4b6dd55ed2b97166963b97e40c",
+      "projection_blocks": 11,
+      "holdings_identical": true,
+      "explanation_word_counts": [
+        209,
+        207,
+        125
+      ]
+    },
+    {
+      "record": "Edmond_v_United_States_merits_1997-05-19.md",
+      "sha256": "42eb2293133ed530f80eabd022487dba03d3f4b2fe211452f0520d0b17a65138",
+      "projection_blocks": 11,
+      "holdings_identical": true,
+      "explanation_word_counts": [
+        194,
+        328
+      ]
+    },
+    {
+      "record": "Edwards_v_Balisok_merits_1997-05-19.md",
+      "sha256": "063e62072ba4756f451be5a50f09e937619b6a5528d5b49c16bbc67144685c26",
+      "projection_blocks": 11,
+      "holdings_identical": true,
+      "explanation_word_counts": [
+        163,
+        153,
+        122,
+        80
+      ]
+    }
+  ],
+  "scope": "Assembly consistency only; root coordinated workspace, ledger, manifest and whole-term checks remain pending",
+  "git": "Not run"
+}

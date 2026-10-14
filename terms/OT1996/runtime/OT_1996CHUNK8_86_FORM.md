@@ -1,0 +1,7 @@
+# Reyes opinion form before assignment
+
+One signed lead opinion after authorized plenary merits hearing/submission, with distinct threshold and merits parts. The legal questions require one sequential review-channel, temporal and merits analysis; no division is needed to influence assignment. Form and propositions are settled before the fresh recount.
+
+Part I: all eight Associates reject the commenced Section 242(g) bar under a narrow enumerated-executive-choice construction; Stone supplies only the standing fallback threshold disposition, with no rationale join. Part II: Stone, Stevens, O'Connor, Souter, Ginsburg and Breyer preserve ordinary review under Section 440(a) and eligibility under Section 440(d) through provision-specific Landgraf analysis of the completed surrender of a colorable defense; the defense condition limits this theory, not all retroactivity. Parts III and IV: the same six affirm the lawful waiver denial and ordinary motion route for new evidence. Scalia, Kennedy and Thomas would vacate and direct jurisdictional dismissal under Section 440(a), with no operative merits join, while joining Part I.
+
+The complete lead can be written by any of Stevens, O'Connor, Souter, Ginsburg or Breyer. Stone's fallback does not make him eligible. One jurisdictional concurrence-in-part/dissent-in-part carries Scalia, Kennedy and Thomas's distinct disposition; no separate Stone writing is needed merely to restate his bounded partial joins.

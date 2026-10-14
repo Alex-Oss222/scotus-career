@@ -1,0 +1,88 @@
+{
+  "record": "terms\\OT1996\\records\\Clinton_v_Jones_merits_1997-05-27.md",
+  "judgment_support": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "court_opinion_support": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg"
+  ],
+  "author": "Scalia",
+  "breyer_relationship": "Concurrence in the judgment; no formal Court-opinion join",
+  "count_receipt": "terms\\OT1996\\tmp\\Clinton_assignment_recount.json",
+  "pool": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg"
+  ],
+  "holdings_copy_identity": true,
+  "separate_summary_copy_identity": true,
+  "public_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "word_counts": {
+    "I. Immediate review reaches this integrated immunity and trial-protection order": {
+      "explanation_words": 156,
+      "ceiling": 350
+    },
+    "II. No temporary immunity for the presented pre-presidential conduct": {
+      "explanation_words": 282,
+      "ceiling": 1000
+    },
+    "III. Official-act immunity turns on function, not presidential status": {
+      "explanation_words": 210,
+      "ceiling": 1000
+    },
+    "IV. This categorical trial stay is an abuse of discretion": {
+      "explanation_words": 155,
+      "ceiling": 350
+    },
+    "V. Concrete presidential duties receive case-specific accommodation": {
+      "explanation_words": 303,
+      "ceiling": 1000
+    },
+    "VI. The standard governing proceedings after this decision": {
+      "explanation_words": 121,
+      "ceiling": 350
+    },
+    "Stone-Zsela, concurring; no joins": {
+      "summary_words": 361,
+      "ceiling": 600
+    },
+    "Breyer, concurring in the judgment; no joins": {
+      "summary_words": 397,
+      "ceiling": 600
+    }
+  },
+  "git": "Not run",
+  "integration": "Root must validate entering-law/participation and current-term/downstream commitment"
+}

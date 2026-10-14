@@ -1,0 +1,30 @@
+{
+  "reason": "Preintegration filename normalization to the repository case_event_date convention. No Record content, adjudication, opinion topology, source input, or frozen handoff changed. Original paths in as-written assignment/validation receipts and earlier-date reading copies resolve through this explicit mapping; their original bytes remain preserved.",
+  "records": [
+    {
+      "original_filename": "united-states-v-thomas-merits-1997-05-19.md",
+      "canonical_filename": "United_States_v_Thomas_merits_1997-05-19.md",
+      "unchanged_sha256": "7997da5f80d720825b685e6feb53624ba660dad14f5a893d0591082acb58692e"
+    },
+    {
+      "original_filename": "church-on-the-rock-v-city-of-albuquerque-merits-1997-05-27.md",
+      "canonical_filename": "Church_on_the_Rock_v_City_of_Albuquerque_merits_1997-05-27.md",
+      "unchanged_sha256": "96220fe6f52b9bb8ab1be40bd877cbbe2b6899ed1f5bfafb91d07fa20a62566e"
+    },
+    {
+      "original_filename": "suitum-v-tahoe-regional-planning-agency-merits-1997-05-27.md",
+      "canonical_filename": "Suitum_v_Tahoe_Regional_Planning_Agency_merits_1997-05-27.md",
+      "unchanged_sha256": "4042c59c8e59e5ad5a9ff1516cb88fbb6b30415ffb95e83e90fe169a08c5b10b"
+    },
+    {
+      "original_filename": "united-states-v-hyde-merits-1997-05-27.md",
+      "canonical_filename": "United_States_v_Hyde_merits_1997-05-27.md",
+      "unchanged_sha256": "cdfda2a8f903e16d5de388c3b9a5af0e4db666f6f037a5037c8d527c3b07d6fa"
+    },
+    {
+      "original_filename": "united-states-v-labonte-merits-1997-05-27.md",
+      "canonical_filename": "United_States_v_LaBonte_merits_1997-05-27.md",
+      "unchanged_sha256": "d0c07db2841c12ab551894e30bcb5e939a87526aaa0de71370095305ecdeffb4"
+    }
+  ]
+}

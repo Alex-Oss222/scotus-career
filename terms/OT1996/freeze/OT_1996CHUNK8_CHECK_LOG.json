@@ -1,0 +1,15 @@
+{
+  "checks": [
+    {
+      "check": "Reviewed check_term non-Git adapter",
+      "exit_code": 0,
+      "output": "SKIPPED: Git commit-object verification; all Git commands are prohibited for this task.\r\nOK: OT1996 non-Git checks only; Git provenance UNVERIFIED; 0 warning(s)\r\n"
+    },
+    {
+      "check": "Chunk integration, preservation and actual-topology assignment verification",
+      "exit_code": 0,
+      "output": "PASS: 12 Records, eleven-block and holdings/Render Input identity, frozen handoffs, 114 protected term files, 30 governing/state files, 704 local links. Git unverified.\r\n"
+    }
+  ],
+  "git": "Not run; operator deferred"
+}

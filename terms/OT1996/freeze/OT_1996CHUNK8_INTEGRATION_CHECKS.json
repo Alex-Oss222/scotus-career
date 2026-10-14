@@ -1,0 +1,108 @@
+{
+  "records": [
+    {
+      "record": "Camps_Newfound_Owatonna_v_Town_of_Harrison_merits_1997-05-19.md",
+      "sha256": "5f11898aac5b6eb0949bf876a90a545e50d1cb4b6dd55ed2b97166963b97e40c",
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "render_input_identity": true
+    },
+    {
+      "record": "Church_on_the_Rock_v_City_of_Albuquerque_merits_1997-05-27.md",
+      "sha256": "96220fe6f52b9bb8ab1be40bd877cbbe2b6899ed1f5bfafb91d07fa20a62566e",
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "render_input_identity": true
+    },
+    {
+      "record": "Clinton_v_Jones_merits_1997-05-27.md",
+      "sha256": "9b8ebd0fe1cfd5165f1be2e75801eda503e1e88dd809e47a8e8a5aa7f602fc3d",
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "render_input_identity": true
+    },
+    {
+      "record": "Edmond_v_United_States_merits_1997-05-19.md",
+      "sha256": "42eb2293133ed530f80eabd022487dba03d3f4b2fe211452f0520d0b17a65138",
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "render_input_identity": true
+    },
+    {
+      "record": "Edwards_v_Balisok_merits_1997-05-19.md",
+      "sha256": "063e62072ba4756f451be5a50f09e937619b6a5528d5b49c16bbc67144685c26",
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "render_input_identity": true
+    },
+    {
+      "record": "Reno_v_Bossier_Parish_School_Board_merits_1997-05-12.md",
+      "sha256": "1c688a3db3e31b51d59fcb10d013809f9bc1af47ae6fb8634fc75efc9e388d73",
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "render_input_identity": true
+    },
+    {
+      "record": "Reyes_Hernandez_v_INS_merits_1997-05-12.md",
+      "sha256": "d215a1d46bc192661644e7a519464ced6c13e8f1c1270d49edda690ead6d3a36",
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "render_input_identity": true
+    },
+    {
+      "record": "Suitum_v_Tahoe_Regional_Planning_Agency_merits_1997-05-27.md",
+      "sha256": "4042c59c8e59e5ad5a9ff1516cb88fbb6b30415ffb95e83e90fe169a08c5b10b",
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "render_input_identity": true
+    },
+    {
+      "record": "United_States_v_Hyde_merits_1997-05-27.md",
+      "sha256": "cdfda2a8f903e16d5de388c3b9a5af0e4db666f6f037a5037c8d527c3b07d6fa",
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "render_input_identity": true
+    },
+    {
+      "record": "United_States_v_LaBonte_merits_1997-05-27.md",
+      "sha256": "d0c07db2841c12ab551894e30bcb5e939a87526aaa0de71370095305ecdeffb4",
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "render_input_identity": true
+    },
+    {
+      "record": "United_States_v_Ortiz_and_Hurtado_merits_1997-05-12.md",
+      "sha256": "d466406b2b22ef22435a9ad13b67b6bf509d8c5253dd40e70174857a7e0cd03a",
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "render_input_identity": true
+    },
+    {
+      "record": "United_States_v_Thomas_merits_1997-05-19.md",
+      "sha256": "7997da5f80d720825b685e6feb53624ba660dad14f5a893d0591082acb58692e",
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "render_input_identity": true
+    }
+  ],
+  "protected_term_files": 114,
+  "governing_state_files": 30,
+  "local_links_checked": 704,
+  "actual_topology_assignment_receipts_verified": [
+    "OT_1996CHUNK8_84_ASSEMBLY_RECOUNT.json",
+    "OT_1996CHUNK8_84_ASSIGNMENT_RECOUNT.json",
+    "OT_1996CHUNK8_85_ASSEMBLY_RECOUNT.json",
+    "OT_1996CHUNK8_86_ASSEMBLY_RECOUNT.json",
+    "OT_1996CHUNK8_87_ASSEMBLY_RECOUNT.json",
+    "OT_1996CHUNK8_88_ASSEMBLY_RECOUNT.json",
+    "OT_1996CHUNK8_89_ASSEMBLY_RECOUNT.json",
+    "OT_1996CHUNK8_90_ASSIGNMENT_RECOUNT.json",
+    "OT_1996CHUNK8_91_ASSIGNMENT_RECOUNT.json",
+    "OT_1996CHUNK8_92_ASSIGNMENT_RECOUNT.json",
+    "OT_1996CHUNK8_93_ASSIGNMENT_RECOUNT.json",
+    "OT_1996CHUNK8_94_ASSIGNMENT_RECOUNT.json",
+    "OT_1996CHUNK8_95_ASSIGNMENT_RECOUNT.json"
+  ],
+  "git": "NOT RUN; verification deferred to operator",
+  "render": "Separate task; output not created"
+}

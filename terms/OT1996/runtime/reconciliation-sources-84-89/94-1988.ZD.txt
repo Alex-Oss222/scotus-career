@@ -1,0 +1,448 @@
+Camps Newfound/Owatonna, Inc. v. Town of Harrison, 520 U.S. 564 (1997).
+LII
+Supreme Court
+Camps Newfound/Owatonna, Inc. v. Town of Harrison (94-1988), 520 U.S. 564 (1997).
+Syllabus
+Dissent
+[ Scalia ]Dissent
+[ Thomas ]Opinion
+[ Stevens ]HTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect version
+SUPREME COURT OF THE UNITED STATES
+No. 94-1988
+CAMPS NEWFOUND/OWATONNA, INC., PETITIONER v. TOWN OF HARRISON, MAINE, et al.
+on writ of certiorari to the supreme judicial
+court of maine
+[May 19, 1997]
+Justice Scalia, with whom The Chief Justice,
+Justice Thomas and Justice Ginsburg join, dissenting.
+The Court's negative commerce clause jurisprudence
+has drifted far from its moorings. Originally designed
+to create a national market for commercial activity, it is
+today invoked to prevent a State from giving a tax
+break to charities that benefit the State's inhabitants.
+In my view, Maine's tax exemption, which excuses from
+taxation only that property used to relieve the State of
+its burden of caring for its residents, survives even our
+most demanding commerce clause scrutiny.
+We have often said that the purpose of our negative commerce clause jurisprudence is to create a national
+market. As Justice Jackson once observed, the "vision
+of the Founders" was "that every farmer and every
+craftsman shall be encouraged to produce by the certainty that he will have free access to every market in
+the Nation, that no home embargoes will withhold his
+exports, and no foreign state will by customs duties or
+regulations exclude them." H. P. Hood & Sons, Inc. v.
+Du Mond, 336 U.S. 525, 539 (1949). In our zeal to
+advance this policy, however, we must take care not tooverstep our mandate, for the Commerce Clause was not
+intended "to cut the States off from legislating on all
+subjects relating to the health, life, and safety of their
+citizens, though the legislation might indirectly affect
+the commerce of the country." Huron Portland Cement
+Co. v. Detroit, 362 U.S. 440, 443-444 (1960).
+Our cases have struggled (to put it nicely) to develop
+a set of rules by which we may preserve a national
+market without needlessly intruding upon the States'
+police powers, each exercise of which no doubt has some
+effect on the commerce of the Nation. See Oklahoma
+Tax Comm'n v. Jefferson Lines, Inc., 514 U.S. 175,
+180-183 (1995). The rules that we currently use can be
+simply stated, if not simply applied: Where a State law
+facially discriminates against interstate commerce, we
+observe what has sometimes been referred to as a "virtually per se rule of invalidity;" where, on the other
+hand, a state law is nondiscriminatory, but nonetheless
+adversely affects interstate commerce, we employ a
+deferential "balancing test," under which the law will be
+sustained unless "the burden imposed on [interstate]
+commerce is clearly excessive in relation to the putative
+local benefits," Pike v. Bruce Church, Inc., 397 U.S. 137,
+142 (1970). See Oregon Waste Systems, Inc. v. Department of Environmental Quality of Ore., 511 U.S. 93, 99
+(1994).
+While the "virtually per se rule of invalidity" entails
+application of the "strictest scrutiny," Hughes v. Oklahoma, 441 U.S. 322, 337 (1979), it does not necessarily
+result in the invalidation of facially discriminatory State
+legislation, see, e.g., Maine v. Taylor, 477 U.S. 131
+(1986) (upholding absolute ban on the importation of
+baitfish into Maine), for "what may appear to be a `discriminatory' provision in the constitutionally prohibited
+sense--that is, a protectionist enactment--may on closer
+analysis not be so," New Energy Co. of Ind. v. Limbach,
+486 U.S. 269, 278 (1988). Thus, even a statute thaterects an absolute barrier to the movement of goods
+across state lines will be upheld if "the discrimination is
+demonstrably justified by a valid factor unrelated to
+economic protectionism," id., at 274, or to put a finer
+point on it, if the State law "advances a legitimate local
+purpose that cannot be adequately served by reasonable
+nondiscriminatory alternatives," id., at 278.
+In addition to laws that employ suspect means as a
+necessary expedient to the advancement of legitimate
+State ends, we have also preserved from judicial invalidation laws that confer advantages upon the State's
+residents but do so without regulating interstate commerce. We have therefore excepted the State from
+scrutiny when it participates in markets rather than
+regulates them--by selling cement, for example, see
+Reeves, Inc. v. Stake, 447 U.S. 429 (1980), or purchasing auto hulks, see Hughes v. Alexandria Scrap Corp.,
+426 U.S. 794 (1976), or hiring contractors, see White v.
+Massachusetts Council of Construction Employees, 460 U.S. 204 (1983). Likewise, we have said that direct
+subsidies to domestic industry do not run afoul of the
+Commerce Clause. See New Energy Co., 486 U. S., at
+278. In sum, we have declared that "[t]he Commerce
+Clause does not prohibit all state action designed to give
+its residents an advantage in the marketplace, but only
+action of that description in connection with the State's
+regulation of interstate commerce." Ibid. (emphasis in
+original).
+In applying the foregoing principles to the case before
+us, it is of course important to understand the precise
+scope of the exemption created by Me. Rev. Stat. Ann.,
+Tit. 36, §652(1)(A) (Supp. 1996-1997). The Court's analysis suffers from the misapprehension that §652(1)(A) "sweeps to cover broad swathes of the nonprofit sector,"
+ante, at 26, including nonprofit corporations engaged inquintessentially commercial activities. That is not so.
+A review of Maine law demonstrates that the provision
+at issue here is a narrow tax exemption, designed
+merely to compensate or subsidize those organizations
+that contribute to the public fisc by dispensing public
+benefits the State might otherwise provide.
+Although Maine allows nonprofit corporations to be
+organized "for any lawful purpose," Me. Rev. Stat. Ann.,
+Tit. 13-B, §201 (1981 and Supp. 1996-1997), the exemption supplied by §652(1)(A) does not extend to all nonprofit organizations, but only to those "benevolent and
+charitable institutions," §652(1)(A), which are "organized
+and conducted exclusively for benevolent and charitable
+purposes," §652(1)(C)(1) (emphasis added), and only to
+those parcels of real property and items of personal
+property that are used "solely," §652(1)(A), "to further
+the organization's charitable purposes," Poland v. Poland
+Springs Health Institute, Inc., 649 A. 2d 1098, 1100 (Me.
+1994). The Maine Supreme Judicial Court has defined
+the statutory term "benevolent and charitable institutions" to include only those nonprofits that dispense "charity," which is in turn defined to include only those
+acts which are
+" `for the benefit of an indefinite number of persons,
+either by bringing their minds or hearts under the
+influence of education or religion, by relieving their
+bodies from disease, suffering, or constraint, by assisting them to establish themselves in life, or by
+erecting or maintaining public buildings or works or
+otherwise lessening the burdens of government.' "
+Lewiston v. Marcotte Congregate Housing, Inc., 673
+A. 2d 209, 211 (1996) (emphasis added).
+Moreover, the Maine Supreme Judicial Court has further limited the §652(1)(A) exemption by insisting that
+the party claiming its benefit "bring its claim unmistakably within the spirit and intent of the act creating theexemption," ibid. (internal quotation marks omitted), and
+by proclaiming that the spirit and intent of §652(1)(A)
+is to compensate charitable organizations for their contribution to the public fisc. As the Court has explained:
+" `[A]ny institution which by its charitable activities
+relieves the government of part of [its] burden is
+conferring a pecuniary benefit upon the body politic,
+and in receiving exemption from taxation it is
+merely being given a %quid pro quo" for its services
+in providing something which otherwise the government would have to provide.' " Episcopal Camp
+Foundation, Inc. v. Hope, 666 A. 2d 108, 110 (1995)
+(quoting Young Men's Christian Assn. of Germantown v. Philadelphia, 323 Pa. 401, 413, 187 A. 204,
+210 (1936)).
+Thus, §652(1)(A) exemptions have been denied to organizations that do not provide substantial public benefits,
+as defined by reference to the state public policy. In
+one case, for example, an organization devoted to maintaining a wildlife sanctuary was denied exemption on
+the ground that the preserve's prohibition on deer hunting conflicted with state policy on game management, so
+that the preserve could not be deemed to provide a public benefit. See Holbrook Island Sanctuary v. Brooksville, 214 A. 2d 660 (Me. 1965). Even churches have
+been denied exemptions, see Pentecostal Assembly of
+Bangor v. Maidlow, 414 A. 2d 891, 893-894 (Me. 1980)
+("religious purposes are not to be equated with benevolent and charitable purposes").
+The Maine Supreme Judicial Court has adhered rigorously to the requirement that the exempt property be
+used "solely" for charitable purposes. Even when there
+is no question that the organization owning the property
+is devoted exclusively to charitable purposes, the entire
+exemption will be forfeited if even a small fraction of
+the property is not used in furtherance of those purposes. See Lewiston, supra, at 212-213 (denying exemption to a building 18 percent of which was leased at
+market rates); Nature Conservancy of Pine Tree State,
+Inc. v. Bristol, 385 A. 2d 39, 43 (Me. 1978) (denying exemption to a nature preserve on which the grantors had
+reserved rights of way).
+That §652(1)(A) serves to compensate private charities
+for helping to relieve the State of its burden of caring
+for its residents should not be obscured by the fact that
+this particular case involves a summer camp rather than
+a more traditional form of social service. The statute
+that the Court strikes down does not speak of "camps"
+at all, but rather lists as examples of "benevolent and
+charitable institutions" nonprofit nursing homes, boarding homes, community mental health service facilities
+and child care centers, see §652(1)(A). Some summer
+camps fall within the exemption under a 1933 decision
+of the Supreme Judicial Court which applied it to a
+tuition free camp for indigent children, see Camp Emoh
+Associates v. Inhabitants of Lyman, 166 A. 59, 60, and
+under a recent 4 to 3 decision which relied heavily on
+the fact that the camp at issue provided "moral instruction" and training in "social living and civic responsibility," and was not only "nonprofit" but furnished its
+camping services below cost, see Episcopal Camp Foundation, supra, at 109, 111. What is at issue in this case
+is not whether a summer camp can properly be regarded
+as relieving the State of social costs, but rather whether,
+assuming it can, a distinction between charities serving
+mainly residents and charities operated principally for
+the benefit of nonresidents is constitutional.
+[n.1]
+I turn next to the validity of this focused tax exemption--applicable only to property used solely for charitable purposes by organizations devoted exclusively to
+charity--under the negative commerce clause principles
+discussed earlier. The Court readily concludes that, by
+limiting the class of eligible property to that which is
+used "principally for the benefit of persons who are
+Maine residents," the statute "facially discriminates"
+against interstate commerce. That seems to me not necessarily true. Disparate treatment constitutes discrimination only if the objects of the disparate treatment are,
+for the relevant purposes, similarly situated. See General Motors Corp. v. Tracy, ante, at ___, (slip. op., at
+18-20). And for purposes of entitlement to a tax subsidy from the State, it is certainly reasonable to think
+that property gratuitously devoted to relieving the Stateof some of its welfare burden is not similarly situated to
+property used "principally for the benefit of persons who
+are not residents of [the State]," §652(1)(A). As we have
+seen, the theory underlying the exemption is that it is
+a quid pro quo for uncompensated expenditures that
+lessen the State's burden of providing assistance to its
+residents.
+The Court seeks to establish "facial discrimination" by
+showing that the effect of treating disparate property
+disparately is to produce higher costs for those users of
+the property who come from out of State. But that
+could be regarded as an indirect effect upon interstate
+commerce produced by a tax scheme that is not facially
+discriminatory, which means that the proper mode of
+analysis would be the more lenient "balancing" standard
+discussed above. We follow precisely this mode of analysis in Tracy, upholding an Ohio law that provides preferential tax treatment to domestic public utilities. Such
+entities, we conclude, are not "similarly situated" to
+other fuel distributors; their insulation from out of state
+competition does not violate the negative Commerce
+Clause because it "serves important interests in health
+and safety." Tracy, ante, at ___ (slip op., at 27). The
+Court in Tracy paints a compelling image of people shivering in their homes in the dead of winter without the
+assured service that competition sheltered public utilities
+provide. See ante, at ___ (slip op., at 22, 27). No less
+important, however, is the availability of many of the
+benefits provided by Maine's private charities and facilitated not by total insulation from competition but by favorable tax treatment: care for the sick and dying, for
+example, or nursing services for the elderly.
+Even if, however, the Maine statute displays "facial
+discrimination" against interstate commerce, that is not
+the end of the analysis. The most remarkable thing
+about today's judgment is that it is rendered without
+inquiry into whether the purposes of the tax exemptionjustify its favoritism. Once having concluded that the
+statute is facially discriminatory, the Court rests. "[T]he
+Town," it asserts, "has made no effort to defend the statute under the per se rule." Ante, at 17. This seems to
+me a pointless technicality. The Town has asserted that
+the State's interest in encouraging private entities to
+shoulder part of its social welfare burden validates this
+provision under the negative Commerce Clause. Whether it does so because the presence of that interest causes
+the resident benefiting charities not to be "similarly
+situated" to the non resident benefiting charities, and
+hence negates "facial discrimination," or rather because
+the presence of that interest justifies "facial discrimination," is a question that is not only of no consequence
+but is also probably unanswerable. To strike down this
+statute because the Town's lawyers put the argument in
+one form rather than the other is truly senseless.
+[n.2]
+If the Court were to proceed with that further analysis
+it would have to conclude, in my view, that this is one
+of those cases in which the "virtually per se rule of
+invalidity" does not apply. Facially discriminatory or
+not, the exemption is no more an artifice of economic
+protectionism than any state law which dispenses public
+assistance only to the State's residents.
+[n.3]
+Our caseshave always recognized the legitimacy of limiting state provided welfare benefits to bona fide residents. As
+Justice Stevens once wrote for a unanimous Court: "Neither the overnight visitor, the unfriendly agent of a
+hostile power, the resident diplomat, nor the illegal
+entrant, can advance even a colorable claim to a share
+in the bounty that a conscientious sovereign makes
+available to its own citizens." Mathews v. Diaz, 426 U.S. 67, 80 (1976). States have restricted public
+assistance to their own bona fide residents since colonial
+times, see, M. Ierley, With Charity For All, Welfare and
+Society, Ancient Times to the Present 41 (1984), and
+such self interested behavior (or, put more benignly,
+application of the principle that charity begins at home)
+is inherent in the very structure of our federal system,
+cf. Edgar v. MITE Corp., 457 U.S. 624, 644 (1982) ("theState has no legitimate interest in protecting nonresident[s]"). We have therefore upheld against equal
+protection challenge continuing residency requirements
+for municipal employment, see McCarthy v. Philadelphia
+Civil Serv. Comm'n, 424 U.S. 645 (1976) (per curiam),
+and bona fide residency requirements for free primary
+and secondary schooling, see Martinez v. Bynum, 461 U.S. 321 (1983).
+If the negative Commerce Clause requires the invalidation of a law such as §652(1)(A), as a logical matter
+it also requires invalidation of the laws involved in those
+cases. After all, the Court today relies not on any
+discrimination against out of state nonprofits, but on the
+supposed discrimination against nonresident would be
+recipients of charity (the nonprofits' "customers"); surely
+those individuals are similarly discriminated against in
+the direct distribution of state benefits. The problem, of
+course, is not limited to municipal employment and free
+public schooling, but extends also to libraries, orphanages, homeless shelters and refuges for battered women.
+One could hardly explain the constitutionality of a
+State's limiting its provision of these to its own residents on the theory that the State is a "market participant." These are traditional governmental functions, far
+removed from commercial activity and utterly unconnected to any genuine private market.
+If, however, a State that provides social services directly may limit its largesse to its own residents, I see
+no reason why a State that chooses to provide some of
+its social services indirectly--by compensating or subsidizing private charitable providers--cannot be similarly
+restrictive.
+[n.4]
+In fact, we have already approved it. InBoard of Ed. of Ky. Annual Conference of Methodist
+Episcopal Church v. Illinois, 203 U.S. 553 (1906), we
+upheld a state law providing an inheritance tax exemption to in state charities but denying a similar exemption to out of state charities. We recognized that such
+exemptions are nothing but compensation to private organizations for their assistance in alleviating the State's
+burden of caring for its less fortunate residents, see id.,
+at 561. "[I]t cannot be said," we wrote, "that if a State
+exempts property bequeathed for charitable or educational purposes from taxation it is unreasonable or arbitrary to require the charity to be exercised or the education to be bestowed within her borders and for her
+people," id., at 563.
+[n.5]
+It is true that the opinion in Board of Education
+addressed only the Equal Protection and Privileges and
+Immunities Clauses of the Fourteenth Amendment, andnot the Commerce Clause. A commerce clause argument
+was unquestionably raised by the plaintiff in error,
+however, in both brief, see Brief for Plaintiff in Error,
+D. T. 1906, No. 103, pp. 30-38, and oral argument, see
+203 U. S., at 555 (argument of counsel), and the Court
+could not have reached the disposition it did without
+rejecting it. "[T]he Court implicitly rejected [the]
+argumen[t] . . . by refusing to address [it]." Clemons v.
+Mississippi, 494 U.S. 738, 747-748, n. 3 (1990). The
+Commerce Clause objection went undiscussed, I think,
+because it was (as it is here) utterly contrived: the
+State's legislated distinction between charity "bestowed
+within her borders and for her people" and charity
+bestowed elsewhere or for others did not implicate commerce at all, except to the indirect and permissible
+extent that innumerable state laws do.
+Finally, even if Maine's property tax exemption for
+local charities constituted facial discrimination against
+out of state commerce, and even if its policy justification
+(unrelated to economic protectionism) were insufficient
+to survive our "virtually per se rule of invalidity," cf.
+Maine v. Taylor, 477 U.S. 131 (1986), there would remain the question whether we should not recognize an
+additional exception to the negative Commerce Clause,
+as we have in Tracy. As that case explains, just as a
+public health justification unrelated to economic protectionism may justify an overt discrimination against
+goods moving in interstate commerce, "so may health
+and safety considerations be weighed in the process of
+deciding the threshold question whether the conditions
+entailing application of the dormant Commerce Clause
+are present." ___ U. S., at ___ (slip op., at 28). Today's
+opinion goes to great length to reject the Town's contention that Maine's property tax exemption does not fall
+squarely within either the "market participant" or "subsidy" exceptions to the negative Commerce Clause,
+but never stops to ask whether those exceptions are theonly ones that may apply. As we explicitly acknowledge
+in Tracy--which effectively creates what might be called
+a "public utilities" exception to the negative Commerce
+Clause--the "subsidy" and "market participant" exceptions do not exhaust the realm of state actions that we
+should abstain from scrutinizing under the Commerce
+Clause. In my view, the provision by a State of free
+public schooling, public assistance, and other forms of
+social welfare to only (or principally) its own
+residents--whether it be accomplished directly or by
+providing tax exemptions, cash or other property to
+private organizations that perform the work for the
+State--implicates none of the concerns underlying our
+negative commerce clause jurisprudence. That is, I
+think, self evidently true, despite the Court's effort to
+label the recipients of the State's philanthropy as "customers," or "clientele," see, e.g., ante, at 10. Because
+§652(1)(A) clearly serves these purposes and has nothing
+to do with economic protectionism, I believe that it is
+beyond scrutiny under the negative Commerce Clause.
+* * *
+As I have discussed, there are various routes by which
+the Court could validate the statute at issue here: on
+the ground that it does not constitute "facial discrimination" against interstate commerce and readily survives
+the Pike v. Bruce Church balancing test; on the ground
+that it does constitute "facial discrimination" but is
+supported by such traditional and important state
+interests that it survives scrutiny under the "virtually
+per se rule of invalidity"; or on the ground that there is
+a "domestic charity" exception (just as there is a "public
+utility" exception) to the negative Commerce Clause.
+Whichever route is selected, it seems to me that the
+quid pro quo exemption at issue here is such a reasonable exercise of the State's taxing power that it is not
+prohibited by the Commerce Clause in the absence ofcongressional action. We held as much in Board of
+Education, and should not overrule that decision.
+The State of Maine may have special need for a
+charitable exemption limitation of the sort at issue here:
+its lands and lakes are attractive to various charities of
+more densely populated Eastern States, which would (if
+the limitation did not exist) compel the taxpayers of
+Maine to subsidize their generosity. But the principle
+involved in our disapproval of Maine's exemption
+limitation has broad application elsewhere. A State will
+be unable, for example, to exempt private schools that
+serve its citizens from State and local real estate taxes
+unless it exempts as well private schools attended
+predominantly or entirely by students from out of state.
+A State that provides a tax exemption for real property
+used exclusively for the purpose of feeding the poor must
+provide an exemption for the facilities of an organization
+devoted exclusively to feeding the poor in another
+country. These results may well be in accord with the
+parable of the Good Samaritan, but they have nothing
+to do with the Commerce Clause.
+I respectfully dissent.
+Notes
+1
+The Court protests that "there is no `de minimis' defense to a
+charge of discriminatory taxation under the Commerce Clause," ante,
+at 16, n. 15--as though that were the point of our emphasizing in
+this Part II the narrowness of the challenged limitation. It is not.
+Rather, the point is (1) that Maine's limitation focuses upon aparticular state interest that is deserving of exemption fromnegative commerce clause invalidation, and (2) that acknowledging
+the principle of such an exemption (as developed in Part III below)
+will not place the "national market" in any peril. What the Court
+should have gleaned from our discussion, it did not: It persists in
+misdescribing the exemption we defend as "a categorical exemption
+of nonprofit activities from dormant Commerce Clause scrutiny."
+Ante, at 24, n. 21; see also ante, at 27-28, n. 27.
+The Court also makes an attempt to contest on the merits the
+narrowness of the exemption, suggesting a massive effect upon
+interstate commerce by reciting the multi billion dollar annual
+revenues of nonprofit nursing homes, child care centers, hospitals
+and health maintenance organizations. See ante, at 21-23, n. 18.
+But of course most of the services provided by those institutions are
+provided locally, to local beneficiaries. (In that regard the summer
+camp that is the subject of the present suit is most atypical.) The
+record does not show the number of nonprofit nursing homes, child
+care centers, hospitals and HMOs in Maine that have been denied
+the charitable exemption because their property is not used "principally for the benefit of persons who are Maine residents"; but it
+would be a good bet that the number is zero.
+2
+I do not understand the Court's contention, ante, at 17 & n. 16,
+that Fulton Corp. v. Faulkner, 516 U. S. ___ (1996), provides precedent for such a course. In Fulton, the arguments left unaddressed
+had not been made in another form, but had not been made at all.
+There (unlike here) the State conceded facial discrimination, and
+relied exclusively on the compensatory tax defense, see id., at ___
+(slip op., at 7), which the Court found had not been made out, see
+id., at ___ (slip op., at 19). That narrow defense could not possibly
+have been regarded as an invocation of broader policy justifications
+such as those asserted here.
+3
+In a footnote responding to this dissent, the
+Court does briefly
+address whether the statute fails the "virtually per se rule of invalidity." It concludes that it does fail because "Maine has amplealternatives short of a facially discriminatory property tax exemption," such as offering direct cash subsidies to parents of resident
+children or to camps that serve residents. Ante, at 17, n. 16 (emphasis added). These are nonregulatory alternatives (and hence
+immune from negative commerce clause attack), but they are not
+nondiscriminatory alternatives, which is what the exception to the "virtually per se rule of invalidity" requires. See Oregon Waste, 511
+U. S., at 101 (quoting New Energy Co., 486 U. S., at 278). Surely,
+for example, our decision in Maine v. Taylor, which upheld Maine's
+regulatory ban on the importation of baitfish, would not have come
+out the other way if it had been shown that a state subsidy of sales
+of in state baitfish could have achieved the same goal--by making
+the out of state fish noncompetitive and thereby excluding them from
+the market even more effectively than a difficult to police ban on
+importation. Where regulatory discrimination against out of state
+interests is appropriate, the negative Commerce Clause is not designed to push a State into nonregulatory discrimination instead. It
+permits State regulatory action disfavoring out of staters where
+disfavoring them is indispensable to the achievement of an important and nonprotectionist State objective. As applied to the present
+case: it is obviously impossible for a State to distribute social
+welfare benefits only to its residents without discriminating against
+nonresidents.
+4
+It is true, of course, that the legitimacy of a State's subsidizing
+domestic commercial enterprises out of general funds does not establish the legitimacy of a State's giving domestic commercial enterprises preferential tax treatment. See West Lynn Creamery, Inc. v.Healy, 512 U.S. 186, 210-212 (1994) (Scalia, J., concurring in judgment). But there is no valid comparison between, on the one hand,
+the State's giving tax relief to an enterprise devoted to the making
+of profit and, on the other hand, the State's giving tax relief to an
+enterprise which, for the purpose at hand, has the same objective as
+the State itself (the expenditure of funds for social welfare).
+5
+The Court attempts to distinguish Board of Education on the
+ground that the statute upheld in that case treated charities differently based on whether they were incorporated within the State,
+rather than on whether they dispensed charity within the State, see
+ante, at 27-28, n. 27. That is quite impossible, inasmuch as we have
+held that out of state incorporation is not a constitutional basis for
+discriminating between charities. And in the case that announced
+that holding (invalidating the denial of a property tax exemption to
+a nonprofit corporation incorporated in another State), we distinguished Board of Education on the ground that the statute at issue
+there withheld the exemption "by reason of the foreign corporation's
+failure or inability to benefit the State in the same measure as do
+domestic nonprofit corporations." WHYY, Inc. v. Glassboro, 393 U.S. 117, 120 (1968). The Court's analysis contradicts both the
+holding of this case and its reading of Board of Education--which is
+obviously the correct one.

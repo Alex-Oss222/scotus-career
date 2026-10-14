@@ -1,0 +1,106 @@
+Edmond v. United States, 520 U.S. 651 (1997).
+LII
+Supreme Court
+Edmond v. United States (96-262), 520 U.S. 651 (1997).
+Opinion
+[ Scalia ]Concurrence
+[ Souter ]Syllabus
+HTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect version
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+as is being done in connection with this case, at the time the opinion
+is issued. The syllabus constitutes no part of the opinion of the Court
+but has been prepared by the Reporter of Decisions for the convenience
+of the reader. See United States v. Detroit Timber & Lumber
+Co., 200
+U.S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+EDMOND v. UNITED
+STATES
+certiorari to the united states
+court of appeals for the armed forces
+No. 96-262.
+Argued February 24, 1997 -- Decided
+May 19, 1997
+[n.*]
+The Coast Guard Court of Criminal Appeals (formerly the Coast Guard
+Court of Military Review) hears appeals from the decisions of courts martial,
+and its decisions are subject to review by the United States Court of Appeals
+for the Armed Forces. Under Article 66(a) of the Uniform Code of Military
+Justice (UCMJ), its judges may be commissioned officers or civilians. During
+the times here relevant, the court had two civilian members, both of whom
+were originally assigned to the court by the General Counsel of the Department
+of Transportation. In anticipation of the possible invalidation of these
+assignments under the Appointments Clause, Article II, §2, cl. 2,
+the Secretary of Transportation issued a memorandum "adopting" the General
+Counsel's earlier judicial assignments as appointments of his own. In Ryder
+v. United States, 515 U. S. ___, this Court overturned a conviction
+that had been affirmed, before the secretarial appointments, by a Coast
+Guard Court of Military Review panel that included both civilian members,
+as it was conceded that the judges had not been validly appointed pursuant
+to the Appointments Clause. The present case concerns the validity of six
+convictions that were affirmed by the Coast Guard Court of Criminal Appeals
+(or its predecessor), with one or both civilian judges participating, after
+the secretarial appointments. The Court of Appeals for the Armed Forces
+affirmed the convictions, relying on its holding on remand in Ryder
+that the Secretary's appointments were valid and cured the defect that
+had previously existed.
+Held: The judicial appointments
+at issue are valid. Pp. 4-15.
+(a) Congress has authorized
+the Secretary to appoint civilian members of the Coast Guard Court of Criminal
+Appeals. Petitioners' argument that those appointments are invalid because
+the Secretary lacks the power under 49
+U.S.C. § 323(a) to appoint Coast Guard judges is rejected. Although
+§323(a) does not specifically mention such judges, its plain language
+authorizes the Secretary to "appoint and fix the pay of officers and employees
+of the Department." This Court rejects petitioners' assertion that §323(a)
+is a default statute superseded by express language in Article 66(a) of
+the UCMJ giving the Judge Advocate General of each military branch exclusive
+authority to appoint Court of Criminal Appeals judges. Conspicuously absent
+from Article 66(a) is any mention of "appointment." Instead, the statute
+refers only to judges "who are assigned to a Court of Criminal Appeals"
+(emphasis added). The fact that this Court found the distinction to be
+significant in Weiss v. United States, 510
+U.S. 163, 171-72, suggests that Article 66(a) concerns not the appointment
+of judges, but only their assignment. A contrary interpretation of Article
+66(a) would render it unconstitutional, for under the Appointments Clause
+Congress could not give Judge Advocates General power to "appoint" even
+inferior officers of the United States. Pp. 4-7.
+(b) The Secretary's authorization to appoint civilian Court of
+Criminal Appeals judges is constitutional. The Appointments Clause gives
+the President the exclusive power to select principal officers by and with
+the advice and consent of the Senate, but authorizes Congress to "vest
+the Appointment of . . . inferior Officers . . . in the Heads of Departments."
+Despite the importance of the responsibilities the judges in question bear,
+they are "inferior Officers" under the Clause. Generally speaking, "inferior
+officers" are officers whose work is directed and supervised at some level
+by others who were appointed by presidential nomination with the Senate's
+advice and consent. See, e.g., 1 Stat. 28, ch. 4, §§1,
+2. Supervision of the work of Coast Guard Court of Criminal Appeals judges
+is divided between the General Counsel of the Department of Transportation
+(who is subordinate to the Secretary) and the Court of Appeals for the
+Armed Forces. See Arts. 66(f), 67(a), UCMJ. Significantly, these judges
+have no power to render a final decision on behalf of the United States
+unless permitted to do so by other executive officers, and hence they are
+inferior within the meaning of Article II. Morrison v. Olson,
+487
+U.S. 654, 671-672, and Freytag v. Commissioner, 501
+U.S. 868, distinguished. Pp. 7-15.
+45 M. J. 19 (first judgment),
+44 M. J. 273 (second, third, fifth, and sixth judgments), and 44 M. J.
+272 (fourth judgment), affirmed.
+Scalia, J., delivered the opinion
+of the Court, in which Rehnquist, C. J., and Stevens, O'Connor, Kennedy,
+Thomas, Ginsburg, and Breyer, JJ., joined, and in which Souter, J., joined
+as to Parts I and II. Souter, J., filed an opinion concurring in part and
+concurring in the judgment.
+Notes
+* Together
+with Lazenby v. United States; Leaver v. United States,
+Leonard v. United States; Nichols v. United States; and
+Venable v. United States, also on certiorari to the same
+court (see this Court's Rule 12.4).

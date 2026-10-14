@@ -1,0 +1,17 @@
+{
+  "order": [
+    "Reno_v_Bossier_Parish_School_Board_merits_1997-05-12.md",
+    "Reyes_Hernandez_v_INS_merits_1997-05-12.md",
+    "United_States_v_Ortiz_and_Hurtado_merits_1997-05-12.md",
+    "Camps_Newfound_Owatonna_v_Town_of_Harrison_merits_1997-05-19.md",
+    "Edmond_v_United_States_merits_1997-05-19.md",
+    "Edwards_v_Balisok_merits_1997-05-19.md",
+    "united-states-v-thomas-merits-1997-05-19.md",
+    "church-on-the-rock-v-city-of-albuquerque-merits-1997-05-27.md",
+    "Clinton_v_Jones_merits_1997-05-27.md",
+    "suitum-v-tahoe-regional-planning-agency-merits-1997-05-27.md",
+    "united-states-v-hyde-merits-1997-05-27.md",
+    "united-states-v-labonte-merits-1997-05-27.md"
+  ],
+  "meaning": "Actual file-write order reported by scoped assembly contexts; Git ordering and identifiers unverified."
+}

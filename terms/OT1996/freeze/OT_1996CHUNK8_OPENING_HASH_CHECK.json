@@ -1,0 +1,196 @@
+{
+  "algorithm": "SHA-256",
+  "git": "No Git command used; Git object checks deferred",
+  "source": "terms/OT1996/audit/OPENING_INPUT_HASHES.json",
+  "expected_differences": [
+    "AGENTS.md",
+    "foundation/ENGINE.md"
+  ],
+  "rows": [
+    {
+      "path": "AGENTS.md",
+      "opening_sha256": "e35697a9a3ddd051b01799f26eba3b039c8cefaefe6c0c41005b08dc307f79f0",
+      "current_sha256": "916c31ac18c9024b310685f4e42bc195ef126e15d3ddf96ef2efd168c2ec53ff",
+      "status": "authorized-governing-revision"
+    },
+    {
+      "path": "foundation/ENGINE.md",
+      "opening_sha256": "87412a377e4016a7b0b9a453a89ff5367747866095278147ee3c25adf1594b7b",
+      "current_sha256": "505a2d5e30e461c4b945dd2e7bd962ff6c117ede64914321f90014aff3b3428c",
+      "status": "authorized-governing-revision"
+    },
+    {
+      "path": "foundation/COURT_COMPOSITION.md",
+      "opening_sha256": "1d5f10f2060f661abc44060e62b8ebcb9afd348c1dbfc2cfe51eca0d4ebf6c99",
+      "current_sha256": "1d5f10f2060f661abc44060e62b8ebcb9afd348c1dbfc2cfe51eca0d4ebf6c99",
+      "status": "unchanged"
+    },
+    {
+      "path": "terms/OT1996/case-list.md",
+      "opening_sha256": "f9d3c24712b8890aadea70b2513a1cd3d3a0dcea01ae246eee7f71a3ac829be8",
+      "current_sha256": "451836bef665234c8daf837ccbe3f5c5ddca9869b26b8f216660b589af228be2",
+      "status": "inherited-case-index-difference",
+      "control": "Matches tmp/chunk7_preservation_baseline.json byte-for-byte. Root verified current chunk8 inventory rows against the approved neutral lineup/dates; no new conflict found. Git lineage not verified."
+    },
+    {
+      "path": "foundation/templates/CASE_INDEX_TEMPLATE.md",
+      "opening_sha256": "88673a4102fe51a78d1a3a48eda15e1cd31027ec1cfdb15caefbf1f11d922bf1",
+      "current_sha256": "88673a4102fe51a78d1a3a48eda15e1cd31027ec1cfdb15caefbf1f11d922bf1",
+      "status": "unchanged"
+    },
+    {
+      "path": "foundation/templates/HOLDINGS_TEMPLATE.md",
+      "opening_sha256": "66b26aed92880923ee1fb02c110676e72737a0b0c9c531dec4c3a9e574d42d36",
+      "current_sha256": "66b26aed92880923ee1fb02c110676e72737a0b0c9c531dec4c3a9e574d42d36",
+      "status": "unchanged"
+    },
+    {
+      "path": "foundation/templates/STANDARDS_AND_TESTS_TEMPLATE.md",
+      "opening_sha256": "27491fb9e40f9938d40615c0c5c5902c84f4bf271cfa2ddd392563c2ae2d6407",
+      "current_sha256": "27491fb9e40f9938d40615c0c5c5902c84f4bf271cfa2ddd392563c2ae2d6407",
+      "status": "unchanged"
+    },
+    {
+      "path": "foundation/templates/STANDING_STATE_TEMPLATE.md",
+      "opening_sha256": "e09ab8b6073b87f55c170c0cdbd274adce2957a3f626a717c01301edee895e77",
+      "current_sha256": "e09ab8b6073b87f55c170c0cdbd274adce2957a3f626a717c01301edee895e77",
+      "status": "unchanged"
+    },
+    {
+      "path": "state/HOLDINGS.md",
+      "opening_sha256": "c872e60dd054c6fe68303cfe22d10ad640898cd496e4cb3643eb73f2ed8e0f7e",
+      "current_sha256": "c872e60dd054c6fe68303cfe22d10ad640898cd496e4cb3643eb73f2ed8e0f7e",
+      "status": "unchanged"
+    },
+    {
+      "path": "state/STANDARDS_AND_TESTS.md",
+      "opening_sha256": "89a0717d8c463a53544f2521f75c9541ebec64f9f205bf345b00eb5a0a5fa6e7",
+      "current_sha256": "89a0717d8c463a53544f2521f75c9541ebec64f9f205bf345b00eb5a0a5fa6e7",
+      "status": "unchanged"
+    },
+    {
+      "path": "state/STANDING_STATE.md",
+      "opening_sha256": "cfc33f6ac276f23d4ee7152b718c6c7494f8892dc06492b4bc6d3586d5eddaf1",
+      "current_sha256": "cfc33f6ac276f23d4ee7152b718c6c7494f8892dc06492b4bc6d3586d5eddaf1",
+      "status": "unchanged"
+    },
+    {
+      "path": "state/holdings/administrative-law.md",
+      "opening_sha256": "9f432c19940012dde2f1ce6a7987e8465fcc6fd7de5f764134012941c722ae9f",
+      "current_sha256": "9f432c19940012dde2f1ce6a7987e8465fcc6fd7de5f764134012941c722ae9f",
+      "status": "unchanged"
+    },
+    {
+      "path": "state/holdings/antitrust.md",
+      "opening_sha256": "f2e90295b2149de33282ebfe6f683238681251705fa3d4cf531471be8b217616",
+      "current_sha256": "f2e90295b2149de33282ebfe6f683238681251705fa3d4cf531471be8b217616",
+      "status": "unchanged"
+    },
+    {
+      "path": "state/holdings/bankruptcy.md",
+      "opening_sha256": "23c89bde8257e7f7a380e6c01f4a3fbe8f6efaa4250b53d179ad79abd2859d1c",
+      "current_sha256": "23c89bde8257e7f7a380e6c01f4a3fbe8f6efaa4250b53d179ad79abd2859d1c",
+      "status": "unchanged"
+    },
+    {
+      "path": "state/holdings/business-and-commercial-law.md",
+      "opening_sha256": "6d737df272bd388a2cdfed5a775daada2810177d11da704ba83387541f376b22",
+      "current_sha256": "6d737df272bd388a2cdfed5a775daada2810177d11da704ba83387541f376b22",
+      "status": "unchanged"
+    },
+    {
+      "path": "state/holdings/civil-rights.md",
+      "opening_sha256": "c8bcfcb06079f4b1dd746942dc97ab822fb73ee838b8257b61c2b3a4338196ac",
+      "current_sha256": "c8bcfcb06079f4b1dd746942dc97ab822fb73ee838b8257b61c2b3a4338196ac",
+      "status": "unchanged"
+    },
+    {
+      "path": "state/holdings/constitutional-structure.md",
+      "opening_sha256": "86c6132c483d0507546df11999c388acadd2d69fa14487564e1258d382ed8d9f",
+      "current_sha256": "86c6132c483d0507546df11999c388acadd2d69fa14487564e1258d382ed8d9f",
+      "status": "unchanged"
+    },
+    {
+      "path": "state/holdings/criminal-procedure.md",
+      "opening_sha256": "2c37c00fce9b190a1eaefde36781dadeaa076637425cda796f34dc0dc9f83f90",
+      "current_sha256": "2c37c00fce9b190a1eaefde36781dadeaa076637425cda796f34dc0dc9f83f90",
+      "status": "unchanged"
+    },
+    {
+      "path": "state/holdings/election-law.md",
+      "opening_sha256": "016740c118879253515f14880cf2b12586a66d9d4b48fecb132e91af54213617",
+      "current_sha256": "016740c118879253515f14880cf2b12586a66d9d4b48fecb132e91af54213617",
+      "status": "unchanged"
+    },
+    {
+      "path": "state/holdings/environmental-law.md",
+      "opening_sha256": "76f351f9b542c93fc4ca688c6f8f9c8697d950969048234fd04945cf650addee",
+      "current_sha256": "76f351f9b542c93fc4ca688c6f8f9c8697d950969048234fd04945cf650addee",
+      "status": "unchanged"
+    },
+    {
+      "path": "state/holdings/federal-courts.md",
+      "opening_sha256": "e4eba9b86a2457b5d8d418ef1030b37ecca0c86cd2d23142653fe986c9610aa3",
+      "current_sha256": "e4eba9b86a2457b5d8d418ef1030b37ecca0c86cd2d23142653fe986c9610aa3",
+      "status": "unchanged"
+    },
+    {
+      "path": "state/holdings/federal-indian-law.md",
+      "opening_sha256": "aab2c2c274031783a80ec2ab0d6803beac2dd95ffcd3a332da8ee5c01055ec74",
+      "current_sha256": "aab2c2c274031783a80ec2ab0d6803beac2dd95ffcd3a332da8ee5c01055ec74",
+      "status": "unchanged"
+    },
+    {
+      "path": "state/holdings/federal-taxation.md",
+      "opening_sha256": "cf0437706b9fc2737f6c059f585c449563b7233f038c89d6a150ef41d41a478e",
+      "current_sha256": "cf0437706b9fc2737f6c059f585c449563b7233f038c89d6a150ef41d41a478e",
+      "status": "unchanged"
+    },
+    {
+      "path": "state/holdings/first-amendment.md",
+      "opening_sha256": "5f0cb4c4a39ce64ecf122aeddf2afa433370ed1e430ba8892b009a16351b3008",
+      "current_sha256": "5f0cb4c4a39ce64ecf122aeddf2afa433370ed1e430ba8892b009a16351b3008",
+      "status": "unchanged"
+    },
+    {
+      "path": "state/holdings/immigration.md",
+      "opening_sha256": "8f1ab67215c5bfc3d7f38e79106b60fe18ab2e3ae7aca5a218ad04feecd83184",
+      "current_sha256": "8f1ab67215c5bfc3d7f38e79106b60fe18ab2e3ae7aca5a218ad04feecd83184",
+      "status": "unchanged"
+    },
+    {
+      "path": "state/holdings/INDEX.md",
+      "opening_sha256": "08bf54c7e9537c7fb0fe3281bcae6d43d9e72c9112353138de29764a9e35b910",
+      "current_sha256": "08bf54c7e9537c7fb0fe3281bcae6d43d9e72c9112353138de29764a9e35b910",
+      "status": "unchanged"
+    },
+    {
+      "path": "state/holdings/labor-and-employment.md",
+      "opening_sha256": "d81364a31b493266a7d8bbd04e3189f955c3510dced6d438b456aab91a746fd1",
+      "current_sha256": "d81364a31b493266a7d8bbd04e3189f955c3510dced6d438b456aab91a746fd1",
+      "status": "unchanged"
+    },
+    {
+      "path": "state/holdings/maritime-law.md",
+      "opening_sha256": "1c07442a04d8d2d7a3b31ea4999e31d78cf78d7e22d449f3917f0db98d693f0b",
+      "current_sha256": "1c07442a04d8d2d7a3b31ea4999e31d78cf78d7e22d449f3917f0db98d693f0b",
+      "status": "unchanged"
+    },
+    {
+      "path": "state/holdings/property-and-economic-rights.md",
+      "opening_sha256": "19e056b69e4812b7b41fa89cee6c1d5e9bd3cb80e14a3175d369d96ae9561e7d",
+      "current_sha256": "19e056b69e4812b7b41fa89cee6c1d5e9bd3cb80e14a3175d369d96ae9561e7d",
+      "status": "unchanged"
+    },
+    {
+      "path": "state/holdings/tort-law.md",
+      "opening_sha256": "c0db84aa221ff1cf4ecf9b992e8a7da08915e3049ed1c1ec1f4c04fafe27a782",
+      "current_sha256": "c0db84aa221ff1cf4ecf9b992e8a7da08915e3049ed1c1ec1f4c04fafe27a782",
+      "status": "unchanged"
+    }
+  ],
+  "unexpected": [],
+  "inherited_differences": [
+    "terms/OT1996/case-list.md"
+  ]
+}

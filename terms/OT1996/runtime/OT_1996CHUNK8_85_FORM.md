@@ -1,0 +1,9 @@
+# Ortiz / Hurtado opinion form before assignment
+
+One signed lead opinion for the authorized consolidated plenary review; the separate defendants receive distinct mandates and no component is added or divided for assignment. Legal form is fixed before counting.
+
+Part I: all eight Associates affirm Ortiz on the contemporaneous on-person numerical-pager search-incident ground, preserving the protected-search premise and excluding generic overwrite exigency. Stone joins the search/seizure distinction but dissents from categorical access and would reverse/remand for preserved grounds and harmlessness.
+
+Part II: all nine preserve Hurtado's sentence vacatur and untouched contempt conviction. O'Connor, Scalia, Kennedy, Thomas and Breyer remove the mandatory Section 2J1.5 direction and remand for a supported comparison. Stevens, Souter, Ginsburg and Stone would affirm the definite Section 2J1.5 instruction. The common most-analogous text does not silently add Stone to the full Stinson commentary doctrine he has not adopted. The lead's complete sentencing holding is supported by the five; independent partial agreement on common principles remains identified.
+
+Stevens assigns the Ortiz component as most senior Associate in its eight-Justice judgment coalition. O'Connor assigns the distinct Hurtado remand-scope component as most senior Associate in that five-Justice coalition; Stone does not join either prevailing disposition. A common complete author exists among O'Connor, Scalia, Kennedy, Thomas and Breyer, so the two assignors may select one author without divided authorship. Separate writings preserve Stone's electronic-memory ground and both the shared and individually stated sentencing disagreements. No changed Associate commitment or fictional draft history is used.

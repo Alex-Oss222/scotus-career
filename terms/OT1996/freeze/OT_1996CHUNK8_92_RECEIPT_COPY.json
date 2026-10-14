@@ -1,0 +1,12 @@
+[
+  {
+    "source": "tmp/Clinton_assignment_recount.json",
+    "durable_copy": "freeze/OT_1996CHUNK8_92_ASSIGNMENT_RECOUNT.json",
+    "sha256": "b6e4ccbbb733a99ae760df708d6d5d71e6a2e8c42f0340b5ce8570ff5700f570"
+  },
+  {
+    "source": "tmp/Clinton_assembly_validation.json",
+    "durable_copy": "freeze/OT_1996CHUNK8_92_ASSEMBLY_VALIDATION.json",
+    "sha256": "c59016f8001a4bbbe81d3335182c30b0b2654bbf46ce6c31b500f480537155de"
+  }
+]

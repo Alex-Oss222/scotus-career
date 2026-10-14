@@ -1,0 +1,65 @@
+{
+  "method": "Exact per-matter mechanical extraction from current generated Section II runtime; no substantive edits",
+  "files": [
+    {
+      "matter": 84,
+      "path": "terms/OT1996/runtime/OT_1996CHUNK8_84_STONE.md",
+      "sha256": "0852674039d32e9553393c5a4553d516e1e543b5898628bc5a539e18ba79fdd2"
+    },
+    {
+      "matter": 85,
+      "path": "terms/OT1996/runtime/OT_1996CHUNK8_85_STONE.md",
+      "sha256": "103c91397c43680fe3ad8c78d7ebb2de79fa65b7db38a8d7f1f1b63415bb8c11"
+    },
+    {
+      "matter": 86,
+      "path": "terms/OT1996/runtime/OT_1996CHUNK8_86_STONE.md",
+      "sha256": "4c79e12996e32854175b45f910580783fbeff97be823447f33c3dac59f4e277b"
+    },
+    {
+      "matter": 87,
+      "path": "terms/OT1996/runtime/OT_1996CHUNK8_87_STONE.md",
+      "sha256": "aad66dbb87decf484da6733c6cfaba169ea394e7449f0126a051aaa26b1db6a8"
+    },
+    {
+      "matter": 88,
+      "path": "terms/OT1996/runtime/OT_1996CHUNK8_88_STONE.md",
+      "sha256": "9d2bcd1bc29fafd1d0bb913e6a72328be19149b9baf69196b0232d46869d1586"
+    },
+    {
+      "matter": 89,
+      "path": "terms/OT1996/runtime/OT_1996CHUNK8_89_STONE.md",
+      "sha256": "f8970d7af2c0d04ba130d247fda854cebfa56b960c018bcf40cbe13841766224"
+    },
+    {
+      "matter": 90,
+      "path": "terms/OT1996/runtime/OT_1996CHUNK8_90_STONE.md",
+      "sha256": "501361aeb9050cf9c46d981c863e6224aa98d4da9e7d96006b5bcbefe511adb0"
+    },
+    {
+      "matter": 91,
+      "path": "terms/OT1996/runtime/OT_1996CHUNK8_91_STONE.md",
+      "sha256": "e98a4cffb8f44aab16523a7cb22b1ed1f6174c0a79522dea419b50fc44b5137d"
+    },
+    {
+      "matter": 92,
+      "path": "terms/OT1996/runtime/OT_1996CHUNK8_92_STONE.md",
+      "sha256": "91d182fff1d0291b86b66255c3ba0afa09352107e9c9d4d6a20af2553788bbd6"
+    },
+    {
+      "matter": 93,
+      "path": "terms/OT1996/runtime/OT_1996CHUNK8_93_STONE.md",
+      "sha256": "d5f6690ea824647c158899fb83e104203660f24312ad7d1ade492e6389df952d"
+    },
+    {
+      "matter": 94,
+      "path": "terms/OT1996/runtime/OT_1996CHUNK8_94_STONE.md",
+      "sha256": "6c4c4123f5d80623fff5af142803d9ac2b1c1e5c044be1a1632628904011a2ea"
+    },
+    {
+      "matter": 95,
+      "path": "terms/OT1996/runtime/OT_1996CHUNK8_95_STONE.md",
+      "sha256": "e0150944c469909077c61258c9f293a844c36eebf098a2cc93504dc68e253e9f"
+    }
+  ]
+}

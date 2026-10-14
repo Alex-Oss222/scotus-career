@@ -1,0 +1,38 @@
+{
+    "stage":  "fresh independent modeling freeze",
+    "matter":  "87. Camps Newfound/Owatonna v. Town of Harrison, No. 94-1988",
+    "research_cutoff":  "1997-05-19",
+    "source_sha256":  {
+                          "freeze/OT_1996CHUNK8_87_NEUTRAL_REFRESH.md":  "b6986d307d16976035ec211518c809948cdd2db8382ff50449f0b3f7bfdddbbd",
+                          "freeze/OT_1996CHUNK8_87_NEUTRAL_REFRESH_VALIDATION.json":  "cb4c877199d8270262738031860fbf27ee99154b91ac1460b22cfedc7585afcb"
+                      },
+    "output_sha256":  {
+                          "runtime/OT_1996CHUNK8_87_COMMITMENTS_REFRESH.md":  "c7696adec0ad1ef83d781a5c4b6478e088e0835234955a00aef11d75e980b1ae",
+                          "freeze/OT_1996CHUNK8_87_COMMITMENTS_REFRESH.md":  "c7696adec0ad1ef83d781a5c4b6478e088e0835234955a00aef11d75e980b1ae"
+                      },
+    "runtime_freeze_identical":  true,
+    "associate_headings":  [
+                               "Stevens",
+                               "O\u0027Connor",
+                               "Scalia",
+                               "Kennedy",
+                               "Souter",
+                               "Thomas",
+                               "Ginsburg",
+                               "Breyer"
+                           ],
+    "completed_checks":  [
+                             "Full refreshed neutral packet read; source SHA verified",
+                             "Engine sections 1-7 and 14-15 only read substantively",
+                             "Eight unique Associate commitments; component alternatives and join limits",
+                             "Statutory exceptions, average-rate formula, value cap and conditional remedies retained",
+                             "No external research or Git operations",
+                             "No prior Camps commitments, comparator, reconciliation, private Stone material, combined brief, raw Records, assignments or exposure receipt opened"
+                         ],
+    "remaining_stages":  [
+                             "Independent historical reconciliation",
+                             "Assembly with approved Stone material",
+                             "Record and term validation"
+                         ],
+    "immutable_handoff":  "Frozen copy and this receipt set read-only after creation. Any substantive refresh requires a newly named handoff."
+}

@@ -1,0 +1,117 @@
+{
+  "stage": "Independent non-Stone modeling; no comparator reconciliation or Stone assembly",
+  "matter_numbers": [
+    84,
+    85,
+    86,
+    87,
+    88,
+    89
+  ],
+  "runtime_file": "terms\\OT1996\\runtime\\OT_1996CHUNK8_84_89_COMMITMENTS.md",
+  "frozen_file": "terms\\OT1996\\freeze\\OT_1996CHUNK8_84_89_COMMITMENTS.md",
+  "sha256": "bbd84f40e42654246d7face595bd3302562895591ccefa70031e94202afd38bc",
+  "byte_identity": true,
+  "bytes": 69983,
+  "preflight_frozen_hash_checks": {
+    "APPROVED_NEUTRAL_84_89.md": true,
+    "FOCUSED_OPENING_LAW.md": true,
+    "CURRENT_TERM_LAW.md": true,
+    "EDMOND_STATUTES.md": true,
+    "AEDPA_440_TEXT.md": true,
+    "INPUT_SHA256.json": true,
+    "PREFLIGHT.md": true
+  },
+  "additional_authorized_source_sha256": {
+    "freeze/OT_1996CHUNK8_84_89_NEUTRAL_PREP.md": "6ea7861a46fe55eed4b9234e66bc433d482d099db9f2e2fc418e629b9dc706b6",
+    "freeze/sources/IIRIRA_306_text.txt": "9539608503a0da3a7f4de718dcc9931b1afb240ea0e902d36a06bdcf68e3737f",
+    "freeze/sources/IIRIRA_309_text.txt": "9cc9bbdccd963fc2c4da2758f6bdea0e9ba6d7f6976ac339c04867e88c905ea1",
+    "freeze/sources/PLAW_104_302_text.txt": "5f75aa333befc6211271912505b285309df7b405b012057cf60c1bdcc739109b"
+  },
+  "justice_row_counts": {
+    "84": {
+      "Stevens": 1,
+      "O'Connor": 1,
+      "Scalia": 1,
+      "Kennedy": 1,
+      "Souter": 1,
+      "Thomas": 1,
+      "Ginsburg": 1,
+      "Breyer": 1
+    },
+    "85": {
+      "Stevens": 2,
+      "O'Connor": 2,
+      "Scalia": 2,
+      "Kennedy": 2,
+      "Souter": 2,
+      "Thomas": 2,
+      "Ginsburg": 2,
+      "Breyer": 2
+    },
+    "86": {
+      "Stevens": 1,
+      "O'Connor": 1,
+      "Scalia": 1,
+      "Kennedy": 1,
+      "Souter": 1,
+      "Thomas": 1,
+      "Ginsburg": 1,
+      "Breyer": 1
+    },
+    "87": {
+      "Stevens": 1,
+      "O'Connor": 1,
+      "Scalia": 1,
+      "Kennedy": 1,
+      "Souter": 1,
+      "Thomas": 1,
+      "Ginsburg": 1,
+      "Breyer": 1
+    },
+    "88": {
+      "Stevens": 1,
+      "O'Connor": 1,
+      "Scalia": 1,
+      "Kennedy": 1,
+      "Souter": 1,
+      "Thomas": 1,
+      "Ginsburg": 1,
+      "Breyer": 1
+    },
+    "89": {
+      "Stevens": 1,
+      "O'Connor": 1,
+      "Scalia": 1,
+      "Kennedy": 1,
+      "Souter": 1,
+      "Thomas": 1,
+      "Ginsburg": 1,
+      "Breyer": 1
+    }
+  },
+  "all_six_edmond_petitioners": true,
+  "participating_associates": [
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "chronology": "Pre-May12 law for84-86; pre-May19 law for87-89; same-May12 peers excluded",
+  "scope_disclosure": "Only authorized neutral reading copies and date-eligible primary lower-court opinions used; no same-case SCOTUS opinion or lineup retrieved, no comparator, private Stone or raw Record opened",
+  "substantive_review": "Independent conclusions, issue-specific lawful alternatives, strongest objections, own supported writings/joins, remedy and join boundaries recorded for all six matters",
+  "downstream_unperformed": [
+    "Historical reconciliation",
+    "Stone assembly",
+    "Opinion assignment",
+    "Canonical Decision Records",
+    "Term/workspace updates",
+    "Render Input generation",
+    "Term validation"
+  ],
+  "freeze_policy": "Immutable handoff; later reconciliation must use a distinct artifact"
+}

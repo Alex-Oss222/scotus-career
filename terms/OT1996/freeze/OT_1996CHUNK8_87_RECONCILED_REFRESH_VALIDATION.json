@@ -1,0 +1,89 @@
+{
+  "artifact": "OT_1996CHUNK8_87_RECONCILED_REFRESH.md",
+  "ready_matters": [
+    87
+  ],
+  "sha256": "dcbe7a7353185ca83cd900b5f97f4a9c32e8ef5b971efe0bf6ad395e60465da2",
+  "bytes": 64391,
+  "runtime": "terms\\OT1996\\runtime\\OT_1996CHUNK8_87_RECONCILED_REFRESH.md",
+  "freeze": "terms\\OT1996\\freeze\\OT_1996CHUNK8_87_RECONCILED_REFRESH.md",
+  "runtime_freeze_byte_identical": true,
+  "source_commitment_sha256": "c7696adec0ad1ef83d781a5c4b6478e088e0835234955a00aef11d75e980b1ae",
+  "fresh_commitment_unchanged": true,
+  "five_matter_reconciliation_unchanged": true,
+  "five_individual_entries_preserved_except_status_label": [
+    "Stevens",
+    "O'Connor",
+    "Kennedy",
+    "Souter",
+    "Breyer"
+  ],
+  "corrected_disposition_entries": [
+    "Scalia",
+    "Thomas",
+    "Ginsburg"
+  ],
+  "reversal_associates": [
+    "Stevens",
+    "O'Connor",
+    "Kennedy",
+    "Souter",
+    "Breyer"
+  ],
+  "affirmance_associates": [
+    "Scalia",
+    "Thomas",
+    "Ginsburg"
+  ],
+  "broader_constitutional_critique": [
+    "Thomas",
+    "Scalia"
+  ],
+  "checks": {
+    "eight_unique_justice_entries": true,
+    "all_statutory_boundary_text_retained": true,
+    "safe_exact_statute_retained": true,
+    "full_primary_opinions_and_all_footnotes_read": true,
+    "official_crosscheck": "Signature, disposition, statutory quotation and material passages; not entire bound volume",
+    "no_stone_position": true,
+    "no_assignment_import": true,
+    "no_git_used": true,
+    "new_material_neutral_premise_required": false,
+    "blocked": false
+  },
+  "input_sha256": {
+    "terms\\OT1996\\freeze\\OT_1996CHUNK8_87_COMMITMENTS_REFRESH.md": "c7696adec0ad1ef83d781a5c4b6478e088e0835234955a00aef11d75e980b1ae",
+    "terms\\OT1996\\freeze\\OT_1996CHUNK8_87_NEUTRAL_REFRESH.md": "b6986d307d16976035ec211518c809948cdd2db8382ff50449f0b3f7bfdddbbd",
+    "terms\\OT1996\\freeze\\OT_1996CHUNK8_84_85_86_88_89_RECONCILED.md": "b2426ebdf9a296f1db97b95a6f74f178a39d4ebad87dca90079626560f4cbcf0",
+    "terms\\OT1996\\runtime\\OT_1996CHUNK8_87_MAINE_STATUTE_NEUTRAL.md": "073043edc7f7d8ee749a4781e3be13869d05786812a77aad12f5edb052d75c6a",
+    "terms\\OT1996\\runtime\\OT_1996CHUNK8_87_TRACY_NEUTRAL.md": "576d4cae88f0d37e2c1f2b6942bdc51795c93bfcd7e8adb37e6a605df7f03439",
+    "terms\\OT1996\\sources\\chunk5\\520bv.pdf": "483a67652ac8a26303401ae3e6b4c4e83a3d186476e3614a9ca0a490f90a7c93",
+    "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\OFFICIAL_CROSSCHECK.txt": "6df5fea4d9e2cb55fe05764955b6ce340e20a41c91c51bacad1c60d2d04c8295"
+  },
+  "source_manifest": [
+    {
+      "url": "https://www.law.cornell.edu/supct/html/94-1988.ZS.html",
+      "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\94-1988.ZS.txt",
+      "sha256": "3fa279e73c607fc924a7f2935fba43cd4a1aa6ec5ea21220e0934cfea855e765",
+      "chars": 8275
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/94-1988.ZO.html",
+      "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\94-1988.ZO.txt",
+      "sha256": "6f0c6185e4dc756733f6dbcb77c4b6c05057a8e1f47afa604d09beea4b04e722",
+      "chars": 64987
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/94-1988.ZD.html",
+      "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\94-1988.ZD.txt",
+      "sha256": "ca8db8cf0255da80f1df6a254991f206865506168329cb8caf15f1d49ab18cc6",
+      "chars": 29449
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/94-1988.ZD1.html",
+      "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\94-1988.ZD1.txt",
+      "sha256": "4b24d9558faa374f109dcd8b916bf188bf21185c8374c920b8544013b619ecb9",
+      "chars": 70602
+    }
+  ]
+}

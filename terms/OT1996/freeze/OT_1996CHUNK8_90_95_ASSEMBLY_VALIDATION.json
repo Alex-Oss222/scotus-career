@@ -1,0 +1,144 @@
+{
+  "scope": [
+    90,
+    91,
+    93,
+    94,
+    95
+  ],
+  "no_git_operations": true,
+  "no_prior_records_or_frozen_handoffs_modified": true,
+  "results": [
+    {
+      "case": 90,
+      "file": "united-states-v-thomas-merits-1997-05-19.md",
+      "holdings_identity": true,
+      "eleven_blocks": true,
+      "controlling_explanation_word_counts": [
+        131,
+        154,
+        99
+      ],
+      "sha256": "55b6e803c4e7050c5b9109acc4dfac01bea46829067aeeb7a9714b2034609eed",
+      "author": "Ginsburg",
+      "public_projection_matches_reviewed_draft": true,
+      "full_opinion_support": 8,
+      "assignment_pool": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "counted_prior_leads": 77,
+      "last_counted": "Edwards_v_Balisok_merits_1997-05-19.md"
+    },
+    {
+      "case": 91,
+      "file": "church-on-the-rock-v-city-of-albuquerque-merits-1997-05-27.md",
+      "holdings_identity": true,
+      "eleven_blocks": true,
+      "controlling_explanation_word_counts": [
+        145,
+        108,
+        132,
+        88
+      ],
+      "sha256": "ad1521439133e3a96bdf7034ad5c8d0cdd165be41a77e651641d9cb547e58e3d",
+      "author": "Stone-Zsela",
+      "public_projection_matches_reviewed_draft": true,
+      "full_opinion_support": 6,
+      "assignment_pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "counted_prior_leads": 78,
+      "last_counted": "united-states-v-thomas-merits-1997-05-19.md"
+    },
+    {
+      "case": 93,
+      "file": "suitum-v-tahoe-regional-planning-agency-merits-1997-05-27.md",
+      "holdings_identity": true,
+      "eleven_blocks": true,
+      "controlling_explanation_word_counts": [
+        158
+      ],
+      "sha256": "97e1ca91cc8a5b5864479cb875c7ce1d91936e28b9650cb1b49c5de2f797c729",
+      "author": "Thomas",
+      "public_projection_matches_reviewed_draft": true,
+      "full_opinion_support": 9,
+      "assignment_pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "counted_prior_leads": 80,
+      "last_counted": "Clinton_v_Jones_merits_1997-05-27.md"
+    },
+    {
+      "case": 94,
+      "file": "united-states-v-hyde-merits-1997-05-27.md",
+      "holdings_identity": true,
+      "eleven_blocks": true,
+      "controlling_explanation_word_counts": [
+        169
+      ],
+      "sha256": "f7222f83bfc50953e9d87649d775512b8474cfbb96f732ed427dc8272ec8a646",
+      "author": "O'Connor",
+      "public_projection_matches_reviewed_draft": true,
+      "full_opinion_support": 9,
+      "assignment_pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "counted_prior_leads": 81,
+      "last_counted": "suitum-v-tahoe-regional-planning-agency-merits-1997-05-27.md"
+    },
+    {
+      "case": 95,
+      "file": "united-states-v-labonte-merits-1997-05-27.md",
+      "holdings_identity": true,
+      "eleven_blocks": true,
+      "controlling_explanation_word_counts": [
+        185,
+        93,
+        154
+      ],
+      "sha256": "1061179e80baf7f973601125d6d762e8db4a6ae94df3e47555d336846fee9859",
+      "author": "Kennedy",
+      "public_projection_matches_reviewed_draft": true,
+      "full_opinion_support": 6,
+      "assignment_pool": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas"
+      ],
+      "counted_prior_leads": 82,
+      "last_counted": "united-states-v-hyde-merits-1997-05-27.md"
+    }
+  ],
+  "limits": "Assembly checks only; root controls ledger/manifest/continuity/neutral projection, Render Input generation and final check_term integration."
+}

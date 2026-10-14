@@ -1,0 +1,45 @@
+{
+  "files": [
+    {
+      "path": "freeze/OT_1996CHUNK8_VALIDATION.md",
+      "sha256": "75552f7d4cd9959ff50419a009ca9343d9a079687be33038b38e8877905df4b1"
+    },
+    {
+      "path": "freeze/OT_1996CHUNK8_INTEGRATION_CHECKS.json",
+      "sha256": "914ad019bf8ed199af3e75f53c24850683cf17cc092a9d7d600693bf38aa7a39"
+    },
+    {
+      "path": "render-inputs/OT_1996CHUNK8.md",
+      "sha256": "47d1df7f7d9fa31399f99e35f787698931afdeaf25679e8125f84ca9619e8f6a"
+    },
+    {
+      "path": "workspace/continuity.md",
+      "sha256": "03a057f0f0df3156a6cf76566efad1c0fa14a2dd8d909c5b2d9168d5f45dc44a"
+    },
+    {
+      "path": "workspace/ledger.md",
+      "sha256": "f1ca9b7f2b4998091885ad98ce9dc99d553a296fd6cf51804b77871873f119d0"
+    },
+    {
+      "path": "workspace/manifest.md",
+      "sha256": "679b23d1b3a7917a3c7f5dff87c332f5ce3b669472c82b4bb878cdc30fe29995"
+    },
+    {
+      "path": "workspace/neutral-projection.md",
+      "sha256": "df5e7729ac960c4685d3ebd86d0f8662ed47e73f26050d1462ec49bf38d56430"
+    },
+    {
+      "path": "freeze/OT_1996CHUNK8_RECORD_QA.md",
+      "sha256": "3fef4bd2a6c86ccd16f068bfacf0a9488b04fec2ea867a5796293493c45af952"
+    },
+    {
+      "path": "freeze/OT_1996CHUNK8_CHECK_LOG.json",
+      "sha256": "b8f3880b4c3013ff7ef35e4df9a3ae985a9edae9d7f4a2f1033b35117c6aa085"
+    },
+    {
+      "path": "freeze/OT_1996CHUNK8_RECORD_PATHS.json",
+      "sha256": "3ef2252cecfe5753b7b955b43709b8919cb84b6e78252b14e2b387601346a615"
+    }
+  ],
+  "git": "No Git command; operator verification and commitment pending"
+}

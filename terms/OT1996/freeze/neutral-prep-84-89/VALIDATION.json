@@ -1,0 +1,22 @@
+{
+  "stage": "neutral preflight only; no commitments",
+  "matter_numbers": [
+    84,
+    85,
+    86,
+    87,
+    88,
+    89
+  ],
+  "approved_passages": "mechanically extracted and byte-identical runtime/freeze",
+  "frozen_files_sha256": {
+    "APPROVED_NEUTRAL_84_89.md": "19669a67f2827253df61fd6b8e4371b1aaa7fc47c2500b721bc8a94daa522f9f",
+    "FOCUSED_OPENING_LAW.md": "ed455a07947104fc4f1a94f9675869491c0a887ad97d42311b37d86a875abcf8",
+    "CURRENT_TERM_LAW.md": "8ba9f18f77e2166fd7239a2b9a08b65e92805d7ebfac92ed143e0a255af82a23",
+    "EDMOND_STATUTES.md": "4ca7009ab081b157e77344cbf45ec8a271fc25dce3eb02f704a0a72e5fb663be",
+    "AEDPA_440_TEXT.md": "cd5f5e098508d5bb36b274eb1673af255fa63362237559f3ff346e7a1f85677c",
+    "INPUT_SHA256.json": "57a0d0b78624372c0191d66ffdbd7621b34151e5765abdbb17fcb4212a591a63",
+    "PREFLIGHT.md": "869519e57c8d7ed434a1b0367cfded5ae7d69a7c7f00a56d47ab2c6f75a7d9f0"
+  },
+  "unperformed": "independent non-Stone modeling, comparator reconciliation, assembly"
+}

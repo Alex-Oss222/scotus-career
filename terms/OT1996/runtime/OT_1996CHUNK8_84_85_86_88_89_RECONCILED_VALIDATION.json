@@ -1,0 +1,231 @@
+{
+  "artifact": "OT_1996CHUNK8_84_85_86_88_89_RECONCILED.md",
+  "ready_matters": [
+    84,
+    85,
+    86,
+    88,
+    89
+  ],
+  "excluded_matter": {
+    "number": 87,
+    "reason": "Material omitted entering law; fresh neutral validation and independent model required; no final commitment."
+  },
+  "runtime": "terms\\OT1996\\runtime\\OT_1996CHUNK8_84_85_86_88_89_RECONCILED.md",
+  "freeze": "terms\\OT1996\\freeze\\OT_1996CHUNK8_84_85_86_88_89_RECONCILED.md",
+  "sha256": "b2426ebdf9a296f1db97b95a6f74f178a39d4ebad87dca90079626560f4cbcf0",
+  "bytes": 76220,
+  "runtime_freeze_byte_identical": true,
+  "original_commitment_unchanged": true,
+  "unchanged_substantive_case_bodies": {
+    "85": true,
+    "86": true,
+    "89": true
+  },
+  "checks": {
+    "body_numbers": [
+      84,
+      85,
+      86,
+      88,
+      89
+    ],
+    "justice_rows_by_body": {
+      "84": {
+        "count": 8,
+        "names": [
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ]
+      },
+      "85": {
+        "count": 16,
+        "names": [
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ]
+      },
+      "86": {
+        "count": 8,
+        "names": [
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ]
+      },
+      "88": {
+        "count": 8,
+        "names": [
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ]
+      },
+      "89": {
+        "count": 8,
+        "names": [
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ]
+      }
+    },
+    "no_final_camps_body": true,
+    "no_git_used": true,
+    "no_assignment_import": true,
+    "full_cornell_writings_read": true,
+    "official_bound_volume_crosscheck": "Signature, disposition and material-rule passages; not the full bound volume",
+    "lower_comparators_only": [
+      85,
+      86
+    ],
+    "scope_overshoot_disclosed": "Engine displayed beyond needed sections; comparator extraction displayed 90–95 accidentally; later comparators not used"
+  },
+  "input_sha256": {
+    "terms\\OT1996\\freeze\\OT_1996CHUNK8_84_89_COMMITMENTS.md": "bbd84f40e42654246d7face595bd3302562895591ccefa70031e94202afd38bc",
+    "terms\\OT1996\\freeze\\OT_1996CHUNK8_84_89_NEUTRAL_PREP.md": "6ea7861a46fe55eed4b9234e66bc433d482d099db9f2e2fc418e629b9dc706b6",
+    "terms\\OT1996\\runtime\\OT_1996CHUNK8_87_TRACY_NEUTRAL.md": "576d4cae88f0d37e2c1f2b6942bdc51795c93bfcd7e8adb37e6a605df7f03439",
+    "terms\\OT1996\\runtime\\OT_1996CHUNK8_87_MAINE_STATUTE_NEUTRAL.md": "073043edc7f7d8ee749a4781e3be13869d05786812a77aad12f5edb052d75c6a",
+    "terms\\OT1996\\sources\\chunk5\\520bv.pdf": "483a67652ac8a26303401ae3e6b4c4e83a3d186476e3614a9ca0a490f90a7c93",
+    "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\SOURCES.json": "748de30342156345e0299ff50da5af369519179b86c2c5dd3b8401de18ad3811",
+    "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\OFFICIAL_CROSSCHECK.txt": "6df5fea4d9e2cb55fe05764955b6ce340e20a41c91c51bacad1c60d2d04c8295",
+    "terms\\OT1996\\freeze\\neutral-prep-84-89\\APPROVED_NEUTRAL_84_89.md": "19669a67f2827253df61fd6b8e4371b1aaa7fc47c2500b721bc8a94daa522f9f",
+    "terms\\OT1996\\freeze\\neutral-prep-84-89\\FOCUSED_OPENING_LAW.md": "ed455a07947104fc4f1a94f9675869491c0a887ad97d42311b37d86a875abcf8",
+    "terms\\OT1996\\freeze\\neutral-prep-84-89\\CURRENT_TERM_LAW.md": "8ba9f18f77e2166fd7239a2b9a08b65e92805d7ebfac92ed143e0a255af82a23",
+    "terms\\OT1996\\freeze\\neutral-prep-84-89\\EDMOND_STATUTES.md": "4ca7009ab081b157e77344cbf45ec8a271fc25dce3eb02f704a0a72e5fb663be",
+    "terms\\OT1996\\freeze\\neutral-prep-84-89\\AEDPA_440_TEXT.md": "cd5f5e098508d5bb36b274eb1673af255fa63362237559f3ff346e7a1f85677c",
+    "terms\\OT1996\\freeze\\neutral-prep-84-89\\PREFLIGHT.md": "869519e57c8d7ed434a1b0367cfded5ae7d69a7c7f00a56d47ab2c6f75a7d9f0",
+    "terms\\OT1996\\freeze\\neutral-prep-84-89\\INPUT_SHA256.json": "57a0d0b78624372c0191d66ffdbd7621b34151e5765abdbb17fcb4212a591a63",
+    "terms\\OT1996\\freeze\\neutral-prep-84-89\\VALIDATION.json": "0471d669060bca398f5d3d94b01e9bc5c014d940e22506182e7c584cf6c027a8",
+    "terms\\OT1996\\freeze\\sources\\IIRIRA_306_text.txt": "9539608503a0da3a7f4de718dcc9931b1afb240ea0e902d36a06bdcf68e3737f",
+    "terms\\OT1996\\freeze\\sources\\IIRIRA_309_text.txt": "9cc9bbdccd963fc2c4da2758f6bdea0e9ba6d7f6976ac339c04867e88c905ea1",
+    "terms\\OT1996\\freeze\\sources\\PLAW_104_302_text.txt": "5f75aa333befc6211271912505b285309df7b405b012057cf60c1bdcc739109b"
+  },
+  "source_manifest": [
+    {
+      "url": "https://www.law.cornell.edu/supct/html/95-1455.ZS.html",
+      "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\95-1455.ZS.txt",
+      "sha256": "7054223ebe4f9a8ab26df653bb9f1a05048561a9fad7bd191aa39bc300c49646",
+      "chars": 7271
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/95-1455.ZO.html",
+      "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\95-1455.ZO.txt",
+      "sha256": "976c4dcf6061d2b0bb452b99339922e79ca9cd94f3f8b0b213ebcec04d164518",
+      "chars": 35101
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/95-1455.ZC.html",
+      "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\95-1455.ZC.txt",
+      "sha256": "0a9004e1ebda2d06adeb7564bf7e941fbbfa25e336b3c2b77c2c7d23dc7662fd",
+      "chars": 5752
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/95-1455.ZC1.html",
+      "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\95-1455.ZC1.txt",
+      "sha256": "101f0c9a98aee667aac82bf4c68cccab414dd206d0e84c31b9cd1fc150571cc5",
+      "chars": 9153
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/95-1455.ZX.html",
+      "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\95-1455.ZX.txt",
+      "sha256": "3165dd0429386d34a31c3e7a321cae9caf4c7380868ba174bc7514a4e7268dff",
+      "chars": 26840
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/94-1988.ZS.html",
+      "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\94-1988.ZS.txt",
+      "sha256": "3fa279e73c607fc924a7f2935fba43cd4a1aa6ec5ea21220e0934cfea855e765",
+      "chars": 8275
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/94-1988.ZO.html",
+      "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\94-1988.ZO.txt",
+      "sha256": "6f0c6185e4dc756733f6dbcb77c4b6c05057a8e1f47afa604d09beea4b04e722",
+      "chars": 64987
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/94-1988.ZD.html",
+      "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\94-1988.ZD.txt",
+      "sha256": "ca8db8cf0255da80f1df6a254991f206865506168329cb8caf15f1d49ab18cc6",
+      "chars": 29449
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/94-1988.ZD1.html",
+      "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\94-1988.ZD1.txt",
+      "sha256": "4b24d9558faa374f109dcd8b916bf188bf21185c8374c920b8544013b619ecb9",
+      "chars": 70602
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/96-262.ZS.html",
+      "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\96-262.ZS.txt",
+      "sha256": "65ac7b7262864326494f94de5e4a29dc19f93137a814ed8f0f9e67e29181e6ee",
+      "chars": 5757
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/96-262.ZO.html",
+      "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\96-262.ZO.txt",
+      "sha256": "647ad6814715f28d6eba7e6de803e6764d4267116bb818333312fcecf6c78675",
+      "chars": 27742
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/96-262.ZC.html",
+      "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\96-262.ZC.txt",
+      "sha256": "9919aceadf2f5c1ddf041c6aee70ff511679cf43cf36c19ae4829b9386eb0976",
+      "chars": 5629
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/95-1352.ZS.html",
+      "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\95-1352.ZS.txt",
+      "sha256": "a4865917c33dba6ea766a465ada9846e54f68fe2815653d82260cec78dd3f399",
+      "chars": 4281
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/95-1352.ZO.html",
+      "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\95-1352.ZO.txt",
+      "sha256": "c2e1ab2b79c88df20e7a92341b39c47cb9f008034fb01f201d207caa49e9514e",
+      "chars": 13709
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/95-1352.ZC.html",
+      "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\95-1352.ZC.txt",
+      "sha256": "d31d555de70781d5624eff9bffab363000bdf9a0e78482293fb0466c4897e0ea",
+      "chars": 1473
+    }
+  ]
+}

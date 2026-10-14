@@ -1,0 +1,68 @@
+{
+  "COMMITMENTS": {
+    "aggregate": "OT_1996CHUNK8_COMMITMENTS.md",
+    "sha256": "149ad8f62c07f33c0733eea227e84f127d9af36a8ac29a632cfc28582468ce7c",
+    "constituents": [
+      {
+        "source": "OT_1996CHUNK8_84_89_COMMITMENTS.md",
+        "sha256": "bbd84f40e42654246d7face595bd3302562895591ccefa70031e94202afd38bc",
+        "live_scope": "84\u201386, 88\u201389",
+        "original_87_section_omitted": true
+      },
+      {
+        "source": "OT_1996CHUNK8_87_COMMITMENTS_REFRESH.md",
+        "sha256": "c7696adec0ad1ef83d781a5c4b6478e088e0835234955a00aef11d75e980b1ae",
+        "live_scope": "87; fresh Tracy-aware model",
+        "original_87_section_omitted": false
+      },
+      {
+        "source": "OT_1996CHUNK8_90_95_COMMITMENTS.md",
+        "sha256": "bd8c3cfab3463bbcb7dc6f79baf0535fd2ebc4d12465d2f6fe7b59a848b77a46",
+        "live_scope": "90, 91, 93, 94 only",
+        "original_87_section_omitted": false
+      },
+      {
+        "source": "OT_1996CHUNK8_92_COMMITMENTS.md",
+        "sha256": "dc33ca7c579d8985a61dc7ca5dfb7e29ab95bfb79d2a7eb00b8442ceec8dce7c",
+        "live_scope": "92",
+        "original_87_section_omitted": false
+      },
+      {
+        "source": "OT_1996CHUNK8_95_COMMITMENTS.md",
+        "sha256": "89521ced284eb8156c0ce3ee32a5846f7d4660510e8eb19a98162758d6df328c",
+        "live_scope": "95; corrected respondent record",
+        "original_87_section_omitted": false
+      }
+    ]
+  },
+  "RECONCILED": {
+    "aggregate": "OT_1996CHUNK8_RECONCILED.md",
+    "sha256": "9ec2b1ba48566bb792e75b4de76720eb89aa93b854cf0244e4db5595bdbbcee0",
+    "constituents": [
+      {
+        "source": "OT_1996CHUNK8_84_85_86_88_89_RECONCILED.md",
+        "sha256": "b2426ebdf9a296f1db97b95a6f74f178a39d4ebad87dca90079626560f4cbcf0",
+        "live_scope": "84\u201386, 88\u201389",
+        "original_87_section_omitted": false
+      },
+      {
+        "source": "OT_1996CHUNK8_87_RECONCILED_REFRESH.md",
+        "sha256": "dcbe7a7353185ca83cd900b5f97f4a9c32e8ef5b971efe0bf6ad395e60465da2",
+        "live_scope": "87; fresh Tracy-aware reconciliation",
+        "original_87_section_omitted": false
+      },
+      {
+        "source": "OT_1996CHUNK8_90_94_RECONCILED.md",
+        "sha256": "ab614ae0339beced5ccfcc4d350387fca8a70cd75869bac87a0c8f08a211a57f",
+        "live_scope": "90\u201394",
+        "original_87_section_omitted": false
+      },
+      {
+        "source": "OT_1996CHUNK8_95_RECONCILED.md",
+        "sha256": "43ee0df60bb3eba89cebec8f092b44b8d5f9473715c3c757f2b51ac4cb6f6034",
+        "live_scope": "95",
+        "original_87_section_omitted": false
+      }
+    ]
+  }
+}

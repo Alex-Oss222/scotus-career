@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.law.cornell.edu/supct/html/95-1455.ZS.html",
+    "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\95-1455.ZS.txt",
+    "sha256": "7054223ebe4f9a8ab26df653bb9f1a05048561a9fad7bd191aa39bc300c49646",
+    "chars": 7271
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/95-1455.ZO.html",
+    "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\95-1455.ZO.txt",
+    "sha256": "976c4dcf6061d2b0bb452b99339922e79ca9cd94f3f8b0b213ebcec04d164518",
+    "chars": 35101
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/95-1455.ZC.html",
+    "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\95-1455.ZC.txt",
+    "sha256": "0a9004e1ebda2d06adeb7564bf7e941fbbfa25e336b3c2b77c2c7d23dc7662fd",
+    "chars": 5752
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/95-1455.ZC1.html",
+    "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\95-1455.ZC1.txt",
+    "sha256": "101f0c9a98aee667aac82bf4c68cccab414dd206d0e84c31b9cd1fc150571cc5",
+    "chars": 9153
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/95-1455.ZX.html",
+    "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\95-1455.ZX.txt",
+    "sha256": "3165dd0429386d34a31c3e7a321cae9caf4c7380868ba174bc7514a4e7268dff",
+    "chars": 26840
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/94-1988.ZS.html",
+    "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\94-1988.ZS.txt",
+    "sha256": "3fa279e73c607fc924a7f2935fba43cd4a1aa6ec5ea21220e0934cfea855e765",
+    "chars": 8275
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/94-1988.ZO.html",
+    "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\94-1988.ZO.txt",
+    "sha256": "6f0c6185e4dc756733f6dbcb77c4b6c05057a8e1f47afa604d09beea4b04e722",
+    "chars": 64987
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/94-1988.ZD.html",
+    "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\94-1988.ZD.txt",
+    "sha256": "ca8db8cf0255da80f1df6a254991f206865506168329cb8caf15f1d49ab18cc6",
+    "chars": 29449
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/94-1988.ZD1.html",
+    "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\94-1988.ZD1.txt",
+    "sha256": "4b24d9558faa374f109dcd8b916bf188bf21185c8374c920b8544013b619ecb9",
+    "chars": 70602
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/96-262.ZS.html",
+    "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\96-262.ZS.txt",
+    "sha256": "65ac7b7262864326494f94de5e4a29dc19f93137a814ed8f0f9e67e29181e6ee",
+    "chars": 5757
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/96-262.ZO.html",
+    "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\96-262.ZO.txt",
+    "sha256": "647ad6814715f28d6eba7e6de803e6764d4267116bb818333312fcecf6c78675",
+    "chars": 27742
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/96-262.ZC.html",
+    "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\96-262.ZC.txt",
+    "sha256": "9919aceadf2f5c1ddf041c6aee70ff511679cf43cf36c19ae4829b9386eb0976",
+    "chars": 5629
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/95-1352.ZS.html",
+    "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\95-1352.ZS.txt",
+    "sha256": "a4865917c33dba6ea766a465ada9846e54f68fe2815653d82260cec78dd3f399",
+    "chars": 4281
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/95-1352.ZO.html",
+    "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\95-1352.ZO.txt",
+    "sha256": "c2e1ab2b79c88df20e7a92341b39c47cb9f008034fb01f201d207caa49e9514e",
+    "chars": 13709
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/95-1352.ZC.html",
+    "file": "terms\\OT1996\\runtime\\reconciliation-sources-84-89\\95-1352.ZC.txt",
+    "sha256": "d31d555de70781d5624eff9bffab363000bdf9a0e78482293fb0466c4897e0ea",
+    "chars": 1473
+  }
+]

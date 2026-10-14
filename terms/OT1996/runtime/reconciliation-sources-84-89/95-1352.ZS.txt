@@ -1,0 +1,84 @@
+Edwards v. Balisok, 520 U.S. 641 (1997).
+LII
+Supreme Court
+Edwards v. Balisok (95-1352), 520 U.S. 641 (1997).
+Opinion
+[ Scalia ]Concurrence
+[ Ginsburg ]Syllabus
+HTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect version
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+as is being done in connection with this case, at the time the opinion
+is issued. The syllabus constitutes no part of the opinion of the Court
+but has been prepared by the Reporter of Decisions for the convenience
+of the reader. See United States v. Detroit Timber & Lumber
+Co., 200
+U.S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+EDWARDS et al.
+v. BALISOK
+certiorari to the united states
+court of appeals for the ninth circuit
+No. 95-1352.
+Argued November 13, 1996 -- Decided
+May 19, 1997
+Respondent, an inmate of a Washington state prison, was found guilty
+of prison rule infractions and sentenced to, inter alia, the loss
+of 30 days' good time credit he had previously earned toward his release.
+Alleging that the procedures used in his disciplinary proceeding violated
+his Fourteenth
+Amendment due process rights, he filed this suit under 42
+U.S.C. § 1983 for a declaration that those procedures were unconstitutional,
+compensatory and punitive damages for their use, and an injunction to prevent
+future violations. Although he expressly reserved the right to seek restoration
+of the lost good time credits in an appropriate forum, he refrained from
+requesting that relief in light of Preiser v. Rodriguez,
+411
+U.S. 475, 500, under which the sole remedy in federal court for a prisoner
+seeking such restoration is habeas corpus. The District Court applied Heck
+v. Humphrey, 512
+U.S. 477, 487, which held that a state prisoner's claim for damages
+is not cognizable under §1983 if a judgment for him would "necessarily
+imply" the invalidity of his conviction or sentence, unless he can demonstrate
+that the conviction or sentence has previously been invalidated. Although
+holding that a judgment for respondent would necessarily imply the invalidity
+of his disciplinary hearing and the resulting sanctions, the court did
+not dismiss the suit, but stayed it pending filing and resolution of a
+state court action for restoration of the good time credits. The Ninth
+Circuit reversed, holding that a claim challenging only the procedures
+used in a disciplinary hearing is always cognizable under §1983.
+Held:
+1. Respondent's claim for declaratory
+relief and money damages is not cognizable under §1983. The principle
+relied on by the Ninth Circuit--that a claim seeking damages only for using
+the wrong procedures, not for reaching the wrong result, is always cognizable
+under §1983--is incorrect, since it disregards the possibility, clearly
+envisioned by Heck, supra, at 482-483, 486-487, and n. 6, that the
+nature of the challenge to the procedures could be such as necessarily
+to imply the invalidity of the judgment. If established, respondent's allegations
+of deceit and bias by the hearing officer at his disciplinary proceeding
+would necessarily imply the invalidity of the deprivation of his good time
+credits. Cf., e.g., Tumey v. Ohio, 273
+U.S. 510, 535. His contrary contention, which is based on Washington's
+"some or any evidence" standard, is rejected. Pp. 2-7.
+2. Although a prayer for prospective injunctive relief ordinarily
+will not "necessarily imply" the invalidity of a previous loss of good
+time credits, and so may properly be brought under §1983, respondent's
+claim for such relief must be remanded because it was not considered by
+either lower court, and its validity was neither briefed nor argued here.
+P. 7.
+3. The District Court erred in staying this §1983 action. That
+court was mistaken in its view that once respondent had exhausted his state
+remedies, the action could proceed. Section 1983 contains no judicially
+imposed exhaustion requirement, Heck, supra, at 481, 483; absent
+some other bar to the suit, a claim either is cognizable under §1983
+and should immediately go forward, or is not cognizable and should be dismissed.
+Pp. 7.
+70 F. 3d 1277,
+reversed and remanded.
+Scalia, J., delivered the opinion
+for a unanimous Court. Ginsburg, J., filed a concurring opinion, in which
+Souter and Breyer, JJ., joined.

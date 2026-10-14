@@ -1,0 +1,5 @@
+# Edwards form before assignment
+
+One signed plenary Opinion of the Court, common to all nine. Apply the operative controlling Heck prerequisite, deferred accrual and independent-injury boundary without demanding renewed agreement in Heck Part II's disputed statutory-coordination rationale. Invalidity-dependent deceit/bias claims require qualifying invalidation and dismissal without prejudice; genuinely separable procedural theories and prospective date stamping remain for claim-specific ordinary adjudication. No automatic stay, habeas conversion, universal former-prisoner rule or merits award follows. Preserve ordinary independently authorized stays as distinct from imposing state exhaustion.
+
+All nine support the complete governing propositions, legal limits and reverse/remand disposition. No new separate writing is necessary because the common text expressly preserves the genuine statement-of-reasons/independent-injury qualification and existing Heck claimant-category reservation. The Chief assigns. Form and scope are fixed before the fresh actual-table recount; no opinion division or proposition addition is used to alter counts.

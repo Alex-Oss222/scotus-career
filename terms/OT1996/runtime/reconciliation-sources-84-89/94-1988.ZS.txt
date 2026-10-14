@@ -1,0 +1,116 @@
+Camps Newfound/Owatonna, Inc. v. Town of Harrison, 520 U.S. 564 (1997)
+LII
+Supreme Court
+Camps Newfound/Owatonna, Inc. v. Town of Harrison (94-1988), 520 U.S. 564 (1997).
+Syllabus
+Dissent
+[ Scalia ]Dissent
+[ Thomas ]Opinion
+[ Stevens ]HTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect version
+(Bench Opinion)
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+CAMPS NEWFOUND/OWATONNA, INC. v. TOWN OF HARRISON et al.
+certiorari to the supreme judicial court of maine
+No. 94-1988. Argued October 9, 1996 -- Decided May 19, 1997
+Petitioner, a Maine nonprofit corporation, operates a church camp for
+children, most of whom are not Maine residents. Petitioner is financed through camper tuition and other revenues. From 1989 to
+1991, it paid over $20,000 per year in real estate and personal property taxes. A state statute provides a general exemption from those
+taxes for charitable institutions incorporated in Maine. With respect
+to institutions operated principally for the benefit of Maine nonresidents, however, a charity may only qualify for a more limited tax
+benefit, and then only if its weekly charge for services does not exceed
+$30 per person. Petitioner was ineligible for any exemption, because
+its campers were largely nonresidents and its weekly tuition was
+roughly $400 per camper. After respondent Town rejected its request
+for a refund of taxes already paid and a continuing exemption from
+future taxes, which was based principally on a claim that the tax
+exemption statute violated the Commerce Clause, petitioner filed suit
+and was awarded summary judgment by the Superior Court. The
+Maine Supreme Judicial Court reversed, holding that petitioner had
+not met its burden of persuasion that the statute is unconstitutional.
+Held: An otherwise generally applicable state property tax violates the
+Commerce Clause if its exemption for property owned by charitable
+institutions excludes organizations operated principally for the benefit
+of nonresidents. Pp. 5-31.
+(a) Because the Government lacked power to regulate interstate
+commerce during the Nation's first years, the States freely adopted
+measures fostering local interests without regard to possible prejudice
+to nonresidents, resulting in a "conflict of commercial regulations,
+destructive to the harmony of the States." Gibbons v. Ogden, 9
+Wheat. 1, 224 (Johnson, J., concurring in judgment). Arguably, thiswas the cause of the Constitutional Convention. Ibid. The Commerce
+Clause not only granted Congress express authority to override restrictive and conflicting state commercial regulations, but also effected
+a curtailment of state power even absent congressional legislation.
+Pp. 5-7.
+(b) The Court is unpersuaded by the Town's arguments that the
+dormant Commerce Clause is inapplicable here, either because campers are not "articles of commerce," or more generally because interstate commerce is not implicated. The camp is unquestionably engaged in commerce, not only as a purchaser, see e.g., Katzenbach v.
+McClung, 379 U.S. 294, 300-301, but also as a provider of goods and
+services akin to a hotel, see, e.g., Heart of Atlanta Motel, Inc. v.
+United States, 379 U.S. 241, 244, 258. Although the latter case
+involved Congress' affirmative powers, its reasoning is applicable in
+the dormant Commerce Clause context. See, e.g., Hughes v. Oklahoma, 441 U.S. 322, 326, n. 2. The Town's further argument that
+the dormant Clause is inapplicable because a real estate tax is at
+issue is also rejected. Even assuming, as the Town argues, that
+Congress could not impose a national real estate tax, States are not
+free to levy such taxes in a manner that discriminates against interstate commerce. Pennsylvania v. West Virginia, 262 U.S. 553, 596.
+Pp. 7-10.
+(c) There is no question that if this statute targeted profit making
+entities, it would violate the dormant Commerce Clause. The statute
+discriminates on its face against interstate commerce: It expressly
+distinguishes between entities that serve a principally interstate
+clientele and those that primarily serve an intrastate market, singling
+out camps that serve mostly in staters for beneficial tax treatment,
+and penalizing those camps that do a principally interstate business.
+Such laws are virtually per se invalid. E.g., Fulton Corp. v. Faulkner,
+516 U. S. ___, ___. Because the Town did not attempt to defend the
+statute by demonstrating that it advances a legitimate local purpose
+that cannot be adequately served by reasonable nondiscriminatory
+alternatives, e.g., Oregon Waste Systems, Inc. v. Department of Environmental Quality of Ore., 511 U.S. 93, 101, the Court does not
+address this question. See Fulton Corp., 516 U. S., at ___. Pp. 10-18.
+(d) The rule applicable to profit making enterprises also applies to
+a discriminatory tax exemption for charitable and benevolent institutions. The dormant Commerce Clause's applicability to the nonprofit
+sector follows from this Court's decisions holding not for profit institutions subject to laws regulating commerce, e.g., Associated Press v.
+NLRB, 301 U.S. 103, 129, and to the federal antitrust laws, e.g.,
+National Collegiate Athletic Assn. v. Board of Regents of Univ. of
+Okla., 468 U.S. 85, 100, n. 22. The Court has already held that thedormant Clause applies to activities not intended to earn a profit,
+Edwards v. California, 314 U.S. 160, 172, n. 1, and there is no
+reason why an enterprise's nonprofit character should exclude it from
+the coverage of either the affirmative or the negative aspect of the
+Clause, see e.g., Hughes v. Oklahoma, 441 U.S. 322, 326, n. 2.
+Whether operated on a for profit or nonprofit basis, camps such as
+petitioner's purchase goods and services in competitive markets, offer
+their facilities to a variety of patrons, and derive revenues from a
+variety of local and out of state sources. Any categorical distinction
+on the basis of profit is therefore wholly illusory. Pp. 18-24.
+(e) The Town's arguments that the exemption statute should be
+viewed as either a legitimate discriminatory subsidy of those charities
+that focus on local concerns, see, e.g., West Lynn Creamery Corp. v.
+Healy, 512 U.S. 186, 199, or alternatively as a governmental "purchase" of charitable services falling within the narrow exception to the
+dormant Commerce Clause for States in their role as "market participants," see, e.g., Hughes v. Alexandria Scrap Corp., 426 U.S. 794;
+Reeves, Inc. v. Stake, 447 U.S. 429, are unpersuasive. Although tax
+exemptions and subsidies serve similar ends, they differ in important
+and relevant respects that preclude approval of the statute at issue.
+See, e.g., West Lynn, 512 U. S., at 269, 278 (Scalia, J., concurring in
+judgment). As for the "market participant" argument, the Court has
+already rejected the Town's position in New Energy Co. of Ind. v.
+Limbach, 486 U.S. 269, 277, and in any event respondents' open ended exemption is not analogous to the industry specific state actions
+approved in Alexandria Scrap and Reeves. Pp. 24-30.
+(f) This case's facts, viewed in isolation, do not appear to pose any
+threat to the national economy's health. Nevertheless, history, including the history of commercial conflict that preceded the Constitutional
+Convention as well as the uniform course of Commerce Clause jurisprudence animated and enlightened by that early history, has shown
+that even the smallest discrimination invites significant inroads on
+national solidarity. See Baldwin v. G. A. F. Seelig, Inc., 294 U.S. 511, 523. P. 31.
+655 A. 2d 876, reversed.
+Stevens, J., delivered the opinion of the Court, in which O'Connor,
+Kennedy, Souter, and Breyer, JJ., joined. Scalia, J., filed a
+dissenting opinion, in which Rehnquist, C. J., and Thomas and
+Ginsburg, JJ., joined. Thomas, J., filed a dissenting opinion, in which
+Scalia, J., joined, and in which Rehnquist, C. J., joined as to Part I.

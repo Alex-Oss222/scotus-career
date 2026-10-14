@@ -1,0 +1,1122 @@
+{
+  "target_event_date": "1997-05-27",
+  "target_case_name": "Clinton v. Jones",
+  "method": "Fresh actual-topology author recount; one signed plenary lead per included Record; each delivering Justice once; date then alphabetical case ordering; no prior assignment tally reused",
+  "counts": {
+    "Stone-Zsela": 9,
+    "Stevens": 9,
+    "O'Connor": 9,
+    "Scalia": 8,
+    "Kennedy": 9,
+    "Souter": 9,
+    "Thomas": 8,
+    "Ginsburg": 9,
+    "Breyer": 9
+  },
+  "qualifying_opinions": 79,
+  "last_counted": {
+    "record": "church-on-the-rock-v-city-of-albuquerque-merits-1997-05-27.md",
+    "case": "Church on the Rock v. City of Albuquerque",
+    "date": "1997-05-27",
+    "authors": [
+      "Stone-Zsela"
+    ],
+    "author_evidence": [
+      "| Opinion of the Court | Stone-Zsela | Stevens, O'Connor, Souter, Ginsburg, Breyer | Supports the judgment | Entire opinion |",
+      "| Opinion of the Court, partial joins | Stone-Zsela | Scalia, Kennedy, Thomas | Concur in the judgment and the joined grounds | Parts I, II and IV; not Part III |"
+    ],
+    "topology_sha256": "c17b61a987ed8874890bc304c74ec28c50e0dca80fa6b170e3232b5261d85c2c"
+  },
+  "counted": [
+    {
+      "record": "Department_of_State_v_Legal_Assistance_for_Vietnamese_Asylum_Seekers_post_grant_remand_1996-10-21.md",
+      "case": "Department of State v. Legal Assistance for Vietnamese Asylum Seekers, Inc.",
+      "date": "1996-10-21",
+      "authors": [
+        "Stevens"
+      ],
+      "author_evidence": [
+        "Stevens delivers the opinion of the Court"
+      ],
+      "topology_sha256": "0c1fa06426f384ac2b50a8961af844decf473b8c43d2b1c9ec128c7daae18ffe"
+    },
+    {
+      "record": "Lopez_v_Monterey_County_merits_1996-11-06.md",
+      "case": "Lopez v. Monterey County",
+      "date": "1996-11-06",
+      "authors": [
+        "Kennedy"
+      ],
+      "author_evidence": [
+        "Kennedy delivers the opinion of the Court"
+      ],
+      "topology_sha256": "6e7941e5f631635fc2c8650007614d1c84ecfbea3dbffcc0586d93be1de7eb73"
+    },
+    {
+      "record": "INS_v_Yueh_Shaio_Yang_merits_1996-11-13.md",
+      "case": "INS v. Yueh-Shaio Yang",
+      "date": "1996-11-13",
+      "authors": [
+        "Souter"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer in full; Stone-Zsela in Parts II and III and the disposition | Part I supplies the eight-Justice review rationale; Parts II and III state the unanimous permissible-factor and policy rules. |"
+      ],
+      "topology_sha256": "70924e87a2b80c914c5e38bd08abf09d5d3235aaa584ffe2f4732d77e2227d24"
+    },
+    {
+      "record": "Ohio_v_Robinette_merits_1996-11-18.md",
+      "case": "Ohio v. Robinette",
+      "date": "1996-11-18",
+      "authors": [
+        "O'Connor"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | O'Connor | Scalia, Kennedy, Souter, Thomas, Breyer | Reversal and remand | Entire opinion: Parts I\u2013IV |"
+      ],
+      "topology_sha256": "b033dffc507ef96e62eda6ef5314b9750094b1ad23ec231a16bacc99362d1386"
+    },
+    {
+      "record": "Hopwood_v_Texas_merits_1996-11-25.md",
+      "case": "Hopwood v. Texas",
+      "date": "1996-11-25",
+      "authors": [
+        "O'Connor"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court, Part I | O\u2019Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Nine-Justice narrow actual-process invalidity and equal-competition injury; state strict scrutiny. |",
+        "| Opinion of the Court, Part II | O\u2019Connor | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | Six-Justice affirmative educational-diversity rule and actual Bakke treatment. Kennedy concurs only in vacating the categorical direction. |",
+        "| Opinion of the Court, Part III | O\u2019Connor | Stone-Zsela, Stevens, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight-Justice continuing-duty/unit rule and claim-linked further inquiry. Scalia does not join. |",
+        "| Opinion of the Court, Parts IV-A, IV-B and IV-C | O\u2019Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight-Justice causation/preponderance rule; Title VI intent; complete punitive standard and bounded denial. Stone-Zsela agrees with the respective dispositions only. |",
+        "| Opinion of the Court, Parts IV-D and V | O\u2019Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Nine-Justice source-specific remedial reservations, retained broad-injunction refusal and limits on future-program directions. |"
+      ],
+      "topology_sha256": "adee66a8903599da1b15499745193ede382f598a1828acb84dcf9ce8e596814f"
+    },
+    {
+      "record": "Tyler_Murray_v_Montrose_County_School_District_merits_1996-12-02.md",
+      "case": "Tyler Murray v. Montrose County School District RE-1J",
+      "date": "1996-12-02",
+      "authors": [
+        "Scalia"
+      ],
+      "author_evidence": [
+        "Scalia delivers the opinion of the Court"
+      ],
+      "topology_sha256": "c54019b66b746beab558b0922ea044b18ddb44bd5b3094addabaa3824e5a48fe"
+    },
+    {
+      "record": "Humane_Society_v_Babbitt_merits_1996-12-09.md",
+      "case": "Humane Society v. Babbitt",
+      "date": "1996-12-09",
+      "authors": [
+        "Souter"
+      ],
+      "author_evidence": [
+        "Souter delivers the opinion of the Court"
+      ],
+      "topology_sha256": "52fbc2d222d719b9753261b12f49d67cf1a42d3ea34254e6b9d3e3acedb75ac8"
+    },
+    {
+      "record": "In_re_Askin_merits_1996-12-09.md",
+      "case": "In re Askin",
+      "date": "1996-12-09",
+      "authors": [
+        "Scalia"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Scalia | Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer in full | Parts I through V and the bounded implementing remand; eight-Justice controlling rationale throughout. |"
+      ],
+      "topology_sha256": "0a777dcadad4618146a0d668fcb53a0802728da1aa504e414c1c3a16b3d4974d"
+    },
+    {
+      "record": "Caterpillar_v_Lewis_merits_1996-12-10.md",
+      "case": "Caterpillar Inc. v. Lewis",
+      "date": "1996-12-10",
+      "authors": [
+        "O'Connor"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court, Parts I\u2013II | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Earlier preserved removal error and actual pretrial jurisdiction; unanimous reasoning |",
+        "| Opinion of the Court, Part III | O'Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Reasons for returning the five undecided appellate issues; the Chief Justice agrees with that disposition only |"
+      ],
+      "topology_sha256": "c766fc071819680f1f80aba89a1b6a9382219fbedfdeca879d586d60e889d3cd"
+    },
+    {
+      "record": "Ogilvie_v_United_States_merits_1996-12-10.md",
+      "case": "O'Gilvie v. United States",
+      "date": "1996-12-10",
+      "authors": [
+        "Stevens"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court, Part I | Stevens | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Father's appeal is timely; all nine reach its tax merits. |",
+        "| Opinion of the Court, Parts II\u2013III and mandate | Stevens | Stone-Zsela, Kennedy, Souter, Ginsburg, Breyer | Tax inclusion, children's receipt rule and affirmance of both judgments. |"
+      ],
+      "topology_sha256": "797a8fb452584a175bc680ae21407088e5c5d6541ba35104c3b4dfe7eae9c0a8"
+    },
+    {
+      "record": "MLB_v_SLJ_merits_1996-12-16.md",
+      "case": "M.L.B. v. S.L.J.",
+      "date": "1996-12-16",
+      "authors": [
+        "O'Connor"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court, Part I and mandate | O'Connor | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | Bounded access rule, due-process/equality rationale, adequate-record qualification and reversal/remand. |",
+        "| Opinion of the Court, Part II | O'Connor | Stevens, Souter, Ginsburg, Breyer | Prospective burden on the State to establish a sufficient alternative after a colorable need for a full transcript; Stone-Zsela does not join this additional proposition. |"
+      ],
+      "topology_sha256": "5f7cf338c04d2cac7eab30820d4e74828e6c74a5611d60cb2d62690c3495cbf6"
+    },
+    {
+      "record": "United_States_v_Sahhar_merits_1996-12-16.md",
+      "case": "United States v. Sahhar",
+      "date": "1996-12-16",
+      "authors": [
+        "Souter"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court, Parts I and III | Souter | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | No automatic criminal-sentence cap, continuing lawful predicates, state-placement duties and bounded affirmance/remand. |",
+        "| Opinion of the Court, Parts II, IV and V | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Separate equality analysis, precise statutory categories, initial commitment and discharge burdens, release and review mechanisms. |"
+      ],
+      "topology_sha256": "5b6609f2097324b79eefc4cb27ac9b27e6ccd4182f8b40b127afeabcc6ea6748"
+    },
+    {
+      "record": "DeAngelis_v_El_Paso_Association_merits_1997-01-06.md",
+      "case": "DeAngelis v. El Paso Municipal Police Officers' Association",
+      "date": "1997-01-06",
+      "authors": [
+        "O'Connor"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court, Part I | O'Connor | Scalia, Kennedy, Souter, Thomas, Breyer | Statutory hostile-environment insufficiency; six direct joins |",
+        "| Opinion of the Court, Part II | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Retaliation insufficiency; unanimous |"
+      ],
+      "topology_sha256": "9583f44fa69fa00743978a2d09ead0b3cfa9ef7af3a7df05eb900d48550e12e3"
+    },
+    {
+      "record": "Old_Chief_v_United_States_merits_1997-01-07.md",
+      "case": "Old Chief v. United States",
+      "date": "1997-01-07",
+      "authors": [
+        "Ginsburg"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court, Part I | Ginsburg | Stone-Zsela, Stevens, Kennedy, Souter, Breyer | Rule 403 error, adequate-status-proof limits and reversal of the no-error appellate judgment; six direct joins |",
+        "| Opinion of the Court, Part II | Ginsburg | Stevens, Kennedy, Souter, Breyer | Harmlessness remand and its conditional trial consequences; five direct joins |"
+      ],
+      "topology_sha256": "975c4fe543c15a16ec1093ca0ac630b3b9e0be375c47b28df28474317db66a38"
+    },
+    {
+      "record": "Walmer_v_Department_of_Defense_merits_1997-01-13.md",
+      "case": "Walmer v. Department of Defense",
+      "date": "1997-01-13",
+      "authors": [
+        "O'Connor"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court, Part I | O'Connor | Scalia, Kennedy, Thomas, Breyer | Ordinary rational-basis application and affirmance of the equality-based preliminary denial; five direct joins |",
+        "| Opinion of the Court, Part II | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Executive regulation lacks the legislative predicate for attainder; unanimous, punishment reserved |"
+      ],
+      "topology_sha256": "a0a5583edf39ae9fefa1fec73c3b64852fee8293ac7d3db343489fd504c02993"
+    },
+    {
+      "record": "Abebe_Jira_v_Negewo_merits_1997-01-14.md",
+      "case": "Abebe-Jira v. Negewo",
+      "date": "1997-01-14",
+      "authors": [
+        "Stevens"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Stevens | O'Connor, Kennedy, Souter, Ginsburg and Breyer | Affirmance of both damages components | Parts I\u2013V in full |",
+        "| Same opinion | Stevens | Stone-Zsela | Affirmance of both damages components | Parts I\u2013III and V; Part IV's punitive authority and deliberate-personal-torture application, excluding its equivalently reckless aggravation formulation |",
+        "| Same opinion | Stevens | Scalia and Thomas | Agreement on distinct jurisdiction and political-question conclusions; disagreement with damages judgment | Parts I and V only |"
+      ],
+      "topology_sha256": "2fd4dd3b8d7da3e319fd8a34738e430ced2d25d66567d108f159222db1a6f6ff"
+    },
+    {
+      "record": "Atherton_v_FDIC_merits_1997-01-14.md",
+      "case": "Atherton v. Federal Deposit Insurance Corporation",
+      "date": "1997-01-14",
+      "authors": [
+        "Scalia"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Scalia | Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer | Vacatur and remand | Parts I\u2013IV |",
+        "| Same opinion | Scalia | Stone-Zsela | Vacatur and remand; agrees to reach the merits | Parts II\u2013IV; does not join Part I's procedural explanation |"
+      ],
+      "topology_sha256": "4e998aa086d453b135e1a0c3993762a2aa7f7aad823231200515974566ccb9ca"
+    },
+    {
+      "record": "Castano_v_American_Tobacco_Co_merits_1997-01-14.md",
+      "case": "Castano v. American Tobacco Co.",
+      "date": "1997-01-14",
+      "authors": [
+        "Ginsburg"
+      ],
+      "author_evidence": [
+        "Ginsburg delivers the Opinion of the Court"
+      ],
+      "topology_sha256": "0357c941a75d33858b78c05bd72097bf3ee8dc38371499c13cc4e70f34eda7d0"
+    },
+    {
+      "record": "Chamber_of_Commerce_v_Reich_merits_1997-01-14.md",
+      "case": "Chamber of Commerce v. Reich",
+      "date": "1997-01-14",
+      "authors": [
+        "Kennedy"
+      ],
+      "author_evidence": [
+        "Kennedy delivers the Opinion of the Court"
+      ],
+      "topology_sha256": "21a6cd328eb1672a3cc90c87467be64ebabbf0055de8cb161ad8b924bc4a1d16"
+    },
+    {
+      "record": "In_re_Deuel_merits_1997-01-14.md",
+      "case": "In re Deuel",
+      "date": "1997-01-14",
+      "authors": [
+        "O'Connor"
+      ],
+      "author_evidence": [
+        "O'Connor delivers the Opinion of the Court"
+      ],
+      "topology_sha256": "af21b5b4bf8b4cb508d2073c007b02a70d54b1ba43f78ad2fc7c17903c717645"
+    },
+    {
+      "record": "Walters_v_Metropolitan_Educational_Enterprises_merits_1997-01-14.md",
+      "case": "Walters v. Metropolitan Educational Enterprises, Inc.",
+      "date": "1997-01-14",
+      "authors": [
+        "Souter"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer | Retaliation reversal/remand and undisturbed promotion dismissal | Parts I\u2013IV in full |",
+        "| Same opinion | Souter | Stone-Zsela | Same component dispositions | Parts I\u2013II and Part IV's retaliation reversal/remand ground; disposition-only agreement with Part III and Part IV's promotion component |"
+      ],
+      "topology_sha256": "ea8291f2403eb19609a123a39297348d221b985c00b0fb689e207b1753918150"
+    },
+    {
+      "record": "Babbitt_v_Youpee_merits_1997-01-21.md",
+      "case": "Babbitt v. Youpee",
+      "date": "1997-01-21",
+      "authors": [
+        "O'Connor"
+      ],
+      "author_evidence": [
+        "O'Connor delivers the opinion of the Court"
+      ],
+      "topology_sha256": "2856f382ddc3e02ba21a762fb9f8106a51605603e06c881477f08a5adeeb791b"
+    },
+    {
+      "record": "Curtis_v_School_Committee_of_Falmouth_merits_1997-01-21.md",
+      "case": "Elizabeth G. Curtis v. School Committee of Falmouth",
+      "date": "1997-01-21",
+      "authors": [
+        "Souter"
+      ],
+      "author_evidence": [
+        "Souter delivers the opinion of the Court"
+      ],
+      "topology_sha256": "8cfa3ecef2950966c5831953f41b1b2170bb70451a9bf46a820f3abac5f86387"
+    },
+    {
+      "record": "ProCD_v_Zeidenberg_merits_1997-01-27.md",
+      "case": "ProCD, Inc. v. Zeidenberg",
+      "date": "1997-01-27",
+      "authors": [
+        "Ginsburg"
+      ],
+      "author_evidence": [
+        "Ginsburg delivers the Opinion of the Court"
+      ],
+      "topology_sha256": "6128d849b3575e20ea60df1fc125dc1395b61419bb9ec145333c2e762d104b74"
+    },
+    {
+      "record": "California_Division_of_Labor_Standards_Enforcement_v_Dillingham_merits_1997-02-18.md",
+      "case": "California Division of Labor Standards Enforcement v. Dillingham Construction, N.A., Inc.",
+      "date": "1997-02-18",
+      "authors": [
+        "Souter"
+      ],
+      "author_evidence": [
+        "Souter writes the opinion of the Court"
+      ],
+      "topology_sha256": "c1f998a8c0e60bd68937056b85c7d24a9325dab100d8b39f048bad87a35d20ae"
+    },
+    {
+      "record": "FEC_v_Legi_Tech_merits_1997-02-18.md",
+      "case": "Federal Election Commission v. Legi-Tech, Inc.",
+      "date": "1997-02-18",
+      "authors": [
+        "Thomas"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court, Parts I and II | Thomas | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer | Actual lawful cure, retroactivity and remedy, and affirmance |"
+      ],
+      "topology_sha256": "81c01fa292d177c08df14ca459a58d277a7698909c468d384d4df563602f059c"
+    },
+    {
+      "record": "General_Motors_v_Tracy_merits_1997-02-18.md",
+      "case": "General Motors Corp. v. Tracy",
+      "date": "1997-02-18",
+      "authors": [
+        "Souter"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court, Part I | Souter | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Unanimous purchaser-standing rule |",
+        "| Opinion of the Court, Parts II and III | Souter | O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Commerce Clause and equal-protection grounds for affirmance |"
+      ],
+      "topology_sha256": "e3bc7995f760294a88e6e95a4644ebee037c2a08cd162c9718d5aabecf590140"
+    },
+    {
+      "record": "Ingalls_Shipbuilding_v_Director_OWCP_merits_1997-02-18.md",
+      "case": "Ingalls Shipbuilding, Inc. v. Director, Office of Workers' Compensation Programs",
+      "date": "1997-02-18",
+      "authors": [
+        "O'Connor"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court, Part I | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Unanimous compensation holding |",
+        "| Opinion of the Court, Part II | O'Connor | Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg, Breyer | Seven-Justice respondent-status holding |"
+      ],
+      "topology_sha256": "2da3b94effa6afcce229c3cd879558399e9b9ffb21291c2c1d0019d5d0ecc687"
+    },
+    {
+      "record": "Robinson_v_Shell_Oil_merits_1997-02-18.md",
+      "case": "Robinson v. Shell Oil Co.",
+      "date": "1997-02-18",
+      "authors": [
+        "Souter"
+      ],
+      "author_evidence": [
+        "Souter delivers the Opinion of the Court"
+      ],
+      "topology_sha256": "802e80778f03dbf9ba2dc60963f0061f753848b7673a1e1da28f44a79e6339c3"
+    },
+    {
+      "record": "Uhlrig_v_Harder_merits_1997-02-18.md",
+      "case": "Uhlrig v. Harder",
+      "date": "1997-02-18",
+      "authors": [
+        "Breyer"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Breyer | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Qualified-immunity rule and application alone; affirms on the estate's supported favorable account |"
+      ],
+      "topology_sha256": "66c4d709ba519be75699e93d7525335db6df6891761209f4ed47ea61c6e8133a"
+    },
+    {
+      "record": "United_States_v_Brockamp_merits_1997-02-18.md",
+      "case": "United States v. Brockamp and United States v. Scott",
+      "date": "1997-02-18",
+      "authors": [
+        "Breyer"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court, Parts I and II and Part III's Scott disposition | Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Filing, independent amount rule and Scott reversal/remand |",
+        "| Opinion of the Court, Part III's deposit-remand explanation | Breyer | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Preserves Brockamp's deposit alternative; Stone-Zsela agrees with this component's disposition without joining its reasons |"
+      ],
+      "topology_sha256": "d5b0158099b7aedccc6fdf0e527b4a78331642081780a23e1f1a7b606e1b6dbb"
+    },
+    {
+      "record": "Auer_v_Robbins_merits_1997-02-19.md",
+      "case": "Auer v. Robbins",
+      "date": "1997-02-19",
+      "authors": [
+        "Kennedy"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court, Parts I and III | Kennedy | Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Non-arm status and governing controlling-weight interpretation; the Chief Justice does not join these grounds |",
+        "| Opinion of the Court, Parts II, IV and V | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Validity, practical-exposure construction/application, correction and conditional affirmance |"
+      ],
+      "topology_sha256": "c954d72138521a9d4f48c07bbbbbbf306ea43db08f63ff5748321e391de694c0"
+    },
+    {
+      "record": "Lynce_v_Mathis_threshold_1997-02-19.md",
+      "case": "Lynce v. Mathis",
+      "date": "1997-02-19",
+      "authors": [
+        "Thomas"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Thomas | Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer | Supports threshold-only vacatur and remand | Entire threshold opinion, including the exact concession, intervening-law and remedial limits; no Ex Post Facto merits holding |"
+      ],
+      "topology_sha256": "6a17897d90fded9ee3dede2669dab725991b7e7efd4786f3a643a591a08023ff"
+    },
+    {
+      "record": "Maryland_v_Wilson_merits_1997-02-19.md",
+      "case": "Maryland v. Wilson",
+      "date": "1997-02-19",
+      "authors": [
+        "Thomas"
+      ],
+      "author_evidence": [
+        "Thomas delivers the Opinion of the Court"
+      ],
+      "topology_sha256": "27eb26d36541809eff13ff00499a16d32d0e070b2729588830a5ed92b55755f6"
+    },
+    {
+      "record": "Regents_v_Doe_merits_1997-02-19.md",
+      "case": "Regents of the University of California v. Doe",
+      "date": "1997-02-19",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "author_evidence": [
+        "Stone-Zsela delivers the Opinion of the Court"
+      ],
+      "topology_sha256": "f3a6c33a143654b3a7a84aacebc94a75a44183c10d177bc81c4f84dbfd1f70e2"
+    },
+    {
+      "record": "Schenck_v_Pro_Choice_Network_merits_1997-02-19.md",
+      "case": "Schenck v. Pro-Choice Network of Western New York",
+      "date": "1997-02-19",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court in full | Stone-Zsela | Stevens, O'Connor, Souter and Ginsburg | Full five-Justice coalition: Stone-Zsela, Stevens, O'Connor, Souter and Ginsburg; all controlling portions |",
+        "| Court opinion's responsible-party, notice and actual-concert coverage boundary | Stone-Zsela | Breyer, Scalia, Kennedy and Thomas additionally | All nine join this boundary; agreement does not resolve whether the fixed or mobile restrictions are sufficiently tailored |",
+        "| Court opinion's fixed-access and in-zone counseling holdings | Stone-Zsela | Breyer additionally | Six direct joins sustaining those components |",
+        "| Court opinion's moving-person, moving-vehicle and dependent-removal holdings | Stone-Zsela | Scalia, Kennedy and Thomas additionally | Eight direct joins invalidating mobile relief and removing the dependent distance |"
+      ],
+      "topology_sha256": "f2f6e982d6d029c35f67a4aa56340db8ecafe5ce118905b34068077713eb0aa6"
+    },
+    {
+      "record": "Brown_v_Hot_Sexy_Safer_Productions_merits_1997-02-24.md",
+      "case": "Brown v. Hot, Sexy & Safer Productions, Inc.",
+      "date": "1997-02-24",
+      "authors": [
+        "Ginsburg"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Ginsburg | Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer | All nine join the three granted holdings and affirmance; no controlling merits ruling on distinct ungranted claims |"
+      ],
+      "topology_sha256": "8e60e0959e6c5052a3fe3598bf0e23d3d9ce25f78e0721c1ef202da69bf80b53"
+    },
+    {
+      "record": "Dunn_v_CFTC_merits_1997-02-25.md",
+      "case": "Dunn v. Commodity Futures Trading Commission",
+      "date": "1997-02-25",
+      "authors": [
+        "Scalia"
+      ],
+      "author_evidence": [
+        "Scalia delivers the Opinion of the Court"
+      ],
+      "topology_sha256": "fe596129e918358c4efac0fcaa6a0fc25b80660d6594f6b6db3f8e0c35b01016"
+    },
+    {
+      "record": "Andrade_v_Mayfair_Management_Inc_merits_1997-02-26.md",
+      "case": "Andrade v. Mayfair Management, Inc.",
+      "date": "1997-02-26",
+      "authors": [
+        "Breyer"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg | All holdings and the judgment in full. |"
+      ],
+      "topology_sha256": "e0e7489972f3db432a1ca09e0612b3511303088e68cbbb2f4d6f4b5fc8136a3c"
+    },
+    {
+      "record": "In_re_Rhone_Poulenc_Rorer_merits_1997-02-26.md",
+      "case": "In re Rhone-Poulenc Rorer",
+      "date": "1997-02-26",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Entire opinion and judgment. |"
+      ],
+      "topology_sha256": "17cbdb28f1b461a0d7d904e573f009f4a690bb688aa56bc60195ae4cbf0dfc6b"
+    },
+    {
+      "record": "United_States_v_Wells_merits_1997-02-26.md",
+      "case": "United States v. Wells",
+      "date": "1997-02-26",
+      "authors": [
+        "Thomas"
+      ],
+      "author_evidence": [
+        "| Court opinion, Part I: statutory reviewability | Thomas | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Unanimous bounded decision to reach the issue |",
+        "| Court opinion, Part II: no added materiality element and vacatur | Thomas | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight direct joins; Stevens opposes |",
+        "| Court opinion, Part III: acquittals and independent-issue limits | Thomas | All nine Justices | Stevens joins these limits while retaining his different new-trial route |"
+      ],
+      "topology_sha256": "f07efb79cd78341bb0b873752d95c8c706422df94a0e89e323b093cda24b6f53"
+    },
+    {
+      "record": "Arizonans_for_Official_English_v_Arizona_merits_1997-03-03.md",
+      "case": "Arizonans for Official English v. Arizona",
+      "date": "1997-03-03",
+      "authors": [
+        "Stevens"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Stevens | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Entire opinion and judgment. |"
+      ],
+      "topology_sha256": "29c2faa9d62879665f8ce281059b8df1907364beadf2172cc0fe1badba8fdae6"
+    },
+    {
+      "record": "United_States_v_Gonzales_merits_1997-03-03.md",
+      "case": "United States v. Gonzales",
+      "date": "1997-03-03",
+      "authors": [
+        "Kennedy"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Kennedy | Stone-Zsela, O'Connor, Scalia, Souter, Thomas and Ginsburg | All holdings and the vacatur/remand judgment. |"
+      ],
+      "topology_sha256": "6860dbde52976f229ae5dc9ed4aa48e756090c46b0736209d4ead81ce26df527"
+    },
+    {
+      "record": "Warner_Jenkinson_Co_v_Hilton_Davis_Chemical_Co_merits_1997-03-03.md",
+      "case": "Warner-Jenkinson Co. v. Hilton Davis Chemical Co.",
+      "date": "1997-03-03",
+      "authors": [
+        "Ginsburg"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Ginsburg | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer in full; Stone-Zsela except the objective-intent proposition | Eight direct joins on objective intent; nine on all other propositions, including the old-prosecution qualification, and the judgment. |"
+      ],
+      "topology_sha256": "afe49b9df0d07e67fa0363223131973f13e9e96043188631bae004526adef0d1"
+    },
+    {
+      "record": "Wright_v_MetroHealth_Medical_Center_merits_1997-03-03.md",
+      "case": "Wright v. MetroHealth Medical Center",
+      "date": "1997-03-03",
+      "authors": [
+        "Breyer"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg | Both federal holdings, corrected record application and limited affirmance. |"
+      ],
+      "topology_sha256": "3f253502bf23e27c5ab8cc9bc979a5cb15b13e733001bd979f535d4eaf581ea2"
+    },
+    {
+      "record": "Nabozny_v_Podlesny_merits_1997-03-10.md",
+      "case": "Nabozny v. Podlesny",
+      "date": "1997-03-10",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Supports every judgment component | Whole opinion |"
+      ],
+      "topology_sha256": "76434768ca78425d3364f36e6661b2d3cd66d527038eaafc8903b3b0e476bf74"
+    },
+    {
+      "record": "Brown_v_Polk_County_merits_1997-03-17.md",
+      "case": "Brown v. Polk County",
+      "date": "1997-03-17",
+      "authors": [
+        "Stevens"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Stevens | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Affirms reviewed judgment | Parts I\u2013IV |",
+        "| Same opinion, constitutional, accommodation and remedial portions | Stevens | Stone-Zsela | Affirms reviewed judgment | Parts I, II and IV; supports Part III\u2019s disposition without joining its reasons |"
+      ],
+      "topology_sha256": "48285d084e381b7be10836fd5be3030884cd503eb215fd43af1998cd78aa2068"
+    },
+    {
+      "record": "Commissioner_v_Estate_of_Hubert_merits_1997-03-18.md",
+      "case": "Commissioner v. Estate of Hubert",
+      "date": "1997-03-18",
+      "authors": [
+        "Kennedy"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Kennedy | Stone-Zsela, Stevens, O'Connor, Souter, Thomas, Ginsburg | Affirms both deductions | Whole confined opinion; material limitation and case-specific burden, without a valuation-date-only rule |"
+      ],
+      "topology_sha256": "e2a041e9e5890496f95d7aff895543a77022e5b6678e3ca742279aa13bda7e85"
+    },
+    {
+      "record": "Young_v_Harper_merits_1997-03-18.md",
+      "case": "Young v. Harper",
+      "date": "1997-03-18",
+      "authors": [
+        "Breyer"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Breyer | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Supports timely review and affirmance | Parts I\u2013IV in full |",
+        "| Same opinion, merits and remedy | Breyer | Stone-Zsela | Supports affirmance | Parts II\u2013IV; agrees with the timely-review resolution without joining Part I\u2019s rationale |"
+      ],
+      "topology_sha256": "2fe6fc6028d45426698dae56db48a34a4065ab4582043f0e1516619ee51fbe8c"
+    },
+    {
+      "record": "Bennett_v_Spear_merits_1997-03-19.md",
+      "case": "Bennett v. Spear",
+      "date": "1997-03-19",
+      "authors": [
+        "Scalia"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Scalia | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer | Reverses reviewed dismissal and remands | Whole opinion; NEPA dismissal outside review |"
+      ],
+      "topology_sha256": "012288fc8a7003c5fbf2c629724a30e39d3656f0a61be1afa9b1c693c4a70466"
+    },
+    {
+      "record": "Ingebretsen_v_Jackson_Public_School_District_merits_1997-03-19.md",
+      "case": "Ingebretsen v. Jackson Public School District",
+      "date": "1997-03-19",
+      "authors": [
+        "Ginsburg"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Ginsburg | Stevens, O'Connor, Souter, Breyer throughout; other joins below | Controlling portions supporting each judgment component | I standing; II sponsorship; III school pressure; IV relief; V-A intervention as of right; V-B permissive intervention |",
+        "| Same opinion, partial joins | Ginsburg | Stone-Zsela | Supports standing and injunction judgment; dissents from V-A judgment; agrees only with V-B judgment | I, II and IV; no III or V reasons |",
+        "| Same opinion, partial joins | Ginsburg | Kennedy | Supports every judgment component | I, III, IV and V; no II |",
+        "| Same opinion, partial joins | Ginsburg | Scalia, Thomas | Supports standing and intervention; dissents from retained injunction and graduation extension | I, V, and IV's independently stated protection of private speech and lawful provisions; no II, III or retained-restraint application |"
+      ],
+      "topology_sha256": "423245867f817df1d66a7bdb189bfdceffaa4b79374850bd64336e2db8b9ae5a"
+    },
+    {
+      "record": "Oncale_v_Sundowner_Offshore_Services_Inc_merits_1997-03-19.md",
+      "case": "Oncale v. Sundowner Offshore Services, Inc.",
+      "date": "1997-03-19",
+      "authors": [
+        "Thomas"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Thomas | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer | Unanimous reversal in relevant part and remand | All holdings and limitations |"
+      ],
+      "topology_sha256": "5f95029a08c260d3f1dc537d51f5c4f87a1c14ac2a20df04bd67069598d5a3e7"
+    },
+    {
+      "record": "Robinson_v_City_of_Edmond_merits_1997-03-31.md",
+      "case": "Robinson v. City of Edmond",
+      "date": "1997-03-31",
+      "authors": [
+        "Breyer"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Breyer | Stevens, O'Connor, Souter, Ginsburg throughout; other joins below | Affirms | I personal standing; II government attribution; III contextual effects; IV independent official-identification ground; V relief |",
+        "| Same opinion, partial join | Breyer | Stone-Zsela | Supports the entire judgment; agrees only with Part I's disposition | II\u2013V; no added ground on I |",
+        "| Same opinion, partial joins | Breyer | Scalia, Kennedy, Thomas | Supports the entire judgment on the narrower merits ground | I, II, IV and V; no III |"
+      ],
+      "topology_sha256": "f5c998949d0b0b08cfb87abc6429a3a195dcd8e0c9187d79773b1417450ccb18"
+    },
+    {
+      "record": "Turner_Broadcasting_System_Inc_v_FCC_merits_1997-03-31.md",
+      "case": "Turner Broadcasting System, Inc. v. Federal Communications Commission",
+      "date": "1997-03-31",
+      "authors": [
+        "Kennedy"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Kennedy | Stone-Zsela, Stevens, Souter, Breyer | Supports full-power affirmance | I scope; II preservation/diversity advancement; III fit and summary disposition |",
+        "| Same opinion, partial joins | Kennedy | O'Connor, Scalia, Thomas, Ginsburg | Agree with scope; dissent from core judgment | I only; no II or III |"
+      ],
+      "topology_sha256": "aa7d86a16b56b2443ee00dc824b42c1677f9fab3aca63f7bfb0e06ac127c3d0e"
+    },
+    {
+      "record": "United_States_v_Lanier_merits_1997-03-31.md",
+      "case": "United States v. Lanier",
+      "date": "1997-03-31",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Unanimous vacatur and remand | All controlling propositions and limits |"
+      ],
+      "topology_sha256": "7d4c06e46bc35bc7e9b43379e6edd5c09b1bd7d6a90fca40bc8b506e3cf3ec52"
+    },
+    {
+      "record": "Young_v_Fordice_merits_1997-03-31.md",
+      "case": "Young v. Fordice",
+      "date": "1997-03-31",
+      "authors": [
+        "Stevens"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Stevens | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Unanimous reversal and remand | All holdings and qualifications |"
+      ],
+      "topology_sha256": "a0d7f56763841ad47809da1f178005bf93fc5a61dec954b40525169177a619e7"
+    },
+    {
+      "record": "Opuku_Boateng_v_California_merits_1997-04-07.md",
+      "case": "Opuku-Boateng v. California",
+      "date": "1997-04-07",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | For the unanimous judgment | Entire opinion; every holding below |"
+      ],
+      "topology_sha256": "2f341d8db5421296f380fb3402b0d18f0fed0ab8c80e1e091e8543fbceccfe02"
+    },
+    {
+      "record": "Chandler_v_Miller_merits_1997-04-15.md",
+      "case": "Chandler v. Miller",
+      "date": "1997-04-15",
+      "authors": [
+        "Scalia"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Scalia | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer | For the unanimous judgment | Entire opinion; every holding below |"
+      ],
+      "topology_sha256": "0f11000e35cf31bd80817213573beb696bb88fb509c213ffde80670c02a06882"
+    },
+    {
+      "record": "Blessing_v_Freestone_merits_1997-04-21.md",
+      "case": "Blessing v. Freestone",
+      "date": "1997-04-21",
+      "authors": [
+        "Stevens"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Stevens | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | For the unanimous judgment | Entire opinion; every holding below |"
+      ],
+      "topology_sha256": "da5f06c179c4792297b99da7018360d80ea29b145908d800479f70b380ffab3b"
+    },
+    {
+      "record": "Kadic_and_Doe_v_Karadzic_merits_1997-04-21.md",
+      "case": "Kadic v. Karadzic",
+      "date": "1997-04-21",
+      "authors": [
+        "Ginsburg"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Ginsburg | Stevens, O'Connor, Kennedy, Souter, Breyer | Affirmance and remand of both actions | Parts I\u2013VIII in full |",
+        "| Same opinion | Ginsburg | Stone-Zsela | Affirmance and remand of both actions | Parts I\u2013VI; Part VII's general-immunity ruling; Part VIII's surviving federal actions and ordinary proof/remedial limits. Disposition only on Part VII's particular service application and Part VIII's supplemental-claim component. |",
+        "| Same opinion | Ginsburg | Scalia, Thomas | Concurrence in the common threshold and surviving-action remand; disagreement with new received actions | Parts I and IV\u2013VII; Part VIII's ordinary proof, relief and supplemental-claim principles, excluding its authorization of the additional Part II\u2013III actions. |"
+      ],
+      "topology_sha256": "c361940a911821ce03f19d60e5b2d9713adc0e8c6472518f1909ccca3cfe21bf"
+    },
+    {
+      "record": "Metropolitan_Life_v_Robertson_Ceco_merits_1997-04-21.md",
+      "case": "Metropolitan Life Insurance Co. v. Robertson-Ceco Corp.",
+      "date": "1997-04-21",
+      "authors": [
+        "Thomas"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Thomas | Stevens, O'Connor, Kennedy, Souter | Reversal and remand | Parts I\u2013IV in full |",
+        "| Same opinion | Thomas | Scalia | Reversal and remand | Parts I, II, III-B and IV; reserves Part III-A's invariably required separate inquiry |",
+        "| Same opinion | Thomas | Stone-Zsela | Agrees that constitutional dismissal must be removed and case remanded; would vacate rather than reverse | Part I's reasonable-period rule, Parts II\u2013III in full, Part IV's proof/defense/remand limits; judgment only on the discovery order; does not join formal reversal |",
+        "| Same opinion | Thomas | Ginsburg, Breyer | Agree with preserved discovery order; would affirm dismissal | Part I's reasonable-period and discovery-limit propositions only |"
+      ],
+      "topology_sha256": "709e7912cc376cbbea99cf79657e0a2fb2282010e8636a5af557f34f1d7fa7cf"
+    },
+    {
+      "record": "New_Mexico_Department_of_Human_Services_v_Joseph_A_merits_1997-04-21.md",
+      "case": "New Mexico Department of Human Services v. Joseph A. and Josephine A.",
+      "date": "1997-04-21",
+      "authors": [
+        "Thomas"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Thomas | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer | For the unanimous judgment | Entire opinion; every holding below |"
+      ],
+      "topology_sha256": "38ce7beaf772b624311bd736ee91dcfbc5132056e54e76132856e839ba0e45ab"
+    },
+    {
+      "record": "Pic_A_State_Pennsylvania_v_Reno_merits_1997-04-28.md",
+      "case": "Pic-A-State Pennsylvania, Inc. v. Reno",
+      "date": "1997-04-28",
+      "authors": [
+        "Kennedy"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Affirmance | Entire opinion; all three holdings and their qualifications |"
+      ],
+      "topology_sha256": "d58f151199e026ec476cd3d1db7b381d503e542b382708c50f8fd5b3fbc7db34"
+    },
+    {
+      "record": "Richards_v_Wisconsin_merits_1997-04-28.md",
+      "case": "Richards v. Wisconsin",
+      "date": "1997-04-28",
+      "authors": [
+        "Breyer"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Breyer | Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg; Stone-Zsela and Scalia except Part III | Affirmance | All nine join I, II and IV; seven Associates join III |"
+      ],
+      "topology_sha256": "d262b4a9a65c77fdface6cad53796ef3ea63e6962875bd7fd284b42e373d6dfe"
+    },
+    {
+      "record": "Strate_v_A_1_Contractors_merits_1997-04-28.md",
+      "case": "Strate v. A-1 Contractors",
+      "date": "1997-04-28",
+      "authors": [
+        "Scalia"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Scalia | Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer; Stone-Zsela in I, III and IV | Affirmance and bounded remedial disposition | Eight Associates join all parts; all nine join I, III and IV |"
+      ],
+      "topology_sha256": "be4c0675095940396818fa2d709214bb0a92bd7b64d41c285c18eda496a7c761"
+    },
+    {
+      "record": "Timmons_v_Twin_Cities_Area_New_Party_merits_1997-04-28.md",
+      "case": "Timmons v. Twin Cities Area New Party",
+      "date": "1997-04-28",
+      "authors": [
+        "Thomas"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Thomas | O'Connor, Scalia, Kennedy, Breyer; Stevens, Souter and Ginsburg in I and III | Reversal and remand | Five join merits Part II; all eight Associates join live-controversy Part I and statutory-transition Part III; Stone-Zsela agrees to reach the merits without an additional statutory rationale |"
+      ],
+      "topology_sha256": "eba5c1eac6976bc388423fea90b74ea5e12d62ca70627f337e1ae386340818d0"
+    },
+    {
+      "record": "Doe_v_SEPTA_merits_1997-05-05.md",
+      "case": "Doe v. Southeastern Pennsylvania Transportation Authority",
+      "date": "1997-05-05",
+      "authors": [
+        "Kennedy"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Kennedy | O'Connor, Scalia, Thomas, Breyer | Affirmance | Entire expressly assumed-right, record-specific no-violation holding |"
+      ],
+      "topology_sha256": "643847a4f1b7ba35dd9018fb00548ece610417cb4751e53121373201c1d1d6c2"
+    },
+    {
+      "record": "Harbor_Tug_and_Barge_v_Papai_merits_1997-05-12.md",
+      "case": "Harbor Tug & Barge Co. v. Papai",
+      "date": "1997-05-12",
+      "authors": [
+        "Souter"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Souter | O'Connor, Scalia, Kennedy and Thomas throughout; Stone-Zsela in Parts I\u2013II; Stevens, Ginsburg and Breyer in Part III | Parts I\u2013II support reversal of status reopening; Part III returns the unresolved vessel appeal | Parts I\u2013II: fleet and status; Part III: independent appeal. Six joins to Parts I\u2013II, eight to Part III. |"
+      ],
+      "topology_sha256": "06065f45806395ebc77a668b46b128aef4ce51ff146ff0ec963fbcb01cf4e8b2"
+    },
+    {
+      "record": "Inter_Modal_Rail_Employees_v_Atchison_merits_1997-05-12.md",
+      "case": "Inter-Modal Rail Employees Association v. Atchison, Topeka & Santa Fe Railway Co.",
+      "date": "1997-05-12",
+      "authors": [
+        "Ginsburg"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Ginsburg | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer throughout; Stone-Zsela in Part I | Part I supplies the unanimous coverage rule; Part II supports the eight-Justice vacatur | Part I: statutory coverage and limits. Part II: remand, reservations and unaffected claims. |"
+      ],
+      "topology_sha256": "10f923161e854dc3633a305a2b14779c656a45348ab710644f7b1abd50ba6898"
+    },
+    {
+      "record": "Johnson_v_United_States_merits_1997-05-12.md",
+      "case": "Johnson v. United States",
+      "date": "1997-05-12",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Stone-Zsela | Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer throughout; Scalia in Parts I and IV | Affirms through the independent fourth condition | I: error/forfeiture; II: intervening-law plainness; III: assumption and classification reservation; IV: discretionary refusal to correct. |"
+      ],
+      "topology_sha256": "bc98f0d70c56005aa9a9dd09d5c12bcb29f5be2f53ad75565e9cb9a6c97946e1"
+    },
+    {
+      "record": "Lambrix_v_Singletary_merits_1997-05-12.md",
+      "case": "Lambrix v. Singletary",
+      "date": "1997-05-12",
+      "authors": [
+        "Stevens"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court in its respective Parts | Stevens | Souter, Ginsburg and Breyer throughout; Scalia, Kennedy and Thomas in I; O'Connor in II and III; Stone-Zsela in III-A | I decides to reach Teague; II rejects the new-rule bar; III-A orders common vacatur/default remand; III-B adds the binding old-rule instruction | Seven direct joins to I; five to II and III-B; six to III-A; no five join every Part. |"
+      ],
+      "topology_sha256": "34c3a38b25ad1e4c274bd76dd09b6f9c4373be03d0f8757aa18abc339bbe423b"
+    },
+    {
+      "record": "Reno_v_Bossier_Parish_School_Board_merits_1997-05-12.md",
+      "case": "Reno v. Bossier Parish School Board",
+      "date": "1997-05-12",
+      "authors": [
+        "Breyer"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Breyer | Ginsburg | Vacatur and remand of both appeals | Entire opinion |",
+        "| Same opinion | Breyer | O'Connor, Scalia, Kennedy and Thomas | Same formal vacatur and evidentiary remand | Part I in full and Part II; reserve Part III's broader purpose question |",
+        "| Same opinion | Breyer | Stone-Zsela | Same vacatur and remand, including Part III's instruction | Part I's effect-benchmark and independent-\u00a72-action propositions only; Parts II and III; no join in Part I's general nonincorporation proposition |",
+        "| Same opinion | Breyer | Stevens and Souter | Same vacatur and remand, including Part III's instruction | Part I's effect-benchmark and independent-\u00a72-action propositions only; Parts II and III; reject general nonincorporation |"
+      ],
+      "topology_sha256": "9664ce973a060d8ec617c3bff6200fadc4b8cc3fd7d8c1357dcab9b9f41fb208"
+    },
+    {
+      "record": "Reyes_Hernandez_v_INS_merits_1997-05-12.md",
+      "case": "Reyes-Hernandez v. INS",
+      "date": "1997-05-12",
+      "authors": [
+        "Stevens"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Stevens | O'Connor, Souter, Ginsburg and Breyer | Affirms the judgment denying the petition | Parts I\u2013IV in full |",
+        "| Same opinion | Stevens | Stone-Zsela | Affirms the same judgment | Parts II\u2013IV; agrees only in Part I's threshold result without joining its reasons |",
+        "| Same opinion | Stevens | Scalia, Kennedy and Thomas | Rejects \u00a7242(g) bar, but would vacate and dismiss under \u00a7440(a) | Part I only; no operative join in Parts II\u2013IV |"
+      ],
+      "topology_sha256": "99f6f0975e8516927ff079ed6438017d6f6dcae75270c8b9d183601be49cdbdc"
+    },
+    {
+      "record": "United_States_v_Ortiz_and_Hurtado_merits_1997-05-12.md",
+      "case": "United States v. Ortiz",
+      "date": "1997-05-12",
+      "authors": [
+        "Kennedy"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Kennedy | O'Connor, Scalia, Thomas and Breyer | Ortiz affirmance and Hurtado's sentence-vacatur/open-comparison remand | Parts I\u2013II in full |",
+        "| Same opinion | Kennedy | Stevens, Souter and Ginsburg | Ortiz affirmance; Hurtado sentence vacatur but disagreement with the open guideline choice | Part I in full; Part II's most-analogous and authoritative-commentary principles, not its removal of the definite \u00a72J1.5 instruction |",
+        "| Same opinion | Kennedy | Stone-Zsela | Disagrees with Ortiz affirmance; agrees with Hurtado sentence vacatur but would retain \u00a72J1.5 direction | Part I's protected-search/separate-seizure proposition and Part II's textual most-analogous command only; no categorical incident or full commentary-doctrine join |"
+      ],
+      "topology_sha256": "c2654279c0a5f0dc3f42bddfa372fcafeef3360d67a7ea4bcf468421301a2d49"
+    },
+    {
+      "record": "Camps_Newfound_Owatonna_v_Town_of_Harrison_merits_1997-05-19.md",
+      "case": "Camps Newfound/Owatonna, Inc. v. Town of Harrison",
+      "date": "1997-05-19",
+      "authors": [
+        "Breyer"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Breyer | Stevens, O'Connor, Kennedy and Souter | Reverses federal validation and remands for lawful state relief | Parts I\u2013III in full |",
+        "| Same opinion | Breyer | Stone-Zsela | Reverses the residence condition but requires a more specific exemption remedy | Parts I\u2013II; no join in Part III's refusal to select extension of the exemption |"
+      ],
+      "topology_sha256": "5f5b72d3c6a79f5d0ba78647bd1d2a925ab46de002142b6a03f6492132229d23"
+    },
+    {
+      "record": "Edmond_v_United_States_merits_1997-05-19.md",
+      "case": "Edmond v. United States",
+      "date": "1997-05-19",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer | Affirms all six judgments | Parts I\u2013II in full |",
+        "| Same opinion | Stone-Zsela | Souter | Agrees with all six affirmances | Part I statutory authority; not Part II's sufficient classification rationale |"
+      ],
+      "topology_sha256": "ccd06b42f82cc502432cc33d4daf92c8a97880a1a0421052a1e4b5a786ba6983"
+    },
+    {
+      "record": "Edwards_v_Balisok_merits_1997-05-19.md",
+      "case": "Edwards v. Balisok",
+      "date": "1997-05-19",
+      "authors": [
+        "Scalia"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Scalia | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer | Reverses the categorical exemption and remands for the specified claim-specific dispositions | Entire opinion, including invalidity prerequisite, independent injuries, dismissal/accrual and prospective-relief limits |"
+      ],
+      "topology_sha256": "9fb2c9001cb2d113486752b997842b6979726dced67a6f9f2b2e99d1cb1d18b2"
+    },
+    {
+      "record": "united-states-v-thomas-merits-1997-05-19.md",
+      "case": "United States v. Thomas",
+      "date": "1997-05-19",
+      "authors": [
+        "Ginsburg"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Ginsburg | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Supports the judgment | Entire opinion |",
+        "| Opinion of the Court, partial joins | Ginsburg | Stevens | Agrees with those statutory and venue conclusions; dissents from affirmance | Parts I and III only |"
+      ],
+      "topology_sha256": "05585cf9c3490152733b5cb3400d451f2482f376d0be8a44644c8086df257c85"
+    },
+    {
+      "record": "church-on-the-rock-v-city-of-albuquerque-merits-1997-05-27.md",
+      "case": "Church on the Rock v. City of Albuquerque",
+      "date": "1997-05-27",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "author_evidence": [
+        "| Opinion of the Court | Stone-Zsela | Stevens, O'Connor, Souter, Ginsburg, Breyer | Supports the judgment | Entire opinion |",
+        "| Opinion of the Court, partial joins | Stone-Zsela | Scalia, Kennedy, Thomas | Concur in the judgment and the joined grounds | Parts I, II and IV; not Part III |"
+      ],
+      "topology_sha256": "c17b61a987ed8874890bc304c74ec28c50e0dca80fa6b170e3232b5261d85c2c"
+    }
+  ],
+  "excluded_by_form_or_procedure": [
+    {
+      "record": "Adams_v_Robertson_DIG_1997-03-03.md",
+      "case": "Adams v. Robertson",
+      "date": "1997-03-03",
+      "reason": "Per curiam DIG; separate writing is not counted"
+    },
+    {
+      "record": "Bibles_v_Oregon_Natural_Desert_Association_summary_review_1997-02-18.md",
+      "case": "Bibles v. Oregon Natural Desert Association",
+      "date": "1997-02-18",
+      "reason": "Unsigned summary review"
+    },
+    {
+      "record": "Board_of_County_Commissioners_of_Bryan_County_v_Brown_reargument_1997-04-28.md",
+      "case": "Board of County Commissioners of Bryan County v. Brown",
+      "date": "1997-04-28",
+      "reason": "Unsigned procedural reargument order; no merits lead"
+    },
+    {
+      "record": "California_v_Roy_summary_review_1996-11-04.md",
+      "case": "California v. Roy",
+      "date": "1996-11-04",
+      "reason": "Summary review; a signed author does not make it plenary"
+    },
+    {
+      "record": "Ehrlich_v_City_of_Culver_City_DIG_1997-02-18.md",
+      "case": "Ehrlich v. City of Culver City",
+      "date": "1997-02-18",
+      "reason": "Unsigned unexplained DIG"
+    },
+    {
+      "record": "Greene_v_Georgia_summary_review_1996-12-16.md",
+      "case": "Greene v. Georgia",
+      "date": "1996-12-16",
+      "reason": "Per curiam summary review"
+    },
+    {
+      "record": "Grimmett_v_Brown_certiorari_dismissal_1997-01-14.md",
+      "case": "Grimmett v. Brown",
+      "date": "1997-01-14",
+      "reason": "Unexplained per curiam certiorari disposition"
+    },
+    {
+      "record": "IIRIRA_Review_Transition_Admitted_Source_1996-09-30.md",
+      "case": "IIRIRA \u00a7\u00a7306 and 309, Pub. L. No. 104-208, Division C, Title III-A, as amended by Pub. L. No. 104-302 \u00a72, 110 Stat. 3657.",
+      "date": "1996-09-30",
+      "reason": "Admitted statutory source; no judicial opinion"
+    },
+    {
+      "record": "IIRIRA_Section_633_Admitted_Source_1996-09-30.md",
+      "case": "IIRIRA \u00a7633",
+      "date": "1996-09-30",
+      "reason": "Admitted statutory source; no judicial opinion"
+    },
+    {
+      "record": "In_re_Gaydos_filing_and_writ_disposition_1996-12-02.md",
+      "case": "In re Maria Luisa Costell Gaydos",
+      "date": "1996-12-02",
+      "reason": "Per curiam procedural filing/writ disposition"
+    },
+    {
+      "record": "In_re_Vey_financial_leave_1997-04-14.md",
+      "case": "In re Vey",
+      "date": "1997-04-14",
+      "reason": "Per curiam procedural financial-leave ruling"
+    },
+    {
+      "record": "Lambert_v_Wicklund_summary_review_1997-03-31.md",
+      "case": "Lambert v. Wicklund",
+      "date": "1997-03-31",
+      "reason": "Per curiam summary review"
+    },
+    {
+      "record": "Minnesota_Chapter_419_Admitted_Source_1996-04-02.md",
+      "case": "Minnesota Laws 1996, chapter 419, S.F. No. 2720",
+      "date": "1996-04-02",
+      "reason": "Admitted statutory source; no judicial opinion"
+    },
+    {
+      "record": "United_States_v_Jose_summary_review_1996-12-02.md",
+      "case": "United States v. Jose",
+      "date": "1996-12-02",
+      "reason": "Per curiam summary review"
+    },
+    {
+      "record": "Watts_and_Putra_summary_review_1997-01-06.md",
+      "case": "United States v. Watts",
+      "date": "1997-01-06",
+      "reason": "Per curiam summary review"
+    }
+  ],
+  "excluded_by_date_or_same_day_order": [],
+  "git": "Not run; no Git provenance claim"
+}

@@ -1,0 +1,14 @@
+{
+  "stage": "neutral preflight refresh only; no modeling",
+  "matter": "87. Camps Newfound/Owatonna v. Town of Harrison",
+  "source_sha256": {
+    "terms\\OT1996\\freeze\\neutral-prep-84-89\\APPROVED_NEUTRAL_84_89.md": "19669a67f2827253df61fd6b8e4371b1aaa7fc47c2500b721bc8a94daa522f9f",
+    "terms\\OT1996\\freeze\\neutral-prep-84-89\\FOCUSED_OPENING_LAW.md": "ed455a07947104fc4f1a94f9675869491c0a887ad97d42311b37d86a875abcf8",
+    "terms\\OT1996\\runtime\\OT_1996CHUNK8_87_TRACY_NEUTRAL.md": "576d4cae88f0d37e2c1f2b6942bdc51795c93bfcd7e8adb37e6a605df7f03439",
+    "terms\\OT1996\\runtime\\OT_1996CHUNK8_87_MAINE_STATUTE_NEUTRAL.md": "073043edc7f7d8ee749a4781e3be13869d05786812a77aad12f5edb052d75c6a",
+    "terms\\OT1996\\runtime\\OT_1996CHUNK8_87_PREFLIGHT_REFRESH_NOTES.md": "f2e0ea9085f646dbbf4ced18a39f324e09827afa6b296fe4967812bf6dc38d5a"
+  },
+  "frozen_refresh_sha256": "b6986d307d16976035ec211518c809948cdd2db8382ff50449f0b3f7bfdddbbd",
+  "mechanical_copy_checks": "All original case, selected law, Tracy and statute passages retained verbatim after trailing whitespace boundary normalization.",
+  "readiness": "Ready for fresh independent modeling; no new factual premise or vote supplied."
+}

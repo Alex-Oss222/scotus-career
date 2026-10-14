@@ -1,0 +1,129 @@
+Reno v. Bossier Parish School Board, 520 U.S. 471 (1997).
+LII
+Supreme Court
+Reno v. Bossier Parish School Board (95-1455), 520 U.S. 471 (1997).
+Concurrence
+Syllabus
+Concurrence
+Opinion
+[ O'Connor ]Other
+[ Stevens ]HTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect version
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+as is being done in connection with this case, at the time the opinion
+is issued. The syllabus constitutes no part of the opinion of the Court
+but has been prepared by the Reporter of Decisions for the convenience
+of the reader. See United States v. Detroit Timber & Lumber
+Co., 200
+U.S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+RENO, ATTORNEY GENERAL
+v. BOSSIER PARISH SCHOOL BOARD et al.
+appeal from the united states
+district court for the district of columbia
+No. 95-1455.
+Argued December 9, 1996 -- Decided
+May 12, 1997
+[n.*]
+Appellee Bossier Parrish School Board (Board) is subject to the preclearance
+requirements of §5 of the Voting Rights Act of 1965 (Act) and must
+therefore obtain the approval of either the United States Attorney General
+or the United States District Court for the District of Columbia before
+implementing any changes to a voting "qualification, prerequisite, standard,
+practice, or procedure." Based on the 1990 census, the Board redrew its
+12 single member districts, adopting the redistricting plan that the Attorney
+General had recently precleared for use in elections of the parish's primary
+governing body (the Jury plan). In doing so, the Board rejected a plan
+proposed by the NAACP, which would have created two majority black districts.
+The Attorney General objected to preclearance, finding that the NAACP plan,
+which had not been available when the Jury plan was originally approved,
+demonstrated that black residents were sufficiently numerous and geographically
+compact to constitute a majority in two districts; that, compared with
+this alternative, the Board's plan unnecessarily limited the opportunity
+for minority voters to elect their candidates of choice and thereby diluted
+their voting strength in violation of §2 of the Act; and that the
+Attorney General must withhold preclearance where necessary to prevent
+a clear §2 violation. The Board then filed this action with the District
+Court, and appellant Price and others intervened as defendants. A three
+judge panel granted the preclearance request, rejecting appellants' contention
+that a voting change's failure to satisfy §2 constituted an independent
+reason to deny preclearance under §5 and their related argument that
+a court must still consider evidence of a §2 violation as evidence
+of discriminatory purpose under §5.
+Held:
+1. Preclearance under §5 may
+not be denied solely on the basis that a covered jurisdiction's new voting
+"standard, practice, or procedure" violates §2. This Court has consistently
+understood §5 and §2 to combat different evils and, accordingly,
+to impose very different duties upon the States. See Holder v. Hall,
+512
+U.S. 874, 883 (plurality opinion). Section 5 freezes election procedures
+in a covered jurisdiction until that jurisdiction proves that its proposed
+changes do not have the purpose, and will not have the effect, of denying
+or abridging the right to vote on account of race. See Beer v. United
+States, 425
+U.S. 130, 140. It is designed to combat only those effects that are
+retrogressive. Retrogression, by definition, requires a comparison of a
+jurisdiction's new voting plan with its existing plan, see Holder, supra,
+at 883 (plurality opinion), and necessarily implies that the jurisdiction's
+existing plan is the benchmark against which the "effect" of voting changes
+is measured. Section 2, on the other hand, applies in all jurisdictions
+and uses as its benchmark for comparison in vote dilution claims a hypothetical,
+undiluted plan. Making compliance with §5 contingent upon compliance
+with §2, as appellants urge, would, for all intents and purposes,
+replace the standards for §5 with those for §2, thus contradicting
+more than 20 years of precedent interpreting §5. See, e.g., Beer,
+supra. Appellants' contentions that their reading of §5 is supported
+by the Beer decision, by the Attorney General's regulations, and
+by public policy considerations are rejected. Pp. 4-14.
+2. Evidence showing that a jurisdiction's redistricting plan dilutes
+minorities' voting power may be relevant to establish a jurisdiction's
+"intent to retrogress" under §5, so there is no need to decide today
+whether such evidence is relevant to establish other types of discriminatory
+intent or whether §5's purpose inquiry ever extends beyond the search
+for retrogressive intent. Because this Court cannot say with confidence
+that the District Court considered the evidence proffered to show that
+the Board's reapportionment plan was dilutive, this aspect of that court's
+holding must be vacated. Pp. 14-19.
+(a) Section 2 evidence may be "relevant" within the meaning of
+Federal Rule of Evidence 401, for the fact that a plan has a dilutive impact
+makes it "more probable" that the jurisdiction adopting that plan acted
+with an intent to retrogress than "it would be without the evidence." This
+does not, of course, mean that evidence of a plan's dilutive impact is
+dispositive of the §5 purpose inquiry. Indeed, if it were, §2
+would be effectively incorporated into §5, a result this Court finds
+unsatisfactory. In conducting their inquiry into a jurisdiction's motivation
+in enacting voting changes, courts should look for guidance to Arlington
+Heights v. Metropolitan Housing Development Corp., 429
+U.S. 252, which sets forth a framework for examining discriminatory
+purpose. Pp. 14-17.
+(b) This Court is unable to determine whether the District Court
+deemed irrelevant all evidence of the dilutive impact of the redistricting
+plan adopted by the Board. While some language in its opinion is consistent
+with today's holding that the existence of less dilutive options was at
+least relevant to the purpose inquiry, the District Court also appears
+to have endorsed the notion that dilutive impact evidence is irrelevant
+even to an inquiry into retrogressive intent. The District Court will have
+the opportunity to apply the Arlington Heights test on remand as
+well as to address appellants' additional arguments that it erred in refusing
+to consider evidence that the Board was in violation of an ongoing injunction
+to remedy any remaining vestiges of a dual school system. Pp. 17-19.
+907 F. Supp. 434,
+vacated and remanded.
+O'Connor, J., delivered the
+opinion of the Court, in which Rehnquist, C. J., and Scalia, Kennedy, and
+Thomas, JJ., joined in full, and in which Ginsburg and Breyer, JJ., joined
+except insofar as Part III is inconsistent with the views expressed in
+the concurrence of Breyer, J. Thomas, J., filed a concurring opinion. Breyer,
+J., filed an opinion concurring in part and concurring in the judgment,
+in which Ginsburg, J., joined. Stevens, J., filed an opinion dissenting
+in part and concurring in part, in which Souter, J., joined.
+Notes
+* Together
+with No. 95-1508, Price et al. v. Bossier Parish School Board
+et al., also on appeal from the same court.
