@@ -6043,20 +6043,6 @@ Chunk 8 has 12 completed Court events and 0 stopped matters. The separate Gaydos
 
 Records and frozen handoffs are saved for operator verification and commitment. Git provenance remains unverified under the express no-Git instruction. Opening Engine/AGENTS hashes predate the expressly authorized October 13 revisions. The case-list hash differs from opening but matches the preceding chunk baseline; its inventory is unchanged during this Run. Source, doctrine and exact Stone-choice gaps must be addressed before dependent proceedings.
 
-## 7. Chunk 9 — 1997-05-27 through 1997-06-02
-
-The Court completed eleven matters. Ayeni, CompuServe, Hincapie-Nieto, Kinman, and Vitronics were decided May 27. Arkansas, Boggs, De Buono, Lords Landing, McMillian, and Saratoga Fishing were decided June 2. The Records are authoritative for the component coalitions, separate positions, limits, and remedies.
-
-Ayeni permits the pleaded Fourth Amendment claim to proceed while preserving a date-specific qualified-immunity inquiry. CompuServe recognizes deliberate electronic commercial contacts as relevant to prima facie specific jurisdiction. Hincapie-Nieto affirms the direct-review dismissal while preserving qualifying §2241 review. Kinman requires component-specific Title IX and supervisory §1983 review and leaves the municipal dismissal affirmed. Vitronics gives the intrinsic patent record primary force while permitting technical evidence to illuminate genuine terminology disputes.
-
-Arkansas applies the Tax Injunction Act to privately owned federally chartered associations and leaves tax immunity undecided. Boggs permits the supplied testamentary community-property claim to proceed without displacing ERISA’s plan-administration and anti-alienation limits. De Buono holds that a generally applicable health-facility assessment is not preempted merely because a plan owns the facility. Lords Landing is a GVR only; it decides no insurance merits. McMillian treats Alabama’s sheriff as the county policymaker for the challenged function on this record. Saratoga Fishing treats user-added equipment as other property under East River, leaving defect, causation, and damages open.
-
-The current Court-law cursor is 1997-06-02. No chunk-9 matter is stopped. Open matters carried from earlier chunks remain open unless separately completed in the manifest.
-
-## 8. Source and Research Cutoff
-
-Each chunk-9 Record states its event-date research cutoff and public-source limits. No later historical follow-on action is inferred. Git provenance and operator commitment remain deferred under the user’s no-Git instruction.
-
 ## 7. Source and Research Cutoff
 
 The Records above supply exact legal, source, remedy and participation limits. Each retains its event-date cutoff; the current Court-law cursor is 1997-05-27. No later historical follow-on action is inferred. Current law is copied from bounded Public Projections; published noncontrolling positions are copied from each Record's public continuity account or separate-writing block. Private material supplies no law. Final checks and their actual limits are preserved in the chunk 8 validation receipt.

@@ -5916,8 +5916,4 @@ The reviewed First Circuit sentencing components are reversed and the case reman
 
 ## Scope and cutoff
 
-Use only events effective before the matter being modeled; same-day peer order creates no intervening holding. Each Record retains its event-date research cutoff. Coverage is 106 Court events and three admitted sources through 1997-06-02. This projection contains public law, published separate positions and public procedure only. The eleven chunk-9 matters are completed in the manifest; later inventory entries remain pending, with no outcome inferred.
-
-## Chunk 9 completed public state
-
-The May 27 decisions establish the public procedural and doctrinal consequences recorded for Ayeni, CompuServe, Hincapie-Nieto, Kinman, and Vitronics. The June 2 decisions establish the public consequences recorded for Arkansas, Boggs, De Buono, Lords Landing, McMillian, and Saratoga Fishing. No private Stone material, provisional commitment, comparator, reconciliation, or audit annex is included here. The effective law and procedure for later matters must be read from these Records and their Public Projections in date order.
+Use only events effective before the matter being modeled; same-day peer order creates no intervening holding. Each Record retains its event-date research cutoff. Coverage is 95 Court events and three admitted sources through 1997-05-27. This projection contains public law, published separate positions and public procedure only. Remaining inventory entries are pending, with no outcome inferred.
