@@ -215,11 +215,11 @@ Chief Justice Alex-Lamar Stone-Zsela and Justices Blackmun, Stevens, O'Connor, S
 
 #### Judgment
 
-The Tenth Circuit's dismissal of the interlocutory appeal is affirmed, 9–0.
+**The Tenth Circuit's dismissal of the interlocutory appeal is affirmed, 9–0.**
 
-| Component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
-|---|---|---|---|---|
-| Interlocutory appellate jurisdiction under §1291 | Affirm dismissal, 9–0 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | No opposing Justice | Return the underlying litigation to its existing course; no decision approving or disapproving rescission on the merits. |
+**Supporting:** Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg.
+
+Return the underlying litigation to its existing course; no decision approving or disapproving rescission on the merits.
 
 #### Opinion Topology
 
@@ -266,7 +266,7 @@ The Tenth Circuit's dismissal of the interlocutory appeal is affirmed, 9–0.
 
 #### Precedent Treatment and Current-Law Effect
 
-Connecticut National Bank v. Germain, March 9, 1992, preserves independently authorized §1292 procedures subject to their own conditions; none exists by implication from this contract. Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994, bars the legislative command to reopen the completed judgment addressed there, while preserving independently lawful judicial reopening; it supplies no collateral-order route here. No precedent is overruled.
+Connecticut National Bank v. Germain, March 9, 1992, preserves independently authorized §1292 procedures subject to their own conditions; none exists by implication from this contract. Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994, permits bounded congressional reinstatement of completed securities limitations dismissals under an expressly retrospective statutory rule preserving independent judicial adjudication; it supplies no collateral-order route here or unlimited permission for retrospective legislation. No precedent is overruled.
 
 Effective June 6, 1994, an ordinary private settlement promise of freedom from trial does not create collateral-order jurisdiction. The unanimous category-based importance holding and the eight-Justice adequate-vindication alternative independently sustain that result. Recognized public immunities and expressly authorized interlocutory routes keep their own requirements. The decision creates neither an all-private-rights exclusion nor a contract or reopening merits ruling.
 
@@ -276,7 +276,7 @@ Chief Justice Stone-Zsela joins Part I and the judgment. He emphasizes that a se
 
 #### Source Notes
 
-The [official report, 511 U.S. 863](https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511863/usrep511863.pdf), 865–867, and [Tenth Circuit judgment, 993 F.2d 755](https://static.case.law/f2d/993/html/0755-01.html), supply the agreement, dismissal, reopening order and appellate dismissal. The source reports possible material nondisclosure, not a completed finding of fraud. Settlement price and the complete negotiation record were not independently established. The appeal decides jurisdiction alone.
+The [official report, 511 U.S. 863](https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511863/usrep511863.pdf), 865–867, and [Tenth Circuit judgment, 993 F.2d 755](https://static.case.law/f2d/993/html/0755-01.html), supply the agreement, dismissal, reopening order and appellate dismissal. The source reports possible material nondisclosure, not a completed finding of fraud. The available account does not establish the settlement price or the complete negotiation record. The appeal decides jurisdiction alone.
 
 #### Mandate, Remedy, and Stage
 
@@ -779,11 +779,9 @@ Chief Justice Alex-Lamar Stone-Zsela and Justices Blackmun, Stevens, O'Connor, S
 
 #### Judgment
 
-The judgment is reversed and remanded, 9–0.
+**The judgment is reversed and remanded, 9–0.**
 
-| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
-|---|---|---|---|---|
-| Retroactive ownership amendment and the narrowed refund entitlement | Reversed and remanded, 9–0 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg | No opposing Justice | The Ninth Circuit is reversed and the case remanded for judgment consistent with applying the amended ownership rule. The estate receives no refund on the rejected due-process theory and no judicial compensation for its transaction loss. No new refund amount, penalty, valuation or allocation failure is found; the abandoned theories remain outside review. |
+**Supporting:** Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg.
 
 #### Opinion Topology
 
@@ -826,13 +824,13 @@ The judgment is reversed and remanded, 9–0.
 - United States v. Darusmont, 449 U.S. 292, and Milliken v. United States, 283 U.S. 15: preserve permissible tax retroactivity in their settings, without a universal advance-notice condition.
 - Untermyer v. Anderson, 276 U.S. 440: distinguishes its wholly new gift tax from this amendment to a deduction within an existing estate-tax regime.
 - United States v. Irvine, April 20, 1994: distinguishes its later taxable transfer; the present amendment is genuinely retroactive and receives constitutional review.
-- Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994: preserves protection of the completed federal judgment there; no such judgment is reopened here.
+- Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994, permits the bounded congressional reinstatement of completed securities limitations dismissals under an expressly retrospective statutory rule preserving independent judicial adjudication. The present case concerns a substantive amendment to the estate-tax law and its application to an earlier transaction, not the reinstatement of a completed federal judicial judgment. Neither decision establishes unlimited constitutional permission for retrospective legislation.
 
 **Limits and questions not reached:** The Court decides neither the abandoned Contract Clause and Takings theories nor a new tax-loss compensation claim. No allocation failure, agency power to amend the original statute, fixed constitutional lookback limit or new dollar assessment is adjudicated.
 
 #### Precedent Treatment and Current-Law Effect
 
-No precedent is overruled. The express temporal command and constitutional review remain separate. Landgraf and Rivers preserve Congress's authority to prescribe retrospective reach within constitutional limits; Irvine and Morgan Stanley concern different temporal events and finality.
+No precedent is overruled. The express temporal command and constitutional review remain separate. Landgraf and Rivers preserve Congress's authority to prescribe retrospective reach within constitutional limits; Irvine concerns a later transfer; Morgan Stanley permits bounded reinstatement of completed securities limitations dismissals while preserving independent judicial adjudication. Neither decision removes the constitutional limits on retrospective legislation.
 
 Effective June 13, 1994, the express 1987 amendment applies to this transaction and its retroactive ownership condition is constitutional under the six-Justice rational-purpose holding. The estate concedes that the decedent did not directly own the securities immediately before death, so this asserted refund entitlement fails. Statutory direction is not by itself constitutional justification, and actual reliance is acknowledged rather than erased.
 
@@ -848,7 +846,7 @@ Justice Scalia, joined by Justice Thomas, concurs in the judgment. Following the
 
 #### Source Notes
 
-The [official report, 512 U.S. 26](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512026/usrep512026.pdf), 28–31, and [Ninth Circuit opinion, 972 F.2d 1051](https://static.case.law/f2d/972/html/1051-01.html), including its statutory reproductions, support the stipulated transaction and legislative chronology. The original statute's breadth is conceded. The lower report's $5,287,500 deduction and official report's $5,287,000 differ; no disposition depends on resolving that discrepancy. Full underlying transaction exhibits and every brief were not independently recovered. No precise new tax or refund award is supplied.
+The [official report, 512 U.S. 26](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512026/usrep512026.pdf), 28–31, and [Ninth Circuit opinion, 972 F.2d 1051](https://static.case.law/f2d/972/html/1051-01.html), including its statutory reproductions, support the stipulated transaction and legislative chronology. The original statute's breadth is conceded. The lower report's $5,287,500 deduction and official report's $5,287,000 differ; no disposition depends on resolving that discrepancy. The available account does not include the full underlying transaction exhibits or the complete briefing record. No precise new tax or refund award is supplied.
 
 #### Mandate, Remedy, and Stage
 

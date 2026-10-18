@@ -965,11 +965,13 @@ Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kenn
 
 #### Judgment
 
-The Court affirms the dismissal without prejudice, 9–0, on lack of present cognizability, rejecting conversion into habeas and a general exhaustion rationale.
+**Dismissal without prejudice affirmed, 9–0.**
 
-| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
-|---|---|---|---|---|
-| Presented conviction-invalidating §1983 damages action | Affirm dismissal without prejudice, 9–0 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | None | No present damages action, stay or remand; a later claim may proceed after qualifying invalidation, subject to remaining elements and defenses. |
+**Supporting:** Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg.
+
+Dismissal rests on lack of present cognizability, rejecting conversion into habeas and a general exhaustion rationale.
+
+No present damages action, stay or remand; a later claim may proceed after qualifying invalidation, subject to remaining elements and defenses.
 
 No release, misconduct finding, damages award, immunity determination or state-law preclusion ruling is ordered. The claim barred by this prerequisite has not accrued; its limitations period is not consumed while the prerequisite remains unmet. Independently cognizable injuries are not barred merely because a conviction exists.
 
@@ -1019,6 +1021,8 @@ No release, misconduct finding, damages award, immunity determination or state-l
 **Authority:** Part III of O'Connor's Opinion of the Court, joined by Stone-Zsela, Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas and Ginsburg; all nine directly adopt the four invalidation routes and the accrual consequence for the barred claim.
 
 **Controlling explanation:** The Court makes nonaccrual integral to the prerequisite. A rule withholding the cause of action while allowing its limitations period to expire would frustrate the later remedy the rule preserves. Carey's use of appropriate common-law remedial principles supports considering the completion of the claim rather than pretending that a presently barred action must already be filed. The Seventh Circuit's suggested equitable protection for a diligent litigant addresses a different premise: accrual before the invalidity prerequisite is met. The Court does not adopt that premise. Heck's conviction was sustained on direct review; one federal petition failed for lack of exhaustion and another was denied. Neither result meets any qualifying invalidation route. Patsy's protection against general exhaustion remains intact, but completing review cannot itself establish the opposite of the judgment reviewed. Dismissal without prejudice therefore preserves the possibility of a later action following invalidation, subject to its remaining elements and defenses. Accrual of an independently cognizable injury is not decided by this rule.
+
+Recognition of a conviction's invalidation by an authorized state tribunal identifies one circumstance in which the present §1983 prerequisite is satisfied. It does not itself create jurisdiction, confer authority to reopen the underlying conviction, or prescribe grounds upon which a state tribunal must grant collateral relief. Those questions remain governed by the independently applicable law authorizing that tribunal's action.
 
 **Precedent treatment:**
 

@@ -163,9 +163,12 @@ Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O’Connor, Scalia, Ke
 
 The Court affirms, 8–1, the refusal to apply §102’s new remedies to this preenactment conduct. Five Justices adopt the general temporal framework stated below.
 
-| Component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
-|---|---|---|---|---|
-| Refusal to apply §102 to the preenactment conduct, including the requested compensation and dependent jury election | Affirmed, 8–1 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Blackmun | No new damages trial. Blackmun would reverse for availability of compensation and a consequent jury election, leaving remaining predicates and proper trial scope below. |
+**Affirmed, 8–1.**
+
+**Supporting:** Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg.
+**Opposing:** Blackmun.
+
+No new damages trial. Blackmun would reverse for availability of compensation and a consequent jury election, leaving remaining predicates and proper trial scope below.
 
 The Court’s discussion of punitive liability forms part of its §102 temporal analysis. No separate punitive award or denial judgment is entered. Blackmun expressly reserves that question and is not counted as supporting a punitive proposition.
 
@@ -222,6 +225,10 @@ The Court’s discussion of punitive liability forms part of its §102 temporal 
 
 - Kaiser: applied to the enacted condition linking the jury option to §102 damages.
 - Bradley: distinguished; current-law treatment of collateral matters does not erase an express condition on a new remedy or automatically reopen a completed trial.
+
+#### Limits and Questions Not Reached
+
+An express congressional direction concerning the temporal operation of a statute resolves the threshold statutory question, subject to applicable constitutional limits. Such a direction does not alone determine whether Congress may constitutionally require reconsideration of an already completed Article III judgment. The present case concerns statutory consequences for earlier conduct in litigation properly before the courts and does not decide that separate final-judgment issue.
 
 #### Precedent Treatment and Current-Law Effect
 
