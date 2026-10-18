@@ -577,7 +577,7 @@ Section 501(c)(3) of the Code . . . ." Me. Rev. Stat. Ann., Tit. 36,
 
 ---
 
-<!-- constituent: OT_1996CHUNK8_90_94_RECONCILED.md; live scope: 90–94; SHA256: 83ae9ea6bfaa2c23ada11ca6287dfc9f36a1a6d90f71c1711d471a204229b814 -->
+<!-- constituent: OT_1996CHUNK8_90_94_RECONCILED.md; live scope: 90–94; SHA256: cb365b520facd4e5b5e76f40893c3a2e75b3021da492d93f95b2a7a9f074ec13 -->
 
 # OT1996 chunk 8 — historical reconciliation, matters 90–94
 
@@ -592,7 +592,7 @@ Section 501(c)(3) of the Code . . . ." Me. Rev. Stat. Ann., Tit. 36,
 The two immutable independent handoffs remain the complete issue-specific rationale and alternative-path records except for the express reconciliation refinements below:
 
 - [Four-matter independent commitments](../freeze/OT_1996CHUNK8_90_95_COMMITMENTS.md), SHA256 `bd8c3cfab3463bbcb7dc6f79baf0535fd2ebc4d12465d2f6fe7b59a848b77a46`.
-- [Clinton independent commitments](../freeze/OT_1996CHUNK8_92_COMMITMENTS.md), SHA256 `15cbe74890eb46947fe8d1583c56c000783e00caddbfbd7b0f298cbfbcaf4f0c`.
+- [Clinton independent commitments](../freeze/OT_1996CHUNK8_92_COMMITMENTS.md), SHA256 `0ad621a002892d402c88a18dc2d7cff9abdd34de76d202d1b0161574f5a1f32b`.
 - [Clinton validated neutral packet](../freeze/OT_1996CHUNK8_92_NEUTRAL_VALIDATED.md), SHA256 `0217a454636b55c4af6e5b2b72054a361b69c42e41860cf66aa5a6317a4aac2d`.
 
 All 27 files in the five-matter neutral receipt and these three handoffs were checked against their receipts: 30 matches, no mismatch. The source reading included the assigned neutral packets, PREFLIGHT, relevant selected entering-law material, the complete Clinton validated packet and its current Swint, Nixon, Plaut, Reich and Uhlrig copies, the commitments, Sable's complete Brennan/Stevens separate writing, and the relevant published Chabad/Good News positions. No claim is made to independent full rereading of every earlier source PDF in the packet.

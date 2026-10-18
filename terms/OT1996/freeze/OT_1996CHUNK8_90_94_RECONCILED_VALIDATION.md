@@ -9,9 +9,9 @@ These files preserve the reconciliation; final Stone compatibility, authorship, 
 ## SHA256
 
 - `terms/OT1996/runtime/OT_1996CHUNK8_90_94_RECONCILED.md` ? `ab614ae0339beced5ccfcc4d350387fca8a70cd75869bac87a0c8f08a211a57f` (43794 bytes)
-- `terms/OT1996/freeze/OT_1996CHUNK8_90_94_RECONCILED.md` ? `83ae9ea6bfaa2c23ada11ca6287dfc9f36a1a6d90f71c1711d471a204229b814` (44247 bytes)
+- `terms/OT1996/freeze/OT_1996CHUNK8_90_94_RECONCILED.md` ? `cb365b520facd4e5b5e76f40893c3a2e75b3021da492d93f95b2a7a9f074ec13` (44247 bytes)
 - `terms/OT1996/freeze/OT_1996CHUNK8_90_95_COMMITMENTS.md` ? `bd8c3cfab3463bbcb7dc6f79baf0535fd2ebc4d12465d2f6fe7b59a848b77a46` (41899 bytes)
-- `terms/OT1996/freeze/OT_1996CHUNK8_92_COMMITMENTS.md` ? `15cbe74890eb46947fe8d1583c56c000783e00caddbfbd7b0f298cbfbcaf4f0c` (48690 bytes)
+- `terms/OT1996/freeze/OT_1996CHUNK8_92_COMMITMENTS.md` ? `0ad621a002892d402c88a18dc2d7cff9abdd34de76d202d1b0161574f5a1f32b` (48753 bytes)
 - `terms/OT1996/freeze/OT_1996CHUNK8_92_NEUTRAL_VALIDATED.md` ? `0217a454636b55c4af6e5b2b72054a361b69c42e41860cf66aa5a6317a4aac2d` (72871 bytes)
 - `terms/OT1996/freeze/OT_1996CHUNK8_90_95_NEUTRAL_SHA256.md` ? `216391f2657d49c6b841880320f4d91653fa8f8ec6dff39dfe2886732e042dae` (3011 bytes)
 - `terms/OT1996/freeze/OT_1996CHUNK8_COMPARATOR_CONTROL.md` ? `0931a6ca6bf3a0ec8abf23ac4fff75427d17639bc3a377b2f7358ff413da7e42` (1733 bytes)

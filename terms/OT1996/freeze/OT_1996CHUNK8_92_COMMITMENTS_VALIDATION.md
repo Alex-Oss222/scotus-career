@@ -10,8 +10,8 @@ Checks actually completed: eight named Associates; five component rows for each 
 
 Neutral packet SHA256: `0217a454636b55c4af6e5b2b72054a361b69c42e41860cf66aa5a6317a4aac2d`.
 
-Commitments UTF-8 SHA256: `15cbe74890eb46947fe8d1583c56c000783e00caddbfbd7b0f298cbfbcaf4f0c`.
+Commitments UTF-8 SHA256: `0ad621a002892d402c88a18dc2d7cff9abdd34de76d202d1b0161574f5a1f32b`.
 
-Frozen bytes: 48690.
+Frozen bytes: 48753.
 
 Reconciliation, exact circulated joins, final participation, assignment, Record construction and downstream validation remain later-stage work. No Git durability claim is made; the exact frozen filesystem handoff and this receipt are the completed durable artifacts.
