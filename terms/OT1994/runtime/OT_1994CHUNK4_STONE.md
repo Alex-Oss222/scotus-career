@@ -233,26 +233,34 @@ The taxable event is the local sale of the ticket, not every mile of the interst
 
 #### Position and scope
 
-**Approval Status:** USER-SUPPLIED POSITION. The supplied disposition, reasoning and express alternatives are recorded as preparation instructions. No Court judgment, vote, rationale or coalition is created by this supplement.
+**Approval Status:** Approved Stone position.
 
 **Build:** Commerce Clause and Federalism.
 
+**Court for this event:** Chief Justice Stone writes for a five-Justice majority of Stone, Stevens, Souter, Ginsburg and Breyer. O'Connor, Scalia, Kennedy and Thomas dissent.
+
 #### Case-specific reasoning
 
-Congress can change prospective law and sometimes govern pending cases. Simulated Morgan Stanley already establishes the Article III bar against §27A(b)’s command to reopen the completed, unappealed private securities judgment it reviewed; its reserved questions remain open. Reopening final Article III judgments crosses a distinct separation-of-powers boundary. A remedial aim cannot dissolve finality. Later modification of a continuing injunction must be analyzed separately.
+Our decision in *Morgan Stanley* recognized the constitutional distinction between legislative alteration of governing law and legislative adjudication of an individual controversy. That distinction governs this case.
+
+Petitioners commenced their securities action before the intervening limitations decision. Their action was subsequently dismissed as untimely. Congress later enacted §27A(b), prescribing conditions under which an action dismissed in those circumstances must be reinstated. The fact that the earlier dismissal had become final is important. It establishes that this is not simply the application of amended law to litigation still pending on direct review. Nevertheless, *Morgan Stanley* rejected the proposition that Article III conclusiveness forecloses every new statutory procedure affecting such a completed dismissal.
+
+Congress has not determined that petitioners should prevail on their underlying fraud claims. It has not directed a finding of deception, reliance, causation or damages. It has instead prescribed an ascertainable legal standard for determining whether adjudication may resume. Where the statutory conditions are satisfied, the obligation to reinstate follows from Congress's valid exercise of legislative authority. The judicial duty to apply that command does not establish that Congress has usurped judicial power.
+
+The contrary position would treat the completed character of a limitations dismissal as an absolute constitutional prohibition against subsequent legislation establishing an independently adjudicated remedial entitlement. Stone does not adopt that categorical rule. The statute is a class-defined rule: it reaches every action within its objective criteria, not identified parties, and it entrusts eligibility and the securities claims to federal judges. The concern that a narrowly targeted, exclusively retrospective enactment can function as a legislative judgment is answered by those features; a statute that named parties, selected outcomes, or directed findings would stand differently.
 
 #### Disposition, application and preserved limits
 
-- **Stone's Controlled Judgment or Disposition:** AFFIRM the judgment of the Sixth Circuit.
-- **Stone's Remedy and Remand Instruction:** The final dismissal remains binding. Section 27A(b) may not compel its reopening. No separate remand instruction is required.
+- **Stone's Controlled Judgment or Disposition:** REVERSE the judgment of the Sixth Circuit.
+- **Stone's Remedy and Remand Instruction:** Remand for reinstatement pursuant to the satisfied conditions of §27A(b) and subsequent judicial proceedings on the underlying securities claims. No merits judgment or damages award is entered.
 
-#### Issue 1: Legislative reopening of a final Article III judgment
+#### Issue 1: Legislative reinstatement of a completed limitations dismissal
 
 - **Threshold and Merits Reach:** Stone finds no jurisdictional, preservation, or vehicle bar and reaches the question presented.
-- **Stone's Legal Position:** Stone applies Article III’s allocation of judicial power. Congress may change substantive law, apply new law to pending cases, alter the rules governing prospective relief, create generally applicable judicial remedies, and waive federal claims or defenses when otherwise constitutionally permissible. It may not direct an Article III court to reopen and replace a final judgment in a private case after the judicial process for revising that judgment has ended. The defect is not principally unfairness or disappointed reliance. It is that another department has asserted legal authority to revise the judiciary’s conclusive disposition of a case.
-- **Stone's Proposed Holding:** Congress violates Article III when it commands federal courts to reopen final judgments in private civil actions and enter new dispositions under a subsequently enacted rule.
-- **Stone's Reasoning and Record Application:** Morgan Stanley supplies the existing source for the final-judgment boundary in this statutory setting. Section 27A(b) does not merely change the law applicable to pending litigation. It identifies cases already dismissed by final judgment and orders their restoration. If Congress may require a completed Article III judgment to be replaced, the original judgment was not a conclusive exercise of judicial power. Wheeling Bridge is different because new law changed what continuing prospective relief could lawfully regulate going forward; it did not legislate a substitute disposition for a completed damages or dismissal judgment.
-- **Boundary or Reserved Question:** The holding does not bar prospective legislation, new law governing nonfinal cases, lawful alteration of continuing equitable relief, waiver of a federal claim or defense, or generally applicable judicial reopening rules administered by courts consistently with Article III.
+- **Stone's Legal Position:** Stone applies *Morgan Stanley*'s distinction between legislative alteration of governing law and legislative adjudication of an individual controversy.
+- **Stone's Proposed Holding:** Under *Morgan Stanley*, Article III permits Congress to require the reinstatement of a qualifying private securities action dismissed as time-barred before the enactment of §27A(b), notwithstanding that the dismissal became final without appeal. The statute establishes a new, expressly retrospective reinstatement entitlement. It leaves determination of statutory eligibility and all underlying merits questions to an Article III court. The fact that reinstatement is mandatory upon satisfaction of the statutory conditions does not itself convert the enactment into an unconstitutional exercise of judicial power.
+- **Stone's Reasoning and Record Application:** The qualifying February 11, 1992 motion was timely under the statute. Congress supplied the governing rule; the courts determine eligibility and adjudicate the controversy.
+- **Boundary or Reserved Question:** This holding does not diminish the importance of final judgments. It does not permit Congress to direct courts to find facts contrary to the record, to impose liability upon identified defendants by legislative declaration, or to set aside every form of completed merits judgment without independent constitutional limits. It does not decide the constitutionality of every retrospective statute; applicable due-process protections and other constitutional restrictions remain. It does not rewrite other parties' completed cases or create criminal or innocence remedies.
 <!-- END_SECTION II -->
 
 
