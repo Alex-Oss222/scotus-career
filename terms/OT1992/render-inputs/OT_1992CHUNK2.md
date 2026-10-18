@@ -698,7 +698,7 @@ Identity, date, procedural history and the transcript dispute are verified again
 
 ### 1. Event
 
-No. 91-7328. Merits decision, January 25, 1993. Argued October 7, 1992; on certiorari to the Fifth Circuit, 954 F.2d 1029, vacating a district-court execution stay in a second federal habeas proceeding. The question concerns a claim of innocence based on later affidavits after a constitutionally valid capital conviction and the requested judicial proceedings or stay. Render form: full, because the judgment is 5–4 and no complete opinion commands a majority. Same-day group: January 25; no sequencing dependency on Graham.
+No. 91-7328. Merits decision, January 25, 1993. Argued October 7, 1992; on certiorari to the Fifth Circuit, 954 F.2d 1029, vacating a district-court execution stay in a second federal habeas proceeding. The question concerns a claim of innocence based on later affidavits after a constitutionally valid capital conviction and the requested judicial proceedings or stay.
 
 ### 2. Participation
 
@@ -747,6 +747,10 @@ No complete opinion has five joins. Five expressly support the limited insuffici
 - Delo v. Stokes, 495 U.S. 320 — applied to the substantial-ground requirement on a second or successive federal petition.
 - Townsend v. Sain, 372 U.S. 293, and Keeney v. Tamayo-Reyes, May 4, 1992 — preserved; necessary factual development of a properly available claim remains distinct from legal sufficiency, cognizability, exhaustion and abuse.
 - Sawyer v. Whitley, June 22, 1992 — distinguished; its capital-eligibility gateway does not decide freestanding guilt innocence or supply its merits burden.
+
+#### Limits and Questions Not Reached
+
+The federal habeas disposition does not determine the authority of a State to establish independent postconviction procedures for newly discovered evidence, actual innocence, or scientific developments undermining evidence relied upon at trial. Neither the existence nor the scope of such a state statutory remedy is before the Court. No general federal entitlement to a hearing upon any subsequent scientific disagreement is established.
 
 ### 7. Precedent Treatment
 
