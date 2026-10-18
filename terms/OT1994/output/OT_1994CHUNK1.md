@@ -63,7 +63,16 @@ Argued October 4, 1994, on writ of certiorari to the United States Court of Appe
 
 The Ninth Circuit, 2 F.3d 899, affirmed the district court’s reversal of a bankruptcy ruling and remanded for further bankruptcy proceedings. Its decision recognized the availability of the new-value doctrine; it did not find a particular plan confirmable. A consensual settlement while review was pending mooted the underlying controversy. Bancorp requests vacatur of the appellate judgment; Bonner opposes it. The live questions are the Court’s continuing authority to dispose of the judgment and whether the voluntary settlement justifies vacatur. The bankruptcy merits are not reached.
 
-The Court denies the motion to vacate the Ninth Circuit judgment and dismisses the Supreme Court proceeding as moot, 9–0 on each component. Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer support both dispositions; no Justice opposes either. All participated at argument and decision. Justice Scalia delivered the Opinion of the Court, joined in full by the other eight Justices. All nine adopt both grounds below. No separate opinion was filed.
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
+
+#### Judgment
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
+|---|---|---|---|---|
+| Motion to vacate the Ninth Circuit judgment | Denied, 9–0 | Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | — | Appellate judgment remains undisturbed. |
+| Supreme Court proceeding | Dismissed as moot, 9–0 | Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | — | Merits review ends; no further remand. |
+
+Justice Scalia delivered the Opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer. No separate opinion was filed. All nine directly adopt both controlling propositions below.
 
 The appellate judgment remains undisturbed, without endorsement of its bankruptcy merits. The Court neither dismisses the underlying Chapter 11 case nor vacates any other order. No settlement-enforcement order, plan-confirmation ruling or Rule 60(b) remand is entered.
 
@@ -79,7 +88,7 @@ The Court holds that ending a controversy and disposing of the pending review ar
 
 *Kokkonen v. Guardian Life Insurance Co. of America*, 511 U.S. 375 (1994), is distinguished: jurisdiction over a new settlement-enforcement controversy is different from disposition of a judgment already lawfully under review.
 
-The Court neither enforces the settlement nor supplies a ruling on bankruptcy priority, plan confirmation or the former automatic-stay dispute.
+The Court neither enforces the settlement nor supplies a ruling on bankruptcy priority, plan confirmation or the former automatic-stay dispute. The authority under §2106 to make an equitable disposition of a judgment lawfully before an appellate court differs from authority to reopen a completed judgment after the ordinary review process has ended. This decision does not create a new collateral reopening procedure, displace independently applicable Rule 60 requirements, or make a settlement agreement itself sufficient grounds for vacatur.
 
 #### Voluntary settlement ordinarily does not justify vacatur
 
