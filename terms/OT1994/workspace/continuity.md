@@ -4,7 +4,7 @@
 
 **Posture:** After chunk 9, with 99 completed inventory events and two effective-source admissions. **Chronology cursor:** 1995-06-29. Pinette precedes Chabad under the expressly supplied coordinated sequence. All other June 29 peers share the pre-group entering baseline; no earlier peer result is silently imported.
 
-The opening authority remains the synchronized September 28, 2026 OT1993 edition, processed through June 30, 1994: [Holdings volumes](../../../state/holdings/INDEX.md), [continuous Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), and [Standing State](../../../state/STANDING_STATE.md). The August 3, 1994 Court and circuit allotments remain effective. Current Records supplement that baseline only from their effective dates.
+The opening authority remains the OT1993 term-ending law, processed through June 30, 1994: [Holdings volumes](../../../state/holdings/INDEX.md), [continuous Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), and [Standing State](../../../state/STANDING_STATE.md). The August 3, 1994 Court and circuit allotments remain effective. Current Records supplement that baseline only from their effective dates.
 
 Earlier-term endpoints remain Benten v. Kessler (July 17, 1992), DeBoer v. DeBoer (July 26, 1993), and the complete June 30, 1994 OT1993 group: Holder; De Grandy and companions; Bagwell; McFarland; Madsen; and Tuilaepa/Proctor.
 
@@ -12,7 +12,7 @@ The [manifest](manifest.md) retains 99 scheduled Court inventory matters and sev
 
 No scheduled inventory event remains unadjudicated. Retained original proceedings and inherited carryovers remain open at their recorded stages; term close still requires their express disposition or carry-forward.
 
-**Chunk 9 sequence:** The approved neutral packet expressly places Chabad immediately after Pinette. Its refreshed law includes Pinette's actual Public Projection. Rosenberger, Sweet Home and Miller remain uncoordinated peers. The opening statement that no sequence had yet been established is superseded only for this supplied dependency.
+**Chunk 9 sequence:** Chabad follows Pinette and applies its holding. Rosenberger, Sweet Home and Miller have no coordinated sequence with those decisions.
 
 ## 2. Completed Events and Admitted Sources
 
@@ -65,7 +65,7 @@ No scheduled inventory event remains unadjudicated. Retained original proceeding
 | 1995-04-18 | [Freightliner Corp. v. Myrick, No. 94-286.](../records/Freightliner_Corp_v_Myrick_merits_1995-04-18.md) | Affirm the common-law remand, 9–0; eight-Justice Court opinion, Scalia judgment-only; separate nonlive dispositions undisturbed. |
 | 1995-04-18 | [Heintz v. Jenkins, No. 94-367.](../records/Heintz_v_Jenkins_merits_1995-04-18.md) | Affirm the Seventh Circuit’s reversal of categorical attorney-litigation dismissal, 9–0; no letter-liability finding. |
 | 1995-04-18 | [Lanphere & Urbaniak v. Colorado, No. 94-38.](../records/Lanphere_and_Urbaniak_v_Colorado_merits_1995-04-18.md) | Reverse and remand, 7–2; the categorical use/access restriction fails the governing commercial-speech standard as applied. |
-| 1995-04-18 | [Plaut v. Spendthrift Farm, Inc., No. 93-1121.](../records/Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md) | Affirm denial of §27A(b) reinstatement, 7–2; completed dismissal remains binding. |
+| 1995-04-18 | [Plaut v. Spendthrift Farm, Inc., No. 93-1121.](../records/Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md) | Sixth Circuit reversed, 5–4; remanded for reinstatement under §27A(b) and further proceedings on the securities claims. |
 | 1995-04-18 | [Shalala v. Whitecotton, No. 94-372.](../records/Shalala_v_Whitecotton_merits_1995-04-18.md) | Reverse the Federal Circuit’s compensation direction and remand, 9–0; preserve alternative claims, factual review, and new-evidence component. |
 | 1995-04-19 | [Celotex Corp. v. Edwards, No. 93-1504.](../records/Celotex_Corp_v_Edwards_merits_1995-04-19.md) | Reverse and remand, 7–2; set aside contrary bond execution while the §105 restraint remains effective, preserving direct relief and qualified review. |
 | 1995-04-19 | [McIntyre v. Ohio Elections Commission, No. 93-986 (current petitioner: executor of Margaret McIntyre's estate).](../records/McIntyre_v_Ohio_Elections_Commission_merits_1995-04-19.md) | Reverse the Ohio judgment and set aside the enforcement order and $100 fine, 8–1; seven directly join the scrutiny opinion. |
@@ -85,7 +85,7 @@ No scheduled inventory event remains unadjudicated. Retained original proceeding
 | 1995-05-15 | [Day v. Holahan; No. 94-672](../records/Day_v_Holahan_merits_1995-05-15.md) | The Eighth Circuit judgment is affirmed: financing and special notice 5-4; contribution ceiling and MCCL relief 9-0. |
 | 1995-05-15 | [Reynoldsville Casket Co. v. Hyde; No. 94-3](../records/Reynoldsville_Casket_Co_v_Hyde_merits_1995-05-15.md) | The Supreme Court of Ohio is reversed, 9-0, and the case remanded. |
 | 1995-05-22 | [First Options of Chicago, Inc. v. Kaplan; No. 94-560.](../records/First_Options_of_Chicago_Inc_v_Kaplan_merits_1995-05-22.md) | AFFIRMED, 9-0 on both arbitrability and appellate-review components. |
-| 1995-05-22 | [Kelley v. Board of Trustees of the University of Illinois; No. 94-783 (simulation-assigned).](../records/Kelley_v_Board_of_Trustees_of_the_University_of_Illinois_merits_1995-05-22.md) | AFFIRMED, 9-0 on each distinct statutory and constitutional claim. |
+| 1995-05-22 | [Kelley v. Board of Trustees of the University of Illinois; No. 94-783.](../records/Kelley_v_Board_of_Trustees_of_the_University_of_Illinois_merits_1995-05-22.md) | AFFIRMED, 9-0 on each distinct statutory and constitutional claim. |
 | 1995-05-22 | [U.S. Term Limits, Inc. v. Thornton / Bryant v. Hill; Nos. 93-1456, 93-1828](../records/US_Term_Limits_v_Thornton_Bryant_v_Hill_merits_1995-05-22.md) | The Arkansas Supreme Court is affirmed in both dockets, 6-3. |
 | 1995-05-22 | [Wilson v. Arkansas; No. 94-5707.](../records/Wilson_v_Arkansas_merits_1995-05-22.md) | REVERSED AND REMANDED, 9-0. |
 | 1995-05-30 | [Garlotte v. Fordice, No. 94-6790](../records/Garlotte_v_Fordice_merits_1995-05-30.md) | Fifth Circuit reversed and remanded, 8–1. |
@@ -174,7 +174,7 @@ Authority: [Record](../records/US_Bancorp_Mortgage_Co_v_Bonner_Mall_Partnership_
 - *United States v. Munsingwear, Inc.*, 340 U.S. 36 (1950), confirms §2106 dispositional authority when appellate merits review becomes unavailable; it does not make every available disposition mandatory.
 - *Kokkonen v. Guardian Life Insurance Co. of America*, 511 U.S. 375 (1994), is distinguished: jurisdiction over a new settlement-enforcement controversy is different from disposition of a judgment already lawfully under review.
 
-**Limits and questions not reached:** The Court neither enforces the settlement nor supplies a ruling on bankruptcy priority, plan confirmation or the former automatic-stay dispute.
+**Limits and questions not reached:** The Court neither enforces the settlement nor supplies a ruling on bankruptcy priority, plan confirmation or the former automatic-stay dispute. The authority under §2106 to make an equitable disposition of a judgment lawfully before an appellate court differs from authority to reopen a completed judgment after the ordinary review process has ended. This decision does not create a new collateral reopening procedure, displace independently applicable Rule 60 requirements, or make a settlement agreement itself sufficient grounds for vacatur.
 
 ### Voluntary settlement ordinarily does not justify vacatur
 
@@ -2196,33 +2196,41 @@ Authority: [Record](../records/Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md
 
 #### Holdings
 
-### Section 27A(b) cannot reopen this completed private federal judgment
+### Section 27A(b) permits mandatory reinstatement of this completed limitations dismissal
 
-**Holding and operative rule:** Article III prevents §27A(b) from requiring reinstatement of this private §10(b) action after its dismissal with prejudice became final without appeal before December 19, 1991. Satisfaction of the statute's reinstatement conditions does not overcome that constitutional limit; the denial of reinstatement is affirmed without deciding pending cases, judgments still on direct review, continuing prospective relief, or independently lawful judicial reopening.
+**Holding and operative rule:** Under Morgan Stanley, Article III permits Congress to require reinstatement under §27A(b) of a qualifying private §10(b) action even though its limitations dismissal became final without appeal before the provision's December 19, 1991 enactment: the action must have commenced on or before June 19, 1991, been dismissed as time barred after that date, and been timely under the jurisdiction's law, including retroactivity principles, as it existed June 19, 1991, with a reinstatement motion filed within sixty days after enactment. The court independently determines those cumulative conditions and, when they are satisfied, must reinstate without discretionary balancing, retaining independent responsibility for all claims, defenses, and remedies; this expressly retrospective entitlement does not authorize legislative findings, dictated liability, or unrestricted reopening of completed merits judgments.
 
-**Authority:** Justice Thomas's opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices O'Connor, Scalia, Kennedy, Souter, and Breyer: seven direct rationale and judgment votes. Stone-Zsela also concurs separately; his broader formulation is not the Court's holding. Justices Stevens and Ginsburg dissent.
+**Authority:** Chief Justice Stone-Zsela's Opinion of the Court, joined in full by Stevens, Souter, Ginsburg, and Breyer. Those five direct rationale joins control every proposition, qualification, and remedy stated here. O'Connor, Scalia, Kennedy, and Thomas dissent; no combination of separate rationales is necessary.
 
-**Controlling explanation:** The Court holds that Morgan Stanley governs this completed private limitations judgment. That decision accepts Congress's genuine amendment of limitations law but rejects this command to reopen a dismissal already final without appeal. Robertson permits changed law in pending litigation; it does not erase the completed-judgment boundary. McCullough recognizes completed adjudication, and Klein protects the judicial function without prohibiting genuine statutory amendment. The plaintiffs satisfied §27A(b)'s conditions and timely sought reinstatement, so their motion fails on Article III grounds, not statutory ineligibility. Their strongest argument is that Congress restored earlier filing expectations while leaving fraud and defenses for judicial resolution. Morgan Stanley considered that distinction: further merits work cannot make this completed dismissal nonfinal. No altered statutory command, relevant record difference, intervening displacement, or demonstrated unworkability warrants reconsideration here. Wheeling Bridge concerns continuing prospective relief, and Sioux Nation concerns the Government's waiver of its own defense. The Court applies the existing confined rule, leaving broader remedial legislation, other statutory applications, due process, and fraud liability undecided.
+**Controlling explanation:** The Court holds that Morgan Stanley governs this completed limitations dismissal. Finality matters: the unappealed judgment ended the ordinary review process. But Morgan Stanley distinguishes Congress's creation of a bounded entitlement to further adjudication from legislative adjudication of the controversy itself. Section 27A(b) supplies the governing rule; judges determine whether its conditions are satisfied and decide the securities claims.
+
+The statute's narrow coverage and exclusively retrospective operation require attention, but do not make it an individualized legislative judgment. It reaches every action satisfying objective conditions concerning commencement, dismissal, governing limitations law, and the time for seeking relief. It does not identify parties for an award or assessment of liability. A closed temporal class is still a class defined by law. Congress has directed no finding of deception, reliance, causation, or damages. Independent judicial determination remains both at the eligibility stage and on the merits. Mandatory reinstatement after eligibility is established is the consequence of the new legal rule, not a legislative finding that the plaintiffs prevail on their claims.
+
+Robertson distinguishes a genuine change in governing law from prescribed adjudication; Morgan Stanley supplies the completed-dismissal application that Robertson left open. Klein protects the judicial function without forbidding this statutory entitlement. McCullough's protection of completed judicial determinations remains: Congress may not dictate contrary findings or declare a defendant liable. Beam's finality limit on judicial retroactivity does not erase an express statutory remedy. Wheeling Bridge and Sioux Nation concern continuing equitable relief and sovereign waiver, respectively; neither supplies an unrestricted reopening power. Chase Securities addresses due-process revival, not the Article III issue resolved here.
+
+The February 11, 1992 motion satisfied the statutory conditions. Reinstatement therefore follows, with the securities merits left for the courts. The dissent's objection treats completion of this limitations dismissal as an absolute bar despite the retained judicial work; Morgan Stanley forecloses that rule in this setting. Other completed merits judgments, individualized legislative commands, and independent constitutional protections remain outside this holding.
+
+**Limits and questions not reached:** Congress may not command findings contrary to the record, impose liability on identified defendants by legislative declaration, or disguise an individualized award as a procedural reopening law. The Court decides no general power to set aside completed judgments adjudicating the underlying merits, no constitutionality of every retrospective statute, and no independent due-process question; applicable due-process protections and other constitutional restrictions remain. Section 27A(a), other applications of subsection (b), general severability, federal waiver, continuing prospective relief, and independently authorized judicial reopening are not decided. The decision neither adjudicates other parties' completed cases nor creates criminal or innocence remedies. Fraud, reliance, causation, liability, damages, and ordinary merits defenses remain for the courts; reinstatement establishes none of them.
 
 **Precedent treatment:**
 
-- Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994: applies its as-applied Article III rule to the same completed, unappealed private-dismissal setting without enlarging it.
-- Robertson v. Seattle Audubon Society, March 25, 1992: preserves genuine legislative changes governing pending cases; it does not authorize the present reopening of a completed judgment.
-- McCullough v. Virginia, 172 U.S. 102: applies the distinction between changing law and disturbing completed adjudication.
-- United States v. Klein, 80 U.S. (13 Wall.) 128: preserves protection of the judicial function without treating actual legislative amendment as forbidden.
-- Pennsylvania v. Wheeling & Belmont Bridge Co., 59 U.S. (18 How.) 421: distinguishes adjustment of the continuing prospective operation of equitable relief.
-- United States v. Sioux Nation of Indians, 448 U.S. 371: distinguishes sovereign waiver of the Government's own final-judgment defense from compulsory reopening between private parties.
-- Chase Securities Corp. v. Donaldson, 325 U.S. 304: leaves its due-process revival rule intact; it does not resolve the Article III question presented.
-
-**Statutory conditions and reservations:** Section 27A(b) addresses a private §10(b) action commenced on or before June 19, 1991, dismissed as time barred after that date, and timely under the law of the jurisdiction, including retroactivity principles, as it existed June 19, 1991. It directs reinstatement on a plaintiff's motion within sixty days after December 19, 1991. These conditions were satisfied here, including the February 11, 1992 motion. Subsection (a), other applications of subsection (b), general severability, constitutional due process, fraud, damages, federal waiver, and independently authorized judicial reopening are not decided. The Court adopts no comprehensive prohibition governing every later legislative effect on every final order.
+- Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994: applies its five-Justice Article III holding sustaining §27A(b)'s bounded mandatory reinstatement procedure to this qualifying completed private limitations dismissal; preserves independent eligibility and merits adjudication and all constitutional limits.
+- Robertson v. Seattle Audubon Society, March 25, 1992: applies its distinction between genuine legislative change and prescribed judicial adjudication; Morgan Stanley supplies the completed-dismissal rule that Robertson did not decide.
+- United States v. Klein, 80 U.S. (13 Wall.) 128: applies its protection of the independent judicial function; a class-defined entitlement to renewed adjudication does not dictate findings or securities liability.
+- McCullough v. Virginia, 172 U.S. 102: preserves protection of completed judicial determinations while distinguishing the statutory entitlement to litigate a limitations-dismissed claim from a legislative declaration of facts or liability contrary to an adjudication.
+- James B. Beam Distilling Co. v. Georgia, 501 U.S. 529: preserves finality against reopening by later judicial doctrine alone; the entitlement here comes from an express statute whose Article III validity Morgan Stanley establishes.
+- Pennsylvania v. Wheeling & Belmont Bridge Co., 59 U.S. (18 How.) 421: distinguishes the continuing operation of prospective equitable relief; that setting does not itself decide this completed limitations dismissal.
+- United States v. Sioux Nation of Indians, 448 U.S. 371: distinguishes the Government's waiver of its own defense; no governmental waiver of a private defendant's defense supplies the holding here.
+- Chase Securities Corp. v. Donaldson, 325 U.S. 304: leaves its due-process revival rule intact without treating it as a controlling answer to Article III.
+- Lampf, Pleva, Lipkind, Prupis & Petigrow v. Gilbertson, 501 U.S. 350: identifies the limitations rule that produced the dismissal and the statutory response; §27A(b) supplies reinstatement without establishing the securities merits.
 
 #### Precedent Treatment
 
-Morgan Stanley controls without enlargement. Robertson retains legislative amendment of pending-case law; McCullough and Klein protect completed adjudication without denying that genuine amendment occurred. Wheeling Bridge and Sioux Nation remain distinct prospective-relief and sovereign-waiver settings. Chase Securities remains a due-process revival authority. No precedent is overruled.
+Morgan Stanley controls the constitutional question and mandatory statutory remedy. Robertson and Klein retain the distinction between legislation governing adjudication and legislative performance of adjudication. McCullough continues to protect completed judicial determinations within the distinction Morgan Stanley draws. Beam's rule of judicial retroactivity alone creates no reopening entitlement. Wheeling Bridge, Sioux Nation, and Chase Securities remain authorities for their distinct prospective-relief, sovereign-waiver, and due-process settings. Lampf remains the intervening limitations decision to which §27A(b) responds. No precedent is overruled.
 
 #### Law After Decision
 
-The existing May 23, 1994 Article III rule remains operative: §27A(b) cannot compel reopening of the completed, unappealed private dismissal presented here. This decision applies that rule rather than establishing a universal prohibition on every legislative effect on every final order. Stone-Zsela's broader formulation and the two dissenters' proposed reconsideration are noncontrolling. Statutory timeliness is satisfied, and neither fraud nor liability is adjudicated.
+A completed, unappealed private securities limitations dismissal within §27A(b)'s objective criteria must be reinstated on a timely qualifying motion. Courts determine eligibility independently and retain all adjudicative responsibility for the underlying claims, defenses, and remedies. A narrowly defined, exclusively retrospective class does not by itself turn this procedure into a legislative judgment: the statute covers every action meeting its legal criteria and selects no parties for legislatively determined liability. The rule does not establish a general power to reopen completed merits judgments or remove independent constitutional protections. The dissent's contrary finality rule is noncontrolling.
 
 ### Shalala v. Whitecotton, No. 94-372. — 1995-04-18
 
@@ -3403,7 +3411,7 @@ Authority: [Record](../records/First_Options_of_Chicago_Inc_v_Kaplan_merits_1995
 
 Courts independently determine agreement to arbitrate arbitrability unless ordinary applicable contract law establishes clear and unmistakable delegation. Presenting an objection while denying panel jurisdiction does not itself establish delegation; company submission does not itself establish an owner's personal assent. Where parties actually delegate arbitrability, limited award review governs that decision. Appellate courts independently review district-court legal conclusions and review factual findings for clear error. Arbitration supplies no additional appellate deference to the district judge's independent arbitrability determination.
 
-### Kelley v. Board of Trustees of the University of Illinois; No. 94-783 (simulation-assigned). - 1995-05-22
+### Kelley v. Board of Trustees of the University of Illinois; No. 94-783. - 1995-05-22
 
 Authority: [Record](../records/Kelley_v_Board_of_Trustees_of_the_University_of_Illinois_merits_1995-05-22.md#public-projection)
 
@@ -5329,9 +5337,9 @@ Justice O'Connor, joined by Justice Scalia, dissents. Official dissemination of 
 
 Authority: [Record](../records/Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md#public-projection).
 
-Chief Justice Stone-Zsela concurs in the Court's opinion and judgment and writes separately to state the broader finality principle he would apply. Congress may change substantive law, govern pending cases, alter the rules for prospective relief, create generally applicable judicial remedies, and waive federal claims or defenses when otherwise constitutionally permissible. It may not command an Article III court to reopen and replace a final judgment in a private civil action after the judicial process for revising that judgment has ended. The defect is another department's assertion of authority to revise a conclusive judicial disposition, not principally unfairness or disappointed reliance. Morgan Stanley supplies the controlling rule for this statute, and §27A(b) orders restoration of cases already finally dismissed. Wheeling Bridge concerns continuing prospective relief, which remains distinct. His position preserves prospective legislation, nonfinal cases, lawful alteration of continuing equitable relief, federal waiver, and generally applicable reopening rules administered by courts consistently with Article III. No other Justice joins this separate broader formulation.
+Justice Scalia dissents, joined by Justices O'Connor, Kennedy, and Thomas. A dismissal with prejudice that has become final without appeal is a completed exercise of judicial power even when it rests on limitations. In their view, Congress may change the law for pending cases but may not require an Article III court to undo its conclusive disposition after ordinary review has ended. Leaving fraud and damages for a later judicial decision does not preserve the conclusiveness of the dismissal itself. The dissent acknowledges that Morgan Stanley governs the statutory setting, but rejects its distinction between a new entitlement to adjudication and interference with the completed judgment.
 
-Justice Stevens dissents, joined by Justice Ginsburg. They expressly advocate reconsidering Morgan Stanley's treatment of this limited statutory class; they do not deny that it is binding, recent, and directly applicable. Section 27A(b) changes the limitations law and restores actions timely under the earlier filing regime while leaving fraud, defenses, and relief for courts to adjudicate. Robertson supplies the genuine-law-change principle, and Schor supports attention to the actual judicial function retained. They acknowledge completed finality and McCullough's concern but regard the confined correction as preserving essential judicial adjudication. Chase Securities supplies a revival analogy, not a controlling Article III answer; Sioux Nation illustrates changed legal effect without pretending that the Government waived a private defendant's defense here. They would reverse the denial and remand for reinstatement and adjudication, without finding fraud, awarding damages, deciding every due-process question, or recognizing unrestricted legislative reopening power.
+McCullough supplies the dissent's protection of completed adjudication, and Klein protects judicial decision from legislative control. Robertson permitted changed law in pending litigation; it did not decide completed judgments. Beam preserves finality despite later judicial doctrine. Wheeling Bridge concerns prospective equitable relief and Sioux Nation the Government's own defense. The dissent treats neither setting as authority for reopening a private final dismissal. Congress's use of objective criteria and an express temporal command does not answer the dissent's objection: every judgment within the defined class has already conclusively disposed of its case. Narrow and wholly retrospective coverage strengthens the concern about legislative interference, although the dissent's objection also reaches a broader command to reopen such completed private judgments. The dissent would affirm denial of reinstatement, without deciding §27A(a), independent due-process claims, fraud, liability, or damages.
 
 ### Shalala v. Whitecotton, No. 94-372. — 1995-04-18
 
@@ -5348,8 +5356,6 @@ Chief Justice Stone-Zsela concurs in part and in the judgment. He joins the June
 Justice Stevens, joined by Justice Ginsburg, dissents. They accept that the June 13 order expressly reaches the bond proceeding and that immediate execution is actually related to the Chapter 11 case under §1334(b)'s nonexclusive district-court jurisdiction. Their objection concerns the allocation of adjudicative power to the bankruptcy judge under §157 and Article III. Northbrook's undertaking matured independently of Celotex's tort debt. A related controversy and the issuing judge's core label do not, in their view, empower that non-Article III judge to prevent the Article III bond court from deciding the undertaking when §157 assigns final determination to the district court. Calling the restraint interim does not answer that structural objection.
 
 They accept that ordinary legal error does not generally authorize disobedience and do not reject orderly review of orders issued with the requisite authority. They regard that antecedent condition as unsatisfied here and would affirm enforcement of Northbrook's bond. They do not rely on the original October wording alone, deny all related jurisdiction, presume consent or a proved refusal, find exact collateral depletion, adopt a blanket ban on every nondebtor injunction, or assert the injunction's indefinite validity. Their ground concerns this statutory allocation and this restraint. It supplies no controlling rule and changes no amount of the undertaking.
-
-These complete published positions are Stone-Zsela's concurrence in part and in the judgment and Stevens's dissent joined by Ginsburg, on April 19, 1995. Their separate reasoning is noncontrolling; Stone's joins in the Court's coverage and remedy portions have the controlling scope stated above. No separate §1481 history theory, October-only scope position, automatic-stay holding, or hypothetical consent finding is published.
 
 ### McIntyre v. Ohio Elections Commission, No. 93-986 (current petitioner: executor of Margaret McIntyre's estate). — 1995-04-19
 
@@ -5520,7 +5526,7 @@ Third Circuit personal-award judgment remains in force; corporate submission rem
 
 Published noncontrolling positions: No separate writing is filed. Stone-Zsela's partial join reserves merits-award deference, broad delegation clauses and incorporated rules without adopting an affirmative alternative or changing the judgment. No unpublished commitment changes current law.
 
-### Kelley v. Board of Trustees of the University of Illinois; No. 94-783 (simulation-assigned). - 1995-05-22
+### Kelley v. Board of Trustees of the University of Illinois; No. 94-783. - 1995-05-22
 
 Authority: [Record](../records/Kelley_v_Board_of_Trustees_of_the_University_of_Illinois_merits_1995-05-22.md#public-projection)
 
@@ -6141,7 +6147,7 @@ The Tenth Circuit's judgment is reversed and the case remanded for further proce
 
 Authority: [Record](../records/Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md#public-projection).
 
-Denial of the reinstatement motion remains in force and the final dismissal remains binding. No separate remand, restored securities action, fraud trial, or damages determination is ordered. The decision does not adjudicate other applications of §27A or independently authorized judicial reopening.
+The judgment of the Sixth Circuit is reversed. The case is remanded for reinstatement under the satisfied conditions of §27A(b) and further judicial proceedings on the underlying securities claims. Reinstatement is required, not a discretionary remedy. The courts retain responsibility for the merits, defenses, and any relief; no merits outcome is prescribed.
 
 ### Shalala v. Whitecotton, No. 94-372. — 1995-04-18
 
@@ -6258,7 +6264,7 @@ Authority: [Record](../records/First_Options_of_Chicago_Inc_v_Kaplan_merits_1995
 
 Third Circuit personal-award judgment remains in force; corporate submission remains distinct. Supreme Court merits event is complete; no new Supreme Court step is created.
 
-### Kelley v. Board of Trustees of the University of Illinois; No. 94-783 (simulation-assigned). - 1995-05-22
+### Kelley v. Board of Trustees of the University of Illinois; No. 94-783. - 1995-05-22
 
 Authority: [Record](../records/Kelley_v_Board_of_Trustees_of_the_University_of_Illinois_merits_1995-05-22.md#public-projection)
 
@@ -6468,9 +6474,9 @@ Authority: [Record](../records/Miller_and_consolidated_merits_1995-06-29.md#publ
 
 The mandate affirms the judgment for Georgia and denial of injunctive relief, without remand. The pleaded constitutional merits challenge is complete. No independently preserved claim, redraw proceeding or remedy supervision remains in this case; unrelated statutory challenges and claims against federal officials are not adjudicated by this mandate.
 
-## 6. Blockers and Revalidation Needs
+## 6. Open Matters and Source Limits
 
-Miller jurisdictional predicates were independently verified from compatible objective source records and adjudicated as stated in its Record. The earlier missing-predicate note is resolved; no new claim or historical Supreme Court action was imported.
+Miller's jurisdictional predicates and case-specific limits are stated in its Record.
 
 No chunk-9 matter remains stopped.
 
@@ -6480,22 +6486,15 @@ The March 10 revised Vaccine Injury Table and qualifications are admitted in the
 
 Robertson’s May 1 decision is completed; ordinary remaining appellate proceedings are preserved below.
 
-The Engine section 8 notice and the Morales/Williams private draft-label issues are resolved. The Engine change affected only Stone v. INS’s assignment, which its current Record already corrects; Morales’s replacement and Williams’s current Record identify completed adjudications, and Williams’s stale body-status sentence is now reconciled to completed preservation and validation. The original Engine change notice and LINEAGE_STATUS_REVIEW in freeze/ remain historical receipts, not live blockers. See [chunk validation](../freeze/OT_1994CHUNK5_VALIDATION.md). These status corrections change no judgment or Public Projection. Git verification and repository commitment remain with the operator.
 
 ## 7. Source and Research Cutoff
 
-Each Record carries its event-date research cutoff. [Chunk-3 validation](../freeze/OT_1994CHUNK3_VALIDATION.md) records achieved isolation, preserved handoffs, source limits, deterministic checks and pending operator provenance work. The [O'Neal completion validation](../freeze/OT_1994CHUNK3_ONEAL_VALIDATION.md) and [chronology review](../freeze/OT_1994CHUNK3_ONEAL_CHRONOLOGY.md) govern this completion. Earlier frozen phase artifacts remain historical receipts; current Records control. No Git command was run. Repository verification and commitment remain reserved to the operator; rendering remains a separate task.
-
-[Chunk-4 validation](../freeze/OT_1994CHUNK4_VALIDATION.md) records the achieved scoped stages and deferred Git provenance checks. Each event retains its own cutoff. The two April 19 decisions are excluded from their same-date peers’ entering-law baseline. Rendering remains a separate task.
-
-[Chunk-5 validation](../freeze/OT_1994CHUNK5_VALIDATION.md) records scoped-stage results and deferred Git verification. Each event retains its own research cutoff. The May 15 decisions do not enter their same-date chunk-6 peers. Rendering remains a separate task.
+Each Record carries its event-date research cutoff and its specific source limits.
 
 
-[Chunk-6 validation](../freeze/OT_1994CHUNK6_VALIDATION.md) records separated freezes, disclosed context limits, complete bounded judgments, deterministic checks and deferred Git verification. Rendering is a separate task.
 
-[Chunk-7 validation](../freeze/OT_1994CHUNK7_VALIDATION.md) records stage isolation, source limits, deterministic checks and deferred Git verification. Rendering is a separate task.
 
-[Chunk-8 validation](../freeze/OT_1994CHUNK8_VALIDATION.md) records the separated stages, source limits and non-Git checks. Each event retains its event-date cutoff. June 29 chunk-8 decisions do not enter uncoordinated same-date chunk-9 peers. Operator Git verification and commitment remain pending. Render remains a separate task.
 
-[Chunk-9 validation](../freeze/OT_1994CHUNK9_VALIDATION.md) records source verification, frozen handoffs, the disclosed context-reuse limitation, coordinated non-Git checks and deferred operator Git verification. Public rendering remains a separate task.
+
+
 

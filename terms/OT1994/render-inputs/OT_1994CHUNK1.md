@@ -80,8 +80,6 @@ U.S. Bancorp Mortgage Co. v. Bonner Mall Partnership, 513 U.S. 18, No. 93-714. D
 
 The Ninth Circuit, 2 F.3d 899, affirmed the district court’s reversal of a bankruptcy ruling and remanded for further bankruptcy proceedings. Its decision recognized the availability of the new-value doctrine; it did not find a particular plan confirmable. A consensual settlement while review was pending mooted the underlying controversy. Bancorp requests vacatur of the appellate judgment; Bonner opposes it. The live questions are the Court’s continuing authority to dispose of the judgment and whether the voluntary settlement justifies vacatur. The bankruptcy merits are not reached.
 
-Render form: compact. Basis: unanimous disposition on two directly supported grounds, with the appellate judgment preserved and a single uncomplicated Court opinion.
-
 ## Participation
 
 Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
@@ -116,7 +114,7 @@ Justice Scalia delivered the Opinion of the Court, joined in full by Chief Justi
 - *United States v. Munsingwear, Inc.*, 340 U.S. 36 (1950), confirms §2106 dispositional authority when appellate merits review becomes unavailable; it does not make every available disposition mandatory.
 - *Kokkonen v. Guardian Life Insurance Co. of America*, 511 U.S. 375 (1994), is distinguished: jurisdiction over a new settlement-enforcement controversy is different from disposition of a judgment already lawfully under review.
 
-**Limits and questions not reached:** The Court neither enforces the settlement nor supplies a ruling on bankruptcy priority, plan confirmation or the former automatic-stay dispute.
+**Limits and questions not reached:** The Court neither enforces the settlement nor supplies a ruling on bankruptcy priority, plan confirmation or the former automatic-stay dispute. The authority under §2106 to make an equitable disposition of a judgment lawfully before an appellate court differs from authority to reopen a completed judgment after the ordinary review process has ended. This decision does not create a new collateral reopening procedure, displace independently applicable Rule 60 requirements, or make a settlement agreement itself sufficient grounds for vacatur.
 
 ### Voluntary settlement ordinarily does not justify vacatur
 

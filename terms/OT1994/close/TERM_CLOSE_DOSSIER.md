@@ -1,36 +1,22 @@
 # October Term 1994 — Term-Close Dossier
 
-**Publication date:** October 1, 2026.  
-**Authority:** The user's express instruction to Commit October Term 1994 while accepting the specific Low-severity exceptions F01, F02 and F03 documented in [AUDIT.md](AUDIT.md).  
-**Status:** Coordinated publication verified; the six specified staging files removed. Close proceeds with the expressly accepted F01/F02/F03 exceptions. Repository verification and Git commitment remain with the operator.
+**Status:** All 99 inventory Court events are completed. The three Low-severity findings described in [AUDIT.md](AUDIT.md) concern internal typography and deterministic-checker diagnostics.
 
-## Close authority and accepted exceptions
+## Controlling securities-finality decisions
 
-This Commit proceeds under the operator-documented exceptions expressly accepted by the user, not a zero-finding audit. The unchanged round-16 audit records **FAIL; 0 Critical, 0 High, 0 Medium and 3 Low findings**. The user's current instruction expressly overrides the ordinary requirement that Commit await an audit with no unresolved discrepancy for these specific, non-substantive findings. It does not authorize an adjudicative revision or a change to the checker.
+[Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co.](../../OT1993/records/Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md), May 23, 1994, sustains §27A(b), 5–3, in Chief Justice Stone-Zsela's Opinion of the Court. Congress may require reinstatement of a private §10(b) action commenced on or before June 19, 1991, dismissed as time barred after that date, and timely under the jurisdiction's law, including retroactivity principles, as that law stood on June 19, 1991, on a motion filed within sixty days after December 19, 1991. Courts independently decide the cumulative predicates and, once they are satisfied, must reinstate without a discretionary balancing test. The securities merits, defenses and remedies remain for judicial adjudication. Compelled reopening of merits judgments and individualized legislative determinations of liability are not decided.
 
-- **F01 — Internal fused-word and citation-spacing typography.** Round 17 further narrowed the typography reported in round 16. Residual defects in internal Record support and audit-trail text remain accepted as documented. The prior fresh legal-substance reviews found no effect on votes, holdings, coalitions or remedies, and none of this residual typography enters a Public Projection. This publication makes no Record typography repair and does not convert the accepted exception into a claim of complete correction.
-- **F02 — Commit-reference scanner false positives.** The audit traced the checker's 57 warnings to source/document identifiers, citation URLs, an ISBN, a technical-advice memorandum number and ordinary-word fragments. Its separate actual-commit review passed, including the six priority handoffs. The scanner defect in `tools/check_term.py` remains; no tool is edited and no Git command is run in this pass. This dossier relies on the audit's provenance verification rather than claiming a new commit-object review.
-- **F03 — Premature candidate-cleanup predicate.** The checker treats the literal substring `no unresolved` anywhere in the audit as a completed-close determination, even when the audit fails or publication has not occurred. The defect remains. Candidate deletion in this pass follows actual publication verification and the user's exact six-file cleanup instruction; it is not performed to evade the predicate.
+[Plaut v. Spendthrift Farm, Inc.](../records/Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md), April 18, 1995, applies that rule and reverses the Sixth Circuit, 5–4. Chief Justice Stone-Zsela writes for Stevens, Souter, Ginsburg and Breyer; Scalia dissents for O'Connor, Kennedy and Thomas, with O'Connor assigning the principal dissent. All §27A(b) conditions are satisfied, requiring reinstatement and further proceedings on the securities claims. The Act is class-defined, reaches every action within objective criteria rather than identified parties, and leaves eligibility and the merits to judges. Its narrow class and exclusively retrospective operation do not make it a legislative adjudication.
 
-The audit is retained byte-for-byte, including its findings and prepublication handoff. This dossier records the subsequent express authorization and actual publication. No additional audit/fix cycle or fresh substantive adjudication is claimed.
+[U.S. Bancorp Mortgage Co. v. Bonner Mall Partnership](../records/US_Bancorp_Mortgage_Co_v_Bonner_Mall_Partnership_mootness_vacatur_1994-11-08.md) concerns §2106 equitable disposition of a judgment lawfully before an appellate court. It creates no collateral reopening procedure, displaces no independently applicable Rule 60 requirement, and does not make a settlement agreement itself sufficient grounds for vacatur. [Celotex Corp. v. Edwards](../records/Celotex_Corp_v_Edwards_merits_1995-04-19.md) preserves lawful review of an effective bankruptcy restraint; the bounded securities reinstatement decisions supply no self-help exception.
 
-## Scope and synchronized publication
+## Term scope
 
 All **99 OT1994 inventory Court events are closed as inventory events**, with **two additional Admitted Source Records**, for **101 current Records**. Nine chunks contain 12 events apiece in chunks 1–8 and three in chunk 9. The last adjudicative date is June 29, 1995. Completion of an inventory event does not terminate the underlying proceedings that its Record leaves open.
 
-The already-audited candidate content is published together to [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md) and [Standing State](../../../state/STANDING_STATE.md). The shared publication fields are:
+## Opening trackers and source copies
 
-**Last completed October Term:** 1994  
-**Processed through:** June 29, 1995, after all 99 OT1994 inventory Court events and the two admitted source events.  
-**Edition:** October 1, 2026
-
-Only publication headers change. Standing State's header also changes its staged-candidate posture to the opening of OT1995 before the first supplied event, following the prior close's publication convention. Its substantive body, including the opening term, roster, allotments, referral practice and docket, remains the candidate's text. The doctrinal Holdings index receives the same three common publication-header updates. Candidate source links already use publication-compatible destinations; none is rewritten.
-
-The audit reviewed 236 OT1994 controlling-proposition blocks, 508 combined Holdings case-area entries and 370 Standards titles. Publication preserves the full candidates, including independently sufficient grounds, qualifications, unresolved questions, current-force treatment, remedies and source limits. The present pass verifies preservation; it does not rederive those legal conclusions.
-
-## Opening trackers and staged sources
-
-The term-opening registers shared the OT1993 close fields: last completed term 1993; processed through June 30, 1994, after all eleven chunk-8 matters and all 95 OT1993 inventory Court events; edition September 28, 2026. Their exact intake bytes, and the exact candidates and pass notes before cleanup, are preserved in the scratch evidence set linked below. The [OT1993 close dossier](../../OT1993/close/TERM_CLOSE_DOSSIER.md) identifies the earlier publication. Closed-term workspace links to opening trackers retain their historical opening-baseline meaning, rather than importing this new publication into an earlier event.
+The term-opening registers shared the OT1993 close fields: last completed term 1993; processed through June 30, 1994, after all eleven chunk-8 matters and all 95 OT1993 inventory Court events; edition September 28, 2026. The linked source copies preserve the term-opening registers and close materials. The [OT1993 close dossier](../../OT1993/close/TERM_CLOSE_DOSSIER.md) identifies the earlier publication. Closed-term workspace links to opening trackers refer to the term-opening baseline.
 
 | Tracker | Preserved OT1994 opening bytes | Preserved audited candidate bytes | Published destination |
 |---|---|---|---|
@@ -38,13 +24,11 @@ The term-opening registers shared the OT1993 close fields: last completed term 1
 | Standards and Tests | [Opening snapshot](../../../tmp/ot1994_commit_2026-10-01/opening/STANDARDS_AND_TESTS.md) | [Candidate snapshot](../../../tmp/ot1994_commit_2026-10-01/staging/STANDARDS_AND_TESTS.candidate.md) | [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md) |
 | Standing State | [Opening snapshot](../../../tmp/ot1994_commit_2026-10-01/opening/STANDING_STATE.md) | [Candidate snapshot](../../../tmp/ot1994_commit_2026-10-01/staging/STANDING_STATE.candidate.md) | [Standing State](../../../state/STANDING_STATE.md) |
 
-Scratch holds verification evidence, not a new source of law. Repository history remains the preservation mechanism for superseded tracked bytes; the operator performs its verification and commit after this pass. No new Git commitment or hash is asserted here.
-
 ## Final manifest, continuity and carry-forward
 
-The [inventory](../case-list.md), [final manifest](../workspace/manifest.md), [ledger](../workspace/ledger.md), [final Term Continuity Note](../workspace/continuity.md) and [neutral projection](../workspace/neutral-projection.md) are incorporated unchanged. The 99 inventory rows each identify a completed decision Record. No scheduled inventory matter remains stopped. Pinette precedes Chabad in the expressly coordinated June 29 sequence; the other June 29 decisions remain uncoordinated peers.
+The [inventory](../case-list.md), [final manifest](../workspace/manifest.md), [ledger](../workspace/ledger.md), [final Term Continuity Note](../workspace/continuity.md) and [neutral projection](../workspace/neutral-projection.md) are incorporated. The 99 inventory rows each identify a completed decision Record. No scheduled inventory matter remains stopped. Pinette precedes Chabad in the expressly coordinated June 29 sequence; the other June 29 decisions remain uncoordinated peers.
 
-The published Standing State carries nine matters at their established stages: Zatko v. California and its companion petitions; Wyoming v. Oklahoma; Reynolds v. International Amateur Athletic Federation; Grubbs v. Delo; United States v. Louisiana; Delaware v. New York; Nebraska v. Wyoming; In re Anderson; and Kansas v. Colorado. It also preserves the ten user-added OT1995 matters, for 19 docket rows. Nebraska's amendments and Kansas's liability-exceptions decision leave their original proceedings open. No new terminal action, filing, deadline or docket identification is inferred.
+The published Standing State carries nine matters at their established stages: Zatko v. California and its companion petitions; Wyoming v. Oklahoma; Reynolds v. International Amateur Athletic Federation; Grubbs v. Delo; United States v. Louisiana; Delaware v. New York; Nebraska v. Wyoming; In re Anderson; and Kansas v. Colorado. It also preserves the ten additional OT1995 matters, for 19 docket rows. Nebraska's amendments and Kansas's liability-exceptions decision leave their original proceedings open. No new terminal action, filing, deadline or docket identification is inferred.
 
 Standing State represents the OT1995 opening roster and seniority, all thirteen circuit allotments effective August 3, 1994, and the retained referral practice. That prospective institutional setting does not advance the common June 29, 1995 adjudicative cutoff. Its identification limits for A. St. P. C. and the reconstructed Bush v. Vera posture remain intact.
 
@@ -52,27 +36,23 @@ Standing State represents the OT1995 opening roster and seniority, all thirteen 
 
 | Effective date | Admitted source and provenance | Preserved operation |
 |---|---|---|
-| March 10, 1995 | [Revised Vaccine Injury Table and Qualifications and Aids to Interpretation](../records/Vaccine_Injury_Table_regulatory_effectiveness_1995-03-10.md), 60 Fed. Reg. 7678–7696, published February 8, 1995; the Record identifies and incorporates the official rule and preserved source copies. | The revised Table and qualifications apply to petitions filed on or after March 10. Earlier petitions retain the statutory Table and qualifications as in effect February 8, 1995. The Record documents the bounded late chronology insertion. No claimant-specific ruling or Court action is added. |
+| March 10, 1995 | [Revised Vaccine Injury Table and Qualifications and Aids to Interpretation](../records/Vaccine_Injury_Table_regulatory_effectiveness_1995-03-10.md), 60 Fed. Reg. 7678–7696, published February 8, 1995; the Record identifies and incorporates the official rule and preserved source copies. | The revised Table and qualifications apply to petitions filed on or after March 10. Earlier petitions retain the statutory Table and qualifications as in effect February 8, 1995. No claimant-specific ruling or Court action is added. |
 | April 4, 1995 | [Plant Variety Protection Act Amendments of 1994](../records/Plant_Variety_Protection_Act_Amendments_statutory_effectiveness_1995-04-04.md), Pub. L. 103-349, 108 Stat. 3136, enacted October 6, 1994; the Record incorporates the official law and enrolled text. | The amendments take effect subject to their express transitions. Former-law certificates and pending applications, optional refiling, labeling sanctions and the separate contract-producer provision retain their recorded terms and limits, including the unresolved enacted-wording issue. No judicial holding or individual relief is invented. |
 
-## Six priority mid-term corrections and current status
+## Selected dispositions and limits
 
-The audit's current-status conclusions remain operative. This pass directly checks the current Record opening fields and assignment text where relevant, and rechecks all 99 Record/Public Projection-to-Render Input identities. The audited public renders and candidate substance remain unchanged. This is preservation verification, not a new legal-substance audit.
-
-| Matter | Current verified status |
+| Matter | Disposition and limits |
 |---|---|
-| [Interstate Commerce Commission v. Transcon Lines](../records/Interstate_Commerce_Commission_v_Transcon_Lines_merits_1995-01-10.md) | The January 10, 1995 disposition reverses and remands 9–0 for implementation of an injunction limited to the admitted-unlawful loss-of-discount liquidated-damages class. Ordinary unpaid freight principal and other receivables remain excluded; genuine scope, inclusion and amount questions beyond the concessions remain. The former open-ended remedy-consideration posture is not the current action. |
+| [Interstate Commerce Commission v. Transcon Lines](../records/Interstate_Commerce_Commission_v_Transcon_Lines_merits_1995-01-10.md) | The January 10, 1995 disposition reverses and remands 9–0 for implementation of an injunction limited to the admitted-unlawful loss-of-discount liquidated-damages class. Ordinary unpaid freight principal and other receivables remain excluded; genuine scope, inclusion and amount questions beyond the concessions remain. |
 | [Fargo Women's Health Organization v. Schafer](../records/Fargo_Womens_Health_Organization_v_Schafer_merits_1995-02-13.md) | The February 13 access vacatur/remand under Casey is 6–3; the separate definition-vagueness and associated limited penalty affirmances are 8–1. The components and Stone's distinct votes remain separate. Permission, enacted exceptions, lower-court constructions and unresolved clinical or element questions retain their audited boundaries. |
 | [O'Neal v. McAninch](../records/ONeal_v_McAninch_merits_1995-02-21.md) | The February 21 disposition vacates and remands 7–2. Five Justices support Chapman for the preserved personal-intent instructional/argument claim; the broader ordinary-trial-error extension has three votes. Relief remains conditional on an established violation that is not harmless under Chapman. No general historical grave-doubt rule or broader majority is restored. |
 | [United States v. Robertson](../records/United_States_v_Robertson_merits_1995-05-01.md) | The May 1 decision reverses the commerce-based reversal of Count Six and remands 9–0 on the cumulative interstate-enterprise premises, including carriage of mine output. It supplies no procurement-only holding, invented export-sale finding or unconditional conviction reinstatement. Remaining RICO and drug-sentencing appellate proceedings survive. Stone's fuller framework remains separate, and party-brief transcript citations remain distinguished from independent transcript inspection. |
-| [California Department of Corrections v. Morales](../records/California_Department_of_Corrections_v_Morales_merits_1995-04-25.md) | The current April 25 result is **5–4 affirmance**, preserving offense-date annual consideration without granting parole. The five-Justice bounded proof/substitute rule is distinct from Stone's broader concurrence. The replacement supersedes the prior reversal/fracture; the current law and public projections preserve the corrected disposition. |
-| [Stone v. Immigration and Naturalization Service](../records/Stone_v_Immigration_and_Naturalization_Service_merits_1995-04-19.md) | The April 19 dismissal of review of the original deportation order remains affirmed 5–4, with the reconsideration-denial component undisturbed. Stevens assigns because the Chief dissents; Kennedy's assignment rests on Stevens's ordinary practice and the compatible statutory work. The Chief's fit/expansion method is not attributed to Stevens. The assignment correction changes no judgment, join, holding, remedy or Public Projection. |
-
-All approved corrections are incorporated through the current Records and their concise Version / lineage fields, the unchanged audit, and the ledger. Historical briefs, superseded frozen handoffs and research remain provenance, not competing current adjudications. No earlier judgment or separate-writing theory is republished as current law merely because that history survives.
+| [California Department of Corrections v. Morales](../records/California_Department_of_Corrections_v_Morales_merits_1995-04-25.md) | The current April 25 result is **5–4 affirmance**, preserving offense-date annual consideration without granting parole. The five-Justice bounded proof/substitute rule is distinct from Stone's broader concurrence. |
+| [Stone v. Immigration and Naturalization Service](../records/Stone_v_Immigration_and_Naturalization_Service_merits_1995-04-19.md) | The April 19 dismissal of review of the original deportation order remains affirmed 5–4, with the reconsideration-denial component undisturbed. Stevens assigns because the Chief dissents; Kennedy's assignment rests on Stevens's ordinary practice and the compatible statutory work. The Chief's fit/expansion method is not attributed to Stevens. |
 
 ## Effective-order Record inventory
 
-Every current Canonical Decision Record and Admitted Source Record is incorporated below, including its sources, operative text, qualifications, validation and approved correction lineage. Records control over the renders. Within a date, the Render Input order preserves the coordinated Pinette-to-Chabad sequence; ordering of other peers creates no new priority.
+Every current Canonical Decision Record and Admitted Source Record is incorporated below, including its sources, operative text, qualifications, validation and date-eligible legal support. Records control over the renders. Within a date, the Render Input order preserves the coordinated Pinette-to-Chabad sequence; ordering of other peers creates no new priority.
 
 | Effective date | Case or source and current Record | Event | Result |
 |---|---|---|---|
@@ -89,7 +69,7 @@ Every current Canonical Decision Record and Admitted Source Record is incorporat
 | 1995-01-09 | [Plakas v. Drinski; No. 93-1824.](../records/Plakas_v_Drinski_merits_1995-01-09.md) | Merits decision; 1995-01-09; October Term 1994, chunk 1. | The Seventh Circuit is affirmed, 9-0, as to Officer Drinski and Newton County. Summary judgment remains in force on the presented force and municipal claims. |
 | 1995-01-10 | [Interstate Commerce Commission v. Transcon Lines; No. 93-1318; 513 U.S. 138.](../records/Interstate_Commerce_Commission_v_Transcon_Lines_merits_1995-01-10.md) | Merits decision; 1995-01-10; October Term 1994, chunk 1. | The Ninth Circuit is reversed and the case remanded, 9-0, for implementation of an injunction confined to the admitted-unlawful loss-of-discount liquidated-damages class, with genuine scope, inclusion and amount questions beyond the concessions preserved. Ordinary unpaid freight principal and other estate receivables are excluded from the restraint. |
 | 1995-01-10 | [Tome v. United States, No. 93-6892](../records/Tome_v_United_States_merits_1995-01-10.md) | Merits decision; 1995-01-10; October Term 1994, chunk 2. | The Tenth Circuit judgment is reversed and the case remanded, 6–3. |
-| 1995-01-17 | [Young v. Northern Illinois Conference of United Methodist Church, No. 93-1917](../records/Young_v_Northern_Illinois_Conference_merits_1995-01-17.md) | Merits decision; 1995-01-17; October Term 1994, chunk 2. | The jurisdictional judgment is vacated and the case remanded for dismissal of the stated Title VII ministerial-selection claims on the merits. All nine agree on the defense and jurisdiction; eight join that mandate, while Chief Justice Stone-Zsela would also affirm the dismissal on its corrected merits basis. |
+| 1995-01-17 | [Young v. Northern Illinois Conference of United Methodist Church, No. 93-1917](../records/Young_v_Northern_Illinois_Conference_merits_1995-01-17.md) | Merits decision; 1995-01-17; October Term 1994, chunk 2. | The jurisdictional judgment is vacated and the case remanded for dismissal of the stated Title VII ministerial-selection claims on the merits. All nine agree on the defense and jurisdiction; eight join that mandate, while Chief Justice Stone-Zsela would also affirm the dismissal on its merits basis. |
 | 1995-01-18 | [Allied-Bruce Terminix Cos. v. Dobson; No. 93-1001.](../records/Allied_Bruce_Terminix_Cos_v_Dobson_merits_1995-01-18.md) | Merits decision, 1995-01-18; October Term 1994, chunk 2. | Alabama Supreme Court reversed and remanded, 7–2; Scalia and Thomas would affirm on state-court nonapplication. |
 | 1995-01-18 | [American Airlines, Inc. v. Wolens; No. 93-1286.](../records/American_Airlines_Inc_v_Wolens_merits_1995-01-18.md) | Merits decision, 1995-01-18; October Term 1994, chunk 2. | Affirmed in part, reversed in part, and remanded; consumer-fraud preemption 7–1, confined contract survival 6–2; Scalia did not participate. |
 | 1995-01-18 | [Asgrow Seed Co. v. Winterboer, No. 92-2038](../records/Asgrow_Seed_Co_v_Winterboer_merits_1995-01-18.md) | Merits decision; 1995-01-18; October Term 1994, chunk 2. | The Federal Circuit judgment is reversed, 8–1. Seven Justices hold these reproductive sales outside the former saved-seed exemption; Chief Justice Stone-Zsela agrees with reversal on the narrower construction but separately favors remand for application and reaches a conditional notice rule. Further proceedings remain for unresolved notice and remedies. |
@@ -122,7 +102,7 @@ Every current Canonical Decision Record and Admitted Source Record is incorporat
 | 1995-04-18 | [Freightliner Corp. v. Myrick, No. 94-286.](../records/Freightliner_Corp_v_Myrick_merits_1995-04-18.md) | Merits decision, 1995-04-18; October Term 1994, chunk 4. | Affirm the common-law remand, 9–0; eight-Justice Court opinion, Scalia judgment-only; separate nonlive dispositions undisturbed. |
 | 1995-04-18 | [Heintz v. Jenkins, No. 94-367.](../records/Heintz_v_Jenkins_merits_1995-04-18.md) | Merits decision, 1995-04-18; October Term 1994, chunk 4. | Affirm the Seventh Circuit’s reversal of categorical attorney-litigation dismissal, 9–0; no letter-liability finding. |
 | 1995-04-18 | [Lanphere & Urbaniak v. Colorado, No. 94-38.](../records/Lanphere_and_Urbaniak_v_Colorado_merits_1995-04-18.md) | Merits decision, 1995-04-18; October Term 1994, chunk 4. | Reverse and remand, 7–2; the categorical use/access restriction fails the governing commercial-speech standard as applied. |
-| 1995-04-18 | [Plaut v. Spendthrift Farm, Inc., No. 93-1121.](../records/Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md) | Merits decision, 1995-04-18; October Term 1994, chunk 4. | Affirm denial of §27A(b) reinstatement, 7–2; completed dismissal remains binding. |
+| 1995-04-18 | [Plaut v. Spendthrift Farm, Inc., No. 93-1121.](../records/Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md) | Merits decision, 1995-04-18; October Term 1994, chunk 4. | Sixth Circuit reversed, 5–4; remanded for reinstatement under the satisfied conditions of §27A(b) and further proceedings on the securities claims. |
 | 1995-04-18 | [Shalala v. Whitecotton, No. 94-372.](../records/Shalala_v_Whitecotton_merits_1995-04-18.md) | Merits decision, 1995-04-18; October Term 1994, chunk 4. | Reverse the Federal Circuit’s compensation direction and remand, 9–0; preserve alternative claims, factual review, and new-evidence component. |
 | 1995-04-19 | [Celotex Corp. v. Edwards, No. 93-1504.](../records/Celotex_Corp_v_Edwards_merits_1995-04-19.md) | Merits decision, 1995-04-19; October Term 1994, chunk 4. | Reverse and remand, 7–2; set aside contrary bond execution while the §105 restraint remains effective, preserving direct relief and qualified review. |
 | 1995-04-19 | [McIntyre v. Ohio Elections Commission, No. 93-986 (current petitioner: executor of Margaret McIntyre's estate).](../records/McIntyre_v_Ohio_Elections_Commission_merits_1995-04-19.md) | Merits decision, 1995-04-19; October Term 1994, chunk 4. | Reverse the Ohio judgment and set aside the enforcement order and $100 fine, 8–1; seven directly join the scrutiny opinion. |
@@ -142,7 +122,7 @@ Every current Canonical Decision Record and Admitted Source Record is incorporat
 | 1995-05-15 | [Day v. Holahan; No. 94-672](../records/Day_v_Holahan_merits_1995-05-15.md) | Merits decision, 1995-05-15; October Term 1994, chunk 6. | The Eighth Circuit judgment is affirmed: financing and special notice 5-4; contribution ceiling and MCCL relief 9-0. |
 | 1995-05-15 | [Reynoldsville Casket Co. v. Hyde; No. 94-3](../records/Reynoldsville_Casket_Co_v_Hyde_merits_1995-05-15.md) | Merits decision, 1995-05-15; October Term 1994, chunk 6. | The Supreme Court of Ohio is reversed, 9-0, and the case remanded. |
 | 1995-05-22 | [First Options of Chicago, Inc. v. Kaplan; No. 94-560.](../records/First_Options_of_Chicago_Inc_v_Kaplan_merits_1995-05-22.md) | Merits decision; 1995-05-22; OT1994, chunk 6. | AFFIRMED, 9-0 on both arbitrability and appellate-review components. |
-| 1995-05-22 | [Kelley v. Board of Trustees of the University of Illinois; No. 94-783 (simulation-assigned).](../records/Kelley_v_Board_of_Trustees_of_the_University_of_Illinois_merits_1995-05-22.md) | Merits decision; 1995-05-22; OT1994, chunk 6. | AFFIRMED, 9-0 on each distinct statutory and constitutional claim. |
+| 1995-05-22 | [Kelley v. Board of Trustees of the University of Illinois; No. 94-783.](../records/Kelley_v_Board_of_Trustees_of_the_University_of_Illinois_merits_1995-05-22.md) | Merits decision; 1995-05-22; OT1994, chunk 6. | AFFIRMED, 9-0 on each distinct statutory and constitutional claim. |
 | 1995-05-22 | [U.S. Term Limits, Inc. v. Thornton / Bryant v. Hill; Nos. 93-1456, 93-1828](../records/US_Term_Limits_v_Thornton_Bryant_v_Hill_merits_1995-05-22.md) | Merits decision, 1995-05-22; October Term 1994, chunk 6. | The Arkansas Supreme Court is affirmed in both dockets, 6-3. |
 | 1995-05-22 | [Wilson v. Arkansas; No. 94-5707.](../records/Wilson_v_Arkansas_merits_1995-05-22.md) | Merits decision; 1995-05-22; OT1994, chunk 6. | REVERSED AND REMANDED, 9-0. |
 | 1995-05-30 | [Garlotte v. Fordice, No. 94-6790. October Term 1994; inventory matter 70.](../records/Garlotte_v_Fordice_merits_1995-05-30.md) | Merits decision, 1995-05-30. | Fifth Circuit reversed and remanded, 8–1. |
@@ -180,7 +160,7 @@ Every current Canonical Decision Record and Admitted Source Record is incorporat
 
 ## Public cross-checks and generated navigation
 
-The nine public renders remain cross-checks only. Their corresponding generated inputs and every Record are unchanged.
+The nine public renders are presentation cross-checks. Records and their generated Render Inputs supply the operative decisions; the renders and published trackers require separate validation.
 
 | Chunk | Render | Render Input |
 |---|---|---|
@@ -194,34 +174,10 @@ The nine public renders remain cross-checks only. Their corresponding generated 
 | 8 | [Public render](../output/OT_1994CHUNK8.md) | [Generated input](../render-inputs/OT_1994CHUNK8.md) |
 | 9 | [Public render](../output/OT_1994CHUNK9.md) | [Generated input](../render-inputs/OT_1994CHUNK9.md) |
 
-The generated [term index](../INDEX.md), [Separate Writings](SEPARATE_WRITINGS.md), [Departures](DEPARTURES.md) and [Consequences](CONSEQUENCES.md) extract existing Record content and create no law. The generator sorts equal-date entries by caption for navigation; that ordering does not change the expressly sequenced Pinette/Chabad dependency. The [doctrinal Holdings index](../../../state/holdings/INDEX.md) points to the eighteen synchronized volumes.
+The generated [term index](../INDEX.md), [Separate Writings](SEPARATE_WRITINGS.md), [Departures](DEPARTURES.md) and [Consequences](CONSEQUENCES.md) extract existing Record content and create no law. The generator sorts equal-date entries by caption for navigation; that ordering does not change the expressly sequenced Pinette/Chabad dependency. The [doctrinal Holdings index](../../../state/holdings/INDEX.md) points to the eighteen reading volumes.
 
-## Publication verification and cleanup
+## Close materials
 
-Full candidate-content comparisons passed for all three published trackers. Only their synchronized publication fields and Standing State's header posture differ. Their substantive bodies and every source-link destination are identical to the audited candidates. All eighteen Holdings volumes and the continuous compatibility view are synchronized. The doctrinal index retains its eighteen volume destinations and carries the same publication fields.
+The directory contains the audit, this dossier, the Separate Writings, Departures and Consequences indexes, and its empty directory marker. Candidate tracker files and temporary pass notes are absent. The indexes are navigation aids and create no law. Their source is the Records, subject to the legal and source limits each Record states.
 
-The requested commands completed with exit code 0. Their exact output was:
-
-`python tools/holdings_volumes.py split`: no output.
-
-`python tools/holdings_volumes.py check`:
-
-```text
-OK: Holdings volumes and compatibility view are synchronized
-```
-
-`python tools/build_close_indexes.py OT1994`:
-
-```text
-generated indexes from 101 records
-```
-
-Independent publication checks matched all 101 term-index rows to the Records' opening metadata and Public Projection action/topology text. The Separate Writings index preserves 98 extracted blocks verbatim; the Departures index preserves all 55 expressly labeled departure lines. No Record carries an expressly labeled Consequence line, so the generated Consequences index reports that none is recorded; no consequence is inferred. The dossier inventory incorporates each of the 101 Records once and preserves the expressly coordinated Pinette-to-Chabad order. All local destinations in the new dossier and generated indexes resolve.
-
-All 99 decision Public Projections matched their generated Render Input blocks before publication, and those source files remain unchanged afterward. The 19-row Standing State docket is identical to the candidate. Publication did not conduct another substantive legal audit or rerun `check_term.py`; the accepted F01/F02/F03 limitations remain exactly as described above.
-
-After publication and index verification, exactly these six files were deleted from `terms/OT1994/close/`: `HOLDINGS.candidate.md`, `STANDARDS_AND_TESTS.candidate.md`, `STANDING_STATE.candidate.md`, `HOLDINGS_PASS_1.md`, `HOLDINGS_PASS_2.md` and `STANDARDS_AND_TESTS_PASS.md`. Each target was resolved inside the authorized directory and its bytes checked against the intake snapshot immediately before deletion. The directory now contains only `.gitkeep`, the unchanged `AUDIT.md`, this dossier, `SEPARATE_WRITINGS.md`, `DEPARTURES.md` and `CONSEQUENCES.md`.
-
-The final protected-file comparison confirms that all 3,321 intake files outside the explicit publication/cleanup set are unchanged. No other durable file was added or removed. All adjudications, judgments, votes, coalitions, remedies, briefs, Records, freezes, Render Inputs, renders, workspace projections, other terms, foundation files and tools are untouched. This pass ran no Git command. Operator review and repository commitment remain pending.
-
-The [scratch verification evidence](../../../tmp/ot1994_commit_2026-10-01/verification_after_cleanup.json), [exact command outputs](../../../tmp/ot1994_commit_2026-10-01/tool_outputs.json), intake file hashes and preserved opening/staging snapshots support these publication checks. The dossier and unchanged audit provide the durable close account; the operator's repository history preserves superseded tracked bytes.
+The documented F01 typography finding concerns internal support text, not a controlling proposition. F02 concerns source identifiers misclassified as commit references; source context must accompany any warning. F03 concerns a cleanup predicate based on audit wording rather than actual publication state. None of these diagnostic or formatting observations supplies a judgment, vote, holding or remedy.
