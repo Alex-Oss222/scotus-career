@@ -558,15 +558,18 @@ Merits decision, January 25, 1993
 
 #### Chronology and Posture
 
-Argued October 7, 1992; on certiorari to the Fifth Circuit, 954 F.2d 1029, which vacated a district-court execution stay in a second federal habeas proceeding. The question concerns a claim of innocence based on later affidavits after a constitutionally valid capital conviction, and the requested judicial proceedings or stay. Chief Justice Stone-Zsela and Justices White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter and Thomas participate at argument and decision. This case and *Graham v. Collins* are decided on the same day; neither decision supplies a premise for the other.
+Argued October 7, 1992; on certiorari to the Fifth Circuit, 954 F.2d 1029, which vacated a district-court execution stay in a second federal habeas proceeding. The question concerns a claim of innocence based on later affidavits after a constitutionally valid capital conviction, and the requested judicial proceedings or stay. Chief Justice Stone-Zsela and Justices White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter and Thomas participate at argument and decision.
 
 #### Judgment
 
-The Court affirms the Fifth Circuit’s judgment, 5–4. The requested federal relief is denied on this submission. The Court neither decides that Herrera has proved innocence nor announces a common general test for an innocence claim independent of another constitutional violation.
+**Affirmed, 5–4.**
 
-| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
-|---|---|---|---|---|
-| Reviewed judgment vacating the innocence-based federal stay and rejecting the requested further relief | Affirmed, 5–4 | White, O’Connor, Scalia, Kennedy, Thomas | Stone-Zsela, Blackmun, Stevens, Souter | No federal hearing, writ or renewed stay is ordered on this submission; no immediate execution order or new date is issued |
+**Supporting:** White, O’Connor, Scalia, Kennedy, Thomas.
+**Opposing:** Stone-Zsela, Blackmun, Stevens, Souter.
+
+The requested federal relief is denied on this submission. The Court neither decides that Herrera has proved innocence nor announces a common general test for an innocence claim independent of another constitutional violation.
+
+No federal hearing, writ or renewed stay is ordered on this submission; no immediate execution order or new date is issued.
 
 Stone-Zsela would vacate the categorical exclusion and remand subject to separate procedural gates. Blackmun, Stevens and Souter would reverse and remand for district-court consideration under their proposed claim and burden. The separately rejected *Brady* claim and claims 2–5 are not reopened.
 
@@ -602,7 +605,11 @@ No complete opinion has five joins. Five Justices expressly support the limited 
 - *Townsend v. Sain*, 372 U.S. 293, and *Keeney v. Tamayo-Reyes*, May 4, 1992: Preserved. Necessary factual development of a properly available claim remains distinct from legal sufficiency, whether the claim is legally available, exhaustion and abuse of the writ.
 - *Sawyer v. Whitley*, June 22, 1992: Distinguished. Its gateway concerning eligibility for capital punishment does not decide freestanding innocence of the crime or supply that claim’s merits burden.
 
-#### Limits and Current-Law Effect
+#### Limits and Questions Not Reached
+
+The federal habeas disposition does not determine the authority of a State to establish independent postconviction procedures for newly discovered evidence, actual innocence, or scientific developments undermining evidence relied upon at trial. Neither the existence nor the scope of such a state statutory remedy is before the Court. No general federal entitlement to a hearing upon any subsequent scientific disagreement is established.
+
+#### Current-Law Effect
 
 Effective January 25, 1993, this submission does not justify the requested federal relief even upon the assumption of an exceptional constitutional innocence claim. The existence and precise burden of such a claim remain unresolved by a controlling rationale. No logical subset is established between an undefined extraordinary threshold and White’s rational-factfinder minimum, so *Marks* supplies no general standard. White’s distinct minimum burden is noncontrolling.
 
@@ -622,7 +629,7 @@ Chief Justice Stone-Zsela dissents separately. He would vacate only the categori
 
 #### Source Notes
 
-The [official report, 506 U.S. 390](https://tile.loc.gov/storage-services/service/ll/usrep/usrep506/usrep506390/usrep506390.pdf), and the [full Fifth Circuit judgment, 954 F.2d 1029](https://static.case.law/f2d/954/html/1029-01.html), support the dates, lower proceedings and old and new evidence. No quoted Court language is used. The papers allege innocence; no court finding of innocence or affidavit credibility is established. Source support for the evidentiary details is limited to the judicial materials.
+The [official report, 506 U.S. 390](https://tile.loc.gov/storage-services/service/ll/usrep/usrep506/usrep506390/usrep506390.pdf), and the [full Fifth Circuit judgment, 954 F.2d 1029](https://static.case.law/f2d/954/html/1029-01.html), support the dates, lower proceedings and old and new evidence. The papers allege innocence; no court finding of innocence or affidavit credibility is established. Source support for the evidentiary details is limited to the judicial materials.
 
 #### Mandate, Remedy, and Stage
 
