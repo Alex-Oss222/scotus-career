@@ -135,45 +135,75 @@ The affirmance ends Supreme Court review of the granted claim. No new trial or e
 
 Merits decision, January 15, 1992
 
-*Rufo v. Inmates of Suffolk County Jail; Rapone v. Inmates of Suffolk County Jail*, 502 U.S. 367 (1992), Nos. 90-954 and 90-1004. Argued October 9, 1991; decided January 15, 1992. In these consolidated cases, the Court granted review of the First Circuit judgments, 915 F.2d 1557, affirming refusal to modify a jail consent decree, 734 F. Supp. 561. Officials seek relief under Federal Rule of Civil Procedure 60(b)(5) from a single-cell requirement to permit proposed double-celling. Both judgments and the standard governing modification are before the Court.
+#### Chronology and Posture
 
-Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy and Souter participated at argument and at decision. Thomas took no part: argument preceded his October 23, 1991 oath, and no reargument is established.
+*Rufo v. Inmates of Suffolk County Jail; Rapone v. Inmates of Suffolk County Jail*, 502 U.S. 367 (1992), Nos. 90-954 and 90-1004. October Term 1991. Argued 1991-10-09; decided 1992-01-15. Consolidated certiorari from the First Circuit, 915 F.2d 1557, affirming refusal to modify a jail consent decree, 734 F. Supp. 561. Officials seek relief under Federal Rule of Civil Procedure 60(b)(5) from a single-cell requirement to permit proposed double-celling. Both judgments and the standard governing modification are before the Court.
 
-Both First Circuit judgments are vacated and the cases remanded, 6-2. Stone, White, O'Connor, Scalia, Kennedy and Souter support that disposition; Blackmun and Stevens would affirm denial of modification.
+Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter participated at argument and at decision. Thomas took no part: argument preceded his October 23, 1991 oath and no reargument is established.
 
-Stone delivers the opinion of the Court, joined in full by White, Scalia, Kennedy and Souter. O'Connor concurs in the judgment. Stevens dissents, joined by Blackmun.
+#### Judgment
 
-Under Rule 60(b)(5), the party seeking to modify an institutional consent decree must prove a significant change in fact or law that makes continued enforcement inequitable; an unforeseeable catastrophe is not required. Actual anticipation and acceptance of the relevant risk impose a heavy burden to justify relief, and dissatisfaction, a new administration, or the availability of a cheaper constitutional alternative alone does not suffice.
+**Both First Circuit judgments vacated and cases remanded, 6-2.**
 
-Stone's opinion, joined by White, Scalia, Kennedy and Souter, controls this threshold through five of the eight participating Justices. O'Connor supplies a sixth vote to remand on her separate ground.
+**Supporting:** Stone, White, O'Connor, Scalia, Kennedy, Souter.
+**Opposing:** Blackmun, Stevens (would affirm denial of modification).
 
-The Court holds that prospective institutional relief remains subject to an equitable assessment of changed circumstances. Swift addressed a particular antitrust decree and does not impose its demanding factual formulation on every continuing public institution. System Federation confirms that continuing decrees can respond to altered circumstances; United Shoe ties modification to the decree's actual operation and purposes. Rule 60(b)(5) therefore requires a supported significant change, not proof that officials could never have foreseen it. Anticipation still matters greatly. Officials who accepted a known risk must explain why enforcement has nevertheless become inequitable, rather than merely regret their bargain. Here repeated commitment to single occupancy cannot be ignored. But the district court's alternative reliance on that term's centrality does not show that it assessed the requested accommodation free of the restrictive premise. Remand permits that assessment. The Court does not find that population growth, cost, or any other asserted change actually satisfies the officials' burden.
+#### Opinion Topology
 
-*United States v. Swift & Co.*, 286 U.S. 106, retains its disposition, but its demanding factual formulation is confined to its setting rather than imposed universally.
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Stone | White, Scalia, Kennedy and Souter | Vacatur and remand | Full opinion |
+| Concurrence in the judgment | O'Connor | — | Vacatur and remand | Judgment only |
+| Dissent | Stevens | Blackmun | Would affirm denial of modification | Full dissent |
 
-*System Federation No. 91 v. Wright*, 364 U.S. 642, supplies the equitable power to adjust continuing obligations to changed conditions.
+#### Controlling Propositions and Authority
 
-*United States v. United Shoe Machinery Corp.*, 391 U.S. 244, connects modification to the continuing decree's purpose and operation.
+##### Threshold for modifying an institutional consent decree
 
-*Board of Education v. Dowell*, 498 U.S. 237, reinforces contextual treatment of institutional equitable relief; the Court imports no school-desegregation termination rule.
+**Holding and operative rule:** Under Rule 60(b)(5), the party seeking to modify an institutional consent decree must prove a significant change in fact or law that makes continued enforcement inequitable; an unforeseeable catastrophe is not required. Actual anticipation and acceptance of the relevant risk impose a heavy burden to justify relief, and dissatisfaction, a new administration, or the availability of a cheaper constitutional alternative alone does not suffice.
 
-A justified modification must be suitably tailored to the proven change and preserve lawful protection of the decree's remaining purposes; the court may not simply rewrite a consent decree to the constitutional minimum. Bell's clarification of constitutional limits does not by itself eliminate a voluntarily accepted single-cell obligation, and financial pressure cannot authorize unconstitutional confinement.
+**Authority:** Stone's opinion, joined by White, Scalia, Kennedy and Souter; five of eight participating Justices. O'Connor supplies a sixth remand vote on her separate ground.
 
-The same remedial standard is controlled by Stone's opinion, joined by White, Scalia, Kennedy and Souter, a five-Justice majority.
+**Controlling explanation:** The Court holds that prospective institutional relief remains subject to an equitable assessment of changed circumstances. Swift addressed a particular antitrust decree and does not impose its demanding factual formulation on every continuing public institution. System Federation confirms that continuing decrees can respond to altered circumstances; United Shoe ties modification to the decree's actual operation and purposes. Rule 60(b)(5) therefore requires a supported significant change, not proof that officials could never have foreseen it. Anticipation still matters greatly. Officials who accepted a known risk must explain why enforcement has nevertheless become inequitable, rather than merely regret their bargain. Here repeated commitment to single occupancy cannot be ignored. But the district court's alternative reliance on that term's centrality does not show that it assessed the requested accommodation free of the restrictive premise. Remand permits that assessment. The Court does not find that population growth, cost, or any other asserted change actually satisfies the officials' burden.
 
-The Court holds that a threshold change does not authorize abandonment of the settlement. A consent decree can require more than a court could have compelled after a constitutional trial, as Local No. 93 explains. Bell rejects a categorical constitutional objection to double-celling, but it does not dissolve an independently accepted single-cell promise. The district court must connect any alteration to the established change and examine whether the revised protection remains faithful to the decree's purposes. It may consider practical administration and cost in choosing lawful relief while preserving its own equitable judgment; those considerations cannot excuse unconstitutional conditions or substitute for the threshold showing. System Federation supports adaptation, not a unilateral withdrawal from binding obligations. Because the proper standard was not applied, this Court selects no replacement design. The need for double cells, the proposed arrangement's constitutionality, and the adequacy of remaining safeguards are left for the district court on the record.
+##### Fit and limits of the proposed modification
 
-*Local No. 93, International Association of Firefighters v. Cleveland*, 478 U.S. 501, establishes that consent obligations may exceed what constitutional liability alone would require.
+**Holding and operative rule:** A justified modification must be suitably tailored to the proven change and preserve lawful protection of the decree's remaining purposes; the court may not simply rewrite a consent decree to the constitutional minimum. Bell's clarification of constitutional limits does not by itself eliminate a voluntarily accepted single-cell obligation, and financial pressure cannot authorize unconstitutional confinement.
 
-*Bell v. Wolfish*, 441 U.S. 520, supplies the constitutional treatment of double-celling; it does not erase a consensual single-cell requirement.
+**Authority:** Stone's opinion, joined by White, Scalia, Kennedy and Souter; the same five-Justice majority controls the remedial standard.
 
-*System Federation No. 91 v. Wright*, 364 U.S. 642, preserves adjustment for changed circumstances while maintaining judicial control of lawful relief.
+**Controlling explanation:** The Court holds that a threshold change does not authorize abandonment of the settlement. A consent decree can require more than a court could have compelled after a constitutional trial, as Local No. 93 explains. Bell rejects a categorical constitutional objection to double-celling, but it does not dissolve an independently accepted single-cell promise. The district court must connect any alteration to the established change and examine whether the revised protection remains faithful to the decree's purposes. It may consider practical administration and cost in choosing lawful relief while preserving its own equitable judgment; those considerations cannot excuse unconstitutional conditions or substitute for the threshold showing. System Federation supports adaptation, not a unilateral withdrawal from binding obligations. Because the proper standard was not applied, this Court selects no replacement design. The need for double cells, the proposed arrangement's constitutionality, and the adequacy of remaining safeguards are left for the district court on the record.
+
+#### Limits and Questions Not Reached
+
+Modification under Rule 60(b)(5) concerns the continuing prospective operation of an existing institutional decree following a demonstrated significant change in fact or law. It does not establish a legislative power to compel reinstatement of a completed private damages or limitations judgment, nor does it decide whether a separate valid statutory remedy may provide collateral relief from such a judgment.
+
+#### Precedent Treatment
+
+- *United States v. Swift & Co.*, 286 U.S. 106 — its disposition is preserved; its demanding factual formulation is confined to its setting rather than imposed universally.
+- *System Federation No. 91 v. Wright*, 364 U.S. 642 — applied to preserve equitable power to adjust continuing obligations to changed conditions, while maintaining judicial control of lawful relief.
+- *United States v. United Shoe Machinery Corp.*, 391 U.S. 244 — applied to connect modification to the continuing decree's purpose and operation.
+- *Board of Education v. Dowell*, 498 U.S. 237 — reinforces contextual treatment of institutional equitable relief; no school-desegregation termination rule is imported.
+- *Local No. 93, International Association of Firefighters v. Cleveland*, 478 U.S. 501 — consent obligations may exceed what constitutional liability alone would require.
+- *Bell v. Wolfish*, 441 U.S. 520 — its constitutional treatment of double-celling does not erase a consensual single-cell requirement.
+
+#### Law After Decision
 
 Rule 60(b)(5) now supplies a two-part institutional-decree inquiry: significant change making continued enforcement inequitable, then suitably tailored relief. Actual anticipation weighs heavily against relief without an absolute unforeseeability requirement. Consent obligations may exceed constitutional minima; fiscal concerns cannot excuse violations. Application to this proposed design remains open.
 
+#### Separate Positions Relevant to the Decision
+
 O'Connor concurs only in the judgment. She agrees that reconsideration is necessary because anticipation was treated as dispositive, relevant financial concerns were excluded, and any departure from single occupancy was treated as defeating the decree. She emphasizes the district judge's experience and discretion and does not compel administrative deference on whether modification is warranted. Stevens, joined by Blackmun, accepts flexibility but would affirm: the officials anticipated growth and reaffirmed single occupancy in 1985, and the trial court's alternative explanation adequately protects settlement reliance.
 
-Both cases return through the First Circuit to the district court. Under Rule 60(b)(5), that court must determine whether proven changed circumstances make continued enforcement inequitable and whether a proposed modification is suitably responsive. The existing decree remains binding pending a lawful modification. No number of double cells is authorized. Supreme Court merits proceedings end without retained supervision.
+#### Source Notes
+
+Official [United States Reports, 502 U.S. 367 (1992), pp. 367–409](https://www.govinfo.gov/content/pkg/USREPORTS-502/pdf/USREPORTS-502-367.pdf). The opinion's caption establishes the docket, argument and decision dates; its narrative and disposition establish the lower-court posture, material record and remedy.
+
+#### Mandate, Remedy, and Stage
+
+The district court must determine whether proven changed circumstances make continued enforcement inequitable and whether a proposed modification is suitably responsive. The existing decree remains operative. No number of double cells is authorized.
+
+Both cases return through the First Circuit to the district court for the Rule 60(b)(5) inquiry. The decree remains binding pending a lawful modification. Supreme Court merits proceedings close without retained supervision.
 
 **End of entry: Rufo v. Inmates of Suffolk County Jail; Rapone v. Inmates of Suffolk County Jail, merits decision, January 15, 1992.**
 

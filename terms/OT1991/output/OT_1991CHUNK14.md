@@ -390,7 +390,7 @@ Argued April 22, 1992. Decided June 29, 1992. On writs of certiorari under 28 U.
 
 Review concerns the protected abortion choice and reconsideration of *Roe v. Wade*; medical emergency; consent information, materials, delivery, waiting and certification; parental involvement and judicial bypass; spousal notice; and the appealed reporting and public-release provisions. The separately presented constitutional grounds and limits on review are stated below.
 
-Chief Justice Alex-Lamar Stone-Zsela and Justices White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas participated at argument and decision.
+Chief Justice Alex-Lamar Stone-Zsela and Justices White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas participated at argument and decision. Thomas's October 23, 1991 oath predates argument.
 
 #### Judgment
 
@@ -489,11 +489,11 @@ Six Justices retain the protected previability choice, individualized viability 
 | Additional complete-framework application to the three medical-basis reports | Stone | Blackmun, Stevens, O'Connor, Souter | 5; Opinion of the Court | Does not turn the other four bounded reporting votes into framework joins. |
 | Alternative assumed-attendance rationale | Kennedy | White, Scalia, Thomas | 4; concurrence in judgment | Not controlling; all nine deny special attendance relief. |
 | Blackmun's stronger scrutiny and mandatory ancillary objection | Blackmun | None | 1; concurrence in part and dissent in part | Directly joins the complete governing framework but prefers stricter protection and opposes mandatory ancillary content. |
-| Kennedy's less demanding general regulatory approach | Kennedy | None | 1; concurrence in part and dissent in part | Retains core and joins notice invalidation; dissents from complete framework and the new five-Justice invalidations. |
+| Kennedy's less demanding general regulatory approach | Kennedy | None | 1; concurrence in part and dissent in part | Retains core and joins notice invalidation; dissents from complete framework and the five-Justice invalidations. |
 | Rejection of Roe's foundation and abortion-specific review | White | Scalia, Thomas | 3; concurrence in part and dissent in part | Would sustain the invalidated requirements; actual sustaining judgments remain separately counted. |
 | Intermediate scrutiny for the asserted sex classification | White | O'Connor | 2; separate, noncontrolling tier selection | They reach opposite applications; Scalia and Thomas assume the tier without deciding it. |
 
-Stone delivers the principal opinion, including the complete five-Justice standard and its new invalidating applications. Souter delivers the severable parental-content and independent speech opinions at the joins stated. Separate writings explain differences in constitutional foundation, framework and application. The author is included once in every rationale count; judgment-only agreement is not a rationale join.
+Stone delivers the principal opinion, including the complete five-Justice standard and its invalidating applications. Souter delivers the severable parental-content and independent speech opinions at the joins stated. Separate writings explain differences in constitutional foundation, framework and application. The author is included once in every rationale count; judgment-only agreement is not a rationale join.
 
 #### Statutory Provisions and Qualifications
 
@@ -569,87 +569,47 @@ This six-Justice foundation is distinct from the five-Justice complete framework
 
 **Authority:** Stone's opinion, joined by Blackmun, Stevens, O'Connor, Souter: 5 direct rationale joins including the author. 
 
-**Controlling explanation:** The six steps organize one constitutional inquiry. They do not establish six competing standards. A court must identify the obligation, its function, its actual interference, the governing substantive protection, the clinical and communication safeguards, and the appropriate relief.
+**Controlling explanation:** The six steps form one constitutional inquiry.
 
-**Step 1. Identify the legal duty and protected baseline**
+**Step 1. Identify the duty and protected baseline**
 
-Identify the enacted command, authoritative construction, exceptions, enforcement consequences, and relevant medical circumstances. Distinguish an actual requirement from assumed future administration.
+Identify the enacted command, authoritative construction, exceptions, sanctions and medical circumstances; distinguish requirements from assumed administration. Previability prohibition, effective third-party veto and denial of timely necessary life-and-health care are independently forbidden. Care cannot await imminent death or catastrophic deterioration. Clinical appropriateness means safe, suitable treatment, not official approval of the patient's reasons for previability abortion. Defining noncompliant treatment as unsafe cannot establish medical necessity.
 
-A previability prohibition, an effective third-party veto, or denial of timely necessary life-and-health care violates the protected baseline. No later justification inquiry can cure that violation. Necessary care must remain available before imminent death or catastrophic deterioration makes intervention unavoidable.
+**Step 2. Identify function and purpose**
 
-Clinical appropriateness means safe and suitable care. It does not require official approval of the patient's reasons for obtaining a previability abortion. Nor may the State establish a restriction's medical necessity merely by defining all noncompliant treatment as unsafe.
+Identify the actual operation and asserted permissible objective, including safety, consent, truthful information, parental involvement, administration or accountability. The State may favor childbirth through truthful persuasion; moral disapproval cannot justify obstruction, punishment or deterrent burdens. An obstructive purpose objectively established by text, design, context and operation independently invalidates a requirement; legislative opposition to abortion alone does not establish it. Informed decisions may reduce abortions; blocked access cannot justify itself. Medical claims need medical support; deliberative claims need a connection to informed decisions.
 
-**Step 2. Identify actual function and purpose**
+**Step 3. Establish interference, comparison and population**
 
-Identify what the obligation does and the objective asserted for it: patient safety, informed consent, truthful information, permissible parental involvement, health administration, financial accountability, or another constitutionally permissible function.
+Challengers establish attributable additional interference: appointments, expense, consequential delay, lost provider capacity, clinical risk, coercion or disclosure affecting choice or access. Compare actual circumstances with and without the challenged duty or identified package, holding other relevant law and circumstances constant; neither ideal access nor removal of unrelated regulation supplies the baseline. Examine cumulative effects without double counting: a second visit to a weekly clinic may turn twenty-four hours into a week, without establishing that effect everywhere.
 
-The State may express a preference for childbirth and communicate truthful information. Moral disapproval does not independently justify obstructing protected choice, punishing its exercise, or imposing burdens for their deterrent effect. A purpose to obstruct, established through objective evidence of text, design, context, and operation, independently invalidates the requirement. A legislator's opposition to abortion alone does not establish that purpose.
+Define the affected population from the duty before determining injury; retain that population and supported subgroups throughout, without averaging across all pregnancies or defining the group by successful claims. Poverty, distance, transport, work and abuse matter through demonstrated causation, without making the State responsible for every underlying hardship. Count only actually usable exceptions, bypasses and providers.
 
-Persuasion through voluntary understanding differs from prevention through barriers. Fewer abortions resulting from informed decisions may further the State's permissible objective; fewer abortions resulting from blocked access cannot justify the blockage.
+Meaningful interference is concrete, nontrivial added difficulty obtaining care or exercising choice; it triggers review, not invalidity. A routine receipt checkbox during an existing consultation ordinarily falls below it without additional consequences; an extra trip ordinarily warrants examining cost and delay. No universal monetary, distance or hourly cutoff applies. Reliable clinical evidence, records, testimony and reasonable predictions can establish prospective injury before access is lost.
 
-Evaluate each justification on its own terms. A medical claim requires medical support. A deliberative claim requires an explanation of how the particular obligation improves informed decisionmaking. Neither label establishes the necessary connection.
+**Step 4. Apply substantive protections in order**
 
-**Step 3. Establish actual interference, the baseline, and the affected population**
+**A. Forbidden interference.** Baseline violations, obstructive purpose and substantial obstacles require invalidation. An obstacle seriously obstructs timely, clinically appropriate protected care for the affected population; impossibility is unnecessary, others' success is inconclusive, and compelling interests cannot rescue it.
 
-Challengers must show concrete additional interference attributable to the challenged obligation. Relevant effects include additional appointments, material expense, consequential delay, loss of usable provider capacity, clinical risk, coercion, and disclosure consequences affecting protected choice or access.
+**B. Remaining severe interference.** Identify the severe intrusion and why A does not dispose of it; require compelling permissible justification and narrow tailoring. Overlapping protections need no artificial boundary, but obstacles cannot be relabeled as justifiable burdens. Clinical, health or confidentiality intrusions can require exacting review despite usable access. For example, a specialist referral for a defined high-risk group requires supported risk, tailoring and realistic timely receiving care; nominal referrals or unsupported safety labels cannot block appropriate care.
 
-**The comparison.** Compare the actual system with and without the challenged obligation, holding other relevant law and circumstances constant. If an interacting package is challenged, identify that package and compare the system with the package removed. The baseline is neither ideal access nor a world without unrelated regulation.
+**C. Remaining meaningful interference.** The State must substantiate permissible justification and fit; abstractions do not suffice. It must answer identified concrete, practicable, substantially less burdensome alternatives adequately serving the objective. It may show that an alternative is inadequate, unavailable or carries material countervailing consequences. It need not choose the cheapest imaginable policy, disprove hypotheticals or legislate perfectly. Reliable experience and reasonable prediction may suffice; no particular legislative findings, new study in every case, scientific certainty or numerical benefit calculation is required. Once justification and fit are established, judicial policy preferences do not control. Below the threshold, heightened access review ends; prohibited-purpose claims, independent constitutional protections and ordinary legality remain.
 
-Consider cumulative operation. A twenty-four-hour interval requiring another visit to a clinic operating weekly may produce a week of actual delay. That is an illustration of the inquiry, not a finding about every clinic here. Examine the practical consequence without counting the same delay twice.
-
-**The population.** Define the affected group from the duty's operation before determining constitutional injury. For a second-visit requirement, examine patients required to make an additional visit, including evidence-supported subgroups. Keep the group stable throughout the analysis. Do not average its burdens across everyone who is pregnant or define it circularly as only patients whose claims succeed.
-
-Poverty, distance, transportation, work obligations, and abuse matter when they explain how the State's added condition operates. Their relevance does not make the State responsible for creating every underlying hardship. Explain the causal connection. Exceptions, bypasses, and alternative providers count only when actually usable.
-
-**The threshold.** Meaningful interference means a concrete, nontrivial additional burden on obtaining care or exercising the protected decision. It triggers review; it is not itself a finding of unconstitutionality. A routine receipt checkbox completed during an existing consultation ordinarily does not cross the threshold without an additional consequence. A required extra trip ordinarily supplies a concrete basis for examining expense and delay.
-
-No universal dollar, mileage, or hourly cutoff governs. Reliable clinical evidence, records, testimony, and reasonable predictions may establish interference. Courts need not wait for patients to lose access before recognizing a sufficiently demonstrated prospective injury.
-
-**Step 4. Apply the substantive protections in sequence**
-
-**A. Independently forbidden interference.** First determine whether the requirement violates the protected baseline, has an unconstitutional obstructive purpose, or creates a substantial obstacle. If it does, the inquiry ends in invalidity.
-
-A substantial obstacle seriously obstructs the practical opportunity to obtain timely, clinically appropriate protected care in the circumstances of the affected population. It need not make abortion absolutely impossible. That some patients overcome a restriction does not establish adequate access for others. Once an obstacle is established, an asserted compelling interest cannot rescue it.
-
-**B. Other severe interference.** If the preceding prohibitions do not resolve the case, remaining severe interference requires a compelling permissible justification and narrow tailoring. The court must identify the severe intrusion and explain why the first inquiry did not already dispose of it.
-
-These protections may overlap. They operate in order and do not require an artificial dividing line. A court may not shrink the obstacle prohibition to absolute impossibility or relabel an established obstacle as justifiable severe interference. Serious intrusion into clinical decisionmaking, health, or protected confidentiality may require exacting justification even where practical access remains usable.
-
-For example, a medically supported specialist referral for a narrowly defined high-risk group may impose a serious but justified burden. The State must substantiate the particular risk, the tailoring, and the realistic availability of timely receiving care. A nominal referral or an unsupported safety label cannot justify blocking otherwise appropriate treatment.
-
-**C. Meaningful lesser interference.** For remaining meaningful interference, the State bears the burden of substantiating the permissible justification and the fit between its objective and the additional obligation imposed. An abstract interest or conclusory assertion is insufficient.
-
-When challengers identify a concrete, practicable, substantially less burdensome alternative that would adequately serve the objective, the State must answer it. The State may establish that the alternative is inadequate, unavailable, or carries material countervailing consequences. It need not adopt the cheapest imaginable policy, disprove every hypothetical alternative, or produce perfect legislation.
-
-Reliable experience and reasonable predictions may substantiate a justification. We require no particular legislative findings, new study in every case, scientific certainty, or numerical benefit calculation. Once the necessary justification and fit are established, courts may not substitute their preferred policy.
-
-Crossing the meaningful-interference threshold triggers this inquiry; it does not predetermine its result. Below that threshold, this heightened access inquiry ends. Prohibited-purpose claims, independently applicable constitutional protections, and ordinary requirements of lawful regulation remain available.
-
-**Proof allocation.** Challengers establish the duty, population, causation, and triggering interference. The State then carries the applicable justification and tailoring or fit burden. This allocation does not alter ordinary proof rules for disputed historical facts or a separate statutory defense.
-
-The residual severe-interference protection draws on the treatment of serious burdens on reproductive liberty in [Carey v. Population Services International, 431 U.S. 678, 686–689](https://supreme.justia.com/cases/federal/us/431/678/). The scrutiny of unnecessary restrictions has support in [Akron v. Akron Center for Reproductive Health, 462 U.S. 416](https://supreme.justia.com/cases/federal/us/462/416/). We expressly adopt the general lesser-burden substantiation requirement today; we do not represent that every element of this formulation was already settled law.
+**Proof.** Challengers establish duty, population, causation and triggering interference; the State carries the applicable justification and tailoring or fit burden. Ordinary disputed-fact proof and separate statutory defenses remain unchanged. [Carey v. Population Services International, 431 U.S. 678, 686–689](https://supreme.justia.com/cases/federal/us/431/678/) supports serious-burden protection; [Akron v. Akron Center for Reproductive Health, 462 U.S. 416](https://supreme.justia.com/cases/federal/us/462/416/) supports scrutiny of unnecessary restrictions. The general lesser-burden substantiation rule is adopted today, not represented as previously settled.
 
 **Step 5. Protect clinical judgment and truthful communication**
 
-Medical justifications must be evaluated against competent evidence, accepted professional standards, the patient's circumstances, and substantial contrary evidence. Substantial professional agreement receives serious evidentiary weight. No professional association has a legislative veto, and neither a clinician's bare assertion nor an official's unsupported preference is conclusive.
+Assess medical claims against competent evidence, professional standards, patient circumstances and substantial contrary evidence. Substantial professional agreement deserves serious weight, not a veto; bare clinical assertions and unsupported official preferences are inconclusive. Necessary care remains timely, without unnecessary committee vetoes or documentation becoming prior permission. Duties must be sufficiently definite and fault requirements respected; later reasonable medical disagreement alone does not establish every offense element. Fraud, malpractice and professional misconduct remain subject to lawful enforcement. [Doe](https://supreme.justia.com/cases/federal/us/410/179/) and [Colautti v. Franklin, 439 U.S. 379](https://supreme.justia.com/cases/federal/us/439/379/) supply these clinical safeguards.
 
-Necessary care must remain timely. Appropriate clinical judgment cannot be displaced by an unnecessary committee veto or documentation functioning as prior permission. Duties must be sufficiently definite, and applicable fault requirements must be respected. Later reasonable medical disagreement does not alone establish every element of a punishable violation. Fraud, malpractice, and professional misconduct remain subject to lawful enforcement. [Doe](https://supreme.justia.com/cases/federal/us/410/179/); [Colautti v. Franklin, 439 U.S. 379](https://supreme.justia.com/cases/federal/us/439/379/).
+Required medical information must be accurate, nonmisleading and material to informed consent. Concise factual assistance notices cannot demand ideological agreement; clinicians may explain limits and correct misinformation. Accurate content alone does not justify burdensome timing, delivery or certification. [Planned Parenthood v. Danforth, 428 U.S. 52, 79–81](https://supreme.justia.com/cases/federal/us/428/52/) supports useful confidential oversight records, whose scope, use and burden remain distinct from public disclosure or enforcement of invalid conditions.
 
-Required medical information must be accurate, nonmisleading, and material to informed consent. Concise factual assistance notices may inform choice without requiring ideological agreement. Clinicians may explain limitations and correct misinformation. Accurate content does not automatically justify burdensome timing, delivery, or certification conditions.
+**Step 6. Identify violations and tailor relief**
 
-Useful confidential records can serve legitimate oversight. Their scope, use, and burden must be distinguished from public disclosure and from records enforcing an invalid condition. [Planned Parenthood v. Danforth, 428 U.S. 52, 79–81](https://supreme.justia.com/cases/federal/us/428/52/).
+Identify the failing duty or application, ground and remedy; preserve severable lawful duties and address dependent certifications, reports and sanctions. Others' compliance does not defeat individual claims; broader relief requires corresponding proof. An indivisible mandatory condition may fail where ordinary operation imposes demonstrated meaningful interference the State has not justified; voluntary compliance occasions alone do not justify compulsion. Otherwise limit relief to proved applications or groups. This qualification of no-valid-applications review follows the protected right but preserves causation, scope and justification requirements. The spousal-notice holding below states its distinct basis.
 
-**Step 6. Identify the violation and tailor relief**
+Cumulative relief addresses the challenged contribution, not automatically all regulation. Timetable replacement neither dissolves injunctions nor authorizes every provision; the mandate specifies duties.
 
-State which duty or application fails, why it fails, and what relief addresses the violation. Preserve independently lawful requirements under applicable severability law. Address dependent certifications, reporting fields, and sanctions expressly.
-
-An individual claim does not fail because other patients can comply. Broader relief requires a corresponding showing. An indivisible mandatory condition may be invalidated where its ordinary operation imposes demonstrated meaningful interference and the State has failed to justify that condition. Occasions on which patients would voluntarily do the same thing do not alone justify compulsory compliance. Otherwise, relief should be limited to the applications or groups for which the violation is established.
-
-This qualification of a strict no-valid-applications approach follows from the substantive right: successful compliance by some cannot alone answer a demonstrated constitutional defect in the obligation. It does not excuse proof of causation, scope, or inadequate justification. The distinct basis for invalidating the spousal-notice requirement is addressed in Part VI.
-
-For cumulative burdens, relief addresses the challenged obligation's or package's contribution. It does not automatically invalidate all existing regulation. Removing the trimester timetable does not dissolve injunctions or authorize enforcement of every challenged provision. The mandate must specify the resulting duties.
-
-Stone, Blackmun, Stevens, O'Connor and Souter join every substantive branch, the proof allocation, the clinical safeguards and the remedial principles. Kennedy joins the protected core and particular applications but not this complete framework. White, Scalia and Thomas reject the abortion-specific standard. A lower court therefore applies this direct five-Justice holding without constructing a further rule from separate opinions under Marks.
+Stone, Blackmun, Stevens, O'Connor and Souter join every branch, proof rule, safeguard and remedy principle. Kennedy joins the core and particular applications, not the complete framework; White, Scalia and Thomas reject it. Five direct joins control without further Marks synthesis.
 
 **Precedent treatment:**
 
@@ -1085,7 +1045,7 @@ Act 64 expressly preserves words and provisions capable of operating without the
 
 **Authority:** Stone's opinion, joined by Blackmun, Stevens, O'Connor, Souter: 5 direct rationale joins including the author. White, Scalia, Kennedy and Thomas would sustain public release. The 5–4 holding supplies plaintiff-specific relief, not automatic statewide facial invalidation.
 
-**Controlling explanation:** Collection and public release are distinct. Section 3207(b)'s public-release condition uses receipt of State-appropriated funds during the twelve calendar months **before the inspection request**. Section 3214(f)'s condition uses the twelve calendar months **before filing the quarterly report**. The latter preserves confidential treatment after a declaration of no qualifying funds unless contrary evidence establishes receipt. The former limits access to nonfunded-facility reports to specified officials performing their official duties.
+**Controlling explanation:** Collection and public release are distinct. Section 3207(b)'s public-release condition uses receipt of State-appropriated funds during the twelve calendar months **before the request to inspect or copy**. Section 3214(f)'s condition uses the twelve calendar months **before filing the quarterly report**. The latter preserves confidential treatment after a declaration of no qualifying funds unless contrary evidence establishes receipt. The former limits access to nonfunded-facility reports to specified officials performing their official duties.
 
 The District Court found a supported risk of increased harassment and withdrawal from participation in medical assistance. Existing publicity does not make additional disclosure consequence-free. We accept those findings as sufficient to establish meaningful interference for the plaintiff providers, without assuming that institutional reports publicly identify individual patients or that every additional disclosure necessarily creates a substantial obstacle.
 
@@ -1097,7 +1057,7 @@ We therefore reverse approval of these public-release conditions **as applied to
 
 Confidential collection, lawful official access, and ordinary disclosure of public expenditures are preserved. No general immunity from financial accountability is created. Statistical use of trimester categories does not restore the constitutional trimester timetable. [District Court findings and reporting analysis, 744 F. Supp. 1323](https://law.justia.com/cases/federal/district-courts/FSupp/744/1323/1797783/); [Court of Appeals analysis, 947 F.2d 682](https://openjurist.org/947/f2d/682/planned-parenthood-of-southeastern-pennsylvania-v-casey).
 
-For §3207(b), the challenged additional exposure includes affiliated and commonly controlled entities. The operative funding lookback is the twelve calendar months before a request to inspect or copy. The Court does not invalidate the separate collection or updating duties and does not create an exemption from otherwise lawful disclosure of actual public expenditures.
+For §3207(b), exposure includes affiliated and commonly controlled entities; separate updating duties remain.
 
 **Precedent treatment:**
 
@@ -1278,11 +1238,15 @@ White applies the important-objective and substantial-relationship test to the a
 
 #### Source Notes
 
-The principal statutory source is the supplied Pennsylvania Abortion Control Act text, reproduced in the statutory appendix at 505 U.S. 902–911. The supplementary record sources are the [District Court opinion, 744 F. Supp. 1323](https://law.justia.com/cases/federal/district-courts/FSupp/744/1323/1797783/) and the [Third Circuit opinion, 947 F.2d 682](https://openjurist.org/947/f2d/682/planned-parenthood-of-southeastern-pennsylvania-v-casey). Statutory commands, constructions and contested inferences remain distinct. The [historical Casey text](https://supreme.justia.com/cases/federal/us/505/833/) is consulted for statutory, record and argument context; its resolution is not entering precedent.
+The principal statutory source is the Pennsylvania Abortion Control Act text reproduced in the statutory appendix at 505 U.S. 902–911. The supplementary record sources are the [District Court opinion, 744 F. Supp. 1323](https://law.justia.com/cases/federal/district-courts/FSupp/744/1323/1797783/) and the [Third Circuit opinion, 947 F.2d 682](https://openjurist.org/947/f2d/682/planned-parenthood-of-southeastern-pennsylvania-v-casey). Statutory commands, judicial constructions and contested factual inferences remain distinct.
 
 The paternal-support rape permission is optional and has no police-report condition. The different spousal-assault exception incorporates a ninety-day clock running from commission of the offense. Materials are furnished if chosen; acceptance, reading and ideological assent are not required. The emergency explanation precedes treatment only if possible. The information-omission defense is separate from emergency permission. The parental ruling periods and two public-release funding lookbacks remain distinct.
 
-The author counts once. Named rationale coalitions are distinct from judgment coalitions. Nine deny special attendance relief, but five adopt the no-established-command rationale and four advance an additional assumed-operation rationale. Certification dependencies follow their underlying duties. The complete framework has five direct joins and does not depend on adding supporters of a different rationale.
+[1984 Act 230, §2, P.L. 1211](https://www.palrb.gov/getfile.cfm?file=resources%2Fpreservation-project%2Fpltiftopdf%2F19001999%2F1984%2F0%2Fact%2F0230.pdf&view=true) supplies the incorporated spousal-assault terms.
+
+The two lower opinions supply the judgments, findings, statutory quotations and disputed appellate premises. The [Internet Archive docket and briefs collection](https://archive.org/details/micro_IA40385013_0207) contains the providers' opening, reply and supplemental briefs, officials' response and the Solicitor General's brief; the [April 22, 1992 official transcript](https://www.supremecourt.gov/pdfs/transcripts/1991/91-744_91-902_04-22-1992.pdf) supplies argument and scope. Briefs and argument are advocacy. The statutory appendix at 505 U.S. 902–911 supplies the quoted enactments. The legal authorities are limited to those effective by June 29, 1992.
+
+Ohio v. Akron Center's no-valid-applications language at 497 U.S. 514 is in Kennedy's Part II-A, joined by O'Connor and Stevens; their nonjoins to Part V do not exclude their joins to this passage. Its treatment here is an express provision-specific qualification, not an assertion that those Justices never joined the earlier formulation. [Ohio v. Akron Center opinion](https://static.case.law/us/497/cases/0502-01.json).
 
 #### Mandate, Remedy, and Stage
 
