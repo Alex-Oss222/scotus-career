@@ -72,12 +72,14 @@ All nine affirm the without-prejudice dismissal; no Justice would order release,
 
 **Controlling explanation:** The Court makes nonaccrual integral to the prerequisite. A rule withholding the cause of action while allowing its limitations period to expire would frustrate the later remedy the rule preserves. Carey's use of appropriate common-law remedial principles supports considering the completion of the claim rather than pretending that a presently barred action must already be filed. The Seventh Circuit's suggested equitable protection for a diligent litigant addresses a different premise: accrual before the invalidity prerequisite is met. The Court does not adopt that premise. Heck's conviction was sustained on direct review; one federal petition failed for lack of exhaustion and another was denied. Neither result meets any qualifying invalidation route. Patsy's protection against general exhaustion remains intact, but completing review cannot itself establish the opposite of the judgment reviewed. Dismissal without prejudice therefore preserves the possibility of a later action following invalidation, subject to its remaining elements and defenses. Accrual of an independently cognizable injury is not decided by this rule.
 
-Recognition of a conviction's invalidation by an authorized state tribunal identifies one circumstance in which the present §1983 prerequisite is satisfied. It does not itself create jurisdiction, confer authority to reopen the underlying conviction, or prescribe grounds upon which a state tribunal must grant collateral relief. Those questions remain governed by the independently applicable law authorizing that tribunal's action.
-
 **Precedent treatment:**
 
 - Carey v. Piphus: applies its common-law-informed approach to the federal remedy without imposing additional constitutional-liability elements.
 - Patsy v. Board of Regents: preserves the distinction between exhaustion and existence of a cognizable damages claim.
+
+#### Limits and questions not reached
+
+Recognition of a conviction's invalidation by an authorized state tribunal identifies one circumstance in which the present §1983 prerequisite is satisfied. It does not itself create jurisdiction, confer authority to reopen the underlying conviction, or prescribe grounds upon which a state tribunal must grant collateral relief. Those questions remain governed by the independently applicable law authorizing that tribunal's action.
 
 ### IV. Independent injuries, claim-specific analysis and this dismissal
 
@@ -206,12 +208,14 @@ No release, misconduct finding, damages award, immunity determination or state-l
 
 **Controlling explanation:** The Court makes nonaccrual integral to the prerequisite. A rule withholding the cause of action while allowing its limitations period to expire would frustrate the later remedy the rule preserves. Carey's use of appropriate common-law remedial principles supports considering the completion of the claim rather than pretending that a presently barred action must already be filed. The Seventh Circuit's suggested equitable protection for a diligent litigant addresses a different premise: accrual before the invalidity prerequisite is met. The Court does not adopt that premise. Heck's conviction was sustained on direct review; one federal petition failed for lack of exhaustion and another was denied. Neither result meets any qualifying invalidation route. Patsy's protection against general exhaustion remains intact, but completing review cannot itself establish the opposite of the judgment reviewed. Dismissal without prejudice therefore preserves the possibility of a later action following invalidation, subject to its remaining elements and defenses. Accrual of an independently cognizable injury is not decided by this rule.
 
-Recognition of a conviction's invalidation by an authorized state tribunal identifies one circumstance in which the present §1983 prerequisite is satisfied. It does not itself create jurisdiction, confer authority to reopen the underlying conviction, or prescribe grounds upon which a state tribunal must grant collateral relief. Those questions remain governed by the independently applicable law authorizing that tribunal's action.
-
 **Precedent treatment:**
 
 - Carey v. Piphus: applies its common-law-informed approach to the federal remedy without imposing additional constitutional-liability elements.
 - Patsy v. Board of Regents: preserves the distinction between exhaustion and existence of a cognizable damages claim.
+
+#### Limits and questions not reached
+
+Recognition of a conviction's invalidation by an authorized state tribunal identifies one circumstance in which the present §1983 prerequisite is satisfied. It does not itself create jurisdiction, confer authority to reopen the underlying conviction, or prescribe grounds upon which a state tribunal must grant collateral relief. Those questions remain governed by the independently applicable law authorizing that tribunal's action.
 
 ### IV. Independent injuries, claim-specific analysis and this dismissal
 

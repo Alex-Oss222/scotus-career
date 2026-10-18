@@ -594,7 +594,7 @@ The official [United States Reports, 511 U.S. 641](https://tile.loc.gov/storage-
 <!-- source-record: Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md -->
 ## Event
 
-Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., No.93-609, 511 U.S.658. Argued April 26, 1994; decided May 23, 1994. On certiorari to the Fifth Circuit, 997 F.2d39, which reversed denial of reinstatement under §27A(b). The question is whether Congress may require reopening of this completed private federal dismissal.
+Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., No. 93-609, 511 U.S. 658. Argued April 26, 1994; decided May 23, 1994. On certiorari to the Fifth Circuit, 997 F.2d 39, which reversed denial of reinstatement under §27A(b). The question is whether Congress may require reopening of this completed private federal dismissal.
 
 ## Participation
 
@@ -634,7 +634,7 @@ The defendants' strongest objection is that Pacific Mutual's unappealed dismissa
 
 Landgraf and Rivers distinguish an express temporal command from an inference about statutory reach; express reach does not itself settle constitutionality. Harper's rule for still-open direct review and Beam's protection of finality against later judicial doctrine do not establish that Congress can never enact this confined remedy. Chase Securities concerns due-process revival and does not independently resolve Article III. The courts retain the essential work of adjudication under the new law.
 
-**Limits and questions not reached:** Congress may not declare a completed judicial factual finding erroneous and compel the contrary finding, dictate a merits judgment, or disguise an individualized award or assessment of liability as a procedural reopening statute. Compelled reopening of merits judgments and individualized commands to adjudicate liability are not decided. The Court announces no independent due-process holding and does not decide §27A(a), general severability, fraud, liability, damages or entitlement to judgment on the securities merits. Pending litigation, prospective relief and independently authorized judicial reopening remain distinct.
+**Limits and questions not reached:** Congress may not declare a completed judicial factual finding erroneous and compel the contrary finding, dictate a merits judgment, or disguise an individualized award or assessment of liability as a procedural reopening statute. This holding does not decide compelled reopening of merits judgments or individualized legislative commands to adjudicate liability. The Court announces no independent due-process holding and does not decide §27A(a), general severability, fraud, liability, damages or entitlement to judgment on the securities merits. Pending litigation, prospective relief and independently authorized judicial reopening remain distinct.
 
 **Precedent treatment:**
 
@@ -670,7 +670,7 @@ The Fifth Circuit's judgment sustaining the reinstatement procedure is affirmed.
 
 ## Source Notes
 
-The [official Supreme Court report, 511 U.S.658](https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511658/usrep511658.pdf) establishes identity and participation. The full [Fifth Circuit opinion, 997 F.2d39](https://www.ca5.uscourts.gov/opinions/pub/92/92-1662.CV0.wpd.pdf) supplies the final dismissal, legislation and timely reopening motion. Other plaintiffs discussed in that opinion are outside this docket.
+The [official Supreme Court report, 511 U.S. 658](https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511658/usrep511658.pdf) establishes identity and participation. The full [Fifth Circuit opinion, 997 F.2d 39](https://www.ca5.uscourts.gov/opinions/pub/92/92-1662.CV0.wpd.pdf) supplies the final dismissal, legislation and timely reopening motion. Other plaintiffs discussed in that opinion are outside this docket.
 
 ---
 
