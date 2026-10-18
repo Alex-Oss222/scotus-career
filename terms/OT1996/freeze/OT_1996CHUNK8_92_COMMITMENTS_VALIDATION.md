@@ -6,12 +6,12 @@ Status: independent modeling complete; ready for distinct historical reconciliat
 
 Authorized boundary: frozen validated neutral packet and receipt, governing Engine provisions, and neutral-authorized earlier official sources only. No same-matter Supreme Court research, comparator, Stone supplement, combined brief, control/exposure notes, raw Records, assignment counts, Git command, or top-level stone/ access. The initial general Engine retrieval was full rather than scoped; no excluded matter substance was present. General model knowledge is not claimed erased.
 
-Checks actually completed: eight named Associates; five component rows for each (40 total); explicit review channel and narrow connected-review determination; temporary-immunity, official-function/press-secretary, constitutional and discretionary stay, derivative Ferguson relief, concrete accommodation, source and future-process limits; actual prior public Nixon/Plaut positions preserved. Runtime and freeze are byte-identical. No authors assigned; no Stone vote supplied.
+Checks actually completed: eight named Associates; five component rows for each (40 total); explicit review channel and narrow connected-review determination; temporary-immunity, official-function/press-secretary, constitutional and discretionary stay, derivative Ferguson relief, concrete accommodation, source and future-process limits; actual prior public Nixon/Plaut positions preserved. No authors assigned; no Stone vote supplied.
 
-Neutral packet SHA256: `31c8d6dc4945fc0c4189c303ec64d2ec4aecab888e12c77e6ee92f00c3125b94`.
+Neutral packet SHA256: `0217a454636b55c4af6e5b2b72054a361b69c42e41860cf66aa5a6317a4aac2d`.
 
-Commitments UTF-8 SHA256: `dc33ca7c579d8985a61dc7ca5dfb7e29ab95bfb79d2a7eb00b8442ceec8dce7c`.
+Commitments UTF-8 SHA256: `15cbe74890eb46947fe8d1583c56c000783e00caddbfbd7b0f298cbfbcaf4f0c`.
 
-Frozen bytes: 47354.
+Frozen bytes: 48690.
 
 Reconciliation, exact circulated joins, final participation, assignment, Record construction and downstream validation remain later-stage work. No Git durability claim is made; the exact frozen filesystem handoff and this receipt are the completed durable artifacts.

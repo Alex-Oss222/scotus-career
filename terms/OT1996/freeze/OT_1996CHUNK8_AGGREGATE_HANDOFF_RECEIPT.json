@@ -1,7 +1,7 @@
 {
   "COMMITMENTS": {
     "aggregate": "OT_1996CHUNK8_COMMITMENTS.md",
-    "sha256": "149ad8f62c07f33c0733eea227e84f127d9af36a8ac29a632cfc28582468ce7c",
+    "sha256": "8920eff3bb973cbf02acdd807f3a8a217d856372774842272312ed432f6fb9c6",
     "constituents": [
       {
         "source": "OT_1996CHUNK8_84_89_COMMITMENTS.md",
@@ -23,7 +23,7 @@
       },
       {
         "source": "OT_1996CHUNK8_92_COMMITMENTS.md",
-        "sha256": "dc33ca7c579d8985a61dc7ca5dfb7e29ab95bfb79d2a7eb00b8442ceec8dce7c",
+        "sha256": "15cbe74890eb46947fe8d1583c56c000783e00caddbfbd7b0f298cbfbcaf4f0c",
         "live_scope": "92",
         "original_87_section_omitted": false
       },
@@ -37,7 +37,7 @@
   },
   "RECONCILED": {
     "aggregate": "OT_1996CHUNK8_RECONCILED.md",
-    "sha256": "9ec2b1ba48566bb792e75b4de76720eb89aa93b854cf0244e4db5595bdbbcee0",
+    "sha256": "51670f65e8bf25c94edd3a2f40acea3a52d2cae52e7932262199b9523e85600f",
     "constituents": [
       {
         "source": "OT_1996CHUNK8_84_85_86_88_89_RECONCILED.md",
@@ -53,7 +53,7 @@
       },
       {
         "source": "OT_1996CHUNK8_90_94_RECONCILED.md",
-        "sha256": "ab614ae0339beced5ccfcc4d350387fca8a70cd75869bac87a0c8f08a211a57f",
+        "sha256": "83ae9ea6bfaa2c23ada11ca6287dfc9f36a1a6d90f71c1711d471a204229b814",
         "live_scope": "90\u201394",
         "original_87_section_omitted": false
       },

@@ -258,25 +258,31 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 **Docket or dockets:** No. 93-1121.
 **Decided:** April 18, 1995.
 
-##### Section 27A(b) cannot reopen this completed private federal judgment
+##### Section 27A(b) permits mandatory reinstatement of this completed limitations dismissal
 
-**Holding:** Article III prevents §27A(b) from requiring reinstatement of this private §10(b) action after its dismissal with prejudice became final without appeal before December 19, 1991. Satisfaction of the statute's reinstatement conditions does not overcome that constitutional limit; the denial of reinstatement is affirmed without deciding pending cases, judgments still on direct review, continuing prospective relief, or independently lawful judicial reopening.
+**Holding:** Under Morgan Stanley, Article III permits Congress to require reinstatement under §27A(b) of a qualifying private §10(b) action even though its limitations dismissal became final without appeal before the provision's December 19, 1991 enactment: the action must have commenced on or before June 19, 1991, been dismissed as time barred after that date, and been timely under the jurisdiction's law, including retroactivity principles, as it existed June 19, 1991, with a reinstatement motion filed within sixty days after enactment. The court independently determines those cumulative conditions and, when they are satisfied, must reinstate without discretionary balancing, retaining independent responsibility for all claims, defenses, and remedies; this expressly retrospective entitlement does not authorize legislative findings, dictated liability, or unrestricted reopening of completed merits judgments.
 
-**Proposition-level authority:** Opinion of the Court (Thomas), joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter and Breyer: seven Justices.
+**Proposition-level authority:** Chief Justice Stone-Zsela's Opinion of the Court, joined in full by Stevens, Souter, Ginsburg, and Breyer. Those five direct rationale joins control every proposition, qualification, and remedy stated here. O'Connor, Scalia, Kennedy, and Thomas dissent; no combination of separate rationales is necessary.
+
+**Material application:** A narrowly defined, exclusively retrospective class does not by itself turn this procedure into a legislative judgment: the statute covers every action meeting its legal criteria and selects no parties for legislatively determined liability. The statutory conditions are satisfied, including the timely February 11, 1992 motion.
 
 **Treatment of earlier authority:**
 
-- Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994: applies its as-applied Article III rule to the same completed, unappealed private-dismissal setting without enlarging it.
-- Robertson v. Seattle Audubon Society, March 25, 1992: preserves genuine legislative changes governing pending cases; it does not authorize the present reopening of a completed judgment.
-- McCullough v. Virginia, 172 U.S. 102: applies the distinction between changing law and disturbing completed adjudication.
-- United States v. Klein, 80 U.S. (13 Wall.) 128: preserves protection of the judicial function without treating actual legislative amendment as forbidden.
-- Pennsylvania v. Wheeling & Belmont Bridge Co., 59 U.S. (18 How.) 421: distinguishes adjustment of the continuing prospective operation of equitable relief.
-- United States v. Sioux Nation of Indians, 448 U.S. 371: distinguishes sovereign waiver of the Government's own final-judgment defense from compulsory reopening between private parties.
-- Chase Securities Corp. v. Donaldson, 325 U.S. 304: leaves its due-process revival rule intact; it does not resolve the Article III question presented.
+- Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994: applies its five-Justice Article III holding sustaining §27A(b)'s bounded mandatory reinstatement procedure to this qualifying completed private limitations dismissal; preserves independent eligibility and merits adjudication and all constitutional limits.
+- Robertson v. Seattle Audubon Society, March 25, 1992: applies its distinction between genuine legislative change and prescribed judicial adjudication; Morgan Stanley supplies the completed-dismissal rule that Robertson did not decide.
+- United States v. Klein, 80 U.S. (13 Wall.) 128: applies its protection of the independent judicial function; a class-defined entitlement to renewed adjudication does not dictate findings or securities liability.
+- McCullough v. Virginia, 172 U.S. 102: preserves protection of completed judicial determinations while distinguishing the statutory entitlement to litigate a limitations-dismissed claim from a legislative declaration of facts or liability contrary to an adjudication.
+- James B. Beam Distilling Co. v. Georgia, 501 U.S. 529: preserves finality against reopening by later judicial doctrine alone; the entitlement here comes from an express statute whose Article III validity Morgan Stanley establishes.
+- Pennsylvania v. Wheeling & Belmont Bridge Co., 59 U.S. (18 How.) 421: distinguishes the continuing operation of prospective equitable relief; that setting does not itself decide this completed limitations dismissal.
+- United States v. Sioux Nation of Indians, 448 U.S. 371: distinguishes the Government's waiver of its own defense; no governmental waiver of a private defendant's defense supplies the holding here.
+- Chase Securities Corp. v. Donaldson, 325 U.S. 304: leaves its due-process revival rule intact without treating it as a controlling answer to Article III.
+- Lampf, Pleva, Lipkind, Prupis & Petigrow v. Gilbertson, 501 U.S. 350: identifies the limitations rule that produced the dismissal and the statutory response; §27A(b) supplies reinstatement without establishing the securities merits.
 
-**Limits and questions not reached:** Section 27A(b) addresses a private §10(b) action commenced on or before June 19, 1991, dismissed as time barred after that date, and timely under the law of the jurisdiction, including retroactivity principles, as it existed June 19, 1991. It directs reinstatement on a plaintiff's motion within sixty days after December 19, 1991. These conditions were satisfied here, including the February 11, 1992 motion. Subsection (a), other applications of subsection (b), general severability, constitutional due process, fraud, damages, federal waiver, and independently authorized judicial reopening are not decided. The Court adopts no comprehensive prohibition governing every later legislative effect on every final order.
+**Limits and questions not reached:** Congress may not command findings contrary to the record, impose liability on identified defendants by legislative declaration, or disguise an individualized award as a procedural reopening law. The Court decides no general power to set aside completed judgments adjudicating the underlying merits, no constitutionality of every retrospective statute, and no independent due-process question; applicable due-process protections and other constitutional restrictions remain. Section 27A(a), other applications of subsection (b), general severability, federal waiver, continuing prospective relief, and independently authorized judicial reopening are not decided. The decision neither adjudicates other parties' completed cases nor creates criminal or innocence remedies. Fraud, reliance, causation, liability, damages, and ordinary merits defenses remain for the courts; reinstatement establishes none of them.
 
-**Operative remedy or transition:** Denial of §27A(b) reinstatement is affirmed. The completed dismissal remains binding; there is no reinstatement or merits remand.
+**Operative remedy or transition:** The judgment of the Sixth Circuit is reversed. The case is remanded for reinstatement under the satisfied conditions of §27A(b) and further judicial proceedings on the underlying securities claims. Reinstatement is required, not a discretionary remedy. The courts retain responsibility for the merits, defenses, and any relief; no merits outcome is prescribed.
+
+**Material judgment:** Reversed and remanded, 5–4. Stone-Zsela, Stevens, Souter, Ginsburg and Breyer support reversal; O'Connor, Scalia, Kennedy and Thomas dissent.
 
 ## Source: state/holdings/constitutional-structure.md
 

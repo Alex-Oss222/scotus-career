@@ -1,19 +1,19 @@
 # Reconciliation freeze receipt ? OT1996 chunk 8, matters 90?94
 
-Scope: five matters only; matter 95 excluded. No Git operation. Runtime and immutable freeze are byte-identical. No Record, workspace, render or state change.
+Scope: five matters only; matter 95 excluded. No Git operation. The frozen handoff is the authoritative reconciliation.
 
 Checks completed: all 27 neutral-source receipt hashes and three independent/neutral handoff hashes matched (30 total); five matter sections; eight named Associates per matter; Clinton five-component comparison and full Breyer qualification; corrected Suitum lineup and distinct compensation-only ground; exact Hyde rejection conditions; official date/procedure corrections; sources and unreviewed material expressly bounded.
 
-The prior freezes were not edited. These files preserve the reconciliation; final Stone compatibility, authorship, actual draft joins and all downstream term checks are not certified here.
+These files preserve the reconciliation; final Stone compatibility, authorship, actual draft joins and all downstream term checks are not certified here.
 
 ## SHA256
 
 - `terms/OT1996/runtime/OT_1996CHUNK8_90_94_RECONCILED.md` ? `ab614ae0339beced5ccfcc4d350387fca8a70cd75869bac87a0c8f08a211a57f` (43794 bytes)
-- `terms/OT1996/freeze/OT_1996CHUNK8_90_94_RECONCILED.md` ? `ab614ae0339beced5ccfcc4d350387fca8a70cd75869bac87a0c8f08a211a57f` (43794 bytes)
+- `terms/OT1996/freeze/OT_1996CHUNK8_90_94_RECONCILED.md` ? `83ae9ea6bfaa2c23ada11ca6287dfc9f36a1a6d90f71c1711d471a204229b814` (44247 bytes)
 - `terms/OT1996/freeze/OT_1996CHUNK8_90_95_COMMITMENTS.md` ? `bd8c3cfab3463bbcb7dc6f79baf0535fd2ebc4d12465d2f6fe7b59a848b77a46` (41899 bytes)
-- `terms/OT1996/freeze/OT_1996CHUNK8_92_COMMITMENTS.md` ? `dc33ca7c579d8985a61dc7ca5dfb7e29ab95bfb79d2a7eb00b8442ceec8dce7c` (47354 bytes)
-- `terms/OT1996/freeze/OT_1996CHUNK8_92_NEUTRAL_VALIDATED.md` ? `31c8d6dc4945fc0c4189c303ec64d2ec4aecab888e12c77e6ee92f00c3125b94` (69707 bytes)
-- `terms/OT1996/freeze/OT_1996CHUNK8_90_95_NEUTRAL_SHA256.md` ? `34bcc29d6c2a0ab6998f9b326643cc66c0fb3469ed4dcb560ce73db73ce12f75` (3011 bytes)
+- `terms/OT1996/freeze/OT_1996CHUNK8_92_COMMITMENTS.md` ? `15cbe74890eb46947fe8d1583c56c000783e00caddbfbd7b0f298cbfbcaf4f0c` (48690 bytes)
+- `terms/OT1996/freeze/OT_1996CHUNK8_92_NEUTRAL_VALIDATED.md` ? `0217a454636b55c4af6e5b2b72054a361b69c42e41860cf66aa5a6317a4aac2d` (72871 bytes)
+- `terms/OT1996/freeze/OT_1996CHUNK8_90_95_NEUTRAL_SHA256.md` ? `216391f2657d49c6b841880320f4d91653fa8f8ec6dff39dfe2886732e042dae` (3011 bytes)
 - `terms/OT1996/freeze/OT_1996CHUNK8_COMPARATOR_CONTROL.md` ? `0931a6ca6bf3a0ec8abf23ac4fff75427d17639bc3a377b2f7358ff413da7e42` (1733 bytes)
 - `terms/OT1996/runtime/OT_1996CHUNK8_COMPARATOR.md` ? `2f895d2be23de0d44d63c3b67cc704a77234a373404e20b2cf9e3ccc3f278429` (14027 bytes)
 - `terms/OT1996/sources/chunk5/520bv.pdf` ? `483a67652ac8a26303401ae3e6b4c4e83a3d186476e3614a9ca0a490f90a7c93` (5333294 bytes)
