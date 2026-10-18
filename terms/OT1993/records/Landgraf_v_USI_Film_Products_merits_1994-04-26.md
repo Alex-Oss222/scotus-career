@@ -1,7 +1,7 @@
 **Case and dockets:** Landgraf v. USI Film Products, No. 92-757.
 **Event and date:** 1994-04-26; merits decision before Rivers; October Term 1993, chunk 4.
 **Result:** Affirmed, 8–1; five-Justice general temporal framework.
-**Version / lineage:** Initial canonical assembly; supersedes no completed adjudication. Durable handoffs and this Record are saved for operator review. No Git command or commitment is claimed.
+**Version / lineage:** Original decision.
 
 ## Event, participation and entering law
 
@@ -9,13 +9,13 @@ Landgraf v. USI Film Products, No. 92-757. Argued October 13, 1993; decided Apri
 
 Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision; no nonparticipation is established. Nine participants satisfy the six-Justice quorum; five votes are required for judgment and controlling propositions. Research cutoff: immediately before April 26, 1994. No uncoordinated same-day decision enters; Rivers is subsequent in the express sequence. The [entering slice](../entering-law/OT_1993CHUNK4.md) supplies actual Harper, Franklin and Robertson with their limited scopes. Actual Harris does not reopen the settled constructive-discharge finding or determine statutory temporal reach.
 
-## Stone — approved position and final compatibility
+## Stone — position and final joins
 
-The user approved Section II as written. Stone affirms the refusal of new §102 damages and its attached jury provision and expressly adopts the organizing temporal framework: congressional direction first, then new consequences for completed conduct. His distinction between an impermissible expectation of continued discrimination and notice of new backward-looking liabilities is stated in the Court’s explanation, with no constitutional ban on all civil retroactivity. Bradley’s collateral setting, genuinely prospective/procedural applications, Harper’s judicial scope and the conditional jury provision remain distinct. The frozen Stevens/O’Connor/Souter/Ginsburg framework is compatible in full; the other three affirmers retain their different method. No fallback or substitution for Stone’s position occurs.
+Stone affirms the refusal of new §102 damages and its attached jury provision and expressly adopts the organizing temporal framework: congressional direction first, then new consequences for completed conduct. His distinction between an impermissible expectation of continued discrimination and notice of new backward-looking liabilities is stated in the Court’s explanation, with no constitutional ban on all civil retroactivity. Bradley’s collateral setting, genuinely prospective/procedural applications, Harper’s judicial scope and the conditional jury provision remain distinct. Stevens, O’Connor, Souter and Ginsburg join that full framework; the other three affirmers retain their different method. No fallback is used.
 
 ## Assignment and opinion-level joins
 
-The Chief is in the eight-Justice judgment coalition and the five-Justice general-framework coalition. He assigns Stevens the Court opinion based on the latter’s frozen statutory-first synthesis and compatibility with that governing coalition. Scalia writes the distinct methodological concurrence, joined by Kennedy and Thomas; Blackmun writes the compensation dissent. The assignments follow the supported grounds, not historical author names alone. Stevens, O’Connor, Souter and Ginsburg join the full Court formulation; Stone joins it as approved. Scalia, Kennedy and Thomas accept the limited statutory-direction discussion and case background, but their concurrence, not a presumed full join, supplies their new-liability reasoning. The holdings count only the five full joiners at the complete explanatory level. No new non-Stone disposition or methodological change is made after reconciliation.
+The Chief is in the eight-Justice judgment coalition and the five-Justice general-framework coalition. He assigns Stevens the Court opinion based on the latter’s statutory-first synthesis and the governing coalition. Scalia writes the distinct methodological concurrence, joined by Kennedy and Thomas; Blackmun writes the compensation dissent. Stevens, O’Connor, Souter and Ginsburg join the full Court formulation with Stone. Scalia, Kennedy and Thomas accept the limited statutory-direction discussion and case background, but their concurrence supplies their distinct new-liability reasoning. The holdings count only the five full joiners at the complete explanatory level.
 
 | Component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
 |---|---|---|---|---|
@@ -72,6 +72,10 @@ The Court’s discussion of punitive liability forms part of its §102 temporal 
 - Kaiser: applied to the enacted condition linking the jury option to §102 damages.
 - Bradley: distinguished; current-law treatment of collateral matters does not erase an express condition on a new remedy or automatically reopen a completed trial.
 
+### Limits and questions not reached
+
+An express congressional direction concerning the temporal operation of a statute resolves the threshold statutory question, subject to applicable constitutional limits. Such a direction does not alone determine whether Congress may constitutionally require reconsideration of an already completed Article III judgment. The present case concerns statutory consequences for earlier conduct in litigation properly before the courts and does not decide that separate final-judgment issue.
+
 ## Present law and procedure
 
 Effective April 26, 1994, courts apply the temporal-direction and new-legal-consequences framework stated above. New §102 compensation and punitive liability do not attach to the completed preenactment conduct here, and the conditional jury option supplies no independent retrial. The holding is provision-specific, not a ruling that every part of the 1991 Act is inapplicable in every pending case. Congress may prescribe retrospective reach within constitutional limits. Harper’s rule for judicial decisions remains distinct. Rivers receives this completed ruling in the expressly sequenced same-day review of §101.
@@ -88,17 +92,17 @@ Justice Blackmun would make compensatory damages available in this pending actio
 
 ## Sources and controlling scope
 
-Inputs: Landgraf only in `OT_1993CHUNK4_COMMITMENTS_A.md`, `OT_1993CHUNK4_NEUTRAL_A_VALIDATION.md`, `../runtime/OT_1993CHUNK4_NEUTRAL_A.md`, and `../runtime/OT_1993CHUNK4_COMPARATOR_A.md`; complete `chunk4-sources/Landgraf-govinfo.txt`, the text of [511 U.S. 244](https://www.govinfo.gov/content/pkg/USREPORTS-511/pdf/USREPORTS-511-244.pdf). The neutral stage's authenticated enacted statute and date-eligible authorities remain the authority base. The whole historical opinion, including every separate writing and note, was read. References to Rivers inside Scalia's combined concurrence do not decide that later matter here.
+The enacted statute and date-eligible authorities supply the governing law. The complete [official report, 511 U.S. 244](https://www.govinfo.gov/content/pkg/USREPORTS-511/pdf/USREPORTS-511-244.pdf), including the separate writings and notes, supplies the historical comparison and reported record. References to Rivers inside Scalia’s combined concurrence do not decide that later matter here.
 
-The live judgment concerns refusal to apply Civil Rights Act of 1991 §102 to the pre-enactment conduct in this pending appeal, principally the claimed availability of compensatory damages and the consequent jury election. The seven affirming associates support the general §102 conclusion, including the stronger prohibition against applying its punitive liability to this earlier conduct. **Blackmun does not cast a separate affirmative vote denying punitive damages.** His historical dissent, 511 U.S. at 296 n.3, expressly reserves that question because it was not squarely presented. The neutral freeze's contrary affirmative punitive disposition is corrected. Do not build a fictitious eight-Justice punitive judgment component out of that reservation.
+The live judgment concerns refusal to apply Civil Rights Act of 1991 §102 to the pre-enactment conduct in this pending appeal, principally the claimed availability of compensatory damages and the consequent jury election. The seven affirming associates support the general §102 conclusion, including the stronger prohibition against applying its punitive liability to this earlier conduct. **Blackmun does not cast a separate affirmative vote denying punitive damages.** His historical dissent, 511 U.S. at 296 n.3, expressly reserves that question because it was not squarely presented. That reservation supplies no affirmative punitive vote or separate judgment component.
 
-Compensatory availability is not a damages award or a new finding of injury. The completed findings on constructive discharge and the consequent old-law relief are not reopened simply because a later statute supplies new categories of relief. Section 102(c) permits any party to demand a jury if a complaining party seeks available compensation or punitive damages under that section; it does not independently authorize a jury in every Title VII action. Its mandatory instruction that the court not disclose the statutory caps is distinct from the elective jury demand. No actual retrial scope or damages amount is fixed by this handoff.
+Compensatory availability is not a damages award or a new finding of injury. The completed findings on constructive discharge and the consequent old-law relief are not reopened simply because a later statute supplies new categories of relief. Section 102(c) permits any party to demand a jury if a complaining party seeks available compensation or punitive damages under that section; it does not independently authorize a jury in every Title VII action. Its mandatory instruction that the court not disclose the statutory caps is distinct from the elective jury demand. No actual retrial scope or damages amount is fixed by this decision.
 
-## Reconciliation determination
+## Historical comparison
 
 No concrete changed in-world premise justifies a different associate judgment from the historical positions. Franklin's remedial rule for an implied Title IX action does not erase Title VII's earlier express remedial limits. Harper concerns judicial, not statutory, retroactivity. Robertson recognizes an express congressional change to the law governing identified pending litigation. Harris concerns actionable hostile environment, not the temporal reach of §102, and supplies no basis to relitigate the settled constructive-discharge finding. Those actual authorities therefore do not displace the strongest direct evidence of these Justices' positions.
 
-The neutral stage independently located the substantive seven-to-one disagreement on compensation. Reconciliation confirms that disagreement, corrects Blackmun's reserved punitive question, and resolves the neutral stage's incompletely fixed methodological positions: Kennedy and Thomas join Scalia's relevant-activity and clear-statement approach; Souter and Ginsburg may join the ordinary retroactive-effect framework with its operative limits. Those are evidentiary refinements after the authorized comparator exposure, not votes manufactured from a Stone proposal. A historical author's identity is not an assignment in this Court.
+The associate Justices divide seven to one on compensation. Kennedy and Thomas join Scalia’s relevant-activity and clear-statement approach; Souter and Ginsburg join the ordinary retroactive-effect framework with its operative limits. Blackmun reserves punitive damages.
 
 ## Individual commitments
 
@@ -106,7 +110,7 @@ The neutral stage independently located the substantive seven-to-one disagreemen
 
 **Result and scope:** reverse the refusal to make §102 compensatory damages available in this pending action; remand for the resulting claim and conditional jury election. Reserve punitive damages without expressing an opinion. Do not represent the reservation as affirmance, as agreement with a punitive holding, or as an abstention from the case's overall judgment.
 
-**Sufficient ground:** the enacted text's immediate-effectiveness clause, read with the separate express temporal limitations in §§109(c) and 402(b), most naturally supports applying compensation in pending cases. Section 109(c) governs its extraterritorial amendments; §402(b) requires both a pre-March 1, 1975 disparate-impact complaint and an initial decision after October 30, 1983. The clauses are separate and their combined negative inference supplies Blackmun's statutory argument, not a general holding that every new law applies to pending litigation. His independent alternative is that a remedial provision compensating injury from already forbidden discrimination does not disturb a vested entitlement to lawful conduct. His own Bradley opinion and his join in White's Kaiser dissent substantiate the neutral path; his historical writing confirms these grounds at this precise level.
+**Sufficient ground:** the enacted text's immediate-effectiveness clause, read with the separate express temporal limitations in §§109(c) and 402(b), most naturally supports applying compensation in pending cases. Section 109(c) governs its extraterritorial amendments; §402(b) requires both a pre-March 1, 1975 disparate-impact complaint and an initial decision after October 30, 1983. The clauses are separate and their combined negative inference supplies Blackmun's statutory argument, not a general holding that every new law applies to pending litigation. His independent alternative is that a remedial provision compensating injury from already forbidden discrimination does not disturb a vested entitlement to lawful conduct. His own Bradley opinion and his join in White's Kaiser dissent substantiate that ground; his historical writing confirms these grounds at this precise level.
 
 **Strongest alternative and personal constraint:** his Bennett join protects substantive obligations fixed under old law; substantial added monetary liability against a private employer is the strongest objection. He distinguishes the underlying prohibition from its remedies in this open action and denies that an employer has a vested right to engage in discrimination. He does not treat the legislative history as reliable evidence of a contrary limitation. Punitive liability is a materially harder question and remains reserved, rather than resolved through this remedial rationale.
 
@@ -144,7 +148,7 @@ The neutral stage independently located the substantive seven-to-one disagreemen
 
 **Result:** concur in affirmance; join Scalia's relevant-activity and textual-command rationale at the scope stated above.
 
-**Reconciliation basis:** the neutral commitment already identified the completed conduct, rather than the future judgment date, as decisive. His own Bowen opinion and Kaiser join were consistent with that approach. The authorized direct comparator resolves the neutral record's remaining methodological uncertainty: no changed factual, statutory, procedural, or simulated precedent premise supports assigning him the broader framework against his demonstrated specific choice. His historical join is evidence of his ground, not imported authorship.
+**Personal authority and historical comparison:** Kennedy’s Bowen opinion and Kaiser join support treating completed conduct, rather than the future judgment date, as decisive. His historical concurrence confirms his relevant-activity and textual-command approach; Franklin, Robertson and Harper supply no contrary premise.
 
 **Alternative and barriers:** treating a future damages judgment as the operative event would turn a new primary-conduct liability into a procedural change. The relevant event is the discrimination. Preserve independently prospective injunctions and future procedural/jurisdictional acts; do not promise that a completed trial must be reopened. Minimum join is Scalia's statutory and relevant-event account; no agreement with the ordinary framework's treatment of legislative history or vested-right classifications is presumed.
 
@@ -152,7 +156,7 @@ The neutral stage independently located the substantive seven-to-one disagreemen
 
 **Result:** affirm; join the ordinary retroactive-effect framework and bounded §102 application described for Stevens.
 
-**Reconciliation basis:** the neutral stage disclosed the absence of an exactly matching personal predecision §102 writing and conservatively froze the narrow application. The direct comparator supplies issue-specific evidence supporting the qualified general framework; no actual Franklin, Robertson, or Harper premise differs in a way that would prevent that join. Franklin's implied remedy, Robertson's explicit pending-case law, and Harper's judicial rule remain distinct. This is a disclosed comparator resolution of uncertainty, not a newly attributed predecision writing.
+**Personal authority and historical comparison:** Souter’s historical join supplies issue-specific evidence supporting the qualified general framework. Franklin’s implied remedy, Robertson’s explicit pending-case law and Harper’s judicial rule remain distinct; no exactly matching earlier personal §102 writing is attributed to him.
 
 **Alternative and barriers:** the effective-date and remedial arguments are serious but insufficient to avoid the added-liability character of §102. He supports the framework with its express-direction inquiry and its qualifications for prospective relief, jurisdiction, and procedure. He does not commit to retroactively redoing completed procedural acts, to invalidating an expressly retroactive statute, or to excluding all other Act provisions from all pending cases.
 
@@ -160,7 +164,7 @@ The neutral stage independently located the substantive seven-to-one disagreemen
 
 **Result:** concur in affirmance; join Scalia's relevant-activity and textual-command rationale.
 
-**Reconciliation basis:** his actual Robertson opinion applies a law that expressly changed pending cases, and his actual Harper opinion concerns judicial retroactivity. Neither requires the ordinary framework or a different §102 result. The neutral record was expressly incomplete on a personal temporal methodology. His direct historical concurrence join supplies the specific evidence: identify the event the statute regulates and require the requisite textual direction for reach to an earlier event. No simulated authority changes that premise.
+**Personal authority and historical comparison:** Thomas’s Robertson opinion applies a law that expressly changed pending cases, and his Harper opinion concerns judicial retroactivity. Neither requires the ordinary framework or a different §102 result. His historical concurrence join supports identifying the event the statute regulates and requiring the requisite textual direction for reach to an earlier event.
 
 **Alternative and barriers:** immediate effectiveness plus limited exceptions is not the necessary textual command for the new primary-conduct liability. No personal join in pre-appointment Bowen or Kaiser is invented. No join in the ordinary framework's independent vested-right/procedure categorization or legislative-history route is presumed. The narrow compatible position excludes the new damages for completed conduct and consequently the dependent jury election, while permitting prospective application to the relevant future event of a different law.
 
@@ -168,19 +172,19 @@ The neutral stage independently located the substantive seven-to-one disagreemen
 
 **Result:** affirm; join the qualified ordinary framework and its §102 application.
 
-**Reconciliation basis:** the neutral stage appropriately did not attribute Gersman to her and did not invent a personal temporal precedent. The direct comparator supplies specific evidence supporting a framework join. Her actual Harris join concerns the underlying hostile-environment standard and changes neither the statutory temporal inquiry nor the completed constructive-discharge finding. No concrete changed premise supports a narrower or different final methodological position solely because the neutral evidence was limited.
+**Personal authority and historical comparison:** Ginsburg’s historical join supplies specific evidence supporting the qualified framework. Her Harris join concerns the underlying hostile-environment standard and changes neither the statutory temporal inquiry nor the completed constructive-discharge finding. Gersman is not attributed to her, and no earlier personal temporal precedent is asserted.
 
 **Alternative and barriers:** the strongest contrary argument is pending-case remedial compensation, reinforced by the limited exceptions. Her conclusion treats new compensation as increased legal liability and preserves the same prospective, procedural, jurisdictional, and collateral distinctions as the ordinary framework. No categorical rule for the entire 1991 Act, jury right independent of statutory damages, or constitutional invalidity holding is supported.
 
-## Assembly handoff
+## Associate judgment and rationale summary
 
 Seven associates — Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg — affirm the judgment. Blackmun would reverse for compensatory availability and the consequent conditional jury election. The ordinary general framework has Stevens, O'Connor, Souter, and Ginsburg; Scalia, Kennedy, and Thomas support a distinct relevant-event clear-statement explanation. All seven share the §102 application and dependent jury conclusion at the indicated narrower level; a common application can be stated only if its actual reasoning respects both groups' barriers. Blackmun's punitive reservation is not a vote for either punitive proposition and must not be converted into a standalone judgment component.
 
-No associate departure from history remains after the scope correction and methodological reconciliation. The freeze replaces only the Landgraf section's contrary punitive characterization and unfinished join limits; it does not rewrite the original neutral-stage artifact. Stone has not entered, and final opinion topology, authorship, Court vote, render form, and reusable controlling doctrine await assembly. No indispensable source gap blocks that bounded work.
+No material associate departure from the historical comparison is identified. The opinion topology above states the final authorship, votes and exact joins.
 
 ### Final scope and arithmetic checks
 
-Eight Justices affirm the single reviewed judgment; Blackmun dissents on compensation and the jury consequence. His express punitive reservation is not an affirmative vote or a separate formal judgment component. The general framework and each full controlling explanation have five named supporters. The three concurrence votes supply affirmance without being converted into full-framework joins. §§109(c) and 402(b) retain separate fields and the latter’s two conjunctive dates; the elective jury demand remains distinct from the mandatory nondisclosure of caps. No material non-Stone historical departure remains. The incomplete neutral punitive position was corrected in the durable reconciliation before this assembly. Case-specific context rerouting following an operator disclosure is recorded in the Run control; B reconciled without Stone after A modeled without comparator. No Git commitment is claimed.
+Eight Justices affirm the single reviewed judgment; Blackmun dissents on compensation and the jury consequence. His express punitive reservation is not an affirmative vote or a separate formal judgment component. The general framework and each full controlling explanation have five named supporters. The three concurrence votes supply affirmance without full-framework joins. §§109(c) and 402(b) retain separate fields and the latter’s two conjunctive dates; the elective jury demand remains distinct from the mandatory nondisclosure of caps. No material associate historical departure is identified.
 
 [Fifth Circuit opinion, 968 F.2d 427](https://law.resource.org/pub/us/case/reporter/F2/968/968.F2d.427.91-4485.html), supplies the trial findings, pending appeal and requested relief. [Civil Rights Act of 1991, 105 Stat. 1071](https://www.govinfo.gov/content/pkg/STATUTE-105/pdf/STATUTE-105-Pg1071.pdf), supplies §§102, 109(c) and 402 in their enacted terms. [Official report, 511 U.S. 244–297](https://www.govinfo.gov/content/pkg/USREPORTS-511/pdf/USREPORTS-511-244.pdf), supplies docket, dates and review posture. No new finding of compensable injury, punitive entitlement, employer damages band or retrial scope is supplied.
 
@@ -258,6 +262,10 @@ The Court’s discussion of punitive liability forms part of its §102 temporal 
 **Precedent treatment:**
 - Kaiser: applied to the enacted condition linking the jury option to §102 damages.
 - Bradley: distinguished; current-law treatment of collateral matters does not erase an express condition on a new remedy or automatically reopen a completed trial.
+
+### Limits and questions not reached
+
+An express congressional direction concerning the temporal operation of a statute resolves the threshold statutory question, subject to applicable constitutional limits. Such a direction does not alone determine whether Congress may constitutionally require reconsideration of an already completed Article III judgment. The present case concerns statutory consequences for earlier conduct in litigation properly before the courts and does not decide that separate final-judgment issue.
 
 ## Precedent Treatment
 

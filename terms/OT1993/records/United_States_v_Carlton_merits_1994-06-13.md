@@ -1,7 +1,7 @@
 **Case and dockets:** United States v. Carlton, No. 92-1941; 512 U.S. 26.
 **Event and date:** Merits decision, 1994-06-13.
 **Result:** Reversed and remanded, 9–0.
-**Version / lineage:** Initial assembly; supersedes no completed adjudication. Operator Git verification and commitment pending.
+**Version / lineage:** Original decision.
 
 ## Event, participation and chronology
 
@@ -15,15 +15,15 @@ Day died September 29, 1985 without owning the securities. Carlton bought 1.5 mi
 
 ## Law entering the decision
 
-Romein, March 9, 1992, requires rational justification for retroactive operation itself; reliance alone does not defeat its particular restoration rule. R. A. Gray, Turner Elkhorn and the earlier tax cases supply the same constitutional setting. The Standards entry 'Federal rules applied to parties govern still-open direct review,' effective Harper, June 18, 1993, governs judicial decisions, not the legislative amendment. Current Landgraf and Rivers distinguish express statutory direction from constitutional review; Irvine involves a later transfer and Morgan Stanley a completed final federal judgment, neither present here. Kurth Ranch's unusual punitive tax is not this ownership correction. Farmer, Digital Equipment, Key Tronic and Nichols supply no different controlling tax rule.
+Romein, March 9, 1992, requires rational justification for retroactive operation itself; reliance alone does not defeat its particular restoration rule. R. A. Gray, Turner Elkhorn and the earlier tax cases supply the same constitutional setting. The Standards entry 'Federal rules applied to parties govern still-open direct review,' effective Harper, June 18, 1993, governs judicial decisions, not the legislative amendment. Current Landgraf and Rivers distinguish express statutory direction from constitutional review; Irvine involves a later transfer, while Morgan Stanley permits bounded reinstatement of completed securities limitations dismissals under an express retrospective rule preserving independent adjudication. Neither setting is present here. Kurth Ranch's unusual punitive tax is not this ownership correction. Farmer, Digital Equipment, Key Tronic and Nichols supply no different controlling tax rule.
 
-Sources: [selected opening authority](../entering-law/OT_1993CHUNK6.md), [earlier current public authority](../entering-law/OT_1993CHUNK6_CURRENT_PUBLIC_AUTHORITY.md), [June 6 update](../entering-law/OT_1993CHUNK6_JUNE13_UPDATE.md), and the [validated neutral packet C](../entering-law/OT_1993CHUNK6_VALIDATED_NEUTRAL_C.md). Reading copies identify authority; they do not displace its underlying Records. The source receipt below distinguishes the inherited full-source work from this assembly's own reading.
+Sources: [selected opening authority](../entering-law/OT_1993CHUNK6.md), [earlier current public authority](../entering-law/OT_1993CHUNK6_CURRENT_PUBLIC_AUTHORITY.md), [June 6 authority](../entering-law/OT_1993CHUNK6_JUNE13_UPDATE.md), and the [neutral packet C](../entering-law/OT_1993CHUNK6_VALIDATED_NEUTRAL_C.md). Reading copies identify authority; the underlying Records control.
 
-## Stone — approved core, revalidation and exact participation
+## Stone — position and exact participation
 
-Stone votes to reverse and remand for application of the amended deduction and joins Souter's entire opinion. His approved ground recognizes Congress's express temporal command, the retroactive correction's rational purpose, short interval, nature of the obligation and absence of an established arbitrary targeting premise. The opinion acknowledges the stipulated lawful reliance and real loss, rejects a fixed one-year ceiling and unlimited revenue safe harbor, and does not invent compensation or agency authority to rewrite the original law. Its contextual application does not make these considerations a new mandatory multi-factor formula.
+Stone votes to reverse and remand for application of the amended deduction and joins Souter's entire opinion. His ground recognizes Congress's express temporal command, the retroactive correction's rational purpose, short interval, nature of the obligation and absence of an established arbitrary targeting premise. The opinion acknowledges the stipulated lawful reliance and real loss, rejects a fixed one-year ceiling and unlimited revenue safe harbor, and does not invent compensation or agency authority to rewrite the original law. Its contextual application does not make these considerations a new mandatory multi-factor formula.
 
-The user approved every Section II position as written, as confirmed by the scoped assembly instruction. The [scoped approved supplement](../runtime/OT_1993CHUNK6_STONE_C.md) controls Stone. Event-date law, corrected facts, defendant, review scope and available remedy preserve his expressed predicates. No substantive narrowing, additional ground, discretion beyond compatible wording/joins, clerical correction, or standing-fallback use is needed. His full join adopts only the supported common propositions below; it does not extend to an unadjudicated claim or new remedial award.
+Stone's full join adopts the common propositions below and does not extend to an unadjudicated claim or new remedial award. No fallback is used.
 
 ## Judgment, assignment and final compatibility
 
@@ -37,7 +37,7 @@ The user approved every Section II position as written, as confirmed by the scop
 | Concurrence in the judgment | O'Connor | No other Justice | Reversal and remand | Distinct revenue-purpose and temporal ground; no join in the complete Court rationale |
 | Concurrence in the judgment | Scalia | Thomas | Reversal and remand | Rejection of the asserted substantive economic due-process protection; no join in the Court's constitutional method |
 
-Stone is in the judgment majority and assigns the Court opinion under Engine §8. Stone assigns Souter, whose Irvine opinion and Landgraf joins furnish a precise distinction between a later taxable event, an express temporal command and genuine retroactivity; he belongs to the six-Justice principal-rationale coalition. This is an assembly inference based on subject fit and retention of the established coalition, not imported historical authorship or a purported account of conference discussion. Each actual proposition and its remedy was checked independently against the frozen commitments; agreement with the judgment did not supply a missing rationale join. No non-Stone commitment changes in assembly, no fictional circulation history is supplied, and no Stone-free reconciliation rerun is required.
+Stone is in the judgment majority and assigns the Court opinion to Souter, whose Irvine opinion and Landgraf joins distinguish a later taxable event, an express temporal command and genuine retroactivity. Souter belongs to the six-Justice principal-rationale coalition. Agreement with the judgment is counted separately from agreement with each rationale.
 
 ## Controlling holdings
 
@@ -72,13 +72,13 @@ Stone is in the judgment majority and assigns the Court opinion under Engine §8
 - United States v. Darusmont, 449 U.S. 292, and Milliken v. United States, 283 U.S. 15: preserve permissible tax retroactivity in their settings, without a universal advance-notice condition.
 - Untermyer v. Anderson, 276 U.S. 440: distinguishes its wholly new gift tax from this amendment to a deduction within an existing estate-tax regime.
 - United States v. Irvine, April 20, 1994: distinguishes its later taxable transfer; the present amendment is genuinely retroactive and receives constitutional review.
-- Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994: preserves protection of the completed federal judgment there; no such judgment is reopened here.
+- Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994, permits the bounded congressional reinstatement of completed securities limitations dismissals under an expressly retrospective statutory rule preserving independent judicial adjudication. The present case concerns a substantive amendment to the estate-tax law and its application to an earlier transaction, not the reinstatement of a completed federal judicial judgment. Neither decision establishes unlimited constitutional permission for retrospective legislation.
 
 **Limits and questions not reached:** The Court decides neither the abandoned Contract Clause and Takings theories nor a new tax-loss compensation claim. No allocation failure, agency power to amend the original statute, fixed constitutional lookback limit or new dollar assessment is adjudicated.
 
 ## Precedent effect, current law and reserved questions
 
-The holding-specific treatments govern. No precedent is overruled. The express temporal command and constitutional review remain separate. Landgraf and Rivers preserve Congress's authority to prescribe retrospective reach within constitutional limits; Irvine and Morgan Stanley concern different temporal events and finality.
+The holding-specific treatments govern. No precedent is overruled. The express temporal command and constitutional review remain separate. Landgraf and Rivers preserve Congress's authority to prescribe retrospective reach within constitutional limits; Irvine concerns a later transfer; Morgan Stanley permits bounded reinstatement of completed securities limitations dismissals while preserving independent judicial adjudication. Neither decision removes the constitutional limits on retrospective legislation.
 
 Effective June 13, 1994, the express 1987 amendment applies to this transaction and its retroactive ownership condition is constitutional under the six-Justice rational-purpose holding. The estate concedes that the decedent did not directly own the securities immediately before death, so this asserted refund entitlement fails. Statutory direction is not by itself constitutional justification, and actual reliance is acknowledged rather than erased.
 
@@ -96,30 +96,29 @@ Justice Scalia, joined by Justice Thomas, concurs in the judgment. Following the
 
 The Ninth Circuit is reversed and the case remanded for judgment consistent with applying the amended ownership rule. The estate receives no refund on the rejected due-process theory and no judicial compensation for its transaction loss. No new refund amount, penalty, valuation or allocation failure is found; the abandoned theories remain outside review. No issuance date for the formal mandate is invented. The merits event is complete; the lower-court remand proceeds under the stated limits, without an additional open Supreme Court proceeding or automatically scheduled return. No date-eligible external consequence is admitted and no predicate of a later supplied matter is expressly displaced.
 
-## Adaptive audit annex — frozen commitments and final joins
+## Adaptive audit annex — commitments and final joins
 
-The immutable [provisional C freeze](../freeze/OT_1993CHUNK6_COMMITMENTS_C.md) precedes the [reconciled C freeze](../freeze/OT_1993CHUNK6_RECONCILED_C.md), SHA-256 `39556e8d04ccde481659a2682bdd016a9ee920a64c243e32c0ebddd9e61afed5`, verified in assembly. The reconciled case section preserves the complete component-by-component evidence, competing lawful paths and source-specific join barriers. The following table carries each associate's final commitment and the relevant boundary into this Record.
+The following table states each associate Justice's judgment, rationale and scope of agreement. Supporting authorities are identified in [commitments C](../freeze/OT_1993CHUNK6_COMMITMENTS_C.md) and [reconciled C](../freeze/OT_1993CHUNK6_RECONCILED_C.md).
 
-| Justice | Frozen ground and final join boundary |
+| Justice | Ground and final join boundary |
 |---|---|
 | Blackmun | Joins the entire Souter opinion and reversal/remand. R. A. Gray and Romein support rational review despite reliance; his Landgraf dissent does not defeat an express command. No fictional Irvine participation, original ownership condition or allocation failure. |
-| Stevens | Joins both holdings and remand. R. A. Gray/Romein and his Landgraf/Rivers opinions support the temporal/constitutional distinction; his Morgan Stanley dissent changes no finality predicate here. Actual lawful reliance remains real. |
+| Stevens | Joins both holdings and remand. R. A. Gray/Romein and his Landgraf/Rivers opinions support the temporal/constitutional distinction; his join in Morgan Stanley's bounded reinstatement holding supplies no completed judgment in this dispute. Actual lawful reliance remains real. |
 | O'Connor | Judgment only; own revenue-and-duration concurrence. Her Romein opinion and R. A. Gray join support review, but she refuses the complete corrective-intent rationale. A modest interval matters independently; no categorical one-year ceiling. |
-| Scalia | Judgment only; authors the procedural-due-process concurrence joined by Thomas. His public TXO position and comparator defeat the provisional inference from Romein. Neither short duration nor rational-purpose emphasis cures the methodological barrier. |
+| Scalia | Judgment only; authors the procedural-due-process concurrence joined by Thomas. His public TXO position supplies that distinct due-process method despite his Romein join. Neither short duration nor rational-purpose emphasis cures the methodological barrier. |
 | Kennedy | Joins both holdings and remand. Romein supports review; his limited Landgraf and Irvine positions preserve express direction without attributing the whole Landgraf framework to him. No unlimited duration or allocation ruling. |
 | Souter | Authors and joins both holdings and remand. Romein and Landgraf support the rule; Irvine requires an honest temporal characterization. No evasion by denying this amendment's genuine retroactivity. |
-| Thomas | Judgment only; joins Scalia's concurrence. His TXO concurrence join supplies the specific due-process ground; his Morgan Stanley finality opinion supplies no final judgment in this live dispute. No principal rational-purpose join is counted. |
+| Thomas | Judgment only; joins Scalia's concurrence. His TXO concurrence join supplies the specific due-process ground; his objection to congressional reinstatement in Morgan Stanley supplies no final judgment in this live dispute. No principal rational-purpose join is counted. |
 | Ginsburg | Joins both holdings and remand. R. A. Gray/Romein are law rather than invented earlier personal joins; her Landgraf and Irvine joins support precise temporal analysis. No denial of reliance or categorical validation of retroactive taxes. |
 
-Reconciliation corrected three provisional rationale joins: O'Connor's separate temporal/revenue ground and Scalia/Thomas's rejection of substantive economic due process replace provisional principal-opinion agreement. All eight frozen judgments and the five surviving principal joins are preserved. Stone supplies the sixth complete principal join through his approved position. The historical comparator confirms the retained associate scope; no material non-Stone departure persists. The principal rationale already has a majority, so no Marks combination of incompatible concurrences is attempted. Independent assignment to Souter changes authorship only.
+O'Connor rests on a distinct revenue-and-duration ground; Scalia and Thomas reject substantive economic due-process review. The eight associate Justices agree on reversal, while Blackmun, Stevens, Kennedy, Souter and Ginsburg join the complete principal rationale. Stone supplies its sixth join. Those associate positions accord with the historical comparison. The principal rationale has a direct majority; no Marks combination of incompatible concurrences is used.
 
-## Sources, cutoff and validation status
+## Sources and cutoff
 
 The [official report, 512 U.S. 26](https://tile.loc.gov/storage-services/service/ll/usrep/usrep512/usrep512026/usrep512026.pdf), 28–31, and [Ninth Circuit opinion, 972 F.2d 1051](https://static.case.law/f2d/972/html/1051-01.html), including its statutory reproductions, support the stipulated transaction and legislative chronology. The original statute's breadth is conceded. The lower report's $5,287,500 deduction and official report's $5,287,000 differ; no disposition depends on resolving that discrepancy. Full underlying transaction exhibits and every brief were not independently recovered. No precise new tax or refund award is supplied.
 
-Governing-law and connected-event cutoff: immediately before June 13, 1994, including the completed June 6 update. Same-case historical reports are comparison/source evidence, not earlier in-world law. Research preparation and assembly: September 27, 2026. This context read the scoped neutral packet, Stone supplement, reconciled scope and receipt, relevant provisional material, applicable entering-law selections, the June 6 public update, and the governing rules. The freezes' complete prior-report and same-case-report receipts are inherited evidence; this context does not claim personally to have read every underlying PDF, brief or deposition. Assembly also inspected the already cited lower opinion's original-statute footnote to identify its uncontested plan-distribution and stock-option exclusions precisely; original eligibility remains stipulated, and no new decisive statutory predicate or material neutral fact was introduced.
+Governing-law and connected-event cutoff: immediately before June 13, 1994, including the completed June 6 decisions. The historical report supplies record and comparison evidence, not earlier controlling law. The lower opinion's statutory footnote supplies the plan-distribution and stock-option exclusions; eligibility under the original statute remains stipulated.
 
-Initial assembly supersedes no completed adjudication. Local checks are recorded in [assembly C checks](../freeze/OT_1993CHUNK6_ASSEMBLY_C_CHECKS.md), with [vote receipt](../freeze/OT_1993CHUNK6_ASSEMBLY_C_VOTES.json). Parent coordinated workspace, generated Render Input identity, term checks, durable state commitment and operator Git verification/commit remain pending. No Git command was run or Git verification claimed. Record location: `terms/OT1993/records/United_States_v_Carlton_merits_1994-06-13.md`. No unresolved substantive blocker exists at the bounded scope adjudicated here.
 
 ## Public Projection
 
@@ -184,13 +183,13 @@ The judgment is reversed and remanded, 9–0.
 - United States v. Darusmont, 449 U.S. 292, and Milliken v. United States, 283 U.S. 15: preserve permissible tax retroactivity in their settings, without a universal advance-notice condition.
 - Untermyer v. Anderson, 276 U.S. 440: distinguishes its wholly new gift tax from this amendment to a deduction within an existing estate-tax regime.
 - United States v. Irvine, April 20, 1994: distinguishes its later taxable transfer; the present amendment is genuinely retroactive and receives constitutional review.
-- Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994: preserves protection of the completed federal judgment there; no such judgment is reopened here.
+- Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994, permits the bounded congressional reinstatement of completed securities limitations dismissals under an expressly retrospective statutory rule preserving independent judicial adjudication. The present case concerns a substantive amendment to the estate-tax law and its application to an earlier transaction, not the reinstatement of a completed federal judicial judgment. Neither decision establishes unlimited constitutional permission for retrospective legislation.
 
 **Limits and questions not reached:** The Court decides neither the abandoned Contract Clause and Takings theories nor a new tax-loss compensation claim. No allocation failure, agency power to amend the original statute, fixed constitutional lookback limit or new dollar assessment is adjudicated.
 
 ## Precedent Treatment
 
-The holding-specific treatments govern. No precedent is overruled. The express temporal command and constitutional review remain separate. Landgraf and Rivers preserve Congress's authority to prescribe retrospective reach within constitutional limits; Irvine and Morgan Stanley concern different temporal events and finality.
+The holding-specific treatments govern. No precedent is overruled. The express temporal command and constitutional review remain separate. Landgraf and Rivers preserve Congress's authority to prescribe retrospective reach within constitutional limits; Irvine concerns a later transfer; Morgan Stanley permits bounded reinstatement of completed securities limitations dismissals while preserving independent judicial adjudication. Neither decision removes the constitutional limits on retrospective legislation.
 
 ## Law After Decision
 
