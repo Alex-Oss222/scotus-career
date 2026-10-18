@@ -9,8 +9,8 @@
 - Existing open matters: Wyoming implementation; Reynolds’s interim trials protection pending further order. Coleman petition No. 91-8336 is resolved by a post-close correction inserted in chunk 11 (June 15, 1992); see `terms/OT1991/records/Coleman_v_Thompson_petition_disposition_1992-06-15.md`.
 - Research cutoff: the effective date stated for each event.
 - This file supplies the completed public decisions for a separate Render task.
-- Casey correction: version 1.5 replaces the existing June 29 merits/cross-review event in place; lineage v1 ccde8c2/87fd4db, v1.2 1d76092/ce8fc4f, v1.3 33fa982/0d0dd57, v1.4 6f8c938/1e4868c, v1.5 this correction (propagating the user's direct edit of the public render, commit cff1257, made through GitHub's web editor). The other eight event blocks remain byte-identical.
-- Later-event review: Lucas and Espinosa retain their independent same-day baseline; Benten presents no constitutional drug-access claim and its agency-law/remedy grounds remain unaffected. No separate-correction blocker; chronology cursor July 17, 1992 after Benten.
+- Casey: [Record](../records/Planned_Parenthood_of_Southeastern_Pennsylvania_v_Casey_merits_1992-06-29.md).
+- Chronology cursor: July 17, 1992 after Benten.
 
 ### Record index
 
@@ -21,7 +21,7 @@
 | 1992-06-26 | Two Pesos, Inc. v. Taco Cabana, Inc. | [Record](../records/Two_Pesos_v_Taco_Cabana_merits_1992-06-26.md) |
 | 1992-06-26 | Franklin v. Massachusetts | [Record](../records/Franklin_v_Massachusetts_merits_1992-06-26.md) |
 | 1992-06-26 | Lee v. International Society for Krishna Consciousness, Inc. | [Record](../records/Lee_v_International_Society_for_Krishna_Consciousness_Inc_merits_1992-06-26.md) |
-| 1992-06-29 | Planned Parenthood of Southeastern Pennsylvania v. Casey — version 1.5 correction | [Canonical version 1.5 record](../records/Planned_Parenthood_of_Southeastern_Pennsylvania_v_Casey_merits_1992-06-29.md); corrects v1.4 6f8c938/1e4868c; v1.3 33fa982/0d0dd57; v1.2 1d76092/ce8fc4f; v1 ccde8c2/87fd4db |
+| 1992-06-29 | Planned Parenthood of Southeastern Pennsylvania v. Casey | [Record](../records/Planned_Parenthood_of_Southeastern_Pennsylvania_v_Casey_merits_1992-06-29.md) |
 | 1992-06-29 | Lucas v. South Carolina Coastal Council | [Record](../records/Lucas_v_South_Carolina_Coastal_Council_merits_1992-06-29.md) |
 | 1992-06-29 | Espinosa v. Florida | [Record](../records/Espinosa_v_Florida_summary_merits_1992-06-29.md) |
 | 1992-07-17 | Benten v. Kessler | [Record](../records/Benten_v_Kessler_A-40_application_to_vacate_stay_1992-07-17.md) |

@@ -147,6 +147,7 @@ Stone, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter participated 
 
 **Supporting:** Stone, White, O'Connor, Scalia, Kennedy, Souter.
 **Opposing:** Blackmun, Stevens (would affirm denial of modification).
+**Not participating:** Thomas.
 
 #### Opinion Topology
 
