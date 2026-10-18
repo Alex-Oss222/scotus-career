@@ -169,8 +169,6 @@ Official [United States Reports, 502 U.S. 346 (1992), pp. 346–366](https://www
 
 # Rufo v. Inmates of Suffolk County Jail; Rapone v. Inmates of Suffolk County Jail, Nos. 90-954 and 90-1004
 
-**Render form: compact — 6-2 judgment; five-Justice controlling coalition, judgment-only concurrence, legal standard and remand are materially unchanged from the comparator. A change of Court author alone is not material.**
-
 ## 1. Event
 
 *Rufo v. Inmates of Suffolk County Jail; Rapone v. Inmates of Suffolk County Jail*, 502 U.S. 367 (1992), Nos. 90-954 and 90-1004. October Term 1991. Argued 1991-10-09; decided 1992-01-15. Consolidated certiorari from the First Circuit, 915 F.2d 1557, affirming refusal to modify a jail consent decree, 734 F. Supp. 561. Officials seek relief under Federal Rule of Civil Procedure 60(b)(5) from a single-cell requirement to permit proposed double-celling. Both judgments and the standard governing modification are before the Court.
@@ -224,6 +222,8 @@ Stone delivers the opinion of the Court, joined in full by White, Scalia, Kenned
 - *Bell v. Wolfish*, 441 U.S. 520 — its constitutional treatment of double-celling does not erase a consensual single-cell requirement.
 - *System Federation No. 91 v. Wright*, 364 U.S. 642 — preserves adjustment for changed circumstances while maintaining judicial control of lawful relief.
 
+**Limits and questions not reached:** Modification under Rule 60(b)(5) concerns the continuing prospective operation of an existing institutional decree following a demonstrated significant change in fact or law. It does not establish a legislative power to compel reinstatement of a completed private damages or limitations judgment, nor does it decide whether a separate valid statutory remedy may provide collateral relief from such a judgment.
+
 ## 7. Precedent Treatment
 
 - *United States v. Swift & Co.*, 286 U.S. 106 — its disposition is preserved; its demanding factual formulation is confined to its setting rather than imposed universally.
@@ -248,7 +248,7 @@ Both cases return through the First Circuit to the district court for the Rule 6
 
 ## 11. Source Notes
 
-Official [United States Reports, 502 U.S. 367 (1992), pp. 367–409](https://www.govinfo.gov/content/pkg/USREPORTS-502/pdf/USREPORTS-502-367.pdf), downloaded as a PDF and read in full. The opinion's caption establishes the docket, argument and decision dates; its narrative and disposition establish the lower-court posture, material record and remedy. Research cutoff: September 14, 2026. Operative legal cutoff: immediately before this event, plus its own issued disposition. Historical opinions in this chunk supply verified record facts and comparator evidence, not preexisting simulated law. All eight separate official United States Reports PDFs were downloaded from GovInfo and their entire extracted texts read. Internet Archive docket-collection discovery was attempted first; Doherty docket metadata was available, but no unexamined brief is represented as read. The official opinions adequately resolve the live source forks; no argument transcript, unverified concession, or post-event authority supplies a holding.
+Official [United States Reports, 502 U.S. 367 (1992), pp. 367–409](https://www.govinfo.gov/content/pkg/USREPORTS-502/pdf/USREPORTS-502-367.pdf). The opinion's caption establishes the docket, argument and decision dates; its narrative and disposition establish the lower-court posture, material record and remedy.
 
 ---
 
