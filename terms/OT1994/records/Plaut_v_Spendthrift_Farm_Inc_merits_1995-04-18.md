@@ -195,4 +195,4 @@ The judgment of the Sixth Circuit is reversed. The case is remanded for reinstat
 
 ## Source Notes
 
-The [Sixth Circuit opinion and Keith concurrence, 1 F.3d 1487](https://law.resource.org/pub/us/case/reporter/F3/001/1.F3d.1487.92-5591.html) supply the filing, final dismissal, timely motion, §27A(b) conditions, and lower-court grounds. The Court's [Morgan Stanley decision, May 23, 1994](../../OT1993/records/Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md#public-projection) supplies the governing Article III rule and its limits. These sources establish no finding of fraud, liability, or damages.
+The [Sixth Circuit opinion and Keith concurrence, 1 F.3d 1487](https://law.resource.org/pub/us/case/reporter/F3/001/1.F3d.1487.92-5591.html) supply the filing, final dismissal, timely motion, §27A(b) conditions, and lower-court grounds. The Court's [Morgan Stanley decision, May 23, 1994](../../OT1993/output/OT_1993CHUNK5.md) supplies the governing Article III rule and its limits. These sources establish no finding of fraud, liability, or damages.
