@@ -1,6 +1,6 @@
 # OT1995 chunk 10 — assignment-only assembly baseline
 
-Internal assembly input only. The existing source filenames are identified in every Record heading and link below: 101 canonical OT1994 Records and 118 existing canonical OT1995 Records. The selected excerpts and classifications for the earlier 207 Records come from `OT_1995CHUNK9_ASSIGNMENT_BASELINE.md`; each excerpt was verified verbatim against its currently existing source Record, and the twelve subsequent OT1995 Records supply the additional assignment sentences copied below. No Git command was executed: commitment, history order, and hash validity are unverified.
+Internal assembly input only. The existing source filenames are identified in every Record heading and link below: 101 canonical OT1994 Records and 118 existing canonical OT1995 Records. The 222 assignment excerpts are copied verbatim from their source Records.
 
 This handoff copies only opinion-assignment statements and assignment-accounting qualifications. It is not an entering-law source and must not be supplied to neutral modeling or historical reconciliation. Source assignment language is preserved; no opinion author or assignment authority is inferred from a historical author, vote, docket date, or opinion title.
 
@@ -10,13 +10,13 @@ Each distinct opinion with an express Chief assignment is counted once. The exis
 
 | Recipient | OT1994 named Chief assignments | Existing OT1995 named Chief assignments |
 |---|---:|---:|
-| Stone-Zsela | 4 | 4 |
+| Stone-Zsela | 5 | 4 |
 | Stevens | 11 | 7 |
 | O'Connor | 14 | 25 |
 | Scalia | 5 | 5 |
 | Kennedy | 14 | 11 |
 | Souter | 18 | 20 |
-| Thomas | 6 | 9 |
+| Thomas | 5 | 9 |
 | Ginsburg | 13 | 11 |
 | Breyer | 8 | 3 |
 | **Total** | **93** | **95** |
@@ -1384,11 +1384,11 @@ Every named classification is supported by the excerpted assignment statement. N
 
 ### Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18
 
-**Count classification:** Thomas.
+**Count classification:** Stone-Zsela.
 
-[Record](../../OT1994/records/Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md), line 125:
+[Record](../../OT1994/records/Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md), line 104:
 
-> Assignment: Stone belongs to the secure seven-Justice judgment coalition and assigns Thomas.
+> The Chief Justice, in the majority, assigns and writes the Opinion of the Court.
 
 ### Shalala_v_Whitecotton_merits_1995-04-18
 
@@ -1402,9 +1402,9 @@ Every named classification is supported by the excerpted assignment statement. N
 
 **Count classification:** Thomas.
 
-[Record](../../OT1994/records/Celotex_Corp_v_Edwards_merits_1995-04-19.md), line 202:
+[Record](../../OT1994/records/Celotex_Corp_v_Edwards_merits_1995-04-19.md), line 181:
 
-> Stone is in the seven-Justice judgment coalition and assigns. Thomas fits the statutory structure and review work through Germain and his final reconciled position.
+> Stone is in the seven-Justice judgment coalition and assigns. Thomas fits the statutory structure and review work through Germain and his position here.
 
 ### Kyles_v_Whitley_merits_1995-04-19
 
