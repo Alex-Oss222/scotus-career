@@ -32,7 +32,7 @@
 - TVA v. Hill, 437 U.S. 153 — distinguished: the amendment here is express rather than an inferred repeal.
 - NLRB v. Jones & Laughlin Steel Corp., 301 U.S. 1 — preserved: a possible constitutionally valid construction reinforces, but does not replace, the enacted meaning.
 
-**Later-authority backlinks:** Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., 511 U.S. 658, No. 93-609, decided May 23, 1994: resolves the reserved final-judgment question only for §27A(b)'s compelled reopening of the completed private dismissal. Robertson's pending-litigation holding remains unchanged.
+**Later-authority backlinks:** Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., decided May 23, 1994, resolves the final-judgment question expressly reserved in Robertson for §27A(b)'s defined reinstatement procedure. It holds that Congress may require reinstatement of the covered completed limitations dismissals while leaving statutory eligibility and underlying substantive adjudication to Article III courts. Robertson's original pending-litigation holding remains unchanged.
 
 ### Federal and state submerged-land boundaries
 
@@ -1090,51 +1090,62 @@ For the other questions in Northwest Airlines, Inc. v. County of Kent, 1994-01-2
 
 **Decided:** 1994-05-23.
 
-##### Congress may not command reopening of this completed private federal judgment
+##### Bounded statutory reinstatement of completed securities limitations dismissals
 
-**Holding:** Article III prevents application of §27A(b) to require reinstatement of this private securities action after its dismissal with prejudice became final, without appeal, before the statute was enacted. Congress may change governing law, but that power does not authorize this command to reopen a completed federal judgment; pending litigation, prospective injunctions and independently lawful judicial reopening remain distinct.
+**Holding:** Article III permits §27A(b)'s expressly retrospective requirement to reinstate a private §10(b) action commenced on or before June 19, 1991, dismissed as time barred after June 19, 1991, and timely under the jurisdiction's law, including retroactivity principles, as that law existed on June 19, 1991, upon a motion filed within sixty days after the provision's December 19, 1991 enactment. The federal court must independently determine whether those cumulative conditions are satisfied and, if they are, must reinstate the action without a discretionary balancing test, retaining independent responsibility for the claims, defenses and remedies; this bounded entitlement to adjudication neither directs a merits judgment nor establishes an unrestricted power to reopen completed federal judgments.
 
-**Proposition-level authority:** Thomas's Opinion of the Court is joined by Stone-Zsela, Scalia, Kennedy and Souter. Five participating Justices directly join this as-applied Article III rule and the limited remedy; no aggregation of separate rationales is necessary.
+**Proposition-level authority:** Chief Justice Stone-Zsela's Opinion of the Court is joined in full by Blackmun, Stevens, Souter and Ginsburg. These five direct joins control the rule, explanation, qualifications and remedy; no combination of separate rationales is necessary.
+
+**Material application:** Pacific Mutual's January 31, 1992 motion met the sixty-day deadline; that fact is not a finding of fraud or entitlement to a merits judgment.
 
 **Treatment of earlier authority:**
 
-- Robertson v. Seattle Audubon Society, March 25, 1992: preserves legislative change of law in pending litigation; resolves its reserved final-judgment question only for this completed private dismissal.
-- McCullough v. Virginia, 172 U.S. 102 (1898): relies on the distinction between changing law and disturbing a completed adjudication.
-- United States v. Klein, 80 U.S. (13 Wall.) 128 (1872): applies protection of judicial adjudication, without denying Congress's power to amend governing law.
-- Pennsylvania v. Wheeling & Belmont Bridge Co., 59 U.S. (18 How.) 421 (1856): distinguishes changes to the continuing prospective operation of an injunction.
-- Chase Securities Corp. v. Donaldson, 325 U.S. 304 (1945): leaves its due-process revival rule intact; it does not decide final federal judgments under Article III.
-- Harper v. Virginia Department of Taxation, June 18, 1993: preserves the distinction between open direct review and final judgments; judicial retroactivity is not a reopening command.
-- Landgraf v. USI Film Products and Rivers v. Roadway Express, April 26, 1994: preserve the distinction between express legislative temporal direction and constitutional power; ordinary antiretroactivity construction cannot avoid this express command.
-- United States v. Sioux Nation of Indians, 448 U.S. 371 (1980): distinguishes the Government's waiver of its own res judicata defense from compulsory reopening between private parties.
+- Robertson v. Seattle Audubon Society, March 25, 1992: extends its distinction between changing governing law and prescribing adjudication to this bounded reinstatement procedure; resolves the final-judgment question left open there only within the present limits.
+- United States v. Klein, 80 U.S. (13 Wall.) 128 (1872): applies its protection of independent adjudication; a new eligibility rule requiring renewed adjudication does not supply a legislative finding or dictate securities liability.
+- McCullough v. Virginia, 172 U.S. 102 (1898): preserves protection of completed judicial determinations while distinguishing this new statutory entitlement to litigate claims dismissed on limitations grounds from legislative contradiction of adjudicated facts or liability.
+- Pennsylvania v. Wheeling & Belmont Bridge Co., 59 U.S. (18 How.) 421 (1856): distinguishes a change in the continuing operation of prospective relief; its setting does not itself resolve reinstatement of this completed dismissal.
+- United States v. Sioux Nation of Indians, 448 U.S. 371 (1980): distinguishes waiver of the Government's own defense; retained judicial adjudication is relevant, but no governmental waiver of a private defendant's defense is assumed here.
+- Lampf, Pleva, Lipkind, Prupis & Petigrow v. Gilbertson, 501 U.S. 350 (1991): identifies the intervening limitations rule to which Congress responded; §27A(b) supplies the bounded statutory remedy without deciding the underlying fraud claims.
+- James B. Beam Distilling Co. v. Georgia, 501 U.S. 529 (1991), and Harper v. Virginia Department of Taxation, June 18, 1993: retain the distinction between judicial retroactivity in still-open litigation and final judgments; the present entitlement arises from an express statute, not judicial retroactivity alone.
+- Landgraf v. USI Film Products and Rivers v. Roadway Express, April 26, 1994: preserve the separation between express legislative temporal direction and constitutional limits; no ordinary presumption against retroactivity defeats §27A(b)'s explicit reach.
+- Chase Securities Corp. v. Donaldson, 325 U.S. 304 (1945): preserves its due-process treatment of revived limitations claims without treating that decision as dispositive of Article III.
 
-**Limits and questions not reached:** Section 27A(b) requires an action commenced on or before June 19, 1991, dismissed as time barred after that date, timely under the jurisdiction's June 19 law including retroactivity principles, and a reinstatement motion within 60 days after December 19, 1991. The January 31 motion met the deadline; the ruling does not rest on a missing statutory condition. Section 27A(a)'s separate June 19 limitations-law direction, other applications of subsection (b), general severability, due process, fraud liability, damages and independently lawful reopening remain undecided.
+**Limits and questions not reached:** Congress may not declare a completed judicial factual finding erroneous and compel the contrary finding, dictate a merits judgment, or disguise an individualized award or assessment of liability as a procedural reopening statute. Compelled reopening of merits judgments and individualized commands to adjudicate liability are not decided. The Court announces no independent due-process holding and does not decide §27A(a), general severability, fraud, liability, damages or entitlement to judgment on the securities merits. Pending litigation, prospective relief and independently authorized judicial reopening remain distinct.
 
-**Operative remedy or transition:** The Fifth Circuit is reversed, 5–3, and the matter remanded with directions to deny §27A(b) reinstatement. The completed August 1991 dismissal remains undisturbed. O'Connor does not participate; no fraud findings or damages trial is ordered.
+**Operative remedy or transition:** The Fifth Circuit's judgment sustaining the reinstatement procedure is affirmed. Proceedings may continue under §27A(b). The federal court must determine the statutory prerequisites and reinstate the action when they are proved; it has no discretion to deny reinstatement through a balancing test. The securities claims, defenses and remedies remain for ordinary judicial adjudication. No fraud finding, liability judgment or damages award is entered.
+
+**Material judgment:** Affirmed, 5–3. Stone-Zsela, Blackmun, Stevens, Souter and Ginsburg support affirmance; Scalia, Kennedy and Thomas dissent. O'Connor does not participate.
 
 #### Plaut v. Spendthrift Farm, Inc.
 
 **Docket or dockets:** No. 93-1121.
 **Decided:** April 18, 1995.
 
-##### Section 27A(b) cannot reopen this completed private federal judgment
+##### Section 27A(b) permits mandatory reinstatement of this completed limitations dismissal
 
-**Holding:** Article III prevents §27A(b) from requiring reinstatement of this private §10(b) action after its dismissal with prejudice became final without appeal before December 19, 1991. Satisfaction of the statute's reinstatement conditions does not overcome that constitutional limit; the denial of reinstatement is affirmed without deciding pending cases, judgments still on direct review, continuing prospective relief, or independently lawful judicial reopening.
+**Holding:** Under Morgan Stanley, Article III permits Congress to require reinstatement under §27A(b) of a qualifying private §10(b) action even though its limitations dismissal became final without appeal before the provision's December 19, 1991 enactment: the action must have commenced on or before June 19, 1991, been dismissed as time barred after that date, and been timely under the jurisdiction's law, including retroactivity principles, as it existed June 19, 1991, with a reinstatement motion filed within sixty days after enactment. The court independently determines those cumulative conditions and, when they are satisfied, must reinstate without discretionary balancing, retaining independent responsibility for all claims, defenses, and remedies; this expressly retrospective entitlement does not authorize legislative findings, dictated liability, or unrestricted reopening of completed merits judgments.
 
-**Proposition-level authority:** Opinion of the Court (Thomas), joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter and Breyer: seven Justices.
+**Proposition-level authority:** Chief Justice Stone-Zsela's Opinion of the Court, joined in full by Stevens, Souter, Ginsburg, and Breyer. Those five direct rationale joins control every proposition, qualification, and remedy stated here. O'Connor, Scalia, Kennedy, and Thomas dissent; no combination of separate rationales is necessary.
+
+**Material application:** A narrowly defined, exclusively retrospective class does not by itself turn this procedure into a legislative judgment: the statute covers every action meeting its legal criteria and selects no parties for legislatively determined liability. The statutory conditions are satisfied, including the timely February 11, 1992 motion.
 
 **Treatment of earlier authority:**
 
-- Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994: applies its as-applied Article III rule to the same completed, unappealed private-dismissal setting without enlarging it.
-- Robertson v. Seattle Audubon Society, March 25, 1992: preserves genuine legislative changes governing pending cases; it does not authorize the present reopening of a completed judgment.
-- McCullough v. Virginia, 172 U.S. 102: applies the distinction between changing law and disturbing completed adjudication.
-- United States v. Klein, 80 U.S. (13 Wall.) 128: preserves protection of the judicial function without treating actual legislative amendment as forbidden.
-- Pennsylvania v. Wheeling & Belmont Bridge Co., 59 U.S. (18 How.) 421: distinguishes adjustment of the continuing prospective operation of equitable relief.
-- United States v. Sioux Nation of Indians, 448 U.S. 371: distinguishes sovereign waiver of the Government's own final-judgment defense from compulsory reopening between private parties.
-- Chase Securities Corp. v. Donaldson, 325 U.S. 304: leaves its due-process revival rule intact; it does not resolve the Article III question presented.
+- Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994: applies its five-Justice Article III holding sustaining §27A(b)'s bounded mandatory reinstatement procedure to this qualifying completed private limitations dismissal; preserves independent eligibility and merits adjudication and all constitutional limits.
+- Robertson v. Seattle Audubon Society, March 25, 1992: applies its distinction between genuine legislative change and prescribed judicial adjudication; Morgan Stanley supplies the completed-dismissal rule that Robertson did not decide.
+- United States v. Klein, 80 U.S. (13 Wall.) 128: applies its protection of the independent judicial function; a class-defined entitlement to renewed adjudication does not dictate findings or securities liability.
+- McCullough v. Virginia, 172 U.S. 102: preserves protection of completed judicial determinations while distinguishing the statutory entitlement to litigate a limitations-dismissed claim from a legislative declaration of facts or liability contrary to an adjudication.
+- James B. Beam Distilling Co. v. Georgia, 501 U.S. 529: preserves finality against reopening by later judicial doctrine alone; the entitlement here comes from an express statute whose Article III validity Morgan Stanley establishes.
+- Pennsylvania v. Wheeling & Belmont Bridge Co., 59 U.S. (18 How.) 421: distinguishes the continuing operation of prospective equitable relief; that setting does not itself decide this completed limitations dismissal.
+- United States v. Sioux Nation of Indians, 448 U.S. 371: distinguishes the Government's waiver of its own defense; no governmental waiver of a private defendant's defense supplies the holding here.
+- Chase Securities Corp. v. Donaldson, 325 U.S. 304: leaves its due-process revival rule intact without treating it as a controlling answer to Article III.
+- Lampf, Pleva, Lipkind, Prupis & Petigrow v. Gilbertson, 501 U.S. 350: identifies the limitations rule that produced the dismissal and the statutory response; §27A(b) supplies reinstatement without establishing the securities merits.
 
-**Limits and questions not reached:** Section 27A(b) addresses a private §10(b) action commenced on or before June 19, 1991, dismissed as time barred after that date, and timely under the law of the jurisdiction, including retroactivity principles, as it existed June 19, 1991. It directs reinstatement on a plaintiff's motion within sixty days after December 19, 1991. These conditions were satisfied here, including the February 11, 1992 motion. Subsection (a), other applications of subsection (b), general severability, constitutional due process, fraud, damages, federal waiver, and independently authorized judicial reopening are not decided. The Court adopts no comprehensive prohibition governing every later legislative effect on every final order.
+**Limits and questions not reached:** Congress may not command findings contrary to the record, impose liability on identified defendants by legislative declaration, or disguise an individualized award as a procedural reopening law. The Court decides no general power to set aside completed judgments adjudicating the underlying merits, no constitutionality of every retrospective statute, and no independent due-process question; applicable due-process protections and other constitutional restrictions remain. Section 27A(a), other applications of subsection (b), general severability, federal waiver, continuing prospective relief, and independently authorized judicial reopening are not decided. The decision neither adjudicates other parties' completed cases nor creates criminal or innocence remedies. Fraud, reliance, causation, liability, damages, and ordinary merits defenses remain for the courts; reinstatement establishes none of them.
 
-**Operative remedy or transition:** Denial of §27A(b) reinstatement is affirmed. The completed dismissal remains binding; there is no reinstatement or merits remand.
+**Operative remedy or transition:** The judgment of the Sixth Circuit is reversed. The case is remanded for reinstatement under the satisfied conditions of §27A(b) and further judicial proceedings on the underlying securities claims. Reinstatement is required, not a discretionary remedy. The courts retain responsibility for the merits, defenses, and any relief; no merits outcome is prescribed.
+
+**Material judgment:** Reversed and remanded, 5–4. Stone-Zsela, Stevens, Souter, Ginsburg and Breyer support reversal; O'Connor, Scalia, Kennedy and Thomas dissent.
 
 ### Military judicial appointments and impartiality
 
@@ -2910,7 +2921,7 @@ For the other questions in *United States v. Williams*, May 4, 1992, No. 90-1972
 
 **Material application:** Officials reaffirmed the single-occupancy obligation in 1985 after the original 1979 decree. The centrality of that term and acceptance of known risks matter, but the lower court must assess inequity without treating unforeseeability as an absolute condition.
 
-**Limits and questions not reached:** Population growth, expense, and the need for the proposed design are asserted grounds, not Supreme Court findings satisfying the burden.
+**Limits and questions not reached:** Population growth, expense, and the need for the proposed design are asserted grounds, not Supreme Court findings satisfying the burden. Modification under Rule 60(b)(5) concerns the continuing prospective operation of an existing institutional decree following a demonstrated significant change in fact or law. It does not establish a legislative power to compel reinstatement of a completed private damages or limitations judgment, nor does it decide whether a separate valid statutory remedy may provide collateral relief from such a judgment.
 
 **Operative remedy or transition:** Both First Circuit judgments are vacated and the cases remanded for the district court to determine whether proven changed circumstances make continued enforcement inequitable and whether the proposed modification responds suitably to those changes. The existing decree remains operative until lawfully modified.
 
@@ -3879,7 +3890,7 @@ For Bray v. Alexandria Women’s Health Clinic, January 13, 1993, No. 90-985, co
 - Townsend v. Sain, 372 U.S. 293, and Keeney v. Tamayo-Reyes, May 4, 1992 — preserved; necessary factual development of a properly available claim remains distinct from legal sufficiency, cognizability, exhaustion and abuse.
 - Sawyer v. Whitley, June 22, 1992 — distinguished; its capital-eligibility gateway does not decide freestanding guilt innocence or supply its merits burden.
 
-**Limits and questions not reached:** No controlling opinion recognizes or rejects a freestanding constitutional innocence claim or fixes its general burden. The undefined extraordinary threshold and White’s rational-factfinder minimum have no established logical-subset relationship under Marks. The hearing, exhaustion, abuse, Teague and distinct Sawyer capital-eligibility gateway rules retain independent operation.
+**Limits and questions not reached:** No controlling opinion recognizes or rejects a freestanding constitutional innocence claim or fixes its general burden. The undefined extraordinary threshold and White’s rational-factfinder minimum have no established logical-subset relationship under Marks. The hearing, exhaustion, abuse, Teague and distinct Sawyer capital-eligibility gateway rules retain independent operation. The federal habeas disposition does not determine the authority of a State to establish independent postconviction procedures for newly discovered evidence, actual innocence, or scientific developments undermining evidence relied upon at trial. Neither the existence nor the scope of such a state statutory remedy is before the Court. No general federal entitlement to a hearing upon any subsequent scientific disagreement is established.
 
 **Operative remedy or transition:** Affirm denial of the requested relief, 5–4; the vacation of the innocence-based federal stay remains. No credibility finding, innocence hearing, new writ, stay or execution date is ordered.
 
@@ -4811,7 +4822,7 @@ For the other questions in Landgraf v. USI Film Products, 1994-04-26, No. 92-757
 - Bradley v. School Board of Richmond, 416 U.S. 696 (1974): retained in its collateral litigation-fee setting and reconciled with the new-consequence inquiry, not overruled.
 - Harper v. Virginia Department of Taxation, 509 U.S. 86 (1993): distinguished as judicial retroactivity; its equal-application rule remains unchanged.
 
-**Limits and questions not reached:** The rule is provision-specific, not a declaration that the whole 1991 Act is inapplicable in pending cases. Section 402(a)'s enactment-date clause, §109(c)'s later-conduct limitation for extraterritorial amendments, and §402(b)'s exception for disparate-impact complaints filed before March 1, 1975 with initial decisions after October 30, 1983 remain distinct. Judicial retroactivity under Harper does not control legislative reach.
+**Limits and questions not reached:** The rule is provision-specific, not a declaration that the whole 1991 Act is inapplicable in pending cases. Section 402(a)'s enactment-date clause, §109(c)'s later-conduct limitation for extraterritorial amendments, and §402(b)'s exception for disparate-impact complaints filed before March 1, 1975 with initial decisions after October 30, 1983 remain distinct. Judicial retroactivity under Harper does not control legislative reach. An express congressional direction concerning the temporal operation of a statute resolves the threshold statutory question, subject to applicable constitutional limits. Such a direction does not alone determine whether Congress may constitutionally require reconsideration of an already completed Article III judgment. The present case concerns statutory consequences for earlier conduct in litigation properly before the courts and does not decide that separate final-judgment issue.
 
 **Operative remedy or transition:** The Fifth Circuit judgment is affirmed, 8–1. No new damages trial, award or remand is ordered, and the existing equitable-remedy judgment and unreviewed constructive-discharge findings remain intact.
 
@@ -5581,7 +5592,7 @@ For the other questions in this decision, see First Amendment — Ministerial se
 - *United States v. Munsingwear, Inc.*, 340 U.S. 36 (1950), confirms §2106 dispositional authority when appellate merits review becomes unavailable; it does not make every available disposition mandatory.
 - *Kokkonen v. Guardian Life Insurance Co. of America*, 511 U.S. 375 (1994), is distinguished: jurisdiction over a new settlement-enforcement controversy is different from disposition of a judgment already lawfully under review.
 
-**Limits and questions not reached:** The Court neither enforces the settlement nor supplies a ruling on bankruptcy priority, plan confirmation or the former automatic-stay dispute.
+**Limits and questions not reached:** The Court neither enforces the settlement nor supplies a ruling on bankruptcy priority, plan confirmation or the former automatic-stay dispute. The authority under §2106 to make an equitable disposition of a judgment lawfully before an appellate court differs from authority to reopen a completed judgment after the ordinary review process has ended. This decision does not create a new collateral reopening procedure, displace independently applicable Rule 60 requirements, or make a settlement agreement itself sufficient grounds for vacatur.
 
 ##### Voluntary settlement ordinarily does not justify vacatur
 
@@ -6439,7 +6450,7 @@ For Wisconsin's constitutional census-method holding and bounded three-docket re
 
 **Proposition-level authority:** Souter's Part I, joined by O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer: seven Justices. Stevens's serious doubt and Stone-Zsela's nonjoin supply no additional support.
 
-**Treatment of earlier authority:** Aetna and Nashville permit conclusive adverse declarations without an immediately executable coercive decree. Brimson supports judicial assistance to administration within its adversarial, conclusive, enforceable-order setting, without creating IGRA contempt power. Ferreira's revisable commissioner process is distinguished. Gordon's jurisdictional disposition supplies no delivered reasoned majority opinion requiring execution in every judicial case; Hayburn produced no Supreme Court merits decision, and its reported circuit communications remain historical materials. Wisconsin's partial-redress rule and Morgan Stanley/Plaut's completed-judgment protection do not universally resolve judicial character.
+**Treatment of earlier authority:** Aetna and Nashville permit conclusive adverse declarations without an immediately executable coercive decree. Brimson supports judicial assistance to administration within its adversarial, conclusive, enforceable-order setting, without creating IGRA contempt power. Ferreira's revisable commissioner process is distinguished. Gordon's jurisdictional disposition supplies no delivered reasoned majority opinion requiring execution in every judicial case; Hayburn produced no Supreme Court merits decision, and its reported circuit communications remain historical materials. Wisconsin's partial-redress rule concerns the judicial capacity to afford meaningful relief. Morgan Stanley and Plaut: Article III permits Congress to require reinstatement of qualifying completed private securities limitations dismissals under §27A(b)'s objectively defined procedure while courts independently determine eligibility and adjudicate the claims. The holdings do not establish an unrestricted power to reopen completed merits judgments and do not determine whether IGRA's conclusive adjudication ceases to be judicial because mediation or executive action follows.
 
 ##### A connected officer may be sued prospectively under IGRA within its complete statutory limits
 
@@ -13247,7 +13258,7 @@ For the other questions in Landgraf v. USI Film Products, 1994-04-26, No. 92-757
 - Kaiser: applied to the enacted condition linking the jury option to §102 damages.
 - Bradley: distinguished; current-law treatment of collateral matters does not erase an express condition on a new remedy or automatically reopen a completed trial.
 
-**Limits and questions not reached:** The rule is provision-specific, not a declaration that the whole 1991 Act is inapplicable in pending cases. Section 402(a)'s enactment-date clause, §109(c)'s later-conduct limitation for extraterritorial amendments, and §402(b)'s exception for disparate-impact complaints filed before March 1, 1975 with initial decisions after October 30, 1983 remain distinct. Judicial retroactivity under Harper does not control legislative reach.
+**Limits and questions not reached:** The rule is provision-specific, not a declaration that the whole 1991 Act is inapplicable in pending cases. Section 402(a)'s enactment-date clause, §109(c)'s later-conduct limitation for extraterritorial amendments, and §402(b)'s exception for disparate-impact complaints filed before March 1, 1975 with initial decisions after October 30, 1983 remain distinct. Judicial retroactivity under Harper does not control legislative reach. An express congressional direction concerning the temporal operation of a statute resolves the threshold statutory question, subject to applicable constitutional limits. Such a direction does not alone determine whether Congress may constitutionally require reconsideration of an already completed Article III judgment. The present case concerns statutory consequences for earlier conduct in litigation properly before the courts and does not decide that separate final-judgment issue.
 
 **Operative remedy or transition:** The Fifth Circuit judgment is affirmed, 8–1. No new damages trial, award or remand is ordered, and the existing equitable-remedy judgment and unreviewed constructive-discharge findings remain intact.
 
@@ -13481,7 +13492,7 @@ For the other questions in Cavanaugh v. Roller, 1993-11-30, No. 92-1510, see Fed
 - Cavanaugh v. Roller, November 30, 1993: distinguishes its opportunity-only claim; the existing §1983 holding remains intact.
 - Carey v. Piphus: applies the requirement of actual compensable injury without adjudicating the amount or merits here.
 
-**Limits and questions not reached:** Former prisoners and persons who never had a realistic custody-review opportunity remain outside the question resolved. No universal constitutional malicious-prosecution action, automatic state-law preclusion, automatic habeas conversion or pending-prosecution abstention rule is adopted. Custis's distinct no-meaningful-review reservation in the ACCA channel remains intact.
+**Limits and questions not reached:** Former prisoners and persons who never had a realistic custody-review opportunity remain outside the question resolved. No universal constitutional malicious-prosecution action, automatic state-law preclusion, automatic habeas conversion or pending-prosecution abstention rule is adopted. Custis's distinct no-meaningful-review reservation in the ACCA channel remains intact. Recognition of a conviction's invalidation by an authorized state tribunal identifies one circumstance in which the present §1983 prerequisite is satisfied. It does not itself create jurisdiction, confer authority to reopen the underlying conviction, or prescribe grounds upon which a state tribunal must grant collateral relief. Those questions remain governed by the independently applicable law authorizing that tribunal's action.
 
 **Operative remedy or transition:** Dismissal without prejudice is affirmed unanimously for lack of present cognizability. The barred claim has not accrued, so its limitations period is not consumed while the prerequisite remains unmet. A later otherwise proper action may follow qualifying invalidation, subject to remaining requirements; no stay, release, automatic conversion to habeas, liability, immunity or damages determination is ordered.
 
@@ -21153,7 +21164,7 @@ The controlling classification follows the coordinated statutory and regulatory 
 - United States v. Darusmont, 449 U.S. 292, and Milliken v. United States, 283 U.S. 15: preserve permissible tax retroactivity in their settings, without a universal advance-notice condition.
 - Untermyer v. Anderson, 276 U.S. 440: distinguishes its wholly new gift tax from this amendment to a deduction within an existing estate-tax regime.
 - United States v. Irvine, April 20, 1994: distinguishes its later taxable transfer; the present amendment is genuinely retroactive and receives constitutional review.
-- Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994: preserves protection of the completed federal judgment there; no such judgment is reopened here.
+- Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994, permits the bounded congressional reinstatement of completed securities limitations dismissals under an expressly retrospective statutory rule preserving independent judicial adjudication. The present case concerns a substantive amendment to the estate-tax law and its application to an earlier transaction, not the reinstatement of a completed federal judicial judgment. Neither decision establishes unlimited constitutional permission for retrospective legislation.
 
 **Operative remedy or transition:** The Ninth Circuit is reversed and the case remanded for judgment applying the amended ownership requirement. No refund follows from the rejected due-process theory and no compensation is awarded for the transaction loss. The Court fixes no new assessment, penalty, valuation, allocation failure or refund amount.
 

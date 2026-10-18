@@ -70,7 +70,7 @@
 
 **Holdings navigation:** Rufo v. Inmates of Suffolk County Jail; Rapone v. Inmates of Suffolk County Jail, 502 U.S. 367 (1992) — Prospective equitable relief; Lewis v. Casey, 518 U.S. 343 (1996).
 
-**Exceptions and limits:** For covered prison-conditions prospective relief, the original §3626 conditions and separate termination/stay mechanisms apply alongside this general rule; see Prison-conditions prospective relief and Prison-conditions termination motions and automatic stays. PLRA §§802–804 — Source, authority and operative text (§802, April 26, 1996) and Lewis v. Casey — Holdings IV–VI (June 24, 1996) preserve that additional statutory operation. A pending Rule 60 request alone is not substituted for the statute's actual motion and timing requirements.
+**Exceptions and limits:** For covered prison-conditions prospective relief, the original §3626 conditions and separate termination/stay mechanisms apply alongside this general rule; see Prison-conditions prospective relief and Prison-conditions termination motions and automatic stays. PLRA §§802–804 — Source, authority and operative text (§802, April 26, 1996) and Lewis v. Casey — Holdings IV–VI (June 24, 1996) preserve that additional statutory operation. A pending Rule 60 request alone is not substituted for the statute's actual motion and timing requirements. Modification under Rule 60(b)(5) concerns the continuing prospective operation of an existing institutional decree following a demonstrated significant change in fact or law. It does not establish a legislative power to compel reinstatement of a completed private damages or limitations judgment, nor does it decide whether a separate valid statutory remedy may provide collateral relief from such a judgment.
 
 ### Collateral Rule 11 sanctions despite absence of merits jurisdiction
 
@@ -425,7 +425,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Governing question:** What instructions govern federal rules applied to parties govern still-open direct review?
 
-**Current rule:** When this Court applies a federal rule to the parties before it, that rule governs all still-open direct-review cases concerning events within its substantive scope, whether before or after announcement. Selective prospectivity cannot withhold the rule from another such case. Chevron Oil is displaced to that extent. Final judgments are not reopened; genuine remedial rules remain distinct, and every conceivable prospective disposition is not decided.
+**Current rule:** When this Court applies a federal rule to the parties before it, that rule governs all still-open direct-review cases concerning events within its substantive scope, whether before or after announcement. Selective prospectivity cannot withhold the rule from another such case. Chevron Oil is displaced to that extent. Later judicial doctrine alone does not reopen final judgments; genuine remedial rules remain distinct, and every conceivable prospective disposition is not decided.
 
 **Authority by component:**
 
@@ -434,6 +434,8 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 **Present operation effective:** 1993-06-18; Harper v. Virginia Department of Taxation, for the components identified above.
 
 **Holdings navigation:** Harper v. Virginia Department of Taxation, 509 U.S. 86 (1993).
+
+**Related current rules:** Congressional reopening of completed private federal judgments states Morgan Stanley's and Plaut's distinct rule for an express statutory entitlement to reinstatement under §27A(b); Harper's judicial-retroactivity rule neither creates that entitlement nor defeats it.
 
 ### Unequal opportunity to compete and associational standing
 
@@ -552,6 +554,10 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Holdings navigation:** Determine statutory temporal reach before applying the presumption against new retrospective consequences; Corrective legislative purpose does not itself give an amendment retrospective reach.
 
+**Exceptions and limits:** An express congressional direction concerning the temporal operation of a statute resolves the threshold statutory question, subject to applicable constitutional limits. Such a direction does not alone determine whether Congress may constitutionally require reconsideration of an already completed Article III judgment. Landgraf concerns statutory consequences for earlier conduct in litigation properly before the courts and does not decide that separate final-judgment issue.
+
+**Related current rules:** Congressional reopening of completed private federal judgments supplies Morgan Stanley's and Plaut's separate Article III rule for §27A(b).
+
 ### Jurisdiction to enforce a settlement after dismissal
 
 **Governing question:** When a federal court may enforce a settlement after dismissing the original action.
@@ -567,6 +573,8 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 **Open question:** Possible reopening under Rule 60(b), as distinct from exercising jurisdiction over a separate contract-enforcement action, is not decided.
 
 **Holdings navigation:** Postdismissal contract enforcement requires a jurisdictional basis; A lawful dismissal order may make settlement compliance enforceable.
+
+**Related current rules:** Congressional reopening of completed private federal judgments concerns a distinct statutory source for reinstatement under §27A(b). Morgan Stanley and Plaut separately sustain its constitutionality; the existence of a statutory source alone does not validate every reopening command.
 
 ### Review preclusion for the approved 1990 base-closure package
 
@@ -600,17 +608,22 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 ### Congressional reopening of completed private federal judgments
 
-**Governing question:** Whether §27A(b) may compel reopening of an already final, unappealed private securities judgment.
+**Governing question:** Whether and on what conditions §27A(b) requires reinstatement of a completed, unappealed private securities limitations dismissal.
 
-**Current rule:** Article III forbids compelling a federal court to reopen a completed, unappealed judgment in a private securities action through §27A(b)’s retroactive reinstatement command. That command addresses a private §10(b) action commenced on or before June 19, 1991, dismissed as time-barred after that date, timely under the jurisdiction’s law as it stood on that date, and the subject of a reinstatement motion within sixty days after enactment. Meeting those statutory conditions does not overcome the constitutional finality of the completed private judgment. Pending litigation, prospective relief, government waiver of its own protection and established Rule 60 mechanisms are distinct questions; the holding does not decide them by analogy alone.
+**Current rule:** Under Morgan Stanley, Article III permits Congress to require reinstatement under §27A(b) of a qualifying private §10(b) action even though its limitations dismissal became final without appeal before the provision's December 19, 1991 enactment: the action must have commenced on or before June 19, 1991, been dismissed as time barred after that date, and been timely under the jurisdiction's law, including retroactivity principles, as it existed June 19, 1991, with a reinstatement motion filed within sixty days after enactment. The court independently determines those cumulative conditions and, when they are satisfied, must reinstate without discretionary balancing, retaining independent responsibility for all claims, defenses, and remedies; this expressly retrospective entitlement does not authorize legislative findings, dictated liability, or unrestricted reopening of completed merits judgments. A narrowly defined, exclusively retrospective class does not by itself turn this procedure into a legislative judgment: the statute covers every action meeting its legal criteria and selects no parties for legislatively determined liability.
 
 **Authority by component:**
 
-- Final private judgment and the limited reinstatement command: Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co — Congress may not command reopening of this completed private federal judgment, 1994-05-23. Thomas's Opinion of the Court is joined by Stone-Zsela, Scalia, Kennedy and Souter. Five participating Justices directly join this as-applied Article III rule and the limited remedy; no aggregation of separate rationales is necessary.
+- Defined statutory entitlement, cumulative conditions, mandatory reinstatement, independent judicial adjudication and constitutional limits: Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co. — Bounded statutory reinstatement of completed securities limitations dismissals, May 23, 1994. Chief Justice Stone-Zsela's Opinion of the Court is joined in full by Blackmun, Stevens, Souter and Ginsburg.
+- Application to a final unappealed dismissal and the boundary for narrow, exclusively retrospective class coverage: Plaut v. Spendthrift Farm, Inc. — Section 27A(b) permits mandatory reinstatement of this completed limitations dismissal, April 18, 1995. Chief Justice Stone-Zsela's Opinion of the Court, joined in full by Stevens, Souter, Ginsburg, and Breyer.
 
-**Present operation effective:** Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co, 1994-05-23.
+**Present operation effective:** Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994.
 
-**Holdings navigation:** Congress may not command reopening of this completed private federal judgment.
+**Exceptions and limits:** Congress may not command findings contrary to the record, impose liability on identified defendants by legislative declaration, or disguise an individualized award as a procedural reopening law. The Court decides no general power to set aside completed judgments adjudicating the underlying merits, no constitutionality of every retrospective statute, and no independent due-process question; applicable due-process protections and other constitutional restrictions remain. Section 27A(a), other applications of subsection (b), general severability, federal waiver, continuing prospective relief, and independently authorized judicial reopening are not decided. The decision neither adjudicates other parties' completed cases nor creates criminal or innocence remedies. Fraud, reliance, causation, liability, damages, and ordinary merits defenses remain for the courts; reinstatement establishes none of them.
+
+**Related current rules:** Federal rules applied to parties govern still-open direct review concerns judicial retroactivity alone, which supplies no reopening entitlement. Statutory temporal reach and new consequences for completed conduct separates express temporal direction from constitutional authority; the ordinary presumption against retroactivity does not defeat §27A(b)'s express reach. Robertson's pending-litigation distinction between changing governing law and prescribing adjudication remains intact; Morgan Stanley supplies the completed-dismissal rule Robertson left open.
+
+**Holdings navigation:** Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co. — Bounded statutory reinstatement of completed securities limitations dismissals; Plaut v. Spendthrift Farm, Inc. — Section 27A(b) permits mandatory reinstatement of this completed limitations dismissal.
 
 ### Private settlement rights and collateral-order appeals
 
@@ -7697,6 +7710,8 @@ If that period passes without agreement, both sides submit last-best proposals t
 **Exceptions and limits:** A declaratory label alone supplies no controversy, substantive cause or missing legal consequence. The holding manufactures no coercive remedy or guarantee of the claimant's preferred compact.
 
 **Holdings navigation:** Seminole Tribe of Florida v. Florida, 517 U.S. 44.
+
+**Related current rules:** Congressional reopening of completed private federal judgments states the distinct Morgan Stanley and Plaut rule. Those decisions do not determine whether IGRA's conclusive adjudication ceases to be judicial because mediation or executive action follows.
 
 ### Bounded presidential narrowing of military capital punishment
 
