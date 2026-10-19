@@ -468,10 +468,10 @@ Source line 158:
 
 Event date: 1995-04-18.
 
-Source line 125:
+Source line 104:
 
-> Assignment: Stone belongs to the secure seven-Justice judgment coalition and assigns Thomas.
-> Fit is faithful application of the narrowly drawn rule Thomas previously authored, with careful reservations preserving Breyer's and O'Connor's actual joins.
+> The Chief Justice, in the majority, assigns and writes the Opinion of the Court.
+> The Court opinion has five complete rationale joins, with no partial or judgment-only joins and no need for a Marks synthesis.
 > No additional vote must be induced, so expansion does not replace fit.
 
 ### OT1994/Shalala_v_Whitecotton_merits_1995-04-18.md

@@ -8,13 +8,13 @@ Count each opinion once as Chief-assigned if the Chief assigned any portion. Dif
 
 | Justice | OT1994 named Chief assignments | OT1995 named Chief assignments through April 9 |
 |---|---:|---:|
-| Stone-Zsela | 4 | 2 |
+| Stone-Zsela | 5 | 2 |
 | Stevens | 11 | 4 |
 | O'Connor | 14 | 15 |
 | Scalia | 5 | 1 |
 | Kennedy | 14 | 5 |
 | Souter | 18 | 10 |
-| Thomas | 6 | 5 |
+| Thomas | 5 | 5 |
 | Ginsburg | 13 | 8 |
 | Breyer | 8 | 0 |
 
@@ -92,7 +92,7 @@ The April 9 interim Bowersox coordinated Kennedy opinion counts once because the
 | [Pinette_merits_1995-06-29.md](../../OT1994/records/Pinette_merits_1995-06-29.md) | Stone-Zsela |
 | [Plakas_v_Drinski_merits_1995-01-09.md](../../OT1994/records/Plakas_v_Drinski_merits_1995-01-09.md) | Kennedy |
 | [Plant_Variety_Protection_Act_Amendments_statutory_effectiveness_1995-04-04.md](../../OT1994/records/Plant_Variety_Protection_Act_Amendments_statutory_effectiveness_1995-04-04.md) | Admitted source; no opinion |
-| [Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md](../../OT1994/records/Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md) | Thomas |
+| [Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md](../../OT1994/records/Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md) | Stone-Zsela |
 | [Qualitex_Co_v_Jacobson_Products_Co_merits_1995-03-28.md](../../OT1994/records/Qualitex_Co_v_Jacobson_Products_Co_merits_1995-03-28.md) | Souter |
 | [Reich_v_Collins_merits_1994-12-06.md](../../OT1994/records/Reich_v_Collins_merits_1994-12-06.md) | O'Connor |
 | [Reno_v_Koray_merits_1995-06-05.md](../../OT1994/records/Reno_v_Koray_merits_1995-06-05.md) | Associate-only assignment; excluded |

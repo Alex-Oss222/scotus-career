@@ -68,7 +68,7 @@ Read solely for the preceding-term assignment restriction. Each opinion counts o
 | [record](../../OT1994/records/Pinette_merits_1995-06-29.md) | Stone-Zsela |
 | [record](../../OT1994/records/Plakas_v_Drinski_merits_1995-01-09.md) | Kennedy |
 | [record](../../OT1994/records/Plant_Variety_Protection_Act_Amendments_statutory_effectiveness_1995-04-04.md) | Admitted source; no opinion |
-| [record](../../OT1994/records/Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md) | Thomas |
+| [record](../../OT1994/records/Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md) | Stone-Zsela |
 | [record](../../OT1994/records/Qualitex_Co_v_Jacobson_Products_Co_merits_1995-03-28.md) | Souter |
 | [record](../../OT1994/records/Reich_v_Collins_merits_1994-12-06.md) | O'Connor |
 | [record](../../OT1994/records/Reno_v_Koray_merits_1995-06-05.md) | Associate-only assignment; excluded |
@@ -108,6 +108,6 @@ Read solely for the preceding-term assignment restriction. Each opinion counts o
 
 Named Chief assignments: 94. One additional per curiam disposition has no named author. Neither denominator produces a Justice over half.
 
-Stevens: 11; Breyer: 8; Ginsburg: 13; Souter: 18; Kennedy: 15; Scalia: 5; O'Connor: 14; Thomas: 6; Stone-Zsela: 4.
+Stevens: 11; Breyer: 8; Ginsburg: 13; Souter: 18; Kennedy: 15; Scalia: 5; O'Connor: 14; Thomas: 5; Stone-Zsela: 5.
 
 No Justice triggers the consecutive-term restriction at the start of OT1995. Current assignments will still be assessed by fit and coalition needs, and tracked from the current Records.

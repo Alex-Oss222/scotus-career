@@ -10,13 +10,13 @@ The canonical OT1994 Records establish **93 named Chief assignments**, and the 3
 
 | Recipient | OT1994 named Chief assignments | OT1995 before February 21 | OT1995 already made at chunk 4 opening |
 |---|---:|---:|---:|
-| Stone-Zsela | 4 | 1 | 1 |
+| Stone-Zsela | 5 | 1 | 1 |
 | Stevens | 11 | 1 | 1 |
 | O'Connor | 14 | 12 | 12 |
 | Scalia | 5 | 1 | 1 |
 | Kennedy | 14 | 3 | 3 |
 | Souter | 18 | 5 | 5 |
-| Thomas | 6 | 2 | 3 |
+| Thomas | 5 | 2 | 3 |
 | Ginsburg | 13 | 3 | 4 |
 | Breyer | 8 | 0 | 0 |
 | **Total** | **93** | **28** | **30** |
@@ -278,7 +278,7 @@ Each assignment quotation in the preceding [bounded census](OT_1995CHUNK3_RESUME
 | [Freightliner_Corp_v_Myrick_merits_1995-04-18](../../OT1994/records/Freightliner_Corp_v_Myrick_merits_1995-04-18.md) | Ginsburg |
 | [Heintz_v_Jenkins_merits_1995-04-18](../../OT1994/records/Heintz_v_Jenkins_merits_1995-04-18.md) | Souter |
 | [Lanphere_and_Urbaniak_v_Colorado_merits_1995-04-18](../../OT1994/records/Lanphere_and_Urbaniak_v_Colorado_merits_1995-04-18.md) | Kennedy |
-| [Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18](../../OT1994/records/Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md) | Thomas |
+| [Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18](../../OT1994/records/Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md) | Stone-Zsela |
 | [Shalala_v_Whitecotton_merits_1995-04-18](../../OT1994/records/Shalala_v_Whitecotton_merits_1995-04-18.md) | O'Connor |
 | [Celotex_Corp_v_Edwards_merits_1995-04-19](../../OT1994/records/Celotex_Corp_v_Edwards_merits_1995-04-19.md) | Thomas |
 | [Kyles_v_Whitley_merits_1995-04-19](../../OT1994/records/Kyles_v_Whitley_merits_1995-04-19.md) | Souter |

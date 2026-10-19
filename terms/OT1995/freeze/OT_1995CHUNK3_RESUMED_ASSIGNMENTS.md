@@ -12,13 +12,13 @@ The preceding term has **93 named Chief-assigned opinions**. No Justice received
 
 | Recipient | OT1994 Chief assignments | Existing OT1995 before Jan. 17 | Existing OT1995 before Feb. 5 | Existing OT1995 before Feb. 12 |
 |---|---:|---:|---:|---:|
-| Stone-Zsela | 4 | 1 | 1 | 1 |
+| Stone-Zsela | 5 | 1 | 1 | 1 |
 | Stevens | 11 | 1 | 1 | 1 |
 | O'Connor | 14 | 9 | 10 | 10 |
 | Scalia | 5 | 1 | 1 | 1 |
 | Kennedy | 14 | 2 | 3 | 3 |
 | Souter | 18 | 5 | 5 | 5 |
-| Thomas | 6 | 1 | 1 | 1 |
+| Thomas | 5 | 1 | 1 | 1 |
 | Ginsburg | 13 | 2 | 3 | 3 |
 | Breyer | 8 | 0 | 0 | 0 |
 | **Total** | **93** | **22** | **25** | **25** |
@@ -488,9 +488,9 @@ All 101 OT1994 canonical Record filenames are accounted for below: 92 Records ha
 
 ### 1995-04-18 — Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18
 
-**Count classification:** Thomas. **Source:** [Record](../../OT1994/records/Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md), line 125.
+**Count classification:** Stone-Zsela. **Source:** [Record](../../OT1994/records/Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md), line 104.
 
-> Assignment: Stone belongs to the secure seven-Justice judgment coalition and assigns Thomas.
+> The Chief Justice, in the majority, assigns and writes the Opinion of the Court.
 
 ### 1995-04-18 — Shalala_v_Whitecotton_merits_1995-04-18
 

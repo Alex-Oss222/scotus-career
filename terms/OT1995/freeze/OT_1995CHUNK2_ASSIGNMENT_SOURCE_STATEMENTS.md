@@ -275,7 +275,7 @@ The Chief assigns a component when he joins its judgment majority; otherwise Ste
 
 ### OT1994/Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md
 
-Assignment: Stone belongs to the secure seven-Justice judgment coalition and assigns Thomas.
+The Chief Justice, in the majority, assigns and writes the Opinion of the Court.
 
 
 ### OT1994/Qualitex_Co_v_Jacobson_Products_Co_merits_1995-03-28.md

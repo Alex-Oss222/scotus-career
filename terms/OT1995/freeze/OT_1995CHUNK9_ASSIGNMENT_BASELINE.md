@@ -10,13 +10,13 @@ Engine §8 counts each opinion once as Chief-assigned if the Chief assigned any 
 
 | Recipient | OT1994 named Chief assignments | Existing OT1995 named Chief assignments |
 |---|---:|---:|
-| Stone-Zsela | 4 | 3 |
+| Stone-Zsela | 5 | 3 |
 | Stevens | 11 | 7 |
 | O'Connor | 14 | 22 |
 | Scalia | 5 | 5 |
 | Kennedy | 14 | 10 |
 | Souter | 18 | 16 |
-| Thomas | 6 | 9 |
+| Thomas | 5 | 9 |
 | Ginsburg | 13 | 11 |
 | Breyer | 8 | 1 |
 | **Total** | **93** | **84** |
@@ -1269,11 +1269,11 @@ Unattributed opinions have no named recipient; their drafting identity remains u
 
 ### Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18
 
-**Count classification:** Thomas.
+**Count classification:** Stone-Zsela.
 
-[Record](../../OT1994/records/Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md), line 125:
+[Record](../../OT1994/records/Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md), line 104:
 
-> Assignment: Stone belongs to the secure seven-Justice judgment coalition and assigns Thomas.
+> The Chief Justice, in the majority, assigns and writes the Opinion of the Court.
 
 ### Shalala_v_Whitecotton_merits_1995-04-18
 
