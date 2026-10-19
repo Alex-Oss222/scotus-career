@@ -4,9 +4,9 @@ All three opening trackers identify **Last completed October Term: 1995**, proce
 
 The [manifest](manifest.md) preserves all 153 supplied inventory events and the opening decision admitting 58 lower-court additions with no prior-term carryover. Completed rows reflect only canonical Records. Uncoordinated same-day events use a common entering-law baseline; navigation order creates no dependency. The initial divergence is October 7, 1991.
 
-Current completed-Court-event cursor: **1997-06-02**. Coverage: **105 Court events and 3 admitted sources**. Brown remains open for reargument under the April 28 order; its completed calendar event is carried forward without a new event date. The next unprocessed inventory row is:
+Current completed-Court-event cursor: **1997-06-02**. Coverage: **106 Court events and 3 admitted sources**. Brown remains open for reargument under the April 28 order; its completed calendar event is carried forward without a new event date. The next unprocessed inventory row is:
 
-| 1997-06-02 | OT_1996CHUNK9 | Boggs v. Boggs | 96-79 | MERITS | Argued appellate merits | Open; no completed Court action | Historical decision-date planning anchor | 1997-06-02 | Listed appellate matter; merits intake to verify | Common opening prerequisites |
+| 1997-06-02 | OT_1996CHUNK10 | Citizens for a Better Environment v. Steel Co. + | Seventh Circuit No. 96-1136 | MERITS | Authorized simulation lower-court merits grant | Open | Assigned preparation date | 1997-06-02 | Granted — to be heard on the merits | Common prerequisites; Standing State §4 questions and neutral merits record |
 
 The January 14 peers in chunk 3—Chamber of Commerce v. Reich, Castano, and In re Deuel—use the common pre-January-14 baseline. Atherton, Grimmett, Abebe-Jira, and Walters do not become their intervening law by processing order. Each later event must still receive any earlier-effective current-term holding it actually implicates. The remaining February 26 peers in chunk 5 likewise use the common pre-February-26 baseline: Wells does not become their intervening law through processing order. The February 18 inventory peers in chunk 4 - Uhlrig, Brockamp, Legi-Tech, and Ehrlich - use the common pre-February-18 baseline; the February 18 decisions in this chunk do not become intervening law by processing order.
 
@@ -5053,6 +5053,99 @@ Authority: [Record](../records/Arkansas_v_Farm_Credit_Services_of_Central_Arkans
 Federal instrumentality status, substantive tax immunity and entitlement to the sovereign's federal forum remain distinct. These privately owned lending associations must pursue their exemption claims through available lawful procedures outside this barred federal action. The decision leaves other federal agencies, special statutory jurisdictional grants, the substantive tax dispute and genuine state-remedy inadequacy questions unresolved.
 
 
+### 1997-06-02 — Boggs v. Boggs; No. 96-79
+
+Authority: [Record](../records/Boggs_v_Boggs_merits_1997-06-02.md).
+
+#### Opinion Topology
+
+| Writing or portion | Author | Joined by | Relationship and exact scope |
+|---|---|---|---|
+| Opinion of the Court: federal adjudicative route | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Eight direct joins in §1132(a)(1)(B) jurisdiction; Stone-Zsela agrees to reach the controversy without joining this ground |
+| Same opinion: survivor-annuity protection | Souter | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | All nine join the §1055 holding and reversal of this component |
+| Same opinion: pension receipts, IRA and ESOP claims, statutory qualifications and resulting merits mandate | Souter | Stevens, Scalia, Kennedy, Thomas | Five direct joins in the antecedent-transfer ground and reversal of these three components |
+| Same opinion: ancillary fee disposition | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Eight join the discretionary-fee explanation; Stone-Zsela agrees only with leaving the fee question for proceedings below |
+| Concurrence in part and dissent in part | Breyer | O'Connor, Ginsburg | Joins the Court's federal-route, survivor and fee portions; would affirm the other three preemption components subject to recipient-accounting limits |
+| Concurrence in part and dissent in part | Stone-Zsela | No other Justice | Joins the Court's survivor portion; would affirm the other three components and preserve an accounting for Dorothy's community one-half; jurisdiction and ancillary fees are disposition-only agreements |
+
+Every controlling proposition has a direct majority at the stated level of generality. No holding rests on combining the separate writings or on a narrowest-grounds rule.
+
+#### Holdings
+
+### Federal jurisdiction over the asserted survivor-benefit protection
+
+**Holding and operative rule:** A beneficiary's substantial claim to clarify and protect her rights to benefits under an ERISA plan presents a federal controversy under §1132(a)(1)(B), although the parties dispute how far that protection reaches property already distributed. The Declaratory Judgment Act alone supplies no independent jurisdiction.
+
+**Authority:** Souter's federal-route portion is joined by Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer: eight direct joins. Stone-Zsela agrees with reaching the controversy but adds no jurisdictional ground.
+
+**Controlling explanation:** Sandra receives the survivor annuity and seeks protection of that asserted plan entitlement against the sons' competing claim. Whether all four categories of property receive the federal protection claimed is a question about its reach, not a reason to deny that this benefits controversy exists. Guidry distinguishes uncertainty about an ancillary remedial theory from jurisdiction over a proper beneficiary action. The Court sustains this route without enlarging the terms of any separate equitable cause of action.
+
+**Precedent treatment:** Guidry v. Sheet Metal Workers National Pension Fund, 493 U.S. 365, is applied for the distinction between a proper benefits controversy and the scope of a particular remedy.
+
+### The protected survivor annuity cannot be diverted through the first spouse's succession
+
+**Holding and operative rule:** Section 1055 preempts enforcement of the sons' Dorothy-derived claim to any part of Sandra's protected survivor-annuity entitlement. The sons may not obtain that annuity share directly, after an installment is paid, through an accounting, or through an equivalent lump-sum award replacing the share.
+
+**Authority:** Souter's survivor portion is joined by all eight other Justices. All nine directly adopt this rule and reverse this component.
+
+**Controlling explanation:** The Court holds that the survivor protection follows the entitlement the statute secures, rather than the form in which a claimant asks to collect it. Section 1055 guarantees the applicable survivor annuity and protects the spouse's consent to its relinquishment. A qualified joint-and-survivor annuity pays the survivor for life at least 50 percent and no more than 100 percent of the annuity payable during joint lives, with the required actuarial equivalence. That range defines the protected benefit; it does not authorize outsiders to take part of the annuity actually due Sandra.
+
+The sons expressly seek a portion of that benefit. Calling the remedy an accounting, waiting until payment, or substituting its capital value leaves the same competing entitlement in place. The claim therefore conflicts with the particular federal protection, rather than merely affecting a plan economically. No qualifying waiver of Sandra's protection or applicable alternate-payee entitlement is established. The Court reverses the contrary declaration to this extent without treating all Sandra's property as immune from independent obligations.
+
+**Precedent treatment:** Travelers and Dillingham are applied to identify an actual statutory conflict, rather than to presume that general state property law is either always preempted or always protected.
+
+**Limits:** This holding concerns Sandra's protected survivor annuity, not the coverage of every other asset under §1055. The waiver rule requires written spousal consent acknowledging the election's effect, witnessed by a plan representative or notary, with the statutory protection against changing the beneficiary designation without further consent unless the consent permits that change. The consent exception requires establishment to the plan representative's satisfaction that there is no spouse, the spouse cannot be located, or another Treasury-prescribed circumstance prevents obtaining consent; consent or its excusal is effective only for that spouse. No such relinquishment is established here. The optional one-year marriage condition does not exclude Sandra on the stipulated chronology. The Court applies the protection governing this annuity without applying later consent amendments backward or deciding any other asset's coverage or waiver.
+
+### The three other claims remain dependent on the impermissible interest in undistributed benefits
+
+**Holding and operative rule:** ERISA preempts these claims to pension installments paid to Isaac, the rollover IRA and the distributed ESOP shares because each depends on giving effect to Dorothy's asserted succession-based transfer of an interest in then-undistributed plan benefits outside the applicable federal beneficiary and anti-alienation provisions. Subsequent distribution changes the asset's custody or form but does not validate that antecedent transfer; the rule does not decide a claim arising from a genuinely independent later obligation.
+
+**Authority:** Souter's portion concerning these three claims is joined by Stevens, Scalia, Kennedy and Thomas. Those five directly adopt the rule, its qualifications and reversal of each component. Stone-Zsela, O'Connor, Ginsburg and Breyer dissent from these holdings.
+
+**Controlling explanation:** The Court holds that the legal source of the asserted right matters here. Each claim rests on Dorothy's supposed interest in Isaac's undistributed pension benefits and its passage at her death. Describing the sons as heirs under state law rather than voluntary assignees does not resolve whether federal law permits that interest to be enforced. Section 1056(d)'s prohibition, ERISA's identified beneficiaries and its defined domestic-relations exceptions foreclose the asserted route on this record.
+
+Guidry enforces the pension protection without a judicial equitable exception; Mackey preserves the distinction between pension benefits and welfare benefits subject to ordinary collection. Travelers and Dillingham reject limitless relatedness, but their actual-conflict inquiry leaves these enacted protections operative. Board of Trade shows why separate administration alone cannot save an obligation whose legal measure invades protected benefits. Inter-Modal likewise preserves the independent work of an enacted ERISA command.
+
+The strongest contrary argument is that relief against recipients after lawful payment leaves the plan untouched and respects existing state ownership. But these claims enforce the same asserted prepayment title; they do not arise from a later independent bargain, tort, loan or gift. That distinction applies to the lifetime checks, to cash rolled into the IRA and to stock delivered under the ESOP. The Court need not hold that the IRA remains an ERISA plan or that all property traceable to a pension is permanently protected. It reverses the rejection of preemption of these particular claims and reserves independent obligations and genuinely applicable statutory exceptions.
+
+**Precedent treatment:** Guidry and Mackey retain their pension-protection and pension/welfare distinctions. Travelers, Dillingham, Board of Trade and Inter-Modal are applied at their actual statutory-conflict boundaries; none is enlarged into a general federal succession code.
+
+**Operative statutory qualifications and limits:** Section 1056(d)(2) excepts a voluntary, revocable assignment of no more than ten percent of a benefit payment and an irrevocable assignment or alienation executed before September 2, 1974, but not an assignment made to defray plan administration costs. A loan to a participant or beneficiary secured by the participant's accrued nonforfeitable benefit is not an assignment if exempt from the prohibited-transaction tax under 26 U.S.C. §4975(d)(1). None describes the transfer asserted here.
+
+A qualified domestic relations order under §1056(d)(3) can create or recognize an alternate payee's right to support, alimony or marital property for a spouse, former spouse, child or other dependent through state domestic-relations law, including community-property law. It must give the participant's name and last known mailing address, if any; each alternate payee's name and mailing address; the amount or percentage or means of determining it; the number of payments or period; and each plan affected. It may not require an unprovided benefit type, form or option, increased actuarial benefits, or payment already required to another alternate payee under a previously qualified order. A qualifying alternate payee is a beneficiary, and §1144(b)(7) preserves the linked preemption exception. The Court does not hold that the label probate by itself disqualifies every order.
+
+The distinct REA §303(d) transition requires treatment of a pre-January 1, 1985 domestic relations order as qualified when the administrator was paying benefits pursuant to it on that date. The administrator may treat another earlier order as qualified even without compliance with the amendments' requirements. The 1980 succession order's date alone establishes neither the required payment predicate nor exercise of the permissive authority; permission is not a command. The Court does not direct qualification or a new administrator proceeding, and the ordinary qualification, segregation and determination provisions do not themselves establish that this order was recognized or paid.
+
+The operative succession claim arose with Dorothy's 1979 death and the 1980 order; earlier employment alone does not establish an independent pre-1975 cause of action or act preserved from ERISA. Section 408(g) governs application of the IRA tax section without regard to community-property law; §408(d)(6) separately governs tax treatment of a transfer incident to divorce. Neither supplies the Court's property rule here. The Court decides no taking, preservation of a takings claim, compensation, precise vesting date, separate life-insurance claim, asset valuation or final state-law accounting fraction. No administrator recognition or payment is established beyond the record described above.
+
+### Consequential fee proceedings remain discretionary
+
+**Holding and operative rule:** Reversal of Sandra's merits loss permits consequential consideration of her §1132(g)(1) fee request on remand under that provision's discretion; it does not award fees, fix an amount or create an automatic prevailing-party entitlement.
+
+**Authority:** Souter's ancillary-fee portion is joined by Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer: eight direct joins including the author. Stone-Zsela agrees only with leaving that question for proceedings below.
+
+**Controlling explanation:** The lower fee denial followed the rejection of Sandra's preemption claim. Once that merits premise is reversed, the fee question returns with the case, but the statute's discretionary character remains. The Court determines neither entitlement nor amount and supplies no new fee test.
+
+**Precedent treatment:** No earlier decision's fee rule is changed.
+
+#### Precedent Treatment
+
+- **Guidry v. Sheet Metal Workers National Pension Fund, 493 U.S. 365 (1990):** Applies the enacted pension prohibition and refusal to create an equitable exception; it also supports jurisdiction over a proper beneficiary controversy. It does not itself settle every obligation arising after distribution.
+- **Mackey v. Lanier Collection Agency & Service, Inc., 486 U.S. 825 (1988):** Preserves the distinction between welfare-plan collection and Congress's special pension protection; ordinary collection rules do not erase that distinction.
+- **New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co., April 26, 1995:** Applies the distinction between ordinary economic effects and a concrete benefit or enforcement conflict. General applicability is no categorical defense, and the remote-effects boundary remains intact.
+- **California Division of Labor Standards Enforcement v. Dillingham Construction, N.A., Inc., February 18, 1997:** Applies its actual-operation inquiry; the Court identifies an enacted benefit conflict rather than economic inducement alone.
+- **District of Columbia v. Greater Washington Board of Trade, December 14, 1992:** Applies the principle that separate administration does not save an obligation whose legal operation intrudes on protected plan benefits. Its particular covered-plan benchmark holding remains unchanged.
+- **Inter-Modal Rail Employees Association v. Atchison, Topeka & Santa Fe Railway Co., May 12, 1997:** Applies the independent force of an ERISA statutory command. Its welfare-interference holding does not itself decide succession or pension ownership.
+
+No cited precedent is overruled. The decision does not rely on a holding of Hisquierdo to resolve these claims.
+
+#### Law After Decision
+
+From June 2, 1997, the sons' asserted share of Sandra's survivor annuity is unenforceable in direct, accounting or substitute lump-sum form. The three claims to property already distributed are also preempted because their asserted legal source is the impermissible succession interest in undistributed pension benefits. Independent postdistribution obligations remain outside the holding, as do general ownership of IRA assets and state succession law unrelated to that asserted source.
+
+The Court adds this application of ERISA's survivor, beneficiary and anti-alienation provisions. It leaves Travelers' and Dillingham's distinction between ordinary economic influence and operative conflict, Board of Trade's covered-plan benchmark rule, and Inter-Modal's distinct statutory protection unchanged. The statutory exceptions retain their own predicates. The remedy is reversal and a confined remand, not a quantified property award, a new federal probate system or an automatic attorney's-fee award.
+
+
 ### 1997-06-02 — De Buono v. NYSA-ILA Medical and Clinical Services Fund; No. 95-1594; 74 F.3d 28 (2d Cir. 1996)
 
 Authority: [Record](../records/De_Buono_v_NYSA_ILA_Medical_and_Clinical_Services_Fund_merits_1997-06-02.md).
@@ -5883,6 +5976,19 @@ Authority: [Record](../records/Arkansas_v_Farm_Credit_Services_of_Central_Arkans
 No separate opinion is filed.
 
 
+### 1997-06-02 — Boggs v. Boggs; No. 96-79
+
+Authority: [Record](../records/Boggs_v_Boggs_merits_1997-06-02.md).
+
+**Justice Breyer, concurring in part and dissenting in part, joined by Justices O'Connor and Ginsburg.** They join the Court's federal-route, survivor-annuity and ancillary-fee portions. Section 1055 forecloses the actual demand for Sandra's annuity share even when sought by accounting or as its lump-sum equivalent. They would nevertheless affirm rejection of preemption for the lifetime pension receipts, rollover IRA and delivered ESOP shares insofar as the accounting runs only against recipients or Isaac's succession, leaves future plan payments and duties unchanged, and excludes Sandra's protected annuity.
+
+In their view, Louisiana ownership and usufruct rules can impose that recipient obligation without creating a new plan beneficiary. Guidry forbids a constructive trust on a pension but does not resolve every duty to account after distribution. Mackey requires attention to the statutory categories. Travelers and Dillingham require interference with a protected operation, while Board of Trade's mandated covered-plan benchmark differs from an ordinary succession accounting. Their answer to the Court's antecedent-title argument is that recognition of a recipient's obligation after lawful payment is distinct from enforcing an assignment against the plan. They claim neither a general domestic-relations exemption nor immunity merely because the plan is not a defendant. Their proposed limitation is a legal condition on permissible relief, not a finding that the sons abandoned the annuity claim. They would remand within those limits without fixing an amount.
+
+**Chief Justice Stone-Zsela, concurring in part and dissenting in part.** He joins the survivor-annuity holding: the sons may not recover Sandra's protected annuity share directly, through an accounting or through an equivalent lump-sum award. He would reverse only that component, affirm the remainder and remand for an accounting confined to Dorothy's community one-half interest in pension installments paid to Isaac, the IRA and distributed ESOP property. Isaac's own half and the remaining community assets after satisfaction of the legatees' claim would remain in his succession for disposition under Louisiana law.
+
+He reasons that family, property and probate law retain their ordinary force unless Congress clearly displaces their particular operation. Louisiana's general ownership rule neither singles out plans nor changes their fiduciary duties. In his view Dorothy's interest arose by operation of community-property law, not assignment, and the pension anti-alienation provision does not bar this later accounting against the succession. The domestic-relations-order exception does not itself turn probate transfers into prohibited alienation; the availability of a comparable division on divorce reinforces his objection. Travelers' rejection of indiscriminate remote-effect preemption is consistent with this position but does not decide the case. He relies on the text and purposes of §§1055 and 1056(d), not on a holding of Hisquierdo. Beyond the survivor demand resolved here, he decides no additional §1055 question, including whether another asset falls outside that section or was waived. Protecting Sandra's annuity does not extinguish the three separate claims, and he adopts no rule that every community-property claim survives ERISA. He agrees with reaching the federal controversy and leaving ancillary fees for proceedings below without adding grounds for either disposition.
+
+
 ### 1997-06-02 — De Buono v. NYSA-ILA Medical and Clinical Services Fund; No. 95-1594; 74 F.3d 28 (2d Cir. 1996)
 
 Authority: [Record](../records/De_Buono_v_NYSA_ILA_Medical_and_Clinical_Services_Fund_merits_1997-06-02.md).
@@ -6505,6 +6611,13 @@ Authority: [Record](../records/Arkansas_v_Farm_Credit_Services_of_Central_Arkans
 The case returns for implementation of dismissal of the federal injunction and declaration action for lack of jurisdiction. The state courts may adjudicate properly presented federal exemption claims subject to their lawful procedures. The Court orders no refund, tax payment, joinder, new deadline, evidentiary proceeding or result in the parallel state action, and decides no hypothetical future sovereign suit.
 
 
+### 1997-06-02 — Boggs v. Boggs; No. 96-79
+
+Authority: [Record](../records/Boggs_v_Boggs_merits_1997-06-02.md).
+
+The Fifth Circuit's judgment rejecting preemption is reversed and the case returns for proceedings consistent with the four claim-specific holdings. The remand does not direct an accounting recovery, assign property fractions, order qualification of the succession decree, require a new administrative proceeding or fix attorney's fees. Any genuinely independent claim or actually applicable statutory exception remains governed by its own terms; the rejected Dorothy-derived theory may not be reinstated by changing its remedial label. No new filing deadline or further Supreme Court proceeding is ordered.
+
+
 ### 1997-06-02 — De Buono v. NYSA-ILA Medical and Clinical Services Fund; No. 95-1594; 74 F.3d 28 (2d Cir. 1996)
 
 Authority: [Record](../records/De_Buono_v_NYSA_ILA_Medical_and_Clinical_Services_Fund_merits_1997-06-02.md).
@@ -6534,4 +6647,4 @@ The lower courts must implement the classification rule within the established f
 
 ## Scope and cutoff
 
-Use only events effective before the matter being modeled; same-day peer order creates no intervening holding. Each Record retains its event-date research cutoff. Coverage is 105 Court events and three admitted sources through 1997-06-02. This projection contains public law, published separate positions and public procedure only. Remaining inventory entries are pending, with no outcome inferred.
+Use only events effective before the matter being modeled; same-day peer order creates no intervening holding. Each Record retains its event-date research cutoff. Coverage is 106 Court events and three admitted sources through 1997-06-02. This projection contains public law, published separate positions and public procedure only. Remaining inventory entries are pending, with no outcome inferred.

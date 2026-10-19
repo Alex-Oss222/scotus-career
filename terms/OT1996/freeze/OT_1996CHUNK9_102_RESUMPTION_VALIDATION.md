@@ -1,0 +1,26 @@
+# Boggs assembly resumption validation
+
+**Scope:** OT1996 inventory No. 102, Boggs v. Boggs, No. 96-79; one merits event in its existing June 2, 1997 slot. This is an internal receipt, not a new Court event. The original stopped-assembly artifact remains as the historical handoff; its blocker is resolved by the completed Record.
+
+**Decision:** [Canonical Decision Record](../records/Boggs_v_Boggs_merits_1997-06-02.md). The Fifth Circuit judgment is reversed and remanded: all nine Justices support preemption of the claimed survivor-annuity share, including its accounting and equivalent-lump-sum forms; Stevens, Scalia, Kennedy, Souter and Thomas support preemption of the pension-receipt, rollover-IRA and distributed-ESOP claims. Stone-Zsela, O'Connor, Ginsburg and Breyer dissent from the latter three components. Souter delivers the lead opinion; the exact partial joins and two separate writings are in the Record.
+
+## Stage and substantive validation
+
+- Reused the validated neutral packet, frozen independent commitments, claim-scope addendum and final reconciliation without changing their bytes or any Associate's frozen position.
+- Copied only No. 102 from the already regenerated aggregate Stone runtime into the stale scoped handoff. The [copy receipt](OT_1996CHUNK9_102_V2_STONE_COPY_RECEIPT.json) records the mechanical operation. No brief was edited. The specific approved Version 2 survivor issue and disposition govern the retained contrary factual sentence in the older portion of that supplement.
+- A fresh assembly context received the scoped authorized handoffs, applied Version 2, and wrote the Record. An independent reviewer then read the Record against Version 2, the frozen reconciliation and claim-scope addendum and found no remaining discrepancy in votes, joins, Stone attribution, holdings, statutory qualifications or remedy.
+- Two independent recounts agreed: 89 qualifying prior signed plenary lead opinions and 90 author credits, ending with Arkansas on June 2. Counts before Boggs were Stone-Zsela 11, Stevens 9, O'Connor 11, Scalia 9, Kennedy 10, Souter 10, Thomas 10, Ginsburg 10 and Breyer 10. The Record states the component-specific assigning authorities, eligible authors and pools, and the concrete fit basis for Souter. Earlier committed assignments remain unchanged.
+- The [assembly receipt](OT_1996CHUNK9_102_V2_ASSEMBLY_VALIDATION.json) records immutable inputs, numerical checks, exact identity of all eleven public blocks with their internal counterparts, local links and explanation lengths. The four ordinary controlling explanations are within the 350-word ceiling.
+- The [dependency review](OT_1996CHUNK9_102_DEPENDENCY_REVIEW.md) covers every existing Record on or after June 2. All five are uncoordinated June 2 peers. No result, reasoning, remedy or procedural premise is displaced; no entering-law note requires correction. Their historical assignment accounts remain descriptions of the baselines actually used.
+
+## Integration and deterministic checks
+
+The original ledger builder ran through the [task-local no-Git adapter](../runtime/OT_1996CHUNK9_BOGGS_NO_GIT_TOOLS.py). It preserved all 108 previous row positions and provenance cells and appended Boggs as operator-commit-pending. The original manifest builder then updated only Boggs's inventory status. No date, inventory item or other Record changed. The cumulative continuity and neutral projections copied the new Record's public law, exact opinion relationships, separate positions and procedure. They now cover 106 Court events and three admitted sources. Gaydos, Vey and Brown retain their distinct existing open procedural matters; the next unprocessed inventory event is in chunk 10.
+
+The original Render Input builder generated [the complete eleven-event chunk 9 handoff](../render-inputs/OT_1996CHUNK9.md) from all eleven Records, with no stopped-matter metadata. No output file was edited or rendered.
+
+The original check_term logic ran through the no-Git adapter and passed all non-Git checks, including Holdings-volume synchronization, runtime split freshness, manifest coverage, Record interfaces and Public Projection/Render Input identity. See [ledger execution](OT_1996CHUNK9_BOGGS_NO_GIT_LEDGER_VALIDATION.md) and [term-check execution](OT_1996CHUNK9_BOGGS_NO_GIT_CHECK_VALIDATION.md).
+
+**Git limitation:** No Git command was run. The original tools' Git hooks alone were replaced in memory. Existing provenance was retained without verification; 33 candidate-reference checks were explicitly deferred rather than reported as passed or missing. Git verification and commit remain with the operator under the express task instruction. This is not an unresolved substantive matter.
+
+**Preservation check:** The [integrity check](../runtime/boggs_verify.py) passed with no errors. Its [machine-readable result](OT_1996CHUNK9_102_RESUMPTION_INTEGRITY.json) verifies 178 protected baseline files, all 108 preexisting Records unchanged, exactly one new Record, all 153 inventory events retained, eleven completed chunk 9 entries, all ten other chunk 9 public projections unchanged, and 27 local links resolved. The protected case list, briefs, public output, foundation and state files remain unchanged. Only the four authorized workspace projections changed within that protected baseline set.

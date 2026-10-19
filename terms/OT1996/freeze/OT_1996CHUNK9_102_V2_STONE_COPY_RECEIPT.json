@@ -1,0 +1,9 @@
+{
+  "source": "terms/OT1996/runtime/OT_1996CHUNK9_STONE.md",
+  "target": "terms/OT1996/runtime/OT_1996CHUNK9_102_STONE.md",
+  "method": "Mechanical complete No.102 section copy from regenerated approved aggregate; no substantive editing",
+  "source_sha256": "1227cad7558eb297eaac2fa1e1aac4187ba6a79f66285183f21e928d599bc983",
+  "prior_target_sha256": "754cad4430f61216de519fc8bf275200290c47a00ab8f0421b103bc7d579dd8b",
+  "target_sha256": "89cd3bba59370c54adb887ab256b413dabf72b98f3848db7b11c98761d253558",
+  "approval": "Version 2; October 18, 2026; user supplied commit 1ca4f0e9; no Git command run"
+}

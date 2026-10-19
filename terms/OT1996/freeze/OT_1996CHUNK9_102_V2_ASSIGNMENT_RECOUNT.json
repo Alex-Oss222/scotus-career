@@ -1,0 +1,961 @@
+{
+  "status": "fresh recount from original opinion tables; adjudicative eligibility determined by assembly",
+  "event": "Boggs v. Boggs, 1997-06-02",
+  "cutoff": "earlier dates; same date alphabetical case-name predecessors only",
+  "prior_records_reviewed": 104,
+  "counted_leads": 89,
+  "author_credits": 90,
+  "counts": {
+    "Stone-Zsela": 11,
+    "Stevens": 9,
+    "O'Connor": 11,
+    "Scalia": 9,
+    "Kennedy": 10,
+    "Souter": 10,
+    "Thomas": 10,
+    "Ginsburg": 10,
+    "Breyer": 10
+  },
+  "last_counted": {
+    "date": "1997-06-02",
+    "case": "**Case and dockets:** Arkansas v. Farm Credit Services of Central Arkansas; No. 95-1918; 76 F.3d 961 (8th Cir. 1996)",
+    "file": "terms/OT1996/records/Arkansas_v_Farm_Credit_Services_of_Central_Arkansas_merits_1997-06-02.md",
+    "authors": [
+      "Breyer"
+    ],
+    "sha256": "73d03054aae9cbfcf7e9f6142aaefc762c69d0ee2b437d7992a59b4092875b15"
+  },
+  "whole_lead_eligible": [
+    "Stevens",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas"
+  ],
+  "whole_lead_pool": [
+    "Stevens",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas"
+  ],
+  "federal_route_and_fee_eligible": [
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "federal_route_and_fee_pool": [
+    "Stevens",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "survivor_eligible": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "survivor_pool": [
+    "Stevens",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "chosen": "Souter",
+  "assignment_authorities": {
+    "federal route, survivor, fees": "Chief Justice Stone-Zsela",
+    "P/I/E and their merits mandate": "Stevens"
+  },
+  "classification_notes": [
+    "LAVAS, Lynce, Tyler Murray and Humane Society are signed plenary threshold leads and count.",
+    "Roy is signed but summary and does not count.",
+    "Robinette partial-join row is not Stone authorship.",
+    "Kinman has two delivering authors, each counted once.",
+    "Stopped Boggs had no Record and no counted assignment.",
+    "No earlier assignment is changed. Later event dates are excluded even when their Records already exist."
+  ],
+  "counted": [
+    {
+      "date": "1996-10-21",
+      "case": "**Case and dockets:** Department of State v. Legal Assistance for Vietnamese Asylum Seekers, Inc.; No. 95-1521",
+      "file": "terms/OT1996/records/Department_of_State_v_Legal_Assistance_for_Vietnamese_Asylum_Seekers_post_grant_remand_1996-10-21.md",
+      "authors": [
+        "Stevens"
+      ],
+      "sha256": "3a2f4a16a7bbe237f708d305b34ab124614de1fb40e50cb8572f2cc6ac28e603"
+    },
+    {
+      "date": "1996-11-06",
+      "case": "**Case and dockets:** Lopez v. Monterey County; No. 95-1201",
+      "file": "terms/OT1996/records/Lopez_v_Monterey_County_merits_1996-11-06.md",
+      "authors": [
+        "Kennedy"
+      ],
+      "sha256": "c3c30b7e0bce34020ca8ebb88383a3e1e5eb26d026c9fd6f7dd0eeaf2dc4c156"
+    },
+    {
+      "date": "1996-11-13",
+      "case": "**Case and dockets:** INS v. Yueh-Shaio Yang, No. 95-938; October Term 1996.",
+      "file": "terms/OT1996/records/INS_v_Yueh_Shaio_Yang_merits_1996-11-13.md",
+      "authors": [
+        "Souter"
+      ],
+      "sha256": "7b8085bb1795281e3a6d299e27f25d6692fb962b38553a04cc8eb4a039f3c551"
+    },
+    {
+      "date": "1996-11-18",
+      "case": "**Case and dockets:** Ohio v. Robinette; No. 95-891",
+      "file": "terms/OT1996/records/Ohio_v_Robinette_merits_1996-11-18.md",
+      "authors": [
+        "O'Connor"
+      ],
+      "sha256": "a817289e988375d2ae3bb7725c4a4bdd6036d1a82e5595a8afcfc4680f875ab9"
+    },
+    {
+      "date": "1996-11-25",
+      "case": "**Case and dockets:** Hopwood v. Texas; Fifth Circuit No. 94-50664, 78 F.3d 932; no invented Supreme Court docket; OT1996, chunk 1, matter 6.",
+      "file": "terms/OT1996/records/Hopwood_v_Texas_merits_1996-11-25.md",
+      "authors": [
+        "O'Connor"
+      ],
+      "sha256": "9bd899b1334cca54618605b1483603a4384e5719e118b4916e0c639f7e90a840"
+    },
+    {
+      "date": "1996-12-02",
+      "case": "**Case and dockets:** Tyler Murray v. Montrose County School District RE-1J; Tenth Circuit Nos. 93-1466 and 93-1474; no Supreme Court docket assigned.",
+      "file": "terms/OT1996/records/Tyler_Murray_v_Montrose_County_School_District_merits_1996-12-02.md",
+      "authors": [
+        "Scalia"
+      ],
+      "sha256": "19642bff3171221127cb04fcd63e2633cfdbd59166bd69980c6674482e87b2db"
+    },
+    {
+      "date": "1996-12-09",
+      "case": "**Case and dockets:** Humane Society v. Babbitt; D.C. Circuit No. 93-5339; District of Columbia No. 92-cv-0952; no Supreme Court docket assigned.",
+      "file": "terms/OT1996/records/Humane_Society_v_Babbitt_merits_1996-12-09.md",
+      "authors": [
+        "Souter"
+      ],
+      "sha256": "3b7987020469314e8e925a400d21e631a4ec3c0b63b89c5b17ffc1f25a1883c1"
+    },
+    {
+      "date": "1996-12-09",
+      "case": "**Case and dockets:** In re Askin; Fourth Circuit No. 94-5428, 47 F.3d 100; no separate Supreme Court docket supplied; October Term 1996.",
+      "file": "terms/OT1996/records/In_re_Askin_merits_1996-12-09.md",
+      "authors": [
+        "Scalia"
+      ],
+      "sha256": "dee42d9657575f18055b33e7708e2d17e03d56442095d504c3d8b4074b79145d"
+    },
+    {
+      "date": "1996-12-10",
+      "case": "**Case and dockets:** Caterpillar Inc. v. Lewis; No. 95-1263.",
+      "file": "terms/OT1996/records/Caterpillar_v_Lewis_merits_1996-12-10.md",
+      "authors": [
+        "O'Connor"
+      ],
+      "sha256": "a23edf092db827ef6848d5a3bbac78c7e337716abe63f4a9700896b62b75c688"
+    },
+    {
+      "date": "1996-12-10",
+      "case": "**Case and dockets:** O'Gilvie v. United States; Nos. 95-966 and 95-977",
+      "file": "terms/OT1996/records/Ogilvie_v_United_States_merits_1996-12-10.md",
+      "authors": [
+        "Stevens"
+      ],
+      "sha256": "57e4f3e93dc685229c2a6f62a2ba97a7e50bdcd2174d1402db346cba61d688c7"
+    },
+    {
+      "date": "1996-12-16",
+      "case": "**Case and dockets:** M.L.B. v. S.L.J.; No. 95-853",
+      "file": "terms/OT1996/records/MLB_v_SLJ_merits_1996-12-16.md",
+      "authors": [
+        "O'Connor"
+      ],
+      "sha256": "b67f09077eff71855995ef1ef2fbc2775ebed8bf21f106cb2cd59299233e01b4"
+    },
+    {
+      "date": "1996-12-16",
+      "case": "**Case and dockets:** United States v. Sahhar; Ninth Circuit Nos. 94-50186 and 94-50356; separate Supreme Court docket unassigned",
+      "file": "terms/OT1996/records/United_States_v_Sahhar_merits_1996-12-16.md",
+      "authors": [
+        "Souter"
+      ],
+      "sha256": "9e4e8b42723817749f3e01b39b33ee1c14ebccb19e633f5a9610c324f469e2ff"
+    },
+    {
+      "date": "1997-01-06",
+      "case": "**Case and dockets:** DeAngelis v. El Paso Municipal Police Officers' Association; Fifth Circuit No. 93-8700, 51 F.3d 591; no separate Supreme Court docket supplied",
+      "file": "terms/OT1996/records/DeAngelis_v_El_Paso_Association_merits_1997-01-06.md",
+      "authors": [
+        "O'Connor"
+      ],
+      "sha256": "cb94d6d11e56fe85ce14e78af5c97c514d46c92b38d32d7549455a97e9776091"
+    },
+    {
+      "date": "1997-01-07",
+      "case": "**Case and dockets:** Old Chief v. United States; No. 95-6556",
+      "file": "terms/OT1996/records/Old_Chief_v_United_States_merits_1997-01-07.md",
+      "authors": [
+        "Ginsburg"
+      ],
+      "sha256": "b9f59c591d93699fee3c18bca65e6053bcd16c890d758ab129fa13f3b286f229"
+    },
+    {
+      "date": "1997-01-13",
+      "case": "**Case and dockets:** Walmer v. Department of Defense; Tenth Circuit No. 93-3377, 52 F.3d 851; no separate Supreme Court docket supplied",
+      "file": "terms/OT1996/records/Walmer_v_Department_of_Defense_merits_1997-01-13.md",
+      "authors": [
+        "O'Connor"
+      ],
+      "sha256": "9ab49b0afe80d82533993235983e0af9c5160dacbd6000426b4a7cff96b2b3e2"
+    },
+    {
+      "date": "1997-01-14",
+      "case": "**Case and dockets:** Abebe-Jira v. Negewo, No. 95-8873; Eleventh Circuit No. 93-9133.",
+      "file": "terms/OT1996/records/Abebe_Jira_v_Negewo_merits_1997-01-14.md",
+      "authors": [
+        "Stevens"
+      ],
+      "sha256": "66277c3cdcdb264770746357a4ffbaeec820d187c4269fa20f20b55c86e9ce14"
+    },
+    {
+      "date": "1997-01-14",
+      "case": "**Case and dockets:** Atherton v. Federal Deposit Insurance Corporation, No. 95-928.",
+      "file": "terms/OT1996/records/Atherton_v_FDIC_merits_1997-01-14.md",
+      "authors": [
+        "Scalia"
+      ],
+      "sha256": "18c26a1b1835012f2127c471e3524121bc774a3580cfa20b287cdd2a6df5f1cb"
+    },
+    {
+      "date": "1997-01-14",
+      "case": "**Case and dockets:** Castano v. American Tobacco Co.; Fifth Circuit No. 95-30725; 84 F.3d 734; interlocutory appeal under 28 U.S.C. §1292(b).",
+      "file": "terms/OT1996/records/Castano_v_American_Tobacco_Co_merits_1997-01-14.md",
+      "authors": [
+        "Ginsburg"
+      ],
+      "sha256": "b8f6833a711020131aaeadd2c51b65ad8ec033bf29a3d6890b6782ef93cbe23a"
+    },
+    {
+      "date": "1997-01-14",
+      "case": "**Case and dockets:** Chamber of Commerce v. Reich; D.C. Circuit No. 95-5242; 74 F.3d 1322; no Supreme Court docket number assigned.",
+      "file": "terms/OT1996/records/Chamber_of_Commerce_v_Reich_merits_1997-01-14.md",
+      "authors": [
+        "Kennedy"
+      ],
+      "sha256": "049ff3c52fcd6ea14c67079d459eb9db452ddfa411ec97af8ceef39516894513"
+    },
+    {
+      "date": "1997-01-14",
+      "case": "**Case and dockets:** In re Deuel; Federal Circuit No. 94-1202; 51 F.3d 1552; application 07/542,232; no Supreme Court docket number assigned.",
+      "file": "terms/OT1996/records/In_re_Deuel_merits_1997-01-14.md",
+      "authors": [
+        "O'Connor"
+      ],
+      "sha256": "875e5e3a271f9609194488ee15dd798870c01e90722536e94207b23adf2db8f3"
+    },
+    {
+      "date": "1997-01-14",
+      "case": "**Case and dockets:** Walters v. Metropolitan Educational Enterprises, Inc., No. 95-259; Equal Employment Opportunity Commission v. Metropolitan Educational Enterprises, Inc., No. 95-779.",
+      "file": "terms/OT1996/records/Walters_v_Metropolitan_Educational_Enterprises_merits_1997-01-14.md",
+      "authors": [
+        "Souter"
+      ],
+      "sha256": "a3345454b4fbd2470f866dac75794f94d956057590da4c61dace7c9d6cfe6f0e"
+    },
+    {
+      "date": "1997-01-21",
+      "case": "**Case and dockets:** Babbitt v. Youpee, No. 95-1595; OT1996.",
+      "file": "terms/OT1996/records/Babbitt_v_Youpee_merits_1997-01-21.md",
+      "authors": [
+        "O'Connor"
+      ],
+      "sha256": "8e29ec51ad1a1febb4fd2e322526e6a399d4cc97339076e80ce4f0dc94268b22"
+    },
+    {
+      "date": "1997-01-21",
+      "case": "**Case and dockets:** Elizabeth G. Curtis v. School Committee of Falmouth; historical petition identifier No. 95-617; no separate merits docket assigned; OT1996.",
+      "file": "terms/OT1996/records/Curtis_v_School_Committee_of_Falmouth_merits_1997-01-21.md",
+      "authors": [
+        "Souter"
+      ],
+      "sha256": "0bf73d879fa1fa924493ebb1a4ef7cddad42dbe8f9672c86d46c952b1a75fdd3"
+    },
+    {
+      "date": "1997-01-27",
+      "case": "**Case and dockets:** ProCD, Inc. v. Zeidenberg; Seventh Circuit No. 96-1139, 86 F.3d 1447; District Court judgment, 908 F. Supp. 640. No separate Supreme Court docket number assigned.",
+      "file": "terms/OT1996/records/ProCD_v_Zeidenberg_merits_1997-01-27.md",
+      "authors": [
+        "Ginsburg"
+      ],
+      "sha256": "e990d810bdee7760137b03633bcafe37c5ce4839c62f0a79676ba1856b03422a"
+    },
+    {
+      "date": "1997-02-18",
+      "case": "**Case and dockets:** California Division of Labor Standards Enforcement v. Dillingham Construction, N.A., Inc.; No. 95-789; OT1996, chunk 3, matter 32.",
+      "file": "terms/OT1996/records/California_Division_of_Labor_Standards_Enforcement_v_Dillingham_merits_1997-02-18.md",
+      "authors": [
+        "Souter"
+      ],
+      "sha256": "aa3afc7627f08ca4976f581daaff735efe26faff41ba320f187a760674f1b846"
+    },
+    {
+      "date": "1997-02-18",
+      "case": "**Case and dockets:** Federal Election Commission v. Legi-Tech, Inc.; D.C. Circuit Nos. 94-5379 and 95-5085, 75 F.3d 704; no separate Supreme Court docket supplied.",
+      "file": "terms/OT1996/records/FEC_v_Legi_Tech_merits_1997-02-18.md",
+      "authors": [
+        "Thomas"
+      ],
+      "sha256": "36d31a1783339eedf178f5eb4ec93c30d991beeb9c69237a8ab6e279728ad939"
+    },
+    {
+      "date": "1997-02-18",
+      "case": "**Case and dockets:** General Motors Corp. v. Tracy; No. 95-1232.",
+      "file": "terms/OT1996/records/General_Motors_v_Tracy_merits_1997-02-18.md",
+      "authors": [
+        "Souter"
+      ],
+      "sha256": "09833edbc410b4789d282d41e2aa371b220af6a76f87d50c7e38061c1fb3ee4e"
+    },
+    {
+      "date": "1997-02-18",
+      "case": "**Case and dockets:** Ingalls Shipbuilding, Inc. v. Director, Office of Workers' Compensation Programs; No. 95-1081.",
+      "file": "terms/OT1996/records/Ingalls_Shipbuilding_v_Director_OWCP_merits_1997-02-18.md",
+      "authors": [
+        "O'Connor"
+      ],
+      "sha256": "9c1fb9e13c2105dfaf7e1d7428482043b0c2d52107dbb2fffd4896a267f6e827"
+    },
+    {
+      "date": "1997-02-18",
+      "case": "**Case and dockets:** Robinson v. Shell Oil Co.; No. 95-1376.",
+      "file": "terms/OT1996/records/Robinson_v_Shell_Oil_merits_1997-02-18.md",
+      "authors": [
+        "Souter"
+      ],
+      "sha256": "13b5cb0e38cce4ffbcbae646ba7b9387187e9895d9b664ada12a51182432e98b"
+    },
+    {
+      "date": "1997-02-18",
+      "case": "**Case and dockets:** Uhlrig v. Harder; Tenth Circuit No. 94-3190, 64 F.3d 567; no separate Supreme Court docket supplied.",
+      "file": "terms/OT1996/records/Uhlrig_v_Harder_merits_1997-02-18.md",
+      "authors": [
+        "Breyer"
+      ],
+      "sha256": "90abc9a61d5531638593bd491d45641d0f4e6c362e5e767d7b96cbe13271452f"
+    },
+    {
+      "date": "1997-02-18",
+      "case": "**Case and dockets:** United States v. Brockamp and United States v. Scott; No. 95-1225, one petition embracing Ninth Circuit judgments reported at 67 F.3d 260 and 70 F.3d 120.",
+      "file": "terms/OT1996/records/United_States_v_Brockamp_merits_1997-02-18.md",
+      "authors": [
+        "Breyer"
+      ],
+      "sha256": "25ccb98f15494e8f45fc9d76f89562bb0ffd28d8037aa4d630a6d968ba1399d3"
+    },
+    {
+      "date": "1997-02-19",
+      "case": "**Case and dockets:** Auer v. Robbins; No. 95-897.",
+      "file": "terms/OT1996/records/Auer_v_Robbins_merits_1997-02-19.md",
+      "authors": [
+        "Kennedy"
+      ],
+      "sha256": "c60da4ebe3ef7390d6c16c9c365d2e1dff1b95f033d44a96e0d7cc5ec3281e44"
+    },
+    {
+      "date": "1997-02-19",
+      "case": "**Case and dockets:** Lynce v. Mathis, No. 95-7452; October Term 1996, chunk 4, inventory No. 41.",
+      "file": "terms/OT1996/records/Lynce_v_Mathis_threshold_1997-02-19.md",
+      "authors": [
+        "Thomas"
+      ],
+      "sha256": "af33d7ca751e71cb268e864d9d6e3e92d1df5ff41084b8bb5d83c5057289eb96"
+    },
+    {
+      "date": "1997-02-19",
+      "case": "**Case and dockets:** Maryland v. Wilson; No. 95-1268; OT1996, chunk 4.",
+      "file": "terms/OT1996/records/Maryland_v_Wilson_merits_1997-02-19.md",
+      "authors": [
+        "Thomas"
+      ],
+      "sha256": "06b82c1356974b9774fd6a56744a2ca33b53bde62b0dcb945e2a40b5896cdf34"
+    },
+    {
+      "date": "1997-02-19",
+      "case": "**Case and dockets:** Regents of the University of California v. Doe; No. 95-1694; OT1996, chunk 4.",
+      "file": "terms/OT1996/records/Regents_v_Doe_merits_1997-02-19.md",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "sha256": "f29a474b26073b42ef3c3c15a05874cb607483ba14a9036a06747f803e1d2616"
+    },
+    {
+      "date": "1997-02-19",
+      "case": "**Case and dockets:** Schenck v. Pro-Choice Network of Western New York; No. 95-1065; OT1996, chunk 4.",
+      "file": "terms/OT1996/records/Schenck_v_Pro_Choice_Network_merits_1997-02-19.md",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "sha256": "467941525f107b9f5fcc8e7b4ee0a7c304862323fe19176b952e4d4af7bfb978"
+    },
+    {
+      "date": "1997-02-24",
+      "case": "**Case and dockets:** Brown v. Hot, Sexy & Safer Productions, Inc.; First Circuit No. 95-1275, 68 F.3d 525; no separate Supreme Court merits docket assigned; OT1996, chunk 4.",
+      "file": "terms/OT1996/records/Brown_v_Hot_Sexy_Safer_Productions_merits_1997-02-24.md",
+      "authors": [
+        "Ginsburg"
+      ],
+      "sha256": "561038c793e52baba7e5427424af3bad26ce43f6c1db9f8e2786e3adbd2d9d64"
+    },
+    {
+      "date": "1997-02-25",
+      "case": "**Case and dockets:** Dunn v. Commodity Futures Trading Commission; No. 95-1181.",
+      "file": "terms/OT1996/records/Dunn_v_CFTC_merits_1997-02-25.md",
+      "authors": [
+        "Scalia"
+      ],
+      "sha256": "4a9298aadec8d81481b655893aecf0a6335d82cd54a4e6cdde5eb0e1ad9c8ca6"
+    },
+    {
+      "date": "1997-02-26",
+      "case": "**Case and dockets:** Andrade v. Mayfair Management, Inc.; Fourth Circuit No. 95-2476; 88 F.3d 258.",
+      "file": "terms/OT1996/records/Andrade_v_Mayfair_Management_Inc_merits_1997-02-26.md",
+      "authors": [
+        "Breyer"
+      ],
+      "sha256": "ce78cd967a374668cf48fb6d545a6b8c1c6b115554de7ea095eafcda1f9d5ee4"
+    },
+    {
+      "date": "1997-02-26",
+      "case": "**Case and dockets:** In re Rhone-Poulenc Rorer; Seventh Circuit No. 94-3912; 51 F.3d 1293.",
+      "file": "terms/OT1996/records/In_re_Rhone_Poulenc_Rorer_merits_1997-02-26.md",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "sha256": "9ab8d9d5ff5828bd399e1d24d5079b1ef0e672146a5fcc8c005b5070bb0d5691"
+    },
+    {
+      "date": "1997-02-26",
+      "case": "**Case and dockets:** United States v. Wells; No. 95-1228; respondents Jerry E. Wells and Kenneth R. Steele.",
+      "file": "terms/OT1996/records/United_States_v_Wells_merits_1997-02-26.md",
+      "authors": [
+        "Thomas"
+      ],
+      "sha256": "5948e595b188d5db16bbc9e74e397da1c9b0af8329738b4cfce8cf1175964899"
+    },
+    {
+      "date": "1997-03-03",
+      "case": "**Case and dockets:** Arizonans for Official English v. Arizona; No. 95-974.",
+      "file": "terms/OT1996/records/Arizonans_for_Official_English_v_Arizona_merits_1997-03-03.md",
+      "authors": [
+        "Stevens"
+      ],
+      "sha256": "bf236f92a6bba6dd0dd2093efdda8af293cf66ff08e0a752e135374e40dad9d6"
+    },
+    {
+      "date": "1997-03-03",
+      "case": "**Case and dockets:** United States v. Gonzales; No. 95-1605.",
+      "file": "terms/OT1996/records/United_States_v_Gonzales_merits_1997-03-03.md",
+      "authors": [
+        "Kennedy"
+      ],
+      "sha256": "376c2be0a9f5b5d526ad355993b8feee16d5d3b4353224e8c111e34e378fd148"
+    },
+    {
+      "date": "1997-03-03",
+      "case": "**Case and dockets:** Warner-Jenkinson Co. v. Hilton Davis Chemical Co.; No. 95-728.",
+      "file": "terms/OT1996/records/Warner_Jenkinson_Co_v_Hilton_Davis_Chemical_Co_merits_1997-03-03.md",
+      "authors": [
+        "Ginsburg"
+      ],
+      "sha256": "c3c4bbb385ac38011e1a5cb487e2f6fa88c5541bd5471ce0294e3e78f2fcd81c"
+    },
+    {
+      "date": "1997-03-03",
+      "case": "**Case and dockets:** Wright v. MetroHealth Medical Center; Sixth Circuit No. 94-3548; 58 F.3d 1130.",
+      "file": "terms/OT1996/records/Wright_v_MetroHealth_Medical_Center_merits_1997-03-03.md",
+      "authors": [
+        "Breyer"
+      ],
+      "sha256": "6fbbdc1b31605ecf0e17456817bbd484648bc278f4037c360206bcedf067f0d0"
+    },
+    {
+      "date": "1997-03-10",
+      "case": "**Case and dockets:** Nabozny v. Podlesny; Seventh Circuit No. 95-3634, 92 F.3d 446; no separate Supreme Court merits docket supplied.",
+      "file": "terms/OT1996/records/Nabozny_v_Podlesny_merits_1997-03-10.md",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "sha256": "30ba386b7e69c906c683fca9146da092df1bf6e552a1dfc364073fa1c2e4b015"
+    },
+    {
+      "date": "1997-03-17",
+      "case": "**Case and dockets:** Brown v. Polk County; Eighth Circuit No. 93-3313, 61 F.3d 650 (en banc); no separate Supreme Court merits docket supplied.",
+      "file": "terms/OT1996/records/Brown_v_Polk_County_merits_1997-03-17.md",
+      "authors": [
+        "Stevens"
+      ],
+      "sha256": "2f0529c0f0e8e7314d0e92175ae4fd26780c6a6fea72c594d99cc38d66c4f58f"
+    },
+    {
+      "date": "1997-03-18",
+      "case": "**Case and dockets:** Commissioner v. Estate of Hubert; No. 95-1402.",
+      "file": "terms/OT1996/records/Commissioner_v_Estate_of_Hubert_merits_1997-03-18.md",
+      "authors": [
+        "Kennedy"
+      ],
+      "sha256": "beea4b0e55ba02dce67805f6841908142a1476d11495bdcc183c3c40a778be4c"
+    },
+    {
+      "date": "1997-03-18",
+      "case": "**Case and dockets:** Young v. Harper; No. 95-1598.",
+      "file": "terms/OT1996/records/Young_v_Harper_merits_1997-03-18.md",
+      "authors": [
+        "Breyer"
+      ],
+      "sha256": "85c52a781b47bde5a6c915411a6dad6b0b8f0cab006d4c02e1c2cd89b1574d2c"
+    },
+    {
+      "date": "1997-03-19",
+      "case": "**Case and dockets:** Bennett v. Spear; No. 95-813.",
+      "file": "terms/OT1996/records/Bennett_v_Spear_merits_1997-03-19.md",
+      "authors": [
+        "Scalia"
+      ],
+      "sha256": "e5051898e4835dbd8e8c1a966427e60b2f2b0209be93b7d00dadd1634db8ce18"
+    },
+    {
+      "date": "1997-03-19",
+      "case": "**Case and dockets:** Ingebretsen v. Jackson Public School District; court-of-appeals No. 94-60631.",
+      "file": "terms/OT1996/records/Ingebretsen_v_Jackson_Public_School_District_merits_1997-03-19.md",
+      "authors": [
+        "Ginsburg"
+      ],
+      "sha256": "a2d29359c05f7ee87ea4f3af8d150326b17fc3cc0632504767fb2a913972762a"
+    },
+    {
+      "date": "1997-03-19",
+      "case": "**Case and dockets:** Oncale v. Sundowner Offshore Services, Inc.; court-of-appeals No. 95-30510.",
+      "file": "terms/OT1996/records/Oncale_v_Sundowner_Offshore_Services_Inc_merits_1997-03-19.md",
+      "authors": [
+        "Thomas"
+      ],
+      "sha256": "9e0e918b9862284dcc94996e9f8c93416802e1d680312f470bbefd9e3780aa36"
+    },
+    {
+      "date": "1997-03-31",
+      "case": "**Case and dockets:** Robinson v. City of Edmond; lower-court Nos. 94-6237 and 95-6008.",
+      "file": "terms/OT1996/records/Robinson_v_City_of_Edmond_merits_1997-03-31.md",
+      "authors": [
+        "Breyer"
+      ],
+      "sha256": "bf951b65b228ce82746288842678775bf5bb47f0a3445dde529efac176e645aa"
+    },
+    {
+      "date": "1997-03-31",
+      "case": "**Case and dockets:** Turner Broadcasting System, Inc. v. Federal Communications Commission; No. 95-992.",
+      "file": "terms/OT1996/records/Turner_Broadcasting_System_Inc_v_FCC_merits_1997-03-31.md",
+      "authors": [
+        "Kennedy"
+      ],
+      "sha256": "e65c5bc0450829db989e3377a54815f2a13f8686ac5ef4dd7825fa4f43b084e0"
+    },
+    {
+      "date": "1997-03-31",
+      "case": "**Case and dockets:** United States v. Lanier; No. 95-1717.",
+      "file": "terms/OT1996/records/United_States_v_Lanier_merits_1997-03-31.md",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "sha256": "efb3d9c55b975982e19c2b4a90193f005cd17631bb6fe41f09ae6dc58872e7ef"
+    },
+    {
+      "date": "1997-03-31",
+      "case": "**Case and dockets:** Young v. Fordice; No. 95-2031.",
+      "file": "terms/OT1996/records/Young_v_Fordice_merits_1997-03-31.md",
+      "authors": [
+        "Stevens"
+      ],
+      "sha256": "f423b5970f1ce063fbce1ba56b9975b66e9c336f466a6235c1e1a46cf75ad151"
+    },
+    {
+      "date": "1997-04-07",
+      "case": "**Case and dockets:** Opuku-Boateng v. California; Ninth Circuit No. 94-16542, 95 F.3d 1461; separate Supreme Court docket unassigned",
+      "file": "terms/OT1996/records/Opuku_Boateng_v_California_merits_1997-04-07.md",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "sha256": "d6b066c0b92709dc743e5f80f4d37bc2a55d5f6b34915f2da757ae62a46b784f"
+    },
+    {
+      "date": "1997-04-15",
+      "case": "**Case and dockets:** Chandler v. Miller, No. 96-126",
+      "file": "terms/OT1996/records/Chandler_v_Miller_merits_1997-04-15.md",
+      "authors": [
+        "Scalia"
+      ],
+      "sha256": "6120bfed9b5c5d5ddcf3012842ed4cc2d29095c0891d9cd42b56e14088591417"
+    },
+    {
+      "date": "1997-04-21",
+      "case": "**Case and dockets:** Blessing v. Freestone, No. 95-1441",
+      "file": "terms/OT1996/records/Blessing_v_Freestone_merits_1997-04-21.md",
+      "authors": [
+        "Stevens"
+      ],
+      "sha256": "7e7656add818802490b663ac3a74336165908abe515b42760eab76bb0dd33826"
+    },
+    {
+      "date": "1997-04-21",
+      "case": "**Case and dockets:** Kadic v. Karadzic; Doe v. Karadzic; Second Circuit Nos. 94-9035 and 94-9069.",
+      "file": "terms/OT1996/records/Kadic_and_Doe_v_Karadzic_merits_1997-04-21.md",
+      "authors": [
+        "Ginsburg"
+      ],
+      "sha256": "2cb6e3e47630c915feba62ea231acf8f42cd7d4587164a1d585767c9281908e9"
+    },
+    {
+      "date": "1997-04-21",
+      "case": "**Case and dockets:** Metropolitan Life Insurance Co. v. Robertson-Ceco Corp.; Second Circuit No. 95-7370; companion petition identifiers 96-306 and 96-472.",
+      "file": "terms/OT1996/records/Metropolitan_Life_v_Robertson_Ceco_merits_1997-04-21.md",
+      "authors": [
+        "Thomas"
+      ],
+      "sha256": "eb3da42dde5a7744221e9a1266183bcd36506c9beb5426197f865adaf3025f8c"
+    },
+    {
+      "date": "1997-04-21",
+      "case": "**Case and dockets:** New Mexico Department of Human Services v. Joseph A. and Josephine A.; Tenth Circuit No. 94-2160, 69 F.3d 1081; separate Supreme Court docket unassigned",
+      "file": "terms/OT1996/records/New_Mexico_Department_of_Human_Services_v_Joseph_A_merits_1997-04-21.md",
+      "authors": [
+        "Thomas"
+      ],
+      "sha256": "c7f1788013e00cd934d7789efb6cf6dacc685f77e78e5c8c4507fe5ef6813637"
+    },
+    {
+      "date": "1997-04-28",
+      "case": "**Case and dockets:** Pic-A-State Pennsylvania, Inc. v. Reno; Third Circuit No. 95-7137; no separate Supreme Court docket assigned.",
+      "file": "terms/OT1996/records/Pic_A_State_Pennsylvania_v_Reno_merits_1997-04-28.md",
+      "authors": [
+        "Kennedy"
+      ],
+      "sha256": "89778f80cc4456490f32aab58123b609c20e2783a8a35569c7458ec7c4bf26f0"
+    },
+    {
+      "date": "1997-04-28",
+      "case": "**Case and dockets:** Richards v. Wisconsin; No. 96-5955.",
+      "file": "terms/OT1996/records/Richards_v_Wisconsin_merits_1997-04-28.md",
+      "authors": [
+        "Breyer"
+      ],
+      "sha256": "a9c3efc1ee4a0511b228d0a8cb7e4414b964ca9c733ec257214f653892bebc7e"
+    },
+    {
+      "date": "1997-04-28",
+      "case": "**Case and dockets:** Strate v. A-1 Contractors; No. 95-1872.",
+      "file": "terms/OT1996/records/Strate_v_A_1_Contractors_merits_1997-04-28.md",
+      "authors": [
+        "Scalia"
+      ],
+      "sha256": "8478316af7436aecd03f5a3ce922153244d6d8c58b96d450dcb2e6db60e68bd3"
+    },
+    {
+      "date": "1997-04-28",
+      "case": "**Case and dockets:** Timmons v. Twin Cities Area New Party; No. 95-1608.",
+      "file": "terms/OT1996/records/Timmons_v_Twin_Cities_Area_New_Party_merits_1997-04-28.md",
+      "authors": [
+        "Thomas"
+      ],
+      "sha256": "80a8b84cf5a2fe60ffe8bc8c9ab96a14c067093b720080e1f7319155fa38c1b0"
+    },
+    {
+      "date": "1997-05-05",
+      "case": "**Case and dockets:** Doe v. Southeastern Pennsylvania Transportation Authority; Third Circuit No. 95-1559; no separate Supreme Court merits docket supplied.",
+      "file": "terms/OT1996/records/Doe_v_SEPTA_merits_1997-05-05.md",
+      "authors": [
+        "Kennedy"
+      ],
+      "sha256": "92decfc9ad476f26d3d4d01d581feee5e0883bc1369c21c83197732a621d35fb"
+    },
+    {
+      "date": "1997-05-12",
+      "case": "**Case and dockets:** Harbor Tug & Barge Co. v. Papai; No. 95-1621; OT1996, chunk 7, matter 80.",
+      "file": "terms/OT1996/records/Harbor_Tug_and_Barge_v_Papai_merits_1997-05-12.md",
+      "authors": [
+        "Souter"
+      ],
+      "sha256": "30be8ea0502c98db23c1ec3ab6b856d6f8fef6838930a28873d75c367ffe4ea7"
+    },
+    {
+      "date": "1997-05-12",
+      "case": "**Case and dockets:** Inter-Modal Rail Employees Association v. Atchison, Topeka & Santa Fe Railway Co.; No. 96-491; OT1996, chunk 7, matter 81.",
+      "file": "terms/OT1996/records/Inter_Modal_Rail_Employees_v_Atchison_merits_1997-05-12.md",
+      "authors": [
+        "Ginsburg"
+      ],
+      "sha256": "9bb23e5bcfbc9f6bf3669916fb8973989dcd183bc56722707041736933ed73f3"
+    },
+    {
+      "date": "1997-05-12",
+      "case": "**Case and dockets:** Johnson v. United States; No. 96-203; OT1996, chunk 7, matter 82.",
+      "file": "terms/OT1996/records/Johnson_v_United_States_merits_1997-05-12.md",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "sha256": "57c37b024f1ddde41b5fdc7bb18da303d1f27689caff2f3aa40b55c659ec814f"
+    },
+    {
+      "date": "1997-05-12",
+      "case": "**Case and dockets:** Lambrix v. Singletary; No. 96-5658; OT1996, chunk 7, matter 83.",
+      "file": "terms/OT1996/records/Lambrix_v_Singletary_merits_1997-05-12.md",
+      "authors": [
+        "Stevens"
+      ],
+      "sha256": "dcac44374c15198571269c8a503fa8b6edfd01567dd3f59354eabfbb53f71dc7"
+    },
+    {
+      "date": "1997-05-12",
+      "case": "**Case and dockets:** Reno v. Bossier Parish School Board; Price v. Bossier Parish School Board; Nos. 95-1455 and 95-1508.",
+      "file": "terms/OT1996/records/Reno_v_Bossier_Parish_School_Board_merits_1997-05-12.md",
+      "authors": [
+        "Breyer"
+      ],
+      "sha256": "1c688a3db3e31b51d59fcb10d013809f9bc1af47ae6fb8634fc75efc9e388d73"
+    },
+    {
+      "date": "1997-05-12",
+      "case": "**Case and dockets:** Reyes-Hernandez v. INS; Seventh Circuit No. 95-3677, 89 F.3d 490; Supreme Court docket unassigned.",
+      "file": "terms/OT1996/records/Reyes_Hernandez_v_INS_merits_1997-05-12.md",
+      "authors": [
+        "Stevens"
+      ],
+      "sha256": "d215a1d46bc192661644e7a519464ced6c13e8f1c1270d49edda690ead6d3a36"
+    },
+    {
+      "date": "1997-05-12",
+      "case": "**Case and dockets:** United States v. Ortiz; United States v. Hurtado; Seventh Circuit Nos. 95-1386 and 95-1869, 84 F.3d 977; Supreme Court dockets unassigned.",
+      "file": "terms/OT1996/records/United_States_v_Ortiz_and_Hurtado_merits_1997-05-12.md",
+      "authors": [
+        "Kennedy"
+      ],
+      "sha256": "d466406b2b22ef22435a9ad13b67b6bf509d8c5253dd40e70174857a7e0cd03a"
+    },
+    {
+      "date": "1997-05-19",
+      "case": "**Case and dockets:** Camps Newfound/Owatonna, Inc. v. Town of Harrison; No. 94-1988.",
+      "file": "terms/OT1996/records/Camps_Newfound_Owatonna_v_Town_of_Harrison_merits_1997-05-19.md",
+      "authors": [
+        "Breyer"
+      ],
+      "sha256": "5f11898aac5b6eb0949bf876a90a545e50d1cb4b6dd55ed2b97166963b97e40c"
+    },
+    {
+      "date": "1997-05-19",
+      "case": "**Case and dockets:** Edmond v. United States; No. 96-262, including Lazenby, Leaver, Leonard, Nichols and Venable under Rule 12.4.",
+      "file": "terms/OT1996/records/Edmond_v_United_States_merits_1997-05-19.md",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "sha256": "42eb2293133ed530f80eabd022487dba03d3f4b2fe211452f0520d0b17a65138"
+    },
+    {
+      "date": "1997-05-19",
+      "case": "**Case and dockets:** Edwards v. Balisok; No. 95-1352.",
+      "file": "terms/OT1996/records/Edwards_v_Balisok_merits_1997-05-19.md",
+      "authors": [
+        "Scalia"
+      ],
+      "sha256": "063e62072ba4756f451be5a50f09e937619b6a5528d5b49c16bbc67144685c26"
+    },
+    {
+      "date": "1997-05-19",
+      "case": "**Case and dockets:** United States v. Thomas; Sixth Circuit Nos. 94-6648 and 94-6649, 74 F.3d 701; no separate Supreme Court docket assigned. OT1996, chunk 8, inventory No. 90.",
+      "file": "terms/OT1996/records/United_States_v_Thomas_merits_1997-05-19.md",
+      "authors": [
+        "Ginsburg"
+      ],
+      "sha256": "7997da5f80d720825b685e6feb53624ba660dad14f5a893d0591082acb58692e"
+    },
+    {
+      "date": "1997-05-27",
+      "case": "**Case and dockets:** Ayeni v. Mottola; 35 F.3d 680 (2d Cir. 1994); Second Circuit Nos. 94-6041(L), 94-6047; Supreme Court No. 94-1202 (Mottola v. Ayeni)",
+      "file": "terms/OT1996/records/Ayeni_v_Mottola_merits_1997-05-27.md",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "sha256": "7cbe3901d82dda7021199e27a20ab2833bbd04a1269c3386df79d9908a744a1f"
+    },
+    {
+      "date": "1997-05-27",
+      "case": "**Case and dockets:** Church on the Rock v. City of Albuquerque; Tenth Circuit No. 95-2009, 84 F.3d 1273; no separate Supreme Court docket assigned. OT1996, chunk 8, inventory No. 91.",
+      "file": "terms/OT1996/records/Church_on_the_Rock_v_City_of_Albuquerque_merits_1997-05-27.md",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "sha256": "96220fe6f52b9bb8ab1be40bd877cbbe2b6899ed1f5bfafb91d07fa20a62566e"
+    },
+    {
+      "date": "1997-05-27",
+      "case": "**Case and dockets:** Clinton v. Jones; No. 95-1853; 520 U.S. 681 (1997).",
+      "file": "terms/OT1996/records/Clinton_v_Jones_merits_1997-05-27.md",
+      "authors": [
+        "Scalia"
+      ],
+      "sha256": "640c886686d7d66dafecffdd5eb9e0c7aa6159825561546b8bb36caff97e129c"
+    },
+    {
+      "date": "1997-05-27",
+      "case": "**Case and dockets:** CompuServe, Inc. v. Patterson; 89 F.3d 1257 (6th Cir. 1996); Sixth Circuit No. 95-3452",
+      "file": "terms/OT1996/records/CompuServe_Inc_v_Patterson_merits_1997-05-27.md",
+      "authors": [
+        "Thomas"
+      ],
+      "sha256": "a0c38fb691166511eea8d9b0186f1322db9959dc364624b7e3f3e6d641aa59f9"
+    },
+    {
+      "date": "1997-05-27",
+      "case": "**Case and dockets:** Hincapie-Nieto v. INS; 92 F.3d 27 (2d Cir. 1996); Second Circuit No. 96-4022",
+      "file": "terms/OT1996/records/Hincapie_Nieto_v_INS_merits_1997-05-27.md",
+      "authors": [
+        "O'Connor"
+      ],
+      "sha256": "20e70024bfd4e6e3e04b70fcb2658e7f52da4a5af13c2befce621b3394630339"
+    },
+    {
+      "date": "1997-05-27",
+      "case": "**Case and dockets:** Kinman v. Omaha Public School District; 94 F.3d 463 (8th Cir. 1996); Eighth Circuit No. 95-2809",
+      "file": "terms/OT1996/records/Kinman_v_Omaha_Public_School_District_merits_1997-05-27.md",
+      "authors": [
+        "Stone-Zsela",
+        "Ginsburg"
+      ],
+      "sha256": "1604c6924bf00c992ee8749a0f92b4b0b979c5163eccbc005cafb31e14fa0277"
+    },
+    {
+      "date": "1997-05-27",
+      "case": "**Case and dockets:** Suitum v. Tahoe Regional Planning Agency; No. 96-243. OT1996, chunk 8, inventory No. 93.",
+      "file": "terms/OT1996/records/Suitum_v_Tahoe_Regional_Planning_Agency_merits_1997-05-27.md",
+      "authors": [
+        "Thomas"
+      ],
+      "sha256": "4042c59c8e59e5ad5a9ff1516cb88fbb6b30415ffb95e83e90fe169a08c5b10b"
+    },
+    {
+      "date": "1997-05-27",
+      "case": "**Case and dockets:** United States v. Hyde; No. 96-667. OT1996, chunk 8, inventory No. 94.",
+      "file": "terms/OT1996/records/United_States_v_Hyde_merits_1997-05-27.md",
+      "authors": [
+        "O'Connor"
+      ],
+      "sha256": "cdfda2a8f903e16d5de388c3b9a5af0e4db666f6f037a5037c8d527c3b07d6fa"
+    },
+    {
+      "date": "1997-05-27",
+      "case": "**Case and dockets:** United States v. LaBonte; No. 95-1726; respondents George LaBonte, Alfred Lawrence Hunnewell and Stephen Dyer. OT1996, chunk 8, inventory No. 95.",
+      "file": "terms/OT1996/records/United_States_v_LaBonte_merits_1997-05-27.md",
+      "authors": [
+        "Kennedy"
+      ],
+      "sha256": "d0c07db2841c12ab551894e30bcb5e939a87526aaa0de71370095305ecdeffb4"
+    },
+    {
+      "date": "1997-05-27",
+      "case": "**Case and dockets:** Vitronics Corp. v. Conceptronic, Inc.; 90 F.3d 1576 (Fed. Cir. 1996); Federal Circuit No. 96-1058; Patent 4,654,502, claim 1",
+      "file": "terms/OT1996/records/Vitronics_Corp_v_Conceptronic_Inc_merits_1997-05-27.md",
+      "authors": [
+        "Souter"
+      ],
+      "sha256": "5a23820e2de66b4669edb4e5fa1d8515f47e42f6f9e19deacf4a4a8deccfbf2f"
+    },
+    {
+      "date": "1997-06-02",
+      "case": "**Case and dockets:** Arkansas v. Farm Credit Services of Central Arkansas; No. 95-1918; 76 F.3d 961 (8th Cir. 1996)",
+      "file": "terms/OT1996/records/Arkansas_v_Farm_Credit_Services_of_Central_Arkansas_merits_1997-06-02.md",
+      "authors": [
+        "Breyer"
+      ],
+      "sha256": "73d03054aae9cbfcf7e9f6142aaefc762c69d0ee2b437d7992a59b4092875b15"
+    }
+  ],
+  "excluded": [
+    {
+      "file": "terms/OT1996/records/Adams_v_Robertson_DIG_1997-03-03.md",
+      "event": "**Event and date:** Dismissal of certiorari after argument; 1997-03-03; OT1996, chunk 5, inventory 50."
+    },
+    {
+      "file": "terms/OT1996/records/Bibles_v_Oregon_Natural_Desert_Association_summary_review_1997-02-18.md",
+      "event": "**Event and date:** Reasoned summary merits disposition; 1997-02-18."
+    },
+    {
+      "file": "terms/OT1996/records/Board_of_County_Commissioners_of_Bryan_County_v_Brown_reargument_1997-04-28.md",
+      "event": "**Event and date:** Reargument order, 1997-04-28; October Term 1996, chunk 7, matter 74."
+    },
+    {
+      "file": "terms/OT1996/records/California_v_Roy_summary_review_1996-11-04.md",
+      "event": "**Event and date:** Summary merits disposition, 1996-11-04; certiorari granted, judgment vacated and remanded."
+    },
+    {
+      "file": "terms/OT1996/records/Ehrlich_v_City_of_Culver_City_DIG_1997-02-18.md",
+      "event": "**Event and date:** Dismissal of writ of certiorari as improvidently granted; 1997-02-18."
+    },
+    {
+      "file": "terms/OT1996/records/Greene_v_Georgia_summary_review_1996-12-16.md",
+      "event": "**Event and date:** 1996-12-16; October Term 1996, chunk 2."
+    },
+    {
+      "file": "terms/OT1996/records/Grimmett_v_Brown_certiorari_dismissal_1997-01-14.md",
+      "event": "**Event and date:** Dismissal of certiorari as improvidently granted — 1997-01-14; October Term 1996, chunk 2."
+    },
+    {
+      "file": "terms/OT1996/records/IIRIRA_Review_Transition_Admitted_Source_1996-09-30.md",
+      "event": "**Event and date:** Admitted statutory review-and-transition source; effective 1996-09-30; technical correction enacted October 11, 1996."
+    },
+    {
+      "file": "terms/OT1996/records/IIRIRA_Section_633_Admitted_Source_1996-09-30.md",
+      "event": "**Event and date:** Admitted noncase statutory source; 1996-09-30."
+    },
+    {
+      "file": "terms/OT1996/records/In_re_Gaydos_filing_and_writ_disposition_1996-12-02.md",
+      "event": "**Event and date:** Financial-leave and extraordinary-writ disposition; 1996-12-02; October Term 1996, chunk 1."
+    },
+    {
+      "file": "terms/OT1996/records/In_re_Vey_financial_leave_1997-04-14.md",
+      "event": "**Event and date:** Financial-leave and prospective-filing-control decision; 1997-04-14; no oral argument or plenary merits submission is established."
+    },
+    {
+      "file": "terms/OT1996/records/Lambert_v_Wicklund_summary_review_1997-03-31.md",
+      "event": "**Event and date:** Summary review; 1997-03-31; OT1996, chunk 6."
+    },
+    {
+      "file": "terms/OT1996/records/Minnesota_Chapter_419_Admitted_Source_1996-04-02.md",
+      "event": "**Event and date:** Admitted noncase enactment; 1996-04-02; operative election scope begins with the 1996 state primary, subject to section 10."
+    },
+    {
+      "file": "terms/OT1996/records/United_States_v_Jose_summary_review_1996-12-02.md",
+      "event": "**Event and date:** Summary appellate disposition; 1996-12-02; October Term 1996, chunk 1."
+    },
+    {
+      "file": "terms/OT1996/records/Watts_and_Putra_summary_review_1997-01-06.md",
+      "event": "**Event and date:** Summary review, 1997-01-06; October Term 1996, chunk 2, matter 18."
+    }
+  ],
+  "no_git_command": true
+}

@@ -1,0 +1,163 @@
+{
+  "status": "assembly deterministic checks passed; independent substantive review and root integration separate",
+  "event": "Boggs v. Boggs, 1997-06-02",
+  "date_written": "2026-10-18",
+  "record": "terms/OT1996/records/Boggs_v_Boggs_merits_1997-06-02.md",
+  "record_sha256": "df93bd8ad412cd080a7f79f98b8670986e2a8c38db3dba1d44c990519032133e",
+  "research_cutoff": "1997-06-02 immediately before decision",
+  "frozen_inputs_unchanged": {
+    "OT_1996CHUNK9_NEUTRAL_102_VALIDATED.md": "79eca8dbad2bba6b619169fe9ec9b19e4bf3a2bb8c0f166530840a016c7a788a",
+    "OT_1996CHUNK9_COMMITMENTS_102.md": "6f1c1fa470fbecaa533788ee95ff38952e3556439cdd889f4aebd91a6ead7e23",
+    "OT_1996CHUNK9_COMMITMENTS_102_CLAIM_SCOPE_ADDENDUM.md": "6890dce6c69c2165ad81313f2cf93e9469e42b0dce230dcff6442ae1c3c4e7a9",
+    "OT_1996CHUNK9_RECONCILED_102.md": "928dcc2910df1d4175fda71201ef118cfdcac53991bc15c0290d12d818e28940"
+  },
+  "scoped_stone_sha256": "89cd3bba59370c54adb887ab256b413dabf72b98f3848db7b11c98761d253558",
+  "source_copy_receipt": "OT_1996CHUNK9_102_V2_STONE_COPY_RECEIPT.json",
+  "approved_version": "October 18 Version 2; residual draft line and superseded claim sentence do not change explicit revision",
+  "judgment_coalitions": {
+    "J": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "S": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "P": [
+      "Stevens",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas"
+    ],
+    "I": [
+      "Stevens",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas"
+    ],
+    "E": [
+      "Stevens",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas"
+    ],
+    "fees": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ]
+  },
+  "direct_opinion_joins": {
+    "J": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "S": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "P": [
+      "Stevens",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas"
+    ],
+    "I": [
+      "Stevens",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas"
+    ],
+    "E": [
+      "Stevens",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas"
+    ],
+    "fees": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ]
+  },
+  "stone_fallback": [
+    "federal adjudicative route: disposition only",
+    "ancillary fee disposition: disposition only"
+  ],
+  "associate_commitment_changes_at_assembly": [],
+  "all_eleven_public_blocks_identical_to_internal": true,
+  "explanation_word_counts": [
+    76,
+    167,
+    246,
+    43
+  ],
+  "projection_public_boundary_scan": true,
+  "encoding_check": true,
+  "local_link_checks": [
+    "terms/OT1996/entering-law/OT_1996CHUNK9_102_103.md",
+    "terms/OT1996/freeze/OT_1996CHUNK9_102_ASSEMBLY_STOPPED.md",
+    "terms/OT1996/freeze/OT_1996CHUNK9_102_V2_ASSEMBLY_VALIDATION.json",
+    "terms/OT1996/freeze/OT_1996CHUNK9_102_V2_ASSIGNMENT_EXTRACT.json",
+    "terms/OT1996/freeze/OT_1996CHUNK9_102_V2_ASSIGNMENT_RECOUNT.json",
+    "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_102.md",
+    "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_102_CLAIM_SCOPE_ADDENDUM.md",
+    "terms/OT1996/freeze/OT_1996CHUNK9_NEUTRAL_102_VALIDATED.md",
+    "terms/OT1996/freeze/OT_1996CHUNK9_RECONCILED_102.md",
+    "terms/OT1996/runtime/OT_1996CHUNK9_102_STONE.md"
+  ],
+  "assignment_recount": "OT_1996CHUNK9_102_V2_ASSIGNMENT_RECOUNT.json",
+  "checks_not_claimed": [
+    "Git object verification",
+    "repository commit",
+    "workspace integration",
+    "generated chunk Render Input",
+    "check_term"
+  ],
+  "no_git_command": true,
+  "no_forbidden_directory_access": true
+}

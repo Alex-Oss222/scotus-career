@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "protected_files_checked": 178,
+  "changed_existing_baseline_files": [
+    "terms/OT1996/workspace/continuity.md",
+    "terms/OT1996/workspace/ledger.md",
+    "terms/OT1996/workspace/manifest.md",
+    "terms/OT1996/workspace/neutral-projection.md"
+  ],
+  "unchanged_prior_records": 108,
+  "added_record": "Boggs_v_Boggs_merits_1997-06-02.md",
+  "total_records": 109,
+  "inventory_events": 153,
+  "chunk9_events": 11,
+  "unchanged_other_chunk9_projections": 10,
+  "local_links_checked": 27,
+  "errors": [],
+  "git_commands_executed": 0,
+  "git_verification": "Deferred to operator under explicit instruction; no existence claim."
+}
