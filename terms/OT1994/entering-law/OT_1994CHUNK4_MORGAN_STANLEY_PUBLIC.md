@@ -34,7 +34,7 @@ Chief Justice Stone-Zsela delivers the Opinion of the Court, joined in full by B
 
 Section 27A(b) supplies a new rule for a defined class of limitations dismissals following Lampf. Congress identifies the filing period, the intervening time-bar dismissal, the former limitations law and a short period for seeking relief. Courts determine those predicates. Congress has found no fraud, reliance, injury or damages and has prescribed no defendant's liability. Once the predicates are established, reinstatement is mandatory. Its validity does not depend on judicial discretion to withhold relief.
 
-**Authority:** Thomas's Opinion of the Court is joined by Stone-Zsela, Scalia, Kennedy and Souter. Five participating Justices directly join this as-applied Article III rule and the limited remedy.
+**Authority:** Chief Justice Stone-Zsela's Opinion of the Court is joined in full by Blackmun, Stevens, Souter and Ginsburg. These five direct joins control the rule, explanation, qualifications and remedy; no combination of separate rationales is necessary.
 
 Landgraf and Rivers distinguish an express temporal command from an inference about statutory reach; express reach does not itself settle constitutionality. Harper's rule for still-open direct review and Beam's protection of finality against later judicial doctrine do not establish that Congress can never enact this confined remedy. Chase Securities concerns due-process revival and does not independently resolve Article III. The courts retain the essential work of adjudication under the new law.
 

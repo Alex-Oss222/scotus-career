@@ -454,44 +454,40 @@
       "components": [
         {
           "component": "Section 27A(b) reinstatement of final private dismissal",
-          "vote": "7\u20132",
+          "vote": "5\u20134",
           "support": [
             "Stone",
-            "O'Connor",
-            "Scalia",
-            "Kennedy",
+            "Stevens",
             "Souter",
-            "Thomas",
+            "Ginsburg",
             "Breyer"
           ],
           "oppose": [
-            "Stevens",
-            "Ginsburg"
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Thomas"
           ]
         }
       ],
       "Court_opinion_supporters": [
-        "Thomas",
         "Stone",
-        "O'Connor",
-        "Scalia",
-        "Kennedy",
+        "Stevens",
         "Souter",
+        "Ginsburg",
         "Breyer"
       ],
       "Court_opinion_portions": [
         {
           "portion": "Opinion of the Court",
           "supporters": [
-            "Thomas",
             "Stone",
-            "O'Connor",
-            "Scalia",
-            "Kennedy",
+            "Stevens",
             "Souter",
+            "Ginsburg",
             "Breyer"
           ],
-          "scope": "Complete confined Morgan Stanley application; seven rationale votes."
+          "scope": "Complete bounded Morgan Stanley reinstatement application; five rationale votes."
         }
       ]
     },

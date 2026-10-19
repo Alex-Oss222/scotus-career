@@ -4,7 +4,7 @@
 
 **Released:** The actual intervening public law does not change any judgment, component ground, rationale coalition, join barrier, or remedy in the operative reconciliations identified below. This confirmation supplements those immutable handoffs; it does not replace them with the independent model's unreconciled positions. In particular, the three Jefferson Lines corrections, Scalia's Freightliner judgment-only boundary, and Plaut's confined Morgan Stanley rationale remain operative.
 
-The independent chronology receipt for matters 42–46 was explicitly released by the coordinating context before this handoff was written. Its runtime and frozen copies were verified identical at SHA256 `2881FB801D8847A3D4257CAC1266B9B13794FED6EFA57080976A351D60A3EEF1`. The earlier receipts were also read completely and their runtime/freeze identity verified:
+The independent chronology receipt for matters 42–46 was explicitly released by the coordinating context before this handoff was written. Its runtime and frozen copies were verified identical at SHA256 `C6F88F82701472DFC565989BC67594D3DCA3AE48B2BD4D5D3B88F088EA8CAB93`. The earlier receipts were also read completely and their runtime/freeze identity verified:
 
 - `OT_1994CHUNK4_CHRONOLOGY_39.md`: `493F75E451055E878F21289F4860BDAA9A7D6C8740038A33734BA08AAD742495`.
 - `OT_1994CHUNK4_CHRONOLOGY_40.md`: `08754AC8B84188BFD1CF84A29232900B5C869A18AA301C39A3F7BA2A1AC5FF62`.
@@ -53,9 +53,9 @@ All five tax components and the local-sale/local-origin limits remain as reconci
 
 ### 42. Plaut
 
-O'Connor, Scalia, Kennedy, Souter, Thomas, and Breyer retain affirmance through the existing confined Morgan Stanley rule. Stevens and Ginsburg retain their express proposal to reconsider that controlling rule and reinstate the action without deciding fraud. Breyer's direct join remains limited to applying the actual narrow precedent, rather than the historical absolute proposition he did not join. O'Connor's analogous breadth boundary also remains.
+Stevens, Souter, Ginsburg, and Breyer retain reversal through the governing Morgan Stanley rule and join the Court's rationale in full. O'Connor, Scalia, Kennedy, and Thomas retain affirmance and join Scalia's dissent in full, with no join in the Court's opinion. The four reversal supporters accept mandatory reinstatement, independent eligibility and merits adjudication, the response to narrow retrospective coverage, and the stated constitutional limits.
 
-Jefferson Lines concerns pending appellate review and ordinary bankruptcy treatment of live tax claims; it supplies no rule compelling reopening of a completed private judgment. The PVPA transition neither reopens this securities judgment nor displaces Morgan Stanley. Its prospective and transition operation is not a factual distinction from the already considered §27A(b) command. The actual public tax joins create no changed Article III position for any associate. The previously recorded historical rationale departure for Breyer remains supported by the same prior simulated precedent and narrow opinion scope; chronology adds no new departure.
+Jefferson Lines concerns pending appellate review and ordinary bankruptcy treatment of live tax claims; it supplies no rule compelling reopening of a completed private judgment. The PVPA transition neither reopens this securities judgment nor displaces Morgan Stanley. Its prospective and transition operation is not a factual distinction from the already considered §27A(b) command. The actual public tax joins create no changed Article III position for any associate. Souter's and Breyer's historical judgment departures remain supported by Morgan Stanley's governing rule and their individual grounds: Souter's statutory-entitlement distinction and Breyer's acceptance of the safeguards retaining neutral judicial adjudication; chronology supplies no different premise.
 
 All reserved categories remain reserved, including direct review, prospective decrees, lawful judicial reopening, sovereign waiver, subsection (a), severability, due process, and fraud merits. No absolute finality proposition is added.
 

@@ -123,11 +123,11 @@ Derived reading copy only. The cited state files and effective current-term Reco
 
 **Authority by component:**
 
-- Final private judgment and the limited reinstatement command: [Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co — Congress may not command reopening of this completed private federal judgment](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md#public-projection), 1994-05-23. Thomas's Opinion of the Court is joined by Stone-Zsela, Scalia, Kennedy and Souter. Five participating Justices directly join this as-applied Article III rule and the limited remedy; no aggregation of separate rationales is necessary.
+- Final private judgment and the limited reinstatement command: [Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co — Bounded statutory reinstatement of completed securities limitations dismissals](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md#public-projection), 1994-05-23. Chief Justice Stone-Zsela's Opinion of the Court is joined in full by Blackmun, Stevens, Souter and Ginsburg. These five direct joins control the rule, explanation, qualifications and remedy; no combination of separate rationales is necessary.
 
 **Present operation effective:** Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994.
 
-**Holdings navigation:** [Congress may not command reopening of this completed private federal judgment](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#congress-may-not-command-reopening-of-this-completed-private-federal-judgment).
+**Holdings navigation:** [Bounded statutory reinstatement of completed securities limitations dismissals](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#bounded-statutory-reinstatement-of-completed-securities-limitations-dismissals).
 
 ## Standards and Tests selection: Statutory temporal reach
 
